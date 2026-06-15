@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-nisyros-mandraki-cities-v2",
+  "anchor": {
+    "name": "Nisyros (Mandraki)",
+    "coords": [
+      27.16,
+      36.586
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Minoisches Heiligtum",
+            "hu": "Mínoszi szentély",
+            "ro": "Sanctuarul minoic",
+            "en": "Minoan sanctuary"
+          },
+          "coords": [
+            27.161782,
+            36.594648
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen dieser heiligen Stätte, die die frühe nisyrische Geschichte widerspiegelt, und kommen Sie früh, um die Steine ohne starke Schatten zu fotografieren.",
+            "hu": "Fedezze fel e szent hely ősi romjait, amelyek a korai niszüroszi történelmet tükrözik, és érkezzen korán, hogy az árnyékok nélkül fényképezhesse le a köveket.",
+            "ro": "Explorați ruinele antice ale acestui sit sacru care reflectă istoria timpurie a Nisyrosului și sosiți devreme pentru a fotografia pietrele fără umbre puternice.",
+            "en": "Explore the ancient ruins of this sacred site, reflecting early Nisyrian history, and arrive early to photograph the stones without strong shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Kapelle",
+            "hu": "Történelmi kápolna",
+            "ro": "Capelă istorică",
+            "en": "Chappelle"
+          },
+          "coords": [
+            27.157122,
+            36.602769
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieser abgelegenen historischen Kapelle und tragen Sie feste Schuhe für den unebenen Felsweg zu ihrem Eingang.",
+            "hu": "Csodálja meg e félreeső történelmi kápolna hagyományos építészetét, és viseljen masszív cipőt a bejáratához vezető kissé egyenetlen sziklás ösvényen.",
+            "ro": "Admirați arhitectura tradițională a acestei capele istorice izolate și purtați încălțăminte solidă pentru poteca stâncoasă ușor accidentată care duce la intrare.",
+            "en": "Admire the charming traditional architecture of this secluded historic chapel, and wear sturdy shoes for the slightly uneven rocky path leading to its entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Profiti Ilias Aussicht",
+            "hu": "Profiti Ilias kilátó",
+            "ro": "Punct de belvedere Profiti Ilias",
+            "en": "Profiti Ilias view"
+          },
+          "coords": [
+            27.166271,
+            36.603961
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem erhöhten Aussichtspunkt den weiten Panoramablick auf die Ägäis und bringen Sie ein Fernglas mit, um die benachbarten Dodekanes-Inseln zu erspähen.",
+            "hu": "Élvezze az Égei-tengerre nyíló panorámát ebből a magasan fekvő kilátóból, és mindenképpen hozzon magával távcsövet a szomszédos Dodekanészosz-szigetek megfigyeléséhez.",
+            "ro": "Bucurați-vă de panorama vastă a Mării Egee din acest punct de belvedere înalt, asigurându-vă că aduceți binoclul pentru a zări insulele Dodecaneze învecinate.",
+            "en": "Take in the panoramic sweep of the Aegean Sea from this elevated viewpoint, making sure to bring binoculars to spot the neighboring Dodecanese islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Emporeios",
+            "hu": "Emporeiosz kastélya",
+            "ro": "Castelul din Emporeios",
+            "en": "Castle of Emporeios"
+          },
+          "coords": [
+            27.176222,
+            36.603846
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die zerfallenden Mauern dieser mittelalterlichen Festung und betreten Sie die Ruinen vorsichtig, um atemberaubende Ausblicke über den Vulkankrater zu entdecken.",
+            "hu": "Sétáljon végig e középkori erődítmény omladozó, de fenséges falai között, és lépjen be óvatosan a romos tornyokba, hogy lélegzetelállító kilátást fedezzen fel a vulkáni kráterre.",
+            "ro": "Plimbați-vă prin zidurile ruinate ale acestei fortărețe medievale și pășiți cu grijă în turnurile distruse pentru a descoperi priveliști uluitoare asupra craterului vulcanic.",
+            "en": "Wander through the crumbling but majestic walls of this medieval fortress, and step inside the ruined towers carefully to discover breathtaking vistas over the volcanic crater."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldera Aussicht",
+            "hu": "Kaldera kilátó",
+            "ro": "Priveliștea Calderei",
+            "en": "Caldera view"
+          },
+          "coords": [
+            27.157677,
+            36.587984
+          ],
+          "category": "natural",
+          "arrive_at": "14:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem spektakulären Kamm hinab in die dampfende Caldera und halten Sie eine Windjacke bereit, da die Brisen hier überraschend frisch sein können.",
+            "hu": "Tekintsen le a drámai, gőzölgő vulkáni kalderára erről a látványos gerincről, és tartson kéznél egy széldzsekit, mivel a szellő itt meglepően hűvös lehet.",
+            "ro": "Priviți în jos spre caldera vulcanică dramatică de pe această creastă spectaculoasă, păstrând la îndemână o jachetă de vânt, deoarece briza poate fi surprinzător de rece.",
+            "en": "Gaze down into the dramatic, steaming volcanic caldera from this spectacular ridge, keeping a windbreaker handy as the breezes here can be surprisingly brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in die antiken Flüstertöne des minoischen Heiligtums eintauchen. Die kühle Meeresbrise macht den anfänglichen Aufstieg erfrischend.\n\nGegen Mittag entdecken Sie malerische historische Kapellen und erklimmen die Pfade in Richtung des beeindruckenden Profiti Ilias Aussichtspunkts. Die Sonne hebt die raue Landschaft hervor.\n\nAm Nachmittag erkunden Sie die mittelalterliche Burg von Emporeios und folgen den Spuren der vergangenen Ritter.\n\nBeenden Sie Ihre Wanderung bei der atemberaubenden Caldera-Aussicht, wo das goldene Abendlicht das dramatische Vulkanbecken in unvergessliche Farben taucht.",
+        "hu": "Kezdje a reggelt azzal, hogy elmerül a Mínoszi szentély ősi suttogásaiban. A hűvös tengeri szellő frissítővé teszi a kezdeti emelkedőt.\n\nDélben fedezze fel a festői történelmi kápolnákat, és másszon fel a lenyűgöző Profiti Ilias kilátó felé vezető ösvényeken. A nap kiemeli a zord tájat.\n\nDélután fedezze fel az emporeioszi középkori kastélyt, követve az egykori lovagok nyomdokait.\n\nFejezze be túráját a lélegzetelállító kaldera kilátónál, ahol az esti aranyfény felejthetetlen színekkel festi meg a drámai vulkáni medencét.",
+        "ro": "Începeți dimineața cufundându-vă în șoaptele antice ale sanctuarului minoic. Briza răcoroasă a mării face urcarea inițială revigorantă.\n\nLa prânz, descoperiți capele istorice pitorești și urcați pe potecile spre impresionanta belvedere Profiti Ilias. Soarele evidențiază peisajul accidentat.\n\nDupă-amiaza, explorați Castelul medieval din Emporeios, pe urmele cavalerilor din trecut.\n\nÎncheiați-vă drumeția la priveliștea uluitoare a Calderei, unde lumina aurie a serii pictează bazinul vulcanic dramatic în nuanțe de neuitat.",
+        "en": "Begin your morning immersing yourself in the ancient whispers of the Minoan sanctuary. The cool sea breeze makes the initial climb refreshing.\n\nBy midday, discover quaint historical chapels and scale the paths toward the awe-inspiring Profiti Ilias view. The sun highlights the rugged landscape.\n\nIn the afternoon, explore the medieval Castle of Emporeios, tracing the footsteps of past knights.\n\nConclude your trek at the breathtaking Caldera view, where the golden evening light paints the dramatic volcanic basin in unforgettable hues."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Minoisches Heiligtum",
+            "hu": "Mínoszi szentély",
+            "ro": "Sanctuarul minoic",
+            "en": "Minoan sanctuary"
+          },
+          "coords": [
+            27.161782,
+            36.594648
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen dieser heiligen Stätte, die die frühe nisyrische Geschichte widerspiegelt, und kommen Sie früh, um die Steine ohne starke Schatten zu fotografieren.",
+            "hu": "Fedezze fel e szent hely ősi romjait, amelyek a korai niszüroszi történelmet tükrözik, és érkezzen korán, hogy az árnyékok nélkül fényképezhesse le a köveket.",
+            "ro": "Explorați ruinele antice ale acestui sit sacru care reflectă istoria timpurie a Nisyrosului și sosiți devreme pentru a fotografia pietrele fără umbre puternice.",
+            "en": "Explore the ancient ruins of this sacred site, reflecting early Nisyrian history, and arrive early to photograph the stones without strong shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Parletia",
+            "hu": "Parletia kastély",
+            "ro": "Castelul Parletia",
+            "en": "Parletia castle"
+          },
+          "coords": [
+            27.18125,
+            36.585368
+          ],
+          "category": "castle",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das beeindruckende Mauerwerk dieser weniger bekannten Zitadelle und parken Sie Ihr Fahrrad sicher am Fuß, bevor Sie den kurzen Weg hinaufwandern.",
+            "hu": "Fedezze fel e kevésbé ismert, dombokra néző fellegvár lenyűgöző kőművesmunkáját, és parkolja le biztonságosan kerékpárját az alján, mielőtt felgyalogolna a rövid ösvényen.",
+            "ro": "Descoperiți zidăria impresionantă a acestei cetăți mai puțin cunoscute și parcați-vă bicicleta în siguranță la bază înainte de a urca pe traseul scurt.",
+            "en": "Discover the impressive stonework of this lesser-known citadel overlooking the hills, and park your bike securely at the base before hiking up the short trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanologisches Museum Nissyros",
+            "hu": "Niszürosz Vulkanológiai Múzeum",
+            "ro": "Muzeul Vulcanologic Nissyros",
+            "en": "Volcanologic Museum Nissyros"
+          },
+          "coords": [
+            27.178785,
+            36.574892
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch faszinierende Exponate mehr über die geologische Geschichte der Insel und fragen Sie nach der interaktiven 3D-Karte für ein tieferes Verständnis.",
+            "hu": "Ismerje meg a sziget geológiai történetét a lenyűgöző kiállításokon keresztül, és kérdezze a kurátort az interaktív 3D-s térképről a kráter mélyebb megértése érdekében.",
+            "ro": "Aflați despre istoria geologică a insulei prin exponate fascinante și întrebați curatorul despre harta interactivă 3D pentru o înțelegere mai profundă a craterului.",
+            "en": "Learn about the explosive geological history of the island through fascinating exhibits, and ask the curator about the interactive 3D map for a deeper understanding of the crater."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Nikia",
+            "hu": "Nikiá kastélya",
+            "ro": "Castelul din Nikia",
+            "en": "Castle of Nikia"
+          },
+          "coords": [
+            27.176906,
+            36.574626
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht von den Zinnen dieser historischen Festung und besuchen Sie nach der Erkundung den nahe gelegenen Platz für ein erfrischendes Zitronengetränk.",
+            "hu": "Élvezze a lenyűgöző kilátást e történelmi hegytetőn lévő erődítmény oromzatáról, és felfedezés után látogasson el a közeli térre egy frissítő helyi citromos italra.",
+            "ro": "Bucurați-vă de priveliștile ample de pe meterezele acestei fortificații istorice și vizitați piața din apropiere pentru o băutură locală răcoritoare de lămâie după explorare.",
+            "en": "Enjoy sweeping views from the battlements of this historic hilltop fortification, and try to visit the nearby square for a refreshing local lemon drink after exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefanos Krater",
+            "hu": "Sztefanosz",
+            "ro": "Stefanos",
+            "en": "Stefanos"
+          },
+          "coords": [
+            27.168183,
+            36.57793
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gehen Sie vorsichtig am Rand des Stefanos-Kraters entlang und tragen Sie geschlossene Schuhe, um Ihre Füße vor der intensiven Erdwärme zu schützen.",
+            "hu": "Sétáljon óvatosan a Sztefanosz hidrotermális kráter peremén, és viseljen zárt cipőt, hogy megvédje lábát a talajból áradó intenzív geotermikus hőtől.",
+            "ro": "Plimbați-vă cu atenție în jurul marginii craterului hidrotermal Stefanos, purtând încălțăminte închisă pentru a vă proteja picioarele de căldura geotermală intensă.",
+            "en": "Walk carefully around the otherworldly rim of the Stefanos hydrothermal crater, wearing closed-toe shoes to protect your feet from the intense geothermal heat emanating from the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Ephaisteio Nisurou",
+            "hu": "Niszürosz Vulkán",
+            "ro": "Vulcanul Nisyros",
+            "en": "Ephaisteio Nisurou"
+          },
+          "coords": [
+            27.167625,
+            36.579483
+          ],
+          "category": "landmark",
+          "arrive_at": "15:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die rohe Kraft des schlafenden Vulkans bei den blubbernden Schlammbecken und bleiben Sie unbedingt auf den markierten Wegen, um gefährliche Schwefelschlote zu meiden.",
+            "hu": "Érezze az alvó vulkán nyers erejét a bugyogó iszapmedencéknél, és feltétlenül maradjon a kijelölt ösvényeken, hogy elkerülje a veszélyes kénes nyílásokat.",
+            "ro": "Simțiți puterea brută a vulcanului adormit la bazinele de noroi, asigurându-vă că rămâneți strict pe potecile marcate pentru a evita gurile periculoase de sulf.",
+            "en": "Feel the raw power of the sleeping volcano as you observe the bubbling mud pools, making sure to stay strictly on the marked paths to avoid the dangerous sulfur vents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung des minoischen Heiligtums, bevor Sie zur beeindruckenden Burg Parletia radeln. Die Morgenluft ergänzt die Radtour perfekt.\n\nDer Mittag bringt Sie zum faszinierenden Vulkanologischen Museum, das tiefe geologische Einblicke bietet, bevor Sie die Burg von Nikia erreichen.\n\nAm Nachmittag radeln Sie in das Herz des Vulkans, um den atemberaubenden Stefanos-Krater zu bewundern.\n\nBeenden Sie Ihren aktiven Tag, indem Sie die Mondlandschaften von Ephaisteio Nisurou bestaunen und die geothermische Wärme spüren, wenn der Abend hereinbricht.",
+        "hu": "Kezdje az utat a Mínoszi szentély felfedezésével, mielőtt eltekerne a lenyűgöző Parletia kastélyhoz. A reggeli levegő tökéletesen kiegészíti a kerékpározást.\n\nDélben a lenyűgöző Vulkanológiai Múzeumhoz érkezik, amely mély geológiai betekintést nyújt, mielőtt elérné Nikiá kastélyát.\n\nA délután folyamán a vulkán szívébe teker, hogy szemtanúja legyen a lenyűgöző Sztefanosz kráternek.\n\nFejezze be aktív napját a Niszürosz Vulkán holdbéli tájainak csodálatával, érezve a geotermikus meleget, ahogy leszáll az est.",
+        "ro": "Începeți plimbarea explorând sanctuarul minoic înainte de a pedala spre impresionantul castel Parletia. Aerul dimineții completează perfect efortul.\n\nPrânzul vă aduce la fascinantul Muzeu Vulcanologic, oferind perspective geologice profunde înainte de a ajunge la Castelul din Nikia.\n\nPe măsură ce după-amiaza avansează, veți pedala în inima vulcanului pentru a fi martorii uimitorului crater Stefanos.\n\nÎncheiați-vă ziua activă admirând peisajele lunare ale Ephaisteio Nisurou, simțind căldura geotermală odată cu lăsarea serii.",
+        "en": "Start your ride exploring the Minoan sanctuary before pedaling towards the impressive Parletia castle. The morning air perfectly complements the cycling effort.\n\nMidday brings you to the fascinating Volcanologic Museum, offering deep geological insights before you reach the Castle of Nikia.\n\nAs the afternoon progresses, you'll cycle down into the heart of the volcano to witness the stunning Stefanos crater.\n\nEnd your active day marveling at the lunar landscapes of Ephaisteio Nisurou, feeling the geothermal warmth as evening falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Emporeios",
+            "hu": "Emporeiosz kastélya",
+            "ro": "Castelul din Emporeios",
+            "en": "Castle of Emporeios"
+          },
+          "coords": [
+            27.176222,
+            36.603846
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die zerfallenden Mauern dieser mittelalterlichen Festung und betreten Sie die Ruinen vorsichtig, um atemberaubende Ausblicke über den Vulkankrater zu entdecken.",
+            "hu": "Sétáljon végig e középkori erődítmény omladozó, de fenséges falai között, és lépjen be óvatosan a romos tornyokba, hogy lélegzetelállító kilátást fedezzen fel a vulkáni kráterre.",
+            "ro": "Plimbați-vă prin zidurile ruinate ale acestei fortărețe medievale și pășiți cu grijă în turnurile distruse pentru a descoperi priveliști uluitoare asupra craterului vulcanic.",
+            "en": "Wander through the crumbling but majestic walls of this medieval fortress, and step inside the ruined towers carefully to discover breathtaking vistas over the volcanic crater."
+          }
+        },
+        {
+          "name": {
+            "de": "Profiti Ilias Aussicht",
+            "hu": "Profiti Ilias kilátó",
+            "ro": "Punct de belvedere Profiti Ilias",
+            "en": "Profiti Ilias view"
+          },
+          "coords": [
+            27.166271,
+            36.603961
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem erhöhten Aussichtspunkt den weiten Panoramablick auf die Ägäis und bringen Sie ein Fernglas mit, um die benachbarten Dodekanes-Inseln zu erspähen.",
+            "hu": "Élvezze az Égei-tengerre nyíló panorámát ebből a magasan fekvő kilátóból, és mindenképpen hozzon magával távcsövet a szomszédos Dodekanészosz-szigetek megfigyeléséhez.",
+            "ro": "Bucurați-vă de panorama vastă a Mării Egee din acest punct de belvedere înalt, asigurându-vă că aduceți binoclul pentru a zări insulele Dodecaneze învecinate.",
+            "en": "Take in the panoramic sweep of the Aegean Sea from this elevated viewpoint, making sure to bring binoculars to spot the neighboring Dodecanese islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Minoisches Heiligtum",
+            "hu": "Mínoszi szentély",
+            "ro": "Sanctuarul minoic",
+            "en": "Minoan sanctuary"
+          },
+          "coords": [
+            27.161782,
+            36.594648
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen dieser heiligen Stätte, die die frühe nisyrische Geschichte widerspiegelt, und kommen Sie früh, um die Steine ohne starke Schatten zu fotografieren.",
+            "hu": "Fedezze fel e szent hely ősi romjait, amelyek a korai niszüroszi történelmet tükrözik, és érkezzen korán, hogy az árnyékok nélkül fényképezhesse le a köveket.",
+            "ro": "Explorați ruinele antice ale acestui sit sacru care reflectă istoria timpurie a Nisyrosului și sosiți devreme pentru a fotografia pietrele fără umbre puternice.",
+            "en": "Explore the ancient ruins of this sacred site, reflecting early Nisyrian history, and arrive early to photograph the stones without strong shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Prophetes Elias",
+            "hu": "Prophetes Elias",
+            "ro": "Prophetes Elias",
+            "en": "Prophetes Elias"
+          },
+          "coords": [
+            27.155412,
+            36.58887
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die weiten Ausblicke von diesem Heiligtum auf dem Berggipfel und fahren Sie auf dem letzten steilen Stück langsam.",
+            "hu": "Élvezze a békés légkört és a pazar kilátást ebből a hegytetőn lévő szentélyből, lassan haladva az utolsó meredek szakaszon, hogy biztonságosan vegye a kanyarokat.",
+            "ro": "Savurați atmosfera pașnică și priveliștile vaste de la acest sanctuar montan, conducând încet pe ultima porțiune abruptă pentru a naviga în siguranță curbele.",
+            "en": "Relish the peaceful atmosphere and sweeping vistas from this mountaintop sanctuary, driving slowly on the final steep approach to safely navigate the sharp bends."
+          }
+        },
+        {
+          "name": {
+            "de": "Kokkinokastro von Symi",
+            "hu": "Kokkinokasztro",
+            "ro": "Kokkinokastro din Symi",
+            "en": "Kokkinokastro of Symi"
+          },
+          "coords": [
+            27.15576,
+            36.574161
+          ],
+          "category": "castle",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die rötlichen Steinfundamente dieser faszinierenden Küstenruine und nutzen Sie den breiten Seitenstreifen zum einfachen Parken.",
+            "hu": "Vizsgálja meg e lenyűgöző tengerparti rom vöröses kőalapjait, kihasználva a közeli széles útpadkát a könnyű parkoláshoz, mielőtt átsétálna.",
+            "ro": "Examinați fundațiile de piatră roșiatică ale acestei fascinante ruine de coastă, profitând de acostamentul larg din apropiere pentru a parca ușor vehiculul.",
+            "en": "Examine the reddish stone foundations of this fascinating coastal ruin, taking advantage of the nearby wide shoulder to easily park your vehicle before walking over."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefanos Krater",
+            "hu": "Sztefanosz",
+            "ro": "Stefanos",
+            "en": "Stefanos"
+          },
+          "coords": [
+            27.168183,
+            36.57793
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gehen Sie vorsichtig am Rand des Stefanos-Kraters entlang und tragen Sie geschlossene Schuhe, um Ihre Füße vor der intensiven Erdwärme zu schützen.",
+            "hu": "Sétáljon óvatosan a Sztefanosz hidrotermális kráter peremén, és viseljen zárt cipőt, hogy megvédje lábát a talajból áradó intenzív geotermikus hőtől.",
+            "ro": "Plimbați-vă cu atenție în jurul marginii craterului hidrotermal Stefanos, purtând încălțăminte închisă pentru a vă proteja picioarele de căldura geotermală intensă.",
+            "en": "Walk carefully around the otherworldly rim of the Stefanos hydrothermal crater, wearing closed-toe shoes to protect your feet from the intense geothermal heat emanating from the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanologisches Museum Nissyros",
+            "hu": "Niszürosz Vulkanológiai Múzeum",
+            "ro": "Muzeul Vulcanologic Nissyros",
+            "en": "Volcanologic Museum Nissyros"
+          },
+          "coords": [
+            27.178785,
+            36.574892
+          ],
+          "category": "museum",
+          "arrive_at": "14:42",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch faszinierende Exponate mehr über die geologische Geschichte der Insel und fragen Sie nach der interaktiven 3D-Karte für ein tieferes Verständnis.",
+            "hu": "Ismerje meg a sziget geológiai történetét a lenyűgöző kiállításokon keresztül, és kérdezze a kurátort az interaktív 3D-s térképről a kráter mélyebb megértése érdekében.",
+            "ro": "Aflați despre istoria geologică a insulei prin exponate fascinante și întrebați curatorul despre harta interactivă 3D pentru o înțelegere mai profundă a craterului.",
+            "en": "Learn about the explosive geological history of the island through fascinating exhibits, and ask the curator about the interactive 3D map for a deeper understanding of the crater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Burg von Emporeios hinauf, um spektakuläre Ausblicke zu genießen, bevor die Massen eintreffen. Die Straßen bieten durchgehend herrliche Panoramen.\n\nVerbringen Sie den Mittag damit, die Profiti Ilias Aussichtspunkte und das faszinierende minoische Heiligtum zu erkunden und die reiche Geschichte der Insel zu würdigen.\n\nAm Nachmittag kreuzen Sie an den Kokkinokastro-Ruinen vorbei und fahren direkt in den dramatischen Vulkankrater von Stefanos.\n\nBeenden Sie Ihren Roadtrip am Vulkanologischen Museum, um am Ende des Tages die feurigen Ursprünge der Insel abschließend zu würdigen.",
+        "hu": "Hajtson fel az emporeioszi kastélyhoz reggel, hogy látványos kilátásban legyen része, mielőtt megérkezik a tömeg. Az utak folyamatosan lenyűgöző panorámát kínálnak.\n\nTöltse a delet a Profiti Ilias kilátópontok és a lenyűgöző Mínoszi szentély felfedezésével, értékelve a sziget gazdag történelmét.\n\nDélután guruljon el a Kokkinokasztro romjai mellett, és vegye az irányt egyenesen a Sztefanosz drámai vulkáni krátere felé.\n\nFejezze be autós túráját a Vulkanológiai Múzeumban, és a nap végén szerezzen végső benyomást a sziget tüzes eredetéről.",
+        "ro": "Conduceți până la Castelul din Emporeios dimineața pentru priveliști spectaculoase înainte de sosirea mulțimilor. Drumurile oferă panorame continue uluitoare.\n\nPetreceți prânzul explorând punctele de belvedere Profiti Ilias și fascinantul sanctuar minoic, apreciind istoria bogată a insulei.\n\nDupă-amiaza, treceți pe lângă ruinele Kokkinokastro și mergeți direct în craterul vulcanic dramatic Stefanos.\n\nÎncheiați-vă călătoria la Muzeul Vulcanologic, obținând o apreciere finală a originilor de foc ale insulei la sfârșitul zilei.",
+        "en": "Drive up to the Castle of Emporeios in the morning for spectacular views before the crowds arrive. The roads offer continuous stunning panoramas.\n\nSpend midday exploring the Profiti Ilias viewpoints and the fascinating Minoan sanctuary, appreciating the island's rich history.\n\nIn the afternoon, cruise past the Kokkinokastro ruins and head straight into the dramatic volcanic crater of Stefanos.\n\nFinish your road trip at the Volcanologic Museum, gaining a final appreciation of the island's fiery origins as the day concludes."
+      }
+    }
+  }
+}

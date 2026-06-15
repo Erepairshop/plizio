@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-senigallia-cities-v2",
+  "anchor": {
+    "name": "Senigallia",
+    "coords": [
+      13.21795,
+      43.71495
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca Roveresca",
+            "hu": "Rocca Roveresca",
+            "ro": "Rocca Roveresca",
+            "en": "Rocca Roveresca"
+          },
+          "coords": [
+            13.220544,
+            43.715375
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Renaissance-Architektur dieser Küstenfestung und besteigen Sie ihre Türme für einen weiten Blick über das Meer.",
+            "hu": "Fedezze fel e lenyűgöző reneszánsz tengerparti erődítmény építészetét, és másszon fel tornyaiba a páratlan tengeri panorámáért még kora délelőtt.",
+            "ro": "Explorați arhitectura impresionantă renascentistă a acestei fortărețe de coastă și urcați în turnurile sale pentru vederi panoramice la mare.",
+            "en": "Explore the impressive Renaissance architecture of this coastal fortress and climb its towers for panoramic sea views early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzetto Baviera",
+            "hu": "Palazzetto Baviera",
+            "ro": "Palazzetto Baviera",
+            "en": "Palazzetto Baviera"
+          },
+          "coords": [
+            13.219395,
+            43.715326
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Stuckaturen aus dem 16. Jahrhundert mit mythologischen Szenen, prüfen Sie aber vorab die begrenzten Öffnungszeiten.",
+            "hu": "Csodálja meg a 16. századi, mitológiai és történelmi jeleneteket ábrázoló stukkókat, de előtte feltétlenül ellenőrizze a korlátozott nyitvatartást.",
+            "ro": "Admirați stucaturile deosebite din secolul al XVI-lea care prezintă scene mitologice, dar verificați în prealabil programul limitat de vizitare.",
+            "en": "Admire the exquisite 16th-century stuccoes depicting mythological and historical scenes, but be sure to check the limited opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Pio IX",
+            "hu": "Museo Pio IX",
+            "ro": "Museo Pio IX",
+            "en": "Museo Pio IX"
+          },
+          "coords": [
+            13.217426,
+            43.714681
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Geburtsort von Papst Pius IX. durch seine reiche Sammlung persönlicher Gegenstände, und nehmen Sie sich Zeit für die Erklärungen.",
+            "hu": "Ismerje meg IX. Piusz pápa szülőházát a személyes tárgyait és az elegáns korabeli bútorokat bemutató gazdag gyűjteményen keresztül kényelmesen.",
+            "ro": "Descoperiți locul de naștere al Papei Pius al IX-lea prin bogata colecție de obiecte personale, alocând timp pentru a citi descrierile detaliate.",
+            "en": "Discover the birthplace of Pope Pius IX through its rich collection of personal artifacts and elegant period furniture, taking time to read the labels."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica La Fenice",
+            "hu": "Area Archeologica La Fenice",
+            "ro": "Area Archeologica La Fenice",
+            "en": "Area Archeologica La Fenice"
+          },
+          "coords": [
+            13.218409,
+            43.712318
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Römerzeit, wenn Sie die gut erhaltenen Fundamente betrachten, obwohl die Beleuchtung für Fotos manchmal etwas schwach ist.",
+            "hu": "Lépjen vissza a római korba a modern színház alatti, jól megőrzött alapok megtekintésével, bár a világítás kissé halvány lehet a fényképezéshez.",
+            "ro": "Pășiți în era romană admirând aceste fundații bine conservate sub teatrul modern, deși iluminatul poate fi uneori prea slab pentru fotografii.",
+            "en": "Step back into the Roman era as you view these well-preserved foundations beneath the modern theater, though lighting can be dim for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Lambertina",
+            "hu": "Porta Lambertina",
+            "ro": "Porta Lambertina",
+            "en": "Porta Lambertina"
+          },
+          "coords": [
+            13.217227,
+            43.717391
+          ],
+          "category": "fortress",
+          "arrive_at": "15:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses imposante historische Stadttor, das den Rand der Altstadt markiert und einen schnellen, aber wichtigen Fotostopp bietet.",
+            "hu": "Csodálja meg ezt az impozáns történelmi városkaput, amely az óváros szélét jelöli, és gyors, de elengedhetetlen fotómegállót kínál a sétája során.",
+            "ro": "Admirați această impunătoare poartă istorică a orașului care marchează marginea orașului vechi, oferind o oprire foto rapidă și esențială aici.",
+            "en": "Marvel at this imposing historic city gate which marks the edge of the old town, providing a quick but essential photo stop on your walking route."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Senigallia",
+            "hu": "Faro di Senigallia",
+            "ro": "Faro di Senigallia",
+            "en": "Faro di Senigallia"
+          },
+          "coords": [
+            13.22085,
+            43.719924
+          ],
+          "category": "landmark",
+          "arrive_at": "15:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einem Spaziergang über die Mole zu diesem Leuchtturm, wo Sie bei Sonnenuntergang die Fischerboote sehen können.",
+            "hu": "Zárja a délutánt egy pihentető sétával a mólón ehhez a bájos világítótoronyhoz, ahonnan megfigyelheti a naplementében visszatérő halászhajókat.",
+            "ro": "Încheiați după-amiaza cu o plimbare relaxantă pe dig până la acest far fermecător, unde puteți urmări bărcile de pescuit întorcându-se la apus.",
+            "en": "Conclude your afternoon with a relaxing stroll down the pier to this charming lighthouse, where you can watch the fishing boats return at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit Senigallias Vergangenheit in der Festung Rocca Roveresca und dem Palazzetto Baviera. Mittags schlendern Sie durch das historische Zentrum, um das faszinierende Museo Pio IX zu erkunden. Am Nachmittag steigen Sie in der Area Archeologica La Fenice in die Römerzeit hinab und gehen am Porta Lambertina vorbei. Abends spazieren Sie gemütlich zum schönen Leuchtturm.",
+        "hu": "Kezdje a reggelt Senigallia múltjának felfedezésével az impozáns Rocca Roveresca erődben és a közeli Palazzetto Baviera-ban. Délben sétáljon át a történelmi központon, és látogassa meg a Museo Pio IX-et. Délután merüljön el a római korban az Area Archeologica La Fenice romjainál, majd haladjon északra a Porta Lambertina mellett. Este sétáljon ki a világítótoronyhoz.",
+        "ro": "Începeți dimineața descoperind trecutul orașului Senigallia la impunătoarea Rocca Roveresca și la Palazzetto Baviera. La prânz, plimbați-vă prin centrul istoric pentru a explora fascinantul Museo Pio IX. După-amiaza, coborâți în era romană la Area Archeologica La Fenice, apoi îndreptați-vă spre nord trecând de Porta Lambertina. Seara, faceți o plimbare relaxantă până la far.",
+        "en": "Start your morning delving into Senigallia's past at the imposing Rocca Roveresca and the nearby Palazzetto Baviera. By midday, wander through the historic center to explore the fascinating Museo Pio IX and its rich collections. In the afternoon, descend into the Roman era at the Area Archeologica La Fenice, then head north past Porta Lambertina. As evening falls, stroll to the lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cristo Redentore",
+            "hu": "Cristo Redentore",
+            "ro": "Cristo Redentore",
+            "en": "Cristo Redentore"
+          },
+          "coords": [
+            13.212478,
+            43.7033
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an diesem markanten modernen religiösen Denkmal, und beachten Sie die einzigartigen Linien und die Atmosphäre.",
+            "hu": "Töltsön el egy békés pillanatot ennél a központtól délre található feltűnő modern vallási emlékműnél, megfigyelve egyedi építészeti vonalait.",
+            "ro": "Bucurați-vă de un moment de liniște la acest monument religios modern izbitor, remarcând liniile sale arhitecturale unice și atmosfera pașnică.",
+            "en": "Take a peaceful moment at this striking modern religious monument located south of the center, noting its unique architectural lines and quiet vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica La Fenice",
+            "hu": "Area Archeologica La Fenice",
+            "ro": "Area Archeologica La Fenice",
+            "en": "Area Archeologica La Fenice"
+          },
+          "coords": [
+            13.218409,
+            43.712318
+          ],
+          "category": "historical",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Römerzeit, wenn Sie die gut erhaltenen Fundamente betrachten, obwohl die Beleuchtung für Fotos manchmal etwas schwach ist.",
+            "hu": "Lépjen vissza a római korba a modern színház alatti, jól megőrzött alapok megtekintésével, bár a világítás kissé halvány lehet a fényképezéshez.",
+            "ro": "Pășiți în era romană admirând aceste fundații bine conservate sub teatrul modern, deși iluminatul poate fi uneori prea slab pentru fotografii.",
+            "en": "Step back into the Roman era as you view these well-preserved foundations beneath the modern theater, though lighting can be dim for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "San Martino",
+            "hu": "San Martino",
+            "ro": "San Martino",
+            "en": "San Martino"
+          },
+          "coords": [
+            13.217816,
+            43.71365
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um das wunderschön dekorierte Innere und klassische Kunstwerke zu bewundern, perfekt für eine kurze Pause.",
+            "hu": "Látogassa meg ezt a történelmi központi templomot, hogy megcsodálja gyönyörűen díszített belső terét és klasszikus műalkotásait a meleg elől.",
+            "ro": "Vizitați această biserică centrală istorică pentru a admira interiorul său frumos decorat și operele de artă clasică, perfectă pentru o pauză.",
+            "en": "Visit this historic central church to admire its beautifully decorated interior and classical artworks, perfect for a short respite from the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo diocesano",
+            "hu": "Museo diocesano",
+            "ro": "Museo diocesano",
+            "en": "Museo diocesano"
+          },
+          "coords": [
+            13.214654,
+            43.714135
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie eine faszinierende Sammlung religiöser Kunst aus mehreren Jahrhunderten, die das spirituelle Erbe von Senigallia perfekt illustriert.",
+            "hu": "Tekintsen meg egy több évszázadot átfogó, lenyűgöző vallásos művészeti gyűjteményt, amely tökéletesen illusztrálja a város spirituális örökségét.",
+            "ro": "Parcurgeți o colecție fascinantă de artă religioasă ce acoperă câteva secole, ilustrând perfect moștenirea spirituală profundă a orașului Senigallia.",
+            "en": "Peruse a fascinating collection of religious art spanning several centuries, which perfectly illustrates the deep spiritual heritage of Senigallia."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Roveresca",
+            "hu": "Rocca Roveresca",
+            "ro": "Rocca Roveresca",
+            "en": "Rocca Roveresca"
+          },
+          "coords": [
+            13.220544,
+            43.715375
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Renaissance-Architektur dieser Küstenfestung und besteigen Sie ihre Türme für einen weiten Blick über das Meer.",
+            "hu": "Fedezze fel e lenyűgöző reneszánsz tengerparti erődítmény építészetét, és másszon fel tornyaiba a páratlan tengeri panorámáért még kora délelőtt.",
+            "ro": "Explorați arhitectura impresionantă renascentistă a acestei fortărețe de coastă și urcați în turnurile sale pentru vederi panoramice la mare.",
+            "en": "Explore the impressive Renaissance architecture of this coastal fortress and climb its towers for panoramic sea views early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna della Misericordia",
+            "hu": "Chiesa della Madonna della Misericordia",
+            "ro": "Chiesa della Madonna della Misericordia",
+            "en": "Chiesa della Madonna della Misericordia"
+          },
+          "coords": [
+            13.217023,
+            43.718544
+          ],
+          "category": "religious",
+          "arrive_at": "15:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante Heiligtum ein, um die friedliche Atmosphäre und die kunstvollen Altäre zu schätzen, bevor Sie die Stadt erkunden.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy értékelje annak nyugodt légkörét és bonyolult oltárképeit, mielőtt folytatná a város felfedezését ma.",
+            "ro": "Intrați în acest sanctuar fermecător pentru a aprecia atmosfera sa senină și altarele complicate înainte de a vă continua explorarea orașului.",
+            "en": "Step inside this charming sanctuary to appreciate its serene atmosphere and intricate altarpieces before continuing your exploration of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Senigallia",
+            "hu": "Faro di Senigallia",
+            "ro": "Faro di Senigallia",
+            "en": "Faro di Senigallia"
+          },
+          "coords": [
+            13.22085,
+            43.719924
+          ],
+          "category": "landmark",
+          "arrive_at": "15:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einem Spaziergang über die Mole zu diesem Leuchtturm, wo Sie bei Sonnenuntergang die Fischerboote sehen können.",
+            "hu": "Zárja a délutánt egy pihentető sétával a mólón ehhez a bájos világítótoronyhoz, ahonnan megfigyelheti a naplementében visszatérő halászhajókat.",
+            "ro": "Încheiați după-amiaza cu o plimbare relaxantă pe dig până la acest far fermecător, unde puteți urmări bărcile de pescuit întorcându-se la apus.",
+            "en": "Conclude your afternoon with a relaxing stroll down the pier to this charming lighthouse, where you can watch the fishing boats return at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour südlich des Zentrums am modernen Cristo Redentore. Mittags erleben Sie römische Geschichte in La Fenice sowie klassische Kunst in San Martino und im Museo diocesano. Der Nachmittag dreht sich um die majestätische Rocca Roveresca und die ruhige Chiesa della Madonna della Misericordia. Lassen Sie den Tag mit einem Sonnenuntergang am Leuchtturm ausklingen.",
+        "hu": "Kezdje kerékpártúráját a központtól délre a modern Cristo Redentore-nél, mielőtt visszakerekezne a városba. A dél a történelemről szól a La Fenice-nél, valamint a San Martino és a Museo diocesano művészetéről. A délután a fenséges Rocca Roveresca és a csendes Chiesa della Madonna della Misericordia felfedezésével telik. Zárja a napot a világítótoronynál a csodás naplementével.",
+        "ro": "Începeți turul cu bicicleta la sud de centru, la modernul Cristo Redentore, înainte de a reveni în oraș. Prânzul îmbină istoria romană de la La Fenice cu arta clasică din San Martino și Museo diocesano. După-amiaza gravitează în jurul maiestuoasei Rocca Roveresca și a liniștitei Chiesa della Madonna della Misericordia. Încheiați ziua admirând apusul de soare de la far.",
+        "en": "Kick off your cycling tour south of the center at the modern Cristo Redentore before riding back into town. Midday features a mix of ancient history at La Fenice and classic art inside San Martino and the Museo diocesano. Your afternoon revolves around the majestic Rocca Roveresca and the quiet Chiesa della Madonna della Misericordia. Finish the day watching the sunset from the lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe Lavoratore",
+            "hu": "Chiesa di San Giuseppe Lavoratore",
+            "ro": "Chiesa di San Giuseppe Lavoratore",
+            "en": "Chiesa di San Giuseppe Lavoratore"
+          },
+          "coords": [
+            13.197203,
+            43.726256
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser ruhigen Vorstadtkirche und beachten Sie das moderne, gemeinschaftsorientierte Design im Vergleich zur Altstadt.",
+            "hu": "Kezdje autós túráját ennél a csendes külvárosi templomnál, megfigyelve annak modern, közösségközpontú kialakítását, ami eltér a középkoriaktól.",
+            "ro": "Începeți turul auto la această biserică liniștită, remarcând designul său modern axat pe comunitate, diferit de structurile medievale vechi.",
+            "en": "Start your driving tour at this quiet suburban church, noting its modern community-focused design that sets it apart from medieval structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria della Pace",
+            "hu": "Santa Maria della Pace",
+            "ro": "Santa Maria della Pace",
+            "en": "Santa Maria della Pace"
+          },
+          "coords": [
+            13.209308,
+            43.722466
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an dieser historisch bedeutsamen Klosterkirche und genießen Sie die wunderschöne Architektur des Kreuzgangs, die Ruhe ausstrahlt.",
+            "hu": "Álljon meg röviden ennél a történelmileg jelentős kolostortemplomnál, élvezve a gyönyörű kerengő építészetét, amely évszázados békét tükröz.",
+            "ro": "Opriți-vă scurt la această biserică mănăstirească istorică, bucurându-vă de frumoasa arhitectură a claustrului ce reflectă secole de pace locală.",
+            "en": "Stop briefly at this historically significant convent church, enjoying the beautiful cloister architecture that reflects centuries of local peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Lambertina",
+            "hu": "Porta Lambertina",
+            "ro": "Porta Lambertina",
+            "en": "Porta Lambertina"
+          },
+          "coords": [
+            13.217227,
+            43.717391
+          ],
+          "category": "fortress",
+          "arrive_at": "10:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses imposante historische Stadttor, das den Rand der Altstadt markiert und einen schnellen, aber wichtigen Fotostopp bietet.",
+            "hu": "Csodálja meg ezt az impozáns történelmi városkaput, amely az óváros szélét jelöli, és gyors, de elengedhetetlen fotómegállót kínál a sétája során.",
+            "ro": "Admirați această impunătoare poartă istorică a orașului care marchează marginea orașului vechi, oferind o oprire foto rapidă și esențială aici.",
+            "en": "Marvel at this imposing historic city gate which marks the edge of the old town, providing a quick but essential photo stop on your walking route."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Pio IX",
+            "hu": "Museo Pio IX",
+            "ro": "Museo Pio IX",
+            "en": "Museo Pio IX"
+          },
+          "coords": [
+            13.217426,
+            43.714681
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Geburtsort von Papst Pius IX. durch seine reiche Sammlung persönlicher Gegenstände, und nehmen Sie sich Zeit für die Erklärungen.",
+            "hu": "Ismerje meg IX. Piusz pápa szülőházát a személyes tárgyait és az elegáns korabeli bútorokat bemutató gazdag gyűjteményen keresztül kényelmesen.",
+            "ro": "Descoperiți locul de naștere al Papei Pius al IX-lea prin bogata colecție de obiecte personale, alocând timp pentru a citi descrierile detaliate.",
+            "en": "Discover the birthplace of Pope Pius IX through its rich collection of personal artifacts and elegant period furniture, taking time to read the labels."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Roveresca",
+            "hu": "Rocca Roveresca",
+            "ro": "Rocca Roveresca",
+            "en": "Rocca Roveresca"
+          },
+          "coords": [
+            13.220544,
+            43.715375
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Renaissance-Architektur dieser Küstenfestung und besteigen Sie ihre Türme für einen weiten Blick über das Meer.",
+            "hu": "Fedezze fel e lenyűgöző reneszánsz tengerparti erődítmény építészetét, és másszon fel tornyaiba a páratlan tengeri panorámáért még kora délelőtt.",
+            "ro": "Explorați arhitectura impresionantă renascentistă a acestei fortărețe de coastă și urcați în turnurile sale pentru vederi panoramice la mare.",
+            "en": "Explore the impressive Renaissance architecture of this coastal fortress and climb its towers for panoramic sea views early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cristo Redentore",
+            "hu": "Cristo Redentore",
+            "ro": "Cristo Redentore",
+            "en": "Cristo Redentore"
+          },
+          "coords": [
+            13.212478,
+            43.7033
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an diesem markanten modernen religiösen Denkmal, und beachten Sie die einzigartigen Linien und die Atmosphäre.",
+            "hu": "Töltsön el egy békés pillanatot ennél a központtól délre található feltűnő modern vallási emlékműnél, megfigyelve egyedi építészeti vonalait.",
+            "ro": "Bucurați-vă de un moment de liniște la acest monument religios modern izbitor, remarcând liniile sale arhitecturale unice și atmosfera pașnică.",
+            "en": "Take a peaceful moment at this striking modern religious monument located south of the center, noting its unique architectural lines and quiet vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in den Außenbezirken an der Kirche San Giuseppe Lavoratore und der historischen Santa Maria della Pace. Fahren Sie mittags ins Zentrum, machen Sie ein Foto an der Porta Lambertina und besuchen Sie das Museo Pio IX. Der Nachmittag ist der imposanten Rocca Roveresca gewidmet. Fahren Sie schließlich nach Süden, um am Cristo Redentore einen ruhigen Abend zu verbringen.",
+        "hu": "Autós túrája a külvárosban indul a San Giuseppe Lavoratore templomnál és a történelmi Santa Maria della Pace-nél. Délben hajtson a központba, készítsen egy fotót a Porta Lambertina-nál, és látogassa meg a Museo Pio IX-et. A délutánt az impozáns Rocca Roveresca-nak szenteljük. Végül vezessen délre egy békés esti elmélkedéshez a lenyűgöző Cristo Redentore emlékműhöz.",
+        "ro": "Turul auto pitoresc începe la periferia orașului, la biserica San Giuseppe Lavoratore și la istorica Santa Maria della Pace. Conduceți spre centrul istoric la prânz, fotografiind Porta Lambertina înainte de a vizita Museo Pio IX. După-amiaza este dedicată impunătoarei Rocca Roveresca. La final, mergeți spre sud pentru o seară liniștită de reflecție la Cristo Redentore.",
+        "en": "Your scenic drive begins in the city's outskirts at the quiet Chiesa di San Giuseppe Lavoratore and historic Santa Maria della Pace. Drive towards the historic center for midday, snapping a photo at Porta Lambertina before delving into the Museo Pio IX. The afternoon is dedicated to the imposing Rocca Roveresca. Finally, drive south for a peaceful evening reflection at Cristo Redentore."
+      }
+    }
+  }
+}

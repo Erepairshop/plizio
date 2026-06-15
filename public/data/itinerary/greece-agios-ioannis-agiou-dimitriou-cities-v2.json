@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-agios-ioannis-agiou-dimitriou-cities-v2",
+  "anchor": {
+    "name": "Agios Ioannis Agiou Dimitriou",
+    "coords": [
+      23.16325,
+      39.41502
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 2.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaka",
+            "hu": "Plaka",
+            "ro": "Plaka",
+            "en": "Plaka"
+          },
+          "coords": [
+            23.156437,
+            39.422929
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen atemberaubenden Kieselstrand inmitten grüner Hügel, ideal für ein morgendliches Bad, aber vergessen Sie nicht, Badeschuhe für mehr Komfort mitzubringen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, zöld dombokkal övezett kavicsos strandot, amely tökéletes egy reggeli úszáshoz, de a kényelem érdekében mindenképp hozzon magával vízicipőt.",
+            "ro": "Descoperiți această plajă cu pietriș uimitoare, înconjurată de dealuri verzi, perfectă pentru o baie matinală, dar nu uitați să vă aduceți încălțăminte de apă pentru confort.",
+            "en": "Discover this stunning pebbled beach surrounded by lush green hills, perfect for a peaceful morning swim, but don't forget to bring your own water shoes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Ioannes",
+            "hu": "Agios Ioannes",
+            "ro": "Agios Ioannes",
+            "en": "Agios Ioannes"
+          },
+          "coords": [
+            23.161833,
+            39.417652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem beliebten Badeort mit lebendiger Küstenenergie und kristallklarem Wasser, einem idealen Ort für ein erfrischendes Getränk in einem Strandcafé.",
+            "hu": "Pihenjen ebben a népszerű tengerparti üdülőhelyen, amely élénk parti energiát és kristálytiszta vizet kínál, ideális helyszínt nyújtva egy frissítő italhoz a kávézókban.",
+            "ro": "Relaxați-vă în această stațiune populară care oferă o energie de coastă vibrantă și ape cristaline, fiind locul ideal pentru o băutură răcoritoare la o cafenea de pe plajă.",
+            "en": "Relax at this popular seaside resort offering vibrant coastal energy and crystal-clear waters, making it an ideal spot to grab a refreshing drink at a local beachfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Gephuri Roboam",
+            "hu": "Gephuri Roboam",
+            "ro": "Gephuri Roboam",
+            "en": "Gephuri Roboam"
+          },
+          "coords": [
+            23.165209,
+            39.413731
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Natursteinbrücke, die sich nahtlos in die Waldlandschaft einfügt und eine schnelle, aber wunderbar malerische Fotogelegenheit auf dem Weg bietet.",
+            "hu": "Csodálja meg ezt a bájos természetes kőhidat, amely tökéletesen illeszkedik az erdős tájba, és gyors, de csodálatosan festői fotózási lehetőséget kínál az út mentén haladva.",
+            "ro": "Admirați acest pod fermecător din piatră naturală care se integrează perfect în peisajul forestier, oferind o oportunitate foto rapidă, dar minunat de pitorească pe traseu.",
+            "en": "Admire this charming natural stone bridge that blends seamlessly into the forested landscape, offering a quick but wonderfully picturesque photo opportunity along your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Papa Nero",
+            "hu": "Papa Nero",
+            "ro": "Papa Nero",
+            "en": "Papa Nero"
+          },
+          "coords": [
+            23.168802,
+            39.410105
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerische Küstengegend, die für ihren goldenen Sand und ihre ruhige Atmosphäre bekannt ist und einen entspannenden Puffer vor dem Strand bietet.",
+            "hu": "Sétáljon át ezen a festői tengerparti területen, amely aranyhomokjáról és nyugodt légköréről ismert, pihentető átmenetet biztosítva, mielőtt egyenesen a szomszédos strandra ér.",
+            "ro": "Plimbați-vă prin această zonă de coastă pitorească, cunoscută pentru nisipul auriu și atmosfera sa liniștită, oferind un spațiu de relaxare înainte de a coborî la plajă.",
+            "en": "Stroll through this scenic coastal area known for its golden sand and tranquil atmosphere, providing a relaxing buffer before you head directly down to the adjacent beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Papa Nero Strand",
+            "hu": "Papa Nero Strand",
+            "ro": "Plaja Papa Nero",
+            "en": "Papa Nero Beach"
+          },
+          "coords": [
+            23.168928,
+            39.409179
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem weitläufigen, von traditionellen Tavernen gesäumten Küstenabschnitt, wo das frühe Mieten einer Liege Ihnen den absolut besten Platz sichert.",
+            "hu": "Élvezze a napsütést ezen a hatalmas, hagyományos tavernákkal szegélyezett partszakaszon, ahol a napágy korai bérlése biztosítja, hogy a lehető legjobb helyet szerezze meg.",
+            "ro": "Bucurați-vă de soare pe această întindere spectaculoasă mărginită de taverne tradiționale, unde închirierea timpurie a unui șezlong vă asigură cel mai bun loc disponibil.",
+            "en": "Soak up the sun on this expansive stretch of spectacular shoreline lined with traditional tavernas, where renting a sunbed early ensures you get the absolute best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsouka",
+            "hu": "Tsouka",
+            "ro": "Tsouka",
+            "en": "Tsouka"
+          },
+          "coords": [
+            23.174075,
+            39.400992
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das raue, natürliche Gelände dieses Küstenabschnitts, das einen weiten Blick auf die Ägäis bietet und aus Sicherheitsgründen am besten auf markierten Wegen bleibt.",
+            "hu": "Fedezze fel ennek a tengerparti szakasznak a zord, természetes terepét, amely pazar kilátást nyújt az Égei-tengerre; a biztonság érdekében mindig maradjon a kijelölt utakon.",
+            "ro": "Explorați terenul natural accidentat al acestei forme de coastă care oferă vederi panoramice ale Mării Egee, cel mai bine savurate rămânând pe traseele marcate pentru siguranță.",
+            "en": "Explore the rugged natural terrain of this coastal feature that provides sweeping views of the Aegean Sea, best enjoyed by sticking to the well-marked trails for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am ruhigen Strand von Plaka, um mit einem Schwimmen aufzuwachen, gefolgt von einem Spaziergang durch Agios Ioannes.\n\nWandern Sie zum Gephuri Roboam für ein schnelles Foto und gehen Sie dann durch die ruhige Gegend von Papa Nero im warmen Mittagslicht.\n\nVerbringen Sie den Nachmittag damit, sich an der Weite des Strandes von Papa Nero zu sonnen und das klare Wasser zu genießen.\n\nBeenden Sie Ihren Spaziergang mit der Erkundung der felsigen natürlichen Aussicht von Tsouka und lassen Sie den Tag mit weitem Meerblick ausklingen.",
+        "hu": "Kezdje a békés Plaka strandon egy ébresztő úszással, majd tegyen egy élénk sétát Agios Ioannes üdülőövezetében.\n\nSétáljon le a Gephuri Roboamhoz egy gyors fotó erejéig, majd keljen át Papa Nero nyugodt területén a meleg déli szellőben.\n\nTöltse a délután nagyrészét pihenéssel és napozással a hatalmas Papa Nero strandon, élvezve annak érintetlen homokját.\n\nZárja sétáját Tsouka sziklás, természetes kilátópontjának felfedezésével, hagyva, hogy a parti szél és a pazar kilátás lezárja a napot.",
+        "ro": "Începeți la plaja senină Plaka pentru a vă trezi cu o baie, urmată de o plimbare prin stațiunea Agios Ioannes.\n\nPlimbați-vă spre Gephuri Roboam pentru o fotografie rapidă, apoi treceți prin zona liniștită Papa Nero pentru prânz.\n\nPetreceți după-amiaza relaxându-vă și bucurându-vă de soare pe întinderea vastă a plajei Papa Nero, savurând nisipul curat.\n\nÎncheiați plimbarea explorând peisajul stâncos al Tsouka, permițând vânturilor de coastă și vederilor ample să încheie o zi superbă.",
+        "en": "Start at the serene Plaka beach to wake up with a fresh swim, followed by a lively stroll through the resort area of Agios Ioannes.\n\nWander down toward Gephuri Roboam for a quick photo, then transition through the tranquil area of Papa Nero just in time for a warm midday breeze.\n\nSpend the core of the afternoon lounging and soaking up the sun on the vast stretch of Papa Nero Beach, enjoying its pristine sands.\n\nConclude your walk by exploring the rocky, natural outlook of Tsouka, allowing the coastal winds and expansive sea views to wrap up a beautiful day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 3.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaka",
+            "hu": "Plaka",
+            "ro": "Plaka",
+            "en": "Plaka"
+          },
+          "coords": [
+            23.156437,
+            39.422929
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen atemberaubenden Kieselstrand inmitten grüner Hügel, ideal für ein morgendliches Bad, aber vergessen Sie nicht, Badeschuhe für mehr Komfort mitzubringen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, zöld dombokkal övezett kavicsos strandot, amely tökéletes egy reggeli úszáshoz, de a kényelem érdekében mindenképp hozzon magával vízicipőt.",
+            "ro": "Descoperiți această plajă cu pietriș uimitoare, înconjurată de dealuri verzi, perfectă pentru o baie matinală, dar nu uitați să vă aduceți încălțăminte de apă pentru confort.",
+            "en": "Discover this stunning pebbled beach surrounded by lush green hills, perfect for a peaceful morning swim, but don't forget to bring your own water shoes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Ioannes",
+            "hu": "Agios Ioannes",
+            "ro": "Agios Ioannes",
+            "en": "Agios Ioannes"
+          },
+          "coords": [
+            23.161833,
+            39.417652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem beliebten Badeort mit lebendiger Küstenenergie und kristallklarem Wasser, einem idealen Ort für ein erfrischendes Getränk in einem Strandcafé.",
+            "hu": "Pihenjen ebben a népszerű tengerparti üdülőhelyen, amely élénk parti energiát és kristálytiszta vizet kínál, ideális helyszínt nyújtva egy frissítő italhoz a kávézókban.",
+            "ro": "Relaxați-vă în această stațiune populară care oferă o energie de coastă vibrantă și ape cristaline, fiind locul ideal pentru o băutură răcoritoare la o cafenea de pe plajă.",
+            "en": "Relax at this popular seaside resort offering vibrant coastal energy and crystal-clear waters, making it an ideal spot to grab a refreshing drink at a local beachfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Gephuri Roboam",
+            "hu": "Gephuri Roboam",
+            "ro": "Gephuri Roboam",
+            "en": "Gephuri Roboam"
+          },
+          "coords": [
+            23.165209,
+            39.413731
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Natursteinbrücke, die sich nahtlos in die Waldlandschaft einfügt und eine schnelle, aber wunderbar malerische Fotogelegenheit auf dem Weg bietet.",
+            "hu": "Csodálja meg ezt a bájos természetes kőhidat, amely tökéletesen illeszkedik az erdős tájba, és gyors, de csodálatosan festői fotózási lehetőséget kínál az út mentén haladva.",
+            "ro": "Admirați acest pod fermecător din piatră naturală care se integrează perfect în peisajul forestier, oferind o oportunitate foto rapidă, dar minunat de pitorească pe traseu.",
+            "en": "Admire this charming natural stone bridge that blends seamlessly into the forested landscape, offering a quick but wonderfully picturesque photo opportunity along your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Papa Nero Strand",
+            "hu": "Papa Nero Strand",
+            "ro": "Plaja Papa Nero",
+            "en": "Papa Nero Beach"
+          },
+          "coords": [
+            23.168928,
+            39.409179
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem weitläufigen, von traditionellen Tavernen gesäumten Küstenabschnitt, wo das frühe Mieten einer Liege Ihnen den absolut besten Platz sichert.",
+            "hu": "Élvezze a napsütést ezen a hatalmas, hagyományos tavernákkal szegélyezett partszakaszon, ahol a napágy korai bérlése biztosítja, hogy a lehető legjobb helyet szerezze meg.",
+            "ro": "Bucurați-vă de soare pe această întindere spectaculoasă mărginită de taverne tradiționale, unde închirierea timpurie a unui șezlong vă asigură cel mai bun loc disponibil.",
+            "en": "Soak up the sun on this expansive stretch of spectacular shoreline lined with traditional tavernas, where renting a sunbed early ensures you get the absolute best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsouka",
+            "hu": "Tsouka",
+            "ro": "Tsouka",
+            "en": "Tsouka"
+          },
+          "coords": [
+            23.174075,
+            39.400992
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das raue, natürliche Gelände dieses Küstenabschnitts, das einen weiten Blick auf die Ägäis bietet und aus Sicherheitsgründen am besten auf markierten Wegen bleibt.",
+            "hu": "Fedezze fel ennek a tengerparti szakasznak a zord, természetes terepét, amely pazar kilátást nyújt az Égei-tengerre; a biztonság érdekében mindig maradjon a kijelölt utakon.",
+            "ro": "Explorați terenul natural accidentat al acestei forme de coastă care oferă vederi panoramice ale Mării Egee, cel mai bine savurate rămânând pe traseele marcate pentru siguranță.",
+            "en": "Explore the rugged natural terrain of this coastal feature that provides sweeping views of the Aegean Sea, best enjoyed by sticking to the well-marked trails for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Tsiligiorgis",
+            "hu": "Tsiligiorgis Tornya",
+            "ro": "Turnul Tsiligiorgis",
+            "en": "Tower of Tsiligiorgis"
+          },
+          "coords": [
+            23.181389,
+            39.40475
+          ],
+          "category": "castle",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei den Ruinen dieses historischen Wehrturms mit Panoramablick auf das Meer, der die kurze Wanderung wert ist, also tragen Sie feste Wanderschuhe.",
+            "hu": "Lépjen vissza az időben ennek a történelmi védelmi toronynak a romjainál, amely panorámás tengerparti kilátást nyújt, így megéri a rövid hegyi túrát, de viseljen stabil cipőt.",
+            "ro": "Întoarceți-vă în timp la ruinele acestui turn istoric de apărare care oferă panorame marine depline, meritând scurta drumeție la deal, așa că purtați pantofi rezistenți.",
+            "en": "Step back in time at the ruins of this historic defensive tower offering panoramic seaside vistas, making it worth the short uphill hike so wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Damouchari Strand",
+            "hu": "Damouchari Strand",
+            "ro": "Plaja Damouchari",
+            "en": "Damouchari Beach"
+          },
+          "coords": [
+            23.181396,
+            39.403672
+          ],
+          "category": "recreational",
+          "arrive_at": "15:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser atemberaubenden weißen Kieselbucht, die für ihr türkisfarbenes Wasser bekannt ist, ein idyllischer Ort, um den Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be a napot ezen a lélegzetelállító, fehér kavicsos, türkizkék vizéről híres öbölben, amely idilli hely arra, hogy végignézze, ahogy a nap lágyan elhalványul a horizonton.",
+            "ro": "Încheiați ziua în acest golfuleț uluitor cu pietricele albe, renumit pentru apele sale turcoaz cinematografice, un loc idilic pentru a privi soarele apunând ușor la orizont.",
+            "en": "End your day at this breathtaking white pebble cove famous for its cinematic turquoise waters, an idyllic spot to watch the sun gently fade into the twilight horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von den friedlichen Ufern Plakas los und fahren Sie sanft in das geschäftige Zentrum von Agios Ioannes für einen Start.\n\nRadeln Sie an der malerischen Steinbrücke von Gephuri Roboam vorbei, bevor Sie am Strand von Papa Nero ankommen, um zu baden.\n\nSetzen Sie Ihre Fahrt entlang der Küste nach Süden fort, um das wilde Terrain von Tsouka und die Burgruine Tsiligiorgis zu erkunden.\n\nBeenden Sie die Reise mit einer Abfahrt zum spektakulären, türkisfarbenen Strand von Damouchari, einem idealen Ort für die Abendruhe.",
+        "hu": "Tekerjen el Plaka békés partjaitól, és hajtson be Agios Ioannes nyüzsgő szívébe egy energikus indulásért.\n\nKerékpározzon el a Gephuri Roboam kőhídja mellett, mielőtt megérkezik a kedvelt Papa Nero strandra pihenni és fürdeni.\n\nFolytassa tengerparti útját dél felé, hogy felfedezze Tsouka vad terepét és a Tsiligiorgis torony történelmi romjait.\n\nFejezze be az utazást a látványos, türkizkék vizű Damouchari strandra gurulva, amely ideális hely egy esti pihenésre.",
+        "ro": "Porniți de pe țărmurile liniștite din Plaka și pedalați spre inima plină de viață a stațiunii Agios Ioannes pentru un început energic.\n\nCiclism pe lângă podul pitoresc de piatră Gephuri Roboam înainte de a ajunge la îndrăgita plajă Papa Nero pentru a vă odihni.\n\nContinuați călătoria de coastă spre sud pentru a explora terenul sălbatic din Tsouka și ruinele istorice ale Turnului Tsiligiorgis.\n\nTerminați călătoria coborând spre spectaculoasa plajă cu nuanțe turcoaz Damouchari, un loc ideal pentru o odihnă de seară.",
+        "en": "Pedal off from Plaka's peaceful shores and ride smoothly into the bustling heart of Agios Ioannes for an energetic start.\n\nCycle past the quaint stone bridge of Gephuri Roboam before arriving at the beloved Papa Nero Beach to rest and swim.\n\nContinue your coastal ride southward to explore the wild, natural terrain of Tsouka and the historic ruins of the Tower of Tsiligiorgis.\n\nFinish the journey coasting down to the spectacular, turquoise-hued Damouchari Beach, an ideal spot for an evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 3.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaka",
+            "hu": "Plaka",
+            "ro": "Plaka",
+            "en": "Plaka"
+          },
+          "coords": [
+            23.156437,
+            39.422929
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen atemberaubenden Kieselstrand inmitten grüner Hügel, ideal für ein morgendliches Bad, aber vergessen Sie nicht, Badeschuhe für mehr Komfort mitzubringen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, zöld dombokkal övezett kavicsos strandot, amely tökéletes egy reggeli úszáshoz, de a kényelem érdekében mindenképp hozzon magával vízicipőt.",
+            "ro": "Descoperiți această plajă cu pietriș uimitoare, înconjurată de dealuri verzi, perfectă pentru o baie matinală, dar nu uitați să vă aduceți încălțăminte de apă pentru confort.",
+            "en": "Discover this stunning pebbled beach surrounded by lush green hills, perfect for a peaceful morning swim, but don't forget to bring your own water shoes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Ioannes",
+            "hu": "Agios Ioannes",
+            "ro": "Agios Ioannes",
+            "en": "Agios Ioannes"
+          },
+          "coords": [
+            23.161833,
+            39.417652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem beliebten Badeort mit lebendiger Küstenenergie und kristallklarem Wasser, einem idealen Ort für ein erfrischendes Getränk in einem Strandcafé.",
+            "hu": "Pihenjen ebben a népszerű tengerparti üdülőhelyen, amely élénk parti energiát és kristálytiszta vizet kínál, ideális helyszínt nyújtva egy frissítő italhoz a kávézókban.",
+            "ro": "Relaxați-vă în această stațiune populară care oferă o energie de coastă vibrantă și ape cristaline, fiind locul ideal pentru o băutură răcoritoare la o cafenea de pe plajă.",
+            "en": "Relax at this popular seaside resort offering vibrant coastal energy and crystal-clear waters, making it an ideal spot to grab a refreshing drink at a local beachfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Gephuri Roboam",
+            "hu": "Gephuri Roboam",
+            "ro": "Gephuri Roboam",
+            "en": "Gephuri Roboam"
+          },
+          "coords": [
+            23.165209,
+            39.413731
+          ],
+          "category": "natural",
+          "arrive_at": "11:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Natursteinbrücke, die sich nahtlos in die Waldlandschaft einfügt und eine schnelle, aber wunderbar malerische Fotogelegenheit auf dem Weg bietet.",
+            "hu": "Csodálja meg ezt a bájos természetes kőhidat, amely tökéletesen illeszkedik az erdős tájba, és gyors, de csodálatosan festői fotózási lehetőséget kínál az út mentén haladva.",
+            "ro": "Admirați acest pod fermecător din piatră naturală care se integrează perfect în peisajul forestier, oferind o oportunitate foto rapidă, dar minunat de pitorească pe traseu.",
+            "en": "Admire this charming natural stone bridge that blends seamlessly into the forested landscape, offering a quick but wonderfully picturesque photo opportunity along your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Papa Nero Strand",
+            "hu": "Papa Nero Strand",
+            "ro": "Plaja Papa Nero",
+            "en": "Papa Nero Beach"
+          },
+          "coords": [
+            23.168928,
+            39.409179
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem weitläufigen, von traditionellen Tavernen gesäumten Küstenabschnitt, wo das frühe Mieten einer Liege Ihnen den absolut besten Platz sichert.",
+            "hu": "Élvezze a napsütést ezen a hatalmas, hagyományos tavernákkal szegélyezett partszakaszon, ahol a napágy korai bérlése biztosítja, hogy a lehető legjobb helyet szerezze meg.",
+            "ro": "Bucurați-vă de soare pe această întindere spectaculoasă mărginită de taverne tradiționale, unde închirierea timpurie a unui șezlong vă asigură cel mai bun loc disponibil.",
+            "en": "Soak up the sun on this expansive stretch of spectacular shoreline lined with traditional tavernas, where renting a sunbed early ensures you get the absolute best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsouka",
+            "hu": "Tsouka",
+            "ro": "Tsouka",
+            "en": "Tsouka"
+          },
+          "coords": [
+            23.174075,
+            39.400992
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das raue, natürliche Gelände dieses Küstenabschnitts, das einen weiten Blick auf die Ägäis bietet und aus Sicherheitsgründen am besten auf markierten Wegen bleibt.",
+            "hu": "Fedezze fel ennek a tengerparti szakasznak a zord, természetes terepét, amely pazar kilátást nyújt az Égei-tengerre; a biztonság érdekében mindig maradjon a kijelölt utakon.",
+            "ro": "Explorați terenul natural accidentat al acestei forme de coastă care oferă vederi panoramice ale Mării Egee, cel mai bine savurate rămânând pe traseele marcate pentru siguranță.",
+            "en": "Explore the rugged natural terrain of this coastal feature that provides sweeping views of the Aegean Sea, best enjoyed by sticking to the well-marked trails for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Tsiligiorgis",
+            "hu": "Tsiligiorgis Tornya",
+            "ro": "Turnul Tsiligiorgis",
+            "en": "Tower of Tsiligiorgis"
+          },
+          "coords": [
+            23.181389,
+            39.40475
+          ],
+          "category": "castle",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei den Ruinen dieses historischen Wehrturms mit Panoramablick auf das Meer, der die kurze Wanderung wert ist, also tragen Sie feste Wanderschuhe.",
+            "hu": "Lépjen vissza az időben ennek a történelmi védelmi toronynak a romjainál, amely panorámás tengerparti kilátást nyújt, így megéri a rövid hegyi túrát, de viseljen stabil cipőt.",
+            "ro": "Întoarceți-vă în timp la ruinele acestui turn istoric de apărare care oferă panorame marine depline, meritând scurta drumeție la deal, așa că purtați pantofi rezistenți.",
+            "en": "Step back in time at the ruins of this historic defensive tower offering panoramic seaside vistas, making it worth the short uphill hike so wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Damouchari Strand",
+            "hu": "Damouchari Strand",
+            "ro": "Plaja Damouchari",
+            "en": "Damouchari Beach"
+          },
+          "coords": [
+            23.181396,
+            39.403672
+          ],
+          "category": "recreational",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser atemberaubenden weißen Kieselbucht, die für ihr türkisfarbenes Wasser bekannt ist, ein idyllischer Ort, um den Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be a napot ezen a lélegzetelállító, fehér kavicsos, türkizkék vizéről híres öbölben, amely idilli hely arra, hogy végignézze, ahogy a nap lágyan elhalványul a horizonton.",
+            "ro": "Încheiați ziua în acest golfuleț uluitor cu pietricele albe, renumit pentru apele sale turcoaz cinematografice, un loc idilic pentru a privi soarele apunând ușor la orizont.",
+            "en": "End your day at this breathtaking white pebble cove famous for its cinematic turquoise waters, an idyllic spot to watch the sun gently fade into the twilight horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem von den ruhigen Buchten Plakas zur lebhaften Promenade von Agios Ioannes und genießen Sie den morgendlichen Meerblick.\n\nMachen Sie kurze Stopps am Gephuri Roboam für Fotos, bevor Sie gemütlich zum Strand von Papa Nero für eine Mittagspause fahren.\n\nFahren Sie weiter entlang der malerischen Küste, um den rauen Naturpunkt Tsouka zu besuchen und kurz zur Burgruine zu wandern.\n\nParken Sie in der Nähe des faszinierenden Strandes von Damouchari und lassen Sie die abendlichen Wellen eine unvergessliche Fahrt beenden.",
+        "hu": "Vezessen kényelmesen Plaka csendes öbleitől Agios Ioannes nyüzsgő sétányáig, és élvezze a gyönyörű reggeli tengerparti kilátást.\n\nTöltsön el egy kis időt a Gephuri Roboamnál egy fotóra, mielőtt kényelmesen legurulna a Papa Nero strandra egy déli pihenőre.\n\nVezessen tovább a festői partvonal mentén, hogy meglátogassa Tsouka zord természetes pontját és túrázzon a Tsiligiorgis toronyhoz.\n\nParkoljon le a lenyűgöző Damouchari strand közelében, és hagyja, hogy a nyugodt esti hullámok teljessé tegyék ezt a felejthetetlen autózást.",
+        "ro": "Conduceți lin de la golfurile liniștite din Plaka la promenada plină de viață din Agios Ioannes, admirând priveliștile matinale.\n\nFaceți opriri scurte la Gephuri Roboam pentru poze înainte de a coborî confortabil la plaja Papa Nero pentru o pauză de prânz.\n\nConduceți mai departe de-a lungul coastei pitorești pentru a vizita punctul natural Tsouka și faceți o drumeție la ruinele turnului.\n\nParcați lângă hipnotizanta plajă Damouchari, lăsând valurile calme de seară și cerul amurgului să completeze o plimbare memorabilă.",
+        "en": "Drive smoothly from the quiet coves of Plaka to the lively promenade of Agios Ioannes, taking in the beautiful morning sea views.\n\nMake brief stops at Gephuri Roboam for pictures before cruising comfortably down to Papa Nero Beach for a relaxing midday break.\n\nDrive further along the scenic coastline to visit the rugged natural point of Tsouka and hike briefly to the Tower of Tsiligiorgis ruins.\n\nPark up near the mesmerizing Damouchari Beach, letting the calm evening waves and twilight sky complete an unforgettable coastal drive."
+      }
+    }
+  }
+}

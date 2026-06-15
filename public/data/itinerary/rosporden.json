@@ -1,0 +1,474 @@
+{
+  "city_id": "rosporden",
+  "anchor": {
+    "name": "Rosporden",
+    "coords": [
+      -3.8347,
+      47.9606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rosporden-See",
+            "hu": "Rosporden-tó",
+            "ro": "Lacul Rosporden",
+            "en": "Rosporden Lake"
+          },
+          "coords": [
+            -3.832682,
+            47.960939
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen schönen See, um die ruhigen Wasserspiegelungen zu bewundern, und bringen Sie unbedingt Brotkrümel für die Enten am Ufer mit.",
+            "hu": "Sétáljon a gyönyörű tó körül, hogy megcsodálja a nyugodt víztükröződéseket, és feltétlenül hozzon magával madáreleséget a parton élő kacsák számára.",
+            "ro": "Plimbați-vă în jurul acestui lac frumos pentru a admira reflexiile apei și asigurați-vă că aduceți firimituri de pâine pentru rațele de pe țărmul pitoresc.",
+            "en": "Stroll around this beautiful lake to admire the tranquil water reflections, and be sure to bring bread crumbs for the local ducks along the scenic shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte in Rosporden",
+            "hu": "Voie Verte Rospordenben",
+            "ro": "Voie Verte în Rosporden",
+            "en": "Voie Verte à Rosporden"
+          },
+          "coords": [
+            -3.829457,
+            47.961633
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Beginn dieses historischen grünen Weges, der sich perfekt für einen gemütlichen Morgenspaziergang eignet, also tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel ennek a történelmi zöld útnak a kezdetét, amely tökéletes egy reggeli sétához, ezért viseljen kényelmes cipőt az egyenletes terepen való gyalogláshoz.",
+            "ro": "Descoperiți începutul acestei căi verzi istorice, perfectă pentru o plimbare de dimineață, așa că purtați încălțăminte comodă pentru terenul complet plat.",
+            "en": "Discover the start of this historic greenway which is perfect for a leisurely morning walk, so wear comfortable shoes to enjoy the flat and paved terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte (Grüner Weg)",
+            "hu": "Voie Verte (Zöld Út)",
+            "ro": "Voie Verte (Calea Verde)",
+            "en": "Voie Verte (Greenway)"
+          },
+          "coords": [
+            -3.82637,
+            47.963444
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Reise auf diesem schattigen Erholungsweg fort und mieten Sie sich ein Fahrrad in den nahegelegenen Geschäften, um ihn besser zu erkunden.",
+            "hu": "Folytassa útját ezen az árnyékos rekreációs ösvényen, és béreljen kerékpárt a közeli üzletekben, hogy sokkal hatékonyabban felfedezhesse a környéket.",
+            "ro": "Continuați călătoria de-a lungul acestui traseu umbrit și închiriați o bicicletă de la magazinele din apropiere pentru a-l explora mult mai eficient.",
+            "en": "Continue your journey along this shaded recreational trail offering rich local flora, and rent a bicycle from nearby shops to explore it more efficiently."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame d'Indulgence",
+            "hu": "Notre-Dame d'Indulgence templom",
+            "ro": "Biserica Notre-Dame d'Indulgence",
+            "en": "Notre-Dame d'Indulgence Church"
+          },
+          "coords": [
+            -3.827336,
+            47.959362
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche und betrachten Sie die atemberaubenden Buntglasfenster im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét, és nézze meg közelebbről a lenyűgöző ólomüveg ablakokat, amelyek a reggeli napfényben a legszebbek.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și priviți îndeaproape vitraliile uimitoare, cel mai bine de văzut în lumina splendidă a dimineții.",
+            "en": "Admire the striking Gothic architecture of this central church and look closely at the stunning stained glass windows best viewed during morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Rosporden",
+            "hu": "Rospordeni Kulturális Központ",
+            "ro": "Centrul Cultural din Rosporden",
+            "en": "Centre culturel de Rosporden"
+          },
+          "coords": [
+            -3.826647,
+            47.956981
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden kulturellen Ausstellungen, die das reiche Erbe von Rosporden zeigen, und prüfen Sie den Zeitplan für besondere Ereignisse.",
+            "hu": "Fedezze fel a Rosporden gazdag örökségét bemutató lenyűgöző kulturális kiállításokat, és előre ellenőrizze a programjukat a különleges szezonális eseményekért.",
+            "ro": "Explorați expozițiile culturale fascinante care prezintă moștenirea din Rosporden și verificați programul în avans pentru diverse evenimente speciale.",
+            "en": "Explore fascinating cultural exhibits showcasing the rich heritage of Rosporden, and check their schedule in advance for any special seasonal events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der natürlichen Ruhe des Sees von Rosporden, wo Sie die frische Luft genießen. Mittags erreichen Sie die berühmte Voie Verte, ideal für entspannte Spaziergänge. Am Nachmittag können Sie die Architektur der Kirche Notre-Dame d'Indulgence bewundern. Beenden Sie den Abend mit lokaler Kunst im Kulturzentrum und denken Sie an die charmanten Entdeckungen des Tages.",
+        "hu": "Kezdje a reggelt a Rosporden-tó természetes nyugalmában, élvezve a friss levegőt és a madárvilágot. Délben elérkezik a híres Voie Verte-hez, amely tökéletes egy frissítő sétához. Délután csodálja meg a Notre-Dame d'Indulgence templom egyedülálló építészetét. Zárja az estét a Kulturális Központban a helyi művészetekben elmerülve, visszatekintve a nap bájos felfedezéseire.",
+        "ro": "Începeți dimineața îmbrățișând liniștea naturală a Lacului Rosporden, bucurându-vă de aerul proaspăt. La amiază ajungeți la faimoasa Voie Verte, perfectă pentru o plimbare revigorantă. După-amiaza, admirați arhitectura Bisericii Notre-Dame d'Indulgence. Încheiați seara cufundați în arta locală la Centrul Cultural, reflectând asupra descoperirilor fermecătoare ale zilei.",
+        "en": "Begin your morning by embracing the natural tranquility of Rosporden Lake, enjoying the fresh air and birdlife. Midday brings you to the famous Voie Verte, perfect for a refreshing walk. In the afternoon, marvel at the Notre-Dame d'Indulgence Church's architecture. Conclude your evening immersed in local arts at the Cultural Center, reflecting on the day's charming discoveries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 7.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Éloi",
+            "hu": "Saint-Éloi Kápolna",
+            "ro": "Capela Saint-Éloi",
+            "en": "Chapelle Saint-Éloi"
+          },
+          "coords": [
+            -3.83999,
+            47.958605
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses friedliche religiöse Heiligtum, das dem Heiligen Eligius gewidmet ist, und beachten Sie die wunderschön geschnitzten Holzstatuen.",
+            "hu": "Lépjen be ebbe a Szent Elígiusznak szentelt békés vallási szentélybe, és figyelje meg a csendes belső teret díszítő, gyönyörűen faragott faszobrokat.",
+            "ro": "Pășiți în acest sanctuar religios pașnic închinat Sfântului Eligiu și observați statuile din lemn frumos sculptate care decorează interiorul liniștit.",
+            "en": "Step inside this peaceful religious sanctuary dedicated to Saint Eligius, and notice the beautifully carved wooden statues that decorate the quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosporden-See",
+            "hu": "Rosporden-tó",
+            "ro": "Lacul Rosporden",
+            "en": "Rosporden Lake"
+          },
+          "coords": [
+            -3.832682,
+            47.960939
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen schönen See, um die ruhigen Wasserspiegelungen zu bewundern, und bringen Sie unbedingt Brotkrümel für die Enten am Ufer mit.",
+            "hu": "Sétáljon a gyönyörű tó körül, hogy megcsodálja a nyugodt víztükröződéseket, és feltétlenül hozzon magával madáreleséget a parton élő kacsák számára.",
+            "ro": "Plimbați-vă în jurul acestui lac frumos pentru a admira reflexiile apei și asigurați-vă că aduceți firimituri de pâine pentru rațele de pe țărmul pitoresc.",
+            "en": "Stroll around this beautiful lake to admire the tranquil water reflections, and be sure to bring bread crumbs for the local ducks along the scenic shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame d'Indulgence",
+            "hu": "Notre-Dame d'Indulgence templom",
+            "ro": "Biserica Notre-Dame d'Indulgence",
+            "en": "Notre-Dame d'Indulgence Church"
+          },
+          "coords": [
+            -3.827336,
+            47.959362
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche und betrachten Sie die atemberaubenden Buntglasfenster im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét, és nézze meg közelebbről a lenyűgöző ólomüveg ablakokat, amelyek a reggeli napfényben a legszebbek.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și priviți îndeaproape vitraliile uimitoare, cel mai bine de văzut în lumina splendidă a dimineții.",
+            "en": "Admire the striking Gothic architecture of this central church and look closely at the stunning stained glass windows best viewed during morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte (Grüner Weg)",
+            "hu": "Voie Verte (Zöld Út)",
+            "ro": "Voie Verte (Calea Verde)",
+            "en": "Voie Verte (Greenway)"
+          },
+          "coords": [
+            -3.82637,
+            47.963444
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Reise auf diesem schattigen Erholungsweg fort und mieten Sie sich ein Fahrrad in den nahegelegenen Geschäften, um ihn besser zu erkunden.",
+            "hu": "Folytassa útját ezen az árnyékos rekreációs ösvényen, és béreljen kerékpárt a közeli üzletekben, hogy sokkal hatékonyabban felfedezhesse a környéket.",
+            "ro": "Continuați călătoria de-a lungul acestui traseu umbrit și închiriați o bicicletă de la magazinele din apropiere pentru a-l explora mult mai eficient.",
+            "en": "Continue your journey along this shaded recreational trail offering rich local flora, and rent a bicycle from nearby shops to explore it more efficiently."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Bonne-Nouvelle",
+            "hu": "Bonne-Nouvelle Kápolna",
+            "ro": "Capela Bonne-Nouvelle",
+            "en": "Chapelle Bonne-Nouvelle"
+          },
+          "coords": [
+            -3.835272,
+            47.985948
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelte lokale Geschichte an dieser malerischen nördlichen Kapelle und fotografieren Sie die charmante alte Steinfassade.",
+            "hu": "Fedezze fel a mélyen gyökerező helyi történelmet ennél a festői északi kápolnánál, és szánjon egy percet a bájos kőhomlokzatának lefotózására.",
+            "ro": "Descoperiți istoria locală la această capelă nordică pitorească și luați-vă un moment pentru a fotografia fațada sa fermecătoare din piatră veche.",
+            "en": "Uncover the deeply rooted local history at this picturesque northern chapel, taking a moment to photograph its charming stone facade against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Rosporden",
+            "hu": "Rospordeni Kulturális Központ",
+            "ro": "Centrul Cultural din Rosporden",
+            "en": "Centre culturel de Rosporden"
+          },
+          "coords": [
+            -3.826647,
+            47.956981
+          ],
+          "category": "cultural",
+          "arrive_at": "14:59",
+          "stay_min": 130,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden kulturellen Ausstellungen, die das reiche Erbe von Rosporden zeigen, und prüfen Sie den Zeitplan für besondere Ereignisse.",
+            "hu": "Fedezze fel a Rosporden gazdag örökségét bemutató lenyűgöző kulturális kiállításokat, és előre ellenőrizze a programjukat a különleges szezonális eseményekért.",
+            "ro": "Explorați expozițiile culturale fascinante care prezintă moștenirea din Rosporden și verificați programul în avans pentru diverse evenimente speciale.",
+            "en": "Explore fascinating cultural exhibits showcasing the rich heritage of Rosporden, and check their schedule in advance for any special seasonal events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der friedlichen Chapelle Saint-Éloi, bevor Sie zum malerischen Rosporden-See hinunterfahren. Mittags radeln Sie an der großen Kirche Notre-Dame d'Indulgence vorbei und erreichen die von Bäumen gesäumte Voie Verte. Der Nachmittag bietet eine längere Fahrt zur historischen Chapelle Bonne-Nouvelle. Beenden Sie die Reise am Kulturzentrum in kreativer Stimmung.",
+        "hu": "Kezdje kerékpáros kalandját a békés Chapelle Saint-Éloinál, majd guruljon le a Rosporden-tó festői partjára. Dél körül tekerjen el a nagyszerű Notre-Dame d'Indulgence templom mellett, és térjen rá a fás Voie Verte-re. A délután egy hosszabb utazást tartogat a történelmi Chapelle Bonne-Nouvelle-hez. Fejezze be az utazást a Kulturális Központban, átitatódva a város kreatív szellemével.",
+        "ro": "Începeți aventura pe bicicletă la Chapelle Saint-Éloi, înainte de a coborî spre țărmurile pitorești ale Lacului Rosporden. La prânz, pedalați pe lângă Biserica Notre-Dame d'Indulgence și alăturați-vă căii Voie Verte. După-amiaza oferă o plimbare mai lungă până la istorica Chapelle Bonne-Nouvelle. Încheiați călătoria la Centrul Cultural, bucurându-vă de spiritul creativ al orașului.",
+        "en": "Start your cycling adventure at the peaceful Chapelle Saint-Éloi before coasting down to the scenic shores of Rosporden Lake. Around midday, pedal past the grand Notre-Dame d'Indulgence Church and join the tree-lined Voie Verte. Your afternoon features a longer ride to the historic Chapelle Bonne-Nouvelle. Wrap up the journey at the Cultural Center, soaking in the town's creative spirit."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Bonne-Nouvelle",
+            "hu": "Bonne-Nouvelle Kápolna",
+            "ro": "Capela Bonne-Nouvelle",
+            "en": "Chapelle Bonne-Nouvelle"
+          },
+          "coords": [
+            -3.835272,
+            47.985948
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelte lokale Geschichte an dieser malerischen nördlichen Kapelle und fotografieren Sie die charmante alte Steinfassade.",
+            "hu": "Fedezze fel a mélyen gyökerező helyi történelmet ennél a festői északi kápolnánál, és szánjon egy percet a bájos kőhomlokzatának lefotózására.",
+            "ro": "Descoperiți istoria locală la această capelă nordică pitorească și luați-vă un moment pentru a fotografia fațada sa fermecătoare din piatră veche.",
+            "en": "Uncover the deeply rooted local history at this picturesque northern chapel, taking a moment to photograph its charming stone facade against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosporden-See",
+            "hu": "Rosporden-tó",
+            "ro": "Lacul Rosporden",
+            "en": "Rosporden Lake"
+          },
+          "coords": [
+            -3.832682,
+            47.960939
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen schönen See, um die ruhigen Wasserspiegelungen zu bewundern, und bringen Sie unbedingt Brotkrümel für die Enten am Ufer mit.",
+            "hu": "Sétáljon a gyönyörű tó körül, hogy megcsodálja a nyugodt víztükröződéseket, és feltétlenül hozzon magával madáreleséget a parton élő kacsák számára.",
+            "ro": "Plimbați-vă în jurul acestui lac frumos pentru a admira reflexiile apei și asigurați-vă că aduceți firimituri de pâine pentru rațele de pe țărmul pitoresc.",
+            "en": "Stroll around this beautiful lake to admire the tranquil water reflections, and be sure to bring bread crumbs for the local ducks along the scenic shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame d'Indulgence",
+            "hu": "Notre-Dame d'Indulgence templom",
+            "ro": "Biserica Notre-Dame d'Indulgence",
+            "en": "Notre-Dame d'Indulgence Church"
+          },
+          "coords": [
+            -3.827336,
+            47.959362
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche und betrachten Sie die atemberaubenden Buntglasfenster im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét, és nézze meg közelebbről a lenyűgöző ólomüveg ablakokat, amelyek a reggeli napfényben a legszebbek.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și priviți îndeaproape vitraliile uimitoare, cel mai bine de văzut în lumina splendidă a dimineții.",
+            "en": "Admire the striking Gothic architecture of this central church and look closely at the stunning stained glass windows best viewed during morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Éloi",
+            "hu": "Saint-Éloi Kápolna",
+            "ro": "Capela Saint-Éloi",
+            "en": "Chapelle Saint-Éloi"
+          },
+          "coords": [
+            -3.83999,
+            47.958605
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses friedliche religiöse Heiligtum, das dem Heiligen Eligius gewidmet ist, und beachten Sie die wunderschön geschnitzten Holzstatuen.",
+            "hu": "Lépjen be ebbe a Szent Elígiusznak szentelt békés vallási szentélybe, és figyelje meg a csendes belső teret díszítő, gyönyörűen faragott faszobrokat.",
+            "ro": "Pășiți în acest sanctuar religios pașnic închinat Sfântului Eligiu și observați statuile din lemn frumos sculptate care decorează interiorul liniștit.",
+            "en": "Step inside this peaceful religious sanctuary dedicated to Saint Eligius, and notice the beautifully carved wooden statues that decorate the quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Grégoire de Cadol",
+            "hu": "Saint-Grégoire de Cadol Kápolna",
+            "ro": "Capela Saint-Grégoire de Cadol",
+            "en": "Chapelle Saint-Grégoire de Cadol"
+          },
+          "coords": [
+            -3.857459,
+            47.940208
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese isolierte südliche Kapelle inmitten grüner Felder und packen Sie ein kleines Picknick ein, um die absolute Ruhe der Natur zu genießen.",
+            "hu": "Látogassa meg ezt a zöld mezőkkel körülvett, elszigetelt déli kápolnát, és csomagoljon egy kis pikniket a természeti környezet teljes nyugalmához.",
+            "ro": "Vizitați această capelă sudică izolată înconjurată de câmpuri verzi și împachetați un mic picnic pentru a vă bucura de liniștea absolută a naturii.",
+            "en": "Visit this isolated southern chapel surrounded by verdant fields, and pack a small picnic to enjoy the absolute tranquility of the natural environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-Bonne-Nouvelle",
+            "hu": "Notre-Dame-de-Bonne-Nouvelle Kápolna",
+            "ro": "Capela Notre-Dame-de-Bonne-Nouvelle",
+            "en": "Chapelle Notre-Dame-de-Bonne-Nouvelle"
+          },
+          "coords": [
+            -3.820766,
+            47.940916
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser südlichen religiösen Stätte und lesen Sie unbedingt die Informationstafeln, die ihre lokalen Legenden beschreiben.",
+            "hu": "Tapasztalja meg ennek a déli vallási helyszínnek a nyugodt spirituális légkörét, és feltétlenül olvassa el a helyi legendákat részletező táblákat.",
+            "ro": "Experimentați atmosfera spirituală senină a acestui sit religios sudic și asigurați-vă că citiți plăcile informative ce detaliază legendele locale.",
+            "en": "Experience the serene spiritual atmosphere of this southern religious site, making sure to read the informational plaques detailing its local legends."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Rosporden",
+            "hu": "Rospordeni Kulturális Központ",
+            "ro": "Centrul Cultural din Rosporden",
+            "en": "Centre culturel de Rosporden"
+          },
+          "coords": [
+            -3.826647,
+            47.956981
+          ],
+          "category": "cultural",
+          "arrive_at": "14:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden kulturellen Ausstellungen, die das reiche Erbe von Rosporden zeigen, und prüfen Sie den Zeitplan für besondere Ereignisse.",
+            "hu": "Fedezze fel a Rosporden gazdag örökségét bemutató lenyűgöző kulturális kiállításokat, és előre ellenőrizze a programjukat a különleges szezonális eseményekért.",
+            "ro": "Explorați expozițiile culturale fascinante care prezintă moștenirea din Rosporden și verificați programul în avans pentru diverse evenimente speciale.",
+            "en": "Explore fascinating cultural exhibits showcasing the rich heritage of Rosporden, and check their schedule in advance for any special seasonal events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt an der historischen Chapelle Bonne-Nouvelle, gefolgt von einem ruhigen Morgenspaziergang am Rosporden-See. Zu den Höhepunkten am Mittag zählen die Kirche Notre-Dame d'Indulgence und die Chapelle Saint-Éloi. Fahren Sie nachmittags nach Süden zur Chapelle Saint-Grégoire de Cadol. Ihr Tag endet im Kulturzentrum, um das lokale Erbe zu feiern.",
+        "hu": "Festői autózása a történelmi Chapelle Bonne-Nouvelle-nél kezdődik, melyet a Rosporden-tó melletti csendes reggeli séta követ. A déli látnivalók közé tartozik a lenyűgöző Notre-Dame d'Indulgence templom és a csendes Chapelle Saint-Éloi. Délután vezessen dél felé az elszigetelt Chapelle Saint-Grégoire de Cadolhoz. A nap a Kulturális Központban ér véget, megünnepelve a helyi örökséget.",
+        "ro": "Călătoria dvs. pitorească începe la istorica Chapelle Bonne-Nouvelle, urmată de o plimbare matinală la Lacul Rosporden. Reperele de la amiază includ Biserica Notre-Dame d'Indulgence și Chapelle Saint-Éloi. Conduceți spre sud după-amiaza pentru a descoperi izolată Chapelle Saint-Grégoire de Cadol. Ziua se încheie la Centrul Cultural, celebrând bogatul patrimoniul local.",
+        "en": "Your scenic drive begins at the historic Chapelle Bonne-Nouvelle, followed by a tranquil morning stroll by Rosporden Lake. Midday highlights include the stunning Notre-Dame d'Indulgence Church and the quiet Chapelle Saint-Éloi. Drive south in the afternoon to discover the isolated Chapelle Saint-Grégoire de Cadol. Your day concludes at the Cultural Center, celebrating local heritage."
+      }
+    }
+  }
+}

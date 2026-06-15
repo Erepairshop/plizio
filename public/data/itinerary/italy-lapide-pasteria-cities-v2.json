@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-lapide-pasteria-cities-v2",
+  "anchor": {
+    "name": "Lapide Pasteria",
+    "coords": [
+      15.22621,
+      37.80637
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.227378,
+            37.807688
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche mit ihrem eleganten Glockenturm und machen Sie eine friedliche Pause auf dem angrenzenden schattigen Platz, um das lokale Leben zu beobachten.",
+            "hu": "Látogasson el ebbe az elegáns harangtornyú központi templomba, és tartson egy békés szünetet a szomszédos árnyékos téren, hogy megfigyelje a helyi életet.",
+            "ro": "Vizitați această biserică centrală cu un turn cu clopot elegant și faceți o pauză pe piațeta umbrită alăturată pentru a observa viața locală.",
+            "en": "Visit this central church characterized by its elegant bell tower, and take a peaceful break in the adjacent shaded square to observe the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di San Marco",
+            "hu": "Spiaggia di San Marco",
+            "ro": "Spiaggia di San Marco",
+            "en": "Spiaggia di San Marco"
+          },
+          "coords": [
+            15.24672,
+            37.797693
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick und die sanfte Brise an diesem beliebten Kieselstrand und tragen Sie feste Wasserschuhe für ein leichteres Schwimmen.",
+            "hu": "Élvezze a tengeri kilátást és a lágy szellőt ezen a népszerű kavicsos strandon, és fontolja meg vízicipő viselését az egyszerűbb fürdőzés érdekében.",
+            "ro": "Bucurați-vă de priveliștile ample la mare la această plajă populară cu pietriș și luați în considerare purtarea unor pantofi de apă pentru un înot mai ușor.",
+            "en": "Enjoy the sweeping sea views and gentle breezes at this popular pebble beach, and consider wearing sturdy water shoes for an easier time swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+          },
+          "coords": [
+            15.232504,
+            37.79149
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den üppigen Pfaden dieses einzigartigen Naturschutzgebiets am kalten Fluss und halten Sie Ihre Kamera bereit, um seltene Vögel zu sichten.",
+            "hu": "Sétáljon a hideg folyó által kialakított egyedülálló parti természetvédelmi terület buja ösvényein, és tartsa készenlétben a fényképezőgépét a ritka madarak miatt.",
+            "ro": "Plimbați-vă pe cărările luxuriante ale acestei rezervații naturale unice formate de un râu rece, ținând aparatul foto pregătit pentru păsări rare.",
+            "en": "Walk along the lush paths of this unique coastal nature reserve formed by a cold river, keeping your camera ready to spot rare migratory birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mare Kambo",
+            "hu": "Lido Mare Kambo",
+            "ro": "Lido Mare Kambo",
+            "en": "Lido Mare Kambo"
+          },
+          "coords": [
+            15.2355,
+            37.785608
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt mit herrlich klarem Wasser, aber bringen Sie Sonnencreme und ein gutes Strandtuch für mehr Komfort mit.",
+            "hu": "Pihenjen ezen a festői tengerparti szakaszon, ahol a víz hívogatóan tiszta, de a kényelem érdekében hozzon magával naptejet és egy jó strandtörölközőt.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă cu apă limpede, dar aduceți-vă propria cremă de protecție solară și un prosop bun de plajă.",
+            "en": "Relax on this picturesque stretch of coastline where the water is invitingly clear, but bring your own sunscreen and a good beach towel for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Rosario",
+            "hu": "Chiesa della Madonna del Rosario",
+            "ro": "Chiesa della Madonna del Rosario",
+            "en": "Chiesa della Madonna del Rosario"
+          },
+          "coords": [
+            15.213758,
+            37.78996
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die wunderschöne religiöse Kunst in diesem ruhigen Heiligtum und ruhen Sie sich einen Moment aus, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Fedezze fel az e békés szentélyben őrzött gyönyörű vallási művészetet, és pihenjen egy pillanatot a csendes padokban a séta folytatása előtt.",
+            "ro": "Descoperiți frumoasa artă religioasă din acest sanctuar senin și odihniți-vă un moment în băncile liniștite înainte de a vă continua plimbarea.",
+            "en": "Discover the beautiful religious art housed within this serene sanctuary, and take a moment to rest in the quiet pews before continuing your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Lapide Pasteria an der charmanten Kirche San Giuseppe und genießen Sie die morgendliche Ruhe.\n\nGehen Sie zur Küste, um die natürliche Schönheit der Gegend zu entdecken und die Meeresbrise am Spiaggia di San Marco zu genießen.\n\nSetzen Sie Ihre Küstenerkundung am Lido Mare Kambo fort, wo Sie sich am klaren Wasser entspannen können, bevor es landeinwärts geht.\n\nBeenden Sie Ihren Ausflug mit einem Besuch der Chiesa della Madonna del Rosario und lassen Sie die Mischung aus Natur und Geschichte Revue passieren.",
+        "hu": "Kezdje a kényelmes sétát Lapide Pasteria szívében a bájos San Giuseppe templomnál, és élvezze a reggeli nyugalmat.\n\nIrány a part, hogy felfedezze a környék természeti szépségeit, élvezve a tengerparti szellőt a Spiaggia di San Marco-nál.\n\nFolytassa a tengerparti felfedezést a Lido Mare Kambo strandon, ahol a tiszta vízparton pihenhet, mielőtt visszatérne a szárazföldre.\n\nZárja a napot a Madonna del Rosario templom békés meglátogatásával, visszagondolva a természet és a történelem gyönyörű keverékére.",
+        "ro": "Începeți plimbarea relaxantă în inima Lapide Pasteria la fermecătoarea Biserică San Giuseppe, bucurându-vă de liniștea dimineții.\n\nÎndreptați-vă spre coastă pentru a descoperi frumusețea naturală, bucurându-vă de briza la Spiaggia di San Marco și în rezervația naturală.\n\nContinuați explorarea coastei la Lido Mare Kambo, unde vă puteți relaxa lângă apele limpezi înainte de a vă întoarce spre interior.\n\nÎncheiați ziua cu o vizită liniștită la Chiesa della Madonna del Rosario, reflectând la amestecul frumos de natură și istorie.",
+        "en": "Begin your leisurely walk in the heart of Lapide Pasteria at the charming Chiesa di San Giuseppe, soaking in the morning tranquility.\n\nHead towards the coast to discover the natural beauty of the area, enjoying the coastal breezes at Spiaggia di San Marco and the serene nature reserve.\n\nContinue your coastal exploration at Lido Mare Kambo, where you can relax by the clear waters before heading back inland.\n\nConclude your day trip with a peaceful visit to Chiesa della Madonna del Rosario, reflecting on the beautiful blend of nature and history experienced today."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 6.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Carmine al Castello",
+            "hu": "Chiesa della Madonna del Carmine al Castello",
+            "ro": "Chiesa della Madonna del Carmine al Castello",
+            "en": "Chiesa della Madonna del Carmine al Castello"
+          },
+          "coords": [
+            15.227872,
+            37.826638
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem dramatischen Heiligtum auf einem Hügel hinauf, das spektakuläre Ausblicke auf die Küste bietet, aber seien Sie auf einen steilen Weg vorbereitet.",
+            "hu": "Másszon fel ehhez a drámai domboldali szentélyhez, amely látványos panorámát nyújt a partra, de készüljön fel a meredek és kissé egyenetlen ösvényre.",
+            "ro": "Urcați la acest sanctuar dramatic de pe deal, care oferă vederi panoramice spectaculoase ale coastei, dar fiți pregătiți pentru o potecă abruptă.",
+            "en": "Ascend to this dramatic hillside sanctuary that offers spectacular panoramic views of the coast, but be prepared for a steep and slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Annunziata",
+            "hu": "Chiesa dell'Annunziata",
+            "ro": "Chiesa dell'Annunziata",
+            "en": "Chiesa dell'Annunziata"
+          },
+          "coords": [
+            15.227864,
+            37.822513
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ruhigen Charme dieser wunderschön erhaltenen historischen Pfarrei und achten Sie besonders auf die kunstvollen Holzschnitzereien am Hauptaltar.",
+            "hu": "Fedezze fel ennek a gyönyörűen megőrzött történelmi plébániának a csendes báját, különös figyelmet fordítva a főoltárt díszítő fafaragásokra.",
+            "ro": "Explorați farmecul liniștit al acestei parohii istorice frumos conservate, acordând o atenție deosebită sculpturilor complicate din lemn care împodobesc altarul.",
+            "en": "Explore the quiet charm of this beautifully preserved historic parish, taking special note of the intricate wooden carvings adorning its main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.227378,
+            37.807688
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche mit ihrem eleganten Glockenturm und machen Sie eine friedliche Pause auf dem angrenzenden schattigen Platz, um das lokale Leben zu beobachten.",
+            "hu": "Látogasson el ebbe az elegáns harangtornyú központi templomba, és tartson egy békés szünetet a szomszédos árnyékos téren, hogy megfigyelje a helyi életet.",
+            "ro": "Vizitați această biserică centrală cu un turn cu clopot elegant și faceți o pauză pe piațeta umbrită alăturată pentru a observa viața locală.",
+            "en": "Visit this central church characterized by its elegant bell tower, and take a peaceful break in the adjacent shaded square to observe the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+          },
+          "coords": [
+            15.232504,
+            37.79149
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den üppigen Pfaden dieses einzigartigen Naturschutzgebiets am kalten Fluss und halten Sie Ihre Kamera bereit, um seltene Vögel zu sichten.",
+            "hu": "Sétáljon a hideg folyó által kialakított egyedülálló parti természetvédelmi terület buja ösvényein, és tartsa készenlétben a fényképezőgépét a ritka madarak miatt.",
+            "ro": "Plimbați-vă pe cărările luxuriante ale acestei rezervații naturale unice formate de un râu rece, ținând aparatul foto pregătit pentru păsări rare.",
+            "en": "Walk along the lush paths of this unique coastal nature reserve formed by a cold river, keeping your camera ready to spot rare migratory birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di San Marco",
+            "hu": "Spiaggia di San Marco",
+            "ro": "Spiaggia di San Marco",
+            "en": "Spiaggia di San Marco"
+          },
+          "coords": [
+            15.24672,
+            37.797693
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick und die sanfte Brise an diesem beliebten Kieselstrand und tragen Sie feste Wasserschuhe für ein leichteres Schwimmen.",
+            "hu": "Élvezze a tengeri kilátást és a lágy szellőt ezen a népszerű kavicsos strandon, és fontolja meg vízicipő viselését az egyszerűbb fürdőzés érdekében.",
+            "ro": "Bucurați-vă de priveliștile ample la mare la această plajă populară cu pietriș și luați în considerare purtarea unor pantofi de apă pentru un înot mai ușor.",
+            "en": "Enjoy the sweeping sea views and gentle breezes at this popular pebble beach, and consider wearing sturdy water shoes for an easier time swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mare Kambo",
+            "hu": "Lido Mare Kambo",
+            "ro": "Lido Mare Kambo",
+            "en": "Lido Mare Kambo"
+          },
+          "coords": [
+            15.2355,
+            37.785608
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt mit herrlich klarem Wasser, aber bringen Sie Sonnencreme und ein gutes Strandtuch für mehr Komfort mit.",
+            "hu": "Pihenjen ezen a festői tengerparti szakaszon, ahol a víz hívogatóan tiszta, de a kényelem érdekében hozzon magával naptejet és egy jó strandtörölközőt.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă cu apă limpede, dar aduceți-vă propria cremă de protecție solară și un prosop bun de plajă.",
+            "en": "Relax on this picturesque stretch of coastline where the water is invitingly clear, but bring your own sunscreen and a good beach towel for comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit einer steilen, aber lohnenden Fahrt zur historischen Gegend des Castello mit der Kirche Madonna del Carmine.\n\nFahren Sie bergab durch die Straßen von Calatabiano, halten Sie an den Kirchen Annunziata und San Giuseppe, bevor Sie zur Küste radeln.\n\nGenießen Sie eine malerische Fahrt durch das Naturschutzgebiet Fiumefreddo und bewundern Sie die Flora und die kühle Luft des Flusses.\n\nBeenden Sie Ihre Radtour entlang der Küste am Spiaggia di San Marco und Lido Mare Kambo und ruhen Sie Ihre Beine aus.",
+        "hu": "Kezdje kerékpáros kalandját egy meredek, de hálás tekeréssel a történelmi Castello negyedbe, meglátogatva a panorámás Madonna del Carmine-t.\n\nGuruljon lefelé Calatabiano utcáin, álljon meg az Annunziata és San Giuseppe templomoknál, mielőtt a zöldellő part felé pedálozna.\n\nÉlvezze a festői utazást a Fiumefreddo Természetvédelmi Területen, megcsodálva az egyedi növényvilágot és a folyó frissítő hűvösét.\n\nFejezze be a kerékpártúrát a part mentén, a Spiaggia di San Marco és a Lido Mare Kambo érintésével, megpihenve a hullámok közelében.",
+        "ro": "Începeți aventura cu bicicleta cu o urcare abruptă, dar plină de satisfacții spre zona istorică Castello, vizitând panoramica Madonna del Carmine.\n\nCoborâți pe străzile din Calatabiano, oprindu-vă la bisericile Annunziata și San Giuseppe înainte de a pedala spre coasta luxuriantă.\n\nBucurați-vă de o plimbare pitorească prin Rezervația Naturală Fiumefreddo, admirând flora unică și aerul rece și răcoritor de la râu.\n\nTerminați turul cu bicicleta de-a lungul țărmului la Spiaggia di San Marco și Lido Mare Kambo, odihnindu-vă picioarele la sunetul valurilor.",
+        "en": "Start your cycling adventure with a steep but rewarding ride up to the historic Castello area, visiting the panoramic Madonna del Carmine.\n\nCruise downhill through the streets of Calatabiano, stopping at the Annunziata and San Giuseppe churches before pedaling towards the lush coast.\n\nEnjoy a scenic ride through the Fiumefreddo Nature Reserve, taking in the unique flora and the refreshing cool air from the river.\n\nFinish your biking tour along the shoreline at Spiaggia di San Marco and Lido Mare Kambo, resting your legs as you watch the waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Rossa",
+            "hu": "Torre Rossa",
+            "ro": "Torre Rossa",
+            "en": "Torre Rossa"
+          },
+          "coords": [
+            15.201035,
+            37.799604
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses markante rote Grabmonument aus römischer Zeit, ein seltenes Juwel, das im weichen Morgenlicht am besten fotografiert wird.",
+            "hu": "Csodálja meg ezt a lenyűgöző római kori vörös téglás síremléket, amely egy ritka építészeti gyöngyszem, és a kora reggeli fényben a legszebb.",
+            "ro": "Admirați acest monument funerar roman impresionant din cărămidă roșie, o bijuterie arhitecturală rară, care se fotografiază cel mai bine dimineața.",
+            "en": "Marvel at this striking Roman-era red brick funerary monument, a rare architectural gem, best photographed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Vincenzo Ferreri",
+            "hu": "Chiesa di San Vincenzo Ferreri",
+            "ro": "Chiesa di San Vincenzo Ferreri",
+            "en": "Chiesa di San Vincenzo Ferreri"
+          },
+          "coords": [
+            15.210524,
+            37.797854
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um die friedliche Atmosphäre und die historischen Altäre zu würdigen, wobei auf angemessene Kleidung zu achten ist.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy élvezze annak békés hangulatát és történelmi oltárait, ügyelve a visszafogott öltözködésre.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera liniștită și altarele istorice, asigurându-vă că purtați o ținută decentă.",
+            "en": "Step inside this charming local church to appreciate its peaceful atmosphere and historic altars, making sure to dress modestly for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di Maria Santissima Immacolata",
+            "hu": "chiesa di Maria Santissima Immacolata",
+            "ro": "chiesa di Maria Santissima Immacolata",
+            "en": "chiesa di Maria Santissima Immacolata"
+          },
+          "coords": [
+            15.207575,
+            37.791974
+          ],
+          "category": "religious",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Fassade dieser tief verehrten Gemeindekirche und informieren Sie sich über anstehende traditionelle Pfarrfeste.",
+            "hu": "Csodálja meg ennek a mélyen tisztelt közösségi templomnak a klasszikus homlokzatát, és keresse a helyi hirdetőtáblán a közelgő plébániai ünnepeket.",
+            "ro": "Admirați fațada clasică a acestei biserici comunitare profund venerate și verificați panoul local pentru eventualele festivaluri parohiale viitoare.",
+            "en": "Admire the classical facade of this deeply venerated community church, and check the local board for any upcoming traditional parish festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+            "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+          },
+          "coords": [
+            15.232504,
+            37.79149
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den üppigen Pfaden dieses einzigartigen Naturschutzgebiets am kalten Fluss und halten Sie Ihre Kamera bereit, um seltene Vögel zu sichten.",
+            "hu": "Sétáljon a hideg folyó által kialakított egyedülálló parti természetvédelmi terület buja ösvényein, és tartsa készenlétben a fényképezőgépét a ritka madarak miatt.",
+            "ro": "Plimbați-vă pe cărările luxuriante ale acestei rezervații naturale unice formate de un râu rece, ținând aparatul foto pregătit pentru păsări rare.",
+            "en": "Walk along the lush paths of this unique coastal nature reserve formed by a cold river, keeping your camera ready to spot rare migratory birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.227378,
+            37.807688
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche mit ihrem eleganten Glockenturm und machen Sie eine friedliche Pause auf dem angrenzenden schattigen Platz, um das lokale Leben zu beobachten.",
+            "hu": "Látogasson el ebbe az elegáns harangtornyú központi templomba, és tartson egy békés szünetet a szomszédos árnyékos téren, hogy megfigyelje a helyi életet.",
+            "ro": "Vizitați această biserică centrală cu un turn cu clopot elegant și faceți o pauză pe piațeta umbrită alăturată pentru a observa viața locală.",
+            "en": "Visit this central church characterized by its elegant bell tower, and take a peaceful break in the adjacent shaded square to observe the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Crocifisso al Castello",
+            "hu": "Chiesa del Santissimo Crocifisso al Castello",
+            "ro": "Chiesa del Santissimo Crocifisso al Castello",
+            "en": "Chiesa del Santissimo Crocifisso al Castello"
+          },
+          "coords": [
+            15.227954,
+            37.827541
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Geschichte dieser dominierenden Kirche auf dem Hügel nahe der Burgruine und bringen Sie Wasser mit, um beim sonnigen Aufstieg hydriert zu bleiben.",
+            "hu": "Tapasztalja meg a várromok közelében lévő dombtetői templom mély történelmét, és hozzon magával kulacsot, hogy hidratált maradjon a napsütéses mászás során.",
+            "ro": "Experimentați istoria profundă a acestei biserici de pe deal, lângă ruinele castelului, aducând apă pentru a vă hidrata în timpul urcării însorite.",
+            "en": "Experience the profound history of this commanding hilltop church near the castle ruins, bringing a water bottle to stay hydrated during the sunny climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur antiken Torre Rossa, um die römische Architektur zu sehen, und besuchen Sie dann die historischen Kirchen in Fiumefreddo.\n\nMachen Sie eine kurze Fahrt zum Naturschutzgebiet Fiumefreddo für einen schönen Spaziergang in dieser geschützten Oase.\n\nParken Sie in der Nähe des Zentrums, um die elegante Chiesa di San Giuseppe zu bewundern, ein idealer Ort, um einen lokalen Kaffee zu trinken.\n\nZum Abschluss fahren Sie zum Castello und steigen am imposanten Santissimo Crocifisso aus, um die weite Aussicht zu genießen.",
+        "hu": "Vezessen az ősi Torre Rossa-hoz, hogy megcsodálja a római építészetet, majd látogassa meg Fiumefreddo közeli történelmi templomait.\n\nTegyen egy rövid utat a Fiumefreddo Természetvédelmi Területhez egy gyönyörű sétára ebben a védett oázisban, felfrissülve a város után.\n\nParkoljon le az élénk központ közelében, hogy megcsodálja a San Giuseppe templomot, amely ideális hely egy helyi kávé elfogyasztására.\n\nZárásként hajtson fel a Castello területére, és az impozáns Santissimo Crocifisso-nál élvezze a csodálatos kilátást a nap végén.",
+        "ro": "Conduceți la antica Torre Rossa pentru a vedea arhitectura romană remarcabilă, apoi vizitați bisericile istorice din Fiumefreddo.\n\nFaceți o scurtă plimbare cu mașina până la Rezervația Naturală Fiumefreddo pentru o plimbare frumoasă în această oază protejată.\n\nParcați lângă centrul plin de viață pentru a admira eleganta Chiesa di San Giuseppe, un loc ideal pentru a savura o cafea locală.\n\nÎncheiați conducând până la zona Castello, coborând la impunătorul Santissimo Crocifisso pentru a vă bucura de priveliști uimitoare.",
+        "en": "Drive to the ancient Torre Rossa to witness its remarkable Roman architecture, then visit the nearby historic churches in Fiumefreddo.\n\nTake a short drive to the Fiumefreddo Nature Reserve for a beautiful stroll in this protected oasis, offering a refreshing break from the town.\n\nPark near the lively center to admire the elegant Chiesa di San Giuseppe, an ideal spot to stretch your legs and grab a local coffee.\n\nConclude by driving up to the Castello area, stepping out at the imposing Santissimo Crocifisso to enjoy commanding views as the day ends."
+      }
+    }
+  }
+}

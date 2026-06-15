@@ -1,0 +1,543 @@
+{
+  "city_id": "castanet-tolosan",
+  "anchor": {
+    "name": "Castanet-Tolosan",
+    "coords": [
+      1.4981,
+      43.5156
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Gervais et Saint-Protais",
+            "hu": "Église de Saint-Gervais et Saint-Protais",
+            "ro": "Église de Saint-Gervais et Saint-Protais",
+            "en": "Church of Saint-Gervais and Saint-Protais"
+          },
+          "coords": [
+            1.497967,
+            43.516266
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Parc de la Mairie",
+            "ro": "Parc de la Mairie",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            1.50003,
+            43.517846
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
+            "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
+            "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Jacques Brel",
+            "hu": "Salle Jacques Brel",
+            "ro": "Salle Jacques Brel",
+            "en": "Salle Jacques Brel"
+          },
+          "coords": [
+            1.504242,
+            43.517758
+          ],
+          "category": "cultural",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
+            "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
+            "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin",
+            "hu": "Le Moulin",
+            "ro": "Le Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            1.497253,
+            43.510226
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
+            "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
+            "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Séverin",
+            "hu": "Église Saint-Séverin",
+            "ro": "Église Saint-Séverin",
+            "en": "Église Saint-Séverin"
+          },
+          "coords": [
+            1.487093,
+            43.526179
+          ],
+          "category": "religious",
+          "arrive_at": "14:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige, weniger bekannte Kirche ein, um ihre bescheidene, aber authentische historische Architektur zu schätzen; beachten Sie, dass die Türen zur Mittagszeit verschlossen sein können.",
+            "hu": "Lépjen be ebbe a csendes, kevésbé ismert templomba, hogy értékelje szerény, de hiteles történelmi építészetét; vegye figyelembe, hogy az ajtók ebédidőben zárva lehetnek, ezért tervezzen előre.",
+            "ro": "Intrați în această biserică liniștită și mai puțin cunoscută pentru a aprecia arhitectura sa istorică modestă, dar autentică; rețineți că ușile ar putea fi încuiate în timpul prânzului.",
+            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im historischen Zentrum an der beeindruckenden Kirche der Heiligen Gervais und Protais. Mittags entspannen Sie sich im grünen Rathauspark, bevor Sie die kulturellen Ausstellungen im Salle Jacques Brel erkunden. Der Nachmittag führt Sie zum historischen Moulin, das die landwirtschaftliche Vergangenheit von Castanet-Tolosan zeigt. Beenden Sie den Tag an der Église Saint-Séverin in einer ruhigen Atmosphäre.",
+        "hu": "Kezdje a napot a történelmi központban, a Szent Gervasius és Protasius templom megtekintésével. Délben pihenjen meg a zöldellő Városháza parkban, mielőtt felfedezné a Salle Jacques Brel kulturális kiállításait. Délután sétáljon el a történelmi malomhoz, amely Castanet-Tolosan mezőgazdasági múltját idézi. A napot a csendes hangulatú Saint-Séverin templomnál zárja.",
+        "ro": "Începeți ziua în centrul istoric la impresionanta Biserică Sfinții Gervasie și Protasie. La prânz, relaxați-vă în verdele Parc al Primăriei înainte de a explora expozițiile de la Salle Jacques Brel. După-amiaza vă duce la istoricul Moulin, care reflectă trecutul agricol al orașului Castanet-Tolosan. Încheiați ziua într-o atmosferă liniștită la Église Saint-Séverin.",
+        "en": "Start the day in the historical center at the impressive Church of Saint-Gervais and Saint-Protais. At midday, relax in the verdant Town Hall Park before exploring the cultural exhibitions at Salle Jacques Brel. The afternoon takes you to the historic Moulin, reflecting the agricultural past of Castanet-Tolosan. End the day in a peaceful atmosphere at the Église Saint-Séverin."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Gervais et Saint-Protais",
+            "hu": "Église de Saint-Gervais et Saint-Protais",
+            "ro": "Église de Saint-Gervais et Saint-Protais",
+            "en": "Church of Saint-Gervais and Saint-Protais"
+          },
+          "coords": [
+            1.497967,
+            43.516266
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Parc de la Mairie",
+            "ro": "Parc de la Mairie",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            1.50003,
+            43.517846
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
+            "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
+            "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Jacques Brel",
+            "hu": "Salle Jacques Brel",
+            "ro": "Salle Jacques Brel",
+            "en": "Salle Jacques Brel"
+          },
+          "coords": [
+            1.504242,
+            43.517758
+          ],
+          "category": "cultural",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
+            "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
+            "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin",
+            "hu": "Le Moulin",
+            "ro": "Le Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            1.497253,
+            43.510226
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
+            "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
+            "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin de Péchabou",
+            "hu": "Église Saint-Martin de Péchabou",
+            "ro": "Église Saint-Martin de Péchabou",
+            "en": "Église Saint-Martin de Péchabou"
+          },
+          "coords": [
+            1.509348,
+            43.500701
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche bietet einen Einblick in die ländlichen religiösen Traditionen der Region; sie liegt etwas abseits der Hauptstraße und ist ein perfekter Ort für ruhige Besinnung.",
+            "hu": "Ez a bájos templom bepillantást enged a régió vidéki vallási hagyományaiba; kissé távolabb esik a főúttól, így tökéletes hely a csendes elmélkedésre.",
+            "ro": "Această biserică fermecătoare oferă o privire asupra tradițiilor religioase rurale din regiune; se află ușor îndepărtată de drumul principal, fiind un loc perfect pentru reflecție liniștită.",
+            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.47338,
+            43.507455
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinfassade und die friedliche Umgebung dieses historischen Gebäudes; der Kirchhof ist sehr ruhig und bietet an sonnigen Nachmittagen einen schönen schattigen Bereich.",
+            "hu": "Csodálja meg a történelmi épület masszív kőhomlokzatát és békés környezetét; a templomudvar nagyon nyugodt, és szép árnyékos területet kínál a napos délutánokon.",
+            "ro": "Admirați fațada robustă de piatră și împrejurimile pașnice ale acestei clădiri istorice; curtea bisericii este foarte senină și oferă o zonă umbrită plăcută în după-amiezele însorite.",
+            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir des Frères Tailleurs",
+            "hu": "Manoir des Frères Tailleurs",
+            "ro": "Manoir des Frères Tailleurs",
+            "en": "Manoir des Frères Tailleurs"
+          },
+          "coords": [
+            1.478637,
+            43.526551
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, das elegante Äußere dieses klassischen Herrenhauses zu betrachten; da es sich größtenteils um ein privates oder administratives Anwesen handelt, konzentrieren Sie Ihre Fotografie auf die architektonischen Details von den öffentlichen Wegen aus.",
+            "hu": "Szánjon időt e klasszikus kúria elegáns külsejének megtekintésére; mivel nagyrészt magán- vagy közigazgatási birtok, fókuszálja a fényképezést az építészeti részletekre a nyilvános utakról.",
+            "ro": "Luați-vă timp pentru a vedea exteriorul elegant al acestui conac clasic; fiind în mare parte un domeniu privat sau administrativ, concentrați-vă fotografia pe detaliile arhitecturale de pe căile publice.",
+            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Zentrum und radeln Sie vom beeindruckenden Kirchenbauwerk zum erholsamen Rathauspark für einen entspannten Vormittag. Mittags entdecken Sie die Kunst im Salle Jacques Brel und fahren weiter zur historischen Mühle im Süden. Am Nachmittag bringt Sie eine malerische Fahrt zur Église Saint-Martin de Péchabou und zur Église Saint-Jean-Baptiste. Der Abend endet am eleganten Manoir des Frères Tailleurs.",
+        "hu": "Induljon a központból, és tekerjen a lenyűgöző templomtól a Városháza parkig egy pihentető délelőttre. Délben fedezze fel a művészetet a Salle Jacques Brel-ben, majd tekerjen délre a történelmi malomhoz. Délután egy festői út viszi a Saint-Martin de Péchabou és a Saint-Jean-Baptiste templomokhoz. Az este az elegáns Manoir des Frères Tailleurs-nél ér véget.",
+        "ro": "Începeți în centru și pedalați de la biserica impresionantă la Parcul Primăriei pentru o dimineață relaxantă. La prânz, descoperiți arta la Salle Jacques Brel și continuați spre moara istorică din sud. După-amiaza, o plimbare pitorească vă duce la bisericile Saint-Martin de Péchabou și Saint-Jean-Baptiste. Seara se încheie la elegantul Manoir des Frères Tailleurs.",
+        "en": "Start in the center and cycle from the impressive church to the Town Hall Park for a relaxing morning. At midday, discover the art at Salle Jacques Brel and continue to the historic mill in the south. In the afternoon, a scenic ride takes you to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The evening concludes at the elegant Manoir des Frères Tailleurs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:37",
+      "total_km": 10.4,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Gervais et Saint-Protais",
+            "hu": "Église de Saint-Gervais et Saint-Protais",
+            "ro": "Église de Saint-Gervais et Saint-Protais",
+            "en": "Church of Saint-Gervais and Saint-Protais"
+          },
+          "coords": [
+            1.497967,
+            43.516266
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Parc de la Mairie",
+            "ro": "Parc de la Mairie",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            1.50003,
+            43.517846
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
+            "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
+            "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Jacques Brel",
+            "hu": "Salle Jacques Brel",
+            "ro": "Salle Jacques Brel",
+            "en": "Salle Jacques Brel"
+          },
+          "coords": [
+            1.504242,
+            43.517758
+          ],
+          "category": "cultural",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
+            "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
+            "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin de Péchabou",
+            "hu": "Église Saint-Martin de Péchabou",
+            "ro": "Église Saint-Martin de Péchabou",
+            "en": "Église Saint-Martin de Péchabou"
+          },
+          "coords": [
+            1.509348,
+            43.500701
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche bietet einen Einblick in die ländlichen religiösen Traditionen der Region; sie liegt etwas abseits der Hauptstraße und ist ein perfekter Ort für ruhige Besinnung.",
+            "hu": "Ez a bájos templom bepillantást enged a régió vidéki vallási hagyományaiba; kissé távolabb esik a főúttól, így tökéletes hely a csendes elmélkedésre.",
+            "ro": "Această biserică fermecătoare oferă o privire asupra tradițiilor religioase rurale din regiune; se află ușor îndepărtată de drumul principal, fiind un loc perfect pentru reflecție liniștită.",
+            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.47338,
+            43.507455
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinfassade und die friedliche Umgebung dieses historischen Gebäudes; der Kirchhof ist sehr ruhig und bietet an sonnigen Nachmittagen einen schönen schattigen Bereich.",
+            "hu": "Csodálja meg a történelmi épület masszív kőhomlokzatát és békés környezetét; a templomudvar nagyon nyugodt, és szép árnyékos területet kínál a napos délutánokon.",
+            "ro": "Admirați fațada robustă de piatră și împrejurimile pașnice ale acestei clădiri istorice; curtea bisericii este foarte senină și oferă o zonă umbrită plăcută în după-amiezele însorite.",
+            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel Marly",
+            "hu": "Castel Marly",
+            "ro": "Castel Marly",
+            "en": "Castel Marly"
+          },
+          "coords": [
+            1.477029,
+            43.526518
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Diese imposante historische Residenz ist ein Zeugnis des lokalen Adels und Erbes; achten Sie auf die markanten Dachziegel und bringen Sie ein Zoomobjektiv mit, um die feine Handwerkskunst einzufangen.",
+            "hu": "Ez az impozáns történelmi rezidencia a helyi nemesség és örökség bizonyítéka; figyelje meg a jellegzetes tetőcserepeket, és hozzon magával zoom objektívet a finom kézműves munka megörökítéséhez.",
+            "ro": "Această reședință istorică impunătoare stă ca o dovadă a nobilimii și moștenirii locale; căutați țiglele distinctive ale acoperișului și aduceți un obiectiv cu zoom pentru a surprinde măiestria fină.",
+            "en": "This imposing historical residence stands as a testament to local nobility and heritage; look out for the distinctive roof tiles and bring a zoom lens to capture the fine craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir des Frères Tailleurs",
+            "hu": "Manoir des Frères Tailleurs",
+            "ro": "Manoir des Frères Tailleurs",
+            "en": "Manoir des Frères Tailleurs"
+          },
+          "coords": [
+            1.478637,
+            43.526551
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, das elegante Äußere dieses klassischen Herrenhauses zu betrachten; da es sich größtenteils um ein privates oder administratives Anwesen handelt, konzentrieren Sie Ihre Fotografie auf die architektonischen Details von den öffentlichen Wegen aus.",
+            "hu": "Szánjon időt e klasszikus kúria elegáns külsejének megtekintésére; mivel nagyrészt magán- vagy közigazgatási birtok, fókuszálja a fényképezést az építészeti részletekre a nyilvános utakról.",
+            "ro": "Luați-vă timp pentru a vedea exteriorul elegant al acestui conac clasic; fiind în mare parte un domeniu privat sau administrativ, concentrați-vă fotografia pe detaliile arhitecturale de pe căile publice.",
+            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Séverin",
+            "hu": "Église Saint-Séverin",
+            "ro": "Église Saint-Séverin",
+            "en": "Église Saint-Séverin"
+          },
+          "coords": [
+            1.487093,
+            43.526179
+          ],
+          "category": "religious",
+          "arrive_at": "17:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige, weniger bekannte Kirche ein, um ihre bescheidene, aber authentische historische Architektur zu schätzen; beachten Sie, dass die Türen zur Mittagszeit verschlossen sein können.",
+            "hu": "Lépjen be ebbe a csendes, kevésbé ismert templomba, hogy értékelje szerény, de hiteles történelmi építészetét; vegye figyelembe, hogy az ajtók ebédidőben zárva lehetnek, ezért tervezzen előre.",
+            "ro": "Intrați în această biserică liniștită și mai puțin cunoscută pentru a aprecia arhitectura sa istorică modestă, dar autentică; rețineți că ușile ar putea fi încuiate în timpul prânzului.",
+            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin",
+            "hu": "Le Moulin",
+            "ro": "Le Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            1.497253,
+            43.510226
+          ],
+          "category": "historical",
+          "arrive_at": "17:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
+            "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
+            "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt zentral an der Hauptkirche und dem nahegelegenen Park, bevor Sie das kulturelle Angebot der Stadt im Salle Jacques Brel genießen. Mittags fahren Sie in die Randbezirke zur Église Saint-Martin de Péchabou und weiter zur Église Saint-Jean-Baptiste. Der Nachmittag ist geprägt von den historischen Anwesen Castel Marly und Manoir des Frères Tailleurs im Norden. Am Abend besuchen Sie die Église Saint-Séverin und lassen den Tag an der idyllischen Mühle ausklingen.",
+        "hu": "A reggel a központban kezdődik a főtemplomnál és a közeli parknál, mielőtt élvezné a város kulturális kínálatát a Salle Jacques Brel-ben. Délben a peremkerületek felé autózik a Saint-Martin de Péchabou és a Saint-Jean-Baptiste templomokhoz. A délutánt a Castel Marly és a Manoir des Frères Tailleurs történelmi birtokai uralják északon. Este látogassa meg a Saint-Séverin templomot, és zárja a napot az idilli malomnál.",
+        "ro": "Dimineața începe central la biserica principală și parcul din apropiere, înainte de a vă bucura de ofertele culturale de la Salle Jacques Brel. La prânz, conduceți spre periferie la bisericile Saint-Martin de Péchabou și Saint-Jean-Baptiste. După-amiaza este dominată de domeniile istorice Castel Marly și Manoir des Frères Tailleurs din nord. Seara, vizitați Église Saint-Séverin și încheiați ziua la moara idilică.",
+        "en": "The morning begins centrally at the main church and nearby park before enjoying the city's cultural offerings at Salle Jacques Brel. At midday, drive to the outskirts to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The afternoon is dominated by the historic estates of Castel Marly and Manoir des Frères Tailleurs in the north. In the evening, visit Église Saint-Séverin and end the day at the idyllic mill."
+      }
+    }
+  }
+}

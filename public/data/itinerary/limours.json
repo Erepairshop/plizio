@@ -1,0 +1,474 @@
+{
+  "city_id": "limours",
+  "anchor": {
+    "name": "Limours",
+    "coords": [
+      2.0761,
+      48.6456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Limours",
+            "hu": "Limours Városháza",
+            "ro": "Primăria Limours",
+            "en": "Limours Town Hall"
+          },
+          "coords": [
+            2.075912,
+            48.646742
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem charmanten Zivilgebäude, um den lokalen Rhythmus zu spüren, und achten Sie auf die historischen Fassadendetails.",
+            "hu": "Kezdje a napot ennél a bájos középületnél, hogy átérezze a helyi ritmust, miközben alaposan megfigyeli a történelmi homlokzat apró részleteit.",
+            "ro": "Începeți ziua la această clădire civică fermecătoare pentru a simți ritmul local, fiind atenți la detaliile istorice ale fațadei sale deosebite.",
+            "en": "Begin your day at this charming civic building to grasp the local rhythm, keeping an eye out for the historic facade details before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.07773,
+            48.64573
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie das friedliche Innere dieser historischen religiösen Stätte und nehmen Sie sich einen Moment Zeit für die farbenfrohen Fenster.",
+            "hu": "Csodálja meg e történelmi vallási helyszín békés belső terét, és szánjon egy percet a gyönyörű ólomüveg ablakok részletes megtekintésére.",
+            "ro": "Admirați interiorul pașnic al acestui sit religios istoric, luându-vă un moment pentru a vizualiza superbele vitralii colorate din naos.",
+            "en": "Admire the peaceful interior of this historic religious site that anchors the community, taking a moment to view the colorful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "A l'Orée du Bois",
+            "hu": "A l'Orée du Bois",
+            "ro": "A l'Orée du Bois",
+            "en": "A l'Orée du Bois"
+          },
+          "coords": [
+            2.087263,
+            48.645586
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die kulturelle Atmosphäre dieses ruhigen Ortes ein und tragen Sie bequeme Schuhe, um die bewaldete Umgebung vollständig zu erkunden.",
+            "hu": "Merüljön el ennek a nyugodt fás menedéknek a kulturális atmoszférájában, és viseljen kényelmes cipőt a közvetlen környezet felfedezéséhez.",
+            "ro": "Lăsați-vă captivat de atmosfera culturală a acestui refugiu împădurit, purtând încălțăminte confortabilă pentru a explora împrejurimile imediate.",
+            "en": "Immerse yourself in the cultural atmosphere of this tranquil wooded retreat, and wear comfortable shoes to explore the immediate surroundings fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Höchster Punkt von Essonne",
+            "hu": "Essonne legmagasabb pontja",
+            "ro": "Cel mai înalt punct din Essonne",
+            "en": "Highest Point of Essonne"
+          },
+          "coords": [
+            2.083848,
+            48.656965
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht vom höchsten Punkt der Region Essonne und vergessen Sie nicht Ihre Kamera für spektakuläre Landschaftsaufnahmen.",
+            "hu": "Élvezze a lenyűgöző kilátást az Essonne régió legmagasabb pontjáról, és feltétlenül hozzon magával fényképezőgépet a panorámás tájképekhez.",
+            "ro": "Bucurați-vă de priveliștile ample din cel mai înalt punct al regiunii Essonne, amintindu-vă să aduceți aparatul foto pentru cadre spectaculoase.",
+            "en": "Enjoy sweeping views from the highest point in the Essonne region, remembering to bring your camera for spectacular panoramic landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Pivot",
+            "hu": "Château de Pivot",
+            "ro": "Château de Pivot",
+            "en": "Château de Pivot"
+          },
+          "coords": [
+            2.101223,
+            48.640104
+          ],
+          "category": "castle",
+          "arrive_at": "12:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem stattlichen Schloss inmitten von Grünanlagen und nehmen Sie sich Zeit für die klassische französische Architektur.",
+            "hu": "Fejezze be sétáját ennél a buja növényzettel körülvett impozáns kastélynál, elegendő időt hagyva a klasszikus francia építészeti elemekre.",
+            "ro": "Încheiați-vă plimbarea la acest castel impunător înconjurat de verdeață, alocând timp suficient pentru a aprecia elementele arhitecturale franceze.",
+            "en": "Conclude your walk at this stately castle surrounded by lush greenery, allowing ample time to appreciate the classic French architectural elements."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Limours beginnt im Herzen der Stadt mit einem Spaziergang zwischen dem Rathaus und der historischen Kirche. Die Mittagszeit bringt einen kulturellen Spaziergang zum ruhigen A l'Orée du Bois. Am Nachmittag erreichen Sie den Höhepunkt mit weiten Ausblicken auf die Region am höchsten Punkt von Essonne. Der Ausflug endet mit einem entspannenden Besuch im eleganten Château de Pivot.",
+        "hu": "A reggel Limours szívében kezdődik, a központ és a történelmi templom közötti sétával. A délben egy kulturális séta várja az A l'Orée du Bois nyugodt fái között. A délután csúcspontja a régió legmagasabb pontja, lenyűgöző kilátással. Az este egy pihentető látogatással zárul a lenyűgöző és elegáns Château de Pivot kastélynál, zöld környezetben.",
+        "ro": "Dimineața în Limours începe în inima orașului, cu o plimbare între primărie și biserica istorică. Prânzul aduce o vizită culturală la refugiul liniștit A l'Orée du Bois. După-amiaza atinge apogeul cu vederi regionale panoramice la cel mai înalt punct din Essonne. Seara se încheie perfect cu o vizită relaxantă la elegantul Château de Pivot.",
+        "en": "Morning in Limours starts in the heart of town, walking between the civic center and the historic church. Midday brings a cultural stroll to the tranquil A l'Orée du Bois. The afternoon peaks with sweeping regional views at the highest point in Essonne. The trip concludes gracefully with a relaxing and immersive visit to the elegant Château de Pivot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 11.69,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Limours",
+            "hu": "Limours Városháza",
+            "ro": "Primăria Limours",
+            "en": "Limours Town Hall"
+          },
+          "coords": [
+            2.075912,
+            48.646742
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am Rathaus, um das Stadtzentrum kennenzulernen, und überprüfen Sie Ihren Reifendruck vor der eigentlichen Abfahrt.",
+            "hu": "Kezdje kerékpártúráját a városházánál, hogy megismerje a városközpontot, és indulás előtt mindenképpen ellenőrizze a guminyomást.",
+            "ro": "Începeți traseul de biciclete la primărie pentru a vă familiariza cu centrul orașului, verificând presiunea anvelopelor înainte de a porni.",
+            "en": "Start your cycling journey at the town hall to familiarize yourself with the town center, checking your tire pressure before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.07773,
+            48.64573
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um dieses schöne religiöse Bauwerk zu bewundern, und schließen Sie Ihr Fahrrad sicher in der Nähe des Haupteingangs ab.",
+            "hu": "Szakítsa meg útját e gyönyörű vallási épület megcsodálásához, és gondoskodjon arról, hogy kerékpárját biztonságosan lezárja a bejárat közelében.",
+            "ro": "Faceți o pauză pentru a admira această structură religioasă superbă, asigurându-vă că legați bicicleta în siguranță lângă intrarea principală.",
+            "en": "Pause your ride to marvel at this beautiful religious structure, ensuring you lock your bike securely near the main entrance while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Höchster Punkt von Essonne",
+            "hu": "Essonne legmagasabb pontja",
+            "ro": "Cel mai înalt punct din Essonne",
+            "en": "Highest Point of Essonne"
+          },
+          "coords": [
+            2.083848,
+            48.656965
+          ],
+          "category": "landmark",
+          "arrive_at": "10:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Fordern Sie sich mit einem sanften Aufstieg zum höchsten Punkt von Essonne heraus, wo eine kurze Trinkpause die weite Aussicht perfekt ergänzt.",
+            "hu": "Tegye próbára magát egy enyhe emelkedővel Essonne legmagasabb pontjáig, ahol egy gyors vízszünet tökéletesen kiegészíti a pazar kilátást.",
+            "ro": "Provocați-vă cu o urcare blândă către cel mai înalt punct din Essonne, unde o pauză scurtă de apă completează perfect priveliștile expansive.",
+            "en": "Challenge yourself with a gentle ascent to Essonne's highest elevation point, where a quick water break perfectly complements the expansive views."
+          }
+        },
+        {
+          "name": {
+            "de": "Véloscénie-Radweg",
+            "hu": "Véloscénie kerékpárút",
+            "ro": "Traseul de biciclete Véloscénie",
+            "en": "Véloscénie Cycle Route"
+          },
+          "coords": [
+            2.142849,
+            48.673468
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.67,
+          "tip_5lang": {
+            "de": "Schließen Sie sich diesem berühmten Fernradweg an, um die besten Erholungswege der Region zu erleben, und bleiben Sie aus Sicherheitsgründen auf markierten Pfaden.",
+            "hu": "Csatlakozzon ehhez a híres távolsági kerékpárúthoz, hogy megtapasztalja a régió legjobb ösvényeit, mindig a kijelölt utakon maradva a biztonságért.",
+            "ro": "Alăturați-vă acestui faimos traseu de ciclism pe distanțe lungi, rămânând pe potecile marcate pentru a explora în siguranță frumusețea regiunii.",
+            "en": "Join this famous long-distance cycling route to experience the region's best recreational trails, sticking to the marked paths for optimal safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Pivot",
+            "hu": "Château de Pivot",
+            "ro": "Château de Pivot",
+            "en": "Château de Pivot"
+          },
+          "coords": [
+            2.101223,
+            48.640104
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.77,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine auf diesem prächtigen, geschichtsträchtigen Anwesen aus und wandern Sie umher, um die gut erhaltenen Verteidigungsanlagen zu sehen.",
+            "hu": "Pihentesse meg lábait ezen a helyi történelemmel átitatott fenséges birtokon, körbesétálva a jól megőrzött külső védelmi elemeket.",
+            "ro": "Odihniți-vă picioarele la această moșie magnifică plină de istorie locală, rătăcind pe perimetru pentru a observa caracteristicile defensive.",
+            "en": "Rest your legs at this magnificent estate steeped in local history, wandering the perimeter to observe the well-preserved defensive features."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul orașului",
+            "en": "City park"
+          },
+          "coords": [
+            2.099608,
+            48.633357
+          ],
+          "category": "family",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour entspannt in dieser familienfreundlichen Grünanlage und suchen Sie sich eine schattige Bank, um über die Reise nachzudenken.",
+            "hu": "Fejezze be kerékpártúráját ebben a családbarát zöldterületen kikapcsolódva, és válasszon egy árnyékos padot a nap eseményeinek átgondolásához.",
+            "ro": "Încheiați-vă turul cu bicicleta relaxându-vă în acest spațiu verde familial, alegând o bancă la umbră pentru a reflecta asupra călătoriei de azi.",
+            "en": "End your cycling tour unwinding in this family-friendly green space, picking a shaded bench near the center to reflect on the day's journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer zügigen Radtour durch das historische Stadtzentrum. Mittags erwartet Sie ein energiegeladener Anstieg zum höchsten Punkt der Region, bevor Sie den berühmten Véloscénie-Weg erreichen. Den Nachmittag verbringen Sie damit, das historische Château de Pivot zu bestaunen. Der Abend bringt eine sanfte Abkühlungsfahrt zum friedlichen Stadtpark.",
+        "hu": "A reggel egy lendületes kerékpározással indul a történelmi városközpontban. Délben egy energikus mászás vár a régió csúcsára, mielőtt csatlakozna a híres Véloscénie útvonalhoz. A délutánt a lenyűgöző múltú Château de Pivot kastélyának felfedezésével töltheti. Az este egy kellemes, levezető tekeréssel zárul a csendes városi park fái alatt.",
+        "ro": "Dimineața debutează cu o plimbare revigorantă cu bicicleta prin centrul istoric. Prânzul oferă o urcare plină de energie către vârful regiunii înainte de a vă alătura traseului faimos Véloscénie. După-amiaza este petrecută admirând istoricul Château de Pivot. Seara aduce o cursă ușoară de relaxare către parcul pașnic al orașului.",
+        "en": "Morning kicks off with a brisk cycle through the historic town center. Midday offers an energetic climb to the region's peak before joining the famous Véloscénie trail. The afternoon is spent marveling at the historic architecture of Château de Pivot. Evening brings a gentle cooldown ride to relax completely in the peaceful city park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Medardus Kirche",
+            "hu": "Szent Medárd-templom",
+            "ro": "Biserica Sf. Medard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            2.048995,
+            48.646394
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Autotour an dieser ruhigen Dorfkirche, um ländliche Beschaulichkeit zu erleben, und nutzen Sie den kleinen Parkplatz nebenan.",
+            "hu": "Kezdje autós túráját ennél a csendes falusi templomnál a vidéki nyugalomért, a szomszédos kis parkolót használva a stresszmentes látogatáshoz.",
+            "ro": "Începeți turul auto la această biserică liniștită pentru a experimenta liniștea rurală, utilizând mica parcare adiacentă pentru o vizită calmă.",
+            "en": "Start your driving tour at this quiet village church to experience rural tranquility, utilizing the small adjacent parking lot for a stress-free visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Limours",
+            "hu": "Limours Városháza",
+            "ro": "Primăria Limours",
+            "en": "Limours Town Hall"
+          },
+          "coords": [
+            2.075912,
+            48.646742
+          ],
+          "category": "civic",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Limours, um das lebendige zivile Zentrum zu sehen, und achten Sie auf Marktzeiten, die die Parkplatzverfügbarkeit beeinflussen können.",
+            "hu": "Vezessen Limours-ba, hogy megnézze nyüzsgő központját, figyelve a helyi piacok nyitvatartására, amelyek befolyásolhatják a parkolóhelyek számát.",
+            "ro": "Conduceți în Limours pentru a vedea inima sa civică, acordând atenție programului pieței locale care ar putea afecta locurile de parcare pe stradă.",
+            "en": "Drive into Limours to see its bustling civic heart, paying attention to the local market schedules that might affect street parking availability."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.07773,
+            48.64573
+          ],
+          "category": "religious",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Betreten Sie diese zentrale Kirche, um ihre historische Aufteilung zu bewundern, und nutzen Sie nahegelegene Parkplätze für eine kurze Platzbesichtigung.",
+            "hu": "Lépjen be ebbe a központi templomba a történelmi elrendezés megcsodálásához, kihasználva a közeli parkolókat a főtér gyors felfedezésére.",
+            "ro": "Pășiți în această biserică centrală pentru a-i admira structura istorică, profitând de parcarea stradală din apropiere pentru a explora piața.",
+            "en": "Step inside this central church to admire its historic layout, taking advantage of nearby street parking to briefly explore the town square."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Pivot",
+            "hu": "Château de Pivot",
+            "ro": "Château de Pivot",
+            "en": "Château de Pivot"
+          },
+          "coords": [
+            2.101223,
+            48.640104
+          ],
+          "category": "castle",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Fahren Sie etwas nach Osten zu diesem großen Schloss, und machen Sie ungestörte Fotos vom Haupttor aus, wo die Sicht am besten ist.",
+            "hu": "Utazzon egy kicsit keletre ehhez a nagyszerű kastélyhoz, és készítsen fotókat a főkaputól, ahonnan a kilátás teljesen zavartalan.",
+            "ro": "Călătoriți ușor spre est către acest castel grandios, făcând fotografii grozave de la poarta principală, unde vederea este neobstrucționată.",
+            "en": "Travel slightly east to this grand castle to appreciate its commanding presence, capturing photos from the main gate where the view is unobstructed."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Forges-les-Bains",
+            "hu": "Château de Forges-les-Bains",
+            "ro": "Château de Forges-les-Bains",
+            "en": "Château de Forges-les-Bains"
+          },
+          "coords": [
+            2.098567,
+            48.626624
+          ],
+          "category": "castle",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden, um dieses prächtige, naturverbundene Schloss zu erkunden, und prüfen Sie bei Ankunft die Zeiten für geführte Touren.",
+            "hu": "Induljon délre, hogy felfedezze ezt a természet lágy ölén fekvő kastélyt, érkezéskor ellenőrizve az információs táblát a vezetett túrákért.",
+            "ro": "Îndreptați-vă spre sud pentru a explora acest castel magnific din mijlocul naturii, verificând panoul de informații pentru orele de vizitare.",
+            "en": "Head south to explore this magnificent castle set amidst nature, checking the visitor information board upon arrival for guided tour timings."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Szűz Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin"
+          },
+          "coords": [
+            2.098468,
+            48.628625
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, der Jungfrau Maria gewidmete Kirche und beachten Sie die schönen Altardetails, die tiefe lokale Traditionen widerspiegeln.",
+            "hu": "Látogasson el ebbe a Szűz Máriának szentelt békés templomba, megfigyelve az oltár gyönyörű részleteit, amelyek a mély helyi hagyományokat tükrözik.",
+            "ro": "Vizitați această biserică senină dedicată Fecioarei Maria, remarcând detaliile frumoase ale altarului care reflectă tradiții religioase profunde.",
+            "en": "Visit this serene church dedicated to the Virgin Mary, noting the beautiful altar details that reflect deep-rooted local religious traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul orașului",
+            "en": "City park"
+          },
+          "coords": [
+            2.099608,
+            48.633357
+          ],
+          "category": "family",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit einem entspannenden Spaziergang durch den Park, nutzen Sie den großen Hauptparkplatz und suchen Sie sich einen ruhigen Ort.",
+            "hu": "Zárja autós útját egy pihentető sétával a helyi parkban, a tágas fő parkolót használva, mielőtt keresne egy csendes helyet a naplementéhez.",
+            "ro": "Încheiați-vă călătoria cu o plimbare relaxantă prin parcul local, utilizând parcarea principală spațioasă înainte de a găsi un loc liniștit.",
+            "en": "Conclude your road trip with a relaxing stroll through the local park, using the spacious main lot before finding a quiet spot to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer landschaftlich reizvollen Fahrt zu den westlichen Dorfkirchen, bevor es zurück in den Kern von Limours geht. Mittags verlagert sich die Route nach Osten zum majestätischen Château de Pivot. Der Nachmittag bietet einen Ausflug in den Süden nach Forges-les-Bains und zu seinen Wahrzeichen. Der Abend klingt perfekt mit einem friedlichen Halt im Stadtpark aus.",
+        "hu": "A reggel egy festői autózással indul a nyugati falu templomaihoz, majd visszatér Limours nyüzsgő központjába. Délben az út kelet felé, a fenséges Château de Pivot felé veszi az irányt. A délután egy déli kirándulást tartogat Forges-les-Bains-be és annak kiemelkedő nevezetességeihez. Az este a városi park békés zöldjében csendesedik el.",
+        "ro": "Dimineața începe cu o plimbare pitorească spre bisericile din satele vestice înainte de a reveni în centrul Limours. Prânzul se mută spre est pentru a explora maiestuosul Château de Pivot. După-amiaza prezintă o excursie sudică la Forges-les-Bains și reperele sale remarcabile. Seara se încheie perfect cu o oprire pașnică la parcul orașului.",
+        "en": "Morning begins with a scenic drive to the western village churches before returning to the civic core of Limours. Midday shifts east to thoroughly explore the majestic Château de Pivot. The afternoon features a southern excursion to Forges-les-Bains and its remarkable local landmarks. Evening winds down perfectly with a peaceful stop at the local city park."
+      }
+    }
+  }
+}

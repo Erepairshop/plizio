@@ -1,0 +1,428 @@
+{
+  "city_id": "portugal-canico-cities-v2",
+  "anchor": {
+    "name": "Caniço",
+    "coords": [
+      -16.850361,
+      32.641194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:54",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora da Consolação",
+            "hu": "Capela de Nossa Senhora da Consolação",
+            "ro": "Capela de Nossa Senhora da Consolação",
+            "en": "Capela de Nossa Senhora da Consolação"
+          },
+          "coords": [
+            -16.855942,
+            32.645738
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser lokalen Kapelle, aber denken Sie daran, laufende Gottesdienste zu respektieren, falls die Türen geöffnet sind.",
+            "hu": "Csodálja meg e helyi kápolna egyszerű eleganciáját, de tartsa tiszteletben a folyamatban lévő szertartásokat, ha a kapuk nyitva állnak a látogatók előtt.",
+            "ro": "Admirați eleganța simplă a acestei capele locale, dar amintiți-vă să respectați slujbele în curs dacă ușile sunt deschise pentru credincioși.",
+            "en": "Admire the simple elegance of this local chapel before continuing your walk, but remember to respect ongoing services if doors are open."
+          }
+        },
+        {
+          "name": {
+            "de": "Cristo Rei",
+            "hu": "Cristo Rei",
+            "ro": "Cristo Rei",
+            "en": "Cristo Rei"
+          },
+          "coords": [
+            -16.850859,
+            32.638718
+          ],
+          "category": "natural",
+          "arrive_at": "10:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese ikonische Statue mit Panoramablick auf den Ozean und kommen Sie früh, um das beste Licht für atemberaubende Urlaubsfotos zu nutzen.",
+            "hu": "Csodálja meg a panorámás óceáni kilátást nyújtó ikonikus szobrot, és érkezzen korán, hogy a legjobb fényviszonyok mellett készíthessen fotókat.",
+            "ro": "Minunați-vă de această statuie iconică cu vederi panoramice la ocean și ajungeți devreme pentru a prinde cea mai bună lumină pentru fotografii de vacanță.",
+            "en": "Marvel at this iconic hilltop statue offering panoramic ocean views, and arrive early to secure the best light for breathtaking holiday photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponta do Garajau",
+            "hu": "Ponta do Garajau",
+            "ro": "Ponta do Garajau",
+            "en": "Ponta do Garajau"
+          },
+          "coords": [
+            -16.850131,
+            32.63707
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie am Rand dieser Klippe, um die Wellen zu beobachten, und bringen Sie festes Schuhwerk mit, da die Wege recht uneben und steinig sein können.",
+            "hu": "Álljon ki a drámai tengerparti szikla szélére, hogy megfigyelje a hullámokat, de hozzon erős cipőt, mert az ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Stați la marginea acestei stânci de coastă pentru a privi valurile, aducând încălțăminte solidă deoarece potecile pot fi destul de denivelate și pietroase.",
+            "en": "Stand at the edge of this dramatic coastal cliff to watch the waves crash, bringing sturdy shoes as the paths can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Tern Partial Nature Reserve",
+            "hu": "Tern Partial Nature Reserve",
+            "ro": "Tern Partial Nature Reserve",
+            "en": "Tern Partial Nature Reserve"
+          },
+          "coords": [
+            -16.859277,
+            32.638696
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Vogelwelt in diesem geschützten Zufluchtsort und packen Sie ein Fernglas ein, um seltene Seevögel beim Rasten zu beobachten.",
+            "hu": "Fedezze fel a sokszínű madárvilágot ebben a védett parti menedékben, és ne felejtsen el távcsövet hozni a ritka tengeri madarak megfigyeléséhez.",
+            "ro": "Descoperiți avifauna diversă în acest refugiu de coastă protejat și nu uitați să luați un binoclu pentru a observa păsările marine rare care se odihnesc.",
+            "en": "Discover diverse local birdlife in this protected coastal haven, and be sure to pack binoculars for the best chance of spotting rare seabirds resting here."
+          }
+        },
+        {
+          "name": {
+            "de": "Figueirinhas",
+            "hu": "Figueirinhas",
+            "ro": "Figueirinhas",
+            "en": "Figueirinhas"
+          },
+          "coords": [
+            -16.851306,
+            32.653186
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang durch dieses Naturgebiet abseits der Massen und nehmen Sie Wasser mit, da es auf dem Weg kaum Einrichtungen gibt.",
+            "hu": "Élvezze a békés sétát ebben a tömegtől távol eső természeti övezetben, és vigyen magával vizet, mivel az út mentén szinte nincsenek szolgáltatások.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin această zonă naturală departe de aglomerație, luând apă la dumneavoastră deoarece facilitățile lipsesc pe traseu.",
+            "en": "Enjoy a peaceful stroll through this natural area away from the crowds, carrying a small bottle of water as facilities along the path are practically nonexistent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit spiritueller Ruhe in der Consolação-Kapelle. Mittags erreichen Sie die Klippen von Garajau und Cristo Rei. Der Nachmittag ist der Erkundung des Naturschutzgebiets gewidmet. Der Abend endet ruhig bei Figueirinhas.",
+        "hu": "A reggel a Consolação kápolna spirituális nyugalmával indul. Délben az ikonikus Cristo Rei és a drámai Garajau sziklák várják. A délutánt a parti természetvédelmi terület felfedezésével töltheti. Az este egy békés túrával zárul a Figueirinhas vidékén.",
+        "ro": "Dimineața începe cu liniște spirituală la capela Consolação. Prânzul vă aduce la stâncile spectaculoase Garajau și Cristo Rei. După-amiaza este petrecută explorând rezervația naturală. Seara se încheie cu o drumeție pașnică prin Figueirinhas.",
+        "en": "Morning starts with spiritual serenity at the Consolação chapel. Midday brings you to the iconic Cristo Rei and dramatic Garajau cliffs. Afternoon is spent exploring the coastal Tern Nature Reserve. Evening concludes with a tranquil hike through Figueirinhas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "QART Gallery Gerald Bretterbauer",
+            "hu": "QART Gallery Gerald Bretterbauer",
+            "ro": "QART Gallery Gerald Bretterbauer",
+            "en": "QART Gallery Gerald Bretterbauer"
+          },
+          "coords": [
+            -16.834957,
+            32.642396
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische Kunstausstellungen in dieser intimen Galerie und sprechen Sie leise, um die kreative Atmosphäre in vollen Zügen zu genießen.",
+            "hu": "Fedezze fel az elgondolkodtató kortárs művészeti kiállításokat ebben az intim galériában, és halkan beszéljen, hogy teljesen átélhesse az atmoszférát.",
+            "ro": "Explorați expoziții de artă contemporană în această galerie intimă și vorbiți încet pentru a aprecia pe deplin atmosfera creativă profund captivantă.",
+            "en": "Explore thought-provoking contemporary art exhibitions in this intimate gallery, and speak softly to fully appreciate the deeply immersive creative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Galomar",
+            "hu": "Lido Galomar",
+            "ro": "Lido Galomar",
+            "en": "Lido Galomar"
+          },
+          "coords": [
+            -16.832543,
+            32.640973
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie von diesem gut ausgestatteten Komplex in den Atlantik ein, aber prüfen Sie unbedingt die Meeresbedingungen, bevor Sie längere Zeit schwimmen.",
+            "hu": "Csobbanjon a tiszta Atlanti-óceánba ebből a jól felszerelt komplexumból, de mindenképpen ellenőrizze az aktuális tengeri viszonyokat úszás előtt.",
+            "ro": "Scufundați-vă în apele clare ale Atlanticului de la acest complex bine echipat, dar verificați condițiile mării înainte de a planifica o înotare lungă.",
+            "en": "Dive into the clear Atlantic waters from this well-equipped recreational complex, but double-check the current sea conditions before planning a long swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Cristo Rei",
+            "hu": "Cristo Rei",
+            "ro": "Cristo Rei",
+            "en": "Cristo Rei"
+          },
+          "coords": [
+            -16.850859,
+            32.638718
+          ],
+          "category": "natural",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese ikonische Statue mit Panoramablick auf den Ozean und kommen Sie früh, um das beste Licht für atemberaubende Urlaubsfotos zu nutzen.",
+            "hu": "Csodálja meg a panorámás óceáni kilátást nyújtó ikonikus szobrot, és érkezzen korán, hogy a legjobb fényviszonyok mellett készíthessen fotókat.",
+            "ro": "Minunați-vă de această statuie iconică cu vederi panoramice la ocean și ajungeți devreme pentru a prinde cea mai bună lumină pentru fotografii de vacanță.",
+            "en": "Marvel at this iconic hilltop statue offering panoramic ocean views, and arrive early to secure the best light for breathtaking holiday photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pináculo",
+            "hu": "Pináculo",
+            "ro": "Pináculo",
+            "en": "Pináculo"
+          },
+          "coords": [
+            -16.870603,
+            32.6453
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt weite Blicke auf die Bucht und verwenden Sie ein Weitwinkelobjektiv für die dramatische Küstenlandschaft.",
+            "hu": "Készítsen lenyűgöző felvételeket az öbölről ebből az ikonikus kilátóból, és használjon nagylátószögű objektívet az óceán és a sziklák megörökítéséhez.",
+            "ro": "Capturați priveliști panoramice ale golfului de la acest punct de belvedere, folosind un obiectiv cu unghi larg pentru a încadra coasta spectaculoasă.",
+            "en": "Capture sweeping vistas of the bay from this iconic viewpoint, using a wide-angle lens to frame the dramatic juxtaposition of the ocean and steep cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Núcleo dos Dragoeiros das Neves",
+            "hu": "Centro Núcleo dos Dragoeiros das Neves",
+            "ro": "Centro Núcleo dos Dragoeiros das Neves",
+            "en": "Centro Núcleo dos Dragoeiros das Neves"
+          },
+          "coords": [
+            -16.869283,
+            32.648582
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die endemischen Drachenbäume in diesem Museumsbereich und nehmen Sie sich Zeit für die informativen Tafeln über ihre Geschichte.",
+            "hu": "Ismerje meg a múzeum területén védett endemikus sárkányfákat, és szánjon időt a történelmüket részletező tájékoztató táblák alapos elolvasására.",
+            "ro": "Aflați despre arborii dragon endemici protejați în această zonă muzeală și luați-vă timp pentru a citi plăcile informative care le detaliază istoria.",
+            "en": "Learn about the fascinating endemic dragon trees protected in this museum area, and take your time reading the informative plaques detailing their history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bateria de Costa",
+            "hu": "Bateria de Costa",
+            "ro": "Bateria de Costa",
+            "en": "Bateria de Costa"
+          },
+          "coords": [
+            -16.864414,
+            32.649067
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Küstenverteidigungsgeschichte der Insel bei diesen Ruinen ein und tragen Sie Sonnenschutz, da der Ort kaum natürlichen Schatten bietet.",
+            "hu": "Merüljön el a sziget partvédelmi történelmében ezen az egykori ütegnél, és viseljen fényvédőt, mivel a helyszín nagyon kevés természetes árnyékot kínál.",
+            "ro": "Descoperiți istoria apărării de coastă la aceste ruine istorice și purtați protecție solară, deoarece situl oferă foarte puțină umbră naturală.",
+            "en": "Delve into the island's coastal defense history at these historical battery ruins, and wear sun protection as the site offers very little natural shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit zeitgenössischer Kunst in der QART Gallery. Mittags geht es zu den Sonnenterrassen von Lido Galomar und Cristo Rei. Der Nachmittag führt zum Aussichtspunkt Pináculo. Der Abend endet bei den historischen Festungsruinen.",
+        "hu": "A reggelt a QART Galéria kortárs műalkotásainak befogadásával kezdi. Délben a Lido Galomar napos teraszai és a Cristo Rei következnek. A délután a Pináculo lenyűgöző kilátópontjához vezet. Az estét a történelmi partvédelmi üteg felfedezése zárja.",
+        "ro": "Dimineața începe admirând arta contemporană la Galeria QART. Prânzul se mută pe terasele Lido Galomar și priveliștile de la Cristo Rei. După-amiaza urcă spre panoramele de la Pináculo. Seara se termină explorând bateria istorică de coastă.",
+        "en": "Your morning begins absorbing contemporary pieces at the QART Gallery. Midday shifts to the sunny terraces of Lido Galomar and views at Cristo Rei. Afternoon winds up towards the sweeping vistas of Pináculo. Evening finishes tracing historical defenses at the coast battery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:27",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Reis Magos",
+            "hu": "Reis Magos",
+            "ro": "Reis Magos",
+            "en": "Reis Magos"
+          },
+          "coords": [
+            -16.824386,
+            32.646046
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Kieselstrand mit außergewöhnlich klarem Wasser und bringen Sie Ihre eigene Schnorchelausrüstung mit, um bunte Fische zu sehen.",
+            "hu": "Pihenjen ezen a bájos, kristálytiszta vizéről híres kavicsos strandon, és hozzon magával búvárfelszerelést a színes tengeri élőlények felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă cu pietriș renumită pentru apele sale clare și aduceți echipament de snorkeling pentru a observa viața marină colorată.",
+            "en": "Relax on this charming pebble beach renowned for its exceptionally clear waters, and bring your own snorkeling gear to spot the colorful marine life hidden below."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponta do Garajau",
+            "hu": "Ponta do Garajau",
+            "ro": "Ponta do Garajau",
+            "en": "Ponta do Garajau"
+          },
+          "coords": [
+            -16.850131,
+            32.63707
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stehen Sie am Rand dieser Klippe, um die Wellen zu beobachten, und bringen Sie festes Schuhwerk mit, da die Wege recht uneben und steinig sein können.",
+            "hu": "Álljon ki a drámai tengerparti szikla szélére, hogy megfigyelje a hullámokat, de hozzon erős cipőt, mert az ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Stați la marginea acestei stânci de coastă pentru a privi valurile, aducând încălțăminte solidă deoarece potecile pot fi destul de denivelate și pietroase.",
+            "en": "Stand at the edge of this dramatic coastal cliff to watch the waves crash, bringing sturdy shoes as the paths can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço das Eiras",
+            "hu": "Cabeço das Eiras",
+            "ro": "Cabeço das Eiras",
+            "en": "Cabeço das Eiras"
+          },
+          "coords": [
+            -16.853182,
+            32.65609
+          ],
+          "category": "natural",
+          "arrive_at": "10:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem erhöhten Naturpunkt, um eine ganz andere Perspektive der umliegenden Täler zu erhalten, und stellen Sie sicher, dass Ihr Handy geladen ist.",
+            "hu": "Túrázzon fel erre a magaslati pontra, hogy teljesen más szemszögből lássa a környező völgyeket, és biztonsága érdekében töltse fel teljesen a telefonját.",
+            "ro": "Urcați la acest punct natural ridicat pentru a obține o perspectivă diferită asupra văilor din jur, asigurându-vă că telefonul este complet încărcat.",
+            "en": "Hike up to this elevated natural spot to gain a completely different perspective of the surrounding valleys, ensuring your phone is fully charged for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Neves",
+            "hu": "Neves",
+            "ro": "Neves",
+            "en": "Neves"
+          },
+          "coords": [
+            -16.873615,
+            32.649772
+          ],
+          "category": "natural",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese ruhige Naturlandschaft mit üppiger Vegetation und bleiben Sie auf markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Barangoljon ebben a buja zöld növényzettel tarkított békés természeti tájban, de maradjon a kijelölt ösvényeken, hogy megvédje az érzékeny helyi flórát.",
+            "ro": "Plimbați-vă prin acest peisaj natural liniștit marcat de vegetație luxuriantă, rămânând pe traseele marcate pentru a evita deteriorarea florei delicate.",
+            "en": "Wander through this tranquil natural landscape marked by lush green vegetation, staying on marked trails to avoid damaging the delicate local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora das Neves",
+            "hu": "Capela de Nossa Senhora das Neves",
+            "ro": "Capela de Nossa Senhora das Neves",
+            "en": "Capela de Nossa Senhora das Neves"
+          },
+          "coords": [
+            -16.873693,
+            32.648175
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieser historischen Kapelle und prüfen Sie das lokale schwarze Brett auf bevorstehende traditionelle Feste.",
+            "hu": "Figyelje meg e szeretett történelmi kápolna bonyolult építészeti részleteit, és ellenőrizze a hirdetőtáblát a közelgő hagyományos vallási fesztiválokért.",
+            "ro": "Observați detaliile arhitecturale ale acestei capele istorice iubite, verificând panoul informativ pentru viitoarele festivaluri religioase tradiționale.",
+            "en": "Observe the intricate architectural details of this beloved historical chapel, checking the local notice board for any upcoming traditional religious festivals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer frischen Brise an den Kieselstränden von Reis Magos. Mittags beeindrucken die Klippen am Ponta do Garajau. Am Nachmittag erreichen Sie die grünen Hänge von Cabeço das Eiras. Der Abend klingt an der Neves-Kapelle aus.",
+        "hu": "A reggel friss szellővel érkezik a Reis Magos kavicsos partján. Délben a Ponta do Garajau lenyűgöző tengerparti sziklái következnek. A délután a Cabeço das Eiras zöldellő lejtőire vezet. Az este a Neves kápolna történelmi bájával ér véget.",
+        "ro": "Dimineața sosește cu o briză răcoroasă pe țărmul cu pietriș de la Reis Magos. Prânzul prezintă stâncile abrupte de la Ponta do Garajau. Ascensiunea de după-amiază duce spre pantele înverzite ale Cabeço das Eiras. Seara se încheie la capela Neves.",
+        "en": "Morning arrives with a refreshing breeze at the pebble shores of Reis Magos. Midday features stunning ocean drop-offs at Ponta do Garajau. Afternoon ascents bring you to the verdant slopes of Cabeço das Eiras. Evening concludes with historical charm at the Neves chapel."
+      }
+    }
+  }
+}

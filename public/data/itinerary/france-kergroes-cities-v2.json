@@ -1,0 +1,474 @@
+{
+  "city_id": "france-kergroes-cities-v2",
+  "anchor": {
+    "name": "Kergroës",
+    "coords": [
+      -3.68983,
+      47.80368
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lanriot",
+            "hu": "Chapelle Notre-Dame-de-Lanriot",
+            "ro": "Chapelle Notre-Dame-de-Lanriot",
+            "en": "Chapelle Notre-Dame-de-Lanriot"
+          },
+          "coords": [
+            -3.70203,
+            47.808897
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante historische Kapelle, die das bretonische religiöse Erbe wunderschön hervorhebt, und kommen Sie früh, um die Steinfassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg ezt a bájos történelmi kápolnát, amely gyönyörűen kiemeli a breton vallási örökséget, és érkezzen korán, hogy tömeg nélkül fotózhassa le a kőhomlokzatot.",
+            "ro": "Admirați această capelă istorică fermecătoare care evidențiază minunat moștenirea religioasă bretonă și ajungeți devreme pentru a fotografia fațada de piatră fără aglomerație.",
+            "en": "Admire this charming historic chapel which beautifully highlights Breton religious heritage, and arrive early to photograph the lovely stone facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de 1932",
+            "hu": "Maison de 1932",
+            "ro": "Maison de 1932",
+            "en": "Maison de 1932"
+          },
+          "coords": [
+            -3.705344,
+            47.806362
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige Kulturgebäude, das die architektonische Eleganz der 1930er Jahre bewahrt, und vergessen Sie nicht, einen Rundgang zu machen, um die feinen Details zu bemerken.",
+            "hu": "Fedezze fel ezt az egyedülálló kulturális épületet, amely megőrzi az 1930-as évek építészeti eleganciáját, és tegyen egy sétát a peremén, hogy észrevegye a finom külső részleteket.",
+            "ro": "Explorați această clădire culturală unică ce păstrează eleganța arhitecturală a anilor 1930 și faceți o plimbare în jur pentru a observa detaliile fine ale exteriorului.",
+            "en": "Explore this unique cultural building that preserves 1930s architectural elegance, and don't forget to take a walk around the perimeter to notice the fine exterior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Kermeur Bihan",
+            "hu": "Allée couverte de Kermeur Bihan",
+            "ro": "Allée couverte de Kermeur Bihan",
+            "en": "Allée couverte de Kermeur Bihan"
+          },
+          "coords": [
+            -3.700169,
+            47.813815
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende megalithische Grabstätte, die einen seltenen Einblick in das neolithische Leben bietet, und tragen Sie feste Schuhe, um den unebenen Boden sicher zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző megalitikus temetkezési helyet, amely ritka bepillantást enged a neolitikus életbe, és viseljen masszív cipőt a kövek körüli egyenetlen talaj miatt.",
+            "ro": "Descoperiți acest fascinant loc de înmormântare megalitic care oferă o privire rară asupra vieții neolitice și purtați încălțăminte robustă pentru a naviga terenul accidentat.",
+            "en": "Discover this fascinating megalithic burial site that offers a rare glimpse into Neolithic life, and wear sturdy shoes to safely navigate the uneven ground around the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bélon",
+            "hu": "Château de Bélon",
+            "ro": "Château de Bélon",
+            "en": "Château de Bélon"
+          },
+          "coords": [
+            -3.705613,
+            47.814349
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das malerische Anwesen, das für seine Geschichte und die Austernzucht bekannt ist, und bringen Sie eine Windjacke mit, da die Küstenbrisen hier überraschend frisch sein können.",
+            "hu": "Csodálja meg a történelméről és az osztrigatenyésztési kapcsolatairól híres festői birtokot, és hozzon magával széldzsekit, mivel a kastély körüli tengerparti szellő meglepően hűvös lehet.",
+            "ro": "Minunați-vă de moșia pitorească faimoasă pentru istoria sa și legăturile cu creșterea stridiilor și aduceți o geacă de vânt, deoarece briza de coastă poate fi surprinzător de rece.",
+            "en": "Marvel at the scenic estate famous for its history and oyster farming connections, and bring a windbreaker as the coastal breezes around the castle grounds can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerfany",
+            "hu": "Plage de Kerfany",
+            "ro": "Plage de Kerfany",
+            "en": "Plage de Kerfany"
+          },
+          "coords": [
+            -3.720244,
+            47.802082
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.73,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand, der für seinen weichen Sand und sein ruhiges Wasser bekannt ist, und versuchen Sie einen Besuch bei Ebbe, wenn viele Gezeitentümpel sichtbar sind.",
+            "hu": "Pihenjen ezen az érintetlen strandon, amely puha homokjáról és nyugodt vizéről ismert, és próbáljon apálykor érkezni, amikor rengeteg árapály-medence várja, hogy felfedezzék a part mentén.",
+            "ro": "Relaxați-vă pe această plajă curată, cunoscută pentru nisipul său fin și apele calme, și încercați să vizitați în timpul refluxului, când există numeroase bălți de mare de explorat.",
+            "en": "Relax on this pristine recreational beach known for its soft sand and calm waters, and try visiting during low tide when there are plenty of tide pools to explore along the edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem friedlichen Besuch der Chapelle Notre-Dame-de-Lanriot und genießen Sie die historische Atmosphäre. Gegen Mittag bewundern Sie die elegante Architektur der 1930er Jahre, bevor Sie die alten Geheimnisse von Kermeur Bihan entdecken. Ihren Nachmittag verbringen Sie am besten damit, das majestätische Château de Bélon zu erkunden. Entspannen Sie sich abends am Strand Kerfany.",
+        "hu": "Kezdje a reggelt egy békés látogatással a Chapelle Notre-Dame-de-Lanriot-ban, átadva magát a történelmi hangulatnak. Ahogy közeledik a dél, csodálja meg az elegáns 1930-as évekbeli építészetet, mielőtt felfedné Kermeur Bihan ősi rejtélyeit. A délutánt a fenséges Château de Bélon és gazdag örökségének felfedezésével töltheti a legjobban. Végül kapcsolódjon ki este a Plage de Kerfany nyugtató hullámai mellett.",
+        "ro": "Începeți dimineața cu o vizită liniștită la Chapelle Notre-Dame-de-Lanriot, îmbrățișând ambianța istorică. Pe măsură ce se apropie prânzul, minunați-vă de arhitectura elegantă a anilor 1930 înainte de a descoperi misterele antice de la Kermeur Bihan. După-amiaza este cel mai bine petrecută explorând maiestuosul Château de Bélon și bogata sa moștenire. În cele din urmă, relaxați-vă seara la Plage de Kerfany.",
+        "en": "Start your morning with a peaceful visit to Chapelle Notre-Dame-de-Lanriot, embracing the historic ambiance. As midday approaches, marvel at the elegant 1930s architecture before uncovering the ancient mysteries of Kermeur Bihan. Your afternoon is best spent exploring the majestic Château de Bélon and its rich heritage. Finally, unwind in the evening by the calming waves of Plage de Kerfany."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruine moulin",
+            "hu": "Ruine moulin",
+            "ro": "Ruine moulin",
+            "en": "Ruine moulin"
+          },
+          "coords": [
+            -3.683064,
+            47.793395
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die stimmungsvollen Ruinen dieser historischen Mühle, die die Geschichte der alten lokalen Industrie erzählt, und machen Sie die besten Fotos im frühen Morgenlicht.",
+            "hu": "Figyelje meg ennek a történelmi malomnak a hangulatos romjait, amely a régi helyi ipar történetét meséli el, és készítse a legjobb fotókat a kora reggeli fényben.",
+            "ro": "Observați ruinele atmosferice ale acestei mori istorice care spune povestea vechii industrii locale și surprindeți cele mai bune fotografii în lumina dimineții.",
+            "en": "Observe the atmospheric ruins of this historic mill which tells the story of old local industry, and capture the best photos in the early morning light when the shadows are long."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle St Pierre",
+            "hu": "Chapelle St Pierre",
+            "ro": "Chapelle St Pierre",
+            "en": "Chapelle St Pierre"
+          },
+          "coords": [
+            -3.691172,
+            47.78961
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche mittelalterliche Kapelle, die tiefe Stille und ein Gefühl von beständiger Geschichte bietet, und achten Sie auf die verblassten Schnitzereien in der Nähe des Haupteingangs.",
+            "hu": "Látogasson el ebbe a békés középkori kápolnába, amely mély csendet és a történelem érzetét kínálja, és keresse a fakó, bonyolult faragványokat a fő faajtó közelében.",
+            "ro": "Vizitați această capelă medievală pașnică ce oferă o tăcere profundă și un sentiment de istorie durabilă și căutați sculpturile complicate și estompate de lângă ușa principală.",
+            "en": "Visit this peaceful medieval chapel offering profound silence and a sense of enduring history, and look out for the faded intricate carvings near the main wooden doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Poull Gwenn Per",
+            "hu": "Poull Gwenn Per",
+            "ro": "Poull Gwenn Per",
+            "en": "Poull Gwenn Per"
+          },
+          "coords": [
+            -3.695674,
+            47.786548
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem malerischen Naturpool, wo Sie die lokale Vogelwelt beobachten können, und packen Sie ein kleines Picknick ein, um die friedliche Umgebung zu genießen.",
+            "hu": "Élvezze a nyugodt légkört ezen a festői természetes medencénél, ahol megfigyelheti a helyi madárvilágot, és csomagoljon egy kis pikniket, hogy kiélvezze a békés környezetet.",
+            "ro": "Bucurați-vă de atmosfera liniștită la această piscină naturală pitorească unde puteți urmări păsările locale și împachetați un mic picnic pentru a savura împrejurimile pașnice.",
+            "en": "Enjoy the tranquil atmosphere at this scenic natural pool where you can watch local birdlife, and pack a small picnic to savor the peaceful surroundings before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Trenez",
+            "hu": "Plage de Trenez",
+            "ro": "Plage de Trenez",
+            "en": "Plage de Trenez"
+          },
+          "coords": [
+            -3.703215,
+            47.788367
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem weniger überfüllten Sandstrand entlang, der einen atemberaubenden Blick auf das Meer bietet, und gehen Sie zu den südlichen Felsen, um die abgeschiedensten Plätze zu finden.",
+            "hu": "Sétáljon végig ezen a kevésbé zsúfolt homokos strandon, amely lélegzetelállító kilátást nyújt az óceánra, és sétáljon a déli sziklák felé, hogy megtalálja a legfélreesőbb helyeket.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje cu nisip mai puțin aglomerate, care oferă vederi uluitoare la ocean, și mergeți spre rocile sudice pentru a găsi cele mai retrase locuri.",
+            "en": "Stroll along this less crowded sandy beach which provides breathtaking views of the ocean, and walk towards the southern rocks to find the most secluded and relaxing spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerfany",
+            "hu": "Plage de Kerfany",
+            "ro": "Plage de Kerfany",
+            "en": "Plage de Kerfany"
+          },
+          "coords": [
+            -3.720244,
+            47.802082
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand, der für seinen weichen Sand und sein ruhiges Wasser bekannt ist, und versuchen Sie einen Besuch bei Ebbe, wenn viele Gezeitentümpel sichtbar sind.",
+            "hu": "Pihenjen ezen az érintetlen strandon, amely puha homokjáról és nyugodt vizéről ismert, és próbáljon apálykor érkezni, amikor rengeteg árapály-medence várja, hogy felfedezzék a part mentén.",
+            "ro": "Relaxați-vă pe această plajă curată, cunoscută pentru nisipul său fin și apele calme, și încercați să vizitați în timpul refluxului, când există numeroase bălți de mare de explorat.",
+            "en": "Relax on this pristine recreational beach known for its soft sand and calm waters, and try visiting during low tide when there are plenty of tide pools to explore along the edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bélon",
+            "hu": "Château de Bélon",
+            "ro": "Château de Bélon",
+            "en": "Château de Bélon"
+          },
+          "coords": [
+            -3.705613,
+            47.814349
+          ],
+          "category": "castle",
+          "arrive_at": "15:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.72,
+          "tip_5lang": {
+            "de": "Bewundern Sie das malerische Anwesen, das für seine Geschichte und die Austernzucht bekannt ist, und bringen Sie eine Windjacke mit, da die Küstenbrisen hier überraschend frisch sein können.",
+            "hu": "Csodálja meg a történelméről és az osztrigatenyésztési kapcsolatairól híres festői birtokot, és hozzon magával széldzsekit, mivel a kastély körüli tengerparti szellő meglepően hűvös lehet.",
+            "ro": "Minunați-vă de moșia pitorească faimoasă pentru istoria sa și legăturile cu creșterea stridiilor și aduceți o geacă de vânt, deoarece briza de coastă poate fi surprinzător de rece.",
+            "en": "Marvel at the scenic estate famous for its history and oyster farming connections, and bring a windbreaker as the coastal breezes around the castle grounds can be surprisingly brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der Erkundung der stimmungsvollen Ruinen der alten Mühle in der frischen Morgenluft. Am Mittag machen Sie eine spirituelle Pause an der Chapelle St Pierre und genießen eine erholsame Pause am ruhigen Wasser von Poull Gwenn Per. Fahren Sie nachmittags zu den malerischen Ufern von Plage de Trenez und Plage de Kerfany. Beenden Sie Ihren aktiven Tag im historischen Château de Bélon.",
+        "hu": "Kezdje kerékpáros utazását a régi malom hangulatos romjainak felfedezésével a friss reggeli levegőn. Délben tartson egy spirituális szünetet a Chapelle St Pierre-nél, és élvezze a pihentető szünetet a nyugodt Poull Gwenn Per vize közelében. Délután lovagoljon le a Plage de Trenez és a Plage de Kerfany festői partjaihoz a tengerparti szellőért. Zárja aktív napját a történelmi Château de Bélon körüli sétával.",
+        "ro": "Începeți călătoria cu bicicleta explorând ruinele atmosferice ale vechii mori în aerul proaspăt al dimineții. Până la prânz, faceți o pauză spirituală la Chapelle St Pierre și bucurați-vă de o pauză relaxantă lângă apele liniștite de la Poull Gwenn Per. După-amiaza, pedalați până la țărmurile pitorești de la Plage de Trenez și Plage de Kerfany. Încheiați-vă ziua activă plimbându-vă în jurul istoricului Château de Bélon.",
+        "en": "Kick off your cycling journey exploring the atmospheric ruins of the old mill in the fresh morning air. By midday, take a spiritual pause at Chapelle St Pierre and enjoy a restful break near the tranquil Poull Gwenn Per waters. In the afternoon, ride down to the scenic shores of Plage de Trenez and Plage de Kerfany for some coastal breeze. Conclude your active day wandering around the historic Château de Bélon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 7.88,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de Kergoulouët",
+            "hu": "Menhir de Kergoulouët",
+            "ro": "Menhir de Kergoulouët",
+            "en": "Menhir de Kergoulouët"
+          },
+          "coords": [
+            -3.666006,
+            47.815282
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem hoch aufragenden alten stehenden Stein, der die Landschaft seit Jahrtausenden prägt, und besuchen Sie ihn bei tiefstehender Sonne, um seine dramatische Silhouette zu würdigen.",
+            "hu": "Álljon e hatalmas, ősi állókő mellett, amely évezredek óta meghatározza a tájat, és próbáljon meg alacsonyan járó napnál látogatni, hogy értékelje drámai sziluettjét.",
+            "ro": "Stați lângă această piatră antică falnică ce marchează peisajul de milenii și încercați să o vizitați când soarele este jos pentru a-i aprecia silueta dramatică.",
+            "en": "Stand beside this towering ancient standing stone that has marked the landscape for millennia, and try visiting when the sun is low to appreciate its dramatic silhouette."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kerancalvez",
+            "hu": "Menhir de Kerancalvez",
+            "ro": "Menhir de Kerancalvez",
+            "en": "Menhir de Kerancalvez"
+          },
+          "coords": [
+            -3.661097,
+            47.806337
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Erleben Sie das Geheimnis dieses einsamen Megalithen, der stolz inmitten der bretonischen Natur steht, und halten Sie Ihre Kamera bereit, da der Kontrast zum Grün atemberaubend ist.",
+            "hu": "Tapasztalja meg e magányos megalit rejtélyét, amely büszkén áll a breton természet közepén, és tartsa készenlétben a fényképezőgépét, mivel a kő és a zöld mezők kontrasztja lenyűgöző.",
+            "ro": "Experimentați misterul acestui megalit solitar care stă mândru în mijlocul naturii bretone și țineți camera pregătită, deoarece contrastul dintre piatră și câmpurile verzi este uimitor.",
+            "en": "Experience the mystery of this solitary megalith standing proudly amidst the Breton nature, and keep your camera ready as the contrast between the stone and the green fields is stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Kercordonner",
+            "hu": "Allée couverte de Kercordonner",
+            "ro": "Allée couverte de Kercordonner",
+            "en": "Allée couverte de Kercordonner"
+          },
+          "coords": [
+            -3.659465,
+            47.797383
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Treten Sie an diesem beeindruckenden überdachten Galerigrab, das antike architektonische Fähigkeiten offenbart, in die Vorgeschichte ein und nutzen Sie die Hinweisschilder, um seine Größe zu verstehen.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a lenyűgöző fedett galériás sírnál, amely ősi építészeti készségeket tár fel, és használja a tájékoztató táblákat, hogy megértse eredeti méreteit.",
+            "ro": "Întoarceți-vă în preistorie la acest mormânt impresionant cu galerie acoperită, care dezvăluie abilități arhitecturale antice, și folosiți semnele informative pentru a-i înțelege scara originală.",
+            "en": "Step back into prehistory at this impressive covered gallery tomb which reveals ancient architectural skills, and use the provided informational signs to understand its original scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Pigneonnier de Kermoguer ( XV ème)",
+            "hu": "Pigneonnier de Kermoguer ( XV ème)",
+            "ro": "Pigneonnier de Kermoguer ( XV ème)",
+            "en": "Pigneonnier de Kermoguer ( XV ème)"
+          },
+          "coords": [
+            -3.669018,
+            47.797841
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diesen bemerkenswerten Taubenschlag aus dem 15. Jahrhundert, der als Symbol für historischen landwirtschaftlichen Reichtum steht, und beachten Sie das komplexe Mauerwerk.",
+            "hu": "Vizsgálja meg ezt a figyelemre méltó 15. századi galambdúcot, amely a történelmi mezőgazdasági gazdagság szimbóluma, és figyelje meg a kis bejárati nyílások körüli bonyolult falazatot.",
+            "ro": "Inspectați acest porumbar remarcabil din secolul al XV-lea, care stă ca un simbol al bogăției agricole istorice, și observați zidăria complicată din jurul micilor deschideri.",
+            "en": "Inspect this remarkable 15th-century dovecote which stands as a symbol of historical agricultural wealth, and note the intricate masonry work around the small entrance openings."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lanriot",
+            "hu": "Chapelle Notre-Dame-de-Lanriot",
+            "ro": "Chapelle Notre-Dame-de-Lanriot",
+            "en": "Chapelle Notre-Dame-de-Lanriot"
+          },
+          "coords": [
+            -3.70203,
+            47.808897
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.74,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante historische Kapelle, die das bretonische religiöse Erbe wunderschön hervorhebt, und kommen Sie früh, um die Steinfassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg ezt a bájos történelmi kápolnát, amely gyönyörűen kiemeli a breton vallási örökséget, és érkezzen korán, hogy tömeg nélkül fotózhassa le a kőhomlokzatot.",
+            "ro": "Admirați această capelă istorică fermecătoare care evidențiază minunat moștenirea religioasă bretonă și ajungeți devreme pentru a fotografia fațada de piatră fără aglomerație.",
+            "en": "Admire this charming historic chapel which beautifully highlights Breton religious heritage, and arrive early to photograph the lovely stone facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bélon",
+            "hu": "Château de Bélon",
+            "ro": "Château de Bélon",
+            "en": "Château de Bélon"
+          },
+          "coords": [
+            -3.705613,
+            47.814349
+          ],
+          "category": "castle",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie das malerische Anwesen, das für seine Geschichte und die Austernzucht bekannt ist, und bringen Sie eine Windjacke mit, da die Küstenbrisen hier überraschend frisch sein können.",
+            "hu": "Csodálja meg a történelméről és az osztrigatenyésztési kapcsolatairól híres festői birtokot, és hozzon magával széldzsekit, mivel a kastély körüli tengerparti szellő meglepően hűvös lehet.",
+            "ro": "Minunați-vă de moșia pitorească faimoasă pentru istoria sa și legăturile cu creșterea stridiilor și aduceți o geacă de vânt, deoarece briza de coastă poate fi surprinzător de rece.",
+            "en": "Marvel at the scenic estate famous for its history and oyster farming connections, and bring a windbreaker as the coastal breezes around the castle grounds can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerfany",
+            "hu": "Plage de Kerfany",
+            "ro": "Plage de Kerfany",
+            "en": "Plage de Kerfany"
+          },
+          "coords": [
+            -3.720244,
+            47.802082
+          ],
+          "category": "recreational",
+          "arrive_at": "16:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.72,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand, der für seinen weichen Sand und sein ruhiges Wasser bekannt ist, und versuchen Sie einen Besuch bei Ebbe, wenn viele Gezeitentümpel sichtbar sind.",
+            "hu": "Pihenjen ezen az érintetlen strandon, amely puha homokjáról és nyugodt vizéről ismert, és próbáljon apálykor érkezni, amikor rengeteg árapály-medence várja, hogy felfedezzék a part mentén.",
+            "ro": "Relaxați-vă pe această plajă curată, cunoscută pentru nisipul său fin și apele calme, și încercați să vizitați în timpul refluxului, când există numeroase bălți de mare de explorat.",
+            "en": "Relax on this pristine recreational beach known for its soft sand and calm waters, and try visiting during low tide when there are plenty of tide pools to explore along the edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt zwischen den hoch aufragenden alten Steinen am Menhir de Kergoulouët, die einen mystischen Morgenton angeben. Setzen Sie Ihre megalithische Erkundung bis zum Mittag fort, mit Stopps in Kerancalvez und der beeindruckenden Kercordonner-Galerie. Bestaunen Sie am Nachmittag den Taubenschlag aus dem 15. Jahrhundert und die Kapelle Lanriot. Beenden Sie den Abend mit der königlichen Schönheit von Bélon.",
+        "hu": "Autós túrája a Menhir de Kergoulouët magasodó ősi kövei között kezdődik, misztikus reggeli hangulatot teremtve. Folytassa megalitikus felfedezését délig, megállva Kerancalvezben és a lenyűgöző Kercordonner galériában. Ahogy a délután kibontakozik, csodálja meg a 15. századi galambdúcot és a bájos Lanriot kápolnát. Fejezze be az estét a Château de Bélon királyi szépségének és a kerfany-i naplementének az élvezetével.",
+        "ro": "Turul dumneavoastră auto începe printre pietrele antice falnice de la Menhir de Kergoulouët, stabilind un ton matinal mistic. Continuați explorarea megalitică pe parcursul prânzului cu opriri la Kerancalvez și impresionanta galerie Kercordonner. Pe măsură ce se desfășoară după-amiaza, minunați-vă de porumbarul din secolul al XV-lea și de fermecătoarea capelă Lanriot. Încheiați seara la Château de Bélon și Kerfany.",
+        "en": "Your driving tour begins among the towering ancient stones at Menhir de Kergoulouët, setting a mystical morning tone. Continue your megalithic exploration through midday with stops at Kerancalvez and the impressive Kercordonner gallery. As the afternoon unfolds, marvel at the 15th-century dovecote and the charming Lanriot chapel. Finish the evening by soaking in the regal beauty of Château de Bélon and the sunset at Kerfany."
+      }
+    }
+  }
+}

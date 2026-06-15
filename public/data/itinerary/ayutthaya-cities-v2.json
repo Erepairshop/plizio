@@ -1,0 +1,520 @@
+{
+  "city_id": "ayutthaya-cities-v2",
+  "anchor": {
+    "name": "Ayutthaya",
+    "coords": [
+      100.5693,
+      14.353
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 2.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Borom Phuttharam",
+            "hu": "Wat Borom Phuttharam",
+            "ro": "Wat Borom Phuttharam",
+            "en": "Wat Borom Phuttharam"
+          },
+          "coords": [
+            100.561267,
+            14.347677
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses königlichen Tempels mit seinen berühmten glasierten Dachziegeln und kommen Sie früh, um das beste Licht auf den Stupas einzufangen.",
+            "hu": "Fedezze fel e királyi templom maradványait, amely híres mázas tetőcserepeiről, és érkezzen korán, hogy a legjobb fényben fotózhassa a fennmaradt sztúpákat.",
+            "ro": "Explorați ruinele acestui templu regal faimos pentru țiglele sale smălțuite și veniți devreme pentru a prinde cea mai bună lumină pe stupele supraviețuitoare.",
+            "en": "Explore the remains of this royal temple famous for its glazed roof tiles, and visit early in the day to capture the best light on the surviving stupas."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Chao Sam Phraya",
+            "hu": "Chao Sam Phraya Nemzeti Múzeum",
+            "ro": "Muzeul Național Chao Sam Phraya",
+            "en": "Chao Sam Phraya National Museum"
+          },
+          "coords": [
+            100.56182,
+            14.351189
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten goldenen Schätze aus lokalen Krypten, die den einstigen Reichtum der Stadt zeigen, und bringen Sie eine leichte Jacke für die kühlen Innenräume mit.",
+            "hu": "Csodálja meg a helyi kriptákból származó aranykincseket, amelyek a város egykori gazdagságát hirdetik, és hozzon magával pulóvert az erős légkondicionáló miatt.",
+            "ro": "Admirați comorile de aur recuperate din criptele locale care atestă bogăția orașului și aduceți o jachetă ușoară deoarece aerul condiționat este destul de puternic.",
+            "en": "Admire the exquisite golden treasures recovered from local crypts which highlight the city's past wealth, and bring a light jacket as the air conditioning is quite strong inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wihan Klaep",
+            "hu": "Wihan Klaep",
+            "ro": "Wihan Klaep",
+            "en": "Wihan Klaep"
+          },
+          "coords": [
+            100.559432,
+            14.354903
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese weniger bekannte historische Ruine, die eine ruhige Atmosphäre abseits der Touristenpfade bietet und sich perfekt für stille Reflexion und Fotografie eignet.",
+            "hu": "Fedezze fel ezt a kevésbé ismert történelmi romot, amely békés atmoszférát kínál a fő turistautaktól távol, így tökéletes egy csendes sétához vagy fotózáshoz.",
+            "ro": "Descoperiți această ruină istorică mai puțin cunoscută care oferă o atmosferă senină departe de traseele turistice principale, fiind perfectă pentru fotografii liniștite.",
+            "en": "Discover this lesser-known historical ruin that offers a serene atmosphere away from the main tourist paths, making it perfect for quiet reflection and photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Si Sanphet",
+            "hu": "Wat Phra Si Sanphet",
+            "ro": "Wat Phra Si Sanphet",
+            "en": "Wat Phra Si Sanphet"
+          },
+          "coords": [
+            100.558515,
+            14.355926
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stehen Sie vor den drei ikonischen glockenförmigen Stupas, die das spirituelle Zentrum des alten Königreichs bildeten, und tragen Sie einen Hut wegen des fehlenden Schattens.",
+            "hu": "Álljon meg a három ikonikus harang alakú sztúpa előtt, melyek az ősi királyság spirituális központjai voltak, és viseljen kalapot, mert a hatalmas komplexumban kevés az árnyék.",
+            "ro": "Stați în fața celor trei stupe emblematice în formă de clopot care au fost inima spirituală a regatului antic și purtați o pălărie deoarece există foarte puțină umbră.",
+            "en": "Stand before the three iconic bell-shaped stupas that served as the spiritual heart of the ancient kingdom, and wear a hat since there is minimal shade around the vast complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Maha That",
+            "hu": "Wat Maha That",
+            "ro": "Wat Maha That",
+            "en": "Wat Maha That"
+          },
+          "coords": [
+            100.567484,
+            14.357001
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den berühmten, in Baumwurzeln eingewachsenen Buddha-Kopf und denken Sie daran, sich beim Fotografieren respektvoll hinzuknien, um unterhalb des Buddhas zu bleiben.",
+            "hu": "Csodálja meg a fagyökerekkel átszőtt híres Buddha-fejet, és ne felejtsen el tiszteletteljesen leguggolni a fotózásnál, hogy a feje a Buddha feje alatt maradjon.",
+            "ro": "Minunați-vă de faimosul cap de Buddha prins în rădăcinile copacului și amintiți-vă să vă lăsați în jos cu respect când faceți poze pentru a avea capul sub cel al lui Buddha.",
+            "en": "Marvel at the famous sandstone Buddha head entwined in ancient tree roots, and remember to respectfully crouch down when taking photos to keep your head below the Buddha's."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ratchaburana",
+            "hu": "Wat Ratchaburana",
+            "ro": "Wat Ratchaburana",
+            "en": "Wat Ratchaburana"
+          },
+          "coords": [
+            100.567292,
+            14.358739
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Stufen des gut erhaltenen Prangs hinauf, um schwache Originalfresken in der Krypta zu sehen, aber achten Sie auf das schmale, unebene Mauerwerk.",
+            "hu": "Mássza meg a figyelemre méltóan megőrzött prang meredek lépcsőit, hogy megtekintse a kripta eredeti freskóit, de óvatosan lépkedjen a keskeny és egyenetlen ősi köveken.",
+            "ro": "Urcați treptele abrupte ale prangului remarcabil conservat pentru a vedea fresce originale estompate, dar pășiți cu grijă pe piatra antică îngustă și denivelată.",
+            "en": "Climb the steep steps of the remarkably preserved prang to view faint original frescoes inside the crypt, but step carefully on the narrow and uneven ancient stonework."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den ruhigen Ruinen des Wat Borom Phuttharam. Mittags erkunden Sie die reichen Sammlungen des Nationalmuseums und das friedliche Wihan Klaep. Am Nachmittag bestaunen Sie die großen Stupas von Wat Phra Si Sanphet und den berühmten Buddha im Baum im Wat Maha That. Beenden Sie den Abend, wenn der Sonnenuntergang lange Schatten über den Prang des Wat Ratchaburana wirft.",
+        "hu": "Kezdje a reggelt a Wat Borom Phuttharam csendes romjainak felfedezésével. Délben merüljön el a nemzeti múzeum gazdag gyűjteményeiben és a békés Wihan Klaep látványában. Délután csodálja meg a Wat Phra Si Sanphet hatalmas sztúpáit és a Wat Maha That fába nőtt Buddháját. Az estét a Wat Ratchaburana fenséges prangjának árnyékában zárja, miközben a lemenő nap aranyba öltözteti a romokat.",
+        "ro": "Începeți dimineața printre ruinele liniștite de la Wat Borom Phuttharam. La amiază, explorați colecțiile bogate ale muzeului național și seninul Wihan Klaep. După-amiaza, admirați marile stupe de la Wat Phra Si Sanphet și faimosul Buddha cuprins de copac de la Wat Maha That. Încheiați seara cu culorile aurii ale apusului lăsând umbre lungi peste prangul înalt al templului Wat Ratchaburana.",
+        "en": "Begin your morning immersing in the quiet ruins of Wat Borom Phuttharam. By midday, you will delve into the rich artifact collections at the national museum and explore the serene Wihan Klaep. In the afternoon, marvel at the grand stupas of Wat Phra Si Sanphet and the famous tree-bound Buddha at Wat Maha That. Conclude your evening with the golden hues of sunset casting long shadows across the towering prang of Wat Ratchaburana."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:52",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phet Festung",
+            "hu": "Phet Erőd",
+            "ro": "Fortul Phet",
+            "en": "Phet Fort"
+          },
+          "coords": [
+            100.576284,
+            14.346284
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese robuste Ziegelfestung am Zusammenfluss der Flüsse, um Ayutthayas Verteidigungsstrategie zu verstehen, und bringen Sie Insektenschutzmittel für den Abend mit.",
+            "hu": "Látogassa meg ezt a masszív téglaerődöt a folyók találkozásánál, amely a város stratégiai védelmét szolgálta, és hozzon szúnyogriasztót, ha az esti órákban érkezik.",
+            "ro": "Vizitați această fortăreață robustă din cărămidă unde se întâlnesc râurile pentru a înțelege apărarea navală a orașului și aduceți spray anti-țânțari spre seară.",
+            "en": "Visit this robust brick fortress where the rivers meet to understand Ayutthaya's strategic naval defense, and bring insect repellent if visiting near the evening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Borom Phuttharam",
+            "hu": "Wat Borom Phuttharam",
+            "ro": "Wat Borom Phuttharam",
+            "en": "Wat Borom Phuttharam"
+          },
+          "coords": [
+            100.561267,
+            14.347677
+          ],
+          "category": "historical",
+          "arrive_at": "09:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses königlichen Tempels mit seinen berühmten glasierten Dachziegeln und kommen Sie früh, um das beste Licht auf den Stupas einzufangen.",
+            "hu": "Fedezze fel e királyi templom maradványait, amely híres mázas tetőcserepeiről, és érkezzen korán, hogy a legjobb fényben fotózhassa a fennmaradt sztúpákat.",
+            "ro": "Explorați ruinele acestui templu regal faimos pentru țiglele sale smălțuite și veniți devreme pentru a prinde cea mai bună lumină pe stupele supraviețuitoare.",
+            "en": "Explore the remains of this royal temple famous for its glazed roof tiles, and visit early in the day to capture the best light on the surviving stupas."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Chao Sam Phraya",
+            "hu": "Chao Sam Phraya Nemzeti Múzeum",
+            "ro": "Muzeul Național Chao Sam Phraya",
+            "en": "Chao Sam Phraya National Museum"
+          },
+          "coords": [
+            100.56182,
+            14.351189
+          ],
+          "category": "museum",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten goldenen Schätze aus lokalen Krypten, die den einstigen Reichtum der Stadt zeigen, und bringen Sie eine leichte Jacke für die kühlen Innenräume mit.",
+            "hu": "Csodálja meg a helyi kriptákból származó aranykincseket, amelyek a város egykori gazdagságát hirdetik, és hozzon magával pulóvert az erős légkondicionáló miatt.",
+            "ro": "Admirați comorile de aur recuperate din criptele locale care atestă bogăția orașului și aduceți o jachetă ușoară deoarece aerul condiționat este destul de puternic.",
+            "en": "Admire the exquisite golden treasures recovered from local crypts which highlight the city's past wealth, and bring a light jacket as the air conditioning is quite strong inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Si Sanphet",
+            "hu": "Wat Phra Si Sanphet",
+            "ro": "Wat Phra Si Sanphet",
+            "en": "Wat Phra Si Sanphet"
+          },
+          "coords": [
+            100.558515,
+            14.355926
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stehen Sie vor den drei ikonischen glockenförmigen Stupas, die das spirituelle Zentrum des alten Königreichs bildeten, und tragen Sie einen Hut wegen des fehlenden Schattens.",
+            "hu": "Álljon meg a három ikonikus harang alakú sztúpa előtt, melyek az ősi királyság spirituális központjai voltak, és viseljen kalapot, mert a hatalmas komplexumban kevés az árnyék.",
+            "ro": "Stați în fața celor trei stupe emblematice în formă de clopot care au fost inima spirituală a regatului antic și purtați o pălărie deoarece există foarte puțină umbră.",
+            "en": "Stand before the three iconic bell-shaped stupas that served as the spiritual heart of the ancient kingdom, and wear a hat since there is minimal shade around the vast complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Maha That",
+            "hu": "Wat Maha That",
+            "ro": "Wat Maha That",
+            "en": "Wat Maha That"
+          },
+          "coords": [
+            100.567484,
+            14.357001
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den berühmten, in Baumwurzeln eingewachsenen Buddha-Kopf und denken Sie daran, sich beim Fotografieren respektvoll hinzuknien, um unterhalb des Buddhas zu bleiben.",
+            "hu": "Csodálja meg a fagyökerekkel átszőtt híres Buddha-fejet, és ne felejtsen el tiszteletteljesen leguggolni a fotózásnál, hogy a feje a Buddha feje alatt maradjon.",
+            "ro": "Minunați-vă de faimosul cap de Buddha prins în rădăcinile copacului și amintiți-vă să vă lăsați în jos cu respect când faceți poze pentru a avea capul sub cel al lui Buddha.",
+            "en": "Marvel at the famous sandstone Buddha head entwined in ancient tree roots, and remember to respectfully crouch down when taking photos to keep your head below the Buddha's."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phlapphla Chai",
+            "hu": "Wat Phlapphla Chai",
+            "ro": "Wat Phlapphla Chai",
+            "en": "Wat Phlapphla Chai"
+          },
+          "coords": [
+            100.568114,
+            14.360404
+          ],
+          "category": "historical",
+          "arrive_at": "15:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie das zerfallende, aber stimmungsvolle Mauerwerk dieses kleinen historischen Tempels und nehmen Sie sich Zeit für die filigranen Schnitzereien an den Sockeln.",
+            "hu": "Élvezze ennek a kis, történelmi templomnak a romos, de hangulatos téglafalait, és szánjon időt a fennmaradt alapzatok bonyolult faragványainak aprólékos megvizsgálására.",
+            "ro": "Bucurați-vă de zidăria măcinată, dar plină de atmosferă a acestui mic templu istoric și examinați cu atenție sculpturile complicate de pe porțiunile de bază supraviețuitoare.",
+            "en": "Enjoy the crumbling yet atmospheric brickwork of this small, historic temple structure, and take your time examining the intricate carvings on the surviving base portions."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lai So",
+            "hu": "Wat Lai So",
+            "ro": "Wat Lai So",
+            "en": "Wat Lai So"
+          },
+          "coords": [
+            100.560681,
+            14.367205
+          ],
+          "category": "historical",
+          "arrive_at": "17:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser friedlichen nördlichen Ruine mit ihrer einsamen Lage im Gras, und tragen Sie feste Wanderschuhe für das unebene Gelände.",
+            "hu": "Meneküljön el a tömeg elől ennél a békés északi romnál, amelyet a fűben megbúvó magányos fekvése tesz különlegessé, és viseljen kényelmes, zárt cipőt a terephez.",
+            "ro": "Scăpați de aglomerație la această ruină nordică pașnică, caracterizată prin amplasarea sa solitară în iarbă, și purtați încălțăminte de mers robustă pentru terenul accidentat.",
+            "en": "Escape the crowds at this peaceful northern ruin characterized by its solitary setting in the grass, and wear sturdy walking shoes to navigate the uneven terrain comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am strategischen Flusszusammenfluss nahe dem Phet Fort. Mittags erreichen Sie die Ruinen von Wat Borom Phuttharam und die Schätze im Nationalmuseum. Am Nachmittag radeln Sie ins historische Epizentrum zu Wat Phra Si Sanphet und den ikonischen Wurzeln des Wat Maha That. Beenden Sie den Tag an den ruhigen Ruinen von Wat Phlapphla Chai und Wat Lai So in der Abendbrise.",
+        "hu": "Kezdje kerékpártúráját a folyók találkozásánál fekvő Phet erődnél. Délben fedezze fel a Wat Borom Phuttharam bonyolult romjait és a nemzeti múzeum kincseit. Délután tekerjen be a történelmi epicentrumba, megnézve a Wat Phra Si Sanphet fenséges sztúpáit és a Wat Maha That ikonikus fagyökereit. Zárja aktív napját a Wat Phlapphla Chai és a Wat Lai So csendesebb romjainál a kellemes esti szellőben.",
+        "ro": "Începeți turul cu bicicleta la confluența strategică a râului lângă Fortul Phet. Amiaza vă aduce la ruinele de la Wat Borom Phuttharam și la comorile muzeului național. După-amiaza pedalați în epicentrul istoric, văzând maiestuosul Wat Phra Si Sanphet și rădăcinile iconice de la Wat Maha That. Încheiați ziua activă descoperind ruinele liniștite de la Wat Phlapphla Chai și Wat Lai So în briza de seară.",
+        "en": "Kick off your cycling tour at the strategic river confluence near Phet Fort. Midday brings you to the intricate ruins of Wat Borom Phuttharam and the sparkling treasures inside the national museum. The afternoon pedals you into the historical epicenter, viewing the majestic Wat Phra Si Sanphet and the iconic roots at Wat Maha That. Wrap up your active day discovering the quieter ruins of Wat Phlapphla Chai and Wat Lai So in the gentle evening breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Yai Chai Mongkhon Worawihan",
+            "hu": "Wat Yai Chai Mongkhon Worawihan",
+            "ro": "Wat Yai Chai Mongkhon Worawihan",
+            "en": "Wat Yai Chai Mongkhon Worawihan"
+          },
+          "coords": [
+            100.593899,
+            14.344313
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den riesigen liegenden Buddha und die hohe Hauptchedi, die von Statuen umgeben ist, und kommen Sie früh, um den großen Reisebusgruppen auszuweichen.",
+            "hu": "Csodálja meg a lenyűgöző, hatalmas fekvő Buddhát és a szobrokkal körülvett fő cedit, és érkezzen korán reggel, hogy elkerülje a turistabuszokkal érkező nagy csoportokat.",
+            "ro": "Minunați-vă de uriașul Buddha culcat și de chedi-ul principal impunător înconjurat de statui și ajungeți devreme pentru a evita grupurile mari din autocarele turistice.",
+            "en": "Marvel at the imposing giant reclining Buddha and the towering main chedi surrounded by rows of statues, and arrive early to beat the large tour bus groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Phet Festung",
+            "hu": "Phet Erőd",
+            "ro": "Fortul Phet",
+            "en": "Phet Fort"
+          },
+          "coords": [
+            100.576284,
+            14.346284
+          ],
+          "category": "fortress",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese robuste Ziegelfestung am Zusammenfluss der Flüsse, um Ayutthayas Verteidigungsstrategie zu verstehen, und bringen Sie Insektenschutzmittel für den Abend mit.",
+            "hu": "Látogassa meg ezt a masszív téglaerődöt a folyók találkozásánál, amely a város stratégiai védelmét szolgálta, és hozzon szúnyogriasztót, ha az esti órákban érkezik.",
+            "ro": "Vizitați această fortăreață robustă din cărămidă unde se întâlnesc râurile pentru a înțelege apărarea navală a orașului și aduceți spray anti-țânțari spre seară.",
+            "en": "Visit this robust brick fortress where the rivers meet to understand Ayutthaya's strategic naval defense, and bring insect repellent if visiting near the evening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Chao Sam Phraya",
+            "hu": "Chao Sam Phraya Nemzeti Múzeum",
+            "ro": "Muzeul Național Chao Sam Phraya",
+            "en": "Chao Sam Phraya National Museum"
+          },
+          "coords": [
+            100.56182,
+            14.351189
+          ],
+          "category": "museum",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten goldenen Schätze aus lokalen Krypten, die den einstigen Reichtum der Stadt zeigen, und bringen Sie eine leichte Jacke für die kühlen Innenräume mit.",
+            "hu": "Csodálja meg a helyi kriptákból származó aranykincseket, amelyek a város egykori gazdagságát hirdetik, és hozzon magával pulóvert az erős légkondicionáló miatt.",
+            "ro": "Admirați comorile de aur recuperate din criptele locale care atestă bogăția orașului și aduceți o jachetă ușoară deoarece aerul condiționat este destul de puternic.",
+            "en": "Admire the exquisite golden treasures recovered from local crypts which highlight the city's past wealth, and bring a light jacket as the air conditioning is quite strong inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Si Sanphet",
+            "hu": "Wat Phra Si Sanphet",
+            "ro": "Wat Phra Si Sanphet",
+            "en": "Wat Phra Si Sanphet"
+          },
+          "coords": [
+            100.558515,
+            14.355926
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stehen Sie vor den drei ikonischen glockenförmigen Stupas, die das spirituelle Zentrum des alten Königreichs bildeten, und tragen Sie einen Hut wegen des fehlenden Schattens.",
+            "hu": "Álljon meg a három ikonikus harang alakú sztúpa előtt, melyek az ősi királyság spirituális központjai voltak, és viseljen kalapot, mert a hatalmas komplexumban kevés az árnyék.",
+            "ro": "Stați în fața celor trei stupe emblematice în formă de clopot care au fost inima spirituală a regatului antic și purtați o pălărie deoarece există foarte puțină umbră.",
+            "en": "Stand before the three iconic bell-shaped stupas that served as the spiritual heart of the ancient kingdom, and wear a hat since there is minimal shade around the vast complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ratchaburana",
+            "hu": "Wat Ratchaburana",
+            "ro": "Wat Ratchaburana",
+            "en": "Wat Ratchaburana"
+          },
+          "coords": [
+            100.567292,
+            14.358739
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Stufen des gut erhaltenen Prangs hinauf, um schwache Originalfresken in der Krypta zu sehen, aber achten Sie auf das schmale, unebene Mauerwerk.",
+            "hu": "Mássza meg a figyelemre méltóan megőrzött prang meredek lépcsőit, hogy megtekintse a kripta eredeti freskóit, de óvatosan lépkedjen a keskeny és egyenetlen ősi köveken.",
+            "ro": "Urcați treptele abrupte ale prangului remarcabil conservat pentru a vedea fresce originale estompate, dar pășiți cu grijă pe piatra antică îngustă și denivelată.",
+            "en": "Climb the steep steps of the remarkably preserved prang to view faint original frescoes inside the crypt, but step carefully on the narrow and uneven ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ratchaphli",
+            "hu": "Wat Ratchaphli",
+            "ro": "Wat Ratchaphli",
+            "en": "Wat Ratchaphli"
+          },
+          "coords": [
+            100.543292,
+            14.34933
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die besondere architektonische Verschmelzung in den Überresten dieses westlichen Tempels und achten Sie auf die Muster im Mauerwerk, die ihn einzigartig machen.",
+            "hu": "Figyelje meg a nyugati szigeten található templom romjainak egyedi építészeti fúzióját, és vizsgálja meg a téglafal mintázatait, amelyek megkülönböztetik a központi romoktól.",
+            "ro": "Observați fuziunea arhitecturală distinctă a ruinelor acestui templu de vest și priviți atent modelele de zidărie care îl disting de ruinele centrale.",
+            "en": "Observe the distinct architectural fusion found in the remains of this western island temple, and look closely at the brickwork patterns that distinguish it from the central ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Wang Chai",
+            "hu": "Wat Wang Chai",
+            "ro": "Wat Wang Chai",
+            "en": "Wat Wang Chai"
+          },
+          "coords": [
+            100.549169,
+            14.342113
+          ],
+          "category": "historical",
+          "arrive_at": "16:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen, überwucherten Innenhöfe dieses alten Klosters und bringen Sie viel Trinkwasser mit, da es hier kaum Verkäufer gibt.",
+            "hu": "Sétáljon végig ennek a hatalmas ősi kolostornak a kiterjedt, benőtt udvarain, és vigyen magával bőséges ivóvizet, mivel ezen az eldugott területen ritkán találni árusokat.",
+            "ro": "Plimbați-vă prin curțile întinse și acoperite de vegetație ale acestei vechi mănăstiri și luați multă apă de băut, deoarece vânzătorii sunt rari în această zonă izolată.",
+            "en": "Walk through the sprawling overgrown courtyards of this vast ancient monastery, and carry plenty of drinking water as vendors are rarely found in this secluded area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zum monumentalen liegenden Buddha im Wat Yai Chai Mongkhon. Mittags geht es zurück zur Insel, um das Phet Fort und das Chao Sam Phraya Nationalmuseum zu erkunden. Verbringen Sie einen faszinierenden Nachmittag in den zentralen Ruinen von Wat Phra Si Sanphet und Wat Ratchaburana. Fahren Sie schließlich an den westlichen Rand zu den Ruinen von Wat Ratchaphli und Wat Wang Chai in der Dämmerung.",
+        "hu": "Kezdje a napot a Wat Yai Chai Mongkhon monumentális fekvő Buddhájának megtekintésével. Délben térjen vissza a szigetre, hogy felfedezze a Phet erődöt és a Chao Sam Phraya Nemzeti Múzeumot. Töltsön egy lenyűgöző délutánt a Wat Phra Si Sanphet és a Wat Ratchaburana grandiózus központi romjainál. Végül vezessen a nyugati peremre, hogy bebarangolja a Wat Ratchaphli és a Wat Wang Chai hatalmas udvarait alkonyatkor.",
+        "ro": "Începeți cu o plimbare spre monumentalul Buddha culcat de la Wat Yai Chai Mongkhon. Călătoria de la amiază vă duce înapoi pe insulă la Fortul Phet și la Muzeul Național Chao Sam Phraya. Petreceți o după-amiază fascinantă explorând marile ruine centrale de la Wat Phra Si Sanphet și Wat Ratchaburana. În cele din urmă, conduceți spre marginea vestică pentru a rătăci prin curțile vaste de la Wat Ratchaphli și Wat Wang Chai la amurg.",
+        "en": "Start by driving out to the monumental reclining Buddha at Wat Yai Chai Mongkhon. Your midday journey takes you back to the island to inspect Phet Fort and dive into history at the Chao Sam Phraya National Museum. Spend a fascinating afternoon exploring the grand central ruins of Wat Phra Si Sanphet and Wat Ratchaburana. Finally, drive to the western edge to wander the vast, secluded courtyards of Wat Ratchaphli and Wat Wang Chai at dusk."
+      }
+    }
+  }
+}

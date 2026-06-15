@@ -1,0 +1,566 @@
+{
+  "city_id": "spain-lucena-cities-v2",
+  "anchor": {
+    "name": "Lucena",
+    "coords": [
+      -4.48522,
+      37.40881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:44",
+      "total_km": 1.21,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "el Sagrario",
+            "hu": "el Sagrario",
+            "ro": "el Sagrario",
+            "en": "el Sagrario"
+          },
+          "coords": [
+            -4.484313,
+            37.409041
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Barockdetails dieses Wahrzeichens aus Lucenas reicher Vergangenheit, am besten früh morgens ohne grelles Licht.",
+            "hu": "Csodálja meg Lucena gazdag múltját idéző barokk részleteket ebben a nevezetességben, és érkezzen korán, hogy elkerülje a déli napfényt.",
+            "ro": "Admirați detaliile baroce uimitoare ale acestui punct de reper, reflectând trecutul bogat al Lucenei, și veniți devreme pentru a evita strălucirea.",
+            "en": "Marvel at the stunning baroque details of this landmark, reflecting Lucena's wealthy past, and come early to avoid the midday glare inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología y Etnografía",
+            "hu": "Museo de Arqueología y Etnografía",
+            "ro": "Museo de Arqueología y Etnografía",
+            "en": "Museo de Arqueología y Etnografía"
+          },
+          "coords": [
+            -4.483834,
+            37.408062
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte aus Jahrhunderten lokaler Geschichte und fragen Sie nach der maurischen Töpfersammlung im Obergeschoss.",
+            "hu": "Fedezze fel a helyi történelem évszázadait felölelő leleteket, és kérdezze az idegenvezetőket az emeleti mór kerámiagyűjteményről.",
+            "ro": "Explorați artefacte fascinante din istoria locală și întrebați ghizii despre colecția unică de ceramică maură aflată la etajul superior.",
+            "en": "Explore fascinating artifacts that span centuries of local history, and ask the guides about the unique Moorish pottery collection on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Marqués de Torreblanca",
+            "hu": "Palacio del Marqués de Torreblanca",
+            "ro": "Palacio del Marqués de Torreblanca",
+            "en": "Palacio del Marqués de Torreblanca"
+          },
+          "coords": [
+            -4.486271,
+            37.40786
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie die aristokratische Eleganz dieses Palastes mit seinen Säulen im Innenhof und vergessen Sie nicht, Fotos vom zentralen Patio aus zu machen.",
+            "hu": "Lépjen be ennek a történelmi palotának az arisztokratikus eleganciájába, figyelje meg a díszes oszlopokat, és fotózzon a központi teraszról.",
+            "ro": "Pășiți în eleganța aristocratică a acestui palat istoric, observând coloanele curții, și asigurați-vă că faceți fotografii din curtea centrală.",
+            "en": "Step into the aristocratic elegance of this historic palace, noting the intricate courtyard columns, and make sure to capture photos from the central patio."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Dios Padre",
+            "hu": "Ermita de Dios Padre",
+            "ro": "Ermita de Dios Padre",
+            "en": "Ermita de Dios Padre"
+          },
+          "coords": [
+            -4.487824,
+            37.408038
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser charmanten Kapelle, die Sie für das weichste Licht im Inneren am besten am Nachmittag besuchen.",
+            "hu": "Élvezze a bájos kápolna békés hangulatát és gyönyörű építészetét, amelyet a lágyabb belső fények miatt délután érdemes leginkább meglátogatni.",
+            "ro": "Apreciați atmosfera pașnică a acestei capele fermecătoare, vizitată cel mai bine după-amiaza pentru o iluminare interioară mai blândă.",
+            "en": "Appreciate the peaceful atmosphere and beautiful architecture of this charming chapel, best visited in the afternoon for softer interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación de la Ciudad",
+            "hu": "Centro de Interpretación de la Ciudad",
+            "ro": "Centro de Interpretación de la Ciudad",
+            "en": "Centro de Interpretación de la Ciudad"
+          },
+          "coords": [
+            -4.488948,
+            37.407749
+          ],
+          "category": "museum",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Lucenas jüdisches, christliches und maurisches Erbe durch interaktive Ausstellungen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Fedezze fel Lucena zsidó, keresztény és mór örökségét interaktív kiállításokon, és kezdje a földszinten a kronológiai sorrend kedvéért.",
+            "ro": "Descoperiți moștenirea iudaică, creștină și maură prin expoziții interactive și începeți la parter pentru a urmări ordinea cronologică.",
+            "en": "Uncover the layers of Lucena's Jewish, Christian, and Moorish heritage through interactive exhibits, and start on the ground floor for chronological order."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Mora",
+            "hu": "Casa de los Mora",
+            "ro": "Casa de los Mora",
+            "en": "Casa de los Mora"
+          },
+          "coords": [
+            -4.490016,
+            37.407825
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Adelshauses aus Lucenas goldenem Zeitalter und nehmen Sie sich Zeit für die Holzarbeiten an den Decken.",
+            "hu": "Csodálja meg ennek a nemesi háznak a fennmaradt építészetét, és szánjon időt a mennyezet bonyolult famunkáinak megvizsgálására.",
+            "ro": "Admirați arhitectura conservată a acestei case nobile și alocați-vă timp pentru a inspecta lucrările complicate din lemn de pe tavane.",
+            "en": "Admire the preserved architecture of this noble house, representing Lucena's golden age, and take time to inspect the intricate woodwork on the ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Valdecañas y Piédrola",
+            "hu": "Casa de los Valdecañas y Piédrola",
+            "ro": "Casa de los Valdecañas y Piédrola",
+            "en": "Casa de los Valdecañas y Piédrola"
+          },
+          "coords": [
+            -4.487343,
+            37.410009
+          ],
+          "category": "historical",
+          "arrive_at": "16:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieses historischen Herrenhauses und prüfen Sie, ob im Inneren lokale Kunstausstellungen stattfinden.",
+            "hu": "Figyelje meg ennek a történelmi kúriának a lenyűgöző homlokzatát, és ellenőrizze, tartanak-e odabent helyi művészeti kiállításokat.",
+            "ro": "Observați fațada impresionantă a acestui conac istoric, o mărturie a familiilor de elită, și verificați dacă au loc expoziții de artă.",
+            "en": "Observe the impressive facade of this historic manor, a testament to the town's elite families, and check if any local art exhibits are held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Polo de Lara",
+            "hu": "Casa de los Polo de Lara",
+            "ro": "Casa de los Polo de Lara",
+            "en": "Casa de los Polo de Lara"
+          },
+          "coords": [
+            -4.485108,
+            37.410667
+          ],
+          "category": "historical",
+          "arrive_at": "17:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Steinmetzarbeiten dieser eleganten Residenz genau an, die den regionalen Baustil der damaligen Zeit perfekt einfängt.",
+            "hu": "Vessen egy pillantást ennek az elegáns rezidenciának a kőfaragásaira, amely tökéletesen megragadja a korszak regionális építészeti stílusát.",
+            "ro": "Priviți cu atenție detaliile din piatră ale acestei reședințe elegante, care surprinde perfect stilul arhitectural regional al perioadei.",
+            "en": "Take a close look at the stonework details of this elegant residence, which perfectly captures the regional architectural style of the period."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den Barockdetails des Sagrario und tauchen Sie im Archäologiemuseum in die Geschichte ein. \n\nDer Mittag lädt zu einem Spaziergang zum Palast des Marqués de Torreblanca und zur Kapelle Dios Padre ein. \n\nVerbringen Sie den Nachmittag im Interpretationszentrum der Stadt und bewundern Sie die Casa de los Mora. \n\nBeenden Sie den Abend an den adligen Fassaden von Valdecañas.",
+        "hu": "Kezdje a reggelt az el Sagrario barokk részleteinek megcsodálásával és a helyi régészeti múzeum felfedezésével. \n\nDélben tegyen egy sétát az impozáns Marqués de Torreblanca palotához és a békés Dios Padre kápolnához. \n\nA délutánt a városi interpretációs központban és a Casa de los Mora épületének csodálatával töltheti. \n\nAz estét a Valdecañas és a Polo de Lara nemesi homlokzatainál zárhatja.",
+        "ro": "Începeți dimineața admirând detaliile baroce de la el Sagrario și descoperind istoria la Muzeul de Arheologie. \n\nLa prânz, faceți o plimbare spre impresionantul palat Marqués de Torreblanca și capela liniștită Dios Padre. \n\nPetreceți după-amiaza la Centrul de Interpretare al Orașului și admirați frumoasa Casa de los Mora. \n\nÎncheiați seara admirând fațadele nobile de la Valdecañas și Polo de Lara.",
+        "en": "Begin your morning by marveling at the rich baroque details of el Sagrario and delving into local lore at the Archaeology Museum. \n\nMidday invites a leisurely stroll to the impressive Marqués de Torreblanca palace and the serene Dios Padre chapel. \n\nSpend your afternoon uncovering multi-layered history at the City Interpretation Center and admiring Casa de los Mora. \n\nConclude the evening taking in the noble facades of Valdecañas and Polo de Lara as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 2.09,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Necrópolis Judía",
+            "hu": "Necrópolis Judía",
+            "ro": "Necrópolis Judía",
+            "en": "Necrópolis Judía"
+          },
+          "coords": [
+            -4.488493,
+            37.40282
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der größten antiken jüdischen Friedhöfe Spaniens, der tiefe Einblicke bietet, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel Spanyolország egyik legnagyobb ősi zsidó temetőjét, amely mély történelmi betekintést nyújt, és viseljen kényelmes cipőt.",
+            "ro": "Explorați unul dintre cele mai mari cimitire evreiești antice din Spania și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore one of the largest ancient Jewish cemeteries in Spain, offering deep historical insights, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Hospital de San Juan de Dios",
+            "hu": "Antiguo Hospital de San Juan de Dios",
+            "ro": "Antiguo Hospital de San Juan de Dios",
+            "en": "Antiguo Hospital de San Juan de Dios"
+          },
+          "coords": [
+            -4.486508,
+            37.40528
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wunderbar restaurierte ehemalige Krankenhaus mit seinem Kreuzgang und achten Sie auf die medizinischen Artefakte.",
+            "hu": "Látogasson el ebbe a szépen felújított egykori kórházba, hogy megcsodálja a kerengőt, és keresse az alkalmanként kiállított orvosi leleteket.",
+            "ro": "Vizitați acest fost spital frumos restaurat pentru a aprecia claustrul său și căutați artefactele medicale expuse ocazional.",
+            "en": "Visit this beautifully restored former hospital to appreciate its serene cloister, and look out for the fascinating medical artifacts occasionally on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Virgen de Araceli",
+            "hu": "Museo de la Virgen de Araceli",
+            "ro": "Museo de la Virgen de Araceli",
+            "en": "Museo de la Virgen de Araceli"
+          },
+          "coords": [
+            -4.485275,
+            37.406052
+          ],
+          "category": "museum",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Lernen Sie die tiefe Verehrung für die Schutzpatronin von Lucena anhand der Textilien und Silberarbeiten kennen, die man aus der Nähe betrachten sollte.",
+            "hu": "Ismerje meg Lucena védőszentje iránti helyi odaadást a díszes textíliákon és ezüsttárgyakon keresztül, amelyeket közelről érdemes megvizsgálni.",
+            "ro": "Aflați despre devotamentul local profund față de sfântul patron prin textilele ornate și obiectele din argint, care se văd cel mai bine de aproape.",
+            "en": "Learn about the profound local devotion to the patron saint of Lucena through ornate textiles and silverwork, which are best viewed up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Marqués de Torreblanca",
+            "hu": "Palacio del Marqués de Torreblanca",
+            "ro": "Palacio del Marqués de Torreblanca",
+            "en": "Palacio del Marqués de Torreblanca"
+          },
+          "coords": [
+            -4.486271,
+            37.40786
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie die aristokratische Eleganz dieses Palastes mit seinen Säulen im Innenhof und vergessen Sie nicht, Fotos vom zentralen Patio aus zu machen.",
+            "hu": "Lépjen be ennek a történelmi palotának az arisztokratikus eleganciájába, figyelje meg a díszes oszlopokat, és fotózzon a központi teraszról.",
+            "ro": "Pășiți în eleganța aristocratică a acestui palat istoric, observând coloanele curții, și asigurați-vă că faceți fotografii din curtea centrală.",
+            "en": "Step into the aristocratic elegance of this historic palace, noting the intricate courtyard columns, and make sure to capture photos from the central patio."
+          }
+        },
+        {
+          "name": {
+            "de": "el Sagrario",
+            "hu": "el Sagrario",
+            "ro": "el Sagrario",
+            "en": "el Sagrario"
+          },
+          "coords": [
+            -4.484313,
+            37.409041
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Barockdetails dieses Wahrzeichens aus Lucenas reicher Vergangenheit, am besten früh morgens ohne grelles Licht.",
+            "hu": "Csodálja meg Lucena gazdag múltját idéző barokk részleteket ebben a nevezetességben, és érkezzen korán, hogy elkerülje a déli napfényt.",
+            "ro": "Admirați detaliile baroce uimitoare ale acestui punct de reper, reflectând trecutul bogat al Lucenei, și veniți devreme pentru a evita strălucirea.",
+            "en": "Marvel at the stunning baroque details of this landmark, reflecting Lucena's wealthy past, and come early to avoid the midday glare inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Polo de Lara",
+            "hu": "Casa de los Polo de Lara",
+            "ro": "Casa de los Polo de Lara",
+            "en": "Casa de los Polo de Lara"
+          },
+          "coords": [
+            -4.485108,
+            37.410667
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Steinmetzarbeiten dieser eleganten Residenz genau an, die den regionalen Baustil der damaligen Zeit perfekt einfängt.",
+            "hu": "Vessen egy pillantást ennek az elegáns rezidenciának a kőfaragásaira, amely tökéletesen megragadja a korszak regionális építészeti stílusát.",
+            "ro": "Priviți cu atenție detaliile din piatră ale acestei reședințe elegante, care surprinde perfect stilul arhitectural regional al perioadei.",
+            "en": "Take a close look at the stonework details of this elegant residence, which perfectly captures the regional architectural style of the period."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal de Lucena",
+            "hu": "Auditorio Municipal de Lucena",
+            "ro": "Auditorio Municipal de Lucena",
+            "en": "Auditorio Municipal de Lucena"
+          },
+          "coords": [
+            -4.495001,
+            37.414785
+          ],
+          "category": "cultural",
+          "arrive_at": "16:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den modernen architektonischen Kontrast dieses kulturellen Zentrums und informieren Sie sich vorab über den Veranstaltungsplan.",
+            "hu": "Élvezze ennek a kulturális központnak a modern építészeti kontrasztját, és feltétlenül ellenőrizze az események ütemtervét a látogatás előtt.",
+            "ro": "Bucurați-vă de contrastul arhitectural modern al acestui centru cultural și asigurați-vă că verificați programul evenimentelor locale în avans.",
+            "en": "Enjoy the modern architectural contrast of this cultural hub, which hosts vibrant local events, so be sure to check the schedule ahead of your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung der jüdischen Nekropole und des historischen Krankenhauses San Juan de Dios. \n\nMittags erleben Sie lokale Frömmigkeit im Virgen de Araceli Museum und radeln dann zum großartigen Palast des Marqués. \n\nAm Nachmittag radeln Sie durch die Gassen zum Sagrario und der Casa de los Polo de Lara. \n\nBeenden Sie Ihre abendliche Fahrt am modernen städtischen Auditorium.",
+        "hu": "Kezdje a túrát a déli zsidó nekropolisz és a történelmi San Juan de Dios kórház kerengőjének felfedezésével. \n\nDélben tekintse meg a Virgen de Araceli múzeumot, majd tekerjen el a grandiózus Marqués palotához. \n\nDélután kerekezzen a szűk utcákon, hogy megnézze az el Sagrariót és az elegáns Polo de Lara házat. \n\nFejezze be az esti biciklizést a modern Városi Auditóriumnál, egy kellemes levezetésként.",
+        "ro": "Începeți plimbarea explorând Necropola Evreiască și claustrul istoric al Spitalului San Juan de Dios. \n\nLa prânz, descoperiți Muzeul Virgen de Araceli, urmat de o pedalare spre grandiosul palat Marqués. \n\nDupă-amiaza, mergeți pe bicicletă pe străduțe pentru a vizita el Sagrario și Casa de los Polo de Lara. \n\nÎncheiați seara la modernul Auditoriu Municipal, bucurându-vă de atmosfera relaxantă.",
+        "en": "Start your ride exploring the southern Jewish Necropolis and the historic San Juan de Dios Hospital cloisters. \n\nMidday reveals local devotion at the Virgen de Araceli Museum, followed by a pedal to the grand Marqués palace. \n\nIn the afternoon, cycle through the narrow streets to visit el Sagrario and the elegant Casa de los Polo de Lara. \n\nEnd your evening ride at the modern Municipal Auditorium."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 2.58,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Necrópolis Judía",
+            "hu": "Necrópolis Judía",
+            "ro": "Necrópolis Judía",
+            "en": "Necrópolis Judía"
+          },
+          "coords": [
+            -4.488493,
+            37.40282
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der größten antiken jüdischen Friedhöfe Spaniens, der tiefe Einblicke bietet, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel Spanyolország egyik legnagyobb ősi zsidó temetőjét, amely mély történelmi betekintést nyújt, és viseljen kényelmes cipőt.",
+            "ro": "Explorați unul dintre cele mai mari cimitire evreiești antice din Spania și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore one of the largest ancient Jewish cemeteries in Spain, offering deep historical insights, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Hospital de San Juan de Dios",
+            "hu": "Antiguo Hospital de San Juan de Dios",
+            "ro": "Antiguo Hospital de San Juan de Dios",
+            "en": "Antiguo Hospital de San Juan de Dios"
+          },
+          "coords": [
+            -4.486508,
+            37.40528
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wunderbar restaurierte ehemalige Krankenhaus mit seinem Kreuzgang und achten Sie auf die medizinischen Artefakte.",
+            "hu": "Látogasson el ebbe a szépen felújított egykori kórházba, hogy megcsodálja a kerengőt, és keresse az alkalmanként kiállított orvosi leleteket.",
+            "ro": "Vizitați acest fost spital frumos restaurat pentru a aprecia claustrul său și căutați artefactele medicale expuse ocazional.",
+            "en": "Visit this beautifully restored former hospital to appreciate its serene cloister, and look out for the fascinating medical artifacts occasionally on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación de la Ciudad",
+            "hu": "Centro de Interpretación de la Ciudad",
+            "ro": "Centro de Interpretación de la Ciudad",
+            "en": "Centro de Interpretación de la Ciudad"
+          },
+          "coords": [
+            -4.488948,
+            37.407749
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie Lucenas jüdisches, christliches und maurisches Erbe durch interaktive Ausstellungen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Fedezze fel Lucena zsidó, keresztény és mór örökségét interaktív kiállításokon, és kezdje a földszinten a kronológiai sorrend kedvéért.",
+            "ro": "Descoperiți moștenirea iudaică, creștină și maură prin expoziții interactive și începeți la parter pentru a urmări ordinea cronologică.",
+            "en": "Uncover the layers of Lucena's Jewish, Christian, and Moorish heritage through interactive exhibits, and start on the ground floor for chronological order."
+          }
+        },
+        {
+          "name": {
+            "de": "el Sagrario",
+            "hu": "el Sagrario",
+            "ro": "el Sagrario",
+            "en": "el Sagrario"
+          },
+          "coords": [
+            -4.484313,
+            37.409041
+          ],
+          "category": "landmark",
+          "arrive_at": "13:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Barockdetails dieses Wahrzeichens aus Lucenas reicher Vergangenheit, am besten früh morgens ohne grelles Licht.",
+            "hu": "Csodálja meg Lucena gazdag múltját idéző barokk részleteket ebben a nevezetességben, és érkezzen korán, hogy elkerülje a déli napfényt.",
+            "ro": "Admirați detaliile baroce uimitoare ale acestui punct de reper, reflectând trecutul bogat al Lucenei, și veniți devreme pentru a evita strălucirea.",
+            "en": "Marvel at the stunning baroque details of this landmark, reflecting Lucena's wealthy past, and come early to avoid the midday glare inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Valdecañas y Piédrola",
+            "hu": "Casa de los Valdecañas y Piédrola",
+            "ro": "Casa de los Valdecañas y Piédrola",
+            "en": "Casa de los Valdecañas y Piédrola"
+          },
+          "coords": [
+            -4.487343,
+            37.410009
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieses historischen Herrenhauses und prüfen Sie, ob im Inneren lokale Kunstausstellungen stattfinden.",
+            "hu": "Figyelje meg ennek a történelmi kúriának a lenyűgöző homlokzatát, és ellenőrizze, tartanak-e odabent helyi művészeti kiállításokat.",
+            "ro": "Observați fațada impresionantă a acestui conac istoric, o mărturie a familiilor de elită, și verificați dacă au loc expoziții de artă.",
+            "en": "Observe the impressive facade of this historic manor, a testament to the town's elite families, and check if any local art exhibits are held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Automoción Antigua",
+            "hu": "Museo de la Automoción Antigua",
+            "ro": "Museo de la Automoción Antigua",
+            "en": "Museo de la Automoción Antigua"
+          },
+          "coords": [
+            -4.494661,
+            37.417412
+          ],
+          "category": "museum",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine bemerkenswerte Sammlung von Oldtimern und fragen Sie die Mitarbeiter nach der faszinierenden Geschichte der ältesten Autos.",
+            "hu": "Fedezzen fel egy figyelemre méltó, tökéletesen megőrzött veterán járműgyűjteményt, és kérdezze a személyzetet a legrégebbi autók történetéről.",
+            "ro": "Descoperiți o colecție remarcabilă de vehicule de epocă perfect conservate și întrebați personalul despre istoria mașinilor vechi.",
+            "en": "Discover a remarkable collection of vintage vehicles perfectly preserved, and ask the enthusiastic staff about the fascinating histories of the oldest cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Ocio y Turismo \"La Estación\"",
+            "hu": "Centro de Ocio y Turismo \"La Estación\"",
+            "ro": "Centro de Ocio y Turismo \"La Estación\"",
+            "en": "Centro de Ocio y Turismo \"La Estación\""
+          },
+          "coords": [
+            -4.496278,
+            37.416974
+          ],
+          "category": "museum",
+          "arrive_at": "17:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie diesen zum Freizeitzentrum umgebauten Bahnhof, der einen nostalgischen Einblick in die lokale Verkehrsgeschichte bietet.",
+            "hu": "Tapasztalja meg ezt a szabadidőközponttá alakított egykori vasútállomást, amely nosztalgikus bepillantást nyújt a helyi közlekedés történetébe.",
+            "ro": "Experimentați această fostă gară transformată în centru de agrement, care oferă o privire nostalgică asupra istoriei tranzitului local.",
+            "en": "Experience this former railway station turned leisure center, which provides a nostalgic glimpse into local transit history, ideal for a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt an der jüdischen Nekropole und dem friedlichen historischen Krankenhaus San Juan de Dios. \n\nMittags fahren Sie ins Zentrum zum Interpretationszentrum der Stadt und dem berühmten Sagrario. \n\nVerbringen Sie den Nachmittag an der Casa de los Valdecañas und fahren Sie zum Oldtimermuseum. \n\nLassen Sie den Tag mit einem entspannten Abendspaziergang rund um La Estación ausklingen.",
+        "hu": "A reggeli autózás a kiterjedt zsidó nekropolisznál és a békés San Juan de Dios történelmi kórháznál kezdődik. \n\nDélben vezessen a központba, hogy felfedezze a városi interpretációs központot és az ikonikus el Sagrariót. \n\nA délutánt a Casa de los Valdecañasnál töltheti, majd északra autózhat a Veteránautó-múzeumhoz. \n\nZárja a napot egy pihentető esti sétával a La Estación szabadidőközpont környékén.",
+        "ro": "Plimbarea cu mașina începe la imensa Necropolă Evreiască și la pașnicul spital istoric San Juan de Dios. \n\nLa prânz, conduceți spre centru pentru a explora Centrul de Interpretare și faimosul reper el Sagrario. \n\nPetreceți după-amiaza la superba Casa de los Valdecañas, apoi mergeți nord spre Muzeul de Mașini de Epocă. \n\nÎncheiați ziua cu o plimbare relaxantă de seară prin zona de agrement La Estación.",
+        "en": "Your morning drive begins at the expansive Jewish Necropolis and the peaceful San Juan de Dios historic hospital. \n\nBy midday, drive into the center to explore the City Interpretation Center and the iconic el Sagrario landmark. \n\nSpend your afternoon observing the grand Casa de los Valdecañas before cruising north to the Vintage Car Museum. \n\nConclude your day with a relaxing evening walk around La Estación."
+      }
+    }
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "city_id": "spain-aspe-cities-v2",
+  "anchor": {
+    "name": "Aspe",
+    "coords": [
+      -0.768491,
+      38.345773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino Primitivo",
+            "hu": "Casino Primitivo",
+            "ro": "Casino Primitivo",
+            "en": "Casino Primitivo"
+          },
+          "coords": [
+            -0.768498,
+            38.345625
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade des Casino Primitivo, ein Symbol des lokalen gesellschaftlichen Lebens, und genießen Sie einen morgendlichen Kaffee auf der nahegelegenen Terrasse.",
+            "hu": "Csodálja meg a Casino Primitivo lenyűgöző történelmi homlokzatát, amely a helyi társasági élet szimbóluma, és kezdje a napot egy kávéval a közeli teraszon.",
+            "ro": "Admirați fațada istorică impresionantă a Cazinoului Primitiv, o emblemă a vieții sociale locale, și savurați o cafea de dimineață pe terasa din apropiere pentru un început perfect.",
+            "en": "Admire the striking historical facade of the Casino Primitivo, an emblem of local social life, and enjoy a morning coffee on the nearby terrace to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de la Cruz",
+            "hu": "Capilla de la Cruz",
+            "ro": "Capilla de la Cruz",
+            "en": "Capilla de la Cruz"
+          },
+          "coords": [
+            -0.765048,
+            38.345565
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizende Kapelle, um ihre wunderbar erhaltenen religiösen Artefakte zu sehen, und nehmen Sie sich einen Moment der stillen Besinnung, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Lépjen be ebbe a bájos kápolnába, hogy megtekintse szépen megőrzött vallási emlékeit, és szánjon egy percet a csendes elmélkedésre, mielőtt folytatná a sétát.",
+            "ro": "Pășiți în această capelă fermecătoare pentru a vedea artefactele religioase frumos conservate, luându-vă un moment de reflecție liniștită înainte de a continua plimbarea.",
+            "en": "Step inside this charming chapel to see its beautifully preserved religious artifacts, taking a moment of quiet reflection before continuing your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla",
+            "hu": "Capilla",
+            "ro": "Capilla",
+            "en": "Capilla"
+          },
+          "coords": [
+            -0.767726,
+            38.34422
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die subtilen architektonischen Details dieser historischen Kapelle, deren Mauerwerk im Nachmittagslicht besonders gut für ungestörte Fotografien zur Geltung kommt.",
+            "hu": "Figyelje meg ennek a történelmi kápolnának a finom építészeti részleteit, ahol a délutáni fény kiemeli a kőfalakat, így tökéletes a tömeg nélküli fotózáshoz.",
+            "ro": "Observați detaliile arhitecturale subtile ale acestei capele istorice, unde lumina după-amiezii evidențiază zidăria din piatră, fiind ideală pentru fotografii fără aglomerație.",
+            "en": "Notice the subtle architectural details of this secondary historical chapel, where the afternoon light highlights the stonework, making it perfect for photography without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Alfredo Kraus",
+            "hu": "Auditorio Alfredo Kraus",
+            "ro": "Auditorio Alfredo Kraus",
+            "en": "Auditorio Alfredo Kraus"
+          },
+          "coords": [
+            -0.771195,
+            38.343822
+          ],
+          "category": "cultural",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieses den darstellenden Künsten gewidmeten Kulturzentrums und prüfen Sie frühzeitig das Kassenprogramm für lokale Konzerte während Ihres Besuchs.",
+            "hu": "Csodálja meg az előadóművészeteknek szentelt kulturális központ modern vonalait, és ellenőrizze korán a jegypénztár kínálatát, hátha egy helyi koncert egybeesik a látogatásával.",
+            "ro": "Admirați liniile moderne ale acestui centru cultural dedicat artelor spectacolului și verificați din timp programul casei de bilete pentru a prinde un concert local în timpul vizitei.",
+            "en": "Marvel at the modern lines of this cultural hub dedicated to performing arts, and check the box office schedule early to see if any local concerts align with your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fila Viejas Glorias",
+            "hu": "Fila Viejas Glorias",
+            "ro": "Fila Viejas Glorias",
+            "en": "Fila Viejas Glorias"
+          },
+          "coords": [
+            -0.769964,
+            38.346646
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lebhaften Hauptsitz der lokalen Festvereine, lernen Sie die Traditionen der Region kennen und fotografieren Sie die farbenfrohen Außendekorationen.",
+            "hu": "Fedezze fel a helyi fesztiválegyesületek nyüzsgő központját, ismerje meg a régió élénk hagyományait, miközben fotókat készít a színes külső dekorációkról.",
+            "ro": "Descoperiți sediul vibrant al asociațiilor locale de festival, învățând despre tradițiile pline de viață ale regiunii în timp ce fotografiați decorațiunile exterioare colorate.",
+            "en": "Discover the vibrant headquarters of the local festival associations, learning about the region's lively traditions while taking photos of the colorful exterior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Cisco",
+            "hu": "Casa del Cisco",
+            "ro": "Casa del Cisco",
+            "en": "Casa del Cisco"
+          },
+          "coords": [
+            -0.768846,
+            38.347838
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden ethnografischen Museum in das reiche Erbe von Aspe ein und holen Sie sich am Eingang einen Audioguide für die historischen landwirtschaftlichen Ausstellungen.",
+            "hu": "Merüljön el Aspe gazdag örökségében ebben az átfogó néprajzi múzeumban, és kérjen egy audioguide-ot a bejáratnál, hogy jobban megértse a történelmi mezőgazdasági kiállításokat.",
+            "ro": "Cufundați-vă în bogata moștenire a orașului Aspe în acest muzeu etnografic cuprinzător și luați un ghid audio la intrare pentru a înțelege pe deplin expozițiile agricole istorice.",
+            "en": "Immerse yourself in Aspe's rich heritage within this comprehensive ethnographic museum, and grab an audio guide at the entrance to fully understand the historical agricultural displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Aljau",
+            "hu": "Castillo del Aljau",
+            "ro": "Castillo del Aljau",
+            "en": "Castillo del Aljau"
+          },
+          "coords": [
+            -0.769873,
+            38.34817
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser einst imposanten Festung, die die Stadt bewachte, und tragen Sie festes Schuhwerk, um den unebenen Boden bei Sonnenuntergang sicher zu begeben.",
+            "hu": "Fedezze fel az egykor a várost őrző, impozáns erődítmény ősi maradványait, és viseljen masszív cipőt, hogy kényelmesen navigáljon az egyenetlen talajon naplementekor.",
+            "ro": "Explorați rămășițele antice ale acestei fortărețe odinioară impunătoare care păzea orașul, purtând încălțăminte rezistentă pentru a naviga confortabil pe terenul accidentat la apus.",
+            "en": "Explore the ancient remnants of this once-imposing fortress that guarded the town, wearing sturdy shoes to comfortably navigate the uneven ground as you enjoy the sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Aspe mit der Erkundung des historischen Charmes rund um das Casino Primitivo und die kunstvollen Kapellen. Am Mittag verlagert sich der Fokus auf moderne Kultur und lebendige Traditionen am Auditorio und den lokalen Festvereinen. Nachmittags tauchen Sie im Museum Casa del Cisco tief in die landwirtschaftliche Geschichte der Region ein. Der Abend endet am Castillo del Aljau, wo Sie den Sonnenuntergang von den alten Ruinen aus beobachten können.",
+        "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a helyi fesztiválközpont érintésével. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben és mezőgazdasági múltban. Az este a Castillo del Aljau ősi romjainál zárul egy csodás naplemente kíséretében.",
+        "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și tradițiile locale la Auditorio și sediul asociațiilor de festival. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco, descoperind trecutul agricol al regiunii. Seara se încheie la Castillo del Aljau, unde apusul luminează ruinele antice ale fortăreței.",
+        "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and lively traditions, passing the Auditorio and local festival headquarters. In the afternoon, you delve deep into local history at the Casa del Cisco museum, uncovering the region's agricultural past. The evening concludes at the Castillo del Aljau, where you can watch the sun dip below the horizon from the ancient ruins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.35,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino Primitivo",
+            "hu": "Casino Primitivo",
+            "ro": "Casino Primitivo",
+            "en": "Casino Primitivo"
+          },
+          "coords": [
+            -0.768498,
+            38.345625
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade des Casino Primitivo, ein Symbol des lokalen gesellschaftlichen Lebens, und genießen Sie einen morgendlichen Kaffee auf der nahegelegenen Terrasse.",
+            "hu": "Csodálja meg a Casino Primitivo lenyűgöző történelmi homlokzatát, amely a helyi társasági élet szimbóluma, és kezdje a napot egy kávéval a közeli teraszon.",
+            "ro": "Admirați fațada istorică impresionantă a Cazinoului Primitiv, o emblemă a vieții sociale locale, și savurați o cafea de dimineață pe terasa din apropiere pentru un început perfect.",
+            "en": "Admire the striking historical facade of the Casino Primitivo, an emblem of local social life, and enjoy a morning coffee on the nearby terrace to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de la Cruz",
+            "hu": "Capilla de la Cruz",
+            "ro": "Capilla de la Cruz",
+            "en": "Capilla de la Cruz"
+          },
+          "coords": [
+            -0.765048,
+            38.345565
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizende Kapelle, um ihre wunderbar erhaltenen religiösen Artefakte zu sehen, und nehmen Sie sich einen Moment der stillen Besinnung, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Lépjen be ebbe a bájos kápolnába, hogy megtekintse szépen megőrzött vallási emlékeit, és szánjon egy percet a csendes elmélkedésre, mielőtt folytatná a sétát.",
+            "ro": "Pășiți în această capelă fermecătoare pentru a vedea artefactele religioase frumos conservate, luându-vă un moment de reflecție liniștită înainte de a continua plimbarea.",
+            "en": "Step inside this charming chapel to see its beautifully preserved religious artifacts, taking a moment of quiet reflection before continuing your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla",
+            "hu": "Capilla",
+            "ro": "Capilla",
+            "en": "Capilla"
+          },
+          "coords": [
+            -0.767726,
+            38.34422
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die subtilen architektonischen Details dieser historischen Kapelle, deren Mauerwerk im Nachmittagslicht besonders gut für ungestörte Fotografien zur Geltung kommt.",
+            "hu": "Figyelje meg ennek a történelmi kápolnának a finom építészeti részleteit, ahol a délutáni fény kiemeli a kőfalakat, így tökéletes a tömeg nélküli fotózáshoz.",
+            "ro": "Observați detaliile arhitecturale subtile ale acestei capele istorice, unde lumina după-amiezii evidențiază zidăria din piatră, fiind ideală pentru fotografii fără aglomerație.",
+            "en": "Notice the subtle architectural details of this secondary historical chapel, where the afternoon light highlights the stonework, making it perfect for photography without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Alfredo Kraus",
+            "hu": "Auditorio Alfredo Kraus",
+            "ro": "Auditorio Alfredo Kraus",
+            "en": "Auditorio Alfredo Kraus"
+          },
+          "coords": [
+            -0.771195,
+            38.343822
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieses den darstellenden Künsten gewidmeten Kulturzentrums und prüfen Sie frühzeitig das Kassenprogramm für lokale Konzerte während Ihres Besuchs.",
+            "hu": "Csodálja meg az előadóművészeteknek szentelt kulturális központ modern vonalait, és ellenőrizze korán a jegypénztár kínálatát, hátha egy helyi koncert egybeesik a látogatásával.",
+            "ro": "Admirați liniile moderne ale acestui centru cultural dedicat artelor spectacolului și verificați din timp programul casei de bilete pentru a prinde un concert local în timpul vizitei.",
+            "en": "Marvel at the modern lines of this cultural hub dedicated to performing arts, and check the box office schedule early to see if any local concerts align with your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fila Viejas Glorias",
+            "hu": "Fila Viejas Glorias",
+            "ro": "Fila Viejas Glorias",
+            "en": "Fila Viejas Glorias"
+          },
+          "coords": [
+            -0.769964,
+            38.346646
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lebhaften Hauptsitz der lokalen Festvereine, lernen Sie die Traditionen der Region kennen und fotografieren Sie die farbenfrohen Außendekorationen.",
+            "hu": "Fedezze fel a helyi fesztiválegyesületek nyüzsgő központját, ismerje meg a régió élénk hagyományait, miközben fotókat készít a színes külső dekorációkról.",
+            "ro": "Descoperiți sediul vibrant al asociațiilor locale de festival, învățând despre tradițiile pline de viață ale regiunii în timp ce fotografiați decorațiunile exterioare colorate.",
+            "en": "Discover the vibrant headquarters of the local festival associations, learning about the region's lively traditions while taking photos of the colorful exterior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Cisco",
+            "hu": "Casa del Cisco",
+            "ro": "Casa del Cisco",
+            "en": "Casa del Cisco"
+          },
+          "coords": [
+            -0.768846,
+            38.347838
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden ethnografischen Museum in das reiche Erbe von Aspe ein und holen Sie sich am Eingang einen Audioguide für die historischen landwirtschaftlichen Ausstellungen.",
+            "hu": "Merüljön el Aspe gazdag örökségében ebben az átfogó néprajzi múzeumban, és kérjen egy audioguide-ot a bejáratnál, hogy jobban megértse a történelmi mezőgazdasági kiállításokat.",
+            "ro": "Cufundați-vă în bogata moștenire a orașului Aspe în acest muzeu etnografic cuprinzător și luați un ghid audio la intrare pentru a înțelege pe deplin expozițiile agricole istorice.",
+            "en": "Immerse yourself in Aspe's rich heritage within this comprehensive ethnographic museum, and grab an audio guide at the entrance to fully understand the historical agricultural displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Aljau",
+            "hu": "Castillo del Aljau",
+            "ro": "Castillo del Aljau",
+            "en": "Castillo del Aljau"
+          },
+          "coords": [
+            -0.769873,
+            38.34817
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser einst imposanten Festung, die die Stadt bewachte, und tragen Sie festes Schuhwerk, um den unebenen Boden bei Sonnenuntergang sicher zu begeben.",
+            "hu": "Fedezze fel az egykor a várost őrző, impozáns erődítmény ősi maradványait, és viseljen masszív cipőt, hogy kényelmesen navigáljon az egyenetlen talajon naplementekor.",
+            "ro": "Explorați rămășițele antice ale acestei fortărețe odinioară impunătoare care păzea orașul, purtând încălțăminte rezistentă pentru a naviga confortabil pe terenul accidentat la apus.",
+            "en": "Explore the ancient remnants of this once-imposing fortress that guarded the town, wearing sturdy shoes to comfortably navigate the uneven ground as you enjoy the sunset views."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Carlos",
+            "hu": "Casa Carlos",
+            "ro": "Casa Carlos",
+            "en": "Casa Carlos"
+          },
+          "coords": [
+            -0.778706,
+            38.350268
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug zu diesem markanten lokalen Wahrzeichen mit seiner einzigartigen Architektur und holen Sie sich vorher in einer Bäckerei etwas Süßes zum Genießen.",
+            "hu": "Tegyen egy rövid kirándulást ehhez az egyedi építészetéről ismert, jellegzetes helyi nevezetességhez, és útközben ugorjon be egy közeli pékségbe egy édes süteményért.",
+            "ro": "Faceți o scurtă excursie până la acest reper local distinctiv, cunoscut pentru arhitectura sa unică, oprindu-vă mai întâi la o brutărie din apropiere pentru a savura un desert dulce.",
+            "en": "Take a short trip out to this distinctive local landmark known for its unique architecture, stopping by a nearby bakery first to enjoy a sweet treat while you admire the facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Aspe mit der Erkundung des historischen Charmes rund um das Casino Primitivo und die kunstvollen Kapellen. Am Mittag verlagert sich der Fokus auf moderne Kultur und lebendige Traditionen am Auditorio und den lokalen Festvereinen. Nachmittags tauchen Sie im Museum Casa del Cisco tief in die landwirtschaftliche Geschichte der Region ein. Der Abend endet am Castillo del Aljau und einer kurzen Radtour zum architektonischen Juwel Casa Carlos.",
+        "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a helyi fesztiválközpont érintésével. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben, este pedig a Castillo del Aljau és a Casa Carlos kerékpáros felkeresése zárja a napot.",
+        "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și tradițiile locale la Auditorio și sediul asociațiilor de festival. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco. Seara se încheie cu explorarea ruinelor Castillo del Aljau și o plimbare cu bicicleta până la reperul Casa Carlos.",
+        "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and lively traditions, passing the Auditorio and local festival headquarters. In the afternoon, you delve deep into local history at the Casa del Cisco museum. The evening concludes at the Castillo del Aljau and a final scenic bike ride to the unique Casa Carlos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 3.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino Primitivo",
+            "hu": "Casino Primitivo",
+            "ro": "Casino Primitivo",
+            "en": "Casino Primitivo"
+          },
+          "coords": [
+            -0.768498,
+            38.345625
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade des Casino Primitivo, ein Symbol des lokalen gesellschaftlichen Lebens, und genießen Sie einen morgendlichen Kaffee auf der nahegelegenen Terrasse.",
+            "hu": "Csodálja meg a Casino Primitivo lenyűgöző történelmi homlokzatát, amely a helyi társasági élet szimbóluma, és kezdje a napot egy kávéval a közeli teraszon.",
+            "ro": "Admirați fațada istorică impresionantă a Cazinoului Primitiv, o emblemă a vieții sociale locale, și savurați o cafea de dimineață pe terasa din apropiere pentru un început perfect.",
+            "en": "Admire the striking historical facade of the Casino Primitivo, an emblem of local social life, and enjoy a morning coffee on the nearby terrace to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de la Cruz",
+            "hu": "Capilla de la Cruz",
+            "ro": "Capilla de la Cruz",
+            "en": "Capilla de la Cruz"
+          },
+          "coords": [
+            -0.765048,
+            38.345565
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizende Kapelle, um ihre wunderbar erhaltenen religiösen Artefakte zu sehen, und nehmen Sie sich einen Moment der stillen Besinnung, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Lépjen be ebbe a bájos kápolnába, hogy megtekintse szépen megőrzött vallási emlékeit, és szánjon egy percet a csendes elmélkedésre, mielőtt folytatná a sétát.",
+            "ro": "Pășiți în această capelă fermecătoare pentru a vedea artefactele religioase frumos conservate, luându-vă un moment de reflecție liniștită înainte de a continua plimbarea.",
+            "en": "Step inside this charming chapel to see its beautifully preserved religious artifacts, taking a moment of quiet reflection before continuing your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla",
+            "hu": "Capilla",
+            "ro": "Capilla",
+            "en": "Capilla"
+          },
+          "coords": [
+            -0.767726,
+            38.34422
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die subtilen architektonischen Details dieser historischen Kapelle, deren Mauerwerk im Nachmittagslicht besonders gut für ungestörte Fotografien zur Geltung kommt.",
+            "hu": "Figyelje meg ennek a történelmi kápolnának a finom építészeti részleteit, ahol a délutáni fény kiemeli a kőfalakat, így tökéletes a tömeg nélküli fotózáshoz.",
+            "ro": "Observați detaliile arhitecturale subtile ale acestei capele istorice, unde lumina după-amiezii evidențiază zidăria din piatră, fiind ideală pentru fotografii fără aglomerație.",
+            "en": "Notice the subtle architectural details of this secondary historical chapel, where the afternoon light highlights the stonework, making it perfect for photography without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Alfredo Kraus",
+            "hu": "Auditorio Alfredo Kraus",
+            "ro": "Auditorio Alfredo Kraus",
+            "en": "Auditorio Alfredo Kraus"
+          },
+          "coords": [
+            -0.771195,
+            38.343822
+          ],
+          "category": "cultural",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieses den darstellenden Künsten gewidmeten Kulturzentrums und prüfen Sie frühzeitig das Kassenprogramm für lokale Konzerte während Ihres Besuchs.",
+            "hu": "Csodálja meg az előadóművészeteknek szentelt kulturális központ modern vonalait, és ellenőrizze korán a jegypénztár kínálatát, hátha egy helyi koncert egybeesik a látogatásával.",
+            "ro": "Admirați liniile moderne ale acestui centru cultural dedicat artelor spectacolului și verificați din timp programul casei de bilete pentru a prinde un concert local în timpul vizitei.",
+            "en": "Marvel at the modern lines of this cultural hub dedicated to performing arts, and check the box office schedule early to see if any local concerts align with your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Carlos",
+            "hu": "Casa Carlos",
+            "ro": "Casa Carlos",
+            "en": "Casa Carlos"
+          },
+          "coords": [
+            -0.778706,
+            38.350268
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug zu diesem markanten lokalen Wahrzeichen mit seiner einzigartigen Architektur und holen Sie sich vorher in einer Bäckerei etwas Süßes zum Genießen.",
+            "hu": "Tegyen egy rövid kirándulást ehhez az egyedi építészetéről ismert, jellegzetes helyi nevezetességhez, és útközben ugorjon be egy közeli pékségbe egy édes süteményért.",
+            "ro": "Faceți o scurtă excursie până la acest reper local distinctiv, cunoscut pentru arhitectura sa unică, oprindu-vă mai întâi la o brutărie din apropiere pentru a savura un desert dulce.",
+            "en": "Take a short trip out to this distinctive local landmark known for its unique architecture, stopping by a nearby bakery first to enjoy a sweet treat while you admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fila Viejas Glorias",
+            "hu": "Fila Viejas Glorias",
+            "ro": "Fila Viejas Glorias",
+            "en": "Fila Viejas Glorias"
+          },
+          "coords": [
+            -0.769964,
+            38.346646
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lebhaften Hauptsitz der lokalen Festvereine, lernen Sie die Traditionen der Region kennen und fotografieren Sie die farbenfrohen Außendekorationen.",
+            "hu": "Fedezze fel a helyi fesztiválegyesületek nyüzsgő központját, ismerje meg a régió élénk hagyományait, miközben fotókat készít a színes külső dekorációkról.",
+            "ro": "Descoperiți sediul vibrant al asociațiilor locale de festival, învățând despre tradițiile pline de viață ale regiunii în timp ce fotografiați decorațiunile exterioare colorate.",
+            "en": "Discover the vibrant headquarters of the local festival associations, learning about the region's lively traditions while taking photos of the colorful exterior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Cisco",
+            "hu": "Casa del Cisco",
+            "ro": "Casa del Cisco",
+            "en": "Casa del Cisco"
+          },
+          "coords": [
+            -0.768846,
+            38.347838
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden ethnografischen Museum in das reiche Erbe von Aspe ein und holen Sie sich am Eingang einen Audioguide für die historischen landwirtschaftlichen Ausstellungen.",
+            "hu": "Merüljön el Aspe gazdag örökségében ebben az átfogó néprajzi múzeumban, és kérjen egy audioguide-ot a bejáratnál, hogy jobban megértse a történelmi mezőgazdasági kiállításokat.",
+            "ro": "Cufundați-vă în bogata moștenire a orașului Aspe în acest muzeu etnografic cuprinzător și luați un ghid audio la intrare pentru a înțelege pe deplin expozițiile agricole istorice.",
+            "en": "Immerse yourself in Aspe's rich heritage within this comprehensive ethnographic museum, and grab an audio guide at the entrance to fully understand the historical agricultural displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Aljau",
+            "hu": "Castillo del Aljau",
+            "ro": "Castillo del Aljau",
+            "en": "Castillo del Aljau"
+          },
+          "coords": [
+            -0.769873,
+            38.34817
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser einst imposanten Festung, die die Stadt bewachte, und tragen Sie festes Schuhwerk, um den unebenen Boden bei Sonnenuntergang sicher zu begeben.",
+            "hu": "Fedezze fel az egykor a várost őrző, impozáns erődítmény ősi maradványait, és viseljen masszív cipőt, hogy kényelmesen navigáljon az egyenetlen talajon naplementekor.",
+            "ro": "Explorați rămășițele antice ale acestei fortărețe odinioară impunătoare care păzea orașul, purtând încălțăminte rezistentă pentru a naviga confortabil pe terenul accidentat la apus.",
+            "en": "Explore the ancient remnants of this once-imposing fortress that guarded the town, wearing sturdy shoes to comfortably navigate the uneven ground as you enjoy the sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Aspe mit der Erkundung des historischen Charmes rund um das Casino Primitivo und die kunstvollen Kapellen. Am Mittag verlagert sich der Fokus auf moderne Kultur und lebendige Traditionen am Auditorio, mit einer kurzen Fahrt zur Casa Carlos. Nachmittags tauchen Sie im Museum Casa del Cisco tief in die landwirtschaftliche Geschichte der Region ein. Der Abend endet am Castillo del Aljau, wo Sie den Sonnenuntergang von den alten Ruinen aus beobachten können.",
+        "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a Casa Carlos meglátogatásával. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben és mezőgazdasági múltban. Az este a Castillo del Aljau ősi romjainál zárul egy csodás naplemente kíséretében.",
+        "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și o scurtă plimbare cu mașina spre reperele Auditorio și Casa Carlos. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco. Seara se încheie la Castillo del Aljau, unde apusul luminează pitoresc ruinele antice ale fortăreței.",
+        "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and architecture, linking the Auditorio to the distinct Casa Carlos. In the afternoon, you delve deep into local history at the Casa del Cisco museum, uncovering the region's agricultural past. The evening concludes at the Castillo del Aljau, watching the sunset from the ancient ruins."
+      }
+    }
+  }
+}

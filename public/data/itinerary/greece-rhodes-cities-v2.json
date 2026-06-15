@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-rhodes-cities-v2",
+  "anchor": {
+    "name": "Rhodes Town",
+    "coords": [
+      28.222,
+      36.4452
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 1.27,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großmeisterpalast",
+            "hu": "Nagymesterek Palotája",
+            "ro": "Palatul Marelui Maestru",
+            "en": "Palace of the Grand Master"
+          },
+          "coords": [
+            28.224111,
+            36.445694
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
+            "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Roloi-Uhrenturm",
+            "hu": "Roloi Óratorony",
+            "ro": "Turnul cu Ceas Roloi",
+            "en": "Roloi Clock Tower"
+          },
+          "coords": [
+            28.22381,
+            36.444261
+          ],
+          "category": "tower/historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen historischen Uhrenturm für einen spektakulären Panoramablick auf die Altstadt und genießen Sie ein Freigetränk, das in Ihrem Ticket enthalten ist.",
+            "hu": "Másszon fel erre a történelmi óratoronyra a régi város tetőire nyíló lenyűgöző panorámáért, és élvezze az ingyenes frissítő italt, amely a belépőhöz jár.",
+            "ro": "Urcați în vârful acestui turn istoric cu ceas pentru o vedere panoramică spectaculoasă a acoperișurilor orașului vechi și savurați o băutură inclusă în bilet.",
+            "en": "Climb to the very top of this historic clock tower for a spectacular panoramic view over the old town roofs, and enjoy a complimentary refreshing drink with your ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritterstraße",
+            "hu": "Lovagok utcája",
+            "ro": "Strada Cavalerilor",
+            "en": "Street of the Knights"
+          },
+          "coords": [
+            28.226245,
+            36.445054
+          ],
+          "category": "square/old-town",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Schlendern Sie langsam diese makellos erhaltene Kopfsteinpflasterstraße entlang und bewundern Sie die aufwendigen Wappen, die in die alten Steinfassaden gemeißelt sind.",
+            "hu": "Sétáljon lassan végig ezen a tökéletesen megőrzött macskaköves utcán, és figyelje meg az ősi kőhomlokzatokba faragott bonyolult történelmi címereket.",
+            "ro": "Plimbați-vă încet pe această stradă pietruită impecabil conservată și observați cu atenție blazoanele istorice complicate sculptate în fațadele antice de piatră.",
+            "en": "Stroll slowly down this impeccably preserved cobblestone avenue and carefully notice the intricate, historical coats of arms carved into the ancient stone facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            28.226251,
+            36.444628
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende antike Artefakte im ehemaligen Hospital der Ritter und nehmen Sie sich Zeit für die ruhige Erkundung der wunderschönen, schattigen Innenhofgärten.",
+            "hu": "Fedezze fel az egykori Lovagkórházban lenyűgözően elrendezett ősi leleteket, és szánjon időt a gyönyörű, árnyékos udvari kertek nyugodt felfedezésére is.",
+            "ro": "Descoperiți artefacte antice fascinante adăpostite în fostul Spital al Cavalerilor și alocați-vă timp pentru a explora în liniște superbele grădini umbrite ale curții.",
+            "en": "Discover fascinating ancient artifacts housed perfectly in the former Hospital of the Knights, and take your time quietly exploring the beautiful shaded courtyard gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia tou Kastrou",
+            "hu": "Panagia tou Kastrou",
+            "ro": "Panagia tou Kastrou",
+            "en": "Panagia tou Kastrou"
+          },
+          "coords": [
+            28.227389,
+            36.445111
+          ],
+          "category": "cathedral/religious",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wahrhaft faszinierende Verschmelzung von byzantinischen und gotischen Baustilen in dieser antiken Kathedrale und achten Sie auf die verblassten Fresken.",
+            "hu": "Csodálja meg az autentikus bizánci és gótikus építészeti stílusok lenyűgöző ötvözetét ebben az ősi katedrálisban, és keresse a falakon a halványodó freskókat.",
+            "ro": "Admirați fuziunea cu adevărat fascinantă a stilurilor arhitecturale bizantin și gotic din această veche catedrală, căutând cu atenție frescele murale ușor estompate.",
+            "en": "Admire the truly fascinating fusion of authentic Byzantine and Gothic architectural styles within this ancient cathedral, keeping a close eye out for faded wall frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Stadtmauern",
+            "hu": "Középkori Városfalak",
+            "ro": "Zidurile Cetății Medievale",
+            "en": "Medieval City Walls"
+          },
+          "coords": [
+            28.228153,
+            36.444228
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Gehen Sie entlang dieser massiven Verteidigungsmauern, um ihre immense Größe zu begreifen, und tragen Sie sehr bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Sétáljon végig ezeken a masszív védőfalakon, hogy megfelelően átérezze azok történelmi méreteit, és viseljen nagyon kényelmes cipőt az egyenetlen ősi utakra.",
+            "ro": "Plimbați-vă de-a lungul acestor metereze masive de apărare pentru a le înțelege imensa scară istorică, purtând încălțăminte foarte confortabilă pentru căile antice denivelate.",
+            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandraki-Hafen",
+            "hu": "Mandraki kikötő",
+            "ro": "Portul Mandraki",
+            "en": "Mandraki Harbour"
+          },
+          "coords": [
+            28.226555,
+            36.449379
+          ],
+          "category": "port/viewpoint",
+          "arrive_at": "16:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
+            "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
+            "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Großmeisterpalast und auf dem Roloi-Uhrenturm. Der Mittag eignet sich perfekt für einen Spaziergang durch die Ritterstraße und das Archäologische Museum. Entdecken Sie nachmittags die gotische Architektur von Panagia tou Kastrou und laufen Sie entlang der mittelalterlichen Stadtmauern. Lassen Sie den Abend am Mandraki-Hafen ausklingen, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt a Nagymesterek Palotájában és a Roloi Óratoronynál. A dél tökéletes a Lovagok utcájának és a lenyűgöző Régészeti Múzeumnak a felfedezésére. Délután csodálja meg a Panagia tou Kastrou gótikus építészetét, majd tegyen egy sétát a középkori városfalakon. Az estét a Mandraki kikötőben zárja, figyelve a tenger felett lenyugvó napot.",
+        "ro": "Începeți dimineața explorând Palatul Marelui Maestru și urcând în Turnul cu Ceas Roloi. Amiaza este perfectă pentru a vă plimba pe Strada Cavalerilor și a explora Muzeul Arheologic. După-amiaza, descoperiți arhitectura gotică a bisericii Panagia tou Kastrou și mergeți de-a lungul zidurilor medievale. Încheiați seara în portul Mandraki, privind apusul soarelui.",
+        "en": "Begin your morning wandering through the Palace of the Grand Master and climbing the Roloi Clock Tower. Midday is perfect for strolling the Street of the Knights and exploring the rich Archaeological Museum. In the afternoon, discover the Gothic architecture of Panagia tou Kastrou and walk along the Medieval City Walls. Conclude your evening at Mandraki Harbour as the sun sets over the Aegean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 4.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mandraki-Hafen",
+            "hu": "Mandraki kikötő",
+            "ro": "Portul Mandraki",
+            "en": "Mandraki Harbour"
+          },
+          "coords": [
+            28.226555,
+            36.449379
+          ],
+          "category": "port/viewpoint",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
+            "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
+            "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Stadtmauern",
+            "hu": "Középkori Városfalak",
+            "ro": "Zidurile Cetății Medievale",
+            "en": "Medieval City Walls"
+          },
+          "coords": [
+            28.228153,
+            36.444228
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Gehen Sie entlang dieser massiven Verteidigungsmauern, um ihre immense Größe zu begreifen, und tragen Sie sehr bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Sétáljon végig ezeken a masszív védőfalakon, hogy megfelelően átérezze azok történelmi méreteit, és viseljen nagyon kényelmes cipőt az egyenetlen ősi utakra.",
+            "ro": "Plimbați-vă de-a lungul acestor metereze masive de apărare pentru a le înțelege imensa scară istorică, purtând încălțăminte foarte confortabilă pentru căile antice denivelate.",
+            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum von Rhodos",
+            "hu": "Rodoszi Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc din Rodos",
+            "en": "Jewish Museum of Rhodes"
+          },
+          "coords": [
+            28.230464,
+            36.442159
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die überraschend reiche Geschichte der lebendigen lokalen jüdischen Gemeinde in diesem ergreifenden Museum, prüfen Sie aber vorab die Öffnungszeiten.",
+            "hu": "Tudjon meg mindent a helyi zsidó közösség meglepően gazdag történetéről ebben a mélyen megrendítő múzeumban, de mindenképpen ellenőrizze a pontos nyitvatartást.",
+            "ro": "Aflați totul despre istoria surprinzător de bogată a comunității evreiești locale în acest muzeu emoționant, dar asigurați-vă că verificați programul de vizitare.",
+            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Stadt Rhodos",
+            "hu": "Rodosz Középkori Óvárosa",
+            "ro": "Orașul Medieval Rodos",
+            "en": "Medieval Town of Rhodes"
+          },
+          "coords": [
+            28.226862,
+            36.442868
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich völlig in den bezaubernden verwinkelten Gassen dieses berühmten UNESCO-Weltkulturerbes und wandern Sie frei abseits der belebten Touristenstraßen.",
+            "hu": "Vesszen el teljesen ennek a híres UNESCO világörökségi helyszínnek a varázslatos, labirintusszerű sikátoraiban, szabadon barangolva messze a főbb turistautvonalaktól.",
+            "ro": "Pierdeți-vă complet în aleile labirintice fermecătoare ale acestui celebru sit din patrimoniul mondial UNESCO, rătăcind liber departe de arterele turistice aglomerate.",
+            "en": "Lose yourself completely in the enchanting labyrinthine alleys of this famous UNESCO World Heritage site, wandering freely away from the main bustling tourist thoroughfares."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Rhodos",
+            "hu": "Rodoszi Akropolisz",
+            "ro": "Acropola din Rodos",
+            "en": "Acropolis of Rhodes"
+          },
+          "coords": [
+            28.2109,
+            36.4402
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Wandern Sie den Hügel hinauf zu dieser antiken hellenistischen Stätte, um das Stadion zu sehen, und bringen Sie viel Wasser mit, da es hier sehr wenig Schatten gibt.",
+            "hu": "Túrázzon fel a hegyoldalon erre a figyelemre méltóan nyitott ősi hellenisztikus helyszínre, és vigyen sok vizet magával, mert errefelé szinte egyáltalán nincs árnyék.",
+            "ro": "Urcați pe deal până la acest sit antic elenistic remarcabil pentru a vedea stadionul restaurat și aduceți multă apă, deoarece există foarte puțină umbră disponibilă.",
+            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmeisterpalast",
+            "hu": "Nagymesterek Palotája",
+            "ro": "Palatul Marelui Maestru",
+            "en": "Palace of the Grand Master"
+          },
+          "coords": [
+            28.224111,
+            36.445694
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
+            "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Mandraki-Hafen, bevor Sie zu den imposanten mittelalterlichen Stadtmauern radeln. Mittags erkunden Sie das Jüdische Museum und das Herz der mittelalterlichen Stadt. Fahren Sie nachmittags zur Akropolis von Rhodos hinauf, um herrliche Ausblicke zu genießen. Beenden Sie Ihre Radtour in der Nähe des prächtigen Großmeisterpalastes.",
+        "hu": "Kezdje a túrát a Mandraki kikötőben, majd tekerjen a lenyűgöző középkori városfalakhoz. Délben látogasson el a Zsidó Múzeumba és a középkori óváros szívébe. Délután kerekezzen fel a rodoszi Akropoliszhoz a fantasztikus kilátásért. Zárja a kerékpáros utazást a csodálatos Nagymesterek Palotája közelében, ahogy a nap lassan a végéhez ér.",
+        "ro": "Începeți plimbarea în portul Mandraki înainte de a pedala spre zidurile medievale ale orașului. Amiaza vă poartă prin Muzeul Evreiesc și inima Orașului Medieval. După-amiaza, urcați spre Acropola din Rodos pentru o priveliște la înălțime. Terminați călătoria cu bicicleta lângă magnificul Palat al Marelui Maestru la sfârșitul zilei.",
+        "en": "Start your ride at Mandraki Harbour before pedaling to the imposing Medieval City Walls. Midday takes you through the rich exhibits of the Jewish Museum and the heart of the Medieval Town. In the afternoon, ride up to the Acropolis of Rhodes for stunning elevated views. Finish your cycling journey back near the magnificent Palace of the Grand Master as the day winds down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 3.42,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Akropolis von Rhodos",
+            "hu": "Rodoszi Akropolisz",
+            "ro": "Acropola din Rodos",
+            "en": "Acropolis of Rhodes"
+          },
+          "coords": [
+            28.2109,
+            36.4402
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie den Hügel hinauf zu dieser antiken hellenistischen Stätte, um das Stadion zu sehen, und bringen Sie viel Wasser mit, da es hier sehr wenig Schatten gibt.",
+            "hu": "Túrázzon fel a hegyoldalon erre a figyelemre méltóan nyitott ősi hellenisztikus helyszínre, és vigyen sok vizet magával, mert errefelé szinte egyáltalán nincs árnyék.",
+            "ro": "Urcați pe deal până la acest sit antic elenistic remarcabil pentru a vedea stadionul restaurat și aduceți multă apă, deoarece există foarte puțină umbră disponibilă.",
+            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            28.220438,
+            36.452233
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment an dieser wunderschön erhaltenen religiösen Stätte, um ihre gelassene Atmosphäre zu schätzen, und kleiden Sie sich stets respektvoll.",
+            "hu": "Töltsön el egy csodálatosan csendes pillanatot ebben a gyönyörűen megőrzött vallási helyszínben a nyugodt atmoszféráért, mindig visszafogottan és tiszteletteljesen öltözve.",
+            "ro": "Luați-vă un moment minunat de liniște în acest sit religios frumos conservat pentru a aprecia atmosfera sa senină, îmbrăcându-vă modest din respect pentru obiceiurile locale.",
+            "en": "Take a wonderfully quiet moment inside this beautifully preserved religious site to appreciate its serene atmosphere, always dressing modestly out of respect for local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandraki-Hafen",
+            "hu": "Mandraki kikötő",
+            "ro": "Portul Mandraki",
+            "en": "Mandraki Harbour"
+          },
+          "coords": [
+            28.226555,
+            36.449379
+          ],
+          "category": "port/viewpoint",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
+            "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
+            "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmeisterpalast",
+            "hu": "Nagymesterek Palotája",
+            "ro": "Palatul Marelui Maestru",
+            "en": "Palace of the Grand Master"
+          },
+          "coords": [
+            28.224111,
+            36.445694
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
+            "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum von Rhodos",
+            "hu": "Rodoszi Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc din Rodos",
+            "en": "Jewish Museum of Rhodes"
+          },
+          "coords": [
+            28.230464,
+            36.442159
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die überraschend reiche Geschichte der lebendigen lokalen jüdischen Gemeinde in diesem ergreifenden Museum, prüfen Sie aber vorab die Öffnungszeiten.",
+            "hu": "Tudjon meg mindent a helyi zsidó közösség meglepően gazdag történetéről ebben a mélyen megrendítő múzeumban, de mindenképpen ellenőrizze a pontos nyitvatartást.",
+            "ro": "Aflați totul despre istoria surprinzător de bogată a comunității evreiești locale în acest muzeu emoționant, dar asigurați-vă că verificați programul de vizitare.",
+            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zur antiken Akropolis von Rhodos und besuchen Sie dann die friedliche Kirche Santa Maria. Mittags erreichen Sie den belebten Mandraki-Hafen für eine Pause am Wasser. Erkunden Sie am Nachmittag den majestätischen Großmeisterpalast. Schließen Sie Ihre Tour mit einem besinnlichen Besuch im Jüdischen Museum ab.",
+        "hu": "Kezdje a napot egy autózással a rodoszi Akropoliszhoz, majd látogasson el a békés Santa Maria templomba. A déli órákban érkezzen a nyüzsgő Mandraki kikötőbe egy kis pihenőre a vízparton. Délután fedezze fel a fenséges Nagymesterek Palotáját. Az autós körutat a Zsidó Múzeum elgondolkodtató kiállításainak megtekintésével zárja az este közeledtével.",
+        "ro": "Începeți cu o plimbare matinală spre Acropola din Rodos, apoi vizitați biserica liniștită Santa Maria. Amiaza vă aduce în portul Mandraki pentru o pauză pitorească. După-amiaza, explorați magnificul Palat al Marelui Maestru. Încheiați turul cu mașina cu o vizită reflexivă la Muzeul Evreiesc din Rodos pe măsură ce se apropie seara.",
+        "en": "Start with a morning drive to the ancient Acropolis of Rhodes, then visit the peaceful Santa Maria church. Midday brings you down to the bustling Mandraki Harbour for a scenic break by the water. In the afternoon, explore the majestic Palace of the Grand Master. Conclude your driving tour with a reflective visit to the Jewish Museum of Rhodes as evening approaches."
+      }
+    }
+  }
+}

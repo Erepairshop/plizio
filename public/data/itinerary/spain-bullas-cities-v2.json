@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-bullas-cities-v2",
+  "anchor": {
+    "name": "Bullas",
+    "coords": [
+      -1.67227,
+      38.04667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de los Melgares",
+            "hu": "Casa de los Melgares",
+            "ro": "Casa de los Melgares",
+            "en": "Casa de los Melgares"
+          },
+          "coords": [
+            -1.670767,
+            38.050125
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige modernistische Fassade dieses historischen Wahrzeichens und kommen Sie früh, um die architektonischen Details ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi nevezetességnek a feltűnő modernista homlokzatát, és érkezzen korán, hogy tömeg nélkül fotózhassa le a lenyűgöző építészeti részleteket.",
+            "ro": "Admirați fațada modernistă izbitoare a acestui punct de reper istoric și ajungeți devreme pentru a fotografia detaliile arhitecturale fascinante fără aglomerație.",
+            "en": "Admire the striking modernist facade of this historic landmark before exploring its cultural center, and arrive early to photograph the details without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo de D. Pepe Marsilla",
+            "hu": "Casa Museo de D. Pepe Marsilla",
+            "ro": "Casa Museo de D. Pepe Marsilla",
+            "en": "Casa Museo de D. Pepe Marsilla"
+          },
+          "coords": [
+            -1.669858,
+            38.04967
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem wunderschön erhaltenen Herrenhaus aus dem 19. Jahrhundert und fragen Sie die Führer unbedingt nach den faszinierenden historischen Möbeln.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött 19. századi udvarházban, és feltétlenül kérdezze meg a vezetőket a lenyűgöző korabeli bútorokról és helyi történetekről.",
+            "ro": "Întoarceți-vă în timp în acest conac din secolul al XIX-lea frumos conservat și asigurați-vă că întrebați ghizii despre mobilierul de epocă și poveștile locale fascinante.",
+            "en": "Step back in time inside this beautifully preserved 19th-century manor house, making sure to ask the guides about the fascinating period furnishings and local lore."
+          }
+        },
+        {
+          "name": {
+            "de": "Restos Castillo y muralla",
+            "hu": "Restos Castillo y muralla",
+            "ro": "Restos Castillo y muralla",
+            "en": "Restos Castillo y muralla"
+          },
+          "coords": [
+            -1.671833,
+            38.050715
+          ],
+          "category": "castle",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Überreste der alten Burg und ihrer Verteidigungsmauern und tragen Sie feste Schuhe, um sich sicher auf dem unebenen historischen Gelände zu bewegen.",
+            "hu": "Fedezze fel az ősi kastély és védőfalainak zord maradványait, és viseljen masszív sétálócipőt, hogy biztonságosan navigálhasson az egyenetlen történelmi terepen.",
+            "ro": "Explorați rămășițele accidentate ale vechiului castel și ale zidurilor sale de apărare, purtând încălțăminte de mers robustă pentru a naviga în siguranță pe terenul denivelat.",
+            "en": "Explore the rugged remnants of the ancient castle and its defensive walls, wearing sturdy walking shoes to navigate the uneven terrain safely while enjoying the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+          },
+          "coords": [
+            -1.669851,
+            38.050978
+          ],
+          "category": "museum",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Weinbauerbe der Region in diesem Kontrollrat und buchen Sie unbedingt im Voraus eine Verkostung, um die gefeierten lokalen Weine zu probieren.",
+            "hu": "Fedezze fel a régió gazdag borászati örökségét ennél a szabályozó testületnél, és feltétlenül foglaljon előre kóstolót, hogy megízlelhesse az elismert helyi borokat.",
+            "ro": "Descoperiți bogata moștenire viticolă a regiunii la acest consiliu de reglementare și asigurați-vă că rezervați din timp o degustare pentru a savura vinurile locale apreciate.",
+            "en": "Discover the rich viticultural heritage of the region at this regulatory council, and definitely book a tasting session in advance to sample the acclaimed local wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Museo del Vino",
+            "ro": "Museo del Vino",
+            "en": "Museo del Vino"
+          },
+          "coords": [
+            -1.664591,
+            38.051089
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Keller in die faszinierende Geschichte der Weinproduktion von Bullas ein und verpassen Sie nicht die interaktiven Ausstellungen.",
+            "hu": "Merüljön el a bullasi bortermelés lenyűgöző történetében ebben a hagyományos pincében, és ne hagyja ki az interaktív kiállításokat, mielőtt meglátogatná a boltot.",
+            "ro": "Cufundați-vă în istoria fascinantă a producției de vin din Bullas în această cramă tradițională și nu ratați expozițiile interactive înainte de a vizita magazinul de suveniruri.",
+            "en": "Immerse yourself in the fascinating history of Bullas wine production within this traditional cellar, and don't miss the interactive exhibits before visiting the shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der eleganten Casa de los Melgares, bevor Sie in die erhaltene Geschichte der Casa Museo de D. Pepe Marsilla eintauchen. Die Mittagszeit lädt zu einem gemütlichen Spaziergang zu den Restos Castillo y muralla ein, wo alte Steine vom Mittelalter erzählen. Am Nachmittag widmen Sie sich dem berühmten Weinbau von Bullas und besuchen die Bodega de la Balsa y Consejo Regulador. Beenden Sie Ihren Rundgang im umfassenden Museo del Vino und genießen Sie die tiefen kulturellen Wurzeln des lokalen Weins.",
+        "hu": "Kezdje a reggelt az elegáns Casa de los Melgares felfedezésével, majd merüljön el a Casa Museo de D. Pepe Marsilla megőrzött történelmében. A délidő egy kellemes sétára csábít a Restos Castillo y muralla zord maradványaihoz, melyek a középkorról mesélnek. Délután fókuszáljon Bullas híres borászatára a Bodega de la Balsa y Consejo Regulador meglátogatásával. Zárja gyalogtúráját az átfogó Museo del Vino-ban, megízlelve a helyi borok mély kulturális gyökereit és lenyűgöző hagyományait.",
+        "ro": "Începeți dimineața explorând eleganta Casa de los Melgares, înainte de a vă cufunda în istoria conservată de la Casa Museo de D. Pepe Marsilla. Amiaza vă invită la o plimbare relaxantă spre Restos Castillo y muralla, unde pietrele antice spun povești medievale. După-amiaza, concentrați-vă pe viticultura faimoasă din Bullas vizitând Bodega de la Balsa y Consejo Regulador. Încheiați turul pietonal la Museo del Vino, savurând rădăcinile culturale profunde ale vinului local excepțional.",
+        "en": "Start your morning exploring the elegant Casa de los Melgares, admiring its intricate facade before diving into the preserved history of Casa Museo de D. Pepe Marsilla. Midday invites a leisurely stroll to the rugged Restos Castillo y muralla, where ancient stones tell stories of the town's medieval past. In the afternoon, shift your focus to Bullas's famous viticulture by visiting the Bodega de la Balsa y Consejo Regulador. Conclude your walking tour at the comprehensive Museo del Vino, savoring the deep cultural roots of local wine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Museo del Vino",
+            "ro": "Museo del Vino",
+            "en": "Museo del Vino"
+          },
+          "coords": [
+            -1.664591,
+            38.051089
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Keller in die faszinierende Geschichte der Weinproduktion von Bullas ein und verpassen Sie nicht die interaktiven Ausstellungen.",
+            "hu": "Merüljön el a bullasi bortermelés lenyűgöző történetében ebben a hagyományos pincében, és ne hagyja ki az interaktív kiállításokat, mielőtt meglátogatná a boltot.",
+            "ro": "Cufundați-vă în istoria fascinantă a producției de vin din Bullas în această cramă tradițională și nu ratați expozițiile interactive înainte de a vizita magazinul de suveniruri.",
+            "en": "Immerse yourself in the fascinating history of Bullas wine production within this traditional cellar, and don't miss the interactive exhibits before visiting the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+            "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+          },
+          "coords": [
+            -1.669851,
+            38.050978
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Weinbauerbe der Region in diesem Kontrollrat und buchen Sie unbedingt im Voraus eine Verkostung, um die gefeierten lokalen Weine zu probieren.",
+            "hu": "Fedezze fel a régió gazdag borászati örökségét ennél a szabályozó testületnél, és feltétlenül foglaljon előre kóstolót, hogy megízlelhesse az elismert helyi borokat.",
+            "ro": "Descoperiți bogata moștenire viticolă a regiunii la acest consiliu de reglementare și asigurați-vă că rezervați din timp o degustare pentru a savura vinurile locale apreciate.",
+            "en": "Discover the rich viticultural heritage of the region at this regulatory council, and definitely book a tasting session in advance to sample the acclaimed local wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacete de Fuente La Higuera",
+            "hu": "Palacete de Fuente La Higuera",
+            "ro": "Palacete de Fuente La Higuera",
+            "en": "Palacete de Fuente La Higuera"
+          },
+          "coords": [
+            -1.673836,
+            38.065893
+          ],
+          "category": "castle",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses historischen Palastes vor malerischer Kulisse und prüfen Sie vorab die Öffnungszeiten, da der Zugang oft eingeschränkt ist.",
+            "hu": "Csodálja meg e történelmi palota elegáns építészetét a festői háttér előtt, és előzetesen ellenőrizze a helyi menetrendeket, mivel a belső terekbe való bejutás korlátozott lehet.",
+            "ro": "Minunați-vă de arhitectura elegantă a acestui palat istoric pe un fundal pitoresc și verificați programul în prealabil, deoarece accesul în interior poate fi limitat uneori.",
+            "en": "Marvel at the elegant architecture of this historic palace set against a scenic backdrop, and check local schedules beforehand as interior access may be occasionally limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de Los Cantos",
+            "hu": "Villa Romana de Los Cantos",
+            "ro": "Villa Romana de Los Cantos",
+            "en": "Villa Romana de Los Cantos"
+          },
+          "coords": [
+            -1.653611,
+            38.04375
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des ländlichen römischen Lebens an dieser archäologischen Stätte und bringen Sie ausreichend Wasser mit, da es bei den Ruinen kaum Schatten gibt.",
+            "hu": "Fedezze fel a vidéki római élet titkait ezen a jelentős régészeti lelőhelyen, és hozzon magával sok vizet, mivel a romok környékén meglehetősen kevés az árnyék.",
+            "ro": "Descoperiți secretele vieții rurale romane la acest sit arheologic semnificativ și aduceți apă din abundență, deoarece umbra este destul de rară în jurul ruinelor istorice.",
+            "en": "Uncover the secrets of rural Roman life at this significant archaeological site, and bring plenty of water and sun protection since shade is quite sparse around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de las Atalayas",
+            "hu": "Mirador de las Atalayas",
+            "ro": "Mirador de las Atalayas",
+            "en": "Mirador de las Atalayas"
+          },
+          "coords": [
+            -1.688439,
+            38.03631
+          ],
+          "category": "natural",
+          "arrive_at": "15:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt den atemberaubenden Panoramablick auf die Täler und bringen Sie eine gute Kamera mit, um das spektakuläre Nachmittagslicht einzufangen.",
+            "hu": "Élvezze a környező völgyekre nyíló lélegzetelállító panorámát erről a kilátóról, és hozzon egy jó fényképezőgépet, hogy megörökítse a látványos késő délutáni fényeket.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale văilor din jur de la acest punct de belvedere și aduceți o cameră bună pentru a surprinde iluminarea spectaculoasă de după-amiază.",
+            "en": "Take in the breathtaking panoramic views of the surrounding valleys from this elevated viewpoint, and bring a good camera to capture the spectacular lighting at late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Museo del Vino, um in die reiche Weinkultur einzutauchen, bevor Sie zur nahe gelegenen Bodega de la Balsa weiterfahren. Mittags fahren Sie nach Norden, um den imposanten Palacete de Fuente La Higuera vor der murcianischen Landschaft zu bewundern. Die Nachmittagsfahrt führt Sie nach Osten zur faszinierenden Villa Romana de Los Cantos, die Einblicke in das alte Landleben bietet. Beenden Sie den Tag am Mirador de las Atalayas und belohnen Sie sich mit einem herrlichen Sonnenuntergang über dem Tal.",
+        "hu": "Indítsa a reggelt a Museo del Vino-ban, elmerülve a helyi borkultúrában, mielőtt átkerekezne a közeli Bodega de la Balsa épületéhez. Délben kerékpározzon északra, hogy megcsodálja a murciai tájból kiemelkedő Palacete de Fuente La Higuera-t. A délutáni út keletre vezet a lenyűgöző Villa Romana de Los Cantos-hoz, bepillantást engedve az ókori vidéki életbe. Fejezze be a napot a Mirador de las Atalayas-nál, megjutalmazva erőfeszítéseit egy pompás völgyi naplementével.",
+        "ro": "Începeți dimineața pedalând spre Museo del Vino pentru a descoperi cultura locală a vinului, apoi mergeți la Bodega de la Balsa y Consejo Regulador. La prânz, mergeți spre nord pentru a admira impresionantul Palacete de Fuente La Higuera pe fundalul peisajului murcian. Plimbarea de după-amiază vă duce la Villa Romana de Los Cantos, oferind o privire asupra vieții rurale antice. Încheiați ziua la Mirador de las Atalayas, răsplătindu-vă eforturile cu un apus de soare glorios deasupra văii.",
+        "en": "Pedal off your morning at the Museo del Vino, immersing yourself in the rich local wine culture before rolling over to the nearby Bodega de la Balsa y Consejo Regulador. By midday, cycle north to admire the imposing Palacete de Fuente La Higuera set against the Murcian landscape. The afternoon ride takes you east to the fascinating Villa Romana de Los Cantos, offering a glimpse into ancient rural life. Finish the day pedaling south to the Mirador de las Atalayas, rewarding your efforts with a glorious valley sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Romana de Los Cantos",
+            "hu": "Villa Romana de Los Cantos",
+            "ro": "Villa Romana de Los Cantos",
+            "en": "Villa Romana de Los Cantos"
+          },
+          "coords": [
+            -1.653611,
+            38.04375
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des ländlichen römischen Lebens an dieser archäologischen Stätte und bringen Sie ausreichend Wasser mit, da es bei den Ruinen kaum Schatten gibt.",
+            "hu": "Fedezze fel a vidéki római élet titkait ezen a jelentős régészeti lelőhelyen, és hozzon magával sok vizet, mivel a romok környékén meglehetősen kevés az árnyék.",
+            "ro": "Descoperiți secretele vieții rurale romane la acest sit arheologic semnificativ și aduceți apă din abundență, deoarece umbra este destul de rară în jurul ruinelor istorice.",
+            "en": "Uncover the secrets of rural Roman life at this significant archaeological site, and bring plenty of water and sun protection since shade is quite sparse around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Museo del Vino",
+            "ro": "Museo del Vino",
+            "en": "Museo del Vino"
+          },
+          "coords": [
+            -1.664591,
+            38.051089
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Keller in die faszinierende Geschichte der Weinproduktion von Bullas ein und verpassen Sie nicht die interaktiven Ausstellungen.",
+            "hu": "Merüljön el a bullasi bortermelés lenyűgöző történetében ebben a hagyományos pincében, és ne hagyja ki az interaktív kiállításokat, mielőtt meglátogatná a boltot.",
+            "ro": "Cufundați-vă în istoria fascinantă a producției de vin din Bullas în această cramă tradițională și nu ratați expozițiile interactive înainte de a vizita magazinul de suveniruri.",
+            "en": "Immerse yourself in the fascinating history of Bullas wine production within this traditional cellar, and don't miss the interactive exhibits before visiting the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo de D. Pepe Marsilla",
+            "hu": "Casa Museo de D. Pepe Marsilla",
+            "ro": "Casa Museo de D. Pepe Marsilla",
+            "en": "Casa Museo de D. Pepe Marsilla"
+          },
+          "coords": [
+            -1.669858,
+            38.04967
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem wunderschön erhaltenen Herrenhaus aus dem 19. Jahrhundert und fragen Sie die Führer unbedingt nach den faszinierenden historischen Möbeln.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött 19. századi udvarházban, és feltétlenül kérdezze meg a vezetőket a lenyűgöző korabeli bútorokról és helyi történetekről.",
+            "ro": "Întoarceți-vă în timp în acest conac din secolul al XIX-lea frumos conservat și asigurați-vă că întrebați ghizii despre mobilierul de epocă și poveștile locale fascinante.",
+            "en": "Step back in time inside this beautifully preserved 19th-century manor house, making sure to ask the guides about the fascinating period furnishings and local lore."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacete de Fuente La Higuera",
+            "hu": "Palacete de Fuente La Higuera",
+            "ro": "Palacete de Fuente La Higuera",
+            "en": "Palacete de Fuente La Higuera"
+          },
+          "coords": [
+            -1.673836,
+            38.065893
+          ],
+          "category": "castle",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses historischen Palastes vor malerischer Kulisse und prüfen Sie vorab die Öffnungszeiten, da der Zugang oft eingeschränkt ist.",
+            "hu": "Csodálja meg e történelmi palota elegáns építészetét a festői háttér előtt, és előzetesen ellenőrizze a helyi menetrendeket, mivel a belső terekbe való bejutás korlátozott lehet.",
+            "ro": "Minunați-vă de arhitectura elegantă a acestui palat istoric pe un fundal pitoresc și verificați programul în prealabil, deoarece accesul în interior poate fi limitat uneori.",
+            "en": "Marvel at the elegant architecture of this historic palace set against a scenic backdrop, and check local schedules beforehand as interior access may be occasionally limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de las Atalayas",
+            "hu": "Mirador de las Atalayas",
+            "ro": "Mirador de las Atalayas",
+            "en": "Mirador de las Atalayas"
+          },
+          "coords": [
+            -1.688439,
+            38.03631
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt den atemberaubenden Panoramablick auf die Täler und bringen Sie eine gute Kamera mit, um das spektakuläre Nachmittagslicht einzufangen.",
+            "hu": "Élvezze a környező völgyekre nyíló lélegzetelállító panorámát erről a kilátóról, és hozzon egy jó fényképezőgépet, hogy megörökítse a látványos késő délutáni fényeket.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale văilor din jur de la acest punct de belvedere și aduceți o cameră bună pentru a surprinde iluminarea spectaculoasă de după-amiază.",
+            "en": "Take in the breathtaking panoramic views of the surrounding valleys from this elevated viewpoint, and bring a good camera to capture the spectacular lighting at late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorámica del Salto del Usero",
+            "hu": "Panorámica del Salto del Usero",
+            "ro": "Panorámica del Salto del Usero",
+            "en": "Panorámica del Salto del Usero"
+          },
+          "coords": [
+            -1.674102,
+            38.026057
+          ],
+          "category": "natural",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die atemberaubenden Wasserfälle und kristallklaren Pools dieses Schutzgebiets. Kommen Sie früh, um sich einen guten Platz zu sichern und den Massen zu entgehen.",
+            "hu": "Tapasztalja meg e védett terület lenyűgöző természetes vízeséseit és kristálytiszta medencéit, és érkezzen korán, hogy jó helyet biztosítson magának és elkerülje a tömeget.",
+            "ro": "Experimentați cascadele naturale uluitoare și piscinele cristaline ale acestui sit protejat, ajungând devreme pentru a vă asigura un loc bun și a evita aglomerația de vârf.",
+            "en": "Experience the stunning natural waterfalls and crystal-clear pools of this protected site, arriving early in the day to secure a good spot and avoid the peak afternoon crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Villa Romana de Los Cantos und erkunden Sie die antiken Ruinen in der kühlen Morgenluft, bevor Sie ins Museo del Vino fahren. Die Mittagszeit ist ideal, um in der Casa Museo de D. Pepe Marsilla in das lokale Erbe einzutauchen, gefolgt von einer kurzen Fahrt zum Palacete de Fuente La Higuera. Am späten Nachmittag fahren Sie zum Mirador de las Atalayas und genießen die weite Aussicht. Schließlich geht es hinab zum Salto del Usero, um die spektakulären natürlichen Wasserfälle zu bewundern.",
+        "hu": "Kezdje autós útját a Villa Romana de Los Cantos-nál, felfedezve az ősi romokat a hűvös reggeli levegőben, mielőtt a városi Museo del Vino-ba hajtana. A délidő tökéletes a Casa Museo de D. Pepe Marsilla helyi örökségének megismerésére, majd az elegáns Palacete de Fuente La Higuera megtekintésére. Késő délután tegyen egy festői utat a Mirador de las Atalayas-hoz a pazar kilátásért. Végül ereszkedjen le a Panorámica del Salto del Usero-hoz, hogy élvezze a látványos természetes vízeséseket.",
+        "ro": "Începeți traseul auto la Villa Romana de Los Cantos, explorând ruinele antice dimineața, înainte de a vă îndrepta spre oraș pentru impresionantul Museo del Vino. Amiaza este perfectă pentru a descoperi patrimoniul local la Casa Museo de D. Pepe Marsilla, urmată de o scurtă plimbare până la Palacete de Fuente La Higuera. După-amiaza, faceți o plimbare pitorească până la Mirador de las Atalayas pentru vederi panoramice. În cele din urmă, coborâți la Salto del Usero pentru a vă bucura de cascadele naturale spectaculoase.",
+        "en": "Kick off your driving route at the Villa Romana de Los Cantos, exploring the ancient ruins in the cool morning air before heading into town for the comprehensive Museo del Vino. Midday is perfect for diving into local heritage at the Casa Museo de D. Pepe Marsilla, followed by a short drive to the elegant Palacete de Fuente La Higuera. As afternoon wanes, take a scenic drive to the Mirador de las Atalayas for sweeping views. Finally, descend to the Panorámica del Salto del Usero to enjoy the spectacular natural waterfalls."
+      }
+    }
+  }
+}

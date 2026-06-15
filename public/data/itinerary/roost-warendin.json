@@ -1,0 +1,474 @@
+{
+  "city_id": "roost-warendin",
+  "anchor": {
+    "name": "Roost-Warendin",
+    "coords": [
+      3.1056,
+      50.4203
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Bernicourt",
+            "hu": "Château de Bernicourt",
+            "ro": "Château de Bernicourt",
+            "en": "Château de Bernicourt"
+          },
+          "coords": [
+            3.103573,
+            50.422882
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
+            "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
+            "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.103562,
+            50.41827
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
+            "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
+            "hu": "Réserve naturelle des Annelles",
+            "ro": "Réserve naturelle des Annelles",
+            "en": "Réserve naturelle des Annelles"
+          },
+          "coords": [
+            3.094536,
+            50.410755
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses vielfältigen Naturschutzgebietes, das zahlreichen seltenen Vogelarten eine Heimat bietet, und bringen Sie unbedingt ein gutes Fernglas mit.",
+            "hu": "Élvezze e változatos természetvédelmi terület nyugodt légkörét, amely számos ritka madárfajnak ad otthont, és feltétlenül hozzon magával egy jó távcsövet a megfigyeléshez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei rezervații naturale diverse, care găzduiește multe specii rare de păsări, și asigurați-vă că aduceți un binoclu bun cu dumneavoastră.",
+            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Rita",
+            "hu": "Sainte-Rita kápolna",
+            "ro": "Capela Sainte-Rita",
+            "en": "Chapelle Sainte-Rita"
+          },
+          "coords": [
+            3.099677,
+            50.406716
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche und spirituell bedeutsame Kapelle, die ein ruhiger Ort der lokalen Andacht ist, und zünden Sie als Zeichen der Besinnung eine traditionelle Kerze an.",
+            "hu": "Látogasson el ebbe a békés és spirituálisan jelentős kápolnába, amely a helyi áhítat csendes helyszíne, és gyújtson meg egy hagyományos gyertyát az elmélkedés jeleként.",
+            "ro": "Vizitați această capelă pașnică și semnificativă spiritual, care este un loc liniștit de devotament local, și aprindeți o lumânare tradițională ca semn de reflecție.",
+            "en": "Visit this peaceful and spiritually significant chapel, which serves as a quiet place of local devotion, and light a traditional candle as a sign of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkéos",
+            "hu": "Arkéos",
+            "ro": "Arkéos",
+            "en": "Arkéos"
+          },
+          "coords": [
+            3.128331,
+            50.409626
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
+            "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
+            "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am eleganten Château de Bernicourt, um in die edle Vergangenheit der Region einzutauchen.\nAm Mittag spazieren Sie zur historischen Saint-Martin Church, wo Sie Momente der Ruhe genießen können.\nDer Nachmittag führt Sie durch das grüne Paradies der Réserve naturelle und zur malerischen Chapelle Sainte-Rita.\nZum Abschluss tauchen Sie im Arkéos-Museum tief in das faszinierende nordfranzösische Mittelalter ein.",
+        "hu": "Kezdje a napot az elegáns Château de Bernicourt-nál, hogy elmerüljön a régió nemesi múltjában és gazdag történelmében.\nDélben sétáljon át a történelmi Saint-Martin templomhoz, ahol békés pillanatokat és lelki nyugalmat élvezhet.\nA délután a Réserve naturelle zöldellő paradicsomán és a festői Chapelle Sainte-Rita-n keresztül vezet.\nZárásként az Arkéos múzeumban mélyülhet el a lenyűgöző észak-franciaországi középkori életben.",
+        "ro": "Începeți ziua la elegantul Château de Bernicourt pentru a vă scufunda în trecutul nobil și fascinant al întregii regiuni.\nLa prânz, faceți o plimbare plăcută până la biserica istorică Saint-Martin, unde vă puteți bucura de momente de liniște.\nDupă-amiaza vă poartă prin paradisul verde al Réserve naturelle și la pitoreasca Chapelle Sainte-Rita.\nÎn cele din urmă, aprofundați fascinantul ev mediu nord-francez vizitând modernul muzeu Arkéos.",
+        "en": "Start your day at the elegant Château de Bernicourt to completely immerse yourself in the noble past of the region.\nAt midday, take a leisurely stroll to the historic Saint-Martin Church, where you can enjoy moments of pure tranquility.\nThe afternoon leads you through the green paradise of the Réserve naturelle and to the picturesque Chapelle Sainte-Rita.\nFinally, delve deep into the fascinating Northern French Middle Ages at the modern Arkéos museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Géry",
+            "hu": "Saint-Géry templom",
+            "ro": "Biserica Saint-Géry",
+            "en": "Église Saint-Géry"
+          },
+          "coords": [
+            3.100562,
+            50.439931
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Details dieser wunderschönen alten Kirche, deren ruhiges Inneres zum Verweilen einlädt, und betrachten Sie die feinen handwerklichen Holzarbeiten.",
+            "hu": "Fedezze fel ennek a gyönyörű régi templomnak a történelmi részleteit, amelynek nyugodt belseje maradásra csábít, és vegye szemügyre a finom kézműves famunkákat is.",
+            "ro": "Descoperiți detaliile istorice ale acestei frumoase biserici vechi, al cărei interior liniștit vă invită să zăboviți, și priviți cu atenție detaliile fine din lemn sculptat.",
+            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bernicourt",
+            "hu": "Château de Bernicourt",
+            "ro": "Château de Bernicourt",
+            "en": "Château de Bernicourt"
+          },
+          "coords": [
+            3.103573,
+            50.422882
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
+            "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
+            "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.103562,
+            50.41827
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
+            "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
+            "hu": "Réserve naturelle des Annelles",
+            "ro": "Réserve naturelle des Annelles",
+            "en": "Réserve naturelle des Annelles"
+          },
+          "coords": [
+            3.094536,
+            50.410755
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses vielfältigen Naturschutzgebietes, das zahlreichen seltenen Vogelarten eine Heimat bietet, und bringen Sie unbedingt ein gutes Fernglas mit.",
+            "hu": "Élvezze e változatos természetvédelmi terület nyugodt légkörét, amely számos ritka madárfajnak ad otthont, és feltétlenül hozzon magával egy jó távcsövet a megfigyeléshez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei rezervații naturale diverse, care găzduiește multe specii rare de păsări, și asigurați-vă că aduceți un binoclu bun cu dumneavoastră.",
+            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkéos",
+            "hu": "Arkéos",
+            "ro": "Arkéos",
+            "en": "Arkéos"
+          },
+          "coords": [
+            3.128331,
+            50.409626
+          ],
+          "category": "museum",
+          "arrive_at": "13:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
+            "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
+            "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Scarpe Canal",
+            "hu": "Scarpe-csatorna",
+            "ro": "Canalul Scarpe",
+            "en": "Scarpe Canal"
+          },
+          "coords": [
+            3.101286,
+            50.391157
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der malerischen Ufer dieses historischen Kanals, der früher eine wichtige Wasserstraße war, und mieten Sie ein Fahrrad für eine entspannte Fahrt am Wasser.",
+            "hu": "Sétáljon e történelmi csatorna festői partjain, amely egykor fontos vízi út volt, és béreljen kerékpárt egy pihentető és frissítő délutáni túrához a víz mentén.",
+            "ro": "Plimbați-vă pe malurile pitorești ale acestui canal istoric, care a fost cândva o cale navigabilă importantă, și închiriați o bicicletă pentru o plimbare relaxantă pe malul apei.",
+            "en": "Stroll along the picturesque banks of this historic canal, which was once an important regional waterway, and consider renting a bicycle for a relaxing ride right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens an der Église Saint-Géry und radeln Sie dann zum prachtvollen Château de Bernicourt, um Geschichte hautnah zu erleben.\nZur Mittagszeit geht es weiter zur Saint-Martin Church und anschließend in die Natur der Réserve naturelle.\nNachmittags bringt Sie Ihr Fahrrad zum beeindruckenden Arkéos-Museum, wo Sie das regionale Kulturerbe erkunden.\nBeenden Sie den aktiven Tag mit einer entspannten Fahrt entlang der ruhigen Ufer des Scarpe-Kanals.",
+        "hu": "Kezdje a reggelt az Église Saint-Géry-nél, majd tekerjen el a pompás Château de Bernicourt-hoz, hogy átélje a történelmet.\nDélben folytassa útját a Saint-Martin templom felé, majd élvezze a Réserve naturelle érintetlen természetét.\nDélután a kerékpárút a lenyűgöző Arkéos múzeumhoz vezet, ahol felfedezheti a gazdag regionális kulturális örökséget.\nFejezze be az aktív napot egy pihentető és frissítő tekeréssel a Scarpe-csatorna csendes és békés partjain.",
+        "ro": "Începeți dimineața la Église Saint-Géry și apoi pedalați spre magnificul Château de Bernicourt pentru a experimenta istoria.\nLa prânz, continuați spre biserica Saint-Martin și apoi relaxați-vă în natura uimitoare din Réserve naturelle.\nDupă-amiaza, bicicleta vă aduce la impresionantul muzeu Arkéos, unde veți explora vastul patrimoniu cultural regional.\nÎncheiați ziua activă cu o plimbare complet relaxantă de-a lungul malurilor liniștite ale canalului pitoresc Scarpe.",
+        "en": "Start the morning at Église Saint-Géry and then cycle your way to the magnificent Château de Bernicourt to experience history.\nAt lunchtime, continue to the Saint-Martin Church and then step right into the pure nature of the Réserve naturelle.\nIn the afternoon, your bike brings you to the impressive Arkéos museum, where you can explore regional cultural heritage.\nEnd the active day with a wonderfully relaxing ride along the quiet and peaceful banks of the historic Scarpe Canal."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Géry",
+            "hu": "Saint-Géry templom",
+            "ro": "Biserica Saint-Géry",
+            "en": "Église Saint-Géry"
+          },
+          "coords": [
+            3.100562,
+            50.439931
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Details dieser wunderschönen alten Kirche, deren ruhiges Inneres zum Verweilen einlädt, und betrachten Sie die feinen handwerklichen Holzarbeiten.",
+            "hu": "Fedezze fel ennek a gyönyörű régi templomnak a történelmi részleteit, amelynek nyugodt belseje maradásra csábít, és vegye szemügyre a finom kézműves famunkákat is.",
+            "ro": "Descoperiți detaliile istorice ale acestei frumoase biserici vechi, al cărei interior liniștit vă invită să zăboviți, și priviți cu atenție detaliile fine din lemn sculptat.",
+            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bernicourt",
+            "hu": "Château de Bernicourt",
+            "ro": "Château de Bernicourt",
+            "en": "Château de Bernicourt"
+          },
+          "coords": [
+            3.103573,
+            50.422882
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
+            "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
+            "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.103562,
+            50.41827
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
+            "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Râches",
+            "hu": "Mairie de Râches",
+            "ro": "Mairie de Râches",
+            "en": "Mairie de Râches"
+          },
+          "coords": [
+            3.136796,
+            50.415215
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische französische Architektur dieses charmanten Rathauses, das als repräsentativer Mittelpunkt dient, und fotografieren Sie die symmetrische Hauptfassade.",
+            "hu": "Tekintse meg e bájos városháza klasszikus francia építészetét, amely reprezentatív központként szolgál, és fényképezze le a tökéletesen szimmetrikus és elegáns főhomlokzatot.",
+            "ro": "Priviți arhitectura clasică franceză a acestei primării fermecătoare, care servește drept punct central reprezentativ, și fotografiați fațada principală perfect simetrică.",
+            "en": "View the classic French architecture of this charming town hall, which serves as a representative center, and take a great photograph of the perfectly symmetrical main facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léonard",
+            "hu": "Saint-Léonard templom",
+            "ro": "Biserica Saint-Léonard",
+            "en": "Église Saint-Léonard"
+          },
+          "coords": [
+            3.135108,
+            50.415291
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Ausstrahlung dieser kleinen, aber architektonisch reizvollen Kirche, die tief mit der lokalen Identität verwurzelt ist, und besuchen Sie den ruhigen Vorhof.",
+            "hu": "Élje át e kis, de építészetileg vonzó templom békés kisugárzását, amely mélyen gyökerezik a helyi identitásban, és tegyen egy rövid sétát a csendes és rendezett előudvaron.",
+            "ro": "Experimentați aura pașnică a acestei biserici mici, dar atractive din punct de vedere arhitectural, înrădăcinată în identitatea locală, și vizitați curtea din față liniștită.",
+            "en": "Experience the peaceful aura of this small yet architecturally attractive church rooted deeply in local identity, and take a short, relaxing walk through the quiet front courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkéos",
+            "hu": "Arkéos",
+            "ro": "Arkéos",
+            "en": "Arkéos"
+          },
+          "coords": [
+            3.128331,
+            50.409626
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
+            "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
+            "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernicourt Castle Park",
+            "hu": "Bernicourt kastélypark",
+            "ro": "Parcul Castelului Bernicourt",
+            "en": "Bernicourt Castle Park"
+          },
+          "coords": [
+            3.110042,
+            50.381115
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den weiten, gepflegten Grünanlagen dieses herrlichen Schlossparks, der perfekt für Familien ist, und packen Sie einen Picknickkorb für das Mittagessen ein.",
+            "hu": "Pihenjen meg e csodálatos kastélypark tágas, gondozott zöldterületein, amely tökéletes családok számára, és csomagoljon egy finom piknikkosarat a kényelmes délutáni ebédhez.",
+            "ro": "Relaxați-vă în spațiile verzi vaste și îngrijite ale acestui parc magnific de castel, perfect pentru familii, și pregătiți un coș de picnic plin cu bunătăți pentru un prânz delicios.",
+            "en": "Relax in the vast, well-maintained green spaces of this magnificent castle park, which is absolutely perfect for families, and pack a delicious picnic basket for a leisurely lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens bequem von der Église Saint-Géry zum Château de Bernicourt und genießen Sie die adelige Architektur.\nAm Mittag erreichen Sie schnell die Saint-Martin Church sowie das charmante Rathaus von Râches für kurze Erkundungen.\nDer Nachmittag ist für einen tiefen Einblick im modernen Arkéos-Museum und der nahen Église Saint-Léonard reserviert.\nLassen Sie den Tag im weitläufigen Bernicourt Castle Park bei einem ruhigen und erholsamen Spaziergang im Grünen ausklingen.",
+        "hu": "Autózzon reggel kényelmesen az Église Saint-Géry-től a Château de Bernicourt-hoz, és élvezze a nemesi építészetet.\nDélben gyorsan elérheti a Saint-Martin templomot és Râches bájos városházát néhány rövid, de tartalmas felfedezésre.\nA délután a modern Arkéos múzeum interaktív kiállításának és a közeli Église Saint-Léonard nyugalmának van fenntartva.\nZárja a napot a tágas Bernicourt kastélyparkban egy békés és pihentető, természetközeli esti sétával a fák alatt.",
+        "ro": "Conduceți confortabil dimineața de la Église Saint-Géry la Château de Bernicourt și bucurați-vă de arhitectura nobilă.\nLa prânz, ajungeți rapid la biserica Saint-Martin și la fermecătoarea primărie din Râches pentru o scurtă explorare.\nDupă-amiaza este rezervată pentru o perspectivă profundă la muzeul modern Arkéos și la apropiata Église Saint-Léonard.\nÎncheiați ziua în vastul parc al castelului Bernicourt cu o plimbare liniștită și extrem de relaxantă prin verdeața luxuriantă.",
+        "en": "Drive comfortably in the morning from Église Saint-Géry to the Château de Bernicourt and fully enjoy the noble architecture.\nAt midday, you quickly reach the Saint-Martin Church and the charming town hall of Râches for some very short explorations.\nThe afternoon is entirely reserved for a deep insight at the modern Arkéos museum and the nearby Église Saint-Léonard.\nEnd the day in the vast Bernicourt Castle Park with a quiet, refreshing, and deeply relaxing evening walk through the greenery."
+      }
+    }
+  }
+}

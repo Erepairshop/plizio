@@ -1,0 +1,428 @@
+{
+  "city_id": "khon-kaen-cities-v2",
+  "anchor": {
+    "name": "Khon Kaen",
+    "coords": [
+      102.833,
+      16.433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:16",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Demokratiedenkmal",
+            "hu": "Demokrácia Emlékmű",
+            "ro": "Monumentul Democrației",
+            "en": "Democracy Monument"
+          },
+          "coords": [
+            102.829227,
+            16.431132
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Symbol der thailändischen Politikgeschichte und kommen Sie am besten früh, bevor der Verkehr am Kreisverkehr zunimmt.",
+            "hu": "Csodálja meg a thai politikai történelem e központi szimbólumát, és érdemes korán érkezni, mielőtt a körforgalom körüli déli forgalom felerősödik.",
+            "ro": "Admirați acest simbol central al istoriei politice thailandeze, având grijă să vizitați devreme înainte ca traficul să se aglomereze la sensul giratoriu.",
+            "en": "Admire this central symbol of Thai political history, making sure to visit early before the midday traffic picks up around the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Hugz Mall",
+            "hu": "Hugz Bevásárlóközpont",
+            "ro": "Hugz Mall",
+            "en": "Hugz Mall"
+          },
+          "coords": [
+            102.830842,
+            16.431521
+          ],
+          "category": "landmark",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause in diesem modernen Lifestyle-Einkaufszentrum, um sich bei einem Eiskaffee abzukühlen und die markante offene Architektur zu genießen.",
+            "hu": "Tartson egy rövid szünetet ebben a modern bevásárlóközpontban, hűsöljön egy jegeskávéval, és élvezze a lenyűgöző, nyitott terű építészetet.",
+            "ro": "Faceți o scurtă pauză în acest mall modern pentru a vă răcori cu o cafea cu gheață și bucurați-vă de arhitectura sa contemporană impresionantă în aer liber.",
+            "en": "Take a short break in this modern lifestyle mall to cool down with an iced coffee and enjoy its striking contemporary open-air architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Marshal Sarit Thanarat Denkmal",
+            "hu": "Marshal Sarit Thanarat Emlékmű",
+            "ro": "Monumentul Marshal Sarit Thanarat",
+            "en": "Marshal Sarit Thanarat Monument"
+          },
+          "coords": [
+            102.83552,
+            16.439051
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie an dieser imposanten Statue mehr über den einflussreichen ehemaligen Premierminister, wo das späte Morgenlicht beste Bedingungen für Fotos bietet.",
+            "hu": "Ismerje meg a befolyásos egykori miniszterelnök történetét ennél a hatalmas szobornál, ahol a késő délelőtti fény ideális feltételeket biztosít a fotózáshoz.",
+            "ro": "Aflați despre influentul fost prim-ministru la această statuie grandioasă, unde lumina dimineții târzii oferă cele mai bune condiții pentru fotografii.",
+            "en": "Learn about the influential former prime minister at this grand statue, where late morning light offers the best conditions for taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Phra That Sirodom Kham Kaen",
+            "hu": "Phra That Sirodom Kham Kaen",
+            "ro": "Phra That Sirodom Kham Kaen",
+            "en": "Phra That Sirodom Kham Kaen"
+          },
+          "coords": [
+            102.835737,
+            16.440636
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem eleganten goldenen Pavillon vor dem Provinzgebäude Ihren Respekt und achten Sie darauf, Ihre Schultern bedeckt zu halten.",
+            "hu": "Fejezze ki tiszteletét ennél az elegáns, a tartományi hivatal előtt álló arany pavilonnál, ügyelve arra, hogy tiszteletből vállai takarva legyenek.",
+            "ro": "Prezentați-vă respectul la acest elegant pavilion auriu situat în fața sălii provinciale, având grijă să aveți umerii acoperiți din respect.",
+            "en": "Pay your respects at this elegant golden pavilion situated gracefully in front of the provincial hall, keeping your shoulders covered out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Khon Kaen",
+            "hu": "Khon Kaen Nemzeti Múzeum",
+            "ro": "Muzeul Național Khon Kaen",
+            "en": "Khon Kaen National Museum"
+          },
+          "coords": [
+            102.838659,
+            16.446143
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem sehenswerten Museum außergewöhnliche Dvaravati-Kunst und Isan-Antiquitäten und planen Sie mindestens zwei Stunden für die Ausstellungen ein.",
+            "hu": "Fedezze fel a kivételes Dvaravati művészetet és az isani régiségeket ebben a fontos múzeumban, legalább két órát szánva a lenyűgöző kiállításokra.",
+            "ro": "Descoperiți arta extraordinară Dvaravati și antichitățile Isan în acest muzeu esențial, alocând cel puțin două ore pentru a aprecia pe deplin exponatele.",
+            "en": "Discover extraordinary Dvaravati art and Isan antiquities in this essential museum, allocating at least two hours to fully appreciate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Khon Kaen am Demokratiedenkmal. Nach einer kurzen Kaffeepause im Hugz Mall setzen Sie Ihren Spaziergang fort.\n\nAm Mittag erreichen Sie das imposante Marshal Sarit Thanarat Denkmal. Nur wenige Schritte entfernt bewundern Sie den eleganten Phra That Sirodom Schrein.\n\nAm Nachmittag besuchen Sie das weitläufige Nationalmuseum Khon Kaen. Nehmen Sie sich Zeit, die reiche Geschichte und Kunst der Isan-Region zu erkunden.\n\nBeenden Sie Ihre Wanderung am späten Nachmittag. Die Museumsanlage bietet eine entspannte Atmosphäre, um vor dem Abendessen über die Stadt nachzudenken.",
+        "hu": "Kezdje a napot Khon Kaen szívében, a Demokrácia Emlékműnél. Egy gyors kávészünet után a Hugz bevásárlóközpontban folytassa sétáját.\n\nDélben elérkezik az impozáns Marshal Sarit Thanarat Emlékműhöz. Csak néhány lépésre innen csodálja meg az elegáns Phra That Sirodom szentélyt.\n\nDélután induljon a hatalmas Khon Kaen Nemzeti Múzeum felé. Szánjon időt az Isan régió gazdag történelmének és művészetének felfedezésére.\n\nFejezze be sétáját a késő délutáni órákban. A múzeum környéke nyugodt légkört biztosít ahhoz, hogy vacsora előtt elgondolkodjon a város kulturális keveredésén.",
+        "ro": "Începeți-vă ziua plimbându-vă prin inima orașului Khon Kaen, la Monumentul Democrației. După o scurtă pauză de cafea la Hugz Mall, continuați-vă plimbarea.\n\nLa prânz ajungeți la impunătorul Monument Marshal Sarit Thanarat. La doar câțiva pași distanță, admirați elegantul altar Phra That Sirodom.\n\nDupă-amiaza, îndreptați-vă spre vastul Muzeu Național Khon Kaen. Acordați-vă timp explorând istoria și arta bogată a regiunii Isan.\n\nÎncheiați turul pietonal spre seară. Terenurile muzeului oferă o atmosferă relaxantă pentru a reflecta asupra amestecului cultural al orașului.",
+        "en": "Begin your day walking through the heart of Khon Kaen, starting at the Democracy Monument. After a quick coffee break at Hugz Mall, continue your stroll.\n\nMidday brings you to the imposing Marshal Sarit Thanarat Monument. Just steps away, admire the elegant Phra That Sirodom Kham Kaen shrine.\n\nIn the afternoon, head towards the extensive Khon Kaen National Museum. Take your time exploring the rich history and art of the Isan region.\n\nConclude your walking tour in the late afternoon. The museum grounds offer a relaxing atmosphere to reflect on the city's unique cultural blend before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hong Mun Mang Stadtmuseum",
+            "hu": "Hong Mun Mang Városi Múzeum",
+            "ro": "Muzeul Orașului Hong Mun Mang",
+            "en": "Hong Mun Mang Khon Kaen City Museum"
+          },
+          "coords": [
+            102.839061,
+            16.419611
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in das lokale Erbe und die Ursprünge der Stadt ein und beginnen Sie Ihren Tag hier, um die Region zu verstehen.",
+            "hu": "Merüljön el a város helyi örökségében és eredetében az interaktív kiállításokon keresztül, és kezdje itt a napot, hogy megértse a régió kontextusát.",
+            "ro": "Aprofundați moștenirea locală și originile orașului prin expoziții interactive, începând ziua aici pentru a înțelege contextul întregii regiuni.",
+            "en": "Dive into the local heritage and origins of the city through interactive displays, starting your day here to gain context for the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiwektham Tempel",
+            "hu": "Wiwektham Templom",
+            "ro": "Templul Wiwektham",
+            "en": "Wiwektham Temple"
+          },
+          "coords": [
+            102.846252,
+            16.426088
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie ruhige Spiritualität in diesem friedlichen lokalen Tempel, wo eine kurze Meditationssitzung eine erfrischende spirituelle Pause bieten kann.",
+            "hu": "Tapasztalja meg a nyugodt spiritualitást ebben a békés helyi templomban, ahol egy rövid meditációs üléshez való csatlakozás felfrissülést nyújthat.",
+            "ro": "Experimentați spiritualitatea senină la acest templu local pașnic, unde o scurtă sesiune de meditație vă poate oferi o pauză spirituală revigorantă.",
+            "en": "Experience serene spirituality at this peaceful local temple, where joining a brief meditation session can provide a refreshing spiritual break."
+          }
+        },
+        {
+          "name": {
+            "de": "Demokratiedenkmal",
+            "hu": "Demokrácia Emlékmű",
+            "ro": "Monumentul Democrației",
+            "en": "Democracy Monument"
+          },
+          "coords": [
+            102.829227,
+            16.431132
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Symbol der thailändischen Politikgeschichte und kommen Sie am besten früh, bevor der Verkehr am Kreisverkehr zunimmt.",
+            "hu": "Csodálja meg a thai politikai történelem e központi szimbólumát, és érdemes korán érkezni, mielőtt a körforgalom körüli déli forgalom felerősödik.",
+            "ro": "Admirați acest simbol central al istoriei politice thailandeze, având grijă să vizitați devreme înainte ca traficul să se aglomereze la sensul giratoriu.",
+            "en": "Admire this central symbol of Thai political history, making sure to visit early before the midday traffic picks up around the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Hugz Mall",
+            "hu": "Hugz Bevásárlóközpont",
+            "ro": "Hugz Mall",
+            "en": "Hugz Mall"
+          },
+          "coords": [
+            102.830842,
+            16.431521
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause in diesem modernen Lifestyle-Einkaufszentrum, um sich bei einem Eiskaffee abzukühlen und die markante offene Architektur zu genießen.",
+            "hu": "Tartson egy rövid szünetet ebben a modern bevásárlóközpontban, hűsöljön egy jegeskávéval, és élvezze a lenyűgöző, nyitott terű építészetet.",
+            "ro": "Faceți o scurtă pauză în acest mall modern pentru a vă răcori cu o cafea cu gheață și bucurați-vă de arhitectura sa contemporană impresionantă în aer liber.",
+            "en": "Take a short break in this modern lifestyle mall to cool down with an iced coffee and enjoy its striking contemporary open-air architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Marshal Sarit Thanarat Denkmal",
+            "hu": "Marshal Sarit Thanarat Emlékmű",
+            "ro": "Monumentul Marshal Sarit Thanarat",
+            "en": "Marshal Sarit Thanarat Monument"
+          },
+          "coords": [
+            102.83552,
+            16.439051
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie an dieser imposanten Statue mehr über den einflussreichen ehemaligen Premierminister, wo das späte Morgenlicht beste Bedingungen für Fotos bietet.",
+            "hu": "Ismerje meg a befolyásos egykori miniszterelnök történetét ennél a hatalmas szobornál, ahol a késő délelőtti fény ideális feltételeket biztosít a fotózáshoz.",
+            "ro": "Aflați despre influentul fost prim-ministru la această statuie grandioasă, unde lumina dimineții târzii oferă cele mai bune condiții pentru fotografii.",
+            "en": "Learn about the influential former prime minister at this grand statue, where late morning light offers the best conditions for taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Khon Kaen",
+            "hu": "Khon Kaen Nemzeti Múzeum",
+            "ro": "Muzeul Național Khon Kaen",
+            "en": "Khon Kaen National Museum"
+          },
+          "coords": [
+            102.838659,
+            16.446143
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem sehenswerten Museum außergewöhnliche Dvaravati-Kunst und Isan-Antiquitäten und planen Sie mindestens zwei Stunden für die Ausstellungen ein.",
+            "hu": "Fedezze fel a kivételes Dvaravati művészetet és az isani régiségeket ebben a fontos múzeumban, legalább két órát szánva a lenyűgöző kiállításokra.",
+            "ro": "Descoperiți arta extraordinară Dvaravati și antichitățile Isan în acest muzeu esențial, alocând cel puțin două ore pentru a aprecia pe deplin exponatele.",
+            "en": "Discover extraordinary Dvaravati art and Isan antiquities in this essential museum, allocating at least two hours to fully appreciate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre morgendliche Radtour am Stadtmuseum am See, um die Geschichte kennenzulernen. Radeln Sie dann zum ruhigen Wiwektham-Tempel.\n\nAm Mittag fahren Sie in Richtung Stadtzentrum zum Demokratiedenkmal. Genießen Sie eine kurze, moderne Pause im Hugz Mall.\n\nAm Nachmittag radeln Sie zum Marshal Sarit Denkmal hinauf. Schließlich erreichen Sie das weitläufige Nationalmuseum, um antike Artefakte zu bewundern.\n\nBeenden Sie Ihre Radtour am späten Nachmittag. Dieses perfekte Timing lässt Sie in der Nähe des Museums, bereit für ein frühes Abendessen.",
+        "hu": "Kezdje reggeli kerékpártúráját a tónál lévő Városi Múzeumnál, hogy megismerje a történelmet. Ezután tekerjen a békés Wiwektham templomhoz.\n\nDélben pedálozzon a városközpont felé a Demokrácia Emlékműhöz. Élvezzen egy rövid, modern szünetet a Hugz bevásárlóközpontban.\n\nDélután tekerjen fel a Marshal Sarit Emlékműhöz. Végül érje el a Khon Kaen Nemzeti Múzeumot, hogy ősi tárgyakat csodáljon meg.\n\nFejezze be a túrát késő délután. Ez a tökéletes időzítés a múzeum közelében hagyja Önt, készen egy korai autentikus vacsorára.",
+        "ro": "Începeți plimbarea de dimineață la Muzeul Orașului de lângă lac. Apoi pedalați până la seninul Templu Wiwektham pentru a experimenta spiritualitatea locală.\n\nLa prânz, pedalați spre centrul orașului pentru Monumentul Democrației. Bucurați-vă de o scurtă pauză modernă la Hugz Mall.\n\nDupă-amiaza, mergeți la Monumentul Marshal Sarit. În cele din urmă, ajungeți la vastul Muzeu Național Khon Kaen pentru a admira artefactele.\n\nÎncheiați-vă plimbarea cu bicicleta spre seară. Acest moment perfect vă lasă lângă muzeu, gata pentru o cină timpurie autentică.",
+        "en": "Start your morning ride at the City Museum by the lake to learn local history. Then cycle to the serene Wiwektham Temple to experience local spirituality.\n\nBy midday, pedal towards the city center to see the Democracy Monument. Enjoy a brief, modern break at Hugz Mall before continuing.\n\nIn the afternoon, cycle up to the Marshal Sarit Monument. Finally, reach the expansive Khon Kaen National Museum to admire ancient artifacts.\n\nWrap up your bike trip by late afternoon. This perfect timing leaves you near the museum grounds, ready for an early authentic dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hong Mun Mang Stadtmuseum",
+            "hu": "Hong Mun Mang Városi Múzeum",
+            "ro": "Muzeul Orașului Hong Mun Mang",
+            "en": "Hong Mun Mang Khon Kaen City Museum"
+          },
+          "coords": [
+            102.839061,
+            16.419611
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in das lokale Erbe und die Ursprünge der Stadt ein und beginnen Sie Ihren Tag hier, um die Region zu verstehen.",
+            "hu": "Merüljön el a város helyi örökségében és eredetében az interaktív kiállításokon keresztül, és kezdje itt a napot, hogy megértse a régió kontextusát.",
+            "ro": "Aprofundați moștenirea locală și originile orașului prin expoziții interactive, începând ziua aici pentru a înțelege contextul întregii regiuni.",
+            "en": "Dive into the local heritage and origins of the city through interactive displays, starting your day here to gain context for the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Demokratiedenkmal",
+            "hu": "Demokrácia Emlékmű",
+            "ro": "Monumentul Democrației",
+            "en": "Democracy Monument"
+          },
+          "coords": [
+            102.829227,
+            16.431132
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Symbol der thailändischen Politikgeschichte und kommen Sie am besten früh, bevor der Verkehr am Kreisverkehr zunimmt.",
+            "hu": "Csodálja meg a thai politikai történelem e központi szimbólumát, és érdemes korán érkezni, mielőtt a körforgalom körüli déli forgalom felerősödik.",
+            "ro": "Admirați acest simbol central al istoriei politice thailandeze, având grijă să vizitați devreme înainte ca traficul să se aglomereze la sensul giratoriu.",
+            "en": "Admire this central symbol of Thai political history, making sure to visit early before the midday traffic picks up around the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Khon Kaen",
+            "hu": "Khon Kaen Nemzeti Múzeum",
+            "ro": "Muzeul Național Khon Kaen",
+            "en": "Khon Kaen National Museum"
+          },
+          "coords": [
+            102.838659,
+            16.446143
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem sehenswerten Museum außergewöhnliche Dvaravati-Kunst und Isan-Antiquitäten und planen Sie mindestens zwei Stunden für die Ausstellungen ein.",
+            "hu": "Fedezze fel a kivételes Dvaravati művészetet és az isani régiségeket ebben a fontos múzeumban, legalább két órát szánva a lenyűgöző kiállításokra.",
+            "ro": "Descoperiți arta extraordinară Dvaravati și antichitățile Isan în acest muzeu esențial, alocând cel puțin două ore pentru a aprecia pe deplin exponatele.",
+            "en": "Discover extraordinary Dvaravati art and Isan antiquities in this essential museum, allocating at least two hours to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturhistorisches Museum der Khon Kaen Universität",
+            "hu": "Khon Kaen Egyetem Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Universitatea Khon Kaen",
+            "en": "Natural History Museum Khon Kaen University"
+          },
+          "coords": [
+            102.810914,
+            16.445818
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden, in Thailand gefundenen Dinosaurierfossilien und tragen Sie bequeme Schuhe, da das Museum mehrere große Hallen umfasst.",
+            "hu": "Csodálja meg a Thaiföldön feltárt lenyűgöző dinoszaurusz fosszíliákat, és viseljen kényelmes cipőt, mivel a múzeum több nagy csarnokot foglal magába.",
+            "ro": "Admirați impresionantele fosile de dinozaur descoperite în Thailanda și purtați pantofi comozi, deoarece muzeul se întinde pe câteva săli mari.",
+            "en": "Marvel at the impressive dinosaur fossils unearthed in Thailand, and wear comfortable walking shoes as the museum spans several large halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunst- und Kulturmuseum der Universität",
+            "hu": "Egyetemi Művészeti és Kulturális Múzeum",
+            "ro": "Muzeul de Artă și Cultură al Universității",
+            "en": "Art and Culture University Museum"
+          },
+          "coords": [
+            102.814523,
+            16.445115
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die wunderschöne traditionelle Architektur und das regionale Kunsthandwerk, besonders die Außenausstellungen wirken im Nachmittagslicht lebendig.",
+            "hu": "Élvezze a gyönyörű hagyományos építészetet és a regionális kézművességet, és tekintse meg a szabadtéri falusi kiállításokat, amelyek délutáni fényben pompáznak.",
+            "ro": "Bucurați-vă de arhitectura tradițională frumoasă și de meșteșugurile regionale, vizitând expozițiile în aer liber care arată vibrant în lumina după-amiezii.",
+            "en": "Enjoy beautiful traditional architecture and regional crafts, visiting the outdoor village displays which look especially vibrant in the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie gleich morgens zum Hong Mun Mang Museum, um die Ursprünge der Stadt zu entdecken. Machen Sie danach einen kurzen Halt am Demokratiedenkmal.\n\nFahren Sie am Mittag nach Norden zum Nationalmuseum Khon Kaen. Hier können Sie die berühmten Dvaravati-Artefakte und die lokale Archäologie bewundern.\n\nFahren Sie am Nachmittag zum Universitätscampus, um das Naturhistorische Museum zu erkunden. Seine Dinosaurierausstellungen sind ein Highlight.\n\nBeenden Sie Ihren Ausflug im Kunst- und Kulturmuseum auf dem Campus. Genießen Sie die ruhige akademische Atmosphäre und die traditionellen Holzgebäude.",
+        "hu": "Reggel elsőként vezessen a Hong Mun Mang Múzeumhoz, hogy felfedezze a város eredetét. Ezután tartson egy gyors pihenőt a Demokrácia Emlékműnél.\n\nDélben induljon északra a Khon Kaen Nemzeti Múzeum felé. Itt megcsodálhatja a híres Dvaravati leleteket és a helyi régészetet.\n\nDélután vezessen ki az egyetemi kampuszra, hogy felfedezze a Természettudományi Múzeumot. Az itt található dinoszaurusz kiállítások a régió fénypontjai.\n\nFejezze be autós túráját a kampuszon lévő Művészeti és Kulturális Múzeumban. Élvezze a csendes egyetemi légkört és a hagyományos faépületeket a nap végén.",
+        "ro": "Conduceți la Muzeul Hong Mun Mang la prima oră a dimineții pentru a descoperi originile orașului. Apoi, faceți o scurtă oprire la Monumentul Democrației.\n\nLa prânz, mergeți ușor spre nord către Muzeul Național Khon Kaen. Aici puteți admira faimoasele artefacte Dvaravati și arheologia locală.\n\nDupă-amiaza, conduceți la campusul universitar pentru a explora Muzeul de Istorie Naturală. Expozițiile sale impresionante cu dinozauri sunt un punct de atracție.\n\nÎncheiați excursia la Muzeul de Artă și Cultură din campus. Bucurați-vă de atmosfera liniștită academică și de structurile tradiționale din lemn.",
+        "en": "Drive to the Hong Mun Mang Museum first thing in the morning to uncover the city's origins. Afterward, make a quick stop at the central Democracy Monument.\n\nBy midday, head slightly north to the Khon Kaen National Museum. Here you can admire the famous Dvaravati artifacts and intricate local archaeology.\n\nIn the afternoon, drive out to the university campus to explore the Natural History Museum. Its impressive dinosaur exhibits are a highlight of the region.\n\nConclude your road trip at the Art and Culture Museum on campus. Enjoy the quiet academic atmosphere and traditional wooden structures as the day ends."
+      }
+    }
+  }
+}

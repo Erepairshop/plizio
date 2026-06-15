@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-cee-cities-v2",
+  "anchor": {
+    "name": "Cee",
+    "coords": [
+      -9.19664,
+      42.96031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 3.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Brens",
+            "hu": "Praia de Brens",
+            "ro": "Praia de Brens",
+            "en": "Praia de Brens"
+          },
+          "coords": [
+            -9.175153,
+            42.944054
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem ruhigen, industrienah gelegenen Strand, wo Sie Fischerboote beobachten und einen sanften Morgenspaziergang am Wasser genießen können.",
+            "hu": "Kezdje látogatását ezen a nyugodt, ipari jellegű part mentén, ahol megfigyelheti a helyi halászhajókat, miközben egy kellemes reggeli sétát tesz a víz partján.",
+            "ro": "Începeți vizita la această plajă liniștită, adiacentă zonei industriale, unde puteți urmări bărcile de pescuit locale în timp ce vă bucurați de o plimbare matinală blândă.",
+            "en": "Start your visit at this calm industrial-adjacent beach where you can watch local fishing boats while enjoying a gentle morning stroll along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Caudeliño",
+            "hu": "Praia do Caudeliño",
+            "ro": "Praia do Caudeliño",
+            "en": "Praia do Caudeliño"
+          },
+          "coords": [
+            -9.171277,
+            42.934482
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses verborgene Juwel bietet eine perfekt abgelegene felsige Küstenlinie, also denken Sie an festes Schuhwerk, um die faszinierenden Gezeitentümpel zu erkunden.",
+            "hu": "Ez a rejtett gyöngyszem tökéletesen eldugott sziklás partvonalat kínál, ezért viseljen masszív cipőt a zord parton elszórt lenyűgöző árapály-medencék felfedezéséhez.",
+            "ro": "Această bijuterie ascunsă oferă o coastă stâncoasă perfect izolată, așa că nu uitați să purtați încălțăminte rezistentă pentru a explora piscinele de maree fascinante.",
+            "en": "This hidden gem offers a perfectly secluded rocky shoreline, so remember to wear sturdy shoes for exploring the fascinating tidal pools dotting the rugged coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Illote",
+            "hu": "Praia do Illote",
+            "ro": "Praia do Illote",
+            "en": "Praia do Illote"
+          },
+          "coords": [
+            -9.170565,
+            42.930873
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser von einem winzigen Sandstrand und einem malerischen Inselchen geprägte Ort ist ideal für einen kurzen Fotostopp und einen Moment friedlicher Kontemplation.",
+            "hu": "A miniatűr homokos szakasz és a festői szigetecske által jellemzett helyszín ideális egy rövid fotós szünethez és egy pillanatnyi békés elmélkedéshez a tengerparton.",
+            "ro": "Caracterizat de o fâșie miniaturală de nisip și o insuliță pitorească, acest loc este ideal pentru o scurtă oprire fotografică și un moment de contemplare pașnică.",
+            "en": "Characterized by its miniature sandy stretch and picturesque islet, this spot is ideal for a brief photography stop and a moment of peaceful contemplation by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo",
+            "hu": "O Castelo",
+            "ro": "O Castelo",
+            "en": "O Castelo"
+          },
+          "coords": [
+            -9.185274,
+            42.929141
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser erhöhte Felsvorsprung bietet einen weiten Panoramablick auf die gesamte Flussmündung und ist der beste Aussichtspunkt, um die dramatische galizische Küste zu bewundern.",
+            "hu": "A teljes torkolatra nyíló panorámás kilátást nyújtó, magaslati sziklás kiemelkedés a lehető legjobb kilátópont a drámai galíciai partvidék megcsodálásához.",
+            "ro": "Oferind vederi panoramice ample asupra întregului estuar, acest promontoriu stâncos înalt este absolut cel mai bun punct de observație pentru a aprecia coasta galiciană.",
+            "en": "Offering sweeping panoramic views of the entire estuary, this elevated rocky outcropping is the absolute best vantage point to appreciate the dramatic Galician coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "A Coviña",
+            "hu": "A Coviña",
+            "ro": "A Coviña",
+            "en": "A Coviña"
+          },
+          "coords": [
+            -9.186734,
+            42.926041
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser tief eingeschnittenen, geschützten Bucht, wo das unglaublich ruhige Wasser dazu einlädt, sich vollkommen zu entspannen.",
+            "hu": "Fejezze be sétáját ebben a mélyen fekvő, védett öbölben, ahol a hihetetlenül nyugodt és tiszta víz teljes kikapcsolódásra és egy frissítő lábfürdőre csábít.",
+            "ro": "Încheiați plimbarea la acest golf adânc și adăpostit, unde apele incredibil de calme și limpezi vă invită să vă relaxați complet și poate să vă înmuiați picioarele.",
+            "en": "End your walk at this deeply recessed, sheltered cove where the incredibly calm and clear waters invite you to relax fully and perhaps dip your feet before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Praia de Brens mit ruhigem Wasser und industriellem Charme. Mittags erkunden Sie die rauen Felsenpools von Caudeliño und den malerischen kleinen Sandstrand der Praia do Illote. Am Nachmittag steigen Sie zum O Castelo hinauf, um atemberaubende Ausblicke zu genießen. Der Abend bringt Entspannung in der geschützten Bucht von A Coviña.",
+        "hu": "A reggel a Praia de Brens strandon kezdődik, amely nyugodt vizeket és ipari bájt kínál. Délben felfedezheti a Caudeliño sziklás medencéit és a Praia do Illote miniatűr homokját. Délután az O Castelo magaslatára kapaszkodik fel a galíciai partvidékre nyíló lélegzetelállító kilátásért. Az este a védett A Coviña öbölben nyújt teljes kikapcsolódást.",
+        "ro": "Dimineața începe la Praia de Brens, oferind ape calme și farmec industrial. La prânz explorați bazinele stâncoase de la Caudeliño și nisipurile pitorești în miniatură de la Praia do Illote. După-amiaza urcați la O Castelo pentru vederi panoramice uluitoare asupra coastei galiciene. Seara aduce relaxare la golful protejat A Coviña.",
+        "en": "Morning begins at Praia de Brens, offering calm waters and industrial charm. Midday finds you exploring the rugged rock pools of Caudeliño and the scenic miniature sands of Praia do Illote. In the afternoon, you ascend O Castelo for breathtaking panoramic views of the Galician coast. Evening brings relaxation at the sheltered cove of A Coviña."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Brens",
+            "hu": "Praia de Brens",
+            "ro": "Praia de Brens",
+            "en": "Praia de Brens"
+          },
+          "coords": [
+            -9.175153,
+            42.944054
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem ruhigen, industrienah gelegenen Strand, wo Sie Fischerboote beobachten und einen sanften Morgenspaziergang am Wasser genießen können.",
+            "hu": "Kezdje látogatását ezen a nyugodt, ipari jellegű part mentén, ahol megfigyelheti a helyi halászhajókat, miközben egy kellemes reggeli sétát tesz a víz partján.",
+            "ro": "Începeți vizita la această plajă liniștită, adiacentă zonei industriale, unde puteți urmări bărcile de pescuit locale în timp ce vă bucurați de o plimbare matinală blândă.",
+            "en": "Start your visit at this calm industrial-adjacent beach where you can watch local fishing boats while enjoying a gentle morning stroll along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Caudeliño",
+            "hu": "Praia do Caudeliño",
+            "ro": "Praia do Caudeliño",
+            "en": "Praia do Caudeliño"
+          },
+          "coords": [
+            -9.171277,
+            42.934482
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses verborgene Juwel bietet eine perfekt abgelegene felsige Küstenlinie, also denken Sie an festes Schuhwerk, um die faszinierenden Gezeitentümpel zu erkunden.",
+            "hu": "Ez a rejtett gyöngyszem tökéletesen eldugott sziklás partvonalat kínál, ezért viseljen masszív cipőt a zord parton elszórt lenyűgöző árapály-medencék felfedezéséhez.",
+            "ro": "Această bijuterie ascunsă oferă o coastă stâncoasă perfect izolată, așa că nu uitați să purtați încălțăminte rezistentă pentru a explora piscinele de maree fascinante.",
+            "en": "This hidden gem offers a perfectly secluded rocky shoreline, so remember to wear sturdy shoes for exploring the fascinating tidal pools dotting the rugged coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Illote",
+            "hu": "Praia do Illote",
+            "ro": "Praia do Illote",
+            "en": "Praia do Illote"
+          },
+          "coords": [
+            -9.170565,
+            42.930873
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser von einem winzigen Sandstrand und einem malerischen Inselchen geprägte Ort ist ideal für einen kurzen Fotostopp und einen Moment friedlicher Kontemplation.",
+            "hu": "A miniatűr homokos szakasz és a festői szigetecske által jellemzett helyszín ideális egy rövid fotós szünethez és egy pillanatnyi békés elmélkedéshez a tengerparton.",
+            "ro": "Caracterizat de o fâșie miniaturală de nisip și o insuliță pitorească, acest loc este ideal pentru o scurtă oprire fotografică și un moment de contemplare pașnică.",
+            "en": "Characterized by its miniature sandy stretch and picturesque islet, this spot is ideal for a brief photography stop and a moment of peaceful contemplation by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo",
+            "hu": "O Castelo",
+            "ro": "O Castelo",
+            "en": "O Castelo"
+          },
+          "coords": [
+            -9.185274,
+            42.929141
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser erhöhte Felsvorsprung bietet einen weiten Panoramablick auf die gesamte Flussmündung und ist der beste Aussichtspunkt, um die dramatische galizische Küste zu bewundern.",
+            "hu": "A teljes torkolatra nyíló panorámás kilátást nyújtó, magaslati sziklás kiemelkedés a lehető legjobb kilátópont a drámai galíciai partvidék megcsodálásához.",
+            "ro": "Oferind vederi panoramice ample asupra întregului estuar, acest promontoriu stâncos înalt este absolut cel mai bun punct de observație pentru a aprecia coasta galiciană.",
+            "en": "Offering sweeping panoramic views of the entire estuary, this elevated rocky outcropping is the absolute best vantage point to appreciate the dramatic Galician coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Muíños",
+            "hu": "Praia dos Muíños",
+            "ro": "Praia dos Muíños",
+            "en": "Praia dos Muíños"
+          },
+          "coords": [
+            -9.20861,
+            42.929164
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Dieser nach historischen Mühlen benannte, weitläufige weiße Sandstrand eignet sich perfekt zum Schwimmen, also bringen Sie ein Handtuch für einen gemütlichen Nachmittag mit.",
+            "hu": "A történelmi malmokról elnevezett, kiterjedt fehér homokos strand tökéletes fürdőzésre és napozásra, ezért hozzon magával egy kényelmes törölközőt a tiszta kikapcsolódáshoz.",
+            "ro": "Numită după morile istorice, această plajă vastă cu nisip alb este perfectă pentru înot și plajă, așa că aduceți un prosop confortabil pentru o după-amiază de relaxare.",
+            "en": "Named after historic mills, this expansive white sandy beach is perfect for swimming and sunbathing, so bring a comfortable towel and prepare for an afternoon of pure leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cova",
+            "hu": "Praia da Cova",
+            "ro": "Praia da Cova",
+            "en": "Praia da Cova"
+          },
+          "coords": [
+            -9.214671,
+            42.93109
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Versteckt unter dramatischen Klippen bietet dieser etwas wilde Strand eine spektakuläre landschaftliche Isolation, was ihn zu einem hervorragenden Ort für ein ruhiges Picknick macht.",
+            "hu": "A drámai sziklák alatt megbúvó, kissé vad tengerpart látványos festői elszigeteltséget nyújt, így kiváló helyszín egy csendes piknikhez a helyi finomságokkal.",
+            "ro": "Ascunsă sub stânci dramatice, această plajă oarecum sălbatică oferă o izolare pitorească spectaculoasă, fiind un loc excelent pentru un picnic liniștit.",
+            "en": "Tucked away beneath dramatic cliffs, this somewhat wild beach provides spectacular scenic isolation, making it an excellent spot for a quiet picnic with locally sourced treats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt an der Praia de Brens, bevor Sie zu den felsigen Rückzugsorten Caudeliño und Illote radeln. Mittags genießen Sie vom O Castelo aus spektakuläre Ausblicke auf die Mündung. Der Nachmittag ist perfekt zum Schwimmen am weitläufigen Strand Praia dos Muíños. Ihre Reise endet am späten Nachmittag an der wilden Praia da Cova.",
+        "hu": "Kezdje a biciklizést a Praia de Brens-nél, mielőtt a Caudeliño és az Illote sziklás menedékhelyeire tekerne. A délidő látványos torkolati kilátást hoz az O Castelo magaslatairól. A délután tökéletes úszásra a hatalmas Praia dos Muíños strandon. Utazása késő délután a vad, sziklákkal szegélyezett Praia da Cova partszakaszán ér véget.",
+        "ro": "Începeți cursa la Praia de Brens înainte de a pedala spre refugiile stâncoase Caudeliño și Illote. Prânzul aduce vederi spectaculoase ale estuarului de pe înălțimile O Castelo. După-amiaza este perfectă pentru înot la plaja întinsă Praia dos Muíños. Călătoria dumneavoastră se încheie la sfârșitul după-amiezii la sălbatica Praia da Cova.",
+        "en": "Kick off your ride at Praia de Brens before pedaling down to the rocky retreats of Caudeliño and Illote. Midday brings spectacular estuary views from the heights of O Castelo. Afternoon is perfect for swimming at the expansive Praia dos Muíños. Your journey concludes in the late afternoon at Praia da Cova with its wild, cliff-lined beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Restrelo",
+            "hu": "Praia de Restrelo",
+            "ro": "Praia de Restrelo",
+            "en": "Praia de Restrelo"
+          },
+          "coords": [
+            -9.226614,
+            42.941224
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fangen Sie die ersten Sonnenstrahlen an diesem weiten Küstenabschnitt am offenen Meer ein, wo die frische Meeresbrise einen majestätischen Start in Ihren Tag bietet.",
+            "hu": "Fogja be a nap első sugarait ezen a nyílt óceánra néző széles partszakaszon, ahol a friss tengeri szellő fenséges indítást nyújt a napnak.",
+            "ro": "Prindeți primele raze de soare pe această porțiune largă de coastă cu fața spre oceanul deschis, unde briza proaspătă a mării oferă un început maiestuos al zilei.",
+            "en": "Catch the first rays of the sun at this wide coastal stretch facing the open ocean, where the fresh sea breeze provides a perfect, majestic start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cova",
+            "hu": "Praia da Cova",
+            "ro": "Praia da Cova",
+            "en": "Praia da Cova"
+          },
+          "coords": [
+            -9.214671,
+            42.93109
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Versteckt unter dramatischen Klippen bietet dieser etwas wilde Strand eine spektakuläre landschaftliche Isolation, was ihn zu einem hervorragenden Ort für ein ruhiges Picknick macht.",
+            "hu": "A drámai sziklák alatt megbúvó, kissé vad tengerpart látványos festői elszigeteltséget nyújt, így kiváló helyszín egy csendes piknikhez a helyi finomságokkal.",
+            "ro": "Ascunsă sub stânci dramatice, această plajă oarecum sălbatică oferă o izolare pitorească spectaculoasă, fiind un loc excelent pentru un picnic liniștit.",
+            "en": "Tucked away beneath dramatic cliffs, this somewhat wild beach provides spectacular scenic isolation, making it an excellent spot for a quiet picnic with locally sourced treats."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Muíños",
+            "hu": "Praia dos Muíños",
+            "ro": "Praia dos Muíños",
+            "en": "Praia dos Muíños"
+          },
+          "coords": [
+            -9.20861,
+            42.929164
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser nach historischen Mühlen benannte, weitläufige weiße Sandstrand eignet sich perfekt zum Schwimmen, also bringen Sie ein Handtuch für eine erfrischende Pause mit.",
+            "hu": "A történelmi malmokról elnevezett, kiterjedt fehér homokos strand tökéletes fürdőzésre, ezért hozzon magával egy kényelmes törölközőt egy frissítő pihenőhöz.",
+            "ro": "Numită după morile istorice, această plajă vastă cu nisip alb este perfectă pentru înot, așa că aduceți un prosop confortabil pentru o pauză revigorantă.",
+            "en": "Named after historic mills, this expansive white sandy beach is perfect for swimming, so bring a comfortable towel and prepare for a refreshing midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo",
+            "hu": "O Castelo",
+            "ro": "O Castelo",
+            "en": "O Castelo"
+          },
+          "coords": [
+            -9.185274,
+            42.929141
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Dieser erhöhte Felsvorsprung bietet einen weiten Panoramablick auf die gesamte Flussmündung und ist der beste Aussichtspunkt, um die dramatische galizische Küste zu bewundern.",
+            "hu": "A teljes torkolatra nyíló panorámás kilátást nyújtó, magaslati sziklás kiemelkedés a lehető legjobb kilátópont a drámai galíciai partvidék megcsodálásához.",
+            "ro": "Oferind vederi panoramice ample asupra întregului estuar, acest promontoriu stâncos înalt este absolut cel mai bun punct de observație pentru a aprecia coasta galiciană.",
+            "en": "Offering sweeping panoramic views of the entire estuary, this elevated rocky outcropping is the absolute best vantage point to appreciate the dramatic Galician coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "A Coviña",
+            "hu": "A Coviña",
+            "ro": "A Coviña",
+            "en": "A Coviña"
+          },
+          "coords": [
+            -9.186734,
+            42.926041
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Legen Sie eine Pause an dieser tief eingeschnittenen, geschützten Bucht ein, wo das unglaublich ruhige Wasser dazu einlädt, sich nach der Fahrt vollkommen zu entspannen.",
+            "hu": "Tartson egy kis szünetet ebben a mélyen fekvő, védett öbölben, ahol a hihetetlenül nyugodt és tiszta víz teljes kikapcsolódásra csábít a vezetés után.",
+            "ro": "Faceți o pauză la acest golf adânc și adăpostit, unde apele incredibil de calme vă invită să vă relaxați complet după condus.",
+            "en": "Take a break at this deeply recessed, sheltered cove where the incredibly calm and clear waters invite you to relax fully after your drive along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Brens",
+            "hu": "Praia de Brens",
+            "ro": "Praia de Brens",
+            "en": "Praia de Brens"
+          },
+          "coords": [
+            -9.175153,
+            42.944054
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem ruhigen, industrienah gelegenen Strand, wo Sie Fischerboote beobachten und die abendliche Ruhe am Wasser genießen können.",
+            "hu": "Zárja a napot ezen a nyugodt, ipari jellegű part mentén, ahol megfigyelheti a helyi halászhajókat, miközben élvezi az esti nyugalmat a víz partján.",
+            "ro": "Încheiați ziua la această plajă liniștită, adiacentă zonei industriale, unde puteți urmări bărcile de pescuit locale în timp ce vă bucurați de liniștea serii.",
+            "en": "End your day at this calm industrial-adjacent beach where you can watch local fishing boats while enjoying the evening serenity along the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der morgendlichen Ruhe an der weitläufigen Praia de Restrelo, bevor Sie zur abgelegenen Praia da Cova fahren. Der Mittag lädt zu einer erfrischenden Pause an der Praia dos Muíños und zum weiten Küstenblick vom O Castelo ein. Erkunden Sie nachmittags die A Coviña und lassen Sie den Tag an der Praia de Brens ausklingen.",
+        "hu": "Kezdje a reggeli nyugalmat a tágas Praia de Restrelo-n, mielőtt az eldugott, sziklákkal körülölelt Praia da Cova-hoz hajtana. A délidő frissítő pihenőre csábít a Praia dos Muíños-on és hatalmas parti kilátásra az O Castelo-ról. Töltse a délutánt az A Coviña felfedezésével, majd zárja a napot a Praia de Brens strandon.",
+        "ro": "Începeți cu liniștea matinală la întinsa Praia de Restrelo înainte de a conduce spre Praia da Cova, izolată de stânci. Prânzul invită la o pauză răcoritoare la Praia dos Muíños și la vederi costiere ample de la O Castelo. Petreceți după-amiaza explorând A Coviña, apoi încheiați ziua la Praia de Brens.",
+        "en": "Start with morning tranquility at the expansive Praia de Restrelo before driving to the secluded, cliff-hugged Praia da Cova. Midday invites a refreshing break at Praia dos Muíños and sweeping coastal views from O Castelo. Spend your afternoon exploring the sheltered depths of A Coviña, then wrap up your day at Praia de Brens."
+      }
+    }
+  }
+}

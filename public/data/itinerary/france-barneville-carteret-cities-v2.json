@@ -1,0 +1,543 @@
+{
+  "city_id": "france-barneville-carteret-cities-v2",
+  "anchor": {
+    "name": "Barneville-Carteret",
+    "coords": [
+      -1.75283,
+      49.38153
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            -1.751326,
+            49.380834
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Wehrturm dieser romanischen Kirche, ein Zeugnis der bewegten Geschichte der Region, und besuchen Sie sie am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg e román stílusú templom lenyűgöző erődített tornyát, amely a régió viharos történelméről tanúskodik, és látogasson el kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați turnul fortificat impresionant al acestei biserici romanice, o mărturie a istoriei zbuciumate a regiunii, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the striking fortified tower of this Romanesque church, a testament to the region's turbulent history, and visit early in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Barneville",
+            "hu": "Manoir de Barneville",
+            "ro": "Manoir de Barneville",
+            "en": "Manoir de Barneville"
+          },
+          "coords": [
+            -1.740561,
+            49.385644
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, das traditionelle normannische Architektur zeigt, und achten Sie auf die aufwendig geschnitzten Steinarbeiten rund um den Haupteingang.",
+            "hu": "Fedezze fel ezt a hagyományos normann építészetet bemutató történelmi udvarházat, és szánjon egy percet a főbejárat körüli bonyolultan faragott kőművesmunkák megfigyelésére.",
+            "ro": "Explorați acest conac istoric ce prezintă arhitectura tradițională normandă și acordați un moment pentru a observa detaliile sculptate în piatră din jurul intrării principale.",
+            "en": "Explore this historic manor showcasing traditional Norman architecture, and take a moment to notice the intricately carved stonework around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Graffard",
+            "hu": "Manoir de Graffard",
+            "ro": "Manoir de Graffard",
+            "en": "Manoir de Graffard"
+          },
+          "coords": [
+            -1.744821,
+            49.388342
+          ],
+          "category": "castle",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses befestigten Bauernhofs aus dem 16. Jahrhundert, der einen einzigartigen Einblick in das ländliche Adelsleben bietet, aber tragen Sie feste Schuhe, da das Gelände uneben sein kann.",
+            "hu": "Fedezze fel ennek a 16. századi erődített tanyának a romjait, amely egyedülálló bepillantást nyújt a vidéki nemesi életbe, de viseljen masszív cipőt, mivel a terep egyenetlen lehet.",
+            "ro": "Descoperiți ruinele acestei ferme fortificate din secolul al XVI-lea, care oferă o perspectivă unică asupra vieții nobiliare rurale, dar purtați încălțăminte rezistentă deoarece terenul poate fi accidentat.",
+            "en": "Discover the ruins of this 16th-century fortified farm, which offers a unique glimpse into rural noble life, but wear sturdy shoes as the grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.735894,
+            49.390147
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Kirche, um ihre bescheidenen, aber eleganten Buntglasfenster zu bewundern, und setzen Sie sich in die letzte Reihe, um die ruhige Atmosphäre aufzunehmen.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja szerény, de elegáns ólomüveg ablakait, és üljön a hátsó sorba, hogy teljesen magába szívja a nyugodt légkört.",
+            "ro": "Pășiți în această biserică liniștită pentru a-i aprecia vitraliile modeste, dar elegante, și așezați-vă în ultimul rând pentru a absorbi pe deplin atmosfera calmă.",
+            "en": "Step inside this peaceful church to appreciate its modest yet elegant stained glass windows, and sit in the back row to fully absorb the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Trois Moulins",
+            "hu": "Les Trois Moulins",
+            "ro": "Les Trois Moulins",
+            "en": "Les Trois Moulins"
+          },
+          "coords": [
+            -1.754328,
+            49.400307
+          ],
+          "category": "landmark",
+          "arrive_at": "14:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen ikonischen Windmühlen hinauf, um einen Panoramablick auf die umliegende Landschaft zu genießen, und bringen Sie eine Windjacke mit, da die Brise hier oben sehr stark sein kann.",
+            "hu": "Túrázzon fel ezekhez az ikonikus szélmalmokhoz, hogy élvezze a környező táj panorámáját, és hozzon magával széldzsekit, mert a hegytetőn a szellő meglehetősen erős lehet.",
+            "ro": "Urcați până la aceste mori de vânt emblematice pentru a vă bucura de o vedere panoramică asupra peisajului înconjurător și aduceți o jachetă de vânt, deoarece briza pe deal poate fi destul de puternică.",
+            "en": "Hike up to these iconic windmills to enjoy a panoramic view of the surrounding landscape, and bring a windbreaker as the hilltop breeze can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Barneville-Carteret und tauchen Sie in das historische Herz der Stadt ein, beginnend mit der romanischen Architektur der Église Saint-Germain. Gegen Mittag bringt Sie ein kurzer Spaziergang zum faszinierenden Manoir de Barneville, wo normannisches Erbe lebendig wird. Am Nachmittag erkunden Sie die rustikalen Ruinen des Manoir de Graffard und finden Ruhe in der abgeschiedenen Église Notre-Dame. Der Abend belohnt Ihre Wanderung mit einem unvergesslichen Aufstieg zu Les Trois Moulins, der spektakuläre Ausblicke im Sonnenuntergang bietet.",
+        "hu": "Kezdje a reggelt Barneville-Carteret történelmi központjában, az Église Saint-Germain lenyűgöző román stílusú építészetével. Ahogy közeledik a dél, egy rövid séta elvezeti a lenyűgöző Manoir de Barneville-hez, ahol az ősi normann örökség elevenedik meg. Délután felfedezi a Manoir de Graffard rusztikus romjait, majd a félreeső Église Notre-Dame nyújt békés pillanatokat. Az estét a Les Trois Moulins felé vezető emlékezetes séta koronázza meg, ahonnan látványos panoráma nyílik a naplementében.",
+        "ro": "Începeți dimineața în Barneville-Carteret cufundându-vă în inima istorică a orașului, începând cu arhitectura romanică a Église Saint-Germain. Pe la prânz, o scurtă plimbare vă aduce la fascinantul Manoir de Barneville, unde prinde viață moștenirea normandă. După-amiaza, veți explora ruinele rustice de la Manoir de Graffard și veți găsi un moment de liniște la Église Notre-Dame. Seara vă răsplătește plimbarea cu o ascensiune memorabilă la Les Trois Moulins, oferind vederi panoramice spectaculoase.",
+        "en": "Begin your morning in Barneville-Carteret by immersing yourself in the historic heart of the town, starting with the striking Romanesque architecture of Église Saint-Germain. As midday approaches, a short stroll brings you to the fascinating Manoir de Barneville, where the deep roots of Norman heritage come alive through ancient stones. In the afternoon, you will explore the rustic ruins of Manoir de Graffard and find a moment of peace at the secluded Église Notre-Dame. The evening rewards your walking journey with a memorable ascent to Les Trois Moulins, offering spectacular panoramic sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carteret",
+            "hu": "Carteret",
+            "ro": "Carteret",
+            "en": "Carteret"
+          },
+          "coords": [
+            -1.784244,
+            49.380107
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das charmante maritime Herz von Carteret, um die Küstenatmosphäre aufzusaugen, und holen Sie sich einen Kaffee in einem nahegelegenen Café, um die vorbeifahrenden Boote zu beobachten.",
+            "hu": "Sétáljon végig Carteret bájos tengeri központján, hogy magába szívja a tengerparti hangulatot, és igyon egy kávét egy közeli kávézóban, miközben figyeli az elhaladó hajókat.",
+            "ro": "Plimbați-vă prin inima maritimă fermecătoare a orașului Carteret pentru a absorbi atmosfera de coastă și savurați o cafea la o cafenea din apropiere pentru a privi bărcile care trec.",
+            "en": "Stroll through the charming maritime heart of Carteret to soak up its coastal vibe, and grab a coffee at a nearby café to watch the boats pass by."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain-le-Scot",
+            "hu": "Église Saint-Germain-le-Scot",
+            "ro": "Église Saint-Germain-le-Scot",
+            "en": "Église Saint-Germain-le-Scot"
+          },
+          "coords": [
+            -1.782154,
+            49.379924
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Küstenkirche, die Jahrhunderte der Seefahrtsgeschichte birgt, und betrachten Sie die verwitterten Grabsteine, die Geschichten von lokalen Seeleuten erzählen.",
+            "hu": "Látogasson el ebbe az ősi tengerparti templomba, amely évszázados tengerésztörténelmet őriz, és nézze meg közelebbről a viharvert sírköveket, amelyek a helyi tengerészek történeteit mesélik el.",
+            "ro": "Vizitați această biserică veche de coastă care păstrează secole de istorie maritimă și priviți îndeaproape pietrele funerare erodate care spun poveștile marinarilor locali.",
+            "en": "Visit this ancient coastal church which holds centuries of seafaring history, and look closely at the weathered tombstones that tell stories of local sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Havre de Carteret",
+            "hu": "Havre de Carteret",
+            "ro": "Havre de Carteret",
+            "en": "Havre de Carteret"
+          },
+          "coords": [
+            -1.776187,
+            49.375927
+          ],
+          "category": "landmark",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamischen Gezeiten dieser wunderschönen Flussmündung, ein wahres Paradies für Zugvögel, und denken Sie daran, den Gezeitenplan zu überprüfen, bevor Sie sich auf den Sand wagen.",
+            "hu": "Tapasztalja meg ennek a gyönyörű tölcsértorkolatnak a dinamikus árapályát, amely a költöző madarak igazi menedéke, és ne felejtse el ellenőrizni az árapály-menetrendet, mielőtt kimerészkedne a homokra.",
+            "ro": "Experimentați mareele dinamice ale acestui estuar superb, un adevărat refugiu pentru păsările migratoare, și amintiți-vă să verificați programul mareelor înainte de a vă aventura pe nisip.",
+            "en": "Experience the dynamic tides of this beautiful estuary, a true haven for migratory birds, and remember to check the tide schedule before venturing out on the sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Chimay",
+            "hu": "Château de Chimay",
+            "ro": "Château de Chimay",
+            "en": "Château de Chimay"
+          },
+          "coords": [
+            -1.767766,
+            49.365781
+          ],
+          "category": "castle",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Fassade dieser im Grünen versteckten aristokratischen Residenz und verwenden Sie ein Zoomobjektiv, um die feinen architektonischen Details aus der Ferne einzufangen.",
+            "hu": "Csodálja meg ennek a zöldellő növényzetben megbúvó arisztokrata rezidenciának az elegáns homlokzatát, és használjon teleobjektívet, hogy messziről megörökítse a finom építészeti részleteket.",
+            "ro": "Admirați fațada elegantă a acestei reședințe aristocratice ascunse în verdeață și folosiți un teleobiectiv pentru a surprinde detaliile arhitecturale fine de la distanță.",
+            "en": "Marvel at the elegant facade of this aristocratic residence tucked away in the greenery, and use a zoom lens to capture the fine architectural details from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            -1.751326,
+            49.380834
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Wehrturm dieser romanischen Kirche, ein Zeugnis der bewegten Geschichte der Region, und besuchen Sie sie am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg e román stílusú templom lenyűgöző erődített tornyát, amely a régió viharos történelméről tanúskodik, és látogasson el kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați turnul fortificat impresionant al acestei biserici romanice, o mărturie a istoriei zbuciumate a regiunii, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the striking fortified tower of this Romanesque church, a testament to the region's turbulent history, and visit early in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Graffard",
+            "hu": "Manoir de Graffard",
+            "ro": "Manoir de Graffard",
+            "en": "Manoir de Graffard"
+          },
+          "coords": [
+            -1.744821,
+            49.388342
+          ],
+          "category": "castle",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses befestigten Bauernhofs aus dem 16. Jahrhundert, der einen einzigartigen Einblick in das ländliche Adelsleben bietet, aber tragen Sie feste Schuhe, da das Gelände uneben sein kann.",
+            "hu": "Fedezze fel ennek a 16. századi erődített tanyának a romjait, amely egyedülálló bepillantást nyújt a vidéki nemesi életbe, de viseljen masszív cipőt, mivel a terep egyenetlen lehet.",
+            "ro": "Descoperiți ruinele acestei ferme fortificate din secolul al XVI-lea, care oferă o perspectivă unică asupra vieții nobiliare rurale, dar purtați încălțăminte rezistentă deoarece terenul poate fi accidentat.",
+            "en": "Discover the ruins of this 16th-century fortified farm, which offers a unique glimpse into rural noble life, but wear sturdy shoes as the grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Trois Moulins",
+            "hu": "Les Trois Moulins",
+            "ro": "Les Trois Moulins",
+            "en": "Les Trois Moulins"
+          },
+          "coords": [
+            -1.754328,
+            49.400307
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen ikonischen Windmühlen hinauf, um einen Panoramablick auf die umliegende Landschaft zu genießen, und bringen Sie eine Windjacke mit, da die Brise hier oben sehr stark sein kann.",
+            "hu": "Túrázzon fel ezekhez az ikonikus szélmalmokhoz, hogy élvezze a környező táj panorámáját, és hozzon magával széldzsekit, mert a hegytetőn a szellő meglehetősen erős lehet.",
+            "ro": "Urcați până la aceste mori de vânt emblematice pentru a vă bucura de o vedere panoramică asupra peisajului înconjurător și aduceți o jachetă de vânt, deoarece briza pe deal poate fi destul de puternică.",
+            "en": "Hike up to these iconic windmills to enjoy a panoramic view of the surrounding landscape, and bring a windbreaker as the hilltop breeze can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit der frischen Meeresbrise in Carteret und dem Charme der Église Saint-Germain-le-Scot. Gegen Mittag radeln Sie am dynamischen Havre de Carteret vorbei und bewundern die Eleganz des Château de Chimay. Der Nachmittag führt Sie ins historische Landesinnere, wo Sie die Église Saint-Germain und die mittelalterlichen Überreste des Manoir de Graffard erkunden. Ihr Tag endet mit einer malerischen Fahrt zu Les Trois Moulins, die einen atemberaubenden Aussichtspunkt bei Sonnenuntergang bietet.",
+        "hu": "Kezdje kerékpáros kalandját a friss tengeri szellővel Carteret-ben és az Église Saint-Germain-le-Scot part menti varázsával. Délben tekerjen el a dinamikus Havre de Carteret mellett, és csodálja meg a tájba simuló Château de Chimay eleganciáját. A délután a történelmi szárazföld felé irányul, ahol felfedezheti az Église Saint-Germain-t és a Manoir de Graffard középkori maradványait. A nap a Les Trois Moulins-hez vezető festői utazással zárul, amely lélegzetelállító naplementés kilátást nyújt.",
+        "ro": "Începeți aventura pe bicicletă bucurându-vă de briza mării la Carteret și de farmecul coastei la Église Saint-Germain-le-Scot. La prânz, pedalați pe lângă dinamicul Havre de Carteret și admirați eleganța Château de Chimay. După-amiaza vă îndreaptă spre interiorul istoric, unde veți explora Église Saint-Germain și rămășițele medievale de la Manoir de Graffard. Ziua se încheie cu o plimbare pitorească până la Les Trois Moulins, oferind o priveliște uluitoare la apus.",
+        "en": "Kick off your cycling adventure by taking in the crisp sea breeze at Carteret and the coastal charm of Église Saint-Germain-le-Scot. By midday, pedal past the dynamic Havre de Carteret and admire the distant elegance of Château de Chimay nestled in the landscape. The afternoon shifts towards the historic inland, where you can explore the solemn beauty of Église Saint-Germain and the medieval remnants of Manoir de Graffard. Your day concludes with a scenic ride up to Les Trois Moulins, providing a breathtaking sunset vantage point over the sweeping coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 9.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Trois Moulins",
+            "hu": "Les Trois Moulins",
+            "ro": "Les Trois Moulins",
+            "en": "Les Trois Moulins"
+          },
+          "coords": [
+            -1.754328,
+            49.400307
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen ikonischen Windmühlen hinauf, um einen Panoramablick auf die umliegende Landschaft zu genießen, und bringen Sie eine Windjacke mit, da die Brise hier oben sehr stark sein kann.",
+            "hu": "Túrázzon fel ezekhez az ikonikus szélmalmokhoz, hogy élvezze a környező táj panorámáját, és hozzon magával széldzsekit, mert a hegytetőn a szellő meglehetősen erős lehet.",
+            "ro": "Urcați până la aceste mori de vânt emblematice pentru a vă bucura de o vedere panoramică asupra peisajului înconjurător și aduceți o jachetă de vânt, deoarece briza pe deal poate fi destul de puternică.",
+            "en": "Hike up to these iconic windmills to enjoy a panoramic view of the surrounding landscape, and bring a windbreaker as the hilltop breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.735894,
+            49.390147
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Kirche, um ihre bescheidenen, aber eleganten Buntglasfenster zu bewundern, und setzen Sie sich in die letzte Reihe, um die ruhige Atmosphäre aufzunehmen.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja szerény, de elegáns ólomüveg ablakait, és üljön a hátsó sorba, hogy teljesen magába szívja a nyugodt légkört.",
+            "ro": "Pășiți în această biserică liniștită pentru a-i aprecia vitraliile modeste, dar elegante, și așezați-vă în ultimul rând pentru a absorbi pe deplin atmosfera calmă.",
+            "en": "Step inside this peaceful church to appreciate its modest yet elegant stained glass windows, and sit in the back row to fully absorb the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Barneville",
+            "hu": "Manoir de Barneville",
+            "ro": "Manoir de Barneville",
+            "en": "Manoir de Barneville"
+          },
+          "coords": [
+            -1.740561,
+            49.385644
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, das traditionelle normannische Architektur zeigt, und achten Sie auf die aufwendig geschnitzten Steinarbeiten rund um den Haupteingang.",
+            "hu": "Fedezze fel ezt a hagyományos normann építészetet bemutató történelmi udvarházat, és szánjon egy percet a főbejárat körüli bonyolultan faragott kőművesmunkák megfigyelésére.",
+            "ro": "Explorați acest conac istoric ce prezintă arhitectura tradițională normandă și acordați un moment pentru a observa detaliile sculptate în piatră din jurul intrării principale.",
+            "en": "Explore this historic manor showcasing traditional Norman architecture, and take a moment to notice the intricately carved stonework around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean",
+            "hu": "Église Saint-Jean",
+            "ro": "Église Saint-Jean",
+            "en": "Église Saint-Jean"
+          },
+          "coords": [
+            -1.735364,
+            49.369346
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Schlichtheit dieser historischen Kapelle auf dem Lande und ruhen Sie sich einen Moment auf den Steinbänken davor aus, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Élvezze ennek a vidéken megbúvó történelmi kápolnának a csendes egyszerűségét, és pihenjen meg egy pillanatra a kinti kőpadokon, mielőtt folytatná útját.",
+            "ro": "Bucurați-vă de simplitatea liniștită a acestei capele istorice ascunse la țară și odihniți-vă un moment pe băncile de piatră din exterior înainte de a vă continua călătoria.",
+            "en": "Enjoy the quiet simplicity of this historic chapel hidden in the countryside, and take a moment to rest on the stone benches outside before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            -1.729301,
+            49.365244
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den zeitlosen Charme dieser kleinen, dem Heiligen Georg gewidmeten Landkirche und schauen Sie am schwarzen Brett nach Informationen über lokale Gemeindeveranstaltungen.",
+            "hu": "Fedezze fel ennek a Szent Györgynek szentelt kis vidéki templomnak az időtlen varázsát, és nézze meg a hirdetőtáblán a helyi közösségi eseményekkel kapcsolatos információkat.",
+            "ro": "Descoperiți farmecul atemporal al acestei mici biserici rurale închinate Sfântului Gheorghe și verificați avizierul pentru informații despre evenimentele comunității locale.",
+            "en": "Discover the timeless charm of this small rural church dedicated to Saint George, and check the notice board for information on local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Chimay",
+            "hu": "Château de Chimay",
+            "ro": "Château de Chimay",
+            "en": "Château de Chimay"
+          },
+          "coords": [
+            -1.767766,
+            49.365781
+          ],
+          "category": "castle",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Fassade dieser im Grünen versteckten aristokratischen Residenz und verwenden Sie ein Zoomobjektiv, um die feinen architektonischen Details aus der Ferne einzufangen.",
+            "hu": "Csodálja meg ennek a zöldellő növényzetben megbúvó arisztokrata rezidenciának az elegáns homlokzatát, és használjon teleobjektívet, hogy messziről megörökítse a finom építészeti részleteket.",
+            "ro": "Admirați fațada elegantă a acestei reședințe aristocratice ascunse în verdeață și folosiți un teleobiectiv pentru a surprinde detaliile arhitecturale fine de la distanță.",
+            "en": "Marvel at the elegant facade of this aristocratic residence tucked away in the greenery, and use a zoom lens to capture the fine architectural details from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Havre de Carteret",
+            "hu": "Havre de Carteret",
+            "ro": "Havre de Carteret",
+            "en": "Havre de Carteret"
+          },
+          "coords": [
+            -1.776187,
+            49.375927
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamischen Gezeiten dieser wunderschönen Flussmündung, ein wahres Paradies für Zugvögel, und denken Sie daran, den Gezeitenplan zu überprüfen, bevor Sie sich auf den Sand wagen.",
+            "hu": "Tapasztalja meg ennek a gyönyörű tölcsértorkolatnak a dinamikus árapályát, amely a költöző madarak igazi menedéke, és ne felejtse el ellenőrizni az árapály-menetrendet, mielőtt kimerészkedne a homokra.",
+            "ro": "Experimentați mareele dinamice ale acestui estuar superb, un adevărat refugiu pentru păsările migratoare, și amintiți-vă să verificați programul mareelor înainte de a vă aventura pe nisip.",
+            "en": "Experience the dynamic tides of this beautiful estuary, a true haven for migratory birds, and remember to check the tide schedule before venturing out on the sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Carteret",
+            "hu": "Carteret",
+            "ro": "Carteret",
+            "en": "Carteret"
+          },
+          "coords": [
+            -1.784244,
+            49.380107
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das charmante maritime Herz von Carteret, um die Küstenatmosphäre aufzusaugen, und holen Sie sich einen Kaffee in einem nahegelegenen Café, um die vorbeifahrenden Boote zu beobachten.",
+            "hu": "Sétáljon végig Carteret bájos tengeri központján, hogy magába szívja a tengerparti hangulatot, és igyon egy kávét egy közeli kávézóban, miközben figyeli az elhaladó hajókat.",
+            "ro": "Plimbați-vă prin inima maritimă fermecătoare a orașului Carteret pentru a absorbi atmosfera de coastă și savurați o cafea la o cafenea din apropiere pentru a privi bărcile care trec.",
+            "en": "Stroll through the charming maritime heart of Carteret to soak up its coastal vibe, and grab a coffee at a nearby café to watch the boats pass by."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain-le-Scot",
+            "hu": "Église Saint-Germain-le-Scot",
+            "ro": "Église Saint-Germain-le-Scot",
+            "en": "Église Saint-Germain-le-Scot"
+          },
+          "coords": [
+            -1.782154,
+            49.379924
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Küstenkirche, die Jahrhunderte der Seefahrtsgeschichte birgt, und betrachten Sie die verwitterten Grabsteine, die Geschichten von lokalen Seeleuten erzählen.",
+            "hu": "Látogasson el ebbe az ősi tengerparti templomba, amely évszázados tengerésztörténelmet őriz, és nézze meg közelebbről a viharvert sírköveket, amelyek a helyi tengerészek történeteit mesélik el.",
+            "ro": "Vizitați această biserică veche de coastă care păstrează secole de istorie maritimă și priviți îndeaproape pietrele funerare erodate care spun poveștile marinarilor locali.",
+            "en": "Visit this ancient coastal church which holds centuries of seafaring history, and look closely at the weathered tombstones that tell stories of local sailors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit einem Panoramablick von Les Trois Moulins, bevor Sie die friedliche Église Notre-Dame besuchen. Der Mittag lädt Sie ein, im Manoir de Barneville und den ländlichen Heiligtümern Église Saint-Jean und Saint-Georges in die lokale Geschichte einzutauchen. Am Nachmittag fahren Sie an die Küste, um das herrschaftliche Château de Chimay und die Schönheit des Havre de Carteret zu sehen. Verbringen Sie schließlich einen entspannten Abend in Carteret und genießen Sie die maritime Atmosphäre.",
+        "hu": "Kezdje autós utazását a régió panorámájával a Les Trois Moulins felől, mielőtt meglátogatná a békés Église Notre-Dame-ot. A déli rész arra hívja, hogy elmélyedjen a helyi történelemben a Manoir de Barneville-ben és a festői vidéki szentélyekben. Ahogy a délután halad, vezessen a part felé, hogy megpillantsa a fenséges Château de Chimay-t és a Havre de Carteret természeti szépségét. Végül töltsön egy pihentető estét Carteret part menti enklávéjában, magába szívva a tengeri hangulatot.",
+        "ro": "Începeți călătoria cu mașina cu o vedere panoramică a regiunii de la Les Trois Moulins înainte de a vizita liniștita Église Notre-Dame. Segmentul de prânz vă invită să explorați istoria locală la Manoir de Barneville și sanctuarele rurale Saint-Jean și Saint-Georges. Pe măsură ce după-amiaza progresează, conduceți spre coastă pentru a zări impunătorul Château de Chimay și frumusețea naturală a Havre de Carteret. În cele din urmă, petreceți o seară relaxantă în enclava de coastă Carteret.",
+        "en": "Start your road trip with a panoramic overview of the region from Les Trois Moulins before visiting the peaceful Église Notre-Dame. The midday segment invites you to delve into local history at Manoir de Barneville and the quaint rural sanctuaries of Église Saint-Jean and Église Saint-Georges. As the afternoon progresses, drive towards the coast to glimpse the stately Château de Chimay and the natural beauty of Havre de Carteret. Finally, spend a relaxing evening in the coastal enclave of Carteret, soaking in the maritime atmosphere near Église Saint-Germain-le-Scot."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-porsmeur-cities-v2",
+  "anchor": {
+    "name": "Porsmeur",
+    "coords": [
+      -4.21547,
+      48.66119
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 2.08,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Porsmeur",
+            "hu": "Plage de Porsmeur",
+            "ro": "Plage de Porsmeur",
+            "en": "Plage de Porsmeur"
+          },
+          "coords": [
+            -4.218879,
+            48.660531
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand dieses schönen Küstenabschnitts und prüfen Sie stets die Gezeitenzeiten, bevor Sie sicher schwimmen gehen.",
+            "hu": "Pihenjen a finom homokos tengerparton, gyönyörködjön a lenyűgöző parti kilátásban, és úszás előtt feltétlenül ellenőrizze az árapály idejét.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei frumoase plaje locale admirând priveliștea și nu uitați să verificați orele mareei înainte de a înota.",
+            "en": "Relax on the fine sands of this beautiful local beach, taking in the coastal views, and remember to check the tide times before swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte du Guinirvit",
+            "hu": "Allée Couverte du Guinirvit",
+            "ro": "Allée Couverte du Guinirvit",
+            "en": "Allée Couverte du Guinirvit"
+          },
+          "coords": [
+            -4.215932,
+            48.656805
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte megalithische Galeriegrab, das bei Flut teilweise überflutet ist, und besuchen Sie es am besten bei Ebbe für ein optimales Erlebnis.",
+            "hu": "Csodálja meg ezt az ősi megalitikus folyosósírt, amely dagálykor részben víz alá kerül, ezért a legjobb élmény érdekében apály idején látogassa meg.",
+            "ro": "Admirați acest mormânt megalitic antic parțial scufundat la maree înaltă, așa că vizitați-l preferabil la maree joasă pentru cea mai bună experiență.",
+            "en": "Marvel at this ancient megalithic gallery grave partially submerged at high tide, so plan your visit during low tide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "stèle gauloise",
+            "hu": "stèle gauloise",
+            "ro": "stèle gauloise",
+            "en": "stèle gauloise"
+          },
+          "coords": [
+            -4.210919,
+            48.658663
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historische gallische Stele, die Einblicke in die keltische Vergangenheit bietet, und tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Vizsgálja meg ezt a történelmi gall sztélét, amely bepillantást enged a régió kelta múltjába, és viseljen kényelmes cipőt a kissé egyenetlen terep miatt.",
+            "ro": "Examinați această stelă galică istorică ce oferă o privire în trecutul celtic, și purtați încălțăminte robustă deoarece terenul poate fi neregulat.",
+            "en": "Examine this historic Gallic stele which offers a glimpse into the region's ancient Celtic past, and wear sturdy shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Prat Meur",
+            "hu": "Menhir de Prat Meur",
+            "ro": "Menhir de Prat Meur",
+            "en": "Menhir de Prat Meur"
+          },
+          "coords": [
+            -4.201551,
+            48.661979
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem imposanten Hinkelstein, der die Landschaft dominiert, und nehmen Sie sich Zeit für ein Foto seiner Silhouette vor dem Himmel.",
+            "hu": "Álljon meg a tájat uraló impozáns állókő mellett, és szánjon egy pillanatot arra, hogy lefotózza annak lenyűgöző sziluettjét az égbolt hátterében.",
+            "ro": "Stați lângă această piatră verticală impunătoare care domină peisajul și faceți o fotografie cu silueta sa impresionantă pe fundalul cerului.",
+            "en": "Stand beside this imposing standing stone that dominates the landscape, taking a moment to photograph its impressive silhouette against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "menhir porz ar streat",
+            "hu": "menhir porz ar streat",
+            "ro": "menhir porz ar streat",
+            "en": "menhir porz ar streat"
+          },
+          "coords": [
+            -4.20875,
+            48.6678
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten Menhir an einem ruhigen Ort und respektieren Sie die umliegenden Privatgrundstücke, während Sie ihn betrachten.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi menhírt egy csendes helyen, és tartsa tiszteletben a környező magánterületeket, miközben megfigyeli a felszínét.",
+            "ro": "Descoperiți acest menhir antic fascinant ascuns într-un loc liniștit și respectați proprietățile private din jur în timp ce îi observați suprafața.",
+            "en": "Discover this fascinating ancient menhir tucked away in a quiet spot, and respect the surrounding private properties while you observe its weathered surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Meeresrauschen am Plage de Porsmeur und sorgt für einen entspannten Start. Mittags reisen Sie in die Vergangenheit und erkunden die Allée Couverte du Guinirvit sowie die stèle gauloise. Am Nachmittag bewundern Sie den Menhir de Prat Meur und spüren die alte Geschichte. Der Abend endet friedlich am menhir porz ar streat, wo Sie das reiche megalithische Erbe reflektieren können.",
+        "hu": "A reggel a Plage de Porsmeur óceáni hullámainak nyugtató hangjaival indul, kellemes hangulatot teremtve. Délben visszautazik az időben, miközben felfedezi az Allée Couverte du Guinirvit-t és a gall sztélét. Délután megcsodálhatja a hatalmas Menhir de Prat Meur-t, átérezve az ősi történelem súlyát. Az este a menhir porz ar streat közelében ér véget, Porsmeur gazdag örökségén merengve.",
+        "ro": "Dimineața începe cu sunetele relaxante ale oceanului la Plage de Porsmeur, setând un ton liniștit. La prânz, călătoriți înapoi în timp explorând Allée Couverte du Guinirvit și stela galică. După-amiaza veți admira impunătorul Menhir de Prat Meur, simțind greutatea istoriei antice. Seara se încheie lângă menhir porz ar streat, reflectând asupra moștenirii megalitice bogate a orașului.",
+        "en": "Morning begins with the soothing sounds of the ocean at Plage de Porsmeur, setting a relaxed tone for the day. Midday takes you back in time as you explore the intriguing Allée Couverte du Guinirvit and the stèle gauloise. In the afternoon, you will marvel at the towering Menhir de Prat Meur, feeling the weight of ancient history. Your evening concludes near menhir porz ar streat, reflecting on Porsmeur's rich megalithic heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 3.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rochers Baie du Kernic",
+            "hu": "Rochers Baie du Kernic",
+            "ro": "Rochers Baie du Kernic",
+            "en": "Rochers Baie du Kernic"
+          },
+          "coords": [
+            -4.217934,
+            48.647507
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen dieser atemberaubenden Bucht und bringen Sie ein Fernglas mit, um die zahlreichen nistenden Seevögel zu beobachten.",
+            "hu": "Csodálja meg a lenyűgöző öblöt övező sziklaképződményeket, és hozzon magával távcsövet a sziklákon fészkelő rengeteg tengeri madár megfigyeléséhez.",
+            "ro": "Admirați formațiunile stâncoase uimitoare ce înconjoară golful și aduceți un binoclu pentru a observa păsările marine care cuibăresc pe stânci.",
+            "en": "Admire the striking rock formations surrounding this stunning bay, bringing binoculars to spot the abundant seabirds nesting in the craggy cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "pêcherie",
+            "hu": "pêcherie",
+            "ro": "pêcherie",
+            "en": "pêcherie"
+          },
+          "coords": [
+            -4.222477,
+            48.656978
+          ],
+          "category": "historical",
+          "arrive_at": "09:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser traditionellen steinernen Fischfalle im Meer und achten Sie darauf, vorsichtig auf die rutschigen, algenbedeckten Felsen zu treten.",
+            "hu": "Fedezze fel ennek a tengerbe épült hagyományos kőhalcsapdának a maradványait, és ügyeljen arra, hogy óvatosan lépkedjen a csúszós, algás sziklákon.",
+            "ro": "Explorați rămășițele acestei capcane tradiționale de pescuit din piatră construite în mare, având grijă cum pășiți pe rocile alunecoase acoperite de alge.",
+            "en": "Explore the remains of this traditional stone fishing trap built into the sea, ensuring you step carefully on the slippery, seaweed-covered rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte du Guinirvit",
+            "hu": "Allée Couverte du Guinirvit",
+            "ro": "Allée Couverte du Guinirvit",
+            "en": "Allée Couverte du Guinirvit"
+          },
+          "coords": [
+            -4.215932,
+            48.656805
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte megalithische Galeriegrab, das bei Flut teilweise überflutet ist, und besuchen Sie es am besten bei Ebbe für ein optimales Erlebnis.",
+            "hu": "Csodálja meg ezt az ősi megalitikus folyosósírt, amely dagálykor részben víz alá kerül, ezért a legjobb élmény érdekében apály idején látogassa meg.",
+            "ro": "Admirați acest mormânt megalitic antic parțial scufundat la maree înaltă, așa că vizitați-l preferabil la maree joasă pentru cea mai bună experiență.",
+            "en": "Marvel at this ancient megalithic gallery grave partially submerged at high tide, so plan your visit during low tide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porsmeur",
+            "hu": "Plage de Porsmeur",
+            "ro": "Plage de Porsmeur",
+            "en": "Plage de Porsmeur"
+          },
+          "coords": [
+            -4.218879,
+            48.660531
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand dieses schönen Küstenabschnitts und prüfen Sie stets die Gezeitenzeiten, bevor Sie sicher schwimmen gehen.",
+            "hu": "Pihenjen a finom homokos tengerparton, gyönyörködjön a lenyűgöző parti kilátásban, és úszás előtt feltétlenül ellenőrizze az árapály idejét.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei frumoase plaje locale admirând priveliștea și nu uitați să verificați orele mareei înainte de a înota.",
+            "en": "Relax on the fine sands of this beautiful local beach, taking in the coastal views, and remember to check the tide times before swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "hippocampe",
+            "hu": "hippocampe",
+            "ro": "hippocampe",
+            "en": "hippocampe"
+          },
+          "coords": [
+            -4.210566,
+            48.669056
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem skurrilen Seepferdchen-Wahrzeichen, das dem Küstenweg Charme verleiht, und machen Sie einen schnellen Stopp für ein lustiges Souvenir-Selfie.",
+            "hu": "Álljon meg ennél a mókás csikóhal emlékműnél, amely varázslatossá teszi a parti sétányt, és készítsen egy szórakoztató szelfit emlékbe a barátaival.",
+            "ro": "Opriți-vă la acest reper excentric cu căluț de mare care adaugă farmec cărării de coastă, fiind locul perfect pentru un selfie amuzant ca suvenir.",
+            "en": "Pause at this quirky seahorse landmark that adds charm to the coastal path, making it a perfect quick stop for a fun souvenir selfie with friends."
+          }
+        },
+        {
+          "name": {
+            "de": "menhir porz ar streat",
+            "hu": "menhir porz ar streat",
+            "ro": "menhir porz ar streat",
+            "en": "menhir porz ar streat"
+          },
+          "coords": [
+            -4.20875,
+            48.6678
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten Menhir an einem ruhigen Ort und respektieren Sie die umliegenden Privatgrundstücke, während Sie ihn betrachten.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi menhírt egy csendes helyen, és tartsa tiszteletben a környező magánterületeket, miközben megfigyeli a felszínét.",
+            "ro": "Descoperiți acest menhir antic fascinant ascuns într-un loc liniștit și respectați proprietățile private din jur în timp ce îi observați suprafața.",
+            "en": "Discover this fascinating ancient menhir tucked away in a quiet spot, and respect the surrounding private properties while you observe its weathered surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt bei den Rochers Baie du Kernic und einem Besuch der alten pêcherie. Gegen Mittag erreichen Sie die mystische Allée Couverte du Guinirvit und genießen die frische Brise. Der Nachmittag ist perfekt, um am Plage de Porsmeur zu entspannen. Der Abend bringt ein schnelles Foto beim hippocampe, bevor Ihre Reise am alten menhir porz ar streat ausklingt.",
+        "hu": "A reggeli tekerés a Rochers Baie du Kernic lenyűgöző természeti szépségével és az ősi pêcherie meglátogatásával indul. Délre eléri a misztikus Allée Couverte du Guinirvit-t a hűs tengeri szellőben. A délután tökéletes a Plage de Porsmeur homokján való pihenésre. Az este egy gyors fotózást kínál a csikóhalnál, mielőtt az ősi menhir porz ar streat közelében befejezné a túrát.",
+        "ro": "Plimbarea matinală începe cu frumusețea naturală de la Rochers Baie du Kernic și o vizită la vechea pêcherie. La prânz ajungeți la mistica Allée Couverte du Guinirvit, bucurându-vă de briza mării. După-amiaza este perfectă pentru a vă relaxa pe Plage de Porsmeur. Seara aduce o scurtă oprire foto la hippocampe, înainte de a încheia la vechiul menhir porz ar streat.",
+        "en": "Your morning ride starts with the breathtaking natural beauty of Rochers Baie du Kernic and a visit to the ancient pêcherie. By midday, you'll reach the mystical Allée Couverte du Guinirvit, enjoying the refreshing coastal breeze. The afternoon is perfect for unwinding on the sands of Plage de Porsmeur. Evening brings a quick photo at the hippocampe before concluding your journey at the ancient menhir porz ar streat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 3.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "pêcherie",
+            "hu": "pêcherie",
+            "ro": "pêcherie",
+            "en": "pêcherie"
+          },
+          "coords": [
+            -4.222477,
+            48.656978
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser traditionellen steinernen Fischfalle im Meer und achten Sie darauf, vorsichtig auf die rutschigen, algenbedeckten Felsen zu treten.",
+            "hu": "Fedezze fel ennek a tengerbe épült hagyományos kőhalcsapdának a maradványait, és ügyeljen arra, hogy óvatosan lépkedjen a csúszós, algás sziklákon.",
+            "ro": "Explorați rămășițele acestei capcane tradiționale de pescuit din piatră construite în mare, având grijă cum pășiți pe rocile alunecoase acoperite de alge.",
+            "en": "Explore the remains of this traditional stone fishing trap built into the sea, ensuring you step carefully on the slippery, seaweed-covered rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Rochers Baie du Kernic",
+            "hu": "Rochers Baie du Kernic",
+            "ro": "Rochers Baie du Kernic",
+            "en": "Rochers Baie du Kernic"
+          },
+          "coords": [
+            -4.217934,
+            48.647507
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen dieser atemberaubenden Bucht und bringen Sie ein Fernglas mit, um die zahlreichen nistenden Seevögel zu beobachten.",
+            "hu": "Csodálja meg a lenyűgöző öblöt övező sziklaképződményeket, és hozzon magával távcsövet a sziklákon fészkelő rengeteg tengeri madár megfigyeléséhez.",
+            "ro": "Admirați formațiunile stâncoase uimitoare ce înconjoară golful și aduceți un binoclu pentru a observa păsările marine care cuibăresc pe stânci.",
+            "en": "Admire the striking rock formations surrounding this stunning bay, bringing binoculars to spot the abundant seabirds nesting in the craggy cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte du Guinirvit",
+            "hu": "Allée Couverte du Guinirvit",
+            "ro": "Allée Couverte du Guinirvit",
+            "en": "Allée Couverte du Guinirvit"
+          },
+          "coords": [
+            -4.215932,
+            48.656805
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte megalithische Galeriegrab, das bei Flut teilweise überflutet ist, und besuchen Sie es am besten bei Ebbe für ein optimales Erlebnis.",
+            "hu": "Csodálja meg ezt az ősi megalitikus folyosósírt, amely dagálykor részben víz alá kerül, ezért a legjobb élmény érdekében apály idején látogassa meg.",
+            "ro": "Admirați acest mormânt megalitic antic parțial scufundat la maree înaltă, așa că vizitați-l preferabil la maree joasă pentru cea mai bună experiență.",
+            "en": "Marvel at this ancient megalithic gallery grave partially submerged at high tide, so plan your visit during low tide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "stèle gauloise",
+            "hu": "stèle gauloise",
+            "ro": "stèle gauloise",
+            "en": "stèle gauloise"
+          },
+          "coords": [
+            -4.210919,
+            48.658663
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historische gallische Stele, die Einblicke in die keltische Vergangenheit bietet, und tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Vizsgálja meg ezt a történelmi gall sztélét, amely bepillantást enged a régió kelta múltjába, és viseljen kényelmes cipőt a kissé egyenetlen terep miatt.",
+            "ro": "Examinați această stelă galică istorică ce oferă o privire în trecutul celtic, și purtați încălțăminte robustă deoarece terenul poate fi neregulat.",
+            "en": "Examine this historic Gallic stele which offers a glimpse into the region's ancient Celtic past, and wear sturdy shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Prat Meur",
+            "hu": "Menhir de Prat Meur",
+            "ro": "Menhir de Prat Meur",
+            "en": "Menhir de Prat Meur"
+          },
+          "coords": [
+            -4.201551,
+            48.661979
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem imposanten Hinkelstein, der die Landschaft dominiert, und nehmen Sie sich Zeit für ein Foto seiner Silhouette vor dem Himmel.",
+            "hu": "Álljon meg a tájat uraló impozáns állókő mellett, és szánjon egy pillanatot arra, hogy lefotózza annak lenyűgöző sziluettjét az égbolt hátterében.",
+            "ro": "Stați lângă această piatră verticală impunătoare care domină peisajul și faceți o fotografie cu silueta sa impresionantă pe fundalul cerului.",
+            "en": "Stand beside this imposing standing stone that dominates the landscape, taking a moment to photograph its impressive silhouette against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "menhir porz ar streat",
+            "hu": "menhir porz ar streat",
+            "ro": "menhir porz ar streat",
+            "en": "menhir porz ar streat"
+          },
+          "coords": [
+            -4.20875,
+            48.6678
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten Menhir an einem ruhigen Ort und respektieren Sie die umliegenden Privatgrundstücke, während Sie ihn betrachten.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi menhírt egy csendes helyen, és tartsa tiszteletben a környező magánterületeket, miközben megfigyeli a felszínét.",
+            "ro": "Descoperiți acest menhir antic fascinant ascuns într-un loc liniștit și respectați proprietățile private din jur în timp ce îi observați suprafața.",
+            "en": "Discover this fascinating ancient menhir tucked away in a quiet spot, and respect the surrounding private properties while you observe its weathered surface."
+          }
+        },
+        {
+          "name": {
+            "de": "hippocampe",
+            "hu": "hippocampe",
+            "ro": "hippocampe",
+            "en": "hippocampe"
+          },
+          "coords": [
+            -4.210566,
+            48.669056
+          ],
+          "category": "landmark",
+          "arrive_at": "16:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem skurrilen Seepferdchen-Wahrzeichen, das dem Küstenweg Charme verleiht, und machen Sie einen schnellen Stopp für ein lustiges Souvenir-Selfie.",
+            "hu": "Álljon meg ennél a mókás csikóhal emlékműnél, amely varázslatossá teszi a parti sétányt, és készítsen egy szórakoztató szelfit emlékbe a barátaival.",
+            "ro": "Opriți-vă la acest reper excentric cu căluț de mare care adaugă farmec cărării de coastă, fiind locul perfect pentru un selfie amuzant ca suvenir.",
+            "en": "Pause at this quirky seahorse landmark that adds charm to the coastal path, making it a perfect quick stop for a fun souvenir selfie with friends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Tour mit der historischen pêcherie, gefolgt von den Klippen der Rochers Baie du Kernic. Mittags tauchen Sie mit Besuchen der Allée Couverte du Guinirvit und der stèle gauloise in die Geschichte ein. Die Nachmittagshighlights umfassen den imposanten Menhir de Prat Meur und den menhir porz ar streat. Beenden Sie den Tag entspannt beim skurrilen hippocampe an der Küste.",
+        "hu": "Kezdje autós túráját a történelmi pêcherie-nél, majd csodálja meg a Rochers Baie du Kernic szikláit. Délben elmerülhet Porsmeur történelmében az Allée Couverte du Guinirvit és a gall sztélé felfedezésével. A délután fénypontjai az impozáns Menhir de Prat Meur és a menhir porz ar streat. Zárja a napot egy kellemes megállóval a mókás csikóhal emlékműnél, kilátással a partra.",
+        "ro": "Începeți turul cu ingineria istorică de la pêcherie, urmată de stâncile abrupte de la Rochers Baie du Kernic. Prânzul vă ghidează prin istoria densă a Porsmeur cu vizite la Allée Couverte du Guinirvit și stela galică. Punctele forte ale după-amiezii includ impresionantul Menhir de Prat Meur și menhir porz ar streat. Încheiați ziua relaxant la excentricul hippocampe pe coastă.",
+        "en": "Begin your driving tour with the historical engineering of the pêcherie, followed by the rugged cliffs at Rochers Baie du Kernic. Midday leads you through Porsmeur's dense history with visits to the Allée Couverte du Guinirvit and the stèle gauloise. Afternoon highlights include the imposing Menhir de Prat Meur and the menhir porz ar streat. Conclude your day gracefully at the quirky hippocampe overlooking the coast."
+      }
+    }
+  }
+}

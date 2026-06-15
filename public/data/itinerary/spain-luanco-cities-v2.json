@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-luanco-cities-v2",
+  "anchor": {
+    "name": "Luanco",
+    "coords": [
+      -5.79373,
+      43.61559
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Gozón",
+            "hu": "Gozóni Városháza",
+            "ro": "Primăria Gozón",
+            "en": "Gozón Town Hall"
+          },
+          "coords": [
+            -5.793833,
+            43.613493
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
+            "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Ribera",
+            "hu": "Playa de la Ribera",
+            "ro": "Playa de la Ribera",
+            "en": "Playa de la Ribera"
+          },
+          "coords": [
+            -5.791488,
+            43.614257
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am weichen Sand der Playa de la Ribera, einem charmanten, familienfreundlichen Stadtstrand, und bringen Sie Snacks für eine Pause mit.",
+            "hu": "Pihenjen a Playa de la Ribera finom homokján, amely egy elbűvölő, családbarát városi strand, és hozzon magával némi harapnivalót egy tízóraihoz.",
+            "ro": "Relaxați-vă pe nisipul fin de la Playa de la Ribera, o plajă urbană fermecătoare pentru familii, și aduceți o gustare pentru o pauză de dimineață.",
+            "en": "Relax on the soft sands of Playa de la Ribera, a charming urban beach perfect for families, and bring some snacks to enjoy a quiet mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pilatos",
+            "hu": "Pilatos kilátó",
+            "ro": "Punctul de belvedere Pilatos",
+            "en": "Pilatos Viewpoint"
+          },
+          "coords": [
+            -5.790826,
+            43.615524
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf das Kantabrische Meer vom Mirador de Pilatos, einem erstklassigen Aussichtspunkt, und achten Sie auf vorbeifahrende Fischerboote.",
+            "hu": "Élvezze a Kantábriai-tengerre nyíló lenyűgöző kilátást a Mirador de Pilatos kilátóról, és közben figyelje az elhaladó halászhajókat a távolban.",
+            "ro": "Bucurați-vă de priveliștile panoramice asupra Mării Cantabrice de la Mirador de Pilatos, un punct de belvedere excelent unde puteți observa bărcile de pescuit.",
+            "en": "Enjoy sweeping views of the Cantabrian Sea from Mirador de Pilatos, a prime vantage point where you should keep an eye out for passing fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Menéndez Pola",
+            "hu": "Palacio de los Menéndez Pola",
+            "ro": "Palacio de los Menéndez Pola",
+            "en": "Palacio de los Menéndez Pola"
+          },
+          "coords": [
+            -5.78859,
+            43.616609
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
+            "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
+            "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Luanco",
+            "hu": "Playa de Luanco",
+            "ro": "Playa de Luanco",
+            "en": "Playa de Luanco"
+          },
+          "coords": [
+            -5.787637,
+            43.618466
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der Playa de Luanco, dem lebhaften Hauptstrand, wo Sie bequem eine Liege mieten und in das klare Küstenwasser eintauchen können.",
+            "hu": "Kapcsolódjon ki a Playa de Luanco nyüzsgő főstrandján, ahol könnyedén bérelhet egy napágyat, és megmártózhat a frissítő, tiszta tengervízben.",
+            "ro": "Relaxați-vă la Playa de Luanco, plaja principală plină de viață a orașului, unde puteți închiria cu ușurință un șezlong și puteți înota în apele clare.",
+            "en": "Unwind at Playa de Luanco, the town's lively main beach, where you can easily rent a sunbed and dip into the refreshing, clear coastal waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in Luanco am eleganten Rathaus von Gozón und nehmen Sie die historische Atmosphäre in sich auf. Später wechseln Sie zum Sand der Playa de la Ribera, bevor Sie zum Mirador de Pilatos hinaufsteigen. Der Nachmittag ist der Bewunderung des prächtigen Palacio de los Menéndez Pola gewidmet. Lassen Sie den Tag entspannt am lebhaften Strand der Playa de Luanco ausklingen.",
+        "hu": "Kezdje luancói sétáját az elegáns gozóni városházánál, magába szívva a helyi történelmi hangulatot. Később térjen át a Playa de la Ribera homokos partjára, mielőtt felmászna a Mirador de Pilatoshoz. A délutánt a lenyűgöző Palacio de los Menéndez Pola megcsodálásának szentelje. Végül zárja a napot a napfényben fürdőzve a Playa de Luanco nyüzsgő partján.",
+        "ro": "Începeți plimbarea prin Luanco la eleganta Primărie Gozón, absorbind atmosfera istorică locală. Mai târziu, treceți la nisipul de la Playa de la Ribera, înainte de a urca la Mirador de Pilatos. După-amiaza este dedicată admirării grandiosului Palacio de los Menéndez Pola. În cele din urmă, încheiați ziua relaxată bucurându-vă de soare pe plaja plină de viață Playa de Luanco.",
+        "en": "Begin your Luanco walk at the elegant Gozón Town Hall, absorbing the local historic vibes. By mid-morning, transition to the charming sands of Playa de la Ribera before climbing slightly to Mirador de Pilatos for stunning sea views. The afternoon is dedicated to admiring the grand Palacio de los Menéndez Pola. Finally, end your relaxed day soaking up the sun and lively atmosphere at Playa de Luanco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Gozón",
+            "hu": "Gozóni Városháza",
+            "ro": "Primăria Gozón",
+            "en": "Gozón Town Hall"
+          },
+          "coords": [
+            -5.793833,
+            43.613493
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
+            "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Menéndez Pola",
+            "hu": "Palacio de los Menéndez Pola",
+            "ro": "Palacio de los Menéndez Pola",
+            "en": "Palacio de los Menéndez Pola"
+          },
+          "coords": [
+            -5.78859,
+            43.616609
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
+            "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
+            "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Samarincha",
+            "hu": "Playa de Samarincha",
+            "ro": "Playa de Samarincha",
+            "en": "Playa de Samarincha"
+          },
+          "coords": [
+            -5.789323,
+            43.612232
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an der Playa de Samarincha, einem abgelegenen Küstenort, der mit friedlicher Atmosphäre belohnt und ideal für ein ruhiges Buch ist.",
+            "hu": "Meneküljön el a tömeg elől a Playa de Samarincha eldugott tengerpartján, amely békés hangulatot áraszt, így ideális egy csendes délutáni olvasáshoz.",
+            "ro": "Evadați de aglomerație la Playa de Samarincha, un loc de coastă retras care oferă o atmosferă pașnică, fiind ideal pentru o lectură liniștită de după-amiază.",
+            "en": "Escape the crowds at Playa de Samarincha, a secluded coastal spot that rewards visitors with peaceful vibes, making it ideal for a quiet afternoon read."
+          }
+        },
+        {
+          "name": {
+            "de": "Placa los Boletos",
+            "hu": "Placa los Boletos",
+            "ro": "Placa los Boletos",
+            "en": "Placa los Boletos"
+          },
+          "coords": [
+            -5.785871,
+            43.611467
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der Placa los Boletos vorbei, um die maritime Atmosphäre von Luanco zu spüren, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon el a Placa los Boletos mellett, hogy átérezze Luanco tengerészeti hangulatát, és viseljen kényelmes cipőt az egyenetlen ösvényekhez.",
+            "ro": "Plimbați-vă pe lângă Placa los Boletos pentru a simți atmosfera maritimă din Luanco și asigurați-vă că purtați încălțăminte confortabilă pe cărări.",
+            "en": "Stroll by Placa los Boletos to feel the authentic maritime atmosphere of Luanco, and be sure to wear comfortable shoes for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de El Dique",
+            "hu": "Playa de El Dique",
+            "ro": "Playa de El Dique",
+            "en": "Playa de El Dique"
+          },
+          "coords": [
+            -5.78579,
+            43.609861
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie die geschützte Bucht der Playa de El Dique mit ihrem ruhigen Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu entdecken.",
+            "hu": "Fedezze fel a Playa de El Dique védett öblét, amely nyugodt vizeiről ismert, és hozzon búvárfelszerelést, hogy megfigyelje a sziklák melletti élővilágot.",
+            "ro": "Explorați golful adăpostit de la Playa de El Dique, cunoscut pentru apele sale liniștite, și aduceți echipament de snorkeling pentru a descoperi viața marină.",
+            "en": "Explore the sheltered cove of Playa de El Dique, known for its tranquil waters, and bring your snorkeling gear to discover the small marine life near the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Aramar",
+            "hu": "Playa Aramar",
+            "ro": "Playa Aramar",
+            "en": "Playa Aramar"
+          },
+          "coords": [
+            -5.78366,
+            43.609059
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an der Playa Aramar, einem unberührten Sandstrand, und bleiben Sie bis zum Sonnenuntergang für atemberaubende Fotomotive am Ufer.",
+            "hu": "Zárja a napot a Playa Aramar érintetlen homokfövenyén, és maradjon egészen naplementéig, hogy lélegzetelállító fotókat készíthessen a parton.",
+            "ro": "Încheiați-vă excursia la Playa Aramar, o porțiune de nisip frumoasă și neatinsă, și rămâneți până la apus pentru oportunități foto uluitoare pe țărm.",
+            "en": "Conclude your trip at Playa Aramar, a beautiful and unspoiled stretch of sand, and stay until sunset for breathtaking photo opportunities by the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour direkt am Rathaus von Gozón und fahren Sie in ruhigem Tempo zum majestätischen Palacio de los Menéndez Pola. Mittags lockt das versteckte Juwel Playa de Samarincha. Am Nachmittag radeln Sie gemütlich zur ruhigen Bucht der Playa de El Dique. Lassen Sie Ihren Tag an den unberührten Ufern der Playa Aramar ausklingen.",
+        "hu": "Kezdje kerékpártúráját a gozóni városházánál, és induljon el a fenséges Palacio de los Menéndez Pola felé. A dél a Playa de Samarincha rejtett partjára és a Placa los Boletos környékére csábítja. Ahogy telik a délután, tekerjen a Playa de El Dique nyugodt öble felé. Zárja a napot a Playa Aramar érintetlen, gyönyörű partjainál pihenve.",
+        "ro": "Începeți turul cu bicicleta la Primăria Gozón, pedalând constant către maiestuosul Palacio de los Menéndez Pola. La amiază, mergeți la plaja ascunsă Playa de Samarincha și în jurul Placa los Boletos. Pe parcursul după-amiezii, pedalați lin spre golful liniștit de la Playa de El Dique. Încheiați-vă ziua odihnindu-vă pe țărmul neatins de la Playa Aramar.",
+        "en": "Kick off your cycling tour right at the Gozón Town Hall, setting a steady pace towards the majestic Palacio de los Menéndez Pola. Midday invites you to the hidden coastal gem of Playa de Samarincha and the maritime charm around Placa los Boletos. As the afternoon progresses, pedal smoothly towards the tranquil cove of Playa de El Dique. Wrap up your day resting by the pristine shores of Playa Aramar."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Bañugues",
+            "hu": "Playa de Bañugues",
+            "ro": "Playa de Bañugues",
+            "en": "Playa de Bañugues"
+          },
+          "coords": [
+            -5.809535,
+            43.630642
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Küstenfahrt an der Playa de Bañugues, einer weiten Bucht mit flachem Wasser, wo das Parken einfach ist, wenn Sie früh am Morgen ankommen.",
+            "hu": "Kezdje a partmenti utat a Playa de Bañugues hatalmas öblében, ahol a sekély víz nyugodt, és a parkolás is egyszerű, ha kora reggel érkezik.",
+            "ro": "Începeți plimbarea pe coastă la Playa de Bañugues, un golf vast cu ape puțin adânci, unde parcarea este ușoară dacă ajungeți devreme dimineața.",
+            "en": "Start your coastal drive at Playa de Bañugues, a sweeping bay with calm shallow waters, where parking is easy if you arrive early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Moniello",
+            "hu": "Playa de Moniello",
+            "ro": "Playa de Moniello",
+            "en": "Playa de Moniello"
+          },
+          "coords": [
+            -5.794333,
+            43.629534
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüfteten Felsen der Playa de Moniello, ein einzigartiges Küstenmerkmal, und spazieren Sie bei Ebbe vorsichtig an den Gezeitentümpeln entlang.",
+            "hu": "Csodálja meg a Playa de Moniello zord sziklás partvidékét, amely egy egyedülálló természeti csoda, és apály idején óvatosan sétáljon az árapálymedencék mentén.",
+            "ro": "Minunați-vă de rocile accidentate de la Playa de Moniello, o caracteristică unică a coastei, și plimbați-vă cu grijă de-a lungul bazinelor de maree la reflux.",
+            "en": "Marvel at the rugged rocky outcrops of Playa de Moniello, a unique coastal feature, and walk carefully along the tidal pools during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt La Mofosa",
+            "hu": "La Mofosa kilátó",
+            "ro": "Punctul de belvedere La Mofosa",
+            "en": "La Mofosa Viewpoint"
+          },
+          "coords": [
+            -5.782227,
+            43.624677
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Machen Sie eine landschaftliche Pause am Mirador La Mofosa, atmen Sie die Meeresbrise ein und nehmen Sie ein Fernglas mit, um die Klippen zu bestaunen.",
+            "hu": "Tartson egy festői pihenőt a Mirador La Mofosa kilátónál, hogy belélegezze a friss tengeri levegőt, és hozzon távcsövet a drámai sziklák megfigyeléséhez.",
+            "ro": "Faceți o pauză pitorească la Mirador La Mofosa pentru a respira briza mării și aduceți un binoclu pentru a aprecia pe deplin stâncile abrupte de dedesubt.",
+            "en": "Take a scenic break at Mirador La Mofosa to breathe in the fresh sea breeze, and pack binoculars to fully appreciate the dramatic cliff drops below."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Menéndez Pola",
+            "hu": "Palacio de los Menéndez Pola",
+            "ro": "Palacio de los Menéndez Pola",
+            "en": "Palacio de los Menéndez Pola"
+          },
+          "coords": [
+            -5.78859,
+            43.616609
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
+            "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
+            "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Gozón",
+            "hu": "Gozóni Városháza",
+            "ro": "Primăria Gozón",
+            "en": "Gozón Town Hall"
+          },
+          "coords": [
+            -5.793833,
+            43.613493
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
+            "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt an den weiten Ufern der Playa de Bañugues und genießen Sie die frische Morgenluft, bevor Sie zur dramatischen Felsenlandschaft der Playa de Moniello aufbrechen. Gegen Mittag stehen Sie am Mirador La Mofosa für atemberaubende Panoramen. Nachmittags besuchen Sie den Palacio de los Menéndez Pola. Die Reise endet am zentralen Rathaus von Gozón.",
+        "hu": "Indítsa autós kirándulását a Playa de Bañugues tágas partjairól, élvezve a friss reggeli levegőt, mielőtt a Playa de Moniello drámai sziklás tájára indulna. Délben álljon meg a Mirador La Mofosa kilátónál a lenyűgöző panorámáért. Délután térjen át a történelemre a Palacio de los Menéndez Pola meglátogatásával. Az utazás a gozóni városházánál ér véget.",
+        "ro": "Începeți traseul cu mașina de pe țărmurile extinse ale Playa de Bañugues, bucurându-vă de aerul proaspăt, înainte de a vă îndrepta spre Playa de Moniello. În jurul prânzului, opriți-vă la Mirador La Mofosa pentru a vedea panorame uluitoare ale stâncilor. După-amiaza, treceți la istorie vizitând Palacio de los Menéndez Pola. Călătoria se încheie frumos la Primăria Gozón.",
+        "en": "Launch your scenic drive from the expansive shores of Playa de Bañugues, enjoying the crisp morning air before heading to the dramatic rocky landscape of Playa de Moniello. Around noon, stand at Mirador La Mofosa to witness breathtaking cliffside panoramas. In the afternoon, shift gears to history by visiting Palacio de los Menéndez Pola. The journey beautifully concludes at the central Gozón Town Hall."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-santa-lucia-cities-v2",
+  "anchor": {
+    "name": "Santa Lucia",
+    "coords": [
+      15.93677,
+      39.52661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 1.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Turricella",
+            "hu": "Turricella",
+            "ro": "Turricella",
+            "en": "Turricella"
+          },
+          "coords": [
+            15.936527,
+            39.517456
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen Schritt zurück in die Vergangenheit bei dieser Wachturmruine und tragen Sie feste Schuhe für den unebenen Weg darum herum.",
+            "hu": "Lépjen vissza az időben ezen a tengerre néző őrtoronyromon, és viseljen stabil cipőt a kissé egyenetlen ösvény biztonságos bejárásához.",
+            "ro": "Pășiți înapoi în timp la această ruină a unui turn de veghe deasupra mării și purtați pantofi rezistenți pentru a naviga poteca ușor denivelată.",
+            "en": "Step back in time at this ancient watchtower ruin overlooking the sea, and wear sturdy shoes to safely navigate the slightly uneven path around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Curva del Cannone",
+            "hu": "Curva del Cannone",
+            "ro": "Curva del Cannone",
+            "en": "Curva del Cannone"
+          },
+          "coords": [
+            15.938163,
+            39.516177
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem einzigartig geschwungenen Aussichtspunkt und halten Sie die Kamera für die weite mediterrane Landschaft bereit.",
+            "hu": "Élvezze a tengerparti panorámát ebből az egyedi ívű kilátóból, és készítse elő fényképezőgépét a lenyűgöző mediterrán táj megörökítésére.",
+            "ro": "Bucurați-vă de priveliștile panoramice de la acest punct de belvedere curbat unic, asigurându-vă că aparatul foto este pregătit pentru peisajul vast.",
+            "en": "Take in the panoramic coastal views from this uniquely curved viewpoint, making sure your camera is ready for the sweeping Mediterranean landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dei Brettii e del Mare di Cetraro",
+            "hu": "Museo dei Brettii e del Mare di Cetraro",
+            "ro": "Museo dei Brettii e del Mare di Cetraro",
+            "en": "Museo dei Brettii e del Mare di Cetraro"
+          },
+          "coords": [
+            15.94088,
+            39.517268
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche antike Geschichte und das maritime Erbe ein und verpassen Sie nicht die faszinierende Sammlung bruttischer Artefakte.",
+            "hu": "Merüljön el a régió gazdag ókori történelmében és tengerészeti örökségében, és ne hagyja ki a lenyűgöző bruttii leletek gyűjteményét.",
+            "ro": "Pătrundeți în istoria antică și moștenirea maritimă a regiunii și nu ratați colecția fascinantă de artefacte excavate aparținând populației Bruttii.",
+            "en": "Dive into the rich ancient history and maritime heritage of the region, and don't miss the fascinating collection of excavated Bruttii artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rovine dell'ex chiesa di San Pietro",
+            "hu": "Rovine dell'ex chiesa di San Pietro",
+            "ro": "Rovine dell'ex chiesa di San Pietro",
+            "en": "Rovine dell'ex chiesa di San Pietro"
+          },
+          "coords": [
+            15.939068,
+            39.516993
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atmosphärischen Überreste dieser ehemaligen Kirche, die einen ruhigen Einblick in die mittelalterliche Architektur bieten, ideal für Fotos.",
+            "hu": "Fedezze fel ezen egykori templom hangulatos maradványait, amely békés bepillantást enged a középkori építészetbe, tökéletes a fotózáshoz.",
+            "ro": "Descoperiți rămășițele pline de atmosferă ale acestei foste biserici, oferind o privire pașnică asupra arhitecturii medievale, perfectă pentru poze.",
+            "en": "Discover the atmospheric remnants of this former church, offering a peaceful glimpse into medieval architecture, perfect for evocative black-and-white photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti",
+            "hu": "Monumento ai caduti",
+            "ro": "Monumento ai caduti",
+            "en": "Monumento ai caduti"
+          },
+          "coords": [
+            15.941297,
+            39.515736
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Ehren Sie die lokalen Helden an dieser bewegenden Gedenkstätte und achten Sie auf die filigrane Steinmetzarbeit während eines ruhigen Moments.",
+            "hu": "Tisztelegjen a helyi hősök előtt ennél a megható emlékműnél, és figyelje meg a bonyolult kőfaragásokat egy csendes perc során.",
+            "ro": "Onorați eroii locali la acest memorial emoționant, acordând atenție detaliilor de piatră în timpul unui moment de reculegere tăcută.",
+            "en": "Honor the local heroes at this touching memorial, paying attention to the intricate stonework while taking a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare di Cetraro",
+            "hu": "Lungomare di Cetraro",
+            "ro": "Lungomare di Cetraro",
+            "en": "Lungomare di Cetraro"
+          },
+          "coords": [
+            15.937902,
+            39.511373
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Abschluss über diese luftige Uferpromenade und holen Sie sich ein frisches Gelato, während Sie dem Rauschen der Wellen lauschen.",
+            "hu": "Sétáljon végig ezen a szellős tengerparti sétányon látogatása zárásaként, és vegyen egy friss fagylaltot, miközben élvezi a hullámok megnyugtató hangját.",
+            "ro": "Plimbați-vă pe această promenadă brizoasă pentru a vă încheia vizita, savurând un gelato proaspăt în timp ce vă bucurați de sunetul relaxant al valurilor.",
+            "en": "Stroll along this breezy seaside promenade to end your visit, grabbing a fresh gelato from a nearby vendor while enjoying the soothing sound of the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der alten Turricella-Warte mit einem herrlichen Ausblick. Gegen Mittag bewundern Sie die malerischen Aussichtspunkte, bevor Sie im archäologischen Museum in die regionale Geschichte eintauchen. Nachmittags entdecken Sie die feierliche Schönheit historischer Ruinen und Gedenkstätten. Beenden Sie Ihren Spaziergang mit einem entspannenden Bummel an der malerischen Strandpromenade.",
+        "hu": "Kezdje a reggelt az ősi Turricella őrtornyának felfedezésével, amely lenyűgöző kilátást nyújt. Ahogy közeledik a dél, csodálja meg a festői kilátókat, majd merüljön el a regionális történelemben a régészeti múzeumban. Délután fedezze fel a történelmi romok és helyi emlékművek ünnepélyes szépségét. Zárja a tartalmas sétát egy pihentető tengerparti andalgással a festői sétányon.",
+        "ro": "Începeți dimineața explorând vechiul turn de veghe Turricella, oferind vederi magnifice. Pe măsură ce se apropie prânzul, admirați punctele de belvedere pitorești înainte de a vă scufunda în istoria regională la muzeu. După-amiaza, descoperiți frumusețea ruinelor istorice și a memorialelor locale ascunse pe străzile orașului. Încheiați-vă plimbarea cu o relaxantă promenadă pitorească pe malul mării.",
+        "en": "Start your morning exploring the ancient watchtower of Turricella, offering magnificent views to kickstart your day. As midday approaches, marvel at the scenic viewpoints before diving into regional history at the archaeological museum. In the afternoon, discover the solemn beauty of historic ruins and local memorials hidden in the town streets. End your fulfilling walk with a relaxing seaside stroll along the picturesque promenade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 1.83,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Presepe delle Casermette",
+            "hu": "Presepe delle Casermette",
+            "ro": "Presepe delle Casermette",
+            "en": "Presepe delle Casermette"
+          },
+          "coords": [
+            15.936881,
+            39.513677
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante, handwerkliche Krippe, die lokale Traditionen widerspiegelt, und betrachten Sie die detaillierten Miniaturhäuser.",
+            "hu": "Fedezze fel ezt a helyi hagyományokat tükröző bűbájos kézműves betlehemet, és vizsgálja meg a helyi mesterek által készített miniatűr házakat.",
+            "ro": "Explorați această fermecătoare scenă artizanală a Nașterii care reflectă tradițiile locale și examinați casele în miniatură realizate de artizani.",
+            "en": "Explore this charming artisanal nativity scene which reflects local traditions, and examine the detailed miniature houses crafted by local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare di Cetraro",
+            "hu": "Lungomare di Cetraro",
+            "ro": "Lungomare di Cetraro",
+            "en": "Lungomare di Cetraro"
+          },
+          "coords": [
+            15.937902,
+            39.511373
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Abschluss über diese luftige Uferpromenade und holen Sie sich ein frisches Gelato, während Sie dem Rauschen der Wellen lauschen.",
+            "hu": "Sétáljon végig ezen a szellős tengerparti sétányon látogatása zárásaként, és vegyen egy friss fagylaltot, miközben élvezi a hullámok megnyugtató hangját.",
+            "ro": "Plimbați-vă pe această promenadă brizoasă pentru a vă încheia vizita, savurând un gelato proaspăt în timp ce vă bucurați de sunetul relaxant al valurilor.",
+            "en": "Stroll along this breezy seaside promenade to end your visit, grabbing a fresh gelato from a nearby vendor while enjoying the soothing sound of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Palco estivo",
+            "hu": "Palco estivo",
+            "ro": "Palco estivo",
+            "en": "Palco estivo"
+          },
+          "coords": [
+            15.940167,
+            39.510475
+          ],
+          "category": "cultural",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Stellen Sie sich lebhafte Sommerabende auf dieser Freiluftbühne vor, ein idealer Ort für eine kurze Pause in festlicher Gemeinschaftsatmosphäre.",
+            "hu": "Képzelje el a nyári esték élénk előadásait ezen a szabadtéri színpadon, amely ideális hely egy rövid pihenőre az ünnepi hangulatban.",
+            "ro": "Imaginați-vă serile vibrante de vară pe această scenă în aer liber, un loc ideal pentru o scurtă odihnă în timp ce absorbiți atmosfera festivă.",
+            "en": "Imagine lively summer evening performances at this open-air stage, an ideal spot to take a quick rest while absorbing the festive community atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti",
+            "hu": "Monumento ai caduti",
+            "ro": "Monumento ai caduti",
+            "en": "Monumento ai caduti"
+          },
+          "coords": [
+            15.941297,
+            39.515736
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ehren Sie die lokalen Helden an dieser bewegenden Gedenkstätte und achten Sie auf die filigrane Steinmetzarbeit während eines ruhigen Moments.",
+            "hu": "Tisztelegjen a helyi hősök előtt ennél a megható emlékműnél, és figyelje meg a bonyolult kőfaragásokat egy csendes perc során.",
+            "ro": "Onorați eroii locali la acest memorial emoționant, acordând atenție detaliilor de piatră în timpul unui moment de reculegere tăcută.",
+            "en": "Honor the local heroes at this touching memorial, paying attention to the intricate stonework while taking a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro comunale \"Filippo Lanza\"",
+            "hu": "Teatro comunale \"Filippo Lanza\"",
+            "ro": "Teatro comunale \"Filippo Lanza\"",
+            "en": "Teatro comunale \"Filippo Lanza\""
+          },
+          "coords": [
+            15.943138,
+            39.516198
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters, dem kulturellen Herzen der Stadt, das im weichen Nachmittagslicht am schönsten ist.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az elegáns homlokzatát, amely a város kulturális szíve maradt, és legszebb a délutáni fényben.",
+            "ro": "Admirați fațada elegantă a acestui teatru istoric, inima culturală a orașului, cel mai bine privită în lumina blândă a după-amiezii.",
+            "en": "Admire the elegant facade of this historic community theater, which remains the cultural beating heart of the town, best viewed in the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dei Brettii e del Mare di Cetraro",
+            "hu": "Museo dei Brettii e del Mare di Cetraro",
+            "ro": "Museo dei Brettii e del Mare di Cetraro",
+            "en": "Museo dei Brettii e del Mare di Cetraro"
+          },
+          "coords": [
+            15.94088,
+            39.517268
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche antike Geschichte und das maritime Erbe ein und verpassen Sie nicht die faszinierende Sammlung bruttischer Artefakte.",
+            "hu": "Merüljön el a régió gazdag ókori történelmében és tengerészeti örökségében, és ne hagyja ki a lenyűgöző bruttii leletek gyűjteményét.",
+            "ro": "Pătrundeți în istoria antică și moștenirea maritimă a regiunii și nu ratați colecția fascinantă de artefacte excavate aparținând populației Bruttii.",
+            "en": "Dive into the rich ancient history and maritime heritage of the region, and don't miss the fascinating collection of excavated Bruttii artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Turricella",
+            "hu": "Turricella",
+            "ro": "Turricella",
+            "en": "Turricella"
+          },
+          "coords": [
+            15.936527,
+            39.517456
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Machen Sie einen Schritt zurück in die Vergangenheit bei dieser Wachturmruine und tragen Sie feste Schuhe für den unebenen Weg darum herum.",
+            "hu": "Lépjen vissza az időben ezen a tengerre néző őrtoronyromon, és viseljen stabil cipőt a kissé egyenetlen ösvény biztonságos bejárásához.",
+            "ro": "Pășiți înapoi în timp la această ruină a unui turn de veghe deasupra mării și purtați pantofi rezistenți pentru a naviga poteca ușor denivelată.",
+            "en": "Step back in time at this ancient watchtower ruin overlooking the sea, and wear sturdy shoes to safely navigate the slightly uneven path around it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in der frischen Morgenluft mit der charmanten handwerklichen Krippe. Fahren Sie vor dem Mittagessen die sonnige Promenade entlang und halten Sie an Kulturstätten. Der Nachmittag führt Sie zu historischen Denkmälern und dem örtlichen Theater, wo Sie den künstlerischen Puls der Stadt spüren. Beenden Sie Ihre Fahrt am Museum und am alten Wachturm.",
+        "hu": "Indítsa kerékpártúráját a bűbájos kézműves betlehem felfedezésével a friss reggeli levegőn. Kerekezzen a napsütötte sétányon dél előtt, megállva a kulturális nevezetességeknél. A délután elviszi a történelmi emlékművekhez és a helyi színházhoz, ahol érezheti a város művészeti lüktetését. Fejezze be túráját a múzeumnál és az ősi őrtoronynál, visszagondolva a felfedezésekkel teli napra.",
+        "ro": "Începeți turul cu bicicleta descoperind fermecătoarea scenă artizanală a Nașterii în aerul proaspăt al dimineții. Mergeți pe promenada însorită înainte de prânz, oprindu-vă la repere culturale. După-amiaza vă aduce la marile memoriale istorice și la teatrul local, unde puteți simți pulsul artistic al orașului. Încheiați plimbarea la muzeu și la vechiul turn de veghe.",
+        "en": "Kick off your cycling tour by discovering the charming artisanal nativity scene in the crisp morning air. Ride along the sunny promenade before midday, pausing at cultural landmarks and open-air stages. The afternoon brings you to grand historic memorials and the local theater, where you can feel the town's artistic pulse. Conclude your ride at the museum and the ancient watchtower, reflecting on a vibrant day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:16",
+      "total_km": 1.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo dei Brettii e del Mare di Cetraro",
+            "hu": "Museo dei Brettii e del Mare di Cetraro",
+            "ro": "Museo dei Brettii e del Mare di Cetraro",
+            "en": "Museo dei Brettii e del Mare di Cetraro"
+          },
+          "coords": [
+            15.94088,
+            39.517268
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche antike Geschichte und das maritime Erbe ein und verpassen Sie nicht die faszinierende Sammlung bruttischer Artefakte.",
+            "hu": "Merüljön el a régió gazdag ókori történelmében és tengerészeti örökségében, és ne hagyja ki a lenyűgöző bruttii leletek gyűjteményét.",
+            "ro": "Pătrundeți în istoria antică și moștenirea maritimă a regiunii și nu ratați colecția fascinantă de artefacte excavate aparținând populației Bruttii.",
+            "en": "Dive into the rich ancient history and maritime heritage of the region, and don't miss the fascinating collection of excavated Bruttii artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rovine dell'ex chiesa di San Pietro",
+            "hu": "Rovine dell'ex chiesa di San Pietro",
+            "ro": "Rovine dell'ex chiesa di San Pietro",
+            "en": "Rovine dell'ex chiesa di San Pietro"
+          },
+          "coords": [
+            15.939068,
+            39.516993
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atmosphärischen Überreste dieser ehemaligen Kirche, die einen ruhigen Einblick in die mittelalterliche Architektur bieten, ideal für Fotos.",
+            "hu": "Fedezze fel ezen egykori templom hangulatos maradványait, amely békés bepillantást enged a középkori építészetbe, tökéletes a fotózáshoz.",
+            "ro": "Descoperiți rămășițele pline de atmosferă ale acestei foste biserici, oferind o privire pașnică asupra arhitecturii medievale, perfectă pentru poze.",
+            "en": "Discover the atmospheric remnants of this former church, offering a peaceful glimpse into medieval architecture, perfect for evocative black-and-white photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Curva del Cannone",
+            "hu": "Curva del Cannone",
+            "ro": "Curva del Cannone",
+            "en": "Curva del Cannone"
+          },
+          "coords": [
+            15.938163,
+            39.516177
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem einzigartig geschwungenen Aussichtspunkt und halten Sie die Kamera für die weite mediterrane Landschaft bereit.",
+            "hu": "Élvezze a tengerparti panorámát ebből az egyedi ívű kilátóból, és készítse elő fényképezőgépét a lenyűgöző mediterrán táj megörökítésére.",
+            "ro": "Bucurați-vă de priveliștile panoramice de la acest punct de belvedere curbat unic, asigurându-vă că aparatul foto este pregătit pentru peisajul vast.",
+            "en": "Take in the panoramic coastal views from this uniquely curved viewpoint, making sure your camera is ready for the sweeping Mediterranean landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro comunale \"Filippo Lanza\"",
+            "hu": "Teatro comunale \"Filippo Lanza\"",
+            "ro": "Teatro comunale \"Filippo Lanza\"",
+            "en": "Teatro comunale \"Filippo Lanza\""
+          },
+          "coords": [
+            15.943138,
+            39.516198
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters, dem kulturellen Herzen der Stadt, das im weichen Nachmittagslicht am schönsten ist.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az elegáns homlokzatát, amely a város kulturális szíve maradt, és legszebb a délutáni fényben.",
+            "ro": "Admirați fațada elegantă a acestui teatru istoric, inima culturală a orașului, cel mai bine privită în lumina blândă a după-amiezii.",
+            "en": "Admire the elegant facade of this historic community theater, which remains the cultural beating heart of the town, best viewed in the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Palco estivo",
+            "hu": "Palco estivo",
+            "ro": "Palco estivo",
+            "en": "Palco estivo"
+          },
+          "coords": [
+            15.940167,
+            39.510475
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Stellen Sie sich lebhafte Sommerabende auf dieser Freiluftbühne vor, ein idealer Ort für eine kurze Pause in festlicher Gemeinschaftsatmosphäre.",
+            "hu": "Képzelje el a nyári esték élénk előadásait ezen a szabadtéri színpadon, amely ideális hely egy rövid pihenőre az ünnepi hangulatban.",
+            "ro": "Imaginați-vă serile vibrante de vară pe această scenă în aer liber, un loc ideal pentru o scurtă odihnă în timp ce absorbiți atmosfera festivă.",
+            "en": "Imagine lively summer evening performances at this open-air stage, an ideal spot to take a quick rest while absorbing the festive community atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare di Cetraro",
+            "hu": "Lungomare di Cetraro",
+            "ro": "Lungomare di Cetraro",
+            "en": "Lungomare di Cetraro"
+          },
+          "coords": [
+            15.937902,
+            39.511373
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Abschluss über diese luftige Uferpromenade und holen Sie sich ein frisches Gelato, während Sie dem Rauschen der Wellen lauschen.",
+            "hu": "Sétáljon végig ezen a szellős tengerparti sétányon látogatása zárásaként, és vegyen egy friss fagylaltot, miközben élvezi a hullámok megnyugtató hangját.",
+            "ro": "Plimbați-vă pe această promenadă brizoasă pentru a vă încheia vizita, savurând un gelato proaspăt în timp ce vă bucurați de sunetul relaxant al valurilor.",
+            "en": "Stroll along this breezy seaside promenade to end your visit, grabbing a fresh gelato from a nearby vendor while enjoying the soothing sound of the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu Ihrem ersten Ziel, dem faszinierenden Schifffahrtsmuseum, wo Sie einen lohnenden Morgen verbringen. Am Mittag können Sie bequem zwischen den eindrucksvollen Kirchenruinen und natürlichen Aussichtspunkten wechseln. Ihre Nachmittagsfahrt umfasst das elegante Theater der Stadt. Beenden Sie den Tag in der Nähe des Meeres und machen Sie einen herrlichen Abendspaziergang an der Promenade.",
+        "hu": "Vezessen az első állomásához, a lenyűgöző tengerészeti múzeumhoz, ahol egy tartalmas reggelt tölthet el. Délre könnyedén mozoghat az egyházi romok és a természetes kilátópontok között. Délutáni útja során megáll a város elegáns színházánál és a szabadtéri színpadoknál. Fejezze be a napot a tenger közelében parkolva, egy kedves esti sétával a nyüzsgő sétányon.",
+        "ro": "Conduceți către prima dvs. destinație, fascinantul muzeu maritim, unde veți petrece o dimineață plină de satisfacții. Până la prânz, deplasați-vă ușor între ruinele bisericii și punctele naturale de belvedere. Drumul de după-amiază include opriri la teatrul elegant al orașului. Terminați ziua parcând lângă mare, făcând o plimbare minunată de seară pe promenada plină de viață.",
+        "en": "Drive to your first destination, the fascinating maritime museum, where you will spend a rewarding morning uncovering ancient secrets. By midday, easily hop between the evocative church ruins and natural coastal viewpoints. Your afternoon drive includes stops at the town's elegant theater and lively open-air stages. Finish the day parking near the sea, taking a lovely evening stroll along the bustling promenade."
+      }
+    }
+  }
+}

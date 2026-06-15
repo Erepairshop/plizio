@@ -1,0 +1,497 @@
+{
+  "city_id": "city-malmo",
+  "anchor": {
+    "name": "Malmö",
+    "coords": [
+      13.0038,
+      55.605
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt Petri kyrka",
+            "hu": "Sankt Petri kyrka",
+            "ro": "Sankt Petri kyrka",
+            "en": "Sankt Petri kyrka"
+          },
+          "coords": [
+            13.003318,
+            55.606936
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragende Backsteingotik und den detailreichen Holzaltar, aber sprechen Sie während der Chorproben bitte nur leise.",
+            "hu": "Csodálja meg a tornyosuló balti téglagótikát és a bonyolult faoltárt, de ne feledjen csendben maradni a kóruspróbák idején.",
+            "ro": "Admirați arhitectura gotică impunătoare din cărămidă și altarul elaborat din lemn, dar păstrați liniștea în timpul repetițiilor corului.",
+            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Länsresidenset Malmö",
+            "hu": "Länsresidenset Malmö",
+            "ro": "Länsresidenset Malmö",
+            "en": "Länsresidenset Malmö"
+          },
+          "coords": [
+            13.001007,
+            55.60692
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die königlichen Fassaden dieser Residenz und machen Sie die besten Fotos vom Platz aus, bevor die Nachmittagsschatten fallen.",
+            "hu": "Gyönyörködjön a kormányzói rezidencia királyi homlokzatában, és lője a legjobb fotókat a térről, még a délutáni árnyékok beállta előtt.",
+            "ro": "Minunați-vă de fațadele regale ale acestei reședințe și faceți cele mai bune fotografii din piață chiar înainte să cadă umbrele după-amiezii.",
+            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall."
+          }
+        },
+        {
+          "name": {
+            "de": "Malmö Live Konserthus",
+            "hu": "Malmö Live Konserthus",
+            "ro": "Malmö Live Konserthus",
+            "en": "Malmö Live Konserthus"
+          },
+          "coords": [
+            12.993645,
+            55.607352
+          ],
+          "category": "cultural",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakuläre Akustik und das moderne Design, und achten Sie im Foyer auf gelegentliche, kostenlose Mittagskonzerte.",
+            "hu": "Tapasztalja meg a koncertterem lenyűgöző akusztikáját és modern dizájnját, és érdemes az előtérben ingyenes déli előadásokat keresni.",
+            "ro": "Experimentați acustica spectaculoasă și designul modern și asigurați-vă că verificați holul pentru spectacole gratuite la prânz.",
+            "en": "Experience the spectacular acoustics and modern design of this concert hall, and be sure to check the lobby for free lunchtime performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Teknikens och sjöfartens hus",
+            "hu": "Teknikens och sjöfartens hus",
+            "ro": "Teknikens och sjöfartens hus",
+            "en": "Teknikens och sjöfartens hus"
+          },
+          "coords": [
+            12.982778,
+            55.604833
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Klettern Sie in diesem Technikmuseum an Bord eines echten U-Bootes, aber starten Sie früh, um lauten Schulklassen zur Mittagszeit zu entgehen.",
+            "hu": "Másszon be egy igazi tengeralattjáróba ebben a múzeumban, de érkezzen korán, hogy elkerülje a délben érkező hangos iskolás csoportokat.",
+            "ro": "Urcați la bordul unui submarin real la acest muzeu, dar începeți devreme pentru a evita grupurile școlare zgomotoase care sosesc la prânz.",
+            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Människan och Pegasus",
+            "hu": "Människan och Pegasus",
+            "ro": "Människan och Pegasus",
+            "en": "Människan och Pegasus"
+          },
+          "coords": [
+            12.987098,
+            55.601106
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Stehen Sie unter dieser Skulptur der künstlerischen Freiheit und betrachten Sie sie von Süden, um den Himmel direkt hinter den Flügeln zu haben.",
+            "hu": "Álljon a művészi szabadságot szimbolizáló dinamikus szobor alá, és nézze délről, hogy a drámai égbolt közvetlenül a szárnyak mögé kerüljön.",
+            "ro": "Stați sub această sculptură dinamică ce simbolizează libertatea și priviți-o din sud pentru a avea cerul dramatic direct în spatele aripilor.",
+            "en": "Stand beneath this dynamic sculpture symbolizing artistic freedom, and view it from the south to get the dramatic sky directly behind the wings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebbas hus",
+            "hu": "Ebbas hus",
+            "ro": "Ebbas hus",
+            "en": "Ebbas hus"
+          },
+          "coords": [
+            13.005777,
+            55.605371
+          ],
+          "category": "museum",
+          "arrive_at": "15:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem erhaltenen Arbeiterhaus der 1910er Jahre und fragen Sie den Guide nach dem historischen Ofenmechanismus.",
+            "hu": "Lépjen vissza az időben ebben az 1910-es évekbeli munkásházban, és kérdezze a felkészült idegenvezetőt a korabeli kályha működéséről.",
+            "ro": "Întoarceți-vă în timp în această casă muncitorească minusculă din anii 1910 și întrebați ghidul despre mecanismul sobei de epocă.",
+            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im historischen Herzen von Malmö an der beeindruckenden Sankt Petri kyrka, einem Wunder der baltischen Backsteingotik. Mittags führt unser Weg westwärts, wo wir das elegante Länsresidenset entdecken und dann in das architektonische Meisterwerk Malmö Live eintauchen. Der Nachmittag ist den faszinierenden Ausstellungen im Technik- und Schifffahrtsmuseum gewidmet. Den Tag beschließen wir mit einem Spaziergang vorbei an der markanten Pegasus-Statue zum historisch intimen Ebbas hus, das Malmös Epochen widerspiegelt.",
+        "hu": "Gyalogos túránkat Malmö történelmi szívében, a balti téglagótika csodájánál, a lenyűgöző Sankt Petri kyrka templomnál kezdjük. Délben nyugat felé haladva felfedezzük az elegáns Länsresidenset épületét, majd megcsodáljuk a Malmö Live modern építészeti remekművét. A délutánt a technológiai és tengerészeti múzeum lenyűgöző kiállításainak szenteljük, elmerülve a svéd ipari múltban. A napot a Människan och Pegasus szobor érintésével zárjuk, végül a történelmi Ebbas hus intim hangulatában pihenünk meg.",
+        "ro": "Ne începem turul pietonal în inima istorică a orașului Malmö la impresionanta Sankt Petri kyrka, o minune a goticului din cărămidă. La prânz ne îndreptăm spre vest, descoperind eleganta Länsresidenset înainte de a admira arhitectura modernă a complexului Malmö Live. După-amiaza este dedicată expozițiilor fascinante de la muzeul tehnologiei și maritim, explorând trecutul industrial al Suediei. Încheiem ziua cu o plimbare pe lângă statuia Pegas până la intimul Ebbas hus, surprinzând epocile contrastante ale orașului.",
+        "en": "We start our walking tour in the historic heart of Malmö at the imposing Sankt Petri kyrka, a marvel of Baltic brick Gothic. Midday leads us westward, discovering the elegant Länsresidenset before stepping into the modern architectural marvel of Malmö Live. The afternoon is dedicated to the fascinating exhibits at the technology and maritime museum, diving deep into Sweden's industrial past. We conclude the day with a stroll past the striking Människan och Pegasus statue to the intimately historical Ebbas hus, capturing Malmö's contrasting eras."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 4.24,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ebbas hus",
+            "hu": "Ebbas hus",
+            "ro": "Ebbas hus",
+            "en": "Ebbas hus"
+          },
+          "coords": [
+            13.005777,
+            55.605371
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem erhaltenen Arbeiterhaus der 1910er Jahre und fragen Sie den Guide nach dem historischen Ofenmechanismus.",
+            "hu": "Lépjen vissza az időben ebben az 1910-es évekbeli munkásházban, és kérdezze a felkészült idegenvezetőt a korabeli kályha működéséről.",
+            "ro": "Întoarceți-vă în timp în această casă muncitorească minusculă din anii 1910 și întrebați ghidul despre mecanismul sobei de epocă.",
+            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Petri kyrka",
+            "hu": "Sankt Petri kyrka",
+            "ro": "Sankt Petri kyrka",
+            "en": "Sankt Petri kyrka"
+          },
+          "coords": [
+            13.003318,
+            55.606936
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragende Backsteingotik und den detailreichen Holzaltar, aber sprechen Sie während der Chorproben bitte nur leise.",
+            "hu": "Csodálja meg a tornyosuló balti téglagótikát és a bonyolult faoltárt, de ne feledjen csendben maradni a kóruspróbák idején.",
+            "ro": "Admirați arhitectura gotică impunătoare din cărămidă și altarul elaborat din lemn, dar păstrați liniștea în timpul repetițiilor corului.",
+            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Malmö konsthall",
+            "hu": "Malmö konsthall",
+            "ro": "Malmö konsthall",
+            "en": "Malmö konsthall"
+          },
+          "coords": [
+            12.99924,
+            55.59527
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst in diesem weitläufigen, hellen Raum und trinken Sie einen Kaffee im hoch bewerteten Innenhof-Café nebenan.",
+            "hu": "Fedezze fel a kortárs művészetet ebben a hatalmas, világos térben, és igyon egy kávét a kiváló értékelésű szomszédos udvari kávézóban.",
+            "ro": "Explorați arta contemporană în acest spațiu vast luminat natural și beți o cafea la apreciata cafenea din curtea adiacentă.",
+            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café."
+          }
+        },
+        {
+          "name": {
+            "de": "Malmö Opera",
+            "hu": "Malmö Opera",
+            "ro": "Malmö Opera",
+            "en": "Malmö Opera"
+          },
+          "coords": [
+            12.995702,
+            55.596122
+          ],
+          "category": "cultural",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die funktionalistische Architektur und das große Foyer der Oper und buchen Sie frühzeitig eine Backstage-Tour für geheime Einblicke.",
+            "hu": "Csodálja meg az Opera funkcionalista építészetét és tágas előcsarnokát, és foglaljon jó előre kulisszajárást a rejtett részletekért.",
+            "ro": "Minunați-vă de arhitectura funcționalistă și de foaierul grandios al Operei și rezervați din timp un tur în culise pentru perspective ascunse.",
+            "en": "Marvel at the functionalist architecture and grand foyer of the Opera, and try booking a backstage tour well in advance for hidden insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Johannes kyrka",
+            "hu": "Sankt Johannes kyrka",
+            "ro": "Sankt Johannes kyrka",
+            "en": "Sankt Johannes kyrka"
+          },
+          "coords": [
+            13.00175,
+            55.594199
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und die Buntglasfenster dieser historischen Kirche, und nehmen Sie sich einen Moment der Besinnung.",
+            "hu": "Élvezze a történelmi templom békés hangulatát és gyönyörű ólomüveg ablakait, szakítva egy pillanatot a csendes elmélkedésre.",
+            "ro": "Bucurați-vă de atmosfera senină și de vitraliile frumoase ale acestei biserici istorice, luându-vă un moment de reflecție departe de agitație.",
+            "en": "Enjoy the serene atmosphere and beautiful stained glass windows of this historic church, taking a moment of quiet reflection away from the city buzz."
+          }
+        },
+        {
+          "name": {
+            "de": "Malmö synagoga",
+            "hu": "Malmö synagoga",
+            "ro": "Malmö synagoga",
+            "en": "Malmö synagoga"
+          },
+          "coords": [
+            13.010823,
+            55.599534
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Beachten Sie die maurische Fassade dieser wichtigen Kulturstätte, aber denken Sie daran, dass der Zugang meist vorherige Absprachen erfordert.",
+            "hu": "Figyelje meg e fontos kulturális helyszín mór stílusú homlokzatát, de tartsa szem előtt, hogy a belső tér látogatásához előzetes egyeztetés kell.",
+            "ro": "Observați fațada maură impresionantă a acestui sit cultural important, dar rețineți că accesul interior necesită de obicei o programare.",
+            "en": "Note the striking Moorish Revival facade of this important cultural site, but keep in mind that interior access typically requires prior arrangement."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankta Maria kyrka",
+            "hu": "Sankta Maria kyrka",
+            "ro": "Sankta Maria kyrka",
+            "en": "Sankta Maria kyrka"
+          },
+          "coords": [
+            13.01216,
+            55.588475
+          ],
+          "category": "religious",
+          "arrive_at": "15:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme und das Mauerwerk dieser charmanten Kirche, perfekt für einen abendlichen Spaziergang um das Gelände.",
+            "hu": "Fedezze fel a negyed templomának csendes varázsát és elegáns kőmunkáit, amely tökéletes egy békés esti sétához az épület körül.",
+            "ro": "Descoperiți farmecul liniștit și piatra elegantă a acestei biserici de cartier, perfectă pentru o plimbare liniștită de seară în jurul ei.",
+            "en": "Discover the quiet charm and elegant stonework of this neighborhood church, perfect for a peaceful evening walk around its perimeter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour durch Malmö mit der Erkundung des winzigen, aber historisch reichen Ebbas hus im Stadtzentrum. Gegen Mittag radeln Sie an der beeindruckenden Sankt Petri kyrka vorbei, bevor Sie zur berühmten Malmö konsthall fahren, um zeitgenössische Kunst zu genießen. Die nachmittägliche Fahrt verbindet Sie mit der ikonischen Malmö Opera und der nahegelegenen Sankt Johannes kyrka. Der Abend klingt gemütlich aus, wenn Sie zur ruhigen Synagoge weiterradeln und schließlich die charmante Sankta Maria kyrka erreichen.",
+        "hu": "Kerékpáros utunkat Malmö belvárosában kezdjük, az apró, de történelmileg gazdag Ebbas hus felfedezésével. Dél körül eltekerünk a fenséges Sankt Petri kyrka mellett, majd a híres Malmö konsthall felé vesszük az irányt a kortárs művészetekért. A délutáni tekerés a lenyűgöző Malmö Opera és a közeli Sankt Johannes kyrka épületeit fűzi fel, megmutatva a város eleganciáját. Az estét a nyugalmas malmői zsinagóga felkeresésével és a Sankta Maria kyrka megcsodálásával zárjuk, kellemes levezetésként.",
+        "ro": "Începeți-vă călătoria pe bicicletă prin Malmö explorând minuscula, dar istoric de bogata Ebbas hus din centrul orașului. La prânz, veți pedala pe lângă grandioasa Sankt Petri kyrka înainte de a coborî spre renumita Malmö konsthall pentru artă contemporană. Plimbarea de după-amiază vă conectează la emblematica Malmö Opera și la Sankt Johannes kyrka din apropiere, etalând o arhitectură elegantă. Seara se încheie frumos în timp ce mergeți pe bicicletă spre liniștita sinagogă și terminați la Sankta Maria kyrka.",
+        "en": "Kick off your cycling journey through Malmö by exploring the tiny but historically rich Ebbas hus in the city center. By midday, you'll pedal past the grand Sankt Petri kyrka before cruising down to the renowned Malmö konsthall to soak in cutting-edge contemporary art. The afternoon ride connects you to the iconic Malmö Opera and the nearby Sankt Johannes kyrka, showcasing elegant civic and religious architecture. The evening winds down beautifully as you bike to the tranquil Malmö synagoga and finish at Sankta Maria kyrka."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 6.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teknikens och sjöfartens hus",
+            "hu": "Teknikens och sjöfartens hus",
+            "ro": "Teknikens och sjöfartens hus",
+            "en": "Teknikens och sjöfartens hus"
+          },
+          "coords": [
+            12.982778,
+            55.604833
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Klettern Sie in diesem Technikmuseum an Bord eines echten U-Bootes, aber starten Sie früh, um lauten Schulklassen zur Mittagszeit zu entgehen.",
+            "hu": "Másszon be egy igazi tengeralattjáróba ebben a múzeumban, de érkezzen korán, hogy elkerülje a délben érkező hangos iskolás csoportokat.",
+            "ro": "Urcați la bordul unui submarin real la acest muzeu, dar începeți devreme pentru a evita grupurile școlare zgomotoase care sosesc la prânz.",
+            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Länsresidenset Malmö",
+            "hu": "Länsresidenset Malmö",
+            "ro": "Länsresidenset Malmö",
+            "en": "Länsresidenset Malmö"
+          },
+          "coords": [
+            13.001007,
+            55.60692
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die königlichen Fassaden dieser Residenz und machen Sie die besten Fotos vom Platz aus, bevor die Nachmittagsschatten fallen.",
+            "hu": "Gyönyörködjön a kormányzói rezidencia királyi homlokzatában, és lője a legjobb fotókat a térről, még a délutáni árnyékok beállta előtt.",
+            "ro": "Minunați-vă de fațadele regale ale acestei reședințe și faceți cele mai bune fotografii din piață chiar înainte să cadă umbrele după-amiezii.",
+            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall."
+          }
+        },
+        {
+          "name": {
+            "de": "Malmö konsthall",
+            "hu": "Malmö konsthall",
+            "ro": "Malmö konsthall",
+            "en": "Malmö konsthall"
+          },
+          "coords": [
+            12.99924,
+            55.59527
+          ],
+          "category": "cultural",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst in diesem weitläufigen, hellen Raum und trinken Sie einen Kaffee im hoch bewerteten Innenhof-Café nebenan.",
+            "hu": "Fedezze fel a kortárs művészetet ebben a hatalmas, világos térben, és igyon egy kávét a kiváló értékelésű szomszédos udvari kávézóban.",
+            "ro": "Explorați arta contemporană în acest spațiu vast luminat natural și beți o cafea la apreciata cafenea din curtea adiacentă.",
+            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café."
+          }
+        },
+        {
+          "name": {
+            "de": "Oscar Olsson-museet",
+            "hu": "Oscar Olsson-museet",
+            "ro": "Oscar Olsson-museet",
+            "en": "Oscar Olsson-museet"
+          },
+          "coords": [
+            13.010343,
+            55.582754
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die Geschichte der schwedischen Erwachsenenbildung ein und lesen Sie die Schautafeln, um die Bedeutung zu erfassen.",
+            "hu": "Merüljön el a svéd felnőttképzés történetében ebben az egyedülálló múzeumban, és olvassa el a bevezető táblákat a társadalmi hatás megértéséhez.",
+            "ro": "Cufundați-vă în istoria educației adulților la acest muzeu unic și citiți plăcuțele introductive pentru a-i înțelege adevăratul impact social.",
+            "en": "Immerse yourself in the adult education history of Sweden at this unique museum, and read the introductory plaques to grasp its true social impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Heliga Trefaldighetskyrkan",
+            "hu": "Heliga Trefaldighetskyrkan",
+            "ro": "Heliga Trefaldighetskyrkan",
+            "en": "Heliga Trefaldighetskyrkan"
+          },
+          "coords": [
+            13.005633,
+            55.578094
+          ],
+          "category": "religious",
+          "arrive_at": "15:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klaren, modernen Linien der Dreifaltigkeitskirche und kommen Sie, wenn die Nachmittagssonne auf die Eingangsfenster trifft.",
+            "hu": "Figyelje meg a Szentháromság-templom modern építészeti vonalait, és látogasson el ide, amikor a délutáni nap a bejárati ablakokra süt.",
+            "ro": "Observați liniile arhitecturale moderne ale Bisericii Sfânta Treime și vizitați când soarele de după-amiază lovește ferestrele proeminente.",
+            "en": "Observe the distinct modern architectural lines of the Holy Trinity Church, and visit when the afternoon sun hits the prominent entrance windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Matteus kyrka",
+            "hu": "Sankt Matteus kyrka",
+            "ro": "Sankt Matteus kyrka",
+            "en": "Sankt Matteus kyrka"
+          },
+          "coords": [
+            13.021336,
+            55.589021
+          ],
+          "category": "religious",
+          "arrive_at": "16:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Genießen Sie das harmonische Design dieser Kirche aus einer späteren Epoche, die einen tollen architektonischen Kontrast zu den älteren Bauten bildet.",
+            "hu": "Csodálja meg a későbbi korszakból származó templom harmonikus dizájnját, amely kiváló építészeti kontrasztot alkot az öregebb katedrálisokkal.",
+            "ro": "Admirați designul armonios al acestei biserici din perioada ulterioară, un contrast arhitectural excelent față de catedralele mai vechi ale orașului.",
+            "en": "Take in the harmonious design and welcoming ambiance of this later-period church, an excellent architectural contrast to Malmö's older cathedrals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am weitläufigen Technik- und Schifffahrtsmuseum, wo Sie dank guter Parkmöglichkeiten Malmös maritime Geschichte erkunden können. Mittags fahren Sie zur stattlichen Länsresidenset und weiter zur renommierten Malmö konsthall für schnelle Einblicke in moderne Kunst. Am Nachmittag fahren Sie zum einzigartigen Oscar Olsson-museet, um in einer ruhigeren Umgebung tiefer in die Kulturgeschichte einzutauchen. Wir runden die Route ab, indem wir zur Heliga Trefaldighetskyrkan und zur Sankt Matteus kyrka navigieren.",
+        "hu": "Autós túránk a kiterjedt technológiai és tengerészeti múzeumnál kezdődik, ahol a kényelmes parkolás után felfedezhetjük Malmö múltját. Délben a méltóságteljes Länsresidenset, majd a Malmö konsthall felé autózunk, ahol a közeli parkolóknak hála könnyen élvezhetjük a modern művészetet. Délután a különleges Oscar Olsson-museet kínál csendesebb környezetet a helyi kultúrtörténet megismeréséhez. A programot a gyönyörű építésű Heliga Trefaldighetskyrkan és a Sankt Matteus kyrka felkeresésével zárjuk a város külsőbb részein.",
+        "ro": "Turul auto începe la vastul muzeu tehnologic și maritim, oferindu-vă timp să explorați istoria cu o parcare ușoară. Prânzul vă aduce la impunătoarea Länsresidenset și apoi la renumita Malmö konsthall, unde parcarea permite un acces rapid la artă modernă. După-amiaza, veți conduce până la unicul Oscar Olsson-museet pentru a pătrunde mai adânc în istoria culturală locală. Încheiem itinerariul navigând către frumos construita Heliga Trefaldighetskyrkan și impunătoarea Sankt Matteus kyrka din zonele mai liniștite.",
+        "en": "Your driving tour begins at the expansive Teknikens och sjöfartens hus, giving you ample time to explore Malmö's maritime history with easy parking. Midday brings you to the stately Länsresidenset and then down to the renowned Malmö konsthall, where parking nearby allows quick access to modern art. In the afternoon, you'll drive out to the unique Oscar Olsson-museet to delve deeper into local cultural history in a quieter setting. We wrap up the itinerary by navigating to the beautifully constructed Heliga Trefaldighetskyrkan and Sankt Matteus kyrka."
+      }
+    }
+  }
+}

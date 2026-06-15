@@ -1,0 +1,474 @@
+{
+  "city_id": "tlaxcala-city-cities-v2",
+  "anchor": {
+    "name": "Tlaxcala",
+    "coords": [
+      -98.2384,
+      19.3146
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Capilla Abierta del Ex-convento",
+            "hu": "Capilla Abierta del Ex-convento",
+            "ro": "Capilla Abierta del Ex-convento",
+            "en": "Capilla Abierta del Ex-convento"
+          },
+          "coords": [
+            -98.238274,
+            19.313735
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Bögen dieser Freiluftkapelle aus dem 16. Jahrhundert, und kommen Sie früh, um die Fassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi nyitott kápolna íveit, amelyet a tömeges térítésekhez építettek, és érkezzen korán, hogy tömeg nélkül fotózhassa a homlokzatot.",
+            "ro": "Admirați arcadele din secolul al XVI-lea ale acestei capele în aer liber și ajungeți devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the striking 16th-century arches of this open-air chapel, built for mass conversions, and arrive early to photograph the facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalinatas de El Ben Vecino",
+            "hu": "Escalinatas de El Ben Vecino",
+            "ro": "Escalinatas de El Ben Vecino",
+            "en": "Escalinatas de El Ben Vecino"
+          },
+          "coords": [
+            -98.237483,
+            19.312823
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese historischen Stufen für einen Panoramablick über Tlaxcala, aber lassen Sie es langsam angehen, um sich an die Höhe anzupassen.",
+            "hu": "Mássza meg ezeket a történelmi lépcsőket a Tlaxcalára nyíló panorámáért, de haladjon lassan a magasság miatt, és vigyen magával elegendő vizet.",
+            "ro": "Urcați aceste trepte istorice pentru a vă bucura de o vedere panoramică asupra orașului, dar faceți-o încet pentru a vă adapta la altitudine.",
+            "en": "Climb these historic steps to enjoy a sweeping panoramic view over Tlaxcala, but take it slow to adjust to the city's altitude and bring plenty of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Memoria",
+            "hu": "Museo de la Memoria",
+            "ro": "Museo de la Memoria",
+            "en": "Museo de la Memoria"
+          },
+          "coords": [
+            -98.238395,
+            19.315639
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte zu Tlaxcalas einzigartiger Rolle in der mexikanischen Geschichte und verpassen Sie nicht die Kodex-Repliken.",
+            "hu": "Fedezze fel a lenyűgöző leleteket, amelyek bemutatják Tlaxcala egyedi szerepét a mexikói történelemben, és ne hagyja ki a kódexmásolatokat.",
+            "ro": "Descoperiți artefacte și documente despre rolul unic al Tlaxcalei în istoria mexicană și nu ratați replicile codexurilor de la etajul al doilea.",
+            "en": "Discover fascinating artifacts and documents detailing Tlaxcala's unique role in Mexican history, and don't miss the detailed codex replicas on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Portal Hidalgo",
+            "hu": "Portal Hidalgo",
+            "ro": "Portal Hidalgo",
+            "en": "Portal Hidalgo"
+          },
+          "coords": [
+            -98.237483,
+            19.316679
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kolonialen Arkaden voller lokalen Lebens und halten Sie in einem Café an, um traditionellen Pulque zu probieren.",
+            "hu": "Sétáljon végig ezeken a gyarmati árkádokon, és pihenjen meg egy közeli kávézóban, hogy megkóstolja a hagyományos pulque-t, miközben az embereket figyeli.",
+            "ro": "Plimbați-vă prin aceste arcade coloniale pline de viață și opriți-vă la o cafenea pentru a gusta pulque tradițional în timp ce priviți trecătorii.",
+            "en": "Stroll through these vibrant colonial arcades filled with local life, and pause at a nearby café to taste traditional pulque while people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Tlaxcala",
+            "hu": "Museo de Arte de Tlaxcala",
+            "ro": "Museo de Arte de Tlaxcala",
+            "en": "Museo de Arte de Tlaxcala"
+          },
+          "coords": [
+            -98.23902,
+            19.31711
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kolonialgebäude mit einer beeindruckenden Sammlung von Frida Kahlos frühen Werken und prüfen Sie aktuelle Ausstellungen.",
+            "hu": "Fedezze fel ezt a szépen felújított gyarmati épületet, amely Frida Kahlo korai műveinek ad otthont, és ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Explorați această clădire colonială frumos restaurată ce găzduiește o colecție impresionantă de opere timpurii ale Fridei Kahlo și verificați expozițiile.",
+            "en": "Explore this beautifully restored colonial building housing an impressive collection of Frida Kahlo's early works, and check the schedule for temporary exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der historischen Freiluftkapelle und der Treppen. Mittags lockt das Museum der Erinnerung mit regionaler Geschichte. Am Nachmittag genießen Sie die koloniale Atmosphäre an den Portal Hidalgo Arkaden. Beenden Sie den Tag im Kunstmuseum.",
+        "hu": "Kezdje a reggelt a történelmi szabadtéri kápolna és a festői lépcsők felfedezésével. Délben a regionális történelmet ismerheti meg a Memória Múzeumban. Délután élvezze a gyarmati hangulatot a Portal Hidalgo árkádjainál. Zárja a napot a művészeti múzeumban.",
+        "ro": "Începeți dimineața explorând capela istorică și treptele pitorești. La prânz vă invităm să descoperiți istoria regională la Muzeul Memoriei. După-amiaza bucurați-vă de atmosfera colonială vibrantă la Portal Hidalgo. Încheiați ziua admirând arta la Muzeul de Artă.",
+        "en": "Start your morning exploring the historic open-air chapel and the scenic stairs. Midday invites you to dive into regional history at the Memory Museum. In the afternoon, soak up the vibrant colonial atmosphere at the Portal Hidalgo arcades. Conclude your day admiring world-class fine art at the Museum of Art."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro de la Sabiduría",
+            "hu": "Faro de la Sabiduría",
+            "ro": "Faro de la Sabiduría",
+            "en": "Faro de la Sabiduría"
+          },
+          "coords": [
+            -98.241327,
+            19.303724
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen symbolischen Turm der Erleuchtung und versuchen Sie an einem klaren Morgen, die umliegenden Vulkane von seiner Basis aus zu erspähen.",
+            "hu": "Látogasson el ehhez a megvilágosodást szimbolizáló toronyhoz, és tiszta reggeleken próbálja meg felfedezni a környező vulkánokat az alapjától.",
+            "ro": "Vizitați acest turn simbolic al iluminării și încercați să observați vulcanii înconjurători de la baza sa într-o dimineață senină.",
+            "en": "Visit this symbolic tower representing the enlightenment of the city, and try to spot the surrounding volcanoes from its base on a clear morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla Abierta del Ex-convento",
+            "hu": "Capilla Abierta del Ex-convento",
+            "ro": "Capilla Abierta del Ex-convento",
+            "en": "Capilla Abierta del Ex-convento"
+          },
+          "coords": [
+            -98.238274,
+            19.313735
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Bögen dieser Freiluftkapelle aus dem 16. Jahrhundert, und kommen Sie früh, um die Fassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi nyitott kápolna íveit, amelyet a tömeges térítésekhez építettek, és érkezzen korán, hogy tömeg nélkül fotózhassa a homlokzatot.",
+            "ro": "Admirați arcadele din secolul al XVI-lea ale acestei capele în aer liber și ajungeți devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the striking 16th-century arches of this open-air chapel, built for mass conversions, and arrive early to photograph the facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Portal Hidalgo",
+            "hu": "Portal Hidalgo",
+            "ro": "Portal Hidalgo",
+            "en": "Portal Hidalgo"
+          },
+          "coords": [
+            -98.237483,
+            19.316679
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kolonialen Arkaden voller lokalen Lebens und halten Sie in einem Café an, um traditionellen Pulque zu probieren.",
+            "hu": "Sétáljon végig ezeken a gyarmati árkádokon, és pihenjen meg egy közeli kávézóban, hogy megkóstolja a hagyományos pulque-t, miközben az embereket figyeli.",
+            "ro": "Plimbați-vă prin aceste arcade coloniale pline de viață și opriți-vă la o cafenea pentru a gusta pulque tradițional în timp ce priviți trecătorii.",
+            "en": "Stroll through these vibrant colonial arcades filled with local life, and pause at a nearby café to taste traditional pulque while people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Tlaxcala",
+            "hu": "Museo de Arte de Tlaxcala",
+            "ro": "Museo de Arte de Tlaxcala",
+            "en": "Museo de Arte de Tlaxcala"
+          },
+          "coords": [
+            -98.23902,
+            19.31711
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kolonialgebäude mit einer beeindruckenden Sammlung von Frida Kahlos frühen Werken und prüfen Sie aktuelle Ausstellungen.",
+            "hu": "Fedezze fel ezt a szépen felújított gyarmati épületet, amely Frida Kahlo korai műveinek ad otthont, és ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Explorați această clădire colonială frumos restaurată ce găzduiește o colecție impresionantă de opere timpurii ale Fridei Kahlo și verificați expozițiile.",
+            "en": "Explore this beautifully restored colonial building housing an impressive collection of Frida Kahlo's early works, and check the schedule for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Comunitario de la Antigua República de Tlaxcallan",
+            "hu": "Museo Comunitario de la Antigua República de Tlaxcallan",
+            "ro": "Museo Comunitario de la Antigua República de Tlaxcallan",
+            "en": "Museo Comunitario de la Antigua República de Tlaxcallan"
+          },
+          "coords": [
+            -98.226905,
+            19.334793
+          ],
+          "category": "museum",
+          "arrive_at": "14:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die prähispanischen Wurzeln der Region ein und unterstützen Sie lokale Handwerker, indem Sie am Eingang Souvenirs kaufen.",
+            "hu": "Merüljön el a régió prehispán gyökereiben a közösségi kiállításokon keresztül, és támogassa a helyi kézműveseket az ajándékboltban való vásárlással.",
+            "ro": "Scufundați-vă în rădăcinile prehispanice ale regiunii prin expoziții comunitare și susțineți artizanii locali cumpărând suveniruri de la intrare.",
+            "en": "Immerse yourself in the deep pre-Hispanic roots of the region through community-curated exhibits, and support local artisans by buying souvenirs at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica de Tepeticpac",
+            "hu": "Zona Arqueológica de Tepeticpac",
+            "ro": "Zona Arqueológica de Tepeticpac",
+            "en": "Zona Arqueológica de Tepeticpac"
+          },
+          "coords": [
+            -98.235392,
+            19.348691
+          ],
+          "category": "landmark",
+          "arrive_at": "16:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie um die antiken Hügelruinen eines der ursprünglichen Tlaxcalteken-Reiche und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Sétáljon az egyik eredeti tlaxcalai birodalom ősi dombtetőn lévő romjainál, és viseljen masszív cipőt a sziklás, burkolatlan terephez.",
+            "ro": "Plimbați-vă printre ruinele unuia dintre cele patru regate originale din Tlaxcala și purtați încălțăminte rezistentă pentru terenul stâncos.",
+            "en": "Wander around the ancient hilltop ruins of one of the four original Tlaxcalan señoríos, and wear sturdy shoes for navigating the unpaved, rocky terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am symbolischen Faro de la Sabiduría, bevor Sie zum historischen Ex-Convento radeln. Mittags genießen Sie die Atmosphäre am Portal Hidalgo und im Kunstmuseum. Nachmittags geht es zum Gemeindemuseum. Beenden Sie den Tag an den Ruinen von Tepeticpac.",
+        "hu": "Kezdje a túrát a Faro de la Sabiduríánál, mielőtt elteker a történelmi Ex-conventohoz. Délben élvezze a hangulatot a Portal Hidalgónál és a művészeti múzeumban. Délután látogasson el a Közösségi Múzeumba. Zárja aktív napját a Tepeticpac romoknál.",
+        "ro": "Începeți plimbarea la Faro de la Sabiduría înainte de a pedala spre istoricul Ex-convento. La prânz bucurați-vă de atmosfera de la Portal Hidalgo și de arta rafinată. După-amiaza vă duce la Muzeul Comunitar. Încheiați-vă ziua activă la ruinele Tepeticpac.",
+        "en": "Kick off your ride at the symbolic Faro de la Sabiduría before pedaling to the historic Ex-convento. Spend midday soaking up the local vibe at Portal Hidalgo and viewing fine art. The afternoon takes you further out to the Community Museum. End your active day at the fascinating Tepeticpac ruins."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Capilla Abierta del Ex-convento",
+            "hu": "Capilla Abierta del Ex-convento",
+            "ro": "Capilla Abierta del Ex-convento",
+            "en": "Capilla Abierta del Ex-convento"
+          },
+          "coords": [
+            -98.238274,
+            19.313735
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Bögen dieser Freiluftkapelle aus dem 16. Jahrhundert, und kommen Sie früh, um die Fassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi nyitott kápolna íveit, amelyet a tömeges térítésekhez építettek, és érkezzen korán, hogy tömeg nélkül fotózhassa a homlokzatot.",
+            "ro": "Admirați arcadele din secolul al XVI-lea ale acestei capele în aer liber și ajungeți devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the striking 16th-century arches of this open-air chapel, built for mass conversions, and arrive early to photograph the facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Portal Hidalgo",
+            "hu": "Portal Hidalgo",
+            "ro": "Portal Hidalgo",
+            "en": "Portal Hidalgo"
+          },
+          "coords": [
+            -98.237483,
+            19.316679
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kolonialen Arkaden voller lokalen Lebens und halten Sie in einem Café an, um traditionellen Pulque zu probieren.",
+            "hu": "Sétáljon végig ezeken a gyarmati árkádokon, és pihenjen meg egy közeli kávézóban, hogy megkóstolja a hagyományos pulque-t, miközben az embereket figyeli.",
+            "ro": "Plimbați-vă prin aceste arcade coloniale pline de viață și opriți-vă la o cafenea pentru a gusta pulque tradițional în timp ce priviți trecătorii.",
+            "en": "Stroll through these vibrant colonial arcades filled with local life, and pause at a nearby café to taste traditional pulque while people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Tlaxcala",
+            "hu": "Museo de Arte de Tlaxcala",
+            "ro": "Museo de Arte de Tlaxcala",
+            "en": "Museo de Arte de Tlaxcala"
+          },
+          "coords": [
+            -98.23902,
+            19.31711
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kolonialgebäude mit einer beeindruckenden Sammlung von Frida Kahlos frühen Werken und prüfen Sie aktuelle Ausstellungen.",
+            "hu": "Fedezze fel ezt a szépen felújított gyarmati épületet, amely Frida Kahlo korai műveinek ad otthont, és ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Explorați această clădire colonială frumos restaurată ce găzduiește o colecție impresionantă de opere timpurii ale Fridei Kahlo și verificați expozițiile.",
+            "en": "Explore this beautifully restored colonial building housing an impressive collection of Frida Kahlo's early works, and check the schedule for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica de Tepeticpac",
+            "hu": "Zona Arqueológica de Tepeticpac",
+            "ro": "Zona Arqueológica de Tepeticpac",
+            "en": "Zona Arqueológica de Tepeticpac"
+          },
+          "coords": [
+            -98.235392,
+            19.348691
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Wandern Sie um die antiken Hügelruinen eines der ursprünglichen Tlaxcalteken-Reiche und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Sétáljon az egyik eredeti tlaxcalai birodalom ősi dombtetőn lévő romjainál, és viseljen masszív cipőt a sziklás, burkolatlan terephez.",
+            "ro": "Plimbați-vă printre ruinele unuia dintre cele patru regate originale din Tlaxcala și purtați încălțăminte rezistentă pentru terenul stâncos.",
+            "en": "Wander around the ancient hilltop ruins of one of the four original Tlaxcalan señoríos, and wear sturdy shoes for navigating the unpaved, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario",
+            "hu": "Santuario",
+            "ro": "Santuario",
+            "en": "Santuario"
+          },
+          "coords": [
+            -98.254915,
+            19.348736
+          ],
+          "category": "castle",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser heiligen Stätte und nehmen Sie während Ihres Besuchs Rücksicht auf die laufenden lokalen Zeremonien.",
+            "hu": "Élje át e szent szentély békés hangulatát és grandiózus építészetét, és látogatása során tartsa tiszteletben a folyamatban lévő vallási szertartásokat.",
+            "ro": "Bucurați-vă de atmosfera senină a acestui sanctuar sacru și fiți respectuoși față de ceremoniile religioase locale în timpul vizitei dumneavoastră.",
+            "en": "Take in the serene atmosphere and grand architecture of this sacred sanctuary, and be respectful of ongoing local religious ceremonies during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "La Persignada",
+            "hu": "La Persignada",
+            "ro": "La Persignada",
+            "en": "La Persignada"
+          },
+          "coords": [
+            -98.270184,
+            19.342488
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe in dieser natürlichen Enklave voller lokaler Flora und packen Sie ein leichtes Picknick für den Schatten der alten Bäume ein.",
+            "hu": "Élvezze a békét ebben a helyi növényvilággal körülvett csendes természeti enklávéban, és hozzon egy könnyű pikniket, amit a fák árnyékában fogyaszthat el.",
+            "ro": "Bucurați-vă de un moment liniștit în această enclavă naturală plină de floră locală și aduceți un picnic ușor pentru a-l savura la umbra copacilor.",
+            "en": "Enjoy a peaceful moment in this quiet natural enclave surrounded by vibrant local flora, and pack a light picnic to enjoy under the shade of the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Temetzontla",
+            "hu": "Mirador Temetzontla",
+            "ro": "Mirador Temetzontla",
+            "en": "Mirador Temetzontla"
+          },
+          "coords": [
+            -98.280839,
+            19.341279
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem spektakulären Aussichtspunkt über die atemberaubenden Täler und kommen Sie vor Sonnenuntergang, um perfekte Fotos zu machen.",
+            "hu": "Tekintsen le a lélegzetelállító völgyekre erről a látványos kilátópontról, és érkezzen naplemente előtt a tökéletes aranyórás fotókért.",
+            "ro": "Admirați văile uluitoare de la acest punct de belvedere spectaculos și ajungeți chiar înainte de apus pentru a surprinde cele mai bune fotografii.",
+            "en": "Gaze out over the breathtaking rolling hills and valleys from this spectacular viewpoint, and arrive right before sunset to capture the perfect golden hour photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag zentral am ikonischen Ex-Convento und spazieren Sie zum Portal Hidalgo und Kunstmuseum. Nachmittags fahren Sie zur archäologischen Zone Tepeticpac und zum Santuario. Beenden Sie den Roadtrip in der Natur bei La Persignada und am Mirador Temetzontla.",
+        "hu": "Kezdje a napot a központban az Ex-conventónál, majd tegyen rövid sétát a Portal Hidalgo és a Művészeti Múzeum felé. Délután vezessen a Tepeticpac régészeti zónához és a Santuarióhoz. Zárja az autós utazást a természetben a La Persignada és a Mirador Temetzontla kilátóknál.",
+        "ro": "Începeți ziua în centru la iconicul Ex-convento, urmat de scurte plimbări la Portal Hidalgo și Muzeul de Artă. După-amiaza, conduceți pentru a explora zona arheologică Tepeticpac și Santuario. Încheiați călătoria bucurându-vă de natura la La Persignada și de priveliștile de la Mirador Temetzontla.",
+        "en": "Begin the day centrally at the iconic Ex-convento, followed by short walks to Portal Hidalgo and the Art Museum. In the afternoon, drive up to explore the Tepeticpac archaeological zone and the grand Santuario. Conclude your road trip enjoying nature at La Persignada and the breathtaking Mirador Temetzontla."
+      }
+    }
+  }
+}

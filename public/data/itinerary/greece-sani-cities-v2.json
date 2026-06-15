@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-sani-cities-v2",
+  "anchor": {
+    "name": "Sani",
+    "coords": [
+      23.3108,
+      40.0922
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Indoor pool",
+            "hu": "Indoor pool",
+            "ro": "Indoor pool",
+            "en": "Indoor pool"
+          },
+          "coords": [
+            23.310302,
+            40.090263
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Innenpool, um Ihre Muskeln in ruhiger Umgebung zu entspannen, aber bringen Sie ein eigenes Handtuch mit, um zusätzliche Gebühren zu vermeiden.",
+            "hu": "Kezdje a napot a beltéri medencében, hogy nyugodt környezetben lazítsa el izmait, de ne felejtsen el saját törölközőt hozni, hogy elkerülje a plusz költségeket.",
+            "ro": "Începeți ziua la piscina interioară pentru a vă relaxa mușchii într-un cadru liniștit, dar amintiți-vă să aduceți propriul prosop pentru a evita taxele suplimentare.",
+            "en": "Start your day at the Indoor pool to relax your muscles in a tranquil setting, but remember to bring your own towel to avoid extra rental fees at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Dream",
+            "hu": "Blue Dream",
+            "ro": "Blue Dream",
+            "en": "Blue Dream"
+          },
+          "coords": [
+            23.310188,
+            40.09462
+          ],
+          "category": "recreational",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Blue Dream Gegend, um unberührte Sandstrände zu genießen, und kommen Sie vor dem Mittag, um eine gute Sonnenliege am lebhaften Strandabschnitt zu ergattern.",
+            "hu": "Látogasson el a Blue Dream területre, hogy élvezze az érintetlen homokos partokat, és érkezzen dél előtt, hogy jó napágyat biztosítson magának a nyüzsgő tengerparton.",
+            "ro": "Vizitați zona Blue Dream pentru a vă bucura de țărmurile nisipoase imaculate, și ajungeți înainte de prânz pentru a vă asigura un șezlong bun lângă malul animat.",
+            "en": "Visit the Blue Dream area to enjoy pristine sandy shores and crystal-clear waters, and arrive before noon to secure a good sunbed near the lively beachfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Sani Hill",
+            "hu": "Sani Hill",
+            "ro": "Sani Hill",
+            "en": "Sani Hill"
+          },
+          "coords": [
+            23.304974,
+            40.099687
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Sani Hill für einen atemberaubenden Panoramablick auf das Resort und das Ägäische Meer, und tragen Sie feste Wanderschuhe, da die Wege sehr uneben sind.",
+            "hu": "Mássza meg a Sani Hillt a lenyűgöző panorámáért, amely az egész üdülőhelyre és az Égei-tengerre nyílik, és viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați pe Sani Hill pentru vederi panoramice uluitoare asupra întregii stațiuni și a Mării Egee, și purtați încălțăminte robustă deoarece potecile pot fi destul de denivelate.",
+            "en": "Climb Sani Hill for breathtaking panoramic views of the entire resort and the Aegean Sea, and wear sturdy walking shoes because the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheatron",
+            "hu": "Amphitheatron",
+            "ro": "Amphitheatron",
+            "en": "Amphitheatron"
+          },
+          "coords": [
+            23.310238,
+            40.101312
+          ],
+          "category": "cultural",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das kulturelle Zentrum des Amphitheaters mit seinen Freilichtaufführungen, und prüfen Sie den lokalen Spielplan vorab, um keine Abendvorstellung zu verpassen.",
+            "hu": "Fedezze fel az Amphitheatron kulturális központját, ahol szabadtéri előadásokat tartanak, és előre ellenőrizze a helyi menetrendet, hogy ne maradjon le az esti műsorról.",
+            "ro": "Explorați centrul cultural Amphitheatron unde au loc spectacole în aer liber, și verificați programul local în avans pentru a nu rata un spectacol captivant de seară.",
+            "en": "Explore the cultural hub of Amphitheatron where open-air performances take place, and check the local schedule in advance so you don't miss an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Bousoulas",
+            "hu": "Bousoulas",
+            "ro": "Bousoulas",
+            "en": "Bousoulas"
+          },
+          "coords": [
+            23.307408,
+            40.102975
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Bousoulas Strand, der für seinen weichen weißen Sand bekannt ist, aber vergessen Sie keine Sonnencreme mit hohem Lichtschutzfaktor, da Schatten begrenzt ist.",
+            "hu": "Pihenjen a Bousoulas strandon, amely puha fehér homokjáról híres, de ne felejtse el a magas faktorszámú naptejet, mivel a természetes árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe plaja Bousoulas, renumită pentru nisipul său alb și fin, dar nu uitați crema de protecție solară cu SPF ridicat, deoarece umbra naturală este destul de limitată.",
+            "en": "Relax at Bousoulas beach, renowned for its soft white sand and shallow family-friendly waters, but don't forget high-SPF sunscreen as natural shade is somewhat limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihr Sani-Abenteuer mit einem friedlichen Schwimmen im Innenpool. Danach schlendern Sie gemütlich zur lebhaften Blue Dream Gegend, um die Morgensonne zu tanken. Midday: Steigen Sie auf den Sani Hill für atemberaubende Ausblicke über das Resort und tolle Fotos. Afternoon: Gehen Sie zum Amphitheater hinab und entspannen Sie sich anschließend am feinen Sandstrand von Bousoulas. Evening: Genießen Sie einen Sonnenuntergangsspaziergang an der Küste vor dem Abendessen.",
+        "hu": "Morning: Kezdje a Sani-kalandot egy békés úszással a beltéri medencében. Ezután sétáljon át a nyüzsgő Blue Dream területére, és szívja magába a reggeli napsugarakat. Midday: Másszon fel a Sani Hillre a lélegzetelállító kilátásért és fantasztikus fotókért. Afternoon: Ereszkedjen le az Amphitheatronhoz, majd lazítson a Bousoulas strand finom, puha homokján. Evening: Élvezze a naplementét a tengerparton sétálva, mielőtt visszatérne az üdülőhely központjába egy finom vacsorára.",
+        "ro": "Morning: Începeți aventura în Sani cu o înotare liniștită la piscina interioară. Apoi, faceți o plimbare relaxantă spre zona vibrantă Blue Dream pentru soarele dimineții. Midday: Urcați pe Sani Hill pentru o vedere uluitoare asupra stațiunii, perfectă pentru fotografii. Afternoon: Coborâți spre Amphitheatron pentru a-i admira arhitectura, apoi relaxați-vă pe nisipul fin de la Bousoulas. Evening: Bucurați-vă de o plimbare la apus de-a lungul coastei înainte de cină.",
+        "en": "Morning: Start your Sani adventure with a peaceful swim at the Indoor pool. From there, take a leisurely stroll towards the vibrant Blue Dream area to soak up the morning sun. Midday: Head up to Sani Hill for breathtaking views across the resort, capturing incredible photos. Afternoon: Descend to the Amphitheatron to appreciate its architecture, then unwind on the soft sands of Bousoulas beach. Evening: Enjoy a sunset walk along the pristine coast before returning to the resort center for dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sani Hill",
+            "hu": "Sani Hill",
+            "ro": "Sani Hill",
+            "en": "Sani Hill"
+          },
+          "coords": [
+            23.304974,
+            40.099687
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Sani Hill für einen atemberaubenden Panoramablick auf das Resort und das Ägäische Meer, und tragen Sie feste Wanderschuhe, da die Wege sehr uneben sind.",
+            "hu": "Mássza meg a Sani Hillt a lenyűgöző panorámáért, amely az egész üdülőhelyre és az Égei-tengerre nyílik, és viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați pe Sani Hill pentru vederi panoramice uluitoare asupra întregii stațiuni și a Mării Egee, și purtați încălțăminte robustă deoarece potecile pot fi destul de denivelate.",
+            "en": "Climb Sani Hill for breathtaking panoramic views of the entire resort and the Aegean Sea, and wear sturdy walking shoes because the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheatron",
+            "hu": "Amphitheatron",
+            "ro": "Amphitheatron",
+            "en": "Amphitheatron"
+          },
+          "coords": [
+            23.310238,
+            40.101312
+          ],
+          "category": "cultural",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das kulturelle Zentrum des Amphitheaters mit seinen Freilichtaufführungen, und prüfen Sie den lokalen Spielplan vorab, um keine Abendvorstellung zu verpassen.",
+            "hu": "Fedezze fel az Amphitheatron kulturális központját, ahol szabadtéri előadásokat tartanak, és előre ellenőrizze a helyi menetrendet, hogy ne maradjon le az esti műsorról.",
+            "ro": "Explorați centrul cultural Amphitheatron unde au loc spectacole în aer liber, și verificați programul local în avans pentru a nu rata un spectacol captivant de seară.",
+            "en": "Explore the cultural hub of Amphitheatron where open-air performances take place, and check the local schedule in advance so you don't miss an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Bousoulas",
+            "hu": "Bousoulas",
+            "ro": "Bousoulas",
+            "en": "Bousoulas"
+          },
+          "coords": [
+            23.307408,
+            40.102975
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Bousoulas Strand, der für seinen weichen weißen Sand bekannt ist, aber vergessen Sie keine Sonnencreme mit hohem Lichtschutzfaktor, da Schatten begrenzt ist.",
+            "hu": "Pihenjen a Bousoulas strandon, amely puha fehér homokjáról híres, de ne felejtse el a magas faktorszámú naptejet, mivel a természetes árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe plaja Bousoulas, renumită pentru nisipul său alb și fin, dar nu uitați crema de protecție solară cu SPF ridicat, deoarece umbra naturală este destul de limitată.",
+            "en": "Relax at Bousoulas beach, renowned for its soft white sand and shallow family-friendly waters, but don't forget high-SPF sunscreen as natural shade is somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Nudist Beach",
+            "hu": "Nudist Beach",
+            "ro": "Nudist Beach",
+            "en": "Nudist Beach"
+          },
+          "coords": [
+            23.312914,
+            40.111048
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie absolute Freiheit am abgelegenen FKK-Strand mit seiner friedlichen Natur, und packen Sie ausreichend Wasser ein, da es in der Nähe keinerlei Einrichtungen gibt.",
+            "hu": "Tapasztalja meg az abszolút szabadságot az eldugott nudista strandon, és vigyen magával elegendő vizet, mivel a közelben nincsenek vendéglátóipari létesítmények.",
+            "ro": "Experimentați libertatea absolută la plaja de nudiști izolată cu împrejurimile sale naturale liniștite, și împachetați multă apă deoarece nu există facilități în apropiere.",
+            "en": "Experience absolute freedom at the secluded Nudist Beach with its peaceful natural surroundings, and pack plenty of water since there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Dream",
+            "hu": "Blue Dream",
+            "ro": "Blue Dream",
+            "en": "Blue Dream"
+          },
+          "coords": [
+            23.310188,
+            40.09462
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Blue Dream Gegend, um unberührte Sandstrände zu genießen, und kommen Sie vor dem Mittag, um eine gute Sonnenliege am lebhaften Strandabschnitt zu ergattern.",
+            "hu": "Látogasson el a Blue Dream területre, hogy élvezze az érintetlen homokos partokat, és érkezzen dél előtt, hogy jó napágyat biztosítson magának a nyüzsgő tengerparton.",
+            "ro": "Vizitați zona Blue Dream pentru a vă bucura de țărmurile nisipoase imaculate, și ajungeți înainte de prânz pentru a vă asigura un șezlong bun lângă malul animat.",
+            "en": "Visit the Blue Dream area to enjoy pristine sandy shores and crystal-clear waters, and arrive before noon to secure a good sunbed near the lively beachfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie gleich morgens zum Sani Hill, um die herrliche Aussicht auf die Küste im sanften, frühen Licht zu genießen. Midday: Fahren Sie hinunter zum kulturellen Amphitheater und erkunden Sie diesen beeindruckenden Freiluftort. Afternoon: Setzen Sie Ihre Fahrt zum Bousoulas Strand fort für eine Abkühlung und besuchen Sie den FKK-Strand. Evening: Beenden Sie Ihre Radtour am lebhaften Blue Dream Strand, wo Sie den Sonnenuntergang über dem Ägäischen Meer beobachten können.",
+        "hu": "Morning: Tekerjen fel a Sani Hillre kora reggel, hogy a lágy fényben csodálhassa meg a lenyűgöző tengerparti panorámát. Midday: Kerékpározzon le a kulturális Amphitheatronhoz, és fedezze fel ezt a lenyűgöző szabadtéri helyszínt. Afternoon: Folytassa útját a Bousoulas strandhoz egy frissítő csobbanásra, majd látogasson el az eldugott nudista strandra. Evening: Fejezze be kerékpártúráját a nyüzsgő Blue Dream strandon, ahol végignézheti a gyönyörű naplementét.",
+        "ro": "Morning: Porniți cu bicicleta spre Sani Hill dis-de-dimineață pentru a prinde vederile panoramice în lumina blândă. Midday: Pedalați până la Amphitheatronul cultural, luându-vă timp pentru a explora acest loc impresionant în aer liber. Afternoon: Continuați plimbarea spre Bousoulas pentru o baie revigorantă, urmată de o vizită la plaja de nudiști. Evening: Încheiați turul la plaja animată Blue Dream, unde puteți admira apusul peste Marea Egee în liniște.",
+        "en": "Morning: Pedal your way to Sani Hill first thing in the morning to catch the panoramic coastal views in the soft, early light. Midday: Cycle down to the cultural Amphitheatron, taking time to explore this impressive open-air venue at your own pace. Afternoon: Continue your ride to Bousoulas for a refreshing dip, followed by a visit to the secluded Nudist Beach. Evening: Finish your cycling tour at the lively Blue Dream beach, where you can watch the sunset over the Aegean Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "activity pool",
+            "hu": "activity pool",
+            "ro": "activity pool",
+            "en": "activity pool"
+          },
+          "coords": [
+            23.337058,
+            40.071834
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den energiegeladenen Activity-Pool für Familienspaß, und nehmen Sie an der morgendlichen Aqua-Aerobic teil, wenn Sie ein erfrischendes Workout suchen.",
+            "hu": "Ugorjon fejest az energikus, családi szórakozásra tervezett élménymedencébe, és csatlakozzon a reggeli vízi aerobikhoz, ha egy frissítő edzésre vágyik a vízben.",
+            "ro": "Scufundați-vă în piscina de activități plină de energie concepută pentru distracție în familie, și alăturați-vă cursului matinal de aqua aerobic pentru un antrenament revigorant.",
+            "en": "Dive into the energetic activity pool designed for family fun and water games, and join the morning aqua aerobics class if you want a refreshing workout session."
+          }
+        },
+        {
+          "name": {
+            "de": "quiet pool",
+            "hu": "quiet pool",
+            "ro": "quiet pool",
+            "en": "quiet pool"
+          },
+          "coords": [
+            23.338389,
+            40.072386
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Pool, der in üppige Gärten eingebettet ist, und sichern Sie sich am frühen Nachmittag eine Sonnenliege mit einem guten Buch für maximale Ruhe.",
+            "hu": "Kapcsolódjon ki a buja kertek között megbúvó csendes medencénél a tökéletes relaxációért, és foglaljon le egy napágyat kora délután egy jó könyvvel a maximális nyugalom érdekében.",
+            "ro": "Relaxați-vă la piscina liniștită amplasată printre grădini luxuriante, și ocupați un șezlong devreme după-amiaza cu o carte bună pentru o pace maximă.",
+            "en": "Unwind at the serene quiet pool nestled among lush gardens for ultimate relaxation, and grab a sun lounger early in the afternoon with a good book for maximum peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Akroterio Purgos - Ormos Kupsas - Malamo",
+            "hu": "Akroterio Purgos - Ormos Kupsas - Malamo",
+            "ro": "Akroterio Purgos - Ormos Kupsas - Malamo",
+            "en": "Akroterio Purgos - Ormos Kupsas - Malamo"
+          },
+          "coords": [
+            23.316548,
+            40.075504
+          ],
+          "category": "natural",
+          "arrive_at": "11:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit von Akroterio Purgos und seine versteckten Buchten, und bringen Sie einen Schnorchel mit, um die lebhafte Unterwasserwelt zu bewundern.",
+            "hu": "Fedezze fel Akroterio Purgos zord szépségét és rejtett öbleit a tengerparton, és hozzon magával búvárszemüveget, hogy megcsodálhassa a sziklák menti élénk víz alatti életet.",
+            "ro": "Descoperiți frumusețea aspră a Akroterio Purgos și golfurile sale ascunse la mare, și aduceți un tub de snorkeling pentru a aprecia viața subacvatică vibrantă de-a lungul stâncilor.",
+            "en": "Discover the rugged beauty of Akroterio Purgos and its hidden coves by the sea, and bring a snorkel to fully appreciate the vibrant underwater life along the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheatron",
+            "hu": "Amphitheatron",
+            "ro": "Amphitheatron",
+            "en": "Amphitheatron"
+          },
+          "coords": [
+            23.310238,
+            40.101312
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das kulturelle Zentrum des Amphitheaters mit seinen Freilichtaufführungen, und prüfen Sie den lokalen Spielplan vorab, um keine Abendvorstellung zu verpassen.",
+            "hu": "Fedezze fel az Amphitheatron kulturális központját, ahol szabadtéri előadásokat tartanak, és előre ellenőrizze a helyi menetrendet, hogy ne maradjon le az esti műsorról.",
+            "ro": "Explorați centrul cultural Amphitheatron unde au loc spectacole în aer liber, și verificați programul local în avans pentru a nu rata un spectacol captivant de seară.",
+            "en": "Explore the cultural hub of Amphitheatron where open-air performances take place, and check the local schedule in advance so you don't miss an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Sani Hill",
+            "hu": "Sani Hill",
+            "ro": "Sani Hill",
+            "en": "Sani Hill"
+          },
+          "coords": [
+            23.304974,
+            40.099687
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Sani Hill für einen atemberaubenden Panoramablick auf das Resort und das Ägäische Meer, und tragen Sie feste Wanderschuhe, da die Wege sehr uneben sind.",
+            "hu": "Mássza meg a Sani Hillt a lenyűgöző panorámáért, amely az egész üdülőhelyre és az Égei-tengerre nyílik, és viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați pe Sani Hill pentru vederi panoramice uluitoare asupra întregii stațiuni și a Mării Egee, și purtați încălțăminte robustă deoarece potecile pot fi destul de denivelate.",
+            "en": "Climb Sani Hill for breathtaking panoramic views of the entire resort and the Aegean Sea, and wear sturdy walking shoes because the paths can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Autotour am lebhaften Activity-Pool, bevor Sie zum nahegelegenen ruhigen Pool fahren, um die Seele baumeln zu lassen. Midday: Fahren Sie nach Süden, um die rauen Naturlandschaften von Akroterio Purgos, Ormos Kupsas und Malamo zu erkunden. Afternoon: Fahren Sie zurück ins Zentrum des Resorts und halten Sie am Amphitheater, um die moderne Atmosphäre zu genießen. Evening: Parken Sie in der Nähe des Sani Hill, um ein spektakuläres Sonnenuntergangspanorama zu erleben.",
+        "hu": "Morning: Kezdje autós túráját a pezsgő élménymedencénél, majd látogasson el a közeli csendes medencéhez egy kis megnyugvásért. Midday: Vezessen délre, és fedezze fel Akroterio Purgos, Ormos Kupsas és Malamo zord, vadregényes természeti tájait. Afternoon: Autózzon vissza az üdülőhely központja felé, és álljon meg az Amphitheatronnál, hogy megcsodálja modern dizájnját. Evening: Parkoljon le a Sani Hill közelében, és élvezze a lenyűgöző naplementét ezen a festői helyen.",
+        "ro": "Morning: Începeți turul cu mașina la piscina de activități înainte de a merge la piscina liniștită pentru o pauză relaxantă. Midday: Conduceți spre sud pentru a explora peisajele naturale accidentate de la Akroterio Purgos, Ormos Kupsas și Malamo. Afternoon: Întoarceți-vă spre centrul stațiunii și opriți la Amphitheatron pentru a aprecia designul său modern. Evening: Parcați aproape de Sani Hill pentru a surprinde o panoramă spectaculoasă la apus, încheind ziua.",
+        "en": "Morning: Start your driving tour at the vibrant activity pool before heading to the nearby quiet pool to balance out the energy. Midday: Drive south to explore the rugged natural landscapes of Akroterio Purgos, Ormos Kupsas, and Malamo. Afternoon: Cruise back up towards the resort center, stopping at the Amphitheatron to appreciate its modern design and atmosphere. Evening: Park near Sani Hill to take in a spectacular sunset panorama, concluding your scenic resort drive."
+      }
+    }
+  }
+}

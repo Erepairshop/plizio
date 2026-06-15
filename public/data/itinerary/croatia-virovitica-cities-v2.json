@@ -1,0 +1,428 @@
+{
+  "city_id": "croatia-virovitica-cities-v2",
+  "anchor": {
+    "name": "Virovitica",
+    "coords": [
+      17.3856,
+      45.8317
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Theater",
+            "hu": "Színház",
+            "ro": "Teatru",
+            "en": "Theater"
+          },
+          "coords": [
+            17.382628,
+            45.832817
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses lokalen Kulturzentrums, das für seine Aufführungen bekannt ist, und prüfen Sie vorab den aktuellen Spielplan.",
+            "hu": "Csodálja meg e helyi kulturális központ építészetét, amely remek előadásairól ismert, és érdemes előre tájékozódni az aktuális műsorról a bejáratnál.",
+            "ro": "Admirați arhitectura acestui centru cultural local, renumit pentru spectacolele sale captivante, și verificați din timp programul evenimentelor viitoare.",
+            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmusik Virovitica",
+            "hu": "Városi Zenei Pavilon",
+            "ro": "Muzica Orașului Virovitica",
+            "en": "City Music Virovitica"
+          },
+          "coords": [
+            17.383198,
+            45.83427
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie die musikalische Tradition der Stadt in diesem historischen Pavillon, wo Sie am besten nachmittags den probenden Musikern lauschen können.",
+            "hu": "Élvezze a város zenei hagyományait ebben a történelmi pavilonban, ahol a legérdemesebb hallgatni az itt próbáló tehetséges helyi zenészeket.",
+            "ro": "Experimentați tradiția muzicală a orașului în acest pavilion istoric, cel mai bine vizitat pentru a asculta muzicienii locali la repetiții acustice.",
+            "en": "Experience the musical tradition of the city at this historic pavilion, which is best visited in the afternoon to catch local musicians rehearsing."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Virovitica",
+            "hu": "Viroviticai Városi Múzeum",
+            "ro": "Muzeul Orașului Virovitica",
+            "en": "Virovitica City Museum"
+          },
+          "coords": [
+            17.385673,
+            45.833653
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
+            "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
+            "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Suvara",
+            "hu": "Suvara Játszótér",
+            "ro": "Loc de joacă Suvara",
+            "en": "Suvara Playground"
+          },
+          "coords": [
+            17.393217,
+            45.831746
+          ],
+          "category": "family",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem lebhaften Spielplatz im Osten der Stadt toben, wo bequeme Bänke im Schatten perfekte Plätze für eine kurze Pause bieten.",
+            "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ezen a keleti fekvésű játszótéren, ahol a kényelmes, árnyékos padok tökéletesek egy rövid pihenőre.",
+            "ro": "Lăsați copiii să se joace pe acest loc de joacă animat din estul orașului, unde băncile confortabile la umbră oferă locuri perfecte pentru odihnă.",
+            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Südblock",
+            "hu": "Déli Blokk Játszótér",
+            "ro": "Loc de joacă Blocul de Sud",
+            "en": "South Block Playground"
+          },
+          "coords": [
+            17.380878,
+            45.827174
+          ],
+          "category": "family",
+          "arrive_at": "14:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieser familienfreundliche Park bietet viel Platz für Freiluftaktivitäten, bringen Sie also unbedingt Snacks für ein kleines Picknick auf dem Rasen mit.",
+            "hu": "Ez a családbarát park rengeteg teret kínál a szabadtéri tevékenységekhez, ezért mindenképpen hozzon magával rágcsálnivalót egy kellemes piknikhez.",
+            "ro": "Acest parc prietenos cu familiile oferă mult spațiu pentru activități în aer liber, așa că asigurați-vă că aduceți gustări pentru un picnic pe iarbă.",
+            "en": "This family-friendly park offers ample space for outdoor activities, so be sure to bring some snacks for a relaxing afternoon picnic on the green grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem kulturellen Einblick im Theater der Stadt, umgeben von historischem Flair. Mittags lockt das beeindruckende Stadtmuseum im Schloss Pejačević mit faszinierenden Ausstellungen. Nachmittags können sich Familien auf den charmanten Spielplätzen im Osten entspannen. Am Abend bietet der Južni blok den perfekten Ausklang unter freiem Himmel.",
+        "hu": "Kezdje a napot egy kulturális merítkezéssel a városi színháznál, ahol megcsodálhatja a történelmi hangulatot. Délben a Pejačević-kastélyban található Városi Múzeum lenyűgöző kiállításai várják. Délután a keleti városrész hangulatos játszóterein kapcsolódhat ki a család. Este a Južni blokk nyugodt zöldje tökéletes a nap méltó lezárásához.",
+        "ro": "Începeți ziua cu o imersiune culturală la teatrul orașului, bucurându-vă de atmosfera istorică. La prânz, uimitorul Muzeu al Orașului din Castelul Pejačević vă atrage cu expoziții fascinante. După-amiaza, familiile se pot relaxa în parcurile de joacă fermecătoare din est. Seara, parcul Južni blok oferă un final perfect în aer liber.",
+        "en": "Start your day with a cultural dive at the city's theater, soaking in the charming historical atmosphere. By midday, the stunning City Museum housed in Pejačević Castle beckons with fascinating exhibits. In the afternoon, families can enjoy relaxing moments at the lively eastern playgrounds. Evening falls beautifully over the Južni blok park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmuseum Virovitica",
+            "hu": "Viroviticai Városi Múzeum",
+            "ro": "Muzeul Orașului Virovitica",
+            "en": "Virovitica City Museum"
+          },
+          "coords": [
+            17.385673,
+            45.833653
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
+            "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
+            "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater",
+            "hu": "Színház",
+            "ro": "Teatru",
+            "en": "Theater"
+          },
+          "coords": [
+            17.382628,
+            45.832817
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses lokalen Kulturzentrums, das für seine Aufführungen bekannt ist, und prüfen Sie vorab den aktuellen Spielplan.",
+            "hu": "Csodálja meg e helyi kulturális központ építészetét, amely remek előadásairól ismert, és érdemes előre tájékozódni az aktuális műsorról a bejáratnál.",
+            "ro": "Admirați arhitectura acestui centru cultural local, renumit pentru spectacolele sale captivante, și verificați din timp programul evenimentelor viitoare.",
+            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows."
+          }
+        },
+        {
+          "name": {
+            "de": "1. Teich",
+            "hu": "1. tó",
+            "ro": "Iazul 1",
+            "en": "1st Pond"
+          },
+          "coords": [
+            17.331073,
+            45.799662
+          ],
+          "category": "natural",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am ersten der Virovitica-Teiche, wo Sie mit einem Fernglas hervorragend verschiedene Wasservögel beobachten können.",
+            "hu": "Élvezze a nyugalmat a viroviticai tavak legelső tavánál, ahová érdemes távcsövet hozni, hogy jobban megfigyelhesse a különféle helyi vízimadarakat.",
+            "ro": "Bucurați-vă de atmosfera liniștită la primul dintre iazurile Virovitica, unde aducerea unui binoclu vă va ajuta să observați diverse păsări de apă.",
+            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "3. Teich",
+            "hu": "3. tó",
+            "ro": "Iazul 3",
+            "en": "3rd Pond"
+          },
+          "coords": [
+            17.324322,
+            45.79867
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den von Bäumen gesäumten Ufern dieses malerischen Teichs entlang und halten Sie Ausschau nach kleinen Fischen im kristallklaren Wasser.",
+            "hu": "Sétáljon végig e festői tó fás partjain, és figyelje meg a kristálytiszta, nyugodt vízben úszkáló apró halakat a kora délutáni napfényben.",
+            "ro": "Plimbați-vă de-a lungul malurilor împădurite ale acestui iaz pitoresc și căutați peștii mici care înoată în apele cristaline în lumina după-amiezii.",
+            "en": "Stroll along the tree-lined shores of this picturesque pond, keeping an eye out for small fish swimming gracefully in the crystal-clear shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "4. Teich",
+            "hu": "4. tó",
+            "ro": "Iazul 4",
+            "en": "4th Pond"
+          },
+          "coords": [
+            17.32221,
+            45.801459
+          ],
+          "category": "natural",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser idyllische See ist ein Paradies für Naturliebhaber; bringen Sie Ihre Kamera mit, um die wunderschönen Spiegelungen des Waldes auf dem Wasser einzufangen.",
+            "hu": "Ez az idilli tó igazi paradicsom a természet szerelmeseinek; feltétlenül hozza magával fényképezőgépét, hogy megörökítse az erdő gyönyörű tükröződését.",
+            "ro": "Acest lac idilic este un paradis pentru iubitorii de natură; aduceți-vă camera pentru a surprinde reflexiile frumoase ale pădurii pe suprafața apei.",
+            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet lehrreich im Stadtmuseum, wo die Geschichte Viroviticas lebendig wird. Nach einem kurzen Halt am Theater radeln Sie mittags zu den idyllischen Seen südlich der Stadt. Der Nachmittag wird an den ersten Teichen mit Naturbeobachtungen verbracht. Abends entspannen Sie sich am vierten See und genießen die spiegelglatte Wasseroberfläche.",
+        "hu": "A reggel a Városi Múzeum felfedezésével indul, ahol Virovitica történelme megelevenedik. A színháznál tett rövid megálló után délben a várostól délre fekvő tavak felé kerékpározunk. A délutánt a természet megfigyelésével töltjük az első tavak partján. Este a negyedik tó nyugodt vizében gyönyörködhetünk a friss levegőn.",
+        "ro": "Dimineața începe educativ la Muzeul Orașului, unde istoria prinde viață. După o scurtă oprire la teatru, la prânz pedalați spre lacurile idilice de la sud de oraș. După-amiaza este petrecută explorând natura și observând păsările la primele iazuri. Seara vă relaxați la al patrulea iaz, bucurându-vă de reflexiile apei liniștite.",
+        "en": "The morning begins culturally at the City Museum, where local history comes to vibrant life. After a brief architectural stop at the theater, midday involves biking down to the idyllic southern ponds. The afternoon is spent enjoying nature and birdwatching around the first few lakes. Evening brings deep relaxation by the calm waters of the fourth pond."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmuseum Virovitica",
+            "hu": "Viroviticai Városi Múzeum",
+            "ro": "Muzeul Orașului Virovitica",
+            "en": "Virovitica City Museum"
+          },
+          "coords": [
+            17.385673,
+            45.833653
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
+            "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
+            "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Suvara",
+            "hu": "Suvara Játszótér",
+            "ro": "Loc de joacă Suvara",
+            "en": "Suvara Playground"
+          },
+          "coords": [
+            17.393217,
+            45.831746
+          ],
+          "category": "family",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem lebhaften Spielplatz im Osten der Stadt toben, wo bequeme Bänke im Schatten perfekte Plätze für eine kurze Pause bieten.",
+            "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ezen a keleti fekvésű játszótéren, ahol a kényelmes, árnyékos padok tökéletesek egy rövid pihenőre.",
+            "ro": "Lăsați copiii să se joace pe acest loc de joacă animat din estul orașului, unde băncile confortabile la umbră oferă locuri perfecte pentru odihnă.",
+            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest."
+          }
+        },
+        {
+          "name": {
+            "de": "1. Teich",
+            "hu": "1. tó",
+            "ro": "Iazul 1",
+            "en": "1st Pond"
+          },
+          "coords": [
+            17.331073,
+            45.799662
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am ersten der Virovitica-Teiche, wo Sie mit einem Fernglas hervorragend verschiedene Wasservögel beobachten können.",
+            "hu": "Élvezze a nyugalmat a viroviticai tavak legelső tavánál, ahová érdemes távcsövet hozni, hogy jobban megfigyelhesse a különféle helyi vízimadarakat.",
+            "ro": "Bucurați-vă de atmosfera liniștită la primul dintre iazurile Virovitica, unde aducerea unui binoclu vă va ajuta să observați diverse păsări de apă.",
+            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "4. Teich",
+            "hu": "4. tó",
+            "ro": "Iazul 4",
+            "en": "4th Pond"
+          },
+          "coords": [
+            17.32221,
+            45.801459
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieser idyllische See ist ein Paradies für Naturliebhaber; bringen Sie Ihre Kamera mit, um die wunderschönen Spiegelungen des Waldes auf dem Wasser einzufangen.",
+            "hu": "Ez az idilli tó igazi paradicsom a természet szerelmeseinek; feltétlenül hozza magával fényképezőgépét, hogy megörökítse az erdő gyönyörű tükröződését.",
+            "ro": "Acest lac idilic este un paradis pentru iubitorii de natură; aduceți-vă camera pentru a surprinde reflexiile frumoase ale pădurii pe suprafața apei.",
+            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface."
+          }
+        },
+        {
+          "name": {
+            "de": "7. Teich",
+            "hu": "7. tó",
+            "ro": "Iazul 7",
+            "en": "7th Pond"
+          },
+          "coords": [
+            17.31043,
+            45.797807
+          ],
+          "category": "natural",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel an diesem abgelegenen Angelteich, wo festes Schuhwerk empfohlen wird, um die unberührten, naturnahen Pfade zu erkunden.",
+            "hu": "Meneküljön el a nyüzsgés elől ehhez a távoli horgásztóhoz, ahol mindenképpen strapabíró lábbeli viselése javasolt az érintetlen ösvények felfedezéséhez.",
+            "ro": "Scăpați de agitație la acest iaz de pescuit izolat, unde încălțămintea robustă este recomandată pentru a explora potecile neatinse din jurul apei.",
+            "en": "Escape the hustle and bustle at this secluded fishing pond, where wearing sturdy footwear is highly recommended to explore the pristine surrounding trails."
+          }
+        },
+        {
+          "name": {
+            "de": "9. Teich",
+            "hu": "9. tó",
+            "ro": "Iazul 9",
+            "en": "9th Pond"
+          },
+          "coords": [
+            17.308536,
+            45.793723
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur am letzten Teich dieser wunderschönen Kette, der sich perfekt für einen meditativen Moment bei Sonnenuntergang eignet.",
+            "hu": "Csodálja meg az érintetlen természetet e csodálatos tórendszer utolsó tavánál, amely tökéletes helyszínt biztosít egy meditatív pillanathoz naplementekor.",
+            "ro": "Admirați natura neatinsă la ultimul iaz din acest lanț frumos, care este absolut perfect pentru un moment de meditație la liniștitul apus de soare.",
+            "en": "Admire the unspoiled nature at the very last pond in this beautiful chain, making it the absolute perfect spot for a meditative moment at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am prächtigen Stadtmuseum im Herzen von Virovitica. Gegen Mittag fahren Sie bequem in die Natur hinaus zu den weitläufigen Fischteichen der Region. Der Nachmittag bietet eine malerische Fahrt vom ersten zum siebten See, umgeben von dichten Wäldern. Am Abend erreichen Sie den neunten Teich, ideal für einen ruhigen Abschluss.",
+        "hu": "Az autós túra a viroviticai Városi Múzeum lenyűgöző épületénél kezdődik a központban. Dél körül kényelmesen kigördülünk a természetbe, a régió kiterjedt halastavai felé. A délután egy festői utazást kínál az elsőtől a hetedik tóig, sűrű erdőkkel körülvéve. Este elérjük a kilencedik tavat, amely békés befejezése a napnak.",
+        "ro": "Turul cu mașina începe la magnificul Muzeu al Orașului din inima localității Virovitica. Spre prânz, conduceți confortabil în natură către marile iazuri piscicole ale regiunii. După-amiaza oferă o plimbare pitorească de la primul la al șaptelea lac, înconjurați de păduri. Seara ajungeți la al nouălea iaz, ideal pentru un final liniștit.",
+        "en": "Your driving tour kicks off at the magnificent City Museum right in the heart of Virovitica. Around midday, enjoy a comfortable drive out into nature towards the region's expansive fishing ponds. The afternoon features a scenic route from the first to the seventh lake, surrounded by woods. Evening finds you at the ninth pond for a peaceful finale."
+      }
+    }
+  }
+}

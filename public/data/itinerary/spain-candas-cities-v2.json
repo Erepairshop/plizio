@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-candas-cities-v2",
+  "anchor": {
+    "name": "Candás",
+    "coords": [
+      -5.76419,
+      43.59006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Anton",
+            "hu": "Museu Anton",
+            "ro": "Museu Anton",
+            "en": "Museu Anton"
+          },
+          "coords": [
+            -5.76385,
+            43.590567
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museu Antón beeindruckende Skulpturen, die das maritime Erbe Asturiens feiern, und nehmen Sie sich Zeit für den schönen Skulpturengarten im Freien.",
+            "hu": "A Museu Antón lenyűgöző szobrai Asturia tengeri örökségét ünneplik, ezért mindenképp szakítson időt a gyönyörű szabadtéri szoborkert felfedezésére is.",
+            "ro": "Descoperiți sculpturile impresionante de la Museu Antón care celebrează patrimoniul maritim asturian și asigurați-vă că explorați grădina exterioară superbă.",
+            "en": "Discover impressive sculptures at Museu Antón that celebrate Asturian maritime heritage, and be sure to take your time exploring the beautiful outdoor sculpture garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatru Prendes",
+            "hu": "Teatru Prendes",
+            "ro": "Teatru Prendes",
+            "en": "Teatru Prendes"
+          },
+          "coords": [
+            -5.768607,
+            43.587029
+          ],
+          "category": "cultural",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das historische Teatru Prendes bietet faszinierende kulturelle Einblicke in die lokale Kunstszene, also überprüfen Sie vorab den Spielplan für abendliche Veranstaltungen.",
+            "hu": "A történelmi Teatru Prendes lenyűgöző kulturális betekintést nyújt a helyi művészeti életbe, ezért érdemes előre ellenőrizni az esti programok menetrendjét.",
+            "ro": "Istoricul Teatru Prendes oferă o perspectivă culturală fascinantă asupra scenei artistice locale, așa că verificați programul în avans pentru evenimente de seară.",
+            "en": "The historic Teatru Prendes offers fascinating cultural insights into the local art scene, so make sure to check the schedule in advance for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmera beach",
+            "hu": "Palmera beach",
+            "ro": "Palmera beach",
+            "en": "Palmera beach"
+          },
+          "coords": [
+            -5.76116,
+            43.587741
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Strand Palmera ist ein beliebter Küstenabschnitt mit goldenem Sand, an dem Sie früh am Tag ankommen sollten, um einen guten Platz nahe des Wassers zu ergattern.",
+            "hu": "A Palmera strand egy népszerű aranohomokos partszakasz, ahová érdemes korán érkezni a nap folyamán, hogy jó helyet találjon közvetlenül a víz közelében.",
+            "ro": "Plaja Palmera este o zonă de coastă populară cu nisip auriu, unde ar trebui să ajungeți devreme pentru a vă asigura un loc bun aproape de valurile mării.",
+            "en": "Palmera beach is a popular coastal stretch with golden sand, where you should arrive early in the day to secure a prime spot right near the refreshing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sablera Rebolleres",
+            "hu": "Sablera Rebolleres",
+            "ro": "Sablera Rebolleres",
+            "en": "Sablera Rebolleres"
+          },
+          "coords": [
+            -5.765569,
+            43.593702
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sablera Rebolleres besticht durch seine rauen Klippen und ruhige Atmosphäre, also bringen Sie feste Wanderschuhe mit, um die malerischen Pfade sicher zu erkunden.",
+            "hu": "A Sablera Rebolleres zord szikláival és nyugodt légkörével bűvöl el, ezért hozzon magával túracipőt a festői és kissé egyenetlen ösvények biztonságos felfedezéséhez.",
+            "ro": "Sablera Rebolleres captivează cu stâncile sale aspre și atmosfera liniștită, așa că aduceți încălțăminte de drumeție robustă pentru a explora în siguranță potecile.",
+            "en": "Sablera Rebolleres captivates with its rugged cliffs and tranquil atmosphere, so bring sturdy hiking shoes to safely explore the picturesque but uneven coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Candas",
+            "hu": "Faro de Candas",
+            "ro": "Faro de Candas",
+            "en": "Faro de Candas"
+          },
+          "coords": [
+            -5.76097,
+            43.594438
+          ],
+          "category": "landmark",
+          "arrive_at": "15:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Faro de Candas bietet einen unvergleichlichen Panoramablick über die weite Küste, weshalb sich ein Besuch besonders am späten Nachmittag für das beste Licht lohnt.",
+            "hu": "A Faro de Candas páratlan panorámát kínál a kiterjedt tengerpartra, ami miatt a látogatás különösen késő délután ajánlott a legszebb fotók elkészítéséhez.",
+            "ro": "Faro de Candas oferă o vedere panoramică inegalabilă asupra coastei extinse, motiv pentru care o vizită este recomandată mai ales după-amiaza târziu pentru lumină ideală.",
+            "en": "The Faro de Candas offers an unparalleled panoramic view of the sweeping coastline, making a visit especially worthwhile in the late afternoon for the best natural light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Morgen mit einem Besuch im Museu Antón, wo maritime Kunst und wunderschöne Außenskulpturen auf Sie warten. Mittags tauchen Sie im Teatru Prendes in das kulturelle Herz von Candás ein, bevor Sie am Strand Palmera entspannen. Der Nachmittag bietet eine malerische Küstenwanderung zur Sablera Rebolleres. Abends genießen Sie am Leuchtturm den perfekten Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a Museu Antón megtekintésével, ahol tengeri művészet és gyönyörű szabadtéri szobrok várják. Délben a Teatru Prendes kulturális szívébe merülhet Candásban, majd a Palmera strandon pihenhet. A délután festői parti sétát tartogat a Sablera Rebolleres felé. Este a világítótoronynál csodálhatja meg a lenyűgöző naplementét a morajló óceán felett.",
+        "ro": "Începeți dimineața cu o vizită la Museu Antón, unde vă așteaptă artă maritimă și sculpturi exterioare. La prânz, scufundați-vă în inima culturală a orașului la Teatru Prendes, înainte de a vă relaxa pe plaja Palmera. După-amiaza oferă o plimbare pitorească pe coastă spre Sablera Rebolleres. Seara, bucurați-vă de un apus de soare perfect la faimosul far din Candás.",
+        "en": "Start your morning with a visit to Museu Antón, where maritime art and beautiful outdoor sculptures await your discovery. At midday, dive into the cultural heart of Candás at Teatru Prendes before relaxing on Palmera beach. The afternoon offers a picturesque coastal walk taking you towards Sablera Rebolleres. In the evening, enjoy the perfect sunset views from the iconic lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatru Prendes",
+            "hu": "Teatru Prendes",
+            "ro": "Teatru Prendes",
+            "en": "Teatru Prendes"
+          },
+          "coords": [
+            -5.768607,
+            43.587029
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das historische Teatru Prendes bietet faszinierende kulturelle Einblicke in die lokale Kunstszene, also überprüfen Sie vorab den Spielplan für abendliche Veranstaltungen.",
+            "hu": "A történelmi Teatru Prendes lenyűgöző kulturális betekintést nyújt a helyi művészeti életbe, ezért érdemes előre ellenőrizni az esti programok menetrendjét.",
+            "ro": "Istoricul Teatru Prendes oferă o perspectivă culturală fascinantă asupra scenei artistice locale, așa că verificați programul în avans pentru evenimente de seară.",
+            "en": "The historic Teatru Prendes offers fascinating cultural insights into the local art scene, so make sure to check the schedule in advance for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Anton",
+            "hu": "Museu Anton",
+            "ro": "Museu Anton",
+            "en": "Museu Anton"
+          },
+          "coords": [
+            -5.76385,
+            43.590567
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museu Antón beeindruckende Skulpturen, die das maritime Erbe Asturiens feiern, und nehmen Sie sich Zeit für den schönen Skulpturengarten im Freien.",
+            "hu": "A Museu Antón lenyűgöző szobrai Asturia tengeri örökségét ünneplik, ezért mindenképp szakítson időt a gyönyörű szabadtéri szoborkert felfedezésére is.",
+            "ro": "Descoperiți sculpturile impresionante de la Museu Antón care celebrează patrimoniul maritim asturian și asigurați-vă că explorați grădina exterioară superbă.",
+            "en": "Discover impressive sculptures at Museu Antón that celebrate Asturian maritime heritage, and be sure to take your time exploring the beautiful outdoor sculpture garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Candas",
+            "hu": "Faro de Candas",
+            "ro": "Faro de Candas",
+            "en": "Faro de Candas"
+          },
+          "coords": [
+            -5.76097,
+            43.594438
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Faro de Candas bietet einen unvergleichlichen Panoramablick über die weite Küste, weshalb sich ein Besuch besonders am späten Nachmittag für das beste Licht lohnt.",
+            "hu": "A Faro de Candas páratlan panorámát kínál a kiterjedt tengerpartra, ami miatt a látogatás különösen késő délután ajánlott a legszebb fotók elkészítéséhez.",
+            "ro": "Faro de Candas oferă o vedere panoramică inegalabilă asupra coastei extinse, motiv pentru care o vizită este recomandată mai ales după-amiaza târziu pentru lumină ideală.",
+            "en": "The Faro de Candas offers an unparalleled panoramic view of the sweeping coastline, making a visit especially worthwhile in the late afternoon for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sablera de San Pedro d'Antromero",
+            "hu": "Sablera de San Pedro d'Antromero",
+            "ro": "Sablera de San Pedro d'Antromero",
+            "en": "Sablera de San Pedro d'Antromero"
+          },
+          "coords": [
+            -5.771744,
+            43.602032
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Sablera de San Pedro d'Antromero beeindruckt mit einzigartigen geologischen Felsformationen, die Sie am besten bei Ebbe für eine sichere Strandwanderung erkunden.",
+            "hu": "A Sablera de San Pedro d'Antromero egyedülálló geológiai sziklaalakzataival nyűgöz le, amelyeket a legbiztonságosabban apály idején lehet felfedezni és megcsodálni.",
+            "ro": "Sablera de San Pedro d'Antromero impresionează prin formațiunile sale stâncoase unice, pe care cel mai bine le explorați la reflux pentru o plimbare sigură pe plajă.",
+            "en": "The Sablera de San Pedro d'Antromero impresses with unique geological rock formations, which are best explored during low tide for a safe and fascinating beach walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Los Cristales",
+            "hu": "Playa de Los Cristales",
+            "ro": "Playa de Los Cristales",
+            "en": "Playa de Los Cristales"
+          },
+          "coords": [
+            -5.772651,
+            43.606425
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Playa de Los Cristales ist berühmt für ihren von Meeresglas übersäten Strand, wo Sie vorsichtig die funkelnden Steinchen bewundern können, ohne sie mitzunehmen.",
+            "hu": "A Playa de Los Cristales a tengeri üvegekkel borított strandjáról híres, ahol óvatosan megcsodálhatja a csillogó darabokat, de kérjük, hagyja őket a helyükön.",
+            "ro": "Plaja de Los Cristales este faimoasă pentru plaja sa acoperită cu sticlă de mare, unde puteți admira cu grijă bucățile strălucitoare, dar vă rugăm să nu le luați cu voi.",
+            "en": "Playa de Los Cristales is famous for its beach covered in sea glass, where you can carefully admire the sparkling pieces, but please refrain from taking them home."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Cristal",
+            "hu": "Playa Cristal",
+            "ro": "Playa Cristal",
+            "en": "Playa Cristal"
+          },
+          "coords": [
+            -5.776112,
+            43.606045
+          ],
+          "category": "recreational",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Playa Cristal ist ein verstecktes Juwel mit kristallklarem Wasser, perfekt für ein ruhiges Picknick abseits der großen Menschenmassen, wenn Sie eigene Snacks mitbringen.",
+            "hu": "A Playa Cristal egy rejtett gyöngyszem kristálytiszta vízzel, amely tökéletes egy csendes piknikhez a tömegtől távol, ha hoz magával saját rágcsálnivalókat.",
+            "ro": "Playa Cristal este o bijuterie ascunsă cu ape cristaline, perfectă pentru un picnic liniștit departe de mulțime, dacă vă aduceți propriile gustări și băuturi.",
+            "en": "Playa Cristal is a hidden gem featuring crystal-clear waters, making it absolutely perfect for a quiet picnic away from the crowds if you bring your own tasty snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt mit dem historischen Charme des Teatru Prendes und einer inspirierenden Tour durch das Museu Antón. Mittags radeln Sie zum Faro de Candas, der einen weiten Blick über den Ozean bietet. Am Nachmittag geht es sportlich weiter zur geologischen Sablera de San Pedro d'Antromero und zur funkelnden Playa de Los Cristales. Beenden Sie den Tag an der ruhigen Playa Cristal.",
+        "hu": "Kerékpáros kalandja a Teatru Prendes történelmi varázsával és a Museu Antón inspiráló túrájával kezdődik. Délben tekerjen el a Faro de Candas-hoz, amely széles óceáni kilátást nyújt. Délután sportosan folytatódik a geológiailag érdekes Sablera de San Pedro d'Antromero és a csillogó Playa de Los Cristales felé. A napot a békés Playa Cristal homokján pihenve zárhatja.",
+        "ro": "Aventura cu bicicleta începe cu farmecul istoric de la Teatru Prendes și un tur la Museu Antón. La prânz, pedalați spre Faro de Candas, care oferă vederi ample asupra oceanului. După-amiaza continuă energic spre Sablera de San Pedro d'Antromero și impresionanta Playa de Los Cristales. Încheiați-vă ziua pe nisipurile liniștite de la izolata Playa Cristal.",
+        "en": "Your cycling adventure begins with the historic charm of Teatru Prendes and an inspiring tour through Museu Antón. At midday, ride to Faro de Candas, which offers sweeping ocean views. The afternoon continues energetically towards the geological Sablera de San Pedro d'Antromero and the sparkling Playa de Los Cristales. Conclude your active day on the peaceful sands of Playa Cristal."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Carranques",
+            "hu": "Playa de Carranques",
+            "ro": "Playa de Carranques",
+            "en": "Playa de Carranques"
+          },
+          "coords": [
+            -5.743393,
+            43.577927
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Playa de Carranques bietet hervorragende Einrichtungen und feinen Sand, was sie ideal für Familien macht; parken Sie frühzeitig, um Menschenansammlungen zu meiden.",
+            "hu": "A Playa de Carranques kiváló felszereltséggel és finom homokkal rendelkezik, így ideális családok számára; érkezzen korán, hogy elkerülje a nagyobb tömeget.",
+            "ro": "Playa de Carranques oferă facilități excelente și nisip fin, fiind ideală pentru familii; parcați devreme pentru a evita aglomerația și a vă asigura un loc excelent.",
+            "en": "Playa de Carranques offers excellent facilities and fine sand, making it highly ideal for families; be sure to park early in the day to avoid the larger crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Güelgues beach",
+            "hu": "Güelgues beach",
+            "ro": "Güelgues beach",
+            "en": "Güelgues beach"
+          },
+          "coords": [
+            -5.751826,
+            43.582449
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Strand Güelgues ist ein malerischer Rückzugsort mit sanften Wellen, wo Sie bei Ebbe hervorragend nach kleinen Meeresbewohnern in den Felsenpools suchen können.",
+            "hu": "A Güelgues strand egy festői menedékhely lágy hullámokkal, ahol apály idején kiválóan lehet apró tengeri élőlényeket keresni a parti sziklamedencék vizében.",
+            "ro": "Plaja Güelgues este o retragere pitorească cu valuri blânde, unde la reflux puteți căuta cu ușurință mici creaturi marine în ochiurile de apă dintre stânci.",
+            "en": "Güelgues beach is a picturesque retreat with gentle waves, where low tide presents the perfect opportunity to search for small marine life within the tide pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Anton",
+            "hu": "Museu Anton",
+            "ro": "Museu Anton",
+            "en": "Museu Anton"
+          },
+          "coords": [
+            -5.76385,
+            43.590567
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museu Antón beeindruckende Skulpturen, die das maritime Erbe Asturiens feiern, und nehmen Sie sich Zeit für den schönen Skulpturengarten im Freien.",
+            "hu": "A Museu Antón lenyűgöző szobrai Asturia tengeri örökségét ünneplik, ezért mindenképp szakítson időt a gyönyörű szabadtéri szoborkert felfedezésére is.",
+            "ro": "Descoperiți sculpturile impresionante de la Museu Antón care celebrează patrimoniul maritim asturian și asigurați-vă că explorați grădina exterioară superbă.",
+            "en": "Discover impressive sculptures at Museu Antón that celebrate Asturian maritime heritage, and be sure to take your time exploring the beautiful outdoor sculpture garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Candas",
+            "hu": "Faro de Candas",
+            "ro": "Faro de Candas",
+            "en": "Faro de Candas"
+          },
+          "coords": [
+            -5.76097,
+            43.594438
+          ],
+          "category": "landmark",
+          "arrive_at": "13:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Faro de Candas bietet einen unvergleichlichen Panoramablick über die weite Küste, weshalb sich ein Besuch besonders am späten Nachmittag für das beste Licht lohnt.",
+            "hu": "A Faro de Candas páratlan panorámát kínál a kiterjedt tengerpartra, ami miatt a látogatás különösen késő délután ajánlott a legszebb fotók elkészítéséhez.",
+            "ro": "Faro de Candas oferă o vedere panoramică inegalabilă asupra coastei extinse, motiv pentru care o vizită este recomandată mai ales după-amiaza târziu pentru lumină ideală.",
+            "en": "The Faro de Candas offers an unparalleled panoramic view of the sweeping coastline, making a visit especially worthwhile in the late afternoon for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Gargantera",
+            "hu": "Playa de Gargantera",
+            "ro": "Playa de Gargantera",
+            "en": "Playa de Gargantera"
+          },
+          "coords": [
+            -5.778269,
+            43.608668
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Die Playa de Gargantera ist wild und naturbelassen, weshalb Sie den etwas steilen Zugangsweg langsam und mit gutem Schuhwerk bewältigen sollten, um die Ruhe zu genießen.",
+            "hu": "A Playa de Gargantera vad és természetes szépségű, ezért a kissé meredek lejárót lassan és megfelelő cipőben érdemes megközelíteni a tökéletes nyugalomért.",
+            "ro": "Playa de Gargantera este sălbatică și naturală, motiv pentru care ar trebui să abordați coborârea ușor abruptă încet și cu încălțăminte bună pentru a vă bucura de liniște.",
+            "en": "Playa de Gargantera is wonderfully wild and natural, meaning you should take the slightly steep access path slowly and with good footwear to truly enjoy the serenity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt an der gut ausgestatteten Playa de Carranques, ideal für einen erfrischenden Morgen am Meer. Gegen Mittag erkunden Sie die ruhige Atmosphäre am Güelgues Strand und fahren dann in das Zentrum zum Museu Antón. Am Nachmittag genießen Sie die weite Sicht vom majestätischen Faro de Candas. Der Abend klingt an der wilden und unberührten Küste der Playa de Gargantera aus.",
+        "hu": "A nap a jól felszerelt Playa de Carranques strandon indul, amely ideális egy frissítő tengerparti reggelhez. Dél körül fedezze fel a Güelgues strand csendes légkörét, majd autózzon be a központba a Museu Antón felé. Délután élvezze a fenséges Faro de Candas panorámáját. Az estét a Playa de Gargantera vad és érintetlen tengerparti szépségében gyönyörködve zárhatja.",
+        "ro": "Ziua începe la Playa de Carranques, bine echipată, ideală pentru o dimineață răcoritoare pe litoral. În jurul prânzului, explorați atmosfera liniștită de pe plaja Güelgues și apoi conduceți în centru spre Museu Antón. După-amiaza, admirați priveliștea de la maiestuosul Faro de Candas. Seara se încheie pe coasta sălbatică și virgină a izolatei Playa de Gargantera.",
+        "en": "The day begins at the well-equipped Playa de Carranques, ideal for a refreshing coastal morning. Around midday, explore the tranquil atmosphere of Güelgues beach and then drive into the center to visit Museu Antón. In the afternoon, take in the vast ocean views from the majestic Faro de Candas. The evening winds down on the wild, untouched coastline of Playa de Gargantera."
+      }
+    }
+  }
+}

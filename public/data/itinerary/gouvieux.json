@@ -1,0 +1,497 @@
+{
+  "city_id": "gouvieux",
+  "anchor": {
+    "name": "Gouvieux",
+    "coords": [
+      2.4161,
+      49.1878
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Gouvieux",
+            "hu": "Mairie de Gouvieux",
+            "ro": "Mairie de Gouvieux",
+            "en": "Mairie de Gouvieux"
+          },
+          "coords": [
+            2.416025,
+            49.187844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das charmante Rathaus von Gouvieux ist ein wunderbares Beispiel für die lokale Architektur; vergessen Sie nicht, ein Foto von der eleganten Fassade am Morgenlicht zu machen.",
+            "hu": "Gouvieux hangulatos városháza a helyi építészet csodás példája; ne felejtse el lefotózni az elegáns homlokzatot a reggeli fényben, mielőtt továbbindul.",
+            "ro": "Primăria fermecătoare din Gouvieux este un exemplu minunat al arhitecturii locale; nu uitați să faceți o fotografie a fațadei elegante în lumina dimineții.",
+            "en": "The charming town hall of Gouvieux is a wonderful example of local architecture; don't forget to take a picture of the elegant facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Geniève",
+            "hu": "Église Sainte-Geniève",
+            "ro": "Église Sainte-Geniève",
+            "en": "Église Sainte-Geniève"
+          },
+          "coords": [
+            2.415736,
+            49.189616
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die historische Église Sainte-Geniève beeindruckt mit ihren Buntglasfenstern und der ruhigen Atmosphäre; betreten Sie die Kirche leise, um die andächtige Stimmung nicht zu stören.",
+            "hu": "A történelmi Église Sainte-Geniève lenyűgöző ólomüveg ablakokkal és békés atmoszférával várja; lépjen be halkan, hogy ne zavarja meg az áhítatos csendet.",
+            "ro": "Biserica istorică Sainte-Geniève impresionează cu vitraliile sale și atmosfera liniștită; intrați în liniște pentru a nu perturba starea de reculegere a locului.",
+            "en": "The historic Église Sainte-Geniève impresses with its stained glass windows and peaceful atmosphere; enter quietly so as not to disturb the reverent silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Balançoires",
+            "hu": "Balançoires",
+            "ro": "Balançoires",
+            "en": "Balançoires"
+          },
+          "coords": [
+            2.426212,
+            49.187022
+          ],
+          "category": "family",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser familienfreundliche Ort mit seinen Schaukeln bietet die perfekte Gelegenheit für eine entspannte Pause im Grünen; bringen Sie ein paar Snacks für ein kleines Picknick mit.",
+            "hu": "Ez a családbarát, hintákkal teli zöldterület tökéletes lehetőséget nyújt egy pihentető szünetre; hozzon magával néhány falatot egy rögtönzött piknikhez a szabadban.",
+            "ro": "Acest spațiu verde plin de leagăne, perfect pentru familii, oferă șansa unei pauze relaxante; aduceți câteva gustări pentru un mic picnic în aer liber.",
+            "en": "This family-friendly green space with its swings offers the perfect opportunity for a relaxing break; bring along a few snacks for a small impromptu picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Tour",
+            "hu": "Manoir de la Tour",
+            "ro": "Manoir de la Tour",
+            "en": "Manoir de la Tour"
+          },
+          "coords": [
+            2.42826,
+            49.191652
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das historische Manoir de la Tour zeugt von der reichen Vergangenheit der Region; achten Sie auf die steinernen Details an den Außenmauern und tragen Sie bequeme Schuhe für den Rundgang.",
+            "hu": "A történelmi Manoir de la Tour a régió gazdag múltjáról tanúskodik; figyelje meg a kőfalak finom részleteit, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Istoricul Manoir de la Tour stă mărturie trecutului bogat al regiunii; observați detaliile din piatră de pe zidurile exterioare și purtați încălțăminte comodă.",
+            "en": "The historic Manoir de la Tour testifies to the region's rich past; pay attention to the stone details on the outer walls and wear comfortable shoes for the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montvillargenne",
+            "hu": "Château de Montvillargenne",
+            "ro": "Château de Montvillargenne",
+            "en": "Château de Montvillargenne"
+          },
+          "coords": [
+            2.42694,
+            49.1847
+          ],
+          "category": "hotel",
+          "arrive_at": "13:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses prächtige Schloss, heute ein Hotel, besticht durch seine normannische Architektur; spazieren Sie durch den weitläufigen Schlosspark und genießen Sie einen Kaffee auf der Terrasse.",
+            "hu": "Ez a pompás, ma szállodaként működő kastély normann építészeti stílusával bűvöli el a látogatókat; tegyen egy sétát a hatalmas parkban, és igyon meg egy kávét a teraszon.",
+            "ro": "Acest castel magnific, astăzi hotel, farmecă prin arhitectura sa normandă; plimbați-vă prin parcul spațios și savurați o cafea relaxantă pe terasă.",
+            "en": "This magnificent castle, now a hotel, captivates with its Norman architecture; take a stroll through the spacious grounds and enjoy a coffee on the terrace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Morgen am charmanten Rathaus und der historischen Kirche von Gouvieux. Gegen Mittag entspannen Sie sich auf den grünen Schaukelplätzen. Der Nachmittag ist geprägt von der reichen Geschichte am Manoir de la Tour. Den Tag lassen Sie elegant im Schlosspark von Montvillargenne ausklingen.",
+        "hu": "Kezdje a reggeli sétát Gouvieux hangulatos városházájánál és történelmi templománál. Délben pihenjen meg egy kicsit a zöldterületen a hintáknál. A délutánt a Manoir de la Tour gazdag történelme határozza meg. A napot elegánsan a fenséges Montvillargenne kastély parkjában zárhatja le.",
+        "ro": "Începeți plimbarea de dimineață la fermecătoarea primărie și la biserica istorică din Gouvieux. La prânz, relaxați-vă în zona verde cu leagăne. După-amiaza este marcată de istoria bogată a Manoir de la Tour. Încheiați ziua elegant în parcul majestuosului Château de Montvillargenne.",
+        "en": "Begin your morning walk at the charming town hall and the historic church of Gouvieux. Around midday, take a relaxing break at the green swing area. The afternoon is defined by the rich history at the Manoir de la Tour. End your day elegantly in the majestic park of Château de Montvillargenne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Gouvieux",
+            "hu": "Mairie de Gouvieux",
+            "ro": "Mairie de Gouvieux",
+            "en": "Mairie de Gouvieux"
+          },
+          "coords": [
+            2.416025,
+            49.187844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das charmante Rathaus von Gouvieux ist ein wunderbares Beispiel für die lokale Architektur; vergessen Sie nicht, ein Foto von der eleganten Fassade am Morgenlicht zu machen.",
+            "hu": "Gouvieux hangulatos városháza a helyi építészet csodás példája; ne felejtse el lefotózni az elegáns homlokzatot a reggeli fényben, mielőtt továbbindul.",
+            "ro": "Primăria fermecătoare din Gouvieux este un exemplu minunat al arhitecturii locale; nu uitați să faceți o fotografie a fațadei elegante în lumina dimineții.",
+            "en": "The charming town hall of Gouvieux is a wonderful example of local architecture; don't forget to take a picture of the elegant facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Geniève",
+            "hu": "Église Sainte-Geniève",
+            "ro": "Église Sainte-Geniève",
+            "en": "Église Sainte-Geniève"
+          },
+          "coords": [
+            2.415736,
+            49.189616
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die historische Église Sainte-Geniève beeindruckt mit ihren Buntglasfenstern und der ruhigen Atmosphäre; betreten Sie die Kirche leise, um die andächtige Stimmung nicht zu stören.",
+            "hu": "A történelmi Église Sainte-Geniève lenyűgöző ólomüveg ablakokkal és békés atmoszférával várja; lépjen be halkan, hogy ne zavarja meg az áhítatos csendet.",
+            "ro": "Biserica istorică Sainte-Geniève impresionează cu vitraliile sale și atmosfera liniștită; intrați în liniște pentru a nu perturba starea de reculegere a locului.",
+            "en": "The historic Église Sainte-Geniève impresses with its stained glass windows and peaceful atmosphere; enter quietly so as not to disturb the reverent silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Village Troglodyte",
+            "hu": "Village Troglodyte",
+            "ro": "Village Troglodyte",
+            "en": "Village Troglodyte"
+          },
+          "coords": [
+            2.420535,
+            49.200444
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die einzigartigen Höhlenwohnungen des Village Troglodyte geben faszinierende Einblicke in eine alte Lebensweise; eine Taschenlampe kann hilfreich sein, um dunklere Ecken zu erkunden.",
+            "hu": "A Village Troglodyte egyedülálló barlanglakásai lenyűgöző bepillantást engednek egy ősi életmódba; egy zseblámpa hasznos lehet a sötétebb sarkok felfedezéséhez.",
+            "ro": "Locuințele rupestre unice din Village Troglodyte oferă o perspectivă fascinantă asupra unui mod de viață vechi; o lanternă poate fi utilă pentru a explora colțurile mai întunecate.",
+            "en": "The unique cave dwellings of the Village Troglodyte offer fascinating insights into an ancient way of life; a flashlight might be handy to explore the darker corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+          },
+          "coords": [
+            2.412985,
+            49.210696
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieses große Freizeitzentrum am Wasser bietet zahlreiche Aktivitäten von Schwimmen bis Bootfahren; vergessen Sie nicht, an sonnigen Tagen ausreichend Sonnencreme und Badezeug mitzubringen.",
+            "hu": "Ez a vízparti szabadidőközpont rengeteg programot kínál az úszástól a csónakázásig; ne felejtsen el naptejet és fürdőruhát hozni a napsütéses napokon.",
+            "ro": "Acest centru de agrement pe malul apei oferă numeroase activități, de la înot la plimbări cu barca; nu uitați crema de protecție solară și costumul de baie în zilele însorite.",
+            "en": "This lakeside recreation center offers numerous activities from swimming to boating; don't forget to pack sunscreen and a swimsuit on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Tour",
+            "hu": "Manoir de la Tour",
+            "ro": "Manoir de la Tour",
+            "en": "Manoir de la Tour"
+          },
+          "coords": [
+            2.42826,
+            49.191652
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Das historische Manoir de la Tour zeugt von der reichen Vergangenheit der Region; achten Sie auf die steinernen Details an den Außenmauern und tragen Sie bequeme Schuhe für den Rundgang.",
+            "hu": "A történelmi Manoir de la Tour a régió gazdag múltjáról tanúskodik; figyelje meg a kőfalak finom részleteit, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Istoricul Manoir de la Tour stă mărturie trecutului bogat al regiunii; observați detaliile din piatră de pe zidurile exterioare și purtați încălțăminte comodă.",
+            "en": "The historic Manoir de la Tour testifies to the region's rich past; pay attention to the stone details on the outer walls and wear comfortable shoes for the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montvillargenne",
+            "hu": "Château de Montvillargenne",
+            "ro": "Château de Montvillargenne",
+            "en": "Château de Montvillargenne"
+          },
+          "coords": [
+            2.42694,
+            49.1847
+          ],
+          "category": "hotel",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses prächtige Schloss, heute ein Hotel, besticht durch seine normannische Architektur; spazieren Sie durch den weitläufigen Schlosspark und genießen Sie einen Kaffee auf der Terrasse.",
+            "hu": "Ez a pompás, ma szállodaként működő kastély normann építészeti stílusával bűvöli el a látogatókat; tegyen egy sétát a hatalmas parkban, és igyon meg egy kávét a teraszon.",
+            "ro": "Acest castel magnific, astăzi hotel, farmecă prin arhitectura sa normandă; plimbați-vă prin parcul spațios și savurați o cafea relaxantă pe terasă.",
+            "en": "This magnificent castle, now a hotel, captivates with its Norman architecture; take a stroll through the spacious grounds and enjoy a coffee on the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aiglemont",
+            "hu": "Château d'Aiglemont",
+            "ro": "Château d'Aiglemont",
+            "en": "Château d'Aiglemont"
+          },
+          "coords": [
+            2.428212,
+            49.179789
+          ],
+          "category": "castle",
+          "arrive_at": "15:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das etwas verstecktere Château d'Aiglemont bietet eine ruhige Atmosphäre abseits des großen Trubels; informieren Sie sich im Voraus über die genauen Zugangszeiten zum Gelände.",
+            "hu": "A kissé eldugottabb Château d'Aiglemont csendes légkört kínál távol a nagy nyüzsgéstől; indulás előtt mindenképpen tájékozódjon a birtok látogatási rendjéről.",
+            "ro": "Château d'Aiglemont, ceva mai ascuns, oferă o atmosferă liniștită departe de agitație; informați-vă în prealabil despre orele exacte de acces pe domeniu.",
+            "en": "The somewhat hidden Château d'Aiglemont offers a peaceful atmosphere away from the hustle and bustle; be sure to check the exact access times to the grounds in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Gouvieux, bevor Sie zu den faszinierenden Höhlenwohnungen radeln. Mittags bietet die Base de Loisirs den perfekten Ort für eine Erholungspause. Am Nachmittag erkunden Sie das historische Manoir de la Tour. Der Abend führt Sie zu zwei prachtvollen Schlössern, wo der Tag majestätisch endet.",
+        "hu": "Indítsa kerékpártúráját Gouvieux központjában, majd tekerjen el a lenyűgöző barlanglakásokhoz. Délben a Base de Loisirs tökéletes helyszínt biztosít a felfrissülésre. Délután felfedezheti a történelmi Manoir de la Tour-t. Az este két pompás kastélyhoz vezet, ahol a nap fenségesen ér véget.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului Gouvieux, înainte de a pedala spre fascinantele locuințe rupestre. La prânz, Base de Loisirs oferă locul perfect pentru odihnă. După-amiaza explorați istoricul Manoir de la Tour. Seara vă duce la două castele magnifice, unde ziua se încheie maiestuos.",
+        "en": "Start your cycling tour in the center of Gouvieux before riding to the fascinating cave dwellings. At noon, the Base de Loisirs provides the perfect spot for a break. In the afternoon, explore the historic Manoir de la Tour. The evening takes you to two magnificent castles, ending the day majestically."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+            "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+          },
+          "coords": [
+            2.412985,
+            49.210696
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses große Freizeitzentrum am Wasser bietet zahlreiche Aktivitäten von Schwimmen bis Bootfahren; vergessen Sie nicht, an sonnigen Tagen ausreichend Sonnencreme und Badezeug mitzubringen.",
+            "hu": "Ez a vízparti szabadidőközpont rengeteg programot kínál az úszástól a csónakázásig; ne felejtsen el naptejet és fürdőruhát hozni a napsütéses napokon.",
+            "ro": "Acest centru de agrement pe malul apei oferă numeroase activități, de la înot la plimbări cu barca; nu uitați crema de protecție solară și costumul de baie în zilele însorite.",
+            "en": "This lakeside recreation center offers numerous activities from swimming to boating; don't forget to pack sunscreen and a swimsuit on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Village Troglodyte",
+            "hu": "Village Troglodyte",
+            "ro": "Village Troglodyte",
+            "en": "Village Troglodyte"
+          },
+          "coords": [
+            2.420535,
+            49.200444
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die einzigartigen Höhlenwohnungen des Village Troglodyte geben faszinierende Einblicke in eine alte Lebensweise; eine Taschenlampe kann hilfreich sein, um dunklere Ecken zu erkunden.",
+            "hu": "A Village Troglodyte egyedülálló barlanglakásai lenyűgöző bepillantást engednek egy ősi életmódba; egy zseblámpa hasznos lehet a sötétebb sarkok felfedezéséhez.",
+            "ro": "Locuințele rupestre unice din Village Troglodyte oferă o perspectivă fascinantă asupra unui mod de viață vechi; o lanternă poate fi utilă pentru a explora colțurile mai întunecate.",
+            "en": "The unique cave dwellings of the Village Troglodyte offer fascinating insights into an ancient way of life; a flashlight might be handy to explore the darker corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Geniève",
+            "hu": "Église Sainte-Geniève",
+            "ro": "Église Sainte-Geniève",
+            "en": "Église Sainte-Geniève"
+          },
+          "coords": [
+            2.415736,
+            49.189616
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die historische Église Sainte-Geniève beeindruckt mit ihren Buntglasfenstern und der ruhigen Atmosphäre; betreten Sie die Kirche leise, um die andächtige Stimmung nicht zu stören.",
+            "hu": "A történelmi Église Sainte-Geniève lenyűgöző ólomüveg ablakokkal és békés atmoszférával várja; lépjen be halkan, hogy ne zavarja meg az áhítatos csendet.",
+            "ro": "Biserica istorică Sainte-Geniève impresionează cu vitraliile sale și atmosfera liniștită; intrați în liniște pentru a nu perturba starea de reculegere a locului.",
+            "en": "The historic Église Sainte-Geniève impresses with its stained glass windows and peaceful atmosphere; enter quietly so as not to disturb the reverent silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Gouvieux",
+            "hu": "Mairie de Gouvieux",
+            "ro": "Mairie de Gouvieux",
+            "en": "Mairie de Gouvieux"
+          },
+          "coords": [
+            2.416025,
+            49.187844
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das charmante Rathaus von Gouvieux ist ein wunderbares Beispiel für die lokale Architektur; vergessen Sie nicht, ein Foto von der eleganten Fassade am Morgenlicht zu machen.",
+            "hu": "Gouvieux hangulatos városháza a helyi építészet csodás példája; ne felejtse el lefotózni az elegáns homlokzatot a reggeli fényben, mielőtt továbbindul.",
+            "ro": "Primăria fermecătoare din Gouvieux este un exemplu minunat al arhitecturii locale; nu uitați să faceți o fotografie a fațadei elegante în lumina dimineții.",
+            "en": "The charming town hall of Gouvieux is a wonderful example of local architecture; don't forget to take a picture of the elegant facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Tour",
+            "hu": "Manoir de la Tour",
+            "ro": "Manoir de la Tour",
+            "en": "Manoir de la Tour"
+          },
+          "coords": [
+            2.42826,
+            49.191652
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das historische Manoir de la Tour zeugt von der reichen Vergangenheit der Region; achten Sie auf die steinernen Details an den Außenmauern und tragen Sie bequeme Schuhe für den Rundgang.",
+            "hu": "A történelmi Manoir de la Tour a régió gazdag múltjáról tanúskodik; figyelje meg a kőfalak finom részleteit, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Istoricul Manoir de la Tour stă mărturie trecutului bogat al regiunii; observați detaliile din piatră de pe zidurile exterioare și purtați încălțăminte comodă.",
+            "en": "The historic Manoir de la Tour testifies to the region's rich past; pay attention to the stone details on the outer walls and wear comfortable shoes for the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montvillargenne",
+            "hu": "Château de Montvillargenne",
+            "ro": "Château de Montvillargenne",
+            "en": "Château de Montvillargenne"
+          },
+          "coords": [
+            2.42694,
+            49.1847
+          ],
+          "category": "hotel",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses prächtige Schloss, heute ein Hotel, besticht durch seine normannische Architektur; spazieren Sie durch den weitläufigen Schlosspark und genießen Sie einen Kaffee auf der Terrasse.",
+            "hu": "Ez a pompás, ma szállodaként működő kastély normann építészeti stílusával bűvöli el a látogatókat; tegyen egy sétát a hatalmas parkban, és igyon meg egy kávét a teraszon.",
+            "ro": "Acest castel magnific, astăzi hotel, farmecă prin arhitectura sa normandă; plimbați-vă prin parcul spațios și savurați o cafea relaxantă pe terasă.",
+            "en": "This magnificent castle, now a hotel, captivates with its Norman architecture; take a stroll through the spacious grounds and enjoy a coffee on the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aiglemont",
+            "hu": "Château d'Aiglemont",
+            "ro": "Château d'Aiglemont",
+            "en": "Château d'Aiglemont"
+          },
+          "coords": [
+            2.428212,
+            49.179789
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das etwas verstecktere Château d'Aiglemont bietet eine ruhige Atmosphäre abseits des großen Trubels; informieren Sie sich im Voraus über die genauen Zugangszeiten zum Gelände.",
+            "hu": "A kissé eldugottabb Château d'Aiglemont csendes légkört kínál távol a nagy nyüzsgéstől; indulás előtt mindenképpen tájékozódjon a birtok látogatási rendjéről.",
+            "ro": "Château d'Aiglemont, ceva mai ascuns, oferă o atmosferă liniștită departe de agitație; informați-vă în prealabil despre orele exacte de acces pe domeniu.",
+            "en": "The somewhat hidden Château d'Aiglemont offers a peaceful atmosphere away from the hustle and bustle; be sure to check the exact access times to the grounds in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Ausflug beginnt aktiv am großen Freizeitzentrum und den mystischen Höhlenwohnungen. Um die Mittagszeit fahren Sie ins Zentrum, um die Kirche und das Rathaus zu bewundern. Der Nachmittag ist ganz der Geschichte gewidmet, mit einem Besuch am Manoir de la Tour. Abends runden die beiden beeindruckenden Schlösser das Erlebnis ab.",
+        "hu": "Kirándulása aktívan indul a nagy szabadidőközpontnál és a titokzatos barlanglakásoknál. Délben a központba hajt, hogy megcsodálja a templomot és a városházát. A délután a történelemé, a Manoir de la Tour meglátogatásával. Este a két lenyűgöző kastély teszi teljessé a felejthetetlen élményt.",
+        "ro": "Excursia dvs. începe activ la marele centru de agrement și la misterioasele locuințe rupestre. La prânz, conduceți spre centru pentru a admira biserica și primăria. După-amiaza este dedicată istoriei, cu o vizită la Manoir de la Tour. Seara, cele două castele impresionante completează experiența.",
+        "en": "Your trip starts actively at the large recreation center and the mystical cave dwellings. Around noon, drive into the center to admire the church and the town hall. The afternoon is dedicated to history with a visit to the Manoir de la Tour. In the evening, two impressive castles perfectly round off the experience."
+      }
+    }
+  }
+}

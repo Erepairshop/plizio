@@ -1,0 +1,474 @@
+{
+  "city_id": "marvejols",
+  "anchor": {
+    "name": "Marvejols",
+    "coords": [
+      3.29,
+      44.5533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 0.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue von Heinrich IV",
+            "hu": "IV. Henrik szobra",
+            "ro": "Statuia lui Henric al IV-lea",
+            "en": "Statue of Henri IV"
+          },
+          "coords": [
+            3.291079,
+            44.555071
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Statue von Heinrich IV., die den König ehrt, der beim Wiederaufbau der Stadt half, und nehmen Sie sich Zeit für die Inschrift am Sockel.",
+            "hu": "Csodálja meg IV. Henrik szobrát, amely a város újjáépítését segítő királynak állít emléket, és mindenképpen olvassa el a talapzaton található feliratot.",
+            "ro": "Admirați impresionanta statuie a lui Henric al IV-lea, care onorează regele ce a ajutat la reconstrucția orașului, și citiți inscripția interesantă de pe piedestal.",
+            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Soubeyran",
+            "hu": "Porte de Soubeyran",
+            "ro": "Porte de Soubeyran",
+            "en": "Porte de Soubeyran"
+          },
+          "coords": [
+            3.29079,
+            44.5545
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
+            "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
+            "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Carce",
+            "hu": "Notre-Dame-de-la-Carce templom",
+            "ro": "Biserica Notre-Dame-de-la-Carce",
+            "en": "Church of Notre-Dame-de-la-Carce"
+          },
+          "coords": [
+            3.288563,
+            44.554025
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
+            "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
+            "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Besoin de Berc",
+            "hu": "Besoin de Berc ház",
+            "ro": "Casa Besoin de Berc",
+            "en": "Besoin de Berc House"
+          },
+          "coords": [
+            3.290187,
+            44.552884
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Fassade des Hauses Besoin de Berc, ein hervorragendes Beispiel lokaler historischer Architektur, und achten Sie auf die einzigartigen Fensterdetails.",
+            "hu": "Fedezze fel a Besoin de Berc ház elegáns homlokzatát, amely a helyi történelmi építészet kiváló példája, és figyelje meg az egyedi ablakdíszítéseket.",
+            "ro": "Descoperiți fațada elegantă a casei Besoin de Berc, un exemplu excelent de arhitectură istorică locală, și fiți atenți la detaliile unice ale ferestrelor.",
+            "en": "Discover the elegant facade of the Besoin de Berc House, an excellent example of local historic architecture, and look out for its unique window details."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte du Thérond",
+            "hu": "Porte du Thérond",
+            "ro": "Porte du Thérond",
+            "en": "Porte du Thérond"
+          },
+          "coords": [
+            3.291872,
+            44.551904
+          ],
+          "category": "fortress",
+          "arrive_at": "14:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses robuste steinerne Festungstor, das einst den östlichen Zugang bewachte, und machen Sie unbedingt einige Fotos des imposanten Torbogens.",
+            "hu": "Fedezze fel ezt a robusztus kőből épült erődítménykaput, amely egykor a keleti bejáratot őrizte, és mindenképpen készítsen fotókat az impozáns boltívről.",
+            "ro": "Explorați această poartă robustă de fortăreață din piatră, care păzea odată intrarea estică, și asigurați-vă că faceți câteva fotografii ale arcadei impunătoare.",
+            "en": "Explore this robust stone fortress gate that once guarded the eastern approach, and make sure to capture some photos of the imposing archway."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Chanelles",
+            "hu": "Porte de Chanelles",
+            "ro": "Porte de Chanelles",
+            "en": "Porte de Chanelles"
+          },
+          "coords": [
+            3.289942,
+            44.551756
+          ],
+          "category": "fortress",
+          "arrive_at": "15:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am südlichen Tor und bewundern Sie die massiven runden Türme, die die militärische Vergangenheit unterstreichen, bevor Sie sich entspannen.",
+            "hu": "Fejezze be sétáját a déli kapunál, megcsodálva a katonai múltat idéző masszív kerek tornyokat, mielőtt megpihenne egy közeli kávézóban.",
+            "ro": "Încheiați-vă plimbarea la poarta de sud, admirând turnurile rotunde masive care evidențiază trecutul militar, înainte de a vă relaxa la o cafenea din apropiere.",
+            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der königlichen Geschichte an der Statue von Heinrich IV., bevor Sie durch die mittelalterliche Porte de Soubeyran gehen. Der Mittag bietet einen ruhigen Moment in der Kirche Notre-Dame-de-la-Carce. Am Nachmittag erkunden Sie die architektonischen Details des Besoin de Berc Hauses und die Porte du Thérond. Beenden Sie Ihren Spaziergang an der Porte de Chanelles.",
+        "hu": "Kezdje a reggelt a királyi történelem magába szívásával IV. Henrik szobránál, majd keljen át a középkori Porte de Soubeyran kapun. A dél csendes pillanatot hoz a Notre-Dame-de-la-Carce templomban. Délután fedezze fel a Besoin de Berc ház részleteit és a lenyűgöző Porte du Thérond-t. Fejezze be történelmi sétáját este a robusztus Porte de Chanelles-nél.",
+        "ro": "Începeți dimineața absorbind istoria regală la Statuia lui Henric al IV-lea, înainte de a trece prin Porte de Soubeyran. Amiaza aduce un moment de calm în Biserica Notre-Dame-de-la-Carce. După-amiaza, explorați detaliile arhitecturale ale Casei Besoin de Berc și impunătoarea Porte du Thérond. Încheiați plimbarea istorică seara la robusta Porte de Chanelles.",
+        "en": "Start your morning absorbing the regal history at the Statue of Henri IV before crossing through the medieval Porte de Soubeyran. Midday brings a calm moment of reflection inside the magnificent Church of Notre-Dame-de-la-Carce. In the afternoon, explore the architectural details of the Besoin de Berc House and the imposing Porte du Thérond. Conclude at the robust Porte de Chanelles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Enfants Denkmal",
+            "hu": "Enfants műemlék",
+            "ro": "Monumentul Enfants",
+            "en": "Enfants Monument"
+          },
+          "coords": [
+            3.290805,
+            44.563839
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bewegende historische Stätte, die das tiefe Erbe der Region widerspiegelt, und nehmen Sie sich Zeit für die informativen Tafeln.",
+            "hu": "Látogasson el erre a megható történelmi helyszínre, amely a régió gazdag örökségét tükrözi, és szánjon egy percet a közeli információs táblák elolvasására.",
+            "ro": "Vizitați acest sit istoric emoționant care reflectă moștenirea profundă a regiunii și luați-vă un moment pentru a citi plăcuțele informative din apropiere.",
+            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Heinrich IV",
+            "hu": "IV. Henrik szobra",
+            "ro": "Statuia lui Henric al IV-lea",
+            "en": "Statue of Henri IV"
+          },
+          "coords": [
+            3.291079,
+            44.555071
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Statue von Heinrich IV., die den König ehrt, der beim Wiederaufbau der Stadt half, und nehmen Sie sich Zeit für die Inschrift am Sockel.",
+            "hu": "Csodálja meg IV. Henrik szobrát, amely a város újjáépítését segítő királynak állít emléket, és mindenképpen olvassa el a talapzaton található feliratot.",
+            "ro": "Admirați impresionanta statuie a lui Henric al IV-lea, care onorează regele ce a ajutat la reconstrucția orașului, și citiți inscripția interesantă de pe piedestal.",
+            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Soubeyran",
+            "hu": "Porte de Soubeyran",
+            "ro": "Porte de Soubeyran",
+            "en": "Porte de Soubeyran"
+          },
+          "coords": [
+            3.29079,
+            44.5545
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
+            "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
+            "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Carce",
+            "hu": "Notre-Dame-de-la-Carce templom",
+            "ro": "Biserica Notre-Dame-de-la-Carce",
+            "en": "Church of Notre-Dame-de-la-Carce"
+          },
+          "coords": [
+            3.288563,
+            44.554025
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
+            "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
+            "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Chanelles",
+            "hu": "Porte de Chanelles",
+            "ro": "Porte de Chanelles",
+            "en": "Porte de Chanelles"
+          },
+          "coords": [
+            3.289942,
+            44.551756
+          ],
+          "category": "fortress",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am südlichen Tor und bewundern Sie die massiven runden Türme, die die militärische Vergangenheit unterstreichen, bevor Sie sich entspannen.",
+            "hu": "Fejezze be sétáját a déli kapunál, megcsodálva a katonai múltat idéző masszív kerek tornyokat, mielőtt megpihenne egy közeli kávézóban.",
+            "ro": "Încheiați-vă plimbarea la poarta de sud, admirând turnurile rotunde masive care evidențiază trecutul militar, înainte de a vă relaxa la o cafenea din apropiere.",
+            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Saint-Lambert",
+            "hu": "Domaine de Saint-Lambert",
+            "ro": "Domaine de Saint-Lambert",
+            "en": "Domaine de Saint-Lambert"
+          },
+          "coords": [
+            3.289134,
+            44.547582
+          ],
+          "category": "castle",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses historischen Anwesens, um sich seine vergangene Pracht vorzustellen, und prüfen Sie, ob lokale Veranstaltungen stattfinden.",
+            "hu": "Sétáljon ezen a történelmi birtokon, hogy elképzelje egykori pompáját, és érdeklődjön, vannak-e helyi rendezvények vagy túrák a látogatása során.",
+            "ro": "Plimbați-vă pe domeniul acestei proprietăți istorice pentru a vă imagina grandoarea sa trecută și verificați dacă sunt programate evenimente locale.",
+            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am historischen Gelände Enfants und fahren Sie dann zur Statue von Heinrich IV. Der Mittag führt Sie durch die majestätische Porte de Soubeyran und zur Kirche Notre-Dame-de-la-Carce. Verbringen Sie den Nachmittag damit, nach Süden zur massiven Porte de Chanelles zu radeln. Lassen Sie Ihren aktiven Tag mit einem friedlichen Abend auf der Domaine de Saint-Lambert ausklingen.",
+        "hu": "Kezdje kerékpártúráját a történelmi Enfants helyszínen, majd tekerjen le IV. Henrik szobrához. A dél a fenséges Porte de Soubeyran kapun és a nyugodt Notre-Dame-de-la-Carce templomon át vezet. Töltse a délutánt dél felé pedálozva, hogy megcsodálja a masszív Porte de Chanelles-t. Zárja aktív napját egy békés estével a Domaine de Saint-Lambert birtokon.",
+        "ro": "Începeți turul cu bicicleta la situl istoric Enfants, apoi pedalați pentru a saluta Statuia lui Henric al IV-lea. Amiaza vă duce prin maiestuoasa Porte de Soubeyran și la Biserica Notre-Dame-de-la-Carce. Petreceți-vă după-amiaza pedalând spre sud pentru a admira Porte de Chanelles. Încheiați-vă ziua activă cu o seară liniștită explorând domeniul Saint-Lambert.",
+        "en": "Kick off your cycling tour in the northern outskirts at the historic Enfants site, then ride down to greet the Statue of Henri IV. Midday takes you through the majestic Porte de Soubeyran and to the serene Church of Notre-Dame-de-la-Carce. Spend your afternoon pedaling south to marvel at the massive Porte de Chanelles. Wind down your active day with a peaceful evening exploring Domaine de Saint-Lambert."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Enfants Denkmal",
+            "hu": "Enfants műemlék",
+            "ro": "Monumentul Enfants",
+            "en": "Enfants Monument"
+          },
+          "coords": [
+            3.290805,
+            44.563839
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bewegende historische Stätte, die das tiefe Erbe der Region widerspiegelt, und nehmen Sie sich Zeit für die informativen Tafeln.",
+            "hu": "Látogasson el erre a megható történelmi helyszínre, amely a régió gazdag örökségét tükrözi, és szánjon egy percet a közeli információs táblák elolvasására.",
+            "ro": "Vizitați acest sit istoric emoționant care reflectă moștenirea profundă a regiunii și luați-vă un moment pentru a citi plăcuțele informative din apropiere.",
+            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Soubeyran",
+            "hu": "Porte de Soubeyran",
+            "ro": "Porte de Soubeyran",
+            "en": "Porte de Soubeyran"
+          },
+          "coords": [
+            3.29079,
+            44.5545
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
+            "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
+            "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Carce",
+            "hu": "Notre-Dame-de-la-Carce templom",
+            "ro": "Biserica Notre-Dame-de-la-Carce",
+            "en": "Church of Notre-Dame-de-la-Carce"
+          },
+          "coords": [
+            3.288563,
+            44.554025
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
+            "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
+            "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Saint-Lambert",
+            "hu": "Domaine de Saint-Lambert",
+            "ro": "Domaine de Saint-Lambert",
+            "en": "Domaine de Saint-Lambert"
+          },
+          "coords": [
+            3.289134,
+            44.547582
+          ],
+          "category": "castle",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses historischen Anwesens, um sich seine vergangene Pracht vorzustellen, und prüfen Sie, ob lokale Veranstaltungen stattfinden.",
+            "hu": "Sétáljon ezen a történelmi birtokon, hogy elképzelje egykori pompáját, és érdeklődjön, vannak-e helyi rendezvények vagy túrák a látogatása során.",
+            "ro": "Plimbați-vă pe domeniul acestei proprietăți istorice pentru a vă imagina grandoarea sa trecută și verificați dacă sunt programate evenimente locale.",
+            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mascoussel",
+            "hu": "Mascoussel",
+            "ro": "Mascoussel",
+            "en": "Mascoussel"
+          },
+          "coords": [
+            3.29367,
+            44.547789
+          ],
+          "category": "family",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch die familienfreundliche Gegend von Mascoussel und bringen Sie ein Picknick mit, um die angenehme Umgebung zu nutzen.",
+            "hu": "Élvezze a pihentető sétát Mascoussel családbarát területén, és hozzon magával piknikkosarat, hogy a legtöbbet hozza ki a kellemes szabadtéri környezetből.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin zona prietenoasă cu familiile Mascoussel, aducând un picnic pentru a profita la maximum de mediul plăcut.",
+            "en": "Enjoy a relaxing stroll through the family-friendly area of Mascoussel, bringing a picnic to make the most of the pleasant outdoor environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean",
+            "hu": "Chapelle Saint-Jean",
+            "ro": "Chapelle Saint-Jean",
+            "en": "Chapelle Saint-Jean"
+          },
+          "coords": [
+            3.324897,
+            44.547886
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser ruhigen Kapelle vor einer wunderschönen Landschaft, nehmen Sie sich drinnen Zeit für stille Reflexion und genießen Sie die Aussicht.",
+            "hu": "Vezessen el ehhez a gyönyörű tájba simuló békés kápolnához, töltsön el néhány percet csendes elmélkedéssel, majd gyönyörködjön a panorámában.",
+            "ro": "Conduceți până la această capelă senină așezată pe un peisaj frumos, luându-vă câteva momente în interior pentru reflecție și bucurându-vă de priveliște.",
+            "en": "Drive out to this serene chapel set against beautiful landscapes, taking a few moments inside for quiet reflection and enjoying the panoramic views outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einer Fahrt zum historischen Wahrzeichen Enfants, gefolgt von einem kurzen Abstecher in die Stadt zur Porte de Soubeyran. Der Mittag ist perfekt für einen Spaziergang zur Kirche Notre-Dame-de-la-Carce, bevor Sie zur Domaine de Saint-Lambert fahren. Verbringen Sie einen entspannten Nachmittag im Freien bei Mascoussel. Beenden Sie den Tag malerisch an der Kapelle Saint-Jean.",
+        "hu": "Autós utazása a történelmi Enfants nevezetességnél kezdődik, majd egy rövid városi ugrás következik a Porte de Soubeyranhoz. A dél tökéletes a Notre-Dame-de-la-Carce templom felfedezésére, mielőtt a Domaine de Saint-Lambert-hez hajtana. Töltsön el egy nyugodt délutánt a Mascoussel szabadtéri részein. Zárja a napot egy festői autózással a csendes Chapelle Saint-Jeanhoz.",
+        "ro": "Excursia auto începe la reperul istoric Enfants, urmată de o scurtă oprire în oraș pentru a vedea Porte de Soubeyran. Amiaza este perfectă pentru o vizită la Biserica Notre-Dame-de-la-Carce, înainte de a conduce la Domaine de Saint-Lambert. Petreceți o după-amiază relaxantă în spațiile deschise de la Mascoussel. Încheiați ziua cu o plimbare pitorească până la liniștita Chapelle Saint-Jean.",
+        "en": "Your road trip begins with a drive to the historic Enfants landmark, followed by a quick hop into town to see the impressive Porte de Soubeyran. Midday is perfect for a short walk to the beautiful Church of Notre-Dame-de-la-Carce before driving to the grand Domaine de Saint-Lambert. Spend a leisurely afternoon enjoying the outdoor spaces at Mascoussel. End your day driving to the tranquil Chapelle Saint-Jean."
+      }
+    }
+  }
+}

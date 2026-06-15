@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-amand-les-eaux",
+  "anchor": {
+    "name": "Saint-Amand-les-Eaux",
+    "coords": [
+      3.4269,
+      50.4481
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Abbatiale",
+            "hu": "Tour Abbatiale",
+            "ro": "Tour Abbatiale",
+            "en": "Tour Abbatiale"
+          },
+          "coords": [
+            3.428722,
+            50.449007
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
+            "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
+            "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Sources",
+            "hu": "Théâtre des Sources",
+            "ro": "Théâtre des Sources",
+            "en": "Théâtre des Sources"
+          },
+          "coords": [
+            3.430718,
+            50.448929
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem lebendigen Theater und prüfen Sie das Programm vorab, um eine nachmittägliche oder abendliche Vorstellung zu besuchen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a nyüzsgő színházban, és érdemes előre ellenőrizni a műsort, ha szeretne megnézni egy délutáni előadást.",
+            "ro": "Experimentați cultura locală la acest teatru vibrant care găzduiește spectacole diverse; verificați programul în avans pentru a prinde o reprezentație.",
+            "en": "Experience local culture at this vibrant theatre that hosts diverse performances, so check the schedule in advance to catch an afternoon or evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.431015,
+            50.446681
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um das ruhige Innere und die Buntglasfenster zu betrachten, und verhalten Sie sich aus Respekt vor den Gläubigen leise.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a csendes belső teret és a festett üvegablakokat, de a hívők iránti tiszteletből halkan beszéljen.",
+            "ro": "Intrați în această biserică istorică pentru a-i observa interiorul senin și vitraliile, păstrând liniștea din respect pentru cei care se roagă.",
+            "en": "Step into this historical church to observe its serene interior and beautiful stained glass, but remember to keep your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple Protestant",
+            "hu": "Protestáns templom",
+            "ro": "Templul Protestant",
+            "en": "Temple Protestant"
+          },
+          "coords": [
+            3.424363,
+            50.445018
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das protestantische Erbe der Region in diesem schlichten, aber spirituell bedeutsamen Gebäude und achten Sie auf die architektonische Einfachheit.",
+            "hu": "Fedezze fel a régió protestáns örökségét ebben a szerény, mégis spirituálisan jelentős épületben, amelynek fő jellemzője a puritán építészeti egyszerűség.",
+            "ro": "Descoperiți moștenirea protestantă a regiunii în această clădire modestă, dar semnificativă, remarcând simplitatea sa arhitecturală deosebită.",
+            "en": "Discover the Protestant heritage of the region in this modest yet spiritually significant building, noting the architectural simplicity that defines it."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame des Malades",
+            "hu": "Église Notre-Dame des Malades",
+            "ro": "Église Notre-Dame des Malades",
+            "en": "Église Notre-Dame des Malades"
+          },
+          "coords": [
+            3.434563,
+            50.436503
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten Ort, der historisch den Kranken diente, und nehmen Sie sich einen Moment der Besinnung in der friedlichen Umgebung abseits des Zentrums.",
+            "hu": "Látogasson el erre a bájos egyházi helyszínre, amely történelmileg a betegeket szolgálta, és töltsön el egy percet csendes elmélkedéssel a központtól távolabb.",
+            "ro": "Vizitați acest loc religios fermecător care a servit istoric bolnavilor și luați-vă un moment de reflecție în împrejurimile pașnice departe de centru.",
+            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Wir beginnen im Herzen der Stadt, erkunden die majestätische Tour Abbatiale und genießen die Atmosphäre, bevor es zum Theater geht. Mittag: Ein gemütlicher Spaziergang führt uns an den Kirchen Saint-Martin und dem Tempel vorbei, die die Religionsgeschichte aufzeigen. Nachmittag: Wir wandern südwärts, um die friedliche Église Notre-Dame des Malades zu entdecken und zur Ruhe zu kommen. Abend: Der Abend steht zur freien Verfügung, um ein herzhaftes französisches Abendessen zu genießen.",
+        "hu": "Délelőtt: A város szívében kezdünk, felfedezve a fenséges apátsági tornyot, majd átadjuk magunkat a központ hangulatának a színház felé haladva. Dél: Egy könnyed séta vezet el a Saint-Martin templomhoz és a protestáns templomhoz, bemutatva a hely vallási múltját. Délután: Dél felé vesszük az irányt, hogy megtaláljuk a békés Église Notre-Dame des Malades templomot egy kis elmélkedésre. Este: Az estét egy hangulatos helyi étteremben tölthetjük el, élvezve a francia gasztronómiát.",
+        "ro": "Dimineața: Începem în inima orașului, explorând maiestuosul Tour Abbatiale și bucurându-ne de atmosfera centrală vibrantă lângă teatru. Prânz: O scurtă plimbare ne duce la biserica Saint-Martin și la Templul Protestant, subliniind istoria religioasă diversă a orașului. După-amiaza: Ne îndreptăm spre sud pentru a descoperi pașnica Église Notre-Dame des Malades, reflectând la frumusețea locului. Seara: Seara este liberă pentru a savura o cină franțuzească copioasă.",
+        "en": "Morning: We start in the very heart of the town, exploring the majestic Tour Abbatiale and soaking up the lively central atmosphere before moving to the local theatre. Midday: A gentle stroll leads us past the spiritual landmarks of Saint-Martin and the Protestant Temple, highlighting the town's diverse religious history. Afternoon: We walk southwards to discover the peaceful Église Notre-Dame des Malades, taking time to reflect. Evening: The evening is free to enjoy a hearty French dinner at one of the cozy local restaurants."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Abbatiale",
+            "hu": "Tour Abbatiale",
+            "ro": "Tour Abbatiale",
+            "en": "Tour Abbatiale"
+          },
+          "coords": [
+            3.428722,
+            50.449007
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
+            "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
+            "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Blanc",
+            "hu": "Moulin Blanc",
+            "ro": "Moulin Blanc",
+            "en": "Moulin Blanc"
+          },
+          "coords": [
+            3.401702,
+            50.443721
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese klassische weiße Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit, da sie besonders im Morgenlicht fotogen ist.",
+            "hu": "Készítsen egy fotót erről a klasszikus fehér szélmalomról, amely a mezőgazdasági múltat őrzi, és reggeli fényben a leginkább fotogén látványosság.",
+            "ro": "Fotografiați această moară de vânt albă, o mărturie a trecutului agricol al regiunii, deosebit de spectaculoasă în lumina de dimineață.",
+            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Thérèse",
+            "hu": "Église Sainte-Thérèse",
+            "ro": "Église Sainte-Thérèse",
+            "en": "Église Sainte-Thérèse"
+          },
+          "coords": [
+            3.405362,
+            50.443436
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die subtilen architektonischen Details dieser weniger bekannten Kirche, die eine sehr ruhige Atmosphäre für einen kurzen Stopp bietet.",
+            "hu": "Csodálja meg ennek a kevésbé ismert templomnak a finom építészeti részleteit, amely nyugodt légkörével tökéletes egy rövid, elmélyült megállóra.",
+            "ro": "Admirați detaliile subtile ale acestei biserici mai puțin cunoscute, care oferă o atmosferă liniștită, perfectă pentru o scurtă oprire pe traseul dumneavoastră.",
+            "en": "Admire the subtle architectural details of this lesser-known church, which offers a very tranquil atmosphere perfect for a brief, contemplative stop on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Scarpe-Escaut",
+            "hu": "Scarpe-Escaut Regionális Park",
+            "ro": "Parcul Regional Scarpe-Escaut",
+            "en": "Scarpe-Escaut Regional Park"
+          },
+          "coords": [
+            3.411019,
+            50.436589
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft ein und wandern Sie auf den Wegen dieses riesigen Naturreservats, wobei bequeme Schuhe und Insektenschutz im Sommer ratsam sind.",
+            "hu": "Lélegezze be a friss levegőt e hatalmas természetvédelmi terület ösvényein, de nyáron feltétlenül hozzon magával kényelmes cipőt és rovarriasztót.",
+            "ro": "Respirați aerul proaspăt pe traseele verzi ale acestei vaste rezervații naturale, purtând încălțăminte comodă și aducând repelent împotriva insectelor vara.",
+            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Amand Thermalbäder",
+            "hu": "Saint-Amand Termálfürdő",
+            "ro": "Băile Termale Saint-Amand",
+            "en": "Saint-Amand Thermal Baths"
+          },
+          "coords": [
+            3.451364,
+            50.447666
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den berühmten Thermalquellen, die der Stadt ihren Namen gaben, und erwägen Sie eine kurze Wellnessbehandlung oder genießen Sie die Anlagen.",
+            "hu": "Pihenjen a városnak nevet adó híres termálforrásoknál, ahol érdemes kipróbálni egy rövidebb wellness kezelést, vagy csak sétálni a pihentető környezetben.",
+            "ro": "Relaxați-vă la celebrele izvoare termale care dau numele orașului, optând pentru un tratament spa scurt sau bucurându-vă de zonele de agrement din jur.",
+            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            3.460869,
+            50.445955
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung an dieser eleganten Kirche mit ihrem bemerkenswerten Glockenturm und achten Sie auf die vom Nachmittagslicht beleuchtete Handwerkskunst.",
+            "hu": "Zárja a felfedezést ennél az elegáns, lenyűgöző harangtoronnyal rendelkező templomnál, és figyelje meg a délutáni napfényben fürdő finom kőfaragásokat.",
+            "ro": "Încheiați explorarea la această biserică elegantă cu un clopotniță remarcabilă și acordați timp detaliilor de piatră luminate de soarele după-amiezii.",
+            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Die Radtour beginnt am Tour Abbatiale, bevor wir westwärts radeln, um die historische Mühle Moulin Blanc und die Kirche Sainte-Thérèse zu fotografieren. Mittag: Wir fahren weiter zum ruhigen regionalen Naturpark Scarpe-Escaut und nutzen die ausgedehnten, schattigen Radwege. Nachmittag: In Richtung Osten erreichen wir die berühmten Thermalbäder zur Entspannung und bewundern danach die Église Saint-Jean-Baptiste. Abend: Eine letzte gemütliche Fahrt zurück ins Zentrum in der Dämmerung rundet den aktiven Tag ab.",
+        "hu": "Délelőtt: Kerékpártúránk a lenyűgöző apátsági toronynál indul, majd nyugat felé tekerünk a Moulin Blanc malomhoz és a Sainte-Thérèse templomhoz. Dél: Áttérünk a Scarpe-Escaut Regionális Parkba, ahol kiélvezzük a kiváló kerékpárutakat és az árnyékos erdei ösvényeket. Délután: Kelet felé haladva megérkezünk a híres termálfürdőhöz egy kis feltöltődésre, végül megnézzük a Keresztelő Szent János templomot. Este: Kellemes visszautazás a központba a szürkületi fények alatt.",
+        "ro": "Dimineața: Turul nostru cu bicicleta începe la Tour Abbatiale, apoi pedalăm spre vest pentru a fotografia Moulin Blanc și biserica Sainte-Thérèse. Prânz: Ne mutăm în liniștitul Parc Regional Scarpe-Escaut, profitând de pistele sale de biciclete și de coridoarele umbrite. După-amiaza: Mergând spre est, ajungem la faimoasele Băi Termale pentru relaxare, înainte de a admira Biserica Saint-Jean-Baptiste. Seara: O ultimă plimbare înapoi spre centru, sub cerul amurgului, încheie o zi activă perfectă.",
+        "en": "Morning: Our cycling tour starts with the iconic Tour Abbatiale, then quickly pedals out west to photograph the historic Moulin Blanc and nearby Sainte-Thérèse church. Midday: We transition to the serene Scarpe-Escaut Regional Park, taking advantage of its vast cycling paths and shaded woodland corridors. Afternoon: Cycling east, we reach the celebrated Saint-Amand Thermal Baths for some relaxation, before admiring the Église Saint-Jean-Baptiste. Evening: Enjoy a final ride back towards the center under the twilight sky, capping off a perfect active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Abbatiale",
+            "hu": "Tour Abbatiale",
+            "ro": "Tour Abbatiale",
+            "en": "Tour Abbatiale"
+          },
+          "coords": [
+            3.428722,
+            50.449007
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
+            "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
+            "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame des Malades",
+            "hu": "Église Notre-Dame des Malades",
+            "ro": "Église Notre-Dame des Malades",
+            "en": "Église Notre-Dame des Malades"
+          },
+          "coords": [
+            3.434563,
+            50.436503
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten Ort, der historisch den Kranken diente, und nehmen Sie sich einen Moment der Besinnung in der friedlichen Umgebung abseits des Zentrums.",
+            "hu": "Látogasson el erre a bájos egyházi helyszínre, amely történelmileg a betegeket szolgálta, és töltsön el egy percet csendes elmélkedéssel a központtól távolabb.",
+            "ro": "Vizitați acest loc religios fermecător care a servit istoric bolnavilor și luați-vă un moment de reflecție în împrejurimile pașnice departe de centru.",
+            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Scarpe-Escaut",
+            "hu": "Scarpe-Escaut Regionális Park",
+            "ro": "Parcul Regional Scarpe-Escaut",
+            "en": "Scarpe-Escaut Regional Park"
+          },
+          "coords": [
+            3.411019,
+            50.436589
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft ein und wandern Sie auf den Wegen dieses riesigen Naturreservats, wobei bequeme Schuhe und Insektenschutz im Sommer ratsam sind.",
+            "hu": "Lélegezze be a friss levegőt e hatalmas természetvédelmi terület ösvényein, de nyáron feltétlenül hozzon magával kényelmes cipőt és rovarriasztót.",
+            "ro": "Respirați aerul proaspăt pe traseele verzi ale acestei vaste rezervații naturale, purtând încălțăminte comodă și aducând repelent împotriva insectelor vara.",
+            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Blanc",
+            "hu": "Moulin Blanc",
+            "ro": "Moulin Blanc",
+            "en": "Moulin Blanc"
+          },
+          "coords": [
+            3.401702,
+            50.443721
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese klassische weiße Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit, da sie besonders im Morgenlicht fotogen ist.",
+            "hu": "Készítsen egy fotót erről a klasszikus fehér szélmalomról, amely a mezőgazdasági múltat őrzi, és reggeli fényben a leginkább fotogén látványosság.",
+            "ro": "Fotografiați această moară de vânt albă, o mărturie a trecutului agricol al regiunii, deosebit de spectaculoasă în lumina de dimineață.",
+            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Amand Thermalbäder",
+            "hu": "Saint-Amand Termálfürdő",
+            "ro": "Băile Termale Saint-Amand",
+            "en": "Saint-Amand Thermal Baths"
+          },
+          "coords": [
+            3.451364,
+            50.447666
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den berühmten Thermalquellen, die der Stadt ihren Namen gaben, und erwägen Sie eine kurze Wellnessbehandlung oder genießen Sie die Anlagen.",
+            "hu": "Pihenjen a városnak nevet adó híres termálforrásoknál, ahol érdemes kipróbálni egy rövidebb wellness kezelést, vagy csak sétálni a pihentető környezetben.",
+            "ro": "Relaxați-vă la celebrele izvoare termale care dau numele orașului, optând pentru un tratament spa scurt sau bucurându-vă de zonele de agrement din jur.",
+            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            3.460869,
+            50.445955
+          ],
+          "category": "religious",
+          "arrive_at": "14:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung an dieser eleganten Kirche mit ihrem bemerkenswerten Glockenturm und achten Sie auf die vom Nachmittagslicht beleuchtete Handwerkskunst.",
+            "hu": "Zárja a felfedezést ennél az elegáns, lenyűgöző harangtoronnyal rendelkező templomnál, és figyelje meg a délutáni napfényben fürdő finom kőfaragásokat.",
+            "ro": "Încheiați explorarea la această biserică elegantă cu un clopotniță remarcabilă și acordați timp detaliilor de piatră luminate de soarele după-amiezii.",
+            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Wir starten am zentralen Tour Abbatiale und fahren bequem in den Süden, um die historische Église Notre-Dame des Malades zu erkunden. Mittag: Eine kurze Fahrt bringt uns zum Naturpark Scarpe-Escaut, wo wir parken und die Natur genießen, bevor wir die Mühle Moulin Blanc besuchen. Nachmittag: Wir steuern die Ostseite der Stadt an, besuchen die Thermalbäder und beenden die Tour an der Église Saint-Jean-Baptiste. Abend: Dank des Autos können wir für ein entspanntes Abendessen flexibel ein Landgasthaus oder ein Bistro im Zentrum wählen.",
+        "hu": "Délelőtt: A központi apátsági toronytól indulunk, majd kényelmesen a déli peremre autózunk, hogy megnézzük a történelmi Église Notre-Dame des Malades-t. Dél: Egy rövid út után a Scarpe-Escaut Regionális Parkban parkolunk le, megmozgatjuk a lábunkat a természetben, majd a Moulin Blanc felé tartunk. Délután: A város keleti felébe hajtunk a termálfürdőhöz, és a Keresztelő Szent János templomnál fejezzük be a városnézést. Este: Az autó nyújtotta szabadsággal egy vidéki fogadóban vagy központi bisztróban is megejthetjük a vacsorát.",
+        "ro": "Dimineața: Părăsim centralul Tour Abbatiale și conducem confortabil spre sud pentru a explora istorica biserică Notre-Dame des Malades. Prânz: Un scurt drum ne aduce în Parcul Regional Scarpe-Escaut, unde parcăm și ne relaxăm în natură înainte de a vedea Moulin Blanc. După-amiaza: Ne îndreptăm spre estul orașului pentru a vizita Băile Termale și a încheia la Biserica Saint-Jean-Baptiste. Seara: Mobilitatea oferită de mașină ne permite să alegem orice han rustic sau bistro central pentru o masă de seară liniștită.",
+        "en": "Morning: We depart from the central Tour Abbatiale and comfortably drive to the southern outskirts to explore the historical Église Notre-Dame des Malades. Midday: A short drive brings us into the heart of the Scarpe-Escaut Regional Park, where we can park and stretch our legs in nature before checking out the Moulin Blanc. Afternoon: We cruise to the eastern side of the town to visit the Thermal Baths and conclude our structured sightseeing at Église Saint-Jean-Baptiste. Evening: The mobility of a car allows us to pick any countryside inn or lively central bistro for a relaxing evening meal."
+      }
+    }
+  }
+}

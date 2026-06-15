@@ -1,0 +1,428 @@
+{
+  "city_id": "carmaux",
+  "anchor": {
+    "name": "Carmaux",
+    "coords": [
+      2.1581,
+      44.0492
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Privat",
+            "hu": "Saint-Privat templom",
+            "ro": "Biserica Saint-Privat",
+            "en": "Saint-Privat Church"
+          },
+          "coords": [
+            2.160511,
+            44.049345
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Stadtzentrum und kommen Sie am besten frühmorgens, um das friedliche Licht abseits der Massen zu genießen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét a városközpontban, és érdemes kora reggel érkezni, hogy elkerülje a tömeget és élvezze a békés fényeket.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din centrul orașului și veniți dimineața devreme pentru a vă bucura de luminile interioare liniștite fără aglomerație.",
+            "en": "Admire the striking architecture of this historic church in the city center, and consider visiting in the early morning to enjoy its serene interior lighting without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum",
+            "hu": "Üvegmúzeum",
+            "ro": "Muzeul Sticlei",
+            "en": "Glass Museum"
+          },
+          "coords": [
+            2.142833,
+            44.049989
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Glasmachertradition von Carmaux bei faszinierenden Vorführungen, aber prüfen Sie vorher den Zeitplan der Werkstatt, um die Handwerker live zu erleben.",
+            "hu": "Fedezze fel Carmaux gazdag üvegfúvó örökségét az élő bemutatók során, de ne felejtse el előre ellenőrizni a műhely beosztását, hogy munka közben láthassa a mesterembereket.",
+            "ro": "Descoperiți bogata moștenire a sticlăriei din Carmaux prin demonstrații fascinante, dar verificați din timp programul atelierului pentru a surprinde artizanii în plină activitate.",
+            "en": "Discover Carmaux's rich glassmaking heritage through fascinating live blowing demonstrations, but remember to check the workshop schedule in advance to catch the artisans at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Candou",
+            "hu": "Candou Park",
+            "ro": "Parcul Candou",
+            "en": "Candou Park"
+          },
+          "coords": [
+            2.150881,
+            44.05323
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt zwischen jahrhundertealten Bäumen in dieser grünen Stadtoase, die sich mit ihren schattigen Bänken perfekt für ein friedliches Picknick am Nachmittag eignet.",
+            "hu": "Sétáljon egyet a százéves fák között ebben a buja városi oázisban, amely tökéletes hely arra, hogy egy árnyékos padon megpihenve egy békés délutáni pikniket rögtönözzön.",
+            "ro": "Faceți o plimbare relaxantă printre copacii seculari din această oază urbană luxuriantă, locul perfect pentru a vă așeza pe o bancă la umbră și a savura un picnic liniștit după-amiaza.",
+            "en": "Take a relaxing stroll among century-old trees in this lush urban oasis, making it the perfect spot to sit on a shaded bench and enjoy a peaceful afternoon picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Sainte-Cécile Church"
+          },
+          "coords": [
+            2.162567,
+            44.056657
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zarten Buntglasfenster, die das Kirchenschiff in buntes Licht tauchen, und spazieren Sie auf den ruhigen Wegen im Freien, um die Eleganz des Baus zu würdigen.",
+            "hu": "Csodálja meg az ólomüveg ablakokat, amelyek színes fénybe borítják a főhajót, és sétáljon körbe a csendes külső ösvényeken, hogy teljes mértékben értékelhesse az épület eleganciáját.",
+            "ro": "Minunați-vă de vitraliile delicate care scaldă nava în lumini colorate și plimbați-vă pe aleile exterioare liniștite pentru a aprecia pe deplin eleganța structurală a clădirii.",
+            "en": "Marvel at the delicate stained glass windows that bathe the nave in colorful light, and walk around the quiet exterior pathways to fully appreciate its structural elegance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Saint-Roch Chapel"
+          },
+          "coords": [
+            2.16571,
+            44.055195
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese reizvolle und intime Kapelle ein, um tiefe Ruhe zu finden, und beachten Sie das gut erhaltene Mauerwerk, das von der tiefen religiösen Hingabe der Region erzählt.",
+            "hu": "Lépjen be ebbe a bájos és meghitt kápolnába a mély nyugalom pillanatáért, és figyelje meg a jól megőrzött kőművesmunkát, amely a helyi vallási odaadás történetét meséli el.",
+            "ro": "Pășiți în această capelă fermecătoare și intimă pentru o clipă de liniște profundă și observați zidăria bine conservată care spune povestea devotamentului religios local.",
+            "en": "Step into this charming and intimate chapel to experience a moment of profound tranquility, and notice the well-preserved stonework that tells the story of local religious devotion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der zentralen Église Saint-Privat und dem Musée du Verre, wo Sie lokale Glaskunst entdecken. Mittags lädt der Park Candou zu einem ruhigen Picknick im Schatten ein. Am Nachmittag bewundern Sie die schöne Kirche Sainte-Cécile. Der Tag endet friedlich in der intimen Chapelle Saint-Roch, die Ihnen bleibende Erinnerungen an dieses französische Städtchen schenkt.",
+        "hu": "Kezdje a reggelt a központi Église Saint-Privat-nál, majd látogasson el az érdekes Musée du Verre-be. Délben a Candou Park árnyas oázisa tökéletes hely egy békés piknikre és sétára. A délutánt a gyönyörű Sainte-Cécile templom felfedezésével folytatja, mielőtt a nap a bájos és meghitt Chapelle Saint-Roch kápolnánál érne véget, csodás emlékeket hagyva a város nyugodt hangulatáról.",
+        "ro": "Începeți dimineața la centrala Église Saint-Privat, apoi descoperiți arta sticlăriei la fascinantul Musée du Verre. La prânz, parcul Candou vă invită la un picnic liniștit la umbră. După-amiaza continuă cu o vizită la superba biserică Sainte-Cécile. Ziua se încheie la intima capelă Saint-Roch, oferindu-vă o seară relaxantă și amintiri prețioase despre această localitate fermecătoare.",
+        "en": "Start your morning exploring the central Église Saint-Privat before heading to the fascinating Musée du Verre to discover local glassmaking. Midday calls for a peaceful stroll and picnic in the shaded oasis of Candou Park. Your afternoon continues with a visit to the beautiful Sainte-Cécile Church. The day winds down at the intimate Chapelle Saint-Roch, leaving you with lasting memories."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Benoît",
+            "hu": "Saint-Benoît templom",
+            "ro": "Biserica Saint-Benoît",
+            "en": "Saint-Benoît Church"
+          },
+          "coords": [
+            2.129466,
+            44.051367
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Sakralbauwerk in einem ruhigeren Viertel von Carmaux und nehmen Sie sich Zeit für die subtilen architektonischen Details, die oft übersehen werden.",
+            "hu": "Fedezze fel ezt az elegáns egyházi építményt Carmaux egy csendesebb negyedében, és szánjon időt azokra a finom építészeti részletekre, amelyeket az átutazó turisták gyakran figyelmen kívül hagynak.",
+            "ro": "Explorați această clădire religioasă elegantă dintr-un cartier mai liniștit din Carmaux și acordați-vă timp pentru a aprecia detaliile arhitecturale subtile deseori ignorate de turiști.",
+            "en": "Explore this elegant religious structure situated in a quieter district of Carmaux, and take your time to appreciate the subtle architectural details often missed by passing tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum",
+            "hu": "Üvegmúzeum",
+            "ro": "Muzeul Sticlei",
+            "en": "Glass Museum"
+          },
+          "coords": [
+            2.142833,
+            44.049989
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Glasmachertradition von Carmaux bei faszinierenden Vorführungen, aber prüfen Sie vorher den Zeitplan der Werkstatt, um die Handwerker live zu erleben.",
+            "hu": "Fedezze fel Carmaux gazdag üvegfúvó örökségét az élő bemutatók során, de ne felejtse el előre ellenőrizni a műhely beosztását, hogy munka közben láthassa a mesterembereket.",
+            "ro": "Descoperiți bogata moștenire a sticlăriei din Carmaux prin demonstrații fascinante, dar verificați din timp programul atelierului pentru a surprinde artizanii în plină activitate.",
+            "en": "Discover Carmaux's rich glassmaking heritage through fascinating live blowing demonstrations, but remember to check the workshop schedule in advance to catch the artisans at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Candou",
+            "hu": "Candou Park",
+            "ro": "Parcul Candou",
+            "en": "Candou Park"
+          },
+          "coords": [
+            2.150881,
+            44.05323
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt zwischen jahrhundertealten Bäumen in dieser grünen Stadtoase, die sich mit ihren schattigen Bänken perfekt für ein friedliches Picknick am Nachmittag eignet.",
+            "hu": "Sétáljon egyet a százéves fák között ebben a buja városi oázisban, amely tökéletes hely arra, hogy egy árnyékos padon megpihenve egy békés délutáni pikniket rögtönözzön.",
+            "ro": "Faceți o plimbare relaxantă printre copacii seculari din această oază urbană luxuriantă, locul perfect pentru a vă așeza pe o bancă la umbră și a savura un picnic liniștit după-amiaza.",
+            "en": "Take a relaxing stroll among century-old trees in this lush urban oasis, making it the perfect spot to sit on a shaded bench and enjoy a peaceful afternoon picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Privat",
+            "hu": "Saint-Privat templom",
+            "ro": "Biserica Saint-Privat",
+            "en": "Saint-Privat Church"
+          },
+          "coords": [
+            2.160511,
+            44.049345
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Stadtzentrum und kommen Sie am besten frühmorgens, um das friedliche Licht abseits der Massen zu genießen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét a városközpontban, és érdemes kora reggel érkezni, hogy elkerülje a tömeget és élvezze a békés fényeket.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din centrul orașului și veniți dimineața devreme pentru a vă bucura de luminile interioare liniștite fără aglomerație.",
+            "en": "Admire the striking architecture of this historic church in the city center, and consider visiting in the early morning to enjoy its serene interior lighting without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Eugène",
+            "hu": "Saint-Eugène templom",
+            "ro": "Biserica Saint-Eugène",
+            "en": "Saint-Eugène Church"
+          },
+          "coords": [
+            2.186639,
+            44.044786
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundungstour an dieser markanten Kirche im Osten der Stadt und schießen Sie schöne Fotos, wenn die späte Nachmittagssonne die beeindruckende Fassade beleuchtet.",
+            "hu": "Fejezze be felfedezőútját ennél a város keleti részén büszkén álló, jellegzetes templomnál, és készítsen gyönyörű fotókat, ahogy a késő délutáni nap megvilágítja lenyűgöző homlokzatát.",
+            "ro": "Încheiați-vă explorarea la această biserică distinctivă din estul orașului și faceți fotografii superbe atunci când soarele de la sfârșitul după-amiezii îi luminează fațada impresionantă.",
+            "en": "Conclude your exploration at this distinctive church standing proudly in the eastern part of town, capturing lovely photos as the late afternoon sun illuminates its striking facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Église Saint-Benoît und bewundern Sie die Glaskunst im Musée du Verre. Mittags radeln Sie zum Park Candou, um zwischen jahrhundertealten Bäumen zu entspannen. Am Nachmittag steuern Sie die markante Église Saint-Privat im Stadtzentrum an. Schließlich beenden Sie Ihren aktiven Tag an der Église Saint-Eugène, deren Ostfassade in der späten Sonne erstrahlt.",
+        "hu": "Kezdje kerékpártúráját az Église Saint-Benoît-nál, majd csodálja meg a Musée du Verre üvegművészetét. Dél körül tekerjen el a Candou Parkba, hogy a százéves fák között pihenjen. Délután a városközpontban található lenyűgöző Église Saint-Privat felé veszi az irányt. Aktív napját végül az Église Saint-Eugène-nél fejezi be, megörökítve annak késő délutáni napfényben fürdő keleti homlokzatát.",
+        "ro": "Începeți turul cu bicicleta la Église Saint-Benoît, admirând apoi arta sticlei la Musée du Verre. La prânz, pedalați spre parcul Candou pentru a vă relaxa printre copacii seculari. După-amiaza, îndreptați-vă spre centrala Église Saint-Privat. În cele din urmă, încheiați ziua activă la biserica Saint-Eugène, capturând ultimele raze de soare pe fațada sa estică impunătoare.",
+        "en": "Kick off your cycling tour at Église Saint-Benoît, enjoying the crisp morning air before admiring the glassworks at Musée du Verre. Around midday, ride to Candou Park to relax among century-old trees. In the afternoon, pedal towards the striking Église Saint-Privat in the city center. Finally, end your active day at Église Saint-Eugène, capturing the late sun on its proud eastern facade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            2.133638,
+            43.99217
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die raue Geschichte des Kohleabbaus der Region mit authentischen unterirdischen Exponaten ein, und tragen Sie bequeme Schuhe für die weitläufigen Galerien.",
+            "hu": "Merüljön el a régió szénbányászatának zord történetében az autentikus földalatti kiállításokon, és viseljen kényelmes cipőt a kiterjedt, lenyűgöző galériák bejárásához.",
+            "ro": "Pătrundeți în istoria aspră a extracției cărbunelui din această regiune prin expoziții subterane autentice și purtați încălțăminte confortabilă pentru a parcurge galeriile extinse.",
+            "en": "Delve deep into the gritty history of coal extraction in this region with authentic subterranean exhibits, and wear comfortable walking shoes to navigate the extensive immersive galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap'Découverte",
+            "hu": "Cap'Découverte",
+            "ro": "Cap'Découverte",
+            "en": "Cap'Découverte"
+          },
+          "coords": [
+            2.1428,
+            44.0202
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Powern Sie sich in diesem riesigen ehemaligen Tagebau, der zu einem großen Freizeitpark wurde, aus und bringen Sie eine Wasserflasche mit, um bei Ihren Abenteuern hydriert zu bleiben.",
+            "hu": "Vezesse le az energiáit ebben a hatalmas, korábbi külszíni bányából kialakított kiterjedt szabadidőparkban, és hozzon magával kulacsot, hogy hidratált maradjon az izgalmas kalandok során.",
+            "ro": "Consumați-vă energia în această fostă mină uriașă de suprafață, transformată în parc de agrement, și aduceți o sticlă de apă reutilizabilă pentru aventurile în aer liber.",
+            "en": "Burn off some energy at this massive former open-pit mine turned expansive leisure park, bringing a reusable water bottle to stay hydrated during your thrilling outdoor adventures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Salvy",
+            "hu": "Saint-Salvy templom",
+            "ro": "Biserica Saint-Salvy",
+            "en": "Saint-Salvy Church"
+          },
+          "coords": [
+            2.131387,
+            44.030353
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Finden Sie Erholung in dieser bescheidenen, aber historisch bedeutsamen Kirche am Stadtrand und bewundern Sie ihre robuste Architektur, die der Zeit und dem Bergbau standhielt.",
+            "hu": "Keressen menedéket ebben a város szélén található szerény, mégis történelmi jelentőségű templomban, megcsodálva annak robusztus építészetét, amely kiállta az idő és a bányászat próbáját.",
+            "ro": "Găsiți un refugiu în această biserică modestă, dar semnificativă istoric de la periferia orașului, admirând arhitectura sa robustă ce a rezistat trecerii timpului și erei miniere.",
+            "en": "Find respite in this humble yet historically significant church located on the outskirts of town, admiring its sturdy architecture that has withstood the test of time and mining eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum",
+            "hu": "Üvegmúzeum",
+            "ro": "Muzeul Sticlei",
+            "en": "Glass Museum"
+          },
+          "coords": [
+            2.142833,
+            44.049989
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Glasmachertradition von Carmaux bei faszinierenden Vorführungen, aber prüfen Sie vorher den Zeitplan der Werkstatt, um die Handwerker live zu erleben.",
+            "hu": "Fedezze fel Carmaux gazdag üvegfúvó örökségét az élő bemutatók során, de ne felejtse el előre ellenőrizni a műhely beosztását, hogy munka közben láthassa a mesterembereket.",
+            "ro": "Descoperiți bogata moștenire a sticlăriei din Carmaux prin demonstrații fascinante, dar verificați din timp programul atelierului pentru a surprinde artizanii în plină activitate.",
+            "en": "Discover Carmaux's rich glassmaking heritage through fascinating live blowing demonstrations, but remember to check the workshop schedule in advance to catch the artisans at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Sainte-Cécile Church"
+          },
+          "coords": [
+            2.162567,
+            44.056657
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zarten Buntglasfenster, die das Kirchenschiff in buntes Licht tauchen, und spazieren Sie auf den ruhigen Wegen im Freien, um die Eleganz des Baus zu würdigen.",
+            "hu": "Csodálja meg az ólomüveg ablakokat, amelyek színes fénybe borítják a főhajót, és sétáljon körbe a csendes külső ösvényeken, hogy teljes mértékben értékelhesse az épület eleganciáját.",
+            "ro": "Minunați-vă de vitraliile delicate care scaldă nava în lumini colorate și plimbați-vă pe aleile exterioare liniștite pentru a aprecia pe deplin eleganța structurală a clădirii.",
+            "en": "Marvel at the delicate stained glass windows that bathe the nave in colorful light, and walk around the quiet exterior pathways to fully appreciate its structural elegance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Eugène",
+            "hu": "Saint-Eugène templom",
+            "ro": "Biserica Saint-Eugène",
+            "en": "Saint-Eugène Church"
+          },
+          "coords": [
+            2.186639,
+            44.044786
+          ],
+          "category": "religious",
+          "arrive_at": "15:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundungstour an dieser markanten Kirche im Osten der Stadt und schießen Sie schöne Fotos, wenn die späte Nachmittagssonne die beeindruckende Fassade beleuchtet.",
+            "hu": "Fejezze be felfedezőútját ennél a város keleti részén büszkén álló, jellegzetes templomnál, és készítsen gyönyörű fotókat, ahogy a késő délutáni nap megvilágítja lenyűgöző homlokzatát.",
+            "ro": "Încheiați-vă explorarea la această biserică distinctivă din estul orașului și faceți fotografii superbe atunci când soarele de la sfârșitul după-amiezii îi luminează fațada impresionantă.",
+            "en": "Conclude your exploration at this distinctive church standing proudly in the eastern part of town, capturing lovely photos as the late afternoon sun illuminates its striking facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Bergbaumuseum und tauchen Sie in die reiche industrielle Vergangenheit von Carmaux ein. Mittags wartet der riesige Freizeitpark Cap'Découverte auf Sie. Am Nachmittag besuchen Sie die Église Saint-Salvy und die Glaskunst im Musée du Verre. Die Reise endet entspannt mit Besichtigungen der Kirche Sainte-Cécile und der unverwechselbaren Église Saint-Eugène.",
+        "hu": "Indítsa a napot a Bányászati Múzeumban, elmerülve Carmaux ipari múltjában. Délben a hatalmas Cap'Découverte szabadidőpark kínál izgalmakat. Délután az Église Saint-Salvy templomnál csendesedik el, majd a Musée du Verre üvegművészetét csodálhatja meg. Az utazás kellemesen zárul a Sainte-Cécile templom és a jellegzetes Église Saint-Eugène békés atmoszférájának felfedezésével.",
+        "ro": "Începeți dimineața la Muzeul Mineritului, explorând trecutul industrial bogat al regiunii Carmaux. La prânz, parcul de agrement Cap'Découverte oferă aventuri palpitante. După-amiaza, reflectați la Église Saint-Salvy înainte de a descoperi măiestria locală la Musée du Verre. Călătoria se încheie liniștit cu vizite la biserica Sainte-Cécile și distinctiva Église Saint-Eugène.",
+        "en": "Embark on an insightful morning at the Mining Museum, delving into Carmaux's rich industrial past. Midday brings excitement at the sprawling Cap'Découverte leisure park. During the afternoon, reflect at Église Saint-Salvy before discovering local craftsmanship at the Musée du Verre. The journey smoothly wraps up with quiet visits to Sainte-Cécile Church and the distinctive Église Saint-Eugène."
+      }
+    }
+  }
+}

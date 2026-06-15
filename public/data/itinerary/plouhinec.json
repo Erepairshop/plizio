@@ -1,0 +1,451 @@
+{
+  "city_id": "plouhinec",
+  "anchor": {
+    "name": "Plouhinec",
+    "coords": [
+      -4.4861,
+      48.015
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Winoc",
+            "hu": "Église Saint-Winoc",
+            "ro": "Église Saint-Winoc",
+            "en": "Église Saint-Winoc"
+          },
+          "coords": [
+            -4.485362,
+            48.014071
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an diesem charmanten religiösen Zentrum von Plouhinec, um die Architektur zu bewundern, und kommen Sie früh, um das Morgenlicht durch die Buntglasfenster zu erleben.",
+            "hu": "Kezdje a napot Plouhinec bájos vallási központjában, hogy megcsodálja az építészetet, és érkezzen korán, hogy lássa az ólomüveg ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Începeți la acest centru religios fermecător din Plouhinec pentru a admira arhitectura sa și ajungeți devreme pentru a prinde lumina dimineții filtrându-se prin vitralii.",
+            "en": "Start at this charming religious centerpiece of Plouhinec to admire its architecture, and arrive early to catch the morning light filtering through the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Trez Mesperleuc",
+            "hu": "Trez Mesperleuc",
+            "ro": "Trez Mesperleuc",
+            "en": "Trez Mesperleuc"
+          },
+          "coords": [
+            -4.498486,
+            47.999148
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Sandstrand eignet sich perfekt für einen erfrischenden Küstenspaziergang, ziehen Sie also bequeme Wanderschuhe an und bringen Sie eine Windjacke mit.",
+            "hu": "Ez a tágas homokos partszakasz tökéletes egy frissítő tengerparti sétához, ezért viseljen kényelmes cipőt és hozzon magával egy széldzsekit a hűvös atlanti szél ellen.",
+            "ro": "Această întindere vastă de nisip este perfectă pentru o plimbare revigorantă pe coastă, așa că purtați încălțăminte confortabilă și luați o jachetă împotriva brizei.",
+            "en": "This expansive stretch of sand is perfect for a refreshing coastal stroll, so wear comfortable walking shoes and bring a windbreaker against the brisk Atlantic breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Gwendrez",
+            "hu": "Plage de Gwendrez",
+            "ro": "Plage de Gwendrez",
+            "en": "Plage de Gwendrez"
+          },
+          "coords": [
+            -4.4779,
+            47.9905
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Berühmt für seine makellosen Surfbedingungen und goldenen Dünen lädt dieses Naturparadies zum Entspannen ein, aber schwimmen Sie nur in den ausgewiesenen, bewachten Zonen.",
+            "hu": "A kiváló szörfözési feltételeiről és aranyhomokos dűnéiről híres természeti paradicsom pihenésre csábít, de a biztonság érdekében csak a kijelölt területeken fürödjön.",
+            "ro": "Faimos pentru condițiile sale excelente de surf și dunele aurii, acest paradis natural vă invită să vă relaxați pe plajă, dar înotați doar în zonele supravegheate marcate.",
+            "en": "Famous for its pristine surfing conditions and golden dunes, this natural paradise invites you to relax on the beach, but swim only in designated supervised areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de Menez Dregan",
+            "hu": "Site de Menez Dregan",
+            "ro": "Site de Menez Dregan",
+            "en": "Site de Menez Dregan"
+          },
+          "coords": [
+            -4.47433,
+            47.988575
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende paläolithische Ausgrabungsstätte, die alte Menschheitsgeschichte enthüllt, und nehmen Sie sich Zeit für die informativen Schautafeln.",
+            "hu": "Fedezze fel ezt a jelentős paleolit régészeti lelőhelyet, amely az ősi emberi történelmet tárja fel, és szánjon időt az információs táblák elolvasására a megértéshez.",
+            "ro": "Explorați acest important sit arheologic paleolitic care dezvăluie istoria umană antică și acordați-vă timp să citiți panourile informative pentru a-i înțelege importanța.",
+            "en": "Explore this major Paleolithic archaeological site that reveals ancient human history, and take your time reading the informative panels to fully grasp its significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-They",
+            "hu": "Chapelle Saint-They",
+            "ro": "Chapelle Saint-They",
+            "en": "Chapelle Saint-They"
+          },
+          "coords": [
+            -4.47365,
+            47.993605
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese alte Kapelle liegt dramatisch an der Klippe mit Blick auf den offenen Ozean und bietet atemberaubende Ausblicke; halten Sie Ihre Kamera für den Sonnenuntergang bereit.",
+            "hu": "A nyílt óceánra néző sziklafalon drámaian elhelyezkedő ősi kápolna lélegzetelállító kilátást nyújt, ezért gondoskodjon róla, hogy a fényképezőgépe teljesen fel legyen töltve.",
+            "ro": "Așezată dramatic pe stâncă, cu fața spre oceanul deschis, această capelă antică oferă vederi uluitoare, așa că asigurați-vă că aveți camera complet încărcată.",
+            "en": "Perched dramatically on the cliffside facing the open ocean, this ancient chapel offers breathtaking views, so make sure your camera is fully charged for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in Plouhinec an der charmanten Église Saint-Winoc.\n\nGegen Mittag spazieren Sie nach Süden zu den Sandstränden von Trez Mesperleuc und Gwendrez.\n\nDer Nachmittag ist der dramatischen Küste und den Geheimnissen von Menez Dregan gewidmet.\n\nIhr Tag endet an den Klippen der Chapelle Saint-They mit weitem Ozeanblick bei Sonnenuntergang.",
+        "hu": "A reggel Plouhinecben kezdődik a bájos Église Saint-Winoc templomnál.\n\nDélben sétáljon délre Trez Mesperleuc és Gwendrez kiterjedt homokos partjaihoz.\n\nA délutánt a drámai partvonalnak és Menez Dregan őskori rejtélyeinek szenteljük.\n\nA nap a Chapelle Saint-They szikláinál ér véget, ahonnan csodálatos naplementés kilátás nyílik az óceánra.",
+        "ro": "Dimineața începe în Plouhinec la fermecătoarea Église Saint-Winoc.\n\nLa amiază, plimbați-vă spre sud pentru a descoperi nisipurile de la Trez Mesperleuc și Gwendrez.\n\nDupă-amiaza este dedicată coastei dramatice și misterelor preistorice de la Menez Dregan.\n\nZiua se încheie la stâncile de la Chapelle Saint-They cu vederi uimitoare la apus.",
+        "en": "Morning starts in Plouhinec at the charming Église Saint-Winoc.\n\nBy midday, stroll south to discover the expansive sands of Trez Mesperleuc and Gwendrez.\n\nThe afternoon is dedicated to the dramatic coast and prehistoric mysteries of Menez Dregan.\n\nYour day concludes at the edge of the cliffs at Chapelle Saint-They with sweeping sunset ocean views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Winoc",
+            "hu": "Église Saint-Winoc",
+            "ro": "Église Saint-Winoc",
+            "en": "Église Saint-Winoc"
+          },
+          "coords": [
+            -4.485362,
+            48.014071
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser zentralen Kirche, um ihre bretonische Architektur zu bewundern, und prüfen Sie Ihren Reifendruck auf dem angrenzenden flachen Platz.",
+            "hu": "Kezdje kerékpáros útvonalát ennél a központi templomnál, hogy megcsodálja a klasszikus breton építészetet, majd indulás előtt ellenőrizze a guminyomást a szomszédos téren.",
+            "ro": "Începeți traseul de ciclism la această biserică centrală pentru a admira arhitectura bretonă clasică, verificându-vă presiunea pneurilor pe piața plată adiacentă.",
+            "en": "Start your cycling route at this central church to admire its classic Breton architecture before heading out, checking your tire pressure on the adjacent flat square."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-They",
+            "hu": "Chapelle Saint-They",
+            "ro": "Chapelle Saint-They",
+            "en": "Chapelle Saint-They"
+          },
+          "coords": [
+            -4.47365,
+            47.993605
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Diese kleine Küstenkapelle bietet ein spektakuläres Ozeanpanorama, parken Sie Ihr Fahrrad sicher an den Steinmauern, um die Klippenpfade gefahrlos zu Fuß zu erkunden.",
+            "hu": "Ez a kis tengerparti kápolna látványos óceáni panorámát nyújt, ezért parkolja le biztonságosan kerékpárját a kőfalaknál, hogy gyalog is felfedezhesse a sziklaösvényeket.",
+            "ro": "Această mică capelă de coastă oferă o panoramă spectaculoasă a oceanului, deci parcați-vă bicicleta în siguranță lângă zidurile de piatră pentru a explora stâncile.",
+            "en": "This small coastal chapel provides a spectacular ocean panorama, so park your bike securely by the stone walls to safely explore the cliff paths on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de Menez Dregan",
+            "hu": "Site de Menez Dregan",
+            "ro": "Site de Menez Dregan",
+            "en": "Site de Menez Dregan"
+          },
+          "coords": [
+            -4.47433,
+            47.988575
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser faszinierenden Ausgrabungsstätte mit Blick auf die Bucht in prähistorische Zeiten ein; das Besucherzentrum bietet hervorragende schattige Fahrradständer.",
+            "hu": "Merüljön el a történelem előtti időkben ezen a lenyűgöző régészeti ásatáson az öböl felett, és ne feledje, hogy a látogatóközpont kiváló, árnyékos kerékpártárolókat kínál.",
+            "ro": "Pătrundeți în timpurile preistorice la această excavare arheologică fascinantă cu vedere la golf, reținând că centrul pentru vizitatori oferă suporturi de biciclete.",
+            "en": "Delve into prehistoric times at this fascinating archaeological excavation overlooking the bay, keeping in mind that the visitor center offers excellent shaded bicycle racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Souc'h",
+            "hu": "Pointe du Souc'h",
+            "ro": "Pointe du Souc'h",
+            "en": "Pointe du Souc'h"
+          },
+          "coords": [
+            -4.47011,
+            47.986166
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser schroffen Landzunge für einen weiten Blick auf die dramatische Atlantikküste und nutzen Sie den festen Boden, um sich nach einer windigen Fahrt auszuruhen.",
+            "hu": "Álljon meg ezen a zord hegyfokon, hogy megcsodálja a drámai atlanti partvonalat, és használja a kilátó melletti szilárd talajt pihenésre és hidratálásra a szeles út után.",
+            "ro": "Opriți-vă pe acest promontoriu accidentat pentru vederi panoramice ale coastei dramatice, folosind terenul solid din apropierea punctului de belvedere pentru a vă odihni.",
+            "en": "Stop at this rugged headland for sweeping views of the dramatic Atlantic coastline, using the solid ground near the viewpoint to rest and hydrate after a breezy ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Menez Korriged",
+            "hu": "Allée couverte de Menez Korriged",
+            "ro": "Allée couverte de Menez Korriged",
+            "en": "Allée couverte de Menez Korriged"
+          },
+          "coords": [
+            -4.465741,
+            47.98634
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende, in der Landschaft verborgene megalithische Galeriegrab und treten Sie vorsichtig um die zerbrechlichen, alten Steine herum.",
+            "hu": "Fedezze fel ezt a tájban megbúvó, lenyűgöző megalitikus folyosósírt, és lépkedjen óvatosan a törékeny ősi kövek körül, miközben értékeli a misztikus atmoszférát.",
+            "ro": "Descoperiți acest impresionant mormânt megalitic cu galerie ascuns în peisaj și pășiți cu grijă în jurul pietrelor antice fragile, apreciind atmosfera mistică.",
+            "en": "Discover this impressive megalithic gallery grave hidden in the landscape, and tread carefully around the fragile ancient stones while appreciating the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Pors-Grouen",
+            "hu": "Pors-Grouen",
+            "ro": "Pors-Grouen",
+            "en": "Pors-Grouen"
+          },
+          "coords": [
+            -4.458925,
+            47.983454
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem malerischen kleinen Hafen, wo einheimische Fischerboote sanft schaukeln, und genießen Sie einen wohlverdienten Snack bei Flut.",
+            "hu": "Fejezze be kerékpáros útját ezen a festői kis kikötőben, ahol a helyi halászhajók ringatóznak, és fogyasszon el egy jól megérdemelt harapnivalót a dagályt figyelve.",
+            "ro": "Încheiați-vă călătoria cu bicicleta în acest mic port pitoresc, unde bărcile locale de pescuit se leagănă ușor, savurând o gustare bine meritată în timp ce priviți mareea.",
+            "en": "End your cycling journey at this picturesque little harbor where local fishing boats gently bob, enjoying a well-deserved snack while watching the tide roll in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der historischen Église Saint-Winoc, bevor es zur Küste geht.\n\nGegen Mittag erreichen Sie das Ende der Welt an der Chapelle Saint-They und Menez Dregan.\n\nDer Nachmittag führt entlang der Klippen zur Pointe du Souc'h und alten Megalithen.\n\nDie Reise endet mit einem friedlichen Sonnenuntergang am kleinen Hafen von Pors-Grouen.",
+        "hu": "Indítson a történelmi Église Saint-Winoc-nál, mielőtt a part felé venné az irányt.\n\nDélben elérheti a világ peremét a Chapelle Saint-They és Menez Dregan mentén.\n\nA délután a drámai sziklákat követi a Pointe du Souc'h és az ősi megalitok felé.\n\nAz utazás egy békés naplementével zárul Pors-Grouen apró, védett tengerparti kikötőjében.",
+        "ro": "Începeți la istorica Église Saint-Winoc înainte de a prinde briza spre coastă.\n\nLa amiază, ajungeți la marginea lumii la Chapelle Saint-They și Menez Dregan.\n\nDupă-amiaza urmărește stâncile dramatice până la Pointe du Souc'h și megaliții antici.\n\nCălătoria se încheie cu un apus de soare pașnic la micul port adăpostit din Pors-Grouen.",
+        "en": "Kick off at the historic Église Saint-Winoc before catching the breeze to the coast.\n\nBy midday, reach the edge of the world at Chapelle Saint-They and Menez Dregan.\n\nAfternoon traces the dramatic cliffs to the scenic Pointe du Souc'h and ancient megaliths.\n\nThe journey ends with a peaceful coastal sunset at the small harbor of Pors-Grouen."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 23.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Winoc",
+            "hu": "Église Saint-Winoc",
+            "ro": "Église Saint-Winoc",
+            "en": "Église Saint-Winoc"
+          },
+          "coords": [
+            -4.485362,
+            48.014071
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip, indem Sie die kunstvolle Fassade dieser historischen Pfarrkirche erkunden, und nutzen Sie die kostenlosen öffentlichen Parkplätze direkt am Eingang.",
+            "hu": "Kezdje autós utazását a történelmi plébániatemplom bonyolult homlokzatának felfedezésével, kihasználva a bejárattól mindössze néhány lépésre lévő ingyenes parkolót.",
+            "ro": "Începeți-vă călătoria explorând fațada complicată a acestei biserici parohiale istorice, profitând de parcarea publică gratuită disponibilă la doar câțiva pași de intrare.",
+            "en": "Begin your road trip by exploring the intricate facade of this historic parish church, taking advantage of the free public parking available just steps from the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de Menez Dregan",
+            "hu": "Site de Menez Dregan",
+            "ro": "Site de Menez Dregan",
+            "en": "Site de Menez Dregan"
+          },
+          "coords": [
+            -4.47433,
+            47.988575
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser eingestürzten Küstenhöhle, die frühen Menschen Schutz bot, in die Vorgeschichte ein; der Schotterparkplatz ist von der Küstenstraße aus leicht erreichbar.",
+            "hu": "Merüljön el az őskorban ennél a part menti barlangbeomlásnál, amely korai embereknek nyújtott menedéket, és a murvás parkoló könnyen megközelíthető a főút felől.",
+            "ro": "Pătrundeți în preistorie la acest sit de peșteră de coastă care i-a adăpostit pe primii oameni, având în vedere că parcarea de pietriș este ușor accesibilă de pe drum.",
+            "en": "Dive into prehistory at this coastal cave collapse site that sheltered early humans, keeping in mind that the gravel car park is easily accessible from the main coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Sainte-Évette",
+            "hu": "Plage de Sainte-Évette",
+            "ro": "Plage de Sainte-Évette",
+            "en": "Plage de Sainte-Évette"
+          },
+          "coords": [
+            -4.555119,
+            48.009597
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem malerischen Sandstrand, der für sein ruhiges Wasser bekannt ist, und packen Sie eine Picknickdecke aus dem Kofferraum Ihres Autos.",
+            "hu": "Élvezze a békés pihenést ezen a festői, nyugodt vizeiről ismert homokos strandon, amely ideális hely arra, hogy kipakoljon egy pikniktakarót az autó csomagtartójából.",
+            "ro": "Bucurați-vă de o pauză pașnică la această plajă pitorească renumită pentru apele sale liniștite, făcând-o locul ideal pentru a despacheta o pătură de picnic din portbagaj.",
+            "en": "Enjoy a peaceful break at this scenic sandy beach renowned for its tranquil waters, making it an ideal spot to unpack a picnic blanket from the trunk of your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes du Trez Goarem",
+            "hu": "Dunes du Trez Goarem",
+            "ro": "Dunes du Trez Goarem",
+            "en": "Dunes du Trez Goarem"
+          },
+          "coords": [
+            -4.595812,
+            48.012571
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese geschützten ökologischen Dünen mit ihrer einzigartigen Flora und Fauna, und bleiben Sie strikt auf den Holzstegen, um das Ökosystem zu schützen.",
+            "hu": "Sétáljon keresztül ezeken a védett ökológiai dűnéken, amelyek egyedi helyi növény- és állatvilágot kínálnak, de szigorúan maradjon a kijelölt fapallókon az ökoszisztéma védelmében.",
+            "ro": "Plimbați-vă prin aceste dune ecologice protejate, oferind floră și faună unică, rămânând strict pe pasarelele de lemn marcate pentru a proteja ecosistemul fragil.",
+            "en": "Wander through these protected ecological dunes offering unique local flora and fauna, staying strictly on the marked wooden boardwalks to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Loc'h",
+            "hu": "Plage du Loc'h",
+            "ro": "Plage du Loc'h",
+            "en": "Plage du Loc'h"
+          },
+          "coords": [
+            -4.633263,
+            48.02886
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Wellen, die gegen diesen wilden Küstenabschnitt krachen, und schließen Sie Ihr Auto sicher ab, bevor Sie für eine bessere Sicht die Dünen erklimmen.",
+            "hu": "Csodálja meg a vad partvidéknek csapódó drámai hullámokat, és gondosan zárja be autóját, mielőtt felmászna a dűnékre egy jobb kilátópontért.",
+            "ro": "Minunați-vă de valurile dramatice care se izbesc de această porțiune sălbatică de coastă și încuiați mașina în siguranță înainte de a urca pe dune pentru un punct de vedere bun.",
+            "en": "Marvel at the dramatic waves crashing against this wild and exposed stretch of coast, and lock your car securely before hiking up the dunes for a better vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lesven",
+            "hu": "Plage de Lesven",
+            "ro": "Plage de Lesven",
+            "en": "Plage de Lesven"
+          },
+          "coords": [
+            -4.552693,
+            48.076797
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem abgelegenen, von schroffen Klippen umgebenen Nordstrand, der perfekt für einen Spaziergang bei Sonnenuntergang ist; beachten Sie die Gezeiten.",
+            "hu": "Fejezze be autós körútját ezen a zord sziklákkal körülvett, eldugott északi strandon, amely tökéletes egy esti sétához, de figyelje az árapály-naptárat, mielőtt messzire merészkedne.",
+            "ro": "Încheiați-vă călătoria pe această plajă nordică retrasă, înconjurată de stânci accidentate, perfectă pentru o plimbare la apus, dar verificați orarul mareelor.",
+            "en": "Wrap up your drive at this secluded northern beach surrounded by rugged cliffs, perfect for an evening sunset walk, but watch the tide schedule before venturing far out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der wunderschönen Architektur der Église Saint-Winoc.\n\nGegen Mittag fahren Sie zur bedeutenden Ausgrabungsstätte Menez Dregan.\n\nDer Nachmittag bietet eine Fahrt vorbei an den Wundern der Dunes du Trez Goarem.\n\nIhr Roadtrip endet in der ruhigen, schroffen Isolation der Plage de Lesven bei Sonnenuntergang.",
+        "hu": "Autózása az Église Saint-Winoc gyönyörű építészetének megcsodálásával kezdődik.\n\nDél körül utazzon el Menez Dregan jelentős partmenti régészeti lelőhelyéhez.\n\nA délután festői utat kínál a Dunes du Trez Goarem ökológiai csodái mellett.\n\nAz autós kirándulás a Plage de Lesven csendes, zord elszigeteltségében ér véget naplementekor.",
+        "ro": "Plimbarea începe cu frumoasa arhitectură a bisericii Église Saint-Winoc.\n\nÎn jurul prânzului, călătoriți spre importantul sit arheologic Menez Dregan.\n\nDupă-amiaza oferă o plimbare pitorească pe lângă minunile de la Dunes du Trez Goarem.\n\nExcursia rutieră se încheie în izolarea liniștită a plajei Lesven la apusul soarelui.",
+        "en": "Your drive begins with the beautiful architecture of Église Saint-Winoc in town.\n\nAround midday, journey to the major archaeological site of Menez Dregan.\n\nThe afternoon offers a scenic ride past the ecological wonders of Dunes du Trez Goarem.\n\nYour road trip concludes in the quiet, rugged isolation of Plage de Lesven at sunset."
+      }
+    }
+  }
+}

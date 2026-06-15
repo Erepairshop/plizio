@@ -1,0 +1,428 @@
+{
+  "city_id": "denmark-bispebjerg-cities-v2",
+  "anchor": {
+    "name": "Bispebjerg",
+    "coords": [
+      12.53,
+      55.71
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Taksigelseskirken",
+            "hu": "Taksigelseskirken",
+            "ro": "Taksigelseskirken",
+            "en": "Taksigelseskirken"
+          },
+          "coords": [
+            12.560936,
+            55.705491
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schöne Mauerwerk dieser modernen Kirche und informieren Sie sich am Schwarzen Brett über Chorauftritte.",
+            "hu": "Csodálja meg ennek a modern templomnak a gyönyörű téglafalát, és nézze meg a hirdetőtáblán a helyi kórusok fellépéseit.",
+            "ro": "Admirați zidăria frumoasă a acestei biserici moderne și verificați avizierul pentru spectacolele corului local înainte de a pleca.",
+            "en": "Admire the beautiful brickwork of this modern church and check the notice board for local choir performances before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Enigma",
+            "hu": "Enigma",
+            "ro": "Enigma",
+            "en": "Enigma"
+          },
+          "coords": [
+            12.574506,
+            55.699886
+          ],
+          "category": "museum",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der Codes ein und probieren Sie unbedingt die interaktiven Chiffrier-Ausstellungen aus.",
+            "hu": "Merüljön el a kódok és a kommunikáció lenyűgöző világában, és mindenképpen próbálja ki az interaktív rejtjel-kiállításokat.",
+            "ro": "Pătrundeți în lumea fascinantă a codurilor și comunicării, asigurându-vă că încercați exponatele interactive de la primul etaj.",
+            "en": "Dive into the fascinating world of codes and communication, making sure to try the interactive cipher exhibits on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John's Church",
+            "hu": "Saint John's Church",
+            "ro": "Saint John's Church",
+            "en": "Saint John's Church"
+          },
+          "coords": [
+            12.561865,
+            55.691932
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der stillen Reflexion und beachten Sie die kunstvollen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a békés szentélyben, és figyelje meg a délutáni fényt megfogó ólomüveg ablakokat.",
+            "ro": "Luați-vă un moment de reflecție în acest sanctuar senin și observați vitraliile complicate care captează lumina după-amiezii.",
+            "en": "Take a moment of quiet reflection in this serene sanctuary and notice the intricate stained glass windows catching the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "De Gamles Bys Kirke",
+            "hu": "De Gamles Bys Kirke",
+            "ro": "De Gamles Bys Kirke",
+            "en": "De Gamles Bys Kirke"
+          },
+          "coords": [
+            12.558117,
+            55.694892
+          ],
+          "category": "religious",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Kirche in einer historischen Seniorensiedlung und respektieren Sie die friedliche Atmosphäre.",
+            "hu": "Fedezze fel ezt az egyedülálló templomot egy történelmi nyugdíjas közösségben, tiszteletben tartva a terület békés atmoszféráját.",
+            "ro": "Explorați această biserică unică situată într-o comunitate istorică de seniori, respectând atmosfera pașnică a împrejurimilor.",
+            "en": "Explore this unique church nestled within a historic senior citizens' community, respecting the peaceful atmosphere of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaagaard Teater",
+            "hu": "Blaagaard Teater",
+            "ro": "Blaagaard Teater",
+            "en": "Blaagaard Teater"
+          },
+          "coords": [
+            12.558683,
+            55.688499
+          ],
+          "category": "cultural",
+          "arrive_at": "13:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem renommierten Theater und buchen Sie Ihre Tickets im Voraus, da die Shows oft schnell ausverkauft sind.",
+            "hu": "Zárja a napot ezen a neves színházi helyszínen, és foglalja le jegyeit előre, mivel az intim előadások gyakran gyorsan elkelnek.",
+            "ro": "Încheiați-vă ziua la această renumită locație de teatru și rezervați-vă biletele în avans, deoarece spectacolele se vând rapid.",
+            "en": "End your day at this renowned performing arts venue, and book your tickets in advance as the intimate shows often sell out quickly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der markanten Taksigelseskirken, einem architektonischen Juwel des Viertels. Am Mittag besuchen Sie das interaktive Enigma-Museum, wo die Geschichte der Kommunikation lebendig wird. Nachmittags schlendern Sie durch historische lokale Kirchen und finden Ruhe in der geschäftigen Stadt. Der Abend endet im lebhaften Blaagaard Teater mit lokaler Kultur.",
+        "hu": "Kezdje a reggelt a feltűnő Taksigelseskirken felfedezésével, amely a kerület egyik építészeti gyöngyszeme. Délben az interaktív Enigma múzeumba látogat, ahol megelevenedik a kommunikáció története. Délután történelmi helyi templomokban barangolva találhat nyugalmat a nyüzsgő városban. Az este a vibráló Blaagaard Teaterben zárul, amely a helyi kultúrába enged bepillantást.",
+        "ro": "Începeți dimineața explorând impresionanta Taksigelseskirken, o bijuterie arhitecturală a cartierului. La prânz, veți vizita muzeul interactiv Enigma, unde prinde viață istoria comunicațiilor. După-amiaza, vă veți plimba prin bisericile istorice locale, găsind liniște în orașul plin de viață. Seara se încheie la vibrantul Blaagaard Teater, oferind o mostră de cultură locală.",
+        "en": "Start your morning exploring the striking Taksigelseskirken, an architectural gem of the district. Midday brings you to the interactive Enigma museum where communications history comes alive. In the afternoon, you will wander through historic local churches, finding peace in the bustling city. The evening concludes at the vibrant Blaagaard Teater, offering a taste of local culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Brønshøj Kirke",
+            "hu": "Brønshøj Kirke",
+            "ro": "Brønshøj Kirke",
+            "en": "Brønshøj Kirke"
+          },
+          "coords": [
+            12.498717,
+            55.705837
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Fahrt an dieser mittelalterlichen Kirche und achten Sie auf die umliegenden Kopfsteinpflasterstraßen.",
+            "hu": "Induljon útnak ebből a középkori templomból, és óvatosan figyelje a környező macskaköves utcákat, mielőtt felgyorsítana.",
+            "ro": "Începeți cursa de la această biserică medievală și verificați cu atenție străzile pietruite din jur înainte de a accelera.",
+            "en": "Start your ride from this medieval church and check the surrounding cobblestone streets carefully before accelerating on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellahøj Kirke",
+            "hu": "Bellahøj Kirke",
+            "ro": "Bellahøj Kirke",
+            "en": "Bellahøj Kirke"
+          },
+          "coords": [
+            12.509623,
+            55.705429
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die minimalistische Architektur dieser Kirche und nutzen Sie die nahegelegenen Fahrradständer für Ihr Rad.",
+            "hu": "Csodálja meg a modern templom feltűnő minimalista építészetét, és használja a közeli kerékpártárolókat a kerékpár rögzítéséhez.",
+            "ro": "Admirați arhitectura minimalistă a acestei biserici și folosiți suporturile pentru biciclete din apropiere pentru a vă asigura bicicleta.",
+            "en": "Admire the striking minimalist architecture of this modern church, and use the nearby bike racks to secure your rental safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefanskirken",
+            "hu": "Stefanskirken",
+            "ro": "Stefanskirken",
+            "en": "Stefanskirken"
+          },
+          "coords": [
+            12.544537,
+            55.696629
+          ],
+          "category": "religious",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause auf dem friedlichen Kirchhof und holen Sie sich ein Gebäck aus einer lokalen Nørrebro-Bäckerei.",
+            "hu": "Tartson egy kis szünetet a békés templomudvaron, és vegyen egy péksüteményt egy helyi Nørrebro-i pékségből a sarkon.",
+            "ro": "Luați o pauză în curtea liniștită a bisericii și luați o patiserie rapidă de la o brutărie locală din Nørrebro, chiar după colț.",
+            "en": "Take a breather in the peaceful churchyard and grab a quick pastry from a local Nørrebro bakery just around the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Enigma",
+            "hu": "Enigma",
+            "ro": "Enigma",
+            "en": "Enigma"
+          },
+          "coords": [
+            12.574506,
+            55.699886
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad vor diesem Kommunikationsmuseum sicher ab und erkunden Sie die interaktiven Kryptographie-Displays.",
+            "hu": "Zárja le biztonságosan kerékpárját a kommunikációs múzeum előtt, és töltsön el egy jó órát a kriptográfiai kijelzők felfedezésével.",
+            "ro": "Blocați-vă bicicleta în siguranță afară și petreceți o oră bună explorând expozițiile interactive de criptografie ale muzeului.",
+            "en": "Lock your bike securely outside this museum of communications and spend a good hour exploring the interactive cryptography displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaagaard Teater",
+            "hu": "Blaagaard Teater",
+            "ro": "Blaagaard Teater",
+            "en": "Blaagaard Teater"
+          },
+          "coords": [
+            12.558683,
+            55.688499
+          ],
+          "category": "cultural",
+          "arrive_at": "13:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad an den ausgewiesenen Plätzen in der Nähe des Theatereingangs und genießen Sie einen fesselnden Theaterabend.",
+            "hu": "Parkolja le kerékpárját a színház bejárata közelében lévő kijelölt helyeken, és élvezze az experimentális dán előadóművészetet.",
+            "ro": "Parcați-vă bicicleta în locurile desemnate și bucurați-vă de o seară captivantă de artă experimentală daneză la teatru.",
+            "en": "Park your bike at the designated spots near the theater entrance and enjoy an engaging evening of experimental Danish performing arts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Brønshøj Kirke und genießen Sie die frische Morgenluft. Mittags radeln Sie zur markanten Bellahøj Kirke und Stefanskirken. Der Nachmittag führt Sie zum Enigma-Museum, das tiefe Einblicke in die Postgeschichte bietet. Lassen Sie Ihren aktiven Tag mit einer Abendvorstellung oder Kulturveranstaltung im Blaagaard Teater ausklingen.",
+        "hu": "Kezdje kerékpártúráját a Brønshøj Kirke-nél, élvezve a friss reggeli levegőt. Délben tekerjen a feltűnő Bellahøj Kirke és Stefanskirken felé. A délután az Enigma múzeumhoz vezet, amely mélyreható bepillantást nyújt a postatörténetbe. Zárja aktív napját egy esti előadással vagy kulturális eseménnyel a Blaagaard Teaterben.",
+        "ro": "Începeți turul cu bicicleta la Brønshøj Kirke, bucurându-vă de aerul proaspăt al dimineții. La prânz, pedalați spre impresionantele Bellahøj Kirke și Stefanskirken. După-amiaza vă duce la Enigma, oferind o privire profundă în istoria poștală. Relaxați-vă după o zi activă cu un spectacol de seară sau un eveniment cultural la Blaagaard Teater.",
+        "en": "Kick off your cycling tour at Brønshøj Kirke, embracing the brisk morning air. By midday, pedal towards the striking Bellahøj Kirke and Stefanskirken, enjoying the scenic bike paths. The afternoon leads you to Enigma, offering a deep dive into postal and communication history. Wind down your active day with an evening performance or cultural event at Blaagaard Teater."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grøndalskirken",
+            "hu": "Grøndalskirken",
+            "ro": "Grøndalskirken",
+            "en": "Grøndalskirken"
+          },
+          "coords": [
+            12.512472,
+            55.69584
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in den ruhigen Wohnstraßen in der Nähe und bewundern Sie die markante Backsteinarchitektur vor Beginn Ihrer Autotour.",
+            "hu": "Parkoljon a közeli csendes lakóutcákban, és csodálja meg a jellegzetes vöröstéglás építészetet az autós túra megkezdése előtt.",
+            "ro": "Parcați pe străzile rezidențiale liniștite din apropiere și admirați arhitectura distinctă din cărămidă roșie înainte de a începe turul.",
+            "en": "Park on the quiet residential streets nearby and admire the distinct red-brick architecture before starting your driving tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariendal Kirke",
+            "hu": "Mariendal Kirke",
+            "ro": "Mariendal Kirke",
+            "en": "Mariendal Kirke"
+          },
+          "coords": [
+            12.534422,
+            55.691951
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf Parkzeitbegrenzungen in der Nähe dieser atemberaubenden neoromanischen Kirche und bewundern Sie den großen Altar.",
+            "hu": "Ellenőrizze a parkolási időkorlátokat e lenyűgöző neoromán templom közelében, és szánjon egy percet a hatalmas oltár megtekintésére.",
+            "ro": "Verificați limitele de timp pentru parcare lângă această biserică uimitoare și luați-vă un moment pentru a vedea altarul său grandios.",
+            "en": "Check street signs for parking time limits near this stunning neo-Romanesque church, and take a moment to view its grand altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Brorsons Kirke",
+            "hu": "Brorsons Kirke",
+            "ro": "Brorsons Kirke",
+            "en": "Brorsons Kirke"
+          },
+          "coords": [
+            12.546108,
+            55.68753
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nutzen Sie die ausgewiesenen Parkplätze, falls verfügbar, und schätzen Sie die modernen Gemeindeveranstaltungen in diesem Raum.",
+            "hu": "Használja a kijelölt parkolóhelyeket, ha vannak ilyenek, és lépjen be, hogy értékelje az e térben gyakran tartott modern eseményeket.",
+            "ro": "Folosiți locurile de parcare dedicate, dacă sunt disponibile, și intrați pentru a aprecia evenimentele comunitare moderne găzduite aici.",
+            "en": "Use the dedicated parking spaces if available, and step inside to appreciate the modern community events often hosted in this space."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Thomas Kirke",
+            "hu": "Sankt Thomas Kirke",
+            "ro": "Sankt Thomas Kirke",
+            "en": "Sankt Thomas Kirke"
+          },
+          "coords": [
+            12.541756,
+            55.684311
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Navigieren Sie vorsichtig durch den lokalen Verkehr und achten Sie auf die schöne Turmspitze dieses eleganten historischen Gebäudes.",
+            "hu": "Óvatosan navigáljon a helyi forgalomban, és keresse a gyönyörű tornyot, amely ennek az elegáns történelmi épületnek a tájékozódási pontja.",
+            "ro": "Navigați cu atenție prin traficul local și căutați turla frumoasă care acționează ca un punct de reper pentru această clădire istorică.",
+            "en": "Navigate the local traffic carefully and look out for the beautiful spire that acts as a landmark for this elegant historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellig Kors Kirke",
+            "hu": "Hellig Kors Kirke",
+            "ro": "Hellig Kors Kirke",
+            "en": "Hellig Kors Kirke"
+          },
+          "coords": [
+            12.551567,
+            55.687635
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die schöne neugotische Architektur und stellen Sie sicher, dass Ihr Fahrzeug sicher geparkt ist, bevor Sie das Grün erkunden.",
+            "hu": "Élvezze a gyönyörű neogótikus építészetet, és győződjön meg arról, hogy járműve biztonságosan parkol, mielőtt felfedezné a környéket.",
+            "ro": "Bucurați-vă de frumoasa arhitectură neogotică și asigurați-vă că vehiculul este parcat în siguranță înainte de a explora verdeața.",
+            "en": "Enjoy the beautiful Gothic Revival architecture and ensure your vehicle is parked securely before exploring the surrounding greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Enigma",
+            "hu": "Enigma",
+            "ro": "Enigma",
+            "en": "Enigma"
+          },
+          "coords": [
+            12.574506,
+            55.699886
+          ],
+          "category": "museum",
+          "arrive_at": "12:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Parken Sie in den größeren kostenpflichtigen Einrichtungen in der Nähe und nehmen Sie sich Zeit, die Sammlung von Artefakten zu erkunden.",
+            "hu": "Parkoljon a múzeum közelében lévő nagyobb fizetős létesítményekben, elegendő időt hagyva a kommunikációs tárgyak hatalmas gyűjteményének felfedezésére.",
+            "ro": "Parcați în facilitățile cu plată mai mari din apropiere, acordându-vă timp suficient pentru a explora vasta colecție de artefacte de comunicare.",
+            "en": "Park in the larger paid facilities near the museum, giving yourself ample time to explore the vast collection of communication artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Grøndalskirken, wo Sie die friedliche Vorstadtatmosphäre genießen können. Mittags hüpfen Sie zwischen schönen historischen Kirchen wie Mariendal und Brorsons umher. Nachmittags fahren Sie etwas nach Osten, um das faszinierende Enigma-Museum zu erkunden. Der Abend endet mit einer entspannten Rückfahrt nach einer tiefgreifenden kulturellen Entdeckung.",
+        "hu": "Az autós túra a Grøndalskirken templomnál kezdődik, ahol magába szívhatja a békés külvárosi hangulatot. Délben olyan gyönyörű történelmi templomokat látogat meg, mint a Mariendal és a Brorsons. Délután kissé keletre vezet, hogy a saját tempójában fedezze fel a lenyűgöző Enigma múzeumot. Az este egy pihentető autózással zárul, amely egy mélyen kulturális felfedezést koronáz meg.",
+        "ro": "Turul dvs. cu mașina începe la Grøndalskirken, admirând atmosfera pașnică suburbană. La prânz, veți face opriri între o serie de biserici istorice frumoase precum Mariendal și Brorsons. După-amiaza, veți conduce puțin spre est pentru a explora fascinantul muzeu Enigma în propriul ritm. Seara se încheie cu o plimbare relaxantă, finalizând o explorare profund culturală.",
+        "en": "Your driving tour begins at Grøndalskirken, taking in the peaceful suburban atmosphere. Midday involves hopping between a cluster of beautiful historic churches like Mariendal and Brorsons. In the afternoon, you will drive slightly east to explore the fascinating Enigma museum at your own pace. The evening wraps up with a relaxing drive back, concluding a deeply cultural exploration."
+      }
+    }
+  }
+}

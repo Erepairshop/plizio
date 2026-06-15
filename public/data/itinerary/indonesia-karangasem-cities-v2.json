@@ -1,0 +1,428 @@
+{
+  "city_id": "indonesia-karangasem-cities-v2",
+  "anchor": {
+    "name": "Karangasem",
+    "coords": [
+      115.62379,
+      -8.45313
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Patung Kereta Kencana",
+            "hu": "Patung Kereta Kencana",
+            "ro": "Patung Kereta Kencana",
+            "en": "Patung Kereta Kencana"
+          },
+          "coords": [
+            115.600584,
+            -8.454871
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese goldene Kutschenstatue, die das königliche Erbe symbolisiert, und machen Sie hier frühmorgens die besten Fotos ohne viel Verkehr.",
+            "hu": "Csodálja meg ezt az arany hintós szobrot, amely a királyi örökséget szimbolizálja, és a kora reggeli órákban készítse el itt a legjobb fényképeket.",
+            "ro": "Admirați această statuie aurie a trăsurii care simbolizează moștenirea regală și veniți dimineața devreme pentru cele mai bune fotografii fără trafic.",
+            "en": "Admire this majestic golden carriage statue symbolizing royal heritage, and arrive early in the morning to take the best photos without heavy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Pancasila",
+            "hu": "Monumen Pancasila",
+            "ro": "Monumen Pancasila",
+            "en": "Monumen Pancasila"
+          },
+          "coords": [
+            115.608211,
+            -8.448848
+          ],
+          "category": "historical",
+          "arrive_at": "09:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Denkmal, das der indonesischen Staatsphilosophie gewidmet ist, und nutzen Sie den ruhigen Platz für eine kurze Pause im Schatten.",
+            "hu": "Fedezze fel az indonéz államfilozófiának szentelt emlékművet, és használja ki a csendes teret egy rövid pihenőre az árnyékban a séta folytatása előtt.",
+            "ro": "Descoperiți acest monument dedicat filosofiei de stat indoneziene și profitați de piațeta liniștită pentru a lua o scurtă pauză la umbră pe traseu.",
+            "en": "Discover this important monument dedicated to the Indonesian state philosophy, and use the quiet surrounding square for a brief rest in the cooling shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Ciung Wanara",
+            "hu": "Monumen Ciung Wanara",
+            "ro": "Monumen Ciung Wanara",
+            "en": "Monumen Ciung Wanara"
+          },
+          "coords": [
+            115.609088,
+            -8.447776
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem historischen Denkmal mehr über lokale Heldenepen, und lesen Sie die Informationstafeln, um den kulturellen Kontext zu verstehen.",
+            "hu": "Ismerje meg a helyi hősi eposzokat ezen a történelmi emlékművön, és feltétlenül olvassa el a tájékoztató táblákat a kulturális kontextus megértéséhez.",
+            "ro": "Aflați despre epopeile eroice locale la acest monument istoric și citiți panourile informative pentru a înțelege pe deplin contextul său cultural.",
+            "en": "Learn about local heroic epics at this historical monument, and make sure to read the informational plaques to fully grasp the deep cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Taman Sekuta",
+            "hu": "Taman Sekuta",
+            "ro": "Taman Sekuta",
+            "en": "Taman Sekuta"
+          },
+          "coords": [
+            115.609377,
+            -8.443658
+          ],
+          "category": "park",
+          "arrive_at": "10:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen friedlichen Park mit üppigem Grün und nehmen Sie sich eine kleine Flasche Wasser mit, um sich auf den Bänken zu erfrischen.",
+            "hu": "Sétáljon végig ezen a békés, buja növényzettel teli parkon, és vigyen magával egy kis üveg vizet, hogy felfrissüljön az egyik padon megpihenve.",
+            "ro": "Plimbați-vă prin acest parc pașnic plin de verdeață luxuriantă și aduceți o sticlă de apă pentru a vă răcori în timp ce vă odihniți pe bănci aici.",
+            "en": "Stroll through this peaceful park filled with lush greenery, and bring a small bottle of water to refresh yourself while resting on the quiet benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Puri Gede",
+            "hu": "Puri Gede",
+            "ro": "Puri Gede",
+            "en": "Puri Gede"
+          },
+          "coords": [
+            115.615303,
+            -8.443515
+          ],
+          "category": "castle",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Architektur dieses alten Palastes und achten Sie auf die aufwendigen Holzschnitzereien, die das balinesische Erbe zeigen.",
+            "hu": "Fedezze fel az ősi palota lenyűgöző építészetét, és figyelje meg a bonyolult fafaragásokat, amelyek a balinéz kulturális örökséget mutatják be.",
+            "ro": "Explorați arhitectura fascinantă a acestui palat antic și acordați atenție sculpturilor complicate în lemn care prezintă bogata moștenire balineză.",
+            "en": "Explore the fascinating architecture of this ancient palace, paying close attention to the intricate wood carvings that showcase Balinese royal heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Puri Agung Karangasem",
+            "hu": "Puri Agung Karangasem",
+            "ro": "Puri Agung Karangasem",
+            "en": "Puri Agung Karangasem"
+          },
+          "coords": [
+            115.616344,
+            -8.443792
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen königlichen Palast mit seiner einzigartigen Mischung aus balinesischer und europäischer Architektur; buchen Sie einen Guide für Insiderwissen.",
+            "hu": "Látogassa meg ezt a balinéz és európai építészetet ötvöző királyi palotát, és érdemes helyi idegenvezetőt fogadni a rejtett történelmi részletekért.",
+            "ro": "Vizitați acest palat regal cu amestecul său de arhitectură balineză și europeană; angajați un ghid local pentru a descoperi secretele istorice.",
+            "en": "Visit this royal palace featuring a unique blend of Balinese and European architecture; consider hiring a local guide to learn the historical secrets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie Ihren Tag an den beeindruckenden Monumenten von Karangasem, wo die goldene Patung Kereta Kencana im frühen Licht erstrahlt.\nMittags können Sie im Taman Sekuta Park eine entspannte Pause im Grünen einlegen, bevor Sie das historische Zentrum weiter erkunden.\nAm Nachmittag tauchen Sie im Puri Gede in die balinesische Königsgeschichte ein und bewundern die altehrwürdige Architektur.\nAbends beenden Sie Ihren Rundgang am großen Puri Agung Karangasem, wo europäische und lokale Baustile eindrucksvoll verschmelzen.",
+        "hu": "Reggel kezdje a napot Karangasem lenyűgöző emlékműveinél, és csodálja meg az arany Patung Kereta Kencana szobrot a korai napfényben.\nDélben tartson egy pihentető szünetet a buja növényzetű Taman Sekuta parkban, mielőtt folytatná útját a történelmi központ felé.\nDélután mélyedjen el a balinéz királyi történelemben a Puri Gede palotában, amely csodálatos fafaragásaival várja.\nEste zárja a sétát a hatalmas Puri Agung Karangasem palotában, felfedezve az európai és helyi építészeti stílusok egyedi ötvözetét.",
+        "ro": "Dimineața începeți explorarea monumentelor impresionante din Karangasem, admirând statuia aurie Patung Kereta Kencana în lumina blândă.\nLa prânz luați o pauză relaxantă printre verdeața parcului Taman Sekuta înainte de a vă îndrepta spre inima istorică a orașului.\nDupă-amiaza aprofundați istoria regală balineză la Puri Gede, unde arhitectura antică și detaliile sculptate vă vor impresiona profund.\nSeara încheiați turul la grandiosul Puri Agung Karangasem, unde amestecul de stiluri balineze și europene creează o atmosferă unică.",
+        "en": "Morning: Start the day exploring Karangasem's majestic monuments, admiring the golden Patung Kereta Kencana before continuing to the nearby historic sites.\nMidday: Take a relaxing break amidst the lush greenery of Taman Sekuta, where you can recharge your energy before heading towards the center.\nAfternoon: Delve deep into Balinese royal history as you explore Puri Gede, marveling at its intricate architecture and beautifully preserved heritage.\nEvening: Conclude your walking tour at the grand Puri Agung Karangasem, discovering the unique blend of Balinese and European designs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puri Agung Karangasem",
+            "hu": "Puri Agung Karangasem",
+            "ro": "Puri Agung Karangasem",
+            "en": "Puri Agung Karangasem"
+          },
+          "coords": [
+            115.616344,
+            -8.443792
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen königlichen Palast mit seiner einzigartigen Mischung aus balinesischer und europäischer Architektur; buchen Sie einen Guide für Insiderwissen.",
+            "hu": "Látogassa meg ezt a balinéz és európai építészetet ötvöző királyi palotát, és érdemes helyi idegenvezetőt fogadni a rejtett történelmi részletekért.",
+            "ro": "Vizitați acest palat regal cu amestecul său de arhitectură balineză și europeană; angajați un ghid local pentru a descoperi secretele istorice.",
+            "en": "Visit this royal palace featuring a unique blend of Balinese and European architecture; consider hiring a local guide to learn the historical secrets."
+          }
+        },
+        {
+          "name": {
+            "de": "Puri Gede",
+            "hu": "Puri Gede",
+            "ro": "Puri Gede",
+            "en": "Puri Gede"
+          },
+          "coords": [
+            115.615303,
+            -8.443515
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Architektur dieses alten Palastes und achten Sie auf die aufwendigen Holzschnitzereien, die das balinesische Erbe zeigen.",
+            "hu": "Fedezze fel az ősi palota lenyűgöző építészetét, és figyelje meg a bonyolult fafaragásokat, amelyek a balinéz kulturális örökséget mutatják be.",
+            "ro": "Explorați arhitectura fascinantă a acestui palat antic și acordați atenție sculpturilor complicate în lemn care prezintă bogata moștenire balineză.",
+            "en": "Explore the fascinating architecture of this ancient palace, paying close attention to the intricate wood carvings that showcase Balinese royal heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Ciung Wanara",
+            "hu": "Monumen Ciung Wanara",
+            "ro": "Monumen Ciung Wanara",
+            "en": "Monumen Ciung Wanara"
+          },
+          "coords": [
+            115.609088,
+            -8.447776
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem historischen Denkmal mehr über lokale Heldenepen, und lesen Sie die Informationstafeln, um den kulturellen Kontext zu verstehen.",
+            "hu": "Ismerje meg a helyi hősi eposzokat ezen a történelmi emlékművön, és feltétlenül olvassa el a tájékoztató táblákat a kulturális kontextus megértéséhez.",
+            "ro": "Aflați despre epopeile eroice locale la acest monument istoric și citiți panourile informative pentru a înțelege pe deplin contextul său cultural.",
+            "en": "Learn about local heroic epics at this historical monument, and make sure to read the informational plaques to fully grasp the deep cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Taman Ujung Water Palace",
+            "hu": "Taman Ujung Water Palace",
+            "ro": "Taman Ujung Water Palace",
+            "en": "Taman Ujung Water Palace"
+          },
+          "coords": [
+            115.630394,
+            -8.464492
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die malerischen Wasserbecken und Brücken dieses Palastes, und steigen Sie die Treppen hinauf, um einen Panoramablick auf das Meer zu genießen.",
+            "hu": "Sétáljon a palota festői medencéi és hídjai között, és feltétlenül mássza meg a lépcsőket, hogy élvezhesse a tengerre nyíló lenyűgöző panorámát.",
+            "ro": "Plimbați-vă printre piscinele și podurile pitorești ale acestui palat și asigurați-vă că urcați scările pentru a admira o priveliște panoramică la mare.",
+            "en": "Wander through the picturesque pools and bridges of this water palace, and make sure to climb the stairs to enjoy a stunning panoramic view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "PANTAI UJUNG",
+            "hu": "PANTAI UJUNG",
+            "ro": "PANTAI UJUNG",
+            "en": "PANTAI UJUNG"
+          },
+          "coords": [
+            115.632641,
+            -8.465693
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem traditionellen schwarzen Sandstrand, an dem Sie die lokalen Fischerboote beobachten und frische Meeresfrüchte probieren können.",
+            "hu": "Pihenjen ezen a hagyományos fekete homokos tengerparton, ahol megfigyelheti a helyi halászhajókat, és kipróbálhatja a frissen fogott tengeri ételeket.",
+            "ro": "Relaxați-vă pe această plajă tradițională cu nisip negru, unde puteți urmări bărcile de pescuit locale și puteți gusta preparate proaspete din mare.",
+            "en": "Relax on this traditional black sand beach where you can observe local fishing boats returning and easily sample freshly caught seafood nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten Sie Ihr Fahrradabenteuer an den Palästen Puri Agung und Puri Gede, um die königliche Atmosphäre in den frühen Stunden zu genießen.\nMittags radeln Sie zum Monumen Ciung Wanara für eine historische Dosis und setzen die Fahrt in Richtung Küste zum beeindruckenden Wasserpalast fort.\nAm Nachmittag erkunden Sie in aller Ruhe die wunderschönen Gärten und Wasserbecken des Taman Ujung und machen tolle Erinnerungsfotos von der Küste.\nAbends rollen Sie entspannt zum nahen Pantai Ujung, um am schwarzen Sandstrand den Sonnenuntergang und die heimkehrenden Fischer zu beobachten.",
+        "hu": "Reggel kezdje kerékpáros kalandját a Puri Agung és a Puri Gede palotáknál, magába szívva az ősi épületek királyi hangulatát a korai napfényben.\nDélben tekerjen el a Monumen Ciung Wanara emlékműhöz egy kis történelemért, majd folytassa útját a part felé a lélegzetelállító Vízipalotáig.\nDélután kényelmesen járja be a Taman Ujung gyönyörű medencéit és hídjait, és készítsen nagyszerű fotókat a végtelen óceáni panorámáról.\nEste tekerjen át a közeli Pantai Ujung strandra, hogy a fekete homokon pihenve nézze meg a naplementét és a visszatérő helyi halászhajókat.",
+        "ro": "Dimineața începeți aventura pe bicicletă la Puri Agung și Puri Gede, absorbind atmosfera regală a palatelor antice în lumina blândă a dimineții.\nLa prânz pedalați până la Monumen Ciung Wanara pentru o lecție de istorie, apoi îndreptați-vă spre coastă către uimitorul Palat pe Apă Taman Ujung.\nDupă-amiaza explorați pe îndelete frumoasele piscine și poduri de la Taman Ujung și faceți fotografii uimitoare cu vederea panoramică la ocean.\nSeara pedalați scurt până la Pantai Ujung, relaxându-vă pe plaja cu nisip negru în timp ce urmăriți bărcile de pescuit sub soarele la apus.",
+        "en": "Morning: Begin your cycling adventure at the impressive Puri Agung Karangasem and Puri Gede, soaking in the royal atmosphere of the ancient palaces.\nMidday: Pedal to the Monumen Ciung Wanara to learn about local epics, then enjoy a scenic ride towards the coast to reach the stunning Water Palace.\nAfternoon: Spend your afternoon wandering the beautiful pools, bridges, and gardens of Taman Ujung, capturing photos of the panoramic ocean views.\nEvening: Ride the short distance to Pantai Ujung, relaxing on the black sand beach and watching traditional fishing boats return as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Puri Agung Karangasem",
+            "hu": "Puri Agung Karangasem",
+            "ro": "Puri Agung Karangasem",
+            "en": "Puri Agung Karangasem"
+          },
+          "coords": [
+            115.616344,
+            -8.443792
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen königlichen Palast mit seiner einzigartigen Mischung aus balinesischer und europäischer Architektur; buchen Sie einen Guide für Insiderwissen.",
+            "hu": "Látogassa meg ezt a balinéz és európai építészetet ötvöző királyi palotát, és érdemes helyi idegenvezetőt fogadni a rejtett történelmi részletekért.",
+            "ro": "Vizitați acest palat regal cu amestecul său de arhitectură balineză și europeană; angajați un ghid local pentru a descoperi secretele istorice.",
+            "en": "Visit this royal palace featuring a unique blend of Balinese and European architecture; consider hiring a local guide to learn the historical secrets."
+          }
+        },
+        {
+          "name": {
+            "de": "Taman Ujung Water Palace",
+            "hu": "Taman Ujung Water Palace",
+            "ro": "Taman Ujung Water Palace",
+            "en": "Taman Ujung Water Palace"
+          },
+          "coords": [
+            115.630394,
+            -8.464492
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die malerischen Wasserbecken und Brücken dieses Palastes, und steigen Sie die Treppen hinauf, um einen Panoramablick auf das Meer zu genießen.",
+            "hu": "Sétáljon a palota festői medencéi és hídjai között, és feltétlenül mássza meg a lépcsőket, hogy élvezhesse a tengerre nyíló lenyűgöző panorámát.",
+            "ro": "Plimbați-vă printre piscinele și podurile pitorești ale acestui palat și asigurați-vă că urcați scările pentru a admira o priveliște panoramică la mare.",
+            "en": "Wander through the picturesque pools and bridges of this water palace, and make sure to climb the stairs to enjoy a stunning panoramic view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "PANTAI UJUNG",
+            "hu": "PANTAI UJUNG",
+            "ro": "PANTAI UJUNG",
+            "en": "PANTAI UJUNG"
+          },
+          "coords": [
+            115.632641,
+            -8.465693
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem traditionellen schwarzen Sandstrand, an dem Sie die lokalen Fischerboote beobachten und frische Meeresfrüchte probieren können.",
+            "hu": "Pihenjen ezen a hagyományos fekete homokos tengerparton, ahol megfigyelheti a helyi halászhajókat, és kipróbálhatja a frissen fogott tengeri ételeket.",
+            "ro": "Relaxați-vă pe această plajă tradițională cu nisip negru, unde puteți urmări bărcile de pescuit locale și puteți gusta preparate proaspete din mare.",
+            "en": "Relax on this traditional black sand beach where you can observe local fishing boats returning and easily sample freshly caught seafood nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Pedagang Salak",
+            "hu": "Monumen Pedagang Salak",
+            "ro": "Monumen Pedagang Salak",
+            "en": "Monumen Pedagang Salak"
+          },
+          "coords": [
+            115.617462,
+            -8.473525
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses Denkmal zu Ehren der lokalen Salak-Verkäufer, und kaufen Sie die Schlangenfrucht bei einem der nahen Straßenhändler als Snack.",
+            "hu": "Tekintse meg ezt a helyi salak árusoknak állított emlékművet, és vásároljon egy kis kígyógyümölcsöt egy közeli utcai árustól frissítő nassolnivalóként.",
+            "ro": "Vedeți acest monument dedicat vânzătorilor locali de salak și cumpărați fructul șarpelui de la un vânzător ambulant din apropiere pentru o gustare.",
+            "en": "See this unique monument dedicated to local salak vendors, and buy some of the famous snake fruit from a nearby street stall for a healthy snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Jasri",
+            "hu": "Pantai Jasri",
+            "ro": "Pantai Jasri",
+            "en": "Pantai Jasri"
+          },
+          "coords": [
+            115.622094,
+            -8.478803
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem friedlichen Strand, der ideal für gemütliche Spaziergänge ist, und genießen Sie die kühle Brise im späten Nachmittagslicht.",
+            "hu": "Zárja a napot ezen a békés tengerparton, amely ideális kényelmes sétákhoz, és élvezze a hűsítő tengeri szellőt a késő délutáni napfényben.",
+            "ro": "Încheiați ziua pe această plajă pașnică, ideală pentru plimbări relaxante, și bucurați-vă de briza răcoroasă a oceanului în lumina târzie a zilei.",
+            "en": "End your day at this peaceful beach, ideal for leisurely strolls, and enjoy the cooling ocean breeze in the soft light of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens fahren Sie zum großartigen Puri Agung Karangasem, wo Sie in aller Ruhe die weitläufigen königlichen Anlagen und historischen Details erkunden können.\nMittags setzen Sie Ihre Fahrt zum ikonischen Taman Ujung Wasserpalast fort und lassen sich von der majestätischen Architektur und dem Meerblick verzaubern.\nAm Nachmittag besuchen Sie Pantai Ujung und danach das Monumen Pedagang Salak, wo Sie sich mit dem Kauf lokaler Schlangenfrucht stärken können.\nAbends lassen Sie Ihre Autotour am ruhigen Pantai Jasri ausklingen, dem perfekten Ort, um fernab der Massen den Sonnenuntergang am Meer zu genießen.",
+        "hu": "Reggel vezessen a csodálatos Puri Agung Karangasemhez, ahol az egész délelőttöt a tágas királyi birtok és az építészeti részletek felfedezésével töltheti.\nDélben folytassa útját az ikonikus Taman Ujung Vízipalotához, élvezve a kiterjedt vízfelületeket és a lélegzetelállító kilátást az óceánra.\nDélután látogassa meg a Pantai Ujungot, majd a különleges Monumen Pedagang Salak emlékművet, ahol érdemes egy kis friss kígyógyümölcsöt kóstolni.\nEste fejezze be a kényelmes autós túrát a békés Pantai Jasri strandon, amely tökéletes tengerparti menedék a nap fáradalmainak kipihenésére.",
+        "ro": "Dimineața conduceți spre magnificul Puri Agung Karangasem, unde vă veți petrece timpul explorând domeniile regale și apreciind detaliile arhitecturale.\nLa prânz continuați călătoria către iconicul Palat pe Apă Taman Ujung, bucurându-vă de peisajele impresionante înainte de a vizita plaja adiacentă.\nDupă-amiaza mergeți spre unicul Monumen Pedagang Salak, un omagiu adus moștenirii locale, și cumpărați fructe proaspete de șarpe ca o gustare dulce.\nSeara terminați drumul la liniștitul Pantai Jasri, o retragere de coastă perfectă unde vă puteți relaxa și bucura de valurile ritmice la asfințit.",
+        "en": "Morning: Drive to the magnificent Puri Agung Karangasem, where you will spend the morning exploring the sprawling royal grounds and architectural details.\nMidday: Continue your journey to the iconic Taman Ujung Water Palace, enjoying the expansive water features and breathtaking scenery near the ocean.\nAfternoon: Visit Pantai Ujung and then cruise down to the unique Monumen Pedagang Salak, picking up fresh snake fruit to enjoy as a sweet afternoon treat.\nEvening: Finish your drive at the tranquil Pantai Jasri, a perfect coastal retreat where you can unwind and enjoy the rhythmic waves in a peaceful setting."
+      }
+    }
+  }
+}

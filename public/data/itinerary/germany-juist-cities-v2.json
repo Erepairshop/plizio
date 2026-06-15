@@ -1,0 +1,474 @@
+{
+  "city_id": "germany-juist-cities-v2",
+  "anchor": {
+    "name": "Juist",
+    "coords": [
+      6.996389,
+      53.679167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus des Kurgastes",
+            "hu": "Haus des Kurgastes",
+            "ro": "Haus des Kurgastes",
+            "en": "Haus des Kurgastes"
+          },
+          "coords": [
+            6.998997,
+            53.679691
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Zentrum für Veranstaltungen, um die authentische Bäderkultur zu erleben, und informieren Sie sich am Schalter über das aktuelle Abendprogramm.",
+            "hu": "Látogasson el ebbe a rendezvényközpontba a fürdőkultúra megtapasztalásához, és érdeklődjön a pultnál az aktuális esti programokról.",
+            "ro": "Vizitați acest centru de evenimente pentru a experimenta cultura balneară autentică și verificați la recepție programul actualizat de seară.",
+            "en": "Visit this event center to experience authentic spa culture, and be sure to check the information desk for the current evening entertainment schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Pabst Schwimmbad",
+            "hu": "Pabst Schwimmbad",
+            "ro": "Pabst Schwimmbad",
+            "en": "Pabst Schwimmbad"
+          },
+          "coords": [
+            6.996582,
+            53.678986
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Genießen Sie erholsame Stunden in diesem modernen Meerwasserbad, das für seine Wellness-Angebote bekannt ist, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a pihentető órákat ebben a modern tengervizes medencében, amely wellness kínálatáról ismert, és érdemes saját törölközőt hoznia magával.",
+            "ro": "Bucurați-vă de ore de relaxare în această piscină modernă cu apă de mare, renumită pentru ofertele wellness, și asigurați-vă că aduceți propriul prosop.",
+            "en": "Enjoy relaxing hours in this modern seawater pool known for its excellent wellness facilities, and remember to bring your own towel for convenience."
+          }
+        },
+        {
+          "name": {
+            "de": "Friesengalerie",
+            "hu": "Friesengalerie",
+            "ro": "Friesengalerie",
+            "en": "Friesengalerie"
+          },
+          "coords": [
+            6.995833,
+            53.678026
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser charmanten Galerie regionale Kunstwerke, die das friesische Leben widerspiegeln, und achten Sie auf die wechselnden Sonderausstellungen.",
+            "hu": "Fedezze fel a fríz életet tükröző regionális művészeti alkotásokat ebben a bájos galériában, és figyeljen az izgalmas időszaki kiállításokra.",
+            "ro": "Descoperiți opere de artă regionale care reflectă viața frizonă în această galerie fermecătoare și fiți atenți la expozițiile speciale temporare.",
+            "en": "Discover regional artworks reflecting Frisian life in this charming gallery, and pay special attention to their frequently changing temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark-Haus",
+            "hu": "Nationalpark-Haus",
+            "ro": "Nationalpark-Haus",
+            "en": "Nationalpark-Haus"
+          },
+          "coords": [
+            6.99479,
+            53.676661
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Lernen Sie hier alles über das faszinierende Ökosystem des Wattenmeeres und buchen Sie am besten gleich eine geführte Wattwanderung an der Rezeption.",
+            "hu": "Tudjon meg mindent a Watt-tenger lenyűgöző ökoszisztémájáról itt, és foglaljon le egy vezetett iszapföldi túrát közvetlenül a recepción.",
+            "ro": "Aflați totul despre ecosistemul fascinant al Mării Wadden aici și rezervați un tur ghidat pe plajele cu noroi direct de la recepție.",
+            "en": "Learn all about the fascinating Wadden Sea ecosystem here, and it is highly recommended to book a guided mudflat hike directly at the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsplattform",
+            "hu": "Aussichtsplattform",
+            "ro": "Aussichtsplattform",
+            "en": "Aussichtsplattform"
+          },
+          "coords": [
+            6.994235,
+            53.680561
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Genießen Sie von hier oben den weiten Panoramablick über die Dünen bis zum Meer, der besonders in den goldenen Stunden vor Sonnenuntergang magisch ist.",
+            "hu": "Élvezze a dűnéken át a tengerig nyúló széles panorámát innen fentről, amely különösen a naplemente előtti aranyórákban varázslatos látvány.",
+            "ro": "Bucurați-vă de vederea panoramică de aici de sus peste dune până la mare, care este de-a dreptul magică în orele de aur dinaintea apusului.",
+            "en": "Enjoy the sweeping panoramic views from up here across the dunes to the sea, which is especially magical during the golden hours just before sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettungsturm Nr. 2 (Station)",
+            "hu": "Rettungsturm Nr. 2 (Station)",
+            "ro": "Rettungsturm Nr. 2 (Station)",
+            "en": "Rettungsturm Nr. 2 (Station)"
+          },
+          "coords": [
+            6.997311,
+            53.682552
+          ],
+          "category": "recreational",
+          "arrive_at": "15:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses lebensrettenden Wachturms am Strand und nutzen Sie den nahen Zugang für einen entspannten Spaziergang im Sand.",
+            "hu": "Csodálja meg ennek az életmentő tengerparti őrtoronynak a feltűnő építészetét, és használja a közeli lejáratot egy pihentető sétához a homokban.",
+            "ro": "Admirați arhitectura remarcabilă a acestui turn de veghe salvator de pe plajă și folosiți accesul din apropiere pentru o plimbare relaxantă pe nisip.",
+            "en": "Admire the striking architecture of this life-saving watchtower on the beach, and use the nearby access point for a relaxing stroll along the sandy shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Haus des Kurgastes und genießen Sie die Inselkultur. Mittags locken das Pabst Schwimmbad und die Friesengalerie mit Kunst und Entspannung. Der Nachmittag führt Sie zum Nationalpark-Haus, um die Wattenmeer-Flora kennenzulernen. Den Abend lassen Sie an der Aussichtsplattform und am Rettungsturm Nr. 2 bei Meeresrauschen ausklingen.",
+        "hu": "Kezdje a napot a Haus des Kurgastes kulturális központjában. Délben a Pabst Schwimmbad és a Friesengalerie várja művészettel és pihenéssel. Délután a Nationalpark-Haus fedezze fel a Watt-tenger csodáit. Az estét a kilátónál és a 2-es számú mentőtoronynál zárhatja a tenger hangjait hallgatva.",
+        "ro": "Începeți ziua la Haus des Kurgastes pentru o doză de cultură insulară. La prânz, Pabst Schwimmbad și Friesengalerie vă oferă relaxare și artă. După-amiaza vă duce la Nationalpark-Haus pentru a învăța despre Marea Wadden. Seara, relaxați-vă la platforma de observare și la Turnul de Salvare Nr. 2.",
+        "en": "Start your day at Haus des Kurgastes to soak in island culture. By midday, Pabst Schwimmbad and the Friesengalerie offer relaxation and local art. The afternoon leads you to the Nationalpark-Haus to learn about the Wadden Sea. End your evening at the viewing platform and Rescue Tower No. 2 with ocean sounds."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalpark-Haus",
+            "hu": "Nationalpark-Haus",
+            "ro": "Nationalpark-Haus",
+            "en": "Nationalpark-Haus"
+          },
+          "coords": [
+            6.99479,
+            53.676661
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lernen Sie hier alles über das faszinierende Ökosystem des Wattenmeeres und buchen Sie am besten gleich eine geführte Wattwanderung an der Rezeption.",
+            "hu": "Tudjon meg mindent a Watt-tenger lenyűgöző ökoszisztémájáról itt, és foglaljon le egy vezetett iszapföldi túrát közvetlenül a recepción.",
+            "ro": "Aflați totul despre ecosistemul fascinant al Mării Wadden aici și rezervați un tur ghidat pe plajele cu noroi direct de la recepție.",
+            "en": "Learn all about the fascinating Wadden Sea ecosystem here, and it is highly recommended to book a guided mudflat hike directly at the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffchenteich im Loog",
+            "hu": "Schiffchenteich im Loog",
+            "ro": "Schiffchenteich im Loog",
+            "en": "Schiffchenteich im Loog"
+          },
+          "coords": [
+            6.965398,
+            53.67654
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Modellboote auf diesem historischen Teich im Dorf Loog, der ein perfekter und ruhiger Picknickplatz für Familien mit Kindern ist.",
+            "hu": "Figyelje meg a kis modellhajókat ezen a történelmi tavon Loog faluban, amely egy tökéletes és csendes piknikezőhely gyerekes családok számára.",
+            "ro": "Urmăriți bărcile în miniatură pe acest iaz istoric din satul Loog, care este un loc de picnic perfect și liniștit pentru familiile cu copii.",
+            "en": "Watch the small model boats glide across this historic pond in the village of Loog, making it a perfect and quiet picnic spot for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Inselmuseum Juist",
+            "hu": "Inselmuseum Juist",
+            "ro": "Inselmuseum Juist",
+            "en": "Inselmuseum Juist"
+          },
+          "coords": [
+            6.961436,
+            53.67586
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte der Insel ein und nehmen Sie sich Zeit für die detaillierten Modelle, bevor Sie das kleine Café nebenan besuchen.",
+            "hu": "Merüljön el a sziget gazdag tengerészeti történelmében, és szánjon időt a részletes modellekre, mielőtt meglátogatná a szomszédos kis kávézót.",
+            "ro": "Pătrundeți în bogata istorie maritimă a insulei și alocați-vă timp pentru modelele detaliate înainte de a vizita mica cafenea de alături.",
+            "en": "Dive into the island's rich maritime history and take your time with the detailed ship models before grabbing a drink at the small cafe next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Dree-Water-Utkiek",
+            "hu": "Dree-Water-Utkiek",
+            "ro": "Dree-Water-Utkiek",
+            "en": "Dree-Water-Utkiek"
+          },
+          "coords": [
+            6.962376,
+            53.677146
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem einzigartigen Aussichtspunkt gleichzeitig auf Nordsee, Wattenmeer und Hammersee, wobei ein Fernglas für die Vogelbeobachtung ideal ist.",
+            "hu": "Tekintsen le erről az egyedülálló kilátópontról egyszerre az Északi-tengerre, a Watt-tengerre és a Hammersee-re, amihez érdemes távcsövet hozni.",
+            "ro": "Priviți simultan Marea Nordului, Marea Wadden și Hammersee din acest punct de observație unic, unde un binoclu este ideal pentru observarea păsărilor.",
+            "en": "Look out over the North Sea, Wadden Sea, and Hammersee simultaneously from this unique viewpoint, where bringing binoculars is ideal for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Seezeichen",
+            "hu": "Seezeichen",
+            "ro": "Seezeichen",
+            "en": "Seezeichen"
+          },
+          "coords": [
+            6.997736,
+            53.671807
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.36,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische hölzerne Wahrzeichen der Insel in Form einer Boje, das sich als hervorragender Treffpunkt für Strandwanderungen anbietet.",
+            "hu": "Fényképezze le a sziget ezt az ikonikus, bóját formázó fa nevezetességét, amely kiváló találkozóhelyként szolgál a tengerparti sétákhoz.",
+            "ro": "Fotografiați acest punct de reper iconic din lemn al insulei, în formă de geamandură, care servește drept un excelent loc de întâlnire pentru plimbări.",
+            "en": "Photograph this iconic wooden buoy-shaped landmark of the island, which serves as an excellent meeting point for embarking on long beach walks."
+          }
+        },
+        {
+          "name": {
+            "de": "7. Längengrad Deich",
+            "hu": "7. Längengrad Deich",
+            "ro": "7. Längengrad Deich",
+            "en": "7. Längengrad Deich"
+          },
+          "coords": [
+            7.001222,
+            53.675704
+          ],
+          "category": "landmark",
+          "arrive_at": "14:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser unsichtbaren geografischen Linie, die hier am Deich markiert ist, und genießen Sie die kühle Brise bei einer kleinen Rast.",
+            "hu": "Sétáljon végig ezen a gáton kijelölt láthatatlan földrajzi vonalon, és élvezze a hűvös szellőt egy rövid pihenő keretében.",
+            "ro": "Plimbați-vă de-a lungul acestei linii geografice invizibile marcate aici pe dig și bucurați-vă de briza răcoroasă în timpul unei scurte pauze de odihnă.",
+            "en": "Stroll along this invisible geographic line marked here on the dike, and enjoy the cool, refreshing breeze while taking a short rest on a bench."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Nationalpark-Haus mit Einblicken ins Watt. Mittags radeln Sie gemütlich zum Loog, wo der Schiffchenteich und das Inselmuseum warten. Am Nachmittag genießen Sie den weiten Blick vom Dree-Water-Utkiek. Der Abend führt Sie zum Seezeichen und endet entspannt am 7. Längengrad Deich.",
+        "hu": "A kerékpártúra a Nationalpark-Haus-nál kezdődik, bepillantást nyújtva az élővilágba. Délben a Loog városrészbe teker, ahol a Schiffchenteich és a szigetmúzeum várja. Délután élvezze a kilátást a Dree-Water-Utkiek felől. Az este a Seezeichen-hez vezet, és a 7. hosszúsági kör gátjánál ér véget.",
+        "ro": "Turul cu bicicleta începe la Nationalpark-Haus, explorând ecosistemul. La prânz pedalați spre Loog pentru a vedea Schiffchenteich și Muzeul Insulei. După-amiaza vă aduce vederi panoramice de la Dree-Water-Utkiek. Seara se încheie la Seezeichen și la digul meridianului 7.",
+        "en": "Your bike tour starts at the Nationalpark-Haus with Wadden Sea insights. At midday, pedal to Loog to explore the Schiffchenteich and the Island Museum. The afternoon offers sweeping views from the Dree-Water-Utkiek. The evening leads to the Seezeichen, ending peacefully at the 7th Longitude Dike."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 5.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Krebsstein",
+            "hu": "Krebsstein",
+            "ro": "Krebsstein",
+            "en": "Krebsstein"
+          },
+          "coords": [
+            6.996032,
+            53.670669
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese markante Gesteinsformation im Wattenmeer, die spannende Fotomotive bietet, aber achten Sie unbedingt auf die aktuellen Gezeiten.",
+            "hu": "Fedezze fel ezt a jellegzetes sziklaképződményt a Watt-tengerben, amely izgalmas fotótémákat kínál, de mindenképpen ügyeljen az aktuális árapályra.",
+            "ro": "Descoperiți această formațiune stâncoasă proeminentă din Marea Wadden, ideală pentru fotografii, dar asigurați-vă că sunteți atenți la maree.",
+            "en": "Discover this prominent rock formation in the Wadden Sea that offers exciting photo opportunities, but be absolutely sure to check the local tide times."
+          }
+        },
+        {
+          "name": {
+            "de": "Seezeichen",
+            "hu": "Seezeichen",
+            "ro": "Seezeichen",
+            "en": "Seezeichen"
+          },
+          "coords": [
+            6.997736,
+            53.671807
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische hölzerne Wahrzeichen der Insel in Form einer Boje, das sich als hervorragender Treffpunkt für Strandwanderungen anbietet.",
+            "hu": "Fényképezze le a sziget ezt az ikonikus, bóját formázó fa nevezetességét, amely kiváló találkozóhelyként szolgál a tengerparti sétákhoz.",
+            "ro": "Fotografiați acest punct de reper iconic din lemn al insulei, în formă de geamandură, care servește drept un excelent loc de întâlnire pentru plimbări.",
+            "en": "Photograph this iconic wooden buoy-shaped landmark of the island, which serves as an excellent meeting point for embarking on long beach walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffchenteich im Loog",
+            "hu": "Schiffchenteich im Loog",
+            "ro": "Schiffchenteich im Loog",
+            "en": "Schiffchenteich im Loog"
+          },
+          "coords": [
+            6.965398,
+            53.67654
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Modellboote auf diesem historischen Teich im Dorf Loog, der ein perfekter und ruhiger Picknickplatz für Familien mit Kindern ist.",
+            "hu": "Figyelje meg a kis modellhajókat ezen a történelmi tavon Loog faluban, amely egy tökéletes és csendes piknikezőhely gyerekes családok számára.",
+            "ro": "Urmăriți bărcile în miniatură pe acest iaz istoric din satul Loog, care este un loc de picnic perfect și liniștit pentru familiile cu copii.",
+            "en": "Watch the small model boats glide across this historic pond in the village of Loog, making it a perfect and quiet picnic spot for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Inselmuseum Juist",
+            "hu": "Inselmuseum Juist",
+            "ro": "Inselmuseum Juist",
+            "en": "Inselmuseum Juist"
+          },
+          "coords": [
+            6.961436,
+            53.67586
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte der Insel ein und nehmen Sie sich Zeit für die detaillierten Modelle, bevor Sie das kleine Café nebenan besuchen.",
+            "hu": "Merüljön el a sziget gazdag tengerészeti történelmében, és szánjon időt a részletes modellekre, mielőtt meglátogatná a szomszédos kis kávézót.",
+            "ro": "Pătrundeți în bogata istorie maritimă a insulei și alocați-vă timp pentru modelele detaliate înainte de a vizita mica cafenea de alături.",
+            "en": "Dive into the island's rich maritime history and take your time with the detailed ship models before grabbing a drink at the small cafe next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettungsturm Nr. 1",
+            "hu": "Rettungsturm Nr. 1",
+            "ro": "Rettungsturm Nr. 1",
+            "en": "Rettungsturm Nr. 1"
+          },
+          "coords": [
+            7.000425,
+            53.683659
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Rettungsturm am breiten Nordstrand, der an die raue See erinnert, und spazieren Sie anschließend entlang der Wasserkante.",
+            "hu": "Tekintse meg ezt a széles északi strandon álló történelmi mentőtornyot, amely a zord tengerre emlékeztet, majd sétáljon egyet a vízpart mentén.",
+            "ro": "Priviți acest turn istoric de salvare de pe plaja largă de nord, amintind de marea aspră, și apoi plimbați-vă de-a lungul marginii apei.",
+            "en": "View this historic rescue tower on the wide north beach, serving as a reminder of the rough seas, and then take a pleasant walk along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettungsturm Nr. 3",
+            "hu": "Rettungsturm Nr. 3",
+            "ro": "Rettungsturm Nr. 3",
+            "en": "Rettungsturm Nr. 3"
+          },
+          "coords": [
+            6.994137,
+            53.683065
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen hölzernen Wachturm inmitten der Dünenlandschaft, der sich perfekt als ruhiges Ziel für eine abendliche Strandwanderung eignet.",
+            "hu": "Látogassa meg ezt a dűnés táj közepén található fa őrtornyot, amely tökéletes, nyugodt célpontja lehet egy esti tengerparti sétának.",
+            "ro": "Vizitați acest turn de veghe din lemn în mijlocul peisajului dunelor, care este o destinație perfectă și liniștită pentru o plimbare de seară pe plajă.",
+            "en": "Visit this wooden watchtower situated amidst the beautiful dune landscape, making it a perfect and quiet destination for an evening beach stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre motorisierte Tour am Krebsstein für ein Fotomotiv. Mittags erreichen Sie schnell das markante Seezeichen und fahren weiter zum Loog für den Schiffchenteich. Der Nachmittag ist dem Inselmuseum und der spannenden Historie gewidmet. Am Abend entspannen Sie bei den Rettungstürmen Nr. 1 und 3 am Nordstrand.",
+        "hu": "Kezdje motoros túráját a Krebsstein-nél egy remek fotóért. Délben gyorsan elérheti a Seezeichen-t, majd haladjon a Loog felé a Schiffchenteich-hez. A délutánt a Szigetmúzeum és a történelem felfedezésének szentelheti. Este pihenjen az 1-es és 3-as mentőtornyoknál az északi strandon.",
+        "ro": "Începeți turul motorizat la Krebsstein pentru o fotografie perfectă. La prânz ajungeți rapid la Seezeichen și continuați spre Loog pentru Schiffchenteich. După-amiaza este dedicată Muzeului Insulei și istoriei sale. Seara vă relaxați lângă turnurile de salvare 1 și 3 pe plaja de nord.",
+        "en": "Start your motorized tour at the Krebsstein for a great photo opportunity. By midday, quickly reach the Seezeichen and drive to Loog for the Schiffchenteich. The afternoon is dedicated to the Island Museum and local history. In the evening, relax by rescue towers No. 1 and 3 on the north beach."
+      }
+    }
+  }
+}

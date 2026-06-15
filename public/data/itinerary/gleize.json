@@ -1,0 +1,520 @@
+{
+  "city_id": "gleize",
+  "anchor": {
+    "name": "Gleizé",
+    "coords": [
+      4.6969,
+      45.9892
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.69644,
+            45.989134
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser zentralen Kirche, die das Herz der Gemeinde bildet, und besuchen Sie sie am besten morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a közösség szívét alkotó központi templomnak az egyszerű, mégis méltóságteljes építészetét, és a legjobb fényviszonyok érdekében reggel látogassa meg.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei biserici centrale, care formează inima comunității, și vizitați-o de preferință dimineața pentru cea mai bună lumină.",
+            "en": "Admire the simple yet dignified architecture of this central church, which forms the heart of the community, and visit it preferably in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaurenard Castle",
+            "hu": "Vaurenard Castle",
+            "ro": "Vaurenard Castle",
+            "en": "Vaurenard Castle"
+          },
+          "coords": [
+            4.696203,
+            45.993995
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende historische Schloss mit seinen gepflegten Gärten, die von einer reichen Vergangenheit erzählen, und tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt a gazdag múltról mesélő, gondozott kertjeivel, és viseljen kényelmes cipőt a kiterjedt terület bejárásához.",
+            "ro": "Explorați acest fascinant castel istoric cu grădinile sale îngrijite care spun povestea unui trecut bogat și purtați pantofi confortabili pentru terenurile întinse.",
+            "en": "Explore this fascinating historic castle with its manicured gardens that tell of a rich past, and wear comfortable shoes for walking the extensive grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Agathe",
+            "hu": "Chapelle Sainte-Agathe",
+            "ro": "Chapelle Sainte-Agathe",
+            "en": "Chapelle Sainte-Agathe"
+          },
+          "coords": [
+            4.7063,
+            46.001246
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese kleine, friedliche Kapelle bietet einen ruhigen Rückzugsort mit schönen rustikalen Details, also nehmen Sie sich einen Moment Zeit, um die Stille abseits des Trubels zu genießen.",
+            "hu": "Ez a kis, békés kápolna nyugodt menedéket kínál gyönyörű rusztikus részletekkel, ezért szánjon egy percet arra, hogy élvezze a csendet a nyüzsgéstől távol.",
+            "ro": "Această mică și pașnică capelă oferă un refugiu liniștit, cu detalii rustice frumoase, așa că acordați-vă un moment pentru a vă bucura de liniște departe de agitație.",
+            "en": "This small, peaceful chapel offers a tranquil retreat with beautiful rustic details, so take a moment to enjoy the silence away from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des droits de l'enfant",
+            "hu": "Jardin des droits de l'enfant",
+            "ro": "Jardin des droits de l'enfant",
+            "en": "Jardin des droits de l'enfant"
+          },
+          "coords": [
+            4.716849,
+            45.987814
+          ],
+          "category": "family",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem familienfreundlichen Park, der den Rechten der Kinder gewidmet ist, und packen Sie ein leichtes Picknick ein, um die schattigen Bänke optimal zu nutzen.",
+            "hu": "Pihenjen ebben a gyermekjogoknak szentelt, családbarát parkban, és csomagoljon egy könnyű pikniket, hogy a legtöbbet hozza ki az árnyékos padokból.",
+            "ro": "Relaxați-vă în acest parc prietenos cu familiile, dedicat drepturilor copiilor, și împachetați un picnic ușor pentru a profita la maximum de băncile umbrite.",
+            "en": "Relax in this family-friendly park dedicated to children's rights, and pack a light picnic to make the most of the shaded benches provided throughout."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Curé-d'Ars",
+            "hu": "Église Saint-Curé-d'Ars",
+            "ro": "Église Saint-Curé-d'Ars",
+            "en": "Église Saint-Curé-d'Ars"
+          },
+          "coords": [
+            4.705608,
+            45.984499
+          ],
+          "category": "religious",
+          "arrive_at": "14:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Besonderheiten dieses sakralen Gebäudes, das nach einem verehrten französischen Heiligen benannt ist, und achten Sie auf die kunstvollen Glasfenster im Inneren.",
+            "hu": "Figyelje meg ennek a tisztelt francia szentről elnevezett szakrális épületnek az építészeti sajátosságait, és fordítson különös figyelmet a díszes ólomüveg ablakokra.",
+            "ro": "Observați trăsăturile arhitecturale ale acestei clădiri sacre, numite după un venerat sfânt francez, și acordați atenție vitraliilor ornate din interior.",
+            "en": "Observe the architectural features of this sacred building, named after a revered French saint, and pay special attention to the ornate stained glass windows inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Gleizé zu Fuß, beginnend mit der zentralen Kirche, bevor Sie zum historischen Schloss spazieren. Der Nachmittag bietet grüne Entspannung im Park und weitere faszinierende Einblicke in die lokale Architektur.",
+        "hu": "Fedezze fel Gleizét gyalogosan, a központi templomtól kezdve, majd sétáljon el a történelmi kastélyhoz. A délután zöld kikapcsolódást nyújt a parkban és további bepillantást a helyi építészetbe.",
+        "ro": "Explorați Gleizé pe jos, începând cu biserica centrală, înainte de a vă plimba spre castelul istoric. După-amiaza oferă relaxare verde în parc și alte perspective asupra arhitecturii locale.",
+        "en": "Discover Gleizé on foot, starting with the central church before strolling to the historic castle. The afternoon offers green relaxation in the park and further insights into local architecture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.69644,
+            45.989134
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser zentralen Kirche, die das Herz der Gemeinde bildet, und besuchen Sie sie am besten morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a közösség szívét alkotó központi templomnak az egyszerű, mégis méltóságteljes építészetét, és a legjobb fényviszonyok érdekében reggel látogassa meg.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei biserici centrale, care formează inima comunității, și vizitați-o de preferință dimineața pentru cea mai bună lumină.",
+            "en": "Admire the simple yet dignified architecture of this central church, which forms the heart of the community, and visit it preferably in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaurenard Castle",
+            "hu": "Vaurenard Castle",
+            "ro": "Vaurenard Castle",
+            "en": "Vaurenard Castle"
+          },
+          "coords": [
+            4.696203,
+            45.993995
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende historische Schloss mit seinen gepflegten Gärten, die von einer reichen Vergangenheit erzählen, und tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt a gazdag múltról mesélő, gondozott kertjeivel, és viseljen kényelmes cipőt a kiterjedt terület bejárásához.",
+            "ro": "Explorați acest fascinant castel istoric cu grădinile sale îngrijite care spun povestea unui trecut bogat și purtați pantofi confortabili pentru terenurile întinse.",
+            "en": "Explore this fascinating historic castle with its manicured gardens that tell of a rich past, and wear comfortable shoes for walking the extensive grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Agathe",
+            "hu": "Chapelle Sainte-Agathe",
+            "ro": "Chapelle Sainte-Agathe",
+            "en": "Chapelle Sainte-Agathe"
+          },
+          "coords": [
+            4.7063,
+            46.001246
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese kleine, friedliche Kapelle bietet einen ruhigen Rückzugsort mit schönen rustikalen Details, also nehmen Sie sich einen Moment Zeit, um die Stille abseits des Trubels zu genießen.",
+            "hu": "Ez a kis, békés kápolna nyugodt menedéket kínál gyönyörű rusztikus részletekkel, ezért szánjon egy percet arra, hogy élvezze a csendet a nyüzsgéstől távol.",
+            "ro": "Această mică și pașnică capelă oferă un refugiu liniștit, cu detalii rustice frumoase, așa că acordați-vă un moment pentru a vă bucura de liniște departe de agitație.",
+            "en": "This small, peaceful chapel offers a tranquil retreat with beautiful rustic details, so take a moment to enjoy the silence away from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des droits de l'enfant",
+            "hu": "Jardin des droits de l'enfant",
+            "ro": "Jardin des droits de l'enfant",
+            "en": "Jardin des droits de l'enfant"
+          },
+          "coords": [
+            4.716849,
+            45.987814
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem familienfreundlichen Park, der den Rechten der Kinder gewidmet ist, und packen Sie ein leichtes Picknick ein, um die schattigen Bänke optimal zu nutzen.",
+            "hu": "Pihenjen ebben a gyermekjogoknak szentelt, családbarát parkban, és csomagoljon egy könnyű pikniket, hogy a legtöbbet hozza ki az árnyékos padokból.",
+            "ro": "Relaxați-vă în acest parc prietenos cu familiile, dedicat drepturilor copiilor, și împachetați un picnic ușor pentru a profita la maximum de băncile umbrite.",
+            "en": "Relax in this family-friendly park dedicated to children's rights, and pack a light picnic to make the most of the shaded benches provided throughout."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Curé-d'Ars",
+            "hu": "Église Saint-Curé-d'Ars",
+            "ro": "Église Saint-Curé-d'Ars",
+            "en": "Église Saint-Curé-d'Ars"
+          },
+          "coords": [
+            4.705608,
+            45.984499
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Besonderheiten dieses sakralen Gebäudes, das nach einem verehrten französischen Heiligen benannt ist, und achten Sie auf die kunstvollen Glasfenster im Inneren.",
+            "hu": "Figyelje meg ennek a tisztelt francia szentről elnevezett szakrális épületnek az építészeti sajátosságait, és fordítson különös figyelmet a díszes ólomüveg ablakokra.",
+            "ro": "Observați trăsăturile arhitecturale ale acestei clădiri sacre, numite după un venerat sfânt francez, și acordați atenție vitraliilor ornate din interior.",
+            "en": "Observe the architectural features of this sacred building, named after a revered French saint, and pay special attention to the ornate stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gilles",
+            "hu": "Église Saint-Gilles",
+            "ro": "Église Saint-Gilles",
+            "en": "Église Saint-Gilles"
+          },
+          "coords": [
+            4.707653,
+            45.975125
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese tradition Kirche fasziniert durch ihre historische Atmosphäre und solide Bauweise; werfen Sie unbedingt einen Blick auf den markanten Glockenturm, bevor Sie weiterfahren.",
+            "hu": "Ez a hagyományos templom történelmi hangulatával és szilárd felépítésével lenyűgöző; mindenképpen vessen egy pillantást a jellegzetes harangtoronyra, mielőtt továbbhaladna.",
+            "ro": "Această biserică tradițională fascinează prin atmosfera sa istorică și construcția solidă; asigurați-vă că aruncați o privire la clopotnița distinctivă înainte de a merge mai departe.",
+            "en": "This traditional church fascinates with its historic atmosphere and solid construction; be sure to take a look at the distinctive bell tower before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Château de Saint-Fonds",
+            "hu": "Chapelle du Château de Saint-Fonds",
+            "ro": "Chapelle du Château de Saint-Fonds",
+            "en": "Chapelle du Château de Saint-Fonds"
+          },
+          "coords": [
+            4.688981,
+            45.974719
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Atmosphäre dieser Schlosskapelle, die eine tiefe historische Verbindung zur Region aufweist, und bringen Sie eine Kamera für die fotogene Steinfassade mit.",
+            "hu": "Fedezze fel ennek a kastélykápolnának a meghitt hangulatát, amely mély történelmi kapcsolattal rendelkezik a régióhoz, és hozzon magával fényképezőgépet a fotogén kőhomlokzathoz.",
+            "ro": "Descoperiți atmosfera intimă a acestei capele a castelului, care are o legătură istorică profundă cu regiunea, și aduceți o cameră foto pentru fațada de piatră fotogenică.",
+            "en": "Discover the intimate atmosphere of this castle chapel, which has a deep historical connection to the region, and bring a camera for the photogenic stone facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Gleizé auf dem Fahrrad, um mühelos zwischen den charmanten Kirchen, dem Schlosspark und den malerischen Kapellen der Stadt zu navigieren und dabei die frische Luft zu genießen.",
+        "hu": "Ismerje meg Gleizét kerékpárral, amellyel könnyedén navigálhat a bájos templomok, a kastélypark és a festői kápolnák között, miközben élvezi a friss levegőt.",
+        "ro": "Experimentați Gleizé pe bicicletă pentru a naviga fără efort între bisericile fermecătoare, parcul castelului și capelele pitorești ale orașului, bucurându-vă de aerul curat.",
+        "en": "Experience Gleizé on a bike to effortlessly navigate between the charming churches, the castle park, and the town's picturesque chapels while enjoying the fresh air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 14.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.69644,
+            45.989134
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser zentralen Kirche, die das Herz der Gemeinde bildet, und besuchen Sie sie am besten morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a közösség szívét alkotó központi templomnak az egyszerű, mégis méltóságteljes építészetét, és a legjobb fényviszonyok érdekében reggel látogassa meg.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei biserici centrale, care formează inima comunității, și vizitați-o de preferință dimineața pentru cea mai bună lumină.",
+            "en": "Admire the simple yet dignified architecture of this central church, which forms the heart of the community, and visit it preferably in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaurenard Castle",
+            "hu": "Vaurenard Castle",
+            "ro": "Vaurenard Castle",
+            "en": "Vaurenard Castle"
+          },
+          "coords": [
+            4.696203,
+            45.993995
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende historische Schloss mit seinen gepflegten Gärten, die von einer reichen Vergangenheit erzählen, und tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt a gazdag múltról mesélő, gondozott kertjeivel, és viseljen kényelmes cipőt a kiterjedt terület bejárásához.",
+            "ro": "Explorați acest fascinant castel istoric cu grădinile sale îngrijite care spun povestea unui trecut bogat și purtați pantofi confortabili pentru terenurile întinse.",
+            "en": "Explore this fascinating historic castle with its manicured gardens that tell of a rich past, and wear comfortable shoes for walking the extensive grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Agathe",
+            "hu": "Chapelle Sainte-Agathe",
+            "ro": "Chapelle Sainte-Agathe",
+            "en": "Chapelle Sainte-Agathe"
+          },
+          "coords": [
+            4.7063,
+            46.001246
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese kleine, friedliche Kapelle bietet einen ruhigen Rückzugsort mit schönen rustikalen Details, also nehmen Sie sich einen Moment Zeit, um die Stille abseits des Trubels zu genießen.",
+            "hu": "Ez a kis, békés kápolna nyugodt menedéket kínál gyönyörű rusztikus részletekkel, ezért szánjon egy percet arra, hogy élvezze a csendet a nyüzsgéstől távol.",
+            "ro": "Această mică și pașnică capelă oferă un refugiu liniștit, cu detalii rustice frumoase, așa că acordați-vă un moment pentru a vă bucura de liniște departe de agitație.",
+            "en": "This small, peaceful chapel offers a tranquil retreat with beautiful rustic details, so take a moment to enjoy the silence away from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des droits de l'enfant",
+            "hu": "Jardin des droits de l'enfant",
+            "ro": "Jardin des droits de l'enfant",
+            "en": "Jardin des droits de l'enfant"
+          },
+          "coords": [
+            4.716849,
+            45.987814
+          ],
+          "category": "family",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem familienfreundlichen Park, der den Rechten der Kinder gewidmet ist, und packen Sie ein leichtes Picknick ein, um die schattigen Bänke optimal zu nutzen.",
+            "hu": "Pihenjen ebben a gyermekjogoknak szentelt, családbarát parkban, és csomagoljon egy könnyű pikniket, hogy a legtöbbet hozza ki az árnyékos padokból.",
+            "ro": "Relaxați-vă în acest parc prietenos cu familiile, dedicat drepturilor copiilor, și împachetați un picnic ușor pentru a profita la maximum de băncile umbrite.",
+            "en": "Relax in this family-friendly park dedicated to children's rights, and pack a light picnic to make the most of the shaded benches provided throughout."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Curé-d'Ars",
+            "hu": "Église Saint-Curé-d'Ars",
+            "ro": "Église Saint-Curé-d'Ars",
+            "en": "Église Saint-Curé-d'Ars"
+          },
+          "coords": [
+            4.705608,
+            45.984499
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Besonderheiten dieses sakralen Gebäudes, das nach einem verehrten französischen Heiligen benannt ist, und achten Sie auf die kunstvollen Glasfenster im Inneren.",
+            "hu": "Figyelje meg ennek a tisztelt francia szentről elnevezett szakrális épületnek az építészeti sajátosságait, és fordítson különös figyelmet a díszes ólomüveg ablakokra.",
+            "ro": "Observați trăsăturile arhitecturale ale acestei clădiri sacre, numite după un venerat sfânt francez, și acordați atenție vitraliilor ornate din interior.",
+            "en": "Observe the architectural features of this sacred building, named after a revered French saint, and pay special attention to the ornate stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gilles",
+            "hu": "Église Saint-Gilles",
+            "ro": "Église Saint-Gilles",
+            "en": "Église Saint-Gilles"
+          },
+          "coords": [
+            4.707653,
+            45.975125
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese traditionelle Kirche fasziniert durch ihre historische Atmosphäre und solide Bauweise; werfen Sie unbedingt einen Blick auf den markanten Glockenturm, bevor Sie weiterfahren.",
+            "hu": "Ez a hagyományos templom történelmi hangulatával és szilárd felépítésével lenyűgöző; mindenképpen vessen egy pillantást a jellegzetes harangtoronyra, mielőtt továbbhaladna.",
+            "ro": "Această biserică tradițională fascinează prin atmosfera sa istorică și construcția solidă; asigurați-vă că aruncați o privire la clopotnița distinctivă înainte de a merge mai departe.",
+            "en": "This traditional church fascinates with its historic atmosphere and solid construction; be sure to take a look at the distinctive bell tower before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellerive Manor",
+            "hu": "Bellerive Manor",
+            "ro": "Bellerive Manor",
+            "en": "Bellerive Manor"
+          },
+          "coords": [
+            4.756786,
+            45.970739
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Eleganz dieses klassischen Herrenhauses, das von üppigen Ländereien umgeben ist, und prüfen Sie im Voraus die Zugangszeiten für Führungen durch das wunderschöne Anwesen.",
+            "hu": "Csodálja meg ennek az elegáns, klasszikus udvarháznak a pompáját, amelyet buja birtok vesz körül, és előzetesen ellenőrizze a vezetett túrák belépési időpontjait.",
+            "ro": "Admirați eleganța acestui conac clasic, care este înconjurat de moșii luxuriante, și verificați în prealabil orele de acces pentru tururile ghidate ale proprietății.",
+            "en": "Admire the elegance of this classic manor house, surrounded by lush estates, and check the access times in advance for guided tours of the beautiful property."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Château de Saint-Fonds",
+            "hu": "Chapelle du Château de Saint-Fonds",
+            "ro": "Chapelle du Château de Saint-Fonds",
+            "en": "Chapelle du Château de Saint-Fonds"
+          },
+          "coords": [
+            4.688981,
+            45.974719
+          ],
+          "category": "religious",
+          "arrive_at": "16:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Atmosphäre dieser Schlosskapelle, die eine tiefe historische Verbindung zur Region aufweist, und bringen Sie eine Kamera für die fotogene Steinfassade mit.",
+            "hu": "Fedezze fel ennek a kastélykápolnának a meghitt hangulatát, amely mély történelmi kapcsolattal rendelkezik a régióhoz, és hozzon magával fényképezőgépet a fotogén kőhomlokzathoz.",
+            "ro": "Descoperiți atmosfera intimă a acestei capele a castelului, care are o legătură istorică profundă cu regiunea, și aduceți o cameră foto pentru fațada de piatră fotogenică.",
+            "en": "Discover the intimate atmosphere of this castle chapel, which has a deep historical connection to the region, and bring a camera for the photogenic stone facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour maximiert Ihre Zeit in Gleizé und ermöglicht es Ihnen, sowohl das kompakte Zentrum als auch abgelegenere historische Schätze wie das prächtige Herrenhaus Bellerive zu besuchen.",
+        "hu": "Ez az autós túra maximalizálja az idejét Gleizében, lehetővé téve a kompakt központ és a távolabbi történelmi kincsek, például a pompás Bellerive udvarház meglátogatását.",
+        "ro": "Acest tur cu mașina vă maximizează timpul în Gleizé, permițându-vă să vizitați atât centrul compact, cât și comori istorice mai îndepărtate, cum ar fi magnificul conac Bellerive.",
+        "en": "This car tour maximizes your time in Gleizé, allowing you to visit both the compact center and more distant historical treasures like the magnificent Bellerive Manor."
+      }
+    }
+  }
+}

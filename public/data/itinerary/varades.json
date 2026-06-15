@@ -1,0 +1,520 @@
+{
+  "city_id": "varades",
+  "anchor": {
+    "name": "Varades",
+    "coords": [
+      -1.03,
+      47.3844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.030024,
+            47.385095
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche mit ihren feinen Details und beginnen Sie hier Ihren Tag, wenn das Morgenlicht die Fassade erhellt.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét és finom részleteit, és kezdje itt a napját, amikor a reggeli fény tökéletesen megvilágítja a homlokzatot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, observând detaliile sale complexe, și începeți ziua aici când lumina dimineții luminează fațada.",
+            "en": "Admire the striking architecture of this central church, noting its intricate details, and start your day here when morning light perfectly illuminates the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bourg",
+            "hu": "Château du Bourg",
+            "ro": "Château du Bourg",
+            "en": "Château du Bourg"
+          },
+          "coords": [
+            -1.031225,
+            47.384666
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieser reizvollen Burg, die als stiller Zeuge der lokalen Geschichte dient, und bringen Sie Ihre Kamera für die Steintürme mit.",
+            "hu": "Fedezze fel e bájos kastély robusztus falait, amely a helyi történelem néma tanúja, és ne felejtse el elhozni a fényképezőgépét a lenyűgöző kőtornyok megörökítéséhez.",
+            "ro": "Explorați zidurile robuste ale acestui castel fermecător, un martor tăcut al istoriei locale, și aduceți camera foto pentru a surprinde turnurile sale de piatră.",
+            "en": "Explore the robust walls of this charming castle which stands as a silent witness to local history, and bring your camera to capture its impressive stone towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mabiterie",
+            "hu": "Château de la Mabiterie",
+            "ro": "Château de la Mabiterie",
+            "en": "Château de la Mabiterie"
+          },
+          "coords": [
+            -1.028093,
+            47.381833
+          ],
+          "category": "castle",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der eleganten Fassade dieses historischen Anwesens vorbei, um seine Architektur zu würdigen, und betrachten Sie es am besten von den nahen Wegen.",
+            "hu": "Sétáljon el e történelmi birtok elegáns homlokzata mellett, hogy megcsodálja kifinomult építészetét, és próbálja meg a közeli ösvényekről szemügyre venni a legjobb kilátásért.",
+            "ro": "Plimbați-vă pe lângă fațada elegantă a acestei moșii istorice pentru a aprecia arhitectura rafinată și admirați-o de pe aleile din apropiere pentru cea mai bună perspectivă.",
+            "en": "Stroll past the elegant facade of this historic estate to appreciate its refined architecture, and try to view it from the nearby pathways for the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Briau",
+            "hu": "Palais Briau",
+            "ro": "Palais Briau",
+            "en": "Palais Briau"
+          },
+          "coords": [
+            -1.01995,
+            47.38063
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie die Pracht dieses herrlichen Palastes im italienischen Stil über der Loire und nehmen Sie an einer Führung teil, um seine industriellen Wurzeln zu verstehen.",
+            "hu": "Lépjen be ebbe a Loire-ra néző, csodálatos olasz stílusú palotába, és mindenképpen vegyen részt egy vezetett túrán, hogy megértse lenyűgöző ipari gyökereit.",
+            "ro": "Pășiți în măreția acestui palat magnific în stil italian cu vedere la Loara și asigurați-vă că faceți un tur ghidat pentru a înțelege pe deplin rădăcinile sale industriale.",
+            "en": "Step into the grandeur of this magnificent Italian-style palace overlooking the Loire, and make sure to take a guided tour to fully understand its industrial roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bonchamps",
+            "hu": "Square Bonchamps",
+            "ro": "Square Bonchamps",
+            "en": "Square Bonchamps"
+          },
+          "coords": [
+            -1.023099,
+            47.372081
+          ],
+          "category": "family",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem ruhigen, dem berühmten Vendée-General gewidmeten Platz und nutzen Sie die schattigen Bänke für ein kurzes Picknick oder eine Pause.",
+            "hu": "Pihenjen meg ezen a híres vendée-i tábornoknak szentelt békés téren, és használja az árnyékos padokat egy gyors déli piknikhez vagy egy kellemes családi pihenéshez.",
+            "ro": "Relaxați-vă în această piață pașnică dedicată celebrului general din Vendée și folosiți băncile umbrite ca loc perfect pentru un picnic rapid sau o odihnă în familie.",
+            "en": "Relax in this peaceful square dedicated to the famous Vendéen general, and use the shaded benches as a perfect spot for a quick midday picnic or family rest stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Église Saint-Pierre und sorgt für Ruhe, bevor Sie zum Château du Bourg und zur Mabiterie schlendern. Mittags erreichen Sie das prächtige Palais Briau, wo Sie italienische Architektur mit Blick auf die Loire bewundern können. Am Nachmittag lassen Sie Ihren Spaziergang am Square Bonchamps ausklingen und denken über das lokale Erbe nach. Der Abend eignet sich perfekt für ein gemütliches Essen in Varades.",
+        "hu": "A reggel az Église Saint-Pierre-nél kezdődik, mielőtt a Château du Bourg és a Mabiterie felé sétálna. Délben elérkezik a csodálatos Palais Briau-hoz, ahol megcsodálhatja a Loire-ra néző elegáns olasz építészetet. Délután a Square Bonchamps-on fejezheti be gyalogos túráját, elgondolkodva a gazdag helyi örökségen. Az este tökéletes egy kellemes és kényelmes vacsorához Varades bájos városában.",
+        "ro": "Dimineața începe la Église Saint-Pierre, oferind un ton liniștit înainte de a vă plimba spre Château du Bourg și Mabiterie. La amiază ajungeți la magnificul Palais Briau, unde puteți explora arhitectura italiană elegantă cu vedere la râul Loara. După-amiaza, încheiați turul de plimbare la Square Bonchamps, reflectând asupra moștenirii locale. Seara este perfectă pentru o cină relaxantă în orașul Varades.",
+        "en": "Morning begins at Église Saint-Pierre, setting a tranquil tone before you stroll towards the historic Château du Bourg and Château de la Mabiterie. Midday brings you to the magnificent Palais Briau, where you can delve into elegant Italianate architecture overlooking the Loire River. In the afternoon, wind down your walking tour at Square Bonchamps, reflecting on the rich local heritage. The evening is perfect for a leisurely dinner in Varades."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.030024,
+            47.385095
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche mit ihren feinen Details und beginnen Sie hier Ihren Tag, wenn das Morgenlicht die Fassade erhellt.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét és finom részleteit, és kezdje itt a napját, amikor a reggeli fény tökéletesen megvilágítja a homlokzatot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, observând detaliile sale complexe, și începeți ziua aici când lumina dimineții luminează fațada.",
+            "en": "Admire the striking architecture of this central church, noting its intricate details, and start your day here when morning light perfectly illuminates the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bourg",
+            "hu": "Château du Bourg",
+            "ro": "Château du Bourg",
+            "en": "Château du Bourg"
+          },
+          "coords": [
+            -1.031225,
+            47.384666
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieser reizvollen Burg, die als stiller Zeuge der lokalen Geschichte dient, und bringen Sie Ihre Kamera für die Steintürme mit.",
+            "hu": "Fedezze fel e bájos kastély robusztus falait, amely a helyi történelem néma tanúja, és ne felejtse el elhozni a fényképezőgépét a lenyűgöző kőtornyok megörökítéséhez.",
+            "ro": "Explorați zidurile robuste ale acestui castel fermecător, un martor tăcut al istoriei locale, și aduceți camera foto pentru a surprinde turnurile sale de piatră.",
+            "en": "Explore the robust walls of this charming castle which stands as a silent witness to local history, and bring your camera to capture its impressive stone towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mabiterie",
+            "hu": "Château de la Mabiterie",
+            "ro": "Château de la Mabiterie",
+            "en": "Château de la Mabiterie"
+          },
+          "coords": [
+            -1.028093,
+            47.381833
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der eleganten Fassade dieses historischen Anwesens vorbei, um seine Architektur zu würdigen, und betrachten Sie es am besten von den nahen Wegen.",
+            "hu": "Sétáljon el e történelmi birtok elegáns homlokzata mellett, hogy megcsodálja kifinomult építészetét, és próbálja meg a közeli ösvényekről szemügyre venni a legjobb kilátásért.",
+            "ro": "Plimbați-vă pe lângă fațada elegantă a acestei moșii istorice pentru a aprecia arhitectura rafinată și admirați-o de pe aleile din apropiere pentru cea mai bună perspectivă.",
+            "en": "Stroll past the elegant facade of this historic estate to appreciate its refined architecture, and try to view it from the nearby pathways for the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Briau",
+            "hu": "Palais Briau",
+            "ro": "Palais Briau",
+            "en": "Palais Briau"
+          },
+          "coords": [
+            -1.01995,
+            47.38063
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie die Pracht dieses herrlichen Palastes im italienischen Stil über der Loire und nehmen Sie an einer Führung teil, um seine industriellen Wurzeln zu verstehen.",
+            "hu": "Lépjen be ebbe a Loire-ra néző, csodálatos olasz stílusú palotába, és mindenképpen vegyen részt egy vezetett túrán, hogy megértse lenyűgöző ipari gyökereit.",
+            "ro": "Pășiți în măreția acestui palat magnific în stil italian cu vedere la Loara și asigurați-vă că faceți un tur ghidat pentru a înțelege pe deplin rădăcinile sale industriale.",
+            "en": "Step into the grandeur of this magnificent Italian-style palace overlooking the Loire, and make sure to take a guided tour to fully understand its industrial roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bonchamps",
+            "hu": "Square Bonchamps",
+            "ro": "Square Bonchamps",
+            "en": "Square Bonchamps"
+          },
+          "coords": [
+            -1.023099,
+            47.372081
+          ],
+          "category": "family",
+          "arrive_at": "13:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem ruhigen, dem berühmten Vendée-General gewidmeten Platz und nutzen Sie die schattigen Bänke für ein kurzes Picknick oder eine Pause.",
+            "hu": "Pihenjen meg ezen a híres vendée-i tábornoknak szentelt békés téren, és használja az árnyékos padokat egy gyors déli piknikhez vagy egy kellemes családi pihenéshez.",
+            "ro": "Relaxați-vă în această piață pașnică dedicată celebrului general din Vendée și folosiți băncile umbrite ca loc perfect pentru un picnic rapid sau o odihnă în familie.",
+            "en": "Relax in this peaceful square dedicated to the famous Vendéen general, and use the shaded benches as a perfect spot for a quick midday picnic or family rest stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbatiale Saint-Florent",
+            "hu": "Abbatiale Saint-Florent",
+            "ro": "Abbatiale Saint-Florent",
+            "en": "Abbatiale Saint-Florent"
+          },
+          "coords": [
+            -1.019246,
+            47.364118
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Erbe dieser markanten Abteikirche mit ihrer überragenden Präsenz und betrachten Sie bei Ihrem Besuch die atemberaubenden Buntglasfenster.",
+            "hu": "Fedezze fel e kiemelkedő apátsági templom spirituális örökségét és tornyosuló jelenlétét, és látogatása során mindenképpen vegye szemügyre a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Descoperiți moștenirea spirituală a acestei biserici abațiale proeminente și priviți cu mare atenție vitraliile uimitoare în timpul vizitei dumneavoastră relaxante.",
+            "en": "Discover the spiritual heritage of this prominent abbey church with its towering presence, and look closely at the stunning stained glass windows during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne de la Duchesse d'Angoulême",
+            "hu": "Colonne de la Duchesse d'Angoulême",
+            "ro": "Colonne de la Duchesse d'Angoulême",
+            "en": "Colonne de la Duchesse d'Angoulême"
+          },
+          "coords": [
+            -1.021523,
+            47.363981
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dieser historischen Säule am Flussufer, die die königliche Geschichte ehrt, und besuchen Sie sie am späten Nachmittag für warme Sonnenuntergangsfarben.",
+            "hu": "Álljon meg a folyóparti királyi történelmet tisztelő oszlop előtt, és látogasson el ide késő délután, hogy láthassa a meleg naplemente árnyalataiban fürdőző köveket.",
+            "ro": "Stați în fața acestei coloane istorice de pe malul râului care onorează istoria regală și vizitați-o spre seară pentru a vedea piatra scăldată în nuanțe calde de apus.",
+            "en": "Stand before this historic column honoring royal history by the riverbank, and visit in the late afternoon to see the stone beautifully bathed in warm sunset hues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der Église Saint-Pierre los und erreichen Sie in der frischen Morgenluft schnell das Château du Bourg und die Mabiterie. Mittags erwartet Sie das Palais Briau, bevor Sie eine Pause am Square Bonchamps einlegen. Nachmittags fahren Sie zur Abbatiale Saint-Florent und zur monumentalen Colonne de la Duchesse d'Angoulême. Verbringen Sie den Abend damit, Ihre Beine in der Nähe der sanften Loire auszuruhen.",
+        "hu": "Induljon el kerékpárral az Église Saint-Pierre-től, és a friss reggeli levegőn gyorsan elérje a Château du Bourg és a Mabiterie ősi falait. Délben a Palais Briau-hoz érkezik egy adag grandiózus építészetért, majd megpihen a Square Bonchamps-on. A délutáni tekerés az Abbatiale Saint-Florent-hoz és a Duchesse d'Angoulême oszlopához viszi. Töltse az estét a lábai pihentetésével a csendes Loire folyó közelében.",
+        "ro": "Porniți cu bicicleta de la Église Saint-Pierre, ajungând rapid la zidurile vechi ale Château du Bourg și Mabiterie în aerul dimineții. La amiază mergeți la Palais Briau pentru arhitectură grandioasă înainte de o pauză la Square Bonchamps. Ciclismul de după-amiază vă aduce la Abbatiale Saint-Florent și monumentala Colonne de la Duchesse d'Angoulême. Petreceți seara odihnindu-vă picioarele aproape de blânda Loara.",
+        "en": "Pedal out from Église Saint-Pierre, quickly reaching the ancient walls of Château du Bourg and Château de la Mabiterie in the crisp morning air. Midday takes you to Palais Briau for a dose of grand architecture before a peaceful break at Square Bonchamps. Afternoon cycling brings you to the towering Abbatiale Saint-Florent and the monumental Colonne de la Duchesse d'Angoulême. Spend the evening resting your legs near the gentle Loire."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.030024,
+            47.385095
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche mit ihren feinen Details und beginnen Sie hier Ihren Tag, wenn das Morgenlicht die Fassade erhellt.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét és finom részleteit, és kezdje itt a napját, amikor a reggeli fény tökéletesen megvilágítja a homlokzatot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, observând detaliile sale complexe, și începeți ziua aici când lumina dimineții luminează fațada.",
+            "en": "Admire the striking architecture of this central church, noting its intricate details, and start your day here when morning light perfectly illuminates the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bourg",
+            "hu": "Château du Bourg",
+            "ro": "Château du Bourg",
+            "en": "Château du Bourg"
+          },
+          "coords": [
+            -1.031225,
+            47.384666
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieser reizvollen Burg, die als stiller Zeuge der lokalen Geschichte dient, und bringen Sie Ihre Kamera für die Steintürme mit.",
+            "hu": "Fedezze fel e bájos kastély robusztus falait, amely a helyi történelem néma tanúja, és ne felejtse el elhozni a fényképezőgépét a lenyűgöző kőtornyok megörökítéséhez.",
+            "ro": "Explorați zidurile robuste ale acestui castel fermecător, un martor tăcut al istoriei locale, și aduceți camera foto pentru a surprinde turnurile sale de piatră.",
+            "en": "Explore the robust walls of this charming castle which stands as a silent witness to local history, and bring your camera to capture its impressive stone towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mabiterie",
+            "hu": "Château de la Mabiterie",
+            "ro": "Château de la Mabiterie",
+            "en": "Château de la Mabiterie"
+          },
+          "coords": [
+            -1.028093,
+            47.381833
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der eleganten Fassade dieses historischen Anwesens vorbei, um seine Architektur zu würdigen, und betrachten Sie es am besten von den nahen Wegen.",
+            "hu": "Sétáljon el e történelmi birtok elegáns homlokzata mellett, hogy megcsodálja kifinomult építészetét, és próbálja meg a közeli ösvényekről szemügyre venni a legjobb kilátásért.",
+            "ro": "Plimbați-vă pe lângă fațada elegantă a acestei moșii istorice pentru a aprecia arhitectura rafinată și admirați-o de pe aleile din apropiere pentru cea mai bună perspectivă.",
+            "en": "Stroll past the elegant facade of this historic estate to appreciate its refined architecture, and try to view it from the nearby pathways for the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Briau",
+            "hu": "Palais Briau",
+            "ro": "Palais Briau",
+            "en": "Palais Briau"
+          },
+          "coords": [
+            -1.01995,
+            47.38063
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie die Pracht dieses herrlichen Palastes im italienischen Stil über der Loire und nehmen Sie an einer Führung teil, um seine industriellen Wurzeln zu verstehen.",
+            "hu": "Lépjen be ebbe a Loire-ra néző, csodálatos olasz stílusú palotába, és mindenképpen vegyen részt egy vezetett túrán, hogy megértse lenyűgöző ipari gyökereit.",
+            "ro": "Pășiți în măreția acestui palat magnific în stil italian cu vedere la Loara și asigurați-vă că faceți un tur ghidat pentru a înțelege pe deplin rădăcinile sale industriale.",
+            "en": "Step into the grandeur of this magnificent Italian-style palace overlooking the Loire, and make sure to take a guided tour to fully understand its industrial roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Lande",
+            "hu": "Château de la Lande",
+            "ro": "Château de la Lande",
+            "en": "Château de la Lande"
+          },
+          "coords": [
+            -1.011287,
+            47.403954
+          ],
+          "category": "castle",
+          "arrive_at": "13:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Verlassen Sie die Stadt, um dieses malerische ländliche Schloss auf dem Land zu sehen, und denken Sie daran, dass die Straßen der Umgebung tolle Fotomotive bieten.",
+            "hu": "Hagyja el a fővárost, hogy megtekinthesse ezt a vidéken megbúvó festői kastélyt, és ne feledje, hogy a festői környező utak kiváló és egyedi fotózási lehetőségeket kínálnak.",
+            "ro": "Evadați din orașul principal pentru a vedea acest castel rural pitoresc ascuns în mediul rural și rețineți că drumurile panoramice din jur oferă oportunități foto excelente.",
+            "en": "Escape the main town to view this picturesque rural castle tucked away in the countryside, and keep in mind that the scenic surrounding roads offer great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bonchamps",
+            "hu": "Square Bonchamps",
+            "ro": "Square Bonchamps",
+            "en": "Square Bonchamps"
+          },
+          "coords": [
+            -1.023099,
+            47.372081
+          ],
+          "category": "family",
+          "arrive_at": "14:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem ruhigen, dem berühmten Vendée-General gewidmeten Platz und nutzen Sie die schattigen Bänke für ein kurzes Picknick oder eine Pause.",
+            "hu": "Pihenjen meg ezen a híres vendée-i tábornoknak szentelt békés téren, és használja az árnyékos padokat egy gyors déli piknikhez vagy egy kellemes családi pihenéshez.",
+            "ro": "Relaxați-vă în această piață pașnică dedicată celebrului general din Vendée și folosiți băncile umbrite ca loc perfect pentru un picnic rapid sau o odihnă în familie.",
+            "en": "Relax in this peaceful square dedicated to the famous Vendéen general, and use the shaded benches as a perfect spot for a quick midday picnic or family rest stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbatiale Saint-Florent",
+            "hu": "Abbatiale Saint-Florent",
+            "ro": "Abbatiale Saint-Florent",
+            "en": "Abbatiale Saint-Florent"
+          },
+          "coords": [
+            -1.019246,
+            47.364118
+          ],
+          "category": "landmark",
+          "arrive_at": "14:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Erbe dieser markanten Abteikirche mit ihrer überragenden Präsenz und betrachten Sie bei Ihrem Besuch die atemberaubenden Buntglasfenster.",
+            "hu": "Fedezze fel e kiemelkedő apátsági templom spirituális örökségét és tornyosuló jelenlétét, és látogatása során mindenképpen vegye szemügyre a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Descoperiți moștenirea spirituală a acestei biserici abațiale proeminente și priviți cu mare atenție vitraliile uimitoare în timpul vizitei dumneavoastră relaxante.",
+            "en": "Discover the spiritual heritage of this prominent abbey church with its towering presence, and look closely at the stunning stained glass windows during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne de la Duchesse d'Angoulême",
+            "hu": "Colonne de la Duchesse d'Angoulême",
+            "ro": "Colonne de la Duchesse d'Angoulême",
+            "en": "Colonne de la Duchesse d'Angoulême"
+          },
+          "coords": [
+            -1.021523,
+            47.363981
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dieser historischen Säule am Flussufer, die die königliche Geschichte ehrt, und besuchen Sie sie am späten Nachmittag für warme Sonnenuntergangsfarben.",
+            "hu": "Álljon meg a folyóparti királyi történelmet tisztelő oszlop előtt, és látogasson el ide késő délután, hogy láthassa a meleg naplemente árnyalataiban fürdőző köveket.",
+            "ro": "Stați în fața acestei coloane istorice de pe malul râului care onorează istoria regală și vizitați-o spre seară pentru a vedea piatra scăldată în nuanțe calde de apus.",
+            "en": "Stand before this historic column honoring royal history by the riverbank, and visit in the late afternoon to see the stone beautifully bathed in warm sunset hues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der Église Saint-Pierre mit kurzen historischen Stopps an den nahegelegenen Schlössern Bourg und Mabiterie. Mittags besichtigen Sie das Palais Briau, bevor Sie hinausfahren, um das Château de la Lande zu fotografieren. Nachmittags kehren Sie zum Fluss zurück, um den Square Bonchamps, die Abtei und die Herzogin-Säule zu besuchen. Beenden Sie Ihren Abend mit einem Spaziergang am Fluss.",
+        "hu": "Kezdje a festői autózást az Église Saint-Pierre-nél, majd álljon meg a közeli Bourg és Mabiterie kastélyoknál. Délben látogasson el a Palais Briau-ba, mielőtt a vidéki tájra hajtana, hogy lefotózza a Château de la Lande-t. Délután térjen vissza a folyó felé, és látogassa meg a Square Bonchamps-ot, az apátságot és az Angoulême hercegnő oszlopát. Fejezze be az estét egy kellemes naplementés sétával a part mentén.",
+        "ro": "Începeți traseul pitoresc cu mașina la Église Saint-Pierre, făcând scurte opriri istorice la castelele Bourg și Mabiterie. La amiază, vizitați Palais Briau înainte de a conduce spre mediul rural pitoresc pentru a fotografia Château de la Lande. După-amiaza, întoarceți-vă spre râu pentru a vizita Square Bonchamps, abația și coloana Ducesei de Angoulême. Încheiați seara cu o plimbare la apus pe malul râului.",
+        "en": "Start your scenic drive at Église Saint-Pierre, making quick historical stops at the nearby Bourg and Mabiterie castles. By midday, tour the majestic Palais Briau before driving out to the picturesque rural landscape to photograph Château de la Lande. In the afternoon, return toward the river to visit Square Bonchamps, the abbey, and the Duchess of Angoulême column. Conclude your evening with a sunset stroll by the riverbanks."
+      }
+    }
+  }
+}

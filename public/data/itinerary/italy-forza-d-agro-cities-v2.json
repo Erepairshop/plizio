@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-forza-d-agro-cities-v2",
+  "anchor": {
+    "name": "Forza d'Agrò",
+    "coords": [
+      15.33545,
+      37.91372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+          },
+          "coords": [
+            15.335446,
+            37.913683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den typisch sizilianischen Charme in einem der schönsten Dörfer Italiens und tragen Sie bequeme Schuhe für die historischen, gepflasterten Gassen.",
+            "hu": "Fedezze fel a jellegzetes szicíliai bájt Olaszország egyik legszebb falvában, és viseljen kényelmes cipőt a történelmi macskaköves sikátorok bejárásához.",
+            "ro": "Descoperiți farmecul sicilian autentic într-unul dintre cele mai frumoase sate din Italia și purtați încălțăminte comodă pentru aleile pietruite istorice.",
+            "en": "Discover the quintessential Sicilian charm in one of Italy's most beautiful villages, and wear comfortable shoes to navigate the historic cobbled alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Santissima Trinità",
+            "hu": "Chiesa della Santissima Trinità",
+            "ro": "Chiesa della Santissima Trinità",
+            "en": "Chiesa della Santissima Trinità"
+          },
+          "coords": [
+            15.335957,
+            37.914707
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und ruhige Atmosphäre dieser alten Kirche, am besten in den frühen Morgenstunden, um große Touristengruppen zu meiden.",
+            "hu": "Csodálja meg a régi templom lenyűgöző építészetét és békés légkörét, de érdemes kora reggel érkezni, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera senină a acestei biserici vechi, de preferat la primele ore ale dimineții pentru a evita aglomerația.",
+            "en": "Admire the striking architecture and serene atmosphere of this ancient church, making sure to visit during early morning hours to avoid large tourist groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Santissima Annunziata",
+            "hu": "Chiesa della Santissima Annunziata",
+            "ro": "Chiesa della Santissima Annunziata",
+            "en": "Chiesa della Santissima Annunziata"
+          },
+          "coords": [
+            15.334252,
+            37.914732
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschöne religiöse Wahrzeichen mit seinem kunstvollen Inneren und denken Sie an angemessene Kleidung aus Respekt vor den Traditionen.",
+            "hu": "Lépjen be ebbe a gyönyörű, bonyolult belső teréről híres vallási emlékhelyre, és ne feledkezzen meg a szerény öltözködésről a helyi hagyományok tisztelete miatt.",
+            "ro": "Pășiți în acest frumos monument religios renumit pentru interiorul său elaborat și amintiți-vă să purtați o ținută decentă în semn de respect pentru tradiții.",
+            "en": "Step inside this beautiful religious landmark renowned for its intricate interior, and remember to dress modestly out of respect for the local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Padrino",
+            "hu": "Casa del Padrino",
+            "ro": "Casa del Padrino",
+            "en": "Casa del Padrino"
+          },
+          "coords": [
+            15.333262,
+            37.915178
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sehen Sie das berühmte Haus aus den Paten-Filmen, um Kinogeschichte zu erleben, wobei zu beachten ist, dass es meist nur von außen fotografiert wird.",
+            "hu": "Nézze meg a Keresztapa filmekben szereplő híres házat a mozitörténelem átéléséhez, bár tartsa szem előtt, hogy leginkább csak kívülről fotózható.",
+            "ro": "Vedeți faimoasa casă apărută în filmele Nașul pentru a retrăi istoria cinematografiei, deși țineți cont că se poate admira mai mult de la exterior.",
+            "en": "See the famous house featured in The Godfather movies to relive cinematic history, though keep in mind it is mostly viewed from the outside for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Forza d'Agrò",
+            "hu": "Castello di Forza d'Agrò",
+            "ro": "Castello di Forza d'Agrò",
+            "en": "Castello di Forza d'Agrò"
+          },
+          "coords": [
+            15.331372,
+            37.916831
+          ],
+          "category": "castle",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser historischen Burg hinauf für atemberaubende Panoramablicke auf die Küste, aber seien Sie vorsichtig auf den steilen Wegen.",
+            "hu": "Másszon fel a történelmi vár romjaihoz a tengerpartra nyíló lélegzetelállító panorámáért, de legyen óvatos, mert az ösvények egyenetlenek és meredekek.",
+            "ro": "Urcați la ruinele acestui castel istoric pentru a avea vederi panoramice uluitoare asupra coastei, dar fiți precauți, deoarece potecile sunt inegale și abrupte.",
+            "en": "Climb up to the ruins of this historic castle for breathtaking panoramic views of the coastline, but be cautious as the pathways can be uneven and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico lavatorio Forzese",
+            "hu": "Antico lavatorio Forzese",
+            "ro": "Antico lavatorio Forzese",
+            "en": "Antico lavatorio Forzese"
+          },
+          "coords": [
+            15.329088,
+            37.922161
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie ein Stück historischen Alltags an diesem alten öffentlichen Waschhaus, das in einer ruhigen Straße versteckt liegt und tolle Fotomotive bietet.",
+            "hu": "Tapasztalja meg a mindennapi történelmi életet ezen az ősi nyilvános mosóhelyen, amely egy csendes utcában bújik meg, és remek fotózási lehetőségeket kínál.",
+            "ro": "Experimentați o parte din viața istorică de zi cu zi la această veche spălătorie publică, ascunsă pe o stradă liniștită, care oferă oportunități foto excelente.",
+            "en": "Experience a slice of daily historic life at this ancient public washhouse, which is hidden away on a quiet street and offers great photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften historischen Zentrum, wo man den architektonischen Charme und die alten Kirchen entdeckt. Mittags erkunden Sie die Kinogeschichte und die imposanten Ruinen der normannischen Burg mit herrlichem Ausblick. Der Nachmittag ist versteckten historischen Orten gewidmet, die durch ruhige Gassen erreichbar sind. Der Abend endet mit friedlichen Momenten und Blick auf das Ionische Meer.",
+        "hu": "A reggel a nyüzsgő történelmi központban kezdődik, ahol felfedezzük az építészeti varázst és a falu arculatát meghatározó ősi templomokat. A telet a mozi történetének és a normann vár elsöprő kilátást nyújtó impozáns romjainak felfedezésével töltjük. A délután folyamán a rejtett örökségi helyszínek kerülnek előtérbe, csendes sikátorokon keresztül. Az este békés elmélkedéssel zárul a Jón-tengerre nézve.",
+        "ro": "Dimineața începe în centrul istoric vibrant, absorbind farmecul arhitectural și descoperind bisericile antice. La amiază explorăm istoria cinematografică și ruinele impunătoare ale castelului normand care oferă o panoramă uimitoare. După-amiaza face tranziția către locurile de patrimoniu ascunse, plimbându-ne pe străduțele liniștite. Seara se încheie cu reflecții pașnice, privind spre Marea Ionică.",
+        "en": "Morning begins in the vibrant historic center, soaking in the architectural charm and discovering the ancient churches that define the village. Midday is spent exploring cinematic history and the imposing ruins of the Norman castle with sweeping views. The afternoon transitions to finding the hidden heritage spots, winding down through the quiet alleys. Evening concludes with peaceful reflections overlooking the Ionian Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+          },
+          "coords": [
+            15.335446,
+            37.913683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den typisch sizilianischen Charme in einem der schönsten Dörfer Italiens und tragen Sie bequeme Schuhe für die historischen, gepflasterten Gassen.",
+            "hu": "Fedezze fel a jellegzetes szicíliai bájt Olaszország egyik legszebb falvában, és viseljen kényelmes cipőt a történelmi macskaköves sikátorok bejárásához.",
+            "ro": "Descoperiți farmecul sicilian autentic într-unul dintre cele mai frumoase sate din Italia și purtați încălțăminte comodă pentru aleile pietruite istorice.",
+            "en": "Discover the quintessential Sicilian charm in one of Italy's most beautiful villages, and wear comfortable shoes to navigate the historic cobbled alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Padrino",
+            "hu": "Casa del Padrino",
+            "ro": "Casa del Padrino",
+            "en": "Casa del Padrino"
+          },
+          "coords": [
+            15.333262,
+            37.915178
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Sehen Sie das berühmte Haus aus den Paten-Filmen, um Kinogeschichte zu erleben, wobei zu beachten ist, dass es meist nur von außen fotografiert wird.",
+            "hu": "Nézze meg a Keresztapa filmekben szereplő híres házat a mozitörténelem átéléséhez, bár tartsa szem előtt, hogy leginkább csak kívülről fotózható.",
+            "ro": "Vedeți faimoasa casă apărută în filmele Nașul pentru a retrăi istoria cinematografiei, deși țineți cont că se poate admira mai mult de la exterior.",
+            "en": "See the famous house featured in The Godfather movies to relive cinematic history, though keep in mind it is mostly viewed from the outside for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Forza d'Agrò",
+            "hu": "Castello di Forza d'Agrò",
+            "ro": "Castello di Forza d'Agrò",
+            "en": "Castello di Forza d'Agrò"
+          },
+          "coords": [
+            15.331372,
+            37.916831
+          ],
+          "category": "castle",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser historischen Burg hinauf für atemberaubende Panoramablicke auf die Küste, aber seien Sie vorsichtig auf den steilen Wegen.",
+            "hu": "Másszon fel a történelmi vár romjaihoz a tengerpartra nyíló lélegzetelállító panorámáért, de legyen óvatos, mert az ösvények egyenetlenek és meredekek.",
+            "ro": "Urcați la ruinele acestui castel istoric pentru a avea vederi panoramice uluitoare asupra coastei, dar fiți precauți, deoarece potecile sunt inegale și abrupte.",
+            "en": "Climb up to the ruins of this historic castle for breathtaking panoramic views of the coastline, but be cautious as the pathways can be uneven and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Fornaci in calce di zolla",
+            "hu": "Fornaci in calce di zolla",
+            "ro": "Fornaci in calce di zolla",
+            "en": "Fornaci in calce di zolla"
+          },
+          "coords": [
+            15.345352,
+            37.911685
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden traditionellen Kalköfen, um das industrielle Erbe zu verstehen, und bringen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Fedezze fel ezeket a lenyűgöző hagyományos mészégető kemencéket a helyi ipari örökség megismeréséhez, és hozzon nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Explorați aceste cuptoare tradiționale de var pentru a înțelege patrimoniul industrial local și aduceți un obiectiv cu unghi larg pentru fotografii depline.",
+            "en": "Explore these fascinating traditional lime kilns to understand local industrial heritage, and bring a wide-angle lens to capture the unique structures fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Carmelo",
+            "hu": "Grotta del Carmelo",
+            "ro": "Grotta del Carmelo",
+            "en": "Grotta del Carmelo"
+          },
+          "coords": [
+            15.345513,
+            37.914459
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser malerischen Küstenhöhle bei der Beobachtung der natürlichen Felsformationen und prüfen Sie die Gezeiten, bevor Sie hinabsteigen.",
+            "hu": "Találja meg a nyugalmat ebben a festői tengerparti barlangban a természetes sziklaképződményeket figyelve, de előtte ellenőrizze az árapály idejét.",
+            "ro": "Găsiți liniștea în această peșteră de coastă pitorească observând formațiunile de stâncă naturale și verificați orele mareelor înainte de a coborî.",
+            "en": "Find tranquility at this scenic coastal cave by observing its natural rock formations, and ensure you check the tide times before venturing down to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Forza d'Agrò Beach",
+            "hu": "Forza d'Agrò Beach",
+            "ro": "Forza d'Agrò Beach",
+            "en": "Forza d'Agrò Beach"
+          },
+          "coords": [
+            15.337664,
+            37.907
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses unberührten Kieselstrandes unter der Mittelmeersonne und packen Sie Badeschuhe ein, da die Steine scharf sind.",
+            "hu": "Pihenjen meg ennek az érintetlen kavicsos strandnak a partján a mediterrán napsütésben, és vigyen magával vizicipőt, mert a kövek meglehetősen élesek.",
+            "ro": "Relaxați-vă pe malurile acestei plaje cu pietriș sub soarele mediteranean și luați încălțăminte de apă deoarece pietrele pot fi destul de ascuțite.",
+            "en": "Relax on the shores of this pristine pebble beach to soak up the Mediterranean sun, and pack water shoes as the stones can be quite sharp underfoot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Fahrt im malerischen Bergdorf und genießen die ikonischen Plätze und klassischen Drehorte. Mittags erreichen wir die historische Festung, bevor es eine rasante Abfahrt zu den industriellen Relikten an der Küste gibt. Der Nachmittag ist der Erkundung von Küstenhöhlen gewidmet. Der Abend lädt zur Entspannung am Strand ein, während man dem beruhigenden Rauschen des Meeres lauscht.",
+        "hu": "Utunkat a gyönyörű dombtetői faluban kezdjük, megcsodálva az ikonikus tereket és a klasszikus filmes helyszíneket. Délben a történelmi erődítményhez érkezünk, majd izgalmas ereszkedés következik a tengerparti ipari emlékek felé. A délutánt a parti barlangok és a zord partvonal felfedezésének szenteljük. Az este a tengerparti pihenésre invitál a mediterrán hullámok hangjával.",
+        "ro": "Ne începem cursa în frumosul sat de pe colină, admirând piețele iconice și locațiile cinematografice clasice. Amiaza ne aduce la fortăreața istorică înainte de o coborâre antrenantă spre relicvele industriale de pe coastă. După-amiaza este dedicată explorării peșterilor de coastă și țărmului stâncos. Seara ne invită la relaxare pe plajă, bucurându-ne de sunetul mării Mediterane.",
+        "en": "We start our ride in the beautiful hilltop village, taking in the iconic squares and classic cinematic locations. Midday brings us to the historic hilltop fortress before an exhilarating descent towards the coastal industrial relics. The afternoon is dedicated to exploring coastal caves and the rugged shoreline. Evening invites relaxation by the beach, enjoying the calming sound of the Mediterranean waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+            "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+          },
+          "coords": [
+            15.335446,
+            37.913683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den typisch sizilianischen Charme in einem der schönsten Dörfer Italiens und tragen Sie bequeme Schuhe für die historischen, gepflasterten Gassen.",
+            "hu": "Fedezze fel a jellegzetes szicíliai bájt Olaszország egyik legszebb falvában, és viseljen kényelmes cipőt a történelmi macskaköves sikátorok bejárásához.",
+            "ro": "Descoperiți farmecul sicilian autentic într-unul dintre cele mai frumoase sate din Italia și purtați încălțăminte comodă pentru aleile pietruite istorice.",
+            "en": "Discover the quintessential Sicilian charm in one of Italy's most beautiful villages, and wear comfortable shoes to navigate the historic cobbled alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Forza d'Agrò",
+            "hu": "Castello di Forza d'Agrò",
+            "ro": "Castello di Forza d'Agrò",
+            "en": "Castello di Forza d'Agrò"
+          },
+          "coords": [
+            15.331372,
+            37.916831
+          ],
+          "category": "castle",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser historischen Burg hinauf für atemberaubende Panoramablicke auf die Küste, aber seien Sie vorsichtig auf den steilen Wegen.",
+            "hu": "Másszon fel a történelmi vár romjaihoz a tengerpartra nyíló lélegzetelállító panorámáért, de legyen óvatos, mert az ösvények egyenetlenek és meredekek.",
+            "ro": "Urcați la ruinele acestui castel istoric pentru a avea vederi panoramice uluitoare asupra coastei, dar fiți precauți, deoarece potecile sunt inegale și abrupte.",
+            "en": "Climb up to the ruins of this historic castle for breathtaking panoramic views of the coastline, but be cautious as the pathways can be uneven and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico lavatorio Forzese",
+            "hu": "Antico lavatorio Forzese",
+            "ro": "Antico lavatorio Forzese",
+            "en": "Antico lavatorio Forzese"
+          },
+          "coords": [
+            15.329088,
+            37.922161
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie ein Stück historischen Alltags an diesem alten öffentlichen Waschhaus, das in einer ruhigen Straße versteckt liegt und tolle Fotomotive bietet.",
+            "hu": "Tapasztalja meg a mindennapi történelmi életet ezen az ősi nyilvános mosóhelyen, amely egy csendes utcában bújik meg, és remek fotózási lehetőségeket kínál.",
+            "ro": "Experimentați o parte din viața istorică de zi cu zi la această veche spălătorie publică, ascunsă pe o stradă liniștită, care oferă oportunități foto excelente.",
+            "en": "Experience a slice of daily historic life at this ancient public washhouse, which is hidden away on a quiet street and offers great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta di Sant'Alessio",
+            "hu": "Grotta di Sant'Alessio",
+            "ro": "Grotta di Sant'Alessio",
+            "en": "Grotta di Sant'Alessio"
+          },
+          "coords": [
+            15.346973,
+            37.913898
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die raue Schönheit dieses historischen Küstenwahrzeichens, aber halten Sie Abstand zum Rand, da die Meeresströmungen hier stark sein können.",
+            "hu": "Csodálja meg ennek a történelmi parti nevezetességnek a zord szépségét, de tartson biztonságos távolságot a peremtől az erős tengeri áramlatok miatt.",
+            "ro": "Minunați-vă de frumusețea aspră a acestui reper istoric de coastă, dar păstrați o distanță sigură de margini deoarece curenții marini pot fi puternici.",
+            "en": "Marvel at the rugged beauty of this historic coastal landmark, but keep a safe distance from the edges as the sea currents around the cave can be strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondaco Parrino Beach",
+            "hu": "Fondaco Parrino Beach",
+            "ro": "Fondaco Parrino Beach",
+            "en": "Fondaco Parrino Beach"
+          },
+          "coords": [
+            15.328202,
+            37.897971
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigen Strand, der für sein klares Wasser bekannt ist, und bringen Sie eigene Snacks mit, da die Anlagen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől ezen a tiszta vizéről ismert, nyugodt strandon, de vigyen magával harapnivalót és napernyőt a korlátozott szolgáltatások miatt.",
+            "ro": "Evadați de mulțimi la această plajă liniștită recunoscută pentru apele clare și aduceți gustări și o umbrelă deoarece facilitățile sunt destul de limitate.",
+            "en": "Escape the crowds at this serene recreational beach known for its clear waters, bringing your own snacks and parasol since facilities here are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt in die Höhen von Forza d'Agrò macht uns mit seiner berühmten Schönheit und den Burgruinen vertraut. Mittags tauchen wir tiefer in die Geschichte ein und besuchen das traditionelle Waschhaus. Die Nachmittagsfahrt führt uns über kurvenreiche, landschaftlich reizvolle Straßen zu den dramatischen Küstenwahrzeichen. Abends ziehen wir uns an einen ruhigen Strandabschnitt zurück, um den Tag ausklingen zu lassen.",
+        "hu": "A reggeli autózás Forza d'Agrò magaslataira bevezet minket a falu híres szépségébe és az ősi vár impozáns maradványaiba. Délben mélyebben elmerülünk a történelemben a hagyományos mosóház meglátogatásával. A délutáni út kanyargós festői utakon vezet le a drámai tengerparti nevezetességekhez. Este egy csendes partszakaszra vonulunk vissza, hogy tökéletesen lezárjuk a napot.",
+        "ro": "O plimbare matinală spre înălțimile din Forza d'Agrò ne dezvăluie frumusețea sa renumită și rămășițele impunătoare ale castelului său antic. La amiază pătrundem mai adânc în istorie vizitând spălătoria tradițională. Traseul de după-amiază ne duce pe drumuri pitorești și șerpuite către reperele dramatice ale coastei. Seara ne găsește retrăgându-ne pe o porțiune liniștită de plajă, la apus.",
+        "en": "A morning drive to the heights of Forza d'Agrò introduces us to its renowned beauty and the imposing remnants of its ancient castle. Midday allows us to delve deeper into its history by visiting the traditional washhouse hidden in the upper village. The afternoon drive takes us down winding scenic roads to the dramatic coastal landmarks. Evening finds us retreating to a quiet stretch of beach, letting the day fade perfectly."
+      }
+    }
+  }
+}

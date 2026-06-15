@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-valls-cities-v2",
+  "anchor": {
+    "name": "Valls",
+    "coords": [
+      1.24993,
+      41.28612
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portalada del Castell de l'Arquebisbe",
+            "hu": "Portalada del Castell de l'Arquebisbe",
+            "ro": "Portalada del Castell de l'Arquebisbe",
+            "en": "Portalada del Castell de l'Arquebisbe"
+          },
+          "coords": [
+            1.250631,
+            41.285876
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das alte Burgtor des Erzbischofs als Symbol der mittelalterlichen Macht von Valls und achten Sie auf die verblassten Wappen.",
+            "hu": "Csodálja meg az érseki vár ősi kapuját, Valls középkori hatalmának szimbólumát, és keresse a megkopott címereket a közeli információs tábla mellett.",
+            "ro": "Admirați vechea poartă a castelului arhiepiscopal, un simbol al puterii medievale, și căutați blazoanele șterse înainte de a citi placa informativă.",
+            "en": "Admire the ancient archbishop's castle gateway, a symbol of Valls' medieval power, and look for the faded crests before checking the nearby info plaque."
+          }
+        },
+        {
+          "name": {
+            "de": "Església Arxiprestal de Sant Joan Baptista",
+            "hu": "Església Arxiprestal de Sant Joan Baptista",
+            "ro": "Església Arxiprestal de Sant Joan Baptista",
+            "en": "Església Arxiprestal de Sant Joan Baptista"
+          },
+          "coords": [
+            1.247032,
+            41.284056
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden Glockenturm dieser gotischen Kirche, der die Skyline prägt, und besuchen Sie die Morgenmesse wegen der Akustik.",
+            "hu": "Csodálja meg e gótikus templom magasba törő harangtornyát, amely meghatározza a városképet, és próbáljon meg reggel érkezni a lenyűgöző akusztika miatt.",
+            "ro": "Minunați-vă de turnul clopotniței acestei biserici gotice care definește orizontul orașului și vizitați-o dimineața pentru a savura acustica impresionantă.",
+            "en": "Marvel at the soaring bell tower of this Gothic church, which defines the city skyline, and try to visit during morning mass to hear the impressive acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+          },
+          "coords": [
+            1.248367,
+            41.284048
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende Tradition der Menschentürme in diesem interaktiven Museum und schauen Sie sich unbedingt die immersive Videoausstellung an.",
+            "hu": "Fedezze fel az emberi tornyok izgalmas hagyományát ebben az interaktív katalán múzeumban, és mindenképpen nézze meg a magával ragadó videókiállítást.",
+            "ro": "Descoperiți tradiția fascinantă a turnurilor umane în acest muzeu interactiv dedicat culturii catalane și asigurați-vă că vizionați expoziția video.",
+            "en": "Discover the thrilling tradition of human towers in this interactive museum that celebrates Catalan culture, and make sure to watch the immersive video exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Antoni Abat",
+            "hu": "Església de Sant Antoni Abat",
+            "ro": "Església de Sant Antoni Abat",
+            "en": "Església de Sant Antoni Abat"
+          },
+          "coords": [
+            1.249886,
+            41.283737
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhige Barockkirche, um die detaillierten Altarbilder zu sehen, aber bedenken Sie das schwache Licht und bringen Sie eine gute Kamera mit.",
+            "hu": "Fedezze fel ezt a csendes, Szent Antalnak szentelt barokk templomot a részletes oltárképek miatt, de készüljön fel a gyenge fényviszonyokra.",
+            "ro": "Explorați această biserică barocă liniștită pentru a vedea altarele sale detaliate, dar țineți cont că iluminatul este slab și aveți nevoie de un aparat bun.",
+            "en": "Explore this quiet baroque church dedicated to Saint Anthony to see its detailed altarpieces, but keep in mind that lighting is dim so bring a decent camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Església del Carme",
+            "hu": "Església del Carme",
+            "ro": "Església del Carme",
+            "en": "Església del Carme"
+          },
+          "coords": [
+            1.249241,
+            41.281918
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese elegante Kirche, um den friedlichen Innenhof und die historische Fassade zu bewundern, und kommen Sie kurz vor Mittag für absolute Ruhe.",
+            "hu": "Látogasson el ebbe az elegáns templomba, hogy megcsodálja békés udvarát és történelmi homlokzatát, lehetőleg kevéssel dél előtt a legnyugodtabb légkörért.",
+            "ro": "Opriți-vă la această biserică elegantă pentru a aprecia curtea sa pașnică și fațada istorică, ajungând chiar înainte de prânz pentru o atmosferă calmă.",
+            "en": "Stop by this elegant church to appreciate its peaceful courtyard and historical facade, arriving just before noon to experience the calmest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parròquia de la Mare de Déu del Lledó",
+            "hu": "Parròquia de la Mare de Déu del Lledó",
+            "ro": "Parròquia de la Mare de Déu del Lledó",
+            "en": "Parròquia de la Mare de Déu del Lledó"
+          },
+          "coords": [
+            1.252021,
+            41.289248
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante örtliche Pfarrei mit ihrem wunderschönen Marienschrein und spazieren Sie durch die angrenzenden Straßen mit katalanischer Architektur.",
+            "hu": "Látogasson el ebbe a bájos helyi plébániára, amely a gyönyörű Mária-kegyhelyről ismert, és sétáljon a csendes szomszédos utcákban a hagyományos épületek között.",
+            "ro": "Vizitați această parohie locală fermecătoare cunoscută pentru altarul marian frumos și plimbați-vă pe străzile adiacente pentru arhitectura tradițională.",
+            "en": "Visit this charming local parish known for its beautiful Marian shrine, and walk around the quiet adjacent streets to spot traditional Catalan architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang am alten Burgtor des Erzbischofs und tauchen in das mittelalterliche Herz von Valls ein. Die hoch aufragende Kirche Sant Joan Baptista erwartet uns kurz darauf.\nGegen Mittag betreten wir das Museum Món Casteller, um die lebendige Tradition der Menschentürme zu erleben. Die interaktiven Ausstellungen bieten ein unvergessliches kulturelles Erlebnis.\nDer Nachmittag führt uns zu den ruhigen Kirchen Sant Antoni Abat und Carme. Ihre ruhigen Innenhöfe und barocken Details bieten einen friedlichen Rückzugsort von den geschäftigen Straßen.\nWir beenden unseren Tag mit einem gemütlichen Spaziergang zur örtlichen Pfarrei Mare de Déu del Lledó. Das späte Nachmittagslicht hebt die historische Fassade wunderschön hervor.",
+        "hu": "Sétánkat az egykori érseki vár kapujánál kezdjük, egyenesen Valls középkori szívébe csöppenve. A magasba törő Sant Joan Baptista templom lenyűgöző gótikus részleteivel nem sokkal később vár ránk.\nDél felé közeledve belépünk a Món Casteller múzeumba, hogy megtapasztaljuk az emberi tornyok élénk katalán hagyományát. Az interaktív kiállítások felejthetetlen kulturális élményt nyújtanak.\nA délután a békés Sant Antoni Abat és Carme templomokhoz vezet minket. Csendes udvaraik és bonyolult barokk részleteik békés menedéket kínálnak a nyüzsgő városi utcák elől.\nNapunkat egy kellemes sétával zárjuk a helyi Mare de Déu del Lledó plébánia felé. A késő délutáni fény gyönyörűen kiemeli bájos történelmi homlokzatát, ahogy a város lecsendesedik.",
+        "ro": "Ne începem plimbarea la vechea poartă a castelului arhiepiscopal, scufundându-ne direct în inima medievală a orașului Valls. Biserica falnică Sant Joan Baptista ne așteaptă imediat după aceea.\nSpre prânz, intrăm în muzeul Món Casteller pentru a experimenta tradiția vibrantă a turnurilor umane. Expozițiile interactive oferă o imersiune culturală absolut de neuitat pentru toți vizitatorii.\nDupă-amiaza ne duce la bisericile senine Sant Antoni Abat și Carme. Curțile lor liniștite și detaliile baroce complicate oferă o retragere pașnică de pe străzile aglomerate ale orașului.\nNe încheiem ziua cu o scurtă plimbare blândă spre parohia locală Mare de Déu del Lledó. Lumina după-amiezii târzii evidențiază frumos fațada sa istorică fermecătoare, în timp ce orașul se liniștește.",
+        "en": "We begin our walk at the old Archbishop's Castle gateway, diving straight into the medieval heart of Valls. The towering Sant Joan Baptista church awaits us shortly after with its impressive Gothic details.\nAs noon approaches, we enter the Món Casteller museum to experience the vibrant Catalan tradition of human towers. The interactive exhibits provide an unforgettable cultural immersion.\nThe afternoon takes us to the serene Sant Antoni Abat and Carme churches. Their quiet courtyards and intricate baroque touches offer a peaceful retreat from the bustling city streets.\nWe conclude our day with a gentle stroll towards the local Mare de Déu del Lledó parish. The late afternoon light beautifully highlights its charming historical facade as the city winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de les Punxes",
+            "hu": "Casa de les Punxes",
+            "ro": "Casa de les Punxes",
+            "en": "Casa de les Punxes"
+          },
+          "coords": [
+            1.258278,
+            41.291247
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die markante modernistische Architektur dieses einzigartigen Gebäudes mit seinen spitzen Türmen von der anderen Straßenseite aus.",
+            "hu": "Fényképezze le ennek a hegyes tornyokkal rendelkező egyedi épületnek a lenyűgöző modernista építészetét, az utca túloldaláról a legjobb szögből.",
+            "ro": "Fotografiați arhitectura modernistă uimitoare a acestei clădiri unice cu turnuri ascuțite, poziționându-vă vizavi de stradă pentru cel mai bun unghi.",
+            "en": "Photograph the striking modernist architecture of this unique building with its pointed towers, positioning yourself across the street for the best wide angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment arqueològic Poblat Ibèric del Vilar",
+            "hu": "Jaciment arqueològic Poblat Ibèric del Vilar",
+            "ro": "Jaciment arqueològic Poblat Ibèric del Vilar",
+            "en": "Jaciment arqueològic Poblat Ibèric del Vilar"
+          },
+          "coords": [
+            1.259876,
+            41.289313
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die alten iberischen Siedlungsruinen, um die Geschichte der Region zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Sétáljon végig az ősi ibériai település romjain, hogy megértse a régió mély történelmét, és viseljen masszív cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Plimbați-vă printre ruinele așezării iberice antice pentru a înțelege istoria profundă a regiunii și purtați încălțăminte solidă deoarece terenul este accidentat.",
+            "en": "Walk through the ancient Iberian settlement ruins to understand the region's deep history, and wear sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Parròquia de la Mare de Déu del Lledó",
+            "hu": "Parròquia de la Mare de Déu del Lledó",
+            "ro": "Parròquia de la Mare de Déu del Lledó",
+            "en": "Parròquia de la Mare de Déu del Lledó"
+          },
+          "coords": [
+            1.252021,
+            41.289248
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante örtliche Pfarrei mit ihrem wunderschönen Marienschrein und spazieren Sie durch die angrenzenden Straßen mit katalanischer Architektur.",
+            "hu": "Látogasson el ebbe a bájos helyi plébániára, amely a gyönyörű Mária-kegyhelyről ismert, és sétáljon a csendes szomszédos utcákban a hagyományos épületek között.",
+            "ro": "Vizitați această parohie locală fermecătoare cunoscută pentru altarul marian frumos și plimbați-vă pe străzile adiacente pentru arhitectura tradițională.",
+            "en": "Visit this charming local parish known for its beautiful Marian shrine, and walk around the quiet adjacent streets to spot traditional Catalan architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+          },
+          "coords": [
+            1.248367,
+            41.284048
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende Tradition der Menschentürme in diesem interaktiven Museum und schauen Sie sich unbedingt die immersive Videoausstellung an.",
+            "hu": "Fedezze fel az emberi tornyok izgalmas hagyományát ebben az interaktív katalán múzeumban, és mindenképpen nézze meg a magával ragadó videókiállítást.",
+            "ro": "Descoperiți tradiția fascinantă a turnurilor umane în acest muzeu interactiv dedicat culturii catalane și asigurați-vă că vizionați expoziția video.",
+            "en": "Discover the thrilling tradition of human towers in this interactive museum that celebrates Catalan culture, and make sure to watch the immersive video exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo de l'Alt Camp",
+            "hu": "Zoo de l'Alt Camp",
+            "ro": "Zoo de l'Alt Camp",
+            "en": "Zoo de l'Alt Camp"
+          },
+          "coords": [
+            1.269008,
+            41.281692
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen lokalen zoologischen Park, der sich auf den Artenschutz konzentriert, und prüfen Sie den Fütterungsplan.",
+            "hu": "Élvezze a pihentető sétát ebben a regionális vadvilág védelmére összpontosító helyi állatkertben, és érkezéskor ellenőrizze az etetési menetrendet a bejáratnál.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest parc zoologic local axat pe conservarea faunei sălbatice regionale și verificați programul de hrănire la intrare.",
+            "en": "Enjoy a relaxing stroll through this local zoological park focused on regional wildlife conservation, and check the feeding schedule at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment Arqueològic de El Burgar",
+            "hu": "Jaciment Arqueològic de El Burgar",
+            "ro": "Jaciment Arqueològic de El Burgar",
+            "en": "Jaciment Arqueològic de El Burgar"
+          },
+          "coords": [
+            1.231272,
+            41.29032
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende archäologische Ausgrabungsstätte mit römischen und mittelalterlichen Schichten und achten Sie auf die Informationstafeln.",
+            "hu": "Fedezze fel ezt a lenyűgöző, római és középkori rétegeket feltáró régészeti ásatási területet, és keresse az új leleteket részletező információs táblákat.",
+            "ro": "Explorați acest sit arheologic fascinant care descoperă straturi romane și medievale și căutați panourile informative care detaliază descoperirile recente.",
+            "en": "Explore this fascinating archaeological dig site uncovering Roman and medieval layers, and look for the small informational markers detailing recent finds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt energiegeladen am modernistischen Casa de les Punxes, bevor wir zur alten iberischen Siedlung Vilar radeln. Die Morgenluft passt perfekt zu diesen historischen Ruinen.\nMittags fahren wir zurück ins Stadtzentrum und passieren die Pfarrei Mare de Déu del Lledó. Anschließend verbringen wir viel Zeit im pulsierenden Museum Món Casteller mit den Menschentürmen.\nAm Nachmittag fahren wir nach Osten zum Alt Camp Zoo, um einen entspannten Spaziergang durch die lokalen Wildgehege zu machen. Die von Bäumen gesäumten Wege bieten hier einen hervorragenden Schatten.\nWir beenden die Reise mit einer längeren, landschaftlich reizvollen Fahrt zur archäologischen Stätte El Burgar. Diese friedliche ländliche Umgebung ist der perfekte Ort, um über die Geschichte nachzudenken.",
+        "hu": "Kerékpártúránk energikusan indul a modernista Casa de les Punxes-nél, mielőtt az ősi ibériai Vilar településhez tekernénk. A reggeli levegő tökéletesen kiegészíti ezeket a történelmi romokat.\nA délidő visszavezet minket a városközpont felé, elhaladva a Mare de Déu del Lledó plébánia mellett. Ezután bőséges időt töltünk a lenyűgöző emberi tornyok hagyományainak felfedezésével a múzeumban.\nDélután kelet felé tekerünk az Alt Camp Állatkertbe, hogy tegyünk egy pihentető sétát a helyi vadvédelmi kifutók között. A fákkal szegélyezett ösvények kiváló árnyékot és frissítő tempóváltást biztosítanak.\nUtazásunkat egy hosszabb, festői kerékpározással zárjuk az El Burgar régészeti lelőhely felé. Ez a békés vidéki környezet a tökéletes helyszín a régió gazdag, többrétegű történelmének átgondolására.",
+        "ro": "Turul nostru cu bicicleta începe energic la Casa de les Punxes modernistă, înainte de a pedala spre vechea așezare iberică Vilar. Aerul dimineții completează perfect aceste ruine istorice superbe.\nLa prânz ne întoarcem spre centrul orașului, trecând pe lângă parohia Mare de Déu del Lledó. Apoi petrecem timp amplu explorând tradițiile fascinante ale turnurilor umane la muzeul Món Casteller.\nDupă-amiaza, mergem spre est către grădina zoologică Alt Camp pentru o plimbare relaxantă printre animalele locale. Căile umbrite de copaci oferă o schimbare răcoritoare și un ritm extrem de plăcut.\nÎncheiem călătoria cu o plimbare mai lungă și pitorească până la situl arheologic El Burgar. Acest cadru rural pașnic este locul perfect pentru a reflecta asupra istoriei bogate a acestei regiuni.",
+        "en": "Our cycling tour starts energetically at the modernist Casa de les Punxes, before pedaling a short distance to the ancient Iberian settlement of Vilar. The morning air perfectly complements these historic ruins.\nMidday brings us back towards the city core, passing the Mare de Déu del Lledó parish. We then spend ample time exploring the fascinating human tower traditions at the vibrant Món Casteller museum.\nIn the afternoon, we ride east to the Alt Camp Zoo for a relaxing stroll among the local wildlife enclosures. The tree-lined paths provide excellent shade and a refreshing change of pace.\nWe end the journey with a longer scenic ride out to the El Burgar archaeological site. This peaceful countryside setting is the perfect place to reflect on the region's rich, multi-layered history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de Carros i Eines del Camp",
+            "hu": "Museu de Carros i Eines del Camp",
+            "ro": "Museu de Carros i Eines del Camp",
+            "en": "Museu de Carros i Eines del Camp"
+          },
+          "coords": [
+            1.225694,
+            41.291105
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem rustikalen Museum mit traditionellen landwirtschaftlichen Karren und Werkzeugen in die Vergangenheit ein und sprechen Sie mit dem Personal.",
+            "hu": "Lépjen vissza az időben a hagyományos mezőgazdasági szekereket és eszközöket bemutató rusztikus múzeumban, és beszélgessen a helyi személyzettel a történelemről.",
+            "ro": "Întoarceți-vă în timp examinând căruțele și uneltele agricole tradiționale la acest muzeu rustic și discutați cu personalul local pentru povești interesante.",
+            "en": "Step back in time examining traditional farming carts and tools at this rustic museum, and chat with the enthusiastic local staff for hidden agricultural stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment Arqueològic de El Coll Roig",
+            "hu": "Jaciment Arqueològic de El Coll Roig",
+            "ro": "Jaciment Arqueològic de El Coll Roig",
+            "en": "Jaciment Arqueològic de El Coll Roig"
+          },
+          "coords": [
+            1.226771,
+            41.290245
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den historischen Überresten dieser ländlichen archäologischen Stätte und bringen Sie einen Hut mit, da es hier sehr wenig Schatten gibt.",
+            "hu": "Sétáljon e vidéki régészeti lelőhely történelmi maradványai között, hogy elképzelje a korai katalán életet, és vigyen magával kalapot a kevés árnyék miatt.",
+            "ro": "Rătăciți printre rămășițele istorice ale acestui sit arheologic rural pentru a vă imagina viața catalană timpurie, aducând o pălărie deoarece umbra lipsește.",
+            "en": "Wander among the historical remnants of this rural archaeological site to picture early Catalan life, bringing a hat as there is very little shade available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Granja Doldellops",
+            "hu": "Granja Doldellops",
+            "ro": "Granja Doldellops",
+            "en": "Granja Doldellops"
+          },
+          "coords": [
+            1.220825,
+            41.286
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Bauernhofkomplex, um das landwirtschaftliche Erbe von Valls zu schätzen, und prüfen Sie vorab, ob Führungen angeboten werden.",
+            "hu": "Látogasson el ebbe a történelmi parasztház-komplexumba, hogy megismerje Valls vidékének mezőgazdasági örökségét, és érdeklődjön a belső tárlatvezetésekről.",
+            "ro": "Vizitați acest complex istoric de ferme pentru a aprecia moștenirea agricolă a peisajului din Valls și verificați dacă oferă tururi ghidate în interior.",
+            "en": "Visit this historic farmhouse complex to appreciate the agricultural heritage of the Valls countryside, and check ahead to see if they offer guided interior tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Font de Sant Bernat",
+            "hu": "Font de Sant Bernat",
+            "ro": "Font de Sant Bernat",
+            "en": "Font de Sant Bernat"
+          },
+          "coords": [
+            1.222205,
+            41.28586
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Rasten Sie an diesem ruhigen, dem Heiligen Bernhard gewidmeten Monumentalbrunnen, füllen Sie Ihre Wasserflasche auf und genießen Sie eine erfrischende Pause.",
+            "hu": "Pihenjen meg a Szent Bernátnak szentelt nyugodt monumentális szökőkútnál, amely tökéletes hely a kulacs újratöltésére és egy rövid, frissítő szünetre.",
+            "ro": "Odihniți-vă lângă această fântână monumentală liniștită dedicată Sfântului Bernard, locul perfect pentru a vă reumple sticla și a savura o scurtă pauză.",
+            "en": "Rest by this tranquil monumental fountain dedicated to Saint Bernard, a perfect spot to refill your water bottle and enjoy a brief, refreshing pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+            "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+          },
+          "coords": [
+            1.248367,
+            41.284048
+          ],
+          "category": "museum",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende Tradition der Menschentürme in diesem interaktiven Museum und schauen Sie sich unbedingt die immersive Videoausstellung an.",
+            "hu": "Fedezze fel az emberi tornyok izgalmas hagyományát ebben az interaktív katalán múzeumban, és mindenképpen nézze meg a magával ragadó videókiállítást.",
+            "ro": "Descoperiți tradiția fascinantă a turnurilor umane în acest muzeu interactiv dedicat culturii catalane și asigurați-vă că vizionați expoziția video.",
+            "en": "Discover the thrilling tradition of human towers in this interactive museum that celebrates Catalan culture, and make sure to watch the immersive video exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo de l'Alt Camp",
+            "hu": "Zoo de l'Alt Camp",
+            "ro": "Zoo de l'Alt Camp",
+            "en": "Zoo de l'Alt Camp"
+          },
+          "coords": [
+            1.269008,
+            41.281692
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen lokalen zoologischen Park, der sich auf den Artenschutz konzentriert, und prüfen Sie den Fütterungsplan.",
+            "hu": "Élvezze a pihentető sétát ebben a regionális vadvilág védelmére összpontosító helyi állatkertben, és érkezéskor ellenőrizze az etetési menetrendet a bejáratnál.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest parc zoologic local axat pe conservarea faunei sălbatice regionale și verificați programul de hrănire la intrare.",
+            "en": "Enjoy a relaxing stroll through this local zoological park focused on regional wildlife conservation, and check the feeding schedule at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Autotour im rustikalen Museum für landwirtschaftliche Karren und tauchen in das bäuerliche Erbe ein. Eine kurze Fahrt führt uns dann zur historischen archäologischen Stätte El Coll Roig.\nGegen Mittag erkunden wir die ländlichen Randgebiete beim historischen Bauernhofkomplex Doldellops weiter. Am monumentalen Brunnen Sant Bernat, gleich die ruhige Straße hinunter, machen wir eine Pause.\nAm Nachmittag fahren wir zurück ins urbane Zentrum und widmen uns dem spektakulären Museum Món Casteller. Wir tauchen ein in die hochreichenden kulturellen Traditionen der berühmten katalanischen Castellers.\nZum Abschluss fahren wir kurz zum Alt Camp Zoo. Die friedliche Umgebung und der Fokus auf den regionalen Artenschutz bieten einen wunderbar entspannenden Abschluss unserer vielfältigen Valls-Expedition.",
+        "hu": "Autós túránkat a rusztikus Mezőgazdasági Szekerek Múzeumában kezdjük, elmerülve a gazdálkodási örökségben. Egy nagyon rövid út ezután a közeli történelmi El Coll Roig régészeti lelőhelyre vezet.\nDélben folytatjuk a vidéki peremvidék felfedezését a történelmi Doldellops parasztház-komplexumnál. Tartunk egy gyors, frissítő szünetet a monumentális Sant Bernat szökőkútnál, az út mentén.\nVisszautazva a városközpontba, a délutánt a látványos Món Casteller múzeumnak szenteljük. Elmerülünk a híres katalán casteller-ek izgalmas, magasba törő kulturális hagyományaiban.\nLevezetésképpen teszünk egy rövid utat az Alt Camp Állatkertbe. A békés környezet és a regionális vadvilág védelmére fókuszáló koncepció csodálatosan pihentető lezárást kínál sokszínű Valls-i expedíciónknak.",
+        "ro": "Începem turul auto la muzeul rustic al căruțelor agricole, savurând moștenirea fermierilor. O scurtă călătorie ne duce apoi la situl arheologic istoric El Coll Roig situat foarte aproape.\nLa prânz, continuăm explorarea periferiei rurale la complexul istoric de ferme Doldellops. Facem o scurtă pauză răcoritoare la fântâna monumentală Sant Bernat situată chiar pe acest drum liniștit.\nConducând înapoi în centrul urban, după-amiaza este dedicată spectaculosului muzeu Món Casteller. Ne scufundăm în tradițiile culturale emoționante ale faimoșilor castellers din minunata zonă a Cataloniei.\nPentru a ne relaxa, facem o scurtă plimbare cu mașina până la grădina zoologică Alt Camp. Mediul pașnic și concentrarea pe conservarea faunei regionale oferă o concluzie minunată pentru această expediție.",
+        "en": "We kick off our driving tour at the rustic Agricultural Carts Museum, soaking in the farming heritage. A very short drive then takes us to the historic El Coll Roig archaeological site nearby.\nFor midday, we continue exploring the rural outskirts at the historic Doldellops farmhouse complex. We take a quick refreshing break at the monumental Sant Bernat fountain just down the quiet road.\nDriving back into the urban center, the afternoon is dedicated to the spectacular Món Casteller museum. We immerse ourselves in the thrilling, high-reaching cultural traditions of the famous Catalan castellers.\nTo wind down, we take a short drive to the Alt Camp Zoo. The peaceful environment and focus on regional wildlife conservation offer a wonderfully relaxing conclusion to our diverse Valls expedition."
+      }
+    }
+  }
+}

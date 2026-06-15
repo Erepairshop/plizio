@@ -1,0 +1,474 @@
+{
+  "city_id": "ireland-baltimore-cities-v2",
+  "anchor": {
+    "name": "Baltimore",
+    "coords": [
+      -9.366667,
+      51.483333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 4.17,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Dún na Station",
+            "hu": "Dún na Station kastély",
+            "ro": "Castelul Dún na Station",
+            "en": "Dún na Station castle"
+          },
+          "coords": [
+            -9.373077,
+            51.483589
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robusten Befestigungsanlagen dieses Küstenturms, um die Geschichte zu verstehen, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ennek a parti toronynak a masszív erődítményeit, és viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Admirați fortificațiile robuste ale acestui turn de coastă pentru a înțelege istoria maritimă locală, purtând încălțăminte adecvată.",
+            "en": "Admire the robust fortifications of this coastal tower house to grasp local maritime history, wearing sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Walbeobachtung Wave Chieftain",
+            "hu": "Wave Chieftain Bálnales",
+            "ro": "Observarea balenelor Wave Chieftain",
+            "en": "Wave Chieftain Whale Watching"
+          },
+          "coords": [
+            -9.374974,
+            51.483574
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie auf dieser Safari Ausschau nach Walen und bringen Sie unbedingt ein Fernglas sowie winddichte Kleidung mit.",
+            "hu": "Figyeljen a felbukkanó bálnákra ezen a tengeri szafarin, és feltétlenül hozzon magával távcsövet és szélálló ruházatot.",
+            "ro": "Căutați balenele pe acest safari maritim fantastic, asigurându-vă că aduceți binoclu și haine rezistente la vânt.",
+            "en": "Look out for breaching whales on this fantastic sea safari, making sure to bring binoculars and windproof clothing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Baltimore",
+            "hu": "Baltimore-i kikötő",
+            "ro": "Portul Baltimore",
+            "en": "Baltimore Harbour"
+          },
+          "coords": [
+            -9.387844,
+            51.481957
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Pier entlang, um die Fischerboote zu beobachten, und kommen Sie früh für frische Meeresfrüchte.",
+            "hu": "Sétáljon végig a nyüzsgő mólón a halászhajókat figyelve, és érkezzen korán a legjobb tengeri fogásokért.",
+            "ro": "Plimbați-vă de-a lungul debarcaderului plin de viață pentru a privi bărcile, ajungând devreme pentru fructe de mare.",
+            "en": "Stroll along the bustling pier to watch the fishing boats return, stopping early for the best fresh seafood catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Beacon Point",
+            "hu": "Beacon Point kilátó",
+            "ro": "Punctul de belvedere Beacon Point",
+            "en": "Beacon Point"
+          },
+          "coords": [
+            -9.388034,
+            51.473725
+          ],
+          "category": "natural",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser weißen Säule für weite Meerblicke hinauf und halten Sie sicheren Abstand zu den ungesicherten Klippen.",
+            "hu": "Túrázzon fel ehhez az ikonikus fehér oszlophoz az óceáni panorámáért, biztonságos távolságot tartva a szikla szélétől.",
+            "ro": "Urcați la acest pilon alb pentru priveliști panoramice, păstrând o distanță sigură față de marginile stâncilor.",
+            "en": "Hike up to this iconic white pillar for sweeping ocean views, keeping a safe distance from the unfenced cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullagh-Kirche",
+            "hu": "Tullagh templom",
+            "ro": "Biserica Tullagh",
+            "en": "Tullagh Church"
+          },
+          "coords": [
+            -9.362758,
+            51.486304
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.22,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den alten Grabsteinen, um die spirituellen Wurzeln zu entdecken, am besten bei Tageslicht.",
+            "hu": "Sétáljon az ősi sírkövek között a terület spirituális gyökereit kutatva, és a legjobb fotókért nappal látogasson ide.",
+            "ro": "Plimbați-vă printre pietrele funerare antice pentru a descoperi rădăcinile spirituale, vizitând în timpul zilei.",
+            "en": "Wander among the ancient gravestones to discover the area's spiritual roots, visiting during daylight for the best photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an den Steinmauern von Dún na Station und beobachten Sie das Meeresleben an den Docks.\n\nDer Mittag lädt Sie in den lebhaften Hafen von Baltimore ein, um die frische Atlantikbrise einzuatmen.\n\nGenießen Sie am Nachmittag die dramatischen Klippen und die Aussicht rund um Beacon Point.\n\nBeenden Sie Ihren Tag an der historischen Tullagh-Kirche in friedlicher Abendstimmung.",
+        "hu": "Kezdje a reggelt a Dún na Station kőfalainál és a helyi kikötő tengeri élőlényeinek megfigyelésével.\n\nDélben a nyüzsgő baltimore-i kikötő várja, ahol beszívhatja a friss atlanti szellőt.\n\nDélután élvezze a drámai sziklákat és a Beacon Point körüli ikonikus látnivalókat.\n\nZárja a napot a történelmi Tullagh templom romjainál, elmerülve a békés esti hangulatban.",
+        "ro": "Începeți dimineața la zidurile de piatră de la Dún na Station și urmăriți viața marină la docuri.\n\nAmiaza vă invită în portul vibrant Baltimore, respirând briza proaspătă a Atlanticului.\n\nDupă-amiaza, bucurați-vă de stâncile dramatice și de priveliștile iconice din jurul Beacon Point.\n\nÎncheiați ziua la ruinele istorice ale Bisericii Tullagh, absorbind atmosfera pașnică de seară.",
+        "en": "Begin the morning exploring the stone walls of Dún na Station and watching marine life at the local docks.\n\nMidday invites you to the vibrant Baltimore Harbour, breathing in the fresh Atlantic breeze.\n\nIn the afternoon, enjoy the dramatic cliffs and iconic sights surrounding Beacon Point.\n\nConclude your day at the historic Tullagh Church ruins, soaking in the peaceful evening atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 4.73,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Baltimore",
+            "hu": "Baltimore-i kikötő",
+            "ro": "Portul Baltimore",
+            "en": "Baltimore Harbour"
+          },
+          "coords": [
+            -9.387844,
+            51.481957
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Pier entlang, um die Fischerboote zu beobachten, und kommen Sie früh für frische Meeresfrüchte.",
+            "hu": "Sétáljon végig a nyüzsgő mólón a halászhajókat figyelve, és érkezzen korán a legjobb tengeri fogásokért.",
+            "ro": "Plimbați-vă de-a lungul debarcaderului plin de viață pentru a privi bărcile, ajungând devreme pentru fructe de mare.",
+            "en": "Stroll along the bustling pier to watch the fishing boats return, stopping early for the best fresh seafood catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dún na Long",
+            "hu": "Dún na Long kastély",
+            "ro": "Castelul Dún na Long",
+            "en": "Dún na Long Castle"
+          },
+          "coords": [
+            -9.40074,
+            51.478495
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festungsruine des O'Driscoll-Clans, um Piratenlegenden zu entdecken, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel az O'Driscoll klán erődjének romjait a helyi kalózlegendákért, és hozzon magával nagylátószögű objektívet.",
+            "ro": "Explorați ruinele fortăreței clanului O'Driscoll pentru legende cu pirați și aduceți un obiectiv cu unghi larg.",
+            "en": "Explore the ruins of the O'Driscoll clan's stronghold to uncover local pirate legends, and bring a wide-angle lens for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Abtei",
+            "hu": "Az Apátság",
+            "ro": "Abația",
+            "en": "The Abbey"
+          },
+          "coords": [
+            -9.40024,
+            51.476134
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieses Ruinenklosters und sprechen Sie aus Respekt leise, während Sie die Bogenfenster bewundern.",
+            "hu": "Tapasztalja meg a romos kolostor békés hangulatát, tiszteletből halkan beszélve, miközben a boltíves ablakokat csodálja.",
+            "ro": "Experimentați atmosfera liniștită a acestei mănăstiri în ruină, vorbind încet din respect în timp ce admirați ferestrele.",
+            "en": "Experience the tranquil atmosphere of this ruined friary, speaking quietly out of respect while you admire the arched windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Beacon Point",
+            "hu": "Beacon Point kilátó",
+            "ro": "Punctul de belvedere Beacon Point",
+            "en": "Beacon Point"
+          },
+          "coords": [
+            -9.388034,
+            51.473725
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser weißen Säule für weite Meerblicke hinauf und halten Sie sicheren Abstand zu den ungesicherten Klippen.",
+            "hu": "Túrázzon fel ehhez az ikonikus fehér oszlophoz az óceáni panorámáért, biztonságos távolságot tartva a szikla szélétől.",
+            "ro": "Urcați la acest pilon alb pentru priveliști panoramice, păstrând o distanță sigură față de marginile stâncilor.",
+            "en": "Hike up to this iconic white pillar for sweeping ocean views, keeping a safe distance from the unfenced cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dún na Station",
+            "hu": "Dún na Station kastély",
+            "ro": "Castelul Dún na Station",
+            "en": "Dún na Station castle"
+          },
+          "coords": [
+            -9.373077,
+            51.483589
+          ],
+          "category": "castle",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robusten Befestigungsanlagen dieses Küstenturms, um die Geschichte zu verstehen, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ennek a parti toronynak a masszív erődítményeit, és viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Admirați fortificațiile robuste ale acestui turn de coastă pentru a înțelege istoria maritimă locală, purtând încălțăminte adecvată.",
+            "en": "Admire the robust fortifications of this coastal tower house to grasp local maritime history, wearing sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Church Strand Bucht",
+            "hu": "Church Strand öböl",
+            "ro": "Golful Church Strand",
+            "en": "Church Strand Bay"
+          },
+          "coords": [
+            -9.361725,
+            51.490844
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser malerischen Bucht, um Seevögel zu beobachten, und nehmen Sie eine Decke für den feuchten Sand mit.",
+            "hu": "Pihenjen ezen a festői öbölparton a tengeri madarakat figyelve, és vigyen magával egy takarót a nedves homok miatt.",
+            "ro": "Relaxați-vă pe malurile acestui golf pitoresc pentru a privi păsările, luând o pătură dacă doriți să stați pe nisip.",
+            "en": "Relax on this picturesque inlet's shores to watch seabirds dive, carrying a blanket if you plan to sit on the damp sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit Meeresluft am malerischen Hafen von Baltimore, bevor Sie nach Westen radeln.\n\nErkunden Sie mittags die Burg Dún na Long und die nahegelegenen kirchlichen Ruinen.\n\nDie Nachmittagsfahrt führt Sie vorbei an der Abtei zu den weiten Ausblicken des Beacon Point.\n\nLassen Sie den Abend mit einer Fahrt zur Church Strand Bay ausklingen, während die Sonne untergeht.",
+        "hu": "Kezdje a napot az óceáni levegővel a festői baltimore-i kikötőben, mielőtt nyugat felé indulna.\n\nDélben fedezze fel a Dún na Long kastélyt és a közeli egyházi romokat.\n\nA délutáni kerékpározás az Apátság mellett a Beacon Point lenyűgöző kilátásához vezet.\n\nZárja az estét egy pihentető utazással a Church Strand Bay felé, ahogy a nap lemenőben van.",
+        "ro": "Începeți ziua respirând aerul oceanului în pitorescul port Baltimore înainte de a pedala spre vest.\n\nLa amiază, explorați fortăreața Dún na Long și ruinele ecleziastice din apropiere.\n\nPlimbarea de după-amiază vă poartă pe lângă Abație către priveliștile de la Beacon Point.\n\nÎncheiați seara cu o plimbare relaxantă spre Church Strand Bay, în timp ce soarele apune.",
+        "en": "Kick off your day breathing in the ocean air at the scenic Baltimore Harbour before cycling westward.\n\nBy midday, explore the medieval stronghold of Dún na Long Castle and nearby ecclesiastical ruins.\n\nAfternoon riding takes you past The Abbey to the sweeping vistas of the iconic Beacon Point.\n\nWrap up the evening with a relaxing ride towards Church Strand Bay as the sun sets over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 6.17,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Signalturm Ballylinchy",
+            "hu": "Ballylinchy jelzőtorony",
+            "ro": "Turnul de semnalizare Ballylinchy",
+            "en": "Ballylinchy Signal Tower"
+          },
+          "coords": [
+            -9.353852,
+            51.474697
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie diesen Signalturm aus der Napoleon-Ära und parken Sie etwas weiter unten, um keine Straßen zu blockieren.",
+            "hu": "Tekintse meg a partot egykor őrző, napóleoni korabeli jelzőtornyot, és parkoljon lejjebb, hogy ne akadályozza a forgalmat.",
+            "ro": "Observați turnul de semnalizare care păzea coasta, parcând puțin mai jos pentru a nu bloca drumurile locale.",
+            "en": "Observe the Napoleonic-era signaling tower that once guarded the coast, parking slightly downhill to avoid blocking local roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullagh-Kirche",
+            "hu": "Tullagh templom",
+            "ro": "Biserica Tullagh",
+            "en": "Tullagh Church"
+          },
+          "coords": [
+            -9.362758,
+            51.486304
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den alten Grabsteinen, um die spirituellen Wurzeln zu entdecken, am besten bei Tageslicht.",
+            "hu": "Sétáljon az ősi sírkövek között a terület spirituális gyökereit kutatva, és a legjobb fotókért nappal látogasson ide.",
+            "ro": "Plimbați-vă printre pietrele funerare antice pentru a descoperi rădăcinile spirituale, vizitând în timpul zilei.",
+            "en": "Wander among the ancient gravestones to discover the area's spiritual roots, visiting during daylight for the best photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Church Strand Bucht",
+            "hu": "Church Strand öböl",
+            "ro": "Golful Church Strand",
+            "en": "Church Strand Bay"
+          },
+          "coords": [
+            -9.361725,
+            51.490844
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser malerischen Bucht, um Seevögel zu beobachten, und nehmen Sie eine Decke für den feuchten Sand mit.",
+            "hu": "Pihenjen ezen a festői öbölparton a tengeri madarakat figyelve, és vigyen magával egy takarót a nedves homok miatt.",
+            "ro": "Relaxați-vă pe malurile acestui golf pitoresc pentru a privi păsările, luând o pătură dacă doriți să stați pe nisip.",
+            "en": "Relax on this picturesque inlet's shores to watch seabirds dive, carrying a blanket if you plan to sit on the damp sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dún na Station",
+            "hu": "Dún na Station kastély",
+            "ro": "Castelul Dún na Station",
+            "en": "Dún na Station castle"
+          },
+          "coords": [
+            -9.373077,
+            51.483589
+          ],
+          "category": "castle",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robusten Befestigungsanlagen dieses Küstenturms, um die Geschichte zu verstehen, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ennek a parti toronynak a masszív erődítményeit, és viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Admirați fortificațiile robuste ale acestui turn de coastă pentru a înțelege istoria maritimă locală, purtând încălțăminte adecvată.",
+            "en": "Admire the robust fortifications of this coastal tower house to grasp local maritime history, wearing sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Dún na Long",
+            "hu": "Dún na Long kastély",
+            "ro": "Castelul Dún na Long",
+            "en": "Dún na Long Castle"
+          },
+          "coords": [
+            -9.40074,
+            51.478495
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.98,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festungsruine des O'Driscoll-Clans, um Piratenlegenden zu entdecken, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel az O'Driscoll klán erődjének romjait a helyi kalózlegendákért, és hozzon magával nagylátószögű objektívet.",
+            "ro": "Explorați ruinele fortăreței clanului O'Driscoll pentru legende cu pirați și aduceți un obiectiv cu unghi larg.",
+            "en": "Explore the ruins of the O'Driscoll clan's stronghold to uncover local pirate legends, and bring a wide-angle lens for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Abtei",
+            "hu": "Az Apátság",
+            "ro": "Abația",
+            "en": "The Abbey"
+          },
+          "coords": [
+            -9.40024,
+            51.476134
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieses Ruinenklosters und sprechen Sie aus Respekt leise, während Sie die Bogenfenster bewundern.",
+            "hu": "Tapasztalja meg a romos kolostor békés hangulatát, tiszteletből halkan beszélve, miközben a boltíves ablakokat csodálja.",
+            "ro": "Experimentați atmosfera liniștită a acestei mănăstiri în ruină, vorbind încet din respect în timp ce admirați ferestrele.",
+            "en": "Experience the tranquil atmosphere of this ruined friary, speaking quietly out of respect while you admire the arched windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Beacon Point",
+            "hu": "Beacon Point kilátó",
+            "ro": "Punctul de belvedere Beacon Point",
+            "en": "Beacon Point"
+          },
+          "coords": [
+            -9.388034,
+            51.473725
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser weißen Säule für weite Meerblicke hinauf und halten Sie sicheren Abstand zu den ungesicherten Klippen.",
+            "hu": "Túrázzon fel ehhez az ikonikus fehér oszlophoz az óceáni panorámáért, biztonságos távolságot tartva a szikla szélétől.",
+            "ro": "Urcați la acest pilon alb pentru priveliști panoramice, păstrând o distanță sigură față de marginile stâncilor.",
+            "en": "Hike up to this iconic white pillar for sweeping ocean views, keeping a safe distance from the unfenced cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Ballylinchy Signal Tower, bevor Sie zur Tullagh-Kirche fahren.\n\nMachen Sie mittags Pause an der Church Strand Bay und erkunden Sie die Festung Dún na Station.\n\nFolgen Sie nachmittags der Küste zur Burg Dún na Long und den Ruinen der Abtei.\n\nBeenden Sie die Fahrt am Beacon Point für einen unvergesslichen Sonnenuntergang über dem Atlantik.",
+        "hu": "A reggel a történelmi Ballylinchy Signal Towernél kezdődik, mielőtt a Tullagh templomhoz vezetne.\n\nDélben tartson pihenőt a Church Strand Baynél, és fedezze fel a Dún na Station erődítményt.\n\nDélután kövesse a nyugati partokat a Dún na Long kastélyhoz és az Apátság békés romjaihoz.\n\nFejezze be az utat a Beacon Pointhoz autózva, egy felejthetetlen atlanti naplemente reményében.",
+        "ro": "Dimineața începe cu Turnul de Semnalizare Ballylinchy, înainte de a conduce la Biserica Tullagh.\n\nLa amiază, opriți-vă la Church Strand Bay și explorați fortăreața Dún na Station.\n\nDupă-amiaza, urmați țărmurile către Castelul Dún na Long și ruinele senine ale Abației.\n\nÎncheiați călătoria conducând spre Beacon Point pentru un apus de soare de neuitat.",
+        "en": "Your morning starts with the historic Ballylinchy Signal Tower before driving to ancient Tullagh Church.\n\nAt midday, pause by the tranquil Church Strand Bay and explore the Dún na Station fortress.\n\nIn the afternoon, trace the rugged western shores to Dún na Long Castle and the serene ruins of The Abbey.\n\nFinish the journey driving to Beacon Point for an unforgettable sunset view over the Atlantic."
+      }
+    }
+  }
+}

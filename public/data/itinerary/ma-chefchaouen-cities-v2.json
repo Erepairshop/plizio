@@ -1,0 +1,543 @@
+{
+  "city_id": "ma-chefchaouen-cities-v2",
+  "anchor": {
+    "name": "Chefchaouen",
+    "coords": [
+      -5.2697,
+      35.1714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 1.57,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza",
+            "hu": "Piazza",
+            "ro": "Piazza",
+            "en": "Piazza"
+          },
+          "coords": [
+            -5.268363,
+            35.168948
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem belebten zentralen Platz, um die blau getünchte Atmosphäre zu genießen, bevor die großen Menschenmengen eintreffen, und suchen Sie nach Ständen mit frischem Minztee.",
+            "hu": "Kezdje a napot ezen a nyüzsgő központi téren, hogy magába szívja a kékre meszelt hangulatot a nagyobb tömeg érkezése előtt, és keressen egy friss mentateát kínáló árust.",
+            "ro": "Începeți ziua în această piață centrală vibrantă pentru a absorbi atmosfera caselor vopsite în albastru înainte de sosirea aglomerației, căutând o tarabă cu ceai proaspăt de mentă.",
+            "en": "Begin your day at this vibrant central square to soak in the blue-washed atmosphere before the main crowds arrive, keeping an eye out for fresh mint tea stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Market",
+            "hu": "Market",
+            "ro": "Market",
+            "en": "Market"
+          },
+          "coords": [
+            -5.265509,
+            35.166487
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit authentischem Kunsthandwerk und Textilien aus dem Rif, aber vergessen Sie nicht, höflich zu feilschen, da dies hier zur Kultur gehört.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot a Rif-hegység autentikus kézműves termékeiért és textíliáiért, de ne felejtsen el udvariasan alkudni, mivel ez a vásárlási kultúra része.",
+            "ro": "Explorați piața locală plină de viață pentru meșteșuguri autentice din munții Rif și textile vibrante, dar nu uitați să negociați politicos, deoarece face parte din cultura cumpărăturilor de aici.",
+            "en": "Explore the bustling local market for authentic Rif mountain crafts and vibrant textiles, but remember to bargain politely as it is part of the shopping culture here."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Haouta Oven",
+            "hu": "Al-Haouta Oven",
+            "ro": "Al-Haouta Oven",
+            "en": "Al-Haouta Oven"
+          },
+          "coords": [
+            -5.263549,
+            35.168828
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Beobachten Sie das tägliche Leben in diesem traditionellen Gemeinschaftsofen, in dem die Einheimischen ihr Brot backen, und fragen Sie unbedingt höflich, bevor Sie fotografieren.",
+            "hu": "Figyelje meg a mindennapi életet ebben a hagyományos közösségi kemencében, ahol a helyiek kenyeret sütnek, és fényképezés előtt feltétlenül kérjen udvariasan engedélyt.",
+            "ro": "Observați viața de zi cu zi la acest cuptor comunitar tradițional unde localnicii își coc pâinea zilnică și asigurați-vă că cereți permisiunea politicos înainte de a face fotografii.",
+            "en": "Observe the daily life at this traditional communal oven where locals bake their daily bread, and be sure to ask politely before taking any photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Photospot with round pillars with mosaic",
+            "hu": "Photospot with round pillars with mosaic",
+            "ro": "Photospot with round pillars with mosaic",
+            "en": "Photospot with round pillars with mosaic"
+          },
+          "coords": [
+            -5.262901,
+            35.170152
+          ],
+          "category": "natural",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie die typische Ästhetik von Chefchaouen an diesem malerischen Ort mit Mosaiksäulen fest und kommen Sie früh, um Warteschlangen für das perfekte Foto zu vermeiden.",
+            "hu": "Örökítse meg Chefchaouen jellegzetes esztétikáját ezen a festői, mozaikos oszlopokkal díszített helyen, és érkezzen korán, hogy elkerülje a sorban állást a tökéletes fotóért.",
+            "ro": "Surprindeți estetica specifică din Chefchaouen în acest loc pitoresc cu stâlpi de mozaic, ajungând devreme pentru a evita să stați la coadă pentru fotografia perfectă.",
+            "en": "Capture the quintessential Chefchaouen aesthetic at this picturesque spot featuring ornate mosaic pillars, arriving early to avoid waiting in line for your perfect photo."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rif Andalus Oven",
+            "hu": "The Rif Andalus Oven",
+            "ro": "The Rif Andalus Oven",
+            "en": "The Rif Andalus Oven"
+          },
+          "coords": [
+            -5.261736,
+            35.169905
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie den andalusischen Einfluss in der Architektur dieser historischen Bäckerei und bringen Sie ein paar Dirham mit, falls Sie frisches traditionelles Fladenbrot kaufen möchten.",
+            "hu": "Fedezze fel az andalúz hatást ennek a történelmi pékségnek az építészetében, és hozzon magával néhány dirhamot, ha szeretne frissen sült hagyományos lepénykenyeret vásárolni.",
+            "ro": "Descoperiți influența andaluză în arhitectura acestei brutării istorice, aducând câțiva dirhami dacă doriți să cumpărați lipie tradițională proaspăt coaptă.",
+            "en": "Discover the Andalusian influence in the architecture of this historic bakery, bringing a few dirhams if you wish to purchase freshly baked traditional flatbread."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El Marhouk",
+            "hu": "Bab El Marhouk",
+            "ro": "Bab El Marhouk",
+            "en": "Bab El Marhouk"
+          },
+          "coords": [
+            -5.260916,
+            35.171397
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses historische Verteidigungstor, das einen Einblick in die alten Befestigungsanlagen bietet, und tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Haladjon át ezen a történelmi védelmi kapun, amely bepillantást enged az ősi erődítményekbe, és viseljen kényelmes cipőt a közeli egyenetlen macskaköveken való közlekedéshez.",
+            "ro": "Treceți prin această poartă istorică de apărare care oferă o privire asupra vechilor fortificații, purtând încălțăminte confortabilă pentru a naviga pe pietruirea denivelată din apropiere.",
+            "en": "Pass through this historic defensive gate that offers a glimpse into the city's ancient fortifications, wearing comfortable shoes to navigate the uneven cobblestones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -5.258777,
+            35.174755
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem erhöhten Aussichtspunkt für ein spektakuläres Sonnenuntergangspanorama über die blaue Stadt und bringen Sie eine leichte Jacke mit, da der Wind am Nachmittag zunimmt.",
+            "hu": "Túrázzon fel ehhez a magaslati kilátóhoz, ahonnan látványos naplementés panoráma nyílik a kék városra, és hozzon egy könnyű kabátot, mivel a szél késő délután feltámad.",
+            "ro": "Urcați la acest punct de belvedere înalt pentru o panoramă spectaculoasă la apus asupra orașului albastru, aducând o jachetă ușoară deoarece vântul se întețește după-amiaza.",
+            "en": "Hike up to this elevated viewpoint for a spectacular sunset panorama over the blue city, bringing a light jacket as the wind picks up in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen der Medina an der lebhaften Piazza und genießen Sie die blauen Fassaden. Gehen Sie weiter zum geschäftigen Markt, um den lokalen Handel und das farbenfrohe Handwerk zu erleben. \n Gegen Mittag tauchen Sie in den Alltag ein, indem Sie den traditionellen Al-Haouta-Ofen besuchen. Machen Sie einen kurzen Spaziergang zum berühmten Fotopunkt mit den Mosaiksäulen. \n Bewundern Sie am Nachmittag das historische Erbe des Rif Andalus Ofens und schlendern Sie zu den Toren von Bab El Marhouk. Die engen Gassen bieten auf Ihrem Weg endlosen Charme. \n Beenden Sie Ihren Tag mit einem Spaziergang zum Point de vue. Dieser Aussichtspunkt bietet ein atemberaubendes Panorama der blau getünchten Stadt in der Dämmerung.",
+        "hu": "Kezdje sétáját a medina szívében, a nyüzsgő Piazzán, és csodálja meg a kék homlokzatokat. Haladjon tovább a forgalmas piacra, hogy megtapasztalja a helyi kereskedelmet és a színes kézműveskedést. \n Délben merüljön el a mindennapokban a hagyományos Al-Haouta kemence meglátogatásával. Tegyen egy rövid sétát a híres, mozaikoszlopos fotóponthoz, hogy megörökítse a pillanatot. \n Délután csodálja meg a Rif Andalus kemence örökségét, és sétáljon a Bab El Marhouk kapu felé. A szűk, kanyargós sikátorok végtelen bájt kínálnak. \n Zárja a napot egy sétával a Point de vue felé. Ez a kilátó lélegzetelállító alkonyati panorámát nyújt a hegyekben megbújó, kékre festett városról.",
+        "ro": "Începeți turul de plimbare în inima medinei la Piazza vibrantă, admirând fațadele albastre emblematice. Continuați spre piața plină de viață pentru a experimenta comerțul local și meșteșugurile colorate. \n Până la prânz, pătrundeți în ritmurile zilnice vizitând cuptorul tradițional Al-Haouta. Faceți o scurtă plimbare până la faimosul loc pentru fotografii cu stâlpi de mozaic. \n După-amiaza, admirați moștenirea cuptorului Rif Andalus și plimbați-vă spre porțile istorice din Bab El Marhouk. Străduțele înguste oferă un farmec nesfârșit. \n Încheiați-vă ziua cu o plimbare constantă până la Point de vue. Acest punct de belvedere oferă o panoramă uluitoare la amurg a întregului oraș vopsit în albastru.",
+        "en": "Start your walking tour in the heart of the medina at the vibrant Piazza, taking in the iconic blue facades. Move on to the bustling Market to experience local trade and colorful crafts. \n By midday, delve into the daily rhythms of Chefchaouen by visiting the traditional Al-Haouta Oven. Take a short stroll to the famous photospot with mosaic pillars to capture some memories. \n In the afternoon, admire the heritage of The Rif Andalus Oven and wander towards the historic gates of Bab El Marhouk. The narrow, winding alleys offer endless charm as you navigate the slope. \n Conclude your day with a steady walk up to the Point de vue. This viewpoint provides a breathtaking twilight panorama of the entire blue-washed town nestled in the mountains."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 2.45,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza",
+            "hu": "Piazza",
+            "ro": "Piazza",
+            "en": "Piazza"
+          },
+          "coords": [
+            -5.268363,
+            35.168948
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem belebten zentralen Platz, um die blau getünchte Atmosphäre zu genießen, bevor die großen Menschenmengen eintreffen, und suchen Sie nach Ständen mit frischem Minztee.",
+            "hu": "Kezdje a napot ezen a nyüzsgő központi téren, hogy magába szívja a kékre meszelt hangulatot a nagyobb tömeg érkezése előtt, és keressen egy friss mentateát kínáló árust.",
+            "ro": "Începeți ziua în această piață centrală vibrantă pentru a absorbi atmosfera caselor vopsite în albastru înainte de sosirea aglomerației, căutând o tarabă cu ceai proaspăt de mentă.",
+            "en": "Begin your day at this vibrant central square to soak in the blue-washed atmosphere before the main crowds arrive, keeping an eye out for fresh mint tea stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Market",
+            "hu": "Market",
+            "ro": "Market",
+            "en": "Market"
+          },
+          "coords": [
+            -5.265509,
+            35.166487
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit authentischem Kunsthandwerk und Textilien aus dem Rif, aber vergessen Sie nicht, höflich zu feilschen, da dies hier zur Kultur gehört.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot a Rif-hegység autentikus kézműves termékeiért és textíliáiért, de ne felejtsen el udvariasan alkudni, mivel ez a vásárlási kultúra része.",
+            "ro": "Explorați piața locală plină de viață pentru meșteșuguri autentice din munții Rif și textile vibrante, dar nu uitați să negociați politicos, deoarece face parte din cultura cumpărăturilor de aici.",
+            "en": "Explore the bustling local market for authentic Rif mountain crafts and vibrant textiles, but remember to bargain politely as it is part of the shopping culture here."
+          }
+        },
+        {
+          "name": {
+            "de": "Art Studio Omar Saadoune",
+            "hu": "Art Studio Omar Saadoune",
+            "ro": "Art Studio Omar Saadoune",
+            "en": "Art Studio Omar Saadoune"
+          },
+          "coords": [
+            -5.26496,
+            35.169307
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften lokalen Kunstwerke, die den Geist der Rif-Region einfangen, und nehmen Sie sich Zeit, um mit dem Künstler über seine einzigartigen Techniken zu sprechen.",
+            "hu": "Csodálja meg az élénk helyi műalkotásokat, amelyek a Rif-régió szellemét idézik meg ebben a galériában, és szánjon időt arra, hogy beszélgessen a művésszel az egyedi technikáiról.",
+            "ro": "Admirați operele de artă locale vii care surprind spiritul regiunii Rif în această galerie intimă, făcându-vă timp să vorbiți cu artistul despre tehnicile sale unice.",
+            "en": "Admire the vivid local artworks capturing the spirit of the Rif region in this intimate gallery, taking your time to speak with the artist about his unique techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "théâtre al kasaba",
+            "hu": "théâtre al kasaba",
+            "ro": "théâtre al kasaba",
+            "en": "théâtre al kasaba"
+          },
+          "coords": [
+            -5.261354,
+            35.168837
+          ],
+          "category": "cultural",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Stadt in diesem Freilufttheater vor historischen Mauern und informieren Sie sich über das lokale Programm für abendliche Musikdarbietungen.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a történelmi falak között található szabadtéri színházban, és tájékozódjon a helyi programokról az esti zenei előadásokkal kapcsolatban.",
+            "ro": "Experimentați pulsul cultural al orașului la acest teatru în aer liber amplasat pe fundalul zidurilor istorice, verificând programul local pentru spectacole muzicale de seară.",
+            "en": "Experience the cultural heartbeat of the city at this open-air theatre set against historic walls, checking the local schedule for evening musical performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Conservatoire",
+            "hu": "Conservatoire",
+            "ro": "Conservatoire",
+            "en": "Conservatoire"
+          },
+          "coords": [
+            -5.259979,
+            35.169516
+          ],
+          "category": "cultural",
+          "arrive_at": "13:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Konservatorium in das andalusische Musikerbe ein und lauschen Sie ruhig vom Innenhof aus, während die Schüler ihre traditionellen Instrumente üben.",
+            "hu": "Merüljön el az andalúz zenei örökségben ebben a helyi konzervatóriumban, és hallgassa csendben az udvarról, ahogy a diákok a hagyományos hangszereiken gyakorolnak.",
+            "ro": "Cufundați-vă în patrimoniul muzical andaluz la acest conservator local, ascultând în liniște din curte în timp ce elevii exersează la instrumentele lor tradiționale.",
+            "en": "Immerse yourself in Andalusian musical heritage at this local conservatory, listening quietly from the courtyard as students practice their traditional instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El Marhouk",
+            "hu": "Bab El Marhouk",
+            "ro": "Bab El Marhouk",
+            "en": "Bab El Marhouk"
+          },
+          "coords": [
+            -5.260916,
+            35.171397
+          ],
+          "category": "landmark",
+          "arrive_at": "14:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses historische Verteidigungstor, das einen Einblick in die alten Befestigungsanlagen bietet, und tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Haladjon át ezen a történelmi védelmi kapun, amely bepillantást enged az ősi erődítményekbe, és viseljen kényelmes cipőt a közeli egyenetlen macskaköveken való közlekedéshez.",
+            "ro": "Treceți prin această poartă istorică de apărare care oferă o privire asupra vechilor fortificații, purtând încălțăminte confortabilă pentru a naviga pe pietruirea denivelată din apropiere.",
+            "en": "Pass through this historic defensive gate that offers a glimpse into the city's ancient fortifications, wearing comfortable shoes to navigate the uneven cobblestones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomusée du parc national Talassemtane",
+            "hu": "Ecomusée du parc national Talassemtane",
+            "ro": "Ecomusée du parc national Talassemtane",
+            "en": "Ecomusée du parc national Talassemtane"
+          },
+          "coords": [
+            -5.264496,
+            35.175011
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem informativen Museum mehr über die Flora und Fauna der Region und beachten Sie die ausgestellten Wanderkarten, falls Sie in den Bergen wandern möchten.",
+            "hu": "Tudjon meg többet a régió növény- és állatvilágáról ebben az informatív múzeumban, és figyelje meg a kiállított térképeket, ha a környező hegyekben tervez túrázni.",
+            "ro": "Aflați despre flora și fauna diversă a regiunii la acest muzeu informativ, observând hărțile traseelor afișate dacă intenționați să faceți drumeții în munții înconjurători.",
+            "en": "Learn about the region's diverse flora and fauna at this informative museum, noting the trail maps displayed if you plan to hike in the surrounding mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -5.258777,
+            35.174755
+          ],
+          "category": "natural",
+          "arrive_at": "16:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem erhöhten Aussichtspunkt für ein spektakuläres Sonnenuntergangspanorama über die blaue Stadt und bringen Sie eine leichte Jacke mit, da der Wind am Nachmittag zunimmt.",
+            "hu": "Túrázzon fel ehhez a magaslati kilátóhoz, ahonnan látványos naplementés panoráma nyílik a kék városra, és hozzon egy könnyű kabátot, mivel a szél késő délután feltámad.",
+            "ro": "Urcați la acest punct de belvedere înalt pentru o panoramă spectaculoasă la apus asupra orașului albastru, aducând o jachetă ușoară deoarece vântul se întețește după-amiaza.",
+            "en": "Hike up to this elevated viewpoint for a spectacular sunset panorama over the blue city, bringing a light jacket as the wind picks up in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre morgendliche Radtour an der geschäftigen Piazza, bevor Sie zum lebendigen Markt radeln. Die Morgenluft ist perfekt, um zwischen diesen zentralen Knotenpunkten zu fahren. \n Gegen Mittag wechseln Sie von Handel zu Kultur, indem Sie das Kunststudio Omar Saadoune besuchen. Setzen Sie Ihre Fahrt zum Theater Al Kasaba und dem nahe gelegenen Konservatorium fort. \n Im Laufe des Nachmittags radeln Sie zum nördlichen Rand der Medina, um Bab El Marhouk zu sehen. Fahren Sie dann zum Ecomusée, um die ökologische Vielfalt der Region kennenzulernen. \n Beenden Sie Ihre Radtour mit der Fahrt hinauf zum Point de vue. Obwohl das letzte Stück steil ist, macht die herrliche Abendansicht auf die blaue Stadt die Mühe lohnenswert.",
+        "hu": "Kezdje a reggeli kerékpározást a nyüzsgő Piazzán, majd tekerjen le a forgalmas piacra. A reggeli levegő tökéletes a központi tevékenységi csomópontok közötti biciklizéshez. \n Dél körül váltson a kereskedelemről a kultúrára az Omar Saadoune Művészeti Stúdió meglátogatásával. Folytassa útját az Al Kasaba színházhoz és a közeli konzervatóriumhoz. \n A délután folyamán tekerjen a medina északi széle felé, hogy megnézze a Bab El Marhoukot. Ezután irány az Ecomusée, ahol megismerheti a régió ökológiai örökségét. \n Zárja a kerékpáros túrát a Point de vue felé vezető úttal. Bár az utolsó szakasz meredek emelkedő, a kék városra nyíló csodálatos esti kilátás megéri az erőfeszítést.",
+        "ro": "Începeți plimbarea de dimineață cu bicicleta în Piazza aglomerată, înainte de a pedala spre piața plină de viață. Aerul dimineții este perfect pentru a merge între aceste centre centrale. \n În jurul prânzului, treceți de la comerț la cultură vizitând studioul de artă Omar Saadoune. Continuați spre teatrul al kasaba și conservatorul din apropiere pentru a aprecia arta. \n Pe măsură ce după-amiaza progresează, mergeți spre marginea de nord a medinei pentru a vedea Bab El Marhouk. Apoi, mergeți la Ecomusée pentru a învăța despre ecologie. \n Terminați turul cu bicicleta urcând spre Point de vue. Deși ultima porțiune este o urcare abruptă, priveliștea magnifică de seară asupra orașului merită efortul.",
+        "en": "Kick off your morning ride at the bustling Piazza before pedaling down to the lively Market. The morning air is perfect for cycling between these central hubs of activity. \n Around noon, switch from commerce to culture by visiting the Art Studio Omar Saadoune. Continue your ride to the théâtre al kasaba and the nearby Conservatoire to appreciate local arts. \n As the afternoon progresses, cycle towards the northern edge of the medina to see Bab El Marhouk. Then, head to the Ecomusée to learn about the region's unique ecological heritage. \n Finish your cycling tour by heading up towards the Point de vue. Although the final stretch is a steep climb, the magnificent evening view over the blue city makes the effort worthwhile."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 14.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ecomusée du parc national Talassemtane",
+            "hu": "Ecomusée du parc national Talassemtane",
+            "ro": "Ecomusée du parc national Talassemtane",
+            "en": "Ecomusée du parc national Talassemtane"
+          },
+          "coords": [
+            -5.264496,
+            35.175011
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem informativen Museum mehr über die Flora und Fauna der Region und beachten Sie die ausgestellten Wanderkarten, falls Sie in den Bergen wandern möchten.",
+            "hu": "Tudjon meg többet a régió növény- és állatvilágáról ebben az informatív múzeumban, és figyelje meg a kiállított térképeket, ha a környező hegyekben tervez túrázni.",
+            "ro": "Aflați despre flora și fauna diversă a regiunii la acest muzeu informativ, observând hărțile traseelor afișate dacă intenționați să faceți drumeții în munții înconjurători.",
+            "en": "Learn about the region's diverse flora and fauna at this informative museum, noting the trail maps displayed if you plan to hike in the surrounding mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El Marhouk",
+            "hu": "Bab El Marhouk",
+            "ro": "Bab El Marhouk",
+            "en": "Bab El Marhouk"
+          },
+          "coords": [
+            -5.260916,
+            35.171397
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses historische Verteidigungstor, das einen Einblick in die alten Befestigungsanlagen bietet, und tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Haladjon át ezen a történelmi védelmi kapun, amely bepillantást enged az ősi erődítményekbe, és viseljen kényelmes cipőt a közeli egyenetlen macskaköveken való közlekedéshez.",
+            "ro": "Treceți prin această poartă istorică de apărare care oferă o privire asupra vechilor fortificații, purtând încălțăminte confortabilă pentru a naviga pe pietruirea denivelată din apropiere.",
+            "en": "Pass through this historic defensive gate that offers a glimpse into the city's ancient fortifications, wearing comfortable shoes to navigate the uneven cobblestones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza",
+            "hu": "Piazza",
+            "ro": "Piazza",
+            "en": "Piazza"
+          },
+          "coords": [
+            -5.268363,
+            35.168948
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem belebten zentralen Platz, um die blau getünchte Atmosphäre zu genießen, bevor die großen Menschenmengen eintreffen, und suchen Sie nach Ständen mit frischem Minztee.",
+            "hu": "Kezdje a napot ezen a nyüzsgő központi téren, hogy magába szívja a kékre meszelt hangulatot a nagyobb tömeg érkezése előtt, és keressen egy friss mentateát kínáló árust.",
+            "ro": "Începeți ziua în această piață centrală vibrantă pentru a absorbi atmosfera caselor vopsite în albastru înainte de sosirea aglomerației, căutând o tarabă cu ceai proaspăt de mentă.",
+            "en": "Begin your day at this vibrant central square to soak in the blue-washed atmosphere before the main crowds arrive, keeping an eye out for fresh mint tea stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Market",
+            "hu": "Market",
+            "ro": "Market",
+            "en": "Market"
+          },
+          "coords": [
+            -5.265509,
+            35.166487
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit authentischem Kunsthandwerk und Textilien aus dem Rif, aber vergessen Sie nicht, höflich zu feilschen, da dies hier zur Kultur gehört.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot a Rif-hegység autentikus kézműves termékeiért és textíliáiért, de ne felejtsen el udvariasan alkudni, mivel ez a vásárlási kultúra része.",
+            "ro": "Explorați piața locală plină de viață pentru meșteșuguri autentice din munții Rif și textile vibrante, dar nu uitați să negociați politicos, deoarece face parte din cultura cumpărăturilor de aici.",
+            "en": "Explore the bustling local market for authentic Rif mountain crafts and vibrant textiles, but remember to bargain politely as it is part of the shopping culture here."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -5.258777,
+            35.174755
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem erhöhten Aussichtspunkt für ein spektakuläres Sonnenuntergangspanorama über die blaue Stadt und bringen Sie eine leichte Jacke mit, da der Wind am Nachmittag zunimmt.",
+            "hu": "Túrázzon fel ehhez a magaslati kilátóhoz, ahonnan látványos naplementés panoráma nyílik a kék városra, és hozzon egy könnyű kabátot, mivel a szél késő délután feltámad.",
+            "ro": "Urcați la acest punct de belvedere înalt pentru o panoramă spectaculoasă la apus asupra orașului albastru, aducând o jachetă ușoară deoarece vântul se întețește după-amiaza.",
+            "en": "Hike up to this elevated viewpoint for a spectacular sunset panorama over the blue city, bringing a light jacket as the wind picks up in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Talassemtane National Park",
+            "hu": "Talassemtane National Park",
+            "ro": "Talassemtane National Park",
+            "en": "Talassemtane National Park"
+          },
+          "coords": [
+            -5.144412,
+            35.224637
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie der Stadt, um in diesem Reservat Zedernwälder und Schluchten zu erkunden, und packen Sie ausreichend Wasser sowie feste Wanderschuhe für die Wege ein.",
+            "hu": "Meneküljön el a városból, és fedezze fel a cédruserdőket és szurdokokat ebben a természetvédelmi területen; csomagoljon bőségesen vizet és vegyen fel masszív túracipőt.",
+            "ro": "Evadați din oraș pentru a explora pădurile de cedru și cheile spectaculoase în această rezervație naturală masivă, ambalând multă apă și bocanci rezistenți pentru trasee.",
+            "en": "Escape the city to explore pristine cedar forests and dramatic gorges in this massive nature reserve, packing plenty of water and sturdy hiking boots for the trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am Ecomusée, um die Naturlandschaft zu verstehen, bevor Sie zum historischen Tor Bab El Marhouk fahren. Mit dem Auto können Sie die Medina gut umrunden. \n Mittags geht es näher ins Zentrum, wo Sie nahe der Piazza parken. Ein kurzer Spaziergang von Ihrem Fahrzeug führt Sie zum geschäftigen Markt für Souvenirs und Kunsthandwerk. \n Am Nachmittag fahren Sie die Hügel hinauf zum Point de vue für einen beeindruckenden Blick auf Chefchaouen. Die Mobilität des Autos macht diesen Ort schnell erreichbar. \n Verbringen Sie den späten Nachmittag und Abend mit einer Fahrt in den Talassemtane Nationalpark. Dieses majestätische Naturreservat bietet friedliche Ausblicke auf die Rif-Berge in der Dämmerung.",
+        "hu": "Autós túrája az Ecomusée-nél kezdődik, hogy megismerje a természeti tájat, mielőtt a történelmi Bab El Marhouk kapuhoz hajtana. Az autóval gyorsan bejárhatja a medina peremét. \n Délben közelebb kerül a központhoz, a Piazza közelében parkolva, hogy élvezze a város szívét. A járművétől egy rövid séta vezet a nyüzsgő piachoz az ajándékokért. \n Délután vezessen fel a dombokra a Point de vue-hoz, ahonnan lenyűgöző kilátás nyílik Chefchaouenre. Az autó mobilitása hihetetlenül kényelmessé teszi ennek elérését. \n Késő délután és este vezessen ki a Talassemtane Nemzeti Parkba. Ez a fenséges természetvédelmi terület békés alkonyati kilátást nyújt a Rif-hegységre.",
+        "ro": "Turul cu mașina începe la Ecomusée pentru a înțelege peisajul natural, înainte de a vă îndrepta spre poarta istorică Bab El Marhouk. Condusul vă permite să acoperiți rapid perimetrul. \n La prânz vă apropiați de centru, parcând lângă Piazza pentru a vă bucura de inima orașului. O scurtă plimbare de la vehicul vă duce la piața plină de viață pentru suveniruri. \n După-amiaza, conduceți pe dealuri până la Point de vue pentru o perspectivă impresionantă. Mobilitatea mașinii face ca atingerea acestui loc înalt să fie incredibil de convenabilă. \n Petreceți sfârșitul după-amiezii și seara conducând spre Parcul Național Talassemtane. Această rezervație naturală maiestuoasă oferă priveliști senine la amurg ale munților Rif.",
+        "en": "Your driving tour starts at the Ecomusée to understand the natural landscape, before heading to the historic Bab El Marhouk gate. Driving allows you to quickly cover the medina's perimeter. \n Midday takes you closer to the center, parking near the Piazza to enjoy the vibrant heart of the city. A short walk from your vehicle leads you to the bustling Market for souvenirs. \n In the afternoon, drive up the hills to the Point de vue for a commanding perspective of Chefchaouen. The mobility of a car makes reaching this elevated spot incredibly convenient and fast. \n Spend your late afternoon and evening driving out to Talassemtane National Park. This majestic natural reserve offers serene twilight views of the Rif mountains, a perfect peaceful conclusion."
+      }
+    }
+  }
+}

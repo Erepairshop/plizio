@@ -1,0 +1,497 @@
+{
+  "city_id": "montenegro-ulcinj-cities-v2",
+  "anchor": {
+    "name": "Ulcinj",
+    "coords": [
+      19.216667,
+      41.933333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 0.88,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+          },
+          "coords": [
+            19.201229,
+            41.923694
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der antiken zyklopischen Mauern dieser 2.500 Jahre alten Festung, um einen weiten Blick auf die Adria zu genießen, und tragen Sie dabei festes Schuhwerk für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a 2500 éves erőd ősi küklopikus falain, ahonnan lenyűgöző kilátás nyílik az Adriai-tengerre, és viseljen kényelmes cipőt az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul zidurilor ciclopice antice ale acestei fortărețe vechi de 2.500 de ani pentru o vedere panoramică la Marea Adriatică, purtând încălțăminte comodă pentru piatra cubică.",
+            "en": "Walk along the ancient Cyclopean walls of this 2,500-year-old fortress for sweeping Adriatic views, wearing sturdy shoes to navigate the uneven cobblestones safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Arheološki muzej",
+            "hu": "Arheološki muzej",
+            "ro": "Arheološki muzej",
+            "en": "Arheološki muzej"
+          },
+          "coords": [
+            19.201505,
+            41.924662
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Das in einer ehemaligen Moschee untergebrachte Museum zeigt faszinierende illyrische Artefakte und römische Altäre, also nehmen Sie sich Zeit für die Beschreibungen im kleinen Lapidarium.",
+            "hu": "Az egykori mecsetben helyet kapott múzeum lenyűgöző illír leleteket és római oltárokat mutat be, ezért szánjon időt a kis lapidárium feliratainak elolvasására.",
+            "ro": "Găzduit într-o fostă moschee, muzeul expune artefacte ilirice fascinante și altare romane, așa că rezervați-vă timp pentru a citi descrierile din micul lapidariu.",
+            "en": "Housed in a former mosque, the museum exhibits fascinating Illyrian artifacts and Roman altars, so take your time reading the descriptions in the small but rich lapidarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsrkva svetog Nikole",
+            "hu": "Tsrkva svetog Nikole",
+            "ro": "Tsrkva svetog Nikole",
+            "en": "Tsrkva svetog Nikole"
+          },
+          "coords": [
+            19.200851,
+            41.925638
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Diese friedliche orthodoxe Kirche liegt versteckt zwischen Olivenbäumen und besticht durch wunderschöne Fresken, für deren Besichtigung angemessene Kleidung erforderlich ist.",
+            "hu": "Az olajfák között megbúvó békés ortodox templom gyönyörű belső freskókkal büszkélkedhet, a szentélybe való belépéshez pedig szerény öltözet szükséges.",
+            "ro": "Ascunsă liniștit printre măslini, această biserică ortodoxă senină prezintă fresce interioare frumoase, fiind necesară o ținută decentă pentru a intra în sanctuar.",
+            "en": "Nestled quietly among olive trees, this serene Orthodox church features beautiful interior frescoes, and modest dress is required for entry to the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasha's Mosque",
+            "hu": "Pasha's Mosque",
+            "ro": "Pasha's Mosque",
+            "en": "Pasha's Mosque"
+          },
+          "coords": [
+            19.2038,
+            41.925878
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beachten Sie die harmonische Mischung aus osmanischer Architektur und mediterranen Einflüssen in dieser historischen Moschee aus dem 18. Jahrhundert, die Sie am besten außerhalb der Gebetszeiten besuchen.",
+            "hu": "Figyelje meg az oszmán építészet és a mediterrán hatások harmonikus ötvözetét ebben a történelmi, 18. századi mecsetben, amelyet a legjobb imaidőn kívül meglátogatni.",
+            "ro": "Observați amestecul armonios de arhitectură otomană și influențe mediteraneene în această moschee istorică din secolul al XVIII-lea, pe care este bine să o vizitați în afara orelor de rugăciune.",
+            "en": "Notice the harmonious blend of Ottoman architecture and Mediterranean influences in this historic 18th-century mosque, best visited outside of active prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Seaman's Mosque",
+            "hu": "Seaman's Mosque",
+            "ro": "Seaman's Mosque",
+            "en": "Seaman's Mosque"
+          },
+          "coords": [
+            19.204463,
+            41.924365
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Diese malerische Moschee liegt direkt am Wasser und diente einst als Leuchtturm für Seeleute; sie ist ein perfektes Fotomotiv, besonders beim Sonnenuntergang über dem Meer.",
+            "hu": "A közvetlenül a vízparton, a történelmi tengerészek jelzőfényeként álló festői mecset tökéletes hely a fotózáshoz, különösen akkor, amikor a nap lemegy a tenger felett.",
+            "ro": "Poziționată chiar pe malul apei ca un far pentru marinarii de altădată, această moschee pitorească este locul perfect pentru fotografii, mai ales la apus.",
+            "en": "Positioned right by the water as a beacon for historical sailors, this picturesque mosque is a perfect spot for photography, especially as the sun sets over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Small Beach",
+            "hu": "Small Beach",
+            "ro": "Small Beach",
+            "en": "Small Beach"
+          },
+          "coords": [
+            19.205012,
+            41.923382
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre der flachen Sandküste direkt unterhalb der Altstadt, kommen Sie jedoch im Sommer früh, um sich einen Platz zu sichern.",
+            "hu": "Tapasztalja meg az óváros alatti sekély, homokos part nyüzsgő hangulatát, de nyáron érkezzen korán, hogy biztosítson magának helyet a tömeg előtt.",
+            "ro": "Experimentați atmosfera plină de viață a țărmului nisipos și puțin adânc de sub orașul vechi, dar ajungeți devreme vara pentru a prinde un loc bun.",
+            "en": "Experience the lively atmosphere of the shallow, sandy shoreline directly below the old town, but arrive early in summer to secure a spot before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+          },
+          "coords": [
+            19.205926,
+            41.923963
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die leichte Anhöhe zu diesem markanten Betondenkmal aus der sozialistischen Ära hinauf, das an den Widerstand im Zweiten Weltkrieg erinnert und einen modernen Kontrast zur Altstadt bildet.",
+            "hu": "Másszon fel a enyhe magaslaton található lenyűgöző szocialista korszakbeli betonemlékműhöz, amely a második világháborús ellenállásnak állít emléket, és egyedülálló kontrasztot nyújt az alatta elterülő középkori várossal.",
+            "ro": "Urcați mica înălțime până la acest monument impresionant din beton din epoca socialistă, care comemorează rezistența din Al Doilea Război Mondial și oferă un contrast modernist unic.",
+            "en": "Climb the slight elevation to this striking concrete socialist-era monument commemorating World War II resistance, offering a unique modernist contrast to the medieval town below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen wir an der majestätischen Tvrđava Ulcinj und tauchen in die antike Geschichte ein. Im Archäologischen Museum entdecken wir römische und illyrische Artefakte.\n\nMittags schlendern wir zur friedlichen Kirche des Heiligen Nikolaus und weiter zur historischen Pascha-Moschee, die eine tiefe kulturelle Vielfalt offenbart.\n\nNachmittags bewundern wir die Seemanns-Moschee am Wasser und entspannen an der lebhaften Küste des Small Beach im Sonnenschein.\n\nAbends endet unser Rundgang am markanten Spomenik Pobjede, dessen kühne Architektur im Kontrast zur alten Stadt steht und an vergangene Heldentaten erinnert.",
+        "hu": "Reggel a fenséges Tvrđava Ulcinj erődítménynél kezdjük napunkat, majd a régészeti múzeumban ősi illír és római rejtélyeket fedezünk fel az óvárosban.\n\nDélben a békés Szent Miklós-templom mellett elhaladva a lenyűgöző pasa mecsetjéhez érünk, amely a város gazdag kulturális keverékét mutatja be.\n\nDélután a part menti tengerész mecset köszönt minket, majd a pezsgő Kis Strandon lazítunk és élvezzük az adriai napsütést.\n\nEste a napot a tiszteletet parancsoló Spomenik Pobjede emlékműnél zárjuk, ahonnan a sötétedő tenger felett merenghetünk el a múlt hőstettein.",
+        "ro": "Dimineața începem la maiestuoasa Tvrđava Ulcinj, pășind în istoria antică a orașului vechi. Muzeul arheologic dezvăluie mistere ilirice și romane.\n\nLa prânz, coborâm pe lângă pașnica Biserică Sf. Nicolae spre impresionanta Moschee a Pașei. Amestecul de culturi este profund și vizibil.\n\nDupă-amiaza, Moscheea Marinarilor ne întâmpină pe țărm, iar apoi ne relaxăm la atmosfera plină de viață de pe Plaja Mică.\n\nSeara, ziua noastră se încheie la impunătorul Spomenik Pobjede, un monument modernist care domină Marea Adriatică și reflectă poveștile de rezistență.",
+        "en": "Morning: We start at the majestic Tvrđava Ulcinj, stepping back 2,500 years in the historic Old Town. The archaeological museum reveals ancient mysteries.\n\nMidday: Descending past the peaceful St. Nicholas Church, the path leads to the intricate Pasha's Mosque. The mix of cultures is profound.\n\nAfternoon: The Seaman's Mosque greets us by the shore, a testament to Ulcinj's maritime legacy. We then relax at the lively Small Beach.\n\nEvening: Our day concludes at the commanding Spomenik Pobjede, an imposing monument overlooking the darkening Adriatic, echoing stories of wartime bravery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 2.77,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Clock Tower",
+            "hu": "Clock Tower",
+            "ro": "Clock Tower",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            19.208136,
+            41.929987
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den sorgfältig restaurierten steinernen Uhrturm aus dem 18. Jahrhundert, der den Alltag der Stadt strukturierte, und nutzen Sie ihn als Treffpunkt vor dem Basarbesuch.",
+            "hu": "Csodálja meg a gondosan felújított 18. századi kő óratornyot, amely egykor a város mindennapjait szabályozta, és használja központi elhelyezkedését találkozási pontként a bazár felfedezése előtt.",
+            "ro": "Admirați turnul cu ceas din piatră din secolul al XVIII-lea, meticulos restaurat, și folosiți locația sa centrală ca punct de întâlnire înainte de a explora bazarul.",
+            "en": "Admire the meticulously restored 18th-century stone clock tower that helped organize the town's daily life, and use its central location as a meeting point before exploring the bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Qendra per Kultur",
+            "hu": "Qendra per Kultur",
+            "ro": "Qendra per Kultur",
+            "en": "Qendra per Kultur"
+          },
+          "coords": [
+            19.214146,
+            41.929655
+          ],
+          "category": "cultural",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Informieren Sie sich in diesem modernen Kulturzentrum über das aktuelle Programm für Ausstellungen und Folkloreaufführungen, die das reiche albanisch-montenegrinische Erbe der Region beleuchten.",
+            "hu": "Nézze meg a helyi programokat ebben a modern kulturális központban, ahol esti kiállítások és folklór előadások emelik ki a régió gazdag albán-montenegrói örökségét.",
+            "ro": "Verificați programul local la acest centru cultural modern pentru expoziții de seară, spectacole folclorice și evenimente artistice care evidențiază patrimoniul albano-muntenegrean.",
+            "en": "Check the local schedule at this modern cultural center for evening exhibitions, folkloric performances, and art shows that highlight the region's rich Albanian-Montenegrin heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ženska plaža - Plazhi i Grave",
+            "hu": "Ženska plaža - Plazhi i Grave",
+            "ro": "Ženska plaža - Plazhi i Grave",
+            "en": "Ženska plaža - Plazhi i Grave"
+          },
+          "coords": [
+            19.213559,
+            41.919947
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Umgeben von Pinienbäumen ist dieser private, nur für Frauen zugängliche Strand berühmt für seine heilenden Schwefelquellen; bringen Sie ein Handtuch mit und genießen Sie die Privatsphäre.",
+            "hu": "A buja fenyőfákkal körülvett, kizárólag nők által látogatható privát strand gyógyító kénes forrásairól híres, ezért hozzon törölközőt, és élvezze a terápiás vizet teljes nyugalomban.",
+            "ro": "Închisă de pini deși, această plajă privată destinată doar femeilor este renumită pentru izvoarele sale de sulf tămăduitoare, așa că luați un prosop și bucurați-vă de intimitate.",
+            "en": "Enclosed by lush pine trees, this private, women-only beach is famed for its healing sulfur springs, so bring a towel and enjoy the therapeutic waters in absolute privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+            "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+          },
+          "coords": [
+            19.205926,
+            41.923963
+          ],
+          "category": "landmark",
+          "arrive_at": "12:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Steigen Sie die leichte Anhöhe zu diesem markanten Betondenkmal aus der sozialistischen Ära hinauf, das an den Widerstand im Zweiten Weltkrieg erinnert und einen modernen Kontrast zur Altstadt bildet.",
+            "hu": "Másszon fel a enyhe magaslaton található lenyűgöző szocialista korszakbeli betonemlékműhöz, amely a második világháborús ellenállásnak állít emléket, és egyedülálló kontrasztot nyújt az alatta elterülő középkori várossal.",
+            "ro": "Urcați mica înălțime până la acest monument impresionant din beton din epoca socialistă, care comemorează rezistența din Al Doilea Război Mondial și oferă un contrast modernist unic.",
+            "en": "Climb the slight elevation to this striking concrete socialist-era monument commemorating World War II resistance, offering a unique modernist contrast to the medieval town below."
+          }
+        },
+        {
+          "name": {
+            "de": "Seaman's Mosque",
+            "hu": "Seaman's Mosque",
+            "ro": "Seaman's Mosque",
+            "en": "Seaman's Mosque"
+          },
+          "coords": [
+            19.204463,
+            41.924365
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Diese malerische Moschee liegt direkt am Wasser und diente einst als Leuchtturm für Seeleute; sie ist ein perfektes Fotomotiv, besonders beim Sonnenuntergang über dem Meer.",
+            "hu": "A közvetlenül a vízparton, a történelmi tengerészek jelzőfényeként álló festői mecset tökéletes hely a fotózáshoz, különösen akkor, amikor a nap lemegy a tenger felett.",
+            "ro": "Poziționată chiar pe malul apei ca un far pentru marinarii de altădată, această moschee pitorească este locul perfect pentru fotografii, mai ales la apus.",
+            "en": "Positioned right by the water as a beacon for historical sailors, this picturesque mosque is a perfect spot for photography, especially as the sun sets over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+            "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+          },
+          "coords": [
+            19.201229,
+            41.923694
+          ],
+          "category": "castle",
+          "arrive_at": "13:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der antiken zyklopischen Mauern dieser 2.500 Jahre alten Festung, um einen weiten Blick auf die Adria zu genießen, und tragen Sie dabei festes Schuhwerk für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a 2500 éves erőd ősi küklopikus falain, ahonnan lenyűgöző kilátás nyílik az Adriai-tengerre, és viseljen kényelmes cipőt az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul zidurilor ciclopice antice ale acestei fortărețe vechi de 2.500 de ani pentru o vedere panoramică la Marea Adriatică, purtând încălțăminte comodă pentru piatra cubică.",
+            "en": "Walk along the ancient Cyclopean walls of this 2,500-year-old fortress for sweeping Adriatic views, wearing sturdy shoes to navigate the uneven cobblestones safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnt unsere Radtour zentral am restaurierten Uhrturm, woraufhin wir rasch zum Kulturzentrum radeln, um regionale Kunstwerke zu betrachten.\n\nMittags cruisen wir entlang der Südküste zum versteckten Frauenstrand Ženska plaža, wo der Duft von Kiefern und die frische Meeresbrise uns erfrischen.\n\nNachmittags geht es zurück zur Bucht mit einem Halt am markanten Siegesdenkmal und der charmanten Seemanns-Moschee am Wasser.\n\nAbends stellen wir die Räder ab und steigen zur massiven Festung Tvrđava Ulcinj hinauf, um den Sonnenuntergang von den alten Mauern zu bewundern.",
+        "hu": "Reggel a túránk központilag, a felújított óratoronynál indul, ahonnan gyorsan a kulturális központba tekerünk, hogy magunkba szívjuk a helyi művészetet.\n\nDélben dél felé gurulunk a tengerpart mentén a gyógyhatású és elzárt Ženska plaža felé, ahol a fenyők illata és a csend fogad minket.\n\nDélután visszatérünk az öböl felé, megállunk a merész Spomenik Pobjede emlékműnél, majd meglátogatjuk a festői tengerész mecsetet.\n\nEste letesszük a kerékpárokat és felsétálunk az impozáns Tvrđava Ulcinj erődbe, hogy a küklopikus falakról élvezzük a naplementét.",
+        "ro": "Dimineața, plimbarea noastră începe central la Turnul cu Ceas, pedalând rapid spre Centrul Cultural pentru a admira arta locală.\n\nLa prânz, coborând spre sud de-a lungul coastei, ajungem la Plaja Femeilor (Ženska plaža), respirând parfumul pinilor de coastă.\n\nDupă-amiaza, ne întoarcem spre golf, făcând o oprire la monumentul impresionant Spomenik Pobjede înainte de a vizita pitoreasca Moschee a Marinarilor.\n\nSeara se încheie lăsând bicicletele pentru a urca la formidabila Tvrđava Ulcinj, bucurându-ne de apusul spectaculos de pe zidurile ciclopice.",
+        "en": "Morning: Our ride begins centrally at the restored Clock Tower, pedaling quickly to the vibrant Qendra per Kultur to soak up local art.\n\nMidday: Cruising southward along the coast, we reach the therapeutic and secluded Ženska plaža, breathing in the scent of coastal pines.\n\nAfternoon: We loop back towards the bay, stopping at the bold Spomenik Pobjede before visiting the picturesque Seaman's Mosque.\n\nEvening: We end by locking the bikes and ascending to the formidable Tvrđava Ulcinj, enjoying the spectacular sunset from the cyclopean walls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 2.44,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Qendra per Kultur",
+            "hu": "Qendra per Kultur",
+            "ro": "Qendra per Kultur",
+            "en": "Qendra per Kultur"
+          },
+          "coords": [
+            19.214146,
+            41.929655
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich in diesem modernen Kulturzentrum über das aktuelle Programm für Ausstellungen und Folkloreaufführungen, die das reiche albanisch-montenegrinische Erbe der Region beleuchten.",
+            "hu": "Nézze meg a helyi programokat ebben a modern kulturális központban, ahol esti kiállítások és folklór előadások emelik ki a régió gazdag albán-montenegrói örökségét.",
+            "ro": "Verificați programul local la acest centru cultural modern pentru expoziții de seară, spectacole folclorice și evenimente artistice care evidențiază patrimoniul albano-muntenegrean.",
+            "en": "Check the local schedule at this modern cultural center for evening exhibitions, folkloric performances, and art shows that highlight the region's rich Albanian-Montenegrin heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Clock Tower",
+            "hu": "Clock Tower",
+            "ro": "Clock Tower",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            19.208136,
+            41.929987
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den sorgfältig restaurierten steinernen Uhrturm aus dem 18. Jahrhundert, der den Alltag der Stadt strukturierte, und nutzen Sie ihn als Treffpunkt vor dem Basarbesuch.",
+            "hu": "Csodálja meg a gondosan felújított 18. századi kő óratornyot, amely egykor a város mindennapjait szabályozta, és használja központi elhelyezkedését találkozási pontként a bazár felfedezése előtt.",
+            "ro": "Admirați turnul cu ceas din piatră din secolul al XVIII-lea, meticulos restaurat, și folosiți locația sa centrală ca punct de întâlnire înainte de a explora bazarul.",
+            "en": "Admire the meticulously restored 18th-century stone clock tower that helped organize the town's daily life, and use its central location as a meeting point before exploring the bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasha's Mosque",
+            "hu": "Pasha's Mosque",
+            "ro": "Pasha's Mosque",
+            "en": "Pasha's Mosque"
+          },
+          "coords": [
+            19.2038,
+            41.925878
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Beachten Sie die harmonische Mischung aus osmanischer Architektur und mediterranen Einflüssen in dieser historischen Moschee aus dem 18. Jahrhundert, die Sie am besten außerhalb der Gebetszeiten besuchen.",
+            "hu": "Figyelje meg az oszmán építészet és a mediterrán hatások harmonikus ötvözetét ebben a történelmi, 18. századi mecsetben, amelyet a legjobb imaidőn kívül meglátogatni.",
+            "ro": "Observați amestecul armonios de arhitectură otomană și influențe mediteraneene în această moschee istorică din secolul al XVIII-lea, pe care este bine să o vizitați în afara orelor de rugăciune.",
+            "en": "Notice the harmonious blend of Ottoman architecture and Mediterranean influences in this historic 18th-century mosque, best visited outside of active prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Arheološki muzej",
+            "hu": "Arheološki muzej",
+            "ro": "Arheološki muzej",
+            "en": "Arheološki muzej"
+          },
+          "coords": [
+            19.201505,
+            41.924662
+          ],
+          "category": "museum",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Das in einer ehemaligen Moschee untergebrachte Museum zeigt faszinierende illyrische Artefakte und römische Altäre, also nehmen Sie sich Zeit für die Beschreibungen im kleinen Lapidarium.",
+            "hu": "Az egykori mecsetben helyet kapott múzeum lenyűgöző illír leleteket és római oltárokat mutat be, ezért szánjon időt a kis lapidárium feliratainak elolvasására.",
+            "ro": "Găzduit într-o fostă moschee, muzeul expune artefacte ilirice fascinante și altare romane, așa că rezervați-vă timp pentru a citi descrierile din micul lapidariu.",
+            "en": "Housed in a former mosque, the museum exhibits fascinating Illyrian artifacts and Roman altars, so take your time reading the descriptions in the small but rich lapidarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Small Beach",
+            "hu": "Small Beach",
+            "ro": "Small Beach",
+            "en": "Small Beach"
+          },
+          "coords": [
+            19.205012,
+            41.923382
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre der flachen Sandküste direkt unterhalb der Altstadt, kommen Sie jedoch im Sommer früh, um sich einen Platz zu sichern.",
+            "hu": "Tapasztalja meg az óváros alatti sekély, homokos part nyüzsgő hangulatát, de nyáron érkezzen korán, hogy biztosítson magának helyet a tömeg előtt.",
+            "ro": "Experimentați atmosfera plină de viață a țărmului nisipos și puțin adânc de sub orașul vechi, dar ajungeți devreme vara pentru a prinde un loc bun.",
+            "en": "Experience the lively atmosphere of the shallow, sandy shoreline directly below the old town, but arrive early in summer to secure a spot before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ženska plaža - Plazhi i Grave",
+            "hu": "Ženska plaža - Plazhi i Grave",
+            "ro": "Ženska plaža - Plazhi i Grave",
+            "en": "Ženska plaža - Plazhi i Grave"
+          },
+          "coords": [
+            19.213559,
+            41.919947
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Umgeben von Pinienbäumen ist dieser private, nur für Frauen zugängliche Strand berühmt für seine heilenden Schwefelquellen; bringen Sie ein Handtuch mit und genießen Sie die Privatsphäre.",
+            "hu": "A buja fenyőfákkal körülvett, kizárólag nők által látogatható privát strand gyógyító kénes forrásairól híres, ezért hozzon törölközőt, és élvezze a terápiás vizet teljes nyugalomban.",
+            "ro": "Închisă de pini deși, această plajă privată destinată doar femeilor este renumită pentru izvoarele sale de sulf tămăduitoare, așa că luați un prosop și bucurați-vă de intimitate.",
+            "en": "Enclosed by lush pine trees, this private, women-only beach is famed for its healing sulfur springs, so bring a towel and enjoy the therapeutic waters in absolute privacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten wir unsere Fahrt am modernen Kulturzentrum und machen einen kurzen Fotostopp am historischen Uhrturm, bevor wir das lebhafte Treiben der Stadt genießen.\n\nMittags parken wir in der Nähe der Pascha-Moschee, um deren osmanische Eleganz zu bewundern, und fahren dann weiter zur Zitadelle, wo das Archäologische Museum wartet.\n\nNachmittags fahren wir hinunter an die Küste für eine erfrischende Pause an der Small Beach, wo die Promenade zu einem entspannten Spaziergang einlädt.\n\nAbends endet unsere Fahrt mit einer kurzen Route entlang der Küste zum versteckten Frauenstrand Ženska plaža, wo der Sonnenuntergang eine ruhige Atmosphäre schafft.",
+        "hu": "Reggel a modern kulturális központnál kezdjük autós utunkat, majd röviden megállunk a történelmi óratoronynál, mielőtt elmerülnénk a város bájos utcáiban.\n\nDélben a pasa mecsete közelében parkolunk, hogy megcsodáljuk az oszmán eleganciát, majd felhajtunk a fellegvárhoz, ahol a régészeti múzeum kincsei várnak.\n\nDélután leereszkedünk a partra, és frissítő pihenőt tartunk a Kis Strand homokos partján, miközben élvezzük a parti sétány nyüzsgő hangulatát.\n\nEste utazásunk a tengerpart menti rövid autózással zárul a fákkal övezett Ženska plaža mellett, amely tökéletes egy békés tengerparti alkonyhoz.",
+        "ro": "Dimineața ne începem plimbarea cu mașina lângă Centrul Cultural, vizitând scurt istoricul Turn cu Ceas înainte de a naviga pe străzile fermecătoare ale orașului.\n\nLa prânz parcăm lângă Moscheea Pașei pentru a admira eleganța sa otomană, apoi urcăm spre citadelă pentru a explora bogatul Muzeu Arheologic.\n\nDupă-amiaza, coborând spre țărm, luăm o pauză reconfortantă pe nisipurile de la Plaja Mică, bucurându-ne de vibrația plină de viață a promenadei.\n\nSeara, călătoria noastră se încheie cu o scurtă plimbare pe coastă până la marginea împădurită a Plajei Femeilor, perfectă pentru un amurg liniștit.",
+        "en": "Morning: Starting our drive near the bustling Qendra per Kultur, we briefly visit the historic Clock Tower before navigating the town's charming streets.\n\nMidday: We park near Pasha's Mosque to admire its Ottoman elegance, then head up towards the citadel to explore the rich Arheološki muzej.\n\nAfternoon: Driving down to the shore, we take a refreshing break by the sands of Small Beach, enjoying the coastal promenade's lively vibe.\n\nEvening: Our journey wraps up with a short scenic drive down the coast to the forested edge of Ženska plaža, perfect for a peaceful coastal dusk."
+      }
+    }
+  }
+}

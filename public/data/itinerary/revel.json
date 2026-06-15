@@ -1,0 +1,497 @@
+{
+  "city_id": "revel",
+  "anchor": {
+    "name": "Revel",
+    "coords": [
+      2.0042,
+      43.4586
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Revel Market Hall",
+            "hu": "Revel Market Hall",
+            "ro": "Revel Market Hall",
+            "en": "Revel Market Hall"
+          },
+          "coords": [
+            2.00453,
+            43.458568
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der schönsten überdachten Markthallen Frankreichs aus dem 14. Jahrhundert und kommen Sie samstags früh, um die Stände zu genießen.",
+            "hu": "Csodálja meg Franciaország egyik legszebb 14. századi fedett piacát, és érkezzen korán szombaton, hogy élvezze a helyi termelők nyüzsgő standjait.",
+            "ro": "Admirați una dintre cele mai frumoase piețe acoperite din Franța secolului al XIV-lea și ajungeți devreme sâmbăta pentru a vă bucura de tarabele locale.",
+            "en": "Admire one of France's most beautiful covered markets from the 14th century, and arrive early on Saturday to enjoy the vibrant local farmer's stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Grâces de Revel",
+            "hu": "Église Notre-Dame-des-Grâces de Revel",
+            "ro": "Église Notre-Dame-des-Grâces de Revel",
+            "en": "Église Notre-Dame-des-Grâces de Revel"
+          },
+          "coords": [
+            2.004354,
+            43.456736
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante neobyzantinische Innere dieser historischen Kirche und nehmen Sie sich Zeit für die schönen Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az elegáns neobizánci belső terét, és szánjon egy pillanatot a gyönyörű ólomüveg ablakok megtekintésére.",
+            "ro": "Minunați-vă de interiorul neobizantin elegant al acestei biserici istorice, luându-vă un moment pentru a aprecia vitraliile frumoase în lumina dimineții.",
+            "en": "Marvel at the elegant neo-Byzantine interior of this historic church, taking a moment to appreciate the beautiful stained glass windows in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du bois et de la marqueterie de Revel",
+            "hu": "Musée du bois et de la marqueterie de Revel",
+            "ro": "Musée du bois et de la marqueterie de Revel",
+            "en": "Musée du bois et de la marqueterie de Revel"
+          },
+          "coords": [
+            2.005716,
+            43.458719
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Revels reiche Geschichte der Einlegearbeiten und Holzverarbeitung, und nehmen Sie an einer Führung teil, um die Handwerkskunst zu würdigen.",
+            "hu": "Fedezze fel Revel fafaragó és intarziakészítő történelmét, és mindenképp vegyen részt egy tárlatvezetésen, hogy értékelni tudja a kiállított műalkotásokat.",
+            "ro": "Descoperiți istoria bogată a orașului Revel în prelucrarea lemnului și asigurați-vă că faceți turul ghidat pentru a aprecia măiestria artizanală expusă.",
+            "en": "Discover Revel's rich history in marquetry and woodworking, ensuring you take the guided tour to fully appreciate the intricate craftsmanship on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake Saint-Ferréol",
+            "hu": "Lake Saint-Ferréol",
+            "ro": "Lake Saint-Ferréol",
+            "en": "Lake Saint-Ferréol"
+          },
+          "coords": [
+            2.02005,
+            43.438989
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Ufern dieses von Riquet erbauten historischen Stausees und bringen Sie eine Picknickdecke für ein ruhiges Mittagessen im Kiefernwald mit.",
+            "hu": "Pihenjen a Riquet által épített történelmi víztározó nyugodt partján, és hozzon magával egy pikniktakarót egy békés ebédhez a fenyőerdők ölelésében.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestui rezervor istoric construit de Riquet, aducând o pătură de picnic pentru a savura un prânz pașnic.",
+            "en": "Relax by the tranquil shores of this historic reservoir built by Riquet, bringing a picnic blanket to enjoy a peaceful lunch surrounded by pine forests."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée et Jardins du Canal du Midi",
+            "hu": "Musée et Jardins du Canal du Midi",
+            "ro": "Musée et Jardins du Canal du Midi",
+            "en": "Musée et Jardins du Canal du Midi"
+          },
+          "coords": [
+            2.018714,
+            43.437271
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die unglaubliche Technik des Canal du Midi und spazieren Sie durch die romantischen Gärten im englischen Stil des 19. Jahrhunderts.",
+            "hu": "Ismerje meg a Canal du Midi mögött meghúzódó hihetetlen mérnöki munkát, és sétáljon egyet a 19. században tervezett, romantikus angol stílusú kertekben.",
+            "ro": "Aflați despre ingineria incredibilă din spatele Canalului Midi și faceți o plimbare prin grădinile romantice în stil englezesc proiectate în secolul al XIX-lea.",
+            "en": "Learn about the incredible engineering behind the Canal du Midi, and take a stroll through the romantic English-style gardens designed in the 19th century."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Revel an der berühmten Markthalle, bevor Sie zur Kirche Notre-Dame-des-Grâces gehen. Mittags besuchen Sie das Musée du bois und tauchen in die Handwerkskunst ein. Am Nachmittag führt ein gemütlicher Spaziergang zum ruhigen See Saint-Ferréol, einem Meisterwerk aus dem 17. Jahrhundert. Der Abend endet am Musée et Jardins du Canal du Midi mit friedlichen Spaziergängen.",
+        "hu": "A nap Revel történelmi szívében, az ikonikus vásárcsarnoknál indul, majd a közeli Église Notre-Dame-des-Grâces templomhoz sétál. Délben a Musée du bois fafaragó művészetébe nyerhet bepillantást. Délután egy kellemes séta vezet a nyugodt Saint-Ferréol-tóhoz, amely egy 17. századi mérnöki csoda. Az este a Canal du Midi múzeumában és kertjeiben ér véget, békés hangulatot nyújtva.",
+        "ro": "Ziua începe în inima istorică a orașului Revel, la faimoasa Piață Acoperită, înainte de a vizita Église Notre-Dame-des-Grâces. La prânz, vizitați Musée du bois pentru a descoperi arta marchetăriei. După-amiaza, o plimbare vă duce la liniștitul Lac Saint-Ferréol, o capodoperă a ingineriei din secolul al XVII-lea. Seara se încheie la Musée et Jardins du Canal du Midi cu o plimbare liniștită.",
+        "en": "Your day begins in the historic heart of Revel at the iconic Market Hall, before heading to the nearby neo-Byzantine Église Notre-Dame-des-Grâces. Midday takes you to the Musée du bois, immersing you in the town's legendary marquetry craftsmanship. In the afternoon, a steady walk leads to the tranquil Lake Saint-Ferréol, a feat of 17th-century engineering. The evening concludes at the Musée et Jardins du Canal du Midi, offering peaceful twilight strolls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Revel Market Hall",
+            "hu": "Revel Market Hall",
+            "ro": "Revel Market Hall",
+            "en": "Revel Market Hall"
+          },
+          "coords": [
+            2.00453,
+            43.458568
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der schönsten überdachten Markthallen Frankreichs aus dem 14. Jahrhundert und kommen Sie samstags früh, um die Stände zu genießen.",
+            "hu": "Csodálja meg Franciaország egyik legszebb 14. századi fedett piacát, és érkezzen korán szombaton, hogy élvezze a helyi termelők nyüzsgő standjait.",
+            "ro": "Admirați una dintre cele mai frumoase piețe acoperite din Franța secolului al XIV-lea și ajungeți devreme sâmbăta pentru a vă bucura de tarabele locale.",
+            "en": "Admire one of France's most beautiful covered markets from the 14th century, and arrive early on Saturday to enjoy the vibrant local farmer's stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du bois et de la marqueterie de Revel",
+            "hu": "Musée du bois et de la marqueterie de Revel",
+            "ro": "Musée du bois et de la marqueterie de Revel",
+            "en": "Musée du bois et de la marqueterie de Revel"
+          },
+          "coords": [
+            2.005716,
+            43.458719
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Revels reiche Geschichte der Einlegearbeiten und Holzverarbeitung, und nehmen Sie an einer Führung teil, um die Handwerkskunst zu würdigen.",
+            "hu": "Fedezze fel Revel fafaragó és intarziakészítő történelmét, és mindenképp vegyen részt egy tárlatvezetésen, hogy értékelni tudja a kiállított műalkotásokat.",
+            "ro": "Descoperiți istoria bogată a orașului Revel în prelucrarea lemnului și asigurați-vă că faceți turul ghidat pentru a aprecia măiestria artizanală expusă.",
+            "en": "Discover Revel's rich history in marquetry and woodworking, ensuring you take the guided tour to fully appreciate the intricate craftsmanship on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake Saint-Ferréol",
+            "hu": "Lake Saint-Ferréol",
+            "ro": "Lake Saint-Ferréol",
+            "en": "Lake Saint-Ferréol"
+          },
+          "coords": [
+            2.02005,
+            43.438989
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Ufern dieses von Riquet erbauten historischen Stausees und bringen Sie eine Picknickdecke für ein ruhiges Mittagessen im Kiefernwald mit.",
+            "hu": "Pihenjen a Riquet által épített történelmi víztározó nyugodt partján, és hozzon magával egy pikniktakarót egy békés ebédhez a fenyőerdők ölelésében.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestui rezervor istoric construit de Riquet, aducând o pătură de picnic pentru a savura un prânz pașnic.",
+            "en": "Relax by the tranquil shores of this historic reservoir built by Riquet, bringing a picnic blanket to enjoy a peaceful lunch surrounded by pine forests."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée et Jardins du Canal du Midi",
+            "hu": "Musée et Jardins du Canal du Midi",
+            "ro": "Musée et Jardins du Canal du Midi",
+            "en": "Musée et Jardins du Canal du Midi"
+          },
+          "coords": [
+            2.018714,
+            43.437271
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die unglaubliche Technik des Canal du Midi und spazieren Sie durch die romantischen Gärten im englischen Stil des 19. Jahrhunderts.",
+            "hu": "Ismerje meg a Canal du Midi mögött meghúzódó hihetetlen mérnöki munkát, és sétáljon egyet a 19. században tervezett, romantikus angol stílusú kertekben.",
+            "ro": "Aflați despre ingineria incredibilă din spatele Canalului Midi și faceți o plimbare prin grădinile romantice în stil englezesc proiectate în secolul al XIX-lea.",
+            "en": "Learn about the incredible engineering behind the Canal du Midi, and take a stroll through the romantic English-style gardens designed in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin de Saint-Ferréol",
+            "hu": "Bassin de Saint-Ferréol",
+            "ro": "Bassin de Saint-Ferréol",
+            "en": "Bassin de Saint-Ferréol"
+          },
+          "coords": [
+            2.028978,
+            43.436719
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie den massiven Damm, der das Kanalsystem speist, und spazieren Sie den beeindruckenden Wall entlang, um den Panoramablick zu genießen.",
+            "hu": "Fedezze fel a híres csatornarendszert tápláló hatalmas gátat, és sétáljon végig a lenyűgöző töltésen, hogy élvezze a Fekete-hegység panorámáját.",
+            "ro": "Explorați barajul masiv care hrănește faimosul sistem de canale, plimbându-vă de-a lungul digului impresionant pentru a prinde vederi panoramice.",
+            "en": "Explore the massive dam that feeds the famous canal system, walking along the impressive embankment to catch panoramic views of the Montagne Noire."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini Golf de Saint-Ferréol",
+            "hu": "Mini Golf de Saint-Ferréol",
+            "ro": "Mini Golf de Saint-Ferréol",
+            "en": "Mini Golf de Saint-Ferréol"
+          },
+          "coords": [
+            2.028843,
+            43.440302
+          ],
+          "category": "family",
+          "arrive_at": "16:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen lustigen Nachmittag mit der Familie auf diesem charmanten Minigolfplatz, am besten kurz vor Sonnenuntergang, wenn es abkühlt.",
+            "hu": "Töltsön el egy vidám délutánt a családdal ezen a bájos minigolfpályán, ideális esetben közvetlenül naplemente előtt, amikor a hőmérséklet lehűl.",
+            "ro": "Bucurați-vă de o după-amiază plină de distracție alături de familie la acest teren de mini-golf fermecător, programat ideal chiar înainte de apus.",
+            "en": "Enjoy a fun-filled afternoon with family or friends at this charming mini-golf course, ideally timed right before sunset when the temperature cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour unter den Holzbalken der Markthalle von Revel, gefolgt von einem Besuch im Musée du bois. Eine malerische Fahrt bringt Sie mittags an die bewaldeten Ufer des Sees Saint-Ferréol. Am Nachmittag tauchen Sie im Musée et Jardins du Canal du Midi tiefer in die Wasserbaugeschichte ein. Runden Sie den Tag am Bassin de Saint-Ferréol und bei einer Partie Minigolf ab.",
+        "hu": "Kezdje kerékpártúráját a reveli vásárcsarnok hatalmas fagerendái alatt, majd látogasson el a szomszédos Musée du bois-ba. Egy festői déli tekerés a Saint-Ferréol-tó erdős partjához vezet. Délután merüljön el a régió hidraulikus történelmében a Canal du Midi múzeumában. Zárja aktív napját a Bassin de Saint-Ferréol megtekintésével és egy szürkületi minigolffal.",
+        "ro": "Începeți turul cu bicicleta sub grinzile de lemn ale Pieței din Revel, urmat de o vizită la Musée du bois. O plimbare pitorească la prânz vă aduce pe malurile împădurite ale Lacului Saint-Ferréol. După-amiaza, pătrundeți în istoria hidraulică la Musée et Jardins du Canal du Midi. Încheiați ziua vizitând Bassin de Saint-Ferréol și bucurându-vă de o partidă de mini-golf.",
+        "en": "Start your cycling tour under the grand wooden beams of Revel Market Hall, quickly followed by a visit to the adjacent Musée du bois. A scenic midday ride brings you to the forested shores of Lake Saint-Ferréol for relaxation. In the afternoon, dive deeper into the region's hydraulic history at the Musée et Jardins du Canal du Midi. Cap off your active day by visiting the Bassin de Saint-Ferréol and enjoying a twilight round of Mini Golf."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:31",
+      "total_km": 7.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Pierre-de-Calvayrac",
+            "hu": "Chapelle Saint-Pierre-de-Calvayrac",
+            "ro": "Chapelle Saint-Pierre-de-Calvayrac",
+            "en": "Chapelle Saint-Pierre-de-Calvayrac"
+          },
+          "coords": [
+            1.969562,
+            43.451085
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die heitere Atmosphäre dieser malerischen Feldkapelle und achten Sie auf das rustikale Mauerwerk, das die mittelalterliche Architektur widerspiegelt.",
+            "hu": "Tapasztalja meg ennek a festői vidéki kápolnának a nyugodt atmoszféráját, és figyelje meg a középkori okcitán építészetet tükröző rusztikus kőfalakat.",
+            "ro": "Experimentați atmosfera senină a acestei capele de țară pitorești și acordați atenție pietrăriei sale rustice care reflectă arhitectura medievală occitană.",
+            "en": "Experience the serene atmosphere of this quaint countryside chapel, and pay attention to its rustic stonework that reflects medieval Occitan architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Grâces de Revel",
+            "hu": "Église Notre-Dame-des-Grâces de Revel",
+            "ro": "Église Notre-Dame-des-Grâces de Revel",
+            "en": "Église Notre-Dame-des-Grâces de Revel"
+          },
+          "coords": [
+            2.004354,
+            43.456736
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante neobyzantinische Innere dieser historischen Kirche und nehmen Sie sich Zeit für die schönen Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az elegáns neobizánci belső terét, és szánjon egy pillanatot a gyönyörű ólomüveg ablakok megtekintésére.",
+            "ro": "Minunați-vă de interiorul neobizantin elegant al acestei biserici istorice, luându-vă un moment pentru a aprecia vitraliile frumoase în lumina dimineții.",
+            "en": "Marvel at the elegant neo-Byzantine interior of this historic church, taking a moment to appreciate the beautiful stained glass windows in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Revel Market Hall",
+            "hu": "Revel Market Hall",
+            "ro": "Revel Market Hall",
+            "en": "Revel Market Hall"
+          },
+          "coords": [
+            2.00453,
+            43.458568
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der schönsten überdachten Markthallen Frankreichs aus dem 14. Jahrhundert und kommen Sie samstags früh, um die Stände zu genießen.",
+            "hu": "Csodálja meg Franciaország egyik legszebb 14. századi fedett piacát, és érkezzen korán szombaton, hogy élvezze a helyi termelők nyüzsgő standjait.",
+            "ro": "Admirați una dintre cele mai frumoase piețe acoperite din Franța secolului al XIV-lea și ajungeți devreme sâmbăta pentru a vă bucura de tarabele locale.",
+            "en": "Admire one of France's most beautiful covered markets from the 14th century, and arrive early on Saturday to enjoy the vibrant local farmer's stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du bois et de la marqueterie de Revel",
+            "hu": "Musée du bois et de la marqueterie de Revel",
+            "ro": "Musée du bois et de la marqueterie de Revel",
+            "en": "Musée du bois et de la marqueterie de Revel"
+          },
+          "coords": [
+            2.005716,
+            43.458719
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Revels reiche Geschichte der Einlegearbeiten und Holzverarbeitung, und nehmen Sie an einer Führung teil, um die Handwerkskunst zu würdigen.",
+            "hu": "Fedezze fel Revel fafaragó és intarziakészítő történelmét, és mindenképp vegyen részt egy tárlatvezetésen, hogy értékelni tudja a kiállított műalkotásokat.",
+            "ro": "Descoperiți istoria bogată a orașului Revel în prelucrarea lemnului și asigurați-vă că faceți turul ghidat pentru a aprecia măiestria artizanală expusă.",
+            "en": "Discover Revel's rich history in marquetry and woodworking, ensuring you take the guided tour to fully appreciate the intricate craftsmanship on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake Saint-Ferréol",
+            "hu": "Lake Saint-Ferréol",
+            "ro": "Lake Saint-Ferréol",
+            "en": "Lake Saint-Ferréol"
+          },
+          "coords": [
+            2.02005,
+            43.438989
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Ufern dieses von Riquet erbauten historischen Stausees und bringen Sie eine Picknickdecke für ein ruhiges Mittagessen im Kiefernwald mit.",
+            "hu": "Pihenjen a Riquet által épített történelmi víztározó nyugodt partján, és hozzon magával egy pikniktakarót egy békés ebédhez a fenyőerdők ölelésében.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestui rezervor istoric construit de Riquet, aducând o pătură de picnic pentru a savura un prânz pașnic.",
+            "en": "Relax by the tranquil shores of this historic reservoir built by Riquet, bringing a picnic blanket to enjoy a peaceful lunch surrounded by pine forests."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée et Jardins du Canal du Midi",
+            "hu": "Musée et Jardins du Canal du Midi",
+            "ro": "Musée et Jardins du Canal du Midi",
+            "en": "Musée et Jardins du Canal du Midi"
+          },
+          "coords": [
+            2.018714,
+            43.437271
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die unglaubliche Technik des Canal du Midi und spazieren Sie durch die romantischen Gärten im englischen Stil des 19. Jahrhunderts.",
+            "hu": "Ismerje meg a Canal du Midi mögött meghúzódó hihetetlen mérnöki munkát, és sétáljon egyet a 19. században tervezett, romantikus angol stílusú kertekben.",
+            "ro": "Aflați despre ingineria incredibilă din spatele Canalului Midi și faceți o plimbare prin grădinile romantice în stil englezesc proiectate în secolul al XIX-lea.",
+            "en": "Learn about the incredible engineering behind the Canal du Midi, and take a stroll through the romantic English-style gardens designed in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin de Saint-Ferréol",
+            "hu": "Bassin de Saint-Ferréol",
+            "ro": "Bassin de Saint-Ferréol",
+            "en": "Bassin de Saint-Ferréol"
+          },
+          "coords": [
+            2.028978,
+            43.436719
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie den massiven Damm, der das Kanalsystem speist, und spazieren Sie den beeindruckenden Wall entlang, um den Panoramablick zu genießen.",
+            "hu": "Fedezze fel a híres csatornarendszert tápláló hatalmas gátat, és sétáljon végig a lenyűgöző töltésen, hogy élvezze a Fekete-hegység panorámáját.",
+            "ro": "Explorați barajul masiv care hrănește faimosul sistem de canale, plimbându-vă de-a lungul digului impresionant pentru a prinde vederi panoramice.",
+            "en": "Explore the massive dam that feeds the famous canal system, walking along the impressive embankment to catch panoramic views of the Montagne Noire."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini Golf de Saint-Ferréol",
+            "hu": "Mini Golf de Saint-Ferréol",
+            "ro": "Mini Golf de Saint-Ferréol",
+            "en": "Mini Golf de Saint-Ferréol"
+          },
+          "coords": [
+            2.028843,
+            43.440302
+          ],
+          "category": "family",
+          "arrive_at": "18:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen lustigen Nachmittag mit der Familie auf diesem charmanten Minigolfplatz, am besten kurz vor Sonnenuntergang, wenn es abkühlt.",
+            "hu": "Töltsön el egy vidám délutánt a családdal ezen a bájos minigolfpályán, ideális esetben közvetlenül naplemente előtt, amikor a hőmérséklet lehűl.",
+            "ro": "Bucurați-vă de o după-amiază plină de distracție alături de familie la acest teren de mini-golf fermecător, programat ideal chiar înainte de apus.",
+            "en": "Enjoy a fun-filled afternoon with family or friends at this charming mini-golf course, ideally timed right before sunset when the temperature cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der ruhigen Chapelle Saint-Pierre-de-Calvayrac, bevor Sie im Zentrum parken, um die Kirche und die Markthalle zu bewundern. Nach dem Musée du bois fahren Sie zum See Saint-Ferréol für eine Mittagspause. Verbringen Sie den Nachmittag im Musée et Jardins du Canal du Midi und am großen Bassin. Der Abend endet mit einer lustigen Familienrunde auf dem Minigolfplatz.",
+        "hu": "Kezdje autós útját a külvárosban, a nyugodt Chapelle Saint-Pierre-de-Calvayrac-nál, majd parkoljon le a központban, hogy megcsodálja a templomot és a vásárcsarnokot. A Musée du bois megtekintése után vezessen fel a Saint-Ferréol-tóhoz egy ebédszünetre. Délutánját a Canal du Midi múzeumában és a hatalmas medencénél töltheti. Az este egy vidám minigolffal zárul.",
+        "ro": "Începeți traseul auto la periferie, la senina Chapelle Saint-Pierre-de-Calvayrac, înainte de a parca în centru pentru a admira biserica și Piața. După ce explorați Musée du bois, conduceți până la Lacul Saint-Ferréol pentru o pauză la prânz. Petreceți după-amiaza la Musée et Jardins du Canal du Midi și la marele Bazin. Seara se încheie cu o partidă de mini-golf în familie.",
+        "en": "Begin your driving itinerary on the outskirts at the serene Chapelle Saint-Pierre-de-Calvayrac, before parking in the center to admire Église Notre-Dame and the Market Hall. After exploring the intricate woodwork at Musée du bois, drive up to Lake Saint-Ferréol for a relaxing midday break. Spend your afternoon wandering the Musée et Jardins du Canal du Midi and the grand Bassin. Your evening wraps up with a fun-filled family round at the Mini Golf course."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-penela-cities-v2",
+  "anchor": {
+    "name": "Penela",
+    "coords": [
+      -8.3833,
+      40.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Baloiço da vinha Encosta da Criveira",
+            "hu": "Baloiço da vinha Encosta da Criveira",
+            "ro": "Baloiço da vinha Encosta da Criveira",
+            "en": "Baloiço da vinha Encosta da Criveira"
+          },
+          "coords": [
+            -8.397054,
+            40.034984
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment auf dieser rustikalen Schaukel mit Blick auf Weinberge und bringen Sie lokalen Wein mit, um die Atmosphäre auszukosten.",
+            "hu": "Élvezze a békés pillanatot ezen a rusztikus hintán, amely buja szőlőültetvényekre néz, és hozzon egy kis helyi bort az igazi vidéki hangulatért.",
+            "ro": "Bucurați-vă de un moment liniștit pe acest leagăn rustic cu vedere la podgorii luxuriante și aduceți o sticlă mică de vin local pentru atmosfera rurală.",
+            "en": "Enjoy a peaceful moment on this rustic swing overlooking lush vineyards, and bring a small bottle of local wine to savor the authentic countryside vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Penela",
+            "hu": "Castelo de Penela",
+            "ro": "Castelo de Penela",
+            "en": "Castelo de Penela"
+          },
+          "coords": [
+            -8.39034,
+            40.031167
+          ],
+          "category": "castle",
+          "arrive_at": "09:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung aus dem 11. Jahrhundert für weite Talblicke und tragen Sie festes Schuhwerk für die unebenen Steinmauern.",
+            "hu": "Fedezze fel ezt a 11. századi középkori erődöt, ahonnan pazar kilátás nyílik a völgyre, és viseljen kényelmes cipőt a macskaköves bástyák bejárásához.",
+            "ro": "Explorați această fortăreață medievală din secolul al XI-lea pentru o vedere panoramică a văii și purtați încălțăminte comodă pentru zidurile de piatră.",
+            "en": "Explore this 11th-century medieval fortress to enjoy sweeping views of the valley, and wear sturdy shoes to safely navigate its uneven stone ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Penela",
+            "hu": "Pelourinho de Penela",
+            "ro": "Pelourinho de Penela",
+            "en": "Pelourinho de Penela"
+          },
+          "coords": [
+            -8.390909,
+            40.030178
+          ],
+          "category": "landmark",
+          "arrive_at": "11:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen steinernen Pranger, der die historische Autonomie der Stadt symbolisiert, und bewundern Sie die aufwendigen Schnitzereien am Schaft.",
+            "hu": "Fedezze fel ezt a faragott kő pellengért, amely a város történelmi autonómiáját szimbolizálja, és szánjon időt a főoszlop bonyolult faragványaira.",
+            "ro": "Descoperiți acest stâlp de piatră sculptată care simbolizează autonomia istorică a orașului, luându-vă un moment pentru a aprecia sculpturile sale.",
+            "en": "Discover this sculpted stone pillory that symbolizes the town's historic autonomy, taking a moment to appreciate the intricate carvings on its main shaft."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Eufémia",
+            "hu": "Igreja de Santa Eufémia",
+            "ro": "Igreja de Santa Eufémia",
+            "en": "Igreja de Santa Eufémia"
+          },
+          "coords": [
+            -8.389929,
+            40.029031
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im Renaissance-Stil, um ihre wunderschönen Altarbilder zu bestaunen, aber verhalten Sie sich ruhig an diesem Ort der Anbetung.",
+            "hu": "Lépjen be ebbe a reneszánsz stílusú templomba, hogy megcsodálja a gyönyörű oltárképeket, de tartsa alacsonyan a hangját, mivel ez egy aktív imahely.",
+            "ro": "Pășiți în interiorul acestei biserici în stil renascentist pentru a admira altarele sale, dar păstrați o atitudine respectuoasă fiind un lăcaș activ.",
+            "en": "Step inside this Renaissance-style church to marvel at its beautiful altarpieces, but keep your voice low as it remains an active place of local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Presa das Bicas",
+            "hu": "Presa das Bicas",
+            "ro": "Presa das Bicas",
+            "en": "Presa das Bicas"
+          },
+          "coords": [
+            -8.377068,
+            40.029742
+          ],
+          "category": "family",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen Stausee inmitten der Natur für einen friedlichen Rückzugsort und bringen Sie Snacks für ein Picknick im Gras mit.",
+            "hu": "Sétáljon a természet által körülvett nyugodt víztározó körül egy kis elvonulásért, és hozzon magával rágcsálnivalót egy kellemes délutáni piknikhez.",
+            "ro": "Plimbați-vă în jurul acestui rezervor de apă liniștit înconjurat de natură pentru o retragere tăcută și aduceți câteva gustări pentru un picnic minunat.",
+            "en": "Wander around this tranquil water reservoir surrounded by nature for a quiet retreat, and bring some snacks to enjoy a lovely afternoon picnic on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal de Penela",
+            "hu": "Piscina Municipal de Penela",
+            "ro": "Piscina Municipal de Penela",
+            "en": "Piscina Municipal de Penela"
+          },
+          "coords": [
+            -8.38556,
+            40.025241
+          ],
+          "category": "family",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen gepflegten öffentlichen Pools, die eine Erfrischung bieten, und packen Sie Sonnencreme ein, da Schattenplätze begehrt sind.",
+            "hu": "Pihenjen ezeknél a jól karbantartott nyilvános medencéknél, amelyek frissítőt nyújtanak, és ne felejtsen el naptejet csomagolni, mert az árnyék hamar elfogy.",
+            "ro": "Relaxați-vă la aceste piscine publice bine întreținute care oferă o pauză răcoroasă și nu uitați să luați cremă de soare, deoarece zonele umbrite se ocupă.",
+            "en": "Relax by these well-maintained public pools that offer a refreshing break for families, and remember to pack sunscreen since shaded areas can fill up fast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Aussicht von der Schaukel Criveira und erkunden Sie dann die mittelalterliche Burg von Penela. Mittags erwarten Sie der historische Pranger und die Kirche Santa Eufémia. Am Nachmittag genießen Sie einen Spaziergang zum friedlichen Stausee Presa das Bicas. Beenden Sie den Tag entspannt im städtischen Schwimmbad.",
+        "hu": "Kezdje a reggelt a Criveira hinta panorámájával, majd fedezze fel a penelai vár középkori történelmét. Délben a történelmi pellengér és a Santa Eufémia templom várja. Délután élvezze a békés sétát a festői Presa das Bicas víztározóhoz. Zárja a napot a városi medencéknél, amely tökéletes hely a családi kikapcsolódásra és a nyugodt pihenésre.",
+        "ro": "Începeți dimineața admirând priveliștea de la leagănul Criveira, apoi explorați istoria medievală a Castelului Penela. La prânz veți descoperi stâlpul infamiei și frumoasa biserică Santa Eufémia. După-amiaza, bucurați-vă de o plimbare liniștită până la rezervorul pitoresc Presa das Bicas. Încheiați ziua relaxându-vă la piscinele municipale.",
+        "en": "Start your morning admiring the views from the Criveira swing, then delve into the medieval history of Penela Castle. Midday brings you to the historic pillory and the beautiful Santa Eufémia church. In the afternoon, enjoy a peaceful stroll to the scenic Presa das Bicas reservoir. End your day relaxing at the municipal pools, perfect for family fun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Solar Quinta da Boiça",
+            "hu": "Solar Quinta da Boiça",
+            "ro": "Solar Quinta da Boiça",
+            "en": "Solar Quinta da Boiça"
+          },
+          "coords": [
+            -8.370968,
+            40.040045
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses traditionellen Herrenhauses und achten Sie besonders auf die gut erhaltenen regionalen Steinmetzarbeiten.",
+            "hu": "Csodálja meg ennek a hagyományos udvarháznak a klasszikus építészetét, és figyelje meg alaposan a jól megőrzött kőfaragványok regionális részleteit.",
+            "ro": "Admirați arhitectura clasică a acestui conac tradițional care reflectă patrimoniul regional și priviți cu atenție detaliile pietrei bine conservate.",
+            "en": "Admire the classic architecture of this traditional manor house which reflects regional heritage, and look closely at the well-preserved stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da vinha Encosta da Criveira",
+            "hu": "Baloiço da vinha Encosta da Criveira",
+            "ro": "Baloiço da vinha Encosta da Criveira",
+            "en": "Baloiço da vinha Encosta da Criveira"
+          },
+          "coords": [
+            -8.397054,
+            40.034984
+          ],
+          "category": "landmark",
+          "arrive_at": "10:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment auf dieser rustikalen Schaukel mit Blick auf Weinberge und bringen Sie lokalen Wein mit, um die Atmosphäre auszukosten.",
+            "hu": "Élvezze a békés pillanatot ezen a rusztikus hintán, amely buja szőlőültetvényekre néz, és hozzon egy kis helyi bort az igazi vidéki hangulatért.",
+            "ro": "Bucurați-vă de un moment liniștit pe acest leagăn rustic cu vedere la podgorii luxuriante și aduceți o sticlă mică de vin local pentru atmosfera rurală.",
+            "en": "Enjoy a peaceful moment on this rustic swing overlooking lush vineyards, and bring a small bottle of local wine to savor the authentic countryside vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Penela",
+            "hu": "Castelo de Penela",
+            "ro": "Castelo de Penela",
+            "en": "Castelo de Penela"
+          },
+          "coords": [
+            -8.39034,
+            40.031167
+          ],
+          "category": "castle",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung aus dem 11. Jahrhundert für weite Talblicke und tragen Sie festes Schuhwerk für die unebenen Steinmauern.",
+            "hu": "Fedezze fel ezt a 11. századi középkori erődöt, ahonnan pazar kilátás nyílik a völgyre, és viseljen kényelmes cipőt a macskaköves bástyák bejárásához.",
+            "ro": "Explorați această fortăreață medievală din secolul al XI-lea pentru o vedere panoramică a văii și purtați încălțăminte comodă pentru zidurile de piatră.",
+            "en": "Explore this 11th-century medieval fortress to enjoy sweeping views of the valley, and wear sturdy shoes to safely navigate its uneven stone ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Eufémia",
+            "hu": "Igreja de Santa Eufémia",
+            "ro": "Igreja de Santa Eufémia",
+            "en": "Igreja de Santa Eufémia"
+          },
+          "coords": [
+            -8.389929,
+            40.029031
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im Renaissance-Stil, um ihre wunderschönen Altarbilder zu bestaunen, aber verhalten Sie sich ruhig an diesem Ort der Anbetung.",
+            "hu": "Lépjen be ebbe a reneszánsz stílusú templomba, hogy megcsodálja a gyönyörű oltárképeket, de tartsa alacsonyan a hangját, mivel ez egy aktív imahely.",
+            "ro": "Pășiți în interiorul acestei biserici în stil renascentist pentru a admira altarele sale, dar păstrați o atitudine respectuoasă fiind un lăcaș activ.",
+            "en": "Step inside this Renaissance-style church to marvel at its beautiful altarpieces, but keep your voice low as it remains an active place of local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal de Penela",
+            "hu": "Piscina Municipal de Penela",
+            "ro": "Piscina Municipal de Penela",
+            "en": "Piscina Municipal de Penela"
+          },
+          "coords": [
+            -8.38556,
+            40.025241
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen gepflegten öffentlichen Pools, die eine Erfrischung bieten, und packen Sie Sonnencreme ein, da Schattenplätze begehrt sind.",
+            "hu": "Pihenjen ezeknél a jól karbantartott nyilvános medencéknél, amelyek frissítőt nyújtanak, és ne felejtsen el naptejet csomagolni, mert az árnyék hamar elfogy.",
+            "ro": "Relaxați-vă la aceste piscine publice bine întreținute care oferă o pauză răcoroasă și nu uitați să luați cremă de soare, deoarece zonele umbrite se ocupă.",
+            "en": "Relax by these well-maintained public pools that offer a refreshing break for families, and remember to pack sunscreen since shaded areas can fill up fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço Senhora do Outeiro",
+            "hu": "Baloiço Senhora do Outeiro",
+            "ro": "Baloiço Senhora do Outeiro",
+            "en": "Baloiço Senhora do Outeiro"
+          },
+          "coords": [
+            -8.402556,
+            40.017806
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Schaukeln Sie hoch über den Hügeln für unglaubliche Landschaftsfotos, aber kommen Sie kurz vor Sonnenuntergang, um das magische Licht einzufangen.",
+            "hu": "Hintázzon a dombok felett a lenyűgöző tájképekért, de próbáljon meg közvetlenül naplemente előtt érkezni, hogy elcsípje a legvarázslatosabb fényeket.",
+            "ro": "Leagănați-vă deasupra dealurilor pentru fotografii incredibile de peisaj, dar încercați să ajungeți chiar înainte de apus pentru lumina perfectă.",
+            "en": "Swing high above the hills for incredible landscape photos, but try to arrive just before sunset to capture the most magical golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour am historischen Herrenhaus Quinta da Boiça und radeln Sie zur Criveira-Schaukel für tolle Talblicke. Mittags erobern Sie die Burg von Penela und besuchen die Kirche Santa Eufémia. Kühlen Sie sich nachmittags im städtischen Schwimmbad ab. Fahren Sie schließlich zur Senhora do Outeiro-Schaukel für ein atemberaubendes Sonnenuntergangspanorama.",
+        "hu": "Indítsa a túrát a történelmi Quinta da Boiça udvarháznál, majd tekerjen a Criveira hintához a völgyre nyíló kilátásért. Délben hódítsa meg a penelai várat és látogassa meg a Santa Eufémia templomot. Délután hűsöljön a városi uszodában. Végül kerekezzen a Senhora do Outeiro hintához, ahonnan lélegzetelállító naplemente panorámában gyönyörködhet.",
+        "ro": "Începeți traseul la conacul istoric Quinta da Boiça, apoi pedalați spre leagănul Criveira pentru o panoramă a văii. La prânz, cuceriți Castelul Penela și vizitați biserica Santa Eufémia. După-amiaza, răcoriți-vă la piscinele municipale. În cele din urmă, mergeți cu bicicleta la leagănul Senhora do Outeiro pentru un apus de soare uimitor.",
+        "en": "Kick off your ride at the historic Quinta da Boiça manor, then pedal to the Criveira swing for panoramic valley views. Midday invites you to conquer Penela Castle and visit the nearby Santa Eufémia church. In the afternoon, cool off at the municipal swimming pools. Finally, ride to the Senhora do Outeiro swing for a breathtaking sunset panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 9.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho de Podentes",
+            "hu": "Pelourinho de Podentes",
+            "ro": "Pelourinho de Podentes",
+            "en": "Pelourinho de Podentes"
+          },
+          "coords": [
+            -8.393407,
+            40.059135
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie dieses alte Zeichen der städtischen Justiz auf einem malerischen Dorfplatz, perfekt für einen kurzen Fotostopp auf Ihrer Weiterreise.",
+            "hu": "Vegye szemügyre ezt az ősi városi igazságszolgáltatási jelképet a festői falutéren, amely tökéletes egy gyors fotózásra, mielőtt továbbhajtana.",
+            "ro": "Observați acest vechi marker al justiției municipale situat într-o piață pitorească, perfect pentru o scurtă oprire foto înainte de următoarea destinație.",
+            "en": "Notice this ancient marker of municipal justice located in a quaint village square, perfect for a quick photo stop before driving to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar Quinta da Boiça",
+            "hu": "Solar Quinta da Boiça",
+            "ro": "Solar Quinta da Boiça",
+            "en": "Solar Quinta da Boiça"
+          },
+          "coords": [
+            -8.370968,
+            40.040045
+          ],
+          "category": "historical",
+          "arrive_at": "09:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses traditionellen Herrenhauses und achten Sie besonders auf die gut erhaltenen regionalen Steinmetzarbeiten.",
+            "hu": "Csodálja meg ennek a hagyományos udvarháznak a klasszikus építészetét, és figyelje meg alaposan a jól megőrzött kőfaragványok regionális részleteit.",
+            "ro": "Admirați arhitectura clasică a acestui conac tradițional care reflectă patrimoniul regional și priviți cu atenție detaliile pietrei bine conservate.",
+            "en": "Admire the classic architecture of this traditional manor house which reflects regional heritage, and look closely at the well-preserved stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da vinha Encosta da Criveira",
+            "hu": "Baloiço da vinha Encosta da Criveira",
+            "ro": "Baloiço da vinha Encosta da Criveira",
+            "en": "Baloiço da vinha Encosta da Criveira"
+          },
+          "coords": [
+            -8.397054,
+            40.034984
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment auf dieser rustikalen Schaukel mit Blick auf Weinberge und bringen Sie lokalen Wein mit, um die Atmosphäre auszukosten.",
+            "hu": "Élvezze a békés pillanatot ezen a rusztikus hintán, amely buja szőlőültetvényekre néz, és hozzon egy kis helyi bort az igazi vidéki hangulatért.",
+            "ro": "Bucurați-vă de un moment liniștit pe acest leagăn rustic cu vedere la podgorii luxuriante și aduceți o sticlă mică de vin local pentru atmosfera rurală.",
+            "en": "Enjoy a peaceful moment on this rustic swing overlooking lush vineyards, and bring a small bottle of local wine to savor the authentic countryside vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Penela",
+            "hu": "Castelo de Penela",
+            "ro": "Castelo de Penela",
+            "en": "Castelo de Penela"
+          },
+          "coords": [
+            -8.39034,
+            40.031167
+          ],
+          "category": "castle",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung aus dem 11. Jahrhundert für weite Talblicke und tragen Sie festes Schuhwerk für die unebenen Steinmauern.",
+            "hu": "Fedezze fel ezt a 11. századi középkori erődöt, ahonnan pazar kilátás nyílik a völgyre, és viseljen kényelmes cipőt a macskaköves bástyák bejárásához.",
+            "ro": "Explorați această fortăreață medievală din secolul al XI-lea pentru o vedere panoramică a văii și purtați încălțăminte comodă pentru zidurile de piatră.",
+            "en": "Explore this 11th-century medieval fortress to enjoy sweeping views of the valley, and wear sturdy shoes to safely navigate its uneven stone ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Eufémia",
+            "hu": "Igreja de Santa Eufémia",
+            "ro": "Igreja de Santa Eufémia",
+            "en": "Igreja de Santa Eufémia"
+          },
+          "coords": [
+            -8.389929,
+            40.029031
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im Renaissance-Stil, um ihre wunderschönen Altarbilder zu bestaunen, aber verhalten Sie sich ruhig an diesem Ort der Anbetung.",
+            "hu": "Lépjen be ebbe a reneszánsz stílusú templomba, hogy megcsodálja a gyönyörű oltárképeket, de tartsa alacsonyan a hangját, mivel ez egy aktív imahely.",
+            "ro": "Pășiți în interiorul acestei biserici în stil renascentist pentru a admira altarele sale, dar păstrați o atitudine respectuoasă fiind un lăcaș activ.",
+            "en": "Step inside this Renaissance-style church to marvel at its beautiful altarpieces, but keep your voice low as it remains an active place of local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Presa das Bicas",
+            "hu": "Presa das Bicas",
+            "ro": "Presa das Bicas",
+            "en": "Presa das Bicas"
+          },
+          "coords": [
+            -8.377068,
+            40.029742
+          ],
+          "category": "family",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen Stausee inmitten der Natur für einen friedlichen Rückzugsort und bringen Sie Snacks für ein Picknick im Gras mit.",
+            "hu": "Sétáljon a természet által körülvett nyugodt víztározó körül egy kis elvonulásért, és hozzon magával rágcsálnivalót egy kellemes délutáni piknikhez.",
+            "ro": "Plimbați-vă în jurul acestui rezervor de apă liniștit înconjurat de natură pentru o retragere tăcută și aduceți câteva gustări pentru un picnic minunat.",
+            "en": "Wander around this tranquil water reservoir surrounded by nature for a quiet retreat, and bring some snacks to enjoy a lovely afternoon picnic on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço Senhora do Outeiro",
+            "hu": "Baloiço Senhora do Outeiro",
+            "ro": "Baloiço Senhora do Outeiro",
+            "en": "Baloiço Senhora do Outeiro"
+          },
+          "coords": [
+            -8.402556,
+            40.017806
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schaukeln Sie hoch über den Hügeln für unglaubliche Landschaftsfotos, aber kommen Sie kurz vor Sonnenuntergang, um das magische Licht einzufangen.",
+            "hu": "Hintázzon a dombok felett a lenyűgöző tájképekért, de próbáljon meg közvetlenül naplemente előtt érkezni, hogy elcsípje a legvarázslatosabb fényeket.",
+            "ro": "Leagănați-vă deasupra dealurilor pentru fotografii incredibile de peisaj, dar încercați să ajungeți chiar înainte de apus pentru lumina perfectă.",
+            "en": "Swing high above the hills for incredible landscape photos, but try to arrive just before sunset to capture the most magical golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am historischen Pranger von Podentes, gefolgt von einem Besuch des großen Anwesens Quinta da Boiça. Mittags fahren Sie zur Criveira-Schaukel und zur imposanten Burg von Penela im historischen Zentrum. Besuchen Sie nachmittags die Kirche Santa Eufémia und entspannen Sie sich am Presa das Bicas. Beenden Sie den Abend an der Senhora do Outeiro-Schaukel.",
+        "hu": "Autós túrája a történelmi Podentes pellengérnél kezdődik, majd a nagyszerű Quinta da Boiça birtokot keresi fel. Délben a Criveira hinta és az impozáns penelai vár várja a történelmi központban. Délután álljon meg a gyönyörű Santa Eufémia templomnál, és pihenjen a Presa das Bicasnál. Zárja az estét a Senhora do Outeiro hintánál csodás kilátással.",
+        "ro": "Plimbarea cu mașina începe la stâlpul infamiei din Podentes, urmată de o vizită la impresionantul domeniu Quinta da Boiça. La prânz, mergeți la leagănul Criveira și la impunătorul Castel Penela din centrul istoric. După-amiaza, opriți-vă la biserica Santa Eufémia și relaxați-vă la Presa das Bicas. Încheiați seara la leagănul Senhora do Outeiro.",
+        "en": "Your drive begins at the historic Podentes pillory, followed by a visit to the grand Quinta da Boiça estate. Midday takes you to the Criveira swing and the imposing Penela Castle, right in the historic center. In the afternoon, stop by the beautiful Santa Eufémia church and relax at Presa das Bicas. Conclude your evening at the Senhora do Outeiro swing."
+      }
+    }
+  }
+}

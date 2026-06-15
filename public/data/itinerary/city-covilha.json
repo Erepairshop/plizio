@@ -1,0 +1,405 @@
+{
+  "city_id": "city-covilha",
+  "anchor": {
+    "name": "Covilha",
+    "coords": [
+      -7.5026,
+      40.2806
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 1.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu da Covilha",
+            "hu": "Museu da Covilha",
+            "ro": "Museu da Covilha",
+            "en": "Museu da Covilha"
+          },
+          "coords": [
+            -7.503979,
+            40.279824
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche textile Erbe von Covilhã in diesem modernen Museum und besuchen Sie die interaktiven Webstuhlausstellungen im ersten Stock.",
+            "hu": "Fedezze fel Covilhã gazdag textilipari örökségét ebben a modern múzeumban, és ne hagyja ki az első emeleti interaktív szövőgépes bemutatókat.",
+            "ro": "Descoperiți bogata moștenire textilă a Covilhăi în acest muzeu modern și asigurați-vă că verificați expozițiile interactive de țesut de la etaj.",
+            "en": "Discover the rich textile heritage of Covilhã in this modern museum, and be sure to check the interactive weaving displays on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal",
+            "hu": "Teatro Municipal",
+            "ro": "Teatro Municipal",
+            "en": "Teatro Municipal"
+          },
+          "coords": [
+            -7.504523,
+            40.281031
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses kulturellen Zentrums und buchen Sie Ihre Tickets frühzeitig, da die Abendvorstellungen oft schnell ausverkauft sind.",
+            "hu": "Csodálja meg ennek a helyi kulturális központnak a gyönyörű építészetét, és foglaljon jegyet korán, mert az esti előadások hamar teltházasak lesznek.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru cultural și rezervați-vă biletele din timp, deoarece spectacolele de seară se vând adesea foarte repede.",
+            "en": "Admire the beautiful architecture of this local cultural hub, and book your performance tickets early as evening shows tend to sell out quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Infantil da Saudade",
+            "hu": "Parque Infantil da Saudade",
+            "ro": "Parque Infantil da Saudade",
+            "en": "Parque Infantil da Saudade"
+          },
+          "coords": [
+            -7.51005,
+            40.279646
+          ],
+          "category": "family",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem charmanten Stadtpark, während die Kinder den Spielplatz genießen, und bringen Sie Snacks für ein Picknick mit.",
+            "hu": "Pihenjen ebben a bájos városi parkban, amíg a gyerekek élvezik a biztonságos játszóteret, és hozzon magával rágcsálnivalót egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în acest parc urban fermecător în timp ce copiii se bucură de locul de joacă și aduceți câteva gustări pentru un picnic pe iarbă.",
+            "en": "Relax in this charming urban park while the children enjoy the safe playground, and bring some snacks for a peaceful afternoon picnic on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro das Beiras",
+            "hu": "Teatro das Beiras",
+            "ro": "Teatro das Beiras",
+            "en": "Teatro das Beiras"
+          },
+          "coords": [
+            -7.503495,
+            40.284113
+          ],
+          "category": "cultural",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamische lokale Theaterszene an diesem intimen Ort, aber überprüfen Sie die aktuellen Spielzeiten online vor Ihrem Besuch.",
+            "hu": "Tapasztalja meg a dinamikus helyi előadóművészetet ezen a meghitt helyszínen, de látogatás előtt mindenképpen ellenőrizze az aktuális műsorrendet.",
+            "ro": "Experimentați scena dinamică a artelor spectacolului la acest teatru intim, dar confirmați programul online înainte de a face o vizită aici.",
+            "en": "Experience the dynamic local performing arts scene at this intimate venue, but confirm the current showtimes online before you visit the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -7.503204,
+            40.286689
+          ],
+          "category": "family",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach dem Sightseeing in diesem gepflegten öffentlichen Schwimmbad ab und denken Sie daran, Ihr eigenes Handtuch und eine Badekappe mitzubringen.",
+            "hu": "Hűtse le magát ebben a gondozott nyilvános medencében a városnézés után, és ne felejtsen el saját törölközőt és úszósapkát hozni a használathoz.",
+            "ro": "Răcoriți-vă în această piscină publică bine întreținută după o zi de vizitare și nu uitați să vă aduceți propriul prosop și o cască de înot.",
+            "en": "Cool off in this well-maintained public pool after a day of sightseeing, and remember to bring your own towel and swimming cap to use the facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Covilhã beginnt mit einem Eintauchen in die reiche lokale Geschichte. Sie erkunden das faszinierende Textilmuseum und bewundern das elegante Stadttheater. \n\n Der Mittag bringt ein entspanntes Tempo. Schlendern Sie zum charmanten Stadtpark, wo Sie die frische Luft genießen und eine angenehme Pause im Grünen einlegen können. \n\n Am Nachmittag geht die kulturelle Reise weiter, während Sie die lebendige lokale Kunstszene erkunden. Die kleineren Theater spiegeln den kreativen Geist wider. \n\n Der Abend naht mit einer perfekten Gelegenheit zum Entspannen. Beenden Sie Ihre Tour mit einem erfrischenden Bad im städtischen Schwimmbad.",
+        "hu": "A reggel Covilhãban a gazdag helyi történelemben való elmerüléssel kezdődik. Felfedezi a lenyűgöző textilmúzeumot, és megcsodálja a városi színház elegáns vonalait. \n\n A dél már nyugodtabb tempót hoz. Sétáljon át a város bájos parkjába, ahol élvezheti a friss levegőt, és kellemesen megpihenhet a zöldövezetben. \n\n Délután a kulturális utazás folytatódik, ahogy a pezsgő helyi művészeti színtér felé veszi az irányt. A kisebb színházak a közösség igazi kreatív szellemét tükrözik. \n\n Az este tökéletes lehetőséget kínál a kikapcsolódásra. Fejezze be a sétát egy frissítő úszással a városi medencében, élvezve a nap békés lezárását.",
+        "ro": "Dimineața în Covilhã începe cu o imersiune în bogata istorie locală. Veți explora fascinantul muzeu textil și veți admira liniile elegante ale teatrului municipal. \n\n Miezul zilei aduce un ritm relaxat. Plimbați-vă spre fermecătorul parc urban al orașului unde vă puteți bucura de aerul proaspăt și de o pauză confortabilă în mijlocul verdeții. \n\n După-amiaza, călătoria culturală continuă îndreptându-vă spre scena vibrantă a artelor locale. Teatrele mai mici reflectă adevăratul spirit creativ al comunității. \n\n Seara se apropie cu o șansă perfectă de relaxare. Terminați turul cu o înotare răcoritoare la piscina municipală, bucurându-vă de un final pașnic.",
+        "en": "Morning in Covilhã begins with an immersion into the rich local history. You will explore the fascinating textile museum and admire the elegant lines of the municipal theatre. \n\n Midday brings a relaxed pace. Stroll over to the city's charming urban park where you can enjoy the fresh air and take a comfortable break amidst the greenery. \n\n In the afternoon, the cultural journey continues as you head towards the vibrant local arts scene. The smaller theatre venues reflect the true creative spirit of the community. \n\n Evening approaches with a perfect chance to unwind. Finish your walking tour with a refreshing swim at the municipal pool, enjoying the peaceful end to a wonderful day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 3.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu da Covilha",
+            "hu": "Museu da Covilha",
+            "ro": "Museu da Covilha",
+            "en": "Museu da Covilha"
+          },
+          "coords": [
+            -7.503979,
+            40.279824
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche textile Erbe von Covilhã in diesem modernen Museum und besuchen Sie die interaktiven Webstuhlausstellungen im ersten Stock.",
+            "hu": "Fedezze fel Covilhã gazdag textilipari örökségét ebben a modern múzeumban, és ne hagyja ki az első emeleti interaktív szövőgépes bemutatókat.",
+            "ro": "Descoperiți bogata moștenire textilă a Covilhăi în acest muzeu modern și asigurați-vă că verificați expozițiile interactive de țesut de la etaj.",
+            "en": "Discover the rich textile heritage of Covilhã in this modern museum, and be sure to check the interactive weaving displays on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal",
+            "hu": "Teatro Municipal",
+            "ro": "Teatro Municipal",
+            "en": "Teatro Municipal"
+          },
+          "coords": [
+            -7.504523,
+            40.281031
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses kulturellen Zentrums und buchen Sie Ihre Tickets frühzeitig, da die Abendvorstellungen oft schnell ausverkauft sind.",
+            "hu": "Csodálja meg ennek a helyi kulturális központnak a gyönyörű építészetét, és foglaljon jegyet korán, mert az esti előadások hamar teltházasak lesznek.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru cultural și rezervați-vă biletele din timp, deoarece spectacolele de seară se vând adesea foarte repede.",
+            "en": "Admire the beautiful architecture of this local cultural hub, and book your performance tickets early as evening shows tend to sell out quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago da Sereia",
+            "hu": "Lago da Sereia",
+            "ro": "Lago da Sereia",
+            "en": "Lago da Sereia"
+          },
+          "coords": [
+            -7.496242,
+            40.274525
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen malerischen Natursee mit üppiger Vegetation und tragen Sie bequeme Schuhe, um die schönen Wanderwege der Umgebung zu erkunden.",
+            "hu": "Sétáljon körbe ezen a buja növényzettel körülvett festői természetes tavon, és viseljen kényelmes cipőt a környező túraútvonalak felfedezéséhez.",
+            "ro": "Plimbați-vă în jurul acestui lac natural pitoresc înconjurat de vegetație luxuriantă și purtați pantofi comozi pentru a explora traseele de drumeție.",
+            "en": "Walk around this picturesque natural lake surrounded by lush vegetation, and wear comfortable shoes to explore the beautiful surrounding hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina de Ondas",
+            "hu": "Piscina de Ondas",
+            "ro": "Piscina de Ondas",
+            "en": "Piscina de Ondas"
+          },
+          "coords": [
+            -7.495542,
+            40.27358
+          ],
+          "category": "family",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen unterhaltsamen Nachmittag in diesem aufregenden Wellenbad und kommen Sie früh, um sich einen guten Platz auf den Sonnenliegen zu sichern.",
+            "hu": "Élvezze a vidám délutánt ebben az izgalmas hullámmedence-komplexumban, és érkezzen korán, hogy jó helyet biztosítson a víz melletti napozóágyakon.",
+            "ro": "Bucurați-vă de o după-amiază plină de distracție la această piscină cu valuri și ajungeți devreme pentru a prinde un loc bun pe șezlongurile de lângă apă.",
+            "en": "Enjoy a fun-filled afternoon at this exciting wave pool complex, and try to arrive early to secure a good spot on the sun loungers near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Infantil de Santo António",
+            "hu": "Parque Infantil de Santo António",
+            "ro": "Parque Infantil de Santo António",
+            "en": "Parque Infantil de Santo António"
+          },
+          "coords": [
+            -7.51377,
+            40.268807
+          ],
+          "category": "family",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Verbringen Sie Zeit mit der Familie auf diesem weitläufigen Spielplatz und bringen Sie Wasserflaschen mit, da die Nachmittagssonne hier sehr stark sein kann.",
+            "hu": "Töltsön minőségi időt a családdal ezen a tágas helyi játszótéren, és hozzon magával vizet, mivel a délutáni nap meglehetősen erős lehet ezen a környéken.",
+            "ro": "Petreceți timp de calitate cu familia la acest loc de joacă extins și aduceți niște apă, deoarece soarele de după-amiază poate fi destul de puternic aici.",
+            "en": "Spend quality family time at this expansive local playground, and bring some water bottles as the afternoon sun can get quite strong in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt im historischen Herzen der Stadt. Besuchen Sie das berühmte Museum, um mehr über Covilhãs Vergangenheit zu erfahren, und radeln Sie am Theater vorbei. \n\n Gegen Mittag fahren Sie zum ruhigen Natursee. Das friedliche Wasser und das viele Grün bieten einen idealen Ort, um sich auszuruhen und im Schatten zu Mittag zu essen. \n\n Der Nachmittag steht ganz im Zeichen von Spaß und Freizeit. Besuchen Sie das lokale Wellenbad, wo sich Erwachsene und Kinder abkühlen und vergnügen können. \n\n Wenn der Abend hereinbricht, bringt Sie eine sanfte Fahrt zu einem weitläufigen Familienpark. Ein perfekter Ort, um den Sonnenuntergang in entspannter Atmosphäre zu genießen.",
+        "hu": "Kerékpáros kalandja a város történelmi szívében kezdődik. Látogassa meg a híres múzeumot, majd tekerjen el a főszínház klasszikus építészete mellett. \n\n A dél közeledtével lovagoljon a békés természetes tó felé. A nyugodt víz és a környező zöld ideális helyszínt kínál a pihenésre és egy könnyű ebédre a fák alatt. \n\n A délután a szórakozásról és a szabadidőről szól. Irány a helyi hullámmedence, ahol felnőttek és gyerekek egyaránt lehűlhetnek és élvezhetik a vízi attrakciókat. \n\n Ahogy leszáll az est, egy kellemes tekerés egy tágas családi parkba visz. Ez a tökéletes hely arra, hogy barátságos légkörben nézze végig a naplementét.",
+        "ro": "Aventura pe bicicletă începe în inima istorică a orașului. Vizitați renumitul muzeu pentru a afla despre trecutul orașului Covilhã, apoi pedalați pe lângă teatrul principal. \n\n Pe măsură ce se apropie prânzul, mergeți spre lacul natural senin. Apele liniștite și verdeața din jur oferă un loc ideal pentru a vă odihni și a lua un prânz ușor. \n\n După-amiaza este dedicată distracției. Îndreptați-vă spre complexul local de piscine cu valuri unde adulții și copiii se pot răcori și se pot bucura de jocurile de apă. \n\n Odată cu lăsarea serii, o plimbare ușoară vă duce într-un parc familial spațios. Este locul perfect pentru a privi apusul soarelui într-o atmosferă prietenoasă de cartier.",
+        "en": "Your cycling adventure kicks off in the historical heart of the city. Visit the renowned museum to learn about Covilhã's past, then pedal past the classic architecture of the main theatre. \n\n As midday approaches, ride towards the serene natural lake. The peaceful waters and surrounding greenery offer an ideal spot to rest and have a light lunch under the trees. \n\n The afternoon is all about fun and leisure. Head to the local wave pool complex where both adults and children can cool off and enjoy the thrilling water features. \n\n As evening falls, a gentle ride takes you to a spacious family park. It is the perfect place to watch the sun go down while soaking in the friendly neighborhood atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 31.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu da Covilha",
+            "hu": "Museu da Covilha",
+            "ro": "Museu da Covilha",
+            "en": "Museu da Covilha"
+          },
+          "coords": [
+            -7.503979,
+            40.279824
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche textile Erbe von Covilhã in diesem modernen Museum und besuchen Sie die interaktiven Webstuhlausstellungen im ersten Stock.",
+            "hu": "Fedezze fel Covilhã gazdag textilipari örökségét ebben a modern múzeumban, és ne hagyja ki az első emeleti interaktív szövőgépes bemutatókat.",
+            "ro": "Descoperiți bogata moștenire textilă a Covilhăi în acest muzeu modern și asigurați-vă că verificați expozițiile interactive de țesut de la etaj.",
+            "en": "Discover the rich textile heritage of Covilhã in this modern museum, and be sure to check the interactive weaving displays on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta do sangrinhal (piscina)",
+            "hu": "Quinta do sangrinhal (piscina)",
+            "ro": "Quinta do sangrinhal (piscina)",
+            "en": "Quinta do sangrinhal (piscina)"
+          },
+          "coords": [
+            -7.499189,
+            40.257652
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im ruhigen Pool dieses schönen Landguts und buchen Sie Ihren Besuch an Sommerwochenenden im Voraus, um einen ruhigen Aufenthalt zu garantieren.",
+            "hu": "Kapcsolódjon ki ennek a gyönyű vidéki birtoknak a nyugodt medencéjében, és a nyári hétvégéken foglaljon előre, hogy garantálja a békés tartózkodást.",
+            "ro": "Relaxați-vă în apele liniștite ale piscinei acestui frumos domeniu rural și rezervați-vă vizita în avans în weekendurile de vară pentru a asigura o ședere plăcută.",
+            "en": "Unwind in the tranquil pool waters of this beautiful rural estate, and book your visit in advance during summer weekends to guarantee a peaceful stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Reservatório do Ferro",
+            "hu": "Reservatório do Ferro",
+            "ro": "Reservatório do Ferro",
+            "en": "Reservatório do Ferro"
+          },
+          "coords": [
+            -7.428307,
+            40.235674
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Technik und das ruhige Wasser dieses beeindruckenden ländlichen Stausees und machen Sie tolle Panoramafotos vom östlichen Aussichtspunkt.",
+            "hu": "Csodálja meg ennek a lenyűgöző vidéki víztározónak a mérnöki munkáját és nyugodt vizeit, és készítsen remek panorámaképeket a keleti kilátópontról.",
+            "ro": "Admirați ingineria și apele calme ale acestui impresionant rezervor rural și surprindeți fotografii panoramice grozave de la punctul de belvedere estic.",
+            "en": "Admire the engineering and the calm waters of this impressive rural reservoir, and capture great panoramic photos from the elevated eastern viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina das Penhas da Saúde",
+            "hu": "Piscina das Penhas da Saúde",
+            "ro": "Piscina das Penhas da Saúde",
+            "en": "Piscina das Penhas da Saúde"
+          },
+          "coords": [
+            -7.554129,
+            40.310482
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im erfrischenden Bergwasser dieses einzigartigen Höhenpools und packen Sie eine leichte Jacke ein, da die Bergluft hier oben kühl wird.",
+            "hu": "Ússzon egyet ennek az egyedülálló, magasan fekvő medencének a frissítő hegyi vizeiben, és csomagoljon egy könnyű kabátot, mert a hegyi levegő hűvös lehet.",
+            "ro": "Înotați în apele răcoroase de munte ale acestei piscine unice de la mare altitudine și împachetați o jachetă subțire, deoarece aerul de munte este mai rece.",
+            "en": "Swim in the refreshing mountain waters of this unique high-altitude pool, and pack a light jacket as the mountain air gets remarkably cool up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago do Viriato",
+            "hu": "Lago do Viriato",
+            "ro": "Lago do Viriato",
+            "en": "Lago do Viriato"
+          },
+          "coords": [
+            -7.563733,
+            40.311227
+          ],
+          "category": "natural",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen atemberaubenden Alpensee hoch oben in den Bergen der Serra da Estrela und bleiben Sie bis zur Dämmerung für einen unvergesslichen Sonnenuntergang.",
+            "hu": "Fedezze fel ezt a lenyűgöző alpesi tavat a Serra da Estrela hegységben, és maradjon szürkületig, hogy tanúja legyen egy igazán felejthetetlen naplementének.",
+            "ro": "Descoperiți acest lac alpin uimitor ascuns sus în munții Serra da Estrela și rămâneți până la amurg pentru a asista la un apus de soare cu adevărat de neuitat.",
+            "en": "Discover this stunning alpine lake nestled high up in the Serra da Estrela mountains, and stay until dusk to witness a truly unforgettable sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einer Dosis Kultur im besten Museum der Stadt. Danach fahren Sie zu einem malerischen Landgut und lassen den städtischen Trubel hinter sich. \n\n Gegen Mittag setzen Sie Ihre Fahrt zu einem beeindruckenden technischen Wunderwerk fort. Der große Stausee bildet einen faszinierenden Kontrast zur Naturlandschaft. \n\n Der Nachmittag hebt Ihre Reise auf ein neues Niveau, wenn Sie in die spektakulären Berge fahren. Sie erreichen ein unglaubliches Höhenschwimmbad mit frischer Bergluft. \n\n Am Abend machen Sie Ihren letzten Halt an einem nahegelegenen Alpensee. Die friedliche Bergwelt und die atemberaubende Aussicht in der Dämmerung runden Ihre Tour perfekt ab.",
+        "hu": "Autós utazása egy adag kultúrával kezdődik a város legjobb múzeumában. Ezután egy festői vidéki birtokra hajt, maga mögött hagyva a városi nyüzsgést a nyugodt vizekért. \n\n Dél körül folytassa festői útját egy lenyűgöző mérnöki csoda felé. A hatalmas víztározó lenyűgöző kontrasztot alkot a természeti tájjal, amely tökéletes a fotózáshoz. \n\n A délután tovább emeli az utazás fényét, ahogy felhajt a látványos hegyekbe. Elér egy hihetetlenül magasan fekvő medencét, ahol a friss hegyi levegő igazán élénkítő. \n\n Este tegye meg utolsó megállóját egy közeli alpesi tónál. A békés hegyi környezet és a lélegzetelállító alkonyati kilátás felejthetetlen befejezése lesz az utazásnak.",
+        "ro": "Călătoria cu mașina începe cu o doză de cultură la cel mai bun muzeu din oraș. Apoi, veți conduce la o proprietate rurală pitorească, lăsând în urmă agitația urbană. \n\n În jurul prânzului, continuați-vă drumul pitoresc către o minune inginerească impresionantă. Marele rezervor oferă un contrast uimitor cu peisajul natural, perfect pentru fotografii. \n\n După-amiaza vă ridică nivelul călătoriei conducând sus în munții spectaculoși. Veți ajunge la o piscină incredibilă la mare altitudine, unde aerul proaspăt este revigorant. \n\n Seara, faceți ultima oprire la un lac alpin din apropiere. Mediul montan senin și priveliștile uluitoare ale crepusculului oferă un final de neuitat pentru acest tur al regiunii.",
+        "en": "Your road trip starts with a dose of culture at the city's finest museum. Afterward, you will drive out to a picturesque rural estate, leaving the urban bustle behind for tranquil pool waters. \n\n Around midday, continue your scenic drive to an impressive engineering marvel. The grand reservoir provides a striking contrast against the natural landscape, perfect for photography. \n\n The afternoon elevates your journey as you drive up into the spectacular mountains. You will reach an incredible high-altitude swimming pool where the crisp mountain air is truly invigorating. \n\n In the evening, make your final stop at an alpine lake nearby. The serene mountain environment and breathtaking twilight views offer an unforgettable end to your driving tour of the region."
+      }
+    }
+  }
+}

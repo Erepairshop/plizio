@@ -1,0 +1,474 @@
+{
+  "city_id": "wallers",
+  "anchor": {
+    "name": "Wallers",
+    "coords": [
+      3.3919,
+      50.3753
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Saint-Vaast Church"
+          },
+          "coords": [
+            3.389677,
+            50.374097
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Pfarrkirche, einem friedlichen architektonischen Ankerpunkt, bevor Sie früh aufbrechen, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait, amely a város békés építészeti horgonya, majd induljon tovább korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale, o ancoră arhitecturală pașnică, înainte de a pleca devreme pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful stained glass of this central parish church, a peaceful architectural anchor in Wallers, before heading out early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeche Wallers-Arenberg",
+            "hu": "Wallers-Arenberg bánya",
+            "ro": "Mina Wallers-Arenberg",
+            "en": "Wallers-Arenberg Mine"
+          },
+          "coords": [
+            3.425282,
+            50.384494
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Zeche, berühmt als Kulisse für den Film Germinal und ein beeindruckendes Bergbaudenkmal, aber buchen Sie unbedingt vorab eine Führung.",
+            "hu": "Fedezze fel a történelmi szénbányát, amely a Germinal című film díszleteként híresült el, egy lenyűgöző ipartörténeti emlékmű, de mindenképpen foglaljon előre vezetett túrát.",
+            "ro": "Explorați mina istorică de cărbune, celebră ca decor pentru filmul Germinal, un monument uimitor al patrimoniului minier, dar asigurați-vă că rezervați un tur ghidat în avans.",
+            "en": "Explore the historic colliery famous as a backdrop for the movie Germinal, a stunning monument to mining heritage, but be sure to book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Barbe",
+            "hu": "Sainte-Barbe templom",
+            "ro": "Biserica Sainte-Barbe",
+            "en": "Église Sainte-Barbe"
+          },
+          "coords": [
+            3.431337,
+            50.380685
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene Kirche, die der Schutzpatronin der Bergleute gewidmet ist und die tiefen spirituellen Wurzeln der Arbeiterschaft widerspiegelt, und prüfen Sie respektvoll die örtlichen Messezeiten für den Zugang.",
+            "hu": "Látogasson el ebbe a bányászok védőszentjének szentelt szerény templomba, amely a munkásközösség mély szellemi gyökereit tükrözi, és előtte ellenőrizze a helyi misék időpontjait a bejutáshoz.",
+            "ro": "Vizitați această biserică modestă închinată sfintei patroane a minerilor, reflectând rădăcinile spirituale profunde ale comunității muncitorești, și verificați cu respect orarul slujbelor locale pentru acces.",
+            "en": "Visit this modest church dedicated to the patron saint of miners, reflecting the deep spiritual roots of the working community, and respectfully check local mass times for access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare à Goriaux",
+            "hu": "Mare à Goriaux",
+            "ro": "Mare à Goriaux",
+            "en": "Mare à Goriaux"
+          },
+          "coords": [
+            3.4329,
+            50.3949
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt in diesem durch Bergsenkungen entstandenen biologischen Reservat, einem perfekten Beispiel dafür, wie sich die Natur die Industrie zurückerobert, wofür ein Fernglas sehr zu empfehlen ist.",
+            "hu": "Figyelje meg a gazdag madárvilágot ebben a bányászati süllyedés által kialakult biológiai rezervátumban, amely tökéletes példája a természet ipar feletti győzelmének, és ahová távcsövet erősen ajánlott vinni.",
+            "ro": "Observați bogata viață a păsărilor la această rezervație biologică formată prin prăbușiri miniere, un exemplu perfect al naturii care recucerește industria, unde se recomandă binoclul.",
+            "en": "Observe the rich birdlife at this biological reserve formed by mining subsidence, a perfect example of nature reclaiming industry, where binoculars are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Trouée d'Arenberg",
+            "hu": "Trouée d'Arenberg",
+            "ro": "Trouée d'Arenberg",
+            "en": "Trouée d'Arenberg"
+          },
+          "coords": [
+            3.416667,
+            50.395278
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gehen oder fahren Sie entlang des berüchtigten Kopfsteinpflasterabschnitts des Radrennens Paris-Roubaix, einer legendären sportlichen Herausforderung, und achten Sie dabei auf die tückisch unebenen Pflastersteine.",
+            "hu": "Sétáljon vagy tekerjen végig a Párizs-Roubaix kerékpárverseny hírhedt macskaköves árkán, egy legendás sportkihíváson, de ügyeljen a hírhedten egyenetlen kövezetre.",
+            "ro": "Plimbați-vă sau mergeți cu bicicleta de-a lungul celebrei secțiuni pietruite a cursei cicliste Paris-Roubaix, o provocare sportivă legendară, având grijă la pavajul extrem de denivelat.",
+            "en": "Walk or ride along the infamous cobbled trench of the Paris-Roubaix cycling race, a legendary sporting challenge, taking care on the notoriously uneven paving stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Wallers an der Kirche Saint-Vaast, wo Sie die ruhige Morgenatmosphäre genießen können.\n\nEin stetiger Spaziergang nach Osten bringt Sie zur imposanten Zeche Wallers-Arenberg, einem tiefen Einblick in die intensive industrielle Vergangenheit der Region.\n\nNach einem kurzen Halt an der Église Sainte-Barbe widmet sich der Nachmittag der Natur mit der Erkundung des durch Bergsenkungen entstandenen Mare à Goriaux.\n\nAm Abend spazieren Sie über das legendäre Kopfsteinpflaster der Trouée d'Arenberg, wo die Radsportgeschichte zwischen den Bäumen weiterlebt.",
+        "hu": "A nap Wallers történelmi szívében, a Saint-Vaast templomnál kezdődik, ahol magába szívhatja a csendes észak-franciaországi reggel hangulatát.\n\nKelet felé sétálva az impozáns Wallers-Arenberg bányához érkezik, amely drámai betekintést nyújt a régió ipari múltjába.\n\nMiután tiszteletét tette a közeli Sainte-Barbe templomnál, a délután a természeté: felfedezheti a bányászati süllyedésekből kialakult nyugodt Mare à Goriaux tavat.\n\nKora este végigsétál a Trouée d'Arenberg legendás macskakövein, ahol a kerékpársport történelme él a fák között.",
+        "ro": "Ziua ta începe în inima istorică a orașului Wallers la Biserica Saint-Vaast, absorbind atmosfera liniștită a dimineții.\n\nO plimbare constantă spre est te duce la impunătoarea Mină Wallers-Arenberg, o plonjare dramatică în trecutul industrial intens al regiunii.\n\nDupă o scurtă oprire la Église Sainte-Barbe, după-amiaza se îndreaptă spre natură, explorând senina Mare à Goriaux creată prin prăbușiri miniere.\n\nPe măsură ce se apropie seara, vei merge pe legendarele pietre cubice din Trouée d'Arenberg, unde istoria ciclismului trăiește printre copacii liniștiți.",
+        "en": "Your day begins in the historic heart of Wallers at the Saint-Vaast Church, soaking in the quiet morning atmosphere of this northern French town.\n\nA steady walk east brings you to the imposing Mine de Wallers-Arenberg, a dramatic mid-morning plunge into the region's intense industrial past.\n\nAfter a short stroll to pay respects at Église Sainte-Barbe, the afternoon shifts to nature, exploring the serene Mare à Goriaux created by mining subsidence.\n\nAs evening approaches, you'll walk the legendary cobbles of the Trouée d'Arenberg, where cycling history lives among the quiet trees."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            3.361202,
+            50.363073
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie in dieser ruhigen westlichen Kirche mit ihrer markanten regionalen Architektur, die die historische Ausdehnung des Dorfes zeigt und am besten erreichbar ist, wenn Sie in der Nebenstraße parken.",
+            "hu": "Töltsön el egy kis időt ennél a csendes nyugati templomnál, amely a falu történelmi kiterjedését mutatja be jellegzetes regionális építészetével, és a legkönnyebben a szomszédos utcában parkolva látogatható.",
+            "ro": "Acordați-vă un moment la această biserică liniștită din vest cu o arhitectură regională distinctă, prezentând extinderea istorică a satului, cel mai ușor de vizitat parcând pe strada alăturată.",
+            "en": "Take a moment at this quiet western church with distinct regional architecture, showcasing the village's historic sprawl, easiest to visit by parking on the adjacent street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Saint-Vaast Church"
+          },
+          "coords": [
+            3.389677,
+            50.374097
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Pfarrkirche, einem friedlichen architektonischen Ankerpunkt, bevor Sie früh aufbrechen, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait, amely a város békés építészeti horgonya, majd induljon tovább korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale, o ancoră arhitecturală pașnică, înainte de a pleca devreme pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful stained glass of this central parish church, a peaceful architectural anchor in Wallers, before heading out early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeche Wallers-Arenberg",
+            "hu": "Wallers-Arenberg bánya",
+            "ro": "Mina Wallers-Arenberg",
+            "en": "Wallers-Arenberg Mine"
+          },
+          "coords": [
+            3.425282,
+            50.384494
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Zeche, berühmt als Kulisse für den Film Germinal und ein beeindruckendes Bergbaudenkmal, aber buchen Sie unbedingt vorab eine Führung.",
+            "hu": "Fedezze fel a történelmi szénbányát, amely a Germinal című film díszleteként híresült el, egy lenyűgöző ipartörténeti emlékmű, de mindenképpen foglaljon előre vezetett túrát.",
+            "ro": "Explorați mina istorică de cărbune, celebră ca decor pentru filmul Germinal, un monument uimitor al patrimoniului minier, dar asigurați-vă că rezervați un tur ghidat în avans.",
+            "en": "Explore the historic colliery famous as a backdrop for the movie Germinal, a stunning monument to mining heritage, but be sure to book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Trouée d'Arenberg",
+            "hu": "Trouée d'Arenberg",
+            "ro": "Trouée d'Arenberg",
+            "en": "Trouée d'Arenberg"
+          },
+          "coords": [
+            3.416667,
+            50.395278
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Gehen oder fahren Sie entlang des berüchtigten Kopfsteinpflasterabschnitts des Radrennens Paris-Roubaix, einer legendären sportlichen Herausforderung, und achten Sie dabei auf die tückisch unebenen Pflastersteine.",
+            "hu": "Sétáljon vagy tekerjen végig a Párizs-Roubaix kerékpárverseny hírhedt macskaköves árkán, egy legendás sportkihíváson, de ügyeljen a hírhedten egyenetlen kövezetre.",
+            "ro": "Plimbați-vă sau mergeți cu bicicleta de-a lungul celebrei secțiuni pietruite a cursei cicliste Paris-Roubaix, o provocare sportivă legendară, având grijă la pavajul extrem de denivelat.",
+            "en": "Walk or ride along the infamous cobbled trench of the Paris-Roubaix cycling race, a legendary sporting challenge, taking care on the notoriously uneven paving stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare à Goriaux",
+            "hu": "Mare à Goriaux",
+            "ro": "Mare à Goriaux",
+            "en": "Mare à Goriaux"
+          },
+          "coords": [
+            3.4329,
+            50.3949
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt in diesem durch Bergsenkungen entstandenen biologischen Reservat, einem perfekten Beispiel dafür, wie sich die Natur die Industrie zurückerobert, wofür ein Fernglas sehr zu empfehlen ist.",
+            "hu": "Figyelje meg a gazdag madárvilágot ebben a bányászati süllyedés által kialakult biológiai rezervátumban, amely tökéletes példája a természet ipar feletti győzelmének, és ahová távcsövet erősen ajánlott vinni.",
+            "ro": "Observați bogata viață a păsărilor la această rezervație biologică formată prin prăbușiri miniere, un exemplu perfect al naturii care recucerește industria, unde se recomandă binoclul.",
+            "en": "Observe the rich birdlife at this biological reserve formed by mining subsidence, a perfect example of nature reclaiming industry, where binoculars are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Raismes-Saint-Amand-Wallers",
+            "hu": "Raismes-Saint-Amand-Wallers erdő",
+            "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+            "en": "Raismes-Saint-Amand-Wallers Forest"
+          },
+          "coords": [
+            3.47458,
+            50.4213
+          ],
+          "category": "natural",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich im weiten Grün dieses regionalen Naturparks, einer fantastischen grünen Lunge Nordfrankreichs, und bringen Sie im Sommer Mückenspray für die dichten Pfade mit.",
+            "hu": "Vesszen el ennek a regionális natúrparknak a hatalmas zöldjében, amely Észak-Franciaország fantasztikus zöld tüdeje, és hozzon magával szúnyogriasztót, ha nyáron fedezi fel a sűrű ösvényeket.",
+            "ro": "Pierdeți-vă în verdeața vastă a acestui parc natural regional, un plămân verde fantastic pentru nordul Franței, și aduceți spray împotriva țânțarilor dacă explorați traseele dense vara.",
+            "en": "Lose yourself in the vast greenery of this regional natural park, a fantastic green lung for Northern France, and bring mosquito repellent if exploring the dense trails in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer im Westen an der Église Saint-Léger, bevor Sie in das historische Zentrum radeln, um die Kirche Saint-Vaast zu sehen.\n\nDie Fahrt am Mittag führt Sie direkt in das beeindruckende industrielle Erbe der Zeche Wallers-Arenberg, einem faszinierenden kulturellen Anker.\n\nDer frühe Nachmittag gehört Legenden und Landschaften: Sie navigieren vorsichtig über das legendäre Kopfsteinpflaster der Trouée d'Arenberg und beobachten Vögel am Mare à Goriaux.\n\nDer Tag endet mit einer ausgedehnten Fahrt durch die üppigen Pfade des Waldes von Raismes-Saint-Amand-Wallers im weichen Abendlicht.",
+        "hu": "Kezdje kerékpáros kalandját nyugaton a Saint-Léger templomnál, majd tekerjen be a történelmi központba, hogy megtekintse a Saint-Vaast templomot.\n\nA napközi út egyenesen a Wallers-Arenberg bánya lenyűgöző ipari örökségébe vezet, amely egy rendkívül fontos kulturális horgony.\n\nA kora délután a legendáké és a tájaké: óvatosan haladjon át a Trouée d'Arenberg híres macskakövein, és figyelje a madarakat a Mare à Goriaux tónál.\n\nA nap egy hosszú tekeréssel zárul a Raismes-Saint-Amand-Wallers erdő buja ösvényein, a békésen lemenő nap fényében.",
+        "ro": "Începe-ți aventura pe bicicletă în vest la Église Saint-Léger, încălzindu-ți picioarele înainte de a pedala în centrul istoric la Saint-Vaast.\n\nCălătoria de la mijlocul zilei te conduce direct în patrimoniul industrial impresionant al Minei Wallers-Arenberg, o ancoră culturală fascinantă.\n\nÎnceputul după-amiezii este pentru legende și peisaje, navigând cu grijă pe faimoasele pietre cubice din Trouée d'Arenberg și observând păsări la Mare à Goriaux.\n\nZiua se încheie cu o plimbare prelungită prin traseele luxuriante ale Pădurii Raismes-Saint-Amand-Wallers sub soarele frumos la apus.",
+        "en": "Start your cycling adventure in the west at Église Saint-Léger, warming up your legs before pedaling into the historic center to view the Saint-Vaast Church.\n\nThe mid-day journey leads you straight into the striking industrial heritage of the Wallers-Arenberg Mine, a fascinating cultural anchor.\n\nEarly afternoon is for legends and landscapes, carefully navigating the fabled cobbles of the Trouée d'Arenberg and watching birds at Mare à Goriaux.\n\nThe day concludes with an extended ride through the lush, sprawling paths of the Raismes-Saint-Amand-Wallers Forest under the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 13.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            3.361202,
+            50.363073
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie in dieser ruhigen westlichen Kirche mit ihrer markanten regionalen Architektur, die die historische Ausdehnung des Dorfes zeigt und am besten erreichbar ist, wenn Sie in der Nebenstraße parken.",
+            "hu": "Töltsön el egy kis időt ennél a csendes nyugati templomnál, amely a falu történelmi kiterjedését mutatja be jellegzetes regionális építészetével, és a legkönnyebben a szomszédos utcában parkolva látogatható.",
+            "ro": "Acordați-vă un moment la această biserică liniștită din vest cu o arhitectură regională distinctă, prezentând extinderea istorică a satului, cel mai ușor de vizitat parcând pe strada alăturată.",
+            "en": "Take a moment at this quiet western church with distinct regional architecture, showcasing the village's historic sprawl, easiest to visit by parking on the adjacent street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            3.425692,
+            50.36346
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Kapelle, die als Symbol des Schutzes errichtet wurde und Ihrer Reise eine malerische historische Note verleiht, was sie zu einem schnellen, aber sehr fotogenen Stopp macht.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát, amelyet a védelem szimbólumaként emeltek, és amely festői történelmi ízt ad az utazásnak, így gyors, de rendkívül fotogén út menti megálló.",
+            "ro": "Descoperiți această mică capelă fermecătoare, ridicată ca un far de protecție, adăugând o aromă istorică pitorească călătoriei, fiind o oprire rapidă, dar extrem de fotogenică.",
+            "en": "Discover this charming small chapel erected as a beacon of protection, adding quaint historical flavor to your trip, making it a fast but highly photogenic roadside stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            3.426181,
+            50.366263
+          ],
+          "category": "religious",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das traditionelle Mauerwerk dieser zweiten Pfarrkirche, ein Zeugnis lokaler Handwerkskunst, das im weichen Licht der Vormittagssonne am besten zur Geltung kommt.",
+            "hu": "Értékelje ennek a másodlagos plébániatemplomnak a hagyományos téglafalazatát, amely a helyi kézművesség bizonyítéka, és amelyet a délelőtti nap lágy fényében a legjobb megtekinteni.",
+            "ro": "Apreciați zidăria tradițională a acestei a doua biserici parohiale, o mărturie a meșteșugului local, care este cel mai bine observată în lumina blândă a soarelui de dimineață.",
+            "en": "Appreciate the traditional brickwork of this secondary parish church, a testament to local craftsmanship, which is best viewed in the soft light of the mid-morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeche Wallers-Arenberg",
+            "hu": "Wallers-Arenberg bánya",
+            "ro": "Mina Wallers-Arenberg",
+            "en": "Wallers-Arenberg Mine"
+          },
+          "coords": [
+            3.425282,
+            50.384494
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Zeche, berühmt als Kulisse für den Film Germinal und ein beeindruckendes Bergbaudenkmal, aber buchen Sie unbedingt vorab eine Führung.",
+            "hu": "Fedezze fel a történelmi szénbányát, amely a Germinal című film díszleteként híresült el, egy lenyűgöző ipartörténeti emlékmű, de mindenképpen foglaljon előre vezetett túrát.",
+            "ro": "Explorați mina istorică de cărbune, celebră ca decor pentru filmul Germinal, un monument uimitor al patrimoniului minier, dar asigurați-vă că rezervați un tur ghidat în avans.",
+            "en": "Explore the historic colliery famous as a backdrop for the movie Germinal, a stunning monument to mining heritage, but be sure to book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Trouée d'Arenberg",
+            "hu": "Trouée d'Arenberg",
+            "ro": "Trouée d'Arenberg",
+            "en": "Trouée d'Arenberg"
+          },
+          "coords": [
+            3.416667,
+            50.395278
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Gehen oder fahren Sie entlang des berüchtigten Kopfsteinpflasterabschnitts des Radrennens Paris-Roubaix, einer legendären sportlichen Herausforderung, und achten Sie dabei auf die tückisch unebenen Pflastersteine.",
+            "hu": "Sétáljon vagy tekerjen végig a Párizs-Roubaix kerékpárverseny hírhedt macskaköves árkán, egy legendás sportkihíváson, de ügyeljen a hírhedten egyenetlen kövezetre.",
+            "ro": "Plimbați-vă sau mergeți cu bicicleta de-a lungul celebrei secțiuni pietruite a cursei cicliste Paris-Roubaix, o provocare sportivă legendară, având grijă la pavajul extrem de denivelat.",
+            "en": "Walk or ride along the infamous cobbled trench of the Paris-Roubaix cycling race, a legendary sporting challenge, taking care on the notoriously uneven paving stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare à Goriaux",
+            "hu": "Mare à Goriaux",
+            "ro": "Mare à Goriaux",
+            "en": "Mare à Goriaux"
+          },
+          "coords": [
+            3.4329,
+            50.3949
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt in diesem durch Bergsenkungen entstandenen biologischen Reservat, einem perfekten Beispiel dafür, wie sich die Natur die Industrie zurückerobert, wofür ein Fernglas sehr zu empfehlen ist.",
+            "hu": "Figyelje meg a gazdag madárvilágot ebben a bányászati süllyedés által kialakult biológiai rezervátumban, amely tökéletes példája a természet ipar feletti győzelmének, és ahová távcsövet erősen ajánlott vinni.",
+            "ro": "Observați bogata viață a păsărilor la această rezervație biologică formată prin prăbușiri miniere, un exemplu perfect al naturii care recucerește industria, unde se recomandă binoclul.",
+            "en": "Observe the rich birdlife at this biological reserve formed by mining subsidence, a perfect example of nature reclaiming industry, where binoculars are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Raismes-Saint-Amand-Wallers",
+            "hu": "Raismes-Saint-Amand-Wallers erdő",
+            "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+            "en": "Raismes-Saint-Amand-Wallers Forest"
+          },
+          "coords": [
+            3.47458,
+            50.4213
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich im weiten Grün dieses regionalen Naturparks, einer fantastischen grünen Lunge Nordfrankreichs, und bringen Sie im Sommer Mückenspray für die dichten Pfade mit.",
+            "hu": "Vesszen el ennek a regionális natúrparknak a hatalmas zöldjében, amely Észak-Franciaország fantasztikus zöld tüdeje, és hozzon magával szúnyogriasztót, ha nyáron fedezi fel a sűrű ösvényeket.",
+            "ro": "Pierdeți-vă în verdeața vastă a acestui parc natural regional, un plămân verde fantastic pentru nordul Franței, și aduceți spray împotriva țânțarilor dacă explorați traseele dense vara.",
+            "en": "Lose yourself in the vast greenery of this regional natural park, a fantastic green lung for Northern France, and bring mosquito repellent if exploring the dense trails in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Bequemlichkeit eines Autos ermöglicht es Ihnen, weit im Westen an der Église Saint-Léger zu beginnen, bevor Sie schnell nach Südosten fahren, um den malerischen Charme der Chapelle Saint-Roch und der Église Saint-Denis einzufangen.\n\nAm Vormittag parken Sie an der monumentalen Zeche Wallers-Arenberg und tauchen tief in die faszinierende Geschichte des Steinkohlebergbaus in Nordfrankreich ein.\n\nNach dem Mittagessen erwartet Sie ein kurzer Weg zur tückischen Schönheit des Kopfsteinpflasters der Trouée d'Arenberg und dem ruhigen Wasser des Mare à Goriaux.\n\nIhr umfassender Roadtrip endet im riesigen Wald von Raismes-Saint-Amand-Wallers für einen friedlichen Spaziergang im Zwielicht.",
+        "hu": "Az autó kényelme lehetővé teszi, hogy messze nyugaton, a Saint-Léger templomnál kezdjen, mielőtt gyorsan délkeletre hajtana a Chapelle Saint-Roch és a Saint-Denis templom bájos látványához.\n\nDélelőtt a monumentális Wallers-Arenberg bányánál parkol le, és mélyen elmerül Észak-Franciaország szénbányászati és ipari sagájában.\n\nEbéd után egy rövid autóúttal megtapasztalhatja a Trouée d'Arenberg macskaköveinek hírhedt szépségét és a Mare à Goriaux nyugodt vizeit.\n\nAz átfogó autós utazás a hatalmas Raismes-Saint-Amand-Wallers erdőben ér véget egy hangulatos, alkonyati erdei sétával.",
+        "ro": "Confortul unei mașini îți permite să începi mult în vest la Église Saint-Léger înainte de a merge rapid spre sud-est pentru a surprinde farmecul Capelei Saint-Roch și al Église Saint-Denis.\n\nPână la jumătatea dimineții, parchezi la monumentala Mină Wallers-Arenberg, cufundându-te adânc în saga dramatică a extracției cărbunelui.\n\nDupă prânz, conduci puțin pentru a experimenta frumusețea pietrelor cubice din Trouée d'Arenberg și apele liniștite ale Mare à Goriaux.\n\nCălătoria ta cuprinzătoare se încheie în imensa Pădure Raismes-Saint-Amand-Wallers, bucurându-te de o plimbare liniștită la amurg.",
+        "en": "The convenience of a car lets you start far west at Église Saint-Léger before swiftly cruising southeast to capture the quaint charm of Chapelle Saint-Roch and Église Saint-Denis.\n\nBy mid-morning, you park at the monumental Wallers-Arenberg Mine, immersing yourself deeply into the coal-mining saga of Northern France.\n\nAfter lunch, take a short drive to experience the treacherous beauty of the Trouée d'Arenberg cobbles and the tranquil waters of Mare à Goriaux.\n\nYour comprehensive road trip ends in the massive Raismes-Saint-Amand-Wallers Forest, enjoying a peaceful twilight woodland stroll."
+      }
+    }
+  }
+}

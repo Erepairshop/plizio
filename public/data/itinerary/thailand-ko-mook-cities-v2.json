@@ -1,0 +1,543 @@
+{
+  "city_id": "thailand-ko-mook-cities-v2",
+  "anchor": {
+    "name": "Ko Mook",
+    "coords": [
+      99.295516,
+      7.373312
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Koh Mook Sivalai Beach Resort",
+            "hu": "Koh Mook Sivalai Beach Resort",
+            "ro": "Koh Mook Sivalai Beach Resort",
+            "en": "Koh Mook Sivalai Beach Resort"
+          },
+          "coords": [
+            99.311851,
+            7.373874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dieser ikonischen Sandbank-Halbinsel, wo kristallklares Wasser auf weißen Sand trifft, was sie ideal fürs Schwimmen bei Flut macht.",
+            "hu": "Pihenjen ezen az ikonikus homokpad-félszigeten, ahol a kristálytiszta víz fehér homokkal találkozik, így dagály idején tökéletes egy frissítő úszásra.",
+            "ro": "Relaxați-vă pe această peninsulă emblematică, unde apele cristaline se întâlnesc cu nisipul alb, perfectă pentru înot dacă o vizitați la fluxul înalt.",
+            "en": "Relax on this iconic sandbar peninsula where crystal-clear waters meet white sands, making it perfect for swimming if you visit during the high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Pawapi Strand",
+            "hu": "Pawapi Strand",
+            "ro": "Plaja Pawapi",
+            "en": "Pawapi Beach"
+          },
+          "coords": [
+            99.311498,
+            7.372643
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses unberührten Küstenabschnitts mit sanftem Sand, und bringen Sie ein Handtuch für eine morgendliche Pause mit.",
+            "hu": "Élvezze az érintetlen partszakasz nyugodt hangulatát és puha homokját, ezért feltétlenül hozzon magával egy törölközőt egy csendes reggeli pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei zone de coastă imaculate cu nisip fin, așa că aduceți un prosop pentru o odihnă matinală foarte relaxantă.",
+            "en": "Enjoy the tranquil atmosphere of this pristine coastal stretch offering soft sands, so bring a towel for a highly peaceful and relaxing morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phang Ka Strand",
+            "hu": "Ao Phang Ka Strand",
+            "ro": "Plaja Ao Phang Ka",
+            "en": "Ao Phang Ka Beach"
+          },
+          "coords": [
+            99.304282,
+            7.362916
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese südliche von Mangroven gesäumte Bucht als ruhige Flucht vor geschäftigen Gebieten, aber ein gutes Mückenspray wird hier empfohlen.",
+            "hu": "Fedezze fel ezt a mangrovékkal szegélyezett déli öblöt, amely csendes menedéket nyújt a tömeg elől, bár a rovarriasztó használata erősen ajánlott.",
+            "ro": "Descoperiți acest golf sudic mărginit de mangrove care oferă o evadare liniștită din zonele aglomerate, deși un spray de insecte este recomandat aici.",
+            "en": "Discover this southern bay lined with mangroves providing a quiet escape from busy areas, though carrying bug spray is highly recommended for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Farang Strand",
+            "hu": "Farang Strand",
+            "ro": "Plaja Farang",
+            "en": "Farang Beach"
+          },
+          "coords": [
+            99.294226,
+            7.359937
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der beliebtesten Westküste der Insel, die für ihre Strandbars bekannt ist, was sie ideal macht, um eine frische Kokosnuss zu holen.",
+            "hu": "Pihenjen a sziget legnépszerűbb nyugati partvonalán, amely híres pezsgő strandbárjairól, így tökéletes helyszín egy friss kókuszdió elfogyasztására.",
+            "ro": "Relaxați-vă pe cea mai populară coastă vestică a insulei, cunoscută pentru barurile pe plajă, locul ideal pentru a savura o nucă de cocos proaspătă.",
+            "en": "Unwind at the island's most popular western shoreline known for its lively beach bars, making it ideal to grab a fresh coconut and relax by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Schnorchelplatz",
+            "hu": "Sznorkel Hely",
+            "ro": "Loc de Snorkeling",
+            "en": "Snorkeling Spot (200 m parallel to the beach)"
+          },
+          "coords": [
+            99.29226,
+            7.360584
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das pulsierende Unterwasserleben nahe der Küste, wo bunte Fische gedeihen, und denken Sie daran, Ihre eigene hochwertige Maske mitzubringen.",
+            "hu": "Fedezze fel a parttól nem messze található vibráló víz alatti világot, ahol színes halak úszkálnak, és ne felejtse el magával hozni saját maszkját.",
+            "ro": "Explorați viața subacvatică vibrantă la o scurtă distanță de țărm, plină de pești colorați, și nu uitați să vă aduceți propria mască de înaltă calitate.",
+            "en": "Explore vibrant underwater life just a short distance from the shore where colorful tropical fish thrive, and remember to bring your own high-quality mask."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an den ruhigen Ostküsten und pudrigen weißen Sandbänken.\n\nWenn es wärmer wird, besuchen Sie die südlichen Buchten für einen friedlichen Rückzugsort.\n\nAm Nachmittag entdecken Sie die herrliche Westküste für erstklassiges Schnorcheln im Meer.\n\nLassen Sie den Tag bei einem spektakulären feurigen Sonnenuntergang nahe den Lagunen ausklingen.",
+        "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
+        "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
+        "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Koh Mook Sivalai Beach Resort",
+            "hu": "Koh Mook Sivalai Beach Resort",
+            "ro": "Koh Mook Sivalai Beach Resort",
+            "en": "Koh Mook Sivalai Beach Resort"
+          },
+          "coords": [
+            99.311851,
+            7.373874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dieser ikonischen Sandbank-Halbinsel, wo kristallklares Wasser auf weißen Sand trifft, was sie ideal fürs Schwimmen bei Flut macht.",
+            "hu": "Pihenjen ezen az ikonikus homokpad-félszigeten, ahol a kristálytiszta víz fehér homokkal találkozik, így dagály idején tökéletes egy frissítő úszásra.",
+            "ro": "Relaxați-vă pe această peninsulă emblematică, unde apele cristaline se întâlnesc cu nisipul alb, perfectă pentru înot dacă o vizitați la fluxul înalt.",
+            "en": "Relax on this iconic sandbar peninsula where crystal-clear waters meet white sands, making it perfect for swimming if you visit during the high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Pawapi Strand",
+            "hu": "Pawapi Strand",
+            "ro": "Plaja Pawapi",
+            "en": "Pawapi Beach"
+          },
+          "coords": [
+            99.311498,
+            7.372643
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses unberührten Küstenabschnitts mit sanftem Sand, und bringen Sie ein Handtuch für eine morgendliche Pause mit.",
+            "hu": "Élvezze az érintetlen partszakasz nyugodt hangulatát és puha homokját, ezért feltétlenül hozzon magával egy törölközőt egy csendes reggeli pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei zone de coastă imaculate cu nisip fin, așa că aduceți un prosop pentru o odihnă matinală foarte relaxantă.",
+            "en": "Enjoy the tranquil atmosphere of this pristine coastal stretch offering soft sands, so bring a towel for a highly peaceful and relaxing morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phang Ka Strand",
+            "hu": "Ao Phang Ka Strand",
+            "ro": "Plaja Ao Phang Ka",
+            "en": "Ao Phang Ka Beach"
+          },
+          "coords": [
+            99.304282,
+            7.362916
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese südliche von Mangroven gesäumte Bucht als ruhige Flucht vor geschäftigen Gebieten, aber ein gutes Mückenspray wird hier empfohlen.",
+            "hu": "Fedezze fel ezt a mangrovékkal szegélyezett déli öblöt, amely csendes menedéket nyújt a tömeg elől, bár a rovarriasztó használata erősen ajánlott.",
+            "ro": "Descoperiți acest golf sudic mărginit de mangrove care oferă o evadare liniștită din zonele aglomerate, deși un spray de insecte este recomandat aici.",
+            "en": "Discover this southern bay lined with mangroves providing a quiet escape from busy areas, though carrying bug spray is highly recommended for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Farang Strand",
+            "hu": "Farang Strand",
+            "ro": "Plaja Farang",
+            "en": "Farang Beach"
+          },
+          "coords": [
+            99.294226,
+            7.359937
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der beliebtesten Westküste der Insel, die für ihre Strandbars bekannt ist, was sie ideal macht, um eine frische Kokosnuss zu holen.",
+            "hu": "Pihenjen a sziget legnépszerűbb nyugati partvonalán, amely híres pezsgő strandbárjairól, így tökéletes helyszín egy friss kókuszdió elfogyasztására.",
+            "ro": "Relaxați-vă pe cea mai populară coastă vestică a insulei, cunoscută pentru barurile pe plajă, locul ideal pentru a savura o nucă de cocos proaspătă.",
+            "en": "Unwind at the island's most popular western shoreline known for its lively beach bars, making it ideal to grab a fresh coconut and relax by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Smaragdhalle (Emerald Cave)",
+            "hu": "Smaragd Barlang",
+            "ro": "Peștera de Smarald",
+            "en": "Emerald Cave"
+          },
+          "coords": [
+            99.283771,
+            7.36922
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie durch den spannenden dunklen Kalksteintunnel, um eine atemberaubende Lagune zu entdecken, aber kommen Sie früh, um die Massen zu meiden.",
+            "hu": "Ússzon át az izgalmas, sötét mészkőalagúton, hogy felfedezzen egy lélegzetelállító rejtett lagúnát, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Înotați prin tunelul de calcar întunecat și palpitant pentru a descoperi o lagună ascunsă spectaculoasă, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Swim through the thrilling dark limestone tunnel to discover a breathtaking hidden lagoon inside, but arrive early to avoid massive tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Morakot Strand",
+            "hu": "Morakot Strand",
+            "ro": "Plaja Morakot",
+            "en": "Morakot Beach"
+          },
+          "coords": [
+            99.284824,
+            7.368621
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den abgelegenen Sandstreifen direkt vor der Höhle, der großartige Fotomotive bietet, wenn die Sonne das kristallklare Wasser beleuchtet.",
+            "hu": "Csodálja meg a híres barlang bejárata előtt elterülő elszigetelt homokpadot, amely csodálatos fotózási lehetőségeket kínál napfényes időben.",
+            "ro": "Admirați porțiunea de nisip izolată chiar în fața peșterii faimoase, oferind oportunități foto magnifice atunci când soarele lovește apa clară.",
+            "en": "Marvel at the secluded sandy patch nested outside the famous cave entrance, offering magnificent photo opportunities when the sun hits the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabai Strand",
+            "hu": "Sabai Strand",
+            "ro": "Plaja Sabai",
+            "en": "Sabai Beach"
+          },
+          "coords": [
+            99.287793,
+            7.37661
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern oder segeln Sie zu dieser wunderschön isolierten Sandbucht an steilen Klippen, und bringen Sie viel Trinkwasser mit, da es keine Anlagen gibt.",
+            "hu": "Túrázzon vagy vitorlázzon el ehhez a meredek mészkősziklákkal védett, gyönyörűen elszigetelt öbölhöz, és vigyen magával bőséges mennyiségű ivóvizet.",
+            "ro": "Navigați către acest golf de nisip izolat și protejat de stânci abrupte, luând cu dumneavoastră multă apă potabilă, deoarece nu există facilități.",
+            "en": "Hike or sail to this beautifully isolated sandy cove sheltered by steep limestone cliffs, bringing plenty of drinking water since there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an den ruhigen Ostküsten und pudrigen weißen Sandbänken.\n\nWenn es wärmer wird, besuchen Sie die südlichen Buchten für einen friedlichen Rückzugsort.\n\nAm Nachmittag entdecken Sie die herrliche Westküste für erstklassiges Schnorcheln im Meer.\n\nLassen Sie den Tag bei einem spektakulären feurigen Sonnenuntergang nahe den Lagunen ausklingen.",
+        "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
+        "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
+        "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 7.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Koh Mook Sivalai Beach Resort",
+            "hu": "Koh Mook Sivalai Beach Resort",
+            "ro": "Koh Mook Sivalai Beach Resort",
+            "en": "Koh Mook Sivalai Beach Resort"
+          },
+          "coords": [
+            99.311851,
+            7.373874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dieser ikonischen Sandbank-Halbinsel, wo kristallklares Wasser auf weißen Sand trifft, was sie ideal fürs Schwimmen bei Flut macht.",
+            "hu": "Pihenjen ezen az ikonikus homokpad-félszigeten, ahol a kristálytiszta víz fehér homokkal találkozik, így dagály idején tökéletes egy frissítő úszásra.",
+            "ro": "Relaxați-vă pe această peninsulă emblematică, unde apele cristaline se întâlnesc cu nisipul alb, perfectă pentru înot dacă o vizitați la fluxul înalt.",
+            "en": "Relax on this iconic sandbar peninsula where crystal-clear waters meet white sands, making it perfect for swimming if you visit during the high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phang Ka Strand",
+            "hu": "Ao Phang Ka Strand",
+            "ro": "Plaja Ao Phang Ka",
+            "en": "Ao Phang Ka Beach"
+          },
+          "coords": [
+            99.304282,
+            7.362916
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese südliche von Mangroven gesäumte Bucht als ruhige Flucht vor geschäftigen Gebieten, aber ein gutes Mückenspray wird hier empfohlen.",
+            "hu": "Fedezze fel ezt a mangrovékkal szegélyezett déli öblöt, amely csendes menedéket nyújt a tömeg elől, bár a rovarriasztó használata erősen ajánlott.",
+            "ro": "Descoperiți acest golf sudic mărginit de mangrove care oferă o evadare liniștită din zonele aglomerate, deși un spray de insecte este recomandat aici.",
+            "en": "Discover this southern bay lined with mangroves providing a quiet escape from busy areas, though carrying bug spray is highly recommended for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Farang Strand",
+            "hu": "Farang Strand",
+            "ro": "Plaja Farang",
+            "en": "Farang Beach"
+          },
+          "coords": [
+            99.294226,
+            7.359937
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der beliebtesten Westküste der Insel, die für ihre Strandbars bekannt ist, was sie ideal macht, um eine frische Kokosnuss zu holen.",
+            "hu": "Pihenjen a sziget legnépszerűbb nyugati partvonalán, amely híres pezsgő strandbárjairól, így tökéletes helyszín egy friss kókuszdió elfogyasztására.",
+            "ro": "Relaxați-vă pe cea mai populară coastă vestică a insulei, cunoscută pentru barurile pe plajă, locul ideal pentru a savura o nucă de cocos proaspătă.",
+            "en": "Unwind at the island's most popular western shoreline known for its lively beach bars, making it ideal to grab a fresh coconut and relax by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Schnorchelplatz (Tigerhöhle)",
+            "hu": "Sznorkel Hely (Tigris Barlang)",
+            "ro": "Loc de Snorkeling (Peștera Tigrului)",
+            "en": "Snorkeling Spot (Tiger Cave)"
+          },
+          "coords": [
+            99.287723,
+            7.365137
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die klaren Gewässer vor dieser felsigen Struktur ein, um Korallen zu sehen, aber achten Sie stets auf gelegentlich starke Strömungen.",
+            "hu": "Merüljön el a kristálytiszta tengerben e sziklás képződmény előtt egyedi korallokért, de mindig ügyeljen az időnként felbukkanó erős áramlatokra.",
+            "ro": "Scufundați-vă în apele limpezi din afara acestei structuri stâncoase pentru a vedea corali unici, dar fiți mereu atenți la curenții puternici ocazionali.",
+            "en": "Dive into the clear marine waters outside this intriguing rocky cavern structure to spot unique corals, but always watch out for occasional strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Smaragdhalle (Emerald Cave)",
+            "hu": "Smaragd Barlang",
+            "ro": "Peștera de Smarald",
+            "en": "Emerald Cave"
+          },
+          "coords": [
+            99.283771,
+            7.36922
+          ],
+          "category": "natural",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schwimmen Sie durch den spannenden dunklen Kalksteintunnel, um eine atemberaubende Lagune zu entdecken, aber kommen Sie früh, um die Massen zu meiden.",
+            "hu": "Ússzon át az izgalmas, sötét mészkőalagúton, hogy felfedezzen egy lélegzetelállító rejtett lagúnát, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Înotați prin tunelul de calcar întunecat și palpitant pentru a descoperi o lagună ascunsă spectaculoasă, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Swim through the thrilling dark limestone tunnel to discover a breathtaking hidden lagoon inside, but arrive early to avoid massive tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Morakot Strand",
+            "hu": "Morakot Strand",
+            "ro": "Plaja Morakot",
+            "en": "Morakot Beach"
+          },
+          "coords": [
+            99.284824,
+            7.368621
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den abgelegenen Sandstreifen direkt vor der Höhle, der großartige Fotomotive bietet, wenn die Sonne das kristallklare Wasser beleuchtet.",
+            "hu": "Csodálja meg a híres barlang bejárata előtt elterülő elszigetelt homokpadot, amely csodálatos fotózási lehetőségeket kínál napfényes időben.",
+            "ro": "Admirați porțiunea de nisip izolată chiar în fața peșterii faimoase, oferind oportunități foto magnifice atunci când soarele lovește apa clară.",
+            "en": "Marvel at the secluded sandy patch nested outside the famous cave entrance, offering magnificent photo opportunities when the sun hits the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabai Strand",
+            "hu": "Sabai Strand",
+            "ro": "Plaja Sabai",
+            "en": "Sabai Beach"
+          },
+          "coords": [
+            99.287793,
+            7.37661
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern oder segeln Sie zu dieser wunderschön isolierten Sandbucht an steilen Klippen, und bringen Sie viel Trinkwasser mit, da es keine Anlagen gibt.",
+            "hu": "Túrázzon vagy vitorlázzon el ehhez a meredek mészkősziklákkal védett, gyönyörűen elszigetelt öbölhöz, és vigyen magával bőséges mennyiségű ivóvizet.",
+            "ro": "Navigați către acest golf de nisip izolat și protejat de stânci abrupte, luând cu dumneavoastră multă apă potabilă, deoarece nu există facilități.",
+            "en": "Hike or sail to this beautifully isolated sandy cove sheltered by steep limestone cliffs, bringing plenty of drinking water since there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Schnorchelplatz",
+            "hu": "Sznorkel Hely",
+            "ro": "Loc de Snorkeling",
+            "en": "Snorkeling Spot"
+          },
+          "coords": [
+            99.285922,
+            7.374109
+          ],
+          "category": "landmark",
+          "arrive_at": "15:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das erfrischende Smaragdmeer inmitten gesunder Riffe ein, und tragen Sie unbedingt riffschonende Sonnencreme auf, bevor Sie reinspringen.",
+            "hu": "Csobbanjon be a frissítő smaragdzöld tengerbe, amely tele van egészséges zátonyokkal, és ne felejtsen el zátonybarát naptejet használni fürdés előtt.",
+            "ro": "Scufundați-vă în marea de smarald răcoroasă, înconjurată de recife sănătoase, asigurându-vă că aplicați protecție solară sigură pentru corali.",
+            "en": "Plunge into the refreshing emerald sea surrounded by diverse marine ecosystems, making sure to apply reef-safe sunscreen well before you jump right in."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Höhle",
+            "hu": "Nagy Barlang",
+            "ro": "Peștera Mare",
+            "en": "Big Cave"
+          },
+          "coords": [
+            99.280986,
+            7.386977
+          ],
+          "category": "landmark",
+          "arrive_at": "16:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in diese riesige natürliche Höhle mit faszinierenden Stalaktiten an der Nordküste, aber denken Sie daran, eine Stirnlampe mitzunehmen.",
+            "hu": "Merészkedjen be ebbe a hatalmas természetes barlangba, amely lenyűgöző cseppkövekkel büszkélkedhet az északi parton, de feltétlenül vigyen fejlámpát.",
+            "ro": "Aventurați-vă în această peșteră naturală enormă cu stalactite fascinante de-a lungul coastei nordice, dar asigurați-vă că purtați o lanternă frontală.",
+            "en": "Venture inside this enormous natural cavern featuring fascinating stalactite formations along the northern coast, but be sure to carry a reliable headlamp."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an den ruhigen Ostküsten und pudrigen weißen Sandbänken.\n\nWenn es wärmer wird, besuchen Sie die südlichen Buchten für einen friedlichen Rückzugsort.\n\nAm Nachmittag entdecken Sie die herrliche Westküste für erstklassiges Schnorcheln im Meer.\n\nLassen Sie den Tag bei einem spektakulären feurigen Sonnenuntergang nahe den Lagunen ausklingen.",
+        "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
+        "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
+        "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      }
+    }
+  }
+}

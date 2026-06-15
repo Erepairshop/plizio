@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-ceriale-cities-v2",
+  "anchor": {
+    "name": "Ceriale",
+    "coords": [
+      8.23302,
+      44.09632
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 0.71,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+          },
+          "coords": [
+            8.232376,
+            44.096267
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eindrucksvollen Fresken und religiösen Artefakte in dieser zentralen Kirche, wobei Sie auf angemessene Kleidung achten sollten.",
+            "hu": "Csodálja meg a központi templom lenyűgöző freskóit és vallási emlékeit, és ügyeljen a helyi szokásoknak megfelelő, szerény öltözködésre.",
+            "ro": "Admirați frescele impresionante și artefactele religioase din această biserică centrală, amintindu-vă să purtați haine modeste din respect.",
+            "en": "Admire the striking frescoes and religious artifacts inside this central church, and remember to dress modestly to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Vittoria",
+            "hu": "Bagni Vittoria",
+            "ro": "Bagni Vittoria",
+            "en": "Bagni Vittoria"
+          },
+          "coords": [
+            8.234174,
+            44.096475
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie am gepflegten Sandstrand dieses klassischen italienischen Lidos, wo ein frühes Ankommen die beste Sonnenliege am Wasser sichert.",
+            "hu": "Pihenjen e klasszikus olasz lido gondozott homokos partján, ahol a korai érkezés garantálja a legjobb napozóágyat közvetlenül a víz mellett.",
+            "ro": "Relaxați-vă pe plaja de nisip bine întreținută a acestui lido clasic italian, unde sosirea timpurie vă asigură cel mai bun șezlong la apă.",
+            "en": "Relax on the well-maintained sandy shores of this classic Italian lido, where arriving early guarantees the best sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido azzurro",
+            "hu": "Bagni Lido azzurro",
+            "ro": "Bagni Lido azzurro",
+            "en": "Bagni Lido azzurro"
+          },
+          "coords": [
+            8.233615,
+            44.095571
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Genießen Sie die mediterrane Sonne in diesem lebhaften Strandclub mit exzellenten Annehmlichkeiten und probieren Sie unbedingt die lokalen Getränke.",
+            "hu": "Élvezze a mediterrán napsütést ebben a nyüzsgő strandklubban, amely kiváló szolgáltatásokat kínál, ezért érdemes megkóstolni a helyi frissítőket is.",
+            "ro": "Bucurați-vă de soarele mediteranean la acest club de plajă vibrant, cu facilități excelente, și asigurați-vă că gustați băuturile locale răcoritoare.",
+            "en": "Soak up the Mediterranean sun at this vibrant beach club, which offers excellent amenities, so be sure to try their refreshing local drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Carlotta",
+            "hu": "Bagni Carlotta",
+            "ro": "Bagni Carlotta",
+            "en": "Bagni Carlotta"
+          },
+          "coords": [
+            8.23284,
+            44.094491
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie eine ruhige, familienfreundliche Küstenatmosphäre und bringen Sie Ihre Schnorchelausrüstung mit, um das klare flache Wasser zu erkunden.",
+            "hu": "Élvezze a családok számára tökéletes, nyugodt tengerparti hangulatot, és hozzon magával saját búvárfelszerelést a tiszta, sekély víz felfedezéséhez.",
+            "ro": "Bucurați-vă de o atmosferă de coastă liniștită perfectă pentru familii, aducându-vă propriul echipament de snorkeling pentru apele limpezi.",
+            "en": "Enjoy a tranquil coastal atmosphere perfect for families, and consider bringing your own snorkeling gear to explore the clear shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Hansel e Gretel",
+            "hu": "Hansel e Gretel",
+            "ro": "Hansel e Gretel",
+            "en": "Hansel e Gretel"
+          },
+          "coords": [
+            8.230648,
+            44.093876
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden historischen Charme dieses einzigartigen Wahrzeichens, indem Sie sich Zeit nehmen, seine architektonischen Details zu fotografieren.",
+            "hu": "Fedezze fel ezen egyedülálló helyi nevezetesség lenyűgöző történelmi varázsát, és szánjon egy kis időt bonyolult építészeti részleteinek lefotózására.",
+            "ro": "Descoperiți farmecul istoric fascinant al acestui reper local unic, făcându-vă timp pentru a fotografia detaliile sale arhitecturale complexe.",
+            "en": "Discover the fascinating historical charm of this unique local landmark by taking a moment to photograph its intricate architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Cavallino Bianco",
+            "hu": "Bagni Cavallino Bianco",
+            "ro": "Bagni Cavallino Bianco",
+            "en": "Bagni Cavallino Bianco"
+          },
+          "coords": [
+            8.232305,
+            44.093531
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandtag in dieser einladenden Anlage mit goldenem Sand, wo Sie bequem ein Tretboot für eine lustige Fahrt mieten können.",
+            "hu": "Zárja a strandnapot ebben az aranyhomokos partjáról ismert barátságos létesítményben, ahol könnyedén bérelhet vízibiciklit egy vidám tengeri túrához.",
+            "ro": "Încheiați ziua de plajă la acest stabiliment primitor, cunoscut pentru nisipul auriu, de unde puteți închiria ușor o hidrobicicletă pentru o plimbare.",
+            "en": "End your beach day at this welcoming establishment known for its golden sand, where you can easily rent a pedal boat for a fun offshore ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Ceriale beginnt mit wunderbarer Kirchenarchitektur und einer Pause bei Bagni Vittoria. Der Mittag führt Sie gemütlich entlang der Küste zu den malerischen Bagni Lido azzurro und Bagni Carlotta. Am Nachmittag erkunden Sie die historische Bedeutung von Hansel e Gretel. Der Tag endet mit einem entspannten Abend bei Bagni Cavallino Bianco.",
+        "hu": "A Ceriale-i reggel a lenyűgöző templomi építészettel és a Bagni Vittoria hűsítő pihenőjével indul. A dél a tengerpart mentén kényelmesen elvezeti a festői Bagni Lido azzurro és a Bagni Carlotta felé. Délután felfedezheti a Hansel e Gretel történelmi jelentőségét a városban. A napot a Bagni Cavallino Bianco esti, pihentető kikapcsolódása zárja.",
+        "ro": "Dimineața în Ceriale începe cu arhitectura superbă a bisericii și o pauză revigorantă la Bagni Vittoria. Amiaza vă duce confortabil de-a lungul coastei către pitorescul Bagni Lido azzurro și Bagni Carlotta. După-amiaza veți explora importanța istorică a lui Hansel e Gretel. Ziua se încheie cu o relaxare de seară liniștită la Bagni Cavallino Bianco.",
+        "en": "Your morning in Ceriale starts with the lovely church architecture and a refreshing pause at Bagni Vittoria. The midday leads you comfortably along the coast to the scenic Bagni Lido azzurro and Bagni Carlotta. In the afternoon, you will explore the historical significance of Hansel e Gretel in town. The day concludes with a relaxing evening rest at Bagni Cavallino Bianco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+          },
+          "coords": [
+            8.232376,
+            44.096267
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eindrucksvollen Fresken und religiösen Artefakte in dieser zentralen Kirche, wobei Sie auf angemessene Kleidung achten sollten.",
+            "hu": "Csodálja meg a központi templom lenyűgöző freskóit és vallási emlékeit, és ügyeljen a helyi szokásoknak megfelelő, szerény öltözködésre.",
+            "ro": "Admirați frescele impresionante și artefactele religioase din această biserică centrală, amintindu-vă să purtați haine modeste din respect.",
+            "en": "Admire the striking frescoes and religious artifacts inside this central church, and remember to dress modestly to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Rosa",
+            "hu": "Bagni Rosa",
+            "ro": "Bagni Rosa",
+            "en": "Bagni Rosa"
+          },
+          "coords": [
+            8.235074,
+            44.097821
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem malerischen Strand, der herrlichen Meerblick mit weichem Sand verbindet, ideal für ein friedliches morgendliches Bad.",
+            "hu": "Tartson szünetet ezen a festői partszakaszon, amely a tengeri kilátást puha homokkal ötvözi, és tökéletes egy nyugodt reggeli úszáshoz a tömeg előtt.",
+            "ro": "Luați o pauză pe această plajă pitorească ce combină vederea la mare cu nisipul fin, ideală pentru o baie liniștită dimineața înainte de aglomerație.",
+            "en": "Take a break at this picturesque beach area that combines stunning sea views with soft sand, ideal for a peaceful morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Hansel e Gretel",
+            "hu": "Hansel e Gretel",
+            "ro": "Hansel e Gretel",
+            "en": "Hansel e Gretel"
+          },
+          "coords": [
+            8.230648,
+            44.093876
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden historischen Charme dieses einzigartigen Wahrzeichens, indem Sie sich Zeit nehmen, seine architektonischen Details zu fotografieren.",
+            "hu": "Fedezze fel ezen egyedülálló helyi nevezetesség lenyűgöző történelmi varázsát, és szánjon egy kis időt bonyolult építészeti részleteinek lefotózására.",
+            "ro": "Descoperiți farmecul istoric fascinant al acestui reper local unic, făcându-vă timp pentru a fotografia detaliile sale arhitecturale complexe.",
+            "en": "Discover the fascinating historical charm of this unique local landmark by taking a moment to photograph its intricate architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Piccolo Teatro Caraibi",
+            "hu": "Piccolo Teatro Caraibi",
+            "ro": "Piccolo Teatro Caraibi",
+            "en": "Piccolo Teatro Caraibi"
+          },
+          "coords": [
+            8.216725,
+            44.088592
+          ],
+          "category": "cultural",
+          "arrive_at": "12:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kulturszene in diesem charmanten kleinen Theater ein und prüfen Sie vorab den Spielplan für eine authentische Aufführung.",
+            "hu": "Merüljön el a helyi kulturális életben ebben a bájos kis színházban, és előre ellenőrizze a műsort, hogy elcsíphessen egy autentikus előadást.",
+            "ro": "Scufundați-vă în scena culturală locală la acest mic teatru fermecător și verificați din timp programul pentru a prinde o reprezentație autentică.",
+            "en": "Immerse yourself in the local cultural scene at this charming small theater, and check their schedule in advance to catch an authentic performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Acquatico Le Caravelle",
+            "hu": "Parco Acquatico Le Caravelle",
+            "ro": "Parco Acquatico Le Caravelle",
+            "en": "Parco Acquatico Le Caravelle"
+          },
+          "coords": [
+            8.216856,
+            44.089544
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen und Wellenbäder in diesem weitläufigen Park, wo Sie mit Online-Tickets lange Warteschlangen am Eingang vermeiden.",
+            "hu": "Próbálja ki az izgalmas vízi csúszdákat és hullámmedencéket ebben a hatalmas parkban, ahol az online jegyvásárlással elkerülheti a hosszú sorban állást.",
+            "ro": "Experimentați toboganele acvatice și piscinele cu valuri în acest parc uriaș, unde achiziționarea biletelor online vă scapă de cozile lungi la intrare.",
+            "en": "Experience thrilling water slides and wave pools at this expansive park, where buying tickets online saves you from waiting in long entrance lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Martini",
+            "hu": "Bagni Martini",
+            "ro": "Bagni Martini",
+            "en": "Bagni Martini"
+          },
+          "coords": [
+            8.231387,
+            44.091763
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den angenehmen Sonnenliegen dieses lebhaften Küstenortes, der für seinen freundlichen Service und leckere Nachmittagssnacks bekannt ist.",
+            "hu": "Kapcsolódjon ki e pezsgő tengerparti hely kényelmes napágyain, amelyet barátságos kiszolgálása és ízletes délutáni harapnivalói miatt is nagyon ajánlanak.",
+            "ro": "Relaxați-vă pe șezlongurile confortabile ale acestui loc plin de viață, foarte recomandat pentru serviciile prietenoase și gustările delicioase de după-amiază.",
+            "en": "Unwind on the pleasant sun loungers of this lively seaside spot, which is highly recommended for its friendly service and delicious afternoon snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine sanfte morgendliche Fahrt bringt Sie von der Hauptkirche zum Sand der Bagni Rosa. Mittags radeln Sie durch lebhafte Straßen zum historischen Hansel e Gretel, bevor Sie das Piccolo Teatro Caraibi besuchen. Ihr Nachmittag ist voller Spannung im Wasserpark Le Caravelle. Der Abend naht, während Sie in den Bagni Martini am Meer wunderbar entspannen.",
+        "hu": "Egy kellemes reggeli bringázás elviszi a főtemplomtól a Bagni Rosa homokos partjára. Délben átszelheti a nyüzsgő utcákat, hogy megtekintse a történelmi Hansel e Gretel-t, majd ellátogat a Piccolo Teatro Caraibi-ba. A délutánt a Le Caravelle vízi park izgalmai töltik ki. Az este közeledtével a Bagni Martini partján pihenhet a gyönyörű tenger mellett.",
+        "ro": "O plimbare matinală blândă vă duce de la biserica principală la nisipurile de la Bagni Rosa. La prânz, pedalați spre istoricul Hansel e Gretel și vizitați Piccolo Teatro Caraibi. După-amiaza este plină de entuziasm la parcul acvatic Le Caravelle. Seara se apropie în timp ce vă relaxați la Bagni Martini, chiar lângă marea fermecătoare.",
+        "en": "A gentle morning ride brings you from the main church to the charming sands of Bagni Rosa. By midday, cycle through the vibrant streets to see the historic Hansel e Gretel before visiting the cultural stage of Piccolo Teatro Caraibi. Your afternoon is filled with excitement at the Le Caravelle water park. Evening approaches as you relax at Bagni Martini near the beautiful sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.64,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo paleontologico Silvio Lai",
+            "hu": "Museo paleontologico Silvio Lai",
+            "ro": "Museo paleontologico Silvio Lai",
+            "en": "Museo paleontologico Silvio Lai"
+          },
+          "coords": [
+            8.204636,
+            44.097212
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie alte Fossilien und prähistorische Exponate in diesem Museum, wo das Lesen der detaillierten Infotafeln das lehrreiche Erlebnis sehr bereichert.",
+            "hu": "Fedezzen fel ősi kövületeket és őskori kiállításokat ebben a múzeumban, ahol a részletes információs táblák olvasása nagyban fokozza az élményt.",
+            "ro": "Explorați fosile antice și exponate preistorice la acest muzeu interesant, unde citirea panourilor informative detaliate îmbogățește experiența educativă.",
+            "en": "Explore ancient fossils and prehistoric exhibits at this engaging museum, where reading the detailed info panels greatly enhances the educational experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Regionale di Rio Torsero",
+            "hu": "Riserva Regionale di Rio Torsero",
+            "ro": "Riserva Regionale di Rio Torsero",
+            "en": "Riserva Regionale di Rio Torsero"
+          },
+          "coords": [
+            8.210273,
+            44.092866
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die üppige Vegetation dieses Naturreservats voller geologischer Wunder und tragen Sie feste Wanderschuhe für das unwegsame Gelände.",
+            "hu": "Túrázzon e geológiai csodákban gazdag természetvédelmi terület buja növényzetében, és viseljen masszív túracipőt a zord terepen való biztonságos mozgáshoz.",
+            "ro": "Faceți drumeții prin vegetația luxuriantă a acestei rezervații pline de minuni geologice și purtați încălțăminte solidă pentru terenul accidentat.",
+            "en": "Hike through the lush vegetation of this natural reserve rich in geological wonders, and wear sturdy walking shoes to navigate the rugged terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Acquatico Le Caravelle",
+            "hu": "Parco Acquatico Le Caravelle",
+            "ro": "Parco Acquatico Le Caravelle",
+            "en": "Parco Acquatico Le Caravelle"
+          },
+          "coords": [
+            8.216856,
+            44.089544
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen und Wellenbäder in diesem weitläufigen Park, wo Sie mit Online-Tickets lange Warteschlangen am Eingang vermeiden.",
+            "hu": "Próbálja ki az izgalmas vízi csúszdákat és hullámmedencéket ebben a hatalmas parkban, ahol az online jegyvásárlással elkerülheti a hosszú sorban állást.",
+            "ro": "Experimentați toboganele acvatice și piscinele cu valuri în acest parc uriaș, unde achiziționarea biletelor online vă scapă de cozile lungi la intrare.",
+            "en": "Experience thrilling water slides and wave pools at this expansive park, where buying tickets online saves you from waiting in long entrance lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+            "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+          },
+          "coords": [
+            8.232376,
+            44.096267
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eindrucksvollen Fresken und religiösen Artefakte in dieser zentralen Kirche, wobei Sie auf angemessene Kleidung achten sollten.",
+            "hu": "Csodálja meg a központi templom lenyűgöző freskóit és vallási emlékeit, és ügyeljen a helyi szokásoknak megfelelő, szerény öltözködésre.",
+            "ro": "Admirați frescele impresionante și artefactele religioase din această biserică centrală, amintindu-vă să purtați haine modeste din respect.",
+            "en": "Admire the striking frescoes and religious artifacts inside this central church, and remember to dress modestly to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Hansel e Gretel",
+            "hu": "Hansel e Gretel",
+            "ro": "Hansel e Gretel",
+            "en": "Hansel e Gretel"
+          },
+          "coords": [
+            8.230648,
+            44.093876
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden historischen Charme dieses einzigartigen Wahrzeichens, indem Sie sich Zeit nehmen, seine architektonischen Details zu fotografieren.",
+            "hu": "Fedezze fel ezen egyedülálló helyi nevezetesség lenyűgöző történelmi varázsát, és szánjon egy kis időt bonyolult építészeti részleteinek lefotózására.",
+            "ro": "Descoperiți farmecul istoric fascinant al acestui reper local unic, făcându-vă timp pentru a fotografia detaliile sale arhitecturale complexe.",
+            "en": "Discover the fascinating historical charm of this unique local landmark by taking a moment to photograph its intricate architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Marino",
+            "hu": "Bagni Marino",
+            "ro": "Bagni Marino",
+            "en": "Bagni Marino"
+          },
+          "coords": [
+            8.240524,
+            44.106451
+          ],
+          "category": "recreational",
+          "arrive_at": "15:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die letzten Sonnenstrahlen an diesem nördlichsten Strandabschnitt, ein ausgezeichneter Ort für einen friedlichen Spaziergang am Wasser bei Sonnenuntergang.",
+            "hu": "Élvezze a napfény utolsó pillanatait ezen az északi partszakaszon, amely kiváló helyszín egy békés, naplemente körüli tengerparti sétához.",
+            "ro": "Savurați ultimele momente de soare la această plajă nordică, un loc excelent pentru o plimbare liniștită de-a lungul apei la apusul soarelui.",
+            "en": "Savor the final moments of sunlight at this northernmost beach area, an excellent spot for a peaceful stroll along the water's edge at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit antiken Fossilien im Paläontologischen Museum. Mittags tauchen Sie in die Naturschönheit des Rio Torsero ein und erleben den Wasserpark Le Caravelle. Der Nachmittag führt zurück ins Zentrum zur Hauptkirche und dem historischen Hansel e Gretel. Parken Sie abschließend in der Nähe der Bagni Marino für den Sonnenuntergang.",
+        "hu": "Kezdje autós túráját a paleontológiai múzeum ősi kövületeivel. Délben merüljön el a Rio Torsero természeti szépségében, és élvezze a Le Caravelle víziparkot. A délután visszavezet a városközpontba a főtemplomhoz és a történelmi Hansel e Gretelhez. Végül parkoljon le a Bagni Marino közelében, hogy megnézzen egy lenyűgöző tengerparti naplementét.",
+        "ro": "Începeți turul cu mașina explorând fosile antice la Muzeul Paleontologic. La prânz, pătrundeți în frumusețea naturală de la Rio Torsero și experimentați fiorii parcului Le Caravelle. După-amiaza vă întoarceți în centru pentru biserica principală și istoricul Hansel e Gretel. În cele din urmă, parcați lângă Bagni Marino pentru un apus spectaculos.",
+        "en": "Start your driving tour by exploring ancient fossils at the Paleontological Museum. By midday, delve into the natural beauty of Rio Torsero and experience the thrills of Le Caravelle water park. The afternoon transitions back to the city center, admiring the main church and the historic Hansel e Gretel. Finally, park near Bagni Marino to watch a spectacular coastal sunset."
+      }
+    }
+  }
+}

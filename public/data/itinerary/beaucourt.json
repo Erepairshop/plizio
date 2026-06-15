@@ -1,0 +1,497 @@
+{
+  "city_id": "beaucourt",
+  "anchor": {
+    "name": "Beaucourt",
+    "coords": [
+      6.9253,
+      47.4861
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 4.87,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Japy-Museum",
+            "hu": "Japy-Museum",
+            "ro": "Japy-Museum",
+            "en": "Japy-Museum"
+          },
+          "coords": [
+            6.922627,
+            47.485018
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
+            "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Cèdres",
+            "hu": "Parc des Cèdres",
+            "ro": "Parc des Cèdres",
+            "en": "Parc des Cèdres"
+          },
+          "coords": [
+            6.9172,
+            47.486374
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Bäumen in diesem schönen öffentlichen Park und bringen Sie eine kleine Picknickdecke für eine erholsame Pause mit.",
+            "hu": "Pihenjen meg a hatalmas, ősi fák árnyékában ebben a gyönyörű parkban, és hozzon magával egy pikniktakarót a séta közbeni kellemes kikapcsolódáshoz.",
+            "ro": "Relaxați-vă sub copacii antici din acest parc public superb și aduceți o pătură de picnic pentru a vă bucura de o pauză senină în timpul plimbării.",
+            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-François-de-Sales",
+            "hu": "Kirche Saint-François-de-Sales",
+            "ro": "Kirche Saint-François-de-Sales",
+            "en": "Kirche Saint-François-de-Sales"
+          },
+          "coords": [
+            6.928191,
+            47.488777
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
+            "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            6.918195,
+            47.473513
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
+            "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
+            "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            6.895668,
+            47.477842
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
+            "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
+            "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der reichen Industriegeschichte im Japy-Museum. Die Mittagszeit lädt zu einem friedlichen Spaziergang und zur Entspannung im Parc des Cèdres ein. Am Nachmittag können Sie die markante Architektur der Kirche Saint-François-de-Sales und der Église Saint-Léger bewundern. Beenden Sie den Abend am ruhigen Temple und lassen Sie den Tag Revue passieren.",
+        "hu": "Kezdje a reggelt a Japy-Museum gazdag ipari történelmének felfedezésével. A délidő egy békés sétára és pihenésre hív a gyönyörű Parc des Cèdres parkban. Délután csodálja meg a Kirche Saint-François-de-Sales és az Église Saint-Léger lenyűgöző építészetét. Zárja az estét a nyugodt Temple épületénél, visszatekintve egy jól eltöltött napra.",
+        "ro": "Începeți dimineața cufundat în bogata istorie industrială la Japy-Museum. Miezul zilei vă invită la o plimbare liniștită și relaxare în frumosul Parc des Cèdres. După-amiaza, admirați arhitectura remarcabilă a Kirche Saint-François-de-Sales și Église Saint-Léger. Încheiați seara la liniștitul Temple, reflectând asupra unei zile minunate.",
+        "en": "Start your morning immersed in the rich industrial history at the Japy-Museum. Midday invites a peaceful stroll and relaxation in the beautiful Parc des Cèdres. In the afternoon, marvel at the striking architecture of Kirche Saint-François-de-Sales and Église Saint-Léger. Conclude your evening at the tranquil Temple, reflecting on a day well spent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.47,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Evangelische Tempel",
+            "hu": "Der Evangelische Tempel",
+            "ro": "Der Evangelische Tempel",
+            "en": "Der Evangelische Tempel"
+          },
+          "coords": [
+            6.838843,
+            47.483046
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das schlichte Design dieses protestantischen Tempels, wo Sie feine Holzarbeiten bewundern und mehr über die lokale Geschichte erfahren.",
+            "hu": "Tekintse meg ennek a protestáns templomnak a szerény kialakítását, ahol megcsodálhatja a famunkákat és megismerheti a helyi történelmet.",
+            "ro": "Admirați designul modest al acestui templu protestant, unde puteți aprecia lemnăria fină și puteți învăța despre istoria religioasă locală.",
+            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            6.895668,
+            47.477842
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
+            "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
+            "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            6.918195,
+            47.473513
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
+            "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
+            "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Cèdres",
+            "hu": "Parc des Cèdres",
+            "ro": "Parc des Cèdres",
+            "en": "Parc des Cèdres"
+          },
+          "coords": [
+            6.9172,
+            47.486374
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Bäumen in diesem schönen öffentlichen Park und bringen Sie eine kleine Picknickdecke für eine erholsame Pause mit.",
+            "hu": "Pihenjen meg a hatalmas, ősi fák árnyékában ebben a gyönyörű parkban, és hozzon magával egy pikniktakarót a séta közbeni kellemes kikapcsolódáshoz.",
+            "ro": "Relaxați-vă sub copacii antici din acest parc public superb și aduceți o pătură de picnic pentru a vă bucura de o pauză senină în timpul plimbării.",
+            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Japy-Museum",
+            "hu": "Japy-Museum",
+            "ro": "Japy-Museum",
+            "en": "Japy-Museum"
+          },
+          "coords": [
+            6.922627,
+            47.485018
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
+            "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-François-de-Sales",
+            "hu": "Kirche Saint-François-de-Sales",
+            "ro": "Kirche Saint-François-de-Sales",
+            "en": "Kirche Saint-François-de-Sales"
+          },
+          "coords": [
+            6.928191,
+            47.488777
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
+            "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Evangelischen Tempel und genießen Sie die frische Morgenluft. Fahren Sie gemütlich zum Temple und zur Église Saint-Léger, um die ruhige Atmosphäre zu erleben. Ihr Nachmittag bietet einen Stopp im Parc des Cèdres, bevor Sie im Japy-Museum in die Geschichte eintauchen. Beenden Sie den Tag an der Kirche Saint-François-de-Sales.",
+        "hu": "Kezdje kerékpáros túráját a Der Evangelische Tempel épületénél, élvezve a friss reggeli levegőt. Tekerjen kényelmesen a Temple és az Église Saint-Léger felé a békés hangulatban. A délután egy frissítő megállót tartogat a Parc des Cèdres-ben, majd a Japy-Museum történelme következik. Zárja a napot a Kirche Saint-François-de-Sales megcsodálásával.",
+        "ro": "Începeți turul cu bicicleta la Der Evangelische Tempel, bucurându-vă de aerul proaspăt al dimineții. Mergeți ușor spre Temple și Église Saint-Léger, savurând atmosfera senină. După-amiaza include o oprire revigorantă la Parc des Cèdres înainte de a explora istoria la Japy-Museum. Terminați ziua admirând Kirche Saint-François-de-Sales la amurg.",
+        "en": "Kick off your cycling tour at Der Evangelische Tempel, enjoying the crisp morning air. Ride smoothly towards the Temple and Église Saint-Léger, taking in the serene local atmosphere. Your afternoon includes a refreshing stop at Parc des Cèdres before delving into local history at the Japy-Museum. Finish the day admiring Kirche Saint-François-de-Sales at twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 13.62,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Evangelische Tempel",
+            "hu": "Der Evangelische Tempel",
+            "ro": "Der Evangelische Tempel",
+            "en": "Der Evangelische Tempel"
+          },
+          "coords": [
+            6.838843,
+            47.483046
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das schlichte Design dieses protestantischen Tempels, wo Sie feine Holzarbeiten bewundern und mehr über die lokale Geschichte erfahren.",
+            "hu": "Tekintse meg ennek a protestáns templomnak a szerény kialakítását, ahol megcsodálhatja a famunkákat és megismerheti a helyi történelmet.",
+            "ro": "Admirați designul modest al acestui templu protestant, unde puteți aprecia lemnăria fină și puteți învăța despre istoria religioasă locală.",
+            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            6.895668,
+            47.477842
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
+            "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
+            "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            6.918195,
+            47.473513
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
+            "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
+            "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Japy-Museum",
+            "hu": "Japy-Museum",
+            "ro": "Japy-Museum",
+            "en": "Japy-Museum"
+          },
+          "coords": [
+            6.922627,
+            47.485018
+          ],
+          "category": "museum",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
+            "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-François-de-Sales",
+            "hu": "Kirche Saint-François-de-Sales",
+            "ro": "Kirche Saint-François-de-Sales",
+            "en": "Kirche Saint-François-de-Sales"
+          },
+          "coords": [
+            6.928191,
+            47.488777
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
+            "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple Luthérien",
+            "hu": "Temple Luthérien",
+            "ro": "Temple Luthérien",
+            "en": "Temple Luthérien"
+          },
+          "coords": [
+            6.939121,
+            47.502219
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie den besonderen Baustil dieses lutherischen Tempels im Norden der Stadt und bringen Sie ein Weitwinkelobjektiv für großartige Aufnahmen mit.",
+            "hu": "Értékelje a város északi részén található evangélikus templom egyedi építészeti stílusát, és hozzon nagylátószögű objektívet a különleges szerkezet megörökítéséhez.",
+            "ro": "Apreciați stilul arhitectural distinct al acestui templu luteran din nordul orașului, aducând un obiectiv cu unghi larg pentru a-i surprinde structura.",
+            "en": "Appreciate the distinct architectural style of this Lutheran temple in the northern part of town, bringing a wide-angle lens to capture its unique structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Valère",
+            "hu": "Église Saint-Valère",
+            "ro": "Église Saint-Valère",
+            "en": "Église Saint-Valère"
+          },
+          "coords": [
+            6.951473,
+            47.505299
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante lokale Kirche, um den schönen Altar zu sehen, und denken Sie an angemessene Kleidung aus Respekt vor der Kirchengemeinde.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megtekintse gyönyörű oltárát, és ne feledjen szerényen öltözködni az itt működő vallási közösség iránti tiszteletből.",
+            "ro": "Pășiți în această biserică locală fermecătoare pentru a vedea altarul său frumos și amintiți-vă să vă îmbrăcați modest, din respect pentru comunitatea religioasă.",
+            "en": "Step inside this charming local church to view its beautiful altar, and remember to dress modestly out of respect for the active religious community here."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            6.911054,
+            47.5076
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.04,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser historischen Kirche mit ihrer robusten Steinarchitektur und spazieren Sie über den umliegenden Friedhof für historische Einblicke.",
+            "hu": "Zárja utazását ennél a robusztus kőépítészetéről ismert történelmi templomnál, és sétáljon egyet a csendes környező temetőben a történelmi perspektíváért.",
+            "ro": "Încheiați călătoria la această biserică istorică cunoscută pentru arhitectura sa robustă din piatră și plimbați-vă prin cimitirul liniștit din împrejurimi.",
+            "en": "Conclude your journey at this historic church known for its robust stone architecture, and walk around the quiet surrounding graveyard for a historical perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt am Evangelischen Tempel, bevor es zum Temple und zur Église Saint-Léger geht. Verbringen Sie den Mittag damit, im Japy-Museum tief in die industrielle Vergangenheit einzutauchen. Der Nachmittag führt Sie zu den nördlichen Sehenswürdigkeiten wie dem Temple Luthérien und der Église Saint-Valère. Beenden Sie die Tour an der Église Saint-Pierre.",
+        "hu": "A reggeli autózás a Der Evangelische Tempel-nél indul, majd a Temple és az Église Saint-Léger következik. A délidőt a város ipari múltjának megismerésével töltheti a Japy-Museum-ban. A délutáni festői útvonal az északi látnivalókhoz vezet, köztük a Temple Luthérien és az Église Saint-Valère épületeihez. Zárja az átfogó túrát az Église Saint-Pierre-nél.",
+        "ro": "Călătoria de dimineață începe la Der Evangelische Tempel înainte de a vă îndrepta spre Temple și Église Saint-Léger. Petreceți prânzul explorând trecutul industrial la Japy-Museum. După-amiaza vă poartă pe un traseu pitoresc prin atracțiile din nord, inclusiv Temple Luthérien și Église Saint-Valère. Încheiați turul cuprinzător la Église Saint-Pierre.",
+        "en": "Your morning drive begins at Der Evangelische Tempel before heading to the Temple and Église Saint-Léger. Spend your midday delving deeply into the town's industrial past at the expansive Japy-Museum. The afternoon takes you on a scenic route through the northern sights, including Temple Luthérien and Église Saint-Valère. Conclude your comprehensive tour at Église Saint-Pierre."
+      }
+    }
+  }
+}

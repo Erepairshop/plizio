@@ -1,0 +1,474 @@
+{
+  "city_id": "izmit-cities-v2",
+  "anchor": {
+    "name": "İzmit",
+    "coords": [
+      29.9397,
+      40.7656
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 1.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saat Kulesi",
+            "hu": "Saat Kulesi",
+            "ro": "Saat Kulesi",
+            "en": "Saat Kulesi"
+          },
+          "coords": [
+            29.919607,
+            40.762843
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen eleganten Uhrturm, das Wahrzeichen von İzmit, und genießen Sie die beste Aussicht auf den Golf, wenn Sie die Stufen erklimmen.",
+            "hu": "Csodálja meg İzmit ikonikus óratornyát, és másszon fel a meredek lépcsőkön, hogy élvezze a lenyűgöző kilátást a csillogó öbölre.",
+            "ro": "Admirați acest turn cu ceas elegant, simbolul orașului İzmit, și urcați treptele pentru a vă bucura de o priveliște superbă asupra golfului.",
+            "en": "Admire this elegant clock tower, the true symbol of İzmit, and make sure to climb the surrounding steps for a lovely panoramic view of the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasr-ı Hümayün Av Köşkü",
+            "hu": "Kasr-ı Hümayün Av Köşkü",
+            "ro": "Kasr-ı Hümayün Av Köşkü",
+            "en": "Kasr-ı Hümayün Av Köşkü"
+          },
+          "coords": [
+            29.920608,
+            40.763093
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden osmanischen Jagdpavillon mit seinen kunstvollen Decken und planen Sie genug Zeit für die wunderschönen Gärten ein.",
+            "hu": "Fedezze fel ezt a lenyűgöző oszmán vadászkastélyt pompás mennyezeteivel, és töltsön el egy kis időt a nyugodt, gondozott történelmi kertekben.",
+            "ro": "Explorați acest fascinant pavilion de vânătoare otoman, cu tavanele sale ornamentate, și rezervați timp pentru a vă plimba prin grădinile sale.",
+            "en": "Explore this fascinating Ottoman hunting lodge with its ornate painted ceilings, and be sure to allocate time for a peaceful stroll in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Yumurtacı Cami",
+            "hu": "Yumurtacı Cami",
+            "ro": "Yumurtacı Cami",
+            "en": "Yumurtacı Cami"
+          },
+          "coords": [
+            29.921122,
+            40.764907
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Moschee, um ihre friedliche Atmosphäre zu erleben, und achten Sie auf die traditionellen architektonischen Details.",
+            "hu": "Látogasson el ebbe a történelmi mecsetbe a békés hangulatért, és figyelje meg a hagyományos építészeti részleteket a fafaragásokon.",
+            "ro": "Vizitați această moschee istorică pentru a simți atmosfera sa pașnică și acordați atenție detaliilor arhitecturale tradiționale bine conservate.",
+            "en": "Visit this historic neighborhood mosque to experience its peaceful atmosphere, taking note of the beautifully preserved traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Akçakoca Dere Cami",
+            "hu": "Akçakoca Dere Cami",
+            "ro": "Akçakoca Dere Cami",
+            "en": "Akçakoca Dere Cami"
+          },
+          "coords": [
+            29.921119,
+            40.766967
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte religiöse Juwel der Stadt, das durch seine authentische Bauweise besticht, und kleiden Sie sich respektvoll.",
+            "hu": "Fedezze fel a város e rejtett vallási gyöngyszemét, amely hiteles faépítészetével hódít, és ügyeljen a megfelelő, tiszteletteljes öltözködésre.",
+            "ro": "Descoperiți această bijuterie religioasă ascunsă, care se remarcă prin structura sa autentică, și asigurați-vă că purtați o ținută respectuoasă.",
+            "en": "Discover this hidden religious gem of the city, notable for its authentic local craftsmanship, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Tepecik Cami",
+            "hu": "Tepecik Cami",
+            "ro": "Tepecik Cami",
+            "en": "Tepecik Cami"
+          },
+          "coords": [
+            29.924917,
+            40.764342
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Diese zentral gelegene Moschee bietet einen Moment der Stille im Trubel; nutzen Sie die Gelegenheit für eine kurze, meditative Pause.",
+            "hu": "Ez a központban található mecset a nyugalom szigete a nyüzsgésben; használja ki a lehetőséget egy rövid, meditatív pihenőre a városnézés közben.",
+            "ro": "Această moschee centrală oferă un moment de liniște în agitația orașului; profitați de ocazie pentru o scurtă pauză meditativă și relaxantă.",
+            "en": "This centrally located mosque offers a quiet sanctuary amid the urban bustle; take advantage of it for a brief, meditative pause during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hüseyin Paşa Camii",
+            "hu": "Hüseyin Paşa Camii",
+            "ro": "Hüseyin Paşa Camii",
+            "en": "Hüseyin Paşa Camii"
+          },
+          "coords": [
+            29.93097,
+            40.766648
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassischen osmanischen Proportionen dieser bedeutenden Moschee und besichtigen Sie auch den ruhigen, schattigen Innenhof.",
+            "hu": "Csodálja meg e jelentős mecset klasszikus oszmán arányait, és feltétlenül szánjon időt a csendes, árnyékos belső udvar alapos felfedezésére.",
+            "ro": "Admirați proporțiile otomane clasice ale acestei moschei importante și nu uitați să vizitați și curtea interioară liniștită și umbrită.",
+            "en": "Admire the classic Ottoman proportions of this significant historic mosque, making sure to spend a few moments in its quiet, shaded courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Ihr Tag beginnt am Wahrzeichen von İzmit, dem eleganten Saat Kulesi, gefolgt von einer faszinierenden Reise in die Vergangenheit im osmanischen Jagdpavillon Kasr-ı Hümayün.\nMidday: Nach den historischen Prachtbauten spazieren Sie in Richtung Norden zur Yumurtacı Cami, um die tiefe spirituelle Atmosphäre des Viertels zu erleben.\nAfternoon: Die Route führt Sie weiter zur Akçakoca Dere Cami und zur zentralen Tepecik Cami, die beide ruhige Oasen mitten im städtischen Treiben bieten.\nEvening: Sie beenden Ihre Erkundungstour an der klassischen Hüseyin Paşa Camii, wo Sie im ruhigen Innenhof entspannen und den Tag friedlich ausklingen lassen können.",
+        "hu": "Morning: A napja İzmit szimbólumánál, az elegáns Saat Kulesinél kezdődik, amelyet a Kasr-ı Hümayün oszmán vadászkastély lenyűgöző történelmi termei követnek.\nMidday: A történelmi csodák után észak felé sétálva a Yumurtacı Camihoz érkezik, ahol bepillantást nyerhet a helyi negyed mély spirituális életébe.\nAfternoon: Az útvonal az Akçakoca Dere Camihoz és a központi Tepecik Camihoz vezet, mindkettő békés menedéket kínál a városi nyüzsgés elől.\nEvening: Gyalogos felfedezőútját a klasszikus Hüseyin Paşa Camii-nél fejezi be, ahol a békés udvaron pihenve csendesen zárhatja a napot.",
+        "ro": "Morning: Ziua începe la simbolul orașului İzmit, elegantul Saat Kulesi, urmat de o fascinantă călătorie în trecut la pavilionul otoman Kasr-ı Hümayün.\nMidday: După splendoarea istorică, vă veți îndrepta spre nord către Yumurtacı Cami, bucurându-vă de atmosfera spirituală profundă a cartierului.\nAfternoon: Traseul continuă către Akçakoca Dere Cami și centrala Tepecik Cami, ambele oferind adevărate oaze de liniște în mijlocul agitației urbane.\nEvening: Explorația se încheie la clasica Hüseyin Paşa Camii, unde vă puteți relaxa în curtea sa liniștită, încheind ziua într-o notă pașnică.",
+        "en": "Morning: Your day begins at İzmit's defining symbol, the elegant Saat Kulesi, followed by a fascinating journey into the past at the Kasr-ı Hümayün Ottoman hunting lodge.\nMidday: After immersing yourself in historic splendor, you will stroll northward to Yumurtacı Cami, experiencing the deep spiritual atmosphere of the local neighborhood.\nAfternoon: The route takes you to the authentic Akçakoca Dere Cami and the central Tepecik Cami, both providing peaceful sanctuaries amidst the urban bustle.\nEvening: You will conclude your walking tour at the classic Hüseyin Paşa Camii, allowing you to relax in its quiet courtyard and end the day peacefully."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 1.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "TCG Hızırreis",
+            "hu": "TCG Hızırreis",
+            "ro": "TCG Hızırreis",
+            "en": "TCG Hızırreis"
+          },
+          "coords": [
+            29.916619,
+            40.760138
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Alltag auf einem echten U-Boot der Marine aus der Nähe und achten Sie auf die Enge der authentisch erhaltenen Kabinen.",
+            "hu": "Tapasztalja meg testközelből a mindennapi életet egy igazi haditengerészeti tengeralattjárón, és érezze át a szűk, hitelesen megőrzött kabinokat.",
+            "ro": "Experimentați viața de zi cu zi la bordul unui submarin naval real și observați spațiile înguste din cabinele autentic conservate.",
+            "en": "Experience daily life aboard a real naval submarine up close, and prepare for the tight, authentically preserved quarters of the vessel."
+          }
+        },
+        {
+          "name": {
+            "de": "Saat Kulesi",
+            "hu": "Saat Kulesi",
+            "ro": "Saat Kulesi",
+            "en": "Saat Kulesi"
+          },
+          "coords": [
+            29.919607,
+            40.762843
+          ],
+          "category": "tower",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen eleganten Uhrturm, das Wahrzeichen von İzmit, und genießen Sie die beste Aussicht auf den Golf, wenn Sie die Stufen erklimmen.",
+            "hu": "Csodálja meg İzmit ikonikus óratornyát, és másszon fel a meredek lépcsőkön, hogy élvezze a lenyűgöző kilátást a csillogó öbölre.",
+            "ro": "Admirați acest turn cu ceas elegant, simbolul orașului İzmit, și urcați treptele pentru a vă bucura de o priveliște superbă asupra golfului.",
+            "en": "Admire this elegant clock tower, the true symbol of İzmit, and make sure to climb the surrounding steps for a lovely panoramic view of the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasr-ı Hümayün Av Köşkü",
+            "hu": "Kasr-ı Hümayün Av Köşkü",
+            "ro": "Kasr-ı Hümayün Av Köşkü",
+            "en": "Kasr-ı Hümayün Av Köşkü"
+          },
+          "coords": [
+            29.920608,
+            40.763093
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden osmanischen Jagdpavillon mit seinen kunstvollen Decken und planen Sie genug Zeit für die wunderschönen Gärten ein.",
+            "hu": "Fedezze fel ezt a lenyűgöző oszmán vadászkastélyt pompás mennyezeteivel, és töltsön el egy kis időt a nyugodt, gondozott történelmi kertekben.",
+            "ro": "Explorați acest fascinant pavilion de vânătoare otoman, cu tavanele sale ornamentate, și rezervați timp pentru a vă plimba prin grădinile sale.",
+            "en": "Explore this fascinating Ottoman hunting lodge with its ornate painted ceilings, and be sure to allocate time for a peaceful stroll in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Yumurtacı Cami",
+            "hu": "Yumurtacı Cami",
+            "ro": "Yumurtacı Cami",
+            "en": "Yumurtacı Cami"
+          },
+          "coords": [
+            29.921122,
+            40.764907
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Moschee, um ihre friedliche Atmosphäre zu erleben, und achten Sie auf die traditionellen architektonischen Details.",
+            "hu": "Látogasson el ebbe a történelmi mecsetbe a békés hangulatért, és figyelje meg a hagyományos építészeti részleteket a fafaragásokon.",
+            "ro": "Vizitați această moschee istorică pentru a simți atmosfera sa pașnică și acordați atenție detaliilor arhitecturale tradiționale bine conservate.",
+            "en": "Visit this historic neighborhood mosque to experience its peaceful atmosphere, taking note of the beautifully preserved traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Tepecik Cami",
+            "hu": "Tepecik Cami",
+            "ro": "Tepecik Cami",
+            "en": "Tepecik Cami"
+          },
+          "coords": [
+            29.924917,
+            40.764342
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Diese zentral gelegene Moschee bietet einen Moment der Stille im Trubel; nutzen Sie die Gelegenheit für eine kurze, meditative Pause.",
+            "hu": "Ez a központban található mecset a nyugalom szigete a nyüzsgésben; használja ki a lehetőséget egy rövid, meditatív pihenőre a városnézés közben.",
+            "ro": "Această moschee centrală oferă un moment de liniște în agitația orașului; profitați de ocazie pentru o scurtă pauză meditativă și relaxantă.",
+            "en": "This centrally located mosque offers a quiet sanctuary amid the urban bustle; take advantage of it for a brief, meditative pause during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hüseyin Paşa Camii",
+            "hu": "Hüseyin Paşa Camii",
+            "ro": "Hüseyin Paşa Camii",
+            "en": "Hüseyin Paşa Camii"
+          },
+          "coords": [
+            29.93097,
+            40.766648
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassischen osmanischen Proportionen dieser bedeutenden Moschee und besichtigen Sie auch den ruhigen, schattigen Innenhof.",
+            "hu": "Csodálja meg e jelentős mecset klasszikus oszmán arányait, és feltétlenül szánjon időt a csendes, árnyékos belső udvar alapos felfedezésére.",
+            "ro": "Admirați proporțiile otomane clasice ale acestei moschei importante și nu uitați să vizitați și curtea interioară liniștită și umbrită.",
+            "en": "Admire the classic Ottoman proportions of this significant historic mosque, making sure to spend a few moments in its quiet, shaded courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Sie starten am Ufer beim U-Boot-Museum TCG Hızırreis und radeln dann hinauf zum historischen Saat Kulesi, um den Panoramablick zu genießen.\nMidday: Nach einem ausführlichen Besuch im eleganten Jagdpavillon Kasr-ı Hümayün fahren Sie durch die engen Gassen zur friedlichen Yumurtacı Cami.\nAfternoon: Die Radtour führt Sie zur zentral gelegenen Tepecik Cami, die einen Moment der Ruhe bietet, bevor Sie das pulsierende Herz der Stadt weiter erkunden.\nEvening: Der Tag endet majestätisch an der Hüseyin Paşa Camii, deren klassische Architektur Sie im sanften Abendlicht bewundern können.",
+        "hu": "Morning: A vízparton, a TCG Hızırreis tengeralattjáró-múzeumnál kezd, majd felteker a történelmi Saat Kulesihez, hogy élvezze a panorámás kilátást.\nMidday: Az elegáns Kasr-ı Hümayün vadászkastély alapos megtekintése után a szűk utcákon át a békés Yumurtacı Cami felé veszi az irányt.\nAfternoon: A kerékpártúra a központi fekvésű Tepecik Camihoz vezet, amely csendes menedéket kínál, mielőtt tovább folytatná a városnézést.\nEvening: A nap fenségesen zárul a Hüseyin Paşa Camii-nél, amelynek klasszikus oszmán építészetét a lágy esti fényben csodálhatja meg.",
+        "ro": "Morning: Începeți pe malul apei la muzeul submarin TCG Hızırreis, apoi pedalați spre istoricul Saat Kulesi pentru a vă bucura de o vedere panoramică.\nMidday: După o vizită detaliată la elegantul pavilion Kasr-ı Hümayün, veți merge pe bicicletă prin străzile înguste până la pașnica Yumurtacı Cami.\nAfternoon: Plimbarea continuă spre centrala Tepecik Cami, care vă oferă un moment de liniște înainte de a explora inima vibrantă a orașului.\nEvening: Ziua se încheie maiestuos la Hüseyin Paşa Camii, a cărei arhitectură clasică otomană o puteți admira în lumina blândă a serii.",
+        "en": "Morning: You start on the waterfront at the TCG Hızırreis submarine museum, then pedal up to the historic Saat Kulesi to enjoy the panoramic views.\nMidday: Following a detailed visit to the elegant Kasr-ı Hümayün hunting lodge, you will navigate the narrow streets towards the peaceful Yumurtacı Cami.\nAfternoon: Your cycling route brings you to the centrally located Tepecik Cami, offering a quiet sanctuary before you continue exploring the city's heart.\nEvening: The day ends majestically at the Hüseyin Paşa Camii, allowing you to admire its classic Ottoman architecture in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 4.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+            "hu": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+            "ro": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+            "en": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi"
+          },
+          "coords": [
+            29.908091,
+            40.762388
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem riesigen Industriemuseum in die Geschichte der Papierherstellung ein und bestaunen Sie die gigantischen alten Maschinen.",
+            "hu": "Merüljön el a papírgyártás történetében ebben a hatalmas ipari múzeumban, és csodálja meg a gondosan restaurált, gigantikus régi gépeket.",
+            "ro": "Pătrundeți în istoria fabricării hârtiei în acest uriaș muzeu industrial și lăsați-vă impresionați de mașinăriile vechi, gigantice.",
+            "en": "Dive into the rich history of paper manufacturing at this huge industrial museum, taking time to marvel at the massive, beautifully restored machines."
+          }
+        },
+        {
+          "name": {
+            "de": "TCG Hızırreis",
+            "hu": "TCG Hızırreis",
+            "ro": "TCG Hızırreis",
+            "en": "TCG Hızırreis"
+          },
+          "coords": [
+            29.916619,
+            40.760138
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erleben Sie den Alltag auf einem echten U-Boot der Marine aus der Nähe und achten Sie auf die Enge der authentisch erhaltenen Kabinen.",
+            "hu": "Tapasztalja meg testközelből a mindennapi életet egy igazi haditengerészeti tengeralattjárón, és érezze át a szűk, hitelesen megőrzött kabinokat.",
+            "ro": "Experimentați viața de zi cu zi la bordul unui submarin naval real și observați spațiile înguste din cabinele autentic conservate.",
+            "en": "Experience daily life aboard a real naval submarine up close, and prepare for the tight, authentically preserved quarters of the vessel."
+          }
+        },
+        {
+          "name": {
+            "de": "Saat Kulesi",
+            "hu": "Saat Kulesi",
+            "ro": "Saat Kulesi",
+            "en": "Saat Kulesi"
+          },
+          "coords": [
+            29.919607,
+            40.762843
+          ],
+          "category": "tower",
+          "arrive_at": "12:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen eleganten Uhrturm, das Wahrzeichen von İzmit, und genießen Sie die beste Aussicht auf den Golf, wenn Sie die Stufen erklimmen.",
+            "hu": "Csodálja meg İzmit ikonikus óratornyát, és másszon fel a meredek lépcsőkön, hogy élvezze a lenyűgöző kilátást a csillogó öbölre.",
+            "ro": "Admirați acest turn cu ceas elegant, simbolul orașului İzmit, și urcați treptele pentru a vă bucura de o priveliște superbă asupra golfului.",
+            "en": "Admire this elegant clock tower, the true symbol of İzmit, and make sure to climb the surrounding steps for a lovely panoramic view of the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasr-ı Hümayün Av Köşkü",
+            "hu": "Kasr-ı Hümayün Av Köşkü",
+            "ro": "Kasr-ı Hümayün Av Köşkü",
+            "en": "Kasr-ı Hümayün Av Köşkü"
+          },
+          "coords": [
+            29.920608,
+            40.763093
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden osmanischen Jagdpavillon mit seinen kunstvollen Decken und planen Sie genug Zeit für die wunderschönen Gärten ein.",
+            "hu": "Fedezze fel ezt a lenyűgöző oszmán vadászkastélyt pompás mennyezeteivel, és töltsön el egy kis időt a nyugodt, gondozott történelmi kertekben.",
+            "ro": "Explorați acest fascinant pavilion de vânătoare otoman, cu tavanele sale ornamentate, și rezervați timp pentru a vă plimba prin grădinile sale.",
+            "en": "Explore this fascinating Ottoman hunting lodge with its ornate painted ceilings, and be sure to allocate time for a peaceful stroll in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Akçakoca Dere Cami",
+            "hu": "Akçakoca Dere Cami",
+            "ro": "Akçakoca Dere Cami",
+            "en": "Akçakoca Dere Cami"
+          },
+          "coords": [
+            29.921119,
+            40.766967
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte religiöse Juwel der Stadt, das durch seine authentische Bauweise besticht, und kleiden Sie sich respektvoll.",
+            "hu": "Fedezze fel a város e rejtett vallási gyöngyszemét, amely hiteles faépítészetével hódít, és ügyeljen a megfelelő, tiszteletteljes öltözködésre.",
+            "ro": "Descoperiți această bijuterie religioasă ascunsă, care se remarcă prin structura sa autentică, și asigurați-vă că purtați o ținută respectuoasă.",
+            "en": "Discover this hidden religious gem of the city, notable for its authentic local craftsmanship, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "İzmit Deprem Farkındalık ve Anma Müzesi",
+            "hu": "İzmit Deprem Farkındalık ve Anma Müzesi",
+            "ro": "İzmit Deprem Farkındalık ve Anma Müzesi",
+            "en": "İzmit Deprem Farkındalık ve Anma Müzesi"
+          },
+          "coords": [
+            29.951547,
+            40.782313
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.09,
+          "tip_5lang": {
+            "de": "Informieren Sie sich in diesem wichtigen Museum über die Erdbebengefahr der Region und erleben Sie die ergreifende Simulation der Erschütterungen.",
+            "hu": "Tájékozódjon a régió földrengésveszélyéről ebben a fontos múzeumban, és élje át az emlékeket felidéző, megrázó és edukatív szimulációt.",
+            "ro": "Informați-vă despre riscul seismic al regiunii în acest muzeu important și experimentați simularea educativă și emoționantă a cutremurelor.",
+            "en": "Learn about the region's seismic history at this important educational museum, and do not miss the profound, moving earthquake simulation experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Ihr Roadtrip beginnt im industriellen Erbe İzmit beim riesigen Papiermuseum, bevor Sie zum beeindruckenden U-Boot TCG Hızırreis fahren.\nMidday: Im Zentrum angekommen, besuchen Sie das Wahrzeichen Saat Kulesi und tauchen im nahegelegenen Jagdpavillon Kasr-ı Hümayün in die osmanische Geschichte ein.\nAfternoon: Nach einem kurzen Stopp an der authentischen Akçakoca Dere Cami fahren Sie weiter aus der Innenstadt heraus zu Ihrem letzten Ziel.\nEvening: Ein tiefgründiger Abschluss erwartet Sie im Erdbeben-Museum, das ein wichtiges Bewusstsein für die moderne Geschichte und Geologie der Region schafft.",
+        "hu": "Morning: Autós túrája İzmit ipari örökségénél, a hatalmas Papírmúzeumnál kezdődik, mielőtt a lenyűgöző TCG Hızırreis tengeralattjáróhoz hajtana.\nMidday: A központba érve meglátogatja a híres Saat Kulesit, és elmerül az oszmán történelemben a közeli Kasr-ı Hümayün vadászkastélyban.\nAfternoon: Az autentikus Akçakoca Dere Camihoz tett rövid látogatás után kigördül a belvárosból, hogy elérje a nap utolsó és legfontosabb állomását.\nEvening: A napot egy elgondolkodtató látogatással zárja a Földrengés Múzeumban, amely fontos ismereteket nyújt a régió modern történelméről és geológiájáról.",
+        "ro": "Morning: Călătoria cu mașina începe la imensul Muzeu al Hârtiei, înainte de a conduce spre impresionantul submarin naval TCG Hızırreis de pe mal.\nMidday: Ajunși în centru, vizitați simbolul orașului, Saat Kulesi, și pătrundeți în istoria otomană la pavilionul de vânătoare Kasr-ı Hümayün.\nAfternoon: După o scurtă oprire la autentica Akçakoca Dere Cami, veți conduce în afara centrului orașului către ultima dumneavoastră destinație.\nEvening: O încheiere profundă vă așteaptă la Muzeul Cutremurelor, care creează o conștientizare vitală asupra istoriei moderne și geologiei regiunii.",
+        "en": "Morning: Your road trip begins with İzmit's industrial heritage at the immense Paper Museum, before driving to the impressive TCG Hızırreis submarine.\nMidday: Arriving in the center, you will visit the iconic Saat Kulesi and dive into Ottoman history at the nearby Kasr-ı Hümayün hunting lodge.\nAfternoon: Following a brief stop at the authentic Akçakoca Dere Cami, you will drive out of the bustling city center towards your final destination.\nEvening: A profound conclusion awaits at the Earthquake Awareness Museum, providing vital context on the region's modern history and local geology."
+      }
+    }
+  }
+}

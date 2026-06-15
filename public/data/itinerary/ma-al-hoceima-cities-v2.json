@@ -1,0 +1,474 @@
+{
+  "city_id": "ma-al-hoceima-cities-v2",
+  "anchor": {
+    "name": "Al Hoceima",
+    "coords": [
+      -3.9372,
+      35.2517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mohammed V Square",
+            "hu": "V. Mohammed tér",
+            "ro": "Piața Mohammed V",
+            "en": "Mohammed V Square"
+          },
+          "coords": [
+            -3.929676,
+            35.245182
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz von Al Hoceima mit fantastischem Küstenblick, wo sich Einheimische treffen; schnappen Sie sich einen Minztee in einem nahegelegenen Café.",
+            "hu": "Fedezze fel Al Hoceima nyüzsgő központját, ahonnan remek kilátás nyílik a tengerre, és igyon meg egy mentateát egy közeli kávézóban a helyiek társaságában.",
+            "ro": "Descoperiți inima plină de viață a orașului Al Hoceima cu vederi coastale fantastice, așa că savurați un ceai de mentă la o cafenea din apropiere pentru a vă bucura de atmosferă.",
+            "en": "Experience the bustling heart of Al Hoceima where locals gather, offering fantastic coastal views, so grab a mint tea at a nearby cafe to enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Miramar Space",
+            "hu": "Miramar tér",
+            "ro": "Spațiul Miramar",
+            "en": "Miramar Space"
+          },
+          "coords": [
+            -3.928736,
+            35.242419
+          ],
+          "category": "natural",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser malerischen Küstenpromenade mit Blick auf das tiefblaue Mittelmeer, und bringen Sie Ihre Kamera für spektakuläre Morgenfotos der Klippen mit.",
+            "hu": "Sétáljon végig ezen a festői tengerparti sétányon, csodálja meg a mélykék Földközi-tengert, és mindenképpen hozzon magával fényképezőgépet a reggeli sziklafényképekhez.",
+            "ro": "Plimbați-vă pe această promenadă pitorească la malul mării pentru a admira apele albastre ale Mediteranei, și luați aparatul foto pentru cadre matinale spectaculoase.",
+            "en": "Stroll through this scenic seaside promenade to admire the deep blue Mediterranean waters, and bring your camera for spectacular morning photos against the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Rif",
+            "hu": "Place Rif",
+            "ro": "Place Rif",
+            "en": "Place Rif"
+          },
+          "coords": [
+            -3.928327,
+            35.241081
+          ],
+          "category": "landmark",
+          "arrive_at": "10:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem charmanten zentralen Platz, umgeben von andalusisch geprägter Architektur, und setzen Sie sich auf eine schattige Bank, um das Leben zu beobachten.",
+            "hu": "Pihenjen meg ezen a bájos, andalúz építészet által ihletett központi téren, és üljön le egy árnyékos padra, hogy megfigyelje a helyiek ráérős mindennapi életét.",
+            "ro": "Relaxați-vă în această piață centrală fermecătoare cu arhitectură de influență andaluză, și așezați-vă pe o bancă la umbră pentru a privi viața cotidiană a localnicilor.",
+            "en": "Relax in this charming central square surrounded by classic Andalusian-influenced architecture, and sit on a shaded bench to watch the unhurried local daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Quemado",
+            "hu": "Playa Quemado",
+            "ro": "Playa Quemado",
+            "en": "Playa Quemado"
+          },
+          "coords": [
+            -3.926074,
+            35.243945
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im ruhigen, kristallklaren Wasser des berühmtesten historischen Strandes der Stadt, aber kommen Sie vor dem Mittag, um sich einen guten Platz zu sichern.",
+            "hu": "Ússzon a város leghíresebb történelmi strandjának nyugodt, kristálytiszta vizében, de érkezzen dél előtt, hogy jó helyet biztosítson magának a meleg, aranyhomokon.",
+            "ro": "Înotați în apele calme și cristaline ale celei mai faimoase plaje istorice din oraș, dar asigurați-vă că ajungeți înainte de prânz pentru a ocupa un loc bun pe nisip.",
+            "en": "Swim in the calm, crystal-clear waters of the city's most famous historic beach, but make sure to arrive before noon to secure a good spot on the warm golden sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornice Morro Viejo",
+            "hu": "Cornice Morro Viejo",
+            "ro": "Cornice Morro Viejo",
+            "en": "Cornice Morro Viejo"
+          },
+          "coords": [
+            -3.922108,
+            35.241206
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den erhöhten Panoramaweg entlang, der weite Ausblicke auf die Bucht bietet, und tragen Sie bequeme Schuhe, da die verschlungenen Pfade uneben sein können.",
+            "hu": "Sétáljon végig a magaslati kilátópályán, amely lenyűgöző panorámát nyújt az öbölre, és viseljen kényelmes cipőt, mivel a kanyargós ösvények néhol egyenetlenek lehetnek.",
+            "ro": "Mergeți pe poteca panoramică suspendată care oferă priveliști vaste asupra golfului, și purtați încălțăminte confortabilă, deoarece cărările pot fi destul de denivelate.",
+            "en": "Walk along the elevated scenic pathway offering sweeping panoramas of the bay, and wear comfortable shoes as the winding paths can get quite uneven in some sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Moro viejo",
+            "hu": "Moro viejo",
+            "ro": "Moro viejo",
+            "en": "Moro viejo"
+          },
+          "coords": [
+            -3.920517,
+            35.241033
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen rauen natürlichen Aussichtspunkt im Meer für unvergleichliche Ausblicke, und halten Sie Ausschau nach lokalen Fischern, die ihre Angeln auswerfen.",
+            "hu": "Fedezze fel ezt a tengerbe nyúló, zord, természetes kilátópontot a páratlan naplementés panorámáért, és figyelje a sziklákról horgászó helyi halászokat is a parton.",
+            "ro": "Explorați acest punct de belvedere natural accidentat pentru panorame inegalabile la apus, și fiți cu ochii pe pescarii locali care își aruncă undițele de pe stânci.",
+            "en": "Explore this rugged natural viewpoint extending into the sea for unparalleled sunset vistas, and keep an eye out for local fishermen casting their lines off the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Mohammed-V-Platz, wo Sie direkt in die lebhafte marokkanische Küstenkultur eintauchen. Ein kurzer Spaziergang führt Sie zum Miramar Space, wo sich das weite Mittelmeer vor Ihnen ausbreitet.\n\nAm wärmeren Vormittag durchqueren Sie das charmante andalusische Zentrum der Place Rif, bevor Sie den goldenen Sand der Playa Quemado erreichen. Diese historischen Ufer bieten den perfekten Ort für eine entspannte Mittagspause.\n\nDer Nachmittag ist der Erkundung der malerischen Cornice Morro Viejo gewidmet. Dieser gewundene Klippenpfad bietet weite Ausblicke auf die Bucht und das Rif-Gebirge, das hier auf das klare blaue Meer trifft.\n\nSie beenden Ihren Tag auf der natürlichen Landzunge von Moro Viejo. Den Sonnenuntergang von diesen Felsvorsprüngen aus zu beobachten, vermittelt ein tiefes Gefühl der Ruhe und rundet Ihr Küstenabenteuer perfekt ab.",
+        "hu": "Gyalogtúrája a nyüzsgő V. Mohammed téren kezdődik, amely azonnal bevezeti a marokkanói partvidék élettel teli kultúrájába. Egy rövid séta a Miramar térre vezet, ahol a hatalmas Földközi-tenger gyönyörűen feltárul ön előtt.\n\nAhogy a délelőtt melegszik, áthalad a Place Rif andalúz stílusú központján, majd eléri a Playa Quemado aranyhomokját. Ezek a történelmi partok tökéletes helyszínt biztosítanak egy komótos déli pihenéshez és fürdőzéshez.\n\nA délutánt a festői Cornice Morro Viejo felfedezésének szentelheti. Ezen a kanyargós sziklaösvényen haladva lenyűgöző panoráma nyílik az öbölre és a kék tengerrel találkozó zord Rif-hegységre.\n\nA napot Moro Viejo természetes hegyfokán zárja. A naplemente megtekintése ezekről a sziklás kiemelkedésekről mély nyugalommal tölti el, és tökéletesen megkoronázza tengerparti kalandját.",
+        "ro": "Turul pietonal începe în vibranta Piață Mohammed V, scufundându-vă imediat în cultura de coastă marocană. O scurtă plimbare duce la Spațiul Miramar, unde imensa Mare Mediterană se deschide frumos în fața dumneavoastră.\n\nPe măsură ce dimineața se încălzește, veți traversa centrul în stil andaluz Place Rif, înainte de a ajunge la nisipul auriu al Playa Quemado. Aceste țărmuri istorice oferă un loc perfect pentru o odihnă plăcută la prânz.\n\nDupă-amiaza este dedicată explorării pitoreștii Cornice Morro Viejo. Urmând această potecă șerpuitoare pe stânci, veți avea parte de priveliști vaste asupra golfului și a Munților Rif care întâlnesc marea albastră.\n\nVă veți încheia ziua pe promontoriul natural Moro Viejo. Privind soarele coborând sub orizont de pe aceste formațiuni stâncoase, veți simți o liniște profundă, încheind perfect această aventură pe coastă.",
+        "en": "Your walking tour begins at the vibrant Mohammed V Square, plunging you immediately into the lively Moroccan coastal culture. A short stroll leads to Miramar Space, where the vast Mediterranean Sea opens up beautifully before you.\n\nAs the morning warms up, you will traverse Place Rif's charming Andalusian-style center before reaching the golden sands of Playa Quemado. Here, historic shores provide a perfect spot for a leisurely midday rest and a refreshing swim.\n\nThe afternoon is dedicated to exploring the scenic Cornice Morro Viejo. Following this winding cliffside path offers sweeping vistas of the bay and the rugged Rif Mountains meeting the clear blue sea.\n\nYou will conclude your day at the natural promontory of Moro Viejo. Watching the sun dip below the horizon from these rocky outcrops offers a profound sense of tranquility, perfectly wrapping up your coastal adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mohammed V Square",
+            "hu": "V. Mohammed tér",
+            "ro": "Piața Mohammed V",
+            "en": "Mohammed V Square"
+          },
+          "coords": [
+            -3.929676,
+            35.245182
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz von Al Hoceima mit fantastischem Küstenblick, wo sich Einheimische treffen; schnappen Sie sich einen Minztee in einem nahegelegenen Café.",
+            "hu": "Fedezze fel Al Hoceima nyüzsgő központját, ahonnan remek kilátás nyílik a tengerre, és igyon meg egy mentateát egy közeli kávézóban a helyiek társaságában.",
+            "ro": "Descoperiți inima plină de viață a orașului Al Hoceima cu vederi coastale fantastice, așa că savurați un ceai de mentă la o cafenea din apropiere pentru a vă bucura de atmosferă.",
+            "en": "Experience the bustling heart of Al Hoceima where locals gather, offering fantastic coastal views, so grab a mint tea at a nearby cafe to enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Miramar Space",
+            "hu": "Miramar tér",
+            "ro": "Spațiul Miramar",
+            "en": "Miramar Space"
+          },
+          "coords": [
+            -3.928736,
+            35.242419
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser malerischen Küstenpromenade mit Blick auf das tiefblaue Mittelmeer, und bringen Sie Ihre Kamera für spektakuläre Morgenfotos der Klippen mit.",
+            "hu": "Sétáljon végig ezen a festői tengerparti sétányon, csodálja meg a mélykék Földközi-tengert, és mindenképpen hozzon magával fényképezőgépet a reggeli sziklafényképekhez.",
+            "ro": "Plimbați-vă pe această promenadă pitorească la malul mării pentru a admira apele albastre ale Mediteranei, și luați aparatul foto pentru cadre matinale spectaculoase.",
+            "en": "Stroll through this scenic seaside promenade to admire the deep blue Mediterranean waters, and bring your camera for spectacular morning photos against the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Quemado",
+            "hu": "Playa Quemado",
+            "ro": "Playa Quemado",
+            "en": "Playa Quemado"
+          },
+          "coords": [
+            -3.926074,
+            35.243945
+          ],
+          "category": "recreational",
+          "arrive_at": "10:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im ruhigen, kristallklaren Wasser des berühmtesten historischen Strandes der Stadt, aber kommen Sie vor dem Mittag, um sich einen guten Platz zu sichern.",
+            "hu": "Ússzon a város leghíresebb történelmi strandjának nyugodt, kristálytiszta vizében, de érkezzen dél előtt, hogy jó helyet biztosítson magának a meleg, aranyhomokon.",
+            "ro": "Înotați în apele calme și cristaline ale celei mai faimoase plaje istorice din oraș, dar asigurați-vă că ajungeți înainte de prânz pentru a ocupa un loc bun pe nisip.",
+            "en": "Swim in the calm, crystal-clear waters of the city's most famous historic beach, but make sure to arrive before noon to secure a good spot on the warm golden sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Moro viejo",
+            "hu": "Moro viejo",
+            "ro": "Moro viejo",
+            "en": "Moro viejo"
+          },
+          "coords": [
+            -3.920517,
+            35.241033
+          ],
+          "category": "natural",
+          "arrive_at": "11:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen rauen natürlichen Aussichtspunkt im Meer für unvergleichliche Ausblicke, und halten Sie Ausschau nach lokalen Fischern, die ihre Angeln auswerfen.",
+            "hu": "Fedezze fel ezt a tengerbe nyúló, zord, természetes kilátópontot a páratlan naplementés panorámáért, és figyelje a sziklákról horgászó helyi halászokat is a parton.",
+            "ro": "Explorați acest punct de belvedere natural accidentat pentru panorame inegalabile la apus, și fiți cu ochii pe pescarii locali care își aruncă undițele de pe stânci.",
+            "en": "Explore this rugged natural viewpoint extending into the sea for unparalleled sunset vistas, and keep an eye out for local fishermen casting their lines off the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Matadero Beach",
+            "hu": "Matadero strand",
+            "ro": "Plaja Matadero",
+            "en": "Matadero Beach"
+          },
+          "coords": [
+            -3.923375,
+            35.236735
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, bekannt für seine felsige Küste und ruhigen Buchten; bringen Sie Badeschuhe mit, um den steinigen Einstieg zu meistern.",
+            "hu": "Fedezze fel ezt a sziklás partvonaláról és csendes öbleiről ismert rejtett tengerparti gyöngyszemet, és hozzon vízicipőt a kavicsos vízbe való könnyű bejutáshoz.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, cunoscută pentru țărmul său stâncos; aduceți încălțăminte de apă pentru a naviga confortabil intrarea pietroasă.",
+            "en": "Discover this hidden coastal gem known for its dramatically rocky shoreline and quiet coves, bringing water shoes to comfortably navigate the pebbly water entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Cala Bonita",
+            "hu": "Playa Cala Bonita",
+            "ro": "Playa Cala Bonita",
+            "en": "Playa Cala Bonita"
+          },
+          "coords": [
+            -3.922947,
+            35.234645
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschönen, geschützten Bucht, ideal zum Schnorcheln, und mieten Sie früh am Nachmittag eine Sonnenliege, um die Ruhe zu genießen.",
+            "hu": "Kapcsolódjon ki ebben a gyönyörű, védett öbölben, amely tökéletes a sznorkelezéshez, és béreljen napágyat kora délután, hogy teljes mértékben élvezhesse a nyugalmat.",
+            "ro": "Relaxați-vă în acest golf frumos adăpostit, perfect pentru snorkeling în ape imaculate, și închiriați un șezlong la începutul după-amiezii pentru a savura atmosfera.",
+            "en": "Unwind at this beautifully sheltered cove perfect for snorkeling in pristine waters, and rent a sunbed early in the afternoon to fully enjoy the tranquil atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Mohammed-V-Platz los und genießen Sie das morgendliche Treiben, bevor Sie zum Miramar Space gleiten, um einen ersten weiten Blick auf das glitzernde Wasser des Mittelmeers zu werfen.\n\nFahren Sie bergab zur Playa Quemado, wo warmer Sand und das ruhige Meer zu einer erfrischenden Pause einladen. Es ist der ideale Ort, um sich während der heißesten Zeit des Tages zu entspannen und neue Energie zu tanken.\n\nIhre Fahrt geht weiter entlang der zerklüfteten Küste nach Moro Viejo. Von dort aus radeln Sie zum Matadero-Strand und erkunden die kieseligen Buchten, die diesen versteckten Küstenstreifen prägen.\n\nBeenden Sie Ihre Radtour an der ruhigen Playa Cala Bonita. Diese geschützte Bucht bietet ruhiges Wasser und eine entspannende Atmosphäre – ein wunderbarer Ort, um den Tag und die malerische Route Revue passieren zu lassen.",
+        "hu": "Induljon el a V. Mohammed térről, élvezze a reggeli nyüzsgést, majd guruljon át a Miramar térre, hogy először csodálhassa meg a csillogó Földközi-tenger lenyűgöző panorámáját.\n\nGuruljon le a Playa Quemado felé, ahol a meleg homok és a nyugodt tenger egy frissítő pihenőre csábít. Ez az ideális helyszín a kikapcsolódásra és az energia feltöltésére a nap legmelegebb szakaszában.\n\nAz utazás a zord partvonal mentén folytatódik Moro Viejo drámai, természetes sziklakiszögelléséhez. Innen kerékpározzon a Matadero strand felé, navigálva e rejtett partszakasz kavicsos öblei között.\n\nFejezze be kerékpáros túráját a békés Playa Cala Bonita strandon. Ez a védett öböl nyugodt vizet és pihentető légkört biztosít, csodálatos környezetet kínálva a festői útvonal lezárásához.",
+        "ro": "Porniți pe bicicletă din Piața Mohammed V, bucurându-vă de forfota matinală înainte de a pedala spre Spațiul Miramar pentru primele priveliști vaste ale apelor strălucitoare ale Mediteranei.\n\nCoborâți spre Playa Quemado, unde nisipul cald și marea liniștită vă invită la o pauză revigorantă. Este locul ideal pentru a vă relaxa și a vă reîncărca bateriile în cea mai fierbinte parte a zilei.\n\nPlimbarea continuă de-a lungul coastei stâncoase către Moro Viejo, un promontoriu natural spectaculos. De acolo, pedalați spre Plaja Matadero, navigând printre golfurile pietroase ce presară această porțiune ascunsă.\n\nÎncheiați-vă călătoria pe bicicletă la senina Playa Cala Bonita. Acest golf adăpostit oferă ape calme și o atmosferă relaxantă, fiind cadrul minunat pentru a vă destinde și a reflecta la traseul pitoresc al zilei.",
+        "en": "Pedal off from Mohammed V Square, taking in the morning bustle before gliding over to Miramar Space for your first sweeping views of the sparkling Mediterranean waters.\n\nCoast downhill towards Playa Quemado, where the warm sand and calm sea invite you to take a refreshing break. It's the ideal spot to relax and recharge your energy during the hottest part of the day.\n\nYour ride continues along the rugged coastline to Moro Viejo, a dramatic natural outcrop. From there, cycle towards Matadero Beach, navigating the pebble-strewn coves that dot this hidden stretch of shoreline.\n\nFinish your cycling journey at the serene Playa Cala Bonita. This sheltered bay provides calm waters and a relaxing atmosphere, making it a wonderful setting to unwind and reflect on the day's scenic route."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Los Frailes",
+            "hu": "Los Frailes",
+            "ro": "Los Frailes",
+            "en": "Los Frailes"
+          },
+          "coords": [
+            -3.929535,
+            35.261559
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses unberührte Naturschutzgebiet mit Blick auf die markante Felsküste, aber denken Sie an ausreichend Wasser, da es hier keine Einrichtungen gibt.",
+            "hu": "Túrázzon ebben az érintetlen természetvédelmi területben, kilátással a lenyűgöző sziklás partvonalra, de vigyen magával elegendő vizet, mivel itt nincsenek büfék.",
+            "ro": "Drumeție prin această rezervație naturală virgină cu vedere la coasta stâncoasă, dar nu uitați să luați apă din belșug, deoarece nu există facilități pe aceste trasee.",
+            "en": "Hike through this pristine natural reserve overlooking the striking rugged coastline, but remember to bring plenty of water as there are no facilities on these trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohammed V Square",
+            "hu": "V. Mohammed tér",
+            "ro": "Piața Mohammed V",
+            "en": "Mohammed V Square"
+          },
+          "coords": [
+            -3.929676,
+            35.245182
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz von Al Hoceima mit fantastischem Küstenblick, wo sich Einheimische treffen; schnappen Sie sich einen Minztee in einem nahegelegenen Café.",
+            "hu": "Fedezze fel Al Hoceima nyüzsgő központját, ahonnan remek kilátás nyílik a tengerre, és igyon meg egy mentateát egy közeli kávézóban a helyiek társaságában.",
+            "ro": "Descoperiți inima plină de viață a orașului Al Hoceima cu vederi coastale fantastice, așa că savurați un ceai de mentă la o cafenea din apropiere pentru a vă bucura de atmosferă.",
+            "en": "Experience the bustling heart of Al Hoceima where locals gather, offering fantastic coastal views, so grab a mint tea at a nearby cafe to enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Moro viejo",
+            "hu": "Moro viejo",
+            "ro": "Moro viejo",
+            "en": "Moro viejo"
+          },
+          "coords": [
+            -3.920517,
+            35.241033
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen rauen natürlichen Aussichtspunkt im Meer für unvergleichliche Ausblicke, und halten Sie Ausschau nach lokalen Fischern, die ihre Angeln auswerfen.",
+            "hu": "Fedezze fel ezt a tengerbe nyúló, zord, természetes kilátópontot a páratlan naplementés panorámáért, és figyelje a sziklákról horgászó helyi halászokat is a parton.",
+            "ro": "Explorați acest punct de belvedere natural accidentat pentru panorame inegalabile la apus, și fiți cu ochii pe pescarii locali care își aruncă undițele de pe stânci.",
+            "en": "Explore this rugged natural viewpoint extending into the sea for unparalleled sunset vistas, and keep an eye out for local fishermen casting their lines off the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Maktoâa Beach",
+            "hu": "Maktoâa strand",
+            "ro": "Plaja Maktoâa",
+            "en": "Maktoâa Beach"
+          },
+          "coords": [
+            -3.918911,
+            35.229623
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Klippen, die diesen abgelegenen, unberührten Sandstrand umgeben, und packen Sie ein leichtes Picknick ein, um eine friedliche Mahlzeit zu genießen.",
+            "hu": "Csodálja meg a drámai sziklákat, amelyek ezt az eldugott és érintetlen homokos partszakaszt ölelik át, és csomagoljon pikniket egy békés, tömegtől mentes étkezéshez.",
+            "ro": "Admirați stâncile dramatice care îmbrățișează această fâșie de nisip izolată și virgină, și luați un picnic ușor pentru a savura o masă liniștită, departe de aglomerație.",
+            "en": "Marvel at the dramatic cliffs hugging this secluded and pristine stretch of sand, and pack a light picnic to enjoy a peaceful meal away from the crowded urban beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Izdhi Beach",
+            "hu": "Izdhi strand",
+            "ro": "Plaja Izdhi",
+            "en": "Izdhi Beach"
+          },
+          "coords": [
+            -3.963093,
+            35.245354
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese abgelegene Küstenoase mit außergewöhnlicher Ruhe und weichem Sand, ideal, um im Schatten Ihres mitgebrachten Strandschirms ein Buch zu lesen.",
+            "hu": "Meneküljön el ebbe a távoli, nyugodt tengerparti menedékbe, ahol puha homok várja, így tökéletes helyszín egy jó könyv olvasására a hordozható napernyője árnyékában.",
+            "ro": "Evadați în acest refugiu de coastă îndepărtat ce oferă o liniște excepțională, ideal pentru a citi o carte bună la umbra propriei umbrele de plajă portabile.",
+            "en": "Escape to this remote coastal haven offering exceptional tranquility and soft sands, ideal for reading a good book under the shade of your own portable beach umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Rmod Beach",
+            "hu": "Rmod strand",
+            "ro": "Plaja Rmod",
+            "en": "Rmod Beach"
+          },
+          "coords": [
+            -3.965728,
+            35.243738
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit dieser weiten Bucht vor grünen Bergen, wo ein Spaziergang am späten Nachmittag atemberaubendes Licht für Landschaftsfotos bietet.",
+            "hu": "Élvezze ennek a zöldellő hegyekkel körülvett hatalmas öbölnek az érintetlen természeti szépségét, ahol a késő délutáni séta lenyűgöző fényeket biztosít a fotózáshoz.",
+            "ro": "Bucurați-vă de frumusețea naturală neatinsă a acestui golf vast, străjuit de munți verzi, unde o plimbare spre seară garantează lumina ideală pentru fotografiile de peisaj.",
+            "en": "Enjoy the unspoiled natural beauty of this expansive bay backed by green mountains, where a late afternoon stroll guarantees stunning lighting for landscape photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einer Morgenwanderung bei Los Frailes, wo unberührte Natur auf das Mittelmeer trifft. Danach fahren Sie ins Stadtzentrum, um das kulturelle Herz am Mohammed-V-Platz zu erleben.\n\nFahren Sie zu den Klippen von Moro Viejo, um den ungestörten Blick auf den Ozean zu genießen. Danach geht es weiter nach Süden zum Maktoâa-Strand, einem abgelegenen Ort für eine friedliche Mittagspause fernab der Massen.\n\nIhre Fahrt entlang der Küste führt Sie weiter nach Westen zum wunderschönen Izdhi-Strand. Hier können Sie die dramatische Klippenlandschaft und das beruhigende Rauschen der Wellen am unberührten Sandstrand genießen.\n\nBeenden Sie Ihren Roadtrip am weitläufigen Rmod-Strand. Umgeben von sanften grünen Bergen bietet er eine majestätische Kulisse, um den Sonnenuntergang zu beobachten und unvergessliche Erinnerungen an die marokkanische Küste zu sammeln.",
+        "hu": "Kezdje autós túráját egy reggeli túrával Los Frailesben, ahol az érintetlen természet találkozik a Földközi-tengerrel. Ezután autózzon be a városközpontba, hogy megtapasztalja a kulturális életet a V. Mohammed téren.\n\nVezessen a Moro Viejo tengerparti szikláihoz a zavartalan óceáni kilátásért. Ezután induljon délre, a Maktoâa strand felé, amely eldugott helyszínként ideális környezetet kínál egy békés déli elvonuláshoz.\n\nA tengerparti autózás nyugat felé folytatódik a gyönyörű Izdhi strandhoz. Itt elmerülhet a drámai sziklafalak látványában és a hullámok megnyugtató hangjában, amelyek az érintetlen homokos partot mossák.\n\nZárja autós utazását a hatalmas Rmod strandon. A lankás, zöld hegyekkel körülvett part fenséges hátteret biztosít a naplemente megtekintéséhez, és felejthetetlen emlékeket garantál a marokkói partvidékről.",
+        "ro": "Începeți turul auto cu o drumeție matinală la Los Frailes, unde natura neatinsă întâlnește Mediterana. Apoi, conduceți spre centrul orașului pentru a experimenta inima culturală în Piața Mohammed V.\n\nConduceți către stâncile de coastă de la Moro Viejo pentru a vă bucura de priveliști oceanice neîntrerupte. Apoi, mergeți spre sud spre Plaja Maktoâa, un loc izolat, ideal pentru o retragere liniștită la prânz.\n\nCălătoria pe coastă continuă spre vest până la frumoasa plajă Izdhi. Aici puteți admira peisajul stâncos dramatic și sunetele liniștitoare ale valurilor care lovesc țărmurile nisipoase virgine.\n\nÎncheiați-vă excursia pe vasta plajă Rmod. Înconjurată de munți verzi, aceasta oferă un fundal maiestuos pentru a privi apusul și a surprinde amintiri de neuitat de pe coasta marocană.",
+        "en": "Start your driving tour with a morning hike at Los Frailes, where pristine nature meets the Mediterranean. Afterward, cruise into the city center to experience the cultural heart at Mohammed V Square.\n\nDrive out to the coastal cliffs of Moro Viejo to enjoy uninterrupted oceanic views. Then, head south to Maktoâa Beach, a secluded spot offering an ideal setting for a peaceful midday retreat away from the crowds.\n\nYour coastal drive continues westward to the beautiful Izdhi Beach. Here, you can soak in the dramatic cliffside scenery and the soothing sounds of the waves hitting the untouched sandy shores.\n\nConclude your road trip at the expansive Rmod Beach. Surrounded by rolling green mountains, it provides a majestic backdrop for watching the sunset and capturing unforgettable memories of the Moroccan coast."
+      }
+    }
+  }
+}

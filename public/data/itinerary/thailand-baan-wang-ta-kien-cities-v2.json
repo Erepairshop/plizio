@@ -1,0 +1,520 @@
+{
+  "city_id": "thailand-baan-wang-ta-kien-cities-v2",
+  "anchor": {
+    "name": "Baan Wang Ta Kien",
+    "coords": [
+      99.98051,
+      9.78766
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haad Salad",
+            "hu": "Haad Salad",
+            "ro": "Haad Salad",
+            "en": "Haad Salad"
+          },
+          "coords": [
+            99.971925,
+            9.785256
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am unberührten Strand von Haad Salad, einer ruhigen Bucht zum Schwimmen, also kommen Sie früh für einen Schattenplatz unter den Palmen.",
+            "hu": "Kezdje a reggelt a Haad Salad érintetlen homokján, amely egy békés öböl az úszáshoz, így érdemes korán érkezni, hogy árnyékos helyet találjon a pálmafák alatt.",
+            "ro": "Începeți dimineața pe nisipurile fine de la Haad Salad, un golf liniștit perfect pentru înot, așa că sosiți devreme pentru un loc la umbra palmierilor.",
+            "en": "Start your morning on the pristine sands of Haad Salad, a tranquil cove perfect for swimming, so arrive early to claim a shaded spot beneath the palm trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Salad Beach Resort",
+            "hu": "Salad Beach Resort",
+            "ro": "Salad Beach Resort",
+            "en": "Salad Beach Resort"
+          },
+          "coords": [
+            99.973738,
+            9.786487
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die tropische Anlage dieses Küstenresorts, wo die gepflegten Gärten eine malerische Kulisse für ein schnelles morgendliches Fotoshooting bieten.",
+            "hu": "Csodálja meg ennek a tengerparti üdülőhelynek a trópusi kialakítását, ahol a gondozott kertek festői hátteret biztosítanak egy gyors reggeli fotózáshoz.",
+            "ro": "Admirați aspectul tropical al acestui complex de coastă, unde grădinile bine întreținute oferă un decor pitoresc pentru o scurtă sesiune foto matinală.",
+            "en": "Admire the beautiful tropical layout of this coastal resort, where the well-maintained gardens offer a picturesque backdrop for a quick morning photo session."
+          }
+        },
+        {
+          "name": {
+            "de": "Mae Haad Cove (Nudist Beach)",
+            "hu": "Mae Haad Cove (Nudist Beach)",
+            "ro": "Mae Haad Cove (Nudist Beach)",
+            "en": "Mae Haad Cove (Nudist Beach)"
+          },
+          "coords": [
+            99.976919,
+            9.791685
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen Strand, der für seine befreiende Atmosphäre bekannt ist, aber respektieren Sie die Privatsphäre der anderen beim Sonnenbaden.",
+            "hu": "Fedezze fel ezt az eldugott partszakaszt, amely felszabadító légköréről ismert, de ne felejtse el tiszteletben tartani mások magánéletét a napozás során.",
+            "ro": "Descoperiți acest țărm retras, cunoscut pentru atmosfera sa eliberatoare, dar amintiți-vă să respectați intimitatea celorlalți în timp ce vă bucurați de soare.",
+            "en": "Discover this secluded shoreline known for its liberating atmosphere and natural beauty, but remember to respect the privacy of others while enjoying the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Mae Hat",
+            "hu": "Ao Mae Hat",
+            "ro": "Ao Mae Hat",
+            "en": "Ao Mae Hat"
+          },
+          "coords": [
+            99.97652,
+            9.79581
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser Bucht mit einer Sandbank, die bei Ebbe auftaucht, weshalb es wichtig ist, vor der Ankunft die lokalen Gezeitentabellen zu prüfen.",
+            "hu": "Pihenjen ezen a tágas öblön, amely apálykor egyedülálló homokpadot fed fel, ezért érkezés előtt feltétlenül ellenőrizze a helyi árapály-táblázatokat.",
+            "ro": "Relaxați-vă în acest golf vast ce prezintă un banc de nisip unic la reflux, fiind esențial să verificați tabelele de maree înainte de a ajunge.",
+            "en": "Relax at this expansive bay featuring a unique sandbar that emerges at low tide, making it essential to check the local tide charts before you arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Koh Ma",
+            "hu": "Koh Ma",
+            "ro": "Koh Ma",
+            "en": "Koh Ma"
+          },
+          "coords": [
+            99.979239,
+            9.800562
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die legendäre Sandbank zu dieser unbewohnten Insel, die für ihre Unterwasserwelt bekannt ist, bringen Sie also Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Keljen át az ikonikus homokpadon erre a lakatlan szigetre, amely gazdag tengeri élővilágáról híres, így hozzon magával saját búvárfelszerelést a zátonyokhoz.",
+            "ro": "Traversați bancul de nisip către această insulă renumită pentru viața marină vibrantă, așa că aduceți-vă propriul echipament de snorkeling pentru a explora.",
+            "en": "Cross the iconic sandbar to reach this small, uninhabited island renowned for its vibrant marine life, so bring your own snorkeling gear to explore the reefs."
+          }
+        },
+        {
+          "name": {
+            "de": "360 bar",
+            "hu": "360 bar",
+            "ro": "360 bar",
+            "en": "360 bar"
+          },
+          "coords": [
+            99.985472,
+            9.797216
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit dem atemberaubenden Panoramablick dieser Bar auf dem Hügel, wo Sie eine Stunde vor Einbruch der Dunkelheit den besten Platz finden.",
+            "hu": "Zárja sétáját a dombtetőn található bár lélegzetelállító panorámájával, ahová alkonyat előtt egy órával érkezve garantált a legjobb hely a naplemente megtekintéséhez.",
+            "ro": "Încheiați plimbarea cu o vedere panoramică uluitoare de la acest bar pe deal, unde sosirea cu o oră înainte de apus vă garantează cel mai bun loc.",
+            "en": "Conclude your walk with breathtaking panoramic views from this hilltop venue, where arriving an hour before dusk guarantees the best seat for the spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Haad Salad, wo goldener Sand und ruhiges Wasser für einen friedlichen Start sorgen. Anschließend schlendern Sie durch das malerische Gelände der lokalen Strandresorts.\n\nGegen Mittag führt der Weg zur Mae Haad Bucht. Hier bietet eine befreiende Atmosphäre einen starken Kontrast zum Luxus der Resorts und fügt sich nahtlos in die umliegende Natur ein.\n\nDer Nachmittag ist geprägt von der einzigartigen Geographie von Ao Mae Hat und dem Weg über die Sandbank nach Koh Ma. Dieser Abschnitt ist ein Paradies für Schnorchler und Meeresliebhaber.\n\nWenn der Abend hereinbricht, bringt Sie ein allmählicher Aufstieg zu einer bekannten Bar auf dem Hügel. Von hier aus malt der Sonnenuntergang den Himmel bunt und krönt Ihr Küstenabenteuer.",
+        "hu": "A reggel a Haad Salad strandján kezdődik, ahol az aranyhomok és a nyugodt vizek békés indulást biztosítanak. Ezután a helyi tengerparti üdülőhelyek festői területein fog átsétálni.\n\nAhogy közeledik a dél, az út a Mae Haad öbölbe vezet. Itt a felszabadító légkör éles kontrasztot alkot a korábbi üdülőhelyi luxussal, és zökkenőmentesen beleolvad a környező természetbe.\n\nA délutánt az Ao Mae Hat egyedi földrajza és a Koh Ma szigetére vezető homokpad határozza meg. Ez a szakasz igazi menedék a sznorkelezés és a tengeri biológiai sokféleség szerelmeseinek.\n\nAhogy leszáll az este, egy fokozatos emelkedő elviszi önt egy híres dombtetői bárba. Ebből a magasságból a naplemente festi meg az eget, tökéletesen lezárva a tengerparti sétát.",
+        "ro": "Dimineața începe la Haad Salad, unde nisipul auriu și apele calme creează un început de zi pașnic. Apoi vă veți plimba spre terenurile pitorești ale complexurilor balneare locale.\n\nLa apropierea prânzului, poteca duce la golful Mae Haad. Aici, o atmosferă eliberatoare oferă un contrast puternic față de luxul anterior, integrându-se perfect în natura înconjurătoare.\n\nDupă-amiaza este definită de geografia unică a Ao Mae Hat și traversarea bancului de nisip către Koh Ma. Această zonă este un refugiu pentru pasionații de snorkeling și biodiversitate marină.\n\nOdată cu lăsarea serii, o urcare treptată vă aduce la un renumit bar pe deal. Din acest punct de observație, apusul pictează cerul, încununând perfect aventura dvs. de coastă.",
+        "en": "Morning begins at Haad Salad, where golden sands and calm waters create a peaceful start to the day. You will then meander towards the scenic grounds of local beach resorts.\n\nAs midday approaches, the path leads to Mae Haad Cove. Here, a liberating atmosphere offers a stark contrast to the earlier resort luxury, blending seamlessly with the surrounding nature.\n\nThe afternoon is defined by the unique geography of Ao Mae Hat and the iconic sandbar crossing to Koh Ma. This stretch is a haven for snorkelers and lovers of marine biodiversity.\n\nAs evening falls, a gradual ascent brings you to a renowned hilltop bar. From this elevated vantage point, the sunset paints the sky, perfectly capping off your coastal walking adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hin Ngam",
+            "hu": "Hin Ngam",
+            "ro": "Hin Ngam",
+            "en": "Hin Ngam"
+          },
+          "coords": [
+            99.994542,
+            9.795944
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesen faszinierenden Felsformationen entlang der Küste, wo festes Schuhwerk für eine sichere Erkundung sehr zu empfehlen ist.",
+            "hu": "Kezdje kerékpártúráját a parton elszórtan található lenyűgöző sziklaalakzatoknál, ahol a biztonságos felfedezéshez erősen ajánlott a masszív lábbeli.",
+            "ro": "Începeți traseul de ciclism la aceste formațiuni stâncoase naturale de pe coastă, unde încălțămintea rezistentă este recomandată pentru o explorare sigură.",
+            "en": "Start your cycling route at these fascinating natural rock formations scattered along the coast, where sturdy footwear is highly recommended for safe exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Phangan Safari",
+            "hu": "Phangan Safari",
+            "ro": "Phangan Safari",
+            "en": "Phangan Safari"
+          },
+          "coords": [
+            99.986836,
+            9.791183
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause vom Treten und genießen Sie die Freizeitangebote in der Natur; buchen Sie Ihre Tickets vorab online, um die Warteschlangen zu umgehen.",
+            "hu": "Tartson szünetet a tekerésben, és élvezze az itt kínált természetközeli szabadidős tevékenységeket, a jegyeket pedig foglalja le online, hogy elkerülje a sorokat.",
+            "ro": "Faceți o pauză de la pedalat pentru a vă bucura de activitățile recreative în natură și rezervați biletele online în avans pentru a evita cozile de dimineață.",
+            "en": "Take a break from pedaling to enjoy the recreational nature activities available here, and book your tickets online in advance to skip the busy morning lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Wang Sai Waterfall Entrance (50 ฿)",
+            "hu": "Wang Sai Waterfall Entrance (50 ฿)",
+            "ro": "Wang Sai Waterfall Entrance (50 ฿)",
+            "en": "Wang Sai Waterfall Entrance (50 ฿)"
+          },
+          "coords": [
+            99.982499,
+            9.794474
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad und wandern Sie zu diesem Dschungelwasserfall. Halten Sie 50 Baht für die Eintrittsgebühr bereit, um Zugang zu den Naturbecken zu erhalten.",
+            "hu": "Parkolja le a biciklit, és tegyen egy rövid sétát ehhez a dzsungel-vízeséshez, de tartson magánál 50 bahtot a természetes medencékhez szükséges belépőre.",
+            "ro": "Parcați bicicleta și faceți o scurtă drumeție până la această cascadă din junglă, având pregătiți 50 Baht pentru taxa de intrare la piscinele naturale.",
+            "en": "Park your bike and hike a short trail to this refreshing jungle waterfall, keeping 50 Baht handy for the entrance fee required to access the natural pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hat Thonglang",
+            "hu": "Ao Hat Thonglang",
+            "ro": "Ao Hat Thonglang",
+            "en": "Ao Hat Thonglang"
+          },
+          "coords": [
+            99.987542,
+            9.799768
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ruhigen, abgelegenen Strand, der für seine friedliche Atmosphäre bekannt ist und ein idealer Ort ist, um sich vor der Weiterfahrt zu erfrischen.",
+            "hu": "Kerékpározzon le ehhez a csendes, félreeső strandhoz, amely békés hangulatáról ismert, és ideális hely a pihenésre és folyadékpótlásra a folytatás előtt.",
+            "ro": "Pedalați până la această plajă liniștită, ferită de aglomerație, un loc ideal pentru a vă așeza și a vă hidrata înainte de a vă continua plimbarea.",
+            "en": "Cycle down to this peaceful, off-the-beaten-path beach known for its serene atmosphere, which is an ideal spot to sit and hydrate before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Koh Ma",
+            "hu": "Koh Ma",
+            "ro": "Koh Ma",
+            "en": "Koh Ma"
+          },
+          "coords": [
+            99.979239,
+            9.800562
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Strandeingang sicher ab, bevor Sie über die Sandbank zu diesem Meeresschutzgebiet laufen, und vergessen Sie nicht die Sonnencreme.",
+            "hu": "Zárja le biztonságosan kerékpárját a strand bejáratánál, mielőtt átsétál a homokpadon ebbe a tengeri rezervátumba, és mindenképpen használjon naptejet.",
+            "ro": "Securizați-vă bicicleta la intrarea pe plajă înainte de a traversa spre acest sanctuar marin incredibil, asigurându-vă că folosiți cremă de protecție solară.",
+            "en": "Lock your bike safely at the beach entrance before walking across the sandbar to this incredible marine sanctuary, ensuring you wear sunscreen to protect your skin."
+          }
+        },
+        {
+          "name": {
+            "de": "Coral Reef",
+            "hu": "Coral Reef",
+            "ro": "Coral Reef",
+            "en": "Coral Reef"
+          },
+          "coords": [
+            99.978447,
+            9.798176
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kristallklare Wasser direkt vor der Küste ein, um die Korallen zu bewundern, aber denken Sie daran, diese fragilen Ökosysteme nie zu berühren.",
+            "hu": "Merüljön el a part menti kristálytiszta vizekben, és csodálja meg a színes korallokat, de emlékezzen rá, hogy soha ne érintse meg ezeket a törékeny ökoszisztémákat.",
+            "ro": "Scufundați-vă în apele limpezi pentru a admira coralii colorați, dar amintiți-vă să nu atingeți și să nu călcați pe aceste ecosisteme vii și fragile.",
+            "en": "Dive into the crystal-clear waters just off the coast to marvel at the colorful corals, but remember never to touch or stand on these fragile living ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Mae Hat",
+            "hu": "Ao Mae Hat",
+            "ro": "Ao Mae Hat",
+            "en": "Ao Mae Hat"
+          },
+          "coords": [
+            99.97652,
+            9.79581
+          ],
+          "category": "landmark",
+          "arrive_at": "15:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre lange Fahrt auf dem weichen Sand von Ao Mae Hat, wo die sanfte Abendbrise nach einem aktiven Tag für die perfekte Abkühlung sorgt.",
+            "hu": "Fejezze be a hosszú túrát az Ao Mae Hat puha homokján lazítva, ahol az enyhe esti szellő tökéletes felfrissülést nyújt egy aktív nap után.",
+            "ro": "Terminați-vă traseul lung relaxându-vă pe nisipurile fine de la Ao Mae Hat, unde briza blândă de seară oferă efectul perfect de răcorire după o zi activă.",
+            "en": "Finish your long ride by unwinding on the soft sands of Ao Mae Hat, where the gentle evening breeze provides the perfect cooling effect after an active day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt an den Felsformationen von Hin Ngam, bevor Sie zu einem aufregenden, naturbezogenen Safari-Erlebnis radeln, das die frühen Stunden belebt.\n\nGegen Mittag führt die Route ins Landesinnere zum Wang Sai Wasserfall. Nach den Dschungelpfaden suchen Sie Schatten und Ruhe in einer wunderschön abgelegenen Bucht.\n\nDer Nachmittag unterstreicht den spektakulären Übergang zurück zur Küste. Sie erkunden das Naturschutzgebiet Koh Ma und tauchen in das klare Wasser der nahen Korallenriffe ein.\n\nWenn die Dämmerung naht, klingt Ihre Reise an den weiten Ufern von Ao Mae Hat aus. Die sanfte Meeresbrise und der weiche Sand bieten die perfekte Kulisse zum Entspannen.",
+        "hu": "A kerékpáros nap a lenyűgöző Hin Ngam sziklaalakzatoknál indul, mielőtt eltekerne egy izgalmas, természetközeli szafari élmény felé, amely felpezsdíti a korai órákat.\n\nDél körül az útvonal a szárazföld belsejébe, a frissítő Wang Sai vízeséshez vezet. A dzsungelösvények után egy gyönyörűen eldugott öbölben kereshet árnyékot és pihenést.\n\nA délután a partra való látványos visszatérést helyezi előtérbe. Felfedezi a vibráló Koh Ma rezervátumot, és elmerül a közeli korallzátonyok tiszta vizében.\n\nAlkonyatkor az utazás az Ao Mae Hat tágas partjainál ér véget. A lágy tengeri szellő és a puha homok tökéletes környezetet biztosít a hosszú út utáni pihenéshez.",
+        "ro": "Ziua de ciclism începe la formațiunile stâncoase Hin Ngam, înainte de a pedala către o experiență captivantă de safari în natură, care animă primele ore.\n\nÎn jurul prânzului, traseul vă poartă spre interior către cascada răcoroasă Wang Sai. După potecile din junglă, veți căuta umbră și odihnă într-un golf retras și frumos.\n\nDupă-amiaza subliniază tranziția spectaculoasă înapoi spre coastă. Veți explora sanctuarul Koh Ma și vă veți scufunda în apele limpezi ale recifelor de corali din apropiere.\n\nOdată cu lăsarea întunericului, călătoria se încheie pe țărmurile vaste de la Ao Mae Hat. Briza mării și nisipul fin oferă cadrul ideal pentru a vă relaxa după o cursă lungă.",
+        "en": "Your cycling day starts at the striking Hin Ngam rock formations before pedaling towards an exciting, nature-focused safari experience that invigorates the early hours.\n\nAround midday, the route steers inland to the refreshing Wang Sai Waterfall. After navigating the jungle trails, you will seek shade and rest at a beautifully secluded bay.\n\nThe afternoon highlights the spectacular transition back to the coast. You will explore the vibrant Koh Ma sanctuary and immerse yourself in the clear waters of nearby coral reefs.\n\nAs dusk approaches, your journey winds down on the expansive shores of Ao Mae Hat. The gentle sea breeze and soft sands provide the ultimate setting to relax after a long ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hin Ngam",
+            "hu": "Hin Ngam",
+            "ro": "Hin Ngam",
+            "en": "Hin Ngam"
+          },
+          "coords": [
+            99.994542,
+            9.795944
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre malerische Fahrt an dieser markanten Felsküste, wo die glatten Steine eine einzigartige Landschaft bilden. Gehen Sie vorsichtig am Ufer entlang.",
+            "hu": "Kezdje a festői autózást ezen a lenyűgöző sziklás parton, ahol a sima kövek egyedi tájat alkotnak, így óvatosan lépkedjen a vízpart közelében.",
+            "ro": "Începeți plimbarea pitorească la această coastă stâncoasă izbitoare, unde pietrele netede creează un peisaj unic, deci pășiți cu grijă lângă apă.",
+            "en": "Begin your scenic drive at this striking rocky coastal area, where the smooth stones create a unique landscape, so step carefully when wandering near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Phangan Safari",
+            "hu": "Phangan Safari",
+            "ro": "Phangan Safari",
+            "en": "Phangan Safari"
+          },
+          "coords": [
+            99.986836,
+            9.791183
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem interaktiven Dschungelpark mit familienfreundlichen Attraktionen und prüfen Sie den Tagesplan, um keine Tierbegegnungen zu verpassen.",
+            "hu": "Vezessen ehhez az interaktív dzsungelparkhoz, amely családbarát látványosságokat kínál, és érkezéskor ellenőrizze a napi programot az állati találkozásokhoz.",
+            "ro": "Conduceți către acest parc interactiv din junglă cu atracții de familie și verificați programul zilnic la sosire pentru a nu rata întâlnirile cu animalele.",
+            "en": "Drive to this interactive jungle park offering family-friendly attractions, and check their daily schedule upon arrival so you don't miss any of the animal encounters."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Salad",
+            "hu": "Haad Salad",
+            "ro": "Haad Salad",
+            "en": "Haad Salad"
+          },
+          "coords": [
+            99.971925,
+            9.785256
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie die entspannte Atmosphäre dieser halbmondförmigen Bucht, perfekt für ein Bad am Mittag. Bringen Sie ein schnelltrocknendes Handtuch mit.",
+            "hu": "Parkoljon a közelben, és élvezze ennek a félhold alakú öbölnek a laza hangulatát, amely tökéletes egy déli úszáshoz, így hozzon magával gyorsan száradó törölközőt.",
+            "ro": "Parcați în apropiere și bucurați-vă de atmosfera relaxată a acestui golf în formă de semilună, perfect pentru înot la prânz, așa că aduceți un prosop cu uscare rapidă.",
+            "en": "Park nearby and enjoy the laid-back vibe of this crescent-shaped bay, which is perfect for a midday swim, so bring a quick-dry towel for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mae Haad Beach View Resort",
+            "hu": "Mae Haad Beach View Resort",
+            "ro": "Mae Haad Beach View Resort",
+            "en": "Mae Haad Beach View Resort"
+          },
+          "coords": [
+            99.979745,
+            9.794095
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses malerische Resort, um die erhabene Aussicht auf die Küste zu genießen. Mit einem kühlen Getränk können Sie die gemütlichen Loungemöbel nutzen.",
+            "hu": "Látogasson el erre a festői üdülőhelyre, ahonnan fenséges kilátás nyílik a partra, és ahol egy frissítő ital vásárlásával kényelmes nyugágyakat is használhat.",
+            "ro": "Vizitați acest complex pitoresc pentru a admira priveliștile asupra coastei, unde cumpărarea unei băuturi vă permite să folosiți scaunele confortabile de lounge.",
+            "en": "Visit this picturesque resort area to take in the elevated vistas over the coastline, where purchasing a refreshing drink allows you to use their comfortable lounge seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Snorkeling Spot",
+            "hu": "Snorkeling Spot",
+            "ro": "Snorkeling Spot",
+            "en": "Snorkeling Spot"
+          },
+          "coords": [
+            99.977531,
+            9.799178
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Navigieren Sie zu diesem ausgewiesenen Bereich mit tropischen Fischen und klarem Wasser, wo eine gut sitzende Maske sehr ratsam ist, um die Unterwasserwelt zu genießen.",
+            "hu": "Hajtson ehhez a trópusi halaktól nyüzsgő, tiszta vizű területhez, ahol erősen ajánlott egy jól illeszkedő maszk viselése a víz alatti táj tökéletes élvezetéhez.",
+            "ro": "Navigați către această zonă plină de pești tropicali și ape clare, fiind extrem de indicat să purtați o mască bine fixată pentru a savura peisajul subacvatic.",
+            "en": "Navigate to this designated area teeming with tropical fish and clear waters, making it highly advisable to wear a well-fitted mask to fully enjoy the underwater scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Koh Ma",
+            "hu": "Koh Ma",
+            "ro": "Koh Ma",
+            "en": "Koh Ma"
+          },
+          "coords": [
+            99.979239,
+            9.800562
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto auf dem ausgewiesenen Parkplatz, bevor Sie zur verbundenen Insel wandern. Ein Highlight der Region, wo feste Sandalen den Weg erleichtern.",
+            "hu": "Hagyja autóját a kijelölt parkolóban, mielőtt átsétálna az összekapcsolt szigetre, amely a régió egyik fő látványossága, és ahol a masszív szandál megkönnyíti a sétát.",
+            "ro": "Lăsați mașina în parcarea desemnată înainte de a traversa spre insulița conectată, un punct de atracție al regiunii unde sandalele rezistente vă vor ușura mersul.",
+            "en": "Leave your car at the designated parking area before trekking to the connected islet, a prominent highlight of the region where sturdy sandals will make the walk easier."
+          }
+        },
+        {
+          "name": {
+            "de": "360 bar",
+            "hu": "360 bar",
+            "ro": "360 bar",
+            "en": "360 bar"
+          },
+          "coords": [
+            99.985472,
+            9.797216
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie die steile Steigung hinauf zu diesem spektakulären Ort mit Blick aufs Meer, der den absolut besten Aussichtspunkt für einen Cocktail zum Sonnenuntergang bietet.",
+            "hu": "Hajtson fel a meredek emelkedőn ehhez a látványos tengerparti bárhelyszínhez, amely a lehető legjobb kilátópontot nyújtja a koktélozáshoz és a naplemente megtekintéséhez.",
+            "ro": "Urcați pe panta abruptă pentru a ajunge la acest loc spectaculos cu vedere la mare, oferind cel mai bun punct de observație pentru a savura un cocktail la apus.",
+            "en": "Drive up the steep incline to reach this spectacular venue overlooking the sea, providing the absolute best vantage point to sip a cocktail and watch the vibrant sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit der natürlichen Schönheit von Hin Ngam und geht nahtlos über in einen Vormittag voller interaktiver Wildtier-Entdeckungen im nahegelegenen Dschungel-Safaripark.\n\nDer Mittag lädt zu einer malerischen Fahrt zum Haad Salad für eine entspannte Pause ein. Danach bieten Küstenresorts erhöhte Aussichtspunkte, um den blauen Horizont zu bewundern.\n\nDer Nachmittag ist der Erkundung der Unterwasserwelt gewidmet. Sie fahren zu erstklassigen Schnorchelplätzen und überqueren die berühmte Sandbank zum Ökosystem von Koh Ma.\n\nDer Abend lockt zu einer Fahrt in die umliegenden Hügel. An einer hochgelegenen Bar werden Sie mit einem Panoramablick und einem atemberaubenden Sonnenuntergang belohnt.",
+        "hu": "Az autózás a Hin Ngam drámai természeti szépségével indul, majd zökkenőmentesen tér át a vadvilág interaktív felfedezésére a közeli dzsungelszafari parkban.\n\nA dél egy festői utat kínál a Haad Saladhoz egy pihentető tengerparti szünetre. Ezután a part menti üdülőhelyek magaslati kilátópontokat kínálnak a kék horizont megcsodálásához.\n\nA délután a víz alatti felfedezésnek van szentelve. Prémium sznorkelező helyekre navigál, és átkel a híres homokpadon, hogy megtapasztalja a Koh Ma tengeri ökoszisztémáját.\n\nAz este egy utazásra hív a környező dombok közé. Egy magasan fekvő bárba érve panorámás kilátás és lenyűgöző naplemente a jutalom a nap megkoronázásaként.",
+        "ro": "Plimbarea cu mașina începe cu frumusețea naturală dramatică de la Hin Ngam, trecând lin într-o dimineață de descoperire interactivă a faunei la parcul de safari din apropiere.\n\nPrânzul invită la o plimbare pitorească până la Haad Salad pentru o pauză relaxantă pe plajă. Apoi, complexurile de coastă oferă puncte de belvedere pentru a admira orizontul azuriu.\n\nDupă-amiaza este dedicată explorării subacvatice. Veți naviga către locuri excelente de snorkeling și veți traversa faimosul banc de nisip pentru a experimenta ecosistemul de la Koh Ma.\n\nSeara atrage o plimbare cu mașina pe dealurile din jur. Ajungând la un bar la altitudine, sunteți răsplătit cu vederi panoramice și un apus uimitor pentru a încheia ziua.",
+        "en": "The drive kicks off with the dramatic natural beauty of Hin Ngam, smoothly transitioning into a morning of interactive wildlife discovery at the nearby jungle safari park.\n\nMidday prompts a picturesque drive to Haad Salad for a relaxing beachside break. Afterwards, scenic coastal resorts offer elevated viewpoints to admire the azure horizon in absolute comfort.\n\nThe afternoon is dedicated to underwater exploration. You will navigate to premier snorkeling spots and cross the famous sandbar to experience the thriving marine ecosystem of Koh Ma.\n\nEvening beckons a drive up into the surrounding hills. Reaching a high-altitude bar, you are rewarded with panoramic views and a stunning sunset to conclude the day's road trip."
+      }
+    }
+  }
+}

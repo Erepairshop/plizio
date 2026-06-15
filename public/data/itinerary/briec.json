@@ -1,0 +1,451 @@
+{
+  "city_id": "briec",
+  "anchor": {
+    "name": "Briec",
+    "coords": [
+      -4.0017,
+      48.1017
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.999602,
+            48.102355
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche, ein bleibendes Symbol für das Erbe von Briec, und kommen Sie früh, um das morgendliche Licht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely Briec örökségének tartós szimbóluma, és érkezzen korán, hogy elcsípje az ólomüveg ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale, un simbol de durată al patrimoniului din Briec, și sosiți devreme pentru a prinde lumina dimineții prin vitralii.",
+            "en": "Admire the striking gothic architecture of this central church, an enduring emblem of Briec's heritage, and arrive early to catch the morning light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Arthémuse",
+            "hu": "Arthémuse",
+            "ro": "Arthémuse",
+            "en": "Arthémuse"
+          },
+          "coords": [
+            -3.99787,
+            48.099157
+          ],
+          "category": "cultural",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige Kulturzentrum mit regionaler zeitgenössischer Kunst und lokalen Aufführungen, aber prüfen Sie vorher den Online-Plan, um Ihren Besuch auf eine interaktive Ausstellung abzustimmen.",
+            "hu": "Fedezze fel ezt a nyüzsgő kulturális központot, amely regionális kortárs művészetet és helyi előadásokat mutat be, de előzetesen ellenőrizze az online menetrendet, hogy egy interaktív kiállítást is elcsíphessen.",
+            "ro": "Explorați acest centru cultural vibrant care prezintă artă contemporană regională și spectacole locale, dar verificați programul online în prealabil pentru a vă sincroniza vizita cu o expoziție.",
+            "en": "Explore this vibrant cultural hub showcasing regional contemporary art and local performances, but check the schedule online beforehand to align your visit with an interactive exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Boissière",
+            "hu": "Château de la Boissière",
+            "ro": "Château de la Boissière",
+            "en": "Château de la Boissière"
+          },
+          "coords": [
+            -3.989883,
+            48.092938
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die beeindruckenden Anlagen dieses historischen Schlosses, das Geschichten des bretonischen Adels flüstert, und tragen Sie bequeme Schuhe, da die Wege des Anwesens uneben sind.",
+            "hu": "Sétáljon végig a történelmi kastély lenyűgöző parkjában, amely a breton nemesség történeteit suttogja, és viseljen kényelmes cipőt, mivel a birtokot övező ösvények meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestui castel istoric care șoptește poveștile nobilimii bretone și purtați încălțăminte confortabilă, deoarece potecile moșiei pot fi destul de denivelate.",
+            "en": "Wander around the impressive grounds of this historic château that whispers tales of Breton nobility, and wear comfortable shoes as the surrounding estate paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Edern",
+            "hu": "Église Saint-Edern",
+            "ro": "Église Saint-Edern",
+            "en": "Église Saint-Edern"
+          },
+          "coords": [
+            -3.977666,
+            48.103993
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene ländliche Kirche, die einem verehrten lokalen Heiligen gewidmet ist, und nehmen Sie sich Zeit für die Holzschnitzereien am Altar, bevor Sie den Hof erkunden.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött, egy tisztelt helyi szentnek szentelt vidéki templomba, és szánjon egy percet az oltár fafaragásainak megcsodálására, mielőtt felfedezné a csendes udvart.",
+            "ro": "Intrați în această biserică rurală frumos conservată, dedicată unui sfânt local venerat, și admirați sculpturile complicate în lemn de pe altar înainte de a explora curtea interioară liniștită.",
+            "en": "Step into this beautifully preserved rural church dedicated to a revered local saint, and take a moment to appreciate the intricate wood carvings on the altar before exploring the quiet courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Meilh Coat Bihan",
+            "hu": "Meilh Coat Bihan",
+            "ro": "Meilh Coat Bihan",
+            "en": "Meilh Coat Bihan"
+          },
+          "coords": [
+            -3.969211,
+            48.102183
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser charmanten historischen Mühle, die die landwirtschaftlichen Wurzeln der Gegend widerspiegelt, und bringen Sie ein Picknick mit, um es am plätschernden Bach zu genießen.",
+            "hu": "Fedezze fel ennek a bájos történelmi malomnak a romjait, amely a környék mezőgazdasági gyökereit tükrözi, és hozzon magával egy kis pikniket, hogy a hajdanán energiát adó patak partján elfogyassza.",
+            "ro": "Descoperiți ruinele acestei mori istorice fermecătoare care reflectă rădăcinile agricole ale zonei și aduceți un mic picnic pe care să-l savurați lângă pârâul care îi asigura cândva energia.",
+            "en": "Discover the ruins of this charming historical mill which reflects the agricultural roots of the area, and bring a small picnic to enjoy near the babbling stream that once powered it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Briec und bewundern Sie die architektonischen Details der Pfarrkirche. Anschließend geht es weiter zum Kulturzentrum, wo Sie die lebendige lokale Kunstszene hautnah erleben können. Der Nachmittag steht im Zeichen der Geschichte, wenn Sie die alten Adelsgeschichten des Schlosses erkunden. Später lädt die ruhige Kirche Saint-Edern zur Kontemplation ein, bevor Sie den Tag an den rustikalen Mühlenruinen entspannt und naturverbunden ausklingen lassen.",
+        "hu": "Kezdje a napot Briec szívében, a helyi plébániatemplom lenyűgöző részleteinek megtekintésével. Ezt követően látogasson el a nyüzsgő kulturális központba, hogy bepillantást nyerjen a kortárs művészetbe. A kora délutáni órákban a történelmi kastély felfedezése várja, amely megeleveníti a breton múltat. Később egy békés vidéki templom nyújt lehetőséget az elmélyülésre, végül pedig a régi malom romantikus romjainál fejezheti be a napot.",
+        "ro": "Începeți ziua în inima orașului Briec, admirând detaliile arhitecturale ale bisericii parohiale centrale. Apoi, îndreptați-vă spre hub-ul cultural pentru a descoperi scena artistică locală vibrantă. După-amiaza este dedicată istoriei, explorând moștenirea nobilă a castelului. Mai târziu, o biserică rurală liniștită oferă un moment de contemplare, înainte de a încheia ziua relaxant printre ruinele rustice ale vechii mori.",
+        "en": "Begin your day in the heart of Briec, admiring the architectural grace of the central parish church. Next, head over to the cultural hub to experience the vibrant local arts scene firsthand. Early afternoon shifts to history as you explore the noble heritage of the town's historic château. Later, a peaceful rural church offers a quiet moment of contemplation before you wind down the day among the rustic ruins of the old mill."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 14.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.999602,
+            48.102355
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche, ein bleibendes Symbol für das Erbe von Briec, und kommen Sie früh, um das morgendliche Licht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely Briec örökségének tartós szimbóluma, és érkezzen korán, hogy elcsípje az ólomüveg ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale, un simbol de durată al patrimoniului din Briec, și sosiți devreme pentru a prinde lumina dimineții prin vitralii.",
+            "en": "Admire the striking gothic architecture of this central church, an enduring emblem of Briec's heritage, and arrive early to catch the morning light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Magdeleine",
+            "hu": "Chapelle de la Magdeleine",
+            "ro": "Chapelle de la Magdeleine",
+            "en": "Chapelle de la Magdeleine"
+          },
+          "coords": [
+            -4.030082,
+            48.110578
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den rustikalen Charme und die ruhige Atmosphäre dieser malerischen Steinkapelle inmitten von üppigem Grün und lehnen Sie Ihr Fahrrad an die Mauer, während Sie Fotos machen.",
+            "hu": "Csodálja meg a buja növényzettel körülvett, festői kőkápolna rusztikus báját és nyugodt légkörét, és támassza kerékpárját az erős kőfalnak, amíg készít néhány emlékezetes fényképet.",
+            "ro": "Minunați-vă de farmecul rustic și ambianța senină a acestei capele pitorești din piatră înconjurată de verdeață, și sprijiniți bicicleta de zidul de piatră în timp ce faceți câteva fotografii.",
+            "en": "Marvel at the rustic charm and serene ambiance of this quaint stone chapel surrounded by lush greenery, and lean your bike against the sturdy stone wall while you snap a few memorable photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Sebastian Chapel",
+            "hu": "Saint Sebastian Chapel",
+            "ro": "Saint Sebastian Chapel",
+            "en": "Saint Sebastian Chapel"
+          },
+          "coords": [
+            -4.050645,
+            48.135608
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die markanten architektonischen Details dieses abgelegenen Heiligtums in der bretonischen Landschaft und füllen Sie Ihre Wasserflasche am nahegelegenen Brunnen auf, bevor Sie weiterfahren.",
+            "hu": "Vizsgálja meg ennek a breton tájban megbúvó, kissé eldugott szentélynek a feltűnő építészeti részleteit, és mielőtt továbbtekerne, mindenképpen töltse fel vizeskulacsát a közeli közkútnál.",
+            "ro": "Investigați detaliile arhitecturale ale acestui sanctuar ușor retras, ascuns în peisajul breton, și asigurați-vă că reumpleți sticla cu apă la fântâna publică din apropiere înainte de a pedala mai departe.",
+            "en": "Investigate the striking architectural details of this slightly secluded sanctuary hidden in the Breton landscape, and be sure to refill your water bottle at the nearby public fountain before pedaling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de la Chapelle de Landiviguen",
+            "hu": "Menhir de la Chapelle de Landiviguen",
+            "ro": "Menhir de la Chapelle de Landiviguen",
+            "en": "Menhir de la Chapelle de Landiviguen"
+          },
+          "coords": [
+            -3.984885,
+            48.12538
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Stehen Sie ehrfürchtig vor diesem alten megalithischen stehenden Stein, der prähistorische Geheimnisse widerspiegelt, und versuchen Sie am späten Vormittag zu kommen, wenn die Sonne markante Schatten wirft.",
+            "hu": "Álljon áhítattal ezelőtt az ősi megalitikus állókő előtt, amely történelem előtti titkokat idéz, és próbáljon késő délelőtt érkezni, amikor a nap feltűnő árnyékokat vet a viharvert felszínre.",
+            "ro": "Stați cu admirație în fața acestei pietre antice megalitice care rezonează cu mistere preistorice și încercați să vizitați la sfârșitul dimineții când soarele aruncă umbre izbitoare pe suprafața sa.",
+            "en": "Stand in awe before this ancient megalithic standing stone that echoes prehistoric mysteries, and try to visit in the late morning when the sun casts striking shadows across its weathered surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Boissière",
+            "hu": "Château de la Boissière",
+            "ro": "Château de la Boissière",
+            "en": "Château de la Boissière"
+          },
+          "coords": [
+            -3.989883,
+            48.092938
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die beeindruckenden Anlagen dieses historischen Schlosses, das Geschichten des bretonischen Adels flüstert, und tragen Sie bequeme Schuhe, da die Wege des Anwesens uneben sind.",
+            "hu": "Sétáljon végig a történelmi kastély lenyűgöző parkjában, amely a breton nemesség történeteit suttogja, és viseljen kényelmes cipőt, mivel a birtokot övező ösvények meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestui castel istoric care șoptește poveștile nobilimii bretone și purtați încălțăminte confortabilă, deoarece potecile moșiei pot fi destul de denivelate.",
+            "en": "Wander around the impressive grounds of this historic château that whispers tales of Breton nobility, and wear comfortable shoes as the surrounding estate paths can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum an der historischen Kirche und lassen Sie die morgendliche Atmosphäre auf sich wirken. Treten Sie in die Pedale und entdecken Sie malerische kleine Kapellen, die verborgen im Grünen liegen. Gegen Mittag erreichen Sie einen alten Menhir, der von der prähistorischen Vergangenheit der Region zeugt. Am Nachmittag bietet das imposante Schloss eine perfekte Kulisse für eine wohlverdiente Pause am Ende Ihrer ausgiebigen Entdeckungstour.",
+        "hu": "Kezdje kerékpártúráját a központi templomnál, és szívja magába a reggeli város hangulatát. Tekerjen tovább a buja növényzettel övezett, festői kőkápolnákhoz, amelyek békét árasztanak. Dél körül egy lenyűgöző megalitikus emlékoszlophoz ér, amely a térség ősi történelméről mesél. A délutánt a történelmi kastély hatalmas birtokán zárja, ahol megpihenhet egy hosszú, tartalmas kerékpáros túra végén.",
+        "ro": "Începeți turul cu bicicleta în centru, bucurându-vă de atmosfera matinală la biserica istorică. Pedalați apoi spre capelele pitorești din piatră ascunse în peisajul verde, care oferă o liniște deplină. La prânz, un menhir antic dezvăluie misterele preistorice ale regiunii. După-amiaza, opriți-vă la castelul istoric pentru o pauză binemeritată pe domeniul său vast, încheind astfel o zi plină de explorare.",
+        "en": "Kick off your cycling tour in the town center, soaking in the morning atmosphere at the historic church. Pedal outwards to discover quaint stone chapels tucked away in the lush, green Breton landscape. Around midday, an ancient menhir reveals the prehistoric mysteries of the region. Spend your afternoon wandering the vast grounds of the historic château, a perfect place to rest and reflect after a long ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 23.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.999602,
+            48.102355
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser zentralen Kirche, ein bleibendes Symbol für das Erbe von Briec, und kommen Sie früh, um das morgendliche Licht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely Briec örökségének tartós szimbóluma, és érkezzen korán, hogy elcsípje az ólomüveg ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale, un simbol de durată al patrimoniului din Briec, și sosiți devreme pentru a prinde lumina dimineții prin vitralii.",
+            "en": "Admire the striking gothic architecture of this central church, an enduring emblem of Briec's heritage, and arrive early to catch the morning light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Meilh Coat Bihan",
+            "hu": "Meilh Coat Bihan",
+            "ro": "Meilh Coat Bihan",
+            "en": "Meilh Coat Bihan"
+          },
+          "coords": [
+            -3.969211,
+            48.102183
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser charmanten historischen Mühle, die die landwirtschaftlichen Wurzeln der Gegend widerspiegelt, und bringen Sie ein Picknick mit, um es am plätschernden Bach zu genießen.",
+            "hu": "Fedezze fel ennek a bájos történelmi malomnak a romjait, amely a környék mezőgazdasági gyökereit tükrözi, és hozzon magával egy kis pikniket, hogy a hajdanán energiát adó patak partján elfogyassza.",
+            "ro": "Descoperiți ruinele acestei mori istorice fermecătoare care reflectă rădăcinile agricole ale zonei și aduceți un mic picnic pe care să-l savurați lângă pârâul care îi asigura cândva energia.",
+            "en": "Discover the ruins of this charming historical mill which reflects the agricultural roots of the area, and bring a small picnic to enjoy near the babbling stream that once powered it."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de la Chapelle de Landiviguen",
+            "hu": "Menhir de la Chapelle de Landiviguen",
+            "ro": "Menhir de la Chapelle de Landiviguen",
+            "en": "Menhir de la Chapelle de Landiviguen"
+          },
+          "coords": [
+            -3.984885,
+            48.12538
+          ],
+          "category": "historical",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Stehen Sie ehrfürchtig vor diesem alten megalithischen stehenden Stein, der prähistorische Geheimnisse widerspiegelt, und versuchen Sie am späten Vormittag zu kommen, wenn die Sonne markante Schatten wirft.",
+            "hu": "Álljon áhítattal ezelőtt az ősi megalitikus állókő előtt, amely történelem előtti titkokat idéz, és próbáljon késő délelőtt érkezni, amikor a nap feltűnő árnyékokat vet a viharvert felszínre.",
+            "ro": "Stați cu admirație în fața acestei pietre antice megalitice care rezonează cu mistere preistorice și încercați să vizitați la sfârșitul dimineții când soarele aruncă umbre izbitoare pe suprafața sa.",
+            "en": "Stand in awe before this ancient megalithic standing stone that echoes prehistoric mysteries, and try to visit in the late morning when the sun casts striking shadows across its weathered surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Sebastian Chapel",
+            "hu": "Saint Sebastian Chapel",
+            "ro": "Saint Sebastian Chapel",
+            "en": "Saint Sebastian Chapel"
+          },
+          "coords": [
+            -4.050645,
+            48.135608
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die markanten architektonischen Details dieses abgelegenen Heiligtums in der bretonischen Landschaft und füllen Sie Ihre Wasserflasche am nahegelegenen Brunnen auf, bevor Sie weiterfahren.",
+            "hu": "Vizsgálja meg ennek a breton tájban megbúvó, kissé eldugott szentélynek a feltűnő építészeti részleteit, és mielőtt továbbtekerne, mindenképpen töltse fel vizeskulacsát a közeli közkútnál.",
+            "ro": "Investigați detaliile arhitecturale ale acestui sanctuar ușor retras, ascuns în peisajul breton, și asigurați-vă că reumpleți sticla cu apă la fântâna publică din apropiere înainte de a pedala mai departe.",
+            "en": "Investigate the striking architectural details of this slightly secluded sanctuary hidden in the Breton landscape, and be sure to refill your water bottle at the nearby public fountain before pedaling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Magdeleine",
+            "hu": "Chapelle de la Magdeleine",
+            "ro": "Chapelle de la Magdeleine",
+            "en": "Chapelle de la Magdeleine"
+          },
+          "coords": [
+            -4.030082,
+            48.110578
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den rustikalen Charme und die ruhige Atmosphäre dieser malerischen Steinkapelle inmitten von üppigem Grün und lehnen Sie Ihr Fahrrad an die Mauer, während Sie Fotos machen.",
+            "hu": "Csodálja meg a buja növényzettel körülvett, festői kőkápolna rusztikus báját és nyugodt légkörét, és támassza kerékpárját az erős kőfalnak, amíg készít néhány emlékezetes fényképet.",
+            "ro": "Minunați-vă de farmecul rustic și ambianța senină a acestei capele pitorești din piatră înconjurată de verdeață, și sprijiniți bicicleta de zidul de piatră în timp ce faceți câteva fotografii.",
+            "en": "Marvel at the rustic charm and serene ambiance of this quaint stone chapel surrounded by lush greenery, and lean your bike against the sturdy stone wall while you snap a few memorable photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Cecilia Chapel",
+            "hu": "Saint Cecilia Chapel",
+            "ro": "Saint Cecilia Chapel",
+            "en": "Saint Cecilia Chapel"
+          },
+          "coords": [
+            -4.039464,
+            48.055428
+          ],
+          "category": "religious",
+          "arrive_at": "14:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Spiritualität dieser wunderschön restaurierten ländlichen Kapelle abseits des Stadtzentrums und nutzen Sie den praktischen kleinen Kiesparkplatz direkt davor.",
+            "hu": "Tapasztalja meg ennek a városközponttól távol eső, gyönyörűen felújított vidéki kápolnának a békés spiritualitását, és használja ki a közvetlenül előtte lévő kényelmes kavicsos parkolót.",
+            "ro": "Experimentați spiritualitatea pașnică a acestei capele rurale frumos restaurate, situată departe de centrul orașului, și profitați de mica parcare convenabilă din pietriș chiar în față.",
+            "en": "Experience the peaceful spirituality of this beautifully restored rural chapel situated away from the town center, and take advantage of the convenient small gravel parking area right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Eligius Chapel",
+            "hu": "Saint Eligius Chapel",
+            "ro": "Saint Eligius Chapel",
+            "en": "Saint Eligius Chapel"
+          },
+          "coords": [
+            -3.993393,
+            48.039112
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an dieser malerischen mittelalterlichen Kapelle inmitten sanfter Hügel und machen Sie einen kurzen Spaziergang auf dem angrenzenden Feldweg, um den Panoramablick zu genießen.",
+            "hu": "Zárja autós túráját ennél a szelíd dombok között megbúvó festői középkori kápolnánál, és tegyen egy rövid sétát a szomszédos földúton, hogy élvezze a környező vidékre nyíló panorámát.",
+            "ro": "Încheiați turul cu mașina la această capelă medievală pitorească cuibărită printre dealuri blânde și faceți o scurtă plimbare pe poteca alăturată pentru a vă bucura de vederi panoramice ale peisajului.",
+            "en": "Conclude your driving tour at this picturesque medieval chapel nestled among gentle hills, and take a short walk along the adjacent dirt path to enjoy panoramic views of the surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im charmanten Stadtzentrum von Briec und genießen Sie die zentrale Architektur. Fahren Sie dann aufs Land, um alte historische Ruinen und geheimnisvolle stehende Steine zu besichtigen. Am Nachmittag führt Sie die Route zu mehreren abgelegenen und friedlichen Kapellen, die die ländliche Spiritualität der Bretagne widerspiegeln. Beenden Sie Ihren Ausflug bei einer wunderschön gelegenen mittelalterlichen Kapelle mit weitem Blick über die sanften Hügel.",
+        "hu": "Kezdje az utazást Briec hangulatos városközpontjában, és fedezze fel a helyi építészet remekeit. Ezt követően vezessen vidékre, ahol ősi malomromok és rejtélyes állókövek várják. A délután folyamán több eldugott, békés kápolnát is meglátogathat, amelyek hűen tükrözik a breton spiritualitást. Napját egy festői középkori kápolnánál zárhatja, ahonnan csodálatos panoráma nyílik a környező dombokra.",
+        "ro": "Începeți traseul cu mașina în centrul fermecător al orașului Briec, admirând arhitectura centrală. Apoi, conduceți spre zonele rurale pentru a explora ruine istorice și pietre megalitice misterioase. După-amiaza vă poartă spre mai multe capele izolate și liniștite, reflectând moștenirea spirituală a Bretaniei. Încheiați călătoria la o capelă medievală pitorească, care oferă priveliști frumoase asupra dealurilor din jur.",
+        "en": "Start your scenic drive in the charming center of Briec, taking in the central architecture. Head out into the countryside to explore old mill ruins and mysterious ancient standing stones. As the afternoon unfolds, navigate between several secluded, peaceful chapels that showcase the region's rural spiritual heritage. Conclude your journey at a picturesque medieval chapel offering lovely views across the rolling hills."
+      }
+    }
+  }
+}

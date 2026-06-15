@@ -1,0 +1,566 @@
+{
+  "city_id": "indonesia-airmanis-cities-v2",
+  "anchor": {
+    "name": "Airmanis",
+    "coords": [
+      100.35985,
+      -0.98572
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Padong Chinatown",
+            "hu": "Padong Chinatown",
+            "ro": "Padong Chinatown",
+            "en": "Padong Chinatown"
+          },
+          "coords": [
+            100.36296,
+            -0.961664
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Straßen voller historischer Geschäftshäuser, um die kulturelle Verschmelzung Padangs zu erleben, und probieren Sie unbedingt das lokale Streetfood, bevor es zu voll wird.",
+            "hu": "Fedezze fel a történelmi kereskedőházakkal teli nyüzsgő utcákat, hogy átélje Padang kulturális fúzióját, és mindenképpen kóstolja meg a helyi utcai ételeket kora reggel, mielőtt túl nagy lenne a tömeg.",
+            "ro": "Explorați străzile pline de viață cu case comerciale istorice pentru a experimenta fuziunea culturală din Padang, asigurându-vă că gustați mâncarea stradală locală dimineața devreme, înainte de aglomerație.",
+            "en": "Explore the vibrant streets filled with historic shophouses to experience the cultural fusion of Padang, making sure to try the local street food early in the morning before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "View Towards The River",
+            "hu": "View Towards The River",
+            "ro": "View Towards The River",
+            "en": "View Towards The River"
+          },
+          "coords": [
+            100.361378,
+            -0.963827
+          ],
+          "category": "natural",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ruhigen Flusslauf des Batang Arau inmitten grüner Hügel und machen Sie von den erhöhten Aussichtspunkten aus perfekte Fotos der traditionellen Holzboote, die am Ufer festgemacht haben.",
+            "hu": "Csodálja meg a zöldellő dombokkal körülvett Batang Arau folyó nyugodt folyását, és készítsen tökéletes fotókat a parton horgonyzó hagyományos fahajókról a magasabban fekvő kilátópontokról.",
+            "ro": "Admirați curgerea liniștită a râului Batang Arau, înconjurat de dealuri verzi, surprinzând fotografii perfecte cu bărcile tradiționale din lemn ancorate de-a lungul malurilor de la punctele de belvedere.",
+            "en": "Admire the tranquil flow of the Batang Arau river surrounded by lush green hills, capturing perfect photos of the traditional wooden boats moored along the banks from the elevated vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Siti Nurbaya Bridge",
+            "hu": "Siti Nurbaya Bridge",
+            "ro": "Siti Nurbaya Bridge",
+            "en": "Siti Nurbaya Bridge"
+          },
+          "coords": [
+            100.358962,
+            -0.965226
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese ikonische, hell erleuchtete Brücke, die nach einer lokalen literarischen Heldin benannt ist, um einen Panoramablick auf die Stadt zu genießen, und bringen Sie ein Weitwinkelobjektiv für den Sonnenuntergang mit.",
+            "hu": "Sétáljon át ezen az ikonikus, kivilágított hídon, amelyet egy híres helyi irodalmi hősnőről neveztek el, élvezve a panorámát a városra, és hozzon magával nagylátószögű objektívet a naplemente megörökítéséhez.",
+            "ro": "Traversați acest pod iconic și luminos numit după o faimoasă eroină literară locală pentru a vă bucura de vederi panoramice ale orașului, aducând un obiectiv superangular pentru a capta apusul.",
+            "en": "Walk across this iconic brightly lit bridge named after a famous local literary heroine to enjoy panoramic views of the city, bringing a wide-angle lens to capture the sunset over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Lighthouse",
+            "hu": "Padang Lighthouse",
+            "ro": "Padang Lighthouse",
+            "en": "Padang Lighthouse"
+          },
+          "coords": [
+            100.349947,
+            -0.963326
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Leuchtturms hinauf, der Seeleute seit Generationen sicher in den Hafen führt, um einen weiten Blick auf den Indischen Ozean zu werfen, und tragen Sie feste Schuhe.",
+            "hu": "Másszon fel a kikötőbe tengerészeket generációk óta biztonságosan bevezető történelmi világítótorony közelébe, hogy lenyűgöző kilátást kapjon az Indiai-óceánra, és viseljen kényelmes, masszív cipőt.",
+            "ro": "Urcați lângă acest far istoric de coastă care ghidează în siguranță marinarii în port de generații pentru a obține o vedere amplă asupra Oceanului Indian, purtând încălțăminte robustă pentru traseu.",
+            "en": "Climb up near this historic coastal beacon guiding sailors safely into port for generations to get a sprawling view of the Indian Ocean, wearing sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Papan Nama Padang",
+            "hu": "Papan Nama Padang",
+            "ro": "Papan Nama Padang",
+            "en": "Papan Nama Padang"
+          },
+          "coords": [
+            100.348963,
+            -0.965029
+          ],
+          "category": "landmark",
+          "arrive_at": "11:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Selfie vor dem riesigen Stadtnamensschild auf dem Berg Padang, um Ihren Besuch offiziell zu markieren, und kommen Sie früh, um ein klares Bild ohne andere Touristen zu erhalten.",
+            "hu": "Készítsen egy emlékezetes szelfit a Padang-hegyen magasodó hatalmas városnévtábla előtt, hogy hivatalosan is megörökítse látogatását, és érkezzen korán, hogy elkerülje a többi turistát a háttérben.",
+            "ro": "Faceți un selfie memorabil în fața semnului gigantic cu numele orașului situat pe Muntele Padang pentru a vă marca oficial vizita, ajungând devreme pentru a obține o fotografie clară fără alți turiști.",
+            "en": "Take a memorable selfie in front of the giant city name sign perched on Mount Padang to officially mark your visit, arriving early to get a clear shot without other tourists photobombing your background."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Air Manis",
+            "hu": "Pantai Air Manis",
+            "ro": "Pantai Air Manis",
+            "en": "Pantai Air Manis"
+          },
+          "coords": [
+            100.361437,
+            -0.992053
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 51,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen braunen Sandstränden dieses beliebten Küstenabschnitts, der sich perfekt zum Schwimmen eignet, und mieten Sie ein ATV für eine aufregende Fahrt entlang der Küste bei Ebbe.",
+            "hu": "Pihenjen ennek a népszerű tengerparti szakasznak a puha barna homokján, amely tökéletes a fürdőzésre, és béreljen egy quadot egy izgalmas utazáshoz a part mentén, amikor a vízállás kellően alacsony.",
+            "ro": "Relaxați-vă pe nisipurile brune și fine ale acestei întinderi de coastă perfecte pentru înot, închiriind un ATV pentru o plimbare antrenantă de-a lungul țărmului atunci când marea se retrage.",
+            "en": "Relax on the soft brown sands of this popular coastal stretch perfect for unwinding and swimming, renting an ATV for an exhilarating ride along the shoreline when the tide is comfortably low."
+          }
+        },
+        {
+          "name": {
+            "de": "Batu Malin Kundang",
+            "hu": "Batu Malin Kundang",
+            "ro": "Batu Malin Kundang",
+            "en": "Batu Malin Kundang"
+          },
+          "coords": [
+            100.364114,
+            -0.994342
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die faszinierende Felsformation, die der Legende nach ein verfluchter, versteinerter Sohn ist, und besuchen Sie sie bei Ebbe, um die feinen Details der sich niederwerfenden Figur zu sehen.",
+            "hu": "Vizsgálja meg a lenyűgöző sziklaalakzatot, amely a helyi legenda szerint egy kővé dermedt elátkozott fiú, és látogasson el apálykor, hogy tisztán láthassa a leboruló alak aprólékos részleteit.",
+            "ro": "Inspectați fascinanta formațiune stâncoasă despre care legenda locală susține că este un fiu blestemat transformat în piatră, vizitând locul la reflux pentru a vedea clar detaliile figurii prosternate.",
+            "en": "Inspect the fascinating rock formation that local legend claims is a cursed unfilial son turned to stone, visiting during low tide to see the intricate details of the prostrating figure clearly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der lebhaften Energie von Chinatown und führt zum ruhigen Flussufer. Mittags überqueren Sie die ikonische Brücke zu Küstenaussichtspunkten und dem großen Stadtschild. Nachmittags belohnt Sie ein längerer Spaziergang mit dem Sand von Air Manis. Der Abend klingt rund um den mythischen Stein von Malin Kundang mit einer Brise aus.",
+        "hu": "A reggel a helyi kínai negyed lüktető energiájával indul, majd a csendes folyópart felé kanyarodik. Délben az ikonikus hídon áthaladva lenyűgöző tengerparti kilátópontok várnak. Délután egy hosszabb séta jutalma Air Manis finom homokja. Az este a tengeri szellő kíséretében Malin Kundang mitikus sziklájánál éri.",
+        "ro": "Dimineața începe cu energia vibrantă a cartierului chinezesc, îndreptându-se spre malul liniștit al râului. La prânz traversați podul iconic către punctele de belvedere și semnul grandios al orașului. După-amiaza, o plimbare mai lungă vă răsplătește cu nisipurile din Air Manis. Seara se așterne în jurul pietrei mitice a lui Malin Kundang.",
+        "en": "Morning starts with the vibrant energy of the local Chinatown, weaving toward the calm riverfront. Midday brings you across the iconic bridge to coastal viewpoints and the grand city sign. In the afternoon, a longer walk rewards you with the soft sands of Air Manis. Evening settles around the mythical stone of Malin Kundang with a coastal breeze."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 8.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Papan Nama Padang",
+            "hu": "Papan Nama Padang",
+            "ro": "Papan Nama Padang",
+            "en": "Papan Nama Padang"
+          },
+          "coords": [
+            100.348963,
+            -0.965029
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Selfie vor dem riesigen Stadtnamensschild auf dem Berg Padang, um Ihren Besuch offiziell zu markieren, und kommen Sie früh, um ein klares Bild ohne andere Touristen zu erhalten.",
+            "hu": "Készítsen egy emlékezetes szelfit a Padang-hegyen magasodó hatalmas városnévtábla előtt, hogy hivatalosan is megörökítse látogatását, és érkezzen korán, hogy elkerülje a többi turistát a háttérben.",
+            "ro": "Faceți un selfie memorabil în fața semnului gigantic cu numele orașului situat pe Muntele Padang pentru a vă marca oficial vizita, ajungând devreme pentru a obține o fotografie clară fără alți turiști.",
+            "en": "Take a memorable selfie in front of the giant city name sign perched on Mount Padang to officially mark your visit, arriving early to get a clear shot without other tourists photobombing your background."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Lighthouse",
+            "hu": "Padang Lighthouse",
+            "ro": "Padang Lighthouse",
+            "en": "Padang Lighthouse"
+          },
+          "coords": [
+            100.349947,
+            -0.963326
+          ],
+          "category": "landmark",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Leuchtturms hinauf, der Seeleute seit Generationen sicher in den Hafen führt, um einen weiten Blick auf den Indischen Ozean zu werfen, und tragen Sie feste Schuhe.",
+            "hu": "Másszon fel a kikötőbe tengerészeket generációk óta biztonságosan bevezető történelmi világítótorony közelébe, hogy lenyűgöző kilátást kapjon az Indiai-óceánra, és viseljen kényelmes, masszív cipőt.",
+            "ro": "Urcați lângă acest far istoric de coastă care ghidează în siguranță marinarii în port de generații pentru a obține o vedere amplă asupra Oceanului Indian, purtând încălțăminte robustă pentru traseu.",
+            "en": "Climb up near this historic coastal beacon guiding sailors safely into port for generations to get a sprawling view of the Indian Ocean, wearing sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Siti Nurbaya Bridge",
+            "hu": "Siti Nurbaya Bridge",
+            "ro": "Siti Nurbaya Bridge",
+            "en": "Siti Nurbaya Bridge"
+          },
+          "coords": [
+            100.358962,
+            -0.965226
+          ],
+          "category": "landmark",
+          "arrive_at": "10:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese ikonische, hell erleuchtete Brücke, die nach einer lokalen literarischen Heldin benannt ist, um einen Panoramablick auf die Stadt zu genießen, und bringen Sie ein Weitwinkelobjektiv für den Sonnenuntergang mit.",
+            "hu": "Sétáljon át ezen az ikonikus, kivilágított hídon, amelyet egy híres helyi irodalmi hősnőről neveztek el, élvezve a panorámát a városra, és hozzon magával nagylátószögű objektívet a naplemente megörökítéséhez.",
+            "ro": "Traversați acest pod iconic și luminos numit după o faimoasă eroină literară locală pentru a vă bucura de vederi panoramice ale orașului, aducând un obiectiv superangular pentru a capta apusul.",
+            "en": "Walk across this iconic brightly lit bridge named after a famous local literary heroine to enjoy panoramic views of the city, bringing a wide-angle lens to capture the sunset over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "View Towards The River",
+            "hu": "View Towards The River",
+            "ro": "View Towards The River",
+            "en": "View Towards The River"
+          },
+          "coords": [
+            100.361378,
+            -0.963827
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ruhigen Flusslauf des Batang Arau inmitten grüner Hügel und machen Sie von den erhöhten Aussichtspunkten aus perfekte Fotos der traditionellen Holzboote, die am Ufer festgemacht haben.",
+            "hu": "Csodálja meg a zöldellő dombokkal körülvett Batang Arau folyó nyugodt folyását, és készítsen tökéletes fotókat a parton horgonyzó hagyományos fahajókról a magasabban fekvő kilátópontokról.",
+            "ro": "Admirați curgerea liniștită a râului Batang Arau, înconjurat de dealuri verzi, surprinzând fotografii perfecte cu bărcile tradiționale din lemn ancorate de-a lungul malurilor de la punctele de belvedere.",
+            "en": "Admire the tranquil flow of the Batang Arau river surrounded by lush green hills, capturing perfect photos of the traditional wooden boats moored along the banks from the elevated vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Padong Chinatown",
+            "hu": "Padong Chinatown",
+            "ro": "Padong Chinatown",
+            "en": "Padong Chinatown"
+          },
+          "coords": [
+            100.36296,
+            -0.961664
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Straßen voller historischer Geschäftshäuser, um die kulturelle Verschmelzung Padangs zu erleben, und probieren Sie unbedingt das lokale Streetfood, bevor es zu voll wird.",
+            "hu": "Fedezze fel a történelmi kereskedőházakkal teli nyüzsgő utcákat, hogy átélje Padang kulturális fúzióját, és mindenképpen kóstolja meg a helyi utcai ételeket kora reggel, mielőtt túl nagy lenne a tömeg.",
+            "ro": "Explorați străzile pline de viață cu case comerciale istorice pentru a experimenta fuziunea culturală din Padang, asigurându-vă că gustați mâncarea stradală locală dimineața devreme, înainte de aglomerație.",
+            "en": "Explore the vibrant streets filled with historic shophouses to experience the cultural fusion of Padang, making sure to try the local street food early in the morning before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Air Manis",
+            "hu": "Pantai Air Manis",
+            "ro": "Pantai Air Manis",
+            "en": "Pantai Air Manis"
+          },
+          "coords": [
+            100.361437,
+            -0.992053
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen braunen Sandstränden dieses beliebten Küstenabschnitts, der sich perfekt zum Schwimmen eignet, und mieten Sie ein ATV für eine aufregende Fahrt entlang der Küste bei Ebbe.",
+            "hu": "Pihenjen ennek a népszerű tengerparti szakasznak a puha barna homokján, amely tökéletes a fürdőzésre, és béreljen egy quadot egy izgalmas utazáshoz a part mentén, amikor a vízállás kellően alacsony.",
+            "ro": "Relaxați-vă pe nisipurile brune și fine ale acestei întinderi de coastă perfecte pentru înot, închiriind un ATV pentru o plimbare antrenantă de-a lungul țărmului atunci când marea se retrage.",
+            "en": "Relax on the soft brown sands of this popular coastal stretch perfect for unwinding and swimming, renting an ATV for an exhilarating ride along the shoreline when the tide is comfortably low."
+          }
+        },
+        {
+          "name": {
+            "de": "Batu Malin Kundang",
+            "hu": "Batu Malin Kundang",
+            "ro": "Batu Malin Kundang",
+            "en": "Batu Malin Kundang"
+          },
+          "coords": [
+            100.364114,
+            -0.994342
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die faszinierende Felsformation, die der Legende nach ein verfluchter, versteinerter Sohn ist, und besuchen Sie sie bei Ebbe, um die feinen Details der sich niederwerfenden Figur zu sehen.",
+            "hu": "Vizsgálja meg a lenyűgöző sziklaalakzatot, amely a helyi legenda szerint egy kővé dermedt elátkozott fiú, és látogasson el apálykor, hogy tisztán láthassa a leboruló alak aprólékos részleteit.",
+            "ro": "Inspectați fascinanta formațiune stâncoasă despre care legenda locală susține că este un fiu blestemat transformat în piatră, vizitând locul la reflux pentru a vedea clar detaliile figurii prosternate.",
+            "en": "Inspect the fascinating rock formation that local legend claims is a cursed unfilial son turned to stone, visiting during low tide to see the intricate details of the prostrating figure clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercusuar Pulau Pisang",
+            "hu": "Mercusuar Pulau Pisang",
+            "ro": "Mercusuar Pulau Pisang",
+            "en": "Mercusuar Pulau Pisang"
+          },
+          "coords": [
+            100.337705,
+            -0.995688
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ferne Silhouette dieses historischen Leuchtturms auf einer kleinen Insel und bringen Sie ein Fernglas mit, um die koloniale Architektur am Horizont genauer zu betrachten.",
+            "hu": "Csodálja meg ennek az apró szigeten álló történelmi világítótoronynak a távoli sziluettjét, és hozzon távcsövet, hogy közelebbről is szemügyre vehesse a gyarmati korabeli építészetet a horizonton.",
+            "ro": "Admirați silueta îndepărtată a acestui far istoric situat pe o mică insulă în larg, aducând binoclu pentru o privire mai detaliată asupra arhitecturii din epoca colonială pe fundalul orizontului.",
+            "en": "Admire the distant silhouette of this historical lighthouse on a small offshore island, bringing binoculars for a closer look at the colonial-era architecture against the horizon if you can't arrange a boat trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am berühmten Stadtschild, bevor Sie zum historischen Leuchtturm radeln. Mittags radeln Sie über die Brücke und genießen die Atmosphäre in Chinatown. Der Nachmittag bietet eine malerische Fahrt zum Air Manis Strand. Der Abend lässt die Legenden von Malin Kundang und fernen Inselleuchttürmen lebendig werden.",
+        "hu": "Kezdje a kerékpározást a híres városnévtáblánál, mielőtt feltekerne a történelmi világítótoronyhoz. A delet az ikonikus hídon és a kínai negyed nyüzsgő atmoszférájában tölti. A délután festői tekerést kínál az Air Manis strandjához. Az este életre kelti Malin Kundang legendáit és a távoli sziget világítótornyát.",
+        "ro": "Începeți plimbarea cu bicicleta la faimosul semn al orașului înainte de a pedala spre farul istoric. Prânzul este petrecut traversând podul și absorbind atmosfera plină de viață din cartierul chinezesc. După-amiaza oferă o cursă pitorească spre plaja Air Manis. Seara aduce la viață legendele lui Malin Kundang.",
+        "en": "Kick off your ride at the famous city sign before pedaling up to the historic lighthouse. Midday is spent cycling across the Siti Nurbaya Bridge and absorbing the lively atmosphere of Chinatown. The afternoon offers a scenic ride down to Air Manis beach. Evening brings the legends of Malin Kundang and distant island lighthouses alive."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Padong Chinatown",
+            "hu": "Padong Chinatown",
+            "ro": "Padong Chinatown",
+            "en": "Padong Chinatown"
+          },
+          "coords": [
+            100.36296,
+            -0.961664
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Straßen voller historischer Geschäftshäuser, um die kulturelle Verschmelzung Padangs zu erleben, und probieren Sie unbedingt das lokale Streetfood, bevor es zu voll wird.",
+            "hu": "Fedezze fel a történelmi kereskedőházakkal teli nyüzsgő utcákat, hogy átélje Padang kulturális fúzióját, és mindenképpen kóstolja meg a helyi utcai ételeket kora reggel, mielőtt túl nagy lenne a tömeg.",
+            "ro": "Explorați străzile pline de viață cu case comerciale istorice pentru a experimenta fuziunea culturală din Padang, asigurându-vă că gustați mâncarea stradală locală dimineața devreme, înainte de aglomerație.",
+            "en": "Explore the vibrant streets filled with historic shophouses to experience the cultural fusion of Padang, making sure to try the local street food early in the morning before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "View Towards The River",
+            "hu": "View Towards The River",
+            "ro": "View Towards The River",
+            "en": "View Towards The River"
+          },
+          "coords": [
+            100.361378,
+            -0.963827
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ruhigen Flusslauf des Batang Arau inmitten grüner Hügel und machen Sie von den erhöhten Aussichtspunkten aus perfekte Fotos der traditionellen Holzboote, die am Ufer festgemacht haben.",
+            "hu": "Csodálja meg a zöldellő dombokkal körülvett Batang Arau folyó nyugodt folyását, és készítsen tökéletes fotókat a parton horgonyzó hagyományos fahajókról a magasabban fekvő kilátópontokról.",
+            "ro": "Admirați curgerea liniștită a râului Batang Arau, înconjurat de dealuri verzi, surprinzând fotografii perfecte cu bărcile tradiționale din lemn ancorate de-a lungul malurilor de la punctele de belvedere.",
+            "en": "Admire the tranquil flow of the Batang Arau river surrounded by lush green hills, capturing perfect photos of the traditional wooden boats moored along the banks from the elevated vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Siti Nurbaya Bridge",
+            "hu": "Siti Nurbaya Bridge",
+            "ro": "Siti Nurbaya Bridge",
+            "en": "Siti Nurbaya Bridge"
+          },
+          "coords": [
+            100.358962,
+            -0.965226
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese ikonische, hell erleuchtete Brücke, die nach einer lokalen literarischen Heldin benannt ist, um einen Panoramablick auf die Stadt zu genießen, und bringen Sie ein Weitwinkelobjektiv für den Sonnenuntergang mit.",
+            "hu": "Sétáljon át ezen az ikonikus, kivilágított hídon, amelyet egy híres helyi irodalmi hősnőről neveztek el, élvezve a panorámát a városra, és hozzon magával nagylátószögű objektívet a naplemente megörökítéséhez.",
+            "ro": "Traversați acest pod iconic și luminos numit după o faimoasă eroină literară locală pentru a vă bucura de vederi panoramice ale orașului, aducând un obiectiv superangular pentru a capta apusul.",
+            "en": "Walk across this iconic brightly lit bridge named after a famous local literary heroine to enjoy panoramic views of the city, bringing a wide-angle lens to capture the sunset over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Papan Nama Padang",
+            "hu": "Papan Nama Padang",
+            "ro": "Papan Nama Padang",
+            "en": "Papan Nama Padang"
+          },
+          "coords": [
+            100.348963,
+            -0.965029
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Selfie vor dem riesigen Stadtnamensschild auf dem Berg Padang, um Ihren Besuch offiziell zu markieren, und kommen Sie früh, um ein klares Bild ohne andere Touristen zu erhalten.",
+            "hu": "Készítsen egy emlékezetes szelfit a Padang-hegyen magasodó hatalmas városnévtábla előtt, hogy hivatalosan is megörökítse látogatását, és érkezzen korán, hogy elkerülje a többi turistát a háttérben.",
+            "ro": "Faceți un selfie memorabil în fața semnului gigantic cu numele orașului situat pe Muntele Padang pentru a vă marca oficial vizita, ajungând devreme pentru a obține o fotografie clară fără alți turiști.",
+            "en": "Take a memorable selfie in front of the giant city name sign perched on Mount Padang to officially mark your visit, arriving early to get a clear shot without other tourists photobombing your background."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Lighthouse",
+            "hu": "Padang Lighthouse",
+            "ro": "Padang Lighthouse",
+            "en": "Padang Lighthouse"
+          },
+          "coords": [
+            100.349947,
+            -0.963326
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Leuchtturms hinauf, der Seeleute seit Generationen sicher in den Hafen führt, um einen weiten Blick auf den Indischen Ozean zu werfen, und tragen Sie feste Schuhe.",
+            "hu": "Másszon fel a kikötőbe tengerészeket generációk óta biztonságosan bevezető történelmi világítótorony közelébe, hogy lenyűgöző kilátást kapjon az Indiai-óceánra, és viseljen kényelmes, masszív cipőt.",
+            "ro": "Urcați lângă acest far istoric de coastă care ghidează în siguranță marinarii în port de generații pentru a obține o vedere amplă asupra Oceanului Indian, purtând încălțăminte robustă pentru traseu.",
+            "en": "Climb up near this historic coastal beacon guiding sailors safely into port for generations to get a sprawling view of the Indian Ocean, wearing sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Air Manis",
+            "hu": "Pantai Air Manis",
+            "ro": "Pantai Air Manis",
+            "en": "Pantai Air Manis"
+          },
+          "coords": [
+            100.361437,
+            -0.992053
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen braunen Sandstränden dieses beliebten Küstenabschnitts, der sich perfekt zum Schwimmen eignet, und mieten Sie ein ATV für eine aufregende Fahrt entlang der Küste bei Ebbe.",
+            "hu": "Pihenjen ennek a népszerű tengerparti szakasznak a puha barna homokján, amely tökéletes a fürdőzésre, és béreljen egy quadot egy izgalmas utazáshoz a part mentén, amikor a vízállás kellően alacsony.",
+            "ro": "Relaxați-vă pe nisipurile brune și fine ale acestei întinderi de coastă perfecte pentru înot, închiriind un ATV pentru o plimbare antrenantă de-a lungul țărmului atunci când marea se retrage.",
+            "en": "Relax on the soft brown sands of this popular coastal stretch perfect for unwinding and swimming, renting an ATV for an exhilarating ride along the shoreline when the tide is comfortably low."
+          }
+        },
+        {
+          "name": {
+            "de": "Batu Malin Kundang",
+            "hu": "Batu Malin Kundang",
+            "ro": "Batu Malin Kundang",
+            "en": "Batu Malin Kundang"
+          },
+          "coords": [
+            100.364114,
+            -0.994342
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die faszinierende Felsformation, die der Legende nach ein verfluchter, versteinerter Sohn ist, und besuchen Sie sie bei Ebbe, um die feinen Details der sich niederwerfenden Figur zu sehen.",
+            "hu": "Vizsgálja meg a lenyűgöző sziklaalakzatot, amely a helyi legenda szerint egy kővé dermedt elátkozott fiú, és látogasson el apálykor, hogy tisztán láthassa a leboruló alak aprólékos részleteit.",
+            "ro": "Inspectați fascinanta formațiune stâncoasă despre care legenda locală susține că este un fiu blestemat transformat în piatră, vizitând locul la reflux pentru a vedea clar detaliile figurii prosternate.",
+            "en": "Inspect the fascinating rock formation that local legend claims is a cursed unfilial son turned to stone, visiting during low tide to see the intricate details of the prostrating figure clearly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im kulturellen Herzen von Chinatown, bevor Sie den Fluss für einen Brückenblick überqueren. Mittagsstopps am Stadtschild und Leuchtturm bieten tolle Fotomotive. Der Nachmittag bietet eine reibungslose Fahrt zum weiten Air Manis Strand. Der Abend endet mit dem fesselnden lokalen Mythos der verfluchten Steinfigur.",
+        "hu": "Autóútja a kínai negyed kulturális szívében kezdődik, mielőtt átkelne a folyón a hídi panorámáért. A déli megállók a városnévtáblánál és a világítótoronynál nagyszerű fotózási lehetőségeket kínálnak. A délután sima vezetést biztosít az Air Manis strandig. Az estét az elátkozott kőalak lenyűgöző helyi mítosza zárja.",
+        "ro": "Plimbarea cu mașina începe în inima culturală a cartierului chinezesc înainte de a traversa râul pentru vederi panoramice. Opririle de la prânz la semnul orașului și la far oferă ocazii foto excelente. După-amiaza propune un drum lin spre plaja Air Manis. Seara se încheie cu mitul captivant al figurii de piatră blestemate.",
+        "en": "Your drive begins in the cultural heart of Chinatown before crossing the river for panoramic bridge views. Midday stops at the colossal city sign and lighthouse offer grand photo opportunities. The afternoon features a smooth drive down to the sprawling Air Manis beach. Evening closes with the captivating local myth of the cursed stone figure."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "padang-cities-v2",
+  "anchor": {
+    "name": "Padang",
+    "coords": [
+      100.353,
+      -0.9492
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 2.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallery Distro",
+            "hu": "Gallery Distro",
+            "ro": "Gallery Distro",
+            "en": "Gallery Distro"
+          },
+          "coords": [
+            100.357981,
+            -0.945855
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in der Gallery Distro, die die moderne Kultur Padangs einfängt; kommen Sie früh, um einzigartige Souvenirs zu ergattern.",
+            "hu": "Csodálja meg a helyi kortárs művészetet a Gallery Distro termeiben, amely Padang modern kultúráját mutatja be; érkezzen korán a legjobb egyedi ajándékokért.",
+            "ro": "Admirați arta contemporană locală și designurile creative la Gallery Distro, capturând cultura modernă; veniți devreme pentru a prinde suveniruri unice din Padang.",
+            "en": "Admire local contemporary art and creative designs at Gallery Distro, capturing modern Padang culture; come early to grab unique souvenirs before they sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Taqwa Muhammadiyah",
+            "hu": "Masjid Taqwa Muhammadiyah",
+            "ro": "Masjid Taqwa Muhammadiyah",
+            "en": "Masjid Taqwa Muhammadiyah"
+          },
+          "coords": [
+            100.359783,
+            -0.951857
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markante Architektur dieser zentralen Moschee, die das lokale islamische Erbe repräsentiert; kleiden Sie sich dezent und beachten Sie die Gebetszeiten.",
+            "hu": "Csodálja meg ennek a kiemelkedő központi mecsetnek a különleges építészetét; öltözzön visszafogottan és vegye figyelembe az imaidőket fényképezés közben.",
+            "ro": "Minunați-vă de arhitectura distinctă a acestei proeminente moschei centrale; îmbrăcați-vă decent și respectați orele de rugăciune atunci când faceți fotografii.",
+            "en": "Marvel at the distinct architecture of this prominent central mosque representing local Islamic heritage; dress modestly and respect prayer times while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Nurul Iman",
+            "hu": "Masjid Agung Nurul Iman",
+            "ro": "Masjid Agung Nurul Iman",
+            "en": "Masjid Agung Nurul Iman"
+          },
+          "coords": [
+            100.362248,
+            -0.954721
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das riesige, friedliche Innere dieser großen Moschee, einem spirituellen Anker für Padang; nutzen Sie den geräumigen Innenhof für weite Architekturfotos.",
+            "hu": "Tapasztalja meg ennek a hatalmas mecsetnek a békés belső terét, amely a város szellemi központja; használja ki a tágas udvart átfogó építészeti fotók készítéséhez.",
+            "ro": "Experimentați interiorul vast și pașnic al acestei mari moschei, o ancoră spirituală pentru Padang; folosiți curtea spațioasă pentru fotografii arhitecturale superbe.",
+            "en": "Experience the vast, peaceful interior of this grand mosque, a spiritual anchor for Padang; use the spacious courtyard for sweeping architectural photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+            "hu": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+            "ro": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+            "en": "Museum Rumah Kelahiran Bagindo Aziz Chan"
+          },
+          "coords": [
+            100.363948,
+            -0.955801
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Geburtsort von Padangs Nationalhelden, um mehr über den Unabhängigkeitskampf zu erfahren; fragen Sie den Hausmeister nach einer kurzen Führung.",
+            "hu": "Fedezze fel Padang nemzeti hősének szülőházát, és ismerje meg az indonéz függetlenségi harcot; kérjen a gondnoktól egy rövid, de annál érdekesebb vezetett túrát.",
+            "ro": "Explorați casa natală a eroului național al orașului Padang pentru a învăța despre lupta de independență; cereți custodelui un scurt și captivant tur ghidat.",
+            "en": "Explore the birthplace of Padang's national hero to learn about the Indonesian independence struggle; check with the caretaker for a brief, insightful guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Adityawarman",
+            "hu": "Museum Adityawarman",
+            "ro": "Museum Adityawarman",
+            "en": "Museum Adityawarman"
+          },
+          "coords": [
+            100.355867,
+            -0.955014
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Minangkabau-Kultur durch traditionelle Artefakte in diesem ikonischen Pavillon; konzentrieren Sie sich auf die faszinierenden Textilausstellungen.",
+            "hu": "Fedezze fel a gazdag Minangkabau kultúrát e hagyományos ívelt tetejű pavilonban; összpontosítson a lenyűgöző textíliakiállításokra a mélyebb helyi betekintésért.",
+            "ro": "Descoperiți bogata cultură Minangkabau prin artefactele tradiționale din acest pavilion iconic; concentrați-vă pe expozițiile de textile pentru o înțelegere mai profundă.",
+            "en": "Discover the rich Minangkabau culture through traditional artifacts inside this iconic curved-roof pavilion; focus on the textile exhibits for deeper local insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Taman Budaya Sumatera Barat",
+            "hu": "Galeri Taman Budaya Sumatera Barat",
+            "ro": "Galeri Taman Budaya Sumatera Barat",
+            "en": "Galeri Taman Budaya Sumatera Barat"
+          },
+          "coords": [
+            100.354908,
+            -0.954468
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturzentrum in die darstellenden und bildenden Künste Westsumatras ein; prüfen Sie das schwarze Brett auf spontane Tanzproben am Nachmittag.",
+            "hu": "Merüljön el Nyugat-Szumátra előadó- és képzőművészetében ebben a kulturális központban; ellenőrizze a hirdetőtáblát az esetleges spontán délutáni táncpróbákért.",
+            "ro": "Cufundați-vă în artele spectacolului și artele plastice din Sumatra de Vest la acest centru cultural; verificați panoul informativ pentru repetiții spontane de dans.",
+            "en": "Immerse yourself in West Sumatran performing arts and fine arts at this cultural hub; check the venue's notice board for any spontaneous afternoon dance rehearsals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag im kreativen Herzen Padangs und tauchen Sie in der Gallery Distro in zeitgenössische Kunst ein. Bis zum Mittag haben Sie die ruhigen Räume zweier wichtiger lokaler Moscheen erkundet, die spirituelle Einblicke bieten. Am Nachmittag widmen Sie sich der faszinierenden Minangkabau-Kultur in den bekanntesten Museen der Stadt. Schließlich lassen Sie den Tag im lebendigen Taman Budaya ausklingen.",
+        "hu": "Kezdje a napot Padang kreatív szívében, a Gallery Distro kortárs művészeti kiállításával. Délig két fontos helyi mecset békés termeit is felfedezheti, spirituális betekintést nyerve. A délutánt a lenyűgöző Minangkabau kultúra megismerésének szenteljük a város legismertebb múzeumaiban. Végül a napot a nyüzsgő Taman Budaya kulturális központjában zárjuk.",
+        "ro": "Începeți ziua în inima creativă a orașului Padang cu arta contemporană la Gallery Distro. Până la prânz, veți explora sălile liniștite a două moschei locale importante, oferind o perspectivă spirituală. După-amiaza este dedicată culturii fascinante Minangkabau la cele mai cunoscute muzee din oraș. În cele din urmă, încheiați ziua în vibrantul centru cultural Taman Budaya.",
+        "en": "Start your day in Padang's creative heart, taking in contemporary art at Gallery Distro. By midday, you'll have explored the tranquil halls of two important local mosques, gaining spiritual insight. The afternoon is dedicated to discovering the fascinating Minangkabau culture at the city's most renowned museums. Finally, wrap up your cultural walking tour at the vibrant Taman Budaya."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Galeri Arsip Statis Dinas Perpustakaan und Kearsipan Kota Padang",
+            "hu": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+            "ro": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+            "en": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang"
+          },
+          "coords": [
+            100.362283,
+            -0.947824
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser Archivgalerie in historische Dokumente und alte Fotografien von Padang ein; bringen Sie eine Übersetzungs-App mit, um die Aufzeichnungen zu verstehen.",
+            "hu": "Búvárkodjon Padang történelmi dokumentumaiban és régi fényképeiben ebben az archívumban; hozzon magával fordítóalkalmazást a lenyűgöző régi iratok megértéséhez.",
+            "ro": "Explorați documentele istorice și fotografiile de epocă ale orașului Padang la această galerie; aduceți o aplicație de traducere pentru a înțelege vechile arhive.",
+            "en": "Delve into Padang's historical documents and vintage photographs at this archival gallery; bring a translation app to fully understand the fascinating old records."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya Ganting",
+            "hu": "Masjid Raya Ganting",
+            "ro": "Masjid Raya Ganting",
+            "en": "Masjid Raya Ganting"
+          },
+          "coords": [
+            100.369452,
+            -0.954525
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie Padangs älteste erhaltene Moschee, um die neoklassizistische und koloniale Architektur zu bewundern; kommen Sie außerhalb der Gebetszeiten zur Erkundung.",
+            "hu": "Látogasson el Padang legrégebbi fennmaradt mecsetébe, hogy megcsodálja neoklasszikus és gyarmati építészetét; érkezzen az imaidőkön kívül a történelmi udvar felfedezéséhez.",
+            "ro": "Vizitați cea mai veche moschee din Padang pentru a-i admira amestecul arhitectural neoclasic și colonial; sosiți în afara orelor de rugăciune pentru a explora curtea.",
+            "en": "Visit Padang's oldest surviving mosque to admire its neoclassical and colonial architectural blend; arrive outside of prayer hours to explore its historic compound."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Muhammadan",
+            "hu": "Masjid Muhammadan",
+            "ro": "Masjid Muhammadan",
+            "en": "Masjid Muhammadan"
+          },
+          "coords": [
+            100.364145,
+            -0.961492
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die grün-weiße Fassade dieser von indischen Kaufleuten gegründeten Moschee; beobachten Sie die kulturelle Fusion, die Padangs Handelsvergangenheit spiegelt.",
+            "hu": "Csodálja meg ennek az indiai kereskedők által alapított történelmi mecsetnek a zöld-fehér homlokzatát; figyelje meg a Padang kereskedelmi múltját tükröző fúziót.",
+            "ro": "Admirați fațada verde cu alb a acestei moschei istorice fondate de negustorii indieni; observați fuziunea culturală unică ce reflectă trecutul comercial al orașului.",
+            "en": "Admire the vibrant green and white facade of this historical mosque founded by Indian merchants; observe the unique cultural fusion reflecting Padang's trading past."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Bank Indonesia Padang",
+            "hu": "Museum Bank Indonesia Padang",
+            "ro": "Museum Bank Indonesia Padang",
+            "en": "Museum Bank Indonesia Padang"
+          },
+          "coords": [
+            100.358254,
+            -0.964444
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Wirtschaftsgeschichte Westsumatras in diesem wunderschön erhaltenen holländischen Bankgebäude; betrachten Sie die alten Tresormechanismen.",
+            "hu": "Ismerje meg Nyugat-Szumátra gazdaságtörténetét ebben a gyönyörűen megőrzött holland gyarmati banképületben; szánjon időt a klasszikus páncélterem megtekintésére.",
+            "ro": "Aflați despre istoria economică a Sumatrei de Vest în această bancă colonială olandeză frumos conservată; faceți-vă timp pentru a admira mecanismele clasice ale seifurilor.",
+            "en": "Learn about the economic history of West Sumatra inside this beautifully preserved Dutch colonial bank building; take time to appreciate the classic vault mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Hakim",
+            "hu": "Masjid Al-Hakim",
+            "ro": "Masjid Al-Hakim",
+            "en": "Masjid Al-Hakim"
+          },
+          "coords": [
+            100.353208,
+            -0.960519
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende, vom Taj Mahal inspirierte Architektur dieser Moschee am Padang Beach; planen Sie Ihren Besuch für den späten Nachmittag für bestes Licht.",
+            "hu": "Élvezze ennek a Tádzs Mahal ihlette tengerparti mecsetnek a lenyűgöző építészetét a Padang Beach-en; időzítse látogatását késő délutánra az aranyóra fényeinek megörökítéséhez.",
+            "ro": "Bucurați-vă de uimitoarea arhitectură inspirată de Taj Mahal a acestei moschei situate chiar pe plaja Padang; programați-vă vizita după-amiaza târziu pentru o lumină perfectă.",
+            "en": "Enjoy the stunning Taj Mahal-inspired architecture of this seaside mosque right on Padang Beach; time your visit for late afternoon to capture the golden hour glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Adityawarman",
+            "hu": "Museum Adityawarman",
+            "ro": "Museum Adityawarman",
+            "en": "Museum Adityawarman"
+          },
+          "coords": [
+            100.355867,
+            -0.955014
+          ],
+          "category": "museum",
+          "arrive_at": "14:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Minangkabau-Kultur durch traditionelle Artefakte in diesem ikonischen Pavillon; konzentrieren Sie sich auf die faszinierenden Textilausstellungen.",
+            "hu": "Fedezze fel a gazdag Minangkabau kultúrát e hagyományos ívelt tetejű pavilonban; összpontosítson a lenyűgöző textíliakiállításokra a mélyebb helyi betekintésért.",
+            "ro": "Descoperiți bogata cultură Minangkabau prin artefactele tradiționale din acest pavilion iconic; concentrați-vă pe expozițiile de textile pentru o înțelegere mai profundă.",
+            "en": "Discover the rich Minangkabau culture through traditional artifacts inside this iconic curved-roof pavilion; focus on the textile exhibits for deeper local insight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt Ihr Tag mit einem tiefen Einblick in die Geschichte von Padang im Stadtarchiv. Gegen Mittag radeln Sie durch Altstadtviertel zu historischen, von indischen Händlern gegründeten Moscheen. Der Nachmittag bringt Sie zu architektonischen Wundern an der Küste und eindrucksvollen kolonialen Bankgebäuden. Beenden Sie Ihre Tour am legendären Museum Adityawarman voller lokaler Kultur.",
+        "hu": "Kerékpáros napja Padang történelmének mélyebb megismerésével kezdődik a városi levéltárban. Dél körül az óvároson keresztül teker az indiai kereskedők által alapított történelmi mecsetekhez. A délután lenyűgöző tengerparti építészeti csodákat és gyarmati banképületeket tartogat. Zárja túráját az ikonikus Adityawarman Múzeumban, amely a helyi kultúra kincsestára.",
+        "ro": "Ziua pe bicicletă începe cu o incursiune profundă în istoria orașului Padang la arhivele orașului. În jurul prânzului, veți pedala prin cartierele vechi către moscheile istorice fondate de comercianții indieni. După-amiaza aduce minuni arhitecturale de pe coastă și impresionante bănci coloniale. Încheiați turul la iconicul Muzeu Adityawarman, plin de cultură locală.",
+        "en": "Your cycling day begins with a deep dive into Padang's history at the city archives. Around midday, you'll pedal through old town neighborhoods to historic mosques founded by Indian merchants. The afternoon brings you to stunning coastal architectural wonders and impressive colonial bank buildings. Finish your breezy ride at the iconic Museum Adityawarman, brimming with rich local culture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Raya Sumatera Barat",
+            "hu": "Masjid Raya Sumatera Barat",
+            "ro": "Masjid Raya Sumatera Barat",
+            "en": "Masjid Raya Sumatera Barat"
+          },
+          "coords": [
+            100.362552,
+            -0.924207
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese große moderne Moschee, die für ihr Minangkabau-Dach anstelle einer typischen Kuppel berühmt ist; erkunden Sie das riesige Gelände am frühen Morgen.",
+            "hu": "Álljon lenyűgözve a modern mecset előtt, amely a hagyományos kupola helyett különleges Minangkabau tetővel büszkélkedhet; a legjobb fényekért érkezzen kora reggel.",
+            "ro": "Lăsați-vă impresionați de această mare moschee modernă, faimoasă pentru acoperișul său Minangkabau; explorați terenurile vaste devreme pentru cea mai bună lumină.",
+            "en": "Stand in awe of this grand modern mosque, famed for its distinct Minangkabau roof instead of a typical dome; explore the vast grounds early for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya Andalas",
+            "hu": "Masjid Raya Andalas",
+            "ro": "Masjid Raya Andalas",
+            "en": "Masjid Raya Andalas"
+          },
+          "coords": [
+            100.381959,
+            -0.940497
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie den Gemeinschaftsgeist in dieser beeindruckenden Moschee, die für ihr detailreiches grünes Design bekannt ist; hier erleben Sie das authentische lokale Leben.",
+            "hu": "Tapasztalja meg a helyi közösség nyüzsgését ebben az impozáns, zöld dizájnjáról ismert mecsetben; kiváló alkalom az autentikus helyi élet mindennapjainak megfigyelésére.",
+            "ro": "Experimentați spiritul comunității locale la această moschee impresionantă, cunoscută pentru designul său verde complex; oferă o șansă excelentă de a vedea viața autentică.",
+            "en": "Experience the bustling local community spirit at this impressive mosque known for its intricate green design; it offers a great opportunity to witness authentic local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya Ganting",
+            "hu": "Masjid Raya Ganting",
+            "ro": "Masjid Raya Ganting",
+            "en": "Masjid Raya Ganting"
+          },
+          "coords": [
+            100.369452,
+            -0.954525
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie Padangs älteste erhaltene Moschee, um die neoklassizistische und koloniale Architektur zu bewundern; kommen Sie außerhalb der Gebetszeiten zur Erkundung.",
+            "hu": "Látogasson el Padang legrégebbi fennmaradt mecsetébe, hogy megcsodálja neoklasszikus és gyarmati építészetét; érkezzen az imaidőkön kívül a történelmi udvar felfedezéséhez.",
+            "ro": "Vizitați cea mai veche moschee din Padang pentru a-i admira amestecul arhitectural neoclasic și colonial; sosiți în afara orelor de rugăciune pentru a explora curtea.",
+            "en": "Visit Padang's oldest surviving mosque to admire its neoclassical and colonial architectural blend; arrive outside of prayer hours to explore its historic compound."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Bank Indonesia Padang",
+            "hu": "Museum Bank Indonesia Padang",
+            "ro": "Museum Bank Indonesia Padang",
+            "en": "Museum Bank Indonesia Padang"
+          },
+          "coords": [
+            100.358254,
+            -0.964444
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Wirtschaftsgeschichte Westsumatras in diesem wunderschön erhaltenen holländischen Bankgebäude; betrachten Sie die alten Tresormechanismen.",
+            "hu": "Ismerje meg Nyugat-Szumátra gazdaságtörténetét ebben a gyönyörűen megőrzött holland gyarmati banképületben; szánjon időt a klasszikus páncélterem megtekintésére.",
+            "ro": "Aflați despre istoria economică a Sumatrei de Vest în această bancă colonială olandeză frumos conservată; faceți-vă timp pentru a admira mecanismele clasice ale seifurilor.",
+            "en": "Learn about the economic history of West Sumatra inside this beautifully preserved Dutch colonial bank building; take time to appreciate the classic vault mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Hakim",
+            "hu": "Masjid Al-Hakim",
+            "ro": "Masjid Al-Hakim",
+            "en": "Masjid Al-Hakim"
+          },
+          "coords": [
+            100.353208,
+            -0.960519
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende, vom Taj Mahal inspirierte Architektur dieser Moschee am Padang Beach; planen Sie Ihren Besuch für den späten Nachmittag für bestes Licht.",
+            "hu": "Élvezze ennek a Tádzs Mahal ihlette tengerparti mecsetnek a lenyűgöző építészetét a Padang Beach-en; időzítse látogatását késő délutánra az aranyóra fényeinek megörökítéséhez.",
+            "ro": "Bucurați-vă de uimitoarea arhitectură inspirată de Taj Mahal a acestei moschei situate chiar pe plaja Padang; programați-vă vizita după-amiaza târziu pentru o lumină perfectă.",
+            "en": "Enjoy the stunning Taj Mahal-inspired architecture of this seaside mosque right on Padang Beach; time your visit for late afternoon to capture the golden hour glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Adityawarman",
+            "hu": "Museum Adityawarman",
+            "ro": "Museum Adityawarman",
+            "en": "Museum Adityawarman"
+          },
+          "coords": [
+            100.355867,
+            -0.955014
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Minangkabau-Kultur durch traditionelle Artefakte in diesem ikonischen Pavillon; konzentrieren Sie sich auf die faszinierenden Textilausstellungen.",
+            "hu": "Fedezze fel a gazdag Minangkabau kultúrát e hagyományos ívelt tetejű pavilonban; összpontosítson a lenyűgöző textíliakiállításokra a mélyebb helyi betekintésért.",
+            "ro": "Descoperiți bogata cultură Minangkabau prin artefactele tradiționale din acest pavilion iconic; concentrați-vă pe expozițiile de textile pentru o înțelegere mai profundă.",
+            "en": "Discover the rich Minangkabau culture through traditional artifacts inside this iconic curved-roof pavilion; focus on the textile exhibits for deeper local insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Taman Budaya Sumatera Barat",
+            "hu": "Galeri Taman Budaya Sumatera Barat",
+            "ro": "Galeri Taman Budaya Sumatera Barat",
+            "en": "Galeri Taman Budaya Sumatera Barat"
+          },
+          "coords": [
+            100.354908,
+            -0.954468
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturzentrum in die darstellenden und bildenden Künste Westsumatras ein; prüfen Sie das schwarze Brett auf spontane Tanzproben am Nachmittag.",
+            "hu": "Merüljön el Nyugat-Szumátra előadó- és képzőművészetében ebben a kulturális központban; ellenőrizze a hirdetőtáblát az esetleges spontán délutáni táncpróbákért.",
+            "ro": "Cufundați-vă în artele spectacolului și artele plastice din Sumatra de Vest la acest centru cultural; verificați panoul informativ pentru repetiții spontane de dans.",
+            "en": "Immerse yourself in West Sumatran performing arts and fine arts at this cultural hub; check the venue's notice board for any spontaneous afternoon dance rehearsals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt an der berühmten großen Moschee Westsumatras, einem Meisterwerk moderner Minangkabau-Architektur. Das Auto bringt Sie schnell zu weiteren architektonischen Juwelen, darunter koloniale und neoklassizistische Heiligtümer. Am Nachmittag erkunden Sie gemütlich die Kultur- und Wirtschaftsgeschichte der Region in klimatisierten Museen. Das große Finale findet im Taman Budaya statt.",
+        "hu": "Kezdje autós útját Nyugat-Szumátra híres nagymecsetjénél, amely a modern Minangkabau építészet remekműve. Az autó gyorsan elviszi Önt más építészeti gyöngyszemekhez, beleértve a gyarmati és neoklasszikus szentélyeket. Délután kényelmesen fedezze fel a régió kulturális és gazdasági történelmét a múzeumokban. A nagy finálé a vibráló Taman Budaya kulturális központban várja.",
+        "ro": "Începeți călătoria cu mașina la faimoasa Mare Moschee din Sumatra de Vest, o capodoperă a arhitecturii moderne Minangkabau. Mașina vă duce rapid la alte bijuterii arhitecturale, inclusiv sanctuare coloniale și neoclasice. După-amiaza, explorați confortabil istoria culturală și economică a regiunii în muzee răcoroase. Marele final are loc la centrul cultural Taman Budaya.",
+        "en": "Kick off your drive at the renowned Grand Mosque of West Sumatra, a masterpiece of modern Minangkabau architecture. The car quickly whisks you away to other architectural gems, including colonial and neoclassical sanctuaries. In the afternoon, comfortably explore the region's cultural and economic history in air-conditioned museums. The grand finale unfolds at the vibrant Taman Budaya hub."
+      }
+    }
+  }
+}

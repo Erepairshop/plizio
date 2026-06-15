@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-pacos-de-ferreira-cities-v2",
+  "anchor": {
+    "name": "Paços de Ferreira",
+    "coords": [
+      -8.376111,
+      41.276667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Paços de Ferreira",
+            "hu": "Câmara Municipal de Paços de Ferreira",
+            "ro": "Câmara Municipal de Paços de Ferreira",
+            "en": "Câmara Municipal de Paços de Ferreira"
+          },
+          "coords": [
+            -8.375978,
+            41.275884
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die imposante Architektur des Rathauses, das den städtischen Platz dominiert, und achten Sie auf die Aushänge für kostenlose kulturelle Veranstaltungen.",
+            "hu": "Vegye szemügyre a városi teret uraló városháza lenyűgöző építészeti jelenlétét, és ellenőrizze a hirdetőtáblákat az ingyenes helyi kulturális eseményekért.",
+            "ro": "Admirați prezența arhitecturală impunătoare a primăriei care ancorează piața municipală și verificați avizierele pentru evenimente culturale comunitare gratuite.",
+            "en": "Take in the imposing architectural presence of the city hall that anchors the municipal square, checking the local notice boards for free community cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Paços de Ferreira",
+            "hu": "Pelourinho de Paços de Ferreira",
+            "ro": "Pelourinho de Paços de Ferreira",
+            "en": "Pelourinho de Paços de Ferreira"
+          },
+          "coords": [
+            -8.374865,
+            41.277968
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinmetzarbeiten dieses historischen Prangers der Justiz und treten Sie nahe heran, um die feine Handwerkskunst zu würdigen.",
+            "hu": "Vizsgálja meg e polgári igazságszolgáltatást jelképező, történelmi pellengér bonyolult kőfaragásait, és álljon közel az emlékműhöz a részletes kézműves munka értékeléséhez.",
+            "ro": "Inspectați sculpturile complicate în piatră ale acestui stâlp al infamiei istorice ce reprezintă justiția civică, stând aproape pentru a aprecia măiestria detaliată.",
+            "en": "Inspect the intricate stone carvings of this historical pillory representing civic justice, standing close to the monument to appreciate the detailed craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Coquêda",
+            "hu": "Casa de Coquêda",
+            "ro": "Casa de Coquêda",
+            "en": "Casa de Coquêda"
+          },
+          "coords": [
+            -8.376668,
+            41.282346
+          ],
+          "category": "castle",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Fassaden dieser herrschaftlichen Residenz voller jahrhundertealter Macht und gehen Sie an der Umfassungsmauer entlang für gute Fotos.",
+            "hu": "Fedezze fel e kastélyszerű rezidencia elegáns homlokzatait, amelyek évszázados hatalmat idéznek, és sétáljon a kerítésfal mentén a legjobb fotószögért.",
+            "ro": "Descoperiți fațadele elegante ale acestei reședințe distinse ce evocă secole de putere regională, plimbându-vă de-a lungul zidului perimetral pentru cel mai bun unghi.",
+            "en": "Discover the elegant facades of this distinguished castle-like residence echoing centuries of regional power, walking along the perimeter wall for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Homenagem à Força Aérea Portuguesa",
+            "hu": "Homenagem à Força Aérea Portuguesa",
+            "ro": "Homenagem à Força Aérea Portuguesa",
+            "en": "Homenagem à Força Aérea Portuguesa"
+          },
+          "coords": [
+            -8.38011,
+            41.279957
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ehren Sie das Erbe der Luftfahrt an diesem portugiesischen Luftwaffen-Denkmal und nehmen Sie sich Zeit, die Plaketten über heroische regionale Flüge zu lesen.",
+            "hu": "Tisztelegjen a repülés öröksége előtt a portugál légierő e nyugodt emlékművénél, és álljon meg elolvasni a hősies helyi repüléseket részletező feliratokat.",
+            "ro": "Onorați moștenirea aviației la acest monument dedicat Forțelor Aeriene Portugeze, oprindu-vă pentru a citi plăcile inscripționate ce detaliază zborurile eroice.",
+            "en": "Honor the legacy of aviation at this dedicated Portuguese Air Force monument set in a tranquil area, pausing to read the inscribed plaques detailing heroic regional flights."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta das Uveiras",
+            "hu": "Quinta das Uveiras",
+            "ro": "Quinta das Uveiras",
+            "en": "Quinta das Uveiras"
+          },
+          "coords": [
+            -8.382098,
+            41.275223
+          ],
+          "category": "castle",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie das landwirtschaftliche Erbe dieses traditionellen, von Weinbergen umgebenen Anwesens und fragen Sie Einheimische nach der saisonalen Weinlese.",
+            "hu": "Tapasztalja meg az öreg szőlőültetvényekkel övezett, hagyományos birtok kiterjedt mezőgazdasági örökségét, és mindenképp kérdezze a helyieket a szüretelésről.",
+            "ro": "Experimentați moștenirea agricolă a acestei moșii tradiționale încadrate de podgorii vechi și asigurați-vă că întrebați localnicii despre tradițiile culesului de struguri.",
+            "en": "Experience the sprawling agricultural heritage of this traditional estate framed by old vineyards, making sure to ask locals about the seasonal grape harvesting traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho de Pêgas",
+            "hu": "Moinho de Pêgas",
+            "ro": "Moinho de Pêgas",
+            "en": "Moinho de Pêgas"
+          },
+          "coords": [
+            -8.380235,
+            41.271557
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu dieser historischen Mühle, wo fließendes Wasser einst Getreide mahlte, und tragen Sie bequeme Schuhe für das rutschige Ufer.",
+            "hu": "Lépjen vissza az időben ennél a történelmi malomnál, ahol a folyó víz egykor gabonát őrölt, és viseljen kényelmes cipőt a kissé csúszós folyóparton.",
+            "ro": "Întoarceți-vă în timp la această moară istorică unde apele curgătoare măcinau odată cereale și purtați încălțăminte confortabilă pentru a naviga pe malurile alunecoase.",
+            "en": "Step back in time at this secondary historical mill where flowing waters once ground daily grain, wearing comfortable shoes to navigate the slightly slippery riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am stattlichen Câmara Municipal und spüren Sie das bürgerliche Herz von Paços de Ferreira.\n\nGehen Sie weiter zum historischen Pelourinho und entdecken Sie dann die Eleganz der herrschaftlichen Casa de Coquêda.\n\nVerbringen Sie den Nachmittag damit, am Força Aérea Denkmal die Luftfahrtgeschichte zu ehren und die Quinta das Uveiras zu erkunden.\n\nBeenden Sie den Tag entspannt mit den beruhigenden Naturgeräuschen an der bezaubernden historischen Mühle Moinho de Pêgas.",
+        "hu": "Kezdje gyalogtúráját a tekintélyes Câmara Municipalnál, Paços de Ferreira polgári szívében, hogy érezze a város ritmusát.\n\nFolytassa útját a történelmi Pelourinho felé, majd fedezze fel a lenyűgöző Casa de Coquêda páratlan eleganciáját.\n\nTöltse a délutánt a repülés történetének tiszteletével a különleges emlékműnél, majd barangoljon a Quinta das Uveiras békés területén.\n\nZárja a napot a természet nyugtató hangjaival és a régi idők emlékével a bájos Moinho de Pêgas vízimalomnál.",
+        "ro": "Începeți turul pietonal la impunătoarea Câmara Municipal, absorbind cu atenție inima civică a frumosului oraș Paços de Ferreira.\n\nContinuați spre istoricul Pelourinho, apoi descoperiți eleganța arhitecturală de necontestat de la Casa de Coquêda.\n\nPetreceți după-amiaza onorând istoria aviației la monumentul Força Aérea și explorând domeniul vast de la Quinta das Uveiras.\n\nÎncheiați cu sunetele liniștitoare ale naturii și apei curgătoare la fermecătoarea moară istorică Moinho de Pêgas.",
+        "en": "Begin your walking tour at the stately Câmara Municipal, fully absorbing the historic civic heart of Paços de Ferreira.\n\nProceed to the intricately carved historic Pelourinho, then uncover the refined architectural elegance of Casa de Coquêda.\n\nSpend your afternoon honoring aviation history at the Força Aérea monument and wandering the agricultural grounds of Quinta das Uveiras.\n\nConclude your satisfying stroll with the soothing sounds of nature at the charming historical Moinho de Pêgas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Paços de Ferreira",
+            "hu": "Câmara Municipal de Paços de Ferreira",
+            "ro": "Câmara Municipal de Paços de Ferreira",
+            "en": "Câmara Municipal de Paços de Ferreira"
+          },
+          "coords": [
+            -8.375978,
+            41.275884
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die imposante Architektur des Rathauses, das den städtischen Platz dominiert, und achten Sie auf die Aushänge für kostenlose kulturelle Veranstaltungen.",
+            "hu": "Vegye szemügyre a városi teret uraló városháza lenyűgöző építészeti jelenlétét, és ellenőrizze a hirdetőtáblákat az ingyenes helyi kulturális eseményekért.",
+            "ro": "Admirați prezența arhitecturală impunătoare a primăriei care ancorează piața municipală și verificați avizierele pentru evenimente culturale comunitare gratuite.",
+            "en": "Take in the imposing architectural presence of the city hall that anchors the municipal square, checking the local notice boards for free community cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Paços de Ferreira",
+            "hu": "Pelourinho de Paços de Ferreira",
+            "ro": "Pelourinho de Paços de Ferreira",
+            "en": "Pelourinho de Paços de Ferreira"
+          },
+          "coords": [
+            -8.374865,
+            41.277968
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinmetzarbeiten dieses historischen Prangers der Justiz und treten Sie nahe heran, um die feine Handwerkskunst zu würdigen.",
+            "hu": "Vizsgálja meg e polgári igazságszolgáltatást jelképező, történelmi pellengér bonyolult kőfaragásait, és álljon közel az emlékműhöz a részletes kézműves munka értékeléséhez.",
+            "ro": "Inspectați sculpturile complicate în piatră ale acestui stâlp al infamiei istorice ce reprezintă justiția civică, stând aproape pentru a aprecia măiestria detaliată.",
+            "en": "Inspect the intricate stone carvings of this historical pillory representing civic justice, standing close to the monument to appreciate the detailed craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Homenagem à Força Aérea Portuguesa",
+            "hu": "Homenagem à Força Aérea Portuguesa",
+            "ro": "Homenagem à Força Aérea Portuguesa",
+            "en": "Homenagem à Força Aérea Portuguesa"
+          },
+          "coords": [
+            -8.38011,
+            41.279957
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ehren Sie das Erbe der Luftfahrt an diesem portugiesischen Luftwaffen-Denkmal und nehmen Sie sich Zeit, die Plaketten über heroische regionale Flüge zu lesen.",
+            "hu": "Tisztelegjen a repülés öröksége előtt a portugál légierő e nyugodt emlékművénél, és álljon meg elolvasni a hősies helyi repüléseket részletező feliratokat.",
+            "ro": "Onorați moștenirea aviației la acest monument dedicat Forțelor Aeriene Portugeze, oprindu-vă pentru a citi plăcile inscripționate ce detaliază zborurile eroice.",
+            "en": "Honor the legacy of aviation at this dedicated Portuguese Air Force monument set in a tranquil area, pausing to read the inscribed plaques detailing heroic regional flights."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa do Dr. Jaime Barros",
+            "hu": "Casa do Dr. Jaime Barros",
+            "ro": "Casa do Dr. Jaime Barros",
+            "en": "Casa do Dr. Jaime Barros"
+          },
+          "coords": [
+            -8.385468,
+            41.286517
+          ],
+          "category": "castle",
+          "arrive_at": "12:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassischen Proportionen dieses historischen Stadtsschlosses des Bürgertums und bleiben Sie auf dem Hauptweg, um die Privatsphäre zu wahren.",
+            "hu": "Csodálja meg a helyi polgári életet bemutató történelmi kastély klasszikus arányait, a főúton maradva a megőrzött magánterületek tiszteletben tartásáért.",
+            "ro": "Minunați-vă de proporțiile clasice ale acestui castel domestic istoric ce evidențiază viața burgheză locală, rămânând pe aleea principală pentru respect.",
+            "en": "Marvel at the classical proportions of this historic domestic castle that highlights local bourgeois life, staying on the main pathway to respect private areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Botica Velha",
+            "hu": "Casa da Botica Velha",
+            "ro": "Casa da Botica Velha",
+            "en": "Casa da Botica Velha"
+          },
+          "coords": [
+            -8.394022,
+            41.274677
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieses historischen Herrenhauses, das von Adelsgeschichten flüstert, und besuchen Sie die nahen Gärten im perfekten Licht.",
+            "hu": "Fedezze fel ennek a nemesi történeteket suttogó udvarháznak a masszív falait, és látogassa meg a közeli kerteket, amikor a délutáni fény tökéletes.",
+            "ro": "Explorați zidurile robuste ale acestui conac istoric ce șoptește povești nobiliare și vizitați grădinile din apropiere când lumina după-amiezii este perfectă.",
+            "en": "Explore the robust walls of this historic manor that whispers tales of nobility, and try visiting the nearby gardens when the afternoon light is perfect."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho de água",
+            "hu": "Moinho de água",
+            "ro": "Moinho de apă",
+            "en": "Moinho de água"
+          },
+          "coords": [
+            -8.3906,
+            41.269869
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Holzmechanismen dieser restaurierten Wassermühle am Bach und bringen Sie Ihre Kamera für den rustikalen Charme mit.",
+            "hu": "Figyelje meg a csendes patak mentén fekvő, felújított vízimalom hagyományos fa mechanizmusait, és hozza magával gépét a rusztikus báj megörökítéséhez.",
+            "ro": "Observați mecanismele tradiționale din lemn ale acestei mori de apă restaurate pe malul pârâului și aduceți aparatul foto pentru a surprinde farmecul rustic.",
+            "en": "Observe the traditional wooden mechanisms of this restored water mill along the quiet stream, bringing your camera to capture the rustic charm of rural Portugal."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Torre",
+            "hu": "Casa da Torre",
+            "ro": "Casa da Torre",
+            "en": "Casa da Torre"
+          },
+          "coords": [
+            -8.375303,
+            41.270567
+          ],
+          "category": "castle",
+          "arrive_at": "16:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Finden Sie die alten Wehrturmelemente in diesem Herrenhaus, die Sicherheit betonen, und besuchen Sie es spät, um das warme Abendrot zu sehen.",
+            "hu": "Keresse meg a középkori biztonságot hangsúlyozó ősi védőtorony elemeit e kúriába építve, és látogasson el későn, hogy elkapja a köveken a meleg naplementét.",
+            "ro": "Găsiți elementele antice ale turnului defensiv integrate în acest conac ce subliniază securitatea medievală, vizitând târziu pentru a prinde apusul.",
+            "en": "Find the ancient defensive tower elements integrated into this manor house highlighting medieval security, visiting late in the day to catch the warm sunset glow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am prächtigen Rathaus, bevor Sie den steinernen Pranger Pelourinho im Zentrum der lebendigen Stadt besuchen.\n\nRadeln Sie entspannt zum inspirierenden Luftwaffen-Denkmal und bewundern Sie anschließend die stattliche Architektur der Casa do Dr. Jaime Barros.\n\nGenießen Sie eine malerische Fahrt nach Westen zur imposanten Casa da Botica Velha und der historischen Schönheit der alten Wassermühle.\n\nBeenden Sie Ihren aktiven Tag und kehren Sie in der ruhigen Dämmerung zu den mittelalterlichen Echos der Casa da Torre zurück.",
+        "hu": "Kezdje kerékpáros utazását a nagyszerű Városházánál, mielőtt meglátogatná a kőből finoman kifaragott Pelourinhót a városközpontban.\n\nTekerjen kényelmesen a repülős emlékműhöz, majd fedezze fel a tekintélyes Casa do Dr. Jaime Barros elegáns, klasszikus formáit.\n\nÉlvezze a festői utat nyugat felé, a Casa da Botica Velha tömör falaihoz és a csendes, rusztikus Moinho de água szépségéig.\n\nZárja aktív napját, lassan visszatérve a Casa da Torre középkori visszhangjaihoz a békés és festői szürkületben.",
+        "ro": "Începeți călătoria cu bicicleta la grandioasa Primărie înainte de a vizita faimosul Pelourinho sculptat din piatră în centrul orașului.\n\nPedați ușor spre monumentul inspirator dedicat aviației și spre impunătoarea arhitectură a vechii Casa do Dr. Jaime Barros.\n\nBucurați-vă de o plimbare pitorească spre vest, spre impunătoarea Casa da Botica Velha și moara de apă cu farmec tradițional.\n\nÎncheiați-vă ziua activă întorcându-vă agale la ecourile medievale remarcabile ale Casa da Torre în lumina superbă de amurg.",
+        "en": "Kick off your cycling journey at the grand Câmara Municipal before easily visiting the intricate stone Pelourinho in the city center.\n\nPedal comfortably to the inspiring Força Aérea monument and marvel at the stately classical lines of Casa do Dr. Jaime Barros.\n\nEnjoy a scenic ride west to the imposing Casa da Botica Velha and discover the rustic, serene beauty of the historic Moinho de água.\n\nFinish your active day by returning gently to the medieval echoes of Casa da Torre bathed in the warm light of twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 6.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte Joanina",
+            "hu": "Ponte Joanina",
+            "ro": "Ponte Joanina",
+            "en": "Ponte Joanina"
+          },
+          "coords": [
+            -8.368745,
+            41.296966
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stabilen Steinbögen dieser alten Brücke über den Fluss, ein wichtiges Stück Geschichte, und gehen Sie vorsichtig auf dem Kopfsteinpflaster.",
+            "hu": "Csodálja meg a folyót átívelő ősi híd masszív kőíveit, a helyi történelem e fontos részét, de óvatosan lépkedjen az egyenetlen középkori macskaköveken.",
+            "ro": "Admirați arcadele solide din piatră ale acestui pod antic peste râu, o parte vitală a istoriei locale, și pășiți cu grijă pe pietrele medievale inegale.",
+            "en": "Admire the sturdy stone arches of this ancient bridge spanning the river, a vital piece of local history, and walk carefully on its uneven medieval cobbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Botica",
+            "hu": "Casa da Botica",
+            "ro": "Casa da Botica",
+            "en": "Casa da Botica"
+          },
+          "coords": [
+            -8.370434,
+            41.297008
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nähern Sie sich diesem historischen Apothekergebäude, das einst der Gesundheitsversorgung diente, und beachten Sie die architektonischen Linien von gegenüber.",
+            "hu": "Közelítse meg ezt a történelmi patikaépületet, amely egykor a vidéki közösség igényeit szolgálta, és vegye észre az utca túloldaláról jól látható vonalakat.",
+            "ro": "Apropiați-vă de clădirea acestei farmacii istorice care a deservit cândva nevoile rurale, remarcând liniile arhitecturale vizibile clar de peste drum.",
+            "en": "Approach this historic apothecary's building that once served the rural community's health needs, noting the original architectural lines visible across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Coquêda",
+            "hu": "Casa de Coquêda",
+            "ro": "Casa de Coquêda",
+            "en": "Casa de Coquêda"
+          },
+          "coords": [
+            -8.376668,
+            41.282346
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Fassaden dieser herrschaftlichen Residenz voller jahrhundertealter Macht und gehen Sie an der Umfassungsmauer entlang für gute Fotos.",
+            "hu": "Fedezze fel e kastélyszerű rezidencia elegáns homlokzatait, amelyek évszázados hatalmat idéznek, és sétáljon a kerítésfal mentén a legjobb fotószögért.",
+            "ro": "Descoperiți fațadele elegante ale acestei reședințe distinse ce evocă secole de putere regională, plimbându-vă de-a lungul zidului perimetral pentru cel mai bun unghi.",
+            "en": "Discover the elegant facades of this distinguished castle-like residence echoing centuries of regional power, walking along the perimeter wall for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Paços de Ferreira",
+            "hu": "Pelourinho de Paços de Ferreira",
+            "ro": "Pelourinho de Paços de Ferreira",
+            "en": "Pelourinho de Paços de Ferreira"
+          },
+          "coords": [
+            -8.374865,
+            41.277968
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinmetzarbeiten dieses historischen Prangers der Justiz und treten Sie nahe heran, um die feine Handwerkskunst zu würdigen.",
+            "hu": "Vizsgálja meg e polgári igazságszolgáltatást jelképező, történelmi pellengér bonyolult kőfaragásait, és álljon közel az emlékműhöz a részletes kézműves munka értékeléséhez.",
+            "ro": "Inspectați sculpturile complicate în piatră ale acestui stâlp al infamiei istorice ce reprezintă justiția civică, stând aproape pentru a aprecia măiestria detaliată.",
+            "en": "Inspect the intricate stone carvings of this historical pillory representing civic justice, standing close to the monument to appreciate the detailed craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Paços de Ferreira",
+            "hu": "Câmara Municipal de Paços de Ferreira",
+            "ro": "Câmara Municipal de Paços de Ferreira",
+            "en": "Câmara Municipal de Paços de Ferreira"
+          },
+          "coords": [
+            -8.375978,
+            41.275884
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die imposante Architektur des Rathauses, das den städtischen Platz dominiert, und achten Sie auf die Aushänge für kostenlose kulturelle Veranstaltungen.",
+            "hu": "Vegye szemügyre a városi teret uraló városháza lenyűgöző építészeti jelenlétét, és ellenőrizze a hirdetőtáblákat az ingyenes helyi kulturális eseményekért.",
+            "ro": "Admirați prezența arhitecturală impunătoare a primăriei care ancorează piața municipală și verificați avizierele pentru evenimente culturale comunitare gratuite.",
+            "en": "Take in the imposing architectural presence of the city hall that anchors the municipal square, checking the local notice boards for free community cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa do Dr. Jaime Barros",
+            "hu": "Casa do Dr. Jaime Barros",
+            "ro": "Casa do Dr. Jaime Barros",
+            "en": "Casa do Dr. Jaime Barros"
+          },
+          "coords": [
+            -8.385468,
+            41.286517
+          ],
+          "category": "castle",
+          "arrive_at": "14:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassischen Proportionen dieses historischen Stadtsschlosses des Bürgertums und bleiben Sie auf dem Hauptweg, um die Privatsphäre zu wahren.",
+            "hu": "Csodálja meg a helyi polgári életet bemutató történelmi kastély klasszikus arányait, a főúton maradva a megőrzött magánterületek tiszteletben tartásáért.",
+            "ro": "Minunați-vă de proporțiile clasice ale acestui castel domestic istoric ce evidențiază viața burgheză locală, rămânând pe aleea principală pentru respect.",
+            "en": "Marvel at the classical proportions of this historic domestic castle that highlights local bourgeois life, staying on the main pathway to respect private areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Botica Velha",
+            "hu": "Casa da Botica Velha",
+            "ro": "Casa da Botica Velha",
+            "en": "Casa da Botica Velha"
+          },
+          "coords": [
+            -8.394022,
+            41.274677
+          ],
+          "category": "castle",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieses historischen Herrenhauses, das von Adelsgeschichten flüstert, und besuchen Sie die nahen Gärten im perfekten Licht.",
+            "hu": "Fedezze fel ennek a nemesi történeteket suttogó udvarháznak a masszív falait, és látogassa meg a közeli kerteket, amikor a délutáni fény tökéletes.",
+            "ro": "Explorați zidurile robuste ale acestui conac istoric ce șoptește povești nobiliare și vizitați grădinile din apropiere când lumina după-amiezii este perfectă.",
+            "en": "Explore the robust walls of this historic manor that whispers tales of nobility, and try visiting the nearby gardens when the afternoon light is perfect."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho de água",
+            "hu": "Moinho de água",
+            "ro": "Moinho de apă",
+            "en": "Moinho de água"
+          },
+          "coords": [
+            -8.3906,
+            41.269869
+          ],
+          "category": "historical",
+          "arrive_at": "16:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Holzmechanismen dieser restaurierten Wassermühle am Bach und bringen Sie Ihre Kamera für den rustikalen Charme mit.",
+            "hu": "Figyelje meg a csendes patak mentén fekvő, felújított vízimalom hagyományos fa mechanizmusait, és hozza magával gépét a rusztikus báj megörökítéséhez.",
+            "ro": "Observați mecanismele tradiționale din lemn ale acestei mori de apă restaurate pe malul pârâului și aduceți aparatul foto pentru a surprinde farmecul rustic.",
+            "en": "Observe the traditional wooden mechanisms of this restored water mill along the quiet stream, bringing your camera to capture the rustic charm of rural Portugal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre umfassende Autotour im Norden an der alten Ponte Joanina und der historischen Casa da Botica.\n\nFahren Sie in das Stadtzentrum, um die elegante Casa de Coquêda, den steinernen Pranger und das zentrale Rathaus zu bewundern.\n\nNavigieren Sie weiter nach Westen, um die klassischen Linien der Casa do Dr. Jaime Barros und die solide Casa da Botica Velha zu erkunden.\n\nBeenden Sie Ihren unvergesslichen Roadtrip bei Sonnenuntergang in der ländlichen Ruhe an der traditionellen Wassermühle.",
+        "hu": "Kezdje átfogó autós túráját északon, az ősi Ponte Joanina lenyűgöző íveinél és a történelmi Casa da Botica épületénél.\n\nVezessen délre a központba, hogy megcsodálja az elegáns Casa de Coquêda-t, a kő pellengért és a tágas, központi Városházát.\n\nNavigáljon kényelmesen nyugat felé a Casa do Dr. Jaime Barros klasszikus vonalainak és a masszív Casa da Botica Velha felfedezéséhez.\n\nFejezze be a kirándulást a teljes vidéki nyugalomban, a hagyományos Moinho de água mellett egy gyönyörű naplementekor.",
+        "ro": "Începeți-vă turul auto cuprinzător în nord la antică Ponte Joanina și istorica farmacie veche Casa da Botica.\n\nConduceți spre centru pentru a admira eleganta Casa de Coquêda, istoricul Pelourinho din piatră și impunătoarea Primărie centrală.\n\nNavigați confortabil spre vest pentru a explora liniile clasice de la Casa do Dr. Jaime Barros și robusta Casa da Botica Velha.\n\nÎncheiați excursia rutieră învăluit în liniștea rurală perfectă, la tradiționala moară Moinho de apă, în lumina blândă de la apus.",
+        "en": "Start your comprehensive driving tour north at the ancient stone arches of Ponte Joanina and the historic walls of Casa da Botica.\n\nDrive down to the city core to admire the elegant Casa de Coquêda, the iconic stone Pelourinho, and the central Câmara Municipal.\n\nNavigate west in comfort to explore the classical lines of Casa do Dr. Jaime Barros and the robust heritage of Casa da Botica Velha.\n\nConclude your scenic road trip completely enveloped in rural serenity by the traditional Moinho de água as the sun begins to set."
+      }
+    }
+  }
+}

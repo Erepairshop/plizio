@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-cervia-cities-v2",
+  "anchor": {
+    "name": "Cervia",
+    "coords": [
+      12.366667,
+      44.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Ben 191",
+            "hu": "Bagno Ben 191",
+            "ro": "Bagno Ben 191",
+            "en": "Bagno Ben 191"
+          },
+          "coords": [
+            12.362007,
+            44.257607
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem gepflegten Strandabschnitt mit feinem Sand und mieten Sie frühzeitig einen Liegestuhl für optimale Entspannung am Meer.",
+            "hu": "Kezdje a napot ezen a gondozott, finom homokos partszakaszon, és béreljen napágyat korán a tökéletes tengerparti pihenéshez.",
+            "ro": "Începeți ziua pe această plajă bine întreținută cu nisip fin și închiriați un șezlong devreme pentru o relaxare optimă la malul mării.",
+            "en": "Start your day at this well-maintained beach with fine sand, and rent a sunbed early for optimal relaxation by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Fantini Club",
+            "hu": "Fantini Club",
+            "ro": "Fantini Club",
+            "en": "Fantini Club"
+          },
+          "coords": [
+            12.362892,
+            44.255631
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses berühmten Strandclubs mit seinen Sportanlagen; buchen Sie rechtzeitig ein Spielfeld für ein Beachvolleyball-Match.",
+            "hu": "Élvezze a híres strandklub pezsgő hangulatát és sportlétesítményeit; foglaljon időben pályát egy strandröplabda meccshez.",
+            "ro": "Experimentați atmosfera plină de viață a acestui club celebru cu baze sportive; rezervați din timp un teren pentru un meci de volei pe plajă.",
+            "en": "Experience the lively atmosphere of this famous beach club with its sports facilities; book a court in advance for a beach volleyball match."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Quinto 176",
+            "hu": "Bagno Quinto 176",
+            "ro": "Bagno Quinto 176",
+            "en": "Bagno Quinto 176"
+          },
+          "coords": [
+            12.36391,
+            44.254046
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundliche Umgebung und das ruhige Wasser; fragen Sie das Personal nach den aktuellen Wassersportangeboten für Kinder.",
+            "hu": "Élvezze a családbarát környezetet és a nyugodt vizet; érdeklődjön a személyzetnél az aktuális gyermek vízisport lehetőségekről.",
+            "ro": "Bucurați-vă de mediul familial și de apele liniștite; întrebați personalul despre opțiunile actuale de sporturi nautice pentru copii.",
+            "en": "Enjoy the family-friendly environment and calm waters; ask the staff about the current water sports options for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Martini 163",
+            "hu": "Bagno Martini 163",
+            "ro": "Bagno Martini 163",
+            "en": "Bagno Martini 163"
+          },
+          "coords": [
+            12.364874,
+            44.251919
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie bei einem erfrischenden Getränk an der Strandbar, die für ihre exzellenten lokalen Cocktails und den freundlichen Service bekannt ist.",
+            "hu": "Pihenjen egy frissítő ital mellett a strandbárban, amely kiváló helyi koktéljairól és barátságos kiszolgálásáról ismert.",
+            "ro": "Relaxați-vă cu o băutură răcoritoare la barul de pe plajă, cunoscut pentru cocktailurile locale excelente și serviciul prietenos.",
+            "en": "Relax with a refreshing drink at the beach bar, known for its excellent local cocktails and friendly service."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Delfino 130",
+            "hu": "Bagno Delfino 130",
+            "ro": "Bagno Delfino 130",
+            "en": "Bagno Delfino 130"
+          },
+          "coords": [
+            12.368064,
+            44.246554
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie traditionelle Meeresfrüchte im angeschlossenen Restaurant, das für seine frischen Fänge des Tages geschätzt wird.",
+            "hu": "Kóstolja meg a hagyományos tengeri ételeket a helyi étteremben, amely a nap friss fogásairól híres.",
+            "ro": "Gustați fructe de mare tradiționale în restaurantul alăturat, apreciat pentru capturile proaspete ale zilei.",
+            "en": "Taste traditional seafood in the attached restaurant, which is highly appreciated for its fresh catches of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Angela 119",
+            "hu": "Bagno Angela 119",
+            "ro": "Bagno Angela 119",
+            "en": "Bagno Angela 119"
+          },
+          "coords": [
+            12.370382,
+            44.243249
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem ruhigeren Strandabschnitt und machen Sie einen entspannten Spaziergang entlang der wunderschönen Küstenlinie im Sonnenuntergang.",
+            "hu": "Fejezze be a napot ezen a csendesebb partszakaszon, és tegyen egy pihentető sétát a gyönyörű partvonal mentén naplemente idején.",
+            "ro": "Încheiați ziua pe această plajă mai liniștită și faceți o plimbare relaxantă de-a lungul coastei frumoase la apus.",
+            "en": "End the day at this quieter stretch of beach and take a relaxing stroll along the beautiful coastline at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im beliebten Bagno Ben 191, bevor es zum sportlichen Fantini Club geht. Am Mittag entspannen wir im Bagno Quinto 176 und genießen die sonnige Atmosphäre. Der Nachmittag bietet Erfrischung im Bagno Martini und kulinarische Genüsse im Bagno Delfino. Am Abend lassen wir den Tag am ruhigen Bagno Angela ausklingen.",
+        "hu": "A reggel a népszerű Bagno Ben 191-ben kezdődik, mielőtt a sportos Fantini Clubba mennénk. Délben a Bagno Quinto 176-ban pihenünk és élvezzük a napsütéses hangulatot. A délután felfrissülést kínál a Bagno Martini-ben és kulináris élvezeteket a Bagno Delfino-ban. Este a nyugodt Bagno Angela-nál fejezzük be a napot.",
+        "ro": "Dimineața începe la popularul Bagno Ben 191, înainte de a merge la sportivul Fantini Club. La prânz, ne relaxăm la Bagno Quinto 176 și ne bucurăm de atmosfera însorită. După-amiaza oferă răcorire la Bagno Martini și delicii culinare la Bagno Delfino. Seara, încheiem ziua la liniștitul Bagno Angela.",
+        "en": "The morning starts at the popular Bagno Ben 191 before heading to the sporty Fantini Club. At midday, we relax at Bagno Quinto 176 and enjoy the sunny atmosphere. The afternoon offers refreshment at Bagno Martini and culinary delights at Bagno Delfino. In the evening, we end the day at the quiet Bagno Angela."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Adriatico",
+            "hu": "Bagno Adriatico",
+            "ro": "Bagno Adriatico",
+            "en": "Bagno Adriatico"
+          },
+          "coords": [
+            12.353492,
+            44.276394
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier im Norden der Küste, wo das ruhige Ambiente perfekt für ein frühes morgendliches Schwimmen im kristallklaren Wasser ist.",
+            "hu": "Kezdje az utat a part északi részén, ahol a nyugodt légkör tökéletes egy kora reggeli úszáshoz a kristálytiszta vízben.",
+            "ro": "Începeți aici, în nordul coastei, unde ambianța liniștită este perfectă pentru un înot matinal în apa cristalină.",
+            "en": "Start here in the north of the coast, where the calm ambiance is perfect for an early morning swim in the crystal-clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Umberto",
+            "hu": "Bagno Umberto",
+            "ro": "Bagno Umberto",
+            "en": "Bagno Umberto"
+          },
+          "coords": [
+            12.354673,
+            44.273768
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen klassischen Badeort für ein traditionelles italienisches Stranderlebnis und mieten Sie ein Tretboot für einen Ausflug aufs Meer.",
+            "hu": "Látogasson el erre a klasszikus strandra egy hagyományos olasz élményért, és béreljen vízibiciklit egy tengeri kiránduláshoz.",
+            "ro": "Vizitați această plajă clasică pentru o experiență italiană tradițională și închiriați o hidrobicicletă pentru o excursie pe mare.",
+            "en": "Visit this classic bathing spot for a traditional Italian beach experience and rent a pedal boat for a trip out to sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Sorriso",
+            "hu": "Bagno Sorriso",
+            "ro": "Bagno Sorriso",
+            "en": "Bagno Sorriso"
+          },
+          "coords": [
+            12.357876,
+            44.266008
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der herzlichen Gastfreundschaft begeistern und probieren Sie unbedingt die lokalen Piadina-Spezialitäten am Kiosk.",
+            "hu": "Élvezze a meleg vendégszeretetet, és mindenképpen kóstolja meg a helyi piadina specialitásokat a kioszkban.",
+            "ro": "Lăsați-vă încântați de ospitalitatea caldă și asigurați-vă că gustați specialitățile locale de piadina la chioșc.",
+            "en": "Be delighted by the warm hospitality and make sure to taste the local piadina specialties at the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 204 Mercuriali",
+            "hu": "Bagno 204 Mercuriali",
+            "ro": "Bagno 204 Mercuriali",
+            "en": "Bagno 204 Mercuriali"
+          },
+          "coords": [
+            12.36028,
+            44.261012
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie die exzellenten Duscheinrichtungen und entspannen Sie sich auf den komfortablen Liegen, bevor es weitergeht.",
+            "hu": "Használja ki a kiváló zuhanyzókat, és pihenjen meg a kényelmes napágyakon, mielőtt tovább indulna.",
+            "ro": "Profitați de dușurile excelente și relaxați-vă pe șezlongurile confortabile înainte de a merge mai departe.",
+            "en": "Take advantage of the excellent shower facilities and relax on the comfortable loungers before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Fantini Club",
+            "hu": "Fantini Club",
+            "ro": "Fantini Club",
+            "en": "Fantini Club"
+          },
+          "coords": [
+            12.362892,
+            44.255631
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses berühmten Strandclubs mit seinen Sportanlagen; buchen Sie rechtzeitig ein Spielfeld für ein Beachvolleyball-Match.",
+            "hu": "Élvezze a híres strandklub pezsgő hangulatát és sportlétesítményeit; foglaljon időben pályát egy strandröplabda meccshez.",
+            "ro": "Experimentați atmosfera plină de viață a acestui club celebru cu baze sportive; rezervați din timp un teren pentru un meci de volei pe plajă.",
+            "en": "Experience the lively atmosphere of this famous beach club with its sports facilities; book a court in advance for a beach volleyball match."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Adriasol 111",
+            "hu": "Bagno Adriasol 111",
+            "ro": "Bagno Adriasol 111",
+            "en": "Bagno Adriasol 111"
+          },
+          "coords": [
+            12.371288,
+            44.24189
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Ausflug an diesem südlichen Strand ab und genießen Sie die friedliche Stimmung bei einem Aperitif im späten Nachmittagslicht.",
+            "hu": "Zárja kirándulását ezen a déli strandon, és élvezze a békés hangulatot egy aperitif mellett a késő délutáni fényekben.",
+            "ro": "Încheiați-vă excursia pe această plajă din sud și bucurați-vă de atmosfera pașnică cu un aperitiv în lumina după-amiezii târziu.",
+            "en": "Conclude your trip at this southern beach and enjoy the peaceful atmosphere with an aperitif in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln los am Bagno Adriatico im Norden, gefolgt von der traditionellen Atmosphäre im Bagno Umberto. Mittags erwartet uns köstliche lokale Küche im Bagno Sorriso. Am Nachmittag fahren wir weiter zum Bagno 204 Mercuriali und dem lebhaften Fantini Club. Die Tour endet entspannt beim Bagno Adriasol 111.",
+        "hu": "Északon, a Bagno Adriaticónál kezdjük a tekerést, majd a Bagno Umberto hagyományos hangulata következik. Délben finom helyi ételek várnak ránk a Bagno Sorrisóban. Délután a Bagno 204 Mercuriali és a nyüzsgő Fantini Club felé vesszük az irányt. A túra a Bagno Adriasol 111-nél ér véget nyugodt körülmények között.",
+        "ro": "Pedalăm de la Bagno Adriatico în nord, urmat de atmosfera tradițională de la Bagno Umberto. La prânz ne așteaptă mâncăruri locale delicioase la Bagno Sorriso. După-amiaza, continuăm spre Bagno 204 Mercuriali și animatul Fantini Club. Turul se încheie relaxant la Bagno Adriasol 111.",
+        "en": "We start cycling at Bagno Adriatico in the north, followed by the traditional atmosphere of Bagno Umberto. At noon, delicious local food awaits us at Bagno Sorriso. In the afternoon, we ride on to Bagno 204 Mercuriali and the lively Fantini Club. The tour ends relaxing at Bagno Adriasol 111."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Giorgio Malusi",
+            "hu": "Bagno Giorgio Malusi",
+            "ro": "Bagno Giorgio Malusi",
+            "en": "Bagno Giorgio Malusi"
+          },
+          "coords": [
+            12.354203,
+            44.27504
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser einladende Strand bietet den idealen Auftakt mit großzügigen Liegeflächen; kommen Sie früh, um die besten Plätze direkt am Wasser zu sichern.",
+            "hu": "Ez a hívogató strand tágas napozóterületekkel tökéletes kezdés; érkezzen korán, hogy biztosítsa a legjobb helyeket a vízparton.",
+            "ro": "Această plajă primitoare oferă începutul ideal cu zone spațioase de relaxare; veniți devreme pentru a asigura cele mai bune locuri lângă apă.",
+            "en": "This inviting beach offers the ideal start with spacious sunbathing areas; arrive early to secure the best spots right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Imperiale 212",
+            "hu": "Bagno Imperiale 212",
+            "ro": "Bagno Imperiale 212",
+            "en": "Bagno Imperiale 212"
+          },
+          "coords": [
+            12.359173,
+            44.262852
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassigen Service in elegantem Ambiente und lassen Sie sich vom Personal kühle Getränke direkt zum Sonnenschirm bringen.",
+            "hu": "Tapasztalja meg az első osztályú kiszolgálást elegáns környezetben, és kérjen hűsítő italokat egyenesen a napernyőjéhez.",
+            "ro": "Experimentați servicii de primă clasă într-un mediu elegant și lăsați personalul să vă aducă băuturi reci direct la umbrelă.",
+            "en": "Experience first-class service in an elegant setting and let the staff bring cool drinks directly to your sun umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Oba Oba",
+            "hu": "Bagno Oba Oba",
+            "ro": "Bagno Oba Oba",
+            "en": "Bagno Oba Oba"
+          },
+          "coords": [
+            12.361069,
+            44.259086
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein dynamischer Ort mit viel Unterhaltung für alle Altersgruppen; schauen Sie sich das Tagesprogramm an, um keine der lustigen Aktivitäten zu verpassen.",
+            "hu": "Dinamikus hely sok szórakozással minden korosztálynak; nézze meg a napi programot, hogy ne maradjon le a szórakoztató tevékenységekről.",
+            "ro": "Un loc dinamic cu multă distracție pentru toate vârstele; verificați programul zilnic pentru a nu rata activitățile distractive.",
+            "en": "A dynamic place with plenty of entertainment for all ages; check the daily schedule so you don't miss out on the fun activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Quinto 176",
+            "hu": "Bagno Quinto 176",
+            "ro": "Bagno Quinto 176",
+            "en": "Bagno Quinto 176"
+          },
+          "coords": [
+            12.36391,
+            44.254046
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundliche Umgebung und das ruhige Wasser; fragen Sie das Personal nach den aktuellen Wassersportangeboten für Kinder.",
+            "hu": "Élvezze a családbarát környezetet és a nyugodt vizet; érdeklődjön a személyzetnél az aktuális gyermek vízisport lehetőségekről.",
+            "ro": "Bucurați-vă de mediul familial și de apele liniștite; întrebați personalul despre opțiunile actuale de sporturi nautice pentru copii.",
+            "en": "Enjoy the family-friendly environment and calm waters; ask the staff about the current water sports options for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Adriasol 111",
+            "hu": "Bagno Adriasol 111",
+            "ro": "Bagno Adriasol 111",
+            "en": "Bagno Adriasol 111"
+          },
+          "coords": [
+            12.371288,
+            44.24189
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Ausflug an diesem südlichen Strand ab und genießen Sie die friedliche Stimmung bei einem Aperitif im späten Nachmittagslicht.",
+            "hu": "Zárja kirándulását ezen a déli strandon, és élvezze a békés hangulatot egy aperitif mellett a késő délutáni fényekben.",
+            "ro": "Încheiați-vă excursia pe această plajă din sud și bucurați-vă de atmosfera pașnică cu un aperitiv în lumina după-amiezii târziu.",
+            "en": "Conclude your trip at this southern beach and enjoy the peaceful atmosphere with an aperitif in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten wir im Norden beim einladenden Bagno Giorgio Malusi, bevor wir das elegante Bagno Imperiale besuchen. Zur Mittagszeit sorgt das Bagno Oba Oba für beste Unterhaltung. Nachmittags relaxen wir im Bagno Quinto 176 mit exzellentem Service. Der Ausflug klingt im idyllischen Bagno Adriasol entspannt aus.",
+        "hu": "Autóval északon indulunk a hívogató Bagno Giorgio Malusinál, majd meglátogatjuk az elegáns Bagno Imperialét. Délben a Bagno Oba Oba gondoskodik a kiváló szórakozásról. Délután a kiváló szolgáltatásokat nyújtó Bagno Quinto 176-ban pihenünk. A kirándulás az idilli Bagno Adriasolban fejeződik be.",
+        "ro": "Cu mașina începem în nord, la primitorul Bagno Giorgio Malusi, înainte de a vizita elegantul Bagno Imperiale. La prânz, Bagno Oba Oba oferă o divertisment excelent. După-amiaza ne relaxăm la Bagno Quinto 176 cu servicii excelente. Excursia se încheie relaxat în idilicul Bagno Adriasol.",
+        "en": "By car we start in the north at the inviting Bagno Giorgio Malusi before visiting the elegant Bagno Imperiale. At midday, Bagno Oba Oba provides excellent entertainment. In the afternoon, we relax at Bagno Quinto 176 with excellent service. The trip ends quietly in the idyllic Bagno Adriasol."
+      }
+    }
+  }
+}

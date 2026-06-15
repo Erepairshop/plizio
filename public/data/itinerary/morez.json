@@ -1,0 +1,451 @@
+{
+  "city_id": "morez",
+  "anchor": {
+    "name": "Morez",
+    "coords": [
+      6.0222,
+      46.5219
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Lamartine",
+            "hu": "Espace Lamartine",
+            "ro": "Espace Lamartine",
+            "en": "Espace Lamartine"
+          },
+          "coords": [
+            6.021488,
+            46.522153
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie verschiedene kulturelle Ausstellungen in diesem dynamischen Raum für lokale Künstler und prüfen Sie die Anschlagtafel am Eingang auf Abendveranstaltungen.",
+            "hu": "Élvezze a helyi művészeknek szentelt dinamikus kulturális teret a különböző kiállításokkal, és érkezéskor rögtön nézze meg a bejáratnál a hirdetőtáblát az esti programokért.",
+            "ro": "Bucurați-vă de expozițiile culturale din acest spațiu dinamic dedicat artiștilor locali, și verificați avizierul de la intrare pentru a afla despre evenimentele de seară.",
+            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Bienne-Schlucht",
+            "hu": "Bienne-szurdok",
+            "ro": "Defileul Bienne",
+            "en": "Bienne Gorge"
+          },
+          "coords": [
+            6.023,
+            46.5227
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppige Schlucht des Flusses Bienne mit ihrem erfrischenden Mikroklima und tragen Sie feste wasserdichte Schuhe, da der Weg rutschig ist.",
+            "hu": "Sétáljon át a Bienne folyó által vájt dús, hűvös szurdokon, és mindenképpen viseljen vízálló túracipőt, mivel a köves ösvény sok helyen csúszós és nedves lehet.",
+            "ro": "Plimbați-vă prin defileul îngust și răcoros săpat de râul Bienne, și asigurați-vă că purtați încălțăminte impermeabilă, deoarece poteca poate fi destul de alunecoasă.",
+            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption-de-Notre-Dame",
+            "hu": "Église de l'Assomption-de-Notre-Dame",
+            "ro": "Église de l'Assomption-de-Notre-Dame",
+            "en": "Église de l'Assomption-de-Notre-Dame"
+          },
+          "coords": [
+            6.024123,
+            46.520265
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um die wunderschönen Buntglasfenster zu betrachten, und verhalten Sie sich ruhig, da Einheimische hier häufig beten.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi történelmet tükröző gyönyörű ólomüveg ablakokat, és ügyeljen a csendre az imádkozó helyiek miatt.",
+            "ro": "Pășiți în această biserică liniștită pentru a observa vitraliile superbe ce reflectă istoria locală, și păstrați liniștea deoarece localnicii se roagă frecvent aici.",
+            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here."
+          }
+        },
+        {
+          "name": {
+            "de": "Brillenmuseum",
+            "hu": "Szemüvegmúzeum",
+            "ro": "Muzeul Ochelarilor",
+            "en": "Museum of Eyewear"
+          },
+          "coords": [
+            6.022652,
+            46.52057
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
+            "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
+            "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Morez-Viadukte",
+            "hu": "Morez-i viaduktok",
+            "ro": "Viaductele din Morez",
+            "en": "Morez Viaducts"
+          },
+          "coords": [
+            6.023154,
+            46.527338
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
+            "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
+            "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Morez beginnt im Herzen des Kulturviertels im Espace Lamartine, wo Sie den lokalen künstlerischen Geist aufnehmen.\n\nAm Mittag kommen Sie der Natur in der Bienne-Schlucht nahe und finden danach eine friedliche Pause in der Église de l'Assomption.\n\nTauchen Sie am Nachmittag im renommierten Brillenmuseum in das reiche industrielle Erbe und die Geschichte der Brillenherstellung ein.\n\nBeenden Sie Ihren Tag, indem Sie die architektonischen Wunder der Morez-Viadukte bewundern, die sich beeindruckend gegen den Abendhimmel abzeichnen.",
+        "hu": "A morezi séta a kulturális negyed szívében, az Espace Lamartine-nál indul, ahol átérezheti a helyi művészeti pezsgést.\n\nA nap közepén a Bienne-szurdok természetközeli élménye frissíti fel, majd a csendes Église de l'Assomption templom nyújt békés pihenőt.\n\nDélután merüljön el a város ipari örökségében a híres Szemüvegmúzeumban, megismerve a helyi szemüveggyártás történetét.\n\nA napot a morezi viaduktok építészeti csodájának megcsodálásával zárja, amelyek lenyűgöző látványt nyújtanak az esti égbolt előtt.",
+        "ro": "Turul pietonal din Morez începe în inima districtului cultural la Espace Lamartine, unde veți absorbi spiritul artistic local.\n\nLa amiază, natura vă cheamă la defileul Bienne pentru o plimbare răcoroasă, urmată de un moment de liniște la biserica Église de l'Assomption.\n\nDupă-amiaza este dedicată patrimoniului industrial la faimosul Muzeu al Ochelarilor, explorând o istorie fascinantă.\n\nÎncheiați ziua admirând minunăția arhitecturală a viaductelor din Morez, care oferă o priveliște impresionantă sub cerul de seară.",
+        "en": "Your walking tour of Morez begins in the heart of the cultural district at Espace Lamartine. Here, you'll absorb the local artistic spirit.\n\nMidday brings you close to nature at the Bienne gorge, offering a refreshing walk along the river. Following this, the serene Église de l'Assomption provides a peaceful moment.\n\nIn the afternoon, dive into the town's rich industrial heritage at the renowned Eyewear Museum, exploring the legacy of glasses.\n\nConclude your day admiring the architectural marvel of the Morez viaducts. Their impressive scale against the evening sky makes for an unforgettable sight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus der Emaillekunst",
+            "hu": "Zománcművészet Háza",
+            "ro": "Casa Artei Emailului",
+            "en": "House of Enamel Art"
+          },
+          "coords": [
+            6.025811,
+            46.515028
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Emaillekunst, die eine einzigartige regionale Handwerkstradition hervorhebt, und prüfen Sie den Zeitplan für Live-Demonstrationen.",
+            "hu": "Csodálja meg a páratlan helyi zománcművészeti alkotásokat, amelyek a regionális hagyományokat őrzik, és érdemes előre tájékozódni az élő kézműves bemutatókról.",
+            "ro": "Admirați rafinata artă locală a emailului care subliniază o tradiție meșteșugărească unică, și verificați neapărat programul pentru demonstrațiile live ale artizanilor.",
+            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Brillenmuseum",
+            "hu": "Szemüvegmúzeum",
+            "ro": "Muzeul Ochelarilor",
+            "en": "Museum of Eyewear"
+          },
+          "coords": [
+            6.022652,
+            46.52057
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
+            "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
+            "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption-de-Notre-Dame",
+            "hu": "Église de l'Assomption-de-Notre-Dame",
+            "ro": "Église de l'Assomption-de-Notre-Dame",
+            "en": "Église de l'Assomption-de-Notre-Dame"
+          },
+          "coords": [
+            6.024123,
+            46.520265
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um die wunderschönen Buntglasfenster zu betrachten, und verhalten Sie sich ruhig, da Einheimische hier häufig beten.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi történelmet tükröző gyönyörű ólomüveg ablakokat, és ügyeljen a csendre az imádkozó helyiek miatt.",
+            "ro": "Pășiți în această biserică liniștită pentru a observa vitraliile superbe ce reflectă istoria locală, și păstrați liniștea deoarece localnicii se roagă frecvent aici.",
+            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Lamartine",
+            "hu": "Espace Lamartine",
+            "ro": "Espace Lamartine",
+            "en": "Espace Lamartine"
+          },
+          "coords": [
+            6.021488,
+            46.522153
+          ],
+          "category": "cultural",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie verschiedene kulturelle Ausstellungen in diesem dynamischen Raum für lokale Künstler und prüfen Sie die Anschlagtafel am Eingang auf Abendveranstaltungen.",
+            "hu": "Élvezze a helyi művészeknek szentelt dinamikus kulturális teret a különböző kiállításokkal, és érkezéskor rögtön nézze meg a bejáratnál a hirdetőtáblát az esti programokért.",
+            "ro": "Bucurați-vă de expozițiile culturale din acest spațiu dinamic dedicat artiștilor locali, și verificați avizierul de la intrare pentru a afla despre evenimentele de seară.",
+            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Bienne-Schlucht",
+            "hu": "Bienne-szurdok",
+            "ro": "Defileul Bienne",
+            "en": "Bienne Gorge"
+          },
+          "coords": [
+            6.023,
+            46.5227
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppige Schlucht des Flusses Bienne mit ihrem erfrischenden Mikroklima und tragen Sie feste wasserdichte Schuhe, da der Weg rutschig ist.",
+            "hu": "Sétáljon át a Bienne folyó által vájt dús, hűvös szurdokon, és mindenképpen viseljen vízálló túracipőt, mivel a köves ösvény sok helyen csúszós és nedves lehet.",
+            "ro": "Plimbați-vă prin defileul îngust și răcoros săpat de râul Bienne, și asigurați-vă că purtați încălțăminte impermeabilă, deoarece poteca poate fi destul de alunecoasă.",
+            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Morez-Viadukte",
+            "hu": "Morez-i viaduktok",
+            "ro": "Viaductele din Morez",
+            "en": "Morez Viaducts"
+          },
+          "coords": [
+            6.023154,
+            46.527338
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
+            "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
+            "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour südlich des Zentrums im Haus der Emaillekunst und tauchen Sie in das lokale Kunsthandwerk ein.\n\nFahren Sie nach Norden zum faszinierenden Brillenmuseum, bevor Sie in der nahegelegenen Kirche eine ruhige Besinnung finden.\n\nIhr Nachmittag geht im Espace Lamartine mit Kultur weiter, gefolgt von einer erfrischenden Brise in der Bienne-Schlucht.\n\nBeenden Sie Ihre Radtour an den majestätischen Morez-Viadukten und fangen Sie das Licht der goldenen Stunde an den Eisenbahnbögen ein.",
+        "hu": "Kerékpáros túráját a központtól délre, a Zománcművészet Házában kezdi, ahol megismerheti a finom helyi kézművességet.\n\nTekerjen északra a lenyűgöző Szemüvegmúzeumhoz, majd egy rövid úttal érje el a közeli templomot egy kis csendes elmélkedésre.\n\nA délután az Espace Lamartine kulturális élményeivel folytatódik, majd a Bienne-szurdok hűsítő levegője frissíti fel.\n\nZárja kerékpáros napját a fenséges morezi viaduktoknál, megörökítve az aranyóra fényeit a lenyűgöző vasúti boltíveken.",
+        "ro": "Începeți traseul de ciclism la sud de centru, la Casa Artei Emailului, scufundându-vă în meșteșugurile locale complexe.\n\nPedalați spre nord până la fascinantul Muzeu al Ochelarilor, urmat de un scurt popas la biserica din apropiere pentru o clipă de liniște.\n\nDupă-amiaza continuă la Espace Lamartine pentru o doză de cultură, urmată de o briză răcoroasă la defileul Bienne.\n\nTerminați turul pe bicicletă la viaductele maiestuoase din Morez, surprinzând lumina orei de aur lovind arcadele feroviare.",
+        "en": "Kick off your cycling journey south of the center at the Zománcművészet Háza, immersing yourself in intricate local crafts.\n\nRide north to the fascinating Eyewear Museum before taking a short pedal to the nearby church for some quiet reflection.\n\nYour afternoon continues at Espace Lamartine for a cultural boost, followed by a refreshing breeze at the Bienne gorge.\n\nEnd your cycling tour at the majestic Morez viaducts, capturing the golden hour light striking the magnificent railway arches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Roche du Béchet",
+            "hu": "Roche du Béchet",
+            "ro": "Roche du Béchet",
+            "en": "Roche du Béchet"
+          },
+          "coords": [
+            6.025242,
+            46.510433
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser markanten Felsformation, um einen Panoramablick auf das Jura-Gebirge zu genießen, und bringen Sie eine Windjacke für den windigen Gipfel mit.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző sziklaalakzathoz a Jura-hegységre nyíló panorámáért, és hozzon magával egy széldzsekit, mert a csúcson gyakran erős a szél.",
+            "ro": "Urcați la această formațiune stâncoasă impresionantă pentru o vedere panoramică asupra munților Jura, și aduceți o geacă de vânt deoarece pe vârf bate vântul.",
+            "en": "Hike up to this striking natural rock formation for sweeping panoramic views of the Jura mountains, and bring a windbreaker as the summit can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche fendue",
+            "hu": "Roche fendue",
+            "ro": "Roche fendue",
+            "en": "Roche fendue"
+          },
+          "coords": [
+            6.017542,
+            46.513955
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen mysteriösen gespaltenen Felsen, der ein geologisches Rätsel darstellt, und nähern Sie sich vorsichtig über den nördlichen Pfad, um Steigungen zu vermeiden.",
+            "hu": "Fedezze fel ezt a hatalmas, rejtélyes hasadt sziklát, amely geológiai ritkaságnak számít, és a lankásabb északi ösvény felől közelítse meg a meredek szakaszok elkerüléséért.",
+            "ro": "Descoperiți această stâncă despicată misterioasă care oferă un puzzle geologic interesant, și apropiați-vă cu grijă de pe traseul nordic pentru a evita pantele abrupte.",
+            "en": "Discover this massive, mysterious split rock that offers an intriguing geological puzzle, and approach carefully from the northern trail to avoid the steepest inclines."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Emaillekunst",
+            "hu": "Zománcművészet Háza",
+            "ro": "Casa Artei Emailului",
+            "en": "House of Enamel Art"
+          },
+          "coords": [
+            6.025811,
+            46.515028
+          ],
+          "category": "cultural",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Emaillekunst, die eine einzigartige regionale Handwerkstradition hervorhebt, und prüfen Sie den Zeitplan für Live-Demonstrationen.",
+            "hu": "Csodálja meg a páratlan helyi zománcművészeti alkotásokat, amelyek a regionális hagyományokat őrzik, és érdemes előre tájékozódni az élő kézműves bemutatókról.",
+            "ro": "Admirați rafinata artă locală a emailului care subliniază o tradiție meșteșugărească unică, și verificați neapărat programul pentru demonstrațiile live ale artizanilor.",
+            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Brillenmuseum",
+            "hu": "Szemüvegmúzeum",
+            "ro": "Muzeul Ochelarilor",
+            "en": "Museum of Eyewear"
+          },
+          "coords": [
+            6.022652,
+            46.52057
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
+            "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
+            "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Morez-Viadukte",
+            "hu": "Morez-i viaduktok",
+            "ro": "Viaductele din Morez",
+            "en": "Morez Viaducts"
+          },
+          "coords": [
+            6.023154,
+            46.527338
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
+            "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
+            "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grange du Bugnon",
+            "hu": "La Grange du Bugnon",
+            "ro": "La Grange du Bugnon",
+            "en": "La Grange du Bugnon"
+          },
+          "coords": [
+            6.007878,
+            46.527896
+          ],
+          "category": "historical",
+          "arrive_at": "16:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese hervorragend erhaltene historische Scheune, die Einblicke in die Berglandwirtschaft bietet, und fragen Sie den Hausmeister nach dem tollen Audioguide.",
+            "hu": "Látogasson el ebbe a kiválóan megőrzött történelmi pajtába a hagyományos hegyi mezőgazdaság megismeréséért, és kérje el a gondnoktól a rendkívül hasznos audioguide-ot.",
+            "ro": "Vizitați acest hambar istoric excelent conservat pentru a înțelege agricultura montană tradițională, și cereți îngrijitorului ghidul audio fascinant pentru mai multe detalii.",
+            "en": "Visit this exceptionally preserved historic barn that provides insight into traditional mountain agriculture, and ask the caretaker for the fascinating audio guide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrabenteuer beginnt am markanten Roche du Béchet, der morgens spektakuläre Panoramen auf die Jura-Landschaften bietet.\n\nEine kurze Fahrt bringt Sie zum geologischen Wunder Roche fendue, gefolgt von lokaler Kunst im Haus der Emaillekunst.\n\nVerbringen Sie den Nachmittag im berühmten Brillenmuseum in der Stadt und bewundern Sie die unglaubliche Technik der Viadukte.\n\nBeenden Sie Ihre Fahrt bei La Grange du Bugnon und erleben Sie den anhaltenden Charme der traditionellen regionalen Landwirtschaft.",
+        "hu": "Autós kalandja a lenyűgöző Roche du Béchet-nél kezdődik, ahonnan látványos reggeli panoráma nyílik a Jura-vidékre.\n\nEgy rövid autózás után a Roche fendue geológiai csodája következik, majd a helyi művészetet csodálhatja meg a Zománcművészet Házában.\n\nA délutánt a város híres szemüvegmúzeumában tölti, majd a történelmi viaduktok hihetetlen mérnöki munkáját csodálhatja meg.\n\nZárja a festői autózást a La Grange du Bugnon-nál, megtapasztalva a hagyományos regionális mezőgazdaság varázsát.",
+        "ro": "Aventura cu mașina începe la impresionanta Roche du Béchet, oferind panorame matinale spectaculoase ale peisajelor din Jura.\n\nUn drum scurt vă duce la minunea geologică Roche fendue, urmată de aprecierea artei locale la Casa Artei Emailului.\n\nPetreceți după-amiaza în oraș la faimosul muzeu al ochelarilor, apoi admirați ingineria incredibilă a viaductelor istorice.\n\nÎncheiați traseul pitoresc la La Grange du Bugnon, experimentând farmecul durabil al agriculturii tradiționale din regiune.",
+        "en": "Your driving adventure starts at the striking Roche du Béchet, offering spectacular morning panoramas of the Jura landscapes.\n\nA short drive brings you to the geological wonder of Roche fendue, followed by an appreciation of local art at the House of Enamel Art.\n\nSpend the afternoon back in town at the famous eyewear museum and then admire the incredible engineering of the historic viaducts.\n\nConclude your scenic drive at La Grange du Bugnon, experiencing the enduring charm of traditional regional agriculture."
+      }
+    }
+  }
+}

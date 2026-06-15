@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-la-union-cities-v2",
+  "anchor": {
+    "name": "La Unión",
+    "coords": [
+      -0.87784,
+      37.61719
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Minero",
+            "hu": "Museo Minero",
+            "ro": "Museo Minero",
+            "en": "Museo Minero"
+          },
+          "coords": [
+            -0.87831,
+            37.617218
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Bergbaugeschichte in diesem faszinierenden Museum und achten Sie besonders auf die Mineraliensammlung im Erdgeschoss für einen umfassenden Einblick.",
+            "hu": "Fedezze fel a lenyűgöző bányászati történelmet ebben a múzeumban, és mindenképpen szánjon időt a földszinti ásványgyűjteményre a teljes élmény érdekében.",
+            "ro": "Explorați istoria minieră bogată în acest muzeu fascinant și asigurați-vă că vizitați colecția de minerale de la parter pentru o înțelegere completă a industriei locale.",
+            "en": "Discover the rich mining heritage in this fascinating museum and make sure to closely examine the ground-floor mineral collection for a comprehensive historical insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina La Sierva",
+            "hu": "Mina La Sierva",
+            "ro": "Mina La Sierva",
+            "en": "Mina La Sierva"
+          },
+          "coords": [
+            -0.887474,
+            37.617195
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Schächte dieses historischen Bergbaustandorts und tragen Sie unbedingt festes Schuhwerk, um das unebene Gelände sicher und bequem zu meistern.",
+            "hu": "Járja be ennek a történelmi bányászati helyszínnek az ősi aknáit, de feltétlenül viseljen strapabíró lábbelit, hogy biztonságosan és kényelmesen mozoghasson az egyenetlen terepen.",
+            "ro": "Explorați puțurile vechi ale acestui sit minier istoric, dar purtați neapărat încălțăminte robustă pentru a naviga în siguranță și confortabil pe terenul accidentat.",
+            "en": "Explore the ancient shafts of this historical mining site, but ensure you wear sturdy footwear to safely and comfortably navigate the highly uneven terrain around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Climatizada",
+            "hu": "Piscina Climatizada",
+            "ro": "Piscina Climatizada",
+            "en": "Piscina Climatizada"
+          },
+          "coords": [
+            -0.885107,
+            37.622481
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach den historischen Erkundungen in diesem städtischen Hallenbad und bringen Sie Ihre eigene Badekappe mit, da diese für den Zutritt obligatorisch ist.",
+            "hu": "Pihenjen meg a történelmi felfedezések után ebben a városi fedett uszodában, de hozzon magával saját úszósapkát, mivel annak viselése kötelező a belépéshez.",
+            "ro": "Relaxați-vă după explorările istorice în această piscină interioară municipală, dar aduceți-vă propria cască de înot, deoarece este obligatorie pentru acces.",
+            "en": "Relax after your historical explorations in this municipal indoor swimming pool, but remember to bring your own swimming cap as it is strictly required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Parque Minero",
+            "hu": "Centro de Interpretación Parque Minero",
+            "ro": "Centro de Interpretación Parque Minero",
+            "en": "Centro de Interpretación Parque Minero"
+          },
+          "coords": [
+            -0.8729,
+            37.615359
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefere Geschichte des Bergbauparks ein und buchen Sie Ihre Führung am besten im Voraus, um lange Wartezeiten am Nachmittag zu vermeiden.",
+            "hu": "Merüljön el a bányászati park történetében ezen az interpretációs központon keresztül, és érdemes előre lefoglalnia a vezetett túrát a délutáni várakozás elkerülése végett.",
+            "ro": "Aprofundați istoria parcului minier la acest centru de interpretare și rezervați-vă din timp turul ghidat pentru a evita așteptarea lungă din timpul după-amiezelor aglomerate.",
+            "en": "Delve into the broader history of the mining park at this interpretation center, and book your guided tour in advance to avoid long waits during the busy afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavadero de Mina Remunerada",
+            "hu": "Lavadero de Mina Remunerada",
+            "ro": "Lavadero de Mina Remunerada",
+            "en": "Lavadero de Mina Remunerada"
+          },
+          "coords": [
+            -0.869704,
+            37.612171
+          ],
+          "category": "landmark",
+          "arrive_at": "15:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Überreste der alten Erzwäscherei und fotografieren Sie die Strukturen im späten Nachmittagslicht für besonders dramatische Schattenwürfe.",
+            "hu": "Csodálja meg a régi ércmosó építészeti maradványait, és fotózza le a romokat a késő délutáni fényben, hogy különösen drámai és kontrasztos képeket készíthessen.",
+            "ro": "Admirați rămășițele arhitecturale ale vechii spălătorii de minereu și fotografiați structurile în lumina după-amiezii târzii pentru a surprinde umbre dramatice.",
+            "en": "Marvel at the architectural remains of the old ore washing facility, and capture the structures in the late afternoon light for particularly dramatic and contrasting shadows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von La Unión mit einem tiefen Einblick in die Bergbaugeschichte. Ein kurzer Spaziergang führt Sie danach zu den historischen Schächten. Nachmittags erwartet Sie das Interpretationszentrum des Bergbauparks. Beenden Sie den Tag bei den Ruinen der Erzwäscherei, die im warmen Abendlicht erstrahlen.",
+        "hu": "Kezdje a napot La Unión szívében, a helyi bányászat lenyűgöző múltjának felfedezésével. Egy rövid séta elvezeti a történelmi aknákhoz. Délután a Bányászati Park látogatóközpontja várja, tele érdekességekkel. A napot a régi ércmosó romjainál zárhatja, ahol a lemenő nap fénye varázslatos hangulatot teremt.",
+        "ro": "Începeți ziua în inima orașului La Unión cu o incursiune în istoria minieră fascinantă. O scurtă plimbare vă duce apoi la puțurile istorice. După-amiaza vă așteaptă centrul de interpretare al parcului minier. Încheiați ziua la ruinele vechii spălătorii de minereu, care strălucesc sub lumina blândă a serii.",
+        "en": "Start your day in the heart of La Unión by diving deep into the region's fascinating mining history. A short stroll then leads you to historical shafts. The afternoon welcomes you to the expansive interpretation center of the mining park. End the day at the dramatic ore-washing ruins, glowing under the warm evening sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Minero",
+            "hu": "Museo Minero",
+            "ro": "Museo Minero",
+            "en": "Museo Minero"
+          },
+          "coords": [
+            -0.87831,
+            37.617218
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Bergbaugeschichte in diesem faszinierenden Museum und achten Sie besonders auf die Mineraliensammlung im Erdgeschoss für einen umfassenden Einblick.",
+            "hu": "Fedezze fel a lenyűgöző bányászati történelmet ebben a múzeumban, és mindenképpen szánjon időt a földszinti ásványgyűjteményre a teljes élmény érdekében.",
+            "ro": "Explorați istoria minieră bogată în acest muzeu fascinant și asigurați-vă că vizitați colecția de minerale de la parter pentru o înțelegere completă a industriei locale.",
+            "en": "Discover the rich mining heritage in this fascinating museum and make sure to closely examine the ground-floor mineral collection for a comprehensive historical insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina La Sierva",
+            "hu": "Mina La Sierva",
+            "ro": "Mina La Sierva",
+            "en": "Mina La Sierva"
+          },
+          "coords": [
+            -0.887474,
+            37.617195
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Schächte dieses historischen Bergbaustandorts und tragen Sie unbedingt festes Schuhwerk, um das unebene Gelände sicher und bequem zu meistern.",
+            "hu": "Járja be ennek a történelmi bányászati helyszínnek az ősi aknáit, de feltétlenül viseljen strapabíró lábbelit, hogy biztonságosan és kényelmesen mozoghasson az egyenetlen terepen.",
+            "ro": "Explorați puțurile vechi ale acestui sit minier istoric, dar purtați neapărat încălțăminte robustă pentru a naviga în siguranță și confortabil pe terenul accidentat.",
+            "en": "Explore the ancient shafts of this historical mining site, but ensure you wear sturdy footwear to safely and comfortably navigate the highly uneven terrain around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Parque Minero",
+            "hu": "Centro de Interpretación Parque Minero",
+            "ro": "Centro de Interpretación Parque Minero",
+            "en": "Centro de Interpretación Parque Minero"
+          },
+          "coords": [
+            -0.8729,
+            37.615359
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefere Geschichte des Bergbauparks ein und buchen Sie Ihre Führung am besten im Voraus, um lange Wartezeiten am Nachmittag zu vermeiden.",
+            "hu": "Merüljön el a bányászati park történetében ezen az interpretációs központon keresztül, és érdemes előre lefoglalnia a vezetett túrát a délutáni várakozás elkerülése végett.",
+            "ro": "Aprofundați istoria parcului minier la acest centru de interpretare și rezervați-vă din timp turul ghidat pentru a evita așteptarea lungă din timpul după-amiezelor aglomerate.",
+            "en": "Delve into the broader history of the mining park at this interpretation center, and book your guided tour in advance to avoid long waits during the busy afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavadero de Mina Remunerada",
+            "hu": "Lavadero de Mina Remunerada",
+            "ro": "Lavadero de Mina Remunerada",
+            "en": "Lavadero de Mina Remunerada"
+          },
+          "coords": [
+            -0.869704,
+            37.612171
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Überreste der alten Erzwäscherei und fotografieren Sie die Strukturen im späten Nachmittagslicht für besonders dramatische Schattenwürfe.",
+            "hu": "Csodálja meg a régi ércmosó építészeti maradványait, és fotózza le a romokat a késő délutáni fényben, hogy különösen drámai és kontrasztos képeket készíthessen.",
+            "ro": "Admirați rămășițele arhitecturale ale vechii spălătorii de minereu și fotografiați structurile în lumina după-amiezii târzii pentru a surprinde umbre dramatice.",
+            "en": "Marvel at the architectural remains of the old ore washing facility, and capture the structures in the late afternoon light for particularly dramatic and contrasting shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sancti Spiritu",
+            "hu": "Sancti Spiritu",
+            "ro": "Sancti Spiritu",
+            "en": "Sancti Spiritu"
+          },
+          "coords": [
+            -0.861171,
+            37.610476
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem bedeutenden lokalen Wahrzeichen und nehmen Sie sich einen Moment Zeit, um die feinen Details der Architektur aus der Nähe zu betrachten.",
+            "hu": "Élvezze a békés hangulatot ezen a jelentős helyi nevezetességnél, és szánjon egy pillanatot arra, hogy testközelből is megvizsgálja a különleges építészeti finomságokat.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui punct de reper local important și alocați-vă un moment pentru a examina îndeaproape detaliile fine ale arhitecturii.",
+            "en": "Enjoy the peaceful atmosphere at this significant local landmark and take a brief moment to examine the fine, intricate details of its traditional architecture up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina Blanca",
+            "hu": "Mina Blanca",
+            "ro": "Mina Blanca",
+            "en": "Mina Blanca"
+          },
+          "coords": [
+            -0.848951,
+            37.629971
+          ],
+          "category": "museum",
+          "arrive_at": "14:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden weißen Mineralablagerungen dieser Mine und bringen Sie eine gute Taschenlampe mit, um die dunkleren Ecken der Ausstellung besser zu sehen.",
+            "hu": "Fedezze fel ennek a bányának a lenyűgöző fehér ásványi lerakódásait, és hozzon magával egy zseblámpát, hogy a kiállítás sötétebb sarkait is alaposan szemügyre vehesse.",
+            "ro": "Descoperiți depozitele minerale albe impresionante ale acestei mine și aduceți o lanternă de calitate pentru a vedea mai bine colțurile întunecate ale expoziției.",
+            "en": "Discover the impressive white mineral deposits of this unique mine, and bring a strong flashlight to better examine the darker corners of the intriguing exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina Las Matildes",
+            "hu": "Mina Las Matildes",
+            "ro": "Mina Las Matildes",
+            "en": "Mina Las Matildes"
+          },
+          "coords": [
+            -0.854908,
+            37.631825
+          ],
+          "category": "museum",
+          "arrive_at": "16:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Entwässerungstechnik des Bergbaus und spazieren Sie anschließend durch die umliegende revitalisierte Landschaft, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Ismerje meg a bányászati vízelvezetési technikákat, majd tegyen egy pihentető sétát a környező revitalizált tájon, hogy tökéletesen zárhassa le ezt az élménydús napot.",
+            "ro": "Aflați totul despre tehnologia de drenaj minier și apoi plimbați-vă prin peisajul revitalizat din jur pentru a vă încheia ziua într-un mod cât mai relaxant.",
+            "en": "Learn all about historical mine drainage technology, and then take a relaxing walk through the surrounding revitalized landscape to perfectly conclude your exciting day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Zentrum bei den wichtigsten Bergbaumuseen der Stadt. Radeln Sie zügig zu den historischen Ausgrabungen und dem modernen Interpretationszentrum. Der Nachmittag bringt Sie zu den Wahrzeichen am Stadtrand. Am Abend erkunden Sie die abgelegenen Minen von Blanca und Las Matildes im sanften Licht.",
+        "hu": "A kerékpáros túra a központban, a város legfőbb bányászati múzeumainál kezdődik. Tekerjen gyorsan a történelmi ásatásokhoz és az interaktív látogatóközponthoz. A délután a külvárosi nevezetességekhez vezet. Este fedezze fel a Blanca és a Las Matildes távolabbi bányáit a lenyugvó nap lágy és festői fényében.",
+        "ro": "Turul pe bicicletă începe în centru, la principalele muzee miniere. Pedați spre excavațiile istorice și centrul modern de interpretare. După-amiaza vă poartă spre reperele de la periferie. Seara, explorați minele izolate Blanca și Las Matildes, învăluite într-o lumină pitorească și caldă la apus.",
+        "en": "Your cycling tour kicks off in the center at the city's premier mining museums. Pedal swiftly to historical excavations and the modern interpretation center. The afternoon takes you to distinctive landmarks on the outskirts. By evening, explore the remote Blanca and Las Matildes mines bathed in soft, scenic light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Minero",
+            "hu": "Museo Minero",
+            "ro": "Museo Minero",
+            "en": "Museo Minero"
+          },
+          "coords": [
+            -0.87831,
+            37.617218
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Bergbaugeschichte in diesem faszinierenden Museum und achten Sie besonders auf die Mineraliensammlung im Erdgeschoss für einen umfassenden Einblick.",
+            "hu": "Fedezze fel a lenyűgöző bányászati történelmet ebben a múzeumban, és mindenképpen szánjon időt a földszinti ásványgyűjteményre a teljes élmény érdekében.",
+            "ro": "Explorați istoria minieră bogată în acest muzeu fascinant și asigurați-vă că vizitați colecția de minerale de la parter pentru o înțelegere completă a industriei locale.",
+            "en": "Discover the rich mining heritage in this fascinating museum and make sure to closely examine the ground-floor mineral collection for a comprehensive historical insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina La Sierva",
+            "hu": "Mina La Sierva",
+            "ro": "Mina La Sierva",
+            "en": "Mina La Sierva"
+          },
+          "coords": [
+            -0.887474,
+            37.617195
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Schächte dieses historischen Bergbaustandorts und tragen Sie unbedingt festes Schuhwerk, um das unebene Gelände sicher und bequem zu meistern.",
+            "hu": "Járja be ennek a történelmi bányászati helyszínnek az ősi aknáit, de feltétlenül viseljen strapabíró lábbelit, hogy biztonságosan és kényelmesen mozoghasson az egyenetlen terepen.",
+            "ro": "Explorați puțurile vechi ale acestui sit minier istoric, dar purtați neapărat încălțăminte robustă pentru a naviga în siguranță și confortabil pe terenul accidentat.",
+            "en": "Explore the ancient shafts of this historical mining site, but ensure you wear sturdy footwear to safely and comfortably navigate the highly uneven terrain around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Parque Minero",
+            "hu": "Centro de Interpretación Parque Minero",
+            "ro": "Centro de Interpretación Parque Minero",
+            "en": "Centro de Interpretación Parque Minero"
+          },
+          "coords": [
+            -0.8729,
+            37.615359
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefere Geschichte des Bergbauparks ein und buchen Sie Ihre Führung am besten im Voraus, um lange Wartezeiten am Nachmittag zu vermeiden.",
+            "hu": "Merüljön el a bányászati park történetében ezen az interpretációs központon keresztül, és érdemes előre lefoglalnia a vezetett túrát a délutáni várakozás elkerülése végett.",
+            "ro": "Aprofundați istoria parcului minier la acest centru de interpretare și rezervați-vă din timp turul ghidat pentru a evita așteptarea lungă din timpul după-amiezelor aglomerate.",
+            "en": "Delve into the broader history of the mining park at this interpretation center, and book your guided tour in advance to avoid long waits during the busy afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavadero de Mina Remunerada",
+            "hu": "Lavadero de Mina Remunerada",
+            "ro": "Lavadero de Mina Remunerada",
+            "en": "Lavadero de Mina Remunerada"
+          },
+          "coords": [
+            -0.869704,
+            37.612171
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Überreste der alten Erzwäscherei und fotografieren Sie die Strukturen im späten Nachmittagslicht für besonders dramatische Schattenwürfe.",
+            "hu": "Csodálja meg a régi ércmosó építészeti maradványait, és fotózza le a romokat a késő délutáni fényben, hogy különösen drámai és kontrasztos képeket készíthessen.",
+            "ro": "Admirați rămășițele arhitecturale ale vechii spălătorii de minereu și fotografiați structurile în lumina după-amiezii târzii pentru a surprinde umbre dramatice.",
+            "en": "Marvel at the architectural remains of the old ore washing facility, and capture the structures in the late afternoon light for particularly dramatic and contrasting shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sancti Spiritu",
+            "hu": "Sancti Spiritu",
+            "ro": "Sancti Spiritu",
+            "en": "Sancti Spiritu"
+          },
+          "coords": [
+            -0.861171,
+            37.610476
+          ],
+          "category": "landmark",
+          "arrive_at": "14:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem bedeutenden lokalen Wahrzeichen und nehmen Sie sich einen Moment Zeit, um die feinen Details der Architektur aus der Nähe zu betrachten.",
+            "hu": "Élvezze a békés hangulatot ezen a jelentős helyi nevezetességnél, és szánjon egy pillanatot arra, hogy testközelből is megvizsgálja a különleges építészeti finomságokat.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui punct de reper local important și alocați-vă un moment pentru a examina îndeaproape detaliile fine ale arhitecturii.",
+            "en": "Enjoy the peaceful atmosphere at this significant local landmark and take a brief moment to examine the fine, intricate details of its traditional architecture up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina Blanca",
+            "hu": "Mina Blanca",
+            "ro": "Mina Blanca",
+            "en": "Mina Blanca"
+          },
+          "coords": [
+            -0.848951,
+            37.629971
+          ],
+          "category": "museum",
+          "arrive_at": "14:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden weißen Mineralablagerungen dieser Mine und bringen Sie eine gute Taschenlampe mit, um die dunkleren Ecken der Ausstellung besser zu sehen.",
+            "hu": "Fedezze fel ennek a bányának a lenyűgöző fehér ásványi lerakódásait, és hozzon magával egy zseblámpát, hogy a kiállítás sötétebb sarkait is alaposan szemügyre vehesse.",
+            "ro": "Descoperiți depozitele minerale albe impresionante ale acestei mine și aduceți o lanternă de calitate pentru a vedea mai bine colțurile întunecate ale expoziției.",
+            "en": "Discover the impressive white mineral deposits of this unique mine, and bring a strong flashlight to better examine the darker corners of the intriguing exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina Las Matildes",
+            "hu": "Mina Las Matildes",
+            "ro": "Mina Las Matildes",
+            "en": "Mina Las Matildes"
+          },
+          "coords": [
+            -0.854908,
+            37.631825
+          ],
+          "category": "museum",
+          "arrive_at": "16:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Entwässerungstechnik des Bergbaus und spazieren Sie anschließend durch die umliegende revitalisierte Landschaft, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Ismerje meg a bányászati vízelvezetési technikákat, majd tegyen egy pihentető sétát a környező revitalizált tájon, hogy tökéletesen zárhassa le ezt az élménydús napot.",
+            "ro": "Aflați totul despre tehnologia de drenaj minier și apoi plimbați-vă prin peisajul revitalizat din jur pentru a vă încheia ziua într-un mod cât mai relaxant.",
+            "en": "Learn all about historical mine drainage technology, and then take a relaxing walk through the surrounding revitalized landscape to perfectly conclude your exciting day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem von Museum zu Museum und erleben Sie La Unións industrielle Vergangenheit hautnah. Die schnelle Anbindung ermöglicht den Besuch der zentralen Interpretationszentren. Nachmittags fahren Sie hinaus zu den beeindruckenden Außenanlagen. Der Tag endet perfekt an den eindrucksvollen historischen Minen Las Matildes.",
+        "hu": "Vezessen kényelmesen múzeumról múzeumra, és élje át testközelből La Unión ipari múltját. A gyors közlekedés lehetővé teszi a központi látogatóközpontok alapos bejárását. Délután hajtson ki a város szélén található lenyűgöző külső létesítményekhez. A nap a Las Matildes bánya grandiózus épületeinél ér véget.",
+        "ro": "Conduceți confortabil de la un muzeu la altul și experimentați îndeaproape trecutul industrial al orașului. Conexiunile rapide permit vizitarea eficientă a centrelor de interpretare. După-amiaza, conduceți spre impresionantul complex exterior. Ziua se încheie perfect la remarcabilele mine istorice Las Matildes.",
+        "en": "Drive comfortably from museum to museum, experiencing La Unión's industrial past up close. Quick transit allows for an efficient visit to the central interpretation hubs. In the afternoon, head out to the impressive peripheral complexes. The day concludes perfectly at the striking historical structures of the Las Matildes mine."
+      }
+    }
+  }
+}

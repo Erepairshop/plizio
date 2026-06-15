@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-vasto-cities-v2",
+  "anchor": {
+    "name": "Vasto",
+    "coords": [
+      14.708219,
+      42.111589
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido La Luccioletta",
+            "hu": "Lido La Luccioletta",
+            "ro": "Lido La Luccioletta",
+            "en": "Lido La Luccioletta"
+          },
+          "coords": [
+            14.717651,
+            42.105393
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang am weichen Strand vom Lido La Luccioletta, wo Sie bequeme Sonnenliegen mieten und das tiefblaue Adriawasser bewundern können.",
+            "hu": "Élvezze a pihentető reggeli sétát a Lido La Luccioletta puha homokján, ahol kényelmes napágyat bérelhet, és megcsodálhatja az Adriai-tenger kristálytiszta kék vizét.",
+            "ro": "Bucură-te de o plimbare matinală relaxantă pe nisipul fin de la Lido La Luccioletta, unde poți închiria un șezlong confortabil pentru a admira apele limpezi ale Adriaticii.",
+            "en": "Enjoy a relaxing morning stroll along the soft sands of Lido La Luccioletta, where you can rent a comfortable sunbed and admire the clear blue waters of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Aurora",
+            "hu": "Lido Aurora",
+            "ro": "Lido Aurora",
+            "en": "Lido Aurora"
+          },
+          "coords": [
+            14.718196,
+            42.104267
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie am Lido Aurora für ein erfrischendes Bad in den flachen Wellen, ideal für Familien, die Sandburgen bauen und danach einen Espresso am Strandkiosk trinken wollen.",
+            "hu": "Látogasson el a Lido Aurora sekély vizébe egy frissítő fürdőzésre, amely tökéletes a homokvárat építő családok számára, mielőtt felhajtanának egy eszpresszót a közeli pavilonban.",
+            "ro": "Oprește-te la Lido Aurora pentru o baie răcoritoare în valurile blânde, perfect pentru familiile care construiesc castele de nisip înainte de un espresso la chioșcul de pe plajă.",
+            "en": "Stop by Lido Aurora for a refreshing dip in the shallow waves, perfect for families looking to build sandcastles before grabbing a quick espresso at the nearby beach kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Mimì",
+            "hu": "Da Mimì",
+            "ro": "Da Mimì",
+            "en": "Da Mimì"
+          },
+          "coords": [
+            14.71891,
+            42.103008
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die gastfreundliche Atmosphäre im Da Mimì, einem idealen Ort für ein traditionelles Mittagessen mit Meeresfrüchten, vergessen Sie aber nicht, rechtzeitig zu reservieren.",
+            "hu": "Tapasztalja meg a Da Mimì barátságos légkörét, amely ideális hely egy hagyományos tengeri ebédhez óceáni kilátással, de főszezonban feltétlenül foglaljon asztalt előre.",
+            "ro": "Descoperă atmosfera primitoare de la Da Mimì, un loc ideal pentru un prânz tradițional cu fructe de mare și vedere la ocean, dar nu uita să rezervi masa din timp în sezonul de vârf.",
+            "en": "Experience the welcoming atmosphere of Da Mimì, an ideal spot for a traditional seafood lunch with ocean views, just be sure to reserve your table early during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Delfino",
+            "hu": "Il Delfino",
+            "ro": "Il Delfino",
+            "en": "Il Delfino"
+          },
+          "coords": [
+            14.720576,
+            42.101015
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie eine gemütliche Pause im Il Delfino, um die lebendige Strandkultur von Vasto aufzusaugen; bringen Sie Ihr eigenes Handtuch mit, wenn Sie nahe am Ufer liegen möchten.",
+            "hu": "Töltsön el egy kellemes pihenőt az Il Delfinóban, hogy magába szívja Vasto nyüzsgő tengerparti kultúráját, és hozzon saját törölközőt, ha közvetlenül a vízparton szeretne napozni.",
+            "ro": "Fă o pauză relaxantă la Il Delfino pentru a simți cultura vibrantă de pe litoralul din Vasto și adu-ți propriul prosop dacă preferi să stai pe malul mării sub soarele cald.",
+            "en": "Take a leisurely break at Il Delfino to soak up the vibrant seaside culture of Vasto, bringing your own towel if you prefer lying close to the shoreline under the warm sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Maremaje",
+            "hu": "Lido Maremaje",
+            "ro": "Lido Maremaje",
+            "en": "Lido Maremaje"
+          },
+          "coords": [
+            14.723244,
+            42.098272
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Strandabenteuer am Lido Maremaje, bekannt für seine eleganten Schirme und eine gut sortierte Bar, in der Sie beim Sonnenuntergang einen Cocktail schlürfen können.",
+            "hu": "Zárja tengerparti kalandját a Lido Maremaje strandján, amely elegáns napernyőiről és jól felszerelt bárjáról híres, ahol egy hűsítő koktélt szürcsölve nézheti végig a naplementét.",
+            "ro": "Încheie-ți aventura la Lido Maremaje, renumit pentru umbrelele sale elegante și barul excelent aprovizionat, unde poți savura un cocktail răcoritor în timp ce privești apusul.",
+            "en": "Wrap up your beach adventure at Lido Maremaje, famous for its elegant umbrellas and a well-stocked bar where you can sip a refreshing cocktail while watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den weichen Stränden und sanften Wellen des Lido La Luccioletta und Lido Aurora. Gegen Mittag können Sie im Da Mimì authentische Meeresfrüchte genießen und dabei die Meeresbrise spüren. Verbringen Sie Ihren Nachmittag entspannt unter der mediterranen Sonne im lebhaften Il Delfino. Wenn der Abend naht, schlendern Sie zum Lido Maremaje, um einen Cocktail zu trinken und den Sonnenuntergang zu bewundern.",
+        "hu": "Kezdje a reggelt a Lido La Luccioletta és a Lido Aurora puha homokjának és lágy hullámainak felfedezésével. Ahogy közeledik a dél, kóstolja meg az autentikus tengeri ízeket a Da Mimìben, miközben élvezi a parti szelet. Töltse a délutánt a mediterrán nap alatti pihenéssel a nyüzsgő Il Delfinóban. Végül, ahogy közeledik az este, sétáljon el a Lido Maremaje strandra, hogy koktélt kortyolgatva csodálja meg a naplementét.",
+        "ro": "Începe dimineața explorând nisipul fin și valurile blânde de la Lido La Luccioletta și Lido Aurora. La prânz, savurează arome autentice de fructe de mare la Da Mimì, bucurându-te de briza mării. Petrece-ți după-amiaza relaxându-te sub soarele mediteranean la vibrantul Il Delfino. În final, odată cu lăsarea serii, plimbă-te până la Lido Maremaje pentru un cocktail și un apus de soare superb pe Marea Adriatică.",
+        "en": "Start your morning exploring the soft sands and gentle waves at Lido La Luccioletta and Lido Aurora. As midday arrives, indulge in authentic local seafood flavors at Da Mimì while enjoying the coastal breeze. Spend your afternoon relaxing under the Mediterranean sun at the lively Il Delfino. Finally, as evening approaches, stroll down to Lido Maremaje to sip a refreshing cocktail and admire the stunning Adriatic sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Vignola",
+            "hu": "Villa Vignola",
+            "ro": "Villa Vignola",
+            "en": "Villa Vignola"
+          },
+          "coords": [
+            14.716866,
+            42.14874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit der Erkundung der ruhigen Umgebung der Villa Vignola, einem malerischen Küstenort, der abseits der vollen Strände atemberaubende Fotomotive bietet.",
+            "hu": "Kezdje a reggelt a Villa Vignola nyugodt környékének felfedezésével, amely egy festői tengerparti hely, és lenyűgöző fotózási lehetőségeket kínál távol a zsúfolt főstrandoktól.",
+            "ro": "Începe dimineața explorând împrejurimile liniștite de la Villa Vignola, un loc de coastă pitoresc ce oferă oportunități fotografice uimitoare departe de plajele principale aglomerate.",
+            "en": "Start your morning exploring the tranquil surroundings of Villa Vignola, a picturesque coastal spot that offers stunning photography opportunities away from the crowded main beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Delphis",
+            "hu": "Baia Delphis",
+            "ro": "Baia Delphis",
+            "en": "Baia Delphis"
+          },
+          "coords": [
+            14.717982,
+            42.144041
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgeschiedene Schönheit der Baia Delphis, einem Naturjuwel mit unglaublich klarem Wasser, weshalb es sehr empfehlenswert ist, hier Ihre Schnorchelausrüstung mitzubringen.",
+            "hu": "Fedezze fel a Baia Delphis eldugott szépségét, egy olyan természeti gyöngyszemet, ahol a víz hihetetlenül tiszta, ezért melegen ajánlott búvárfelszerelést hozni a tengerfenékhez.",
+            "ro": "Descoperă frumusețea retrasă a Baia Delphis, o bijuterie naturală cu o apă incredibil de limpede, fiind foarte recomandat să aduci echipament de snorkeling pentru a explora fundul mării.",
+            "en": "Discover the secluded beauty of Baia Delphis, a natural gem where the water is incredibly clear, making it highly recommended to bring snorkeling gear for exploring the seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Luccioletta",
+            "hu": "Lido La Luccioletta",
+            "ro": "Lido La Luccioletta",
+            "en": "Lido La Luccioletta"
+          },
+          "coords": [
+            14.717651,
+            42.105393
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang am weichen Strand vom Lido La Luccioletta, wo Sie bequeme Sonnenliegen mieten und das tiefblaue Adriawasser bewundern können.",
+            "hu": "Élvezze a pihentető reggeli sétát a Lido La Luccioletta puha homokján, ahol kényelmes napágyat bérelhet, és megcsodálhatja az Adriai-tenger kristálytiszta kék vizét.",
+            "ro": "Bucură-te de o plimbare matinală relaxantă pe nisipul fin de la Lido La Luccioletta, unde poți închiria un șezlong confortabil pentru a admira apele limpezi ale Adriaticii.",
+            "en": "Enjoy a relaxing morning stroll along the soft sands of Lido La Luccioletta, where you can rent a comfortable sunbed and admire the clear blue waters of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Delfino",
+            "hu": "Il Delfino",
+            "ro": "Il Delfino",
+            "en": "Il Delfino"
+          },
+          "coords": [
+            14.720576,
+            42.101015
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine gemütliche Pause im Il Delfino, um die lebendige Strandkultur von Vasto aufzusaugen; bringen Sie Ihr eigenes Handtuch mit, wenn Sie nahe am Ufer liegen möchten.",
+            "hu": "Töltsön el egy kellemes pihenőt az Il Delfinóban, hogy magába szívja Vasto nyüzsgő tengerparti kultúráját, és hozzon saját törölközőt, ha közvetlenül a vízparton szeretne napozni.",
+            "ro": "Fă o pauză relaxantă la Il Delfino pentru a simți cultura vibrantă de pe litoralul din Vasto și adu-ți propriul prosop dacă preferi să stai pe malul mării sub soarele cald.",
+            "en": "Take a leisurely break at Il Delfino to soak up the vibrant seaside culture of Vasto, bringing your own towel if you prefer lying close to the shoreline under the warm sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Twins",
+            "hu": "Lido Twins",
+            "ro": "Lido Twins",
+            "en": "Lido Twins"
+          },
+          "coords": [
+            14.72506,
+            42.096692
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre im Lido Twins, wo fröhliche Musik und organisierte Strandspiele ein lustiges Umfeld für aktive Besucher schaffen, die Kontakte knüpfen wollen.",
+            "hu": "Élvezze a Lido Twins élénk hangulatát, ahol a vidám zene és a szervezett tengerparti játékok szórakoztató környezetet teremtenek a délutáni ismerkedni vágyó aktív látogatóknak.",
+            "ro": "Bucură-te de atmosfera plină de viață de la Lido Twins, unde muzica veselă și jocurile de plajă organizate creează un mediu distractiv pentru vizitatorii activi în timpul după-amiezii.",
+            "en": "Enjoy the lively atmosphere at Lido Twins, where upbeat music and organized beach games create a fun environment for active visitors wanting to socialize during the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Vasto Marina",
+            "hu": "Spiaggia di Vasto Marina",
+            "ro": "Spiaggia di Vasto Marina",
+            "en": "Spiaggia di Vasto Marina"
+          },
+          "coords": [
+            14.728442,
+            42.095694
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der weitläufigen Spiaggia di Vasto Marina entlang und spüren Sie den weichen Sand, ein perfekter Ort, um eine Decke auszubreiten und ein Picknick zu genießen.",
+            "hu": "Sétáljon végig a kiterjedt Spiaggia di Vasto Marina partszakaszon, és érezze a puha homokot, amely tökéletes hely egy nagy takaró leterítésére és egy házi piknik elfogyasztására.",
+            "ro": "Plimbă-te de-a lungul întinsei Spiaggia di Vasto Marina pentru a simți nisipul fin, un loc perfect pentru a întinde o pătură mare și a te bucura de un picnic pe malul mării.",
+            "en": "Wander along the expansive Spiaggia di Vasto Marina to feel the soft sand between your toes, a perfect spot to lay out a large blanket and enjoy a homemade seaside picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in den ruhigen nördlichen Randgebieten bei Villa Vignola und genießen Sie die Küstenlandschaft. Mittags radeln Sie zur Baia Delphis für unglaublich klares Wasser, bevor Sie am Lido La Luccioletta pausieren. Verbringen Sie den lebhaften Nachmittag zwischen Il Delfino und Lido Twins für Strandspaß. Beenden Sie den Tag an der legendären Spiaggia di Vasto Marina, wenn der Himmel golden wird.",
+        "hu": "Kezdje kerékpáros kalandját a Villa Vignola melletti nyugodt északi peremeken, gyönyörködve a békés part menti tájakban. Délre tekerjen a Baia Delphis kristálytiszta vizeihez, majd tartson pihenőt a Lido La Lucciolettán. Töltse az élénk délutánt az Il Delfino és a Lido Twins közötti ugrálással a tengerparti móka kedvéért. Zárja a napot az ikonikus Spiaggia di Vasto Marina mentén kerékpározva a naplementében.",
+        "ro": "Începe aventura pe bicicletă în zonele nordice liniștite de lângă Villa Vignola, admirând peisajele de coastă. La prânz, pedalează spre Baia Delphis pentru ape cristaline, apoi ia o pauză la Lido La Luccioletta. Petrece după-amiaza vibrantă bucurându-te de distracție între Il Delfino și Lido Twins. Încheie ziua plimbându-te de-a lungul celebrei Spiaggia di Vasto Marina, în timp ce cerul devine auriu.",
+        "en": "Begin your cycling adventure in the peaceful northern edges near Villa Vignola, taking in the serene coastal landscapes. By midday, pedal down to Baia Delphis for incredibly clear waters, then head towards Lido La Luccioletta for a break. Spend the vibrant afternoon hopping between Il Delfino and Lido Twins for seaside fun. Conclude your day riding along the iconic Spiaggia di Vasto Marina as the sky turns golden."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Baia Delphis",
+            "hu": "Baia Delphis",
+            "ro": "Baia Delphis",
+            "en": "Baia Delphis"
+          },
+          "coords": [
+            14.717982,
+            42.144041
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgeschiedene Schönheit der Baia Delphis, einem Naturjuwel mit unglaublich klarem Wasser, weshalb es sehr empfehlenswert ist, hier Ihre Schnorchelausrüstung mitzubringen.",
+            "hu": "Fedezze fel a Baia Delphis eldugott szépségét, egy olyan természeti gyöngyszemet, ahol a víz hihetetlenül tiszta, ezért melegen ajánlott búvárfelszerelést hozni a tengerfenékhez.",
+            "ro": "Descoperă frumusețea retrasă a Baia Delphis, o bijuterie naturală cu o apă incredibil de limpede, fiind foarte recomandat să aduci echipament de snorkeling pentru a explora fundul mării.",
+            "en": "Discover the secluded beauty of Baia Delphis, a natural gem where the water is incredibly clear, making it highly recommended to bring snorkeling gear for exploring the seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Luccioletta",
+            "hu": "Lido La Luccioletta",
+            "ro": "Lido La Luccioletta",
+            "en": "Lido La Luccioletta"
+          },
+          "coords": [
+            14.717651,
+            42.105393
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang am weichen Strand vom Lido La Luccioletta, wo Sie bequeme Sonnenliegen mieten und das tiefblaue Adriawasser bewundern können.",
+            "hu": "Élvezze a pihentető reggeli sétát a Lido La Luccioletta puha homokján, ahol kényelmes napágyat bérelhet, és megcsodálhatja az Adriai-tenger kristálytiszta kék vizét.",
+            "ro": "Bucură-te de o plimbare matinală relaxantă pe nisipul fin de la Lido La Luccioletta, unde poți închiria un șezlong confortabil pentru a admira apele limpezi ale Adriaticii.",
+            "en": "Enjoy a relaxing morning stroll along the soft sands of Lido La Luccioletta, where you can rent a comfortable sunbed and admire the clear blue waters of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Maremaje",
+            "hu": "Lido Maremaje",
+            "ro": "Lido Maremaje",
+            "en": "Lido Maremaje"
+          },
+          "coords": [
+            14.723244,
+            42.098272
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Strandabenteuer am Lido Maremaje, bekannt für seine eleganten Schirme und eine gut sortierte Bar, in der Sie beim Sonnenuntergang einen Cocktail schlürfen können.",
+            "hu": "Zárja tengerparti kalandját a Lido Maremaje strandján, amely elegáns napernyőiről és jól felszerelt bárjáról híres, ahol egy hűsítő koktélt szürcsölve nézheti végig a naplementét.",
+            "ro": "Încheie-ți aventura la Lido Maremaje, renumit pentru umbrelele sale elegante și barul excelent aprovizionat, unde poți savura un cocktail răcoritor în timp ce privești apusul.",
+            "en": "Wrap up your beach adventure at Lido Maremaje, famous for its elegant umbrellas and a well-stocked bar where you can sip a refreshing cocktail while watching the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Hotel Adriatico",
+            "hu": "Lido Hotel Adriatico",
+            "ro": "Lido Hotel Adriatico",
+            "en": "Lido Hotel Adriatico"
+          },
+          "coords": [
+            14.726442,
+            42.095703
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich die exzellenten Einrichtungen im Lido Hotel Adriatico mit erstklassigem Service und bequemen Sitzen, ideal zum Entspannen mit einem guten Buch in der Meeresbrise.",
+            "hu": "Kényeztesse magát a Lido Hotel Adriatico kiváló létesítményeivel, amely első osztályú kiszolgálást és kényelmes pihenést kínál, és tökéletes egy jó könyv olvasásához a tengerparton.",
+            "ro": "Răsfață-te cu facilitățile excelente de la Lido Hotel Adriatico, oferind servicii de top și șezlonguri confortabile, ideal pentru relaxare cu o carte bună în briza mării.",
+            "en": "Treat yourself to the excellent facilities at Lido Hotel Adriatico, offering top-tier service and comfortable seating, ideal for relaxing with a good book in the gentle sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Vasto Marina",
+            "hu": "Spiaggia di Vasto Marina",
+            "ro": "Spiaggia di Vasto Marina",
+            "en": "Spiaggia di Vasto Marina"
+          },
+          "coords": [
+            14.728442,
+            42.095694
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der weitläufigen Spiaggia di Vasto Marina entlang und spüren Sie den weichen Sand, ein perfekter Ort, um eine Decke auszubreiten und ein Picknick zu genießen.",
+            "hu": "Sétáljon végig a kiterjedt Spiaggia di Vasto Marina partszakaszon, és érezze a puha homokot, amely tökéletes hely egy nagy takaró leterítésére és egy házi piknik elfogyasztására.",
+            "ro": "Plimbă-te de-a lungul întinsei Spiaggia di Vasto Marina pentru a simți nisipul fin, un loc perfect pentru a întinde o pătură mare și a te bucura de un picnic pe malul mării.",
+            "en": "Wander along the expansive Spiaggia di Vasto Marina to feel the soft sand between your toes, a perfect spot to lay out a large blanket and enjoy a homemade seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Miramare",
+            "hu": "Miramare",
+            "ro": "Miramare",
+            "en": "Miramare"
+          },
+          "coords": [
+            14.736627,
+            42.088816
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise am Miramare, bekannt für seinen atemberaubenden Panoramablick auf das Meer, wo ein abendliches Eis während eines Spaziergangs ein absolutes Muss ist.",
+            "hu": "Fejezze be tengerparti utazását a Miramare strandon, amely lenyűgöző panorámájáról ismert, és ahol az esti fagylaltozás a sétányon való andalgás közben egyszerűen kihagyhatatlan.",
+            "ro": "Încheie călătoria ta de coastă la Miramare, cunoscut pentru vederile sale panoramice uimitoare, unde o înghețată de seară în timpul plimbării pe faleză este o necesitate absolută.",
+            "en": "Conclude your coastal journey at Miramare, known for its breathtaking panoramic views of the sea, where grabbing an evening gelato while walking the promenade is an absolute must."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am frühen Morgen zur abgelegenen Baia Delphis, um die unberührten Gewässer ohne Menschenmassen zu genießen. Fahren Sie mittags zum Lido La Luccioletta und Lido Maremaje, perfekte Orte zum Sonnenbaden und für ein Mittagessen. Genießen Sie nachmittags die erstklassigen Annehmlichkeiten im Lido Hotel Adriatico und der Spiaggia di Vasto Marina. Ihre Tour endet am Miramare mit einem entspannten Abendspaziergang.",
+        "hu": "Vezessen a kora reggeli órákban a félreeső Baia Delphishez, és élvezze az érintetlen természetet, mielőtt a tömeg megérkezik. Dél körül autózzon le a Lido La Luccioletta és a Lido Maremaje felé, ahol bérelhet napágyat és ebédelhet. Délután élvezze a Lido Hotel Adriatico és a Spiaggia di Vasto Marina prémium szolgáltatásait. Tengerparti túrája a Miramare-nél ér véget egy pihentető alkonyati sétával.",
+        "ro": "Condu dis-de-dimineață către izolata Baia Delphis pentru a te bucura de apele naturale curate înainte de sosirea mulțimilor. La prânz, coboară spre Lido La Luccioletta și Lido Maremaje, locuri perfecte pentru prânz la malul mării. După-amiaza, relaxează-te cu facilitățile premium de la Lido Hotel Adriatico și Spiaggia di Vasto Marina. Turul tău se încheie la Miramare cu o plimbare relaxantă la crepuscul.",
+        "en": "Drive out to the secluded Baia Delphis in the early morning to enjoy the pristine natural waters before the crowds arrive. For midday, cruise down to Lido La Luccioletta and Lido Maremaje, perfect spots to rent a sunbed and grab lunch by the sea. In the afternoon, soak up the premium amenities at Lido Hotel Adriatico and Spiaggia di Vasto Marina. Your coastal tour ends at Miramare with a relaxing twilight walk."
+      }
+    }
+  }
+}

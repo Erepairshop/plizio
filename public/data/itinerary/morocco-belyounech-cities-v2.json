@@ -1,0 +1,520 @@
+{
+  "city_id": "morocco-belyounech-cities-v2",
+  "anchor": {
+    "name": "Belyounech ⴱⵍⵢⵓⵏⴰⵛ بليونش",
+    "coords": [
+      -5.3922,
+      35.90626
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de Beliones",
+            "hu": "Mirador de Beliones",
+            "ro": "Mirador de Beliones",
+            "en": "Mirador de Beliones"
+          },
+          "coords": [
+            -5.374543,
+            35.906725
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Straße von Gibraltar von diesem natürlichen Aussichtspunkt, aber kommen Sie früh wegen des Dunstes.",
+            "hu": "Élvezze a Gibraltári-szorosra nyíló lélegzetelállító panorámát erről a természetes kilátóról, de érkezzen korán a délutáni tengerparti pára elkerülése végett.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare asupra Strâmtorii Gibraltar din acest punct de observație natural, dar ajungeți devreme pentru a evita ceața.",
+            "en": "Enjoy breathtaking panoramic views of the Strait of Gibraltar from this natural vantage point, but arrive early to avoid the afternoon coastal haze."
+          }
+        },
+        {
+          "name": {
+            "de": "Finca Serrano",
+            "hu": "Finca Serrano",
+            "ro": "Finca Serrano",
+            "en": "Finca Serrano"
+          },
+          "coords": [
+            -5.370102,
+            35.907243
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Anwesens aus der Kolonialzeit und tragen Sie unbedingt festes Schuhwerk für das unebene und felsige Gelände.",
+            "hu": "Fedezze fel a régió gyarmati múltját tükröző történelmi birtok maradványait, és viseljen masszív cipőt az egyenetlen terepen való biztonságos túrázáshoz.",
+            "ro": "Explorați rămășițele acestei moșii istorice care reflectă trecutul colonial complex al regiunii și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historical estate that reflects the region's complex colonial past, and wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Alquería",
+            "hu": "Torre de la Alquería",
+            "ro": "Torre de la Alquería",
+            "en": "Torre de la Alquería"
+          },
+          "coords": [
+            -5.369069,
+            35.905964
+          ],
+          "category": "fortress",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses alten Wehrturms, der einst die Küste bewachte, und bringen Sie ein Weitwinkelobjektiv für tolle Fotos mit.",
+            "hu": "Csodálja meg ennek az ősi, egykor a partvonalat őrző védőtoronynak a robusztus építészetét, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Admirați arhitectura robustă a acestui vechi turn de apărare care păzea odinioară coasta, aducând o lentilă cu unghi larg pentru a-i surprinde amploarea.",
+            "en": "Marvel at the robust architecture of this ancient defensive tower that once guarded the coastline, bringing a wide-angle lens to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva y Abrigo de Benzú",
+            "hu": "Cueva y Abrigo de Benzú",
+            "ro": "Cueva y Abrigo de Benzú",
+            "en": "Cueva y Abrigo de Benzú"
+          },
+          "coords": [
+            -5.379463,
+            35.912125
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Reisen Sie an dieser wichtigen paläolithischen Ausgrabungsstätte in die Vergangenheit, aber prüfen Sie die Zugangsregeln vor dem Aufstieg über den Hang.",
+            "hu": "Lépjen vissza az időben ezen a korai emberi vándorlást bemutató paleolit régészeti lelőhelyen, de a felmászás előtt ellenőrizze a helyi belépési szabályokat.",
+            "ro": "Călătoriți în timp la acest sit arheologic paleolitic crucial pentru migrația umană, deși verificați regulile de acces locale înainte de a urca panta.",
+            "en": "Step back in time at this crucial Paleolithic archaeological site showing early human migration, though check local access rules before hiking up the slope."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Benzú",
+            "hu": "Playa de Benzú",
+            "ro": "Playa de Benzú",
+            "en": "Playa de Benzú"
+          },
+          "coords": [
+            -5.370764,
+            35.916479
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden dieses ruhigen Strandes mit klarem Wasser und Blick auf die spanische Enklave, und denken Sie an Sonnenschutz.",
+            "hu": "Pihenjen ennek a nyugodt kavicsos strandnak a partján, amely kristálytiszta vizet kínál, és ne felejtsen el elegendő ivóvizet és naptejet csomagolni.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestei plaje liniștite ce oferă ape limpezi, amintindu-vă să împachetați apă și protecție solară pentru după-amiază.",
+            "en": "Relax on the pebble shores of this tranquil beach offering clear waters and views of the Spanish enclave, remembering to pack water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem atemberaubenden Küstenpanorama vom Mirador de Beliones und atmen Sie die frische Meeresluft ein. Mittags tauchen Sie auf der Finca Serrano und der alten Torre de la Alquería in die komplexe Geschichte der Region ein. Nachmittags wandern Sie zur faszinierenden Ausgrabungsstätte Cueva y Abrigo de Benzú, um prähistorische Geheimnisse zu lüften. Beenden Sie Ihre Tour entspannt am Strand Playa de Benzú.",
+        "hu": "Kezdje a reggelt a Mirador de Beliones lenyűgöző tengerparti panorámájával, és szívja magába a friss sós levegőt. Délben merüljön el a régió összetett történelmében a Finca Serrano és az ősi Torre de la Alquería felfedezésével. Délután túrázzon fel a Cueva y Abrigo de Benzú régészeti lelőhelyre, hogy őskori titkokat tárjon fel. Zárja a sétát este a Playa de Benzú nyugodt kavicsos partján pihenve, élvezve a csendet.",
+        "ro": "Începeți dimineața absorbind panoramele de coastă uluitoare de la Mirador de Beliones, respirând aerul proaspăt al mării. Până la prânz, aprofundați istoria complexă a regiunii la Finca Serrano și vechiul Torre de la Alquería. După-amiaza, urcați la fascinantul sit arheologic Cueva y Abrigo de Benzú pentru a descoperi secrete preistorice. Încheiați turul relaxându-vă pe pietrișul liniștit de la Playa de Benzú, la lăsarea serii.",
+        "en": "Begin your morning absorbing the stunning coastal panoramas from Mirador de Beliones, breathing in the fresh sea air. By midday, delve into the region's complex history at Finca Serrano and the ancient Torre de la Alquería. In the afternoon, hike up to the fascinating archaeological site of Cueva y Abrigo de Benzú to uncover prehistoric secrets. Conclude your walking tour relaxing on the tranquil pebbles of Playa de Benzú as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Benzú",
+            "hu": "Playa de Benzú",
+            "ro": "Playa de Benzú",
+            "en": "Playa de Benzú"
+          },
+          "coords": [
+            -5.370764,
+            35.916479
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden dieses ruhigen Strandes mit klarem Wasser und Blick auf die spanische Enklave, und denken Sie an Sonnenschutz.",
+            "hu": "Pihenjen ennek a nyugodt kavicsos strandnak a partján, amely kristálytiszta vizet kínál, és ne felejtsen el elegendő ivóvizet és naptejet csomagolni.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestei plaje liniștite ce oferă ape limpezi, amintindu-vă să împachetați apă și protecție solară pentru după-amiază.",
+            "en": "Relax on the pebble shores of this tranquil beach offering clear waters and views of the Spanish enclave, remembering to pack water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva y Abrigo de Benzú",
+            "hu": "Cueva y Abrigo de Benzú",
+            "ro": "Cueva y Abrigo de Benzú",
+            "en": "Cueva y Abrigo de Benzú"
+          },
+          "coords": [
+            -5.379463,
+            35.912125
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Reisen Sie an dieser wichtigen paläolithischen Ausgrabungsstätte in die Vergangenheit, aber prüfen Sie die Zugangsregeln vor dem Aufstieg über den Hang.",
+            "hu": "Lépjen vissza az időben ezen a korai emberi vándorlást bemutató paleolit régészeti lelőhelyen, de a felmászás előtt ellenőrizze a helyi belépési szabályokat.",
+            "ro": "Călătoriți în timp la acest sit arheologic paleolitic crucial pentru migrația umană, deși verificați regulile de acces locale înainte de a urca panta.",
+            "en": "Step back in time at this crucial Paleolithic archaeological site showing early human migration, though check local access rules before hiking up the slope."
+          }
+        },
+        {
+          "name": {
+            "de": "Finca Serrano",
+            "hu": "Finca Serrano",
+            "ro": "Finca Serrano",
+            "en": "Finca Serrano"
+          },
+          "coords": [
+            -5.370102,
+            35.907243
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Anwesens aus der Kolonialzeit und tragen Sie unbedingt festes Schuhwerk für das unebene und felsige Gelände.",
+            "hu": "Fedezze fel a régió gyarmati múltját tükröző történelmi birtok maradványait, és viseljen masszív cipőt az egyenetlen terepen való biztonságos túrázáshoz.",
+            "ro": "Explorați rămășițele acestei moșii istorice care reflectă trecutul colonial complex al regiunii și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historical estate that reflects the region's complex colonial past, and wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Beliones",
+            "hu": "Mirador de Beliones",
+            "ro": "Mirador de Beliones",
+            "en": "Mirador de Beliones"
+          },
+          "coords": [
+            -5.374543,
+            35.906725
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Straße von Gibraltar von diesem natürlichen Aussichtspunkt, aber kommen Sie früh wegen des Dunstes.",
+            "hu": "Élvezze a Gibraltári-szorosra nyíló lélegzetelállító panorámát erről a természetes kilátóról, de érkezzen korán a délutáni tengerparti pára elkerülése végett.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare asupra Strâmtorii Gibraltar din acest punct de observație natural, dar ajungeți devreme pentru a evita ceața.",
+            "en": "Enjoy breathtaking panoramic views of the Strait of Gibraltar from this natural vantage point, but arrive early to avoid the afternoon coastal haze."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de Anyera",
+            "hu": "Fuerte de Anyera",
+            "ro": "Fuerte de Anyera",
+            "en": "Fuerte de Anyera"
+          },
+          "coords": [
+            -5.373118,
+            35.898587
+          ],
+          "category": "castle",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die strategische Militärgeschichte dieser imposanten Burgruine auf den Klippen, und achten Sie auf Ihre Schritte an den bröckelnden Außenmauern.",
+            "hu": "Fedezze fel ennek a tengerre néző, impozáns sziklavárnak a stratégiai hadtörténetét, és nagyon ügyeljen a lépéseire az omladozó külső falak mentén.",
+            "ro": "Descoperiți istoria militară strategică a acestui castel impunător de pe stâncă ce domină marea, fiind atent la pași de-a lungul zidurilor exterioare măcinate.",
+            "en": "Discover the strategic military history of this imposing cliffside castle overlooking the sea, and watch your step along the crumbling exterior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Isabel II",
+            "hu": "Mirador de Isabel II",
+            "ro": "Mirador de Isabel II",
+            "en": "Mirador de Isabel II"
+          },
+          "coords": [
+            -5.363631,
+            35.892828
+          ],
+          "category": "natural",
+          "arrive_at": "15:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht auf das raue bergige Grenzgebiet von diesem erhöhten Aussichtspunkt und bringen Sie ein Fernglas für die Festungen mit.",
+            "hu": "Gyönyörködjön a zord, hegyvidéki határvidék látványában ebből a magaslati kilátóból, és hozzon magával távcsövet a távoli erődítmények megfigyeléséhez.",
+            "ro": "Admirați priveliștile spectaculoase ale granițelor montane accidentate din acest punct de observație, aducând un binoclu pentru a observa fortificațiile.",
+            "en": "Take in spectacular views of the rugged mountainous borderlands from this elevated viewpoint, bringing a pair of binoculars to spot distant fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Comandari nuevo",
+            "hu": "Comandari nuevo",
+            "ro": "Comandari nuevo",
+            "en": "Comandari nuevo"
+          },
+          "coords": [
+            -5.373806,
+            35.887736
+          ],
+          "category": "fortress",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die weitläufigen Ruinen dieses bedeutenden Militärkomplexes und bleiben Sie auf den markierten Wegen, um versteckte Abgründe zu meiden.",
+            "hu": "Sétáljon végig ennek a jelentős katonai komplexumnak a kiterjedt romjain, de maradjon a kijelölt ösvényeken a rejtett meredélyek elkerülése érdekében.",
+            "ro": "Plimbați-vă printre ruinele extinse ale acestui complex militar semnificativ, dar rămâneți pe potecile marcate pentru a evita prăpăstiile ascunse din zonă.",
+            "en": "Wander through the extensive ruins of this significant military complex that once controlled the region, but stay on marked paths to avoid hidden drop-offs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der Playa de Benzú, gefolgt von einer Fahrt bergauf zur prähistorischen Cueva y Abrigo de Benzú. Gegen Mittag radeln Sie durch die historischen Überreste der Finca Serrano und pausieren am Mirador de Beliones. Der Nachmittag ist der Erkundung der Küstenverteidigung am Fuerte de Anyera und Mirador de Isabel II gewidmet. Schließlich erreichen Sie die Ruinen des Comandari nuevo zum Sonnenuntergang.",
+        "hu": "Kerékpáros kalandja a békés Playa de Benzú-n indul, amelyet egy hegyi tekerés követ az őskori Cueva y Abrigo de Benzú felé. Délben a Finca Serrano történelmi romjai között kerekezik, majd megpihen a Mirador de Beliones lenyűgöző kilátójánál. A délutánt a Fuerte de Anyera és a Mirador de Isabel II partvidéki védműveinek felfedezésére szánja. Végül a Comandari nuevo kiterjedt romjaihoz érkezik, ahogy a nap lemenőben van a hegyek felett.",
+        "ro": "Aventura pe bicicletă începe la senina Playa de Benzú, urmată de o urcare fascinantă către situl preistoric Cueva y Abrigo de Benzú. În jurul prânzului, veți pedala printre rămășițele istorice de la Finca Serrano și veți admira priveliștile de la Mirador de Beliones. După-amiaza este dedicată apărării de coastă la Fuerte de Anyera și Mirador de Isabel II. În cele din urmă, veți ajunge la ruinele extinse de la Comandari nuevo, la apus.",
+        "en": "Your cycling adventure kicks off at the serene Playa de Benzú, followed by a fascinating uphill ride to the prehistoric Cueva y Abrigo de Benzú. Around midday, you will pedal through the historical remnants of Finca Serrano and pause for dramatic views at Mirador de Beliones. The afternoon is dedicated to exploring the imposing coastal defenses at Fuerte de Anyera and Mirador de Isabel II. Finally, you will reach the sprawling ruins of Comandari nuevo as the sun sets over the distant hills."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:33",
+      "total_km": 6.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Comandari nuevo",
+            "hu": "Comandari nuevo",
+            "ro": "Comandari nuevo",
+            "en": "Comandari nuevo"
+          },
+          "coords": [
+            -5.373806,
+            35.887736
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die weitläufigen Ruinen dieses bedeutenden Militärkomplexes und bleiben Sie auf den markierten Wegen, um versteckte Abgründe zu meiden.",
+            "hu": "Sétáljon végig ennek a jelentős katonai komplexumnak a kiterjedt romjain, de maradjon a kijelölt ösvényeken a rejtett meredélyek elkerülése érdekében.",
+            "ro": "Plimbați-vă printre ruinele extinse ale acestui complex militar semnificativ, dar rămâneți pe potecile marcate pentru a evita prăpăstiile ascunse din zonă.",
+            "en": "Wander through the extensive ruins of this significant military complex that once controlled the region, but stay on marked paths to avoid hidden drop-offs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de Anyera",
+            "hu": "Fuerte de Anyera",
+            "ro": "Fuerte de Anyera",
+            "en": "Fuerte de Anyera"
+          },
+          "coords": [
+            -5.373118,
+            35.898587
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die strategische Militärgeschichte dieser imposanten Burgruine auf den Klippen, und achten Sie auf Ihre Schritte an den bröckelnden Außenmauern.",
+            "hu": "Fedezze fel ennek a tengerre néző, impozáns sziklavárnak a stratégiai hadtörténetét, és nagyon ügyeljen a lépéseire az omladozó külső falak mentén.",
+            "ro": "Descoperiți istoria militară strategică a acestui castel impunător de pe stâncă ce domină marea, fiind atent la pași de-a lungul zidurilor exterioare măcinate.",
+            "en": "Discover the strategic military history of this imposing cliffside castle overlooking the sea, and watch your step along the crumbling exterior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Isabel II",
+            "hu": "Mirador de Isabel II",
+            "ro": "Mirador de Isabel II",
+            "en": "Mirador de Isabel II"
+          },
+          "coords": [
+            -5.363631,
+            35.892828
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht auf das raue bergige Grenzgebiet von diesem erhöhten Aussichtspunkt und bringen Sie ein Fernglas für die Festungen mit.",
+            "hu": "Gyönyörködjön a zord, hegyvidéki határvidék látványában ebből a magaslati kilátóból, és hozzon magával távcsövet a távoli erődítmények megfigyeléséhez.",
+            "ro": "Admirați priveliștile spectaculoase ale granițelor montane accidentate din acest punct de observație, aducând un binoclu pentru a observa fortificațiile.",
+            "en": "Take in spectacular views of the rugged mountainous borderlands from this elevated viewpoint, bringing a pair of binoculars to spot distant fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Alquería",
+            "hu": "Torre de la Alquería",
+            "ro": "Torre de la Alquería",
+            "en": "Torre de la Alquería"
+          },
+          "coords": [
+            -5.369069,
+            35.905964
+          ],
+          "category": "fortress",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses alten Wehrturms, der einst die Küste bewachte, und bringen Sie ein Weitwinkelobjektiv für tolle Fotos mit.",
+            "hu": "Csodálja meg ennek az ősi, egykor a partvonalat őrző védőtoronynak a robusztus építészetét, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Admirați arhitectura robustă a acestui vechi turn de apărare care păzea odinioară coasta, aducând o lentilă cu unghi larg pentru a-i surprinde amploarea.",
+            "en": "Marvel at the robust architecture of this ancient defensive tower that once guarded the coastline, bringing a wide-angle lens to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Finca Serrano",
+            "hu": "Finca Serrano",
+            "ro": "Finca Serrano",
+            "en": "Finca Serrano"
+          },
+          "coords": [
+            -5.370102,
+            35.907243
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Anwesens aus der Kolonialzeit und tragen Sie unbedingt festes Schuhwerk für das unebene und felsige Gelände.",
+            "hu": "Fedezze fel a régió gyarmati múltját tükröző történelmi birtok maradványait, és viseljen masszív cipőt az egyenetlen terepen való biztonságos túrázáshoz.",
+            "ro": "Explorați rămășițele acestei moșii istorice care reflectă trecutul colonial complex al regiunii și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historical estate that reflects the region's complex colonial past, and wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva y Abrigo de Benzú",
+            "hu": "Cueva y Abrigo de Benzú",
+            "ro": "Cueva y Abrigo de Benzú",
+            "en": "Cueva y Abrigo de Benzú"
+          },
+          "coords": [
+            -5.379463,
+            35.912125
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Reisen Sie an dieser wichtigen paläolithischen Ausgrabungsstätte in die Vergangenheit, aber prüfen Sie die Zugangsregeln vor dem Aufstieg über den Hang.",
+            "hu": "Lépjen vissza az időben ezen a korai emberi vándorlást bemutató paleolit régészeti lelőhelyen, de a felmászás előtt ellenőrizze a helyi belépési szabályokat.",
+            "ro": "Călătoriți în timp la acest sit arheologic paleolitic crucial pentru migrația umană, deși verificați regulile de acces locale înainte de a urca panta.",
+            "en": "Step back in time at this crucial Paleolithic archaeological site showing early human migration, though check local access rules before hiking up the slope."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Benzú",
+            "hu": "Playa de Benzú",
+            "ro": "Playa de Benzú",
+            "en": "Playa de Benzú"
+          },
+          "coords": [
+            -5.370764,
+            35.916479
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden dieses ruhigen Strandes mit klarem Wasser und Blick auf die spanische Enklave, und denken Sie an Sonnenschutz.",
+            "hu": "Pihenjen ennek a nyugodt kavicsos strandnak a partján, amely kristálytiszta vizet kínál, és ne felejtsen el elegendő ivóvizet és naptejet csomagolni.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestei plaje liniștite ce oferă ape limpezi, amintindu-vă să împachetați apă și protecție solară pentru după-amiază.",
+            "en": "Relax on the pebble shores of this tranquil beach offering clear waters and views of the Spanish enclave, remembering to pack water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Punta Blanca",
+            "hu": "Playa Punta Blanca",
+            "ro": "Playa Punta Blanca",
+            "en": "Playa Punta Blanca"
+          },
+          "coords": [
+            -5.362955,
+            35.915195
+          ],
+          "category": "recreational",
+          "arrive_at": "17:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten weißen Sandstrand, der perfekt für ein spätes Bad ist, und genießen Sie den herrlichen Sonnenuntergang an der Küste.",
+            "hu": "Töltődjön fel ezen az érintetlen, fehér homokos partszakaszon, amely tökéletes egy késő délutáni úszáshoz és a lenyűgöző tengerparti naplemente fotózásához.",
+            "ro": "Relaxați-vă în acest loc de recreere cu nisip alb imaculat, perfect pentru o baie de după-amiază târzie, și admirați apusul magnific ce colorează cerul.",
+            "en": "Unwind at this pristine white-sand recreational spot perfect for a late afternoon swim, and try to catch the magnificent sunset painting the coastal skies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am südlichsten Punkt und erkunden Sie die militischen Ruinen von Comandari nuevo und das spektakuläre Fuerte de Anyera. Mittags fahren Sie höher zum Mirador de Isabel II, bevor Sie im Norden die Torre de la Alquería und die Finca Serrano besichtigen. Entdecken Sie nachmittags antike Menschheitsgeschichte an der Cueva y Abrigo de Benzú. Beenden Sie Ihren Ausflug mit einem lebhaften Abend an der schönen Playa Punta Blanca.",
+        "hu": "Autós túráját a legdélebbi ponton kezdi, felfedezve a Comandari nuevo katonai romjait és a lenyűgöző tengerparti Fuerte de Anyera erődöt. Délben magasabbra autózik a Mirador de Isabel II kilátójához, mielőtt észak felé venné az irányt a Torre de la Alquería és a Finca Serrano felé. Délután ismerje meg az ősi emberi történelmet a Cueva y Abrigo de Benzú-nál. Zárja a napot egy élénk estével a gyönyörű Playa Punta Blanca homokos partján.",
+        "ro": "Începeți turul cu mașina în punctul cel mai sudic, explorând ruinele militare Comandari nuevo și spectaculosul Fuerte de Anyera de pe coastă. La prânz urcați la Mirador de Isabel II, înainte de a vă îndrepta spre nord la Torre de la Alquería și Finca Serrano. După-amiaza, descoperiți istoria umană antică la Cueva y Abrigo de Benzú și bucurați-vă de malurile Playa de Benzú. Încheiați-vă ziua cu o seară vibrantă la superba Playa Punta Blanca.",
+        "en": "Start your driving tour at the southernmost point, exploring the grand military ruins of Comandari nuevo and the spectacular coastal Fuerte de Anyera. Midday takes you higher to Mirador de Isabel II for expansive vistas, before heading north to inspect Torre de la Alquería and Finca Serrano. In the afternoon, uncover ancient human history at Cueva y Abrigo de Benzú and enjoy the pebble shores of Playa de Benzú. Conclude your day trip with a vibrant evening at the beautiful Playa Punta Blanca."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "le-creusot",
+  "anchor": {
+    "name": "Le Creusot",
+    "coords": [
+      4.4403,
+      46.8006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marteau Pilon",
+            "hu": "Marteau Pilon",
+            "ro": "Marteau Pilon",
+            "en": "Marteau Pilon"
+          },
+          "coords": [
+            4.432913,
+            46.78664
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe des 100-Tonnen-Dampfhammers, der das industrielle Schicksal von Le Creusot schmiedete, und machen Sie die besten Fotos von der nahen Aussichtsplattform.",
+            "hu": "Csodálja meg a 100 tonnás gőzkalapács puszta méretét, amely Le Creusot ipari sorsát kovácsolta, és készítsen nagyszerű fotókat a közeli kilátóteraszról.",
+            "ro": "Admirați dimensiunile uriașe ale ciocanului cu aburi de 100 de tone care a făurit destinul industrial al orașului Le Creusot, realizând cele mai bune fotografii de pe platforma din apropiere.",
+            "en": "Witness the sheer scale of the 100-ton steam hammer that forged Le Creusot's industrial destiny, best appreciated by taking photos from the nearby observation platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Henri Church",
+            "hu": "Saint-Henri Church",
+            "ro": "Saint-Henri Church",
+            "en": "Saint-Henri Church"
+          },
+          "coords": [
+            4.421843,
+            46.79659
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beachten Sie den bemerkenswerten Kontrast zwischen traditioneller religiöser Architektur und der industriellen Ästhetik der Stahlstrukturelemente, besonders rund um den Haupteingang.",
+            "hu": "Figyelje meg a hagyományos vallási építészet és az acélszerkezeti elemek ipari esztétikája közötti feltűnő kontrasztot, különösen a főbejárat körül.",
+            "ro": "Observați contrastul izbitor dintre arhitectura religioasă tradițională și estetica industrială a elementelor structurale din oțel, în special în jurul intrării principale.",
+            "en": "Notice the striking contrast between traditional religious architecture and the industrial aesthetics of the steel structural elements, particularly around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Verrerie",
+            "hu": "Château de la Verrerie",
+            "ro": "Château de la Verrerie",
+            "en": "Château de la Verrerie"
+          },
+          "coords": [
+            4.42333,
+            46.8053
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ehemalige Kristallfabrik und spätere Residenz der Familie Schneider, und planen Sie zusätzliche Zeit für das Industriemuseum in den imposanten konischen Glasöfen ein.",
+            "hu": "Fedezze fel az egykori kristálygyárból lett Schneider-rezidenciát, és szánjon plusz időt az impozáns kúpos üvegkemencékben berendezett miniatűr ipartörténeti múzeumra.",
+            "ro": "Explorați fosta fabrică de cristal transformată în reședința familiei Schneider, alocând timp suplimentar pentru muzeul industrial găzduit în cuptoarele conice de sticlărie.",
+            "en": "Explore the former crystal factory turned Schneider family residence, allocating extra time for the miniature industry museum housed in the imposing conical glasswork ovens."
+          }
+        },
+        {
+          "name": {
+            "de": "Académie François Bourdon",
+            "hu": "Académie François Bourdon",
+            "ro": "Académie François Bourdon",
+            "en": "Académie François Bourdon"
+          },
+          "coords": [
+            4.424515,
+            46.80605
+          ],
+          "category": "cultural",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen industriellen Archive ein, die die globale Reichweite der lokalen Ingenieurskunst zeigen, und fragen Sie die Dozenten unbedingt nach den frühen Lokomotivplänen.",
+            "hu": "Merüljön el a gazdag ipari archívumban, amely bemutatja a helyi mérnöki munka globális hatását, és ne felejtse el megkérdezni a tárlatvezetőket a korai mozdonytervekről.",
+            "ro": "Pătrundeți în bogatele arhive industriale care dezvăluie impactul global al ingineriei locale, asigurându-vă că întrebați ghizii despre primele planuri de locomotive.",
+            "en": "Dive into the rich industrial archives that reveal the global reach of local engineering, making sure to ask the docents about the early locomotive blueprints."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Verrerie",
+            "hu": "Parc de la Verrerie",
+            "ro": "Parc de la Verrerie",
+            "en": "Parc de la Verrerie"
+          },
+          "coords": [
+            4.422975,
+            46.80311
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige, für die Schneider-Dynastie entworfene Landschaft und suchen Sie sich eine ruhige Bank in der Nähe des zentralen Teichs für eine friedliche Pause.",
+            "hu": "Sétáljon végig a Schneider dinasztia számára tervezett buja tájon, és keressen egy csendes padot a központi tó közelében egy békés délutáni pihenőhöz.",
+            "ro": "Plimbați-vă prin peisajul luxuriant conceput pentru dinastia Schneider, găsind o bancă liniștită lângă iazul central pentru a vă bucura de o pauză relaxantă.",
+            "en": "Stroll through the lush landscape designed for the Schneider dynasty, finding a quiet bench near the central pond to enjoy a peaceful afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc animalier",
+            "hu": "Parc animalier",
+            "ro": "Parc animalier",
+            "en": "Parc animalier"
+          },
+          "coords": [
+            4.42401,
+            46.802543
+          ],
+          "category": "family",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimische Tierwelt und Nutztiere in einer entspannten Umgebung und achten Sie auf die Fütterungszeiten, die besonders für jüngere Besucher unterhaltsam sind.",
+            "hu": "Figyelje meg a helyi vadvilágot és haszonállatokat egy nyugodt környezetben, és figyeljen az etetési időkre, amelyek különösen szórakoztatóak a fiatalabb látogatók számára.",
+            "ro": "Observați fauna locală și animalele de fermă într-un cadru relaxat, fiind atenți la orele de hrănire care sunt deosebit de distractive pentru vizitatorii mai tineri.",
+            "en": "Observe local wildlife and farm animals in a relaxed setting, keeping an eye out for feeding times which are especially entertaining for younger visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem imposanten Marteau Pilon, gefolgt von der einzigartigen Architektur der Kirche Saint-Henri. Der Mittag ist dem prächtigen Château de la Verrerie gewidmet. Der Nachmittag lädt dazu ein, das Archiv der Académie François Bourdon zu erkunden. Der Abend endet mit einem Spaziergang durch den Parc de la Verrerie und den angrenzenden Tierpark.",
+        "hu": "A reggel az impozáns Marteau Pilonnal kezdődik, majd a Saint-Henri templom egyedi építészete következik. A délidőt a csodálatos Château de la Verrerie felfedezésének szenteljük. Délután az Académie François Bourdon archívuma várja. Az estét a Parc de la Verrerie és a szomszédos állatpark békés sétája zárja.",
+        "ro": "Dimineața începe cu impunătorul Marteau Pilon, urmat de arhitectura unică a Bisericii Saint-Henri. Amiaza este dedicată magnificului Château de la Verrerie. După-amiaza vă invită să explorați arhivele Académie François Bourdon. Seara se încheie cu o plimbare liniștită prin Parc de la Verrerie și parcul de animale adiacent.",
+        "en": "Morning starts with the imposing Marteau Pilon, followed by the unique architecture of Saint-Henri Church. Midday is dedicated to the magnificent Château de la Verrerie. Afternoon invites you to explore the archives of Académie François Bourdon. Evening concludes with a peaceful stroll through Parc de la Verrerie and the adjacent animal park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Henri Church",
+            "hu": "Saint-Henri Church",
+            "ro": "Saint-Henri Church",
+            "en": "Saint-Henri Church"
+          },
+          "coords": [
+            4.421843,
+            46.79659
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie den bemerkenswerten Kontrast zwischen traditioneller religiöser Architektur und der industriellen Ästhetik der Stahlstrukturelemente, besonders rund um den Haupteingang.",
+            "hu": "Figyelje meg a hagyományos vallási építészet és az acélszerkezeti elemek ipari esztétikája közötti feltűnő kontrasztot, különösen a főbejárat körül.",
+            "ro": "Observați contrastul izbitor dintre arhitectura religioasă tradițională și estetica industrială a elementelor structurale din oțel, în special în jurul intrării principale.",
+            "en": "Notice the striking contrast between traditional religious architecture and the industrial aesthetics of the steel structural elements, particularly around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Verrerie",
+            "hu": "Château de la Verrerie",
+            "ro": "Château de la Verrerie",
+            "en": "Château de la Verrerie"
+          },
+          "coords": [
+            4.42333,
+            46.8053
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ehemalige Kristallfabrik und spätere Residenz der Familie Schneider, und planen Sie zusätzliche Zeit für das Industriemuseum in den imposanten konischen Glasöfen ein.",
+            "hu": "Fedezze fel az egykori kristálygyárból lett Schneider-rezidenciát, és szánjon plusz időt az impozáns kúpos üvegkemencékben berendezett miniatűr ipartörténeti múzeumra.",
+            "ro": "Explorați fosta fabrică de cristal transformată în reședința familiei Schneider, alocând timp suplimentar pentru muzeul industrial găzduit în cuptoarele conice de sticlărie.",
+            "en": "Explore the former crystal factory turned Schneider family residence, allocating extra time for the miniature industry museum housed in the imposing conical glasswork ovens."
+          }
+        },
+        {
+          "name": {
+            "de": "Académie François Bourdon",
+            "hu": "Académie François Bourdon",
+            "ro": "Académie François Bourdon",
+            "en": "Académie François Bourdon"
+          },
+          "coords": [
+            4.424515,
+            46.80605
+          ],
+          "category": "cultural",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen industriellen Archive ein, die die globale Reichweite der lokalen Ingenieurskunst zeigen, und fragen Sie die Dozenten unbedingt nach den frühen Lokomotivplänen.",
+            "hu": "Merüljön el a gazdag ipari archívumban, amely bemutatja a helyi mérnöki munka globális hatását, és ne felejtse el megkérdezni a tárlatvezetőket a korai mozdonytervekről.",
+            "ro": "Pătrundeți în bogatele arhive industriale care dezvăluie impactul global al ingineriei locale, asigurându-vă că întrebați ghizii despre primele planuri de locomotive.",
+            "en": "Dive into the rich industrial archives that reveal the global reach of local engineering, making sure to ask the docents about the early locomotive blueprints."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Verrerie",
+            "hu": "Parc de la Verrerie",
+            "ro": "Parc de la Verrerie",
+            "en": "Parc de la Verrerie"
+          },
+          "coords": [
+            4.422975,
+            46.80311
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige, für die Schneider-Dynastie entworfene Landschaft und suchen Sie sich eine ruhige Bank in der Nähe des zentralen Teichs für eine friedliche Pause.",
+            "hu": "Sétáljon végig a Schneider dinasztia számára tervezett buja tájon, és keressen egy csendes padot a központi tó közelében egy békés délutáni pihenőhöz.",
+            "ro": "Plimbați-vă prin peisajul luxuriant conceput pentru dinastia Schneider, găsind o bancă liniștită lângă iazul central pentru a vă bucura de o pauză relaxantă.",
+            "en": "Stroll through the lush landscape designed for the Schneider dynasty, finding a quiet bench near the central pond to enjoy a peaceful afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc animalier",
+            "hu": "Parc animalier",
+            "ro": "Parc animalier",
+            "en": "Parc animalier"
+          },
+          "coords": [
+            4.42401,
+            46.802543
+          ],
+          "category": "family",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimische Tierwelt und Nutztiere in einer entspannten Umgebung und achten Sie auf die Fütterungszeiten, die besonders für jüngere Besucher unterhaltsam sind.",
+            "hu": "Figyelje meg a helyi vadvilágot és haszonállatokat egy nyugodt környezetben, és figyeljen az etetési időkre, amelyek különösen szórakoztatóak a fiatalabb látogatók számára.",
+            "ro": "Observați fauna locală și animalele de fermă într-un cadru relaxat, fiind atenți la orele de hrănire care sunt deosebit de distractive pentru vizitatorii mai tineri.",
+            "en": "Observe local wildlife and farm animals in a relaxed setting, keeping an eye out for feeding times which are especially entertaining for younger visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Combes",
+            "hu": "Parc des Combes",
+            "ro": "Parc des Combes",
+            "en": "Parc des Combes"
+          },
+          "coords": [
+            4.41166,
+            46.8124
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem historischen Touristenzug durch die Hügel und buchen Sie Ihre Tickets im Voraus online, um die Warteschlangen an belebten Sommernachmittagen zu umgehen.",
+            "hu": "Utazzon a dombok között kanyargó történelmi turistavonaton, és foglalja le jegyeit előre online, hogy elkerülje a sorban állást a forgalmas nyári délutánokon.",
+            "ro": "Călătoriți cu trenul turistic istoric ce șerpuiește printre dealuri, rezervându-vă biletele online în avans pentru a evita cozile în după-amiezile aglomerate de vară.",
+            "en": "Ride the historic tourist train that winds through the hills, booking your tickets online beforehand to skip the lines during the busy summer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der historischen Kirche Saint-Henri und führt zum Herzen der ehemaligen Kristallfabrik. Mittags entdecken Sie das industrielle Erbe im Château und der nahen Académie. Der Nachmittag bietet eine luftige Fahrt durch den Parc de la Verrerie und den Tierpark. Der Abend gipfelt in einer malerischen Radtour hinauf zum Parc des Combes.",
+        "hu": "A reggeli kerékpározás a történelmi Saint-Henri templomtól az egykori kristálygyár szíve felé indul. Délben a Château és a közeli Académie ipari örökségét fedezzük fel. Délután a buja Parc de la Verrerie és az állatpark nyújt frissítő utazást. Az este fénypontja a festői Parc des Combes felé vezető tekerés.",
+        "ro": "Dimineața pedalați de la istorica Biserică Saint-Henri spre inima fostei fabrici de cristal. La amiază descoperiți moștenirea industrială de la Château și Académie. După-amiaza vă permite o plimbare revigorantă prin Parc de la Verrerie și parcul de animale. Seara culminează cu un traseu pitoresc spre Parc des Combes.",
+        "en": "Morning pedals off from the historic Saint-Henri Church towards the heart of the former crystal factory. Midday is spent uncovering the industrial legacy at the Château and the nearby Académie. Afternoon allows for a breezy ride through the lush Parc de la Verrerie and animal park. Evening peaks with a scenic cycle up to Parc des Combes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marteau Pilon",
+            "hu": "Marteau Pilon",
+            "ro": "Marteau Pilon",
+            "en": "Marteau Pilon"
+          },
+          "coords": [
+            4.432913,
+            46.78664
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe des 100-Tonnen-Dampfhammers, der das industrielle Schicksal von Le Creusot schmiedete, und machen Sie die besten Fotos von der nahen Aussichtsplattform.",
+            "hu": "Csodálja meg a 100 tonnás gőzkalapács puszta méretét, amely Le Creusot ipari sorsát kovácsolta, és készítsen nagyszerű fotókat a közeli kilátóteraszról.",
+            "ro": "Admirați dimensiunile uriașe ale ciocanului cu aburi de 100 de tone care a făurit destinul industrial al orașului Le Creusot, realizând cele mai bune fotografii de pe platforma din apropiere.",
+            "en": "Witness the sheer scale of the 100-ton steam hammer that forged Le Creusot's industrial destiny, best appreciated by taking photos from the nearby observation platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Henri Church",
+            "hu": "Saint-Henri Church",
+            "ro": "Saint-Henri Church",
+            "en": "Saint-Henri Church"
+          },
+          "coords": [
+            4.421843,
+            46.79659
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beachten Sie den bemerkenswerten Kontrast zwischen traditioneller religiöser Architektur und der industriellen Ästhetik der Stahlstrukturelemente, besonders rund um den Haupteingang.",
+            "hu": "Figyelje meg a hagyományos vallási építészet és az acélszerkezeti elemek ipari esztétikája közötti feltűnő kontrasztot, különösen a főbejárat körül.",
+            "ro": "Observați contrastul izbitor dintre arhitectura religioasă tradițională și estetica industrială a elementelor structurale din oțel, în special în jurul intrării principale.",
+            "en": "Notice the striking contrast between traditional religious architecture and the industrial aesthetics of the steel structural elements, particularly around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Verrerie",
+            "hu": "Château de la Verrerie",
+            "ro": "Château de la Verrerie",
+            "en": "Château de la Verrerie"
+          },
+          "coords": [
+            4.42333,
+            46.8053
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ehemalige Kristallfabrik und spätere Residenz der Familie Schneider, und planen Sie zusätzliche Zeit für das Industriemuseum in den imposanten konischen Glasöfen ein.",
+            "hu": "Fedezze fel az egykori kristálygyárból lett Schneider-rezidenciát, és szánjon plusz időt az impozáns kúpos üvegkemencékben berendezett miniatűr ipartörténeti múzeumra.",
+            "ro": "Explorați fosta fabrică de cristal transformată în reședința familiei Schneider, alocând timp suplimentar pentru muzeul industrial găzduit în cuptoarele conice de sticlărie.",
+            "en": "Explore the former crystal factory turned Schneider family residence, allocating extra time for the miniature industry museum housed in the imposing conical glasswork ovens."
+          }
+        },
+        {
+          "name": {
+            "de": "Académie François Bourdon",
+            "hu": "Académie François Bourdon",
+            "ro": "Académie François Bourdon",
+            "en": "Académie François Bourdon"
+          },
+          "coords": [
+            4.424515,
+            46.80605
+          ],
+          "category": "cultural",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen industriellen Archive ein, die die globale Reichweite der lokalen Ingenieurskunst zeigen, und fragen Sie die Dozenten unbedingt nach den frühen Lokomotivplänen.",
+            "hu": "Merüljön el a gazdag ipari archívumban, amely bemutatja a helyi mérnöki munka globális hatását, és ne felejtse el megkérdezni a tárlatvezetőket a korai mozdonytervekről.",
+            "ro": "Pătrundeți în bogatele arhive industriale care dezvăluie impactul global al ingineriei locale, asigurându-vă că întrebați ghizii despre primele planuri de locomotive.",
+            "en": "Dive into the rich industrial archives that reveal the global reach of local engineering, making sure to ask the docents about the early locomotive blueprints."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Verrerie",
+            "hu": "Parc de la Verrerie",
+            "ro": "Parc de la Verrerie",
+            "en": "Parc de la Verrerie"
+          },
+          "coords": [
+            4.422975,
+            46.80311
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige, für die Schneider-Dynastie entworfene Landschaft und suchen Sie sich eine ruhige Bank in der Nähe des zentralen Teichs für eine friedliche Pause.",
+            "hu": "Sétáljon végig a Schneider dinasztia számára tervezett buja tájon, és keressen egy csendes padot a központi tó közelében egy békés délutáni pihenőhöz.",
+            "ro": "Plimbați-vă prin peisajul luxuriant conceput pentru dinastia Schneider, găsind o bancă liniștită lângă iazul central pentru a vă bucura de o pauză relaxantă.",
+            "en": "Stroll through the lush landscape designed for the Schneider dynasty, finding a quiet bench near the central pond to enjoy a peaceful afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Combes",
+            "hu": "Parc des Combes",
+            "ro": "Parc des Combes",
+            "en": "Parc des Combes"
+          },
+          "coords": [
+            4.41166,
+            46.8124
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem historischen Touristenzug durch die Hügel und buchen Sie Ihre Tickets im Voraus online, um die Warteschlangen an belebten Sommernachmittagen zu umgehen.",
+            "hu": "Utazzon a dombok között kanyargó történelmi turistavonaton, és foglalja le jegyeit előre online, hogy elkerülje a sorban állást a forgalmas nyári délutánokon.",
+            "ro": "Călătoriți cu trenul turistic istoric ce șerpuiește printre dealuri, rezervându-vă biletele online în avans pentru a evita cozile în după-amiezile aglomerate de vară.",
+            "en": "Ride the historic tourist train that winds through the hills, booking your tickets online beforehand to skip the lines during the busy summer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am monumentalen Marteau Pilon, der mit dem Auto leicht erreichbar ist, gefolgt von einer kurzen Fahrt zur Kirche Saint-Henri. Mittags tauchen Sie in das weitläufige Gelände des Château de la Verrerie ein. Nachmittags erkunden Sie die Académie und den Parc de la Verrerie. Der Abend endet mit einer Fahrt zum Parc des Combes.",
+        "hu": "A reggel a könnyen megközelíthető monumentális Marteau Pilonnál indul, majd egy rövid autózás következik a Saint-Henri templomhoz. Délben elmerülhet a Château de la Verrerie hatalmas birtokán. Délután az Académie rejtelmeit és a Parc de la Verrerie nyugalmát fedezzük fel. Az estét a Parc des Combes meglátogatása zárja.",
+        "ro": "Dimineața începe la monumentalul Marteau Pilon, urmată de o scurtă deplasare cu mașina până la Biserica Saint-Henri. Amiaza vă captivează în domeniul vast de la Château de la Verrerie. După-amiaza explorează arhivele Académie și seninătatea Parc de la Verrerie. Seara se termină cu o cursă plăcută spre Parc des Combes.",
+        "en": "Morning kicks off at the monumental Marteau Pilon, easily accessible by car, followed by a short drive to Saint-Henri Church. Midday immerses you in the expansive Château de la Verrerie grounds. Afternoon explores the depths of the Académie and the serenity of Parc de la Verrerie. Evening finishes with a fun drive to Parc des Combes."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-povoacao-cities-v2",
+  "anchor": {
+    "name": "Povoação",
+    "coords": [
+      -25.24516,
+      37.74688
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 1.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Praia do Morro",
+            "hu": "Praia do Morro strand",
+            "ro": "Plaja Praia do Morro",
+            "en": "Praia do Morro Beach"
+          },
+          "coords": [
+            -25.244172,
+            37.74541
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
+            "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Auditorium",
+            "hu": "Városi Előadóterem",
+            "ro": "Auditoriul Municipal",
+            "en": "Municipal Auditorium"
+          },
+          "coords": [
+            -25.244845,
+            37.747926
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale kulturelle Herzblut in diesem modernen Auditorium, in dem regionale Veranstaltungen stattfinden, und prüfen Sie das Aushängeschild draußen auf kostenlose Abendvorstellungen.",
+            "hu": "Fedezze fel a helyi kulturális élet lüktetését ebben a modern előadóteremben, ahol regionális események zajlanak, és ellenőrizze a kinti hirdetőtáblát az ingyenes esti előadásokért.",
+            "ro": "Descoperiți pulsul cultural local în acest auditoriu modern unde au loc evenimente regionale și verificați panoul exterior pentru eventuale spectacole gratuite de seară.",
+            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau Mutter Gottes",
+            "hu": "Istenanya templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady Mother of God"
+          },
+          "coords": [
+            -25.24368,
+            37.748899
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Doppelturmfassade dieser eleganten Kirche direkt im Zentrum und treten Sie leise ein, um das wunderschön verzierte Altarbild zu schätzen.",
+            "hu": "Csodálja meg ezen elegáns központi templom lenyűgöző ikertornyos homlokzatát, és lépjen be csendben, hogy értékelje a gyönyörűen díszített oltárképet.",
+            "ro": "Admirați fațada impresionantă cu două turnuri a acestei biserici elegante din centru și pășiți liniștit înăuntru pentru a aprecia altarul său frumos ornamentat.",
+            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bárbara",
+            "hu": "Santa Bárbara kápolna",
+            "ro": "Capela Sfânta Barbara",
+            "en": "Chapel of Santa Bárbara"
+          },
+          "coords": [
+            -25.248691,
+            37.749266
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
+            "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
+            "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenkranzkirche",
+            "hu": "Rózsafüzér Királynője templom",
+            "ro": "Biserica Maicii Domnului a Rozariului",
+            "en": "Church of Our Lady of the Rosary"
+          },
+          "coords": [
+            -25.248128,
+            37.746746
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
+            "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
+            "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Ramalho",
+            "hu": "Ramalho kilátó",
+            "ro": "Punctul de belvedere Ramalho",
+            "en": "Ramalho Viewpoint"
+          },
+          "coords": [
+            -25.240951,
+            37.748515
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem leicht zugänglichen Aussichtspunkt den weiten Panoramablick über das Dorf und den Ozean, und bringen Sie unbedingt ein Weitwinkelobjektiv mit, um die atemberaubende Küstenkurve einzufangen.",
+            "hu": "Élvezze a falura és az óceánra nyíló széles panorámát ebből a könnyen megközelíthető kilátóból, és mindenképpen hozzon széles látószögű lencsét a lenyűgöző tengerparti ív megörökítéséhez.",
+            "ro": "Admirați vederea panoramică vastă asupra satului și a oceanului de la acest punct de belvedere accesibil, asigurându-vă că aduceți un obiectiv cu unghi larg pentru a surprinde curba coastei uimitoare.",
+            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Praia do Morro mit Meerbrise. Besuchen Sie das Auditório Municipal für lokale Kultur. Mittags erkunden Sie das Zentrum: die Igreja da Nossa Senhora Mãe de Deus und die charmante Ermida de Santa Bárbara. Nachmittags bewundern Sie die historische Igreja do Rosário. Den Abend lassen Sie am Miradouro do Ramalho mit herrlichem Panoramablick über das Dorf ausklingen.",
+        "hu": "Kezdjen a Praia do Morro strandon a reggeli tengeri szellővel. Ezután látogasson el az Auditório Municipal-ba. Délben fedezze fel a központot: a Nossa Senhora Mãe de Deus templomot és a Santa Bárbara kápolnát. Délután csodálja meg a történelmi Rosário templomot. Az estét a Miradouro do Ramalho kilátónál zárja, élvezve a Povoação feletti lenyűgöző panorámát a tenger felett.",
+        "ro": "Începeți la Praia do Morro cu briza mării, apoi vizitați Auditório Municipal. La prânz, explorați centrul: maiestuoasa biserică Mãe de Deus și micuța capelă Santa Bárbara. După-amiaza, admirați vechea biserică Rosário și curtea sa liniștită. Seara, încheiați plimbarea la Miradouro do Ramalho, bucurându-vă de panorama superbă asupra oceanului și a satului.",
+        "en": "Start at Praia do Morro, enjoying the morning sea breeze and black volcanic sand. From there, immerse yourself in local culture at the modern Auditório Municipal. Midday, head into the historical center, visiting the grand Igreja da Nossa Senhora Mãe de Deus and the quaint Ermida de Santa Bárbara. Conclude at the ancient Igreja do Rosário before a beautiful sunset view from Miradouro do Ramalho."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 4.74,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Praia do Morro",
+            "hu": "Praia do Morro strand",
+            "ro": "Plaja Praia do Morro",
+            "en": "Praia do Morro Beach"
+          },
+          "coords": [
+            -25.244172,
+            37.74541
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
+            "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenkranzkirche",
+            "hu": "Rózsafüzér Királynője templom",
+            "ro": "Biserica Maicii Domnului a Rozariului",
+            "en": "Church of Our Lady of the Rosary"
+          },
+          "coords": [
+            -25.248128,
+            37.746746
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
+            "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
+            "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bárbara",
+            "hu": "Santa Bárbara kápolna",
+            "ro": "Capela Sfânta Barbara",
+            "en": "Chapel of Santa Bárbara"
+          },
+          "coords": [
+            -25.248691,
+            37.749266
+          ],
+          "category": "religious",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
+            "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
+            "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau Mutter Gottes",
+            "hu": "Istenanya templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady Mother of God"
+          },
+          "coords": [
+            -25.24368,
+            37.748899
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Doppelturmfassade dieser eleganten Kirche direkt im Zentrum und treten Sie leise ein, um das wunderschön verzierte Altarbild zu schätzen.",
+            "hu": "Csodálja meg ezen elegáns központi templom lenyűgöző ikertornyos homlokzatát, és lépjen be csendben, hogy értékelje a gyönyörűen díszített oltárképet.",
+            "ro": "Admirați fațada impresionantă cu două turnuri a acestei biserici elegante din centru și pășiți liniștit înăuntru pentru a aprecia altarul său frumos ornamentat.",
+            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Nossa Senhora dos Remédios",
+            "hu": "Remédios szentély",
+            "ro": "Sanctuarul Nossa Senhora dos Remédios",
+            "en": "Sanctuary of Our Lady of Remedies"
+          },
+          "coords": [
+            -25.233809,
+            37.76038
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bezaubernde, erhöht gelegene Heiligtum, das nicht nur spirituellen Trost, sondern auch hervorragende Aussichtspunkte über die üppigen, grünen umliegenden Hügel bietet.",
+            "hu": "Fedezze fel ezt a bájos, magasan fekvő szentélyt, amely nemcsak spirituális vigaszt, hanem kiváló kilátást is nyújt a buja, zöldellő domboldalakra.",
+            "ro": "Descoperiți acest sanctuar fermecător situat la înălțime, care oferă nu doar alinare spirituală, ci și puncte excelente de observație asupra dealurilor verzi și luxuriante din jur.",
+            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang-Aussichtspunkt",
+            "hu": "Naplemente kilátó",
+            "ro": "Punct de belvedere Apus de Soare",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            -25.219403,
+            37.753425
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Aussichtspunkt, der perfekt positioniert ist, um die natürliche Schönheit der Insel einzufangen, und nutzen Sie die vorhandenen Sitzgelegenheiten für ein schnelles Picknick am Mittag.",
+            "hu": "Pihenjen meg ennél a festői kilátópontnál, amely tökéletes helyzetben van a sziget természeti szépségének megörökítéséhez, és használja a kihelyezett padokat egy gyors déli piknikhez.",
+            "ro": "Relaxați-vă la acest punct de observație pitoresc perfect poziționat pentru a surprinde frumusețea naturală a insulei și folosiți zonele de relaxare amenajate pentru un picnic rapid la amiază.",
+            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pico dos Bodes",
+            "hu": "Pico dos Bodes kilátó",
+            "ro": "Punct de belvedere Pico dos Bodes",
+            "en": "Pico dos Bodes Viewpoint"
+          },
+          "coords": [
+            -25.219731,
+            37.747288
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Besteigen Sie den hölzernen Aussichtsturm an diesem dramatischen Aussichtspunkt für einen ungestörten 360-Grad-Blick, aber halten Sie Ihren Hut fest, da es oben recht windig werden kann.",
+            "hu": "Mássza meg a fából készült kilátótornyot ezen a drámai kilátóponton a zavartalan 360 fokos panorámáért, de fogja erősen a kalapját, mert a tetején elég szeles lehet.",
+            "ro": "Urcați pe turnul de observație din lemn la acest punct de belvedere dramatic pentru o vedere neîntreruptă la 360 de grade, dar țineți-vă bine pălăria deoarece poate fi destul de vânt sus.",
+            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Praia do Morro, bevor Sie zur alten Igreja do Rosário radeln. Mittags besuchen Sie die Santa Bárbara Kapelle und die Mãe de Deus Kirche. Fahren Sie bergauf zur Nossa Senhora dos Remédios. Am Nachmittag bringt Sie die Route zum Miradouro do Pôr-do-Sol für spektakuläre Talblicke. Beenden Sie die Tour am Miradouro do Pico dos Bodes mit einem herrlichen Küstensonnenuntergang.",
+        "hu": "Kezdje a kerékpározást a Praia do Morro strandon, majd tekerjen az ősi Rosário templomhoz. Délben látogassa meg a Santa Bárbara és a Mãe de Deus templomokat, mielőtt felmászik a Remédios szentélyhez. Délután guruljon a Miradouro do Pôr-do-Sol kilátóhoz, élvezve a völgyeket. Fejezze be az aktív napot a Pico dos Bodes kilátónál, ahol a toronyból fenséges tengerparti naplemente várja.",
+        "ro": "Porniți de la Praia do Morro înainte de a pedala spre vechea biserică Rosário. La prânz, vizitați capela Santa Bárbara și biserica Mãe de Deus, apoi urcați spre sanctuarul Remédios. După-amiaza, drumul vă duce la Miradouro do Pôr-do-Sol pentru priveliști spectaculoase. Încheiați la Miradouro do Pico dos Bodes, unde turnul de observație vă oferă un apus de soare de neuitat.",
+        "en": "Kickstart your ride at Praia do Morro, taking in the rugged coastline, before cycling into the center to admire the ancient Igreja do Rosário. Pedal to Ermida de Santa Bárbara and the striking Mãe de Deus church. Then challenge yourself with an uphill ride to Nossa Senhora dos Remédios. Follow the winding roads to Miradouro do Pôr-do-Sol, finishing at the dramatic Pico dos Bodes observation tower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 7.21,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Aussichtspunkt Ramalho",
+            "hu": "Ramalho kilátó",
+            "ro": "Punctul de belvedere Ramalho",
+            "en": "Ramalho Viewpoint"
+          },
+          "coords": [
+            -25.240951,
+            37.748515
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem leicht zugänglichen Aussichtspunkt den weiten Panoramablick über das Dorf und den Ozean, und bringen Sie unbedingt ein Weitwinkelobjektiv mit, um die atemberaubende Küstenkurve einzufangen.",
+            "hu": "Élvezze a falura és az óceánra nyíló széles panorámát ebből a könnyen megközelíthető kilátóból, és mindenképpen hozzon széles látószögű lencsét a lenyűgöző tengerparti ív megörökítéséhez.",
+            "ro": "Admirați vederea panoramică vastă asupra satului și a oceanului de la acest punct de belvedere accesibil, asigurându-vă că aduceți un obiectiv cu unghi larg pentru a surprinde curba coastei uimitoare.",
+            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenkranzkirche",
+            "hu": "Rózsafüzér Királynője templom",
+            "ro": "Biserica Maicii Domnului a Rozariului",
+            "en": "Church of Our Lady of the Rosary"
+          },
+          "coords": [
+            -25.248128,
+            37.746746
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
+            "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
+            "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Bárbara",
+            "hu": "Santa Bárbara kápolna",
+            "ro": "Capela Sfânta Barbara",
+            "en": "Chapel of Santa Bárbara"
+          },
+          "coords": [
+            -25.248691,
+            37.749266
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
+            "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
+            "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Auditorium",
+            "hu": "Városi Előadóterem",
+            "ro": "Auditoriul Municipal",
+            "en": "Municipal Auditorium"
+          },
+          "coords": [
+            -25.244845,
+            37.747926
+          ],
+          "category": "cultural",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale kulturelle Herzblut in diesem modernen Auditorium, in dem regionale Veranstaltungen stattfinden, und prüfen Sie das Aushängeschild draußen auf kostenlose Abendvorstellungen.",
+            "hu": "Fedezze fel a helyi kulturális élet lüktetését ebben a modern előadóteremben, ahol regionális események zajlanak, és ellenőrizze a kinti hirdetőtáblát az ingyenes esti előadásokért.",
+            "ro": "Descoperiți pulsul cultural local în acest auditoriu modern unde au loc evenimente regionale și verificați panoul exterior pentru eventuale spectacole gratuite de seară.",
+            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Nossa Senhora dos Remédios",
+            "hu": "Remédios szentély",
+            "ro": "Sanctuarul Nossa Senhora dos Remédios",
+            "en": "Sanctuary of Our Lady of Remedies"
+          },
+          "coords": [
+            -25.233809,
+            37.76038
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.66,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bezaubernde, erhöht gelegene Heiligtum, das nicht nur spirituellen Trost, sondern auch hervorragende Aussichtspunkte über die üppigen, grünen umliegenden Hügel bietet.",
+            "hu": "Fedezze fel ezt a bájos, magasan fekvő szentélyt, amely nemcsak spirituális vigaszt, hanem kiváló kilátást is nyújt a buja, zöldellő domboldalakra.",
+            "ro": "Descoperiți acest sanctuar fermecător situat la înălțime, care oferă nu doar alinare spirituală, ci și puncte excelente de observație asupra dealurilor verzi și luxuriante din jur.",
+            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang-Aussichtspunkt",
+            "hu": "Naplemente kilátó",
+            "ro": "Punct de belvedere Apus de Soare",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            -25.219403,
+            37.753425
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Aussichtspunkt, der perfekt positioniert ist, um die natürliche Schönheit der Insel einzufangen, und nutzen Sie die vorhandenen Sitzgelegenheiten für ein schnelles Picknick am Mittag.",
+            "hu": "Pihenjen meg ennél a festői kilátópontnál, amely tökéletes helyzetben van a sziget természeti szépségének megörökítéséhez, és használja a kihelyezett padokat egy gyors déli piknikhez.",
+            "ro": "Relaxați-vă la acest punct de observație pitoresc perfect poziționat pentru a surprinde frumusețea naturală a insulei și folosiți zonele de relaxare amenajate pentru un picnic rapid la amiază.",
+            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Pico dos Bodes",
+            "hu": "Pico dos Bodes kilátó",
+            "ro": "Punct de belvedere Pico dos Bodes",
+            "en": "Pico dos Bodes Viewpoint"
+          },
+          "coords": [
+            -25.219731,
+            37.747288
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Besteigen Sie den hölzernen Aussichtsturm an diesem dramatischen Aussichtspunkt für einen ungestörten 360-Grad-Blick, aber halten Sie Ihren Hut fest, da es oben recht windig werden kann.",
+            "hu": "Mássza meg a fából készült kilátótornyot ezen a drámai kilátóponton a zavartalan 360 fokos panorámáért, de fogja erősen a kalapját, mert a tetején elég szeles lehet.",
+            "ro": "Urcați pe turnul de observație din lemn la acest punct de belvedere dramatic pentru o vedere neîntreruptă la 360 de grade, dar țineți-vă bine pălăria deoarece poate fi destul de vânt sus.",
+            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Praia do Morro",
+            "hu": "Praia do Morro strand",
+            "ro": "Plaja Praia do Morro",
+            "en": "Praia do Morro Beach"
+          },
+          "coords": [
+            -25.244172,
+            37.74541
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.13,
+          "tip_5lang": {
+            "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
+            "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Miradouro do Ramalho mit einem Dorf-Überblick. Fahren Sie zur Igreja do Rosário und zur Ermida de Santa Bárbara. Mittags stoppen Sie am Auditório Municipal und fahren zum Heiligtum Remédios in den Hügeln. Nachmittags geht es zu den Aussichtspunkten Pôr-do-Sol und Pico dos Bodes. Beenden Sie den Ausflug am Praia do Morro bei einem entspannten Abendspaziergang am Strand.",
+        "hu": "Induljon a Miradouro do Ramalho kilátótól egy kora reggeli falu-panorámával. Vezessen le a történelmi Rosário templomhoz és a Santa Bárbara kápolnához. Délben álljon meg az Auditório Municipalnál, majd menjen a hegyekbe a Remédios szentélyhez. Délután kényelmesen elérheti a Pôr-do-Sol és Pico dos Bodes kilátókat. Zárja az autózást a Praia do Morro strandon egy pihentető esti sétával.",
+        "ro": "Începeți la Miradouro do Ramalho pentru o privire de ansamblu matinală. Conduceți spre istorica biserică Rosário și capela Santa Bárbara. La prânz, opriți la Auditório Municipal, apoi urcați la sanctuarul Remédios. După-amiaza, navigați ușor spre punctele de belvedere Pôr-do-Sol și Pico dos Bodes. Încheiați călătoria parcând la Praia do Morro pentru o plimbare relaxantă de seară pe plajă.",
+        "en": "Begin driving at Miradouro do Ramalho for an early overview of Povoação. Descend to the village to visit the historic Igreja do Rosário and nearby Ermida de Santa Bárbara. Stop at the Auditório Municipal, then drive into the hills to the tranquility of Nossa Senhora dos Remédios. Cruise easily to Miradouro do Pôr-do-Sol and Pico dos Bodes viewpoints, concluding with a relaxing evening at Praia do Morro."
+      }
+    }
+  }
+}

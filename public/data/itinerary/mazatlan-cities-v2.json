@@ -1,0 +1,451 @@
+{
+  "city_id": "mazatlan-cities-v2",
+  "anchor": {
+    "name": "Mazatlán",
+    "coords": [
+      -106.4244,
+      23.2238
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "CICMA Centro de Innovación Cultural Mazatlán",
+            "hu": "CICMA Centro de Innovación Cultural Mazatlán",
+            "ro": "CICMA Centro de Innovación Cultural Mazatlán",
+            "en": "CICMA Centro de Innovación Cultural Mazatlán"
+          },
+          "coords": [
+            -106.424121,
+            23.198388
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit modernen Ausstellungen zur regionalen Geschichte, und kommen Sie früh, um den größten Besucherströmen auszuweichen.",
+            "hu": "Kezdje a napot a regionális történelmet bemutató modern kiállításokkal, és érkezzen korán, hogy elkerülje a legnagyobb tömeget a múzeumban.",
+            "ro": "Începeți ziua explorând expozițiile moderne despre istoria regională, asigurându-vă că sosiți devreme pentru a evita cele mai mari aglomerații.",
+            "en": "Start your day exploring cutting-edge exhibits that highlight regional history, making sure to arrive early to avoid the largest morning crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ángela Peralta",
+            "hu": "Teatro Ángela Peralta",
+            "ro": "Teatro Ángela Peralta",
+            "en": "Teatro Ángela Peralta"
+          },
+          "coords": [
+            -106.422339,
+            23.198043
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende neoklassizistische Architektur des historischen Theaters und fragen Sie an der Kasse gleich nach Abendvorstellungen.",
+            "hu": "Csodálja meg a történelmi színház lenyűgöző neoklasszikus építészetét, és érdeklődjön a jegypénztárnál az esti előadások felől is itt jártakor.",
+            "ro": "Admirați arhitectura neoclasică uimitoare a acestui teatru istoric și verificați la casa de bilete dacă există spectacole în această seară.",
+            "en": "Admire the stunning neoclassical architecture of this historic theater, and check the box office for evening performances while you are here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Que viva Sinaloa",
+            "hu": "Museo Que viva Sinaloa",
+            "ro": "Museo Que viva Sinaloa",
+            "en": "Museo Que viva Sinaloa"
+          },
+          "coords": [
+            -106.42332,
+            23.197248
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebendige Kultur und Traditionen Sinaloas ein, und nehmen Sie sich besonders viel Zeit für die farbenfrohen Volkskunsträume.",
+            "hu": "Merüljön el Sinaloa élénk kultúrájában és hagyományaiban a színes tárlatokon, és szánjon elegendő időt az interaktív népművészeti termekre.",
+            "ro": "Aprofundați cultura și tradițiile vibrante din Sinaloa prin expoziții colorate și luați-vă timp pentru sălile interactive de artă populară.",
+            "en": "Dive deep into the vibrant culture and traditions of Sinaloa through colorful displays, and take your time in the interactive folk art rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo El Rincón de Pedro Infante",
+            "hu": "Museo El Rincón de Pedro Infante",
+            "ro": "Museo El Rincón de Pedro Infante",
+            "en": "Museo El Rincón de Pedro Infante"
+          },
+          "coords": [
+            -106.416856,
+            23.200001
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Feiern Sie das Erbe von Mexikos geliebtem Schauspieler in seinem früheren Zuhause, wo die Audioguides den Rundgang ganz ungemein bereichern.",
+            "hu": "Ünnepelje Mexikó szeretett színészének örökségét egykori otthonában, ahol az audioguide-ok meghallgatása jelentősen gazdagítja a személyes túrát.",
+            "ro": "Celebrați moștenirea iubitului actor și cântăreț mexican în fosta sa casă, unde ascultarea ghidurilor audio locale îmbogățește masiv vizita.",
+            "en": "Celebrate the legacy of Mexico's beloved actor and singer in his former home, where listening to the available audio guides greatly enriches the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Olas Altas",
+            "hu": "Playa Olas Altas",
+            "ro": "Playa Olas Altas",
+            "en": "Playa Olas Altas"
+          },
+          "coords": [
+            -106.427268,
+            23.196836
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang entspannt an diesem Strand, kaufen Sie eine frische Kokosnuss und genießen Sie den spektakulären Sonnenuntergang.",
+            "hu": "Zárja sétáját pihenéssel ezen az ikonikus tengerparton, vegyen egy friss kókuszt, és nézze végig a lenyűgöző óceáni naplementét a homokból.",
+            "ro": "Încheiați-vă plimbarea relaxându-vă pe această plajă iconică, luând o nucă de cocos proaspătă în timp ce priviți apusul spectaculos al soarelui.",
+            "en": "End your walking tour by relaxing on this iconic beach, grabbing a fresh coconut from a local vendor as you watch the spectacular ocean sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route zu Fuß konzentriert sich auf das reiche kulturelle Herz von Mazatlán. Der Morgen beginnt mit Geschichte im CICMA und dem Teatro Ángela Peralta. Die Mittagszeit ist der lokalen Identität im Museo Que viva Sinaloa gewidmet. Der Nachmittag bringt filmische Nostalgie rund um Pedro Infante. Der Abend endet am Strand Olas Altas bei Sonnenuntergang.",
+        "hu": "Ez a gyalogos útvonal Mazatlán gazdag kulturális szívére összpontosít. A délelőtt a CICMA innovatív történelmével és a színház építészetével indul. A dél a helyi identitásé a Museo Que viva Sinaloa-ban. A délután Pedro Infante filmes nosztalgiájába vált. Az este a Playa Olas Altas tengerpartján ér véget egy tökéletes naplemente kíséretében.",
+        "ro": "Acest traseu pietonal se concentrează pe inima culturală bogată a orașului Mazatlán. Dimineața începe cu istorie inovatoare la CICMA și arhitectura teatrului. Prânzul este dedicat identității locale la Museo Que viva Sinaloa. După-amiaza trece la nostalgia cinematografică onorându-l pe Pedro Infante. Seara se încheie la Playa Olas Altas cu un apus perfect.",
+        "en": "This walkable itinerary focuses on Mazatlán's rich cultural heart. Morning starts with innovative history at CICMA and the stunning architecture of Teatro Ángela Peralta. Midday is dedicated to local identity at Museo Que viva Sinaloa. Afternoon shifts to cinematic nostalgia honoring Pedro Infante. Evening concludes at Playa Olas Altas for a perfect sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Olas Altas",
+            "hu": "Playa Olas Altas",
+            "ro": "Playa Olas Altas",
+            "en": "Playa Olas Altas"
+          },
+          "coords": [
+            -106.427268,
+            23.196836
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem historischen Strandabschnitt, der sich perfekt für ein morgendliches Bad eignet, bevor es richtig voll wird.",
+            "hu": "Kezdje a kerékpározást ezen a történelmi homokos partszakaszon, amely tökéletes egy kora reggeli úszáshoz, mielőtt a sétány túlzsúfolttá válna.",
+            "ro": "Începeți ziua de ciclism pe această plajă istorică, perfectă pentru o baie de dimineață înainte ca faleza principală să devină prea aglomerată.",
+            "en": "Kick off your cycling day on this historic stretch of sand, perfect for an early morning swim before the main waterfront promenade gets too busy."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cueva del Diablo",
+            "hu": "La Cueva del Diablo",
+            "ro": "La Cueva del Diablo",
+            "en": "La Cueva del Diablo"
+          },
+          "coords": [
+            -106.429755,
+            23.200436
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an dieser legendären Höhle der lokalen Folklore, wobei Sie beachten sollten, dass das Tor meist verschlossen ist für Fotos.",
+            "hu": "Álljon meg röviden a helyi folklórhoz kötődő legendás barlangnál, de vegye figyelembe, hogy a kapu általában zárva van a fényképezéshez.",
+            "ro": "Opriți-vă scurt pentru a vedea această peșteră legendară legată de folclorul local, ținând cont că poarta este de obicei încuiată pentru poze.",
+            "en": "Stop briefly to see this legendary cave tied to local folklore, keeping in mind that the gate is usually locked so photos are taken from outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Pinitos",
+            "hu": "Playa Pinitos",
+            "ro": "Playa Pinitos",
+            "en": "Playa Pinitos"
+          },
+          "coords": [
+            -106.427594,
+            23.20831
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem charmanten Strand, dessen ruhige Wellen ihn zum idealen Ort für einen kleinen Snack an der Küste machen.",
+            "hu": "Élvezze a frissítő szünetet ezen a kis, de hangulatos strandon, ahol a nyugodt hullámok ideális helyet biztosítanak egy gyors tengerparti falatozáshoz.",
+            "ro": "Bucurați-vă de o pauză răcoritoare la această plajă fermecătoare, unde valurile calme o fac un loc ideal pentru a lua o gustare rapidă.",
+            "en": "Enjoy a refreshing break at this small but charming beach, where the calm waves make it an ideal spot to sit down and have a quick coastal snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Pulmonia",
+            "hu": "Monumento a la Pulmonia",
+            "ro": "Monumento a la Pulmonia",
+            "en": "Monumento a la Pulmonia"
+          },
+          "coords": [
+            -106.422567,
+            23.218708
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein lustiges Foto mit dem Denkmal für Mazatláns einzigartige Freilufttaxis, ein absolutes Muss entlang der malerischen Küstenroute.",
+            "hu": "Készítsen egy szórakoztató fotót a Mazatlán egyedi nyitott taxijait ünneplő emlékművel, amely elengedhetetlen megálló a partmenti túrán.",
+            "ro": "Faceți o fotografie amuzantă cu monumentul care onorează taxiurile unice în aer liber din Mazatlán, o oprire esențială pe traseul de coastă.",
+            "en": "Snap a fun photo with the iconic monument honoring Mazatlán's unique open-air taxis, an essential stop along the scenic coastal bike route."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Norte",
+            "hu": "Playa Norte",
+            "ro": "Playa Norte",
+            "en": "Playa Norte"
+          },
+          "coords": [
+            -106.433402,
+            23.224629
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie an diesem belebten Uferabschnitt die lokalen Fischer mit ihrem Tagesfang, was einen authentischen Einblick ins Leben bietet.",
+            "hu": "Figyelje meg a helyi halászokat, amint beállnak a napi fogással ezen a nyüzsgő partszakaszon, ami remek betekintést nyújt a mindennapokba.",
+            "ro": "Priviți pescarii locali aducând captura zilei pe această porțiune de coastă plină de viață, care oferă o perspectivă autentică asupra vieții.",
+            "en": "Watch local fishermen bringing in their fresh daily catch at this bustling waterfront stretch, which offers a great authentic glimpse of daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+          },
+          "coords": [
+            -106.428133,
+            23.230228
+          ],
+          "category": "family",
+          "arrive_at": "13:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die unglaubliche marine Biodiversität des Golfs von Kalifornien in diesem modernen Aquarium.",
+            "hu": "Zárja le kerékpárját, és fedezze fel a Cortés-tenger hihetetlen tengeri biodiverzitását Latin-Amerika egyik leglátványosabb akváriumában.",
+            "ro": "Legați-vă bicicleta și explorați incredibila biodiversitate marină a Mării Cortez într-unul dintre cele mai spectaculoase acvarii din America.",
+            "en": "Lock up your bike and explore the incredible marine biodiversity of the Sea of Cortez in one of Latin America's most spectacular modern aquariums."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour über den Malecón bietet ständige Meerblicke. Der Morgen beginnt an der Playa Olas Altas und der Cueva del Diablo. Mittags entspannen Sie an der ruhigen Playa Pinitos und fotografieren das Pulmonia-Denkmal. Nachmittags fahren Sie an der lebhaften Playa Norte vorbei. Der Abend endet mit der faszinierenden Unterwasserwelt im riesigen Gran Acuario de Mazatlán.",
+        "hu": "A híres Malecón kerékpározása folyamatos óceáni kilátást biztosít. A reggel a Playa Olas Altas-nál és az Ördög-barlangnál kezdődik. A dél a csendes Playa Pinitos-on telik, egy gyors fotóval a Pulmonia emlékműnél. Délután tekerjen el a nyüzsgő Playa Norte mellett. Az este a tengeri élővilág mélyreható felfedezésével zárul a lenyűgöző Gran Acuario falai között.",
+        "ro": "Ciclismul pe Malecón oferă vederi constante la ocean. Dimineața începe la Playa Olas Altas și La Cueva del Diablo. Prânzul aduce relaxare la Playa Pinitos și o fotografie la monumentul Pulmonia. După-amiaza implică mersul pe lângă animata Playa Norte. Seara se termină cu explorarea vieții marine la spectaculosul acvariu, încununând o zi perfectă pe coastă.",
+        "en": "Cycling the famous Malecón provides constant ocean views. Morning begins at Playa Olas Altas with a quick photo stop at La Cueva del Diablo. Midday brings relaxation at the calm Playa Pinitos and a cultural photo-op at the Pulmonia monument. Afternoon involves riding past the bustling Playa Norte. Evening finishes with deep exploration of marine life at the spectacular Gran Acuario."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Sábalo",
+            "hu": "Playa Sábalo",
+            "ro": "Playa Sábalo",
+            "en": "Playa Sábalo"
+          },
+          "coords": [
+            -106.457135,
+            23.252285
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der Goldenen Zone an diesem Strand, wo das Parken am frühen Morgen viel einfacher ist, bevor die Resorts aufwachen.",
+            "hu": "Kezdje a napot az Aranyzónában ezen a tágas strandon, ahol kora reggel sokkal könnyebb parkolni, mielőtt az üdülőhelyek felébrednének.",
+            "ro": "Începeți ziua în Zona de Aur la această plajă spațioasă, unde parcarea este mult mai ușoară dimineața devreme, înainte ca stațiunile să se trezească.",
+            "en": "Start your driving day in the Golden Zone at this spacious beach, where parking is much easier early in the morning before the resorts wake up."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+            "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+          },
+          "coords": [
+            -106.428133,
+            23.230228
+          ],
+          "category": "family",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden zu diesem architektonischen Wunderwerk, und kaufen Sie Tickets vorher online, um Warteschlangen zu vermeiden.",
+            "hu": "Vezessen dél felé ehhez a hatalmas építészeti csodához, és feltétlenül vegyen jegyet online, hogy elkerülje a sorban állást és a várakozást.",
+            "ro": "Conduceți spre sud spre această minune arhitecturală, asigurându-vă că luați biletele online pentru a sări peste cozi și a securiza parcarea.",
+            "en": "Drive south to this massive architectural marvel, ensuring you buy tickets online beforehand to skip the queues and secure your parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Pulmonia",
+            "hu": "Monumento a la Pulmonia",
+            "ro": "Monumento a la Pulmonia",
+            "en": "Monumento a la Pulmonia"
+          },
+          "coords": [
+            -106.422567,
+            23.218708
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Halten Sie sicher an der Küstenstraße an, um ein schnelles Foto mit dieser skurrilen Statue zu machen, einer Hommage an das lokale Transportmittel.",
+            "hu": "Húzódjon le biztonságosan a partmenti úton, hogy gyorsan lefotózhassa ezt a mókás szobrot, amely a város kedvenc közlekedési eszközének állít emléket.",
+            "ro": "Trageți pe dreapta în siguranță pentru a face o poză rapidă cu această statuie ciudată, un omagiu perfect pentru transportul preferat al orașului.",
+            "en": "Pull over safely along the coastal road to capture a quick picture with this quirky statue, a perfect tribute to the city's favorite transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ángela Peralta",
+            "hu": "Teatro Ángela Peralta",
+            "ro": "Teatro Ángela Peralta",
+            "en": "Teatro Ángela Peralta"
+          },
+          "coords": [
+            -106.422339,
+            23.198043
+          ],
+          "category": "cultural",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie ins historische Zentrum und nutzen Sie gebührenpflichtige Parkplätze, da das Parken in der Nähe dieses Theaters recht schwierig ist.",
+            "hu": "Navigáljon a történelmi központba, és használjon fizetős parkolókat, mivel a szépen felújított színház közelében nagyon nehéz utcai helyet találni.",
+            "ro": "Navigați în centrul istoric și utilizați parcările cu plată, deoarece găsirea unui loc pe stradă lângă acest teatru superb este destul de dificilă.",
+            "en": "Navigate into the historical center and use paid lots, as finding street parking near this beautifully restored 19th-century theater is quite tough."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo El Rincón de Pedro Infante",
+            "hu": "Museo El Rincón de Pedro Infante",
+            "ro": "Museo El Rincón de Pedro Infante",
+            "en": "Museo El Rincón de Pedro Infante"
+          },
+          "coords": [
+            -106.416856,
+            23.200001
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und laufen Sie ein kurzes Stück, um persönliche Erinnerungsstücke des Sängers und berühmten Filmstars zu entdecken.",
+            "hu": "Parkoljon le a közelben, és sétáljon egy keveset, hogy felfedezze a híres énekes személyes emléktárgyait, ami kötelező a mozirajongóknak.",
+            "ro": "Parcați în apropiere și mergeți puțin pentru a descoperi suvenirurile personale ale faimosului cântăreț, o vizită obligatorie pentru fanii cinemaului.",
+            "en": "Park nearby and walk a short distance to discover personal memorabilia of the famous singer, an absolute must for classic Mexican cinema fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Olas Altas",
+            "hu": "Playa Olas Altas",
+            "ro": "Playa Olas Altas",
+            "en": "Playa Olas Altas"
+          },
+          "coords": [
+            -106.427268,
+            23.196836
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an dieser lebhaften Strandpromenade und essen Sie in einem Restaurant am Meer, während Sie den Sonnenuntergang genießen.",
+            "hu": "Zárja autós útját ezen a nyüzsgő partszakaszon, és vacsorázzon egy tengerparti étteremben, miközben élvezi a látványos naplementét a parton.",
+            "ro": "Încheiați călătoria cu mașina conducând spre această zonă de plajă plină de viață, luând cina la un restaurant pe malul mării la minunatul apus.",
+            "en": "Conclude your road trip by driving to this lively beachfront area, grabbing dinner at a seaside restaurant while enjoying the spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie an einem Tag ganz Mazatlán erkunden. Der Morgen beginnt weit im Norden an der Playa Sábalo und dem Gran Acuario. Mittags fahren Sie die malerische Küste entlang mit einem Stopp am Pulmonia-Denkmal. Am Nachmittag erkunden Sie das historische Zentrum mit dem Teatro Peralta und dem Pedro Infante Museum. Der Abend klingt an der lebhaften Playa Olas Altas aus.",
+        "hu": "Az autó lehetővé teszi, hogy egyetlen nap alatt bejárja egész Mazatlánt. A reggel északon, a Playa Sábalo strandon indul, majd a Gran Acuario következik. A dél a festői part menti vezetésé a Pulmonia emlékműnél. A délután a történelmi központba, a Teatro Peraltához és a Pedro Infante múzeumhoz vezet. Az este a nyüzsgő Playa Olas Altas tengerpartján ér véget.",
+        "ro": "O mașină vă permite să acoperiți toată lungimea orașului într-o zi. Dimineața începe la Playa Sábalo înainte de a merge la spectaculosul Acvariu. Prânzul implică o plimbare pitorească pe coastă cu o oprire la monumentul Pulmonia. După-amiaza se mută în centrul istoric pentru Teatrul Peralta și muzeul lui Pedro Infante. Seara se încheie vibrant la Playa Olas Altas.",
+        "en": "A car allows you to span the entire length of Mazatlán in a single day. Morning starts far north at the quiet Playa Sábalo before heading to the spectacular Gran Acuario. Midday involves a scenic coastal drive with a stop at the Pulmonia monument. Afternoon shifts inland to the historic center for the Teatro Peralta and Pedro Infante's museum. Evening wraps up at the vibrant Playa Olas Altas."
+      }
+    }
+  }
+}

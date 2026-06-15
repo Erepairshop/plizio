@@ -1,0 +1,566 @@
+{
+  "city_id": "spain-san-cibrao-cities-v2",
+  "anchor": {
+    "name": "San Cibrao",
+    "coords": [
+      -7.44164,
+      43.69398
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Lieiro",
+            "hu": "Igrexa de Santa María de Lieiro",
+            "ro": "Igrexa de Santa María de Lieiro",
+            "en": "Igrexa de Santa María de Lieiro"
+          },
+          "coords": [
+            -7.450993,
+            43.692635
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das robuste Mauerwerk dieser örtlichen Kirche und genießen Sie die ruhige Atmosphäre, am besten bei einem Besuch am frühen Morgen.",
+            "hu": "Csodálja meg ennek a helyi templomnak a robusztus kőfalait, és élvezze a nyugodt légkört, amelyet a legérdemesebb kora reggel meglátogatni.",
+            "ro": "Admirați zidăria robustă a acestei biserici locale și bucurați-vă de atmosfera sa liniștită, cel mai bine de vizitat dimineața devreme.",
+            "en": "Admire the robust stonework of this local church and enjoy its tranquil atmosphere before exploring the coast, best visited in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Rego",
+            "hu": "Praia do Rego",
+            "ro": "Praia do Rego",
+            "en": "Praia do Rego"
+          },
+          "coords": [
+            -7.437726,
+            43.69393
+          ],
+          "category": "recreational",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im feinen Sand dieses geschützten Strandes, der sich perfekt für ein friedliches Bad eignet, und bringen Sie unbedingt Wasser mit.",
+            "hu": "Pihenjen ezen a védett strandon, amely tökéletes egy békés úszáshoz, és ne felejtsen el saját vizet hozni, mivel a felszereltség korlátozott.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, perfectă pentru o baie liniștită și nu uitați să aduceți apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the fine sands of this sheltered beach, perfect for a peaceful swim, and remember to bring your own water as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Caosa",
+            "hu": "Praia da Caosa",
+            "ro": "Praia da Caosa",
+            "en": "Praia da Caosa"
+          },
+          "coords": [
+            -7.440239,
+            43.694919
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang dieser malerischen Bucht mit sanften Wellen, der ideale Ort für ein entspanntes Picknick am Mittag.",
+            "hu": "Tegyen egy kényelmes sétát e festői öböl mentén, ahol a lágy hullámok megnyugtató hangzást adnak, ami ideális egy déli piknikhez.",
+            "ro": "Faceți o plimbare pe îndelete de-a lungul acestui golf pitoresc, unde valurile blânde creează un fundal sonor relaxant, ideal pentru un picnic.",
+            "en": "Take a leisurely stroll along this picturesque cove where the gentle waves create a soothing soundtrack, ideal for a midday picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Pericón",
+            "hu": "Praia do Pericón",
+            "ro": "Praia do Pericón",
+            "en": "Praia do Pericón"
+          },
+          "coords": [
+            -7.439021,
+            43.694241
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit dieses Strandes und beobachten Sie lokale Seevögel, aber achten Sie auf die Felsen beim Barfußlaufen.",
+            "hu": "Élvezze e kevésbé ismert strand érintetlen szépségét és figyelje meg a madarakat, de legyen óvatos a sziklás kiemelkedésekkel mezítláb sétálva.",
+            "ro": "Bucurați-vă de frumusețea acestei plaje mai puțin cunoscute și observați păsările, dar aveți grijă la stânci când mergeți desculț.",
+            "en": "Enjoy the pristine beauty of this lesser-known beach and spot local seabirds, but be careful of the rocky outcrops when walking barefoot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta Atalaia",
+            "hu": "Castro de Punta Atalaia",
+            "ro": "Castro de Punta Atalaia",
+            "en": "Castro de Punta Atalaia"
+          },
+          "coords": [
+            -7.438543,
+            43.700132
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser eisenzeitlichen Siedlung mit Blick aufs Meer und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel e vaskori település ősi maradványait, ahonnan a tengerre nyílik kilátás, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați rămășițele antice ale acestei așezări cu vedere la mare și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore the ancient remains of this Iron Age settlement overlooking the sea, and wear sturdy shoes to navigate the uneven grassy terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Atalaia",
+            "hu": "Miradoiro da Atalaia",
+            "ro": "Miradoiro da Atalaia",
+            "en": "Miradoiro da Atalaia"
+          },
+          "coords": [
+            -7.437456,
+            43.700842
+          ],
+          "category": "natural",
+          "arrive_at": "15:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Szívja magába a lélegzetelállító panorámát a zord partvonalra erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet.",
+            "ro": "Bucurați-vă de vederile panoramice uluitoare ale coastei de la acest punct de belvedere, asigurându-vă că aduceți o cameră foto pentru peisaje.",
+            "en": "Soak in the breathtaking panoramic views of the rugged coastline from this elevated viewpoint, making sure to bring a camera for the stunning vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portelo",
+            "hu": "Praia do Portelo",
+            "ro": "Praia do Portelo",
+            "en": "Praia do Portelo"
+          },
+          "coords": [
+            -7.433933,
+            43.691852
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem beliebten Stadtstrand mit einer leicht zugänglichen Promenade, perfekt um den Sonnenuntergang zu beobachten.",
+            "hu": "Zárja sétáját ezen a népszerű, könnyen megközelíthető sétánnyal rendelkező városi strandon, amely tökéletes a naplemente megtekintéséhez.",
+            "ro": "Încheiați turul la această plajă urbană populară, cu o promenadă accesibilă, perfectă pentru a privi apusul cu o băutură răcoritoare.",
+            "en": "End your walking tour at this popular urban beach with an easily accessible promenade, perfect for watching the sunset with a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des friedlichen Herzens von San Cibrao an der Kirche Santa María, bevor Sie zur Praia do Rego hinunterschlendern. Die Halbinsel bietet eine erfrischende Küstenbrise, wenn Sie mittags an versteckten Buchten wie Praia da Caosa und Praia do Pericón vorbeispazieren. Der Nachmittag bringt historische Entdeckungen der eisenzeitlichen Überreste am Castro de Punta Atalaia. Beenden Sie Ihren Rundgang am Miradoiro da Atalaia und der Praia do Portelo und genießen Sie die lebhafte Abendatmosphäre am Wasser.",
+        "hu": "Kezdje a reggelt San Cibrao békés szívének felfedezésével a Santa María templomnál, mielőtt elsétálna az idilli Praia do Rego felé. A félsziget frissítő tengerparti szellőt kínál, miközben délben rejtett öblök mellett sétál el. A délután történelmi felfedezéseket tartogat, amikor feltárja a vaskori maradványokat a Castro de Punta Atalaia-nál. Zárja sétáját a Miradoiro da Atalaia és a Praia do Portelo strandoknál, és élvezze a pezsgő esti hangulatot a tengerparton.",
+        "ro": "Începeți dimineața explorând inima liniștită a orașului San Cibrao la Biserica Santa María, înainte de a rătăci spre idilica Praia do Rego. Peninsula oferă o briză de coastă răcoritoare în timp ce vă plimbați pe lângă golfuri ascunse în jurul prânzului. După-amiaza aduce descoperiri istorice pe măsură ce explorați rămășițele epocii fierului de la Castro de Punta Atalaia. Încheiați turul la Miradoiro da Atalaia și Praia do Portelo, bucurându-vă de atmosfera vibrantă de seară.",
+        "en": "Start your morning exploring the peaceful heart of San Cibrao at the Church of Santa María, before wandering down to the idyllic Praia do Rego. The peninsula offers a refreshing coastal breeze as you stroll past hidden coves like Praia da Caosa and Praia do Pericón around midday. Afternoon brings historical discoveries as you uncover the Iron Age remnants at Castro de Punta Atalaia, offering sweeping views. Conclude your walking tour at Miradoiro da Atalaia and Praia do Portelo, enjoying the vibrant evening atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiga A Aldea de Abaixo",
+            "hu": "Antiga A Aldea de Abaixo",
+            "ro": "Antiga A Aldea de Abaixo",
+            "en": "Antiga A Aldea de Abaixo"
+          },
+          "coords": [
+            -7.467072,
+            43.698341
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Spuren dieses alten Dorfes, die Sie am besten würdigen, wenn Sie sich vorab über die Geschichte informieren.",
+            "hu": "Fedezze fel e régi alsó falu lenyűgöző történelmi nyomait, amelyeket a helytörténet előzetes tanulmányozásával értékelhet a legjobban.",
+            "ro": "Descoperiți urmele istorice fascinante ale acestui vechi sat, cel mai bine apreciat citind în prealabil despre istoria locală a regiunii.",
+            "en": "Discover the fascinating historical traces of this old lower village area, best appreciated by reading up on the local history beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Limosa",
+            "hu": "Praia da Limosa",
+            "ro": "Praia da Limosa",
+            "en": "Praia da Limosa"
+          },
+          "coords": [
+            -7.455613,
+            43.698593
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Atmen Sie die salzige Luft an diesem weitläufigen Strand ein, ein großartiger Ort, um sich die Beine zu vertreten und die Meeresbrise zu genießen.",
+            "hu": "Szívja be a sós levegőt ezen a kiterjedt és festői strandon, amely nagyszerű hely a lábak kinyújtóztatására és a hűsítő óceáni szellő élvezetére.",
+            "ro": "Respirați aerul sărat de pe această plajă pitorească și vastă, un loc minunat pentru a vă dezmorți picioarele și a vă bucura de briza oceanului.",
+            "en": "Breathe in the salty air at this expansive and scenic beach, a great spot to stretch your legs and enjoy the refreshing ocean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Lieiro",
+            "hu": "Igrexa de Santa María de Lieiro",
+            "ro": "Igrexa de Santa María de Lieiro",
+            "en": "Igrexa de Santa María de Lieiro"
+          },
+          "coords": [
+            -7.450993,
+            43.692635
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das robuste Mauerwerk dieser örtlichen Kirche und genießen Sie die ruhige Atmosphäre, am besten bei einem Besuch am frühen Morgen.",
+            "hu": "Csodálja meg ennek a helyi templomnak a robusztus kőfalait, és élvezze a nyugodt légkört, amelyet a legérdemesebb kora reggel meglátogatni.",
+            "ro": "Admirați zidăria robustă a acestei biserici locale și bucurați-vă de atmosfera sa liniștită, cel mai bine de vizitat dimineața devreme.",
+            "en": "Admire the robust stonework of this local church and enjoy its tranquil atmosphere before exploring the coast, best visited in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Rego",
+            "hu": "Praia do Rego",
+            "ro": "Praia do Rego",
+            "en": "Praia do Rego"
+          },
+          "coords": [
+            -7.437726,
+            43.69393
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im feinen Sand dieses geschützten Strandes, der sich perfekt für ein friedliches Bad eignet, und bringen Sie unbedingt Wasser mit.",
+            "hu": "Pihenjen ezen a védett strandon, amely tökéletes egy békés úszáshoz, és ne felejtsen el saját vizet hozni, mivel a felszereltség korlátozott.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, perfectă pentru o baie liniștită și nu uitați să aduceți apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the fine sands of this sheltered beach, perfect for a peaceful swim, and remember to bring your own water as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta Atalaia",
+            "hu": "Castro de Punta Atalaia",
+            "ro": "Castro de Punta Atalaia",
+            "en": "Castro de Punta Atalaia"
+          },
+          "coords": [
+            -7.438543,
+            43.700132
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser eisenzeitlichen Siedlung mit Blick aufs Meer und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel e vaskori település ősi maradványait, ahonnan a tengerre nyílik kilátás, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați rămășițele antice ale acestei așezări cu vedere la mare și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore the ancient remains of this Iron Age settlement overlooking the sea, and wear sturdy shoes to navigate the uneven grassy terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Atalaia",
+            "hu": "Miradoiro da Atalaia",
+            "ro": "Miradoiro da Atalaia",
+            "en": "Miradoiro da Atalaia"
+          },
+          "coords": [
+            -7.437456,
+            43.700842
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Szívja magába a lélegzetelállító panorámát a zord partvonalra erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet.",
+            "ro": "Bucurați-vă de vederile panoramice uluitoare ale coastei de la acest punct de belvedere, asigurându-vă că aduceți o cameră foto pentru peisaje.",
+            "en": "Soak in the breathtaking panoramic views of the rugged coastline from this elevated viewpoint, making sure to bring a camera for the stunning vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Petróglifo do Coído",
+            "hu": "Petróglifo do Coído",
+            "ro": "Petróglifo do Coído",
+            "en": "Petróglifo do Coído"
+          },
+          "coords": [
+            -7.428512,
+            43.689831
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese alten Felszeichnungen und besuchen Sie den Ort am späten Nachmittag, wenn das Sonnenlicht die Details offenbart.",
+            "hu": "Csodálja meg ezeket az ősi, kőbe vésett sziklarajzokat, és látogasson el ide késő délután, amikor a ferde napfény feltárja a részleteket.",
+            "ro": "Minunați-vă de aceste sculpturi antice în stâncă și vizitați locul după-amiaza târziu, când lumina soarelui dezvăluie cele mai fine detalii.",
+            "en": "Marvel at these ancient rock carvings etched into the stone, and visit during the late afternoon when the slanting sunlight reveals the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo do Marqués de Pedrosa",
+            "hu": "Pazo do Marqués de Pedrosa",
+            "ro": "Pazo do Marqués de Pedrosa",
+            "en": "Pazo do Marqués de Pedrosa"
+          },
+          "coords": [
+            -7.434494,
+            43.688592
+          ],
+          "category": "historical",
+          "arrive_at": "17:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses historischen Herrenhauses von außen und beachten Sie die traditionelle galizische Steinbauweise.",
+            "hu": "Értékelje e történelmi nemesi kúria nagyszerű építészetét kívülről, megfigyelve annak hagyományos galíciai kőkonstrukcióját és formáit.",
+            "ro": "Apreciați arhitectura grandioasă a acestui conac nobil istoric din exterior, observând construcția sa tradițională din piatră galiciană.",
+            "en": "Appreciate the grand architecture of this historic noble manor house from the outside, noting its traditional Galician stone construction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in der historischen Antiga A Aldea de Abaixo und genießen Sie die Ruhe am frühen Morgen, bevor Sie zur Praia da Limosa fahren. Radeln Sie mittags durch das Stadtzentrum zur Kirche Santa María und folgen Sie dann der Küstenlinie zur Praia do Rego. Am Nachmittag bezwingen Sie die sanften Anstiege zum Castro de Punta Atalaia und seinem Aussichtspunkt. Beenden Sie Ihre Fahrt mit einem Besuch des alten Petróglifo do Coído und des prächtigen Pazo do Marqués de Pedrosa bei Sonnenuntergang.",
+        "hu": "Indítsa kerékpáros útvonalát a történelmi Antiga A Aldea de Abaixo-nál, majd haladjon a kiterjedt Praia da Limosa felé. Tekerjen át a városközponton a Santa María templom irányába, majd délben kövesse a partvonalat a Praia do Rego strandhoz. Délután küzdje le a Castro de Punta Atalaia és a szomszédos kilátó enyhe emelkedőit. Fejezze be az utazást az ősi Petróglifo do Coído és a nagyszerű Pazo do Marqués de Pedrosa meglátogatásával a nap végén.",
+        "ro": "Începeți traseul de ciclism la istorica Antiga A Aldea de Abaixo, bucurându-vă de liniște înainte de a vă îndrepta spre Praia da Limosa. Pedalați prin centrul orașului spre Biserica Santa María, apoi urmați coasta până la Praia do Rego la prânz. După-amiaza, cuceriți urcușurile blânde către Castro de Punta Atalaia și punctul său de belvedere adiacent. Încheiați cursa vizitând vechiul Petróglifo do Coído și grandiosul Pazo do Marqués de Pedrosa pe măsură ce ziua se termină.",
+        "en": "Kick off your cycling route at the historic Antiga A Aldea de Abaixo, taking in the early morning tranquility before heading towards the expansive Praia da Limosa. Pedal through the town center towards the Church of Santa María, and then follow the coastline to Praia do Rego for a midday break. In the afternoon, conquer the gentle climbs to Castro de Punta Atalaia and its adjacent viewpoint. Finish your ride by visiting the ancient Petróglifo do Coído and the grand Pazo do Marqués de Pedrosa as the day ends."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Muíño da Rolda",
+            "hu": "Muíño da Rolda",
+            "ro": "Muíño da Rolda",
+            "en": "Muíño da Rolda"
+          },
+          "coords": [
+            -7.443142,
+            43.673815
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in diesem traditionellen Steinmühlengebäude inmitten üppiger Natur in die Vergangenheit und lauschen Sie dem rauschenden Bach.",
+            "hu": "Lépjen vissza az időben ennél a hagyományos kő vízimalomnál, amelyet buja növényzet vesz körül, és hallgassa a közeli patak csobogását.",
+            "ro": "Întoarceți-vă în timp la această moară de apă tradițională din piatră înconjurată de verdeață, făcându-vă timp să ascultați pârâul din apropiere.",
+            "en": "Step back in time at this traditional stone watermill surrounded by lush greenery, taking a moment to listen to the rushing stream nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte do Muíño da Rolda",
+            "hu": "Ponte do Muíño da Rolda",
+            "ro": "Ponte do Muíño da Rolda",
+            "en": "Ponte do Muíño da Rolda"
+          },
+          "coords": [
+            -7.446862,
+            43.675732
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese malerische historische Brücke, die die nahegelegene Mühle perfekt ergänzt und eine rustikale Kulisse für Ihre Fotos bietet.",
+            "hu": "Keljen át ezen a festői történelmi hídon, amely tökéletesen kiegészíti a közeli malmot, és kiváló rusztikus hátteret biztosít a fotóihoz.",
+            "ro": "Traversați acest pod istoric pitoresc, care completează perfect moara din apropiere, oferind un fundal rustic excelent pentru fotografiile dumneavoastră.",
+            "en": "Cross this quaint historical bridge which perfectly complements the nearby mill, providing an excellent rustic backdrop for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño de Angelito",
+            "hu": "Muíño de Angelito",
+            "ro": "Muíño de Angelito",
+            "en": "Muíño de Angelito"
+          },
+          "coords": [
+            -7.441264,
+            43.67842
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Erkundung der örtlichen Mühlengeschichte an diesem gut erhaltenen Ort fort und beobachten Sie, wie die Natur die Mauern zurückerobert.",
+            "hu": "Folytassa a helyi malomtörténet felfedezését ezen a jól megőrzött helyszínen, és figyelje meg, ahogy a természet lassan visszahódítja a kőfalakat.",
+            "ro": "Continuați explorarea istoriei morăritului local în acest sit bine conservat și observați cum natura își recâștigă încet zidurile de piatră.",
+            "en": "Continue your exploration of the local milling history at this well-preserved site, and notice how nature is slowly reclaiming the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo do Marqués de Pedrosa",
+            "hu": "Pazo do Marqués de Pedrosa",
+            "ro": "Pazo do Marqués de Pedrosa",
+            "en": "Pazo do Marqués de Pedrosa"
+          },
+          "coords": [
+            -7.434494,
+            43.688592
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses historischen Herrenhauses von außen und beachten Sie die traditionelle galizische Steinbauweise.",
+            "hu": "Értékelje e történelmi nemesi kúria nagyszerű építészetét kívülről, megfigyelve annak hagyományos galíciai kőkonstrukcióját és formáit.",
+            "ro": "Apreciați arhitectura grandioasă a acestui conac nobil istoric din exterior, observând construcția sa tradițională din piatră galiciană.",
+            "en": "Appreciate the grand architecture of this historic noble manor house from the outside, noting its traditional Galician stone construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portelo",
+            "hu": "Praia do Portelo",
+            "ro": "Praia do Portelo",
+            "en": "Praia do Portelo"
+          },
+          "coords": [
+            -7.433933,
+            43.691852
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem beliebten Stadtstrand mit einer leicht zugänglichen Promenade, perfekt um den Sonnenuntergang zu beobachten.",
+            "hu": "Zárja sétáját ezen a népszerű, könnyen megközelíthető sétánnyal rendelkező városi strandon, amely tökéletes a naplemente megtekintéséhez.",
+            "ro": "Încheiați turul la această plajă urbană populară, cu o promenadă accesibilă, perfectă pentru a privi apusul cu o băutură răcoritoare.",
+            "en": "End your walking tour at this popular urban beach with an easily accessible promenade, perfect for watching the sunset with a refreshing drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta Atalaia",
+            "hu": "Castro de Punta Atalaia",
+            "ro": "Castro de Punta Atalaia",
+            "en": "Castro de Punta Atalaia"
+          },
+          "coords": [
+            -7.438543,
+            43.700132
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser eisenzeitlichen Siedlung mit Blick aufs Meer und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel e vaskori település ősi maradványait, ahonnan a tengerre nyílik kilátás, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați rămășițele antice ale acestei așezări cu vedere la mare și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore the ancient remains of this Iron Age settlement overlooking the sea, and wear sturdy shoes to navigate the uneven grassy terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Atalaia",
+            "hu": "Miradoiro da Atalaia",
+            "ro": "Miradoiro da Atalaia",
+            "en": "Miradoiro da Atalaia"
+          },
+          "coords": [
+            -7.437456,
+            43.700842
+          ],
+          "category": "natural",
+          "arrive_at": "17:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Szívja magába a lélegzetelállító panorámát a zord partvonalra erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet.",
+            "ro": "Bucurați-vă de vederile panoramice uluitoare ale coastei de la acest punct de belvedere, asigurându-vă că aduceți o cameră foto pentru peisaje.",
+            "en": "Soak in the breathtaking panoramic views of the rugged coastline from this elevated viewpoint, making sure to bring a camera for the stunning vistas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in den üppigen südlichen Außenbezirken am Muíño da Rolda, wo Sie das Morgenlicht über dem Fluss genießen können. Machen Sie mittags kurze Sprünge zur nahegelegenen Steinbrücke und zum Muíño de Angelito. Fahren Sie am Nachmittag nach Norden, um den Pazo do Marqués de Pedrosa zu bewundern und an der Praia do Portelo spazieren zu gehen. Beenden Sie Ihre Küstenfahrt an der Spitze der Halbinsel am Castro de Punta Atalaia und dem Atalaia-Aussichtspunkt.",
+        "hu": "Autós túrája a déli külvárosban, a Muíño da Rolda-nál kezdődik, ahol élvezheti a folyó felett átszűrődő reggeli fényeket. Tegyen gyors kitérőket a közeli kőhídhoz és a Muíño de Angelito-hoz a déli órákban. Délután vezessen észak felé, hogy megcsodálja a Pazo do Marqués de Pedrosa-t, és tegyen egy pihentető sétát a Praia do Portelo-n. Zárja partmenti autózását a félsziget csúcsánál, a Castro de Punta Atalaia-nál és a lenyűgöző Atalaia kilátópontnál.",
+        "ro": "Turul cu mașina începe la periferia sudică la Muíño da Rolda, bucurându-vă de lumina dimineții peste râu. Faceți salturi rapide către podul de piatră din apropiere și Muíño de Angelito, absorbind farmecul rustic la amiază. Conduceți spre nord după-amiaza pentru a admira Pazo do Marqués de Pedrosa și faceți o plimbare relaxantă pe Praia do Portelo. Încheiați călătoria pe coastă la vârful insulei, la Castro de Punta Atalaia și punctul de belvedere Atalaia.",
+        "en": "Your driving tour starts in the lush southern outskirts at Muíño da Rolda, enjoying the morning light filtering through the trees over the river. Make quick hops to the nearby stone bridge and Muíño de Angelito, soaking in the rustic midday charm. Drive northwards in the afternoon to admire the stately Pazo do Marqués de Pedrosa and take a relaxing stroll along Praia do Portelo. Conclude your coastal drive at the tip of the peninsula at Castro de Punta Atalaia and the Atalaia viewpoint."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "tulle",
+  "anchor": {
+    "name": "Tulle",
+    "coords": [
+      1.7706,
+      45.2678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 0.67,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame de Tulle",
+            "hu": "Tulle-i katedrális",
+            "ro": "Catedrala din Tulle",
+            "en": "Tulle Cathedral"
+          },
+          "coords": [
+            1.77125,
+            45.267944
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm dieser wunderschönen Kathedrale aus dem 12. Jahrhundert und versuchen Sie, früh zu kommen, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg e gyönyörű katedrális lenyűgöző 12. századi harangtornyát, és próbáljon korán érkezni, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați impresionantul turn clopotniță din secolul al XII-lea al acestei frumoase catedrale și încercați să o vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the impressive 12th-century bell tower of this beautiful cathedral and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Loyac",
+            "hu": "Maison de Loyac",
+            "ro": "Maison de Loyac",
+            "en": "Maison de Loyac"
+          },
+          "coords": [
+            1.771006,
+            45.268193
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Beachten Sie die filigranen Renaissance-Schnitzereien an der Fassade dieses historischen Herrenhauses, das am besten im späten Morgenlicht fotografiert wird.",
+            "hu": "Figyelje meg a történelmi kúria homlokzatán lévő bonyolult reneszánsz faragványokat, amelyeket a késő délelőtti fényben lehet a legjobban fotózni.",
+            "ro": "Observați sculpturile renascentiste complicate de pe fațada acestui conac istoric, care este cel mai bine fotografiat în lumina târzie a dimineții.",
+            "en": "Notice the intricate Renaissance carvings on the facade of this historic mansion, which is best photographed in the late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Sept Collines",
+            "hu": "Théâtre des Sept Collines",
+            "ro": "Théâtre des Sept Collines",
+            "en": "Théâtre des Sept Collines"
+          },
+          "coords": [
+            1.76999,
+            45.2684
+          ],
+          "category": "cultural",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses architektonische Juwel mit seiner einzigartigen Betondachkonstruktion und prüfen Sie an der Kasse die Tickets für Abendvorstellungen.",
+            "hu": "Fedezze fel ezt az építészeti gyöngyszemet egyedi beton tetőszerkezetével, és érdeklődjön a jegypénztárban az esti előadások iránt.",
+            "ro": "Descoperiți această bijuterie arhitecturală cu structura sa unică de acoperiș din beton și verificați casa de bilete pentru spectacolele de seară.",
+            "en": "Discover this architectural gem with its unique concrete roof structure, and check the box office for evening performance tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'Hôpital",
+            "hu": "Chapelle de l'Hôpital",
+            "ro": "Chapelle de l'Hôpital",
+            "en": "Chapelle de l'Hôpital"
+          },
+          "coords": [
+            1.770844,
+            45.269747
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment in dieser gut erhaltenen Kapelle, wo Sie die historische Verbindung zu den traditionellen Pflegeeinrichtungen von Tulle schätzen können.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a jól karbantartott kápolnában, ahol megcsodálhatja Tulle hagyományos ápolási intézményeinek történelmi kapcsolatát.",
+            "ro": "Bucurați-vă de un moment de liniște în această capelă bine conservată, unde puteți aprecia legătura istorică cu instituțiile tradiționale de îngrijire din Tulle.",
+            "en": "Take a quiet moment in this well-preserved chapel, where you can appreciate the historical connection to Tulle's traditional care institutions."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            1.773808,
+            45.270171
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Sammlungen dieser ehemaligen Kirche, die heute als Museum dient, und planen Sie mindestens eine Stunde dafür ein.",
+            "hu": "Fedezze fel az egykori templomban helyet kapott, ma múzeumként működő lenyűgöző gyűjteményeket, de számoljon azzal, hogy legalább egy óra kell a megtekintésükhöz.",
+            "ro": "Explorați colecțiile fascinante găzduite în această fostă biserică, acum muzeu, având în vedere că veți avea nevoie de cel puțin o oră pentru vizită.",
+            "en": "Explore the fascinating collections housed in this former church now serving as a museum, keeping in mind that it requires at least an hour to fully appreciate."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour d'Alverge",
+            "hu": "Tour d'Alverge",
+            "ro": "Tour d'Alverge",
+            "en": "Tour d'Alverge"
+          },
+          "coords": [
+            1.773751,
+            45.268774
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten Wahrzeichen hinauf, das als hervorragender Orientierungspunkt dient, und machen Sie ein schnelles Foto vom nahegelegenen Platz.",
+            "hu": "Nézzen fel erre a jellegzetes toronyra, amely kiváló tájékozódási pontként szolgál, és készítsen egy gyors fotót a közeli térről.",
+            "ro": "Priviți spre acest turn de reper distinctiv, care servește ca un excelent punct de orientare, și faceți o fotografie rapidă din piața din apropiere.",
+            "en": "Look up at this distinctive landmark tower which serves as a great orientation point, and snap a quick photo from the nearby square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der prächtigen Kathedrale, gefolgt von historischen Entdeckungen am Maison de Loyac. Mittags genießen wir die besondere Architektur des städtischen Theaters. Am Nachmittag bringt uns ein Spaziergang zur ruhigen Kapelle und zur markanten Tour d'Alverge. Der Tag endet im faszinierenden Museum der Église Saint-Pierre.",
+        "hu": "A reggel a pompás katedrálisnál kezdődik, melyet a Maison de Loyac történelmi felfedezése követ. Délben a színház különleges építészetét csodálhatjuk meg. Délután egy séta a csendes kápolnához és a jellegzetes Alverge-toronyhoz vezet. A nap az Église Saint-Pierre múzeumában zárul.",
+        "ro": "Dimineața începe la superba catedrală, urmată de descoperiri istorice la Maison de Loyac. La prânz, ne bucurăm de arhitectura teatrului. După-amiaza, o plimbare ne duce la capela liniștită și la faimosul turn. Ziua se încheie la fascinantul muzeu Église Saint-Pierre.",
+        "en": "The morning starts at the magnificent Cathedral, followed by historic discoveries at Maison de Loyac. Midday is spent admiring the unique theater architecture. In the afternoon, a short walk brings us to the quiet hospital chapel and the landmark Alverge tower. The day concludes at the captivating Saint-Pierre museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 0.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.769229,
+            45.26539
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser historischen Kirche in der unteren Stadt, bevor Sie sich auf den Weg zur Hauptkathedrale machen.",
+            "hu": "Élvezze a csendes légkört ebben az alsóvárosi történelmi templomban, mielőtt a fő katedrális felé indulna hegynek felfelé.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici istorice din partea de jos a orașului înainte de a urca spre catedrala principală.",
+            "en": "Enjoy the peaceful atmosphere of this historic church in the lower part of town before heading uphill towards the main cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre municipal L'Eden",
+            "hu": "Théâtre municipal L'Eden",
+            "ro": "Théâtre municipal L'Eden",
+            "en": "Théâtre municipal L'Eden"
+          },
+          "coords": [
+            1.770849,
+            45.266885
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Fassade dieses charmanten städtischen Theaters und informieren Sie sich über den lokalen Veranstaltungsplan.",
+            "hu": "Csodálja meg e bájos városi színház klasszikus homlokzatát, és ellenőrizze a helyi programajánlót az itt-tartózkodása alatt.",
+            "ro": "Admirați fațada clasică a acestui teatru municipal fermecător și verificați programul local pentru evenimente comunitare.",
+            "en": "Marvel at the classic facade of this charming municipal theater and check the local schedule for community events during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame de Tulle",
+            "hu": "Tulle-i katedrális",
+            "ro": "Catedrala din Tulle",
+            "en": "Tulle Cathedral"
+          },
+          "coords": [
+            1.77125,
+            45.267944
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm dieser wunderschönen Kathedrale aus dem 12. Jahrhundert und versuchen Sie, früh zu kommen, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg e gyönyörű katedrális lenyűgöző 12. századi harangtornyát, és próbáljon korán érkezni, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați impresionantul turn clopotniță din secolul al XII-lea al acestei frumoase catedrale și încercați să o vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the impressive 12th-century bell tower of this beautiful cathedral and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Loyac",
+            "hu": "Maison de Loyac",
+            "ro": "Maison de Loyac",
+            "en": "Maison de Loyac"
+          },
+          "coords": [
+            1.771006,
+            45.268193
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Beachten Sie die filigranen Renaissance-Schnitzereien an der Fassade dieses historischen Herrenhauses, das am besten im späten Morgenlicht fotografiert wird.",
+            "hu": "Figyelje meg a történelmi kúria homlokzatán lévő bonyolult reneszánsz faragványokat, amelyeket a késő délelőtti fényben lehet a legjobban fotózni.",
+            "ro": "Observați sculpturile renascentiste complicate de pe fațada acestui conac istoric, care este cel mai bine fotografiat în lumina târzie a dimineții.",
+            "en": "Notice the intricate Renaissance carvings on the facade of this historic mansion, which is best photographed in the late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour d'Alverge",
+            "hu": "Tour d'Alverge",
+            "ro": "Tour d'Alverge",
+            "en": "Tour d'Alverge"
+          },
+          "coords": [
+            1.773751,
+            45.268774
+          ],
+          "category": "landmark",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten Wahrzeichen hinauf, das als hervorragender Orientierungspunkt dient, und machen Sie ein schnelles Foto vom nahegelegenen Platz.",
+            "hu": "Nézzen fel erre a jellegzetes toronyra, amely kiváló tájékozódási pontként szolgál, és készítsen egy gyors fotót a közeli térről.",
+            "ro": "Priviți spre acest turn de reper distinctiv, care servește ca un excelent punct de orientare, și faceți o fotografie rapidă din piața din apropiere.",
+            "en": "Look up at this distinctive landmark tower which serves as a great orientation point, and snap a quick photo from the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            1.773808,
+            45.270171
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Sammlungen dieser ehemaligen Kirche, die heute als Museum dient, und planen Sie mindestens eine Stunde dafür ein.",
+            "hu": "Fedezze fel az egykori templomban helyet kapott, ma múzeumként működő lenyűgöző gyűjteményeket, de számoljon azzal, hogy legalább egy óra kell a megtekintésükhöz.",
+            "ro": "Explorați colecțiile fascinante găzduite în această fostă biserică, acum muzeu, având în vedere că veți avea nevoie de cel puțin o oră pentru vizită.",
+            "en": "Explore the fascinating collections housed in this former church now serving as a museum, keeping in mind that it requires at least an hour to fully appreciate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln wir bequem zur Église Saint-Jean-Baptiste und zum Theater L'Eden. Mittags erreichen wir das historische Herz von Tulle mit der beeindruckenden Kathedrale und dem Maison de Loyac. Der Nachmittag bietet eine Fahrt zur Tour d'Alverge. Der Tag endet mit einem Besuch des Église Saint-Pierre Museums.",
+        "hu": "Reggel kényelmesen elkarikázunk az Église Saint-Jean-Baptiste-hoz és az Éden színházhoz. Délben elérjük Tulle történelmi szívét a lenyűgöző katedrálissal. A délután egy rövid utat kínál a Tour d'Alverge-hez. A nap az Église Saint-Pierre múzeumában ér véget, amely sok érdekességet tartogat.",
+        "ro": "Dimineața pedalăm confortabil spre Église Saint-Jean-Baptiste și Teatrul L'Eden. La prânz ajungem în inima istorică a orașului Tulle, cu impresionanta catedrală. După-amiaza ne oferă o plimbare spre Tour d'Alverge. Ziua se încheie cu o vizită extinsă la muzeul Église Saint-Pierre.",
+        "en": "Morning begins with a leisurely ride to Église Saint-Jean-Baptiste and the L'Eden theater. Midday brings us to the historic heart of Tulle with the impressive cathedral and Maison de Loyac. Afternoon offers a ride to the Alverge tower. The day ends nicely with a comprehensive visit to the Saint-Pierre museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 2.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Église Saint-Joseph",
+            "ro": "Église Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            1.748866,
+            45.260637
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser etwas abgelegenen, aber charmanten Kirche am Stadtrand, die eine ruhige Flucht vor dem belebten Zentrum bietet.",
+            "hu": "Kezdje utazását ennél a kissé eldugott, de bájos templomnál a város szélén, amely békés menedéket nyújt a nyüzsgő központ előtt.",
+            "ro": "Începeți-vă călătoria la această biserică ușor retrasă, dar fermecătoare de la marginea orașului, oferind o evadare senină înainte de centrul aglomerat.",
+            "en": "Start your trip at this slightly secluded but charming church on the edge of town, offering a serene escape before the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.769229,
+            45.26539
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser historischen Kirche in der unteren Stadt, bevor Sie sich auf den Weg zur Hauptkathedrale machen.",
+            "hu": "Élvezze a csendes légkört ebben az alsóvárosi történelmi templomban, mielőtt a fő katedrális felé indulna hegynek felfelé.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici istorice din partea de jos a orașului înainte de a urca spre catedrala principală.",
+            "en": "Enjoy the peaceful atmosphere of this historic church in the lower part of town before heading uphill towards the main cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame de Tulle",
+            "hu": "Tulle-i katedrális",
+            "ro": "Catedrala din Tulle",
+            "en": "Tulle Cathedral"
+          },
+          "coords": [
+            1.77125,
+            45.267944
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm dieser wunderschönen Kathedrale aus dem 12. Jahrhundert und versuchen Sie, früh zu kommen, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg e gyönyörű katedrális lenyűgöző 12. századi harangtornyát, és próbáljon korán érkezni, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați impresionantul turn clopotniță din secolul al XII-lea al acestei frumoase catedrale și încercați să o vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the impressive 12th-century bell tower of this beautiful cathedral and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Sept Collines",
+            "hu": "Théâtre des Sept Collines",
+            "ro": "Théâtre des Sept Collines",
+            "en": "Théâtre des Sept Collines"
+          },
+          "coords": [
+            1.76999,
+            45.2684
+          ],
+          "category": "cultural",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses architektonische Juwel mit seiner einzigartigen Betondachkonstruktion und prüfen Sie an der Kasse die Tickets für Abendvorstellungen.",
+            "hu": "Fedezze fel ezt az építészeti gyöngyszemet egyedi beton tetőszerkezetével, és érdeklődjön a jegypénztárban az esti előadások iránt.",
+            "ro": "Descoperiți această bijuterie arhitecturală cu structura sa unică de acoperiș din beton și verificați casa de bilete pentru spectacolele de seară.",
+            "en": "Discover this architectural gem with its unique concrete roof structure, and check the box office for evening performance tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'Hôpital",
+            "hu": "Chapelle de l'Hôpital",
+            "ro": "Chapelle de l'Hôpital",
+            "en": "Chapelle de l'Hôpital"
+          },
+          "coords": [
+            1.770844,
+            45.269747
+          ],
+          "category": "landmark",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment in dieser gut erhaltenen Kapelle, wo Sie die historische Verbindung zu den traditionellen Pflegeeinrichtungen von Tulle schätzen können.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a jól karbantartott kápolnában, ahol megcsodálhatja Tulle hagyományos ápolási intézményeinek történelmi kapcsolatát.",
+            "ro": "Bucurați-vă de un moment de liniște în această capelă bine conservată, unde puteți aprecia legătura istorică cu instituțiile tradiționale de îngrijire din Tulle.",
+            "en": "Take a quiet moment in this well-preserved chapel, where you can appreciate the historical connection to Tulle's traditional care institutions."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            1.773808,
+            45.270171
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Sammlungen dieser ehemaligen Kirche, die heute als Museum dient, und planen Sie mindestens eine Stunde dafür ein.",
+            "hu": "Fedezze fel az egykori templomban helyet kapott, ma múzeumként működő lenyűgöző gyűjteményeket, de számoljon azzal, hogy legalább egy óra kell a megtekintésükhöz.",
+            "ro": "Explorați colecțiile fascinante găzduite în această fostă biserică, acum muzeu, având în vedere că veți avea nevoie de cel puțin o oră pentru vizită.",
+            "en": "Explore the fascinating collections housed in this former church now serving as a museum, keeping in mind that it requires at least an hour to fully appreciate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der etwas abgelegenen Église Saint-Joseph, gefolgt von der schönen Église Saint-Jean-Baptiste. Mittags parken wir im Zentrum, um die Kathedrale und das Theater zu besichtigen. Am Nachmittag erkunden wir die Kapelle. Der Tag schließt mit einem ausführlichen Besuch im Museum der Église Saint-Pierre.",
+        "hu": "A reggel a kissé távolabbi Église Saint-Joseph-nél kezdődik, melyet az Église Saint-Jean-Baptiste követ. Délben a központban parkolunk a katedrális és a színház megtekintéséhez. Délután felfedezzük az ősi kápolnát. A napot az Église Saint-Pierre múzeumában tett alapos látogatás zárja.",
+        "ro": "Dimineața începe la Église Saint-Joseph, urmată de frumoasa Église Saint-Jean-Baptiste. La prânz parcăm în centru pentru a vizita catedrala și teatrul orașului. După-amiaza explorăm capela istorică. Ziua se încheie cu o vizită detaliată la muzeul găzduit în Église Saint-Pierre.",
+        "en": "Morning starts at the slightly secluded Église Saint-Joseph, followed by the beautiful Église Saint-Jean-Baptiste. At midday, we park in the center to visit the main cathedral and the theater. In the afternoon we explore the quiet chapel. The day concludes with an in-depth visit to the Saint-Pierre museum."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-cardedu-cities-v2",
+  "anchor": {
+    "name": "Cardedu",
+    "coords": [
+      9.62473,
+      39.79718
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Paolo Apostolo",
+            "hu": "Chiesa di San Paolo Apostolo",
+            "ro": "Chiesa di San Paolo Apostolo",
+            "en": "Chiesa di San Paolo Apostolo"
+          },
+          "coords": [
+            9.626382,
+            39.797321
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser zentralen Kirche, die das Herz des Dorflebens bildet, und besuchen Sie sie am besten zur friedlichen Morgenmesse.",
+            "hu": "Csodálja meg ennek a központi templomnak a modern építészetét, amely a falu életének magja, és látogasson el egy békés reggeli mise idején.",
+            "ro": "Admirați arhitectura modernă a acestei biserici centrale, inima vieții locale, și vizitați-o dimineața pentru o experiență liniștită.",
+            "en": "Admire the modern architecture of this central church, which beautifully anchors the town's social life, and visit during morning mass for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cardedu",
+            "hu": "Nuraghe Cardedu",
+            "ro": "Nuraghe Cardedu",
+            "en": "Nuraghe Cardedu"
+          },
+          "coords": [
+            9.633816,
+            39.799208
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut erhaltenen prähistorischen Steinturm, der Sardiniens alte Verteidigungsstrategien zeigt, aber tragen Sie festes Schuhwerk auf den Steinen.",
+            "hu": "Fedezze fel ezt a jól megőrzött őskori kőtornyot, amely Szardínia ősi védelmi stratégiáit tárja fel, de viseljen erős cipőt a sziklás terep miatt.",
+            "ro": "Explorați acest turn preistoric din piatră ce dezvăluie vechile strategii defensive ale Sardiniei, dar purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Explore this well-preserved prehistoric stone tower that reveals Sardinia's ancient defensive strategies, but wear sturdy shoes to navigate the rocky surroundings safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Trunconi (Remains)",
+            "hu": "Nuraghe Trunconi (Remains)",
+            "ro": "Nuraghe Trunconi (Remains)",
+            "en": "Nuraghe Trunconi (Remains)"
+          },
+          "coords": [
+            9.618149,
+            39.798286
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die verstreuten Ruinen dieser alten Struktur, um die Größe der Nuraghenkultur zu erfassen, und denken Sie an einen Sonnenhut für den ungeschützten Bereich.",
+            "hu": "Vizsgálja meg az ősi építmény lenyűgöző romjait, hogy megértse a nurágh civilizáció nagyságát, és mindenképpen vigyen magával egy széles karimájú kalapot a nap ellen.",
+            "ro": "Examinați ruinele fascinante ale acestei structuri antice pentru a înțelege amploarea civilizației nuragice, asigurându-vă că aveți o pălărie de soare.",
+            "en": "Examine the fascinating scattered ruins of this ancient structure to grasp the sheer scale of the Nuragic civilization, making sure to bring a wide-brimmed hat against the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Arbu",
+            "hu": "Nuraghe Arbu",
+            "ro": "Nuraghe Arbu",
+            "en": "Nuraghe Arbu"
+          },
+          "coords": [
+            9.621528,
+            39.804931
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses rätselhafte archäologische Juwel inmitten der mediterranen Macchia und packen Sie ein Fernglas ein, um die weite Aussicht von der Basis zu genießen.",
+            "hu": "Fedezze fel ezt a rejtélyes régészeti gyöngyszemet a mediterrán bozótosban, és vigyen magával egy kis távcsövet, hogy élvezhesse a panorámát a magaslati pontról.",
+            "ro": "Descoperiți această bijuterie arheologică ascunsă printre tufele mediteraneene și luați un binoclu pentru a admira priveliștile ample de la baza sa înaltă.",
+            "en": "Discover this enigmatic archaeological gem hidden amidst the Mediterranean scrub, and pack a small pair of binoculars to enjoy the sweeping landscape views from its elevated base."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Musciu",
+            "hu": "Nuraghe Musciu",
+            "ro": "Nuraghe Musciu",
+            "en": "Nuraghe Musciu"
+          },
+          "coords": [
+            9.607084,
+            39.799878
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historisch bedeutsamen Bauwerk der Bronzezeit und achten Sie beim Näherkommen auf das massive Zyklopenmauerwerk.",
+            "hu": "Lépjen vissza az időben ezen a történelmileg jelentős bronzkori építménynél, és figyelje meg a hatalmas küklopikus falazatot, amelyhez óvatosan kell közeledni.",
+            "ro": "Întoarceți-vă în timp la acest edificiu din Epoca Bronzului, acordând atenție zidăriei ciclopice masive care necesită pași atenți pentru a o aborda.",
+            "en": "Step back in time at this historically significant Bronze Age edifice, paying close attention to the massive cyclopean masonry that requires careful footing to approach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang in Cardedu beginnt im Zentrum an der modernen Chiesa di San Paolo Apostolo. Dieser Ausgangspunkt verbindet Sie mit dem Herzen des dörflichen Lebens vor Ort. \n Wenn Sie in die raue Landschaft aufbrechen, erreichen Sie bald die Nuraghe Cardedu, gefolgt von den Überresten der Nuraghe Trunconi, die ein prähistorisches Sardinien enthüllen. \n Der Nachmittag geht weiter mit einer Wanderung zur Nuraghe Arbu, die neue Perspektiven bietet. Der Spaziergang durch die mediterrane Macchia ist friedlich und historisch bereichernd. \n Beenden Sie Ihren aktiven Tag an der imposanten Nuraghe Musciu. Ihre massiven alten Steine bieten ein kraftvolles Finale für eine Reise durch die Geschichte der Bronzezeit.",
+        "hu": "A cardedui gyalogtúra a központban, a modern Chiesa di San Paolo Apostolo templomnál kezdődik. Ez a kiindulópont összeköti Önt a helyi falusi élet szívével a túra előtt. \n A zord tájon haladva hamarosan eléri a Nuraghe Cardedut, majd a Nuraghe Trunconi maradványait, amelyek felfedik a történelem előtti Szardíniát a látogatók előtt. \n A délután a Nuraghe Arbuhoz tett túrával folytatódik, amely nagyszerű rálátást kínál a terepre. A mediterrán bozótoson átvezető séta békés és történelmileg gazdagító. \n Fejezze be aktív napját az impozáns Nuraghe Musciu falainál. Hatalmas ősi kövei erőteljes lezárást biztosítanak a bronzkori történelemben tett lenyűgöző utazásnak.",
+        "ro": "Călătoria dumneavoastră pe jos în Cardedu începe în centru, la moderna Chiesa di San Paolo Apostolo. Acest punct vă conectează la inima vieții locale înainte de a porni. \n Îndreptându-vă spre peisajul accidentat, veți ajunge curând la Nuraghe Cardedu, urmat de resturile de la Nuraghe Trunconi, dezvăluind Sardinia preistorică plină de mister. \n După-amiaza continuă cu o drumeție spre Nuraghe Arbu, oferind o perspectivă excelentă. Plimbarea prin vegetația mediteraneeană este pașnică și îmbogățitoare istoric. \n Încheiați ziua activă la impunătorul Nuraghe Musciu. Pietrele sale masive oferă un final memorabil pentru o imersiune profundă în istoria Epocii Bronzului.",
+        "en": "Your walking journey in Cardedu begins in the center at the modern Chiesa di San Paolo Apostolo. This starting point connects you to the heart of local village life before you venture outward. \n Heading into the rugged landscape, you will soon reach the Nuraghe Cardedu, followed closely by the scattered remnants of Nuraghe Trunconi, revealing prehistoric Sardinia. \n The afternoon continues with a trek to Nuraghe Arbu, offering an elevated perspective of the terrain. The walk through the Mediterranean brush is both peaceful and historically enriching. \n Conclude your active day at the imposing Nuraghe Musciu. Its massive ancient stones provide a powerful finale to a deeply immersive journey through Bronze Age history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 5.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Paolo Apostolo",
+            "hu": "Chiesa di San Paolo Apostolo",
+            "ro": "Chiesa di San Paolo Apostolo",
+            "en": "Chiesa di San Paolo Apostolo"
+          },
+          "coords": [
+            9.626382,
+            39.797321
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser zentralen Kirche, die das Herz des Dorflebens bildet, und besuchen Sie sie am besten zur friedlichen Morgenmesse.",
+            "hu": "Csodálja meg ennek a központi templomnak a modern építészetét, amely a falu életének magja, és látogasson el egy békés reggeli mise idején.",
+            "ro": "Admirați arhitectura modernă a acestei biserici centrale, inima vieții locale, și vizitați-o dimineața pentru o experiență liniștită.",
+            "en": "Admire the modern architecture of this central church, which beautifully anchors the town's social life, and visit during morning mass for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cardedu",
+            "hu": "Nuraghe Cardedu",
+            "ro": "Nuraghe Cardedu",
+            "en": "Nuraghe Cardedu"
+          },
+          "coords": [
+            9.633816,
+            39.799208
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut erhaltenen prähistorischen Steinturm, der Sardiniens alte Verteidigungsstrategien zeigt, aber tragen Sie festes Schuhwerk auf den Steinen.",
+            "hu": "Fedezze fel ezt a jól megőrzött őskori kőtornyot, amely Szardínia ősi védelmi stratégiáit tárja fel, de viseljen erős cipőt a sziklás terep miatt.",
+            "ro": "Explorați acest turn preistoric din piatră ce dezvăluie vechile strategii defensive ale Sardiniei, dar purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Explore this well-preserved prehistoric stone tower that reveals Sardinia's ancient defensive strategies, but wear sturdy shoes to navigate the rocky surroundings safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+            "hu": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+            "ro": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+            "en": "Nuraghe sa Perda 'e s'Obiga (Remains)"
+          },
+          "coords": [
+            9.641519,
+            39.801007
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die Überreste dieser stimmungsvollen historischen Stätte, um Siedlungsmuster zu verstehen, und achten Sie auf lose Steine auf dem Weg.",
+            "hu": "Vizsgálja meg e hangulatos történelmi helyszín maradványait a településszerkezet megértéséhez, miközben ügyel a laza kövekre a rögös megközelítési úton.",
+            "ro": "Inspectați vestigiile acestui sit istoric evocator pentru a înțelege modelele de așezare regionale, fiind atenți la pietrele libere de pe poteca accidentată.",
+            "en": "Inspect the remnants of this evocative historical site to understand regional settlement patterns, keeping an eye out for loose stones along the rugged approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Murcu",
+            "hu": "Nuraghe Murcu",
+            "ro": "Nuraghe Murcu",
+            "en": "Nuraghe Murcu"
+          },
+          "coords": [
+            9.642528,
+            39.793988
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Umrunden Sie diese fesselnde megalithische Ruine, die sich perfekt in die Landschaft einfügt, und kommen Sie zur goldenen Stunde für das beste Fotolicht.",
+            "hu": "Sétálja körbe ezt a lenyűgöző megalitikus romot, amely tökéletesen illeszkedik a szardíniai tájba, és érkezzen az aranyórában a legszebb fotófényért.",
+            "ro": "Plimbați-vă în jurul acestei ruine megalitice care se îmbină perfect cu peisajul, și ajungeți în ora de aur pentru cea mai impresionantă lumină fotografică.",
+            "en": "Walk around this captivating megalithic ruin that perfectly blends into the rugged Sardinian landscape, and arrive during the golden hour for the most striking photography light."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Trunconi (Remains)",
+            "hu": "Nuraghe Trunconi (Remains)",
+            "ro": "Nuraghe Trunconi (Remains)",
+            "en": "Nuraghe Trunconi (Remains)"
+          },
+          "coords": [
+            9.618149,
+            39.798286
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die verstreuten Ruinen dieser alten Struktur, um die Größe der Nuraghenkultur zu erfassen, und denken Sie an einen Sonnenhut für den ungeschützten Bereich.",
+            "hu": "Vizsgálja meg az ősi építmény lenyűgöző romjait, hogy megértse a nurágh civilizáció nagyságát, és mindenképpen vigyen magával egy széles karimájú kalapot a nap ellen.",
+            "ro": "Examinați ruinele fascinante ale acestei structuri antice pentru a înțelege amploarea civilizației nuragice, asigurându-vă că aveți o pălărie de soare.",
+            "en": "Examine the fascinating scattered ruins of this ancient structure to grasp the sheer scale of the Nuragic civilization, making sure to bring a wide-brimmed hat against the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Arbu",
+            "hu": "Nuraghe Arbu",
+            "ro": "Nuraghe Arbu",
+            "en": "Nuraghe Arbu"
+          },
+          "coords": [
+            9.621528,
+            39.804931
+          ],
+          "category": "historical",
+          "arrive_at": "15:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses rätselhafte archäologische Juwel inmitten der mediterranen Macchia und packen Sie ein Fernglas ein, um die weite Aussicht von der Basis zu genießen.",
+            "hu": "Fedezze fel ezt a rejtélyes régészeti gyöngyszemet a mediterrán bozótosban, és vigyen magával egy kis távcsövet, hogy élvezhesse a panorámát a magaslati pontról.",
+            "ro": "Descoperiți această bijuterie arheologică ascunsă printre tufele mediteraneene și luați un binoclu pentru a admira priveliștile ample de la baza sa înaltă.",
+            "en": "Discover this enigmatic archaeological gem hidden amidst the Mediterranean scrub, and pack a small pair of binoculars to enjoy the sweeping landscape views from its elevated base."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Chiesa di San Paolo Apostolo und genießen Sie die ruhige Morgenatmosphäre von Cardedu, bevor Sie auf die ländlichen Wege hinausfahren. \n Eine kurze Fahrt bringt Sie zur Nuraghe Cardedu und den Ruinen von sa Perda 'e s'Obiga. Das Radfahren ist perfekt, um den Übergang vom Dorf zur alten Wildnis zu genießen. \n Nach dem Mittag radeln Sie weiter, um Nuraghe Murcu und Trunconi zu erkunden. Die weite ländliche Aussicht ergänzt perfekt die rätselhaften Ruinen in der Landschaft. \n Die Route endet an der Nuraghe Arbu. Parken Sie Ihr Rad und genießen Sie das späte Nachmittagslicht auf den Steinen, um einen tollen Tag voller Geschichte zu beenden.",
+        "hu": "Kezdje kerékpártúráját a Chiesa di San Paolo Apostolo templomnál, és élvezze Cardedu csendes reggeli hangulatát, mielőtt a vidéki ösvények felé veszi az irányt. \n Egy rövid út elviszi a Nuraghe Cardeduhoz és a sa Perda 'e s'Obiga romjaihoz. A kerékpáros tempó tökéletes a faluból az ősi vadonba való átmenet értékeléséhez. \n Délután tekerjen tovább a Nuraghe Murcu és Trunconi felfedezéséhez. A vidéki kilátás tökéletesen kiegészíti a napsütötte szardíniai tájat tarkító rejtélyes romokat. \n Az útvonal a Nuraghe Arbunál ér véget. Parkolja le kerékpárját, és élvezze a megalitikus köveket érő késő délutáni fényt, lezárva ezt a fantasztikus napot.",
+        "ro": "Începeți turul cu bicicleta la Chiesa di San Paolo Apostolo, bucurându-vă de atmosfera liniștită a dimineții înainte de a pedala pe traseele rurale fermecătoare. \n O scurtă plimbare vă aduce la Nuraghe Cardedu și la ruinele sa Perda 'e s'Obiga. Ritmul este perfect pentru a aprecia tranziția de la sat la sălbăticia antică. \n După amiază, pedalați mai departe pentru a explora Nuraghe Murcu și Trunconi. Priveliștile completează perfect ruinele enigmatice care presară peisajul sardinian. \n Traseul se încheie la Nuraghe Arbu. Parcați bicicleta și bucurați-vă de lumina după-amiezii târzii pe pietrele megalitice, încheind o zi fantastică de istorie.",
+        "en": "Kick off your cycling tour at the Chiesa di San Paolo Apostolo, soaking in the quiet morning atmosphere of Cardedu's town square before pedaling out to the rural trails. \n A short ride brings you to Nuraghe Cardedu and the ruins of sa Perda 'e s'Obiga. The gentle cycling pace is perfect for appreciating the subtle transitions from village to ancient wilderness. \n After midday, pedal onward to explore Nuraghe Murcu and Trunconi. The sweeping rural views perfectly complement the enigmatic ruins dotting the sun-drenched Sardinian landscape. \n The route wraps up at Nuraghe Arbu. Park your bike and enjoy the late afternoon light hitting the megalithic stones, concluding a fantastic day of history and cycling."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 8.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Paolo Apostolo",
+            "hu": "Chiesa di San Paolo Apostolo",
+            "ro": "Chiesa di San Paolo Apostolo",
+            "en": "Chiesa di San Paolo Apostolo"
+          },
+          "coords": [
+            9.626382,
+            39.797321
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser zentralen Kirche, die das Herz des Dorflebens bildet, und besuchen Sie sie am besten zur friedlichen Morgenmesse.",
+            "hu": "Csodálja meg ennek a központi templomnak a modern építészetét, amely a falu életének magja, és látogasson el egy békés reggeli mise idején.",
+            "ro": "Admirați arhitectura modernă a acestei biserici centrale, inima vieții locale, și vizitați-o dimineața pentru o experiență liniștită.",
+            "en": "Admire the modern architecture of this central church, which beautifully anchors the town's social life, and visit during morning mass for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Serra ‘e S’Omu (Remains)",
+            "hu": "Nuraghe Serra ‘e S’Omu (Remains)",
+            "ro": "Nuraghe Serra ‘e S’Omu (Remains)",
+            "en": "Nuraghe Serra ‘e S’Omu (Remains)"
+          },
+          "coords": [
+            9.617484,
+            39.78311
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Grundsteine dieses verlorenen Turms, um die frühe architektonische Genialität zu würdigen, und bleiben Sie auf markierten Wegen zum Schutz der Flora.",
+            "hu": "Figyelje meg ennek az elveszett toronynak az alapköveit a korai építészeti leleményesség értékeléséhez, és maradjon a jelzett ösvényeken a növényzet védelme érdekében.",
+            "ro": "Observați pietrele de temelie ale acestui turn pierdut pentru a aprecia ingeniozitatea arhitecturală timpurie, rămânând pe traseele marcate pentru a proteja flora.",
+            "en": "Observe the intriguing foundational stones of this lost tower to appreciate early architectural ingenuity, making sure to stay on marked trails to protect the delicate flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Musciu",
+            "hu": "Nuraghe Musciu",
+            "ro": "Nuraghe Musciu",
+            "en": "Nuraghe Musciu"
+          },
+          "coords": [
+            9.607084,
+            39.799878
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.05,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historisch bedeutsamen Bauwerk der Bronzezeit und achten Sie beim Näherkommen auf das massive Zyklopenmauerwerk.",
+            "hu": "Lépjen vissza az időben ezen a történelmileg jelentős bronzkori építménynél, és figyelje meg a hatalmas küklopikus falazatot, amelyhez óvatosan kell közeledni.",
+            "ro": "Întoarceți-vă în timp la acest edificiu din Epoca Bronzului, acordând atenție zidăriei ciclopice masive care necesită pași atenți pentru a o aborda.",
+            "en": "Step back in time at this historically significant Bronze Age edifice, paying close attention to the massive cyclopean masonry that requires careful footing to approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+            "hu": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+            "ro": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+            "en": "Tomba di Giganti Bellisceddu (Ilixeddu)"
+          },
+          "coords": [
+            9.624814,
+            39.814245
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses erstaunliche Gigantengrab, das als antike kollektive Grabkammer diente, und respektieren Sie die Feierlichkeit, indem Sie den Lärmpegel niedrig halten.",
+            "hu": "Csodálja meg ezt a lenyűgöző óriássírt, amely ősi kollektív temetkezési kamraként szolgált, és tisztelje a hely ünnepélyességét csendes viselkedéssel.",
+            "ro": "Minunați-vă de acest uimitor Mormânt al Uriașilor care a servit drept cameră funerară colectivă și respectați solemnitatea locului păstrând liniștea în timpul vizitei.",
+            "en": "Marvel at this astonishing Giant's Tomb which served as an ancient collective burial chamber, and respect the site's solemnity by keeping noise levels down during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Murcu",
+            "hu": "Nuraghe Murcu",
+            "ro": "Nuraghe Murcu",
+            "en": "Nuraghe Murcu"
+          },
+          "coords": [
+            9.642528,
+            39.793988
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Umrunden Sie diese fesselnde megalithische Ruine, die sich perfekt in die Landschaft einfügt, und kommen Sie zur goldenen Stunde für das beste Fotolicht.",
+            "hu": "Sétálja körbe ezt a lenyűgöző megalitikus romot, amely tökéletesen illeszkedik a szardíniai tájba, és érkezzen az aranyórában a legszebb fotófényért.",
+            "ro": "Plimbați-vă în jurul acestei ruine megalitice care se îmbină perfect cu peisajul, și ajungeți în ora de aur pentru cea mai impresionantă lumină fotografică.",
+            "en": "Walk around this captivating megalithic ruin that perfectly blends into the rugged Sardinian landscape, and arrive during the golden hour for the most striking photography light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autoreise im Herzen des Dorfes an der Chiesa di San Paolo Apostolo. Dies bietet einen kulturellen Anker, bevor Sie in die weitere Landschaft fahren. \n Fahren Sie zu den stimmungsvollen Überresten von Nuraghe Serra ‘e S’Omu, gefolgt von Nuraghe Musciu. Ein Auto ermöglicht es Ihnen, die Distanzen bequem zurückzulegen. \n Die historische Erkundung gipfelt in einem Besuch der Tomba di Giganti Bellisceddu. Dieses monumentale Gemeinschaftsgrab ist ein Highlight der antiken Architektur. \n Beenden Sie den Tag mit einer Fahrt zur Nuraghe Murcu. Hier, inmitten der ruhigen Hügel, können Sie den Sonnenuntergang über den Steinen beobachten und die Reise beenden.",
+        "hu": "Kezdje autós útitervét a falu szívében, a Chiesa di San Paolo Apostolo templomnál. Ez kulturális alapot biztosít, mielőtt kimenne a tágabb régészeti vidékre. \n Vezessen ki a Nuraghe Serra ‘e S’Omu hangulatos maradványaihoz, majd a Nuraghe Musciuhoz. Az autó lehetővé teszi, hogy kényelmesen megtegye e bronzkori helyek közti utat. \n A történelmi felfedezés a Tomba di Giganti Bellisceddu meglátogatásával éri el csúcspontját. Ez a kollektív sír a szardíniai ősi nurágh építészet látványos fénypontja. \n A napot a Nuraghe Murcuhoz hajtva fejezheti be. Itt, a csendes dombok között nézheti a naplementét a sziklák felett, befejezve egy felejthetetlen ókori utazást.",
+        "ro": "Începeți itinerariul auto în inima satului, la Chiesa di San Paolo Apostolo. Aceasta oferă o ancoră culturală înainte de a conduce în peisajul arheologic mai larg. \n Conduceți spre resturile evocatoare de la Nuraghe Serra ‘e S’Omu, urmate de Nuraghe Musciu. Mașina vă permite să parcurgeți confortabil distanțele dintre aceste situri. \n Explorarea atinge apogeul cu o vizită la Tomba di Giganti Bellisceddu. Acest mormânt colectiv monumental este un punct de atracție al arhitecturii antice nuragice. \n Încheiați ziua conducând spre Nuraghe Murcu. Aici, printre dealurile liniștite, puteți privi apusul peste pietre, punând capăt unei excursii de neuitat prin antichitate.",
+        "en": "Start your driving itinerary in the heart of the village at Chiesa di San Paolo Apostolo. This provides a cultural anchor before you drive out into the broader archaeological landscape. \n Drive out to the evocative remains of Nuraghe Serra ‘e S’Omu, followed by Nuraghe Musciu. A car allows you to comfortably cover the distances between these fascinating Bronze Age sites. \n The historical exploration peaks with a visit to the Tomba di Giganti Bellisceddu. This monumental collective tomb is a spectacular highlight of Sardinia’s ancient Nuragic architecture. \n Finish the day driving to Nuraghe Murcu. Here, amidst the quiet hills, you can watch the sunset over the rugged stones, ending an unforgettable road trip through antiquity."
+      }
+    }
+  }
+}

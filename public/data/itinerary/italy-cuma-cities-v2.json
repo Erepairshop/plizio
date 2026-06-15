@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-cuma-cities-v2",
+  "anchor": {
+    "name": "Cuma",
+    "coords": [
+      14.05598,
+      40.83805
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotta di Cocceio",
+            "hu": "Grotta di Cocceio",
+            "ro": "Grotta di Cocceio",
+            "en": "Grotta di Cocceio"
+          },
+          "coords": [
+            14.070814,
+            40.840207
+          ],
+          "category": "historical",
+          "arrive_at": "09:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen antiken römischen Tunnel, ein Wunder der Ingenieurskunst, für das festes Schuhwerk auf dem unebenen Boden sehr empfohlen wird.",
+            "hu": "Fedezze fel ezt az ősi római alagutat, amely egy igazi mérnöki csoda, és mindenképpen viseljen kényelmes, strapabíró cipőt a bejárásához.",
+            "ro": "Explorați acest tunel roman antic, o adevărată minune inginerească, și asigurați-vă că purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this ancient Roman tunnel that connected Lake Avernus to Cumae, an engineering marvel where wearing sturdy shoes is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta della Sibilla",
+            "hu": "Grotta della Sibilla",
+            "ro": "Grotta della Sibilla",
+            "en": "Grotta della Sibilla"
+          },
+          "coords": [
+            14.076656,
+            40.834954
+          ],
+          "category": "landmark",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die trapezförmige Galerie der Sibylle von Cumae und kommen Sie früh, um das mystische Licht in ruhiger Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig a legendás trapéz alakú galérián, ahol a cumaei szibilla jósolt, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Plimbați-vă prin galeria trapezoidală unde profetiza Sibila din Cumae și vizitați-o dimineața devreme pentru a vă bucura de lumina sa mistică.",
+            "en": "Walk through the legendary trapezoidal gallery where the Cumaean Sibyl prophesied, and visit early in the day to enjoy the mystical light uncrowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Apollo",
+            "hu": "Tempio di Apollo",
+            "ro": "Tempio di Apollo",
+            "en": "Tempio di Apollo"
+          },
+          "coords": [
+            14.082168,
+            40.839226
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieses majestätischen Apollontempels auf der Akropolis, aber denken Sie an einen Sonnenhut, da es hier kaum Schatten gibt.",
+            "hu": "Csodálja meg a fenséges Apollón-templom romjait az akropoliszon, de ne felejtsen el kalapot hozni, mivel ezen a területen alig van árnyék.",
+            "ro": "Admirați ruinele acestui maiestuos templu dedicat lui Apollo de pe acropolă, dar nu uitați să aduceți o pălărie deoarece umbra este rară aici.",
+            "en": "Admire the ruins of this majestic temple dedicated to Apollo, perched on the acropolis, but remember to bring a hat as there is little shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cunicolo e Tempio di Apollo",
+            "hu": "Cunicolo e Tempio di Apollo",
+            "ro": "Cunicolo e Tempio di Apollo",
+            "en": "Cunicolo e Tempio di Apollo"
+          },
+          "coords": [
+            14.0813,
+            40.840127
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden unterirdischen Gang unter dem Heiligtum und bringen Sie eine kleine Taschenlampe für die dunklen Ecken mit.",
+            "hu": "Fedezze fel a szentélyhez kapcsolódó lenyűgöző földalatti átjárót, és hozzon magával zseblámpát, hogy a sötétben is lássa az ősi részleteket.",
+            "ro": "Descoperiți acest pasaj subteran fascinant legat de sanctuarul de deasupra și aduceți o lanternă mică pentru a observa detaliile antice.",
+            "en": "Discover this fascinating subterranean passage linked to the sanctuary above, and bring a small flashlight to see the ancient details in the dark."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dello Quarantena",
+            "hu": "Parco dello Quarantena",
+            "ro": "Parco dello Quarantena",
+            "en": "Parco dello Quarantena"
+          },
+          "coords": [
+            14.050799,
+            40.827894
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Naturschutzgebiet voller lokaler Flora und Fauna, ideal für einen Spaziergang, wenn Sie Insektenspray einpacken.",
+            "hu": "Pihenjen meg ebben a helyi növény- és állatvilágot védő tágas természetvédelmi területen, amely tökéletes egy sétához, ha hoz rovarriasztót.",
+            "ro": "Relaxați-vă în această vastă rezervație naturală perfectă pentru o plimbare liniștită de după-amiază, dar nu uitați să luați spray împotriva insectelor.",
+            "en": "Relax in this expansive natural reserve that protects local flora and fauna, perfect for a peaceful afternoon stroll if you pack some insect repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Papel Beach",
+            "hu": "Papel Beach",
+            "ro": "Papel Beach",
+            "en": "Papel Beach"
+          },
+          "coords": [
+            14.048913,
+            40.83075
+          ],
+          "category": "recreational",
+          "arrive_at": "16:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erholen Sie sich am goldenen Sand dieses beliebten Strandes und genießen Sie den Sonnenuntergang mit einem erfrischenden Getränk vom nahegelegenen Kiosk.",
+            "hu": "Lazítson a helyiek által kedvelt strand aranyhomokján, és élvezze a naplemente látványát egy frissítő itallal a közeli kioszkból távozás előtt.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, bucurându-vă de apusul soarelui cu o băutură răcoritoare de la chioșcul din apropiere.",
+            "en": "Unwind on the golden sands of this popular local beach, enjoying the sunset views with a refreshing drink from the nearby kiosk before you leave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Abstieg in die faszinierende Grotta di Cocceio und spüren Sie die antike römische Ingenieurskunst, bevor Sie den Echos in der legendären Grotta della Sibilla lauschen. Steigen Sie am Mittag zum Tempio di Apollo und seinen verborgenen Gängen hinauf, um die atemberaubende Aussicht von der Akropolis zu bewundern. Am Nachmittag steigen Sie zur Küste hinab und unternehmen einen ruhigen Spaziergang durch das Grün des Parco dello Quarantena. Beenden Sie Ihren Tag entspannt am Papel Beach und beobachten Sie den Sonnenuntergang über dem Tyrrhenischen Meer.",
+        "hu": "Kezdje a reggelt a lenyűgöző Grotta di Cocceio felfedezésével, megtapasztalva az ókori római mérnöki munkát, mielőtt belehallgatna a legendás Grotta della Sibilla visszhangjaiba. Délben másszon fel az Apollón-templomhoz és a rejtett átjárókhoz, hogy megcsodálja a lélegzetelállító tengerparti kilátást. Délután ereszkedjen le a part felé egy hosszú, békés sétára a Parco dello Quarantena növényzete között, figyelve a helyi vadvilágot. Zárja a napot a Papel Beach homokján pihenve, miközben a Tirrén-tenger felett lemenő nap gyönyörű színeiben gyönyörködik.",
+        "ro": "Începeți dimineața coborând în fascinanta Grotta di Cocceio, simțind ingineria romană antică, înainte de a asculta ecourile din legendara Grotta della Sibilla. La prânz, urcați la Tempio di Apollo și pasajele sale ascunse pentru a admira priveliștile de pe acropolă. După-amiaza, coborâți spre coastă pentru o lungă plimbare liniștită prin verdeața din Parco dello Quarantena, observând fauna locală. Încheiați ziua relaxându-vă la Papel Beach, urmărind un apus de soare spectaculos peste Marea Tireniană, cu valurile spărgându-se ușor la țărm.",
+        "en": "Start your morning by descending into the fascinating Grotta di Cocceio, feeling the chill of ancient Roman engineering, before listening to the echoes in the legendary Grotta della Sibilla. By midday, climb to the Tempio di Apollo and its nearby hidden passages to admire the breathtaking coastal views from the ancient acropolis while uncovering sacred secrets. In the afternoon, descend towards the coast for a long, peaceful walk through the greenery of Parco dello Quarantena, observing local wildlife. End your day relaxing at Papel Beach, watching the sunset over the Tyrrhenian Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotta della Sibilla",
+            "hu": "Grotta della Sibilla",
+            "ro": "Grotta della Sibilla",
+            "en": "Grotta della Sibilla"
+          },
+          "coords": [
+            14.076656,
+            40.834954
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die trapezförmige Galerie der Sibylle von Cumae und kommen Sie früh, um das mystische Licht in ruhiger Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig a legendás trapéz alakú galérián, ahol a cumaei szibilla jósolt, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Plimbați-vă prin galeria trapezoidală unde profetiza Sibila din Cumae și vizitați-o dimineața devreme pentru a vă bucura de lumina sa mistică.",
+            "en": "Walk through the legendary trapezoidal gallery where the Cumaean Sibyl prophesied, and visit early in the day to enjoy the mystical light uncrowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Apollo",
+            "hu": "Tempio di Apollo",
+            "ro": "Tempio di Apollo",
+            "en": "Tempio di Apollo"
+          },
+          "coords": [
+            14.082168,
+            40.839226
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieses majestätischen Apollontempels auf der Akropolis, aber denken Sie an einen Sonnenhut, da es hier kaum Schatten gibt.",
+            "hu": "Csodálja meg a fenséges Apollón-templom romjait az akropoliszon, de ne felejtsen el kalapot hozni, mivel ezen a területen alig van árnyék.",
+            "ro": "Admirați ruinele acestui maiestuos templu dedicat lui Apollo de pe acropolă, dar nu uitați să aduceți o pălărie deoarece umbra este rară aici.",
+            "en": "Admire the ruins of this majestic temple dedicated to Apollo, perched on the acropolis, but remember to bring a hat as there is little shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta di Cocceio",
+            "hu": "Grotta di Cocceio",
+            "ro": "Grotta di Cocceio",
+            "en": "Grotta di Cocceio"
+          },
+          "coords": [
+            14.070814,
+            40.840207
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen antiken römischen Tunnel, ein Wunder der Ingenieurskunst, für das festes Schuhwerk auf dem unebenen Boden sehr empfohlen wird.",
+            "hu": "Fedezze fel ezt az ősi római alagutat, amely egy igazi mérnöki csoda, és mindenképpen viseljen kényelmes, strapabíró cipőt a bejárásához.",
+            "ro": "Explorați acest tunel roman antic, o adevărată minune inginerească, și asigurați-vă că purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this ancient Roman tunnel that connected Lake Avernus to Cumae, an engineering marvel where wearing sturdy shoes is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte dell'Acqua - Lago Fusaro",
+            "hu": "Grotte dell'Acqua - Lago Fusaro",
+            "ro": "Grotte dell'Acqua - Lago Fusaro",
+            "en": "Grotte dell'Acqua - Lago Fusaro"
+          },
+          "coords": [
+            14.059554,
+            40.825058
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese antiken Thermalanlagen am Fusaro-See, die die römische Badekultur zeigen, und tragen Sie flache Schuhe für die felsigen Wege.",
+            "hu": "Vizsgálja meg a Fusaro-tó melletti ősi termálépítményeket, amelyek a római fürdőkultúrát mutatják be, és viseljen lapos talpú cipőt a köves utakon.",
+            "ro": "Investigați aceste structuri termale antice de lângă Lacul Fusaro, reprezentative pentru cultura romană, purtând încălțăminte plată pe poteci.",
+            "en": "Investigate these ancient thermal structures nestled by Lake Fusaro, showcasing Roman bathing culture, and wear flat shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dello Quarantena",
+            "hu": "Parco dello Quarantena",
+            "ro": "Parco dello Quarantena",
+            "en": "Parco dello Quarantena"
+          },
+          "coords": [
+            14.050799,
+            40.827894
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Naturschutzgebiet voller lokaler Flora und Fauna, ideal für einen Spaziergang, wenn Sie Insektenspray einpacken.",
+            "hu": "Pihenjen meg ebben a helyi növény- és állatvilágot védő tágas természetvédelmi területen, amely tökéletes egy sétához, ha hoz rovarriasztót.",
+            "ro": "Relaxați-vă în această vastă rezervație naturală perfectă pentru o plimbare liniștită de după-amiază, dar nu uitați să luați spray împotriva insectelor.",
+            "en": "Relax in this expansive natural reserve that protects local flora and fauna, perfect for a peaceful afternoon stroll if you pack some insect repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Diana",
+            "hu": "Lido Diana",
+            "ro": "Lido Diana",
+            "en": "Lido Diana"
+          },
+          "coords": [
+            14.048165,
+            40.826723
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein komfortables Stranderlebnis in diesem gut ausgestatteten Strandbad, wo die Vorabbuchung einer Liege perfekte Erholung garantiert.",
+            "hu": "Élvezze a kényelmes strandolást ezen a jól felszerelt tengerparti szakaszon, ahol a napágyak előzetes lefoglalása garantálja a tökéletes pihenést.",
+            "ro": "Bucurați-vă de o experiență confortabilă la acest ștrand bine echipat, unde rezervarea anticipată a unui șezlong vă asigură odihna perfectă.",
+            "en": "Enjoy a comfortable beach experience at this well-equipped lido by the Tyrrhenian Sea, where booking a sunbed in advance ensures a perfect rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour früh an der mystischen Grotta della Sibilla und radeln Sie dann zum Tempio di Apollo, um die Erhabenheit des antiken Cumae zu erleben. Gegen Mittag durchqueren Sie den beeindruckenden Tunnel der Grotta di Cocceio und fahren hinab zum Fusaro-See, um die antiken Ruinen der Grotte dell'Acqua zu erkunden. Ihre Nachmittagsfahrt führt Sie in den erfrischenden Schatten des Parco dello Quarantena, wo unbefestigte Wege Spaß machen. Parken Sie Ihr Fahrrad schließlich am Lido Diana, um eine wohlverdiente Pause und einen herrlichen Abend am Meer zu genießen.",
+        "hu": "Kezdje kerékpártúráját korán a misztikus Grotta della Sibillánál, majd tekerjen fel az Apollón-templomhoz, hogy a reggeli fényben csodálja meg az ősi Cumae nagyságát. Ahogy közeledik a dél, tekerjen át a lenyűgöző Grotta di Cocceio alagúton, majd guruljon le a Fusaro-tóhoz. A délutáni túra a Parco dello Quarantena frissítő árnyékába vezet, ahol a földes ösvények szórakoztató kerékpáros élményt nyújtanak. Végül parkolja le kerékpárját a Lido Dianánál, hogy élvezze a jól megérdemelt pihenést és a lenyűgöző tengerparti estét a finom homokon.",
+        "ro": "Începeți turul cu bicicleta devreme la mistica Grotta della Sibilla, apoi pedalați până la Tempio di Apollo pentru a vedea măreția anticului Cumae. Pe măsură ce se apropie prânzul, mergeți prin impresionantul tunel Grotta di Cocceio înainte de a coborî spre Lacul Fusaro pentru a explora ruinele. Călătoria de după-amiază vă duce în umbra răcoritoare a Parco dello Quarantena, unde potecile de pământ oferă o experiență distractivă. În cele din urmă, lăsați bicicleta la Lido Diana pentru a vă bucura de o odihnă binemeritată și de o seară uimitoare pe malul mării.",
+        "en": "Kick off your cycling tour early at the mystical Grotta della Sibilla, then pedal up to the Tempio di Apollo to witness the grandeur of ancient Cumae in the morning light. As midday approaches, ride through the impressive Grotta di Cocceio tunnel before cruising down towards Lake Fusaro to explore the ancient Roman thermal ruins at Grotte dell'Acqua. Your afternoon ride takes you into the refreshing shade of Parco dello Quarantena, where dirt paths provide a fun cycling experience. Finally, park your bike at Lido Diana to enjoy a well-deserved rest and a stunning seaside evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:15",
+      "total_km": 10.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotta di Cocceio",
+            "hu": "Grotta di Cocceio",
+            "ro": "Grotta di Cocceio",
+            "en": "Grotta di Cocceio"
+          },
+          "coords": [
+            14.070814,
+            40.840207
+          ],
+          "category": "historical",
+          "arrive_at": "09:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen antiken römischen Tunnel, ein Wunder der Ingenieurskunst, für das festes Schuhwerk auf dem unebenen Boden sehr empfohlen wird.",
+            "hu": "Fedezze fel ezt az ősi római alagutat, amely egy igazi mérnöki csoda, és mindenképpen viseljen kényelmes, strapabíró cipőt a bejárásához.",
+            "ro": "Explorați acest tunel roman antic, o adevărată minune inginerească, și asigurați-vă că purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this ancient Roman tunnel that connected Lake Avernus to Cumae, an engineering marvel where wearing sturdy shoes is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta della Sibilla",
+            "hu": "Grotta della Sibilla",
+            "ro": "Grotta della Sibilla",
+            "en": "Grotta della Sibilla"
+          },
+          "coords": [
+            14.076656,
+            40.834954
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die trapezförmige Galerie der Sibylle von Cumae und kommen Sie früh, um das mystische Licht in ruhiger Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig a legendás trapéz alakú galérián, ahol a cumaei szibilla jósolt, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Plimbați-vă prin galeria trapezoidală unde profetiza Sibila din Cumae și vizitați-o dimineața devreme pentru a vă bucura de lumina sa mistică.",
+            "en": "Walk through the legendary trapezoidal gallery where the Cumaean Sibyl prophesied, and visit early in the day to enjoy the mystical light uncrowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Apollo",
+            "hu": "Tempio di Apollo",
+            "ro": "Tempio di Apollo",
+            "en": "Tempio di Apollo"
+          },
+          "coords": [
+            14.082168,
+            40.839226
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieses majestätischen Apollontempels auf der Akropolis, aber denken Sie an einen Sonnenhut, da es hier kaum Schatten gibt.",
+            "hu": "Csodálja meg a fenséges Apollón-templom romjait az akropoliszon, de ne felejtsen el kalapot hozni, mivel ezen a területen alig van árnyék.",
+            "ro": "Admirați ruinele acestui maiestuos templu dedicat lui Apollo de pe acropolă, dar nu uitați să aduceți o pălărie deoarece umbra este rară aici.",
+            "en": "Admire the ruins of this majestic temple dedicated to Apollo, perched on the acropolis, but remember to bring a hat as there is little shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte dell'Acqua - Lago Fusaro",
+            "hu": "Grotte dell'Acqua - Lago Fusaro",
+            "ro": "Grotte dell'Acqua - Lago Fusaro",
+            "en": "Grotte dell'Acqua - Lago Fusaro"
+          },
+          "coords": [
+            14.059554,
+            40.825058
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese antiken Thermalanlagen am Fusaro-See, die die römische Badekultur zeigen, und tragen Sie flache Schuhe für die felsigen Wege.",
+            "hu": "Vizsgálja meg a Fusaro-tó melletti ősi termálépítményeket, amelyek a római fürdőkultúrát mutatják be, és viseljen lapos talpú cipőt a köves utakon.",
+            "ro": "Investigați aceste structuri termale antice de lângă Lacul Fusaro, reprezentative pentru cultura romană, purtând încălțăminte plată pe poteci.",
+            "en": "Investigate these ancient thermal structures nestled by Lake Fusaro, showcasing Roman bathing culture, and wear flat shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Columbari",
+            "hu": "Columbari",
+            "ro": "Columbari",
+            "en": "Columbari"
+          },
+          "coords": [
+            14.064995,
+            40.819282
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese faszinierenden römischen Grabkammern, die Einblicke in antike Bestattungspraktiken bieten und über einen kurzen Fußweg erreichbar sind.",
+            "hu": "Figyelje meg ezeket az érdekes római sírkamrákat, amelyek bepillantást engednek az ősi temetkezési szokásokba, egy rövid sétával az útról.",
+            "ro": "Observați aceste camere funerare romane intrigante care oferă o perspectivă asupra practicilor antice, ușor accesibile printr-o scurtă drumeție.",
+            "en": "Observe these intriguing Roman burial chambers that provide insight into ancient funerary practices, easily accessible via a short hike off the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Diana",
+            "hu": "Tempio di Diana",
+            "ro": "Tempio di Diana",
+            "en": "Tempio di Diana"
+          },
+          "coords": [
+            14.07056,
+            40.819144
+          ],
+          "category": "historical",
+          "arrive_at": "15:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieses oft fälschlicherweise als Tempel bezeichneten Thermalkomplexes, der im späten Nachmittagslicht am besten wirkt.",
+            "hu": "Csodálja meg e tévesen templomként azonosított hatalmas termálkomplexum maradványait, amelyet a késő délutáni lágy fényben érdemes fotózni.",
+            "ro": "Admirați structura măreață a acestui complex termal identificat greșit ca templu, cel mai bine de fotografiat în lumina blândă a după-amiezii.",
+            "en": "Marvel at the remaining grand structure of this thermal complex long misidentified as a temple, best photographed in the soft late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dello Quarantena",
+            "hu": "Parco dello Quarantena",
+            "ro": "Parco dello Quarantena",
+            "en": "Parco dello Quarantena"
+          },
+          "coords": [
+            14.050799,
+            40.827894
+          ],
+          "category": "natural",
+          "arrive_at": "17:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Naturschutzgebiet voller lokaler Flora und Fauna, ideal für einen Spaziergang, wenn Sie Insektenspray einpacken.",
+            "hu": "Pihenjen meg ebben a helyi növény- és állatvilágot védő tágas természetvédelmi területen, amely tökéletes egy sétához, ha hoz rovarriasztót.",
+            "ro": "Relaxați-vă în această vastă rezervație naturală perfectă pentru o plimbare liniștită de după-amiază, dar nu uitați să luați spray împotriva insectelor.",
+            "en": "Relax in this expansive natural reserve that protects local flora and fauna, perfect for a peaceful afternoon stroll if you pack some insect repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Papel Beach",
+            "hu": "Papel Beach",
+            "ro": "Papel Beach",
+            "en": "Papel Beach"
+          },
+          "coords": [
+            14.048913,
+            40.83075
+          ],
+          "category": "recreational",
+          "arrive_at": "18:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erholen Sie sich am goldenen Sand dieses beliebten Strandes und genießen Sie den Sonnenuntergang mit einem erfrischenden Getränk vom nahegelegenen Kiosk.",
+            "hu": "Lazítson a helyiek által kedvelt strand aranyhomokján, és élvezze a naplemente látványát egy frissítő itallal a közeli kioszkból távozás előtt.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, bucurându-vă de apusul soarelui cu o băutură răcoritoare de la chioșcul din apropiere.",
+            "en": "Unwind on the golden sands of this popular local beach, enjoying the sunset views with a refreshing drink from the nearby kiosk before you leave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt mit der monumentalen Grotta di Cocceio und der mythologischen Grotta della Sibilla. Fahren Sie mittags zum Tempio di Apollo für Panoramablicke und dann zum Fusaro-See, um die Thermalruinen der Grotte dell'Acqua und die faszinierenden Columbari-Gräber zu entdecken. Der Nachmittag führt Sie zu den hoch aufragenden Ruinen des Tempio di Diana, gefolgt von einer kurzen Fahrt zum Parco dello Quarantena für einen Naturspaziergang. Parken Sie Ihr Auto gegen Abend in der Nähe von Papel Beach und lassen Sie einen unglaublichen Tag ausklingen.",
+        "hu": "Festői autózása a monumentális Grotta di Cocceio-nál és a mitológiai Grotta della Sibillánál kezdődik, azonnal elmerülve a történelemben. Délben hajtson fel az Apollón-templomhoz a panorámáért, majd a Fusaro-tóhoz, hogy felfedezze a Grotte dell'Acqua romjait és a Columbari sírokat. A kora délután a tornyosuló Tempio di Diana romokhoz viszi, amelyet egy rövid út követ a Parco dello Quarantena felé. Az este közeledtével parkolja le autóját a Papel Beach közelében, és zárja ezt a hihetetlen napot a hullámok megnyugtató hangjával.",
+        "ro": "Călătoria pitorească începe cu monumentala Grotta di Cocceio și mitologica Grotta della Sibilla. La prânz, conduceți până la Tempio di Apollo pentru vederi panoramice, apoi spre Lacul Fusaro pentru a descoperi ruinele termale Grotte dell'Acqua și fascinantele morminte Columbari. După-amiaza vă duce la ruinele falnice Tempio di Diana, urmată de o scurtă plimbare cu mașina până la Parco dello Quarantena. Parcați mașina lângă Papel Beach la lăsarea serii, încheind o zi incredibilă pe coastă ascultând sunetul relaxant al valurilor.",
+        "en": "Your scenic drive begins with the monumental Grotta di Cocceio and the mythological Grotta della Sibilla, diving deep into history right away. For midday, drive up to the Tempio di Apollo for panoramic vistas, then cruise to Lake Fusaro to uncover the Grotte dell'Acqua thermal ruins and the fascinating Columbari tombs nearby. Mid-afternoon takes you to the towering Tempio di Diana ruins, followed by a short drive to Parco dello Quarantena for a refreshing nature walk. Park your car near Papel Beach as evening falls, capping off an incredible day with the sound of the waves."
+      }
+    }
+  }
+}

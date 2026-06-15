@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-montignano-marzocca-cities-v2",
+  "anchor": {
+    "name": "Montignano-Marzocca",
+    "coords": [
+      13.29133,
+      43.67289
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.286094,
+            43.666403
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die der Gemeinde seit Generationen als ruhiger Zufluchtsort dient, und besuchen Sie sie am besten morgens.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, amely generációk óta a közösség nyugodt menedéke, és a legjobb, ha a kora reggeli órákban látogatja meg.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care servește drept refugiu liniștit pentru comunitate și este cel mai bine de vizitat dimineața devreme.",
+            "en": "Admire the simple elegance of this historic church that has served as a peaceful community refuge for generations, making it perfect for an early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio di Padova",
+            "hu": "Chiesa di Sant'Antonio di Padova",
+            "ro": "Chiesa di Sant'Antonio di Padova",
+            "en": "Chiesa di Sant'Antonio di Padova"
+          },
+          "coords": [
+            13.28918,
+            43.674941
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Atmosphäre dieser charmanten Kirche mit ihren wunderschönen Details, wobei dezente Kleidung für den respektvollen Einlass erforderlich ist.",
+            "hu": "Fedezze fel ennek a bájos templomnak a spirituális légkörét és gyönyörű részleteit, ahol a tiszteletteljes belépéshez szerény, vállakat takaró ruházat viselése kötelező.",
+            "ro": "Descoperiți atmosfera spirituală a acestei biserici fermecătoare cu detalii frumoase, unde o ținută modestă este necesară pentru o intrare respectuoasă și liniștită.",
+            "en": "Discover the spiritual atmosphere and beautiful details of this charming church, remembering to wear modest clothing that covers your shoulders for a respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosquito",
+            "hu": "Mosquito",
+            "ro": "Mosquito",
+            "en": "Mosquito"
+          },
+          "coords": [
+            13.285638,
+            43.679059
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem lebhaften Strandabschnitt, der für seine sauberen Sandstrände bekannt ist und wo Sie frühzeitig einen Liegestuhl reservieren sollten.",
+            "hu": "Élvezze a nyugodt légkört ezen a nyüzsgő partszakaszon, amely tiszta homokos strandjairól híres, és ahol érdemes korán érkezni, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă plină de viață, renumită pentru nisipul curat, și ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the relaxed atmosphere at this lively stretch of beach known for its clean sands, and be sure to arrive early to secure a comfortable sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Note Beach",
+            "hu": "Blue Note Beach",
+            "ro": "Blue Note Beach",
+            "en": "Blue Note Beach"
+          },
+          "coords": [
+            13.282897,
+            43.680534
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strandclub, der eine herrliche Aussicht auf die Adria bietet, und vergessen Sie nicht, Ihre eigene Sonnencreme für den heißen Nachmittag mitzubringen.",
+            "hu": "Pihenjen ebben a festői strandklubban, amely csodálatos kilátást nyújt az Adriai-tengerre, és ne felejtsen el magával hozni naptejet a forró délutáni órákra.",
+            "ro": "Relaxați-vă la acest club de plajă pitoresc care oferă vederi uimitoare la Marea Adriatică și nu uitați să aduceți cremă de protecție solară pentru după-amiaza fierbinte.",
+            "en": "Unwind at this picturesque beach club offering stunning views of the Adriatic Sea, and make sure to bring your own high-SPF sunscreen for the hot afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Atlantic Paola Modesti",
+            "hu": "Bagni Atlantic Paola Modesti",
+            "ro": "Bagni Atlantic Paola Modesti",
+            "en": "Bagni Atlantic Paola Modesti"
+          },
+          "coords": [
+            13.279252,
+            43.682653
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verbringen Sie herrliche Stunden in diesem familienfreundlichen Strandbad mit ausgezeichnetem Service, wo Sie unbedingt das hausgemachte Eis am Kiosk probieren sollten.",
+            "hu": "Töltsön el csodálatos órákat ebben a családbarát, kiváló szolgáltatásokat nyújtó fürdőben, ahol mindenképpen érdemes megkóstolni a helyi kioszkban kapható kézműves fagylaltot.",
+            "ro": "Petreceți ore minunate în această baie prietenoasă cu familiile, cu servicii excelente, unde trebuie neapărat să gustați înghețata artizanală de la chioșcul local de pe plajă.",
+            "en": "Spend delightful hours at this family-friendly beach facility with excellent services, where you absolutely must try the artisanal gelato from the local beach kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Besuch der historischen Kirchen, die die tiefe spirituelle Tradition der Region widerspiegeln.\nGegen Mittag erreichen Sie die lebhaften Küstenabschnitte, wo die sanften Wellen und der feine Sand zum Verweilen und Entspannen einladen.\nAm Nachmittag können Sie die hervorragenden Einrichtungen der verschiedenen Strandclubs erkunden und ein erfrischendes Bad im kristallklaren Meer nehmen.\nLassen Sie den Tag bei einem entspannten Abendspaziergang entlang der gepflegten Strände ausklingen, während die Sonne langsam über der Adria untergeht.",
+        "hu": "Kezdje a napot a történelmi templomok nyugodt meglátogatásával, amelyek a régió mély spirituális hagyományait tükrözik.\nDél körül érje el a nyüzsgő partszakaszokat, ahol a finom hullámok és a tiszta homok pihenésre és feltöltődésre csábítanak.\nDélután fedezze fel a különböző strandklubok kiváló létesítményeit, és vegyen egy frissítő fürdőt a kristálytiszta, hűsítő tengerben.\nZárja a napot egy kellemes esti sétával a gondozott strandok mentén, miközben a nap lassan és festőien nyugszik le az Adriai-tenger felett.",
+        "ro": "Începeți ziua cu o vizită liniștită la bisericile istorice care reflectă tradiția spirituală profundă și cultura autentică a acestei regiuni.\nÎn jurul prânzului, ajungeți pe plajele pline de viață, unde valurile blânde și nisipul fin vă invită să vă relaxați la soare.\nDupă-amiaza, explorați facilitățile excelente ale diverselor cluburi de plajă și faceți o baie răcoritoare în apele cristaline ale mării.\nÎncheiați ziua cu o plimbare relaxantă de seară de-a lungul plajelor bine întreținute, în timp ce soarele apune încet peste Marea Adriatică.",
+        "en": "Begin your day with a peaceful visit to the historic churches that beautifully reflect the deep spiritual traditions of the region.\nAround midday, make your way to the lively coastal stretches where the gentle waves and fine sand invite you to pause and relax.\nIn the afternoon, explore the excellent facilities of the various beach clubs and take a refreshing dip in the crystal-clear sea water.\nEnd your day with a relaxed evening stroll along the well-maintained beaches as the sun slowly and colorfully sets over the beautiful Adriatic Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.286094,
+            43.666403
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die der Gemeinde seit Generationen als ruhiger Zufluchtsort dient, und besuchen Sie sie am besten morgens.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, amely generációk óta a közösség nyugodt menedéke, és a legjobb, ha a kora reggeli órákban látogatja meg.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care servește drept refugiu liniștit pentru comunitate și este cel mai bine de vizitat dimineața devreme.",
+            "en": "Admire the simple elegance of this historic church that has served as a peaceful community refuge for generations, making it perfect for an early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio di Padova",
+            "hu": "Chiesa di Sant'Antonio di Padova",
+            "ro": "Chiesa di Sant'Antonio di Padova",
+            "en": "Chiesa di Sant'Antonio di Padova"
+          },
+          "coords": [
+            13.28918,
+            43.674941
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Atmosphäre dieser charmanten Kirche mit ihren wunderschönen Details, wobei dezente Kleidung für den respektvollen Einlass erforderlich ist.",
+            "hu": "Fedezze fel ennek a bájos templomnak a spirituális légkörét és gyönyörű részleteit, ahol a tiszteletteljes belépéshez szerény, vállakat takaró ruházat viselése kötelező.",
+            "ro": "Descoperiți atmosfera spirituală a acestei biserici fermecătoare cu detalii frumoase, unde o ținută modestă este necesară pentru o intrare respectuoasă și liniștită.",
+            "en": "Discover the spiritual atmosphere and beautiful details of this charming church, remembering to wear modest clothing that covers your shoulders for a respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosquito",
+            "hu": "Mosquito",
+            "ro": "Mosquito",
+            "en": "Mosquito"
+          },
+          "coords": [
+            13.285638,
+            43.679059
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem lebhaften Strandabschnitt, der für seine sauberen Sandstrände bekannt ist und wo Sie frühzeitig einen Liegestuhl reservieren sollten.",
+            "hu": "Élvezze a nyugodt légkört ezen a nyüzsgő partszakaszon, amely tiszta homokos strandjairól híres, és ahol érdemes korán érkezni, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă plină de viață, renumită pentru nisipul curat, și ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the relaxed atmosphere at this lively stretch of beach known for its clean sands, and be sure to arrive early to secure a comfortable sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Atlantic Paola Modesti",
+            "hu": "Bagni Atlantic Paola Modesti",
+            "ro": "Bagni Atlantic Paola Modesti",
+            "en": "Bagni Atlantic Paola Modesti"
+          },
+          "coords": [
+            13.279252,
+            43.682653
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verbringen Sie herrliche Stunden in diesem familienfreundlichen Strandbad mit ausgezeichnetem Service, wo Sie unbedingt das hausgemachte Eis am Kiosk probieren sollten.",
+            "hu": "Töltsön el csodálatos órákat ebben a családbarát, kiváló szolgáltatásokat nyújtó fürdőben, ahol mindenképpen érdemes megkóstolni a helyi kioszkban kapható kézműves fagylaltot.",
+            "ro": "Petreceți ore minunate în această baie prietenoasă cu familiile, cu servicii excelente, unde trebuie neapărat să gustați înghețata artizanală de la chioșcul local de pe plajă.",
+            "en": "Spend delightful hours at this family-friendly beach facility with excellent services, where you absolutely must try the artisanal gelato from the local beach kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Carabiniere",
+            "hu": "Lido del Carabiniere",
+            "ro": "Lido del Carabiniere",
+            "en": "Lido del Carabiniere"
+          },
+          "coords": [
+            13.277629,
+            43.683396
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die makellose Sauberkeit und Sicherheit dieses organisierten Strandabschnitts, der ideal für ein sicheres und ruhiges Schwimmen im kristallklaren Wasser ist.",
+            "hu": "Tapasztalja meg ennek a jól szervezett partszakasznak a kifogástalan tisztaságát, amely ideális egy biztonságos és csendes úszáshoz a kristálytiszta, hűsítő tengervízben.",
+            "ro": "Experimentați curățenia impecabilă a acestei zone de plajă organizate, care este ideală pentru o înotare sigură și liniștită în apele cristaline și răcoroase ale mării.",
+            "en": "Experience the immaculate cleanliness and safety of this organized beach section, which is ideal for a secure and quiet swim in the crystal-clear coastal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Militare Stabilimento Elioterapico \"Marzocca\"",
+            "hu": "Marina Militare Stabilimento Elioterapico \"Marzocca\"",
+            "ro": "Marina Militare Stabilimento Elioterapico \"Marzocca\"",
+            "en": "Marina Militare Stabilimento Elioterapico \"Marzocca\""
+          },
+          "coords": [
+            13.276217,
+            43.684177
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spüren Sie die historische Bedeutung dieses von der Marine geführten Strandes mit seinen exzellenten Einrichtungen, aber bringen Sie am besten Ihre eigenen Handtücher mit.",
+            "hu": "Érezze át ennek a haditengerészet által üzemeltetett strandnak a történelmi jelentőségét és kiváló felszereltségét, de a legjobb, ha saját törölközőt is hoz magával.",
+            "ro": "Simțiți importanța istorică a acestei plaje administrate de marină, cu facilități excelente, dar este recomandat să vă aduceți propriile prosoape de acasă pentru confort.",
+            "en": "Feel the historical significance of this navy-run beach establishment with its excellent facilities, though it is highly recommended to bring your own towels from home."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Finanziere",
+            "hu": "Lido del Finanziere",
+            "ro": "Lido del Finanziere",
+            "en": "Lido del Finanziere"
+          },
+          "coords": [
+            13.273862,
+            43.685441
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem gepflegten Strandabschnitt ausklingen, der eine fantastische Aussicht auf den Horizont bietet und sich ideal für einen gemütlichen Abendspaziergang eignet.",
+            "hu": "Zárja a napot ezen a gondozott partszakaszon, amely fantasztikus kilátást nyújt a horizontra, és ideális egy kellemes, pihentető esti séta megtételéhez a naplemente fényében.",
+            "ro": "Încheiați ziua pe această plajă bine întreținută, care oferă o priveliște fantastică a orizontului și este ideală pentru o plimbare plăcută de seară la lumina apusului.",
+            "en": "End your day at this well-maintained stretch of beach offering a fantastic view of the horizon, making it ideal for a pleasant, relaxing evening stroll at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Besuch der historischen Kirchen, die die tiefe spirituelle Tradition der Region widerspiegeln.\nGegen Mittag erreichen Sie die lebhaften Küstenabschnitte, wo die sanften Wellen und der feine Sand zum Verweilen und Entspannen einladen.\nAm Nachmittag können Sie die hervorragenden Einrichtungen der verschiedenen Strandclubs erkunden und ein erfrischendes Bad im kristallklaren Meer nehmen.\nLassen Sie den Tag bei einem entspannten Abendspaziergang entlang der gepflegten Strände ausklingen, während die Sonne langsam über der Adria untergeht.",
+        "hu": "Kezdje a napot a történelmi templomok nyugodt meglátogatásával, amelyek a régió mély spirituális hagyományait tükrözik.\nDél körül érje el a nyüzsgő partszakaszokat, ahol a finom hullámok és a tiszta homok pihenésre és feltöltődésre csábítanak.\nDélután fedezze fel a különböző strandklubok kiváló létesítményeit, és vegyen egy frissítő fürdőt a kristálytiszta, hűsítő tengerben.\nZárja a napot egy kellemes esti sétával a gondozott strandok mentén, miközben a nap lassan és festőien nyugszik le az Adriai-tenger felett.",
+        "ro": "Începeți ziua cu o vizită liniștită la bisericile istorice care reflectă tradiția spirituală profundă și cultura autentică a acestei regiuni.\nÎn jurul prânzului, ajungeți pe plajele pline de viață, unde valurile blânde și nisipul fin vă invită să vă relaxați la soare.\nDupă-amiaza, explorați facilitățile excelente ale diverselor cluburi de plajă și faceți o baie răcoritoare în apele cristaline ale mării.\nÎncheiați ziua cu o plimbare relaxantă de seară de-a lungul plajelor bine întreținute, în timp ce soarele apune încet peste Marea Adriatică.",
+        "en": "Begin your day with a peaceful visit to the historic churches that beautifully reflect the deep spiritual traditions of the region.\nAround midday, make your way to the lively coastal stretches where the gentle waves and fine sand invite you to pause and relax.\nIn the afternoon, explore the excellent facilities of the various beach clubs and take a refreshing dip in the crystal-clear sea water.\nEnd your day with a relaxed evening stroll along the well-maintained beaches as the sun slowly and colorfully sets over the beautiful Adriatic Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.286094,
+            43.666403
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die der Gemeinde seit Generationen als ruhiger Zufluchtsort dient, und besuchen Sie sie am besten morgens.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, amely generációk óta a közösség nyugodt menedéke, és a legjobb, ha a kora reggeli órákban látogatja meg.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care servește drept refugiu liniștit pentru comunitate și este cel mai bine de vizitat dimineața devreme.",
+            "en": "Admire the simple elegance of this historic church that has served as a peaceful community refuge for generations, making it perfect for an early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio di Padova",
+            "hu": "Chiesa di Sant'Antonio di Padova",
+            "ro": "Chiesa di Sant'Antonio di Padova",
+            "en": "Chiesa di Sant'Antonio di Padova"
+          },
+          "coords": [
+            13.28918,
+            43.674941
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Atmosphäre dieser charmanten Kirche mit ihren wunderschönen Details, wobei dezente Kleidung für den respektvollen Einlass erforderlich ist.",
+            "hu": "Fedezze fel ennek a bájos templomnak a spirituális légkörét és gyönyörű részleteit, ahol a tiszteletteljes belépéshez szerény, vállakat takaró ruházat viselése kötelező.",
+            "ro": "Descoperiți atmosfera spirituală a acestei biserici fermecătoare cu detalii frumoase, unde o ținută modestă este necesară pentru o intrare respectuoasă și liniștită.",
+            "en": "Discover the spiritual atmosphere and beautiful details of this charming church, remembering to wear modest clothing that covers your shoulders for a respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosquito",
+            "hu": "Mosquito",
+            "ro": "Mosquito",
+            "en": "Mosquito"
+          },
+          "coords": [
+            13.285638,
+            43.679059
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem lebhaften Strandabschnitt, der für seine sauberen Sandstrände bekannt ist und wo Sie frühzeitig einen Liegestuhl reservieren sollten.",
+            "hu": "Élvezze a nyugodt légkört ezen a nyüzsgő partszakaszon, amely tiszta homokos strandjairól híres, és ahol érdemes korán érkezni, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă plină de viață, renumită pentru nisipul curat, și ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the relaxed atmosphere at this lively stretch of beach known for its clean sands, and be sure to arrive early to secure a comfortable sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Carabiniere",
+            "hu": "Lido del Carabiniere",
+            "ro": "Lido del Carabiniere",
+            "en": "Lido del Carabiniere"
+          },
+          "coords": [
+            13.277629,
+            43.683396
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die makellose Sauberkeit und Sicherheit dieses organisierten Strandabschnitts, der ideal für ein sicheres und ruhiges Schwimmen im kristallklaren Wasser ist.",
+            "hu": "Tapasztalja meg ennek a jól szervezett partszakasznak a kifogástalan tisztaságát, amely ideális egy biztonságos és csendes úszáshoz a kristálytiszta, hűsítő tengervízben.",
+            "ro": "Experimentați curățenia impecabilă a acestei zone de plajă organizate, care este ideală pentru o înotare sigură și liniștită în apele cristaline și răcoroase ale mării.",
+            "en": "Experience the immaculate cleanliness and safety of this organized beach section, which is ideal for a secure and quiet swim in the crystal-clear coastal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Finanziere",
+            "hu": "Lido del Finanziere",
+            "ro": "Lido del Finanziere",
+            "en": "Lido del Finanziere"
+          },
+          "coords": [
+            13.273862,
+            43.685441
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem gepflegten Strandabschnitt ausklingen, der eine fantastische Aussicht auf den Horizont bietet und sich ideal für einen gemütlichen Abendspaziergang eignet.",
+            "hu": "Zárja a napot ezen a gondozott partszakaszon, amely fantasztikus kilátást nyújt a horizontra, és ideális egy kellemes, pihentető esti séta megtételéhez a naplemente fényében.",
+            "ro": "Încheiați ziua pe această plajă bine întreținută, care oferă o priveliște fantastică a orizontului și este ideală pentru o plimbare plăcută de seară la lumina apusului.",
+            "en": "End your day at this well-maintained stretch of beach offering a fantastic view of the horizon, making it ideal for a pleasant, relaxing evening stroll at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Besuch der historischen Kirchen, die die tiefe spirituelle Tradition der Region widerspiegeln.\nGegen Mittag erreichen Sie die lebhaften Küstenabschnitte, wo die sanften Wellen und der feine Sand zum Verweilen und Entspannen einladen.\nAm Nachmittag können Sie die hervorragenden Einrichtungen der verschiedenen Strandclubs erkunden und ein erfrischendes Bad im kristallklaren Meer nehmen.\nLassen Sie den Tag bei einem entspannten Abendspaziergang entlang der gepflegten Strände ausklingen, während die Sonne langsam über der Adria untergeht.",
+        "hu": "Kezdje a napot a történelmi templomok nyugodt meglátogatásával, amelyek a régió mély spirituális hagyományait tükrözik.\nDél körül érje el a nyüzsgő partszakaszokat, ahol a finom hullámok és a tiszta homok pihenésre és feltöltődésre csábítanak.\nDélután fedezze fel a különböző strandklubok kiváló létesítményeit, és vegyen egy frissítő fürdőt a kristálytiszta, hűsítő tengerben.\nZárja a napot egy kellemes esti sétával a gondozott strandok mentén, miközben a nap lassan és festőien nyugszik le az Adriai-tenger felett.",
+        "ro": "Începeți ziua cu o vizită liniștită la bisericile istorice care reflectă tradiția spirituală profundă și cultura autentică a acestei regiuni.\nÎn jurul prânzului, ajungeți pe plajele pline de viață, unde valurile blânde și nisipul fin vă invită să vă relaxați la soare.\nDupă-amiaza, explorați facilitățile excelente ale diverselor cluburi de plajă și faceți o baie răcoritoare în apele cristaline ale mării.\nÎncheiați ziua cu o plimbare relaxantă de seară de-a lungul plajelor bine întreținute, în timp ce soarele apune încet peste Marea Adriatică.",
+        "en": "Begin your day with a peaceful visit to the historic churches that beautifully reflect the deep spiritual traditions of the region.\nAround midday, make your way to the lively coastal stretches where the gentle waves and fine sand invite you to pause and relax.\nIn the afternoon, explore the excellent facilities of the various beach clubs and take a refreshing dip in the crystal-clear sea water.\nEnd your day with a relaxed evening stroll along the well-maintained beaches as the sun slowly and colorfully sets over the beautiful Adriatic Sea."
+      }
+    }
+  }
+}

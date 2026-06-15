@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-termoli-cities-v2",
+  "anchor": {
+    "name": "Termoli",
+    "coords": [
+      14.99389,
+      41.99994
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Circolo Vela Termoli",
+            "hu": "Circolo Vela Termoli",
+            "ro": "Circolo Vela Termoli",
+            "en": "Circolo Vela Termoli"
+          },
+          "coords": [
+            14.999413,
+            41.996538
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in diesem historischen Segelclub, um die Boote auslaufen zu sehen, und vergessen Sie Ihre Kamera für atemberaubende Hafenansichten nicht.",
+            "hu": "Kezdje a reggelt ebben a történelmi vitorlásklubban, figyelje meg a kifutó hajókat, és ne felejtse el a fényképezőgépét a lenyűgöző kikötői kilátás miatt.",
+            "ro": "Începeți dimineața la acest club de navigație istoric pentru a urmări bărcile, și nu uitați aparatul foto pentru priveliști uimitoare ale portului.",
+            "en": "Start your morning at this historic sailing club to watch the boats set out, and don't forget your camera for stunning harbor views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Panfilo",
+            "hu": "Lido Panfilo",
+            "ro": "Lido Panfilo",
+            "en": "Lido Panfilo"
+          },
+          "coords": [
+            14.9936,
+            42.004584
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem klassischen Strandbad, wo weicher Sand auf klares Wasser trifft, daher sichert ein frühes Erscheinen die besten Sonnenliegen.",
+            "hu": "Pihenjen ezen a klasszikus olasz strandon, ahol a puha homok találkozik a tiszta vízzel, így a korai érkezés garantálja a legjobb első soros napágyakat.",
+            "ro": "Relaxați-vă la acest ștrand italian clasic unde nisipul fin întâlnește apele limpezi, așadar ajungeți devreme pentru cele mai bune șezlonguri din primul rând.",
+            "en": "Relax at this classic Italian lido where the soft sand meets clear waters, so arriving early guarantees the best front-row sunbeds for a perfect tan."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Anna",
+            "hu": "Lido Anna",
+            "ro": "Lido Anna",
+            "en": "Lido Anna"
+          },
+          "coords": [
+            14.99451,
+            42.004574
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser gut ausgestatteten Strandeinrichtung, indem Sie ein Paddleboard mieten und die Küste vom Meer aus betrachten.",
+            "hu": "Élvezze a jól felszerelt strand vibráló hangulatát egy evezős deszka bérlésével, amely frissítő perspektívát kínál a tengerpartra a víz felől.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje bine dotate închiriind o placă de paddleboard, oferindu-vă o perspectivă revigorantă a coastei de pe mare.",
+            "en": "Enjoy the vibrant atmosphere of this well-equipped beach facility by renting a paddleboard, giving you a refreshing perspective of the coastline from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Medusa",
+            "hu": "Lido La Medusa",
+            "ro": "Lido La Medusa",
+            "en": "Lido La Medusa"
+          },
+          "coords": [
+            14.992491,
+            42.004749
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am flach abfallenden Ufer dieses familienfreundlichen Ortes, aber denken Sie an Bargeld für das hervorragende Strandcafé.",
+            "hu": "Tegyen egy kényelmes sétát az enyhén lejtős parton ezen a családbarát helyen, de ne felejtsen el készpénzt hozni a kiváló tengerparti kávézóhoz.",
+            "ro": "Faceți o plimbare liniștită pe țărmul cu pantă lină la acest loc perfect pentru familii, dar nu uitați să aveți numerar pentru excelenta cafenea de pe plajă.",
+            "en": "Take a leisurely stroll along the gently sloping shore at this family-friendly spot, but remember to bring cash for the excellent onsite seaside café."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Lampara",
+            "hu": "Lido La Lampara",
+            "ro": "Lido La Lampara",
+            "en": "Lido La Lampara"
+          },
+          "coords": [
+            14.990041,
+            42.005087
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Spaziergang an diesem ruhigen Küstenparadies ausklingen, das für sein kristallklares Wasser bekannt und ideal für ein spätes Schwimmen ist.",
+            "hu": "Zárja a sétáját ebben a békés, kristálytiszta vizéről ismert tengerparti menedékben, amely ideális helyszín egy nyugodt, késő délutáni úszáshoz.",
+            "ro": "Încheiați plimbarea în acest paradis liniștit la malul mării, cunoscut pentru apele sale cristaline, locul ideal pentru o înotare relaxantă după-amiaza.",
+            "en": "Wind down your walk at this peaceful seaside haven known for its pristine waters, making it the ideal location for a tranquil late afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des maritimen Erbes von Termoli in der Nähe des geschäftigen Hafens und Segelclubs. Die frische Meeresbrise am Morgen ist besonders angenehm.\nMittags können Sie in die lebhafte Strandkultur der zentralen Strandbäder eintauchen. Das kristallklare Wasser der Adria lädt zu einem erfrischenden Bad und einem Mittagessen ein.\nAm Nachmittag bewegen Sie sich weiter die Küste entlang, um ruhigere Sandabschnitte zu entdecken. Diese friedlichen Orte sind ideal zum Sonnenbaden oder für gemütliche Spaziergänge.\nSuchen Sie sich am Abend ein gemütliches Plätzchen am Meer, um den Sonnenuntergang über dem Horizont zu beobachten. Die ruhige Atmosphäre bietet einen perfekten Abschluss.",
+        "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
+        "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
+        "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Circolo Vela Termoli",
+            "hu": "Circolo Vela Termoli",
+            "ro": "Circolo Vela Termoli",
+            "en": "Circolo Vela Termoli"
+          },
+          "coords": [
+            14.999413,
+            41.996538
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in diesem historischen Segelclub, um die Boote auslaufen zu sehen, und vergessen Sie Ihre Kamera für atemberaubende Hafenansichten nicht.",
+            "hu": "Kezdje a reggelt ebben a történelmi vitorlásklubban, figyelje meg a kifutó hajókat, és ne felejtse el a fényképezőgépét a lenyűgöző kikötői kilátás miatt.",
+            "ro": "Începeți dimineața la acest club de navigație istoric pentru a urmări bărcile, și nu uitați aparatul foto pentru priveliști uimitoare ale portului.",
+            "en": "Start your morning at this historic sailing club to watch the boats set out, and don't forget your camera for stunning harbor views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Anna",
+            "hu": "Lido Anna",
+            "ro": "Lido Anna",
+            "en": "Lido Anna"
+          },
+          "coords": [
+            14.99451,
+            42.004574
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser gut ausgestatteten Strandeinrichtung, indem Sie ein Paddleboard mieten und die Küste vom Meer aus betrachten.",
+            "hu": "Élvezze a jól felszerelt strand vibráló hangulatát egy evezős deszka bérlésével, amely frissítő perspektívát kínál a tengerpartra a víz felől.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje bine dotate închiriind o placă de paddleboard, oferindu-vă o perspectivă revigorantă a coastei de pe mare.",
+            "en": "Enjoy the vibrant atmosphere of this well-equipped beach facility by renting a paddleboard, giving you a refreshing perspective of the coastline from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Perla",
+            "hu": "Lido La Perla",
+            "ro": "Lido La Perla",
+            "en": "Lido La Perla"
+          },
+          "coords": [
+            14.98843,
+            42.005364
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter bunten Schirmen an diesem beliebten Strandabschnitt und probieren Sie unbedingt das lokale Gelato vom nahen Verkäufer.",
+            "hu": "Pihenjen a színes napernyők alatt ezen a népszerű homokos partszakaszon, és mindenképpen kóstolja meg a helyi fagylaltot a közeli árusnál.",
+            "ro": "Relaxați-vă sub umbrelele colorate pe această plajă populară și asigurați-vă că gustați gelato locală de la vânzătorul din apropiere înainte de a sta la soare.",
+            "en": "Unwind under colorful umbrellas at this popular stretch of sand, and make sure to try the locally made gelato from the nearby vendor before soaking up the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Tartaruga",
+            "hu": "Lido Tartaruga",
+            "ro": "Lido Tartaruga",
+            "en": "Lido Tartaruga"
+          },
+          "coords": [
+            14.98652,
+            42.005654
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein etwas ruhigeres Stranderlebnis mit exzellenter Wasserqualität, sodass es sich empfiehlt, Ihre Schnorchelausrüstung zur Erkundung mitzubringen.",
+            "hu": "Fedezzen fel egy kissé csendesebb strandot kiváló vízminőséggel, így erősen ajánlott búvárfelszerelést hozni a víz alatti felfedezéshez.",
+            "ro": "Descoperiți o experiență de plajă puțin mai liniștită cu o calitate excelentă a apei, fiind foarte recomandat să vă aduceți echipamentul de snorkeling.",
+            "en": "Discover a slightly quieter beach experience with excellent water quality, making it highly recommended to bring your snorkeling gear for underwater exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Vela",
+            "hu": "Lido La Vela",
+            "ro": "Lido La Vela",
+            "en": "Lido La Vela"
+          },
+          "coords": [
+            14.984073,
+            42.005992
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhaften Küstenvibes, wo Wassersport der Hauptanziehungspunkt ist, buchen Sie also am besten früh eine Windsurfstunde für den besten Wind.",
+            "hu": "Élvezze a nyüzsgő tengerparti hangulatot, ahol a vízi sportok a fő vonzerőt jelentik, ezért érdemes korán szörfleckét foglalni a legjobb tengeri szellők érdekében.",
+            "ro": "Bucurați-vă de vibrațiile animate ale mării, unde sporturile nautice sunt atracția principală, deci rezervați o lecție de windsurfing devreme pentru cele mai bune brize.",
+            "en": "Soak in the lively seaside vibes where water sports are the main draw, so consider booking a windsurfing lesson early in the day for the best ocean breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Blutuff",
+            "hu": "Lido Blutuff",
+            "ro": "Lido Blutuff",
+            "en": "Lido Blutuff"
+          },
+          "coords": [
+            14.974803,
+            42.007201
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour hier, um den herrlichen Panoramablick auf das Meer zu genießen, der die perfekte Kulisse für ein entspanntes Abendgetränk bietet.",
+            "hu": "Fejezze be a kerékpártúrát itt, hogy értékelje a lenyűgöző tengeri panorámát, amely tökéletes hátteret biztosít egy pihentető esti italhoz a hullámok mellett.",
+            "ro": "Încheiați-vă turul cu bicicleta aici pentru a aprecia priveliștile panoramice deosebite, creând fundalul perfect pentru o băutură de seară relaxantă.",
+            "en": "Conclude your cycling tour here to appreciate the sweeping panoramic sea views, creating a perfect backdrop for a relaxing evening drink by the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des maritimen Erbes von Termoli in der Nähe des geschäftigen Hafens und Segelclubs. Die frische Meeresbrise am Morgen ist besonders angenehm.\nMittags können Sie in die lebhafte Strandkultur der zentralen Strandbäder eintauchen. Das kristallklare Wasser der Adria lädt zu einem erfrischenden Bad und einem Mittagessen ein.\nAm Nachmittag bewegen Sie sich weiter die Küste entlang, um ruhigere Sandabschnitte zu entdecken. Diese friedlichen Orte sind ideal zum Sonnenbaden oder für gemütliche Spaziergänge.\nSuchen Sie sich am Abend ein gemütliches Plätzchen am Meer, um den Sonnenuntergang über dem Horizont zu beobachten. Die ruhige Atmosphäre bietet einen perfekten Abschluss.",
+        "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
+        "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
+        "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Circolo Vela Termoli",
+            "hu": "Circolo Vela Termoli",
+            "ro": "Circolo Vela Termoli",
+            "en": "Circolo Vela Termoli"
+          },
+          "coords": [
+            14.999413,
+            41.996538
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in diesem historischen Segelclub, um die Boote auslaufen zu sehen, und vergessen Sie Ihre Kamera für atemberaubende Hafenansichten nicht.",
+            "hu": "Kezdje a reggelt ebben a történelmi vitorlásklubban, figyelje meg a kifutó hajókat, és ne felejtse el a fényképezőgépét a lenyűgöző kikötői kilátás miatt.",
+            "ro": "Începeți dimineața la acest club de navigație istoric pentru a urmări bărcile, și nu uitați aparatul foto pentru priveliști uimitoare ale portului.",
+            "en": "Start your morning at this historic sailing club to watch the boats set out, and don't forget your camera for stunning harbor views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Panfilo",
+            "hu": "Lido Panfilo",
+            "ro": "Lido Panfilo",
+            "en": "Lido Panfilo"
+          },
+          "coords": [
+            14.9936,
+            42.004584
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem klassischen Strandbad, wo weicher Sand auf klares Wasser trifft, daher sichert ein frühes Erscheinen die besten Sonnenliegen.",
+            "hu": "Pihenjen ezen a klasszikus olasz strandon, ahol a puha homok találkozik a tiszta vízzel, így a korai érkezés garantálja a legjobb első soros napágyakat.",
+            "ro": "Relaxați-vă la acest ștrand italian clasic unde nisipul fin întâlnește apele limpezi, așadar ajungeți devreme pentru cele mai bune șezlonguri din primul rând.",
+            "en": "Relax at this classic Italian lido where the soft sand meets clear waters, so arriving early guarantees the best front-row sunbeds for a perfect tan."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Perla",
+            "hu": "Lido La Perla",
+            "ro": "Lido La Perla",
+            "en": "Lido La Perla"
+          },
+          "coords": [
+            14.98843,
+            42.005364
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter bunten Schirmen an diesem beliebten Strandabschnitt und probieren Sie unbedingt das lokale Gelato vom nahen Verkäufer.",
+            "hu": "Pihenjen a színes napernyők alatt ezen a népszerű homokos partszakaszon, és mindenképpen kóstolja meg a helyi fagylaltot a közeli árusnál.",
+            "ro": "Relaxați-vă sub umbrelele colorate pe această plajă populară și asigurați-vă că gustați gelato locală de la vânzătorul din apropiere înainte de a sta la soare.",
+            "en": "Unwind under colorful umbrellas at this popular stretch of sand, and make sure to try the locally made gelato from the nearby vendor before soaking up the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Il Gabbiano",
+            "hu": "Lido Il Gabbiano",
+            "ro": "Lido Il Gabbiano",
+            "en": "Lido Il Gabbiano"
+          },
+          "coords": [
+            14.985297,
+            42.005834
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Seevögel, die über die sanften Wellen dieses unberührten Strandes gleiten, einem fantastischen Ort für ein Picknick im warmen Sand.",
+            "hu": "Figyelje meg a lágy hullámok felett sikló tengeri madarakat ezen az érintetlen strandon, amely fantasztikus helyszín egy piknik ebéd elfogyasztásához.",
+            "ro": "Urmăriți păsările marine zburând peste valurile blânde la această plajă curată, un loc fantastic pentru a vă bucura de un picnic direct pe nisipul cald.",
+            "en": "Watch the seabirds glide over the gentle waves at this pristine beach, which is a fantastic spot to enjoy a packed picnic lunch right on the warm sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Alcione",
+            "hu": "Lido Alcione",
+            "ro": "Lido Alcione",
+            "en": "Lido Alcione"
+          },
+          "coords": [
+            14.973059,
+            42.007547
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Hauch von Küstenluxus mit weitläufigen Liegeflächen, auf denen Sie bequem ein gutes Buch lesen können, ohne sich eingeengt zu fühlen.",
+            "hu": "Tapasztalja meg a tengerparti luxust a tágas napozóterületeken, amelyek lehetővé teszik, hogy kényelmesen olvasson egy jó könyvet a tömeg elkerülésével.",
+            "ro": "Experimentați un strop de lux pe litoral cu zone spațioase de plajă, permițându-vă să citiți confortabil o carte bună fără a vă simți înghesuiți.",
+            "en": "Experience a touch of seaside luxury with spacious sunbathing areas, allowing you to read a good book comfortably without feeling crowded by other beachgoers."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Le Dune",
+            "hu": "Lido Le Dune",
+            "ro": "Lido Le Dune",
+            "en": "Lido Le Dune"
+          },
+          "coords": [
+            14.968738,
+            42.008184
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie in der Nähe der natürlichen Sandformationen, die diesem Ort seinen Namen geben, die lokale Flora schützen und einen raueren Küstenweg bieten.",
+            "hu": "Sétáljon a helynek nevet adó természetes homokformációk közelében, amelyek védik a helyi flórát és vadregényesebb, festőibb parti sétát kínálnak.",
+            "ro": "Plimbați-vă lângă formațiunile naturale de nisip care dau numele locului, protejând flora locală și oferind o plimbare de coastă pitorească mai sălbatică.",
+            "en": "Wander near the natural sand formations that give this place its name, protecting the local flora and offering a more rugged, scenic coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aloha Beach",
+            "hu": "Aloha Beach",
+            "ro": "Aloha Beach",
+            "en": "Aloha Beach"
+          },
+          "coords": [
+            14.962475,
+            42.008759
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre lange Küstenfahrt an diesem tropisch inspirierten Strandbad, wo Sie erfrischende Cocktails schlürfen und einen atemberaubenden Sonnenuntergang beobachten können.",
+            "hu": "Fejezze be hosszú tengerparti autózását ezen a trópusi hangulatú strandon, ahol frissítő koktélokat kortyolgatva nézheti a lélegzetelállító naplementét.",
+            "ro": "Terminați-vă plimbarea lungă la acest ștrand cu tematică tropicală, unde puteți savura cocktailuri răcoritoare și urmări un apus de soare uluitor.",
+            "en": "Finish your long coastal drive at this tropical-themed lido where you can sip refreshing cocktails and watch a breathtaking sunset melt into the Adriatic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des maritimen Erbes von Termoli in der Nähe des geschäftigen Hafens und Segelclubs. Die frische Meeresbrise am Morgen ist besonders angenehm.\nMittags können Sie in die lebhafte Strandkultur der zentralen Strandbäder eintauchen. Das kristallklare Wasser der Adria lädt zu einem erfrischenden Bad und einem Mittagessen ein.\nAm Nachmittag bewegen Sie sich weiter die Küste entlang, um ruhigere Sandabschnitte zu entdecken. Diese friedlichen Orte sind ideal zum Sonnenbaden oder für gemütliche Spaziergänge.\nSuchen Sie sich am Abend ein gemütliches Plätzchen am Meer, um den Sonnenuntergang über dem Horizont zu beobachten. Die ruhige Atmosphäre bietet einen perfekten Abschluss.",
+        "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
+        "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
+        "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      }
+    }
+  }
+}

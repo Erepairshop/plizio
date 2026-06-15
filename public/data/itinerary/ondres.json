@@ -1,0 +1,451 @@
+{
+  "city_id": "ondres",
+  "anchor": {
+    "name": "Ondres",
+    "coords": [
+      -1.4494,
+      43.5608
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Ondres",
+            "hu": "Ondres Városháza",
+            "ro": "Primăria din Ondres",
+            "en": "Ondres Town Hall"
+          },
+          "coords": [
+            -1.448352,
+            43.560927
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle baskische Architektur des lokalen Verwaltungszentrums und achten Sie auf die charmante Fassade, bevor Sie Ihren Spaziergang beginnen.",
+            "hu": "Csodálja meg a helyi közigazgatási központ hagyományos baszk építészetét, és a séta megkezdése előtt feltétlenül vegye szemügyre a hangulatos homlokzatát.",
+            "ro": "Admirați arhitectura tradițională bască a centrului administrativ local, asigurându-vă că observați fațada sa fermecătoare înainte de a începe plimbarea.",
+            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.447568,
+            43.561216
+          ],
+          "category": "religious",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, aber denken Sie daran, sich während der Gottesdienstzeiten ruhig zu verhalten.",
+            "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, de ügyeljen arra, hogy a misék alatt csendben maradjon.",
+            "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, dar nu uitați să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Strada",
+            "hu": "Étang de la Strada",
+            "ro": "Étang de la Strada",
+            "en": "Étang de la Strada"
+          },
+          "coords": [
+            -1.443529,
+            43.562246
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diesen ruhigen, versteckten Teich, der sich perfekt zur Vogelbeobachtung eignet, und bringen Sie Mückenschutz mit, wenn Sie in der Dämmerung kommen.",
+            "hu": "Sétáljon körbe ezen a nyugodt, rejtett tavon, amely tökéletes a madármegfigyeléshez, és hozzon magával szúnyogriasztót, ha szürkületkor látogat ide.",
+            "ro": "Plimbați-vă în jurul acestui iaz calm și ascuns, perfect pentru observarea păsărilor, și aduceți spray împotriva țânțarilor dacă vizitați spre seară.",
+            "en": "Stroll around this calm, hidden pond which is perfect for birdwatching, and bring some mosquito repellent if you visit near dusk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Turc",
+            "hu": "Lac de Turc",
+            "ro": "Lac de Turc",
+            "en": "Lac de Turc"
+          },
+          "coords": [
+            -1.455947,
+            43.564309
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses kleinen Sees, der hervorragende schattige Plätze für ein ruhiges Picknick unter den Bäumen bietet.",
+            "hu": "Pihenjen e kis tó nyugodt vize mellett, amely kiváló árnyékos helyeket kínál egy csendes délelőtti piknikhez a fák alatt.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui mic lac, care oferă locuri umbrite excelente pentru un picnic de prânz sub copaci.",
+            "en": "Relax by the tranquil waters of this small lake, which offers excellent shaded spots for a quiet morning picnic under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Landes",
+            "hu": "Landes-erdő",
+            "ro": "Pădurea Landes",
+            "en": "Landes Forest"
+          },
+          "coords": [
+            -1.465314,
+            43.571455
+          ],
+          "category": "natural",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Atmen Sie den Pinienduft ein, während Sie das weite Netz an Naturpfaden erkunden, und halten Sie eine Karte bereit, um sich nicht zu verirren.",
+            "hu": "Szívja magába a fenyőillatot, miközben felfedezi a természetjáró ösvények hatalmas hálózatát, és tartson magánál térképet, hogy ne tévedjen el.",
+            "ro": "Respirați parfumul de pin în timp ce explorați rețeaua vastă de trasee naturale, păstrând o hartă la îndemână pentru a nu vă rătăci în pădurea deasă.",
+            "en": "Breathe in the scent of pine as you explore the vast network of nature trails, keeping a map handy so you don't get lost in the dense woods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im malerischen Zentrum von Ondres, wo Sie den städtischen Charme und die historische Kirche erkunden. Mittags erreichen Sie die ruhigen Teiche, die etwas außerhalb des Hauptortes liegen. Den Nachmittag verbringen Sie in der entspannten Atmosphäre des Lac de Turc. Sie beenden Ihre Tour, indem Sie die frische Luft des weiten Landes-Waldes genießen.",
+        "hu": "A délelőtt Ondres festői központjában indul, ahol felfedezheti a helyi közigazgatási bájt és a történelmi templomot. Délben a város szélén megbúvó csendes tavakhoz érkezik. A délutánt a Lac de Turc tóparti, nyugodt atmoszférájában töltheti. A sétát a hatalmas Landes-erdő friss fenyőillatának belélegzésével zárja.",
+        "ro": "Dimineața dumneavoastră începe în centrul pitoresc al orașului Ondres, explorând farmecul municipal local și biserica istorică. La amiază ajungeți la iazurile liniștite situate chiar la marginea orașului. După-amiaza este petrecută bucurându-vă de atmosfera senină de pe malul Lac de Turc. Vă încheiați turul inspirând aerul proaspăt din vasta Pădure Landes.",
+        "en": "Your morning starts in the quaint center of Ondres, exploring the local municipal charm and the historic church. Midday brings you to the quiet ponds nestled just outside the main town area. The afternoon is spent enjoying the serene lakeside atmosphere of Lac de Turc. You conclude your walking tour breathing in the fresh pine scent of the vast Landes Forest."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Ondres",
+            "hu": "Ondres Városháza",
+            "ro": "Primăria din Ondres",
+            "en": "Ondres Town Hall"
+          },
+          "coords": [
+            -1.448352,
+            43.560927
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle baskische Architektur des lokalen Verwaltungszentrums und achten Sie auf die charmante Fassade, bevor Sie aufs Fahrrad steigen.",
+            "hu": "Csodálja meg a helyi közigazgatási központ hagyományos baszk építészetét, és a kerékpározás megkezdése előtt vegye szemügyre a hangulatos homlokzatát.",
+            "ro": "Admirați arhitectura tradițională bască a centrului administrativ local, asigurându-vă că observați fațada sa fermecătoare înainte de a începe plimbarea pe bicicletă.",
+            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.447568,
+            43.561216
+          ],
+          "category": "religious",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, aber denken Sie daran, sich während der Gottesdienstzeiten ruhig zu verhalten.",
+            "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, de ügyeljen arra, hogy a misék alatt csendben maradjon.",
+            "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, dar nu uitați să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Landes",
+            "hu": "Landes-erdő",
+            "ro": "Pădurea Landes",
+            "en": "Landes Forest"
+          },
+          "coords": [
+            -1.465314,
+            43.571455
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die duftenden Pinienwälder und nutzen Sie die gut gepflegten Radwege, um sicher und entspannt die Natur zu genießen.",
+            "hu": "Kerékpározzon a jó illatú fenyőerdőkön keresztül, és használja a jól karbantartott kerékpárutakat a biztonságos, pihentető természetjáráshoz.",
+            "ro": "Pedalați prin pădurile parfumate de pin, folosind pistele de biciclete bine întreținute pentru a vă bucura de natură în siguranță și relaxare.",
+            "en": "Cycle through the fragrant pine forests, taking advantage of the well-maintained bike paths to enjoy nature safely and comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-Golf",
+            "hu": "Minigolf",
+            "ro": "Mini-Golf",
+            "en": "Mini-Golf"
+          },
+          "coords": [
+            -1.470768,
+            43.572676
+          ],
+          "category": "family",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen lockeren Familienwettbewerb auf diesem gepflegten Platz in der Nähe der Pinien und kommen Sie früh, um dem Mittagstrubel zu entgehen.",
+            "hu": "Élvezze a könnyed családi versengést ezen a fenyők közelében fekvő, gondozott pályán, és próbáljon meg korán érkezni a déli tömeg elkerülése végett.",
+            "ro": "Bucurați-vă de o competiție de familie pe acest teren bine întreținut din apropierea pinilor și încercați să ajungeți devreme pentru a evita aglomerația de la prânz.",
+            "en": "Enjoy some lighthearted family competition on this well-kept course nestled near the pines, and try to arrive early to beat the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Safe Ocean",
+            "hu": "Safe Ocean",
+            "ro": "Safe Ocean",
+            "en": "Safe Ocean"
+          },
+          "coords": [
+            -1.486231,
+            43.576737
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Informieren Sie sich an diesem familiären Ort über maritime Bedingungen, was eine hervorragende Vorbereitung für das Schwimmen im Ozean darstellt.",
+            "hu": "Ismerkedjen meg a tengeri viszonyokkal ezen az oktatási célú családi helyszínen, amely nagyszerű előkészítője az óceánban való fürdőzésnek.",
+            "ro": "Aflați despre condițiile maritime locale la acest loc educațional pentru familii, care este o pregătire excelentă înainte de a intra în valuri.",
+            "en": "Learn about local maritime conditions and safety at this educational family spot, which is a great precursor to actually hitting the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ondres",
+            "hu": "Ondres Strand",
+            "ro": "Plaja Ondres",
+            "en": "Ondres Beach"
+          },
+          "coords": [
+            -1.487833,
+            43.577833
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spüren Sie den Sand an diesem weiten Atlantikstrand zwischen Ihren Zehen, schwimmen Sie jedoch immer innerhalb der beflaggten und bewachten Zonen.",
+            "hu": "Érezze a homokot a lábujjai között ezen a hatalmas atlanti partvidéken, de mindig a zászlókkal jelölt zónákban ússzon, ahol vízimentők teljesítenek szolgálatot.",
+            "ro": "Simțiți nisipul pe această coastă atlantică întinsă, dar înotați întotdeauna între zonele marcate cu steaguri unde salvamarii sunt la datorie.",
+            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am Rathaus und der historischen Kirche im Zentrum von Ondres. Wenn es wärmer wird, radeln Sie in den kühlen Schatten des weitläufigen Pinienwaldes. Der Nachmittag ist perfekt für Familienspaß mit einer Runde Minigolf und maritimer Bildung. Ihre Tour endet spektakulär, wenn Sie den goldenen Sand des Hauptstrandes erreichen.",
+        "hu": "Kezdje kerékpáros kalandját Ondres központjában, a városházánál és a történelmi templomnál. Ahogy a nap melegszik, tekerjen a hatalmas fenyőerdő hűs árnyékába. A délután tökéletes a családi szórakozáshoz egy kör minigolffal és tengeri ismeretek elsajátításával. Útja lenyűgöző módon ér véget, amint egy pihentető estére megérkezik a fő strand aranyhomokjához.",
+        "ro": "Începeți aventura pe bicicletă la primărie și biserica istorică din centrul orașului Ondres. Pe măsură ce ziua se încălzește, pedalați în umbra răcoroasă a pădurii de pini. După-amiaza este perfectă pentru distracție în familie cu o rundă de mini-golf și educație maritimă. Plimbarea se termină spectaculos când ajungeți pe nisipul auriu al plajei principale.",
+        "en": "Begin your cycling adventure at the town hall and historic church in the center of Ondres. As the day warms up, ride into the cool shade of the sprawling pine forest. The afternoon is perfect for family fun with a round of mini-golf and maritime learning. Your ride ends spectacularly as you reach the golden sands of the main beach for a relaxing evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 23.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.447568,
+            43.561216
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, und nutzen Sie den kostenlosen Parkplatz in der Nähe.",
+            "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, és használja a közeli ingyenes parkolót.",
+            "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, profitând de parcarea gratuită din apropiere.",
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, making use of the free parking available nearby to start your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Accrobranche Parc Robinson",
+            "hu": "Accrobranche Parc Robinson",
+            "ro": "Accrobranche Parc Robinson",
+            "en": "Accrobranche Parc Robinson"
+          },
+          "coords": [
+            -1.454192,
+            43.595168
+          ],
+          "category": "family",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufregenden Baumkronen-Hindernisparcours für alle Altersgruppen und tragen Sie dabei festes, geschlossenes Schuhwerk.",
+            "hu": "Tegye próbára ügyességét a minden korosztály számára tervezett izgalmas lombkorona akadálypályákon, és viseljen stabil, zárt cipőt a jobb tapadás érdekében.",
+            "ro": "Testați-vă agilitatea pe traseele captivante din vârfurile copacilor destinate tuturor vârstelor, purtând pantofi rezistenți, închiși, pentru o mai bună aderență.",
+            "en": "Test your agility on the exhilarating treetop obstacle courses designed for all ages, wearing sturdy, closed-toe shoes for better grip."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Boudigau",
+            "hu": "Boudigau-csatorna",
+            "ro": "Canalul Boudigau",
+            "en": "Boudigau Canal"
+          },
+          "coords": [
+            -1.388356,
+            43.584893
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser friedlichen Wasserstraße, die die Küstenseen verbindet und an einem hellen Nachmittag eine fantastische Kulisse zum Fotografieren bietet.",
+            "hu": "Sétáljon végig ezen a békés vízi úton, amely összeköti a part menti tavakat, és ragyogó délutánokon fantasztikus hátteret biztosít a fotózáshoz.",
+            "ro": "Plimbați-vă de-a lungul acestei căi navigabile pașnice care conectează lacurile de coastă, oferind un fundal fantastic pentru fotografie într-o după-amiază senină.",
+            "en": "Wander along this peaceful waterway that connects the coastal lakes, offering a fantastic backdrop for photography on a bright afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ondres",
+            "hu": "Ondres Strand",
+            "ro": "Plaja Ondres",
+            "en": "Ondres Beach"
+          },
+          "coords": [
+            -1.487833,
+            43.577833
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.1,
+          "tip_5lang": {
+            "de": "Spüren Sie den Sand an diesem weiten Atlantikstrand zwischen Ihren Zehen, schwimmen Sie jedoch immer innerhalb der beflaggten Zonen.",
+            "hu": "Érezze a homokot a lábujjai között ezen a hatalmas atlanti partvidéken, de mindig a zászlókkal jelölt zónákban ússzon.",
+            "ro": "Simțiți nisipul pe această coastă atlantică întinsă, dar înotați întotdeauna între zonele marcate cu steaguri unde salvamarii sunt la datorie.",
+            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Métro",
+            "hu": "Plage du Métro",
+            "ro": "Plage du Métro",
+            "en": "Plage du Métro"
+          },
+          "coords": [
+            -1.500722,
+            43.559168
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen etwas wilderen, schönen Strandabschnitt, der von Surfern bevorzugt wird, achten Sie aber auf die starken Meeresströmungen.",
+            "hu": "Meneküljön el erre a kissé vadabb, gyönyörű partszakaszra, amelyet a szörfösök kedvelnek, de ügyeljen az erős óceáni áramlatokra a vízben.",
+            "ro": "Evadați pe această porțiune de plajă puțin mai sălbatică și frumoasă, preferată de surferi, dar fiți atenți la curenții puternici ai oceanului.",
+            "en": "Escape to this slightly wilder, beautiful stretch of beach favored by surfers, though be mindful of the strong ocean currents when wading in."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Petite Barre",
+            "hu": "Plage de la Petite Barre",
+            "ro": "Plage de la Petite Barre",
+            "en": "Plage de la Petite Barre"
+          },
+          "coords": [
+            -1.523268,
+            43.528026
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Sonnenuntergang über dem Ozean an diesem malerischen und weniger überlaufenen Sandstrand und beenden Sie Ihren Tagesausflug mit einer unvergesslichen Aussicht.",
+            "hu": "Nézze meg a naplementét az óceán felett erről a festői és kevésbé zsúfolt homokos visszavonulóhelyről, és egy felejthetetlen kilátással tegye teljessé egynapos kirándulását.",
+            "ro": "Priviți apusul de soare peste ocean din această retragere de nisip pitorească și mai puțin aglomerată, completându-vă excursia de o zi cu o priveliște de neuitat.",
+            "en": "Watch the sun set over the ocean from this picturesque and less crowded sandy retreat, completing your day trip with an unforgettable view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur charmanten Stadtkirche, um Ihre Erkundung zu beginnen, bevor Sie Richtung Norden zu Nervenkitzel in den Baumwipfeln aufbrechen. Gegen Mittag können Sie einen friedlichen Spaziergang entlang des malerischen örtlichen Kanals genießen. Am Nachmittag fahren Sie die Atlantikküste hinunter und machen Halt am beliebten Hauptstrand und den rauen Surfspots. Der Abend endet an einem abgelegenen, ruhigen Sandstrand.",
+        "hu": "Vezessen el a hangulatos városi templomhoz, hogy megkezdje a felfedezést, mielőtt észak felé venné az irányt az izgalmas lombkoronapályákhoz. Délben élvezheti a békés sétát a festői helyi csatorna mentén. Délután az Atlanti-óceán partján cirkálhat, megállva a népszerű fő strandon és a vad szörfös helyeken. Az este egy eldugott, nyugodt homokos szakaszon ér véget.",
+        "ro": "Conduceți spre biserica fermecătoare din oraș pentru a vă începe explorarea, înainte de a vă îndrepta spre nord pentru senzații tari în copaci. La amiază, vă veți bucura de o plimbare pașnică de-a lungul pitorescului canal local. După-amiaza, veți coborî pe coasta Atlanticului, oprindu-vă la plaja principală populară și la locurile accidentate de surf. Seara se încheie pe o întindere izolată și liniștită de nisip.",
+        "en": "Drive to the charming town church to kick off your exploration before heading north for treetop thrills. By midday, you'll be enjoying a peaceful walk along the scenic local canal. In the afternoon, you'll cruise down the Atlantic coast, stopping at the popular main beach and the rugged surfer spots. The evening concludes at a secluded, tranquil stretch of sand."
+      }
+    }
+  }
+}

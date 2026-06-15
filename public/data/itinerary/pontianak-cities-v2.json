@@ -1,0 +1,474 @@
+{
+  "city_id": "pontianak-cities-v2",
+  "anchor": {
+    "name": "Pontianak",
+    "coords": [
+      109.3333,
+      -0.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Joseph Kathedrale",
+            "hu": "Szent József-katedrális",
+            "ro": "Catedrala Sf. Iosif",
+            "en": "St.Joseph Cathedral"
+          },
+          "coords": [
+            109.338217,
+            -0.027294
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser großen Kathedrale, die eine zentrale Säule der lokalen katholischen Gemeinde darstellt, und besuchen Sie sie respektvoll außerhalb der Messezeiten.",
+            "hu": "Csodálja meg ennek a lenyűgöző katedrálisnak a modern építészetét, amely a helyi közösség központi pillére, és ügyeljen arra, hogy a misék idején kívül látogassa meg.",
+            "ro": "Admirați arhitectura modernă a acestei mari catedrale, care reprezintă un pilon central pentru comunitatea catolică locală, și amintiți-vă să o vizitați cu respect în afara orelor de slujbă.",
+            "en": "Admire the striking modern architecture of this grand cathedral, which stands as a central pillar for the local Catholic community, and remember to visit respectfully outside of mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Katolik Stella Maris",
+            "hu": "Gereja Katolik Stella Maris",
+            "ro": "Gereja Katolik Stella Maris",
+            "en": "Gereja Katolik Stella Maris"
+          },
+          "coords": [
+            109.345193,
+            -0.017674
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser schönen Kirche, die einen spirituellen Rückzugsort bietet, und nehmen Sie sich Zeit für die Glasfenster in der Nähe des Eingangs.",
+            "hu": "Fedezze fel ennek a gyönyörű helyi templomnak a nyugodt légkörét, amely csendesebb spirituális menedéket kínál, és szánjon egy percet az üvegablakok részleteinek megcsodálására.",
+            "ro": "Descoperiți ambianța liniștită a acestei frumoase biserici locale, care oferă un refugiu spiritual tăcut, și faceți-vă timp să apreciați vitraliile de lângă intrare.",
+            "en": "Discover the tranquil ambiance of this beautiful local church that offers a quieter spiritual retreat, and take a moment to appreciate the stained glass details near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Vihara Bodhisatva Karaniya Metta",
+            "hu": "Vihara Bodhisatva Karaniya Metta",
+            "ro": "Vihara Bodhisatva Karaniya Metta",
+            "en": "Vihara Bodhisatva Karaniya Metta"
+          },
+          "coords": [
+            109.342148,
+            -0.023471
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Vielfalt Pontianaks in diesem verzierten buddhistischen Tempel, dessen kunstvolle Schnitzereien alte Geschichten erzählen, und bringen Sie eine Kamera für die Fassade mit.",
+            "hu": "Tapasztalja meg Pontianak gazdag kulturális sokszínűségét ebben a díszes buddhista templomban, ahol a faragások ősi történeteket mesélnek, ezért érdemes fényképezőgépet hozni a homlokzathoz.",
+            "ro": "Experimentați diversitatea culturală a orașului Pontianak la acest templu budist ornat, unde sculpturile spun povești antice, fiind recomandat să aduceți un aparat foto pentru fațadă.",
+            "en": "Experience the rich cultural tapestry of Pontianak at this ornate Buddhist temple, where intricate carvings tell ancient stories, making it best to bring a camera for the stunning facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kadriah-Palast",
+            "hu": "Kadriah-palota",
+            "ro": "Palatul Kadriah",
+            "en": "Kadriah Palace Kesultanan Pontianak"
+          },
+          "coords": [
+            109.349868,
+            -0.028881
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem historischen Holzpalast, der das Erbe des Sultanats Pontianak zeigt, eine Zeitreise in die Vergangenheit und achten Sie auf die antiken Artefakte in der Haupthalle.",
+            "hu": "Lépjen vissza az időben ebben a történelmi fapalotában, amely a Pontianak Szultanátus örökségét mutatja be, és figyelje meg a főcsarnokban kiállított ősi királyi tárgyakat.",
+            "ro": "Întoarceți-vă în timp la acest palat istoric din lemn care prezintă moștenirea Sultanatului Pontianak și căutați artefactele regale antice expuse în holul principal.",
+            "en": "Step back in time at this historic wooden palace that showcases the legacy of the Pontianak Sultanate, and look out for the ancient royal artifacts displayed in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Huda Tanjung Hilir",
+            "hu": "Masjid Nurul Huda Tanjung Hilir",
+            "ro": "Masjid Nurul Huda Tanjung Hilir",
+            "en": "Masjid Nurul Huda Tanjung Hilir"
+          },
+          "coords": [
+            109.360164,
+            -0.025513
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung dieser Moschee, die ein Eckpfeiler des täglichen Lebens ist, und kleiden Sie sich dezent, um eine herzliche Erfahrung mit der Gemeinde zu gewährleisten.",
+            "hu": "Élvezze a környékbeli mecset békés környezetét, amely a mindennapi élet sarokköve, és öltözzön visszafogottan, hogy barátságos élményben legyen része a közösséggel.",
+            "ro": "Bucurați-vă de împrejurimile pașnice ale acestei moschei de cartier, care este o piatră de temelie a vieții locale, și îmbrăcați-vă modest pentru a fi bineveniți de comunitate.",
+            "en": "Enjoy the peaceful surroundings of this neighborhood mosque that serves as a cornerstone of daily local life, and dress modestly to ensure a welcoming experience with the community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den Details der St. Joseph-Kathedrale und schlendern Sie dann durch die Straßen von Pontianak. Mittags genießen Sie die ruhige Atmosphäre der Stella Maris-Kirche und des friedlichen Vihara-Tempels. Am Nachmittag tauchen Sie im Kadriah-Palast in die lokale Geschichte ein. Beenden Sie den Tag entspannt an der Nurul-Huda-Moschee.",
+        "hu": "Kezdje a reggelt a Szent József-katedrális részleteinek megcsodálásával, majd sétáljon végig Pontianak nyüzsgő utcáin. Délben élvezze a Stella Maris katolikus templom és a békés Vihara Bodhisatva Karaniya Metta nyugalmát. Délután merüljön el a helyi örökségben a csodálatos Kadriah-palotában. A napot a Masjid Nurul Huda közelében, nyugodt környezetben zárhatja.",
+        "ro": "Începeți dimineața admirând detaliile Catedralei Sf. Iosif înainte de a vă plimba pe străzile vibrante din Pontianak. La prânz, bucurați-vă de atmosfera senină de la Biserica Stella Maris și de liniștitul Vihara Bodhisatva. După-amiaza, descoperiți moștenirea locală la magnificul Palat Kadriah. Încheiați-vă ziua cu o seară calmă în apropiere de Masjid Nurul Huda.",
+        "en": "Start your morning admiring the intricate details of St. Joseph Cathedral before strolling through the vibrant streets of Pontianak. By midday, take in the serene atmosphere at Gereja Katolik Stella Maris and the peaceful Vihara Bodhisatva Karaniya Metta. In the afternoon, dive into local heritage at the magnificent Kadriah Palace. Conclude your day with a calm evening near Masjid Nurul Huda."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Digulis",
+            "hu": "Tugu Digulis",
+            "ro": "Tugu Digulis",
+            "en": "Tugu Digulis"
+          },
+          "coords": [
+            109.349488,
+            -0.055343
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses markante, von Bambus inspirierte Denkmal erinnert an lokale Helden und ist ein wichtiges Stück lokaler Identität, ideal für unvergessliche Fotos am Kreisverkehr.",
+            "hu": "A helyi hősöknek emléket állító, bambusz ihlette emlékmű a helyi identitás fontos része, így tökéletes egy gyors megállóra, hogy emlékezetes fotókat készítsen a körforgalomnál.",
+            "ro": "Comemorând eroii locali, acest monument proeminent inspirat de bambus este o piesă vitală a identității locale, fiind o oprire perfectă pentru fotografii memorabile la sensul giratoriu.",
+            "en": "Commemorating local heroes, this prominent bamboo-inspired monument is a vital piece of local identity, making it a perfect quick stop for memorable photos along the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzmuseum West-Kalimantan",
+            "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+            "ro": "Muzeul Provincial Kalimantanul de Vest",
+            "en": "West Kalimantan Provincial Museum"
+          },
+          "coords": [
+            109.3428,
+            -0.048479
+          ],
+          "category": "museum",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die ethnografischen Artefakte der Region ein und nehmen Sie sich unbedingt genug Zeit für die beeindruckenden Ausstellungen zur Dayak-Kultur.",
+            "hu": "Merüljön el a régió változatos néprajzi és történelmi tárgyaiban ebben a nagy múzeumban, és mindenképpen szánjon elég időt a lenyűgöző Dayak kulturális kiállításokra.",
+            "ro": "Aprofundați-vă în diversele artefacte etnografice din regiune în interiorul acestui muzeu vast și asigurați-vă că alocați suficient timp pentru expozițiile impresionante ale culturii Dayak.",
+            "en": "Delve into the diverse ethnographic and historical artifacts of the region inside this extensive museum, and be sure to allocate enough time for the impressive Dayak cultural exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Betang Longhouse",
+            "hu": "Betang Longhouse",
+            "ro": "Casa Tradițională Betang",
+            "en": "Betang Longhouse"
+          },
+          "coords": [
+            109.341325,
+            -0.047627
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Nachbau einer traditionellen Dayak-Gemeinschaftsunterkunft, um die Lebensweise der Ureinwohner zu verstehen, und gehen Sie durch die Struktur, um die Holzkunst zu spüren.",
+            "hu": "Fedezze fel a hagyományos Dayak közösségi ház lenyűgöző másolatát, hogy megértse a bennszülöttek életmódját, és sétáljon végig a magasított építményen a fafaragások megcsodálásához.",
+            "ro": "Explorați această replică uimitoare a locuinței comunale tradiționale Dayak pentru a înțelege stilul de viață indigen și plimbați-vă prin structura ridicată pentru a simți măiestria lemnului.",
+            "en": "Explore this stunning replica of traditional Dayak communal housing to understand indigenous lifestyles, and walk through the elevated structure to feel the authentic wooden craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+            "hu": "Nyugat-Kalimantani Erdészeti Galéria",
+            "ro": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+            "en": "Galeri Hasil Hutan Provinsi Kalimantan Barat"
+          },
+          "coords": [
+            109.343399,
+            -0.045314
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser Galerie mehr über die reichen Waldprodukte von West-Kalimantan, die einzigartige Holzausstellungen bietet und Einblicke in nachhaltige Praktiken gewährt.",
+            "hu": "Ismerje meg Nyugat-Kalimantan erdei termékeit ebben a különleges galériában, amely egyedi faanyag-kiállításokkal és a fenntartható gyakorlatokba való betekintéssel várja.",
+            "ro": "Aflați despre produsele forestiere bogate din Kalimantanul de Vest la această galerie specializată, care prezintă expoziții unice de lemn și oferă perspective asupra practicilor sustenabile.",
+            "en": "Learn about the rich forest products and ecological importance of West Kalimantan at this specialized gallery, which features unique timber displays and offers insights into sustainable practices."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Joseph Kathedrale",
+            "hu": "Szent József-katedrális",
+            "ro": "Catedrala Sf. Iosif",
+            "en": "St.Joseph Cathedral"
+          },
+          "coords": [
+            109.338217,
+            -0.027294
+          ],
+          "category": "religious",
+          "arrive_at": "14:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser großen Kathedrale, die eine zentrale Säule der lokalen katholischen Gemeinde darstellt, und besuchen Sie sie respektvoll außerhalb der Messezeiten.",
+            "hu": "Csodálja meg ennek a lenyűgöző katedrálisnak a modern építészetét, amely a helyi közösség központi pillére, és ügyeljen arra, hogy a misék idején kívül látogassa meg.",
+            "ro": "Admirați arhitectura modernă a acestei mari catedrale, care reprezintă un pilon central pentru comunitatea catolică locală, și amintiți-vă să o vizitați cu respect în afara orelor de slujbă.",
+            "en": "Admire the striking modern architecture of this grand cathedral, which stands as a central pillar for the local Catholic community, and remember to visit respectfully outside of mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Vihara Bodhisatva Karaniya Metta",
+            "hu": "Vihara Bodhisatva Karaniya Metta",
+            "ro": "Vihara Bodhisatva Karaniya Metta",
+            "en": "Vihara Bodhisatva Karaniya Metta"
+          },
+          "coords": [
+            109.342148,
+            -0.023471
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Vielfalt Pontianaks in diesem verzierten buddhistischen Tempel, dessen kunstvolle Schnitzereien alte Geschichten erzählen, und bringen Sie eine Kamera für die Fassade mit.",
+            "hu": "Tapasztalja meg Pontianak gazdag kulturális sokszínűségét ebben a díszes buddhista templomban, ahol a faragások ősi történeteket mesélnek, ezért érdemes fényképezőgépet hozni a homlokzathoz.",
+            "ro": "Experimentați diversitatea culturală a orașului Pontianak la acest templu budist ornat, unde sculpturile spun povești antice, fiind recomandat să aduceți un aparat foto pentru fațadă.",
+            "en": "Experience the rich cultural tapestry of Pontianak at this ornate Buddhist temple, where intricate carvings tell ancient stories, making it best to bring a camera for the stunning facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Tugu Digulis, einem ikonischen Denkmal, das den Ton für den Tag angibt. Verbringen Sie den Mittag damit, im Provinzmuseum und im faszinierenden Betang Longhouse tief in die Geschichte einzutauchen. Entdecken Sie am Nachmittag die Waldwunder in der Galeri Hasil Hutan, bevor Sie nach Norden fahren. Lassen Sie den Abend bei den beleuchteten Gotteshäusern im Zentrum ausklingen.",
+        "hu": "Kezdje kerékpártúráját a Tugu Digulis emlékműnél, amely megadja a nap alaphangját. A delet a régió történelmének felfedezésével töltheti a Tartományi Múzeumban és a lenyűgöző Betang Longhouse-ban. Délután tekintse meg a Galeri Hasil Hutan erdészeti csodáit, mielőtt észak felé indulna. Zárja az estét a belváros kivilágított vallási műemlékeinek megcsodálásával.",
+        "ro": "Începeți turul cu bicicleta la Tugu Digulis, un monument iconic care dă tonul zilei. Petreceți prânzul explorând istoria regiunii la Muzeul Provincial și la fascinanta Casă Tradițională Betang. După-amiaza, descoperiți minunile forestiere la Galeri Hasil Hutan înainte de a pedala spre nord. Încheiați seara admirând reperele religioase frumos iluminate din centrul orașului.",
+        "en": "Kick off your cycling tour at Tugu Digulis, an iconic monument setting the tone for the day. Spend your midday exploring deep into the region's history at the Provincial Museum and the fascinating Betang Longhouse. As the afternoon rolls in, discover forestry marvels at Galeri Hasil Hutan before riding north. Wind down your evening admiring the beautifully illuminated religious landmarks of the city center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Mangrove",
+            "hu": "Tugu Mangrove",
+            "ro": "Tugu Mangrove",
+            "en": "Tugu Mangrove"
+          },
+          "coords": [
+            109.367143,
+            -0.078556
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das ökologische Herz der Stadt in diesem Mangrovenpark, der sich ideal zur Beobachtung der lokalen Flora eignet und eine frische Brise abseits der Straßen bietet.",
+            "hu": "Fedezze fel a város ökológiai szívét ennél a mangrove témájú emlékműnél és parknál, amely ideális a helyi növényvilág megfigyelésére és a frissítő szellő élvezetére a nyüzsgéstől távol.",
+            "ro": "Descoperiți inima ecologică a orașului la acest monument cu tematică de mangrove, ideal pentru a observa flora locală și pentru a vă bucura de o briză răcoroasă departe de străzi.",
+            "en": "Discover the ecological heart of the city at this mangrove-themed monument and park area, ideal for observing local flora and enjoying a refreshing breeze away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Digulis",
+            "hu": "Tugu Digulis",
+            "ro": "Tugu Digulis",
+            "en": "Tugu Digulis"
+          },
+          "coords": [
+            109.349488,
+            -0.055343
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Dieses markante, von Bambus inspirierte Denkmal erinnert an lokale Helden und ist ein wichtiges Stück lokaler Identität, ideal für unvergessliche Fotos am Kreisverkehr.",
+            "hu": "A helyi hősöknek emléket állító, bambusz ihlette emlékmű a helyi identitás fontos része, így tökéletes egy gyors megállóra, hogy emlékezetes fotókat készítsen a körforgalomnál.",
+            "ro": "Comemorând eroii locali, acest monument proeminent inspirat de bambus este o piesă vitală a identității locale, fiind o oprire perfectă pentru fotografii memorabile la sensul giratoriu.",
+            "en": "Commemorating local heroes, this prominent bamboo-inspired monument is a vital piece of local identity, making it a perfect quick stop for memorable photos along the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzmuseum West-Kalimantan",
+            "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+            "ro": "Muzeul Provincial Kalimantanul de Vest",
+            "en": "West Kalimantan Provincial Museum"
+          },
+          "coords": [
+            109.3428,
+            -0.048479
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die ethnografischen Artefakte der Region ein und nehmen Sie sich unbedingt genug Zeit für die beeindruckenden Ausstellungen zur Dayak-Kultur.",
+            "hu": "Merüljön el a régió változatos néprajzi és történelmi tárgyaiban ebben a nagy múzeumban, és mindenképpen szánjon elég időt a lenyűgöző Dayak kulturális kiállításokra.",
+            "ro": "Aprofundați-vă în diversele artefacte etnografice din regiune în interiorul acestui muzeu vast și asigurați-vă că alocați suficient timp pentru expozițiile impresionante ale culturii Dayak.",
+            "en": "Delve into the diverse ethnographic and historical artifacts of the region inside this extensive museum, and be sure to allocate enough time for the impressive Dayak cultural exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kadriah-Palast",
+            "hu": "Kadriah-palota",
+            "ro": "Palatul Kadriah",
+            "en": "Kadriah Palace Kesultanan Pontianak"
+          },
+          "coords": [
+            109.349868,
+            -0.028881
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem historischen Holzpalast, der das Erbe des Sultanats Pontianak zeigt, eine Zeitreise in die Vergangenheit und achten Sie auf die antiken Artefakte in der Haupthalle.",
+            "hu": "Lépjen vissza az időben ebben a történelmi fapalotában, amely a Pontianak Szultanátus örökségét mutatja be, és figyelje meg a főcsarnokban kiállított ősi királyi tárgyakat.",
+            "ro": "Întoarceți-vă în timp la acest palat istoric din lemn care prezintă moștenirea Sultanatului Pontianak și căutați artefactele regale antice expuse în holul principal.",
+            "en": "Step back in time at this historic wooden palace that showcases the legacy of the Pontianak Sultanate, and look out for the ancient royal artifacts displayed in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Huda Tanjung Hilir",
+            "hu": "Masjid Nurul Huda Tanjung Hilir",
+            "ro": "Masjid Nurul Huda Tanjung Hilir",
+            "en": "Masjid Nurul Huda Tanjung Hilir"
+          },
+          "coords": [
+            109.360164,
+            -0.025513
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung dieser Moschee, die ein Eckpfeiler des täglichen Lebens ist, und kleiden Sie sich dezent, um eine herzliche Erfahrung mit der Gemeinde zu gewährleisten.",
+            "hu": "Élvezze a környékbeli mecset békés környezetét, amely a mindennapi élet sarokköve, és öltözzön visszafogottan, hogy barátságos élményben legyen része a közösséggel.",
+            "ro": "Bucurați-vă de împrejurimile pașnice ale acestei moschei de cartier, care este o piatră de temelie a vieții locale, și îmbrăcați-vă modest pentru a fi bineveniți de comunitate.",
+            "en": "Enjoy the peaceful surroundings of this neighborhood mosque that serves as a cornerstone of daily local life, and dress modestly to ensure a welcoming experience with the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Surau Muhajirin",
+            "hu": "Surau Muhajirin",
+            "ro": "Surau Muhajirin",
+            "en": "Surau Muhajirin"
+          },
+          "coords": [
+            109.369586,
+            -0.034827
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bescheidenen islamischen Gebetsraum inne, der die Hingabe der Anwohner unterstreicht, und verhalten Sie sich ruhig, während Sie das einfache, funktionale Design betrachten.",
+            "hu": "Álljon meg egy kis elmélkedésre ebben a szerény iszlám imateremben, amely a helyiek mindennapi áhítatát emeli ki, és maradjon csendben, miközben megfigyeli az egyszerű, funkcionális kialakítást.",
+            "ro": "Faceți o pauză de reflecție la această modestă sală de rugăciune islamică, care subliniază devotamentul locuitorilor locali, menținând o atitudine liniștită în timp ce observați designul.",
+            "en": "Pause for reflection at this modest Islamic prayer room that highlights the everyday devotion of the local residents, maintaining a quiet demeanor as you observe its simple, functional design."
+          }
+        },
+        {
+          "name": {
+            "de": "Mushola Babuljanah",
+            "hu": "Mushola Babuljanah",
+            "ro": "Mushola Babuljanah",
+            "en": "Mushola Babuljanah"
+          },
+          "coords": [
+            109.379048,
+            -0.034273
+          ],
+          "category": "religious",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in der Nähe dieser unscheinbaren Moschee, die den harmonischen und einladenden Geist der eng verbundenen Vorstadtgemeinden von Pontianak perfekt einfängt.",
+            "hu": "Zárja a felfedezést e szerény környékbeli mecset közelében, amely tökéletesen megragadja Pontianak szoros külvárosi közösségeinek harmonikus és barátságos szellemét.",
+            "ro": "Încheiați-vă explorarea în apropierea acestei moschei de cartier fără pretenții, care captează perfect spiritul armonios și primitor al comunităților suburbane strânse din Pontianak.",
+            "en": "Wrap up your exploration near this unassuming neighborhood mosque that perfectly captures the harmonious and welcoming spirit of Pontianak's tightly-knit suburban communities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt am üppigen Tugu Mangrove, wo sich Natur und historische Bedeutung perfekt verbinden. Mittags fahren Sie zum Tugu Digulis und erkunden die umfangreichen Sammlungen im Provinzmuseum. Am Nachmittag tauchen Sie im Kadriah-Palast in die königliche Geschichte ein. Beenden Sie den Tag mit dem Besuch friedlicher lokaler Moscheen bei Sonnenuntergang.",
+        "hu": "Kényelmes utazása a buja Tugu Mangrove-nál kezdődik, amely tökéletesen ötvözi a természetet a történelemmel. Délben utazzon el a Tugu Digulis-hoz, és tekintse meg a Tartományi Múzeum kiterjedt gyűjteményeit. Délután szívja magába a királyi történelmet a Kadriah-palotában, mielőtt átautózna a keleti negyedeken. A napot a helyi mecsetek nyugodt légkörében zárja a lemenő nap fényében.",
+        "ro": "Călătoria confortabilă începe la luxuriantul Tugu Mangrove, îmbinând perfect natura cu importanța istorică. La prânz, mergeți la Tugu Digulis și vizitați colecțiile vaste de la Muzeul Provincial. După-amiaza, absorbiți istoria regală la Palatul Kadriah înainte de a conduce prin districtele estice. Încheiați ziua vizitând moscheile locale pașnice în timp ce soarele apune.",
+        "en": "Your comfortable drive begins at the lush Tugu Mangrove, perfectly blending nature with historical significance. By midday, cruise to Tugu Digulis and delve into the expansive collections at the West Kalimantan Provincial Museum. In the afternoon, soak up royal history at the Kadriah Palace before driving through the eastern districts. End the day visiting peaceful local mosques as the sun sets."
+      }
+    }
+  }
+}

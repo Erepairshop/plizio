@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-drapetsona-cities-v2",
+  "anchor": {
+    "name": "Drapetsona",
+    "coords": [
+      23.625,
+      37.946667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 2.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ieros Naos Agiou Spuridonos",
+            "hu": "Ieros Naos Agiou Spuridonos",
+            "ro": "Ieros Naos Agiou Spuridonos",
+            "en": "Ieros Naos Agiou Spuridonos"
+          },
+          "coords": [
+            23.644282,
+            37.942887
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Fresken in dieser gut erhaltenen orthodoxen Kirche, einem spirituellen Zentrum der Einheimischen, und achten Sie auf angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött ortodox templomnak a lenyűgöző freskóit, amely a helyiek spirituális központja, és öltözzön visszafogottan a belépéshez.",
+            "ro": "Admirați frescele complexe din interiorul acestei biserici ortodoxe frumos conservate, un reper spiritual pentru localnici, și adoptați o ținută modestă la intrare.",
+            "en": "Admire the intricate frescoes inside this beautifully preserved Orthodox church, a spiritual beacon for locals, and dress modestly to enter respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Galerie von Piräus",
+            "hu": "Pireuszi Városi Képtár",
+            "ro": "Galeria Municipală din Pireu",
+            "en": "Municipal Gallery of Piraeus"
+          },
+          "coords": [
+            23.646812,
+            37.945302
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung griechischer Gemälde und Bühnenbilder, die die lebendige Kunstszene von Piräus widerspiegeln, und achten Sie auf wechselnde Ausstellungen.",
+            "hu": "Fedezze fel a görög festmények és díszlettervek gazdag gyűjteményét, amely Pireusz élénk művészeti színterét tükrözi, és keresse az időszaki kiállításokat.",
+            "ro": "Descoperiți o colecție bogată de picturi și decoruri de scenă grecești, reflectând scena artistică vibrantă din Pireu, și verificați expozițiile temporare de la parter.",
+            "en": "Discover a rich collection of Greek paintings and stage designs, reflecting Piraeus's vibrant arts scene, and check for temporary exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Ieros Naos Agion Konstantinou & Elenes",
+            "hu": "Ieros Naos Agion Konstantinou & Elenes",
+            "ro": "Ieros Naos Agion Konstantinou & Elenes",
+            "en": "Ieros Naos Agion Konstantinou & Elenes"
+          },
+          "coords": [
+            23.648422,
+            37.942857
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majestätische Architektur und die große Kuppel dieser zentralen Kirche, die für die maritime Gemeinde der Stadt wichtig ist, und besuchen Sie sie am besten vormittags.",
+            "hu": "Csodálja meg a központi templom fenséges építészetét és hatalmas kupoláját, amely fontos a város tengeri közössége számára, és látogasson el ide a délelőtti órákban.",
+            "ro": "Minunați-vă de arhitectura maiestuoasă și cupola grandioasă a acestei biserici centrale, importantă pentru comunitatea maritimă a orașului, și vizitați în timpul orelor dimineții.",
+            "en": "Marvel at the majestic architecture and grand dome of this central church, important to the city's maritime community, and visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Arsenal des Philon",
+            "hu": "Philon arzenálja",
+            "ro": "Arsenalul lui Philon",
+            "en": "The arsenal of Philo"
+          },
+          "coords": [
+            23.647402,
+            37.939712
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Marinedepots, die die maritime Vormachtstellung Athens in der Antike unterstreichen, und lesen Sie die informativen Tafeln.",
+            "hu": "Fedezze fel az ősi tengerészeti raktár romjait, amelyek Athén ókori tengeri fölényét hangsúlyozzák, és olvassa el a tájékoztató táblákat a méretek megértéséhez.",
+            "ro": "Explorați ruinele depozitului naval antic care subliniază supremația maritimă a Atenei în antichitate și citiți plăcile informative pentru a-i înțelege scara masivă.",
+            "en": "Explore the ancient naval storehouse ruins that highlight Athens' maritime supremacy in antiquity, and read the informative plaques to understand its massive scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Mouseio emporikes nautilias",
+            "hu": "Mouseio emporikes nautilias",
+            "ro": "Mouseio emporikes nautilias",
+            "en": "Mouseio emporikes nautilias"
+          },
+          "coords": [
+            23.648882,
+            37.939885
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Lernen Sie durch faszinierende Schiffsmodelle die Entwicklung der griechischen Handelsmarine als Zeugnis der Seefahrtsgeschichte kennen und fragen Sie den Kurator nach Details.",
+            "hu": "Ismerje meg a görög kereskedelmi haditengerészet fejlődését lenyűgöző hajómodelleken keresztül, és kérdezze a kurátort a műtárgyak mögött rejlő történetekről.",
+            "ro": "Aflați despre evoluția marinei comerciale grecești prin modele fascinante de nave, o dovadă a moștenirii maritime a regiunii, și adresați-vă curatorului pentru detalii inedite.",
+            "en": "Learn about the evolution of the Greek merchant navy through fascinating ship models, a testament to the region's seafaring legacy, and ask the curator for stories behind the artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der friedlichen Aura von Agios Spuridonos und einer tiefen Atmosphäre, bevor Sie in das künstlerische Erbe der Städtischen Galerie eintauchen. Am Mittag führt der Weg zur majestätischen Kirche Agios Konstantinos & Elenes. Am Nachmittag tauchen Sie in die Geschichte des Arsenals des Philon ein. Der Abend endet faszinierend im Museum der Handelsmarine.",
+        "hu": "A reggel az Agios Spuridonos békés aurájával kezdődik, mielőtt elmerülne a Városi Képtár művészeti örökségében. A dél felé közeledve a nyüzsgő utcákon át az impozáns Agios Konstantinos & Elenes templomhoz ér. Délután merüljön el a történelemben Philon arzenáljának romjainál. Az estét a Kereskedelmi Tengerészeti Múzeum érdekes kiállításai zárják.",
+        "ro": "Dimineața începe cu aura liniștită de la Agios Spuridonos, înainte de a vă cufunda în moștenirea artistică a Galeriei Municipale. La prânz vă îndreptați prin străzile vibrante către grandioasa biserică Agios Konstantinos & Elenes. După-amiaza vă poartă în istorie, la ruinele Arsenalului lui Philon. Seara se încheie la fascinantul Muzeu al Marinei Comerciale.",
+        "en": "Morning begins with the peaceful aura of Agios Spuridonos, setting a reflective tone before immersing yourself in the artistic heritage at the Municipal Gallery. Midday takes you through the vibrant streets to the grand Agios Konstantinos & Elenes. In the afternoon, dive into history at the ruins of Philo's Arsenal. Evening concludes exploring the vast exhibits at the Merchant Navy Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Athen",
+            "hu": "Athéni Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate din Atena",
+            "en": "Railway Museum Athens"
+          },
+          "coords": [
+            23.650651,
+            37.953547
+          ],
+          "category": "museum",
+          "arrive_at": "09:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise inmitten von historischen Lokomotiven und königlichen Waggons, die Griechenlands Eisenbahngeschichte dokumentieren, und tragen Sie bequeme Schuhe.",
+            "hu": "Lépjen vissza az időben a régi mozdonyok és királyi kocsik között, amelyek Görögország vasúti történetét mutatják be, és viseljen kényelmes cipőt a kocsik felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp printre locomotive de epocă și trăsuri regale care trasează istoria feroviară a Greciei și purtați pantofi confortabili pentru a explora vagoanele vechi.",
+            "en": "Step back in time among vintage locomotives and royal carriages that chart Greece's railway history, and wear comfortable shoes to explore the old train cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte am Therpsithea-Platz",
+            "hu": "Therpsithea tér régészeti lelőhelye",
+            "ro": "Situl arheologic din Piața Therpsithea",
+            "en": "Archaeological site of Therpsithea Square"
+          },
+          "coords": [
+            23.644757,
+            37.939261
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Überreste des antiken Piräus unter dem modernen Stadtplatz, die einen Einblick in das hellenistische Alltagsleben bieten, und kommen Sie vor der Mittagssonne.",
+            "hu": "Tekintse meg az ókori Pireusz maradványait a modern városi tér alatt, amely bepillantást enged a hellenisztikus mindennapokba, és érkezzen a déli hőség előtt.",
+            "ro": "Priviți rămășițele vechiului Pireu de sub piața modernă, oferind o perspectivă asupra vieții cotidiene elenistice, și vizitați devreme pentru a evita soarele de amiază.",
+            "en": "View the remains of ancient Piraeus beneath the modern city square, offering a glimpse into Hellenistic daily life, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Piräus",
+            "hu": "Pireuszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Pireu",
+            "en": "Archaeological Museum of Piraeus"
+          },
+          "coords": [
+            23.644215,
+            37.937138
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Begegnen Sie atemberaubenden Bronzestatuen von Athena und Apollo, die aus antiken Schiffswracks geborgen wurden, und beginnen Sie im obersten Stockwerk.",
+            "hu": "Találkozzon Athéné és Apolló lélegzetelállító bronzszobraival, amelyeket ősi hajóroncsokból mentettek ki, és kezdje a felső emeleten az időrendi sorrendért.",
+            "ro": "Întâlniți statui de bronz uluitoare ale Atenei și lui Apollo, recuperate din epave antice, și începeți de la etajul superior pentru o trecere cronologică.",
+            "en": "Encounter breathtaking bronze statues of Athena and Apollo, salvaged from ancient shipwrecks, and start on the upper floor for chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritimes Museum von Griechenland",
+            "hu": "Görög Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim al Greciei",
+            "en": "Maritime Museum of Greece"
+          },
+          "coords": [
+            23.645967,
+            37.932696
+          ],
+          "category": "museum",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verfolgen Sie Jahrtausende der Marinegeschichte mit beeindruckenden Modellen von Trieren bis zu modernen Kriegsschiffen und genießen Sie draußen den Meerblick.",
+            "hu": "Kövesse nyomon a tengerészeti történelem évezredeit a gályáktól a modern hadihajókig lenyűgöző modellekkel, majd élvezze a tengerre nyíló kilátást kint.",
+            "ro": "Urmăriți mii de ani de istorie navală cu modele impresionante, de la trireme la nave de război moderne, și luați-vă un moment pentru a vă bucura de priveliștile mării.",
+            "en": "Trace thousands of years of naval history with impressive models from triremes to modern warships, and take a moment to enjoy the sea views outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ieros Naos Agiou Neilou",
+            "hu": "Ieros Naos Agiou Neilou",
+            "ro": "Ieros Naos Agiou Neilou",
+            "en": "Ieros Naos Agiou Neilou"
+          },
+          "coords": [
+            23.635703,
+            37.933779
+          ],
+          "category": "religious",
+          "arrive_at": "16:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Finden Sie Frieden in dieser wunderschön dekorierten Nachbarschaftskirche, einem versteckten Juwel byzantinischer Kunst, und zünden Sie eine Kerze an.",
+            "hu": "Találjon békét ebben a gyönyörűen díszített szomszédsági templomban, a bizánci stílusú művészet rejtett gyöngyszemében, és gyújtson gyertyát a bejárat közelében.",
+            "ro": "Găsiți liniște în această biserică de cartier frumos decorată, o bijuterie ascunsă a artei în stil bizantin, și aprindeți o lumânare lângă intrare.",
+            "en": "Find peace in this beautifully decorated neighborhood church, a hidden gem of Byzantine-style art, and light a candle near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            23.629943,
+            37.928703
+          ],
+          "category": "religious",
+          "arrive_at": "16:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Küstenlage der Kirche des Schutzpatrons der Seefahrer bei Sonnenuntergang und spazieren Sie anschließend an der Peiraiki-Promenade.",
+            "hu": "Élvezze a tengerészek védőszentjének templomának lenyűgöző tengerparti elhelyezkedését, amely tökéletes a naplementéhez, és sétáljon a szomszédos Peiraiki sétányon.",
+            "ro": "Admirați locația de coastă uimitoare a bisericii patronului marinarilor, perfectă pentru apus, și combinați vizita cu o plimbare pe promenada adiacentă Peiraiki.",
+            "en": "Take in the stunning coastal location of the sailors' patron saint church, perfect for sunset views, and combine your visit with a walk along the adjacent Peiraiki promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Eisenbahnmuseum und erkunden Sie alte Züge, bevor Sie zu den antiken Ruinen des Therpsithea-Platzes radeln. Mittags erreichen Sie das Archäologische Museum mit seinen atemberaubenden Bronzestatuen. Am Nachmittag führt die Fahrt zum beeindruckenden Maritimen Museum am Jachthafen. Gegen Abend radeln Sie vorbei an Agios Neilos bis zur Küstenkirche Agios Nikolaos.",
+        "hu": "Kezdje a kerékpáros túrát a Vasúti Múzeumban a régi vonatoknál, majd tekerjen a Therpsithea tér ókori romjaihoz. Délben a lenyűgöző bronzszobroknak otthont adó Régészeti Múzeumhoz érkezik. Délutáni útja a kikötő melletti impozáns Tengerészeti Múzeumhoz vezet. Kora este elteker Agios Neilos mellett, majd a gyönyörű part menti Agios Nikolaos templomnál zárja a napot.",
+        "ro": "Începeți călătoria cu bicicleta la Muzeul Căilor Ferate, apoi pedalați spre ruinele antice din Piața Therpsithea. La prânz ajungeți la Muzeul Arheologic, care adăpostește statui uimitoare de bronz. După-amiaza vă conduce la impresionantul Muzeu Maritim de lângă port. Când se lasă seara, treceți pe lângă Agios Neilos și terminați la frumoasa biserică de coastă Agios Nikolaos.",
+        "en": "Start your cycling journey at the Railway Museum, exploring vintage trains before pedaling to the ancient ruins of Therpsithea Square. Midday brings you to the Archaeological Museum, home to stunning bronze statues. Afternoon riding leads to the impressive Maritime Museum by the marina. As evening falls, cycle past Agios Neilos and finish at the beautiful coastal church of Agios Nikolaos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 6.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Athen",
+            "hu": "Athéni Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate din Atena",
+            "en": "Railway Museum Athens"
+          },
+          "coords": [
+            23.650651,
+            37.953547
+          ],
+          "category": "museum",
+          "arrive_at": "09:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise inmitten von historischen Lokomotiven und königlichen Waggons, die Griechenlands Eisenbahngeschichte dokumentieren, und tragen Sie bequeme Schuhe.",
+            "hu": "Lépjen vissza az időben a régi mozdonyok és királyi kocsik között, amelyek Görögország vasúti történetét mutatják be, és viseljen kényelmes cipőt a kocsik felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp printre locomotive de epocă și trăsuri regale care trasează istoria feroviară a Greciei și purtați pantofi confortabili pentru a explora vagoanele vechi.",
+            "en": "Step back in time among vintage locomotives and royal carriages that chart Greece's railway history, and wear comfortable shoes to explore the old train cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Galerie von Piräus",
+            "hu": "Pireuszi Városi Képtár",
+            "ro": "Galeria Municipală din Pireu",
+            "en": "Municipal Gallery of Piraeus"
+          },
+          "coords": [
+            23.646812,
+            37.945302
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung griechischer Gemälde und Bühnenbilder, die die lebendige Kunstszene von Piräus widerspiegeln, und achten Sie auf wechselnde Ausstellungen.",
+            "hu": "Fedezze fel a görög festmények és díszlettervek gazdag gyűjteményét, amely Pireusz élénk művészeti színterét tükrözi, és keresse az időszaki kiállításokat.",
+            "ro": "Descoperiți o colecție bogată de picturi și decoruri de scenă grecești, reflectând scena artistică vibrantă din Pireu, și verificați expozițiile temporare de la parter.",
+            "en": "Discover a rich collection of Greek paintings and stage designs, reflecting Piraeus's vibrant arts scene, and check for temporary exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Piräus",
+            "hu": "Pireuszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Pireu",
+            "en": "Archaeological Museum of Piraeus"
+          },
+          "coords": [
+            23.644215,
+            37.937138
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Begegnen Sie atemberaubenden Bronzestatuen von Athena und Apollo, die aus antiken Schiffswracks geborgen wurden, und beginnen Sie im obersten Stockwerk.",
+            "hu": "Találkozzon Athéné és Apolló lélegzetelállító bronzszobraival, amelyeket ősi hajóroncsokból mentettek ki, és kezdje a felső emeleten az időrendi sorrendért.",
+            "ro": "Întâlniți statui de bronz uluitoare ale Atenei și lui Apollo, recuperate din epave antice, și începeți de la etajul superior pentru o trecere cronologică.",
+            "en": "Encounter breathtaking bronze statues of Athena and Apollo, salvaged from ancient shipwrecks, and start on the upper floor for chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Wohnviertel der Römerzeit",
+            "hu": "Római kori lakótömb",
+            "ro": "Bloc rezidențial din perioada romană",
+            "en": "Residential block of the Roman period"
+          },
+          "coords": [
+            23.643237,
+            37.939031
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das Grundlayout eines antiken römischen Viertels, das inmitten moderner Gebäude erhalten blieb, und achten Sie auf die aufwendigen Mosaikböden.",
+            "hu": "Vizsgálja meg az ősi római negyed elrendezését, amely a modern épületek között maradt fenn, és figyelje meg a bonyolult mozaikpadló részleteit.",
+            "ro": "Examinați structura unui cartier roman antic păstrat printre clădirile moderne și căutați detaliile complicate ale podelelor cu mozaic.",
+            "en": "Examine the layout of an ancient Roman neighborhood preserved amid modern buildings, and look out for the intricate mosaic floor details."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritimes Museum von Griechenland",
+            "hu": "Görög Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim al Greciei",
+            "en": "Maritime Museum of Greece"
+          },
+          "coords": [
+            23.645967,
+            37.932696
+          ],
+          "category": "museum",
+          "arrive_at": "15:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Verfolgen Sie Jahrtausende der Marinegeschichte mit beeindruckenden Modellen von Trieren bis zu modernen Kriegsschiffen und genießen Sie draußen den Meerblick.",
+            "hu": "Kövesse nyomon a tengerészeti történelem évezredeit a gályáktól a modern hadihajókig lenyűgöző modellekkel, majd élvezze a tengerre nyíló kilátást kint.",
+            "ro": "Urmăriți mii de ani de istorie navală cu modele impresionante, de la trireme la nave de război moderne, și luați-vă un moment pentru a vă bucura de priveliștile mării.",
+            "en": "Trace thousands of years of naval history with impressive models from triremes to modern warships, and take a moment to enjoy the sea views outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Basileios",
+            "hu": "Agios Basileios",
+            "ro": "Agios Basileios",
+            "en": "Agios Basileios"
+          },
+          "coords": [
+            23.643007,
+            37.929678
+          ],
+          "category": "religious",
+          "arrive_at": "17:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schätzen Sie die ruhige Atmosphäre und die auffällige Ikonografie dieser wichtigen lokalen Pfarrkirche und genießen Sie den ruhigen Innenhof.",
+            "hu": "Értékelje e fontos helyi plébániatemplom nyugodt légkörét és lenyűgöző ikonográfiáját, majd élvezze a csendes udvart a forgalmas kikötő után.",
+            "ro": "Apreciați atmosfera senină și iconografia izbitoare a acestei importante biserici parohiale locale și bucurați-vă de curtea liniștită după ce ați explorat portul.",
+            "en": "Appreciate the serene atmosphere and striking iconography of this important local parish church, and enjoy the quiet courtyard after exploring the bustling port."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            23.629943,
+            37.928703
+          ],
+          "category": "religious",
+          "arrive_at": "18:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Küstenlage der Kirche des Schutzpatrons der Seefahrer bei Sonnenuntergang und spazieren Sie anschließend an der Peiraiki-Promenade.",
+            "hu": "Élvezze a tengerészek védőszentjének templomának lenyűgöző tengerparti elhelyezkedését, amely tökéletes a naplementéhez, és sétáljon a szomszédos Peiraiki sétányon.",
+            "ro": "Admirați locația de coastă uimitoare a bisericii patronului marinarilor, perfectă pentru apus, și combinați vizita cu o plimbare pe promenada adiacentă Peiraiki.",
+            "en": "Take in the stunning coastal location of the sailors' patron saint church, perfect for sunset views, and combine your visit with a walk along the adjacent Peiraiki promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum Eisenbahnmuseum für eine Zeitreise, bevor es weiter zur Städtischen Galerie mit griechischer Kunst geht. Am Mittag parken Sie in der Nähe des Archäologischen Museums und bewundern antike Bronzen und nahegelegene römische Ruinen. Den Nachmittag verbringen Sie mit Marinegeschichte im Maritimen Museum. Besuchen Sie abends Agios Basileios und den Sonnenuntergang bei Agios Nikolaos.",
+        "hu": "Vezessen először a Vasúti Múzeumhoz egy időutazásra, majd irány a Városi Képtár egy adag görög művészetért. Délben parkoljon le a Régészeti Múzeum közelében az ókori bronzok és a közeli római romok megtekintéséhez. A délutánt a Tengerészeti Múzeumban töltse. Este látogasson el az Agios Basileiosba, mielőtt az Agios Nikolaoshoz hajtana egy csodálatos naplementéért.",
+        "ro": "Conduceți mai întâi spre Muzeul Căilor Ferate pentru o întoarcere în timp, apoi mergeți la Galeria Municipală. La prânz, parcați lângă Muzeul Arheologic pentru a admira bronzurile antice și ruinele rezidențiale romane din apropiere. Petreceți după-amiaza descoperind istoria navală la Muzeul Maritim. Seara, vizitați Agios Basileios înainte de a conduce la Agios Nikolaos pentru apus.",
+        "en": "Drive first to the Railway Museum to step back in time, then head to the Municipal Gallery for a dose of Greek art. By midday, park near the Archaeological Museum to admire ancient bronzes and nearby Roman residential ruins. Spend the afternoon uncovering naval history at the Maritime Museum. In the evening, visit Agios Basileios before driving to Agios Nikolaos for a magnificent sunset."
+      }
+    }
+  }
+}

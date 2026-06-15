@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-ribeira-cha-cities-v2",
+  "anchor": {
+    "name": "Ribeira Chã",
+    "coords": [
+      -25.48751,
+      37.71962
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 3.54,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Pisão",
+            "hu": "Miradouro do Pisão",
+            "ro": "Miradouro do Pisão",
+            "en": "Miradouro do Pisão"
+          },
+          "coords": [
+            -25.494326,
+            37.714821
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden Küstenpanoramen von diesem erhöhten Aussichtspunkt, aber bringen Sie eine leichte Jacke mit, da die Meeresbrise frisch sein kann.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a magaslati kilátópontról, de hozzon magával egy könnyű kabátot, mert az óceáni szellő hűvös lehet.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere înalt, dar amintiți-vă să aduceți o jachetă subțire deoarece briza oceanului poate fi răcoroasă.",
+            "en": "Admire the breathtaking coastal panoramas from this elevated viewpoint, but remember to bring a light jacket as the ocean breeze can be unexpectedly brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento da Caloura",
+            "hu": "Convento da Caloura",
+            "ro": "Convento da Caloura",
+            "en": "Convento da Caloura"
+          },
+          "coords": [
+            -25.496876,
+            37.712265
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historisch bedeutsame Kloster am Meer, das von schwarzem Basalt umgeben ist, und tragen Sie feste Schuhe für die unebenen vulkanischen Wege.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős tengerparti kolostort a fekete bazaltsziklák között, és viseljen stabil cipőt az egyenetlen vulkáni utakon való sétához.",
+            "ro": "Explorați acest mănăstire pe malul mării înconjurată de rocă de bazalt negru și purtați încălțăminte robustă pentru a merge în siguranță pe potecile vulcanice inegale.",
+            "en": "Explore this historically significant seaside convent surrounded by black basalt rock, and be sure to wear sturdy shoes to navigate the uneven volcanic paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Água d'Alto",
+            "hu": "Praia Água d'Alto",
+            "ro": "Praia Água d'Alto",
+            "en": "Praia Água d'Alto"
+          },
+          "coords": [
+            -25.473432,
+            37.716729
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weiten, dunklen Vulkansand dieses beliebten Strandes und versuchen Sie, früh anzukommen, um sich vor dem Nachmittagsansturm einen guten Platz zu sichern.",
+            "hu": "Pihenjen meg ennek a népszerű strandnak a széles, vulkáni sötét homokján, és érkezzen korán, hogy jó helyet biztosítson magának a délutáni tömeg megjelenése előtt.",
+            "ro": "Relaxați-vă pe porțiunea largă de nisip vulcanic închis la culoare de la această plajă populară și încercați să ajungeți devreme pentru a prinde un loc bun.",
+            "en": "Relax on the wide stretch of volcanic dark sand at this popular beach, and try arriving early to secure a good spot before the afternoon crowds begin to gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Hidroeléctrica 1911",
+            "hu": "Central Hidroeléctrica 1911",
+            "ro": "Central Hidroeléctrica 1911",
+            "en": "Central Hidroeléctrica 1911"
+          },
+          "coords": [
+            -25.466929,
+            37.718969
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe der Azoren in diesem historischen Kraftwerk und achten Sie auf die noch perfekt erhaltenen Originalturbinen im Inneren.",
+            "hu": "Fedezze fel az Azori-szigetek lenyűgöző ipari örökségét ebben a történelmi erőműben, és figyelje meg a belső térben még mindig tökéletesen megőrzött eredeti turbinákat.",
+            "ro": "Descoperiți fascinanta moștenire industrială a Azorelor la această centrală electrică istorică și fiți atenți la turbinele originale încă perfect conservate în interior.",
+            "en": "Discover the fascinating industrial heritage of the Azores at this historic power plant, and keep an eye out for the original turbines still perfectly preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Pedreira",
+            "hu": "Praia da Pedreira",
+            "ro": "Praia da Pedreira",
+            "en": "Praia da Pedreira"
+          },
+          "coords": [
+            -25.463311,
+            37.715795
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre in dieser etwas abgelegeneren Sandbucht und packen Sie eigene Snacks ein, da es hier weniger Einrichtungen als an Hauptstränden gibt.",
+            "hu": "Élvezze a nyugodt légkört ebben a kissé eldugottabb homokos öbölben, és csomagoljon saját rágcsálnivalót, mivel a főbb strandokhoz képest itt kevesebb a létesítmény.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest golf cu nisip puțin mai retras și luați la dumneavoastră gustări deoarece există mai puține facilități aici.",
+            "en": "Enjoy the tranquil atmosphere at this slightly more secluded sandy cove, and pack your own snacks as there are fewer nearby facilities compared to the main beaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Miradouro do Pisão mit frischen Brisen, gefolgt vom historischen Convento da Caloura zwischen Basaltfelsen. Mittags machen Sie einen langen Spaziergang entlang der Küste zum weitläufigen, dunklen Sand der Praia Água d'Alto. Nachmittags entdecken Sie den industriellen Charme der Central Hidroeléctrica 1911 landeinwärts. Der Abend bringt friedliche Kontemplation, während Sie sich an den Wellen der Praia da Pedreira ausruhen.",
+        "hu": "A reggel a Miradouro do Pisão friss szellőjével indul, majd leereszkedik a bazaltsziklák között megbúvó Convento da Caloura történelmi falaihoz. A délidő egy hosszú tengerparti sétára hív a Praia Água d'Alto sötét homokjához. Délután kissé beljebb merészkedik, hogy felfedezze a Central Hidroeléctrica 1911 ipari báját. Az este békés elmélkedést hoz a Praia da Pedreira eldugott hullámainál pihenve.",
+        "ro": "Dimineața începe la Miradouro do Pisão cu brize proaspete, urmată de o coborâre la istoricul Convento da Caloura printre stânci de bazalt. Prânzul invită la o plimbare lungă de-a lungul coastei către nisipurile întunecate de la Praia Água d'Alto. După-amiaza vă duce ușor în interior pentru a descoperi farmecul industrial de la Central Hidroeléctrica 1911. Seara aduce o contemplare pașnică la valurile izolate de la Praia da Pedreira.",
+        "en": "Morning starts at Miradouro do Pisão with fresh breezes, followed by a descent to the historic Convento da Caloura nested among basalt rocks. Midday invites a long stroll along the coastline to the expansive dark sands of Praia Água d'Alto for relaxation. Afternoon takes you slightly inland to discover the industrial charm of the Central Hidroeléctrica 1911. Evening brings peaceful contemplation as you rest by the secluded waves of Praia da Pedreira."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 5.44,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora dos Anjos",
+            "hu": "Igreja de Nossa Senhora dos Anjos",
+            "ro": "Igreja de Nossa Senhora dos Anjos",
+            "en": "Igreja de Nossa Senhora dos Anjos"
+          },
+          "coords": [
+            -25.509196,
+            37.721264
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Azulejo-Fliesen und die religiöse Kunst in dieser örtlichen Kirche und verhalten Sie sich ruhig, da möglicherweise Gottesdienste stattfinden.",
+            "hu": "Csodálja meg a gyönyörű azulejo csempéket és a vallási művészetet ebben a helyi templomban, és viselkedjen csendesen, mivel az istentiszteletek folyamatban lehetnek.",
+            "ro": "Admirați frumoasele plăci de azulejo și arta religioasă din interiorul acestei biserici locale și păstrați o atitudine liniștită, deoarece ar putea avea loc slujbe.",
+            "en": "Marvel at the beautiful azulejo tiles and religious artistry within this local church, and maintain a quiet, respectful demeanor as services might be taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora do Monte Santo",
+            "hu": "Ermida de Nossa Senhora do Monte Santo",
+            "ro": "Ermida de Nossa Senhora do Monte Santo",
+            "en": "Ermida de Nossa Senhora do Monte Santo"
+          },
+          "coords": [
+            -25.509518,
+            37.719764
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, isolierte Einsiedelei für einen Moment der stillen Reflexion und fotografieren Sie den malerischen Kontrast zwischen den weißen Wänden und der grünen Landschaft.",
+            "hu": "Látogasson el ehhez a bájos, elszigetelt remetelakhoz egy kis csendes elmélkedésre, és örökítse meg a fehér falak és a buja zöld táj közötti festői kontrasztot.",
+            "ro": "Vizitați acest schit fermecător și izolat pentru un moment de reflecție liniștită și surprindeți contrastul pitoresc dintre pereții săi albi și peisajul verde luxuriant.",
+            "en": "Visit this charming, isolated hermitage for a moment of quiet reflection, and capture the picturesque contrast between its white walls and the lush green landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro Ponta da Galera II",
+            "hu": "Miradouro Ponta da Galera II",
+            "ro": "Miradouro Ponta da Galera II",
+            "en": "Miradouro Ponta da Galera II"
+          },
+          "coords": [
+            -25.511477,
+            37.709337
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean von diesem rauen Küstenpunkt aus und verwenden Sie ein polarisiertes Objektiv, um die blauen Farbtöne des Atlantiks einzufangen.",
+            "hu": "Gyönyörködjön a lenyűgöző óceáni kilátásban erről a zord tengerparti pontról, és használjon polarizált lencsét a mély atlanti víz kék árnyalatainak megörökítéséhez.",
+            "ro": "Admirați priveliștile ample ale oceanului din acest punct de coastă accidentat și folosiți o lentilă polarizată la aparat pentru a surprinde nuanțele albastre ale Atlanticului.",
+            "en": "Take in the sweeping ocean views from this rugged coastal point, and use a polarized lens on your camera to truly capture the striking blue hues of the deep Atlantic water."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento da Caloura",
+            "hu": "Convento da Caloura",
+            "ro": "Convento da Caloura",
+            "en": "Convento da Caloura"
+          },
+          "coords": [
+            -25.496876,
+            37.712265
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historisch bedeutsame Kloster am Meer, das von schwarzem Basalt umgeben ist, und tragen Sie feste Schuhe für die unebenen vulkanischen Wege.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős tengerparti kolostort a fekete bazaltsziklák között, és viseljen stabil cipőt az egyenetlen vulkáni utakon való sétához.",
+            "ro": "Explorați acest mănăstire pe malul mării înconjurată de rocă de bazalt negru și purtați încălțăminte robustă pentru a merge în siguranță pe potecile vulcanice inegale.",
+            "en": "Explore this historically significant seaside convent surrounded by black basalt rock, and be sure to wear sturdy shoes to navigate the uneven volcanic paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Pisão",
+            "hu": "Miradouro do Pisão",
+            "ro": "Miradouro do Pisão",
+            "en": "Miradouro do Pisão"
+          },
+          "coords": [
+            -25.494326,
+            37.714821
+          ],
+          "category": "natural",
+          "arrive_at": "12:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden Küstenpanoramen von diesem erhöhten Aussichtspunkt, aber bringen Sie eine leichte Jacke mit, da die Meeresbrise frisch sein kann.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a magaslati kilátópontról, de hozzon magával egy könnyű kabátot, mert az óceáni szellő hűvös lehet.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere înalt, dar amintiți-vă să aduceți o jachetă subțire deoarece briza oceanului poate fi răcoroasă.",
+            "en": "Admire the breathtaking coastal panoramas from this elevated viewpoint, but remember to bring a light jacket as the ocean breeze can be unexpectedly brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Água d'Alto",
+            "hu": "Praia Água d'Alto",
+            "ro": "Praia Água d'Alto",
+            "en": "Praia Água d'Alto"
+          },
+          "coords": [
+            -25.473432,
+            37.716729
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.81,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weiten, dunklen Vulkansand dieses beliebten Strandes und versuchen Sie, früh anzukommen, um sich vor dem Nachmittagsansturm einen guten Platz zu sichern.",
+            "hu": "Pihenjen meg ennek a népszerű strandnak a széles, vulkáni sötét homokján, és érkezzen korán, hogy jó helyet biztosítson magának a délutáni tömeg megjelenése előtt.",
+            "ro": "Relaxați-vă pe porțiunea largă de nisip vulcanic închis la culoare de la această plajă populară și încercați să ajungeți devreme pentru a prinde un loc bun.",
+            "en": "Relax on the wide stretch of volcanic dark sand at this popular beach, and try arriving early to secure a good spot before the afternoon crowds begin to gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Hidroeléctrica 1911",
+            "hu": "Central Hidroeléctrica 1911",
+            "ro": "Central Hidroeléctrica 1911",
+            "en": "Central Hidroeléctrica 1911"
+          },
+          "coords": [
+            -25.466929,
+            37.718969
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe der Azoren in diesem historischen Kraftwerk und achten Sie auf die noch perfekt erhaltenen Originalturbinen im Inneren.",
+            "hu": "Fedezze fel az Azori-szigetek lenyűgöző ipari örökségét ebben a történelmi erőműben, és figyelje meg a belső térben még mindig tökéletesen megőrzött eredeti turbinákat.",
+            "ro": "Descoperiți fascinanta moștenire industrială a Azorelor la această centrală electrică istorică și fiți atenți la turbinele originale încă perfect conservate în interior.",
+            "en": "Discover the fascinating industrial heritage of the Azores at this historic power plant, and keep an eye out for the original turbines still perfectly preserved inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Igreja de Nossa Senhora dos Anjos und besuchen Sie die nahe gelegene Ermida de N.S. do Monte Santo. Mittags radeln Sie zu den dramatischen Klippen des Miradouro Ponta da Galera II und dann zum Convento da Caloura. Nachmittags fahren Sie am Miradouro do Pisão vorbei zum Vulkansand der Praia Água d'Alto. Beenden Sie den Tag mit der faszinierenden Technik der Central Hidroeléctrica.",
+        "hu": "Kezdje a kerékpáros túrát az Igreja de Nossa Senhora dos Anjosnál, majd látogasson el a közeli Ermida de N.S. do Monte Santohoz. A déli pedálozás a Miradouro Ponta da Galera II drámai tengerparti szikláihoz, majd a Convento da Calourahoz visz. Délután guruljon el a Miradouro do Pisão mellett a Praia Água d'Alto vulkáni homokjához. A napot a Central Hidroeléctrica lenyűgöző gépeinek felfedezésével zárhatja.",
+        "ro": "Începeți traseul la Igreja de Nossa Senhora dos Anjos, absorbind atmosfera satului, înainte de a vizita Ermida de N.S. do Monte Santo. Pedalarea de prânz vă aduce la stâncile dramatice de la Miradouro Ponta da Galera II, apoi la Convento da Caloura. După-amiaza, treceți de Miradouro do Pisão spre nisipurile vulcanice de la Praia Água d'Alto. Încheiați ziua explorând mașinăriile de la Central Hidroeléctrica.",
+        "en": "Start your cycling route at Igreja de Nossa Senhora dos Anjos, absorbing the quiet village atmosphere before visiting the nearby Ermida de Nossa Senhora do Monte Santo. Midday pedaling brings you out to the dramatic coastal cliffs at Miradouro Ponta da Galera II, then down to Convento da Caloura. In the afternoon, sweep past Miradouro do Pisão for views before reaching the volcanic sands of Praia Água d'Alto. Finish the day exploring the fascinating machinery at Central Hidroeléctrica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:37",
+      "total_km": 7.35,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Fábrica da Cidade",
+            "hu": "Fábrica da Cidade",
+            "ro": "Fábrica da Cidade",
+            "en": "Fábrica da Cidade"
+          },
+          "coords": [
+            -25.468094,
+            37.730447
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses einst blühenden alten Fabrikgeländes und beachten Sie die verwitterten architektonischen Details, die einen Einblick in die Vergangenheit bieten.",
+            "hu": "Fedezze fel ennek az egykor virágzó régi gyártelepnek a maradványait, és figyelje meg az időjárás viszontagságait viselő építészeti részleteket a termékeny múltról.",
+            "ro": "Explorați rămășițele acestei vechi fabrici cândva înfloritoare și observați detaliile arhitecturale degradate care oferă o privire în trecutul productiv al regiunii.",
+            "en": "Explore the remnants of this once-thriving old factory site, and take note of the weathered architectural details that offer a glimpse into the region's productive past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica da Vila",
+            "hu": "Fábrica da Vila",
+            "ro": "Fábrica da Vila",
+            "en": "Fábrica da Vila"
+          },
+          "coords": [
+            -25.468321,
+            37.727801
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Tour des industriellen Erbes an diesem zweiten historischen Fabrikkomplex fort und bleiben Sie unbedingt auf markierten Wegen, da einige Ruinen instabil sind.",
+            "hu": "Folytassa az ipari örökség túráját ennél a második történelmi gyárkomplexumnál, és maradjon szigorúan a kijelölt utakon, mivel a romok egyes részei szerkezetileg instabilak.",
+            "ro": "Continuați turul patrimoniului industrial la acest al doilea complex istoric de fabrici și rămâneți strict pe potecile marcate deoarece unele secțiuni ale ruinelor sunt instabile.",
+            "en": "Continue your industrial heritage tour at this second historic factory complex, and stay strictly on marked paths as some sections of the ruins can be structurally unstable."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Hidroeléctrica 1911",
+            "hu": "Central Hidroeléctrica 1911",
+            "ro": "Central Hidroeléctrica 1911",
+            "en": "Central Hidroeléctrica 1911"
+          },
+          "coords": [
+            -25.466929,
+            37.718969
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe der Azoren in diesem historischen Kraftwerk und achten Sie auf die noch perfekt erhaltenen Originalturbinen im Inneren.",
+            "hu": "Fedezze fel az Azori-szigetek lenyűgöző ipari örökségét ebben a történelmi erőműben, és figyelje meg a belső térben még mindig tökéletesen megőrzött eredeti turbinákat.",
+            "ro": "Descoperiți fascinanta moștenire industrială a Azorelor la această centrală electrică istorică și fiți atenți la turbinele originale încă perfect conservate în interior.",
+            "en": "Discover the fascinating industrial heritage of the Azores at this historic power plant, and keep an eye out for the original turbines still perfectly preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Pedreira",
+            "hu": "Praia da Pedreira",
+            "ro": "Praia da Pedreira",
+            "en": "Praia da Pedreira"
+          },
+          "coords": [
+            -25.463311,
+            37.715795
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre in dieser etwas abgelegeneren Sandbucht und packen Sie eigene Snacks ein, da es hier weniger Einrichtungen als an Hauptstränden gibt.",
+            "hu": "Élvezze a nyugodt légkört ebben a kissé eldugottabb homokos öbölben, és csomagoljon saját rágcsálnivalót, mivel a főbb strandokhoz képest itt kevesebb a létesítmény.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest golf cu nisip puțin mai retras și luați la dumneavoastră gustări deoarece există mai puține facilități aici.",
+            "en": "Enjoy the tranquil atmosphere at this slightly more secluded sandy cove, and pack your own snacks as there are fewer nearby facilities compared to the main beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Água d'Alto",
+            "hu": "Praia Água d'Alto",
+            "ro": "Praia Água d'Alto",
+            "en": "Praia Água d'Alto"
+          },
+          "coords": [
+            -25.473432,
+            37.716729
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weiten, dunklen Vulkansand dieses beliebten Strandes und versuchen Sie, früh anzukommen, um sich vor dem Nachmittagsansturm einen guten Platz zu sichern.",
+            "hu": "Pihenjen meg ennek a népszerű strandnak a széles, vulkáni sötét homokján, és érkezzen korán, hogy jó helyet biztosítson magának a délutáni tömeg megjelenése előtt.",
+            "ro": "Relaxați-vă pe porțiunea largă de nisip vulcanic închis la culoare de la această plajă populară și încercați să ajungeți devreme pentru a prinde un loc bun.",
+            "en": "Relax on the wide stretch of volcanic dark sand at this popular beach, and try arriving early to secure a good spot before the afternoon crowds begin to gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Pisão",
+            "hu": "Miradouro do Pisão",
+            "ro": "Miradouro do Pisão",
+            "en": "Miradouro do Pisão"
+          },
+          "coords": [
+            -25.494326,
+            37.714821
+          ],
+          "category": "natural",
+          "arrive_at": "16:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden Küstenpanoramen von diesem erhöhten Aussichtspunkt, aber bringen Sie eine leichte Jacke mit, da die Meeresbrise frisch sein kann.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a magaslati kilátópontról, de hozzon magával egy könnyű kabátot, mert az óceáni szellő hűvös lehet.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere înalt, dar amintiți-vă să aduceți o jachetă subțire deoarece briza oceanului poate fi răcoroasă.",
+            "en": "Admire the breathtaking coastal panoramas from this elevated viewpoint, but remember to bring a light jacket as the ocean breeze can be unexpectedly brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento da Caloura",
+            "hu": "Convento da Caloura",
+            "ro": "Convento da Caloura",
+            "en": "Convento da Caloura"
+          },
+          "coords": [
+            -25.496876,
+            37.712265
+          ],
+          "category": "landmark",
+          "arrive_at": "16:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historisch bedeutsame Kloster am Meer, das von schwarzem Basalt umgeben ist, und tragen Sie feste Schuhe für die unebenen vulkanischen Wege.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős tengerparti kolostort a fekete bazaltsziklák között, és viseljen stabil cipőt az egyenetlen vulkáni utakon való sétához.",
+            "ro": "Explorați acest mănăstire pe malul mării înconjurată de rocă de bazalt negru și purtați încălțăminte robustă pentru a merge în siguranță pe potecile vulcanice inegale.",
+            "en": "Explore this historically significant seaside convent surrounded by black basalt rock, and be sure to wear sturdy shoes to navigate the uneven volcanic paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora do Monte Santo",
+            "hu": "Ermida de Nossa Senhora do Monte Santo",
+            "ro": "Ermida de Nossa Senhora do Monte Santo",
+            "en": "Ermida de Nossa Senhora do Monte Santo"
+          },
+          "coords": [
+            -25.509518,
+            37.719764
+          ],
+          "category": "religious",
+          "arrive_at": "17:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, isolierte Einsiedelei für einen Moment der stillen Reflexion und fotografieren Sie den malerischen Kontrast zwischen den weißen Wänden und der grünen Landschaft.",
+            "hu": "Látogasson el ehhez a bájos, elszigetelt remetelakhoz egy kis csendes elmélkedésre, és örökítse meg a fehér falak és a buja zöld táj közötti festői kontrasztot.",
+            "ro": "Vizitați acest schit fermecător și izolat pentru un moment de reflecție liniștită și surprindeți contrastul pitoresc dintre pereții săi albi și peisajul verde luxuriant.",
+            "en": "Visit this charming, isolated hermitage for a moment of quiet reflection, and capture the picturesque contrast between its white walls and the lush green landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro Ponta da Galera II",
+            "hu": "Miradouro Ponta da Galera II",
+            "ro": "Miradouro Ponta da Galera II",
+            "en": "Miradouro Ponta da Galera II"
+          },
+          "coords": [
+            -25.511477,
+            37.709337
+          ],
+          "category": "natural",
+          "arrive_at": "18:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean von diesem rauen Küstenpunkt aus und verwenden Sie ein polarisiertes Objektiv, um die blauen Farbtöne des Atlantiks einzufangen.",
+            "hu": "Gyönyörködjön a lenyűgöző óceáni kilátásban erről a zord tengerparti pontról, és használjon polarizált lencsét a mély atlanti víz kék árnyalatainak megörökítéséhez.",
+            "ro": "Admirați priveliștile ample ale oceanului din acest punct de coastă accidentat și folosiți o lentilă polarizată la aparat pentru a surprinde nuanțele albastre ale Atlanticului.",
+            "en": "Take in the sweeping ocean views from this rugged coastal point, and use a polarized lens on your camera to truly capture the striking blue hues of the deep Atlantic water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Landesinneren mit den industriellen Ruinen der Fábrica da Cidade und der Fábrica da Vila. Mittags wechseln Sie zur Central Hidroeléctrica 1911, gefolgt von einem sandigen Abstecher zur ruhigen Praia da Pedreira. Der Nachmittag ist der Praia Água d'Alto und den Aussichtspunkten Miradouro do Pisão und Caloura gewidmet. Der Abend endet mit spiritueller Gelassenheit an den westlichen Kapellen und der Ponta da Galera II.",
+        "hu": "Kezdje a szárazföld belsejében a Fábrica da Cidade és a Fábrica da Vila ipari romjaival. Délben térjen át a Central Hidroeléctrica 1911-re, majd egy rövid kitérőt tegyen a csendes Praia da Pedreirára. A délutánt a Praia Água d'Alto homokpadjainak és a Miradouro do Pisão kilátóinak szentelheti. Az este spirituális nyugalommal zárul a nyugati kápolnáknál és a Ponta da Galera II-nél.",
+        "ro": "Începeți explorând ruinele industriale de la Fábrica da Cidade și Fábrica da Vila. La prânz, treceți la Central Hidroeléctrica 1911, urmată de un scurt ocol nisipos la liniștita Praia da Pedreira. După-amiaza este dedicată plajei Praia Água d'Alto și punctelor de belvedere de la Miradouro do Pisão și Caloura. Seara se încheie cu seninătate spirituală la capelele vestice și Ponta da Galera II.",
+        "en": "Begin inland exploring the grand industrial ruins of Fábrica da Cidade and Fábrica da Vila, imagining the bustling past of the region. By midday, shift gears to the well-preserved Central Hidroeléctrica 1911, followed by a brief sandy detour at the quiet Praia da Pedreira. The afternoon is dedicated to the vast, popular stretches of Praia Água d'Alto and the scenic overlooks at Miradouro do Pisão and Caloura. The evening concludes with spiritual serenity at the western chapels and Ponta da Galera II."
+      }
+    }
+  }
+}

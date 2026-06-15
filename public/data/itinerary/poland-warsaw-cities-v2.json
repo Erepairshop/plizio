@@ -1,0 +1,451 @@
+{
+  "city_id": "poland-warsaw-cities-v2",
+  "anchor": {
+    "name": "Warsaw",
+    "coords": [
+      21.0122,
+      52.2297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sigismundssäule",
+            "hu": "Zsigmond-oszlop",
+            "ro": "Coloana lui Sigismund",
+            "en": "Sigismund's Column"
+          },
+          "coords": [
+            21.013389,
+            52.24725
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Denkmal aus dem 17. Jahrhundert, das den Zweiten Weltkrieg überstand, und machen Sie am frühen Morgen ein schnelles Foto, bevor die Menschenmassen den Schlossplatz stürmen.",
+            "hu": "Csodálja meg a 17. századi emlékművet, amely túlélte a második világháborút, és készítsen egy gyors fotót kora reggel, mielőtt a tömeg elárasztaná a Várteret.",
+            "ro": "Admirați acest monument iconic din secolul al XVII-lea care a supraviețuit celui de-al Doilea Război Mondial și faceți o fotografie rapidă dimineața devreme, înainte ca mulțimile să asalteze Piața Castelului.",
+            "en": "Admire this iconic 17th-century monument that survived WWII, and grab a quick photo early in the morning before the crowds swarm the Castle Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsschloss",
+            "hu": "Királyi Vár",
+            "ro": "Castelul Regal",
+            "en": "Royal Castle"
+          },
+          "coords": [
+            21.014167,
+            52.247778
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschön rekonstruierten königlichen Gemächer, um Polens königliche Geschichte zu verstehen, aber buchen Sie Ihre Tickets unbedingt im Voraus online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a gyönyörűen újjáépített királyi lakosztályokat, hogy megismerje Lengyelország királyi történelmét, de a hosszú sorok elkerülése érdekében mindenképpen foglalja le jegyeit előre online.",
+            "ro": "Explorați apartamentele regale frumos reconstruite pentru a înțelege istoria regală a Poloniei, dar asigurați-vă că rezervați biletele online în avans pentru a evita cozile lungi.",
+            "en": "Explore the beautifully reconstructed royal apartments to understand Poland's royal history, but make sure to book your tickets online in advance to skip the long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadtmarkt",
+            "hu": "Óvárosi piactér",
+            "ro": "Piața Orașului Vechi",
+            "en": "Old Town Market Square"
+          },
+          "coords": [
+            21.0122,
+            52.2497
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses lebendige, akribisch wiederaufgebaute historische Zentrum mit der berühmten Meerjungfrauenstatue und machen Sie in einem Eckcafé Halt, um einen traditionellen polnischen Paczek zu genießen.",
+            "hu": "Sétáljon végig ezen a nyüzsgő, aprólékosan újjáépített történelmi központon, ahol a híres Sellő-szobor áll, és tartson egy kis szünetet egy sarki kávézóban, hogy megkóstoljon egy hagyományos lengyel fánkot.",
+            "ro": "Plimbați-vă prin acest centru istoric vibrant, reconstruit cu meticulozitate, care găzduiește faimoasa Statuie a Sirenei, și opriți-vă la o cafenea de pe colț pentru a savura un paczek tradițional polonez.",
+            "en": "Stroll through this vibrant, meticulously rebuilt historic center featuring the famous Mermaid Statue, and pause at a corner café to enjoy a traditional Polish paczek."
+          }
+        },
+        {
+          "name": {
+            "de": "Sächsischer Garten",
+            "hu": "Szász Kert",
+            "ro": "Grădina Saxonă",
+            "en": "Saxon Garden"
+          },
+          "coords": [
+            21.008611,
+            52.240556
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am eleganten Brunnen aus dem 19. Jahrhundert in einem der ältesten öffentlichen Parks Warschaus und verpassen Sie nicht den feierlichen Wachwechsel am nahe gelegenen Grabmal des Unbekannten Soldaten.",
+            "hu": "Pihenjen a 19. századi elegáns szökőkút mellett Varsó egyik legrégebbi közparkjában, és ne hagyja ki az ünnepélyes őrségváltást a közeli Ismeretlen Katona Sírjánál.",
+            "ro": "Relaxați-vă la eleganta fântână din secolul al XIX-lea în unul dintre cele mai vechi parcuri publice din Varșovia și nu ratați schimbarea solemnă a gărzii la Mormântul Soldatului Necunoscut din apropiere.",
+            "en": "Relax by the elegant 19th-century fountain in one of Warsaw's oldest public parks, and be sure to witness the solemn changing of the guard at the nearby Tomb of the Unknown Soldier."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuzkirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Holy Cross Church"
+          },
+          "coords": [
+            21.016667,
+            52.238611
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese atemberaubende Barockkirche, in der das Herz von Frédéric Chopin in einer Säule ruht, und schauen Sie sich die Informationstafeln genau an, um mehr über ihre Zerstörung im Krieg zu erfahren.",
+            "hu": "Látogasson el ebbe a lenyűgöző barokk templomba, ahol Frédéric Chopin szíve nyugszik egy oszlopban, és figyelje meg az információs táblákat, hogy megismerje a háborús pusztítás részleteit.",
+            "ro": "Vizitați această uimitoare biserică barocă unde inima lui Frédéric Chopin se odihnește într-un stâlp și citiți cu atenție plăcile informative pentru a afla despre distrugerea ei în timpul războiului.",
+            "en": "Visit this stunning baroque church where Frédéric Chopin's heart is resting in a pillar, and look closely at the informational plaques to learn about its wartime destruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur- und Wissenschaftspalast",
+            "hu": "Kultúra és Tudomány Palotája",
+            "ro": "Palatul Culturii și Științei",
+            "en": "Palace of Culture and Science"
+          },
+          "coords": [
+            21.006389,
+            52.231667
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "13:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Schnellaufzug zur Aussichtsplattform in der 30. Etage dieses umstrittenen Wolkenkratzers aus der Sowjetzeit, um einen atemberaubenden Panoramablick auf die Stadt bei Sonnenuntergang zu genießen.",
+            "hu": "Menjen fel a gyorslifttel ezen az ellentmondásos szovjet korabeli felhőkarcoló 30. emeleti kilátójára, ahonnan naplementekor lélegzetelállító panoráma nyílik az egész városra.",
+            "ro": "Luați liftul de mare viteză până la puntea de observație de la etajul 30 al acestui controversat zgârie-nori din era sovietică pentru a admira o priveliște panoramică uluitoare a orașului la apus.",
+            "en": "Take the high-speed elevator to the 30th-floor observation deck of this controversial Soviet-era skyscraper for breathtaking panoramic views of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Durchquerung des historischen Herzens von Warschau, von der Sigismundssäule bis zum detailgetreu wiederaufgebauten Königsschloss.\nMittags schlendern Sie über den charmanten Altstadtmarkt, bevor Sie einen entspannten Spaziergang zu den üppigen Grünflächen und Brunnen des Sächsischen Gartens unternehmen.\nHalten Sie am Nachmittag an der Heiligkreuzkirche inne und bewundern Sie ihre atemberaubende barocke Architektur und tiefe kulturelle Bedeutung.\nBeenden Sie Ihre Tour bei Sonnenuntergang am majestätischen Kultur- und Wissenschaftspalast und genießen Sie den Panoramablick über die Skyline der Stadt.",
+        "hu": "Kezdje a reggelt Varsó történelmi szívének felfedezésével, a magasodó Zsigmond-oszlopoktól a gondosan újjáépített Királyi Várig sétálva.\nDélben átsétál a hangulatos Óváros piacterén, majd a Szász Kert buja növényzete és hűsítő szökőkútjai felé veszi az irányt egy kis pihenésre.\nDélután tartson egy kis szünetet a Szent Kereszt templomnál, megcsodálva annak lenyűgöző barokk építészetét és mély kulturális jelentőségét.\nGyalogtúráját a Kultúra és Tudomány Palotájából nyíló naplemente megtekintésével zárja, ahonnan csodálatos panoráma nyílik a városra.",
+        "ro": "Începeți dimineața traversând inima istorică a Varșoviei, de la impunătoarea Coloană a lui Sigismund până la Castelul Regal, reconstruit cu o atenție meticuloasă.\nLa prânz veți explora fermecătoarea Piață a Orașului Vechi, înainte de o plimbare relaxantă spre verdeața luxuriantă și fântânile superbe din Grădina Saxonă.\nDupă-amiaza, opriți-vă pentru un moment de reflecție la Biserica Sfânta Cruce, admirând arhitectura sa barocă și semnificația culturală profundă.\nÎncheiați turul la pas admirând apusul de la Palatul Culturii și Științei, bucurându-vă de o vedere panoramică absolut uimitoare asupra orașului.",
+        "en": "Start your morning traversing the historic heart of Warsaw, from the towering Sigismund's Column to the meticulously rebuilt Royal Castle.\nMidday brings you through the charming Old Town Market Square before a relaxing stroll towards the lush greenery and fountains of the Saxon Garden.\nIn the afternoon, pause for reflection at the Holy Cross Church, admiring its stunning baroque architecture and profound cultural significance.\nConclude your walking tour by witnessing the sunset from the towering Palace of Culture and Science, enjoying panoramic views over the city skyline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "POLIN-Museum",
+            "hu": "POLIN Múzeum",
+            "ro": "Muzeul POLIN",
+            "en": "POLIN Museum"
+          },
+          "coords": [
+            20.993056,
+            52.249444
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein Jahrtausend jüdischer Geschichte in Polen durch tief bewegende interaktive Ausstellungen und planen Sie mindestens zwei Stunden hier ein, da die schiere Menge an Informationen immens ist.",
+            "hu": "Fedezze fel a lengyelországi zsidó történelem évezredes múltját a mélyen megérintő interaktív kiállításokon keresztül, és tervezzen ide legalább két órát, mivel az információs anyag hatalmas.",
+            "ro": "Descoperiți un mileniu de istorie evreiască în Polonia prin expoziții interactive profund emoționante și alocați cel puțin două ore aici, deoarece volumul de informații este cu adevărat imens.",
+            "en": "Discover a millennium of Jewish history in Poland through deeply moving interactive exhibits, and plan for at least two hours here as the sheer volume of information is immense."
+          }
+        },
+        {
+          "name": {
+            "de": "Sächsischer Garten",
+            "hu": "Szász Kert",
+            "ro": "Grădina Saxonă",
+            "en": "Saxon Garden"
+          },
+          "coords": [
+            21.008611,
+            52.240556
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am eleganten Brunnen aus dem 19. Jahrhundert in einem der ältesten öffentlichen Parks Warschaus und verpassen Sie nicht den feierlichen Wachwechsel am nahe gelegenen Grabmal des Unbekannten Soldaten.",
+            "hu": "Pihenjen a 19. századi elegáns szökőkút mellett Varsó egyik legrégebbi közparkjában, és ne hagyja ki az ünnepélyes őrségváltást a közeli Ismeretlen Katona Sírjánál.",
+            "ro": "Relaxați-vă la eleganta fântână din secolul al XIX-lea în unul dintre cele mai vechi parcuri publice din Varșovia și nu ratați schimbarea solemnă a gărzii la Mormântul Soldatului Necunoscut din apropiere.",
+            "en": "Relax by the elegant 19th-century fountain in one of Warsaw's oldest public parks, and be sure to witness the solemn changing of the guard at the nearby Tomb of the Unknown Soldier."
+          }
+        },
+        {
+          "name": {
+            "de": "Kopernikus-Wissenschaftszentrum",
+            "hu": "Kopernikusz Tudományos Központ",
+            "ro": "Centrul de Știință Copernic",
+            "en": "Copernicus Science Centre"
+          },
+          "coords": [
+            21.028333,
+            52.241944
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Begeistern Sie Ihren Geist mit Hunderten von interaktiven wissenschaftlichen Ausstellungen, die perfekt für Familien geeignet sind, aber kommen Sie früh oder buchen Sie online, da es am Wochenende außergewöhnlich voll wird.",
+            "hu": "Tornáztassa meg elméjét a családok számára tökéletes, interaktív tudományos kiállításokon, de érkezzen korán, vagy foglaljon előre online, mert hétvégén kivételesen nagy lehet a tömeg.",
+            "ro": "Antrenați-vă mintea cu sute de expoziții științifice interactive, perfecte pentru familii, dar ajungeți devreme sau rezervați online, deoarece la sfârșit de săptămână este extrem de aglomerat.",
+            "en": "Engage your mind with hundreds of interactive scientific exhibits perfectly suited for families, but arrive early or book online because it gets exceptionally crowded on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Poniatówka",
+            "hu": "Poniatówka",
+            "ro": "Poniatówka",
+            "en": "Poniatówka"
+          },
+          "coords": [
+            21.042015,
+            52.236728
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem natürlichen Sandstrand entlang der Weichsel mit fantastischem Blick auf das Nationalstadion und bringen Sie ein kleines Picknick mit, um die entspannte lokale Atmosphäre zu genießen.",
+            "hu": "Kapcsolódjon ki ezen a természetes homokos tengerparton a Visztula folyó mentén, ahonnan fantasztikus kilátás nyílik a Nemzeti Stadionra, és hozzon magával egy kis piknikkosarat a laza helyi hangulat élvezetéhez.",
+            "ro": "Relaxați-vă pe această plajă naturală de nisip de-a lungul râului Vistula, cu vederi fantastice la Stadionul Național, și aduceți un mic picnic pentru a vă bucura de atmosfera locală relaxată.",
+            "en": "Unwind on this natural sandy beach along the Vistula River with fantastic views of the National Stadium, and bring a small picnic to enjoy the relaxed local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Łazienki-Park",
+            "hu": "Łazienki Park",
+            "ro": "Parcul Łazienki",
+            "en": "Łazienki Park"
+          },
+          "coords": [
+            21.032778,
+            52.212778
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie inmitten freilaufender Pfaue und atemberaubender Paläste im größten Park Warschaus und versuchen Sie, an einem Sonntagnachmittag im Sommer ein kostenloses Chopin-Klavierkonzert zu erleben.",
+            "hu": "Sétáljon a szabadon kószáló pávák és lenyűgöző paloták között Varsó legnagyobb parkjában, és nyáron próbálja vasárnap délutánra időzíteni a látogatást egy ingyenes, élő Chopin zongorakoncert kedvéért.",
+            "ro": "Plimbați-vă printre păunii liberi și palatele uimitoare din cel mai mare parc al Varșoviei și încercați să vizitați într-o după-amiază de duminică de vară pentru a asista la un concert gratuit de pian Chopin.",
+            "en": "Wander among roaming peacocks and stunning palaces in Warsaw's grandest park, and try to visit on a Sunday summer afternoon to catch a free live Chopin piano concert."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am POLIN-Museum und tauchen Sie tief in die Geschichte ein, bevor Sie zu den eleganten Wegen des Sächsischen Gartens radeln.\nFahren Sie gegen Mittag entspannt zum Flussufer hinunter, um die interaktiven Wunder des Kopernikus-Wissenschaftszentrums zu erkunden.\nGenießen Sie am Nachmittag die Brise entlang der Weichsel und machen Sie eine wohlverdiente Pause an den Sandstränden von Poniatówka.\nBeenden Sie Ihren aktiven Tag mit einer Fahrt zum weitläufigen Łazienki-Park, wo prächtige Paläste und freilaufende Pfaue für eine ruhige Abendstimmung sorgen.",
+        "hu": "Indítsa kerékpáros napját a POLIN Múzeumnál, elmerülve a történelemben, mielőtt a Szász Kert elegáns ösvényei felé pedálozna.\nDél körül tekerjen le kényelmesen a folyópartra, hogy felfedezze a Kopernikusz Tudományos Központ interaktív csodáit.\nDélután élvezze a Visztula folyó felől fújó hűs szellőt, és tartson egy jól megérdemelt pihenőt a Poniatówka homokos partjain.\nFejezze be aktív napját a hatalmas Łazienki Parkban, ahol a csodálatos paloták és a szabadon kószáló pávák tökéletes esti nyugalmat árasztanak.",
+        "ro": "Începeți ziua de ciclism la Muzeul POLIN, explorând istoria înainte de a pedala spre aleile elegante și pline de farmec ale Grădinii Saxone.\nÎn jurul prânzului, coborâți lin spre malul râului pentru a descoperi minunile interactive oferite de Centrul de Știință Copernic.\nBucurați-vă de briza după-amiezii de-a lungul râului Vistula, luând o pauză binemeritată pe întinderile de nisip de la plaja Poniatówka.\nÎncheiați-vă ziua activă pedalând spre vastul Parc Łazienki, unde palatele grandioase și păunii creează un cadru de seară perfect și senin.",
+        "en": "Kick off your cycling day at the POLIN Museum, diving deep into history before pedaling towards the elegant pathways of the Saxon Garden.\nAround noon, ride smoothly down to the riverside to explore the interactive wonders of the Copernicus Science Centre.\nEnjoy the afternoon breeze along the Vistula River, taking a well-deserved break on the sandy stretches of the Poniatówka beach.\nFinish your active day by cycling to the expansive Łazienki Park, where grand palaces and roaming peacocks create a perfectly serene evening setting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 14.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wilanów-Palast",
+            "hu": "Wilanów-palota",
+            "ro": "Palatul Wilanów",
+            "en": "Wilanów Palace"
+          },
+          "coords": [
+            21.090278,
+            52.165278
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in diesem prächtigen 'polnischen Versailles', das von formalen Gärten umgeben ist, in das 17. Jahrhundert zurück und überprüfen Sie den Zeitplan für abendliche Lichtshows während der Wintersaison.",
+            "hu": "Lépjen vissza a 17. századba ezen a csodálatos „lengyel Versailles-on”, amelyet formális kertek vesznek körül, és a téli szezonban mindenképpen ellenőrizze az esti fényshow-k menetrendjét.",
+            "ro": "Întoarceți-vă în secolul al XVII-lea la acest magnific 'Versailles polonez' înconjurat de grădini formale și verificați programul pentru spectacolele de lumini de seară din timpul sezonului de iarnă.",
+            "en": "Step back into the 17th century at this magnificent 'Polish Versailles' surrounded by formal gardens, and check the schedule for evening light shows during the winter season."
+          }
+        },
+        {
+          "name": {
+            "de": "Łazienki-Park",
+            "hu": "Łazienki Park",
+            "ro": "Parcul Łazienki",
+            "en": "Łazienki Park"
+          },
+          "coords": [
+            21.032778,
+            52.212778
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Wandern Sie inmitten freilaufender Pfaue und atemberaubender Paläste im größten Park Warschaus und versuchen Sie, an einem Sonntagnachmittag im Sommer ein kostenloses Chopin-Klavierkonzert zu erleben.",
+            "hu": "Sétáljon a szabadon kószáló pávák és lenyűgöző paloták között Varsó legnagyobb parkjában, és nyáron próbálja vasárnap délutánra időzíteni a látogatást egy ingyenes, élő Chopin zongorakoncert kedvéért.",
+            "ro": "Plimbați-vă printre păunii liberi și palatele uimitoare din cel mai mare parc al Varșoviei și încercați să vizitați într-o după-amiază de duminică de vară pentru a asista la un concert gratuit de pian Chopin.",
+            "en": "Wander among roaming peacocks and stunning palaces in Warsaw's grandest park, and try to visit on a Sunday summer afternoon to catch a free live Chopin piano concert."
+          }
+        },
+        {
+          "name": {
+            "de": "Chopin-Denkmal",
+            "hu": "Chopin-emlékmű",
+            "ro": "Monumentul Chopin",
+            "en": "Chopin Monument"
+          },
+          "coords": [
+            21.028056,
+            52.214722
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese markante modernistische Bronzeskulptur, die Polens größtem Komponisten gewidmet ist und als dramatische Kulisse für die beliebte Sommerkonzertreihe der Stadt dient.",
+            "hu": "Csodálja meg ezt a feltűnő, modernista bronzszobrot, amelyet Lengyelország legnagyobb zeneszerzőjének szenteltek, és amely a város kedvelt nyári koncertsorozatának drámai hátteréül szolgál.",
+            "ro": "Admirați această sculptură impresionantă din bronz modernist dedicată celui mai mare compozitor al Poloniei, care servește drept fundal dramatic pentru seria de concerte de vară mult iubită a orașului.",
+            "en": "Admire this striking modernist bronze sculpture dedicated to Poland's greatest composer, which serves as the dramatic backdrop for the city's beloved summer concert series."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Warschauer Aufstands",
+            "hu": "Varsói Felkelés Múzeuma",
+            "ro": "Muzeul Revoltei din Varșovia",
+            "en": "Warsaw Uprising Museum"
+          },
+          "coords": [
+            20.980833,
+            52.232222
+          ],
+          "category": "museums",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch eindringliche Ausstellungen in die erschütternde, aber inspirierende Geschichte der Rebellion von 1944 ein und schnappen Sie sich einen Audioguide, um den Mut des lokalen Widerstands voll und ganz zu erfassen.",
+            "hu": "Merüljön el az 1944-es felkelés megrázó, mégis inspiráló történetében a zsigeri kiállításokon keresztül, és béreljen egy audioguide-ot a helyi ellenállás bátorságának teljes megértéséhez.",
+            "ro": "Scufundați-vă în istoria sfâșietoare, dar inspiratoare a rebeliunii din 1944, prin expoziții viscerale, și luați un ghid audio pentru a înțelege pe deplin curajul rezistenței locale.",
+            "en": "Immerse yourself in the harrowing yet inspiring history of the 1944 rebellion through visceral exhibits, and grab an audio guide to fully grasp the courage of the local resistance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur- und Wissenschaftspalast",
+            "hu": "Kultúra és Tudomány Palotája",
+            "ro": "Palatul Culturii și Științei",
+            "en": "Palace of Culture and Science"
+          },
+          "coords": [
+            21.006389,
+            52.231667
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Schnellaufzug zur Aussichtsplattform in der 30. Etage dieses umstrittenen Wolkenkratzers aus der Sowjetzeit, um einen atemberaubenden Panoramablick auf die Stadt bei Sonnenuntergang zu genießen.",
+            "hu": "Menjen fel a gyorslifttel ezen az ellentmondásos szovjet korabeli felhőkarcoló 30. emeleti kilátójára, ahonnan naplementekor lélegzetelállító panoráma nyílik az egész városra.",
+            "ro": "Luați liftul de mare viteză până la puntea de observație de la etajul 30 al acestui controversat zgârie-nori din era sovietică pentru a admira o priveliște panoramică uluitoare a orașului la apus.",
+            "en": "Take the high-speed elevator to the 30th-floor observation deck of this controversial Soviet-era skyscraper for breathtaking panoramic views of the city at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "POLIN-Museum",
+            "hu": "POLIN Múzeum",
+            "ro": "Muzeul POLIN",
+            "en": "POLIN Museum"
+          },
+          "coords": [
+            20.993056,
+            52.249444
+          ],
+          "category": "museums",
+          "arrive_at": "15:33",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein Jahrtausend jüdischer Geschichte in Polen durch tief bewegende interaktive Ausstellungen und planen Sie mindestens zwei Stunden hier ein, da die schiere Menge an Informationen immens ist.",
+            "hu": "Fedezze fel a lengyelországi zsidó történelem évezredes múltját a mélyen megérintő interaktív kiállításokon keresztül, és tervezzen ide legalább két órát, mivel az információs anyag hatalmas.",
+            "ro": "Descoperiți un mileniu de istorie evreiască în Polonia prin expoziții interactive profund emoționante și alocați cel puțin două ore aici, deoarece volumul de informații este cu adevărat imens.",
+            "en": "Discover a millennium of Jewish history in Poland through deeply moving interactive exhibits, and plan for at least two hours here as the sheer volume of information is immense."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am atemberaubenden Wilanów-Palast, einem königlichen Juwel, das perfekt für eine morgendliche Erkundung seiner prächtigen Gärten ist.\nFahren Sie zügig zurück in Richtung Stadtzentrum und halten Sie an, um die üppigen Landschaften des Łazienki-Parks und das Chopin-Denkmal zu bewundern.\nAm Nachmittag fahren Sie zum Museum des Warschauer Aufstands für eine historische Reise, gefolgt von einem Stopp am kolossalen Kulturpalast.\nBeenden Sie Ihre umfassende Stadtrundfahrt am POLIN-Museum und reflektieren Sie über das jahrhundertealte Erbe, bevor Sie zu einem traditionellen Abendessen aufbrechen.",
+        "hu": "A festői autózás a lélegzetelállító Wilanów-palotánál kezdődik, amely egy igazi királyi ékszerdoboz, és tökéletes a pompás kertek reggeli felfedezéséhez.\nVezessen vissza a városközpont felé, útközben megállva, hogy megcsodálja a Łazienki Park buja tájait és az ikonikus Chopin-emlékművet.\nDélután induljon a Varsói Felkelés Múzeumába egy megrendítő történelmi utazásra, majd tegyen egy gyors kitérőt a kolosszális Kultúrpalotához.\nZárja átfogó városnézését a POLIN Múzeumnál, elgondolkodva az évszázados örökségen, mielőtt egy hagyományos lengyel vacsorára indulna.",
+        "ro": "Călătoria dumneavoastră pitorească începe la uluitorul Palat Wilanów, o bijuterie regală perfectă pentru a explora grădinile sale magnifice dimineața.\nConduceți rapid înapoi spre centrul orașului, oprindu-vă pentru a admira peisajele luxuriante din Parcul Łazienki și emblematicul Monument Chopin.\nDupă-amiaza, mergeți la Muzeul Revoltei din Varșovia pentru o călătorie istorică emoționantă, urmată de o oprire la colosalul Palat al Culturii.\nÎncheiați-vă turul extins al orașului la Muzeul POLIN, reflectând asupra secolelor de moștenire culturală înainte de a ieși la o cină tradițională poloneză.",
+        "en": "Your scenic drive begins at the breathtaking Wilanów Palace, a royal gem perfectly suited for a leisurely morning exploring its magnificent gardens.\nDrive swiftly back towards the city center, stopping to admire the lush landscapes of Łazienki Park and the iconic Chopin Monument.\nIn the afternoon, head west to the Warsaw Uprising Museum for a poignant historical journey, followed by a quick stop at the colossal Palace of Culture.\nConclude your comprehensive city tour at the POLIN Museum, reflecting on centuries of heritage before heading out for a traditional Polish dinner."
+      }
+    }
+  }
+}

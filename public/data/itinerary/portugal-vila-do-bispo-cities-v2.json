@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-vila-do-bispo-cities-v2",
+  "anchor": {
+    "name": "Vila do Bispo",
+    "coords": [
+      -8.90961,
+      37.08298
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Matriz de Nossa Senhora da Conceição",
+            "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+            "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+            "en": "Igreja Matriz de Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.908881,
+            37.082574
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden blau-weißen Azulejo-Kacheln in dieser historischen Kirche, die Portugals maritimes Erbe widerspiegeln, und besuchen Sie sie zur Morgenmesse.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző kék-fehér azulejo csempéit, amelyek gyönyörűen tükrözik Portugália tengeri örökségét, és próbálja meg a reggeli mise idején meglátogatni.",
+            "ro": "Admirați uimitoarele plăci azulejo alb-albastre din interiorul acestei biserici istorice, care reflectă perfect moștenirea maritimă a Portugaliei, și vizitați-o dimineața.",
+            "en": "Admire the stunning blue-and-white azulejo tiles inside this historic church, which beautifully reflect Portugal's maritime heritage, and try to visit during morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural",
+            "hu": "Centro Cultural",
+            "ro": "Centro Cultural",
+            "en": "Centro Cultural"
+          },
+          "coords": [
+            -8.912676,
+            37.08141
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunstausstellungen und kulturelle Veranstaltungen in diesem pulsierenden Zentrum, dessen Programm Sie am besten vorab auf dem Schwarzen Brett überprüfen.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat és kulturális eseményeket ebben a nyüzsgő központban, amely a város kreatív csomópontja, ezért érdemes ellenőrizni a napi programot.",
+            "ro": "Explorați expozițiile de artă locale și evenimentele culturale din acest centru vibrant, așa că verificați programul zilnic pe panoul informativ înainte de a vă planifica ziua.",
+            "en": "Explore local art exhibitions and cultural events in this vibrant center that serves as the town's creative hub, so check their daily schedule on the notice board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Vila do Bispo",
+            "hu": "Museo de Vila do Bispo",
+            "ro": "Museo de Vila do Bispo",
+            "en": "Museo de Vila do Bispo"
+          },
+          "coords": [
+            -8.911317,
+            37.085655
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische und maritime Geschichte der Region anhand faszinierender Artefakte und fragen Sie das freundliche Personal nach einem Audioguide.",
+            "hu": "Fedezze fel a régió gazdag régészeti és tengerészeti történelmét a helyi leleteken keresztül ebben a modern múzeumban, és kérjen ingyenes audioguide-ot a személyzettől.",
+            "ro": "Descoperiți istoria maritimă și arheologică a regiunii prin artefacte locale fascinante în acest muzeu modern și cereți personalului amabil un ghid audio gratuit la intrare.",
+            "en": "Discover the region's rich archaeological and maritime history through fascinating local artifacts in this modern museum, and make sure to ask the friendly staff for an audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir da Casa do Francês",
+            "hu": "Menir da Casa do Francês",
+            "ro": "Menir da Casa do Francês",
+            "en": "Menir da Casa do Francês"
+          },
+          "coords": [
+            -8.917949,
+            37.069374
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten stehenden Stein, der die prähistorische Präsenz an der Algarve bezeugt, und tragen Sie feste Schuhe, da das umliegende Gelände steinig ist.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a történelem előtti emberi jelenlétről tanúskodik Algarve-ban, és viseljen túracipőt, mivel a környező terep egyenetlen és sziklás.",
+            "ro": "Minunați-vă de această piatră străveche care atestă prezența umană preistorică în Algarve și purtați pantofi de drumeție rezistenți, deoarece terenul înconjurător este neregulat.",
+            "en": "Marvel at this ancient standing stone that silently testifies to prehistoric human presence in the Algarve, and wear sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromeleque de Amantes I",
+            "hu": "Cromeleque de Amantes I",
+            "ro": "Cromeleque de Amantes I",
+            "en": "Cromeleque de Amantes I"
+          },
+          "coords": [
+            -8.916047,
+            37.064946
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen dieser mysteriösen Ansammlung megalithischer Steine, die ein faszinierendes prähistorisches Denkmal bilden, und bringen Sie unbedingt einen Hut mit.",
+            "hu": "Sétáljon e titokzatos megalitikus kőhalmaz között, amely egy lenyűgöző őskori emlékművet alkot, és hozzon magával kalapot, mivel ezen a nyílt tájon nincs természetes árnyék.",
+            "ro": "Plimbați-vă printre acest grup misterios de pietre megalitice care formează un monument preistoric intrigant și aduceți o pălărie cu boruri largi, deoarece nu există umbră.",
+            "en": "Walk among this mysterious cluster of megalithic stones that form an intriguing prehistoric monument, and bring a wide-brimmed hat since there is no natural shade in this landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Vila do Bispo und bewundern Sie die Azulejos der örtlichen Kirche.\n\nMittags tauchen Sie im modernen Museum in die Geschichte ein und erkunden lokale Ausstellungen.\n\nDer Nachmittag bietet eine malerische Wanderung zu den prähistorischen Megalithen außerhalb der Stadt.\n\nLassen Sie den Tag zwischen uralten Steinen im Sonnenuntergang entspannt ausklingen.",
+        "hu": "Kezdje a reggelt Vila do Bispo kulturális szívében, a helyi templom csempéinek megcsodálásával.\n\nDélben merüljön el a régió gazdag történelmében a modern múzeumban és a központban.\n\nA délután festői túrát kínál a városon kívüli őskori megalitok felé.\n\nZárja a napot az ősi kövek közötti sétával a lemenő nap gyönyörű fényében.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Vila do Bispo, admirând azulejos de la biserica locală.\n\nLa amiază, pătrundeți în istoria zonei la muzeul modern și explorați centrul vibrant.\n\nDupă-amiaza vă oferă o drumeție pitorească dincolo de oraș, spre megaliții preistorici.\n\nÎncheiați-vă ziua rătăcind printre pietrele antice preistorice la frumosul apus al soarelui.",
+        "en": "Start your morning exploring the cultural heart of Vila do Bispo, admiring the beautiful azulejos of the local church.\n\nBy midday, delve into the area's rich history at the modern museum and vibrant cultural center.\n\nThe afternoon offers a scenic hike out of town toward the fascinating prehistoric megaliths.\n\nConclude your day wandering among ancient standing stones under the warm setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Matriz de Nossa Senhora da Conceição",
+            "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+            "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+            "en": "Igreja Matriz de Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.908881,
+            37.082574
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden blau-weißen Azulejo-Kacheln in dieser historischen Kirche, die Portugals maritimes Erbe widerspiegeln, und besuchen Sie sie zur Morgenmesse.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző kék-fehér azulejo csempéit, amelyek gyönyörűen tükrözik Portugália tengeri örökségét, és próbálja meg a reggeli mise idején meglátogatni.",
+            "ro": "Admirați uimitoarele plăci azulejo alb-albastre din interiorul acestei biserici istorice, care reflectă perfect moștenirea maritimă a Portugaliei, și vizitați-o dimineața.",
+            "en": "Admire the stunning blue-and-white azulejo tiles inside this historic church, which beautifully reflect Portugal's maritime heritage, and try to visit during morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Vila do Bispo",
+            "hu": "Museo de Vila do Bispo",
+            "ro": "Museo de Vila do Bispo",
+            "en": "Museo de Vila do Bispo"
+          },
+          "coords": [
+            -8.911317,
+            37.085655
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische und maritime Geschichte der Region anhand faszinierender Artefakte und fragen Sie das freundliche Personal nach einem Audioguide.",
+            "hu": "Fedezze fel a régió gazdag régészeti és tengerészeti történelmét a helyi leleteken keresztül ebben a modern múzeumban, és kérjen ingyenes audioguide-ot a személyzettől.",
+            "ro": "Descoperiți istoria maritimă și arheologică a regiunii prin artefacte locale fascinante în acest muzeu modern și cereți personalului amabil un ghid audio gratuit la intrare.",
+            "en": "Discover the region's rich archaeological and maritime history through fascinating local artifacts in this modern museum, and make sure to ask the friendly staff for an audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir da Casa do Francês 1",
+            "hu": "Menir da Casa do Francês 1",
+            "ro": "Menir da Casa do Francês 1",
+            "en": "Menir da Casa do Francês 1"
+          },
+          "coords": [
+            -8.917929,
+            37.067392
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten stehenden Stein, der die prähistorische Präsenz an der Algarve bezeugt, und tragen Sie feste Schuhe, da das umliegende Gelände steinig ist.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a történelem előtti emberi jelenlétről tanúskodik Algarve-ban, és viseljen túracipőt, mivel a környező terep egyenetlen és sziklás.",
+            "ro": "Minunați-vă de această piatră străveche care atestă prezența umană preistorică în Algarve și purtați pantofi de drumeție rezistenți, deoarece terenul înconjurător este neregulat.",
+            "en": "Marvel at this ancient standing stone that silently testifies to prehistoric human presence in the Algarve, and wear sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir Pedra Escorregadia 2",
+            "hu": "Menir Pedra Escorregadia 2",
+            "ro": "Menir Pedra Escorregadia 2",
+            "en": "Menir Pedra Escorregadia 2"
+          },
+          "coords": [
+            -8.918687,
+            37.070408
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierende Neigung und Textur dieses alten Monolithen in der rustikalen Landschaft und bleiben Sie auf den markierten Wegen, um die Natur zu schützen.",
+            "hu": "Figyelje meg ennek a rusztikus tájban elhelyezkedő ősi monolitnak a dőlését és textúráját, és maradjon a jelölt ösvényeken, hogy elkerülje az őshonos növényzet károsítását.",
+            "ro": "Observați înclinația și textura fascinantă a acestui monolit antic situat în peisaj și rămâneți pe traseele de pământ abia marcate pentru a evita distrugerea vegetației native.",
+            "en": "Observe the fascinating tilt and texture of this ancient monolith set against the rustic landscape, and stay on the faintly marked dirt trails to protect the fragile vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromeleque de Amantes II",
+            "hu": "Cromeleque de Amantes II",
+            "ro": "Cromeleque de Amantes II",
+            "en": "Cromeleque de Amantes II"
+          },
+          "coords": [
+            -8.914972,
+            37.064851
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese gut erhaltene prähistorische Steinformation aus der Nähe und fotografieren Sie sie am besten am späten Nachmittag, wenn das Licht besonders weich fällt.",
+            "hu": "Vizsgálja meg közelről ezt a jól megőrzött őskori kőképződményt, és a legjobb fényképek elkészítéséhez próbálja meg a késő délutáni lágy napfényben lencsevégre kapni.",
+            "ro": "Examinați îndeaproape această formațiune preistorică de piatră bine conservată și încercați să o fotografiați după-amiaza târziu pentru a profita de lumina caldă și moale.",
+            "en": "Examine this well-preserved prehistoric stone formation up close, and try to photograph it during the late afternoon to take advantage of the beautifully soft, warm sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromeleque de Amantes I",
+            "hu": "Cromeleque de Amantes I",
+            "ro": "Cromeleque de Amantes I",
+            "en": "Cromeleque de Amantes I"
+          },
+          "coords": [
+            -8.916047,
+            37.064946
+          ],
+          "category": "historical",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen dieser mysteriösen Ansammlung megalithischer Steine, die ein faszinierendes prähistorisches Denkmal bilden, und bringen Sie unbedingt einen Hut mit.",
+            "hu": "Sétáljon e titokzatos megalitikus kőhalmaz között, amely egy lenyűgöző őskori emlékművet alkot, és hozzon magával kalapot, mivel ezen a nyílt tájon nincs természetes árnyék.",
+            "ro": "Plimbați-vă printre acest grup misterios de pietre megalitice care formează un monument preistoric intrigant și aduceți o pălărie cu boruri largi, deoarece nu există umbră.",
+            "en": "Walk among this mysterious cluster of megalithic stones that form an intriguing prehistoric monument, and bring a wide-brimmed hat since there is no natural shade in this landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer auf dem Stadtplatz mit einem Besuch der historischen Kirche.\n\nMittags besuchen Sie das lokale Museum, um die antiken Wurzeln der Region zu verstehen.\n\nAm Nachmittag radeln Sie in die raue Landschaft, um versteckte Menhire zu entdecken.\n\nIhr Abend klingt aus, während Sie zwischen prähistorischen Denkmälern unter freiem Himmel fahren.",
+        "hu": "Kezdje kerékpáros kalandját a főtéren, a lenyűgöző történelmi templom megtekintésével.\n\nDélben látogasson el a helyi múzeumba, hogy megértse a régió mély és ősi gyökereit.\n\nDélután tekerjen ki a zord vidékre, hogy felfedezze az elszigetelt, rejtett menhíreket.\n\nAz estéje a szabad ég alatti őskori műemlékek közötti nyugodt kerékpározással csendesedik el.",
+        "ro": "Începeți-vă aventura cu bicicleta în piața orașului, vizitând frumoasa biserică istorică.\n\nAmiaza vă aduce la muzeul local pentru a înțelege pe deplin rădăcinile antice ale zonei.\n\nDupă-amiaza, pedalați în peisajul rural accidentat pentru a descoperi menhire ascunse.\n\nSeara se încheie liniștit în timp ce pedalați printre fascinantele monumente preistorice în aer liber.",
+        "en": "Kick off your cycling adventure in the town square, visiting the area's beautiful historic church.\n\nMidday brings you to the local museum to fully understand the region's ancient and maritime roots.\n\nIn the afternoon, pedal out to the rugged open countryside to discover isolated, hidden menhirs.\n\nYour evening winds down gently as you cycle between fascinating prehistoric monuments in the open air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural",
+            "hu": "Centro Cultural",
+            "ro": "Centro Cultural",
+            "en": "Centro Cultural"
+          },
+          "coords": [
+            -8.912676,
+            37.08141
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunstausstellungen und kulturelle Veranstaltungen in diesem pulsierenden Zentrum, dessen Programm Sie am besten vorab auf dem Schwarzen Brett überprüfen.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat és kulturális eseményeket ebben a nyüzsgő központban, amely a város kreatív csomópontja, ezért érdemes ellenőrizni a napi programot.",
+            "ro": "Explorați expozițiile de artă locale și evenimentele culturale din acest centru vibrant, așa că verificați programul zilnic pe panoul informativ înainte de a vă planifica ziua.",
+            "en": "Explore local art exhibitions and cultural events in this vibrant center that serves as the town's creative hub, so check their daily schedule on the notice board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Nossa Senhora da Conceição",
+            "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+            "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+            "en": "Igreja Matriz de Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.908881,
+            37.082574
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden blau-weißen Azulejo-Kacheln in dieser historischen Kirche, die Portugals maritimes Erbe widerspiegeln, und besuchen Sie sie zur Morgenmesse.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző kék-fehér azulejo csempéit, amelyek gyönyörűen tükrözik Portugália tengeri örökségét, és próbálja meg a reggeli mise idején meglátogatni.",
+            "ro": "Admirați uimitoarele plăci azulejo alb-albastre din interiorul acestei biserici istorice, care reflectă perfect moștenirea maritimă a Portugaliei, și vizitați-o dimineața.",
+            "en": "Admire the stunning blue-and-white azulejo tiles inside this historic church, which beautifully reflect Portugal's maritime heritage, and try to visit during morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Vila do Bispo",
+            "hu": "Museo de Vila do Bispo",
+            "ro": "Museo de Vila do Bispo",
+            "en": "Museo de Vila do Bispo"
+          },
+          "coords": [
+            -8.911317,
+            37.085655
+          ],
+          "category": "museum",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische und maritime Geschichte der Region anhand faszinierender Artefakte und fragen Sie das freundliche Personal nach einem Audioguide.",
+            "hu": "Fedezze fel a régió gazdag régészeti és tengerészeti történelmét a helyi leleteken keresztül ebben a modern múzeumban, és kérjen ingyenes audioguide-ot a személyzettől.",
+            "ro": "Descoperiți istoria maritimă și arheologică a regiunii prin artefacte locale fascinante în acest muzeu modern și cereți personalului amabil un ghid audio gratuit la intrare.",
+            "en": "Discover the region's rich archaeological and maritime history through fascinating local artifacts in this modern museum, and make sure to ask the friendly staff for an audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir da Casa do Francês",
+            "hu": "Menir da Casa do Francês",
+            "ro": "Menir da Casa do Francês",
+            "en": "Menir da Casa do Francês"
+          },
+          "coords": [
+            -8.917949,
+            37.069374
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten stehenden Stein, der die prähistorische Präsenz an der Algarve bezeugt, und tragen Sie feste Schuhe, da das umliegende Gelände steinig ist.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a történelem előtti emberi jelenlétről tanúskodik Algarve-ban, és viseljen túracipőt, mivel a környező terep egyenetlen és sziklás.",
+            "ro": "Minunați-vă de această piatră străveche care atestă prezența umană preistorică în Algarve și purtați pantofi de drumeție rezistenți, deoarece terenul înconjurător este neregulat.",
+            "en": "Marvel at this ancient standing stone that silently testifies to prehistoric human presence in the Algarve, and wear sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir Cerro do Camacho",
+            "hu": "Menir Cerro do Camacho",
+            "ro": "Menir Cerro do Camacho",
+            "en": "Menir Cerro do Camacho"
+          },
+          "coords": [
+            -8.919009,
+            37.06306
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die verwitterten Muster auf diesem isolierten neolithischen Menhir und versuchen Sie, ihn bei sanftem Nachmittagslicht dramatisch zu fotografieren.",
+            "hu": "Vizsgálja meg ezen a gördülő síkságra néző elszigetelt neolitikus menhíren a bonyolult időjárási mintákat, és fotózza le a lágy fényben drámai árnyéka miatt.",
+            "ro": "Examinați modelele erodate de pe acest menhir neolitic izolat care domină câmpiile și încercați să îl fotografiați după-amiaza pentru a surprinde umbra sa dramatică.",
+            "en": "Examine the intricate weathered patterns on this isolated neolithic menhir that overlooks the rolling plains, and try to photograph it during the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromeleque de Amantes II",
+            "hu": "Cromeleque de Amantes II",
+            "ro": "Cromeleque de Amantes II",
+            "en": "Cromeleque de Amantes II"
+          },
+          "coords": [
+            -8.914972,
+            37.064851
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese gut erhaltene prähistorische Steinformation aus der Nähe und fotografieren Sie sie am besten am späten Nachmittag, wenn das Licht besonders weich fällt.",
+            "hu": "Vizsgálja meg közelről ezt a jól megőrzött őskori kőképződményt, és a legjobb fényképek elkészítéséhez próbálja meg a késő délutáni lágy napfényben lencsevégre kapni.",
+            "ro": "Examinați îndeaproape această formațiune preistorică de piatră bine conservată și încercați să o fotografiați după-amiaza târziu pentru a profita de lumina caldă și moale.",
+            "en": "Examine this well-preserved prehistoric stone formation up close, and try to photograph it during the late afternoon to take advantage of the beautifully soft, warm sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromeleque de Amantes I",
+            "hu": "Cromeleque de Amantes I",
+            "ro": "Cromeleque de Amantes I",
+            "en": "Cromeleque de Amantes I"
+          },
+          "coords": [
+            -8.916047,
+            37.064946
+          ],
+          "category": "historical",
+          "arrive_at": "16:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen dieser mysteriösen Ansammlung megalithischer Steine, die ein faszinierendes prähistorisches Denkmal bilden, und bringen Sie unbedingt einen Hut mit.",
+            "hu": "Sétáljon e titokzatos megalitikus kőhalmaz között, amely egy lenyűgöző őskori emlékművet alkot, és hozzon magával kalapot, mivel ezen a nyílt tájon nincs természetes árnyék.",
+            "ro": "Plimbați-vă printre acest grup misterios de pietre megalitice care formează un monument preistoric intrigant și aduceți o pălărie cu boruri largi, deoarece nu există umbră.",
+            "en": "Walk among this mysterious cluster of megalithic stones that form an intriguing prehistoric monument, and bring a wide-brimmed hat since there is no natural shade in this landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst ins charmante Stadtzentrum und erleben Sie das faszinierende Kulturzentrum sowie die historische Kirche.\n\nBesuchen Sie gegen Mittag die archäologischen Ausstellungen im modernen Museum.\n\nDer Nachmittag eignet sich perfekt für eine kurze Fahrt zu den megalithischen Feldern.\n\nVerbringen Sie einen ruhigen Abend bei den markanten Cromlechs in der Nähe im warmen Abendlicht.",
+        "hu": "Vezessen először a bájos városközpontba, és tapasztalja meg a lenyűgöző kulturális központot, valamint a templomot.\n\nDél körül tekintse meg a múzeum izgalmas régészeti és helytörténeti kiállításait.\n\nA délután tökéletes egy rövid autózáshoz a közeli, rejtélyes megalitikus mezőkre.\n\nTöltsön el egy rendkívül nyugodt estét a kiemelkedő cromlechek közötti sétával a naplementében.",
+        "ro": "Conduceți mai întâi spre fermecătorul centru al orașului, experimentând centrul cultural vibrant și biserica istorică.\n\nÎn jurul prânzului, verificați exponatele arheologice și maritime excepționale de la muzeul local.\n\nDupă-amiaza este perfectă pentru a conduce scurt spre imensele câmpuri megalitice izolate.\n\nPetreceți o seară liniștită plimbându-vă printre faimoasele cromlehuri antice la lumina apusului.",
+        "en": "Drive to the charming town center first, experiencing the local cultural center and the beautiful historic church.\n\nAround midday, check out the detailed archaeological exhibits at the modern local museum.\n\nThe afternoon is absolutely perfect for a short drive into the megalithic fields to view isolated menhirs.\n\nSpend a tranquil evening walking among the prominent, ancient cromlechs nearby as the sun gently sets."
+      }
+    }
+  }
+}

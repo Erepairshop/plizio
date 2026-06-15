@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-foz-cities-v2",
+  "anchor": {
+    "name": "Foz",
+    "coords": [
+      -7.25504,
+      43.56887
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 1.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Foz",
+            "hu": "Foz Városháza",
+            "ro": "Primăria Foz",
+            "en": "Foz Town Hall"
+          },
+          "coords": [
+            -7.259792,
+            43.568529
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathausplatzes, der das bürgerliche Herz von Foz darstellt, und achten Sie auf dem schwarzen Brett auf aktuelle Kulturveranstaltungen.",
+            "hu": "Csodálja meg a városháza terének klasszikus építészetét, amely Foz polgári központja, és vessen egy pillantást a hirdetőtáblára az aktuális kulturális eseményekért.",
+            "ro": "Admirați arhitectura clasică a pieței primăriei, inima civică a orașului Foz, și verificați avizierul pentru a vedea ce evenimente culturale au loc în zonă.",
+            "en": "Admire the classic architecture of the town hall square, representing Foz's civic heart, and check the bulletin board for current cultural events to attend."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago de Foz",
+            "hu": "Santiago de Foz Templom",
+            "ro": "Biserica Santiago de Foz",
+            "en": "Church of Santiago de Foz"
+          },
+          "coords": [
+            -7.256749,
+            43.566651
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kirche ein, um das wunderschöne, maritim geprägte Altarbild zu bewundern, und nehmen Sie sich einen ruhigen Moment der Besinnung.",
+            "hu": "Lépjen be ebbe a történelmi templomba, és figyelje meg a tengeri motívumokkal díszített gyönyörű oltárképet, mielőtt tovább indulna a tengerpartra sétálni.",
+            "ro": "Intrați în această biserică istorică pentru a observa altarul frumos cu influențe maritime, păstrând un moment de liniște înainte de a explora coasta pitorească.",
+            "en": "Step inside this historic church to observe the beautiful maritime-influenced altarpiece, taking a moment of quiet reflection before exploring the coastal sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum der Mariña Lucense",
+            "hu": "Mariña Lucense Látogatóközpont",
+            "ro": "Centrul de Interpretare Mariña Lucense",
+            "en": "Mariña Lucense Interpretation Center"
+          },
+          "coords": [
+            -7.253361,
+            43.567755
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche maritime Erbe und die ökologische Bedeutung der Region A Mariña durch interaktive Ausstellungen, beginnend im Erdgeschoss der Anlage.",
+            "hu": "Fedezze fel az A Mariña régió gazdag tengeri örökségét és ökológiai jelentőségét az interaktív kiállításokon keresztül, kezdve a túrát rögtön a földszinten.",
+            "ro": "Descoperiți bogata moștenire maritimă și importanța ecologică a regiunii A Mariña prin expoziții interactive, începând vizita detaliată de la expozițiile de la parter.",
+            "en": "Discover the rich maritime heritage and ecological importance of the A Mariña region through interactive exhibits, starting your visit on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Foz",
+            "hu": "Foz Kikötője",
+            "ro": "Portul Foz",
+            "en": "Foz Harbour"
+          },
+          "coords": [
+            -7.249024,
+            43.569533
+          ],
+          "category": "landmark",
+          "arrive_at": "13:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die sanft schaukelnden Fischerboote, die den Alltag dieser Küstenstadt einfangen, und kommen Sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Figyelje meg a vízen lágyan ringatózó helyi halászhajókat, amelyek a part menti város mindennapi életét tükrözik, és fotózzon kora délután a legjobb fényekért.",
+            "ro": "Priviți bărcile de pescari legănându-se ușor pe apă, surprinzând esența vieții cotidiene a orașului de coastă, și vizitați portul după-amiaza pentru fotografii reușite.",
+            "en": "Watch the local fishing boats gently bobbing in the water, capturing the essence of this coastal town's daily life, and visit early afternoon for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Tupide Strand",
+            "hu": "Tupide Strand",
+            "ro": "Plaja Tupide",
+            "en": "Tupide Beach"
+          },
+          "coords": [
+            -7.250342,
+            43.570134
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem gemütlichen Stadtstrand mit ruhigem Wasser, der durch eine Mauer geschützt ist; prüfen Sie jedoch die Gezeiten, bevor Sie Ihr Handtuch ausbreiten.",
+            "hu": "Pihenjen ezen az otthonos városi strandon, amelyet a gát véd, nyugodt vizet kínálva a családoknak, de ellenőrizze az árapály-táblázatot a fürdőzés előtt.",
+            "ro": "Relaxați-vă pe această plajă urbană confortabilă protejată de dig, oferind ape calme ideale pentru familii, dar verificați graficul mareelor înainte de a vă așeza pe nisip.",
+            "en": "Relax at this cozy urban beach protected by the seawall, offering calm waters ideal for families, but check the tide schedule before laying out your towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rapadoira Strand",
+            "hu": "Rapadoira Strand",
+            "ro": "Plaja Rapadoira",
+            "en": "Rapadoira Beach"
+          },
+          "coords": [
+            -7.248186,
+            43.571974
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weiten goldenen Sand dieses beliebten Strandes mit Blauer Flagge, um den Sonnenuntergang zu genießen, und bringen Sie eine warme Windjacke mit.",
+            "hu": "Sétáljon végig a kék zászlós strand kiterjedt aranyhomokján, hogy élvezze a naplementét, és hozzon magával egy széldzsekit a hűvös esti tengeri levegő miatt.",
+            "ro": "Plimbați-vă pe nisipurile aurii întinse ale acestei plaje populare pentru a vă bucura de apus și luați o geacă de vânt confortabilă pentru serile răcoroase de pe coastă.",
+            "en": "Stroll along the expansive golden sands of this popular Blue Flag beach to enjoy the sunset, and bring a windbreaker for the breezy evening coastal air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im bürgerlichen Zentrum von Foz, gefolgt von einem Besuch der nahe gelegenen Kirche. Am Mittag tauchen Sie im Interpretationszentrum tief in das maritime Erbe ein und schlendern dann zum malerischen Hafen. Der Nachmittag steht ganz im Zeichen der Entspannung, während Sie das ruhige Wasser am Tupide-Strand entdecken. Der Abend endet mit einem Sonnenuntergangsspaziergang über den weiten Sand der Praia da Rapadoira, ein perfekter Abschluss des Tages.",
+        "hu": "A reggel Foz polgári központjában indul, majd a közeli templom nyugalmát élvezheti. A dél közeledtével a tengeri örökség felfedezése vár a múzeumban, amelyet egy kellemes séta követ a festői kikötőhöz. A délután a pihenésé a Tupide strand csendes vizeinél. Az este egy naplementés sétával zárul a Praia da Rapadoira kiterjedt homokján, amely tökéletes befejezése ennek a tengerparti napnak.",
+        "ro": "Dimineața începe în centrul civic al orașului Foz, urmată de o vizită la biserica din apropiere. La amiază vă scufundați în istoria maritimă la centrul de interpretare, după care vă plimbați până la portul pitoresc. După-amiaza se transformă într-o relaxare pură la plaja Tupide. Seara se încheie cu o plimbare la apus pe nisipurile aurii de la Praia da Rapadoira, un final perfect pentru o zi superbă pe coastă.",
+        "en": "The morning begins in the civic heart of Foz, where you can absorb the local rhythm at the town hall before stepping into the nearby church. Midday brings a deep dive into the region's marine heritage at the interpretation center, followed by a breezy walk to the quaint harbor. Afternoon shifts to pure relaxation as you discover the calm waters of Tupide beach. The evening concludes with a sunset stroll along the sweeping sands of Praia da Rapadoira, the perfect end to a coastal day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 3.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Marzán",
+            "hu": "Castro de Marzán",
+            "ro": "Castro de Marzán",
+            "en": "Castro de Marzán"
+          },
+          "coords": [
+            -7.263198,
+            43.570241
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser alten keltischen Siedlung, die frühe Verteidigungsstrategien der Küste aufzeigt, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezen ősi kelta település maradványait, amely a korai partvédelmi stratégiákat mutatja be, és viseljen kényelmes túracipőt az egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele acestei așezări celtice antice care dezvăluie strategii timpurii de apărare a coastei și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the remains of this ancient Celtic settlement that reveals early coastal defensive strategies, and wear sturdy walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Foz",
+            "hu": "Foz Városháza",
+            "ro": "Primăria Foz",
+            "en": "Foz Town Hall"
+          },
+          "coords": [
+            -7.259792,
+            43.568529
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathausplatzes, der das bürgerliche Herz von Foz darstellt, und achten Sie auf dem schwarzen Brett auf aktuelle Kulturveranstaltungen.",
+            "hu": "Csodálja meg a városháza terének klasszikus építészetét, amely Foz polgári központja, és vessen egy pillantást a hirdetőtáblára az aktuális kulturális eseményekért.",
+            "ro": "Admirați arhitectura clasică a pieței primăriei, inima civică a orașului Foz, și verificați avizierul pentru a vedea ce evenimente culturale au loc în zonă.",
+            "en": "Admire the classic architecture of the town hall square, representing Foz's civic heart, and check the bulletin board for current cultural events to attend."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Foz",
+            "hu": "Foz Kikötője",
+            "ro": "Portul Foz",
+            "en": "Foz Harbour"
+          },
+          "coords": [
+            -7.249024,
+            43.569533
+          ],
+          "category": "landmark",
+          "arrive_at": "11:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Beobachten Sie die sanft schaukelnden Fischerboote, die den Alltag dieser Küstenstadt einfangen, und kommen Sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Figyelje meg a vízen lágyan ringatózó helyi halászhajókat, amelyek a part menti város mindennapi életét tükrözik, és fotózzon kora délután a legjobb fényekért.",
+            "ro": "Priviți bărcile de pescari legănându-se ușor pe apă, surprinzând esența vieții cotidiene a orașului de coastă, și vizitați portul după-amiaza pentru fotografii reușite.",
+            "en": "Watch the local fishing boats gently bobbing in the water, capturing the essence of this coastal town's daily life, and visit early afternoon for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría de Foz",
+            "hu": "Ría de Foz",
+            "ro": "Ría de Foz",
+            "en": "Ría de Foz"
+          },
+          "coords": [
+            -7.251105,
+            43.558641
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Mündung, wo der Fluss ins Meer fließt und eine Oase der Artenvielfalt bildet, und bringen Sie ein Fernglas zur Vogelbeobachtung mit.",
+            "hu": "Csodálja meg a nyugodt torkolatot, ahol a folyó a tengerbe ömlik és gazdag biodiverzitásnak ad otthont; feltétlenül hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Admirați priveliștile liniștite ale estuarului, unde râul se întâlnește cu marea, și aduceți un binoclu pentru o sesiune excelentă de observare a păsărilor sălbatice.",
+            "en": "Marvel at the tranquil estuary views where the river meets the sea, serving as a haven for biodiversity, and bring binoculars for excellent birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "ZEPA Ría de Foz",
+            "hu": "ZEPA Ría de Foz",
+            "ro": "ZEPA Ría de Foz",
+            "en": "ZEPA Ría de Foz"
+          },
+          "coords": [
+            -7.252311,
+            43.556731
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieses Vogelschutzgebiet ein, das ein wichtiger Rastplatz für Zugvögel ist, indem Sie leise auf den ausgewiesenen Naturpfaden wandern.",
+            "hu": "Merüljön el ebben a madarak számára kijelölt különleges védelmi területen, amely a vándormadarak fontos megállóhelye, és sétáljon csendben az ösvényeken.",
+            "ro": "Cufundați-vă în această arie de protecție specială pentru păsări, un popas crucial pentru speciile migratoare, mergând încet pe cărările naturale desemnate cu grijă.",
+            "en": "Immerse yourself in this Special Protection Area for birds, a crucial stopover for migratory species, by walking softly along the designated natural paths."
+          }
+        },
+        {
+          "name": {
+            "de": "ZEC Ría de Foz - Masma",
+            "hu": "ZEC Ría de Foz - Masma",
+            "ro": "ZEC Ría de Foz - Masma",
+            "en": "ZEC Ría de Foz - Masma"
+          },
+          "coords": [
+            -7.26146,
+            43.547242
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige Naturschutzgebiet, das empfindliche Ökosysteme der Feuchtgebiete schützt, und halten Sie Ausschau nach einzigartiger lokaler Flora.",
+            "hu": "Sétáljon végig ezen a kiterjedt természetvédelmi területen, amely az érzékeny vizenyős élőhelyeket védi, és figyelje meg a Masma folyómedence egyedi növényzetét.",
+            "ro": "Plimbați-vă prin această vastă zonă de conservare ce protejează ecosistemele delicate ale zonelor umede și fiți atenți la flora unică nativă a bazinului râului Masma.",
+            "en": "Wander through this expansive conservation zone protecting delicate wetland ecosystems, and keep an eye out for unique flora native to the Masma river basin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour zum alten Castro de Marzán und radeln Sie dann zurück ins Zentrum. Am Mittag bewundern Sie die Boote im Hafen und genießen den Blick auf die große Mündung. Der Nachmittag lädt Sie in die Natur ein, während Sie durch die vogelreiche ZEPA-Zone an der Küste radeln. Der Abend klingt gemütlich aus, wenn Sie die weitläufigen Ökosysteme des Masma-Flussbeckens vor dem Sonnenuntergang erkunden.",
+        "hu": "Kezdje a biciklitúrát az ősi Castro de Marzán felé, majd tekerjen vissza a város nyüzsgő főterére. A delet a kikötői hajók megcsodálásával és a lenyűgöző torkolat látványával töltheti. A délután a természetbe csábít, ahogy a part menti madárvédelmi ZEPA-zónán halad keresztül. Az este folyamán nyugodt tempóban fedezheti fel a Masma folyómedence ökoszisztémáját, mielőtt a nap lenyugszik.",
+        "ro": "Începeți plimbarea cu bicicleta către vechiul Castro de Marzán, apoi întoarceți-vă în oraș la piața vibrantă. La amiază, admirați bărcile din port și primele priveliști spectaculoase ale estuarului. După-amiaza vă invită în natură, pedalând prin zona ZEPA plină de păsări de pe coastă. Seara devine relaxantă în timp ce vă bucurați de ecosistemele bazinului râului Masma înainte de apus.",
+        "en": "Kick off your cycling journey with a ride to the ancient Castro de Marzán, then pedal back into town to explore the vibrant square. Midday is spent admiring the bobbing boats at the harbor and catching the first sweeping views of the grand estuary. The afternoon invites you into nature as you bike through the bird-filled ZEPA zone along the coast. Finally, the evening slows down as you enjoy the expansive ecosystems of the Masma river basin before sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.41,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Bispo Santo",
+            "hu": "Bispo Santo Kápolna",
+            "ro": "Capela Bispo Santo",
+            "en": "Bispo Santo Chapel"
+          },
+          "coords": [
+            -7.282646,
+            43.572199
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese hoch verehrte Kapelle auf dem Hügel, die einen spektakulären Panoramablick über das Foz-Tal bietet, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Látogasson el ebbe a dombtetőn álló kápolnába, amely lenyűgöző panorámát nyújt a Foz-völgyre, és feltétlenül hozza magával fényképezőgépét a tájképekhez.",
+            "ro": "Vizitați această capelă venerată situată pe un deal, care oferă vederi panoramice spectaculoase asupra văii Foz, și aduceți camera pentru fotografii de peisaj.",
+            "en": "Visit this highly venerated hilltop chapel offering spectacular panoramic views over the entire Foz valley, making sure to bring your camera for landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Río",
+            "hu": "Castro de Río",
+            "ro": "Castro de Río",
+            "en": "Castro de Río"
+          },
+          "coords": [
+            -7.277348,
+            43.564511
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologische Anlage dieses bedeutenden vorrömischen befestigten Dorfes und lesen Sie die Informationstafeln am Eingang der Stätte.",
+            "hu": "Fedezze fel ennek a jelentős római kor előtti erődített falunak a régészeti elrendezését a tájban, és olvassa el a bejárat melletti információs táblákat.",
+            "ro": "Descoperiți aspectul arheologic al acestui sat fortificat pre-roman semnificativ din peisaj și citiți plăcuțele informative aflate în apropierea intrării principale.",
+            "en": "Discover the archaeological layout of this significant pre-Roman fortified village nested in the landscape, and read the informational plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle San Brais von Vilaxoane",
+            "hu": "Vilaxoane-i San Brais Kápolna",
+            "ro": "Capela San Brais din Vilaxoane",
+            "en": "San Brais de Vilaxoane Chapel"
+          },
+          "coords": [
+            -7.272568,
+            43.56459
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen, um den rustikalen Charme dieser traditionellen galizischen Kapelle zu bewundern, und respektieren Sie die ruhige Atmosphäre.",
+            "hu": "Szakadjon el a tömegtől, hogy megcsodálhassa e hagyományos galíciai kápolna egyszerű, rusztikus varázsát, tiszteletben tartva a környező vidék békés csendjét.",
+            "ro": "Îndepărtați-vă de aglomerație pentru a admira farmecul simplu, rustic, al acestei capele tradiționale galiciene, respectând atmosfera liniștită a zonei rurale.",
+            "en": "Step away from the crowds to admire the simple, rustic charm of this traditional Galician chapel, respecting the quiet atmosphere of the surrounding rural area."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Becerra",
+            "hu": "Pazo de Becerra",
+            "ro": "Pazo de Becerra",
+            "en": "Pazo de Becerra"
+          },
+          "coords": [
+            -7.264811,
+            43.553189
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Architektur des Herrenhauses, die den historischen Adel der Region widerspiegelt; das Äußere ist in jedem Fall sehenswert.",
+            "hu": "Figyelje meg a lenyűgöző udvarház építészetét, amely a régió történelmi nemességét tükrözi; bár magántulajdon, külseje mindenképpen megér egy rövid pillantást.",
+            "ro": "Observați arhitectura impresionantă a conacului ce reflectă nobilimea istorică a regiunii și admirați exteriorul său superb, chiar dacă este proprietate privată.",
+            "en": "Observe the striking manor house architecture that reflects historical nobility in the region, noting that while privately owned, its exterior is well worth viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "ZEC Ría de Foz - Masma",
+            "hu": "ZEC Ría de Foz - Masma",
+            "ro": "ZEC Ría de Foz - Masma",
+            "en": "ZEC Ría de Foz - Masma"
+          },
+          "coords": [
+            -7.26146,
+            43.547242
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige Naturschutzgebiet, das empfindliche Ökosysteme der Feuchtgebiete schützt, und halten Sie Ausschau nach einzigartiger lokaler Flora.",
+            "hu": "Sétáljon végig ezen a kiterjedt természetvédelmi területen, amely az érzékeny vizenyős élőhelyeket védi, és figyelje meg a Masma folyómedence egyedi növényzetét.",
+            "ro": "Plimbați-vă prin această vastă zonă de conservare ce protejează ecosistemele delicate ale zonelor umede și fiți atenți la flora unică nativă a bazinului râului Masma.",
+            "en": "Wander through this expansive conservation zone protecting delicate wetland ecosystems, and keep an eye out for unique flora native to the Masma river basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum der Mariña Lucense",
+            "hu": "Mariña Lucense Látogatóközpont",
+            "ro": "Centrul de Interpretare Mariña Lucense",
+            "en": "Mariña Lucense Interpretation Center"
+          },
+          "coords": [
+            -7.253361,
+            43.567755
+          ],
+          "category": "museum",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche maritime Erbe und die ökologische Bedeutung der Region A Mariña durch interaktive Ausstellungen, beginnend im Erdgeschoss der Anlage.",
+            "hu": "Fedezze fel az A Mariña régió gazdag tengeri örökségét és ökológiai jelentőségét az interaktív kiállításokon keresztül, kezdve a túrát rögtön a földszinten.",
+            "ro": "Descoperiți bogata moștenire maritimă și importanța ecologică a regiunii A Mariña prin expoziții interactive, începând vizita detaliată de la expozițiile de la parter.",
+            "en": "Discover the rich maritime heritage and ecological importance of the A Mariña region through interactive exhibits, starting your visit on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Rapadoira Strand",
+            "hu": "Rapadoira Strand",
+            "ro": "Plaja Rapadoira",
+            "en": "Rapadoira Beach"
+          },
+          "coords": [
+            -7.248186,
+            43.571974
+          ],
+          "category": "recreational",
+          "arrive_at": "16:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weiten goldenen Sand dieses beliebten Strandes mit Blauer Flagge, um den Sonnenuntergang zu genießen, und bringen Sie eine warme Windjacke mit.",
+            "hu": "Sétáljon végig a kék zászlós strand kiterjedt aranyhomokján, hogy élvezze a naplementét, és hozzon magával egy széldzsekit a hűvös esti tengeri levegő miatt.",
+            "ro": "Plimbați-vă pe nisipurile aurii întinse ale acestei plaje populare pentru a vă bucura de apus și luați o geacă de vânt confortabilă pentru serile răcoroase de pe coastă.",
+            "en": "Stroll along the expansive golden sands of this popular Blue Flag beach to enjoy the sunset, and bring a windbreaker for the breezy evening coastal air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem Aufstieg zur Capela do Bispo Santo, gefolgt von den nahe gelegenen vorrömischen Ruinen. Mittags fahren Sie durch das ländliche Galizien, um eine Dorfkapelle und die Architektur eines Herrenhauses zu entdecken. Der Nachmittag führt an die Küste zu den Ökosystemen der Ría und zur lokalen Geschichte im Interpretationszentrum. Ihr Tag endet mit einem entspannten Abendspaziergang am Hauptstrand.",
+        "hu": "A napot a dombtetőn álló Capela do Bispo Santo felkeresésével kezdi a völgyre nyíló kilátásért, amelyet a római kor előtti romok követnek. Délben a vidéki Galícián át egy falu kápolnáját és egy helyi udvarház építészetét fedezi fel. A délután a tengerpartra vezet a Ría ökoszisztémáihoz és a múzeum történelmi kiállításához. A napot egy kellemes esti séta zárja a fő strandon.",
+        "ro": "Începeți ziua urcând la Capela do Bispo Santo pentru vederi uimitoare, urmată de ruinele pre-romane. La amiază conduceți prin Galicia rurală pentru a descoperi o capelă de sat și arhitectura unui conac local. După-amiaza vă duce pe coastă, explorând ecosistemele de la Ría și istoria locală la centrul de interpretare. Ziua se încheie cu o plimbare relaxantă de seară pe plaja principală.",
+        "en": "Start the day ascending to the hilltop Capela do Bispo Santo for breathtaking valley views, followed by the nearby pre-Roman ruins. Midday takes you through rural Galicia to discover a quaint village chapel and the stately architecture of a local manor. The afternoon shifts toward the coast, exploring the delicate ecosystems of the Ría before delving into local history at the interpretation center. Your day wraps up with a relaxing evening walk on the main beach."
+      }
+    }
+  }
+}

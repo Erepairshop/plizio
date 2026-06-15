@@ -1,0 +1,497 @@
+{
+  "city_id": "germany-heringsdorf-cities-v2",
+  "anchor": {
+    "name": "Heringsdorf",
+    "coords": [
+      14.166667,
+      53.966667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Villa \"Irmgard\"",
+            "hu": "Villa \"Irmgard\" Múzeum",
+            "ro": "Muzeul Villa \"Irmgard\"",
+            "en": "Museum Villa \"Irmgard\""
+          },
+          "coords": [
+            14.156204,
+            53.963232
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Räume, in denen Maxim Gorki einst weilte, und werfen Sie einen Blick auf den saisonalen Veranstaltungsplan der literarischen Villa.",
+            "hu": "Fedezze fel azokat a történelmi szobákat, ahol egykor Makszim Gorkij szállt meg, és ne felejtse el előzetesen megnézni a villa szezonális eseménynaptárát.",
+            "ro": "Explorați camerele istorice în care a stat cândva Maxim Gorki, oferind o incursiune în istoria literară; verificați programul evenimentelor de sezon înainte de vizită.",
+            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpavillion",
+            "hu": "Művészeti Pavilon",
+            "ro": "Pavilionul de Artă",
+            "en": "Art Pavilion"
+          },
+          "coords": [
+            14.165842,
+            53.958959
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische Kunstausstellungen in diesem markanten modernen Pavillon direkt am Strand und besuchen Sie ihn am Morgen für das beste natürliche Licht.",
+            "hu": "Csodálja meg a kortárs művészeti kiállításokat ebben a lenyűgöző modern pavilonban közvetlenül a tengerparton, és látogasson el reggel a legjobb természetes fényért.",
+            "ro": "Admirați expozițiile de artă contemporană găzduite în acest pavilion modern chiar pe plajă și vizitați-l dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzertmuschel",
+            "hu": "Koncertkagyló",
+            "ro": "Scoica de Concerte",
+            "en": "Concert Shell"
+          },
+          "coords": [
+            14.169021,
+            53.956962
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie Open-Air-Aufführungen an diesem klassischen Musikpavillon, dem kulturellen Herzen der Promenade, also sichern Sie sich frühzeitig einen Platz.",
+            "hu": "Élvezze a szabadtéri előadásokat ezen a klasszikus zenepavilonon, amely a sétány kulturális szíve, ezért a nyári koncertszezonban érkezzen korán a jó helyekért.",
+            "ro": "Bucurați-vă de spectacole în aer liber la acest pavilion clasic, inima culturală a promenadei, așa că asigurați-vă un loc devreme în timpul sezonului de vară.",
+            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kletterparcours",
+            "hu": "Kalandpark",
+            "ro": "Traseu de Cățărare",
+            "en": "Climbing Park"
+          },
+          "coords": [
+            14.160571,
+            53.952266
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit in diesem Waldkletterpark mit Routen für alle Niveaus; tragen Sie festes, geschlossenes Schuhwerk für Sicherheit und Komfort.",
+            "hu": "Tegye próbára ügyességét ebben az erdei kalandparkban, amely minden szintnek kihívást jelent; a biztonság érdekében feltétlenül zárt cipőt viseljen.",
+            "ro": "Testați-vă agilitatea în acest parc de aventură cu trasee pentru toate nivelurile; purtați încălțăminte robustă, închisă, pentru siguranță și confort.",
+            "en": "Test your agility at this woodland climbing park which offers challenging routes for all levels; wear sturdy, closed-toe shoes for safety and comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Motorisches Sitzen",
+            "hu": "Motorikus Ülőalkalmatosságok",
+            "ro": "Scaune Motrice",
+            "en": "Motoric Seating"
+          },
+          "coords": [
+            14.162162,
+            53.95183
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit dieser interaktiven Kunstinstallation auseinander, die spielerische Bewegung fördert, und nehmen Sie sich einen Moment Zeit zum Ausruhen.",
+            "hu": "Lépjen kapcsolatba ezzel az egyedi, játékos mozgást ösztönző interaktív művészeti installációval; szánjon egy percet a pihenésre az ergonómikus formákon.",
+            "ro": "Interacționați cu această instalație de artă inedită menită să promoveze mișcarea; luați-vă un moment pentru a vă odihni și explora structurile ergonomice.",
+            "en": "Engage with this unique interactive art installation designed to promote playful movement; take a moment to rest and interact with the ergonomic structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Baumwipfelpfad Usedom",
+            "hu": "Usedom Lombkoronasétány",
+            "ro": "Poteca deasupra Copacilor Usedom",
+            "en": "Usedom Treetop Walk"
+          },
+          "coords": [
+            14.168293,
+            53.949002
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf diesem erhöhten Pfad über den Baumwipfeln und genießen Sie spektakuläre Ausblicke; besuchen Sie ihn gegen Sonnenuntergang für tolle Fotos.",
+            "hu": "Sétáljon a fák lombkoronája felett ezen a lenyűgöző kilátást nyújtó tanösvényen; naplemente környékén látogasson el ide, ha tökéletes fotókat szeretne készíteni.",
+            "ro": "Plimbați-vă deasupra copacilor pe această potecă suspendată cu vederi spectaculoase asupra insulei; vizitați-o la apus pentru fotografii de coastă uluitoare.",
+            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag widmet sich der Literatur und Kunst: Entdecken Sie die inspirierende Atmosphäre in der Villa Irmgard und die Strandausstellungen im Kunstpavillion. Gegen Mittag erleben Sie das klassische Kurort-Flair an der Konzertmuschel. Am Nachmittag wird es aktiv beim Kletterparcours und der interaktiven Kunst. Den perfekten Abschluss bildet der weite Blick vom Baumwipfelpfad in den frühen Abendstunden.",
+        "hu": "A délelőtt az irodalomé és a művészeté: fedezze fel a Villa Irmgard inspiráló légkörét és a Művészeti Pavilon tengerparti kiállításait. Délben élvezze a klasszikus üdülőhelyi hangulatot a koncertkagylónál. A délután az aktív kikapcsolódásé a kalandparkban és az interaktív művészeti formákon. A tökéletes befejezést a lombkoronasétányról nyíló tágas kilátás nyújtja a kora esti órákban.",
+        "ro": "Dimineața este dedicată literaturii și artei: descoperiți atmosfera inspirată a Vilei Irmgard și expozițiile Pavilionului de Artă. La amiază, simțiți vibrația stațiunii la scoica de concerte. După-amiaza devine activă în parcul de aventură și la instalațiile de artă interactivă. Ziua se încheie perfect cu o vedere panoramică spectaculoasă de pe poteca suspendată.",
+        "en": "The morning is dedicated to literature and art: discover the inspiring atmosphere at Villa Irmgard and the seaside exhibitions in the Art Pavilion. Midday brings you to the classic resort vibe at the concert bandstand. The afternoon gets active with challenges at the climbing park and interactive seating. The perfect finale is the sweeping coastal view from the treetop walk in the early evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tropenzoo Bansin",
+            "hu": "Bansin Trópusi Állatkert",
+            "ro": "Zoo Tropical Bansin",
+            "en": "Bansin Tropical Zoo"
+          },
+          "coords": [
+            14.138599,
+            53.96966
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie exotische Tiere in diesem gemütlichen Tropenzoo, der Besucher jeden Alters begeistert, und kaufen Sie in der Hochsaison Ihre Tickets online.",
+            "hu": "Fedezze fel az egzotikus vadvilágot ebben a hangulatos trópusi állatkertben; a forgalmas nyári hónapokban érdemes előre, online megvásárolni a jegyeket.",
+            "ro": "Descoperiți fauna exotică în această mică grădină zoologică tropicală; cumpărați biletele online în avans în timpul lunilor aglomerate de vară.",
+            "en": "Discover exotic wildlife in this intimate tropical zoo that delights visitors of all ages; buy your tickets online in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche Bansin",
+            "hu": "Bansin Evangélikus Templom",
+            "ro": "Biserica Evanghelică Bansin",
+            "en": "Bansin Evangelical Church"
+          },
+          "coords": [
+            14.136886,
+            53.97011
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser Küstenkirche zur stillen Einkehr und informieren Sie sich am Aushang über abendliche Chorauftritte.",
+            "hu": "Csodálja meg e tengerparti templom egyszerű eleganciáját, amely csendes elmélkedésre csábít; ellenőrizze a hirdetőtáblán az esti kórusfellépések időpontjait.",
+            "ro": "Admirați eleganța simplă a acestei biserici de coastă; verificați panoul informativ pentru programul spectacolelor corale de seară.",
+            "en": "Admire the simple elegance of this coastal church which offers a moment of peaceful reflection; check the notice board for evening choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Hans-Werner-Richter-Haus",
+            "hu": "Hans-Werner-Richter Ház",
+            "ro": "Casa Hans-Werner-Richter",
+            "en": "Hans-Werner-Richter House"
+          },
+          "coords": [
+            14.144749,
+            53.971389
+          ],
+          "category": "museum",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Literaturmuseum mehr über den Gründer der Gruppe 47 und nehmen Sie sich Zeit für die gut kuratierten Infotafeln im ehemaligen Arbeitszimmer.",
+            "hu": "Ismerje meg a 47-es Csoport alapítóját ebben az irodalmi múzeumban; szánjon időt a jól összeállított információs panelekre az író egykori munkaterületén.",
+            "ro": "Aflați despre fondatorul Grupului 47 în acest muzeu literar dedicat; acordați-vă timp pentru a citi panourile informative din fostul spațiu de lucru al autorului.",
+            "en": "Learn about the founder of Group 47 in this dedicated literary museum; take time to read the well-curated informational panels in the author's former workspace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Villa \"Irmgard\"",
+            "hu": "Villa \"Irmgard\" Múzeum",
+            "ro": "Muzeul Villa \"Irmgard\"",
+            "en": "Museum Villa \"Irmgard\""
+          },
+          "coords": [
+            14.156204,
+            53.963232
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Räume, in denen Maxim Gorki einst weilte, und werfen Sie einen Blick auf den saisonalen Veranstaltungsplan der literarischen Villa.",
+            "hu": "Fedezze fel azokat a történelmi szobákat, ahol egykor Makszim Gorkij szállt meg, és ne felejtse el előzetesen megnézni a villa szezonális eseménynaptárát.",
+            "ro": "Explorați camerele istorice în care a stat cândva Maxim Gorki, oferind o incursiune în istoria literară; verificați programul evenimentelor de sezon înainte de vizită.",
+            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpavillion",
+            "hu": "Művészeti Pavilon",
+            "ro": "Pavilionul de Artă",
+            "en": "Art Pavilion"
+          },
+          "coords": [
+            14.165842,
+            53.958959
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische Kunstausstellungen in diesem markanten modernen Pavillon direkt am Strand und besuchen Sie ihn am Morgen für das beste natürliche Licht.",
+            "hu": "Csodálja meg a kortárs művészeti kiállításokat ebben a lenyűgöző modern pavilonban közvetlenül a tengerparton, és látogasson el reggel a legjobb természetes fényért.",
+            "ro": "Admirați expozițiile de artă contemporană găzduite în acest pavilion modern chiar pe plajă și vizitați-l dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzertmuschel",
+            "hu": "Koncertkagyló",
+            "ro": "Scoica de Concerte",
+            "en": "Concert Shell"
+          },
+          "coords": [
+            14.169021,
+            53.956962
+          ],
+          "category": "cultural",
+          "arrive_at": "15:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie Open-Air-Aufführungen an diesem klassischen Musikpavillon, dem kulturellen Herzen der Promenade, also sichern Sie sich frühzeitig einen Platz.",
+            "hu": "Élvezze a szabadtéri előadásokat ezen a klasszikus zenepavilonon, amely a sétány kulturális szíve, ezért a nyári koncertszezonban érkezzen korán a jó helyekért.",
+            "ro": "Bucurați-vă de spectacole în aer liber la acest pavilion clasic, inima culturală a promenadei, așa că asigurați-vă un loc devreme în timpul sezonului de vară.",
+            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostseetherme",
+            "hu": "Keleti-tengeri Termálfürdő",
+            "ro": "Băile Termale Baltice",
+            "en": "Baltic Sea Thermal Baths"
+          },
+          "coords": [
+            14.17841,
+            53.945563
+          ],
+          "category": "recreational",
+          "arrive_at": "16:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln im warmen Heilwasser dieses Thermalbads am Meer und packen Sie ein zusätzliches Handtuch und Badeschuhe für einen angenehmen Besuch ein.",
+            "hu": "Lazítsa el izmait e tengerparti fürdőkomplexum meleg, gyógyító termálvizében; pakoljon be egy extra törölközőt és papucsot a kényelmes látogatás érdekében.",
+            "ro": "Relaxați-vă mușchii în apele termale vindecătoare ale acestui complex balnear de la malul mării; luați un prosop suplimentar și șlapi pentru confort.",
+            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen auf dem Rad beginnt in Bansin bei exotischen Tieren und einer stillen Kirche. Mittags tauchen Sie in die Literaturgeschichte und Kunst von Heringsdorf ein. Am Nachmittag radeln Sie gemütlich entlang der Promenade und genießen das maritime Flair an der Konzertmuschel. Abends winkt die pure Entspannung in den warmen Fluten der Ostseetherme.",
+        "hu": "A reggel Bansinban indul két keréken, egzotikus állatokkal és egy csendes templommal. Délben elmerülhet Heringsdorf irodalmi múltjában és művészetében. Délután kényelmesen kerekezhet a sétány mentén, kiélvezve a koncertkagyló tengerparti hangulatát. Este tiszta relaxáció várja a Keleti-tengeri Termálfürdő meleg medencéiben.",
+        "ro": "Dimineața pe bicicletă începe în Bansin cu animale exotice și o biserică liniștită. La prânz vă scufundați în istoria literară și arta din Heringsdorf. După-amiaza pedalați confortabil de-a lungul promenadei, bucurându-vă de atmosfera maritimă la scoica de concerte. Seara aduce o relaxare pură în apele termale vindecătoare.",
+        "en": "The morning bike ride begins in Bansin with exotic animals and a peaceful church. Midday dives into the rich literary history and contemporary art of Heringsdorf. The afternoon features a leisurely ride along the promenade, soaking in the seaside atmosphere by the concert shell. The evening promises pure relaxation in the warm waters of the thermal baths."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Usedomer Technikausstellung",
+            "hu": "Usedom Műszaki Kiállítás",
+            "ro": "Expoziția Tehnică Usedom",
+            "en": "Usedom Technical Exhibition"
+          },
+          "coords": [
+            14.130366,
+            53.965192
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie historische Maschinen und Fahrzeuge; planen Sie mindestens zwei Stunden ein, um die technischen Details zu würdigen.",
+            "hu": "Lépjen vissza az időben, és fedezze fel a történelmi gépek és járművek hatalmas gyűjteményét; szánjon legalább két órát a technikai részletek tanulmányozására.",
+            "ro": "Pășiți în trecut explorând o vastă colecție de utilaje și vehicule istorice; alocați cel puțin două ore pentru a aprecia pe deplin detaliile tehnice.",
+            "en": "Step back in time as you explore a vast collection of historical machinery and vehicles; allow at least two hours to fully appreciate the intricate technical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rolf Werner",
+            "hu": "Rolf Werner Múzeum",
+            "ro": "Muzeul Rolf Werner",
+            "en": "Museum Rolf Werner"
+          },
+          "coords": [
+            14.137172,
+            53.968365
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die lebendigen Werke dieses regionalen Künstlers in einem charmanten Ambiente; das Kombiticket ist ideal, wenn Sie auch andere Galerien besuchen.",
+            "hu": "Tekintse meg ennek a regionális művésznek az élénk alkotásait hangulatos környezetben; a kombinált jegy remek spórolási lehetőség a helyi galériák látogatásához.",
+            "ro": "Vizionați lucrările vibrante ale acestui artist regional într-un cadru fermecător; cumpărarea biletului combinat este o modalitate excelentă de a economisi.",
+            "en": "View the vibrant works of this regional artist in a charming setting; purchasing the combined ticket offers a great way to save if visiting other local galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Baumwipfelpfad Usedom",
+            "hu": "Usedom Lombkoronasétány",
+            "ro": "Poteca deasupra Copacilor Usedom",
+            "en": "Usedom Treetop Walk"
+          },
+          "coords": [
+            14.168293,
+            53.949002
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf diesem erhöhten Pfad über den Baumwipfeln und genießen Sie spektakuläre Ausblicke; besuchen Sie ihn gegen Sonnenuntergang für tolle Fotos.",
+            "hu": "Sétáljon a fák lombkoronája felett ezen a lenyűgöző kilátást nyújtó tanösvényen; naplemente környékén látogasson el ide, ha tökéletes fotókat szeretne készíteni.",
+            "ro": "Plimbați-vă deasupra copacilor pe această potecă suspendată cu vederi spectaculoase asupra insulei; vizitați-o la apus pentru fotografii de coastă uluitoare.",
+            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Präsidentenberg",
+            "hu": "Elnök-hegy",
+            "ro": "Muntele Președintelui",
+            "en": "President's Hill"
+          },
+          "coords": [
+            14.168885,
+            53.945374
+          ],
+          "category": "natural",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese natürliche Erhebung für einen Panoramablick über die Ostseeküste; tragen Sie bequeme Wanderschuhe, da der Weg leicht uneben ist.",
+            "hu": "Túrázzon fel erre a festői magaslatra, ahonnan panorámás kilátás nyílik a balti partvidékre; viseljen kényelmes cipőt, mivel az ösvény egyenetlen lehet.",
+            "ro": "Urcați pe această colină naturală pentru vederi panoramice asupra coastei baltice; purtați pantofi de mers confortabili, deoarece poteca poate fi neregulată.",
+            "en": "Hike up to this scenic natural elevation for panoramic views across the Baltic coastline; wear comfortable walking shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Fürstentelefon",
+            "hu": "Hercegi Telefon",
+            "ro": "Telefonul Princiar",
+            "en": "Prince's Telephone"
+          },
+          "coords": [
+            14.159485,
+            53.947896
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses skurrile historische Kommunikationsdenkmal in der Nähe der Promenade, das ein lustiges Fotomotiv bietet, also halten Sie die Kamera bereit.",
+            "hu": "Fedezze fel ezt a sétány közelében megbúvó furcsa történelmi kommunikációs emlékművet; remek fotótéma, ezért tartsa kéznél a fényképezőgépét séta közben.",
+            "ro": "Descoperiți acest monument istoric de comunicare neobișnuit ascuns lângă promenadă; este o ocazie excelentă pentru fotografii, așa că țineți aparatul la îndemână.",
+            "en": "Discover this quirky historical communication landmark tucked near the promenade; it makes for a fun photo op, so keep your camera handy as you stroll by."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostseetherme",
+            "hu": "Keleti-tengeri Termálfürdő",
+            "ro": "Băile Termale Baltice",
+            "en": "Baltic Sea Thermal Baths"
+          },
+          "coords": [
+            14.17841,
+            53.945563
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln im warmen Heilwasser dieses Thermalbads am Meer und packen Sie ein zusätzliches Handtuch und Badeschuhe für einen angenehmen Besuch ein.",
+            "hu": "Lazítsa el izmait e tengerparti fürdőkomplexum meleg, gyógyító termálvizében; pakoljon be egy extra törölközőt és papucsot a kényelmes látogatás érdekében.",
+            "ro": "Relaxați-vă mușchii în apele termale vindecătoare ale acestui complex balnear de la malul mării; luați un prosop suplimentar și șlapi pentru confort.",
+            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Roadtrip startet faszinierend mit historischer Technik und regionaler Kunst in den Museen von Bansin. Zur Mittagszeit steuern Sie den beeindruckenden Baumwipfelpfad an, um die Insel von oben zu bewundern. Am Nachmittag erwarten Sie herrliche Ausblicke vom Präsidentenberg und kuriosen Entdeckungen am Fürstentelefon. Der späte Nachmittag lädt zu einem ausgiebigen Erholungsbad in der Ostseetherme ein.",
+        "hu": "Az autós túra izgalmasan indul a történelmi technikával és regionális művészettel a bansini múzeumokban. Délben a lenyűgöző lombkoronasétány felé veszi az irányt, hogy fentről csodálja meg a szigetet. Délután csodálatos kilátás várja az Elnök-hegyről és érdekes felfedezések a Hercegi Telefonnál. A késő délután kiadós és pihentető fürdőzésre csábít a termálfürdőben.",
+        "ro": "Excursia auto începe fascinant cu tehnică istorică și artă regională în muzeele din Bansin. La prânz vă îndreptați spre impresionanta potecă suspendată pentru a admira insula de sus. După-amiaza oferă priveliști magnifice de pe Muntele Președintelui și descoperiri curioase la Telefonul Princiar. După-amiaza târzie vă invită la o baie relaxantă prelungită în apele termale.",
+        "en": "The road trip kicks off with a fascinating look at historical technology and regional art in Bansin's museums. Midday directs you to the impressive treetop walk to admire the island from high above. The afternoon offers magnificent natural views from President's Hill and quirky historical finds. The late afternoon perfectly wraps up with an extended, soothing soak at the coastal thermal baths."
+      }
+    }
+  }
+}

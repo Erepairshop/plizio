@@ -1,0 +1,497 @@
+{
+  "city_id": "sausset-les-pins",
+  "anchor": {
+    "name": "Sausset-les-Pins",
+    "coords": [
+      5.1139,
+      43.3322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charles-Roux",
+            "hu": "Charles-Roux Kastély",
+            "ro": "Castelul Charles-Roux",
+            "en": "Charles-Roux Castle"
+          },
+          "coords": [
+            5.111446,
+            43.331107
+          ],
+          "category": "historical",
+          "arrive_at": "09:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses Küstenschlosses aus dem 19. Jahrhundert und kommen Sie früh, um die Fassade ohne harte Mittagssonne zu fotografieren.",
+            "hu": "Csodálja meg a 19. századi tengerparti kastély lenyűgöző építészetét, és érkezzen korán, hogy a homlokzatot a déli erős napfény előtt lefotózhassa.",
+            "ro": "Admirați arhitectura impresionantă a acestui castel de coastă din secolul al XIX-lea și ajungeți devreme pentru a fotografia fațada înainte de lumina puternică a amiezii.",
+            "en": "Admire the striking architecture of this 19th-century coastal castle and arrive early to photograph the facade before the bright midday sun creates harsh shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Sausset",
+            "hu": "Sausset Kikötő",
+            "ro": "Portul Sausset",
+            "en": "Sausset Marina"
+          },
+          "coords": [
+            5.108404,
+            43.329794
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Hafen mit den schaukelnden Booten entlang und trinken Sie einen frischen Kaffee auf einer Terrasse, um die Fischer bei der Arbeit zu beobachten.",
+            "hu": "Sétáljon végig a ringatózó csónakokkal teli nyüzsgő kikötőn, és igyon egy kávét egy vízparti teraszon, figyelve a helyi halászok reggeli zsákmányának érkezését.",
+            "ro": "Plimbați-vă de-a lungul portului plin de bărci și savurați o cafea proaspătă la o terasă pe malul apei pentru a privi pescarii aducând captura de dimineață.",
+            "en": "Stroll along the vibrant harbor filled with bobbing boats, and grab a fresh coffee at a waterfront terrace to watch the local fishermen bring in their morning catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad (Sentier du Littoral)",
+            "hu": "Parti Ösvény (Sentier du Littoral)",
+            "ro": "Cărarea de Coastă (Sentier du Littoral)",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            5.106924,
+            43.329867
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesem malerischen Klippenpfad mit spektakulärem Blick auf das Mittelmeer, aber tragen Sie festes Schuhwerk, da der felsige Weg teilweise uneben ist.",
+            "hu": "Sétáljon ezen a festői sziklaösvényen a lenyűgöző mediterrán kilátásért, de viseljen masszív cipőt, mivel a sziklás út egyes magasan fekvő részeken egyenetlen lehet.",
+            "ro": "Mergeți pe acest traseu pitoresc pe stânci pentru vederi spectaculoase la Mediterană, dar purtați încălțăminte rezistentă, deoarece poteca stâncoasă este uneori denivelată.",
+            "en": "Walk this scenic cliffside trail for spectacular Mediterranean views, but be sure to wear sturdy shoes as the rocky path can be uneven in certain elevated areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Petit Nid",
+            "hu": "Petit Nid Strand",
+            "ro": "Plaja Petit Nid",
+            "en": "Petit Nid Beach"
+          },
+          "coords": [
+            5.099702,
+            43.329492
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Kieselstrand mit klarem Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um die reiche Unterwasserwelt an den flachen Felsen zu erkunden.",
+            "hu": "Pihenjen ezen a kristálytiszta vizéről ismert bájos kavicsos strandon, és hozzon magával búvárfelszerelést a sekély sziklák között megbúvó tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare cu pietriș și ape clare și aduceți-vă echipamentul de snorkeling pentru a explora viața marină bogată dintre stâncile scunde.",
+            "en": "Relax at this charming pebble beach known for its clear waters, and bring your snorkeling gear to explore the rich marine life hiding among the shallow rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plagette du Grand Nid",
+            "hu": "Plagette du Grand Nid",
+            "ro": "Plagette du Grand Nid",
+            "en": "Plagette du Grand Nid"
+          },
+          "coords": [
+            5.096178,
+            43.329648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigeren Ort zum Sonnenbaden abseits der Massen, aber bringen Sie ein dickes Handtuch mit, da die groben Kieselsteine unbequem sein können.",
+            "hu": "Élvezze ezt a csendesebb, tömegtől távoli napozóhelyet, de ne felejtsen el vastag törölközőt hozni, mivel a durva kavicsokon kényelmetlen lehet a fekvés.",
+            "ro": "Bucurați-vă de un loc liniștit pentru plajă, departe de aglomerație, dar aduceți un prosop gros, deoarece pietrișul mare poate fi inconfortabil pentru statul întins.",
+            "en": "Enjoy a quieter sunbathing spot away from the main crowds, but remember to bring a thick towel or beach mat since the coarse pebbles can be uncomfortable to lie on."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des Schlosses Charles-Roux und spazieren Sie dann zum lebhaften Yachthafen von Sausset.\nMittags schlendern Sie entlang des malerischen Küstenpfads, der atemberaubende Ausblicke auf das Mittelmeer bietet.\nAm Nachmittag entspannen Sie am Strand Petit Nid und schnorcheln im unberührten, klaren Wasser.\nBeenden Sie Ihren Rundgang an der Plagette du Grand Nid und genießen Sie den friedlichen Sonnenuntergang fernab des Trubels.",
+        "hu": "Kezdje a reggelt a Charles-Roux kastély felfedezésével, majd irány a nyüzsgő Sausset kikötő, hogy élvezze a tengeri hangulatot.\nDélben egy festői séta vár a parti ösvényen, amely lenyűgöző kilátást nyújt a csillogó Földközi-tengerre.\nDélután telepedjen le a Petit Nid strandon, hogy pihenjen és sznorkelezzen a kristálytiszta vizekben.\nZárja a túrát a Plagette du Grand Nid strandon, és élvezze a nyugodt naplementét a központ zajától távol.",
+        "ro": "Începeți dimineața explorând castelul Charles-Roux, apoi îndreptați-vă spre portul plin de viață Sausset pentru a admira bărcile.\nLa amiază, faceți o plimbare pitorească pe traseul de coastă, cu vederi uimitoare la Marea Mediterană.\nDupă-amiaza, relaxați-vă la plaja Petit Nid și faceți snorkeling în apele sale curate și limpezi.\nÎncheiați-vă turul la Plagette du Grand Nid, bucurându-vă de un apus liniștit departe de agitația orașului.",
+        "en": "Start your morning exploring the striking 19th-century architecture of Charles-Roux Castle, then head to the lively Sausset Marina.\nMidday brings a scenic stroll along the Coastal Path, offering stunning views of the sparkling Mediterranean Sea.\nIn the afternoon, settle down at Petit Nid Beach to relax and snorkel in its pristine, clear waters.\nConclude your walking tour at Plagette du Grand Nid, enjoying the serene sunset away from the bustling town center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charles-Roux",
+            "hu": "Charles-Roux Kastély",
+            "ro": "Castelul Charles-Roux",
+            "en": "Charles-Roux Castle"
+          },
+          "coords": [
+            5.111446,
+            43.331107
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses Küstenschlosses aus dem 19. Jahrhundert und kommen Sie früh, um die Fassade ohne harte Mittagssonne zu fotografieren.",
+            "hu": "Csodálja meg a 19. századi tengerparti kastély lenyűgöző építészetét, és érkezzen korán, hogy a homlokzatot a déli erős napfény előtt lefotózhassa.",
+            "ro": "Admirați arhitectura impresionantă a acestui castel de coastă din secolul al XIX-lea și ajungeți devreme pentru a fotografia fațada înainte de lumina puternică a amiezii.",
+            "en": "Admire the striking architecture of this 19th-century coastal castle and arrive early to photograph the facade before the bright midday sun creates harsh shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Sausset",
+            "hu": "Sausset Kikötő",
+            "ro": "Portul Sausset",
+            "en": "Sausset Marina"
+          },
+          "coords": [
+            5.108404,
+            43.329794
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Hafen mit den schaukelnden Booten entlang und trinken Sie einen frischen Kaffee auf einer Terrasse, um die Fischer bei der Arbeit zu beobachten.",
+            "hu": "Sétáljon végig a ringatózó csónakokkal teli nyüzsgő kikötőn, és igyon egy kávét egy vízparti teraszon, figyelve a helyi halászok reggeli zsákmányának érkezését.",
+            "ro": "Plimbați-vă de-a lungul portului plin de bărci și savurați o cafea proaspătă la o terasă pe malul apei pentru a privi pescarii aducând captura de dimineață.",
+            "en": "Stroll along the vibrant harbor filled with bobbing boats, and grab a fresh coffee at a waterfront terrace to watch the local fishermen bring in their morning catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad (Sentier du Littoral)",
+            "hu": "Parti Ösvény (Sentier du Littoral)",
+            "ro": "Cărarea de Coastă (Sentier du Littoral)",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            5.106924,
+            43.329867
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesem malerischen Klippenpfad mit spektakulärem Blick auf das Mittelmeer, aber tragen Sie festes Schuhwerk, da der felsige Weg teilweise uneben ist.",
+            "hu": "Sétáljon ezen a festői sziklaösvényen a lenyűgöző mediterrán kilátásért, de viseljen masszív cipőt, mivel a sziklás út egyes magasan fekvő részeken egyenetlen lehet.",
+            "ro": "Mergeți pe acest traseu pitoresc pe stânci pentru vederi spectaculoase la Mediterană, dar purtați încălțăminte rezistentă, deoarece poteca stâncoasă este uneori denivelată.",
+            "en": "Walk this scenic cliffside trail for spectacular Mediterranean views, but be sure to wear sturdy shoes as the rocky path can be uneven in certain elevated areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Petit Nid",
+            "hu": "Petit Nid Strand",
+            "ro": "Plaja Petit Nid",
+            "en": "Petit Nid Beach"
+          },
+          "coords": [
+            5.099702,
+            43.329492
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Kieselstrand mit klarem Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um die reiche Unterwasserwelt an den flachen Felsen zu erkunden.",
+            "hu": "Pihenjen ezen a kristálytiszta vizéről ismert bájos kavicsos strandon, és hozzon magával búvárfelszerelést a sekély sziklák között megbúvó tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare cu pietriș și ape clare și aduceți-vă echipamentul de snorkeling pentru a explora viața marină bogată dintre stâncile scunde.",
+            "en": "Relax at this charming pebble beach known for its clear waters, and bring your snorkeling gear to explore the rich marine life hiding among the shallow rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plagette du Four à Chaux",
+            "hu": "Plagette du Four à Chaux",
+            "ro": "Plagette du Four à Chaux",
+            "en": "Plagette du Four à Chaux"
+          },
+          "coords": [
+            5.092408,
+            43.332521
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht inmitten der Kalksteinklippen, wo Sie am Nachmittag natürlichen Schatten finden – ideal für ein friedliches Picknick.",
+            "hu": "Fedezze fel ezt a mészkősziklák között megbúvó rejtett öblöt, ahol délután természetes árnyékot talál, ami tökéletessé teszi egy békés piknikhez.",
+            "ro": "Descoperiți acest golf ascuns printre stâncile de calcar, unde veți găsi umbră naturală după-amiaza, un loc perfect pentru o pauză liniștită de picnic.",
+            "en": "Discover this hidden cove nestled amidst the limestone cliffs, where you can find natural shade in the afternoon, making it perfect for a peaceful picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Roselière",
+            "hu": "Plage de la Roselière",
+            "ro": "Plage de la Roselière",
+            "en": "Plage de la Roselière"
+          },
+          "coords": [
+            5.088206,
+            43.333073
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im azurblauen Wasser dieses malerischen Ortes und erkunden Sie die Küstenvegetation, die diesem hübschen kleinen Strand seinen Namen gibt.",
+            "hu": "Csobbanjon egyet e festői hely azúrkék vizében, és fedezze fel a közeli parti növényzetet, amely erről a szép kis strandról kapta jellegzetes nevét.",
+            "ro": "Înotați în apele azurii ale acestui loc pitoresc și explorați vegetația de coastă din apropiere care dă numele distinctiv al acestei plaje mici și minunate.",
+            "en": "Take a refreshing swim in the azure waters of this picturesque spot, and explore the nearby coastal vegetation that gives this lovely small beach its distinctive name."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Sainte-Croix",
+            "hu": "Plage de Sainte-Croix",
+            "ro": "Plage de Sainte-Croix",
+            "en": "Plage de Sainte-Croix"
+          },
+          "coords": [
+            5.07101,
+            43.331585
+          ],
+          "category": "recreational",
+          "arrive_at": "17:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Verbringen Sie den späten Nachmittag an diesem geräumigen Sandstrand mit hervorragenden Einrichtungen und sichern Sie sich einen Platz nahe der Kapelle für den besten Sonnenuntergang.",
+            "hu": "Töltse a késő délutánt ezen a tágas homokos strandon, amely kiváló felszereltséggel rendelkezik, és keressen helyet a történelmi kápolna közelében a legjobb naplemente-nézéshez.",
+            "ro": "Petreceți după-amiaza târzie pe această plajă spațioasă cu nisip și facilități excelente, asigurându-vă un loc lângă capela istorică pentru cele mai bune apusuri.",
+            "en": "Spend your late afternoon lounging on this spacious sandy beach with excellent facilities, and secure a spot near the historic chapel for the best sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen zum Schloss Charles-Roux und fahren Sie dann gemütlich weiter zum belebten Yachthafen von Sausset.\nMittags fahren Sie entlang des Sentier du Littoral und machen eine erfrischende Pause am Strand Petit Nid.\nVerbringen Sie den Nachmittag damit, weiter nach Westen zu fahren, um die Buchten Four à Chaux und Roselière zu erkunden.\nBeenden Sie Ihren Radtag an der Plage de Sainte-Croix und entspannen Sie sich im Sand bei Sonnenuntergang.",
+        "hu": "Kerékpározzon reggel a Charles-Roux kastélyhoz, majd tegyen egy kellemes túrát a nyüzsgő Sausset kikötőbe.\nDélben tekerjen végig a lenyűgöző parti ösvényen, és tartson egy frissítő szünetet a Petit Nid strandon.\nDélután haladjon tovább nyugat felé, hogy felfedezze a Four à Chaux és a Roselière sziklás öbleit.\nFejezze be a kerékpáros napot a Plage de Sainte-Croix strandon, pihenve a homokban, ahogy a naplemente megvilágítja a kápolnát.",
+        "ro": "Creați-vă dimineața pedalând spre Castelul Charles-Roux, urmat de o plimbare plăcută spre portul vibrant din Sausset.\nLa amiază, mergeți de-a lungul impresionantului traseu de coastă și faceți o pauză la plaja Petit Nid.\nPetreceți după-amiaza mergând spre vest pentru a explora stâncile de calcar de la Four à Chaux și Roselière.\nÎncheiați ziua de ciclism la Plage de Sainte-Croix, relaxându-vă pe nisip la apusul soarelui.",
+        "en": "Cycle your way to Charles-Roux Castle in the morning, followed by a pleasant ride to the bustling Sausset Marina.\nAt midday, pedal along the stunning Sentier du Littoral and take a refreshing break at Petit Nid Beach.\nSpend your afternoon riding further west to explore the limestone cliffs and natural shade at Four à Chaux and Roselière.\nEnd your cycling day at Plage de Sainte-Croix, relaxing on the sand as the sunset illuminates the coastal chapel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:52",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charles-Roux",
+            "hu": "Charles-Roux Kastély",
+            "ro": "Castelul Charles-Roux",
+            "en": "Charles-Roux Castle"
+          },
+          "coords": [
+            5.111446,
+            43.331107
+          ],
+          "category": "historical",
+          "arrive_at": "09:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses Küstenschlosses aus dem 19. Jahrhundert und kommen Sie früh, um die Fassade ohne harte Mittagssonne zu fotografieren.",
+            "hu": "Csodálja meg a 19. századi tengerparti kastély lenyűgöző építészetét, és érkezzen korán, hogy a homlokzatot a déli erős napfény előtt lefotózhassa.",
+            "ro": "Admirați arhitectura impresionantă a acestui castel de coastă din secolul al XIX-lea și ajungeți devreme pentru a fotografia fațada înainte de lumina puternică a amiezii.",
+            "en": "Admire the striking architecture of this 19th-century coastal castle and arrive early to photograph the facade before the bright midday sun creates harsh shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Sausset",
+            "hu": "Sausset Kikötő",
+            "ro": "Portul Sausset",
+            "en": "Sausset Marina"
+          },
+          "coords": [
+            5.108404,
+            43.329794
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Hafen mit den schaukelnden Booten entlang und trinken Sie einen frischen Kaffee auf einer Terrasse, um die Fischer bei der Arbeit zu beobachten.",
+            "hu": "Sétáljon végig a ringatózó csónakokkal teli nyüzsgő kikötőn, és igyon egy kávét egy vízparti teraszon, figyelve a helyi halászok reggeli zsákmányának érkezését.",
+            "ro": "Plimbați-vă de-a lungul portului plin de bărci și savurați o cafea proaspătă la o terasă pe malul apei pentru a privi pescarii aducând captura de dimineață.",
+            "en": "Stroll along the vibrant harbor filled with bobbing boats, and grab a fresh coffee at a waterfront terrace to watch the local fishermen bring in their morning catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Petit Nid",
+            "hu": "Petit Nid Strand",
+            "ro": "Plaja Petit Nid",
+            "en": "Petit Nid Beach"
+          },
+          "coords": [
+            5.099702,
+            43.329492
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Kieselstrand mit klarem Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um die reiche Unterwasserwelt an den flachen Felsen zu erkunden.",
+            "hu": "Pihenjen ezen a kristálytiszta vizéről ismert bájos kavicsos strandon, és hozzon magával búvárfelszerelést a sekély sziklák között megbúvó tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare cu pietriș și ape clare și aduceți-vă echipamentul de snorkeling pentru a explora viața marină bogată dintre stâncile scunde.",
+            "en": "Relax at this charming pebble beach known for its clear waters, and bring your snorkeling gear to explore the rich marine life hiding among the shallow rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plagette du Four à Chaux",
+            "hu": "Plagette du Four à Chaux",
+            "ro": "Plagette du Four à Chaux",
+            "en": "Plagette du Four à Chaux"
+          },
+          "coords": [
+            5.092408,
+            43.332521
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht inmitten der Kalksteinklippen, wo Sie am Nachmittag natürlichen Schatten finden – ideal für ein friedliches Picknick.",
+            "hu": "Fedezze fel ezt a mészkősziklák között megbúvó rejtett öblöt, ahol délután természetes árnyékot talál, ami tökéletessé teszi egy békés piknikhez.",
+            "ro": "Descoperiți acest golf ascuns printre stâncile de calcar, unde veți găsi umbră naturală după-amiaza, un loc perfect pentru o pauză liniștită de picnic.",
+            "en": "Discover this hidden cove nestled amidst the limestone cliffs, where you can find natural shade in the afternoon, making it perfect for a peaceful picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Roselière",
+            "hu": "Plage de la Roselière",
+            "ro": "Plage de la Roselière",
+            "en": "Plage de la Roselière"
+          },
+          "coords": [
+            5.088206,
+            43.333073
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im azurblauen Wasser dieses malerischen Ortes und erkunden Sie die Küstenvegetation, die diesem hübschen kleinen Strand seinen Namen gibt.",
+            "hu": "Csobbanjon egyet e festői hely azúrkék vizében, és fedezze fel a közeli parti növényzetet, amely erről a szép kis strandról kapta jellegzetes nevét.",
+            "ro": "Înotați în apele azurii ale acestui loc pitoresc și explorați vegetația de coastă din apropiere care dă numele distinctiv al acestei plaje mici și minunate.",
+            "en": "Take a refreshing swim in the azure waters of this picturesque spot, and explore the nearby coastal vegetation that gives this lovely small beach its distinctive name."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Sainte-Croix",
+            "hu": "Plage de Sainte-Croix",
+            "ro": "Plage de Sainte-Croix",
+            "en": "Plage de Sainte-Croix"
+          },
+          "coords": [
+            5.07101,
+            43.331585
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Verbringen Sie den späten Nachmittag an diesem geräumigen Sandstrand mit hervorragenden Einrichtungen und sichern Sie sich einen Platz nahe der Kapelle für den besten Sonnenuntergang.",
+            "hu": "Töltse a késő délutánt ezen a tágas homokos strandon, amely kiváló felszereltséggel rendelkezik, és keressen helyet a történelmi kápolna közelében a legjobb naplemente-nézéshez.",
+            "ro": "Petreceți după-amiaza târzie pe această plajă spațioasă cu nisip și facilități excelente, asigurându-vă un loc lângă capela istorică pentru cele mai bune apusuri.",
+            "en": "Spend your late afternoon lounging on this spacious sandy beach with excellent facilities, and secure a spot near the historic chapel for the best sunset views."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Saulce",
+            "hu": "Plage de la Saulce",
+            "ro": "Plage de la Saulce",
+            "en": "Plage de la Saulce"
+          },
+          "coords": [
+            5.070022,
+            43.332467
+          ],
+          "category": "recreational",
+          "arrive_at": "17:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem breiten, familienfreundlichen Strand mit Pinien – perfekt für einen Abendspaziergang, wenn die Meeresbrise den goldenen Sand abkühlt.",
+            "hu": "Zárja a napot ezen a fenyőfákkal szegélyezett, széles, családbarát strandon, amely tökéletes egy esti sétához, ahogy a tengeri szellő lehűti a naptól átmelegedett homokot.",
+            "ro": "Încheiați ziua pe această plajă lată și potrivită familiilor, mărginită de pini, perfectă pentru o plimbare de seară în timp ce briza răcește nisipul auriu.",
+            "en": "Finish your day at this wide, family-friendly beach flanked by pine trees, perfect for an evening stroll as the coastal breeze cools the sun-warmed golden sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Küste beim Schloss Charles-Roux und parken Sie am Yachthafen für einen morgendlichen Spaziergang.\nFahren Sie mittags zu den westlichen Buchten und erkunden Sie die Ufer von Petit Nid und die versteckten Felsbuchten.\nGenießen Sie am Nachmittag die Sonne an der Plage de la Roselière und den weiten, einladenden Sand von Sainte-Croix.\nEntspannen Sie sich abends an der Plage de la Saulce bei einem friedlichen Spaziergang unter den Pinien im Sonnenuntergang.",
+        "hu": "Kezdje a parti autózást a Charles-Roux kastélynál, majd parkoljon le a kikötő közelében egy kellemes reggeli sétához.\nDélben vezessen a nyugati öblök felé, felfedezve a Petit Nid és a rejtett sziklás partok különleges világát.\nDélután élvezze a napsütést a Plage de la Roselière strandon, majd a Sainte-Croix tágas homokos partjain.\nEste pihenjen a Plage de la Saulce strandon, és tegyen egy csendes sétát a fenyőfák alatt a mediterrán naplemente fényében.",
+        "ro": "Începeți plimbarea de-a lungul coastei la Castelul Charles-Roux, apoi parcați lângă port pentru o plimbare matinală plăcută.\nConduceți spre golfurile vestice la prânz, explorând țărmurile distincte de la Petit Nid și golfurile stâncoase ascunse.\nDupă-amiaza, bucurați-vă de soare la Plage de la Roselière și de nisipul spațios de la Sainte-Croix.\nRelaxați-vă la Plage de la Saulce seara, făcând o plimbare liniștită sub pini în timp ce soarele apune.",
+        "en": "Start your scenic coastal drive at Charles-Roux Castle, then park near the Sausset Marina for a delightful morning walk.\nDrive towards the western coves at midday, exploring the distinct shores of Petit Nid and hidden rocky bays.\nIn the afternoon, enjoy the sun at Plage de la Roselière and the spacious, welcoming sands of Sainte-Croix.\nRelax at Plage de la Saulce in the evening, taking a serene stroll under the pine trees as the Mediterranean sun sets."
+      }
+    }
+  }
+}

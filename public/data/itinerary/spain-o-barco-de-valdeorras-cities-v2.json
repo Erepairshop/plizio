@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-o-barco-de-valdeorras-cities-v2",
+  "anchor": {
+    "name": "O Barco de Valdeorras",
+    "coords": [
+      -6.983228,
+      42.415767
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Lauro Olmo",
+            "hu": "Teatro Lauro Olmo",
+            "ro": "Teatro Lauro Olmo",
+            "en": "Teatro Lauro Olmo"
+          },
+          "coords": [
+            -6.985542,
+            42.415448
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz von Valdeorras in diesem modernen Theaterraum, den Sie am besten morgens nach einem Espresso in den nahegelegenen Cafés besuchen.",
+            "hu": "Csodálja meg Valdeorras kulturális központját ebben a modern színházban, amelyet érdemes reggel felkeresni, mielőtt beülne egy kávéra a közeli kávézók egyikébe.",
+            "ro": "Admirați inima culturală a orașului Valdeorras la acest teatru modern, care se vizitează cel mai bine dimineața, în timp ce cafenelele din apropiere se deschid.",
+            "en": "Admire the vibrant cultural heartbeat of Valdeorras at this modern theater space, best visited in the morning when the nearby cafes open for a quick espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello do Barco de Valdeorras",
+            "hu": "O Barco de Valdeorras Városháza",
+            "ro": "Primăria din O Barco de Valdeorras",
+            "en": "Town Hall of O Barco de Valdeorras"
+          },
+          "coords": [
+            -6.984031,
+            42.416425
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Linien des örtlichen Rathauses, das das bürgerliche Leben der Stadt prägt, und fotografieren Sie es vor der heißen Mittagssonne.",
+            "hu": "Figyelje meg a helyi városháza elegáns építészeti vonalait, amely a város életének központja, és készítsen nagyszerű fotókat a téren még a déli napsütés előtt.",
+            "ro": "Observați liniile arhitecturale elegante ale primăriei locale, centrul vieții civice, și faceți fotografii din piață înainte ca soarele de prânz să devină puternic.",
+            "en": "Observe the elegant architectural lines of the local town hall, which anchors the city's civic life, and snap your photos from the square before the midday sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Mauro do Barco",
+            "hu": "San Mauro do Barco templom",
+            "ro": "Biserica San Mauro do Barco",
+            "en": "Church of San Mauro do Barco"
+          },
+          "coords": [
+            -6.981351,
+            42.415521
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Treten Sie in diese zentrale Pfarrkirche ein, um das ruhige Altarbild zu bewundern, und kleiden Sie sich aus Respekt vor den einheimischen Gläubigen angemessen.",
+            "hu": "Lépjen be ebbe a központi plébániatemplomba, hogy megcsodálja a nyugodt oltárképet, és ne felejtsen el szerényen öltözködni a helyi hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică parohială centrală pentru a-i aprecia altarul senin și amintiți-vă să vă îmbrăcați modest, din respect pentru credincioșii locali.",
+            "en": "Step inside this central parish church to appreciate its serene altarpiece, and remember to dress modestly out of respect for the local worshippers attending daily mass."
+          }
+        },
+        {
+          "name": {
+            "de": "A Casa Grande de Viloira",
+            "hu": "A Casa Grande de Viloira",
+            "ro": "A Casa Grande de Viloira",
+            "en": "A Casa Grande de Viloira"
+          },
+          "coords": [
+            -6.97947,
+            42.41165
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, um die aristokratische Vergangenheit der Region zu verstehen, und achten Sie auf die Ausstellungen im Innenhof.",
+            "hu": "Fedezze fel ezt az impozáns történelmi udvarházat, hogy megértse a régió arisztokratikus múltját, és nézze meg a belső udvaron gyakran megrendezett kiállításokat.",
+            "ro": "Explorați acest impunător conac istoric pentru a înțelege trecutul aristocratic al regiunii, verificând expozițiile din curte care prezintă moștenirea galiciană.",
+            "en": "Explore this imposing historic manor house to understand the region's aristocratic past, checking the courtyard exhibits which often display local Galician heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño de Viloira",
+            "hu": "San Martiño de Viloira templom",
+            "ro": "Biserica San Martiño de Viloira",
+            "en": "Church of San Martiño de Viloira"
+          },
+          "coords": [
+            -6.980551,
+            42.411915
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Mauerwerk dieser charmanten Viertelkirche, die Sie am besten von der angrenzenden Plaza aus betrachten, wo Bänke Schatten spenden.",
+            "hu": "Fedezze fel ennek a bájos szomszédsági templomnak a hagyományos kőműves munkáját, amelyet tökéletesen megcsodálhat a szomszédos tér egyik árnyékos padjáról.",
+            "ro": "Descoperiți zidăria tradițională a acestei biserici fermecătoare de cartier, perfect vizibilă din piața adiacentă, unde vă puteți odihni pe o bancă la umbră.",
+            "en": "Discover the traditional stone masonry of this charming neighborhood church, perfectly viewed from the adjacent plaza where you can rest on a shaded bench for a moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiga Ponte de San Fernando",
+            "hu": "San Fernando Régi Hídja",
+            "ro": "Vechiul Pod San Fernando",
+            "en": "Old Bridge of San Fernando"
+          },
+          "coords": [
+            -6.977608,
+            42.412591
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese historische Brücke, um die herrliche Aussicht auf den Fluss Sil zu genießen, und bringen Sie eine Windjacke mit, da hier oft eine Brise weht.",
+            "hu": "Sétáljon át ezen a történelmi hídon, hogy lenyűgöző kilátást kapjon a Sil folyó lágy áramlására, de hozzon széldzsekit, mert a folyóparti szél meglehetősen hűvös.",
+            "ro": "Traversați acest pod istoric pentru vederi uimitoare ale râului Sil și asigurați-vă că aduceți o jachetă, deoarece briza de pe malul râului poate fi destul de rece.",
+            "en": "Walk across this historic bridge to experience stunning views of the Sil river's gentle flow, making sure to bring a windbreaker as the riverbank breeze can be brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in O Barco beginnt im lebhaften Zentrum, wo Sie moderne Kultur und bürgerliches Erbe erleben. Gegen Mittag tauchen Sie im Rathaus und in der Pfarrkirche tief in die Geschichte ein. Der Nachmittag lädt Sie ein, nach Süden zu schlendern und alte Herrenhäuser zu erkunden. Wenn der Abend hereinbricht, bietet die Überquerung der historischen Steinbrücke einen atemberaubenden Sonnenuntergang am Fluss.",
+        "hu": "O Barco-i reggele a nyüzsgő központban kezdődik, felfedezve a modern kultúrát és a polgári örökséget. Délben a városházán és a központi templomban mélyedhet el a történelemben. A délután egy déli irányú sétára invitálja, ahol arisztokrata udvarházakat és plébániákat fedezhet fel. Végül, ahogy leszáll az est, a történelmi kőhídon átkelve lélegzetelállító naplementében lehet része a folyónál.",
+        "ro": "Dimineața dvs. în O Barco începe în centrul vibrant, îmbrățișând cultura sa modernă. În jurul prânzului, veți pătrunde mai adânc în istoria locală la primărie și la biserica parohială centrală. După-amiaza vă invită să vă plimbați spre sud, explorând conace aristocratice și parohii locale fermecătoare. În cele din urmă, la lăsarea serii, podul istoric oferă un apus de soare uluitor pe râu.",
+        "en": "Your morning in O Barco begins in the vibrant center, embracing its modern culture and civic heritage. Around midday, you will delve deeper into the local history at the town hall and the central parish church. The afternoon invites you to stroll southwards, exploring aristocratic manors and charming local parishes. Finally, as evening falls, crossing the historic stone bridge provides a breathtaking river sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello do Barco de Valdeorras",
+            "hu": "O Barco de Valdeorras Városháza",
+            "ro": "Primăria din O Barco de Valdeorras",
+            "en": "Town Hall of O Barco de Valdeorras"
+          },
+          "coords": [
+            -6.984031,
+            42.416425
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Linien des örtlichen Rathauses, das das bürgerliche Leben der Stadt prägt, und fotografieren Sie es vor der heißen Mittagssonne.",
+            "hu": "Figyelje meg a helyi városháza elegáns építészeti vonalait, amely a város életének központja, és készítsen nagyszerű fotókat a téren még a déli napsütés előtt.",
+            "ro": "Observați liniile arhitecturale elegante ale primăriei locale, centrul vieții civice, și faceți fotografii din piață înainte ca soarele de prânz să devină puternic.",
+            "en": "Observe the elegant architectural lines of the local town hall, which anchors the city's civic life, and snap your photos from the square before the midday sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Mauro do Barco",
+            "hu": "San Mauro do Barco templom",
+            "ro": "Biserica San Mauro do Barco",
+            "en": "Church of San Mauro do Barco"
+          },
+          "coords": [
+            -6.981351,
+            42.415521
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Treten Sie in diese zentrale Pfarrkirche ein, um das ruhige Altarbild zu bewundern, und kleiden Sie sich aus Respekt vor den einheimischen Gläubigen angemessen.",
+            "hu": "Lépjen be ebbe a központi plébániatemplomba, hogy megcsodálja a nyugodt oltárképet, és ne felejtsen el szerényen öltözködni a helyi hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică parohială centrală pentru a-i aprecia altarul senin și amintiți-vă să vă îmbrăcați modest, din respect pentru credincioșii locali.",
+            "en": "Step inside this central parish church to appreciate its serene altarpiece, and remember to dress modestly out of respect for the local worshippers attending daily mass."
+          }
+        },
+        {
+          "name": {
+            "de": "A Cruz",
+            "hu": "A Cruz Emlékmű",
+            "ro": "Monumentul A Cruz",
+            "en": "A Cruz Monument"
+          },
+          "coords": [
+            -6.973514,
+            42.41452
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem markanten historischen Kreuzdenkmal, das einen wichtigen Aussichtspunkt markiert, und tragen Sie feste Schuhe für das unebene Gelände am Ende.",
+            "hu": "Túrázzon fel ehhez a kiemelkedő történelmi kereszt emlékműhöz, amely jelentős helyi kilátó, és viseljen masszív cipőt, mivel a végső megközelítés kissé egyenetlen.",
+            "ro": "Urcați până la acest monument istoric, o cruce care marchează un punct de belvedere local semnificativ, și purtați încălțăminte solidă pentru terenul accidentat.",
+            "en": "Hike up to this prominent historical cross monument that marks a significant local viewpoint, wearing sturdy shoes since the final approach involves uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa da Concepción de Millarouso e Santurxo",
+            "hu": "Millarouso és Santurxo Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Concepției din Millarouso și Santurxo",
+            "en": "Church of the Conception of Millarouso and Santurxo"
+          },
+          "coords": [
+            -6.958835,
+            42.412109
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese abgelegene ländliche Kirche, die die galicische religiöse Architektur perfekt veranschaulicht, und kommen Sie früh, um das Morgenlicht zu genießen.",
+            "hu": "Látogasson el ebbe a félreeső vidéki templomba, amely tökéletesen példázza a galíciai rusztikus építészetet, és érkezzen korán, hogy elkapja a szép reggeli fényeket.",
+            "ro": "Vizitați această biserică rurală retrasă care exemplifică perfect arhitectura religioasă rustică galiciană, ajungând devreme pentru a prinde lumina frumoasă a dimineții.",
+            "en": "Visit this secluded rural church that perfectly exemplifies Galician rustic religious architecture, arriving early to catch the beautiful morning light filtering through."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiga Ponte de San Fernando",
+            "hu": "San Fernando Régi Hídja",
+            "ro": "Vechiul Pod San Fernando",
+            "en": "Old Bridge of San Fernando"
+          },
+          "coords": [
+            -6.977608,
+            42.412591
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese historische Brücke, um die herrliche Aussicht auf den Fluss Sil zu genießen, und bringen Sie eine Windjacke mit, da hier oft eine Brise weht.",
+            "hu": "Sétáljon át ezen a történelmi hídon, hogy lenyűgöző kilátást kapjon a Sil folyó lágy áramlására, de hozzon széldzsekit, mert a folyóparti szél meglehetősen hűvös.",
+            "ro": "Traversați acest pod istoric pentru vederi uimitoare ale râului Sil și asigurați-vă că aduceți o jachetă, deoarece briza de pe malul râului poate fi destul de rece.",
+            "en": "Walk across this historic bridge to experience stunning views of the Sil river's gentle flow, making sure to bring a windbreaker as the riverbank breeze can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Coutado",
+            "hu": "Miradoiro do Coutado Kilátó",
+            "ro": "Punctul de Belvedere Miradoiro do Coutado",
+            "en": "Miradoiro do Coutado Viewpoint"
+          },
+          "coords": [
+            -6.979353,
+            42.408034
+          ],
+          "category": "natural",
+          "arrive_at": "14:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem natürlichen Aussichtspunkt das Panorama des Valdeorras-Tals und bringen Sie ein Fernglas mit, um die fernen Weinberge zu erspähen.",
+            "hu": "Élvezze a Valdeorras-völgy panorámáját erről a természetes kilátóról, és hozzon magával távcsövet, hogy kiszúrja a buja tájat pettyező távoli szőlőültetvényeket.",
+            "ro": "Admirați panorama văii Valdeorras din acest punct de belvedere natural, aducând un binoclu pentru a observa podgoriile îndepărtate care punctează peisajul luxuriant.",
+            "en": "Take in the panoramic sweep of the Valdeorras valley from this natural viewpoint, bringing a pair of binoculars to spot distant vineyards dotting the lush landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "A Casa Grande de Viloira",
+            "hu": "A Casa Grande de Viloira",
+            "ro": "A Casa Grande de Viloira",
+            "en": "A Casa Grande de Viloira"
+          },
+          "coords": [
+            -6.97947,
+            42.41165
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, um die aristokratische Vergangenheit der Region zu verstehen, und achten Sie auf die Ausstellungen im Innenhof.",
+            "hu": "Fedezze fel ezt az impozáns történelmi udvarházat, hogy megértse a régió arisztokratikus múltját, és nézze meg a belső udvaron gyakran megrendezett kiállításokat.",
+            "ro": "Explorați acest impunător conac istoric pentru a înțelege trecutul aristocratic al regiunii, verificând expozițiile din curte care prezintă moștenirea galiciană.",
+            "en": "Explore this imposing historic manor house to understand the region's aristocratic past, checking the courtyard exhibits which often display local Galician heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Zentrum der Stadt und sehen Sie sich die zentralen Denkmäler an. Gegen Mittag radeln Sie nach Osten zu historischen Markierungen und Kapellen. Die Nachmittagsfahrt führt Sie zum wunderschönen Ufer des Sil und über eine alte Brücke. Ihr Tag endet mit einem Anstieg zu einem Aussichtspunkt und einem entspannten Abschluss in einem historischen Herrenhaus.",
+        "hu": "Kezdje a tekerést a város polgári központjában, gyorsan áttekintve a központi műemlékeket. Délben kelet felé pedálozhat a történelmi emlékhelyek és kápolnák felé. A délutáni kerékpározás a gyönyörű Sil folyó partjával köti össze, egy ősi hídon áthaladva. A napot egy lenyűgöző kilátóhoz vezető kapaszkodó és egy fenséges történelmi kúriánál tett pihenő zárja.",
+        "ro": "Începeți cursa în inima civică a orașului, vizitând rapid monumentele centrale. Până la prânz, veți pedala spre est către repere istorice și capele rurale. Plimbarea de după-amiază vă conectează cu frumoasa malul râului Sil, trecând peste un pod vechi. Ziua se încheie cu o urcare panoramică la un punct de belvedere uimitor și un final relaxant la un conac istoric maiestuos.",
+        "en": "Start your ride at the civic heart of the town, quickly taking in the central monuments. By midday, you'll pedal eastwards toward historical markers and rural chapels. The afternoon ride connects you with the beautiful Sil riverbank, passing over an ancient bridge. Your day concludes with a scenic climb to a stunning viewpoint and a relaxing finish at a majestic historic manor."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María da Proba",
+            "hu": "Santa María da Proba templom",
+            "ro": "Biserica Santa María da Proba",
+            "en": "Church of Santa María da Proba"
+          },
+          "coords": [
+            -7.011491,
+            42.4199
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser alten Steinkirche in die historischen Wurzeln der Gegend ein, die am besten in den ruhigen frühen Morgenstunden bewundert werden kann.",
+            "hu": "Merüljön el a környék mély történelmi gyökereiben ennél az ősi kőtemplomnál, amelyet a leginkább a csendes kora reggeli órákban érdemes megcsodálni forgalom nélkül.",
+            "ro": "Pătrundeți în rădăcinile istorice adânci ale zonei la această biserică veche din piatră, care este cel mai bine admirată în orele liniștite ale dimineții devreme.",
+            "en": "Delve into the deep historical roots of the area at this ancient stone church, which is best admired during the quiet early morning hours before local traffic begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo do Castro",
+            "hu": "Pazo do Castro",
+            "ro": "Pazo do Castro",
+            "en": "Pazo do Castro"
+          },
+          "coords": [
+            -6.990506,
+            42.428877
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem großen historischen Anwesen vorbei, um sich den Lebensstil vergangener Jahrhunderte vorzustellen, und nutzen Sie die Fassade als Fotomotiv.",
+            "hu": "Sétáljon el e nagyszerű történelmi birtok mellett, hogy elképzelje a múlt századok fényűző életmódját, és figyelje meg a jól megőrzött homlokzatát a fotóihoz.",
+            "ro": "Plimbați-vă pe lângă această moșie istorică pentru a vă imagina stilul de viață opulent din trecut, observând fațada bine conservată, un fundal foto spectaculos.",
+            "en": "Stroll past this grand historic estate to imagine the opulent lifestyle of past centuries, noting its well-preserved facade that forms a spectacular photo backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grande do Castro",
+            "hu": "Casa Grande do Castro",
+            "ro": "Casa Grande do Castro",
+            "en": "Casa Grande do Castro"
+          },
+          "coords": [
+            -6.992478,
+            42.427833
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe dieses klassischen ländlichen Herrenhauses der lokalen Elite und halten Sie inne, um die aufwendigen Steinmetzarbeiten zu sehen.",
+            "hu": "Csodálja meg e klasszikus vidéki kúria monumentális méreteit, amely a helyi elit építészetet mutatja be, és álljon meg megvizsgálni a bejárat bonyolult kőfaragásait.",
+            "ro": "Minunați-vă de amploarea monumentală a acestui conac rural clasic ce prezintă arhitectura elitei locale, oprindu-vă pentru a examina pietrăria de la intrarea principală.",
+            "en": "Marvel at the monumental scale of this classic rural mansion that showcases local elite architecture, pausing to examine the intricate stonework on its main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do San Francisco Blanco de Outarelo",
+            "hu": "San Francisco Blanco de Outarelo Kápolna",
+            "ro": "Capela San Francisco Blanco de Outarelo",
+            "en": "Chapel of San Francisco Blanco de Outarelo"
+          },
+          "coords": [
+            -6.984105,
+            42.433452
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Finden Sie Frieden in dieser kleinen, historisch bedeutsamen Kapelle, die einem lokalen Märtyrer gewidmet ist, und nehmen Sie Wasser mit, da es hier kaum Geschäfte gibt.",
+            "hu": "Találjon békére ebben a kis, történelmileg jelentős kápolnában, amelyet egy helyi vértanúnak szenteltek, és vigyen magával vizet, mert kevés bolt van ezen a részen.",
+            "ro": "Găsiți liniște la această mică capelă istorică dedicată unui martir local, luând cu voi apă, deoarece există puține magazine disponibile în acest sector nordic.",
+            "en": "Find peace at this small, historically significant chapel dedicated to a local martyr, packing some water as there are few shops available in this quiet northern sector."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Vilanova de Valdeorras",
+            "hu": "Santa María de Vilanova de Valdeorras templom",
+            "ro": "Biserica Santa María de Vilanova de Valdeorras",
+            "en": "Church of Santa María de Vilanova de Valdeorras"
+          },
+          "coords": [
+            -6.975488,
+            42.432185
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Struktur dieser Pfarrkirche im Viertel Vilanova und machen Sie einen kurzen Spaziergang durch die umliegenden Dorfstraßen für lokales Flair.",
+            "hu": "Csodálja meg a Vilanova negyedet szolgáló plébániatemplom időtlen szerkezetét, és tegyen egy rövid sétát a környező falusi utcákon az autentikus hangulatért.",
+            "ro": "Admirați structura atemporală a acestei biserici parohiale care deservește districtul Vilanova, făcând o scurtă plimbare pe străzile satului pentru o vibrație autentică.",
+            "en": "Admire the timeless structure of this parish church serving the Vilanova district, taking a short walk through the surrounding village streets to feel the authentic vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "A Casa Grande de Viloira",
+            "hu": "A Casa Grande de Viloira",
+            "ro": "A Casa Grande de Viloira",
+            "en": "A Casa Grande de Viloira"
+          },
+          "coords": [
+            -6.97947,
+            42.41165
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, um die aristokratische Vergangenheit der Region zu verstehen, und achten Sie auf die Ausstellungen im Innenhof.",
+            "hu": "Fedezze fel ezt az impozáns történelmi udvarházat, hogy megértse a régió arisztokratikus múltját, és nézze meg a belső udvaron gyakran megrendezett kiállításokat.",
+            "ro": "Explorați acest impunător conac istoric pentru a înțelege trecutul aristocratic al regiunii, verificând expozițiile din curte care prezintă moștenirea galiciană.",
+            "en": "Explore this imposing historic manor house to understand the region's aristocratic past, checking the courtyard exhibits which often display local Galician heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Coutado",
+            "hu": "Miradoiro do Coutado Kilátó",
+            "ro": "Punctul de Belvedere Miradoiro do Coutado",
+            "en": "Miradoiro do Coutado Viewpoint"
+          },
+          "coords": [
+            -6.979353,
+            42.408034
+          ],
+          "category": "natural",
+          "arrive_at": "15:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem natürlichen Aussichtspunkt das Panorama des Valdeorras-Tals und bringen Sie ein Fernglas mit, um die fernen Weinberge zu erspähen.",
+            "hu": "Élvezze a Valdeorras-völgy panorámáját erről a természetes kilátóról, és hozzon magával távcsövet, hogy kiszúrja a buja tájat pettyező távoli szőlőültetvényeket.",
+            "ro": "Admirați panorama văii Valdeorras din acest punct de belvedere natural, aducând un binoclu pentru a observa podgoriile îndepărtate care punctează peisajul luxuriant.",
+            "en": "Take in the panoramic sweep of the Valdeorras valley from this natural viewpoint, bringing a pair of binoculars to spot distant vineyards dotting the lush landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im fernen Westen und entdeckt die ältesten Steinstrukturen des Tals. Gegen Mittag fahren Sie nach Norden, um beeindruckende Anwesen und bedeutende Wahrzeichen zu bewundern. Der Nachmittag ist den ruhigen ländlichen Kirchen im Norden gewidmet. Schließlich fahren Sie nach Süden, um ein aristokratisches Haus zu erkunden und den Sonnenuntergang von einem natürlichen Aussichtspunkt zu beobachten.",
+        "hu": "Az autós túra a messzi nyugaton kezdődik, feltárva a völgy legrégebbi kőszerkezeteit. Délben vezessen északra, hogy megcsodálja az impozáns birtokokat és a jelentős nevezetességeket. A délutánt az északi körzeteket tarkító derűs vidéki templomoknak szenteljük. Végül délre hajt, hogy felfedezzen egy arisztokrata otthont, és egy csodálatos természetes kilátóból nézze meg a naplementét.",
+        "ro": "Turul dvs. cu mașina începe în extremitatea vestică, descoperind cele mai vechi structuri din piatră. În jurul prânzului, conduceți spre nord pentru a admira moșii impunătoare și repere regionale semnificative. După-amiaza este dedicată bisericilor rurale senine din districtele nordice. În cele din urmă, veți conduce spre sud pentru a explora o casă aristocratică și pentru a privi apusul soarelui dintr-un punct de belvedere natural.",
+        "en": "Your driving tour begins far west, uncovering the oldest stone structures of the valley. Around midday, drive north to marvel at imposing estates and significant regional landmarks. The afternoon is dedicated to the serene rural churches dotting the northern districts. Finally, you will drive south to explore an aristocratic home and watch the sunset from a magnificent natural viewpoint."
+      }
+    }
+  }
+}

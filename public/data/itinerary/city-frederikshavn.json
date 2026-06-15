@@ -1,0 +1,474 @@
+{
+  "city_id": "city-frederikshavn",
+  "anchor": {
+    "name": "Frederikshavn",
+    "coords": [
+      10.5366,
+      57.4419
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Det Musiske Hus",
+            "hu": "Det Musiske Hus",
+            "ro": "Det Musiske Hus",
+            "en": "Det Musiske Hus"
+          },
+          "coords": [
+            10.533547,
+            57.440371
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum, das sich perfekt für einen bereichernden Start in den Tag eignet, wenn Sie das Programm im Voraus prüfen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, amely tökéletes kezdése a napnak, ha előre ellenőrzi a délelőtti kiállítások időpontjait.",
+            "ro": "Descoperiți arta locală la acest centru cultural modern, perfect pentru a începe ziua cu o notă creativă dacă verificați programul expozițiilor de dimineață.",
+            "en": "Discover local arts at this modern cultural hub, perfect for an enriching start to your day if you check their schedule for morning exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Quality Hotel™ The Reef",
+            "hu": "Quality Hotel™ The Reef",
+            "ro": "Quality Hotel™ The Reef",
+            "en": "Quality Hotel™ The Reef"
+          },
+          "coords": [
+            10.537008,
+            57.4388
+          ],
+          "category": "family",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den tropischen Spaß dieses überdachten Wasserparks im karibischen Stil, wo frühes Erscheinen die besten Liegestühle am Hauptwellenbad garantiert.",
+            "hu": "Merüljön el a trópusi hangulatban ebben a karibi stílusú fedett élményfürdőben, ahol a korai érkezéssel biztosíthatja a legjobb nyugágyakat a hullámmedence mellett.",
+            "ro": "Scufundați-vă în distracția tropicală la acest parc acvatic interior cu tematică caraibiană, unde sosirea devreme vă garantează cele mai bune șezlonguri.",
+            "en": "Dive into tropical fun at this Caribbean-themed indoor water park, a fantastic family treat where arriving early guarantees you the best loungers by the main wave pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordre Skanse",
+            "hu": "Nordre Skanse",
+            "ro": "Nordre Skanse",
+            "en": "Nordre Skanse"
+          },
+          "coords": [
+            10.544867,
+            57.450541
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltenen Küstenbefestigungen aus dem 17. Jahrhundert, die neben Militärgeschichte auch einen herrlichen Panoramablick von den Wällen bieten.",
+            "hu": "Fedezze fel ezt a jól megőrzött 17. századi tengerparti erődítményt, amely bepillantást enged a hadtörténetbe és pazar kilátást nyújt a füves sáncokról a tengerre.",
+            "ro": "Explorați aceste fortificații de coastă bine conservate din secolul al XVII-lea, care oferă o istorie militară fascinantă și vederi panoramice la mare de pe metereze.",
+            "en": "Explore these well-preserved 17th-century coastal fortifications, offering a glimpse into military history along with panoramic sea views from the grassy ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseet",
+            "hu": "Bunkermuseet",
+            "ro": "Bunkermuseet",
+            "en": "Bunkermuseet"
+          },
+          "coords": [
+            10.536425,
+            57.459964
+          ],
+          "category": "museum",
+          "arrive_at": "13:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem weitläufigen Bunkerkomplex aus dem Zweiten Weltkrieg, in dem eine leichte Jacke ratsam ist, da die Gänge kühl sein können.",
+            "hu": "Lépjen vissza az időben ebben a kiterjedt második világháborús bunkerkomplexumban, ahová érdemes egy könnyű kabátot hozni, mivel a föld alatti folyosók meglehetősen hűvösek.",
+            "ro": "Pășiți înapoi în timp în acest complex vast de buncăre din Al Doilea Război Mondial, unde o jachetă ușoară este utilă deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step back in time inside this extensive World War II bunker complex, where bringing a light jacket is advised as the underground corridors can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmestranden",
+            "hu": "Palmestranden",
+            "ro": "Palmestranden",
+            "en": "Palmestranden"
+          },
+          "coords": [
+            10.540266,
+            57.461431
+          ],
+          "category": "landmark",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an Dänemarks einzigem Palmenstrand mit seinem exotischen Flair und sichern Sie sich einen Platz in der Nähe der Volleyballplätze für die beste Stimmung.",
+            "hu": "Pihenjen Dánia egyetlen pálmafás strandján, amelynek egzotikus hangulata lenyűgöző, és foglaljon helyet a röplabdapályák közelében az igazi nyári életérzésért.",
+            "ro": "Relaxați-vă pe singura plajă cu palmieri din Danemarca cu o atmosferă exotică și asigurați-vă un loc lângă terenurile de volei pentru cea mai vibrantă experiență.",
+            "en": "Relax on Denmark's only palm beach with its surprisingly exotic vibe, and make sure to grab a spot near the volleyball courts for the most vibrant summer atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Frederikshavn, bevor Sie sich in den familienfreundlichen Spaß des karibischen Reef-Wasserparks stürzen.\n\nGenießen Sie anschließend einen Spaziergang zur Küste, um die historische Nordre Skanse zu erkunden und sich die strategische Vergangenheit der Stadt vorzustellen.\n\nDer Küstenweg führt Sie direkt in die faszinierenden Tiefen des Bunkermuseums, das einen fesselnden Einblick in die Verteidigungssysteme des Zweiten Weltkriegs bietet.\n\nVerlassen Sie die Bunker, um den Tag entspannt am einzigartigen weißen Sandstrand von Palmestranden ausklingen zu lassen, dessen exotisches Flair die Tour abrundet.",
+        "hu": "Kezdje a napot Frederikshavn kulturális szívében, mielőtt belevetné magát a karibi hangulatú Reef élményfürdő családbarát szórakozásába.\n\nEzt követően tegyen egy kellemes sétát a part felé, fedezze fel a történelmi Nordre Skanse erődöt, és egy tengerparti piknik során idézze fel a múltat.\n\nA parti ösvény egyenesen a Bunkermúzeum lenyűgöző mélységeibe vezet, amely elgondolkodtató bepillantást nyújt a második világháborús védelmi rendszerekbe.\n\nA bunkerekből felbukkanva zárja a napot a Palmestranden egyedülálló fehér homokján, ahol az egzotikus hangulat tökéletesen megkoronázza a gyalogtúrát.",
+        "ro": "Începeți ziua în inima culturală a orașului Frederikshavn înainte de a vă bucura de distracția în familie din parcul acvatic Reef cu tematică caraibiană.\n\nApoi, bucurați-vă de o plimbare plăcută spre coastă pentru a explora istorica Nordre Skanse, imaginându-vă trecutul strategic al orașului în timpul unui picnic.\n\nPoteca de coastă vă conduce direct în adâncurile fascinante ale Bunkermuseet, oferind o privire captivantă asupra sistemelor de apărare din timpul războiului.\n\nIeșiți din buncăre pentru a încheia ziua relaxându-vă pe nisipurile albe unice de la Palmestranden, unde vibrația exotică vă completează perfect turul.",
+        "en": "Start your day in the cultural heart of Frederikshavn before diving into the family-friendly fun of the Caribbean-themed Reef waterpark.\n\nAfterward, enjoy a pleasant walk towards the coast to explore the historic Nordre Skanse, imagining the city's strategic past over a seaside picnic.\n\nThe coastal path leads you straight into the intriguing depths of the Bunkermuseet, offering a sobering but fascinating look into World War II defense systems.\n\nEmerge from the bunkers to end your day relaxing on the unique white sands of Palmestranden, where the exotic vibe perfectly caps off your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sognefogedgården",
+            "hu": "Sognefogedgården",
+            "ro": "Sognefogedgården",
+            "en": "Sognefogedgården"
+          },
+          "coords": [
+            10.504795,
+            57.447838
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesem einzigartigen historischen Bauernhofmuseum das authentische dänische Landleben, wo die engagierten Freiwilligen die Räume zum Leben erwecken.",
+            "hu": "Tapasztalja meg a 19. századi vidéki dán életmódot ebben az egyedülálló farmmúzeumban, ahol az önkéntes vezetők történetei igazán életre keltik a berendezett szobákat.",
+            "ro": "Experimentați viața rurală daneză din secolul al XIX-lea la acest muzeu agricol istoric, unde discuțiile cu ghizii voluntari aduc cu adevărat camerele la viață.",
+            "en": "Experience authentic 19th-century rural Danish life at this unique historical farm museum, where engaging with the passionate volunteer guides brings the rooms to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Det Musiske Hus",
+            "hu": "Det Musiske Hus",
+            "ro": "Det Musiske Hus",
+            "en": "Det Musiske Hus"
+          },
+          "coords": [
+            10.533547,
+            57.440371
+          ],
+          "category": "cultural",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum, das sich perfekt für einen bereichernden Start in den Tag eignet, wenn Sie das Programm im Voraus prüfen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, amely tökéletes kezdése a napnak, ha előre ellenőrzi a délelőtti kiállítások időpontjait.",
+            "ro": "Descoperiți arta locală la acest centru cultural modern, perfect pentru a începe ziua cu o notă creativă dacă verificați programul expozițiilor de dimineață.",
+            "en": "Discover local arts at this modern cultural hub, perfect for an enriching start to your day if you check their schedule for morning exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordre Skanse",
+            "hu": "Nordre Skanse",
+            "ro": "Nordre Skanse",
+            "en": "Nordre Skanse"
+          },
+          "coords": [
+            10.544867,
+            57.450541
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltenen Küstenbefestigungen aus dem 17. Jahrhundert, die neben Militärgeschichte auch einen herrlichen Panoramablick von den Wällen bieten.",
+            "hu": "Fedezze fel ezt a jól megőrzött 17. századi tengerparti erődítményt, amely bepillantást enged a hadtörténetbe és pazar kilátást nyújt a füves sáncokról a tengerre.",
+            "ro": "Explorați aceste fortificații de coastă bine conservate din secolul al XVII-lea, care oferă o istorie militară fascinantă și vederi panoramice la mare de pe metereze.",
+            "en": "Explore these well-preserved 17th-century coastal fortifications, offering a glimpse into military history along with panoramic sea views from the grassy ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseet",
+            "hu": "Bunkermuseet",
+            "ro": "Bunkermuseet",
+            "en": "Bunkermuseet"
+          },
+          "coords": [
+            10.536425,
+            57.459964
+          ],
+          "category": "museum",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem weitläufigen Bunkerkomplex aus dem Zweiten Weltkrieg, in dem eine leichte Jacke ratsam ist, da die Gänge kühl sein können.",
+            "hu": "Lépjen vissza az időben ebben a kiterjedt második világháborús bunkerkomplexumban, ahová érdemes egy könnyű kabátot hozni, mivel a föld alatti folyosók meglehetősen hűvösek.",
+            "ro": "Pășiți înapoi în timp în acest complex vast de buncăre din Al Doilea Război Mondial, unde o jachetă ușoară este utilă deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step back in time inside this extensive World War II bunker complex, where bringing a light jacket is advised as the underground corridors can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmestranden",
+            "hu": "Palmestranden",
+            "ro": "Palmestranden",
+            "en": "Palmestranden"
+          },
+          "coords": [
+            10.540266,
+            57.461431
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an Dänemarks einzigem Palmenstrand mit seinem exotischen Flair und sichern Sie sich einen Platz in der Nähe der Volleyballplätze für die beste Stimmung.",
+            "hu": "Pihenjen Dánia egyetlen pálmafás strandján, amelynek egzotikus hangulata lenyűgöző, és foglaljon helyet a röplabdapályák közelében az igazi nyári életérzésért.",
+            "ro": "Relaxați-vă pe singura plajă cu palmieri din Danemarca cu o atmosferă exotică și asigurați-vă un loc lângă terenurile de volei pentru cea mai vibrantă experiență.",
+            "en": "Relax on Denmark's only palm beach with its surprisingly exotic vibe, and make sure to grab a spot near the volleyball courts for the most vibrant summer atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Frederikshavn Adventure Minigolf",
+            "hu": "Frederikshavn Adventure Minigolf",
+            "ro": "Frederikshavn Adventure Minigolf",
+            "en": "Frederikshavn Adventure Minigolf"
+          },
+          "coords": [
+            10.528204,
+            57.464691
+          ],
+          "category": "family",
+          "arrive_at": "16:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem spielerischen Wettbewerb auf diesem wunderschön angelegten Minigolfplatz, wo Sie die kreativen Hindernisse in Ruhe meistern sollten.",
+            "hu": "Zárja a napot egy játékos versenyzéssel ezen a gyönyörűen parkosított minigolfpályán, ahol a kreatív akadályok megfejtéséhez érdemes kellő időt szánnia.",
+            "ro": "Încheiați ziua cu o competiție prietenoasă la acest teren de minigolf frumos amenajat, unde răbdarea este cheia pentru a descifra mecanismele creative ale obstacolelor.",
+            "en": "Finish your day with a playful competition at this beautifully landscaped mini-golf course, where taking your time to decipher the creative obstacle mechanics is key."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel für einen spannenden Morgen in einem traditionellen Bauernhofmuseum, gefolgt von einer Fahrt ins pulsierende Kulturzentrum der Stadt.\n\nRadeln Sie zum Hafen, wo die Befestigungsanlagen der Nordre Skanse aus dem 17. Jahrhundert warten und fantastische windige Plätze für eine Pause bieten.\n\nFahren Sie weiter nach Norden, um in den riesigen Bunkerkomplex einzutauchen, und kühlen Sie sich anschließend am unerwartet tropischen Palmenstrand ab.\n\nVervollständigen Sie Ihre Radtour mit einer unterhaltsamen Partie auf der wunderschön gepflegten Abenteuer-Minigolfanlage, die nur einen Katzensprung vom Strand entfernt ist.",
+        "hu": "Pattanjon nyeregbe egy tartalmas reggelért egy hagyományos 19. századi farmmúzeumban, amelyet egy rövid tekerés követ a város pezsgő kulturális központjába.\n\nTekerjen a vízpartra, ahol a 17. századi Nordre Skanse erődítmények várnak, fantasztikus szellős helyeket kínálva a kerékpáros pihenéshez.\n\nBringázzon északabbra, és fedezze fel a hatalmas második világháborús bunkerkomplexumot, majd hűsöljön a váratlanul trópusi hangulatú Palmestranden strandon.\n\nZárja az aktív kerékpáros napot egy vidám játékkal a gyönyörűen karbantartott kaland minigolfpályán, amely csak egy kőhajításnyira van a strandtól.",
+        "ro": "Urcați în șa pentru o dimineață captivantă la un muzeu agricol tradițional, urmată de o scurtă plimbare către centrul cultural vibrant al orașului.\n\nPedalați spre malul apei unde vă așteaptă fortificațiile Nordre Skanse din secolul al XVII-lea, oferind locuri fantastice și răcoroase pentru a vă odihni.\n\nMergeți mai spre nord pentru a explora vastul complex de buncăre, apoi răcoriți-vă mergând pe plaja Palmestranden, cu atmosfera sa neașteptat de tropicală.\n\nCompletați itinerariul activ de ciclism cu o sesiune plină de distracție la terenul de minigolf frumos întreținut, aflat la o aruncătură de băț de plajă.",
+        "en": "Saddle up for an immersive morning starting at a traditional 19th-century farm museum, followed by a quick ride into the town's vibrant cultural center.\n\nPedal your way to the waterfront where the 17th-century Nordre Skanse fortifications await, offering fantastic breezy spots to rest with your bicycle.\n\nRide further north to delve into the vast World War II bunker complex, then cool down by rolling over to the unexpectedly tropical Palmestranden beach.\n\nComplete your active biking itinerary with a fun-filled session at the beautifully maintained adventure mini-golf course just a stone's throw from the beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:28",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jernalderkældrene",
+            "hu": "Jernalderkældrene",
+            "ro": "Jernalderkældrene",
+            "en": "Jernalderkældrene"
+          },
+          "coords": [
+            10.496608,
+            57.427538
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese faszinierenden unterirdischen Keller aus der Eisenzeit, eine seltene Ausgrabungsstätte, für deren unebenes Gelände festes Schuhwerk empfohlen wird.",
+            "hu": "Csodálja meg ezeket a lenyűgöző vaskori pincéket, egy ritka régészeti lelőhelyet, ahol az egyenetlen történelmi terepen való mozgáshoz strapabíró cipő viselése ajánlott.",
+            "ro": "Admirați aceste pivnițe subterane fascinante din Epoca Fierului, un sit arheologic rar, unde încălțămintea robustă vă va ajuta să explorați terenul istoric denivelat.",
+            "en": "Marvel at these fascinating subterranean Iron Age cellars, a rare archaeological site where wearing sturdy walking shoes will help you navigate the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Sognefogedgården",
+            "hu": "Sognefogedgården",
+            "ro": "Sognefogedgården",
+            "en": "Sognefogedgården"
+          },
+          "coords": [
+            10.504795,
+            57.447838
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesem einzigartigen historischen Bauernhofmuseum das authentische dänische Landleben, wo die engagierten Freiwilligen die Räume zum Leben erwecken.",
+            "hu": "Tapasztalja meg a 19. századi vidéki dán életmódot ebben az egyedülálló farmmúzeumban, ahol az önkéntes vezetők történetei igazán életre keltik a berendezett szobákat.",
+            "ro": "Experimentați viața rurală daneză din secolul al XIX-lea la acest muzeu agricol istoric, unde discuțiile cu ghizii voluntari aduc cu adevărat camerele la viață.",
+            "en": "Experience authentic 19th-century rural Danish life at this unique historical farm museum, where engaging with the passionate volunteer guides brings the rooms to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Det Musiske Hus",
+            "hu": "Det Musiske Hus",
+            "ro": "Det Musiske Hus",
+            "en": "Det Musiske Hus"
+          },
+          "coords": [
+            10.533547,
+            57.440371
+          ],
+          "category": "cultural",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum, das sich perfekt für einen bereichernden Start in den Tag eignet, wenn Sie das Programm im Voraus prüfen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, amely tökéletes kezdése a napnak, ha előre ellenőrzi a délelőtti kiállítások időpontjait.",
+            "ro": "Descoperiți arta locală la acest centru cultural modern, perfect pentru a începe ziua cu o notă creativă dacă verificați programul expozițiilor de dimineață.",
+            "en": "Discover local arts at this modern cultural hub, perfect for an enriching start to your day if you check their schedule for morning exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordre Skanse",
+            "hu": "Nordre Skanse",
+            "ro": "Nordre Skanse",
+            "en": "Nordre Skanse"
+          },
+          "coords": [
+            10.544867,
+            57.450541
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltenen Küstenbefestigungen aus dem 17. Jahrhundert, die neben Militärgeschichte auch einen herrlichen Panoramablick von den Wällen bieten.",
+            "hu": "Fedezze fel ezt a jól megőrzött 17. századi tengerparti erődítményt, amely bepillantást enged a hadtörténetbe és pazar kilátást nyújt a füves sáncokról a tengerre.",
+            "ro": "Explorați aceste fortificații de coastă bine conservate din secolul al XVII-lea, care oferă o istorie militară fascinantă și vederi panoramice la mare de pe metereze.",
+            "en": "Explore these well-preserved 17th-century coastal fortifications, offering a glimpse into military history along with panoramic sea views from the grassy ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseet",
+            "hu": "Bunkermuseet",
+            "ro": "Bunkermuseet",
+            "en": "Bunkermuseet"
+          },
+          "coords": [
+            10.536425,
+            57.459964
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem weitläufigen Bunkerkomplex aus dem Zweiten Weltkrieg, in dem eine leichte Jacke ratsam ist, da die Gänge kühl sein können.",
+            "hu": "Lépjen vissza az időben ebben a kiterjedt második világháborús bunkerkomplexumban, ahová érdemes egy könnyű kabátot hozni, mivel a föld alatti folyosók meglehetősen hűvösek.",
+            "ro": "Pășiți înapoi în timp în acest complex vast de buncăre din Al Doilea Război Mondial, unde o jachetă ușoară este utilă deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step back in time inside this extensive World War II bunker complex, where bringing a light jacket is advised as the underground corridors can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmestranden",
+            "hu": "Palmestranden",
+            "ro": "Palmestranden",
+            "en": "Palmestranden"
+          },
+          "coords": [
+            10.540266,
+            57.461431
+          ],
+          "category": "landmark",
+          "arrive_at": "16:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an Dänemarks einzigem Palmenstrand mit seinem exotischen Flair und sichern Sie sich einen Platz in der Nähe der Volleyballplätze für die beste Stimmung.",
+            "hu": "Pihenjen Dánia egyetlen pálmafás strandján, amelynek egzotikus hangulata lenyűgöző, és foglaljon helyet a röplabdapályák közelében az igazi nyári életérzésért.",
+            "ro": "Relaxați-vă pe singura plajă cu palmieri din Danemarca cu o atmosferă exotică și asigurați-vă un loc lângă terenurile de volei pentru cea mai vibrantă experiență.",
+            "en": "Relax on Denmark's only palm beach with its surprisingly exotic vibe, and make sure to grab a spot near the volleyball courts for the most vibrant summer atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "FunHouse",
+            "hu": "FunHouse",
+            "ro": "FunHouse",
+            "en": "FunHouse"
+          },
+          "coords": [
+            10.5259,
+            57.46359
+          ],
+          "category": "family",
+          "arrive_at": "17:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem riesigen Indoor-Spielplatz ihre Energie abbauen, einer tollen Option für Regentage, bei der mitgebrachte rutschfeste Socken Geld sparen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ebben a hatalmas fedett játszóházban, amely esős napokra is kiváló, ha pedig hoz csúszásgátló zoknit, pénzt takaríthat meg.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă interior masiv, o opțiune excelentă, unde aducerea propriilor șosete antiderapante vă scutește de o cheltuială.",
+            "en": "Let the kids burn off some energy at this massive indoor playground, an excellent rainy-day option where bringing your own grip socks can save you a purchase at the door."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Außenbezirke, um antike Keller aus der Eisenzeit zu entdecken, bevor Sie in die authentische ländliche Geschichte des Sognefogedgården eintauchen.\n\nFahren Sie bequem ins Zentrum für eine Dosis Kultur im Det Musiske Hus und parken Sie bald darauf an den historischen Küstenwällen der Nordre Skanse.\n\nNutzen Sie den Komfort Ihres Autos, um nahtlos vom weitläufigen Bunker-Netzwerk an der Küste zum berühmten palmengesäumten Sand des örtlichen Strandes zu gelangen.\n\nBeenden Sie Ihre große Autotour, indem Sie die Familie im FunHouse absetzen, einem kolossalen Indoor-Spielpark, der einen erschöpfend spaßigen Abschluss garantiert.",
+        "hu": "Használja ki a napot, vezessen a külvárosba a vaskori pincék felfedezéséhez, mielőtt elmerülne a Sognefogedgården autentikus vidéki történelmében.\n\nVezessen kényelmesen vissza a városközpontba egy adag kultúráért a Det Musiske Husban, majd hamarosan parkoljon le a történelmi Nordre Skanse partvidékén.\n\nÉlvezze az autó kényelmét, és ugorjon át a kiterjedt part menti bunkerhálózatból a helyi strand híres, pálmafákkal szegélyezett homokos partjára.\n\nZárja a nagy autós túrát azzal, hogy a családot a FunHouse-ba viszi, egy kolosszális fedett játszóparkba, amely garantáltan fárasztó, de szórakoztató befejezés.",
+        "ro": "Maximizați-vă ziua conducând spre periferie pentru a descoperi pivnițe antice din Epoca Fierului înainte de a păși în istoria rurală autentică a Sognefogedgården.\n\nConduceți ușor înapoi în centrul orașului pentru o doză de cultură la Det Musiske Hus, iar apoi parcați lângă meterezele de coastă istorice de la Nordre Skanse.\n\nFolosiți confortul vehiculului pentru a sări rapid de la rețeaua extinsă de buncăre de coastă la faimosul nisip cu palmieri al plajei locale.\n\nÎncheiați marele tur cu mașina lăsând familia la FunHouse, un parc de joacă interior colosal care garantează o concluzie plină de distracție și energie.",
+        "en": "Maximize your day driving to the outskirts to uncover ancient Iron Age cellars before stepping into the authentic rural history of Sognefogedgården.\n\nDrive easily back to the city center for a dose of culture at Det Musiske Hus, and soon after, park by the historic coastal ramparts of Nordre Skanse.\n\nUse your vehicle's convenience to seamlessly hop from the extensive coastal bunker network to the famous palm-fringed sands of the local beach.\n\nEnd your grand driving tour by dropping off the family at FunHouse, a colossal indoor playpark that guarantees a satisfyingly exhaustingly fun conclusion."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-penestin-cities-v2",
+  "anchor": {
+    "name": "Pénestin",
+    "coords": [
+      -2.47568,
+      47.48326
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:33",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Men-Armor",
+            "hu": "Plage de Men-Armor",
+            "ro": "Plage de Men-Armor",
+            "en": "Plage de Men-Armor"
+          },
+          "coords": [
+            -2.478027,
+            47.494061
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen Morgenwellen am Strand Men-Armor, aber prüfen Sie vorher die Gezeitentabellen, um die weiten Sandbänke voll auszukosten.",
+            "hu": "Élvezze a békés reggeli hullámokat a Men-Armor strandon, de indulás előtt mindenképp ellenőrizze az árapálytáblázatot a hatalmas homokpadok felfedezéséhez.",
+            "ro": "Bucurați-vă de valurile liniștite ale dimineții la plaja Men-Armor, dar asigurați-vă că verificați tabelele de maree înainte de a pleca pentru a aprecia bancurile de nisip.",
+            "en": "Enjoy the serene morning waves at Men-Armor beach, but be sure to check the tide tables before setting off to fully appreciate the vast sandbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste",
+            "hu": "Plage naturiste",
+            "ro": "Plage naturiste",
+            "en": "Plage naturiste"
+          },
+          "coords": [
+            -2.484391,
+            47.495834
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser ruhige FKK-Strand bietet eine entspannende Flucht vor den Massen, packen Sie jedoch eine leichte Windjacke ein, da die Küstenbrise frisch sein kann.",
+            "hu": "Ez a nyugodt naturista strand pihentető menedéket kínál a tömegek elől, ezért hozzon magával egy könnyű széldzsekit, mivel a parti szél eléggé hűvös lehet.",
+            "ro": "Această plajă naturistă liniștită oferă o evadare relaxantă de mulțime, așa că luați o jachetă de vânt, deoarece briza de coastă poate fi destul de rece.",
+            "en": "This tranquil naturist beach offers a relaxing escape from the crowds, so pack a light windbreaker as the coastal breezes can be quite brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Camaret",
+            "hu": "Plage de Camaret",
+            "ro": "Plage de Camaret",
+            "en": "Plage de Camaret"
+          },
+          "coords": [
+            -2.489114,
+            47.496035
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Strand von Camaret eignet sich perfekt zum Muschelsammeln am Ufer und ist ideal für einen ruhigen Nachmittagsspaziergang mit festen Wanderschuhen.",
+            "hu": "A Camaret strand tökéletes a tengerpart menti kagylógyűjtéshez, ami ideálissá teszi egy csendes délutáni sétához, de mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Plaja Camaret este perfectă pentru a aduna scoici de-a lungul țărmului, fiind ideală pentru o plimbare liniștită de după-amiază cu încălțăminte rezistentă.",
+            "en": "Camaret beach is perfect for collecting seashells along the shoreline, making it ideal for a quiet afternoon stroll with sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Méarzenne",
+            "hu": "Dolmen de Méarzenne",
+            "ro": "Dolmen de Méarzenne",
+            "en": "Dolmen de Méarzenne"
+          },
+          "coords": [
+            -2.49324,
+            47.493114
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte megalithische Struktur des Dolmen de Méarzenne und besuchen Sie sie im weicheren Nachmittagslicht, um die besten Fotos zu machen.",
+            "hu": "Csodálja meg a Dolmen de Méarzenne ősi megalitikus építményét, és próbáljon a lágyabb délutáni fények idején érkezni a legjobb fényképek elkészítéséhez.",
+            "ro": "Admirați structura megalitică antică Dolmen de Méarzenne și încercați să o vizitați în lumina mai blândă a după-amiezii pentru a surprinde cele mai bune fotografii.",
+            "en": "Marvel at the ancient megalithic structure of Dolmen de Méarzenne and try visiting during the softer afternoon light to capture the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Halguen",
+            "hu": "Plage du Halguen",
+            "ro": "Plage du Halguen",
+            "en": "Plage du Halguen"
+          },
+          "coords": [
+            -2.497868,
+            47.494459
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese malerische Bucht ist bei Ebbe ein hervorragender Ort zum Suchen von Gezeitentümpeln; denken Sie an Wasserschuhe, um Ihre Füße vor Steinen zu schützen.",
+            "hu": "Ez a festői öböl kiváló hely a sziklamedencék felfedezésére apálykor, ezért ne felejtsen el vízi cipőt viselni, hogy megvédje a lábát az éles kövektől.",
+            "ro": "Acest golf pitoresc este un loc excelent pentru explorarea ochiurilor de apă la reflux, așa că purtați pantofi de apă pentru a vă proteja de pietre ascuțite.",
+            "en": "This picturesque cove is an excellent spot for rock pooling at low tide, so remember to wear water shoes to protect your feet from sharp stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Source",
+            "hu": "Plage de la Source",
+            "ro": "Plage de la Source",
+            "en": "Plage de la Source"
+          },
+          "coords": [
+            -2.495348,
+            47.480562
+          ],
+          "category": "recreational",
+          "arrive_at": "16:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine belebende Pause an den natürlichen Quellen dieses Strandes und bringen Sie ein Picknick mit, um den beruhigenden Meeresklängen zu lauschen.",
+            "hu": "Tartson egy frissítő pihenőt e békés strand természetes forrásai közelében, és hozzon magával egy kis pikniket, miközben az óceán nyugtató hangjait hallgatja.",
+            "ro": "Faceți o pauză revigorantă lângă izvoarele naturale ale acestei plaje pașnice și aduceți un mic picnic pentru a-l savura ascultând sunetul calmant al oceanului.",
+            "en": "Take a revitalizing break near the natural springs of this peaceful beach, and bring a small picnic to enjoy while listening to the soothing ocean sounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Mine d'Or",
+            "hu": "Plage de la Mine d'Or",
+            "ro": "Plage de la Mine d'Or",
+            "en": "Plage de la Mine d'Or"
+          },
+          "coords": [
+            -2.490337,
+            47.473838
+          ],
+          "category": "recreational",
+          "arrive_at": "17:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die goldenen Klippen leuchten bei Sonnenuntergang brillant und bilden den perfekten Abschluss des Tages, sofern Sie sich von den brüchigen Klippenrändern fernhalten.",
+            "hu": "A lenyűgöző arany sziklák ragyogóan fénylenek naplementekor, ami tökéletes utolsó állomássá teszi, feltéve, hogy távol marad a törékeny sziklaszélektől.",
+            "ro": "Stâncile aurii uimitoare strălucesc la apus, fiind oprirea finală perfectă a zilei, cu condiția să păstrați distanța față de marginile fragile ale stâncii.",
+            "en": "The stunning golden cliffs glow brilliantly at sunset, making it the perfect final stop of the day, provided you stay back from the fragile cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den ruhigen Nordstränden von Pénestin und atmen Sie die frische Meeresluft. Mittags tauchen Sie beim beeindruckenden Dolmen de Méarzenne in die Geschichte ein. Verbringen Sie den Nachmittag bei versteckten Buchten. Beenden Sie den Tag mit dem atemberaubenden Sonnenuntergang, der die goldenen Klippen der Mine d'Or erleuchtet.",
+        "hu": "Kezdje a reggelt Pénestin békés északi strandjainak felfedezésével, beszívva a friss parti levegőt. Délben merüljön el a történelemben a lenyűgöző Dolmen de Méarzenne-nél. Töltse a délutánt rejtett öblök és csendes források melletti sétával. Zárja a napot azzal a lenyűgöző naplementével, amely megvilágítja a Mine d'Or híres arany szikláit.",
+        "ro": "Începeți dimineața traversând plajele nordice liniștite din Pénestin, inspirând aerul proaspăt de coastă. La prânz, aprofundați istoria zonei la impresionantul Dolmen de Méarzenne. Petreceți după-amiaza plimbându-vă pe lângă golfuri ascunse. Încheiați ziua admirând apusul uluitor care luminează faimoasele stânci aurii de la Mine d'Or.",
+        "en": "Start your morning traversing the serene northern beaches of Pénestin, taking in the crisp coastal air. By midday, delve into the area's history at the impressive Dolmen de Méarzenne. Spend your afternoon strolling past hidden coves and tranquil springs. End the day marveling at the breathtaking sunset illuminating the famous golden cliffs of Mine d'Or."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Estuaire de la Vilaine",
+            "hu": "Estuaire de la Vilaine",
+            "ro": "Estuaire de la Vilaine",
+            "en": "Estuaire de la Vilaine"
+          },
+          "coords": [
+            -2.459826,
+            47.501239
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt am Vilaine-Mündungstrichter mit dem Fernglas und achten Sie auf den einzigartigen Zusammenfluss von Fluss und Ozean.",
+            "hu": "Figyelje meg a gazdag madárvilágot a hatalmas Vilaine torkolatnál egy távcsővel, és vegye észre az egyedülálló összefolyást, ahol az édesvíz találkozik az óceánnal.",
+            "ro": "Observați cu binoclul avifauna bogată la estuarul Vilaine, remarcând confluența unică unde apa dulce a râului se întâlnește cu vastul ocean.",
+            "en": "Observe the rich birdlife at the expansive Vilaine estuary with binoculars, taking note of the unique confluence where fresh river water meets the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pierre Blanche",
+            "hu": "La Pierre Blanche",
+            "ro": "La Pierre Blanche",
+            "en": "La Pierre Blanche"
+          },
+          "coords": [
+            -2.44708,
+            47.4931
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historische Markierung La Pierre Blanche und lesen Sie die Schautafeln, um ihre maritime Bedeutung in der Region vollständig zu verstehen.",
+            "hu": "Fedezze fel a La Pierre Blanche lenyűgöző történelmi emlékét, és olvassa el a közeli információs táblákat, hogy megértse a régió tengerészeti jelentőségét.",
+            "ro": "Descoperiți marcajul istoric fascinant La Pierre Blanche și citiți panourile de informare pentru a înțelege pe deplin importanța sa maritimă în regiune.",
+            "en": "Discover the fascinating historical marker of La Pierre Blanche, and read the nearby information panels to fully understand its maritime significance in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Loguy",
+            "hu": "Plage du Loguy",
+            "ro": "Plage du Loguy",
+            "en": "Plage du Loguy"
+          },
+          "coords": [
+            -2.500184,
+            47.49107
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand des Loguy-Strandes, einem familienfreundlichen Ort, obwohl man früh ankommen sollte, um einen Parkplatz zu sichern.",
+            "hu": "Pihenjen a Loguy strand finom homokján, amely ideális családbarát helyszín, bár érdemes kora reggel érkezni, hogy biztosítson magának egy jó parkolóhelyet.",
+            "ro": "Relaxați-vă pe nisipul fin al plajei Loguy, o locație ideală pentru familii, deși este bine să ajungeți devreme pentru a vă asigura un loc bun de parcare.",
+            "en": "Relax on the fine sands of Loguy beach, an ideal family-friendly location, though it is best to arrive early in the morning to secure a prime parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lomer",
+            "hu": "Plage du Lomer",
+            "ro": "Plage du Lomer",
+            "en": "Plage du Lomer"
+          },
+          "coords": [
+            -2.500283,
+            47.486826
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Lomer Strand bietet eine malerische Kulisse zum Schwimmen und Sonnenbaden, und seine geschützte Lage macht ihn ideal für windige Tage an der Küste.",
+            "hu": "A Lomer strand festői környezetet kínál úszáshoz és napozáshoz, védett elhelyezkedése pedig kiváló választássá teszi a szelesebb tengerparti napokon is.",
+            "ro": "Plaja Lomer oferă un cadru pitoresc pentru înot și băi de soare, iar poziția sa adăpostită o face o alegere excelentă pentru zilele cu vânt pe coastă.",
+            "en": "Lomer beach offers a picturesque setting for swimming and sunbathing, and its sheltered position makes it a great choice for windy days on the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Mine d'Or",
+            "hu": "Plage de la Mine d'Or",
+            "ro": "Plage de la Mine d'Or",
+            "en": "Plage de la Mine d'Or"
+          },
+          "coords": [
+            -2.490337,
+            47.473838
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Die goldenen Klippen leuchten bei Sonnenuntergang brillant und bilden den perfekten Abschluss des Tages, sofern Sie sich von den brüchigen Klippenrändern fernhalten.",
+            "hu": "A lenyűgöző arany sziklák ragyogóan fénylenek naplementekor, ami tökéletes utolsó állomássá teszi, feltéve, hogy távol marad a törékeny sziklaszélektől.",
+            "ro": "Stâncile aurii uimitoare strălucesc la apus, fiind oprirea finală perfectă a zilei, cu condiția să păstrați distanța față de marginile fragile ale stâncii.",
+            "en": "The stunning golden cliffs glow brilliantly at sunset, making it the perfect final stop of the day, provided you stay back from the fragile cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Poudrantais",
+            "hu": "Plage de Poudrantais",
+            "ro": "Plage de Poudrantais",
+            "en": "Plage de Poudrantais"
+          },
+          "coords": [
+            -2.49026,
+            47.468018
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Poudrantais-Strand bei klarem Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um die kleinen Felsvorsprünge zu erkunden.",
+            "hu": "Kapcsolódjon ki a Poudrantais strand tiszta vizében, és fontolja meg a búvárfelszerelés magával hozatalát a közeli kis sziklás kiemelkedések felfedezéséhez.",
+            "ro": "Relaxați-vă la plaja Poudrantais bucurându-vă de apele clare și luați în considerare aducerea echipamentului de snorkeling pentru a explora stâncile din apropiere.",
+            "en": "Unwind at Poudrantais beach while enjoying the clear waters, and consider bringing along your snorkeling gear to explore the small rocky outcrops nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Mündung der Vilaine, wo der Fluss auf das Meer trifft. Am Vormittag erreichen Sie die historische La Pierre Blanche. Nach einem Mittagessen am Meer radeln Sie an der Küste entlang zu einladenden Sandbuchten. Beenden Sie Ihre Fahrt an den Klippen der Mine d'Or, bevor Sie sich im weichen Sand von Poudrantais entspannen.",
+        "hu": "Kezdje kerékpártúráját a hatalmas Vilaine torkolatnál, ahol a folyó találkozik a tengerrel. A délelőtt folyamán eléri a történelmi La Pierre Blanche-t. Egy tengerparti ebéd után tekerjen a part mentén, hogy felfedezze a hívogató, homokos öblöket. Fejezze be útját a Mine d'Or szikláinál, mielőtt megpihenne Poudrantais puha homokján.",
+        "ro": "Începeți turul cu bicicleta la vastul estuar Vilaine, unde râul întâlnește marea. Dimineața târziu vă aduce la istorica La Pierre Blanche. După un prânz pe malul mării, pedalați de-a lungul coastei pentru a descoperi golfuri primitoare. Încheiați cursa la stâncile majestuoase Mine d'Or înainte de a vă relaxa pe nisipurile fine de la Poudrantais.",
+        "en": "Kick off your cycling tour at the vast Vilaine estuary, where the river meets the sea. Mid-morning brings you to the historic La Pierre Blanche, a testament to maritime past. After a seaside lunch, pedal along the coast to discover inviting, sandy bays. Conclude your ride at the majestic Mine d'Or cliffs before relaxing on the soft sands of Poudrantais."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de Méarzenne",
+            "hu": "Dolmen de Méarzenne",
+            "ro": "Dolmen de Méarzenne",
+            "en": "Dolmen de Méarzenne"
+          },
+          "coords": [
+            -2.49324,
+            47.493114
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte megalithische Struktur des Dolmen de Méarzenne und besuchen Sie sie im weicheren Nachmittagslicht, um die besten Fotos zu machen.",
+            "hu": "Csodálja meg a Dolmen de Méarzenne ősi megalitikus építményét, és próbáljon a lágyabb délutáni fények idején érkezni a legjobb fényképek elkészítéséhez.",
+            "ro": "Admirați structura megalitică antică Dolmen de Méarzenne și încercați să o vizitați în lumina mai blândă a după-amiezii pentru a surprinde cele mai bune fotografii.",
+            "en": "Marvel at the ancient megalithic structure of Dolmen de Méarzenne and try visiting during the softer afternoon light to capture the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Mine d'Or",
+            "hu": "Plage de la Mine d'Or",
+            "ro": "Plage de la Mine d'Or",
+            "en": "Plage de la Mine d'Or"
+          },
+          "coords": [
+            -2.490337,
+            47.473838
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die goldenen Klippen leuchten bei Sonnenuntergang brillant und bilden den perfekten Abschluss des Tages, sofern Sie sich von den brüchigen Klippenrändern fernhalten.",
+            "hu": "A lenyűgöző arany sziklák ragyogóan fénylenek naplementekor, ami tökéletes utolsó állomássá teszi, feltéve, hogy távol marad a törékeny sziklaszélektől.",
+            "ro": "Stâncile aurii uimitoare strălucesc la apus, fiind oprirea finală perfectă a zilei, cu condiția să păstrați distanța față de marginile fragile ale stâncii.",
+            "en": "The stunning golden cliffs glow brilliantly at sunset, making it the perfect final stop of the day, provided you stay back from the fragile cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Inlyquatic",
+            "hu": "Inlyquatic",
+            "ro": "Inlyquatic",
+            "en": "Inlyquatic"
+          },
+          "coords": [
+            -2.467426,
+            47.470377
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie Inlyquatic für einen aufregenden Nachmittag mit Wasserrutschen, aber buchen Sie Ihre Eintrittskarten online, um Warteschlangen zu vermeiden.",
+            "hu": "Hozza el az egész családot az Inlyquaticba egy izgalmas, vízicsúszdás délutánra, de mindenképpen foglalja le előre online a jegyeit, hogy elkerülje a sorban állást.",
+            "ro": "Aduceți întreaga familie la Inlyquatic pentru o după-amiază de tobogane acvatice, dar asigurați-vă că rezervați biletele online în avans pentru a evita cozile.",
+            "en": "Bring the whole family to Inlyquatic for an exciting afternoon of water slides, but be sure to book your entry tickets online in advance to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Marionettes",
+            "hu": "Théâtre Marionettes",
+            "ro": "Théâtre Marionettes",
+            "en": "Théâtre Marionettes"
+          },
+          "coords": [
+            -2.454617,
+            47.47817
+          ],
+          "category": "cultural",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine charmante kulturelle Aufführung im Marionettentheater, ein wunderbares Erlebnis für Kinder; prüfen Sie den Spielplan vor der Anreise.",
+            "hu": "Élvezzen egy bájos kulturális előadást a Bábszínházban, ami elragadó élmény a gyerekeknek, ezért érkezés előtt feltétlenül ellenőrizze a napi műsorrendet.",
+            "ro": "Bucurați-vă de o reprezentație culturală fermecătoare la Teatrul de Marionete, o experiență încântătoare pentru copii, verificând programul înainte de a sosi.",
+            "en": "Enjoy a charming cultural performance at the Marionette Theater, which is a delightful experience for children, so check the daily schedule before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Estuaire de la Vilaine",
+            "hu": "Estuaire de la Vilaine",
+            "ro": "Estuaire de la Vilaine",
+            "en": "Estuaire de la Vilaine"
+          },
+          "coords": [
+            -2.459826,
+            47.501239
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt am Vilaine-Mündungstrichter mit dem Fernglas und achten Sie auf den einzigartigen Zusammenfluss von Fluss und Ozean.",
+            "hu": "Figyelje meg a gazdag madárvilágot a hatalmas Vilaine torkolatnál egy távcsővel, és vegye észre az egyedülálló összefolyást, ahol az édesvíz találkozik az óceánnal.",
+            "ro": "Observați cu binoclul avifauna bogată la estuarul Vilaine, remarcând confluența unică unde apa dulce a râului se întâlnește cu vastul ocean.",
+            "en": "Observe the rich birdlife at the expansive Vilaine estuary with binoculars, taking note of the unique confluence where fresh river water meets the ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Tauchgang in die prähistorische Zeit am Megalithgrab Dolmen de Méarzenne. Eine kurze Fahrt bringt Sie zum berühmten Strand Mine d'Or. Der Nachmittag steht im Zeichen von Familienspaß mit Wasserabenteuern und einer charmanten Marionettenshow. Lassen Sie den Tag ausklingen, indem Sie die Boote auf dem Vilaine-Ästuar beobachten.",
+        "hu": "Napja az őskorba való bepillantással kezdődik a megalitikus Dolmen de Méarzenne-nél. Egy rövid út az ikonikus Mine d'Or strandhoz vezet. A délután a családi szórakozásé, vízi kalandokkal és egy bájos bábelőadással. Zárja a napot azzal, hogy figyeli a festői Vilaine torkolatán lágyan sikló csónakokat.",
+        "ro": "Ziua dumneavoastră începe cu o incursiune în preistorie la Dolmen de Méarzenne. O scurtă plimbare vă duce la plaja iconică Mine d'Or. După-amiaza este destinată distracției în familie, cu aventuri acvatice și un spectacol fermecător de marionete. Încheiați ziua privind bărcile care alunecă ușor pe estuarul pitoresc Vilaine.",
+        "en": "Your day begins with a dive into prehistoric times at the megalithic Dolmen de Méarzenne. A short drive takes you to the iconic Mine d'Or beach, perfect for a sunny mid-morning break. Afternoon is meant for family fun with aquatic adventures and a charming marionette show. Wrap up the day watching boats gently glide across the scenic Vilaine estuary."
+      }
+    }
+  }
+}

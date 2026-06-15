@@ -1,0 +1,428 @@
+{
+  "city_id": "albania-vore-cities-v2",
+  "anchor": {
+    "name": "Vorë",
+    "coords": [
+      19.6547,
+      41.3908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Liqeni i Vores",
+            "hu": "Liqeni i Vores",
+            "ro": "Liqeni i Vores",
+            "en": "Liqeni i Vores"
+          },
+          "coords": [
+            19.642556,
+            41.384422
+          ],
+          "category": "natural",
+          "arrive_at": "09:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Morgenbrise am Vorë-See, einem wichtigen natürlichen Lebensraum, an dem Sie ein Fernglas zur Vogelbeobachtung mitbringen sollten.",
+            "hu": "Élvezze a békés reggeli szellőt a Vorë-tónál, egy fontos természetes élőhelynél, ahová érdemes távcsövet hozni a helyi madárfajok megfigyeléséhez.",
+            "ro": "Bucurați-vă de briza pașnică a dimineții la Lacul Vorë, un habitat natural vital, unde ar trebui să aduceți binoclul pentru a observa păsările locale.",
+            "en": "Enjoy the peaceful morning breeze at Lake Vorë, a vital natural habitat where you should bring binoculars for spotting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Dunjve",
+            "hu": "Liqeni i Dunjve",
+            "ro": "Liqeni i Dunjve",
+            "en": "Liqeni i Dunjve"
+          },
+          "coords": [
+            19.64098,
+            41.376179
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen kleineren, ruhigen See und bewundern Sie das viele Grün, aber tragen Sie unbedingt festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Sétáljon e kisebb, nyugodt tó körül, csodálja meg a zöldellő növényzetet, de feltétlenül viseljen masszív cipőt a burkolatlan ösvényekhez.",
+            "ro": "Plimbați-vă în jurul acestui lac mai mic și liniștit și admirați verdeața, dar asigurați-vă că purtați încălțăminte rezistentă pentru cărările neasfaltate.",
+            "en": "Stroll around this smaller, tranquil lake and admire the surrounding greenery, but make sure to wear sturdy shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Gjokaj",
+            "hu": "Rezervuari Gjokaj",
+            "ro": "Rezervuari Gjokaj",
+            "en": "Rezervuari Gjokaj"
+          },
+          "coords": [
+            19.666909,
+            41.368037
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause am Gjokaj-Stausee, einem perfekten Ort für die Naturfotografie, an dem ein Insektenschutzmittel sehr zu empfehlen ist.",
+            "hu": "Tartson egy pihentető szünetet a Gjokaj-víztározónál, amely tökéletes hely természetfotózáshoz, és ahová erősen ajánlott rovarriasztót vinni.",
+            "ro": "Luați o pauză relaxantă la rezervorul Gjokaj, un loc perfect pentru fotografia de natură, unde este foarte recomandat să aduceți repelent pentru insecte.",
+            "en": "Take a relaxing break by the Gjokaj reservoir, a perfect spot for nature photography, where bringing insect repellent is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Zajes",
+            "hu": "Rezervuari Zajes",
+            "ro": "Rezervuari Zajes",
+            "en": "Rezervuari Zajes"
+          },
+          "coords": [
+            19.678646,
+            41.384058
+          ],
+          "category": "natural",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerischen Spiegelungen im Wasser bei Zajes, einer idyllischen Kulisse für ein Picknick, also packen Sie vorher ein paar Snacks ein.",
+            "hu": "Fedezze fel a víz festői tükröződéseit Zajesnél, amely egy idilli helyszín egy gyors piknikhez, ezért érkezés előtt csomagoljon be némi harapnivalót.",
+            "ro": "Descoperiți reflexiile pitorești din apă la Zajes, un cadru idilic pentru un picnic rapid, așa că împachetați câteva gustări ușoare înainte de a ajunge.",
+            "en": "Discover the scenic reflections in the water at Zajes, an idyllic setting for a quick picnic, so pack some light snacks before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Koni",
+            "hu": "Rezervuari Koni",
+            "ro": "Rezervuari Koni",
+            "en": "Rezervuari Koni"
+          },
+          "coords": [
+            19.685231,
+            41.388855
+          ],
+          "category": "natural",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am Koni-Stausee, wenn die Sonne tiefer sinkt, um das goldene Licht einzufangen, aber stellen Sie sich auf Abkühlung ein.",
+            "hu": "Zárja sétáját a Koni-víztározónál, ahogy a nap lemenni kezd, megörökítve az aranyórát, de készüljön fel a hirtelen hőmérséklet-csökkenésre.",
+            "ro": "Încheiați plimbarea la rezervorul Koni pe măsură ce soarele apune, surprinzând lumina orei de aur, dar fiți gata pentru o scădere rapidă a temperaturii.",
+            "en": "Conclude your walk at the Koni reservoir as the sun begins to lower, capturing the golden hour light, but be ready for a brisk temperature drop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Wanderung in Vorë, indem wir zu den örtlichen Seen aufbrechen und sofort die ruhige ländliche Atmosphäre genießen. Zur Mittagszeit erreichen wir unberührte Stauseen, wo sanfte Pfade eine perfekte Flucht in die Natur bieten. Am Nachmittag erkunden wir weiterhin diese Gewässer und finden versteckte Orte für die Tierbeobachtung. Am Abend spiegelt der letzte Stausee die untergehende Sonne wider und beendet unseren Spaziergang malerisch.",
+        "hu": "Gyalogos utunkat Vorëban a helyi tavak felé indulva kezdjük, azonnal átadva magunkat a csendes vidéki hangulatnak. A dél megérkeztével érintetlen víztározókhoz érünk, ahol az ösvények tökéletes menedéket nyújtanak. Délután folytatjuk a nyugodt vizek felfedezését, rejtett helyeket találva a vadvilág megfigyelésére. Ahogy közeledik az este, az utolsó tározó tükrözi a lemenő napot, festői módon zárva sétánkat.",
+        "ro": "Începem plimbarea noastră în Vorë îndreptându-ne spre lacurile locale, îmbrățișând imediat atmosfera rurală liniștită. Amiaza ne aduce la o serie de rezervoare locale impecabile, unde traseele oferă o evadare perfectă în natură. În timpul după-amiezii, continuăm să explorăm aceste ape, găsind locuri ascunse perfecte pentru observarea faunei. Seara, ultimul rezervor reflectă soarele la apus, încheind plimbarea cu o scenă pitorească.",
+        "en": "We start our walking journey in Vorë by heading to the local lakes, embracing the quiet rural atmosphere right away. The midday brings us to a series of pristine local reservoirs, where the gentle trails offer a perfect escape into nature's embrace. During the afternoon, we continue exploring these tranquil water bodies, finding hidden spots perfect for wildlife observation. As evening approaches, the last reservoir reflects the setting sun, concluding our active walk with a memorable and picturesque twilight scene."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 13.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rezervuari Prezes",
+            "hu": "Rezervuari Prezes",
+            "ro": "Rezervuari Prezes",
+            "en": "Rezervuari Prezes"
+          },
+          "coords": [
+            19.676694,
+            41.409993
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am riesigen Preza-Stausee mit weitem Blick aufs Wasser, achten Sie jedoch auf unebene Schotterstellen auf dem Weg.",
+            "hu": "Kezdje kerékpárútját a hatalmas Preza-víztározónál, élvezve a tágas vízi kilátást, de ügyeljen az ösvény egyenetlen, kavicsos szakaszaira.",
+            "ro": "Începeți traseul de ciclism la vastul rezervor Preza, bucurându-vă de priveliștile ample, deși fiți atenți la peticele inegale de pietriș de pe traseu.",
+            "en": "Start your cycling route at the vast Preza reservoir, enjoying the expansive water views, though keep an eye out for uneven gravel patches on the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Zajes",
+            "hu": "Rezervuari Zajes",
+            "ro": "Rezervuari Zajes",
+            "en": "Rezervuari Zajes"
+          },
+          "coords": [
+            19.678646,
+            41.384058
+          ],
+          "category": "natural",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Radeln Sie nach Zajes für eine erfrischende Atmosphäre am Wasser, ein toller Rastplatz am Vormittag, an dem eine Trinkpause absolut unerlässlich ist.",
+            "hu": "Tekerjen le Zajesig egy frissítő vízparti hangulatért, amely egy remek délelőtti pihenőhely, ahol a folyadékpótlás feltétlenül elengedhetetlen.",
+            "ro": "Pedați până la Zajes pentru o atmosferă revigorantă, un punct de odihnă excelent la mijlocul dimineții, unde o pauză de hidratare este esențială.",
+            "en": "Pedal down to Zajes for a refreshing water-side atmosphere, a great mid-morning rest point where a hydration break is absolutely essential."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Koni",
+            "hu": "Rezervuari Koni",
+            "ro": "Rezervuari Koni",
+            "en": "Rezervuari Koni"
+          },
+          "coords": [
+            19.685231,
+            41.388855
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie am ruhigen Ufer des Koni-Stausees entlang, beobachten Sie die unberührte Landschaft und achten Sie auf die einheimischen Fischer.",
+            "hu": "Bringázzon a Koni-víztározó csendes partjain, megfigyelve az érintetlen tájat, és ügyeljen a közelben horgászukat bedobó helyi halászokra.",
+            "ro": "Mergeți de-a lungul marginilor liniștite ale rezervorului Koni, observând peisajul neatins și fiți atenți la pescarii locali care își aruncă undițele.",
+            "en": "Ride along the quiet edges of the Koni reservoir, observing the untouched landscape, and be mindful of local fishermen casting their lines nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Vores",
+            "hu": "Liqeni i Vores",
+            "ro": "Liqeni i Vores",
+            "en": "Liqeni i Vores"
+          },
+          "coords": [
+            19.642556,
+            41.384422
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zum zentralen See von Vorë, einem lebendigen Ökosystem, wo Sie Ihr Fahrrad sicher abschließen und entspannt spazieren gehen können.",
+            "hu": "Tekerjen Vorë központi tava felé, egy élénk ökoszisztémába, ahol a kerékpár biztonságos lezárása után nyugodtan tehet egy kis sétát.",
+            "ro": "Ciclism spre lacul central din Vorë, un ecosistem vibrant, unde blocarea bicicletei lângă punctele de belvedere permite o plimbare liniștită.",
+            "en": "Cycle towards the central lake of Vorë, a vibrant ecosystem where locking your bike near the main viewing points allows for a peaceful walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Huqve",
+            "hu": "Liqeni i Huqve",
+            "ro": "Liqeni i Huqve",
+            "en": "Liqeni i Huqve"
+          },
+          "coords": [
+            19.610228,
+            41.409333
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Huqve-See und genießen Sie die ruhige Nachmittagsstimmung; stellen Sie sicher, dass Ihr Fahrradlicht für die Rückfahrt funktioniert.",
+            "hu": "Fejezze be az utat a Huqve-tónál, élvezve a nyugodt délutáni hangulatot, és győződjön meg róla, hogy a kerékpárlámpái készen állnak a visszaútra.",
+            "ro": "Terminați plimbarea la Lacul Huqve, admirând ambianța senină a după-amiezii și asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere.",
+            "en": "Finish your ride at Huqve Lake, taking in the serene afternoon ambiance, and make sure your bike lights are ready for the journey back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Radabenteuer beginnt mit der Fahrt zu den größeren nördlichen Stauseen, wo wir die kühle Morgenluft auf offenen Schotterwegen genießen. Mittags schlängeln wir uns zu miteinander verbundenen Gewässern und machen am Ufer Pausen, um uns zu erholen. Die Nachmittagsfahrt bringt uns näher an die zentralen Seen heran, wo das Ökosystem mit Vögeln lebendig wird. Wir beenden unsere Runde, wenn die Schatten über dem Huqve-See länger werden.",
+        "hu": "Kerékpáros kalandunk a nagyobb északi víztározók felé gurulva kezdődik, élvezve a hűvös reggeli levegőt és a kavicsos utakat. Délre leereszkedünk az összekapcsolt vízforrásokhoz, megpihenve a partokon, hogy értékeljük a tájat. A délutáni tekerés közelebb visz minket a központi tavakhoz, ahol az ökoszisztéma életre kel. A Huqve-tó felett megnyúló árnyékok idején fejezzük be a kört, elégedettséggel és békével.",
+        "ro": "Aventura noastră pe bicicletă începe rulând spre rezervoarele nordice mai mari, bucurându-ne de aerul rece de dimineață. Până la prânz, ne croim drum spre sursele de apă interconectate, făcând pauze de-a lungul țărmurilor pentru a admira peisajul. Plimbarea de după-amiază ne apropie de lacurile centrale, unde traseele devin mai vibrante. Ne terminăm traseul pe măsură ce umbrele se lungesc peste Lacul Huqve, într-o liniște deplină.",
+        "en": "Our cycling adventure begins by rolling towards the larger northern reservoirs, enjoying the cool morning air and the open gravel paths. By midday, we weave our way down to interconnected water sources, taking breaks along the shores to hydrate and appreciate the landscape. The afternoon ride brings us closer to the central lakes, where the ecosystem comes alive with birds and the trails become more vibrant. We finish our cycling loop as the shadows lengthen over Huqve Lake, leaving us with a satisfying sense of accomplishment and peace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 35.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Liqeni i Borçës",
+            "hu": "Liqeni i Borçës",
+            "ro": "Liqeni i Borçës",
+            "en": "Liqeni i Borçës"
+          },
+          "coords": [
+            19.576775,
+            41.41883
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum abgelegenen Borçës-See, um den Tag in absoluter Ruhe zu beginnen; parken Sie unbedingt auf festem Untergrund nahe der Zufahrtsstraße.",
+            "hu": "Vezessen ki a félreeső Borçës-tóhoz, hogy teljes nyugalomban kezdje a napot, és ügyeljen arra, hogy a fő bekötőút melletti szilárd talajon parkoljon.",
+            "ro": "Conduceți până la Lacul izolat Borçës pentru a începe ziua cu o liniște pură, asigurându-vă că parcați pe teren solid lângă drumul principal de acces.",
+            "en": "Drive out to the secluded Borçës Lake to kick off your day with pure tranquility, ensuring you park on the firm ground near the main access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Rrubjekes",
+            "hu": "Liqeni i Rrubjekes",
+            "ro": "Liqeni i Rrubjekes",
+            "en": "Liqeni i Rrubjekes"
+          },
+          "coords": [
+            19.588293,
+            41.39446
+          ],
+          "category": "natural",
+          "arrive_at": "10:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden zum Rrubjekes-See, einem wunderschönen Ort für einen kurzen Spaziergang, aber Vorsicht: Die unbefestigten Verbindungsstraßen stauben.",
+            "hu": "Irány délre, a Rrubjekes-tóhoz, amely egy gyönyörű hely egy rövid, festői sétára, de vegye figyelembe, hogy a csatlakozó földutak kissé porosak lehetnek.",
+            "ro": "Îndreptați-vă spre sud, la Lacul Rrubjekes, un loc frumos pentru o scurtă plimbare pitorească, dar fiți conștienți că drumurile de pământ pot fi prăfuite.",
+            "en": "Head south to Rrubjekes Lake, a beautiful spot for a short scenic walk, but be aware that the connecting dirt roads can be slightly dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Bubqit",
+            "hu": "Liqeni i Bubqit",
+            "ro": "Liqeni i Bubqit",
+            "en": "Liqeni i Bubqit"
+          },
+          "coords": [
+            19.625773,
+            41.460561
+          ],
+          "category": "natural",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden zum Bubqit-See, um dessen besondere Flora zu bewundern, ein idealer Halt zur Mittagszeit, um ein mitgebrachtes Picknick zu genießen.",
+            "hu": "Haladjon északra a Bubqit-tóhoz, hogy megcsodálja annak különleges flóráját; kiváló déli megállóhely, ahol a csomagolt ebédet igazán lehet élvezni.",
+            "ro": "Navigați spre nord spre Lacul Bubqit pentru a vedea flora sa distinctă, fiind o oprire excelentă la amiază unde vă puteți bucura de un prânz la pachet.",
+            "en": "Navigate north to Bubqit Lake to witness its distinct flora, making it an excellent midday stop where a packed lunch can be thoroughly enjoyed."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Prezes",
+            "hu": "Rezervuari Prezes",
+            "ro": "Rezervuari Prezes",
+            "en": "Rezervuari Prezes"
+          },
+          "coords": [
+            19.676694,
+            41.409993
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie als nächstes den großen Preza-Stausee, bestaunen Sie die weite Wasserlandschaft und nutzen Sie die breiten Parkplätze am Ostufer.",
+            "hu": "Látogasson el a nagy Preza-víztározóhoz, csodálja meg a hatalmas vízi tájat, és használja a keleti part mentén található tágas parkolókat.",
+            "ro": "Vizitați apoi marele rezervor Preza, minunându-vă de vastul peisaj acvatic și utilizați parcările largi situate de-a lungul țărmului estic.",
+            "en": "Visit the large Preza reservoir next, marveling at the vast aquatic landscape, and use the wide parking areas located along the eastern shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari i Kasharit",
+            "hu": "Rezervuari i Kasharit",
+            "ro": "Rezervuari i Kasharit",
+            "en": "Rezervuari i Kasharit"
+          },
+          "coords": [
+            19.725096,
+            41.353264
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kashar-Stausee, einem beliebten Naturrückzugsort für Einheimische; wenn Sie am frühen Nachmittag ankommen, meiden Sie den größten Trubel.",
+            "hu": "Vezessen a Kashar-víztározó felé, amely a helyiek népszerű természetközeli menedéke; a kora délutáni érkezés segít elkerülni a látogatók tömegét.",
+            "ro": "Conduceți spre rezervorul Kashar, o evadare naturală populară printre localnici, unde sosirea devreme după-amiaza ajută la evitarea aglomerației.",
+            "en": "Drive towards the Kashar reservoir, a popular natural escape for locals, where arriving early in the afternoon helps avoid the peak visitor crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rezervuari Purrezit",
+            "hu": "Rezervuari Purrezit",
+            "ro": "Rezervuari Purrezit",
+            "en": "Rezervuari Purrezit"
+          },
+          "coords": [
+            19.702479,
+            41.335392
+          ],
+          "category": "natural",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip am ruhigen Purrezit-Stausee, beobachten Sie die Dämmerungsfarben auf dem Wasser und fahren Sie dann zurück zur Autobahn.",
+            "hu": "Fejezze be autós kirándulását a békés Purrezit-víztározónál, figyelve a vízben tükröződő alkonyati színeket, mielőtt visszatérne a főútra.",
+            "ro": "Încheiați-vă călătoria cu mașina la rezervorul senin Purrezit, urmărind culorile amurgului reflectate pe apă înainte de a vă întoarce la autostradă.",
+            "en": "End your road trip at the serene Purrezit reservoir, watching the twilight colors reflect on the water before heading back to the main highway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir machen uns früh auf den Weg zu den westlichen Seen der Region Vorë, um einen ruhigen Start in unsere malerische Autotour zu gewährleisten. Weiter nördlich verbringen wir den Mittag mit der Erkundung vielfältiger aquatischer Ökosysteme mit wunderschönen Kontrasten. Am Nachmittag fahren wir zu den östlichen Stauseen, um die größten versteckten Seen zu sehen. Unser Roadtrip endet an einem abgelegenen südlichen Stausee für einen ruhigen Sonnenuntergang.",
+        "hu": "Korán útnak indulunk a Vorë régió nyugati tavai felé, hogy nyugodtan kezdjük festői autós túránkat. Északabbra haladva a déli órákat a változatos vízi ökoszisztémák felfedezésével töltjük, amelyek gyönyörű kontrasztokat kínálnak. Délután a keleti víztározókhoz cirkálunk, kihasználva a mobilitást a legnagyobb rejtett tavak megtekintésére. Autós utunk egy eldugott déli víztározónál ér véget, amely tökéletes a csendes naplemente megtekintéséhez.",
+        "ro": "Pornim devreme la drum pentru a ajunge la lacurile din vestul regiunii Vorë, asigurând un început pașnic al turului nostru pitoresc. Conducând mai la nord, orele prânzului sunt petrecute explorând ecosisteme acvatice diverse, oferind contraste frumoase. După-amiaza, coborâm spre rezervoarele estice, profitând de mobilitate pentru a vedea marile lacuri ascunse. Călătoria se încheie lângă un rezervor sudic izolat, perfect pentru un apus liniștit.",
+        "en": "We hit the road early to reach the far western lakes of the Vorë region, securing a peaceful start to our scenic driving tour. Driving further north, the midday hours are spent exploring diverse aquatic ecosystems, offering beautiful contrasts of greenery and water. In the afternoon, we cruise down to the eastern reservoirs, taking advantage of the mobility to see the region's largest hidden lakes. Our road trip concludes by a secluded southern reservoir, perfect for watching a quiet sunset before easily navigating back to the highway."
+      }
+    }
+  }
+}

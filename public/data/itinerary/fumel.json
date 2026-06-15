@@ -1,0 +1,520 @@
+{
+  "city_id": "fumel",
+  "anchor": {
+    "name": "Fumel",
+    "coords": [
+      0.9672,
+      44.4986
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Catherine",
+            "hu": "Chapelle Sainte-Catherine",
+            "ro": "Chapelle Sainte-Catherine",
+            "en": "Chapelle Sainte-Catherine"
+          },
+          "coords": [
+            0.967285,
+            44.499796
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bescheidene, aber schöne Steinfassade dieser lokalen Kapelle und kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Csodálja meg ennek a helyi kápolnának az egyszerű, mégis szép kőhomlokzatát, és érkezzen korán a legjobb fotók elkészítéséhez.",
+            "ro": "Admirați fațada modestă, dar frumoasă de piatră a acestei capele locale și veniți devreme pentru a face fotografii fără aglomerație.",
+            "en": "Admire the modest yet beautiful stone facade of this local chapel, and arrive early to photograph it without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Antoine",
+            "hu": "Église Saint-Antoine",
+            "ro": "Église Saint-Antoine",
+            "en": "Église Saint-Antoine"
+          },
+          "coords": [
+            0.96819,
+            44.496978
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen Details im Inneren dieses friedlichen Heiligtums und genießen Sie die ruhige Atmosphäre, bevor Sie weitergehen.",
+            "hu": "Figyelje meg a békés szentély belső, finom részleteit, és szánjon egy pillanatot a csendes légkör élvezetére, mielőtt továbbindulna.",
+            "ro": "Observați detaliile complicate din interiorul acestui sanctuar pașnic și acordați-vă un moment pentru a aprecia atmosfera liniștită.",
+            "en": "Notice the intricate details inside this peaceful religious sanctuary, taking a moment to appreciate the quiet atmosphere before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fumel",
+            "hu": "Château de Fumel",
+            "ro": "Château de Fumel",
+            "en": "Château de Fumel"
+          },
+          "coords": [
+            0.970556,
+            44.4972
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Terrassengärten dieser historischen Burg mit herrlichem Blick auf das Lot-Tal, also bringen Sie unbedingt ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e történelmi kastély teraszos kertjeit, amelyek lenyűgöző kilátást nyújtanak a Lot völgyére, ezért hozzon magával széles látószögű lencsét.",
+            "ro": "Explorați grădinile terasate ale acestui castel istoric, care oferă o priveliște uimitoare asupra văii Lot, așa că nu uitați aparatul foto.",
+            "en": "Explore the terraced gardens of this historic castle which offer stunning views of the Lot valley, so be sure to bring your wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Laduie",
+            "hu": "Château de Laduie",
+            "ro": "Château de Laduie",
+            "en": "Château de Laduie"
+          },
+          "coords": [
+            0.973812,
+            44.496138
+          ],
+          "category": "castle",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser gewaltigen Burg und achten Sie auf die Verteidigungsarchitektur, die von mittelalterlichen Konflikten erzählt.",
+            "hu": "Lépjen vissza az időben ennél a hatalmas kastélynál, és figyelje meg a védelmi építészetet, amely középkori konfliktusokról mesél.",
+            "ro": "Întoarceți-vă în timp la acest castel formidabil și acordați atenție arhitecturii defensive care spune povești despre conflictele medievale.",
+            "en": "Step back in time at this formidable castle structure, paying attention to the defensive architecture that tells stories of medieval conflicts."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hippolyte",
+            "hu": "Église Saint-Hippolyte",
+            "ro": "Église Saint-Hippolyte",
+            "en": "Église Saint-Hippolyte"
+          },
+          "coords": [
+            0.987587,
+            44.496658
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie den gut erhaltenen Altar in dieser charmanten Dorfkirche, ein großartiger Ort für eine kurze Pause während Ihrer Nachmittagstour.",
+            "hu": "Tekintse meg a jól megőrzött oltárt ebben a bájos helyi templomban, amely remek hely egy kis pihenésre a délutáni felfedezés során.",
+            "ro": "Vizitați altarul bine conservat al acestei biserici locale fermecătoare, un loc excelent pentru a vă odihni scurt în timpul explorărilor.",
+            "en": "View the well-preserved altar within this charming local church, a great place to sit down for a quick rest during your afternoon explorations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der charmanten Chapelle Sainte-Catherine und genießen Sie die ruhige Morgenatmosphäre. Besuchen Sie danach die Église Saint-Antoine.\n\nMittags erkunden Sie das imposante Château de Fumel und seine schönen Terrassengärten mit Panoramablick auf den Fluss Lot.\n\nAm Nachmittag entdecken Sie das mittelalterliche Erbe im Château de Laduie und setzen Ihre historische Reise fort.\n\nBeenden Sie den Tag mit einem Spaziergang zur Église Saint-Hippolyte und reflektieren Sie über die historische Vielfalt der Region.",
+        "hu": "Kezdje sétáját a hangulatos Chapelle Sainte-Catherine kápolnánál, majd látogasson el az Église Saint-Antoine templomba, hogy megcsodálja az építészetet.\n\nDélben fedezze fel az impozáns Château de Fumel kastélyt és annak gyönyörű teraszos kertjeit, amelyek a Lot folyóra néznek.\n\nDélután folytassa történelmi utazását a Château de Laduie kastélynál, felfedezve a középkori örökséget.\n\nZárja a napot egy kényelmes sétával az Église Saint-Hippolyte templomhoz, elmerülve a régió gazdag múltjában.",
+        "ro": "Începeți plimbarea la fermecătoarea Chapelle Sainte-Catherine, apoi vizitați Église Saint-Antoine pentru a-i admira arhitectura deosebită.\n\nLa prânz, explorați impunătorul Château de Fumel și grădinile sale terasate, care oferă vederi panoramice asupra râului Lot.\n\nDupă-amiază, descoperiți moștenirea medievală la Château de Laduie, continuându-vă călătoria istorică.\n\nÎncheiați ziua cu o plimbare relaxantă spre Église Saint-Hippolyte, reflectând la istoria bogată a acestei regiuni.",
+        "en": "Start your walk at the charming Chapelle Sainte-Catherine, soaking in the quiet morning atmosphere of Fumel. Head next to Église Saint-Antoine to admire its architecture.\n\nAround midday, explore the imposing Château de Fumel and its lovely terraced gardens offering panoramic views of the Lot river.\n\nIn the afternoon, discover the medieval heritage at Château de Laduie, continuing your historical journey through the town's past.\n\nConclude your day with a leisurely stroll towards Église Saint-Hippolyte, reflecting on the historical layers of the region."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Catherine",
+            "hu": "Chapelle Sainte-Catherine",
+            "ro": "Chapelle Sainte-Catherine",
+            "en": "Chapelle Sainte-Catherine"
+          },
+          "coords": [
+            0.967285,
+            44.499796
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bescheidene, aber schöne Steinfassade dieser lokalen Kapelle und kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Csodálja meg ennek a helyi kápolnának az egyszerű, mégis szép kőhomlokzatát, és érkezzen korán a legjobb fotók elkészítéséhez.",
+            "ro": "Admirați fațada modestă, dar frumoasă de piatră a acestei capele locale și veniți devreme pentru a face fotografii fără aglomerație.",
+            "en": "Admire the modest yet beautiful stone facade of this local chapel, and arrive early to photograph it without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fumel",
+            "hu": "Château de Fumel",
+            "ro": "Château de Fumel",
+            "en": "Château de Fumel"
+          },
+          "coords": [
+            0.970556,
+            44.4972
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Terrassengärten dieser historischen Burg mit herrlichem Blick auf das Lot-Tal, also bringen Sie unbedingt ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e történelmi kastély teraszos kertjeit, amelyek lenyűgöző kilátást nyújtanak a Lot völgyére, ezért hozzon magával széles látószögű lencsét.",
+            "ro": "Explorați grădinile terasate ale acestui castel istoric, care oferă o priveliște uimitoare asupra văii Lot, așa că nu uitați aparatul foto.",
+            "en": "Explore the terraced gardens of this historic castle which offer stunning views of the Lot valley, so be sure to bring your wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hippolyte",
+            "hu": "Église Saint-Hippolyte",
+            "ro": "Église Saint-Hippolyte",
+            "en": "Église Saint-Hippolyte"
+          },
+          "coords": [
+            0.987587,
+            44.496658
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie den gut erhaltenen Altar in dieser charmanten Dorfkirche, ein großartiger Ort für eine kurze Pause während Ihrer Nachmittagstour.",
+            "hu": "Tekintse meg a jól megőrzött oltárt ebben a bájos helyi templomban, amely remek hely egy kis pihenésre a délutáni felfedezés során.",
+            "ro": "Vizitați altarul bine conservat al acestei biserici locale fermecătoare, un loc excelent pentru a vă odihni scurt în timpul explorărilor.",
+            "en": "View the well-preserved altar within this charming local church, a great place to sit down for a quick rest during your afternoon explorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Montayral",
+            "hu": "Mairie de Montayral",
+            "ro": "Mairie de Montayral",
+            "en": "Mairie de Montayral"
+          },
+          "coords": [
+            0.98578,
+            44.480749
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieses lokalen Rathauses, das als zentraler Orientierungspunkt in der Region Montayral dient.",
+            "hu": "Figyelje meg a helyi városháza hagyományos építészetét, amely központi tájékozódási pontként szolgál Montayral környékén.",
+            "ro": "Observați arhitectura tradițională a primăriei locale, care servește drept punct de reper central pentru orientarea în zona Montayral.",
+            "en": "Observe the traditional architecture of this local town hall, which serves as a central landmark for orienting yourself in the Montayral area."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.943793,
+            44.482507
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Akustik dieses klassischen Kirchengebäudes, in das sich ein kurzer Besuch für einige Minuten der stillen Besinnung lohnt.",
+            "hu": "Tapasztalja meg e klasszikus templomépület békés akusztikáját, így érdemes betérni néhány perces csendes elmélkedésre az út során.",
+            "ro": "Experimentați acustica senină a acestei clădiri bisericești clasice, meritând să pășiți înăuntru pentru câteva minute de contemplare.",
+            "en": "Experience the serene acoustics of this classic church building, making it worth stepping inside for a few minutes of quiet contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Monsempron-Libos",
+            "hu": "Mairie de Monsempron-Libos",
+            "ro": "Mairie de Monsempron-Libos",
+            "en": "Mairie de Monsempron-Libos"
+          },
+          "coords": [
+            0.940689,
+            44.491043
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem typisch französischen Amtsgebäude, um die Gestaltung des Marktplatzes zu bewundern, bevor Sie zum Priorat weitergehen.",
+            "hu": "Álljon meg ennél a jellegzetes francia polgári épületnél, hogy megcsodálja a város térszerkezetét, mielőtt a közeli történelmi kolostorhoz indulna.",
+            "ro": "Opriți-vă la această clădire civică tipic franceză pentru a aprecia piața orașului înainte de a vă îndrepta spre prioratul istoric din apropiere.",
+            "en": "Stop by this quintessential French civic building to appreciate the town square's layout before heading towards the historic priory nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré Saint-Géraud",
+            "hu": "Prieuré Saint-Géraud",
+            "ro": "Prieuré Saint-Géraud",
+            "en": "Prieuré Saint-Géraud"
+          },
+          "coords": [
+            0.943347,
+            44.491873
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die alten Ruinen dieses bedeutenden Priorats und lesen Sie die Schilder, um seine tiefe historische Verbundenheit zu verstehen.",
+            "hu": "Sétáljon végig e jelentős kolostor ősi romjain, és olvassa el a helyi táblákat, hogy megértse a régióhoz fűződő mély történelmi kapcsolatait.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestui priorat important și citiți panourile pentru a înțelege legăturile sale istorice cu regiunea.",
+            "en": "Wander through the ancient ruins of this significant priory, checking the local signs to understand its deep historical ties to the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Chapelle Sainte-Catherine, bevor Sie zum beeindruckenden Château de Fumel fahren.\n\nMittags radeln Sie entspannt zur Église Saint-Hippolyte, gefolgt von einem Stopp an der Mairie de Montayral.\n\nAm Nachmittag fahren Sie auf malerischen Wegen zur Église Notre-Dame und zur Mairie de Monsempron-Libos.\n\nBeenden Sie Ihr Abenteuer am alten Prieuré Saint-Géraud, dem perfekten Ort zum Entspannen.",
+        "hu": "Kezdje a kerékpártúrát a Chapelle Sainte-Catherine kápolnánál, majd tekerjen át a lenyűgöző Château de Fumel kastélyhoz.\n\nDélben egy kellemes út vezet az Église Saint-Hippolyte templomhoz és a Mairie de Montayral épületéhez.\n\nDélután festői útvonalakon haladjon az Église Notre-Dame és a Mairie de Monsempron-Libos felé.\n\nFejezze be a napot az ősi Prieuré Saint-Géraud kolostornál, amely tökéletes hely a pihenésre.",
+        "ro": "Începeți turul cu bicicleta la Chapelle Sainte-Catherine, înainte de a pedala spre magnificul Château de Fumel.\n\nLa prânz, o plimbare ușoară vă duce la Église Saint-Hippolyte și apoi la Mairie de Montayral.\n\nDupă-amiază, mergeți pe rute pitorești către Église Notre-Dame și Mairie de Monsempron-Libos.\n\nÎncheiați aventura la vechiul Prieuré Saint-Géraud, un loc perfect pentru a vă relaxa la final de zi.",
+        "en": "Kick off your cycling tour at Chapelle Sainte-Catherine before riding over to the magnificent Château de Fumel.\n\nMidday brings a breezy ride to Église Saint-Hippolyte, followed by a stop at the Mairie de Montayral.\n\nIn the afternoon, cycle along the scenic routes to Église Notre-Dame and the Mairie de Monsempron-Libos.\n\nEnd your biking adventure at the ancient Prieuré Saint-Géraud, a perfect spot to relax and unwind."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 7.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Laduie",
+            "hu": "Château de Laduie",
+            "ro": "Château de Laduie",
+            "en": "Château de Laduie"
+          },
+          "coords": [
+            0.973812,
+            44.496138
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser gewaltigen Burg und achten Sie auf die Verteidigungsarchitektur, die von mittelalterlichen Konflikten erzählt.",
+            "hu": "Lépjen vissza az időben ennél a hatalmas kastélynál, és figyelje meg a védelmi építészetet, amely középkori konfliktusokról mesél.",
+            "ro": "Întoarceți-vă în timp la acest castel formidabil și acordați atenție arhitecturii defensive care spune povești despre conflictele medievale.",
+            "en": "Step back in time at this formidable castle structure, paying attention to the defensive architecture that tells stories of medieval conflicts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fumel",
+            "hu": "Château de Fumel",
+            "ro": "Château de Fumel",
+            "en": "Château de Fumel"
+          },
+          "coords": [
+            0.970556,
+            44.4972
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Terrassengärten dieser historischen Burg mit herrlichem Blick auf das Lot-Tal, also bringen Sie unbedingt ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e történelmi kastély teraszos kertjeit, amelyek lenyűgöző kilátást nyújtanak a Lot völgyére, ezért hozzon magával széles látószögű lencsét.",
+            "ro": "Explorați grădinile terasate ale acestui castel istoric, care oferă o priveliște uimitoare asupra văii Lot, așa că nu uitați aparatul foto.",
+            "en": "Explore the terraced gardens of this historic castle which offer stunning views of the Lot valley, so be sure to bring your wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Antoine",
+            "hu": "Église Saint-Antoine",
+            "ro": "Église Saint-Antoine",
+            "en": "Église Saint-Antoine"
+          },
+          "coords": [
+            0.96819,
+            44.496978
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen Details im Inneren dieses friedlichen Heiligtums und genießen Sie die ruhige Atmosphäre, bevor Sie weitergehen.",
+            "hu": "Figyelje meg a békés szentély belső, finom részleteit, és szánjon egy pillanatot a csendes légkör élvezetére, mielőtt továbbindulna.",
+            "ro": "Observați detaliile complicate din interiorul acestui sanctuar pașnic și acordați-vă un moment pentru a aprecia atmosfera liniștită.",
+            "en": "Notice the intricate details inside this peaceful religious sanctuary, taking a moment to appreciate the quiet atmosphere before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Catherine",
+            "hu": "Chapelle Sainte-Catherine",
+            "ro": "Chapelle Sainte-Catherine",
+            "en": "Chapelle Sainte-Catherine"
+          },
+          "coords": [
+            0.967285,
+            44.499796
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bescheidene, aber schöne Steinfassade dieser lokalen Kapelle und kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Csodálja meg ennek a helyi kápolnának az egyszerű, mégis szép kőhomlokzatát, és érkezzen korán a legjobb fotók elkészítéséhez.",
+            "ro": "Admirați fațada modestă, dar frumoasă de piatră a acestei capele locale și veniți devreme pentru a face fotografii fără aglomerație.",
+            "en": "Admire the modest yet beautiful stone facade of this local chapel, and arrive early to photograph it without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hippolyte",
+            "hu": "Église Saint-Hippolyte",
+            "ro": "Église Saint-Hippolyte",
+            "en": "Église Saint-Hippolyte"
+          },
+          "coords": [
+            0.987587,
+            44.496658
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie den gut erhaltenen Altar in dieser charmanten Dorfkirche, ein großartiger Ort für eine kurze Pause während Ihrer Nachmittagstour.",
+            "hu": "Tekintse meg a jól megőrzött oltárt ebben a bájos helyi templomban, amely remek hely egy kis pihenésre a délutáni felfedezés során.",
+            "ro": "Vizitați altarul bine conservat al acestei biserici locale fermecătoare, un loc excelent pentru a vă odihni scurt în timpul explorărilor.",
+            "en": "View the well-preserved altar within this charming local church, a great place to sit down for a quick rest during your afternoon explorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Montayral",
+            "hu": "Mairie de Montayral",
+            "ro": "Mairie de Montayral",
+            "en": "Mairie de Montayral"
+          },
+          "coords": [
+            0.98578,
+            44.480749
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieses lokalen Rathauses, das als zentraler Orientierungspunkt in der Region Montayral dient.",
+            "hu": "Figyelje meg a helyi városháza hagyományos építészetét, amely központi tájékozódási pontként szolgál Montayral környékén.",
+            "ro": "Observați arhitectura tradițională a primăriei locale, care servește drept punct de reper central pentru orientarea în zona Montayral.",
+            "en": "Observe the traditional architecture of this local town hall, which serves as a central landmark for orienting yourself in the Montayral area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Monsempron-Libos",
+            "hu": "Mairie de Monsempron-Libos",
+            "ro": "Mairie de Monsempron-Libos",
+            "en": "Mairie de Monsempron-Libos"
+          },
+          "coords": [
+            0.940689,
+            44.491043
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem typisch französischen Amtsgebäude, um die Gestaltung des Marktplatzes zu bewundern, bevor Sie zum Priorat weitergehen.",
+            "hu": "Álljon meg ennél a jellegzetes francia polgári épületnél, hogy megcsodálja a város térszerkezetét, mielőtt a közeli történelmi kolostorhoz indulna.",
+            "ro": "Opriți-vă la această clădire civică tipic franceză pentru a aprecia piața orașului înainte de a vă îndrepta spre prioratul istoric din apropiere.",
+            "en": "Stop by this quintessential French civic building to appreciate the town square's layout before heading towards the historic priory nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré Saint-Géraud",
+            "hu": "Prieuré Saint-Géraud",
+            "ro": "Prieuré Saint-Géraud",
+            "en": "Prieuré Saint-Géraud"
+          },
+          "coords": [
+            0.943347,
+            44.491873
+          ],
+          "category": "religious",
+          "arrive_at": "14:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die alten Ruinen dieses bedeutenden Priorats und lesen Sie die Schilder, um seine tiefe historische Verbundenheit zu verstehen.",
+            "hu": "Sétáljon végig e jelentős kolostor ősi romjain, és olvassa el a helyi táblákat, hogy megértse a régióhoz fűződő mély történelmi kapcsolatait.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestui priorat important și citiți panourile pentru a înțelege legăturile sale istorice cu regiunea.",
+            "en": "Wander through the ancient ruins of this significant priory, checking the local signs to understand its deep historical ties to the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am historischen Château de Laduie, gefolgt von einem Besuch des beeindruckenden Château de Fumel.\n\nGegen Mittag besuchen Sie die lokalen Kirchen, darunter die Église Saint-Antoine und die Chapelle Sainte-Catherine.\n\nAm Nachmittag fahren Sie zur Église Saint-Hippolyte und den Wahrzeichen von Montayral und Monsempron-Libos.\n\nBeenden Sie Ihren Roadtrip am ruhigen Prieuré Saint-Géraud und genießen Sie die friedliche Abendstimmung.",
+        "hu": "Autós túrája a történelmi Château de Laduie kastélynál kezdődik, majd a grandiózus Château de Fumel következik.\n\nDél körül látogassa meg a helyi templomokat, köztük a történelmi Église Saint-Antoine és Chapelle Sainte-Catherine épületeit.\n\nDélután vezessen az Église Saint-Hippolyte és Montayral, valamint Monsempron-Libos nevezetességeihez.\n\nFejezze be útját a békés Prieuré Saint-Géraud kolostornál, élvezve az esti nyugalmat.",
+        "ro": "Călătoria auto începe la istoricul Château de Laduie, urmată de o vizită la grandiosul Château de Fumel.\n\nÎn jurul prânzului, explorați bisericile locale, inclusiv Église Saint-Antoine și Chapelle Sainte-Catherine.\n\nTraseul de după-amiază vă duce la Église Saint-Hippolyte și la reperele civice din Montayral și Monsempron-Libos.\n\nÎncheiați excursia la Prieuré Saint-Géraud, bucurându-vă de atmosfera liniștită a serii.",
+        "en": "Your drive begins at the historic Château de Laduie, followed by a short trip to explore the grand Château de Fumel.\n\nAround noon, visit the local churches, including Église Saint-Antoine and Chapelle Sainte-Catherine, rich in local history.\n\nThe afternoon drive takes you to Église Saint-Hippolyte and the civic landmarks of Montayral and Monsempron-Libos.\n\nFinish your road trip at the serene Prieuré Saint-Géraud, absorbing the tranquil evening vibes."
+      }
+    }
+  }
+}

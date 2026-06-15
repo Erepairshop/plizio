@@ -1,0 +1,589 @@
+{
+  "city_id": "france-kerscouarnec-cities-v2",
+  "anchor": {
+    "name": "Kerscouarnec",
+    "coords": [
+      -4.17852,
+      48.6803
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 2.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallische Stele",
+            "hu": "Gall sztélé",
+            "ro": "Stela galică",
+            "en": "Gallic Stele"
+          },
+          "coords": [
+            -4.193115,
+            48.682193
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese seltene gallische Stele, die von den Ritualen der Eisenzeit zeugt, und studieren Sie die verwitterten Inschriften am besten im weichen Vormittagslicht.",
+            "hu": "Csodálja meg ezt a ritka gall sztélét, amely a vaskori rituálék néma tanúja, és érdemes a kora délelőtti fényben megvizsgálni az időjárás által koptatott faragványait.",
+            "ro": "Admirați această rară stelă galică ce stă ca o mărturie a ritualurilor din Epoca Fierului și urmăriți sculpturile sale erodate înainte ca soarele de după-amiază să dispară.",
+            "en": "Admire this rare Gallic stele which stands as a silent testament to Iron Age rituals, and trace its weathered carvings before the afternoon sun casts deep shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Liegender Menhir",
+            "hu": "Fekvő menhir",
+            "ro": "Menhirul culcat",
+            "en": "Fallen Menhir"
+          },
+          "coords": [
+            -4.190368,
+            48.682478
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie den umgestürzten Menhir, der die Ausmaße prähistorischer Megalithen offenbart, und tragen Sie festes Schuhwerk, um das unebene Grasland sicher zu begehen.",
+            "hu": "Vizsgálja meg a kidőlt menhirt, amely feltárja a történelem előtti megalitok hatalmas méreteit, és viseljen túracipőt a környező egyenetlen füves terep biztonságos bejárásához.",
+            "ro": "Examinați menhirul căzut care dezvăluie scara imensă a megaliților preistorici și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul ierbos și accidentat.",
+            "en": "Examine the fallen menhir that reveals the immense scale of prehistoric megaliths, and wear sturdy walking shoes to safely navigate the surrounding uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulvermagazin",
+            "hu": "Lőporraktár",
+            "ro": "Magazie de pulbere",
+            "en": "Powder Magazine"
+          },
+          "coords": [
+            -4.192105,
+            48.682845
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Pulvermagazin, das vor Jahrhunderten wichtig für die Küstenverteidigung war, und werfen Sie einen Blick durch die eisernen Gitterfenster ins Innere.",
+            "hu": "Fedezze fel a régi lőporraktárat, amely évszázadokkal ezelőtt kulcsszerepet játszott a partvédelemben, és less be a vasrácsos ablakokon, hogy megérezze a hely hűvös múltját.",
+            "ro": "Descoperiți vechea magazie de pulbere care a jucat un rol crucial în apărarea coastei acum secole și priviți prin ferestrele cu gratii de fier pentru a simți istoria sa.",
+            "en": "Discover the old powder magazine that played a crucial role in coastal defense centuries ago, and peer through the iron-grated windows to sense its cool, damp history."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Cam-Louis",
+            "hu": "Cam-Louis menhir",
+            "ro": "Menhir du Cam-Louis",
+            "en": "Menhir du Cam-Louis"
+          },
+          "coords": [
+            -4.183489,
+            48.686013
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden Menhir du Cam-Louis als Symbol antiker Spiritualität und nutzen Sie ein Weitwinkelobjektiv, um ihn vor dem dramatischen Küstenhimmel abzulichten.",
+            "hu": "Csodálja meg a magasodó Cam-Louis menhirt, az ősi spiritualitás lenyűgöző emlékművét, és használjon nagylátószögű objektívet, hogy teljes magasságában megörökítse a tájban.",
+            "ro": "Minunați-vă de impunătorul Menhir du Cam-Louis, un monument izbitor al spiritualității antice, și folosiți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Marvel at the towering Menhir du Cam-Louis, a striking monument of ancient spirituality, and use a wide-angle lens to capture its full height against the dramatic coastal sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Roc'h Paotred ar Sabat",
+            "hu": "Roc'h Paotred ar Sabat",
+            "ro": "Roc'h Paotred ar Sabat",
+            "en": "Roc'h Paotred ar Sabat"
+          },
+          "coords": [
+            -4.174881,
+            48.686899
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese sagenumwobene Felsformation voller lokaler Mythen und treten Sie vorsichtig auf die moosigen Ränder, da die Oberfläche nach Regenschauern recht rutschig ist.",
+            "hu": "Fedezze fel ezt a helyi mítoszokkal és folklórral övezett legendás sziklaképződményt, de lépkedjen óvatosan a mohás széleken, mivel eső után a felület eléggé csúszós lehet.",
+            "ro": "Explorați această formațiune stâncoasă legendară învăluită în mituri locale și pășiți cu grijă pe marginile acoperite de mușchi, deoarece suprafața poate fi foarte alunecoasă.",
+            "en": "Explore this legendary rock formation shrouded in local myth and folklore, and step carefully along the mossy edges as the surface can be quite slippery after rain showers."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir d'Irvit",
+            "hu": "Irvit menhir",
+            "ro": "Menhir d'Irvit",
+            "en": "Menhir d'Irvit"
+          },
+          "coords": [
+            -4.164147,
+            48.679068
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Begegnen Sie dem Menhir d'Irvit, der die Landschaft mit seiner zeitlosen Präsenz prägt, und setzen Sie sich auf die nahegelegenen Steinbänke, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Találkozzon az Irvit menhirrel, amely időtlen jelenlétével uralja a tájat, és szánjon egy percet arra, hogy leüljön a közeli kőpadokra, hogy teljesen magába szívja a nyugalmat.",
+            "ro": "Întâlniți Menhir d'Irvit, care ancorează peisajul prin prezența sa atemporală, și luați-vă un moment pentru a vă așeza pe băncile de piatră pentru a absorbi atmosfera liniștită.",
+            "en": "Encounter the Menhir d'Irvit which anchors the landscape with its timeless presence, and take a moment to sit on the nearby stone benches to fully absorb the tranquil atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt zwischen den antiken Mysterien der Region, wo hoch aufragende stehende Steine einen dramatischen Ton für den Tag setzen. Sie wandern über weite Felder und entdecken die tief verwurzelte gallische Geschichte. Mittags passieren Sie vergessene Strukturen, die einst diese wilden Küsten schützten. Der Nachmittag bringt weitere sagenumwobene Felsformationen mit lokalen Mythen. Der Abend senkt sich herab, während Sie die letzten Megalithen erreichen und über diese frühgeschichtliche Landschaft nachdenken.",
+        "hu": "A reggel a régió ősi rejtélyei között indul, ahol a magasodó állókövek drámai alaphangot adnak a napnak. Nyílt zöld mezőkön sétálva fedezi fel a gall ősök mélyen gyökerező történetét. Délben olyan elfeledett építmények mellett halad el, amelyek egykor ezeket a vad partokat védték. A délután során további legendás, helyi mítoszokkal övezett sziklaképződményeket látogat meg. Az este közeledtével az utolsó megalitokhoz ér, elgondolkodva a természet és az ember által formált tájon.",
+        "ro": "Dimineața începe printre misterele antice ale regiunii, unde pietrele impunătoare dau un ton dramatic zilei. Veți merge pe câmpuri verzi, descoperind istoria adânc înrădăcinată a strămoșilor galici. La amiază treceți pe lângă structuri uitate care protejau cândva aceste coaste sălbatice. După-amiaza se desfășoară cu vizite la alte formațiuni stâncoase legendare, fiecare cu mitul ei. Seara se așterne pe măsură ce ajungeți la ultimii megaliți, reflectând la un peisaj conturat de natură și umanitate.",
+        "en": "Morning begins among the ancient mysteries of the region, where towering standing stones set a dramatic tone for the day. You will walk across open green fields, discovering the deeply rooted history of the Gallic ancestors. Midday brings you past forgotten structures that once protected these wild coasts. The afternoon unfolds with visits to more legendary rock formations, each with its own local myth. Evening settles in as you reach the final megaliths, reflecting on a landscape shaped by both nature and early human civilization."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 6.15,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Seetangofen",
+            "hu": "Hínárkemence",
+            "ro": "Cuptor de alge",
+            "en": "Seaweed Kiln"
+          },
+          "coords": [
+            -4.200922,
+            48.676188
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den faszinierenden Seetangofen der einheimischen Fischer und besuchen Sie ihn bei Ebbe, um die ausgedehnten Küstenfelsen zu sehen, wo die Ernte stattfand.",
+            "hu": "Vizsgálja meg a lenyűgöző hínárkemencét, amelyet a helyiek generációi használtak, és látogasson el apály idején, hogy megnézze a kiterjedt parti sziklákat, ahol a betakarítás zajlott.",
+            "ro": "Investigați cuptorul de alge folosit de generații de localnici și vizitați în timpul mareei joase pentru a vedea rocile de coastă unde a avut loc recoltarea acestor plante.",
+            "en": "Investigate the fascinating seaweed kiln used by generations of locals for processing kelp, and visit during low tide to see the expansive coastal rocks where the harvesting took place."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Brunnen",
+            "hu": "Történelmi kút",
+            "ro": "Fântână istorică",
+            "en": "Historic Well"
+          },
+          "coords": [
+            -4.204584,
+            48.667024
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beachten Sie diesen traditionellen Brunnen, der die Gemeinde mit Süßwasser versorgte, und sehen Sie sich die sorgfältig behauenen Granitsteine an, die sein Fundament bilden.",
+            "hu": "Vegye szemügyre ezt a hagyományos régi kutat, amely életmentő édesvizet biztosított a közösségnek, és nézze meg a masszív alapját alkotó, aprólékosan csiszolt gránitköveket.",
+            "ro": "Observați această fântână antică ce asigura apă dulce comunității de coastă și priviți îndeaproape pietrele de granit tăiate meticulos care formează baza sa foarte robustă.",
+            "en": "Notice this traditional ancient well that provided life-saving freshwater to the coastal community, and look closely at the meticulously cut granite stones forming its robust base."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallische Stele",
+            "hu": "Gall sztélé",
+            "ro": "Stela galică",
+            "en": "Gallic Stele"
+          },
+          "coords": [
+            -4.193115,
+            48.682193
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese seltene gallische Stele, die von den Ritualen der Eisenzeit zeugt, und studieren Sie die verwitterten Inschriften am besten im weichen Vormittagslicht.",
+            "hu": "Csodálja meg ezt a ritka gall sztélét, amely a vaskori rituálék néma tanúja, és érdemes a kora délelőtti fényben megvizsgálni az időjárás által koptatott faragványait.",
+            "ro": "Admirați această rară stelă galică ce stă ca o mărturie a ritualurilor din Epoca Fierului și urmăriți sculpturile sale erodate înainte ca soarele de după-amiază să dispară.",
+            "en": "Admire this rare Gallic stele which stands as a silent testament to Iron Age rituals, and trace its weathered carvings before the afternoon sun casts deep shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Liegender Menhir",
+            "hu": "Fekvő menhir",
+            "ro": "Menhirul culcat",
+            "en": "Fallen Menhir"
+          },
+          "coords": [
+            -4.190368,
+            48.682478
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie den umgestürzten Menhir, der die Ausmaße prähistorischer Megalithen offenbart, und tragen Sie festes Schuhwerk, um das unebene Grasland sicher zu begehen.",
+            "hu": "Vizsgálja meg a kidőlt menhirt, amely feltárja a történelem előtti megalitok hatalmas méreteit, és viseljen túracipőt a környező egyenetlen füves terep biztonságos bejárásához.",
+            "ro": "Examinați menhirul căzut care dezvăluie scara imensă a megaliților preistorici și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul ierbos și accidentat.",
+            "en": "Examine the fallen menhir that reveals the immense scale of prehistoric megaliths, and wear sturdy walking shoes to safely navigate the surrounding uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulvermagazin",
+            "hu": "Lőporraktár",
+            "ro": "Magazie de pulbere",
+            "en": "Powder Magazine"
+          },
+          "coords": [
+            -4.192105,
+            48.682845
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Pulvermagazin, das vor Jahrhunderten wichtig für die Küstenverteidigung war, und werfen Sie einen Blick durch die eisernen Gitterfenster ins Innere.",
+            "hu": "Fedezze fel a régi lőporraktárat, amely évszázadokkal ezelőtt kulcsszerepet játszott a partvédelemben, és less be a vasrácsos ablakokon, hogy megérezze a hely hűvös múltját.",
+            "ro": "Descoperiți vechea magazie de pulbere care a jucat un rol crucial în apărarea coastei acum secole și priviți prin ferestrele cu gratii de fier pentru a simți istoria sa.",
+            "en": "Discover the old powder magazine that played a crucial role in coastal defense centuries ago, and peer through the iron-grated windows to sense its cool, damp history."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Cam-Louis",
+            "hu": "Cam-Louis menhir",
+            "ro": "Menhir du Cam-Louis",
+            "en": "Menhir du Cam-Louis"
+          },
+          "coords": [
+            -4.183489,
+            48.686013
+          ],
+          "category": "historical",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden Menhir du Cam-Louis als Symbol antiker Spiritualität und nutzen Sie ein Weitwinkelobjektiv, um ihn vor dem dramatischen Küstenhimmel abzulichten.",
+            "hu": "Csodálja meg a magasodó Cam-Louis menhirt, az ősi spiritualitás lenyűgöző emlékművét, és használjon nagylátószögű objektívet, hogy teljes magasságában megörökítse a tájban.",
+            "ro": "Minunați-vă de impunătorul Menhir du Cam-Louis, un monument izbitor al spiritualității antice, și folosiți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Marvel at the towering Menhir du Cam-Louis, a striking monument of ancient spirituality, and use a wide-angle lens to capture its full height against the dramatic coastal sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Roc'h Paotred ar Sabat",
+            "hu": "Roc'h Paotred ar Sabat",
+            "ro": "Roc'h Paotred ar Sabat",
+            "en": "Roc'h Paotred ar Sabat"
+          },
+          "coords": [
+            -4.174881,
+            48.686899
+          ],
+          "category": "landmark",
+          "arrive_at": "16:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese sagenumwobene Felsformation voller lokaler Mythen und treten Sie vorsichtig auf die moosigen Ränder, da die Oberfläche nach Regenschauern recht rutschig ist.",
+            "hu": "Fedezze fel ezt a helyi mítoszokkal és folklórral övezett legendás sziklaképződményt, de lépkedjen óvatosan a mohás széleken, mivel eső után a felület eléggé csúszós lehet.",
+            "ro": "Explorați această formațiune stâncoasă legendară învăluită în mituri locale și pășiți cu grijă pe marginile acoperite de mușchi, deoarece suprafața poate fi foarte alunecoasă.",
+            "en": "Explore this legendary rock formation shrouded in local myth and folklore, and step carefully along the mossy edges as the surface can be quite slippery after rain showers."
+          }
+        },
+        {
+          "name": {
+            "de": "Zollhaus",
+            "hu": "Vámház",
+            "ro": "Casa Vămii",
+            "en": "Customs House"
+          },
+          "coords": [
+            -4.154132,
+            48.691978
+          ],
+          "category": "historical",
+          "arrive_at": "17:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Reisen Sie im Zollhaus in die Zeit zurück, als Wachen nach Schmugglern Ausschau hielten, und bringen Sie ein Fernglas mit, um den weiten Meerblick von hier oben zu genießen.",
+            "hu": "Lépjen vissza az időben a vámháznál, ahol egykor az őrök csempészekre vadásztak, és hozzon magával távcsövet, hogy élvezhesse az átfogó óceáni kilátást ebből a stratégiai pontból.",
+            "ro": "Pășiți înapoi în timp la casa vămii unde gărzile pândeau odată contrabandiștii și aduceți binoclul pentru a vă bucura de vederile panoramice asupra oceanului din acest punct.",
+            "en": "Step back in time at the customs house where guards once watched for smugglers, and bring binoculars to enjoy the sweeping panoramic ocean views from this strategic vantage point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer frischen Meeresbrise an den historischen Seetangöfen und alten Brunnen am Westufer. Der Morgen eignet sich perfekt, um auf ruhigen Wegen zu den monumentalen Stelen und Steinen zu radeln. Nach dem Mittagessen fahren Sie landeinwärts, um alte Pulvermagazine und legendäre Felsformationen zu entdecken. Die Reise gipfelt an den nördlichen Klippen beim alten Zollhaus, wo Sie weite Ausblicke auf das Meer genießen, während die Sonne langsam am Horizont untergeht.",
+        "hu": "Kezdje a napot a friss parti szellővel a történelmi hínárkemencék és ősi kutak mellett a nyugati parton. A délelőtt tökéletes a csendes utakon való kerékpározáshoz a tájat tarkító monumentális sztélék felé. Ebéd után folytassa az utat a szárazföld belseje felé, hogy felfedezze a régi lőporraktárakat és legendás sziklaképződményeket. Az utazás a csúcspontjára ér, amikor az északi sziklákon a régi vámházhoz teker, és élvezi a tengeri kilátást, ahogy a nap lassan lebukik a horizonton.",
+        "ro": "Începeți-vă ziua respirând briza proaspătă de coastă la cuptoarele istorice de alge și fântânile vechi de pe țărmul de vest. Dimineața este perfectă pentru a pedala pe cărări liniștite spre stelele și pietrele ce presară peisajul. După prânz, continuați plimbarea spre interior pentru a descoperi magazii de pulbere și formațiuni stâncoase legendare. Călătoria culminează pe stâncile nordice, la vechea casă a vămii, bucurându-vă de priveliști spectaculoase în timp ce soarele coboară încet la orizont.",
+        "en": "Kick off your day breathing the fresh coastal breeze by the historic seaweed kilns and ancient wells along the western shore. The morning is perfectly suited for cycling the quiet paths toward the monumental steles and fallen stones that dot the landscape. After lunch, continue your ride inland to unearth old powder magazines and legendary rock formations. The journey culminates as you pedal along the northern cliffs to the old customs house, enjoying sweeping sea views as the sun slowly descends over the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 8.85,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Brunnen",
+            "hu": "Történelmi kút",
+            "ro": "Fântână istorică",
+            "en": "Historic Well"
+          },
+          "coords": [
+            -4.204584,
+            48.667024
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie diesen traditionellen Brunnen, der die Gemeinde mit Süßwasser versorgte, und sehen Sie sich die sorgfältig behauenen Granitsteine an, die sein Fundament bilden.",
+            "hu": "Vegye szemügyre ezt a hagyományos régi kutat, amely életmentő édesvizet biztosított a közösségnek, és nézze meg a masszív alapját alkotó, aprólékosan csiszolt gránitköveket.",
+            "ro": "Observați această fântână antică ce asigura apă dulce comunității de coastă și priviți îndeaproape pietrele de granit tăiate meticulos care formează baza sa foarte robustă.",
+            "en": "Notice this traditional ancient well that provided life-saving freshwater to the coastal community, and look closely at the meticulously cut granite stones forming its robust base."
+          }
+        },
+        {
+          "name": {
+            "de": "Seetangofen",
+            "hu": "Hínárkemence",
+            "ro": "Cuptor de alge",
+            "en": "Seaweed Kiln"
+          },
+          "coords": [
+            -4.200922,
+            48.676188
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den faszinierenden Seetangofen der einheimischen Fischer und besuchen Sie ihn bei Ebbe, um die ausgedehnten Küstenfelsen zu sehen, wo die Ernte stattfand.",
+            "hu": "Vizsgálja meg a lenyűgöző hínárkemencét, amelyet a helyiek generációi használtak, és látogasson el apály idején, hogy megnézze a kiterjedt parti sziklákat, ahol a betakarítás zajlott.",
+            "ro": "Investigați cuptorul de alge folosit de generații de localnici și vizitați în timpul mareei joase pentru a vedea rocile de coastă unde a avut loc recoltarea acestor plante.",
+            "en": "Investigate the fascinating seaweed kiln used by generations of locals for processing kelp, and visit during low tide to see the expansive coastal rocks where the harvesting took place."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallische Stele",
+            "hu": "Gall sztélé",
+            "ro": "Stela galică",
+            "en": "Gallic Stele"
+          },
+          "coords": [
+            -4.193115,
+            48.682193
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese seltene gallische Stele, die von den Ritualen der Eisenzeit zeugt, und studieren Sie die verwitterten Inschriften am besten im weichen Vormittagslicht.",
+            "hu": "Csodálja meg ezt a ritka gall sztélét, amely a vaskori rituálék néma tanúja, és érdemes a kora délelőtti fényben megvizsgálni az időjárás által koptatott faragványait.",
+            "ro": "Admirați această rară stelă galică ce stă ca o mărturie a ritualurilor din Epoca Fierului și urmăriți sculpturile sale erodate înainte ca soarele de după-amiază să dispară.",
+            "en": "Admire this rare Gallic stele which stands as a silent testament to Iron Age rituals, and trace its weathered carvings before the afternoon sun casts deep shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Cam-Louis",
+            "hu": "Cam-Louis menhir",
+            "ro": "Menhir du Cam-Louis",
+            "en": "Menhir du Cam-Louis"
+          },
+          "coords": [
+            -4.183489,
+            48.686013
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden Menhir du Cam-Louis als Symbol antiker Spiritualität und nutzen Sie ein Weitwinkelobjektiv, um ihn vor dem dramatischen Küstenhimmel abzulichten.",
+            "hu": "Csodálja meg a magasodó Cam-Louis menhirt, az ősi spiritualitás lenyűgöző emlékművét, és használjon nagylátószögű objektívet, hogy teljes magasságában megörökítse a tájban.",
+            "ro": "Minunați-vă de impunătorul Menhir du Cam-Louis, un monument izbitor al spiritualității antice, și folosiți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Marvel at the towering Menhir du Cam-Louis, a striking monument of ancient spirituality, and use a wide-angle lens to capture its full height against the dramatic coastal sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Roc'h Paotred ar Sabat",
+            "hu": "Roc'h Paotred ar Sabat",
+            "ro": "Roc'h Paotred ar Sabat",
+            "en": "Roc'h Paotred ar Sabat"
+          },
+          "coords": [
+            -4.174881,
+            48.686899
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese sagenumwobene Felsformation voller lokaler Mythen und treten Sie vorsichtig auf die moosigen Ränder, da die Oberfläche nach Regenschauern recht rutschig ist.",
+            "hu": "Fedezze fel ezt a helyi mítoszokkal és folklórral övezett legendás sziklaképződményt, de lépkedjen óvatosan a mohás széleken, mivel eső után a felület eléggé csúszós lehet.",
+            "ro": "Explorați această formațiune stâncoasă legendară învăluită în mituri locale și pășiți cu grijă pe marginile acoperite de mușchi, deoarece suprafața poate fi foarte alunecoasă.",
+            "en": "Explore this legendary rock formation shrouded in local myth and folklore, and step carefully along the mossy edges as the surface can be quite slippery after rain showers."
+          }
+        },
+        {
+          "name": {
+            "de": "Zollhaus",
+            "hu": "Vámház",
+            "ro": "Casa Vămii",
+            "en": "Customs House"
+          },
+          "coords": [
+            -4.154132,
+            48.691978
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Reisen Sie im Zollhaus in die Zeit zurück, als Wachen nach Schmugglern Ausschau hielten, und bringen Sie ein Fernglas mit, um den weiten Meerblick von hier oben zu genießen.",
+            "hu": "Lépjen vissza az időben a vámháznál, ahol egykor az őrök csempészekre vadásztak, és hozzon magával távcsövet, hogy élvezhesse az átfogó óceáni kilátást ebből a stratégiai pontból.",
+            "ro": "Pășiți înapoi în timp la casa vămii unde gărzile pândeau odată contrabandiștii și aduceți binoclul pentru a vă bucura de vederile panoramice asupra oceanului din acest punct.",
+            "en": "Step back in time at the customs house where guards once watched for smugglers, and bring binoculars to enjoy the sweeping panoramic ocean views from this strategic vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Sainte-Anne kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            -4.149829,
+            48.689424
+          ],
+          "category": "religious",
+          "arrive_at": "15:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an der ruhigen Chapelle Sainte-Anne, die spirituelle Stille in der rauen Landschaft bietet, und prüfen Sie die Holztafel draußen für die seltenen Öffnungszeiten.",
+            "hu": "Álljon meg a békés Sainte-Anne kápolnánál, amely spirituális nyugalmat kínál a vad táj közepén, és ellenőrizze a kinti fatáblán a belső tér ritka nyilvános látogatási idejét.",
+            "ro": "Opriți-vă la senina Chapelle Sainte-Anne care oferă liniște spirituală în mijlocul peisajului sălbatic și verificați panoul de lemn pentru orele rare de vizitare a interiorului său.",
+            "en": "Pause at the serene Chapelle Sainte-Anne which offers spiritual quietude amidst the wild landscape, and check the wooden notice board outside for rare public viewing hours of its interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kergallec",
+            "hu": "Kergallec menhir",
+            "ro": "Menhir de Kergallec",
+            "en": "Menhir de Kergallec"
+          },
+          "coords": [
+            -4.154897,
+            48.675042
+          ],
+          "category": "historical",
+          "arrive_at": "16:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erblicken Sie den Menhir de Kergallec, der einsam als antiker Grenzstein auf den Feldern steht, und nähern Sie sich leise, um die Vögel im nahen Gestrüpp nicht zu stören.",
+            "hu": "Tekintse meg a Kergallec menhirt, amely magányosan áll a mezőkön, mint egy ősi határkő, és közelítse meg halkan, hogy ne zavarja meg a közeli bozótosban fészkelő őshonos madarakat.",
+            "ro": "Priviți Menhir de Kergallec stând solitar printre câmpuri ca un vechi marcaj de graniță și apropiați-vă în liniște pentru a nu deranja păsările care cuibăresc în tufișurile din apropiere.",
+            "en": "Behold the Menhir de Kergallec standing solitary among the fields as an ancient boundary marker, and approach quietly to avoid disturbing the native birds nesting in the nearby brush."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir d'Irvit",
+            "hu": "Irvit menhir",
+            "ro": "Menhir d'Irvit",
+            "en": "Menhir d'Irvit"
+          },
+          "coords": [
+            -4.164147,
+            48.679068
+          ],
+          "category": "historical",
+          "arrive_at": "17:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Begegnen Sie dem Menhir d'Irvit, der die Landschaft mit seiner zeitlosen Präsenz prägt, und setzen Sie sich auf die nahegelegenen Steinbänke, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Találkozzon az Irvit menhirrel, amely időtlen jelenlétével uralja a tájat, és szánjon egy percet arra, hogy leüljön a közeli kőpadokra, hogy teljesen magába szívja a nyugalmat.",
+            "ro": "Întâlniți Menhir d'Irvit, care ancorează peisajul prin prezența sa atemporală, și luați-vă un moment pentru a vă așeza pe băncile de piatră pentru a absorbi atmosfera liniștită.",
+            "en": "Encounter the Menhir d'Irvit which anchors the landscape with its timeless presence, and take a moment to sit on the nearby stone benches to fully absorb the tranquil atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre malerische Fahrt entlang der südwestlichen Küste und bewundern Sie die widerstandsfähige Architektur traditioneller Brunnen und Seetangöfen. Mittags navigieren Sie über kurvige Landstraßen zu einer unglaublichen Ansammlung prähistorischer Monumente und hoch aufragender Menhire. Am Nachmittag geht es zu den dramatischen Nordklippen und einer beschaulichen Kapelle. Der Tag endet mit einem Besuch der isolierten östlichen Menhire, die in das goldene Licht des frühen Abends getaucht sind.",
+        "hu": "Kezdje a festői autózást a délnyugati perem mentén, rövid megállókkal a hagyományos kutak és hínárkemencék part menti építészetének megcsodálására. Délben kanyargós vidéki utakon navigál a történelem előtti műemlékek és menhirek hihetetlen sora között. A délután folyamán a drámai északi sziklák és egy csendes kápolna felé veszi az irányt. A nap az elszigetelt keleti állókövek meglátogatásával zárul, amelyeket a kora esti órák gazdag aranyfénye fürdet.",
+        "ro": "Începeți condusul pitoresc de-a lungul perimetrului de sud-vest, oprindu-vă scurt pentru a admira arhitectura tradițională a fântânilor și cuptoarelor de alge. La amiază, navigați pe drumurile șerpuite de țară care leagă monumente preistorice și menhire impunătoare. Pe măsură ce după-amiaza avansează, vă veți îndrepta spre stâncile dramatice din nord și o capelă pitorească. Ziua se încheie cu o vizită la megaliții izolați din est, scăldați în lumina aurie a serii timpurii.",
+        "en": "Start your scenic drive along the southwestern perimeter, stopping briefly to admire the resilient coastal architecture of traditional wells and seaweed kilns. By midday, navigate the winding country roads connecting an incredible array of pre-historic monuments and towering menhirs. As the afternoon progresses, you'll head towards the dramatic northern cliffs and a quaint chapel offering quiet reflection. The day concludes with a visit to the isolated eastern standing stones, bathed in the rich golden light of the early evening."
+      }
+    }
+  }
+}

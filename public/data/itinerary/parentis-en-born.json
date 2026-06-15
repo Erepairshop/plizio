@@ -1,0 +1,474 @@
+{
+  "city_id": "parentis-en-born",
+  "anchor": {
+    "name": "Parentis-en-Born",
+    "coords": [
+      -1.0744,
+      44.3494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.072208,
+            44.348889
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Stadtzentrum und genießen Sie das friedliche Innere vor dem mittäglichen Andrang.",
+            "hu": "Csodálja meg a városközpont történelmi templomának lenyűgöző építészetét, és élvezze a békés belső teret még a déli tömeg érkezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din centrul orașului și bucurați-vă de interiorul liniștit înainte de aglomerația de la prânz.",
+            "en": "Admire the striking architecture of this historic church in the town center, and take a moment to enjoy the peaceful interior before the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes Roland Portalier",
+            "hu": "Arènes Roland Portalier",
+            "ro": "Arènes Roland Portalier",
+            "en": "Arènes Roland Portalier"
+          },
+          "coords": [
+            -1.07066,
+            44.34624
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Stierkampf-Traditionen in dieser traditionellen Arena, aber prüfen Sie vorher den Veranstaltungsplan für eine echte Show.",
+            "hu": "Fedezze fel a helyi bikaviadal-hagyományokat ebben a hagyományos arénában, de feltétlenül ellenőrizze az eseménynaptárt egy autentikus műsorért.",
+            "ro": "Descoperiți tradițiile locale de lupte cu tauri în această arenă tradițională, dar verificați programul evenimentelor pentru a prinde un spectacol autentic.",
+            "en": "Discover the local bullfighting traditions at this traditional arena, but be sure to check the event schedule beforehand to catch an authentic show."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Parentis",
+            "hu": "Port de Parentis",
+            "ro": "Port de Parentis",
+            "en": "Port de Parentis"
+          },
+          "coords": [
+            -1.05558,
+            44.349699
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am charmanten Hafen entlang und bringen Sie eine Kamera mit, um die wunderschönen Wasserreflexionen im Morgenlicht einzufangen.",
+            "hu": "Sétáljon végig a bájos kikötőn a lágyan ringatózó csónakok között, és hozzon fényképezőgépet, hogy megörökítse a reggeli fény vízi tükröződéseit.",
+            "ro": "Plimbați-vă de-a lungul portului fermecător pentru a vedea bărcile și aduceți un aparat foto pentru a surprinde reflexiile apei în lumina dimineții.",
+            "en": "Stroll along the charming harbor to watch the gentle swaying boats, and bring a camera to capture the beautiful water reflections in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini golf",
+            "hu": "Mini golf",
+            "ro": "Mini golf",
+            "en": "Mini golf"
+          },
+          "coords": [
+            -1.101916,
+            44.347781
+          ],
+          "category": "family",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie eine lustige Familienherausforderung auf diesem gepflegten Minigolfplatz und versuchen Sie, am späten Vormittag zu spielen, wenn es nicht zu heiß ist.",
+            "hu": "Élvezze a szórakoztató családi kihívást ezen a gondozott minigolfpályán, és próbáljon késő délelőtt érkezni, amikor a nap még nem túl erősen tűz.",
+            "ro": "Bucurați-vă de o provocare distractivă în familie pe acest teren de minigolf bine întreținut și încercați să vizitați dimineața, când soarele nu este prea puternic.",
+            "en": "Enjoy a fun-filled family challenge on this well-kept miniature golf course, and try to visit in the late morning when the sun isn't too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "PLage",
+            "hu": "PLage",
+            "ro": "PLage",
+            "en": "PLage"
+          },
+          "coords": [
+            -1.103501,
+            44.346139
+          ],
+          "category": "family",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand des Sees für eine perfekte Nachmittagsruhe und packen Sie lokale Snacks für ein Picknick mit schönem Seeblick ein.",
+            "hu": "Pihenjen a tóparti strand aranyhomokján egy tökéletes délutáni szunyókáláshoz, és csomagoljon helyi finomságokat egy csodás vízparti piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei de pe malul lacului pentru o odihnă perfectă și luați gustări locale pentru un picnic cu vedere la apă.",
+            "en": "Relax on the golden sands of the lakeside beach for a perfect afternoon rest, and pack some local snacks for a picnic with a lovely water view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag mit einem Besuch der historischen Église Saint-Pierre, gefolgt von einem kulturellen Stopp an der traditionellen Arènes Roland Portalier direkt im Zentrum.\nMittag: Machen Sie einen angenehmen Spaziergang in Richtung Osten zum Port de Parentis, wo Sie die schaukelnden Boote auf dem Wasser beobachten können, bevor es zum See geht.\nNachmittag: Begeben Sie sich in die Freizeitzone für eine unterhaltsame Runde Minigolf und fordern Sie Ihre Reisebegleiter in der Sonne heraus.\nAbend: Lassen Sie den Tag entspannt am PLage ausklingen und lauschen Sie dem sanften Plätschern des Wassers, während der Sonnenuntergang den Himmel färbt.",
+        "hu": "Reggel: Kezdje a napot a történelmi Église Saint-Pierre megtekintésével, majd tegyen egy kulturális kitérőt a hagyományos Arènes Roland Portalier felé a városközpontban.\nDél: Tegyen egy kellemes sétát keletre, a Port de Parentis felé, ahol megfigyelheti a vízen lágyan ringatózó csónakokat, mielőtt a tóvidék felé venné az irányt.\nDélután: Látogasson el a szabadidős övezetbe egy vidám és könnyed minigolf partira, kihívva útitársait a kellemes napsütésben.\nEste: Zárja a napot a PLage strandján pihenve, hallgatva a víz lágy hullámzását, miközben a naplemente színei megfestik az eget Parentis-en-Born felett.",
+        "ro": "Dimineața: Începeți-vă ziua cu o vizită la istorica Église Saint-Pierre, urmată de o oprire culturală la tradiționala Arènes Roland Portalier, chiar în centrul orașului.\nPrânz: Faceți o plimbare plăcută spre est până la Port de Parentis, unde puteți urmări bărcile legănându-se ușor pe apă, înainte de a vă îndrepta spre zona lacului.\nDupă-amiaza: Mergeți spre zona de agrement pentru o rundă distractivă de minigolf, provocându-vă tovarășii de călătorie sub razele soarelui.\nSeara: Încheiați-vă ziua relaxându-vă la PLage, ascultând susurul blând al apei, în timp ce culorile apusului pictează cerul deasupra Parentis-en-Born.",
+        "en": "Morning: Start your day with a visit to the historic Église Saint-Pierre, followed by a cultural stop at the traditional Arènes Roland Portalier right in the town center.\nMidday: Take a pleasant stroll eastward to the Port de Parentis, where you can watch the boats gently bobbing on the water before heading towards the lake area.\nAfternoon: Make your way to the leisure zone for a fun and lighthearted round of Mini golf, challenging your travel companions under the sun.\nEvening: Conclude your day relaxing at the PLage, listening to the gentle ripples of the water as the sunset colors paint the sky over Parentis-en-Born."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.072208,
+            44.348889
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Stadtzentrum und genießen Sie das friedliche Innere vor dem mittäglichen Andrang.",
+            "hu": "Csodálja meg a városközpont történelmi templomának lenyűgöző építészetét, és élvezze a békés belső teret még a déli tömeg érkezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din centrul orașului și bucurați-vă de interiorul liniștit înainte de aglomerația de la prânz.",
+            "en": "Admire the striking architecture of this historic church in the town center, and take a moment to enjoy the peaceful interior before the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes Roland Portalier",
+            "hu": "Arènes Roland Portalier",
+            "ro": "Arènes Roland Portalier",
+            "en": "Arènes Roland Portalier"
+          },
+          "coords": [
+            -1.07066,
+            44.34624
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Stierkampf-Traditionen in dieser traditionellen Arena, aber prüfen Sie vorher den Veranstaltungsplan für eine echte Show.",
+            "hu": "Fedezze fel a helyi bikaviadal-hagyományokat ebben a hagyományos arénában, de feltétlenül ellenőrizze az eseménynaptárt egy autentikus műsorért.",
+            "ro": "Descoperiți tradițiile locale de lupte cu tauri în această arenă tradițională, dar verificați programul evenimentelor pentru a prinde un spectacol autentic.",
+            "en": "Discover the local bullfighting traditions at this traditional arena, but be sure to check the event schedule beforehand to catch an authentic show."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Parentis",
+            "hu": "Port de Parentis",
+            "ro": "Port de Parentis",
+            "en": "Port de Parentis"
+          },
+          "coords": [
+            -1.05558,
+            44.349699
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am charmanten Hafen entlang und bringen Sie eine Kamera mit, um die wunderschönen Wasserreflexionen im Morgenlicht einzufangen.",
+            "hu": "Sétáljon végig a bájos kikötőn a lágyan ringatózó csónakok között, és hozzon fényképezőgépet, hogy megörökítse a reggeli fény vízi tükröződéseit.",
+            "ro": "Plimbați-vă de-a lungul portului fermecător pentru a vedea bărcile și aduceți un aparat foto pentru a surprinde reflexiile apei în lumina dimineții.",
+            "en": "Stroll along the charming harbor to watch the gentle swaying boats, and bring a camera to capture the beautiful water reflections in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini golf",
+            "hu": "Mini golf",
+            "ro": "Mini golf",
+            "en": "Mini golf"
+          },
+          "coords": [
+            -1.101916,
+            44.347781
+          ],
+          "category": "family",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie eine lustige Familienherausforderung auf diesem gepflegten Minigolfplatz und versuchen Sie, am späten Vormittag zu spielen, wenn es nicht zu heiß ist.",
+            "hu": "Élvezze a szórakoztató családi kihívást ezen a gondozott minigolfpályán, és próbáljon késő délelőtt érkezni, amikor a nap még nem túl erősen tűz.",
+            "ro": "Bucurați-vă de o provocare distractivă în familie pe acest teren de minigolf bine întreținut și încercați să vizitați dimineața, când soarele nu este prea puternic.",
+            "en": "Enjoy a fun-filled family challenge on this well-kept miniature golf course, and try to visit in the late morning when the sun isn't too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Aquatique",
+            "hu": "Espace Aquatique",
+            "ro": "Espace Aquatique",
+            "en": "Espace Aquatique"
+          },
+          "coords": [
+            -1.10169,
+            44.346317
+          ],
+          "category": "family",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planschen und kühlen Sie sich in diesem familienfreundlichen Erlebnisbad ab; bringen Sie eigene Handtücher und eine Münze für die Schließfächer mit.",
+            "hu": "Csobbanjon és hűsöljön ebben a családbarát vízi központban, és hozzon magával saját törölközőt, illetve aprópénzt a szekrényekhez a gördülékenységért.",
+            "ro": "Bălăciți-vă și răcoriți-vă în acest centru acvatic pentru familii, aducându-vă propriile prosoape și o monedă pentru vestiar pentru o experiență mai ușoară.",
+            "en": "Splash around and cool off in this family-friendly aquatic center, bringing your own towels and a locker coin to make your transition much smoother."
+          }
+        },
+        {
+          "name": {
+            "de": "PLage",
+            "hu": "PLage",
+            "ro": "PLage",
+            "en": "PLage"
+          },
+          "coords": [
+            -1.103501,
+            44.346139
+          ],
+          "category": "family",
+          "arrive_at": "13:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand des Sees für eine perfekte Nachmittagsruhe und packen Sie lokale Snacks für ein Picknick mit schönem Seeblick ein.",
+            "hu": "Pihenjen a tóparti strand aranyhomokján egy tökéletes délutáni szunyókáláshoz, és csomagoljon helyi finomságokat egy csodás vízparti piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei de pe malul lacului pentru o odihnă perfectă și luați gustări locale pentru un picnic cu vedere la apă.",
+            "en": "Relax on the golden sands of the lakeside beach for a perfect afternoon rest, and pack some local snacks for a picnic with a lovely water view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch das Herz von Parentis-en-Born, besuchen Sie die Église Saint-Pierre und die Stierkampfarena Arènes Roland Portalier.\nMittag: Fahren Sie zum Port de Parentis, um die maritime Atmosphäre zu genießen, bevor Sie zu den westlichen Erholungsufern in die Pedale treten.\nNachmittag: Genießen Sie Familienspaß bei einer Partie Minigolf, gefolgt von einem erfrischenden Bad im nahe gelegenen Espace Aquatique.\nAbend: Stellen Sie Ihr Fahrrad ab und machen Sie es sich im weichen Sand des PLage bequem, um zu beobachten, wie das Abendlicht über dem weiten See langsam verblasst.",
+        "hu": "Reggel: Kerekezzen át Parentis-en-Born szívén, látogasson el az Église Saint-Pierre-hez és az Arènes Roland Portalier bikaviadal-arénához.\nDél: Tekerjen át a Port de Parentis-hoz, hogy beszívja a tengeri atmoszférát, mielőtt a nyugati pihenőpartok felé venné az irányt.\nDélután: Élvezze a családi szórakozást egy minigolf játékkal, amelyet egy energikus csobbanás követhet a közeli Espace Aquatique vízi központban.\nEste: Parkolja le kerékpárját, és telepedjen le a PLage puha homokjára, hogy megnézze, ahogy az esti fény lassan elhalványul a hatalmas tó felett.",
+        "ro": "Dimineața: Pedalați prin inima orașului Parentis-en-Born, vizitând Église Saint-Pierre și arena de lupte cu tauri Arènes Roland Portalier.\nPrânz: Mergeți cu bicicleta până la Port de Parentis pentru a vă bucura de atmosfera maritimă înainte de a pedala spre țărmurile vestice de agrement.\nDupă-amiaza: Bucurați-vă de distracție în familie cu o partidă de minigolf, urmată de o bălăceală energică la Espace Aquatique din apropiere.\nSeara: Parcați-vă bicicleta și așezați-vă pe nisipul fin al PLage pentru a privi cum lumina serii se estompează încet peste lacul întins.",
+        "en": "Morning: Cycle through the heart of Parentis-en-Born, visiting Église Saint-Pierre and the bullfighting arena of Arènes Roland Portalier.\nMidday: Ride over to Port de Parentis to take in the maritime atmosphere before pedaling your way to the western recreational shores.\nAfternoon: Enjoy a mix of family fun with a game of Mini golf, followed by an energetic splash at the nearby Espace Aquatique.\nEvening: Park your bike and settle onto the soft sands of the PLage to watch the evening light slowly fade over the expansive lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 9.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.072208,
+            44.348889
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Stadtzentrum und genießen Sie das friedliche Innere vor dem mittäglichen Andrang.",
+            "hu": "Csodálja meg a városközpont történelmi templomának lenyűgöző építészetét, és élvezze a békés belső teret még a déli tömeg érkezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din centrul orașului și bucurați-vă de interiorul liniștit înainte de aglomerația de la prânz.",
+            "en": "Admire the striking architecture of this historic church in the town center, and take a moment to enjoy the peaceful interior before the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes Roland Portalier",
+            "hu": "Arènes Roland Portalier",
+            "ro": "Arènes Roland Portalier",
+            "en": "Arènes Roland Portalier"
+          },
+          "coords": [
+            -1.07066,
+            44.34624
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Stierkampf-Traditionen in dieser traditionellen Arena, aber prüfen Sie vorher den Veranstaltungsplan für eine echte Show.",
+            "hu": "Fedezze fel a helyi bikaviadal-hagyományokat ebben a hagyományos arénában, de feltétlenül ellenőrizze az eseménynaptárt egy autentikus műsorért.",
+            "ro": "Descoperiți tradițiile locale de lupte cu tauri în această arenă tradițională, dar verificați programul evenimentelor pentru a prinde un spectacol autentic.",
+            "en": "Discover the local bullfighting traditions at this traditional arena, but be sure to check the event schedule beforehand to catch an authentic show."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Parentis",
+            "hu": "Port de Parentis",
+            "ro": "Port de Parentis",
+            "en": "Port de Parentis"
+          },
+          "coords": [
+            -1.05558,
+            44.349699
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie am charmanten Hafen entlang und bringen Sie eine Kamera mit, um die wunderschönen Wasserreflexionen im Morgenlicht einzufangen.",
+            "hu": "Sétáljon végig a bájos kikötőn a lágyan ringatózó csónakok között, és hozzon fényképezőgépet, hogy megörökítse a reggeli fény vízi tükröződéseit.",
+            "ro": "Plimbați-vă de-a lungul portului fermecător pentru a vedea bărcile și aduceți un aparat foto pentru a surprinde reflexiile apei în lumina dimineții.",
+            "en": "Stroll along the charming harbor to watch the gentle swaying boats, and bring a camera to capture the beautiful water reflections in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini golf",
+            "hu": "Mini golf",
+            "ro": "Mini golf",
+            "en": "Mini golf"
+          },
+          "coords": [
+            -1.101916,
+            44.347781
+          ],
+          "category": "family",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie eine lustige Familienherausforderung auf diesem gepflegten Minigolfplatz und versuchen Sie, am späten Vormittag zu spielen, wenn es nicht zu heiß ist.",
+            "hu": "Élvezze a szórakoztató családi kihívást ezen a gondozott minigolfpályán, és próbáljon késő délelőtt érkezni, amikor a nap még nem túl erősen tűz.",
+            "ro": "Bucurați-vă de o provocare distractivă în familie pe acest teren de minigolf bine întreținut și încercați să vizitați dimineața, când soarele nu este prea puternic.",
+            "en": "Enjoy a fun-filled family challenge on this well-kept miniature golf course, and try to visit in the late morning when the sun isn't too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Aquatique",
+            "hu": "Espace Aquatique",
+            "ro": "Espace Aquatique",
+            "en": "Espace Aquatique"
+          },
+          "coords": [
+            -1.10169,
+            44.346317
+          ],
+          "category": "family",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planschen und kühlen Sie sich in diesem familienfreundlichen Erlebnisbad ab; bringen Sie eigene Handtücher und eine Münze für die Schließfächer mit.",
+            "hu": "Csobbanjon és hűsöljön ebben a családbarát vízi központban, és hozzon magával saját törölközőt, illetve aprópénzt a szekrényekhez a gördülékenységért.",
+            "ro": "Bălăciți-vă și răcoriți-vă în acest centru acvatic pentru familii, aducându-vă propriile prosoape și o monedă pentru vestiar pentru o experiență mai ușoară.",
+            "en": "Splash around and cool off in this family-friendly aquatic center, bringing your own towels and a locker coin to make your transition much smoother."
+          }
+        },
+        {
+          "name": {
+            "de": "PLage",
+            "hu": "PLage",
+            "ro": "PLage",
+            "en": "PLage"
+          },
+          "coords": [
+            -1.103501,
+            44.346139
+          ],
+          "category": "family",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand des Sees für eine perfekte Nachmittagsruhe und packen Sie lokale Snacks für ein Picknick mit schönem Seeblick ein.",
+            "hu": "Pihenjen a tóparti strand aranyhomokján egy tökéletes délutáni szunyókáláshoz, és csomagoljon helyi finomságokat egy csodás vízparti piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei de pe malul lacului pentru o odihnă perfectă și luați gustări locale pentru un picnic cu vedere la apă.",
+            "en": "Relax on the golden sands of the lakeside beach for a perfect afternoon rest, and pack some local snacks for a picnic with a lovely water view."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Parentis-Biscarrosse",
+            "hu": "Étang de Parentis-Biscarrosse",
+            "ro": "Étang de Parentis-Biscarrosse",
+            "en": "Étang de Parentis-Biscarrosse"
+          },
+          "coords": [
+            -1.153705,
+            44.349242
+          ],
+          "category": "natural",
+          "arrive_at": "14:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine friedliche Wanderung um diesen riesigen, unberührten Natursee und tragen Sie feste Wanderschuhe für die unebenen Uferwege.",
+            "hu": "Tegyen egy békés túrát e hatalmas, érintetlen természetes tó körül, és viseljen masszív túracipőt az egyenetlen part menti ösvényeken való sétához.",
+            "ro": "Faceți o drumeție liniștită în jurul acestui vast lac natural pentru a vă reconecta cu natura, purtând încălțăminte rezistentă pentru potecile neregulate.",
+            "en": "Take a peaceful hike around this vast, pristine natural lake to reconnect with nature, wearing sturdy walking shoes for the uneven shoreline paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie in das Stadtzentrum, um die Architektur der Église Saint-Pierre und die beeindruckende Struktur der Arènes Roland Portalier zu bewundern.\nMittag: Machen Sie eine kurze Fahrt zum Port de Parentis für einen Hafenblick, cruisen Sie dann bequem zum Freizeitpark am See für Minigolf.\nNachmittag: Verbringen Sie Ihren Nachmittag im Espace Aquatique und entspannen Sie am angrenzenden PLage, ideal für Familienausflüge.\nAbend: Fahren Sie weiter zum unberührten Étang de Parentis-Biscarrosse für einen ruhigen, natürlichen Sonnenuntergang fernab der geschäftigen Stadt.",
+        "hu": "Reggel: Hajtson be a városközpontba, hogy megcsodálja az Église Saint-Pierre építészetét és az Arènes Roland Portalier lenyűgöző szerkezetét.\nDél: Tegyen egy rövid utat a Port de Parentis-hez a kikötői kilátásért, majd guruljon kényelmesen a tóparti szabadidőparkba egy minigolffal.\nDélután: Töltse a délutánt az Espace Aquatique vízi élményeivel és a szomszédos PLage partján pihenve, amely tökéletes a családi kikapcsolódáshoz.\nEste: Vezessen tovább az érintetlen Étang de Parentis-Biscarrosse-hoz, hogy egy békés, természetes naplementében gyönyörködjön a nyüzsgő várostól távol.",
+        "ro": "Dimineața: Conduceți în centrul orașului pentru a admira arhitectura Église Saint-Pierre și structura impresionantă a Arènes Roland Portalier.\nPrânz: Faceți o scurtă plimbare cu mașina până la Port de Parentis pentru o vedere la port, apoi mergeți confortabil spre parcul de agrement pentru minigolf.\nDupă-amiaza: Petreceți-vă după-amiaza bălăcindu-vă la Espace Aquatique și relaxându-vă pe PLage-ul adiacent, perfect pentru ieșirile în familie.\nSeara: Conduceți mai departe până la Étang de Parentis-Biscarrosse pentru un apus de soare natural și senin, departe de orașul plin de viață.",
+        "en": "Morning: Drive into the town center to admire the architecture of Église Saint-Pierre and the impressive structure of Arènes Roland Portalier.\nMidday: Take a short drive to Port de Parentis for a harbor view, then cruise comfortably to the lakeside leisure park for Mini golf.\nAfternoon: Spend your afternoon splashing at the Espace Aquatique and relaxing on the adjacent PLage, perfectly suited for family outings.\nEvening: Drive further out to the pristine Étang de Parentis-Biscarrosse for a serene, natural sunset away from the bustling town."
+      }
+    }
+  }
+}

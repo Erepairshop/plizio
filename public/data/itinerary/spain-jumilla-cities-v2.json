@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-jumilla-cities-v2",
+  "anchor": {
+    "name": "Jumilla",
+    "coords": [
+      -1.327025,
+      38.476173
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de Doña Pepita",
+            "hu": "Casa de Doña Pepita",
+            "ro": "Casa de Doña Pepita",
+            "en": "Casa de Doña Pepita"
+          },
+          "coords": [
+            -1.327364,
+            38.474747
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den modernistischen Charme der Casa de Doña Pepita aus dem 19. Jahrhundert; bewundern Sie die verzierte Fassade am besten von der ruhigeren Seitenstraße aus.",
+            "hu": "Fedezze fel a Casa de Doña Pepita 19. századi modernista báját, amely Jumilla múltját tükrözi; fotózza le a díszes homlokzatot a csendesebb mellékutca felől a legjobb szögekért.",
+            "ro": "Descoperiți farmecul modernist de secol XIX al Casei de Doña Pepita, o reflexie a trecutului bogat; admirați fațada sa ornamentată de pe străduța laterală pentru fotografii.",
+            "en": "Discover the 19th-century modernist charm of Casa de Doña Pepita, reflecting Jumilla's wealthy past; admire its ornate façade from the quieter side street for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum Jerónimo Molina",
+            "hu": "Jerónimo Molina Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Jerónimo Molina",
+            "en": "Jerónimo Molina Ethnographic Museum"
+          },
+          "coords": [
+            -1.331449,
+            38.47494
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Jumillas reiches kulturelles Erbe ein, das lokale Traditionen zeigt; beginnen Sie oben, um der historischen Entwicklung nach unten zu folgen.",
+            "hu": "Merüljön el Jumilla gazdag kulturális örökségében a helyi hagyományokat bemutató múzeumban; kezdje a legfelső emeleten, és kövesse az idővonalat folyamatosan lefelé haladva.",
+            "ro": "Aprofundați moștenirea culturală a Jumillei în acest muzeu etnografic ce prezintă tradițiile locale; începeți la etajul superior pentru a urmări cronologia istorică în jos.",
+            "en": "Delve into Jumilla's rich cultural heritage at this ethnographic museum detailing local traditions; start your visit on the top floor to follow the historical timeline downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de San Roque",
+            "hu": "Arco de San Roque",
+            "ro": "Arco de San Roque",
+            "en": "Arco de San Roque"
+          },
+          "coords": [
+            -1.333314,
+            38.474324
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch den historischen Arco de San Roque, ein Überrest der alten Stadtmauer; berühren Sie die alten Steinpfeiler und achten Sie auf Marktstände in der Nähe.",
+            "hu": "Sétáljon át a történelmi Arco de San Roque boltíven, a várost egykor védő régi várfal maradványán; érintse meg az ősi köveket, és keressen helyi piaci standokat a közelben.",
+            "ro": "Treceți prin istoricul Arco de San Roque, o rămășiță a vechilor ziduri ce protejau orașul; atingeți stâlpii antici și căutați tarabele pieței locale din imediata apropiere.",
+            "en": "Walk through the historic Arco de San Roque, a remnant of the old town walls that once protected the city; touch the ancient stone pillars and watch for market stalls nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Arriba",
+            "hu": "Plaza de Arriba",
+            "ro": "Plaza de Arriba",
+            "en": "Plaza de Arriba"
+          },
+          "coords": [
+            -1.333587,
+            38.475661
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre der Plaza de Arriba, einem klassischen spanischen Platz; nehmen Sie auf einer Eckbank Platz, um den herrlichen Schatten zu nutzen.",
+            "hu": "Szívja magába a Plaza de Arriba nyüzsgő hangulatát, a történelmi épületekkel övezett klasszikus téren; foglaljon helyet egy sarki padon, hogy élvezze a hűsítő árnyékot.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din Plaza de Arriba, o piață clasică înconjurată de istorie; așezați-vă pe o bancă de colț pentru a profita de umbra răcoroasă.",
+            "en": "Soak in the lively atmosphere of Plaza de Arriba, a classic Spanish square surrounded by historic architecture; take a seat at a corner bench to enjoy the morning shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Turm der Kirche Santa María",
+            "hu": "Santa María templom régi tornya",
+            "ro": "Vechiul turn al bisericii Santa María",
+            "en": "Old Tower of Santa María Church"
+          },
+          "coords": [
+            -1.335718,
+            38.475985
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den verwitterten Glockenturm der alten Santa-María-Kirche, der frühe Renaissance-Kunst zeigt; betrachten Sie ihn aus nördlicher Richtung für Details.",
+            "hu": "Csodálja meg a régi Santa María templom viharvert harangtornyát, amely a kora reneszánsz művészetbe enged bepillantást; nézze meg északi irányból a faragott részletekért.",
+            "ro": "Admirați turnul cu clopot uzat de vreme al vechii biserici Santa María, cu detalii de artă renascentistă; priviți-l din unghiul nordic pentru a observa sculpturile delicate.",
+            "en": "Admire the weathered bell tower of the old Santa María church, offering a glimpse into early Renaissance religious art; view it from the northern angle to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Jumilla",
+            "hu": "Jumilla vára",
+            "ro": "Castelul din Jumilla",
+            "en": "Jumilla Castle"
+          },
+          "coords": [
+            -1.333675,
+            38.479533
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Krönen Sie Ihren Ausflug am imposanten Castillo de Jumilla, einer mittelalterlichen Festung mit Blick über Weinberge; tragen Sie festes Schuhwerk für den steilen Aufstieg.",
+            "hu": "Koronázza meg útját a Castillo de Jumilla középkori erődjében, ahonnan pazar kilátás nyílik a szőlőkre; viseljen kényelmes cipőt, mert az utolsó szakasz nagyon meredek.",
+            "ro": "Încoronați-vă excursia la impresionantul Castillo de Jumilla, o fortăreață cu vederi panoramice peste podgorii; purtați încălțăminte comodă pentru urcarea finală abruptă.",
+            "en": "Crown your trip at the imposing Castillo de Jumilla, a medieval fortress with sweeping views over the vineyards; wear sturdy walking shoes as the final ascent is quite steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der eleganten Casa de Doña Pepita und dem Ethnografischen Museum. Mittags geht es durch den alten Arco de San Roque zur lebhaften Plaza de Arriba. Am Nachmittag entdecken Sie den alten Turm der Santa-María-Kirche. Gegen Abend steigen Sie zum Castillo de Jumilla hinauf, um einen spektakulären Sonnenuntergang über den Weinbergen der Region zu erleben.",
+        "hu": "Kezdje a reggelt az elegáns Casa de Doña Pepita és a Néprajzi Múzeum kiállításainak felfedezésével. Délben a régi Arco de San Roque alatt áthaladva érje el a nyüzsgő Plaza de Arriba teret. Délután ismerje meg a Santa María templom öreg tornyát. Ahogy közeledik az este, másszon fel a Castillo de Jumilla erődhöz, és csodálja meg a szőlőültetvények felett lemenő napot.",
+        "ro": "Începeți dimineața explorând eleganta Casa de Doña Pepita și fascinantul Muzeu Etnografic. La prânz, treceți prin vechiul Arco de San Roque spre vibranta Plaza de Arriba. După-amiaza, descoperiți frumusețea turnului vechii biserici Santa María. Spre seară, urcați la Castillo de Jumilla pentru a vă bucura de un apus spectaculos peste nesfârșitele podgorii ale regiunii.",
+        "en": "Start your morning exploring the elegant Casa de Doña Pepita and the fascinating exhibits at the Ethnographic Museum. Midday takes you through the ancient Arco de San Roque towards the vibrant Plaza de Arriba. In the afternoon, discover the Renaissance beauty of the old Santa María church tower. As evening approaches, hike up to the Castillo de Jumilla for a spectacular sunset over the vineyards."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:57",
+      "total_km": 3.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spätrömisches Grabmal",
+            "hu": "Késő római temetkezési emlékmű",
+            "ro": "Monumentul funerar roman târziu",
+            "en": "Late Roman Funerary Monument"
+          },
+          "coords": [
+            -1.330958,
+            38.469666
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses seltene spätrömische Grabmal, das Jumillas antike Wurzeln zeigt; betrachten Sie das erhaltene Mauerwerk und kommen Sie früh vor der Hitze.",
+            "hu": "Fedezze fel ezt a ritka késő római kori temetkezési emlékművet, amely Jumilla ókori gyökereit mutatja be; figyelje meg a falazási technikákat a hűvös reggeli órákban.",
+            "ro": "Explorați acest monument funerar roman târziu ce subliniază rădăcinile antice; observați tehnicile de zidărie și vizitați devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore this rare Late Roman funerary monument that highlights Jumilla's ancient roots; look closely at the preserved masonry techniques and visit early to avoid the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Doña Pepita",
+            "hu": "Casa de Doña Pepita",
+            "ro": "Casa de Doña Pepita",
+            "en": "Casa de Doña Pepita"
+          },
+          "coords": [
+            -1.327364,
+            38.474747
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie den modernistischen Charme der Casa de Doña Pepita aus dem 19. Jahrhundert; bewundern Sie die verzierte Fassade am besten von der ruhigeren Seitenstraße aus.",
+            "hu": "Fedezze fel a Casa de Doña Pepita 19. századi modernista báját, amely Jumilla múltját tükrözi; fotózza le a díszes homlokzatot a csendesebb mellékutca felől a legjobb szögekért.",
+            "ro": "Descoperiți farmecul modernist de secol XIX al Casei de Doña Pepita, o reflexie a trecutului bogat; admirați fațada sa ornamentată de pe străduța laterală pentru fotografii.",
+            "en": "Discover the 19th-century modernist charm of Casa de Doña Pepita, reflecting Jumilla's wealthy past; admire its ornate façade from the quieter side street for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum Jerónimo Molina",
+            "hu": "Jerónimo Molina Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Jerónimo Molina",
+            "en": "Jerónimo Molina Ethnographic Museum"
+          },
+          "coords": [
+            -1.331449,
+            38.47494
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Jumillas reiches kulturelles Erbe ein, das lokale Traditionen zeigt; beginnen Sie oben, um der historischen Entwicklung nach unten zu folgen.",
+            "hu": "Merüljön el Jumilla gazdag kulturális örökségében a helyi hagyományokat bemutató múzeumban; kezdje a legfelső emeleten, és kövesse az idővonalat folyamatosan lefelé haladva.",
+            "ro": "Aprofundați moștenirea culturală a Jumillei în acest muzeu etnografic ce prezintă tradițiile locale; începeți la etajul superior pentru a urmări cronologia istorică în jos.",
+            "en": "Delve into Jumilla's rich cultural heritage at this ethnographic museum detailing local traditions; start your visit on the top floor to follow the historical timeline downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Arriba",
+            "hu": "Plaza de Arriba",
+            "ro": "Plaza de Arriba",
+            "en": "Plaza de Arriba"
+          },
+          "coords": [
+            -1.333587,
+            38.475661
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre der Plaza de Arriba, einem klassischen spanischen Platz; nehmen Sie auf einer Eckbank Platz, um den herrlichen Schatten zu nutzen.",
+            "hu": "Szívja magába a Plaza de Arriba nyüzsgő hangulatát, a történelmi épületekkel övezett klasszikus téren; foglaljon helyet egy sarki padon, hogy élvezze a hűsítő árnyékot.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din Plaza de Arriba, o piață clasică înconjurată de istorie; așezați-vă pe o bancă de colț pentru a profita de umbra răcoroasă.",
+            "en": "Soak in the lively atmosphere of Plaza de Arriba, a classic Spanish square surrounded by historic architecture; take a seat at a corner bench to enjoy the morning shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Turm der Kirche Santa María",
+            "hu": "Santa María templom régi tornya",
+            "ro": "Vechiul turn al bisericii Santa María",
+            "en": "Old Tower of Santa María Church"
+          },
+          "coords": [
+            -1.335718,
+            38.475985
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den verwitterten Glockenturm der alten Santa-María-Kirche, der frühe Renaissance-Kunst zeigt; betrachten Sie ihn aus nördlicher Richtung für Details.",
+            "hu": "Csodálja meg a régi Santa María templom viharvert harangtornyát, amely a kora reneszánsz művészetbe enged bepillantást; nézze meg északi irányból a faragott részletekért.",
+            "ro": "Admirați turnul cu clopot uzat de vreme al vechii biserici Santa María, cu detalii de artă renascentistă; priviți-l din unghiul nordic pentru a observa sculpturile delicate.",
+            "en": "Admire the weathered bell tower of the old Santa María church, offering a glimpse into early Renaissance religious art; view it from the northern angle to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Jumilla",
+            "hu": "Jumilla vára",
+            "ro": "Castelul din Jumilla",
+            "en": "Jumilla Castle"
+          },
+          "coords": [
+            -1.333675,
+            38.479533
+          ],
+          "category": "landmark",
+          "arrive_at": "15:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Krönen Sie Ihren Ausflug am imposanten Castillo de Jumilla, einer mittelalterlichen Festung mit Blick über Weinberge; tragen Sie festes Schuhwerk für den steilen Aufstieg.",
+            "hu": "Koronázza meg útját a Castillo de Jumilla középkori erődjében, ahonnan pazar kilátás nyílik a szőlőkre; viseljen kényelmes cipőt, mert az utolsó szakasz nagyon meredek.",
+            "ro": "Încoronați-vă excursia la impresionantul Castillo de Jumilla, o fortăreață cu vederi panoramice peste podgorii; purtați încălțăminte comodă pentru urcarea finală abruptă.",
+            "en": "Crown your trip at the imposing Castillo de Jumilla, a medieval fortress with sweeping views over the vineyards; wear sturdy walking shoes as the final ascent is quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Teich im Botanischen Garten",
+            "hu": "Botanikus kert tava",
+            "ro": "Iazul Grădinii Botanice",
+            "en": "Botanical Garden Pond"
+          },
+          "coords": [
+            -1.33384,
+            38.461552
+          ],
+          "category": "historical",
+          "arrive_at": "17:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Teich im ruhigen Jardín Botánico, einer historischen grünen Oase; bringen Sie einen Snack mit, um ihn auf den Holzbänken beim Vogelgezwitscher zu genießen.",
+            "hu": "Pihenjen meg a tóparton a nyugodt Jardín Botánico buja, történelmi oázisában; hozzon magával egy kis harapnivalót, és élvezze a fapadokon ülve a madárcsicsergést.",
+            "ro": "Relaxați-vă lângă iazul din liniștitul Jardín Botánico, o oază istorică plină de verdeață; aduceți o gustare pentru a o savura pe băncile de lemn în timp ce ascultați păsările.",
+            "en": "Relax by the pond in the tranquil Jardín Botánico, a lush historical oasis perfect for unwinding; bring a small snack to enjoy on the wooden benches while listening to the birds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am spätrömischen Grabmal und tauchen Sie in die Antike ein. Mittags radeln Sie über die Casa de Doña Pepita ins Zentrum zur Plaza de Arriba. Am Nachmittag führt der Weg am historischen Kirchturm vorbei hinauf zur Burg. Lassen Sie den aktiven Tag am Abend am friedlichen Teich im wunderschönen Jardín Botánico ganz entspannt ausklingen.",
+        "hu": "Indítsa kerékpártúráját a késő római kori temetkezési emlékműnél, elmerülve az ókorban. Délben a Casa de Doña Pepita érintésével tekerjen a központba, a Plaza de Arriba térre. Délután a régi templomtorony mellett haladva küzdje le a várhoz vezető emelkedőt. Az aktív napot egy pihentető estével zárja a Jardín Botánico békés tavacskája mellett, a természet lágy ölén.",
+        "ro": "Începeți turul cu bicicleta la monumentul funerar roman târziu, explorând istoria antică. La prânz, pedalați spre centrul orașului, trecând pe la Casa de Doña Pepita și Plaza de Arriba. După-amiaza, drumul vă poartă pe lângă vechiul turn spre impresionantul castel. Încheiați o zi activă cu o seară relaxantă lângă iazul liniștit din minunatul Jardín Botánico.",
+        "en": "Kick off your cycling tour at the Late Roman funerary monument, diving deep into antiquity. Midday brings you to the heart of the city via Casa de Doña Pepita and the grand Plaza de Arriba. Afternoon pedaling leads you past the historic church tower up the challenging path to the castle. Conclude your active day with a relaxing evening by the peaceful pond in the Jardín Botánico."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:22",
+      "total_km": 3.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Teich im Botanischen Garten",
+            "hu": "Botanikus kert tava",
+            "ro": "Iazul Grădinii Botanice",
+            "en": "Botanical Garden Pond"
+          },
+          "coords": [
+            -1.33384,
+            38.461552
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Teich im ruhigen Jardín Botánico, einer historischen grünen Oase; bringen Sie einen Snack mit, um ihn auf den Holzbänken beim Vogelgezwitscher zu genießen.",
+            "hu": "Pihenjen meg a tóparton a nyugodt Jardín Botánico buja, történelmi oázisában; hozzon magával egy kis harapnivalót, és élvezze a fapadokon ülve a madárcsicsergést.",
+            "ro": "Relaxați-vă lângă iazul din liniștitul Jardín Botánico, o oază istorică plină de verdeață; aduceți o gustare pentru a o savura pe băncile de lemn în timp ce ascultați păsările.",
+            "en": "Relax by the pond in the tranquil Jardín Botánico, a lush historical oasis perfect for unwinding; bring a small snack to enjoy on the wooden benches while listening to the birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätrömisches Grabmal",
+            "hu": "Késő római temetkezési emlékmű",
+            "ro": "Monumentul funerar roman târziu",
+            "en": "Late Roman Funerary Monument"
+          },
+          "coords": [
+            -1.330958,
+            38.469666
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses seltene spätrömische Grabmal, das Jumillas antike Wurzeln zeigt; betrachten Sie das erhaltene Mauerwerk und kommen Sie früh vor der Hitze.",
+            "hu": "Fedezze fel ezt a ritka késő római kori temetkezési emlékművet, amely Jumilla ókori gyökereit mutatja be; figyelje meg a falazási technikákat a hűvös reggeli órákban.",
+            "ro": "Explorați acest monument funerar roman târziu ce subliniază rădăcinile antice; observați tehnicile de zidărie și vizitați devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore this rare Late Roman funerary monument that highlights Jumilla's ancient roots; look closely at the preserved masonry techniques and visit early to avoid the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Doña Pepita",
+            "hu": "Casa de Doña Pepita",
+            "ro": "Casa de Doña Pepita",
+            "en": "Casa de Doña Pepita"
+          },
+          "coords": [
+            -1.327364,
+            38.474747
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie den modernistischen Charme der Casa de Doña Pepita aus dem 19. Jahrhundert; bewundern Sie die verzierte Fassade am besten von der ruhigeren Seitenstraße aus.",
+            "hu": "Fedezze fel a Casa de Doña Pepita 19. századi modernista báját, amely Jumilla múltját tükrözi; fotózza le a díszes homlokzatot a csendesebb mellékutca felől a legjobb szögekért.",
+            "ro": "Descoperiți farmecul modernist de secol XIX al Casei de Doña Pepita, o reflexie a trecutului bogat; admirați fațada sa ornamentată de pe străduța laterală pentru fotografii.",
+            "en": "Discover the 19th-century modernist charm of Casa de Doña Pepita, reflecting Jumilla's wealthy past; admire its ornate façade from the quieter side street for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum Jerónimo Molina",
+            "hu": "Jerónimo Molina Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Jerónimo Molina",
+            "en": "Jerónimo Molina Ethnographic Museum"
+          },
+          "coords": [
+            -1.331449,
+            38.47494
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Jumillas reiches kulturelles Erbe ein, das lokale Traditionen zeigt; beginnen Sie oben, um der historischen Entwicklung nach unten zu folgen.",
+            "hu": "Merüljön el Jumilla gazdag kulturális örökségében a helyi hagyományokat bemutató múzeumban; kezdje a legfelső emeleten, és kövesse az idővonalat folyamatosan lefelé haladva.",
+            "ro": "Aprofundați moștenirea culturală a Jumillei în acest muzeu etnografic ce prezintă tradițiile locale; începeți la etajul superior pentru a urmări cronologia istorică în jos.",
+            "en": "Delve into Jumilla's rich cultural heritage at this ethnographic museum detailing local traditions; start your visit on the top floor to follow the historical timeline downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Arriba",
+            "hu": "Plaza de Arriba",
+            "ro": "Plaza de Arriba",
+            "en": "Plaza de Arriba"
+          },
+          "coords": [
+            -1.333587,
+            38.475661
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre der Plaza de Arriba, einem klassischen spanischen Platz; nehmen Sie auf einer Eckbank Platz, um den herrlichen Schatten zu nutzen.",
+            "hu": "Szívja magába a Plaza de Arriba nyüzsgő hangulatát, a történelmi épületekkel övezett klasszikus téren; foglaljon helyet egy sarki padon, hogy élvezze a hűsítő árnyékot.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din Plaza de Arriba, o piață clasică înconjurată de istorie; așezați-vă pe o bancă de colț pentru a profita de umbra răcoroasă.",
+            "en": "Soak in the lively atmosphere of Plaza de Arriba, a classic Spanish square surrounded by historic architecture; take a seat at a corner bench to enjoy the morning shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de San Roque",
+            "hu": "Arco de San Roque",
+            "ro": "Arco de San Roque",
+            "en": "Arco de San Roque"
+          },
+          "coords": [
+            -1.333314,
+            38.474324
+          ],
+          "category": "historical",
+          "arrive_at": "16:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch den historischen Arco de San Roque, ein Überrest der alten Stadtmauer; berühren Sie die alten Steinpfeiler und achten Sie auf Marktstände in der Nähe.",
+            "hu": "Sétáljon át a történelmi Arco de San Roque boltíven, a várost egykor védő régi várfal maradványán; érintse meg az ősi köveket, és keressen helyi piaci standokat a közelben.",
+            "ro": "Treceți prin istoricul Arco de San Roque, o rămășiță a vechilor ziduri ce protejau orașul; atingeți stâlpii antici și căutați tarabele pieței locale din imediata apropiere.",
+            "en": "Walk through the historic Arco de San Roque, a remnant of the old town walls that once protected the city; touch the ancient stone pillars and watch for market stalls nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Turm der Kirche Santa María",
+            "hu": "Santa María templom régi tornya",
+            "ro": "Vechiul turn al bisericii Santa María",
+            "en": "Old Tower of Santa María Church"
+          },
+          "coords": [
+            -1.335718,
+            38.475985
+          ],
+          "category": "landmark",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie den verwitterten Glockenturm der alten Santa-María-Kirche, der frühe Renaissance-Kunst zeigt; betrachten Sie ihn aus nördlicher Richtung für Details.",
+            "hu": "Csodálja meg a régi Santa María templom viharvert harangtornyát, amely a kora reneszánsz művészetbe enged bepillantást; nézze meg északi irányból a faragott részletekért.",
+            "ro": "Admirați turnul cu clopot uzat de vreme al vechii biserici Santa María, cu detalii de artă renascentistă; priviți-l din unghiul nordic pentru a observa sculpturile delicate.",
+            "en": "Admire the weathered bell tower of the old Santa María church, offering a glimpse into early Renaissance religious art; view it from the northern angle to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Jumilla",
+            "hu": "Jumilla vára",
+            "ro": "Castelul din Jumilla",
+            "en": "Jumilla Castle"
+          },
+          "coords": [
+            -1.333675,
+            38.479533
+          ],
+          "category": "landmark",
+          "arrive_at": "18:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Krönen Sie Ihren Ausflug am imposanten Castillo de Jumilla, einer mittelalterlichen Festung mit Blick über Weinberge; tragen Sie festes Schuhwerk für den steilen Aufstieg.",
+            "hu": "Koronázza meg útját a Castillo de Jumilla középkori erődjében, ahonnan pazar kilátás nyílik a szőlőkre; viseljen kényelmes cipőt, mert az utolsó szakasz nagyon meredek.",
+            "ro": "Încoronați-vă excursia la impresionantul Castillo de Jumilla, o fortăreață cu vederi panoramice peste podgorii; purtați încălțăminte comodă pentru urcarea finală abruptă.",
+            "en": "Crown your trip at the imposing Castillo de Jumilla, a medieval fortress with sweeping views over the vineyards; wear sturdy walking shoes as the final ascent is quite steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im grünen Jardín Botánico und beim antiken römischen Grabmal. Mittags verlagert sich das Geschehen ins Zentrum zur Casa de Doña Pepita und ins Ethnografische Museum. Am Nachmittag schlendern Sie von der Plaza de Arriba zum Arco de San Roque. Fahren Sie abends zum majestätischen Castillo de Jumilla hinauf, wenn die Dämmerung die Stadt in goldenes Licht taucht.",
+        "hu": "Kezdje autós napját a zöldellő Jardín Botánico és az ókori római temetkezési emlékmű felkeresésével. Délben a központban a Casa de Doña Pepita és a Néprajzi Múzeum várja. Délután sétáljon át a Plaza de Arriba térről az ikonikus Arco de San Roque boltívhez. Utazása lezárásaként vezessen fel a fenséges Castillo de Jumilla erődhöz a lenyűgöző esti alkonyatban.",
+        "ro": "Începeți ziua la volan în verdele Jardín Botánico și la anticul monument funerar roman. La prânz, vizitați centrul cu Casa de Doña Pepita și Muzeul Etnografic. După-amiaza, plimbați-vă de la Plaza de Arriba până la emblematicul Arco de San Roque. Finalizați excursia conducând spre maiestuosul Castillo de Jumilla, admirând orașul scăldat în lumina fermecătoare a crepusculului.",
+        "en": "Begin your driving day at the lush Jardín Botánico, followed by the ancient Roman funerary monument. Midday shifts to the bustling town center, visiting Casa de Doña Pepita and the vast Ethnographic Museum. In the afternoon, stroll from Plaza de Arriba to the iconic Arco de San Roque. Finish your trip by driving up to the majestic Castillo de Jumilla as twilight bathes the city."
+      }
+    }
+  }
+}

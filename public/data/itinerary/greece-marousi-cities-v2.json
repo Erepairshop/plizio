@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-marousi-cities-v2",
+  "anchor": {
+    "name": "Marousi",
+    "coords": [
+      23.8,
+      38.05
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ieros Naos Taxiarkhon",
+            "hu": "Ieros Naos Taxiarkhon",
+            "ro": "Ieros Naos Taxiarkhon",
+            "en": "Ieros Naos Taxiarkhon"
+          },
+          "coords": [
+            23.809021,
+            38.050547
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen orthodoxen Kirche und erleben Sie einen Moment lokaler Spiritualität, bevor Sie weitergehen.",
+            "hu": "Csodálja meg ennek a központi ortodox templomnak a gyönyörű freskóit, és éljen át egy percnyi helyi spiritualitást a sétája folytatása előtt.",
+            "ro": "Admirați frescele frumoase ale acestei biserici ortodoxe centrale și experimentați un moment de spiritualitate locală înainte de a continua plimbarea.",
+            "en": "Admire the beautiful frescoes of this central Orthodox church and take a moment to experience the local spiritual life before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaia kataloipa Udragogeiou",
+            "hu": "Arkhaia kataloipa Udragogeiou",
+            "ro": "Arkhaia kataloipa Udragogeiou",
+            "en": "Arkhaia kataloipa Udragogeiou"
+          },
+          "coords": [
+            23.807665,
+            38.053945
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste des antiken Hadrian-Aquädukts und achten Sie genau auf die Mauerwerkstechniken der Römerzeit.",
+            "hu": "Fedezze fel az ősi Hadrianus-vízvezeték lenyűgöző maradványait, és figyelje meg közelebbről a római kori falazási technikákat is.",
+            "ro": "Descoperiți rămășițele fascinante ale anticului apeduct al lui Hadrian și priviți îndeaproape tehnicile de zidărie din epoca romană.",
+            "en": "Discover the fascinating remnants of the ancient Hadrianic Aqueduct and look closely at the masonry techniques that have survived centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Dithurambos",
+            "hu": "Dithurambos",
+            "ro": "Dithurambos",
+            "en": "Dithurambos"
+          },
+          "coords": [
+            23.810159,
+            38.053154
+          ],
+          "category": "cultural",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte kulturelle Atmosphäre dieses lokalen Veranstaltungsortes und prüfen Sie die Aushänge auf anstehende Aufführungen.",
+            "hu": "Élvezze a pezsgő kulturális légkört ezen a helyi művészeti helyszínen, és ellenőrizze a hirdetőtáblákat a közelgő esti előadásokért.",
+            "ro": "Bucurați-vă de atmosfera culturală vibrantă de la acest centru artistic și verificați panourile pentru eventualele spectacole de seară.",
+            "en": "Enjoy the vibrant cultural atmosphere at this local arts venue and check the notice boards outside for any upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Badra",
+            "hu": "Badra",
+            "ro": "Badra",
+            "en": "Badra"
+          },
+          "coords": [
+            23.80438,
+            38.054944
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokalen Exponate dieses intimen Museumsraums ein und fragen Sie das Personal nach der faszinierenden Geschichte des Gebäudes.",
+            "hu": "Merüljön el a helyi kiállításokban ezen a meghitt múzeumi térben, és mindenképpen kérdezze meg a személyzetet az épület érdekes múltjáról.",
+            "ro": "Cufundați-vă în expozițiile locale din acest spațiu muzeal intim și întrebați personalul despre istoria fascinantă a clădirii în sine.",
+            "en": "Immerse yourself in the unique local exhibits housed within this intimate museum space and ask the staff about the history of the building itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Yannis Tsarouchis Foundation",
+            "hu": "Yannis Tsarouchis Foundation",
+            "ro": "Yannis Tsarouchis Foundation",
+            "en": "Yannis Tsarouchis Foundation"
+          },
+          "coords": [
+            23.801216,
+            38.063414
+          ],
+          "category": "museum",
+          "arrive_at": "14:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebendigen Gemälde dieses modernen griechischen Künstlers und beachten Sie, wie seine Ästhetik Osten und Westen meisterhaft verbindet.",
+            "hu": "Fedezze fel Görögország egyik legnagyobb modern művészének festményeit, és figyelje meg a keletet és a nyugatot ötvöző egyedi esztétikát.",
+            "ro": "Explorați picturile vibrante ale acestui mare artist modern și observați cum estetica sa unică îmbină cu măiestrie influențele din Est și Vest.",
+            "en": "Explore the vibrant paintings of one of Greece's greatest modern artists and note how his unique aesthetic beautifully blends East and West."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Marousi beginnt ruhig an der schönen Ieros Naos Taxiarkhon Kirche und gibt einen friedlichen Ton an. Danach entdecken Sie die lokale Geschichte bei einem Spaziergang zu den Resten des antiken Hadrian-Aquädukts.\n\nGegen Mittag führt Sie die Route zum lebendigen Kulturzentrum Dithurambos. Hier können Sie die zeitgenössische künstlerische Energie des Viertels aufnehmen, bevor Sie in Ruhe zu den faszinierenden Exponaten des Badra Museums schlendern.\n\nDer Nachmittag ist ganz der Kunst gewidmet. Ein angenehmer Spaziergang durch die grünen Vorstadtstraßen bringt Sie zur Yannis Tsarouchis Foundation, wo Sie die Werke eines gefeierten modernen Malers Griechenlands bewundern können.\n\nIhre Wandertour endet, wenn das späte Nachmittagslicht das Museum in ein weiches Licht taucht. Dieses sanfte Tempo lässt Sie die künstlerischen Kontraste aufnehmen, die diesen nördlichen Athener Vorort so charmant machen.",
+        "hu": "A marousi reggel a gyönyörű Ieros Naos Taxiarkhon békés meglátogatásával indul. Ezután a helyi történelem rétegeit fedi fel, ahogy elsétál az ókori Hadrianus-vízvezeték figyelemre méltóan megőrzött maradványaihoz.\n\nDél közeledtével az útvonal a Dithurambos vibráló kulturális központja felé vezet. Itt magába szívhatja a környék művészeti energiáját, majd kényelmesen átsétálhat a Badra múzeum lenyűgöző kiállításaihoz.\n\nA délutánt a művészet élvezetének szenteljük. A zöldövezeti utcákon tett kellemes séta a Yannis Tsarouchis Alapítványhoz vezet, ahol Görögország egyik leghíresebb modern festőjének ikonikus alkotásait csodálhatja meg.\n\nA séta az Alapítvány épületénél ér véget a késő délutáni lágy fényben. Ez a nyugodt tempó lehetővé teszi, hogy teljes mértékben magába szívja azokat a kontrasztokat, amelyek ezt az athéni külvárost olyan bájos célponttá teszik.",
+        "ro": "Dimineața în Marousi începe cu o vizită liniștită la frumoasa biserică Ieros Naos Taxiarkhon. Apoi veți descoperi straturile istoriei locale cu o plimbare către rămășițele bine conservate ale anticului apeduct al lui Hadrian.\n\nSpre prânz, traseul vă ghidează spre centrul cultural vibrant Dithurambos. Aici puteți absorbi energia artistică a cartierului înainte de a vă bucura de o plimbare relaxantă spre expozițiile intrigante ale muzeului Badra.\n\nDupă-amiaza este dedicată aprecierii artistice. O plimbare plăcută pe străzile înverzite vă aduce la Fundația Yannis Tsarouchis, unde puteți admira operele unuia dintre cei mai cunoscuți pictori moderni ai Greciei.\n\nTurul se încheie în lumina blândă a după-amiezii târzii la Fundație. Acest ritm liniștit vă permite să absorbiți complet contrastele istorice și artistice care fac din această suburbie ateniană o destinație atât de fermecătoare.",
+        "en": "Your morning in Marousi begins with a tranquil visit to the beautiful Ieros Naos Taxiarkhon, setting a peaceful tone for the day. You will then transition to uncovering the layers of local history with a stroll to the remarkably preserved remnants of the ancient Hadrianic Aqueduct.\n\nAs midday approaches, the route guides you towards the vibrant cultural hub of Dithurambos. Here you can soak in the contemporary artistic energy of the neighborhood before enjoying a leisurely walk towards the intriguing exhibits of the Badra museum space.\n\nThe afternoon is entirely dedicated to artistic appreciation. A pleasant walk through the leafy suburban streets brings you to the Yannis Tsarouchis Foundation, where you can admire the iconic works of one of Greece's most celebrated modern painters.\n\nYour walking tour concludes as the late afternoon light softens around the Foundation. This gentle pace allows you to fully absorb the artistic and historical contrasts that make this Northern Athenian suburb such an unexpectedly charming destination."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 4.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "hu": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "ro": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "en": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\""
+          },
+          "coords": [
+            23.785089,
+            38.038903
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Calatravas architektonisches Dach über dem Olympiastadion und versuchen Sie, den umliegenden Platz in der goldenen Stunde zu besuchen.",
+            "hu": "Csodálja meg Calatrava lenyűgöző tetőszerkezetét az Olimpiai Stadion felett, és próbálja meg az aranyórában meglátogatni a környező teret.",
+            "ro": "Minunați-vă de acoperișul impresionant proiectat de Calatrava și încercați să vizitați piața din jurul Stadionului Olimpic la ora de aur.",
+            "en": "Marvel at Calatrava's impressive architectural roof over the Olympic Stadium and try to visit the surrounding plaza during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kormos phreatiou Adrianeiou Udragogeiou",
+            "hu": "Kormos phreatiou Adrianeiou Udragogeiou",
+            "ro": "Kormos phreatiou Adrianeiou Udragogeiou",
+            "en": "Kormos phreatiou Adrianeiou Udragogeiou"
+          },
+          "coords": [
+            23.786275,
+            38.041561
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen erhaltenen Schacht des römischen Aquäduktsystems und stellen Sie sich vor, wie hier einst das Wasser unter Ihnen floss.",
+            "hu": "Vizsgálja meg a római vízvezeték ezen egyedi, jól megőrzött aknáját, és gondoljon bele, hogyan folyt egykor a víz egyenesen a lába alatt.",
+            "ro": "Investigați acest puț bine conservat al sistemului de apeduct roman și imaginați-vă cum curgea cândva apa cu putere chiar sub picioarele voastre.",
+            "en": "Investigate this specific preserved shaft of the Roman aqueduct system and consider how water once powerfully flowed beneath your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Romaike udatodexamene",
+            "hu": "Romaike udatodexamene",
+            "ro": "Romaike udatodexamene",
+            "en": "Romaike udatodexamene"
+          },
+          "coords": [
+            23.788877,
+            38.038022
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem antiken Wasserreservoir, um die monumentale Skala der klassischen Ingenieurskunst inmitten der Vorstadt zu schätzen.",
+            "hu": "Álljon meg ezen ókori római víztározó mellett, hogy értékelje a klasszikus mérnöki munka nagyszerűségét, amely csendben bújik meg a külvárosban.",
+            "ro": "Stați lângă acest rezervor de apă antic pentru a aprecia scara monumentală a ingineriei clasice ascunse în liniștea suburbiei moderne.",
+            "en": "Stand beside this ancient Roman water reservoir to appreciate the grand scale of classical engineering hidden quietly within the modern suburb."
+          }
+        },
+        {
+          "name": {
+            "de": "Ieros Naos Taxiarkhon",
+            "hu": "Ieros Naos Taxiarkhon",
+            "ro": "Ieros Naos Taxiarkhon",
+            "en": "Ieros Naos Taxiarkhon"
+          },
+          "coords": [
+            23.809021,
+            38.050547
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen orthodoxen Kirche und erleben Sie einen Moment lokaler Spiritualität, bevor Sie weitergehen.",
+            "hu": "Csodálja meg ennek a központi ortodox templomnak a gyönyörű freskóit, és éljen át egy percnyi helyi spiritualitást a sétája folytatása előtt.",
+            "ro": "Admirați frescele frumoase ale acestei biserici ortodoxe centrale și experimentați un moment de spiritualitate locală înainte de a continua plimbarea.",
+            "en": "Admire the beautiful frescoes of this central Orthodox church and take a moment to experience the local spiritual life before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaia kataloipa Udragogeiou",
+            "hu": "Arkhaia kataloipa Udragogeiou",
+            "ro": "Arkhaia kataloipa Udragogeiou",
+            "en": "Arkhaia kataloipa Udragogeiou"
+          },
+          "coords": [
+            23.807665,
+            38.053945
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste des antiken Hadrian-Aquädukts und achten Sie genau auf die Mauerwerkstechniken der Römerzeit.",
+            "hu": "Fedezze fel az ősi Hadrianus-vízvezeték lenyűgöző maradványait, és figyelje meg közelebbről a római kori falazási technikákat is.",
+            "ro": "Descoperiți rămășițele fascinante ale anticului apeduct al lui Hadrian și priviți îndeaproape tehnicile de zidărie din epoca romană.",
+            "en": "Discover the fascinating remnants of the ancient Hadrianic Aqueduct and look closely at the masonry techniques that have survived centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Yannis Tsarouchis Foundation",
+            "hu": "Yannis Tsarouchis Foundation",
+            "ro": "Yannis Tsarouchis Foundation",
+            "en": "Yannis Tsarouchis Foundation"
+          },
+          "coords": [
+            23.801216,
+            38.063414
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebendigen Gemälde dieses modernen griechischen Künstlers und beachten Sie, wie seine Ästhetik Osten und Westen meisterhaft verbindet.",
+            "hu": "Fedezze fel Görögország egyik legnagyobb modern művészének festményeit, és figyelje meg a keletet és a nyugatot ötvöző egyedi esztétikát.",
+            "ro": "Explorați picturile vibrante ale acestui mare artist modern și observați cum estetica sa unică îmbină cu măiestrie influențele din Est și Vest.",
+            "en": "Explore the vibrant paintings of one of Greece's greatest modern artists and note how his unique aesthetic beautifully blends East and West."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am majestätischen Olympiastadion unter Calatravas berühmten Bögen. Die kühle Morgenluft ist perfekt, um die verstreuten historischen Schächte und Überreste der antiken römischen Wassersysteme in der Nähe zu entdecken.\n\nBis zum Mittag radeln Sie durch die vorstädtische Landschaft in Richtung des spirituellen Zentrums der Ieros Naos Taxiarkhon. Die Fahrt durch Wohnstraßen vermittelt Ihnen ein echtes Gefühl für den Alltagsrhythmus dieses eleganten Viertels.\n\nAm Nachmittag schlägt Ihr Fahrrad mühelos die Brücke zwischen der antiken Geschichte an den Aquäduktruinen und der modernen Kunstwelt. Sie erreichen bald die Yannis Tsarouchis Foundation, um ihre farbenfrohen Galerien zu erkunden.\n\nWenn sich Ihr Radtag dem Ende zuneigt, bietet das künstlerische Ambiente der Foundation ein perfektes, besinnliches Finale. Die Reise hat Sportgeschichte, antike Ingenieurskunst und moderne griechische Kunst nahtlos auf zwei Rädern verbunden.",
+        "hu": "Kezdje a kerékpártúrát a fenséges Olimpiai Stadion komplexumánál, Calatrava híres boltívei alatt pedálozva. A friss reggeli levegő tökéletes a közeli római vízrendszerek szétszórt történelmi aknáinak és maradványainak felfedezéséhez.\n\nDélre a külvárosi tájon keresztül a Ieros Naos Taxiarkhon spirituális központja felé kerekezik. A lakóutcákon való áthaladás valódi érzést ad ennek az elegáns athéni kerületnek a mindennapi ritmusáról.\n\nDélután a kerékpárjával könnyedén áthidalhatja a vízvezetékromok ókori történelme és a modern művészet világa közötti távolságot. Hamarosan megérkezik a Yannis Tsarouchis Alapítványhoz, hogy felfedezze annak színes galériáit.\n\nAhogy a kerékpáros nap a végéhez közeledik, az Alapítvány művészi hangulata tökéletes, elgondolkodtató finálét nyújt. Az utazás zökkenőmentesen kapcsolta össze a sporttörténelmet, az ókori mérnöki munkát és a modern görög művészetet két keréken.",
+        "ro": "Începeți turul cu bicicleta la complexul majestuos al Stadionului Olimpic, pedalând sub faimoasele arcade ale lui Calatrava. Aerul curat al dimineții este perfect pentru a descoperi puțurile istorice și rămășițele sistemelor antice de apă romane.\n\nPână la prânz, veți pedala prin peisajul suburban spre centrul spiritual Ieros Naos Taxiarkhon. Plimbarea pe străzile rezidențiale vă oferă o senzație autentică a ritmului zilnic al acestui elegant district atenian.\n\nDupă-amiaza, bicicleta vă permite să faceți ușor legătura între istoria antică a ruinelor apeductului și lumea artei moderne. Veți ajunge curând la Fundația Yannis Tsarouchis pentru a explora galeriile sale strălucitoare și colorate.\n\nPe măsură ce ziua dumneavoastră pe bicicletă se apropie de sfârșit, ambianța artistică a Fundației oferă un final perfect, contemplativ. Călătoria a conectat istoria sportului, ingineria antică și arta modernă grecească pe două roți.",
+        "en": "Kick off your cycling tour at the majestic Olympic Stadium complex, pedaling under Calatrava's famous soaring arches. The crisp morning air is perfect for discovering the scattered historical shafts and remnants of the ancient Roman water systems nearby.\n\nBy midday, you will cycle through the transitioning suburban landscape, heading towards the spiritual center of Ieros Naos Taxiarkhon. Riding past residential streets gives you a genuine feel for the everyday rhythm of this elegant Athenian district.\n\nIn the afternoon, your bike allows you to effortlessly bridge the gap between ancient history at the aqueduct ruins and the modern art world. You will soon arrive at the Yannis Tsarouchis Foundation to explore its brilliant, colorful galleries.\n\nAs your cycling day winds down, the artistic ambiance of the Tsarouchis Foundation provides a perfect, contemplative finale. The journey has seamlessly connected monumental sports history, ancient engineering, and modern Greek art on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phreatio Adrianeiou Udragogeiou",
+            "hu": "Phreatio Adrianeiou Udragogeiou",
+            "ro": "Phreatio Adrianeiou Udragogeiou",
+            "en": "Phreatio Adrianeiou Udragogeiou"
+          },
+          "coords": [
+            23.774896,
+            38.056844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem Zugangspunkt des antiken Aquädukts und machen Sie ein Foto von seinem bemerkenswert haltbaren Mauerwerk.",
+            "hu": "Kezdje a napot az ősi vízvezeték ezen fontos belépési pontjának megtekintésével, és készítsen egy fotót a figyelemre méltóan tartós kőfalakról.",
+            "ro": "Începeți ziua la acest punct de acces al apeductului antic și faceți o fotografie a zidăriei sale uimitor de durabile.",
+            "en": "Start your day by viewing this key entry point of the ancient aqueduct infrastructure and snap a photo of its remarkably enduring stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaios Purgos Orukheion Kalogrezas",
+            "hu": "Palaios Purgos Orukheion Kalogrezas",
+            "ro": "Palaios Purgos Orukheion Kalogrezas",
+            "en": "Palaios Purgos Orukheion Kalogrezas"
+          },
+          "coords": [
+            23.777902,
+            38.03895
+          ],
+          "category": "landmark",
+          "arrive_at": "09:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das industrielle Erbe dieses alten Förderturms und denken Sie an die weniger bekannte Arbeitergeschichte von Marousi.",
+            "hu": "Figyelje meg ennek a régi bányásztoronynak az ipari örökségét, és emlékezzen meg Marousi kevésbé ismert munkásosztálybeli múltjáról is.",
+            "ro": "Observați patrimoniul industrial al acestui vechi turn minier și reflectați la istoria clasei muncitoare din Marousi înainte de a merge mai departe.",
+            "en": "Observe the industrial heritage of this old mining tower and reflect on Marousi's lesser-known working-class history before moving onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "hu": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "ro": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\"",
+            "en": "Olumpiako Athletiko Kentro Athenon \"Spuros Loues\""
+          },
+          "coords": [
+            23.785089,
+            38.038903
+          ],
+          "category": "landmark",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Calatravas architektonisches Dach über dem Olympiastadion und versuchen Sie, den umliegenden Platz in der goldenen Stunde zu besuchen.",
+            "hu": "Csodálja meg Calatrava lenyűgöző tetőszerkezetét az Olimpiai Stadion felett, és próbálja meg az aranyórában meglátogatni a környező teret.",
+            "ro": "Minunați-vă de acoperișul impresionant proiectat de Calatrava și încercați să vizitați piața din jurul Stadionului Olimpic la ora de aur.",
+            "en": "Marvel at Calatrava's impressive architectural roof over the Olympic Stadium and try to visit the surrounding plaza during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheatro",
+            "hu": "Amphitheatro",
+            "ro": "Amphitheatro",
+            "en": "Amphitheatro"
+          },
+          "coords": [
+            23.787522,
+            38.044299
+          ],
+          "category": "cultural",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem modernen Veranstaltungsort für saisonale Events und schätzen Sie den geometrischen Kontrast zu den nahen Ruinen.",
+            "hu": "Álljon meg ezen a modern rendezvényhelyszínen, és értékelje azt a geometrikus kontrasztot, amelyet a közeli ősi romokkal alkot.",
+            "ro": "Opriți-vă la acest loc modern de evenimente și apreciați contrastul său geometric impresionant față de ruinele antice din imediata apropiere.",
+            "en": "Pause at this modern architectural venue which hosts seasonal events and appreciate the geometric contrast it offers to the nearby ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Yannis Tsarouchis Foundation",
+            "hu": "Yannis Tsarouchis Foundation",
+            "ro": "Yannis Tsarouchis Foundation",
+            "en": "Yannis Tsarouchis Foundation"
+          },
+          "coords": [
+            23.801216,
+            38.063414
+          ],
+          "category": "museum",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebendigen Gemälde dieses modernen griechischen Künstlers und beachten Sie, wie seine Ästhetik Osten und Westen meisterhaft verbindet.",
+            "hu": "Fedezze fel Görögország egyik legnagyobb modern művészének festményeit, és figyelje meg a keletet és a nyugatot ötvöző egyedi esztétikát.",
+            "ro": "Explorați picturile vibrante ale acestui mare artist modern și observați cum estetica sa unică îmbină cu măiestrie influențele din Est și Vest.",
+            "en": "Explore the vibrant paintings of one of Greece's greatest modern artists and note how his unique aesthetic beautifully blends East and West."
+          }
+        },
+        {
+          "name": {
+            "de": "theatraki ergatikon katoikion Kephisias",
+            "hu": "theatraki ergatikon katoikion Kephisias",
+            "ro": "theatraki ergatikon katoikion Kephisias",
+            "en": "theatraki ergatikon katoikion Kephisias"
+          },
+          "coords": [
+            23.796747,
+            38.071814
+          ],
+          "category": "cultural",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses kleine Gemeinschaftstheater zwischen Wohngebäuden, um einen authentischen Einblick in das lokale soziale Leben zu erhalten.",
+            "hu": "Látogasson el ebbe a lakóházak között megbúvó kis színházba, hogy hiteles bepillantást nyerjen a helyi lakosok mindennapi társadalmi életébe.",
+            "ro": "Vizitați acest mic teatru comunitar cuibărit printre clădiri rezidențiale pentru a obține o perspectivă autentică asupra vieții sociale locale.",
+            "en": "Visit this small community theater nestled among residential buildings to get an authentic glimpse into the daily social life of the local residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Paintballers",
+            "hu": "Paintballers",
+            "ro": "Paintballers",
+            "en": "Paintballers"
+          },
+          "coords": [
+            23.823712,
+            38.043355
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre aktive Reise mit Adrenalin an diesem Freizeitort und denken Sie daran, Ihre Ausrüstung und Spielzeit im Voraus zu buchen.",
+            "hu": "Zárja aktív utazását egy kis adrenalindús szórakozással ezen a helyen, de ne felejtse el jó előre lefoglalni a felszerelést és a játékidőt.",
+            "ro": "Încheiați călătoria dumneavoastră activă cu o doză de adrenalină la acest loc de agrement, asigurându-vă că rezervați din timp echipamentul.",
+            "en": "End your active journey with some adrenaline-pumping fun at this recreational spot, making sure to book your gear and playtime well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrabenteuer beginnt mit der Erkundung der industriellen und antiken Schichten der weiteren Umgebung von Marousi. Vom alten Förderturm bis zum beeindruckenden Olympiastadion erleben Sie die monumentale Skala der historischen Entwicklung des Vororts.\n\nGegen Mittag navigieren Sie ins Herz des Viertels, um kulturelle Orte wie das Amphitheatro zu besuchen. Das Auto ermöglicht es Ihnen, bequem zwischen diesen verstreuten Wahrzeichen hin- und herzuspringen und die kreative Seite der Gemeinde zu schätzen.\n\nDer Nachmittag verlagert den Fokus auf bildende Kunst und lokales Leben. Sie fahren zur gefeierten Yannis Tsarouchis Foundation für einen tiefen Einblick in die moderne griechische Malerei, gefolgt von einem Besuch eines kleinen Nachbarschaftstheaters.\n\nZum Abschluss der Reiseroute fahren Sie an den östlichen Rand des Gebiets für ein unterhaltsames Erlebnis auf dem Paintballgelände. Dieser abwechslungsreiche Roadtrip unterstreicht Marousis einzigartige Mischung aus Antike, Kunst und Erholung.",
+        "hu": "A vezetési kaland a tágabb Marousi terület ipari és ókori rétegeinek felfedezésével kezdődik. A régi bányásztoronytól a lenyűgöző Olimpiai Stadionig megtapasztalhatja a külváros történelmi fejlődésének monumentális léptékét.\n\nDél körül a kerület szíve felé navigál, hogy felkeresse a helyi kulturális helyszíneket, például az Amphitheatro-t. Az autó lehetővé teszi, hogy kényelmesen ugráljon e szétszórt tereptárgyak között, és időt szakítson a közösség kreatív oldalára.\n\nA délután a hangsúlyt a vizuális művészetekre és a helyi közösségi életre helyezi. Elhajt a híres Yannis Tsarouchis Alapítványhoz, hogy elmélyedjen a modern görög festészetben, majd rövid látogatást tesz egy hangulatos szomszédsági színházban.\n\nAz útiterv lezárásaként a terület keleti széle felé hajt egy energikus és szórakoztató élményért a paintball pályán. Ez a változatos autós utazás gyönyörűen kiemeli Marousi egyedülálló ókori, művészeti és modern szabadidős keverékét.",
+        "ro": "Aventura dumneavoastră la volan începe explorând straturile industriale și antice ale zonei extinse Marousi. De la vechiul turn minier până la impresionantul Stadion Olimpic, veți experimenta scara monumentală a dezvoltării istorice a suburbiei.\n\nÎn jurul prânzului, veți naviga spre inima districtului pentru a vizita locuri culturale locale, cum ar fi Amphitheatro. Conducerea vă permite să săriți confortabil între aceste repere împrăștiate, optimizând timpul pentru a aprecia latura creativă a comunității.\n\nDupă-amiaza mută atenția în întregime spre artele vizuale și viața comunității locale. Veți conduce la Fundația Yannis Tsarouchis pentru o incursiune în pictura greacă modernă, urmată de o scurtă vizită la un teatru de cartier fermecător.\n\nPentru a încheia itinerariul, veți conduce spre marginea estică a zonei pentru o experiență plină de energie la terenurile de paintball. Acest road trip variat evidențiază amestecul unic de antichitate, artă și recreere modernă din Marousi.",
+        "en": "Your driving adventure begins by exploring the industrial and ancient layers of the broader Marousi area. From the old mining tower to the impressive Olympic Stadium, you will experience the monumental scale of the suburb's historical development.\n\nAround noon, you will navigate towards the heart of the district to visit local cultural venues like Amphitheatro. Driving allows you to comfortably hop between these scattered landmarks, optimizing your time to appreciate the community's creative side.\n\nThe afternoon shifts focus entirely to visual arts and local community life. You will drive up to the celebrated Yannis Tsarouchis Foundation for a deep dive into modern Greek painting, followed by a quick visit to a charming neighborhood theater.\n\nTo cap off the itinerary, you will drive towards the eastern edge of the area for an energetic and fun experience at the paintball grounds. This varied road trip beautifully highlights Marousi's unique blend of antiquity, art, and modern recreation."
+      }
+    }
+  }
+}

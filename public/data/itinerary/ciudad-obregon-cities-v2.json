@@ -1,0 +1,474 @@
+{
+  "city_id": "ciudad-obregon-cities-v2",
+  "anchor": {
+    "name": "Ciudad Obregón",
+    "coords": [
+      -109.9403,
+      27.4942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal Gral. Lázaro Cárdenas",
+            "hu": "Lázaro Cárdenas Tábornok Emlékmű",
+            "ro": "Monumentul Gen. Lázaro Cárdenas",
+            "en": "Gen. Lázaro Cárdenas Monument"
+          },
+          "coords": [
+            -109.936359,
+            27.48988
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Hommage an den Agrarreformer, der die Region prägte, und holen Sie sich vor der Weiterreise einen Kaffee an einem Eckstand.",
+            "hu": "Csodálja meg a régiót formáló agrárreformátor lenyűgöző emlékművét, és igyon egy gyors kávét egy közeli sarokstandnál, mielőtt továbbindulna.",
+            "ro": "Admiră acest tribut impunător adus reformatorului agricol care a modelat regiunea și ia o cafea rapidă de la un chioșc din apropiere înainte de a continua.",
+            "en": "Admire this imposing tribute to the agricultural reformer who shaped the region, and grab a quick coffee at a nearby corner stall before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesús García Denkmal",
+            "hu": "Jesús García Emlékmű",
+            "ro": "Monumentul Jesús García",
+            "en": "Jesús García Monument"
+          },
+          "coords": [
+            -109.927756,
+            27.492085
+          ],
+          "category": "historical",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Heldengeschichte des Eisenbahners, der eine Stadt rettete, und besuchen Sie sie früh, wenn das Sonnenlicht die Bronzedetails erhellt.",
+            "hu": "Fedezze fel a várost megmentő vasutas hősies történetét, és érkezzen korán, amikor a napfény gyönyörűen megvilágítja a bronz részleteket.",
+            "ro": "Descoperă povestea eroică a muncitorului feroviar care a salvat un oraș și vizitează devreme, când lumina soarelui iluminează frumos detaliile din bronz.",
+            "en": "Discover the heroic story of the rail worker who saved a town, and visit early when the sunlight beautifully illuminates the bronze details."
+          }
+        },
+        {
+          "name": {
+            "de": "Juan Maldonado Tetabiate Denkmal",
+            "hu": "Juan Maldonado Tetabiate Emlékmű",
+            "ro": "Monumentul Juan Maldonado Tetabiate",
+            "en": "Juan Maldonado Tetabiate Monument"
+          },
+          "coords": [
+            -109.929977,
+            27.482668
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem zentralen Denkmal mehr über den wilden Yaqui-Anführer, das am späten Nachmittag am besten aus westlicher Perspektive fotografiert wird.",
+            "hu": "Ismerje meg a vad Yaqui vezetőt ennél a központi emlékműnél, amelyet késő délután a nyugati szögből a legjobb lefotózni.",
+            "ro": "Află despre aprigul lider Yaqui la acest monument central, care este cel mai bine fotografiat din unghiul vestic în timpul după-amiezii târzii.",
+            "en": "Learn about the fierce Yaqui leader at this central monument, which is best photographed from the western angle during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Benito Juarez Denkmal",
+            "hu": "Benito Juarez Emlékmű",
+            "ro": "Monumentul Benito Juarez",
+            "en": "Benito Juarez Monument"
+          },
+          "coords": [
+            -109.931179,
+            27.482021
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erweisen Sie dieser klassischen Büste von Mexikos berühmtem Präsidenten die Ehre und ruhen Sie sich einen Moment auf den angrenzenden Parkbänken im Schatten aus.",
+            "hu": "Tisztelegjen Mexikó híres elnökének klasszikus mellszobra előtt, és szánjon egy percet a pihenésre a szomszédos parki padokon a kellemes árnyékban.",
+            "ro": "Arată-ți respectul la acest bust clasic al faimosului președinte al Mexicului, luându-ți un moment de odihnă pe băncile adiacente din parc sub umbra plăcută.",
+            "en": "Pay respects at this classic bust of Mexico's famous president, taking a moment to rest on the adjacent park benches under the pleasant shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Dr. Óscar Russo Vogel",
+            "hu": "Teatro Dr. Óscar Russo Vogel",
+            "ro": "Teatro Dr. Óscar Russo Vogel",
+            "en": "Teatro Dr. Óscar Russo Vogel"
+          },
+          "coords": [
+            -109.93219,
+            27.482171
+          ],
+          "category": "cultural",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Stadt in diesem modernen Theater und prüfen Sie vorab den Kassenplan für spannende Abendvorstellungen.",
+            "hu": "Tapasztalja meg a város kulturális szívverését ebben a modern színházban, és előre ellenőrizze a jegypénztár menetrendjét a lenyűgöző esti előadásokhoz.",
+            "ro": "Experimentează pulsul cultural al orașului la acest teatru modern, verificând programul casei de bilete în avans pentru spectacole captivante de seară.",
+            "en": "Experience the cultural heartbeat of the city at this modern theater, checking their box office schedule in advance for engaging evening performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Lázaro Cárdenas Denkmal, bevor Sie zum Jesús García Memorial spazieren. Mittags tauchen Sie am Tetabiate-Platz in die Geschichte ein. Der Nachmittag erkundet die Benito Juarez Büste. Der Abend endet mit Kultur im modernen Teatro Russo Vogel.",
+        "hu": "A reggel a Lázaro Cárdenas emlékműnél kezdődik, majd elsétálunk a Jesús García emlékhelyhez. A dél a Tetabiate téren merít el a helyi történelemben. A délután a Benito Juarez szobrot fedezi fel. Az este a modern Teatro Russo Vogel kultúrájával zárul.",
+        "ro": "Dimineața începe la monumentul Lázaro Cárdenas, urmată de o plimbare spre memorialul Jesús García. Prânzul te cufundă în istoria locală la piața Tetabiate. După-amiaza explorează tributul adus lui Benito Juarez. Seara se încheie cu cultură la modernul Teatro Russo Vogel.",
+        "en": "Morning begins at the Lázaro Cárdenas monument before strolling to the Jesús García memorial. Midday immerses you in local history at the Tetabiate square. Afternoon explores the Benito Juarez tribute. Evening concludes with local culture at the modern Teatro Russo Vogel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal der Pioniere",
+            "hu": "Az Úttörők Emlékműve",
+            "ro": "Monumentul Pionierilor",
+            "en": "The Pioneers Monument"
+          },
+          "coords": [
+            -109.938526,
+            27.503097
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die frühen Siedler des Yaqui-Tals an dieser Statue und bringen Sie Wasser mit, da dieser weite nördliche Platz nur wenig Schatten bietet.",
+            "hu": "Tisztelegjen a Yaqui-völgy korai telepesei előtt ennél a kiemelkedő szobornál, és gondoskodjon vízről, mivel az északi tér kevés árnyékot ad.",
+            "ro": "Onorează primii coloniști ai Văii Yaqui la această statuie proeminentă, asigurându-te că ai apă, deoarece această piață nordică oferă puțină umbră.",
+            "en": "Honor the early settlers of the Yaqui Valley at this prominent statue, ensuring you have water as this wide northern square offers limited shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jose Maria Morelos y Pavon Denkmal",
+            "hu": "Jose Maria Morelos y Pavon Emlékmű",
+            "ro": "Monumentul Jose Maria Morelos y Pavon",
+            "en": "Jose Maria Morelos y Pavon Monument"
+          },
+          "coords": [
+            -109.938356,
+            27.501766
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die stoische Darstellung des Unabhängigkeitshelden und beachten Sie die Details der Plakette, die vom Radweg aus leicht lesbar sind.",
+            "hu": "Figyelje meg a függetlenségi hős sztoikus ábrázolását, megjegyezve a bonyolult emléktábla részleteit, amelyek a fő kerékpárútról is könnyen olvashatók.",
+            "ro": "Observă reprezentarea stoică a eroului independenței, remarcând detaliile complexe ale plăcii care sunt ușor de citit de pe pista principală de biciclete.",
+            "en": "Observe the stoic representation of the independence hero, noting the intricate plaque details that are easily readable from the main cycling path."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal Gral. Lázaro Cárdenas",
+            "hu": "Lázaro Cárdenas Tábornok Emlékmű",
+            "ro": "Monumentul Gen. Lázaro Cárdenas",
+            "en": "Gen. Lázaro Cárdenas Monument"
+          },
+          "coords": [
+            -109.936359,
+            27.48988
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Hommage an den Agrarreformer, der die Region prägte, und holen Sie sich vor der Weiterreise einen Kaffee an einem Eckstand.",
+            "hu": "Csodálja meg a régiót formáló agrárreformátor lenyűgöző emlékművét, és igyon egy gyors kávét egy közeli sarokstandnál, mielőtt továbbindulna.",
+            "ro": "Admiră acest tribut impunător adus reformatorului agricol care a modelat regiunea și ia o cafea rapidă de la un chioșc din apropiere înainte de a continua.",
+            "en": "Admire this imposing tribute to the agricultural reformer who shaped the region, and grab a quick coffee at a nearby corner stall before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Vecinos Denkmal",
+            "hu": "Vecinos Emlékmű",
+            "ro": "Monumentul Vecinos",
+            "en": "Vecinos Monument"
+          },
+          "coords": [
+            -109.949732,
+            27.483556
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige Viertel-Denkmal für den Gemeinschaftsgeist, das Sie tagsüber besuchen sollten, um die Straßenkunst zu würdigen.",
+            "hu": "Fedezze fel ezt az egyedülálló, közösségi szellemet ünneplő emlékművet, amelyet a legjobb nappal meglátogatni a közeli vibráló utcai művészet miatt.",
+            "ro": "Explorează acest monument unic de cartier care celebrează spiritul comunitar, cel mai bine vizitat ziua pentru a aprecia arta stradală locală din apropiere.",
+            "en": "Explore this unique neighborhood monument celebrating community spirit, best visited during daytime to fully appreciate the vibrant local street art nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Markierung Amelia",
+            "hu": "Amelia Történelmi Emlékhely",
+            "ro": "Marcajul Istoric Amelia",
+            "en": "Amelia Historical Marker"
+          },
+          "coords": [
+            -109.950017,
+            27.48476
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser historischen Markierung, die die Wohnviertelgeschichte bewahrt, und verhalten Sie sich leise in dieser friedlichen Gegend.",
+            "hu": "Álljon meg ennél a helyi történelmi emlékműnél, amely megőrzi a lakónegyed történelmét, csendesen viselkedve a békés, mindennapi környéken.",
+            "ro": "Oprește-te la acest marcaj istoric local care păstrează istoria rezidențială, păstrând o atitudine liniștită, deoarece se află într-un cartier pașnic.",
+            "en": "Stop by this local historical marker that preserves residential history, keeping a quiet demeanor as it sits in a peaceful, everyday neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Manuel Clouthier Denkmal",
+            "hu": "Manuel Clouthier Emlékmű",
+            "ro": "Monumentul Manuel Clouthier",
+            "en": "Manuel Clouthier Monument"
+          },
+          "coords": [
+            -109.945777,
+            27.47175
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Reflektieren Sie über Mexikos demokratischen Wandel an dieser modernen Statue und nutzen Sie die breiten Gehwege für einen sicheren Fahrradparkplatz.",
+            "hu": "Gondolkodjon el Mexikó demokratikus átmenetén ennél a modern szobornál, kihasználva a széles járdákat egy biztonságos és egyszerű kerékpárparkoláshoz.",
+            "ro": "Reflectează la tranziția democratică a Mexicului la această statuie modernă, utilizând trotuarele largi adiacente pentru un loc de parcare sigur pentru biciclete.",
+            "en": "Reflect on Mexico's democratic transition at this modern statue, utilizing the wide adjacent sidewalks for a safe and incredibly easy bike parking spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vorbei an den Pionierdenkmälern im Norden. Mittags erreichen Sie das zentrale Lázaro Cárdenas Denkmal. Nachmittags fahren Sie durch historische Wohnviertel. Der Abend endet am Manuel Clouthier Denkmal.",
+        "hu": "Kezdje a kerékpározást az északi úttörő emlékművek mellett. A dél a központi Lázaro Cárdenas emlékműhöz vezet. Délután történelmi lakónegyedeken át tekeredik. Az este a Manuel Clouthier emlékműnél zárul zökkenőmentesen.",
+        "ro": "Începe să pedalezi pe lângă monumentele pionierilor din nord. Prânzul te conectează la tributul central Lázaro Cárdenas. După-amiaza traversezi cartiere istorice rezidențiale. Seara se termină lin la monumentul Manuel Clouthier.",
+        "en": "Start cycling past the pioneer monuments in the north. Midday connects you to the central Lázaro Cárdenas tribute. Afternoon rides through residential historic markers. Evening ends smoothly at the Manuel Clouthier monument."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:32",
+      "total_km": 8.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Olympiabad",
+            "hu": "Városi Olimpiai Medence",
+            "ro": "Piscina Olimpică Municipală",
+            "en": "Municipal Olympic Pool"
+          },
+          "coords": [
+            -109.966995,
+            27.499003
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in diesem historischen Schwimmbadkomplex und bringen Sie bequeme Schuhe mit, da die umliegenden Sportanlagen weitläufig sind.",
+            "hu": "Kezdje a napot ebben a történelmi rekreációs medencekomplexumban, kényelmes cipőt hozva magával, mivel a környező helyi sportterületek meglehetősen tágasak.",
+            "ro": "Începe ziua la acest complex istoric de piscine recreative, aducând încălțăminte confortabilă, deoarece zonele sportive locale din jur sunt destul de extinse.",
+            "en": "Kick off your day at this historic recreational pool complex, bringing comfortable shoes since the surrounding local sports areas are quite expansive."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ostimuri",
+            "hu": "Parque Ostimuri",
+            "ro": "Parque Ostimuri",
+            "en": "Parque Ostimuri"
+          },
+          "coords": [
+            -109.966289,
+            27.493129
+          ],
+          "category": "family",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das üppige Grün dieses beliebten Familienparks und packen Sie leichte Snacks ein, um sie an den Picknicktischen in der Nähe des Eingangs zu genießen.",
+            "hu": "Élvezze ennek a kedvelt, családbarát parknak a buja zöldjét, csomagoljon könnyű harapnivalókat, amelyeket kényelmesen elfogyaszthat a főbejárat közelében lévő piknikasztaloknál.",
+            "ro": "Bucură-te de verdeața luxuriantă a acestui parc preferat de familii, pregătind câteva gustări ușoare pentru a fi savurate la mesele de picnic presărate lângă intrarea principală.",
+            "en": "Enjoy the lush greenery of this beloved family-favorite park, packing some light snacks to enjoy comfortably at the picnic tables scattered near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Paris",
+            "hu": "Párizs Tornya",
+            "ro": "Turnul Parisului",
+            "en": "Tower of Paris"
+          },
+          "coords": [
+            -109.963085,
+            27.47743
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie ein lustiges Foto mit der eigenen Eiffelturm-Replik von Ciudad Obregón und kommen Sie gegen Mittag, um sie vor blauem Himmel zu sehen.",
+            "hu": "Készítsen egy szórakoztató fotót Ciudad Obregón saját Eiffel-torony másolatával, érkezzen dél körül, hogy a fémes szerkezetet ragyogó kék égbolttal kapja lencsevégre.",
+            "ro": "Fă o fotografie amuzantă cu propria replică a Turnului Eiffel din Ciudad Obregón, ajungând în jurul prânzului pentru a prinde structura metalică detaliată pe un cer senin.",
+            "en": "Snap a fun photo with Ciudad Obregón's very own Eiffel Tower replica, arriving around midday to catch the detailed metallic structure against a bright blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Dr. Óscar Russo Vogel",
+            "hu": "Teatro Dr. Óscar Russo Vogel",
+            "ro": "Teatro Dr. Óscar Russo Vogel",
+            "en": "Teatro Dr. Óscar Russo Vogel"
+          },
+          "coords": [
+            -109.93219,
+            27.482171
+          ],
+          "category": "cultural",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Stadt in diesem modernen Theater und prüfen Sie vorab den Kassenplan für spannende Abendvorstellungen.",
+            "hu": "Tapasztalja meg a város kulturális szívverését ebben a modern színházban, és előre ellenőrizze a jegypénztár menetrendjét a lenyűgöző esti előadásokhoz.",
+            "ro": "Experimentează pulsul cultural al orașului la acest teatru modern, verificând programul casei de bilete în avans pentru spectacole captivante de seară.",
+            "en": "Experience the cultural heartbeat of the city at this modern theater, checking their box office schedule in advance for engaging evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Benito Juarez Denkmal",
+            "hu": "Benito Juarez Emlékmű",
+            "ro": "Monumentul Benito Juarez",
+            "en": "Benito Juarez Monument"
+          },
+          "coords": [
+            -109.931179,
+            27.482021
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erweisen Sie dieser klassischen Büste von Mexikos berühmtem Präsidenten die Ehre und ruhen Sie sich einen Moment auf den angrenzenden Parkbänken im Schatten aus.",
+            "hu": "Tisztelegjen Mexikó híres elnökének klasszikus mellszobra előtt, és szánjon egy percet a pihenésre a szomszédos parki padokon a kellemes árnyékban.",
+            "ro": "Arată-ți respectul la acest bust clasic al faimosului președinte al Mexicului, luându-ți un moment de odihnă pe băncile adiacente din parc sub umbra plăcută.",
+            "en": "Pay respects at this classic bust of Mexico's famous president, taking a moment to rest on the adjacent park benches under the pleasant shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Juan Maldonado Tetabiate Denkmal",
+            "hu": "Juan Maldonado Tetabiate Emlékmű",
+            "ro": "Monumentul Juan Maldonado Tetabiate",
+            "en": "Juan Maldonado Tetabiate Monument"
+          },
+          "coords": [
+            -109.929977,
+            27.482668
+          ],
+          "category": "historical",
+          "arrive_at": "16:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem zentralen Denkmal mehr über den wilden Yaqui-Anführer, das am späten Nachmittag am besten aus westlicher Perspektive fotografiert wird.",
+            "hu": "Ismerje meg a vad Yaqui vezetőt ennél a központi emlékműnél, amelyet késő délután a nyugati szögből a legjobb lefotózni.",
+            "ro": "Află despre aprigul lider Yaqui la acest monument central, care este cel mai bine fotografiat din unghiul vestic în timpul după-amiezii târzii.",
+            "en": "Learn about the fierce Yaqui leader at this central monument, which is best photographed from the western angle during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Pioniere",
+            "hu": "Az Úttörők Emlékműve",
+            "ro": "Monumentul Pionierilor",
+            "en": "The Pioneers Monument"
+          },
+          "coords": [
+            -109.938526,
+            27.503097
+          ],
+          "category": "historical",
+          "arrive_at": "17:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ehren Sie die frühen Siedler des Yaqui-Tals an dieser Statue und bringen Sie Wasser mit, da dieser weite nördliche Platz nur wenig Schatten bietet.",
+            "hu": "Tisztelegjen a Yaqui-völgy korai telepesei előtt ennél a kiemelkedő szobornál, és gondoskodjon vízről, mivel az északi tér kevés árnyékot ad.",
+            "ro": "Onorează primii coloniști ai Văii Yaqui la această statuie proeminentă, asigurându-te că ai apă, deoarece această piață nordică oferă puțină umbră.",
+            "en": "Honor the early settlers of the Yaqui Valley at this prominent statue, ensuring you have water as this wide northern square offers limited shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Olympiabad und im Ostimuri-Park. Mittags fahren Sie an der skurrilen Eiffelturm-Replik vorbei. Der Nachmittag taucht in die Yaqui-Geschichte im Zentrum ein. Der Abend endet mit einer Fahrt zum Pionierdenkmal.",
+        "hu": "A reggel friss levegővel indul az olimpiai medencénél és az Ostimuri parkban. A dél a mókás Eiffel-torony másolat mellett vezet. A délután elmerül a belváros gazdag Yaqui történelmében. Az este a Pionír emlékműnél tett naplementés autózással zárul.",
+        "ro": "Dimineața începe cu aer proaspăt la piscina olimpică și parcul Ostimuri. Prânzul trece pe lângă replica ciudată a Turnului Eiffel. După-amiaza se scufundă în istoria Yaqui a centrului. Seara se încheie cu o plimbare spre monumentul Pionierilor.",
+        "en": "Morning starts with fresh air at the Olympic pool and Ostimuri park. Midday drives past the quirky Eiffel Tower replica. Afternoon plunges into downtown's rich Yaqui history. Evening wraps up with a sunset drive to the Pioneer monument."
+      }
+    }
+  }
+}

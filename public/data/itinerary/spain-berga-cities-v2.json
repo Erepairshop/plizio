@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-berga-cities-v2",
+  "anchor": {
+    "name": "Berga",
+    "coords": [
+      1.84628,
+      42.10429
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Francesc",
+            "hu": "Sant Francesc",
+            "ro": "Sant Francesc",
+            "en": "Sant Francesc"
+          },
+          "coords": [
+            1.844231,
+            42.103435
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details von Sant Francesc, einem historischen Eckpfeiler von Berga, und besuchen Sie diesen früh, wenn das Morgenlicht die Fassade wunderschön beleuchtet.",
+            "hu": "Csodálja meg a Sant Francesc békés gótikus részleteit, Berga történelmi alapkövét, és mindenképpen érkezzen korán, amikor a reggeli fény gyönyörűen megvilágítja a homlokzatot.",
+            "ro": "Admirați detaliile gotice senine de la Sant Francesc, o piatră de temelie religioasă a orașului Berga, și asigurați-vă că veniți devreme când lumina dimineții luminează frumos fațada.",
+            "en": "Admire the serene gothic details of Sant Francesc, a historic religious cornerstone of Berga, and make sure to visit early when the morning light beautifully illuminates the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Martin",
+            "hu": "Casa de Martin",
+            "ro": "Casa de Martin",
+            "en": "Casa de Martin"
+          },
+          "coords": [
+            1.843823,
+            42.102326
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Casa de Martin in die Vergangenheit, um traditionelle katalanische Architektur aus der Nähe zu erleben, und achten Sie auf die aufwendigen Schnitzereien der Türen.",
+            "hu": "Lépjen vissza az időben a Casa de Martinban, hogy közelről tapasztalja meg a hagyományos katalán építészetet, különös figyelmet fordítva az örökségről árulkodó faragott ajtókra.",
+            "ro": "Întoarceți-vă în timp la Casa de Martin pentru a experimenta de aproape arhitectura tradițională catalană, urmărind cu atenție sculpturile complexe ale ușilor care îi dezvăluie istoria.",
+            "en": "Step back in time at Casa de Martin to experience traditional Catalan architecture from up close, keeping an eye out for intricate doorway carvings that reveal its long heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Joan",
+            "hu": "Sant Joan",
+            "ro": "Sant Joan",
+            "en": "Sant Joan"
+          },
+          "coords": [
+            1.844947,
+            42.102112
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten religiösen Wurzeln von Berga in Sant Joan, einer bescheidenen Kirche, wo ein ruhiger Moment im Kirchenschiff eine perfekte Pause vom Spaziergang bietet.",
+            "hu": "Fedezze fel Berga ősi vallási gyökereit a Sant Joan templomban, amelynek szerény, de nagyon hangulatos hajójában eltöltött csendes pillanat tökéletes pihenést nyújt a sétában.",
+            "ro": "Explorați rădăcinile religioase străvechi ale orașului Berga la Sant Joan, o biserică modestă unde un moment de liniște în naos oferă o pauză perfectă de la agitația orașului.",
+            "en": "Explore the ancient religious roots of Berga at Sant Joan, a modest yet deeply atmospheric church where taking a quiet moment in the nave offers a perfect break from walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina del Lladó",
+            "hu": "Piscina del Lladó",
+            "ro": "Piscina del Lladó",
+            "en": "Piscina del Lladó"
+          },
+          "coords": [
+            1.842392,
+            42.104265
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause an der Piscina del Lladó, einem charmanten lokalen Erholungsort, wo Sie sich mit einem kalten Getränk perfekt für Ihr weiteres Abenteuer stärken können.",
+            "hu": "Élvezze a frissítő pihenőt a Piscina del Lladó bájos helyi szabadidős területén, ahol egy közeli hideg ital elfogyasztása tökéletesen feltölti a városi kaland hátralévő részére.",
+            "ro": "Bucurați-vă de o pauză revigorantă la Piscina del Lladó, un loc de recreere local fermecător, unde o băutură rece cumpărată din apropiere vă va reîncărca perfect pentru restul zilei.",
+            "en": "Enjoy a refreshing break at Piscina del Lladó, a charming local recreational spot where grabbing a cold drink nearby will perfectly recharge you for the rest of your city adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc del Pla de l'Alemany",
+            "hu": "Parc del Pla de l'Alemany",
+            "ro": "Parc del Pla de l'Alemany",
+            "en": "Parc del Pla de l'Alemany"
+          },
+          "coords": [
+            1.839634,
+            42.097174
+          ],
+          "category": "park",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Wege des Parc del Pla de l'Alemany, um die grüne Atmosphäre von Berga aufzusaugen, und tragen Sie bequeme Schuhe für die kurvenreichen Naturpfade.",
+            "hu": "Sétáljon a Parc del Pla de l'Alemany buja ösvényein, hogy magába szívja Berga zöldellő atmoszféráját, és viseljen kényelmes cipőt a kanyargós természetjáró utak kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe cărările luxuriante din Parc del Pla de l'Alemany pentru a vă bucura de atmosfera verde, purtând pantofi confortabili pentru a parcurge cu ușurință traseele șerpuite.",
+            "en": "Stroll through the lush pathways of Parc del Pla de l'Alemany to soak in the verdant atmosphere of Berga, wearing comfortable shoes to comfortably navigate its winding nature trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen und spirituellen Herzens von Berga und besuchen Sie Sant Francesc und Casa de Martin.\n\nWenn der Mittag naht, spazieren Sie nach Sant Joan, um die ruhige Geschichte seiner alten Mauern aufzusaugen.\n\nGenießen Sie am Nachmittag eine entspannte Pause an der Piscina del Lladó, bevor Sie sich auf den Weg ins Grüne machen.\n\nBeenden Sie Ihren angenehmen Rundgang auf den ruhigen, von Bäumen gesäumten Wegen des Parc del Pla de l'Alemany, wenn der Abend anbricht.",
+        "hu": "Kezdje a reggelt Berga történelmi és spirituális szívének felfedezésével, látogasson el a Sant Francesc és a Casa de Martin épületeibe.\n\nDél közeledtével sétáljon át a Sant Joanhoz, hogy magába szívja az ősi falak csendes történelmét.\n\nDélután élvezze a pihentető közjátékot a Piscina del Lladóban, mielőtt elindulna a festői zöldterületek felé.\n\nFejezze be kellemes sétáját a Parc del Pla de l'Alemany nyugodt, fás ösvényei között az este közeledtével.",
+        "ro": "Începeți dimineața explorând inima istorică și spirituală a orașului Berga, vizitând Sant Francesc și Casa de Martin pentru arhitectura clasică.\n\nOdată cu apropierea prânzului, faceți o plimbare până la Sant Joan pentru a absorbi istoria liniștită a zidurilor sale.\n\nDupă-amiaza, bucurați-vă de un interludiu relaxant la Piscina del Lladó înainte de a vă îndrepta spre zonele verzi.\n\nÎncheiați turul de plimbare printre cărările liniștite cu copaci din Parc del Pla de l'Alemany, odată cu lăsarea serii.",
+        "en": "Start your morning exploring the historical and spiritual heart of Berga, visiting Sant Francesc and Casa de Martin to admire classic Catalan architecture.\n\nAs midday approaches, stroll over to Sant Joan to soak in the quiet history of its ancient walls.\n\nIn the afternoon, enjoy a relaxing interlude at Piscina del Lladó before making your way towards the scenic green spaces.\n\nConclude your pleasant walking tour among the tranquil, tree-lined paths of Parc del Pla de l'Alemany as the evening settles in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Francesc",
+            "hu": "Sant Francesc",
+            "ro": "Sant Francesc",
+            "en": "Sant Francesc"
+          },
+          "coords": [
+            1.844231,
+            42.103435
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details von Sant Francesc, einem historischen Eckpfeiler von Berga, und besuchen Sie diesen früh, wenn das Morgenlicht die Fassade wunderschön beleuchtet.",
+            "hu": "Csodálja meg a Sant Francesc békés gótikus részleteit, Berga történelmi alapkövét, és mindenképpen érkezzen korán, amikor a reggeli fény gyönyörűen megvilágítja a homlokzatot.",
+            "ro": "Admirați detaliile gotice senine de la Sant Francesc, o piatră de temelie religioasă a orașului Berga, și asigurați-vă că veniți devreme când lumina dimineții luminează frumos fațada.",
+            "en": "Admire the serene gothic details of Sant Francesc, a historic religious cornerstone of Berga, and make sure to visit early when the morning light beautifully illuminates the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Agulles del Mercadal",
+            "hu": "Agulles del Mercadal",
+            "ro": "Agulles del Mercadal",
+            "en": "Agulles del Mercadal"
+          },
+          "coords": [
+            1.83914,
+            42.112757
+          ],
+          "category": "natural",
+          "arrive_at": "09:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen der Agulles del Mercadal, ein Naturjuwel, das eine einzigartige Kulisse für die Stadt bildet, und packen Sie unbedingt Ihre Kamera ein.",
+            "hu": "Csodálja meg az Agulles del Mercadal lenyűgöző sziklaalakzatait, amelyek egyedi hátteret adnak a városnak, és ne felejtse el magával vinni a fényképezőgépét a csodás tájképekhez.",
+            "ro": "Minunați-vă de formațiunile stâncoase impresionante de la Agulles del Mercadal, o bijuterie naturală a orașului, și nu uitați să vă luați aparatul foto pentru fotografii superbe.",
+            "en": "Marvel at the striking rocky formations of Agulles del Mercadal, a natural gem that forms a unique backdrop to the city, and remember to pack your camera for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Pere de Madrona",
+            "hu": "Sant Pere de Madrona",
+            "ro": "Sant Pere de Madrona",
+            "en": "Sant Pere de Madrona"
+          },
+          "coords": [
+            1.834564,
+            42.109978
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das ländliche religiöse Erbe in Sant Pere de Madrona, einer stimmungsvollen Ruine vor dramatischen Hügeln, wo Sie auf unebenem Gelände auf Ihre Schritte achten sollten.",
+            "hu": "Fedezze fel a Sant Pere de Madrona vidéki vallási örökségét, egy hangulatos romot a drámai domboldalakon, ahol fokozottan ajánlott ügyelni a lépéseire az egyenetlen terepen.",
+            "ro": "Descoperiți patrimoniul religios rural păstrat la Sant Pere de Madrona, o ruină plină de atmosferă, unde este foarte recomandat să fiți atenți la pași pe terenul neregulat.",
+            "en": "Discover the rural religious heritage preserved at Sant Pere de Madrona, an atmospheric ruin set against dramatic hillsides where watching your step on the uneven terrain is highly advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuari de Queralt",
+            "hu": "Santuari de Queralt",
+            "ro": "Santuari de Queralt",
+            "en": "Santuari de Queralt"
+          },
+          "coords": [
+            1.827315,
+            42.107658
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie vom Santuari de Queralt, dem Balkon von Berga, atemberaubende Panoramablicke über Zentralkatalonien und bringen Sie eine Windjacke mit, da es oben recht windig wird.",
+            "hu": "Tanúja lehet a Közép-Katalóniára nyíló lélegzetelállító panorámának a Berga erkélyeként ismert Santuari de Queraltból, és hozzon magával széldzsekit, mert odafent gyakran fúj a szél.",
+            "ro": "Admirați priveliștile panoramice uluitoare asupra Cataloniei de la Santuari de Queralt, cunoscut drept balconul din Berga, și aduceți o jachetă de vânt, deoarece sus devine răcoros.",
+            "en": "Witness breathtaking panoramic views over central Catalonia from the Santuari de Queralt, famously known as the balcony of Berga, and bring a windbreaker as it gets breezy up high."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc del Pla de l'Alemany",
+            "hu": "Parc del Pla de l'Alemany",
+            "ro": "Parc del Pla de l'Alemany",
+            "en": "Parc del Pla de l'Alemany"
+          },
+          "coords": [
+            1.839634,
+            42.097174
+          ],
+          "category": "park",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Wege des Parc del Pla de l'Alemany, um die grüne Atmosphäre von Berga aufzusaugen, und tragen Sie bequeme Schuhe für die kurvenreichen Naturpfade.",
+            "hu": "Sétáljon a Parc del Pla de l'Alemany buja ösvényein, hogy magába szívja Berga zöldellő atmoszféráját, és viseljen kényelmes cipőt a kanyargós természetjáró utak kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe cărările luxuriante din Parc del Pla de l'Alemany pentru a vă bucura de atmosfera verde, purtând pantofi confortabili pentru a parcurge cu ușurință traseele șerpuite.",
+            "en": "Stroll through the lush pathways of Parc del Pla de l'Alemany to soak in the verdant atmosphere of Berga, wearing comfortable shoes to comfortably navigate its winding nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Bartomeu",
+            "hu": "Sant Bartomeu",
+            "ro": "Sant Bartomeu",
+            "en": "Sant Bartomeu"
+          },
+          "coords": [
+            1.831735,
+            42.090038
+          ],
+          "category": "religious",
+          "arrive_at": "14:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende mittelalterliche Geschichte in den Steinen von Sant Bartomeu, und besuchen Sie den Ort am späten Nachmittag, um das goldene Sonnenlicht zu genießen.",
+            "hu": "Fedezze fel a Sant Bartomeu köveibe vésett lenyűgöző középkori történelmet, és tervezze a látogatást késő délutánra, hogy élvezze az ősi falakról visszaverődő arany napfényt.",
+            "ro": "Descoperiți istoria medievală fascinantă gravată în pietrele de la Sant Bartomeu și planificați să vizitați la sfârșitul după-amiezii pentru a aprecia lumina soarelui pe pereții antici.",
+            "en": "Uncover the fascinating medieval history etched into the stones of Sant Bartomeu, and plan to visit in the late afternoon to appreciate the golden sunlight reflecting off its ancient walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in Sant Francesc, bevor Sie in die Pedale treten, um die dramatischen Felsformationen der Agulles del Mercadal zu sehen.\n\nFahren Sie am Mittag nach Sant Pere de Madrona und hinauf zum berühmten Santuari de Queralt für einen atemberaubenden Panoramablick.\n\nVerbringen Sie Ihren Nachmittag in den üppigen Weiten des Parc del Pla de l'Alemany.\n\nLassen Sie den Tag mit einer gemütlichen Fahrt zu den mittelalterlichen Ruinen von Sant Bartomeu ausklingen.",
+        "hu": "Kezdje kerékpáros kalandját a Sant Francesc templomnál, mielőtt elindulna az Agulles del Mercadal drámai sziklaalakzatai felé.\n\nDélben tekerjen a Sant Pere de Madrona felé, és kapaszkodjon fel a híres Santuari de Queralthoz a panorámáért.\n\nTöltse a délutánt a Parc del Pla de l'Alemany buja területein pihenve, amely tökéletes hely a lábak pihentetésére.\n\nZárja a napot egy kellemes utazással a Sant Bartomeu középkori romjaihoz, élvezve a békés esti fényeket.",
+        "ro": "Începeți aventura pe bicicletă la Sant Francesc înainte de a pedala pentru a vedea formațiunile stâncoase dramatice de la Agulles del Mercadal.\n\nLa prânz, mergeți spre Sant Pere de Madrona și urcați la faimosul Santuari de Queralt pentru vederi panoramice.\n\nPetreceți după-amiaza relaxându-vă în întinderile luxuriante ale Parc del Pla de l'Alemany, un loc perfect de odihnă.\n\nÎncheiați ziua cu o plimbare ușoară la ruinele medievale din Sant Bartomeu, bucurându-vă de lumina serii.",
+        "en": "Kick off your cycling adventure at Sant Francesc before pedaling out to witness the dramatic rocky formations of Agulles del Mercadal.\n\nBy midday, ride towards Sant Pere de Madrona and ascend to the famous Santuari de Queralt for sweeping panoramic views.\n\nSpend your afternoon unwinding in the lush expanses of Parc del Pla de l'Alemany, a perfect spot to rest your legs.\n\nWrap up the day with a gentle ride to the medieval ruins of Sant Bartomeu, enjoying the peaceful evening glow."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de Martin",
+            "hu": "Casa de Martin",
+            "ro": "Casa de Martin",
+            "en": "Casa de Martin"
+          },
+          "coords": [
+            1.843823,
+            42.102326
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Casa de Martin in die Vergangenheit, um traditionelle katalanische Architektur aus der Nähe zu erleben, und achten Sie auf die aufwendigen Schnitzereien der Türen.",
+            "hu": "Lépjen vissza az időben a Casa de Martinban, hogy közelről tapasztalja meg a hagyományos katalán építészetet, különös figyelmet fordítva az örökségről árulkodó faragott ajtókra.",
+            "ro": "Întoarceți-vă în timp la Casa de Martin pentru a experimenta de aproape arhitectura tradițională catalană, urmărind cu atenție sculpturile complexe ale ușilor care îi dezvăluie istoria.",
+            "en": "Step back in time at Casa de Martin to experience traditional Catalan architecture from up close, keeping an eye out for intricate doorway carvings that reveal its long heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuari de Queralt",
+            "hu": "Santuari de Queralt",
+            "ro": "Santuari de Queralt",
+            "en": "Santuari de Queralt"
+          },
+          "coords": [
+            1.827315,
+            42.107658
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie vom Santuari de Queralt, dem Balkon von Berga, atemberaubende Panoramablicke über Zentralkatalonien und bringen Sie eine Windjacke mit, da es oben recht windig wird.",
+            "hu": "Tanúja lehet a Közép-Katalóniára nyíló lélegzetelállító panorámának a Berga erkélyeként ismert Santuari de Queraltból, és hozzon magával széldzsekit, mert odafent gyakran fúj a szél.",
+            "ro": "Admirați priveliștile panoramice uluitoare asupra Cataloniei de la Santuari de Queralt, cunoscut drept balconul din Berga, și aduceți o jachetă de vânt, deoarece sus devine răcoros.",
+            "en": "Witness breathtaking panoramic views over central Catalonia from the Santuari de Queralt, famously known as the balcony of Berga, and bring a windbreaker as it gets breezy up high."
+          }
+        },
+        {
+          "name": {
+            "de": "Guilles Viewpoint",
+            "hu": "Guilles Viewpoint",
+            "ro": "Guilles Viewpoint",
+            "en": "Guilles Viewpoint"
+          },
+          "coords": [
+            1.820955,
+            42.10643
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Majestät der Vorpyrenäen vom Guilles Viewpoint, einem perfekten Aussichtspunkt, an dem ein Fernglas Ihre Chancen zur Tierbeobachtung enorm verbessert.",
+            "hu": "Élvezze a Pireneusok lábának érintetlen fenségét a Guilles kilátóból, ahol egy távcső használata jelentősen javítja az őshonos vadvilág megfigyelésének izgalmas esélyeit.",
+            "ro": "Bucurați-vă de măreția neatinsă a Pre-Pirineilor de la Guilles Viewpoint, un punct de belvedere perfect, unde folosirea unui binoclu vă va îmbunătăți șansele de a observa fauna.",
+            "en": "Take in the unspoiled majesty of the pre-Pyrenees from Guilles Viewpoint, a perfect scenic overlook where using a pair of binoculars will vastly improve your wildlife spotting chances."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Garreta",
+            "hu": "Mirador de Garreta",
+            "ro": "Mirador de Garreta",
+            "en": "Mirador de Garreta"
+          },
+          "coords": [
+            1.824807,
+            42.106093
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fangen Sie spektakuläre, ununterbrochene Ausblicke auf die umliegenden Täler am Mirador de Garreta ein, und kommen Sie kurz vor Mittag, um die beleuchtete Landschaft zu sehen.",
+            "hu": "Örökítse meg a környező völgyek látványos, zavartalan kilátását a Mirador de Garreta ponton, és érkezzen kevéssel dél előtt, hogy lássa a déli nap által megvilágított tájat.",
+            "ro": "Surprindeți priveliști spectaculoase și neîntrerupte ale văilor la Mirador de Garreta și ajungeți chiar înainte de prânz pentru a vedea peisajul iluminat dramatic de soare.",
+            "en": "Capture spectacular, uninterrupted vistas of the surrounding valleys at Mirador de Garreta, and arrive just before noon to see the landscape dramatically illuminated by the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Figuerassa",
+            "hu": "Mirador de la Figuerassa",
+            "ro": "Mirador de la Figuerassa",
+            "en": "Mirador de la Figuerassa"
+          },
+          "coords": [
+            1.828949,
+            42.121266
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Blicken Sie über die Weiten des Baells-Stausees und die weitläufigen Ebenen vom Mirador de la Figuerassa, und halten Sie sicheren Abstand zu den Rändern, während Sie die Aussicht genießen.",
+            "hu": "Tekintsen át a Baells víztározó hatalmas kiterjedésén és az elterülő síkságokon a Mirador de la Figuerassa kilátóról, biztonságos távolságot tartva a szélektől az alpesi nagyszerűségben.",
+            "ro": "Priviți deasupra întinderii vaste a lacului de acumulare Baells de la Mirador de la Figuerassa, păstrând o distanță sigură față de margini în timp ce vă bucurați de grandoarea alpină.",
+            "en": "Gaze across the vast expanse of the Baells reservoir and the sprawling plains from Mirador de la Figuerassa, keeping a safe distance from the edges while soaking in the alpine grandeur."
+          }
+        },
+        {
+          "name": {
+            "de": "Pitarres",
+            "hu": "Pitarres",
+            "ro": "Pitarres",
+            "en": "Pitarres"
+          },
+          "coords": [
+            1.873824,
+            42.098698
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die ruhige Wildnis von Pitarres ein, einem weniger bekannten Naturparadies am Stadtrand, wo das Herunterladen einer Offline-Karte für die Navigation unerlässlich ist.",
+            "hu": "Merüljön el a Pitarres nyugodt, zord vadonjában, egy kevésbé ismert természetközeli menedékhelyen a város szélén, ahol az offline térkép letöltése elengedhetetlen a tájékozódáshoz.",
+            "ro": "Cufundați-vă în sălbăticia liniștită și accidentată a Pitarres, un refugiu natural mai puțin cunoscut, unde descărcarea unei hărți offline este esențială pentru a naviga pe trasee.",
+            "en": "Immerse yourself in the tranquil, rugged wilderness of Pitarres, a lesser-known natural retreat on the edge of town where downloading an offline map is essential for navigating the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Serrat de l'Horta",
+            "hu": "Serrat de l'Horta",
+            "ro": "Serrat de l'Horta",
+            "en": "Serrat de l'Horta"
+          },
+          "coords": [
+            1.863378,
+            42.093544
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung des wunderschönen Geländes von Serrat de l'Horta, einer Naturlandschaft mit friedlichen Sonnenuntergangsblicken, perfekt zum Innehalten.",
+            "hu": "Zárja a napot a Serrat de l'Horta gyönyörű terepének felfedezésével, amelynek természeti tája békés naplemente-kilátást nyújt, így tökéletes helyszín a pihenésre és visszatekintésre.",
+            "ro": "Încheiați-vă ziua explorând frumosul teren din Serrat de l'Horta, un peisaj natural care oferă vederi pașnice la apus, devenind locul perfect pentru a vă relaxa după această zi.",
+            "en": "End your day exploring the beautiful terrain of Serrat de l'Horta, a natural landscape that offers peaceful sunset views, making it a perfect spot to pause and reflect on your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem faszinierenden Einblick in das lokale Erbe in Casa de Martin, bevor Sie zum atemberaubenden Santuari de Queralt hinauffahren.\n\nNavigieren Sie gegen Mittag über die Bergstraßen, um zwischen den Aussichtspunkten Guilles und Garreta für unglaubliche Ausblicke zu wechseln.\n\nDer frühe Nachmittag führt Sie zum Mirador de la Figuerassa und anschließend zu den rauen Pfaden von Pitarres.\n\nFahren Sie bei Sonnenuntergang zur friedlichen Natur von Serrat de l'Horta für einen majestätischen Abschluss.",
+        "hu": "Autós utazása a Casa de Martin helyi örökségének izgalmas felfedezésével kezdődik, mielőtt felhajtana a lenyűgöző Santuari de Queralthoz.\n\nDél körül navigáljon a hegyi utakon, hogy eljusson a Guilles és a Mirador de Garreta kilátópontokhoz a hihetetlen panorámáért.\n\nKora délután a Mirador de la Figuerassa még magasabb kilátópontjaihoz érkezik, majd következnek a Pitarres zord ösvényei.\n\nAhogy a nap kezd lemenni, vezessen a Serrat de l'Horta csendes természetébe, ami fenséges lezárása lesz a napnak.",
+        "ro": "Excursia cu mașina începe cu o incursiune fascinantă în patrimoniul local la Casa de Martin înainte de a conduce la impresionantul Santuari de Queralt.\n\nÎn jurul prânzului, navigați pe drumurile de munte pentru a vizita Guilles Viewpoint și Mirador de Garreta pentru vederi incredibile.\n\nDupă-amiaza devreme vă duce la Mirador de la Figuerassa, urmat de peisajele accidentate ale frumoasei zone Pitarres.\n\nPe măsură ce soarele apune, conduceți spre natura liniștită de la Serrat de l'Horta, oferind o concluzie maiestuoasă a zilei.",
+        "en": "Your road trip begins with a fascinating deep dive into local heritage at Casa de Martin before driving up to the stunning Santuari de Queralt.\n\nAround midday, navigate the winding mountain roads to hop between Guilles Viewpoint and Mirador de Garreta for incredible vistas.\n\nEarly afternoon takes you to Mirador de la Figuerassa for even higher vantage points, followed by the rugged trails of Pitarres.\n\nAs the sun begins to set, drive to the tranquil nature of Serrat de l'Horta, providing a majestic conclusion to your driving day."
+      }
+    }
+  }
+}

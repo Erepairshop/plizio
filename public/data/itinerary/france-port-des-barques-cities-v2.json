@@ -1,0 +1,497 @@
+{
+  "city_id": "france-port-des-barques-cities-v2",
+  "anchor": {
+    "name": "Port-des-Barques",
+    "coords": [
+      -1.07807,
+      45.9485
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 4.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Port-des-Barques",
+            "hu": "Mairie de Port-des-Barques",
+            "ro": "Mairie de Port-des-Barques",
+            "en": "Mairie de Port-des-Barques"
+          },
+          "coords": [
+            -1.079635,
+            45.947447
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur der Mairie als Sinnbild der lokalen Geschichte und werfen Sie unbedingt einen Blick auf die Aushänge am Eingang.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a helyi adminisztrációs történelem jelképe, és mindenképpen olvassa el a kinti hirdetőtáblát.",
+            "ro": "Admirați arhitectura clasică a primăriei, o emblemă a istoriei administrative locale, și nu uitați să verificați panoul informativ de la intrare.",
+            "en": "Admire the classic architecture of the Mairie, an emblem of the town's administrative history, and be sure to check the local notices on the board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa les Tourelles",
+            "hu": "Villa les Tourelles",
+            "ro": "Villa les Tourelles",
+            "en": "Villa les Tourelles"
+          },
+          "coords": [
+            -1.082501,
+            45.948472
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten Türmchen dieser historischen Villa, welche die Eleganz der Küste einfängt, und fotografieren Sie diese am besten im Morgenlicht.",
+            "hu": "Csodálja meg ennek a történelmi villának a jellegzetes tornyait, amelyek a tengerparti eleganciát tükrözik, és a legjobb, ha a reggeli fényben fotózza le.",
+            "ro": "Minunați-vă de turnulețele distincte ale acestei vile istorice ce captează eleganța litoralului, fiind cel mai bine fotografiată în lumina dimineții.",
+            "en": "Marvel at the distinct turrets of this historical villa that captures the seaside elegance of the era, best photographed from the street during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Catherine-Labouré",
+            "hu": "Église Sainte-Catherine-Labouré",
+            "ro": "Église Sainte-Catherine-Labouré",
+            "en": "Église Sainte-Catherine-Labouré"
+          },
+          "coords": [
+            -1.084314,
+            45.940825
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses modernen Heiligtums, das der Heiligen Katharina gewidmet ist, um abseits der Massen einen ruhigen Moment zu genießen.",
+            "hu": "Fedezze fel ennek a modern, Szent Katalinnak szentelt vallási szentélynek a békés hangulatát, ahol a tömegtől távol eltölthet egy kis időt csendes elmélkedéssel.",
+            "ro": "Descoperiți atmosfera senină a acestui sanctuar religios modern dedicat Sfintei Ecaterina, unde vă puteți bucura de un moment de reflecție departe de aglomerație.",
+            "en": "Discover the serene atmosphere of this modern religious sanctuary dedicated to Saint Catherine, where you can take a moment of quiet reflection away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Anses",
+            "hu": "Plage des Anses",
+            "ro": "Plage des Anses",
+            "en": "Plage des Anses"
+          },
+          "coords": [
+            -1.099727,
+            45.944509
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses schönen lokalen Strandes, der sich perfekt für ein erfrischendes Bad eignet; packen Sie also Badesachen ein.",
+            "hu": "Pihenjen ezen a gyönyörű helyi homokos strandon, amely tökéletes egy frissítő délutáni csobbanáshoz, ezért ne felejtsen el fürdőruhát és naptejet hozni.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei frumoase plaje locale, perfectă pentru o baie răcoritoare de după-amiază, așa că aduceți costumul de baie.",
+            "en": "Relax on the sandy shores of this beautiful local beach, perfect for a refreshing afternoon dip, so remember to pack your swimwear and a good quality sunblock."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée L'huître et son environnement",
+            "hu": "Écomusée L'huître et son environnement",
+            "ro": "Écomusée L'huître et son environnement",
+            "en": "Écomusée L'huître et son environnement"
+          },
+          "coords": [
+            -1.073275,
+            45.948927
+          ],
+          "category": "museum",
+          "arrive_at": "14:53",
+          "stay_min": 130,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Ökomuseum in die faszinierende Welt der lokalen Austernzucht ein und nehmen Sie an einer der Führungen teil, um tiefere Einblicke zu gewinnen.",
+            "hu": "Merüljön el a helyi osztrigatermesztés lenyűgöző világában az ökomúzeum interaktív kiállításain, és érdemes csatlakozni egy tárlatvezetéshez a részletekért.",
+            "ro": "Pătrundeți în lumea fascinantă a cultivării stridiilor prin expozițiile interactive ale acestui ecomuzeu și încercați să prindeți un tur ghidat pentru mai multe detalii.",
+            "en": "Dive into the fascinating world of local oyster farming through interactive exhibits at this eco-museum, and try to catch one of the guided tours for deeper insights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Port-des-Barques, wo Sie den historischen Charme der Mairie und der lokalen Architektur entdecken.\n\nGegen Mittag tauchen Sie in das religiöse Erbe der Region ein oder erkunden die faszinierenden maritimen Traditionen der Austernzucht.\n\nDer Nachmittag lädt dazu ein, der Küste zu folgen und die historischen Leuchttürme zu besuchen.\n\nWenn der Abend naht, lassen Sie Ihre Reise am Wasser ausklingen und genießen die ruhige Küstenatmosphäre, während die Sonne über den malerischen Ufern untergeht.",
+        "hu": "A reggel Port-des-Barques szívében kezdődik, felfedezve a városháza történelmi varázsát és az ikonikus helyi építészetet.\n\nDélre elmerülhet a régió vallási örökségében, vagy felfedezheti az osztrigatermesztés lenyűgöző tengerészeti hagyományait.\n\nA délután arra hívja, hogy kövesse a partvonalat, és meglátogassa a tengerészeket generációk óta irányító világítótornyokat.\n\nAz este közeledtével a vízparton pihenheti ki a nap fáradalmait, élvezve a nyugodt part menti hangulatot, ahogy a naplemente megvilágítja a tájat.",
+        "ro": "Dimineața începe în inima orașului Port-des-Barques, descoperind farmecul istoric al primăriei și arhitectura locală iconică.\n\nLa prânz, vă veți scufunda în moștenirea religioasă a regiunii sau veți explora tradițiile maritime ale cultivării stridiilor.\n\nDupă-amiaza vă invită să urmați coasta, vizitând farurile istorice care au ghidat marinarii de-a lungul generațiilor.\n\nPe măsură ce se apropie seara, încheiați călătoria lângă apă, bucurându-vă de atmosfera senină a coastei în timp ce soarele apune peste țărmurile pitorești.",
+        "en": "Your morning begins in the heart of Port-des-Barques, uncovering the historical charm of the Mairie and iconic local architecture.\n\nBy midday, you will delve into the region's religious heritage or explore the fascinating maritime traditions of oyster farming.\n\nThe afternoon invites you to trace the coastline, visiting the historic lighthouses that have guided sailors for generations.\n\nAs evening approaches, wind down your journey by the water, taking in the serene coastal atmosphere as the sun sets over the scenic shores."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.57,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Port-des-Barques",
+            "hu": "Mairie de Port-des-Barques",
+            "ro": "Mairie de Port-des-Barques",
+            "en": "Mairie de Port-des-Barques"
+          },
+          "coords": [
+            -1.079635,
+            45.947447
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur der Mairie als Sinnbild der lokalen Geschichte und werfen Sie unbedingt einen Blick auf die Aushänge am Eingang.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a helyi adminisztrációs történelem jelképe, és mindenképpen olvassa el a kinti hirdetőtáblát.",
+            "ro": "Admirați arhitectura clasică a primăriei, o emblemă a istoriei administrative locale, și nu uitați să verificați panoul informativ de la intrare.",
+            "en": "Admire the classic architecture of the Mairie, an emblem of the town's administrative history, and be sure to check the local notices on the board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa les Tourelles",
+            "hu": "Villa les Tourelles",
+            "ro": "Villa les Tourelles",
+            "en": "Villa les Tourelles"
+          },
+          "coords": [
+            -1.082501,
+            45.948472
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten Türmchen dieser historischen Villa, welche die Eleganz der Küste einfängt, und fotografieren Sie diese am besten im Morgenlicht.",
+            "hu": "Csodálja meg ennek a történelmi villának a jellegzetes tornyait, amelyek a tengerparti eleganciát tükrözik, és a legjobb, ha a reggeli fényben fotózza le.",
+            "ro": "Minunați-vă de turnulețele distincte ale acestei vile istorice ce captează eleganța litoralului, fiind cel mai bine fotografiată în lumina dimineții.",
+            "en": "Marvel at the distinct turrets of this historical villa that captures the seaside elegance of the era, best photographed from the street during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée L'huître et son environnement",
+            "hu": "Écomusée L'huître et son environnement",
+            "ro": "Écomusée L'huître et son environnement",
+            "en": "Écomusée L'huître et son environnement"
+          },
+          "coords": [
+            -1.073275,
+            45.948927
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Ökomuseum in die faszinierende Welt der lokalen Austernzucht ein und nehmen Sie an einer der Führungen teil, um tiefere Einblicke zu gewinnen.",
+            "hu": "Merüljön el a helyi osztrigatermesztés lenyűgöző világában az ökomúzeum interaktív kiállításain, és érdemes csatlakozni egy tárlatvezetéshez a részletekért.",
+            "ro": "Pătrundeți în lumea fascinantă a cultivării stridiilor prin expozițiile interactive ale acestui ecomuzeu și încercați să prindeți un tur ghidat pentru mai multe detalii.",
+            "en": "Dive into the fascinating world of local oyster farming through interactive exhibits at this eco-museum, and try to catch one of the guided tours for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Phare de Soumard",
+            "hu": "Petit Phare de Soumard",
+            "ro": "Petit Phare de Soumard",
+            "en": "Petit Phare de Soumard"
+          },
+          "coords": [
+            -1.072759,
+            45.966033
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu diesem charmanten kleinen Leuchtturm, der Seeleuten den Weg wies, und genießen Sie diesen Ort für schnelle Strandfotos.",
+            "hu": "Tegyen egy rövid sétát ehhez a bájos kis világítótoronyhoz, amely történelmileg a tengerészeket irányította, és remek helyszínt kínál gyors tengerparti fotókhoz.",
+            "ro": "Faceți o scurtă plimbare până la acest mic far fermecător care a ghidat istoric marinarii locali, oferind un loc fantastic și accesibil pentru fotografii rapide.",
+            "en": "Take a brief stroll to this charming small lighthouse which historically guided local mariners, offering a fantastic and easily accessible spot for quick seaside photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Phare de Soumard",
+            "hu": "Grand Phare de Soumard",
+            "ro": "Grand Phare de Soumard",
+            "en": "Grand Phare de Soumard"
+          },
+          "coords": [
+            -1.066207,
+            45.963909
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Stehen Sie unter der gewaltigen Struktur des Hauptleuchtturms mit herrlichem Blick auf die Küste, aber beachten Sie, dass der Aufstieg möglicherweise nicht erlaubt ist.",
+            "hu": "Álljon meg a partvidékre lenyűgöző kilátást nyújtó fő világítótorony tornyosuló szerkezete alatt, bár vegye figyelembe, hogy a csúcsra való felmászás talán nem engedélyezett.",
+            "ro": "Stați sub structura impunătoare a farului principal care oferă vederi panoramice asupra coastei, deși trebuie să știți că urcarea până în vârf ar putea fi interzisă.",
+            "en": "Stand beneath the towering structure of the main lighthouse that offers commanding views of the coastline, though be aware that climbing to the top may not be permitted."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Catherine-Labouré",
+            "hu": "Église Sainte-Catherine-Labouré",
+            "ro": "Église Sainte-Catherine-Labouré",
+            "en": "Église Sainte-Catherine-Labouré"
+          },
+          "coords": [
+            -1.084314,
+            45.940825
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.91,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses modernen Heiligtums, das der Heiligen Katharina gewidmet ist, um abseits der Massen einen ruhigen Moment zu genießen.",
+            "hu": "Fedezze fel ennek a modern, Szent Katalinnak szentelt vallási szentélynek a békés hangulatát, ahol a tömegtől távol eltölthet egy kis időt csendes elmélkedéssel.",
+            "ro": "Descoperiți atmosfera senină a acestui sanctuar religios modern dedicat Sfintei Ecaterina, unde vă puteți bucura de un moment de reflecție departe de aglomerație.",
+            "en": "Discover the serene atmosphere of this modern religious sanctuary dedicated to Saint Catherine, where you can take a moment of quiet reflection away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Anses",
+            "hu": "Plage des Anses",
+            "ro": "Plage des Anses",
+            "en": "Plage des Anses"
+          },
+          "coords": [
+            -1.099727,
+            45.944509
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses schönen lokalen Strandes, der sich perfekt für ein erfrischendes Bad eignet; packen Sie also Badesachen ein.",
+            "hu": "Pihenjen ezen a gyönyörű helyi homokos strandon, amely tökéletes egy frissítő délutáni csobbanáshoz, ezért ne felejtsen el fürdőruhát és naptejet hozni.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei frumoase plaje locale, perfectă pentru o baie răcoritoare de după-amiază, așa că aduceți costumul de baie.",
+            "en": "Relax on the sandy shores of this beautiful local beach, perfect for a refreshing afternoon dip, so remember to pack your swimwear and a good quality sunblock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Port-des-Barques, wo Sie den historischen Charme der Mairie und der lokalen Architektur entdecken.\n\nGegen Mittag tauchen Sie in das religiöse Erbe der Region ein oder erkunden die faszinierenden maritimen Traditionen der Austernzucht.\n\nDer Nachmittag lädt dazu ein, der Küste zu folgen und die historischen Leuchttürme zu besuchen.\n\nWenn der Abend naht, lassen Sie Ihre Reise am Wasser ausklingen und genießen die ruhige Küstenatmosphäre, während die Sonne über den malerischen Ufern untergeht.",
+        "hu": "A reggel Port-des-Barques szívében kezdődik, felfedezve a városháza történelmi varázsát és az ikonikus helyi építészetet.\n\nDélre elmerülhet a régió vallási örökségében, vagy felfedezheti az osztrigatermesztés lenyűgöző tengerészeti hagyományait.\n\nA délután arra hívja, hogy kövesse a partvonalat, és meglátogassa a tengerészeket generációk óta irányító világítótornyokat.\n\nAz este közeledtével a vízparton pihenheti ki a nap fáradalmait, élvezve a nyugodt part menti hangulatot, ahogy a naplemente megvilágítja a tájat.",
+        "ro": "Dimineața începe în inima orașului Port-des-Barques, descoperind farmecul istoric al primăriei și arhitectura locală iconică.\n\nLa prânz, vă veți scufunda în moștenirea religioasă a regiunii sau veți explora tradițiile maritime ale cultivării stridiilor.\n\nDupă-amiaza vă invită să urmați coasta, vizitând farurile istorice care au ghidat marinarii de-a lungul generațiilor.\n\nPe măsură ce se apropie seara, încheiați călătoria lângă apă, bucurându-vă de atmosfera senină a coastei în timp ce soarele apune peste țărmurile pitorești.",
+        "en": "Your morning begins in the heart of Port-des-Barques, uncovering the historical charm of the Mairie and iconic local architecture.\n\nBy midday, you will delve into the region's religious heritage or explore the fascinating maritime traditions of oyster farming.\n\nThe afternoon invites you to trace the coastline, visiting the historic lighthouses that have guided sailors for generations.\n\nAs evening approaches, wind down your journey by the water, taking in the serene coastal atmosphere as the sun sets over the scenic shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 8.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nazaire",
+            "hu": "Église Saint-Nazaire",
+            "ro": "Église Saint-Nazaire",
+            "en": "Église Saint-Nazaire"
+          },
+          "coords": [
+            -1.051469,
+            45.937024
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese traditionelle Kirche als Zeugnis des tief verwurzelten Glaubens im Dorf und betrachten Sie die bunten Glasfenster am besten vom Mittelgang aus.",
+            "hu": "Látogassa meg ezt a hagyományos templomot, amely a falu mélyen gyökerező hitének tanúja, és figyelje meg a gyönyörű ólomüveg ablakokat a középső folyosóról.",
+            "ro": "Vizitați această biserică tradițională care stă mărturie credinței profunde a satului, remarcând frumoasele vitralii ce se văd cel mai bine de pe culoarul central.",
+            "en": "Visit this traditional church that stands as a testament to the village's deep-rooted faith, noting the beautiful stained glass windows best viewed from the central aisle."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée L'huître et son environnement",
+            "hu": "Écomusée L'huître et son environnement",
+            "ro": "Écomusée L'huître et son environnement",
+            "en": "Écomusée L'huître et son environnement"
+          },
+          "coords": [
+            -1.073275,
+            45.948927
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.13,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Ökomuseum in die faszinierende Welt der lokalen Austernzucht ein und nehmen Sie an einer der Führungen teil, um tiefere Einblicke zu gewinnen.",
+            "hu": "Merüljön el a helyi osztrigatermesztés lenyűgöző világában az ökomúzeum interaktív kiállításain, és érdemes csatlakozni egy tárlatvezetéshez a részletekért.",
+            "ro": "Pătrundeți în lumea fascinantă a cultivării stridiilor prin expozițiile interactive ale acestui ecomuzeu și încercați să prindeți un tur ghidat pentru mai multe detalii.",
+            "en": "Dive into the fascinating world of local oyster farming through interactive exhibits at this eco-museum, and try to catch one of the guided tours for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Port-des-Barques",
+            "hu": "Mairie de Port-des-Barques",
+            "ro": "Mairie de Port-des-Barques",
+            "en": "Mairie de Port-des-Barques"
+          },
+          "coords": [
+            -1.079635,
+            45.947447
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur der Mairie als Sinnbild der lokalen Geschichte und werfen Sie unbedingt einen Blick auf die Aushänge am Eingang.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a helyi adminisztrációs történelem jelképe, és mindenképpen olvassa el a kinti hirdetőtáblát.",
+            "ro": "Admirați arhitectura clasică a primăriei, o emblemă a istoriei administrative locale, și nu uitați să verificați panoul informativ de la intrare.",
+            "en": "Admire the classic architecture of the Mairie, an emblem of the town's administrative history, and be sure to check the local notices on the board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa les Tourelles",
+            "hu": "Villa les Tourelles",
+            "ro": "Villa les Tourelles",
+            "en": "Villa les Tourelles"
+          },
+          "coords": [
+            -1.082501,
+            45.948472
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten Türmchen dieser historischen Villa, welche die Eleganz der Küste einfängt, und fotografieren Sie diese am besten im Morgenlicht.",
+            "hu": "Csodálja meg ennek a történelmi villának a jellegzetes tornyait, amelyek a tengerparti eleganciát tükrözik, és a legjobb, ha a reggeli fényben fotózza le.",
+            "ro": "Minunați-vă de turnulețele distincte ale acestei vile istorice ce captează eleganța litoralului, fiind cel mai bine fotografiată în lumina dimineții.",
+            "en": "Marvel at the distinct turrets of this historical villa that captures the seaside elegance of the era, best photographed from the street during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Phare de Soumard",
+            "hu": "Petit Phare de Soumard",
+            "ro": "Petit Phare de Soumard",
+            "en": "Petit Phare de Soumard"
+          },
+          "coords": [
+            -1.072759,
+            45.966033
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.09,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu diesem charmanten kleinen Leuchtturm, der Seeleuten den Weg wies, und genießen Sie diesen Ort für schnelle Strandfotos.",
+            "hu": "Tegyen egy rövid sétát ehhez a bájos kis világítótoronyhoz, amely történelmileg a tengerészeket irányította, és remek helyszínt kínál gyors tengerparti fotókhoz.",
+            "ro": "Faceți o scurtă plimbare până la acest mic far fermecător care a ghidat istoric marinarii locali, oferind un loc fantastic și accesibil pentru fotografii rapide.",
+            "en": "Take a brief stroll to this charming small lighthouse which historically guided local mariners, offering a fantastic and easily accessible spot for quick seaside photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Phare de Soumard",
+            "hu": "Grand Phare de Soumard",
+            "ro": "Grand Phare de Soumard",
+            "en": "Grand Phare de Soumard"
+          },
+          "coords": [
+            -1.066207,
+            45.963909
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Stehen Sie unter der gewaltigen Struktur des Hauptleuchtturms mit herrlichem Blick auf die Küste, aber beachten Sie, dass der Aufstieg möglicherweise nicht erlaubt ist.",
+            "hu": "Álljon meg a partvidékre lenyűgöző kilátást nyújtó fő világítótorony tornyosuló szerkezete alatt, bár vegye figyelembe, hogy a csúcsra való felmászás talán nem engedélyezett.",
+            "ro": "Stați sub structura impunătoare a farului principal care oferă vederi panoramice asupra coastei, deși trebuie să știți că urcarea până în vârf ar putea fi interzisă.",
+            "en": "Stand beneath the towering structure of the main lighthouse that offers commanding views of the coastline, though be aware that climbing to the top may not be permitted."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Anses",
+            "hu": "Plage des Anses",
+            "ro": "Plage des Anses",
+            "en": "Plage des Anses"
+          },
+          "coords": [
+            -1.099727,
+            45.944509
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses schönen lokalen Strandes, der sich perfekt für ein erfrischendes Bad eignet; packen Sie also Badesachen ein.",
+            "hu": "Pihenjen ezen a gyönyörű helyi homokos strandon, amely tökéletes egy frissítő délutáni csobbanáshoz, ezért ne felejtsen el fürdőruhát és naptejet hozni.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei frumoase plaje locale, perfectă pentru o baie răcoritoare de după-amiază, așa că aduceți costumul de baie.",
+            "en": "Relax on the sandy shores of this beautiful local beach, perfect for a refreshing afternoon dip, so remember to pack your swimwear and a good quality sunblock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Port-des-Barques, wo Sie den historischen Charme der Mairie und der lokalen Architektur entdecken.\n\nGegen Mittag tauchen Sie in das religiöse Erbe der Region ein oder erkunden die faszinierenden maritimen Traditionen der Austernzucht.\n\nDer Nachmittag lädt dazu ein, der Küste zu folgen und die historischen Leuchttürme zu besuchen.\n\nWenn der Abend naht, lassen Sie Ihre Reise am Wasser ausklingen und genießen die ruhige Küstenatmosphäre, während die Sonne über den malerischen Ufern untergeht.",
+        "hu": "A reggel Port-des-Barques szívében kezdődik, felfedezve a városháza történelmi varázsát és az ikonikus helyi építészetet.\n\nDélre elmerülhet a régió vallási örökségében, vagy felfedezheti az osztrigatermesztés lenyűgöző tengerészeti hagyományait.\n\nA délután arra hívja, hogy kövesse a partvonalat, és meglátogassa a tengerészeket generációk óta irányító világítótornyokat.\n\nAz este közeledtével a vízparton pihenheti ki a nap fáradalmait, élvezve a nyugodt part menti hangulatot, ahogy a naplemente megvilágítja a tájat.",
+        "ro": "Dimineața începe în inima orașului Port-des-Barques, descoperind farmecul istoric al primăriei și arhitectura locală iconică.\n\nLa prânz, vă veți scufunda în moștenirea religioasă a regiunii sau veți explora tradițiile maritime ale cultivării stridiilor.\n\nDupă-amiaza vă invită să urmați coasta, vizitând farurile istorice care au ghidat marinarii de-a lungul generațiilor.\n\nPe măsură ce se apropie seara, încheiați călătoria lângă apă, bucurându-vă de atmosfera senină a coastei în timp ce soarele apune peste țărmurile pitorești.",
+        "en": "Your morning begins in the heart of Port-des-Barques, uncovering the historical charm of the Mairie and iconic local architecture.\n\nBy midday, you will delve into the region's religious heritage or explore the fascinating maritime traditions of oyster farming.\n\nThe afternoon invites you to trace the coastline, visiting the historic lighthouses that have guided sailors for generations.\n\nAs evening approaches, wind down your journey by the water, taking in the serene coastal atmosphere as the sun sets over the scenic shores."
+      }
+    }
+  }
+}

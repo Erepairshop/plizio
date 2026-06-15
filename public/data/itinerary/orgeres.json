@@ -1,0 +1,497 @@
+{
+  "city_id": "orgeres",
+  "anchor": {
+    "name": "Orgères",
+    "coords": [
+      -1.6683,
+      47.9989
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturraum Le Belvédère",
+            "hu": "Le Belvédère Kulturális Tér",
+            "ro": "Spațiul Cultural Le Belvédère",
+            "en": "Le Belvédère Cultural Space"
+          },
+          "coords": [
+            -1.668808,
+            47.995654
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Kulturzentrum inspirierende Ausstellungen und informieren Sie sich am Empfang über die aktuellen lokalen Veranstaltungen.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely inspiráló kiállításoknak ad otthont, és érdeklődjön a recepción az aktuális helyi eseményekről.",
+            "ro": "Explorați acest spațiu cultural modern care găzduiește expoziții inspirate și nu ezitați să întrebați la recepție despre evenimentele locale actuale.",
+            "en": "Discover this modern cultural center hosting inspiring exhibitions, and be sure to check at the reception for information on current local events."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.669012,
+            47.995888
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kirche von Orgères und achten Sie besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Csodálja meg Orgères történelmi templomának építészeti részleteit, és szánjon egy kis időt a gyönyörű ólomüveg ablakok alaposabb megfigyelésére.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici istorice din Orgères și acordați-vă timp pentru a observa vitraliile frumos conservate.",
+            "en": "Admire the architectural details of this historic Orgères church, taking a moment to observe the beautifully preserved stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Wasserturm am Bahnhof",
+            "hu": "Egykori vasútállomás víztornya",
+            "ro": "Turnul de apă al vechii gări",
+            "en": "Old railway station water tower"
+          },
+          "coords": [
+            -1.665381,
+            47.995887
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen alten Wasserturm der ehemaligen Eisenbahnstation, der ein wichtiges Stück lokaler Infrastrukturgeschichte repräsentiert.",
+            "hu": "Tekintse meg az egykori vasútállomás régi víztornyát, amely a helyi infrastrukturális történelem egy rendkívül fontos és érdekes darabját képviseli.",
+            "ro": "Priviți acest vechi turn de apă al fostei gări, care reprezintă o piesă importantă și fascinantă a istoriei infrastructurii locale din zonă.",
+            "en": "Examine this old water tower from the former railway station, representing a significant piece of local infrastructural history worth photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Orgères",
+            "hu": "Orgères kastély",
+            "ro": "Castelul Orgères",
+            "en": "Château d'Orgères"
+          },
+          "coords": [
+            -1.674804,
+            47.999529
+          ],
+          "category": "castle",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den majestätischen Anblick dieses charmanten Schlosses von außen und machen Sie einen entspannten Spaziergang in der malerischen Umgebung.",
+            "hu": "Élvezze a hangulatos kastély fenséges látványát kívülről, és tegyen egy pihentető sétát a festői szépségű, nyugodt környező területen.",
+            "ro": "Bucurați-vă de priveliștea maiestuoasă a acestui castel fermecător din exterior și faceți o plimbare relaxantă în împrejurimile sale pitorești.",
+            "en": "Enjoy the majestic exterior view of this charming local castle, and take a moment for a relaxing walk around its picturesque and peaceful surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerpark",
+            "hu": "Kalandpark",
+            "ro": "Parc de Aventură",
+            "en": "Parcours Aventure"
+          },
+          "coords": [
+            -1.666754,
+            48.003219
+          ],
+          "category": "family",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie spannende Kletterabenteuer in diesem familienfreundlichen Waldpark, aber vergessen Sie nicht, festes und bequemes Schuhwerk zu tragen.",
+            "hu": "Éljen át izgalmas mászókalandokat ebben a családbarát erdei parkban, de mindenképpen ne felejtsen el zárt, kényelmes cipőt viselni a biztonság érdekében.",
+            "ro": "Trăiți aventuri de alpinism palpitante în acest parc forestier ideal pentru familii, dar nu uitați să purtați încălțăminte sportivă, închisă și confortabilă.",
+            "en": "Experience thrilling climbing adventures in this family-friendly forest park, making sure to wear sturdy, closed-toe shoes for safety and comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur im Belvédère, gefolgt von einer stillen Einkehr in der Kirche Saint-Martin. Mittags erkunden Sie den historischen Wasserturm der alten Station. Am Nachmittag spazieren Sie zum majestätischen Château d'Orgères. Der Tag endet sportlich und abenteuerlich im Parcours Aventure.",
+        "hu": "A reggel a Belvédère kulturális központjában indul, majd a Saint-Martin templom békéje várja. Délben a régi állomás történelmi víztornyát fedezheti fel. Délután a fenséges Château d'Orgères felé veszi az irányt. A napot sportosan és izgalmasan, a Parcours Aventure kalandparkban zárja le.",
+        "ro": "Dimineața începe cu artă la Belvédère, urmată de liniștea bisericii Saint-Martin. La prânz, descoperiți turnul de apă istoric al vechii gări. După-amiaza faceți o plimbare spre maiestuosul Château d'Orgères. Ziua se încheie cu activități sportive și aventură la Parcours Aventure din pădure.",
+        "en": "The morning begins with local culture at Le Belvédère, followed by a peaceful visit to Saint-Martin Church. Midday is spent exploring the historic water tower of the old station. In the afternoon, you walk towards the majestic Château d'Orgères. The day ends with thrilling outdoor fun at Parcours Aventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Orgères",
+            "hu": "Orgères kastély",
+            "ro": "Castelul Orgères",
+            "en": "Château d'Orgères"
+          },
+          "coords": [
+            -1.674804,
+            47.999529
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den majestätischen Anblick dieses charmanten Schlosses von außen und machen Sie einen entspannten Spaziergang in der malerischen Umgebung.",
+            "hu": "Élvezze a hangulatos kastély fenséges látványát kívülről, és tegyen egy pihentető sétát a festői szépségű, nyugodt környező területen.",
+            "ro": "Bucurați-vă de priveliștea maiestuoasă a acestui castel fermecător din exterior și faceți o plimbare relaxantă în împrejurimile sale pitorești.",
+            "en": "Enjoy the majestic exterior view of this charming local castle, and take a moment for a relaxing walk around its picturesque and peaceful surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Brotbackofen",
+            "hu": "Régi kenyérsütő kemence",
+            "ro": "Vechiul cuptor de pâine",
+            "en": "Old bread oven"
+          },
+          "coords": [
+            -1.699985,
+            48.009528
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen traditionellen Brotbackofen, der die bäuerliche Geschichte der Region lebendig hält, und achten Sie auf die robusten Steinmauern.",
+            "hu": "Látogassa meg ezt a hagyományos kemencét, amely életben tartja a régió mezőgazdasági múltját, és figyelje meg a robusztus, régi kőfalakat.",
+            "ro": "Vizitați acest cuptor de pâine tradițional care menține vie istoria agricolă a regiunii și observați cu atenție pereții săi de piatră foarte robuști.",
+            "en": "Visit this traditional bread oven that keeps the region's agricultural history alive, paying close attention to its robust, historical stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerpark",
+            "hu": "Kalandpark",
+            "ro": "Parc de Aventură",
+            "en": "Parcours Aventure"
+          },
+          "coords": [
+            -1.666754,
+            48.003219
+          ],
+          "category": "family",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie spannende Kletterabenteuer in diesem familienfreundlichen Waldpark, aber vergessen Sie nicht, festes und bequemes Schuhwerk zu tragen.",
+            "hu": "Éljen át izgalmas mászókalandokat ebben a családbarát erdei parkban, de mindenképpen ne felejtsen el zárt, kényelmes cipőt viselni a biztonság érdekében.",
+            "ro": "Trăiți aventuri de alpinism palpitante în acest parc forestier ideal pentru familii, dar nu uitați să purtați încălțăminte sportivă, închisă și confortabilă.",
+            "en": "Experience thrilling climbing adventures in this family-friendly forest park, making sure to wear sturdy, closed-toe shoes for safety and comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.669012,
+            47.995888
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kirche von Orgères und achten Sie besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Csodálja meg Orgères történelmi templomának építészeti részleteit, és szánjon egy kis időt a gyönyörű ólomüveg ablakok alaposabb megfigyelésére.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici istorice din Orgères și acordați-vă timp pentru a observa vitraliile frumos conservate.",
+            "en": "Admire the architectural details of this historic Orgères church, taking a moment to observe the beautifully preserved stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Le Belvédère",
+            "hu": "Le Belvédère Kulturális Tér",
+            "ro": "Spațiul Cultural Le Belvédère",
+            "en": "Le Belvédère Cultural Space"
+          },
+          "coords": [
+            -1.668808,
+            47.995654
+          ],
+          "category": "cultural",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Kulturzentrum inspirierende Ausstellungen und informieren Sie sich am Empfang über die aktuellen lokalen Veranstaltungen.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely inspiráló kiállításoknak ad otthont, és érdeklődjön a recepción az aktuális helyi eseményekről.",
+            "ro": "Explorați acest spațiu cultural modern care găzduiește expoziții inspirate și nu ezitați să întrebați la recepție despre evenimentele locale actuale.",
+            "en": "Discover this modern cultural center hosting inspiring exhibitions, and be sure to check at the reception for information on current local events."
+          }
+        },
+        {
+          "name": {
+            "de": "See der Haye Guin",
+            "hu": "Haye Guin tó",
+            "ro": "Lacul Haye Guin",
+            "en": "Haye Guin Pond"
+          },
+          "coords": [
+            -1.689942,
+            47.988912
+          ],
+          "category": "natural",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der ideal für ein Picknick in der Natur ist, und bringen Sie unbedingt Ihr eigenes Fernglas zur Vogelbeobachtung mit.",
+            "hu": "Pihenjen meg ennél a nyugodt tónál, amely tökéletes helyszín egy természetközeli piknikhez, és feltétlenül hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Relaxați-vă la acest lac liniștit, ideal pentru un picnic în mijlocul naturii, și nu uitați să vă aduceți propriul binoclu pentru a observa păsările.",
+            "en": "Relax by this peaceful pond which is an ideal spot for a nature picnic, and be sure to bring your own binoculars to enjoy observing the local birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten energiegeladen am Château d'Orgères, bevor Sie zum historischen Brotbackofen weiterradeln. Mittags erwartet Sie ein spannendes Erlebnis im Parcours Aventure. Am Nachmittag fahren Sie ins Zentrum, um die Kirche und den Kulturraum Belvédère zu besichtigen. Der Ausflug endet idyllisch am Étang de la Haye Guin.",
+        "hu": "Energikusan indul a nap a Château d'Orgères-nél, mielőtt eltekerne a történelmi kemencéhez. Délben izgalmas kalandok várják a Parcours Aventure parkban. Délután a központba biciklizik, hogy megnézze a templomot és a Belvédère-t. A kirándulás idillien ér véget az Étang de la Haye Guin tó partján.",
+        "ro": "Ziua începe plină de energie la Château d'Orgères, înainte de a pedala spre istoricul cuptor de pâine. La prânz, vă așteaptă o experiență captivantă la Parcours Aventure. După-amiaza vă întoarceți în centru pentru a vizita biserica și Belvédère. Excursia se încheie idilic lângă lacul Étang de la Haye Guin.",
+        "en": "You start full of energy at Château d'Orgères, before pedaling to the historic bread oven. Midday brings an exciting experience at the Parcours Aventure. In the afternoon, you cycle into the center to visit the church and Le Belvédère. The excursion ends idyllically relaxing by the Étang de la Haye Guin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 7.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Brotbackofen",
+            "hu": "Régi kenyérsütő kemence",
+            "ro": "Vechiul cuptor de pâine",
+            "en": "Old bread oven"
+          },
+          "coords": [
+            -1.699985,
+            48.009528
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen traditionellen Brotbackofen, der die bäuerliche Geschichte der Region lebendig hält, und achten Sie auf die robusten Steinmauern.",
+            "hu": "Látogassa meg ezt a hagyományos kemencét, amely életben tartja a régió mezőgazdasági múltját, és figyelje meg a robusztus, régi kőfalakat.",
+            "ro": "Vizitați acest cuptor de pâine tradițional care menține vie istoria agricolă a regiunii și observați cu atenție pereții săi de piatră foarte robuști.",
+            "en": "Visit this traditional bread oven that keeps the region's agricultural history alive, paying close attention to its robust, historical stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "See der Haye Guin",
+            "hu": "Haye Guin tó",
+            "ro": "Lacul Haye Guin",
+            "en": "Haye Guin Pond"
+          },
+          "coords": [
+            -1.689942,
+            47.988912
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der ideal für ein Picknick in der Natur ist, und bringen Sie unbedingt Ihr eigenes Fernglas zur Vogelbeobachtung mit.",
+            "hu": "Pihenjen meg ennél a nyugodt tónál, amely tökéletes helyszín egy természetközeli piknikhez, és feltétlenül hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Relaxați-vă la acest lac liniștit, ideal pentru un picnic în mijlocul naturii, și nu uitați să vă aduceți propriul binoclu pentru a observa păsările.",
+            "en": "Relax by this peaceful pond which is an ideal spot for a nature picnic, and be sure to bring your own binoculars to enjoy observing the local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "La Chicane",
+            "hu": "La Chicane",
+            "ro": "La Chicane",
+            "en": "La Chicane"
+          },
+          "coords": [
+            -1.680399,
+            47.988468
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem markanten lokalen Orientierungspunkt und nutzen Sie die Gelegenheit für ein schnelles Erinnerungsfoto.",
+            "hu": "Tartson egy rövid szünetet ennél a jellegzetes helyi tájékozódási pontnál, és ragadja meg a kiváló alkalmat egy gyors, emlékezetes fénykép elkészítésére.",
+            "ro": "Faceți o scurtă oprire la acest punct de reper local distinctiv și profitați de ocazie pentru a face rapid o fotografie memorabilă cu peisajul.",
+            "en": "Make a short stop at this distinctive local landmark and take advantage of the perfect opportunity to snap a quick, memorable photograph of your trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Chappe-Telegrafenturm",
+            "hu": "Régi Chappe-távírótorony",
+            "ro": "Vechiul turn de telegraf Chappe",
+            "en": "Old Chappe Telegraph Tower"
+          },
+          "coords": [
+            -1.661503,
+            47.983426
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erforschen Sie die Reste dieses historischen Telegrafenturms aus der Chappe-Ära und stellen Sie sich vor, wie hier einst wichtige Nachrichten übertragen wurden.",
+            "hu": "Fedezze fel a Chappe-korszakból származó történelmi távírótorony maradványait, és képzelje el, hogyan továbbítottak itt régen fontos üzeneteket.",
+            "ro": "Explorați rămășițele acestui turn istoric de telegraf din era Chappe și imaginați-vă cum erau transmise odinioară mesaje importante prin acest sistem.",
+            "en": "Explore the remains of this historic Chappe era telegraph tower, taking a moment to imagine how important messages were transmitted across the country."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Le Belvédère",
+            "hu": "Le Belvédère Kulturális Tér",
+            "ro": "Spațiul Cultural Le Belvédère",
+            "en": "Le Belvédère Cultural Space"
+          },
+          "coords": [
+            -1.668808,
+            47.995654
+          ],
+          "category": "cultural",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Kulturzentrum inspirierende Ausstellungen und informieren Sie sich am Empfang über die aktuellen lokalen Veranstaltungen.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely inspiráló kiállításoknak ad otthont, és érdeklődjön a recepción az aktuális helyi eseményekről.",
+            "ro": "Explorați acest spațiu cultural modern care găzduiește expoziții inspirate și nu ezitați să întrebați la recepție despre evenimentele locale actuale.",
+            "en": "Discover this modern cultural center hosting inspiring exhibitions, and be sure to check at the reception for information on current local events."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.669012,
+            47.995888
+          ],
+          "category": "religious",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kirche von Orgères und achten Sie besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Csodálja meg Orgères történelmi templomának építészeti részleteit, és szánjon egy kis időt a gyönyörű ólomüveg ablakok alaposabb megfigyelésére.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici istorice din Orgères și acordați-vă timp pentru a observa vitraliile frumos conservate.",
+            "en": "Admire the architectural details of this historic Orgères church, taking a moment to observe the beautifully preserved stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Wasserturm am Bahnhof",
+            "hu": "Egykori vasútállomás víztornya",
+            "ro": "Turnul de apă al vechii gări",
+            "en": "Old railway station water tower"
+          },
+          "coords": [
+            -1.665381,
+            47.995887
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen alten Wasserturm der ehemaligen Eisenbahnstation, der ein wichtiges Stück lokaler Infrastrukturgeschichte repräsentiert.",
+            "hu": "Tekintse meg az egykori vasútállomás régi víztornyát, amely a helyi infrastrukturális történelem egy rendkívül fontos és érdekes darabját képviseli.",
+            "ro": "Priviți acest vechi turn de apă al fostei gări, care reprezintă o piesă importantă și fascinantă a istoriei infrastructurii locale din zonă.",
+            "en": "Examine this old water tower from the former railway station, representing a significant piece of local infrastructural history worth photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Orgères",
+            "hu": "Orgères kastély",
+            "ro": "Castelul Orgères",
+            "en": "Château d'Orgères"
+          },
+          "coords": [
+            -1.674804,
+            47.999529
+          ],
+          "category": "castle",
+          "arrive_at": "16:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den majestätischen Anblick dieses charmanten Schlosses von außen und machen Sie einen entspannten Spaziergang in der malerischen Umgebung.",
+            "hu": "Élvezze a hangulatos kastély fenséges látványát kívülről, és tegyen egy pihentető sétát a festői szépségű, nyugodt környező területen.",
+            "ro": "Bucurați-vă de priveliștea maiestuoasă a acestui castel fermecător din exterior și faceți o plimbare relaxantă în împrejurimile sale pitorești.",
+            "en": "Enjoy the majestic exterior view of this charming local castle, and take a moment for a relaxing walk around its picturesque and peaceful surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt mit der Geschichte am alten Brotbackofen und führt Sie dann zum ruhigen Étang de la Haye Guin. Nachmittags entdecken Sie die Chicane und bewundern den historischen Chappe-Telegrafenturm. Später kehren Sie ins Herz von Orgères zurück. Der Tag klingt am prachtvollen Château d'Orgères entspannt aus.",
+        "hu": "Az autós túra a régi kemence történelmével kezdődik, majd a csendes Étang de la Haye Guin tóhoz vezet. Délután felfedezi a Chicanet, és megcsodálja a történelmi Chappe-távírótornyot. Később visszatér Orgères szívébe a főbb látványosságokhoz. A nap a csodálatos Château d'Orgères-nél ér kellemesen véget.",
+        "ro": "Călătoria cu mașina începe cu istoria la vechiul cuptor de pâine, ducându-vă apoi la liniștitul Étang de la Haye Guin. După-amiaza descoperiți La Chicane și admirați turnul istoric de telegraf Chappe. Mai târziu vă întoarceți în inima orașului Orgères. Ziua se încheie relaxant la magnificul Château d'Orgères.",
+        "en": "Your drive begins with history at the old bread oven, then leads you to the tranquil Étang de la Haye Guin. Midday brings you to La Chicane and the historic Chappe telegraph tower. Later, you return to the heart of Orgères for cultural sights. The day concludes wonderfully at the magnificent Château d'Orgères."
+      }
+    }
+  }
+}

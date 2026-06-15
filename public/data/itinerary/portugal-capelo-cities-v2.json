@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-capelo-cities-v2",
+  "anchor": {
+    "name": "Capelo",
+    "coords": [
+      -28.79439,
+      38.58232
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:34",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chalet do Conselheiro Terra Pinheiro",
+            "hu": "Chalet do Conselheiro Terra Pinheiro",
+            "ro": "Chalet do Conselheiro Terra Pinheiro",
+            "en": "Chalet do Conselheiro Terra Pinheiro"
+          },
+          "coords": [
+            -28.786889,
+            38.581762
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Villa wegen ihrer Architektur, wobei Sie auf dem unebenen Gelände auf bequemes Schuhwerk achten sollten.",
+            "hu": "Érdemes felfedezni ezt a történelmi villát a lenyűgöző építészete miatt, és ügyeljen a kényelmes cipőre a séták során.",
+            "ro": "Explorați această vilă istorică pentru arhitectura sa deosebită, având grijă să purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore this historic chalet to admire its unique architecture and intricate wooden details, making sure to wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Gruta do Cruzeiro",
+            "hu": "Gruta do Cruzeiro",
+            "ro": "Gruta do Cruzeiro",
+            "en": "Gruta do Cruzeiro"
+          },
+          "coords": [
+            -28.786353,
+            38.580703
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende Lavahöhle, um den vulkanischen Ursprung der Insel zu verstehen, und bringen Sie eine kleine Taschenlampe mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző lávabarlangot a sziget vulkanikus múltjának megismeréséhez, de mindenképpen hozzon magával egy zseblámpát.",
+            "ro": "Descoperiți această peșteră vulcanică fascinantă pentru a înțelege originile insulei, dar aduceți o lanternă mică pentru a vedea clar detaliile.",
+            "en": "Discover this fascinating natural cave formation to understand the island's volcanic origins, but bring a small flashlight to see the details clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Ana",
+            "hu": "Igreja de Santa Ana",
+            "ro": "Igreja de Santa Ana",
+            "en": "Igreja de Santa Ana"
+          },
+          "coords": [
+            -28.798259,
+            38.582263
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um die traditionellen Altäre zu bewundern, und denken Sie daran, sich aus Respekt angemessen zu kleiden.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja a hagyományos oltárokat, és ne feledjen a helyi hívők iránti tiszteletből szerényen öltözködni.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a vedea altarele tradiționale și amintiți-vă să vă îmbrăcați modest din respect pentru localnici.",
+            "en": "Step inside this charming church to view its beautiful traditional altars, and remember to dress modestly out of respect for the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Escorregadouro",
+            "hu": "Miradouro do Escorregadouro",
+            "ro": "Miradouro do Escorregadouro",
+            "en": "Miradouro do Escorregadouro"
+          },
+          "coords": [
+            -28.799252,
+            38.575054
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Küste von diesem Aussichtspunkt aus, und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
+            "hu": "Élvezze a tengerpartra nyíló pazar kilátást erről a festői kilátóból, és hozzon magával egy széldzsekit az erős óceáni szél miatt.",
+            "ro": "Bucurați-vă de priveliștile de coastă de la acest punct de belvedere pitoresc și aduceți o jachetă de vânt, deoarece briza mării poate fi puternică.",
+            "en": "Enjoy sweeping coastal views from this scenic lookout point that perfectly captures the ocean, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol do Vale Formoso",
+            "hu": "Farol do Vale Formoso",
+            "ro": "Farol do Vale Formoso",
+            "en": "Farol do Vale Formoso"
+          },
+          "coords": [
+            -28.811108,
+            38.581129
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Leuchtturm, der Seeleute an der rauen Küste leitet, und kommen Sie zur goldenen Stunde für tolle Fotos.",
+            "hu": "Csodálja meg ezt a lenyűgöző világítótornyot, amely a zord part mentén navigál, és látogasson el az aranyórában a legjobb fotókért.",
+            "ro": "Admirați acest far impresionant care ghidează marinarii de-a lungul coastei stâncoase și vizitați-l la ora de aur pentru fotografii spectaculoase.",
+            "en": "Marvel at this striking lighthouse that guides local sailors along the rugged coast, and visit during the golden hour for spectacular photography opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in einer historischen Villa mit viel Kultur.\n\nMittags erkunden Sie die vulkanische Vergangenheit in der Höhle und der Dorfkirche.\n\nDer Nachmittag bietet einen malerischen Spaziergang zu den dramatischen Klippen.\n\nDer Abend endet am ikonischen Leuchtturm mit Blick auf die Wellen.",
+        "hu": "A reggel egy történelmi villánál indul, megadva a kulturális alaphangot.\n\nDélben fedezze fel a vulkanikus múltat a barlangban és a helyi templomban.\n\nA délután egy festői sétát kínál a drámai tengerparti sziklák felé.\n\nAz este az ikonikus világítótoronynál zárul, figyelve a hullámokat.",
+        "ro": "Dimineața începe la o vilă istorică, oferind un ton cultural.\n\nLa amiază, explorați trecutul vulcanic la peștera locală și biserica din sat.\n\nDupă-amiaza aduce o plimbare pitorească spre stâncile dramatice de pe coastă.\n\nSeara se încheie la farul iconic, privind valurile spărgându-se.",
+        "en": "Morning starts at a grand historic chalet, setting a cultured tone.\n\nMidday invites you to delve into the volcanic past at the local cave and village church.\n\nAfternoon brings a scenic stroll towards the dramatic coastal cliffs.\n\nEvening concludes by the iconic lighthouse, watching waves crash."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "12:34",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Santa Ana",
+            "hu": "Igreja de Santa Ana",
+            "ro": "Igreja de Santa Ana",
+            "en": "Igreja de Santa Ana"
+          },
+          "coords": [
+            -28.798259,
+            38.582263
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um die traditionellen Altäre zu bewundern, und denken Sie daran, sich aus Respekt angemessen zu kleiden.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja a hagyományos oltárokat, és ne feledjen a helyi hívők iránti tiszteletből szerényen öltözködni.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a vedea altarele tradiționale și amintiți-vă să vă îmbrăcați modest din respect pentru localnici.",
+            "en": "Step inside this charming church to view its beautiful traditional altars, and remember to dress modestly out of respect for the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte dos Namorados",
+            "hu": "Fonte dos Namorados",
+            "ro": "Fonte dos Namorados",
+            "en": "Fonte dos Namorados"
+          },
+          "coords": [
+            -28.793317,
+            38.595025
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen romantischen Brunnen, der von üppiger Vegetation umgeben ist, und füllen Sie Ihre Wasserflasche für die Radtour auf.",
+            "hu": "Látogasson el ehhez a buja növényzettel körülvett romantikus kúthoz, és töltse újra a kulacsát, hogy friss maradjon a kerékpározás során.",
+            "ro": "Vizitați această fântână romantică înconjurată de vegetație luxuriantă și umpleți-vă sticla cu apă pentru a vă menține hidratat.",
+            "en": "Visit this romantic local fountain surrounded by lush vegetation, and fill your reusable water bottle here to stay refreshed during your cycling journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço da Fonte",
+            "hu": "Cabeço da Fonte",
+            "ro": "Cabeço da Fonte",
+            "en": "Cabeço da Fonte"
+          },
+          "coords": [
+            -28.797238,
+            38.594649
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen natürlichen Vulkanhügel, um die raue Geologie zu erleben, und benutzen Sie auf dem losen Kiesweg einen stabilen Stock.",
+            "hu": "Mássza meg ezt a természetes vulkáni halmot, hogy megtapasztalja az egyedi geológiát, és használjon túrabotot a laza kavicsos ösvényen.",
+            "ro": "Urcați pe această movilă vulcanică naturală pentru a experimenta geologia brută, având grijă pe poteca de pietriș cu un baston de drumeție.",
+            "en": "Hike up this natural volcanic mound to experience the raw geology of the Azores, taking care on the loose gravel path by using a sturdy walking stick."
+          }
+        },
+        {
+          "name": {
+            "de": "Furna Ruim",
+            "hu": "Furna Ruim",
+            "ro": "Furna Ruim",
+            "en": "Furna Ruim"
+          },
+          "coords": [
+            -28.802219,
+            38.59377
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick in diese tiefe vulkanische Grube, um die unglaublichen Naturkräfte zu sehen, aber bleiben Sie immer hinter den Absperrungen.",
+            "hu": "Pillantson bele ebbe a mély vulkáni gödörbe, hogy szemtanúja legyen a természet formáló erejének, de mindig maradjon a biztonsági korlátok mögött.",
+            "ro": "Priviți în această groapă vulcanică adâncă pentru a vedea forțele incredibile ale naturii, dar stați întotdeauna în spatele barierelor de siguranță.",
+            "en": "Peer into this deep volcanic pit to witness the incredible forces that shaped the landscape, but always stay securely behind the designated safety barriers."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro para o Caldeirão",
+            "hu": "Miradouro para o Caldeirão",
+            "ro": "Miradouro para o Caldeirão",
+            "en": "Miradouro para o Caldeirão"
+          },
+          "coords": [
+            -28.803881,
+            38.593987
+          ],
+          "category": "natural",
+          "arrive_at": "11:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die majestätische Caldera von diesem Aussichtspunkt und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Élvezze a fenséges kalderára nyíló panorámát ebből a kilátóból, és vigyen magával távcsövet a kráter falában fészkelő madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică a maiestuoasei caldere de la acest punct de belvedere și luați binoclul pentru a observa păsările native.",
+            "en": "Take in the panoramic view of the majestic caldera from this vantage point, and carry binoculars to spot native bird species nesting in the crater walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço do Canto",
+            "hu": "Cabeço do Canto",
+            "ro": "Cabeço do Canto",
+            "en": "Cabeço do Canto"
+          },
+          "coords": [
+            -28.811455,
+            38.597609
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen markanten Vulkankegel, um die vielfältige Flora zu sehen, und seien Sie mit einer leichten Regenjacke auf das Wetter vorbereitet.",
+            "hu": "Sétáljon körbe ezen a vulkáni kúpon, hogy megcsodálja a hamuban virágzó növényvilágot, és készüljön fel az időjárás változásaira egy esőkabáttal.",
+            "ro": "Plimbați-vă în jurul acestui con vulcanic pentru a vedea flora diversă și fiți pregătit pentru schimbările bruște de vreme cu o jachetă de ploaie.",
+            "en": "Walk around this prominent volcanic cone to see the diverse flora thriving in the ash, and be prepared for sudden weather changes with a light rain jacket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Radtour von der historischen Dorfkirche.\n\nMittags erreichen Sie einen Brunnen und faszinierende Vulkanhügel.\n\nDen Nachmittag verbringen Sie in der rauen, dramatischen Geologie der Insel.\n\nDer Abend endet in der Nähe eines Vulkankegels mit wilder Aussicht.",
+        "hu": "A reggel a történelmi falusi templomtól induló kerékpározással kezdődik.\n\nA dél megérkezik egy romantikus kúthoz és a vulkáni halmokhoz.\n\nA délutánt a sziget nyers, drámai geológiájának felfedezésével tölti.\n\nAz este egy lenyűgöző vulkáni kúp közelében ér véget, vad kilátással.",
+        "ro": "Dimineața începe cu o plimbare cu bicicleta de la biserica istorică.\n\nAmiaza vă duce la o fântână romantică și movile vulcanice fascinante.\n\nDupă-amiaza este petrecută navigând geologia brută a insulei.\n\nSeara se termină lângă un con vulcanic pentru vederi naturale sălbatice.",
+        "en": "Morning kicks off by cycling from the historic village church.\n\nMidday brings you to a romantic fountain and fascinating volcanic mounds.\n\nAfternoon is spent navigating the raw, dramatic geology of the island.\n\nEvening finishes near a striking volcanic cone for wild natural views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chalet do Conselheiro Terra Pinheiro",
+            "hu": "Chalet do Conselheiro Terra Pinheiro",
+            "ro": "Chalet do Conselheiro Terra Pinheiro",
+            "en": "Chalet do Conselheiro Terra Pinheiro"
+          },
+          "coords": [
+            -28.786889,
+            38.581762
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Villa wegen ihrer Architektur, wobei Sie auf dem unebenen Gelände auf bequemes Schuhwerk achten sollten.",
+            "hu": "Érdemes felfedezni ezt a történelmi villát a lenyűgöző építészete miatt, és ügyeljen a kényelmes cipőre a séták során.",
+            "ro": "Explorați această vilă istorică pentru arhitectura sa deosebită, având grijă să purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore this historic chalet to admire its unique architecture and intricate wooden details, making sure to wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Lazer do Norte Pequeno",
+            "hu": "Parque de Lazer do Norte Pequeno",
+            "ro": "Parque de Lazer do Norte Pequeno",
+            "en": "Parque de Lazer do Norte Pequeno"
+          },
+          "coords": [
+            -28.793957,
+            38.603715
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem friedlichen Freizeitpark mit schattigen Picknickplätzen und packen Sie lokalen Käse für ein tolles Mittagessen im Freien ein.",
+            "hu": "Pihenjen meg ebben a békés, árnyékos piknikezőhelyeket kínáló parkban, és hozzon magával helyi sajtot és kenyeret egy kellemes szabadtéri ebédhez.",
+            "ro": "Relaxați-vă în acest parc de agrement liniștit, cu zone de picnic umbrite, și aduceți brânză și pâine locală pentru un prânz încântător în aer liber.",
+            "en": "Relax at this peaceful leisure park offering shaded picnic areas, and pack some local cheese and bread from a nearby market for a delightful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Esperança",
+            "hu": "Igreja de Nossa Senhora da Esperança",
+            "ro": "Igreja de Nossa Senhora da Esperança",
+            "en": "Igreja de Nossa Senhora da Esperança"
+          },
+          "coords": [
+            -28.803386,
+            38.603124
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser lokalen Pfarrkirche und nehmen Sie sich einen Moment Zeit, um der heißen Nachmittagssonne zu entfliehen.",
+            "hu": "Csodálja meg e helyi plébániatemplom nyugodt légkörét, és szánjon egy percet arra, hogy csendben leüljön a padokba a délutáni hőség elől menekülve.",
+            "ro": "Admirați atmosfera senină a acestei biserici parohiale locale, luându-vă un moment pentru a sta liniștit în bănci și a scăpa de căldura după-amiezii.",
+            "en": "Admire the serene atmosphere of this local parish church which anchors the community, taking a moment to sit quietly in the pews to escape the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço do Canto",
+            "hu": "Cabeço do Canto",
+            "ro": "Cabeço do Canto",
+            "en": "Cabeço do Canto"
+          },
+          "coords": [
+            -28.811455,
+            38.597609
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen markanten Vulkankegel, um die vielfältige Flora zu sehen, und seien Sie mit einer leichten Regenjacke auf das Wetter vorbereitet.",
+            "hu": "Sétáljon körbe ezen a vulkáni kúpon, hogy megcsodálja a hamuban virágzó növényvilágot, és készüljön fel az időjárás változásaira egy esőkabáttal.",
+            "ro": "Plimbați-vă în jurul acestui con vulcanic pentru a vedea flora diversă și fiți pregătit pentru schimbările bruște de vreme cu o jachetă de ploaie.",
+            "en": "Walk around this prominent volcanic cone to see the diverse flora thriving in the ash, and be prepared for sudden weather changes with a light rain jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Braça",
+            "hu": "Miradouro da Braça",
+            "ro": "Miradouro da Braça",
+            "en": "Miradouro da Braça"
+          },
+          "coords": [
+            -28.817586,
+            38.585226
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Aussichtspunkt auf die dramatischen Klippen, und halten Sie Ihren Hut fest, da die vorherrschenden Winde hier überraschend stark sind.",
+            "hu": "Tekintsen le a drámai nyugati sziklákra erről a parti kilátóból, és tartsa erősen a kalapját, mivel az uralkodó szelek itt meglepően erősek.",
+            "ro": "Priviți peste stâncile dramatice de la acest punct de belvedere pe coastă și țineți-vă pălăria, deoarece vânturile predominante de aici sunt puternice.",
+            "en": "Look out over the dramatic western cliffs from this coastal viewpoint, and hold onto your hat as the prevailing winds here are surprisingly powerful."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Baixio",
+            "hu": "Miradouro do Baixio",
+            "ro": "Miradouro do Baixio",
+            "en": "Miradouro do Baixio"
+          },
+          "coords": [
+            -28.820877,
+            38.586063
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie von diesem tieferen Aussichtspunkt aus die mächtigen Wellen des Atlantiks und halten Sie bei Flut einen sicheren Abstand zum Rand.",
+            "hu": "Figyelje meg az Atlanti-óceán sziklás partnak csapódó erőteljes hullámait ebből az alsó kilátóból, biztonságos távolságot tartva a peremtől dagály idején.",
+            "ro": "Observați valurile puternice ale Atlanticului izbindu-se de țărmul stâncos de la acest nivel inferior, păstrând o distanță sigură de margine la maree.",
+            "en": "Observe the powerful Atlantic waves crashing against the rocky shore from this lower lookout, keeping a safe distance from the edge during high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol do Vale Formoso",
+            "hu": "Farol do Vale Formoso",
+            "ro": "Farol do Vale Formoso",
+            "en": "Farol do Vale Formoso"
+          },
+          "coords": [
+            -28.811108,
+            38.581129
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Leuchtturm, der Seeleute an der rauen Küste leitet, und kommen Sie zur goldenen Stunde für tolle Fotos.",
+            "hu": "Csodálja meg ezt a lenyűgöző világítótornyot, amely a zord part mentén navigál, és látogasson el az aranyórában a legjobb fotókért.",
+            "ro": "Admirați acest far impresionant care ghidează marinarii de-a lungul coastei stâncoase și vizitați-l la ora de aur pentru fotografii spectaculoase.",
+            "en": "Marvel at this striking lighthouse that guides local sailors along the rugged coast, and visit during the golden hour for spectacular photography opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt am Morgen beginnt beim lokalen Erbe in einer historischen Villa.\n\nMittags können Sie in einem grünen Park und einer Pfarrkirche entspannen.\n\nDer Nachmittag lädt ein, vulkanische Kegel und Küsten zu erkunden.\n\nDer Abend endet am hochragenden Leuchtturm und dem endlosen Horizont.",
+        "hu": "A reggeli vezetés egy jól megőrzött történelmi villánál kezdődik.\n\nA dél pihenést kínál egy zöldellő parkban és egy helyi plébániatemplomban.\n\nA délután drámai vulkáni kúpok és partvonalak felfedezésére csábít.\n\nAz este a magasodó világítótoronynál ér véget, élvezve a horizontot.",
+        "ro": "Condusul de dimineață începe cu moștenirea locală la o vilă istorică.\n\nAmiaza permite relaxarea într-un parc verde și o biserică parohială.\n\nDupă-amiaza vă invită să explorați conuri vulcanice și coaste dramatice.\n\nSeara se termină la farul impunător, bucurându-vă de orizontul nesfârșit.",
+        "en": "Morning driving begins with local heritage at a preserved historic chalet.\n\nMidday allows for relaxation in a verdant park and a parish church.\n\nAfternoon invites you to navigate dramatic volcanic cones and coastlines.\n\nEvening ends at the towering lighthouse, soaking in the endless horizon."
+      }
+    }
+  }
+}

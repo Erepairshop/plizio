@@ -1,0 +1,589 @@
+{
+  "city_id": "france-zuydcoote-cities-v2",
+  "anchor": {
+    "name": "Zuydcoote",
+    "coords": [
+      2.49071,
+      51.06391
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 4.49,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            2.494475,
+            51.060265
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
+            "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes Marchand",
+            "hu": "Dunes Marchand",
+            "ro": "Dunes Marchand",
+            "en": "Dunes Marchand"
+          },
+          "coords": [
+            2.49756,
+            51.067815
+          ],
+          "category": "natural",
+          "arrive_at": "10:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
+            "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
+            "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la dune Marchand",
+            "hu": "Réserve naturelle de la dune Marchand",
+            "ro": "Réserve naturelle de la dune Marchand",
+            "en": "Réserve naturelle de la dune Marchand"
+          },
+          "coords": [
+            2.502923,
+            51.071752
+          ],
+          "category": "natural",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
+            "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
+            "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Zuydcoote",
+            "hu": "Plage de Zuydcoote",
+            "ro": "Plage de Zuydcoote",
+            "en": "Plage de Zuydcoote"
+          },
+          "coords": [
+            2.483861,
+            51.071375
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bouée de Zuydcoote",
+            "hu": "La Bouée de Zuydcoote",
+            "ro": "La Bouée de Zuydcoote",
+            "en": "La Bouée de Zuydcoote"
+          },
+          "coords": [
+            2.486414,
+            51.071335
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ikonische Seezeichen, das die nautische Geschichte dieser Küstenlinie hervorhebt, und fotografieren Sie es am besten bei Ebbe für tolle Winkel.",
+            "hu": "Keresse meg ezt az ikonikus tengeri jelzést, amely a part hajózási történelmét hirdeti, és próbálja meg apály idején lefotózni a leglátványosabb szögek kedvéért.",
+            "ro": "Observați acest marcaj maritim iconic care evidențiază istoria navigației de pe aceste țărmuri și încercați să-l fotografiați la reflux pentru unghiuri inedite.",
+            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles."
+          }
+        },
+        {
+          "name": {
+            "de": "BlockHaus",
+            "hu": "BlockHaus",
+            "ro": "BlockHaus",
+            "en": "BlockHaus"
+          },
+          "coords": [
+            2.466492,
+            51.065335
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
+            "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
+            "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen des Dorfes an der charmanten Église Saint-Nicolas, bevor Sie nach Norden zur Küste aufbrechen. Mittags locken die atemberaubenden Dunes Marchand, eine geschützte Landschaft. Am Nachmittag bietet der weitläufige Strand von Zuydcoote einen erfrischenden Küstenspaziergang. Der Abend endet eindrucksvoll bei den historischen Blockhaus-Ruinen, die die Flut stumm beobachten.",
+        "hu": "A reggel a falu szívében, a bájos Église Saint-Nicolas templomnál indul, mielőtt észak felé, a part felé venné az irányt. A dél a lenyűgöző Dunes Marchand homokdűnéi közé hív, mely védett terület. Délután a hatalmas Zuydcoote strand frissítő tengeri sétát kínál az élénk szellőben. Az este drámai módon a történelmi BlockHaus romjainál zárul, ahogy csendben figyeli a dagályt.",
+        "ro": "Dimineața începe în inima satului la fermecătoarea Église Saint-Nicolas, înainte de a vă îndrepta spre coastă. La prânz, Dunele Marchand vă invită într-un peisaj protejat fascinant de nisipuri. După-amiaza, vasta Plajă Zuydcoote oferă o plimbare revigorantă pe țărm, însoțită de briza mării. Seara se încheie dramatic lângă ruinele istorice BlockHaus, urmărind în tăcere fluxul mării.",
+        "en": "Morning begins in the heart of the village at the charming Église Saint-Nicolas, setting a peaceful tone before you venture northward towards the coast. Midday invites you into the stunning Dunes Marchand, a protected landscape of shifting sands. In the afternoon, the expansive Plage de Zuydcoote offers an invigorating shoreline walk accompanied by the refreshing sea breeze. The evening concludes dramatically near the historical BlockHaus ruins, silently watching the tide."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 8.13,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            2.494475,
+            51.060265
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
+            "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes Marchand",
+            "hu": "Dunes Marchand",
+            "ro": "Dunes Marchand",
+            "en": "Dunes Marchand"
+          },
+          "coords": [
+            2.49756,
+            51.067815
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
+            "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
+            "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la dune Marchand",
+            "hu": "Réserve naturelle de la dune Marchand",
+            "ro": "Réserve naturelle de la dune Marchand",
+            "en": "Réserve naturelle de la dune Marchand"
+          },
+          "coords": [
+            2.502923,
+            51.071752
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
+            "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
+            "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            2.516855,
+            51.076356
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige spirituelle Zentrum mit bescheidener regionaler Architektur und treten Sie ein, um die friedliche Atmosphäre der Reflexion zu spüren.",
+            "hu": "Látogassa meg ezt a békés spirituális központot, amely szerény, mégis elegáns regionális építészeti jegyeket visel, és térjen be egy kis csendes elmélkedésre.",
+            "ro": "Vizitați acest centru spiritual liniștit cu arhitectură regională modestă, dar elegantă, și pășiți înăuntru pentru a aprecia atmosfera tăcută de reflecție.",
+            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+          },
+          "coords": [
+            2.512812,
+            51.07914
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden militärischen Denkmal Ihren Respekt, das die Tapferkeit der Infanterie ehrt, und lesen Sie die gravierten Gedenktafeln durch.",
+            "hu": "Rója le tiszteletét e megható katonai emlékműnél, amely a gépesített gyalogság hősiessége előtt tiszteleg, és szánjon időt a történelmi emléktáblák elolvasására.",
+            "ro": "Aduceți un omagiu la acest memorial militar emoționant care onorează curajul infanteriei și faceți-vă timp să citiți plăcile gravate care explică istoria locului.",
+            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvaire des Marins",
+            "hu": "Calvaire des Marins",
+            "ro": "Calvaire des Marins",
+            "en": "Calvaire des Marins"
+          },
+          "coords": [
+            2.522944,
+            51.072811
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen berührenden Seemannskalvarienberg für die auf See Gebliebenen, der weite Ausblicke bietet, und besuchen Sie ihn für die beste Stimmung bei Sonnenuntergang.",
+            "hu": "Fedezze fel ezt a tengeren elveszetteknek szentelt megható tengerész-kálváriát, amely pazar kilátást nyújt, és időzítse látogatását naplementére a hangulatért.",
+            "ro": "Descoperiți acest calvar emoționant al marinarilor dedicat celor pierduți pe mare, cu vederi panoramice, și vizitați-l la apus când lumina sporește solemnitatea.",
+            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Zuydcoote",
+            "hu": "Plage de Zuydcoote",
+            "ro": "Plage de Zuydcoote",
+            "en": "Plage de Zuydcoote"
+          },
+          "coords": [
+            2.483861,
+            51.071375
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "BlockHaus",
+            "hu": "BlockHaus",
+            "ro": "BlockHaus",
+            "en": "BlockHaus"
+          },
+          "coords": [
+            2.466492,
+            51.065335
+          ],
+          "category": "historical",
+          "arrive_at": "16:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
+            "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
+            "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens von der malerischen Église Saint-Nicolas los und genießen Sie die frische Luft auf dem Weg zu den Dünen. Die Mittagsfahrt führt durch die Ränder des Naturschutzgebiets zur Église du Sacré-Cœur. Das Nachmittagsradeln offenbart ergreifende Kriegsgeschichte an den Denkmälern, bevor Sie den breiten Strand erreichen. Der Tag endet an den dramatischen Blockhaus-Ruinen im Sonnenuntergang.",
+        "hu": "Tekerjen ki a reggeli órákban a hangulatos Église Saint-Nicolas-tól, élvezve a friss levegőt a parti dűnék felé. A déli útvonal a természetvédelmi terület zöldellő szélén halad a békés Sacré-Cœur felé. A délutáni kerékpározás a háborús emlékműveket és a széles strandot tárja fel. A napot a drámai BlockHaus melletti gurulás zárja le, amely tökéletes naplementés hátteret nyújt.",
+        "ro": "Pedalați de dimineață de la pitoreasca Église Saint-Nicolas, bucurându-vă de aer proaspăt spre dune. Traseul de prânz trece pe la marginile rezervației naturale, ducând spre liniștita Église du Sacré-Cœur. Ciclismul de după-amiază dezvăluie istoria emoționantă a războiului înainte de a ajunge pe plaja largă. Veți încheia ziua lângă dramaticul BlockHaus, perfect la apus.",
+        "en": "Pedal out from the quaint Église Saint-Nicolas this morning, enjoying the fresh air as you transition towards the coastal dunes. Your midday ride loops through the verdant edges of the Réserve naturelle, leading towards the peaceful Église du Sacré-Cœur. Afternoon cycling reveals poignant wartime history at the local memorials before reaching the wide open beach. You will end the day’s ride gliding alongside the dramatic BlockHaus, a perfect sunset backdrop."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 9.4,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            2.494475,
+            51.060265
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
+            "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes Marchand",
+            "hu": "Dunes Marchand",
+            "ro": "Dunes Marchand",
+            "en": "Dunes Marchand"
+          },
+          "coords": [
+            2.49756,
+            51.067815
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
+            "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
+            "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la dune Marchand",
+            "hu": "Réserve naturelle de la dune Marchand",
+            "ro": "Réserve naturelle de la dune Marchand",
+            "en": "Réserve naturelle de la dune Marchand"
+          },
+          "coords": [
+            2.502923,
+            51.071752
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
+            "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
+            "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            2.516855,
+            51.076356
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige spirituelle Zentrum mit bescheidener regionaler Architektur und treten Sie ein, um die friedliche Atmosphäre der Reflexion zu spüren.",
+            "hu": "Látogassa meg ezt a békés spirituális központot, amely szerény, mégis elegáns regionális építészeti jegyeket visel, és térjen be egy kis csendes elmélkedésre.",
+            "ro": "Vizitați acest centru spiritual liniștit cu arhitectură regională modestă, dar elegantă, și pășiți înăuntru pentru a aprecia atmosfera tăcută de reflecție.",
+            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+          },
+          "coords": [
+            2.512812,
+            51.07914
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden militärischen Denkmal Ihren Respekt, das die Tapferkeit der Infanterie ehrt, und lesen Sie die gravierten Gedenktafeln durch.",
+            "hu": "Rója le tiszteletét e megható katonai emlékműnél, amely a gépesített gyalogság hősiessége előtt tiszteleg, és szánjon időt a történelmi emléktáblák elolvasására.",
+            "ro": "Aduceți un omagiu la acest memorial militar emoționant care onorează curajul infanteriei și faceți-vă timp să citiți plăcile gravate care explică istoria locului.",
+            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvaire des Marins",
+            "hu": "Calvaire des Marins",
+            "ro": "Calvaire des Marins",
+            "en": "Calvaire des Marins"
+          },
+          "coords": [
+            2.522944,
+            51.072811
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen berührenden Seemannskalvarienberg für die auf See Gebliebenen, der weite Ausblicke bietet, und besuchen Sie ihn für die beste Stimmung bei Sonnenuntergang.",
+            "hu": "Fedezze fel ezt a tengeren elveszetteknek szentelt megható tengerész-kálváriát, amely pazar kilátást nyújt, és időzítse látogatását naplementére a hangulatért.",
+            "ro": "Descoperiți acest calvar emoționant al marinarilor dedicat celor pierduți pe mare, cu vederi panoramice, și vizitați-l la apus când lumina sporește solemnitatea.",
+            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Zuydcoote",
+            "hu": "Plage de Zuydcoote",
+            "ro": "Plage de Zuydcoote",
+            "en": "Plage de Zuydcoote"
+          },
+          "coords": [
+            2.483861,
+            51.071375
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bouée de Zuydcoote",
+            "hu": "La Bouée de Zuydcoote",
+            "ro": "La Bouée de Zuydcoote",
+            "en": "La Bouée de Zuydcoote"
+          },
+          "coords": [
+            2.486414,
+            51.071335
+          ],
+          "category": "landmark",
+          "arrive_at": "16:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ikonische Seezeichen, das die nautische Geschichte dieser Küstenlinie hervorhebt, und fotografieren Sie es am besten bei Ebbe für tolle Winkel.",
+            "hu": "Keresse meg ezt az ikonikus tengeri jelzést, amely a part hajózási történelmét hirdeti, és próbálja meg apály idején lefotózni a leglátványosabb szögek kedvéért.",
+            "ro": "Observați acest marcaj maritim iconic care evidențiază istoria navigației de pe aceste țărmuri și încercați să-l fotografiați la reflux pentru unghiuri inedite.",
+            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles."
+          }
+        },
+        {
+          "name": {
+            "de": "BlockHaus",
+            "hu": "BlockHaus",
+            "ro": "BlockHaus",
+            "en": "BlockHaus"
+          },
+          "coords": [
+            2.466492,
+            51.065335
+          ],
+          "category": "historical",
+          "arrive_at": "16:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
+            "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
+            "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der Église Saint-Nicolas, bevor Sie schnell die majestätischen Dünen für einen Spaziergang erreichen. Die mittägliche Fahrt verbindet mühelos das Naturschutzgebiet mit den Denkmälern im Landesinneren. Am Nachmittag fahren Sie zur Küste, um sich am weiten Strand von Zuydcoote die Beine zu vertreten. Die Dämmerung bricht herein, wenn Sie in der Nähe der Blockhäuser parken.",
+        "hu": "Az autós túra a történelmi Église Saint-Nicolas-nál kezdődik, majd gyorsan a fenséges dűnékhez ér egy kis sétára. A déli vezetés könnyedén összekapcsolja a természetvédelmi területet a szárazföldi emlékművekkel. Délután a part felé csorogva megmozgathatja lábait a hatalmas Zuydcoote strandon. Az alkony a BlockHaus közelében éri, ahol magába szívhatja e partvonal nyers történelmét.",
+        "ro": "Plimbarea cu mașina începe la Église Saint-Nicolas, înainte de a ajunge rapid la dunele mărețe. Conducerea de la prânz leagă ușor rezervația naturală de monumentele din interior, unde sunt onorate sacrificiile. După-amiaza vă veți îndrepta spre țărm pentru a vă plimba pe Plaja Zuydcoote. Crepusculul se lasă parcând lângă BlockHaus, absorbind frumusețea brută a coastei istorice.",
+        "en": "Your drive begins with the historical anchor of Église Saint-Nicolas before swiftly arriving at the majestic dunes for a nature walk. Midday driving easily links the Réserve naturelle with the inland monuments, where wartime sacrifices are honored. In the afternoon, you will cruise towards the shore to stretch your legs along the sweeping Plage de Zuydcoote. Twilight sets in as you park near the solemn BlockHaus, absorbing the raw beauty of this historical coastline."
+      }
+    }
+  }
+}

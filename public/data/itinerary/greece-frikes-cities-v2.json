@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-frikes-cities-v2",
+  "anchor": {
+    "name": "Frikes",
+    "coords": [
+      20.66377,
+      38.45831
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "First Kourvoulia",
+            "hu": "First Kourvoulia",
+            "ro": "First Kourvoulia",
+            "en": "First Kourvoulia"
+          },
+          "coords": [
+            20.669635,
+            38.458168
+          ],
+          "category": "recreational",
+          "arrive_at": "09:08",
+          "stay_min": 85,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen idyllischen Kieselstrand für ein erfrischendes morgendliches Bad, aber denken Sie daran, Wasserschuhe für das felsige Ufer mitzubringen.",
+            "hu": "Fedezze fel ezt az idilli kavicsos strandot, amely tökéletes egy frissítő reggeli úszáshoz, de ne felejtsen el vízicipőt hozni a sziklás part miatt.",
+            "ro": "Descoperiți această plajă idilică cu pietricele, perfectă pentru o baie răcoritoare de dimineață, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Discover this idyllic pebble beach perfect for a refreshing morning swim, but remember to bring water shoes to comfortably navigate the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Second Kourvoulia",
+            "hu": "Second Kourvoulia",
+            "ro": "Second Kourvoulia",
+            "en": "Second Kourvoulia"
+          },
+          "coords": [
+            20.670832,
+            38.456832
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieser kleinen Bucht, die hervorragende Schnorchelmöglichkeiten bietet, sofern Sie Ihre eigene Ausrüstung einpacken.",
+            "hu": "Élvezze ennek a kis öbölnek a kristálytiszta vizét, amely kiváló sznorkelezési lehetőségeket kínál, feltéve, hogy hoz magával saját minőségi felszerelést.",
+            "ro": "Bucurați-vă de apele cristaline ale acestui mic golf care oferă oportunități excelente de snorkeling, cu condiția să vă aduceți propriul echipament de calitate.",
+            "en": "Enjoy the serene, crystal-clear waters of this small cove that offers excellent snorkeling opportunities, provided you pack your own high-quality gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Third Kourvoulia",
+            "hu": "Third Kourvoulia",
+            "ro": "Third Kourvoulia",
+            "en": "Third Kourvoulia"
+          },
+          "coords": [
+            20.674031,
+            38.455914
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser von üppigem Grün umgebenen Bucht und kommen Sie vor Mittag an, um sich einen guten Platz im natürlichen Baumschatten zu sichern.",
+            "hu": "Pihenjen meg ezen a buja növényzettel körülvett csendes öböl sima kövein, és érkezzen dél előtt, hogy jó helyet biztosítson a természetes fa árnyékában.",
+            "ro": "Relaxați-vă pe pietrele netede ale acestui golf liniștit înconjurat de verdeață și ajungeți înainte de prânz pentru a prinde un loc bun la umbra copacilor.",
+            "en": "Relax on the smooth stones of this quiet bay surrounded by lush greenery, and arrive before midday to secure a good spot under the natural tree shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Limenia",
+            "hu": "Limenia",
+            "ro": "Limenia",
+            "en": "Limenia"
+          },
+          "coords": [
+            20.666702,
+            38.466275
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit dieses abgelegenen Küstenortes am Ionischen Meer und bringen Sie zusätzliches Trinkwasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Csodálja meg ezen eldugott tengerparti hely zord szépségét, ahol a drámai sziklák találkoznak a Jón-tengerrel, és vigyen magával extra ivóvizet a hiányzó infrastruktúra miatt.",
+            "ro": "Admirați frumusețea sălbatică a acestui loc retras unde stâncile dramatice întâlnesc Marea Ionică și luați apă potabilă suplimentară deoarece nu există facilități.",
+            "en": "Take in the rugged beauty of this secluded coastal spot where the dramatic rocks meet the Ionian Sea, and carry extra drinking water as there are no local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmaka",
+            "hu": "Marmaka",
+            "ro": "Marmaka",
+            "en": "Marmaka"
+          },
+          "coords": [
+            20.670565,
+            38.479928
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den markanten Kontrast zwischen den weißen Kieseln und dem tiefblauen Meer, wobei festes Schuhwerk für den anspruchsvollen Abstieg unerlässlich ist.",
+            "hu": "Csodálja meg a fehér kavicsok és a mélykék tenger lenyűgöző kontrasztját ezen a távoli strandon, bár a masszív cipő elengedhetetlen a kihívást jelentő leereszkedéshez.",
+            "ro": "Minunați-vă de contrastul izbitor dintre pietricelele albe și marea albastră profundă la această plajă izolată, deși o pereche de încălțăminte solidă este esențială pentru coborâre.",
+            "en": "Marvel at the striking contrast between the white pebbles and deep blue sea at this remote beach, though a sturdy pair of shoes is essential for the challenging descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang von Frikes zu den Kourvoulia-Stränden und genießen Sie das Ionische Meer. Mittags führt Sie der Küstenpfad zu versteckten Buchten und ruhigen Badeplätzen. Am Nachmittag erreichen Sie den abgelegenen Strand Limenia für ruhige Entspannung. Der Tag endet mit einem Spaziergang zur markanten Marmaka-Bucht, bevor Sie zurückkehren.",
+        "hu": "Kezdje a reggelt egy frissítő sétával Frikestől a gyönyörű Kourvoulia strandokig, élvezve a nyugodt Jón-tengert. Délben a parti ösvényen haladva rejtett öblöket és békés fürdőhelyeket fedezhet fel. Délután elérkezik az eldugott Limenia strandra, ahol csendes pihenés várja. A nap egy hosszabb sétával zárul a lenyűgöző Marmaka-öbölbe, mielőtt visszaindulna.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă de la Frikes la frumoasele plaje Kourvoulia, bucurându-vă de apele ionice. La prânz veți merge de-a lungul potecii de coastă, descoperind golfuri ascunse și locuri liniștite de înot. După-amiaza veți ajunge la plaja izolată Limenia pentru relaxare. Ziua se încheie cu o plimbare spre golful Marmaka înainte de a vă întoarce.",
+        "en": "Start your morning with a refreshing walk from Frikes to the beautiful Kourvoulia beaches, enjoying the serene Ionian waters. Midday brings you further along the coastal path, discovering hidden coves and peaceful swimming spots. In the afternoon, you will reach the secluded Limenia beach for quiet relaxation. The day ends with a longer stroll to the striking Marmaka bay before heading back."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Sammlung von Stavros",
+            "hu": "Stavros Régészeti Gyűjteménye",
+            "ro": "Colecția Arheologică din Stavros",
+            "en": "Archaeological Collection of Stavros"
+          },
+          "coords": [
+            20.645024,
+            38.452758
+          ],
+          "category": "museum",
+          "arrive_at": "09:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Geschichte Ithakas ein, indem Sie mykenische Artefakte betrachten, und überprüfen Sie im Voraus die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el Ithaka ókori történelmében a helyi mükénéi leletek megtekintésével ebben a kis múzeumban, miután előzetesen ellenőrizte a szezonális nyitvatartást.",
+            "ro": "Pătrundeți în istoria antică a Itacăi vizionând artefacte miceniene locale în acest muzeu compact, asigurându-vă că verificați în avans programul sezonier.",
+            "en": "Delve into Ithaca's ancient history by viewing local Mycenaean artifacts housed in this compact museum, making sure to check the seasonal opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schule des Homer",
+            "hu": "Homérosz iskolája",
+            "ro": "Școala lui Homer",
+            "en": "School of Homer"
+          },
+          "coords": [
+            20.637759,
+            38.460536
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Ruinen, die mit dem legendären Odysseus in Verbindung gebracht werden, und tragen Sie festes Schuhwerk für die felsigen Wege.",
+            "hu": "Fedezze fel azokat a lenyűgöző ókori romokat, amelyeket a legendás Odüsszeuszhoz kötnek, és viseljen masszív sétacipőt a sziklás, egyenetlen ösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele antice fascinante despre care se crede că sunt legate de legendarul Odiseu, purtând încălțăminte solidă pentru a parcurge în siguranță potecile stâncoase.",
+            "en": "Explore the fascinating ancient ruins widely believed to be connected to the legendary Odysseus, wearing sturdy walking shoes to safely navigate the rocky, uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Aphales",
+            "hu": "Aphales",
+            "ro": "Aphales",
+            "en": "Aphales"
+          },
+          "coords": [
+            20.642494,
+            38.467124
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von dieser spektakulären Bucht mit ihren steilen Kalksteinklippen und bringen Sie Snacks mit, da die Gegend völlig naturbelassen ist.",
+            "hu": "Készítsen lélegzetelállító fényképeket erről a meredek mészkősziklákkal övezett látványos öbölről, de hozzon saját rágcsálnivalót, mivel a terület teljesen vad és érintetlen.",
+            "ro": "Faceți fotografii uluitoare cu acest golf spectaculos încadrat de stânci abrupte de calcar, amintindu-vă să aduceți propriile gustări deoarece zona este complet sălbatică.",
+            "en": "Capture breathtaking photographs of this spectacular bay framed by sheer limestone cliffs, remembering to bring your own snacks since the area remains completely wild and untouched."
+          }
+        },
+        {
+          "name": {
+            "de": "Limenia",
+            "hu": "Limenia",
+            "ro": "Limenia",
+            "en": "Limenia"
+          },
+          "coords": [
+            20.666702,
+            38.466275
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit dieses abgelegenen Küstenortes am Ionischen Meer und bringen Sie zusätzliches Trinkwasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Csodálja meg ezen eldugott tengerparti hely zord szépségét, ahol a drámai sziklák találkoznak a Jón-tengerrel, és vigyen magával extra ivóvizet a hiányzó infrastruktúra miatt.",
+            "ro": "Admirați frumusețea sălbatică a acestui loc retras unde stâncile dramatice întâlnesc Marea Ionică și luați apă potabilă suplimentară deoarece nu există facilități.",
+            "en": "Take in the rugged beauty of this secluded coastal spot where the dramatic rocks meet the Ionian Sea, and carry extra drinking water as there are no local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "First Kourvoulia",
+            "hu": "First Kourvoulia",
+            "ro": "First Kourvoulia",
+            "en": "First Kourvoulia"
+          },
+          "coords": [
+            20.669635,
+            38.458168
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen idyllischen Kieselstrand für ein erfrischendes morgendliches Bad, aber denken Sie daran, Wasserschuhe für das felsige Ufer mitzubringen.",
+            "hu": "Fedezze fel ezt az idilli kavicsos strandot, amely tökéletes egy frissítő reggeli úszáshoz, de ne felejtsen el vízicipőt hozni a sziklás part miatt.",
+            "ro": "Descoperiți această plajă idilică cu pietricele, perfectă pentru o baie răcoritoare de dimineață, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Discover this idyllic pebble beach perfect for a refreshing morning swim, but remember to bring water shoes to comfortably navigate the rocky shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt führt Sie ins Landesinnere nach Stavros, wo im archäologischen Museum alte Mythen lebendig werden. Mittags radeln Sie zu den Ruinen der Schule von Homer und den Klippen der Aphales-Bucht. Nachmittags folgen Sie der rauen Nordküste und halten am Strand von Limenia. Ihr Abend endet mit einem entspannenden Bad am First Kourvoulia in der Nähe von Frikes.",
+        "hu": "Egy élénk reggeli kerékpározás Stavrosba visz, ahol az ősi mítoszok életre kelnek a helyi régészeti múzeumban. Délre az idilli Homérosz iskolája romjaihoz és az Aphales-öböl szikláihoz teker. A délutáni kerékpározás az északi partvonalat követi, megállva az eldugott Limenia strandon. Az este egy pihentető úszással zárul a First Kourvoulia strandon.",
+        "ro": "O plimbare de dimineață vă duce în Stavros, unde miturile antice prind viață la muzeul arheologic. La prânz veți pedala către ruinele Școlii lui Homer și stâncile din golful Aphales. Ciclismul de după-amiază urmează coasta de nord, cu o oprire la plaja retrasă Limenia. Seara se încheie cu o baie relaxantă la plaja First Kourvoulia.",
+        "en": "A brisk morning ride takes you inland to Stavros, where ancient myths come alive at the local archaeological museum. By midday, you will pedal to the evocative School of Homer ruins and the dramatic cliffs of Aphales bay. Afternoon cycling follows the rugged northern coastline, stopping at the secluded Limenia beach. Your evening concludes with a relaxing swim at First Kourvoulia."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 9.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Sammlung von Stavros",
+            "hu": "Stavros Régészeti Gyűjteménye",
+            "ro": "Colecția Arheologică din Stavros",
+            "en": "Archaeological Collection of Stavros"
+          },
+          "coords": [
+            20.645024,
+            38.452758
+          ],
+          "category": "museum",
+          "arrive_at": "09:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Geschichte Ithakas ein, indem Sie mykenische Artefakte betrachten, und überprüfen Sie im Voraus die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el Ithaka ókori történelmében a helyi mükénéi leletek megtekintésével ebben a kis múzeumban, miután előzetesen ellenőrizte a szezonális nyitvatartást.",
+            "ro": "Pătrundeți în istoria antică a Itacăi vizionând artefacte miceniene locale în acest muzeu compact, asigurându-vă că verificați în avans programul sezonier.",
+            "en": "Delve into Ithaca's ancient history by viewing local Mycenaean artifacts housed in this compact museum, making sure to check the seasonal opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schule des Homer",
+            "hu": "Homérosz iskolája",
+            "ro": "Școala lui Homer",
+            "en": "School of Homer"
+          },
+          "coords": [
+            20.637759,
+            38.460536
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Ruinen, die mit dem legendären Odysseus in Verbindung gebracht werden, und tragen Sie festes Schuhwerk für die felsigen Wege.",
+            "hu": "Fedezze fel azokat a lenyűgöző ókori romokat, amelyeket a legendás Odüsszeuszhoz kötnek, és viseljen masszív sétacipőt a sziklás, egyenetlen ösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele antice fascinante despre care se crede că sunt legate de legendarul Odiseu, purtând încălțăminte solidă pentru a parcurge în siguranță potecile stâncoase.",
+            "en": "Explore the fascinating ancient ruins widely believed to be connected to the legendary Odysseus, wearing sturdy walking shoes to safely navigate the rocky, uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Aphales",
+            "hu": "Aphales",
+            "ro": "Aphales",
+            "en": "Aphales"
+          },
+          "coords": [
+            20.642494,
+            38.467124
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von dieser spektakulären Bucht mit ihren steilen Kalksteinklippen und bringen Sie Snacks mit, da die Gegend völlig naturbelassen ist.",
+            "hu": "Készítsen lélegzetelállító fényképeket erről a meredek mészkősziklákkal övezett látványos öbölről, de hozzon saját rágcsálnivalót, mivel a terület teljesen vad és érintetlen.",
+            "ro": "Faceți fotografii uluitoare cu acest golf spectaculos încadrat de stânci abrupte de calcar, amintindu-vă să aduceți propriile gustări deoarece zona este complet sălbatică.",
+            "en": "Capture breathtaking photographs of this spectacular bay framed by sheer limestone cliffs, remembering to bring your own snacks since the area remains completely wild and untouched."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmaka",
+            "hu": "Marmaka",
+            "ro": "Marmaka",
+            "en": "Marmaka"
+          },
+          "coords": [
+            20.670565,
+            38.479928
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den markanten Kontrast zwischen den weißen Kieseln und dem tiefblauen Meer, wobei festes Schuhwerk für den anspruchsvollen Abstieg unerlässlich ist.",
+            "hu": "Csodálja meg a fehér kavicsok és a mélykék tenger lenyűgöző kontrasztját ezen a távoli strandon, bár a masszív cipő elengedhetetlen a kihívást jelentő leereszkedéshez.",
+            "ro": "Minunați-vă de contrastul izbitor dintre pietricelele albe și marea albastră profundă la această plajă izolată, deși o pereche de încălțăminte solidă este esențială pentru coborâre.",
+            "en": "Marvel at the striking contrast between the white pebbles and deep blue sea at this remote beach, though a sturdy pair of shoes is essential for the challenging descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Third Kourvoulia",
+            "hu": "Third Kourvoulia",
+            "ro": "Third Kourvoulia",
+            "en": "Third Kourvoulia"
+          },
+          "coords": [
+            20.674031,
+            38.455914
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser von üppigem Grün umgebenen Bucht und kommen Sie vor Mittag an, um sich einen guten Platz im natürlichen Baumschatten zu sichern.",
+            "hu": "Pihenjen meg ezen a buja növényzettel körülvett csendes öböl sima kövein, és érkezzen dél előtt, hogy jó helyet biztosítson a természetes fa árnyékában.",
+            "ro": "Relaxați-vă pe pietrele netede ale acestui golf liniștit înconjurat de verdeață și ajungeți înainte de prânz pentru a prinde un loc bun la umbra copacilor.",
+            "en": "Relax on the smooth stones of this quiet bay surrounded by lush greenery, and arrive before midday to secure a good spot under the natural tree shade."
+          }
+        },
+        {
+          "name": {
+            "de": "First Kourvoulia",
+            "hu": "First Kourvoulia",
+            "ro": "First Kourvoulia",
+            "en": "First Kourvoulia"
+          },
+          "coords": [
+            20.669635,
+            38.458168
+          ],
+          "category": "recreational",
+          "arrive_at": "16:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen idyllischen Kieselstrand für ein erfrischendes morgendliches Bad, aber denken Sie daran, Wasserschuhe für das felsige Ufer mitzubringen.",
+            "hu": "Fedezze fel ezt az idilli kavicsos strandot, amely tökéletes egy frissítő reggeli úszáshoz, de ne felejtsen el vízicipőt hozni a sziklás part miatt.",
+            "ro": "Descoperiți această plajă idilică cu pietricele, perfectă pentru o baie răcoritoare de dimineață, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Discover this idyllic pebble beach perfect for a refreshing morning swim, but remember to bring water shoes to comfortably navigate the rocky shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt in Stavros, wo Sie im Museum und bei den homerischen Ruinen das antike Erbe Ithakas erkunden. Gegen Mittag fahren Sie zur atemberaubenden Aphales-Bucht, um spektakuläre Ausblicke zu genießen. Der Nachmittag ist dem Strand-Hopping gewidmet, wobei Sie die malerische Marmaka-Bucht ansteuern. Beenden Sie Ihren Tag am Strand First Kourvoulia.",
+        "hu": "Autós túrája Stavrosban kezdődik, ahol a múzeumban és a homéroszi romoknál felfedezi Ithaka ókori örökségét. Dél közeledtével hajtson le a lélegzetelállító Aphales-öbölbe a látványos parti panorámáért. A délutánt a strandok bejárásának szenteljük, kanyargós utakon elérve a festői Marmaka és Third Kourvoulia öblöket. Fejezze be a napot a First Kourvoulia strandon.",
+        "ro": "Turul auto începe în Stavros, explorând moștenirea antică a Itacăi la muzeu și ruinele homerice din apropiere. La prânz conduceți spre golful uluitor Aphales pentru vederi spectaculoase ale coastei. După-amiaza este dedicată explorării plajelor, navigând pe drumurile șerpuite către pitoreasca plajă Marmaka. Încheiați-vă ziua cu o baie relaxantă la First Kourvoulia.",
+        "en": "Your driving tour starts in Stavros, exploring Ithaca's ancient heritage at the local museum and the nearby Homeric ruins. As midday approaches, drive down to the breathtaking Aphales bay for spectacular coastal views and photos. The afternoon is dedicated to beach-hopping, navigating the winding roads to the picturesque Marmaka and Third Kourvoulia. Finish your day at First Kourvoulia."
+      }
+    }
+  }
+}

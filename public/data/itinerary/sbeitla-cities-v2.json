@@ -1,0 +1,474 @@
+{
+  "city_id": "sbeitla-cities-v2",
+  "anchor": {
+    "name": "Sbeitla",
+    "coords": [
+      9.1235,
+      35.2349
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 1.83,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bogen der Tetrarchie",
+            "hu": "Tetrarchia diadalíve",
+            "ro": "Arcul Tetrarhiei",
+            "en": "Arch of the Tetrarchy"
+          },
+          "coords": [
+            9.123544,
+            35.235638
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den monumentalen Bogen der Tetrarchie, ein imposantes Tor zu Ehren vierer römischer Kaiser, und besuchen Sie ihn früh am Tag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a Tetrarchia monumentális diadalívét, amelyet négy római császár tiszteletére emeltek, és érkezzen korán, hogy a legjobb fényviszonyok között fotózhassa le a kőfaragásokat.",
+            "ro": "Admirați Arcul Tetrarhiei, o poartă monumentală construită în onoarea a patru împărați romani, și veniți la primele ore pentru a prinde cea mai bună lumină pe detaliile în piatră.",
+            "en": "Marvel at the monumental Arch of the Tetrarchy, an imposing gateway built to honor four Roman emperors, and visit early in the day for the best light to capture its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Märtyrerkirche",
+            "hu": "Mártírok temploma",
+            "ro": "Biserica Martirilor",
+            "en": "Church of the Martyrs"
+          },
+          "coords": [
+            9.120741,
+            35.238126
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antike Märtyrerkirche, die für ihre bedeutenden frühchristlichen Überreste bekannt ist, und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel az ősi Mártírok templomát, amely jelentős ókeresztény emlékeiről ismert, és viseljen kényelmes, zárt cipőt, mert a romok körüli talaj egyenetlen lehet.",
+            "ro": "Explorați Biserica Martirilor, renumită pentru vestigiile sale paleocreștine impresionante, purtând încălțăminte robustă pentru a vă deplasa în siguranță pe terenul neregulat.",
+            "en": "Explore the ancient Church of the Martyrs, noted for its significant early Christian remnants and evocative ruins, where wearing sturdy walking shoes is recommended to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen von Sbeitla",
+            "hu": "Sbeitla római romjai",
+            "ro": "Ruinele Romane din Sbeitla",
+            "en": "Roman Ruins of Sbeitla"
+          },
+          "coords": [
+            9.118776,
+            35.239973
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Herz der römischen Ruinen von Sbeitla mit ihren bemerkenswert gut erhaltenen Tempeln und engagieren Sie einen lokalen Führer am Eingang für tiefere historische Einblicke.",
+            "hu": "Sétáljon végig Sbeitla lenyűgöző római romjai között, ahol a kiválóan megőrzött templomok az ókori Sufetula történetét mesélik el, és fogadjon egy helyi idegenvezetőt a bejáratnál a részletekért.",
+            "ro": "Plimbați-vă prin inima ruinelor romane din Sbeitla, cu templele sale extrem de bine conservate, și angajați un ghid local la intrare pentru a înțelege pe deplin contextul istoric bogat.",
+            "en": "Wander through the heart of the Roman Ruins of Sbeitla, featuring remarkably well-preserved temples that tell the story of ancient Sufetula, and hire a local guide near the entrance for a deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater",
+            "hu": "Színház",
+            "ro": "Teatru",
+            "en": "Theatre"
+          },
+          "coords": [
+            9.122424,
+            35.239611
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betreten Sie das teilweise restaurierte römische Theater, einst ein Zentrum der antiken Unterhaltung mit weitem Blick über das Tal, und testen Sie die Akustik von der Mitte der Bühne aus.",
+            "hu": "Lépjen be a részben felújított római színházba, amely egykor az ókori szórakoztatás központja volt, és próbálja ki a kiváló akusztikát a színpad közepére állva.",
+            "ro": "Pășiți în Teatrul Roman parțial restaurat, cândva un centru al divertismentului antic ce oferă priveliști largi asupra văii, și testați acustica remarcabilă din centrul scenei.",
+            "en": "Step into the partially restored Roman Theatre, once a hub of ancient entertainment offering sweeping views of the valley, and try testing the acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermen",
+            "hu": "Fürdők",
+            "ro": "Terme",
+            "en": "Baths"
+          },
+          "coords": [
+            9.121166,
+            35.241413
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die weitläufigen öffentlichen Bäder, die beeindruckende Hypokausten-Heizsysteme aus der Römerzeit zeigen, und bringen Sie zusätzliches Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Vizsgálja meg a hatalmas közfürdőket, amelyek bemutatják a római kor lenyűgöző padlófűtési rendszereit, és vigyen magával elegendő ivóvizet, mivel ezen a részen alig van árnyék.",
+            "ro": "Investigați băile publice vaste, care prezintă sisteme impresionante de încălzire prin hipocaust din epoca romană, și asigurați-vă că aveți apă suplimentară, deoarece zona nu are umbră.",
+            "en": "Investigate the expansive public Baths, showcasing impressive hypocaust heating systems from the Roman era, where bringing extra water is advisable as this area offers little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatru",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            9.114584,
+            35.243636
+          ],
+          "category": "historical",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rauen Überreste des Amphitheaters am Rande des Geländes, ein perfekter Ort, um über die Gladiatorenspiele der Vergangenheit nachzudenken, achten Sie jedoch auf lose Steine.",
+            "hu": "Fedezze fel az amfiteátrum robusztus maradványait a terület szélén, amely kiváló hely a múlt gladiátorjátékainak elképzelésére, de a séta során ügyeljen a meglazult kövekre.",
+            "ro": "Descoperiți rămășițele aspre ale Amfiteatrului situate la marginea sitului, un loc perfect pentru a vă imagina jocurile de gladiatori, dar fiți atenți la pietrele alunecoase de pe potecă.",
+            "en": "Discover the rugged remnants of the Amphitheatre tucked away on the site's edge, a perfect spot to reflect on the gladiator games of the past, though beware of the loose stones along the path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Morgen am Bogen der Tetrarchie und treten Sie in die antike Geschichte ein.\n\nMittags erkunden Sie das Herz der römischen Ruinen und das faszinierende Theater.\n\nAm Nachmittag bieten die weitläufigen Thermen einen tiefen Einblick in die römische Kultur.\n\nDer Abend endet friedlich am antiken Amphitheater.",
+        "hu": "Kezdje a reggelt az impozáns Tetrarchia diadalívénél, és merüljön el az ókori történelemben.\n\nDélben fedezze fel Sbeitla római romjainak központját és a lenyűgöző színházat.\n\nDélután a hatalmas fürdők engednek bepillantást a római kultúrába.\n\nAz este békésen zárul az ősi amfiteátrum maradványai között sétálva.",
+        "ro": "Începeți dimineața la impresionantul Arc al Tetrarhiei și pășiți în istoria antică.\n\nLa prânz, explorați inima ruinelor romane din Sbeitla și teatrul captivant.\n\nDupă-amiaza, termele publice vaste vă dezvăluie cultura romană.\n\nSeara se încheie liniștit pe măsură ce vă plimbați în jurul vechiului amfiteatru.",
+        "en": "Start your morning at the imposing Arch of the Tetrarchy and step into ancient history.\n\nBy midday, explore the heart of Sbeitla's Roman ruins and the captivating theatre.\n\nIn the afternoon, the vast public baths offer deep insights into Roman culture.\n\nThe evening concludes peacefully as you wander around the ancient amphitheatre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 2.39,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Ruinen von Sbeitla",
+            "hu": "Sbeitla római romjai",
+            "ro": "Ruinele Romane din Sbeitla",
+            "en": "Roman Ruins of Sbeitla"
+          },
+          "coords": [
+            9.118776,
+            35.239973
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Herz der römischen Ruinen von Sbeitla mit ihren bemerkenswert gut erhaltenen Tempeln und engagieren Sie einen lokalen Führer am Eingang für tiefere historische Einblicke.",
+            "hu": "Sétáljon végig Sbeitla lenyűgöző római romjai között, ahol a kiválóan megőrzött templomok az ókori Sufetula történetét mesélik el, és fogadjon egy helyi idegenvezetőt a bejáratnál a részletekért.",
+            "ro": "Plimbați-vă prin inima ruinelor romane din Sbeitla, cu templele sale extrem de bine conservate, și angajați un ghid local la intrare pentru a înțelege pe deplin contextul istoric bogat.",
+            "en": "Wander through the heart of the Roman Ruins of Sbeitla, featuring remarkably well-preserved temples that tell the story of ancient Sufetula, and hire a local guide near the entrance for a deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Jucundus-Kapelle",
+            "hu": "Jucundus-kápolna",
+            "ro": "Capela lui Jucundus",
+            "en": "Chapel of Jucundus"
+          },
+          "coords": [
+            9.119609,
+            35.241673
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ruhige Jucundus-Kapelle, um das gut erhaltene frühchristliche Baptisterium zu sehen, eine ruhige Ecke, in der kleine Tafeln faszinierende lokale Geschichte offenbaren.",
+            "hu": "Látogasson el a csendes Jucundus-kápolnába, hogy megtekinthesse a jó állapotban lévő kora keresztény keresztelőkápolnát, és olvassa el a kis információs táblákat a helyi érdekességekért.",
+            "ro": "Vizitați Capela liniștită a lui Jucundus pentru a vedea baptisteriul paleocreștin bine conservat, un colț retras al sitului unde citirea plăcuțelor informative vă va dezvălui istoria locală fascinantă.",
+            "en": "Visit the serene Chapel of Jucundus to see its well-preserved early Christian baptistery, a quiet corner of the site where reading the small informational plaques reveals fascinating local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermen",
+            "hu": "Fürdők",
+            "ro": "Terme",
+            "en": "Baths"
+          },
+          "coords": [
+            9.121166,
+            35.241413
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die weitläufigen öffentlichen Bäder, die beeindruckende Hypokausten-Heizsysteme aus der Römerzeit zeigen, und bringen Sie zusätzliches Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Vizsgálja meg a hatalmas közfürdőket, amelyek bemutatják a római kor lenyűgöző padlófűtési rendszereit, és vigyen magával elegendő ivóvizet, mivel ezen a részen alig van árnyék.",
+            "ro": "Investigați băile publice vaste, care prezintă sisteme impresionante de încălzire prin hipocaust din epoca romană, și asigurați-vă că aveți apă suplimentară, deoarece zona nu are umbră.",
+            "en": "Investigate the expansive public Baths, showcasing impressive hypocaust heating systems from the Roman era, where bringing extra water is advisable as this area offers little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater",
+            "hu": "Színház",
+            "ro": "Teatru",
+            "en": "Theatre"
+          },
+          "coords": [
+            9.122424,
+            35.239611
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Betreten Sie das teilweise restaurierte römische Theater, einst ein Zentrum der antiken Unterhaltung mit weitem Blick über das Tal, und testen Sie die Akustik von der Mitte der Bühne aus.",
+            "hu": "Lépjen be a részben felújított római színházba, amely egykor az ókori szórakoztatás központja volt, és próbálja ki a kiváló akusztikát a színpad közepére állva.",
+            "ro": "Pășiți în Teatrul Roman parțial restaurat, cândva un centru al divertismentului antic ce oferă priveliști largi asupra văii, și testați acustica remarcabilă din centrul scenei.",
+            "en": "Step into the partially restored Roman Theatre, once a hub of ancient entertainment offering sweeping views of the valley, and try testing the acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Märtyrerkirche",
+            "hu": "Mártírok temploma",
+            "ro": "Biserica Martirilor",
+            "en": "Church of the Martyrs"
+          },
+          "coords": [
+            9.120741,
+            35.238126
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antike Märtyrerkirche, die für ihre bedeutenden frühchristlichen Überreste bekannt ist, und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel az ősi Mártírok templomát, amely jelentős ókeresztény emlékeiről ismert, és viseljen kényelmes, zárt cipőt, mert a romok körüli talaj egyenetlen lehet.",
+            "ro": "Explorați Biserica Martirilor, renumită pentru vestigiile sale paleocreștine impresionante, purtând încălțăminte robustă pentru a vă deplasa în siguranță pe terenul neregulat.",
+            "en": "Explore the ancient Church of the Martyrs, noted for its significant early Christian remnants and evocative ruins, where wearing sturdy walking shoes is recommended to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogen der Tetrarchie",
+            "hu": "Tetrarchia diadalíve",
+            "ro": "Arcul Tetrarhiei",
+            "en": "Arch of the Tetrarchy"
+          },
+          "coords": [
+            9.123544,
+            35.235638
+          ],
+          "category": "historical",
+          "arrive_at": "15:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie den monumentalen Bogen der Tetrarchie, ein imposantes Tor zu Ehren vierer römischer Kaiser, und besuchen Sie ihn früh am Tag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a Tetrarchia monumentális diadalívét, amelyet négy római császár tiszteletére emeltek, és érkezzen korán, hogy a legjobb fényviszonyok között fotózhassa le a kőfaragásokat.",
+            "ro": "Admirați Arcul Tetrarhiei, o poartă monumentală construită în onoarea a patru împărați romani, și veniți la primele ore pentru a prinde cea mai bună lumină pe detaliile în piatră.",
+            "en": "Marvel at the monumental Arch of the Tetrarchy, an imposing gateway built to honor four Roman emperors, and visit early in the day for the best light to capture its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquäduktbrücke",
+            "hu": "Vízvezeték híd",
+            "ro": "Podul apeductului",
+            "en": "Aqueduct bridge"
+          },
+          "coords": [
+            9.117636,
+            35.245227
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Aquäduktbrücke, die einst die blühende Stadt mit Wasser versorgte, ein technisches Wunderwerk, für dessen Aufnahme sich ein Weitwinkelobjektiv am besten eignet.",
+            "hu": "Csodálja meg az ősi vízvezeték hidat, amely egykor a virágzó várost látta el vízzel, és hozzon magával nagylátószögű objektívet, hogy a tájba simuló építményt teljes egészében lefotózhassa.",
+            "ro": "Admirați podul apeductului antic care alimenta cândva orașul prosper, o minune inginerească unde o lentilă cu unghi larg vă va ajuta să surprindeți întreaga structură în peisaj.",
+            "en": "Admire the ancient Aqueduct bridge that once supplied water to the thriving city, an engineering marvel where a wide-angle lens will help you capture the full span against the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den römischen Hauptruinen, bevor Sie zur Jucundus-Kapelle radeln.\n\nMittags erwarten Sie die antiken Thermen und das majestätische, gut erhaltene Theater.\n\nAm Nachmittag entdecken Sie die Märtyrerkirche und den großen Bogen der Tetrarchie.\n\nBeenden Sie Ihre Fahrt an der beeindruckenden Aquäduktbrücke im weichen Abendlicht.",
+        "hu": "Kezdje a reggelt a fő római romkomplexumnál, majd tekerjen el a Jucundus-kápolnához.\n\nDélben az ősi fürdők és a fenséges, jó állapotban lévő színház várja.\n\nDélután fedezze fel a Mártírok templomát és a Tetrarchia hatalmas diadalívét.\n\nZárja az utat a lenyűgöző vízvezeték hídjánál a lágy esti fényben.",
+        "ro": "Începeți dimineața la complexul principal de ruine romane înainte de a pedala spre Capela lui Jucundus.\n\nLa prânz ajungeți la băile antice și la teatrul maiestuos și bine conservat.\n\nDupă-amiaza, descoperiți Biserica Martirilor și mărețul Arc al Tetrarhiei.\n\nÎncheiați cursa la impresionantul pod al apeductului în lumina caldă a serii.",
+        "en": "Begin your morning at the main Roman ruins complex before pedaling to the Chapel of Jucundus.\n\nMidday brings you to the ancient baths and the majestic, well-preserved theatre.\n\nIn the afternoon, discover the Church of the Martyrs and the grand Arch of the Tetrarchy.\n\nConclude your ride at the impressive aqueduct bridge in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 1.36,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bogen der Tetrarchie",
+            "hu": "Tetrarchia diadalíve",
+            "ro": "Arcul Tetrarhiei",
+            "en": "Arch of the Tetrarchy"
+          },
+          "coords": [
+            9.123544,
+            35.235638
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den monumentalen Bogen der Tetrarchie, ein imposantes Tor zu Ehren vierer römischer Kaiser, und besuchen Sie ihn früh am Tag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a Tetrarchia monumentális diadalívét, amelyet négy római császár tiszteletére emeltek, és érkezzen korán, hogy a legjobb fényviszonyok között fotózhassa le a kőfaragásokat.",
+            "ro": "Admirați Arcul Tetrarhiei, o poartă monumentală construită în onoarea a patru împărați romani, și veniți la primele ore pentru a prinde cea mai bună lumină pe detaliile în piatră.",
+            "en": "Marvel at the monumental Arch of the Tetrarchy, an imposing gateway built to honor four Roman emperors, and visit early in the day for the best light to capture its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater",
+            "hu": "Színház",
+            "ro": "Teatru",
+            "en": "Theatre"
+          },
+          "coords": [
+            9.122424,
+            35.239611
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie das teilweise restaurierte römische Theater, einst ein Zentrum der antiken Unterhaltung mit weitem Blick über das Tal, und testen Sie die Akustik von der Mitte der Bühne aus.",
+            "hu": "Lépjen be a részben felújított római színházba, amely egykor az ókori szórakoztatás központja volt, és próbálja ki a kiváló akusztikát a színpad közepére állva.",
+            "ro": "Pășiți în Teatrul Roman parțial restaurat, cândva un centru al divertismentului antic ce oferă priveliști largi asupra văii, și testați acustica remarcabilă din centrul scenei.",
+            "en": "Step into the partially restored Roman Theatre, once a hub of ancient entertainment offering sweeping views of the valley, and try testing the acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen von Sbeitla",
+            "hu": "Sbeitla római romjai",
+            "ro": "Ruinele Romane din Sbeitla",
+            "en": "Roman Ruins of Sbeitla"
+          },
+          "coords": [
+            9.118776,
+            35.239973
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Herz der römischen Ruinen von Sbeitla mit ihren bemerkenswert gut erhaltenen Tempeln und engagieren Sie einen lokalen Führer am Eingang für tiefere historische Einblicke.",
+            "hu": "Sétáljon végig Sbeitla lenyűgöző római romjai között, ahol a kiválóan megőrzött templomok az ókori Sufetula történetét mesélik el, és fogadjon egy helyi idegenvezetőt a bejáratnál a részletekért.",
+            "ro": "Plimbați-vă prin inima ruinelor romane din Sbeitla, cu templele sale extrem de bine conservate, și angajați un ghid local la intrare pentru a înțelege pe deplin contextul istoric bogat.",
+            "en": "Wander through the heart of the Roman Ruins of Sbeitla, featuring remarkably well-preserved temples that tell the story of ancient Sufetula, and hire a local guide near the entrance for a deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel",
+            "hu": "Templom",
+            "ro": "Templu",
+            "en": "Temple"
+          },
+          "coords": [
+            9.116253,
+            35.243097
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Blicken Sie zu den imposanten Säulen des Tempels hinauf, der den antiken Göttern gewidmet ist und am besten vom Forumsplatz aus betrachtet wird, um seine wahren Dimensionen zu erfassen.",
+            "hu": "Tekintsen fel az ősi isteneknek szentelt templom impozáns oszlopaira, amelyek a klasszikus építészet remekművei, és a legjobb rálátás érdekében a fórum térről csodálja meg a méreteit.",
+            "ro": "Priviți coloanele impunătoare ale Templului, dedicat zeilor antici și o mărturie a arhitecturii clasice, pe care este recomandat să-l vizualizați din piața forumului pentru a-i aprecia dimensiunea.",
+            "en": "Gaze up at the imposing columns of the Temple, dedicated to the ancient gods and standing as a testament to classical architecture, best viewed from the forum square for optimal scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatru",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            9.114584,
+            35.243636
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rauen Überreste des Amphitheaters am Rande des Geländes, ein perfekter Ort, um über die Gladiatorenspiele der Vergangenheit nachzudenken, achten Sie jedoch auf lose Steine.",
+            "hu": "Fedezze fel az amfiteátrum robusztus maradványait a terület szélén, amely kiváló hely a múlt gladiátorjátékainak elképzelésére, de a séta során ügyeljen a meglazult kövekre.",
+            "ro": "Descoperiți rămășițele aspre ale Amfiteatrului situate la marginea sitului, un loc perfect pentru a vă imagina jocurile de gladiatori, dar fiți atenți la pietrele alunecoase de pe potecă.",
+            "en": "Discover the rugged remnants of the Amphitheatre tucked away on the site's edge, a perfect spot to reflect on the gladiator games of the past, though beware of the loose stones along the path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Bogen der Tetrarchie, um Ihre Zeitreise zu beginnen.\n\nMittags besuchen Sie das antike Theater und die zentralen römischen Ruinen von Sufetula.\n\nAm Nachmittag können Sie die massiven Säulen des monumentalen Tempelkomplexes bestaunen.\n\nEntspannen Sie am Ende des Abends zwischen den historischen Steinen des großen Amphitheaters.",
+        "hu": "Vezessen reggel a Tetrarchia diadalívéhez, és kezdje meg az időutazást.\n\nDélben látogasson el az ősi színházba és az egykori Sufetula központi római romjaihoz.\n\nDélután csodálja meg a monumentális templomkomplexum hatalmas oszlopait.\n\nPihenjen meg az este végén a hatalmas amfiteátrum történelmi kövei között.",
+        "ro": "Conduceți dimineața la Arcul Tetrarhiei pentru a vă începe călătoria în timp.\n\nLa prânz, vizitați teatrul antic și ruinele romane centrale ale vechiului Sufetula.\n\nDupă-amiaza, admirați coloanele masive ale complexului monumental de temple.\n\nRelaxați-vă la finalul serii printre pietrele istorice ale marelui amfiteatru.",
+        "en": "Drive to the Arch of the Tetrarchy in the morning to start your journey through time.\n\nBy midday, visit the ancient theatre and the central Roman ruins of old Sufetula.\n\nIn the afternoon, marvel at the massive columns of the monumental temple complex.\n\nRelax at the end of the evening among the historical stones of the grand amphitheatre."
+      }
+    }
+  }
+}

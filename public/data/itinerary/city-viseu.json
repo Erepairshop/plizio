@@ -1,0 +1,474 @@
+{
+  "city_id": "city-viseu",
+  "anchor": {
+    "name": "Viseu",
+    "coords": [
+      -7.9125,
+      40.661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquilino Ribeiro Park",
+            "hu": "Aquilino Ribeiro Park",
+            "ro": "Parcul Aquilino Ribeiro",
+            "en": "Aquilino Ribeiro Park"
+          },
+          "coords": [
+            -7.915674,
+            40.655621
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in dieser üppigen, weitläufigen Stadtoase mit exotischen Bäumen, wo ein ruhiger Morgenspaziergang vor dem Eintreffen der Massen herrlich ist.",
+            "hu": "Kezdje a napot ebben a buja, egzotikus fákkal teli hatalmas oázisban, és tegyen egy csendes, békés reggeli sétát a nagyobb turistatömegek érkezése előtt.",
+            "ro": "Începeți ziua în această oază urbană luxuriantă plină de arbori exotici, făcând o plimbare liniștită de dimineață înainte ca aglomerația să umple aleile.",
+            "en": "Start your day in this lush, expansive urban oasis filled with exotic trees, taking a peaceful morning stroll before the crowds arrive and the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralha Romana da Rua Formosa",
+            "hu": "Rua Formosa római fala",
+            "ro": "Zidul Roman de pe Rua Formosa",
+            "en": "Roman Wall of Rua Formosa"
+          },
+          "coords": [
+            -7.910854,
+            40.657117
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese beeindruckenden römischen Mauerfragmente sicher unter massiven Glasplatten und achten Sie auf das faszinierende alte Mauerwerk der Erbauer.",
+            "hu": "Csodálja meg az üvegpanelek alatt biztonságosan látható, lenyűgöző római faldarabokat, különös figyelmet szentelve az egykori építők ősi, masszív falazatának.",
+            "ro": "Admirați aceste fragmente impresionante de zid roman vizibile în siguranță sub panouri de sticlă, observând zidăria antică și măiestria constructorilor vechi.",
+            "en": "Admire these impressive Roman wall fragments safely visible beneath glass panels underfoot, paying attention to the intricate ancient masonry of the builders."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de História da Cidade",
+            "hu": "Várostörténeti Múzeum",
+            "ro": "Muzeul de Istorie a Orașului",
+            "en": "City History Museum"
+          },
+          "coords": [
+            -7.910616,
+            40.658691
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Viseus reiche Vergangenheit in interaktiven Ausstellungen, bei denen Sie unbedingt die Multimedia-Präsentationen für mehr Kontext nutzen sollten.",
+            "hu": "Fedezze fel Viseu gazdag múltját az interaktív kiállításokon keresztül; a történelmi kontextus megértéséhez mindenképpen érdemes használni a multimédiás paneleket.",
+            "ro": "Descoperiți trecutul bogat al orașului Viseu prin expoziții interactive în acest muzeu; asigurați-vă că verificați afișajele multimedia pentru context istoric.",
+            "en": "Discover Viseu's rich past through interactive exhibits in this engaging local museum, where checking the multimedia displays is highly recommended for context."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Misericórdia de Viseu",
+            "hu": "Misericórdia Múzeum",
+            "ro": "Muzeul Misericórdia din Viseu",
+            "en": "Misericórdia Museum of Viseu"
+          },
+          "coords": [
+            -7.911729,
+            40.6602
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesige Sammlung sakraler Kunst in diesem Museum und nehmen Sie sich Zeit, die wunderschön erhaltenen barocken Details genau zu bewundern.",
+            "hu": "Fedezze fel a szakrális művészet hatalmas gyűjteményét ebben a lenyűgöző múzeumban, és szánjon egy percet a gyönyörűen megőrzött barokk részletek megcsodálására.",
+            "ro": "Explorați o colecție vastă de artă sacră și artefacte istorice uimitoare, făcându-vă timp pentru a aprecia detaliile baroce frumos conservate din interior.",
+            "en": "Explore a vast collection of sacred art and historical artifacts in this stunning museum, taking a moment to appreciate the beautifully preserved baroque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralha de Viseu",
+            "hu": "Viseu városfala",
+            "ro": "Zidul orașului Viseu",
+            "en": "Viseu City Wall"
+          },
+          "coords": [
+            -7.907282,
+            40.659769
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der imposanten Überreste der mittelalterlichen Stadtmauer und halten Sie unbedingt Ausschau nach den noch erhaltenen authentischen Toren.",
+            "hu": "Sétáljon az óvárost egykor védelmező középkori városfalak impozáns maradványai mentén, és tartsa nyitva a szemét a máig megmaradt hiteles, eredeti kapukért.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor impunătoare ale zidurilor medievale care protejau orașul, căutând cu atenție porțile originale autentice rămase intacte.",
+            "en": "Walk alongside the imposing remnants of the medieval city walls that protected the old town, keeping a close eye out for the remaining authentic original gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Viriato",
+            "hu": "Teatro Viriato",
+            "ro": "Teatrul Viriato",
+            "en": "Teatro Viriato"
+          },
+          "coords": [
+            -7.908173,
+            40.660882
+          ],
+          "category": "cultural",
+          "arrive_at": "16:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem wunderschön restaurierten historischen Theater, wo Sie das Programm prüfen oder einfach die prachtvolle Fassade bewundern.",
+            "hu": "Fejezze be a sétát ennél a gyönyörűen felújított történelmi színházépületnél; nézze meg az esti műsort, vagy csak csodálja meg a lenyűgöző, grandiózus homlokzatot.",
+            "ro": "Încheiați-vă turul pietonal la acest teatru istoric frumos restaurat; verificați programul de seară sau pur și simplu admirați fațada grandioasă din stradă.",
+            "en": "Conclude your walking tour at this beautifully restored historic theater building; check the schedule for evening performances or simply admire the grand facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie im friedlichen Aquilino Ribeiro Park und entdecken Sie dann die verborgenen römischen Mauern unter der Rua Formosa.\nMittags: Besuchen Sie das Museu de História da Cidade, um mehr über die Ursprünge von Viseu zu erfahren, bevor Sie eine Mittagspause einlegen.\nNachmittags: Bestaunen Sie die religiöse Kunst im Museu da Misericórdia und spazieren Sie entlang der alten mittelalterlichen Stadtmauern.\nAbends: Beenden Sie den Tag am wunderschönen Teatro Viriato, wo Sie die lebhafte Atmosphäre des beleuchteten historischen Zentrums genießen.",
+        "hu": "Délelőtt: Kezdje a békés Aquilino Ribeiro Parkban, majd fedezze fel a Rua Formosa alatt rejtőző, lenyűgöző római kori falmaradványokat.\nDélben: Látogasson el a Museu de História da Cidade-ba, hogy megismerje Viseu eredetét, mielőtt megejt egy jól megérdemelt ebédszünetet.\nDélután: Töltse a délutánt a Museu da Misericórdia vallási művészetének megcsodálásával, majd sétáljon az ókori középkori falak mentén.\nEste: Fejezze be a napot a Teatro Viriato közelében, élvezze az előadást vagy csak a kivilágított történelmi központ nyüzsgő hangulatát.",
+        "ro": "Dimineața: Începeți în parcul liniștit Aquilino Ribeiro, apoi descoperiți zidurile romane ascunse sub pavajul de sticlă de pe Rua Formosa.\nAmiaza: Vizitați Museu de História da Cidade pentru a afla despre originile orașului Viseu înainte de a lua o binemeritată pauză de prânz.\nDupă-amiaza: Petreceți după-amiaza admirând arta religioasă la Museu da Misericórdia și urmărind liniile vechilor ziduri medievale.\nSeara: Încheiați ziua lângă Teatro Viriato, bucurându-vă de un spectacol sau pur și simplu de atmosfera plină de viață a centrului istoric.",
+        "en": "Morning: Start in the peaceful Aquilino Ribeiro Park, breathing in the fresh air before discovering the hidden Roman walls beneath Rua Formosa.\nMidday: As the sun climbs, head into the Museu de História da Cidade to learn about Viseu's origins before taking a well-deserved lunch break.\nAfternoon: Spend the afternoon marveling at the religious art in Museu da Misericórdia and tracing the ancient lines of the old medieval walls.\nEvening: Conclude the walking day near Teatro Viriato, perhaps catching a show or simply enjoying the lively atmosphere of the illuminated historic center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:56",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Monitorização e Interpretação Ambiental",
+            "hu": "Környezetvédelmi és Megfigyelő Központ",
+            "ro": "Centrul de Monitorizare și Interpretare a Mediului",
+            "en": "Environmental Monitoring and Interpretation Center"
+          },
+          "coords": [
+            -7.919554,
+            40.662946
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit Wissenswertem über die lokale Ökologie und nehmen Sie am Empfang unbedingt eine Karte der nahegelegenen Naturpfade für die Radtour mit.",
+            "hu": "Kezdje a kerékpáros napot a helyi ökológia megismerésével ezen a helyen, és mindenképpen kérjen egy térképet a közeli természetjáró ösvényekről a recepción.",
+            "ro": "Începeți ziua învățând despre ecologia locală și conservarea râurilor; asigurați-vă că luați o hartă a traseelor naturale din apropiere de la recepție.",
+            "en": "Start your cycling day learning about local ecology and river conservation at this spot, ensuring you pick up a map of nearby nature trails at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Ribeira",
+            "hu": "Casa da Ribeira",
+            "ro": "Casa da Ribeira",
+            "en": "Casa da Ribeira"
+          },
+          "coords": [
+            -7.910148,
+            40.663447
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle Handwerkskunst am Fluss und nehmen Sie sich ausreichend Zeit, den fesselnden und informativen kurzen Dokumentarfilm hier anzusehen.",
+            "hu": "Fedezze fel a folyóparti kézműves hagyományokat és a helyi mestereket, majd szánjon elegendő időt a benti, lenyűgöző és informatív rövid dokumentumfilmre is.",
+            "ro": "Descoperiți măiestria tradițională și istoria artizanilor locali pe malul râului; faceți-vă timp pentru a viziona scurtul documentar captivant din interior.",
+            "en": "Discover traditional craftsmanship and the history of local artisans by the river, taking adequate time to watch the engaging and informative short documentary."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar do Dão",
+            "hu": "Solar do Dão",
+            "ro": "Solar do Dão",
+            "en": "Solar do Dão"
+          },
+          "coords": [
+            -7.901121,
+            40.661365
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses regionalen Hauptsitzes und betreten Sie den Innenhof für einen wunderbar ruhigen Blick in das aristokratische Leben.",
+            "hu": "Csodálja meg a regionális központ hihetetlenül elegáns építészetét, és ha teheti, lépjen be a belső udvarra egy kis csendes, arisztokratikus hangulatért.",
+            "ro": "Admirați arhitectura incredibil de elegantă a acestui sediu regional; dacă este posibil, intrați în curte pentru o scurtă privire asupra vieții aristocratice.",
+            "en": "Admire the incredibly elegant architecture of this prominent regional headquarters; if possible, step inside the courtyard for a quiet glimpse of aristocratic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralha de Viseu",
+            "hu": "Viseu városfala",
+            "ro": "Zidul orașului Viseu",
+            "en": "Viseu City Wall"
+          },
+          "coords": [
+            -7.907282,
+            40.659769
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie an den imposanten mittelalterlichen Steinmauern vorbei und halten Sie an breiteren Straßenabschnitten sicher an, um atemberaubende Fotos zu machen.",
+            "hu": "Kerékpározzon el az egykor Viseut védő, impozáns középkori kőfalak mellett, és álljon meg a biztonságosabb, szélesebb részeken néhány lenyűgöző fotó erejéig.",
+            "ro": "Pedalați pe lângă zidurile medievale de piatră impunătoare, oprindu-vă în siguranță în secțiunile mai late ale drumului pentru a face câteva fotografii istorice.",
+            "en": "Cycle right past the imposing medieval stone walls that once fortified Viseu, pausing safely at the wider road sections to snap a few stunning historic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Misericórdia de Viseu",
+            "hu": "Misericórdia Múzeum",
+            "ro": "Muzeul Misericórdia din Viseu",
+            "en": "Misericórdia Museum of Viseu"
+          },
+          "coords": [
+            -7.911729,
+            40.6602
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie in dieses Museum für sakrale Kunst ein; achten Sie besonders auf die unglaublich detaillierten Altarschnitzereien.",
+            "hu": "Zárja le biztonságosan kerékpárját, és merüljön el a szakrális művészetben, különös figyelmet fordítva a hihetetlenül részletesen kidolgozott, faragott oltárképekre.",
+            "ro": "Blocați bicicleta în siguranță afară și cufundați-vă în acest muzeu de artă sacră, acordând o atenție deosebită altarelor sculptate cu detalii incredibile.",
+            "en": "Lock your bike securely outside and immerse yourself in this rich museum of sacred art, paying special attention to the incredibly detailed carved altar pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquilino Ribeiro Park",
+            "hu": "Aquilino Ribeiro Park",
+            "ro": "Parcul Aquilino Ribeiro",
+            "en": "Aquilino Ribeiro Park"
+          },
+          "coords": [
+            -7.915674,
+            40.655621
+          ],
+          "category": "park",
+          "arrive_at": "17:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erholen Sie sich von Ihrer ausgiebigen Radtour in diesem weitläufigen grünen Park und suchen Sie sich eine schattige Bank unter alten Bäumen zum Entspannen.",
+            "hu": "Pihenje ki a hosszú kerékpározás fáradalmait ebben a hatalmas zöld parkban, és keressen egy árnyékos padot az ősi fák alatt a vacsora előtti teljes lazításhoz.",
+            "ro": "Relaxați-vă după plimbarea lungă cu bicicleta în acest parc verde, găsind o bancă umbrită sub copacii antici pentru a vă odihni complet înainte de cină.",
+            "en": "Unwind from your extensive biking journey in this expansive green park, finding a shaded bench under the ancient trees to fully relax before heading out to dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Starten Sie mit Umwelteinblicken im Interpretationszentrum und radeln Sie dann gemütlich am Fluss entlang zur Casa da Ribeira.\nMittags: Fahren Sie zum historischen Solar do Dão, um dessen Architektur zu bewundern, bevor Sie einen kleinen Snack im Zentrum genießen.\nNachmittags: Folgen Sie den Überresten der mittelalterlichen Stadtmauern und legen Sie einen kulturellen Halt im Museu da Misericórdia ein.\nAbends: Stellen Sie Ihr Fahrrad ab und lassen Sie den Tag unter den alten Bäumen des Aquilino Ribeiro Parks entspannt ausklingen.",
+        "hu": "Délelőtt: Kezdje a kerékpáros túrát a környezetvédelmi központban, majd tekerjen a folyó mentén a Casa da Ribeira kézműves kiállításához.\nDélben: Irány a történelmi Solar do Dão az elegáns építészet megcsodálásához, mielőtt bekapna valami finomat az óváros szívében.\nDélután: Kövesse két keréken a középkori városfalak maradványait, majd tartson kulturális pihenőt a Museu da Misericórdia falai között.\nEste: Parkolja le a kerékpárt, és vezesse le a napot az Aquilino Ribeiro Park ősi fái között, miközben lassan leereszkedik az est.",
+        "ro": "Dimineața: Începeți turul cu bicicleta la centrul de mediu, apoi pedalați relaxat de-a lungul râului până la muzeul Casa da Ribeira.\nAmiaza: Îndreptați-vă spre istoricul Solar do Dão pentru a-i admira arhitectura înainte de a lua o gustare rapidă în centrul orașului.\nDupă-amiaza: Urmați rămășițele zidurilor medievale pe două roți, urmată de o oprire culturală profundă la Museu da Misericórdia.\nSeara: Parcați bicicleta și încheiați ziua printre copacii bătrâni din Parcul Aquilino Ribeiro, în timp ce umbrele serii încep să cadă.",
+        "en": "Morning: Kick off your cycling tour with environmental insights at the interpretation center, then pedal along the river to Casa da Ribeira.\nMidday: Head towards the historic Solar do Dão to admire its architecture before grabbing a quick, refreshing bite in the historic center.\nAfternoon: Follow the remnants of the medieval city walls on two wheels, followed by a cultural stop at the Museu da Misericórdia.\nEvening: Park your bike and wind down the day amid the ancient trees of Aquilino Ribeiro Park as the evening shadows begin to fall."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Estrada Romana Imperador Cláudio",
+            "hu": "Claudius császár római útja",
+            "ro": "Drumul Roman Împăratul Claudius",
+            "en": "Roman Road of Emperor Claudius"
+          },
+          "coords": [
+            -7.895977,
+            40.641679
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem gut erhaltenen Stück alter Römerstraße und tragen Sie unbedingt festes Schuhwerk, um bequem auf den unebenen Originalsteinen zu laufen.",
+            "hu": "Vezessen ki ehhez a figyelemre méltóan megőrzött ősi római útszakaszhoz; viseljen kényelmes, masszív cipőt az egyenetlen eredeti köveken való sétához.",
+            "ro": "Conduceți pentru a vedea această porțiune bine conservată a drumului roman; purtați încălțăminte robustă pentru a merge confortabil pe pietrele originale inegale.",
+            "en": "Drive out to see this remarkably preserved stretch of ancient Roman road, making sure to wear sturdy shoes to comfortably walk along the uneven original paving stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Aula Magna do IPV",
+            "hu": "IPV Aula Magna",
+            "ro": "Aula Magna IPV",
+            "en": "Aula Magna of IPV"
+          },
+          "coords": [
+            -7.919883,
+            40.646497
+          ],
+          "category": "cultural",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Parken Sie bequem in der Nähe, um diesen modernen architektonischen Kontrast zu Viseus Altstadt und die klaren Linien des Bildungscampus zu betrachten.",
+            "hu": "Parkoljon le a közelben, hogy megnézze Viseu óvárosának ezt a lenyűgöző modern architektonikus kontrasztját, értékelve az oktatási kampusz letisztult vonalait.",
+            "ro": "Parcați ușor în apropiere pentru a vedea acest contrast arhitectural modern cu orașul vechi, apreciind liniile curate și contemporane ale campusului educațional.",
+            "en": "Park easily nearby to view this stunning modern architectural contrast to Viseu's old town, appreciating the clean, contemporary lines of the educational campus."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquilino Ribeiro Park",
+            "hu": "Aquilino Ribeiro Park",
+            "ro": "Parcul Aquilino Ribeiro",
+            "en": "Aquilino Ribeiro Park"
+          },
+          "coords": [
+            -7.915674,
+            40.655621
+          ],
+          "category": "park",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Vertreten Sie sich in diesem zentralen Park mit seiner botanischen Vielfalt die Beine und nutzen Sie die nahegelegenen Parkplätze für einen ruhigen Spaziergang.",
+            "hu": "Nyújtóztassa ki a lábát ebben a gyönyörű botanikai sokszínűséggel rendelkező központi parkban; használja a közeli parkolókat egy igazán kellemes, békés sétához.",
+            "ro": "Întindeți-vă picioarele în acest parc central cu o diversitate botanică frumoasă, folosind parcările publice din apropiere înainte de a face o plimbare plăcută.",
+            "en": "Stretch your legs in this central park featuring beautiful botanical diversity, using the nearby public parking spaces before taking a pleasant, peaceful walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Almeida Moreira",
+            "hu": "Almeida Moreira Múzeum",
+            "ro": "Muzeul Almeida Moreira",
+            "en": "Almeida Moreira Museum"
+          },
+          "coords": [
+            -7.913276,
+            40.65857
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Haus einer einflussreichen Persönlichkeit voller Kunst und bewundern Sie die atemberaubenden Azulejos, die die gesamte Fassade schmücken.",
+            "hu": "Fedezze fel egy befolyásos helyi személyiség művészettel teli egykori otthonát, és figyelje meg a külsejét gyönyörűen díszítő, lenyűgöző azulejo csempéket.",
+            "ro": "Explorați fosta casă a unei figuri locale influente, plină de artă strălucitoare; remarcați plăcile uimitoare de azulejo care decorează frumos tot exteriorul.",
+            "en": "Explore the former home of an influential local figure filled with brilliant art and antiques, noticing the stunning azulejo tiles that beautifully decorate the exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Coleção Arqueológica José Coelho",
+            "hu": "José Coelho Régészeti Gyűjtemény",
+            "ro": "Colecția Arheologică José Coelho",
+            "en": "José Coelho Archaeological Collection"
+          },
+          "coords": [
+            -7.910819,
+            40.660787
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in prähistorische und römische Funde aus der Region ein und lesen Sie die Beschriftungen für entscheidende Kontexte zu Viseus allerersten Tagen.",
+            "hu": "Merüljön el a régió történelem előtti és római kori leleteiben; az alapos feliratok lenyűgöző és létfontosságú kontextust adnak Viseu legkorábbi, ősi napjairól.",
+            "ro": "Explorați descoperirile arheologice fascinante din regiune și citiți cu atenție etichetele pentru un context vital despre primele zile istorice ale orașului.",
+            "en": "Dive into fascinating prehistoric and Roman archaeological finds gathered from the region, carefully checking the descriptive labels for vital context on Viseu's earliest days."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Ribeira",
+            "hu": "Casa da Ribeira",
+            "ro": "Casa da Ribeira",
+            "en": "Casa da Ribeira"
+          },
+          "coords": [
+            -7.910148,
+            40.663447
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem schönen Museum für traditionelles Handwerk am Fluss und parken Sie in den nahen Seitenstraßen, um den weiten Wasserblick zu genießen.",
+            "hu": "Fejezze be az autós túrát a hagyományos mesterségeket bemutató folyóparti múzeumban; parkoljon a közeli utcákban, és élvezze igazán a lenyűgöző, széles vízparti kilátást.",
+            "ro": "Terminați-vă călătoria la acest muzeu de pe malul râului care prezintă meșteșuguri tradiționale, parcând pe străzi pentru a vă bucura de priveliștile ample ale apei.",
+            "en": "Finish your road trip at this lovely riverside museum showcasing traditional crafts, finding parking along the nearby streets to truly enjoy the sweeping water views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie an den Stadtrand, um entlang der gut erhaltenen römischen Straße zu spazieren – ein ruhiger Start in den Tag.\nMittags: Sehen Sie sich die moderne Architektur des IPV-Campus an und machen Sie dann eine erholsame Pause im Aquilino Ribeiro Park.\nNachmittags: Fahren Sie ins Zentrum, um die Kunst im Museu de Almeida Moreira und die archäologischen Schätze in der Nähe zu entdecken.\nAbends: Beenden Sie den Tag mit einer kurzen Fahrt zur Casa da Ribeira am Fluss und lassen Sie das Erbe Viseus beim Sonnenuntergang auf sich wirken.",
+        "hu": "Délelőtt: Vezessen ki a város szélére, hogy tegyen egy sétát a figyelemre méltóan megőrzött ősi római úton, békés történelmi kezdésként.\nDélben: Nézze meg az IPV kampusz modern építészetét, majd irány az Aquilino Ribeiro Park egy pihentető, természetközeli szünetre.\nDélután: Térjen vissza a központba a Museu de Almeida Moreira eklektikus művészetének és a közeli régészeti kincseknek a felfedezéséhez.\nEste: Zárja a napot egy rövid autózással a folyóparti Casa da Ribeira-hoz, felidézve Viseu örökségét, ahogy a nap lenyugszik a vízen.",
+        "ro": "Dimineața: Conduceți spre marginea orașului pentru a vă plimba pe vechiul drum roman, un început liniștit pentru o călătorie istorică.\nAmiaza: Vedeți arhitectura modernă la campusul IPV, apoi mergeți în Parcul Aquilino Ribeiro pentru o pauză relaxantă în natură.\nDupă-amiaza: Reveniți în centru pentru a explora arta la Museu de Almeida Moreira și comorile arheologice fascinante din apropiere.\nSeara: Încheiați cu o scurtă plimbare cu mașina până la Casa da Ribeira de pe malul râului, privind apusul deasupra apei sclipitoare.",
+        "en": "Morning: Drive out to the city's outskirts to walk along the remarkably preserved ancient Roman road, a quiet start to your historical journey.\nMidday: View the modern architecture at the IPV campus, then head to Aquilino Ribeiro Park for a relaxing break in nature before lunch.\nAfternoon: Navigate back to the center to explore the eclectic art collections at Museu de Almeida Moreira and the archaeological treasures nearby.\nEvening: Conclude the day with a short drive to the riverside Casa da Ribeira, reflecting on Viseu's heritage as the sun sets over the water."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "uk-southport-cities-v2",
+  "anchor": {
+    "name": "Southport",
+    "coords": [
+      -3.0081,
+      53.6469
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.01,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Atkinson",
+            "hu": "The Atkinson",
+            "ro": "The Atkinson",
+            "en": "The Atkinson"
+          },
+          "coords": [
+            -3.006,
+            53.6472
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Kulturzentrum mit lokaler Geschichte und Kunst, aber verpassen Sie nicht die großartige ägyptische Galerie im obersten Stockwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző kulturális központot, amely a helyi történelmet és művészetet mutatja be, de mindenképpen nézze meg az egyiptomi galériát a legfelső emeleten.",
+            "ro": "Explorați acest centru cultural uimitor care găzduiește istoria și arta locală, dar asigurați-vă că vizitați galeria egipteană de la ultimul etaj.",
+            "en": "Explore this stunning cultural hub that beautifully houses local history and art, but be sure to check the Egyptian gallery on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Street",
+            "hu": "Lord Street",
+            "ro": "Lord Street",
+            "en": "Lord Street"
+          },
+          "coords": [
+            -3.006,
+            53.648
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen eleganten viktorianischen Boulevard mit seinen wunderschönen schmiedeeisernen Arkaden und holen Sie sich unterwegs einen Kaffee in einem charmanten Café.",
+            "hu": "Sétáljon végig ezen az elegáns, gyönyörű kovácsoltvas árkádjairól híres viktoriánus körúton, és igyon egy kávét a hangulatos független kávézók egyikében.",
+            "ro": "Plimbați-vă pe acest bulevard victorian elegant, renumit pentru arcadele sale superbe din fier forjat, și savurați o cafea de la una dintre cafenelele independente fermecătoare.",
+            "en": "Stroll down this elegant Victorian boulevard famous for its beautiful ironwork arcades, and pick up a coffee from one of the charming independent cafés along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Silcock's Amusements",
+            "hu": "Silcock's Amusements",
+            "ro": "Silcock's Amusements",
+            "en": "Silcock's Amusements"
+          },
+          "coords": [
+            -3.005631,
+            53.649645
+          ],
+          "category": "family",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Welle der Nostalgie in dieser klassischen Spielhalle mit Retro-Spielen und bringen Sie viele Münzen mit, um Ihr Glück an den traditionellen Münzschiebern zu versuchen.",
+            "hu": "Élvezze a nosztalgia hullámát ebben a retró játékokkal teli klasszikus tengerparti játékteremben, és hozzon magával sok aprót a hagyományos érmebedobós gépekhez.",
+            "ro": "Bucurați-vă de un val de nostalgie în această sală de jocuri clasică plină de jocuri retro și aduceți multe monede pentru a vă încerca norocul la aparatele tradiționale.",
+            "en": "Enjoy a wave of nostalgia at this classic seaside amusement arcade packed with retro games, and bring plenty of coins to try your luck on the traditional penny pushers."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Marine Lake",
+            "ro": "Marine Lake",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.009549,
+            53.654179
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem der größten künstlichen Seen des Landes mit friedlichem Blick aufs Wasser und mieten Sie ein Schwanen-Tretboot für eine lustige Perspektive.",
+            "hu": "Pihenjen az ország egyik legnagyobb mesterséges tava mellett, amely békés vízparti kilátást nyújt, és béreljen egy hattyús vízibiciklit a szórakoztató vízi kalandhoz.",
+            "ro": "Relaxați-vă pe malul unuia dintre cele mai mari lacuri artificiale din țară și închiriați o hidrobicicletă în formă de lebădă pentru o perspectivă distractivă de pe apă.",
+            "en": "Relax by one of the largest man-made lakes in the country offering peaceful waterside views, and consider renting a swan pedalo for a fun perspective from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pier",
+            "hu": "Southport Pier",
+            "ro": "Southport Pier",
+            "en": "Southport Pier"
+          },
+          "coords": [
+            -3.017,
+            53.653
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Ende des zweitlängsten Piers Großbritanniens, um weite Küstenpanoramen zu genießen, und ziehen Sie sich warm an, da die Meeresbrise oft sehr frisch ist.",
+            "hu": "Sétáljon el Nagy-Britannia második leghosszabb mólójának végéig a lenyűgöző tengerparti panorámáért, és öltözzön fel melegen, mert a tengeri szellő gyakran hűvös lehet.",
+            "ro": "Mergeți până la capătul celui de-al doilea dig ca lungime din Marea Britanie pentru panorame de coastă și îmbrăcați-vă gros, deoarece briza mării poate fi destul de rece.",
+            "en": "Walk to the end of the second longest pier in Britain to take in sweeping coastal panoramas, and wrap up warmly as the sea breeze can be quite brisk even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Model Railway Village",
+            "hu": "Model Railway Village",
+            "ro": "Model Railway Village",
+            "en": "Model Railway Village"
+          },
+          "coords": [
+            -3.011038,
+            53.648563
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Details dieses Miniaturdorfes in üppigen Landschaftsgärten und versuchen Sie, Ihren britischen Lieblingszug auf den weitläufigen Gleisen zu entdecken.",
+            "hu": "Csodálja meg a buja kertekben elterülő miniatűr falu bonyolult részleteit, és próbálja meg kiszúrni kedvenc klasszikus brit vonatát a kiterjedt vasúti pályákon.",
+            "ro": "Minunați-vă de detaliile acestui sat în miniatură amplasat în grădini luxuriante și încercați să observați trenul britanic clasic preferat mergând pe șinele extinse.",
+            "en": "Marvel at the intricate details of this miniature village set in lush landscaped gardens, and try to spot your favorite classic British train chugging along the extensive tracks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit lokaler Kunst im The Atkinson, bevor Sie durch die Arkaden der Lord Street schlendern.\n\nDie Mittagszeit bringt Nostalgie; genießen Sie Silcock's Amusements und den Marine Lake.\n\nAm Nachmittag trotzen Sie der Brise auf dem historischen Southport Pier für weite Küstenblicke.\n\nBeenden Sie den Tag bei Sonnenuntergang im charmanten Model Railway Village.",
+        "hu": "Kezdje a helyi művészettel a The Atkinsonban, mielőtt végigsétál a Lord Street viktoriánus árkádjain.\n\nA dél tengerparti nosztalgiát hoz; élvezze a Silcock's Amusements játéktermét és a Marine Lake-et.\n\nDélután dacoljon a szellővel a történelmi Southport Pier-en a part menti kilátásért.\n\nFejezze be a napot a részletes Model Railway Village felfedezésével naplementekor.",
+        "ro": "Începeți cu artele locale la The Atkinson, înainte de a vă plimba pe arcadele victoriene de pe Lord Street.\n\nAmiaza aduce nostalgie; bucurați-vă de Silcock's Amusements și de plimbarea pe lângă Marine Lake.\n\nDupă-amiaza, înfruntați briza pe istoricul Southport Pier pentru vederi de coastă.\n\nÎncheiați-vă ziua explorând detaliatul Model Railway Village, la apusul soarelui.",
+        "en": "Begin with local arts at The Atkinson, before strolling the Victorian arcades of Lord Street.\n\nMidday brings seaside nostalgia; enjoy Silcock's Amusements and wander around Marine Lake.\n\nIn the afternoon, brave the breeze on the historic Southport Pier for sweeping coastal views.\n\nConclude your day exploring the incredibly detailed Model Railway Village at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 4.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hesketh Park",
+            "hu": "Hesketh Park",
+            "ro": "Hesketh Park",
+            "en": "Hesketh Park"
+          },
+          "coords": [
+            -2.987,
+            53.656
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen viktorianischen Park mit einem ruhigen See und Blumengärten und besorgen Sie sich Entenfutter für die freundlichen Wasservögel.",
+            "hu": "Sétáljon végig ezen a gyönyörű viktoriánus parkon, amely egy nyugodt tóval és virágoskertekkel büszkélkedhet, és vegyen kacsakaját a barátságos vízimadarak etetéséhez.",
+            "ro": "Plimbați-vă prin acest frumos parc victorian cu un lac liniștit și grădini florale și cumpărați mâncare pentru rațe pentru a hrăni păsările de apă prietenoase de lângă seră.",
+            "en": "Wander through this beautiful Victorian park featuring a tranquil lake and floral gardens, and grab some duck food to feed the friendly waterfowl near the conservatory."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Marine Lake",
+            "ro": "Marine Lake",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.009549,
+            53.654179
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem der größten künstlichen Seen des Landes mit friedlichem Blick aufs Wasser und mieten Sie ein Schwanen-Tretboot für eine lustige Perspektive.",
+            "hu": "Pihenjen az ország egyik legnagyobb mesterséges tava mellett, amely békés vízparti kilátást nyújt, és béreljen egy hattyús vízibiciklit a szórakoztató vízi kalandhoz.",
+            "ro": "Relaxați-vă pe malul unuia dintre cele mai mari lacuri artificiale din țară și închiriați o hidrobicicletă în formă de lebădă pentru o perspectivă distractivă de pe apă.",
+            "en": "Relax by one of the largest man-made lakes in the country offering peaceful waterside views, and consider renting a swan pedalo for a fun perspective from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pier",
+            "hu": "Southport Pier",
+            "ro": "Southport Pier",
+            "en": "Southport Pier"
+          },
+          "coords": [
+            -3.017,
+            53.653
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Ende des zweitlängsten Piers Großbritanniens, um weite Küstenpanoramen zu genießen, und ziehen Sie sich warm an, da die Meeresbrise oft sehr frisch ist.",
+            "hu": "Sétáljon el Nagy-Britannia második leghosszabb mólójának végéig a lenyűgöző tengerparti panorámáért, és öltözzön fel melegen, mert a tengeri szellő gyakran hűvös lehet.",
+            "ro": "Mergeți până la capătul celui de-al doilea dig ca lungime din Marea Britanie pentru panorame de coastă și îmbrăcați-vă gros, deoarece briza mării poate fi destul de rece.",
+            "en": "Walk to the end of the second longest pier in Britain to take in sweeping coastal panoramas, and wrap up warmly as the sea breeze can be quite brisk even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Street",
+            "hu": "Lord Street",
+            "ro": "Lord Street",
+            "en": "Lord Street"
+          },
+          "coords": [
+            -3.006,
+            53.648
+          ],
+          "category": "civic",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen eleganten viktorianischen Boulevard mit seinen wunderschönen schmiedeeisernen Arkaden und holen Sie sich unterwegs einen Kaffee in einem charmanten Café.",
+            "hu": "Sétáljon végig ezen az elegáns, gyönyörű kovácsoltvas árkádjairól híres viktoriánus körúton, és igyon egy kávét a hangulatos független kávézók egyikében.",
+            "ro": "Plimbați-vă pe acest bulevard victorian elegant, renumit pentru arcadele sale superbe din fier forjat, și savurați o cafea de la una dintre cafenelele independente fermecătoare.",
+            "en": "Stroll down this elegant Victorian boulevard famous for its beautiful ironwork arcades, and pick up a coffee from one of the charming independent cafés along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "The Atkinson",
+            "hu": "The Atkinson",
+            "ro": "The Atkinson",
+            "en": "The Atkinson"
+          },
+          "coords": [
+            -3.006,
+            53.6472
+          ],
+          "category": "cultural",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Kulturzentrum mit lokaler Geschichte und Kunst, aber verpassen Sie nicht die großartige ägyptische Galerie im obersten Stockwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző kulturális központot, amely a helyi történelmet és művészetet mutatja be, de mindenképpen nézze meg az egyiptomi galériát a legfelső emeleten.",
+            "ro": "Explorați acest centru cultural uimitor care găzduiește istoria și arta locală, dar asigurați-vă că vizitați galeria egipteană de la ultimul etaj.",
+            "en": "Explore this stunning cultural hub that beautifully houses local history and art, but be sure to check the Egyptian gallery on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pleasureland",
+            "hu": "Southport Pleasureland",
+            "ro": "Southport Pleasureland",
+            "en": "Southport Pleasureland"
+          },
+          "coords": [
+            -3.01707,
+            53.6492
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Fahrgeschäfte und familienfreundliche Attraktionen in diesem klassischen Themenpark, und kaufen Sie vorab online ein Armband, um Geld zu sparen.",
+            "hu": "Tapasztalja meg az izgalmas túrákat és a családbarát látnivalókat ebben a klasszikus tengerparti vidámparkban, és vegyen előre karszalagot online, hogy időt spóroljon.",
+            "ro": "Experimentați atracții palpitante și prietenoase pentru familii în acest parc tematic de coastă și cumpărați o brățară online în avans pentru a economisi timp și bani.",
+            "en": "Experience thrilling rides and family-friendly attractions at this classic coastal theme park, and purchase a wristband online in advance to save both time and money."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Beach",
+            "hu": "Southport Beach",
+            "ro": "Southport Beach",
+            "en": "Southport Beach"
+          },
+          "coords": [
+            -3.014851,
+            53.643934
+          ],
+          "category": "natural",
+          "arrive_at": "16:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der weiten goldenen Sandstrände mit herrlichem Blick auf die Irische See, aber prüfen Sie die Gezeiten sorgfältig, bevor Sie sich weit entfernen.",
+            "hu": "Sétáljon az Ír-tengerre nyíló lenyűgöző kilátást nyújtó aranyszínű homokos tengerparton, de mindig gondosan ellenőrizze az árapály idejét, mielőtt messze merészkedne.",
+            "ro": "Plimbați-vă de-a lungul întinderii vaste de nisip auriu cu vederi uimitoare la Marea Irlandeză, dar verificați mereu mareele înainte de a vă îndepărta de promenadă.",
+            "en": "Stroll along the vast expanse of golden sands offering stunning views across the Irish Sea, but always check the tide times carefully before venturing far from the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt mit einer morgendlichen Runde durch die Blumenbeete im Hesketh Park.\n\nGleiten Sie mittags am Marine Lake vorbei und radeln Sie zum legendären Southport Pier.\n\nIhr Nachmittag wird entlang der Lord Street kulturell und führt zu den Galerien des The Atkinson.\n\nGenießen Sie den Spaß im Pleasureland, bevor Sie die Flut am weiten Southport Beach beobachten.",
+        "hu": "Kezdje a tekerést egy reggeli úttal a Hesketh Park vibráló virágkiállításai között.\n\nDélben sikoljon el a Marine Lake mellett, és tekerjen az ikonikus Southport Pier felé.\n\nA délután kulturális fordulatot vesz a Lord Street mentén a The Atkinson galériáihoz.\n\nVégül élvezze a szórakozást a Pleasurelandben, mielőtt végignézné a dagályt a Southport Beach-en.",
+        "ro": "Începeți plimbarea cu o pedalare de dimineață prin expozițiile florale din Hesketh Park.\n\nLa amiază, treceți pe lângă Marine Lake și pedalați spre emblematicul Southport Pier.\n\nDupă-amiaza ia o întorsătură culturală pe Lord Street, ducând la galeriile de la The Atkinson.\n\nBucurați-vă de distracția din Pleasureland înainte de a privi fluxul pe imensa plajă Southport Beach.",
+        "en": "Kick off your ride with a morning spin through the vibrant floral displays of Hesketh Park.\n\nBy midday, glide past Marine Lake and cycle towards the iconic Southport Pier to breathe the sea air.\n\nYour afternoon takes a cultural turn along Lord Street, leading to the galleries of The Atkinson.\n\nFinally, embrace coastal fun at Pleasureland before watching the tide at Southport Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Britisches Rasenmäher-Museum",
+            "hu": "Brit Fűnyírómúzeum",
+            "ro": "Muzeul Britanic al Mașinilor de Tuns Iarba",
+            "en": "British Lawnmower Museum"
+          },
+          "coords": [
+            -3.00489,
+            53.6394
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie skurrile und faszinierende Exponate zur Geschichte der Gartenmaschine und verpassen Sie nicht die Sammlung von Rasenmähern, die einst berühmten Prominenten gehörten.",
+            "hu": "Fedezze fel a kerti gépek történetét bemutató mókás és lenyűgöző kiállításokat, és ne hagyja ki a hírességek által korábban birtokolt fűnyírók különleges gyűjteményét.",
+            "ro": "Descoperiți exponate ciudate și fascinante care detaliază istoria mașinii de tuns iarba și nu ratați colecția de mașini deținute cândva de celebrități faimoase.",
+            "en": "Discover quirky and surprisingly fascinating exhibits detailing the history of the garden machine, and don't miss the collection of mowers once owned by famous celebrities."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkdale Village",
+            "hu": "Birkdale Village",
+            "ro": "Birkdale Village",
+            "en": "Birkdale Village"
+          },
+          "coords": [
+            -3.013293,
+            53.63414
+          ],
+          "category": "civic",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie die anspruchsvolle Atmosphäre in diesem charmanten Dorfzentrum voller unabhängiger Boutiquen und holen Sie sich ein Gebäck in einer der lokalen Handwerksbäckereien.",
+            "hu": "Élvezze a kifinomult hangulatot ebben a független butikokkal teli, festői faluközpontban, és kóstoljon meg egy finom süteményt az egyik neves helyi kézműves pékségből.",
+            "ro": "Bucurați-vă de atmosfera sofisticată din acest centru de sat pitoresc plin de buticuri independente și luați o patiserie delicioasă de la o renumită brutărie artizanală locală.",
+            "en": "Enjoy a sophisticated atmosphere in this quaint village center filled with independent boutiques, and grab a delicious pastry from one of the renowned local artisan bakeries."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Victoria Park",
+            "ro": "Victoria Park",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            -3.020332,
+            53.643626
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Rasenflächen dieses gepflegten Küstenparks, der sich ideal für ein Picknick eignet, und prüfen Sie den lokalen Veranstaltungskalender.",
+            "hu": "Pihenjen ennek a kiválóan karbantartott, piknikezésre is tökéletes tengerparti parknak a kiterjedt pázsitján, és nézze meg a helyi eseménynaptárt a nyári fesztiválok miatt.",
+            "ro": "Relaxați-vă pe peluzele verzi ale acestui parc de coastă perfect pentru un picnic și verificați panoul de evenimente locale, deoarece găzduiește adesea festivaluri de vară.",
+            "en": "Relax on the expansive green lawns of this well-maintained coastal park perfect for a picnic, and check the local events board as it often hosts fantastic summer festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pleasureland",
+            "hu": "Southport Pleasureland",
+            "ro": "Southport Pleasureland",
+            "en": "Southport Pleasureland"
+          },
+          "coords": [
+            -3.01707,
+            53.6492
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Fahrgeschäfte und familienfreundliche Attraktionen in diesem klassischen Themenpark, und kaufen Sie vorab online ein Armband, um Geld zu sparen.",
+            "hu": "Tapasztalja meg az izgalmas túrákat és a családbarát látnivalókat ebben a klasszikus tengerparti vidámparkban, és vegyen előre karszalagot online, hogy időt spóroljon.",
+            "ro": "Experimentați atracții palpitante și prietenoase pentru familii în acest parc tematic de coastă și cumpărați o brățară online în avans pentru a economisi timp și bani.",
+            "en": "Experience thrilling rides and family-friendly attractions at this classic coastal theme park, and purchase a wristband online in advance to save both time and money."
+          }
+        },
+        {
+          "name": {
+            "de": "The Atkinson",
+            "hu": "The Atkinson",
+            "ro": "The Atkinson",
+            "en": "The Atkinson"
+          },
+          "coords": [
+            -3.006,
+            53.6472
+          ],
+          "category": "cultural",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Kulturzentrum mit lokaler Geschichte und Kunst, aber verpassen Sie nicht die großartige ägyptische Galerie im obersten Stockwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző kulturális központot, amely a helyi történelmet és művészetet mutatja be, de mindenképpen nézze meg az egyiptomi galériát a legfelső emeleten.",
+            "ro": "Explorați acest centru cultural uimitor care găzduiește istoria și arta locală, dar asigurați-vă că vizitați galeria egipteană de la ultimul etaj.",
+            "en": "Explore this stunning cultural hub that beautifully houses local history and art, but be sure to check the Egyptian gallery on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pier",
+            "hu": "Southport Pier",
+            "ro": "Southport Pier",
+            "en": "Southport Pier"
+          },
+          "coords": [
+            -3.017,
+            53.653
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Ende des zweitlängsten Piers Großbritanniens, um weite Küstenpanoramen zu genießen, und ziehen Sie sich warm an, da die Meeresbrise oft sehr frisch ist.",
+            "hu": "Sétáljon el Nagy-Britannia második leghosszabb mólójának végéig a lenyűgöző tengerparti panorámáért, és öltözzön fel melegen, mert a tengeri szellő gyakran hűvös lehet.",
+            "ro": "Mergeți până la capătul celui de-al doilea dig ca lungime din Marea Britanie pentru panorame de coastă și îmbrăcați-vă gros, deoarece briza mării poate fi destul de rece.",
+            "en": "Walk to the end of the second longest pier in Britain to take in sweeping coastal panoramas, and wrap up warmly as the sea breeze can be quite brisk even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Hesketh Park",
+            "hu": "Hesketh Park",
+            "ro": "Hesketh Park",
+            "en": "Hesketh Park"
+          },
+          "coords": [
+            -2.987,
+            53.656
+          ],
+          "category": "natural",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen viktorianischen Park mit einem ruhigen See und Blumengärten und besorgen Sie sich Entenfutter für die freundlichen Wasservögel.",
+            "hu": "Sétáljon végig ezen a gyönyörű viktoriánus parkon, amely egy nyugodt tóval és virágoskertekkel büszkélkedhet, és vegyen kacsakaját a barátságos vízimadarak etetéséhez.",
+            "ro": "Plimbați-vă prin acest frumos parc victorian cu un lac liniștit și grădini florale și cumpărați mâncare pentru rațe pentru a hrăni păsările de apă prietenoase de lângă seră.",
+            "en": "Wander through this beautiful Victorian park featuring a tranquil lake and floral gardens, and grab some duck food to feed the friendly waterfowl near the conservatory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Ausflug im skurrilen British Lawnmower Museum und trinken Sie Kaffee im Birkdale Village.\n\nFahren Sie mittags zur Küste für ein Picknick auf den Rasenflächen des Victoria Park.\n\nIhr Nachmittag bietet Spannung im Pleasureland, gefolgt von Kultur im The Atkinson.\n\nBeenden Sie den Tag mit einem Spaziergang auf dem Pier und einem ruhigen Abend im Hesketh Park.",
+        "hu": "Kezdje a kirándulást a mókás Brit Fűnyírómúzeumban, majd igyon kávét a Birkdale Village-ben.\n\nDélben induljon a part felé egy pihentető piknikre a Victoria Park érintetlen pázsitján.\n\nA délután tele van izgalommal a Pleasurelandben, majd kultúrával a The Atkinsonban.\n\nZárja a napot egy sétával a Southport Pier-en és egy békés alkonyati sétával a Hesketh Parkban.",
+        "ro": "Începeți excursia la ciudatul British Lawnmower Museum, înainte de o cafea în Birkdale Village.\n\nÎntoarceți-vă spre coastă la amiază pentru un picnic pe peluzele verzi din Victoria Park.\n\nDupă-amiaza este plină de entuziasm la Pleasureland, urmată de cultură la The Atkinson.\n\nÎncheiați ziua cu o plimbare pe Southport Pier și o plimbare liniștită la amurg prin Hesketh Park.",
+        "en": "Start your daytrip at the quirky British Lawnmower Museum before grabbing coffee in Birkdale Village.\n\nHead back to the coast midday for a relaxed picnic on the pristine lawns of Victoria Park.\n\nYour afternoon is packed with excitement at Southport Pleasureland, followed by culture at The Atkinson.\n\nEnd the day with a stroll down Southport Pier and a twilight walk through Hesketh Park."
+      }
+    }
+  }
+}

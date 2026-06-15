@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-ecija-cities-v2",
+  "anchor": {
+    "name": "Écija",
+    "coords": [
+      -5.0826,
+      37.5422
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 0.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia Mayor de Santa Cruz",
+            "hu": "Iglesia Mayor de Santa Cruz",
+            "ro": "Iglesia Mayor de Santa Cruz",
+            "en": "Iglesia Mayor de Santa Cruz"
+          },
+          "coords": [
+            -5.080554,
+            37.543582
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Barockturm dieser historischen Kirche und versuchen Sie, während der Morgenmesse eine authentische Atmosphäre zu erleben.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző barokk tornyát, és próbáljon meg a reggeli mise idején idelátogatni egy igazán hiteles helyi élményért.",
+            "ro": "Admirați turnul baroc uimitor al acestei biserici istorice și încercați să o vizitați în timpul slujbei de dimineață pentru o experiență spirituală autentică.",
+            "en": "Admire the stunning baroque tower of this historic church and try to visit during morning mass for a truly authentic local spiritual experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Écija",
+            "hu": "Écija Városháza",
+            "ro": "Primăria din Écija",
+            "en": "Ayuntamiento de Écija"
+          },
+          "coords": [
+            -5.079746,
+            37.541805
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verzierten Säle des Rathauses, um die Geschichte der Stadt zu verstehen, und vergessen Sie nicht, die alten römischen Mosaike zu betrachten.",
+            "hu": "Fedezze fel a városháza díszes termeit a helyi kormányzás történelmének megismeréséhez, és ne hagyja ki a bent őrzött ókori római mozaikokat sem.",
+            "ro": "Explorați sălile ornamentate ale primăriei pentru a înțelege istoria administrativă și nu uitați să verificați superbele mozaicuri romane antice păstrate înăuntru.",
+            "en": "Explore the ornate halls of the city hall to understand local governance history, and do not forget to check the ancient Roman mosaics preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Juan",
+            "hu": "Iglesia de San Juan",
+            "ro": "Iglesia de San Juan",
+            "en": "Iglesia de San Juan"
+          },
+          "coords": [
+            -5.077519,
+            37.541876
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aufwendig dekorierten Innenräume dieser markanten Kirche und bringen Sie ein Weitwinkelobjektiv mit, um den prachtvollen Hochaltar festzuhalten.",
+            "hu": "Csodálja meg ennek a kiemelkedő templomnak a bonyolultan díszített belső tereit, és hozzon magával nagylátószögű lencsét a csodálatos főoltár megörökítéséhez.",
+            "ro": "Minunați-vă de interioarele decorate complex ale acestei biserici proeminente și asigurați-vă că aduceți un obiectiv cu unghi larg pentru a surprinde altarul.",
+            "en": "Marvel at the intricately decorated interiors of this prominent church, and be sure to bring a wide-angle lens to capture the magnificent high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Peñaflor",
+            "hu": "Palacio de Peñaflor",
+            "ro": "Palacio de Peñaflor",
+            "en": "Palacio de Peñaflor"
+          },
+          "coords": [
+            -5.076894,
+            37.540889
+          ],
+          "category": "castle",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubende geschwungene Fassade und die bemalten Balkone dieses Adelspalastes, und achten Sie auf Führungen, die sein Erbe erklären.",
+            "hu": "Fedezze fel e nemesi palota lélegzetelállító ívelt homlokzatát és festett erkélyeit, és keressen vezetett túrákat, amelyek bemutatják gazdag örökségét.",
+            "ro": "Descoperiți fațada curbată și balcoanele pictate ale acestui palat nobil, căutând tururi ghidate care explică moștenirea sa extrem de bogată și fascinantă.",
+            "en": "Discover the breathtaking curved façade and painted balconies of this noble palace, keeping an eye out for guided tours that explain its rich heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Gil",
+            "hu": "Iglesia de San Gil",
+            "ro": "Iglesia de San Gil",
+            "en": "Iglesia de San Gil"
+          },
+          "coords": [
+            -5.075217,
+            37.540792
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser schönen Pfarrkirche, wo das stille Sitzen in den hinteren Bänken einen perfekten Moment der Reflexion bietet.",
+            "hu": "Tapasztalja meg e gyönyörű plébániatemplom nyugodt légkörét, ahol a hátsó padokban csendben ülve tökéletes pillanatot találhat a békés elmélkedésre.",
+            "ro": "Experimentați atmosfera senină a acestei frumoase biserici parohiale, unde o clipă de liniște în băncile din spate oferă un moment perfect de reflecție.",
+            "en": "Experience the serene atmosphere of this beautiful parish church, where sitting quietly in the back pews offers a perfect moment of peaceful reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Alcántara",
+            "hu": "Palacio de Alcántara",
+            "ro": "Palacio de Alcántara",
+            "en": "Palacio de Alcántara"
+          },
+          "coords": [
+            -5.07569,
+            37.542568
+          ],
+          "category": "castle",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in die majestätischen Innenhöfe dieses großen historischen Anwesens ein, um andalusischen Luxus zu erleben, und spazieren Sie durch die Gärten.",
+            "hu": "Lépjen be e nagyszerű történelmi birtok fenséges udvaraiba az andalúz luxus megtapasztalásához, és sétáljon végig az árnyékos kerteken egy kis hűsölésért.",
+            "ro": "Pășiți în curțile maiestuoase ale acestei mari moșii istorice pentru a vedea luxul andaluz și plimbați-vă prin grădinile umbrite pentru o retragere răcoroasă.",
+            "en": "Step into the majestic courtyards of this grand historical estate to witness Andalusian luxury, and walk through the shaded gardens for a cool retreat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen beginnt Ihre Reise im Herzen von Écija und Sie erkunden großartige religiöse Architektur. Bewundern Sie die barocke Brillanz der Iglesia Mayor de Santa Cruz, bevor Sie in das historische Zentrum eintauchen.\n\nWenn die Sonne höher steigt, tauchen Sie in die bürgerliche und königliche Geschichte der Stadt ein. Schlendern Sie am verzierten Ayuntamiento vorbei und entdecken Sie prachtvolle Innenräume.\n\nDer Nachmittag bietet einen friedlichen Übergang durch malerische Straßen. Entdecken Sie die heitere Atmosphäre der Iglesia de San Gil, die zu den majestätischen Innenhöfen des Palacio de Alcántara führt.\n\nLassen Sie den Tag ausklingen und reflektieren Sie das andalusische Erbe. Genießen Sie am Abend lokale Tapas in der Nähe der Paläste und saugen Sie die Wärme der Bratpfanne Spaniens auf.",
+        "hu": "Reggel az utazás Écija szívében kezdődik, csodálatos vallási építészet felfedezésével. Csodálja meg az Iglesia Mayor de Santa Cruz barokk ragyogását, mielőtt a történelmi központ felé venné az irányt.\n\nA nap előrehaladtával elmerülhet a város polgári és királyi történelmében. Sétáljon el a díszes Ayuntamiento mellett, és fedezze fel a lenyűgöző belső tereket.\n\nA délután békés átmenetet kínál a festői utcákon keresztül. Fedezze fel az Iglesia de San Gil nyugodt légkörét, amely a Palacio de Alcántara fenséges udvaraihoz vezet.\n\nZárja a napot az andalúz örökség elmélkedésével. Ahogy leszáll az este, élvezze a helyi tapasokat a paloták közelében, és élvezze Spanyolország serpenyőjének melegét.",
+        "ro": "Dimineața, călătoria începe în inima orașului Écija, explorând o arhitectură religioasă magnifică. Admirați strălucirea barocă a Iglesia Mayor de Santa Cruz înainte de a explora centrul istoric.\n\nPe măsură ce soarele urcă, vă veți adânci în istoria civică și regală a orașului. Plimbați-vă pe lângă Ayuntamiento ornamentat și descoperiți interioare grandioase.\n\nDupă-amiaza oferă o tranziție pașnică prin străzi pitorești. Descoperiți atmosfera senină a Iglesia de San Gil, conducând până la curțile maiestuoase ale Palacio de Alcántara.\n\nÎncheiați-vă ziua reflectând la spectaculoasa moștenire andaluză. Pe măsură ce se lasă seara, savurați tapas locale lângă palate, bucurându-vă de căldura orașului.",
+        "en": "In the morning, your journey starts in the heart of Écija, exploring magnificent religious architecture. Begin by admiring the baroque brilliance of Iglesia Mayor de Santa Cruz before heading towards the center.\n\nAs the sun climbs, you will delve into the civic and regal history of the city. Stroll past the ornate Ayuntamiento and uncover the grand interiors of historical religious and noble buildings.\n\nThe afternoon offers a peaceful transition through picturesque streets. Discover the serene atmosphere of Iglesia de San Gil, leading up to the majestic courtyards of Palacio de Alcántara.\n\nConclude your day reflecting on the spectacular Andalusian heritage. As evening falls, enjoy local tapas near the palatial estates, soaking in the lingering warmth of the city known as the frying pan of Spain."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 2.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Convento de la Santísima Trinidad",
+            "hu": "Convento de la Santísima Trinidad",
+            "ro": "Convento de la Santísima Trinidad",
+            "en": "Convento de la Santísima Trinidad"
+          },
+          "coords": [
+            -5.082199,
+            37.542377
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die barocken Details dieses friedlichen Klosters und probieren Sie die traditionellen Süßigkeiten, die täglich von den Nonnen gebacken werden.",
+            "hu": "Figyelje meg ennek a békés kolostornak a barokk részleteit, és kóstolja meg a zárdában élő apácák által naponta sütött hagyományos édességeket.",
+            "ro": "Observați detaliile baroce complicate ale acestei mănăstiri și gustați câteva dintre dulciurile tradiționale coapte zilnic de călugărițele de aici.",
+            "en": "Observe the intricate baroque details of this peaceful convent, and try some of the traditional sweets baked daily by the resident cloistered nuns."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Mayor de Santa Cruz",
+            "hu": "Iglesia Mayor de Santa Cruz",
+            "ro": "Iglesia Mayor de Santa Cruz",
+            "en": "Iglesia Mayor de Santa Cruz"
+          },
+          "coords": [
+            -5.080554,
+            37.543582
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher draußen, um die historischen Überreste dieses Tempels zu erkunden, und fragen Sie nach den maurischen Einflüssen.",
+            "hu": "Parkolja le kerékpárját biztonságosan a templom előtt, és kérdezze meg a helyi idegenvezetőt a mór építészeti hatásokról a felfedezés során.",
+            "ro": "Parcați bicicleta în siguranță afară pentru a explora rămășițele istorice ale acestui templu și întrebați ghidul despre influențele sale maure.",
+            "en": "Park your bike safely outside to explore the historical remnants of this temple, and ask the local guide about the Moorish influences on its architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Pablo y Santo Domingo",
+            "hu": "Convento de San Pablo y Santo Domingo",
+            "ro": "Convento de San Pablo y Santo Domingo",
+            "en": "Convento de San Pablo y Santo Domingo"
+          },
+          "coords": [
+            -5.078613,
+            37.543625
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die beeindruckende Fassade dieses religiösen Komplexes und besuchen Sie den zentralen Kreuzgang, der hervorragendes natürliches Licht für Fotos bietet.",
+            "hu": "Élvezze e vallási komplexum lenyűgöző homlokzatát, és mindenképpen látogassa meg a központi kerengőt, amely kiváló természetes fényt biztosít a fotókhoz.",
+            "ro": "Bucurați-vă de fațada impresionantă a acestui complex religios, asigurându-vă că vizitați claustrul central care oferă lumină naturală excelentă.",
+            "en": "Enjoy the impressive facade of this religious complex, making sure to visit the central cloister which provides excellent natural lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Écija",
+            "hu": "Écija Városháza",
+            "ro": "Primăria din Écija",
+            "en": "Ayuntamiento de Écija"
+          },
+          "coords": [
+            -5.079746,
+            37.541805
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Halten Sie am städtischen Zentrum an, um die Architektur zu bewundern, und machen Sie eine kurze Pause, um ein erfrischendes lokales Getränk zu genießen.",
+            "hu": "Álljon meg a városközpontban, hogy megcsodálja építészetét, és tartson egy rövid szünetet a közeli téren egy frissítő helyi ital elfogyasztására.",
+            "ro": "Opriți-vă la centrul municipal pentru a admira arhitectura sa, luând o scurtă pauză în piața din apropiere pentru a vă bucura de o băutură locală răcoritoare.",
+            "en": "Stop by the municipal center to admire its striking architecture, taking a quick break in the nearby plaza to enjoy a refreshing local cold beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Peñaflor",
+            "hu": "Palacio de Peñaflor",
+            "ro": "Palacio de Peñaflor",
+            "en": "Palacio de Peñaflor"
+          },
+          "coords": [
+            -5.076894,
+            37.540889
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die bemalte Fassade des Palastes zu fotografieren, und stellen Sie sich auf die andere Straßenseite, um das gesamte Gebäude zu erfassen.",
+            "hu": "Szánjon időt a palota hosszú festett homlokzatának fotózására, és álljon át az utca túloldalára, hogy a teljes ívelt szerkezet a képbe kerüljön.",
+            "ro": "Faceți-vă timp pentru a fotografia fațada pictată a palatului și stați peste stradă pentru a surprinde întreaga structură curbată în cadru.",
+            "en": "Take time to photograph the exceptionally long painted facade of the palace, and stand across the street to get the entire curved structure in your frame."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa Ana",
+            "hu": "Iglesia de Santa Ana",
+            "ro": "Iglesia de Santa Ana",
+            "en": "Iglesia de Santa Ana"
+          },
+          "coords": [
+            -5.074492,
+            37.54301
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufragende Eleganz der einzigartigen Architektur der Kirche und betrachten Sie die atemberaubenden Fliesenarbeiten an den Eingangstüren.",
+            "hu": "Csodálja meg a templom egyedi építészetének magasba törő eleganciáját, és nézze meg közelebbről a csodálatos bejárati ajtókat díszítő csempéket.",
+            "ro": "Admirați eleganța impunătoare a arhitecturii unice a bisericii și priviți îndeaproape superbele plăci de ceramică care împodobesc ușile de intrare.",
+            "en": "Admire the towering elegance of the church's unique architecture, and look closely at the stunning tilework that adorns its magnificent entrance doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora del Carmen",
+            "hu": "Iglesia de Nuestra Señora del Carmen",
+            "ro": "Iglesia de Nuestra Señora del Carmen",
+            "en": "Iglesia de Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -5.085246,
+            37.540093
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser prächtigen Kirche und verbringen Sie einige Momente damit, das schwindende Nachmittagslicht auf ihrem barocken Äußeren zu genießen.",
+            "hu": "Fejezze be a túrát ennél a csodálatos templomnál, és töltsön el néhány percet azzal, hogy élvezi a barokk külsején megcsillanó délutáni fényeket.",
+            "ro": "Încheiați-vă plimbarea la această biserică magnifică și petreceți câteva momente bucurându-vă de lumina după-amiezii pe exteriorul său baroc uimitor.",
+            "en": "Conclude your ride at this magnificent church overlooking the area, and spend a few moments enjoying the fading afternoon light on its baroque exterior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit sanften Fahrten zwischen einigen der ehrwürdigsten Klöster von Écija. Nehmen Sie sich Zeit, um die süßen lokalen Traditionen und friedlichen Innenhöfe kennenzulernen.\n\nGegen Mittag radeln Sie durch das historische Zentrum, vorbei am imposanten Rathaus. Die breiteren Straßen ermöglichen es Ihnen, das städtische Erbe der andalusischen Architektur leicht zu schätzen.\n\nNach dem Mittagessen gleiten Sie am bemerkenswerten Palacio de Peñaflor und der eleganten Iglesia de Santa Ana vorbei. Auf dem Fahrradkönnen Sie kurze Stopps einlegen, um bemerkenswerte architektonische Details zu fotografieren.\n\nAm späten Nachmittag überqueren Sie die Stadt zur Iglesia del Carmen. Entspannen Sie sich nach einer lohnenden Fahrt und beobachten Sie, wie die untergehende Sonne die unverwechselbare barocke Skyline der Stadt erhellt.",
+        "hu": "Kerékpártúrája lágy tekeréssel kezdődik Écija legtiszteltebb kolostorai között. Szánjon időt a helyi édes hagyományok és a békés udvarok megismerésére a reggeli hűvösben.\n\nDél körül a történelmi központon keresztül kerekezik, elhaladva az impozáns városháza mellett. A szélesebb utcák lehetővé teszik az andalúz építészet városi örökségének könnyű befogadását.\n\nEbéd után elsuhan a figyelemre méltó Palacio de Peñaflor és az elegáns Iglesia de Santa Ana mellett. A kerékpárral kényelmesen tarthat rövid szüneteket a fotózáshoz.\n\nKéső délután haladjon át a városon az Iglesia del Carmen felé. Egy tartalmas utazás után pihenjen meg, és nézze, ahogy a lemenő nap megvilágítja a város jellegzetes barokk látképét.",
+        "ro": "Turul tău cu bicicleta începe cu plimbări ușoare între unele dintre cele mai venerate mănăstiri din Écija. Fă-ți timp pentru a explora tradițiile dulci și curțile pașnice ale orașului.\n\nSpre prânz, vei pedala prin centrul istoric, trecând pe lângă primăria impunătoare. Străzile mai largi îți permit să apreciezi cu ușurință moștenirea civică a arhitecturii andaluze.\n\nDupă prânz, treci pe lângă remarcabilul Palacio de Peñaflor și eleganta Iglesia de Santa Ana. Fiind pe bicicletă, poți face opriri scurte și rapide pentru a fotografia detaliile uimitoare.\n\nLa sfârșitul după-amiezii, traversează orașul spre Iglesia del Carmen. Relaxează-te după o plimbare plină de satisfacții și privește cum soarele apune luminează linia orizontului baroc a orașului.",
+        "en": "Your cycling tour begins with gentle rides between some of Écija's most revered convents. Take your time to embrace local sweet traditions and peaceful courtyards in the morning cool.\n\nTowards midday, you will pedal through the historic center, passing the imposing city hall. The slightly wider streets allow you to easily appreciate the civic heritage of Andalusian architecture.\n\nAfter lunch, glide past the remarkable Palacio de Peñaflor and the elegant Iglesia de Santa Ana. Being on a bike lets you make quick, convenient stops to photograph notable details.\n\nIn the late afternoon, cross town to Iglesia del Carmen. Relax after a rewarding ride, and watch as the setting sun illuminates the city's distinctive, beautiful baroque skyline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora del Carmen",
+            "hu": "Iglesia de Nuestra Señora del Carmen",
+            "ro": "Iglesia de Nuestra Señora del Carmen",
+            "en": "Iglesia de Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -5.085246,
+            37.540093
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt mit der spektakulären Architektur dieser markanten Kirche und nutzen Sie die nahe gelegenen Parkplätze, bevor der morgendliche Ansturm beginnt.",
+            "hu": "Kezdje autós túráját ennek a kiemelkedő templomnak a látványos építészetével, és használja ki a közeli utcai parkolást, mielőtt a délelőtti csúcsforgalom megkezdődik.",
+            "ro": "Începeți turul cu arhitectura spectaculoasă a acestei biserici proeminente, utilizând parcarea stradală din apropiere înainte de a începe aglomerația de dimineață.",
+            "en": "Start your driving tour with the spectacular architecture of this prominent church, utilizing the nearby street parking before the mid-morning rush begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Concepción",
+            "hu": "Iglesia de la Concepción",
+            "ro": "Iglesia de la Concepción",
+            "en": "Iglesia de la Concepción"
+          },
+          "coords": [
+            -5.08227,
+            37.540328
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schätzen Sie das markante Doppelturm-Design dieses Wahrzeichens und treten Sie ein, um die wunderschön erhaltenen Holzaltäre aus der Nähe zu betrachten.",
+            "hu": "Értékelje e figyelemre méltó nevezetesség jellegzetes ikertornyos kialakítását, és lépjen be, hogy közelebbről is megtekinthesse a gyönyörűen megőrzött fa oltárképeket.",
+            "ro": "Apreciați designul distinctiv cu turnuri gemene al acestui punct de reper și intrați pentru a vedea îndeaproape retaulurile din lemn frumos conservate.",
+            "en": "Appreciate the distinctive twin-tower design of this remarkable landmark, and step inside to view the beautifully preserved wooden altarpieces closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santiago",
+            "hu": "Iglesia de Santiago",
+            "ro": "Iglesia de Santiago",
+            "en": "Iglesia de Santiago"
+          },
+          "coords": [
+            -5.079112,
+            37.537568
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten gotischen und Mudejar-Elemente dieses faszinierenden Gebäudes und halten Sie Ihre Kamera bereit für die atemberaubenden Details.",
+            "hu": "Fedezze fel e lenyűgöző épület elegáns gótikus-mudéjar elemeit, és tartsa készenlétben a fényképezőgépét a főoltár lenyűgöző részleteinek megörökítéséhez.",
+            "ro": "Descoperiți elementele gotic-mudejar elegante ale acestei clădiri fascinante, menținând camera pregătită pentru detaliile uimitoare de pe altarul principal.",
+            "en": "Discover the elegant Gothic-Mudéjar elements of this fascinating building, keeping your camera ready for the stunning details on the main altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa Bárbara",
+            "hu": "Iglesia de Santa Bárbara",
+            "ro": "Iglesia de Santa Bárbara",
+            "en": "Iglesia de Santa Bárbara"
+          },
+          "coords": [
+            -5.078388,
+            37.540737
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen neoklassizistischen Einflüsse dieser historischen Struktur, die auf einem charmanten Platz steht, der sich perfekt für eine kurze Pause eignet.",
+            "hu": "Csodálja meg e történelmi építmény egyedi neoklasszikus hatásait, amely egy bájos téren áll, és tökéletes helyszínt biztosít egy rövid pihenőre.",
+            "ro": "Minunați-vă de influențele neoclasice unice găsite în această structură istorică, situată grațios pe o piață fermecătoare, perfectă pentru o scurtă odihnă.",
+            "en": "Marvel at the unique neo-classical influences found in this historic structure, which stands gracefully on a charming square perfect for a brief rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Peñaflor",
+            "hu": "Palacio de Peñaflor",
+            "ro": "Palacio de Peñaflor",
+            "en": "Palacio de Peñaflor"
+          },
+          "coords": [
+            -5.076894,
+            37.540889
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie an den markanten bemalten Balkonen vorbei, bevor Sie in der Nähe parken, und nehmen Sie sich Zeit, um die großen Innenhöfe zu erkunden.",
+            "hu": "Vezessen el a feltűnő festett erkélyek mellett, mielőtt a közelben parkolna, elegendő időt hagyva magának a nagyszerű udvarok és díszes termek felfedezésére.",
+            "ro": "Conduceți pe lângă balcoanele pictate uimitoare înainte de a găsi parcare, lăsându-vă timp suficient pentru a explora curțile mărețe și sălile ornamentate.",
+            "en": "Drive past the striking painted balconies before finding parking nearby, allowing yourself ample time to explore the grand courtyards and ornate halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Alcántara",
+            "hu": "Palacio de Alcántara",
+            "ro": "Palacio de Alcántara",
+            "en": "Palacio de Alcántara"
+          },
+          "coords": [
+            -5.07569,
+            37.542568
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem spektakulären architektonischen Meisterwerk und schlendern Sie durch die historischen Straßen, während die Sonne langsam untergeht.",
+            "hu": "Fejezze be utazását ennél a látványos építészeti remekműnél, és mindenképpen bolyongjon a környező történelmi utcákon, ahogy a nap lassan nyugovóra tér.",
+            "ro": "Încheiați-vă călătoria la această capodoperă arhitecturală spectaculoasă, asigurându-vă că vă plimbați pe străzile istorice din jur pe măsură ce soarele apune.",
+            "en": "End your journey at this spectacular architectural masterpiece, making sure to wander its surrounding historic streets as the sun begins to gently set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrabenteuer am Rande der Stadt, wo Sie eine makellose Barockarchitektur erwartet. Die leichte Erreichbarkeit macht den Morgen zu einer perfekten Zeit für diese religiösen Stätten.\n\nNavigieren Sie durch das breitere Straßennetz, um unglaubliche Kirchen mit verschiedenen Stilen zu entdecken. Unterbrechen Sie Ihre Fahrt, um erstaunliche Mudéjar-Elemente und feine Details aus der Nähe zu bewundern.\n\nFahren Sie am Nachmittag in Richtung der prächtigen Paläste der Stadt. Nachdem Sie Ihr Auto geparkt haben, können Sie in die reiche Geschichte dieser noblen andalusischen Anwesen eintauchen.\n\nBeenden Sie Ihre Tour in der Nähe der großen Villen. Wenn der Nachmittag vergeht, verlassen Sie Ihr Fahrzeug, um eine Mahlzeit in einer der historischen Gassen von Écija zu genießen.",
+        "hu": "Kezdje autós kalandját a város peremén, ahol makulátlan barokk építészet várja. A könnyű megközelíthetőség miatt a reggel a legalkalmasabb idő e vallási helyszínek meglátogatására.\n\nNavigáljon a szélesebb úthálózaton, hogy felfedezze a különböző stílusú, hihetetlen templomokat. Szakítsa meg az utat, hogy közelről is megcsodálhassa a bámulatos mudéjar elemeket és finom részleteket.\n\nDélután haladjon a város pompás palotái felé. Miután leparkolta autóját, elmélyülhet e nemesi andalúziai birtokok gazdag történelmében és nyugodt szépségében.\n\nFejezze be a túrát a nagyszerű kúriák közelében. Ahogy a délután elszáll, hagyja hátra járművét, hogy élvezzen egy kellemes étkezést Écija egyik történelmi sikátorában.",
+        "ro": "Începeți aventura auto la marginea orașului, unde vă așteaptă o arhitectură barocă imaculată. Accesibilitatea ușoară face ca dimineața să fie un moment perfect pentru aceste situri religioase.\n\nNavigați prin rețeaua mai largă de drumuri pentru a descoperi biserici incredibile cu stiluri variate. Opriți-vă mașina pentru a admira îndeaproape elementele mudejar uimitoare.\n\nDupă-amiaza, conduceți spre palatele magnifice ale orașului. După ce v-ați parcat mașina, vă puteți scufunda în istoria bogată a acestor moșii andaluze nobiliare.\n\nÎncheiați turul în apropierea marilor conace. Pe măsură ce după-amiaza trece, lăsați vehiculul pentru a vă bucura de o masă pe una dintre aleile istorice din Écija.",
+        "en": "Start your driving adventure on the fringes of the city, where immaculate baroque architecture awaits. The easy accessibility makes morning a perfect time for these religious sites.\n\nNavigate through the slightly wider road network to uncover incredible churches featuring varied styles. Pause your drive to admire amazing Mudéjar elements and fine details up close.\n\nIn the afternoon, head towards the magnificent palaces of the city. After safely parking your car, you can dive into the rich history of these noble Andalusian estates.\n\nFinish your tour near the grand mansions. As the afternoon fades, leave your vehicle behind to enjoy a delightful meal down one of Écija's historic, sun-drenched alleys."
+      }
+    }
+  }
+}

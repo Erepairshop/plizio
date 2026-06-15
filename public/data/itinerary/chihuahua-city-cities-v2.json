@@ -1,0 +1,474 @@
+{
+  "city_id": "chihuahua-city-cities-v2",
+  "anchor": {
+    "name": "Chihuahua",
+    "coords": [
+      -106.0691,
+      28.6328
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Quinta Touche",
+            "hu": "Quinta Touche",
+            "ro": "Quinta Touche",
+            "en": "Quinta Touche"
+          },
+          "coords": [
+            -106.07269,
+            28.633881
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Quinta Touche, ein Symbol des Wohlstands der Stadt, und achten Sie auf die aufwendigen Details an der Fassade.",
+            "hu": "Csodálja meg a Quinta Touche elegáns építészetét, a város jólétének szimbólumát, és figyelje meg a homlokzat bonyolult, aprólékos részleteit.",
+            "ro": "Admirați arhitectura elegantă a Quintei Touche, un simbol al prosperității orașului, și acordați o atenție deosebită detaliilor complexe de pe fațadă.",
+            "en": "Admire the elegant architecture of Quinta Touche, a symbol of the city's prosperity, and pay special attention to the intricate details on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Gameros",
+            "hu": "Quinta Gameros",
+            "ro": "Quinta Gameros",
+            "en": "Quinta Gameros"
+          },
+          "coords": [
+            -106.073563,
+            28.632239
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Jugendstil-Pracht der Quinta Gameros, ein architektonisches Juwel, und nehmen Sie sich Zeit für die reich verzierten Innenräume.",
+            "hu": "Fedezze fel a Quinta Gameros szecessziós pompáját, ezt az építészeti gyöngyszemet, és szánjon időt a gazdagon díszített belső terek megcsodálására.",
+            "ro": "Descoperiți splendoarea Art Nouveau a Quintei Gameros, o bijuterie arhitecturală, și faceți-vă timp pentru a explora interioarele bogat ornamentate.",
+            "en": "Discover the Art Nouveau splendor of Quinta Gameros, an architectural gem, and take your time exploring the richly decorated and historic interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarike",
+            "hu": "Tarike",
+            "ro": "Tarike",
+            "en": "Tarike"
+          },
+          "coords": [
+            -106.069524,
+            28.62977
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Tarike mehr über die faszinierende lokale Geschichte und fragen Sie das Personal nach spannenden Anekdoten über die Ausstellungsstücke.",
+            "hu": "Tudjon meg többet a lenyűgöző helyi történelemről a Tarike múzeumban, és bátran kérdezze a személyzetet a kiállított tárgyak izgalmas háttérsztorijairól.",
+            "ro": "Aflați mai multe despre istoria locală fascinantă la muzeul Tarike și nu ezitați să întrebați personalul despre poveștile din spatele exponatelor.",
+            "en": "Learn about fascinating local history at the Tarike museum, and feel free to ask the knowledgeable staff for the engaging stories behind the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Villa",
+            "hu": "Museo Casa de Villa",
+            "ro": "Museo Casa de Villa",
+            "en": "Museo Casa de Villa"
+          },
+          "coords": [
+            -106.068553,
+            28.626592
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ehemaligen Wohnhaus in das Leben von Pancho Villa ein und betrachten Sie unbedingt den von Kugeln durchsiebten Dodge-Oldtimer.",
+            "hu": "Merüljön el Pancho Villa életében ebben az egykori lakóházban, és mindenképpen nézze meg a golyókkal szitává lőtt történelmi Dodge autót az udvaron.",
+            "ro": "Pătrundeți în viața lui Pancho Villa în această fostă casă și asigurați-vă că vedeți mașina Dodge istorică ciuruită de gloanțe din curtea interioară.",
+            "en": "Delve into the life of Pancho Villa at his former residence, and make sure to see the historic bullet-riddled Dodge automobile displayed in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo del Sagrado Corazón de Jesús",
+            "hu": "Templo del Sagrado Corazón de Jesús",
+            "ro": "Templo del Sagrado Corazón de Jesús",
+            "en": "Templo del Sagrado Corazón de Jesús"
+          },
+          "coords": [
+            -106.070872,
+            28.625918
+          ],
+          "category": "landmark",
+          "arrive_at": "15:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe im Templo del Sagrado Corazón, einer wunderschönen Kirche, und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat a Templo del Sagrado Corazón templomban, és látogasson el késő délután a legjobb fényviszonyok érdekében.",
+            "ro": "Experimentați liniștea spirituală la Templo del Sagrado Corazón, o biserică superbă, și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină.",
+            "en": "Experience spiritual tranquility at the Templo del Sagrado Corazón, a stunning church, and try to visit in the late afternoon for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Penitenciaria del Estado",
+            "hu": "Penitenciaria del Estado",
+            "ro": "Penitenciaria del Estado",
+            "en": "Penitenciaria del Estado"
+          },
+          "coords": [
+            -106.072062,
+            28.624022
+          ],
+          "category": "landmark",
+          "arrive_at": "16:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die düstere Geschichte dieses historischen Staatsgefängnisses und achten Sie auf die beeindruckende, massive Steinarchitektur des Gebäudes.",
+            "hu": "Fedezze fel ennek a történelmi állami börtönnek a komor történetét, és figyelje meg az épület lenyűgöző, masszív kőépítészetét a bejárati résznél.",
+            "ro": "Explorați istoria sumbră a acestui penitenciar istoric de stat și acordați atenție arhitecturii din piatră masivă și impresionantă a clădirii principale.",
+            "en": "Explore the somber history of this historic state penitentiary, and pay close attention to the impressive, massive stone architecture of the building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch die elegante Architektur der Quinta Touche. Die historischen Details setzen den perfekten Ton.\nZur Mittagszeit tauchen Sie in die kunstvollen Räume der Quinta Gameros ein, gefolgt von tiefen historischen Einblicken im Tarike.\nDer Nachmittag ist Pancho Villa im Museo Casa de Villa gewidmet. Danach bietet der Templo del Sagrado Corazón einen Ort der Besinnung.\nDen Tag beenden Sie mit der beeindruckenden Architektur der Penitenciaria del Estado, wo die Geschichte Chihuahuas spürbar nachklingt.",
+        "hu": "Kezdje a napot a Quinta Touche elegáns építészetének felfedezésével. A történelmi részletek megadják az alaphangot a városi sétához.\nDélben merüljön el a Quinta Gameros díszes termeiben, majd ismerje meg a város múltját a Tarike múzeum lenyűgöző kiállításain.\nA délután Pancho Villa életéről szól a Museo Casa de Villa falai között. Ezután a Templo del Sagrado Corazón nyújt lelki békét.\nA napot az egykori állami börtön lenyűgöző épületénél zárja, ahol Chihuahua történelmének komorabb fejezetei is kézzelfoghatóvá válnak.",
+        "ro": "Începeți ziua cu o plimbare printre detaliile arhitecturale ale Quintei Touche. Această eleganță istorică setează tonul perfect al zilei.\nLa amiază, explorați camerele ornate ale Quintei Gameros, urmate de perspective profunde asupra istoriei locale la muzeul Tarike.\nDupă-amiaza este dedicată lui Pancho Villa la Museo Casa de Villa. Apoi, Templo del Sagrado Corazón oferă un moment de reflecție.\nÎncheiați ziua admirând arhitectura impunătoare a Penitenciarului de Stat, unde ecourile trecutului din Chihuahua rămân mereu vii.",
+        "en": "Start your morning strolling past the elegant architecture of Quinta Touche. Its historic charm sets a wonderful tone for your walking tour.\nMidday invites you into the ornate and beautiful rooms of Quinta Gameros, followed by deep dives into local lore at the Tarike museum.\nThe afternoon is dedicated to Pancho Villa at the Museo Casa de Villa. Afterwards, the Templo del Sagrado Corazón offers a quiet retreat.\nConclude your day exploring the imposing architecture of the State Penitentiary, where the echoes of Chihuahua's complex history resonate."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a los Niños Heroes",
+            "hu": "Monumento a los Niños Heroes",
+            "ro": "Monumento a los Niños Heroes",
+            "en": "Monumento a los Niños Heroes"
+          },
+          "coords": [
+            -106.065618,
+            28.64435
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die jungen Kadetten an diesem historischen Denkmal und nutzen Sie die weitläufige Anlage für einen ruhigen, morgendlichen Spaziergang.",
+            "hu": "Tisztelegjen az ifjú kadétok előtt ennél a történelmi emlékműnél, és használja ki a tágas teret egy csendes, nyugodt kora reggeli sétához.",
+            "ro": "Onorați tinerii cadeți la acest monument istoric dedicat lor și profitați de spațiul deschis din jur pentru o scurtă plimbare matinală relaxantă.",
+            "en": "Honor the young military cadets at this historical monument, and take advantage of the surrounding open space for a quiet, relaxing morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Benito Juarez",
+            "hu": "Benito Juarez",
+            "ro": "Benito Juarez",
+            "en": "Benito Juarez"
+          },
+          "coords": [
+            -106.067774,
+            28.646295
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das Denkmal für den Reformer Benito Juárez und lesen Sie die Inschriften, um mehr über seinen Einfluss auf die mexikanische Geschichte zu erfahren.",
+            "hu": "Tekintse meg a nagy reformer, Benito Juárez emlékművét, és olvassa el a feliratokat, hogy megértse a mexikói történelemre gyakorolt hatalmas hatását.",
+            "ro": "Priviți monumentul reformatorului Benito Juárez și citiți inscripțiile pentru a înțelege impactul său profund asupra istoriei și culturii mexicane.",
+            "en": "View the monument dedicated to the reformer Benito Juárez, and read the informative inscriptions to understand his profound impact on Mexican history."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Touche",
+            "hu": "Quinta Touche",
+            "ro": "Quinta Touche",
+            "en": "Quinta Touche"
+          },
+          "coords": [
+            -106.07269,
+            28.633881
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Quinta Touche, ein Symbol des Wohlstands der Stadt, und achten Sie auf die aufwendigen Details an der Fassade.",
+            "hu": "Csodálja meg a Quinta Touche elegáns építészetét, a város jólétének szimbólumát, és figyelje meg a homlokzat bonyolult, aprólékos részleteit.",
+            "ro": "Admirați arhitectura elegantă a Quintei Touche, un simbol al prosperității orașului, și acordați o atenție deosebită detaliilor complexe de pe fațadă.",
+            "en": "Admire the elegant architecture of Quinta Touche, a symbol of the city's prosperity, and pay special attention to the intricate details on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Gameros",
+            "hu": "Quinta Gameros",
+            "ro": "Quinta Gameros",
+            "en": "Quinta Gameros"
+          },
+          "coords": [
+            -106.073563,
+            28.632239
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Jugendstil-Pracht der Quinta Gameros, ein architektonisches Juwel, und nehmen Sie sich Zeit für die reich verzierten Innenräume.",
+            "hu": "Fedezze fel a Quinta Gameros szecessziós pompáját, ezt az építészeti gyöngyszemet, és szánjon időt a gazdagon díszített belső terek megcsodálására.",
+            "ro": "Descoperiți splendoarea Art Nouveau a Quintei Gameros, o bijuterie arhitecturală, și faceți-vă timp pentru a explora interioarele bogat ornamentate.",
+            "en": "Discover the Art Nouveau splendor of Quinta Gameros, an architectural gem, and take your time exploring the richly decorated and historic interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Villa",
+            "hu": "Museo Casa de Villa",
+            "ro": "Museo Casa de Villa",
+            "en": "Museo Casa de Villa"
+          },
+          "coords": [
+            -106.068553,
+            28.626592
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ehemaligen Wohnhaus in das Leben von Pancho Villa ein und betrachten Sie unbedingt den von Kugeln durchsiebten Dodge-Oldtimer.",
+            "hu": "Merüljön el Pancho Villa életében ebben az egykori lakóházban, és mindenképpen nézze meg a golyókkal szitává lőtt történelmi Dodge autót az udvaron.",
+            "ro": "Pătrundeți în viața lui Pancho Villa în această fostă casă și asigurați-vă că vedeți mașina Dodge istorică ciuruită de gloanțe din curtea interioară.",
+            "en": "Delve into the life of Pancho Villa at his former residence, and make sure to see the historic bullet-riddled Dodge automobile displayed in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo del Sagrado Corazón de Jesús",
+            "hu": "Templo del Sagrado Corazón de Jesús",
+            "ro": "Templo del Sagrado Corazón de Jesús",
+            "en": "Templo del Sagrado Corazón de Jesús"
+          },
+          "coords": [
+            -106.070872,
+            28.625918
+          ],
+          "category": "landmark",
+          "arrive_at": "16:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe im Templo del Sagrado Corazón, einer wunderschönen Kirche, und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat a Templo del Sagrado Corazón templomban, és látogasson el késő délután a legjobb fényviszonyok érdekében.",
+            "ro": "Experimentați liniștea spirituală la Templo del Sagrado Corazón, o biserică superbă, și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină.",
+            "en": "Experience spiritual tranquility at the Templo del Sagrado Corazón, a stunning church, and try to visit in the late afternoon for the best natural light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Monumento a los Niños Heroes und radeln Sie dann zügig weiter, um das Benito Juárez Denkmal zu ehren.\nGegen Mittag erreichen Sie das Zentrum und bestaunen die elegante Quinta Touche sowie die prunkvolle Jugendstil-Villa Quinta Gameros.\nNachmittags fahren Sie zum Museo Casa de Villa, wo die Revolution lebendig wird. Die Radwege im Zentrum sind gut befahrbar.\nLassen Sie den Abend ruhig am Templo del Sagrado Corazón ausklingen, bevor Sie die Fahrräder im sanften Abendlicht sicher abstellen.",
+        "hu": "Kezdje a biciklitúrát a Hős Gyermekek Emlékművénél, majd tekerjen el a közeli Benito Juárez szoborhoz, hogy tisztelegjen a történelem előtt.\nDélben a belvárosba érve megcsodálhatja az elegáns Quinta Touche épületét és a lenyűgöző szecessziós Quinta Gameros palotát.\nDélután látogasson el a Museo Casa de Villa falai közé, ahol életre kel a forradalom. A történelmi központ kényelmesen bejárható.\nAz estét a Templo del Sagrado Corazón békés környezetében zárja le, miközben a lemenő nap fénye megvilágítja a gyönyörű templomot.",
+        "ro": "Începeți turul cu bicicleta la Monumentul Niños Heroes, apoi pedalați spre statuia istorică a lui Benito Juárez pentru a simți pulsul națiunii.\nLa prânz, ajungeți în centru pentru a admira eleganta Quinta Touche și splendoarea Art Nouveau a impunătoarei Quinta Gameros.\nDupă-amiaza pedalați la Museo Casa de Villa, unde revoluția prinde viață. Străzile centrale vă permit o explorare activă și plăcută.\nÎncheiați traseul într-o notă liniștită la Templo del Sagrado Corazón, admirând fațada frumos luminată în amurg.",
+        "en": "Kick off your cycling tour at the Monumento a los Niños Heroes, then ride smoothly over to the majestic Benito Juarez historical monument.\nBy midday, arrive in the city center to admire the elegant Quinta Touche and the stunning Art Nouveau details of Quinta Gameros.\nSpend your afternoon at the Museo Casa de Villa, where the Mexican Revolution comes to life. The central streets are great for cycling.\nWind down your active day with a peaceful stop at the Templo del Sagrado Corazón, enjoying the beautiful architecture in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 13.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Casa de Villa",
+            "hu": "Museo Casa de Villa",
+            "ro": "Museo Casa de Villa",
+            "en": "Museo Casa de Villa"
+          },
+          "coords": [
+            -106.068553,
+            28.626592
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ehemaligen Wohnhaus in das Leben von Pancho Villa ein und betrachten Sie unbedingt den von Kugeln durchsiebten Dodge-Oldtimer.",
+            "hu": "Merüljön el Pancho Villa életében ebben az egykori lakóházban, és mindenképpen nézze meg a golyókkal szitává lőtt történelmi Dodge autót az udvaron.",
+            "ro": "Pătrundeți în viața lui Pancho Villa în această fostă casă și asigurați-vă că vedeți mașina Dodge istorică ciuruită de gloanțe din curtea interioară.",
+            "en": "Delve into the life of Pancho Villa at his former residence, and make sure to see the historic bullet-riddled Dodge automobile displayed in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Gameros",
+            "hu": "Quinta Gameros",
+            "ro": "Quinta Gameros",
+            "en": "Quinta Gameros"
+          },
+          "coords": [
+            -106.073563,
+            28.632239
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Jugendstil-Pracht der Quinta Gameros, ein architektonisches Juwel, und nehmen Sie sich Zeit für die reich verzierten Innenräume.",
+            "hu": "Fedezze fel a Quinta Gameros szecessziós pompáját, ezt az építészeti gyöngyszemet, és szánjon időt a gazdagon díszített belső terek megcsodálására.",
+            "ro": "Descoperiți splendoarea Art Nouveau a Quintei Gameros, o bijuterie arhitecturală, și faceți-vă timp pentru a explora interioarele bogat ornamentate.",
+            "en": "Discover the Art Nouveau splendor of Quinta Gameros, an architectural gem, and take your time exploring the richly decorated and historic interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuatico DIF",
+            "hu": "Parque Acuatico DIF",
+            "ro": "Parque Acuatico DIF",
+            "en": "Parque Acuatico DIF"
+          },
+          "coords": [
+            -106.016316,
+            28.619576
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Auszeit im Wasserpark DIF, ideal für Familien, und bringen Sie unbedingt ausreichend Sonnenschutz für den Nachmittag mit.",
+            "hu": "Élvezze a frissítő kikapcsolódást a családbarát DIF víziparkban, és mindenképpen vigyen magával elegendő naptejet a forró délutáni órákra.",
+            "ro": "Bucurați-vă de o pauză revigorantă la parcul acvatic DIF, ideal pentru familii, și nu uitați să aduceți multă protecție solară pentru după-amiază.",
+            "en": "Enjoy a refreshing break at the family-friendly DIF aquatic park, and be absolutely sure to bring plenty of sunscreen for the warm afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Feria Santa Rita",
+            "hu": "Feria Santa Rita",
+            "ro": "Feria Santa Rita",
+            "en": "Feria Santa Rita"
+          },
+          "coords": [
+            -106.0113,
+            28.620341
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das Gelände der berühmten Messe Santa Rita und prüfen Sie vorab den Veranstaltungskalender, um mögliche lokale Feste nicht zu verpassen.",
+            "hu": "Járja be a híres Santa Rita vásár területét, és előzetesen ellenőrizze az eseménynaptárt, hogy ne maradjon le a helyi fesztiválokról vagy piacokról.",
+            "ro": "Explorați terenurile celebrului târg Santa Rita și verificați calendarul evenimentelor în avans pentru a prinde posibile festivaluri sau piețe locale.",
+            "en": "Explore the grounds of the famous Santa Rita fair, and check the event calendar in advance to catch any exciting local festivals or lively markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Albercas el Colibri",
+            "hu": "Albercas el Colibri",
+            "ro": "Albercas el Colibri",
+            "en": "Albercas el Colibri"
+          },
+          "coords": [
+            -106.028078,
+            28.593761
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Pools von El Colibri, einer beliebten lokalen Freizeitanlage, und mieten Sie sich einen Schattenplatz für maximalen Komfort.",
+            "hu": "Pihenjen az El Colibri medencéinél, amely egy népszerű helyi szabadidős komplexum, és béreljen egy árnyékos pihenőhelyet a maximális kényelemért.",
+            "ro": "Relaxați-vă la piscinele El Colibri, un complex de agrement local popular, și închiriați un loc la umbră pentru a vă bucura de confort maxim.",
+            "en": "Relax by the pools of El Colibri, a popular local recreational complex, and consider renting a shaded seating area to ensure your maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Cruz",
+            "hu": "Cruz",
+            "ro": "Cruz",
+            "en": "Cruz"
+          },
+          "coords": [
+            -106.053345,
+            28.596078
+          ],
+          "category": "historical",
+          "arrive_at": "16:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Kreuz als ruhigen Abschluss des Tages und genießen Sie von hier aus die weite Aussicht auf die umliegende Landschaft.",
+            "hu": "Látogassa meg ezt a történelmi keresztet a nap békés lezárásaként, és élvezze az innen nyíló tágas, lenyűgöző kilátást a környező tájra.",
+            "ro": "Vizitați această cruce istorică ca o încheiere liniștită a zilei și bucurați-vă de priveliștile ample asupra peisajului înconjurător de la baza sa.",
+            "en": "Visit this historic cross as a peaceful conclusion to your busy day, and take a moment to enjoy the expansive views of the surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip startet im Museo Casa de Villa, wo Sie die Revolution erkunden. Fahren Sie dann zur Quinta Gameros für beeindruckende Architektur.\nMittags lassen Sie das Zentrum hinter sich und fahren zum Parque Acuatico DIF, wo Sie sich herrlich erfrischen und entspannen können.\nDer Nachmittag führt Sie weiter zum Gelände der Feria Santa Rita und zu den belebten Albercas el Colibri im Süden der Stadt.\nBeenden Sie Ihre Fahrt bei der historischen Cruz. Von dort haben Sie einen wunderbaren Blick auf die weite Landschaft bei Sonnenuntergang.",
+        "hu": "Az autós túra a Museo Casa de Villa felfedezésével indul. Ezután a Quinta Gameros lenyűgöző épülete felé veszi az irányt a központban.\nDélben elhagyja a sűrű belvárost, és a Parque Acuatico DIF víziparkba hajt, amely tökéletes helyszínt biztosít a frissítő pihenésre.\nA délután folyamán bejárja a Feria Santa Rita környékét, majd a népszerű Albercas el Colibri medencéinél tölt felhőtlen órákat.\nA napot a történelmi Cruz emlékműnél zárja, ahonnan csodálatos, tágas kilátás nyílik a tájra a lemenő nap lágy fényében.",
+        "ro": "Excursia cu mașina începe la Museo Casa de Villa, plin de istorie revoluționară. Apoi, conduceți la Quinta Gameros pentru arhitectură grandioasă.\nLa prânz lăsați centrul orașului în urmă și mergeți la Parque Acuatico DIF pentru o pauză relaxantă și revigorantă departe de aglomerație.\nDupă-amiaza vizitați terenurile Feria Santa Rita și popularele Albercas el Colibri, bucurându-vă de o atmosferă vibrantă.\nFinalizați traseul la crucea istorică, bucurându-vă de liniște și de o priveliște panoramică superbă asupra regiunii la apus.",
+        "en": "Your drive begins at the Museo Casa de Villa, steeped in revolutionary history. Then, navigate to the stunning architecture of Quinta Gameros.\nMidday, leave the bustling center behind and cruise to the Parque Acuatico DIF for a refreshing break and some relaxing outdoor time.\nThe afternoon sees you exploring the sprawling Feria Santa Rita grounds and lounging at the lively Albercas el Colibri recreational pools.\nConclude your road trip by driving to the historic Cruz, where you can reflect on the day while taking in panoramic sunset views."
+      }
+    }
+  }
+}

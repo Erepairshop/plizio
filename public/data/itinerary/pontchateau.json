@@ -1,0 +1,451 @@
+{
+  "city_id": "pontchateau",
+  "anchor": {
+    "name": "Pontchâteau",
+    "coords": [
+      -2.0878,
+      47.4369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 4.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalvarienberg von Pontchâteau",
+            "hu": "Pontchâteau-i Kálvária",
+            "ro": "Calvarul din Pontchâteau",
+            "en": "Calvary of Pontchâteau"
+          },
+          "coords": [
+            -2.13716,
+            47.44287
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe dieses einzigartigen religiösen Parks von Saint Louis-Marie Grignion de Montfort und tragen Sie bequeme Schuhe für die Waldwege.",
+            "hu": "Csodálja meg a Saint Louis-Marie Grignion de Montfort által létrehozott vallási park monumentális méreteit, és viseljen kényelmes cipőt az erdei ösvényekhez.",
+            "ro": "Admirați amploarea monumentală a acestui parc religios unic creat de Saint Louis-Marie Grignion de Montfort și purtați încălțăminte comodă pentru potecile împădurite.",
+            "en": "Admire the monumental scale of this unique religious park created by Saint Louis-Marie Grignion de Montfort, and wear comfortable shoes for the wooded trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg-Museum",
+            "hu": "Kálvária Múzeum",
+            "ro": "Muzeul Calvarului",
+            "en": "Calvary Museum"
+          },
+          "coords": [
+            -2.13793,
+            47.441668
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Baus und der Zerstörung des Kalvarienbergs anhand detaillierter Dioramen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a Kálvária építésének és lerombolásának lenyűgöző történetét a részletes diorámákon keresztül, de előtte mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a construcției și distrugerii Calvarului prin diorama sa detaliată, dar amintiți-vă să verificați programul de funcționare în prealabil.",
+            "en": "Discover the fascinating history of the Calvary's construction and destruction through its detailed dioramas, but remember to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bodio",
+            "hu": "Bodio Kastély",
+            "ro": "Castelul Bodio",
+            "en": "Bodio Castle"
+          },
+          "coords": [
+            -2.11736,
+            47.432579
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen, im Grünen gelegenen Anwesens und bringen Sie eine Kamera für Außenaufnahmen mit, da der Innenzugang begrenzt ist.",
+            "hu": "Csodálja meg ennek a zöldellő, történelmi birtoknak a klasszikus építészetét, és hozzon fényképezőgépet a külső fotókhoz, mivel a belső terek korlátozottan látogathatók.",
+            "ro": "Admirați arhitectura clasică a acestui domeniu istoric înconjurat de verdeață și aduceți o cameră pentru poze exterioare, deoarece accesul în interior este limitat.",
+            "en": "Admire the classic architecture of this historic estate nestled in the greenery, and bring a camera for beautiful exterior shots since interior access is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -2.0879,
+            47.43815
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die friedliche Atmosphäre und die wunderschönen Buntglasfenster dieser zentralen Kirche zu schätzen, idealerweise direkt nach dem Morgengottesdienst.",
+            "hu": "Lépjen be, hogy élvezze ennek a központi templomnak a békés hangulatát és gyönyörű ólomüveg ablakait, ideális esetben rögtön a reggeli istentisztelet után.",
+            "ro": "Intrați pentru a aprecia atmosfera pașnică și vitraliile frumoase ale acestei biserici centrale, vizitând-o ideal imediat după slujba de dimineață.",
+            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows of this central church, ideally visiting right after the morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "P.I.A.F",
+            "hu": "P.I.A.F",
+            "ro": "P.I.A.F",
+            "en": "P.I.A.F"
+          },
+          "coords": [
+            -2.089306,
+            47.434471
+          ],
+          "category": "cultural",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale kulturelle Ausstellungen und künstlerische Veranstaltungen in diesem modernen Raum und prüfen Sie den Veranstaltungskalender für interaktive Wochenend-Workshops.",
+            "hu": "Fedezze fel a helyi kulturális kiállításokat és művészeti eseményeket ebben a modern térben, és böngéssze át az eseménynaptárat az interaktív hétvégi workshopokért.",
+            "ro": "Explorați expozițiile culturale locale și evenimentele artistice găzduite în acest spațiu modern și verificați calendarul lor pentru ateliere interactive de weekend.",
+            "en": "Explore local cultural exhibitions and artistic events hosted in this dynamic modern space, and check their event calendar for interactive weekend workshops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am monumentalen Calvaire und seinem Museum.\n\nGegen Mittag erkunden Sie historische Anwesen wie Bodio, um in die Vergangenheit einzutauchen.\n\nAm Nachmittag geht es ins Zentrum zur friedlichen Église Saint-Martin und zu lebendigen kulturellen Treffpunkten.\n\nAbends können Sie an malerischen Orten wie der Moulin de Brignand entspannen und den Tag ausklingen lassen.",
+        "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
+        "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
+        "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 6.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalvarienberg von Pontchâteau",
+            "hu": "Pontchâteau-i Kálvária",
+            "ro": "Calvarul din Pontchâteau",
+            "en": "Calvary of Pontchâteau"
+          },
+          "coords": [
+            -2.13716,
+            47.44287
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe dieses einzigartigen religiösen Parks von Saint Louis-Marie Grignion de Montfort und tragen Sie bequeme Schuhe für die Waldwege.",
+            "hu": "Csodálja meg a Saint Louis-Marie Grignion de Montfort által létrehozott vallási park monumentális méreteit, és viseljen kényelmes cipőt az erdei ösvényekhez.",
+            "ro": "Admirați amploarea monumentală a acestui parc religios unic creat de Saint Louis-Marie Grignion de Montfort și purtați încălțăminte comodă pentru potecile împădurite.",
+            "en": "Admire the monumental scale of this unique religious park created by Saint Louis-Marie Grignion de Montfort, and wear comfortable shoes for the wooded trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg-Museum",
+            "hu": "Kálvária Múzeum",
+            "ro": "Muzeul Calvarului",
+            "en": "Calvary Museum"
+          },
+          "coords": [
+            -2.13793,
+            47.441668
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Baus und der Zerstörung des Kalvarienbergs anhand detaillierter Dioramen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a Kálvária építésének és lerombolásának lenyűgöző történetét a részletes diorámákon keresztül, de előtte mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a construcției și distrugerii Calvarului prin diorama sa detaliată, dar amintiți-vă să verificați programul de funcționare în prealabil.",
+            "en": "Discover the fascinating history of the Calvary's construction and destruction through its detailed dioramas, but remember to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bodio",
+            "hu": "Bodio Kastély",
+            "ro": "Castelul Bodio",
+            "en": "Bodio Castle"
+          },
+          "coords": [
+            -2.11736,
+            47.432579
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen, im Grünen gelegenen Anwesens und bringen Sie eine Kamera für Außenaufnahmen mit, da der Innenzugang begrenzt ist.",
+            "hu": "Csodálja meg ennek a zöldellő, történelmi birtoknak a klasszikus építészetét, és hozzon fényképezőgépet a külső fotókhoz, mivel a belső terek korlátozottan látogathatók.",
+            "ro": "Admirați arhitectura clasică a acestui domeniu istoric înconjurat de verdeață și aduceți o cameră pentru poze exterioare, deoarece accesul în interior este limitat.",
+            "en": "Admire the classic architecture of this historic estate nestled in the greenery, and bring a camera for beautiful exterior shots since interior access is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -2.0879,
+            47.43815
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die friedliche Atmosphäre und die wunderschönen Buntglasfenster dieser zentralen Kirche zu schätzen, idealerweise direkt nach dem Morgengottesdienst.",
+            "hu": "Lépjen be, hogy élvezze ennek a központi templomnak a békés hangulatát és gyönyörű ólomüveg ablakait, ideális esetben rögtön a reggeli istentisztelet után.",
+            "ro": "Intrați pentru a aprecia atmosfera pașnică și vitraliile frumoase ale acestei biserici centrale, vizitând-o ideal imediat după slujba de dimineață.",
+            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows of this central church, ideally visiting right after the morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "P.I.A.F",
+            "hu": "P.I.A.F",
+            "ro": "P.I.A.F",
+            "en": "P.I.A.F"
+          },
+          "coords": [
+            -2.089306,
+            47.434471
+          ],
+          "category": "cultural",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale kulturelle Ausstellungen und künstlerische Veranstaltungen in diesem modernen Raum und prüfen Sie den Veranstaltungskalender für interaktive Wochenend-Workshops.",
+            "hu": "Fedezze fel a helyi kulturális kiállításokat és művészeti eseményeket ebben a modern térben, és böngéssze át az eseménynaptárat az interaktív hétvégi workshopokért.",
+            "ro": "Explorați expozițiile culturale locale și evenimentele artistice găzduite în acest spațiu modern și verificați calendarul lor pentru ateliere interactive de weekend.",
+            "en": "Explore local cultural exhibitions and artistic events hosted in this dynamic modern space, and check their event calendar for interactive weekend workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Brignand",
+            "hu": "Brignand Malom",
+            "ro": "Moara Brignand",
+            "en": "Brignand Windmill"
+          },
+          "coords": [
+            -2.076522,
+            47.42161
+          ],
+          "category": "landmark",
+          "arrive_at": "15:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den malerischen Charme dieser alten, von Natur umgebenen Windmühle, ideal für einen entspannten Nachmittagsspaziergang und ein ruhiges Picknick.",
+            "hu": "Élvezze ennek a természettel körülvett régi szélmalomnak a festői báját, amely tökéletes egy pihentető délutáni sétához és egy csendes piknikhez a városon kívül.",
+            "ro": "Bucurați-vă de farmecul pitoresc al acestei vechi mori de vânt înconjurate de natură, perfectă pentru o plimbare relaxantă de după-amiază și un picnic liniștit.",
+            "en": "Enjoy the picturesque charm of this old windmill surrounded by nature, perfect for a relaxing afternoon stroll and a quiet picnic away from the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am monumentalen Calvaire und seinem Museum.\n\nGegen Mittag erkunden Sie historische Anwesen wie Bodio, um in die Vergangenheit einzutauchen.\n\nAm Nachmittag geht es ins Zentrum zur friedlichen Église Saint-Martin und zu lebendigen kulturellen Treffpunkten.\n\nAbends können Sie an malerischen Orten wie der Moulin de Brignand entspannen und den Tag ausklingen lassen.",
+        "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
+        "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
+        "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 20.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Coislin",
+            "hu": "Coislin Kastély",
+            "ro": "Castelul Coislin",
+            "en": "Coislin Castle"
+          },
+          "coords": [
+            -1.955031,
+            47.438408
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um die beeindruckenden Ruinen dieser einst mächtigen Festung, achten Sie auf die unebenen Wege und stellen Sie sich ihren mittelalterlichen Glanz vor.",
+            "hu": "Sétáljon a régiót egykor uraló, lenyűgöző erőd romjai körül, ügyelve az egyenetlen ösvényekre, miközben elképzeli annak középkori dicsőségét.",
+            "ro": "Plimbați-vă printre ruinele impresionante ale acestei fortărețe cândva mărețe, având grijă pe cărările denivelate în timp ce vă imaginați gloria sa medievală.",
+            "en": "Wander around the impressive ruins of this once-grand fortress that dominated the region, taking care on the uneven paths while imagining its medieval glory."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -2.0879,
+            47.43815
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 11,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die friedliche Atmosphäre und die wunderschönen Buntglasfenster dieser zentralen Kirche zu schätzen, idealerweise direkt nach dem Morgengottesdienst.",
+            "hu": "Lépjen be, hogy élvezze ennek a központi templomnak a békés hangulatát és gyönyörű ólomüveg ablakait, ideális esetben rögtön a reggeli istentisztelet után.",
+            "ro": "Intrați pentru a aprecia atmosfera pașnică și vitraliile frumoase ale acestei biserici centrale, vizitând-o ideal imediat după slujba de dimineață.",
+            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows of this central church, ideally visiting right after the morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg von Pontchâteau",
+            "hu": "Pontchâteau-i Kálvária",
+            "ro": "Calvarul din Pontchâteau",
+            "en": "Calvary of Pontchâteau"
+          },
+          "coords": [
+            -2.13716,
+            47.44287
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe dieses einzigartigen religiösen Parks von Saint Louis-Marie Grignion de Montfort und tragen Sie bequeme Schuhe für die Waldwege.",
+            "hu": "Csodálja meg a Saint Louis-Marie Grignion de Montfort által létrehozott vallási park monumentális méreteit, és viseljen kényelmes cipőt az erdei ösvényekhez.",
+            "ro": "Admirați amploarea monumentală a acestui parc religios unic creat de Saint Louis-Marie Grignion de Montfort și purtați încălțăminte comodă pentru potecile împădurite.",
+            "en": "Admire the monumental scale of this unique religious park created by Saint Louis-Marie Grignion de Montfort, and wear comfortable shoes for the wooded trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg-Museum",
+            "hu": "Kálvária Múzeum",
+            "ro": "Muzeul Calvarului",
+            "en": "Calvary Museum"
+          },
+          "coords": [
+            -2.13793,
+            47.441668
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Baus und der Zerstörung des Kalvarienbergs anhand detaillierter Dioramen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a Kálvária építésének és lerombolásának lenyűgöző történetét a részletes diorámákon keresztül, de előtte mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a construcției și distrugerii Calvarului prin diorama sa detaliată, dar amintiți-vă să verificați programul de funcționare în prealabil.",
+            "en": "Discover the fascinating history of the Calvary's construction and destruction through its detailed dioramas, but remember to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bodio",
+            "hu": "Bodio Kastély",
+            "ro": "Castelul Bodio",
+            "en": "Bodio Castle"
+          },
+          "coords": [
+            -2.11736,
+            47.432579
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen, im Grünen gelegenen Anwesens und bringen Sie eine Kamera für Außenaufnahmen mit, da der Innenzugang begrenzt ist.",
+            "hu": "Csodálja meg ennek a zöldellő, történelmi birtoknak a klasszikus építészetét, és hozzon fényképezőgépet a külső fotókhoz, mivel a belső terek korlátozottan látogathatók.",
+            "ro": "Admirați arhitectura clasică a acestui domeniu istoric înconjurat de verdeață și aduceți o cameră pentru poze exterioare, deoarece accesul în interior este limitat.",
+            "en": "Admire the classic architecture of this historic estate nestled in the greenery, and bring a camera for beautiful exterior shots since interior access is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Brignand",
+            "hu": "Brignand Malom",
+            "ro": "Moara Brignand",
+            "en": "Brignand Windmill"
+          },
+          "coords": [
+            -2.076522,
+            47.42161
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den malerischen Charme dieser alten, von Natur umgebenen Windmühle, ideal für einen entspannten Nachmittagsspaziergang und ein ruhiges Picknick.",
+            "hu": "Élvezze ennek a természettel körülvett régi szélmalomnak a festői báját, amely tökéletes egy pihentető délutáni sétához és egy csendes piknikhez a városon kívül.",
+            "ro": "Bucurați-vă de farmecul pitoresc al acestei vechi mori de vânt înconjurate de natură, perfectă pentru o plimbare relaxantă de după-amiază și un picnic liniștit.",
+            "en": "Enjoy the picturesque charm of this old windmill surrounded by nature, perfect for a relaxing afternoon stroll and a quiet picnic away from the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am monumentalen Calvaire und seinem Museum.\n\nGegen Mittag erkunden Sie historische Anwesen wie Bodio, um in die Vergangenheit einzutauchen.\n\nAm Nachmittag geht es ins Zentrum zur friedlichen Église Saint-Martin und zu lebendigen kulturellen Treffpunkten.\n\nAbends können Sie an malerischen Orten wie der Moulin de Brignand entspannen und den Tag ausklingen lassen.",
+        "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
+        "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
+        "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      }
+    }
+  }
+}

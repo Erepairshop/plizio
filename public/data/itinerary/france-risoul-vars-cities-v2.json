@@ -1,0 +1,474 @@
+{
+  "city_id": "france-risoul-vars-cities-v2",
+  "anchor": {
+    "name": "Risoul / Vars",
+    "coords": [
+      6.64,
+      44.648611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:12",
+      "total_km": 2.09,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Four à Poterie",
+            "hu": "Four à Poterie",
+            "ro": "Four à Poterie",
+            "en": "Four à Poterie"
+          },
+          "coords": [
+            6.63811,
+            44.649164
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den traditionellen Töpferofen, ein Zeugnis alter Handwerkskunst, und kommen Sie morgens, um die besten Fotos im weichen Licht zu machen.",
+            "hu": "Csodálja meg a hagyományos fazekaskemencét, amely az ősi mesterségek tanúja, és érkezzen reggel, hogy a legjobb fényekben fotózhasson.",
+            "ro": "Admirați cuptorul tradițional de olărit, o mărturie a vechilor meșteșuguri, și veniți dimineața pentru a prinde cea mai bună lumină pentru fotografii.",
+            "en": "Admire the traditional pottery kiln, a testament to ancient craftsmanship, and arrive in the morning to catch the best light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Lucie",
+            "hu": "Église Sainte-Lucie",
+            "ro": "Église Sainte-Lucie",
+            "en": "Église Sainte-Lucie"
+          },
+          "coords": [
+            6.639612,
+            44.649276
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Bergkirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie auf die detailreichen Fresken im Inneren.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hegyi templomba, és figyeljen a belső térben található részletgazdag freskókra a séta során.",
+            "ro": "Vizitați această biserică montană plină de farmec, cunoscută pentru atmosfera sa pașnică, și acordați atenție frescelor detaliate din interior.",
+            "en": "Visit this charming mountain church known for its peaceful atmosphere, and pay special attention to the detailed frescoes preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            6.640688,
+            44.660442
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte Kapelle, die oft übersehen wird, und respektieren Sie die Stille dieses authentischen spirituellen Rückzugsortes.",
+            "hu": "Látogasson el ebbe a gyakran figyelmen kívül hagyott, rejtett kápolnába, és tisztelje a csendet ezen az autentikus és nyugodt spirituális menedékhelyen.",
+            "ro": "Vizitați această capelă ascunsă, adesea trecută cu vederea, și păstrați liniștea în acest refugiu spiritual autentic și deosebit de relaxant.",
+            "en": "Visit this hidden chapel that is often overlooked by tourists, and respect the profound silence of this truly authentic spiritual retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sébastien",
+            "hu": "Chapelle Saint-Sébastien",
+            "ro": "Chapelle Saint-Sébastien",
+            "en": "Chapelle Saint-Sébastien"
+          },
+          "coords": [
+            6.643954,
+            44.65989
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, malerische Kapelle, die eine reiche lokale Geschichte birgt, und bringen Sie eine Wasserflasche für die weitere Wanderung mit.",
+            "hu": "Fedezze fel ezt az apró, festői kápolnát, amely gazdag helyi történelmet őriz, és hozzon magával kulacsot a további kiránduláshoz a hegyekben.",
+            "ro": "Descoperiți această mică capelă pitorească ce ascunde o bogată istorie locală și asigurați-vă că aveți apă pentru restul drumeției montane.",
+            "en": "Discover this tiny, picturesque chapel holding rich local history, and carry a water bottle to stay hydrated during your continued mountain trek."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Aquilon",
+            "hu": "Église Notre-Dame de l'Aquilon",
+            "ro": "Église Notre-Dame de l'Aquilon",
+            "en": "Église Notre-Dame de l'Aquilon"
+          },
+          "coords": [
+            6.649648,
+            44.659478
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche mit ihrer beeindruckenden Architektur und nehmen Sie sich Zeit, die Ruhe abseits der Hauptwege zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző építészetű történelmi templomot, és szánjon időt a fő útvonalaktól távol eső csend és nyugalom élvezetére.",
+            "ro": "Explorați această biserică istorică cu arhitectura sa impresionantă și faceți-vă timp pentru a vă bucura de liniștea departe de traseele aglomerate.",
+            "en": "Explore this historic church featuring impressive architecture, and take a moment to enjoy the tranquility away from the main tourist paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am alten Töpferofen, der Sie in die handwerkliche Vergangenheit des Dorfes führt, bevor Sie die Église Sainte-Lucie bewundern. Gegen Mittag wandern Sie zur Chapelle Saint-Roch, einem Ort der Stille. Am Nachmittag entdecken Sie die Chapelle Saint-Sébastien. Der Spaziergang endet an der Église Notre-Dame de l'Aquilon, wo Sie die historische Atmosphäre ausklingen lassen.",
+        "hu": "Kezdje a napot a régi fazekaskemence megtekintésével, amely a falu kézműves múltjába vezet, majd csodálja meg az Église Sainte-Lucie-t. Dél körül sétáljon a Chapelle Saint-Roch-hoz, amely egy békés menedék. Délután fedezze fel a Chapelle Saint-Sébastien-t. A séta a lenyűgöző Église Notre-Dame de l'Aquilonnál ér véget, ahol elmerülhet a történelmi hangulatban.",
+        "ro": "Începeți ziua la vechiul cuptor de olărit, care vă introduce în trecutul meșteșugăresc, înainte de a admira Église Sainte-Lucie. La prânz, mergeți către Chapelle Saint-Roch, un loc de liniște. După-amiaza, descoperiți Chapelle Saint-Sébastien. Plimbarea se încheie la impresionanta Église Notre-Dame de l'Aquilon, unde puteți savura atmosfera istorică.",
+        "en": "Start your day at the ancient pottery kiln, connecting with the village's craft heritage before admiring Église Sainte-Lucie. Around midday, hike to Chapelle Saint-Roch, a peaceful sanctuary. In the afternoon, discover the charm of Chapelle Saint-Sébastien. Your walk concludes at the impressive Église Notre-Dame de l'Aquilon, soaking in the serene atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Four à Poterie",
+            "hu": "Four à Poterie",
+            "ro": "Four à Poterie",
+            "en": "Four à Poterie"
+          },
+          "coords": [
+            6.63811,
+            44.649164
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den traditionellen Töpferofen, ein Zeugnis alter Handwerkskunst, und kommen Sie morgens, um die besten Fotos im weichen Licht zu machen.",
+            "hu": "Csodálja meg a hagyományos fazekaskemencét, amely az ősi mesterségek tanúja, és érkezzen reggel, hogy a legjobb fényekben fotózhasson.",
+            "ro": "Admirați cuptorul tradițional de olărit, o mărturie a vechilor meșteșuguri, și veniți dimineața pentru a prinde cea mai bună lumină pentru fotografii.",
+            "en": "Admire the traditional pottery kiln, a testament to ancient craftsmanship, and arrive in the morning to catch the best light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Lucie",
+            "hu": "Église Sainte-Lucie",
+            "ro": "Église Sainte-Lucie",
+            "en": "Église Sainte-Lucie"
+          },
+          "coords": [
+            6.639612,
+            44.649276
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Bergkirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie auf die detailreichen Fresken im Inneren.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hegyi templomba, és figyeljen a belső térben található részletgazdag freskókra a séta során.",
+            "ro": "Vizitați această biserică montană plină de farmec, cunoscută pentru atmosfera sa pașnică, și acordați atenție frescelor detaliate din interior.",
+            "en": "Visit this charming mountain church known for its peaceful atmosphere, and pay special attention to the detailed frescoes preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Peyre Haute",
+            "hu": "Peyre Haute",
+            "ro": "Peyre Haute",
+            "en": "Peyre Haute"
+          },
+          "coords": [
+            6.661266,
+            44.644318
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem markanten Felsgipfel und tragen Sie festes Schuhwerk, da der Weg zum Rand etwas uneben sein kann.",
+            "hu": "Élvezze a lenyűgöző kilátást erről a jellegzetes sziklacsúcsról, és viseljen túracipőt, mivel a peremhez vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Bucurați-vă de priveliștile uimitoare de pe acest vârf stâncos proeminent și purtați încălțăminte solidă, deoarece poteca este destul de accidentată.",
+            "en": "Enjoy the breathtaking views from this prominent rocky peak, and be sure to wear sturdy hiking shoes as the path to the edge can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Aquilon",
+            "hu": "Église Notre-Dame de l'Aquilon",
+            "ro": "Église Notre-Dame de l'Aquilon",
+            "en": "Église Notre-Dame de l'Aquilon"
+          },
+          "coords": [
+            6.649648,
+            44.659478
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche mit ihrer beeindruckenden Architektur und nehmen Sie sich Zeit, die Ruhe abseits der Hauptwege zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző építészetű történelmi templomot, és szánjon időt a fő útvonalaktól távol eső csend és nyugalom élvezetére.",
+            "ro": "Explorați această biserică istorică cu arhitectura sa impresionantă și faceți-vă timp pentru a vă bucura de liniștea departe de traseele aglomerate.",
+            "en": "Explore this historic church featuring impressive architecture, and take a moment to enjoy the tranquility away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sébastien",
+            "hu": "Chapelle Saint-Sébastien",
+            "ro": "Chapelle Saint-Sébastien",
+            "en": "Chapelle Saint-Sébastien"
+          },
+          "coords": [
+            6.643954,
+            44.65989
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, malerische Kapelle, die eine reiche lokale Geschichte birgt, und bringen Sie eine Wasserflasche für die weitere Wanderung mit.",
+            "hu": "Fedezze fel ezt az apró, festői kápolnát, amely gazdag helyi történelmet őriz, és hozzon magával kulacsot a további kiránduláshoz a hegyekben.",
+            "ro": "Descoperiți această mică capelă pitorească ce ascunde o bogată istorie locală și asigurați-vă că aveți apă pentru restul drumeției montane.",
+            "en": "Discover this tiny, picturesque chapel holding rich local history, and carry a water bottle to stay hydrated during your continued mountain trek."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rue des Masques",
+            "hu": "La Rue des Masques",
+            "ro": "La Rue des Masques",
+            "en": "La Rue des Masques"
+          },
+          "coords": [
+            6.641459,
+            44.669489
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Durchqueren Sie diese faszinierende geologische Formation, die von Legenden umrankt ist, und gehen Sie vorsichtig auf dem losen Untergrund.",
+            "hu": "Keljen át ezen a legendákkal övezett, lenyűgöző geológiai képződményen, és lépkedjen nagyon óvatosan a laza kavicsos talajon haladva.",
+            "ro": "Traversați această formațiune geologică fascinantă înconjurată de legende și pășiți cu mare atenție, deoarece terenul poate fi foarte alunecos.",
+            "en": "Traverse this fascinating geological formation surrounded by local legends, and step very carefully as the loose ground can be quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am historischen Töpferofen und fahren Sie zur Église Sainte-Lucie für die morgendliche Ruhe. Mittags radeln Sie zum Peyre Haute, wo eine beeindruckende Aussicht auf Sie wartet. Am Nachmittag setzen Sie die Tour zur Église Notre-Dame de l'Aquilon und zur Chapelle Saint-Sébastien fort. Der Tag endet an der faszinierenden geologischen Stätte La Rue des Masques.",
+        "hu": "Kezdje kerékpártúráját a történelmi fazekaskemencénél, és tekerjen az Église Sainte-Lucie-hoz a nyugalomért. Délben látogasson el a Peyre Haute-hoz, ahonnan lenyűgöző hegyi kilátás nyílik. Délután folytassa útját az Église Notre-Dame de l'Aquilon és a Chapelle Saint-Sébastien felé. A nap a La Rue des Masques lenyűgöző geológiai képződményénél ér véget.",
+        "ro": "Începeți turul cu bicicleta la cuptorul de olărit și mergeți la Église Sainte-Lucie pentru liniștea dimineții. La prânz, pedalați spre Peyre Haute pentru o vedere uimitoare asupra munților. După-amiaza, continuați spre Église Notre-Dame de l'Aquilon și Chapelle Saint-Sébastien. Ziua se încheie la fascinanta formațiune geologică La Rue des Masques, perfectă pentru explorare relaxată.",
+        "en": "Start your cycling route at the historic pottery kiln and ride to Église Sainte-Lucie to enjoy the morning calm. By midday, cycle up to Peyre Haute, where breathtaking mountain panoramas reward your effort. In the afternoon, pedal towards Église Notre-Dame de l'Aquilon and Chapelle Saint-Sébastien. The adventurous day wraps up at the fascinating geological formation of La Rue des Masques."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 6.51,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Lucie",
+            "hu": "Église Sainte-Lucie",
+            "ro": "Église Sainte-Lucie",
+            "en": "Église Sainte-Lucie"
+          },
+          "coords": [
+            6.639612,
+            44.649276
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Bergkirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie auf die detailreichen Fresken im Inneren.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hegyi templomba, és figyeljen a belső térben található részletgazdag freskókra a séta során.",
+            "ro": "Vizitați această biserică montană plină de farmec, cunoscută pentru atmosfera sa pașnică, și acordați atenție frescelor detaliate din interior.",
+            "en": "Visit this charming mountain church known for its peaceful atmosphere, and pay special attention to the detailed frescoes preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Peyre Haute",
+            "hu": "Peyre Haute",
+            "ro": "Peyre Haute",
+            "en": "Peyre Haute"
+          },
+          "coords": [
+            6.661266,
+            44.644318
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem markanten Felsgipfel und tragen Sie festes Schuhwerk, da der Weg zum Rand etwas uneben sein kann.",
+            "hu": "Élvezze a lenyűgöző kilátást erről a jellegzetes sziklacsúcsról, és viseljen túracipőt, mivel a peremhez vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Bucurați-vă de priveliștile uimitoare de pe acest vârf stâncos proeminent și purtați încălțăminte solidă, deoarece poteca este destul de accidentată.",
+            "en": "Enjoy the breathtaking views from this prominent rocky peak, and be sure to wear sturdy hiking shoes as the path to the edge can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Aquilon",
+            "hu": "Église Notre-Dame de l'Aquilon",
+            "ro": "Église Notre-Dame de l'Aquilon",
+            "en": "Église Notre-Dame de l'Aquilon"
+          },
+          "coords": [
+            6.649648,
+            44.659478
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche mit ihrer beeindruckenden Architektur und nehmen Sie sich Zeit, die Ruhe abseits der Hauptwege zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző építészetű történelmi templomot, és szánjon időt a fő útvonalaktól távol eső csend és nyugalom élvezetére.",
+            "ro": "Explorați această biserică istorică cu arhitectura sa impresionantă și faceți-vă timp pentru a vă bucura de liniștea departe de traseele aglomerate.",
+            "en": "Explore this historic church featuring impressive architecture, and take a moment to enjoy the tranquility away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sébastien",
+            "hu": "Chapelle Saint-Sébastien",
+            "ro": "Chapelle Saint-Sébastien",
+            "en": "Chapelle Saint-Sébastien"
+          },
+          "coords": [
+            6.643954,
+            44.65989
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, malerische Kapelle, die eine reiche lokale Geschichte birgt, und bringen Sie eine Wasserflasche für die weitere Wanderung mit.",
+            "hu": "Fedezze fel ezt az apró, festői kápolnát, amely gazdag helyi történelmet őriz, és hozzon magával kulacsot a további kiránduláshoz a hegyekben.",
+            "ro": "Descoperiți această mică capelă pitorească ce ascunde o bogată istorie locală și asigurați-vă că aveți apă pentru restul drumeției montane.",
+            "en": "Discover this tiny, picturesque chapel holding rich local history, and carry a water bottle to stay hydrated during your continued mountain trek."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            6.640688,
+            44.660442
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte Kapelle, die oft übersehen wird, und respektieren Sie die Stille dieses authentischen spirituellen Rückzugsortes.",
+            "hu": "Látogasson el ebbe a gyakran figyelmen kívül hagyott, rejtett kápolnába, és tisztelje a csendet ezen az autentikus és nyugodt spirituális menedékhelyen.",
+            "ro": "Vizitați această capelă ascunsă, adesea trecută cu vederea, și păstrați liniștea în acest refugiu spiritual autentic și deosebit de relaxant.",
+            "en": "Visit this hidden chapel that is often overlooked by tourists, and respect the profound silence of this truly authentic spiritual retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rue des Masques",
+            "hu": "La Rue des Masques",
+            "ro": "La Rue des Masques",
+            "en": "La Rue des Masques"
+          },
+          "coords": [
+            6.641459,
+            44.669489
+          ],
+          "category": "landmark",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Durchqueren Sie diese faszinierende geologische Formation, die von Legenden umrankt ist, und gehen Sie vorsichtig auf dem losen Untergrund.",
+            "hu": "Keljen át ezen a legendákkal övezett, lenyűgöző geológiai képződményen, és lépkedjen nagyon óvatosan a laza kavicsos talajon haladva.",
+            "ro": "Traversați această formațiune geologică fascinantă înconjurată de legende și pășiți cu mare atenție, deoarece terenul poate fi foarte alunecos.",
+            "en": "Traverse this fascinating geological formation surrounded by local legends, and step very carefully as the loose ground can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Echauguette",
+            "hu": "Echauguette",
+            "ro": "Echauguette",
+            "en": "Echauguette"
+          },
+          "coords": [
+            6.626996,
+            44.667813
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an diesem historischen Wachturm-Felsen mit weitem Blick ab und planen Sie Ihren Besuch für den späten Nachmittag ein.",
+            "hu": "Zárja a túrát ennél a történelmi őrtorony-sziklánál, ahonnan messzire ellátni, és időzítse a látogatást a késő délutáni órákra a panoráma miatt.",
+            "ro": "Încheiați turul la această stâncă istorică de veghe cu vederi ample și planificați-vă vizita pentru sfârșitul după-amiezii pentru cele mai bune poze.",
+            "en": "Conclude your tour at this historic watchtower rock offering expansive views, and time your visit for late afternoon to enjoy the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Église Sainte-Lucie und weiter zum Peyre Haute, um das herrliche Bergpanorama zu bewundern. Zur Mittagszeit besuchen Sie die majestätische Église Notre-Dame de l'Aquilon und die Chapelle Saint-Sébastien. Nachmittags führt die Route zur Chapelle Saint-Roch und durch die Rue des Masques. Den Abschluss bildet der herrliche Ausblick von der Echauguette am Abend.",
+        "hu": "Autózzon reggel az Église Sainte-Lucie-hoz, majd tovább a Peyre Haute-hoz a csodás hegyi panorámáért. Délben látogasson el a fenséges Église Notre-Dame de l'Aquilonhoz és a Chapelle Saint-Sébastienhez. Délután az útvonal a Chapelle Saint-Roch-hoz és a lenyűgöző Rue des Masques-hoz vezet. A napot az Echauguette sziklájáról nyíló páratlan esti kilátás koronázza meg.",
+        "ro": "Conduceți dimineața către Église Sainte-Lucie și urcați la Peyre Haute pentru a admira panorama montană superbă. La prânz, vizitați măreața Église Notre-Dame de l'Aquilon și apropiata Chapelle Saint-Sébastien. După-amiaza, traseul vă duce la Chapelle Saint-Roch și prin impresionanta Rue des Masques. Ziua se încheie cu priveliștea spectaculoasă de seară de la stânca Echauguette.",
+        "en": "Drive comfortably in the morning to Église Sainte-Lucie before heading to Peyre Haute to admire the spectacular mountain panorama. By midday, visit the majestic Église Notre-Dame de l'Aquilon and the nearby Chapelle Saint-Sébastien. In the afternoon, your route leads to Chapelle Saint-Roch and through the striking Rue des Masques. The journey culminates with sunset views from Echauguette."
+      }
+    }
+  }
+}

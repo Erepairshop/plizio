@@ -1,0 +1,543 @@
+{
+  "city_id": "guidel",
+  "anchor": {
+    "name": "Guidel",
+    "coords": [
+      -3.4886,
+      47.7906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 13.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre-et-Saint-Paul Church",
+            "hu": "Saint-Pierre-et-Saint-Paul Church",
+            "ro": "Saint-Pierre-et-Saint-Paul Church",
+            "en": "Saint-Pierre-et-Saint-Paul Church"
+          },
+          "coords": [
+            -3.488011,
+            47.789609
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche und betrachten Sie die Buntglasfenster, bevor Sie in der Nähe einen Kaffee trinken.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét és ólomüveg ablakait, mielőtt beülne egy közeli kávézóba.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și observați vitraliile sale înainte de a savura o cafea în apropiere.",
+            "en": "Admire the beautiful architecture of this central church and take a moment to notice its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Marais de Guidel Nature Reserve",
+            "hu": "Marais de Guidel Nature Reserve",
+            "ro": "Marais de Guidel Nature Reserve",
+            "en": "Marais de Guidel Nature Reserve"
+          },
+          "coords": [
+            -3.498247,
+            47.767857
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhige Küstensumpflandschaft mit vielfältigen Vogelarten und bringen Sie für die beste Beobachtung Ihr Fernglas mit.",
+            "hu": "Fedezze fel ezt a nyugodt tengerparti mocsárvidéket, amely tele van madárfajokkal, így érdemes távcsövet hozni a legjobb élmény érdekében.",
+            "ro": "Explorați această rezervație de mlaștină de coastă plină de specii de păsări și aduceți-vă binoclul pentru cea mai bună experiență de observare.",
+            "en": "Explore this tranquil coastal marshland filled with diverse bird species, so bring your binoculars for the best viewing experience along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Bas-Pouldu Beach",
+            "hu": "Bas-Pouldu Beach",
+            "ro": "Bas-Pouldu Beach",
+            "en": "Bas-Pouldu Beach"
+          },
+          "coords": [
+            -3.526578,
+            47.772078
+          ],
+          "category": "natural",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Sandstrand mit hervorragendem Blick auf die Flussmündung und sammeln Sie bei Ebbe einzigartige Muscheln.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, ahonnan remek kilátás nyílik a torkolatra, és gyűjtsön kagylókat apály idején.",
+            "ro": "Relaxați-vă pe această plajă cu nisip fin cu vedere excelentă la estuar și plimbați-vă de-a lungul țărmului la reflux pentru a aduna scoici.",
+            "en": "Relax on this pristine sandy beach with excellent views of the estuary, and walk along the shoreline at low tide to collect unique seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Laïta River",
+            "hu": "Laïta River",
+            "ro": "Laïta River",
+            "en": "Laïta River"
+          },
+          "coords": [
+            -3.525331,
+            47.80747
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen Flusslauf, der die regionale Grenze markiert, ideal um ein Kajak zu mieten oder ein Picknick am Ufer zu veranstalten.",
+            "hu": "Élvezze a festői folyó békés áramlását, amely a régió határát jelzi, és tökéletes hely egy kajak bérlésére vagy egy csendes piknikre a parton.",
+            "ro": "Bucurați-vă de curgerea liniștită a acestui râu pitoresc ce marchează granița regională, perfect pentru a închiria un caiac sau pentru un picnic.",
+            "en": "Enjoy the peaceful flow of this picturesque river marking the regional border, perfect for renting a kayak or having a quiet picnic on its banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Madeleine Chapel",
+            "hu": "Madeleine Chapel",
+            "ro": "Madeleine Chapel",
+            "en": "Madeleine Chapel"
+          },
+          "coords": [
+            -3.457241,
+            47.8107
+          ],
+          "category": "religious",
+          "arrive_at": "17:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante, historische Steinkapelle auf dem Land und machen Sie einen gemütlichen Spaziergang durch die umliegenden Gärten.",
+            "hu": "Fedezze fel ezt a bájos történelmi kőkápolnát a vidéki környezetben, és tegyen egy kellemes sétát a békés környező kertekben.",
+            "ro": "Descoperiți această capelă de piatră fermecătoare și istorică ascunsă în mediul rural și faceți o plimbare ușoară prin grădinile sale pașnice.",
+            "en": "Discover this charming and historic stone chapel tucked away in the countryside, and take a gentle stroll around its peaceful surrounding gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der historischen Kirche Saint-Pierre-et-Saint-Paul und geht in die ruhige Atmosphäre der Stadt über. Mittags wandern Sie durch das Naturschutzgebiet Marais de Guidel und zum Strand Bas-Pouldu. Der Nachmittag bietet eine schöne Wanderung zu den Ufern der Laïta. Der Abend endet mit einem besinnlichen Spaziergang zur ruhigen Madeleine-Kapelle im sanften Abendlicht.",
+        "hu": "A reggel a történelmi Saint-Pierre-et-Saint-Paul templomnál kezdődik, ráhangolódva a város csendes hangulatára. Délben a buja Marais de Guidel természetvédelmi területen és a Bas-Pouldu strandon sétálhat. A délután egy kedves túrát kínál a békés Laïta folyó partjára. Az estét egy elmélkedő séta zárja, amely a nyugodt Madeleine kápolnához vezet az esti fényekben.",
+        "ro": "Dimineața începe la biserica istorică Saint-Pierre-et-Saint-Paul, intrând în atmosfera liniștită a orașului. La prânz, treceți prin rezervația naturală Marais de Guidel și ajungeți pe plaja Bas-Pouldu. După-amiaza vă aduce o drumeție minunată spre malurile pașnice ale râului Laïta. Seara se încheie cu o plimbare reflexivă care vă conduce spre senina Capelă Madeleine.",
+        "en": "Morning begins at the historic Saint-Pierre-et-Saint-Paul Church, settling into the town's quiet atmosphere. Midday takes you through the lush Marais de Guidel Nature Reserve and onto the expansive Bas-Pouldu Beach for ocean breezes. The afternoon features a lovely trek to the peaceful Laïta River banks. Your evening concludes with a reflective walk leading up to the serene Madeleine Chapel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 17.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre-et-Saint-Paul Church",
+            "hu": "Saint-Pierre-et-Saint-Paul Church",
+            "ro": "Saint-Pierre-et-Saint-Paul Church",
+            "en": "Saint-Pierre-et-Saint-Paul Church"
+          },
+          "coords": [
+            -3.488011,
+            47.789609
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche und betrachten Sie die Buntglasfenster, bevor Sie in der Nähe einen Kaffee trinken.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét és ólomüveg ablakait, mielőtt beülne egy közeli kávézóba.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și observați vitraliile sale înainte de a savura o cafea în apropiere.",
+            "en": "Admire the beautiful architecture of this central church and take a moment to notice its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Madeleine Chapel",
+            "hu": "Madeleine Chapel",
+            "ro": "Madeleine Chapel",
+            "en": "Madeleine Chapel"
+          },
+          "coords": [
+            -3.457241,
+            47.8107
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante, historische Steinkapelle auf dem Land und machen Sie einen gemütlichen Spaziergang durch die umliegenden Gärten.",
+            "hu": "Fedezze fel ezt a bájos történelmi kőkápolnát a vidéki környezetben, és tegyen egy kellemes sétát a békés környező kertekben.",
+            "ro": "Descoperiți această capelă de piatră fermecătoare și istorică ascunsă în mediul rural și faceți o plimbare ușoară prin grădinile sale pașnice.",
+            "en": "Discover this charming and historic stone chapel tucked away in the countryside, and take a gentle stroll around its peaceful surrounding gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Marais de Guidel Nature Reserve",
+            "hu": "Marais de Guidel Nature Reserve",
+            "ro": "Marais de Guidel Nature Reserve",
+            "en": "Marais de Guidel Nature Reserve"
+          },
+          "coords": [
+            -3.498247,
+            47.767857
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhige Küstensumpflandschaft mit vielfältigen Vogelarten und bringen Sie für die beste Beobachtung Ihr Fernglas mit.",
+            "hu": "Fedezze fel ezt a nyugodt tengerparti mocsárvidéket, amely tele van madárfajokkal, így érdemes távcsövet hozni a legjobb élmény érdekében.",
+            "ro": "Explorați această rezervație de mlaștină de coastă plină de specii de păsări și aduceți-vă binoclul pentru cea mai bună experiență de observare.",
+            "en": "Explore this tranquil coastal marshland filled with diverse bird species, so bring your binoculars for the best viewing experience along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Crique des Amoureux",
+            "hu": "Crique des Amoureux",
+            "ro": "Crique des Amoureux",
+            "en": "Crique des Amoureux"
+          },
+          "coords": [
+            -3.510593,
+            47.749889
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese abgeschiedene Bucht mit atemberaubenden Klippenpanoramen und tragen Sie festes Schuhwerk für den felsigen Abstieg.",
+            "hu": "Meneküljön ebbe az eldugott öbölbe, amely lenyűgöző sziklapart panorámát kínál, és viseljen masszív cipőt a sziklás leereszkedéshez.",
+            "ro": "Evadați în acest golf izolat, care oferă panorame uimitoare pe stânci, și purtați pantofi rezistenți pentru a coborî în siguranță la apă.",
+            "en": "Escape to this secluded cove offering stunning cliffside panoramas, and wear sturdy shoes to safely navigate the rocky descent to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste des Kaolins",
+            "hu": "Plage naturiste des Kaolins",
+            "ro": "Plage naturiste des Kaolins",
+            "en": "Plage naturiste des Kaolins"
+          },
+          "coords": [
+            -3.488799,
+            47.722822
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Atmosphäre dieses berühmten FKK-Strandes, achten Sie auf die lokale Etikette und genießen Sie die Sandstrände.",
+            "hu": "Tapasztalja meg ennek a híres naturista strandnak az egyedi hangulatát, ügyelve a helyi etikett betartására és a tiszta homokos szakaszokra.",
+            "ro": "Experimentați atmosfera unică a acestei celebre plaje naturiste, asigurându-vă că respectați eticheta locală și vă bucurați de nisipul curat.",
+            "en": "Experience the unique atmosphere of this famous naturist beach, making sure to respect local etiquette and enjoy the pristine sandy stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Courégant",
+            "hu": "Plage du Courégant",
+            "ro": "Plage du Courégant",
+            "en": "Plage du Courégant"
+          },
+          "coords": [
+            -3.471816,
+            47.710906
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem familienfreundlichen Strand mit hervorragenden Surfbedingungen und holen Sie sich einen Snack am Kiosk.",
+            "hu": "Élvezze a napsütést ezen a családbarát strandon, amely kiváló szörfös körülményeiről ismert, és egyen egy gyors falatot a közeli pavilonoknál.",
+            "ro": "Bucurați-vă de soare pe această plajă potrivită pentru familii, renumită pentru condițiile de surf, și luați o gustare de la chioșcurile din apropiere.",
+            "en": "Soak up the sun at this family-friendly beach known for its excellent surf conditions, and grab a quick snack from the nearby seasonal kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Rouges",
+            "hu": "Plage des Sables Rouges",
+            "ro": "Plage des Sables Rouges",
+            "en": "Plage des Sables Rouges"
+          },
+          "coords": [
+            -3.483086,
+            47.716221
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rötlichen Farbtöne des Sandes an diesem schönen Küstenort, der eine fantastische Kulisse für Fotos am späten Nachmittag bietet.",
+            "hu": "Csodálja meg a homok különleges vöröses árnyalatait ezen a gyönyörű tengerparti helyen, amely fantasztikus hátteret biztosít a fotózáshoz.",
+            "ro": "Admirați nuanțele roșiatice distincte ale nisipului din acest loc de coastă superb, care oferă un fundal fantastic pentru fotografiile de după-amiază.",
+            "en": "Marvel at the distinct reddish hues of the sand at this beautiful coastal spot, which provides a fantastic backdrop for late afternoon photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der zentralen Kirche, bevor Sie zur wunderschönen Madeleine-Kapelle fahren. Mittags radeln Sie zum Naturschutzgebiet und zur einsamen Bucht Crique des Amoureux. Am Nachmittag geht es weiter zum FKK-Strand Kaolins und zum Courégant. Der Abend klingt an der markanten Plage des Sables Rouges beim Sonnenuntergang wunderbar und sehr entspannt aus.",
+        "hu": "Kezdje a kerékpáros napot a központi templomnál, majd tekerjen a gyönyörű Madeleine kápolnához. A déli órákban a vibráló természetvédelmi területhez és a Crique des Amoureux öbölhöz vezet az út. Délután a híres Kaolins naturista strandra és a Courégant strandra gurulhat. Az este a lenyűgöző Plage des Sables Rouges strandon ér véget, ahonnan csodás a naplemente.",
+        "ro": "Începeți ziua de ciclism la biserica centrală înainte de a vă îndrepta spre frumoasa Capelă Madeleine. La prânz, pedalați spre rezervația naturală și golful izolat Crique des Amoureux. După-amiaza continuă pe măsură ce mergeți spre plaja naturistă Kaolins și plaja Courégant. Seara se relaxează frumos la uimitoarea Plage des Sables Rouges pentru un apus minunat.",
+        "en": "Kick off your cycling day at the central church before heading out to the beautiful Madeleine Chapel. Midday pedaling leads you to the vibrant nature reserve and the secluded Crique des Amoureux. The afternoon speeds up as you ride to the unique Plage naturiste des Kaolins and Courégant beach. The evening unwinds beautifully at the striking Plage des Sables Rouges for sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:39",
+      "total_km": 31.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Madeleine Chapel",
+            "hu": "Madeleine Chapel",
+            "ro": "Madeleine Chapel",
+            "en": "Madeleine Chapel"
+          },
+          "coords": [
+            -3.457241,
+            47.8107
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante, historische Steinkapelle auf dem Land und machen Sie einen gemütlichen Spaziergang durch die umliegenden Gärten.",
+            "hu": "Fedezze fel ezt a bájos történelmi kőkápolnát a vidéki környezetben, és tegyen egy kellemes sétát a békés környező kertekben.",
+            "ro": "Descoperiți această capelă de piatră fermecătoare și istorică ascunsă în mediul rural și faceți o plimbare ușoară prin grădinile sale pașnice.",
+            "en": "Discover this charming and historic stone chapel tucked away in the countryside, and take a gentle stroll around its peaceful surrounding gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre-et-Saint-Paul Church",
+            "hu": "Saint-Pierre-et-Saint-Paul Church",
+            "ro": "Saint-Pierre-et-Saint-Paul Church",
+            "en": "Saint-Pierre-et-Saint-Paul Church"
+          },
+          "coords": [
+            -3.488011,
+            47.789609
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche und betrachten Sie die Buntglasfenster, bevor Sie in der Nähe einen Kaffee trinken.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét és ólomüveg ablakait, mielőtt beülne egy közeli kávézóba.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și observați vitraliile sale înainte de a savura o cafea în apropiere.",
+            "en": "Admire the beautiful architecture of this central church and take a moment to notice its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Laïta River",
+            "hu": "Laïta River",
+            "ro": "Laïta River",
+            "en": "Laïta River"
+          },
+          "coords": [
+            -3.525331,
+            47.80747
+          ],
+          "category": "natural",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen Flusslauf, der die regionale Grenze markiert, ideal um ein Kajak zu mieten oder ein Picknick am Ufer zu veranstalten.",
+            "hu": "Élvezze a festői folyó békés áramlását, amely a régió határát jelzi, és tökéletes hely egy kajak bérlésére vagy egy csendes piknikre a parton.",
+            "ro": "Bucurați-vă de curgerea liniștită a acestui râu pitoresc ce marchează granița regională, perfect pentru a închiria un caiac sau pentru un picnic.",
+            "en": "Enjoy the peaceful flow of this picturesque river marking the regional border, perfect for renting a kayak or having a quiet picnic on its banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bas-Pouldu Beach",
+            "hu": "Bas-Pouldu Beach",
+            "ro": "Bas-Pouldu Beach",
+            "en": "Bas-Pouldu Beach"
+          },
+          "coords": [
+            -3.526578,
+            47.772078
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Sandstrand mit hervorragendem Blick auf die Flussmündung und sammeln Sie bei Ebbe einzigartige Muscheln.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, ahonnan remek kilátás nyílik a torkolatra, és gyűjtsön kagylókat apály idején.",
+            "ro": "Relaxați-vă pe această plajă cu nisip fin cu vedere excelentă la estuar și plimbați-vă de-a lungul țărmului la reflux pentru a aduna scoici.",
+            "en": "Relax on this pristine sandy beach with excellent views of the estuary, and walk along the shoreline at low tide to collect unique seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Anse du Stole",
+            "hu": "Plage de l'Anse du Stole",
+            "ro": "Plage de l'Anse du Stole",
+            "en": "Plage de l'Anse du Stole"
+          },
+          "coords": [
+            -3.426617,
+            47.704156
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser geschützten Bucht mit ruhigem Wasser, die perfekt zum Schwimmen ist, und bringen Sie eine Schnorchelausrüstung mit.",
+            "hu": "Sétáljon végig ezen a védett, nyugodt vizű öblön, amely tökéletes az úszáshoz, és érdemes búvárfelszerelést hozni a sziklás részekhez.",
+            "ro": "Plimbați-vă de-a lungul acestui golf adăpostit cu ape calme perfecte pentru înot și luați-vă echipament de snorkeling pentru a explora stâncile.",
+            "en": "Walk along this sheltered bay with calm waters perfect for swimming, and consider bringing snorkeling gear to explore the gentle rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-Fontaine",
+            "hu": "Port-Fontaine",
+            "ro": "Port-Fontaine",
+            "en": "Port-Fontaine"
+          },
+          "coords": [
+            -3.434627,
+            47.701236
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen kleinen Yachthafen, wo lokale Fischerboote im Wasser schaukeln und eine friedliche Atmosphäre für einen Spaziergang bieten.",
+            "hu": "Fedezze fel ezt a festői, kis jachtkikötőt, ahol a helyi halászhajók ringatóznak a vízen, nyugodt légkört teremtve a tengerparti sétához.",
+            "ro": "Descoperiți acest mic port pitoresc, unde bărcile locale de pescuit se leagănă în apă, oferind o atmosferă senină pentru o plimbare relaxată.",
+            "en": "Discover this small, picturesque marina where local fishing boats gently bob in the water, offering a serene atmosphere for a relaxed seaside walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Petit Pérello",
+            "hu": "Plage du Petit Pérello",
+            "ro": "Plage du Petit Pérello",
+            "en": "Plage du Petit Pérello"
+          },
+          "coords": [
+            -3.44561,
+            47.697557
+          ],
+          "category": "recreational",
+          "arrive_at": "15:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die intimen Buchten dieses Strandes, der ein wunderbarer Ort ist, um ruhig zu sitzen und den Wellen zuzusehen.",
+            "hu": "Élvezze e bájos kis strand intim és sziklás öbleit, amely csodálatos hely arra, hogy csendben üljön és nézze, ahogy a hullámok a partnak csapódnak.",
+            "ro": "Bucurați-vă de golfurile intime și stâncoase ale acestei plaje fermecătoare, un loc minunat pentru a sta în liniște și a privi valurile.",
+            "en": "Enjoy the intimate and rocky coves of this charming little beach, which is a wonderful spot to sit quietly and watch the waves crash against the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Lohic",
+            "hu": "Lohic",
+            "ro": "Lohic",
+            "en": "Lohic"
+          },
+          "coords": [
+            -3.354844,
+            47.703475
+          ],
+          "category": "recreational",
+          "arrive_at": "17:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses historische Küstengebiet, das sich durch traditionelle Architektur auszeichnet und ideal für den späten Nachmittag ist.",
+            "hu": "Sétáljon ezen a történelmi tengerparti területen, amelyet hagyományos építészet jellemez, és ideális egy késő délutáni barangoláshoz.",
+            "ro": "Plimbați-vă prin această zonă de coastă istorică, caracterizată prin arhitectură tradițională, ideală pentru o explorare târzie după-amiaza.",
+            "en": "Stroll around this historic coastal area characterized by traditional architecture and a welcoming local vibe, making it ideal for a late afternoon wander."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Côte Rouge",
+            "hu": "Plage de la Côte Rouge",
+            "ro": "Plage de la Côte Rouge",
+            "en": "Plage de la Côte Rouge"
+          },
+          "coords": [
+            -3.342356,
+            47.708456
+          ],
+          "category": "recreational",
+          "arrive_at": "18:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem roten Strand mit spektakulärem Blick auf die Dämmerung und machen Sie einen letzten Spaziergang am Wasser.",
+            "hu": "Fejezze be a napot ezen a kiterjedt, vöröses színű strandon, amely látványos kilátást nyújt a szürkületben egy utolsó frissítő sétához.",
+            "ro": "Încheiați-vă ziua pe această plajă imensă cu nuanțe roșiatice care oferă priveliști spectaculoase la amurg, cu o ultimă plimbare la marginea apei.",
+            "en": "End your day at this expansive red-tinted beach offering spectacular twilight views, taking a final refreshing walk right near the waterline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Madeleine-Kapelle und führt schnell zur zentralen Kirche Saint-Pierre-et-Saint-Paul. Mittags fahren Sie auf malerischen Routen zur Laïta und zum Strand Bas-Pouldu. Der Nachmittag bringt Sie zu den Sandstränden von Anse du Stole, Port-Fontaine und Petit Pérello. Der Abend endet wunderbar mit der Erkundung von Lohic und am Strand Côte Rouge.",
+        "hu": "Az autós túra a Madeleine kápolnánál indul, majd a központi templom következik. Délben a festői utakon a Laïta folyóhoz és a Bas-Pouldu strandhoz vezet a nap. A délután az Anse du Stole, a Port-Fontaine és a Petit Pérello homokos partjaira visz. Az estét Lohic felfedezése és a Plage de la Côte Rouge ragyogó partján való megpihenés teszi teljessé.",
+        "ro": "Turul cu mașina începe la Capela Madeleine, urmat de Biserica Saint-Pierre-et-Saint-Paul. La prânz navigați pe traseele pitorești spre râul Laïta și plaja Bas-Pouldu. După-amiaza se îndreaptă spre țărmurile nisipoase de la Anse du Stole, Port-Fontaine și Petit Pérello. Seara se încheie explorând Lohic și odihnindu-vă pe strălucitoarea Plage de la Côte Rouge.",
+        "en": "Your driving tour starts at Madeleine Chapel, quickly followed by the central Saint-Pierre-et-Saint-Paul Church. Midday takes you navigating the scenic routes to the Laïta River and Bas-Pouldu Beach. The afternoon shifts towards the sandy shores of Anse du Stole, Port-Fontaine, and Petit Pérello. Your evening wraps up beautifully by exploring Lohic and resting at the glowing Plage de la Côte Rouge."
+      }
+    }
+  }
+}

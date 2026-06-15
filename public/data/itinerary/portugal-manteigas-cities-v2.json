@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-manteigas-cities-v2",
+  "anchor": {
+    "name": "Manteigas",
+    "coords": [
+      -7.539722,
+      40.402778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Manteigas",
+            "hu": "Câmara Municipal de Manteigas",
+            "ro": "Câmara Municipal de Manteigas",
+            "en": "Câmara Municipal de Manteigas"
+          },
+          "coords": [
+            -7.540751,
+            40.400697
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das historische Rathaus von Manteigas ist das Zentrum lokaler Geschichte, weshalb ein kurzer Fotostopp an der Fassade während der Öffnungszeiten empfehlenswert ist.",
+            "hu": "A történelmi mantgeigasi városháza a helyi közigazgatás szíve, ezért érdemes a lenyűgöző homlokzatot lefotózni egy délelőtti kávé után a közeli téren.",
+            "ro": "Primăria istorică din Manteigas reflectă patrimoniul civic local, deci faceți o oprire pentru a admira fațada sa clasică înainte de a explora străduțele din jur.",
+            "en": "The historic town hall of Manteigas anchors local civic history, so take a moment to photograph its traditional facade while checking the local event board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Pedro",
+            "hu": "Igreja de São Pedro",
+            "ro": "Igreja de São Pedro",
+            "en": "Igreja de São Pedro"
+          },
+          "coords": [
+            -7.539383,
+            40.40053
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche fasziniert mit traditionellen portugiesischen Fliesen im Innenraum, sodass ein respektvoller Besuch in den ruhigen Morgenstunden ideal ist.",
+            "hu": "Ez a lenyűgöző templom gyönyörű hagyományos portugál csempékkel büszkélkedhet, így a legszebb fényeket a kora délelőtti csendes órákban élvezheti belülről.",
+            "ro": "Această biserică remarcabilă găzduiește azulejos tradiționale portugheze, așadar este recomandat să o vizitați dimineața devreme pentru o experiență spirituală liniștită.",
+            "en": "This charming church boasts beautiful traditional Portuguese tiles inside, making an early morning visit highly recommended to enjoy its peaceful and spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor do Calvário",
+            "hu": "Capela do Senhor do Calvário",
+            "ro": "Capela do Senhor do Calvário",
+            "en": "Capela do Senhor do Calvário"
+          },
+          "coords": [
+            -7.53724,
+            40.403191
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die malerische Kapelle bietet nicht nur spirituelle Ruhe, sondern auch einen tollen Blick, wenn Sie bequeme Schuhe für den kurzen Anstieg tragen.",
+            "hu": "A festői kápolna nemcsak lelki békét, hanem csodás kilátást is nyújt, ha kényelmes cipőben vág neki a rövid, de meredek felvezető macskaköves útnak.",
+            "ro": "Capela pitorească oferă pace spirituală și o priveliște superbă asupra văii, fiind accesibilă cel mai bine cu încălțăminte confortabilă pentru scurtul urcuș.",
+            "en": "The picturesque chapel offers both deep spiritual tranquility and beautiful valley views, requiring comfortable walking shoes to navigate the short but steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Termas de Manteigas",
+            "hu": "Termas de Manteigas",
+            "ro": "Termas de Manteigas",
+            "en": "Termas de Manteigas"
+          },
+          "coords": [
+            -7.545191,
+            40.384906
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Die Thermalbäder sind berühmt für ihr heilendes Schwefelwasser inmitten der Natur, also bringen Sie Ihr Handtuch mit, um ein entspannendes Bad zu genießen.",
+            "hu": "A gyógyfürdők kénes vizükről és nyugtató erdei környezetükről híresek, ezért mindenképp hozzon magával fürdőruhát egy pihentető délutáni elmerüléshez.",
+            "ro": "Băile termale sunt renumite pentru apele lor sulfuroase vindecătoare din mijlocul naturii, așa că aduceți-vă un prosop pentru a vă bucura de o baie relaxantă.",
+            "en": "The historic thermal baths are famous for their healing sulfur waters surrounded by forest, so pack a swimsuit and towel to enjoy a deeply relaxing therapeutic soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Vila Galé Serra da Estrela",
+            "hu": "Hotel Vila Galé Serra da Estrela",
+            "ro": "Hotel Vila Galé Serra da Estrela",
+            "en": "Hotel Vila Galé Serra da Estrela"
+          },
+          "coords": [
+            -7.546171,
+            40.381585
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses architektonisch markante Hotel verbindet Luxus mit Bergflair, weshalb Sie auf der Terrasse einen Kaffee trinken sollten, um die Aussicht zu bewundern.",
+            "hu": "Ez a jellegzetes hegyvidéki szálloda a luxust ötvözi a természet közelségével, így érdemes a teraszán meginni egy kávét a lenyűgöző panoráma társaságában.",
+            "ro": "Acest hotel remarcabil combină luxul cu designul montan, deci asigurați-vă că savurați o cafea pe terasa sa pentru a admira panorama spectaculoasă a văii.",
+            "en": "This striking landmark hotel seamlessly blends luxury with mountain design, making its panoramic terrace the perfect spot to enjoy an afternoon coffee with valley views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Zentrums von Manteigas.\n\nAm Mittag wechseln Sie von den architektonischen Wundern zu den ruhigen lokalen Kapellen.\n\nVerbringen Sie den Nachmittag mit einem Spaziergang ins idyllische Thermal-Tal.\n\nLassen Sie den Abend in der Nähe der berühmten Bäder und der markanten Berghotels ausklingen.",
+        "hu": "Kezdje a reggelt Manteigas történelmi polgári központjának felfedezésével.\n\nDélben váltson át az építészeti látnivalókról a békés helyi kápolnákra.\n\nTöltse a délutánt egy kellemes sétával a lenti gyönyörű termálvölgy irányába.\n\nZárja az estét a híres fürdők és elegáns hegyvidéki szállodák közelében pihenve.",
+        "ro": "Începeți dimineața explorând centrul civic istoric din pitorescul oraș Manteigas.\n\nLa prânz, treceți de la obiectivele arhitecturale la capela locală liniștită.\n\nPetreceți-vă după-amiaza bucurându-vă de o plimbare plăcută spre valea termală.\n\nÎncheiați seara relaxându-vă lângă faimoasele băi și hoteluri montane de lux.",
+        "en": "Start your morning exploring the historic civic center of Manteigas.\n\nBy midday, transition from the architectural sights to the peaceful local chapels.\n\nSpend your afternoon enjoying a pleasant downhill walk towards the thermal valley.\n\nConclude the evening relaxing near the famous baths and elegant mountain hotels."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:14",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Manteigas",
+            "hu": "Câmara Municipal de Manteigas",
+            "ro": "Câmara Municipal de Manteigas",
+            "en": "Câmara Municipal de Manteigas"
+          },
+          "coords": [
+            -7.540751,
+            40.400697
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das historische Rathaus von Manteigas ist das Zentrum lokaler Geschichte, weshalb ein kurzer Fotostopp an der Fassade während der Öffnungszeiten empfehlenswert ist.",
+            "hu": "A történelmi mantgeigasi városháza a helyi közigazgatás szíve, ezért érdemes a lenyűgöző homlokzatot lefotózni egy délelőtti kávé után a közeli téren.",
+            "ro": "Primăria istorică din Manteigas reflectă patrimoniul civic local, deci faceți o oprire pentru a admira fațada sa clasică înainte de a explora străduțele din jur.",
+            "en": "The historic town hall of Manteigas anchors local civic history, so take a moment to photograph its traditional facade while checking the local event board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Pedro",
+            "hu": "Igreja de São Pedro",
+            "ro": "Igreja de São Pedro",
+            "en": "Igreja de São Pedro"
+          },
+          "coords": [
+            -7.539383,
+            40.40053
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche fasziniert mit traditionellen portugiesischen Fliesen im Innenraum, sodass ein respektvoller Besuch in den ruhigen Morgenstunden ideal ist.",
+            "hu": "Ez a lenyűgöző templom gyönyörű hagyományos portugál csempékkel büszkélkedhet, így a legszebb fényeket a kora délelőtti csendes órákban élvezheti belülről.",
+            "ro": "Această biserică remarcabilă găzduiește azulejos tradiționale portugheze, așadar este recomandat să o vizitați dimineața devreme pentru o experiență spirituală liniștită.",
+            "en": "This charming church boasts beautiful traditional Portuguese tiles inside, making an early morning visit highly recommended to enjoy its peaceful and spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor do Calvário",
+            "hu": "Capela do Senhor do Calvário",
+            "ro": "Capela do Senhor do Calvário",
+            "en": "Capela do Senhor do Calvário"
+          },
+          "coords": [
+            -7.53724,
+            40.403191
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die malerische Kapelle bietet nicht nur spirituelle Ruhe, sondern auch einen tollen Blick, wenn Sie bequeme Schuhe für den kurzen Anstieg tragen.",
+            "hu": "A festői kápolna nemcsak lelki békét, hanem csodás kilátást is nyújt, ha kényelmes cipőben vág neki a rövid, de meredek felvezető macskaköves útnak.",
+            "ro": "Capela pitorească oferă pace spirituală și o priveliște superbă asupra văii, fiind accesibilă cel mai bine cu încălțăminte confortabilă pentru scurtul urcuș.",
+            "en": "The picturesque chapel offers both deep spiritual tranquility and beautiful valley views, requiring comfortable walking shoes to navigate the short but steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Pousada de São Lourenço",
+            "hu": "Miradouro da Pousada de São Lourenço",
+            "ro": "Miradouro da Pousada de São Lourenço",
+            "en": "Miradouro da Pousada de São Lourenço"
+          },
+          "coords": [
+            -7.539843,
+            40.418283
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Von hier aus überblicken Sie die unberührte Weite der Serra da Estrela, was den perfekten Hintergrund für fantastische Landschaftsfotos im Nachmittagslicht bildet.",
+            "hu": "Innen beláthatja a Serra da Estrela érintetlen hegyvonulatait, amely tökéletes hátteret biztosít a lenyűgöző délutáni tájképek elkészítéséhez a tiszta levegőn.",
+            "ro": "De aici puteți admira imensitatea munților Serra da Estrela, oferind un fundal perfect pentru fotografii de peisaj spectaculoase în lumina caldă a după-amiezii.",
+            "en": "Overlooking the vast, untouched expanses of the Serra da Estrela mountains, this viewpoint provides the perfect lighting for stunning landscape photography in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Serra da Estrela Nature Park",
+            "hu": "Serra da Estrela Nature Park",
+            "ro": "Serra da Estrela Nature Park",
+            "en": "Serra da Estrela Nature Park"
+          },
+          "coords": [
+            -7.535019,
+            40.418657
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der größte Naturpark des Landes schützt einzigartige alpine Flora und Fauna, daher empfiehlt es sich, eine Windjacke für die kühleren Höhenlagen einzupacken.",
+            "hu": "Az ország legnagyobb nemzeti parkja egyedülálló alpesi növény- és állatvilágot véd, így feltétlenül hozzon magával széldzsekit a magasabb régiók hűvös szele miatt.",
+            "ro": "Cel mai mare parc național protejează o floră și faună alpină unică, deci este esențial să aveți o jachetă de vânt pregătită pentru altitudinile mai răcoroase.",
+            "en": "The country's largest nature park protects incredibly unique alpine flora and fauna, making a sturdy windbreaker essential to stay comfortable in the brisk mountain air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt in den historischen Gassen des Zentrums.\n\nFahren Sie am Mittag weiter zu den nahegelegenen sakralen Denkmälern der Stadt.\n\nTreten Sie am Nachmittag hinauf zu atemberaubenden Bergpanoramen.\n\nBeenden Sie die Tour im Naturpark und genießen Sie die kühle alpine Luft in vollen Zügen.",
+        "hu": "Kezdje a biciklitúrát a városközpont történelmi utcáinak kényelmes felfedezésével.\n\nDélben haladjon tovább a város közeli, békés egyházi műemlékeihez.\n\nDélután tekerjen feljebb, hogy megcsodálhassa a lélegzetelállító hegyi panorámákat.\n\nZárja a túrát a nemzeti parkban, élvezve a friss és hűvös alpesi levegőt.",
+        "ro": "Începeți traseul cu bicicleta relaxat, pe străzile istorice din centrul orașului.\n\nLa prânz, pedalați mai departe către monumentele sacre din apropierea orașului.\n\nUrcați după-amiaza pentru a admira panoramele montane care vă taie respirația.\n\nÎncheiați turul în parcul național, bucurându-vă din plin de aerul alpin răcoros.",
+        "en": "Start your cycling journey easily navigating the historic downtown streets.\n\nAt midday, pedal onwards to the nearby peaceful religious monuments.\n\nClimb higher in the afternoon to witness breathtaking and vast mountain panoramas.\n\nFinish the ride relaxing in the nature park, fully absorbing the crisp alpine air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hotel Vila Galé Serra da Estrela",
+            "hu": "Hotel Vila Galé Serra da Estrela",
+            "ro": "Hotel Vila Galé Serra da Estrela",
+            "en": "Hotel Vila Galé Serra da Estrela"
+          },
+          "coords": [
+            -7.546171,
+            40.381585
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses architektonisch markante Hotel verbindet Luxus mit Bergflair, weshalb Sie auf der Terrasse einen Kaffee trinken sollten, um die Aussicht zu bewundern.",
+            "hu": "Ez a jellegzetes hegyvidéki szálloda a luxust ötvözi a természet közelségével, így érdemes a teraszán meginni egy kávét a lenyűgöző panoráma társaságában.",
+            "ro": "Acest hotel remarcabil combină luxul cu designul montan, deci asigurați-vă că savurați o cafea pe terasa sa pentru a admira panorama spectaculoasă a văii.",
+            "en": "This striking landmark hotel seamlessly blends luxury with mountain design, making its panoramic terrace the perfect spot to enjoy an afternoon coffee with valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Termas de Manteigas",
+            "hu": "Termas de Manteigas",
+            "ro": "Termas de Manteigas",
+            "en": "Termas de Manteigas"
+          },
+          "coords": [
+            -7.545191,
+            40.384906
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Thermalbäder sind berühmt für ihr heilendes Schwefelwasser inmitten der Natur, also bringen Sie Ihr Handtuch mit, um ein entspannendes Bad zu genießen.",
+            "hu": "A gyógyfürdők kénes vizükről és nyugtató erdei környezetükről híresek, ezért mindenképp hozzon magával fürdőruhát egy pihentető délutáni elmerüléshez.",
+            "ro": "Băile termale sunt renumite pentru apele lor sulfuroase vindecătoare din mijlocul naturii, așa că aduceți-vă un prosop pentru a vă bucura de o baie relaxantă.",
+            "en": "The historic thermal baths are famous for their healing sulfur waters surrounded by forest, so pack a swimsuit and towel to enjoy a deeply relaxing therapeutic soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Manteigas",
+            "hu": "Câmara Municipal de Manteigas",
+            "ro": "Câmara Municipal de Manteigas",
+            "en": "Câmara Municipal de Manteigas"
+          },
+          "coords": [
+            -7.540751,
+            40.400697
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Das historische Rathaus von Manteigas ist das Zentrum lokaler Geschichte, weshalb ein kurzer Fotostopp an der Fassade während der Öffnungszeiten empfehlenswert ist.",
+            "hu": "A történelmi mantgeigasi városháza a helyi közigazgatás szíve, ezért érdemes a lenyűgöző homlokzatot lefotózni egy délelőtti kávé után a közeli téren.",
+            "ro": "Primăria istorică din Manteigas reflectă patrimoniul civic local, deci faceți o oprire pentru a admira fațada sa clasică înainte de a explora străduțele din jur.",
+            "en": "The historic town hall of Manteigas anchors local civic history, so take a moment to photograph its traditional facade while checking the local event board outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Pedro",
+            "hu": "Igreja de São Pedro",
+            "ro": "Igreja de São Pedro",
+            "en": "Igreja de São Pedro"
+          },
+          "coords": [
+            -7.539383,
+            40.40053
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche fasziniert mit traditionellen portugiesischen Fliesen im Innenraum, sodass ein respektvoller Besuch in den ruhigen Morgenstunden ideal ist.",
+            "hu": "Ez a lenyűgöző templom gyönyörű hagyományos portugál csempékkel büszkélkedhet, így a legszebb fényeket a kora délelőtti csendes órákban élvezheti belülről.",
+            "ro": "Această biserică remarcabilă găzduiește azulejos tradiționale portugheze, așadar este recomandat să o vizitați dimineața devreme pentru o experiență spirituală liniștită.",
+            "en": "This charming church boasts beautiful traditional Portuguese tiles inside, making an early morning visit highly recommended to enjoy its peaceful and spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor do Calvário",
+            "hu": "Capela do Senhor do Calvário",
+            "ro": "Capela do Senhor do Calvário",
+            "en": "Capela do Senhor do Calvário"
+          },
+          "coords": [
+            -7.53724,
+            40.403191
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die malerische Kapelle bietet nicht nur spirituelle Ruhe, sondern auch einen tollen Blick, wenn Sie bequeme Schuhe für den kurzen Anstieg tragen.",
+            "hu": "A festői kápolna nemcsak lelki békét, hanem csodás kilátást is nyújt, ha kényelmes cipőben vág neki a rövid, de meredek felvezető macskaköves útnak.",
+            "ro": "Capela pitorească oferă pace spirituală și o priveliște superbă asupra văii, fiind accesibilă cel mai bine cu încălțăminte confortabilă pentru scurtul urcuș.",
+            "en": "The picturesque chapel offers both deep spiritual tranquility and beautiful valley views, requiring comfortable walking shoes to navigate the short but steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Fragão do Corvo",
+            "hu": "Miradouro do Fragão do Corvo",
+            "ro": "Miradouro do Fragão do Corvo",
+            "en": "Miradouro do Fragão do Corvo"
+          },
+          "coords": [
+            -7.561644,
+            40.405861
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Dieser hochgelegene Aussichtspunkt bietet ein spektakuläres Panorama auf das Gletscher-Tal, bringen Sie also ein Fernglas mit, um die Bergvögel zu beobachten.",
+            "hu": "Ez a magasan fekvő kilátó lenyűgöző panorámát nyújt a gleccservölgyre, ezért hozzon magával távcsövet a különleges hegyi madárfajok megfigyeléséhez.",
+            "ro": "Acest punct de belvedere înalt oferă o panoramă spectaculoasă asupra văii glaciare, așadar luați un binoclu pentru a observa vulturii și peisajul dramatic.",
+            "en": "This dramatic elevated viewpoint offers breathtaking panoramas of the deep glacial valley, so be sure to bring binoculars to spot soaring mountain birds against the peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Pousada de São Lourenço",
+            "hu": "Miradouro da Pousada de São Lourenço",
+            "ro": "Miradouro da Pousada de São Lourenço",
+            "en": "Miradouro da Pousada de São Lourenço"
+          },
+          "coords": [
+            -7.539843,
+            40.418283
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Von hier aus überblicken Sie die unberührte Weite der Serra da Estrela, was den perfekten Hintergrund für fantastische Landschaftsfotos im Nachmittagslicht bildet.",
+            "hu": "Innen beláthatja a Serra da Estrela érintetlen hegyvonulatait, amely tökéletes hátteret biztosít a lenyűgöző délutáni tájképek elkészítéséhez a tiszta levegőn.",
+            "ro": "De aici puteți admira imensitatea munților Serra da Estrela, oferind un fundal perfect pentru fotografii de peisaj spectaculoase în lumina caldă a după-amiezii.",
+            "en": "Overlooking the vast, untouched expanses of the Serra da Estrela mountains, this viewpoint provides the perfect lighting for stunning landscape photography in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Serra da Estrela Nature Park",
+            "hu": "Serra da Estrela Nature Park",
+            "ro": "Serra da Estrela Nature Park",
+            "en": "Serra da Estrela Nature Park"
+          },
+          "coords": [
+            -7.535019,
+            40.418657
+          ],
+          "category": "natural",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der größte Naturpark des Landes schützt einzigartige alpine Flora und Fauna, daher empfiehlt es sich, eine Windjacke für die kühleren Höhenlagen einzupacken.",
+            "hu": "Az ország legnagyobb nemzeti parkja egyedülálló alpesi növény- és állatvilágot véd, így feltétlenül hozzon magával széldzsekit a magasabb régiók hűvös szele miatt.",
+            "ro": "Cel mai mare parc național protejează o floră și faună alpină unică, deci este esențial să aveți o jachetă de vânt pregătită pentru altitudinile mai răcoroase.",
+            "en": "The country's largest nature park protects incredibly unique alpine flora and fauna, making a sturdy windbreaker essential to stay comfortable in the brisk mountain air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie die südlich gelegenen Hotels und die entspannenden Thermalquellen.\n\nFahren Sie am Mittag ins historische Herz von Manteigas zu den charmanten Kirchen.\n\nSteuern Sie am Nachmittag hinauf zu den spektakulären Aussichtspunkten über dem Tal.\n\nSchließen Sie die Autotour mit einem faszinierenden Ausflug in den großen Naturpark ab.",
+        "hu": "Reggel fedezze fel a déli fekvésű hegyi szállodákat és a pihentető termálforrásokat.\n\nDélben vezessen Manteigas történelmi szívébe, hogy megnézze a hangulatos templomokat.\n\nDélután vegye az irányt felfelé, a völgy feletti látványos kilátópontok felé.\n\nZárja az autós túrát egy lenyűgöző kirándulással a hatalmas és vad nemzeti parkban.",
+        "ro": "Dimineața, explorați hotelurile sudice și faimoasele izvoare termale relaxante.\n\nConduceți la prânz în inima istorică a orașului Manteigas pentru a vedea bisericile.\n\nUrcați după-amiaza la spectaculoasele puncte de belvedere de deasupra văii.\n\nÎncheiați turul auto cu o excursie fascinantă prin peisajele parcului național.",
+        "en": "In the morning, explore the southern mountain hotels and relaxing thermal springs.\n\nDrive into the historic heart of Manteigas by midday to view the charming churches.\n\nHead upwards in the afternoon to take in spectacular viewpoints high above the valley.\n\nFinish the driving tour with a mesmerizing excursion into the expansive nature park."
+      }
+    }
+  }
+}

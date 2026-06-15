@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-ios-town-cities-v2",
+  "anchor": {
+    "name": "Ios Town",
+    "coords": [
+      25.2833,
+      36.7167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archaeological museum of Ios",
+            "hu": "Archaeological museum of Ios",
+            "ro": "Archaeological museum of Ios",
+            "en": "Archaeological museum of Ios"
+          },
+          "coords": [
+            25.280966,
+            36.721763
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte aus der antiken Geschichte der Insel, aber kommen Sie früh, da die kleinen Galerien schnell voll werden können.",
+            "hu": "Fedezze fel a sziget ókori történelmének lenyűgöző leleteit, de érkezzen korán, mert a kis galériák hamar megtelnek a csúcsidőszakokban.",
+            "ro": "Explorați artefacte fascinante din istoria antică a insulei, dar asigurați-vă că ajungeți devreme deoarece micile galerii se aglomerează rapid.",
+            "en": "Explore fascinating artifacts from the island's ancient history, but be sure to arrive early as the small galleries can get crowded quickly during peak hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Giannis Gaitis – Gabriella Simosis museum",
+            "hu": "Giannis Gaitis – Gabriella Simosis museum",
+            "ro": "Giannis Gaitis – Gabriella Simosis museum",
+            "en": "Giannis Gaitis – Gabriella Simosis museum"
+          },
+          "coords": [
+            25.289271,
+            36.723387
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten zeitgenössischen Kunstwerke von Gaitis und nehmen Sie sich Zeit, die moderne Architektur des Museums von außen zu betrachten.",
+            "hu": "Csodálja meg Gaitis ikonikus, stilizált figuráit, és szánjon időt a múzeum lenyűgöző, modern építészeti kialakításának megtekintésére kívülről is.",
+            "ro": "Admirați operele de artă contemporană și figurile stilizate ale lui Gaitis, făcându-vă timp să apreciați arhitectura modernă a muzeului din exterior.",
+            "en": "Admire the striking contemporary artworks and iconic stylized figures of Gaitis, and take time to appreciate the museum's modern architectural design from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Modern Art - Jean-Marie Drot",
+            "hu": "Museum of Modern Art - Jean-Marie Drot",
+            "ro": "Museum of Modern Art - Jean-Marie Drot",
+            "en": "Museum of Modern Art - Jean-Marie Drot"
+          },
+          "coords": [
+            25.286334,
+            36.714532
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine beeindruckende Sammlung moderner Kunst ein und vergessen Sie nicht, das Personal nach den faszinierenden Hintergründen des Gründers zu fragen.",
+            "hu": "Merüljön el a nemzetközi modern művészet lenyűgöző gyűjteményében, és mindenképpen kérdezze meg a személyzetet az alapító érdekes háttértörténetéről.",
+            "ro": "Cufundați-vă într-o impresionantă colecție de artă modernă internațională și nu uitați să întrebați personalul despre istoria fascinantă a fondatorului.",
+            "en": "Dive into an impressive collection of international modern art nestled in the Cyclades, remembering to ask the staff about the fascinating background of the founder."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolitsani",
+            "hu": "Kolitsani",
+            "ro": "Kolitsani",
+            "en": "Kolitsani"
+          },
+          "coords": [
+            25.279215,
+            36.715989
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, abgelegenen Strand mit kristallklarem Wasser, und bringen Sie eigene Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen a festői, eldugott, kristálytiszta vizű strandon, és hozzon magával vizet, mivel a homokos parton nincsenek kiépített létesítmények.",
+            "ro": "Relaxați-vă pe această plajă pitorească și izolată cu ape cristaline, aducându-vă propria apă și gustări, deoarece nu există facilități amenajate pe nisip.",
+            "en": "Relax on this picturesque, secluded beach with crystal-clear waters, and bring your own water and snacks as there are no facilities available on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Βαλμάς",
+            "hu": "Βαλμάς",
+            "ro": "Βαλμάς",
+            "en": "Βαλμάς"
+          },
+          "coords": [
+            25.269659,
+            36.715715
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser ruhigen Bucht, die sich perfekt zum Schnorcheln eignet, wenn Sie Ihre eigene Ausrüstung mitbringen.",
+            "hu": "Élvezze e csendes öböl békés hangulatát és sziklás táját, amely tökéletes sznorkelezéshez, ha nem felejti el magával hozni a saját felszerelését.",
+            "ro": "Bucurați-vă de atmosfera liniștită și peisajul stâncos al acestui golf tăcut, care este perfect pentru snorkeling dacă vă aduceți propriul echipament.",
+            "en": "Enjoy the peaceful atmosphere and scenic rocky landscape of this quiet cove, which is perfect for snorkeling if you remember to bring your own gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem reichen Erbe der Insel im Archäologischen Museum. Mittags wechseln Sie in die Gegenwart in den beeindruckenden Museen Gaitis-Simosis und Jean-Marie Drot. Am Nachmittag entfliehen Sie dem Trubel an den einsamen Strand von Kolitsani. Beenden Sie Ihren Spaziergang in der friedlichen Bucht von Valmas und genießen Sie die sanfte Abendbrise und die Wellen.",
+        "hu": "Kezdje a napot a sziget gazdag örökségének felfedezésével a Régészeti Múzeumban. Délben ugorjon a jelenbe a lenyűgöző Gaitis-Simosis és Jean-Marie Drot múzeumokban. Délután meneküljön el a város zajától Kolitsani eldugott homokos partjára. Zárja sétáját a békés Valmas öbölben, ahol élvezheti a lágy esti szellőt és a nyugtató hullámokat.",
+        "ro": "Începeți ziua explorând patrimoniul bogat al insulei la Muzeul Arheologic. La prânz, faceți un salt în contemporaneitate la muzeele impresionante Gaitis-Simosis și Jean-Marie Drot. După-amiază, scăpați de agitația orașului pe nisipul retras din Kolitsani. Încheiați plimbarea în golful liniștit Valmas, bucurându-vă de briza blândă de seară și de valurile relaxante.",
+        "en": "Begin your day delving into the island's rich heritage at the Archaeological Museum. By midday, fast forward to contemporary times at the striking Gaitis-Simosis and Jean-Marie Drot museums. In the afternoon, escape the town's bustle for the secluded sands of Kolitsani. Conclude your walking tour at the peaceful cove of Valmas, enjoying the soft evening breeze and calming waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pre-historic settlement of Skarkos",
+            "hu": "Pre-historic settlement of Skarkos",
+            "ro": "Pre-historic settlement of Skarkos",
+            "en": "Pre-historic settlement of Skarkos"
+          },
+          "coords": [
+            25.282986,
+            36.731601
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die gut erhaltenen Ruinen dieser Siedlung aus der frühen Bronzezeit und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a kora bronzkori település figyelemre méltóan jó állapotban fennmaradt romjai között, és viseljen kényelmes, zárt cipőt a köves utakon.",
+            "ro": "Plimbați-vă printre ruinele bine conservate ale acestei așezări din Epoca Bronzului și purtați încălțăminte rezistentă, deoarece potecile pietruite sunt denivelate.",
+            "en": "Walk among the remarkably well-preserved ruins of this early Bronze Age settlement, and wear sturdy shoes as the ancient stone paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological museum of Ios",
+            "hu": "Archaeological museum of Ios",
+            "ro": "Archaeological museum of Ios",
+            "en": "Archaeological museum of Ios"
+          },
+          "coords": [
+            25.280966,
+            36.721763
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike Keramik und kykladische Marmorfiguren, welche die Geschichte der frühen Inselbewohner erzählen, und lesen Sie die detaillierten Texte.",
+            "hu": "Fedezze fel a sziget őslakosainak történetét mesélő ókori kerámiákat és kükladikus márványfigurákat, időt szánva a részletes információs táblákra.",
+            "ro": "Descoperiți ceramica antică și figurinele de marmură cicladică care spun povestea primilor locuitori, făcându-vă timp să citiți descrierile detaliate.",
+            "en": "Discover ancient pottery and Cycladic marble figurines that tell the story of early islanders, taking time to read the detailed English descriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Modern Art - Jean-Marie Drot",
+            "hu": "Museum of Modern Art - Jean-Marie Drot",
+            "ro": "Museum of Modern Art - Jean-Marie Drot",
+            "en": "Museum of Modern Art - Jean-Marie Drot"
+          },
+          "coords": [
+            25.286334,
+            36.714532
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie eine einzigartige Mischung aus griechischen und internationalen zeitgenössischen Kunstwerken in traditioneller Umgebung, wofür Sie Zeit einplanen sollten.",
+            "hu": "Tapasztalja meg a görög és nemzetközi kortárs művészet egyedi keverékét egy hagyományos környezetben, legalább egy órát szánva a teljes kiállításra.",
+            "ro": "Experimentați un amestec unic de opere de artă contemporană grecești și internaționale într-un cadru tradițional, alocând cel puțin o oră pentru vizită.",
+            "en": "Experience a unique blend of Greek and international contemporary artworks housed in a traditional setting, allowing at least an hour to see every room."
+          }
+        },
+        {
+          "name": {
+            "de": "Μυλοπότας",
+            "hu": "Μυλοπότας",
+            "ro": "Μυλοπότας",
+            "en": "Μυλοπότας"
+          },
+          "coords": [
+            25.2948,
+            36.713276
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten, lebhaften Strandes, aber kommen Sie früh, um sich vor den Nachmittagsmassen eine Liege zu sichern.",
+            "hu": "Pihenjen e népszerű, nyüzsgő strand aranyhomokján, de érkezzen időben, hogy még a délutáni tömeg előtt biztosítson magának egy jó helyet és napágyat.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare și vibrante, dar ajungeți devreme pentru a vă asigura un șezlong înainte de aglomerația de după-amiază.",
+            "en": "Lounge on the golden sands of this popular, vibrant beach, but arrive early to secure a good spot and a sunbed before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Fragµa Mylopotaµoy",
+            "hu": "Fragµa Mylopotaµoy",
+            "ro": "Fragµa Mylopotaµoy",
+            "en": "Fragµa Mylopotaµoy"
+          },
+          "coords": [
+            25.310525,
+            36.714515
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang um diesen beeindruckenden künstlichen See und Staudamm und halten Sie Ihre Kamera für die schöne Landschaft bereit.",
+            "hu": "Tegyen egy békés sétát e lenyűgöző mesterséges tó és gát körül, és tartsa készenlétben a fényképezőgépét a gyönyörű környező táj megörökítéséhez.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui impresionant lac artificial și baraj, ținând aparatul foto pregătit pentru a surprinde peisajul frumos din jur.",
+            "en": "Take a tranquil walk around this impressive artificial lake and dam structure, keeping your camera ready to capture the beautiful surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Sapounochoma",
+            "hu": "Sapounochoma",
+            "ro": "Sapounochoma",
+            "en": "Sapounochoma"
+          },
+          "coords": [
+            25.301893,
+            36.694261
+          ],
+          "category": "recreational",
+          "arrive_at": "16:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit dieses Küstenortes bei Sonnenuntergang, aber seien Sie bei der Abfahrt vorsichtig, da die Feldwege rutschig sein können.",
+            "hu": "Élvezze e partszakasz érintetlen, zord szépségét naplementekor, de legyen óvatos a lefelé vezető úton, mert a földutak csúszósak lehetnek a kerékpárok számára.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestui loc de coastă la apus, dar fiți precauți la coborâre deoarece traseele de pământ pot fi alunecoase pentru biciclete.",
+            "en": "Enjoy the rugged, untouched beauty of this coastal spot at sunset, but be cautious on the ride down as the dirt trails can be slippery for bicycles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit der Fahrt zu den prähistorischen Ruinen von Skarkos. Kehren Sie am Vormittag in die Stadt zurück, um die lokalen Museen zu erkunden. Wenn der Nachmittag wärmer wird, radeln Sie zum lebhaften Strand von Mylopotas für ein erfrischendes Bad. Entdecken Sie schließlich die ruhigere Seite der Insel am Mylopotas-Staudamm und beenden Sie Ihren Tag an der Küste von Sapounochoma.",
+        "hu": "Kezdje kerékpáros kalandját Skarkos lenyűgöző történelem előtti romjainál. Késő délelőtt térjen vissza a városba, hogy felfedezze a helyi múzeumok kincseit. A meleg délután folyamán tekerjen le a nyüzsgő Mylopotas strandra egy frissítő fürdőzésre. Végül fedezze fel a sziget csendesebb arcát a gátnál, és zárja a napot Sapounochoma zord partjainál.",
+        "ro": "Începeți aventura pe bicicletă către fascinantele ruine preistorice din Skarkos. Întoarceți-vă în oraș spre prânz pentru a explora muzeele locale. Pe măsură ce după-amiaza se încălzește, pedalați spre plaja plină de viață Mylopotas pentru o baie revigorantă. În cele din urmă, descoperiți partea mai liniștită a insulei la barajul Mylopotas, încheind ziua pe țărmurile stâncoase din Sapounochoma.",
+        "en": "Start your biking adventure riding to the fascinating prehistoric ruins of Skarkos. Return to town mid-morning to explore the rich history and modern masterpieces at the local museums. As the afternoon warms up, pedal down to the lively Mylopotas beach for a refreshing swim. Finally, discover the quieter side of the island at the Mylopotas Dam, ending your day at the rugged shores of Sapounochoma."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Almyros",
+            "hu": "Almyros",
+            "ro": "Almyros",
+            "en": "Almyros"
+          },
+          "coords": [
+            25.263798,
+            36.745899
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an dieser weiten Küste mit hervorragendem Panoramablick und achten Sie auf die Zufahrtsstraßen, die teilweise eng sein können.",
+            "hu": "Kezdje a reggelt ezen a kiváló panorámát nyújtó, kiterjedt partszakaszon, de vezessen óvatosan, mert a megközelítési utak bizonyos szakaszokon szűkek lehetnek.",
+            "ro": "Începeți dimineața pe această coastă întinsă cu vederi panoramice excelente, având grijă pe drumurile de acces care pot fi înguste în anumite porțiuni.",
+            "en": "Start your morning at this sweeping coastline with excellent panoramic views, taking care on the access roads which can be narrow in some sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Viziri",
+            "hu": "Viziri",
+            "ro": "Viziri",
+            "en": "Viziri"
+          },
+          "coords": [
+            25.25882,
+            36.738443
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel, das für seine dramatischen Felsformationen bekannt ist, und achten Sie bei Fotos auf das unebene Ufer.",
+            "hu": "Fedezze fel ezt a drámai sziklaalakzatairól ismert rejtett gyöngyszemet, amely hihetetlen fotótémákat kínál, ha óvatosan lépked az egyenetlen parton.",
+            "ro": "Descoperiți această bijuterie ascunsă cunoscută pentru formațiunile sale stâncoase, care oferă oportunități foto incredibile dacă pășiți cu grijă.",
+            "en": "Discover this hidden gem known for its dramatic rock formations, offering incredible photo opportunities if you step carefully along the uneven shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Κουμπάρα",
+            "hu": "Κουμπάρα",
+            "ro": "Κουμπάρα",
+            "en": "Κουμπάρα"
+          },
+          "coords": [
+            25.256159,
+            36.725311
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem trendigen und gut organisierten Strandbereich und gönnen Sie sich einen Kaffee in einem der stilvollen Strandclubs direkt am Wasser.",
+            "hu": "Kapcsolódjon ki ezen a divatos, szépen kiépített strandon, és lepje meg magát egy kávéval az egyik stílusos, közvetlenül a vízparton található klubban.",
+            "ro": "Relaxați-vă la această plajă modernă și frumos organizată, răsfățându-vă cu o cafea la unul dintre cluburile de pe plajă situate chiar lângă apă.",
+            "en": "Unwind at this trendy and beautifully organized beach area, treating yourself to a coffee at one of the stylish beach clubs right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tzamaria",
+            "hu": "Tzamaria",
+            "ro": "Tzamaria",
+            "en": "Tzamaria"
+          },
+          "coords": [
+            25.264647,
+            36.724513
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem kleinen, geschützten Strand mit ruhigem Wasser, der sich ideal für ein kurzes, erfrischendes Bad ohne große Wellen eignet.",
+            "hu": "Álljon meg ennél a kis, védett, kivételesen nyugodt vizű strandnál, amely ideális egy gyors, frissítő csobbanáshoz anélkül, hogy a nagy hullámok miatt kellene aggódnia.",
+            "ro": "Opriți-vă la această plajă mică, adăpostită, cu ape excepțional de calme, ideală pentru o baie rapidă și revigorantă, fără a vă face griji de valuri mari.",
+            "en": "Stop by this small, sheltered beach with exceptionally calm waters, ideal for a quick refreshing dip without having to worry about large waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Pre-historic settlement of Skarkos",
+            "hu": "Pre-historic settlement of Skarkos",
+            "ro": "Pre-historic settlement of Skarkos",
+            "en": "Pre-historic settlement of Skarkos"
+          },
+          "coords": [
+            25.282986,
+            36.731601
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der kreisförmigen Mauern dieser alten Gemeinde und lesen Sie die Schautafeln, um die erstaunliche architektonische Dimension zu begreifen.",
+            "hu": "Sétáljon ezen az ősi, dombtetőn lévő település körkörös falainál, és álljon meg a tájékoztató tábláknál, hogy teljesen megértse a lenyűgöző építészeti léptéket.",
+            "ro": "Plimbați-vă pe lângă zidurile circulare ale acestei comunități antice, oprindu-vă la plăcuțele informative pentru a înțelege scara arhitecturală incredibilă.",
+            "en": "Wander the circular walls of this ancient hilltop community, stopping at the informative plaques to fully grasp the incredible architectural scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Giannis Gaitis – Gabriella Simosis museum",
+            "hu": "Giannis Gaitis – Gabriella Simosis museum",
+            "ro": "Giannis Gaitis – Gabriella Simosis museum",
+            "en": "Giannis Gaitis – Gabriella Simosis museum"
+          },
+          "coords": [
+            25.289271,
+            36.723387
+          ],
+          "category": "museum",
+          "arrive_at": "15:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schätzen Sie das pulsierende kulturelle Erbe von Ios in diesem visuell atemberaubenden Museum und nutzen Sie die klimatisierten Räume am heißen Nachmittag.",
+            "hu": "Csodálja meg Ios vibráló kulturális örökségét ebben a vizuálisan lenyűgöző múzeumban, kihasználva a légkondicionált tereket a forró délutáni órákban.",
+            "ro": "Apreciați moștenirea culturală vibrantă a insulei Ios în interiorul acestui muzeu uimitor, profitând de spațiile cu aer condiționat în timpul după-amiezii călduroase.",
+            "en": "Appreciate the vibrant cultural legacy of Ios inside this visually stunning museum, taking advantage of the air-conditioned spaces during the hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fragµa Mylopotaµoy",
+            "hu": "Fragµa Mylopotaµoy",
+            "ro": "Fragµa Mylopotaµoy",
+            "en": "Fragµa Mylopotaµoy"
+          },
+          "coords": [
+            25.310525,
+            36.714515
+          ],
+          "category": "natural",
+          "arrive_at": "17:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie sich der Sonnenuntergang über dem Stausee spiegelt, und bringen Sie eine leichte Jacke mit, da der Abendwind am Staudamm kühl sein kann.",
+            "hu": "Nézze, ahogy a naplemente színei tökéletesen visszatükröződnek a víztározó felszínén, és hozzon magával egy könnyű kabátot, mert a gát közelében hűvös lehet az esti szél.",
+            "ro": "Priviți cum culorile apusului se reflectă perfect pe apele lacului de acumulare, aducând o jachetă subțire, deoarece vântul de seară lângă baraj poate fi rece.",
+            "en": "Watch the colors of the sunset reflect perfectly over the reservoir waters, bringing a light jacket as the evening winds near the dam can feel chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Norden und führt entlang der atemberaubenden Küste von Almyros und den markanten Felsen von Viziri. Am Vormittag entspannen Sie sich am Strand des schicken Koumbara und in der geschützten Bucht von Tzamaria. Nach einer Pause fahren Sie ins Landesinnere zur alten Siedlung Skarkos und tauchen im Gaitis-Simosis-Museum in moderne Kunst ein. Der Roadtrip endet friedlich an den Gewässern des Mylopotas-Staudamms, wenn der Abend hereinbricht.",
+        "hu": "Az autózás északon kezdődik, követve az almyrosi lenyűgöző tengerparti kilátást és Viziri szikláit. Késő délelőtt tengerparti pihenés vár az elegáns Koumbara és a védett Tzamaria öblökben. Egy gyors pihenő után a szárazföld belseje felé veszi az irányt, hogy megcsodálja az ősi Skarkos körkörös építészetét, és elmerüljön a modern művészetben. Az utazás békésen zárul a Mylopotas-gát vizénél, ahogy leszáll az est.",
+        "ro": "Călătoria dvs. începe în nord, urmărind priveliștile uimitoare de coastă din Almyros și rocile de la Viziri. Spre prânz vă veți relaxa la plaja șic Koumbara și în golful adăpostit Tzamaria. După o scurtă pauză, vă veți îndrepta spre interior pentru a admira arhitectura circulară a așezării antice Skarkos și a vă cufunda în arta modernă de la muzeul local. Excursia se încheie liniștit pe malul barajului Mylopotas odată cu lăsarea serii.",
+        "en": "Your drive begins in the north, tracing the stunning coastal views of Almyros and the striking rocks at Viziri. Mid-morning offers beachside relaxation at the chic Koumbara and sheltered Tzamaria coves. After a quick break, you'll head inland to marvel at the circular architecture of the ancient Skarkos settlement and immerse yourself in modern art at the Gaitis-Simosis Museum. The road trip concludes serenely by the waters of the Mylopotas Dam as evening falls."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "france-prefailles-cities-v2",
+  "anchor": {
+    "name": "Préfailles",
+    "coords": [
+      -2.21816,
+      47.1297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 1.34,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Préfailles",
+            "hu": "Chapelle Notre-Dame-de-Préfailles",
+            "ro": "Chapelle Notre-Dame-de-Préfailles",
+            "en": "Chapelle Notre-Dame-de-Préfailles"
+          },
+          "coords": [
+            -2.219817,
+            47.128747
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bezaubernde Strandkapelle, eine heitere Erinnerung an das maritime Erbe, und treten Sie früh ein, um das ruhige Morgenlicht in den Buntglasfenstern zu genießen.",
+            "hu": "Csodálja meg ezt a bájos tengerparti kápolnát, a helyi tengerészeti örökség nyugodt emlékét, és lépjen be korán, hogy élvezze az üvegablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați această capelă fermecătoare de la malul mării, o amintire senină a patrimoniului maritim, și intrați devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire this charming seaside chapel, a serene reminder of local maritime heritage, and step inside early to enjoy the peaceful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie des glaces",
+            "hu": "Galerie des glaces",
+            "ro": "Galerie des glaces",
+            "en": "Galerie des glaces"
+          },
+          "coords": [
+            -2.217952,
+            47.129048
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum, das die kulturelle Entwicklung der Region widerspiegelt, und prüfen Sie vor dem Besuch den Plan der Sonderausstellungen lokaler Künstler.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely a régió kulturális fejlődését tükrözi, és látogatás előtt mindenképpen ellenőrizze az időszaki kiállítások menetrendjét a helyi művészek miatt.",
+            "ro": "Explorați acest spațiu muzeal fascinant care reflectă evoluția culturală a regiunii și asigurați-vă că verificați programul expozițiilor temporare înainte de a vizita.",
+            "en": "Explore this fascinating museum space that reflects the cultural evolution of the region, and be sure to check the temporary exhibition schedule before visiting to see local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.222394,
+            47.127605
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weitläufigen Sand des Hauptstrandes, der perfekt zum Schwimmen ist, aber kommen Sie vor Mittag, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen a fő strand hatalmas homokos partján, amely tökéletes úszáshoz és napozáshoz, de érkezzen dél előtt, hogy jó helyet biztosítson magának a víz szélén.",
+            "ro": "Relaxați-vă pe nisipurile vaste ale plajei principale, perfectă pentru înot și băi de soare, dar ajungeți înainte de prânz pentru a vă asigura un loc bun aproape de apă.",
+            "en": "Relax on the expansive sands of the main beach, perfect for swimming and sunbathing, but arrive before midday to secure a good spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chatelets",
+            "hu": "Plage des Chatelets",
+            "ro": "Plage des Chatelets",
+            "en": "Plage des Chatelets"
+          },
+          "coords": [
+            -2.226214,
+            47.130429
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Genießen Sie die abgelegenere Atmosphäre dieser malerischen Bucht, um den größeren Menschenmengen zu entkommen, und bringen Sie festes Schuhwerk für die felsige Küste mit.",
+            "hu": "Élvezze e festői öböl elzártabb hangulatát, amely ideális a nagyobb tömegek elkerülésére, és hozzon magával erős cipőt a sziklás parton való sétához.",
+            "ro": "Bucurați-vă de atmosfera mai retrasă a acestui golf pitoresc, ideal pentru a scăpa de aglomerație, și aduceți încălțăminte rezistentă pentru a merge pe țărmul stâncos.",
+            "en": "Enjoy the more secluded atmosphere of this picturesque cove, ideal for escaping the larger crowds, and bring sturdy shoes for walking along the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortification de la Raize",
+            "hu": "Fortification de la Raize",
+            "ro": "Fortification de la Raize",
+            "en": "Fortification de la Raize"
+          },
+          "coords": [
+            -2.231117,
+            47.131432
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historischen Küstenverteidigungen, die die Küste schützten, und bleiben Sie bis zum späten Nachmittag, um Geschichte mit einem atemberaubenden Sonnenuntergang zu verbinden.",
+            "hu": "Vizsgálja meg ezeket az érdekes történelmi partvédelmi építményeket, amelyek védték a partot, és maradjon késő délutánig, hogy a történelmet egy lenyűgöző óceáni naplementével ötvözze.",
+            "ro": "Investigați aceste fortificații istorice de coastă care au protejat țărmul și rămâneți până după-amiaza târziu pentru a combina istoria cu un apus de soare uimitor pe ocean.",
+            "en": "Investigate these intriguing historical coastal defenses that protected the shore during turbulent times, and stay until late afternoon to combine history with a stunning ocean sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem friedlichen Moment in der örtlichen Kapelle, bevor Sie in das kulturelle Erbe der Galerie des glaces eintauchen. Der Mittag lockt Sie zur beliebten Grande Plage, wo goldener Sand und erfrischende Wellen die perfekte Kulisse zum Entspannen bieten. Am Nachmittag führt Sie ein malerischer Spaziergang zum ruhigeren Plage des Chatelets, der ein intimeres Stranderlebnis bietet. Der Tag endet mit einer historischen Erkundung der Fortification de la Raize, die einen passenden Abschluss mit herrlichem Blick auf den Atlantik bietet.",
+        "hu": "A reggel egy békés pillanattal indul a helyi kápolnában, majd a Galerie des glaces kulturális örökségében merülhet el. A dél a népszerű Grande Plage-re hívogat, ahol az aranyhomok és a frissítő hullámok tökéletes helyszínt biztosítanak a pihenéshez. Ahogy telik a délután, egy festői séta a csendesebb Plage des Chatelets-hez vezet. A nap a Fortification de la Raize történelmi felfedezésével zárul, amely méltó befejezést nyújt az Atlanti-óceánra nyíló csodálatos kilátással.",
+        "ro": "Dimineața începe cu un moment de pace la capela locală, înainte de a pătrunde în patrimoniul cultural de la Galerie des glaces. Amiaza vă invită la populara Grande Plage, unde nisipul auriu și valurile oferă un cadru perfect pentru relaxare. Pe măsură ce după-amiaza avansează, o plimbare pitorească vă conduce spre plaja mai liniștită Chatelets. Ziua se încheie cu o explorare istorică a Fortificației de la Raize, oferind un final potrivit cu vederi magnifice asupra Atlanticului.",
+        "en": "Your morning starts with a peaceful moment at the local chapel, soaking in the quiet coastal vibes before delving into the cultural heritage at the Galerie des glaces. Midday invites you to the popular Grande Plage, where golden sands and refreshing ocean waves provide the perfect setting for relaxation. As the afternoon unfolds, a scenic stroll leads you to the quieter Plage des Chatelets, offering a more intimate seaside experience. The day concludes with a historical exploration of the Fortification de la Raize, providing a fitting end with magnificent views over the Atlantic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 2.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Préfailles",
+            "hu": "Chapelle Notre-Dame-de-Préfailles",
+            "ro": "Chapelle Notre-Dame-de-Préfailles",
+            "en": "Chapelle Notre-Dame-de-Préfailles"
+          },
+          "coords": [
+            -2.219817,
+            47.128747
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit einem Besuch dieser malerischen Kapelle, die die tiefe Verbundenheit der Einheimischen mit dem Meer widerspiegelt, und machen Sie ein Foto im Morgenlicht.",
+            "hu": "Kezdje a kerékpáros napot ennek a festői kápolnának a megtekintésével, amely a helyiek és a tenger mély kapcsolatát tükrözi, és készítsen egy gyors fotót a reggeli fényben.",
+            "ro": "Începeți ziua de ciclism vizitând această capelă pitorească, care reflectă legătura profundă a localnicilor cu marea, și faceți o fotografie rapidă în lumina dimineții.",
+            "en": "Start your cycling day by paying respects at this picturesque chapel, reflecting the deep connection between the locals and the sea, and take a quick photo in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.222394,
+            47.127605
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Hauptstrand hinunter, um die lebhafte Energie der Küste zu spüren, aber schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab, bevor Sie in den Sand gehen.",
+            "hu": "Kerékpározzon le a fő strandra, hogy érezze a part vibráló energiáját, de a homokra lépés előtt feltétlenül zárja le kerékpárját a kijelölt tárolóknál.",
+            "ro": "Mergeți cu bicicleta până la plaja principală pentru a simți energia vibrantă a coastei, dar asigurați-vă că parcați bicicleta în siguranță înainte de a păși pe nisip.",
+            "en": "Cycle down to the main beach to feel the vibrant energy of the coast, but make sure to park your bike securely at the designated stands before walking on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortification de la Raize",
+            "hu": "Fortification de la Raize",
+            "ro": "Fortification de la Raize",
+            "en": "Fortification de la Raize"
+          },
+          "coords": [
+            -2.231117,
+            47.131432
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der Küstenverteidigung mit Blick auf das Wasser und nutzen Sie diesen Aussichtspunkt, um Schiffe in den tückischen Küstengewässern zu beobachten.",
+            "hu": "Fedezze fel a tengerre néző partvédelmi rendszerek maradványait, és használja ezt a magaslati pontot a veszélyes part menti vizeken navigáló hajók megfigyelésére.",
+            "ro": "Descoperiți rămășițele sistemelor de apărare de coastă cu vedere la apă și utilizați acest punct de observație pentru a vedea navele care navighează în apele de coastă.",
+            "en": "Discover the remnants of coastal defense systems overlooking the water, and use this elevated vantage point to spot ships navigating the treacherous coastal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la Pointe Saint-Gildas",
+            "hu": "Réserve naturelle de la Pointe Saint-Gildas",
+            "ro": "Réserve naturelle de la Pointe Saint-Gildas",
+            "en": "Réserve naturelle de la Pointe Saint-Gildas"
+          },
+          "coords": [
+            -2.243734,
+            47.132829
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die atemberaubende Naturlandschaft des Naturschutzgebietes und bleiben Sie unbedingt auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Kerékpározzon át a természetvédelmi terület lélegzetelállító természeti tájain, és szigorúan ragaszkodjon a kijelölt utakhoz, hogy megvédje a törékeny ökoszisztémát.",
+            "ro": "Mergeți prin peisajele naturale uluitoare ale rezervației naturale și rămâneți strict pe potecile marcate pentru a proteja ecosistemul fragil al regiunii.",
+            "en": "Ride through the breathtaking natural landscapes of the nature reserve, preserving unique local flora, and stick strictly to the marked paths to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Sémaphore",
+            "hu": "Le Sémaphore",
+            "ro": "Le Sémaphore",
+            "en": "Le Sémaphore"
+          },
+          "coords": [
+            -2.24585,
+            47.1337
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise am historischen Semaphor-Gebäude, das heute als Museum dient, und steigen Sie für den ultimativen Panoramablick auf die Bucht vor der Schließung nach oben.",
+            "hu": "Fejezze be utazását a történelmi szemafor épületnél, amely ma múzeumként működik, és még zárás előtt másszon fel a csúcsra a legszebb panorámás kilátásért.",
+            "ro": "Încheiați-vă călătoria la clădirea istorică a semaforului, care acum servește drept muzeu, și urcați în vârf pentru panorama supremă a golfului înainte de ora închiderii.",
+            "en": "Conclude your trip at the historic semaphore building that now serves as a museum, and climb to the top for the ultimate panoramic view of the bay before closing time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt bringt Sie zum Herzen des Dorfes an der bezaubernden Kapelle, die einen friedlichen Ton angibt. Gegen Mittag erreichen Sie die lebhafte Grande Plage, die mit ihrer dynamischen Küste einen wunderbaren Kontrast bietet. Ihre nachmittägliche Fahrt folgt der rauen Küste und enthüllt die historische Fortification de la Raize und die wilde Schönheit des Naturschutzgebietes. Wenn die Sonne tiefer sinkt, gipfelt Ihre Reise am Le Sémaphore, der unvergessliche Ausblicke über den Atlantik gewährt.",
+        "hu": "Egy frissítő reggeli kerékpározás elvezeti a falu szívébe, a bájos kápolnához, békés alaphangot adva a napnak. Dél felé közeledve eléri a nyüzsgő Grande Plage-t, amely dinamikus partvonalával csodálatos kontrasztot kínál. A délutáni tekerés a zord partvonalat követi, felfedve a történelmi Fortification de la Raize-t és a közeli természetvédelmi terület vad szépségét. Ahogy a nap kezd lemenni, az utazás a Le Sémaphore-nál éri el csúcspontját, felejthetetlen kilátást nyújtva az Atlanti-óceánra.",
+        "ro": "O plimbare de dimineață vă aduce în inima satului la capela fermecătoare, stabilind un ton pașnic pentru zi. Apropiindu-vă de prânz, veți ajunge la animata Grande Plage, oferind un contrast minunat cu țărmul său dinamic. Pedalarea de după-amiază urmează linia de coastă accidentată, dezvăluind Fortificația istorică de la Raize și frumusețea sălbatică a rezervației naturale din apropiere. Pe măsură ce soarele coboară, călătoria culminează la Le Sémaphore, oferind vederi de neuitat peste Atlantic.",
+        "en": "A brisk morning ride brings you to the heart of the village at the charming chapel, setting a peaceful tone for the day. Approaching midday, you'll reach the lively Grande Plage, offering a wonderful contrast with its dynamic shoreline and fresh sea breeze. Your afternoon pedal follows the rugged coastline, revealing the historical Fortification de la Raize and the wild beauty of the nearby nature reserve. As the sun begins to lower, your journey culminates at Le Sémaphore, granting expansive, unforgettable views across the shimmering Atlantic."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 8.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pop Corn Labyrinthe",
+            "hu": "Pop Corn Labyrinthe",
+            "ro": "Pop Corn Labyrinthe",
+            "en": "Pop Corn Labyrinthe"
+          },
+          "coords": [
+            -2.200606,
+            47.138677
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einem unterhaltsamen Abenteuer in diesem einzigartigen Maislabyrinth und kommen Sie genau zur Öffnungszeit, um dem Nachmittagsandrang zu entgehen.",
+            "hu": "Kezdje a reggelt egy szórakoztató kalanddal ebben az egyedülálló kukoricalabirintusban, és érkezzen pontosan nyitásra, hogy elkerülje a délutáni tömeget és hőséget.",
+            "ro": "Începeți dimineața cu o aventură plină de distracție navigând în acest labirint unic de porumb și ajungeți exact la ora deschiderii pentru a evita aglomerația de după-amiază.",
+            "en": "Kick off the morning with a fun-filled adventure navigating this unique maize maze, and arrive exactly at opening time to beat the afternoon crowds and heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Préfailles",
+            "hu": "Chapelle Notre-Dame-de-Préfailles",
+            "ro": "Chapelle Notre-Dame-de-Préfailles",
+            "en": "Chapelle Notre-Dame-de-Préfailles"
+          },
+          "coords": [
+            -2.219817,
+            47.128747
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums, um diese schlichte Küstenkapelle zu besuchen, die einen Moment der Ruhe bietet, und prüfen Sie das schwarze Brett auf abendliche Veranstaltungen.",
+            "hu": "Parkoljon le a városközpont közelében, hogy meglátogassa ezt az egyszerű tengerparti kápolnát, és ellenőrizze a hirdetőtáblát a helyi esti eseményekért.",
+            "ro": "Parcați aproape de centrul orașului pentru a vizita această capelă de coastă, oferind un moment de reflecție liniștită, și verificați avizierul pentru evenimentele locale de seară.",
+            "en": "Park near the town center to visit this beautifully simple coastal chapel, offering a moment of quiet reflection, and check the notice board for local evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortification de la Raize",
+            "hu": "Fortification de la Raize",
+            "ro": "Fortification de la Raize",
+            "en": "Fortification de la Raize"
+          },
+          "coords": [
+            -2.231117,
+            47.131432
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Fahren Sie in Richtung der felsigen Küste, um diese historischen Verteidigungsanlagen zu erkunden, und tragen Sie eine Windjacke, da die Meeresbrise hier überraschend stark sein kann.",
+            "hu": "Vezessen a sziklás partvonal felé, hogy felfedezze ezeket a masszív történelmi védműveket, és viseljen széldzsekit, mivel az óceáni szellő itt még nyáron is meglepően erős lehet.",
+            "ro": "Conduceți spre coasta stâncoasă pentru a explora aceste fortificații istorice și purtați o jachetă de vânt, deoarece briza oceanului poate fi surprinzător de puternică chiar și vara.",
+            "en": "Drive towards the rocky coastline to explore these rugged historical defenses, and wear a windbreaker as the ocean breeze here can be surprisingly strong even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la Pointe Saint-Gildas",
+            "hu": "Réserve naturelle de la Pointe Saint-Gildas",
+            "ro": "Réserve naturelle de la Pointe Saint-Gildas",
+            "en": "Réserve naturelle de la Pointe Saint-Gildas"
+          },
+          "coords": [
+            -2.243734,
+            47.132829
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Schönheit der lokalen Flora und Fauna im Naturschutzgebiet und nutzen Sie strikt die ausgewiesenen Parkplätze, um die geschützte Umwelt nicht zu schädigen.",
+            "hu": "Tapasztalja meg a helyi növény- és állatvilág érintetlen szépségét a természetvédelmi területen, és szigorúan használja a kijelölt parkolókat a védett környezet károsításának elkerülése érdekében.",
+            "ro": "Experimentați frumusețea neatinsă a florei și faunei locale în rezervația naturală și folosiți parcările desemnate strict pentru a evita deteriorarea mediului protejat.",
+            "en": "Experience the untouched beauty of the local flora and fauna at the nature reserve, and use the designated parking areas strictly to avoid damaging the protected environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Étang",
+            "hu": "Plage de l'Étang",
+            "ro": "Plage de l'Étang",
+            "en": "Plage de l'Étang"
+          },
+          "coords": [
+            -2.177398,
+            47.120895
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem schönen Sandstrand, wo Sie sich am Wasser entspannen können, und bringen Sie Ihre eigenen Erfrischungen mit, da die Einrichtungen später begrenzt sind.",
+            "hu": "Fejezze be az autózást ezen a kedves homokos strandon, ahol a vízparton pihenhet, és hozzon magával saját frissítőt, mivel a nap végén a kényelmi szolgáltatások korlátozottak lehetnek.",
+            "ro": "Încheiați-vă plimbarea cu mașina la această plajă minunată de nisip, unde vă puteți relaxa, și aduceți-vă propriile băuturi răcoritoare, deoarece facilitățile pot fi limitate la sfârșitul zilei.",
+            "en": "Finish your drive at this lovely stretch of sandy beach where you can relax by the water, and bring your own refreshments as amenities can be limited late in the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer unterhaltsamen Herausforderung im Pop Corn Labyrinthe, bevor die Mittagssonne ihren Höchststand erreicht. Eine kurze Fahrt bringt Sie ins Herz des Dorfes, um die ruhige Chapelle Notre-Dame zu bewundern. Am Nachmittag fahren Sie entlang der dramatischen Küste, um die Fortification de la Raize zu besichtigen und durch die atemberaubende Natur der Pointe Saint-Gildas zu wandern. Die Tour endet perfekt mit einem entspannten Halt an der Plage de l'Étang, um das schwindende Tageslicht zu beobachten.",
+        "hu": "Kezdje a napot egy szórakoztató és családbarát kihívással a Pop Corn Labyrinthe-ben, mielőtt a déli nap a tetőpontjára ér. Egy rövid autózás elhozza a falu szívébe, hogy megcsodálja a helyi történelem egyik alapkövét, a csendes Chapelle Notre-Dame-ot. Délután végighajt a drámai partvonalon, hogy megtekintse a Fortification de la Raize-t, majd sétáljon a Pointe Saint-Gildas lenyűgöző tájain. A túra tökéletesen zárul egy pihentető megállóval a hívogató Plage de l'Étang-nál, ahol végignézheti a naplemente fényeit.",
+        "ro": "Începeți ziua cu o provocare distractivă pentru familie, navigând prin Pop Corn Labyrinthe înainte de soarele amiezii. O scurtă plimbare vă aduce în inima satului pentru a admira senina Chapelle Notre-Dame. După-amiază, veți conduce de-a lungul coastei dramatice pentru a inspecta Fortificația de la Raize și apoi vă veți plimba prin peisajele uimitoare ale rezervației naturale Pointe Saint-Gildas. Turul se încheie perfect cu o oprire relaxantă și lungă la plaja primitoare a Iazului pentru a privi cum lumina zilei se estompează.",
+        "en": "Start the day with an entertaining and family-friendly challenge navigating the Pop Corn Labyrinthe before the midday sun peaks. A short drive brings you into the heart of the village to admire the serene Chapelle Notre-Dame, a staple of local history. In the afternoon, you'll cruise along the dramatic coastline to inspect the Fortification de la Raize and then wander through the stunning landscapes of the nearby Pointe Saint-Gildas nature reserve. The tour wraps up perfectly with a relaxing, long stop at the welcoming Plage de l'Étang to watch the daylight fade."
+      }
+    }
+  }
+}

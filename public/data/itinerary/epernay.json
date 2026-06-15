@@ -1,0 +1,474 @@
+{
+  "city_id": "epernay",
+  "anchor": {
+    "name": "Épernay",
+    "coords": [
+      3.9592,
+      49.04
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Portal",
+            "hu": "Saint-Martin kapu",
+            "ro": "Portalul Saint-Martin",
+            "en": "Saint-Martin Portal"
+          },
+          "coords": [
+            3.95444,
+            49.0439
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Steinmetzarbeiten dieses Renaissance-Relikts, dem einzigen Überrest einer ehemaligen Abtei, und kommen Sie früh, um das Morgenlicht auf den Schnitzereien zu sehen.",
+            "hu": "Csodálja meg ennek a reneszánsz emléknek, egykori apátság egyetlen maradványának bonyolult kőfaragásait, és érkezzen korán, hogy a reggeli napfényben láthassa.",
+            "ro": "Admirați detaliile în piatră ale acestei relicve renascentiste, singura rămășiță a unei foste abații, și veniți devreme pentru a prinde lumina dimineții pe sculpturi.",
+            "en": "Admire the intricate stonework of this Renaissance relic, the only remnant of a former abbey, and visit early to catch the morning sunlight highlighting its carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Gabrielle-Dorziat Theater",
+            "hu": "Gabrielle-Dorziat Színház",
+            "ro": "Teatrul Gabrielle-Dorziat",
+            "en": "Gabrielle-Dorziat Theater"
+          },
+          "coords": [
+            3.959167,
+            49.044972
+          ],
+          "category": "cultural",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Beachten Sie die atemberaubende neoklassizistische Fassade dieses historischen Theaters, dem kulturellen Zentrum der Stadt, und trinken Sie einen Kaffee auf dem umliegenden Platz.",
+            "hu": "Figyelje meg ennek a történelmi színháznak, a város kulturális központjának lenyűgöző neoklasszikus homlokzatát, és igyon egy kávét a környező téren.",
+            "ro": "Observați fațada neoclasică uimitoare a acestui teatru istoric, un centru cultural al orașului, și savurați o cafea în piața din jur.",
+            "en": "Notice the stunning neoclassical facade of this historic theater, a cultural hub of the city, and take a moment to enjoy a coffee in the surrounding square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moët & Chandon Haus",
+            "hu": "Moët & Chandon Ház",
+            "ro": "Casa Moët & Chandon",
+            "en": "Moët & Chandon House"
+          },
+          "coords": [
+            3.959743,
+            49.042565
+          ],
+          "category": "culinary",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesigen unterirdischen Keller dieses weltberühmten Champagnerherstellers, ein wahres Zeugnis französischen Luxus, und buchen Sie Ihre Verkostungstour weit im Voraus.",
+            "hu": "Fedezze fel e világhírű pezsgőgyártó hatalmas földalatti pincéit, a francia luxus igazi bizonyítékát, és jó előre foglalja le kóstoló túráját.",
+            "ro": "Explorați vastele pivnițe subterane ale acestui producător de șampanie de faimă mondială, o adevărată mărturie a luxului francez, și rezervați turul de degustare din timp.",
+            "en": "Explore the vast underground cellars of this world-famous champagne producer, a true testament to French luxury, and book your tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            3.958693,
+            49.040949
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschönen Buntglasfenster dieser beeindruckenden Kirche, einem spirituellen Anker der Stadt, und treten Sie für einen ruhigen Moment der Besinnung ein.",
+            "hu": "Tekintse meg ennek a lenyűgöző templomnak, a város szellemi horgonyának gyönyörű ólomüveg ablakait, és lépjen be egy csendes elmélkedésre.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici impresionante, o ancoră spirituală pentru oraș, și intrați pentru un moment liniștit de reflecție.",
+            "en": "Take in the beautiful stained glass windows of this impressive church, a spiritual anchor for the town, and step inside for a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue de Champagne",
+            "hu": "Avenue de Champagne",
+            "ro": "Avenue de Champagne",
+            "en": "Avenue de Champagne"
+          },
+          "coords": [
+            3.969669,
+            49.041216
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der teuersten Straße der Welt, gesäumt von prächtigen Villen und Champagnerhäusern, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a világ legdrágább utcáján, amelyet csodálatos kúriák és pezsgőházak szegélyeznek, és viseljen kényelmes cipőt a macskakövek miatt.",
+            "ro": "Plimbați-vă pe cea mai scumpă stradă din lume, mărginită de conace magnifice și case de șampanie, și purtați pantofi comozi pentru pavaj.",
+            "en": "Walk along the most expensive street in the world, lined with magnificent mansions and champagne houses, and wear comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercier Champagnerhaus",
+            "hu": "Mercier Pezsgőház",
+            "ro": "Casa de șampanie Mercier",
+            "en": "Mercier Champagne House"
+          },
+          "coords": [
+            3.971551,
+            49.04042
+          ],
+          "category": "culinary",
+          "arrive_at": "15:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem lasergesteuerten Zug durch 18 Kilometer Keller in diesem innovativen Champagnerhaus und verpassen Sie nicht das riesige Weinfass in der Lobby.",
+            "hu": "Utazzon a lézervezérelt vonattal ezen az innovatív pezsgőház 18 kilométeres pincéjén keresztül, és ne hagyja ki a lobbiban lévő óriási boroshordót.",
+            "ro": "Mergeți cu trenul ghidat prin laser prin 18 kilometri de pivnițe la această casă inovatoare de șampanie și nu ratați butoiul uriaș de vin din hol.",
+            "en": "Ride the laser-guided train through 18 kilometers of cellars at this innovative champagne house, and don't miss the giant wine barrel in the lobby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem historischen Saint-Martin Portal und dem eleganten Gabrielle-Dorziat Theater. Mittags besuchen Sie das legendäre Moët & Chandon Haus. Nachmittags genießen Sie die Ruhe von Notre-Dame, bevor Sie über die opulente Avenue de Champagne schlendern. Der Abend endet spektakulär im Mercier Champagnerhaus.",
+        "hu": "A reggel a történelmi Saint-Martin kapuval és az elegáns Gabrielle-Dorziat Színházzal kezdődik. Délben a pezsgővidék szívébe érkezik az ikonikus Moët & Chandon házba. Délután élvezze a Notre-Dame csendes áhítatát, mielőtt végigsétál a pazar Avenue de Champagne-on. Az este a Mercier Házban ér véget egy látványos fináléval.",
+        "ro": "Dimineața începe cu istoricul Portal Saint-Martin și elegantul Teatru Gabrielle-Dorziat. La prânz ajungeți în inima ținutului șampaniei cu o vizită la celebra Casă Moët & Chandon. După-amiază, bucurați-vă de reverența tăcută de la Notre-Dame înainte de a vă plimba pe opulenta Avenue de Champagne. Seara se încheie la Casa Mercier.",
+        "en": "Morning begins with the historic Saint-Martin Portal and the elegant Gabrielle-Dorziat Theater. Midday brings you to the heart of champagne country with a visit to the iconic Moët & Chandon House. In the afternoon, enjoy the quiet reverence of Notre-Dame before strolling the opulent Avenue de Champagne. The evening wraps up at the Mercier House for a spectacular finish."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sportbecken",
+            "hu": "Sportmedence",
+            "ro": "Bazin sportiv",
+            "en": "Sports Pool"
+          },
+          "coords": [
+            3.950345,
+            49.03501
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem modernen Sportbecken, einem perfekten Ort für Familien zum Abschalten, und packen Sie Badesachen ein, wenn Sie morgens schwimmen möchten.",
+            "hu": "Pihenjen a modern sportmedence területén, amely tökéletes hely a családok számára a kikapcsolódásra, és hozzon fürdőruhát, ha szeretne egy frissítő reggeli csobbanást.",
+            "ro": "Relaxați-vă în această zonă modernă a piscinei sportive, un loc perfect pentru relaxarea familiilor, și luați un costum de baie dacă doriți o baie de dimineață.",
+            "en": "Relax by this modern sports pool area, a perfect spot for families to unwind, and pack a swimsuit if you fancy a refreshing morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Portal",
+            "hu": "Saint-Martin kapu",
+            "ro": "Portalul Saint-Martin",
+            "en": "Saint-Martin Portal"
+          },
+          "coords": [
+            3.95444,
+            49.0439
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Steinmetzarbeiten dieses Renaissance-Relikts, dem einzigen Überrest einer ehemaligen Abtei, und kommen Sie früh, um das Morgenlicht auf den Schnitzereien zu sehen.",
+            "hu": "Csodálja meg ennek a reneszánsz emléknek, egykori apátság egyetlen maradványának bonyolult kőfaragásait, és érkezzen korán, hogy a reggeli napfényben láthassa.",
+            "ro": "Admirați detaliile în piatră ale acestei relicve renascentiste, singura rămășiță a unei foste abații, și veniți devreme pentru a prinde lumina dimineții pe sculpturi.",
+            "en": "Admire the intricate stonework of this Renaissance relic, the only remnant of a former abbey, and visit early to catch the morning sunlight highlighting its carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            3.958693,
+            49.040949
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschönen Buntglasfenster dieser beeindruckenden Kirche, einem spirituellen Anker der Stadt, und treten Sie für einen ruhigen Moment der Besinnung ein.",
+            "hu": "Tekintse meg ennek a lenyűgöző templomnak, a város szellemi horgonyának gyönyörű ólomüveg ablakait, és lépjen be egy csendes elmélkedésre.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici impresionante, o ancoră spirituală pentru oraș, și intrați pentru un moment liniștit de reflecție.",
+            "en": "Take in the beautiful stained glass windows of this impressive church, a spiritual anchor for the town, and step inside for a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Moët & Chandon Haus",
+            "hu": "Moët & Chandon Ház",
+            "ro": "Casa Moët & Chandon",
+            "en": "Moët & Chandon House"
+          },
+          "coords": [
+            3.959743,
+            49.042565
+          ],
+          "category": "culinary",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesigen unterirdischen Keller dieses weltberühmten Champagnerherstellers, ein wahres Zeugnis französischen Luxus, und buchen Sie Ihre Verkostungstour weit im Voraus.",
+            "hu": "Fedezze fel e világhírű pezsgőgyártó hatalmas földalatti pincéit, a francia luxus igazi bizonyítékát, és jó előre foglalja le kóstoló túráját.",
+            "ro": "Explorați vastele pivnițe subterane ale acestui producător de șampanie de faimă mondială, o adevărată mărturie a luxului francez, și rezervați turul de degustare din timp.",
+            "en": "Explore the vast underground cellars of this world-famous champagne producer, a true testament to French luxury, and book your tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellane Turm",
+            "hu": "Castellane torony",
+            "ro": "Turnul Castellane",
+            "en": "Castellane Tower"
+          },
+          "coords": [
+            3.969333,
+            49.042674
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 237 Stufen dieses markanten Turms für einen Panoramablick auf Épernay und die Weinberge und bringen Sie eine Kamera für die atemberaubende Landschaft mit.",
+            "hu": "Mássza meg ennek a feltűnő toronynak a 237 lépcsőfokát az Épernay-re és a szőlőültetvényekre nyíló panorámáért, és hozzon fényképezőgépet a lélegzetelállító táj megörökítéséhez.",
+            "ro": "Urcați cele 237 de trepte ale acestui turn uimitor pentru vederi panoramice asupra Épernay și a podgoriilor, și aduceți un aparat foto pentru a surprinde peisajul.",
+            "en": "Climb the 237 steps of this striking tower for panoramic views of Épernay and the vineyards, and bring a camera to capture the breathtaking scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercier Champagnerhaus",
+            "hu": "Mercier Pezsgőház",
+            "ro": "Casa de șampanie Mercier",
+            "en": "Mercier Champagne House"
+          },
+          "coords": [
+            3.971551,
+            49.04042
+          ],
+          "category": "culinary",
+          "arrive_at": "15:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem lasergesteuerten Zug durch 18 Kilometer Keller in diesem innovativen Champagnerhaus und verpassen Sie nicht das riesige Weinfass in der Lobby.",
+            "hu": "Utazzon a lézervezérelt vonattal ezen az innovatív pezsgőház 18 kilométeres pincéjén keresztül, és ne hagyja ki a lobbiban lévő óriási boroshordót.",
+            "ro": "Mergeți cu trenul ghidat prin laser prin 18 kilometri de pivnițe la această casă inovatoare de șampanie și nu ratați butoiul uriaș de vin din hol.",
+            "en": "Ride the laser-guided train through 18 kilometers of cellars at this innovative champagne house, and don't miss the giant wine barrel in the lobby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Bassin sportif, bevor Sie zum Saint-Martin Portal radeln. Mittags entdecken Sie das religiöse Zentrum an der Notre-Dame Kirche und den Luxus von Moët & Chandon. Nachmittags radeln Sie zum Castellane Turm für eine herrliche Aussicht. Der Abend endet mit einer Fahrt zum berühmten Mercier Champagnerhaus.",
+        "hu": "Kezdje a reggelt a Bassin sportifnál, mielőtt a történelmi Saint-Martin kapuhoz kerékpározna. Délben fedezze fel a vallási központot a Notre-Dame templomnál és a Moët & Chandon luxusát. Délután tekerjen a Castellane toronyhoz a lenyűgöző kilátásért. Az este egy laza túrával zárul a híres Mercier Pezsgőházhoz.",
+        "ro": "Începeți dimineața la Bazinul sportiv înainte de a pedala spre istoricul Portal Saint-Martin. La prânz descoperiți inima religioasă la Biserica Notre-Dame și luxul de la Moët & Chandon. După-amiază, pedalați până la Turnul Castellane pentru priveliști uimitoare. Seara se încheie cu o plimbare spre faimoasa Casă Mercier.",
+        "en": "Start the morning with a refreshing vibe at the Bassin sportif before cycling to the historic Saint-Martin Portal. Midday sees you discovering the religious heart at Notre-Dame Church and the luxury of Moët & Chandon. In the afternoon, pedal up to the Castellane Tower for stunning views. The evening concludes with a relaxed ride to the famous Mercier Champagne House."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sportbecken",
+            "hu": "Sportmedence",
+            "ro": "Bazin sportiv",
+            "en": "Sports Pool"
+          },
+          "coords": [
+            3.950345,
+            49.03501
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem modernen Sportbecken, einem perfekten Ort für Familien zum Abschalten, und packen Sie Badesachen ein, wenn Sie morgens schwimmen möchten.",
+            "hu": "Pihenjen a modern sportmedence területén, amely tökéletes hely a családok számára a kikapcsolódásra, és hozzon fürdőruhát, ha szeretne egy frissítő reggeli csobbanást.",
+            "ro": "Relaxați-vă în această zonă modernă a piscinei sportive, un loc perfect pentru relaxarea familiilor, și luați un costum de baie dacă doriți o baie de dimineață.",
+            "en": "Relax by this modern sports pool area, a perfect spot for families to unwind, and pack a swimsuit if you fancy a refreshing morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Gabrielle-Dorziat Theater",
+            "hu": "Gabrielle-Dorziat Színház",
+            "ro": "Teatrul Gabrielle-Dorziat",
+            "en": "Gabrielle-Dorziat Theater"
+          },
+          "coords": [
+            3.959167,
+            49.044972
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Beachten Sie die atemberaubende neoklassizistische Fassade dieses historischen Theaters, dem kulturellen Zentrum der Stadt, und trinken Sie einen Kaffee auf dem umliegenden Platz.",
+            "hu": "Figyelje meg ennek a történelmi színháznak, a város kulturális központjának lenyűgöző neoklasszikus homlokzatát, és igyon egy kávét a környező téren.",
+            "ro": "Observați fațada neoclasică uimitoare a acestui teatru istoric, un centru cultural al orașului, și savurați o cafea în piața din jur.",
+            "en": "Notice the stunning neoclassical facade of this historic theater, a cultural hub of the city, and take a moment to enjoy a coffee in the surrounding square."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Portal",
+            "hu": "Saint-Martin kapu",
+            "ro": "Portalul Saint-Martin",
+            "en": "Saint-Martin Portal"
+          },
+          "coords": [
+            3.95444,
+            49.0439
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Steinmetzarbeiten dieses Renaissance-Relikts, dem einzigen Überrest einer ehemaligen Abtei, und kommen Sie früh, um das Morgenlicht auf den Schnitzereien zu sehen.",
+            "hu": "Csodálja meg ennek a reneszánsz emléknek, egykori apátság egyetlen maradványának bonyolult kőfaragásait, és érkezzen korán, hogy a reggeli napfényben láthassa.",
+            "ro": "Admirați detaliile în piatră ale acestei relicve renascentiste, singura rămășiță a unei foste abații, și veniți devreme pentru a prinde lumina dimineții pe sculpturi.",
+            "en": "Admire the intricate stonework of this Renaissance relic, the only remnant of a former abbey, and visit early to catch the morning sunlight highlighting its carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Moët & Chandon Haus",
+            "hu": "Moët & Chandon Ház",
+            "ro": "Casa Moët & Chandon",
+            "en": "Moët & Chandon House"
+          },
+          "coords": [
+            3.959743,
+            49.042565
+          ],
+          "category": "culinary",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesigen unterirdischen Keller dieses weltberühmten Champagnerherstellers, ein wahres Zeugnis französischen Luxus, und buchen Sie Ihre Verkostungstour weit im Voraus.",
+            "hu": "Fedezze fel e világhírű pezsgőgyártó hatalmas földalatti pincéit, a francia luxus igazi bizonyítékát, és jó előre foglalja le kóstoló túráját.",
+            "ro": "Explorați vastele pivnițe subterane ale acestui producător de șampanie de faimă mondială, o adevărată mărturie a luxului francez, și rezervați turul de degustare din timp.",
+            "en": "Explore the vast underground cellars of this world-famous champagne producer, a true testament to French luxury, and book your tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellane Turm",
+            "hu": "Castellane torony",
+            "ro": "Turnul Castellane",
+            "en": "Castellane Tower"
+          },
+          "coords": [
+            3.969333,
+            49.042674
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 237 Stufen dieses markanten Turms für einen Panoramablick auf Épernay und die Weinberge und bringen Sie eine Kamera für die atemberaubende Landschaft mit.",
+            "hu": "Mássza meg ennek a feltűnő toronynak a 237 lépcsőfokát az Épernay-re és a szőlőültetvényekre nyíló panorámáért, és hozzon fényképezőgépet a lélegzetelállító táj megörökítéséhez.",
+            "ro": "Urcați cele 237 de trepte ale acestui turn uimitor pentru vederi panoramice asupra Épernay și a podgoriilor, și aduceți un aparat foto pentru a surprinde peisajul.",
+            "en": "Climb the 237 steps of this striking tower for panoramic views of Épernay and the vineyards, and bring a camera to capture the breathtaking scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue de Champagne",
+            "hu": "Avenue de Champagne",
+            "ro": "Avenue de Champagne",
+            "en": "Avenue de Champagne"
+          },
+          "coords": [
+            3.969669,
+            49.041216
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der teuersten Straße der Welt, gesäumt von prächtigen Villen und Champagnerhäusern, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a világ legdrágább utcáján, amelyet csodálatos kúriák és pezsgőházak szegélyeznek, és viseljen kényelmes cipőt a macskakövek miatt.",
+            "ro": "Plimbați-vă pe cea mai scumpă stradă din lume, mărginită de conace magnifice și case de șampanie, și purtați pantofi comozi pentru pavaj.",
+            "en": "Walk along the most expensive street in the world, lined with magnificent mansions and champagne houses, and wear comfortable shoes for the cobblestones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zum Bassin sportif, gefolgt von der Architektur des Gabrielle-Dorziat Theaters. Mittags fahren Sie vorbei am Saint-Martin Portal zu den Kellern von Moët & Chandon. Der Nachmittag ist für die Aussicht vom Castellane Turm reserviert. Gegen Abend fahren Sie über die prächtige Avenue de Champagne.",
+        "hu": "A nap a Bassin sportifhoz vezető úttal kezdődik, majd a Gabrielle-Dorziat Színház következik. Délben az ősi Saint-Martin kapu és a legendás Moët & Chandon pincék várják. A délután a Castellane toronyból nyíló pazar kilátásé. Ahogy leszáll az est, autózzon végig a csodálatos Avenue de Champagne-on.",
+        "ro": "Ziua începe cu o plimbare spre Bazinul sportiv, urmată de Teatrul Gabrielle-Dorziat. La prânz treceți de vechiul Portal Saint-Martin spre cramele Moët & Chandon. După-amiaza este rezervată pentru priveliștile de la Turnul Castellane. Spre seară, conduceți pe superba Avenue de Champagne pentru a încheia turul.",
+        "en": "The day starts with a drive to the Bassin sportif, followed by the architectural beauty of the Gabrielle-Dorziat Theater. Midday takes you past the ancient Saint-Martin Portal to the legendary Moët & Chandon cellars. The afternoon is reserved for sweeping views from the Castellane Tower. As evening falls, cruise the magnificent Avenue de Champagne to complete your grand tour."
+      }
+    }
+  }
+}

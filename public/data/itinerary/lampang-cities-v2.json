@@ -1,0 +1,405 @@
+{
+  "city_id": "lampang-cities-v2",
+  "anchor": {
+    "name": "Lampang",
+    "coords": [
+      99.492,
+      18.292
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Phum La Kon Museum",
+            "hu": "Phum La Kon Múzeum",
+            "ro": "Muzeul Phum La Kon",
+            "en": "Phum La Kon Museum"
+          },
+          "coords": [
+            99.489788,
+            18.288679
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Lampangs Geschichte durch faszinierende Exponate in diesem lokalen Museum, aber fragen Sie am Eingang unbedingt nach dem englischen Reiseführer.",
+            "hu": "Fedezze fel Lampang gazdag történelmét e lenyűgöző helyi múzeum kiállításain keresztül, de a bejáratnál ne felejtsen el angol nyelvű útmutatót kérni.",
+            "ro": "Descoperiți istoria bogată a orașului Lampang prin expoziții fascinante în acest muzeu local, dar nu uitați să cereți ghidul în limba engleză la intrare.",
+            "en": "Discover Lampang's rich history through fascinating exhibits in this local museum, but remember to ask the staff for the english guidebook at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            99.490904,
+            18.288876
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Wahrzeichen im Stadtzentrum, das ein tolles Fotomotiv bietet, wenn Sie vor dem mittäglichen Verkehrsaufkommen ankommen.",
+            "hu": "Csodálja meg ezt a városközpontban büszkén álló ikonikus történelmi nevezetességet, amely remek fotótémát kínál, ha a déli forgalom előtt érkezik ide.",
+            "ro": "Admirați acest reper istoric iconic din centrul orașului, care oferă o oportunitate excelentă de fotografie dacă ajungeți înainte de traficul de la prânz.",
+            "en": "Admire this iconic historical landmark standing proud in the city center, which offers a great photo opportunity if you arrive before the midday traffic peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Lampang Arts Center",
+            "hu": "Lampang Művészeti Központ",
+            "ro": "Centrul de Arte Lampang",
+            "en": "Lampang Arts Center"
+          },
+          "coords": [
+            99.496485,
+            18.290762
+          ],
+          "category": "cultural",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie traditionelle Künste in diesem ruhigen Zentrum und nehmen Sie sich unbedingt Zeit, um die komplizierten Holzschnitzereien im Inneren zu würdigen.",
+            "hu": "Fedezze fel a hagyományos művészeteket ebben a csendes központban, és mindenképpen szánjon időt a lenyűgöző és bonyolult fafaragások megcsodálására odabent.",
+            "ro": "Explorați arta tradițională în acest centru cultural liniștit și asigurați-vă că vă faceți timp pentru a aprecia sculpturile complicate în lemn din interior.",
+            "en": "Explore beautiful traditional arts and cultural displays at this quiet center, and make sure to take your time to appreciate the intricate wood carvings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "MoungNgwazin-Gebäude",
+            "hu": "MoungNgwazin Épület",
+            "ro": "Clădirea MoungNgwazin",
+            "en": "MoungNgwazin Building"
+          },
+          "coords": [
+            99.498226,
+            18.290974
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Lebkuchenarchitektur dieses historischen Gebäudes, das man am besten von der Straßenseite aus für ein Weitwinkelfoto betrachtet.",
+            "hu": "Csodálja meg e gyönyörűen megőrzött történelmi épület egyedi mézeskalács építészetét, amely az utca felől nyújtja a legtökéletesebb nagylátószögű fotótémát.",
+            "ro": "Minunați-vă de arhitectura unică a acestei clădiri istorice frumos conservate, care se vede cel mai bine de pe stradă pentru o fotografie cu unghi larg.",
+            "en": "Marvel at the unique gingerbread architecture of this beautifully preserved historical building, best viewed from the street side for the perfect wide angle shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lampang Museum",
+            "hu": "Lampang Múzeum",
+            "ro": "Muzeul Lampang",
+            "en": "Lampang Museum"
+          },
+          "coords": [
+            99.503304,
+            18.29017
+          ],
+          "category": "museum",
+          "arrive_at": "15:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über das kulturelle Erbe Nordthailands, was es zu einem wichtigen Halt macht; lassen Sie also genug Zeit für die detaillierten Tafeln.",
+            "hu": "Ismerje meg Észak-Thaiföld kulturális örökségét ezen a fontos állomáson, ezért hagyjon elég időt a részletes és informatív információs táblák elolvasására is.",
+            "ro": "Aflați despre moștenirea culturală a nordului Thailandei aici, o oprire esențială, așa că lăsați-vă suficient timp pentru a citi toate panourile detaliate.",
+            "en": "Learn about the deeper cultural heritage and lifestyle of northern Thailand here, making it an essential final stop, so leave enough time to read the detailed panels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Phum La Kon Museum, das eine gründliche Einführung in Lampangs Wurzeln bietet. Genießen Sie dann einen kurzen Spaziergang zum historischen Uhrturm, dem Herz der Stadt.\n\nProbieren Sie zur Mittagszeit lokale nordthailändische Gerichte, bevor Sie das Lampang Arts Center erkunden. Dieser ruhige Ort bietet einen tiefen Einblick in den lokalen künstlerischen Ausdruck.\n\nSetzen Sie Ihren Spaziergang zum MoungNgwazin-Gebäude fort, um die einzigartige Lebkuchenarchitektur zu bewundern, ein wunderbares Überbleibsel der florierenden Teakholzhandelsära in Lampang.\n\nBeenden Sie den Tag im Lampang Museum. Seine umfassenden Ausstellungen verbinden auf wunderschöne Weise alles, was Sie gesehen haben, und bieten einen gelungenen Abschluss Ihrer Tour.",
+        "hu": "A reggel a Phum La Kon Múzeumban kezdődik, amely alapos bevezetést nyújt Lampang gyökereibe. Ezután tegyen egy rövid sétát a történelmi Óratoronyhoz, amely a város központi lüktető szíve.\n\nEbédre kóstolja meg a helyi észak-thai ételeket, mielőtt felfedezné a Lampang Művészeti Központot. Ez a nyugodt hely mély bepillantást enged a helyi hagyományos művészeti kifejezésekbe.\n\nFolytassa sétáját a MoungNgwazin épülethez, hogy megcsodálja egyedi mézeskalács stílusú építészetét, amely a virágzó tíkfakereskedelem korszakának csodálatos és látványos maradványa.\n\nA napot a Lampang Múzeumban zárja. Átfogó kiállításai gyönyörűen összekapcsolják mindazt, amit eddig látott, így adva tökéletes befejezést ennek a tartalmas kulturális gyalogtúrának.",
+        "ro": "Dimineața începe la Muzeul Phum La Kon, oferind o introducere amănunțită în rădăcinile orașului Lampang. Apoi, faceți o scurtă plimbare până la Turnul cu Ceas, inima centrală a orașului.\n\nLa prânz, savurați preparate locale nord-thailandeze înainte de a explora Centrul de Arte. Acest loc liniștit oferă o privire profundă asupra expresiilor artistice locale tradiționale.\n\nContinuați-vă plimbarea spre Clădirea MoungNgwazin pentru a admira arhitectura sa unică în stil turtă dulce, o rămășiță minunată a epocii înfloritoare a comerțului cu lemn de tec.\n\nÎncheiați ziua la Muzeul Lampang. Expozițiile sale cuprinzătoare leagă frumos tot ceea ce ați văzut, oferind o concluzie satisfăcătoare a acestui tur cultural minunat de mers pe jos.",
+        "en": "Morning begins at the local Phum La Kon Museum, offering a thorough introduction to Lampang's roots. Next, enjoy a short walk to the historic Clock Tower, the central beating heart of the city.\n\nFor lunch, savor local northern Thai dishes nearby before exploring the Lampang Arts Center. This tranquil spot presents a deep look into the local artistic expressions.\n\nContinue your stroll to the MoungNgwazin Building to admire its unique gingerbread-style architecture, a wonderful remnant of the thriving teak trade era in Lampang.\n\nEnd the day at the Lampang Museum. Its comprehensive exhibitions beautifully tie together everything you've seen, providing a satisfying conclusion to your cultural walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 3.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Si Rong Mueang",
+            "hu": "Wat Si Rong Mueang",
+            "ro": "Wat Si Rong Mueang",
+            "en": "Wat Si Rong Mueang"
+          },
+          "coords": [
+            99.48081,
+            18.290422
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen atemberaubenden Tempel im birmanischen Stil, um die Teakholzschnitzereien zu bewundern, aber achten Sie auf bedeckte Schultern und Knie.",
+            "hu": "Lépjen be ebbe a lenyűgöző burmai stílusú templomba, hogy megcsodálja a tíkfafaragásokat, de belépés előtt ügyeljen a vállak és térdek tiszteletteljes elfedésére.",
+            "ro": "Pășiți în acest templu uimitor în stil birmanez pentru a admira sculpturile în lemn de tec, dar asigurați-vă că aveți umerii și genunchii acoperiți la intrare.",
+            "en": "Step into this stunning Burmese-style temple to admire its intricate teak wood carvings, but please ensure your shoulders and knees are respectfully covered before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            99.490904,
+            18.288876
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Wahrzeichen im Stadtzentrum, das ein tolles Fotomotiv bietet, wenn Sie vor dem mittäglichen Verkehrsaufkommen ankommen.",
+            "hu": "Csodálja meg ezt a városközpontban büszkén álló ikonikus történelmi nevezetességet, amely remek fotótémát kínál, ha a déli forgalom előtt érkezik ide.",
+            "ro": "Admirați acest reper istoric iconic din centrul orașului, care oferă o oportunitate excelentă de fotografie dacă ajungeți înainte de traficul de la prânz.",
+            "en": "Admire this iconic historical landmark standing proud in the city center, which offers a great photo opportunity if you arrive before the midday traffic peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Pong Sanuk",
+            "hu": "Wat Pong Sanuk",
+            "ro": "Wat Pong Sanuk",
+            "en": "Wat Pong Sanuk"
+          },
+          "coords": [
+            99.496993,
+            18.294678
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen preisgekrönten alten Tempel mit seiner mehrstöckigen Dachstruktur und genießen Sie die friedliche Atmosphäre im schattigen Innenhof.",
+            "hu": "Látogasson el ebbe a díjnyertes, ősi templomba, amelynek többszintes tetőszerkezete van, és élvezze a békés és csendes atmoszférát az árnyékos udvaron.",
+            "ro": "Vizitați acest templu antic premiat, cu structura sa de acoperiș pe mai multe niveluri, și bucurați-vă de atmosfera pașnică din curtea liniștită și umbrită.",
+            "en": "Visit this award-winning ancient temple with its multi-tiered roof structure, and take a moment to enjoy the peaceful atmosphere in the shaded courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "MoungNgwazin-Gebäude",
+            "hu": "MoungNgwazin Épület",
+            "ro": "Clădirea MoungNgwazin",
+            "en": "MoungNgwazin Building"
+          },
+          "coords": [
+            99.498226,
+            18.290974
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Lebkuchenarchitektur dieses historischen Gebäudes, das man am besten von der Straßenseite aus für ein Weitwinkelfoto betrachtet.",
+            "hu": "Csodálja meg e gyönyörűen megőrzött történelmi épület egyedi mézeskalács építészetét, amely az utca felől nyújtja a legtökéletesebb nagylátószögű fotótémát.",
+            "ro": "Minunați-vă de arhitectura unică a acestei clădiri istorice frumos conservate, care se vede cel mai bine de pe stradă pentru o fotografie cu unghi larg.",
+            "en": "Marvel at the unique gingerbread architecture of this beautifully preserved historical building, best viewed from the street side for the perfect wide angle shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Sao Nak",
+            "hu": "Baan Sao Nak",
+            "ro": "Baan Sao Nak",
+            "en": "Baan Sao Nak"
+          },
+          "coords": [
+            99.508035,
+            18.294137
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses unglaubliche Teakhaus mit 116 Säulen, das traditionelles Lanna-Leben zeigt, und fragen Sie nach der Geschichte der lokalen Königsfamilie.",
+            "hu": "Sétáljon végig ezen a hagyományos Lanna életmódot bemutató, 116 oszlopos tíkfa kúrián, és kérdezze a vezetőket a helyi királyi család lenyűgöző történetéről.",
+            "ro": "Plimbați-vă prin acest conac incredibil din lemn de tec cu 116 stâlpi, care prezintă viața tradițională Lanna, și întrebați ghizii despre istoria familiei regale.",
+            "en": "Walk through this incredible 116-pillar teak wood mansion that showcases traditional Lanna living, and ask the guides about the fascinating history of the local royal family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am Wat Si Rong Mueang, um das schöne birmanische Design zu bewundern. Eine kurze Fahrt bringt Sie zum ikonischen Uhrturm, dem historischen Zentrum.\n\nRadeln Sie nach einer Pause zum Wat Pong Sanuk. Dieser preisgekrönte Tempel bietet eine bemerkenswerte alte Architektur und einen friedlichen Garten, um der Mittagshitze zu entfliehen.\n\nFahren Sie zum MoungNgwazin-Gebäude. Seine markante historische Holzfassade ist ein stolzes Zeugnis der reichen und sehr wohlhabenden Vergangenheit der gesamten Region.\n\nIhr letztes Ziel ist Baan Sao Nak, das prächtige Teakhaus mit 116 Säulen. Die Erkundung seiner klassischen Räume bietet einen perfekten Abschluss für einen aktiven Tag auf dem Fahrrad.",
+        "hu": "Kezdje a kerékpáros napot a Wat Si Rong Mueang-nál, és csodálja meg gyönyörű burmai dizájnját. Egy gyors tekerés az ikonikus Óratoronyhoz vezet, amely a történelmi központot jelöli.\n\nEgy frissítő pihenő után tekerjen a Wat Pong Sanuk felé. Ez a díjnyertes templom figyelemre méltó ősi építészetet és békés kertet kínál, ahol elmenekülhet a déli hőség elől.\n\nKerékpározzon tovább a MoungNgwazin épülethez. Ennek a lenyűgöző háznak a jellegzetes történelmi fa homlokzata büszke bizonyítéka a régió gazdag és rendkívül virágzó múltjának.\n\nVégső úti célja a Baan Sao Nak, a csodálatos 116 oszlopos tíkfa kúria. Klasszikus szobáinak felfedezése tökéletes és egyben nyugodt befejezést nyújt az aktív és tartalmas napnak.",
+        "ro": "Începeți ziua de ciclism la Wat Si Rong Mueang pentru a admira designul său birmanez. O scurtă plimbare vă duce la emblematicul Turn cu Ceas, marcând centrul istoric.\n\nPedalați spre Wat Pong Sanuk după o pauză răcoritoare. Acest templu premiat oferă o arhitectură antică remarcabilă și o grădină pașnică pentru a scăpa de căldura amiezii.\n\nMergeți cu bicicleta până la Clădirea MoungNgwazin. Fațada sa istorică distinctivă din lemn stă ca un testament mândru al trecutului bogat și prosper al acestei regiuni thailandeze.\n\nDestinația finală este Baan Sao Nak, magnificul conac din lemn de tec cu 116 stâlpi. Explorarea camerelor sale clasice oferă un final perfect pentru o zi activă pe bicicletă.",
+        "en": "Start your cycling day at Wat Si Rong Mueang to marvel at its beautiful Burmese design. A quick ride brings you to the iconic Clock Tower, marking the historic center.\n\nPedal towards Wat Pong Sanuk after a refreshing break. This award-winning temple offers remarkable ancient architecture and a peaceful garden to escape the midday heat.\n\nCycle down to the MoungNgwazin Building. Its distinctive historical wooden facade stands as a proud testament to the region's rich and prosperous past.\n\nYour final destination is Baan Sao Nak, the magnificent 116-pillar teak mansion. Exploring its classic rooms provides a perfect end to an active day on the bike."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Thai Bank Museum",
+            "hu": "Thai Bank Múzeum",
+            "ro": "Muzeul Băncii Thailandeze",
+            "en": "Thai Bank Museum"
+          },
+          "coords": [
+            99.484661,
+            18.284856
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung der thailändischen Währung in diesem Nischenmuseum, das selten überfüllt und perfekt für einen ruhigen Morgenbesuch ist.",
+            "hu": "Fedezze fel a thai valuta fejlődését ebben a ritkán zsúfolt, különleges múzeumban, amely egyszerűen tökéletes egy nyugodt, de rendkívül tanulságos reggeli látogatáshoz.",
+            "ro": "Descoperiți evoluția monedei thailandeze în acest muzeu de nișă, care este rareori aglomerat și perfect pentru o vizită educațională liniștită de dimineață.",
+            "en": "Uncover the fascinating evolution of Thai currency and banking history in this niche museum, which is rarely crowded and perfect for a quiet morning educational visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Pong Sanuk",
+            "hu": "Wat Pong Sanuk",
+            "ro": "Wat Pong Sanuk",
+            "en": "Wat Pong Sanuk"
+          },
+          "coords": [
+            99.496993,
+            18.294678
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen preisgekrönten alten Tempel mit seiner mehrstöckigen Dachstruktur und genießen Sie die friedliche Atmosphäre im schattigen Innenhof.",
+            "hu": "Látogasson el ebbe a díjnyertes, ősi templomba, amelynek többszintes tetőszerkezete van, és élvezze a békés és csendes atmoszférát az árnyékos udvaron.",
+            "ro": "Vizitați acest templu antic premiat, cu structura sa de acoperiș pe mai multe niveluri, și bucurați-vă de atmosfera pașnică din curtea liniștită și umbrită.",
+            "en": "Visit this award-winning ancient temple with its multi-tiered roof structure, and take a moment to enjoy the peaceful atmosphere in the shaded courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Lanna Museum",
+            "hu": "Lanna Múzeum",
+            "ro": "Muzeul Lanna",
+            "en": "Lanna Museum"
+          },
+          "coords": [
+            99.509602,
+            18.300975
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die nordthailändische Architektur ein und schauen Sie sich unbedingt die aufwendigen Miniaturmodelle traditioneller Häuser im zweiten Stock an.",
+            "hu": "Merüljön el az észak-thai építészetben és folklórban, és mindenképpen tekintse meg a hagyományos házak bonyolult miniatűr modelljeit a második emeleten.",
+            "ro": "Scufundați-vă în arhitectura nord-thailandeză și nu uitați să verificați modelele în miniatură complicate ale caselor tradiționale aflate la etajul al doilea.",
+            "en": "Dive deep into northern Thai architecture and regional folklore here, making sure to check out the intricate miniature models of traditional houses on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Sao Nak",
+            "hu": "Baan Sao Nak",
+            "ro": "Baan Sao Nak",
+            "en": "Baan Sao Nak"
+          },
+          "coords": [
+            99.508035,
+            18.294137
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses unglaubliche Teakhaus mit 116 Säulen, das traditionelles Lanna-Leben zeigt, und fragen Sie nach der Geschichte der lokalen Königsfamilie.",
+            "hu": "Sétáljon végig ezen a hagyományos Lanna életmódot bemutató, 116 oszlopos tíkfa kúrián, és kérdezze a vezetőket a helyi királyi család lenyűgöző történetéről.",
+            "ro": "Plimbați-vă prin acest conac incredibil din lemn de tec cu 116 stâlpi, care prezintă viața tradițională Lanna, și întrebați ghizii despre istoria familiei regale.",
+            "en": "Walk through this incredible 116-pillar teak wood mansion that showcases traditional Lanna living, and ask the guides about the fascinating history of the local royal family."
+          }
+        },
+        {
+          "name": {
+            "de": "Dhanabadee Ceramic Museum",
+            "hu": "Dhanabadee Kerámia Múzeum",
+            "ro": "Muzeul de Ceramică Dhanabadee",
+            "en": "Dhanabadee Ceramic Museum"
+          },
+          "coords": [
+            99.51282,
+            18.280356
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Sehen Sie zu, wie die berühmte Hühnerschüssel in dieser historischen Fabrik hergestellt wird, und vergessen Sie nicht, ein authentisches Souvenir zu kaufen.",
+            "hu": "Nézze meg, hogyan készül a híres csirkés tál ebben a történelmi kerámiagyárban, és ne felejtsen el vásárolni egy igazán autentikus szuvenírt a tágas ajándékboltban.",
+            "ro": "Urmăriți cum se face faimosul bol cu pui în această fabrică istorică de ceramică și nu uitați să cumpărați un suvenir cu adevărat autentic din magazinul lor de cadouri.",
+            "en": "Watch the famous chicken bowl being made right before your eyes at this historic ceramic factory, and don't forget to buy a truly authentic souvenir from their gift shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour im Thai Bank Museum für einen ruhigen, aufschlussreichen Morgen. Fahren Sie dann zum Wat Pong Sanuk, um das beeindruckende Lanna-Design zu bewundern.\n\nNach einer Mittagspause fahren Sie zum Lanna Museum. Die kurze Fahrt macht es leicht, in die reiche Folklore und die ausgeprägte Architektur des Nordens einzutauchen.\n\nEine kurze Fahrt bringt Sie nach Baan Sao Nak, wo Sie die beeindruckende traditionelle Teakholzkonstruktion mit unglaublichen 116 Stützpfeilern in aller Ruhe bestaunen können.\n\nBeenden Sie Ihren Tag mit einer Fahrt zum Dhanabadee Ceramic Museum. Zu beobachten, wie die legendären Hühnerschüsseln hergestellt werden, ist das perfekte Finale.",
+        "hu": "Kezdje autós túráját a Thai Bank Múzeumban egy csendes, informatív reggelen. Ezután vezessen át a Wat Pong Sanuk templomhoz, hogy megcsodálja lenyűgöző, ősi Lanna dizájnját.\n\nEgy kényelmes ebédszünet után irány a Lanna Múzeum. A rövid autóút megkönnyíti, hogy teljesen elmerüljön a gazdag északi folklórban és a régió különleges, hagyományos építészetében.\n\nEgy rövid autózás elviszi a Baan Sao Nakhoz, ahol megcsodálhatja a lenyűgöző hagyományos tíkfa szerkezetet, amely hihetetlen, 116 tartóoszloppal rendelkezik a ház alatt.\n\nZárja a napot egy kellemes autózással a Dhanabadee Kerámia Múzeumba. A legendás csirkés tálak készítésének megfigyelése tökéletes fináléja a lampangi autós utazásnak.",
+        "ro": "Începeți turul cu mașina la Muzeul Băncii Thailandeze pentru o dimineață liniștită. Apoi, conduceți către Wat Pong Sanuk pentru a admira designul său antic și impresionant Lanna.\n\nDupă o pauză de prânz confortabilă, mergeți la Muzeul Lanna. Scurtul drum vă ajută să vă scufundați rapid în folclorul bogat și arhitectura distinctă a nordului țării.\n\nO scurtă călătorie vă aduce la Baan Sao Nak, unde vă puteți minuna de impresionanta construcție tradițională din lemn de tec, cu nu mai puțin de 116 stâlpi de susținere incredibili.\n\nÎncheiați ziua cu un drum până la Muzeul de Ceramică Dhanabadee. Vizionarea creării legendarelor boluri cu pui este finalul perfect pentru călătoria dumneavoastră în Lampang.",
+        "en": "Kick off your driving tour at the Thai Bank Museum for a quiet, insightful morning. Then, drive smoothly over to Wat Pong Sanuk to admire its impressive ancient Lanna design.\n\nAfter enjoying a comfortable lunch break, head to the Lanna Museum. The short drive makes it easy to immerse yourself in the rich folklore and distinct architecture of the North.\n\nA brief drive brings you to Baan Sao Nak, where you can marvel at the impressive traditional teakwood construction featuring an incredible 116 supporting pillars.\n\nConclude your day with a drive out to the Dhanabadee Ceramic Museum. Watching the legendary chicken bowls being crafted is the perfect finale to your Lampang road trip."
+      }
+    }
+  }
+}

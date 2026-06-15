@@ -1,0 +1,405 @@
+{
+  "city_id": "bayeux",
+  "anchor": {
+    "name": "Bayeux",
+    "coords": [
+      -0.7039,
+      49.2786
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien palais épiscopal, aktuell Rathaus",
+            "hu": "Egykori püspöki palota, ma Városháza",
+            "ro": "Fostul palat episcopal, în prezent primărie",
+            "en": "Former Episcopal Palace, currently City Hall"
+          },
+          "coords": [
+            -0.702573,
+            49.276227
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stattliche Architektur des ehemaligen Bischofspalastes, der heute als Rathaus dient, und achten Sie im Innenhof auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg a ma városházaként működő egykori püspöki palota fenséges építészetét, és mindenképpen nézzen be az udvarra a szezonális helyi események miatt.",
+            "ro": "Admirați arhitectura impunătoare a fostului palat episcopal, care acum servește drept primărie, și asigurați-vă că vizitați curtea pentru evenimente locale.",
+            "en": "Admire the stately architecture of the former bishop's palace, now serving as the town hall, and be sure to check the courtyard for seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame Katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            -0.703681,
+            49.275587
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubenden normannisch-romanischen und gotischen Details dieser prächtigen Kathedrale und besuchen Sie die Krypta mit ihren Fresken.",
+            "hu": "Csodálja meg a lenyűgöző normann-román és gótikus részleteket ebben a nagyszerű katedrálisban, és mindenképpen látogassa meg a kriptát a gyönyörű freskókért.",
+            "ro": "Minunați-vă de detaliile normando-romanice și gotice ale acestei catedrale grandioase, asigurându-vă că vizitați cripta pentru a vedea frescele conservate.",
+            "en": "Marvel at the stunning Norman-Romanesque and Gothic details of this grand cathedral, making sure to visit the crypt to see its beautifully preserved frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Wandteppichs von Bayeux",
+            "hu": "Bayeux-i Faliszőnyeg Múzeuma",
+            "ro": "Muzeul Tapiseriei din Bayeux",
+            "en": "Musée de la Tapisserie de Bayeux"
+          },
+          "coords": [
+            -0.699938,
+            49.274413
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die epische Geschichte der normannischen Eroberung in diesem UNESCO-Meisterwerk und nutzen Sie den Audioguide, um jedes Detail zu erfassen.",
+            "hu": "Élje át a normann hódítás epikus történetét, amelyet ebbe az UNESCO által jegyzett mesterműbe szőttek, és használja az audioguide-ot a történelmi részletekért.",
+            "ro": "Experimentați povestea epică a cuceririi normande țesută în această capodoperă UNESCO și utilizați ghidul audio inclus pentru a prinde fiecare detaliu.",
+            "en": "Experience the epic tale of the Norman Conquest woven into this UNESCO-listed masterpiece, and use the included audio guide to catch every historical detail."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkmuseum der Schlacht um die Normandie",
+            "hu": "Normandiai Csata Emlékmúzeuma",
+            "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+            "en": "Musée mémorial de la Bataille de Normandie"
+          },
+          "coords": [
+            -0.711416,
+            49.273443
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Gewinnen Sie tiefe Einblicke in die entscheidenden D-Day-Operationen durch umfangreiche Ausstellungen und planen Sie Zeit für die schweren Militärgeräte ein.",
+            "hu": "Szerezzen mélyebb betekintést az 1944-es partraszállási hadműveletekbe a kiterjedt kiállításokon, és szánjon plusz időt a kinti nehéz katonai felszerelésekre.",
+            "ro": "Obțineți perspective profunde asupra operațiunilor de Ziua Z din 1944 prin expoziții extinse și alocați timp suplimentar pentru a vedea echipamentele grele.",
+            "en": "Gain profound insights into the pivotal 1944 D-Day operations through extensive exhibits, and allocate extra time to view the heavy military equipment outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandteppich von Bayeux (Historische Stätte)",
+            "hu": "Bayeux-i Faliszőnyeg (Történelmi Helyszín)",
+            "ro": "Tapiseria din Bayeux (Situl istoric)",
+            "en": "Bayeux Tapestry"
+          },
+          "coords": [
+            -0.701944,
+            49.277778
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses weltberühmte mittelalterliche Artefakt, um die feine Handwerkskunst aus der Nähe zu betrachten, am besten am ruhigeren späten Nachmittag.",
+            "hu": "Látogassa meg újra ezt a világhírű középkori műtárgyat a lenyűgöző kézművesség megcsodálásához, és célozza meg a késő délutánt, amikor már kevesebben vannak.",
+            "ro": "Revizitați acest artefact medieval de renume mondial pentru a explora măiestria de aproape, vizând după-amiaza târziu când grupurile de turiști se răresc.",
+            "en": "Revisit this world-famous medieval artifact to explore the nuanced craftsmanship up close, aiming for a late afternoon visit when the tour groups have thinned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Bischofspalast, gefolgt von der majestätischen Kathedrale Notre-Dame. Der Mittag ist dem berühmten Wandteppich gewidmet, der mittelalterliche Geschichte enthüllt. Am Nachmittag erkunden wir das Denkmal der Schlacht um die Normandie. Der Abend endet mit einem Spaziergang.",
+        "hu": "A reggel a történelmi püspöki palotánál kezdődik, melyet a fenséges Notre-Dame katedrális követ. A délidő a híres faliszőnyegé, amely feltárja a középkori történelmet. Délután a normandiai csata mélyreható emlékművét fedezzük fel. Az este egy utolsó elismerő sétával zárul a múzeum területén.",
+        "ro": "Dimineața începe la palatul episcopal istoric, urmată de maiestuoasa Catedrală Notre-Dame. Amiaza este dedicată faimoasei tapiserii, dezvăluind istoria medievală. După-amiaza explorează profundul Memorial al Bătăliei pentru Normandia. Seara se încheie cu o plimbare de apreciere pe lângă muzeu.",
+        "en": "Morning begins at the historic bishop's palace, followed by the majestic Notre-Dame Cathedral. Midday is dedicated to the famous tapestry, unraveling medieval history. Afternoon explores the profound Normandy Battle Memorial. Evening concludes with a final appreciative stroll near the tapestry museum grounds."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Priorat Saint-Vigor",
+            "hu": "Saint-Vigor Apátság",
+            "ro": "Prioratul Saint-Vigor",
+            "en": "Prieuré Saint-Vigor"
+          },
+          "coords": [
+            -0.688825,
+            49.279795
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieses historischen Priorats, das von Odo von Bayeux gegründet wurde, und schätzen Sie das alte Mauerwerk in Stille.",
+            "hu": "Fedezze fel az Odo bayeux-i püspök által alapított történelmi apátság nyugodt atmoszféráját, ahol csendben értékelheti az ősi falazatot és a békés parkot.",
+            "ro": "Descoperiți atmosfera liniștită a acestei mănăstiri istorice fondate de Odo de Bayeux, unde puteți aprecia în liniște zidăria antică și terenurile senine.",
+            "en": "Discover the tranquil atmosphere of this historic priory founded by Odo of Bayeux, where you can quietly appreciate the ancient stonework and serene grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandteppich von Bayeux",
+            "hu": "Bayeux-i Faliszőnyeg",
+            "ro": "Tapiseria din Bayeux",
+            "en": "Bayeux Tapestry"
+          },
+          "coords": [
+            -0.701944,
+            49.277778
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses weltberühmte mittelalterliche Artefakt, um die feine Handwerkskunst aus der Nähe zu betrachten, am besten am ruhigeren späten Nachmittag.",
+            "hu": "Látogassa meg újra ezt a világhírű középkori műtárgyat a lenyűgöző kézművesség megcsodálásához, és célozza meg a késő délutánt, amikor már kevesebben vannak.",
+            "ro": "Revizitați acest artefact medieval de renume mondial pentru a explora măiestria de aproape, vizând după-amiaza târziu când grupurile de turiști se răresc.",
+            "en": "Revisit this world-famous medieval artifact to explore the nuanced craftsmanship up close, aiming for a late afternoon visit when the tour groups have thinned."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame Katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            -0.703681,
+            49.275587
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubenden normannisch-romanischen und gotischen Details dieser prächtigen Kathedrale und besuchen Sie die Krypta mit ihren Fresken.",
+            "hu": "Csodálja meg a lenyűgöző normann-román és gótikus részleteket ebben a nagyszerű katedrálisban, és mindenképpen látogassa meg a kriptát a gyönyörű freskókért.",
+            "ro": "Minunați-vă de detaliile normando-romanice și gotice ale acestei catedrale grandioase, asigurându-vă că vizitați cripta pentru a vedea frescele conservate.",
+            "en": "Marvel at the stunning Norman-Romanesque and Gothic details of this grand cathedral, making sure to visit the crypt to see its beautifully preserved frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkmuseum der Schlacht um die Normandie",
+            "hu": "Normandiai Csata Emlékmúzeuma",
+            "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+            "en": "Musée mémorial de la Bataille de Normandie"
+          },
+          "coords": [
+            -0.711416,
+            49.273443
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gewinnen Sie tiefe Einblicke in die entscheidenden D-Day-Operationen durch umfangreiche Ausstellungen und planen Sie Zeit für die schweren Militärgeräte ein.",
+            "hu": "Szerezzen mélyebb betekintést az 1944-es partraszállási hadműveletekbe a kiterjedt kiállításokon, és szánjon plusz időt a kinti nehéz katonai felszerelésekre.",
+            "ro": "Obțineți perspective profunde asupra operațiunilor de Ziua Z din 1944 prin expoziții extinse și alocați timp suplimentar pentru a vedea echipamentele grele.",
+            "en": "Gain profound insights into the pivotal 1944 D-Day operations through extensive exhibits, and allocate extra time to view the heavy military equipment outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Louny Parc",
+            "hu": "Louny Park",
+            "ro": "Louny Parc",
+            "en": "Louny Parc"
+          },
+          "coords": [
+            -0.678448,
+            49.265433
+          ],
+          "category": "family",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem einladenden Vergnügungspark mit spielerischen Attraktionen entspannen und bringen Sie Snacks für eine erholsame Pause mit.",
+            "hu": "Hagyja, hogy a család kikapcsolódjon ebben a játékos attrakciókkal teli, barátságos vidámparkban, és mindenképp vigyen magával rágcsálnivalót a pihenéshez.",
+            "ro": "Lăsați familia să se relaxeze în acest parc de distracții primitor plin de atracții jucăușe, asigurându-vă că aduceți gustări pentru o pauză de după-amiază.",
+            "en": "Let the family unwind in this welcoming amusement park filled with playful attractions, making sure to bring some snacks and water for a relaxing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden Fahrt zum alten Priorat Saint-Vigor. Am Mittag erreichen Sie das Stadtzentrum, um den berühmten Wandteppich und die große Kathedrale zu sehen. Der Nachmittag ist für das WWII Memorial Museum reserviert. Der Abend klingt mit familiärem Spaß im Louny Parc aus.",
+        "hu": "Kezdje egy frissítő kerékpározással az ősi Saint-Vigor apátsághoz. A délidő a város szívébe vezet, hogy megtekintse az ikonikus faliszőnyeget és a nagy katedrálist. A délután a II. világháborús emlékmúzeumé a történelmi elmélkedéshez. Az este családi szórakozással zárul a Louny Parkban.",
+        "ro": "Începeți cu o plimbare revigorantă către vechiul Priorat Saint-Vigor. Amiaza vă aduce în inima orașului pentru a vedea iconica Tapiserie din Bayeux și grandioasa Catedrală. După-amiaza trece la Muzeul Memorial al Doilea Război Mondial. Seara se relaxează cu distracție în familie la Louny Parc.",
+        "en": "Start with a refreshing ride to the ancient Prieuré Saint-Vigor. Midday brings you into the city heart to view the iconic Bayeux Tapestry and the grand Cathedral. Afternoon shifts gears to the WWII Memorial Museum for historical reflection. Evening winds down with family fun at Louny Parc."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 5.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss de la Ferrière",
+            "hu": "Château de la Ferrière",
+            "ro": "Château de la Ferrière",
+            "en": "Château de la Ferrière"
+          },
+          "coords": [
+            -0.699327,
+            49.304323
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit der Erkundung des Geländes dieses malerischen ländlichen Schlosses außerhalb des Zentrums und fotografieren Sie die elegante Fassade.",
+            "hu": "Kezdje a napot ennek a városközponton kívüli, festői vidéki kastélynak a felfedezésével, és szánjon egy pillanatot elegáns klasszikus homlokzatának fotózására.",
+            "ro": "Începeți-vă ziua explorând terenurile acestui castel rural pitoresc în afara centrului orașului, luând un moment pentru a fotografia fațada sa elegantă.",
+            "en": "Start your day exploring the grounds of this picturesque rural chateau outside the city center, taking a moment to photograph its elegant classical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat Saint-Vigor",
+            "hu": "Saint-Vigor Apátság",
+            "ro": "Prioratul Saint-Vigor",
+            "en": "Prieuré Saint-Vigor"
+          },
+          "coords": [
+            -0.688825,
+            49.279795
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieses historischen Priorats, das von Odo von Bayeux gegründet wurde, und schätzen Sie das alte Mauerwerk in Stille.",
+            "hu": "Fedezze fel az Odo bayeux-i püspök által alapított történelmi apátság nyugodt atmoszféráját, ahol csendben értékelheti az ősi falazatot és a békés parkot.",
+            "ro": "Descoperiți atmosfera liniștită a acestei mănăstiri istorice fondate de Odo de Bayeux, unde puteți aprecia în liniște zidăria antică și terenurile senine.",
+            "en": "Discover the tranquil atmosphere of this historic priory founded by Odo of Bayeux, where you can quietly appreciate the ancient stonework and serene grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliger Bischofspalast",
+            "hu": "Egykori Püspöki Palota",
+            "ro": "Fostul palat episcopal",
+            "en": "Ancien palais épiscopal"
+          },
+          "coords": [
+            -0.702573,
+            49.276227
+          ],
+          "category": "castle",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stattliche Architektur des ehemaligen Bischofspalastes, der heute als Rathaus dient, und achten Sie im Innenhof auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg a ma városházaként működő egykori püspöki palota fenséges építészetét, és mindenképpen nézzen be az udvarra a szezonális helyi események miatt.",
+            "ro": "Admirați arhitectura impunătoare a fostului palat episcopal, care acum servește drept primărie, și asigurați-vă că vizitați curtea pentru evenimente locale.",
+            "en": "Admire the stately architecture of the former bishop's palace, now serving as the town hall, and be sure to check the courtyard for seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame Katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            -0.703681,
+            49.275587
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubenden normannisch-romanischen und gotischen Details dieser prächtigen Kathedrale und besuchen Sie die Krypta mit ihren Fresken.",
+            "hu": "Csodálja meg a lenyűgöző normann-román és gótikus részleteket ebben a nagyszerű katedrálisban, és mindenképpen látogassa meg a kriptát a gyönyörű freskókért.",
+            "ro": "Minunați-vă de detaliile normando-romanice și gotice ale acestei catedrale grandioase, asigurându-vă că vizitați cripta pentru a vedea frescele conservate.",
+            "en": "Marvel at the stunning Norman-Romanesque and Gothic details of this grand cathedral, making sure to visit the crypt to see its beautifully preserved frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss de Crémel",
+            "hu": "Château de Crémel",
+            "ro": "Château de Crémel",
+            "en": "Château de Crémel"
+          },
+          "coords": [
+            -0.694772,
+            49.265211
+          ],
+          "category": "castle",
+          "arrive_at": "13:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an diesem bezaubernden historischen Schloss, wo die gut erhaltene Architektur und das umliegende Grün einen friedlichen Rückzugsort bieten.",
+            "hu": "Fejezze be autós túráját ennél a bájos történelmi kastélynál, ahol a jól megőrzött építészet és a környező növényzet békés menedéket nyújt a város zajától.",
+            "ro": "Încheiați turul cu mașina la acest fermecător castel istoric, unde arhitectura bine conservată și verdeața din jur oferă o retragere liniștită din oraș.",
+            "en": "Conclude your driving tour at this charming historic castle, where the well-preserved architecture and surrounding greenery offer a peaceful retreat from the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt stilvoll am malerischen Château de la Ferrière, bevor Sie das historische Priorat besuchen. Mittags geht es ins Stadtzentrum zum ehemaligen Bischofspalast und der hoch aufragenden Kathedrale. Nachmittags fahren Sie nach Süden zum bezaubernden Château de Crémel.",
+        "hu": "Az autózás kecsesen indul a festői Château de la Ferrière-nél, majd meglátogatja a történelmi apátságot. A délidő a városközpontba vezet a püspöki palotához és a magasodó katedrálishoz. Délután délre hajtunk a bájos Château de Crémel felfedezésére. Az este festői kilátással zárul a vidéken.",
+        "ro": "Plimbarea începe cu grație la pitorescul Château de la Ferrière înainte de a vizita istorica Mănăstire. Amiaza face tranziția către centrul orașului pentru fostul palat episcopal și Catedrala impunătoare. După-amiaza se conduce spre sud pentru a descoperi fermecătorul Château de Crémel.",
+        "en": "Your drive starts gracefully at the picturesque Château de la Ferrière before visiting the historic Priory. Midday transitions to the city core for the former bishop's palace and the towering Cathedral. Afternoon drives south to discover the charming Château de Crémel. Evening concludes with scenic views."
+      }
+    }
+  }
+}

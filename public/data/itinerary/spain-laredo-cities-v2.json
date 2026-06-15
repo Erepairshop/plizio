@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-laredo-cities-v2",
+  "anchor": {
+    "name": "Laredo",
+    "coords": [
+      -3.41613,
+      43.4098
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Laredo",
+            "hu": "Ayuntamiento de Laredo",
+            "ro": "Ayuntamiento de Laredo",
+            "en": "Ayuntamiento de Laredo"
+          },
+          "coords": [
+            -3.414344,
+            43.409851
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses belebten Rathauses im alten Viertel und prüfen Sie das schwarze Brett auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg a nyüzsgő városháza történelmi építészetét az óvárosban, és nézze meg a hirdetőtáblán a helyi eseményeket, mielőtt sétálna.",
+            "ro": "Admirați arhitectura istorică a acestei primării pline de viață din cartierul vechi și verificați panoul de anunțuri pentru evenimente locale.",
+            "en": "Admire the historic architecture of this bustling city hall in the old quarter, and check the notice board for local events before walking the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Palacio de la Familia De la Mar",
+            "hu": "Casa Palacio de la Familia De la Mar",
+            "ro": "Casa Palacio de la Familia De la Mar",
+            "en": "Casa Palacio de la Familia De la Mar"
+          },
+          "coords": [
+            -3.412253,
+            43.410991
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht dieses Familienpalastes mit kantabrischer Architektur und bringen Sie ein Weitwinkelobjektiv für die beeindruckende Fassade mit.",
+            "hu": "Fedezze fel ennek a nemesi családi palotának a pompáját, amely a kantábriai építészetet mutatja be, és hozzon magával nagylátószögű objektívet.",
+            "ro": "Descoperiți măreția acestui palat nobil care prezintă arhitectura cantabrică și aduceți un obiectiv cu unghi larg pentru a surprinde fațada de piatră.",
+            "en": "Discover the grandeur of this noble family palace showcasing Cantabrian architecture, and bring a wide-angle lens to capture the impressive stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Condestable de Castilla",
+            "hu": "Casa del Condestable de Castilla",
+            "ro": "Casa del Condestable de Castilla",
+            "en": "Casa del Condestable de Castilla"
+          },
+          "coords": [
+            -3.411559,
+            43.412881
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markanten Details dieser Residenz, die mit dem kastilischen Königshaus verbunden ist, am besten im sanften Vormittagslicht fotografiert.",
+            "hu": "Figyelje meg a kasztíliai királysághoz kötődő történelmi rezidencia feltűnő részleteit, amelyet a lágy délelőtti napfényben a legjobb fotózni.",
+            "ro": "Observați detaliile izbitoare ale acestei reședințe istorice legate de regalitatea castiliană, cel mai bine fotografiată în lumina moale a dimineții.",
+            "en": "Observe the striking details of this important historical residence linked to Castilian royalty, best photographed in the soft mid-morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa Catalina",
+            "hu": "Iglesia de Santa Catalina",
+            "ro": "Iglesia de Santa Catalina",
+            "en": "Iglesia de Santa Catalina"
+          },
+          "coords": [
+            -3.408835,
+            43.412824
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um die ruhige Atmosphäre zu erleben, aber denken Sie daran, aus Respekt die Stimme leise zu halten.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megtapasztalja annak nyugodt légkörét, de tiszteletből ne felejtse el lehalkítani a hangját.",
+            "ro": "Pășiți în această biserică frumoasă pentru a experimenta atmosfera sa senină și altarul complex, dar amintiți-vă să păstrați o voce joasă.",
+            "en": "Step inside this beautiful church to experience its serene atmosphere and intricate altarpiece, but remember to keep your voice low out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Último desembarco de Carlos V",
+            "hu": "Último desembarco de Carlos V",
+            "ro": "Último desembarco de Carlos V",
+            "en": "Último desembarco de Carlos V"
+          },
+          "coords": [
+            -3.40966,
+            43.411077
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie in immersiven Ausstellungen mehr über die letzte Reise von Kaiser Karl V. und planen Sie mindestens eine Stunde für die historischen Tafeln ein.",
+            "hu": "Ismerje meg V. Károly császár utolsó utazását a magával ragadó kiállításokon keresztül, és szánjon legalább egy órát a lenyűgöző plakettek elolvasására.",
+            "ro": "Aflați despre ultima călătorie a împăratului Carol al V-lea prin expoziții captivante și alocați cel puțin o oră pentru a citi plăcile istorice.",
+            "en": "Learn about the final journey of Emperor Charles V through immersive exhibits, and allocate at least an hour to fully read the fascinating historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte El Rastrillar",
+            "hu": "Fuerte El Rastrillar",
+            "ro": "Fuerte El Rastrillar",
+            "en": "Fuerte El Rastrillar"
+          },
+          "coords": [
+            -3.413614,
+            43.416093
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Küstenfestung mit spektakulärem Blick auf die Bucht und tragen Sie feste Schuhe, um die unebenen Wege sicher zu begehen.",
+            "hu": "Fedezze fel ennek a tengerparti erődnek a romjait, ahonnan látványos kilátás nyílik az öbölre, és viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați ruinele acestui fort de coastă cu vedere spectaculoasă la golf și purtați pantofi rezistenți pentru a naviga în siguranță pe potecile inegale.",
+            "en": "Explore the ruins of this coastal fort offering spectacular views of the bay, and wear sturdy walking shoes to safely navigate the uneven grassy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "La Atalaya",
+            "hu": "La Atalaya",
+            "ro": "La Atalaya",
+            "en": "La Atalaya"
+          },
+          "coords": [
+            -3.412214,
+            43.417586
+          ],
+          "category": "natural",
+          "arrive_at": "16:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Naturhügel für einen Panoramablick auf die gesamte Küste und bringen Sie Wasser mit, da der Aufstieg steil sein kann.",
+            "hu": "Mássza meg ezt a kiemelkedő természeti dombot, ahonnan panorámás kilátás nyílik az egész partvonalra, és hozzon magával vizet, mert a feljutás meredek.",
+            "ro": "Urcați pe acest deal natural proeminent pentru o panoramă completă asupra întregii coaste și aduceți o sticlă de apă, deoarece urcușul poate fi abrupt.",
+            "en": "Climb this prominent natural hill for panoramic sweeping vistas of the entire coastline, and bring a bottle of water as the ascent can be quite steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im historischen Zentrum und bewundern das großartige Rathaus und die Adelspaläste von Laredo. Wenn es wärmer wird, erkunden wir das religiöse Erbe, bevor wir in die Geschichte von Kaiser Karl V. eintauchen. Wir lassen die Stadt hinter uns und wandern hinauf zu den Küstenbefestigungen. Der Tag endet auf dem malerischen Gipfel von La Atalaya mit toller Aussicht.",
+        "hu": "Gyalogos túránkat a történelmi központban kezdjük, megcsodálva Laredo nagyszerű városházáját és nemesi palotáit. Ahogy a nap melegszik, felfedezzük Santa Catalina vallási örökségét, mielőtt elmerülnénk V. Károly császár történetében. Magunk mögött hagyva a várost, felmászunk a tengerparti erődítmények felé. A nap a festői La Atalaya csúcsán ér véget csodás naplementével.",
+        "ro": "Începem turul nostru pe jos în centrul istoric, admirând marea primărie și palatele nobile din Laredo. Pe măsură ce ziua se încălzește, explorăm moștenirea religioasă înainte de a ne scufunda în istoria regală. Lăsând orașul în urmă, urcăm spre fortificațiile de coastă pentru a descoperi fascinantele ruine. Ziua se încheie la pitorescul vârf La Atalaya cu o panoramă de neuitat.",
+        "en": "We start our walking tour in the historic center, admiring the grand Ayuntamiento and noble palaces of Laredo. As the day warms up, we explore the religious heritage at Santa Catalina before diving into the history of Emperor Charles V. Leaving the town behind, we hike up toward the coastal fortifications. The day ends at the scenic summit of La Atalaya, offering an unforgettable sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Último desembarco de Carlos V",
+            "hu": "Último desembarco de Carlos V",
+            "ro": "Último desembarco de Carlos V",
+            "en": "Último desembarco de Carlos V"
+          },
+          "coords": [
+            -3.40966,
+            43.411077
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in immersiven Ausstellungen mehr über die letzte Reise von Kaiser Karl V. und planen Sie mindestens eine Stunde für die historischen Tafeln ein.",
+            "hu": "Ismerje meg V. Károly császár utolsó utazását a magával ragadó kiállításokon keresztül, és szánjon legalább egy órát a lenyűgöző plakettek elolvasására.",
+            "ro": "Aflați despre ultima călătorie a împăratului Carol al V-lea prin expoziții captivante și alocați cel puțin o oră pentru a citi plăcile istorice.",
+            "en": "Learn about the final journey of Emperor Charles V through immersive exhibits, and allocate at least an hour to fully read the fascinating historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Condestable de Castilla",
+            "hu": "Casa del Condestable de Castilla",
+            "ro": "Casa del Condestable de Castilla",
+            "en": "Casa del Condestable de Castilla"
+          },
+          "coords": [
+            -3.411559,
+            43.412881
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markanten Details dieser Residenz, die mit dem kastilischen Königshaus verbunden ist, am besten im sanften Vormittagslicht fotografiert.",
+            "hu": "Figyelje meg a kasztíliai királysághoz kötődő történelmi rezidencia feltűnő részleteit, amelyet a lágy délelőtti napfényben a legjobb fotózni.",
+            "ro": "Observați detaliile izbitoare ale acestei reședințe istorice legate de regalitatea castiliană, cel mai bine fotografiată în lumina moale a dimineții.",
+            "en": "Observe the striking details of this important historical residence linked to Castilian royalty, best photographed in the soft mid-morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa Catalina",
+            "hu": "Iglesia de Santa Catalina",
+            "ro": "Iglesia de Santa Catalina",
+            "en": "Iglesia de Santa Catalina"
+          },
+          "coords": [
+            -3.408835,
+            43.412824
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um die ruhige Atmosphäre zu erleben, aber denken Sie daran, aus Respekt die Stimme leise zu halten.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megtapasztalja annak nyugodt légkörét, de tiszteletből ne felejtse el lehalkítani a hangját.",
+            "ro": "Pășiți în această biserică frumoasă pentru a experimenta atmosfera sa senină și altarul complex, dar amintiți-vă să păstrați o voce joasă.",
+            "en": "Step inside this beautiful church to experience its serene atmosphere and intricate altarpiece, but remember to keep your voice low out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de El",
+            "hu": "Mirador de El",
+            "ro": "Mirador de El",
+            "en": "Mirador de El"
+          },
+          "coords": [
+            -3.411643,
+            43.416309
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem friedlichen Aussichtspunkt an, um die Klippen zu bewundern, und verwenden Sie ein Fernglas, um einheimische Seevögel zu beobachten.",
+            "hu": "Tartson szünetet ezen a békés kilátóponton, hogy megcsodálja a tengerrel találkozó drámai sziklákat, és használjon távcsövet a tengeri madarakhoz.",
+            "ro": "Faceți o pauză la acest punct de belvedere liniștit pentru a admira stâncile dramatice și folosiți binoclul dacă doriți să observați păsări marine locale.",
+            "en": "Pause at this peaceful lookout point to admire the dramatic cliffs meeting the sea, and use binoculars if you want to spot local seabirds flying by."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería de cañones",
+            "hu": "Batería de cañones",
+            "ro": "Batería de cañones",
+            "en": "Batería de cañones"
+          },
+          "coords": [
+            -3.413718,
+            43.417343
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diese gut erhaltenen Militärkanonen, die einst den Hafen bewachten, und besuchen Sie sie zur goldenen Stunde für stimmungsvolle Fotos.",
+            "hu": "Vizsgálja meg ezeket a jól karbantartott katonai ágyúkat, amelyek egykor a kikötőt őrizték, és látogasson el az aranyórában a hangulatos fotókért.",
+            "ro": "Inspectați aceste tunuri militare bine conservate care odinioară păzeau portul și încercați să vizitați la ora de aur pentru fotografii atmosferice.",
+            "en": "Inspect these well-preserved military cannons that once guarded the harbor, and try to visit at golden hour for atmospheric photos against the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "La Atalaya",
+            "hu": "La Atalaya",
+            "ro": "La Atalaya",
+            "en": "La Atalaya"
+          },
+          "coords": [
+            -3.412214,
+            43.417586
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Naturhügel für einen Panoramablick auf die gesamte Küste und bringen Sie Wasser mit, da der Aufstieg steil sein kann.",
+            "hu": "Mássza meg ezt a kiemelkedő természeti dombot, ahonnan panorámás kilátás nyílik az egész partvonalra, és hozzon magával vizet, mert a feljutás meredek.",
+            "ro": "Urcați pe acest deal natural proeminent pentru o panoramă completă asupra întregii coaste și aduceți o sticlă de apă, deoarece urcușul poate fi abrupt.",
+            "en": "Climb this prominent natural hill for panoramic sweeping vistas of the entire coastline, and bring a bottle of water as the ascent can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Salvé",
+            "hu": "Playa de la Salvé",
+            "ro": "Playa de la Salvé",
+            "en": "Playa de la Salvé"
+          },
+          "coords": [
+            -3.434142,
+            43.41809
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im goldenen Sand dieses riesigen Strandes, der sich über Kilometer erstreckt, und packen Sie Snacks für ein perfektes Picknick ein.",
+            "hu": "Pihenjen ennek a hatalmas, kilométereken át nyúló strandnak a hatalmas aranyhomokján, és csomagoljon be egy kis rágcsálnivalót a délutáni piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje masive care se întinde pe kilometri și împachetați câteva gustări pentru un picnic perfect de după-amiază.",
+            "en": "Relax on the expansive golden sands of this massive beach that stretches for kilometers, and pack some snacks for a perfect afternoon picnic by the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Radabenteuer beginnt damit, dass wir im Museum in die königliche Geschichte eintauchen, gefolgt von historischen Wahrzeichen. Wir fahren auf Küstenpfaden zu den Aussichtspunkten und genießen das dramatische Zusammentreffen von Klippen und Meereswellen. Die Route führt uns zu den historischen Kanonen, bevor wir nach La Atalaya hinaufradeln. Wir beenden den Ausflug mit einer Fahrt zum Playa de la Salvé im Sonnenuntergang.",
+        "hu": "Kerékpáros kalandunk a királyi történelemben való elmerüléssel kezdődik a múzeumban, majd gyors megálló a közeli nevezetességeknél. A tengerparti ösvényeken haladunk a kilátók felé, gyönyörködve a sziklák és az óceáni hullámok drámai találkozásában. Az útvonal a történelmi ágyúkhoz visz, majd feltekerünk a La Atalaya-hoz. Az utazást a Playa de la Salvé-hoz tett szellős utazással fejezzük be.",
+        "ro": "Aventura noastră cu bicicleta începe prin scufundarea în istoria regală la muzeu, urmată de o oprire rapidă la reperele din apropiere. Călărim de-a lungul potecilor de coastă spre punctele de belvedere, admirând întâlnirea dramatică a stâncilor și a valurilor. Traseul ne duce la tunurile istorice înainte de a pedala până la La Atalaya. Încheiem călătoria cu o plimbare spre Playa de la Salvé.",
+        "en": "Our cycling adventure begins by immersing ourselves in royal history at the museum, followed by a quick stop at the nearby landmarks. We ride along the coastal paths towards the viewpoints, taking in the dramatic meeting of steep cliffs and ocean waves. The route takes us to the historic cannons before pedaling up to La Atalaya. We finish the trip with a breezy ride to Playa de la Salvé to unwind."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador del Alto de Laredo",
+            "hu": "Mirador del Alto de Laredo",
+            "ro": "Mirador del Alto de Laredo",
+            "en": "Mirador del Alto de Laredo"
+          },
+          "coords": [
+            -3.411924,
+            43.408221
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem atemberaubenden Blick auf die Stadt, aber denken Sie daran, dass der Wind überraschend kühl sein kann, bringen Sie eine Jacke mit.",
+            "hu": "Kezdje a napot a városra nyíló lélegzetelállító kilátással, de ne feledje, hogy a szél itt meglepően hűvös lehet, ezért hozzon magával könnyű kabátot.",
+            "ro": "Începeți ziua cu vederi uluitoare de sus asupra orașului de jos, dar rețineți că vântul poate fi surprinzător de rece aici, așa că aduceți o jachetă.",
+            "en": "Start your day with breathtaking elevated views of the town below, but remember that the wind can be surprisingly chilly here so bring a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Laredo",
+            "hu": "Ayuntamiento de Laredo",
+            "ro": "Ayuntamiento de Laredo",
+            "en": "Ayuntamiento de Laredo"
+          },
+          "coords": [
+            -3.414344,
+            43.409851
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses belebten Rathauses im alten Viertel und prüfen Sie das schwarze Brett auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg a nyüzsgő városháza történelmi építészetét az óvárosban, és nézze meg a hirdetőtáblán a helyi eseményeket, mielőtt sétálna.",
+            "ro": "Admirați arhitectura istorică a acestei primării pline de viață din cartierul vechi și verificați panoul de anunțuri pentru evenimente locale.",
+            "en": "Admire the historic architecture of this bustling city hall in the old quarter, and check the notice board for local events before walking the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Palacio de la Familia De la Mar",
+            "hu": "Casa Palacio de la Familia De la Mar",
+            "ro": "Casa Palacio de la Familia De la Mar",
+            "en": "Casa Palacio de la Familia De la Mar"
+          },
+          "coords": [
+            -3.412253,
+            43.410991
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht dieses Familienpalastes mit kantabrischer Architektur und bringen Sie ein Weitwinkelobjektiv für die beeindruckende Fassade mit.",
+            "hu": "Fedezze fel ennek a nemesi családi palotának a pompáját, amely a kantábriai építészetet mutatja be, és hozzon magával nagylátószögű objektívet.",
+            "ro": "Descoperiți măreția acestui palat nobil care prezintă arhitectura cantabrică și aduceți un obiectiv cu unghi larg pentru a surprinde fațada de piatră.",
+            "en": "Discover the grandeur of this noble family palace showcasing Cantabrian architecture, and bring a wide-angle lens to capture the impressive stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte El Rastrillar",
+            "hu": "Fuerte El Rastrillar",
+            "ro": "Fuerte El Rastrillar",
+            "en": "Fuerte El Rastrillar"
+          },
+          "coords": [
+            -3.413614,
+            43.416093
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Küstenfestung mit spektakulärem Blick auf die Bucht und tragen Sie feste Schuhe, um die unebenen Wege sicher zu begehen.",
+            "hu": "Fedezze fel ennek a tengerparti erődnek a romjait, ahonnan látványos kilátás nyílik az öbölre, és viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați ruinele acestui fort de coastă cu vedere spectaculoasă la golf și purtați pantofi rezistenți pentru a naviga în siguranță pe potecile inegale.",
+            "en": "Explore the ruins of this coastal fort offering spectacular views of the bay, and wear sturdy walking shoes to safely navigate the uneven grassy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería de cañones",
+            "hu": "Batería de cañones",
+            "ro": "Batería de cañones",
+            "en": "Batería de cañones"
+          },
+          "coords": [
+            -3.413718,
+            43.417343
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diese gut erhaltenen Militärkanonen, die einst den Hafen bewachten, und besuchen Sie sie zur goldenen Stunde für stimmungsvolle Fotos.",
+            "hu": "Vizsgálja meg ezeket a jól karbantartott katonai ágyúkat, amelyek egykor a kikötőt őrizték, és látogasson el az aranyórában a hangulatos fotókért.",
+            "ro": "Inspectați aceste tunuri militare bine conservate care odinioară păzeau portul și încercați să vizitați la ora de aur pentru fotografii atmosferice.",
+            "en": "Inspect these well-preserved military cannons that once guarded the harbor, and try to visit at golden hour for atmospheric photos against the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Aira",
+            "hu": "Playa de Aira",
+            "ro": "Playa de Aira",
+            "en": "Playa de Aira"
+          },
+          "coords": [
+            -3.400853,
+            43.41566
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigeren Strand, der für seinen rauen Charme bekannt ist, und behalten Sie den Gezeitenplan für einen sicheren Spaziergang im Auge.",
+            "hu": "Kapcsolódjon ki ezen a kisebb, csendesebb strandon, amely nyugalmáról ismert, és figyelje az árapály menetrendjét a biztonságos tengerparti séta érdekében.",
+            "ro": "Relaxați-vă la această plajă mai mică, mai liniștită, cunoscută pentru farmecul său robust și fiți cu ochii pe programul mareei pentru o plimbare sigură.",
+            "en": "Unwind at this smaller, quieter beach known for its rugged charm and clean waters, and keep an eye on the tide schedule to ensure a safe coastal walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Fahrt mit einem spektakulären Blick aus der Vogelperspektive, bevor wir in die historische Innenstadt hinabfahren. Wir parken zentral und erkunden den pulsierenden Rathausplatz und die Architektur der Paläste. Eine kurze Fahrt bringt uns zu den Küstenhöhen, wo wir durch die Ruinen der alten militärischen Batterien wandern. Der Tag endet mit einer Fahrt zum ruhigen Playa de Aira.",
+        "hu": "Autós túránkat látványos légi kilátással kezdjük az Alto de Laredo-ból, majd leereszkedünk a történelmi belvárosba. Központilag parkolva felfedezzük a nyüzsgő városháza teret és a lenyűgöző palotákat. Egy rövid autóút a tengerparti magaslatokra visz minket, ahol a katonai ütegek romjai között sétálunk. A nap egy festői utazással zárul a Playa de Aira békés partjainál.",
+        "ro": "Începem turul cu mașina cu vederi aeriene spectaculoase de la Alto de Laredo înainte de a coborî în zona istorică a orașului. Parcând central, explorăm piața vibrantă a primăriei și arhitectura impunătoare a palatelor. O scurtă călătorie cu mașina ne aduce pe înălțimile coastei, unde ne plimbăm printre ruinele forturilor. Ziua se încheie cu o croazieră pitorească spre Playa de Aira.",
+        "en": "We kick off our driving tour with spectacular aerial views from the Alto de Laredo before descending into the historic downtown area. Parking centrally, we explore the vibrant city hall square and the stately architecture of the palaces. A short drive brings us to the coastal heights, where we wander among the ruins of old military batteries. The day concludes with a scenic cruise over to Playa de Aira."
+      }
+    }
+  }
+}

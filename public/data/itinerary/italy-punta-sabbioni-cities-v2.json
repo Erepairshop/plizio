@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-punta-sabbioni-cities-v2",
+  "anchor": {
+    "name": "Punta Sabbioni",
+    "coords": [
+      12.4276,
+      45.44774
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 4.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre telemetrica Lio Grando",
+            "hu": "Torre telemetrica Lio Grando",
+            "ro": "Torre telemetrica Lio Grando",
+            "en": "Torre telemetrica Lio Grando"
+          },
+          "coords": [
+            12.431574,
+            45.451936
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Telemetrieturm, der einst das Artilleriefeuer leitete und Einblicke in die Küstenverteidigung bietet; kommen Sie sehr früh, um die grelle Mittagssonne zu meiden.",
+            "hu": "Csodálja meg ezt a történelmi telemetriai tornyot, amely egykor a tüzérségi tüzet irányította; érdemes kora reggel érkezni, hogy elkerülje a tűző napot és a legjobb fotókat készíthesse a kikötőről.",
+            "ro": "Admirați acest turn istoric de telemetrie care ghida cândva focul artileriei, oferind o perspectivă asupra apărării de coastă; vizitați dimineața devreme pentru a evita soarele de prânz.",
+            "en": "Climb or admire this historic telemetry tower that once guided artillery fire, offering insight into WW1 coastal defense; visit early to avoid the midday sun and get the best harbor photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Batteria Treporti",
+            "hu": "Forte Batteria Treporti",
+            "ro": "Forte Batteria Treporti",
+            "en": "Forte Batteria Treporti"
+          },
+          "coords": [
+            12.43808,
+            45.45538
+          ],
+          "category": "castle",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene österreichische Festung, die den Eingang der Lagune bewachte; tragen Sie bequeme Wanderschuhe für die unebenen und rustikalen historischen Pfade der Anlage.",
+            "hu": "Fedezze fel ezt a jól megőrzött osztrák erődöt, amely a lagúna bejáratát védte; viseljen kényelmes sétacipőt, mivel a történelmi ösvények és a macskaköves felületek meglehetősen egyenetlenek.",
+            "ro": "Explorați această fortăreață austriacă bine conservată care păzea intrarea în lagună, oferind o incursiune în istoria militară; purtați încălțăminte confortabilă pentru aleile sale inegale.",
+            "en": "Explore this well-preserved Austrian fortress that guarded the lagoon's entrance, providing a deep dive into 19th-century military architecture; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Comune di Cavallino-Treporti",
+            "hu": "Comune di Cavallino-Treporti",
+            "ro": "Comune di Cavallino-Treporti",
+            "en": "Comune di Cavallino-Treporti"
+          },
+          "coords": [
+            12.453822,
+            45.453673
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie das administrative Herz der Halbinsel, das das lokale Erbe repräsentiert; schauen Sie an einem Wochentagmorgen vorbei, um das geschäftige Treiben und Gedenktafeln zu sehen.",
+            "hu": "Tekintse meg a félsziget adminisztratív központját, amely a helyi örökséget képviseli; érdemes egy hétköznap délelőtt idelátogatni, hogy megfigyelje a helyiek mindennapi nyüzsgését.",
+            "ro": "Vedeți inima administrativă a peninsulei, reprezentând moștenirea și viața comunitară; treceți pe aici într-o dimineață de zi lucrătoare pentru a surprinde atmosfera locală autentică.",
+            "en": "View the administrative heart of the peninsula, representing the local heritage and community life; stop by on a weekday morning to see the bustling local activity and historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di San Francesco d'Assisi",
+            "hu": "chiesa di San Francesco d'Assisi",
+            "ro": "chiesa di San Francesco d'Assisi",
+            "en": "chiesa di San Francesco d'Assisi"
+          },
+          "coords": [
+            12.454413,
+            45.45237
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche religiöse Heiligtum, das dem Heiligen Franziskus gewidmet ist; denken Sie daran, sich respektvoll mit bedeckten Schultern zu kleiden, wenn Sie eintreten.",
+            "hu": "Fedezze fel ezt a Szent Ferencnek szentelt békés vallási szentélyt, amely szerény, de elegáns építészettel büszkélkedhet; ne felejtsen el tisztelettudóan, fedett vállakkal belépni.",
+            "ro": "Descoperiți acest sanctuar religios pașnic dedicat Sfântului Francisc, cu o arhitectură modestă; amintiți-vă să purtați o ținută decentă, cu umerii acoperiți, la intrarea în lăcaș.",
+            "en": "Discover this peaceful religious sanctuary dedicated to St. Francis, featuring modest but elegant architecture; remember to dress respectfully with covered shoulders when entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Leo Fun",
+            "hu": "Leo Fun",
+            "ro": "Leo Fun",
+            "en": "Leo Fun"
+          },
+          "coords": [
+            12.439957,
+            45.438404
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie Unterhaltung an diesem lebhaften Erholungsort, der ideal für Familien ist; besuchen Sie ihn am späten Nachmittag, wenn die Atmosphäre ihren Höhepunkt erreicht und es kühler ist.",
+            "hu": "Élvezze a szórakozást ezen a nyüzsgő, családok számára is tökéletes kikapcsolódási helyszínen; látogasson el ide a késő délutáni órákban, amikor a hangulat a tetőfokára hág.",
+            "ro": "Bucurați-vă de divertisment în acest loc de recreere plin de viață, perfect pentru familii; vizitați după-amiaza târziu când atmosfera este maximă și vremea este mult mai răcoroasă.",
+            "en": "Enjoy a burst of entertainment at this lively recreational spot perfect for families and energetic travelers; visit in the late afternoon when the atmosphere peaks and the weather is cooler."
+          }
+        },
+        {
+          "name": {
+            "de": "AquaMarina Park",
+            "hu": "AquaMarina Park",
+            "ro": "AquaMarina Park",
+            "en": "AquaMarina Park"
+          },
+          "coords": [
+            12.44214,
+            45.435955
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser oder nutzen Sie die Einrichtungen in diesem beliebten Park; bringen Sie Ihr eigenes Handtuch und Sonnencreme mit, da die Mieten in der Hochsaison recht teuer sein können.",
+            "hu": "Pihenjen a vízparton vagy élvezze a létesítményeket ebben a népszerű parkban; hozzon magával saját törölközőt és naptejet, mivel a főszezonban a bérlés meglehetősen drága lehet.",
+            "ro": "Relaxați-vă lângă apă sau bucurați-vă de facilitățile acvatice din acest parc popular; aduceți-vă propriul prosop și cremă de protecție solară, deoarece închirierile pot fi destul de scumpe.",
+            "en": "Relax by the water or enjoy the aquatic facilities at this popular park that embodies the region's resort culture; bring your own towel and sunscreen as rentals can be expensive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Telemetrieturm, bevor es in entspanntem Tempo zur massiven Festung geht.\n\nDie Mittagszeit führt Sie durch das kommunale Herz von Cavallino-Treporti und das friedliche Sanktuarium von San Francesco.\n\nDer Nachmittag ist der aktiven Erholung im lebhaften Leo Fun gewidmet.\n\nDer Abend endet mit einem entspannten Rückzug im weitläufigen AquaMarina Park.",
+        "hu": "A reggel a történelmi telemetriai toronynál kezdődik, majd a lenyűgöző osztrák erődhöz sétálunk tovább.\n\nA délben Cavallino-Treporti közigazgatási központjában és a békés San Francesco templomban találjuk magunkat.\n\nA délutánt a Leo Fun nyüzsgő, aktív szórakozásának szenteljük.\n\nAz este a tágas AquaMarina Park kényelmes és nyugodt tengerparti környezetében zárul.",
+        "ro": "Dimineața începe la turnul istoric de telemetrie, înainte de a vă plimba spre impresionanta fortăreață austriacă.\n\nPrânzul vă aduce prin inima municipală din Cavallino-Treporti și sanctuarul liniștit San Francesco.\n\nDupă-amiaza este dedicată exclusiv recreerii active și distracției la Leo Fun.\n\nSeara se încheie cu o retragere relaxantă în vastul și popularul parc acvatic AquaMarina.",
+        "en": "Morning begins at the historic telemetry tower before strolling to the grand Austrian fortress.\n\nMidday brings you through the municipal heart of Cavallino-Treporti and its peaceful neighboring sanctuary.\n\nThe afternoon is dedicated to active recreation and amusement at Leo Fun.\n\nEvening concludes with a relaxing retreat at the expansive AquaMarina Park under the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.42,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Erasmo",
+            "hu": "Chiesa di Sant'Erasmo",
+            "ro": "Chiesa di Sant'Erasmo",
+            "en": "Chiesa di Sant'Erasmo"
+          },
+          "coords": [
+            12.410381,
+            45.459043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie das Wasser zu dieser charmanten Inselkirche, die einen Einblick in das Lagunenleben bietet; prüfen Sie vorab die Vaporetto-Fahrpläne für eine reibungslose Rückkehr.",
+            "hu": "Keljen át a vízen ehhez a bájos szigeti templomhoz, amely bepillantást enged az igazi lagúnaéletbe; előzetesen ellenőrizze a Vaporetto menetrendjét a sima visszatérés érdekében.",
+            "ro": "Traversați apa către această biserică fermecătoare pe insulă, care oferă o privire asupra vieții din lagună; verificați în avans orarul vaporetto-ului pentru o întoarcere ușoară.",
+            "en": "Cross the water to this charming island church that offers a glimpse into authentic lagoon life away from the crowds; check the Vaporetto schedules to ensure a smooth return trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre telemetrica Lio Grando",
+            "hu": "Torre telemetrica Lio Grando",
+            "ro": "Torre telemetrica Lio Grando",
+            "en": "Torre telemetrica Lio Grando"
+          },
+          "coords": [
+            12.431574,
+            45.451936
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Telemetrieturm, der einst das Artilleriefeuer leitete und Einblicke in die Küstenverteidigung bietet; kommen Sie sehr früh, um die grelle Mittagssonne zu meiden.",
+            "hu": "Csodálja meg ezt a történelmi telemetriai tornyot, amely egykor a tüzérségi tüzet irányította; érdemes kora reggel érkezni, hogy elkerülje a tűző napot és a legjobb fotókat készíthesse a kikötőről.",
+            "ro": "Admirați acest turn istoric de telemetrie care ghida cândva focul artileriei, oferind o perspectivă asupra apărării de coastă; vizitați dimineața devreme pentru a evita soarele de prânz.",
+            "en": "Climb or admire this historic telemetry tower that once guided artillery fire, offering insight into WW1 coastal defense; visit early to avoid the midday sun and get the best harbor photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Batteria Treporti",
+            "hu": "Forte Batteria Treporti",
+            "ro": "Forte Batteria Treporti",
+            "en": "Forte Batteria Treporti"
+          },
+          "coords": [
+            12.43808,
+            45.45538
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene österreichische Festung, die den Eingang der Lagune bewachte; tragen Sie bequeme Wanderschuhe für die unebenen und rustikalen historischen Pfade der Anlage.",
+            "hu": "Fedezze fel ezt a jól megőrzött osztrák erődöt, amely a lagúna bejáratát védte; viseljen kényelmes sétacipőt, mivel a történelmi ösvények és a macskaköves felületek meglehetősen egyenetlenek.",
+            "ro": "Explorați această fortăreață austriacă bine conservată care păzea intrarea în lagună, oferind o incursiune în istoria militară; purtați încălțăminte confortabilă pentru aleile sale inegale.",
+            "en": "Explore this well-preserved Austrian fortress that guarded the lagoon's entrance, providing a deep dive into 19th-century military architecture; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Comune di Cavallino-Treporti",
+            "hu": "Comune di Cavallino-Treporti",
+            "ro": "Comune di Cavallino-Treporti",
+            "en": "Comune di Cavallino-Treporti"
+          },
+          "coords": [
+            12.453822,
+            45.453673
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie das administrative Herz der Halbinsel, das das lokale Erbe repräsentiert; schauen Sie an einem Wochentagmorgen vorbei, um das geschäftige Treiben und Gedenktafeln zu sehen.",
+            "hu": "Tekintse meg a félsziget adminisztratív központját, amely a helyi örökséget képviseli; érdemes egy hétköznap délelőtt idelátogatni, hogy megfigyelje a helyiek mindennapi nyüzsgését.",
+            "ro": "Vedeți inima administrativă a peninsulei, reprezentând moștenirea și viața comunitară; treceți pe aici într-o dimineață de zi lucrătoare pentru a surprinde atmosfera locală autentică.",
+            "en": "View the administrative heart of the peninsula, representing the local heritage and community life; stop by on a weekday morning to see the bustling local activity and historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di San Francesco d'Assisi",
+            "hu": "chiesa di San Francesco d'Assisi",
+            "ro": "chiesa di San Francesco d'Assisi",
+            "en": "chiesa di San Francesco d'Assisi"
+          },
+          "coords": [
+            12.454413,
+            45.45237
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche religiöse Heiligtum, das dem Heiligen Franziskus gewidmet ist; denken Sie daran, sich respektvoll mit bedeckten Schultern zu kleiden, wenn Sie eintreten.",
+            "hu": "Fedezze fel ezt a Szent Ferencnek szentelt békés vallási szentélyt, amely szerény, de elegáns építészettel büszkélkedhet; ne felejtsen el tisztelettudóan, fedett vállakkal belépni.",
+            "ro": "Descoperiți acest sanctuar religios pașnic dedicat Sfântului Francisc, cu o arhitectură modestă; amintiți-vă să purtați o ținută decentă, cu umerii acoperiți, la intrarea în lăcaș.",
+            "en": "Discover this peaceful religious sanctuary dedicated to St. Francis, featuring modest but elegant architecture; remember to dress respectfully with covered shoulders when entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Leo Fun",
+            "hu": "Leo Fun",
+            "ro": "Leo Fun",
+            "en": "Leo Fun"
+          },
+          "coords": [
+            12.439957,
+            45.438404
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie Unterhaltung an diesem lebhaften Erholungsort, der ideal für Familien ist; besuchen Sie ihn am späten Nachmittag, wenn die Atmosphäre ihren Höhepunkt erreicht und es kühler ist.",
+            "hu": "Élvezze a szórakozást ezen a nyüzsgő, családok számára is tökéletes kikapcsolódási helyszínen; látogasson el ide a késő délutáni órákban, amikor a hangulat a tetőfokára hág.",
+            "ro": "Bucurați-vă de divertisment în acest loc de recreere plin de viață, perfect pentru familii; vizitați după-amiaza târziu când atmosfera este maximă și vremea este mult mai răcoroasă.",
+            "en": "Enjoy a burst of entertainment at this lively recreational spot perfect for families and energetic travelers; visit in the late afternoon when the atmosphere peaks and the weather is cooler."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Venezia",
+            "hu": "Marina di Venezia",
+            "ro": "Marina di Venezia",
+            "en": "Marina di Venezia"
+          },
+          "coords": [
+            12.444295,
+            45.43417
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Küstenkomplex mit Zugang zum Strand; bleiben Sie bis zur Abenddämmerung, um atemberaubende Sonnenuntergänge über der Lagune zu genießen.",
+            "hu": "Pihenjen ezen a hatalmas, kiváló strandhozzáférést biztosító partmenti komplexumon; érdemes egészen sötétedésig maradni, hogy megcsodálhassa a lenyűgöző naplementét.",
+            "ro": "Relaxați-vă în acest complex de coastă extins care oferă acces la plaje imaculate; rămâneți până la lăsarea serii pentru a surprinde apusuri uimitoare peste strălucitoarea lagună.",
+            "en": "Unwind at this expansive coastal complex offering pristine beach access and holiday amenities; stay until dusk to capture stunning sunset views stretching across the glittering Venetian lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zur Inselkirche von Sant'Erasmo, bevor Sie die faszinierenden militärischen Wahrzeichen erkunden.\n\nDer Mittag bietet eine Pause im historischen Zentrum und dem nahegelegenen San Francesco-Heiligtum.\n\nDer Nachmittag bringt einen Gangwechsel zu lebhaften Freizeitparks in Strandnähe.\n\nSchließlich lässt der Abend an der wunderschönen Küste der Marina di Venezia entspannt nach.",
+        "hu": "Kerékpározzon el korán a Sant'Erasmo szigeti templomhoz, majd fedezze fel a szárazföld katonai emlékműveit.\n\nA délidő békés pihenést kínál a történelmi központban és a San Francesco szentélynél.\n\nA délután a nyüzsgő tengerparti szabadidőparkok felé veszi az irányt tele élménnyel.\n\nVégül az este a gyönyörű Marina di Venezia finom homokos partján csendesedik el.",
+        "ro": "Pedalați devreme către biserica insulară Sant'Erasmo înainte de a explora repere militare de pe continent.\n\nPrânzul oferă o pauză liniștită în centrul administrativ și la sanctuarul San Francesco.\n\nDupă-amiaza schimbă viteza spre parcuri de recreere pline de viață de lângă plajă.\n\nÎn cele din urmă, seara se așterne relaxant la frumoasa coastă din Marina di Venezia.",
+        "en": "Pedal early to the remote island church of Sant'Erasmo before exploring mainland military landmarks.\n\nMidday offers a peaceful cultural break at the community center and San Francesco sanctuary.\n\nThe afternoon shifts gear towards lively recreational parks right along the sandy coast.\n\nFinally, the evening settles down with a breathtaking view at the beautiful Marina di Venezia."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 4.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte Batteria Treporti",
+            "hu": "Forte Batteria Treporti",
+            "ro": "Forte Batteria Treporti",
+            "en": "Forte Batteria Treporti"
+          },
+          "coords": [
+            12.43808,
+            45.45538
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene österreichische Festung, die den Eingang der Lagune bewachte; tragen Sie bequeme Wanderschuhe für die unebenen und rustikalen historischen Pfade der Anlage.",
+            "hu": "Fedezze fel ezt a jól megőrzött osztrák erődöt, amely a lagúna bejáratát védte; viseljen kényelmes sétacipőt, mivel a történelmi ösvények és a macskaköves felületek meglehetősen egyenetlenek.",
+            "ro": "Explorați această fortăreață austriacă bine conservată care păzea intrarea în lagună, oferind o incursiune în istoria militară; purtați încălțăminte confortabilă pentru aleile sale inegale.",
+            "en": "Explore this well-preserved Austrian fortress that guarded the lagoon's entrance, providing a deep dive into 19th-century military architecture; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre telemetrica Lio Grando",
+            "hu": "Torre telemetrica Lio Grando",
+            "ro": "Torre telemetrica Lio Grando",
+            "en": "Torre telemetrica Lio Grando"
+          },
+          "coords": [
+            12.431574,
+            45.451936
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Telemetrieturm, der einst das Artilleriefeuer leitete und Einblicke in die Küstenverteidigung bietet; kommen Sie sehr früh, um die grelle Mittagssonne zu meiden.",
+            "hu": "Csodálja meg ezt a történelmi telemetriai tornyot, amely egykor a tüzérségi tüzet irányította; érdemes kora reggel érkezni, hogy elkerülje a tűző napot és a legjobb fotókat készíthesse a kikötőről.",
+            "ro": "Admirați acest turn istoric de telemetrie care ghida cândva focul artileriei, oferind o perspectivă asupra apărării de coastă; vizitați dimineața devreme pentru a evita soarele de prânz.",
+            "en": "Climb or admire this historic telemetry tower that once guided artillery fire, offering insight into WW1 coastal defense; visit early to avoid the midday sun and get the best harbor photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Comune di Cavallino-Treporti",
+            "hu": "Comune di Cavallino-Treporti",
+            "ro": "Comune di Cavallino-Treporti",
+            "en": "Comune di Cavallino-Treporti"
+          },
+          "coords": [
+            12.453822,
+            45.453673
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie das administrative Herz der Halbinsel, das das lokale Erbe repräsentiert; schauen Sie an einem Wochentagmorgen vorbei, um das geschäftige Treiben und Gedenktafeln zu sehen.",
+            "hu": "Tekintse meg a félsziget adminisztratív központját, amely a helyi örökséget képviseli; érdemes egy hétköznap délelőtt idelátogatni, hogy megfigyelje a helyiek mindennapi nyüzsgését.",
+            "ro": "Vedeți inima administrativă a peninsulei, reprezentând moștenirea și viața comunitară; treceți pe aici într-o dimineață de zi lucrătoare pentru a surprinde atmosfera locală autentică.",
+            "en": "View the administrative heart of the peninsula, representing the local heritage and community life; stop by on a weekday morning to see the bustling local activity and historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di San Francesco d'Assisi",
+            "hu": "chiesa di San Francesco d'Assisi",
+            "ro": "chiesa di San Francesco d'Assisi",
+            "en": "chiesa di San Francesco d'Assisi"
+          },
+          "coords": [
+            12.454413,
+            45.45237
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche religiöse Heiligtum, das dem Heiligen Franziskus gewidmet ist; denken Sie daran, sich respektvoll mit bedeckten Schultern zu kleiden, wenn Sie eintreten.",
+            "hu": "Fedezze fel ezt a Szent Ferencnek szentelt békés vallási szentélyt, amely szerény, de elegáns építészettel büszkélkedhet; ne felejtsen el tisztelettudóan, fedett vállakkal belépni.",
+            "ro": "Descoperiți acest sanctuar religios pașnic dedicat Sfântului Francisc, cu o arhitectură modestă; amintiți-vă să purtați o ținută decentă, cu umerii acoperiți, la intrarea în lăcaș.",
+            "en": "Discover this peaceful religious sanctuary dedicated to St. Francis, featuring modest but elegant architecture; remember to dress respectfully with covered shoulders when entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "AquaMarina Park",
+            "hu": "AquaMarina Park",
+            "ro": "AquaMarina Park",
+            "en": "AquaMarina Park"
+          },
+          "coords": [
+            12.44214,
+            45.435955
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser oder nutzen Sie die Einrichtungen in diesem beliebten Park; bringen Sie Ihr eigenes Handtuch und Sonnencreme mit, da die Mieten in der Hochsaison recht teuer sein können.",
+            "hu": "Pihenjen a vízparton vagy élvezze a létesítményeket ebben a népszerű parkban; hozzon magával saját törölközőt és naptejet, mivel a főszezonban a bérlés meglehetősen drága lehet.",
+            "ro": "Relaxați-vă lângă apă sau bucurați-vă de facilitățile acvatice din acest parc popular; aduceți-vă propriul prosop și cremă de protecție solară, deoarece închirierile pot fi destul de scumpe.",
+            "en": "Relax by the water or enjoy the aquatic facilities at this popular park that embodies the region's resort culture; bring your own towel and sunscreen as rentals can be expensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina di Venezia",
+            "hu": "Marina di Venezia",
+            "ro": "Marina di Venezia",
+            "en": "Marina di Venezia"
+          },
+          "coords": [
+            12.444295,
+            45.43417
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Küstenkomplex mit Zugang zum Strand; bleiben Sie bis zur Abenddämmerung, um atemberaubende Sonnenuntergänge über der Lagune zu genießen.",
+            "hu": "Pihenjen ezen a hatalmas, kiváló strandhozzáférést biztosító partmenti komplexumon; érdemes egészen sötétedésig maradni, hogy megcsodálhassa a lenyűgöző naplementét.",
+            "ro": "Relaxați-vă în acest complex de coastă extins care oferă acces la plaje imaculate; rămâneți până la lăsarea serii pentru a surprinde apusuri uimitoare peste strălucitoarea lagună.",
+            "en": "Unwind at this expansive coastal complex offering pristine beach access and holiday amenities; stay until dusk to capture stunning sunset views stretching across the glittering Venetian lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zur beeindruckenden Forte Batteria Treporti, gefolgt vom imposanten historischen Telemetrieturm.\n\nAm Mittag erkunden Sie das Gemeindezentrum und die lokale Architektur der nahegelegenen Kirche.\n\nVerbringen Sie den Nachmittag in den lebhaften Wassersportanlagen des großen AquaMarina Parks.\n\nBeenden Sie Ihre bequeme Autotour mit einem unvergesslichen Sonnenuntergang am Yachthafen.",
+        "hu": "Vezessen kora reggel az impozáns Forte Batteria Treporti-hoz, majd tekintse meg a közeli megfigyelőtornyot.\n\nDélben a helyi közösségi központot és az ahhoz tartozó szép plébániát fedezzük fel autóval.\n\nA nap második felében a nyüzsgő vízi létesítményeket és a parkokat élvezheti a tengerparton.\n\nA túrát a csodás Marina di Venezia kiterjedt strandjának lenyűgöző naplementéjével zárja.",
+        "ro": "Conduceți devreme către impunătoarea Forte Batteria Treporti, urmată rapid de turnul de telemetrie.\n\nLa prânz explorați confortabil centrul comunitar și arhitectura clasică a parohiei locale.\n\nPetreceți a doua jumătate a zilei bucurându-vă de facilitățile acvatice vibrante din regiune.\n\nÎncheiați acest tur auto perfect cu un apus uimitor de la celebrul port de agrement venețian.",
+        "en": "Drive to the imposing Forte Batteria Treporti early on, followed by the historic telemetric tower.\n\nMidday explores the community administrative center and its quaint local parish architecture.\n\nSpend the second half of the day easily hopping between vibrant aquatic facilities and pools.\n\nConclude your driving tour with a stunning, relaxing sunset at the beautiful Marina di Venezia."
+      }
+    }
+  }
+}

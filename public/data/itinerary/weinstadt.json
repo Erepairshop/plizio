@@ -1,0 +1,451 @@
+{
+  "city_id": "weinstadt",
+  "anchor": {
+    "name": "Weinstadt",
+    "coords": [
+      9.3656,
+      48.8111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Heimatmuseum Pflaster 14",
+            "hu": "Heimatmuseum Pflaster 14",
+            "ro": "Heimatmuseum Pflaster 14",
+            "en": "Heimatmuseum Pflaster 14"
+          },
+          "coords": [
+            9.364426,
+            48.811061
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige Weinstädter Geschichte in diesem charmanten Fachwerkhaus, wo Sie Ihren Besuch bei den traditionellen Weinbaugeräten beginnen sollten.",
+            "hu": "Fedezze fel Weinstadt helyi történelmét ebben a bájos szakállas házban, ahol a hagyományos szőlészeti eszközök megtekintésével érdemes kezdeni a látogatást.",
+            "ro": "Descoperiți istoria locală a orașului Weinstadt în această fermecătoare casă cu structură din lemn, începând cu vizionarea instrumentelor tradiționale de viticultură.",
+            "en": "Discover Weinstadt's vivid local history inside this charming half-timbered house, where you should start your visit by examining the traditional viticulture tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Beutelsbach",
+            "hu": "Stiftskirche Beutelsbach",
+            "ro": "Stiftskirche Beutelsbach",
+            "en": "Stiftskirche Beutelsbach"
+          },
+          "coords": [
+            9.387077,
+            48.805763
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Stiftskirche und achten Sie besonders auf die gut erhaltenen mittelalterlichen Gräber am Altar.",
+            "hu": "Csodálja meg a történelmi káptalani templom gótikus építészetét, különös figyelmet fordítva az oltár közelében lévő, szépen megőrzött középkori sírokra.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice, acordând o atenție deosebită mormintelor medievale frumos conservate de lângă altar.",
+            "en": "Admire the striking gothic architecture of this historic collegiate church, paying special attention to the beautifully preserved medieval tombs near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Württemberg-Haus Beutelsbach",
+            "hu": "Württemberg-Haus Beutelsbach",
+            "ro": "Württemberg-Haus Beutelsbach",
+            "en": "Württemberg-Haus Beutelsbach"
+          },
+          "coords": [
+            9.388531,
+            48.805391
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum tief in das Erbe Württembergs ein und verpassen Sie keinesfalls die faszinierende Ausstellung zum Bauernkrieg im Obergeschoss.",
+            "hu": "Merüljön el Württemberg gazdag regionális örökségében ebben a múzeumban, és mindenképpen tekintse meg a lenyűgöző parasztháborús kiállítást az emeleten.",
+            "ro": "Pătrundeți în bogata moștenire regională a Württembergului la acest muzeu și nu ratați fascinanta expoziție despre războiul țărănesc de la etajul superior.",
+            "en": "Dive deep into the rich regional heritage of Württemberg at this museum, and be sure to check out the fascinating peasant war exhibition on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Kappelberg",
+            "hu": "Ruine Kappelberg",
+            "ro": "Ruine Kappelberg",
+            "en": "Ruine Kappelberg"
+          },
+          "coords": [
+            9.395649,
+            48.806176
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Höhenburg und bringen Sie gutes Schuhwerk mit, um auf dem unebenen Boden die Aussicht sicher zu genießen.",
+            "hu": "Fedezze fel ezen ősi hegyi erődítmény hangulatos romjait, és hozzon kényelmes cipőt az egyenetlen talajhoz, miközben élvezi a völgyre nyíló kilátást.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei vechi fortărețe pe deal, aducând încălțăminte bună pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore the atmospheric ruins of this ancient hilltop fortress, bringing good walking shoes to safely navigate the uneven ground while enjoying the valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Großheppach",
+            "hu": "Schloss Großheppach",
+            "ro": "Schloss Großheppach",
+            "en": "Schloss Großheppach"
+          },
+          "coords": [
+            9.390479,
+            48.817719
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissance-Eleganz dieses majestätischen Schlosses, das als historisches Hauptquartier diente, und spazieren Sie durch den gepflegten Innenhof.",
+            "hu": "Csodálja meg e fenséges kastély reneszánsz eleganciáját, amely egykor történelmi főhadiszállásként szolgált, és szánjon időt a gondozott udvar felfedezésére.",
+            "ro": "Admirați eleganța renascentistă a acestui castel maiestuos, fost sediu istoric, făcându-vă timp pentru a vă plimba prin curtea sa perfect îngrijită.",
+            "en": "Marvel at the renaissance elegance of this majestic castle, which served as a historical headquarters, taking time to stroll through its perfectly manicured courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Endersbach und erkunden Sie das lokale Erbe im Heimatmuseum, bevor Sie die morgendliche Atmosphäre des Dorfes genießen. Der Mittag führt Sie nach Beutelsbach, wo die Architektur der Stiftskirche und das Württemberg-Haus tiefe historische Einblicke bieten. Am Nachmittag wandern Sie zur stimmungsvollen Ruine Kappelberg, um die Natur und die mittelalterlichen Überreste zu bewundern. Beenden Sie Ihren Tag mit einem malerischen Spaziergang in Richtung Großheppach, wo das elegante Schloss den perfekten Abschluss Ihrer historischen Reise bildet.",
+        "hu": "Kezdje gyalogtúráját Endersbach szívében, fedezze fel a helyi örökséget a Heimatmuseumban, mielőtt magába szívná a falu reggeli hangulatát. A déli séta Beutelsbach felé viszi, ahol a Stiftskirche lenyűgöző építészete és a Württemberg-Haus mély történelmi betekintést nyújt. Délután túrázzon fel a hangulatos Ruine Kappelberghez, élvezve a természetes környezetet és a középkori maradványokat. Zárja a napot egy festői sétával Großheppach felé, ahol az elegáns kastély méltó befejezést nyújt történelmi utazásának ezen a gyönyörű vidéken.",
+        "ro": "Începeți turul de mers pe jos în inima Endersbach, explorând patrimoniul local la Heimatmuseum înainte de a vă bucura de atmosfera matinală. Tranziția de la prânz vă poartă spre Beutelsbach, unde arhitectura bisericii Stiftskirche și Württemberg-Haus oferă o perspectivă istorică profundă. După-amiaza, urcați spre evocatoarea Ruine Kappelberg, bucurându-vă de împrejurimile naturale și de rămășițele medievale. Încheiați ziua cu o plimbare pitorească spre Großheppach, unde elegantul castel oferă un final grandios călătoriei dumneavoastră istorice prin Weinstadt.",
+        "en": "Begin your walking tour in the heart of Endersbach, exploring the rich local heritage at the Heimatmuseum before soaking in the morning atmosphere of the village. The midday transition takes you towards Beutelsbach, where the stunning architecture of the Stiftskirche and the nearby Württemberg-Haus offer deep historical insights. In the afternoon, hike up to the evocative Ruine Kappelberg, enjoying the natural surroundings and the remnants of medieval times. Conclude your day with a scenic stroll towards Großheppach, where the elegant Schloss Großheppach provides a grand finale to your historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinzeitmuseum",
+            "hu": "Steinzeitmuseum",
+            "ro": "Steinzeitmuseum",
+            "en": "Steinzeitmuseum"
+          },
+          "coords": [
+            9.374519,
+            48.828683
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorischen Geheimnisse des Remstals anhand seltener Funde und beginnen Sie Ihre Reise mit der beeindruckenden Sammlung an Steinzeitartefakten.",
+            "hu": "Tárja fel a Rems-völgy történelem előtti titkait ritka régészeti leleteken keresztül, és kezdje útját a lenyűgöző kőkorszaki műtárgyak gyűjteményével.",
+            "ro": "Descoperiți misterele preistorice ale văii Rems prin descoperiri arheologice rare, începând călătoria cu impresionanta colecție de artefacte din epoca de piatră.",
+            "en": "Uncover the prehistoric mysteries of the Rems Valley through rare archaeological finds, starting your journey with the impressive collection of stone age artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Großheppach",
+            "hu": "Schloss Großheppach",
+            "ro": "Schloss Großheppach",
+            "en": "Schloss Großheppach"
+          },
+          "coords": [
+            9.390479,
+            48.817719
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissance-Eleganz dieses majestätischen Schlosses, das als historisches Hauptquartier diente, und spazieren Sie durch den gepflegten Innenhof.",
+            "hu": "Csodálja meg e fenséges kastély reneszánsz eleganciáját, amely egykor történelmi főhadiszállásként szolgált, és szánjon időt a gondozott udvar felfedezésére.",
+            "ro": "Admirați eleganța renascentistă a acestui castel maiestuos, fost sediu istoric, făcându-vă timp pentru a vă plimba prin curtea sa perfect îngrijită.",
+            "en": "Marvel at the renaissance elegance of this majestic castle, which served as a historical headquarters, taking time to stroll through its perfectly manicured courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Beutelsbach",
+            "hu": "Stiftskirche Beutelsbach",
+            "ro": "Stiftskirche Beutelsbach",
+            "en": "Stiftskirche Beutelsbach"
+          },
+          "coords": [
+            9.387077,
+            48.805763
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Stiftskirche und achten Sie besonders auf die gut erhaltenen mittelalterlichen Gräber am Altar.",
+            "hu": "Csodálja meg a történelmi káptalani templom gótikus építészetét, különös figyelmet fordítva az oltár közelében lévő, szépen megőrzött középkori sírokra.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice, acordând o atenție deosebită mormintelor medievale frumos conservate de lângă altar.",
+            "en": "Admire the striking gothic architecture of this historic collegiate church, paying special attention to the beautifully preserved medieval tombs near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Württemberg-Haus Beutelsbach",
+            "hu": "Württemberg-Haus Beutelsbach",
+            "ro": "Württemberg-Haus Beutelsbach",
+            "en": "Württemberg-Haus Beutelsbach"
+          },
+          "coords": [
+            9.388531,
+            48.805391
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum tief in das Erbe Württembergs ein und verpassen Sie keinesfalls die faszinierende Ausstellung zum Bauernkrieg im Obergeschoss.",
+            "hu": "Merüljön el Württemberg gazdag regionális örökségében ebben a múzeumban, és mindenképpen tekintse meg a lenyűgöző parasztháborús kiállítást az emeleten.",
+            "ro": "Pătrundeți în bogata moștenire regională a Württembergului la acest muzeu și nu ratați fascinanta expoziție despre războiul țărănesc de la etajul superior.",
+            "en": "Dive deep into the rich regional heritage of Württemberg at this museum, and be sure to check out the fascinating peasant war exhibition on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Luitenbächer Höhe",
+            "hu": "Aussichtspunkt Luitenbächer Höhe",
+            "ro": "Aussichtspunkt Luitenbächer Höhe",
+            "en": "Aussichtspunkt Luitenbächer Höhe"
+          },
+          "coords": [
+            9.40299,
+            48.79217
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über die sanften Weinberge von diesem Aussichtspunkt, der sich perfekt für wunderschöne Landschaftsfotos eignet.",
+            "hu": "Élvezze a lélegzetelállító panorámát a lankás szőlőültetvényekre erről a kilátóról, amely tökéletes helyszín a lenyűgöző tájképek készítéséhez a környéken.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra podgoriilor ondulate de la acest punct de belvedere, fiind locul perfect pentru a face fotografii uimitoare.",
+            "en": "Enjoy breathtaking panoramic views over the rolling vineyards from this elevated viewpoint, making it the perfect spot to capture stunning landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpfad Strümpfelbach",
+            "hu": "Skulpturenpfad Strümpfelbach",
+            "ro": "Skulpturenpfad Strümpfelbach",
+            "en": "Skulpturenpfad Strümpfelbach"
+          },
+          "coords": [
+            9.373479,
+            48.785681
+          ],
+          "category": "park",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen markanten Bronze- und Steinskulpturen in den Weinbergen und lesen Sie die kleinen Tafeln, um die lokale künstlerische Inspiration zu verstehen.",
+            "hu": "Sétáljon a szőlőültetvények között gyönyörűen elhelyezett feltűnő bronz- és kőszobrok között, és olvassa el a kis táblákat a helyi művészeti ihlet megértéséhez.",
+            "ro": "Plimbați-vă printre sculpturile impresionante din bronz și piatră așezate frumos în podgorii și citiți plăcuțele pentru a înțelege inspirația artistică locală.",
+            "en": "Walk among striking bronze and stone sculptures set beautifully within the vineyards, and read the small plaques to understand the local artistic inspiration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Norden beim Steinzeitmuseum und entdecken Sie prähistorische Artefakte, bevor Sie durch den Morgennebel radeln. Fahren Sie weiter zum majestätischen Schloss Großheppach und nach Beutelsbach, um die Stiftskirche in Ihrem eigenen Tempo zu erkunden. Der Nachmittag lädt Sie ins Württemberg-Haus ein, gefolgt von einem lohnenden Aufstieg zum Aussichtspunkt Luitenbächer Höhe. Beenden Sie den Tag, indem Sie nach Strümpfelbach hinabgleiten, wo der Skulpturenpfad Kunst und Abendlicht in den Weinbergen auf wunderbare Weise verschmelzen lässt.",
+        "hu": "Kezdje kerékpáros kalandját északon, a Steinzeitmuseumban, felfedezve a történelem előtti leleteket, majd pedálozzon tovább a reggeli ködben. Guruljon a fenséges Großheppach kastélyhoz, majd folytassa útját Beutelsbach felé a lenyűgöző Stiftskirche felfedezéséhez. A délután a Württemberg-Haus regionális történelmével várja, amelyet egy jutalmazó emelkedő követ az Aussichtspunkt kilátóhoz. Zárja a napot Strümpfelbach felé gurulva, ahol a szabadtéri Skulpturenpfad gyönyörűen ötvözi a művészetet és a szőlőhegyi esti fényeket.",
+        "ro": "Începeți aventura pe bicicletă în nord la Steinzeitmuseum, descoperind artefacte preistorice înainte de a pedala prin ceața dimineții. Mergeți spre maiestuosul Schloss Großheppach și continuați spre Beutelsbach pentru a explora impunătoarea Stiftskirche. După-amiaza vă invită la Württemberg-Haus pentru o doză de istorie regională, urmată de o urcare plină de satisfacții către Aussichtspunkt Luitenbächer Höhe. Încheiați ziua alunecând spre Strümpfelbach, unde Skulpturenpfad îmbină frumos arta și lumina serii în podgoriile locale.",
+        "en": "Start your cycling adventure in the north at the Steinzeitmuseum, uncovering prehistoric artifacts before pedaling through the morning mist. Roll onwards to the majestic Schloss Großheppach and continue towards Beutelsbach to explore the majestic Stiftskirche at your own pace. The afternoon invites you to the Württemberg-Haus for a dose of regional history, followed by a rewarding climb to the panoramic Aussichtspunkt Luitenbächer Höhe. Finish the day gliding down to Strümpfelbach, where the outdoor Skulpturenpfad beautifully merges art and evening light in the vineyards."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Großheppach",
+            "hu": "Schloss Großheppach",
+            "ro": "Schloss Großheppach",
+            "en": "Schloss Großheppach"
+          },
+          "coords": [
+            9.390479,
+            48.817719
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissance-Eleganz dieses majestätischen Schlosses, das als historisches Hauptquartier diente, und spazieren Sie durch den gepflegten Innenhof.",
+            "hu": "Csodálja meg e fenséges kastély reneszánsz eleganciáját, amely egykor történelmi főhadiszállásként szolgált, és szánjon időt a gondozott udvar felfedezésére.",
+            "ro": "Admirați eleganța renascentistă a acestui castel maiestuos, fost sediu istoric, făcându-vă timp pentru a vă plimba prin curtea sa perfect îngrijită.",
+            "en": "Marvel at the renaissance elegance of this majestic castle, which served as a historical headquarters, taking time to stroll through its perfectly manicured courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Pflaster 14",
+            "hu": "Heimatmuseum Pflaster 14",
+            "ro": "Heimatmuseum Pflaster 14",
+            "en": "Heimatmuseum Pflaster 14"
+          },
+          "coords": [
+            9.364426,
+            48.811061
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige Weinstädter Geschichte in diesem charmanten Fachwerkhaus, wo Sie Ihren Besuch bei den traditionellen Weinbaugeräten beginnen sollten.",
+            "hu": "Fedezze fel Weinstadt helyi történelmét ebben a bájos szakállas házban, ahol a hagyományos szőlészeti eszközök megtekintésével érdemes kezdeni a látogatást.",
+            "ro": "Descoperiți istoria locală a orașului Weinstadt în această fermecătoare casă cu structură din lemn, începând cu vizionarea instrumentelor tradiționale de viticultură.",
+            "en": "Discover Weinstadt's vivid local history inside this charming half-timbered house, where you should start your visit by examining the traditional viticulture tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Beutelsbach",
+            "hu": "Stiftskirche Beutelsbach",
+            "ro": "Stiftskirche Beutelsbach",
+            "en": "Stiftskirche Beutelsbach"
+          },
+          "coords": [
+            9.387077,
+            48.805763
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Stiftskirche und achten Sie besonders auf die gut erhaltenen mittelalterlichen Gräber am Altar.",
+            "hu": "Csodálja meg a történelmi káptalani templom gótikus építészetét, különös figyelmet fordítva az oltár közelében lévő, szépen megőrzött középkori sírokra.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice, acordând o atenție deosebită mormintelor medievale frumos conservate de lângă altar.",
+            "en": "Admire the striking gothic architecture of this historic collegiate church, paying special attention to the beautifully preserved medieval tombs near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Württemberg-Haus Beutelsbach",
+            "hu": "Württemberg-Haus Beutelsbach",
+            "ro": "Württemberg-Haus Beutelsbach",
+            "en": "Württemberg-Haus Beutelsbach"
+          },
+          "coords": [
+            9.388531,
+            48.805391
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum tief in das Erbe Württembergs ein und verpassen Sie keinesfalls die faszinierende Ausstellung zum Bauernkrieg im Obergeschoss.",
+            "hu": "Merüljön el Württemberg gazdag regionális örökségében ebben a múzeumban, és mindenképpen tekintse meg a lenyűgöző parasztháborús kiállítást az emeleten.",
+            "ro": "Pătrundeți în bogata moștenire regională a Württembergului la acest muzeu și nu ratați fascinanta expoziție despre războiul țărănesc de la etajul superior.",
+            "en": "Dive deep into the rich regional heritage of Württemberg at this museum, and be sure to check out the fascinating peasant war exhibition on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Weinstadt",
+            "hu": "Museum Weinstadt",
+            "ro": "Museum Weinstadt",
+            "en": "Museum Weinstadt"
+          },
+          "coords": [
+            9.367304,
+            48.781484
+          ],
+          "category": "museum",
+          "arrive_at": "14:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem umfassenden Museum alles über die lokalen Weinbautraditionen und das Handwerk, wobei Sie unbedingt die historische Weinpresse sehen sollten.",
+            "hu": "Ismerje meg a borkészítés és a kézművesség tartós helyi hagyományait ebben az átfogó múzeumban, és ne hagyja ki a kiállított hatalmas történelmi borprést sem.",
+            "ro": "Învățați despre tradițiile locale de vinificație și meșteșugărit la acest muzeu cuprinzător, asigurându-vă că vedeți presa de vin istorică masivă expusă aici.",
+            "en": "Learn about the enduring local traditions of winemaking and craftsmanship at this comprehensive museum, ensuring you see the massive historic wine press on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpfad Strümpfelbach",
+            "hu": "Skulpturenpfad Strümpfelbach",
+            "ro": "Skulpturenpfad Strümpfelbach",
+            "en": "Skulpturenpfad Strümpfelbach"
+          },
+          "coords": [
+            9.373479,
+            48.785681
+          ],
+          "category": "park",
+          "arrive_at": "16:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen markanten Bronze- und Steinskulpturen in den Weinbergen und lesen Sie die kleinen Tafeln, um die lokale künstlerische Inspiration zu verstehen.",
+            "hu": "Sétáljon a szőlőültetvények között gyönyörűen elhelyezett feltűnő bronz- és kőszobrok között, és olvassa el a kis táblákat a helyi művészeti ihlet megértéséhez.",
+            "ro": "Plimbați-vă printre sculpturile impresionante din bronz și piatră așezate frumos în podgorii și citiți plăcuțele pentru a înțelege inspirația artistică locală.",
+            "en": "Walk among striking bronze and stone sculptures set beautifully within the vineyards, and read the small plaques to understand the local artistic inspiration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit dem königlichen Charme von Schloss Großheppach, einem hervorragenden Ort, um die regionale Architektur zu bewundern. Fahren Sie nach Endersbach, um im Heimatmuseum eine Zeitreise zu unternehmen, bevor Sie die historische Stiftskirche besuchen. Verbringen Sie Ihren Nachmittag damit, die Ausstellungen im Württemberg-Haus und das Erbe im Museum Weinstadt zu entdecken. Fahren Sie abends nach Strümpfelbach, um auf dem faszinierenden Skulpturenpfad umherzuwandern und Ihre Reise inmitten von Kunst und Weinbergen zu beenden.",
+        "hu": "Kezdje autós utazását a Großheppach kastély királyi varázsával, amely kiváló reggeli helyszín a regionális reneszánsz építészet megcsodálásához. Vezessen Endersbachba, hogy visszalépjen az időben a Heimatmuseumban, majd Beutelsbachba a történelmi Stiftskirche megtekintésére. Töltse a délutánt a Württemberg-Haus kiállításainak és a Museum Weinstadt helyi örökségének felfedezésével. Este utazzon délre Strümpfelbachba, hogy végigsétáljon a lenyűgöző Skulpturenpfadon, és művészettel körülvéve zárja az utazást a szőlőültetvényeknél.",
+        "ro": "Începeți excursia cu mașina cu farmecul regal al Schloss Großheppach, un loc excelent dimineața pentru a aprecia arhitectura renascentistă regională. Conduceți spre Endersbach pentru a vă întoarce în timp la Heimatmuseum, înainte de a vizita istorica Stiftskirche. Petreceți după-amiaza descoperind expozițiile de la Württemberg-Haus și moștenirea locală la Museum Weinstadt. Seara, mergeți la sud spre Strümpfelbach pentru a vă plimba pe fascinantul Skulpturenpfad, încheind excursia înconjurați de artă și podgorii.",
+        "en": "Kick off your road trip with the regal charm of Schloss Großheppach, an excellent morning spot to appreciate regional renaissance architecture. Drive over to Endersbach to step back in time at the Heimatmuseum, before moving on to Beutelsbach to admire the historical Stiftskirche. Spend your afternoon discovering the exhibitions at the Württemberg-Haus and the local heritage preserved at the Museum Weinstadt. In the evening, drive south to Strümpfelbach to wander the fascinating Skulpturenpfad, ending your trip surrounded by art and picturesque vineyards."
+      }
+    }
+  }
+}

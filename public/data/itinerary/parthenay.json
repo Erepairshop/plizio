@@ -1,0 +1,474 @@
+{
+  "city_id": "parthenay",
+  "anchor": {
+    "name": "Parthenay",
+    "coords": [
+      -0.2469,
+      46.6486
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 2.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Croix",
+            "hu": "Sainte-Croix templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.251596,
+            46.649164
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser alten Kirche, die Jahrhunderte lokaler Geschichte in sich birgt, und achten Sie am schwarzen Brett auf gelegentliche Chorproben.",
+            "hu": "Csodálja meg ennek az ősi templomnak a lenyűgöző román stílusú építészetét, amely évszázadok helyi történelmét őrzi, és feltétlenül nézze meg a hirdetőtáblán az alkalmi kóruspróbák időpontjait.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici vechi care păstrează secole de istorie locală și nu uitați să verificați panoul informativ pentru eventuale repetiții ale corului.",
+            "en": "Admire the striking Romanesque architecture of this ancient church which holds centuries of local history, and make sure to check the notice board for occasional choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenwasserbecken Moulin",
+            "hu": "Moulin csapadékvíz-tározó",
+            "ro": "Bazinul de furtună Moulin",
+            "en": "Bassin d'orage du Moulin"
+          },
+          "coords": [
+            -0.25306,
+            46.648905
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang um dieses wichtige ökologische Wasserbecken, das auch als malerischer Rastplatz dient, aber bringen Sie Mückenschutz mit, wenn Sie es an warmen Sommernachmittagen besuchen.",
+            "hu": "Tegyen egy békés sétát e létfontosságú ökológiai vízgazdálkodási medence körül, amely egyben festői pihenőhely is, de hozzon magával szúnyogriasztót, ha meleg nyári délutánokon látogat el ide.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui bazin ecologic esențial de gestionare a apei, care servește și ca popas pitoresc, dar aduceți repelent de țânțari dacă îl vizitați în după-amiezile calde de vară.",
+            "en": "Take a peaceful stroll around this essential ecological water management basin that doubles as a scenic rest stop, but bring mosquito repellent if visiting during warm summer afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Couldre",
+            "hu": "Notre-Dame-de-la-Couldre templom",
+            "ro": "Biserica Notre-Dame-de-la-Couldre",
+            "en": "Notre-Dame-de-la-Couldre Church"
+          },
+          "coords": [
+            -0.25115,
+            46.65076
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplizierten skulpturalen Details am großen Portal dieses historischen Meisterwerks und kommen Sie früh am Morgen, um das schöne Sonnenlicht einzufangen, das die alte Steinfassade beleuchtet.",
+            "hu": "Csodálja meg e történelmi remekmű nagyszerű portáljának bonyolult szobrászati részleteit, és érkezzen kora reggel, hogy megörökítse a gyönyörű napfényt, amely megvilágítja az ősi kőhomlokzatot.",
+            "ro": "Minunați-vă de detaliile sculpturale complicate de pe marele portal al acestei capodopere istorice și ajungeți dimineața devreme pentru a surprinde lumina soarelui care îi luminează fațada antică din piatră.",
+            "en": "Marvel at the intricate sculptural details on the grand portal of this historic masterpiece, and arrive early in the morning to capture the beautiful sunlight illuminating its ancient stone façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Georges Turpin Museum",
+            "hu": "Georges Turpin Múzeum",
+            "ro": "Muzeul Georges Turpin",
+            "en": "Georges Turpin Museum"
+          },
+          "coords": [
+            -0.249342,
+            46.65198
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Parthenays reiches Erbe durch faszinierende Steingutsammlungen und mittelalterliche Artefakte und versuchen Sie, einen kostenlosen Audioguide an der Rezeption zu bekommen, um die Ausstellungen voll zu schätzen.",
+            "hu": "Fedezze fel Parthenay gazdag örökségét a lenyűgöző cserépedény-gyűjteményeken és középkori leleteken keresztül, és kérjen egy ingyenes audioguide-ot a recepción a történelmi kiállítások teljes körű megértéséhez.",
+            "ro": "Descoperiți bogata moștenire a orașului Parthenay prin colecții fascinante de ceramică și artefacte medievale și asigurați-vă că luați un ghid audio gratuit de la recepție pentru a aprecia pe deplin exponatele.",
+            "en": "Discover Parthenay's rich heritage through fascinating earthenware collections and medieval artifacts, and try to grab a free audio guide from the reception to fully appreciate the historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenwasserbecken Wilson",
+            "hu": "Wilson csapadékvíz-tározó",
+            "ro": "Bazinul de furtună Wilson",
+            "en": "Bassin d'orage Wilson"
+          },
+          "coords": [
+            -0.247302,
+            46.651256
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe an diesem modernen Regenwasserbecken, das Natur in die Stadtplanung integriert, was es zu einem perfekten Ort macht, um Ihr mitgebrachtes Sandwich auf einer Bank zu essen.",
+            "hu": "Élvezze a nyugalom pillanatát ez a modern csapadékvíz-tározó mellett, amelyet a természet és a városi környezet ötvözésére terveztek, így tökéletes hely egy szendvics elfogyasztására egy közeli padon.",
+            "ro": "Bucurați-vă de un moment de liniște lângă acest bazin modern de colectare a apelor pluviale, conceput pentru a integra natura în mediul urban, devenind un loc perfect pentru a mânca un sandviș pe o bancă.",
+            "en": "Enjoy a moment of tranquility by this modern storm water basin designed to integrate nature into the urban layout, making it a perfect spot to eat your packed sandwich on a nearby bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Parthenay",
+            "hu": "Parthenay Vára",
+            "ro": "Castelul Parthenay",
+            "en": "Parthenay Castle"
+          },
+          "coords": [
+            -0.252727,
+            46.662954
+          ],
+          "category": "fortress",
+          "arrive_at": "15:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen und Verteidigungsmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie feste Wanderschuhe, um die unebenen, felsigen Wege sicher zu begehen.",
+            "hu": "Fedezze fel e középkori erődítmény impozáns romjait és védőfalait, amely egykor a régiót őrizte, és viseljen masszív túracipőt, hogy biztonságosan eligazodjon a fellegvárat körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impunătoare și zidurile de apărare ale acestei fortărețe medievale care păzea odată regiunea și purtați încălțăminte de drumeție robustă pentru a naviga în siguranță pe potecile stâncoase din jur.",
+            "en": "Explore the imposing ruins and defensive walls of this medieval fortress that once guarded the region, and wear sturdy walking shoes to safely navigate the uneven, rocky pathways surrounding the citadel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang durch den alten Kern und erkunden Sie die beeindruckende romanische Sakralarchitektur der Frühgeschichte.\nGegen Mittag wechseln Sie von den steinernen Heiligtümern zu den lokalen Wasserelementen, wo die urbane Ökologie eine friedliche Kulisse für eine kurze Pause bietet.\nVerbringen Sie den Nachmittag damit, im Museum tief in das lokale Erbe einzutauchen und Jahrhunderte von Handwerkskunst und mittelalterlichem Leben zu entdecken.\nBeenden Sie den Tag an den majestätischen Festungsruinen über der Stadt, wo das Abendlicht die Überreste von Parthenays beeindruckender Vergangenheit hervorhebt.",
+        "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
+        "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
+        "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pufferbecken Abwasser de la Grève",
+            "hu": "Grève szennyvízpuffer-medence",
+            "ro": "Bazin tampon Ape uzate de la Grève",
+            "en": "Bassin tampon Eaux usées de la Grève"
+          },
+          "coords": [
+            -0.263559,
+            46.644365
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie dieses wesentliche Abwassermanagementsystem, das die städtische Umwelt sauber hält, und bleiben Sie auf den markierten Wegen, um die lokale Flora nicht zu stören.",
+            "hu": "Figyelje meg ezt a létfontosságú szennyvízkezelő rendszert, amely tisztán tartja a városi környezetet, és maradjon a kijelölt ösvényeken, hogy ne zavarja meg a helyi növényvilágot.",
+            "ro": "Observați acest sistem esențial de gestionare a apelor uzate care menține mediul urban curat și rămâneți pe căile marcate pentru a evita deranjarea florei locale.",
+            "en": "Observe this essential wastewater management system that keeps the urban environment clean, and make sure to stay on the marked paths to avoid disturbing local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Croix",
+            "hu": "Sainte-Croix templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.251596,
+            46.649164
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser alten Kirche, die Jahrhunderte lokaler Geschichte in sich birgt, und achten Sie am schwarzen Brett auf gelegentliche Chorproben.",
+            "hu": "Csodálja meg ennek az ősi templomnak a lenyűgöző román stílusú építészetét, amely évszázadok helyi történelmét őrzi, és feltétlenül nézze meg a hirdetőtáblán az alkalmi kóruspróbák időpontjait.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici vechi care păstrează secole de istorie locală și nu uitați să verificați panoul informativ pentru eventuale repetiții ale corului.",
+            "en": "Admire the striking Romanesque architecture of this ancient church which holds centuries of local history, and make sure to check the notice board for occasional choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Couldre",
+            "hu": "Notre-Dame-de-la-Couldre templom",
+            "ro": "Biserica Notre-Dame-de-la-Couldre",
+            "en": "Notre-Dame-de-la-Couldre Church"
+          },
+          "coords": [
+            -0.25115,
+            46.65076
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplizierten skulpturalen Details am großen Portal dieses historischen Meisterwerks und kommen Sie früh am Morgen, um das schöne Sonnenlicht einzufangen, das die alte Steinfassade beleuchtet.",
+            "hu": "Csodálja meg e történelmi remekmű nagyszerű portáljának bonyolult szobrászati részleteit, és érkezzen kora reggel, hogy megörökítse a gyönyörű napfényt, amely megvilágítja az ősi kőhomlokzatot.",
+            "ro": "Minunați-vă de detaliile sculpturale complicate de pe marele portal al acestei capodopere istorice și ajungeți dimineața devreme pentru a surprinde lumina soarelui care îi luminează fațada antică din piatră.",
+            "en": "Marvel at the intricate sculptural details on the grand portal of this historic masterpiece, and arrive early in the morning to capture the beautiful sunlight illuminating its ancient stone façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Georges Turpin Museum",
+            "hu": "Georges Turpin Múzeum",
+            "ro": "Muzeul Georges Turpin",
+            "en": "Georges Turpin Museum"
+          },
+          "coords": [
+            -0.249342,
+            46.65198
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Parthenays reiches Erbe durch faszinierende Steingutsammlungen und mittelalterliche Artefakte und versuchen Sie, einen kostenlosen Audioguide an der Rezeption zu bekommen, um die Ausstellungen voll zu schätzen.",
+            "hu": "Fedezze fel Parthenay gazdag örökségét a lenyűgöző cserépedény-gyűjteményeken és középkori leleteken keresztül, és kérjen egy ingyenes audioguide-ot a recepción a történelmi kiállítások teljes körű megértéséhez.",
+            "ro": "Descoperiți bogata moștenire a orașului Parthenay prin colecții fascinante de ceramică și artefacte medievale și asigurați-vă că luați un ghid audio gratuit de la recepție pentru a aprecia pe deplin exponatele.",
+            "en": "Discover Parthenay's rich heritage through fascinating earthenware collections and medieval artifacts, and try to grab a free audio guide from the reception to fully appreciate the historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenwasserbecken Descartes",
+            "hu": "Descartes csapadékvíz-tározó",
+            "ro": "Bazinul de furtună Descartes",
+            "en": "Bassin d'orage de Descartes"
+          },
+          "coords": [
+            -0.240373,
+            46.652275
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe an diesem modernen Regenwasserbecken, das Natur in die Stadtplanung integriert, was es zu einem perfekten Ort macht, um Ihr mitgebrachtes Sandwich auf einer Bank zu essen.",
+            "hu": "Élvezze a nyugalom pillanatát ez a modern csapadékvíz-tározó mellett, amelyet a természet és a városi környezet ötvözésére terveztek, így tökéletes hely egy szendvics elfogyasztására egy közeli padon.",
+            "ro": "Bucurați-vă de un moment de liniște lângă acest bazin modern de colectare a apelor pluviale, conceput pentru a integra natura în mediul urban, devenind un loc perfect pentru a mânca un sandviș pe o bancă.",
+            "en": "Enjoy a moment of tranquility by this modern storm water basin designed to integrate nature into the urban layout, making it a perfect spot to eat your packed sandwich on a nearby bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Parthenay",
+            "hu": "Parthenay Vára",
+            "ro": "Castelul Parthenay",
+            "en": "Parthenay Castle"
+          },
+          "coords": [
+            -0.252727,
+            46.662954
+          ],
+          "category": "fortress",
+          "arrive_at": "14:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen und Verteidigungsmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie feste Wanderschuhe, um die unebenen, felsigen Wege sicher zu begehen.",
+            "hu": "Fedezze fel e középkori erődítmény impozáns romjait és védőfalait, amely egykor a régiót őrizte, és viseljen masszív túracipőt, hogy biztonságosan eligazodjon a fellegvárat körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impunătoare și zidurile de apărare ale acestei fortărețe medievale care păzea odată regiunea și purtați încălțăminte de drumeție robustă pentru a naviga în siguranță pe potecile stâncoase din jur.",
+            "en": "Explore the imposing ruins and defensive walls of this medieval fortress that once guarded the region, and wear sturdy walking shoes to safely navigate the uneven, rocky pathways surrounding the citadel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang durch den alten Kern und erkunden Sie die beeindruckende romanische Sakralarchitektur der Frühgeschichte.\nGegen Mittag wechseln Sie von den steinernen Heiligtümern zu den lokalen Wasserelementen, wo die urbane Ökologie eine friedliche Kulisse für eine kurze Pause bietet.\nVerbringen Sie den Nachmittag damit, im Museum tief in das lokale Erbe einzutauchen und Jahrhunderte von Handwerkskunst und mittelalterlichem Leben zu entdecken.\nBeenden Sie den Tag an den majestätischen Festungsruinen über der Stadt, wo das Abendlicht die Überreste von Parthenays beeindruckender Vergangenheit hervorhebt.",
+        "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
+        "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
+        "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Croix",
+            "hu": "Sainte-Croix templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.251596,
+            46.649164
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser alten Kirche, die Jahrhunderte lokaler Geschichte in sich birgt, und achten Sie am schwarzen Brett auf gelegentliche Chorproben.",
+            "hu": "Csodálja meg ennek az ősi templomnak a lenyűgöző román stílusú építészetét, amely évszázadok helyi történelmét őrzi, és feltétlenül nézze meg a hirdetőtáblán az alkalmi kóruspróbák időpontjait.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici vechi care păstrează secole de istorie locală și nu uitați să verificați panoul informativ pentru eventuale repetiții ale corului.",
+            "en": "Admire the striking Romanesque architecture of this ancient church which holds centuries of local history, and make sure to check the notice board for occasional choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Couldre",
+            "hu": "Notre-Dame-de-la-Couldre templom",
+            "ro": "Biserica Notre-Dame-de-la-Couldre",
+            "en": "Notre-Dame-de-la-Couldre Church"
+          },
+          "coords": [
+            -0.25115,
+            46.65076
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplizierten skulpturalen Details am großen Portal dieses historischen Meisterwerks und kommen Sie früh am Morgen, um das schöne Sonnenlicht einzufangen, das die alte Steinfassade beleuchtet.",
+            "hu": "Csodálja meg e történelmi remekmű nagyszerű portáljának bonyolult szobrászati részleteit, és érkezzen kora reggel, hogy megörökítse a gyönyörű napfényt, amely megvilágítja az ősi kőhomlokzatot.",
+            "ro": "Minunați-vă de detaliile sculpturale complicate de pe marele portal al acestei capodopere istorice și ajungeți dimineața devreme pentru a surprinde lumina soarelui care îi luminează fațada antică din piatră.",
+            "en": "Marvel at the intricate sculptural details on the grand portal of this historic masterpiece, and arrive early in the morning to capture the beautiful sunlight illuminating its ancient stone façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Georges Turpin Museum",
+            "hu": "Georges Turpin Múzeum",
+            "ro": "Muzeul Georges Turpin",
+            "en": "Georges Turpin Museum"
+          },
+          "coords": [
+            -0.249342,
+            46.65198
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Parthenays reiches Erbe durch faszinierende Steingutsammlungen und mittelalterliche Artefakte und versuchen Sie, einen kostenlosen Audioguide an der Rezeption zu bekommen, um die Ausstellungen voll zu schätzen.",
+            "hu": "Fedezze fel Parthenay gazdag örökségét a lenyűgöző cserépedény-gyűjteményeken és középkori leleteken keresztül, és kérjen egy ingyenes audioguide-ot a recepción a történelmi kiállítások teljes körű megértéséhez.",
+            "ro": "Descoperiți bogata moștenire a orașului Parthenay prin colecții fascinante de ceramică și artefacte medievale și asigurați-vă că luați un ghid audio gratuit de la recepție pentru a aprecia pe deplin exponatele.",
+            "en": "Discover Parthenay's rich heritage through fascinating earthenware collections and medieval artifacts, and try to grab a free audio guide from the reception to fully appreciate the historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenwasserbecken Descartes",
+            "hu": "Descartes csapadékvíz-tározó",
+            "ro": "Bazinul de furtună Descartes",
+            "en": "Bassin d'orage de Descartes"
+          },
+          "coords": [
+            -0.240373,
+            46.652275
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe an diesem modernen Regenwasserbecken, das Natur in die Stadtplanung integriert, was es zu einem perfekten Ort macht, um Ihr mitgebrachtes Sandwich auf einer Bank zu essen.",
+            "hu": "Élvezze a nyugalom pillanatát ez a modern csapadékvíz-tározó mellett, amelyet a természet és a városi környezet ötvözésére terveztek, így tökéletes hely egy szendvics elfogyasztására egy közeli padon.",
+            "ro": "Bucurați-vă de un moment de liniște lângă acest bazin modern de colectare a apelor pluviale, conceput pentru a integra natura în mediul urban, devenind un loc perfect pentru a mânca un sandviș pe o bancă.",
+            "en": "Enjoy a moment of tranquility by this modern storm water basin designed to integrate nature into the urban layout, making it a perfect spot to eat your packed sandwich on a nearby bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Parthenay",
+            "hu": "Parthenay Vára",
+            "ro": "Castelul Parthenay",
+            "en": "Parthenay Castle"
+          },
+          "coords": [
+            -0.252727,
+            46.662954
+          ],
+          "category": "fortress",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen und Verteidigungsmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie feste Wanderschuhe, um die unebenen, felsigen Wege sicher zu begehen.",
+            "hu": "Fedezze fel e középkori erődítmény impozáns romjait és védőfalait, amely egykor a régiót őrizte, és viseljen masszív túracipőt, hogy biztonságosan eligazodjon a fellegvárat körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impunătoare și zidurile de apărare ale acestei fortărețe medievale care păzea odată regiunea și purtați încălțăminte de drumeție robustă pentru a naviga în siguranță pe potecile stâncoase din jur.",
+            "en": "Explore the imposing ruins and defensive walls of this medieval fortress that once guarded the region, and wear sturdy walking shoes to safely navigate the uneven, rocky pathways surrounding the citadel."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerlöschteich",
+            "hu": "Tűzoltó víztározó",
+            "ro": "Rezervor de incendiu",
+            "en": "réserve incendie"
+          },
+          "coords": [
+            -0.252806,
+            46.665645
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese funktionale Feuerreserve, die eine entscheidende Sicherheitsrolle für die nahegelegenen historischen Strukturen spielt, und respektieren Sie die Grenzen, indem Sie Ihre Fotos von den ausgewiesenen Wegen machen.",
+            "hu": "Tekintse meg ezt a funkcionális tűzoltó víztározót, amely kulcsfontosságú biztonsági szerepet tölt be a közeli történelmi épületek számára, és tartsa tiszteletben a határokat úgy, hogy a kijelölt peremutakról fényképez.",
+            "ro": "Observați această rezervă de incendiu funcțională, care joacă un rol crucial de siguranță pentru structurile istorice din apropiere, și respectați limitele clare fotografiind doar de pe căile periferice desemnate.",
+            "en": "Observe this functional fire reserve which plays a crucial safety role for the nearby historical structures, and respect the clear boundaries by taking your photographs from the designated peripheral pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang durch den alten Kern und erkunden Sie die beeindruckende romanische Sakralarchitektur der Frühgeschichte.\nGegen Mittag wechseln Sie von den steinernen Heiligtümern zu den lokalen Wasserelementen, wo die urbane Ökologie eine friedliche Kulisse für eine kurze Pause bietet.\nVerbringen Sie den Nachmittag damit, im Museum tief in das lokale Erbe einzutauchen und Jahrhunderte von Handwerkskunst und mittelalterlichem Leben zu entdecken.\nBeenden Sie den Tag an den majestätischen Festungsruinen über der Stadt, wo das Abendlicht die Überreste von Parthenays beeindruckender Vergangenheit hervorhebt.",
+        "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
+        "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
+        "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-tortoreto-lido-cities-v2",
+  "anchor": {
+    "name": "Tortoreto Lido",
+    "coords": [
+      13.94327,
+      42.80396
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento ai donatori di sangue",
+            "hu": "Monumento ai donatori di sangue",
+            "ro": "Monumento ai donatori di sangue",
+            "en": "Monumento ai donatori di sangue"
+          },
+          "coords": [
+            13.936372,
+            42.805387
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses berührende Blutspenderdenkmal, das den Gemeinschaftsgeist widerspiegelt, und machen Sie ein kurzes Foto.",
+            "hu": "Csodálja meg ezt a közösségi szellemet tükröző véradói emlékművet, és készítsen egy gyors fotót, mielőtt tovább sétálna a parton.",
+            "ro": "Admirați acest monument emoționant al donatorilor de sânge care reflectă spiritul comunitar și faceți o fotografie rapidă la plimbare.",
+            "en": "Admire this touching blood donor monument reflecting community spirit, and take a quick photo before continuing your coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus romana \"Le Muracche\"",
+            "hu": "Domus romana \"Le Muracche\"",
+            "ro": "Domus romana \"Le Muracche\"",
+            "en": "Domus romana \"Le Muracche\""
+          },
+          "coords": [
+            13.933285,
+            42.803673
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser römischen Villa, um die Antike zu erleben, aber bringen Sie Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Fedezze fel e római villa romjait, hogy bepillantást nyerjen az ókori életbe, de hozzon vizet, mert a területen kevés az árnyék.",
+            "ro": "Explorați ruinele acestei vile romane pentru o perspectivă antică, dar aduceți apă deoarece zona nu oferă prea multă umbră pentru turiști.",
+            "en": "Explore these ancient Roman villa ruins to glimpse everyday life in antiquity, but bring water since there's little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiaro di luna",
+            "hu": "Chiaro di luna",
+            "ro": "Chiaro di luna",
+            "en": "Chiaro di luna"
+          },
+          "coords": [
+            13.94871,
+            42.792557
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem klassischen Strandabschnitt mit weichem Sand und mieten Sie frühzeitig eine Liege für den besten Meerblick.",
+            "hu": "Pihenjen ezen a klasszikus tengerparti szakaszon, ahol a puha homok és az Adriai-tenger látványa várja, ha időben bérel egy napágyat.",
+            "ro": "Relaxați-vă pe această plajă clasică cu nisip fin și vedere la Adriatică, închiriind un șezlong devreme pentru cel mai bun loc la malul mării.",
+            "en": "Relax at this classic beachside spot offering soft sands and Adriatic views, where renting a sunbed early guarantees the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Venus",
+            "hu": "Venus",
+            "ro": "Venus",
+            "en": "Venus"
+          },
+          "coords": [
+            13.949615,
+            42.791053
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses Strandes und holen Sie sich ein erfrischendes lokales Gelato an den nahegelegenen Ständen.",
+            "hu": "Élvezze a nyüzsgő tengerparti atmoszférát, és kóstoljon meg egy frissítő helyi fagylaltot a közeli sétány hangulatos árusaitól.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje animate și savurați un gelato local răcoritor de la vânzătorii situați în apropiere.",
+            "en": "Enjoy the vibrant atmosphere of this lively recreational beach area, and grab a refreshing local gelato from the nearby vendor stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Frontemare",
+            "hu": "Frontemare",
+            "ro": "Frontemare",
+            "en": "Frontemare"
+          },
+          "coords": [
+            13.953564,
+            42.783814
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem beliebten Treffpunkt am Wasser, der sich dank sanfter Wellen ideal für ein abendliches Bad eignet.",
+            "hu": "Zárja kirándulását ezen a népszerű vízparti találkozóhelyen, amely finom hullámaival tökéletesen alkalmas egy esti, pihentető úszásra.",
+            "ro": "Încheiați-vă ziua în acest loc popular pe malul mării, renumit pentru valurile blânde, perfect pentru o înotare relaxantă la apus.",
+            "en": "Conclude your trip at this popular waterfront gathering spot known for gentle waves, perfectly suited for a relaxing twilight swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tortoreto bietet eine wunderbare Mischung aus Geschichte und Küstenentspannung. Der Morgen beginnt mit Denkmälern und römischen Ruinen. Mittags lockt der weiche Sand der Adria. Der Nachmittag eignet sich perfekt zur Erkundung der lebhaften Strandpromenade. Abends genießen Sie den Sonnenuntergang.",
+        "hu": "Tortoreto a történelem és a tengerparti pihenés csodás keveréke. A reggel műemlékekkel és római romokkal indul. Délben az Adriai-tenger lágy homokja várja. A délután tökéletes a nyüzsgő part menti sétányok felfedezésére. Az este pedig egy pihentető tengerparti naplementével zárul.",
+        "ro": "Tortoreto oferă un amestec minunat de istorie și relaxare pe coastă. Dimineața începe cu monumente istorice și ruine romane. La prânz, nisipul fin al Adriaticii te așteaptă. După-amiaza este perfectă pentru a explora zonele animate de pe plajă. Seara se încheie cu un apus relaxant la mare.",
+        "en": "Tortoreto offers a wonderful blend of history and coastal relaxation. Morning starts with historical monuments and Roman ruins. Midday brings you to the soft sands of the Adriatic. Afternoon is perfect for exploring the lively beachfront areas. Evening concludes with a relaxing sunset by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Domus romana \"Le Muracche\"",
+            "hu": "Domus romana \"Le Muracche\"",
+            "ro": "Domus romana \"Le Muracche\"",
+            "en": "Domus romana \"Le Muracche\""
+          },
+          "coords": [
+            13.933285,
+            42.803673
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser römischen Villa, um die Antike zu erleben, aber bringen Sie Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Fedezze fel e római villa romjait, hogy bepillantást nyerjen az ókori életbe, de hozzon vizet, mert a területen kevés az árnyék.",
+            "ro": "Explorați ruinele acestei vile romane pentru o perspectivă antică, dar aduceți apă deoarece zona nu oferă prea multă umbră pentru turiști.",
+            "en": "Explore these ancient Roman villa ruins to glimpse everyday life in antiquity, but bring water since there's little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna del Mare",
+            "hu": "Madonna del Mare",
+            "ro": "Madonna del Mare",
+            "en": "Madonna del Mare"
+          },
+          "coords": [
+            13.938871,
+            42.814282
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen kleinen historischen Schrein der Schutzpatrone des Meeres und genießen Sie einen Moment der Stille in der Meeresbrise.",
+            "hu": "Látogasson el a tenger védelmezőinek szentelt történelmi kegyhelyre, és tartson egy percnyi csendet, miközben élvezi a tengeri szellőt.",
+            "ro": "Vizitați acest mic sanctuar istoric dedicat protectorilor mării, bucurându-vă de un moment de reculegere în adierea proaspătă a brizei.",
+            "en": "Visit this small historical shrine dedicated to the protectors of the sea, taking a moment of silence while enjoying the fresh ocean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Village Hotel Astor& Sporting",
+            "hu": "Beach Village Hotel Astor& Sporting",
+            "ro": "Beach Village Hotel Astor& Sporting",
+            "en": "Beach Village Hotel Astor& Sporting"
+          },
+          "coords": [
+            13.937395,
+            42.820093
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses sportlichen Wahrzeichens und informieren Sie sich am Aushang über offene Freizeitaktivitäten.",
+            "hu": "Csodálja meg e sportolási nevezetesség modern építészetét, és nézze meg a hirdetőtáblájukat az aktuális nyílt szabadidős tevékenységekért.",
+            "ro": "Admirați arhitectura modernă a acestui complex sportiv local și verificați avizierul pentru a vedea ce activități recreative sunt deschise.",
+            "en": "Admire the modern architecture of this notable local sporting landmark, and check their notice board for any open recreational activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santa Maria",
+            "hu": "Chiesa Santa Maria",
+            "ro": "Chiesa Santa Maria",
+            "en": "Chiesa Santa Maria"
+          },
+          "coords": [
+            13.93356,
+            42.821975
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die elegante sakrale Kunst zu betrachten, und sprechen Sie aus Respekt vor den Gläubigen leise.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megfigyelhesse elegáns vallási művészetét, halkan beszélve a helyi hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică liniștită pentru a observa arta religioasă elegantă, păstrând o voce scăzută din respect pentru credincioși.",
+            "en": "Step inside this peaceful church to observe its simple yet elegant religious art, keeping your voice low out of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiaro di luna",
+            "hu": "Chiaro di luna",
+            "ro": "Chiaro di luna",
+            "en": "Chiaro di luna"
+          },
+          "coords": [
+            13.94871,
+            42.792557
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem klassischen Strandabschnitt mit weichem Sand und mieten Sie frühzeitig eine Liege für den besten Meerblick.",
+            "hu": "Pihenjen ezen a klasszikus tengerparti szakaszon, ahol a puha homok és az Adriai-tenger látványa várja, ha időben bérel egy napágyat.",
+            "ro": "Relaxați-vă pe această plajă clasică cu nisip fin și vedere la Adriatică, închiriind un șezlong devreme pentru cel mai bun loc la malul mării.",
+            "en": "Relax at this classic beachside spot offering soft sands and Adriatic views, where renting a sunbed early guarantees the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Frontemare",
+            "hu": "Frontemare",
+            "ro": "Frontemare",
+            "en": "Frontemare"
+          },
+          "coords": [
+            13.953564,
+            42.783814
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem beliebten Treffpunkt am Wasser, der sich dank sanfter Wellen ideal für ein abendliches Bad eignet.",
+            "hu": "Zárja kirándulását ezen a népszerű vízparti találkozóhelyen, amely finom hullámaival tökéletesen alkalmas egy esti, pihentető úszásra.",
+            "ro": "Încheiați-vă ziua în acest loc popular pe malul mării, renumit pentru valurile blânde, perfect pentru o înotare relaxantă la apus.",
+            "en": "Conclude your trip at this popular waterfront gathering spot known for gentle waves, perfectly suited for a relaxing twilight swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tortoreto bietet eine wunderbare Mischung aus Geschichte und Küstenentspannung. Der Morgen beginnt mit Denkmälern und römischen Ruinen. Mittags lockt der weiche Sand der Adria. Der Nachmittag eignet sich perfekt zur Erkundung der lebhaften Strandpromenade. Abends genießen Sie den Sonnenuntergang.",
+        "hu": "Tortoreto a történelem és a tengerparti pihenés csodás keveréke. A reggel műemlékekkel és római romokkal indul. Délben az Adriai-tenger lágy homokja várja. A délután tökéletes a nyüzsgő part menti sétányok felfedezésére. Az este pedig egy pihentető tengerparti naplementével zárul.",
+        "ro": "Tortoreto oferă un amestec minunat de istorie și relaxare pe coastă. Dimineața începe cu monumente istorice și ruine romane. La prânz, nisipul fin al Adriaticii te așteaptă. După-amiaza este perfectă pentru a explora zonele animate de pe plajă. Seara se încheie cu un apus relaxant la mare.",
+        "en": "Tortoreto offers a wonderful blend of history and coastal relaxation. Morning starts with historical monuments and Roman ruins. Midday brings you to the soft sands of the Adriatic. Afternoon is perfect for exploring the lively beachfront areas. Evening concludes with a relaxing sunset by the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Chiesa di Sant'Agostino",
+            "ro": "Chiesa di Sant'Agostino",
+            "en": "Chiesa di Sant'Agostino"
+          },
+          "coords": [
+            13.913449,
+            42.804172
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Fassade dieser klassischen Oberstadtkirche und kommen Sie früh, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a felsővárosi templom klasszikus, történelmi homlokzatát, és érkezzen kora reggel a legjobb fotózási fényviszonyokért.",
+            "ro": "Admirați fațada istorică a acestei biserici clasice din orașul de sus și vizitați-o dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Marvel at the historic facade of this classic upper-town church, and visit early in the morning to enjoy the softest light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Nicola",
+            "hu": "Chiesa di San Nicola",
+            "ro": "Chiesa di San Nicola",
+            "en": "Chiesa di San Nicola"
+          },
+          "coords": [
+            13.915158,
+            42.803923
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reichen Details im Inneren dieser kulturell bedeutenden Kirche, aber prüfen Sie vorher die Zeiten der Gottesdienste.",
+            "hu": "Fedezze fel e kulturálisan jelentős templom gazdag belső részleteit, de előtte ellenőrizze a misék rendjét, hogy biztosan bemehessen.",
+            "ro": "Descoperiți detaliile interioare bogate ale acestei biserici semnificative, dar verificați programul slujbelor pentru a asigura accesul.",
+            "en": "Discover the rich interior details of this culturally significant church, but check the mass schedule beforehand to ensure tourist entry is allowed."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco della fortellezza",
+            "hu": "Parco della fortellezza",
+            "ro": "Parco della fortellezza",
+            "en": "Parco della fortellezza"
+          },
+          "coords": [
+            13.918813,
+            42.803422
+          ],
+          "category": "park",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen malerischen grünen Park mit Panoramablick auf die Küste, der perfekte Ort für ein entspanntes Picknick.",
+            "hu": "Sétáljon végig ezen a festői parkon, amely panorámás kilátást nyújt a partra, így tökéletes helyszín egy kényelmes délelőtti piknikhez.",
+            "ro": "Plimbați-vă prin acest parc pitoresc care oferă vedere panoramică la coastă, locul perfect pentru un picnic relaxant la mijlocul dimineții.",
+            "en": "Stroll through this scenic green park offering panoramic views over the coast, making it the perfect spot for a relaxed mid-morning picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna della Neve",
+            "hu": "Madonna della Neve",
+            "ro": "Madonna della Neve",
+            "en": "Madonna della Neve"
+          },
+          "coords": [
+            13.922756,
+            42.804904
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre an dieser charmanten religiösen Stätte, ein idealer Ort zum Ausruhen, bevor Sie zum Strand hinunterfahren.",
+            "hu": "Tapasztalja meg a nyugodt légkört ezen a bájos vallási helyszínen, amely ideális hely a pihenésre, mielőtt leereszkedne a nyüzsgő partra.",
+            "ro": "Experimentați atmosfera liniștită la acest sit religios fermecător, un loc ideal pentru a vă odihni înainte de a coborî spre plaja animată.",
+            "en": "Experience the tranquil atmosphere at this charming religious site, an ideal place to rest and reflect before heading down to the lively beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus romana \"Le Muracche\"",
+            "hu": "Domus romana \"Le Muracche\"",
+            "ro": "Domus romana \"Le Muracche\"",
+            "en": "Domus romana \"Le Muracche\""
+          },
+          "coords": [
+            13.933285,
+            42.803673
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser römischen Villa, um die Antike zu erleben, aber bringen Sie Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Fedezze fel e római villa romjait, hogy bepillantást nyerjen az ókori életbe, de hozzon vizet, mert a területen kevés az árnyék.",
+            "ro": "Explorați ruinele acestei vile romane pentru o perspectivă antică, dar aduceți apă deoarece zona nu oferă prea multă umbră pentru turiști.",
+            "en": "Explore these ancient Roman villa ruins to glimpse everyday life in antiquity, but bring water since there's little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santa Maria",
+            "hu": "Chiesa Santa Maria",
+            "ro": "Chiesa Santa Maria",
+            "en": "Chiesa Santa Maria"
+          },
+          "coords": [
+            13.93356,
+            42.821975
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die elegante sakrale Kunst zu betrachten, und sprechen Sie aus Respekt vor den Gläubigen leise.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megfigyelhesse elegáns vallási művészetét, halkan beszélve a helyi hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică liniștită pentru a observa arta religioasă elegantă, păstrând o voce scăzută din respect pentru credincioși.",
+            "en": "Step inside this peaceful church to observe its simple yet elegant religious art, keeping your voice low out of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Frontemare",
+            "hu": "Frontemare",
+            "ro": "Frontemare",
+            "en": "Frontemare"
+          },
+          "coords": [
+            13.953564,
+            42.783814
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem beliebten Treffpunkt am Wasser, der sich dank sanfter Wellen ideal für ein abendliches Bad eignet.",
+            "hu": "Zárja kirándulását ezen a népszerű vízparti találkozóhelyen, amely finom hullámaival tökéletesen alkalmas egy esti, pihentető úszásra.",
+            "ro": "Încheiați-vă ziua în acest loc popular pe malul mării, renumit pentru valurile blânde, perfect pentru o înotare relaxantă la apus.",
+            "en": "Conclude your trip at this popular waterfront gathering spot known for gentle waves, perfectly suited for a relaxing twilight swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tortoreto bietet eine wunderbare Mischung aus Geschichte und Küstenentspannung. Der Morgen beginnt mit Denkmälern und römischen Ruinen. Mittags lockt der weiche Sand der Adria. Der Nachmittag eignet sich perfekt zur Erkundung der lebhaften Strandpromenade. Abends genießen Sie den Sonnenuntergang.",
+        "hu": "Tortoreto a történelem és a tengerparti pihenés csodás keveréke. A reggel műemlékekkel és római romokkal indul. Délben az Adriai-tenger lágy homokja várja. A délután tökéletes a nyüzsgő part menti sétányok felfedezésére. Az este pedig egy pihentető tengerparti naplementével zárul.",
+        "ro": "Tortoreto oferă un amestec minunat de istorie și relaxare pe coastă. Dimineața începe cu monumente istorice și ruine romane. La prânz, nisipul fin al Adriaticii te așteaptă. După-amiaza este perfectă pentru a explora zonele animate de pe plajă. Seara se încheie cu un apus relaxant la mare.",
+        "en": "Tortoreto offers a wonderful blend of history and coastal relaxation. Morning starts with historical monuments and Roman ruins. Midday brings you to the soft sands of the Adriatic. Afternoon is perfect for exploring the lively beachfront areas. Evening concludes with a relaxing sunset by the sea."
+      }
+    }
+  }
+}

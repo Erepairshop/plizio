@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-potes-cities-v2",
+  "anchor": {
+    "name": "Potes",
+    "coords": [
+      -4.623333,
+      43.153611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de San Pedro",
+            "hu": "Torre de San Pedro",
+            "ro": "Turnul San Pedro",
+            "en": "Torre de San Pedro"
+          },
+          "coords": [
+            -4.623195,
+            43.152945
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser wehrhafte Turm erzählt von der mittelalterlichen Geschichte des Tals, also kommen Sie früh, um die besten Fotolichtverhältnisse ohne Menschenmassen zu genießen.",
+            "hu": "Ez a középkori erődítmény a völgy gazdag történelméről mesél, érdemes a reggeli órákban érkezni a legszebb fények és a nyugodtabb fotózás érdekében.",
+            "ro": "Acest turn fortificat povestește istoria medievală a văii, așa că veniți devreme pentru a prinde cea mai bună lumină de dimineață fără mulțimi aglomerate.",
+            "en": "This fortified tower tells the medieval history of the valley, so be sure to arrive early to capture the best morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Oso",
+            "hu": "Medvék háza",
+            "ro": "Casa Ursului",
+            "en": "Casa del Oso"
+          },
+          "coords": [
+            -4.62392,
+            43.153982
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Das Museum widmet sich dem Schutz der kantabrischen Braunbären und bietet interaktive Ausstellungen, die Sie am besten mit einem Audioguide erkunden sollten.",
+            "hu": "A kantábriai barnamedvék védelmére fókuszáló múzeum interaktív kiállításait leginkább az ingyenes audióvezető segítségével érdemes részletesen felfedezni.",
+            "ro": "Muzeul este dedicat protejării ursului brun cantabric, iar expozițiile sale interactive sunt cel mai bine explorate folosind ghidul audio gratuit de la intrare.",
+            "en": "Dedicated to Cantabrian brown bear conservation, this museum features interactive exhibits that are best explored using the free audio guide available at entry."
+          }
+        },
+        {
+          "name": {
+            "de": "A la Alquitara",
+            "hu": "A la Alquitara",
+            "ro": "A la Alquitara",
+            "en": "A la Alquitara"
+          },
+          "coords": [
+            -4.624902,
+            43.154338
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die traditionelle Schnapsbrennerei in der Region; fragen Sie unbedingt nach einer kleinen Verkostung des lokalen Orujo-Likörs.",
+            "hu": "Ismerje meg a helyi lepárlás hagyományait ezen a történelmi helyszínen, és mindenképpen kérjen egy kis kóstolót a híres helyi Orujo likőrből.",
+            "ro": "Aflați secretele distilării tradiționale a băuturilor locale aici și nu uitați să cereți o mică degustare din faimosul lichior Orujo la finalul vizitei.",
+            "en": "Discover the traditional liquor distillation process of the region here, and make sure to ask for a small tasting of the famous local Orujo spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Városi uszoda",
+            "ro": "Piscina municipală",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -4.637031,
+            43.156282
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zur Abkühlung nach einem langen Vormittag, vergessen Sie nicht, ein eigenes Handtuch und etwas Bargeld für den Eintritt mitzubringen.",
+            "hu": "Tökéletes helyszín a hűsölésre egy hosszú délelőtt után, ne felejtsen el saját törölközőt és készpénzt hozni a belépőjegy megvásárlásához.",
+            "ro": "Un loc perfect pentru a vă răcori după o dimineață plină, amintiți-vă să aduceți propriul prosop și bani gheață pentru taxa de intrare la piscină.",
+            "en": "A perfect spot to cool down after a busy morning, just remember to bring your own towel and some cash for the entrance fee to the facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Horno tosta blenda",
+            "hu": "Horno tosta blenda",
+            "ro": "Horno tosta blenda",
+            "en": "Horno tosta blenda"
+          },
+          "coords": [
+            -4.612242,
+            43.160515
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dieses alte Industriegebäude ist ein stummer Zeuge des Bergbaus; gutes Schuhwerk ist ratsam, um das umliegende steinige Gelände sicher zu erkunden.",
+            "hu": "Ez az ipari műemlék a helyi bányászat csendes tanúja, érdemes kényelmes és zárt cipőben érkezni a köves környék biztonságos felfedezéséhez.",
+            "ro": "Acest vechi sit industrial este un martor tăcut al trecutului minier; purtați încălțăminte solidă pentru a explora în siguranță terenul stâncos din jur.",
+            "en": "This old industrial site is a silent witness to local mining history; sturdy footwear is highly recommended to safely navigate the rocky surrounding area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum bei den massiven Mauern des Torre de San Pedro. Von dort aus tauchen Sie in der Casa del Oso in die faszinierende Tierwelt der Kantabrischen Berge ein.\n\nZur Mittagszeit locken die Geheimnisse der traditionellen Schnapsbrennerei bei A la Alquitara. Hier können Sie die Handwerkskunst bewundern und etwas über lokale Spezialitäten lernen.\n\nAm Nachmittag spazieren Sie entspannt zur Piscina municipal, um sich im kühlen Wasser zu erfrischen und neue Energie zu tanken.\n\nDer Tag endet mit einem Spaziergang zum industriellen Wahrzeichen Horno tosta blenda, wo Sie die Geschichte des Bergbaus vor der Kulisse der Berge auf sich wirken lassen können.",
+        "hu": "A napot a történelmi központban kezdi a Torre de San Pedro impozáns falainál. Innen a Casa del Oso felé veszi az irányt, ahol a kantábriai hegyek különleges vadvilágával ismerkedhet meg.\n\nDélben az A la Alquitara várja, ahol betekintést nyerhet a hagyományos helyi lepárlás titkaiba és megcsodálhatja a kézműves mesterséget.\n\nDélután egy kellemes séta után a városi uszodában hűsölhet, amely tökéletes felüdülést nyújt az aktív délelőtti programok után.\n\nKéső délután a Horno tosta blenda ipari műemlékéhez látogat, amely a környék bányászati múltjának izgalmas emlékét őrzi a lenyűgöző hegyi tájban.",
+        "ro": "Ziua începe în centrul istoric lângă zidurile masive ale Turnului San Pedro. De acolo, veți descoperi fauna fascinantă a munților cantabrici vizitând Casa Ursului.\n\nLa amiază, secretele distilării tradiționale vă așteaptă la A la Alquitara. Este o ocazie excelentă de a înțelege meșteșugurile locale și tradițiile regiunii.\n\nDupă-amiaza, o plimbare relaxantă vă duce la piscina municipală, unde vă puteți răcori și relaxa după vizitele intense din prima parte a zilei.\n\nZiua se încheie cu o vizită la monumentul industrial Horno tosta blenda, un loc perfect pentru a reflecta asupra istoriei miniere pe fundalul impresionant al munților.",
+        "en": "Your day starts in the historical center by the massive walls of Torre de San Pedro. From there, you will delve into the fascinating wildlife of the Cantabrian Mountains at Casa del Oso.\n\nAt midday, the secrets of traditional distillation await you at A la Alquitara. It is a wonderful chance to appreciate local craftsmanship and heritage.\n\nIn the afternoon, a pleasant walk takes you to the municipal pool, offering a refreshing break and a chance to unwind after the morning's exploration.\n\nThe day concludes with a stroll to the industrial landmark Horno tosta blenda, allowing you to absorb the region's mining history against the beautiful mountain backdrop."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 2.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de San Pedro",
+            "hu": "Torre de San Pedro",
+            "ro": "Turnul San Pedro",
+            "en": "Torre de San Pedro"
+          },
+          "coords": [
+            -4.623195,
+            43.152945
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser wehrhafte Turm erzählt von der mittelalterlichen Geschichte des Tals, also kommen Sie früh, um die besten Fotolichtverhältnisse ohne Menschenmassen zu genießen.",
+            "hu": "Ez a középkori erődítmény a völgy gazdag történelméről mesél, érdemes a reggeli órákban érkezni a legszebb fények és a nyugodtabb fotózás érdekében.",
+            "ro": "Acest turn fortificat povestește istoria medievală a văii, așa că veniți devreme pentru a prinde cea mai bună lumină de dimineață fără mulțimi aglomerate.",
+            "en": "This fortified tower tells the medieval history of the valley, so be sure to arrive early to capture the best morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Oso",
+            "hu": "Medvék háza",
+            "ro": "Casa Ursului",
+            "en": "Casa del Oso"
+          },
+          "coords": [
+            -4.62392,
+            43.153982
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Das Museum widmet sich dem Schutz der kantabrischen Braunbären und bietet interaktive Ausstellungen, die Sie am besten mit einem Audioguide erkunden sollten.",
+            "hu": "A kantábriai barnamedvék védelmére fókuszáló múzeum interaktív kiállításait leginkább az ingyenes audióvezető segítségével érdemes részletesen felfedezni.",
+            "ro": "Muzeul este dedicat protejării ursului brun cantabric, iar expozițiile sale interactive sunt cel mai bine explorate folosind ghidul audio gratuit de la intrare.",
+            "en": "Dedicated to Cantabrian brown bear conservation, this museum features interactive exhibits that are best explored using the free audio guide available at entry."
+          }
+        },
+        {
+          "name": {
+            "de": "A la Alquitara",
+            "hu": "A la Alquitara",
+            "ro": "A la Alquitara",
+            "en": "A la Alquitara"
+          },
+          "coords": [
+            -4.624902,
+            43.154338
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die traditionelle Schnapsbrennerei in der Region; fragen Sie unbedingt nach einer kleinen Verkostung des lokalen Orujo-Likörs.",
+            "hu": "Ismerje meg a helyi lepárlás hagyományait ezen a történelmi helyszínen, és mindenképpen kérjen egy kis kóstolót a híres helyi Orujo likőrből.",
+            "ro": "Aflați secretele distilării tradiționale a băuturilor locale aici și nu uitați să cereți o mică degustare din faimosul lichior Orujo la finalul vizitei.",
+            "en": "Discover the traditional liquor distillation process of the region here, and make sure to ask for a small tasting of the famous local Orujo spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Városi uszoda",
+            "ro": "Piscina municipală",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -4.637031,
+            43.156282
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zur Abkühlung nach einem langen Vormittag, vergessen Sie nicht, ein eigenes Handtuch und etwas Bargeld für den Eintritt mitzubringen.",
+            "hu": "Tökéletes helyszín a hűsölésre egy hosszú délelőtt után, ne felejtsen el saját törölközőt és készpénzt hozni a belépőjegy megvásárlásához.",
+            "ro": "Un loc perfect pentru a vă răcori după o dimineață plină, amintiți-vă să aduceți propriul prosop și bani gheață pentru taxa de intrare la piscină.",
+            "en": "A perfect spot to cool down after a busy morning, just remember to bring your own towel and some cash for the entrance fee to the facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de San Miguel",
+            "hu": "San Miguel kilátó",
+            "ro": "Punctul de belvedere San Miguel",
+            "en": "Mirador de San Miguel"
+          },
+          "coords": [
+            -4.650445,
+            43.154013
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieser Aussichtspunkt bietet ein atemberaubendes Panorama; packen Sie eine windfeste Jacke ein, da es hier oben selbst an sonnigen Tagen recht frisch werden kann.",
+            "hu": "A kilátó lenyűgöző panorámát nyújt a völgyre, érdemes szélkabátot is vinni, mivel a nyitott hegygerincen gyakran erősen fúj a szél.",
+            "ro": "Acest punct de belvedere oferă o panoramă uimitoare; luați cu dumneavoastră o jachetă de vânt, deoarece poate fi destul de răcoros aici sus chiar și în zilele însorite.",
+            "en": "This viewpoint offers a breathtaking panorama of the valley; pack a windproof jacket as it can get quite breezy up here even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Catalina",
+            "hu": "Santa Catalina kápolna",
+            "ro": "Schitul Santa Catalina",
+            "en": "Ermita de Santa Catalina"
+          },
+          "coords": [
+            -4.652654,
+            43.152817
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese abgeschiedene Einsiedelei ist ein Ort der absoluten Ruhe; achten Sie darauf, beim Erkunden der alten Mauern leise zu sprechen, um die Atmosphäre zu wahren.",
+            "hu": "Ez az eldugott kápolna a teljes nyugalom szigete, kérjük, halkan beszélgessen a régi falak között, hogy megőrizze a hely békés atmoszféráját.",
+            "ro": "Acest schit retras este un loc de liniște absolută; asigurați-vă că vorbiți încet în timp ce explorați vechile ziduri pentru a menține atmosfera.",
+            "en": "This secluded hermitage is a place of absolute tranquility; please keep your voice low while exploring the ancient walls to preserve the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Morgen mit dem Fahrrad am historischen Torre de San Pedro. Die flachen Straßen führen Sie schnell zur Casa del Oso, wo Sie die heimische Natur entdecken.\n\nGegen Mittag radeln Sie zum A la Alquitara, um die Destillationskunst der Region kennenzulernen. Es ist ein faszinierender Einblick in die kantabrische Kultur.\n\nNachmittags bringt Sie eine kurze Fahrt zur städtischen Schwimmbad, wo Sie sich herrlich erfrischen können. Die Strecke dorthin bietet schöne Ausblicke.\n\nAm späten Nachmittag erklimmen Sie die Wege zum Mirador de San Miguel und beenden den Tag in der friedlichen Stille der Ermita de Santa Catalina hoch über dem Tal.",
+        "hu": "Reggel a történelmi Torre de San Pedro falainál indítja biciklis túráját. Innen könnyű tekeréssel éri el a Casa del Oso-t, a helyi vadvilág izgalmas bemutatóhelyét.\n\nDélben az A la Alquitara felé veszi az irányt, ahol a hagyományos helyi lepárlás fortélyait tanulmányozhatja. Ez egy remek kulturális megálló.\n\nDélután egy rövid kerékpározás után a városi uszoda hűs vizében pihenheti ki a nap eddigi fáradalmait. Az út során gyönyörű tájakban gyönyörködhet.\n\nKéső délután a magasabb fekvésű Mirador de San Miguel kilátóhoz teker, végül pedig a békés Ermita de Santa Catalina kápolnánál zárja a napot.",
+        "ro": "Începeți dimineața pe bicicletă la istoricul Turn San Pedro. Străzile scurte vă duc rapid la Casa Ursului, unde veți descoperi natura uimitoare a zonei.\n\nSpre prânz, pedalați către A la Alquitara pentru a explora arta distilării din regiune. Este o privire fascinantă asupra culturii cantabrice.\n\nDupă-amiaza, o scurtă plimbare vă duce la piscina municipală, perfectă pentru o pauză răcoritoare. Traseul oferă peisaje locale foarte frumoase.\n\nDupă-amiaza târziu urcați spre Punctul de belvedere San Miguel și încheiați ziua în liniștea deplină de la Schitul Santa Catalina, sus deasupra văii.",
+        "en": "Start your morning cycling at the historic Torre de San Pedro. The short streets quickly lead you to Casa del Oso, where you can discover the amazing local nature.\n\nAround midday, pedal over to A la Alquitara to explore the region's art of distillation. It offers a fascinating glimpse into Cantabrian culture.\n\nIn the afternoon, a short ride brings you to the municipal pool, which is perfect for a refreshing break. The route there is quite scenic.\n\nLate in the afternoon, ride up to the Mirador de San Miguel viewpoint and conclude your day in the profound peace of the Ermita de Santa Catalina hermitage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 7.02,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Caseta de Camarines",
+            "hu": "Caseta de Camarines",
+            "ro": "Caseta de Camarines",
+            "en": "Caseta de Camarines"
+          },
+          "coords": [
+            -4.619467,
+            43.134462
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese malerische Hütte ist ein perfekter Startpunkt für Naturfotografen; parken Sie das Auto am Rande und laufen Sie die letzten Meter zu Fuß.",
+            "hu": "Ez a festői erdei menedékház remek kiindulópont a természetfotósoknak, érdemes a közelben leparkolni és az utolsó métereket gyalog megtenni.",
+            "ro": "Această cabană pitorească este un punct de plecare perfect pentru fotografi; parcați mașina la margine și mergeți pe jos ultimii câțiva metri.",
+            "en": "This picturesque natural spot is a perfect starting point for nature photographers; park your car nearby and walk the final few meters to enjoy the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de San Pedro",
+            "hu": "Torre de San Pedro",
+            "ro": "Turnul San Pedro",
+            "en": "Torre de San Pedro"
+          },
+          "coords": [
+            -4.623195,
+            43.152945
+          ],
+          "category": "castle",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Dieser wehrhafte Turm erzählt von der mittelalterlichen Geschichte des Tals, also kommen Sie früh, um die besten Fotolichtverhältnisse ohne Menschenmassen zu genießen.",
+            "hu": "Ez a középkori erődítmény a völgy gazdag történelméről mesél, érdemes a reggeli órákban érkezni a legszebb fények és a nyugodtabb fotózás érdekében.",
+            "ro": "Acest turn fortificat povestește istoria medievală a văii, așa că veniți devreme pentru a prinde cea mai bună lumină de dimineață fără mulțimi aglomerate.",
+            "en": "This fortified tower tells the medieval history of the valley, so be sure to arrive early to capture the best morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Oso",
+            "hu": "Medvék háza",
+            "ro": "Casa Ursului",
+            "en": "Casa del Oso"
+          },
+          "coords": [
+            -4.62392,
+            43.153982
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Das Museum widmet sich dem Schutz der kantabrischen Braunbären und bietet interaktive Ausstellungen, die Sie am besten mit einem Audioguide erkunden sollten.",
+            "hu": "A kantábriai barnamedvék védelmére fókuszáló múzeum interaktív kiállításait leginkább az ingyenes audióvezető segítségével érdemes részletesen felfedezni.",
+            "ro": "Muzeul este dedicat protejării ursului brun cantabric, iar expozițiile sale interactive sunt cel mai bine explorate folosind ghidul audio gratuit de la intrare.",
+            "en": "Dedicated to Cantabrian brown bear conservation, this museum features interactive exhibits that are best explored using the free audio guide available at entry."
+          }
+        },
+        {
+          "name": {
+            "de": "A la Alquitara",
+            "hu": "A la Alquitara",
+            "ro": "A la Alquitara",
+            "en": "A la Alquitara"
+          },
+          "coords": [
+            -4.624902,
+            43.154338
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die traditionelle Schnapsbrennerei in der Region; fragen Sie unbedingt nach einer kleinen Verkostung des lokalen Orujo-Likörs.",
+            "hu": "Ismerje meg a helyi lepárlás hagyományait ezen a történelmi helyszínen, és mindenképpen kérjen egy kis kóstolót a híres helyi Orujo likőrből.",
+            "ro": "Aflați secretele distilării tradiționale a băuturilor locale aici și nu uitați să cereți o mică degustare din faimosul lichior Orujo la finalul vizitei.",
+            "en": "Discover the traditional liquor distillation process of the region here, and make sure to ask for a small tasting of the famous local Orujo spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Horno tosta blenda",
+            "hu": "Horno tosta blenda",
+            "ro": "Horno tosta blenda",
+            "en": "Horno tosta blenda"
+          },
+          "coords": [
+            -4.612242,
+            43.160515
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieses alte Industriegebäude ist ein stummer Zeuge des Bergbaus; gutes Schuhwerk ist ratsam, um das umliegende steinige Gelände sicher zu erkunden.",
+            "hu": "Ez az ipari műemlék a helyi bányászat csendes tanúja, érdemes kényelmes és zárt cipőben érkezni a köves környék biztonságos felfedezéséhez.",
+            "ro": "Acest vechi sit industrial este un martor tăcut al trecutului minier; purtați încălțăminte solidă pentru a explora în siguranță terenul stâncos din jur.",
+            "en": "This old industrial site is a silent witness to local mining history; sturdy footwear is highly recommended to safely navigate the rocky surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de San Miguel",
+            "hu": "San Miguel kilátó",
+            "ro": "Punctul de belvedere San Miguel",
+            "en": "Mirador de San Miguel"
+          },
+          "coords": [
+            -4.650445,
+            43.154013
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Dieser Aussichtspunkt bietet ein atemberaubendes Panorama; packen Sie eine windfeste Jacke ein, da es hier oben selbst an sonnigen Tagen recht frisch werden kann.",
+            "hu": "A kilátó lenyűgöző panorámát nyújt a völgyre, érdemes szélkabátot is vinni, mivel a nyitott hegygerincen gyakran erősen fúj a szél.",
+            "ro": "Acest punct de belvedere oferă o panoramă uimitoare; luați cu dumneavoastră o jachetă de vânt, deoarece poate fi destul de răcoros aici sus chiar și în zilele însorite.",
+            "en": "This viewpoint offers a breathtaking panorama of the valley; pack a windproof jacket as it can get quite breezy up here even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Catalina",
+            "hu": "Santa Catalina kápolna",
+            "ro": "Schitul Santa Catalina",
+            "en": "Ermita de Santa Catalina"
+          },
+          "coords": [
+            -4.652654,
+            43.152817
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese abgeschiedene Einsiedelei ist ein Ort der absoluten Ruhe; achten Sie darauf, beim Erkunden der alten Mauern leise zu sprechen, um die Atmosphäre zu wahren.",
+            "hu": "Ez az eldugott kápolna a teljes nyugalom szigete, kérjük, halkan beszélgessen a régi falak között, hogy megőrizze a hely békés atmoszféráját.",
+            "ro": "Acest schit retras este un loc de liniște absolută; asigurați-vă că vorbiți încet în timp ce explorați vechile ziduri pentru a menține atmosfera.",
+            "en": "This secluded hermitage is a place of absolute tranquility; please keep your voice low while exploring the ancient walls to preserve the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Umland bei der charmanten Caseta de Camarines. Danach fahren Sie ins Zentrum, wo Sie das Auto parken und den mächtigen Torre de San Pedro besuchen.\n\nVom Turm aus spazieren Sie bequem zur Casa del Oso und weiter zum A la Alquitara. Dieser Streifzug durch das Zentrum ist ideal, um die Kultur hautnah zu erleben.\n\nNach dem Mittag setzen Sie sich wieder ins Auto und erreichen in kurzer Zeit das Bergbau-Relikt Horno tosta blenda, das Sie auf eine Reise in die industrielle Vergangenheit mitnimmt.\n\nDer Nachmittag gipfelt in einer Fahrt hinauf zum Mirador de San Miguel für spektakuläre Fotos, gefolgt von der friedlichen Atmosphäre der nahegelegenen Ermita de Santa Catalina.",
+        "hu": "Autós túrája a csendes Caseta de Camarines természeti környezetében indul. Ezután a központba hajt, leparkol, és meglátogatja az impozáns Torre de San Pedro-t.\n\nA toronytól egy rövid sétával eléri a Casa del Oso-t, majd az A la Alquitara-t. A belvárosi séta során igazán elmélyülhet a helyi kultúrában és történelemben.\n\nEbéd után újra autóba ül, hogy meglátogassa a Horno tosta blenda ipari emlékművét, amely a környék bányászati múltját idézi meg.\n\nA délután fénypontjaként felvezet a Mirador de San Miguel kilátóhoz lenyűgöző fotókért, végül a közeli Ermita de Santa Catalina kápolnánál zárja a napot teljes nyugalomban.",
+        "ro": "Turul dumneavoastră cu mașina începe la fermecătoarea Caseta de Camarines. Apoi conduceți spre centru, parcați și vizitați masivul Turn San Pedro.\n\nDe la turn, mergeți pe jos către Casa Ursului și apoi la A la Alquitara. Această plimbare prin centrul orașului este perfectă pentru a experimenta cultura locală îndeaproape.\n\nDupă prânz, vă întoarceți la mașină și ajungeți rapid la relicva minieră Horno tosta blenda, care vă poartă într-o călătorie în trecutul industrial.\n\nDupă-amiaza culminează cu un drum spre Punctul de belvedere San Miguel pentru fotografii spectaculoase, urmat de atmosfera liniștită de la Schitul Santa Catalina.",
+        "en": "Your driving tour begins in the serene surroundings of Caseta de Camarines. Afterwards, you will drive to the center, park the car, and visit the imposing Torre de San Pedro.\n\nFrom the tower, you can easily walk to Casa del Oso and then A la Alquitara. Exploring the center on foot provides an intimate look at the local culture and heritage.\n\nAfter lunch, hop back in your car to visit the industrial relic Horno tosta blenda, which offers a unique glimpse into the region's mining history.\n\nThe afternoon peaks with a scenic drive up to Mirador de San Miguel for breathtaking photos, followed by a peaceful conclusion at the nearby Ermita de Santa Catalina."
+      }
+    }
+  }
+}

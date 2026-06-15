@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-fornells-cities-v2",
+  "anchor": {
+    "name": "Fornells",
+    "coords": [
+      4.128478,
+      40.05352
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Sant Antonio",
+            "hu": "Castell de Sant Antonio",
+            "ro": "Castell de Sant Antonio",
+            "en": "Castell de Sant Antonio"
+          },
+          "coords": [
+            4.133178,
+            40.057341
+          ],
+          "category": "historical",
+          "arrive_at": "09:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Küstenfestung aus dem 17. Jahrhundert, um die Geschichte zu verstehen, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel a 17. századi partmenti erődítmény romjait, hogy megértse a helyi történelmet, de viseljen masszív cipőt az egyenetlen terepen való sétához.",
+            "ro": "Explorați ruinele acestei fortărețe de coastă din secolul al XVII-lea pentru a înțelege istoria locală, dar purtați încălțăminte robustă pentru teren.",
+            "en": "Explore the ruins of this 17th-century coastal fortress to understand local history, but wear sturdy shoes to safely navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Bateria de costa",
+            "hu": "Bateria de costa",
+            "ro": "Bateria de costa",
+            "en": "Bateria de costa"
+          },
+          "coords": [
+            4.133343,
+            40.05946
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Küstenbatterie mit Panoramablick auf das Mittelmeer und bringen Sie eine Windjacke mit, da die Meeresbrise stark ist.",
+            "hu": "Fedezze fel ezt a történelmi parti üteget, amely panorámás kilátást nyújt a Földközi-tengerre, és hozzon magával széldzsekit az erős tengeri szél miatt.",
+            "ro": "Descoperiți această baterie de coastă istorică oferind vederi panoramice la Mediterană și aduceți o jachetă de vânt deoarece briza mării este puternică.",
+            "en": "Discover this historical coastal battery offering panoramic views of the Mediterranean, and bring a windbreaker since the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua bateria de costa",
+            "hu": "Antigua bateria de costa",
+            "ro": "Antigua bateria de costa",
+            "en": "Antigua bateria de costa"
+          },
+          "coords": [
+            4.133203,
+            40.061193
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie weiter nach Norden, um die älteren Artilleriestellungen zu untersuchen, und kommen Sie früh am Tag, um der intensiven Nachmittagssonne zu entgehen.",
+            "hu": "Sétáljon északabbra, hogy megvizsgálja az öböl bejáratát őrző régebbi tüzérségi állásokat, és érkezzen korán, hogy elkerülje az erős délutáni napsütést.",
+            "ro": "Mergeți spre nord pentru a examina vechile amplasamente de artilerie care păzesc golful și ajungeți devreme pentru a evita soarele intens de după-amiază.",
+            "en": "Walk further north to examine the older artillery emplacements guarding the bay's entrance, arriving early in the day to avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Lorda",
+            "hu": "Ermita de Lorda",
+            "ro": "Ermita de Lorda",
+            "en": "Ermita de Lorda"
+          },
+          "coords": [
+            4.131861,
+            40.0617
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre dieser kleinen weißen Einsiedelei mit Blick aufs Meer und verhalten Sie sich ruhig, um die Gläubigen zu respektieren.",
+            "hu": "Csodálja meg ennek a kis, tengerre néző, fehérre meszelt remetelaknak a békés hangulatát, és maradjon csendben, hogy tisztelje a helyi hívőket.",
+            "ro": "Admirați atmosfera pașnică a acestui mic schit religios văruit în alb cu vedere la mare, păstrând liniștea în interior pentru a respecta credincioșii.",
+            "en": "Admire the peaceful atmosphere of this small whitewashed religious hermitage overlooking the sea, remaining quiet inside to respect the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenalet (Fornells)",
+            "hu": "S'Arenalet (Fornells)",
+            "ro": "S'Arenalet (Fornells)",
+            "en": "S'Arenalet (Fornells)"
+          },
+          "coords": [
+            4.141088,
+            40.056899
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Strand mit kristallklarem Wasser zum Schwimmen und packen Sie Snacks ein, da die Einrichtungen hier sehr begrenzt sind.",
+            "hu": "Pihenjen ezen az érintetlen, kristálytiszta vizű strandon, amely tökéletes egy frissítő úszáshoz, és csomagoljon rágcsálnivalót, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă curată cu ape cristaline perfecte pentru înot și aduceți gustări, deoarece facilitățile din apropiere sunt destul de limitate.",
+            "en": "Relax on this pristine recreational beach with crystal-clear waters perfect for a refreshing swim, and pack some snacks as facilities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang nach Norden und entdecken Sie die imposanten Überreste des Castell de Sant Antonio sowie die historischen Batterien. Setzen Sie Ihren Spaziergang zur Spitze der Halbinsel fort, um die alten Artilleriestellungen zu untersuchen, bevor Sie Ruhe in der weißen Ermita de Lorda finden. Lassen Sie die Denkmäler hinter sich und schlendern Sie entlang der menorquinischen Küste nach Süden, bis Sie den einladenden Sand von S'Arenalet zur Entspannung erreichen. Verbringen Sie Ihren Abend entspannt am Ufer, während die Sonne über dem Mittelmeer untergeht, und genießen Sie die ruhige Küstenatmosphäre, bevor Sie zurückkehren.",
+        "hu": "Kezdje a napot egy északi sétával a festői parti ösvényen, felfedezve a Castell de Sant Antonio lenyűgöző maradványait és a történelmi parti ütegeket. Folytassa sétáját a félsziget csücskéig, hogy megvizsgálja a régebbi tüzérségi állásokat, mielőtt békét keresne a fehérre meszelt Ermita de Lorda kápolnában. Hagyja maga mögött a történelmi műemlékeket, és sétáljon dél felé a gyönyörű menorcai partvonal mentén, amíg el nem éri S'Arenalet hívogató homokját. Töltse az estét a parton pihenve, miközben a nap leereszkedik a Földközi-tenger felett, élvezve a nyugodt tengerparti hangulatot, mielőtt visszatérne Fornells szívébe.",
+        "ro": "Începeți ziua mergând spre nord de-a lungul potecii pitorești de coastă, descoperind rămășițele impunătoare ale Castell de Sant Antonio și bateriile istorice. Continuați plimbarea până în vârful peninsulei pentru a examina vechile plasamente de artilerie înainte de a căuta un moment de pace la Ermita de Lorda. Lăsați în urmă monumentele istorice și plimbați-vă spre sud de-a lungul coastei frumoase menorcane, ajungând în cele din urmă la nisipurile atractive din S'Arenalet. Petreceți-vă seara relaxându-vă pe țărm în timp ce soarele coboară peste Mediterană, bucurându-vă de atmosfera liniștită de coastă înainte de a vă întoarce în Fornells.",
+        "en": "Start your day walking north along the scenic coastal path, discovering the imposing remains of Castell de Sant Antonio and exploring the nearby historic batteries guarding the entrance. Continue your walk to the very tip of the peninsula to examine the older artillery placements before seeking a moment of peace at the whitewashed Ermita de Lorda. Leave the historic monuments behind and stroll southwards along the beautiful Menorcan coastline, eventually reaching the inviting sands of S'Arenalet for some relaxation. Spend your evening unwinding by the shore as the sun lowers over the Mediterranean, enjoying the tranquil coastal atmosphere before heading back to the heart of Fornells."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Sant Antonio",
+            "hu": "Castell de Sant Antonio",
+            "ro": "Castell de Sant Antonio",
+            "en": "Castell de Sant Antonio"
+          },
+          "coords": [
+            4.133178,
+            40.057341
+          ],
+          "category": "historical",
+          "arrive_at": "09:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad bei den Ruinen der Küstenfestung, um mehr über die Vergangenheit zu erfahren, und schließen Sie es während Ihrer Erkundung gut ab.",
+            "hu": "Parkolja le kerékpárját a parti erőd romjainál, hogy megismerje a múltat, de zárja le biztonságosan, amíg a sziklás védőfalakat gyalogosan felfedezi.",
+            "ro": "Parcați bicicleta lângă ruinele acestei fortărețe pentru a afla despre istoria locală, dar asigurați-vă că este bine încuiată în timp ce explorați zidurile.",
+            "en": "Park your bike near the ruins of this coastal fortress to learn about Fornells' past, but lock it securely while you explore the rocky defensive walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Lorda",
+            "hu": "Ermita de Lorda",
+            "ro": "Ermita de Lorda",
+            "en": "Ermita de Lorda"
+          },
+          "coords": [
+            4.131861,
+            40.0617
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser ruhigen Einsiedelei hinauf, um atemberaubende Küstenpanoramen zu genießen und sich bei der tiefen Ruhe der Gegend etwas zu erholen.",
+            "hu": "Kerékpározzon fel ehhez a békés remetelakhoz a lenyűgöző tengerparti panorámáért, és tartson egy rövid pihenőt, hogy élvezze a környék mély nyugalmát.",
+            "ro": "Pedalați până la acest schit liniștit pentru panorame uimitoare de coastă, luând un moment pentru a vă trage respirația și a vă bucura de liniștea profundă.",
+            "en": "Cycle up to this serene religious hermitage for stunning coastal panoramas, taking a brief moment to catch your breath and enjoy the profound tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Cabra Salada",
+            "hu": "Cala Cabra Salada",
+            "ro": "Cala Cabra Salada",
+            "en": "Cala Cabra Salada"
+          },
+          "coords": [
+            4.143135,
+            40.055486
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in dieser geschützten Sandbucht, die sich ideal zum Schnorcheln eignet, und bringen Sie eigene Ausrüstung mit, da es keinen Verleih gibt.",
+            "hu": "Tartson szünetet ebben a védett homokos öbölben, amely ideális sznorkelezéshez, és hozzon saját maszkot és uszonyt, mivel itt nincs kölcsönzési lehetőség.",
+            "ro": "Faceți o pauză în acest golf nisipos adăpostit, ideal pentru snorkeling, asigurându-vă că vă aduceți propria mască deoarece nu există centre de închiriere.",
+            "en": "Take a break at this sheltered sandy cove ideal for snorkeling among marine life, ensuring you bring your own mask and fins since there are no rentals."
+          }
+        },
+        {
+          "name": {
+            "de": "es Pou de s'Albufereta",
+            "hu": "es Pou de s'Albufereta",
+            "ro": "es Pou de s'Albufereta",
+            "en": "es Pou de s'Albufereta"
+          },
+          "coords": [
+            4.142484,
+            40.048514
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem natürlichen Erholungsort, wo Süßwasser aufs Meer trifft, und halten Sie nach Vögeln Ausschau, während Sie Abstand zu den Nestern halten.",
+            "hu": "Álljon meg ezen a természetes rekreációs helyen, ahol az édesvíz találkozik a tengerrel, figyelje a helyi madarakat, és tartson tisztes távolságot a fészkektől.",
+            "ro": "Opriți-vă la acest loc de recreere natural unde apa dulce întâlnește marea, căutând păsări locale, menținând în același timp o distanță sigură de cuiburi.",
+            "en": "Stop by this natural recreational spot where freshwater meets the sea, looking out for local bird species while maintaining a respectful distance from nests."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia de Fornells",
+            "hu": "Badia de Fornells",
+            "ro": "Badia de Fornells",
+            "en": "Badia de Fornells"
+          },
+          "coords": [
+            4.132745,
+            40.04262
+          ],
+          "category": "landmark",
+          "arrive_at": "14:03",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Weite der Bucht, die ein Paradies für Wassersportler ist, und beobachten Sie Segelboote, während Sie Ihren Hut vor dem Wind schützen.",
+            "hu": "Csodálja meg a vízisportok kedvelőinek paradicsomát jelentő hatalmas öblöt, figyelje a vitorlásokat, miközben biztonságban tartja a kalapját a szél ellen.",
+            "ro": "Minunați-vă de întinderea vastă a golfului care este un paradis pentru sporturile acvatice, privind bărcile în timp ce vă protejați pălăria de vântul puternic.",
+            "en": "Marvel at the vast expanse of the bay which is a haven for water sports enthusiasts, watching the sailboats glide by while securing your hat against the wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Rotja",
+            "hu": "Cala Rotja",
+            "ro": "Cala Rotja",
+            "en": "Cala Rotja"
+          },
+          "coords": [
+            4.133688,
+            40.032512
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem atemberaubenden roten Strand, der perfekt für ein abendliches Schwimmen ist, und prüfen Sie vorab die Gezeitenbedingungen.",
+            "hu": "Fejezze be útját ezen a lenyűgöző, vöröses árnyalatú strandon, amely tökéletes egy esti úszáshoz, és ellenőrizze az árapályt, mielőtt leterítené a törülközőjét.",
+            "ro": "Încheiați plimbarea la această plajă uimitoare cu nuanțe roșiatice, perfectă pentru înotul de seară, verificând mareea înainte de a vă așeza prosopul pe nisip.",
+            "en": "Conclude your ride at this stunning red-hued beach perfect for an evening swim, checking the tide conditions before setting up your towel on the distinct sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zu den nördlichen Ruinen des Castell de Sant Antonio, um in die Geschichte einzutauchen, und fahren Sie weiter zur Ermita de Lorda für spektakuläre Ausblicke. Folgen Sie den Küstenwegen nach Osten zur Cala Cabra Salada für ein erfrischendes Bad und beobachten Sie später die vielfältige Tierwelt rund um es Pou de s'Albufereta. Gleiten Sie entlang der beeindruckenden Badia de Fornells nach Süden und halten Sie an, um die maritimen Aktivitäten und bunten Segel auf den blauen Gewässern zu bewundern. Beenden Sie Ihre Radtour an der einzigartig gefärbten Cala Rotja und nehmen Sie ein letztes Bad im abkühlenden Mittelmeer, während das Abendlicht den Himmel bunt färbt.",
+        "hu": "Kerékpározzon fel a Castell de Sant Antonio északi romjaihoz, majd tekerjen tovább a csendes Ermita de Lorda felé a csillogó tengerre nyíló látványos reggeli kilátásért. Kövesse a part menti ösvényeket kelet felé a Cala Cabra Salada irányába egy frissítő úszásért, majd figyelje meg a változatos vadvilágot az es Pou de s'Albufereta környékén. Guruljon dél felé a lenyűgöző Badia de Fornells mentén, megállva, hogy értékelje a nyüzsgő tengeri tevékenységeket és a hatalmas természetes öböl mélykék vizét pettyező színes vitorlákat. Fejezze be kerékpártúráját az egyedi színű Cala Rotja strandon, csobbanjon egy utolsót a hűsítő Földközi-tengerben, miközben az esti fény élénk árnyalatokra festi az eget.",
+        "ro": "Pedalați până la ruinele nordice ale Castell de Sant Antonio, apoi continuați spre liniștita Ermita de Lorda pentru priveliști matinale spectaculoase asupra mării. Urmați traseele de coastă spre est către Cala Cabra Salada pentru o baie răcoritoare, iar mai târziu observați fauna diversă din jurul zonei es Pou de s'Albufereta. Alunecați spre sud de-a lungul impresionantei Badia de Fornells, oprindu-vă pentru a aprecia activitățile maritime pline de viață și pânzele colorate care punctează apele albastre. Încheiați-vă călătoria cu bicicleta la Cala Rotja, viu colorată, făcând o ultimă baie în apele mediteraneene răcoroase în timp ce lumina serii pictează cerul.",
+        "en": "Cycle up to the northern ruins of Castell de Sant Antonio to delve into local history, then pedal onwards to the quiet Ermita de Lorda for spectacular morning views over the sparkling sea. Follow the coastal trails east towards Cala Cabra Salada for a refreshing swim, and later observe the diverse wildlife making its home around the serene es Pou de s'Albufereta. Glide south along the impressive Badia de Fornells, stopping to appreciate the bustling maritime activities and the colorful sails dotting the deep blue waters of the expansive natural bay. End your cycling journey at the uniquely colored Cala Rotja, taking a final dip in the cooling Mediterranean waters as the evening light paints the sky in vibrant shades before returning."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antigua bateria de costa",
+            "hu": "Antigua bateria de costa",
+            "ro": "Antigua bateria de costa",
+            "en": "Antigua bateria de costa"
+          },
+          "coords": [
+            4.133203,
+            40.061193
+          ],
+          "category": "historical",
+          "arrive_at": "09:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Nordrand der Insel, um diese faszinierenden militärischen Überreste zu inspizieren, und parken Sie nur auf den dafür vorgesehenen Plätzen.",
+            "hu": "Vezessen a sziget északi szélére, hogy megvizsgálja ezeket a lenyűgöző katonai maradványokat, és csak a kijelölt helyeken parkoljon, hogy ne akadályozza az utat.",
+            "ro": "Conduceți spre marginea de nord a insulei pentru a inspecta rămășițele militare fascinante, asigurându-vă că parcați doar în locurile special amenajate.",
+            "en": "Drive to the island's northern edge to inspect these fascinating military remnants, making sure to park only in designated spots to avoid blocking narrow roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Antonio",
+            "hu": "Castell de Sant Antonio",
+            "ro": "Castell de Sant Antonio",
+            "en": "Castell de Sant Antonio"
+          },
+          "coords": [
+            4.133178,
+            40.057341
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die rekonstruierten Bereiche dieser Festung, um sich die Piratenabwehr vorzustellen, und bringen Sie eine Kamera für die dramatischen Kontraste mit.",
+            "hu": "Lépjen be az erőd újjáépített részeibe, hogy elképzelje a kalózok elleni védelmet, és hozzon fényképezőgépet a kő és a tenger drámai kontrasztjának megörökítéséhez.",
+            "ro": "Pășiți în zonele reconstruite ale acestei fortărețe pentru a vă imagina apărarea împotriva piraților, aducând o cameră pentru a surprinde contrastul dramatic.",
+            "en": "Step inside the reconstructed areas of this fortress to imagine the pirate defenses, bringing a camera to capture the dramatic contrast between stone and sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Tirant",
+            "hu": "Cala Tirant",
+            "ro": "Cala Tirant",
+            "en": "Cala Tirant"
+          },
+          "coords": [
+            4.103752,
+            40.044237
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Westen zu diesem weitläufigen Sandstrand, der für seine Dünen bekannt ist, und achten Sie auf die Flaggenwarnungen bezüglich starker Strömungen.",
+            "hu": "Irány nyugat felé ez a hatalmas homokos strand, amely homokdűnéiről és kiváló szörfözési lehetőségeiről ismert, de figyeljen a heves áramlatokra figyelmeztető zászlókra.",
+            "ro": "Mergeți spre vest către această plajă nisipoasă întinsă, cunoscută pentru dunele sale, cu ochii pe avertismentele cu steaguri referitoare la curenții puternici.",
+            "en": "Head west to this expansive sandy beach known for its rolling dunes and excellent surfing conditions, keeping an eye on the flag warnings for strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia de Fornells",
+            "hu": "Badia de Fornells",
+            "ro": "Badia de Fornells",
+            "en": "Badia de Fornells"
+          },
+          "coords": [
+            4.132745,
+            40.04262
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Halten Sie an der Hauptbucht, um die lebhafte maritime Atmosphäre des Naturhafens zu genießen, und buchen Sie Bootstouren in den Sommermonaten weit im Voraus.",
+            "hu": "Álljon meg a fő öbölben, hogy értékelje a természetes kikötő nyüzsgő tengeri hangulatát, és a nyári csúcsidőszakban jó előre foglaljon le minden hajótúrát.",
+            "ro": "Opriți-vă în zona golfului principal pentru a aprecia atmosfera maritimă plină de viață a portului natural, rezervând tururile cu barca din timp în timpul verii.",
+            "en": "Stop by the main bay area to appreciate the lively maritime atmosphere of the natural harbor, booking any boat tours well in advance during peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de illa Sargantana",
+            "hu": "Torre de illa Sargantana",
+            "ro": "Torre de illa Sargantana",
+            "en": "Torre de illa Sargantana"
+          },
+          "coords": [
+            4.136389,
+            40.047525
+          ],
+          "category": "tower",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen ikonischen Wehrturm auf einer winzigen Insel in der Bucht, den Sie am besten mit einem Zoomobjektiv vom Ufer aus fotografieren sollten.",
+            "hu": "Tekintse meg ezt az ikonikus védőtornyot az öböl egyik apró szigetén, amelyet a partról a legjobb zoomobjektívvel fotózni, mivel a megközelítéshez hajó kell.",
+            "ro": "Admirați acest turn defensiv emblematic situat pe o mică insulă, cel mai bine fotografiat de pe țărm folosind un teleobiectiv, deoarece accesul necesită barcă.",
+            "en": "View this iconic defensive tower located on a tiny islet within the bay, best photographed from the shoreline using a zoom lens since access requires a boat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Pudent",
+            "hu": "Cala Pudent",
+            "ro": "Cala Pudent",
+            "en": "Cala Pudent"
+          },
+          "coords": [
+            4.158533,
+            40.045265
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie vorsichtig, um dieses verborgene Strandjuwel mit seinem türkisfarbenen Wasser zu besuchen, und verwenden Sie umweltfreundliche Sonnencreme für das Meer.",
+            "hu": "Parkoljon óvatosan, hogy meglátogassa ezt a rendkívüli türkizkék vizéről ismert rejtett strandot, és használjon környezetbarát naptejet a tengeri élővilág védelmében.",
+            "ro": "Parcați cu atenție pentru a vizita această bijuterie de plajă ascunsă cu ape turcoaz, aplicând protecție solară ecologică pentru a proteja viața marină fragilă.",
+            "en": "Park carefully to visit this hidden gem of a beach known for its extraordinary turquoise waters, applying eco-friendly sunscreen to protect the fragile marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Caló Verd",
+            "hu": "Caló Verd",
+            "ro": "Caló Verd",
+            "en": "Caló Verd"
+          },
+          "coords": [
+            4.162663,
+            40.044411
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an dieser wunderschönen, abgelegenen Bucht, die von Pinien umgeben ist, und kommen Sie vor Sonnenuntergang, um einen ruhigen Platz zu finden.",
+            "hu": "Zárja a napot ebben a gyönyörűen eldugott, fenyőfákkal körülvett, zöldes árnyalatú öbölben, és érkezzen naplemente előtt, hogy biztosítson egy békés helyet.",
+            "ro": "Încheiați ziua în acest golf retras, frumos nuanțat în verde și înconjurat de pini, ajungând înainte de apus pentru a vă asigura un loc liniștit pe stânci.",
+            "en": "End the day at this beautifully secluded green-tinted cove surrounded by pine trees, arriving slightly before sunset to secure a peaceful spot on the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum nördlichsten Kap, um die historischen Militärbatterien zu besichtigen, gefolgt von einem Stopp am Castell de Sant Antonio, um die Verteidigungsgeschichte zu entdecken. Steigen Sie ins Auto und fahren Sie nach Westen zum weitläufigen Sandstrand von Cala Tirant, wo Sie die kräftigen Wellen und atemberaubenden Dünenlandschaften genießen können. Fahren Sie zurück zur Hauptbucht von Fornells, bewundern Sie den Torre de illa Sargantana und setzen Sie Ihre Fahrt nach Osten fort, um das türkisfarbene Wasser der Cala Pudent zu finden. Beenden Sie Ihren Roadtrip am Caló Verd, einer herrlich abgelegenen Bucht inmitten von Pinien, wo Sie den Sonnenuntergang über dem ruhigen Meer beobachten können, bevor Sie zurückfahren.",
+        "hu": "Vezessen ki a távoli északi fokra, hogy megvizsgálja a történelmi katonai ütegeket, majd álljon meg a Castell de Sant Antonio erődítményben a sziget védelmi történelmének felfedezésére. Pattanjon be az autójába, és utazzon nyugat felé a Cala Tirant hatalmas homokjához, élvezve a robusztus hullámokat és a lenyűgöző dűnés tájakat, amelyek ezt a partszakaszt jellemzik. Cirkáljon vissza Fornells fő öble felé, tartson szünetet a nyílt vízi Torre de illa Sargantana megcsodálására, majd folytassa útját kelet felé a Cala Pudent rejtett vizének felfedezéséhez. Zárja festői autós körútját a Caló Verd fenyőkkel ölelt, eldugott öblében, ahol végignézheti, ahogy a lemenő nap tükröződik a nyugodt tengeren, mielőtt visszavezetne a városba.",
+        "ro": "Conduceți spre capul nordic îndepărtat pentru a inspecta bateriile militare istorice, urmat de o oprire la Castell de Sant Antonio pentru a descoperi istoria defensivă a insulei. Urcați în mașină și călătoriți spre vest către nisipurile întinse din Cala Tirant, bucurându-vă de valurile robuste și de peisajele uimitoare cu dune care definesc această coastă. Conduceți înapoi spre golful principal Fornells, oprindu-vă pentru a admira Torre de illa Sargantana din larg înainte de a continua spre est pentru a găsi apele turcoaz din Cala Pudent. Încheiați călătoria pitorească cu mașina la Caló Verd, un golf retras înconjurat de pini, unde puteți privi apusul reflectându-se pe marea calmă înainte de a vă întoarce în oraș.",
+        "en": "Drive out to the far northern cape to inspect the historical military batteries, followed by an immersive stop at Castell de Sant Antonio to uncover the fascinating defensive history of the island. Hop into your car and travel west to the expansive sands of Cala Tirant, enjoying the robust waves and stunning dune landscapes that define this beautiful stretch of Menorcan coastline. Cruise back towards the primary bay of Fornells, pausing to admire the offshore Torre de illa Sargantana before continuing your drive eastwards to find the hidden, turquoise waters of Cala Pudent. Conclude your scenic road trip at Caló Verd, a delightfully secluded cove surrounded by pine trees, where you can watch the sunset reflect off the calm sea before driving back to town."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "tijuana-cities-v2",
+  "anchor": {
+    "name": "Tijuana",
+    "coords": [
+      -117.0382,
+      32.5149
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 1.13,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Cera",
+            "hu": "Museo de Cera",
+            "ro": "Museo de Cera",
+            "en": "Museo de Cera"
+          },
+          "coords": [
+            -117.03577,
+            32.53661
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebensechten Figuren der mexikanischen Geschichte und Popkultur in diesem Wachsmuseum, wobei Sie am besten früh ankommen.",
+            "hu": "Fedezze fel a mexikói történelem és popkultúra élethű alakjait ebben az egyedi viaszmúzeumban, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Explorați figurile realiste ale istoriei și culturii pop mexicane în acest muzeu de ceară inedit, ajungând devreme pentru a evita aglomerația.",
+            "en": "Explore the lifelike figures of Mexican history and pop culture in this unique wax museum, arriving early to beat the crowds for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Tijuana",
+            "hu": "Museo de Tijuana",
+            "ro": "Museo de Tijuana",
+            "en": "Museo de Tijuana"
+          },
+          "coords": [
+            -117.038886,
+            32.534964
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die reiche Lokalgeschichte ein und prüfen Sie vor Beginn die Zeiten der Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag helyi történelmében ebben a lebilincselő múzeumban, és kezdés előtt ellenőrizze az időszaki kiállításokat.",
+            "ro": "Pătrundeți în bogata istorie locală a regiunii în acest muzeu captivant, verificând programul expozițiilor temporare înainte de a începe.",
+            "en": "Dive into the rich local history of the region in this engaging museum, checking the temporary exhibit schedules on the main floor before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro de la ciudad",
+            "hu": "Teatro de la ciudad",
+            "ro": "Teatro de la ciudad",
+            "en": "Teatro de la ciudad"
+          },
+          "coords": [
+            -117.037755,
+            32.531024
+          ],
+          "category": "cultural",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses erstklassigen Theaters und buchen Sie Tickets im Voraus, falls Sie eine Abendvorstellung besuchen.",
+            "hu": "Csodálja meg e kiemelkedő városi színház lenyűgöző építészetét, és foglaljon jegyet előre, ha este megtekintene egy izgalmas előadást.",
+            "ro": "Admirați arhitectura impresionantă a acestui teatru principal și rezervați bilete din timp dacă doriți să prindeți un spectacol de seară.",
+            "en": "Admire the striking architecture and cultural vibrancy of this premier city theater, booking tickets in advance if you wish to catch an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "MULLME Museum",
+            "hu": "MULLME Múzeum",
+            "ro": "Muzeul MULLME",
+            "en": "MULLME Museum"
+          },
+          "coords": [
+            -117.036781,
+            32.52966
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt des Lucha Libre und seiner Masken, und nehmen Sie sich Zeit für die Geschichten der legendären Luchadores.",
+            "hu": "Fedezze fel a Lucha Libre színes világát és ikonikus maszkjait, időt szánva a legendás pankrátorok mögött húzódó lenyűgöző történetekre.",
+            "ro": "Descoperiți lumea colorată a wrestling-ului Lucha Libre și măștile sale iconice, alocând timp pentru poveștile legendarelor luptători.",
+            "en": "Discover the colorful world of Lucha Libre wrestling and its iconic masks here, taking time to read the fascinating stories behind the legendary luchadores."
+          }
+        },
+        {
+          "name": {
+            "de": "El Foro - Antiguo Palacio jai-Alai",
+            "hu": "El Foro - Antiguo Palacio jai-Alai",
+            "ro": "El Foro - Antiguo Palacio jai-Alai",
+            "en": "El Foro - Antiguo Palacio jai-Alai"
+          },
+          "coords": [
+            -117.035642,
+            32.528717
+          ],
+          "category": "cultural",
+          "arrive_at": "15:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den maurischen Stil dieses ehemaligen Jai-Alai-Palasts und fotografieren Sie die atemberaubende Fassade im späten Nachmittagslicht.",
+            "hu": "Csodálja meg a mór stílusú, egykori Jai-Alai palotát, és örökítse meg a lenyűgöző homlokzatot a késő délutáni varázslatos fényekben.",
+            "ro": "Admirați stilul maur al acestui fost palat Jai-Alai și fotografiați fațada impresionantă în lumina caldă a după-amiezii târzii.",
+            "en": "Marvel at the Moorish revival style of this former Jai-Alai palace turned event venue, capturing the stunning facade during the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen der Stadt im Wachsmuseum, gefolgt vom lokalen Erbe im Museo de Tijuana. Mittags bestaunen Sie die Architektur des Teatro de la ciudad. Ihr Nachmittag verlagert sich in die bunte Welt des mexikanischen Wrestlings im MULLME. Der Abend endet mit dem bewundernswerten maurischen Design des berühmten El Foro.",
+        "hu": "A reggel a város szívében, a Viaszmúzeumban kezdődik, majd a Museo de Tijuana helyi öröksége következik. Délben a Teatro de la ciudad építészeti csodáit fedezheti fel. A délután folyamán a MULLME színes pankrátor-világába csöppenhet. Végül az este az El Foro lenyűgöző mór stílusú dizájnjának megcsodálásával zárul.",
+        "ro": "Dimineața începe în inima orașului la Muzeul de Ceară, urmat de patrimoniul local la Museo de Tijuana. La prânz admirați arhitectura impresionantă de la Teatro de la ciudad. După-amiaza se schimbă către lumea colorată a wrestling-ului la MULLME. În cele din urmă, seara se încheie admirând designul maur al superbului El Foro.",
+        "en": "Your morning starts in the heart of the city at the Wax Museum, followed by local heritage at Museo de Tijuana. Midday brings you to the grand Teatro de la ciudad for architectural marvels. Your afternoon shifts to the vibrant and colorful world of Mexican wrestling at MULLME. Finally, the evening concludes by admiring the stunning Moorish design of El Foro."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 3.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Cera",
+            "hu": "Museo de Cera",
+            "ro": "Museo de Cera",
+            "en": "Museo de Cera"
+          },
+          "coords": [
+            -117.03577,
+            32.53661
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebensechten Figuren der mexikanischen Geschichte und Popkultur in diesem Wachsmuseum, wobei Sie am besten früh ankommen.",
+            "hu": "Fedezze fel a mexikói történelem és popkultúra élethű alakjait ebben az egyedi viaszmúzeumban, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Explorați figurile realiste ale istoriei și culturii pop mexicane în acest muzeu de ceară inedit, ajungând devreme pentru a evita aglomerația.",
+            "en": "Explore the lifelike figures of Mexican history and pop culture in this unique wax museum, arriving early to beat the crowds for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "MULLME Museum",
+            "hu": "MULLME Múzeum",
+            "ro": "Muzeul MULLME",
+            "en": "MULLME Museum"
+          },
+          "coords": [
+            -117.036781,
+            32.52966
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt des Lucha Libre und seiner Masken, und nehmen Sie sich Zeit für die Geschichten der legendären Luchadores.",
+            "hu": "Fedezze fel a Lucha Libre színes világát és ikonikus maszkjait, időt szánva a legendás pankrátorok mögött húzódó lenyűgöző történetekre.",
+            "ro": "Descoperiți lumea colorată a wrestling-ului Lucha Libre și măștile sale iconice, alocând timp pentru poveștile legendarelor luptători.",
+            "en": "Discover the colorful world of Lucha Libre wrestling and its iconic masks here, taking time to read the fascinating stories behind the legendary luchadores."
+          }
+        },
+        {
+          "name": {
+            "de": "El Foro - Antiguo Palacio jai-Alai",
+            "hu": "El Foro - Antiguo Palacio jai-Alai",
+            "ro": "El Foro - Antiguo Palacio jai-Alai",
+            "en": "El Foro - Antiguo Palacio jai-Alai"
+          },
+          "coords": [
+            -117.035642,
+            32.528717
+          ],
+          "category": "cultural",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den maurischen Stil dieses ehemaligen Jai-Alai-Palasts und fotografieren Sie die atemberaubende Fassade im späten Nachmittagslicht.",
+            "hu": "Csodálja meg a mór stílusú, egykori Jai-Alai palotát, és örökítse meg a lenyűgöző homlokzatot a késő délutáni varázslatos fényekben.",
+            "ro": "Admirați stilul maur al acestui fost palat Jai-Alai și fotografiați fațada impresionantă în lumina caldă a după-amiezii târzii.",
+            "en": "Marvel at the Moorish revival style of this former Jai-Alai palace turned event venue, capturing the stunning facade during the late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Agua Caliente",
+            "hu": "Torre Agua Caliente",
+            "ro": "Torre Agua Caliente",
+            "en": "Torre Agua Caliente"
+          },
+          "coords": [
+            -117.032971,
+            32.522508
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen legendären Nachbau eines Turms mit einer Sport-Ruhmeshalle und nutzen Sie ein Weitwinkelobjektiv für tolle Aufnahmen.",
+            "hu": "Lépjen be a sport hírességek csarnokának is helyt adó ikonikus toronymásolatba, és hozzon nagylátószögű lencsét a magasság megörökítéséhez.",
+            "ro": "Intrați în acest turn replică iconic ce găzduiește un hol al faimei sportive, aducând un obiectiv cu unghi larg pentru a-i surprinde înălțimea.",
+            "en": "Step inside this iconic replica tower that houses a sports hall of fame, bringing a wide-angle lens to capture its impressive height against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Cuauhtemoc",
+            "hu": "Monumento Cuauhtemoc",
+            "ro": "Monumento Cuauhtemoc",
+            "en": "Monumento Cuauhtemoc"
+          },
+          "coords": [
+            -117.017667,
+            32.52471
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal für den letzten Aztekenkaiser an einem markanten Kreisverkehr die Ehre und seien Sie beim Überqueren der Straße vorsichtig.",
+            "hu": "Tiszteljen meg az utolsó azték császár tiszteletére emelt körforgalmi emlékművet, ügyelve a forgalomra, amikor átkel a fotózáshoz.",
+            "ro": "Aduceți un omagiu la acest monument giratoriu dedicat ultimului împărat aztec, traversând cu mare grijă intersecția aglomerată pentru fotografii.",
+            "en": "Pay respects at this prominent roundabout monument honoring the last Aztec emperor, exercising caution when crossing the busy traffic circle to take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Audiorama",
+            "hu": "Audiorama",
+            "ro": "Audiorama",
+            "en": "Audiorama"
+          },
+          "coords": [
+            -117.02229,
+            32.530541
+          ],
+          "category": "cultural",
+          "arrive_at": "16:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem kulturellen Freiluftraum, wo Musik und Kunst aufeinandertreffen, und suchen Sie sich ein schattiges Plätzchen auf dem Rasen.",
+            "hu": "Pihenjen meg ebben a kulturális szabadtéri térben, ahol a zene és a művészet találkozik, keresve egy árnyékos helyet a füvön a délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă în acest spațiu cultural în aer liber, unde muzica și arta se împletesc, găsind un loc umbrit pe iarbă pentru a vă odihni.",
+            "en": "Relax in this cultural open-air space where music and art frequently collide, finding a shaded spot on the grass to unwind after a busy afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zum faszinierenden Wachsmuseum, bevor Sie in die Lucha Libre-Kultur im MULLME eintauchen. Die Mittagsetappe führt Sie zur maurischen Fassade des El Foro. Am Nachmittag fahren Sie zum Torre Agua Caliente und tauchen in die Sportgeschichte ein. Ihr Abend endet am Monumento Cuauhtemoc und entspannt im Audiorama.",
+        "hu": "Kerékpározzon először a Viaszmúzeumhoz, majd merüljön el a Lucha Libre kultúrában a MULLME-ben. A déli tekerés az El Foro ikonikus mór homlokzatához vezet. Délután délre, a Torre Agua Caliente felé indul a sporttörténelem felfedezésére. Az este a Monumento Cuauhtemoc érintésével és az Audiorama pihentető hangulatával ér véget.",
+        "ro": "Pedați întâi spre fascinantul Muzeu de Ceară, apoi explorați cultura Lucha Libre la MULLME. Ciclismul de prânz vă aduce la fațada maură a El Foro. După-amiaza călătoriți spre Torre Agua Caliente pentru istoria sportului. Seara se încheie la Monumento Cuauhtemoc, urmată de o relaxare binemeritată la Audiorama.",
+        "en": "Pedal to the fascinating Wax Museum first before diving into the unique Lucha Libre culture at MULLME. Midday cycling takes you to the iconic Moorish facade of El Foro. In the afternoon, you ride south to the towering Torre Agua Caliente, soaking in sports history. Your evening finishes navigating to the Monumento Cuauhtemoc and relaxing at Audiorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 5.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Cultura de Tijuana",
+            "hu": "Casa de la Cultura de Tijuana",
+            "ro": "Casa de la Cultura de Tijuana",
+            "en": "Casa de la Cultura de Tijuana"
+          },
+          "coords": [
+            -117.052108,
+            32.531844
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen Hallen dieses großen Kulturzentrums für lokale Kunst und achten Sie auf die neoklassizistischen Architekturdetails.",
+            "hu": "Sétáljon végig a kulturális központ történelmi csarnokain, és figyelje meg a helyi művészetet bemutató neoklasszicista építészeti részleteket.",
+            "ro": "Plimbați-vă prin sălile istorice ale acestui mare centru cultural pentru a vedea arta locală, observând detaliile arhitecturale neoclasice conservate.",
+            "en": "Wander through the historic halls of this grand cultural center to see local art, taking note of the beautifully preserved neoclassical architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Tijuana",
+            "hu": "Museo de Tijuana",
+            "ro": "Museo de Tijuana",
+            "en": "Museo de Tijuana"
+          },
+          "coords": [
+            -117.038886,
+            32.534964
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die reiche Lokalgeschichte ein und prüfen Sie vor Beginn die Zeiten der Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag helyi történelmében ebben a lebilincselő múzeumban, és kezdés előtt ellenőrizze az időszaki kiállításokat.",
+            "ro": "Pătrundeți în bogata istorie locală a regiunii în acest muzeu captivant, verificând programul expozițiilor temporare înainte de a începe.",
+            "en": "Dive into the rich local history of the region in this engaging museum, checking the temporary exhibit schedules on the main floor before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "MULLME Museum",
+            "hu": "MULLME Múzeum",
+            "ro": "Muzeul MULLME",
+            "en": "MULLME Museum"
+          },
+          "coords": [
+            -117.036781,
+            32.52966
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt des Lucha Libre und seiner Masken, und nehmen Sie sich Zeit für die Geschichten der legendären Luchadores.",
+            "hu": "Fedezze fel a Lucha Libre színes világát és ikonikus maszkjait, időt szánva a legendás pankrátorok mögött húzódó lenyűgöző történetekre.",
+            "ro": "Descoperiți lumea colorată a wrestling-ului Lucha Libre și măștile sale iconice, alocând timp pentru poveștile legendarelor luptători.",
+            "en": "Discover the colorful world of Lucha Libre wrestling and its iconic masks here, taking time to read the fascinating stories behind the legendary luchadores."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Agua Caliente",
+            "hu": "Torre Agua Caliente",
+            "ro": "Torre Agua Caliente",
+            "en": "Torre Agua Caliente"
+          },
+          "coords": [
+            -117.032971,
+            32.522508
+          ],
+          "category": "museum",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen legendären Nachbau eines Turms mit einer Sport-Ruhmeshalle und nutzen Sie ein Weitwinkelobjektiv für tolle Aufnahmen.",
+            "hu": "Lépjen be a sport hírességek csarnokának is helyt adó ikonikus toronymásolatba, és hozzon nagylátószögű lencsét a magasság megörökítéséhez.",
+            "ro": "Intrați în acest turn replică iconic ce găzduiește un hol al faimei sportive, aducând un obiectiv cu unghi larg pentru a-i surprinde înălțimea.",
+            "en": "Step inside this iconic replica tower that houses a sports hall of fame, bringing a wide-angle lens to capture its impressive height against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Cuauhtemoc",
+            "hu": "Monumento Cuauhtemoc",
+            "ro": "Monumento Cuauhtemoc",
+            "en": "Monumento Cuauhtemoc"
+          },
+          "coords": [
+            -117.017667,
+            32.52471
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal für den letzten Aztekenkaiser an einem markanten Kreisverkehr die Ehre und seien Sie beim Überqueren der Straße vorsichtig.",
+            "hu": "Tiszteljen meg az utolsó azték császár tiszteletére emelt körforgalmi emlékművet, ügyelve a forgalomra, amikor átkel a fotózáshoz.",
+            "ro": "Aduceți un omagiu la acest monument giratoriu dedicat ultimului împărat aztec, traversând cu mare grijă intersecția aglomerată pentru fotografii.",
+            "en": "Pay respects at this prominent roundabout monument honoring the last Aztec emperor, exercising caution when crossing the busy traffic circle to take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro IMSS Tijuana",
+            "hu": "Teatro IMSS Tijuana",
+            "ro": "Teatro IMSS Tijuana",
+            "en": "Teatro IMSS Tijuana"
+          },
+          "coords": [
+            -117.009491,
+            32.51478
+          ],
+          "category": "cultural",
+          "arrive_at": "16:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wichtigen städtischen Theater und kommen Sie früh genug an, um vorher in einem nahegelegenen Café einen Kaffee zu trinken.",
+            "hu": "Zárja a napot ennél a közösségi produkciókról ismert fontos városi színháznál, időben érkezve, hogy előtte igyon egy kávét egy közeli kávézóban.",
+            "ro": "Încheiați ziua la acest important teatru civic cunoscut pentru producțiile comunitare, ajungând destul de devreme pentru a savura o cafea în apropiere.",
+            "en": "End your day at this important civic theater known for its robust community productions, arriving early enough to grab a coffee at a nearby cafe first."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur grandiosen Casa de la Cultura, gefolgt von einer tieferen Erkundung der regionalen Geschichte im Museo de Tijuana. Mittags geht es direkt ins lebhafte MULLME für Wrestling-Geschichten. Nach dem Mittag erreichen Sie den Torre Agua Caliente und das Monumento Cuauhtemoc. Ihr Ausflug endet am Teatro IMSS Tijuana.",
+        "hu": "Vezessen a nagyszerű Casa de la Cultura-hoz, majd folytassa a regionális történelemmel a Museo de Tijuana-ban. Délben a MULLME nyújt betekintést a pankráció világába. Ebéd után az ikonikus Torre Agua Caliente és a Monumento Cuauhtemoc várja. Az autós kirándulás a Teatro IMSS Tijuana kényelmében ér véget.",
+        "ro": "Conduceți la Casa de la Cultura pentru început, urmată de o incursiune în istoria regională la Museo de Tijuana. La prânz ajungeți la MULLME pentru poveștile de wrestling. După prânz vizitați iconicul Torre Agua Caliente și Monumento Cuauhtemoc. Excursia se încheie confortabil la spectacolele de la Teatro IMSS Tijuana.",
+        "en": "Drive to the grand Casa de la Cultura to start the day, followed by a deeper dive into regional history at Museo de Tijuana. Midday takes you directly to the vibrant MULLME for wrestling lore. After lunch, you'll reach the iconic Torre Agua Caliente and the bold Monumento Cuauhtemoc. Your road trip wraps up comfortably at the Teatro IMSS Tijuana."
+      }
+    }
+  }
+}

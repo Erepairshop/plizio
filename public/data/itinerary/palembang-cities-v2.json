@@ -1,0 +1,451 @@
+{
+  "city_id": "palembang-cities-v2",
+  "anchor": {
+    "name": "Palembang",
+    "coords": [
+      104.7756,
+      -2.9761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 4.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Orgen Tunggal Pho Pay Duku",
+            "hu": "Orgen Tunggal Pho Pay Duku",
+            "ro": "Orgen Tunggal Pho Pay Duku",
+            "en": "Orgen Tunggal Pho Pay Duku"
+          },
+          "coords": [
+            104.773065,
+            -2.973841
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie hier authentische lokale Musiktraditionen, aber kommen Sie früh, um den größten Menschenmengen bei den Straßenaufführungen zu entgehen.",
+            "hu": "Tapasztalja meg az autentikus helyi zenei hagyományokat, de érkezzen korán, hogy elkerülje a legnagyobb tömeget az utcai előadások alatt.",
+            "ro": "Experimentați tradițiile muzicale locale autentice aici, dar ajungeți devreme pentru a evita aglomerația în timpul spectacolelor stradale.",
+            "en": "Experience authentic local music traditions here, but arrive early to avoid the largest crowds while enjoying the street performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Kuto Baru",
+            "hu": "Pasar Kuto Baru",
+            "ro": "Pasar Kuto Baru",
+            "en": "Pasar Kuto Baru"
+          },
+          "coords": [
+            104.771825,
+            -2.980298
+          ],
+          "category": "cultural",
+          "arrive_at": "10:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine fantastische Auswahl an Gewürzen, also bringen Sie Kleingeld mit, um einfach traditionelle Snacks zu kaufen.",
+            "hu": "Fedezze fel a helyi fűszerek és friss termékek fantasztikus választékát, így hozzon aprót a hagyományos nassolnivalók vásárlásához.",
+            "ro": "Descoperiți o gamă fantastică de condimente locale și aduceți mărunt pentru a cumpăra cu ușurință gustări tradiționale unice.",
+            "en": "Discover a fantastic array of local spices and fresh produce, so bring small change to easily purchase unique traditional snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Haddad Moschee",
+            "hu": "Al Haddad Mecset",
+            "ro": "Moscheea Al Haddad",
+            "en": "Al Haddad Mosque"
+          },
+          "coords": [
+            104.775038,
+            -2.986176
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser spirituellen Oase und denken Sie daran, sich bescheiden zu kleiden und die Schuhe vor dem Eintreten auszuziehen.",
+            "hu": "Csodálja meg ennek a spirituális menedéknek a nyugodt építészetét, és ne feledjen szerényen öltözni, illetve levenni a cipőjét belépés előtt.",
+            "ro": "Admirați arhitectura liniștită a acestui refugiu spiritual și amintiți-vă să vă îmbrăcați modest și să vă scoateți încălțămintea la intrare.",
+            "en": "Admire the tranquil architecture of this spiritual haven, and remember to dress modestly and remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Pagi Lemabang",
+            "hu": "Pasar Pagi Lemabang",
+            "ro": "Pasar Pagi Lemabang",
+            "en": "Pasar Pagi Lemabang"
+          },
+          "coords": [
+            104.782798,
+            -2.973315
+          ],
+          "category": "cultural",
+          "arrive_at": "12:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.65,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Markttreiben ein, um frische Zutaten zu finden, aber achten Sie auf Ihre Wertsachen in den engen, belebten Gängen.",
+            "hu": "Merüljön el a vibráló reggeli piaci forgatagban, de ügyeljen az értékeire, mivel a szűk folyosók meglehetősen zsúfoltak lehetnek.",
+            "ro": "Scufundați-vă în atmosfera pieței matinale pentru ingrediente proaspete, dar fiți atenți la bunuri, deoarece culoarele devin foarte aglomerate.",
+            "en": "Dive into the vibrant morning market scene to find fresh ingredients, but keep an eye on your belongings as the narrow aisles get quite busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Aqobah 1",
+            "hu": "Masjid Al-Aqobah 1",
+            "ro": "Masjid Al-Aqobah 1",
+            "en": "Masjid Al-Aqobah 1"
+          },
+          "coords": [
+            104.79975,
+            -2.974619
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.89,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung an diesem Wahrzeichen, und besuchen Sie es außerhalb der Hauptgebetszeiten, um das Innere zu schätzen.",
+            "hu": "Tartson egy percnyi elmélkedést ennél a kiemelkedő helyi nevezetességnél, és a fő imaidőkön kívül látogasson el, hogy megcsodálhassa a belső teret.",
+            "ro": "Luați-vă un moment de reflecție la acest punct de reper local, asigurându-vă că vizitați în afara orelor de rugăciune pentru a aprecia interiorul.",
+            "en": "Take a moment of reflection at this prominent local landmark, ensuring you visit outside of main prayer times to fully appreciate its interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den kulturellen Eindrücken am Orgen Tunggal Pho Pay Duku.\n\nMittags besuchen Sie den belebten Markt Pasar Kuto Baru und die ruhige Al Haddad Moschee.\n\nAm Nachmittag tauchen Sie in die lebhafte Atmosphäre des Pasar Pagi Lemabang ein.\n\nBeenden Sie Ihre Wanderung mit einem friedlichen Abend in der majestätischen Masjid Al-Aqobah 1.",
+        "hu": "Kezdje a reggelt a kulturális élményekkel az Orgen Tunggal Pho Pay Duku piacán.\n\nDélben fedezze fel a nyüzsgő Pasar Kuto Baru piacot és a békés Al Haddad mecsetet.\n\nDélután merüljön el a Pasar Pagi Lemabang vibráló helyi hangulatában.\n\nZárja a gyalogos túrát egy békés estével a fenséges Masjid Al-Aqobah 1 mecsetnél.",
+        "ro": "Începeți dimineața explorând vibrațiile culturale la Orgen Tunggal Pho Pay Duku.\n\nLa prânz vizitați piața animată Pasar Kuto Baru și moscheea liniștită Al Haddad.\n\nDupă-amiaza, scufundați-vă în atmosfera vibrantă a pieței Pasar Pagi Lemabang.\n\nÎncheiați turul pietonal cu o seară pașnică la maiestuoasa Masjid Al-Aqobah 1.",
+        "en": "Start your morning exploring the cultural vibes at Orgen Tunggal Pho Pay Duku.\n\nMidday takes you to the bustling Pasar Kuto Baru and the serene Al Haddad Mosque.\n\nIn the afternoon, immerse yourself in the vibrant atmosphere of Pasar Pagi Lemabang.\n\nConclude your walking tour with a peaceful evening at the majestic Masjid Al-Aqobah 1."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 14.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Dr. A.K. Gani",
+            "hu": "Dr. A.K. Gani Múzeum",
+            "ro": "Muzeul Dr. A.K. Gani",
+            "en": "Museum Dr. A.K. Gani"
+          },
+          "coords": [
+            104.769541,
+            -2.929884
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch faszinierende Ausstellungen mehr über Palembangs historische Momente und fragen Sie die Führer nach ungeschriebenen Geschichten.",
+            "hu": "Ismerje meg Palembang sorsfordító történelmi pillanatait a kiállításokon, és kérdezze a helyi vezetőket a le nem írt, magával ragadó történetekről.",
+            "ro": "Aflați despre momentele istorice ale Palembangului prin exponate și cereți ghizilor locali povești captivante nescrise pe panouri.",
+            "en": "Learn about Palembang's pivotal historical moments through fascinating exhibits, and ask the local guides for captivating unwritten stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Kuto Baru",
+            "hu": "Pasar Kuto Baru",
+            "ro": "Pasar Kuto Baru",
+            "en": "Pasar Kuto Baru"
+          },
+          "coords": [
+            104.771825,
+            -2.980298
+          ],
+          "category": "cultural",
+          "arrive_at": "11:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine fantastische Auswahl an Gewürzen, also bringen Sie Kleingeld mit, um einfach traditionelle Snacks zu kaufen.",
+            "hu": "Fedezze fel a helyi fűszerek és friss termékek fantasztikus választékát, így hozzon aprót a hagyományos nassolnivalók vásárlásához.",
+            "ro": "Descoperiți o gamă fantastică de condimente locale și aduceți mărunt pentru a cumpăra cu ușurință gustări tradiționale unice.",
+            "en": "Discover a fantastic array of local spices and fresh produce, so bring small change to easily purchase unique traditional snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Haddad Moschee",
+            "hu": "Al Haddad Mecset",
+            "ro": "Moscheea Al Haddad",
+            "en": "Al Haddad Mosque"
+          },
+          "coords": [
+            104.775038,
+            -2.986176
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser spirituellen Oase und denken Sie daran, sich bescheiden zu kleiden und die Schuhe vor dem Eintreten auszuziehen.",
+            "hu": "Csodálja meg ennek a spirituális menedéknek a nyugodt építészetét, és ne feledjen szerényen öltözni, illetve levenni a cipőjét belépés előtt.",
+            "ro": "Admirați arhitectura liniștită a acestui refugiu spiritual și amintiți-vă să vă îmbrăcați modest și să vă scoateți încălțămintea la intrare.",
+            "en": "Admire the tranquil architecture of this spiritual haven, and remember to dress modestly and remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "PD Serasi",
+            "hu": "PD Serasi",
+            "ro": "PD Serasi",
+            "en": "PD Serasi"
+          },
+          "coords": [
+            104.790417,
+            -2.999144
+          ],
+          "category": "cultural",
+          "arrive_at": "13:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Zentrum für handgefertigte Textilien und zögern Sie nicht, höflich um die besten Preise für Ihre Souvenirs zu feilschen.",
+            "hu": "Fedezze fel ezt a kulturális központot az egyedi kézműves textilekért, és ne habozzon udvariasan alkudni a lehető legjobb árak érdekében.",
+            "ro": "Explorați acest centru cultural pentru textile artizanale unice și nu ezitați să negociați politicos pentru a obține cele mai bune prețuri posibile.",
+            "en": "Explore this cultural hub for unique handcrafted textiles and souvenirs, but don't hesitate to bargain politely for the best possible prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Pagi Lemabang",
+            "hu": "Pasar Pagi Lemabang",
+            "ro": "Pasar Pagi Lemabang",
+            "en": "Pasar Pagi Lemabang"
+          },
+          "coords": [
+            104.782798,
+            -2.973315
+          ],
+          "category": "cultural",
+          "arrive_at": "14:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.98,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Markttreiben ein, um frische Zutaten zu finden, aber achten Sie auf Ihre Wertsachen in den engen, belebten Gängen.",
+            "hu": "Merüljön el a vibráló reggeli piaci forgatagban, de ügyeljen az értékeire, mivel a szűk folyosók meglehetősen zsúfoltak lehetnek.",
+            "ro": "Scufundați-vă în atmosfera pieței matinale pentru ingrediente proaspete, dar fiți atenți la bunuri, deoarece culoarele devin foarte aglomerate.",
+            "en": "Dive into the vibrant morning market scene to find fresh ingredients, but keep an eye on your belongings as the narrow aisles get quite busy."
+          }
+        },
+        {
+          "name": {
+            "de": "The Legend of Kemaro Island",
+            "hu": "A Kemaro-sziget Legendája",
+            "ro": "Legenda Insulei Kemaro",
+            "en": "The Legend of Kemaro Island"
+          },
+          "coords": [
+            104.812397,
+            -2.98097
+          ],
+          "category": "museum",
+          "arrive_at": "15:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.39,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tragische lokale Folklore an diesem malerischen Ort und nehmen Sie die Fähre bei Sonnenuntergang für das magischste Licht.",
+            "hu": "Fedezze fel a tragikus helyi folklórt ezen a festői helyen, és próbálja meg elcsípni a naplemente kompot a legvarázslatosabb fényképezési fényekért.",
+            "ro": "Descoperiți folclorul local tragic la acest loc pitoresc și încercați să prindeți feribotul la apus pentru cea mai magică lumină fotografică.",
+            "en": "Discover the tragic and romantic local folklore at this scenic spot, and try to catch the sunset ferry for the most magical photographic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour am historischen Museum Dr. A.K. Gani, um lokales Erbe zu erleben.\n\nRadeln Sie mittags durch das Zentrum zum Pasar Kuto Baru und zur Al Haddad Moschee.\n\nSpäter entdecken Sie lokale Waren bei PD Serasi und am lebhaften Pasar Pagi Lemabang.\n\nBeenden Sie das Fahrradabenteuer mit der faszinierenden Legende der Kemaro-Insel.",
+        "hu": "Indítsa a tekerést a történelmi Dr. A.K. Gani Múzeumnál, hogy megismerje a helyi örökséget.\n\nKerékpározzon délben a központon át a Pasar Kuto Baru és az Al Haddad mecset felé.\n\nKésőbb fedezze fel a helyi árukat a PD Serasi és a nyüzsgő Pasar Pagi Lemabang piacokon.\n\nZárja a kerékpáros kalandot a Kemaro-sziget lenyűgöző legendájának megismerésével.",
+        "ro": "Începeți cursa la muzeul istoric Dr. A.K. Gani pentru a descoperi moștenirea locală.\n\nPedalați la prânz prin centru spre Pasar Kuto Baru și liniștita Moschee Al Haddad.\n\nMai târziu, descoperiți mărfuri locale la PD Serasi și piața animată Pasar Pagi Lemabang.\n\nÎncheiați aventura pe bicicletă explorând fascinanta legendă a insulei Kemaro.",
+        "en": "Kick off your ride at the historical Museum Dr. A.K. Gani to learn local heritage.\n\nCycle through the city's heart to explore Pasar Kuto Baru and Al Haddad Mosque at midday.\n\nLater, discover local goods at PD Serasi and the lively Pasar Pagi Lemabang.\n\nFinish your biking adventure delving into the fascinating Legend of Kemaro Island."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 12.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Dr. A.K. Gani",
+            "hu": "Dr. A.K. Gani Múzeum",
+            "ro": "Muzeul Dr. A.K. Gani",
+            "en": "Museum Dr. A.K. Gani"
+          },
+          "coords": [
+            104.769541,
+            -2.929884
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch faszinierende Ausstellungen mehr über Palembangs historische Momente und fragen Sie die Führer nach ungeschriebenen Geschichten.",
+            "hu": "Ismerje meg Palembang sorsfordító történelmi pillanatait a kiállításokon, és kérdezze a helyi vezetőket a le nem írt, magával ragadó történetekről.",
+            "ro": "Aflați despre momentele istorice ale Palembangului prin exponate și cereți ghizilor locali povești captivante nescrise pe panouri.",
+            "en": "Learn about Palembang's pivotal historical moments through fascinating exhibits, and ask the local guides for captivating unwritten stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Akbar",
+            "hu": "Masjid Akbar",
+            "ro": "Masjid Akbar",
+            "en": "Masjid Akbar"
+          },
+          "coords": [
+            104.794622,
+            -2.956235
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Details dieser religiösen Stätte und bringen Sie eine Kamera mit, um die atemberaubende Fassade zu fotografieren.",
+            "hu": "Csodálja meg ennek a jelentős vallási helyszínnek a nagyszerű építészeti részleteit, és hozzon fényképezőgépet a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Minunați-vă de detaliile arhitecturale ale acestui sit religios semnificativ și aduceți o cameră pentru a surprinde fațada uimitoare din curte.",
+            "en": "Marvel at the grand architectural details of this significant religious site, and bring a camera to capture the stunning facade from the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "The Legend of Kemaro Island",
+            "hu": "A Kemaro-sziget Legendája",
+            "ro": "Legenda Insulei Kemaro",
+            "en": "The Legend of Kemaro Island"
+          },
+          "coords": [
+            104.812397,
+            -2.98097
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tragische lokale Folklore an diesem malerischen Ort und nehmen Sie die Fähre bei Sonnenuntergang für das magischste Licht.",
+            "hu": "Fedezze fel a tragikus helyi folklórt ezen a festői helyen, és próbálja meg elcsípni a naplemente kompot a legvarázslatosabb fényképezési fényekért.",
+            "ro": "Descoperiți folclorul local tragic la acest loc pitoresc și încercați să prindeți feribotul la apus pentru cea mai magică lumină fotografică.",
+            "en": "Discover the tragic and romantic local folklore at this scenic spot, and try to catch the sunset ferry for the most magical photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Plaju Modern",
+            "hu": "Pasar Plaju Modern",
+            "ro": "Pasar Plaju Modern",
+            "en": "Pasar Plaju Modern"
+          },
+          "coords": [
+            104.816869,
+            -2.997829
+          ],
+          "category": "cultural",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie den modernen Handel der Stadt, während Sie lokales Streetfood probieren, und vergessen Sie nicht die berühmten regionalen Fischfrikadellen.",
+            "hu": "Vegyen részt a város modern kereskedelmében, miközben megkóstolja az autentikus helyi utcai ételeket, és mindenképp próbálja ki a híres halpogácsákat.",
+            "ro": "Implicați-vă în comerțul modern al orașului degustând mâncare stradală autentică și asigurați-vă că încercați celebrele prăjituri de pește regionale.",
+            "en": "Engage with the modern commerce of the city while sampling authentic local street food, ensuring you try the famous regional fish cakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jami' Ridwanullah",
+            "hu": "Masjid Jami' Ridwanullah",
+            "ro": "Masjid Jami' Ridwanullah",
+            "en": "Masjid Jami' Ridwanullah"
+          },
+          "coords": [
+            104.832871,
+            -3.023418
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den einladenden Gemeinschaftsgeist in dieser Moschee, die perfekt für eine ruhige Nachmittagspause abseits der belebten Straßen ist.",
+            "hu": "Tapasztalja meg a barátságos közösségi szellemet ebben a mecsetben, amely tökéletes egy csendes délutáni pihenőhöz a forgalmas városi utcáktól távol.",
+            "ro": "Experimentați spiritul comunitar primitor la această moschee de cartier, perfectă pentru o pauză liniștită de după-amiază departe de străzile aglomerate.",
+            "en": "Experience the welcoming community spirit at this neighborhood mosque, which is perfect for a quiet afternoon break from the busy city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Baiturrahman",
+            "hu": "Masjid Baiturrahman",
+            "ro": "Masjid Baiturrahman",
+            "en": "Masjid Baiturrahman"
+          },
+          "coords": [
+            104.834438,
+            -3.020043
+          ],
+          "category": "landmark",
+          "arrive_at": "15:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die grünen Kuppeln und die friedliche Atmosphäre dieses Wahrzeichens, die einen idealen und ruhigen Abschluss Ihres Tagesausflugs bieten.",
+            "hu": "Csodálja meg a zöld kupolákat és a hely békés hangulatát, amely ideális és nyugodt befejezést nyújt a felfedezéssel teli napjának.",
+            "ro": "Admirați cupolele verzi frumoase și ambianța pașnică a acestui reper, oferind o concluzie ideală și senină pentru ziua dumneavoastră de explorare.",
+            "en": "Admire the beautiful green domes and peaceful ambiance of this landmark, providing an ideal and serene conclusion to your day of exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Museum Dr. A.K. Gani und erkunden Sie Palembangs Wurzeln.\n\nFahren Sie zur schönen Masjid Akbar und weiter zur faszinierenden Legende der Kemaro-Insel.\n\nVerbringen Sie den Nachmittag bei den Einheimischen im belebten Pasar Plaju Modern.\n\nBeenden Sie den Tag mit einem Besuch der ruhigen Masjid Jami' Ridwanullah und Baiturrahman.",
+        "hu": "Kezdje az autózást a Dr. A.K. Gani Múzeumban, felfedezve Palembang gazdag gyökereit.\n\nHaladjon a gyönyörű Masjid Akbar felé, majd ismerje meg a Kemaro-sziget izgalmas legendáját.\n\nTöltse a délutánt a helyiekkel a nyüzsgő modern Pasar Plaju piacon.\n\nZárja a napot a békés Masjid Jami' Ridwanullah és a Masjid Baiturrahman mecseteknél.",
+        "ro": "Începeți plimbarea cu mașina la Muzeul Dr. A.K. Gani, explorând rădăcinile Palembangului.\n\nÎndreptați-vă spre frumoasa Masjid Akbar și fascinanta legendă a insulei Kemaro.\n\nPetreceți după-amiaza alături de localnici în piața aglomerată Pasar Plaju Modern.\n\nÎncheiați ziua vizitând moscheile liniștite Masjid Jami' Ridwanullah și Baiturrahman.",
+        "en": "Begin your drive at Museum Dr. A.K. Gani, exploring Palembang's rich historical roots.\n\nHead towards the beautiful Masjid Akbar before reaching the intriguing Legend of Kemaro Island.\n\nSpend your afternoon mingling with locals at the bustling Pasar Plaju Modern.\n\nConclude the day touring the serene Masjid Jami' Ridwanullah and Masjid Baiturrahman."
+      }
+    }
+  }
+}

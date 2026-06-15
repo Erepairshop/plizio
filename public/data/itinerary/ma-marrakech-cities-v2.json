@@ -1,0 +1,428 @@
+{
+  "city_id": "ma-marrakech-cities-v2",
+  "anchor": {
+    "name": "Marrakech",
+    "coords": [
+      -7.9811,
+      31.6295
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Jamaâ el-Fna",
+            "hu": "Jamaâ el-Fna Múzeum",
+            "ro": "Muzeul Jamaâ el-Fna",
+            "en": "Jamaâ el-Fna Museum"
+          },
+          "coords": [
+            -7.989188,
+            31.625
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das immaterielle Erbe des berühmten Platzes, aber kommen Sie früh, um die interaktiven Ausstellungen in Ruhe genießen zu können.",
+            "hu": "Fedezze fel a híres tér szellemi örökségét, de érkezzen korán, hogy nyugodtan élvezhesse az interaktív kiállításokat és történeteket.",
+            "ro": "Explorați patrimoniul imaterial al celebrei piețe, dar ajungeți devreme pentru a vă bucura în liniște de expozițiile interactive oferite.",
+            "en": "Explore the intangible heritage of the famous square, but arrive early to enjoy the interactive exhibits in peace before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Koutoubia-Gärten",
+            "hu": "Koutoubia Kertek",
+            "ro": "Grădinile Koutoubia",
+            "en": "Koutoubia Gardens"
+          },
+          "coords": [
+            -7.993171,
+            31.622844
+          ],
+          "category": "park",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die duftenden Rosenbüsche und Palmen, und suchen Sie sich eine schattige Bank für den besten Blick auf das Minarett.",
+            "hu": "Sétáljon az illatos rózsabokrok és pálmafák között, és keressen egy árnyékos padot, ahonnan a legjobb kilátás nyílik a minaretre.",
+            "ro": "Plimbați-vă printre trandafirii parfumați și palmieri, și căutați o bancă la umbră pentru cea mai bună vedere asupra minaretului.",
+            "en": "Stroll through the fragrant rose bushes and palm trees, and find a shaded bench for the best uninterrupted view of the iconic minaret."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar El Bacha",
+            "hu": "Dar El Bacha",
+            "ro": "Dar El Bacha",
+            "en": "Dar El Bacha"
+          },
+          "coords": [
+            -7.992658,
+            31.629741
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige andalusische Architektur und trinken Sie unbedingt einen Kaffee im berühmten Bacha Coffee House im Innenhof.",
+            "hu": "Csodálja meg a lenyűgöző andalúz építészetet, és mindenképpen igyon egy kávét a híres Bacha Coffee kávézóban a belső udvaron.",
+            "ro": "Admirați arhitectura andaluză magnifică și nu uitați să beți o cafea la faimoasa cafenea Bacha Coffee situată în curtea interioară.",
+            "en": "Admire the magnificent Andalusian architecture, and make sure to grab a cup of coffee at the famous Bacha Coffee house in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikmuseum",
+            "hu": "Zenei Múzeum",
+            "ro": "Muzeul Muzicii",
+            "en": "Museum of Music"
+          },
+          "coords": [
+            -7.988779,
+            31.629359
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den traditionellen marokkanischen Instrumenten faszinieren und hören Sie sich die Audio-Beispiele genau an.",
+            "hu": "Hagyja, hogy lenyűgözzék a hagyományos marokkói hangszerek, és szánjon időt a kiállított audió példák meghallgatására is.",
+            "ro": "Lăsați-vă fascinați de instrumentele tradiționale marocane și asigurați-vă că ascultați cu atenție exemplele audio disponibile aici.",
+            "en": "Be fascinated by the traditional Moroccan instruments on display, and take the time to listen closely to the immersive audio examples."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar Bellarj",
+            "hu": "Dar Bellarj",
+            "ro": "Dar Bellarj",
+            "en": "Dar Bellarj"
+          },
+          "coords": [
+            -7.986557,
+            31.632183
+          ],
+          "category": "museum",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses ehemaligen Storchenspitals, das heute ein wunderbares Zentrum für zeitgenössische Kunst ist.",
+            "hu": "Élvezze a nyugodt légkört ebben az egykori gólyakórházban, amely ma a kortárs képzőművészet egyik csodálatos helyi központja.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui fost spital de berze, transformat astăzi într-un minunat centru de artă contemporană.",
+            "en": "Enjoy the tranquil atmosphere of this former stork hospital, which has now been beautifully transformed into a contemporary art center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Rande des großen Platzes, wo Sie im Jamaâ el-Fna Museum in die lokale Geschichte eintauchen. Anschließend spazieren Sie zu den Koutoubia-Gärten für eine entspannte Pause unter Palmen. Mittags erkunden Sie die historische Residenz Dar El Bacha. Der Nachmittag ist der Kultur gewidmet, zuerst im Musikmuseum und schließlich im kreativen Kunstzentrum Dar Bellarj.",
+        "hu": "Kezdje a napot a híres tér szélén, és merüljön el a helyi történelemben a Jamaâ el-Fna Múzeumban. Ezután sétáljon át a Koutoubia Kertekbe egy pihentető pihenőre a pálmafák alatt. Délben fedezze fel a történelmi Dar El Bacha rezidenciát. A délután a kultúráé: először a Zenei Múzeumot, majd a Dar Bellarj kreatív művészeti központot látogatja meg, amely kellemes lezárása a napnak.",
+        "ro": "Începeți ziua la marginea marii piețe, explorând istoria locală la Muzeul Jamaâ el-Fna. Apoi, faceți o plimbare spre Grădinile Koutoubia pentru o pauză relaxantă sub palmieri. La prânz, vizitați reședința istorică Dar El Bacha. După-amiaza este dedicată culturii, mai întâi la Muzeul Muzicii și în final la centrul de artă creativă Dar Bellarj, încheind ziua într-o notă artistică.",
+        "en": "Start your day at the edge of the great square, diving into local history at the Jamaâ el-Fna Museum. Next, stroll over to the Koutoubia Gardens for a relaxing break under the palm trees. Midday brings you to the historical Dar El Bacha residence. The afternoon is dedicated to culture, first at the Museum of Music and finally at the creative arts hub Dar Bellarj to end your day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Ghemat",
+            "hu": "Bab Ghemat",
+            "ro": "Bab Ghemat",
+            "en": "Bab Ghemat"
+          },
+          "coords": [
+            -7.974582,
+            31.623849
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Morgenlicht für Fotos von diesem historischen Stadttor, achten Sie dabei auf den regen Verkehr der Einheimischen.",
+            "hu": "Használja ki a reggeli fényeket e történelmi városkapu fotózására, de ügyeljen a helyiek élénk forgalmára ezen a csomóponton.",
+            "ro": "Profitați de lumina dimineții pentru fotografii cu această poartă istorică, fiind totodată atenți la traficul intens al localnicilor.",
+            "en": "Take advantage of the morning light for photos of this historic city gate, while keeping an eye out for the bustling local traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Salat Al-Azama",
+            "hu": "Salat Al-Azama Zsinagóga",
+            "ro": "Sinagoga Salat Al-Azama",
+            "en": "Synagogue Salat Al-Azama"
+          },
+          "coords": [
+            -7.982303,
+            31.620073
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschönen blauen und weißen Kacheln im Innenhof, und nehmen Sie sich Zeit für die faszinierende Ausstellung.",
+            "hu": "Tekintse meg a belső udvar gyönyörű kék és fehér csempéit, és szánjon elegendő időt a lenyűgöző zsidó kulturális kiállításra.",
+            "ro": "Admirați frumoasele plăci ceramice albastre și albe din curtea interioară și alocați-vă timp pentru expoziția culturală fascinantă.",
+            "en": "Admire the beautiful blue and white tiles in the courtyard, and take your time to read through the fascinating cultural exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiskiwin Museum",
+            "hu": "Tiskiwin Múzeum",
+            "ro": "Muzeul Tiskiwin",
+            "en": "Tiskiwin Museum"
+          },
+          "coords": [
+            -7.984071,
+            31.622273
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Folgen Sie der vorgeschlagenen Route durch das Museum, um eine logische Reise entlang der historischen Saharahandelsrouten zu erleben.",
+            "hu": "Kövesse a javasolt útvonalat a múzeumban, hogy logikus utazást tegyen a történelmi szaharai kereskedelmi útvonalak mentén.",
+            "ro": "Urmați traseul sugerat prin muzeu pentru a experimenta o călătorie logică și educativă de-a lungul rutelor comerciale sahariene.",
+            "en": "Follow the suggested route through the museum to experience a logical and educational journey along historic Saharan trade routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar Si Said Museum",
+            "hu": "Dar Si Said Múzeum",
+            "ro": "Muzeul Dar Si Said",
+            "en": "Dar Si Said Museum"
+          },
+          "coords": [
+            -7.983861,
+            31.623385
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die unglaubliche Holzschnitzkunst und Teppiche in diesem Palast, der oft ruhiger ist als andere Attraktionen der Stadt.",
+            "hu": "Csodálja meg a hihetetlen fafaragásokat és szőnyegeket ebben a palotában, amely gyakran csendesebb, mint a város többi látványossága.",
+            "ro": "Minunați-vă de sculpturile în lemn și covoarele incredibile din acest palat, de obicei mai liniștit decât alte atracții ale orașului.",
+            "en": "Marvel at the incredible woodwork and carpets in this stunning palace, which is often much quieter than other city attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parfümmuseum",
+            "hu": "Parfüm Múzeum",
+            "ro": "Muzeul Parfumului",
+            "en": "Museum of Perfume"
+          },
+          "coords": [
+            -7.988278,
+            31.634616
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunst der marokkanischen Düfte und buchen Sie vorab einen kurzen Workshop, um Ihr eigenes Parfüm zu kreieren.",
+            "hu": "Fedezze fel a marokkói illatok művészetét, és foglaljon előre egy rövid workshopot, ahol elkészítheti saját egyedi parfümjét.",
+            "ro": "Descoperiți arta aromelor marocane și rezervați în avans un scurt atelier pentru a vă crea propriul parfum personalizat la fața locului.",
+            "en": "Discover the art of Moroccan scents and book a short workshop in advance to try your hand at creating your own personalized perfume."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar El Bacha Museum",
+            "hu": "Dar El Bacha Múzeum",
+            "ro": "Muzeul Dar El Bacha",
+            "en": "Dar El Bacha Museum"
+          },
+          "coords": [
+            -7.992353,
+            31.631387
+          ],
+          "category": "museum",
+          "arrive_at": "16:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die exquisiten Ausstellungen am Nachmittag, wenn das warme Licht die detailreichen Mosaike besonders schön hervorhebt.",
+            "hu": "Élvezze a gyönyörű kiállításokat a késő délutáni órákban, amikor a meleg fények különösen szépen emelik ki a részletgazdag mozaikokat.",
+            "ro": "Bucurați-vă de expozițiile rafinate după-amiaza, când lumina caldă evidențiază în mod deosebit detaliile superbe ale mozaicurilor.",
+            "en": "Enjoy the exquisite exhibitions in the late afternoon, when the warm golden light beautifully highlights the intricate tile mosaics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am historischen Stadttor Bab Ghemat und führt Sie zur eindrucksvollen Synagoge Salat Al-Azama im jüdischen Viertel. Gegen Mittag tauchen Sie im Tiskiwin und Dar Si Said Museum tief in die Berber- und Handwerkskunst ein. Am Nachmittag radeln Sie weiter Richtung Norden, wo Sie im Parfümmuseum in die Welt der Düfte eintauchen, bevor Sie im majestätischen Dar El Bacha Museum abschließen.",
+        "hu": "A kerékpártúra a történelmi Bab Ghemat városkapunál kezdődik, majd a lenyűgöző Salat Al-Azama Zsinagógához vezet a zsidó negyedben. Dél körül a Tiskiwin és a Dar Si Said múzeumokban merülhet el a berber kultúrában és kézművességben. Délután északabbra teker, ahol a Parfüm Múzeumban az illatok világába kóstolhat bele, végül a fenséges Dar El Bacha Múzeumnál fejezi be a napot.",
+        "ro": "Turul cu bicicleta începe la poarta istorică Bab Ghemat și vă duce la impresionanta Sinagogă Salat Al-Azama din cartierul evreiesc. La prânz, aprofundați cultura și artizanatul berber la Muzeele Tiskiwin și Dar Si Said. După-amiaza, pedalați spre nord pentru a descoperi lumea aromelor la Muzeul Parfumului, înainte de a vă încheia călătoria la maiestuosul Muzeu Dar El Bacha.",
+        "en": "Your bike tour starts at the historic Bab Ghemat gate and leads to the impressive Synagogue Salat Al-Azama in the Jewish quarter. Around midday, dive deep into Berber culture and craftsmanship at the Tiskiwin and Dar Si Said Museums. In the afternoon, you pedal north to explore the world of scents at the Museum of Perfume before finishing your ride at the majestic Dar El Bacha Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Berbermuseum",
+            "hu": "Berber Múzeum",
+            "ro": "Muzeul Berber",
+            "en": "Berber Museum"
+          },
+          "coords": [
+            -8.002882,
+            31.641902
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung traditioneller Kleidung und Schmuckstücke, die die beeindruckende Vielfalt der Berberkultur zeigt.",
+            "hu": "Csodálja meg a hagyományos ruházat és ékszerek gazdag gyűjteményét, amely hűen mutatja be a berber kultúra lenyűgöző sokszínűségét.",
+            "ro": "Admirați colecția bogată de haine tradiționale și bijuterii, care prezintă diversitatea impresionantă și istoria culturii berbere.",
+            "en": "Admire the rich collection of traditional clothing and jewelry, which perfectly showcases the impressive diversity of Berber culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Sinya 28",
+            "hu": "Sinya 28 Galéria",
+            "ro": "Galeria Sinya 28",
+            "en": "Galerie Sinya 28"
+          },
+          "coords": [
+            -8.011724,
+            31.636167
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Planen Sie etwas Zeit für diese moderne Kunstgalerie ein und sprechen Sie mit dem Personal, um mehr über die lokalen Künstler zu erfahren.",
+            "hu": "Szánjon egy kis időt erre a modern művészeti galériára, és beszélgessen a személyzettel, hogy többet megtudjon a helyi művészekről.",
+            "ro": "Alocați timp pentru această galerie de artă modernă și discutați cu personalul pentru a afla mai multe despre artiștii locali expuși.",
+            "en": "Schedule some time for this modern art gallery, and don't hesitate to speak with the staff to learn more about the local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar El Bacha Museum",
+            "hu": "Dar El Bacha Múzeum",
+            "ro": "Muzeul Dar El Bacha",
+            "en": "Dar El Bacha Museum"
+          },
+          "coords": [
+            -7.992353,
+            31.631387
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die filigranen Stuckarbeiten an den Wänden und suchen Sie nach den ruhigen Ecken im wunderschön bepflanzten Innenhof.",
+            "hu": "Figyelje meg a falakon lévő finom stukkódíszítéseket, és keressen csendes zugokat a gyönyörűen beültetett, hűvös belső udvaron.",
+            "ro": "Atenție la lucrările delicate din stuc de pe pereți și căutați colțurile liniștite din curtea interioară plină de plante exotice.",
+            "en": "Pay attention to the delicate stucco work on the walls, and seek out the quiet corners in the beautifully planted interior courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Monde des Arts de la Parure (MAP)",
+            "hu": "Monde des Arts de la Parure (MAP)",
+            "ro": "Monde des Arts de la Parure (MAP)",
+            "en": "Monde des Arts de la Parure (MAP)"
+          },
+          "coords": [
+            -7.987973,
+            31.618669
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt des Schmucks und der Verzierungen, und lassen Sie sich von den funkelnden Exponaten verzaubern.",
+            "hu": "Fedezze fel az ékszerek és díszítések lenyűgöző világát, és hagyja, hogy elvarázsolják a csillogó, gondosan válogatott kiállítási tárgyak.",
+            "ro": "Descoperiți lumea fascinantă a bijuteriilor și a podoabelor și lăsați-vă fermecați de exponatele strălucitoare, expuse cu mare grijă.",
+            "en": "Discover the fascinating world of jewelry and adornments, and let yourself be enchanted by the sparkling exhibits on careful display."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Salat Al-Azama",
+            "hu": "Salat Al-Azama Zsinagóga",
+            "ro": "Sinagoga Salat Al-Azama",
+            "en": "Synagogue Salat Al-Azama"
+          },
+          "coords": [
+            -7.982303,
+            31.620073
+          ],
+          "category": "museum",
+          "arrive_at": "16:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem friedlichen Ort und studieren Sie die alten Fotografien, die die reiche Geschichte der Gemeinde dokumentieren.",
+            "hu": "Fejezze be a napot ezen a békés helyen, és tanulmányozza a régi fényképeket, amelyek a helyi közösség gazdag történelmét dokumentálják.",
+            "ro": "Încheiați-vă ziua în acest loc pașnic și studiați fotografiile vechi care documentează istoria bogată a comunității evreiești locale.",
+            "en": "End your day in this peaceful location and take time to study the old photographs that document the rich history of the community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie am Morgen bequem das Berbermuseum, um die indigene Kultur kennenzulernen. Danach geht es weiter zur Galerie Sinya 28 für einen Hauch moderner Kunst. Zur Mittagszeit bewundern Sie das prunkvolle Dar El Bacha Museum. Am Nachmittag fahren Sie in den Süden der Altstadt zum faszinierenden Schmuckmuseum MAP, bevor Sie den Tag in der ruhigen Synagoge Salat Al-Azama ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti reggel a Berber Múzeumot, hogy megismerje az őslakos kultúrát. Ezután a Sinya 28 Galériába indul egy kis modern művészetért. Délidőben megcsodálhatja a pompás Dar El Bacha Múzeumot. Délután az óváros déli részére hajt, a lenyűgöző MAP ékszermúzeumba, mielőtt a napot a csendes Salat Al-Azama Zsinagógában zárná.",
+        "ro": "Cu mașina veți ajunge dimineața confortabil la Muzeul Berber pentru a descoperi cultura indigenă. Apoi continuați spre Galeria Sinya 28 pentru un strop de artă modernă. La prânz, admirați magnificul Muzeu Dar El Bacha. După-amiaza conduceți în sudul orașului vechi la fascinantul muzeu de bijuterii MAP, înainte de a încheia ziua în liniștita Sinagogă Salat Al-Azama.",
+        "en": "By car, you comfortably reach the Berber Museum in the morning to discover indigenous culture. Next, you drive to Galerie Sinya 28 for a touch of modern art. Midday allows you to admire the magnificent Dar El Bacha Museum. In the afternoon, head to the southern part of the old city to visit the fascinating MAP jewelry museum before ending your day at the peaceful Synagogue Salat Al-Azama."
+      }
+    }
+  }
+}

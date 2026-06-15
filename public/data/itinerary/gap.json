@@ -1,0 +1,474 @@
+{
+  "city_id": "gap",
+  "anchor": {
+    "name": "Gap",
+    "coords": [
+      6.0778,
+      44.5586
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "City Hall (Hôtel de Ville)",
+            "hu": "City Hall (Hôtel de Ville)",
+            "ro": "City Hall (Hôtel de Ville)",
+            "en": "City Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            6.079449,
+            44.558771
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Fassade des Hôtel de Ville, das administrative Herz von Gap, und werfen Sie einen Blick auf die Aushänge für abendliche Veranstaltungen.",
+            "hu": "Csodálja meg a Hôtel de Ville klasszikus homlokzatát, Gap közigazgatási központját, és ne felejtse el megnézni a faliújságokon az esti programok hirdetéseit.",
+            "ro": "Admirați fațada clasică a Hôtel de Ville, inima administrativă din Gap, și nu uitați să verificați panourile frontale pentru anunțurile despre evenimentele de seară.",
+            "en": "Admire the classical facade of the Hôtel de Ville, the administrative heart of Gap, and remember to check the local notices on the front boards for evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Jean Marcellin",
+            "hu": "Place Jean Marcellin",
+            "ro": "Place Jean Marcellin",
+            "en": "Place Jean Marcellin"
+          },
+          "coords": [
+            6.079644,
+            44.559228
+          ],
+          "category": "civic",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Brunnen an diesem pastellfarbenen Platz, aber kommen Sie an Markttagen früh, um sich einen gemütlichen Sitzplatz auf einer sonnigen Café-Terrasse zu sichern.",
+            "hu": "Pihenjen meg a szökőkútnál ezen a bájos, pasztellszínű téren, de piacnapokon érkezzen korán, hogy kényelmes helyet találjon az egyik napfényes kávézó teraszán.",
+            "ro": "Relaxați-vă lângă fântâna din această piață fermecătoare în culori pastelate, dar sosiți devreme în zilele de piață pentru a prinde un loc pe o terasă însorită.",
+            "en": "Relax by the fountain in this charming pastel-colored square, but try to arrive early on market days to secure a comfortable seat at one of the sunny café terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Arnoux Cathedral",
+            "hu": "Saint-Arnoux Cathedral",
+            "ro": "Saint-Arnoux Cathedral",
+            "en": "Saint-Arnoux Cathedral"
+          },
+          "coords": [
+            6.078119,
+            44.558206
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die neugotische Architektur und die polychromen Steine dieser majestätischen Kathedrale, und betrachten Sie die bunten Glasfenster im hellen Mittagslicht.",
+            "hu": "Fedezze fel ennek a fenséges katedrálisnak a lenyűgöző neogótikus építészetét és sokszínű köveit, és figyelje meg az üvegablakokat, amikor a legmagasabban jár a nap.",
+            "ro": "Explorați uimitoarea arhitectură neogotică și pietrele policrome ale acestei catedrale maiestuoase și priviți vitraliile rafinate atunci când soarele strălucește puternic.",
+            "en": "Explore the stunning Neo-Gothic architecture and polychrome stones of this majestic cathedral, and look closely at the exquisite stained glass when the sun is highest."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Colonel Roux",
+            "hu": "Rue Colonel Roux",
+            "ro": "Rue Colonel Roux",
+            "en": "Rue Colonel Roux"
+          },
+          "coords": [
+            6.078728,
+            44.557843
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie eine der ältesten mittelalterlichen Straßen von Gap entlang, um traditionelle Alpenfassaden zu bewundern, und tragen Sie bequeme Schuhe für das Pflaster.",
+            "hu": "Sétáljon végig Gap egyik legrégebbi középkori utcáján, hogy megcsodálja a hagyományos alpesi homlokzatokat, de feltétlenül viseljen kényelmes cipőt az egyenetlen köveken.",
+            "ro": "Plimbați-vă pe una dintre cele mai vechi străzi medievale din Gap pentru a admira fațadele alpine tradiționale, purtând încălțăminte confortabilă pentru pavajul neregulat.",
+            "en": "Stroll down one of the oldest medieval streets in Gap to admire traditional alpine facades, while wearing comfortable walking shoes for the uneven historical paving."
+          }
+        },
+        {
+          "name": {
+            "de": "Hautes-Alpes Departmental Museum",
+            "hu": "Hautes-Alpes Departmental Museum",
+            "ro": "Hautes-Alpes Departmental Museum",
+            "en": "Hautes-Alpes Departmental Museum"
+          },
+          "coords": [
+            6.08573,
+            44.5623
+          ],
+          "category": "museum",
+          "arrive_at": "12:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Hochgebirge durch faszinierende lokale Artefakte und nehmen Sie sich Zeit für das bemerkenswerte Mausoleum des Herzogs von Lesdiguières.",
+            "hu": "Ismerje meg a magashegységek gazdag történelmét a lenyűgöző helyi leleteken keresztül, és mindenképpen szánjon időt Lesdiguières hercegének figyelemre méltó mauzóleumára is.",
+            "ro": "Descoperiți istoria bogată a munților prin artefacte locale fascinante și rezervați-vă timp pentru a vizita remarcabilul mausoleu al Ducelui de Lesdiguières din interior.",
+            "en": "Discover the rich history of the high mountains through fascinating local artifacts, and save time for the remarkable mausoleum of the Duke of Lesdiguières inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pépinière",
+            "hu": "Parc de la Pépinière",
+            "ro": "Parc de la Pépinière",
+            "en": "Parc de la Pépinière"
+          },
+          "coords": [
+            6.087225,
+            44.562597
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser grünen Oase im Stadtzentrum mit schönen schattigen Wegen und bringen Sie ein kleines Picknick mit, das Sie bei Sonnenuntergang genießen können.",
+            "hu": "Kapcsolódjon ki a városközpont ezen buja zöld oázisában az árnyékos sétányokon, és hozzon magával egy kis pikniket, amit a zenepavilon melletti füvön fogyaszthat el.",
+            "ro": "Relaxați-vă în această oază verde luxuriantă din centrul orașului, cu alei umbrite, și aduceți un mic picnic pentru a-l savura pe iarbă lângă chioșcul de muzică.",
+            "en": "Unwind in this lush green oasis in the city center featuring beautiful shaded walkways, and bring a small picnic to enjoy on the grass near the bandstand at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen im historischen Herzen von Gap am Rathaus und dem lebhaften Place Jean Marcellin.\n\nMittag: Der Fokus liegt auf der hoch aufragenden Kathedrale Saint-Arnoux und einem Spaziergang auf der Rue Colonel Roux.\n\nNachmittag: Wir tauchen im Hautes-Alpes Departmental Museum in die lokale Bergwelt ein.\n\nAbend: Der Tag endet mit einem entspannenden Spaziergang im wunderschönen Parc de la Pépinière.",
+        "hu": "Reggel: Gap történelmi szívében, a Városházánál és a nyüzsgő Place Jean Marcellin téren kezdünk.\n\nDél: A figyelem a lenyűgöző Saint-Arnoux katedrálisra és az ősi Rue Colonel Roux utcára irányul.\n\nDélután: A Hautes-Alpes Megyei Múzeumban mélyedünk el a helyi hegyvidéki történelemben.\n\nEste: A napot egy pihentető esti sétával zárjuk a gyönyörű Parc de la Pépinière árnyas fái között.",
+        "ro": "Dimineața: Începem în inima istorică a orașului Gap la Primărie și în vibranta Place Jean Marcellin.\n\nPrânz: Ne concentrăm pe impunătoarea Catedrală Saint-Arnoux și pe o plimbare pe vechea Rue Colonel Roux.\n\nDupă-amiaza: Aprofundăm istoria montană locală la Muzeul Departamental Hautes-Alpes.\n\nSeara: Ziua se încheie cu o plimbare de seară relaxantă în frumosul Parc de la Pépinière.",
+        "en": "Morning: We begin in the historical heart of Gap at the City Hall and the vibrant Place Jean Marcellin.\n\nMidday: The focus shifts to the towering Saint-Arnoux Cathedral and a stroll down the ancient Rue Colonel Roux.\n\nAfternoon: We delve into local mountain history at the Hautes-Alpes Departmental Museum.\n\nEvening: The day concludes with a relaxing evening walk in the beautiful Parc de la Pépinière."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Jean Marcellin",
+            "hu": "Place Jean Marcellin",
+            "ro": "Place Jean Marcellin",
+            "en": "Place Jean Marcellin"
+          },
+          "coords": [
+            6.079644,
+            44.559228
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Brunnen an diesem pastellfarbenen Platz, aber kommen Sie an Markttagen früh, um sich einen gemütlichen Sitzplatz auf einer sonnigen Café-Terrasse zu sichern.",
+            "hu": "Pihenjen meg a szökőkútnál ezen a bájos, pasztellszínű téren, de piacnapokon érkezzen korán, hogy kényelmes helyet találjon az egyik napfényes kávézó teraszán.",
+            "ro": "Relaxați-vă lângă fântâna din această piață fermecătoare în culori pastelate, dar sosiți devreme în zilele de piață pentru a prinde un loc pe o terasă însorită.",
+            "en": "Relax by the fountain in this charming pastel-colored square, but try to arrive early on market days to secure a comfortable seat at one of the sunny café terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Arnoux Cathedral",
+            "hu": "Saint-Arnoux Cathedral",
+            "ro": "Saint-Arnoux Cathedral",
+            "en": "Saint-Arnoux Cathedral"
+          },
+          "coords": [
+            6.078119,
+            44.558206
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die neugotische Architektur und die polychromen Steine dieser majestätischen Kathedrale, und betrachten Sie die bunten Glasfenster im hellen Mittagslicht.",
+            "hu": "Fedezze fel ennek a fenséges katedrálisnak a lenyűgöző neogótikus építészetét és sokszínű köveit, és figyelje meg az üvegablakokat, amikor a legmagasabban jár a nap.",
+            "ro": "Explorați uimitoarea arhitectură neogotică și pietrele policrome ale acestei catedrale maiestuoase și priviți vitraliile rafinate atunci când soarele strălucește puternic.",
+            "en": "Explore the stunning Neo-Gothic architecture and polychrome stones of this majestic cathedral, and look closely at the exquisite stained glass when the sun is highest."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre La passerelle",
+            "hu": "Theatre La passerelle",
+            "ro": "Theatre La passerelle",
+            "en": "Theatre La passerelle"
+          },
+          "coords": [
+            6.077979,
+            44.555083
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die zeitgenössische Kulturszene an diesem prominenten Theaterort, aber schauen Sie früh am Tag an der Kasse nach Last-Minute-Tickets für den Abend.",
+            "hu": "Tapasztalja meg a kortárs kulturális életet ezen a kiemelkedő színházi helyszínen, de mindenképpen érdeklődjön korán a jegypénztárban az utolsó pillanatos esti jegyekért.",
+            "ro": "Experimentați scena culturală contemporană la acest teatru proeminent, dar asigurați-vă că verificați casa de bilete la începutul zilei pentru bilete pe ultima sută de metri.",
+            "en": "Experience the contemporary cultural scene at this prominent theater venue, but make sure to check the box office early in the day for last-minute evening tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Quattro",
+            "hu": "Le Quattro",
+            "ro": "Le Quattro",
+            "en": "Le Quattro"
+          },
+          "coords": [
+            6.095331,
+            44.565107
+          ],
+          "category": "cultural",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen architektonischen Linien dieser riesigen Mehrzweckhalle, und nutzen Sie den großen kostenlosen Parkplatz, wenn Sie mit dem Auto anreisen.",
+            "hu": "Csodálja meg e hatalmas, többcélú előadóterem modern építészeti vonalait, és vegye igénybe a nagy ingyenes parkolót, ha autóval érkezik egy nagyobb esti rendezvényre.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestei uriașe săli de spectacole și utilizați parcarea mare gratuită dacă ajungeți cu mașina pentru un eveniment important.",
+            "en": "Marvel at the modern architectural lines of this huge multipurpose performance hall, and utilize the large free parking lot if you are arriving by car for a big event."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pépinière",
+            "hu": "Parc de la Pépinière",
+            "ro": "Parc de la Pépinière",
+            "en": "Parc de la Pépinière"
+          },
+          "coords": [
+            6.087225,
+            44.562597
+          ],
+          "category": "natural",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser grünen Oase im Stadtzentrum mit schönen schattigen Wegen und bringen Sie ein kleines Picknick mit, das Sie bei Sonnenuntergang genießen können.",
+            "hu": "Kapcsolódjon ki a városközpont ezen buja zöld oázisában az árnyékos sétányokon, és hozzon magával egy kis pikniket, amit a zenepavilon melletti füvön fogyaszthat el.",
+            "ro": "Relaxați-vă în această oază verde luxuriantă din centrul orașului, cu alei umbrite, și aduceți un mic picnic pentru a-l savura pe iarbă lângă chioșcul de muzică.",
+            "en": "Unwind in this lush green oasis in the city center featuring beautiful shaded walkways, and bring a small picnic to enjoy on the grass near the bandstand at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Charance",
+            "hu": "Domaine de Charance",
+            "ro": "Domaine de Charance",
+            "en": "Domaine de Charance"
+          },
+          "coords": [
+            6.05333,
+            44.5761
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch prächtige Terrassengärten und malerische Wälder, die ein schönes Schloss umgeben, und nehmen Sie eine Wasserflasche für die anspruchsvollen Wege mit.",
+            "hu": "Barangoljon egy gyönyörű kastélyt körülvevő teraszos kertekben és festői erdőkben, és vigyen magával vizet, mivel a felfelé vezető túraútvonalak meglehetősen megerőltetőek.",
+            "ro": "Plimbați-vă prin grădinile magnifice în terase și pădurile din jurul unui castel frumos și luați o sticlă cu apă, deoarece traseele de mers pe jos în sus pot fi solicitante.",
+            "en": "Wander through magnificent terraced gardens and scenic woods surrounding a beautiful chateau, and carry a water bottle since the uphill walking trails can be quite demanding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Radtour am pastellfarbenen Place Jean Marcellin, bevor Sie zur prächtigen Kathedrale Saint-Arnoux fahren.\n\nMittag: Radeln Sie zum Theatre La passerelle und weiter zum modernen Le Quattro.\n\nNachmittag: Kehren Sie in Richtung Stadtzentrum zurück, um eine friedliche Pause im Grünen des Parc de la Pépinière zu machen.\n\nAbend: Beenden Sie Ihre Fahrt mit einem landschaftlich reizvollen Ausflug zur Domaine de Charance.",
+        "hu": "Reggel: Kezdje a kerékpártúrát a pasztellszínű Place Jean Marcellin téren, majd tekerjen el a csodálatos Saint-Arnoux katedrálishoz.\n\nDél: Tekerjen át a Theatre La passerelle-hez, majd folytassa az útját a modern Le Quattro felé.\n\nDélután: Térjen vissza a városközpontba egy békés pihenőre a Parc de la Pépinière zöldellő fái közé.\n\nEste: Fejezze be a túrát egy festői és kissé megerőltető tekeréssel a fenséges Domaine de Charance-hoz.",
+        "ro": "Dimineața: Începeți turul cu bicicleta în Place Jean Marcellin, înainte de a vă îndrepta spre magnifica Catedrală Saint-Arnoux.\n\nPrânz: Pedalați spre Theatre La passerelle și apoi mergeți spre moderna sală Le Quattro.\n\nDupă-amiaza: Întoarceți-vă spre centrul orașului pentru o pauză liniștită în verdeața din Parc de la Pépinière.\n\nSeara: Terminați plimbarea cu o excursie pitorească până la grandiosul Domaine de Charance.",
+        "en": "Morning: Kick off your cycling tour at the pastel-colored Place Jean Marcellin before heading to the magnificent Saint-Arnoux Cathedral.\n\nMidday: Pedal over to Theatre La passerelle to admire its modern cultural footprint, then ride out to Le Quattro.\n\nAfternoon: Return towards the city center for a peaceful break amidst the greenery of Parc de la Pépinière.\n\nEvening: Finish your ride with a scenic and slightly demanding trip up to the grand Domaine de Charance."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 9.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Arnoux Cathedral",
+            "hu": "Saint-Arnoux Cathedral",
+            "ro": "Saint-Arnoux Cathedral",
+            "en": "Saint-Arnoux Cathedral"
+          },
+          "coords": [
+            6.078119,
+            44.558206
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die neugotische Architektur und die polychromen Steine dieser majestätischen Kathedrale, und betrachten Sie die bunten Glasfenster im hellen Mittagslicht.",
+            "hu": "Fedezze fel ennek a fenséges katedrálisnak a lenyűgöző neogótikus építészetét és sokszínű köveit, és figyelje meg az üvegablakokat, amikor a legmagasabban jár a nap.",
+            "ro": "Explorați uimitoarea arhitectură neogotică și pietrele policrome ale acestei catedrale maiestuoase și priviți vitraliile rafinate atunci când soarele strălucește puternic.",
+            "en": "Explore the stunning Neo-Gothic architecture and polychrome stones of this majestic cathedral, and look closely at the exquisite stained glass when the sun is highest."
+          }
+        },
+        {
+          "name": {
+            "de": "Hautes-Alpes Departmental Museum",
+            "hu": "Hautes-Alpes Departmental Museum",
+            "ro": "Hautes-Alpes Departmental Museum",
+            "en": "Hautes-Alpes Departmental Museum"
+          },
+          "coords": [
+            6.08573,
+            44.5623
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Hochgebirge durch faszinierende lokale Artefakte und nehmen Sie sich Zeit für das bemerkenswerte Mausoleum des Herzogs von Lesdiguières.",
+            "hu": "Ismerje meg a magashegységek gazdag történelmét a lenyűgöző helyi leleteken keresztül, és mindenképpen szánjon időt Lesdiguières hercegének figyelemre méltó mauzóleumára is.",
+            "ro": "Descoperiți istoria bogată a munților prin artefacte locale fascinante și rezervați-vă timp pentru a vizita remarcabilul mausoleu al Ducelui de Lesdiguières din interior.",
+            "en": "Discover the rich history of the high mountains through fascinating local artifacts, and save time for the remarkable mausoleum of the Duke of Lesdiguières inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Quattro",
+            "hu": "Le Quattro",
+            "ro": "Le Quattro",
+            "en": "Le Quattro"
+          },
+          "coords": [
+            6.095331,
+            44.565107
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen architektonischen Linien dieser riesigen Mehrzweckhalle, und nutzen Sie den großen kostenlosen Parkplatz, wenn Sie mit dem Auto anreisen.",
+            "hu": "Csodálja meg e hatalmas, többcélú előadóterem modern építészeti vonalait, és vegye igénybe a nagy ingyenes parkolót, ha autóval érkezik egy nagyobb esti rendezvényre.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestei uriașe săli de spectacole și utilizați parcarea mare gratuită dacă ajungeți cu mașina pentru un eveniment important.",
+            "en": "Marvel at the modern architectural lines of this huge multipurpose performance hall, and utilize the large free parking lot if you are arriving by car for a big event."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Charance",
+            "hu": "Domaine de Charance",
+            "ro": "Domaine de Charance",
+            "en": "Domaine de Charance"
+          },
+          "coords": [
+            6.05333,
+            44.5761
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch prächtige Terrassengärten und malerische Wälder, die ein schönes Schloss umgeben, und nehmen Sie eine Wasserflasche für die anspruchsvollen Wege mit.",
+            "hu": "Barangoljon egy gyönyörű kastélyt körülvevő teraszos kertekben és festői erdőkben, és vigyen magával vizet, mivel a felfelé vezető túraútvonalak meglehetősen megerőltetőek.",
+            "ro": "Plimbați-vă prin grădinile magnifice în terase și pădurile din jurul unui castel frumos și luați o sticlă cu apă, deoarece traseele de mers pe jos în sus pot fi solicitante.",
+            "en": "Wander through magnificent terraced gardens and scenic woods surrounding a beautiful chateau, and carry a water bottle since the uphill walking trails can be quite demanding."
+          }
+        },
+        {
+          "name": {
+            "de": "National Alpine Botanical Conservatory",
+            "hu": "National Alpine Botanical Conservatory",
+            "ro": "National Alpine Botanical Conservatory",
+            "en": "National Alpine Botanical Conservatory"
+          },
+          "coords": [
+            6.0513,
+            44.5763
+          ],
+          "category": "natural",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Studieren Sie seltene und gefährdete Alpenflora in diesen weitläufigen Gärten, und holen Sie sich am Eingang eine kostenlose Karte, um die Heilpflanzen nicht zu verpassen.",
+            "hu": "Tanulmányozza a hatalmas kertekben gondosan megőrzött ritka és veszélyeztetett alpesi növényvilágot, és kérjen egy ingyenes térképet, hogy ne hagyja ki a gyógynövényeket.",
+            "ro": "Studiați flora alpină rară conservată cu meticulozitate în aceste grădini extinse și luați o hartă gratuită la intrare pentru a fi sigur că nu ratați plantele medicinale.",
+            "en": "Study rare and endangered alpine flora meticulously preserved in these sprawling gardens, and grab a free map at the entrance to ensure you do not miss the medicinal plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin plongeoirs",
+            "hu": "Bassin plongeoirs",
+            "ro": "Bassin plongeoirs",
+            "en": "Bassin plongeoirs"
+          },
+          "coords": [
+            6.060136,
+            44.541433
+          ],
+          "category": "family",
+          "arrive_at": "15:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad oder testen Sie die aufregenden Sprungbretter in diesem Wasserkomplex, aber bringen Sie ein Vorhängeschloss für die Schließfächer mit.",
+            "hu": "Élvezze a frissítő fürdőzést vagy próbálja ki az ugródeszkákat ebben a kiváló vízi komplexumban, de hozzon magával lakatot, hogy biztonságban tudhassa az értékeit az öltözőben.",
+            "ro": "Bucurați-vă de o baie răcoritoare sau încercați trambulinele în acest excelent complex acvatic, deși trebuie să aduceți propriul lacăt pentru a vă asigura lucrurile în vestiare.",
+            "en": "Enjoy a refreshing dip or try out the thrilling diving boards in this excellent aquatic complex, though bring your own padlock to safely secure your belongings in the lockers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Ihre Fahrt beginnt direkt am architektonischen Wunder der Kathedrale Saint-Arnoux und führt Sie schnell zu den Artefakten des Museums.\n\nMittag: Fahren Sie in die Außenbezirke, um das markante Design der Veranstaltungshalle Le Quattro zu sehen.\n\nNachmittag: Fahren Sie in die Hügel, um das weitläufige Gelände der Domaine de Charance und das Alpine Botanical Conservatory zu erkunden.\n\nAbend: Entspannen Sie sich bei familiärem Badespaß im Schwimmzentrum Bassin plongeoirs.",
+        "hu": "Reggel: Az autós túra a Saint-Arnoux katedrális építészeti csodájánál kezdődik, majd a Megyei Múzeum lenyűgöző leleteinél folytatódik.\n\nDél: Hajtson ki a külvárosba, hogy megnézze a Le Quattro előadóterem feltűnő dizájnját.\n\nDélután: Irány a dombvidék, ahol felfedezheti a Domaine de Charance hatalmas területét és a közeli Alpesi Botanikus Kertet.\n\nEste: Vezessen le egy kis családi szórakozással és pihenéssel a Bassin plongeoirs vízi központban.",
+        "ro": "Dimineața: Călătoria dvs. începe chiar la minunea arhitecturală a Catedralei Saint-Arnoux, trecând rapid la artefactele Muzeului Departamental.\n\nPrânz: Conduceți la periferie pentru a vedea designul izbitor al sălii de spectacole Le Quattro.\n\nDupă-amiaza: Mergeți spre dealuri pentru a explora vastele terenuri de la Domaine de Charance și Conservatorul Botanic Alpin din apropiere.\n\nSeara: Relaxați-vă cu puțină distracție în familie la centrul acvatic Bassin plongeoirs.",
+        "en": "Morning: Your drive starts right at the architectural marvel of Saint-Arnoux Cathedral, moving quickly to the artifacts of the Departmental Museum.\n\nMidday: Drive to the outskirts to see the striking design of the Le Quattro performance hall.\n\nAfternoon: Head up into the hills to explore the vast grounds of the Domaine de Charance and the nearby Alpine Botanical Conservatory.\n\nEvening: Wind down with some family fun and relaxation at the Bassin plongeoirs aquatic center."
+      }
+    }
+  }
+}

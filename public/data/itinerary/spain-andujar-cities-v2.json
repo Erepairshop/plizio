@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-andujar-cities-v2",
+  "anchor": {
+    "name": "Andújar",
+    "coords": [
+      -4.054088,
+      38.037127
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 2.12,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco de Capuchinos",
+            "hu": "Arco de Capuchinos",
+            "ro": "Arco de Capuchinos",
+            "en": "Arco de Capuchinos"
+          },
+          "coords": [
+            -4.047218,
+            38.036398
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Torhaus als eindrucksvolles Überbleibsel der alten Stadtmauer, wobei sich ein genauer Blick auf die Details am späten Vormittag besonders lohnt.",
+            "hu": "Csodálja meg ezt a történelmi kaput, amely a régi városfal lenyűgöző maradványa, és érdemes délelőtt megnézni a finom építészeti részleteket.",
+            "ro": "Admirați această poartă istorică drept o rămășiță impresionantă a vechilor ziduri ale orașului, profitând de lumina dimineții pentru a observa detaliile arhitecturale fine.",
+            "en": "Admire this historical gatehouse as an impressive remnant of the old city walls, making sure to visit in the morning light to fully appreciate its fine architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            -4.052926,
+            38.036416
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische Vergangenheit Andújars in diesen Ausstellungsräumen und nehmen Sie sich genügend Zeit für die römischen Artefakte.",
+            "hu": "Fedezze fel Andújar gazdag régészeti múltját ezekben a kiállítótermekben, és szánjon elegendő időt az egyedülálló római kori leletekre.",
+            "ro": "Descoperiți bogatul trecut arheologic al orașului Andújar în aceste săli de expoziție, alocând suficient timp pentru a admira artefactele romane bine conservate.",
+            "en": "Discover the rich archaeological past of Andújar within these exhibition rooms, ensuring you allocate enough time to admire the well-preserved Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Cárdenas y Valdivia",
+            "hu": "Casa de los Cárdenas y Valdivia",
+            "ro": "Casa de los Cárdenas y Valdivia",
+            "en": "Casa de los Cárdenas y Valdivia"
+          },
+          "coords": [
+            -4.054195,
+            38.036393
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante Wahrzeichen der lokalen Adelsarchitektur von außen und achten Sie auf die steinernen Wappen über dem eleganten Hauptportal.",
+            "hu": "Tekintse meg kívülről a helyi nemesi építészet e feltűnő nevezetességét, és figyelje meg az elegáns főportál felett található kőbe vésett címereket.",
+            "ro": "Priviți din exterior acest reper impresionant al arhitecturii nobiliare locale, acordând o atenție deosebită blazoanelor sculptate în piatră de deasupra portalului principal.",
+            "en": "View this striking landmark of local noble architecture from the outside, paying special attention to the stone coats of arms carved above the elegant main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Portada de Casa de los Albarracin",
+            "hu": "Casa de los Albarracin Portál",
+            "ro": "Portalul Casa de los Albarracin",
+            "en": "Portada de Casa de los Albarracin"
+          },
+          "coords": [
+            -4.055647,
+            38.037649
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser prächtigen Renaissance-Fassade, um die kunstvollen Verzierungen zu fotografieren, die den Reichtum der damaligen Handelsfamilien widerspiegeln.",
+            "hu": "Álljon meg ennél a csodálatos reneszánsz homlokzatnál, és fényképezze le a díszes faragásokat, amelyek a korabeli kereskedőcsaládok gazdagságát tükrözik.",
+            "ro": "Opriți-vă la această fațadă renascentistă magnifică pentru a fotografia ornamentele detaliate care reflectă bogăția familiilor de comercianți din acele vremuri.",
+            "en": "Stop at this magnificent Renaissance facade to photograph the intricate carvings that vividly reflect the immense wealth of the merchant families from that era."
+          }
+        },
+        {
+          "name": {
+            "de": "Fachada del Palacio de los Pérez de Vargas y Gormaz",
+            "hu": "A Pérez de Vargas y Gormaz Palota Homlokzata",
+            "ro": "Fațada Palacio de los Pérez de Vargas y Gormaz",
+            "en": "Facade of the Palacio de los Pérez de Vargas y Gormaz"
+          },
+          "coords": [
+            -4.056644,
+            38.036799
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Studieren Sie die Barockelemente dieses Palastes aus dem 17. Jahrhundert, dessen majestätische Straßenfront das historische Stadtbild Andújars entscheidend prägt.",
+            "hu": "Tanulmányozza a 17. századi palota barokk elemeit, melynek fenséges utcai homlokzata meghatározó szerepet játszik Andújar történelmi városképében.",
+            "ro": "Studiați elementele baroce ale acestui palat din secolul al XVII-lea, a cărui fațadă stradală maiestuoasă modelează decisiv peisajul istoric al orașului Andújar.",
+            "en": "Study the baroque elements of this 17th-century palace, whose majestic street facade plays a crucial role in shaping the historical cityscape of Andújar."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Bartolomé",
+            "hu": "San Bartolomé Templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Iglesia de San Bartolomé"
+          },
+          "coords": [
+            -4.058903,
+            38.040297
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Betreten Sie diese geschichtsträchtige Kirche, um die wunderschönen gotischen Rippengewölbe zu bewundern, und achten Sie auf die Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű gótikus bordás boltozatokat, és élvezze a hűvös főhajó megnyugtató csendjét.",
+            "ro": "Pășiți în această biserică istorică pentru a admira frumoasele bolți gotice cu nervuri și bucurați-vă de liniștea profundă din nava principală răcoroasă.",
+            "en": "Step into this historic church to admire the beautiful Gothic ribbed vaults, and enjoy the deep, calming silence found within the cool main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano de Andújar",
+            "hu": "Andújar Római Hídja",
+            "ro": "Podul Roman din Andújar",
+            "en": "Puente Romano de Andújar"
+          },
+          "coords": [
+            -4.061043,
+            38.033528
+          ],
+          "category": "landmark",
+          "arrive_at": "14:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese antike Brücke über den Guadalquivir und fotografieren Sie das Wasser im warmen Licht des späten Nachmittags, um die Reise ausklingen zu lassen.",
+            "hu": "Sétáljon át a Guadalquivir folyón átívelő ókori hídon, és fényképezze le a vizet a késő délutáni meleg fényben, hogy tökéletesen zárja a napot.",
+            "ro": "Plimbați-vă pe acest pod antic peste râul Guadalquivir și fotografiați apa în lumina caldă a după-amiezii târzii pentru a încheia perfect călătoria.",
+            "en": "Stroll across this ancient bridge over the Guadalquivir river, photographing the water in the warm late afternoon light to perfectly conclude your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am majestätischen Arco de Capuchinos. Gegen Mittag tauchen Sie im Museo Histórico tief in die lokale Geschichte ein, bevor Sie die prächtigen alten Herrenhäuser im Stadtzentrum erkunden. Am Nachmittag bietet die gotische Iglesia de San Bartolomé einen ruhigen Rückzugsort. Der Tag endet stimmungsvoll auf der antiken römischen Brücke über dem Fluss.",
+        "hu": "Kezdje a napot a fenséges Arco de Capuchinosnál. Dél körül a Museo Históricóban merülhet el a helyi történelemben, mielőtt felfedezné a központ régi kúriáit. Délután a gótikus Iglesia de San Bartolomé kínál csendes menedéket. A nap hangulatos sétával zárul a folyón átívelő ókori római hídon, ahonnan gyönyörű kilátás nyílik a lemenő napfényben.",
+        "ro": "Începeți ziua la maiestuosul Arco de Capuchinos. La prânz, aprofundați istoria locală la Museo Histórico, înainte de a explora vechile conace nobiliare din centrul orașului. După-amiaza, biserica gotică San Bartolomé vă oferă un refugiu liniștit. Ziua se încheie într-o atmosferă magică pe podul roman antic, admirând apele liniștite ale râului.",
+        "en": "Start your day at the majestic Arco de Capuchinos. Around midday, dive deep into local history at the Museo Histórico before exploring the grand old mansions in the city center. In the afternoon, the Gothic Iglesia de San Bartolomé provides a peaceful retreat. The day ends atmospherically on the ancient Roman bridge crossing the beautiful river."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 2.43,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco de Capuchinos",
+            "hu": "Arco de Capuchinos",
+            "ro": "Arco de Capuchinos",
+            "en": "Arco de Capuchinos"
+          },
+          "coords": [
+            -4.047218,
+            38.036398
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Torhaus als eindrucksvolles Überbleibsel der alten Stadtmauer, wobei sich ein genauer Blick auf die Details am späten Vormittag besonders lohnt.",
+            "hu": "Csodálja meg ezt a történelmi kaput, amely a régi városfal lenyűgöző maradványa, és érdemes délelőtt megnézni a finom építészeti részleteket.",
+            "ro": "Admirați această poartă istorică drept o rămășiță impresionantă a vechilor ziduri ale orașului, profitând de lumina dimineții pentru a observa detaliile arhitecturale fine.",
+            "en": "Admire this historical gatehouse as an impressive remnant of the old city walls, making sure to visit in the morning light to fully appreciate its fine architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Fő Színház",
+            "ro": "Teatrul Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -4.05124,
+            38.038301
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die klassische Architektur dieses kulturellen Zentrums, das seit Generationen das pulsierende künstlerische Herz der Gemeinde darstellt.",
+            "hu": "Vessen egy pillantást ennek a kulturális központnak a klasszikus építészetére, amely generációk óta a közösség lüktető művészeti szíveként szolgál.",
+            "ro": "Aruncați o privire la arhitectura clasică a acestui centru cultural, care de generații întregi reprezintă inima artistică vibrantă a întregii comunități.",
+            "en": "Take a look at the classical architecture of this cultural center, which has served as the pulsing artistic heart of the community for many generations."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            -4.052926,
+            38.036416
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische Vergangenheit Andújars in diesen Ausstellungsräumen und nehmen Sie sich genügend Zeit für die römischen Artefakte.",
+            "hu": "Fedezze fel Andújar gazdag régészeti múltját ezekben a kiállítótermekben, és szánjon elegendő időt az egyedülálló római kori leletekre.",
+            "ro": "Descoperiți bogatul trecut arheologic al orașului Andújar în aceste săli de expoziție, alocând suficient timp pentru a admira artefactele romane bine conservate.",
+            "en": "Discover the rich archaeological past of Andújar within these exhibition rooms, ensuring you allocate enough time to admire the well-preserved Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Cárdenas y Valdivia",
+            "hu": "Casa de los Cárdenas y Valdivia",
+            "ro": "Casa de los Cárdenas y Valdivia",
+            "en": "Casa de los Cárdenas y Valdivia"
+          },
+          "coords": [
+            -4.054195,
+            38.036393
+          ],
+          "category": "landmark",
+          "arrive_at": "12:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante Wahrzeichen der lokalen Adelsarchitektur von außen und achten Sie auf die steinernen Wappen über dem eleganten Hauptportal.",
+            "hu": "Tekintse meg kívülről a helyi nemesi építészet e feltűnő nevezetességét, és figyelje meg az elegáns főportál felett található kőbe vésett címereket.",
+            "ro": "Priviți din exterior acest reper impresionant al arhitecturii nobiliare locale, acordând o atenție deosebită blazoanelor sculptate în piatră de deasupra portalului principal.",
+            "en": "View this striking landmark of local noble architecture from the outside, paying special attention to the stone coats of arms carved above the elegant main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Rincón Cordobés",
+            "hu": "Rincón Cordobés",
+            "ro": "Rincón Cordobés",
+            "en": "Rincon Cordobés"
+          },
+          "coords": [
+            -4.057769,
+            38.037856
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige andalusische Atmosphäre in diesem malerischen Winkel, der sich perfekt für eine kurze Verschnaufpause im Schatten eignet.",
+            "hu": "Élvezze a csendes andalúz hangulatot ezen a festői sarokban, amely tökéletes egy rövid, árnyékos pihenőre a városnézés közben.",
+            "ro": "Bucurați-vă de atmosfera andaluză liniștită în acest colț pitoresc, care oferă locul perfect pentru o scurtă pauză la umbră în timpul plimbării.",
+            "en": "Enjoy the quiet Andalusian atmosphere in this picturesque corner, which provides the perfect spot for a brief, shaded rest during your sightseeing tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Artes Plásticas Antonio González Orea",
+            "hu": "Antonio González Orea Képzőművészeti Múzeum",
+            "ro": "Muzeul de Arte Plastice Antonio González Orea",
+            "en": "Antonio González Orea Museum of Plastic Arts"
+          },
+          "coords": [
+            -4.056897,
+            38.041071
+          ],
+          "category": "museum",
+          "arrive_at": "13:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den beeindruckenden Skulpturen in diesem ehemaligen Klostergebäude inspirieren und besuchen Sie unbedingt den ruhigen, lichtdurchfluteten Innenhof.",
+            "hu": "Merítsen ihletet a lenyűgöző szobrokból ebben az egykori kolostorépületben, és feltétlenül látogasson el a csendes, fényárban úszó belső udvarra is.",
+            "ro": "Lăsați-vă inspirat de sculpturile impresionante din această fostă mănăstire și nu ratați curtea interioară liniștită, mereu inundată de o lumină frumoasă.",
+            "en": "Be inspired by the impressive sculptures housed in this former monastery, and make sure you do not miss the tranquil, light-flooded inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Bartolomé",
+            "hu": "San Bartolomé Templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Iglesia de San Bartolomé"
+          },
+          "coords": [
+            -4.058903,
+            38.040297
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Betreten Sie diese geschichtsträchtige Kirche, um die wunderschönen gotischen Rippengewölbe zu bewundern, und achten Sie auf die Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű gótikus bordás boltozatokat, és élvezze a hűvös főhajó megnyugtató csendjét.",
+            "ro": "Pășiți în această biserică istorică pentru a admira frumoasele bolți gotice cu nervuri și bucurați-vă de liniștea profundă din nava principală răcoroasă.",
+            "en": "Step into this historic church to admire the beautiful Gothic ribbed vaults, and enjoy the deep, calming silence found within the cool main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano de Andújar",
+            "hu": "Andújar Római Hídja",
+            "ro": "Podul Roman din Andújar",
+            "en": "Puente Romano de Andújar"
+          },
+          "coords": [
+            -4.061043,
+            38.033528
+          ],
+          "category": "landmark",
+          "arrive_at": "15:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese antike Brücke über den Guadalquivir und fotografieren Sie das Wasser im warmen Licht des späten Nachmittags, um die Reise ausklingen zu lassen.",
+            "hu": "Sétáljon át a Guadalquivir folyón átívelő ókori hídon, és fényképezze le a vizet a késő délutáni meleg fényben, hogy tökéletesen zárja a napot.",
+            "ro": "Plimbați-vă pe acest pod antic peste râul Guadalquivir și fotografiați apa în lumina caldă a după-amiezii târzii pentru a încheia perfect călătoria.",
+            "en": "Stroll across this ancient bridge over the Guadalquivir river, photographing the water in the warm late afternoon light to perfectly conclude your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie vom Arco de Capuchinos zum Teatro Principal in die Pedale. Mittags erkunden Sie die historische Altstadt und das faszinierende Rincón Cordobés auf zwei Rädern. Der Nachmittag ist der Kunst im Museo González Orea und der beeindruckenden Architektur der San Bartolomé Kirche gewidmet. Eine entspannte Fahrt zur Römischen Brücke bildet den perfekten Abschluss.",
+        "hu": "Kerékpározzon az Arco de Capuchinostól a Teatro Principal felé. Délben két keréken fedezheti fel a történelmi óvárost és a lenyűgöző Rincón Cordobést. A délután a művészeté a Museo González Oreában, valamint a San Bartolomé templom csodálatos építészetéé. A napot egy pihentető tekerés zárja az ősi római hídhoz, gyönyörű természeti környezetben.",
+        "ro": "Porniți pe bicicletă de la Arco de Capuchinos spre Teatro Principal. La prânz, explorați centrul istoric și fascinantul Rincón Cordobés pe două roți. După-amiaza este dedicată artei la Museo González Orea și arhitecturii bisericii San Bartolomé. O plimbare relaxantă până la Podul Roman reprezintă încheierea perfectă a acestei zile pline de descoperiri.",
+        "en": "Pedal from the Arco de Capuchinos towards the Teatro Principal. At midday, explore the historic old town and the fascinating Rincón Cordobés on two wheels. The afternoon is dedicated to art at the Museo González Orea and the stunning architecture of San Bartolomé. A relaxing ride to the Roman Bridge forms the perfect, scenic conclusion to your trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 2.64,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Artes Plásticas Antonio González Orea",
+            "hu": "Antonio González Orea Képzőművészeti Múzeum",
+            "ro": "Muzeul de Arte Plastice Antonio González Orea",
+            "en": "Antonio González Orea Museum of Plastic Arts"
+          },
+          "coords": [
+            -4.056897,
+            38.041071
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den beeindruckenden Skulpturen in diesem ehemaligen Klostergebäude inspirieren und besuchen Sie unbedingt den ruhigen, lichtdurchfluteten Innenhof.",
+            "hu": "Merítsen ihletet a lenyűgöző szobrokból ebben az egykori kolostorépületben, és feltétlenül látogasson el a csendes, fényárban úszó belső udvarra is.",
+            "ro": "Lăsați-vă inspirat de sculpturile impresionante din această fostă mănăstire și nu ratați curtea interioară liniștită, mereu inundată de o lumină frumoasă.",
+            "en": "Be inspired by the impressive sculptures housed in this former monastery, and make sure you do not miss the tranquil, light-flooded inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Bartolomé",
+            "hu": "San Bartolomé Templom",
+            "ro": "Biserica San Bartolomé",
+            "en": "Iglesia de San Bartolomé"
+          },
+          "coords": [
+            -4.058903,
+            38.040297
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Betreten Sie diese geschichtsträchtige Kirche, um die wunderschönen gotischen Rippengewölbe zu bewundern, und achten Sie auf die Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű gótikus bordás boltozatokat, és élvezze a hűvös főhajó megnyugtató csendjét.",
+            "ro": "Pășiți în această biserică istorică pentru a admira frumoasele bolți gotice cu nervuri și bucurați-vă de liniștea profundă din nava principală răcoroasă.",
+            "en": "Step into this historic church to admire the beautiful Gothic ribbed vaults, and enjoy the deep, calming silence found within the cool main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Portada de Casa de los Albarracin",
+            "hu": "Casa de los Albarracin Portál",
+            "ro": "Portalul Casa de los Albarracin",
+            "en": "Portada de Casa de los Albarracin"
+          },
+          "coords": [
+            -4.055647,
+            38.037649
+          ],
+          "category": "landmark",
+          "arrive_at": "11:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser prächtigen Renaissance-Fassade, um die kunstvollen Verzierungen zu fotografieren, die den Reichtum der damaligen Handelsfamilien widerspiegeln.",
+            "hu": "Álljon meg ennél a csodálatos reneszánsz homlokzatnál, és fényképezze le a díszes faragásokat, amelyek a korabeli kereskedőcsaládok gazdagságát tükrözik.",
+            "ro": "Opriți-vă la această fațadă renascentistă magnifică pentru a fotografia ornamentele detaliate care reflectă bogăția familiilor de comercianți din acele vremuri.",
+            "en": "Stop at this magnificent Renaissance facade to photograph the intricate carvings that vividly reflect the immense wealth of the merchant families from that era."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            -4.052926,
+            38.036416
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische Vergangenheit Andújars in diesen Ausstellungsräumen und nehmen Sie sich genügend Zeit für die römischen Artefakte.",
+            "hu": "Fedezze fel Andújar gazdag régészeti múltját ezekben a kiállítótermekben, és szánjon elegendő időt az egyedülálló római kori leletekre.",
+            "ro": "Descoperiți bogatul trecut arheologic al orașului Andújar în aceste săli de expoziție, alocând suficient timp pentru a admira artefactele romane bine conservate.",
+            "en": "Discover the rich archaeological past of Andújar within these exhibition rooms, ensuring you allocate enough time to admire the well-preserved Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de Capuchinos",
+            "hu": "Arco de Capuchinos",
+            "ro": "Arco de Capuchinos",
+            "en": "Arco de Capuchinos"
+          },
+          "coords": [
+            -4.047218,
+            38.036398
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Torhaus als eindrucksvolles Überbleibsel der alten Stadtmauer, wobei sich ein genauer Blick auf die Details am späten Vormittag besonders lohnt.",
+            "hu": "Csodálja meg ezt a történelmi kaput, amely a régi városfal lenyűgöző maradványa, és érdemes délelőtt megnézni a finom építészeti részleteket.",
+            "ro": "Admirați această poartă istorică drept o rămășiță impresionantă a vechilor ziduri ale orașului, profitând de lumina dimineții pentru a observa detaliile arhitecturale fine.",
+            "en": "Admire this historical gatehouse as an impressive remnant of the old city walls, making sure to visit in the morning light to fully appreciate its fine architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Romano de Andújar",
+            "hu": "Andújar Római Hídja",
+            "ro": "Podul Roman din Andújar",
+            "en": "Puente Romano de Andújar"
+          },
+          "coords": [
+            -4.061043,
+            38.033528
+          ],
+          "category": "landmark",
+          "arrive_at": "14:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese antike Brücke über den Guadalquivir und fotografieren Sie das Wasser im warmen Licht des späten Nachmittags, um die Reise ausklingen zu lassen.",
+            "hu": "Sétáljon át a Guadalquivir folyón átívelő ókori hídon, és fényképezze le a vizet a késő délutáni meleg fényben, hogy tökéletesen zárja a napot.",
+            "ro": "Plimbați-vă pe acest pod antic peste râul Guadalquivir și fotografiați apa în lumina caldă a după-amiezii târzii pentru a încheia perfect călătoria.",
+            "en": "Stroll across this ancient bridge over the Guadalquivir river, photographing the water in the warm late afternoon light to perfectly conclude your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem am Museo González Orea im Nordwesten der Stadt. Mittags fahren Sie in die Nähe der historischen Plätze, um die Portada de Casa de los Albarracin und das Stadtmuseum zu besichtigen. Der Nachmittag bringt Sie zum geschichtsträchtigen Arco de Capuchinos. Schließlich fahren Sie zur Römischen Brücke, um dort in Ruhe den Abend einzuläuten.",
+        "hu": "Kezdje kényelmesen a napot a város északnyugati részén található Museo González Oreánál. Délben hajtson a történelmi terek közelébe, hogy megtekintse az Albarracin ház portálját és a városi múzeumot. A délután a történelmi Arco de Capuchinoshoz vezeti. Végül vezessen el a római hídhoz, hogy ott csendes, békés környezetben köszöntse az estét.",
+        "ro": "Începeți confortabil la Museo González Orea, în nord-vestul orașului. La prânz, conduceți aproape de piețele istorice pentru a vizita portalul Casa de los Albarracin și muzeul orașului. După-amiaza vă aduce la istoricul Arco de Capuchinos. În cele din urmă, îndreptați-vă spre Podul Roman pentru a întâmpina seara într-o atmosferă liniștită și relaxantă.",
+        "en": "Start comfortably at the Museo González Orea in the northwest of the city. At midday, drive near the historic squares to visit the Casa de los Albarracin portal and the city museum. The afternoon brings you to the historic Arco de Capuchinos. Finally, drive to the Roman Bridge to quietly ring in the evening with beautiful views over the peaceful water."
+      }
+    }
+  }
+}

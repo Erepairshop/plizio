@@ -1,0 +1,451 @@
+{
+  "city_id": "etoile-sur-rhone",
+  "anchor": {
+    "name": "Étoile-sur-Rhône",
+    "coords": [
+      4.8939,
+      44.8369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 3.27,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Boisse",
+            "hu": "Château de la Boisse",
+            "ro": "Château de la Boisse",
+            "en": "Château de la Boisse"
+          },
+          "coords": [
+            4.894703,
+            44.837335
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser historischen Burg, die einst das Rhonetal bewachte, und besuchen Sie den Innenhof am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a középkori építészetét, amely egykor a Rhône völgyét őrizte, és a legjobb fényviszonyokért kora reggel látogassa meg az udvart.",
+            "ro": "Admirați arhitectura medievală a acestui castel istoric care păzea cândva valea Ronului și încercați să vizitați curtea la primele ore ale dimineții pentru cea mai bună lumină.",
+            "en": "Admire the medieval architecture of this historic castle that once guarded the Rhône valley, and try to visit the courtyard during early morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame-templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            4.892932,
+            44.837338
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschöne religiöse Denkmal, um seine markanten Gewölbedecken zu sehen, und achten Sie auf die komplexen Buntglasfenster in der Nähe des Hauptaltars.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási műemlékbe, hogy megtekinthesse feltűnő boltozatos mennyezetét, és ne felejtse el megnézni a bonyolult ólomüveg részleteket a főoltár közelében.",
+            "ro": "Pășiți în acest frumos monument religios pentru a vedea tavanele sale boltite uimitoare și nu uitați să căutați detaliile vitraliilor complicate din apropierea altarului principal.",
+            "en": "Step inside this beautiful religious monument to see its striking vaulted ceilings, and don't forget to look for the intricate stained glass details near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel",
+            "hu": "Templom",
+            "ro": "Templul",
+            "en": "Temple"
+          },
+          "coords": [
+            4.893292,
+            44.838456
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Ort der Anbetung, der die protestantische Geschichte der Region beleuchtet, und nehmen Sie sich Zeit für die Informationstafel neben dem Eingang.",
+            "hu": "Fedezze fel ezt a békés istentiszteleti helyet, amely a régió protestáns történelmét emeli ki, és szánjon egy percet a bejárat mellett található információs tábla elolvasására.",
+            "ro": "Explorați acest lăcaș de cult liniștit care evidențiază istoria protestantă a regiunii și luați-vă un moment pentru a citi placa informativă aflată chiar lângă intrarea principală.",
+            "en": "Explore this serene place of worship which highlights the region's Protestant history, and take a moment to read the informational plaque located right beside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Clévos, cité des savoirs",
+            "hu": "Les Clévos, a tudás városa",
+            "ro": "Les Clévos, orașul cunoașterii",
+            "en": "Les Clévos, cité des savoirs"
+          },
+          "coords": [
+            4.884511,
+            44.840675
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Setzen Sie sich in diesem modernen Kulturzentrum mit interaktiven Wissenschafts- und Kunstausstellungen auseinander und prüfen Sie den Tagesplan auf spezielle Workshops.",
+            "hu": "Vegyen részt interaktív tudományos és művészeti kiállításokon ebben a modern kulturális központban, és mindenképpen ellenőrizze a napi programot a különleges workshopokért.",
+            "ro": "Interacționați cu expozițiile interactive de știință și artă la acest centru cultural modern și asigurați-vă că verificați programul zilnic pentru ateliere speciale.",
+            "en": "Engage with interactive science and art exhibits at this modern cultural center, and be sure to check the daily schedule for special workshops suited for all age groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Clavel",
+            "hu": "Château de Clavel",
+            "ro": "Château de Clavel",
+            "en": "Château de Clavel"
+          },
+          "coords": [
+            4.877788,
+            44.821557
+          ],
+          "category": "castle",
+          "arrive_at": "14:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Ruinen und das Gelände dieses weniger bekannten ländlichen Schlosses, aber tragen Sie feste Wanderschuhe, da die umliegenden Wege sehr uneben sind.",
+            "hu": "Fedezze fel ennek a kevésbé ismert vidéki kastélynak az elegáns romjait és területét, de viseljen erős túracipőt, mivel a környező ösvények meglehetősen egyenetlenek és sziklásak.",
+            "ro": "Descoperiți ruinele și domeniul elegant ale acestui castel rural mai puțin cunoscut, dar purtați încălțăminte de mers robustă, deoarece potecile din jur sunt destul de denivelate.",
+            "en": "Discover the elegant ruins and grounds of this lesser-known rural chateau, but wear sturdy walking shoes as the surrounding paths can be quite uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des mittelalterlichen Herzens von Étoile-sur-Rhône an der zentralen Burg und den historischen Kirchen.\n\nGegen Mittag genießen Sie einen angenehmen Spaziergang durch die ruhigen Dorfstraßen in Richtung des Kulturviertels.\n\nVerbringen Sie Ihren Nachmittag damit, im modernen Zentrum Les Clévos in interaktive Wissen- und Kunstausstellungen einzutauchen.\n\nAm Abend machen Sie einen etwas längeren Spaziergang nach Süden, um die eleganten Ruinen des Château de Clavel vor Sonnenuntergang zu entdecken.",
+        "hu": "Kezdje a napot Étoile-sur-Rhône középkori szívének felfedezésével, a központi kastélytól és a történelmi templomoktól indulva.\n\nDélben élvezze a kellemes sétát a csendes falusi utcákon, ahogy a kulturális negyed felé veszi az irányt.\n\nTöltse a délutánt az interaktív tudományos és művészeti kiállítások felfedezésével a modern Les Clévos központban.\n\nEste tegyen egy kissé hosszabb sétát délre, hogy naplemente előtt felfedezze a Château de Clavel elegáns romjait.",
+        "ro": "Începeți-vă ziua explorând inima medievală a Étoile-sur-Rhône, pornind de la castelul central și bisericile istorice.\n\nLa prânz, bucurați-vă de o plimbare plăcută pe străzile liniștite ale satului în timp ce vă îndreptați spre cartierul cultural.\n\nPetreceți-vă după-amiaza descoperind cunoștințe interactive și expoziții de artă la centrul modern Les Clévos.\n\nSeara, faceți o plimbare puțin mai lungă spre sud pentru a descoperi ruinele elegante ale Château de Clavel înainte de apus.",
+        "en": "Start your day exploring the medieval heart of Étoile-sur-Rhône, beginning at the central castle and the historic churches.\n\nBy midday, enjoy a pleasant stroll through the quiet village streets as you make your way towards the cultural district.\n\nSpend your afternoon diving into interactive knowledge and art exhibitions at the modern Les Clévos center.\n\nIn the evening, take a slightly longer walk south to discover the elegant ruins of Château de Clavel before the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 7.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Boisse",
+            "hu": "Château de la Boisse",
+            "ro": "Château de la Boisse",
+            "en": "Château de la Boisse"
+          },
+          "coords": [
+            4.894703,
+            44.837335
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser historischen Burg, die einst das Rhonetal bewachte, und besuchen Sie den Innenhof am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a középkori építészetét, amely egykor a Rhône völgyét őrizte, és a legjobb fényviszonyokért kora reggel látogassa meg az udvart.",
+            "ro": "Admirați arhitectura medievală a acestui castel istoric care păzea cândva valea Ronului și încercați să vizitați curtea la primele ore ale dimineții pentru cea mai bună lumină.",
+            "en": "Admire the medieval architecture of this historic castle that once guarded the Rhône valley, and try to visit the courtyard during early morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame-templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            4.892932,
+            44.837338
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschöne religiöse Denkmal, um seine markanten Gewölbedecken zu sehen, und achten Sie auf die komplexen Buntglasfenster in der Nähe des Hauptaltars.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási műemlékbe, hogy megtekinthesse feltűnő boltozatos mennyezetét, és ne felejtse el megnézni a bonyolult ólomüveg részleteket a főoltár közelében.",
+            "ro": "Pășiți în acest frumos monument religios pentru a vedea tavanele sale boltite uimitoare și nu uitați să căutați detaliile vitraliilor complicate din apropierea altarului principal.",
+            "en": "Step inside this beautiful religious monument to see its striking vaulted ceilings, and don't forget to look for the intricate stained glass details near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Clévos, cité des savoirs",
+            "hu": "Les Clévos, a tudás városa",
+            "ro": "Les Clévos, orașul cunoașterii",
+            "en": "Les Clévos, cité des savoirs"
+          },
+          "coords": [
+            4.884511,
+            44.840675
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Setzen Sie sich in diesem modernen Kulturzentrum mit interaktiven Wissenschafts- und Kunstausstellungen auseinander und prüfen Sie den Tagesplan auf spezielle Workshops.",
+            "hu": "Vegyen részt interaktív tudományos és művészeti kiállításokon ebben a modern kulturális központban, és mindenképpen ellenőrizze a napi programot a különleges workshopokért.",
+            "ro": "Interacționați cu expozițiile interactive de știință și artă la acest centru cultural modern și asigurați-vă că verificați programul zilnic pentru ateliere speciale.",
+            "en": "Engage with interactive science and art exhibits at this modern cultural center, and be sure to check the daily schedule for special workshops suited for all age groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.901694,
+            44.857016
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser charmanten lokalen Kirche der nördlichen Gemeinde und beachten Sie das rustikale Mauerwerk, das traditionelle Handwerkskunst widerspiegelt.",
+            "hu": "Töltsön el egy békés pillanatot ebben az északi közösséget szolgáló bájos helyi templomban, és figyelje meg a hagyományos vidéki kézművességet tükröző rusztikus kőfalakat.",
+            "ro": "Luați-vă un moment de liniște la această biserică locală fermecătoare care deservește comunitatea din nord și observați zidăria rustică ce reflectă măiestria tradițională.",
+            "en": "Take a peaceful moment at this charming local church that serves the northern community, and notice the rustic stonework that reflects traditional countryside craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Beauvallon See",
+            "hu": "Beauvallon-tó",
+            "ro": "Lacul Beauvallon",
+            "en": "Lac de Beauvallon"
+          },
+          "coords": [
+            4.904067,
+            44.857261
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang oder ein Picknick an den ruhigen Gewässern dieses malerischen Sees und bringen Sie ein Fernglas mit, um lokale Vogelarten zu beobachten.",
+            "hu": "Élvezze a pihentető sétát vagy egy pikniket e festői tó nyugodt vizénél, és hozzon magával távcsövet, hogy megfigyelhesse a keleti parton fészkelő helyi madárfajokat.",
+            "ro": "Bucurați-vă de o plimbare relaxantă sau un picnic pe malul apelor liniștite ale acestui lac pitoresc și aduceți un binoclu pentru a observa speciile de păsări cuibărind acolo.",
+            "en": "Enjoy a relaxing stroll or a picnic by the tranquil waters of this picturesque lake, and bring some binoculars to spot local bird species nesting along the eastern shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Etoile Park 26",
+            "hu": "Etoile Park 26",
+            "ro": "Etoile Park 26",
+            "en": "Etoile Park 26"
+          },
+          "coords": [
+            4.849402,
+            44.854089
+          ],
+          "category": "family",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Haben Sie Spaß mit der ganzen Familie in diesem weitläufigen Freizeitpark mit zahlreichen Spielgeräten und sichern Sie sich ein schattiges Plätzchen unter den alten Eichen.",
+            "hu": "Érezze jól magát az egész családdal ebben a tágas, számos játékszerkezettel rendelkező rekreációs parkban, és foglaljon egy árnyékos helyet a régi tölgyfák alatt a kényelmes pihenéshez.",
+            "ro": "Distrați-vă cu întreaga familie în acest parc de agrement spațios, cu numeroase structuri de joacă, și ocupați un loc umbros sub stejarii bătrâni pentru o odihnă confortabilă.",
+            "en": "Have fun with the whole family at this spacious recreation park featuring numerous play structures, and grab a shady spot under the old oak trees for a comfortable rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie durch das historische Zentrum radeln und die zentrale Burg sowie die wunderschöne Hauptkirche besuchen.\n\nGegen Mittag fahren Sie etwas nach Norden, um die kulturellen Ausstellungen in Les Clévos zu besuchen und an lokalen Landkapellen vorbeizukommen.\n\nAm Nachmittag radeln Sie zu den ruhigen Gewässern des Lac de Beauvallon für eine erfrischende Pause und vielleicht ein kleines Picknick.\n\nBeenden Sie Ihren aktiven Tag mit einer Fahrt an den westlichen Stadtrand, wo Sie die großen Erholungsflächen des Etoile Park 26 genießen.",
+        "hu": "Indítsa a reggelt azzal, hogy átkerekezik a történelmi központon, meglátogatva a központi kastélyt és a gyönyörű főtemplomot.\n\nDél körül kerékpározzon kissé északra, hogy bekapcsolódjon a Les Clévos kulturális kiállításaiba, és haladjon el a helyi vidéki kápolnák mellett.\n\nDélután tekerjen fel a Lac de Beauvallon békés vizeihez egy frissítő pihenőre és esetleg egy kis tóparti piknikre.\n\nZárja aktív napját egy biciklizéssel a nyugati külvárosba, élvezve az Etoile Park 26 nagy rekreációs területeit.",
+        "ro": "Începeți-vă dimineața pedalând prin centrul istoric, vizitând castelul central și frumoasa biserică principală.\n\nÎn jurul prânzului, mergeți cu bicicleta puțin spre nord pentru a vă bucura de expozițiile culturale de la Les Clévos și treceți pe lângă capelele locale.\n\nDupă-amiaza, pedalați până la apele liniștite ale Lacului Beauvallon pentru o pauză răcoritoare și poate un mic picnic pe malul lacului.\n\nÎncheiați-vă ziua activă cu o plimbare spre periferia vestică, bucurându-vă de spațiile mari de recreere din Etoile Park 26.",
+        "en": "Kick off your morning by pedaling through the historic center, visiting the central castle and the beautiful main church.\n\nAround midday, ride slightly north to engage with the cultural exhibits at Les Clévos and pass by local countryside chapels.\n\nIn the afternoon, cycle up to the serene waters of Lac de Beauvallon for a refreshing break and perhaps a small lakeside picnic.\n\nConclude your active day with a ride to the western outskirts, enjoying the large recreational spaces of Etoile Park 26."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 16.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss La Garenne",
+            "hu": "La Garenne-kastély",
+            "ro": "Castelul La Garenne",
+            "en": "La Garenne Castle"
+          },
+          "coords": [
+            4.943061,
+            44.798006
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das große Anwesen und die weitläufigen Gärten dieses beeindruckenden historischen Wahrzeichens und buchen Sie eine Führung im Voraus für die Innenräume.",
+            "hu": "Csodálja meg ennek a lenyűgöző történelmi mérföldkőnek a hatalmas birtokát és burjánzó kertjeit, és fontolja meg egy vezetett túra előzetes foglalását a belső terek eléréséhez.",
+            "ro": "Minunați-vă de moșia grandioasă și de grădinile întinse ale acestui reper istoric impresionant și luați în considerare rezervarea unui tur ghidat în avans pentru interior.",
+            "en": "Marvel at the grand estate and sprawling gardens of this impressive historical landmark, and consider booking a guided tour in advance to access the preserved interior rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Clavel",
+            "hu": "Château de Clavel",
+            "ro": "Château de Clavel",
+            "en": "Château de Clavel"
+          },
+          "coords": [
+            4.877788,
+            44.821557
+          ],
+          "category": "castle",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Ruinen und das Gelände dieses weniger bekannten ländlichen Schlosses, aber tragen Sie feste Wanderschuhe, da die umliegenden Wege sehr uneben sind.",
+            "hu": "Fedezze fel ennek a kevésbé ismert vidéki kastélynak az elegáns romjait és területét, de viseljen erős túracipőt, mivel a környező ösvények meglehetősen egyenetlenek és sziklásak.",
+            "ro": "Descoperiți ruinele și domeniul elegant ale acestui castel rural mai puțin cunoscut, dar purtați încălțăminte de mers robustă, deoarece potecile din jur sunt destul de denivelate.",
+            "en": "Discover the elegant ruins and grounds of this lesser-known rural chateau, but wear sturdy walking shoes as the surrounding paths can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Clévos, cité des savoirs",
+            "hu": "Les Clévos, a tudás városa",
+            "ro": "Les Clévos, orașul cunoașterii",
+            "en": "Les Clévos, cité des savoirs"
+          },
+          "coords": [
+            4.884511,
+            44.840675
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Setzen Sie sich in diesem modernen Kulturzentrum mit interaktiven Wissenschafts- und Kunstausstellungen auseinander und prüfen Sie den Tagesplan auf spezielle Workshops.",
+            "hu": "Vegyen részt interaktív tudományos és művészeti kiállításokon ebben a modern kulturális központban, és mindenképpen ellenőrizze a napi programot a különleges workshopokért.",
+            "ro": "Interacționați cu expozițiile interactive de știință și artă la acest centru cultural modern și asigurați-vă că verificați programul zilnic pentru ateliere speciale.",
+            "en": "Engage with interactive science and art exhibits at this modern cultural center, and be sure to check the daily schedule for special workshops suited for all age groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Boisse",
+            "hu": "Château de la Boisse",
+            "ro": "Château de la Boisse",
+            "en": "Château de la Boisse"
+          },
+          "coords": [
+            4.894703,
+            44.837335
+          ],
+          "category": "castle",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser historischen Burg, die einst das Rhonetal bewachte, und besuchen Sie den Innenhof am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a középkori építészetét, amely egykor a Rhône völgyét őrizte, és a legjobb fényviszonyokért kora reggel látogassa meg az udvart.",
+            "ro": "Admirați arhitectura medievală a acestui castel istoric care păzea cândva valea Ronului și încercați să vizitați curtea la primele ore ale dimineții pentru cea mai bună lumină.",
+            "en": "Admire the medieval architecture of this historic castle that once guarded the Rhône valley, and try to visit the courtyard during early morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Beauvallon See",
+            "hu": "Beauvallon-tó",
+            "ro": "Lacul Beauvallon",
+            "en": "Lac de Beauvallon"
+          },
+          "coords": [
+            4.904067,
+            44.857261
+          ],
+          "category": "natural",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang oder ein Picknick an den ruhigen Gewässern dieses malerischen Sees und bringen Sie ein Fernglas mit, um lokale Vogelarten zu beobachten.",
+            "hu": "Élvezze a pihentető sétát vagy egy pikniket e festői tó nyugodt vizénél, és hozzon magával távcsövet, hogy megfigyelhesse a keleti parton fészkelő helyi madárfajokat.",
+            "ro": "Bucurați-vă de o plimbare relaxantă sau un picnic pe malul apelor liniștite ale acestui lac pitoresc și aduceți un binoclu pentru a observa speciile de păsări cuibărind acolo.",
+            "en": "Enjoy a relaxing stroll or a picnic by the tranquil waters of this picturesque lake, and bring some binoculars to spot local bird species nesting along the eastern shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Etoile Park 26",
+            "hu": "Etoile Park 26",
+            "ro": "Etoile Park 26",
+            "en": "Etoile Park 26"
+          },
+          "coords": [
+            4.849402,
+            44.854089
+          ],
+          "category": "family",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Haben Sie Spaß mit der ganzen Familie in diesem weitläufigen Freizeitpark mit zahlreichen Spielgeräten und sichern Sie sich ein schattiges Plätzchen unter den alten Eichen.",
+            "hu": "Érezze jól magát az egész családdal ebben a tágas, számos játékszerkezettel rendelkező rekreációs parkban, és foglaljon egy árnyékos helyet a régi tölgyfák alatt a kényelmes pihenéshez.",
+            "ro": "Distrați-vă cu întreaga familie în acest parc de agrement spațios, cu numeroase structuri de joacă, și ocupați un loc umbros sub stejarii bătrâni pentru o odihnă confortabilă.",
+            "en": "Have fun with the whole family at this spacious recreation park featuring numerous play structures, and grab a shady spot under the old oak trees for a comfortable rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am großen Schloss La Garenne im Südosten, gefolgt von den charmanten ländlichen Ruinen des Château de Clavel.\n\nFahren Sie zur Mittagszeit zurück ins Stadtzentrum, um das interaktive Museum von Les Clévos und die historische zentrale Festung zu erkunden.\n\nVerbringen Sie einen entspannten Nachmittag damit, nach Norden zu fahren und die friedliche natürliche Umgebung am Lac de Beauvallon zu genießen.\n\nBeenden Sie Ihre umfassende Tour mit einer Fahrt nach Westen zum weitläufigen Etoile Park 26, ideal für einen erholsamen Abend im Freien.",
+        "hu": "Kezdje autós kirándulását a délkeleti hatalmas La Garenne kastélynál, majd folytassa a Château de Clavel bájos vidéki romjaival.\n\nDélben vezessen vissza a városközpontba, hogy felfedezze a Les Clévos interaktív múzeumát és a történelmi központi erődöt.\n\nTöltsön egy pihentető délutánt azzal, hogy északra veszi az irányt, és élvezi a békés természeti környezetet a Lac de Beauvallonnál.\n\nFejezze be átfogó túráját úgy, hogy nyugatra hajt a hatalmas Etoile Park 26 felé, amely tökéletes egy pihentető szabadtéri estéhez.",
+        "ro": "Începeți excursia cu mașina la grandiosul Castel La Garenne din sud-est, urmat de fermecătoarele ruine rurale ale Château de Clavel.\n\nLa prânz, conduceți înapoi în centrul orașului pentru a explora muzeul interactiv Les Clévos și fortăreața centrală istorică.\n\nPetreceți o după-amiază relaxantă îndreptându-vă spre nord pentru a vă bucura de mediul natural liniștit la Lacul Beauvallon.\n\nÎncheiați-vă turul cuprinzător conducând spre vest, către extinsul Etoile Park 26, perfect pentru o seară relaxantă în aer liber.",
+        "en": "Begin your road trip at the grand La Garenne Castle in the southeast, followed by the charming rural ruins of Château de Clavel.\n\nAt midday, drive back into the town center to explore the interactive museum of Les Clévos and the historic central fortress.\n\nSpend a relaxing afternoon heading north to enjoy the peaceful natural surroundings at Lac de Beauvallon.\n\nFinish your comprehensive tour by driving west to the expansive Etoile Park 26, perfect for a relaxing evening outdoors."
+      }
+    }
+  }
+}

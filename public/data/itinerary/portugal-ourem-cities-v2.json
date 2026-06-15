@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-ourem-cities-v2",
+  "anchor": {
+    "name": "Ourém",
+    "coords": [
+      -8.57824,
+      39.657804
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:28",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Municipal de Ourém",
+            "hu": "Teatro Municipal de Ourém",
+            "ro": "Teatro Municipal de Ourém",
+            "en": "Teatro Municipal de Ourém"
+          },
+          "coords": [
+            -8.576999,
+            39.654336
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige moderne Architektur dieses Kulturzentrums und werfen Sie einen Blick auf das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Csodálja meg e kulturális központ lenyűgöző modern építészetét, és mindenképpen ellenőrizze az esti előadások változatos és izgalmas műsorrendjét.",
+            "ro": "Admiteți arhitectura modernă și impresionantă a acestui centru cultural; verificați programul pentru a prinde un spectacol seara.",
+            "en": "Admire the striking modern architecture of this cultural hub, which hosts diverse performances, and check the schedule for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa com Janela Manuelina",
+            "hu": "Casa com Janela Manuelina",
+            "ro": "Casa com Janela Manuelina",
+            "en": "Casa com Janela Manuelina"
+          },
+          "coords": [
+            -8.592836,
+            39.643158
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aufwendigen manuelinischen Steinmetzarbeiten aus dem 16. Jahrhundert rund um das Fenster; morgens ist das Licht zum Fotografieren ideal.",
+            "hu": "Keresse a 16. századi bonyolult faragásokat az ablak körül, amelyek a portugál felfedezések korát idézik; érdemes a reggeli fényben fotózni.",
+            "ro": "Observați detaliile sculpturilor manueline din secolul al XVI-lea de la fereastră, reprezentative pentru Epoca Descoperirilor, ideale de fotografiat dimineața.",
+            "en": "Spot the intricate 16th-century Manueline stone carvings around the window, representing Portugal's Age of Discovery, best photographed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Paroquial de Ourém",
+            "hu": "Casa Paroquial de Ourém",
+            "ro": "Casa Paroquial de Ourém",
+            "en": "Casa Paroquial de Ourém"
+          },
+          "coords": [
+            -8.59164,
+            39.643237
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die traditionelle Fassade dieses historischen Pfarrhauses zu betrachten; mit etwas Abstand sehen Sie die Dachlinien am besten.",
+            "hu": "Szánjon egy pillanatot a történelmi plébániaépület hagyományos homlokzatára; ha hátrébb lép, jobban láthatja a klasszikus tetővonalakat.",
+            "ro": "Apreciați fațada tradițională a acestei case parohiale istorice; făcând un pas în spate veți prinde cel mai bun unghi al acoperișului clasic.",
+            "en": "Take a moment to appreciate the traditional facade of this historic parish house; stepping back slightly offers the best angle of its classic rooflines."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro dos Cónegos",
+            "hu": "Miradouro dos Cónegos",
+            "ro": "Miradouro dos Cónegos",
+            "en": "Miradouro dos Cónegos"
+          },
+          "coords": [
+            -8.590859,
+            39.642109
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über die weiten Ebenen, wo Sie in der Ferne Fátima sehen können; halten Sie Ihre Kamera bei Wind gut fest.",
+            "hu": "Élvezze a lenyűgöző panorámát a hatalmas síkságokra, ahonnan a távolban Fátima is látható; a szél miatt vigyázzon a fényképezőgépére.",
+            "ro": "Bucurați-vă de priveliști panoramice uimitoare peste câmpii, unde puteți zări Fátima în depărtare; țineți aparatul foto bine din cauza vântului.",
+            "en": "Enjoy breathtaking panoramic views across the sprawling plains where you might even spot Fátima in the distance; keep your camera secure in the wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Ourém Castle",
+            "hu": "Ourémi vár",
+            "ro": "Castelul Ourém",
+            "en": "Ourém Castle"
+          },
+          "coords": [
+            -8.592162,
+            39.641431
+          ],
+          "category": "castle",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die einzigartigen Wehrtürme dieser Festung, um ihre mittelalterliche Bedeutung zu verstehen; tragen Sie rutschfeste Schuhe für das Gelände.",
+            "hu": "Mássza meg a hegytetőn álló erődítmény egyedi védőtornyait, de a biztonság érdekében mindenképpen viseljen csúszásmentes cipőt az egyenetlen talajon.",
+            "ro": "Urcați în turnurile de apărare unice ale acestei fortărețe pentru a-i înțelege importanța medievală, însă purtați încălțăminte aderentă pe teren accidentat.",
+            "en": "Climb the unique defensive towers of this hilltop fortress to understand its strategic medieval importance, but wear non-slip shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Fundação Oureana",
+            "hu": "Museu da Fundação Oureana",
+            "ro": "Museu da Fundação Oureana",
+            "en": "Museu da Fundação Oureana"
+          },
+          "coords": [
+            -8.593172,
+            39.641156
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefgründige Lokalgeschichte ein und erfahren Sie mehr über die Adelsfamilien; fragen Sie das Personal nach dem Grafen von Ourém.",
+            "hu": "Merüljön el a helyi történelemben, amely a régiót formáló nemesi családokat is bemutatja; mindenképpen kérdezze a személyzetet Ourém grófjáról.",
+            "ro": "Pătrundeți în istoria locală explorând familiile nobiliare; asigurați-vă că întrebați personalul despre influentul Conte de Ourém.",
+            "en": "Dive into the deep local history covering the noble families that shaped the region; asking the staff about the influential Count of Ourém is a must."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im modernen Zentrum mit der Architektur des Teatro Municipal. Während Sie den historischen Hügel erklimmen, bereiten die steilen Straßen auf eine mittelalterliche Reise vor. Mittags erreichen Sie die Casa com Janela Manuelina und die Casa Paroquial. Der Nachmittag ist für die atemberaubende Aussicht vom Miradouro und die Burg Ourém reserviert. Der Abend klingt mit tiefer Lokalgeschichte im Museum aus.",
+        "hu": "A reggel a modern városközpontban indul a Teatro Municipal megtekintésével. Ahogy felkapaszkodik a történelmi dombra, a meredek utcák megadják az alaphangot egy középkori utazáshoz. Délben elérkezik a Casa com Janela Manuelina és a Casa Paroquial épületéhez. A délutánt a Miradouro kilátásának és az ourémi vár tornyainak szenteljük. Az este a múzeumban, a helyi történelem megismerésével zárul.",
+        "ro": "Dimineața începe în centrul modern, admirând Teatro Municipal. Urcând spre colina istorică, străduțele abrupte pregătesc terenul pentru o călătorie medievală. La prânz veți descoperi detaliile de la Casa com Janela Manuelina și Casa Paroquial. După-amiaza este dedicată priveliștilor de la Miradouro și explorării turnurilor emblematice ale Castelului Ourém. Seara se încheie liniștit la muzeul de istorie.",
+        "en": "Morning starts in the modern city center with the architecture of the Teatro Municipal. As you ascend towards the historical hill, the steep streets set the tone for a medieval journey. Midday brings you to the intricate Casa com Janela Manuelina and the nearby Casa Paroquial. Afternoon is dedicated to breathtaking views from the Miradouro and exploring the iconic towers of Ourém Castle. Evening winds down with deep local history at the museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Municipal de Ourém",
+            "hu": "Teatro Municipal de Ourém",
+            "ro": "Teatro Municipal de Ourém",
+            "en": "Teatro Municipal de Ourém"
+          },
+          "coords": [
+            -8.576999,
+            39.654336
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige moderne Architektur dieses Kulturzentrums und werfen Sie einen Blick auf das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Csodálja meg e kulturális központ lenyűgöző modern építészetét, és mindenképpen ellenőrizze az esti előadások változatos és izgalmas műsorrendjét.",
+            "ro": "Admiteți arhitectura modernă și impresionantă a acestui centru cultural; verificați programul pentru a prinde un spectacol seara.",
+            "en": "Admire the striking modern architecture of this cultural hub, which hosts diverse performances, and check the schedule for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho do Carregal",
+            "hu": "Moinho do Carregal",
+            "ro": "Moinho do Carregal",
+            "en": "Moinho do Carregal"
+          },
+          "coords": [
+            -8.561346,
+            39.652067
+          ],
+          "category": "historical",
+          "arrive_at": "09:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene historische Wassermühle aus der landwirtschaftlichen Vergangenheit und bringen Sie eine Kamera für Flussfotos mit.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött történelmi vízimalmot a folyó partján, és mindenképpen hozzon fényképezőgépet a festői táj megörökítéséhez.",
+            "ro": "Explorați această moară de apă istorică perfect conservată ce ilustrează trecutul agricol și aduceți aparatul foto pentru peisajele râului.",
+            "en": "Explore this beautifully preserved historical watermill that highlights the region's agricultural past, and bring a camera for scenic river photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa com Janela Manuelina",
+            "hu": "Casa com Janela Manuelina",
+            "ro": "Casa com Janela Manuelina",
+            "en": "Casa com Janela Manuelina"
+          },
+          "coords": [
+            -8.592836,
+            39.643158
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aufwendigen manuelinischen Steinmetzarbeiten aus dem 16. Jahrhundert rund um das Fenster; morgens ist das Licht zum Fotografieren ideal.",
+            "hu": "Keresse a 16. századi bonyolult faragásokat az ablak körül, amelyek a portugál felfedezések korát idézik; érdemes a reggeli fényben fotózni.",
+            "ro": "Observați detaliile sculpturilor manueline din secolul al XVI-lea de la fereastră, reprezentative pentru Epoca Descoperirilor, ideale de fotografiat dimineața.",
+            "en": "Spot the intricate 16th-century Manueline stone carvings around the window, representing Portugal's Age of Discovery, best photographed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Paroquial de Ourém",
+            "hu": "Casa Paroquial de Ourém",
+            "ro": "Casa Paroquial de Ourém",
+            "en": "Casa Paroquial de Ourém"
+          },
+          "coords": [
+            -8.59164,
+            39.643237
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die traditionelle Fassade dieses historischen Pfarrhauses zu betrachten; mit etwas Abstand sehen Sie die Dachlinien am besten.",
+            "hu": "Szánjon egy pillanatot a történelmi plébániaépület hagyományos homlokzatára; ha hátrébb lép, jobban láthatja a klasszikus tetővonalakat.",
+            "ro": "Apreciați fațada tradițională a acestei case parohiale istorice; făcând un pas în spate veți prinde cel mai bun unghi al acoperișului clasic.",
+            "en": "Take a moment to appreciate the traditional facade of this historic parish house; stepping back slightly offers the best angle of its classic rooflines."
+          }
+        },
+        {
+          "name": {
+            "de": "Ourém Castle",
+            "hu": "Ourémi vár",
+            "ro": "Castelul Ourém",
+            "en": "Ourém Castle"
+          },
+          "coords": [
+            -8.592162,
+            39.641431
+          ],
+          "category": "castle",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die einzigartigen Wehrtürme dieser Festung, um ihre mittelalterliche Bedeutung zu verstehen; tragen Sie rutschfeste Schuhe für das Gelände.",
+            "hu": "Mássza meg a hegytetőn álló erődítmény egyedi védőtornyait, de a biztonság érdekében mindenképpen viseljen csúszásmentes cipőt az egyenetlen talajon.",
+            "ro": "Urcați în turnurile de apărare unice ale acestei fortărețe pentru a-i înțelege importanța medievală, însă purtați încălțăminte aderentă pe teren accidentat.",
+            "en": "Climb the unique defensive towers of this hilltop fortress to understand its strategic medieval importance, but wear non-slip shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Fundação Oureana",
+            "hu": "Museu da Fundação Oureana",
+            "ro": "Museu da Fundação Oureana",
+            "en": "Museu da Fundação Oureana"
+          },
+          "coords": [
+            -8.593172,
+            39.641156
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefgründige Lokalgeschichte ein und erfahren Sie mehr über die Adelsfamilien; fragen Sie das Personal nach dem Grafen von Ourém.",
+            "hu": "Merüljön el a helyi történelemben, amely a régiót formáló nemesi családokat is bemutatja; mindenképpen kérdezze a személyzetet Ourém grófjáról.",
+            "ro": "Pătrundeți în istoria locală explorând familiile nobiliare; asigurați-vă că întrebați personalul despre influentul Conte de Ourém.",
+            "en": "Dive into the deep local history covering the noble families that shaped the region; asking the staff about the influential Count of Ourém is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Romana em Mulher Morta",
+            "hu": "Via Romana em Mulher Morta",
+            "ro": "Via Romana em Mulher Morta",
+            "en": "Via Romana em Mulher Morta"
+          },
+          "coords": [
+            -8.595016,
+            39.641113
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser alten Römerstraße und spüren Sie die historischen Handelswege; tragen Sie feste Schuhe für die rauen Steine.",
+            "hu": "Sétáljon végig az ókori római út maradványain, és élje át a történelmi kereskedelmi útvonalak hangulatát; ne felejtsen el masszív bakancsot viselni.",
+            "ro": "Mergeți pe rămășițele acestui vechi drum roman pentru a simți istoria rutelor comerciale antice, și nu uitați să purtați ghete rezistente pe pietre.",
+            "en": "Walk along the remnants of this ancient Roman road to feel the presence of historic trade routes, and remember to wear sturdy boots for the rough stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradtag beginnt am Teatro Municipal, bevor Sie zur historischen Mühle Moinho do Carregal radeln. Mittags fordern Sie Ihre Beine heraus, wenn Sie zur Altstadt hinauffahren, um das manuelinische Fenster und das Pfarrhaus zu sehen. Der Nachmittag bietet tiefe Einblicke in die Burg Ourém und die Ausstellungen des Museums. Abends radeln Sie an den Stadtrand, um die alten Steine der Via Romana zu entdecken.",
+        "hu": "A kerékpáros nap a modern Teatro Municipalnál kezdődik, majd egy kellemes tekerés következik a folyóparti történelmi malomhoz. Délben kihívás vár a lábakra a festői óváros felé, ahol a manuelin ablak és a plébánia várja. A délután a középkori ourémi vár felfedezésével és a múzeumi kiállításokkal telik. Az este a város szélére visz, hogy megkeresse az ősi Via Romana köveit.",
+        "ro": "Ziua pe bicicletă începe la modernul Teatro Municipal, urmată de o plimbare spre moara istorică Moinho do Carregal. La prânz, urcați spre Orașul Vechi pentru a vedea fereastra manuelină și casa parohială. După-amiaza vă poartă prin istoria medievală a Castelului Ourém și exponatele valoroase ale muzeului. Seara vă duce la marginea orașului pentru a explora pietrele străvechi ale Via Romana.",
+        "en": "Your biking day begins at the modern Teatro Municipal before a breezy ride out to the historic Moinho do Carregal by the river. Midday challenges your legs as you climb up to the Old Town to see the Manueline window and the charming parish house. Afternoon offers a deep dive into the medieval Ourém Castle and the rich exhibits of the local museum. Evening takes you to the outskirts to trace the ancient Via Romana stones."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 4.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Moinho do Carregal",
+            "hu": "Moinho do Carregal",
+            "ro": "Moinho do Carregal",
+            "en": "Moinho do Carregal"
+          },
+          "coords": [
+            -8.561346,
+            39.652067
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene historische Wassermühle aus der landwirtschaftlichen Vergangenheit und bringen Sie eine Kamera für Flussfotos mit.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött történelmi vízimalmot a folyó partján, és mindenképpen hozzon fényképezőgépet a festői táj megörökítéséhez.",
+            "ro": "Explorați această moară de apă istorică perfect conservată ce ilustrează trecutul agricol și aduceți aparatul foto pentru peisajele râului.",
+            "en": "Explore this beautifully preserved historical watermill that highlights the region's agricultural past, and bring a camera for scenic river photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal de Ourém",
+            "hu": "Teatro Municipal de Ourém",
+            "ro": "Teatro Municipal de Ourém",
+            "en": "Teatro Municipal de Ourém"
+          },
+          "coords": [
+            -8.576999,
+            39.654336
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige moderne Architektur dieses Kulturzentrums und werfen Sie einen Blick auf das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Csodálja meg e kulturális központ lenyűgöző modern építészetét, és mindenképpen ellenőrizze az esti előadások változatos és izgalmas műsorrendjét.",
+            "ro": "Admiteți arhitectura modernă și impresionantă a acestui centru cultural; verificați programul pentru a prinde un spectacol seara.",
+            "en": "Admire the striking modern architecture of this cultural hub, which hosts diverse performances, and check the schedule for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa com Janela Manuelina",
+            "hu": "Casa com Janela Manuelina",
+            "ro": "Casa com Janela Manuelina",
+            "en": "Casa com Janela Manuelina"
+          },
+          "coords": [
+            -8.592836,
+            39.643158
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aufwendigen manuelinischen Steinmetzarbeiten aus dem 16. Jahrhundert rund um das Fenster; morgens ist das Licht zum Fotografieren ideal.",
+            "hu": "Keresse a 16. századi bonyolult faragásokat az ablak körül, amelyek a portugál felfedezések korát idézik; érdemes a reggeli fényben fotózni.",
+            "ro": "Observați detaliile sculpturilor manueline din secolul al XVI-lea de la fereastră, reprezentative pentru Epoca Descoperirilor, ideale de fotografiat dimineața.",
+            "en": "Spot the intricate 16th-century Manueline stone carvings around the window, representing Portugal's Age of Discovery, best photographed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Paroquial de Ourém",
+            "hu": "Casa Paroquial de Ourém",
+            "ro": "Casa Paroquial de Ourém",
+            "en": "Casa Paroquial de Ourém"
+          },
+          "coords": [
+            -8.59164,
+            39.643237
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die traditionelle Fassade dieses historischen Pfarrhauses zu betrachten; mit etwas Abstand sehen Sie die Dachlinien am besten.",
+            "hu": "Szánjon egy pillanatot a történelmi plébániaépület hagyományos homlokzatára; ha hátrébb lép, jobban láthatja a klasszikus tetővonalakat.",
+            "ro": "Apreciați fațada tradițională a acestei case parohiale istorice; făcând un pas în spate veți prinde cel mai bun unghi al acoperișului clasic.",
+            "en": "Take a moment to appreciate the traditional facade of this historic parish house; stepping back slightly offers the best angle of its classic rooflines."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro dos Cónegos",
+            "hu": "Miradouro dos Cónegos",
+            "ro": "Miradouro dos Cónegos",
+            "en": "Miradouro dos Cónegos"
+          },
+          "coords": [
+            -8.590859,
+            39.642109
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über die weiten Ebenen, wo Sie in der Ferne Fátima sehen können; halten Sie Ihre Kamera bei Wind gut fest.",
+            "hu": "Élvezze a lenyűgöző panorámát a hatalmas síkságokra, ahonnan a távolban Fátima is látható; a szél miatt vigyázzon a fényképezőgépére.",
+            "ro": "Bucurați-vă de priveliști panoramice uimitoare peste câmpii, unde puteți zări Fátima în depărtare; țineți aparatul foto bine din cauza vântului.",
+            "en": "Enjoy breathtaking panoramic views across the sprawling plains where you might even spot Fátima in the distance; keep your camera secure in the wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Ourém Castle",
+            "hu": "Ourémi vár",
+            "ro": "Castelul Ourém",
+            "en": "Ourém Castle"
+          },
+          "coords": [
+            -8.592162,
+            39.641431
+          ],
+          "category": "castle",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die einzigartigen Wehrtürme dieser Festung, um ihre mittelalterliche Bedeutung zu verstehen; tragen Sie rutschfeste Schuhe für das Gelände.",
+            "hu": "Mássza meg a hegytetőn álló erődítmény egyedi védőtornyait, de a biztonság érdekében mindenképpen viseljen csúszásmentes cipőt az egyenetlen talajon.",
+            "ro": "Urcați în turnurile de apărare unice ale acestei fortărețe pentru a-i înțelege importanța medievală, însă purtați încălțăminte aderentă pe teren accidentat.",
+            "en": "Climb the unique defensive towers of this hilltop fortress to understand its strategic medieval importance, but wear non-slip shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Fundação Oureana",
+            "hu": "Museu da Fundação Oureana",
+            "ro": "Museu da Fundação Oureana",
+            "en": "Museu da Fundação Oureana"
+          },
+          "coords": [
+            -8.593172,
+            39.641156
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefgründige Lokalgeschichte ein und erfahren Sie mehr über die Adelsfamilien; fragen Sie das Personal nach dem Grafen von Ourém.",
+            "hu": "Merüljön el a helyi történelemben, amely a régiót formáló nemesi családokat is bemutatja; mindenképpen kérdezze a személyzetet Ourém grófjáról.",
+            "ro": "Pătrundeți în istoria locală explorând familiile nobiliare; asigurați-vă că întrebați personalul despre influentul Conte de Ourém.",
+            "en": "Dive into the deep local history covering the noble families that shaped the region; asking the staff about the influential Count of Ourém is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Romana em Mulher Morta",
+            "hu": "Via Romana em Mulher Morta",
+            "ro": "Via Romana em Mulher Morta",
+            "en": "Via Romana em Mulher Morta"
+          },
+          "coords": [
+            -8.595016,
+            39.641113
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser alten Römerstraße und spüren Sie die historischen Handelswege; tragen Sie feste Schuhe für die rauen Steine.",
+            "hu": "Sétáljon végig az ókori római út maradványain, és élje át a történelmi kereskedelmi útvonalak hangulatát; ne felejtsen el masszív bakancsot viselni.",
+            "ro": "Mergeți pe rămășițele acestui vechi drum roman pentru a simți istoria rutelor comerciale antice, și nu uitați să purtați ghete rezistente pe pietre.",
+            "en": "Walk along the remnants of this ancient Roman road to feel the presence of historic trade routes, and remember to wear sturdy boots for the rough stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt ermöglicht einen Besuch der Mühle Moinho do Carregal, bevor Sie das Teatro Municipal besichtigen. Mittags fahren Sie über steile Straßen in die Altstadt, um exquisite manuelinische Architekturdetails zu erkunden. Den Nachmittag verbringen Sie mit dem Panoramablick vom Miradouro und einem Spaziergang durch die Burg Ourém. Der Abend endet an den Überresten der alten Römerstraße.",
+        "hu": "A reggeli autózás lehetővé teszi a folyóparti malom megtekintését, mielőtt a modern Teatro Municipalhoz hajtana. Délben a meredek kanyargós utakon az óvárosba ér, hogy felfedezze a manuelin építészet részleteit. A délutánt a Miradouro dos Cónegos panorámájának és az ourémi vár bejárásának szentelheti. Az este a város határában lévő ősi római út maradványainál ér véget.",
+        "ro": "Condusul de dimineață permite o vizită la moara de pe râu înainte de a trece pe la modernul Teatro Municipal. La prânz veți urca pe drumurile abrupte spre Orașul Vechi pentru a explora detaliile arhitecturale manueline. După-amiaza o petreceți admirând priveliștile de la Miradouro și plimbându-vă prin impresionantul Castel Ourém. Seara se încheie la vechiul drum roman de la marginea orașului.",
+        "en": "Morning driving allows a quick visit to the riverside Moinho do Carregal before dropping by the modern Teatro Municipal. Midday takes you up the steep winding roads to the Old Town to explore the exquisite Manueline architectural details. Afternoon is spent soaking in the panoramic vistas from Miradouro dos Cónegos and wandering through the grand Ourém Castle. Evening concludes at the ancient Roman road remnants just outside town."
+      }
+    }
+  }
+}

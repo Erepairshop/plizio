@@ -1,0 +1,474 @@
+{
+  "city_id": "rombas",
+  "anchor": {
+    "name": "Rombas",
+    "coords": [
+      6.0947,
+      49.2494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturraum Rombas",
+            "hu": "Rombas Kulturális Tér",
+            "ro": "Spațiul Cultural Rombas",
+            "en": "Rombas Cultural Space"
+          },
+          "coords": [
+            6.094173,
+            49.251205
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst und regionale Geschichte in diesem modernen Zentrum, wo interaktive Ausstellungen tiefe Einblicke bieten, weshalb Sie Ihr Ticket vorab online buchen sollten.",
+            "hu": "Fedezze fel a helyi művészetet és történelmet ebben a modern kulturális központban, ahol az interaktív kiállítások mély bepillantást nyújtanak, ezért érdemes előre jegyet foglalni.",
+            "ro": "Explorați arta locală și istoria regională în acest centru modern, unde expozițiile interactive oferă perspective profunde, fiind recomandat să vă rezervați biletul online în avans.",
+            "en": "Explore local arts and regional history at this modern cultural center, where interactive exhibits offer deep insights, making it worth reserving your ticket in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Rémi",
+            "hu": "Saint-Rémi templom",
+            "ro": "Biserica Saint-Rémi",
+            "en": "Saint-Rémi Church"
+          },
+          "coords": [
+            6.0919,
+            49.252288
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details und die friedliche Atmosphäre dieser Kirche, bei der morgendliche Besuche das beste Licht für Ihre Fotos bieten.",
+            "hu": "Csodálja meg e történelmi plébániatemplom lenyűgöző részleteit és békés atmoszféráját, ahol a reggeli látogatás biztosítja a legjobb fényeket a fényképezéshez.",
+            "ro": "Admirați detaliile arhitecturale izbitoare și atmosfera pașnică a acestei biserici istorice, unde vizitele matinale oferă cea mai bună lumină naturală pentru fotografii.",
+            "en": "Admire the striking architectural details and peaceful atmosphere of this historic parish church, where morning visits provide the best natural lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Jacques",
+            "hu": "Saint-Jacques kápolna",
+            "ro": "Capela Saint-Jacques",
+            "en": "Chapelle Saint-Jacques"
+          },
+          "coords": [
+            6.103566,
+            49.24759
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schönheit dieses kleinen Heiligtums, ideal für einen Moment der Besinnung, also tragen Sie bequeme Schuhe für den etwas unebenen Weg dorthin.",
+            "hu": "Fedezze fel e kis vallási szentély nyugodt szépségét és báját, amely tökéletes a csendes elmélkedéshez, ezért ne felejtsen el kényelmes cipőt húzni a megközelítéshez.",
+            "ro": "Descoperiți frumusețea liniștită și farmecul istoric al acestui mic sanctuar, perfect pentru reflecție, așa că purtați încălțăminte confortabilă pentru poteca ușor accidentată.",
+            "en": "Discover the tranquil beauty and historical charm of this small religious sanctuary, perfect for quiet reflection, so remember to wear comfortable walking shoes for the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Rombas",
+            "hu": "Rombas Óratorony",
+            "ro": "Turnul cu Ceas Rombas",
+            "en": "Rombas Clock Tower"
+          },
+          "coords": [
+            6.117464,
+            49.248361
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplexe Mechanik und das Erbe dieses ikonischen Turms, wo Sie das charmante Glockenspiel am besten erleben, wenn Sie kurz vor der vollen Stunde eintreffen.",
+            "hu": "Csodálja meg a város ikonikus óratornyának bonyolult mechanikáját, ahová érdemes kicsivel egész óra előtt érkezni az elragadó harangjáték megtekintéséhez.",
+            "ro": "Minunați-vă de mecanismul complex și de moștenirea durabilă a emblematicului turn, unde ajungând chiar înainte de oră fixă puteți urmări mecanismul fermecător în acțiune.",
+            "en": "Marvel at the intricate mechanics and enduring legacy of the town's iconic clock tower, where arriving slightly before the hour lets you witness the charming chiming mechanism."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Tour de Drince",
+            "hu": "Tour de Drince Kilátó",
+            "ro": "Turnul de Observație Drince",
+            "en": "Belvédère Tour de Drince"
+          },
+          "coords": [
+            6.092331,
+            49.237354
+          ],
+          "category": "natural",
+          "arrive_at": "14:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das gesamte Tal von diesem erhöhten Turm, bei dem Sie für den Aufstieg unbedingt eine gute Kamera und eine Windjacke mitbringen sollten.",
+            "hu": "Élvezze az egész völgyre nyíló lenyűgöző panorámát ebből a magaslati kilátótoronyból, amelyhez elengedhetetlen egy jó fényképezőgép és egy szélkabát a szeles csúcs miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice ample asupra văii de la acest turn, un refugiu natural unde este esențial să aduceți un aparat foto bun și o jachetă de vânt.",
+            "en": "Take in sweeping panoramic views of the entire valley from this elevated observation tower, making it essential to bring a good camera and windbreaker for the breezy top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im lebendigen Kulturherz von Rombas und spazieren Sie dann zur ruhigen Église Saint-Rémi.\nSetzen Sie Ihren Spaziergang zur intimen Chapelle Saint-Jacques fort, bevor Sie die historische Mechanik des Uhrturms bewundern.\nDer Nachmittag beinhaltet eine malerische Wanderung aus dem direkten Zentrum hinaus, bei der die städtische Atmosphäre verblasst.\nSchließen Sie mit einem lohnenden Aufstieg zur Belvédère Tour de Drince ab, wo ein Panoramablick bei Sonnenuntergang das perfekte Ende bietet.",
+        "hu": "Kezdje a napot Rombas nyüzsgő kulturális szívében, majd sétáljon át a békés Saint-Rémi templomhoz.\nFolytassa sétáját a meghitt Chapelle Saint-Jacques felé, mielőtt megcsodálná az ikonikus óratorony történelmi mechanikáját.\nA délután egy festői, hosszabb túrát tartogat a központból a völgy széle felé, miközben a városi nyüzsgés lassan elhalványul.\nZárja a napot egy jutalmazó emelkedővel a Belvédère Tour de Drince-hez, ahol a lenyűgöző naplementés tájkép tökéletes befejezést nyújt.",
+        "ro": "Începeți ziua explorând inima culturală din Rombas la centrul local, urmată de o scurtă plimbare până la senina Biserică Saint-Rémi.\nContinuați plimbarea spre intima Capelă Saint-Jacques înainte de a admira mecanica istorică a Turnului cu Ceas.\nDupă-amiaza implică o drumeție pitorească din centrul imediat spre marginea văii, lăsând atmosfera urbană să se estompeze.\nÎncheiați cu o ascensiune plină de satisfacții la Belvédère Tour de Drince, unde priveliștea panoramică la apus oferă un final perfect.",
+        "en": "Begin your day exploring Rombas's vibrant cultural heart at the local center, followed by a short walk to the serene Saint-Rémi Church.\nContinue your stroll to the intimate Chapelle Saint-Jacques before marveling at the historic mechanics of the iconic Clock Tower.\nThe afternoon involves a scenic, longer trek out of the immediate center towards the valley's edge, letting the urban atmosphere fade.\nConclude with a rewarding ascent to the Belvédère Tour de Drince, where panoramic sunset views across the landscape offer a perfect end."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Park Fond de Saint-Martin",
+            "hu": "Fond de Saint-Martin Park",
+            "ro": "Parcul Fond de Saint-Martin",
+            "en": "Fond de Saint-Martin"
+          },
+          "coords": [
+            6.077667,
+            49.23904
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch üppiges Grün in diesem Naturpark, einem idealen Rückzugsort vom städtischen Trubel, wo ein kleines Picknick Ihren entspannten Morgen perfekt macht.",
+            "hu": "Sétáljon a buja növényzet között ebben a natúrparkban, amely ideális menedék a városi zaj elől, és ahol egy könnyű piknik tovább fokozza a reggeli kikapcsolódást.",
+            "ro": "Plimbați-vă prin verdeața luxuriantă din acest parc natural, o evadare ideală din agitația urbană unde pregătirea unui mic picnic vă îmbunătățește dimineața relaxantă.",
+            "en": "Stroll through lush greenery in this expansive natural park, an ideal escape from the urban rush where packing a light picnic enhances your relaxing morning among the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Tour de Drince",
+            "hu": "Tour de Drince Kilátó",
+            "ro": "Turnul de Observație Drince",
+            "en": "Belvédère Tour de Drince"
+          },
+          "coords": [
+            6.092331,
+            49.237354
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das gesamte Tal von diesem erhöhten Turm, bei dem Sie für den Aufstieg unbedingt eine gute Kamera und eine Windjacke mitbringen sollten.",
+            "hu": "Élvezze az egész völgyre nyíló lenyűgöző panorámát ebből a magaslati kilátótoronyból, amelyhez elengedhetetlen egy jó fényképezőgép és egy szélkabát a szeles csúcs miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice ample asupra văii de la acest turn, un refugiu natural unde este esențial să aduceți un aparat foto bun și o jachetă de vânt.",
+            "en": "Take in sweeping panoramic views of the entire valley from this elevated observation tower, making it essential to bring a good camera and windbreaker for the breezy top."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pierre qui tourne",
+            "hu": "Forgó Kő (La Pierre qui tourne)",
+            "ro": "Piatra care se Rotește",
+            "en": "La Pierre qui tourne"
+          },
+          "coords": [
+            6.092905,
+            49.233739
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ergründen Sie die geheimnisvolle Überlieferung dieses stehenden Steins, tief in lokalen Mythen verwurzelt, wobei Sie bei feuchtem Wetter auf dem moosigen Boden aufpassen sollten.",
+            "hu": "Vizsgálja meg a helyi mítoszokban gyökerező rejtélyes állókő legendáját, miközben nedves időjárás esetén fokozottan ügyel a lépéseire a csúszós, mohás terepen.",
+            "ro": "Investigați legendele misterioase ale acestei remarcabile pietre, profund înrădăcinată în miturile locale, fiind atenți la pași pe terenul acoperit de mușchi în zilele umede.",
+            "en": "Investigate the mysterious lore of this remarkable standing stone rooted in local myths, while carefully watching your step on the surrounding mossy terrain during damp weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Rémi",
+            "hu": "Saint-Rémi templom",
+            "ro": "Biserica Saint-Rémi",
+            "en": "Saint-Rémi Church"
+          },
+          "coords": [
+            6.0919,
+            49.252288
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details und die friedliche Atmosphäre dieser Kirche, bei der morgendliche Besuche das beste Licht für Ihre Fotos bieten.",
+            "hu": "Csodálja meg e történelmi plébániatemplom lenyűgöző részleteit és békés atmoszféráját, ahol a reggeli látogatás biztosítja a legjobb fényeket a fényképezéshez.",
+            "ro": "Admirați detaliile arhitecturale izbitoare și atmosfera pașnică a acestei biserici istorice, unde vizitele matinale oferă cea mai bună lumină naturală pentru fotografii.",
+            "en": "Admire the striking architectural details and peaceful atmosphere of this historic parish church, where morning visits provide the best natural lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Rombas",
+            "hu": "Rombas Kulturális Tér",
+            "ro": "Spațiul Cultural Rombas",
+            "en": "Rombas Cultural Space"
+          },
+          "coords": [
+            6.094173,
+            49.251205
+          ],
+          "category": "cultural",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst und regionale Geschichte in diesem modernen Zentrum, wo interaktive Ausstellungen tiefe Einblicke bieten, weshalb Sie Ihr Ticket vorab online buchen sollten.",
+            "hu": "Fedezze fel a helyi művészetet és történelmet ebben a modern kulturális központban, ahol az interaktív kiállítások mély bepillantást nyújtanak, ezért érdemes előre jegyet foglalni.",
+            "ro": "Explorați arta locală și istoria regională în acest centru modern, unde expozițiile interactive oferă perspective profunde, fiind recomandat să vă rezervați biletul online în avans.",
+            "en": "Explore local arts and regional history at this modern cultural center, where interactive exhibits offer deep insights, making it worth reserving your ticket in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Henri",
+            "hu": "Saint-Henri templom",
+            "ro": "Biserica Saint-Henri",
+            "en": "Église Saint-Henri"
+          },
+          "coords": [
+            6.094758,
+            49.260796
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eleganten Buntglasfenster und die tiefe Gelassenheit dieser historischen Kultstätte, bei der Sie nach abendlichen Choraufführungen Ausschau halten sollten.",
+            "hu": "Elmélkedjen e történelmi hely elegáns ólomüveg ablakai és mély békéje alatt, ahol érdemes a hirdetőtáblát is megnézni az esti kóruselőadások miatt.",
+            "ro": "Contemplați vitraliile elegante și seninătatea profundă a acestui lăcaș istoric, o bijuterie unde vizitatorii ar trebui să verifice avizierul pentru posibile spectacole corale.",
+            "en": "Contemplate the elegant stained glass and profound serenity of this historic place of worship, where visitors should check the community board for evening choral performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum üppigen Fond de Saint-Martin Park für einen frischen Morgen in der Natur und klettern Sie dann zum Aussichtsturm.\nBesuchen Sie die mysteriöse Pierre qui tourne und fahren Sie dann zurück ins Stadtzentrum, um die Architektur von Saint-Rémi zu bewundern.\nVerbringen Sie den Nachmittag im Kulturraum, umgeben vom lokalen Erbe, und nutzen Sie die bequemen Radwege durch das Herz von Rombas.\nBeenden Sie die Radtour an der majestätischen Église Saint-Henri und genießen Sie die ruhige Abendatmosphäre vor dem Abendessen.",
+        "hu": "Tekerjen el a buja Fond de Saint-Martin parkba egy friss természeti reggelre, majd könnyedén másszon fel a Belvédère kilátóhoz.\nNézze meg a közeli titokzatos Pierre qui tourne követ, majd tekerjen vissza a városközpontba a Saint-Rémi építészetének megcsodálásához.\nTöltse a délutánt a helyi örökség felfedezésével a Kulturális Térben, kihasználva a Rombas központján átvezető kényelmes kerékpárutakat.\nZárja a kerékpártúrát a fenséges Église Saint-Henri templomnál, felszívva a csendes esti hangulatot a vacsora előtt.",
+        "ro": "Porniți pe bicicletă spre luxuriantul parc Fond de Saint-Martin, apoi urcați ușor la turnul de observație Belvédère.\nVizitați misterioasa Pierre qui tourne din apropiere, apoi mergeți înapoi spre centru pentru a admira arhitectura bisericii Saint-Rémi.\nPetreceți după-amiaza cufundat în moștenirea locală la Spațiul Cultural, utilizând pistele de biciclete convenabile din centrul Rombas.\nÎncheiați turul pe bicicletă la maiestuoasa Biserică Saint-Henri, absorbind ambianța liniștită a serii înainte de cină.",
+        "en": "Pedal out to the lush Fond de Saint-Martin park to enjoy a fresh morning in nature, then easily climb up to the Belvédère viewing tower.\nCheck out the mysterious Pierre qui tourne nearby, then ride back towards the town center to admire the architecture of Saint-Rémi.\nSpend your afternoon immersed in local heritage at the Cultural Space, utilizing the convenient cycling paths through Rombas's core.\nWrap up the cycling tour at the majestic Église Saint-Henri, soaking in the quiet evening ambiance before heading off to dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Park Fond de Saint-Martin",
+            "hu": "Fond de Saint-Martin Park",
+            "ro": "Parcul Fond de Saint-Martin",
+            "en": "Fond de Saint-Martin"
+          },
+          "coords": [
+            6.077667,
+            49.23904
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch üppiges Grün in diesem Naturpark, einem idealen Rückzugsort vom städtischen Trubel, wo ein kleines Picknick Ihren entspannten Morgen perfekt macht.",
+            "hu": "Sétáljon a buja növényzet között ebben a natúrparkban, amely ideális menedék a városi zaj elől, és ahol egy könnyű piknik tovább fokozza a reggeli kikapcsolódást.",
+            "ro": "Plimbați-vă prin verdeața luxuriantă din acest parc natural, o evadare ideală din agitația urbană unde pregătirea unui mic picnic vă îmbunătățește dimineața relaxantă.",
+            "en": "Stroll through lush greenery in this expansive natural park, an ideal escape from the urban rush where packing a light picnic enhances your relaxing morning among the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Tour de Drince",
+            "hu": "Tour de Drince Kilátó",
+            "ro": "Turnul de Observație Drince",
+            "en": "Belvédère Tour de Drince"
+          },
+          "coords": [
+            6.092331,
+            49.237354
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das gesamte Tal von diesem erhöhten Turm, bei dem Sie für den Aufstieg unbedingt eine gute Kamera und eine Windjacke mitbringen sollten.",
+            "hu": "Élvezze az egész völgyre nyíló lenyűgöző panorámát ebből a magaslati kilátótoronyból, amelyhez elengedhetetlen egy jó fényképezőgép és egy szélkabát a szeles csúcs miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice ample asupra văii de la acest turn, un refugiu natural unde este esențial să aduceți un aparat foto bun și o jachetă de vânt.",
+            "en": "Take in sweeping panoramic views of the entire valley from this elevated observation tower, making it essential to bring a good camera and windbreaker for the breezy top."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pierre qui tourne",
+            "hu": "Forgó Kő (La Pierre qui tourne)",
+            "ro": "Piatra care se Rotește",
+            "en": "La Pierre qui tourne"
+          },
+          "coords": [
+            6.092905,
+            49.233739
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ergründen Sie die geheimnisvolle Überlieferung dieses stehenden Steins, tief in lokalen Mythen verwurzelt, wobei Sie bei feuchtem Wetter auf dem moosigen Boden aufpassen sollten.",
+            "hu": "Vizsgálja meg a helyi mítoszokban gyökerező rejtélyes állókő legendáját, miközben nedves időjárás esetén fokozottan ügyel a lépéseire a csúszós, mohás terepen.",
+            "ro": "Investigați legendele misterioase ale acestei remarcabile pietre, profund înrădăcinată în miturile locale, fiind atenți la pași pe terenul acoperit de mușchi în zilele umede.",
+            "en": "Investigate the mysterious lore of this remarkable standing stone rooted in local myths, while carefully watching your step on the surrounding mossy terrain during damp weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Rombas",
+            "hu": "Rombas Kulturális Tér",
+            "ro": "Spațiul Cultural Rombas",
+            "en": "Rombas Cultural Space"
+          },
+          "coords": [
+            6.094173,
+            49.251205
+          ],
+          "category": "cultural",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst und regionale Geschichte in diesem modernen Zentrum, wo interaktive Ausstellungen tiefe Einblicke bieten, weshalb Sie Ihr Ticket vorab online buchen sollten.",
+            "hu": "Fedezze fel a helyi művészetet és történelmet ebben a modern kulturális központban, ahol az interaktív kiállítások mély bepillantást nyújtanak, ezért érdemes előre jegyet foglalni.",
+            "ro": "Explorați arta locală și istoria regională în acest centru modern, unde expozițiile interactive oferă perspective profunde, fiind recomandat să vă rezervați biletul online în avans.",
+            "en": "Explore local arts and regional history at this modern cultural center, where interactive exhibits offer deep insights, making it worth reserving your ticket in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Rombas",
+            "hu": "Rombas Óratorony",
+            "ro": "Turnul cu Ceas Rombas",
+            "en": "Rombas Clock Tower"
+          },
+          "coords": [
+            6.117464,
+            49.248361
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplexe Mechanik und das Erbe dieses ikonischen Turms, wo Sie das charmante Glockenspiel am besten erleben, wenn Sie kurz vor der vollen Stunde eintreffen.",
+            "hu": "Csodálja meg a város ikonikus óratornyának bonyolult mechanikáját, ahová érdemes kicsivel egész óra előtt érkezni az elragadó harangjáték megtekintéséhez.",
+            "ro": "Minunați-vă de mecanismul complex și de moștenirea durabilă a emblematicului turn, unde ajungând chiar înainte de oră fixă puteți urmări mecanismul fermecător în acțiune.",
+            "en": "Marvel at the intricate mechanics and enduring legacy of the town's iconic clock tower, where arriving slightly before the hour lets you witness the charming chiming mechanism."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Nicolas",
+            "hu": "Saint-Nicolas kápolna",
+            "ro": "Capela Saint-Nicolas",
+            "en": "Chapelle Saint-Nicolas"
+          },
+          "coords": [
+            6.110464,
+            49.265214
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schätzen Sie das aufwendige Mauerwerk und die spirituelle Bedeutung dieser charmanten Viertelskapelle, weshalb Sie respektvolle Stille wahren sollten, da hier noch gebetet wird.",
+            "hu": "Értékelje e bájos kápolna bonyolult falazatát és szellemi jelentőségét, ezért őrizzen tiszteletteljes csendet, mivel a helyiek ma is aktív imádkozóhelyként használják.",
+            "ro": "Apreciați zidăria complexă și semnificația spirituală a acestei capele fermecătoare, păstrând o liniște respectuoasă deoarece rămâne un loc activ de rugăciune.",
+            "en": "Appreciate the intricate masonry and spiritual significance of this charming neighborhood chapel, maintaining a respectful silence as it remains an active place of prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            6.107222,
+            49.266115
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre kulturelle Reise an dieser majestätischen Kirche, die für ihren hohen Turm bekannt ist und ein tiefes Gefühl für Geschichte vermittelt, das man am Platz am besten genießt.",
+            "hu": "Zárja utazását ennél a fenséges templomnál, amely magasodó tornyáról és gyönyörű homlokzatáról ismert, és amelyet a legjobban a szomszédos kis térről lehet megcsodálni.",
+            "ro": "Încheiați-vă călătoria culturală la această biserică maiestuoasă cunoscută pentru turla sa înaltă, oferind un profund sentiment istoric apreciat din mica piață adiacentă.",
+            "en": "Conclude your cultural journey at this majestic church known for its towering spire, offering a profound sense of history that is best appreciated from the adjacent public square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie für einen ruhigen Start zum Fond de Saint-Martin an den Stadtrand, gefolgt von den Aussichten vom Belvédère-Turm.\nHüpfen Sie zur antiken Pierre qui tourne und fahren Sie dann ins Zentrum, um die Ausstellungen im Kulturraum zu besuchen.\nParken Sie in der Nähe des Zentrums, um den hoch aufragenden Uhrturm und die bezaubernde Chapelle Saint-Nicolas zu Fuß zu erkunden.\nBeenden Sie Ihre umfassende Autotour an der Église Saint-Étienne und genießen Sie die gut erhaltene Fassade in der Abenddämmerung.",
+        "hu": "Vezessen a külvárosba egy nyugodt kezdésért a Fond de Saint-Martin parkban, majd rögtön utána csodálja meg a Belvédère torony kilátását.\nUgorjon át az ősi Pierre qui tourne kőhöz, majd guruljon be a városközpontba, hogy elmerüljön a Kulturális Tér kiállításaiban.\nParkoljon le a központ közelében, és fedezze fel gyalogosan a magasba törő óratornyot és a közeli bájos Chapelle Saint-Nicolas kápolnát.\nFejezze be átfogó autós túráját az Église Saint-Étienne-nél, élvezve a gyönyörűen megőrzött homlokzatot a városi fények kigyulladásakor.",
+        "ro": "Conduceți la periferie pentru un început liniștit la Fond de Saint-Martin, urmat rapid de priveliștile impresionante de la turnul Belvédère.\nTreceți să descoperiți antica Pierre qui tourne, apoi conduceți spre centrul urban pentru a vedea expozițiile de la Spațiul Cultural.\nParcați lângă cartierul central pentru a explora pe jos impunătorul Turn cu Ceas și fermecătoarea Capelă Saint-Nicolas.\nÎncheiați-vă turul auto la Biserica Saint-Étienne, bucurându-vă de fațada frumos conservată pe măsură ce orașul se luminează.",
+        "en": "Drive to the outskirts for a tranquil start at Fond de Saint-Martin, quickly followed by the impressive sights from the Belvédère tower.\nHop over to uncover the ancient Pierre qui tourne, then cruise into the urban center to engage with exhibitions at the Cultural Space.\nPark near the central district to thoroughly explore the towering Clock Tower and the nearby charming Chapelle Saint-Nicolas on foot.\nEnd your comprehensive driving tour at Église Saint-Étienne, enjoying the beautifully preserved facade as the city lights up."
+      }
+    }
+  }
+}

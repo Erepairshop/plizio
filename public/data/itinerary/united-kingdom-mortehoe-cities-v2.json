@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-mortehoe-cities-v2",
+  "anchor": {
+    "name": "Mortehoe",
+    "coords": [
+      -4.2089,
+      51.1853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mortehoe Museum",
+            "hu": "Mortehoe Múzeum",
+            "ro": "Muzeul Mortehoe",
+            "en": "Mortehoe Museum"
+          },
+          "coords": [
+            -4.20851,
+            51.185021
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem urigen Museum die faszinierende maritime Geschichte sowie lokale Schiffswracks und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a lenyűgöző tengerészeti történelmet és a helyi hajóroncsokat ebben a hangulatos múzeumban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria maritimă fascinantă și epavele locale în acest muzeu pitoresc, dar asigurați-vă că verificați programul de funcționare sezonier.",
+            "en": "Discover the fascinating maritime history and local shipwrecks at this quaint museum, and be sure to check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Rockham Beach",
+            "hu": "Rockham tengerpart",
+            "ro": "Plaja Rockham",
+            "en": "Rockham Beach"
+          },
+          "coords": [
+            -4.20768,
+            51.193026
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Felsenpools und den einsamen Sand dieses Strandes, aber besuchen Sie ihn unbedingt bei Ebbe, um die Küste zu erkunden.",
+            "hu": "Élvezze a drámai sziklamedencéket és az eldugott homokos partot, de mindenképpen apály idején látogasson el ide, hogy teljesen felfedezze a partvidéket.",
+            "ro": "Bucurați-vă de piscinele stâncoase dramatice și de nisipurile izolate ale acestei plaje, dar vizitați-o în timpul refluxului pentru a o explora complet.",
+            "en": "Enjoy the dramatic rock pools and secluded sands of this beautiful beach, but make sure to visit during low tide to fully explore the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bull Point Lighthouse",
+            "hu": "Bull Point Világítótorony",
+            "ro": "Farul Bull Point",
+            "en": "Bull Point Lighthouse"
+          },
+          "coords": [
+            -4.201217,
+            51.199112
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Panoramablick auf den Ozean von diesem markanten Wahrzeichen und bringen Sie eine Windjacke mit, da die Brise stark ist.",
+            "hu": "Élvezze a lenyűgöző panorámát az óceánra ebből az ikonikus navigációs tájékozódási pontból, és hozzon magával széldzsekit az erős parti szél miatt.",
+            "ro": "Admirați priveliștile panoramice spectaculoase asupra oceanului de la acest far emblematic și aduceți o jachetă de vânt, deoarece briza poate fi puternică.",
+            "en": "Take in the spectacular panoramic ocean views from this iconic navigational landmark, and bring a windbreaker as the coastal breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Grunta Beach",
+            "hu": "Grunta tengerpart",
+            "ro": "Plaja Grunta",
+            "en": "Grunta Beach"
+          },
+          "coords": [
+            -4.215189,
+            51.181845
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den rauen Klippen dieser herrlich ruhigen, felsigen Bucht und tragen Sie festes Schuhwerk für den steilen und unebenen Zugangsweg.",
+            "hu": "Pihenjen meg ennek a csodálatosan csendes, sziklás öbölnek a zord sziklái mellett, és viseljen masszív cipőt, mivel a levezető út meredek és egyenetlen.",
+            "ro": "Relaxați-vă lângă stâncile abrupte ale acestui golf stâncos și liniștit și purtați încălțăminte robustă, deoarece calea de acces este destul de abruptă.",
+            "en": "Relax by the rugged cliffs of this wonderfully quiet, rocky cove, and wear sturdy walking shoes as the access path can be steep and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Combesgate View",
+            "hu": "Combesgate kilátópont",
+            "ro": "Punctul de belvedere Combesgate",
+            "en": "Combesgate view"
+          },
+          "coords": [
+            -4.207035,
+            51.178276
+          ],
+          "category": "natural",
+          "arrive_at": "14:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von der zerklüfteten Küste Nord-Devons von diesem Aussichtspunkt und kommen Sie kurz vor Sonnenuntergang für das beste Licht.",
+            "hu": "Készítsen lenyűgöző fényképeket a zord észak-devoni partvonalról erről a természetes kilátóról, és érkezzen közvetlenül naplemente előtt a legjobb fényekért.",
+            "ro": "Fotografiați peisajele uimitoare ale coastei accidentate din North Devon de la acest punct de belvedere și ajungeți chiar înainte de apus pentru o lumină perfectă.",
+            "en": "Capture stunning photographs of the rugged North Devon coastline from this natural viewpoint, and try to arrive just before sunset for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit lokaler Geschichte im charmanten Mortehoe Museum, bevor Sie an die rauen Ufer des Rockham Beach wandern. Mittags erreichen Sie den dramatischen Bull Point Lighthouse mit atemberaubendem Blick auf die Küste. Verbringen Sie den Nachmittag damit, die friedlichen Buchten rund um Grunta Beach zu erkunden. Beenden Sie den Tag am Combesgate View und genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a helyi történelem felfedezésével a bájos Mortehoe Múzeumban, mielőtt a Rockham Beach partjára sétálna. Délben érje el a lenyűgöző Bull Point világítótornyot, ahonnan csodálatos kilátás nyílik a partra. A délutánt a Grunta Beach békés öbleinek felfedezésével töltheti, ami tökéletes pihenést nyújt. Zárja a napot a Combesgate kilátóponton, ahonnan megcsodálhatja a naplementét.",
+        "ro": "Începeți dimineața descoperind istoria locală la fermecătorul Muzeu Mortehoe, înainte de o plimbare spre țărmurile stâncoase ale plajei Rockham. La prânz veți ajunge la dramaticul Far Bull Point, unde priveliștile de coastă sunt uimitoare. Petreceți după-amiaza explorând golfurile liniștite din jurul Grunta Beach. Încheiați ziua la punctul de belvedere Combesgate, admirând un apus de neuitat.",
+        "en": "Start your morning absorbing local history at the charming Mortehoe Museum before a scenic walk to the rugged shores of Rockham Beach. Midday brings you to the dramatic Bull Point Lighthouse where the coastal views are absolutely breathtaking. Spend the afternoon exploring the peaceful coves around Grunta Beach, perfect for a relaxing break. End the day at the Combesgate view, taking in the sunset over the Atlantic Ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mortehoe Museum",
+            "hu": "Mortehoe Múzeum",
+            "ro": "Muzeul Mortehoe",
+            "en": "Mortehoe Museum"
+          },
+          "coords": [
+            -4.20851,
+            51.185021
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem urigen Museum die faszinierende maritime Geschichte sowie lokale Schiffswracks und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a lenyűgöző tengerészeti történelmet és a helyi hajóroncsokat ebben a hangulatos múzeumban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria maritimă fascinantă și epavele locale în acest muzeu pitoresc, dar asigurați-vă că verificați programul de funcționare sezonier.",
+            "en": "Discover the fascinating maritime history and local shipwrecks at this quaint museum, and be sure to check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Standing Stone",
+            "hu": "Standing Stone",
+            "ro": "Piatra în Picioare",
+            "en": "Standing Stone"
+          },
+          "coords": [
+            -4.190081,
+            51.194098
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten, mysteriösen historischen Marker inmitten der hügeligen Landschaft und halten Sie Ihre Kamera für die umliegende Tierwelt bereit.",
+            "hu": "Csodálja meg ezt az ősi, titokzatos történelmi emlékművet a dombos tájon, és tartsa készenlétben a fényképezőgépét a környező vadvilág miatt.",
+            "ro": "Minunați-vă de acest vechi și misterios monument istoric situat în mijlocul peisajului deluros și pregătiți-vă aparatul foto pentru fauna din jur.",
+            "en": "Marvel at this ancient, mysterious historical marker set amidst the rolling landscape, and keep your camera ready for the surrounding wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Segway Safari",
+            "hu": "Segway Szafari",
+            "ro": "Safari cu Segway",
+            "en": "Segway Safari"
+          },
+          "coords": [
+            -4.187794,
+            51.178278
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie ein aufregendes Outdoor-Abenteuer, während Sie über das schöne Gelände gleiten, aber buchen Sie Ihre Sitzung in der Hochsaison im Voraus.",
+            "hu": "Éljen át egy izgalmas szabadtéri kalandot, miközben a gyönyörű helyi terepen siklik, de főszezonban ne felejtse el előre lefoglalni a helyét.",
+            "ro": "Experimentați o aventură palpitantă în aer liber planând pe terenul local frumos, dar amintiți-vă să rezervați sesiunea în avans în timpul sezonului de vârf.",
+            "en": "Experience a thrilling outdoor adventure gliding across the beautiful local terrain, but remember to book your session in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "The Greystone",
+            "hu": "The Greystone",
+            "ro": "The Greystone",
+            "en": "The Greystone"
+          },
+          "coords": [
+            -4.199601,
+            51.178448
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Reise in die Vergangenheit an dieser faszinierenden historischen Stätte und nehmen Sie sich Zeit, die nahe gelegenen Informationstafeln zu lesen.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi ennek a lenyűgöző történelmi helyszínnek a tartós szerkezetét, és olvassa el a közeli információs táblákat.",
+            "ro": "Întoarceți-vă în timp în timp ce explorați structura durabilă a acestui sit istoric fascinant și alocați-vă un moment pentru a citi plăcile informative.",
+            "en": "Step back in time as you explore the enduring structure of this fascinating historical site, and take a moment to read the informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Woolacombe Parish Church",
+            "hu": "Woolacombe Plébániatemplom",
+            "ro": "Biserica Parohială Woolacombe",
+            "en": "Woolacombe Parish Church"
+          },
+          "coords": [
+            -4.202397,
+            51.172758
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieses religiösen Gebäudes und achten Sie auf die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Csodálja meg e szép vallási épület gyönyörű építészetét és békés hangulatát, és figyelje meg a bonyolult ólomüveg ablakokat a belső térben.",
+            "ro": "Admirați arhitectura frumoasă și ambianța pașnică a acestei clădiri religioase și acordați atenție vitraliilor complexe și detaliate din interior.",
+            "en": "Admire the beautiful architecture and peaceful ambiance of this lovely religious building, and look out for the intricate stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Story of Two Villages",
+            "hu": "A Két Falu Története",
+            "ro": "Povestea a Două Sate",
+            "en": "The Story of Two Villages"
+          },
+          "coords": [
+            -4.208364,
+            51.170769
+          ],
+          "category": "landmark",
+          "arrive_at": "15:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Wahrzeichen mehr über das verflochtene Erbe von Mortehoe und Woolacombe, ein perfekter und informativer Stopp für Familien.",
+            "hu": "Ismerje meg Mortehoe és Woolacombe összefonódó örökségét ezen a helyi nevezetességen, amely tökéletes és informatív megállóhely gyermekes családok számára.",
+            "ro": "Aflați despre moștenirea împletită a satelor Mortehoe și Woolacombe la acest punct de reper, care este o oprire informativă perfectă pentru familii.",
+            "en": "Learn about the intertwined heritage of Mortehoe and Woolacombe at this local landmark, which is a perfect informative stop for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Barricane Beach (SSSI)",
+            "hu": "Barricane tengerpart (SSSI)",
+            "ro": "Plaja Barricane (SSSI)",
+            "en": "Barricane Beach (SSSI)"
+          },
+          "coords": [
+            -4.213368,
+            51.176228
+          ],
+          "category": "recreational",
+          "arrive_at": "16:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Suchen Sie an diesem einzigartigen Strand nach exotischen Kauri-Muscheln aus dem Golfstrom und probieren Sie die berühmten Currys im örtlichen Strandcafé.",
+            "hu": "Keressen a Golf-áramlat által kimosott egzotikus kaurikagylókat ezen az egyedi strandon, és kóstolja meg a híres helyi strandkávézó curryjeit.",
+            "ro": "Căutați scoici cowrie exotice aduse de Curentul Golfului pe această plajă unică și încercați celebrele curry-uri de la cafeneaua locală de pe plajă.",
+            "en": "Search for exotic cowrie shells washed up from the Gulf Stream on this unique beach, and try the famous local beach cafe curries if they are open."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Mortehoe Museum, um die Wurzeln des Dorfes kennenzulernen, und radeln Sie dann zum mysteriösen Standing Stone. Mittags genießen Sie aktiven Spaß bei der Segway Safari, bevor Sie zu The Greystone fahren. Am Nachmittag besuchen Sie die Woolacombe Parish Church und die Ausstellung Story of Two Villages. Entspannen Sie sich schließlich am atemberaubenden Barricane Beach.",
+        "hu": "Kezdje a kerékpártúrát a Mortehoe Múzeumban a falu gyökereinek megismerésével, majd tekerjen el a rejtélyes Standing Stone felé. Délben élvezze az aktív kikapcsolódást a Segway Safarin, mielőtt a The Greystone nevű történelmi helyszínre indul. Délután látogasson el a gyönyörű Woolacombe templomba és a két falu történetét bemutató kiállításra. Végül pihenjen meg a lenyűgöző Barricane strandon.",
+        "ro": "Începeți turul pe bicicletă la Muzeul Mortehoe pentru a înțelege rădăcinile satului, apoi pedalați spre misteriosul Standing Stone. La prânz, bucurați-vă de distracție activă la Segway Safari înainte de a merge la istoricul The Greystone. După-amiaza include o oprire la frumoasa Biserică Woolacombe și expoziția Povestea a Două Sate. La final, relaxați-vă pe impresionanta plajă Barricane.",
+        "en": "Kick off your cycling tour at the Mortehoe Museum to understand the village's roots, then pedal out to the mysterious Standing Stone. For midday, enjoy some active fun at the Segway Safari before heading to the historic site of The Greystone. Your afternoon features a stop at the beautiful Woolacombe Parish Church and the engaging Story of Two Villages exhibit. Finally, relax at the stunning Barricane Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 7.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "The Story of Two Villages",
+            "hu": "A Két Falu Története",
+            "ro": "Povestea a Două Sate",
+            "en": "The Story of Two Villages"
+          },
+          "coords": [
+            -4.208364,
+            51.170769
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Wahrzeichen mehr über das verflochtene Erbe von Mortehoe und Woolacombe, ein perfekter und informativer Stopp für Familien.",
+            "hu": "Ismerje meg Mortehoe és Woolacombe összefonódó örökségét ezen a helyi nevezetességen, amely tökéletes és informatív megállóhely gyermekes családok számára.",
+            "ro": "Aflați despre moștenirea împletită a satelor Mortehoe și Woolacombe la acest punct de reper, care este o oprire informativă perfectă pentru familii.",
+            "en": "Learn about the intertwined heritage of Mortehoe and Woolacombe at this local landmark, which is a perfect informative stop for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Woolacombe Parish Church",
+            "hu": "Woolacombe Plébániatemplom",
+            "ro": "Biserica Parohială Woolacombe",
+            "en": "Woolacombe Parish Church"
+          },
+          "coords": [
+            -4.202397,
+            51.172758
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieses religiösen Gebäudes und achten Sie auf die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Csodálja meg e szép vallási épület gyönyörű építészetét és békés hangulatát, és figyelje meg a bonyolult ólomüveg ablakokat a belső térben.",
+            "ro": "Admirați arhitectura frumoasă și ambianța pașnică a acestei clădiri religioase și acordați atenție vitraliilor complexe și detaliate din interior.",
+            "en": "Admire the beautiful architecture and peaceful ambiance of this lovely religious building, and look out for the intricate stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Greystone",
+            "hu": "The Greystone",
+            "ro": "The Greystone",
+            "en": "The Greystone"
+          },
+          "coords": [
+            -4.199601,
+            51.178448
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Reise in die Vergangenheit an dieser faszinierenden historischen Stätte und nehmen Sie sich Zeit, die nahe gelegenen Informationstafeln zu lesen.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi ennek a lenyűgöző történelmi helyszínnek a tartós szerkezetét, és olvassa el a közeli információs táblákat.",
+            "ro": "Întoarceți-vă în timp în timp ce explorați structura durabilă a acestui sit istoric fascinant și alocați-vă un moment pentru a citi plăcile informative.",
+            "en": "Step back in time as you explore the enduring structure of this fascinating historical site, and take a moment to read the informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Segway Safari",
+            "hu": "Segway Szafari",
+            "ro": "Safari cu Segway",
+            "en": "Segway Safari"
+          },
+          "coords": [
+            -4.187794,
+            51.178278
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie ein aufregendes Outdoor-Abenteuer, während Sie über das schöne Gelände gleiten, aber buchen Sie Ihre Sitzung in der Hochsaison im Voraus.",
+            "hu": "Éljen át egy izgalmas szabadtéri kalandot, miközben a gyönyörű helyi terepen siklik, de főszezonban ne felejtse el előre lefoglalni a helyét.",
+            "ro": "Experimentați o aventură palpitantă în aer liber planând pe terenul local frumos, dar amintiți-vă să rezervați sesiunea în avans în timpul sezonului de vârf.",
+            "en": "Experience a thrilling outdoor adventure gliding across the beautiful local terrain, but remember to book your session in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Standing Stone",
+            "hu": "Standing Stone",
+            "ro": "Piatra în Picioare",
+            "en": "Standing Stone"
+          },
+          "coords": [
+            -4.190081,
+            51.194098
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten, mysteriösen historischen Marker inmitten der hügeligen Landschaft und halten Sie Ihre Kamera für die umliegende Tierwelt bereit.",
+            "hu": "Csodálja meg ezt az ősi, titokzatos történelmi emlékművet a dombos tájon, és tartsa készenlétben a fényképezőgépét a környező vadvilág miatt.",
+            "ro": "Minunați-vă de acest vechi și misterios monument istoric situat în mijlocul peisajului deluros și pregătiți-vă aparatul foto pentru fauna din jur.",
+            "en": "Marvel at this ancient, mysterious historical marker set amidst the rolling landscape, and keep your camera ready for the surrounding wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Bull Point Lighthouse",
+            "hu": "Bull Point Világítótorony",
+            "ro": "Farul Bull Point",
+            "en": "Bull Point Lighthouse"
+          },
+          "coords": [
+            -4.201217,
+            51.199112
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Panoramablick auf den Ozean von diesem markanten Wahrzeichen und bringen Sie eine Windjacke mit, da die Brise stark ist.",
+            "hu": "Élvezze a lenyűgöző panorámát az óceánra ebből az ikonikus navigációs tájékozódási pontból, és hozzon magával széldzsekit az erős parti szél miatt.",
+            "ro": "Admirați priveliștile panoramice spectaculoase asupra oceanului de la acest far emblematic și aduceți o jachetă de vânt, deoarece briza poate fi puternică.",
+            "en": "Take in the spectacular panoramic ocean views from this iconic navigational landmark, and bring a windbreaker as the coastal breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Mortehoe Museum",
+            "hu": "Mortehoe Múzeum",
+            "ro": "Muzeul Mortehoe",
+            "en": "Mortehoe Museum"
+          },
+          "coords": [
+            -4.20851,
+            51.185021
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem urigen Museum die faszinierende maritime Geschichte sowie lokale Schiffswracks und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a lenyűgöző tengerészeti történelmet és a helyi hajóroncsokat ebben a hangulatos múzeumban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți istoria maritimă fascinantă și epavele locale în acest muzeu pitoresc, dar asigurați-vă că verificați programul de funcționare sezonier.",
+            "en": "Discover the fascinating maritime history and local shipwrecks at this quaint museum, and be sure to check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Combesgate Beach",
+            "hu": "Combesgate tengerpart",
+            "ro": "Plaja Combesgate",
+            "en": "Combesgate Beach"
+          },
+          "coords": [
+            -4.212195,
+            51.178265
+          ],
+          "category": "recreational",
+          "arrive_at": "16:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie das Surfen oder entspannen Sie sich im goldenen Sand dieses charmanten Küstenortes, aber achten Sie auf die steilen Stufen hinunter zum Wasser.",
+            "hu": "Élvezze a szörfözést vagy egyszerűen csak pihenjen ennek a bájos tengerparti helynek az aranyhomokján, de vigyázzon a vízhez vezető meredek lépcsőkkel.",
+            "ro": "Bucurați-vă de surfing sau pur și simplu relaxați-vă pe nisipul auriu al acestui loc fermecător, dar fiți atenți la treptele abrupte care coboară spre apă.",
+            "en": "Enjoy surfing or simply relaxing on the golden sands of this charming coastal spot, but be aware of the steep steps leading down to the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der faszinierenden Story of Two Villages, gefolgt von einem ruhigen Stopp an der malerischen Woolacombe Parish Church. Mittags fahren Sie ins Landesinnere zum historischen Greystone, testen Ihre Fähigkeiten bei der Segway Safari und bewundern den alten Standing Stone. Verbringen Sie den Nachmittag am Bull Point Lighthouse und im Mortehoe Museum. Beenden Sie den Tag am Combesgate Beach.",
+        "hu": "Kezdje az utat a Két Falu Története című lenyűgöző kiállításnál, majd álljon meg a festői Woolacombe templomnál. Délben utazzon beljebb a The Greystone felfedezéséhez, próbálja ki a Segway Safarit, és csodálja meg az ősi Standing Stone-t. A délutánt a Bull Point világítótoronynál és a Mortehoe Múzeum felfedezésével töltheti. Zárja a napot egy kellemes pihenéssel a Combesgate tengerparton.",
+        "ro": "Începeți cu fascinanta Poveste a Două Sate, urmată de o oprire liniștită la pitoreasca Biserică Woolacombe. La prânz mergeți spre interior pentru a vedea istoricul Greystone, testați-vă abilitățile la Segway Safari și admirați vechiul Standing Stone. Petreceți după-amiaza la Farul Bull Point și explorând Muzeul Mortehoe. Încheiați călătoria relaxându-vă pe frumoasa plajă Combesgate.",
+        "en": "Begin your drive exploring the fascinating Story of Two Villages, followed by a serene morning stop at the picturesque Woolacombe Parish Church. Midday takes you inland to see the historic Greystone, test your skills at the Segway Safari, and admire the ancient Standing Stone. Spend the afternoon marveling at Bull Point Lighthouse and exploring Mortehoe Museum. Finish your road trip unwinding on Combesgate Beach."
+      }
+    }
+  }
+}

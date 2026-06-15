@@ -1,0 +1,474 @@
+{
+  "city_id": "somain",
+  "anchor": {
+    "name": "Somain",
+    "coords": [
+      3.2803,
+      50.3575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:42",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Somain",
+            "hu": "Somain Vasútállomás",
+            "ro": "Gara Somain",
+            "en": "Somain Railway Station"
+          },
+          "coords": [
+            3.277407,
+            50.355592
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts und kaufen Sie Tickets frühzeitig, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg ennek a kulcsfontosságú, helyi ipart formáló vasúti csomópontnak az építészetét, és vegye meg jegyét korán a sorban állás elkerülése végett.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital care a modelat industria locală și cumpărați biletele devreme pentru a evita cozile.",
+            "en": "Admire the historic architecture of this vital rail hub that shaped local industry, and buy your tickets early to avoid rush-hour queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Gérard-Philipe Theater",
+            "hu": "Gérard-Philipe Színház",
+            "ro": "Teatrul Gérard-Philipe",
+            "en": "Gérard-Philipe Theater"
+          },
+          "coords": [
+            3.281874,
+            50.357867
+          ],
+          "category": "cultural",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie Somains lebendige Kunstszene in diesem beliebten lokalen Theater, aber prüfen Sie unbedingt vorab den Online-Spielplan.",
+            "hu": "Tapasztalja meg Somain pezsgő művészeti életét ebben a kedvelt helyi színházban, de mindenképp ellenőrizze az online műsort nappali kiállításokért.",
+            "ro": "Experimentați scena artistică vibrantă la acest teatru local iubit, dar verificați programul online pentru expozițiile din timpul zilei.",
+            "en": "Experience Somain's vibrant arts scene at this beloved local theater, but be sure to check their online schedule for daytime exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel Templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            3.281428,
+            50.359375
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Buntglasfenster dieses zentralen Wahrzeichens und besuchen Sie es direkt nach der Morgenmesse für absolute Ruhe.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző ólomüveg ablakait, és látogasson el rögtön a reggeli mise után a legcsendesebb élményért.",
+            "ro": "Admirați vitraliile impresionante ale acestui lăcaș central și vizitați-l imediat după slujba de dimineață pentru cea mai liniștită atmosferă.",
+            "en": "Marvel at the impressive stained glass windows of this central religious landmark, and visit right after morning mass for the quietest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-Consolation",
+            "hu": "Notre-Dame-de-Consolation Kápolna",
+            "ro": "Capela Notre-Dame-de-Consolation",
+            "en": "Chapelle Notre-Dame-de-Consolation"
+          },
+          "coords": [
+            3.266469,
+            50.358849
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment des Friedens in dieser kleinen, geschichtsträchtigen Kapelle und halten Sie respektvollen Abstand bei betenden Einheimischen.",
+            "hu": "Találjon egy békés pillanatot ebben a kis, történelmi kápolnában, és tartson tiszteletteljes távolságot, ha a helyiek éppen imádkoznak.",
+            "ro": "Descoperiți un moment de pace la această mică capelă plină de istorie, păstrând o distanță respectuoasă dacă localnicii se roagă.",
+            "en": "Discover a moment of peace at this small, historically rich chapel tucked away in the neighborhood, keeping a respectful distance if locals are praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Barbe",
+            "hu": "Sainte-Barbe Kápolna",
+            "ro": "Capela Sainte-Barbe",
+            "en": "Chapelle Sainte-Barbe"
+          },
+          "coords": [
+            3.272609,
+            50.37148
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese Kapelle ehrt die Schutzpatronin der Bergleute und spiegelt die industrielle Vergangenheit wider; tragen Sie festes Schuhwerk für die Umgebung.",
+            "hu": "A bányászok védőszentjének szentelt kápolna a környék ipari gyökereit tükrözi, ezért viseljen masszív cipőt a környező ösvények bejárásához.",
+            "ro": "Dedicată sfintei patroane a minerilor, capela reflectă rădăcinile industriale ale zonei, așa că purtați încălțăminte comodă pentru traseele din jur.",
+            "en": "Dedicated to the patron saint of miners, this chapel reflects the area's deep industrial roots, so wear sturdy shoes to explore the surrounding trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am historischen Bahnhof, bevor Sie im Theater in Somains Kultur eintauchen. Am Mittag erwartet Sie die imposante Kirche Saint-Michel zur ruhigen Besinnung. Nachmittags machen Sie einen flotten Spaziergang zur Kapelle Notre-Dame-de-Consolation. Beenden Sie den Tag im Norden nahe der Chapelle Sainte-Barbe und spüren Sie das Bergbauerbe der Region.",
+        "hu": "Kezdje a reggelt a történelmi vasútállomáson, majd merüljön el a színház kulturális világában. Délben a lenyűgöző Saint-Michel templom nyújt csendes elmélyülést. Délután egy frissítő séta elviszi a békés Notre-Dame-de-Consolation kápolnához. Zárja napját az északi Chapelle Sainte-Barbe környékén, felfedezve a régió bányászati örökségét.",
+        "ro": "Începeți dimineața la gara istorică, apoi explorați inima culturală la teatrul orașului. La prânz, vizitați biserica impunătoare Saint-Michel pentru o clipă de liniște. După-amiaza, faceți o plimbare spre capela senină Notre-Dame-de-Consolation. Încheiați ziua în partea de nord la Chapelle Sainte-Barbe, admirând patrimoniul minier al acestei regiuni.",
+        "en": "Start your morning at the historic railway station before diving into Somain's cultural heart at the theater. Midday brings you to the imposing Saint-Michel Church for some quiet reflection. In the afternoon, enjoy a brisk walk to the serene Notre-Dame-de-Consolation. End your day exploring the northern outskirts near Chapelle Sainte-Barbe, soaking in the region's mining heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:55",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Somain",
+            "hu": "Somain Vasútállomás",
+            "ro": "Gara Somain",
+            "en": "Somain Railway Station"
+          },
+          "coords": [
+            3.277407,
+            50.355592
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts und kaufen Sie Tickets frühzeitig, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg ennek a kulcsfontosságú, helyi ipart formáló vasúti csomópontnak az építészetét, és vegye meg jegyét korán a sorban állás elkerülése végett.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital care a modelat industria locală și cumpărați biletele devreme pentru a evita cozile.",
+            "en": "Admire the historic architecture of this vital rail hub that shaped local industry, and buy your tickets early to avoid rush-hour queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Gérard-Philipe Theater",
+            "hu": "Gérard-Philipe Színház",
+            "ro": "Teatrul Gérard-Philipe",
+            "en": "Gérard-Philipe Theater"
+          },
+          "coords": [
+            3.281874,
+            50.357867
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie Somains lebendige Kunstszene in diesem beliebten lokalen Theater, aber prüfen Sie unbedingt vorab den Online-Spielplan.",
+            "hu": "Tapasztalja meg Somain pezsgő művészeti életét ebben a kedvelt helyi színházban, de mindenképp ellenőrizze az online műsort nappali kiállításokért.",
+            "ro": "Experimentați scena artistică vibrantă la acest teatru local iubit, dar verificați programul online pentru expozițiile din timpul zilei.",
+            "en": "Experience Somain's vibrant arts scene at this beloved local theater, but be sure to check their online schedule for daytime exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel Templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            3.281428,
+            50.359375
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Buntglasfenster dieses zentralen Wahrzeichens und besuchen Sie es direkt nach der Morgenmesse für absolute Ruhe.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző ólomüveg ablakait, és látogasson el rögtön a reggeli mise után a legcsendesebb élményért.",
+            "ro": "Admirați vitraliile impresionante ale acestui lăcaș central și vizitați-l imediat după slujba de dimineață pentru cea mai liniștită atmosferă.",
+            "en": "Marvel at the impressive stained glass windows of this central religious landmark, and visit right after morning mass for the quietest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-Consolation",
+            "hu": "Notre-Dame-de-Consolation Kápolna",
+            "ro": "Capela Notre-Dame-de-Consolation",
+            "en": "Chapelle Notre-Dame-de-Consolation"
+          },
+          "coords": [
+            3.266469,
+            50.358849
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment des Friedens in dieser kleinen, geschichtsträchtigen Kapelle und halten Sie respektvollen Abstand bei betenden Einheimischen.",
+            "hu": "Találjon egy békés pillanatot ebben a kis, történelmi kápolnában, és tartson tiszteletteljes távolságot, ha a helyiek éppen imádkoznak.",
+            "ro": "Descoperiți un moment de pace la această mică capelă plină de istorie, păstrând o distanță respectuoasă dacă localnicii se roagă.",
+            "en": "Discover a moment of peace at this small, historically rich chapel tucked away in the neighborhood, keeping a respectful distance if locals are praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            3.244907,
+            50.356196
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten rustikalen Schrein für Heilung und Schutz und bringen Sie eine Kamera mit, um die malerische Fassade zu fotografieren.",
+            "hu": "Álljon meg ennél az elbűvölő, gyógyulásnak szentelt rusztikus szentélynél, és hozzon fényképezőgépet a festői, időrágta homlokzat megörökítéséhez.",
+            "ro": "Opriți-vă la acest altar rustic fermecător dedicat vindecării și aduceți un aparat foto pentru a surprinde fațada sa pitorească și învechită.",
+            "en": "Stop by this charming rustic shrine dedicated to healing and protection, and bring a camera to capture its picturesque, time-worn facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Samson",
+            "hu": "Saint-Samson Templom",
+            "ro": "Biserica Saint-Samson",
+            "en": "Église Saint-Samson"
+          },
+          "coords": [
+            3.240784,
+            50.356529
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonische Eleganz dieser geräumigen Pfarrkirche und beachten Sie die kunstvoll geschnitzten Holzbänke im Nachmittagslicht.",
+            "hu": "Fedezze fel e tágas plébániatemplom építészeti eleganciáját, különös tekintettel a gyönyörűen faragott fapadokra a délutáni napfényben.",
+            "ro": "Explorați eleganța arhitecturală a acestei biserici parohiale spațioase, observând băncile din lemn frumos sculptate, ideale sub lumina după-amiezii.",
+            "en": "Explore the architectural elegance of this spacious parish church, noting the beautifully carved wooden pews best viewed under the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Hauptbahnhof los und besuchen Sie das lokale Theater für kulturelle Einblicke. Fahren Sie zur Saint-Michel-Kirche, um das Licht am Mittag zu bewundern, dann weiter nach Westen zur Notre-Dame. Der Nachmittag vergeht wie im Flug an der Chapelle Saint-Roch. Beenden Sie Ihre Radtour an der Église Saint-Samson und genießen Sie die ruhige Dorfatmosphäre.",
+        "hu": "Induljon a központi vasútállomásról a helyi színház felé egy reggeli kulturális élményért. Kerekezzen át a Saint-Michel templomhoz a déli fényben, majd haladjon nyugat felé a Notre-Dame kápolnához. A délután gyorsan eltelik a hangulatos Chapelle Saint-Roch mellett. Fejezze be a túrát az Église Saint-Samsonnál, élvezve a nyugodt vidéki atmoszférát.",
+        "ro": "Porniți cu bicicleta de la gară și bucurați-vă de atmosfera culturală a teatrului. Pedalați spre biserica Saint-Michel la prânz, apoi îndreptați-vă spre vest către Notre-Dame. După-amiaza trece rapid explorând pitoreasca Chapelle Saint-Roch. Încheiați aventura pe două roți la Église Saint-Samson, savurând liniștea satelor din împrejurimi.",
+        "en": "Pedal off from the central station, catching a morning show or exhibit at the local theater. Ride over to Saint-Michel Church to admire its beautiful midday light, then cycle westward to Notre-Dame. The afternoon speeds by as you reach Chapelle Saint-Roch, a charming roadside gem. Conclude your cycling adventure at Église Saint-Samson, enjoying the tranquil village atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 8.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Somain",
+            "hu": "Somain Vasútállomás",
+            "ro": "Gara Somain",
+            "en": "Somain Railway Station"
+          },
+          "coords": [
+            3.277407,
+            50.355592
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts und kaufen Sie Tickets frühzeitig, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg ennek a kulcsfontosságú, helyi ipart formáló vasúti csomópontnak az építészetét, és vegye meg jegyét korán a sorban állás elkerülése végett.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital care a modelat industria locală și cumpărați biletele devreme pentru a evita cozile.",
+            "en": "Admire the historic architecture of this vital rail hub that shaped local industry, and buy your tickets early to avoid rush-hour queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel Templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            3.281428,
+            50.359375
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Buntglasfenster dieses zentralen Wahrzeichens und besuchen Sie es direkt nach der Morgenmesse für absolute Ruhe.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző ólomüveg ablakait, és látogasson el rögtön a reggeli mise után a legcsendesebb élményért.",
+            "ro": "Admirați vitraliile impresionante ale acestui lăcaș central și vizitați-l imediat după slujba de dimineață pentru cea mai liniștită atmosferă.",
+            "en": "Marvel at the impressive stained glass windows of this central religious landmark, and visit right after morning mass for the quietest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-Consolation",
+            "hu": "Notre-Dame-de-Consolation Kápolna",
+            "ro": "Capela Notre-Dame-de-Consolation",
+            "en": "Chapelle Notre-Dame-de-Consolation"
+          },
+          "coords": [
+            3.266469,
+            50.358849
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment des Friedens in dieser kleinen, geschichtsträchtigen Kapelle und halten Sie respektvollen Abstand bei betenden Einheimischen.",
+            "hu": "Találjon egy békés pillanatot ebben a kis, történelmi kápolnában, és tartson tiszteletteljes távolságot, ha a helyiek éppen imádkoznak.",
+            "ro": "Descoperiți un moment de pace la această mică capelă plină de istorie, păstrând o distanță respectuoasă dacă localnicii se roagă.",
+            "en": "Discover a moment of peace at this small, historically rich chapel tucked away in the neighborhood, keeping a respectful distance if locals are praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            3.244907,
+            50.356196
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten rustikalen Schrein für Heilung und Schutz und bringen Sie eine Kamera mit, um die malerische Fassade zu fotografieren.",
+            "hu": "Álljon meg ennél az elbűvölő, gyógyulásnak szentelt rusztikus szentélynél, és hozzon fényképezőgépet a festői, időrágta homlokzat megörökítéséhez.",
+            "ro": "Opriți-vă la acest altar rustic fermecător dedicat vindecării și aduceți un aparat foto pentru a surprinde fațada sa pitorească și învechită.",
+            "en": "Stop by this charming rustic shrine dedicated to healing and protection, and bring a camera to capture its picturesque, time-worn facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Samson",
+            "hu": "Saint-Samson Templom",
+            "ro": "Biserica Saint-Samson",
+            "en": "Église Saint-Samson"
+          },
+          "coords": [
+            3.240784,
+            50.356529
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonische Eleganz dieser geräumigen Pfarrkirche und beachten Sie die kunstvoll geschnitzten Holzbänke im Nachmittagslicht.",
+            "hu": "Fedezze fel e tágas plébániatemplom építészeti eleganciáját, különös tekintettel a gyönyörűen faragott fapadokra a délutáni napfényben.",
+            "ro": "Explorați eleganța arhitecturală a acestei biserici parohiale spațioase, observând băncile din lemn frumos sculptate, ideale sub lumina după-amiezii.",
+            "en": "Explore the architectural elegance of this spacious parish church, noting the beautifully carved wooden pews best viewed under the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Anne",
+            "hu": "Saint-Anne Kápolna",
+            "ro": "Capela Saint-Anne",
+            "en": "Chapelle Saint-Anne"
+          },
+          "coords": [
+            3.296253,
+            50.335207
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zu diesem bescheidenen, von Einheimischen geschätzten Wahrzeichen und parken Sie respektvoll abseits der engen Straße.",
+            "hu": "Tegyél egy rövid kitérőt ehhez a szerény, helyiek által becsben tartott történelmi műemlékhez, és parkolj tiszteletteljesen a keskeny főút mellett.",
+            "ro": "Faceți un scurt ocol la acest monument istoric modest, drag localnicilor, asigurându-vă că parcați respectuos pe marginea drumului îngust.",
+            "en": "Take a brief detour to this modest historical landmark that locals hold dear, ensuring you park respectfully off the narrow main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Soziokulturelles Zentrum Acacias",
+            "hu": "Acacias Szociokulturális Központ",
+            "ro": "Spațiul sociocultural Acacias",
+            "en": "Espace socioculturel des Acacias"
+          },
+          "coords": [
+            3.300095,
+            50.333689
+          ],
+          "category": "cultural",
+          "arrive_at": "12:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lebendigen Kulturzentrum in das moderne Gemeindeleben ein und prüfen Sie die Pinnwände auf abendliche Konzerte oder Workshops.",
+            "hu": "Merüljön el a modern közösségi életben ezen a pezsgő kulturális központon, és nézze meg a faliújságokat esti koncertekért vagy workshopokért.",
+            "ro": "Pătrundeți în viața comunitară modernă la acest centru cultural vibrant și verificați avizierele pentru concerte de seară sau ateliere locale.",
+            "en": "Dive into modern community life at this vibrant cultural hub, and check their notice boards for evening concerts or community workshops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom belebten Bahnhof direkt ins Zentrum mit einem Halt an der Kirche Saint-Michel. Fahren Sie bequem zur friedlichen Notre-Dame-de-Consolation und dann westlich zur malerischen Chapelle Saint-Roch. Am Nachmittag bringt Sie die Fahrt zur bemerkenswerten Église Saint-Samson. Beenden Sie Ihre Tour im Süden am lebhaften Kulturzentrum Acacias.",
+        "hu": "Vezessen a nyüzsgő vasútállomástól egyenesen a történelmi központba, megállva a Saint-Michel templomnál. Haladjon tovább a békés Notre-Dame-de-Consolation kápolnához, majd nyugat felé a Chapelle Saint-Roch-hoz. A délutáni autózás a lenyűgöző Église Saint-Samsonhoz visz. Zárja a napot délen, a nyüzsgő Acacias kulturális központban.",
+        "ro": "Conduceți de la gara aglomerată direct în centrul istoric, oprind la biserica Saint-Michel. Continuați lin spre liniștita Notre-Dame-de-Consolation, apoi mergeți la vest spre Chapelle Saint-Roch. Plimbarea de după-amiază vă duce la remarcabila Église Saint-Samson. Terminați turul în sud, la vibrantul centru sociocultural Acacias.",
+        "en": "Drive from the bustling railway station directly into the historical town center, stopping at Saint-Michel. Continue smoothly to the peaceful Notre-Dame-de-Consolation before heading west to explore the quaint Chapelle Saint-Roch. The afternoon drive takes you to the remarkable Église Saint-Samson. Finish your grand tour down south at the vibrant Acacias cultural space."
+      }
+    }
+  }
+}

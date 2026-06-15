@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-ponte-di-legno-cities-v2",
+  "anchor": {
+    "name": "Ponte di Legno",
+    "coords": [
+      10.51048,
+      46.25896
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 3.88,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Santissima Trinità",
+            "hu": "Chiesa della Santissima Trinità",
+            "ro": "Chiesa della Santissima Trinità",
+            "en": "Chiesa della Santissima Trinità"
+          },
+          "coords": [
+            10.510634,
+            46.259814
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, dem spirituellen Herzen des Dorfes, und prüfen Sie das Schild nach den Zeiten der örtlichen Chorkonzerte.",
+            "hu": "Csodálja meg a központi templom freskóit, mely a falu spirituális szíve, és nézze meg a hirdetőtáblán a helyi kóruskoncertek időpontjait is.",
+            "ro": "Admirați frescele frumoase ale acestei biserici centrale, inima spirituală a satului, și verificați avizierul pentru orele concertelor corale locale.",
+            "en": "Admire the beautiful frescoes of this central church, which holds the spiritual heart of the village, and check the notice board for local choir concert times."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Poia",
+            "hu": "Castello di Poia",
+            "ro": "Castello di Poia",
+            "en": "Castello di Poia"
+          },
+          "coords": [
+            10.503094,
+            46.255324
+          ],
+          "category": "castle",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten mittelalterlichen Burg, um die alpine Geschichte zu entdecken, und tragen Sie feste Wanderschuhe für die steinigen Pfade.",
+            "hu": "Fedezze fel a középkori vár romjait, hogy megismerje az alpesi történelmet, és viseljen kényelmes túracipőt, mivel a környező ösvények meglehetősen sziklásak.",
+            "ro": "Explorați ruinele acestui castel medieval vechi pentru a descoperi istoria alpină și purtați încălțăminte solidă, deoarece cărările din jur pot fi pietroase.",
+            "en": "Explore the ruins of this ancient medieval castle to uncover centuries of Alpine history, and wear sturdy walking shoes as the surrounding paths can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Comunale",
+            "hu": "Piscina Comunale",
+            "ro": "Piscina Comunale",
+            "en": "Piscina Comunale"
+          },
+          "coords": [
+            10.516987,
+            46.25503
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem gut ausgestatteten örtlichen Schwimmbad nach dem Spaziergang, aber bringen Sie ein eigenes Handtuch mit, da Leihgeräte oft knapp sind.",
+            "hu": "Pihenjen meg ebben a jól felszerelt helyi uszodakomplexumban a séta után, de ne felejtsen el saját törölközőt hozni, mivel a kölcsönzési lehetőségek korlátozottak.",
+            "ro": "Relaxați-vă în acest complex de piscine locale, perfect după o plimbare, dar nu uitați să vă aduceți propriul prosop, deoarece închirierile depind de disponibilitate.",
+            "en": "Relax at this well-equipped local pool complex perfect for unwinding after a walk, but remember to bring your own towel as rentals are often subject to availability."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            10.516687,
+            46.268565
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe in dieser bezaubernden historischen Kirche und besuchen Sie sie am frühen Nachmittag, um das beste natürliche Licht zu erleben.",
+            "hu": "Töltsön el egy békés pillanatot ebben a bájos, klasszikus építészetéről híres történelmi templomban, és látogasson kora délután a legjobb természetes fényviszonyokért.",
+            "ro": "Bucurați-vă de un moment de pace la această biserică istorică, faimoasă pentru arhitectura sa, și vizitați-o la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Take a moment of peace at this charming historic church famous for its classic architecture, and visit during the early afternoon to enjoy the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Fabiano e Sabastiano",
+            "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+            "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+            "en": "Chiesa dei Santi Fabiano e Sabastiano"
+          },
+          "coords": [
+            10.517145,
+            46.273486
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses kleine, wunderschön erhaltene Heiligtum inmitten der Bergpfade und bringen Sie Wasser mit, da es in der Nähe keine Einkehrmöglichkeiten gibt.",
+            "hu": "Fedezze fel ezt a hegyi ösvények között megbúvó, gyönyörűen megőrzött kis szentélyt, és vigyen magával vizet, mivel a közelben nincsenek közvetlen szolgáltatások.",
+            "ro": "Descoperiți acest mic sanctuar bine conservat situat printre traseele montane și luați o sticlă cu apă, deoarece nu există facilități imediate în apropiere.",
+            "en": "Discover this small, beautifully preserved sanctuary nestled among the mountain trails, and carry a water bottle since there are no immediate facilities nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Ponte di Legno beginnt im Dorfzentrum an der schönen Santissima Trinità. Bis zum Mittag sind Sie an der historischen Castello di Poia vorbeigeschlendert. Der Nachmittag bringt eine erfrischende Pause im örtlichen Schwimmbad vor den nördlichen Wegen. Ihre Reise endet friedlich an der malerischen Kirche Santi Fabiano e Sabastiano in den Bergen.",
+        "hu": "A ponte di legnó-i séta a falu központjában kezdődik a gyönyörű Santissima Trinità templomnál. Délig a történelmi Castello di Poia várához sétál, hogy elmerüljön az alpesi múltban. A délután frissítő megállót kínál a helyi uszodában, mielőtt az északi ösvények felé indul. A nap a Santi Fabiano e Sabastiano festői templománál fejeződik be békésen.",
+        "ro": "Turul dvs. de plimbare în Ponte di Legno începe în centrul satului cu frumoasa Santissima Trinità. Până la amiază, veți trece pe lângă istoricul Castello di Poia. După-amiaza aduce o oprire revigorantă la piscina locală, înainte de a vă îndrepta spre traseele nordice. Călătoria dvs. se încheie liniștit la biserica pitorească Santi Fabiano e Sabastiano.",
+        "en": "Your walking tour of Ponte di Legno begins in the village center with the beautiful Santissima Trinità. By midday, you will have wandered past the historic Castello di Poia to immerse yourself in the Alpine past. Afternoon brings a refreshing stop at the local pool before heading towards the northern trails. Your journey concludes peacefully at the scenic church of Santi Fabiano e Sabastiano."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 5.41,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Santissima Trinità",
+            "hu": "Chiesa della Santissima Trinità",
+            "ro": "Chiesa della Santissima Trinità",
+            "en": "Chiesa della Santissima Trinità"
+          },
+          "coords": [
+            10.510634,
+            46.259814
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, dem spirituellen Herzen des Dorfes, und prüfen Sie das Schild nach den Zeiten der örtlichen Chorkonzerte.",
+            "hu": "Csodálja meg a központi templom freskóit, mely a falu spirituális szíve, és nézze meg a hirdetőtáblán a helyi kóruskoncertek időpontjait is.",
+            "ro": "Admirați frescele frumoase ale acestei biserici centrale, inima spirituală a satului, și verificați avizierul pentru orele concertelor corale locale.",
+            "en": "Admire the beautiful frescoes of this central church, which holds the spiritual heart of the village, and check the notice board for local choir concert times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Martino Vescovo",
+            "hu": "Chiesa di San Martino Vescovo",
+            "ro": "Chiesa di San Martino Vescovo",
+            "en": "Chiesa di San Martino Vescovo"
+          },
+          "coords": [
+            10.488861,
+            46.257305
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige religiöse Stätte ein, um den traditionellen Holzaltar zu bewundern, und sprechen Sie leise, da dies ein bevorzugter Ort für Gebete ist.",
+            "hu": "Lépjen be ebbe a nyugodt vallási helyszínbe, hogy értékelje a hagyományos faoltárt, és beszéljen halkan, mivel ez a csendes helyi imádkozás kedvelt helye marad.",
+            "ro": "Intrați în acest lăcaș religios liniștit pentru a admira altarul său tradițional din lemn și păstrați liniștea, fiind un loc preferat pentru rugăciune continuă.",
+            "en": "Step inside this serene religious site to appreciate its traditional wooden altar, and keep your voice low as it is a favored spot for quiet, continuous local prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Poia",
+            "hu": "Castello di Poia",
+            "ro": "Castello di Poia",
+            "en": "Castello di Poia"
+          },
+          "coords": [
+            10.503094,
+            46.255324
+          ],
+          "category": "castle",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten mittelalterlichen Burg, um die alpine Geschichte zu entdecken, und tragen Sie feste Wanderschuhe für die steinigen Pfade.",
+            "hu": "Fedezze fel a középkori vár romjait, hogy megismerje az alpesi történelmet, és viseljen kényelmes túracipőt, mivel a környező ösvények meglehetősen sziklásak.",
+            "ro": "Explorați ruinele acestui castel medieval vechi pentru a descoperi istoria alpină și purtați încălțăminte solidă, deoarece cărările din jur pot fi pietroase.",
+            "en": "Explore the ruins of this ancient medieval castle to uncover centuries of Alpine history, and wear sturdy walking shoes as the surrounding paths can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Comunale",
+            "hu": "Piscina Comunale",
+            "ro": "Piscina Comunale",
+            "en": "Piscina Comunale"
+          },
+          "coords": [
+            10.516987,
+            46.25503
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem gut ausgestatteten örtlichen Schwimmbad nach dem Spaziergang, aber bringen Sie ein eigenes Handtuch mit, da Leihgeräte oft knapp sind.",
+            "hu": "Pihenjen meg ebben a jól felszerelt helyi uszodakomplexumban a séta után, de ne felejtsen el saját törölközőt hozni, mivel a kölcsönzési lehetőségek korlátozottak.",
+            "ro": "Relaxați-vă în acest complex de piscine locale, perfect după o plimbare, dar nu uitați să vă aduceți propriul prosop, deoarece închirierile depind de disponibilitate.",
+            "en": "Relax at this well-equipped local pool complex perfect for unwinding after a walk, but remember to bring your own towel as rentals are often subject to availability."
+          }
+        },
+        {
+          "name": {
+            "de": "Corno d'Aola",
+            "hu": "Corno d'Aola",
+            "ro": "Corno d'Aola",
+            "en": "Corno d'Aola"
+          },
+          "coords": [
+            10.51981,
+            46.241331
+          ],
+          "category": "fortress",
+          "arrive_at": "13:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.54,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser Festung hinauf, um atemberaubende Bergpanoramen zu erleben, und packen Sie eine leichte Jacke ein, da die Höhenwinde sehr frisch sein können.",
+            "hu": "Másszon fel ehhez a stratégiai katonai erődhöz a lélegzetelállító hegyi panorámáért, és hozzon magával könnyű kabátot, mert a magaslati szél meglehetősen hűvös lehet.",
+            "ro": "Urcați la această fortăreață militară pentru a vedea panorame montane uluitoare și luați o jachetă ușoară, deoarece vânturile de la mare altitudine pot fi reci.",
+            "en": "Ascend to this strategic military fortress to witness breathtaking panoramic mountain views, and pack a light jacket because the high-altitude winds can be very chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer an der zentralen Kirche und radeln Sie westwärts nach San Martino Vescovo. Die Mittagssonne führt Sie zu den Burgruinen von Poia und einer entspannenden Poolpause. Am Nachmittag fordern Sie die südliche Steigung zur historischen Festung Corno d'Aola heraus. Der Abend bricht herein, während Sie atemberaubende Bergpanoramen genießen.",
+        "hu": "Kezdje a kerékpáros kalandot a központi templomnál, majd tekerjen nyugat felé a festői San Martino Vescovo felé. A déli nap a Castello di Poia romjaihoz és egy pihentető medencés szünethez vezet. Délután meghódítja a déli emelkedőt a történelmi Corno d'Aola erőd felé. Az este beálltával pedig lenyűgöző hegyi panorámákat csodálhat meg ebből a magaslati pontból.",
+        "ro": "Începeți aventura dvs. pe bicicletă la biserica centrală, apoi pedalați spre vest spre San Martino Vescovo. Soarele de amiază vă conduce la ruinele castelului Poia și o pauză la piscină. După-amiaza, provocați panta sudică spre fortăreața istorică Corno d'Aola. Seara coboară în timp ce absorbiți panoramele montane spectaculoase din acest punct de observație înalt.",
+        "en": "Start your cycling adventure at the central church before pedaling westward towards the scenic San Martino Vescovo. The midday sun guides you to the striking ruins of Castello di Poia and a relaxing pool break. In the afternoon, you challenge the southern incline towards the historic Corno d'Aola fortress. Evening descends as you absorb the spectacular mountain panoramas from your elevated vantage point."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 9.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Santissima Trinità",
+            "hu": "Chiesa della Santissima Trinità",
+            "ro": "Chiesa della Santissima Trinità",
+            "en": "Chiesa della Santissima Trinità"
+          },
+          "coords": [
+            10.510634,
+            46.259814
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, dem spirituellen Herzen des Dorfes, und prüfen Sie das Schild nach den Zeiten der örtlichen Chorkonzerte.",
+            "hu": "Csodálja meg a központi templom freskóit, mely a falu spirituális szíve, és nézze meg a hirdetőtáblán a helyi kóruskoncertek időpontjait is.",
+            "ro": "Admirați frescele frumoase ale acestei biserici centrale, inima spirituală a satului, și verificați avizierul pentru orele concertelor corale locale.",
+            "en": "Admire the beautiful frescoes of this central church, which holds the spiritual heart of the village, and check the notice board for local choir concert times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria",
+            "hu": "Chiesa di Santa Maria",
+            "ro": "Chiesa di Santa Maria",
+            "en": "Chiesa di Santa Maria"
+          },
+          "coords": [
+            10.482411,
+            46.251579
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die strukturellen Details dieser malerischen Pfarrkirche außerhalb des Zentrums und achten Sie auf die verblassten äußeren Fresken vor dem Eintreten.",
+            "hu": "Csodálja meg a főtéren kívül eső hangulatos plébániatemplom bonyolult részleteit, és keresse meg a megfakult külső freskókat, mielőtt egyáltalán belépne az épületbe.",
+            "ro": "Minunați-vă de detaliile structurale ale acestei biserici parohiale pitorești din afara centrului și căutați frescele exterioare estompate înainte de a intra.",
+            "en": "Marvel at the intricate structural details of this quaint parish church just outside the main hub, and look for the faded external frescoes before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Martino Vescovo",
+            "hu": "Chiesa di San Martino Vescovo",
+            "ro": "Chiesa di San Martino Vescovo",
+            "en": "Chiesa di San Martino Vescovo"
+          },
+          "coords": [
+            10.488861,
+            46.257305
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige religiöse Stätte ein, um den traditionellen Holzaltar zu bewundern, und sprechen Sie leise, da dies ein bevorzugter Ort für Gebete ist.",
+            "hu": "Lépjen be ebbe a nyugodt vallási helyszínbe, hogy értékelje a hagyományos faoltárt, és beszéljen halkan, mivel ez a csendes helyi imádkozás kedvelt helye marad.",
+            "ro": "Intrați în acest lăcaș religios liniștit pentru a admira altarul său tradițional din lemn și păstrați liniștea, fiind un loc preferat pentru rugăciune continuă.",
+            "en": "Step inside this serene religious site to appreciate its traditional wooden altar, and keep your voice low as it is a favored spot for quiet, continuous local prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Poia",
+            "hu": "Castello di Poia",
+            "ro": "Castello di Poia",
+            "en": "Castello di Poia"
+          },
+          "coords": [
+            10.503094,
+            46.255324
+          ],
+          "category": "castle",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten mittelalterlichen Burg, um die alpine Geschichte zu entdecken, und tragen Sie feste Wanderschuhe für die steinigen Pfade.",
+            "hu": "Fedezze fel a középkori vár romjait, hogy megismerje az alpesi történelmet, és viseljen kényelmes túracipőt, mivel a környező ösvények meglehetősen sziklásak.",
+            "ro": "Explorați ruinele acestui castel medieval vechi pentru a descoperi istoria alpină și purtați încălțăminte solidă, deoarece cărările din jur pot fi pietroase.",
+            "en": "Explore the ruins of this ancient medieval castle to uncover centuries of Alpine history, and wear sturdy walking shoes as the surrounding paths can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Corno d'Aola",
+            "hu": "Corno d'Aola",
+            "ro": "Corno d'Aola",
+            "en": "Corno d'Aola"
+          },
+          "coords": [
+            10.51981,
+            46.241331
+          ],
+          "category": "fortress",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.02,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser Festung hinauf, um atemberaubende Bergpanoramen zu erleben, und packen Sie eine leichte Jacke ein, da die Höhenwinde sehr frisch sein können.",
+            "hu": "Másszon fel ehhez a stratégiai katonai erődhöz a lélegzetelállító hegyi panorámáért, és hozzon magával könnyű kabátot, mert a magaslati szél meglehetősen hűvös lehet.",
+            "ro": "Urcați la această fortăreață militară pentru a vedea panorame montane uluitoare și luați o jachetă ușoară, deoarece vânturile de la mare altitudine pot fi reci.",
+            "en": "Ascend to this strategic military fortress to witness breathtaking panoramic mountain views, and pack a light jacket because the high-altitude winds can be very chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Fabiano e Sabastiano",
+            "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+            "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+            "en": "Chiesa dei Santi Fabiano e Sabastiano"
+          },
+          "coords": [
+            10.517145,
+            46.273486
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.58,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses kleine, wunderschön erhaltene Heiligtum inmitten der Bergpfade und bringen Sie Wasser mit, da es in der Nähe keine Einkehrmöglichkeiten gibt.",
+            "hu": "Fedezze fel ezt a hegyi ösvények között megbúvó, gyönyörűen megőrzött kis szentélyt, és vigyen magával vizet, mivel a közelben nincsenek közvetlen szolgáltatások.",
+            "ro": "Descoperiți acest mic sanctuar bine conservat situat printre traseele montane și luați o sticlă cu apă, deoarece nu există facilități imediate în apropiere.",
+            "en": "Discover this small, beautifully preserved sanctuary nestled among the mountain trails, and carry a water bottle since there are no immediate facilities nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der zentralen Santissima Trinità, bevor Sie reibungslos zur charmanten Santa Maria fahren. Um die Mittagszeit entdecken Sie San Martino Vescovo und die rauen Ruinen des Castello di Poia. Die Nachmittagsfahrt führt nach Süden zur beeindruckenden Hochgebirgsfestung Corno d'Aola. Beenden Sie Ihre Tour mit einer Fahrt nach Norden zum ruhigen Heiligtum.",
+        "hu": "Autós túrája a központi Santissima Trinità templománál kezdődik, mielőtt a hangulatos Santa Maria felé venné az irányt. Dél körül a San Martino Vescovo és a Castello di Poia várromjait fedezheti fel. A délutáni út dél felé tart, hogy meghódítsa a lenyűgöző Corno d'Aola magaslati erődöt. Zárja a vezetést északon, a Santi Fabiano e Sabastiano nyugodt szentélyénél.",
+        "ro": "Călătoria începe la Santissima Trinità centrală înainte de a merge lin spre fermecătoarea Santa Maria. În jurul prânzului, veți descoperi atât San Martino Vescovo, cât și ruinele aspre de la Castello di Poia. Traseul de după-amiază urcă spre sud pentru a explora fortăreața Corno d'Aola. Încheiați-vă turul cu mașina conducând spre nord spre sanctuarul liniștit de pe munte.",
+        "en": "Your drive begins with the central Santissima Trinità before smoothly heading out to the charming Santa Maria. Around midday, you will discover both San Martino Vescovo and the rugged Castello di Poia ruins. The afternoon drive climbs southwards to explore the impressive Corno d'Aola high-altitude fortress. Conclude your motoring tour by driving north to the tranquil sanctuary of Santi Fabiano e Sabastiano."
+      }
+    }
+  }
+}

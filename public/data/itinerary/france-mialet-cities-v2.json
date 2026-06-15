@@ -1,0 +1,474 @@
+{
+  "city_id": "france-mialet-cities-v2",
+  "anchor": {
+    "name": "Mialet",
+    "coords": [
+      3.94231,
+      44.1111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            3.942823,
+            44.111
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
+            "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
+            "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+          }
+        },
+        {
+          "name": {
+            "de": "La Calquière",
+            "hu": "La Calquière",
+            "ro": "La Calquière",
+            "en": "La Calquière"
+          },
+          "coords": [
+            3.942904,
+            44.109749
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Ufern von La Calquière, um den natürlichen Charme der Region zu erleben, und tragen Sie bequeme Schuhe für einen schönen Spaziergang.",
+            "hu": "Pihenjen a La Calquière nyugodt folyópartján, amely tökéletes a régió természeti varázsának megismeréséhez, és hozzon kényelmes cipőt a kellemes vízparti sétához.",
+            "ro": "Relaxați-vă pe malurile liniștite de la La Calquière, perfecte pentru a descoperi farmecul natural al regiunii, și aduceți încălțăminte comodă pentru o plimbare.",
+            "en": "Relax by the tranquil riverbanks at La Calquière, perfect for understanding the region's natural charm, and bring comfortable shoes for a pleasant waterside stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Corbières",
+            "hu": "Corbières",
+            "ro": "Corbières",
+            "en": "Corbières"
+          },
+          "coords": [
+            3.939326,
+            44.110796
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die üppigen Grünflächen von Corbières, die sich perfekt für ein mittägliches Picknick eignen, also packen Sie lokale Snacks für die schöne Natur ein.",
+            "hu": "Élvezze a Corbières buja zöld területeit, amely tökéletes egy déli piknikhez, ezért csomagoljon helyi finomságokat, hogy a gyönyörű természet lágy ölén fogyassza el.",
+            "ro": "Bucurați-vă de spațiile verzi luxuriante din Corbières, locul perfect pentru un picnic la prânz, așa că luați cu voi gustări locale pentru a le savura în natură.",
+            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature."
+          }
+        },
+        {
+          "name": {
+            "de": "La Muse",
+            "hu": "La Muse",
+            "ro": "La Muse",
+            "en": "La Muse"
+          },
+          "coords": [
+            3.938512,
+            44.112856
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Freizeitatmosphäre in La Muse, einem hervorragenden Ort, um das lokale Leben zu beobachten, und nehmen Sie auf einer Bank Platz zum Entspannen.",
+            "hu": "Szívja magába a La Muse pezsgő, rekreációs atmoszféráját, ahol kiválóan megfigyelhető a helyi élet, és foglaljon helyet az egyik padon egy kis pihenésre.",
+            "ro": "Simțiți atmosfera vibrantă de recreere de la La Muse, un loc excelent pentru a observa viața locală, și ocupați un loc pe o bancă pentru a vă relaxa pur și simplu.",
+            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort",
+            "hu": "Fort",
+            "ro": "Fort",
+            "en": "Fort"
+          },
+          "coords": [
+            3.939569,
+            44.115196
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Festung, um die militärische Vergangenheit der Cevennen zu begreifen, und vergessen Sie Ihre Kamera für den Panoramablick nicht.",
+            "hu": "Fedezze fel e hegytetőn álló erődítmény romjait, hogy megértse a Cévennek katonai múltját, és ne felejtse el magával hozni fényképezőgépét a panorámás kilátásért.",
+            "ro": "Explorați ruinele acestui fort pentru a înțelege trecutul militar strategic al regiunii Cevennes și nu uitați aparatul foto pentru priveliștile panoramice superbe.",
+            "en": "Explore the remains of this hilltop fort to grasp the strategic military past of the Cevennes, and don't forget your camera for the panoramic valley views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Tempels im Dorfzentrum. Mittags schlendern Sie auf malerischen Pfaden nach La Calquière und Corbières und genießen die Natur. Der Nachmittag lädt Sie ein, in La Muse zu entspannen und das ruhige lokale Leben zu beobachten. Beenden Sie Ihren Tag mit einer Wanderung zum Fort und genießen Sie die herrliche Aussicht am Abend.",
+        "hu": "Kezdje a reggelt a falu központjában található történelmi templom felfedezésével. Délben sétáljon végig a festői ösvényeken a La Calquière és a Corbières felé, élvezve a természet szépségét. A délután arra invitálja, hogy pihenjen a La Muse-ban, és figyelje a helyi élet nyugodt folyását. Zárja a napot az erőd felé tett túrával, és élvezze a csodálatos esti kilátást naplementekor.",
+        "ro": "Începeți dimineața explorând Templul istoric din centrul satului. La prânz, plimbați-vă pe cărările pitorești către La Calquière și Corbières, bucurându-vă de frumusețea naturală. După-amiaza vă invită să vă relaxați la La Muse, observând ritmul blând al vieții locale. Încheiați ziua urcând la Fort, bucurându-vă de priveliștile magnifice de seară pe măsură ce soarele apune.",
+        "en": "Start your morning exploring the historic Temple in the village center, setting a contemplative tone. By midday, wander along the scenic paths to La Calquière and Corbières, soaking in the natural beauty. The afternoon invites you to relax at La Muse, observing the gentle flow of local life. Conclude your day hiking up to the Fort, enjoying magnificent evening views as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            3.942823,
+            44.111
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
+            "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
+            "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte de Trabuc",
+            "hu": "Grotte de Trabuc",
+            "ro": "Grotte de Trabuc",
+            "en": "Grotte de Trabuc"
+          },
+          "coords": [
+            3.959255,
+            44.107964
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in die spektakuläre Grotte de Trabuc hinab, um die legendäre Formation der hunderttausend Soldaten zu sehen, und bringen Sie eine warme Jacke mit.",
+            "hu": "Ereszkedjen le a látványos Trabuc-barlangba, hogy megnézze a százezer katona legendás sziklaalakzatát, és hozzon magával meleg kabátot, mivel a barlang hűvös.",
+            "ro": "Coborâți în spectaculoasa Grotte de Trabuc pentru a vedea formațiunea legendară a celor o sută de mii de soldați și aduceți o jachetă caldă, deoarece peștera este rece.",
+            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Camplonne",
+            "hu": "Dolmen de Camplonne",
+            "ro": "Dolmen de Camplonne",
+            "en": "Dolmen de Camplonne"
+          },
+          "coords": [
+            3.964284,
+            44.110373
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgene Geschichte des Dolmens von Camplonne inmitten ruhiger Wälder, ein Zeugnis antiker Baumeister, und tragen Sie feste Schuhe für den Weg.",
+            "hu": "Fedezze fel a békés erdők közepén található Camplonne-i dolmen rejtett történetét, az ősi építők bizonyítékát, és viseljen masszív cipőt a kissé egyenetlen ösvény miatt.",
+            "ro": "Descoperiți istoria ascunsă a Dolmenului din Camplonne situat în păduri liniștite, o dovadă a constructorilor antici, și purtați încălțăminte robustă pentru potecă.",
+            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Désert",
+            "hu": "Musée du Désert",
+            "ro": "Musée du Désert",
+            "en": "Musée du Désert"
+          },
+          "coords": [
+            3.957169,
+            44.095657
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die ergreifende Geschichte der Hugenotten ein, wichtig für den regionalen Kontext, und nehmen Sie einen Audioguide für die Ausstellungen.",
+            "hu": "Merüljön el a hugenották megható történetében ebben a kiterjedt múzeumban, amely elengedhetetlen a régió megértéséhez, és kérjen audioguide-ot a kiállításokhoz.",
+            "ro": "Pătrundeți în istoria emoționantă a hughenoților la acest muzeu vast, esențial pentru contextul regional, și luați un ghid audio pentru a aprecia pe deplin expozițiile.",
+            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Mas Soubeyran",
+            "hu": "Dolmen de Mas Soubeyran",
+            "ro": "Dolmen de Mas Soubeyran",
+            "en": "Dolmen de Mas Soubeyran"
+          },
+          "coords": [
+            3.955543,
+            44.094819
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses uralte Megalithbauwerk, das die prähistorischen Wurzeln der Gegend offenbart, und nähern Sie sich leise, um die mystische Aura zu spüren.",
+            "hu": "Vizsgálja meg ezt az ősi megalitikus építményt, amely feltárja a terület őskori gyökereit, és közelítse meg csendben, hogy igazán érezze az ősi kövek misztikus auráját.",
+            "ro": "Investigați această structură megalitică veche ce dezvăluie originile preistorice ale zonei și apropiați-vă în liniște pentru a simți cu adevărat aura sa mistică.",
+            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Corbières",
+            "hu": "Corbières",
+            "ro": "Corbières",
+            "en": "Corbières"
+          },
+          "coords": [
+            3.939326,
+            44.110796
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die üppigen Grünflächen von Corbières, die sich perfekt für ein mittägliches Picknick eignen, also packen Sie lokale Snacks für die schöne Natur ein.",
+            "hu": "Élvezze a Corbières buja zöld területeit, amely tökéletes egy déli piknikhez, ezért csomagoljon helyi finomságokat, hogy a gyönyörű természet lágy ölén fogyassza el.",
+            "ro": "Bucurați-vă de spațiile verzi luxuriante din Corbières, locul perfect pentru un picnic la prânz, așa că luați cu voi gustări locale pentru a le savura în natură.",
+            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Tempel des Dorfes, bevor Sie in Richtung der faszinierenden Grotte de Trabuc radeln. Mittags erreichen Sie den antiken Dolmen de Camplonne und das berühmte Musée du Désert. Den Nachmittag verbringen Sie damit, den prähistorischen Dolmen de Mas Soubeyran zu bewundern. Radeln Sie zurück nach Corbières, um am Wasser zu entspannen, während der Abend naht.",
+        "hu": "Kerékpáros kalandja a falu templománál kezdődik, mielőtt a lenyűgöző Trabuc-barlang felé pedálozna. Délben eléri az ősi Camplonne-i dolment és a híres Musée du Désert-t. A délutáni órákat az őskori Mas Soubeyran-i dolmen megcsodálásával tölti. Végül kerékpározzon vissza a Corbières-hez, hogy megpihenjen a vízparton, ahogy csendesen közeledik a békés és kellemes este.",
+        "ro": "Aventura pe bicicletă începe la Templul din sat înainte de a pedala spre fascinanta Grotte de Trabuc. Prânzul vă aduce la anticul Dolmen din Camplonne și faimosul Muzeu al Deșertului. Orele după-amiezii sunt petrecute admirând preistoricul Dolmen din Mas Soubeyran. La final, pedalați înapoi la Corbières pentru a vă relaxa lângă apă pe măsură ce seara se apropie cu blândețe.",
+        "en": "Your cycling adventure begins at the village Temple before pedaling towards the fascinating Grotte de Trabuc. Midday brings you to the ancient Dolmen de Camplonne and the renowned Musée du Désert, diving deep into history. Afternoon hours are spent admiring the prehistoric Dolmen de Mas Soubeyran. Finally, cycle back to Corbières to relax by the water as the evening gently approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 13.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            3.942823,
+            44.111
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
+            "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
+            "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Désert",
+            "hu": "Musée du Désert",
+            "ro": "Musée du Désert",
+            "en": "Musée du Désert"
+          },
+          "coords": [
+            3.957169,
+            44.095657
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die ergreifende Geschichte der Hugenotten ein, wichtig für den regionalen Kontext, und nehmen Sie einen Audioguide für die Ausstellungen.",
+            "hu": "Merüljön el a hugenották megható történetében ebben a kiterjedt múzeumban, amely elengedhetetlen a régió megértéséhez, és kérjen audioguide-ot a kiállításokhoz.",
+            "ro": "Pătrundeți în istoria emoționantă a hughenoților la acest muzeu vast, esențial pentru contextul regional, și luați un ghid audio pentru a aprecia pe deplin expozițiile.",
+            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Mas Soubeyran",
+            "hu": "Dolmen de Mas Soubeyran",
+            "ro": "Dolmen de Mas Soubeyran",
+            "en": "Dolmen de Mas Soubeyran"
+          },
+          "coords": [
+            3.955543,
+            44.094819
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses uralte Megalithbauwerk, das die prähistorischen Wurzeln der Gegend offenbart, und nähern Sie sich leise, um die mystische Aura zu spüren.",
+            "hu": "Vizsgálja meg ezt az ősi megalitikus építményt, amely feltárja a terület őskori gyökereit, és közelítse meg csendben, hogy igazán érezze az ősi kövek misztikus auráját.",
+            "ro": "Investigați această structură megalitică veche ce dezvăluie originile preistorice ale zonei și apropiați-vă în liniște pentru a simți cu adevărat aura sa mistică.",
+            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Rouville",
+            "hu": "Dolmen de Rouville",
+            "ro": "Dolmen de Rouville",
+            "en": "Dolmen de Rouville"
+          },
+          "coords": [
+            3.92348,
+            44.096831
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Größe des Dolmens von Rouville, ein faszinierender Einblick in neolithische Bestattungen, und besuchen Sie ihn zur goldenen Stunde.",
+            "hu": "Csodálja meg a Rouville-i dolmen lenyűgöző méretét, amely lenyűgöző bepillantást enged a neolitikus temetkezési szokásokba, és látogassa meg az aranyórában.",
+            "ro": "Admirați dimensiunile impresionante ale Dolmenului din Rouville, o perspectivă fascinantă asupra practicilor funerare neolitice, și vizitați-l la ora de aur pentru poze.",
+            "en": "Marvel at the impressive scale of Dolmen de Rouville, a fascinating glimpse into Neolithic burial practices, and visit during golden hour for stunning photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte de Trabuc",
+            "hu": "Grotte de Trabuc",
+            "ro": "Grotte de Trabuc",
+            "en": "Grotte de Trabuc"
+          },
+          "coords": [
+            3.959255,
+            44.107964
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in die spektakuläre Grotte de Trabuc hinab, um die legendäre Formation der hunderttausend Soldaten zu sehen, und bringen Sie eine warme Jacke mit.",
+            "hu": "Ereszkedjen le a látványos Trabuc-barlangba, hogy megnézze a százezer katona legendás sziklaalakzatát, és hozzon magával meleg kabátot, mivel a barlang hűvös.",
+            "ro": "Coborâți în spectaculoasa Grotte de Trabuc pentru a vedea formațiunea legendară a celor o sută de mii de soldați și aduceți o jachetă caldă, deoarece peștera este rece.",
+            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Camplonne",
+            "hu": "Dolmen de Camplonne",
+            "ro": "Dolmen de Camplonne",
+            "en": "Dolmen de Camplonne"
+          },
+          "coords": [
+            3.964284,
+            44.110373
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgene Geschichte des Dolmens von Camplonne inmitten ruhiger Wälder, ein Zeugnis antiker Baumeister, und tragen Sie feste Schuhe für den Weg.",
+            "hu": "Fedezze fel a békés erdők közepén található Camplonne-i dolmen rejtett történetét, az ősi építők bizonyítékát, és viseljen masszív cipőt a kissé egyenetlen ösvény miatt.",
+            "ro": "Descoperiți istoria ascunsă a Dolmenului din Camplonne situat în păduri liniștite, o dovadă a constructorilor antici, și purtați încălțăminte robustă pentru potecă.",
+            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "La Muse",
+            "hu": "La Muse",
+            "ro": "La Muse",
+            "en": "La Muse"
+          },
+          "coords": [
+            3.938512,
+            44.112856
+          ],
+          "category": "recreational",
+          "arrive_at": "16:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Freizeitatmosphäre in La Muse, einem hervorragenden Ort, um das lokale Leben zu beobachten, und nehmen Sie auf einer Bank Platz zum Entspannen.",
+            "hu": "Szívja magába a La Muse pezsgő, rekreációs atmoszféráját, ahol kiválóan megfigyelhető a helyi élet, és foglaljon helyet az egyik padon egy kis pihenésre.",
+            "ro": "Simțiți atmosfera vibrantă de recreere de la La Muse, un loc excelent pentru a observa viața locală, și ocupați un loc pe o bancă pentru a vă relaxa pur și simplu.",
+            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ikonischen Tempel, um Ihren Tag zu beginnen, gefolgt von einem bereichernden Morgen im Musée du Désert und dem nahegelegenen Dolmen de Mas Soubeyran. Mittags fahren Sie zum Dolmen de Rouville. Am Nachmittag bestaunen Sie die Wunder der Grotte de Trabuc und den Dolmen de Camplonne. Beenden Sie Ihren Tag entspannt in La Muse, während die Dämmerung über das Tal hereinbricht.",
+        "hu": "Vezessen az ikonikus templomhoz, majd töltsön egy gazdagító délelőttöt a Musée du Désert-ben és a közeli Mas Soubeyran-i dolmennél. A dél a lenyűgöző Rouville-i dolmenhez viszi. Délután csodálja meg a Trabuc-barlang földalatti csodáit és a Camplonne-i dolment. Zárja a napot a La Muse-ban pihenve, miközben az alkonyat szép lassan és csendesen leereszkedik a csodálatos völgyre.",
+        "ro": "Conduceți către iconicul Templu, urmat de o dimineață la Muzeul Deșertului și la Dolmenul din Mas Soubeyran. Prânzul vă duce mai departe la impresionantul Dolmen din Rouville. După-amiaza, minunați-vă de Grotte de Trabuc și de izolatul Dolmen din Camplonne. Încheiați ziua relaxându-vă la La Muse pe măsură ce amurgul se lasă liniștit peste valea uimitoare și pașnică din jur.",
+        "en": "Drive to the iconic Temple to start your day, followed by an enriching morning at the Musée du Désert and the nearby Dolmen de Mas Soubeyran. Midday takes you further afield to the impressive Dolmen de Rouville. In the afternoon, marvel at the underground wonders of Grotte de Trabuc and the secluded Dolmen de Camplonne. End your day relaxing at La Muse as twilight settles over the valley."
+      }
+    }
+  }
+}

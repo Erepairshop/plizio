@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-martin-d-uriage",
+  "anchor": {
+    "name": "Saint-Martin-d'Uriage",
+    "coords": [
+      5.8392,
+      45.1522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            5.837064,
+            45.152285
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Eine wunderschöne historische Kirche mit einer sehr friedlichen Atmosphäre, die man am besten früh morgens besucht, wenn das Licht durch die Buntglasfenster fällt.",
+            "hu": "Egy gyönyörű, történelmi jelentőségű templom, amely békés hangulatot áraszt, és leginkább kora reggel érdemes felkeresni a festett üvegablakok játéka miatt.",
+            "ro": "O biserică istorică superbă cu o atmosferă deosebit de pașnică, ideal de vizitat dis-de-dimineață când lumina soarelui pune în valoare vitraliile colorate.",
+            "en": "A beautiful historic church offering a profoundly peaceful atmosphere, best visited early in the morning when the sunlight perfectly hits the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Uriage Casino",
+            "hu": "Uriage Kaszinó",
+            "ro": "Cazino Uriage",
+            "en": "Uriage Casino"
+          },
+          "coords": [
+            5.838323,
+            45.151893
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses elegante Kulturzentrum besticht durch klassische Architektur und Unterhaltung; vergessen Sie nicht Ihren Ausweis, wenn Sie drinnen Ihr Glück versuchen möchten.",
+            "hu": "Ez az elegáns kulturális központ klasszikus építészettel és szórakozási lehetőségekkel várja; ne felejtsen el érvényes igazolványt hozni, ha szerencsét próbálna.",
+            "ro": "Acest centru cultural elegant se remarcă prin arhitectura sa clasică; nu uitați un act de identitate valabil dacă doriți să vă încercați norocul la jocuri.",
+            "en": "This elegant cultural hub features classic architecture and gaming entertainment, so remember to bring a valid ID if you plan to try your luck inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uriage",
+            "hu": "Uriage Kastély",
+            "ro": "Castelul Uriage",
+            "en": "Uriage Castle"
+          },
+          "coords": [
+            5.83253,
+            45.1446
+          ],
+          "category": "fortress",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine robuste mittelalterliche Festung mit weitem Blick über das Tal, für deren unebene Kopfsteinpflasterwege das Tragen von festem Schuhwerk sehr zu empfehlen ist.",
+            "hu": "Robusztus középkori erődítmény, ahonnan pazar kilátás nyílik a völgyre, így az egyenetlen macskaköves utakon mindenképpen ajánlott kényelmes cipőt viselni.",
+            "ro": "O fortăreață medievală impunătoare care oferă priveliști panoramice asupra văii, unde se recomandă încălțăminte comodă pentru a explora curțile pietruite.",
+            "en": "A robust medieval fortress overlooking the valley with sweeping views, where wearing sturdy walking shoes is highly recommended for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hôtel d'Uriage",
+            "hu": "Grand Hôtel d'Uriage",
+            "ro": "Grand Hôtel d'Uriage",
+            "en": "Grand Hôtel d'Uriage"
+          },
+          "coords": [
+            5.82983,
+            45.142693
+          ],
+          "category": "hotel",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein legendäres Luxushotel, das das Erbe des Kurorts verkörpert und der perfekte Ort ist, um in der eleganten Lounge einen schnellen, erstklassigen Kaffee zu genießen.",
+            "hu": "Egy ikonikus luxusszálloda, amely a város fürdővárosi örökségét testesíti meg, és tökéletes helyszín egy elegáns, gyors kávé elfogyasztására a csodás társalgóban.",
+            "ro": "Un hotel de lux iconic ce reflectă moștenirea termală a orașului, fiind locul perfect pentru a savura o cafea rafinată în lounge-ul său elegant și liniștit.",
+            "en": "An iconic luxury establishment embodying the town's spa heritage, making it the perfect spot to pause for a sophisticated coffee break in the elegant lounge."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbäder von Uriage-les-Bains",
+            "hu": "Uriage-les-Bains Termálfürdő",
+            "ro": "Băile Termale Uriage-les-Bains",
+            "en": "Uriage-les-Bains Thermal Baths"
+          },
+          "coords": [
+            5.830265,
+            45.142567
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese berühmten Erholungsbäder nutzen natürlich heilendes Mineralwasser, daher sollten Sie Ihre Wellnessbehandlung in der Hochsaison unbedingt im Voraus buchen.",
+            "hu": "Ezek a híres rekreációs fürdők a természetes gyógyvizet hasznosítják, ezért a főszezonban feltétlenül érdemes jó előre lefoglalni a kívánt wellness kezeléseket.",
+            "ro": "Aceste băi celebre folosesc ape minerale cu proprietăți curative, așa că asigurați-vă că vă rezervați tratamentele spa din timp în timpul sezonului de vârf.",
+            "en": "These famous recreational pools harness naturally restorative mineral waters, so be sure to book your spa treatments well in advance during the busy peak season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen des Dorfes an der charmanten Kirche Saint-Martin und versuchen Sie anschließend Ihr Glück im eleganten Casino von Uriage. Schlendern Sie hinab zum imposanten Schloss Uriage und genießen Sie die mittelalterliche Geschichte. Bewundern Sie die markante Architektur des Grand Hôtel d'Uriage, bevor Sie Ihren Tag entspannt in den berühmten Thermalbädern ausklingen lassen.",
+        "hu": "Kezdje a napot a falu szívében, a bájos Saint-Martin templomnál, majd próbáljon szerencsét az elegáns Uriage Kaszinóban. Sétáljon le a lenyűgöző Uriage Kastélyhoz, és merüljön el a középkori történelemben. Csodálja meg a Grand Hôtel d'Uriage lenyűgöző építészetét, mielőtt a napot egy pihentető fürdőzéssel zárná a híres Uriage-les-Bains termálfürdőben.",
+        "ro": "Începeți în inima satului la fermecătoarea Biserică Saint-Martin, apoi admirați elegantul Cazino Uriage din apropiere. Plimbați-vă spre impunătorul Castel Uriage, absorbind istoria medievală și priveliștile impresionante. Admirați arhitectura Grand Hôtel d'Uriage, înainte de a încheia ziua relaxându-vă complet în faimoasele Băi Termale Uriage-les-Bains.",
+        "en": "Start in the heart of the village at the charming Saint-Martin Church, then try your luck at the elegant Uriage Casino nearby. Stroll down towards the commanding Uriage Castle, absorbing the medieval history and dramatic views. Admire the striking architecture of the Grand Hôtel d'Uriage before concluding your day with ultimate relaxation at the famous Uriage-les-Bains Thermal Baths."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bonafond",
+            "hu": "Bonafond",
+            "ro": "Bonafond",
+            "en": "Bonafond"
+          },
+          "coords": [
+            5.835738,
+            45.16669
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein ruhiges Naturschutzgebiet, das sich perfekt für einen morgendlichen Spaziergang eignet; nehmen Sie eine leichte Jacke mit, da es im Schatten kühl sein kann.",
+            "hu": "Nyugodt természeti menedék, amely ideális egy csendes reggeli sétához; érdemes egy könnyű kabátot hozni, mivel az árnyékos részek hűvösek maradhatnak.",
+            "ro": "Un sanctuar natural liniștit, perfect pentru o plimbare matinală, unde o jachetă subțire este utilă deoarece zonele umbrite pot fi destul de răcoroase.",
+            "en": "A tranquil natural sanctuary perfect for a peaceful morning stroll, where bringing a light jacket is wise as the shaded areas can remain surprisingly cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            5.837064,
+            45.152285
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Eine wunderschöne historische Kirche mit einer sehr friedlichen Atmosphäre, die man am besten früh morgens besucht, wenn das Licht durch die Buntglasfenster fällt.",
+            "hu": "Egy gyönyörű, történelmi jelentőségű templom, amely békés hangulatot áraszt, és leginkább kora reggel érdemes felkeresni a festett üvegablakok játéka miatt.",
+            "ro": "O biserică istorică superbă cu o atmosferă deosebit de pașnică, ideal de vizitat dis-de-dimineață când lumina soarelui pune în valoare vitraliile colorate.",
+            "en": "A beautiful historic church offering a profoundly peaceful atmosphere, best visited early in the morning when the sunlight perfectly hits the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Uriage Casino",
+            "hu": "Uriage Kaszinó",
+            "ro": "Cazino Uriage",
+            "en": "Uriage Casino"
+          },
+          "coords": [
+            5.838323,
+            45.151893
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses elegante Kulturzentrum besticht durch klassische Architektur und Unterhaltung; vergessen Sie nicht Ihren Ausweis, wenn Sie drinnen Ihr Glück versuchen möchten.",
+            "hu": "Ez az elegáns kulturális központ klasszikus építészettel és szórakozási lehetőségekkel várja; ne felejtsen el érvényes igazolványt hozni, ha szerencsét próbálna.",
+            "ro": "Acest centru cultural elegant se remarcă prin arhitectura sa clasică; nu uitați un act de identitate valabil dacă doriți să vă încercați norocul la jocuri.",
+            "en": "This elegant cultural hub features classic architecture and gaming entertainment, so remember to bring a valid ID if you plan to try your luck inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uriage",
+            "hu": "Uriage Kastély",
+            "ro": "Castelul Uriage",
+            "en": "Uriage Castle"
+          },
+          "coords": [
+            5.83253,
+            45.1446
+          ],
+          "category": "fortress",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine robuste mittelalterliche Festung mit weitem Blick über das Tal, für deren unebene Kopfsteinpflasterwege das Tragen von festem Schuhwerk sehr zu empfehlen ist.",
+            "hu": "Robusztus középkori erődítmény, ahonnan pazar kilátás nyílik a völgyre, így az egyenetlen macskaköves utakon mindenképpen ajánlott kényelmes cipőt viselni.",
+            "ro": "O fortăreață medievală impunătoare care oferă priveliști panoramice asupra văii, unde se recomandă încălțăminte comodă pentru a explora curțile pietruite.",
+            "en": "A robust medieval fortress overlooking the valley with sweeping views, where wearing sturdy walking shoes is highly recommended for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hôtel d'Uriage",
+            "hu": "Grand Hôtel d'Uriage",
+            "ro": "Grand Hôtel d'Uriage",
+            "en": "Grand Hôtel d'Uriage"
+          },
+          "coords": [
+            5.82983,
+            45.142693
+          ],
+          "category": "hotel",
+          "arrive_at": "14:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein legendäres Luxushotel, das das Erbe des Kurorts verkörpert und der perfekte Ort ist, um in der eleganten Lounge einen schnellen, erstklassigen Kaffee zu genießen.",
+            "hu": "Egy ikonikus luxusszálloda, amely a város fürdővárosi örökségét testesíti meg, és tökéletes helyszín egy elegáns, gyors kávé elfogyasztására a csodás társalgóban.",
+            "ro": "Un hotel de lux iconic ce reflectă moștenirea termală a orașului, fiind locul perfect pentru a savura o cafea rafinată în lounge-ul său elegant și liniștit.",
+            "en": "An iconic luxury establishment embodying the town's spa heritage, making it the perfect spot to pause for a sophisticated coffee break in the elegant lounge."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbäder von Uriage-les-Bains",
+            "hu": "Uriage-les-Bains Termálfürdő",
+            "ro": "Băile Termale Uriage-les-Bains",
+            "en": "Uriage-les-Bains Thermal Baths"
+          },
+          "coords": [
+            5.830265,
+            45.142567
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese berühmten Erholungsbäder nutzen natürlich heilendes Mineralwasser, daher sollten Sie Ihre Wellnessbehandlung in der Hochsaison unbedingt im Voraus buchen.",
+            "hu": "Ezek a híres rekreációs fürdők a természetes gyógyvizet hasznosítják, ezért a főszezonban feltétlenül érdemes jó előre lefoglalni a kívánt wellness kezeléseket.",
+            "ro": "Aceste băi celebre folosesc ape minerale cu proprietăți curative, așa că asigurați-vă că vă rezervați tratamentele spa din timp în timpul sezonului de vârf.",
+            "en": "These famous recreational pools harness naturally restorative mineral waters, so be sure to book your spa treatments well in advance during the busy peak season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie für einen erfrischenden Start in die Natur rund um Bonafond, bevor Sie zur historischen Kirche Saint-Martin zurückkehren. Fahren Sie zum ikonischen Casino und hinauf zum beeindruckenden Schloss Uriage, um die Bergluft zu genießen. Fahren Sie hinab zum klassischen Grand Hôtel d'Uriage und beenden Sie Ihren aktiven Tag in den renommierten Thermalbädern von Uriage-les-Bains.",
+        "hu": "Tegyen egy frissítő reggeli kerékpártúrát a Bonafond körüli természetben, majd térjen vissza a történelmi Saint-Martin templomhoz. Guruljon el az ikonikus Kaszinóhoz, majd tekerjen fel a lenyűgöző Uriage Kastélyhoz. Ereszkedjen le a klasszikus Grand Hôtel d'Uriage-hez a központban, és zárja aktív napját a jól megérdemelt pihenéssel az Uriage-les-Bains termálfürdőben.",
+        "ro": "Pedalați spre natura luxuriantă din jurul Bonafond pentru un început revigorant, înainte de a vă întoarce la Biserica Saint-Martin. Mergeți spre Cazinoul iconic și urcați la formidabilul Castel Uriage, bucurându-vă de aerul de munte. Coborâți pentru a vedea clasicul Grand Hôtel d'Uriage și încheiați ziua activă relaxându-vă mușchii în apele termale de la Uriage-les-Bains.",
+        "en": "Pedal out to the lush nature surrounding Bonafond for a refreshing start, before rolling back to see the historic Saint-Martin Church. Cruise over to the iconic Uriage Casino and take a scenic ride up to the formidable Uriage Castle. Descend into the center to view the classic Grand Hôtel d'Uriage, and end your active day soothing your muscles at the Uriage-les-Bains Thermal Baths."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thermalbäder von Uriage-les-Bains",
+            "hu": "Uriage-les-Bains Termálfürdő",
+            "ro": "Băile Termale Uriage-les-Bains",
+            "en": "Uriage-les-Bains Thermal Baths"
+          },
+          "coords": [
+            5.830265,
+            45.142567
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese berühmten Erholungsbäder nutzen natürlich heilendes Mineralwasser, daher sollten Sie Ihre Wellnessbehandlung in der Hochsaison unbedingt im Voraus buchen.",
+            "hu": "Ezek a híres rekreációs fürdők a természetes gyógyvizet hasznosítják, ezért a főszezonban feltétlenül érdemes jó előre lefoglalni a kívánt wellness kezeléseket.",
+            "ro": "Aceste băi celebre folosesc ape minerale cu proprietăți curative, așa că asigurați-vă că vă rezervați tratamentele spa din timp în timpul sezonului de vârf.",
+            "en": "These famous recreational pools harness naturally restorative mineral waters, so be sure to book your spa treatments well in advance during the busy peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uriage",
+            "hu": "Uriage Kastély",
+            "ro": "Castelul Uriage",
+            "en": "Uriage Castle"
+          },
+          "coords": [
+            5.83253,
+            45.1446
+          ],
+          "category": "fortress",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine robuste mittelalterliche Festung mit weitem Blick über das Tal, für deren unebene Kopfsteinpflasterwege das Tragen von festem Schuhwerk sehr zu empfehlen ist.",
+            "hu": "Robusztus középkori erődítmény, ahonnan pazar kilátás nyílik a völgyre, így az egyenetlen macskaköves utakon mindenképpen ajánlott kényelmes cipőt viselni.",
+            "ro": "O fortăreață medievală impunătoare care oferă priveliști panoramice asupra văii, unde se recomandă încălțăminte comodă pentru a explora curțile pietruite.",
+            "en": "A robust medieval fortress overlooking the valley with sweeping views, where wearing sturdy walking shoes is highly recommended for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            5.837064,
+            45.152285
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine wunderschöne historische Kirche mit einer sehr friedlichen Atmosphäre, die man am besten früh morgens besucht, wenn das Licht durch die Buntglasfenster fällt.",
+            "hu": "Egy gyönyörű, történelmi jelentőségű templom, amely békés hangulatot áraszt, és leginkább kora reggel érdemes felkeresni a festett üvegablakok játéka miatt.",
+            "ro": "O biserică istorică superbă cu o atmosferă deosebit de pașnică, ideal de vizitat dis-de-dimineață când lumina soarelui pune în valoare vitraliile colorate.",
+            "en": "A beautiful historic church offering a profoundly peaceful atmosphere, best visited early in the morning when the sunlight perfectly hits the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Grenouillère",
+            "hu": "Lac de la Grenouillère",
+            "ro": "Lac de la Grenouillère",
+            "en": "Lac de la Grenouillère"
+          },
+          "coords": [
+            5.874287,
+            45.123852
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein malerischer Alpensee umgeben von sattem Grün und eine tolle Fotokulisse; bleiben Sie bitte auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Festői alpesi tó buja növényzettel, amely csodás hátteret nyújt a fotózáshoz; kérjük, maradjon a kijelölt ösvényeken az érzékeny helyi flóra védelme érdekében.",
+            "ro": "Un lac alpin pitoresc înconjurat de verdeață vibrantă, ideal pentru fotografii; rămâneți pe traseele marcate pentru a proteja flora locală delicată.",
+            "en": "A picturesque alpine lake surrounded by vibrant greenery that offers a lovely backdrop for photos, just be sure to stay on marked trails to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Pourettes",
+            "hu": "Lac des Pourettes",
+            "ro": "Lac des Pourettes",
+            "en": "Lac des Pourettes"
+          },
+          "coords": [
+            5.902924,
+            45.134874
+          ],
+          "category": "natural",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Dieser unberührte Natursee erfordert eine kleine Wanderung; packen Sie ausreichend Trinkwasser und energiereiche Snacks für den landschaftlich reizvollen Weg ein.",
+            "hu": "Ez az érintetlen természetes tó egy kisebb túrával érhető el, így a festői útvonalhoz mindenképpen pakoljon elegendő ivóvizet és energiát adó rágcsálnivalókat.",
+            "ro": "Acest lac natural virgin necesită o mică drumeție pentru a fi atins, așa că luați apă suficientă și gustări energizante pentru traseul plin de peisaje frumoase.",
+            "en": "This pristine natural lake requires a bit of a hike to reach, so pack plenty of drinking water and high-energy snacks for the scenic, rewarding trail journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Bernard",
+            "hu": "Lac Bernard",
+            "ro": "Lac Bernard",
+            "en": "Lac Bernard"
+          },
+          "coords": [
+            5.933653,
+            45.15239
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein wunderbar abgelegener Bergsee, der atemberaubende Bergspiegelungen bietet und am besten an einem klaren, windstillen Nachmittag besucht werden sollte.",
+            "hu": "Csodálatosan eldugott magaslati tó, amely lélegzetelállító hegyi tükröződéseket kínál, ezért leginkább egy tiszta, szélcsendes délutánon érdemes felkeresni.",
+            "ro": "Un lac montan izolat ce oferă reflexii uluitoare ale vârfurilor, fiind recomandat să fie vizitat într-o după-amiază senină și fără vânt pentru o experiență optimă.",
+            "en": "A wonderfully secluded high-altitude lake offering breathtaking mountain reflections, making it highly recommended to visit on a clear, perfectly windless afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem verwöhnenden Morgen in den Thermalbädern von Uriage-les-Bains und fahren Sie dann zum majestätischen Schloss Uriage. Machen Sie einen kurzen Halt an der Kirche Saint-Martin, bevor Sie in die atemberaubende Belledonne-Bergkette fahren. Wandern Sie vom Lac de la Grenouillère zum Lac des Pourettes und erreichen Sie schließlich den friedlichen Lac Bernard im Sonnenuntergang.",
+        "hu": "Kezdje a napot kényeztető pihenéssel az Uriage-les-Bains termálfürdőben, majd vezessen fel a fenséges Uriage Kastélyhoz. Tegyen egy rövid megállót a Saint-Martin templomnál, mielőtt elindulna a lenyűgöző Belledonne-hegységbe. Túrázzon a Lac de la Grenouillère és a Lac des Pourettes körül, végül pedig élvezze a naplementét a békés Lac Bernard partján.",
+        "ro": "Începeți cu o dimineață răsfățată la Băile Termale Uriage-les-Bains, apoi conduceți până la maiestuosul Castel Uriage. Faceți o scurtă oprire la Biserica Saint-Martin înainte de a urca în uimitorii munți Belledonne. Faceți o drumeție de la Lac de la Grenouillère la Lac des Pourettes și ajungeți la pașnicul Lac Bernard odată cu lăsarea serii pentru o retragere perfectă.",
+        "en": "Begin with an indulgent morning at the Uriage-les-Bains Thermal Baths, then drive up to the majestic Uriage Castle. Make a quick stop at the Saint-Martin Church before driving up into the stunning Belledonne mountain range. Hike the scenic trails linking Lac de la Grenouillère to Lac des Pourettes, and reach the peaceful Lac Bernard as the sun begins to set for a serene retreat."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-ile-d-aix-cities-v2",
+  "anchor": {
+    "name": "Île-d'Aix",
+    "coords": [
+      -1.17379,
+      46.01218
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 1.28,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort de la Rade",
+            "hu": "Fort de la Rade",
+            "ro": "Fort de la Rade",
+            "en": "Fort de la Rade"
+          },
+          "coords": [
+            -1.176595,
+            46.008959
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Befestigungsanlagen dieser historischen Stätte, die die Küste schützte, und tragen Sie bequeme Schuhe für die Mauern.",
+            "hu": "Fedezze fel a partvonalat védő történelmi helyszín masszív erődítményeit, és feltétlenül viseljen kényelmes cipőt a falakon való sétához.",
+            "ro": "Explorați fortificațiile robuste ale acestui sit istoric care proteja coasta și purtați neapărat încălțăminte comodă pentru a vă plimba pe ziduri.",
+            "en": "Explore the robust fortifications of this historical site that protected the coastline, and be sure to wear comfortable shoes for walking the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Anse de la Croix",
+            "hu": "Plage de l'Anse de la Croix",
+            "ro": "Plage de l'Anse de la Croix",
+            "en": "Plage de l'Anse de la Croix"
+          },
+          "coords": [
+            -1.17781,
+            46.010932
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannende Pause an diesem Strand mit atemberaubendem Blick auf Fort Boyard, ideal für ein schnelles Bad bei richtiger Flut.",
+            "hu": "Élvezze a pihentető szünetet ezen a bájos strandon, ahonnan lenyűgöző kilátás nyílik a Fort Boyard-ra, ami ideális egy gyors, frissítő csobbanásra.",
+            "ro": "Bucurați-vă de o pauză relaxantă la această plajă cu vedere uimitoare la Fort Boyard, perfectă pentru o baie rapidă dacă mareea este favorabilă.",
+            "en": "Enjoy a relaxing break at this charming crescent beach with stunning views of Fort Boyard, perfect for a quick refreshing dip if the tide is right."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore",
+            "hu": "Sémaphore",
+            "ro": "Sémaphore",
+            "en": "Sémaphore"
+          },
+          "coords": [
+            -1.177033,
+            46.012778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie den hoch aufragenden maritimen Semaphor als nautisches Herz der Insel und machen Sie die besten Fotos vom Weg direkt darunter aus.",
+            "hu": "Csodálja meg a sziget tengerészeti szíveként működő tornyosuló szemaforot, és készítse el a legjobb fotókat a közvetlenül alatta lévő ösvényről.",
+            "ro": "Admirați semaforul maritim impunător, inima navigației pe insulă, și surprindeți cele mai bune fotografii de pe poteca aflată chiar dedesubt.",
+            "en": "Admire the towering maritime semaphore that acts as the island's navigational heart, and capture the best photos from the pathway just below it."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Napoléon",
+            "hu": "Musée Napoléon",
+            "ro": "Musée Napoléon",
+            "en": "Musée Napoléon"
+          },
+          "coords": [
+            -1.174658,
+            46.013015
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Treten Sie in die Geschichte des Hauses ein, in dem Kaiser Napoleon seine letzten Tage in Frankreich verbrachte, und achten Sie auf die Möbel.",
+            "hu": "Lépjen be a történelembe abban a házban, ahol Napóleon császár utolsó franciaországi napjait töltötte, és figyelje meg az aprólékos korabeli bútorokat.",
+            "ro": "Pășiți în istorie chiar în casa în care împăratul Napoleon și-a petrecut ultimele zile în Franța și urmăriți mobilierul de epocă expus.",
+            "en": "Step into history at the very house where Emperor Napoleon spent his final days in France, and look out for the intricate period furniture on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Nacre",
+            "hu": "Musée de la Nacre",
+            "ro": "Musée de la Nacre",
+            "en": "Musée de la Nacre"
+          },
+          "coords": [
+            -1.173587,
+            46.012605
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum das faszinierende lokale Handwerk der Perlmuttverarbeitung und kaufen Sie ein handgeschnitztes Souvenir.",
+            "hu": "Fedezze fel a gyöngyházmegmunkálás lenyűgöző helyi mesterségét ebben az egyedi múzeumban, és fontolja meg egy kézzel faragott ajándék vásárlását.",
+            "ro": "Descoperiți meșteșugul local fascinant al prelucrării sidefului la acest muzeu unic și luați în considerare achiziționarea unui suvenir sculptat manual.",
+            "en": "Discover the fascinating local craft of mother-of-pearl working at this unique museum, and consider purchasing a hand-carved souvenir in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe Sainte-Catherine",
+            "hu": "Pointe Sainte-Catherine",
+            "ro": "Pointe Sainte-Catherine",
+            "en": "Pointe Sainte-Catherine"
+          },
+          "coords": [
+            -1.177015,
+            46.007996
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser südlichsten Spitze mit spektakulären Meerespanoramen, die besonders magisch sind, wenn Sie die goldene Stunde abwarten.",
+            "hu": "Fejezze be sétáját ezen a legdélibb ponton, amely látványos óceáni panorámát kínál, és amely különösen varázslatos az aranyóra fényében.",
+            "ro": "Încheiați plimbarea la acest punct sudic care oferă panorame spectaculoase ale oceanului, deosebit de magic dacă așteptați ora de aur a apusului.",
+            "en": "End your walk at this southernmost tip offering spectacular sweeping ocean panoramas, which is especially magical if you wait for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den imposanten Mauern des Fort de la Rade, wo Sie Küstengeschichte neben spektakulären Gezeiten erwartet. Gegen Mittag führt ein Spaziergang zur Plage de l'Anse de la Croix und zum hoch aufragenden Sémaphore. Der Nachmittag lädt mit dem Musée Napoléon und dem faszinierenden Musée de la Nacre zu einem tiefen Eintauchen in die Kultur ein. Wenn der Abend naht, bietet die südliche Spitze der Pointe Sainte-Catherine einen atemberaubend friedlichen Blick auf den Ozean, um Ihre Tour abzuschließen.",
+        "hu": "A reggel a Fort de la Rade impozáns falaival kezdődik, ahol a part menti történelem a lenyűgöző árapállyal várja. Délben egy séta a Plage de l'Anse de la Croix-hoz és a tornyosuló Sémaphore-hoz vezet, jelezve a sziget jelentőségét. A délután a helyi kultúrában való elmélyülésre hív a Musée Napoléon és az érdekes Musée de la Nacre révén. Ahogy közeledik az este, a Pointe Sainte-Catherine déli csücske lélegzetelállítóan békés óceáni panorámát nyújt a kényelmes séta megkoronázásaként.",
+        "ro": "Dimineața începe cu zidurile impunătoare ale Fort de la Rade, unde istoria coastei vă întâmpină alături de mareele spectaculoase. La prânz, o plimbare vă duce la Plage de l'Anse de la Croix și la Sémaphore, marcând importanța insulei. După-amiaza vă invită la o incursiune în cultura locală la Musée Napoléon și la fascinantul Musée de la Nacre. Odată cu lăsarea serii, extremitatea sudică de la Pointe Sainte-Catherine oferă o priveliște liniștită a oceanului pentru a încheia turul de plimbare.",
+        "en": "Morning begins with the imposing walls of Fort de la Rade, where coastal history greets you alongside spectacular morning tides. By midday, a stroll takes you to Plage de l'Anse de la Croix and the towering Sémaphore, marking the island's navigational significance. The afternoon invites deep dives into local culture at Musée Napoléon and the intriguing Musée de la Nacre. As evening approaches, the southern extremity of Pointe Sainte-Catherine provides a breathtakingly peaceful ocean vista to conclude your leisurely walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 2.99,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort de la Rade",
+            "hu": "Fort de la Rade",
+            "ro": "Fort de la Rade",
+            "en": "Fort de la Rade"
+          },
+          "coords": [
+            -1.176595,
+            46.008959
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit der Erkundung der Tore dieser Festung und achten Sie darauf, nicht im geschützten Innenhof mit dem Fahrrad zu fahren.",
+            "hu": "Kezdje a kerékpáros napot ennek a kolosszális kőerődnek a felfedezésével, ügyelve arra, hogy ne kerékpározzon a védett belső udvar területén.",
+            "ro": "Începeți ziua de ciclism explorând porțile acestei fortărețe colosale din piatră, având grijă să nu mergeți cu bicicleta în curtea interioară protejată.",
+            "en": "Start your cycling day exploring the defensive gates of this colossal stone fortress, taking care not to ride your bike inside the protected inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Napoléon",
+            "hu": "Musée Napoléon",
+            "ro": "Musée Napoléon",
+            "en": "Musée Napoléon"
+          },
+          "coords": [
+            -1.174658,
+            46.013015
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser historischen Residenz mehr über Napoleons letzte Exilvorbereitungen und schließen Sie Ihr Fahrrad sicher am Haupteingang ab.",
+            "hu": "Tudjon meg többet Napóleon végső száműzetési előkészületeiről ebben az autentikus történelmi rezidenciában, és zárja le kerékpárját a bejáratnál.",
+            "ro": "Aflați despre pregătirile finale de exil ale lui Napoleon în această reședință istorică autentică, lăsându-vă bicicleta asigurată lângă intrarea principală.",
+            "en": "Learn about Napoleon's final exile preparations in this authentic historical residence, leaving your bicycle securely locked near the front entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Plage",
+            "hu": "La Grande Plage",
+            "ro": "La Grande Plage",
+            "en": "La Grande Plage"
+          },
+          "coords": [
+            -1.177532,
+            46.017025
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Radeln Sie zum weitläufigen Sandstrand von La Grande Plage für eine angenehme Pause am Meer und bleiben Sie unbedingt auf den ausgewiesenen Radwegen.",
+            "hu": "Kerékpározzon el a La Grande Plage homokos partjára egy kellemes tengerparti szünetre, ügyelve arra, hogy a kijelölt tengerparti utakon maradjon.",
+            "ro": "Pedalați spre plaja cu nisip La Grande Plage pentru o pauză plăcută pe malul mării, asigurându-vă că rămâneți pe pistele de biciclete de pe coastă.",
+            "en": "Cycle down to the expansive sandy stretch of La Grande Plage for a pleasant seaside break, making sure to stick to the designated coastal cycling paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Jamblet",
+            "hu": "Batterie de Jamblet",
+            "ro": "Batterie de Jamblet",
+            "en": "Batterie de Jamblet"
+          },
+          "coords": [
+            -1.175842,
+            46.021412
+          ],
+          "category": "fortress",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die teilweise restaurierten Bunker dieser Küstenbatterie, die faszinierende Einblicke in das Verteidigungsnetzwerks der Insel bietet.",
+            "hu": "Vizsgálja meg ennek a parti ütegnek a részben felújított bunkereit, amely lenyűgöző betekintést nyújt a sziget tizenkilencedik századi védelmébe.",
+            "ro": "Investigați buncărele parțial restaurate ale acestei baterii de coastă, care oferă o perspectivă fascinantă asupra rețelei de apărare a insulei.",
+            "en": "Investigate the partially restored bunkers of this coastal battery, which provides fascinating insights into the island's 19th-century defense network."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Parc",
+            "hu": "Pointe du Parc",
+            "ro": "Pointe du Parc",
+            "en": "Pointe du Parc"
+          },
+          "coords": [
+            -1.174634,
+            46.024248
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erreichen Sie den nördlichen Rand der Insel für einen unverbauten Blick auf den Pertuis d'Antioche und genießen Sie die frische atlantische Meeresbrise.",
+            "hu": "Érje el a sziget északi csücskét, ahonnan zavartalan kilátás nyílik a Pertuis d'Antioche-ra, és szánjon egy percet a friss atlanti tengeri szellőre.",
+            "ro": "Ajungeți la extremitatea nordică a insulei pentru vederi neîntrerupte către Pertuis d'Antioche, luându-vă un moment pentru a simți briza atlantică.",
+            "en": "Reach the northern extremity of the island for uninterrupted views of the Pertuis d'Antioche, taking a moment to feel the fresh Atlantic sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Liédot",
+            "hu": "Fort Liédot",
+            "ro": "Fort Liédot",
+            "en": "Fort Liédot"
+          },
+          "coords": [
+            -1.164586,
+            46.022578
+          ],
+          "category": "fortress",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese sternförmige Festung, die halb im Wald versunken ist, und prüfen Sie den Zeitplan, da oft Führungen im Inneren angeboten werden.",
+            "hu": "Csodálja meg ezt a csillag alakú, félig az erdőbe süllyesztett erődöt, és előzetesen ellenőrizze a menetrendet, mivel gyakran indulnak vezetett túrák.",
+            "ro": "Minunați-vă de această fortăreață în formă de stea construită pe jumătate îngropată în pădure și verificați programul, deoarece deseori se oferă tururi.",
+            "en": "Marvel at this star-shaped fortress built half-buried in the forest, and check the local schedule beforehand as guided tours are often available inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Sables Jaunes ou d'Or",
+            "hu": "Les Sables Jaunes ou d'Or",
+            "ro": "Les Sables Jaunes ou d'Or",
+            "en": "Les Sables Jaunes ou d'Or"
+          },
+          "coords": [
+            -1.159187,
+            46.022265
+          ],
+          "category": "recreational",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand, der inmitten von Küstenkiefern versteckt ist, dem perfekten Ort, um Ihr Radabenteuer zu beenden.",
+            "hu": "Pihenjen ezen az eldugott, tengerparti fenyők között megbúvó sárga homokos strandon, amely tökéletes, csendes hely a kerékpáros kaland befejezéséhez.",
+            "ro": "Relaxați-vă la această plajă izolată cu nisip galben, ascunsă printre pinii de coastă, locul perfect pentru a vă încheia aventura pitorească pe bicicletă.",
+            "en": "Relax at this secluded yellow-sand beach hidden amidst the coastal pines, the perfect quiet spot to conclude your scenic biking adventure on the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Fort de la Rade und nehmen Sie die Architektur in sich auf, bevor Sie zum historischen Musée Napoléon radeln. Mittags fahren Sie zur La Grande Plage, genießen die Meeresbrise und erkunden die Bunker der Batterie de Jamblet. Die Fahrt am Nachmittag führt zur Nordspitze am Pointe du Parc und zum sternförmigen Fort Liédot. Der Abend bricht herein, während Sie an den abgelegenen Les Sables Jaunes ou d'Or entspannen und über einen wunderbaren Tag auf der Insel nachdenken.",
+        "hu": "Kezdje kerékpáros útját a Fort de la Rade-nál, majd tekerjen a Musée Napoléon történelmi intrikái felé. Délben a La Grande Plage-hoz hajthat, élvezve a tengeri szellőt, és felfedezheti a Batterie de Jamblet felújított bunkereit. A délutáni kerékpározás a Pointe du Parc északi csücskébe és a fák között megbúvó, lenyűgöző, csillag alakú Fort Liédot-hoz vezet. Az este beköszöntével az eldugott Les Sables Jaunes ou d'Or homokján pihenhet meg, egy csodálatos nap élményeivel gazdagodva.",
+        "ro": "Începeți-vă călătoria pe bicicletă la Fort de la Rade, absorbind arhitectura înainte de a pedala spre intriga de la Musée Napoléon. La prânz vă îndreptați spre La Grande Plage, bucurându-vă de briză și explorând buncărele de la Batterie de Jamblet. Plimbarea de după-amiază duce spre extremitatea nordică la Pointe du Parc și la impresionantul Fort Liédot ascuns printre copaci. Seara se lasă în timp ce vă relaxați la plaja izolată Les Sables Jaunes ou d'Or, reflectând la o zi minunată.",
+        "en": "Kick off your cycling journey at Fort de la Rade, absorbing the grand architecture before pedaling toward the historical intrigue of Musée Napoléon. Midday finds you cruising to La Grande Plage, enjoying the sea breeze, and exploring the restored bunkers at Batterie de Jamblet. Afternoon riding leads to the northern tip at Pointe du Parc and the impressive star-shaped Fort Liédot hidden amongst the trees. Evening descends as you relax at the secluded Les Sables Jaunes ou d'Or, reflecting on a wonderful day out."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Nacre",
+            "hu": "Musée de la Nacre",
+            "ro": "Musée de la Nacre",
+            "en": "Musée de la Nacre"
+          },
+          "coords": [
+            -1.173587,
+            46.012605
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums, um die zarten Perlmuttartefakte zu bewundern, und nehmen Sie sich Zeit, um etwas über die Werkzeuge zu lernen.",
+            "hu": "Parkoljon le a sziget központjának közelében, hogy megcsodálhassa a finom gyöngyház tárgyakat, és időt szánva a kézművesek összetett eszközeire.",
+            "ro": "Parcați aproape de centrul insulei pentru a admira artefactele delicate din sidef, alocând timp pentru a învăța despre uneltele folosite de meșteri.",
+            "en": "Park near the island's center to admire the delicate mother-of-pearl artifacts, taking time to learn about the intricate tools used by the craftsmen."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage aux Coquillages",
+            "hu": "Plage aux Coquillages",
+            "ro": "Plage aux Coquillages",
+            "en": "Plage aux Coquillages"
+          },
+          "coords": [
+            -1.167851,
+            46.019019
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem ruhigen, muschelübersäten Strand hinauf, wo Sie dem beruhigenden Rauschen der Wellen lauschen können, aber achten Sie auf die Wege.",
+            "hu": "Hajtson el ehhez a békés, kagylókkal borított strandhoz, ahol élvezheti a hullámok nyugtató hangját, figyelemmel kísérve az itteni szűk bekötőutakat.",
+            "ro": "Conduceți spre această plajă liniștită plină de scoici unde vă puteți bucura de sunetul calmant al valurilor, fiind atenți la drumurile înguste de acces.",
+            "en": "Drive up towards this serene, shell-strewn beach where you can enjoy the calming sound of the waves, being mindful of the narrow access roads here."
+          }
+        },
+        {
+          "name": {
+            "de": "Baby Plage",
+            "hu": "Baby Plage",
+            "ro": "Baby Plage",
+            "en": "Baby Plage"
+          },
+          "coords": [
+            -1.160458,
+            46.022774
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt in dieser winzigen Bucht, die ein sehr intimes Badeerlebnis bietet, und bringen Sie Ihr eigenes Wasser mit, da es nichts gibt.",
+            "hu": "Tartson egy rövid pihenőt ebben az apró, festői öbölben, amely nagyon meghitt fürdőzési élményt kínál, de hozzon magával vizet a létesítmények hiánya miatt.",
+            "ro": "Faceți o scurtă oprire în acest golfuleț pitoresc care oferă o experiență de înot intimă, aducându-vă propria apă, deoarece nu există facilități.",
+            "en": "Make a short stop at this tiny, picturesque cove that offers a very intimate swimming experience, bringing your own water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Coudepont",
+            "hu": "Batterie de Coudepont",
+            "ro": "Batterie de Coudepont",
+            "en": "Batterie de Coudepont"
+          },
+          "coords": [
+            -1.15621,
+            46.01936
+          ],
+          "category": "fortress",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie an dieser historischen Militärbatterie die robusten äußeren Verteidigungsanlagen der Ostküste, die einen weiten Blick auf das Festland bieten.",
+            "hu": "Fedezze fel a keleti partvonal masszív külső védelmét ennél a történelmi katonai ütegnél, amely széles kilátást nyújt a francia anyaország felé.",
+            "ro": "Explorați apărarea exterioară a coastei estice la această baterie militară istorică, care se mândrește cu vederi ample spre partea continentală a Franței.",
+            "en": "Explore the robust outer defenses of the eastern shoreline at this historical military battery, which boasts sweeping views towards the French mainland."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Liédot",
+            "hu": "Fort Liédot",
+            "ro": "Fort Liédot",
+            "en": "Fort Liédot"
+          },
+          "coords": [
+            -1.164586,
+            46.022578
+          ],
+          "category": "fortress",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Halten Sie Ihr Fahrzeug in der Nähe des Waldes an, um dieses beeindruckende Steinfort zu besuchen, und prüfen Sie die Informationstafel auf Veranstaltungen.",
+            "hu": "Állítsa meg járművét az erdő közelében, hogy meglátogassa ezt az ötszögletű kőerődöt, és ellenőrizze az információs táblát a különleges eseményekről.",
+            "ro": "Opriți-vă vehiculul lângă pădure pentru a vizita acest fort impresionant din piatră, verificând panoul informativ pentru evenimente speciale din curte.",
+            "en": "Stop your vehicle near the woods to visit this impressive pentagonal stone fort, checking the information board for any special events held in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore",
+            "hu": "Sémaphore",
+            "ro": "Sémaphore",
+            "en": "Sémaphore"
+          },
+          "coords": [
+            -1.177033,
+            46.012778
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt zurück im Hauptdorf in der Nähe des Semaphors und blicken Sie nach oben, um seine wichtige Rolle für die Navigation zu würdigen.",
+            "hu": "Fejezze be az utat a főfaluban, a tornyosuló szemafor közelében, felnézve, hogy értékelje annak létfontosságú szerepét az atlanti partvidék navigációjában.",
+            "ro": "Încheiați-vă plimbarea cu mașina înapoi în satul principal lângă semaforul falnic, privind în sus pentru a-i aprecia rolul vital în navigația atlantică.",
+            "en": "Conclude your drive back in the main village near the towering semaphore, looking up to appreciate its vital role in the navigation of the Atlantic coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt anmutig am Musée de la Nacre und bietet Einblicke in die zarte Handwerkskunst der Insel. Gegen Mittag navigieren Sie über die Küstenwege zur Plage aux Coquillages und Baby Plage, um die unberührten Uferansichten zu genießen. Der Nachmittag ist der Militärgeschichte gewidmet, wenn Sie an der Batterie de Coudepont und dem Fort Liédot Halt machen. Der Abend naht, wenn Sie ins Dorfzentrum zurückkehren und in der Nähe des Semaphors parken, um den herrlichen Sonnenuntergang zu beobachten.",
+        "hu": "Az út a Musée de la Nacre elegáns bemutatóival kezdődik, amely betekintést nyújt a sziget finom kézművességébe. Délben a part menti utakon a Plage aux Coquillages és a Baby Plage felé navigál, megcsodálva az érintetlen partvonalat. A délutánt a hadtörténelemnek szenteli a Batterie de Coudepont és az északi erdőkben megbúvó, félelmetes Fort Liédot meglátogatásával. Az este közeledtével visszatér a falu központjába, a Sémaphore közelében parkolva, hogy megnézze a csodálatos naplementét.",
+        "ro": "Plimbarea dumneavoastră începe grațios la Musée de la Nacre, oferind perspective asupra măiestriei delicate a insulei. Până la prânz, navigați pe cărările de coastă spre Plage aux Coquillages și Baby Plage, admirând priveliștile neatinse. După-amiaza este dedicată istoriei militare, oprindu-vă la Batterie de Coudepont și formidabilul Fort Liédot ascuns în pădurile nordice. Seara se apropie pe măsură ce vă întoarceți în centrul satului, parcând lângă Sémaphore pentru a privi apusul soarelui.",
+        "en": "Your drive starts gracefully at Musée de la Nacre, offering insights into the island's delicate artisanship before the morning crowds arrive. By midday, you navigate the coastal paths to Plage aux Coquillages and Baby Plage, taking in the untouched shoreline vistas. The afternoon is dedicated to military history as you stop by Batterie de Coudepont and the formidable Fort Liédot nestled in the northern woods. Evening approaches as you return to the village center, parking near the Sémaphore to watch the sunset."
+      }
+    }
+  }
+}

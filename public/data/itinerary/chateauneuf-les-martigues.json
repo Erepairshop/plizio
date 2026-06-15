@@ -1,0 +1,474 @@
+{
+  "city_id": "chateauneuf-les-martigues",
+  "anchor": {
+    "name": "Châteauneuf-les-Martigues",
+    "coords": [
+      5.1642,
+      43.3831
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Church of Sainte-Cécile"
+          },
+          "coords": [
+            5.163863,
+            43.382258
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche, um ihre klassische Architektur zu bewundern, und achten Sie auf das schwarze Brett für lokale Chorproben.",
+            "hu": "Látogassa meg ezt a központi templomot a klasszikus építészetéért, és figyelje a hirdetőtáblát a helyi kóruspróbák időpontjaiért.",
+            "ro": "Vizitați această biserică centrală pentru a-i admira arhitectura clasică și verificați avizierul pentru orele de repetiție ale corului local.",
+            "en": "Visit this central church to admire its classic architecture, and remember to check the notice board for local choir practice times."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrum Vetus",
+            "hu": "Castrum Vetus",
+            "ro": "Castrum Vetus",
+            "en": "Castrum Vetus"
+          },
+          "coords": [
+            5.163434,
+            43.380629
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Funde in diesem Museum, um die Wurzeln der Stadt zu verstehen, aber bringen Sie nur eine kleine Tasche mit.",
+            "hu": "Fedezze fel e múzeum gazdag régészeti leleteit a város gyökereinek megértéséhez, de hozzon kis táskát, mert a tárolóhely korlátozott.",
+            "ro": "Explorați descoperirile arheologice bogate din acest muzeu pentru a înțelege rădăcinile orașului, dar aduceți o geantă mică deoarece spațiul e limitat.",
+            "en": "Explore the rich archaeological finds in this museum to understand the town's roots, but keep your bag small as storage space is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte aux Pigeons",
+            "hu": "Fonte aux Pigeons",
+            "ro": "Fonte aux Pigeons",
+            "en": "Fonte aux Pigeons"
+          },
+          "coords": [
+            5.162612,
+            43.378651
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Wasserspiel, das einst der Tierwelt diente, und tragen Sie flache Schuhe, da das Kopfsteinpflaster uneben ist.",
+            "hu": "Csodálja meg ezt a történelmi szökőkutat, amely egykor a helyi vadvilágot szolgálta, és viseljen lapos cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Admirați acest monument de apă istoric care servea cândva fauna locală și purtați încălțăminte plată, deoarece pietrișul din jur poate fi denivelat.",
+            "en": "Marvel at this historic water feature that once served local wildlife, and wear flat shoes since the surrounding cobblestones can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Charette",
+            "hu": "Charette",
+            "ro": "Charette",
+            "en": "Charette"
+          },
+          "coords": [
+            5.150852,
+            43.392915
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen landwirtschaftlichen Karren, der das Landleben widerspiegelt, und kommen Sie vor der Dämmerung für die besten Fotos.",
+            "hu": "Fedezze fel ezt a lenyűgöző mezőgazdasági szekeret, amely a vidéki életet tükrözi, és érkezzen szürkület előtt a legjobb fotófényekért.",
+            "ro": "Descoperiți această fascinantă căruță agricolă istorică, care reflectă viața rurală, și ajungeți înainte de amurg pentru cea mai bună lumină foto.",
+            "en": "Discover this fascinating historical agricultural cart that reflects rural life, and arrive before dusk for the best lighting in your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pressoir",
+            "hu": "Pressoir",
+            "ro": "Pressoir",
+            "en": "Pressoir"
+          },
+          "coords": [
+            5.170085,
+            43.390281
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur rund um diese alte Olivenpresse und denken Sie daran, in den wärmeren Sommermonaten Insektenschutzmittel mitzubringen.",
+            "hu": "Élvezze a csendes természeti hangulatot ezen az ősi olajprés helyszínen, és a melegebb nyári hónapokban érdemes rovarriasztót hozni.",
+            "ro": "Bucurați-vă de atmosfera naturală liniștită din jurul acestei vechi prese de măsline și luați cu voi un repelent de insecte vara.",
+            "en": "Enjoy the tranquil natural vibes around this ancient olive press site, and consider bringing insect repellent during the warmer summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im charmanten Zentrum, wo die Église Sainte-Cécile und das historische Castrum Vetus erste Eindrücke der lokalen Geschichte vermitteln.\n\nMittags schlendern Sie entspannt zum Fonte aux Pigeons, um die historischen Spuren auf sich wirken zu lassen.\n\nDer Nachmittag führt Sie zur alten Charette, wo ein Stück landwirtschaftlicher Geschichte auf Sie wartet.\n\nAm Abend lassen Sie den Tag in der idyllischen Natur beim Pressoir mit einem ruhigen Spaziergang ausklingen.",
+        "hu": "Kezdje a reggelt a bájos központban, ahol a Sainte-Cécile templom és a történelmi Castrum Vetus nyújt első benyomásokat a helyi múltról.\n\nDélben tegyen egy kényelmes sétát a Fonte aux Pigeons-hoz, hogy elmélyedjen a történelmi emlékekben.\n\nDélután az ősi Charette felé veszi az irányt, ahol a mezőgazdasági múlt egy darabkája várja.\n\nEste egy csendes sétával, a Pressoir idillikus természetében zárhatja a napot.",
+        "ro": "Începeți dimineața în centrul fermecător, unde Biserica Sainte-Cécile și istoricul Castrum Vetus vă oferă primele impresii despre trecutul local.\n\nLa prânz, faceți o plimbare relaxantă până la Fonte aux Pigeons pentru a admira vestigiile istorice.\n\nDupă-amiaza vă îndreptați spre vechea Charette, descoperind o fărâmă din istoria agricolă.\n\nSeara se încheie liniștit în natura idilică de la Pressoir, perfectă pentru o plimbare.",
+        "en": "Start your morning in the charming center, where the Church of Sainte-Cécile and the historic Castrum Vetus offer a glimpse into the local past.\n\nAt midday, take a relaxing stroll down to the Fonte aux Pigeons to soak up the historical atmosphere.\n\nIn the afternoon, head towards the old Charette to discover a piece of agricultural history.\n\nYour evening concludes with a peaceful walk in the idyllic natural surroundings of Pressoir."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Church of Sainte-Cécile"
+          },
+          "coords": [
+            5.163863,
+            43.382258
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche, um ihre klassische Architektur zu bewundern, und achten Sie auf das schwarze Brett für lokale Chorproben.",
+            "hu": "Látogassa meg ezt a központi templomot a klasszikus építészetéért, és figyelje a hirdetőtáblát a helyi kóruspróbák időpontjaiért.",
+            "ro": "Vizitați această biserică centrală pentru a-i admira arhitectura clasică și verificați avizierul pentru orele de repetiție ale corului local.",
+            "en": "Visit this central church to admire its classic architecture, and remember to check the notice board for local choir practice times."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrum Vetus",
+            "hu": "Castrum Vetus",
+            "ro": "Castrum Vetus",
+            "en": "Castrum Vetus"
+          },
+          "coords": [
+            5.163434,
+            43.380629
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Funde in diesem Museum, um die Wurzeln der Stadt zu verstehen, aber bringen Sie nur eine kleine Tasche mit.",
+            "hu": "Fedezze fel e múzeum gazdag régészeti leleteit a város gyökereinek megértéséhez, de hozzon kis táskát, mert a tárolóhely korlátozott.",
+            "ro": "Explorați descoperirile arheologice bogate din acest muzeu pentru a înțelege rădăcinile orașului, dar aduceți o geantă mică deoarece spațiul e limitat.",
+            "en": "Explore the rich archaeological finds in this museum to understand the town's roots, but keep your bag small as storage space is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte aux Pigeons",
+            "hu": "Fonte aux Pigeons",
+            "ro": "Fonte aux Pigeons",
+            "en": "Fonte aux Pigeons"
+          },
+          "coords": [
+            5.162612,
+            43.378651
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Wasserspiel, das einst der Tierwelt diente, und tragen Sie flache Schuhe, da das Kopfsteinpflaster uneben ist.",
+            "hu": "Csodálja meg ezt a történelmi szökőkutat, amely egykor a helyi vadvilágot szolgálta, és viseljen lapos cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Admirați acest monument de apă istoric care servea cândva fauna locală și purtați încălțăminte plată, deoarece pietrișul din jur poate fi denivelat.",
+            "en": "Marvel at this historic water feature that once served local wildlife, and wear flat shoes since the surrounding cobblestones can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Charette",
+            "hu": "Charette",
+            "ro": "Charette",
+            "en": "Charette"
+          },
+          "coords": [
+            5.150852,
+            43.392915
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen landwirtschaftlichen Karren, der das Landleben widerspiegelt, und kommen Sie vor der Dämmerung für die besten Fotos.",
+            "hu": "Fedezze fel ezt a lenyűgöző mezőgazdasági szekeret, amely a vidéki életet tükrözi, és érkezzen szürkület előtt a legjobb fotófényekért.",
+            "ro": "Descoperiți această fascinantă căruță agricolă istorică, care reflectă viața rurală, și ajungeți înainte de amurg pentru cea mai bună lumină foto.",
+            "en": "Discover this fascinating historical agricultural cart that reflects rural life, and arrive before dusk for the best lighting in your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pins",
+            "hu": "Pins",
+            "ro": "Pins",
+            "en": "Pins"
+          },
+          "coords": [
+            5.136872,
+            43.394325
+          ],
+          "category": "natural",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen diesen majestätischen Kiefern für eine erfrischende Pause, aber bleiben Sie auf den markierten Wegen, um das Unterholz zu schützen.",
+            "hu": "Sétáljon e fenséges fenyőfák között egy frissítő pihenőért, de maradjon a kijelölt ösvényeken az érzékeny aljnövényzet védelme érdekében.",
+            "ro": "Plimbați-vă printre acești pini maiestuoși pentru o pauză răcoroasă și rămâneți pe potecile marcate pentru a proteja vegetația delicată.",
+            "en": "Walk among these majestic pine trees for a refreshing break from the sun, but stick to the marked paths to protect the delicate undergrowth."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de l'Étang Kapelle",
+            "hu": "Notre-Dame de l'Étang kápolna",
+            "ro": "Capela Notre-Dame de l'Étang",
+            "en": "Notre-Dame de l'Étang Chapel"
+          },
+          "coords": [
+            5.11994,
+            43.395055
+          ],
+          "category": "religious",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten Kapelle hinauf für einen Panoramablick auf den Teich und bringen Sie Wasser mit, da es hier keine Geschäfte gibt.",
+            "hu": "Túrázzon fel ehhez a bájos kápolnához a tóra nyíló panorámáért, és hozzon magával vizet, mivel a közelben nincsenek boltok.",
+            "ro": "Urcați la această capelă fermecătoare pentru priveliști panoramice asupra iazului și aduceți o sticlă de apă, deoarece nu există magazine.",
+            "en": "Hike up to this charming chapel for panoramic views of the adjacent pond, and bring a bottle of water as there are no shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Pressoir",
+            "hu": "Pressoir",
+            "ro": "Pressoir",
+            "en": "Pressoir"
+          },
+          "coords": [
+            5.170085,
+            43.390281
+          ],
+          "category": "natural",
+          "arrive_at": "16:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur rund um diese alte Olivenpresse und denken Sie daran, in den wärmeren Sommermonaten Insektenschutzmittel mitzubringen.",
+            "hu": "Élvezze a csendes természeti hangulatot ezen az ősi olajprés helyszínen, és a melegebb nyári hónapokban érdemes rovarriasztót hozni.",
+            "ro": "Bucurați-vă de atmosfera naturală liniștită din jurul acestei vechi prese de măsline și luați cu voi un repelent de insecte vara.",
+            "en": "Enjoy the tranquil natural vibes around this ancient olive press site, and consider bringing insect repellent during the warmer summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens im Zentrum mit der Kirche Sainte-Cécile und dem Museum Castrum Vetus für eine kulturelle Einführung.\n\nRadeln Sie mittags entspannt zum Fonte aux Pigeons und weiter zur historischen Charette am Rand der Stadt.\n\nAm Nachmittag bringt Sie Ihr Fahrrad zu den schattigen Pins und weiter zur abgelegenen Kapelle Notre-Dame de l'Étang.\n\nDen Abend genießen Sie mit einer malerischen Fahrt zum Pressoir im Grünen.",
+        "hu": "Kezdje a reggelt a központban a Sainte-Cécile templommal és a Castrum Vetus múzeummal egy kulturális bevezetőként.\n\nDélben kerekezzen el a Fonte aux Pigeons-hoz, majd a történelmi Charette-hez a város szélén.\n\nDélután a kerékpárja az árnyékos Pins-hez, majd a távoli Notre-Dame de l'Étang kápolnához viszi.\n\nAz estét egy festői utazással élvezheti a zöldellő Pressoir környékén.",
+        "ro": "Începeți dimineața în centru cu Biserica Sainte-Cécile și muzeul Castrum Vetus pentru o introducere culturală.\n\nLa amiază, pedalați spre Fonte aux Pigeons și istorica Charette de la marginea orașului.\n\nDupă-amiaza, bicicleta vă va duce la umbroșii Pins și la îndepărtata Capelă Notre-Dame de l'Étang.\n\nSavurați seara cu o plimbare pitorească spre oaza verde de la Pressoir.",
+        "en": "Begin your morning in the center with the Church of Sainte-Cécile and the Castrum Vetus museum for a cultural introduction.\n\nAt midday, cycle to the Fonte aux Pigeons and the historic Charette on the outskirts.\n\nIn the afternoon, your bike takes you to the shady Pins and the remote Notre-Dame de l'Étang Chapel.\n\nEnjoy the evening with a scenic ride finishing at the lush Pressoir."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castrum Vetus",
+            "hu": "Castrum Vetus",
+            "ro": "Castrum Vetus",
+            "en": "Castrum Vetus"
+          },
+          "coords": [
+            5.163434,
+            43.380629
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Funde in diesem Museum, um die Wurzeln der Stadt zu verstehen, aber bringen Sie nur eine kleine Tasche mit.",
+            "hu": "Fedezze fel e múzeum gazdag régészeti leleteit a város gyökereinek megértéséhez, de hozzon kis táskát, mert a tárolóhely korlátozott.",
+            "ro": "Explorați descoperirile arheologice bogate din acest muzeu pentru a înțelege rădăcinile orașului, dar aduceți o geantă mică deoarece spațiul e limitat.",
+            "en": "Explore the rich archaeological finds in this museum to understand the town's roots, but keep your bag small as storage space is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Church of Sainte-Cécile"
+          },
+          "coords": [
+            5.163863,
+            43.382258
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche, um ihre klassische Architektur zu bewundern, und achten Sie auf das schwarze Brett für lokale Chorproben.",
+            "hu": "Látogassa meg ezt a központi templomot a klasszikus építészetéért, és figyelje a hirdetőtáblát a helyi kóruspróbák időpontjaiért.",
+            "ro": "Vizitați această biserică centrală pentru a-i admira arhitectura clasică și verificați avizierul pentru orele de repetiție ale corului local.",
+            "en": "Visit this central church to admire its classic architecture, and remember to check the notice board for local choir practice times."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castellas",
+            "hu": "Le Castellas",
+            "ro": "Le Castellas",
+            "en": "Le Castellas"
+          },
+          "coords": [
+            5.187892,
+            43.369633
+          ],
+          "category": "fortress",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser alten Festung für einen atemberaubenden Blick über die Stadt und tragen Sie feste Wanderschuhe für den steilen Weg.",
+            "hu": "Mássza meg ennek a régi erődnek a romjait a lélegzetelállító kilátásért, és viseljen masszív túracipőt a meredek, sziklás ösvény miatt.",
+            "ro": "Urcați ruinele acestei vechi fortărețe pentru o priveliște uluitoare asupra orașului și purtați bocanci de drumeție pentru terenul stâncos.",
+            "en": "Climb the ruins of this old fortress for breathtaking views over the town, and wear sturdy hiking boots to safely navigate the steep rocky trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Palun de Marignane - Aire de l'Aiguette",
+            "hu": "Palun de Marignane - Aire de l'Aiguette",
+            "ro": "Palun de Marignane - Aire de l'Aiguette",
+            "en": "Palun de Marignane - Aire de l'Aiguette"
+          },
+          "coords": [
+            5.180424,
+            43.402329
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ausgedehnte Feuchtgebiet, um Zugvögel zu beobachten, und packen Sie ein Fernglas für das beste Naturerlebnis ein.",
+            "hu": "Látogassa meg ezt a kiterjedt vizenyős területet a vándormadarak megfigyeléséhez, és ne felejtsen el távcsövet csomagolni az élmény érdekében.",
+            "ro": "Vizitați această vastă zonă umedă pentru a observa păsări migratoare și nu uitați să luați un binoclu pentru cea mai bună experiență.",
+            "en": "Visit this extensive wetland area to spot diverse migratory birds, and remember to pack binoculars for the best wildlife viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pressoir",
+            "hu": "Pressoir",
+            "ro": "Pressoir",
+            "en": "Pressoir"
+          },
+          "coords": [
+            5.170085,
+            43.390281
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur rund um diese alte Olivenpresse und denken Sie daran, in den wärmeren Sommermonaten Insektenschutzmittel mitzubringen.",
+            "hu": "Élvezze a csendes természeti hangulatot ezen az ősi olajprés helyszínen, és a melegebb nyári hónapokban érdemes rovarriasztót hozni.",
+            "ro": "Bucurați-vă de atmosfera naturală liniștită din jurul acestei vechi prese de măsline și luați cu voi un repelent de insecte vara.",
+            "en": "Enjoy the tranquil natural vibes around this ancient olive press site, and consider bringing insect repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de l'Étang Kapelle",
+            "hu": "Notre-Dame de l'Étang kápolna",
+            "ro": "Capela Notre-Dame de l'Étang",
+            "en": "Notre-Dame de l'Étang Chapel"
+          },
+          "coords": [
+            5.11994,
+            43.395055
+          ],
+          "category": "religious",
+          "arrive_at": "15:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten Kapelle hinauf für einen Panoramablick auf den Teich und bringen Sie Wasser mit, da es hier keine Geschäfte gibt.",
+            "hu": "Túrázzon fel ehhez a bájos kápolnához a tóra nyíló panorámáért, és hozzon magával vizet, mivel a közelben nincsenek boltok.",
+            "ro": "Urcați la această capelă fermecătoare pentru priveliști panoramice asupra iazului și aduceți o sticlă de apă, deoarece nu există magazine.",
+            "en": "Hike up to this charming chapel for panoramic views of the adjacent pond, and bring a bottle of water as there are no shops nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotrip startet im historischen Kern mit dem Museum Castrum Vetus und der Église Sainte-Cécile.\n\nGegen Mittag fahren Sie weiter zu den beeindruckenden Ruinen von Le Castellas, um die tolle Aussicht zu genießen.\n\nDer Nachmittag ist geprägt von Natur pur am Palun de Marignane und einem kurzen Zwischenstopp am Pressoir.\n\nZum Abend hin steuern Sie die malerische Kapelle Notre-Dame de l'Étang für einen friedlichen Abschluss an.",
+        "hu": "Autós kirándulása a történelmi központban indul a Castrum Vetus múzeummal és a Sainte-Cécile templommal.\n\nDél körül vezessen tovább a Le Castellas lenyűgöző romjaihoz, és élvezze a csodás kilátást.\n\nA délutánt a Palun de Marignane tiszta természete és a Pressoirnál tett rövid pihenő határozza meg.\n\nEste felé vegye az irányt a festői Notre-Dame de l'Étang kápolna felé egy békés befejezésért.",
+        "ro": "Excursia cu mașina începe în nucleul istoric, explorând muzeul Castrum Vetus și Biserica Sainte-Cécile.\n\nSpre prânz, conduceți către ruinele impresionante de la Le Castellas pentru a vă bucura de priveliște.\n\nDupă-amiaza este dominată de natura pură de la Palun de Marignane și o scurtă oprire la Pressoir.\n\nSpre seară, vă îndreptați către pitoreasca Capelă Notre-Dame de l'Étang pentru un final liniștit.",
+        "en": "Your car trip starts in the historic core, exploring the Castrum Vetus museum and the Church of Sainte-Cécile.\n\nAround midday, drive to the impressive ruins of Le Castellas to enjoy the wonderful views.\n\nThe afternoon is defined by the pure nature of the Palun de Marignane and a short stop at Pressoir.\n\nAs evening approaches, head to the picturesque Notre-Dame de l'Étang Chapel for a peaceful finish."
+      }
+    }
+  }
+}

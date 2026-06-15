@@ -1,0 +1,405 @@
+{
+  "city_id": "lannion",
+  "anchor": {
+    "name": "Lannion",
+    "coords": [
+      -3.4553,
+      48.7325
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Centre",
+            "hu": "Place du Centre",
+            "ro": "Place du Centre",
+            "en": "Place du Centre"
+          },
+          "coords": [
+            -3.458513,
+            48.732062
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen Fachwerkhäuser auf diesem historischen Platz, der das Herz von Lannion bildet, und besuchen Sie donnerstags den lebhaften Markt.",
+            "hu": "Csodálja meg a hagyományos favázas házakat ezen a történelmi téren, amely Lannion szívét alkotja, és látogasson el a csütörtöki nyüzsgő piacra.",
+            "ro": "Admirați casele tradiționale cu structură din lemn din această piață istorică, inima orașului Lannion, și vizitați piața animată organizată de obicei joia.",
+            "en": "Admire the traditional half-timbered houses in this historic square forming the heart of Lannion, and be sure to visit the bustling market on Thursdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-du-Baly",
+            "hu": "Église Saint-Jean-du-Baly",
+            "ro": "Église Saint-Jean-du-Baly",
+            "en": "Église Saint-Jean-du-Baly"
+          },
+          "coords": [
+            -3.46012,
+            48.7326
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Diese beeindruckende Kirche besticht durch ihren massiven Turm und die eleganten gotischen Linien, also nehmen Sie sich Zeit für die Buntglasfenster.",
+            "hu": "Ez a lenyűgöző templom masszív tornyával és elegáns gótikus vonalaival hódít, ezért szánjon időt a gyönyörű ólomüveg ablakok megtekintésére.",
+            "ro": "Această biserică impresionantă captivează prin turnul său masiv și liniile gotice elegante, așa că alocați timp pentru a vedea frumoasele vitralii din interior.",
+            "en": "This impressive church captivates with its massive tower and elegant Gothic lines, so take the time to view the beautiful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de Brélévenez",
+            "hu": "Église de Brélévenez",
+            "ro": "Église de Brélévenez",
+            "en": "Église de Brélévenez"
+          },
+          "coords": [
+            -3.459795,
+            48.732644
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese romanische Kirche, die eine fantastische Krypta birgt, und genießen Sie die spirituelle Ruhe abseits des städtischen Trubels.",
+            "hu": "Fedezze fel ezt a román stílusú templomot, amely egy fantasztikus kriptát rejt, és élvezze a spirituális nyugalmat távol a város zajától.",
+            "ro": "Descoperiți această biserică romanică ce ascunde o criptă fantastică și bucurați-vă de liniștea spirituală departe de agitația străzilor principale.",
+            "en": "Discover this Romanesque church which hides a fantastic crypt, and enjoy the spiritual tranquility away from the hustle and bustle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalier de Brélévenez",
+            "hu": "Escalier de Brélévenez",
+            "ro": "Escalier de Brélévenez",
+            "en": "Escalier de Brélévenez"
+          },
+          "coords": [
+            -3.459084,
+            48.73544
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die berühmten 142 Steinstufen, die von charmanten alten Häusern gesäumt sind, und genießen Sie zur Belohnung den weiten Panoramablick.",
+            "hu": "Mássza meg a bájos régi házakkal szegélyezett, híres 142 kőlépcsőt, és jutalmul élvezze a városra nyíló széles panorámát megpihenés közben.",
+            "ro": "Urcați cele 142 de trepte celebre de piatră flancate de case vechi fermecătoare și bucurați-vă drept recompensă de panorama largă asupra orașului.",
+            "en": "Climb the famous 142 stone steps flanked by charming old houses, and enjoy the wide panoramic view over the city as your well-earned reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Léguer",
+            "hu": "Le Léguer",
+            "ro": "Le Léguer",
+            "en": "Le Léguer"
+          },
+          "coords": [
+            -3.457741,
+            48.72864
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang entlang dieses malerischen Flusses, der die Stadt durchquert, und beobachten Sie das faszinierende Gezeitenspiel.",
+            "hu": "Tegyünk egy pihentető sétát a várost átszelő festői folyó mentén, és figyeljük meg az árapály lenyűgöző játékát a vízszint folyamatos változásánál.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestui râu pitoresc ce traversează orașul și observați jocul fascinant al mareelor care modifică peisajul.",
+            "en": "Take a relaxing stroll along this picturesque river that crosses the town, and observe the fascinating interplay of the tides altering the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im historischen Zentrum, wo Fachwerkhäuser die charmante Atmosphäre von Lannion prägen. Gegen Mittag erkunden Sie die religiösen Meisterwerke und die imposanten Treppen, die einen atemberaubenden Blick bieten. Der Nachmittag steht im Zeichen eines entspannten Spaziergangs entlang des Flusses Le Léguer. Am Abend können Sie die malerische Kulisse in einem der lokalen Cafés in vollster Ruhe genießen.",
+        "hu": "A nap a történelmi központban indul, ahol favázas házak adják Lannion bájos hangulatát. Délben felfedezheti a vallási remekműveket és az impozáns lépcsőket, amelyek lenyűgöző kilátást nyújtanak. A délután egy pihentető séta jegyében telik a Le Léguer folyó mentén. Este a festői környezetet egy helyi kávézó teraszáról is megcsodálhatja, miközben a város lassan elcsendesedik a folyó partján.",
+        "ro": "Ziua începe în centrul istoric, unde casele cu structură din lemn definesc atmosfera fermecătoare din Lannion. La prânz, explorați capodoperele religioase și scările impunătoare care oferă o priveliște uimitoare de sus. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului Le Léguer. Seara vă puteți bucura de peisajul pitoresc și liniștit la una dintre cafenelele locale de pe mal.",
+        "en": "The day begins in the historic center, where half-timbered houses define the charming atmosphere of Lannion. Around midday, you will explore the religious masterpieces and the imposing staircases offering breathtaking views. The afternoon is dedicated to a relaxing walk along the scenic river Le Léguer. In the evening, enjoy the picturesque and tranquil backdrop from a local riverside cafe as the day winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Centre",
+            "hu": "Place du Centre",
+            "ro": "Place du Centre",
+            "en": "Place du Centre"
+          },
+          "coords": [
+            -3.458513,
+            48.732062
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen Fachwerkhäuser auf diesem historischen Platz, der das Herz von Lannion bildet, und besuchen Sie donnerstags den lebhaften Markt.",
+            "hu": "Csodálja meg a hagyományos favázas házakat ezen a történelmi téren, amely Lannion szívét alkotja, és látogasson el a csütörtöki nyüzsgő piacra.",
+            "ro": "Admirați casele tradiționale cu structură din lemn din această piață istorică, inima orașului Lannion, și vizitați piața animată organizată de obicei joia.",
+            "en": "Admire the traditional half-timbered houses in this historic square forming the heart of Lannion, and be sure to visit the bustling market on Thursdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalier de Brélévenez",
+            "hu": "Escalier de Brélévenez",
+            "ro": "Escalier de Brélévenez",
+            "en": "Escalier de Brélévenez"
+          },
+          "coords": [
+            -3.459084,
+            48.73544
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die berühmten 142 Steinstufen, die von charmanten alten Häusern gesäumt sind, und genießen Sie zur Belohnung den weiten Panoramablick.",
+            "hu": "Mássza meg a bájos régi házakkal szegélyezett, híres 142 kőlépcsőt, és jutalmul élvezze a városra nyíló széles panorámát megpihenés közben.",
+            "ro": "Urcați cele 142 de trepte celebre de piatră flancate de case vechi fermecătoare și bucurați-vă drept recompensă de panorama largă asupra orașului.",
+            "en": "Climb the famous 142 stone steps flanked by charming old houses, and enjoy the wide panoramic view over the city as your well-earned reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Léguer",
+            "hu": "Le Léguer",
+            "ro": "Le Léguer",
+            "en": "Le Léguer"
+          },
+          "coords": [
+            -3.457741,
+            48.72864
+          ],
+          "category": "natural",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang entlang dieses malerischen Flusses, der die Stadt durchquert, und beobachten Sie das faszinierende Gezeitenspiel.",
+            "hu": "Tegyünk egy pihentető sétát a várost átszelő festői folyó mentén, és figyeljük meg az árapály lenyűgöző játékát a vízszint folyamatos változásánál.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestui râu pitoresc ce traversează orașul și observați jocul fascinant al mareelor care modifică peisajul.",
+            "en": "Take a relaxing stroll along this picturesque river that crosses the town, and observe the fascinating interplay of the tides altering the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin d'Orage",
+            "hu": "Bassin d'Orage",
+            "ro": "Bassin d'Orage",
+            "en": "Bassin d'Orage"
+          },
+          "coords": [
+            -3.456514,
+            48.724212
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieses Rückhaltebecken bietet ein überraschend ruhiges Naturerlebnis mitten im städtischen Umfeld, ideal für eine kurze Rast auf einer schattigen Bank.",
+            "hu": "Ez a víztározó meglepően nyugodt természeti élményt kínál a városi környezetben, amely tökéletesen ideális egy rövid pihenőre a kényelmes padokon.",
+            "ro": "Acest bazin de retenție oferă o experiență naturală surprinzător de liniștită în mediul urban, fiind ideal pentru o scurtă pauză relaxantă pe o bancă.",
+            "en": "This stormwater basin offers a surprisingly peaceful natural experience in the urban environment, making it absolutely ideal for a short rest on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux des Fontaines",
+            "hu": "Aire de Jeux des Fontaines",
+            "ro": "Aire de Jeux des Fontaines",
+            "en": "Aire de Jeux des Fontaines"
+          },
+          "coords": [
+            -3.449185,
+            48.726332
+          ],
+          "category": "family",
+          "arrive_at": "13:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gepflegten Spielplatz im Grünen toben, während Sie sich auf den nahegelegenen schattigen Bänken völlig entspannen.",
+            "hu": "Hagyja a gyerekeket játszani ezen a jól karbantartott, zöldellő játszótéren, miközben Ön a közeli árnyékos padokon pihenhet és élvezheti a friss levegőt.",
+            "ro": "Lăsați copiii să se joace în acest loc de joacă bine întreținut și înconjurat de verdeață, în timp ce vă relaxați pe băncile umbrite din apropierea sa.",
+            "en": "Let the children play in this well-maintained, green playground while you simply relax on the nearby shaded benches perfectly equipped for a break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem Place du Centre und nehmen Sie die historische Energie der Altstadt in sich auf. Mittags bringt Sie das Rad schnell zu den markanten Treppen von Brélévenez und den ruhigen Ufern des Léguer. Der Nachmittag führt Sie zu versteckten Naturperlen wie dem Bassin d'Orage und den grünen Parkanlagen. Der Abend lädt schließlich zum Verweilen und Genießen der herrlich frischen bretonischen Luft ein.",
+        "hu": "Kezdje kerékpártúráját a Place du Centre-n, és szívja magába az óváros történelmi energiáját. Délben a kerékpár gyorsan elviszi Brélévenez ikonikus lépcsőihez és a Léguer csendes partjaihoz. A délután rejtett természeti gyöngyszemekhez vezet, mint például a békés Bassin d'Orage és a zöld parkok. Az este kellemes pihenésre és a friss, tiszta breton levegő nyugodt élvezetére csábítja a látogatókat.",
+        "ro": "Începeți turul cu bicicleta în Place du Centre și absorbiți energia istorică a orașului vechi. La prânz, bicicleta vă duce rapid la scările emblematice din Brélévenez și pe malurile liniștite ale râului Léguer. După-amiaza vă conduce către perle naturale ascunse, precum Bassin d'Orage și parcurile frumos amenajate. Seara vă invită să vă relaxați pur și simplu și să vă bucurați de briza aerului breton.",
+        "en": "Start your bike tour at Place du Centre, soaking in the historic energy of the old town. By midday, your bike swiftly takes you to the iconic Brélévenez stairs and the quiet banks of the Léguer. The afternoon leads you to hidden natural gems like the peaceful Bassin d'Orage and lush green parklands. The evening invites you to simply relax and enjoy the crisp and refreshing Breton air without any rush."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-du-Baly",
+            "hu": "Église Saint-Jean-du-Baly",
+            "ro": "Église Saint-Jean-du-Baly",
+            "en": "Église Saint-Jean-du-Baly"
+          },
+          "coords": [
+            -3.46012,
+            48.7326
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese beeindruckende Kirche besticht durch ihren massiven Turm und die eleganten gotischen Linien, also nehmen Sie sich Zeit für die Buntglasfenster.",
+            "hu": "Ez a lenyűgöző templom masszív tornyával és elegáns gótikus vonalaival hódít, ezért szánjon időt a gyönyörű ólomüveg ablakok megtekintésére.",
+            "ro": "Această biserică impresionantă captivează prin turnul său masiv și liniile gotice elegante, așa că alocați timp pentru a vedea frumoasele vitralii din interior.",
+            "en": "This impressive church captivates with its massive tower and elegant Gothic lines, so take the time to view the beautiful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalier de Brélévenez",
+            "hu": "Escalier de Brélévenez",
+            "ro": "Escalier de Brélévenez",
+            "en": "Escalier de Brélévenez"
+          },
+          "coords": [
+            -3.459084,
+            48.73544
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die berühmten 142 Steinstufen, die von charmanten alten Häusern gesäumt sind, und genießen Sie zur Belohnung den weiten Panoramablick.",
+            "hu": "Mássza meg a bájos régi házakkal szegélyezett, híres 142 kőlépcsőt, és jutalmul élvezze a városra nyíló széles panorámát megpihenés közben.",
+            "ro": "Urcați cele 142 de trepte celebre de piatră flancate de case vechi fermecătoare și bucurați-vă drept recompensă de panorama largă asupra orașului.",
+            "en": "Climb the famous 142 stone steps flanked by charming old houses, and enjoy the wide panoramic view over the city as your well-earned reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hugeon",
+            "hu": "Saint-Hugeon",
+            "ro": "Saint-Hugeon",
+            "en": "Saint-Hugeon"
+          },
+          "coords": [
+            -3.448598,
+            48.745948
+          ],
+          "category": "family",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses familienfreundliche grüne Areal im Norden der Stadt, das sich perfekt für ein entspanntes Picknick am frühen Nachmittag eignet.",
+            "hu": "Látogasson el ebbe a családbarát zöldövezetbe a város északi részén, amely tökéletes egy pihentető kora délutáni piknikhez a szabadban.",
+            "ro": "Vizitați această zonă verde ideală pentru familii situată în nordul orașului, fiind perfectă pentru un picnic relaxant la începutul după-amiezii.",
+            "en": "Visit this family-friendly green area in the north of the town, which is perfectly suited for a relaxing early afternoon picnic outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir",
+            "hu": "Lavoir",
+            "ro": "Lavoir",
+            "en": "Lavoir"
+          },
+          "coords": [
+            -3.444054,
+            48.801675
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Waschplatz aus vergangenen Zeiten, der von üppiger Natur umgeben ist und absolut faszinierende Fotomotive bietet.",
+            "hu": "Fedezze fel ezt az elmúlt idők történelmi mosóhelyét, amelyet buja természet vesz körül, és lenyűgöző, csodás fotótémákat kínál a látogatóknak.",
+            "ro": "Descoperiți această spălătorie istorică din vremuri trecute, care este înconjurată de natură luxuriantă și oferă motive fotografice cu adevărat fascinante.",
+            "en": "Discover this historical washhouse from past times, which is completely surrounded by lush nature and offers truly fascinating photographic opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Lenn",
+            "hu": "Le Lenn",
+            "ro": "Le Lenn",
+            "en": "Le Lenn"
+          },
+          "coords": [
+            -3.433014,
+            48.798467
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Küstennähe an diesem wunderschönen Naturort, wo Sie die frische Meeresbrise bei einem Spaziergang tief einatmen können.",
+            "hu": "Élvezze az idilli tengerparti közelséget ezen a gyönyörű természeti helyen, ahol egy hosszú séta során mélyeket lélegezhet a friss tengeri szellőből.",
+            "ro": "Bucurați-vă de proximitatea idilică a coastei în acest loc natural minunat, unde puteți respira adânc briza proaspătă a mării în timpul unei plimbări.",
+            "en": "Enjoy the idyllic coastal proximity at this wonderful natural spot, where you can breathe deeply of the fresh sea breeze during your final relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autoreise startet im Herzen von Lannion, wo Architektur und historische Kirchen sofort begeistern. Am Mittag fahren Sie zu den grünen Ausläufern der Stadt, die perfekt für eine ausgedehnte Rast in der schönen Natur sind. Der Nachmittag bringt Sie deutlich weiter nördlich, wo alte Waschhäuser und die angenehme Küstennähe das landschaftliche Bild dominieren. Der Tag endet völlig entspannt in einer wunderschönen, ländlichen Umgebung fernab vom Trubel.",
+        "hu": "Autós utazása Lannion szívében kezdődik, ahol az építészet és a történelmi templomok azonnal lenyűgözik a látogatót. Délben a város zöldellő peremére hajt, amely tökéletes egy hosszabb természeti pihenőre. A délután jelentősen tovább viszi északra, ahol a régi mosóházak és a partvidék közelsége dominálja a csodás tájat. A nap végül teljes nyugalomban, egy idilli vidéki környezetben ér véget a tenger közelében.",
+        "ro": "Călătoria dumneavoastră cu mașina începe în inima orașului Lannion, unde arhitectura și istoria bisericilor vă fascinează instantaneu. La prânz, conduceți spre marginile verzi ale orașului, perfecte pentru o pauză relaxantă în natură. După-amiaza vă poartă considerabil mai la nord, unde spălătoriile vechi și proximitatea coastei domină cu grație peisajul pitoresc. Ziua se încheie relaxant într-un cadru rural uimitor și extrem de liniștit.",
+        "en": "Your car journey begins in the heart of Lannion, where majestic architecture and historical churches instantly captivate your attention. By midday, you drive to the green outskirts of the city, perfectly suited for a peaceful and long rest in nature. The afternoon takes you further north, where charming old washhouses and close coastal proximity dominate the scenic landscape. The day ends completely relaxed in a beautiful, idyllic rural setting near the sea."
+      }
+    }
+  }
+}

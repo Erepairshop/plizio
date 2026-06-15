@@ -1,0 +1,428 @@
+{
+  "city_id": "united-kingdom-mawgan-porth-cities-v2",
+  "anchor": {
+    "name": "Mawgan Porth",
+    "coords": [
+      -5.03193,
+      50.46487
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mawgan Porth",
+            "hu": "Mawgan Porth",
+            "ro": "Mawgan Porth",
+            "en": "Mawgan Porth"
+          },
+          "coords": [
+            -5.036298,
+            50.468507
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am weitläufigen goldenen Sandstrand dieser wunderschönen Bucht und prüfen Sie unbedingt die Gezeiten, bevor Sie Ihre Küstenwanderung starten.",
+            "hu": "Kezdje a napot e gyönyörű öböl hatalmas aranyhomokos strandján, de indulás előtt mindenképpen ellenőrizze a helyi árapály-előrejelzéseket a biztonságos sétához.",
+            "ro": "Începeți ziua bucurându-vă de nisipul auriu vast al acestui golf frumos, având grijă să verificați orele mareelor înainte de a porni în plimbarea de pe coastă.",
+            "en": "Start your day by enjoying the vast golden sands of this beautiful cove, making sure to check the local tide times before you set out on your coastal walk today."
+          }
+        },
+        {
+          "name": {
+            "de": "Dünen",
+            "hu": "Dűnék",
+            "ro": "Dune",
+            "en": "Dunes"
+          },
+          "coords": [
+            -5.0327,
+            50.467292
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das empfindliche Strandhafer-Ökosystem direkt am Strand, bleiben Sie aber stets auf den markierten Wegen, um die fragile Natur zu schützen.",
+            "hu": "Sétáljon át a strand melletti finom homokdűnék ökoszisztémáján, de a törékeny part menti környezet védelme érdekében szigorúan maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin ecosistemul delicat de dune chiar lângă plajă, având grijă să rămâneți strict pe potecile marcate pentru a proteja acest mediu fragil de coastă.",
+            "en": "Wander through the delicate marram grass ecosystem just off the beach, being careful to stick strictly to marked paths to protect the fragile coastal environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Natürliche Dusche",
+            "hu": "Természetes Zuhany",
+            "ro": "Duș Natural",
+            "en": "Natural Shower"
+          },
+          "coords": [
+            -5.032252,
+            50.469457
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen kleinen, aber reizvollen Küstenwasserfall in den Felsen und tragen Sie robuste, wasserdichte Schuhe, falls Sie den rutschigen Steinen näherkommen.",
+            "hu": "Csodálja meg ezt a sziklák között megbúvó bájos kis tengerparti vízesést, és viseljen strapabíró vízálló túracipőt, ha a csúszós köveken közelebb szeretne menni.",
+            "ro": "Admirați această mică, dar fermecătoare cascadă de coastă ascunsă printre stânci și purtați cizme impermeabile robuste dacă intenționați să vă apropiați foarte mult.",
+            "en": "Marvel at this small but charming coastal waterfall feature tucked away in the rocks, and wear sturdy waterproof boots if you plan to get close on slippery stones."
+          }
+        },
+        {
+          "name": {
+            "de": "High Cove",
+            "hu": "High Cove",
+            "ro": "High Cove",
+            "en": "High Cove"
+          },
+          "coords": [
+            -5.036775,
+            50.475787
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an dieser abgelegenen Felsbucht und bringen Sie ein Fernglas mit, um die vielen nistenden Seevögel an den Klippen zu beobachten.",
+            "hu": "Töltsön el egy csendes pillanatot ezen a félreeső sziklás öblön, és hozzon magával egy jó távcsövet a zord sziklafalak mentén fészkelő tengeri madarak megfigyelésére.",
+            "ro": "Bucurați-vă de un moment de liniște în acest golf stâncos retras, aducând un binoclu bun pentru a observa păsările marine care cuibăresc de-a lungul stâncilor abrupte.",
+            "en": "Take a quiet moment at this secluded rocky inlet away from the crowds, bringing a good pair of binoculars to spot the seabirds nesting along the rugged cliffsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Bedruthan Beach Aussichtspunkt",
+            "hu": "Bedruthan Beach kilátó",
+            "ro": "Punct de belvedere Bedruthan Beach",
+            "en": "Bedruthan Beach viewpoint"
+          },
+          "coords": [
+            -5.033581,
+            50.484669
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt aus spektakuläre Panoramablicke auf die markanten Felsnadeln, halten Sie jedoch stets Abstand zu den abbrechenden Klippenrändern.",
+            "hu": "Élvezze a látványos panorámát a drámai tengeri sziklákra ebből a kilátóból, folyamatosan biztonságos távolságot tartva a természetesen erodálódó meredek sziklaszélektől.",
+            "ro": "Bucurați-vă de priveliști panoramice spectaculoase asupra stâncilor marine din acest punct, păstrând mereu o distanță sigură față de marginile stâncilor care se erodează.",
+            "en": "Enjoy spectacular panoramic vistas over the dramatic sea stacks from this vantage point, keeping a safe distance from the naturally eroding cliff edges at all times."
+          }
+        },
+        {
+          "name": {
+            "de": "Bedruthan Steps",
+            "hu": "Bedruthan Steps",
+            "ro": "Bedruthan Steps",
+            "en": "Bedruthan Steps"
+          },
+          "coords": [
+            -5.034141,
+            50.486193
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Wanderung mit einem Blick auf die legendären Trittsteine des Riesen, beachten Sie jedoch, dass der Zugang zum eigentlichen Strand oft gesperrt ist.",
+            "hu": "Zárja le festői sétáját a legendás óriás lépőköveinek felülről történő megcsodálásával, de vegye figyelembe, hogy a lejutás a strandra biztonsági okokból gyakran tilos.",
+            "ro": "Încheiați plimbarea admirând de sus pietrele legendare ale uriașului, dar rețineți că accesul la plaja propriu-zisă este adesea restricționat din motive de siguranță.",
+            "en": "Conclude your scenic walk by admiring the legendary giant's stepping stones from above, but please note that access to the actual beach is often restricted for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Wanderabenteuer am belebten Strand von Mawgan Porth, wo die Morgensonne den Sand erhellt. Von dort aus führt Sie ein kurzer Spaziergang in die schützenden Dünen, die einen friedlichen Übergang von der weiten Küste zu den empfindlichen Ökosystemen bilden.\n\nFolgen Sie dem rauen Pfad, um die Natural Shower zu entdecken, einen versteckten Wasserfall. Bis zum Mittag erreichen Sie High Cove, einen wunderbar abgelegenen Ort, der sich ideal für eine ruhige Pause und den lauten Klang der krachenden Atlantikwellen eignet.\n\nAm Nachmittag steigt der Weg zu den dramatischen nördlichen Klippen an. Der Aussichtspunkt am Bedruthan Beach bietet atemberaubende Ausblicke auf die Küste und belohnt Ihre Wanderung mit einigen der ikonischsten Panoramen in ganz Cornwall.\n\nBeenden Sie Ihren Tag an den berühmten Bedruthan Steps. Das späte Nachmittagslicht wirft lange Schatten auf die riesigen Felsnadeln im Meer und sorgt für einen magischen Abschluss Ihrer Küstenwanderung, der unvergessliche Erinnerungen hinterlässt.",
+        "hu": "Kezdje gyalogos kalandját a nyüzsgő Mawgan Porth strandon, ahol a reggeli napfény megvilágítja a homokot. Innen egy rövid séta a védelmet nyújtó dűnék közé vezet, békés átmenetet kínálva a hatalmas partvonal és az érzékeny tengerparti ökoszisztémák között.\n\nFolytassa útját a zord ösvényen, hogy felfedezze a Natural Shower-t, egy eldugott sziklás vízesést. Délben eléri a High Cove-ot, egy gyönyörűen elzárt helyet, amely ideális egy csendes pihenőre és a tomboló atlanti hullámok hangjának élvezetére.\n\nDélután az ösvény a drámai északi sziklák felé emelkedik. A Bedruthan Beach kilátó lélegzetelállító, tágas kilátást nyújt a partvidékre, megjutalmazva a túrázást Cornwall legikonikusabb és legszebb panorámáival.\n\nZárja a napot a híres Bedruthan Steps-nél. A késő délutáni fény, amely hosszú árnyékokat vet az óriási tengeri sziklákra, varázslatos befejezést nyújt a tengerparti sétának, felejthetetlen emlékeket hagyva a fenséges cornwalli partvidékről.",
+        "ro": "Începeți aventura de mers pe jos pe plaja plină de viață Mawgan Porth, unde soarele dimineții luminează nisipul. De acolo, o scurtă plimbare vă duce în dunele protectoare, oferind o tranziție pașnică de la țărmul vast la ecosistemele delicate de coastă.\n\nContinuați pe poteca accidentată pentru a descoperi Dușul Natural, o cascadă ascunsă printre stânci. Până la prânz, veți ajunge la High Cove, un loc frumos retras, ideal pentru o odihnă liniștită și pentru a asculta sunetele valurilor Atlanticului.\n\nPe măsură ce după-amiaza se desfășoară, traseul urcă spre stâncile dramatice din nord. Punctul de belvedere Bedruthan Beach oferă priveliști uluitoare ale coastei, recompensând eforturile dumneavoastră cu unele dintre cele mai emblematice panorame din Cornwall.\n\nÎncheiați-vă ziua la faimoasele Bedruthan Steps. Lumina după-amiezii târzii, care aruncă umbre lungi peste stâncile marine uriașe, oferă un final magic plimbării pe coastă, lăsându-vă cu amintiri de neuitat ale țărmului maiestuos.",
+        "en": "Start your walking adventure at the lively Mawgan Porth beach, where the morning sun illuminates the sand. From there, a short stroll takes you into the protective dunes, offering a peaceful transition from the expansive shoreline to delicate coastal ecosystems.\n\nContinue along the rugged path to discover the quirky Natural Shower, a hidden waterfall among the rocks. By midday, you will reach High Cove, a beautifully secluded spot ideal for a quiet rest and taking in the uninterrupted sounds of the crashing Atlantic waves.\n\nAs the afternoon unfolds, the trail climbs toward the dramatic northern cliffs. The Bedruthan Beach viewpoint presents breathtaking, expansive sights of the coastline, rewarding your hiking efforts with some of the most iconic panoramas in all of Cornwall.\n\nConclude your day at the famous Bedruthan Steps. Watching the late afternoon light cast long shadows over the giant sea stacks provides a magical end to your coastal walk, leaving you with unforgettable memories of the majestic Cornish shoreline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tumulus (Stätte von)",
+            "hu": "Tumulus (halomsír helye)",
+            "ro": "Tumul (situl)",
+            "en": "Tumulus (site of)"
+          },
+          "coords": [
+            -5.003369,
+            50.474872
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Geschichte dieser alten Grabstätte im Landesinneren und parken Sie Ihr Fahrrad sicher am nahen Feldeingang, bevor Sie die Gegend erkunden.",
+            "hu": "Fedezze fel ennek az ősi szárazföldi temetkezési helynek a csendes történetét, és a felfedezés előtt mindenképpen biztonságosan parkolja le kerékpárját a mező bejáratánál.",
+            "ro": "Descoperiți istoria liniștită a acestui vechi loc de înmormântare pe traseul dumneavoastră, asigurându-vă că parcați bicicleta în siguranță la intrarea pe câmp.",
+            "en": "Discover the quiet inland history of this ancient burial site on your cycling route, making sure to park your bike securely at the nearby field entrance before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Mawgan Porth",
+            "hu": "Mawgan Porth",
+            "ro": "Mawgan Porth",
+            "en": "Mawgan Porth"
+          },
+          "coords": [
+            -5.036298,
+            50.468507
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie hinunter in die weite Sandbucht für eine erfrischende Pause und nutzen Sie die praktischen öffentlichen Fahrradständer in der Nähe des Haupt-Surfshops.",
+            "hu": "Kerékpározzon le a tágas homokos öbölbe egy frissítő pihenőre, és használja a fő szörfbolt közelében található kényelmes, nyilvános kerékpártárolókat, mielőtt a partra lép.",
+            "ro": "Mergeți cu bicicleta până la golful nisipos pentru o pauză revigorantă, folosind rastelele publice convenabile situate lângă magazinul principal de surf înainte de plajă.",
+            "en": "Cycle down to the expansive sandy bay for a refreshing break on your ride, utilizing the convenient public bike racks located near the main surf shop before heading to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Beacon Cove",
+            "hu": "Beacon Cove",
+            "ro": "Beacon Cove",
+            "en": "Beacon Cove"
+          },
+          "coords": [
+            -5.039642,
+            50.459947
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese steile Felsbucht abseits der Massen, auch wenn Sie Ihr Fahrrad auf dem allerletzten, unebenen Wegstück zum Wasser wahrscheinlich besser schieben sollten.",
+            "hu": "Fedezze fel ezt a meredek sziklás öblöt, amely lenyűgöző elszigeteltséget kínál a tömegtől, bár a legutolsó, egyenetlen ösvényen valószínűleg tolnia kell majd a kerékpárját.",
+            "ro": "Explorați acest golf stâncos abrupt care oferă o izolare spectaculoasă, deși cel mai probabil va trebui să împingeți bicicleta pe ultima porțiune de potecă foarte denivelată.",
+            "en": "Explore this steep rocky inlet that offers stunning coastal isolation from the main crowds, though you will likely need to push your bicycle down the very final, uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Stem",
+            "hu": "Stem",
+            "ro": "Stem",
+            "en": "Stem"
+          },
+          "coords": [
+            -5.041733,
+            50.457212
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatische, raue Kulisse dieses weniger bekannten Küstenabschnitts und schließen Sie Ihr Fahrrad sicher ab, bevor Sie den schmalen Küstenpfad entlangwandern.",
+            "hu": "Élvezze a cornwalli partvidék e kevésbé ismert szakaszának drámai tájait, és ne felejtse el biztonságosan lezárni a kerékpárt, mielőtt elindulna a keskeny parti ösvényen.",
+            "ro": "Bucurați-vă de peisajul accidentat și dramatic al acestei porțiuni mai puțin cunoscute, amintindu-vă să blocați bicicleta în siguranță înainte de a face drumeții pe potecă.",
+            "en": "Enjoy the dramatic rugged scenery of this lesser-known stretch of the Cornish coast, and remember to lock your bike securely before hiking out along the narrow coastal trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Watergate Beach",
+            "hu": "Watergate Beach",
+            "ro": "Watergate Beach",
+            "en": "Watergate Beach"
+          },
+          "coords": [
+            -5.045396,
+            50.444739
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem kilometerlangen Weltklasse-Surfstrand und belohnen Sie Ihre sportliche Radtour mit einem wohlverdienten Getränk in einem Strandcafé vor Ort.",
+            "hu": "Pihenjen a több kilométer hosszú, világszínvonalú szörfös strandon, és jutalmazza meg aktív kerékpározását egy jól megérdemelt itallal egy helyi hangulatos tengerparti kávézóban.",
+            "ro": "Relaxați-vă pe o plajă de surf de talie mondială la sfârșitul plimbării, recompensând efortul depus pe bicicletă cu o băutură bine meritată la o cafenea locală de pe plajă.",
+            "en": "Relax on two miles of world-class surfing beach to beautifully end your ride today, rewarding your active cycling effort with a well-deserved drink at a local beachside cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Landesinneren an der alten Tumulus-Stätte und nehmen Sie in der ruhigen Morgenluft etwas lokale Vorgeschichte in sich auf. Von diesem erhöhten Startpunkt aus genießen Sie eine erfrischende Abfahrt zur Küste, direkt zum Strand von Mawgan Porth.\n\nNach einem lebhaften Halt am Hauptstrand radeln Sie auf den kurvigen Küstenstraßen nach Süden in Richtung Beacon Cove. Die Mittagssonne beleuchtet perfekt die steilen Felsabgründe – ein idealer Ort, um die Beine auszuruhen und die dramatische Landschaft zu genießen.\n\nFahren Sie weiter nach Süden, um Stem zu entdecken, einen weniger bekannten, aber ebenso atemberaubenden Küstenabschnitt. Die Navigation auf den Straßen erfordert etwas Mühe, aber der weite Meerblick und die salzige Brise machen jeden Tritt in die Pedale lohnenswert.\n\nIhre Tour endet spektakulär am Watergate Beach. Rollen Sie in den späten Nachmittag an diesem riesigen, weltberühmten Surfstrand, wo Sie schließlich Ihr Fahrrad abschließen, eine wohlverdiente Erfrischung genießen und die anrollenden Wellen beobachten können.",
+        "hu": "Kezdje kerékpártúráját a szárazföld belsejében az ősi Tumulus helyszínen, magába szívva a helyi őstörténet egy részét a csendes reggeli levegőben. Ebből a megemelt kiindulópontból élvezze a frissítő lejtmenetet a part felé, egyenesen a nyüzsgő Mawgan Porth strandjához.\n\nA fő strandon tett élénk megálló után tekerjen dél felé a kanyargós parti utakon Beacon Cove irányába. A déli napfény tökéletesen megvilágítja a meredek sziklás letöréseket, így ragyogó hely a lábak pihentetésére és a drámai táj élvezetére.\n\nNyomuljon tovább délre, hogy felfedezze Stem-et, egy kevésbé ismert, de ugyanolyan lenyűgöző tengerparti szakaszt. A parti utakon való eligazodás itt némi erőfeszítést igényel, de az óceánra nyíló kilátás és a sós tengeri szellő minden pedálcsapást megér.\n\nÚtja látványosan ér véget a Watergate Beach-en. Guruljon be a késő délutánba ezen a hatalmas, világhírű szörfös strandon, ahol végre lezárhatja kerékpárját, megihat egy jól megérdemelt hűsítőt, és nézheti a befelé gördülő hullámokat.",
+        "ro": "Începeți turul cu bicicleta spre interior, la vechiul sit Tumulus, absorbind puțin din preistoria locală în aerul liniștit al dimineții. Din acest punct de plecare înalt, bucurați-vă de o plimbare revigorantă la vale spre coastă, îndreptându-vă direct spre nisipurile din Mawgan Porth.\n\nDupă o oprire plină de viață la plaja principală, pedalați spre sud de-a lungul drumurilor de coastă șerpuite spre Beacon Cove. Soarele amiezii evidențiază perfect coborâșurile stâncoase abrupte, făcându-l un loc genial pentru a vă odihni picioarele.\n\nMergeți mai departe spre sud pentru a descoperi Stem, o secțiune de coastă mai puțin cunoscută, dar la fel de uimitoare. Navigarea pe drumurile de aici necesită puțin efort, dar priveliștile ample ale oceanului și briza mării fac ca fiecare apăsare a pedalei să merite pe deplin.\n\nPlimbarea dumneavoastră se încheie spectaculos la Watergate Beach. Ajungeți la sfârșitul după-amiezii pe această întindere masivă de nisip, unde puteți în cele din urmă să blocați bicicleta, să luați o băutură bine meritată și să urmăriți valurile.",
+        "en": "Kick off your cycling tour inland at the ancient Tumulus site, absorbing a bit of local prehistory in the quiet morning air. From this elevated starting point, enjoy a refreshing downhill ride towards the coast, heading straight for the bustling sands of Mawgan Porth.\n\nAfter a lively stop at the main beach, peddle south along the winding coastal roads towards Beacon Cove. The midday sun perfectly highlights the steep, rocky drop-offs, making it a brilliant spot to rest your legs and enjoy the dramatic, isolated scenery.\n\nPush further south to discover Stem, a lesser-known but equally stunning coastal section. Navigating the coastal roads here requires a bit of effort, but the sweeping ocean views and salty sea breeze make every push of the pedal thoroughly worthwhile.\n\nYour ride concludes spectacularly at Watergate Beach. Roll into the late afternoon at this massive stretch of world-famous surfing sand, where you can finally lock up your bike, grab a well-deserved coastal refreshment, and watch the waves roll in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Watergate Beach",
+            "hu": "Watergate Beach",
+            "ro": "Watergate Beach",
+            "en": "Watergate Beach"
+          },
+          "coords": [
+            -5.045396,
+            50.444739
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt, indem Sie auf dem großen Hauptparkplatz nahe diesem Surfstrand parken, und nehmen Sie sich Zeit, um die frische morgendliche Meeresbrise zu genießen.",
+            "hu": "Kezdje a part menti autózást a világszínvonalú szörfös strand melletti nagy parkolóban, és szánjon bőven időt a friss kora reggeli tengeri szellő azonnali élvezetére.",
+            "ro": "Începeți traseul parcând în parcarea principală mare de lângă această plajă de surf excelentă, luându-vă suficient timp pentru a vă bucura imediat de briza mării dimineața.",
+            "en": "Begin your coastal drive by parking at the large main lot near this extensive world-class surfing beach, taking plenty of time to enjoy the crisp morning sea breeze right away."
+          }
+        },
+        {
+          "name": {
+            "de": "Beacon Cove",
+            "hu": "Beacon Cove",
+            "ro": "Beacon Cove",
+            "en": "Beacon Cove"
+          },
+          "coords": [
+            -5.039642,
+            50.459947
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie in der nächsten Haltebucht und spazieren Sie vorsichtig zu dieser steilen Felsbucht hinab, um ein wunderbar abgeschiedenes Stück Küste fernab der Massen zu entdecken.",
+            "hu": "Parkoljon le a legközelebbi kijelölt pihenőhelyen, és óvatosan sétáljon le ehhez a meredek sziklás öbölhöz, felfedezve a megszokott tömegtől távol eső, csodálatos partszakaszt.",
+            "ro": "Parcați în cea mai apropiată alveolă amenajată și coborâți cu grijă către acest golf stâncos abrupt, descoperind o felie minunată de coastă izolată, departe de aglomerație.",
+            "en": "Park at the nearest designated lay-by and carefully walk down to this steep rocky inlet, discovering a wonderfully secluded slice of coastline far removed from the usual crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mawgan Porth",
+            "hu": "Mawgan Porth",
+            "ro": "Mawgan Porth",
+            "en": "Mawgan Porth"
+          },
+          "coords": [
+            -5.036298,
+            50.468507
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrzeug auf dem zentralen Dorfplatz stehen, um diese weite Sandbucht bequem zu erkunden, die sich auch als perfekter Ort für ein köstliches Mittagessen anbietet.",
+            "hu": "Hagyja járművét a falu parkolójában, hogy kényelmesen felfedezhesse ezt a tágas homokos öblöt, amely egyben tökéletes helyszínként is szolgál egy kellemes ebéd elfogyasztásához.",
+            "ro": "Lăsați vehiculul în parcarea centrală a satului pentru a explora confortabil acest golf nisipos vast, care servește drept locul perfect pentru a lua o gustare la prânz.",
+            "en": "Leave your vehicle in the central village parking area to comfortably explore this expansive sandy bay, which serves as the perfect spot to grab a bite for a delightful lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bedruthan Steps",
+            "hu": "Bedruthan Steps",
+            "ro": "Bedruthan Steps",
+            "en": "Bedruthan Steps"
+          },
+          "coords": [
+            -5.034141,
+            50.486193
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum National-Trust-Parkplatz, um die legendären Trittsteine des Riesen von den Klippen aus zu bestaunen, bedenken Sie jedoch die Windanfälligkeit an den Kanten.",
+            "hu": "Hajtson fel a National Trust parkolójába, hogy a szikla tetejéről megcsodálja ezeket a legendás óriási lépőköveket, emlékezve arra, hogy a sziklaszélek erős szélben instabilak.",
+            "ro": "Conduceți până la parcarea National Trust pentru a vă minuna de aceste pietre legendare de pe stâncă, amintindu-vă că marginile prăpastiei pot fi destul de instabile la vânt.",
+            "en": "Drive up to the National Trust car park to marvel at these legendary giant's stepping stones from the clifftop, remembering that the cliff edges can be unstable in high winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus (Stätte von)",
+            "hu": "Tumulus (halomsír helye)",
+            "ro": "Tumul (situl)",
+            "en": "Tumulus (site of)"
+          },
+          "coords": [
+            -5.003369,
+            50.474872
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour mit einem Besuch dieses alten Hügelgrabs im Landesinneren und nutzen Sie die kleinen Ausweichstellen an den Landstraßen, um die Historie aufzusaugen.",
+            "hu": "Fejezze be autós túráját ennek az ősi szárazföldi temetkezési halomnak a felkeresésével, kihasználva a vidéki sávok kis pihenőit, hogy röviden megálljon és magába szívja a múltat.",
+            "ro": "Încheiați turul cu mașina vizitând acest vechi tumul funerar, folosind micile refugii de pe benzile rurale pentru a opri scurt și a absorbi istoria liniștită a locului.",
+            "en": "Conclude your driving tour by visiting the site of this ancient inland burial mound, utilizing the small pull-offs on the rural lanes to briefly stop and absorb the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autofahrt am weitläufigen Watergate Beach. Die riesigen Sandflächen laden zu einem belebenden Morgenspaziergang ein, der den perfekten Ton für den Tag angibt. Danach steigen Sie entspannt ins Auto und fahren die malerische Küstenstraße nach Norden.\n\nIhr nächster Halt ist die abgelegene Beacon Cove, die leicht von Haltebuchten aus erreichbar ist. Nach dem Genuss ihrer dramatischen Isolation bringt Sie eine kurze Fahrt pünktlich zum Mittagessen nach Mawgan Porth, wo die lebhafte Strandatmosphäre eine wunderbare Mittagspause bietet.\n\nWeiter nördlich erreichen Sie die ikonischen Bedruthan Steps. Die ausgewiesenen Parkplätze ermöglichen einen leichten Zugang zu den Klippenwegen, wo das Nachmittagslicht die kolossalen Granitfelsen im rauen Atlantik perfekt zur Geltung bringt.\n\nZum Ausklang lenken Sie Ihr Auto von der Küste weg in die ruhigen ländlichen Gassen zum alten Tumulus. Der friedliche Sonnenuntergang im Landesinneren bietet einen ruhigen Kontrast zum wilden Ozean und schließt Ihre umfassende Autotour durch die Region perfekt ab.",
+        "hu": "Kezdje autós utazását a tágas Watergate Beach-en. A hatalmas homokos partszakaszok élénkítő reggeli sétát kínálnak, ami gyönyörű alaphangot ad a napnak. Felfrissülve pattanjon be az autóba, és cirkáljon észak felé a lenyűgöző tengerparti úton.\n\nA következő megálló az eldugott Beacon Cove, amely könnyen megközelíthető a közeli pihenőkből. Miután kiélvezte drámai elszigeteltségét, egy rövid utazás pont ebédidőben viszi el Mawgan Porth szívébe, ahol a nyüzsgő tengerparti hangulat csodálatos déli szünetet biztosít.\n\nÉszakabbra haladva eléri az ikonikus Bedruthan Steps-t. A kijelölt parkoló könnyű hozzáférést biztosít a szikla tetején futó ösvényekhez, ahol a délutáni fény tökéletesen megvilágítja a nyugtalan Atlanti-óceánból kiemelkedő kolosszális gránitsziklákat.\n\nA nap lezárásaként irányítsa autóját a közvetlen partvidéktől távolabb, a csendes vidéki sávokba, a Tumulus lelőhely felé. A békés szárazföldi naplemente nyugodt kontrasztot nyújt a vad óceánnal szemben, és tökéletesen lezárja a régió átfogó autós túráját.",
+        "ro": "Începeți călătoria cu mașina la întinsul Watergate Beach. Porțiunile masive de nisip oferă o plimbare revigorantă dimineața, stabilind un ton frumos pentru zi. Odată reîmprospătat, urcați în mașină și conduceți pe uimitorul drum de coastă spre nord.\n\nUrmătoarea oprire este izolatul Beacon Cove, ușor accesibil de pe drum. După ce v-ați bucurat de izolarea sa dramatică, un scurt drum vă duce în inima orașului Mawgan Porth chiar la timp pentru prânz, unde atmosfera vibrantă a plajei oferă o pauză minunată.\n\nConducând mai la nord, veți ajunge la emblematicele Bedruthan Steps. Parcarea dedicată permite accesul ușor la căile de pe stânci, unde lumina după-amiezii evidențiază perfect stâncile colosale de granit care ies din Oceanul Atlantic neliniștit.\n\nPentru a încheia ziua, îndreptați-vă mașina departe de coastă, pe benzile rurale liniștite, spre situl Tumulus. Apusul liniștit din interior oferă un contrast senin cu oceanul sălbatic, încheind perfect turul complet al regiunii.",
+        "en": "Begin your driving journey at the expansive Watergate Beach. The massive sandy stretches provide an invigorating morning walk, setting a beautiful tone for the day. Once refreshed, hop in the car and cruise along the stunning coastal road heading north.\n\nYour next stop is the secluded Beacon Cove, easily accessed from nearby lay-bys. After soaking in its dramatic isolation, a short drive brings you into the heart of Mawgan Porth just in time for lunch, where the lively beach atmosphere offers a wonderful midday break.\n\nDriving further north, you will reach the iconic Bedruthan Steps. The dedicated parking allows easy access to the clifftop pathways, where the afternoon light perfectly highlights the colossal granite sea stacks emerging from the restless Atlantic Ocean.\n\nTo end the day, steer your car away from the immediate coastline and into the quiet rural lanes toward the Tumulus site. The peaceful inland sunset provides a serene contrast to the wild ocean, concluding your comprehensive driving tour of the region perfectly."
+      }
+    }
+  }
+}

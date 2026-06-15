@@ -1,0 +1,474 @@
+{
+  "city_id": "palu-cities-v2",
+  "anchor": {
+    "name": "Palu",
+    "coords": [
+      119.873,
+      -0.891
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Guma Museum für traditionelle Waffen",
+            "hu": "Guma Hagyományos Fegyvermúzeum",
+            "ro": "Muzeul de Arme Tradiționale Guma",
+            "en": "Guma Traditional Weapons Museum"
+          },
+          "coords": [
+            119.871742,
+            -0.897968
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung traditioneller Waffen, die das Erbe Zentralsulawesis widerspiegeln, und engagieren Sie einen lokalen Führer für tiefere Einblicke.",
+            "hu": "Fedezze fel a Közép-Szulavézi örökségét tükröző hagyományos fegyverek gazdag gyűjteményét, és érdemes helyi idegenvezetőt fogadni a tárgyak történetének megértéséhez.",
+            "ro": "Descoperiți o bogată colecție de arme tradiționale ce reflectă moștenirea Sulawesiului Central și angajați un ghid local pentru a înțelege pe deplin istoria lor.",
+            "en": "Discover a rich collection of traditional weapons reflecting Central Sulawesi's heritage, and consider hiring a local guide to fully understand each artifact's history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Pauluskirche Palu",
+            "hu": "Szent Pál-templom Palu",
+            "ro": "Biserica Sf. Paul Palu",
+            "en": "St. Paul's Church Palu"
+          },
+          "coords": [
+            119.867888,
+            -0.89846
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser lokalen katholischen Kirche, einem spirituellen Zentrum, aber denken Sie daran, sich bescheiden zu kleiden und die Messezeiten zu prüfen.",
+            "hu": "Csodálja meg e helyi katolikus templom békés építészetét, amely fontos spirituális központ, de ne feledjen szerényen öltözködni és előre ellenőrizni a misék időpontját.",
+            "ro": "Admirați arhitectura senină a acestei biserici catolice locale, un important centru spiritual, dar amintiți-vă să vă îmbrăcați modest și să verificați orarul slujbelor.",
+            "en": "Admire the serene architecture of this local Catholic church, an important spiritual hub, but remember to dress modestly and check mass times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Landesmuseum von Zentralsulawesi",
+            "hu": "Közép-Szulavézi Állami Múzeum",
+            "ro": "Muzeul de Stat din Sulawesi Central",
+            "en": "Central Sulawesi State Museum"
+          },
+          "coords": [
+            119.853848,
+            -0.90213
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfassenden Ausstellungen zur Natur- und Kulturgeschichte der Provinz und planen Sie mindestens zwei Stunden für die kunstvollen Textilien ein.",
+            "hu": "Fedezze fel a tartomány természeti és kulturális történelmét bemutató átfogó kiállításokat, és szánjon legalább két órát a bonyolult textíliák megtekintésére.",
+            "ro": "Explorați expozițiile detaliate despre istoria naturală și culturală a provinciei, așa că alocați cel puțin două ore pentru a admira textilele expuse.",
+            "en": "Explore the comprehensive exhibits detailing the natural and cultural history of the province, so allocate at least two hours to see the intricate textile displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Inpres Manonda",
+            "hu": "Pasar Inpres Manonda Piac",
+            "ro": "Piața Pasar Inpres Manonda",
+            "en": "Pasar Inpres Manonda Market"
+          },
+          "coords": [
+            119.850844,
+            -0.903346
+          ],
+          "category": "cultural",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre dieses lebhaften Marktes ein, um lokale Snacks zu probieren, und bringen Sie Kleingeld mit, um leichter feilschen zu können.",
+            "hu": "Merüljön el e nyüzsgő piac élénk hangulatában, ahol helyi harapnivalókat kóstolhat, és mindenképpen hozzon magával aprópénzt a könnyebb alkudozás érdekében.",
+            "ro": "Cufundați-vă în atmosfera aglomerată a acestei piețe vibrante pentru a gusta gustări locale și asigurați-vă că aveți mărunt pentru a negocia mai ușor cu vânzătorii.",
+            "en": "Immerse yourself in the bustling atmosphere of this vibrant market to taste local snacks, and make sure to bring small change for easier bargaining with vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Christuskirche",
+            "hu": "Krisztus Templom",
+            "ro": "Biserica lui Hristos",
+            "en": "Christ Church"
+          },
+          "coords": [
+            119.853642,
+            -0.890515
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische protestantische Kirche, die als Symbol der religiösen Vielfalt in Palu steht, und kommen Sie am besten morgens wegen des schönen Lichts.",
+            "hu": "Látogasson el ebbe a történelmi protestáns templomba, amely Palu vallási sokszínűségének szimbóluma, és próbáljon reggel érkezni, amikor a fény gyönyörűen megvilágítja.",
+            "ro": "Vizitați această biserică protestantă istorică ce simbolizează diversitatea religioasă din Palu și încercați să veniți dimineața când lumina o luminează frumos.",
+            "en": "Visit this historic Protestant church that stands as a symbol of religious diversity in Palu, and try visiting during the morning when the light beautifully illuminates it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der reichen Kampfkunstgeschichte im Guma-Museum für traditionelle Waffen. Der Mittag eignet sich perfekt zur Erkundung der Gereja Santo Paulus und des Provinzmuseums. Am Nachmittag tauchen Sie in die lebhafte Atmosphäre des Pasar Inpres Manonda ein und erleben das authentische Markttreiben. Der Spaziergang endet entspannt, wenn sich der Abend nahe der historischen Christ Church nähert.",
+        "hu": "Kezdje a reggelt a gazdag harcművészeti történelem felfedezésével a Guma Hagyományos Fegyvermúzeumban. A dél tökéletes a közeli Gereja Santo Paulus és a tartományi múzeum felfedezésére. Délután váltson át a Pasar Inpres Manonda élénk hangulatára a valódi piaci élményekért. Sétája kellemesen zárul, ahogy közeledik az este a történelmi Krisztus Templom közelében.",
+        "ro": "Începeți dimineața descoperind istoria marțială bogată la Muzeul Armelor Tradiționale Guma. Mijlocul zilei este perfect pentru a explora Gereja Santo Paulus și fascinantul muzeu provincial. După-amiaza, treceți în atmosfera animată a pieței Pasar Inpres Manonda pentru vibrații autentice. Plimbarea se încheie liniștit pe măsură ce se apropie seara lângă istorica Biserică a lui Hristos.",
+        "en": "Start your morning delving into the rich martial history at the Guma Traditional Weapon Museum. Midday is perfect for exploring the nearby Gereja Santo Paulus and the fascinating provincial museum, absorbing the cultural depth of Central Sulawesi. By afternoon, transition into the lively atmosphere of Pasar Inpres Manonda for some authentic market vibes. Your walk concludes smoothly as evening approaches near the historic Christ Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Büro (Kantor)",
+            "hu": "Történelmi Hivatal (Kantor)",
+            "ro": "Biroul Istoric (Kantor)",
+            "en": "Historic Office (Kantor)"
+          },
+          "coords": [
+            119.855586,
+            -0.892836
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses bedeutende historische Gebäude, um Palus Verwaltungsgang zu würdigen, und fotografieren Sie die architektonischen Details aus der Kolonialzeit.",
+            "hu": "Sétáljon körbe ezen a jelentős történelmi épületen, hogy megcsodálja Palu közigazgatási múltját, és készítsen fotókat a gyarmati korabeli részletekről az udvarról.",
+            "ro": "Plimbați-vă în jurul acestei clădiri istorice semnificative pentru a aprecia trecutul administrativ din Palu și fotografiați detaliile arhitecturale din curtea interioară.",
+            "en": "Walk around this significant historic building to appreciate Palu's administrative past, and capture photos of its colonial-era architectural details from the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Christuskirche",
+            "hu": "Krisztus Templom",
+            "ro": "Biserica lui Hristos",
+            "en": "Christ Church"
+          },
+          "coords": [
+            119.853642,
+            -0.890515
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische protestantische Kirche, die als Symbol der religiösen Vielfalt in Palu steht, und kommen Sie am besten morgens wegen des schönen Lichts.",
+            "hu": "Látogasson el ebbe a történelmi protestáns templomba, amely Palu vallási sokszínűségének szimbóluma, és próbáljon reggel érkezni, amikor a fény gyönyörűen megvilágítja.",
+            "ro": "Vizitați această biserică protestantă istorică ce simbolizează diversitatea religioasă din Palu și încercați să veniți dimineața când lumina o luminează frumos.",
+            "en": "Visit this historic Protestant church that stands as a symbol of religious diversity in Palu, and try visiting during the morning when the light beautifully illuminates it."
+          }
+        },
+        {
+          "name": {
+            "de": "Landesmuseum von Zentralsulawesi",
+            "hu": "Közép-Szulavézi Állami Múzeum",
+            "ro": "Muzeul de Stat din Sulawesi Central",
+            "en": "Central Sulawesi State Museum"
+          },
+          "coords": [
+            119.853848,
+            -0.90213
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfassenden Ausstellungen zur Natur- und Kulturgeschichte der Provinz und planen Sie mindestens zwei Stunden für die kunstvollen Textilien ein.",
+            "hu": "Fedezze fel a tartomány természeti és kulturális történelmét bemutató átfogó kiállításokat, és szánjon legalább két órát a bonyolult textíliák megtekintésére.",
+            "ro": "Explorați expozițiile detaliate despre istoria naturală și culturală a provinciei, așa că alocați cel puțin două ore pentru a admira textilele expuse.",
+            "en": "Explore the comprehensive exhibits detailing the natural and cultural history of the province, so allocate at least two hours to see the intricate textile displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Inpres Manonda",
+            "hu": "Pasar Inpres Manonda Piac",
+            "ro": "Piața Pasar Inpres Manonda",
+            "en": "Pasar Inpres Manonda Market"
+          },
+          "coords": [
+            119.850844,
+            -0.903346
+          ],
+          "category": "cultural",
+          "arrive_at": "13:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre dieses lebhaften Marktes ein, um lokale Snacks zu probieren, und bringen Sie Kleingeld mit, um leichter feilschen zu können.",
+            "hu": "Merüljön el e nyüzsgő piac élénk hangulatában, ahol helyi harapnivalókat kóstolhat, és mindenképpen hozzon magával aprópénzt a könnyebb alkudozás érdekében.",
+            "ro": "Cufundați-vă în atmosfera aglomerată a acestei piețe vibrante pentru a gusta gustări locale și asigurați-vă că aveți mărunt pentru a negocia mai ușor cu vânzătorii.",
+            "en": "Immerse yourself in the bustling atmosphere of this vibrant market to taste local snacks, and make sure to bring small change for easier bargaining with vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Pauluskirche Palu",
+            "hu": "Szent Pál-templom Palu",
+            "ro": "Biserica Sf. Paul Palu",
+            "en": "St. Paul's Church Palu"
+          },
+          "coords": [
+            119.867888,
+            -0.89846
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser lokalen katholischen Kirche, einem spirituellen Zentrum, aber denken Sie daran, sich bescheiden zu kleiden und die Messezeiten zu prüfen.",
+            "hu": "Csodálja meg e helyi katolikus templom békés építészetét, amely fontos spirituális központ, de ne feledjen szerényen öltözködni és előre ellenőrizni a misék időpontját.",
+            "ro": "Admirați arhitectura senină a acestei biserici catolice locale, un important centru spiritual, dar amintiți-vă să vă îmbrăcați modest și să verificați orarul slujbelor.",
+            "en": "Admire the serene architecture of this local Catholic church, an important spiritual hub, but remember to dress modestly and check mass times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Masomba",
+            "hu": "Pasar Masomba Piac",
+            "ro": "Piața Pasar Masomba",
+            "en": "Pasar Masomba Market"
+          },
+          "coords": [
+            119.87876,
+            -0.907868
+          ],
+          "category": "cultural",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie auf diesem authentischen lokalen Markt durch Reihen von frischen Produkten und kommen Sie früh am Tag, um die frischesten tropischen Früchte zu finden.",
+            "hu": "Böngésszen a friss termékek és napi cikkek sorai között ezen az autentikus helyi piacon, és érkezzen korán a legfrissebb trópusi gyümölcsök kiválasztásához.",
+            "ro": "Răsfoiți rândurile de produse proaspete din această piață locală autentică și ajungeți devreme pentru a alege cele mai proaspete fructe tropicale disponibile.",
+            "en": "Browse through rows of fresh produce and daily goods in this authentic local market, and arrive early in the day for the freshest tropical fruits and best selections."
+          }
+        },
+        {
+          "name": {
+            "de": "Ainun Jaariyah Moschee",
+            "hu": "Ainun Jaariyah Mecset",
+            "ro": "Moscheea Ainun Jaariyah",
+            "en": "Ainun Jaariyah Mosque"
+          },
+          "coords": [
+            119.874385,
+            -0.918617
+          ],
+          "category": "religious",
+          "arrive_at": "15:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schätzen Sie das aufwendige Design dieser markanten Moschee, die als friedliches Gemeindezentrum dient, und achten Sie darauf, vor dem Betreten die Schuhe auszuziehen.",
+            "hu": "Csodálja meg e kiemelkedő környékbeli mecset bonyolult dizájnját, amely békés közösségi központként szolgál, de belépés előtt feltétlenül vegye le a cipőjét.",
+            "ro": "Apreciați designul complex al acestei moschei proeminente care servește drept centru comunitar pașnic, dar asigurați-vă că vă descălțați înainte de a intra.",
+            "en": "Appreciate the intricate design of this prominent neighborhood mosque which serves as a peaceful community center, but ensure you remove your shoes before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum historischen Kantor-Gebäude, um Palus koloniale Spuren zu sehen. Mittags gleiten Sie zum Provinzmuseum und zu den lebhaften Gassen des Pasar Inpres Manonda. Am Nachmittag radeln Sie nach Südosten, um das Treiben um die Gereja Santo Paulus und den Pasar Masomba zu beobachten. Die Fahrt endet abends sanft mit der friedlichen Atmosphäre der Masjid Ainun Jaariyah.",
+        "hu": "Tekerjen ki korán a történelmi Kantor épületéhez, hogy tanúja legyen Palu gyarmati nyomainak. Délben eljut a tartományi múzeumhoz és a Pasar Inpres Manonda nyüzsgő sikátoraihoz. Délután kerékpározzon délkelet felé, hogy megfigyelje a Gereja Santo Paulus és a Pasar Masomba körüli mindennapi életet. Az utazás este lágyan ér véget a Masjid Ainun Jaariyah békés légkörével.",
+        "ro": "Pedalați devreme către clădirea istorică Kantor pentru a vedea urmele coloniale. La amiază, veți aluneca spre muzeul provincial și aleile vibrante din Pasar Inpres Manonda. După-amiaza, mergeți cu bicicleta spre sud-est pentru a observa activitățile din jurul Gereja Santo Paulus și Pasar Masomba. Plimbarea se termină ușor seara cu atmosfera senină de la Masjid Ainun Jaariyah.",
+        "en": "Pedal out early to the historic Kantor building to witness Palu's colonial traces. As midday rolls in, you'll glide over to the provincial museum and the vibrant alleys of Pasar Inpres Manonda. In the afternoon, cycle southeast to observe the daily activities around Gereja Santo Paulus and Pasar Masomba. The ride gently ends in the evening with the serene atmosphere of Masjid Ainun Jaariyah."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensdenkmal (Tugu Perdamaian)",
+            "hu": "Béke-emlékmű (Tugu Perdamaian)",
+            "ro": "Monumentul Păcii (Tugu Perdamaian)",
+            "en": "Peace Monument (Tugu Perdamaian)"
+          },
+          "coords": [
+            119.912362,
+            -0.855447
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem ikonischen Friedensdenkmal auf einem Hügel und besuchen Sie es am späten Nachmittag für einen atemberaubenden Sonnenuntergang.",
+            "hu": "Élvezze a városra nyíló panorámát a dombon található ikonikus Béke-emlékműtől, és látogasson el késő délután, hogy tanúja legyen egy lenyűgöző naplementének.",
+            "ro": "Bucurați-vă de priveliști panoramice de la acest monument iconic al păcii situat pe un deal și vizitați-l după-amiaza târziu pentru a vedea un apus uimitor.",
+            "en": "Enjoy panoramic city views from this iconic Peace Monument located on a hill, and visit during the late afternoon to witness a stunning sunset over Palu Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Lasoani",
+            "hu": "Pasar Lasoani Piac",
+            "ro": "Piața Pasar Lasoani",
+            "en": "Pasar Lasoani Market"
+          },
+          "coords": [
+            119.908592,
+            -0.900274
+          ],
+          "category": "cultural",
+          "arrive_at": "10:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen traditionellen Markt, der für einzigartige regionale Zutaten bekannt ist, und fragen Sie die Verkäufer nach Gewürzen der lokalen Küche Zentralsulawesis.",
+            "hu": "Fedezze fel ezt a hagyományos piacot, amely egyedi regionális összetevőiről ismert, és bátran kérdezze meg az eladókat a közép-szulavézi konyha fűszereiről.",
+            "ro": "Explorați această piață tradițională cunoscută pentru ingredientele sale regionale unice și nu ezitați să întrebați vânzătorii despre condimentele folosite în bucătărie.",
+            "en": "Explore this traditional market known for its unique regional ingredients, and don't hesitate to ask vendors about the spices they use in Central Sulawesi cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Nurul Muqarrabin Moschee",
+            "hu": "Nurul Muqarrabin Mecset",
+            "ro": "Moscheea Nurul Muqarrabin",
+            "en": "Nurul Muqarrabin Mosque"
+          },
+          "coords": [
+            119.897023,
+            -0.900064
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser charmanten lokalen Moschee mit ihrem markanten Minarettstil und genießen Sie einen ruhigen Moment auf dem schattigen Außengelände.",
+            "hu": "Tartson egy rövid szünetet ennél a bájos helyi mecsetnél, amely jellegzetes minaretjéről ismert, és élvezze a csendes elmélkedést az árnyékos külső területein.",
+            "ro": "Faceți o scurtă pauză la această moschee fermecătoare, recunoscută pentru stilul distinct al minaretului său, și bucurați-vă de un moment de liniște în curte.",
+            "en": "Take a brief pause at this charming local mosque, recognized for its distinct minaret style, and enjoy a quiet moment of reflection in its shaded exterior grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche Palu",
+            "hu": "Szűz Mária-templom Palu",
+            "ro": "Biserica Sf. Maria Palu",
+            "en": "St. Mary's Church Palu"
+          },
+          "coords": [
+            119.886759,
+            -0.929364
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige Pfarrgemeinde in dieser schönen katholischen Kirche im südlichen Bezirk und besuchen Sie eine Wochenendmesse, um den lokalen Chor zu hören.",
+            "hu": "Tapasztalja meg a pezsgő egyházközségi életet ebben a gyönyörű déli katolikus templomban, és fontolja meg egy hétvégi mise meglátogatását a helyi kórus miatt.",
+            "ro": "Fiți martor la comunitatea parohială vibrantă de la această biserică catolică din districtul sudic și luați în considerare participarea la o slujbă pentru corul local.",
+            "en": "Witness the vibrant parish community at this beautiful Catholic church in the southern district, and consider attending a weekend mass to hear the local choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Petobo",
+            "hu": "Pasar Petobo Piac",
+            "ro": "Piața Pasar Petobo",
+            "en": "Pasar Petobo Market"
+          },
+          "coords": [
+            119.904581,
+            -0.934159
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Dorfleben und den Alltagshandel auf diesem belebten Vorortmarkt und halten Sie Ausschau nach handgemachtem Kunsthandwerk und Webwaren.",
+            "hu": "Fedezze fel a helyi falusi életet és a mindennapi kereskedelmet ezen a nyüzsgő külvárosi piacon, és figyeljen a kézzel készített kézműves termékekre és szövetekre.",
+            "ro": "Descoperiți viața satului și comerțul de zi cu zi la această piață aglomerată din suburbii, fiind atenți la obiectele de artizanat și bunurile țesute tradițional.",
+            "en": "Discover local village life and everyday trade at this bustling suburban market, keeping an eye out for handmade crafts and traditional woven goods."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Pasar Ranggulalo",
+            "hu": "Pasar Ranggulalo Piac",
+            "ro": "Piața Pasar Ranggulalo",
+            "en": "Pasar Ranggulalo Market"
+          },
+          "coords": [
+            119.927493,
+            -0.956986
+          ],
+          "category": "cultural",
+          "arrive_at": "13:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt auf diesem weitläufigen Außenmarkt, wo regionale Bauern ihre Ernte verkaufen, ein idealer Ort, um authentische lokale Kaffeebohnen zu kaufen.",
+            "hu": "Fejezze be útját ezen a kiterjedt külső piacon, ahol a regionális gazdák friss terméseiket árulják, ami tökéletes hely az autentikus helyi kávébabok megvásárlására.",
+            "ro": "Încheiați-vă drumul la această piață exterioară unde fermierii își vând recolta proaspătă, un loc perfect pentru a cumpăra boabe autentice de cafea înainte de plecare.",
+            "en": "Conclude your drive at this extensive outer market where regional farmers sell their fresh harvest, a perfect spot to buy authentic local coffee beans before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum imposanten Tugu Perdamaian, um spektakuläre Panoramablicke auf Palu zu genießen. Verbringen Sie den Mittag damit, die lokalen Aromen am Pasar Lasoani zu entdecken und charmante Vorortmoscheen zu besuchen. Die Nachmittagsfahrt führt Sie weiter südlich zu den geschäftigen Zentren des Pasar Petobo. Beenden Sie diese Tour am Abend auf dem lebhaften Markt Ranggulalo Biromaru.",
+        "hu": "Autózzon ki reggel az impozáns Tugu Perdamaianhoz, ahonnan látványos panoráma nyílik Palura. A delet a Pasar Lasoani helyi ízeinek felfedezésével és a bájos külvárosi mecsetek látogatásával töltheti. A délutáni útja tovább visz délre a Pasar Petobo nyüzsgő regionális központjai felé. Fejezze be ezt az átfogó túrát estére a nyüzsgő Ranggulalo Biromaru piacon.",
+        "ro": "Conduceți dimineața către impresionantul Tugu Perdamaian pentru priveliști panoramice spectaculoase ale orașului. Petreceți amiaza navigând printre aromele locale de la Pasar Lasoani și vizitând moschei fermecătoare din suburbii. După-amiaza vă duce mai la sud, la hub-urile regionale aglomerate din Pasar Petobo. Finalizați acest tur cuprinzător până seara la vibranta piață Ranggulalo Biromaru.",
+        "en": "Drive out to the imposing Tugu Perdamaian in the morning for spectacular panoramic sights of Palu. Spend midday navigating through the local flavors at Pasar Lasoani and visiting charming suburban mosques and churches. Your afternoon drive takes you further south to the bustling regional hubs of Pasar Petobo. Complete this comprehensive tour by evening at the vibrant Ranggulalo Biromaru market."
+      }
+    }
+  }
+}

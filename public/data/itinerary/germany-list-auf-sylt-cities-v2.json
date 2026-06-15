@@ -1,0 +1,474 @@
+{
+  "city_id": "germany-list-auf-sylt-cities-v2",
+  "anchor": {
+    "name": "List auf Sylt",
+    "coords": [
+      8.43571,
+      55.01706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt Raphael",
+            "hu": "Sankt Raphael",
+            "ro": "Sankt Raphael",
+            "en": "Sankt Raphael"
+          },
+          "coords": [
+            8.4313,
+            55.014919
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Backsteinarchitektur dieser nördlichsten Kirche Deutschlands und genießen Sie die Stille, bevor Sie den Hafen besuchen.",
+            "hu": "Csodálja meg Németország legészakibb templomának letisztult téglaépítészetét, és élvezze a csendet, mielőtt meglátogatná a nyüzsgő kikötőt.",
+            "ro": "Admirați arhitectura simplă din cărămidă a celei mai nordice biserici din Germania și bucurați-vă de liniște înainte de a vizita portul aglomerat.",
+            "en": "Admire the simple brick architecture of Germany's northernmost church and enjoy the serene silence before heading to the bustling harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "LOVE-Wand",
+            "hu": "LOVE-Wand",
+            "ro": "LOVE-Wand",
+            "en": "LOVE-Wand"
+          },
+          "coords": [
+            8.440073,
+            55.017259
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verewigen Sie sich an dieser farbenfrohen Liebeswand, die ein beliebtes Fotomotiv ist, aber kommen Sie früh, um die besten Lichtverhältnisse zu nutzen.",
+            "hu": "Örökítse meg emlékét ennél a színes és népszerű szerelemfalnál, de érkezzen korán, hogy a legjobb fényviszonyokat használhassa a fotózáshoz.",
+            "ro": "Imortalizați-vă la acest perete colorat al iubirii, o locație foto populară, dar veniți devreme pentru a profita de cele mai bune condiții de lumină.",
+            "en": "Immortalize your visit at this colorful and popular love wall, but arrive early in the day to take advantage of the best lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlebniszentrum Naturgewalten Sylt",
+            "hu": "Erlebniszentrum Naturgewalten Sylt",
+            "ro": "Erlebniszentrum Naturgewalten Sylt",
+            "en": "Erlebniszentrum Naturgewalten Sylt"
+          },
+          "coords": [
+            8.438503,
+            55.019416
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erforschen Sie interaktiv die raue Nordseenatur in diesem faszinierenden Museum, wofür Sie unbedingt vorab Tickets buchen sollten, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel interaktívan az Északi-tenger zord természetét ebben a lenyűgöző múzeumban, amelyhez mindenképpen érdemes előre jegyet foglalni a sorban állás elkerülése végett.",
+            "ro": "Explorați interactiv natura aspră a Mării Nordului în acest muzeu fascinant, pentru care ar trebui neapărat să rezervați bilete în avans pentru a evita cozile.",
+            "en": "Explore the raw nature of the North Sea interactively in this fascinating museum, for which you should definitely book tickets in advance to avoid long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Jürgen",
+            "hu": "Sankt Jürgen",
+            "ro": "Sankt Jürgen",
+            "en": "Sankt Jürgen"
+          },
+          "coords": [
+            8.43063,
+            55.019377
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante dänische Kirche mit ihrem maritimen Interieur und nehmen Sie sich Zeit für einen ruhigen Moment abseits des Trubels.",
+            "hu": "Fedezze fel ezt a bájos, tengerészeti belső térrel rendelkező dán templomot, és szánjon időt egy békés pillanatra a nyüzsgéstől távol.",
+            "ro": "Descoperiți această fermecătoare biserică daneză cu interiorul său maritim și rezervați-vă timp pentru un moment de liniște departe de agitație.",
+            "en": "Discover this charming Danish church with its maritime interior and take your time for a peaceful moment away from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sand-Berg",
+            "hu": "Sand-Berg",
+            "ro": "Sand-Berg",
+            "en": "Sand-Berg"
+          },
+          "coords": [
+            8.415046,
+            55.021143
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die beeindruckende Dünenlandschaft dieses Naturschutzgebiets, jedoch sollten Sie unbedingt auf den markierten Wegen bleiben, um die Flora zu schützen.",
+            "hu": "Túrázzon végig ennek a természetvédelmi területnek a lenyűgöző dűnevidékén, de a növényzet védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Drumeți prin peisajul impresionant de dune al acestei rezervații naturale, dar asigurați-vă că rămâneți pe traseele marcate pentru a proteja flora.",
+            "en": "Hike through the impressive dune landscape of this nature reserve, but make sure to strictly stay on the marked trails to protect the fragile flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Sutterknoll",
+            "hu": "Sutterknoll",
+            "ro": "Sutterknoll",
+            "en": "Sutterknoll"
+          },
+          "coords": [
+            8.413835,
+            55.013375
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von dieser majestätischen Düne auf das Meer und bringen Sie windfeste Kleidung mit, da es hier oben oft stürmisch ist.",
+            "hu": "Élvezze a tengerre nyíló tágas kilátást erről a fenséges dűnéről, és hozzon magával szélálló ruházatot, mivel itt fent gyakran viharos az idő.",
+            "ro": "Bucurați-vă de vederea panoramică a mării de pe această dună maiestuoasă și aduceți haine rezistente la vânt, deoarece aici sus este adesea furtună.",
+            "en": "Enjoy the expansive view of the sea from this majestic dune and bring windproof clothing, as it often gets quite stormy up here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im charmanten List, wo wir zunächst die nördlichsten Sakralbauten Deutschlands erkunden und die maritime Atmosphäre des Ortes aufsaugen.\nGegen Mittag tauchen wir im Erlebniszentrum Naturgewalten tief in die Geheimnisse der Nordsee ein und verstehen die rauen Kräfte, die Sylt formen.\nAm Nachmittag lockt die wilde Natur der Insel, und wir begeben uns in die malerischen Dünenlandschaften, um die reine Seeluft und die endlosen Weiten zu genießen.\nDer Abend klingt harmonisch an der Küste aus, wo wir den Blick über das weite Wattenmeer schweifen lassen und die friedliche Stimmung der Dämmerung spüren.",
+        "hu": "A nap a bájos Listben kezdődik, ahol először Németország legészakibb szakrális épületeit fedezzük fel, és magunkba szívjuk a tengerparti hangulatot.\nDél körül a Naturgewalten élményközpontban elmerülünk az Északi-tenger titkaiban, és megértjük a Syltet formáló zord természeti erőket.\nDélután a sziget vad természete csábít, így a festői dűnevidék felé vesszük az irányt, hogy élvezzük a tiszta tengeri levegőt és a végtelen térséget.\nAz este harmonikusan ér véget a parton, ahol tekintetünket a széles Watt-tengeren nyugtatjuk, és átéljük a szürkület békés, nyugodt atmoszféráját.",
+        "ro": "Ziua începe în fermecătorul List, unde explorăm mai întâi cele mai nordice clădiri sacre din Germania și ne bucurăm de atmosfera maritimă.\nÎn jurul prânzului, ne scufundăm adânc în secretele Mării Nordului la centrul Naturgewalten și înțelegem forțele aspre care modelează insula Sylt.\nDupă-amiaza, natura sălbatică a insulei ne atrage și ne îndreptăm spre peisajele pitorești de dune pentru a savura aerul curat și spațiile infinite.\nSeara se încheie armonios pe coastă, unde lăsăm privirea să rătăcească peste întinsa Mare Wadden și simțim atmosfera pașnică a crepusculului.",
+        "en": "The day begins in charming List, where we first explore Germany's northernmost sacred buildings and soak up the unique maritime atmosphere of the town.\nAround midday, we dive deep into the secrets of the North Sea at the Naturgewalten center, understanding the raw forces that actively shape Sylt.\nIn the afternoon, the island's wild nature beckons, and we head out into the picturesque dune landscapes to enjoy the pure sea air and endless horizons.\nThe evening concludes harmoniously on the coast, where we let our gaze wander over the vast Wadden Sea and feel the peaceful mood of the twilight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt Raphael",
+            "hu": "Sankt Raphael",
+            "ro": "Sankt Raphael",
+            "en": "Sankt Raphael"
+          },
+          "coords": [
+            8.4313,
+            55.014919
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Backsteinarchitektur dieser nördlichsten Kirche Deutschlands und genießen Sie die Stille, bevor Sie den Hafen besuchen.",
+            "hu": "Csodálja meg Németország legészakibb templomának letisztult téglaépítészetét, és élvezze a csendet, mielőtt meglátogatná a nyüzsgő kikötőt.",
+            "ro": "Admirați arhitectura simplă din cărămidă a celei mai nordice biserici din Germania și bucurați-vă de liniște înainte de a vizita portul aglomerat.",
+            "en": "Admire the simple brick architecture of Germany's northernmost church and enjoy the serene silence before heading to the bustling harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlebniszentrum Naturgewalten Sylt",
+            "hu": "Erlebniszentrum Naturgewalten Sylt",
+            "ro": "Erlebniszentrum Naturgewalten Sylt",
+            "en": "Erlebniszentrum Naturgewalten Sylt"
+          },
+          "coords": [
+            8.438503,
+            55.019416
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erforschen Sie interaktiv die raue Nordseenatur in diesem faszinierenden Museum, wofür Sie unbedingt vorab Tickets buchen sollten, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel interaktívan az Északi-tenger zord természetét ebben a lenyűgöző múzeumban, amelyhez mindenképpen érdemes előre jegyet foglalni a sorban állás elkerülése végett.",
+            "ro": "Explorați interactiv natura aspră a Mării Nordului în acest muzeu fascinant, pentru care ar trebui neapărat să rezervați bilete în avans pentru a evita cozile.",
+            "en": "Explore the raw nature of the North Sea interactively in this fascinating museum, for which you should definitely book tickets in advance to avoid long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Jürgen",
+            "hu": "Sankt Jürgen",
+            "ro": "Sankt Jürgen",
+            "en": "Sankt Jürgen"
+          },
+          "coords": [
+            8.43063,
+            55.019377
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante dänische Kirche mit ihrem maritimen Interieur und nehmen Sie sich Zeit für einen ruhigen Moment abseits des Trubels.",
+            "hu": "Fedezze fel ezt a bájos, tengerészeti belső térrel rendelkező dán templomot, és szánjon időt egy békés pillanatra a nyüzsgéstől távol.",
+            "ro": "Descoperiți această fermecătoare biserică daneză cu interiorul său maritim și rezervați-vă timp pentru un moment de liniște departe de agitație.",
+            "en": "Discover this charming Danish church with its maritime interior and take your time for a peaceful moment away from the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sand-Berg",
+            "hu": "Sand-Berg",
+            "ro": "Sand-Berg",
+            "en": "Sand-Berg"
+          },
+          "coords": [
+            8.415046,
+            55.021143
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die beeindruckende Dünenlandschaft dieses Naturschutzgebiets, jedoch sollten Sie unbedingt auf den markierten Wegen bleiben, um die Flora zu schützen.",
+            "hu": "Túrázzon végig ennek a természetvédelmi területnek a lenyűgöző dűnevidékén, de a növényzet védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Drumeți prin peisajul impresionant de dune al acestei rezervații naturale, dar asigurați-vă că rămâneți pe traseele marcate pentru a proteja flora.",
+            "en": "Hike through the impressive dune landscape of this nature reserve, but make sure to strictly stay on the marked trails to protect the fragile flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsdüne",
+            "hu": "Aussichtsdüne",
+            "ro": "Aussichtsdüne",
+            "en": "Aussichtsdüne"
+          },
+          "coords": [
+            8.415926,
+            55.024612
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diese Aussichtsdüne für ein atemberaubendes Panorama der Nordseeinsel und halten Sie Ihre Kamera für unvergessliche Landschaftsbilder bereit.",
+            "hu": "Másszon fel erre a kilátódűnére a sziget lélegzetelállító panorámájáért, és tartsa készenlétben a fényképezőgépét a felejthetetlen tájképekhez.",
+            "ro": "Urcați pe această dună de belvedere pentru o panoramă uluitoare a insulei și țineți camera pregătită pentru fotografii de peisaj de neuitat.",
+            "en": "Climb up this viewpoint dune for a breathtaking panorama of the North Sea island and keep your camera ready for unforgettable landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark",
+            "hu": "Nationalpark",
+            "ro": "Nationalpark",
+            "en": "Nationalpark"
+          },
+          "coords": [
+            8.432618,
+            55.02655
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spüren Sie die unberührte Natur des Wattenmeeres bei einer geführten Wattwanderung, bei der Sie Gummistiefel oder wasserfeste Schuhe tragen sollten.",
+            "hu": "Érezze a Watt-tenger érintetlen természetét egy vezetett iszapsétán, amelyhez gumicsizmát vagy vízálló cipőt érdemes viselnie.",
+            "ro": "Simțiți natura neatinsă a Mării Wadden într-o drumeție ghidată pe noroi, pentru care ar trebui să purtați cizme de cauciuc sau încălțăminte impermeabilă.",
+            "en": "Feel the untouched nature of the Wadden Sea on a guided mudflat hike, for which you should definitely wear rubber boots or waterproof shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Königshafen",
+            "hu": "Königshafen",
+            "ro": "Königshafen",
+            "en": "Königshafen"
+          },
+          "coords": [
+            8.410775,
+            55.03379
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielen Kitesurfer in dieser flachen und windigen Bucht, die sich auch ideal für einen entspannten Spaziergang am Wasser eignet.",
+            "hu": "Figyelje meg a sok kiteszörföst ebben a sekély és szeles öbölben, amely egy pihentető vízparti sétához is tökéletes választás.",
+            "ro": "Urmăriți numeroșii kitesurferi în acest golf puțin adânc și vântos, care este, de asemenea, ideal pentru o plimbare relaxantă pe malul apei.",
+            "en": "Watch the many kitesurfers in this shallow and windy bay, which is also an ideal spot for a relaxing stroll along the waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im charmanten List, wo wir zunächst die nördlichsten Sakralbauten Deutschlands erkunden und die maritime Atmosphäre des Ortes aufsaugen.\nGegen Mittag tauchen wir im Erlebniszentrum Naturgewalten tief in die Geheimnisse der Nordsee ein und verstehen die rauen Kräfte, die Sylt formen.\nAm Nachmittag lockt die wilde Natur der Insel, und wir begeben uns in die malerischen Dünenlandschaften, um die reine Seeluft und die endlosen Weiten zu genießen.\nDer Abend klingt harmonisch an der Küste aus, wo wir den Blick über das weite Wattenmeer schweifen lassen und die friedliche Stimmung der Dämmerung spüren.",
+        "hu": "A nap a bájos Listben kezdődik, ahol először Németország legészakibb szakrális épületeit fedezzük fel, és magunkba szívjuk a tengerparti hangulatot.\nDél körül a Naturgewalten élményközpontban elmerülünk az Északi-tenger titkaiban, és megértjük a Syltet formáló zord természeti erőket.\nDélután a sziget vad természete csábít, így a festői dűnevidék felé vesszük az irányt, hogy élvezzük a tiszta tengeri levegőt és a végtelen térséget.\nAz este harmonikusan ér véget a parton, ahol tekintetünket a széles Watt-tengeren nyugtatjuk, és átéljük a szürkület békés, nyugodt atmoszféráját.",
+        "ro": "Ziua începe în fermecătorul List, unde explorăm mai întâi cele mai nordice clădiri sacre din Germania și ne bucurăm de atmosfera maritimă.\nÎn jurul prânzului, ne scufundăm adânc în secretele Mării Nordului la centrul Naturgewalten și înțelegem forțele aspre care modelează insula Sylt.\nDupă-amiaza, natura sălbatică a insulei ne atrage și ne îndreptăm spre peisajele pitorești de dune pentru a savura aerul curat și spațiile infinite.\nSeara se încheie armonios pe coastă, unde lăsăm privirea să rătăcească peste întinsa Mare Wadden și simțim atmosfera pașnică a crepusculului.",
+        "en": "The day begins in charming List, where we first explore Germany's northernmost sacred buildings and soak up the unique maritime atmosphere of the town.\nAround midday, we dive deep into the secrets of the North Sea at the Naturgewalten center, understanding the raw forces that actively shape Sylt.\nIn the afternoon, the island's wild nature beckons, and we head out into the picturesque dune landscapes to enjoy the pure sea air and endless horizons.\nThe evening concludes harmoniously on the coast, where we let our gaze wander over the vast Wadden Sea and feel the peaceful mood of the twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt Raphael",
+            "hu": "Sankt Raphael",
+            "ro": "Sankt Raphael",
+            "en": "Sankt Raphael"
+          },
+          "coords": [
+            8.4313,
+            55.014919
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Backsteinarchitektur dieser nördlichsten Kirche Deutschlands und genießen Sie die Stille, bevor Sie den Hafen besuchen.",
+            "hu": "Csodálja meg Németország legészakibb templomának letisztult téglaépítészetét, és élvezze a csendet, mielőtt meglátogatná a nyüzsgő kikötőt.",
+            "ro": "Admirați arhitectura simplă din cărămidă a celei mai nordice biserici din Germania și bucurați-vă de liniște înainte de a vizita portul aglomerat.",
+            "en": "Admire the simple brick architecture of Germany's northernmost church and enjoy the serene silence before heading to the bustling harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "LOVE-Wand",
+            "hu": "LOVE-Wand",
+            "ro": "LOVE-Wand",
+            "en": "LOVE-Wand"
+          },
+          "coords": [
+            8.440073,
+            55.017259
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verewigen Sie sich an dieser farbenfrohen Liebeswand, die ein beliebtes Fotomotiv ist, aber kommen Sie früh, um die besten Lichtverhältnisse zu nutzen.",
+            "hu": "Örökítse meg emlékét ennél a színes és népszerű szerelemfalnál, de érkezzen korán, hogy a legjobb fényviszonyokat használhassa a fotózáshoz.",
+            "ro": "Imortalizați-vă la acest perete colorat al iubirii, o locație foto populară, dar veniți devreme pentru a profita de cele mai bune condiții de lumină.",
+            "en": "Immortalize your visit at this colorful and popular love wall, but arrive early in the day to take advantage of the best lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlebniszentrum Naturgewalten Sylt",
+            "hu": "Erlebniszentrum Naturgewalten Sylt",
+            "ro": "Erlebniszentrum Naturgewalten Sylt",
+            "en": "Erlebniszentrum Naturgewalten Sylt"
+          },
+          "coords": [
+            8.438503,
+            55.019416
+          ],
+          "category": "museum",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erforschen Sie interaktiv die raue Nordseenatur in diesem faszinierenden Museum, wofür Sie unbedingt vorab Tickets buchen sollten, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel interaktívan az Északi-tenger zord természetét ebben a lenyűgöző múzeumban, amelyhez mindenképpen érdemes előre jegyet foglalni a sorban állás elkerülése végett.",
+            "ro": "Explorați interactiv natura aspră a Mării Nordului în acest muzeu fascinant, pentru care ar trebui neapărat să rezervați bilete în avans pentru a evita cozile.",
+            "en": "Explore the raw nature of the North Sea interactively in this fascinating museum, for which you should definitely book tickets in advance to avoid long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark",
+            "hu": "Nationalpark",
+            "ro": "Nationalpark",
+            "en": "Nationalpark"
+          },
+          "coords": [
+            8.432618,
+            55.02655
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spüren Sie die unberührte Natur des Wattenmeeres bei einer geführten Wattwanderung, bei der Sie Gummistiefel oder wasserfeste Schuhe tragen sollten.",
+            "hu": "Érezze a Watt-tenger érintetlen természetét egy vezetett iszapsétán, amelyhez gumicsizmát vagy vízálló cipőt érdemes viselnie.",
+            "ro": "Simțiți natura neatinsă a Mării Wadden într-o drumeție ghidată pe noroi, pentru care ar trebui să purtați cizme de cauciuc sau încălțăminte impermeabilă.",
+            "en": "Feel the untouched nature of the Wadden Sea on a guided mudflat hike, for which you should definitely wear rubber boots or waterproof shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Königshafen",
+            "hu": "Königshafen",
+            "ro": "Königshafen",
+            "en": "Königshafen"
+          },
+          "coords": [
+            8.410775,
+            55.03379
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielen Kitesurfer in dieser flachen und windigen Bucht, die sich auch ideal für einen entspannten Spaziergang am Wasser eignet.",
+            "hu": "Figyelje meg a sok kiteszörföst ebben a sekély és szeles öbölben, amely egy pihentető vízparti sétához is tökéletes választás.",
+            "ro": "Urmăriți numeroșii kitesurferi în acest golf puțin adânc și vântos, care este, de asemenea, ideal pentru o plimbare relaxantă pe malul apei.",
+            "en": "Watch the many kitesurfers in this shallow and windy bay, which is also an ideal spot for a relaxing stroll along the waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im charmanten List, wo wir zunächst die nördlichsten Sakralbauten Deutschlands erkunden und die maritime Atmosphäre des Ortes aufsaugen.\nGegen Mittag tauchen wir im Erlebniszentrum Naturgewalten tief in die Geheimnisse der Nordsee ein und verstehen die rauen Kräfte, die Sylt formen.\nAm Nachmittag lockt die wilde Natur der Insel, und wir begeben uns in die malerischen Dünenlandschaften, um die reine Seeluft und die endlosen Weiten zu genießen.\nDer Abend klingt harmonisch an der Küste aus, wo wir den Blick über das weite Wattenmeer schweifen lassen und die friedliche Stimmung der Dämmerung spüren.",
+        "hu": "A nap a bájos Listben kezdődik, ahol először Németország legészakibb szakrális épületeit fedezzük fel, és magunkba szívjuk a tengerparti hangulatot.\nDél körül a Naturgewalten élményközpontban elmerülünk az Északi-tenger titkaiban, és megértjük a Syltet formáló zord természeti erőket.\nDélután a sziget vad természete csábít, így a festői dűnevidék felé vesszük az irányt, hogy élvezzük a tiszta tengeri levegőt és a végtelen térséget.\nAz este harmonikusan ér véget a parton, ahol tekintetünket a széles Watt-tengeren nyugtatjuk, és átéljük a szürkület békés, nyugodt atmoszféráját.",
+        "ro": "Ziua începe în fermecătorul List, unde explorăm mai întâi cele mai nordice clădiri sacre din Germania și ne bucurăm de atmosfera maritimă.\nÎn jurul prânzului, ne scufundăm adânc în secretele Mării Nordului la centrul Naturgewalten și înțelegem forțele aspre care modelează insula Sylt.\nDupă-amiaza, natura sălbatică a insulei ne atrage și ne îndreptăm spre peisajele pitorești de dune pentru a savura aerul curat și spațiile infinite.\nSeara se încheie armonios pe coastă, unde lăsăm privirea să rătăcească peste întinsa Mare Wadden și simțim atmosfera pașnică a crepusculului.",
+        "en": "The day begins in charming List, where we first explore Germany's northernmost sacred buildings and soak up the unique maritime atmosphere of the town.\nAround midday, we dive deep into the secrets of the North Sea at the Naturgewalten center, understanding the raw forces that actively shape Sylt.\nIn the afternoon, the island's wild nature beckons, and we head out into the picturesque dune landscapes to enjoy the pure sea air and endless horizons.\nThe evening concludes harmoniously on the coast, where we let our gaze wander over the vast Wadden Sea and feel the peaceful mood of the twilight."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-paignton-cities-v2",
+  "anchor": {
+    "name": "Paignton",
+    "coords": [
+      -3.5625,
+      50.4353
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 2.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Victoria Park",
+            "ro": "Victoria Park",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            -3.564874,
+            50.437692
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang durch die bunten Blumengärten des Victoria Parks und füttern Sie die Enten am Teich für einen entspannten Morgen.",
+            "hu": "Tegyél egy békés sétát a Victoria Park élénk virágoskertjeiben, és mindenképpen etesd meg a kacsákat a tónál egy pihentető délelőtti program keretében.",
+            "ro": "Faceți o plimbare liniștită prin grădinile florale vibrante din Victoria Park și asigurați-vă că hrăniți rațele de la iaz pentru o dimineață relaxantă.",
+            "en": "Take a peaceful stroll through the vibrant floral gardens of Victoria Park, and be sure to feed the ducks at the pond for a relaxing morning activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkham House",
+            "hu": "Kirkham House",
+            "ro": "Kirkham House",
+            "en": "Kirkham House"
+          },
+          "coords": [
+            -3.57027,
+            50.4382
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem gut erhaltenen mittelalterlichen Steinhaus, wo Sie sich die Holzarbeiten und den alten Kamin genau ansehen sollten.",
+            "hu": "Lépj vissza az időben ebben a hihetetlenül jól megőrzött középkori kőházban, ahol érdemes alaposan szemügyre venni a bonyolult fafaragásokat és a régi kandallót.",
+            "ro": "Întoarceți-vă în timp la această casă medievală din piatră incredibil de bine conservată, unde ar trebui să priviți atent lemnăria și șemineul antic.",
+            "en": "Step back in time at this incredibly well-preserved medieval stone townhouse, where you should look closely at the intricate woodwork and ancient fireplace."
+          }
+        },
+        {
+          "name": {
+            "de": "Palace Theatre",
+            "hu": "Palace Theatre",
+            "ro": "Teatrul Palace",
+            "en": "Palace Theatre"
+          },
+          "coords": [
+            -3.570882,
+            50.435166
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Unterhaltungsortes und prüfen Sie die Tageskasse nach kommenden Abendshows oder lokalen Veranstaltungen.",
+            "hu": "Csodáld meg ennek a történelmi szórakozóhelynek a klasszikus építészetét, és nézd meg a nappali jegypénztárban a közelgő esti előadásokat vagy eseményeket.",
+            "ro": "Admirați arhitectura clasică a acestui loc istoric de divertisment și verificați casa de bilete pe timp de zi pentru viitoarele spectacole de seară.",
+            "en": "Admire the classic architecture of this historic entertainment venue, and check the daytime box office for upcoming evening shows or local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Paignton",
+            "hu": "Paignton Kikötő",
+            "ro": "Portul Paignton",
+            "en": "Paignton Harbour"
+          },
+          "coords": [
+            -3.556852,
+            50.432134
+          ],
+          "category": "civic",
+          "arrive_at": "13:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lokalen Fischerboote in diesem charmanten historischen Hafen und holen Sie sich frisch gefangene Krabben von einem der kleinen Händler.",
+            "hu": "Nézd, ahogy a helyi halászhajók ringatóznak ebben a bájos kikötőben, és vegyél frissen fogott rákot az egyik kis rakparti árus standjánál.",
+            "ro": "Urmăriți bărcile locale de pescuit la acest port istoric fermecător și cumpărați niște crabi proaspăt prinși de la unul dintre micii vânzători de pe chei.",
+            "en": "Watch the local fishing boats bob in the water at this charming historic harbour, and grab some freshly caught crab from one of the small quayside vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Paignton Pier",
+            "hu": "Paignton Móló",
+            "ro": "Digul Paignton",
+            "en": "Paignton Pier"
+          },
+          "coords": [
+            -3.5559,
+            50.4372
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf Torbay von diesem traditionellen Pier, aber halten Sie Ihre Snacks fest, da die lokalen Möwen bekanntermaßen mutig sind.",
+            "hu": "Élvezd a Torbay-re nyíló panorámát erről a hagyományos viktoriánus mólóról, de fogd erősen az uzsonnádat, mert a helyi sirályok köztudottan merészek.",
+            "ro": "Bucurați-vă de vederi panoramice ale golfului Torbay de pe acest dig tradițional, dar țineți-vă bine gustările, deoarece pescărușii locali sunt foarte îndrăzneți.",
+            "en": "Enjoy panoramic views of Torbay from this traditional Victorian pleasure pier, but hold onto your snacks tightly as the local seagulls are notoriously bold."
+          }
+        },
+        {
+          "name": {
+            "de": "Paignton Beach",
+            "hu": "Paignton Beach",
+            "ro": "Plaja Paignton",
+            "en": "Paignton Beach"
+          },
+          "coords": [
+            -3.557581,
+            50.440038
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen rötlichen Sand dieses familienfreundlichen Küstenabschnitts und bringen Sie ein Handtuch mit, um sich nach dem Baden abzutrocknen.",
+            "hu": "Pihenj meg ennek a családbarát partszakasznak a puha, vöröses homokján, és hozz magaddal egy kis törölközőt, hogy megszáradj a nyugodt, sekély víz után.",
+            "ro": "Relaxați-vă pe nisipul roșiatic al acestei coaste prietenoase pentru familii și aduceți un prosop mic pentru a vă usca după ce ați intrat în apele calme.",
+            "en": "Relax on the soft reddish sand of this family-friendly stretch of coastline, and bring a small towel to dry off after wading in the calm, shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der ruhigen Atmosphäre des Victoria Parks, bevor Sie im Kirkham House in die mittelalterliche Geschichte eintauchen.\n\nAm Mittag wechseln Sie von der klassischen Eleganz des Palace Theaters zum maritimen Charme des Hafens von Paignton.\n\nVerbringen Sie den Nachmittag mit einem Spaziergang über den historischen Paignton Pier und genießen Sie die Vergnügungen.\n\nBeenden Sie den Tag entspannt am weichen Sandstrand von Paignton Beach und beobachten Sie die sanfte Flut.",
+        "hu": "Kezdd a reggelt a Victoria Park nyugodt atmoszférájában, majd merülj el a középkori történelemben a Kirkham House falai között.\n\nKora délután a Palace Theatre klasszikus eleganciája után élvezd a bájos kikötő tengerparti hangulatát.\n\nDélután sétálj végig a történelmi mólón, kipróbálva a szórakoztató játékokat és megcsodálva az öböl panorámáját.\n\nZárd a napot a Paignton Beach puha homokján pihenve, és nézd meg, ahogy az esti dagály lassan közeledik a part felé.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită din Victoria Park înainte de a vă întoarce în istoria medievală la Kirkham House.\n\nLa prânz, treceți de la eleganța clasică a Teatrului Palace la farmecul maritim al Portului Paignton.\n\nPetreceți după-amiaza plimbându-vă de-a lungul istoricului dig Paignton, bucurându-vă de distracțiile de pe litoral.\n\nÎncheiați ziua relaxându-vă pe nisipul fin de la Paignton Beach, urmărind valurile cum se rostogolesc ușor la lăsarea serii.",
+        "en": "Start your morning absorbing the tranquil atmosphere in Victoria Park before stepping back into medieval history at Kirkham House.\n\nBy midday, transition from the classical elegance of the Palace Theatre to the maritime charm of Paignton Harbour.\n\nSpend your afternoon strolling along the historic Paignton Pier, enjoying the seaside amusements and sweeping bay views.\n\nConclude the day relaxing on the soft sands of Paignton Beach, watching the tide gently roll in as evening slowly approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oldway Mansion",
+            "hu": "Oldway Mansion",
+            "ro": "Oldway Mansion",
+            "en": "Oldway Mansion"
+          },
+          "coords": [
+            -3.56774,
+            50.443
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese spektakuläre Residenz aus dem 19. Jahrhundert, die vom Schloss Versailles inspiriert ist, und schlendern Sie durch die gepflegten Gärten.",
+            "hu": "Csodáld meg ezt a Versailles-i kastély által ihletett 19. századi rezidenciát, és szánj időt arra, hogy végigsétálj a hatalmas, gyönyörűen gondozott kertjein.",
+            "ro": "Minunați-vă de această reședință spectaculoasă din secolul al XIX-lea inspirată de Palatul Versailles și alocați-vă timp pentru a vă plimba prin grădinile sale.",
+            "en": "Marvel at this spectacular 19th-century residence inspired by the Palace of Versailles, and take time to wander through its expansive, beautifully manicured gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Preston Sands",
+            "hu": "Preston Sands",
+            "ro": "Preston Sands",
+            "en": "Preston Sands"
+          },
+          "coords": [
+            -3.556577,
+            50.44308
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Strandspaziergang an diesem makellosen Strand, der für seine bunten Strandhütten bekannt ist, die den perfekten Fotohintergrund bilden.",
+            "hu": "Tegyél egy frissítő tengerparti sétát ezen az érintetlen strandon, amely a hagyományos, színes strandkunyhóiról híres, amik tökéletes hátteret nyújtanak a fotókhoz.",
+            "ro": "Faceți o plimbare revigorantă de-a lungul acestei plaje imaculate, renumită pentru colibele sale colorate, care oferă un fundal absolut perfect pentru fotografii.",
+            "en": "Take a bracing seaside walk along this pristine beach renowned for its traditional colorful beach huts, which make an absolutely perfect background for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Roundham Head",
+            "hu": "Roundham Head",
+            "ro": "Roundham Head",
+            "en": "Roundham Head"
+          },
+          "coords": [
+            -3.553538,
+            50.429247
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem malerischen Landzungenpark hinauf, um einen unschlagbaren Blick über die Bucht zu genießen, und bringen Sie ein Fernglas für die Tierwelt mit.",
+            "hu": "Mássz fel erre a festői hegyfoki parkra, ahonnan verhetetlen kilátás nyílik az egész öbölre, és hozz magaddal távcsövet a part menti vadvilág megfigyeléséhez.",
+            "ro": "Urcați în acest parc pitoresc pentru vederi panoramice imbatabile asupra întregului golf și aduceți binocluri pentru a observa fauna de coastă în trecere.",
+            "en": "Climb up to this scenic headland park for unbeatable elevated views over the entire bay, and bring a pair of binoculars to spot passing coastal wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Goodrington Sands",
+            "hu": "Goodrington Sands",
+            "ro": "Goodrington Sands",
+            "en": "Goodrington Sands"
+          },
+          "coords": [
+            -3.56216,
+            50.4251
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem spektakulären Strand mit klarem Wasser und planen Sie Ihren Besuch so, dass Sie einen Blick auf den historischen Dampfzug werfen können.",
+            "hu": "Kapcsolódj ki ezen a látványos strandon, amely kristálytiszta vizet kínál, miközben úgy időzíted a látogatást, hogy elcsípd az elhaladó nosztalgia gőzöst.",
+            "ro": "Relaxați-vă pe această plajă spectaculoasă cu ape clare și programați-vă vizita pentru a prinde o privire la trenul cu aburi de patrimoniu care trece prin apropiere.",
+            "en": "Unwind at this spectacular beach featuring family amusements and clear waters, while timing your visit to catch a glimpse of the heritage steam train going by."
+          }
+        },
+        {
+          "name": {
+            "de": "Torbay Velopark",
+            "hu": "Torbay Velopark",
+            "ro": "Velopark Torbay",
+            "en": "Torbay Velopark"
+          },
+          "coords": [
+            -3.563354,
+            50.422771
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Werden Sie aktiv auf dieser exzellenten Outdoor-Radanlage, die komplett verkehrsfrei ist und eine unglaublich sichere Umgebung für Fahrer aller Niveaus bietet.",
+            "hu": "Legyél aktív ezen a kiváló szabadtéri kerékpáros pályán, amely teljesen forgalommentes, így hihetetlenül biztonságos és szórakoztató környezetet nyújt mindenkinek.",
+            "ro": "Fiți activ la această excelentă facilitate de ciclism în aer liber, complet fără trafic, oferind un mediu incredibil de sigur și distractiv pentru toți cicliștii.",
+            "en": "Get active at this excellent outdoor cycling facility that is completely traffic-free, making it an incredibly safe and fun environment for riders of all skill levels."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Paignton",
+            "hu": "Paignton Állatkert",
+            "ro": "Grădina Zoologică Paignton",
+            "en": "Paignton Zoo"
+          },
+          "coords": [
+            -3.58444,
+            50.4289
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie Tausende von faszinierenden Tieren in wunderschön angelegten botanischen Gärten und planen Sie unbedingt, einen der täglichen Fütterungsvorträge zu besuchen.",
+            "hu": "Fedezz fel több ezer lenyűgöző állatot a gyönyörűen parkosított botanikus kertekben, és feltétlenül tervezd be az egyik napi oktató jellegű látványetetést.",
+            "ro": "Descoperiți mii de animale fascinante în grădini botanice frumos amenajate și planificați cu siguranță să participați la una dintre discuțiile zilnice despre hrănire.",
+            "en": "Discover thousands of fascinating animals set across beautifully landscaped botanical gardens, and definitely plan to attend one of the daily educational feeding talks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit der Erkundung der spektakulären Architektur und der weiten Gärten des legendären Oldway Mansion.\n\nFahren Sie am Mittag entlang der Küste zu den Preston Sands und fotografieren Sie die bunten, traditionellen Strandhütten.\n\nAm Nachmittag genießen Sie den Panoramablick auf das Meer vom Roundham Head, bevor Sie am Goodrington Sands entspannen.\n\nBeenden Sie Ihren Tag im Velopark, bevor Sie in die Tierwelt des Zoos von Paignton eintauchen.",
+        "hu": "Kezdd a kerékpáros kalandot az ikonikus Oldway Mansion látványos építészetének és hatalmas, gondozott kertjeinek felfedezésével.\n\nKora délután tekerj végig a part mentén a Preston Sands-hez, és készíts fotókat a színes, hagyományos strandkunyhókról.\n\nDélután élvezd a magaslati tengeri panorámát a Roundham Head-ről, mielőtt megpihennél a Goodrington Sands aranyhomokján.\n\nZárd a napot egy gyors közzel a Veloparkban, majd merülj el a Paignton Zoo lenyűgöző vadvilágában a naplemente előtt.",
+        "ro": "Începeți aventura pe bicicletă explorând arhitectura spectaculoasă și grădinile vaste ale emblematicei Oldway Mansion.\n\nLa prânz, mergeți de-a lungul coastei până la Preston Sands, făcând poze la colibele tradiționale și colorate de plajă.\n\nDupă-amiaza, bucurați-vă de vederi panoramice la mare de la Roundham Head înainte de a vă relaxa pe țărmul Goodrington.\n\nÎncheiați-vă ziua cu o plimbare rapidă la Velopark înainte de a vă cufunda în minunile faunei sălbatice de la Grădina Zoologică.",
+        "en": "Begin your cycling adventure exploring the spectacular architecture and vast manicured gardens of the iconic Oldway Mansion.\n\nBy midday, ride along the coastline to Preston Sands, taking pictures by the colorful, traditional beach huts.\n\nIn the afternoon, enjoy elevated panoramic sea views from Roundham Head before relaxing on the golden shores of Goodrington Sands.\n\nWrap up your day with a quick ride at the Velopark before immersing yourself in the wildlife wonders of Paignton Zoo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 10.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oldway Mansion",
+            "hu": "Oldway Mansion",
+            "ro": "Oldway Mansion",
+            "en": "Oldway Mansion"
+          },
+          "coords": [
+            -3.56774,
+            50.443
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese spektakuläre Residenz aus dem 19. Jahrhundert, die vom Schloss Versailles inspiriert ist, und schlendern Sie durch die gepflegten Gärten.",
+            "hu": "Csodáld meg ezt a Versailles-i kastély által ihletett 19. századi rezidenciát, és szánj időt arra, hogy végigsétálj a hatalmas, gyönyörűen gondozott kertjein.",
+            "ro": "Minunați-vă de această reședință spectaculoasă din secolul al XIX-lea inspirată de Palatul Versailles și alocați-vă timp pentru a vă plimba prin grădinile sale.",
+            "en": "Marvel at this spectacular 19th-century residence inspired by the Palace of Versailles, and take time to wander through its expansive, beautifully manicured gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Paignton",
+            "hu": "Paignton Állatkert",
+            "ro": "Grădina Zoologică Paignton",
+            "en": "Paignton Zoo"
+          },
+          "coords": [
+            -3.58444,
+            50.4289
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Tausende von faszinierenden Tieren in wunderschön angelegten botanischen Gärten und planen Sie unbedingt, einen der täglichen Fütterungsvorträge zu besuchen.",
+            "hu": "Fedezz fel több ezer lenyűgöző állatot a gyönyörűen parkosított botanikus kertekben, és feltétlenül tervezd be az egyik napi oktató jellegű látványetetést.",
+            "ro": "Descoperiți mii de animale fascinante în grădini botanice frumos amenajate și planificați cu siguranță să participați la una dintre discuțiile zilnice despre hrănire.",
+            "en": "Discover thousands of fascinating animals set across beautifully landscaped botanical gardens, and definitely plan to attend one of the daily educational feeding talks."
+          }
+        },
+        {
+          "name": {
+            "de": "Goodrington Sands",
+            "hu": "Goodrington Sands",
+            "ro": "Goodrington Sands",
+            "en": "Goodrington Sands"
+          },
+          "coords": [
+            -3.56216,
+            50.4251
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem spektakulären Strand mit klarem Wasser und planen Sie Ihren Besuch so, dass Sie einen Blick auf den historischen Dampfzug werfen können.",
+            "hu": "Kapcsolódj ki ezen a látványos strandon, amely kristálytiszta vizet kínál, miközben úgy időzíted a látogatást, hogy elcsípd az elhaladó nosztalgia gőzöst.",
+            "ro": "Relaxați-vă pe această plajă spectaculoasă cu ape clare și programați-vă vizita pentru a prinde o privire la trenul cu aburi de patrimoniu care trece prin apropiere.",
+            "en": "Unwind at this spectacular beach featuring family amusements and clear waters, while timing your visit to catch a glimpse of the heritage steam train going by."
+          }
+        },
+        {
+          "name": {
+            "de": "Fairy Cove",
+            "hu": "Fairy Cove",
+            "ro": "Fairy Cove",
+            "en": "Fairy Cove"
+          },
+          "coords": [
+            -3.555,
+            50.431426
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Suchen Sie dieses versteckte Juwel eines Strandes hinter der Hafenmauer auf, wo die faszinierenden Gezeitenbecken perfekte Möglichkeiten zum Krabbenfangen bieten.",
+            "hu": "Keresd meg ezt a rejtett gyöngyszemet, amely csendesen bújik meg a kikötő fala mögött, ahol a lenyűgöző árapály-medencék tökéletes lehetőséget nyújtanak rákászásra.",
+            "ro": "Căutați această bijuterie ascunsă de plajă, cuibărită liniștit în spatele zidului portului, unde bazinele de stâncă oferă oportunități perfecte pentru prinderea crabilor.",
+            "en": "Seek out this hidden gem of a beach nestled quietly behind the harbour wall, where the fascinating tidal rock pools offer perfect opportunities for crabbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Dartmouth Dampfeisenbahn",
+            "hu": "Dartmouth Gőzvasút",
+            "ro": "Trenul cu Aburi Dartmouth",
+            "en": "Dartmouth Steam Railway"
+          },
+          "coords": [
+            -3.581,
+            50.375
+          ],
+          "category": "station",
+          "arrive_at": "13:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das goldene Zeitalter des Reisens an Bord eines majestätischen Dampfzugs entlang der spektakulären Küste, aber buchen Sie Ihre Tickets im Sommer im Voraus.",
+            "hu": "Éld át az utazás aranykorát egy fenséges gőzösön a látványos devoni partvonal mentén, de a nyári csúcsszezonban mindenképpen foglalj jegyet jó előre.",
+            "ro": "Experimentați epoca de aur a călătoriilor la bordul unui tren cu aburi maiestuos de-a lungul coastei spectaculoase din Devon, dar rezervați-vă biletele în avans vara.",
+            "en": "Experience the golden age of travel aboard a majestic steam train running along the spectacular Devon coast, but book your tickets well in advance during peak summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Bewunderung der schieren Erhabenheit und der eleganten Außenbereiche des herrlichen Oldway Mansion.\n\nEntdecken Sie am Mittag eine Welt exotischer Tiere und botanischer Schönheit bei einem Besuch im weitläufigen Zoo von Paignton.\n\nVerbringen Sie den Nachmittag in der lebhaften Atmosphäre von Goodrington Sands und erkunden Sie die Felsenpools der Fairy Cove.\n\nBeenden Sie Ihre Küstenreise an Bord der Dartmouth Steam Railway und erleben Sie das nostalgische Devon-Reiseabenteuer.",
+        "hu": "Indítsd az autós utazást a csodálatos Oldway Mansion puszta nagyszerűségének és elegáns szabadtéri tereinek megcsodálásával.\n\nDélben fedezd fel az egzotikus állatok és a botanikai szépségek világát egy hosszabb látogatás során a hatalmas Paignton Zoo-ban.\n\nDélután élvezd a Goodrington Sands élénk családi hangulatát, majd fedezd fel a Fairy Cove rejtett árapály-medencéit a partnál.\n\nZárd a tengerparti utazást a Dartmouth gőzvasút fedélzetén, átélve a tökéletes nosztalgikus devoni utazási élményt.",
+        "ro": "Începeți călătoria cu mașina minunându-vă de măreția absolută și de spațiile elegante în aer liber de la magnifica Oldway Mansion.\n\nLa prânz, descoperiți o lume de animale exotice și frumusețe botanică în timpul unei vizite extinse la Grădina Zoologică.\n\nPetreceți după-amiaza bucurându-vă de atmosfera plină de viață la Goodrington Sands și explorând bazinele stâncoase ascunse.\n\nÎncheiați-vă călătoria de coastă la bordul trenului cu aburi Dartmouth, experimentând cea mai nostalgică aventură de călătorie.",
+        "en": "Kick off your road trip marveling at the sheer grandeur and elegant outdoor spaces of the magnificent Oldway Mansion.\n\nBy midday, discover a world of exotic animals and botanical beauty during an extended visit to the expansive Paignton Zoo.\n\nSpend your afternoon enjoying the lively family atmosphere at Goodrington Sands and exploring the hidden rock pools of Fairy Cove.\n\nConclude your coastal journey aboard the Dartmouth Steam Railway, experiencing the ultimate nostalgic Devon travel adventure."
+      }
+    }
+  }
+}

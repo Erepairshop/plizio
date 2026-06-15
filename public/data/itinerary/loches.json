@@ -1,0 +1,497 @@
+{
+  "city_id": "loches",
+  "anchor": {
+    "name": "Loches",
+    "coords": [
+      0.9953,
+      47.1286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:49",
+      "total_km": 0.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tor der Cordeliers",
+            "hu": "Cordeliers kapu",
+            "ro": "Poarta Cordeliers",
+            "en": "Cordeliers Gate"
+          },
+          "coords": [
+            0.9996,
+            47.1285
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses befestigten Tores aus dem 15. Jahrhundert, dem einstigen Haupteingang der Stadt, und achten Sie auf die Verteidigungsschlitze.",
+            "hu": "Csodálja meg ennek a 15. századi erődített kapunak az impozáns építészetét, amely egykor a város főbejárata volt, és figyelje meg a védelmi nyílásokat, mielőtt átsétálna rajta.",
+            "ro": "Admirați arhitectura impunătoare a acestei porți fortificate din secolul al XV-lea, fosta intrare principală a orașului, și observați fantele de apărare păstrate cu grijă.",
+            "en": "Admire the imposing 15th-century architecture of this fortified gate, once the main entrance to the city, and notice the preserved defensive slots before walking through."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Saint-Antoine",
+            "hu": "Saint-Antoine torony",
+            "ro": "Turnul Saint-Antoine",
+            "en": "Saint-Antoine Tower"
+          },
+          "coords": [
+            0.9989,
+            47.1287
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Genießen Sie die Renaissance-Schönheit dieses 52 Meter hohen Glockenturms, der die Unterstadt dominiert, und lauschen Sie dem schönen Klang seiner Glocken zur vollen Stunde.",
+            "hu": "Gyönyörködjön ebben az 52 méteres reneszánsz harangtoronyban, amely az alsóváros látképét uralja, és hallgassa meg a harangok gyönyörű zúgását, ha egész órakor érkezik.",
+            "ro": "Bucurați-vă de frumusețea renascentistă a acestui turn clopotniță de 52 de metri care domină orașul de jos și ascultați sunetul minunat al clopotelor sale la oră fixă.",
+            "en": "Take in the Renaissance beauty of this 52-meter bell tower, which dominates the lower town skyline, and listen for its resonant bells ringing beautifully at the top of the hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentlicher Garten Loches",
+            "hu": "Loches-i közkert",
+            "ro": "Grădina Publică Loches",
+            "en": "Loches Public Garden"
+          },
+          "coords": [
+            1.001125,
+            47.127538
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschön angelegten Park im viktorianischen Stil mit Blick auf die Königsstadt und suchen Sie sich eine ruhige Bank in der Nähe des Musikpavillons.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, viktoriánus stílusú kertben, ahonnan remek kilátás nyílik a királyi városra, és keressen egy csendes padot a zenepavilon közelében.",
+            "ro": "Relaxați-vă în această grădină frumoasă în stil victorian, care oferă vederi magnifice spre orașul regal, și ocupați o bancă liniștită lângă pavilionul de muzică pentru o pauză.",
+            "en": "Relax in this beautifully landscaped Victorian-style garden offering magnificent views of the royal city, and grab a quiet bench near the bandstand for a peaceful afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Ours",
+            "hu": "Saint-Ours kollégiumi templom",
+            "ro": "Biserica Colegială Saint-Ours",
+            "en": "Saint-Ours Collegiate Church"
+          },
+          "coords": [
+            0.9987,
+            47.12677
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten achteckigen Pyramiden, die das einzigartige Dach dieser romanischen Kirche bilden, und betreten Sie das Innere, um das wunderschön geschnitzte Portal zu sehen.",
+            "hu": "Csodálja meg a román stílusú templom egyedülálló tetejét alkotó jellegzetes nyolcszögletű piramisokat, a dubékat, és lépjen be, hogy megnézze a gyönyörűen faragott ősi portált.",
+            "ro": "Minunați-vă de piramidele octogonale izbitoare care formează acoperișul unic al acestei biserici romanice și pășiți înăuntru pentru a viziona portalul antic frumos sculptat.",
+            "en": "Marvel at the striking octagonal pyramids known as dubes that form the unique roof of this Romanesque church, and step inside to view the beautifully carved ancient portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Lansyer-Museum",
+            "hu": "Lansyer Múzeum",
+            "ro": "Muzeul Lansyer",
+            "en": "Lansyer Museum"
+          },
+          "coords": [
+            0.997457,
+            47.126829
+          ],
+          "category": "museum",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Elternhaus des Malers Emmanuel Lansyer mit unzähligen seiner Landschaftswerke und einem japanischen Garten, der perfekte Fotomotive bietet.",
+            "hu": "Fedezze fel Emmanuel Lansyer festő egykori szülőházát, ahol több száz tájképe mellett egy nyugodt japánkert is található, amely tökéletes fotózási lehetőségeket kínál.",
+            "ro": "Explorați fosta casă familială a pictorului Emmanuel Lansyer, prezentând sute de peisaje și o grădină japoneză senină, care oferă oportunități perfecte pentru fotografii spectaculoase.",
+            "en": "Explore the former family home of painter Emmanuel Lansyer, featuring hundreds of his landscape works and a serene Japanese garden that offers perfect photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Gemächer",
+            "hu": "Királyi lakosztályok",
+            "ro": "Lojile Regale",
+            "en": "Royal Lodgings"
+          },
+          "coords": [
+            0.996667,
+            47.1247
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Residenz, die von Jeanne d'Arc und Anne de Bretagne bevorzugt wurde, mit ihren prächtigen gotischen Fassaden und lesen Sie die mehrsprachigen Tafeln.",
+            "hu": "Fedezze fel az elegáns rezidenciát, amelyet Jeanne d'Arc és Bretagne-i Anna is kedvelt, pompás lángoló gótikus homlokzatokkal, és mindenképpen olvassa el az információs táblákat.",
+            "ro": "Descoperiți eleganta reședință preferată de Ioana d'Arc și Ana de Bretania, lăudându-se cu fațade gotice flamboaiante splendide, și asigurați-vă că citiți plăcuțele informative.",
+            "en": "Discover the elegant residence favored by Joan of Arc and Anne of Brittany, boasting splendid flamboyant Gothic facades, and be sure to read the informative multilingual plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergfried von Loches",
+            "hu": "Loches-i öregtorony",
+            "ro": "Donjonul din Loches",
+            "en": "Loches Keep"
+          },
+          "coords": [
+            0.997191,
+            47.125697
+          ],
+          "category": "fortress",
+          "arrive_at": "16:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besteigen Sie den massiven 36 Meter hohen normannischen Bergfried, den Fulk Nerra im 11. Jahrhundert erbaute, um den Panoramablick zu genießen; tragen Sie aber feste Schuhe.",
+            "hu": "Mássza meg az 11. században épült, hatalmas, 36 méteres normann öregtornyot, ahonnan lenyűgöző panoráma nyílik az Indre völgyére, de a meredek lépcsőkhöz viseljen masszív cipőt.",
+            "ro": "Urcați în donjonul normand masiv de 36 de metri construit în secolul al XI-lea pentru a experimenta vederi panoramice ale văii Indre, dar purtați încălțăminte robustă pentru scări.",
+            "en": "Climb the massive 36-meter Norman keep built by Fulk Nerra in the 11th century to experience sweeping panoramic views of the Indre valley, but wear sturdy shoes for the steep stairs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt in der Unterstadt am beeindruckenden Tor der Cordeliers und führt Sie zum hoch aufragenden Turm Saint-Antoine. Die Morgenluft sorgt für einen perfekten Start in den Tag.\n\nAm Mittag steigen Sie zum malerischen öffentlichen Garten von Loches auf, wo ruhige Wege eine erholsame Pause bieten. Kurz darauf erwartet Sie die Stiftskirche Saint-Ours mit ihren Dächern.\n\nDer Nachmittag ist der Kunst und der königlichen Geschichte gewidmet. Sie stöbern in den Sammlungen des Lansyer-Museums, bevor Sie die opulenten königlichen Gemächer betreten.\n\nAm Abend führt Sie Ihr letzter Aufstieg zum beeindruckenden Bergfried von Loches. Oben auf dem alten Donjon werden Sie mit einem atemberaubenden Panoramablick über das Tal belohnt.",
+        "hu": "Sétája az alsóvárosban, a lenyűgöző Cordeliers kapunál kezdődik, és a magasba törő Saint-Antoine toronyhoz vezet. A friss reggeli levegő tökéletes alaphangot ad a város felfedezéséhez.\n\nDélben sétáljon fel a festői Loches-i közkertbe, ahol a csendes ösvények pihentető szünetet biztosítanak. Röviddel ezután a Saint-Ours kollégiumi templom lenyűgöző tetőszerkezete várja, hogy megcsodálja.\n\nA délután a művészet és a királyi történelem jegyében telik. Böngésszen a Lansyer Múzeum gyönyörű gyűjteményében, mielőtt belépne a történelmi királynék által kedvelt pazar királyi lakosztályokba.\n\nAhogy közeledik az este, az utolsó emelkedő a félelmetes öregtoronyhoz vezet. Az ősi falakon állva lélegzetelállító panoráma nyílik az Indre völgyére a gyönyörű naplementében.",
+        "ro": "Aventura pietonală începe în orașul de jos, la impresionanta Poartă Cordeliers, ducându-vă spre falnicul Turn Saint-Antoine. Aerul dimineții creează o atmosferă perfectă pentru explorare.\n\nLa amiază, urcați spre Grădina Publică Loches, unde cărările liniștite oferă o pauză odihnitoare. La scurt timp, acoperișurile unice ale Bisericii Saint-Ours vă așteaptă să le admirați frumusețea.\n\nDupă-amiaza este dedicată artei și istoriei regale. Veți răsfoi colecțiile rafinate la Muzeul Lansyer înainte de a păși în opulentele Lojii Regale, preferate de reginele istorice ale Franței.\n\nPe măsură ce se apropie seara, ultima urcare vă duce la formidabilul Donjon din Loches. Stând pe vârful cetății antice, veți fi răsplătit cu vederi panoramice uluitoare peste valea Indre.",
+        "en": "Your walking adventure begins in the bustling lower town at the impressive Cordeliers Gate, leading you to the soaring Saint-Antoine Tower. The morning air sets a perfect tone for exploring.\n\nBy midday, ascend towards the picturesque Loches Public Garden, where tranquil paths provide a restful pause. Shortly after, the striking dubes of Saint-Ours Collegiate Church await your admiration.\n\nThe afternoon is dedicated to art and royal history. You'll browse the exquisite collections at the Lansyer Museum before stepping into the opulent Royal Lodgings, favored by historical queens.\n\nAs evening approaches, your final ascent takes you to the formidable Loches Keep. Standing atop the ancient donjon, you'll be rewarded with breathtaking panoramic views over the Indre valley at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss de Sansac",
+            "hu": "Sansac kastély",
+            "ro": "Castelul de Sansac",
+            "en": "Château de Sansac"
+          },
+          "coords": [
+            1.007732,
+            47.12894
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendige Renaissance-Fassade dieses kleinen, aber eleganten Schlosses von der Straße aus, da es einen tollen Einblick in die Architektur des 16. Jahrhunderts bietet.",
+            "hu": "Értékelje ennek a kis, de elegáns kastélynak a bonyolult reneszánsz homlokzatát az utca felől, mivel ragyogó bepillantást nyújt a 16. századi építészeti fejlődésbe és stílusokba.",
+            "ro": "Apreciați fațada renascentistă complexă a acestui castel mic, dar elegant, de pe partea străzii, deoarece oferă o privire strălucitoare asupra evoluției arhitecturale din secolul XVI.",
+            "en": "Appreciate the intricate Renaissance facade of this small but elegant château from the street side, as it offers a brilliant glimpse into 16th-century architectural evolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Tor der Cordeliers",
+            "hu": "Cordeliers kapu",
+            "ro": "Poarta Cordeliers",
+            "en": "Cordeliers Gate"
+          },
+          "coords": [
+            0.9996,
+            47.1285
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses befestigten Tores aus dem 15. Jahrhundert, dem einstigen Haupteingang der Stadt, und achten Sie auf die Verteidigungsschlitze.",
+            "hu": "Csodálja meg ennek a 15. századi erődített kapunak az impozáns építészetét, amely egykor a város főbejárata volt, és figyelje meg a védelmi nyílásokat, mielőtt átsétálna rajta.",
+            "ro": "Admirați arhitectura impunătoare a acestei porți fortificate din secolul al XV-lea, fosta intrare principală a orașului, și observați fantele de apărare păstrate cu grijă.",
+            "en": "Admire the imposing 15th-century architecture of this fortified gate, once the main entrance to the city, and notice the preserved defensive slots before walking through."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Agnès Sorel",
+            "hu": "Agnès Sorel tér",
+            "ro": "Espace Agnès Sorel",
+            "en": "Espace Agnès Sorel"
+          },
+          "coords": [
+            0.993815,
+            47.125241
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokalen kulturellen Veranstaltungen, die in diesem modernen, nach der königlichen Mätresse benannten Raum stattfinden, und prüfen Sie das Tagesprogramm.",
+            "hu": "Merüljön el a híres királyi kedvencről elnevezett kortárs térben megrendezett gazdag helyi kulturális eseményekben, és érdemes előre ellenőrizni a napi kiállítások menetrendjét.",
+            "ro": "Cufundați-vă în evenimentele culturale locale găzduite în acest spațiu contemporan numit după celebra favorită regală și verificați programul zilnic pentru expoziții interesante.",
+            "en": "Immerse yourself in the rich local cultural events hosted in this contemporary space named after the famous royal favorite, and check their daily schedule for interesting exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Gemächer",
+            "hu": "Királyi lakosztályok",
+            "ro": "Lojile Regale",
+            "en": "Royal Lodgings"
+          },
+          "coords": [
+            0.996667,
+            47.1247
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Residenz, die von Jeanne d'Arc und Anne de Bretagne bevorzugt wurde, mit ihren prächtigen gotischen Fassaden und lesen Sie die mehrsprachigen Tafeln.",
+            "hu": "Fedezze fel az elegáns rezidenciát, amelyet Jeanne d'Arc és Bretagne-i Anna is kedvelt, pompás lángoló gótikus homlokzatokkal, és mindenképpen olvassa el az információs táblákat.",
+            "ro": "Descoperiți eleganta reședință preferată de Ioana d'Arc și Ana de Bretania, lăudându-se cu fațade gotice flamboaiante splendide, și asigurați-vă că citiți plăcuțele informative.",
+            "en": "Discover the elegant residence favored by Joan of Arc and Anne of Brittany, boasting splendid flamboyant Gothic facades, and be sure to read the informative multilingual plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergfried von Loches",
+            "hu": "Loches-i öregtorony",
+            "ro": "Donjonul din Loches",
+            "en": "Loches Keep"
+          },
+          "coords": [
+            0.997191,
+            47.125697
+          ],
+          "category": "fortress",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besteigen Sie den massiven 36 Meter hohen normannischen Bergfried, den Fulk Nerra im 11. Jahrhundert erbaute, um den Panoramablick zu genießen; tragen Sie aber feste Schuhe.",
+            "hu": "Mássza meg az 11. században épült, hatalmas, 36 méteres normann öregtornyot, ahonnan lenyűgöző panoráma nyílik az Indre völgyére, de a meredek lépcsőkhöz viseljen masszív cipőt.",
+            "ro": "Urcați în donjonul normand masiv de 36 de metri construit în secolul al XI-lea pentru a experimenta vederi panoramice ale văii Indre, dar purtați încălțăminte robustă pentru scări.",
+            "en": "Climb the massive 36-meter Norman keep built by Fulk Nerra in the 11th century to experience sweeping panoramic views of the Indre valley, but wear sturdy shoes for the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbruch Vignemont",
+            "hu": "Vignemont kőbánya",
+            "ro": "Cariera Vignemont",
+            "en": "Vignemont Quarry"
+          },
+          "coords": [
+            1.000696,
+            47.123177
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in diese historischen Tuffsteinbrüche, die den Stein für die Denkmäler der Region lieferten, und bringen Sie eine leichte Jacke mit, da die Tunnel kühl bleiben.",
+            "hu": "Látogasson el ezekbe a történelmi kőbányákba, amelyek a régió nagy műemlékeihez szolgáltatták a mészkövet, és hozzon magával egy könnyű kabátot, mivel az alagutak hűvösek maradnak.",
+            "ro": "Aventurați-vă în aceste cariere troglodite istorice care au furnizat piatra tuffeau pentru marile monumente ale zonei și aduceți o jachetă ușoară, deoarece tunelurile sunt răcoroase.",
+            "en": "Venture into these historic troglodyte quarries that supplied the tuffeau stone for the area's grand monuments, and bring a light jacket as the underground tunnels remain quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am eleganten Château de Sansac, bevor Sie durch die Unterstadt gleiten, um das mittelalterliche Tor der Cordeliers zu bewundern. Das Morgenlicht ist hier perfekt.\n\nGegen Mittag fahren Sie zum Espace Agnès Sorel, um in die lokale zeitgenössische Kultur einzutauchen. Der Übergang von mittelalterlichen Befestigungen zu moderner Kunst ist faszinierend.\n\nVerbringen Sie Ihren Nachmittag damit, tief in die königliche Vergangenheit der Stadt einzutauchen. Radeln Sie zu den königlichen Gemächern und besuchen Sie anschließend den Bergfried.\n\nIhr Tag endet mit einer kurzen Fahrt zum historischen Steinbruch Vignemont. Die Erkundung dieser kühlen Höhlentunnel bietet einen einzigartigen und abenteuerlichen Abschluss Ihrer Tour.",
+        "hu": "Kezdje a kerékpártúrát az elegáns Sansac kastélynál, mielőtt átgurulna az alsóvároson, hogy megcsodálja a középkori Cordeliers kaput. A lágy reggeli fény tökéletesen megvilágítja a követ.\n\nDél közeledtével tekerjen az Espace Agnès Sorel felé, hogy magába szívja a helyi kortárs kultúrát. A középkori erődítmények és a modern művészet közötti átmenet lenyűgöző kontrasztot nyújt.\n\nTöltse a délutánt a város királyi múltjának felfedezésével. Kerékpározzon fel a csodálatos királyi lakosztályokhoz, majd látogasson el a régió látképét uraló, impozáns Loches-i öregtoronyhoz.\n\nA nap egy rövid tekeréssel zárul a történelmi Vignemont kőbányához. Ezeknek a hűvös barlangjáratoknak a felfedezése egyedülálló, kalandos lezárása a kétkerekű felfedezőútnak.",
+        "ro": "Începeți turul cu bicicleta la elegantul Château de Sansac înainte de a aluneca prin orașul de jos pentru a admira Poarta medievală Cordeliers. Lumina dimineții luminează perfect piatra.\n\nSpre amiază, mergeți spre Espace Agnès Sorel pentru a vă scufunda în cultura contemporană locală. Tranziția de la fortificațiile medievale la arta modernă oferă un contrast fascinant.\n\nPetreceți-vă după-amiaza explorând profund trecutul regal al orașului. Călătoriți până la magnificele Loji Regale, urmate de o vizită la impunătorul Donjon, dominând peisajul.\n\nZiua se încheie cu o scurtă plimbare spre istorica Carieră Vignemont. Explorarea acestor tuneluri troglodite răcoroase oferă un sfârșit unic și aventuros explorării dumneavoastră.",
+        "en": "Kick off your cycling tour at the elegant Château de Sansac before gliding through the lower town to marvel at the medieval Cordeliers Gate. The gentle morning light perfectly illuminates the stone.\n\nAs midday rolls around, ride toward the Espace Agnès Sorel to soak in the local contemporary culture. The transition from medieval fortifications to modern art provides a fascinating contrast.\n\nSpend your afternoon diving deep into the city's royal past. Cycle up to the magnificent Royal Lodgings, followed by a visit to the imposing Loches Keep, dominating the regional skyline.\n\nYour day concludes with a short ride out to the historic Vignemont Quarry. Exploring these cool troglodyte tunnels provides a unique, adventurous end to your two-wheeled exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Grand Vau",
+            "hu": "Grand Vau kastély",
+            "ro": "Castelul Grand Vau",
+            "en": "Château Grand Vau"
+          },
+          "coords": [
+            0.974682,
+            47.130715
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um dieses klassische Landgut, um die idyllische Umgebung zu bewundern, und machen Sie Fotos im weichen Morgenlicht der französischen Provinz.",
+            "hu": "Élvezze a békés sétát ennek a klasszikus vidéki birtoknak a kerületén, hogy megcsodálja a nyugodt környezetet, és mindenképpen készítsen fotókat a lágy reggeli fényben a réteken.",
+            "ro": "Bucurați-vă de o plimbare pașnică în jurul acestei proprietăți rurale clasice pentru a admira cadrul său rural senin, asigurându-vă că faceți fotografii în lumina blândă a dimineții.",
+            "en": "Enjoy a peaceful stroll around the perimeter of this classical rural estate to admire its serene countryside setting, making sure to capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss de Puygibault",
+            "hu": "Puygibault kastély",
+            "ro": "Castelul de Puygibault",
+            "en": "Château de Puygibault"
+          },
+          "coords": [
+            0.976628,
+            47.116797
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die malerischen Ruinen und die romantische Atmosphäre, die diese weniger bekannte Burg umgeben, und bleiben Sie auf den markierten Wegen, um die Fundamente zu schützen.",
+            "hu": "Csodálja meg a festői romokat és a romantikus atmoszférát e kevésbé ismert várkastély körül, és maradjon a kijelölt ösvényeken a törékeny történelmi alapok védelme érdekében.",
+            "ro": "Minunați-vă de ruinele pitorești și de atmosfera romantică din jurul acestei structuri de castel mai puțin cunoscute și rămâneți pe cărările marcate pentru a proteja fundațiile fragile.",
+            "en": "Marvel at the picturesque ruins and romantic atmosphere surrounding this lesser-known castle structure, and stay on the marked paths to protect the fragile historical foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Agnès Sorel",
+            "hu": "Agnès Sorel tér",
+            "ro": "Espace Agnès Sorel",
+            "en": "Espace Agnès Sorel"
+          },
+          "coords": [
+            0.993815,
+            47.125241
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokalen kulturellen Veranstaltungen, die in diesem modernen, nach der königlichen Mätresse benannten Raum stattfinden, und prüfen Sie das Tagesprogramm.",
+            "hu": "Merüljön el a híres királyi kedvencről elnevezett kortárs térben megrendezett gazdag helyi kulturális eseményekben, és érdemes előre ellenőrizni a napi kiállítások menetrendjét.",
+            "ro": "Cufundați-vă în evenimentele culturale locale găzduite în acest spațiu contemporan numit după celebra favorită regală și verificați programul zilnic pentru expoziții interesante.",
+            "en": "Immerse yourself in the rich local cultural events hosted in this contemporary space named after the famous royal favorite, and check their daily schedule for interesting exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Ours",
+            "hu": "Saint-Ours kollégiumi templom",
+            "ro": "Biserica Colegială Saint-Ours",
+            "en": "Saint-Ours Collegiate Church"
+          },
+          "coords": [
+            0.9987,
+            47.12677
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten achteckigen Pyramiden, die das einzigartige Dach dieser romanischen Kirche bilden, und betreten Sie das Innere, um das wunderschön geschnitzte Portal zu sehen.",
+            "hu": "Csodálja meg a román stílusú templom egyedülálló tetejét alkotó jellegzetes nyolcszögletű piramisokat, a dubékat, és lépjen be, hogy megnézze a gyönyörűen faragott ősi portált.",
+            "ro": "Minunați-vă de piramidele octogonale izbitoare care formează acoperișul unic al acestei biserici romanice și pășiți înăuntru pentru a viziona portalul antic frumos sculptat.",
+            "en": "Marvel at the striking octagonal pyramids known as dubes that form the unique roof of this Romanesque church, and step inside to view the beautifully carved ancient portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromlech de la Croix Bonnin",
+            "hu": "Croix Bonnin cromlech",
+            "ro": "Cromlech de la Croix Bonnin",
+            "en": "Cromlech de la Croix Bonnin"
+          },
+          "coords": [
+            1.033487,
+            47.12758
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.64,
+          "tip_5lang": {
+            "de": "Denken Sie an diesem faszinierenden Megalithkomplex über die tiefen prähistorischen Wurzeln der Region nach und besuchen Sie ihn während der goldenen Stunde für die beste Atmosphäre.",
+            "hu": "Elmélkedjen a régió mély őskori gyökerein ezen a tájban megbúvó lenyűgöző megalitikus helyszínen, és látogasson el az aranyórában a leghangulatosabb vizuális élmény érdekében.",
+            "ro": "Contemplați rădăcinile preistorice profunde ale regiunii la acest sit megalitic fascinant ascuns în peisaj și vizitați-l în timpul orei de aur pentru cea mai atmosferică experiență.",
+            "en": "Contemplate the deep prehistoric roots of the region at this fascinating megalithic site hidden in the landscape, and visit during golden hour for the most atmospheric experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pressoir",
+            "hu": "Le Pressoir",
+            "ro": "Le Pressoir",
+            "en": "Le Pressoir"
+          },
+          "coords": [
+            1.024488,
+            47.122273
+          ],
+          "category": "castle",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre architektonische Tour mit der Besichtigung dieses charmanten historischen Anwesens und nehmen Sie sich einen Moment Zeit, um die ruhige ländliche Atmosphäre zu genießen.",
+            "hu": "Fejezze be építészeti túráját ennek a bájos történelmi ingatlannak a megtekintésével, amely a hagyományos touraine-i építészetet tükrözi, és élvezze a csendes vidéki hangulatot.",
+            "ro": "Terminați-vă turul arhitectural vizionând această proprietate istorică fermecătoare care reflectă construcția tradițională din Touraine și bucurați-vă de ambianța rurală liniștită.",
+            "en": "Finish your architectural tour viewing this charming historic property that reflects traditional Touraine construction, and take a moment to enjoy the quiet rural ambiance of the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrtag mit der Erkundung der ruhigen ländlichen Randgebiete beim Château Grand Vau, gefolgt von den romantischen Ruinen des Château de Puygibault in der Morgenluft.\n\nGegen Mittag parken Sie in der Nähe des Stadtzentrums, um den Espace Agnès Sorel zu besuchen. Ein kurzer Spaziergang bringt Sie dann zum architektonischen Wunder der Stiftskirche Saint-Ours.\n\nAm Nachmittag machen Sie eine landschaftlich reizvolle Fahrt zum Cromlech de la Croix Bonnin. Diese verborgene prähistorische Stätte bietet einen faszinierenden Einblick in die Geschichte.\n\nBeenden Sie Ihre Reiseroute bei Le Pressoir. Wenn der Abend hereinbricht, bietet dieses charmante historische Anwesen eine ruhige Kulisse, um über Ihre Reise durch die Jahrhunderte nachzudenken.",
+        "hu": "Kezdje a napot a békés külvárosok felfedezésével a Grand Vau kastélynál, majd látogasson el a Puygibault kastély romantikus romjaihoz. A reggeli vezetés derűs vidéki kilátást nyújt.\n\nDélben parkoljon le a városközpont közelében, hogy meglátogassa az Espace Agnès Sorelt. Egy rövid séta elvezeti a Saint-Ours kollégiumi templom építészeti csodájához és egyedi tetőihez.\n\nDélután tegyen egy festői utazást a Croix Bonnin cromlech-hez. Ez a rejtett őskori helyszín lenyűgöző bepillantást nyújt a tágabb Touraine régió mély, ősi történelmébe.\n\nFejezze be útitervét a Le Pressoir-nál. Ahogy leszáll az est, ez a bájos történelmi birtok csendes, festői hátteret biztosít ahhoz, hogy elgondolkodjon a korszakokon átívelő utazásán.",
+        "ro": "Începeți-vă ziua de condus explorând periferia rurală liniștită la Château Grand Vau, urmată de ruinele romantice de la Puygibault. Condusul de dimineață oferă priveliști rurale senine.\n\nSpre amiază, parcați aproape de centrul orașului pentru a vizita Espace Agnès Sorel. O scurtă plimbare vă aduce apoi la minunea arhitecturală a Bisericii Saint-Ours, cu acoperișurile sale.\n\nDupă-amiaza, faceți o plimbare pitorească până la Cromlech de la Croix Bonnin. Acest sit preistoric ascuns oferă o privire fascinantă asupra istoriei antice profunde a regiunii extinse.\n\nÎncheiați-vă itinerariul la Le Pressoir. Pe măsură ce se lasă seara, această proprietate istorică fermecătoare oferă un fundal liniștit pentru a reflecta asupra călătoriei dumneavoastră.",
+        "en": "Start your driving day exploring the peaceful rural outskirts at Château Grand Vau, followed by the romantic ruins of Château de Puygibault. The morning drive offers serene countryside vistas.\n\nBy midday, park near the town center to visit the Espace Agnès Sorel. A short walk then brings you to the architectural marvel of the Saint-Ours Collegiate Church with its unique pyramidal roofs.\n\nIn the afternoon, take a scenic drive out to the Cromlech de la Croix Bonnin. This hidden prehistoric site offers a fascinating glimpse into the deep, ancient history of the wider Touraine region.\n\nConclude your itinerary at Le Pressoir. As the evening sets in, this charming historical estate provides a quiet, picturesque backdrop to reflect on your journey through the ages."
+      }
+    }
+  }
+}

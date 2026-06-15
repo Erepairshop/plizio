@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-sabaudia-cities-v2",
+  "anchor": {
+    "name": "Sabaudia",
+    "coords": [
+      13.02587,
+      41.30157
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salone San Francesco",
+            "hu": "Salone San Francesco",
+            "ro": "Salone San Francesco",
+            "en": "Salone San Francesco"
+          },
+          "coords": [
+            13.023005,
+            41.302256
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante rationalistische Architektur dieses Kulturhauses, um Sabaudias Ursprünge zu verstehen, und betrachten Sie die Fassade am besten im Morgenlicht.",
+            "hu": "Csodálja meg e kulturális csarnok lenyűgöző racionalista építészetét, hogy megértse Sabaudia eredetét, de mindenképpen a reggeli fényben nézze meg a homlokzatot.",
+            "ro": "Admirați arhitectura raționalistă izbitoare a acestei săli culturale pentru a înțelege originile Sabaudiei, asigurându-vă că vedeți fațada în lumina dimineții.",
+            "en": "Admire the striking rationalist architecture of this cultural hall to understand Sabaudia's origins, making sure to view the facade in the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Emilio Greco",
+            "hu": "Museo Emilio Greco",
+            "ro": "Museo Emilio Greco",
+            "en": "Museo Emilio Greco"
+          },
+          "coords": [
+            13.024505,
+            41.299811
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Bronzeskulpturen dieses berühmten italienischen Künstlers in ruhiger Umgebung, prüfen Sie jedoch vorab die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel e neves olasz művész elegáns bronzszobrait ebben a békés környezetben, de előtte feltétlenül ellenőrizze az évszakonként változó nyitvatartási időt.",
+            "ro": "Descoperiți sculpturile elegante din bronz ale acestui renumit artist italian într-un cadru liniștit, dar verificați în prealabil programul de vizitare care se schimbă sezonier.",
+            "en": "Discover the elegant bronze sculptures of this renowned Italian artist in a peaceful setting, but check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare e della Costa “Marcello Zei”",
+            "hu": "Museo del Mare e della Costa “Marcello Zei”",
+            "ro": "Museo del Mare e della Costa “Marcello Zei”",
+            "en": "Museo del Mare e della Costa “Marcello Zei”"
+          },
+          "coords": [
+            13.029613,
+            41.299084
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Meeresfossilien und Küstenartefakte, um die Geschichte des Tyrrhenischen Meeres zu lernen, und bringen Sie eine Kamera für die seltenen Muscheln mit.",
+            "hu": "Fedezze fel a lenyűgöző tengeri kövületeket és parti leleteket a Tirrén-tenger történetének megismeréséhez, és hozzon fényképezőgépet a ritka őskori kagylók megörökítéséhez.",
+            "ro": "Explorați fosile marine fascinante și artefacte de coastă pentru a afla istoria Mării Tireniene, aducând o cameră pentru a fotografia rarele scoici preistorice.",
+            "en": "Explore fascinating marine fossils and coastal artifacts to learn about the Tyrrhenian Sea's history, bringing a camera to photograph the rare prehistoric shells."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Azzurro",
+            "hu": "Lido Azzurro",
+            "ro": "Lido Azzurro",
+            "en": "Lido Azzurro"
+          },
+          "coords": [
+            13.011418,
+            41.29637
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem feinen goldenen Sand dieses beliebten Strandabschnitts, wo das kristallklare Wasser lockt, mieten Sie jedoch frühzeitig eine Sonnenliege.",
+            "hu": "Pihenjen ennek a népszerű partszakasznak a finom aranyhomokján, ahol a kristálytiszta víz hívogat, bár érdemes korán napozóágyat bérelni egy jó hely biztosításához.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei porțiuni de plajă populare unde apa cristalină vă îmbie, deși ar trebui să închiriați un șezlong devreme pentru un loc bun.",
+            "en": "Relax on the fine golden sands of this popular stretch of beach where the crystal-clear water invites you in, though you should rent a sunbed early to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamante Beach Club",
+            "hu": "Lamante Beach Club",
+            "ro": "Lamante Beach Club",
+            "en": "Lamante Beach Club"
+          },
+          "coords": [
+            13.009496,
+            41.29916
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über dem Meer in diesem eleganten Strandclub bei einem Aperitivo, vergessen Sie jedoch nicht, Ihren Tisch vorab zu reservieren.",
+            "hu": "Élvezze a tengeri naplementét ebben az elegáns strandklubban egy aperitif kíséretében, és a legjobb élmény érdekében ne felejtse el előre lefoglalni az asztalát.",
+            "ro": "Bucurați-vă de apusul de soare peste mare la acest club de plajă elegant la un aperitiv și nu uitați să rezervați o masă în avans pentru cea mai bună experiență.",
+            "en": "Soak up the sunset views over the sea at this elegant beach club while enjoying an aperitivo, and remember to book your table in advance for the best seaside experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im rationalistischen Herzen von Sabaudia, wo der Salone San Francesco und das Museo Emilio Greco in die Architektur und Kunst einführen. Mittags tauchen Sie im Marcello Zei Museum in die Meeresgeschichte ein und entdecken prähistorische Schätze. Der Nachmittag lädt Sie ein, am goldenen Sand des Lido Azzurro zu entspannen und die Meeresbrise zu genießen. Gegen Abend spazieren Sie zum stilvollen Lamante Beach Club für einen malerischen Sonnenuntergang über dem Tyrrhenischen Meer.",
+        "hu": "A reggel Sabaudia racionalista szívében indul, ahol a Salone San Francesco és az Emilio Greco Múzeum lenyűgöző bevezetést nyújt a város építészeti és művészeti gyökereibe. Délben a régió tengeri történelmével ismerkedhet meg a Marcello Zei Múzeumban. A délután arra csábít, hogy pihenjen a Lido Azzurro aranyhomokján, engedve, hogy a hűs tengeri szellő felfrissítse. Ahogy közeledik az este, sétáljon el a stílusos Lamante Beach Clubba, hogy megcsodálja a festői naplementét a hullámok felett.",
+        "ro": "Dimineața dumneavoastră începe în inima raționalistă a Sabaudiei, unde Salone San Francesco și Muzeul Emilio Greco oferă o introducere arhitecturală. La prânz, veți explora istoria antică la Muzeul Marcello Zei, descoperind comori preistorice uimitoare. După-amiaza vă invită să vă relaxați pe nisipurile aurii ale Lido Azzurro, lăsând briza mării să vă răcorească. Odată cu lăsarea serii, mergeți către elegantul Lamante Beach Club pentru un apus de soare pitoresc peste valurile mării Tireniene.",
+        "en": "Your morning starts in the rationalist heart of Sabaudia, where the Salone San Francesco and the Museo Emilio Greco provide a fascinating introduction to the town's architectural and artistic roots. At midday, you'll delve into the region's ancient marine history at the Marcello Zei Museum, uncovering prehistoric treasures. The afternoon invites you to relax on the golden sands of Lido Azzurro, letting the sea breeze refresh you. As evening approaches, stroll down to the stylish Lamante Beach Club for a picturesque sunset over the Tyrrhenian waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 7.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Emilio Greco",
+            "hu": "Museo Emilio Greco",
+            "ro": "Museo Emilio Greco",
+            "en": "Museo Emilio Greco"
+          },
+          "coords": [
+            13.024505,
+            41.299811
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten Bronzeskulpturen dieses berühmten italienischen Künstlers in ruhiger Umgebung, prüfen Sie jedoch vorab die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel e neves olasz művész elegáns bronzszobrait ebben a békés környezetben, de előtte feltétlenül ellenőrizze az évszakonként változó nyitvatartási időt.",
+            "ro": "Descoperiți sculpturile elegante din bronz ale acestui renumit artist italian într-un cadru liniștit, dar verificați în prealabil programul de vizitare care se schimbă sezonier.",
+            "en": "Discover the elegant bronze sculptures of this renowned Italian artist in a peaceful setting, but check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naturalistico",
+            "hu": "Museo Naturalistico",
+            "ro": "Museo Naturalistico",
+            "en": "Museo Naturalistico"
+          },
+          "coords": [
+            13.045775,
+            41.298045
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in die reiche Artenvielfalt des Nationalparks Circeo ein und fragen Sie das Personal nach einer kostenlosen Wanderkarte.",
+            "hu": "Merüljön el a Circeo Nemzeti Park gazdag biodiverzitásában a vonzó interaktív kiállításokon keresztül, és távozás előtt kérjen a személyzettől ingyenes turistatérképet.",
+            "ro": "Pătrundeți în bogata biodiversitate a Parcului Național Circeo prin expoziții interactive și cereți personalului o hartă gratuită a traseelor înainte de a pleca.",
+            "en": "Delve into the rich biodiversity of the Circeo National Park through engaging interactive displays, and ask the knowledgeable staff for a free trail map before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva della Biosfera UNESCO",
+            "hu": "Riserva della Biosfera UNESCO",
+            "ro": "Riserva della Biosfera UNESCO",
+            "en": "Riserva della Biosfera UNESCO"
+          },
+          "coords": [
+            13.049113,
+            41.288282
+          ],
+          "category": "natural",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie durch dieses geschützte Waldreservat, um unberührte mediterrane Natur zu erleben, bringen Sie aber unbedingt ausreichend Wasser und Insektenschutzmittel mit.",
+            "hu": "Kerékpározzon át ezen a védett erdőrezervátumon, hogy megtapasztalja az érintetlen mediterrán természetet, de vigyen magával bőséges vizet és rovarriasztót az útra.",
+            "ro": "Pedalați prin această rezervație forestieră protejată pentru a experimenta natura mediteraneană neatinsă, dar asigurați-vă că aduceți apă și repelent pentru insecte.",
+            "en": "Cycle through this protected forest reserve to experience untouched Mediterranean nature, but make sure to bring plenty of water and insect repellent for the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Coalsa",
+            "hu": "Lido Coalsa",
+            "ro": "Lido Coalsa",
+            "en": "Lido Coalsa"
+          },
+          "coords": [
+            13.007438,
+            41.302139
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses dynamischen Küstenortes, der sich perfekt für Wassersportler eignet, und ziehen Sie eine schnelle Windsurf-Lektion in Betracht.",
+            "hu": "Élvezze ennek a nyüzsgő tengerparti helynek az élénk atmoszféráját, amely tökéletes a vízi sportok szerelmeseinek, így érdemes megfontolni egy gyors szörfleckét.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui loc de coastă perfect pentru pasionații de sporturi nautice, așa că luați în considerare o lecție rapidă de windsurfing.",
+            "en": "Enjoy the lively atmosphere of this vibrant coastal spot which is perfect for water sports enthusiasts, so consider taking a quick windsurfing lesson during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamante Beach Club",
+            "hu": "Lamante Beach Club",
+            "ro": "Lamante Beach Club",
+            "en": "Lamante Beach Club"
+          },
+          "coords": [
+            13.009496,
+            41.29916
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über dem Meer in diesem eleganten Strandclub bei einem Aperitivo, vergessen Sie jedoch nicht, Ihren Tisch vorab zu reservieren.",
+            "hu": "Élvezze a tengeri naplementét ebben az elegáns strandklubban egy aperitif kíséretében, és a legjobb élmény érdekében ne felejtse el előre lefoglalni az asztalát.",
+            "ro": "Bucurați-vă de apusul de soare peste mare la acest club de plajă elegant la un aperitiv și nu uitați să rezervați o masă în avans pentru cea mai bună experiență.",
+            "en": "Soak up the sunset views over the sea at this elegant beach club while enjoying an aperitivo, and remember to book your table in advance for the best seaside experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit Kultur im Museo Emilio Greco und bewundern Sie wunderschöne Bronzewerke, bevor Sie das Zentrum verlassen. Gegen Mittag radeln Sie in den üppigen Nationalpark Circeo und entdecken im Museo Naturalistico die lokale Flora. Der Nachmittag ist einer malerischen Fahrt durch das friedliche UNESCO-Biosphärenreservat inmitten der Natur gewidmet. Schließlich erreichen Sie die lebhafte Küste am Lido Coalsa und beenden den Tag am Meer im Lamante Beach Club.",
+        "hu": "Kezdje kerékpáros túráját az Emilio Greco Múzeum kulturális élményével, csodás bronzszobrokat felfedezve, mielőtt elhagyja a városközpontot. Délben a buja Circeo Nemzeti Park felé tekerve megismerheti a helyi élővilágot a Természettudományi Múzeumban. A délutánt az UNESCO Bioszféra-rezervátum nyugodt útjainak szentelheti, teljesen körbevéve a természettel. Végül elérve a nyüzsgő partot a Lido Coalsánál, a napot a Lamante Beach Club tengerparti kilátásával zárhatja.",
+        "ro": "Începeți călătoria cu bicicleta cu o doză de cultură la Muzeul Emilio Greco, explorând frumoase lucrări din bronz înainte de a ieși din oraș. La prânz, pedalând spre Parcul Național Circeo, veți descoperi flora locală la Muzeul Naturalistic. După-amiaza este dedicată unei plimbări pitorești prin liniștita Rezervație a Biosferei UNESCO, complet înconjurați de natură. În cele din urmă, veți ajunge pe coasta la Lido Coalsa și veți încheia ziua la Lamante Beach Club.",
+        "en": "Kick off your cycling journey with a dose of culture at the Museo Emilio Greco, exploring beautiful bronze works before leaving the town center. By midday, pedaling towards the lush Circeo National Park, you'll discover local flora and fauna at the Museo Naturalistico. The afternoon is dedicated to a scenic ride through the tranquil UNESCO Biosphere Reserve, completely surrounded by nature. Finally, you will reach the vibrant coast at Lido Coalsa and end the day with seaside views at the Lamante Beach Club."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Mare e della Costa “Marcello Zei”",
+            "hu": "Museo del Mare e della Costa “Marcello Zei”",
+            "ro": "Museo del Mare e della Costa “Marcello Zei”",
+            "en": "Museo del Mare e della Costa “Marcello Zei”"
+          },
+          "coords": [
+            13.029613,
+            41.299084
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Meeresfossilien und Küstenartefakte, um die Geschichte des Tyrrhenischen Meeres zu lernen, und bringen Sie eine Kamera für die seltenen Muscheln mit.",
+            "hu": "Fedezze fel a lenyűgöző tengeri kövületeket és parti leleteket a Tirrén-tenger történetének megismeréséhez, és hozzon fényképezőgépet a ritka őskori kagylók megörökítéséhez.",
+            "ro": "Explorați fosile marine fascinante și artefacte de coastă pentru a afla istoria Mării Tireniene, aducând o cameră pentru a fotografia rarele scoici preistorice.",
+            "en": "Explore fascinating marine fossils and coastal artifacts to learn about the Tyrrhenian Sea's history, bringing a camera to photograph the rare prehistoric shells."
+          }
+        },
+        {
+          "name": {
+            "de": "Lestra",
+            "hu": "Lestra",
+            "ro": "Lestra",
+            "en": "Lestra"
+          },
+          "coords": [
+            13.049503,
+            41.293386
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese traditionellen Sumpfsiedlungsstrukturen für einen Einblick in das historische Landleben und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Figyelje meg ezeket a hagyományos mocsári településszerkezeteket, hogy bepillantást nyerjen a lecsapolás előtti vidéki életbe, stabil cipőt viselve az egyenetlen terephez.",
+            "ro": "Observați aceste structuri tradiționale de așezări din mlaștină pentru a vedea viața agricolă istorică, purtând încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Observe these traditional marshland settlement structures to glimpse pre-reclamation agricultural life, taking care to wear sturdy shoes for the uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva della Biosfera UNESCO",
+            "hu": "Riserva della Biosfera UNESCO",
+            "ro": "Riserva della Biosfera UNESCO",
+            "en": "Riserva della Biosfera UNESCO"
+          },
+          "coords": [
+            13.049113,
+            41.288282
+          ],
+          "category": "natural",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie durch dieses geschützte Waldreservat, um unberührte mediterrane Natur zu erleben, bringen Sie aber unbedingt ausreichend Wasser und Insektenschutzmittel mit.",
+            "hu": "Kerékpározzon át ezen a védett erdőrezervátumon, hogy megtapasztalja az érintetlen mediterrán természetet, de vigyen magával bőséges vizet és rovarriasztót az útra.",
+            "ro": "Pedalați prin această rezervație forestieră protejată pentru a experimenta natura mediteraneană neatinsă, dar asigurați-vă că aduceți apă și repelent pentru insecte.",
+            "en": "Cycle through this protected forest reserve to experience untouched Mediterranean nature, but make sure to bring plenty of water and insect repellent for the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Salone San Francesco",
+            "hu": "Salone San Francesco",
+            "ro": "Salone San Francesco",
+            "en": "Salone San Francesco"
+          },
+          "coords": [
+            13.023005,
+            41.302256
+          ],
+          "category": "cultural",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante rationalistische Architektur dieses Kulturhauses, um Sabaudias Ursprünge zu verstehen, und betrachten Sie die Fassade am besten im Morgenlicht.",
+            "hu": "Csodálja meg e kulturális csarnok lenyűgöző racionalista építészetét, hogy megértse Sabaudia eredetét, de mindenképpen a reggeli fényben nézze meg a homlokzatot.",
+            "ro": "Admirați arhitectura raționalistă izbitoare a acestei săli culturale pentru a înțelege originile Sabaudiei, asigurându-vă că vedeți fațada în lumina dimineții.",
+            "en": "Admire the striking rationalist architecture of this cultural hall to understand Sabaudia's origins, making sure to view the facade in the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Azzurro",
+            "hu": "Lido Azzurro",
+            "ro": "Lido Azzurro",
+            "en": "Lido Azzurro"
+          },
+          "coords": [
+            13.011418,
+            41.29637
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem feinen goldenen Sand dieses beliebten Strandabschnitts, wo das kristallklare Wasser lockt, mieten Sie jedoch frühzeitig eine Sonnenliege.",
+            "hu": "Pihenjen ennek a népszerű partszakasznak a finom aranyhomokján, ahol a kristálytiszta víz hívogat, bár érdemes korán napozóágyat bérelni egy jó hely biztosításához.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei porțiuni de plajă populare unde apa cristalină vă îmbie, deși ar trebui să închiriați un șezlong devreme pentru un loc bun.",
+            "en": "Relax on the fine golden sands of this popular stretch of beach where the crystal-clear water invites you in, though you should rent a sunbed early to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit maritimen Entdeckungen im Marcello Zei Museum, das die Entwicklung der Küste und ihrer Bewohner nachzeichnet. Mittags fahren Sie ins Landesinnere zu den historischen Lestra-Strukturen und ins unberührte UNESCO-Biosphärenreservat. Am Nachmittag kehren Sie ins Zentrum zurück, um das rationalistische Design des Salone San Francesco zu bewundern. Der Tag klingt am Lido Azzurro aus, wo Sie parken und den Sonnenuntergang am Ufer genießen können.",
+        "hu": "A festői autózás a Marcello Zei Múzeum tengeri felfedezéseivel kezdődik, visszakövetve a partvonal és ősi lakóinak fejlődését. Délben beljebb haladva a történelmi Lestra építményeit tekintheti meg, közvetlenül az érintetlen UNESCO Bioszféra-rezervátum előtt. Délután visszatér a központba, hogy megcsodálja a Salone San Francesco racionalista dizájnját. A nap tökéletesen zárul a Lido Azzurrónál, ahol a közelben parkolva élvezheti a tengerpart feletti élénk naplementét.",
+        "ro": "Plimbarea dumneavoastră începe cu descoperiri la Muzeul Marcello Zei, urmărind evoluția coastei locale și a locuitorilor săi antici. La prânz, mergeți spre interior pentru a vedea structurile istorice Lestra și Rezervația curată a Biosferei UNESCO. După-amiaza, vă întoarceți în centrul urban pentru a admira designul raționalist al Salone San Francesco. Ziua se încheie perfect la Lido Azzurro, unde puteți parca aproape și vă puteți bucura de apusul vibrant de pe țărm.",
+        "en": "Your scenic drive begins with maritime discoveries at the Marcello Zei Museum, tracing the evolution of the local coastline and its ancient inhabitants. Midday takes you further inland to see the historic Lestra structures, right before entering the pristine and expansive UNESCO Biosphere Reserve. In the afternoon, return to the urban center to admire the rationalist design of the Salone San Francesco. The day perfectly winds down at Lido Azzurro, where you can park nearby and enjoy the vibrant sunset over the shore."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "argeles-sur-mer",
+  "anchor": {
+    "name": "Argelès-sur-Mer",
+    "coords": [
+      3.0239,
+      42.5461
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Church of Notre-Dame del Prat",
+            "hu": "Church of Notre-Dame del Prat",
+            "ro": "Church of Notre-Dame del Prat",
+            "en": "Church of Notre-Dame del Prat"
+          },
+          "coords": [
+            3.022556,
+            42.546306
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese beeindruckende Festungskirche aus dem 14. Jahrhundert spiegelt den katalanischen Gotikstil wider, also besuchen Sie sie früh für das beste Licht.",
+            "hu": "Ez a lenyűgöző 14. századi erődtemplom a katalán gótikus stílus tökéletes példája, amelyet a legjobb fényviszonyok érdekében korán érdemes meglátogatni.",
+            "ro": "Această biserică fortificată impresionantă din secolul al XIV-lea reflectă stilul gotic catalan, așa că vizitați-o devreme pentru o lumină perfectă.",
+            "en": "This impressive 14th-century fortified church beautifully reflects the Catalan Gothic style, so visit early in the morning to enjoy the best interior light."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorial of the Argelès Camp",
+            "hu": "Memorial of the Argelès Camp",
+            "ro": "Memorial of the Argelès Camp",
+            "en": "Memorial of the Argelès Camp"
+          },
+          "coords": [
+            3.023549,
+            42.546095
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum bietet tiefgreifende Einblicke in das Schicksal spanischer Flüchtlinge von 1939, daher sollten Sie sich genügend Zeit für die Ausstellung nehmen.",
+            "hu": "A múzeum mélyreható bepillantást nyújt az 1939-es spanyol menekültek sorsába, ezért érdemes elegendő időt szánni a megrendítő kiállítás alapos megtekintésére.",
+            "ro": "Muzeul oferă o perspectivă profundă asupra soartei refugiaților spanioli din 1939, prin urmare alocați suficient timp pentru a parcurge expoziția emoționantă.",
+            "en": "The museum offers profound insights into the tragic fate of Spanish refugees in 1939, so ensure you allocate plenty of time to absorb the touching exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropical Golf",
+            "hu": "Tropical Golf",
+            "ro": "Tropical Golf",
+            "en": "Tropical Golf"
+          },
+          "coords": [
+            3.040152,
+            42.549781
+          ],
+          "category": "family",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Zwei unterhaltsame Minigolfplätze inmitten üppiger mediterraner Pflanzenwelt bieten den perfekten Spaß für Familien, wenn Sie bequeme Wanderschuhe tragen.",
+            "hu": "A buja mediterrán növényvilág közepén elterülő két szórakoztató minigolfpálya tökéletes családi program, amelyhez érdemes kényelmes sétacipőt viselnie.",
+            "ro": "Două terenuri distractive de minigolf înconjurate de plante mediteraneene luxuriante oferă o experiență de familie perfectă, dacă purtați încălțăminte comodă.",
+            "en": "Two highly entertaining minigolf courses surrounded by lush Mediterranean plants offer perfect family fun, making it wise to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jardin Enchanté",
+            "hu": "Le Jardin Enchanté",
+            "ro": "Le Jardin Enchanté",
+            "en": "Le Jardin Enchanté"
+          },
+          "coords": [
+            3.044013,
+            42.552898
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser zauberhafte, schattige Park ist eine Oase der Ruhe abseits des städtischen Trubels, also bringen Sie ein Buch mit und entspannen Sie auf einer Bank.",
+            "hu": "Ez a varázslatos, árnyékos park a béke oázisa a város nyüzsgésétől távol, így hozzon magával egy jó könyvet és pihenjen meg kényelmesen az egyik padon.",
+            "ro": "Acest parc umbrit și fermecător este o oază de liniște departe de agitația orașului, așa că aduceți o carte bună și relaxați-vă confortabil pe o bancă.",
+            "en": "This enchanting, shaded park provides a lovely oasis of peace away from the urban bustle, making it the perfect spot to bring a book and relax on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Argelès Beach",
+            "hu": "Argelès Beach",
+            "ro": "Argelès Beach",
+            "en": "Argelès Beach"
+          },
+          "coords": [
+            3.047326,
+            42.553254
+          ],
+          "category": "natural",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der weitläufige Sandstrand vor der Kulisse der Pyrenäen ist absolut spektakulär, daher sollten Sie unbedingt Sonnenschutz und Handtücher für das Bad einpacken.",
+            "hu": "A Pireneusok lábánál elterülő hatalmas homokos tengerpart lenyűgöző látványt nyújt, ezért mindenképpen vigyen magával naptejet és törölközőt a fürdőzéshez.",
+            "ro": "Plaja vastă de nisip cu fundalul spectaculos al Pirineilor este superbă, de aceea este esențial să vă împachetați protecție solară și prosoape pentru baie.",
+            "en": "The expansive sandy beach set against the dramatic backdrop of the Pyrenees is spectacular, so make sure to pack ample sunscreen and towels for a refreshing swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag im charmanten Zentrum von Argelès an der gotischen Kirche und tauchen Sie in die Geschichte ein. Später erinnert das Memorial bewegend an die Vergangenheit der Region. Der Nachmittag wird mit Minigolf und entspannten Momenten im Jardin Enchanté deutlich spielerischer. Beenden Sie den perfekten Tag am endlosen Sandstrand von Argelès-sur-Mer.",
+        "hu": "Kezdje a napot Argelès bájos központjában a gótikus templomnál, és merüljön el a gazdag történelemben. Később a Memorial meghatóan emlékeztet a régió múltjára. A délután a minigolffal és a Jardin Enchanté pihentető pillanataival sokkal játékosabb lesz. Zárja a tökéletes napot Argelès-sur-Mer végtelen, homokos tengerpartján, élvezve a lágy tengeri szellőt.",
+        "ro": "Începeți ziua în centrul fermecător la biserica gotică și explorați istoria bogată a zonei. Mai târziu, Memorialul vă va aminti emoționant de trecutul regiunii. După-amiaza devine mai interactivă cu minigolf și momente relaxante la Jardin Enchanté. Încheiați o zi perfectă pe plaja nesfârșită de nisip din Argelès-sur-Mer cu briza mării.",
+        "en": "Start your day in the charming center of Argelès at the historic Gothic church to immerse yourself in local history. Later, the Memorial movingly reflects on the region's complex past. The afternoon takes a more playful turn with minigolf and deeply relaxing moments spent within the Jardin Enchanté. End the perfect day on the endless sandy beach of Argelès-sur-Mer."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Church of Notre-Dame del Prat",
+            "hu": "Church of Notre-Dame del Prat",
+            "ro": "Church of Notre-Dame del Prat",
+            "en": "Church of Notre-Dame del Prat"
+          },
+          "coords": [
+            3.022556,
+            42.546306
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese beeindruckende Festungskirche aus dem 14. Jahrhundert spiegelt den katalanischen Gotikstil wider, also besuchen Sie sie früh für das beste Licht.",
+            "hu": "Ez a lenyűgöző 14. századi erődtemplom a katalán gótikus stílus tökéletes példája, amelyet a legjobb fényviszonyok érdekében korán érdemes meglátogatni.",
+            "ro": "Această biserică fortificată impresionantă din secolul al XIV-lea reflectă stilul gotic catalan, așa că vizitați-o devreme pentru o lumină perfectă.",
+            "en": "This impressive 14th-century fortified church beautifully reflects the Catalan Gothic style, so visit early in the morning to enjoy the best interior light."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorial of the Argelès Camp",
+            "hu": "Memorial of the Argelès Camp",
+            "ro": "Memorial of the Argelès Camp",
+            "en": "Memorial of the Argelès Camp"
+          },
+          "coords": [
+            3.023549,
+            42.546095
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum bietet tiefgreifende Einblicke in das Schicksal spanischer Flüchtlinge von 1939, daher sollten Sie sich genügend Zeit für die Ausstellung nehmen.",
+            "hu": "A múzeum mélyreható bepillantást nyújt az 1939-es spanyol menekültek sorsába, ezért érdemes elegendő időt szánni a megrendítő kiállítás alapos megtekintésére.",
+            "ro": "Muzeul oferă o perspectivă profundă asupra soartei refugiaților spanioli din 1939, prin urmare alocați suficient timp pentru a parcurge expoziția emoționantă.",
+            "en": "The museum offers profound insights into the tragic fate of Spanish refugees in 1939, so ensure you allocate plenty of time to absorb the touching exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Valmy Park",
+            "hu": "Valmy Park",
+            "ro": "Valmy Park",
+            "en": "Valmy Park"
+          },
+          "coords": [
+            3.030091,
+            42.530151
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der großzügige Schlosspark bietet wunderbare Picknickplätze mit Blick auf das Mittelmeer, weshalb Sie unbedingt lokale Snacks für eine kleine Pause mitbringen sollten.",
+            "hu": "A kastély tágas parkja csodálatos piknikezőhelyeket kínál a Földközi-tengerre néző kilátással, ezért érdemes helyi finomságokat hozni egy kellemes pihenőhöz.",
+            "ro": "Parcul generos al castelului oferă locuri minunate de picnic cu vedere la Marea Mediterană, de aceea aduceți gustări locale pentru o pauză relaxantă la soare.",
+            "en": "The generous castle park offers wonderful picnic spots overlooking the Mediterranean Sea, which means you should definitely bring local snacks for a scenic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Valmy Castle",
+            "hu": "Valmy Castle",
+            "ro": "Valmy Castle",
+            "en": "Valmy Castle"
+          },
+          "coords": [
+            3.02894,
+            42.5309
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses architektonische Juwel aus dem späten 19. Jahrhundert ist ein beliebtes Fotomotiv, also spazieren Sie durch die Gärten, um die besten Winkel zu finden.",
+            "hu": "Ez a 19. század végi építészeti remekmű hihetetlenül népszerű fotótéma, ezért sétáljon végig a kerteken a leglátványosabb szögek megtalálása érdekében.",
+            "ro": "Această bijuterie arhitecturală de la sfârșitul secolului al XIX-lea este un subiect foto iubit, așa că plimbați-vă prin grădini pentru a găsi cele mai bune unghiuri.",
+            "en": "This architectural gem from the late 19th century remains a highly popular photo subject, so wander thoroughly through the gardens to discover the best angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Racou",
+            "hu": "Le Racou",
+            "ro": "Le Racou",
+            "en": "Le Racou"
+          },
+          "coords": [
+            3.055,
+            42.535
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Das charmante Fischerdorf markiert den malerischen Übergang vom Sandstrand zur Felsenküste, weshalb sich ein Spaziergang entlang der schmalen Gassen sehr lohnt.",
+            "hu": "A bájos halászfalu a homokos part és a sziklás tengerpart festői találkozását jelzi, amiért a szűk, hangulatos sikátorokban tett séta mindenképpen megéri.",
+            "ro": "Fermecătorul sat de pescari marchează tranziția pitorească de la plaja cu nisip la coasta stâncoasă, de aceea o plimbare pe străduțele sale este foarte recomandată.",
+            "en": "The charming fishing village perfectly marks the scenic transition from sandy beach to rocky coast, making a leisurely stroll along its narrow alleys highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Argelès Beach",
+            "hu": "Argelès Beach",
+            "ro": "Argelès Beach",
+            "en": "Argelès Beach"
+          },
+          "coords": [
+            3.047326,
+            42.553254
+          ],
+          "category": "natural",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Der weitläufige Sandstrand vor der Kulisse der Pyrenäen ist absolut spektakulär, daher sollten Sie unbedingt Sonnenschutz und Handtücher für das Bad einpacken.",
+            "hu": "A Pireneusok lábánál elterülő hatalmas homokos tengerpart lenyűgöző látványt nyújt, ezért mindenképpen vigyen magával naptejet és törölközőt a fürdőzéshez.",
+            "ro": "Plaja vastă de nisip cu fundalul spectaculos al Pirineilor este superbă, de aceea este esențial să vă împachetați protecție solară și prosoape pentru baie.",
+            "en": "The expansive sandy beach set against the dramatic backdrop of the Pyrenees is spectacular, so make sure to pack ample sunscreen and towels for a refreshing swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour beginnt in den historischen Gassen der Stadt und führt Sie zu bedeutenden Erinnerungsstätten. Treten Sie dann in die Pedale zum Valmy Park, wo die majestätische Burg auf Sie wartet. Am Nachmittag rollen Sie gemütlich an die Küste zum malerischen Le Racou, wo die Felsen beginnen. Den krönenden Abschluss bildet der weitläufige Strand bei Sonnenuntergang.",
+        "hu": "A kerékpártúra a város történelmi utcáin kezdődik, és fontos emlékhelyekhez vezeti Önt. Ezt követően tekerjen a Valmy Parkba, ahol a fenséges kastély várja. Délután kényelmesen guruljon le a tengerpartra, a festői Le Racou felé, ahol a sziklák kezdődnek. A túra koronája az Argelès strand, ahol élvezheti a gyönyörű naplementét.",
+        "ro": "Turul cu bicicleta începe pe străzile istorice, ducându-vă spre situri de o memorie profundă. Pedalați apoi spre Parcul Valmy, unde vă așteaptă castelul maiestuos. După-amiaza, coborâți confortabil spre coasta pitorească Le Racou, unde încep stâncile dramatice. Punctul culminant al traseului este plaja vastă la apusul soarelui blând.",
+        "en": "The bike tour begins through the city's historical streets, leading you toward sites of profound memory. You then pedal uphill towards Valmy Park, where the majestic castle awaits exploration. In the afternoon, smoothly roll down to the coast towards the highly picturesque Le Racou. The crowning finish takes place along the sprawling Argelès beach before dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Memorial of the Argelès Camp",
+            "hu": "Memorial of the Argelès Camp",
+            "ro": "Memorial of the Argelès Camp",
+            "en": "Memorial of the Argelès Camp"
+          },
+          "coords": [
+            3.023549,
+            42.546095
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Museum bietet tiefgreifende Einblicke in das Schicksal spanischer Flüchtlinge von 1939, daher sollten Sie sich genügend Zeit für die Ausstellung nehmen.",
+            "hu": "A múzeum mélyreható bepillantást nyújt az 1939-es spanyol menekültek sorsába, ezért érdemes elegendő időt szánni a megrendítő kiállítás alapos megtekintésére.",
+            "ro": "Muzeul oferă o perspectivă profundă asupra soartei refugiaților spanioli din 1939, prin urmare alocați suficient timp pentru a parcurge expoziția emoționantă.",
+            "en": "The museum offers profound insights into the tragic fate of Spanish refugees in 1939, so ensure you allocate plenty of time to absorb the touching exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Valmy Castle",
+            "hu": "Valmy Castle",
+            "ro": "Valmy Castle",
+            "en": "Valmy Castle"
+          },
+          "coords": [
+            3.02894,
+            42.5309
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Dieses architektonische Juwel aus dem späten 19. Jahrhundert ist ein beliebtes Fotomotiv, also spazieren Sie durch die Gärten, um die besten Winkel zu finden.",
+            "hu": "Ez a 19. század végi építészeti remekmű hihetetlenül népszerű fotótéma, ezért sétáljon végig a kerteken a leglátványosabb szögek megtalálása érdekében.",
+            "ro": "Această bijuterie arhitecturală de la sfârșitul secolului al XIX-lea este un subiect foto iubit, așa că plimbați-vă prin grădini pentru a găsi cele mai bune unghiuri.",
+            "en": "This architectural gem from the late 19th century remains a highly popular photo subject, so wander thoroughly through the gardens to discover the best angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin",
+            "hu": "Bassin",
+            "ro": "Bassin",
+            "en": "Bassin"
+          },
+          "coords": [
+            3.033632,
+            42.512048
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Dieses ruhige Wasserbecken in der Natur bietet einen fantastischen Kontrast zum Küstentrubel, also beobachten Sie hier leise die lokale Vogelwelt und entspannen Sie.",
+            "hu": "Ez a természetes, nyugodt vízmedence fantasztikus kontrasztot kínál a parti nyüzsgéssel szemben, így érdemes itt csendben megfigyelni a helyi madárvilágot.",
+            "ro": "Acest bazin de apă liniștit din natură oferă un contrast fantastic cu agitația de pe coastă, deci priviți în liniște păsările locale și relaxați-vă.",
+            "en": "This tranquil natural water basin provides a fantastic contrast to the bustling coastal areas, making it an excellent place to quietly observe local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Racou",
+            "hu": "Le Racou",
+            "ro": "Le Racou",
+            "en": "Le Racou"
+          },
+          "coords": [
+            3.055,
+            42.535
+          ],
+          "category": "natural",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Das charmante Fischerdorf markiert den malerischen Übergang vom Sandstrand zur Felsenküste, weshalb sich ein Spaziergang entlang der schmalen Gassen sehr lohnt.",
+            "hu": "A bájos halászfalu a homokos part és a sziklás tengerpart festői találkozását jelzi, amiért a szűk, hangulatos sikátorokban tett séta mindenképpen megéri.",
+            "ro": "Fermecătorul sat de pescari marchează tranziția pitorească de la plaja cu nisip la coasta stâncoasă, de aceea o plimbare pe străduțele sale este foarte recomandată.",
+            "en": "The charming fishing village perfectly marks the scenic transition from sandy beach to rocky coast, making a leisurely stroll along its narrow alleys highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Argelès Beach",
+            "hu": "Argelès Beach",
+            "ro": "Argelès Beach",
+            "en": "Argelès Beach"
+          },
+          "coords": [
+            3.047326,
+            42.553254
+          ],
+          "category": "natural",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Der weitläufige Sandstrand vor der Kulisse der Pyrenäen ist absolut spektakulär, daher sollten Sie unbedingt Sonnenschutz und Handtücher für das Bad einpacken.",
+            "hu": "A Pireneusok lábánál elterülő hatalmas homokos tengerpart lenyűgöző látványt nyújt, ezért mindenképpen vigyen magával naptejet és törölközőt a fürdőzéshez.",
+            "ro": "Plaja vastă de nisip cu fundalul spectaculos al Pirineilor este superbă, de aceea este esențial să vă împachetați protecție solară și prosoape pentru baie.",
+            "en": "The expansive sandy beach set against the dramatic backdrop of the Pyrenees is spectacular, so make sure to pack ample sunscreen and towels for a refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            3.03593,
+            42.575633
+          ],
+          "category": "family",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der lebhafte Vergnügungspark wird am späten Nachmittag magisch beleuchtet, weshalb Sie genügend Bargeld für die rasanten Fahrgeschäfte und süßen Leckereien bereithalten sollten.",
+            "hu": "A nyüzsgő vidámpark a késő délutáni órákban varázslatos kivilágítást kap, ezért tartson magánál elegendő készpénzt a gyors körhintákra és az édességekre.",
+            "ro": "Parcul de distracții plin de viață este luminat magic după-amiaza târziu, așadar pregătiți suficienți bani gheață pentru atracțiile rapide și bunătățile dulci.",
+            "en": "The lively amusement park becomes magically illuminated by late afternoon, which is why you should keep enough cash handy for the thrilling rides and sweet treats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Memorial, um die emotionale Geschichte der Region zu spüren. Danach steuern Sie das beeindruckende Schloss Valmy an, das hoch über dem Meer thront. Nach einem friedlichen Naturstopp am Bassin geht es weiter in das charmante Fischerdorf Le Racou. Nach einer Pause am Hauptstrand wartet im Luna Park pure Unterhaltung auf Sie.",
+        "hu": "Kezdje útját a Memorialnál, hogy átérezze a régió mély és érzelmes történelmét. Ezután vegye az irányt a lenyűgöző Valmy kastély felé, amely a tenger felett magasodik. A Bassin melletti békés megálló után utazzon tovább a bájos Le Racou halászfaluba. A fő tengerparti pihenőt követően a Luna Park pörgős szórakozása várja Önt.",
+        "ro": "Începeți traseul la Memorial pentru a simți istoria emoționantă a regiunii noastre. După aceea, conduceți către impresionantul Castel Valmy, așezat deasupra mării azurii. După o oprire pașnică în natură la Bassin, continuați spre fermecătorul sat pescăresc Le Racou. După relaxarea pe plajă, parcul de distracții Luna Park vă așteaptă cu bucurie.",
+        "en": "Start your drive at the Memorial to truly feel the emotional and complex history of the region. Afterward, navigate towards the impressive Valmy Castle, perched majestically high above the sea. Following a peaceful nature stop at the Bassin, drive to the charming fishing village of Le Racou. Following beach relaxation, Luna Park offers thrilling evening entertainment."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "riom",
+  "anchor": {
+    "name": "Riom",
+    "coords": [
+      3.1125,
+      45.8936
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 1.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Virlogeux",
+            "hu": "Square Virlogeux",
+            "ro": "Square Virlogeux",
+            "en": "Square Virlogeux"
+          },
+          "coords": [
+            3.114367,
+            45.890465
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Square Virlogeux, einem perfekten Ausgangspunkt, der das lokale Leben widerspiegelt, und holen Sie sich einen frischen Kaffee an der Ecke.",
+            "hu": "Csodálja meg a Square Virlogeux nyüzsgő hangulatát, amely tökéletes kiindulópont a helyi élet megismeréséhez, és vegyen egy friss kávét a sarki kávézóban indulás előtt.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din Square Virlogeux, un punct de plecare perfect care reflectă viața locală, și savurați o cafea proaspătă la o cafenea din apropiere.",
+            "en": "Admire the lively atmosphere of Square Virlogeux, a perfect starting point that reflects local life, and grab a fresh coffee at a nearby corner cafe before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Amable",
+            "hu": "Saint-Amable Bazilika",
+            "ro": "Bazilica Saint-Amable",
+            "en": "Basilica of Saint-Amable"
+          },
+          "coords": [
+            3.113038,
+            45.893858
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende romanische Architektur dieser historischen Basilika, die dem Schutzpatron der Stadt gewidmet ist, und werfen Sie ruhig einen Blick auf die bunten Glasfenster.",
+            "hu": "Csodálja meg ennek a város védőszentjének szentelt történelmi bazilikának a lenyűgöző román stílusú építészetét, és mindenképpen lépjen be csendben a bonyolult ólomüveg ablakok megtekintéséhez.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei bazilici istorice, dedicată sfântului patron al orașului, și asigurați-vă că intrați în liniște pentru a vedea vitraliile complicate.",
+            "en": "Marvel at the stunning Romanesque architecture of this historic basilica, dedicated to the town's patron saint, making sure to step inside quietly to view the intricate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Konsuln",
+            "hu": "Konzulok Háza",
+            "ro": "Casa Consulilor",
+            "en": "House of the Consuls"
+          },
+          "coords": [
+            3.114312,
+            45.893748
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die aufwendig geschnitzte Steinfassade des Hauses der Konsuln, ein Zeugnis von Rioms reicher Verwaltungsgeschichte, und zoomen Sie mit Ihrer Kamera heran, um die feinen Renaissance-Details einzufangen.",
+            "hu": "Vizsgálja meg a Konzulok Házának bonyolultan faragott kőhomlokzatát, amely Riom gazdag közigazgatási történelmének bizonyítéka, és használja a kamera zoomját a finom reneszánsz részletek megörökítéséhez.",
+            "ro": "Examinați fațada de piatră sculptată complex a Casei Consulilor, o mărturie a istoriei administrative bogate a orașului Riom, și măriți cu camera pentru a surprinde detaliile fine renascentiste.",
+            "en": "Examine the intricately carved stone facade of the House of the Consuls, a testament to Riom's rich administrative history, and zoom in with your camera to capture the fine Renaissance details."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            3.113681,
+            45.894069
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Uhrenturm aus der Renaissancezeit für einen unvergleichlichen Panoramablick auf die roten Dächer von Riom, aber tragen Sie bequeme Schuhe für die steile Wendeltreppe.",
+            "hu": "Mássza meg a reneszánsz kori óratornyot, ahonnan páratlan panoráma nyílik Riom vörös háztetőire, de viseljen kényelmes cipőt a meredek és kanyargós lépcsőkhöz.",
+            "ro": "Urcați în Turnul cu Ceas din epoca Renașterii pentru o vedere panoramică inegalabilă asupra acoperișurilor roșii din Riom, dar purtați pantofi comozi pentru scara abruptă și întortocheată.",
+            "en": "Climb the Renaissance-era Clock Tower for an unparalleled panoramic view of the red rooftops of Riom, but wear comfortable shoes for the steep, winding staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandet-Museum",
+            "hu": "Mandet Múzeum",
+            "ro": "Muzeul Mandet",
+            "en": "Mandet Museum"
+          },
+          "coords": [
+            3.116667,
+            45.893611
+          ],
+          "category": "museum",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung von bildender Kunst und Dekorationsstücken im Mandet-Museum und verpassen Sie auf keinen Fall die moderne Silberausstellung im Erdgeschoss.",
+            "hu": "Fedezze fel a Mandet Múzeum évszázadokat átfogó, lenyűgöző képzőművészeti és díszítőművészeti gyűjteményét, és ne hagyja ki a földszinten található modern ötvösművészeti kiállítást.",
+            "ro": "Explorați colecția fascinantă de arte plastice și piese decorative care se întinde pe parcursul a secole în Muzeul Mandet, și nu ratați expoziția de argintărie modernă de la parter.",
+            "en": "Explore the fascinating collection of fine arts and decorative pieces spanning centuries in the Mandet Museum, and don't miss the modern silverwork exhibit on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Chapelle von Riom",
+            "hu": "Riomi Sainte-Chapelle",
+            "ro": "Sainte-Chapelle din Riom",
+            "en": "Sainte-Chapelle of Riom"
+          },
+          "coords": [
+            3.117169,
+            45.894724
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese majestätische gotische Kapelle aus dem 15. Jahrhundert ein, die für ihre originalen Buntglasfenster bekannt ist, und versuchen Sie, mittags zu kommen, wenn das Sonnenlicht die Farben erstrahlen lässt.",
+            "hu": "Lépjen be ebbe a fenséges 15. századi gótikus kápolnába, amely eredeti ólomüveg ablakairól híres, és próbáljon meg dél körül érkezni, amikor a napfény gyönyörűen megvilágítja a színeket.",
+            "ro": "Pășiți în această maiestuoasă capelă gotică din secolul al XV-lea, renumită pentru vitraliile sale originale strălucitoare, și încercați să vizitați în jurul prânzului, când lumina soarelui luminează frumos culorile.",
+            "en": "Step inside this majestic 15th-century Gothic chapel, renowned for its brilliant original stained glass windows, and try to visit around noon when the sunlight illuminates the colors beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais de Justice",
+            "hu": "Igazságügyi Palota",
+            "ro": "Palais de Justice",
+            "en": "Palais de Justice"
+          },
+          "coords": [
+            3.117341,
+            45.895169
+          ],
+          "category": "civic",
+          "arrive_at": "15:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die neoklassizistische Pracht des lokalen Palais de Justice, das an der Stelle des ehemaligen Herzogsschlosses erbaut wurde, und bewundern Sie den majestätischen Innenhof durch die eisernen Haupttore.",
+            "hu": "Figyelje meg a helyi Igazságügyi Palota neoklasszicista pompáját, amely a hercegek egykori kastélyának helyén épült, és csodálja meg a fenséges udvart a fő vasajtókon keresztül.",
+            "ro": "Observați măreția neoclasică a Palatului de Justiție local, construit pe fostul loc al castelului ducilor, și admirați curtea maiestuoasă prin porțile principale de fier.",
+            "en": "Observe the neoclassical grandeur of the local Palais de Justice, built on the former site of the dukes' castle, and admire the majestic courtyard through the main iron gates."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Square Virlogeux, bevor Sie ins historische Herz von Riom aufbrechen, um die großartige Basilika Saint-Amable zu bestaunen.\nSchlendern Sie durch die Straßen, bewundern Sie das Haus der Konsuln und besteigen Sie den berühmten Uhrenturm für einen fantastischen Panoramablick.\nTauchen Sie im Mandet-Museum in die Geschichte ein, gefolgt von den atemberaubenden Buntglasfenstern der Sainte-Chapelle de Riom aus der Auvergne.\nBeenden Sie Ihren Tag mit einem Blick auf die neoklassizistische Fassade des Palais de Justice, wenn das späte Nachmittagslicht die vulkanischen Steine mildert.",
+        "hu": "Kezdje a gyalogos túrát a Square Virlogeux-n, majd induljon el Riom történelmi szívébe, hogy megcsodálja a fenséges Saint-Amable bazilikát.\nSétáljon a hangulatos utcákon, csodálja meg a Konzulok Házát, és mássza meg az ikonikus óratornyot, ahonnan csodálatos kilátás nyílik a régióra.\nMerüljön el a történelemben a Mandet Múzeumban, majd nézze meg a riomi Sainte-Chapelle lélegzetelállító ólomüveg ablakait.\nZárja a tartalmas napot az Igazságügyi Palota neoklasszicista homlokzatának megcsodálásával, ahogy a késő délutáni fény megvilágítja a köveket.",
+        "ro": "Începeți turul pietonal în Square Virlogeux înainte de a vă îndrepta spre inima istorică a orașului Riom pentru a admira grandioasa Bazilică Saint-Amable.\nPlimbați-vă pe străzile fermecătoare, admirați Casa Consulilor și urcați în emblematicul Turn cu Ceas pentru a vă bucura de o priveliște panoramică.\nAprofundați istoria la Muzeul Mandet, urmat de vitraliile uluitoare ale Sainte-Chapelle din Riom, reflectând trecutul glorios al regiunii Auvergne.\nÎncheiați ziua admirând fațada neoclasică a Palatului de Justiție, în timp ce lumina după-amiezii târzii înmoaie pietrele vulcanice antice.",
+        "en": "Begin your walking tour at Square Virlogeux to soak in the morning ambiance before heading into the historic heart of Riom to marvel at the grand Basilica of Saint-Amable.\nStroll along the charming streets, taking time to admire the intricately carved House of the Consuls and ascend the iconic Clock Tower for sweeping views of the region.\nDive into history at the Mandet Museum, followed by the breathtaking stained glass of the Sainte-Chapelle of Riom, reflecting the glorious past of the Auvergne.\nConclude your immersive walking day by admiring the majestic neoclassical facade of the Palais de Justice as the late afternoon light softens the ancient volcanic stones."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 2.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Virlogeux",
+            "hu": "Square Virlogeux",
+            "ro": "Square Virlogeux",
+            "en": "Square Virlogeux"
+          },
+          "coords": [
+            3.114367,
+            45.890465
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Square Virlogeux, einem perfekten Ausgangspunkt, der das lokale Leben widerspiegelt, und holen Sie sich einen frischen Kaffee an der Ecke.",
+            "hu": "Csodálja meg a Square Virlogeux nyüzsgő hangulatát, amely tökéletes kiindulópont a helyi élet megismeréséhez, és vegyen egy friss kávét a sarki kávézóban indulás előtt.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din Square Virlogeux, un punct de plecare perfect care reflectă viața locală, și savurați o cafea proaspătă la o cafenea din apropiere.",
+            "en": "Admire the lively atmosphere of Square Virlogeux, a perfect starting point that reflects local life, and grab a fresh coffee at a nearby corner cafe before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Amable",
+            "hu": "Saint-Amable Bazilika",
+            "ro": "Bazilica Saint-Amable",
+            "en": "Basilica of Saint-Amable"
+          },
+          "coords": [
+            3.113038,
+            45.893858
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende romanische Architektur dieser historischen Basilika, die dem Schutzpatron der Stadt gewidmet ist, und werfen Sie ruhig einen Blick auf die bunten Glasfenster.",
+            "hu": "Csodálja meg ennek a város védőszentjének szentelt történelmi bazilikának a lenyűgöző román stílusú építészetét, és mindenképpen lépjen be csendben a bonyolult ólomüveg ablakok megtekintéséhez.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei bazilici istorice, dedicată sfântului patron al orașului, și asigurați-vă că intrați în liniște pentru a vedea vitraliile complicate.",
+            "en": "Marvel at the stunning Romanesque architecture of this historic basilica, dedicated to the town's patron saint, making sure to step inside quietly to view the intricate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            3.113681,
+            45.894069
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Uhrenturm aus der Renaissancezeit für einen unvergleichlichen Panoramablick auf die roten Dächer von Riom, aber tragen Sie bequeme Schuhe für die steile Wendeltreppe.",
+            "hu": "Mássza meg a reneszánsz kori óratornyot, ahonnan páratlan panoráma nyílik Riom vörös háztetőire, de viseljen kényelmes cipőt a meredek és kanyargós lépcsőkhöz.",
+            "ro": "Urcați în Turnul cu Ceas din epoca Renașterii pentru o vedere panoramică inegalabilă asupra acoperișurilor roșii din Riom, dar purtați pantofi comozi pentru scara abruptă și întortocheată.",
+            "en": "Climb the Renaissance-era Clock Tower for an unparalleled panoramic view of the red rooftops of Riom, but wear comfortable shoes for the steep, winding staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandet-Museum",
+            "hu": "Mandet Múzeum",
+            "ro": "Muzeul Mandet",
+            "en": "Mandet Museum"
+          },
+          "coords": [
+            3.116667,
+            45.893611
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung von bildender Kunst und Dekorationsstücken im Mandet-Museum und verpassen Sie auf keinen Fall die moderne Silberausstellung im Erdgeschoss.",
+            "hu": "Fedezze fel a Mandet Múzeum évszázadokat átfogó, lenyűgöző képzőművészeti és díszítőművészeti gyűjteményét, és ne hagyja ki a földszinten található modern ötvösművészeti kiállítást.",
+            "ro": "Explorați colecția fascinantă de arte plastice și piese decorative care se întinde pe parcursul a secole în Muzeul Mandet, și nu ratați expoziția de argintărie modernă de la parter.",
+            "en": "Explore the fascinating collection of fine arts and decorative pieces spanning centuries in the Mandet Museum, and don't miss the modern silverwork exhibit on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Chapelle von Riom",
+            "hu": "Riomi Sainte-Chapelle",
+            "ro": "Sainte-Chapelle din Riom",
+            "en": "Sainte-Chapelle of Riom"
+          },
+          "coords": [
+            3.117169,
+            45.894724
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese majestätische gotische Kapelle aus dem 15. Jahrhundert ein, die für ihre originalen Buntglasfenster bekannt ist, und versuchen Sie, mittags zu kommen, wenn das Sonnenlicht die Farben erstrahlen lässt.",
+            "hu": "Lépjen be ebbe a fenséges 15. századi gótikus kápolnába, amely eredeti ólomüveg ablakairól híres, és próbáljon meg dél körül érkezni, amikor a napfény gyönyörűen megvilágítja a színeket.",
+            "ro": "Pășiți în această maiestuoasă capelă gotică din secolul al XV-lea, renumită pentru vitraliile sale originale strălucitoare, și încercați să vizitați în jurul prânzului, când lumina soarelui luminează frumos culorile.",
+            "en": "Step inside this majestic 15th-century Gothic chapel, renowned for its brilliant original stained glass windows, and try to visit around noon when the sunlight illuminates the colors beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Vachon France",
+            "hu": "Parc Vachon France",
+            "ro": "Parc Vachon France",
+            "en": "Parc Vachon France"
+          },
+          "coords": [
+            3.128261,
+            45.885648
+          ],
+          "category": "family",
+          "arrive_at": "14:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im friedlichen Grün des Parc Vachon France, einem idealen Ort für Familien, und bringen Sie eine kleine Picknickdecke mit, um ein ruhiges Mittagessen unter den großen Schattenbäumen zu genießen.",
+            "hu": "Pihenjen a Parc Vachon France békés zöldjében, amely ideális hely a családok számára a kikapcsolódásra, és hozzon magával egy kis piknik takarót, hogy élvezze a csendes ebédet az öreg fák árnyékában.",
+            "ro": "Relaxați-vă în verdeața pașnică a Parc Vachon France, un loc ideal pentru familii, și aduceți o pătură mică de picnic pentru a vă bucura de un prânz liniștit sub copacii mari și umbroși.",
+            "en": "Relax in the peaceful greenery of Parc Vachon France, an ideal spot for families to unwind, and bring a small picnic blanket to enjoy a quiet lunch under the large, mature shade trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zum Square Virlogeux und radeln Sie dann zur imposanten Basilika Saint-Amable, um Rioms architektonische Pracht zu erleben.\nNavigieren Sie zum historischen Uhrenturm und parken Sie danach Ihr Fahrrad, um die umfangreichen Sammlungen im Mandet-Museum zu erkunden.\nFahren Sie die kurze Strecke zur exquisiten Sainte-Chapelle, um ihr gotisches Design zu bewundern, bevor Sie das dichte Stadtzentrum verlassen.\nRadeln Sie in Richtung der grünen Ränder der Stadt und beenden Sie Ihren aktiven Tag mit einer erholsamen Pause im Parc Vachon France.",
+        "hu": "Kezdje a napot egy élénk kerékpározással a Square Virlogeux-hoz, majd tekerjen a lenyűgöző Saint-Amable bazilikához, hogy megismerje Riom építészetét.\nNavigáljon a szűk utcákon a történelmi Óratoronyhoz, majd parkolja le kerékpárját, hogy felfedezze a Mandet Múzeum kiterjedt gyűjteményeit.\nTekerjen egy rövid távot a gyönyörű Sainte-Chapelle-hez, hogy megcsodálja gótikus dizájnját, mielőtt elhagyja a sűrű városközpontot.\nTekerjen a város zöldebb pereme felé, és zárja aktív napját egy pihentető szünettel a Parc Vachon France gyönyörű fái között.",
+        "ro": "Începeți cu o plimbare rapidă până la Square Virlogeux, apoi pedalați spre impunătoarea Bazilică Saint-Amable pentru a experimenta măreția arhitecturală din Riom.\nNavigați pe străduțele înguste până la Turnul cu Ceas, apoi parcați bicicleta pentru a explora colecțiile vaste de la Muzeul Mandet.\nPedalați pe o distanță scurtă până la rafinata Sainte-Chapelle pentru a admira designul său gotic înainte de a părăsi centrul dens.\nPedalați spre marginile mai verzi ale orașului, încheindu-vă ziua activă cu o pauză de relaxare printre copacii frumoși din Parc Vachon France.",
+        "en": "Start with a brisk ride to Square Virlogeux, then pedal towards the imposing Basilica of Saint-Amable to experience Riom's architectural grandeur early on.\nNavigate the narrow lanes to the historic Clock Tower for a quick climb, and then park your bike to explore the extensive collections at the Mandet Museum.\nCycle the short distance to the exquisite Sainte-Chapelle to admire its gothic design before leaving the dense city center.\nPedal out towards the greener edges of town, ending your active day with a relaxing break amidst the beautiful trees of Parc Vachon France."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:30",
+      "end_estimate": "18:36",
+      "total_km": 4.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Saint-Amable",
+            "hu": "Saint-Amable Bazilika",
+            "ro": "Bazilica Saint-Amable",
+            "en": "Basilica of Saint-Amable"
+          },
+          "coords": [
+            3.113038,
+            45.893858
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende romanische Architektur dieser historischen Basilika, die dem Schutzpatron der Stadt gewidmet ist, und werfen Sie ruhig einen Blick auf die bunten Glasfenster.",
+            "hu": "Csodálja meg ennek a város védőszentjének szentelt történelmi bazilikának a lenyűgöző román stílusú építészetét, és mindenképpen lépjen be csendben a bonyolult ólomüveg ablakok megtekintéséhez.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei bazilici istorice, dedicată sfântului patron al orașului, și asigurați-vă că intrați în liniște pentru a vedea vitraliile complicate.",
+            "en": "Marvel at the stunning Romanesque architecture of this historic basilica, dedicated to the town's patron saint, making sure to step inside quietly to view the intricate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            3.113681,
+            45.894069
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Uhrenturm aus der Renaissancezeit für einen unvergleichlichen Panoramablick auf die roten Dächer von Riom, aber tragen Sie bequeme Schuhe für die steile Wendeltreppe.",
+            "hu": "Mássza meg a reneszánsz kori óratornyot, ahonnan páratlan panoráma nyílik Riom vörös háztetőire, de viseljen kényelmes cipőt a meredek és kanyargós lépcsőkhöz.",
+            "ro": "Urcați în Turnul cu Ceas din epoca Renașterii pentru o vedere panoramică inegalabilă asupra acoperișurilor roșii din Riom, dar purtați pantofi comozi pentru scara abruptă și întortocheată.",
+            "en": "Climb the Renaissance-era Clock Tower for an unparalleled panoramic view of the red rooftops of Riom, but wear comfortable shoes for the steep, winding staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandet-Museum",
+            "hu": "Mandet Múzeum",
+            "ro": "Muzeul Mandet",
+            "en": "Mandet Museum"
+          },
+          "coords": [
+            3.116667,
+            45.893611
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung von bildender Kunst und Dekorationsstücken im Mandet-Museum und verpassen Sie auf keinen Fall die moderne Silberausstellung im Erdgeschoss.",
+            "hu": "Fedezze fel a Mandet Múzeum évszázadokat átfogó, lenyűgöző képzőművészeti és díszítőművészeti gyűjteményét, és ne hagyja ki a földszinten található modern ötvösművészeti kiállítást.",
+            "ro": "Explorați colecția fascinantă de arte plastice și piese decorative care se întinde pe parcursul a secole în Muzeul Mandet, și nu ratați expoziția de argintărie modernă de la parter.",
+            "en": "Explore the fascinating collection of fine arts and decorative pieces spanning centuries in the Mandet Museum, and don't miss the modern silverwork exhibit on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Chapelle von Riom",
+            "hu": "Riomi Sainte-Chapelle",
+            "ro": "Sainte-Chapelle din Riom",
+            "en": "Sainte-Chapelle of Riom"
+          },
+          "coords": [
+            3.117169,
+            45.894724
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese majestätische gotische Kapelle aus dem 15. Jahrhundert ein, die für ihre originalen Buntglasfenster bekannt ist, und versuchen Sie, mittags zu kommen, wenn das Sonnenlicht die Farben erstrahlen lässt.",
+            "hu": "Lépjen be ebbe a fenséges 15. századi gótikus kápolnába, amely eredeti ólomüveg ablakairól híres, és próbáljon meg dél körül érkezni, amikor a napfény gyönyörűen megvilágítja a színeket.",
+            "ro": "Pășiți în această maiestuoasă capelă gotică din secolul al XV-lea, renumită pentru vitraliile sale originale strălucitoare, și încercați să vizitați în jurul prânzului, când lumina soarelui luminează frumos culorile.",
+            "en": "Step inside this majestic 15th-century Gothic chapel, renowned for its brilliant original stained glass windows, and try to visit around noon when the sunlight illuminates the colors beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Vachon France",
+            "hu": "Parc Vachon France",
+            "ro": "Parc Vachon France",
+            "en": "Parc Vachon France"
+          },
+          "coords": [
+            3.128261,
+            45.885648
+          ],
+          "category": "family",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im friedlichen Grün des Parc Vachon France, einem idealen Ort für Familien, und bringen Sie eine kleine Picknickdecke mit, um ein ruhiges Mittagessen unter den großen Schattenbäumen zu genießen.",
+            "hu": "Pihenjen a Parc Vachon France békés zöldjében, amely ideális hely a családok számára a kikapcsolódásra, és hozzon magával egy kis piknik takarót, hogy élvezze a csendes ebédet az öreg fák árnyékában.",
+            "ro": "Relaxați-vă în verdeața pașnică a Parc Vachon France, un loc ideal pentru familii, și aduceți o pătură mică de picnic pentru a vă bucura de un prânz liniștit sub copacii mari și umbroși.",
+            "en": "Relax in the peaceful greenery of Parc Vachon France, an ideal spot for families to unwind, and bring a small picnic blanket to enjoy a quiet lunch under the large, mature shade trees."
+          }
+        },
+        {
+          "name": {
+            "de": "DéfiLand",
+            "hu": "DéfiLand",
+            "ro": "DéfiLand",
+            "en": "DéfiLand"
+          },
+          "coords": [
+            3.117318,
+            45.876901
+          ],
+          "category": "family",
+          "arrive_at": "15:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder im DéfiLand, einem lebendigen Indoor- und Outdoor-Spielplatz, Energie abbauen und denken Sie an rutschfeste Socken, während die Kinder die spannenden Hindernisparcours bewältigen.",
+            "hu": "Hagyja, hogy gyermekei levezessék az energiájukat a DéfiLand vibráló beltéri és kültéri játszóterén, és ne felejtsen el csúszásgátló zoknit csomagolni nekik a izgalmas akadálypályákhoz.",
+            "ro": "Lăsați copiii să-și consume energia la DéfiLand, o zonă de joacă vibrantă interioară și exterioară, și nu uitați să împachetați șosete antiderapante pentru ei în timp ce parcurg traseele cu obstacole.",
+            "en": "Let your children burn off energy at DéfiLand, a vibrant indoor and outdoor play area, and remember to pack grip socks for the kids as they navigate the exciting obstacle courses."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Mirabel",
+            "hu": "Parc Mirabel",
+            "ro": "Parc Mirabel",
+            "en": "Parc Mirabel"
+          },
+          "coords": [
+            3.110738,
+            45.866952
+          ],
+          "category": "family",
+          "arrive_at": "16:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Parc Mirabel, einer weitläufigen und bezaubernden Grünanlage mit wunderbaren Spazierwegen, und schlendern Sie um den zentralen Teich, um den Sonnenuntergang auf dem Wasser zu beobachten.",
+            "hu": "Zárja a napot a Parc Mirabelben, egy hatalmas és varázslatos zöldterületen, amely csodálatos sétányokat kínál, és sétáljon a központi tó körül, hogy megnézze, hogyan tükröződnek a naplemente színei a vízen.",
+            "ro": "Încheiați-vă ziua în Parc Mirabel, un spațiu verde vast și fermecător, care oferă poteci minunate de mers pe jos, și plimbați-vă în jurul iazului central pentru a privi culorile apusului reflectate pe apă.",
+            "en": "Conclude your day at Parc Mirabel, a vast and enchanting green space offering wonderful walking paths, and stroll around the central pond to watch the sunset colors reflect on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem in die Stadt und beginnen Sie an der Basilika Saint-Amable. Lassen Sie das Auto stehen, während Sie das historische Zentrum erkunden.\nBesuchen Sie den Uhrenturm und das berühmte Mandet-Museum und genießen Sie die kurzen, fußgängerfreundlichen Spaziergänge zwischen diesen Wahrzeichen.\nNach der Besichtigung der Sainte-Chapelle steigen Sie wieder ins Auto und fahren nach Süden zum Parc Vachon France für eine Nachmittagspause.\nFahren Sie weiter zum DéfiLand und beenden Sie Ihre abgerundete Autotour mit einem friedlichen Abendspaziergang durch den weitläufigen Parc Mirabel.",
+        "hu": "Könnyedén vezessen be a városba, és kezdje útját a Saint-Amable bazilikánál, miközben az autót leparkolva sétál a történelmi központban.\nLátogasson el az Óratoronyhoz és a híres Mandet Múzeumhoz, élvezve a rövid, gyalogosbarát sétákat e nevezetességek között.\nA Sainte-Chapelle megtekintése után üljön vissza az autóba, és vezessen délre a Parc Vachon France felé egy kellemes délutáni parki pihenőre.\nFolytassa útját a játékos DéfiLand felé, és zárja a tartalmas autós túrát egy békés esti sétával a kiterjedt Parc Mirabelben.",
+        "ro": "Conduceți ușor în oraș și începeți călătoria la Bazilica Saint-Amable, lăsând mașina parcată în timp ce vă plimbați prin centrul istoric.\nVizitați Turnul cu Ceas și renumitul Muzeu Mandet, bucurându-vă de plimbările scurte și prietenoase pentru pietoni între aceste repere ale orașului.\nDupă vizionarea uimitoarei Sainte-Chapelle, urcați înapoi în mașină pentru a vă îndrepta spre sud către Parc Vachon France pentru o pauză în parc.\nContinuați drumul către DéfiLand, încheindu-vă turul cu mașina cu o plimbare liniștită de seară prin imensul Parc Mirabel.",
+        "en": "Drive easily into town and begin your journey at the breathtaking Basilica of Saint-Amable, leaving your car parked while you walk the historic central cluster.\nVisit the towering Clock Tower and the renowned Mandet Museum, enjoying the short, pedestrian-friendly strolls between these prominent city landmarks.\nAfter viewing the stunning Sainte-Chapelle, hop back in the car to cruise south to Parc Vachon France for a delightful mid-afternoon park break.\nContinue your drive to the playful DéfiLand, concluding your well-rounded driving tour with a peaceful evening walk through the expansive Parc Mirabel."
+      }
+    }
+  }
+}

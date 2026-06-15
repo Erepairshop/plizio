@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-christol-lez-ales",
+  "anchor": {
+    "name": "Saint-Christol-lez-Alès",
+    "coords": [
+      4.0769,
+      44.0844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Christol",
+            "hu": "Église de Saint-Christol",
+            "ro": "Église de Saint-Christol",
+            "en": "Église de Saint-Christol"
+          },
+          "coords": [
+            4.076806,
+            44.083251
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Kirche Église de Saint-Christol, einen ruhigen Ort, wo Sie sich einen Moment Zeit nehmen können, um die historische Architektur zu genießen.",
+            "hu": "Csodálja meg a gyönyörű Église de Saint-Christol templomot, egy békés vallási helyszínt, ahol egy pillanatra elmélyedhet a történelmi építészetben a nap indulásakor.",
+            "ro": "Admirați frumoasa biserică Église de Saint-Christol, un loc religios liniștit unde vă puteți lua un moment pentru a aprecia arhitectura sa istorică la începutul zilei.",
+            "en": "Admire the beautiful Église de Saint-Christol, a serene religious site where you can take a moment to appreciate its historic architecture before starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes de Saint-Christol",
+            "hu": "Les Arènes de Saint-Christol",
+            "ro": "Les Arènes de Saint-Christol",
+            "en": "Les Arènes de Saint-Christol"
+          },
+          "coords": [
+            4.072488,
+            44.082056
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in Les Arènes, einer authentischen Stierkampfarena, wo Sie die Atmosphäre aufsaugen und auf lokale Veranstaltungshinweise achten sollten.",
+            "hu": "Tapasztalja meg a helyi kultúrát a Les Arènes-nél, egy autentikus arénában, ahol érdemes megnézni a programokat vagy egyszerűen csak magába szívni az egyedi hangulatot.",
+            "ro": "Experimentați cultura locală la Les Arènes, o arenă autentică unde ar trebui să verificați programul pentru evenimente tradiționale sau pur și simplu să simțiți atmosfera.",
+            "en": "Experience the local culture at Les Arènes, an authentic arena where you should check the schedule for traditional events or simply soak in the unique atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Scribe",
+            "hu": "Musée du Scribe",
+            "ro": "Musée du Scribe",
+            "en": "Musée du Scribe"
+          },
+          "coords": [
+            4.070917,
+            44.084861
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée du Scribe in die Lokalgeschichte ein, wo Sie faszinierende Ausstellungen über alte Schreibwerkzeuge in einer wunderschön gestalteten Umgebung erkunden können.",
+            "hu": "Merüljön el a helyi történelemben a Musée du Scribe-ben, ahol lenyűgöző kiállításokat fedezhet fel az ősi íróeszközökről egy gyönyörűen berendezett környezetben.",
+            "ro": "Pătrundeți în istoria locală la Musée du Scribe, unde puteți explora exponate fascinante și afla despre instrumentele antice de scris într-un cadru frumos amenajat.",
+            "en": "Dive into local history at the Musée du Scribe, where you can explore fascinating exhibits and learn about ancient writing tools in a beautifully curated setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montmoirac",
+            "hu": "Château de Montmoirac",
+            "ro": "Château de Montmoirac",
+            "en": "Château de Montmoirac"
+          },
+          "coords": [
+            4.088134,
+            44.087996
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen des Château de Montmoirac, ein historisches Wahrzeichen mit herrlichem Blick auf die umliegende Landschaft, ideal für ein paar tolle Fotos.",
+            "hu": "Sétáljon végig a Château de Montmoirac romjain, egy történelmi nevezetességen, amely csodálatos kilátást nyújt a környező vidékre, tökéletes a fotózáshoz.",
+            "ro": "Plimbați-vă printre ruinele Château de Montmoirac, un punct de reper istoric ce oferă priveliști minunate asupra peisajului rural înconjurător, perfect pentru fotografii.",
+            "en": "Wander through the ruins of Château de Montmoirac, a historical landmark offering lovely views of the surrounding countryside, perfect for mid-day photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Rouret",
+            "hu": "Parc de Rouret",
+            "ro": "Parc de Rouret",
+            "en": "Parc de Rouret"
+          },
+          "coords": [
+            4.100255,
+            44.074686
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag im Parc de Rouret, einer wunderbaren Grünfläche, die sich ideal für einen entspannten Spaziergang oder ein ruhiges Picknick unter Bäumen eignet.",
+            "hu": "Zárja a délutánt a Parc de Rouret-ben, egy csodálatos zöldterületen, amely ideális egy pihentető sétához vagy egy csendes piknikhez a fák árnyékában.",
+            "ro": "Încheiați-vă după-amiaza în Parc de Rouret, un spațiu verde minunat, ideal pentru o plimbare relaxantă sau un picnic liniștit printre copaci înainte de plecare.",
+            "en": "Conclude your afternoon at Parc de Rouret, a wonderful green space ideal for a relaxing stroll or a quiet picnic among the trees before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Moment in der historischen Église de Saint-Christol, gefolgt von einem Besuch der Arènes, um die Kultur hautnah zu erleben. Danach spazieren Sie zum Musée du Scribe, um in die faszinierende Geschichte des Schreibens einzutauchen. Am Nachmittag bietet das Château de Montmoirac herrliche Ausblicke auf das Umland. Lassen Sie den Tag schließlich entspannt im Parc de Rouret ausklingen.",
+        "hu": "Kezdje a napot egy csendes pillanattal a történelmi Église de Saint-Christol templomban, majd látogasson el az Arènes-hez, hogy átélje a helyi kultúrát. Ezután sétáljon át a Musée du Scribe-be, és merüljön el az írás lenyűgöző történetében. Délután a Château de Montmoirac csodálatos kilátást kínál a környező tájra. Végül pihenjen meg egy kellemes séta során a Parc de Rouret zöldellő fái alatt.",
+        "ro": "Începeți ziua cu un moment de liniște la istorica Église de Saint-Christol, urmat de o vizită la Arènes pentru a experimenta cultura locală. Apoi faceți o plimbare până la Musée du Scribe pentru a pătrunde în istoria fascinantă a scrisului. După-amiaza, Château de Montmoirac vă va oferii priveliști rurale de neuitat. Încheiați ziua relaxându-vă în atmosfera pașnică din Parc de Rouret.",
+        "en": "Start your day with a quiet moment at the historic Église de Saint-Christol, followed by a visit to the Arènes to experience local culture firsthand. Then, take a short walk to the Musée du Scribe to delve into the fascinating history of writing. In the afternoon, the Château de Montmoirac offers wonderful views of the countryside. Finally, unwind completely with a peaceful stroll through Parc de Rouret."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Christol",
+            "hu": "Église de Saint-Christol",
+            "ro": "Église de Saint-Christol",
+            "en": "Église de Saint-Christol"
+          },
+          "coords": [
+            4.076806,
+            44.083251
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Kirche Église de Saint-Christol, einen ruhigen Ort, wo Sie sich einen Moment Zeit nehmen können, um die historische Architektur zu genießen.",
+            "hu": "Csodálja meg a gyönyörű Église de Saint-Christol templomot, egy békés vallási helyszínt, ahol egy pillanatra elmélyedhet a történelmi építészetben a nap indulásakor.",
+            "ro": "Admirați frumoasa biserică Église de Saint-Christol, un loc religios liniștit unde vă puteți lua un moment pentru a aprecia arhitectura sa istorică la începutul zilei.",
+            "en": "Admire the beautiful Église de Saint-Christol, a serene religious site where you can take a moment to appreciate its historic architecture before starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Scribe",
+            "hu": "Musée du Scribe",
+            "ro": "Musée du Scribe",
+            "en": "Musée du Scribe"
+          },
+          "coords": [
+            4.070917,
+            44.084861
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée du Scribe in die Lokalgeschichte ein, wo Sie faszinierende Ausstellungen über alte Schreibwerkzeuge in einer wunderschön gestalteten Umgebung erkunden können.",
+            "hu": "Merüljön el a helyi történelemben a Musée du Scribe-ben, ahol lenyűgöző kiállításokat fedezhet fel az ősi íróeszközökről egy gyönyörűen berendezett környezetben.",
+            "ro": "Pătrundeți în istoria locală la Musée du Scribe, unde puteți explora exponate fascinante și afla despre instrumentele antice de scris într-un cadru frumos amenajat.",
+            "en": "Dive into local history at the Musée du Scribe, where you can explore fascinating exhibits and learn about ancient writing tools in a beautifully curated setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes de Saint-Christol",
+            "hu": "Les Arènes de Saint-Christol",
+            "ro": "Les Arènes de Saint-Christol",
+            "en": "Les Arènes de Saint-Christol"
+          },
+          "coords": [
+            4.072488,
+            44.082056
+          ],
+          "category": "cultural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in Les Arènes, einer authentischen Stierkampfarena, wo Sie die Atmosphäre aufsaugen und auf lokale Veranstaltungshinweise achten sollten.",
+            "hu": "Tapasztalja meg a helyi kultúrát a Les Arènes-nél, egy autentikus arénában, ahol érdemes megnézni a programokat vagy egyszerűen csak magába szívni az egyedi hangulatot.",
+            "ro": "Experimentați cultura locală la Les Arènes, o arenă autentică unde ar trebui să verificați programul pentru evenimente tradiționale sau pur și simplu să simțiți atmosfera.",
+            "en": "Experience the local culture at Les Arènes, an authentic arena where you should check the schedule for traditional events or simply soak in the unique atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Mas Perdu",
+            "hu": "Les Mas Perdu",
+            "ro": "Les Mas Perdu",
+            "en": "Les Mas Perdu"
+          },
+          "coords": [
+            4.052967,
+            44.091405
+          ],
+          "category": "family",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie Les Mas Perdu für ein familienfreundliches Erlebnis, wo Kinder in den malerischen Außenanlagen sicher spielen können, während Sie den ländlichen Charme genießen.",
+            "hu": "Látogasson el a Les Mas Perdu-ba egy családbarát élményért, ahol a gyerekek biztonságosan játszhatnak a festői szabadtéri terekben, miközben ön élvezi a vidéki bájt.",
+            "ro": "Vizitați Les Mas Perdu pentru o experiență de familie, unde copiii se pot juca în siguranță în spațiile exterioare pitorești, în timp ce vă bucurați de farmecul rural.",
+            "en": "Visit Les Mas Perdu for a fun family-friendly experience, exploring its scenic outdoor spaces where kids can play safely while you enjoy the rural charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montmoirac",
+            "hu": "Château de Montmoirac",
+            "ro": "Château de Montmoirac",
+            "en": "Château de Montmoirac"
+          },
+          "coords": [
+            4.088134,
+            44.087996
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen des Château de Montmoirac, ein historisches Wahrzeichen mit herrlichem Blick auf die umliegende Landschaft, ideal für ein paar tolle Fotos.",
+            "hu": "Sétáljon végig a Château de Montmoirac romjain, egy történelmi nevezetességen, amely csodálatos kilátást nyújt a környező vidékre, tökéletes a fotózáshoz.",
+            "ro": "Plimbați-vă printre ruinele Château de Montmoirac, un punct de reper istoric ce oferă priveliști minunate asupra peisajului rural înconjurător, perfect pentru fotografii.",
+            "en": "Wander through the ruins of Château de Montmoirac, a historical landmark offering lovely views of the surrounding countryside, perfect for mid-day photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Rouret",
+            "hu": "Parc de Rouret",
+            "ro": "Parc de Rouret",
+            "en": "Parc de Rouret"
+          },
+          "coords": [
+            4.100255,
+            44.074686
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag im Parc de Rouret, einer wunderbaren Grünfläche, die sich ideal für einen entspannten Spaziergang oder ein ruhiges Picknick unter Bäumen eignet.",
+            "hu": "Zárja a délutánt a Parc de Rouret-ben, egy csodálatos zöldterületen, amely ideális egy pihentető sétához vagy egy csendes piknikhez a fák árnyékában.",
+            "ro": "Încheiați-vă după-amiaza în Parc de Rouret, un spațiu verde minunat, ideal pentru o plimbare relaxantă sau un picnic liniștit printre copaci înainte de plecare.",
+            "en": "Conclude your afternoon at Parc de Rouret, a wonderful green space ideal for a relaxing stroll or a quiet picnic among the trees before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Église de Saint-Christol und fahren Sie dann gemütlich zum Musée du Scribe für historische Einblicke. Radeln Sie weiter zur Arènes, um die einzigartige Atmosphäre aufzunehmen. Nachmittags erkunden Sie Les Mas Perdu und das beeindruckende Château de Montmoirac. Den perfekten Abschluss bildet eine entspannte Pause im grünen Parc de Rouret.",
+        "hu": "Kezdje kerékpártúráját az Église de Saint-Christolnál, majd tekerjen el a Musée du Scribe-hez egy kis történelmi kalandért. Folytassa útját az Arènes felé, hogy magába szívja az egyedi hangulatot. Délután fedezze fel a Les Mas Perdu-t és a lenyűgöző Château de Montmoirac-ot. A napot egy pihentető piknikkel zárhatja a Parc de Rouret árnyas fái alatt.",
+        "ro": "Începeți turul cu bicicleta la Église de Saint-Christol, apoi pedalați spre Musée du Scribe pentru o incursiune istorică. Continuați spre Arènes pentru a vă bucura de o atmosferă autentică. După-amiaza, explorați Les Mas Perdu și impresionantul Château de Montmoirac. La final, relaxați-vă în mijlocul naturii, savurând liniștea oferită de Parc de Rouret.",
+        "en": "Kick off your cycling tour at the Église de Saint-Christol, then ride over to the Musée du Scribe for a bit of historical insight. Pedal next to the Arènes to soak up the distinctive local atmosphere. In the afternoon, explore Les Mas Perdu and the impressive ruins of Château de Montmoirac. Conclude your active day with a relaxing break in the lush surroundings of Parc de Rouret."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 12.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de Saint-Christol",
+            "hu": "Église de Saint-Christol",
+            "ro": "Église de Saint-Christol",
+            "en": "Église de Saint-Christol"
+          },
+          "coords": [
+            4.076806,
+            44.083251
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Kirche Église de Saint-Christol, einen ruhigen Ort, wo Sie sich einen Moment Zeit nehmen können, um die historische Architektur zu genießen.",
+            "hu": "Csodálja meg a gyönyörű Église de Saint-Christol templomot, egy békés vallási helyszínt, ahol egy pillanatra elmélyedhet a történelmi építészetben a nap indulásakor.",
+            "ro": "Admirați frumoasa biserică Église de Saint-Christol, un loc religios liniștit unde vă puteți lua un moment pentru a aprecia arhitectura sa istorică la începutul zilei.",
+            "en": "Admire the beautiful Église de Saint-Christol, a serene religious site where you can take a moment to appreciate its historic architecture before starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Scribe",
+            "hu": "Musée du Scribe",
+            "ro": "Musée du Scribe",
+            "en": "Musée du Scribe"
+          },
+          "coords": [
+            4.070917,
+            44.084861
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée du Scribe in die Lokalgeschichte ein, wo Sie faszinierende Ausstellungen über alte Schreibwerkzeuge in einer wunderschön gestalteten Umgebung erkunden können.",
+            "hu": "Merüljön el a helyi történelemben a Musée du Scribe-ben, ahol lenyűgöző kiállításokat fedezhet fel az ősi íróeszközökről egy gyönyörűen berendezett környezetben.",
+            "ro": "Pătrundeți în istoria locală la Musée du Scribe, unde puteți explora exponate fascinante și afla despre instrumentele antice de scris într-un cadru frumos amenajat.",
+            "en": "Dive into local history at the Musée du Scribe, where you can explore fascinating exhibits and learn about ancient writing tools in a beautifully curated setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes de Saint-Christol",
+            "hu": "Les Arènes de Saint-Christol",
+            "ro": "Les Arènes de Saint-Christol",
+            "en": "Les Arènes de Saint-Christol"
+          },
+          "coords": [
+            4.072488,
+            44.082056
+          ],
+          "category": "cultural",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in Les Arènes, einer authentischen Stierkampfarena, wo Sie die Atmosphäre aufsaugen und auf lokale Veranstaltungshinweise achten sollten.",
+            "hu": "Tapasztalja meg a helyi kultúrát a Les Arènes-nél, egy autentikus arénában, ahol érdemes megnézni a programokat vagy egyszerűen csak magába szívni az egyedi hangulatot.",
+            "ro": "Experimentați cultura locală la Les Arènes, o arenă autentică unde ar trebui să verificați programul pentru evenimente tradiționale sau pur și simplu să simțiți atmosfera.",
+            "en": "Experience the local culture at Les Arènes, an authentic arena where you should check the schedule for traditional events or simply soak in the unique atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montmoirac",
+            "hu": "Château de Montmoirac",
+            "ro": "Château de Montmoirac",
+            "en": "Château de Montmoirac"
+          },
+          "coords": [
+            4.088134,
+            44.087996
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen des Château de Montmoirac, ein historisches Wahrzeichen mit herrlichem Blick auf die umliegende Landschaft, ideal für ein paar tolle Fotos.",
+            "hu": "Sétáljon végig a Château de Montmoirac romjain, egy történelmi nevezetességen, amely csodálatos kilátást nyújt a környező vidékre, tökéletes a fotózáshoz.",
+            "ro": "Plimbați-vă printre ruinele Château de Montmoirac, un punct de reper istoric ce oferă priveliști minunate asupra peisajului rural înconjurător, perfect pentru fotografii.",
+            "en": "Wander through the ruins of Château de Montmoirac, a historical landmark offering lovely views of the surrounding countryside, perfect for mid-day photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Mas Perdu",
+            "hu": "Les Mas Perdu",
+            "ro": "Les Mas Perdu",
+            "en": "Les Mas Perdu"
+          },
+          "coords": [
+            4.052967,
+            44.091405
+          ],
+          "category": "family",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie Les Mas Perdu für ein familienfreundliches Erlebnis, wo Kinder in den malerischen Außenanlagen sicher spielen können, während Sie den ländlichen Charme genießen.",
+            "hu": "Látogasson el a Les Mas Perdu-ba egy családbarát élményért, ahol a gyerekek biztonságosan játszhatnak a festői szabadtéri terekben, miközben ön élvezi a vidéki bájt.",
+            "ro": "Vizitați Les Mas Perdu pentru o experiență de familie, unde copiii se pot juca în siguranță în spațiile exterioare pitorești, în timp ce vă bucurați de farmecul rural.",
+            "en": "Visit Les Mas Perdu for a fun family-friendly experience, exploring its scenic outdoor spaces where kids can play safely while you enjoy the rural charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Forest Parc",
+            "hu": "Forest Parc",
+            "ro": "Forest Parc",
+            "en": "Forest Parc"
+          },
+          "coords": [
+            4.037572,
+            44.066904
+          ],
+          "category": "family",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Adrenalinschub im Forest Parc, einem fantastischen Hochseilgarten, für den feste Schuhe bei der Bewältigung der anspruchsvollen Parcours ein Muss sind.",
+            "hu": "Készüljön fel egy kis adrenalinlöketre a Forest Parc kalandparkban, ahol a stabil cipő elengedhetetlen a kihívást jelentő erdei és magaslati pályák leküzdéséhez.",
+            "ro": "Pregătiți-vă pentru adrenalină la Forest Parc, un fantastic parc de aventură în copaci, unde încălțămintea robustă este obligatorie pentru traseele aeriene provocatoare.",
+            "en": "Get ready for an adrenaline rush at Forest Parc, a fantastic treetop adventure park where sturdy shoes are a must for tackling the challenging aerial courses."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Rouret",
+            "hu": "Parc de Rouret",
+            "ro": "Parc de Rouret",
+            "en": "Parc de Rouret"
+          },
+          "coords": [
+            4.100255,
+            44.074686
+          ],
+          "category": "recreational",
+          "arrive_at": "17:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag im Parc de Rouret, einer wunderbaren Grünfläche, die sich ideal für einen entspannten Spaziergang oder ein ruhiges Picknick unter Bäumen eignet.",
+            "hu": "Zárja a délutánt a Parc de Rouret-ben, egy csodálatos zöldterületen, amely ideális egy pihentető sétához vagy egy csendes piknikhez a fák árnyékában.",
+            "ro": "Încheiați-vă după-amiaza în Parc de Rouret, un spațiu verde minunat, ideal pentru o plimbare relaxantă sau un picnic liniștit printre copaci înainte de plecare.",
+            "en": "Conclude your afternoon at Parc de Rouret, a wonderful green space ideal for a relaxing stroll or a quiet picnic among the trees before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie komfortabel an der Église de Saint-Christol, bevor Sie das Musée du Scribe und die berühmten Arènes besuchen. Fahren Sie anschließend zum Château de Montmoirac für fantastische Fotos. Am Nachmittag lockt Les Mas Perdu mit familienfreundlichem Spaß, gefolgt von aufregenden Abenteuern im Forest Parc. Entspannen Sie sich zum Tagesabschluss im wunderschönen Parc de Rouret.",
+        "hu": "Induljon kényelmesen az Église de Saint-Christol templomtól, mielőtt meglátogatná a Musée du Scribe-t és a híres Arènes-t. Ezt követően hajtson a Château de Montmoirac-hoz néhány remek fotóért. Délután a Les Mas Perdu kínál családi szórakozást, amit a Forest Parc izgalmas kalandjai követnek. A nap méltó lezárásaként pihenjen egyet a festői Parc de Rouret-ben.",
+        "ro": "Porniți confortabil de la Église de Saint-Christol, înainte de a vizita Musée du Scribe și renumitele Arènes. Conduceți apoi către Château de Montmoirac pentru câteva fotografii minunate. După-amiaza, Les Mas Perdu oferă distracție în familie, urmată de aventuri palpitante la Forest Parc. Încheiați-vă ziua relaxându-vă în decorul pitoresc al Parc de Rouret.",
+        "en": "Start comfortably at the Église de Saint-Christol, before visiting the Musée du Scribe and the renowned Arènes. Drive over to Château de Montmoirac to capture some fantastic photos. In the afternoon, Les Mas Perdu offers family-friendly fun, followed by thrilling treetop adventures at Forest Parc. Wind down your packed day by relaxing in the beautiful Parc de Rouret."
+      }
+    }
+  }
+}

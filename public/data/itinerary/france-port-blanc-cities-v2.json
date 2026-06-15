@@ -1,0 +1,474 @@
+{
+  "city_id": "france-port-blanc-cities-v2",
+  "anchor": {
+    "name": "Port Blanc",
+    "coords": [
+      -3.31052,
+      48.83576
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:29",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Blanc",
+            "hu": "Port Blanc",
+            "ro": "Port Blanc",
+            "en": "Port Blanc"
+          },
+          "coords": [
+            -3.308833,
+            48.836748
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Hafen von Port Blanc, wo traditionelle Fischerboote auf moderne Yachten treffen, und trinken Sie einen Kaffee in einem Café am Wasser, um die Morgenbrise zu genießen.",
+            "hu": "Fedezze fel Port Blanc nyüzsgő kikötőjét, ahol a hagyományos halászhajók és a modern jachtok találkoznak, és igyon egy kávét a vízparton, élvezve a reggeli szellőt.",
+            "ro": "Explorați portul plin de viață din Port Blanc, unde bărcile tradiționale de pescuit se întâlnesc cu iahturile moderne, și savurați o cafea pe malul apei bucurându-vă de briza dimineții.",
+            "en": "Explore the lively harbor of Port Blanc, where traditional fishing boats meet modern yachts, and grab a coffee at a waterfront café to enjoy the morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Sentinelle",
+            "hu": "Plage de la Sentinelle",
+            "ro": "Plage de la Sentinelle",
+            "en": "Plage de la Sentinelle"
+          },
+          "coords": [
+            -3.311414,
+            48.836795
+          ],
+          "category": "recreational",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden der Plage de la Sentinelle mit fantastischem Blick auf die raue Küste, aber denken Sie daran, Ihre eigene Sonnencreme mitzubringen, da Schatten rar ist.",
+            "hu": "Pihenjen a Plage de la Sentinelle homokos partján, amely fantasztikus kilátást nyújt a zord partvonalra, de ne felejtsen el naptejet hozni, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă pe țărmul nisipos al Plage de la Sentinelle, care oferă vederi fantastice ale coastei stâncoase, dar nu uitați să aduceți cremă de protecție solară, deoarece umbra este limitată.",
+            "en": "Relax on the sandy shores of Plage de la Sentinelle, offering fantastic views of the rugged coastline, but remember to bring your own sunscreen as shade is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie",
+            "hu": "Batterie",
+            "ro": "Batterie",
+            "en": "Batterie"
+          },
+          "coords": [
+            -3.310454,
+            48.837579
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historischen Batterieüberreste, die einst die Küste vor Invasionen schützten, und tragen Sie feste Schuhe, um sich sicher auf dem unebenen Grasgelände rund um die Ruinen zu bewegen.",
+            "hu": "Látogassa meg a történelmi üteg maradványait, amelyek egykor a partot védték az invázióktól, és viseljen masszív cipőt, hogy biztonságosan navigálhasson a romok körüli egyenetlen füves terepen.",
+            "ro": "Vizitați rămășițele bateriei istorice care odinioară păzeau coasta împotriva invaziilor și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul ierbos denivelat din jurul ruinelor.",
+            "en": "Visit the historical battery remnants that once guarded the coast against invasions, and wear sturdy shoes to safely navigate the uneven grassy terrain around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Port-Blanc",
+            "hu": "Chapelle Notre-Dame de Port-Blanc",
+            "ro": "Chapelle Notre-Dame de Port-Blanc",
+            "en": "Chapelle Notre-Dame de Port-Blanc"
+          },
+          "coords": [
+            -3.314066,
+            48.835025
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige, halb in die Erde gebaute Architektur dieser Küstenkapelle aus dem 16. Jahrhundert und prüfen Sie das lokale schwarze Brett auf gelegentliche abendliche Chorauftritte.",
+            "hu": "Csodálja meg ennek a 16. századi félig földbe süllyesztett parti kápolnának az egyedi építészetét, és nézze meg a helyi hirdetőtáblát az esetleges esti kóruselőadások miatt.",
+            "ro": "Admirați arhitectura unică, semi-îngropată a acestei capele de coastă din secolul al XVI-lea și verificați avizierul local pentru spectacole ocazionale de cor seara.",
+            "en": "Admire the unique, semi-buried architecture of this coastal chapel dating back to the 16th century, and check the local notice board for occasional evening choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Roc'h Annick",
+            "hu": "Roc'h Annick",
+            "ro": "Roc'h Annick",
+            "en": "Roc'h Annick"
+          },
+          "coords": [
+            -3.318883,
+            48.837811
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Klettern Sie zur beeindruckenden Felsformation Roc'h Annick hinauf, um einen weiten Panoramablick auf die Bucht zu genießen, und vergessen Sie Ihre Kamera nicht, um die spektakuläre maritime Landschaft festzuhalten.",
+            "hu": "Másszon fel a Roc'h Annick lenyűgöző sziklaalakzatához, ahonnan pazar panoráma nyílik az öbölre, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengeri tájat.",
+            "ro": "Urcați la formațiunea stâncoasă impresionantă Roc'h Annick pentru o vedere panoramică vastă a golfului, asigurându-vă că aduceți o cameră foto pentru a surprinde peisajul maritim spectaculos.",
+            "en": "Climb up to the impressive rock formation of Roc'h Annick for a sweeping panoramic view of the bay, making sure to bring a camera to capture the spectacular maritime landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am lebhaften Hafen, wo Sie die Meeresbrise spüren. Mittags besuchen Sie den Strand Sentinelle und die historische Batterie. Den Nachmittag verbringen Sie in der einzigartigen Kapelle. Der Abend bringt einen Spaziergang zum Roc'h Annick.",
+        "hu": "A reggel a nyüzsgő kikötőben indul, élvezve a tengeri szellőt. A délben a Sentinelle strandra és a parti üteghez látogat el. A délutánt az egyedi kápolnánál tölti. Az este egy festői sétát tartogat a Roc'h Annick felé.",
+        "ro": "Dimineața începe în portul plin de viață, simțind briza mării. La prânz ajungeți la plaja Sentinelle și la bateria istorică de coastă. După-amiaza o petreceți la capela unică. Seara aduce o plimbare pitorească spre Roc'h Annick.",
+        "en": "Morning starts at the lively Port Blanc harbor, feeling the sea breeze. Midday takes you to Plage de la Sentinelle and the historic coastal battery. Afternoon is spent at the unique Chapelle Notre-Dame. Evening brings a scenic walk to Roc'h Annick."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Port-Blanc",
+            "hu": "Chapelle Notre-Dame de Port-Blanc",
+            "ro": "Chapelle Notre-Dame de Port-Blanc",
+            "en": "Chapelle Notre-Dame de Port-Blanc"
+          },
+          "coords": [
+            -3.314066,
+            48.835025
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige, halb in die Erde gebaute Architektur dieser Küstenkapelle aus dem 16. Jahrhundert und prüfen Sie das lokale schwarze Brett auf gelegentliche abendliche Chorauftritte.",
+            "hu": "Csodálja meg ennek a 16. századi félig földbe süllyesztett parti kápolnának az egyedi építészetét, és nézze meg a helyi hirdetőtáblát az esetleges esti kóruselőadások miatt.",
+            "ro": "Admirați arhitectura unică, semi-îngropată a acestei capele de coastă din secolul al XVI-lea și verificați avizierul local pentru spectacole ocazionale de cor seara.",
+            "en": "Admire the unique, semi-buried architecture of this coastal chapel dating back to the 16th century, and check the local notice board for occasional evening choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Dunes",
+            "hu": "Plage des Dunes",
+            "ro": "Plage des Dunes",
+            "en": "Plage des Dunes"
+          },
+          "coords": [
+            -3.32947,
+            48.834099
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der weitläufigen Plage des Dunes, wo wildes Gras auf weichen Sand trifft, und kommen Sie früh am Tag, wenn Sie ein ruhiges Plätzchen abseits der Windsurfer finden möchten.",
+            "hu": "Sétáljon végig a kiterjedt Plage des Dunes-en, ahol a vadfű puha homokkal találkozik, és érkezzen korán a nap folyamán, ha csendes helyet szeretne találni a szörfösöktől távol.",
+            "ro": "Plimbați-vă de-a lungul întinsei Plage des Dunes, unde iarba sălbatică întâlnește nisipul fin, și ajungeți devreme pentru a găsi un loc liniștit, departe de pasionații de windsurfing.",
+            "en": "Stroll along the expansive Plage des Dunes, where wild grass meets soft sand, and arrive early in the day if you want to find a quiet spot away from the wind-surfers."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kergastel",
+            "hu": "Menhir de Kergastel",
+            "ro": "Menhir de Kergastel",
+            "en": "Menhir de Kergastel"
+          },
+          "coords": [
+            -3.316984,
+            48.822803
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Stehen Sie neben dem hochaufragenden Menhir de Kergastel, einem faszinierenden alten Megalithen, der in bretonischen Legenden verwurzelt ist, und suchen Sie nach den schwachen Schnitzereien, die bei richtigem Sonnenlicht sichtbar werden.",
+            "hu": "Álljon a tornyosuló Kergastel-menhír mellé, amely egy breton legendákban gyökerező, lenyűgöző ősi megalit, és keresse a halvány faragásokat, amelyek csak megfelelő napsütésben láthatók.",
+            "ro": "Stați lângă impresionantul Menhir de Kergastel, un fascinant megalit antic înrădăcinat în legenda bretonă, și căutați sculpturile estompate care pot fi văzute când soarele bate din unghiul potrivit.",
+            "en": "Stand beside the towering Menhir de Kergastel, a fascinating ancient megalith rooted in Breton legend, and look for the faint carvings that can be seen when the sun hits it just right."
+          }
+        },
+        {
+          "name": {
+            "de": "Élevage de Cerfs",
+            "hu": "Élevage de Cerfs",
+            "ro": "Élevage de Cerfs",
+            "en": "Élevage de Cerfs"
+          },
+          "coords": [
+            -3.309224,
+            48.829686
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen Hirsche auf diesem lokalen Bauernhof vor einer üppigen ländlichen Kulisse und bringen Sie ein Fernglas mit, um die Tiere aus der Nähe zu betrachten, ohne ihre Ruhe zu stören.",
+            "hu": "Figyelje meg a fenséges szarvasokat ezen a buja vidéki környezetben található helyi farmon, és hozzon magával távcsövet, hogy közelebbről is megnézhesse az állatokat anélkül, hogy megzavarná a nyugalmukat.",
+            "ro": "Observați cerbii maiestuoși la această fermă locală situată pe un fundal rural luxuriant și aduceți binoclu pentru a privi mai de aproape animalele fără a le perturba liniștea.",
+            "en": "Observe the majestic deer at this local farm set against a lush rural backdrop, and bring some binoculars to get a closer look at the animals without disturbing their peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Blanc",
+            "hu": "Port Blanc",
+            "ro": "Port Blanc",
+            "en": "Port Blanc"
+          },
+          "coords": [
+            -3.308833,
+            48.836748
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Hafen von Port Blanc, wo traditionelle Fischerboote auf moderne Yachten treffen, und trinken Sie einen Kaffee in einem Café am Wasser, um die Morgenbrise zu genießen.",
+            "hu": "Fedezze fel Port Blanc nyüzsgő kikötőjét, ahol a hagyományos halászhajók és a modern jachtok találkoznak, és igyon egy kávét a vízparton, élvezve a reggeli szellőt.",
+            "ro": "Explorați portul plin de viață din Port Blanc, unde bărcile tradiționale de pescuit se întâlnesc cu iahturile moderne, și savurați o cafea pe malul apei bucurându-vă de briza dimineții.",
+            "en": "Explore the lively harbor of Port Blanc, where traditional fishing boats meet modern yachts, and grab a coffee at a waterfront café to enjoy the morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie",
+            "hu": "Batterie",
+            "ro": "Batterie",
+            "en": "Batterie"
+          },
+          "coords": [
+            -3.310454,
+            48.837579
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historischen Batterieüberreste, die einst die Küste vor Invasionen schützten, und tragen Sie feste Schuhe, um sich sicher auf dem unebenen Grasgelände rund um die Ruinen zu bewegen.",
+            "hu": "Látogassa meg a történelmi üteg maradványait, amelyek egykor a partot védték az invázióktól, és viseljen masszív cipőt, hogy biztonságosan navigálhasson a romok körüli egyenetlen füves terepen.",
+            "ro": "Vizitați rămășițele bateriei istorice care odinioară păzeau coasta împotriva invaziilor și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul ierbos denivelat din jurul ruinelor.",
+            "en": "Visit the historical battery remnants that once guarded the coast against invasions, and wear sturdy shoes to safely navigate the uneven grassy terrain around the ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt an der Kapelle Notre-Dame. Der Mittag ist perfekt, um Plage des Dunes und den Menhir de Kergastel zu erkunden. Nachmittags fahren Sie zur Hirschfarm und zurück. Der Abend endet mit Sonnenuntergang an der historischen Batterie.",
+        "hu": "A kerékpáros nap a Notre-Dame kápolnánál kezdődik. A délidő tökéletes a Plage des Dunes és a Kergastel menhír felfedezésére. A délután egy kellemes utat hoz a szarvasfarmhoz. Az este a történelmi ütegnél zárul a naplementében.",
+        "ro": "Ziua de ciclism începe la Capela Notre-Dame. Prânzul este perfect pentru a explora Plage des Dunes și Menhirul de Kergastel. După-amiaza aduce o plimbare plăcută la ferma de cerbi. Seara se încheie cu apusul la bateria istorică.",
+        "en": "Your cycling day begins at the Chapelle Notre-Dame. Midday is perfect for exploring Plage des Dunes and the towering Menhir de Kergastel. Afternoon brings a pleasant ride to the deer farm and back to town. Evening ends with sunset views at the historic battery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Nicolas",
+            "hu": "Chapelle Saint-Nicolas",
+            "ro": "Chapelle Saint-Nicolas",
+            "en": "Chapelle Saint-Nicolas"
+          },
+          "coords": [
+            -3.279689,
+            48.838444
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die friedliche Kapelle Saint-Nicolas ein, um ihre gut erhaltenen mittelalterlichen Fresken zu bewundern, und denken Sie daran, aus Respekt vor diesem noch aktiven Gotteshaus die Stimme zu senken.",
+            "hu": "Lépjen be a békés Saint-Nicolas kápolnába, hogy megcsodálhassa a megőrzött középkori freskóit, és ne felejtse el lehalkítani a hangját, tiszteletben tartva ezt a ma is aktív istentiszteleti helyet.",
+            "ro": "Pășiți în liniștita Capelă Saint-Nicolas pentru a admira frescele sale medievale conservate și amintiți-vă să coborâți vocea din respect pentru acest lăcaș de cult încă activ.",
+            "en": "Step into the peaceful Chapelle Saint-Nicolas to admire its preserved medieval frescoes, and remember to lower your voice out of respect for this still-active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Guernotier",
+            "hu": "Manoir de Guernotier",
+            "ro": "Manoir de Guernotier",
+            "en": "Manoir de Guernotier"
+          },
+          "coords": [
+            -3.286459,
+            48.833977
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die elegante Steinfassade des Manoir de Guernotier, ein feines Beispiel bretonischer Adelsarchitektur, aber beachten Sie, dass es sich um Privatbesitz handelt und am besten von der Straße aus zu sehen ist.",
+            "hu": "Fényképezze le a Manoir de Guernotier elegáns kőhomlokzatát, amely a breton arisztokrata építészet remek példája, bár tartsa szem előtt, hogy magántulajdon, így az útról a legjobb megtekinteni.",
+            "ro": "Fotografiați eleganta fațadă de piatră a Manoir de Guernotier, un exemplu fin al arhitecturii aristocratice bretone, deși rețineți că este o proprietate privată și cel mai bine se vede de la drum.",
+            "en": "Photograph the elegant stone façade of the Manoir de Guernotier, a fine example of Breton aristocratic architecture, though be mindful that it is private property and viewing is best from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kermarker",
+            "hu": "Menhir de Kermarker",
+            "ro": "Menhir de Kermarker",
+            "en": "Menhir de Kermarker"
+          },
+          "coords": [
+            -3.298875,
+            48.820712
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die enorme Größe des Menhir de Kermarker, der sich zwischen den Bäumen versteckt, und tragen Sie lange Hosen, da der umliegende Weg manchmal mit Brennnesseln überwuchert sein kann.",
+            "hu": "Csodálja meg a fák között megbúvó Kermarker-menhír puszta méretét, és viseljen hosszú nadrágot, mivel a környező ösvényt néha benőheti a csalán.",
+            "ro": "Minunați-vă de dimensiunea impresionantă a Menhir de Kermarker ascuns printre copaci și purtați pantaloni lungi, deoarece poteca din jur poate fi uneori acoperită de urzici.",
+            "en": "Marvel at the sheer size of the Menhir de Kermarker hidden among the trees, and wear long trousers as the surrounding path can sometimes be overgrown with nettles."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kerbriand",
+            "hu": "Menhir de Kerbriand",
+            "ro": "Menhir de Kerbriand",
+            "en": "Menhir de Kerbriand"
+          },
+          "coords": [
+            -3.304445,
+            48.81531
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rauen Menhir de Kerbriand, der lautlos auf einem Feld steht, ein Zeugnis prähistorischer Bewohner, und besuchen Sie ihn am späten Nachmittag für das dramatischste Licht.",
+            "hu": "Fedezze fel a mezőn csendben álló, zord Kerbriand-menhírt, a történelem előtti lakosok tanúbizonyságát, és látogasson el ide késő délután a legdrámaibb fényviszonyokért.",
+            "ro": "Descoperiți robustul Menhir de Kerbriand stând tăcut pe un câmp, o mărturie a locuitorilor preistorici, și vizitați-l spre sfârșitul după-amiezii pentru cea mai dramatică iluminare.",
+            "en": "Discover the rugged Menhir de Kerbriand standing silently in a field, a testament to prehistoric inhabitants, and visit during the late afternoon for the most dramatic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kervéniou",
+            "hu": "Menhir de Kervéniou",
+            "ro": "Menhir de Kervéniou",
+            "en": "Menhir de Kervéniou"
+          },
+          "coords": [
+            -3.30562,
+            48.828059
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Denken Sie über das Geheimnis des Menhir de Kervéniou in seiner ruhigen Umgebung nach und nutzen Sie die nahe gelegene Holzbank, um sich auszuruhen und die ruhige Atmosphäre der bretonischen Landschaft in sich aufzunehmen.",
+            "hu": "Gondolkodjon el a Kervéniou-menhír rejtélyén a nyugodt környezetében, és használja ki a közeli fapadot a pihenésre, magába szívva a breton vidék csendes atmoszféráját.",
+            "ro": "Contemplați misterul Menhirului de Kervéniou în decorul său liniștit și profitați de banca de lemn din apropiere pentru a vă odihni și a absorbi atmosfera tăcută a peisajului rural breton.",
+            "en": "Contemplate the mystery of the Menhir de Kervéniou in its tranquil setting, and take advantage of the nearby wooden bench to rest and absorb the quiet atmosphere of the Breton countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Port-Blanc",
+            "hu": "Chapelle Notre-Dame de Port-Blanc",
+            "ro": "Chapelle Notre-Dame de Port-Blanc",
+            "en": "Chapelle Notre-Dame de Port-Blanc"
+          },
+          "coords": [
+            -3.314066,
+            48.835025
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige, halb in die Erde gebaute Architektur dieser Küstenkapelle aus dem 16. Jahrhundert und prüfen Sie das lokale schwarze Brett auf gelegentliche abendliche Chorauftritte.",
+            "hu": "Csodálja meg ennek a 16. századi félig földbe süllyesztett parti kápolnának az egyedi építészetét, és nézze meg a helyi hirdetőtáblát az esetleges esti kóruselőadások miatt.",
+            "ro": "Admirați arhitectura unică, semi-îngropată a acestei capele de coastă din secolul al XVI-lea și verificați avizierul local pentru spectacole ocazionale de cor seara.",
+            "en": "Admire the unique, semi-buried architecture of this coastal chapel dating back to the 16th century, and check the local notice board for occasional evening choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Sentinelle",
+            "hu": "Plage de la Sentinelle",
+            "ro": "Plage de la Sentinelle",
+            "en": "Plage de la Sentinelle"
+          },
+          "coords": [
+            -3.311414,
+            48.836795
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden der Plage de la Sentinelle mit fantastischem Blick auf die raue Küste, aber denken Sie daran, Ihre eigene Sonnencreme mitzubringen, da Schatten rar ist.",
+            "hu": "Pihenjen a Plage de la Sentinelle homokos partján, amely fantasztikus kilátást nyújt a zord partvonalra, de ne felejtsen el naptejet hozni, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă pe țărmul nisipos al Plage de la Sentinelle, care oferă vederi fantastice ale coastei stâncoase, dar nu uitați să aduceți cremă de protecție solară, deoarece umbra este limitată.",
+            "en": "Relax on the sandy shores of Plage de la Sentinelle, offering fantastic views of the rugged coastline, but remember to bring your own sunscreen as shade is limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Kapelle Saint-Nicolas und tauchen Sie in die Geschichte ein. Mittags stehen das Manoir de Guernotier und die mysteriösen Menhire auf dem Programm. Nachmittags besuchen Sie Kervéniou und die Küstenkapelle. Der Abend klingt am Strand aus.",
+        "hu": "Induljon a Saint-Nicolas kápolnától, elmerülve a helyi történelemben. A délben a Manoir de Guernotier és a titokzatos menhírek túrája következik. A délután Kervéniou-t és a parti kápolnát foglalja magában. Az este a tengerparton zárul.",
+        "ro": "Începeți la Capela Saint-Nicolas, plonjând în istoria locală. Prânzul implică un tur al Manoir de Guernotier și al misterioșilor menhiri. Opririle de după-amiază includ Kervéniou și frumoasa capelă de coastă. Seara se încheie relaxant pe plajă.",
+        "en": "Start driving at Chapelle Saint-Nicolas, diving into local history. Midday involves a tour of the Manoir de Guernotier and the mysterious Menhirs of Kermarker and Kerbriand. Afternoon stops include Kervéniou and the beautiful coastal chapel. Evening concludes relaxing on the beach."
+      }
+    }
+  }
+}

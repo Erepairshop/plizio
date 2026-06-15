@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-rubi-cities-v2",
+  "anchor": {
+    "name": "Rubí",
+    "coords": [
+      2.03305,
+      41.49226
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Rubí",
+            "hu": "Ajuntament de Rubí",
+            "ro": "Ajuntament de Rubí",
+            "en": "Ajuntament de Rubí"
+          },
+          "coords": [
+            2.031086,
+            41.493724
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Rathauses aus dem 19. Jahrhundert, das das Herz der Stadt bildet, und achten Sie auf die vielen kleinen architektonischen Details am Gebäude.",
+            "hu": "Csodálja meg a 19. századi városháza elegáns homlokzatát, amely a város központját jelképezi, és figyelje meg az épületen található apró építészeti részleteket.",
+            "ro": "Admirați fațada elegantă a primăriei din secolul al XIX-lea, o clădire cu o semnificație istorică majoră, și observați detaliile arhitecturale rafinate ale structurii.",
+            "en": "Admire the elegant 19th-century facade of the city hall, which forms the civic heart of the town, and look out for the intricate architectural details on the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Pere de Rubí",
+            "hu": "Sant Pere de Rubí",
+            "ro": "Sant Pere de Rubí",
+            "en": "Sant Pere de Rubí"
+          },
+          "coords": [
+            2.030254,
+            41.491922
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese romanische Kirche, um ihre reiche Geschichte und friedliche Atmosphäre zu erleben, und kommen Sie früh am Tag, um das wunderschöne Sonnenlicht zu genießen.",
+            "hu": "Látogasson el ebbe a román stílusú templomba, hogy megtapasztalja gazdag történelmét, és érkezzen korán a nap folyamán, hogy élvezze a gyönyörű reggeli napfényt odabent.",
+            "ro": "Vizitați această biserică romanică pentru a experimenta istoria sa bogată și atmosfera pașnică, și sosiți devreme în timpul zilei pentru a vă bucura de lumina minunată.",
+            "en": "Visit this Romanesque church to experience its rich history and peaceful atmosphere, and arrive early in the day to enjoy the beautiful sunlight illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rubí",
+            "hu": "Castell de Rubí",
+            "ro": "Castell de Rubí",
+            "en": "Castell de Rubí"
+          },
+          "coords": [
+            2.026386,
+            41.494568
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Burg, die heute ein faszinierendes Stadtmuseum beherbergt, und prüfen Sie vorher die Öffnungszeiten, da sie an einigen Feiertagen geschlossen bleibt.",
+            "hu": "Fedezze fel ezt az ősi kastélyt, amely ma egy lenyűgöző városi múzeumnak ad otthont, és előzetesen ellenőrizze a nyitvatartást, mivel néhány ünnepnapon zárva tarthat a hely.",
+            "ro": "Explorați acest castel antic, care găzduiește acum un muzeu municipal fascinant, și verificați în prealabil programul de funcționare, deoarece poate fi închis de sărbători.",
+            "en": "Explore this ancient castle which now houses a fascinating municipal museum, and be sure to check the opening hours beforehand as it may be closed on certain public holidays."
+          }
+        },
+        {
+          "name": {
+            "de": "El Celler",
+            "hu": "El Celler",
+            "ro": "El Celler",
+            "en": "El Celler"
+          },
+          "coords": [
+            2.033314,
+            41.487366
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die modernistische Architektur dieser ehemaligen Weinkellerei, die Rubís ländliche Vergangenheit widerspiegelt, und nutzen Sie das wunderbare Licht für Fotos.",
+            "hu": "Fedezze fel ezen egykori pincészet modernista építészetét, amely a város mezőgazdasági múltját tükrözi, és használja ki a csodálatos természetes fényt a fotózáshoz.",
+            "ro": "Descoperiți arhitectura modernistă a acestei foste crame care reflectă trecutul agricol al orașului, și profitați de lumina naturală minunată pentru fotografii uimitoare.",
+            "en": "Discover the modernist architecture of this former winery reflecting the town's agricultural past, and take advantage of the wonderful natural light for some stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre La Sala",
+            "hu": "Teatre La Sala",
+            "ro": "Teatre La Sala",
+            "en": "Teatre La Sala"
+          },
+          "coords": [
+            2.035407,
+            41.48744
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre dieses historischen Theaters, das eine wichtige Rolle im lokalen Leben spielt, und prüfen Sie das Programm für mögliche Vorstellungen.",
+            "hu": "Élvezze a kulturális hangulatot ebben a történelmi színházban, amely fontos szerepet játszik a helyi életben, és ellenőrizze a programot az esti előadások megtekintéséhez.",
+            "ro": "Bucurați-vă de atmosfera culturală a acestui teatru istoric, cu un rol vital în comunitatea locală, și verificați programul pentru posibile spectacole de seară în zonă.",
+            "en": "Enjoy the cultural atmosphere at this historic theater that plays a vital role in local community life, and check the schedule in advance for any interesting evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruïnes",
+            "hu": "Ruïnes",
+            "ro": "Ruïnes",
+            "en": "Ruïnes"
+          },
+          "coords": [
+            2.040165,
+            41.492444
+          ],
+          "category": "historical",
+          "arrive_at": "16:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese faszinierenden archäologischen Ruinen, die die römische Vergangenheit der Region zeigen, und tragen Sie bequeme Schuhe für unebenes Gelände.",
+            "hu": "Sétáljon át ezeken a lenyűgöző régészeti romokon, amelyek bemutatják a régió római kori múltját, és viseljen kényelmes cipőt, mivel a terep egyenetlen és köves lehet.",
+            "ro": "Plimbați-vă prin aceste fascinante ruine arheologice care dezvăluie trecutul roman al regiunii, și asigurați-vă că purtați încălțăminte confortabilă pentru teren accidentat.",
+            "en": "Walk through these fascinating archaeological ruins showcasing the region's ancient Roman past, and make sure to wear comfortable walking shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Rathaus und bewundern Sie dessen elegante Fassade, gefolgt von einem ruhigen Moment in der romanischen Kirche Sant Pere.\n\nMittags erreichen Sie das Castell de Rubí, wo Sie innerhalb einer alten Festung tief in die spannende lokale Geschichte der Stadt eintauchen können.\n\nAm Nachmittag entdecken Sie die modernistische Architektur des El Celler und die lebendige kulturelle Atmosphäre des Teatre La Sala.\n\nBeenden Sie Ihren Tag mit einem faszinierenden Spaziergang durch die archäologischen Ruinen, die an die antike römische Geschichte dieser besonderen Region erinnern.",
+        "hu": "Kezdje a reggelt a történelmi városháza elegáns homlokzatának megcsodálásával, majd töltsön el egy csendes pillanatot a román stílusú Sant Pere templomban.\n\nDélben a Castell de Rubí várja, ahol egy ősi erődítmény falai között merülhet el a város lenyűgöző és gazdag történelmében.\n\nDélután fedezze fel az El Celler modernista építészetét és a Teatre La Sala élénk, helyi kulturális hangulatát a városközpontban.\n\nZárja a napot az ókori római romok közötti sétával, elgondolkodva e régió mély, több ezer éves történelmi múltján és örökségén.",
+        "ro": "Începeți dimineața explorând primăria istorică, admirând fațada sa elegantă din secolul al XIX-lea, urmată de un moment de liniște la Sant Pere.\n\nLa prânz ajungeți la Castell de Rubí, unde puteți aprofunda istoria locală fascinantă în interiorul unei fortărețe antice uimitoare.\n\nDupă-amiaza, descoperiți arhitectura modernistă de la El Celler și atmosfera culturală vibrantă oferită de Teatre La Sala din centru.\n\nÎncheiați-vă ziua rătăcind prin vechile ruine romane, reflectând la istoria profundă și la patrimoniul incredibil al acestei regiuni.",
+        "en": "Begin your morning exploring the historic Ajuntament, enjoying the 19th-century facade, followed by a quiet moment at the Romanesque Sant Pere.\n\nMidday brings you to the Castell de Rubí, where you can delve into fascinating local history within an impressively preserved ancient fortress.\n\nIn the afternoon, dive into the modernist architecture of El Celler and the vibrant local cultural vibe of Teatre La Sala.\n\nConclude your day wandering through the ancient Roman ruins, reflecting on the deep history and incredible heritage of the region."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont de Can Claveri",
+            "hu": "Pont de Can Claveri",
+            "ro": "Pont de Can Claveri",
+            "en": "Pont de Can Claveri"
+          },
+          "coords": [
+            2.028726,
+            41.497959
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Aquädukt, das von technischem Einfallsreichtum zeugt, und folgen Sie den nahegelegenen Wegen für einen entspannenden Spaziergang am Wasser.",
+            "hu": "Csodálja meg ezt a történelmi vízvezetéket, amely a mérnöki leleményességről tanúskodik, és kövesse a közeli ösvényeket egy pihentető és csendes tóparti sétához a területen.",
+            "ro": "Admirați acest apeduct istoric care stă mărturie ingeniozității inginerești din trecut, și urmați potecile din apropiere pentru o plimbare relaxantă și liniștită pe mal.",
+            "en": "Admire this historic aqueduct standing as a testament to early engineering ingenuity, and follow the nearby paths for a relaxing and quiet walk along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Rubí",
+            "hu": "Ajuntament de Rubí",
+            "ro": "Ajuntament de Rubí",
+            "en": "Ajuntament de Rubí"
+          },
+          "coords": [
+            2.031086,
+            41.493724
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Rathauses aus dem 19. Jahrhundert, das das Herz der Stadt bildet, und achten Sie auf die vielen kleinen architektonischen Details am Gebäude.",
+            "hu": "Csodálja meg a 19. századi városháza elegáns homlokzatát, amely a város központját jelképezi, és figyelje meg az épületen található apró építészeti részleteket.",
+            "ro": "Admirați fațada elegantă a primăriei din secolul al XIX-lea, o clădire cu o semnificație istorică majoră, și observați detaliile arhitecturale rafinate ale structurii.",
+            "en": "Admire the elegant 19th-century facade of the city hall, which forms the civic heart of the town, and look out for the intricate architectural details on the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Pere de Rubí",
+            "hu": "Sant Pere de Rubí",
+            "ro": "Sant Pere de Rubí",
+            "en": "Sant Pere de Rubí"
+          },
+          "coords": [
+            2.030254,
+            41.491922
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese romanische Kirche, um ihre reiche Geschichte und friedliche Atmosphäre zu erleben, und kommen Sie früh am Tag, um das wunderschöne Sonnenlicht zu genießen.",
+            "hu": "Látogasson el ebbe a román stílusú templomba, hogy megtapasztalja gazdag történelmét, és érkezzen korán a nap folyamán, hogy élvezze a gyönyörű reggeli napfényt odabent.",
+            "ro": "Vizitați această biserică romanică pentru a experimenta istoria sa bogată și atmosfera pașnică, și sosiți devreme în timpul zilei pentru a vă bucura de lumina minunată.",
+            "en": "Visit this Romanesque church to experience its rich history and peaceful atmosphere, and arrive early in the day to enjoy the beautiful sunlight illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rubí",
+            "hu": "Castell de Rubí",
+            "ro": "Castell de Rubí",
+            "en": "Castell de Rubí"
+          },
+          "coords": [
+            2.026386,
+            41.494568
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Burg, die heute ein faszinierendes Stadtmuseum beherbergt, und prüfen Sie vorher die Öffnungszeiten, da sie an einigen Feiertagen geschlossen bleibt.",
+            "hu": "Fedezze fel ezt az ősi kastélyt, amely ma egy lenyűgöző városi múzeumnak ad otthont, és előzetesen ellenőrizze a nyitvatartást, mivel néhány ünnepnapon zárva tarthat a hely.",
+            "ro": "Explorați acest castel antic, care găzduiește acum un muzeu municipal fascinant, și verificați în prealabil programul de funcționare, deoarece poate fi închis de sărbători.",
+            "en": "Explore this ancient castle which now houses a fascinating municipal museum, and be sure to check the opening hours beforehand as it may be closed on certain public holidays."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador camino Can Tiraries",
+            "hu": "Mirador camino Can Tiraries",
+            "ro": "Mirador camino Can Tiraries",
+            "en": "Mirador camino Can Tiraries"
+          },
+          "coords": [
+            2.046337,
+            41.493993
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke auf die Landschaft, ideal, um die Schönheit der Natur zu erleben, und bringen Sie unbedingt eine Kamera für die Landschaft mit.",
+            "hu": "Élvezze a lenyűgöző panorámát a tájra, amely ideális a természet szépségének megtapasztalásához, és mindenképpen hozzon magával fényképezőgépet a gyönyörű tájképekhez.",
+            "ro": "Bucurați-vă de vederi panoramice uimitoare ale peisajului, ideale pentru a aprecia frumusețea naturii, și nu uitați să aduceți un aparat foto pentru peisaje minunate.",
+            "en": "Enjoy stunning panoramic views of the landscape, ideal for experiencing the beauty of nature, and be sure to bring a camera along to capture the breathtaking scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Muç;Ermita Sant Muç",
+            "hu": "Sant Muç;Ermita Sant Muç",
+            "ro": "Sant Muç;Ermita Sant Muç",
+            "en": "Sant Muç;Ermita Sant Muç"
+          },
+          "coords": [
+            2.022197,
+            41.50908
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche ländliche Kapelle, die tief in lokalen Traditionen verwurzelt ist, und genießen Sie die Stille bei einem kurzen Spaziergang um das Gelände.",
+            "hu": "Fedezze fel ezt a békés vidéki kápolnát, amely mélyen gyökerezik a helyi hagyományokban, és élvezze a csendet egy rövid, pihentető séta során az épület és a kert körül.",
+            "ro": "Descoperiți această capelă rurală pașnică, adânc înrădăcinată în tradițiile locale, și bucurați-vă de liniște cu o scurtă și relaxantă plimbare în jurul terenului.",
+            "en": "Discover this peaceful rural chapel deeply rooted in local traditions, and enjoy the profound silence with a short and relaxing walk around the historic grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden Radfahrt zum Pont de Can Claveri, einem historischen Aquädukt, und fahren Sie dann zum zentralen Rathaus für lokale Architektur.\n\nMittags besuchen Sie die wunderschöne Kirche Sant Pere, bevor Sie zum Castell de Rubí radeln, um einen tiefen Einblick in die spannende städtische Vergangenheit zu erhalten.\n\nGenießen Sie am Nachmittag die herrliche Landschaft und die malerische Aussicht vom Mirador camino Can Tiraries, einem perfekten Ort für Naturfotografie.\n\nBeenden Sie Ihr Radabenteuer in der Abenddämmerung an der friedlichen Ermita Sant Muç, wo ländliche Tradition auf unberührte Stille trifft.",
+        "hu": "Kezdje egy frissítő kerékpározással a történelmi Pont de Can Claveri vízvezetékhez, majd tekerjen a központi városházához, hogy megcsodálja a helyi építészetet.\n\nDélben látogasson el a gyönyörű Sant Pere templomba, mielőtt a Castell de Rubí felé veszi az irányt, hogy elmélyedjen a város lenyűgöző és izgalmas történelmében.\n\nDélután élvezze a csodálatos tájat és a festői kilátást a Mirador camino Can Tiraries kilátópontról, amely tökéletes helyszín a természetfotózáshoz.\n\nFejezze be kerékpáros kalandját alkonyatkor a békés Ermita Sant Muç kápolnánál, ahol a vidéki hagyományok tökéletes harmóniában találkoznak a csenddel.",
+        "ro": "Începeți cu o plimbare revigorantă cu bicicleta la apeductul Pont de Can Claveri, apoi pedalați spre primăria centrală pentru a admira arhitectura locală superbă.\n\nLa prânz vizitați frumoasa biserică Sant Pere înainte de a pedala spre Castell de Rubí pentru o scufundare profundă în trecutul istoric fascinant al orașului.\n\nBucurați-vă de după-amiaza admirând peisajele panoramice de la Mirador camino Can Tiraries, un loc perfect și liniștit pentru iubitorii de natură.\n\nTerminați-vă aventura ciclistă la amurg la tranquila Ermita Sant Muç, unde tradiția rurală se împletește perfect cu liniștea absolută a naturii.",
+        "en": "Begin with a refreshing morning ride to the historic Pont de Can Claveri aqueduct, then cycle to the central Ajuntament to appreciate the lovely local architecture.\n\nBy midday, visit the beautiful Sant Pere church before pedaling to the imposing Castell de Rubí for a deep and fascinating dive into the town's rich past.\n\nEnjoy the afternoon taking in the scenic landscapes and picturesque views from the Mirador camino Can Tiraries, a perfect spot for nature enthusiasts.\n\nFinish your cycling adventure at dusk at the tranquil Ermita Sant Muç, where enduring rural tradition meets pristine silence in a beautifully serene setting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antic Castell de Sant Genís",
+            "hu": "Antic Castell de Sant Genís",
+            "ro": "Antic Castell de Sant Genís",
+            "en": "Antic Castell de Sant Genís"
+          },
+          "coords": [
+            2.010961,
+            41.491493
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser mittelalterlichen Festung, um sich das Leben in vergangenen Zeiten vorzustellen, und achten Sie auf die erhaltenen Steinmauern.",
+            "hu": "Látogassa meg ennek a középkori erődítménynek a maradványait, hogy elképzelje az elmúlt idők életét, és fordítson különös figyelmet a megmaradt kőfalak részleteire.",
+            "ro": "Vizitați rămășițele acestei fortărețe medievale pentru a vă imagina viața din vremurile trecute, și acordați o atenție deosebită zidurilor de piatră perfect conservate.",
+            "en": "Visit the remains of this medieval fortress to vividly imagine life in times gone by, and pay close attention to the structural details of the preserved stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Sant Genís",
+            "hu": "Ermita de Sant Genís",
+            "ro": "Ermita de Sant Genís",
+            "en": "Ermita de Sant Genís"
+          },
+          "coords": [
+            2.012529,
+            41.491137
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, charmante historische Einsiedelei auf dem Hügel, die Ruhe bietet, und nutzen Sie den malerischen Pfad für einen sanften und schönen Aufstieg.",
+            "hu": "Fedezze fel ezt a kis, elbűvölő történelmi remeteséget a dombon, amely békét kínál, és használja a festői ösvényt egy kényelmes és szép kapaszkodóhoz a csúcsra.",
+            "ro": "Explorați acest mic și fermecător schit istoric de pe deal, care oferă multă liniște, și folosiți poteca pitorească pentru o ascensiune ușoară și plină de frumusețe.",
+            "en": "Explore this small, charming historical hermitage on the hill offering profound peace, and make sure to use the picturesque path for a gentle and beautiful ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó de Can Pujol",
+            "hu": "Turó de Can Pujol",
+            "ro": "Turó de Can Pujol",
+            "en": "Turó de Can Pujol"
+          },
+          "coords": [
+            2.016139,
+            41.488488
+          ],
+          "category": "park",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft in diesem bewaldeten Naturgebiet, ideal für eine Pause von der Stadt, und bleiben Sie auf den markierten Wegen zum Schutz der Pflanzen.",
+            "hu": "Élvezze a friss levegőt ezen az erdős természeti területen, amely ideális a várostól való elszakadáshoz, és maradjon a kijelölt ösvényeken a növények védelme érdekében.",
+            "ro": "Bucurați-vă de aerul curat din această zonă naturală împădurită, ideală pentru o pauză, și rămâneți pe traseele marcate pentru a proteja flora și fauna locală minunată.",
+            "en": "Enjoy the fresh air in this wooded natural area perfectly suited for a break from the city, and please stay strictly on marked trails to protect the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rubí",
+            "hu": "Castell de Rubí",
+            "ro": "Castell de Rubí",
+            "en": "Castell de Rubí"
+          },
+          "coords": [
+            2.026386,
+            41.494568
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Burg, die heute ein faszinierendes Stadtmuseum beherbergt, und prüfen Sie vorher die Öffnungszeiten, da sie an einigen Feiertagen geschlossen bleibt.",
+            "hu": "Fedezze fel ezt az ősi kastélyt, amely ma egy lenyűgöző városi múzeumnak ad otthont, és előzetesen ellenőrizze a nyitvatartást, mivel néhány ünnepnapon zárva tarthat a hely.",
+            "ro": "Explorați acest castel antic, care găzduiește acum un muzeu municipal fascinant, și verificați în prealabil programul de funcționare, deoarece poate fi închis de sărbători.",
+            "en": "Explore this ancient castle which now houses a fascinating municipal museum, and be sure to check the opening hours beforehand as it may be closed on certain public holidays."
+          }
+        },
+        {
+          "name": {
+            "de": "El Celler",
+            "hu": "El Celler",
+            "ro": "El Celler",
+            "en": "El Celler"
+          },
+          "coords": [
+            2.033314,
+            41.487366
+          ],
+          "category": "museum",
+          "arrive_at": "14:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die modernistische Architektur dieser ehemaligen Weinkellerei, die Rubís ländliche Vergangenheit widerspiegelt, und nutzen Sie das wunderbare Licht für Fotos.",
+            "hu": "Fedezze fel ezen egykori pincészet modernista építészetét, amely a város mezőgazdasági múltját tükrözi, és használja ki a csodálatos természetes fényt a fotózáshoz.",
+            "ro": "Descoperiți arhitectura modernistă a acestei foste crame care reflectă trecutul agricol al orașului, și profitați de lumina naturală minunată pentru fotografii uimitoare.",
+            "en": "Discover the modernist architecture of this former winery reflecting the town's agricultural past, and take advantage of the wonderful natural light for some stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Muç;Ermita Sant Muç",
+            "hu": "Sant Muç;Ermita Sant Muç",
+            "ro": "Sant Muç;Ermita Sant Muç",
+            "en": "Sant Muç;Ermita Sant Muç"
+          },
+          "coords": [
+            2.022197,
+            41.50908
+          ],
+          "category": "religious",
+          "arrive_at": "16:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche ländliche Kapelle, die tief in lokalen Traditionen verwurzelt ist, und genießen Sie die Stille bei einem kurzen Spaziergang um das Gelände.",
+            "hu": "Fedezze fel ezt a békés vidéki kápolnát, amely mélyen gyökerezik a helyi hagyományokban, és élvezze a csendet egy rövid, pihentető séta során az épület és a kert körül.",
+            "ro": "Descoperiți această capelă rurală pașnică, adânc înrădăcinată în tradițiile locale, și bucurați-vă de liniște cu o scurtă și relaxantă plimbare în jurul terenului.",
+            "en": "Discover this peaceful rural chapel deeply rooted in local traditions, and enjoy the profound silence with a short and relaxing walk around the historic grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den antiken Überresten des Antic Castell de Sant Genís, gefolgt von der nahegelegenen malerischen historischen Ermita, um Ihren Tag entspannt zu beginnen.\n\nMittags führt Sie die Fahrt zum Turó de Can Pujol, wo Sie eine erfrischende Naturpause einlegen und die wunderschöne grüne Umgebung in vollen Zügen genießen können.\n\nKehren Sie am Nachmittag in das lebendige Stadtzentrum zurück, um das faszinierende Castell de Rubí und das beeindruckende modernistische Meisterwerk El Celler zu erkunden.\n\nRunden Sie Ihre abwechslungsreiche Fahrt mit einem friedlichen Abend an der ländlichen Ermita Sant Muç ab, weit weg vom hektischen Trubel der Stadt.",
+        "hu": "Autózzon el reggel az Antic Castell de Sant Genís ősi romjaihoz, majd látogasson el a közeli, festői történelmi Ermita kápolnába a nap nyugodt és kellemes indításához.\n\nDélben az út a Turó de Can Pujolhoz vezet, ahol egy frissítő természeti szünetet tarthat, és teljes mértékben élvezheti a gyönyörű zöld környezetet és a csendet.\n\nDélután térjen vissza a városközpontba, hogy felfedezze a lenyűgöző Castell de Rubí erődöt és az El Celler lenyűgöző modernista építészeti mesterművét.\n\nZárja autós túráját egy igazán békés estével a vidéki Ermita Sant Muç kápolnánál, távol a nyüzsgő város zajától, elmélyedve a csendben.",
+        "ro": "Conduceți dimineața către rămășițele antice de la Antic Castell de Sant Genís, apoi vizitați istorica Ermita din apropiere pentru a vă începe ziua relaxat.\n\nLa prânz traseul vă duce la Turó de Can Pujol, unde puteți lua o pauză revigorantă în natură și vă puteți bucura pe deplin de împrejurimile verzi și liniștite.\n\nÎntoarceți-vă în centrul orașului după-amiaza pentru a explora fascinantul Castell de Rubí și impresionanta capodoperă arhitecturală modernistă de la El Celler.\n\nÎncheiați-vă turul auto cu o seară pașnică la rurala Ermita Sant Muç, departe de agitația zgomotoasă a orașului, bucurându-vă de tăcere.",
+        "en": "Drive out early to the ancient remains of Antic Castell de Sant Genís, then visit the beautifully preserved nearby historic Ermita to start your day in peace.\n\nMidday takes you up to the Turó de Can Pujol, providing a refreshing natural break where you can fully enjoy the quiet and beautifully green surroundings.\n\nReturn to the bustling town center in the afternoon to deeply explore the fascinating Castell de Rubí and the striking modernist masterpiece of El Celler.\n\nWrap up your comprehensive driving tour with a remarkably peaceful evening at the rural Ermita Sant Muç, far removed from the busy center's noise."
+      }
+    }
+  }
+}

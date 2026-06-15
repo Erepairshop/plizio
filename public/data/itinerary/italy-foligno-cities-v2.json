@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-foligno-cities-v2",
+  "anchor": {
+    "name": "Foligno",
+    "coords": [
+      12.70268,
+      42.95488
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Il trenino dei canapè",
+            "hu": "Il trenino dei canapè",
+            "ro": "Il trenino dei canapè",
+            "en": "Il trenino dei canapè"
+          },
+          "coords": [
+            12.699721,
+            42.952377
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie dieses charmante kleine Zug-Wahrzeichen, das an alte Parktraditionen erinnert, und fotografieren Sie es am besten im weichen Licht des frühen Morgens.",
+            "hu": "Élvezze ezt a bájos kis vonat nevezetességet, amely a helyi parki hagyományokat idézi, és próbálja kora reggel lefotózni a legszebb fényekért.",
+            "ro": "Bucurați-vă de acest mic trenuleț fermecător care amintește de tradițiile parcului local și încercați să-l fotografiați devreme, în lumina perfectă a dimineții.",
+            "en": "Enjoy this charming little train landmark that recalls local park traditions, and try to photograph it early when the morning light hits the structure perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio del Crocifisso",
+            "hu": "Oratorio del Crocifisso",
+            "ro": "Oratorio del Crocifisso",
+            "en": "Oratorio del Crocifisso"
+          },
+          "coords": [
+            12.699757,
+            42.954279
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das atemberaubende barocke Interieur dieses friedlichen Oratoriums, aber prüfen Sie die Öffnungszeiten an der Tür, da sie oft variieren können.",
+            "hu": "Csodálja meg e békés oratórium lenyűgöző barokk belső terét, de mindenképpen ellenőrizze a pontos nyitvatartást az ajtón, mivel az gyakran változik a héten.",
+            "ro": "Admirați interioarele baroce uimitoare ale acestui oratoriu pașnic, dar asigurați-vă că verificați programul exact de pe ușă, deoarece se poate schimba.",
+            "en": "Admire the stunning baroque interiors of this peaceful oratory, but be sure to check the exact opening hours on the door as they often change during the week."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Italiano di Arte Contemporanea",
+            "hu": "Centro Italiano di Arte Contemporanea",
+            "ro": "Centro Italiano di Arte Contemporanea",
+            "en": "Centro Italiano di Arte Contemporanea"
+          },
+          "coords": [
+            12.704671,
+            42.953327
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mutigen zeitgenössischen Kunstausstellungen in diesem modernen Kubus und nehmen Sie sich Zeit, die exzellenten Kataloge im Shop zu durchstöbern.",
+            "hu": "Fedezze fel a merész kortárs művészeti kiállításokat ebben a modern kockában, és hagyjon időt a kiváló kiállítási katalógusok böngészésére az ajándékboltban.",
+            "ro": "Explorați expozițiile îndrăznețe de artă contemporană găzduite în acest cub arhitectural și păstrați timp pentru a răsfoi excelentele cataloage din magazin.",
+            "en": "Explore the bold contemporary art exhibitions housed in this modern architectural cube, and save time to browse the excellent exhibition catalogs in the gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Capitolare Diocesi di Foligno",
+            "hu": "Museo Capitolare Diocesi di Foligno",
+            "ro": "Museo Capitolare Diocesi di Foligno",
+            "en": "Museo Capitolare Diocesi di Foligno"
+          },
+          "coords": [
+            12.703746,
+            42.956136
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie jahrhundertealte religiöse Artefakte und Kunstwerke und betrachten Sie besonders die atemberaubenden silbernen Reliquiare in der großen Haupthalle.",
+            "hu": "Fedezze fel az évszázadokon átívelő vallási tárgyakat és értékes műalkotásokat, különösen a lenyűgöző ezüst ereklyetartókat a szigorúan őrzött nagyteremben.",
+            "ro": "Descoperiți artefacte religioase și opere de artă prețioase de-a lungul secolelor și priviți de aproape uimitoarele relicve de argint din sala principală mare.",
+            "en": "Discover religious artifacts and precious artworks spanning centuries, and look closely at the stunning silver reliquaries located in the heavily guarded main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca civica",
+            "hu": "Pinacoteca civica",
+            "ro": "Pinacoteca civica",
+            "en": "Pinacoteca civica"
+          },
+          "coords": [
+            12.702757,
+            42.956343
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung von Renaissance-Gemälden lokaler umbrischer Meister und fragen Sie das Personal nach dem kostenlosen Audioguide für mehr Kontext.",
+            "hu": "Csodálja meg az umbriai mesterek reneszánsz festményeinek gazdag gyűjteményét, és kérje a személyzettől az ingyenes audioguide-ot a történelmi kontextusért.",
+            "ro": "Admirați bogata colecție de picturi renascentiste ale maeștrilor locali și cereți personalului ghidul audio gratuit pentru a înțelege contextul istoric local.",
+            "en": "Marvel at the rich collection of Renaissance paintings by local Umbrian masters, and ask the staff for the free audio guide to fully understand the historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giacomo",
+            "hu": "Chiesa di San Giacomo",
+            "ro": "Chiesa di San Giacomo",
+            "en": "Chiesa di San Giacomo"
+          },
+          "coords": [
+            12.702572,
+            42.958735
+          ],
+          "category": "religious",
+          "arrive_at": "16:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese majestätische Kirche ein, um ihre gotischen Elemente zu schätzen, ein perfekter Ort, um die Füße auszuruhen, bevor Sie den Spaziergang fortsetzen.",
+            "hu": "Lépjen be ebbe a fenséges templomba, hogy megcsodálja gótikus elemeit, ami tökéletes hely a pihenésre, mielőtt folytatná a kimerítő délutáni városnézést.",
+            "ro": "Pășiți în această biserică maiestuoasă pentru a-i aprecia elementele gotice elegante, un loc perfect pentru a vă odihni picioarele înainte de a continua plimbarea.",
+            "en": "Step inside this majestic church to appreciate its elegant gothic elements and quiet atmosphere, making it a perfect spot to rest your feet before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamita Cosmica",
+            "hu": "Calamita Cosmica",
+            "ro": "Calamita Cosmica",
+            "en": "Calamita Cosmica"
+          },
+          "coords": [
+            12.708114,
+            42.958082
+          ],
+          "category": "landmark",
+          "arrive_at": "17:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dieser riesigen, bizarren Skelettskulptur in einer alten Kirche überraschen und gehen Sie einmal ganz herum, um die Proportionen zu erfassen.",
+            "hu": "Készüljön fel, hogy lenyűgözi ez a gigantikus, bizarr csontváz szobor egy régi templomban, és sétálja körbe, hogy teljesen megértse a hatalmas arányokat.",
+            "ro": "Fiți pregătiți să fiți uimiți de această sculptură scheletică gigantică și bizară din biserică, și plimbați-vă de jur împrejur pentru a-i înțelege proporțiile.",
+            "en": "Be prepared to be amazed by this gigantic, bizarre skeletal sculpture inside an old church, and walk all the way around it to fully grasp its massive proportions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den südlichen Sehenswürdigkeiten wie dem Il trenino dei canapè. Am Mittag erwarten Sie das Oratorio del Crocifisso und moderne Kunst im CIAC. Verbringen Sie den Nachmittag mit den zentralen Museen und der majestätischen Chiesa di San Giacomo. Beenden Sie den Tag bei der Calamita Cosmica und genießen Sie Folignos einzigartige Mischung aus Alt und Neu.",
+        "hu": "Kezdje a reggelt a déli nevezetességek, köztük a Il trenino dei canapè felfedezésével. A délidő a lenyűgöző Oratorio del Crocifisso és a CIAC kortárs művészetének elmélyülését kínálja. A délutánt a központi múzeumok és a fenséges Chiesa di San Giacomo bejárásával töltheti. Zárja a napot a különleges Calamita Cosmica megtekintésével, amely Foligno egyedi szellemiségét tükrözi.",
+        "ro": "Începeți dimineața explorând atracțiile sudice, cum ar fi Il trenino dei canapè. La amiază, aprofundați arta și istoria la Oratorio del Crocifisso și galeria CIAC. Petreceți după-amiaza vizitând muzeele centrale și maiestuoasa biserică Chiesa di San Giacomo. Încheiați ziua admirând sculptura impresionantă Calamita Cosmica, care reflectă spiritul inovator și clasic al orașului.",
+        "en": "Begin your morning exploring the southern landmarks like Il trenino dei canapè. Midday offers deep dives into the Oratorio del Crocifisso and modern art at the CIAC. Spend your afternoon wandering the central museums and the majestic Chiesa di San Giacomo. Conclude your day with the striking Calamita Cosmica, reflecting on Foligno's blend of ancient and avant-garde spirit."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Paolo Apostolo",
+            "hu": "Chiesa di San Paolo Apostolo",
+            "ro": "Chiesa di San Paolo Apostolo",
+            "en": "Chiesa di San Paolo Apostolo"
+          },
+          "coords": [
+            12.688525,
+            42.956153
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die markante Betongeometrie dieser zeitgenössischen Kirche von Fuksas und besuchen Sie sie an einem sonnigen Tag wegen der tollen Innenbeleuchtung.",
+            "hu": "Tapasztalja meg a Fuksas által tervezett kortárs templom beton geometriáját, és látogasson el egy napos napon, hogy lássa a drámai belső fényviszonyokat.",
+            "ro": "Experimentați geometria frapantă din beton a acestei biserici contemporane și vizitați-o într-o zi însorită pentru a vedea iluminarea interioară dramatică.",
+            "en": "Experience the striking concrete geometry of this contemporary church designed by Massimiliano Fuksas, and visit on a sunny day to see the dramatic interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Nicolò",
+            "hu": "Chiesa di San Nicolò",
+            "ro": "Chiesa di San Nicolò",
+            "en": "Chiesa di San Nicolò"
+          },
+          "coords": [
+            12.699341,
+            42.955361
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie das wunderschöne Polyptychon von Niccolò di Liberatore in diesem Gebäude und bringen Sie eine kleine Münze mit, um den Altarraum zu beleuchten.",
+            "hu": "Vizsgálja meg a Niccolò di Liberatore által készített gyönyörű szárnyasoltárt az épületben, és hozzon magával némi aprót, hogy megvilágítsa a főoltárt.",
+            "ro": "Examinați frumosul poliptic de Niccolò di Liberatore din această clădire și aduceți o mică monedă de donație pentru a ilumina corespunzător altarul principal.",
+            "en": "Examine the beautiful polyptych by Niccolò di Liberatore housed within this grand building, and bring a small donation coin to illuminate the main altarpiece properly."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca civica",
+            "hu": "Pinacoteca civica",
+            "ro": "Pinacoteca civica",
+            "en": "Pinacoteca civica"
+          },
+          "coords": [
+            12.702757,
+            42.956343
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung von Renaissance-Gemälden lokaler umbrischer Meister und fragen Sie das Personal nach dem kostenlosen Audioguide für mehr Kontext.",
+            "hu": "Csodálja meg az umbriai mesterek reneszánsz festményeinek gazdag gyűjteményét, és kérje a személyzettől az ingyenes audioguide-ot a történelmi kontextusért.",
+            "ro": "Admirați bogata colecție de picturi renascentiste ale maeștrilor locali și cereți personalului ghidul audio gratuit pentru a înțelege contextul istoric local.",
+            "en": "Marvel at the rich collection of Renaissance paintings by local Umbrian masters, and ask the staff for the free audio guide to fully understand the historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Chiesa di Sant'Agostino",
+            "ro": "Chiesa di Sant'Agostino",
+            "en": "Chiesa di Sant'Agostino"
+          },
+          "coords": [
+            12.706957,
+            42.957067
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die markante Backsteinfassade zu betrachten, und achten Sie auf die verblassten, aber immer noch schönen Außenfresken.",
+            "hu": "Szánjon egy percet e fontos történelmi szentély jellegzetes tégla homlokzatának megtekintésére, és figyelje meg a halványult, de még mindig gyönyörű freskókat.",
+            "ro": "Alocați-vă un moment pentru a vizualiza fațada distinctivă din cărămidă a acestui sanctuar și priviți îndeaproape frescele exterioare estompate, dar frumoase.",
+            "en": "Take a moment to view the distinctive brick facade of this important historical sanctuary, and look closely at the faded, yet still beautiful, exterior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamita Cosmica",
+            "hu": "Calamita Cosmica",
+            "ro": "Calamita Cosmica",
+            "en": "Calamita Cosmica"
+          },
+          "coords": [
+            12.708114,
+            42.958082
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dieser riesigen, bizarren Skelettskulptur in einer alten Kirche überraschen und gehen Sie einmal ganz herum, um die Proportionen zu erfassen.",
+            "hu": "Készüljön fel, hogy lenyűgözi ez a gigantikus, bizarr csontváz szobor egy régi templomban, és sétálja körbe, hogy teljesen megértse a hatalmas arányokat.",
+            "ro": "Fiți pregătiți să fiți uimiți de această sculptură scheletică gigantică și bizară din biserică, și plimbați-vă de jur împrejur pentru a-i înțelege proporțiile.",
+            "en": "Be prepared to be amazed by this gigantic, bizarre skeletal sculpture inside an old church, and walk all the way around it to fully grasp its massive proportions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strada romana",
+            "hu": "Strada romana",
+            "ro": "Strada romana",
+            "en": "Strada romana"
+          },
+          "coords": [
+            12.715384,
+            42.952666
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses bemerkenswerten Abschnitts einer antiken Römerstraße und tragen Sie feste Schuhe, da die unebenen historischen Steine rutschig sind.",
+            "hu": "Sétáljon végig ezen a figyelemre méltó ókori római útszakaszon, és viseljen kényelmes, masszív cipőt, mivel az egyenetlen történelmi köveken nehéz a járás.",
+            "ro": "Plimbați-vă de-a lungul acestei vechi rute romane uimitoare care conecta imperii și purtați pantofi de mers robuști, deoarece pietrele inegale pot fi dificile.",
+            "en": "Walk along this remarkable stretch of ancient Roman road that once connected vast empires, and wear sturdy walking shoes as the uneven historical stones can be tricky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der modernen Chiesa di San Paolo Apostolo und fahren Sie ins Zentrum. Am Mittag erwarten Sie die Chiesa di San Nicolò und die reiche Pinacoteca civica. Nachmittags radeln Sie nach Sant'Agostino und zur berühmten Skulptur Calamita Cosmica. Lassen Sie den Tag entspannt ausklingen, indem Sie die antike Strada romana im weichen Licht der Abendsonne erkunden.",
+        "hu": "Kezdje kerékpártúráját a modern Chiesa di San Paolo Apostolo épületénél, majd tekerjen a történelmi központba. Délben fedezze fel a Chiesa di San Nicolòt és a Pinacoteca civica gazdag gyűjteményét. A délutáni tekerés a Sant'Agostinohoz és a híres Calamita Cosmica szoborhoz vezet. Zárja a napot az ősi Strada romana csendes útjain, amely különösen naplementekor nyújt békés élményt.",
+        "ro": "Începeți turul cu bicicleta la biserica modernă San Paolo Apostolo, apoi pedalați spre centrul istoric. Amiaza vă dezvăluie frumoasa Chiesa di San Nicolò și colecțiile bogate de la Pinacoteca civica. După-amiaza vă duce la Sant'Agostino și la faimoasa sculptură Calamita Cosmica. Încheiați ziua descoperind străvechea Strada romana, o retragere liniștită ideală la apusul soarelui.",
+        "en": "Kick off your bike tour at the modern Chiesa di San Paolo Apostolo before riding into the historic core. Midday reveals the beautiful Chiesa di San Nicolò and the rich collections of Pinacoteca civica. Your afternoon pedal takes you to Sant'Agostino and the famous Calamita Cosmica sculpture. Wrap up the day by discovering the ancient Strada romana, a quiet retreat at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "tomba romana",
+            "hu": "tomba romana",
+            "ro": "tomba romana",
+            "en": "tomba romana"
+          },
+          "coords": [
+            12.672432,
+            42.957958
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende unterirdische römische Grab abseits der Touristenpfade und informieren Sie sich beim Tourismusbüro über die Zugangszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző földalatti római sírt a megszokott turistaútvonalaktól távol, és mindenképpen egyeztessen a helyi irodával a vezetett belépésről.",
+            "ro": "Descoperiți acest mormânt roman subteran fascinant ascuns de traseele turistice obișnuite și verificați la biroul local de turism timpii de acces ghidat cu atenție.",
+            "en": "Discover this fascinating subterranean Roman tomb hidden away from the usual tourist paths, and double-check with the local tourist office for guided access times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Paolo Apostolo",
+            "hu": "Chiesa di San Paolo Apostolo",
+            "ro": "Chiesa di San Paolo Apostolo",
+            "en": "Chiesa di San Paolo Apostolo"
+          },
+          "coords": [
+            12.688525,
+            42.956153
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die markante Betongeometrie dieser zeitgenössischen Kirche von Fuksas und besuchen Sie sie an einem sonnigen Tag wegen der tollen Innenbeleuchtung.",
+            "hu": "Tapasztalja meg a Fuksas által tervezett kortárs templom beton geometriáját, és látogasson el egy napos napon, hogy lássa a drámai belső fényviszonyokat.",
+            "ro": "Experimentați geometria frapantă din beton a acestei biserici contemporane și vizitați-o într-o zi însorită pentru a vedea iluminarea interioară dramatică.",
+            "en": "Experience the striking concrete geometry of this contemporary church designed by Massimiliano Fuksas, and visit on a sunny day to see the dramatic interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Capitolare Diocesi di Foligno",
+            "hu": "Museo Capitolare Diocesi di Foligno",
+            "ro": "Museo Capitolare Diocesi di Foligno",
+            "en": "Museo Capitolare Diocesi di Foligno"
+          },
+          "coords": [
+            12.703746,
+            42.956136
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie jahrhundertealte religiöse Artefakte und Kunstwerke und betrachten Sie besonders die atemberaubenden silbernen Reliquiare in der großen Haupthalle.",
+            "hu": "Fedezze fel az évszázadokon átívelő vallási tárgyakat és értékes műalkotásokat, különösen a lenyűgöző ezüst ereklyetartókat a szigorúan őrzött nagyteremben.",
+            "ro": "Descoperiți artefacte religioase și opere de artă prețioase de-a lungul secolelor și priviți de aproape uimitoarele relicve de argint din sala principală mare.",
+            "en": "Discover religious artifacts and precious artworks spanning centuries, and look closely at the stunning silver reliquaries located in the heavily guarded main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamita Cosmica",
+            "hu": "Calamita Cosmica",
+            "ro": "Calamita Cosmica",
+            "en": "Calamita Cosmica"
+          },
+          "coords": [
+            12.708114,
+            42.958082
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dieser riesigen, bizarren Skelettskulptur in einer alten Kirche überraschen und gehen Sie einmal ganz herum, um die Proportionen zu erfassen.",
+            "hu": "Készüljön fel, hogy lenyűgözi ez a gigantikus, bizarr csontváz szobor egy régi templomban, és sétálja körbe, hogy teljesen megértse a hatalmas arányokat.",
+            "ro": "Fiți pregătiți să fiți uimiți de această sculptură scheletică gigantică și bizară din biserică, și plimbați-vă de jur împrejur pentru a-i înțelege proporțiile.",
+            "en": "Be prepared to be amazed by this gigantic, bizarre skeletal sculpture inside an old church, and walk all the way around it to fully grasp its massive proportions."
+          }
+        },
+        {
+          "name": {
+            "de": "Locomotiva E.626.156",
+            "hu": "Locomotiva E.626.156",
+            "ro": "Locomotiva E.626.156",
+            "en": "Locomotiva E.626.156"
+          },
+          "coords": [
+            12.720041,
+            42.962627
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Zugliebhaber werden es lieben, diese wunderschön erhaltene alte Elektrolokomotive zu fotografieren, ein wunderbarer kurzer Stopp direkt vor dem Hauptbahnhof.",
+            "hu": "A vonatrajongók imádni fogják ezt a gyönyörűen megőrzött régi villamos mozdonyt fotózni, amely egy csodálatos gyors megálló a központi főpályaudvar mellett.",
+            "ro": "Pasionații de trenuri vor adora să fotografieze această locomotivă electrică vintage excelent conservată, o oprire rapidă perfectă chiar lângă stația principală.",
+            "en": "Train enthusiasts will love photographing this beautifully preserved vintage electric locomotive, and it serves as a wonderful quick stop just outside the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Parco Hoffman",
+            "hu": "Anfiteatro Parco Hoffman",
+            "ro": "Anfiteatro Parco Hoffman",
+            "en": "Anfiteatro Parco Hoffman"
+          },
+          "coords": [
+            12.712914,
+            42.968652
+          ],
+          "category": "cultural",
+          "arrive_at": "13:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser weitläufigen modernen Grünanlage mit einem Freiluft-Amphitheater, dem perfekten Ort, um ein friedliches Picknick bei Sonnenuntergang zu genießen.",
+            "hu": "Pihenjen ebben a tágas, modern, amfiteátrum elrendezésű zöldterületen, amely tökéletes utolsó állomás, hogy élvezze a békés pikniket a naplementében.",
+            "ro": "Relaxați-vă în acest spațiu verde modern extins, cu un amfiteatru în aer liber, fiind oprirea finală perfectă pentru a vă bucura de un picnic liniștit la apus.",
+            "en": "Relax in this expansive modern green space featuring an open-air amphitheater layout, making it the perfect final stop to enjoy a peaceful picnic as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der antiken tomba romana, einer beeindruckenden archäologischen Stätte. Mittags bewundern Sie die Architektur der Chiesa di San Paolo Apostolo und die Schätze des Museo Capitolare. Der Nachmittag bietet einen Stopp an der Calamita Cosmica und der historischen Locomotiva E.626.156. Beenden Sie Ihre Tour im entspannenden Anfiteatro Parco Hoffman.",
+        "hu": "Indítsa autós útját az ókori tomba romana lenyűgöző régészeti lelőhelyénél, a központon kívül. Délben csodálja meg a Chiesa di San Paolo Apostolo merész építészetét és a Museo Capitolare kincseit. Délután álljon meg a Calamita Cosmica és a történelmi Locomotiva E.626.156 nevezetességeknél. Fejezze be a felfedezőutat a pihentető Anfiteatro Parco Hoffman szabadtéri komplexumában.",
+        "ro": "Începeți traseul auto la vechea tomba romana, un sit arheologic impresionant din afara centrului. La amiază, admirați arhitectura curajoasă a bisericii San Paolo Apostolo și comorile de la Museo Capitolare. După-amiaza include opriri la Calamita Cosmica și la istorica Locomotiva E.626.156. Încheiați-vă călătoria relaxându-vă în spațiul verde plăcut de la Anfiteatro Parco Hoffman.",
+        "en": "Start your driving route at the ancient tomba romana, an impressive archaeological site outside the center. By midday, admire the bold architecture of Chiesa di San Paolo Apostolo and the Museo Capitolare's treasures. The afternoon features a quick stop at the striking Calamita Cosmica and the historic Locomotiva E.626.156. Finish your tour at the relaxing Anfiteatro Parco Hoffman."
+      }
+    }
+  }
+}

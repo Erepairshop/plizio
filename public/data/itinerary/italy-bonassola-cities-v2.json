@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-bonassola-cities-v2",
+  "anchor": {
+    "name": "Bonassola",
+    "coords": [
+      9.58253,
+      44.18355
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 2.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Sabbia d'Oro",
+            "hu": "Bagni Sabbia d'Oro",
+            "ro": "Bagni Sabbia d'Oro",
+            "en": "Bagni Sabbia d'Oro"
+          },
+          "coords": [
+            9.581108,
+            44.183144
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen goldenen Sand dieses beliebten zentralen Strandes und genießen Sie das klare Wasser, aber kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Pihenjen a népszerű központi strand finom aranyhomokján és élvezze a tiszta vizet, de érkezzen korán, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Relaxați-vă pe nisipul auriu fin al acestei plaje centrale populare și bucurați-vă de apele clare, dar ajungeți devreme pentru a prinde un șezlong bun.",
+            "en": "Relax on the fine golden sands of this popular central beach, enjoying the clear waters, but arrive early to secure a prime spot with a sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Ugo Maria Morosi",
+            "hu": "Sala Ugo Maria Morosi",
+            "ro": "Sala Ugo Maria Morosi",
+            "en": "Sala Ugo Maria Morosi"
+          },
+          "coords": [
+            9.5828,
+            44.182927
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokalen kulturellen Ausstellungen in diesem Saal, der Bonassolas künstlerisches Erbe feiert, und werfen Sie am Eingang einen Blick auf den Veranstaltungsplan.",
+            "hu": "Fedezze fel a helyi kulturális kiállításokat ebben a teremben, amely Bonassola művészeti örökségét ünnepli, és ne felejtse el megnézni az eseménynaptárt a bejáratnál.",
+            "ro": "Explorați expozițiile culturale locale în această sală dedicată care celebrează patrimoniul artistic al Bonassolei, și nu uitați să verificați programul evenimentelor la intrare.",
+            "en": "Explore local cultural exhibits in this dedicated hall that celebrates Bonassola's artistic heritage, and don't forget to check the event schedule at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello",
+            "hu": "Castello",
+            "ro": "Castello",
+            "en": "Castello"
+          },
+          "coords": [
+            9.583412,
+            44.184649
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Bergfestung hinauf, die einen spektakulären Panoramablick auf die Bucht bietet, und tragen Sie unbedingt feste Schuhe für den felsigen Weg.",
+            "hu": "Másszon fel ezen ősi hegyvidéki erőd romjaihoz, ahonnan látványos panoráma nyílik az öbölre, és mindenképpen viseljen masszív cipőt a sziklás ösvényen.",
+            "ro": "Urcați la ruinele acestei vechi fortărețe de pe deal care oferă vederi panoramice spectaculoase ale golfului, asigurându-vă că purtați încălțăminte solidă pe poteca stâncoasă.",
+            "en": "Climb up to the ruins of this ancient hilltop fortress offering spectacular panoramic views of the bay, making sure to wear sturdy shoes for the rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio",
+            "ro": "San Giorgio",
+            "en": "San Giorgio"
+          },
+          "coords": [
+            9.583087,
+            44.190342
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne pastellfarbene Fassade und das ruhige Innere dieser historischen Pfarrkirche und nehmen Sie sich Zeit für die Kunstwerke, bevor Sie die Gassen erkunden.",
+            "hu": "Csodálja meg e történelmi plébániatemplom gyönyörű pasztell homlokzatát és békés belső terét, egy pillanatra elidőzve a műalkotásoknál a környék felfedezése előtt.",
+            "ro": "Admirați frumoasa fațadă pastelată și interiorul senin al acestei biserici parohiale istorice, luându-vă un moment pentru a aprecia arta înainte de a explora aleile.",
+            "en": "Admire the beautiful pastel facade and serene interior of this historic parish church, taking a moment to appreciate the artwork before exploring the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Pertusu",
+            "hu": "Pertusu",
+            "ro": "Pertusu",
+            "en": "Pertusu"
+          },
+          "coords": [
+            9.578351,
+            44.182924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen versteckten Küstenort, an dem die felsigen Klippen dramatisch auf das Meer treffen, und bringen Sie Ihre Kamera mit, um das atemberaubende Sonnenuntergangslicht einzufangen.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti helyet, ahol a sziklás szirtek drámai módon találkoznak a tengerrel, és hozza magával a fényképezőgépét a lenyűgöző naplemente miatt.",
+            "ro": "Descoperiți acest loc de coastă ascuns unde stâncile abrupte se întâlnesc spectaculos cu marea, aducând aparatul foto pentru a surprinde lumina uimitoare a apusului.",
+            "en": "Discover this hidden coastal spot where the rocky cliffs meet the sea in dramatic fashion, bringing your camera along to capture the breathtaking sunset light."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonnina della Punta",
+            "hu": "Madonnina della Punta",
+            "ro": "Madonnina della Punta",
+            "en": "Madonnina della Punta"
+          },
+          "coords": [
+            9.573939,
+            44.180424
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie zu dieser charmanten Wahrzeichen-Kapelle, die auf einem felsigen Vorgebirge thront, und bringen Sie eine Windjacke mit, da die Brise hier ziemlich stark wird.",
+            "hu": "Sétáljon el ehhez a bájos kápolnához, amely egy sziklás hegyfokon fekszik a hatalmas Földközi-tenger felett, és hozzon széldzsekit, mert a szél itt meglehetősen erős lehet.",
+            "ro": "Plimbați-vă până la această capelă fermecătoare așezată pe un promontoriu stâncos deasupra Mediteranei vaste, aducând o jachetă de vânt, deoarece briza devine puternică aici.",
+            "en": "Walk out to this charming landmark chapel perched precariously on a rocky promontory overlooking the vast Mediterranean, bringing a windbreaker as the breeze gets quite strong here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die entspannte Küstenatmosphäre aufzusaugen und in das lokale Erbe einzutauchen. Der Mittag lädt Sie ein, historische Strukturen zu erkunden und die Landschaft über der Bucht zu genießen. Der Nachmittag widmet sich rauen Küstenmerkmalen und versteckten Buchten. Beenden Sie den Abend, indem Sie den Sonnenuntergang von einem Aussichtspunkt aus beobachten.",
+        "hu": "Kezdje a reggelt a nyugodt tengerparti hangulat befogadásával és a helyi örökség megismerésével. A délidő a történelmi építmények felfedezésére és az öböl feletti látvány élvezetére csábít. A délután a zord partvidéki természeti formák és rejtett öblök felé veszi az irányt. Fejezze be az estét a naplemente megtekintésével a Földközi-tenger felett egy lenyűgöző kilátópontról.",
+        "ro": "Începeți dimineața absorbind atmosfera relaxată a coastei și explorând patrimoniul local. Amiaza vă invită să descoperiți structurile istorice și să admirați peisajul spectaculos deasupra golfului. După-amiaza se îndreaptă spre formele naturale stâncoase ale coastei și golfurile ascunse. Încheiați seara privind apusul mediteranean dintr-un punct de observație dramatic.",
+        "en": "Start your morning absorbing the relaxed coastal vibe and delving into the local heritage. Midday invites you to explore historic structures and enjoy the spectacular scenery above the bay. The afternoon shifts towards rugged natural coastal features and hidden coves. Wrap up the evening watching the Mediterranean sunset from a dramatic vantage point."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio",
+            "ro": "San Giorgio",
+            "en": "San Giorgio"
+          },
+          "coords": [
+            9.583087,
+            44.190342
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne pastellfarbene Fassade und das ruhige Innere dieser historischen Pfarrkirche und nehmen Sie sich Zeit für die Kunstwerke, bevor Sie die Gassen erkunden.",
+            "hu": "Csodálja meg e történelmi plébániatemplom gyönyörű pasztell homlokzatát és békés belső terét, egy pillanatra elidőzve a műalkotásoknál a környék felfedezése előtt.",
+            "ro": "Admirați frumoasa fațadă pastelată și interiorul senin al acestei biserici parohiale istorice, luându-vă un moment pentru a aprecia arta înainte de a explora aleile.",
+            "en": "Admire the beautiful pastel facade and serene interior of this historic parish church, taking a moment to appreciate the artwork before exploring the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Popolo",
+            "hu": "Casa del Popolo",
+            "ro": "Casa del Popolo",
+            "en": "Casa del Popolo"
+          },
+          "coords": [
+            9.575854,
+            44.195515
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Engagieren Sie sich in diesem lebendigen kulturellen Zentrum, in dem verschiedene Basisveranstaltungen stattfinden, und prüfen Sie das Schwarze Brett für spontane Abendkonzerte.",
+            "hu": "Lépjen kapcsolatba a helyi közösséggel ebben a nyüzsgő kulturális központban, amely különféle rendezvényeknek ad otthont, és nézze meg a hirdetőtáblát az esti koncertekért.",
+            "ro": "Interacționați cu comunitatea locală la acest hub cultural vibrant ce găzduiește diverse evenimente, și verificați avizierul pentru concerte sau ateliere improvizate de seară.",
+            "en": "Engage with the local community at this vibrant cultural hub hosting various grassroots events, and check their noticeboard for impromptu evening concerts or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Meridiana",
+            "hu": "Meridiana",
+            "ro": "Meridiana",
+            "en": "Meridiana"
+          },
+          "coords": [
+            9.57693,
+            44.198325
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Lesen Sie die Zeit an dieser traditionellen historischen Sonnenuhr ab, die perfekt am Küstenweg positioniert ist, und stellen Sie sich direkt davor, um den Mittagsschatten zu sehen.",
+            "hu": "Nézze meg az időt ezen a hagyományos történelmi napórán, amely a tengerparti ösvényen található, és álljon meg előtte délben, hogy lássa az árnyék tökéletes igazodását.",
+            "ro": "Verificați ora pe acest cadran solar istoric tradițional poziționat perfect pe poteca de coastă, stând chiar în față pentru a vedea umbra aliniindu-se perfect la amiază.",
+            "en": "Check the time on this traditional historical sundial perfectly positioned along the coastal path, standing right in front to see the shadow align perfectly around midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Paggio",
+            "hu": "Paggio",
+            "ro": "Paggio",
+            "en": "Paggio"
+          },
+          "coords": [
+            9.569428,
+            44.190532
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses malerische Naturgebiet, das für seine üppige Vegetation bekannt ist, und bleiben Sie auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Sétáljon végig ezen a festői természeti területen, amely buja növényzetéről és csendes ösvényeiről ismert, ügyelve arra, hogy a jelzett utakon maradjon az ökoszisztéma védelmében.",
+            "ro": "Plimbați-vă prin această zonă naturală pitorească, renumită pentru vegetația sa luxuriantă, având grijă să rămâneți pe potecile marcate pentru a proteja ecosistemul local delicat.",
+            "en": "Stroll through this scenic natural area known for its lush vegetation and quiet trails, making sure to stick to the marked paths to protect the delicate local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Tre Archi",
+            "hu": "Tre Archi",
+            "ro": "Tre Archi",
+            "en": "Tre Archi"
+          },
+          "coords": [
+            9.568507,
+            44.191614
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese drei faszinierenden natürlichen Felsbögen, die über Jahrhunderte von den Wellen geformt wurden, und bringen Sie ein Fernglas für die nistenden Seevögel mit.",
+            "hu": "Csodálja meg ezt a három lenyűgöző természetes sziklaívet, amelyeket a hullámok formáltak évszázadokon át, és hozzon távcsövet a hasadékokban fészkelő tengeri madarak megfigyeléséhez.",
+            "ro": "Minunați-vă de aceste trei arcade naturale fascinante din stâncă, sculptate de valuri de-a lungul secolelor, aducând binoclu pentru a observa păsările marine ce cuibăresc aici.",
+            "en": "Marvel at these three fascinating natural rock arches sculpted by relentless waves over centuries, bringing binoculars to spot the diverse seabirds nesting in the crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "Sca",
+            "hu": "Sca",
+            "ro": "Sca",
+            "en": "Sca"
+          },
+          "coords": [
+            9.56936,
+            44.188735
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an dieser kleinen Freizeitbucht, die bei den Einheimischen wegen ihres ruhigen Wassers beliebt ist, und packen Sie Badeschuhe für den kiesigen Einstieg ein.",
+            "hu": "Tartson egy frissítő szünetet ebben a kis rekreációs öbölben, amelyet a helyiek a nyugodt vize miatt kedvelnek, és csomagoljon vízi cipőt a kavicsos tengerbe jutáshoz.",
+            "ro": "Faceți o pauză răcoritoare la acest mic golf de agrement preferat de localnici pentru apele sale calme, împachetând încălțăminte de apă, deoarece intrarea în mare este pietroasă.",
+            "en": "Take a refreshing break at this small recreational cove favored by locals for its calm waters, packing some water shoes as the entrance to the sea is quite pebbly here."
+          }
+        },
+        {
+          "name": {
+            "de": "piattaforme per armi",
+            "hu": "piattaforme per armi",
+            "ro": "piattaforme per armi",
+            "en": "piattaforme per armi"
+          },
+          "coords": [
+            9.568887,
+            44.183527
+          ],
+          "category": "landmark",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historischen Betonplattformen, die einst der Küstenverteidigung dienten, und treten Sie vorsichtig an die Ränder, da es keine Geländer zum Meer hin gibt.",
+            "hu": "Vizsgálja meg ezeket a betonból készült történelmi platformokat, amelyeket egykor partvédelemre használtak, és óvatosan lépkedjen a széleken, mivel nincsenek védőkorlátok a tenger felé.",
+            "ro": "Investigați aceste platforme istorice din beton folosite odată pentru apărarea coastei, pășind cu atenție pe margini, deoarece nu există balustrade de protecție spre mare.",
+            "en": "Investigate these concrete historical platforms once used for coastal defense, stepping carefully around the edges as there are no guardrails preventing falls into the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die entspannte Küstenatmosphäre aufzusaugen und in das lokale Erbe einzutauchen. Der Mittag lädt Sie ein, historische Strukturen zu erkunden und die Landschaft über der Bucht zu genießen. Der Nachmittag widmet sich rauen Küstenmerkmalen und versteckten Buchten. Beenden Sie den Abend, indem Sie den Sonnenuntergang von einem Aussichtspunkt aus beobachten.",
+        "hu": "Kezdje a reggelt a nyugodt tengerparti hangulat befogadásával és a helyi örökség megismerésével. A délidő a történelmi építmények felfedezésére és az öböl feletti látvány élvezetére csábít. A délután a zord partvidéki természeti formák és rejtett öblök felé veszi az irányt. Fejezze be az estét a naplemente megtekintésével a Földközi-tenger felett egy lenyűgöző kilátópontról.",
+        "ro": "Începeți dimineața absorbind atmosfera relaxată a coastei și explorând patrimoniul local. Amiaza vă invită să descoperiți structurile istorice și să admirați peisajul spectaculos deasupra golfului. După-amiaza se îndreaptă spre formele naturale stâncoase ale coastei și golfurile ascunse. Încheiați seara privind apusul mediteranean dintr-un punct de observație dramatic.",
+        "en": "Start your morning absorbing the relaxed coastal vibe and delving into the local heritage. Midday invites you to explore historic structures and enjoy the spectacular scenery above the bay. The afternoon shifts towards rugged natural coastal features and hidden coves. Wrap up the evening watching the Mediterranean sunset from a dramatic vantage point."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portopidocchio",
+            "hu": "Portopidocchio",
+            "ro": "Portopidocchio",
+            "en": "Portopidocchio"
+          },
+          "coords": [
+            9.560025,
+            44.197551
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses winzige, versteckte Hafengebiet, das sich ideal für ruhige Kontemplation abseits der Massen eignet, und packen Sie ein Picknick ein, während Sie die bunten Boote beobachten.",
+            "hu": "Fedezze fel ezt az apró rejtett kikötőt, amely ideális a nyugodt elmélkedéshez távol a tömegtől, és csomagoljon egy kis pikniket, amit a színes halászhajók nézése közben elfogyaszthat.",
+            "ro": "Explorați acest mic port ascuns, ideal pentru contemplare liniștită departe de aglomerație, împachetând un picnic pe care să-l savurați admirând bărcile colorate de pescari.",
+            "en": "Explore this tiny hidden port area ideal for tranquil contemplation away from the crowds, packing a small picnic to enjoy while watching the colorful fishing boats bobbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Popolo",
+            "hu": "Casa del Popolo",
+            "ro": "Casa del Popolo",
+            "en": "Casa del Popolo"
+          },
+          "coords": [
+            9.575854,
+            44.195515
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Engagieren Sie sich in diesem lebendigen kulturellen Zentrum, in dem verschiedene Basisveranstaltungen stattfinden, und prüfen Sie das Schwarze Brett für spontane Abendkonzerte.",
+            "hu": "Lépjen kapcsolatba a helyi közösséggel ebben a nyüzsgő kulturális központban, amely különféle rendezvényeknek ad otthont, és nézze meg a hirdetőtáblát az esti koncertekért.",
+            "ro": "Interacționați cu comunitatea locală la acest hub cultural vibrant ce găzduiește diverse evenimente, și verificați avizierul pentru concerte sau ateliere improvizate de seară.",
+            "en": "Engage with the local community at this vibrant cultural hub hosting various grassroots events, and check their noticeboard for impromptu evening concerts or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Meridiana",
+            "hu": "Meridiana",
+            "ro": "Meridiana",
+            "en": "Meridiana"
+          },
+          "coords": [
+            9.57693,
+            44.198325
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lesen Sie die Zeit an dieser traditionellen historischen Sonnenuhr ab, die perfekt am Küstenweg positioniert ist, und stellen Sie sich direkt davor, um den Mittagsschatten zu sehen.",
+            "hu": "Nézze meg az időt ezen a hagyományos történelmi napórán, amely a tengerparti ösvényen található, és álljon meg előtte délben, hogy lássa az árnyék tökéletes igazodását.",
+            "ro": "Verificați ora pe acest cadran solar istoric tradițional poziționat perfect pe poteca de coastă, stând chiar în față pentru a vedea umbra aliniindu-se perfect la amiază.",
+            "en": "Check the time on this traditional historical sundial perfectly positioned along the coastal path, standing right in front to see the shadow align perfectly around midday."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio",
+            "ro": "San Giorgio",
+            "en": "San Giorgio"
+          },
+          "coords": [
+            9.583087,
+            44.190342
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne pastellfarbene Fassade und das ruhige Innere dieser historischen Pfarrkirche und nehmen Sie sich Zeit für die Kunstwerke, bevor Sie die Gassen erkunden.",
+            "hu": "Csodálja meg e történelmi plébániatemplom gyönyörű pasztell homlokzatát és békés belső terét, egy pillanatra elidőzve a műalkotásoknál a környék felfedezése előtt.",
+            "ro": "Admirați frumoasa fațadă pastelată și interiorul senin al acestei biserici parohiale istorice, luându-vă un moment pentru a aprecia arta înainte de a explora aleile.",
+            "en": "Admire the beautiful pastel facade and serene interior of this historic parish church, taking a moment to appreciate the artwork before exploring the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Ugo Maria Morosi",
+            "hu": "Sala Ugo Maria Morosi",
+            "ro": "Sala Ugo Maria Morosi",
+            "en": "Sala Ugo Maria Morosi"
+          },
+          "coords": [
+            9.5828,
+            44.182927
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokalen kulturellen Ausstellungen in diesem Saal, der Bonassolas künstlerisches Erbe feiert, und werfen Sie am Eingang einen Blick auf den Veranstaltungsplan.",
+            "hu": "Fedezze fel a helyi kulturális kiállításokat ebben a teremben, amely Bonassola művészeti örökségét ünnepli, és ne felejtse el megnézni az eseménynaptárt a bejáratnál.",
+            "ro": "Explorați expozițiile culturale locale în această sală dedicată care celebrează patrimoniul artistic al Bonassolei, și nu uitați să verificați programul evenimentelor la intrare.",
+            "en": "Explore local cultural exhibits in this dedicated hall that celebrates Bonassola's artistic heritage, and don't forget to check the event schedule at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Levanto",
+            "hu": "Punta Levanto",
+            "ro": "Punta Levanto",
+            "en": "Punta Levanto"
+          },
+          "coords": [
+            9.583951,
+            44.175986
+          ],
+          "category": "landmark",
+          "arrive_at": "15:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem markanten geografischen Aussichtspunkt am Ostrand auf das benachbarte Levanto und bringen Sie einen leichten Pullover mit, da die Abendtemperaturen schnell fallen.",
+            "hu": "Tekintsen le a szomszédos Levantóra erről a keleti peremen lévő parancsnoki kilátópontról, és hozzon magával egy vékony pulóvert, mivel az esti hőmérséklet gyorsan csökken.",
+            "ro": "Priviți spre Levanto-ul vecin din acest punct de observație geografic de pe marginea estică, aducând un pulover subțire deoarece temperaturile de seară scad rapid aici.",
+            "en": "Gaze out towards neighboring Levanto from this commanding geographical viewpoint on the eastern edge, bringing a light sweater as the evening temperatures drop quickly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die entspannte Küstenatmosphäre aufzusaugen und in das lokale Erbe einzutauchen. Der Mittag lädt Sie ein, historische Strukturen zu erkunden und die Landschaft über der Bucht zu genießen. Der Nachmittag widmet sich rauen Küstenmerkmalen und versteckten Buchten. Beenden Sie den Abend, indem Sie den Sonnenuntergang von einem Aussichtspunkt aus beobachten.",
+        "hu": "Kezdje a reggelt a nyugodt tengerparti hangulat befogadásával és a helyi örökség megismerésével. A délidő a történelmi építmények felfedezésére és az öböl feletti látvány élvezetére csábít. A délután a zord partvidéki természeti formák és rejtett öblök felé veszi az irányt. Fejezze be az estét a naplemente megtekintésével a Földközi-tenger felett egy lenyűgöző kilátópontról.",
+        "ro": "Începeți dimineața absorbind atmosfera relaxată a coastei și explorând patrimoniul local. Amiaza vă invită să descoperiți structurile istorice și să admirați peisajul spectaculos deasupra golfului. După-amiaza se îndreaptă spre formele naturale stâncoase ale coastei și golfurile ascunse. Încheiați seara privind apusul mediteranean dintr-un punct de observație dramatic.",
+        "en": "Start your morning absorbing the relaxed coastal vibe and delving into the local heritage. Midday invites you to explore historic structures and enjoy the spectacular scenery above the bay. The afternoon shifts towards rugged natural coastal features and hidden coves. Wrap up the evening watching the Mediterranean sunset from a dramatic vantage point."
+      }
+    }
+  }
+}

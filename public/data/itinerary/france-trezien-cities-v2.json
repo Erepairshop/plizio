@@ -1,0 +1,451 @@
+{
+  "city_id": "france-trezien-cities-v2",
+  "anchor": {
+    "name": "Trézien",
+    "coords": [
+      -4.7736,
+      48.42453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:06",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -4.767572,
+            48.423956
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche, die von der tiefen Religiosität der bretonischen Seeleute zeugt, und achten Sie dabei besonders auf die feinen Details am Portal.",
+            "hu": "Csodálja meg a breton tengerészek mély vallásosságáról tanúskodó templom építészetét, és figyeljen a portál finom részleteire.",
+            "ro": "Admirați arhitectura acestei biserici care mărturisește religiozitatea profundă a marinarilor bretoni, acordând o atenție deosebită detaliilor portalului.",
+            "en": "Admire the architecture of this church that testifies to the deep religiosity of Breton sailors, paying special attention to the fine details on the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Trézien",
+            "hu": "Lighthouse Trézien",
+            "ro": "Lighthouse Trézien",
+            "en": "Lighthouse Trézien"
+          },
+          "coords": [
+            -4.778925,
+            48.423515
+          ],
+          "category": "landmark",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen imposanten Leuchtturm im Landesinneren, der eine einzigartige Perspektive auf die Küste bietet, und vergessen Sie Ihre Kamera für das perfekte Foto nicht.",
+            "hu": "Csodálja meg ezt az impozáns szárazföldi világítótornyot, amely egyedülálló kilátást nyújt a partra, és ne felejtse el a fényképezőgépét a tökéletes fotóhoz.",
+            "ro": "Minunați-vă de acest far impunător de pe uscat care oferă o perspectivă unică asupra coastei și nu uitați aparatul foto pentru o poză perfectă.",
+            "en": "Marvel at this imposing inland lighthouse that offers a unique perspective of the coast, and don't forget your camera for the perfect photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Mur antichar",
+            "hu": "Mur antichar",
+            "ro": "Mur antichar",
+            "en": "Mur antichar"
+          },
+          "coords": [
+            -4.788192,
+            48.42286
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historische Panzerabwehrmauer, ein stummes Relikt aus dem Zweiten Weltkrieg, und tragen Sie festes Schuhwerk für das unebene Gelände in der Umgebung.",
+            "hu": "Vizsgálja meg ezt a történelmi páncéltörő falat, a második világháború néma emlékét, és viseljen erős cipőt a környék egyenetlen terepe miatt.",
+            "ro": "Examinați acest zid istoric antitanc, o relicvă tăcută a celui de-al Doilea Război Mondial, și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Examine this historic anti-tank wall, a silent relic of the Second World War, and wear sturdy shoes for the uneven terrain in the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine du lavoir",
+            "hu": "Fontaine du lavoir",
+            "ro": "Fontaine du lavoir",
+            "en": "Fontaine du lavoir"
+          },
+          "coords": [
+            -4.787193,
+            48.421145
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen alten Waschplatz mit seiner Quelle, der einst das soziale Zentrum des Dorfes war, und nehmen Sie sich Zeit, die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt a forrással rendelkező régi mosóhelyet, amely egykor a falu társadalmi központja volt, és szánjon időt a békés légkör élvezetére.",
+            "ro": "Descoperiți această veche spălătorie cu izvorul ei, odinioară centrul social al satului, și acordați-vă timp pentru a vă bucura de atmosfera liniștită.",
+            "en": "Discover this old washhouse with its spring, which was once the social center of the village, and take your time to enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir de Ruscumunoc",
+            "hu": "Lavoir de Ruscumunoc",
+            "ro": "Lavoir de Ruscumunoc",
+            "en": "Lavoir de Ruscumunoc"
+          },
+          "coords": [
+            -4.785956,
+            48.41898
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem zweiten traditionellen Waschhaus ausklingen, das die lokale Geschichte widerspiegelt, und bringen Sie etwas Wasser für die weitere Wanderung mit.",
+            "hu": "Zárja a napot ennél a második hagyományos mosóhelynél, amely a helyi történelmet tükrözi, és hozzon magával vizet a további sétához.",
+            "ro": "Încheiați ziua la această a doua spălătorie tradițională care reflectă istoria locală și aduceți niște apă pentru continuarea plimbării.",
+            "en": "End the day at this second traditional washhouse that reflects local history, and bring some water with you for the rest of your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen beginnen wir unsere Tour entspannt an der historischen Église Notre-Dame im Dorfzentrum.\n\nGegen Mittag erreichen wir den beeindruckenden Lighthouse Trézien, ein Wahrzeichen etwas landeinwärts.\n\nAm Nachmittag tauchen wir an der Mur antichar in die militärische Geschichte der bretonischen Küste ein.\n\nDer Abend klingt friedlich an den alten, traditionellen Waschhäusern der Gemeinde langsam und ruhig aus.",
+        "hu": "Reggel a túrát nyugodtan kezdjük a történelmi Église Notre-Dame-nál a falu központjában.\n\nDél körül elérjük a lenyűgöző Lighthouse Trézient, egy kissé beljebb fekvő nevezetességet.\n\nDélután a Mur anticharnál elmerülünk a breton tengerpart katonai történelmében.\n\nAz est békésen ér véget a közösség régi, hagyományos mosóházainál, lassan és csendesen.",
+        "ro": "Dimineața, începem turul nostru relaxant la istorica Église Notre-Dame în centrul satului.\n\nPe la prânz, ajungem la impresionantul Lighthouse Trézien, un punct de reper puțin în interior.\n\nDupă-amiaza, ne scufundăm în istoria militară a coastei bretone la Mur antichar.\n\nSeara se încheie liniștit la vechile spălătorii tradiționale ale comunității, încet și calm.",
+        "en": "In the morning, we start our tour in a relaxed manner at the historic Église Notre-Dame in the village center.\n\nAround noon, we reach the impressive Lighthouse Trézien, a landmark slightly inland.\n\nIn the afternoon, we dive into the military history of the Breton coast at the Mur antichar.\n\nThe evening ends peacefully at the old, traditional washhouses of the community, slowly and quietly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "12:37",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lighthouse Trézien",
+            "hu": "Lighthouse Trézien",
+            "ro": "Lighthouse Trézien",
+            "en": "Lighthouse Trézien"
+          },
+          "coords": [
+            -4.778925,
+            48.423515
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen imposanten Leuchtturm im Landesinneren, der eine einzigartige Perspektive auf die Küste bietet, und vergessen Sie Ihre Kamera für das perfekte Foto nicht.",
+            "hu": "Csodálja meg ezt az impozáns szárazföldi világítótornyot, amely egyedülálló kilátást nyújt a partra, és ne felejtse el a fényképezőgépét a tökéletes fotóhoz.",
+            "ro": "Minunați-vă de acest far impunător de pe uscat care oferă o perspectivă unică asupra coastei și nu uitați aparatul foto pentru o poză perfectă.",
+            "en": "Marvel at this imposing inland lighthouse that offers a unique perspective of the coast, and don't forget your camera for the perfect photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Abri tôle métro",
+            "hu": "Abri tôle métro",
+            "ro": "Abri tôle métro",
+            "en": "Abri tôle métro"
+          },
+          "coords": [
+            -4.785383,
+            48.42867
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut getarnten historischen Unterstand aus Wellblech, der die militärische Vergangenheit der Region zeigt, und parken Sie Ihr Fahrrad direkt am Rand des Pfades.",
+            "hu": "Fedezze fel ezt a jól álcázott, hullámlemezből készült történelmi óvóhelyet, amely bemutatja a régió katonai múltját, és parkolja le kerékpárját az ösvény szélén.",
+            "ro": "Explorați acest adăpost istoric din tablă ondulată bine camuflat care arată trecutul militar al regiunii și parcați bicicleta la marginea potecii.",
+            "en": "Explore this well-camouflaged historic corrugated iron shelter that shows the military past of the region, and park your bike right at the edge of the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Casemate",
+            "hu": "Casemate",
+            "ro": "Casemate",
+            "en": "Casemate"
+          },
+          "coords": [
+            -4.791305,
+            48.420825
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen alten Bunker, der einst Teil der Küstenverteidigung war, und seien Sie beim Betreten vorsichtig, da der Boden im Inneren oft rutschig oder uneben ist.",
+            "hu": "Tekintse meg ezt a régi bunkert, amely egykor a partvédelem része volt, és legyen óvatos a belépéskor, mivel a padló belül gyakran csúszós vagy egyenetlen.",
+            "ro": "Priviți acest vechi buncăr care făcea parte din apărarea de coastă și aveți grijă la intrare, deoarece podeaua din interior este adesea alunecoasă.",
+            "en": "Look at this old bunker that was once part of the coastal defense, and be careful when entering as the floor inside is often slippery or uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Corsen",
+            "hu": "Pointe de Corsen",
+            "ro": "Pointe de Corsen",
+            "en": "Pointe de Corsen"
+          },
+          "coords": [
+            -4.795089,
+            48.41458
+          ],
+          "category": "natural",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Blick vom westlichsten Punkt des französischen Festlands und bringen Sie unbedingt eine windfeste Jacke mit, da es hier sehr stürmisch sein kann.",
+            "hu": "Élvezze a látványos kilátást a francia szárazföld legnyugatibb pontjáról, és feltétlenül hozzon szélálló kabátot, mivel itt nagyon viharos lehet az idő.",
+            "ro": "Bucurați-vă de priveliștea spectaculoasă de la cel mai vestic punct al Franței continentale și aduceți o jachetă rezistentă la vânt, deoarece poate fi furtunos.",
+            "en": "Enjoy the spectacular view from the westernmost point of mainland France, and be sure to bring a windproof jacket as it can get very stormy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Feu de Corsen",
+            "hu": "Feu de Corsen",
+            "ro": "Feu de Corsen",
+            "en": "Feu de Corsen"
+          },
+          "coords": [
+            -4.793501,
+            48.414799
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses wichtige Leuchtfeuer, das Schiffe sicher durch die tückischen Gewässer navigiert, und bleiben Sie auf den markierten Wegen, um die Klippen zu schonen.",
+            "hu": "Figyelje meg ezt a fontos jelzőfényt, amely biztonságosan átvezeti a hajókat a trükkös vizeken, és maradjon a kijelölt ösvényeken a sziklák védelme érdekében.",
+            "ro": "Observați acest far important care navighează navele în siguranță prin apele înșelătoare și rămâneți pe cărările marcate pentru a proteja stâncile.",
+            "en": "Observe this important beacon that safely navigates ships through the treacherous waters, and stay on the marked paths to protect the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Patron Aristide Lucas",
+            "hu": "Patron Aristide Lucas",
+            "ro": "Patron Aristide Lucas",
+            "en": "Patron Aristide Lucas"
+          },
+          "coords": [
+            -4.788338,
+            48.414262
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Denkmal zu Ehren des mutigen Seenotretters Aristide Lucas und nehmen Sie sich einen Moment Zeit, um die maritime Rettungsgeschichte der Region zu würdigen.",
+            "hu": "Látogassa meg ezt az emlékművet, amely a bátor tengeri mentő, Aristide Lucas tiszteletére áll, és szánjon egy percet a régió tengeri mentéstörténetének megismerésére.",
+            "ro": "Vizitați acest monument în onoarea curajosului salvator maritim Aristide Lucas și acordați-vă un moment pentru a aprecia istoria salvării maritime a regiunii.",
+            "en": "Visit this monument in honor of the brave sea rescuer Aristide Lucas, and take a moment to appreciate the maritime rescue history of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour startet am mächtigen Leuchtturm von Trézien, der uns den Weg zur wilden Küste weist.\n\nGegen Mittag erkunden wir alte militärische Unterstände und Befestigungsanlagen entlang unseres Weges.\n\nAm Nachmittag erreichen wir die Pointe de Corsen, um die atemberaubende maritime Aussicht zu genießen.\n\nDer Tag endet mit einem Besuch beim Denkmal von Aristide Lucas im goldenen Licht der untergehenden Sonne.",
+        "hu": "Kerékpártúránk Trézien hatalmas világítótornyánál kezdődik, amely utat mutat a vad part felé.\n\nDél körül a régi katonai óvóhelyeket és erődítményeket fedezzük fel utunk mentén.\n\nDélután elérjük a Pointe de Corsent, hogy élvezzük a lélegzetelállító tengeri kilátást.\n\nA nap az Aristide Lucas emlékműnél tett látogatással zárul a lemenő nap aranyló fényében.",
+        "ro": "Turul nostru cu bicicleta începe la puternicul far din Trézien, care ne arată drumul spre coasta sălbatică.\n\nPe la prânz, explorăm vechi adăposturi militare și fortificații de-a lungul drumului nostru.\n\nDupă-amiaza, ajungem la Pointe de Corsen pentru a ne bucura de priveliștea maritimă uluitoare.\n\nZiua se încheie cu o vizită la monumentul lui Aristide Lucas în lumina aurie a soarelui la apus.",
+        "en": "Our bike tour starts at the mighty Trézien lighthouse, which points the way to the wild coast.\n\nAround midday, we explore old military shelters and fortifications along our route.\n\nIn the afternoon, we reach the Pointe de Corsen to enjoy the breathtaking maritime views.\n\nThe day ends with a visit to the Aristide Lucas monument in the golden light of the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:03",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Égarec",
+            "hu": "Chapelle Saint-Égarec",
+            "ro": "Chapelle Saint-Égarec",
+            "en": "Chapelle Saint-Égarec"
+          },
+          "coords": [
+            -4.771018,
+            48.444334
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante kleine Kapelle, die etwas abseits liegt und eine wunderbare spirituelle Ruhe ausstrahlt, und nutzen Sie den kleinen Schotterparkplatz nebenan.",
+            "hu": "Látogassa meg ezt az elbűvölő kis kápolnát, amely kissé távolabb található és csodálatos spirituális békét sugároz, és használja a mellette lévő kis kavicsos parkolót.",
+            "ro": "Vizitați această mică capelă fermecătoare, puțin izolată, care emană o liniște spirituală minunată, și folosiți mica parcare cu pietriș de alături.",
+            "en": "Visit this charming little chapel, situated slightly off the beaten track and radiating wonderful spiritual peace, and use the small gravel car park next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus",
+            "hu": "Tumulus",
+            "ro": "Tumulus",
+            "en": "Tumulus"
+          },
+          "coords": [
+            -4.7894,
+            48.438419
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen prähistorischen Grabhügel, der tief in die antike Geschichte der Bretagne blicken lässt, und tragen Sie bequeme Schuhe für den kurzen Fußweg dorthin.",
+            "hu": "Fedezze fel ezt a történelem előtti sírhalmot, amely bepillantást enged Bretagne ősi történelmébe, és viseljen kényelmes cipőt az odavezető rövid sétához.",
+            "ro": "Explorați acest tumul preistoric care oferă o perspectivă profundă asupra istoriei antice a Bretaniei și purtați pantofi comozi pentru scurta plimbare până acolo.",
+            "en": "Explore this prehistoric burial mound that provides a deep insight into the ancient history of Brittany, and wear comfortable shoes for the short walk there."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Trézien",
+            "hu": "Lighthouse Trézien",
+            "ro": "Lighthouse Trézien",
+            "en": "Lighthouse Trézien"
+          },
+          "coords": [
+            -4.778925,
+            48.423515
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen imposanten Leuchtturm im Landesinneren, der eine einzigartige Perspektive auf die Küste bietet, und vergessen Sie Ihre Kamera für das perfekte Foto nicht.",
+            "hu": "Csodálja meg ezt az impozáns szárazföldi világítótornyot, amely egyedülálló kilátást nyújt a partra, és ne felejtse el a fényképezőgépét a tökéletes fotóhoz.",
+            "ro": "Minunați-vă de acest far impunător de pe uscat care oferă o perspectivă unică asupra coastei și nu uitați aparatul foto pentru o poză perfectă.",
+            "en": "Marvel at this imposing inland lighthouse that offers a unique perspective of the coast, and don't forget your camera for the perfect photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Corsen",
+            "hu": "Pointe de Corsen",
+            "ro": "Pointe de Corsen",
+            "en": "Pointe de Corsen"
+          },
+          "coords": [
+            -4.795089,
+            48.41458
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Blick vom westlichsten Punkt des französischen Festlands und bringen Sie unbedingt eine windfeste Jacke mit, da es hier sehr stürmisch sein kann.",
+            "hu": "Élvezze a látványos kilátást a francia szárazföld legnyugatibb pontjáról, és feltétlenül hozzon szélálló kabátot, mivel itt nagyon viharos lehet az idő.",
+            "ro": "Bucurați-vă de priveliștea spectaculoasă de la cel mai vestic punct al Franței continentale și aduceți o jachetă rezistentă la vânt, deoarece poate fi furtunos.",
+            "en": "Enjoy the spectacular view from the westernmost point of mainland France, and be sure to bring a windproof jacket as it can get very stormy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Casemate pour canon",
+            "hu": "Casemate pour canon",
+            "ro": "Casemate pour canon",
+            "en": "Casemate pour canon"
+          },
+          "coords": [
+            -4.793368,
+            48.413183
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese massive Kanonenstellung aus dem Zweiten Weltkrieg an der Küste und achten Sie auf die steilen Kanten, wenn Sie sich dem Rand der Klippen nähern.",
+            "hu": "Fedezze fel ezt a masszív, második világháborús ágyúállást a tengerparton, és ügyeljen a meredek szélekre, amikor megközelíti a sziklák peremét.",
+            "ro": "Descoperiți această poziție masivă de tun din al Doilea Război Mondial pe coastă și fiți atenți la marginile abrupte când vă apropiați de marginea stâncii.",
+            "en": "Discover this massive World War II gun emplacement on the coast, and be mindful of the steep edges as you approach the rim of the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Davied",
+            "hu": "Davied",
+            "ro": "Davied",
+            "en": "Davied"
+          },
+          "coords": [
+            -4.783359,
+            48.407076
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem interessanten Landmarkpunkt, der oft übersehen wird, und sichern Sie Ihr Auto gut ab, da die Parkmöglichkeiten hier etwas begrenzt sind.",
+            "hu": "Fejezze be túráját ennél az érdekes, gyakran figyelmen kívül hagyott tájékozódási pontnál, és rögzítse jól autóját, mivel itt a parkolási lehetőségek kissé korlátozottak.",
+            "ro": "Încheiați-vă turul la acest punct de reper interesant care este adesea trecut cu vederea și asigurați-vă bine mașina, deoarece opțiunile de parcare sunt limitate.",
+            "en": "End your tour at this interesting landmark point that is often overlooked, and secure your car well, as parking options are somewhat limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Autofahrt weit im Norden an der ruhigen und malerischen Chapelle Saint-Égarec.\n\nGegen Mittag reisen wir in die Vergangenheit bei der Erkundung des prähistorischen Tumulus-Hügels.\n\nAm Nachmittag fahren wir an die Küste zur spektakulären Pointe de Corsen und besichtigen Kanonenstellungen.\n\nUnsere Tour endet am südlichen Punkt Davied, wo wir die raue Schönheit der Bretagne in uns aufnehmen.",
+        "hu": "Autós utunkat messze északon, a csendes és festői Chapelle Saint-Égarec-nél kezdjük.\n\nDél körül a múltba utazunk a történelem előtti Tumulus domb felfedezése során.\n\nDélután a tengerpartra autózunk a látványos Pointe de Corsenhez, és ágyúállásokat látogatunk meg.\n\nTúránk a déli Davied pontnál ér véget, ahol magunkba szívjuk Bretagne zord szépségét.",
+        "ro": "Începem călătoria cu mașina mult în nord, la liniștita și pitoreasca Chapelle Saint-Égarec.\n\nPe la prânz, călătorim în trecut explorând colina preistorică Tumulus.\n\nDupă-amiaza, conducem spre coastă la spectaculosul Pointe de Corsen și vizităm pozițiile tunurilor.\n\nTurul nostru se încheie la punctul sudic Davied, unde absorbim frumusețea aspră a Bretaniei.",
+        "en": "We start our drive far in the north at the quiet and picturesque Chapelle Saint-Égarec.\n\nAround noon, we travel back in time while exploring the prehistoric Tumulus mound.\n\nIn the afternoon, we drive to the coast to the spectacular Pointe de Corsen and visit gun emplacements.\n\nOur tour ends at the southern point Davied, where we absorb the rugged beauty of Brittany."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-santa-tecla-cities-v2",
+  "anchor": {
+    "name": "Santa Tecla",
+    "coords": [
+      15.17542,
+      37.6367
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria dei Raccomandati",
+            "hu": "Chiesa di Santa Maria dei Raccomandati",
+            "ro": "Chiesa di Santa Maria dei Raccomandati",
+            "en": "Chiesa di Santa Maria dei Raccomandati"
+          },
+          "coords": [
+            15.171912,
+            37.623938
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Kirche und betrachten Sie die wunderschönen Fresken im Inneren, aber kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző homlokzatát, és lépjen be a gyönyörű freskók megtekintéséhez, de érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați fațada impresionantă a acestei biserici istorice și intrați pentru a vedea frescele superbe, dar sosiți devreme pentru a evita soarele amiezii.",
+            "en": "Admire the striking facade of this historic church and step inside to see the beautiful frescoes, but arrive early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Lorenzo Vecchio",
+            "hu": "Anfiteatro Lorenzo Vecchio",
+            "ro": "Anfiteatro Lorenzo Vecchio",
+            "en": "Anfiteatro Lorenzo Vecchio"
+          },
+          "coords": [
+            15.16892,
+            37.620492
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen dieses kulturellen Amphitheaters, das einen Einblick in die lokale Geschichte bietet, und bringen Sie Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ennek a kulturális amfiteátrumnak az ősi romjait, amelyek bepillantást engednek a helyi történelembe, és hozzon vizet, mert kevés az árnyék.",
+            "ro": "Explorați ruinele antice ale acestui amfiteatru cultural care oferă o privire asupra istoriei locale și aduceți apă, deoarece există puțină umbră.",
+            "en": "Explore the ancient ruins of this cultural amphitheater that offers a glimpse into local history, and bring water as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere \"Angelo D'Arrigo\"",
+            "hu": "Belvedere \"Angelo D'Arrigo\"",
+            "ro": "Belvedere \"Angelo D'Arrigo\"",
+            "en": "Belvedere \"Angelo D'Arrigo\""
+          },
+          "coords": [
+            15.169362,
+            37.619524
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das Ionische Meer von diesem malerischen Aussichtspunkt, der sich perfekt für fantastische Küstenfotos eignet.",
+            "hu": "Gyönyörködjön a Jón-tengerre nyíló lélegzetelállító panorámában erről a kilátóról, amely tökéletes helyszín a lenyűgöző tengerparti fotók készítéséhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare a Mării Ionice de la acest punct de belvedere pitoresc, fiind locul ideal pentru a face fotografii uimitoare pe coastă.",
+            "en": "Take in the breathtaking panoramic views of the Ionian Sea from this scenic viewpoint, which is perfectly positioned for capturing stunning seaside photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Paolo",
+            "hu": "Chiesa di San Paolo",
+            "ro": "Chiesa di San Paolo",
+            "en": "Chiesa di San Paolo"
+          },
+          "coords": [
+            15.165605,
+            37.619824
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihre friedliche Atmosphäre und feine Architektur zu erleben, und achten Sie aus Respekt auf bedeckte Schultern.",
+            "hu": "Lépjen be ebbe a nyugodt templomba, hogy megtapasztalja annak békés hangulatát és finom építészetét, ügyelve arra, hogy tiszteletből eltakarja a vállait.",
+            "ro": "Pășiți în această biserică senină pentru a-i experimenta atmosfera pașnică și arhitectura fină, asigurându-vă că aveți umerii acoperiți din respect înainte de a intra.",
+            "en": "Step into this serene church to experience its peaceful atmosphere and fine architecture, making sure your shoulders are covered out of respect before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Maugeri",
+            "hu": "Teatro Maugeri",
+            "ro": "Teatro Maugeri",
+            "en": "Teatro Maugeri"
+          },
+          "coords": [
+            15.165572,
+            37.616635
+          ],
+          "category": "cultural",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieses historischen lokalen Theaters, in dem noch immer Aufführungen stattfinden, und prüfen Sie den Spielplan auf unerwartete Abendveranstaltungen.",
+            "hu": "Fedezze fel e történelmi helyi színház varázsát, amely még mindig ad otthont előadásoknak, és ellenőrizze a kinti műsort a váratlan esti eseményekért.",
+            "ro": "Descoperiți farmecul acestui teatru local istoric, care încă găzduiește spectacole, și verificați programul de afară pentru eventuale evenimente de seară neașteptate.",
+            "en": "Discover the charm of this historic local theater which still hosts occasional performances, and check the schedule outside for any unexpected evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Rocco",
+            "hu": "Chiesa di San Rocco",
+            "ro": "Chiesa di San Rocco",
+            "en": "Chiesa di San Rocco"
+          },
+          "coords": [
+            15.166834,
+            37.615595
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem tief verehrten, durch schöne Steindetails geprägten Heiligtum, ein idealer Ort zur stillen Reflexion vor einem lokalen Kaffee.",
+            "hu": "Fejezze be sétáját ennél a gyönyörű kőrészletekkel díszített, mélyen tisztelt szentélynél, amely ideális hely egy csendes elmélkedésre, mielőtt inna egy helyi kávét.",
+            "ro": "Încheiați plimbarea la acest sanctuar profund venerat, caracterizat prin detalii frumoase din piatră, un loc ideal pentru o reflecție liniștită înainte de a bea o cafea locală.",
+            "en": "Conclude your walk at this deeply revered sanctuary characterized by beautiful stone details, an ideal spot for quiet reflection before grabbing a local coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem inspirierenden Besuch der historischen Raccomandati-Kirche und des charmanten Anfiteatro in der Nähe. Gegen Mittag wandern Sie zu den atemberaubenden Meerblicken auf der lokalen Belvedere-Terrasse. Der Nachmittag führt Sie durch stimmungsvolle Straßen zur eleganten Kirche San Paolo und zum Teatro Maugeri. Ihr Spaziergang endet friedlich in San Rocco und schließt diese schöne Küstenerkundung wunderbar ab.",
+        "hu": "A reggel a történelmi Raccomandati templom és a közeli Anfiteatro elbűvölő kulturális terének inspiráló látogatásával kezdődik. Délben a Belvedere teraszról nyíló lélegzetelállító tengeri kilátás felé veszi az irányt. A délután hangulatos utcákon keresztül az elegáns San Paolo templomhoz és a Teatro Maugerihez vezet. A sétáló utazás békésen zárul a San Rocco-nál, befejezve egy szép tengerparti felfedezést.",
+        "ro": "Dimineața începe cu o vizită inspirată la biserica istorică Raccomandati și la spațiul cultural fermecător al Anfiteatro din apropiere. La amiază, vă veți îndrepta spre priveliștile uluitoare ale mării la terasa locală Belvedere. După-amiaza vă poartă pe străzile atmosferice către eleganta biserică San Paolo și impresionantul Teatro Maugeri. Călătoria se încheie pașnic la San Rocco, finalizând frumos această explorare.",
+        "en": "The morning begins with an inspiring visit to the historic Raccomandati church and the charming cultural space of the nearby Anfiteatro. By midday, you will wander towards the breathtaking sea views at the local Belvedere terrace. The afternoon takes you through the atmospheric local streets to the elegant Chiesa di San Paolo and the impressive Teatro Maugeri. Your walking journey peacefully concludes at San Rocco, wrapping up a lovely coastal exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Garitta Pietra Sarpa",
+            "hu": "Garitta Pietra Sarpa",
+            "ro": "Garitta Pietra Sarpa",
+            "en": "Garitta Pietra Sarpa"
+          },
+          "coords": [
+            15.175152,
+            37.619007
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem historischen Küstenwachturm gegen Piratenangriffe, der ein faszinierendes, schnelles Fotomotiv direkt an der felsigen Küste bietet.",
+            "hu": "Kezdje a túrát ennek a kalózok ellen védelmet nyújtó történelmi partmenti őrtoronynak a megfigyelésével, amely lenyűgöző fotózási lehetőséget kínál a sziklás parton.",
+            "ro": "Începeți plimbarea observând acest turn istoric de veghe pe coastă care apăra de pirați, oferind o oportunitate foto fascinantă chiar pe țărmul stâncos.",
+            "en": "Start your ride by observing this historic coastal watchtower that guarded against pirates, offering a fascinating quick photo opportunity right by the rocky shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere \"Angelo D'Arrigo\"",
+            "hu": "Belvedere \"Angelo D'Arrigo\"",
+            "ro": "Belvedere \"Angelo D'Arrigo\"",
+            "en": "Belvedere \"Angelo D'Arrigo\""
+          },
+          "coords": [
+            15.169362,
+            37.619524
+          ],
+          "category": "natural",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Radtour, um den weiten Meerblick von dieser speziellen Terrasse aus zu bewundern, und schließen Sie Ihr Fahrrad sicher an den nahegelegenen Ständern an.",
+            "hu": "Tartson egy kis szünetet a biciklitúrán, és csodálja meg a hatalmas óceáni kilátást erről a teraszról, miközben kerékpárját biztonságosan lezárja a közeli tárolóknál.",
+            "ro": "Puneți pe pauză turul cu bicicleta pentru a admira priveliștile vaste ale oceanului de pe această terasă, lăsând bicicleta încuiată în siguranță la suporturile din apropiere.",
+            "en": "Pause your biking tour to marvel at the expansive ocean vistas from this dedicated terrace, leaving your bike securely locked at the nearby designated racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Salvatore",
+            "hu": "Chiesa del Santissimo Salvatore",
+            "ro": "Chiesa del Santissimo Salvatore",
+            "en": "Chiesa del Santissimo Salvatore"
+          },
+          "coords": [
+            15.162771,
+            37.621117
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Wahrzeichen mit seinen hellen Innenräumen, und denken Sie daran, leise zu sprechen und sich beim Erkunden angemessen zu kleiden.",
+            "hu": "Látogassa meg ezt a bájos, világos belső teréről ismert vallási nevezetességet, ügyelve arra, hogy halkan beszéljen és alkalomhoz illően öltözködjön a felfedezés során.",
+            "ro": "Vizitați acest reper religios fermecător, remarcabil pentru interioarele sale luminoase, amintindu-vă să vorbiți încet și să vă îmbrăcați corespunzător în timpul vizitei.",
+            "en": "Visit this charming religious landmark notable for its bright interiors, keeping in mind to speak softly and dress appropriately while exploring the inner nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria dei Raccomandati",
+            "hu": "Chiesa di Santa Maria dei Raccomandati",
+            "ro": "Chiesa di Santa Maria dei Raccomandati",
+            "en": "Chiesa di Santa Maria dei Raccomandati"
+          },
+          "coords": [
+            15.171912,
+            37.623938
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie hier ein weiteres beeindruckendes Beispiel regionaler Kirchenarchitektur und ruhen Sie sich kurz im kleinen schattigen Innenhof vor dem Haupteingang aus.",
+            "hu": "Fedezze fel a regionális egyházi építészet egy újabb lenyűgöző példáját itt, és pihenjen egy pillanatot a főbejárat előtti kis árnyékos udvaron.",
+            "ro": "Explorați aici un alt exemplu uimitor de arhitectură ecleziastică regională, luându-vă un moment de odihnă în mica curte umbrită din fața intrării principale.",
+            "en": "Explore another stunning example of regional ecclesiastical architecture here, taking a moment to rest in the small shaded courtyard outside the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Le cocole",
+            "hu": "Le cocole",
+            "ro": "Le cocole",
+            "en": "Le cocole"
+          },
+          "coords": [
+            15.174217,
+            37.632409
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem lebhaften Erholungsgebiet, das perfekt für ein Picknick am Nachmittag ist, und kaufen Sie am besten vorher lokale Snacks in einer Bäckerei.",
+            "hu": "Kapcsolódjon ki ezen a nyüzsgő rekreációs területen, amely tökéletes egy délutáni piknikhez, ezért érdemes érkezés előtt néhány helyi harapnivalót venni egy pékségben.",
+            "ro": "Relaxați-vă în această zonă de agrement vibrantă, perfectă pentru un picnic de după-amiază, așa că luați în considerare cumpărarea unor gustări locale înainte de a ajunge aici.",
+            "en": "Unwind in this vibrant recreational area which is perfect for an afternoon picnic, so consider buying some local snacks from a bakery before arriving here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuova Chiesa dei Santi Cosma e Damiano",
+            "hu": "Nuova Chiesa dei Santi Cosma e Damiano",
+            "ro": "Nuova Chiesa dei Santi Cosma e Damiano",
+            "en": "Nuova Chiesa dei Santi Cosma e Damiano"
+          },
+          "coords": [
+            15.163718,
+            37.631913
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem majestätischen, neueren Kirchengebäude, das sich durch seine Größe auszeichnet und einen friedlichen Abschluss der Reise bietet.",
+            "hu": "Fejezze be kerékpáros útvonalát ennél a fenséges, újabb építésű, nagyszabású templomnál, amely békés és tágas lezárást nyújt egy hosszú, aktív utazásnak.",
+            "ro": "Încheiați-vă traseul cu bicicleta la această biserică mai nouă și maiestoasă, caracterizată prin scara sa măreață, oferind un final pașnic pentru o călătorie activă.",
+            "en": "End your cycling route at this majestic newer church building characterized by its grand scale, providing a peaceful and spacious end to a long, active journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer direkt an der Küste mit der antiken Garitta Pietra Sarpa und spüren Sie die frische Meeresbrise. Gegen Mittag genießen Sie die herrliche Aussicht vom Belvedere, bevor Sie zum majestätischen Santissimo Salvatore hinauffahren. Der Nachmittag führt Sie tiefer in das Erbe der Stadt und endet nach einer Pause in Le cocole an der großen Nuova Chiesa dei Santi Cosma e Damiano.",
+        "hu": "Kezdje kerékpáros kalandját közvetlenül a parton az ősi Garitta Pietra Sarpa-nál, érezve a frissítő tengeri szellőt. Dél körül magába szívhatja a Belvedere lenyűgöző kilátását, majd felkeresi a fenséges Santissimo Salvatore-t. A délután folyamán a város egyházi öröksége felé veszi az irányt, majd a Le cocole-nál tartott pihenő után a grandiózus Nuova Chiesa dei Santi Cosma e Damiano-nál fejezi be a túrát.",
+        "ro": "Începeți aventura cu bicicleta chiar pe țărm cu antica Garitta Pietra Sarpa, simțind briza mării. La prânz, veți admira priveliștile uimitoare de la Belvedere înainte de a urca la mărețul Santissimo Salvatore. După-amiaza vă aduce mai adânc în moștenirea religioasă a orașului, trecând pe la Raccomandati și luând o pauză la Le cocole. Turul se încheie la grandioasa Nuova Chiesa dei Santi Cosma e Damiano.",
+        "en": "Kick off your cycling adventure right by the shore with the ancient Garitta Pietra Sarpa, feeling the refreshing sea breeze. By noon, you will absorb the stunning views at Belvedere before heading up to the majestic Santissimo Salvatore. The afternoon brings you deeper into the town’s religious heritage, passing Santa Maria dei Raccomandati and taking a well-deserved break at Le cocole. The tour beautifully ends at the grand Nuova Chiesa dei Santi Cosma e Damiano."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:06",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria degli Ammalati",
+            "hu": "Chiesa di Santa Maria degli Ammalati",
+            "ro": "Chiesa di Santa Maria degli Ammalati",
+            "en": "Chiesa di Santa Maria degli Ammalati"
+          },
+          "coords": [
+            15.157269,
+            37.643879
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem bedeutenden Heiligtum etwas außerhalb des Zentrums, wo das Parken viel einfacher ist und das Morgenlicht wunderschön auf die Fassade fällt.",
+            "hu": "Kezdje autós napját ezen a központtól kicsit távolabb eső, jelentős szentélynél, ahol sokkal könnyebb a parkolás, és a reggeli fény gyönyörűen megvilágítja a homlokzatot.",
+            "ro": "Începeți ziua de condus la acest sanctuar semnificativ, aflat puțin în afara centrului principal, unde parcarea este mult mai ușoară, iar lumina dimineții cade frumos pe fațadă.",
+            "en": "Start your driving day at this significant sanctuary slightly out of the main center, where parking is much easier and the morning light beautifully hits the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Cosma e Damiano",
+            "hu": "Chiesa dei Santi Cosma e Damiano",
+            "ro": "Chiesa dei Santi Cosma e Damiano",
+            "en": "Chiesa dei Santi Cosma e Damiano"
+          },
+          "coords": [
+            15.163686,
+            37.630257
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ältere, diesen Zwillingsheiligen gewidmete Kirche mit ihrem historischen Charme, aber stellen Sie sich auf engere Straßen bei der Anfahrt ein.",
+            "hu": "Látogasson el ehhez az ikerszenteknek szentelt régebbi templomhoz, amely történelmi bájt áraszt, de készüljön fel a szűkebb utcákra, amikor e történelmi helyszín felé vezet.",
+            "ro": "Vizitați biserica mai veche dedicată acestor sfinți gemeni, care emană farmec istoric, dar fiți pregătiți pentru străzi mai înguste pe măsură ce conduceți spre această locație istorică.",
+            "en": "Visit the older church dedicated to these twin saints which exudes historical charm, but be prepared for narrower streets as you drive up to this historic location."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna di Loreto",
+            "hu": "Santuario Madonna di Loreto",
+            "ro": "Santuario Madonna di Loreto",
+            "en": "Santuario Madonna di Loreto"
+          },
+          "coords": [
+            15.155714,
+            37.627563
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das tiefe spirituelle Erbe dieses verehrten Heiligtums inmitten des städtischen Gefüges, und prüfen Sie die Öffnungszeiten, bevor Sie hineingehen.",
+            "hu": "Tapasztalja meg ennek a városi szövetbe ékelt, tiszteletre méltó szentélynek a mély spirituális örökségét, ügyelve arra, hogy ellenőrizze a nyitvatartást, mielőtt belép.",
+            "ro": "Experimentați moștenirea spirituală profundă a acestui sanctuar venerat ascuns în țesutul urban, asigurându-vă că verificați programul înainte de a decide să intrați.",
+            "en": "Experience the deep spiritual heritage of this venerated sanctuary nestled in the urban fabric, making sure to check the opening times before you decide to go inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Lorenzo Vecchio",
+            "hu": "Anfiteatro Lorenzo Vecchio",
+            "ro": "Anfiteatro Lorenzo Vecchio",
+            "en": "Anfiteatro Lorenzo Vecchio"
+          },
+          "coords": [
+            15.16892,
+            37.620492
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter, um dieses einzigartige Freiluft-Amphitheater zu erkunden, und versuchen Sie, ein paar Straßen weiter zu parken, um mögliche Staus zu vermeiden.",
+            "hu": "Hajtson le, hogy felfedezze ezt az egyedülálló szabadtéri amfiteátrumot, amely gyakran kulturális események központja, és próbáljon meg néhány utcával arrébb parkolni.",
+            "ro": "Conduceți pentru a explora acest amfiteatru unic în aer liber, care servește adesea ca punct focal pentru evenimente culturale, și încercați să parcați la câteva străzi distanță.",
+            "en": "Drive down to explore this unique open-air amphitheater that often serves as a focal point for cultural events, and try to park a few streets away to avoid the congestion."
+          }
+        },
+        {
+          "name": {
+            "de": "Spirito Santo",
+            "hu": "Spirito Santo",
+            "ro": "Spirito Santo",
+            "en": "Spirito Santo"
+          },
+          "coords": [
+            15.163979,
+            37.616863
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die tiefgründige Einfachheit dieser zentral gelegenen Kirche, die einen kühlen Rückzugsort vor der Hitze bietet, und verhalten Sie sich ruhig aus Respekt.",
+            "hu": "Csodálja meg e központi elhelyezkedésű templom mélységes egyszerűségét, amely hűvös menedéket nyújt a hőség elől, és őrizzen meg csendes viselkedést, mivel ez egy aktív istentiszteleti hely.",
+            "ro": "Admirați simplitatea profundă a acestei biserici situate central, care oferă un refugiu răcoros de la căldură, păstrând o atitudine tăcută deoarece este un lăcaș de cult activ.",
+            "en": "Marvel at the profound simplicity of this centrally located church which offers a cool retreat from the heat, keeping a quiet demeanor as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Garitta Pietra Sarpa",
+            "hu": "Garitta Pietra Sarpa",
+            "ro": "Garitta Pietra Sarpa",
+            "en": "Garitta Pietra Sarpa"
+          },
+          "coords": [
+            15.175152,
+            37.619007
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour am wunderschönen Meer an diesem antiken Wachturm, und nutzen Sie die nahegelegenen Parkplätze, um die erfrischende Brise im Sonnenuntergang zu genießen.",
+            "hu": "Fejezze be autós túráját a gyönyörű tengerparton ennél az ősi őrtoronynál, kihasználva a közeli parti parkolókat, hogy élvezze a frissítő naplementi szellőt.",
+            "ro": "Terminați turul cu mașina lângă marea frumoasă la acest turn de veghe antic, profitând de zonele de parcare de pe coastă pentru a vă bucura de briza răcoroasă la apus.",
+            "en": "Finish your driving tour by the beautiful sea with this ancient watchtower, taking advantage of the nearby coastal parking areas to enjoy the refreshing sunset breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt weiter nördlich an der großen Santa Maria degli Ammalati, wo Sie einen ruhigen Morgen bei den äußeren Wahrzeichen der Stadt genießen. Gegen Mittag führt die Reise zur historischen Kirche Santi Cosma e Damiano und zur verehrten Madonna di Loreto. Am Nachmittag fahren Sie in Richtung Süden zum kulturellen Zentrum am Anfiteatro und zum Spirito Santo. Beenden Sie den Tag entspannt am Meer in der Nähe der Garitta Pietra Sarpa.",
+        "hu": "Autós útja északabbra, a lenyűgöző Santa Maria degli Ammalati-nál indul, ahol egy nyugodt reggelen fedezheti fel a város külső vallási emlékeit. Dél körül az utazás a történelmi Santi Cosma e Damiano-hoz és a Madonna di Loreto-hoz vezet. A délután délre, az Anfiteatro élénk kulturális központjához és a központi Spirito Santo-hoz viszi Önt. A nap egy tengerparti naplementével zárul a Garitta Pietra Sarpa közelében.",
+        "ro": "Conducerea începe mai la nord la impresionanta Santa Maria degli Ammalati, bucurându-vă de o dimineață calmă explorând reperele religioase exterioare. Spre prânz, călătoria vă duce la istorica biserică Santi Cosma e Damiano și venerata Madonna di Loreto. După-amiaza vă aduce în sud, în centrul cultural vibrant de lângă Anfiteatro și la Spirito Santo. Veți termina ziua liniștit cu un apus la malul mării lângă Garitta Pietra Sarpa.",
+        "en": "Your drive starts further north at the grand Santa Maria degli Ammalati, enjoying a calm morning exploring the town’s outer religious landmarks. Moving towards midday, the journey leads you to the historic Santi Cosma e Damiano and the deeply revered Madonna di Loreto. The afternoon shift brings you south into the vibrant cultural hub by the Anfiteatro and the centrally located Spirito Santo. You will smoothly finish the day with a seaside sunset view near Garitta Pietra Sarpa."
+      }
+    }
+  }
+}

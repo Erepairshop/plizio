@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-ao-mai-pai-cities-v2",
+  "anchor": {
+    "name": "Ao Mai Pai",
+    "coords": [
+      99.08929,
+      7.48145
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.91,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Mai Phai",
+            "hu": "Ao Mai Phai",
+            "ro": "Ao Mai Phai",
+            "en": "Ao Mai Phai"
+          },
+          "coords": [
+            99.089304,
+            7.480062
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ao Mai Phai, einem ruhigen Strand mit weichem Sand, wo ein frühes Eintreffen einen schattigen Platz unter Bambus garantiert.",
+            "hu": "Pihenjen az Ao Mai Phai nyugodt, finom homokos strandján, ahol a korai érkezés garantálja a hűsítő árnyékot a bambuszfák alatt.",
+            "ro": "Relaxați-vă la Ao Mai Phai, o plajă senină cu nisip fin, unde sosirea devreme vă garantează un loc umbrit sub copacii de bambus.",
+            "en": "Relax at Ao Mai Phai, a serene beach offering soft sands and clear waters, where arriving early guarantees a shady spot under the bamboo trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Khlong Chak Strand",
+            "hu": "Khlong Chak strand",
+            "ro": "Plaja Khlong Chak",
+            "en": "Khlong Chak Beach"
+          },
+          "coords": [
+            99.083168,
+            7.486078
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Khlong Chak Strand mit seinen sanften Wellen, der sich perfekt für ein friedliches Bad vor der Nachmittagshitze eignet.",
+            "hu": "Fedezze fel a csendes Khlong Chak strandot és lágy hullámait, amely tökéletes egy nyugodt úszáshoz még a délutáni hőség beállta előtt.",
+            "ro": "Descoperiți plaja liniștită Khlong Chak cu valurile sale blânde, perfectă pentru o înotare pașnică înainte de a lovi căldura după-amiezii.",
+            "en": "Discover the tranquil Khlong Chak Beach with its stunning sunset views and gentle waves, perfect for a peaceful swim before the afternoon heat peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nui Bay Beach",
+            "hu": "Nui Bay strand",
+            "ro": "Nui Bay Beach",
+            "en": "Nui Bay Beach"
+          },
+          "coords": [
+            99.079102,
+            7.488549
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entfliehen Sie zum Nui Bay Beach, einer verborgenen Bucht mit grünen Klippen; packen Sie Wasser und Snacks ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön a Nui Bay strandra, egy buja sziklákkal övezett rejtett öbölbe, és ne felejtsen el vizet és rágcsálnivalót vinni a hiányzó büfék miatt.",
+            "ro": "Evadați la Nui Bay, un golf ascuns înconjurat de stânci verzi, și amintiți-vă să aduceți apă și gustări deoarece facilitățile sunt foarte limitate.",
+            "en": "Escape to Nui Bay Beach, a hidden cove framed by lush green cliffs, so remember to pack your own water and snacks as facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Following Giants",
+            "hu": "Following Giants",
+            "ro": "Following Giants",
+            "en": "Following Giants"
+          },
+          "coords": [
+            99.086727,
+            7.494861
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Erleben Sie ethischen Tourismus bei Following Giants und beobachten Sie gerettete Elefanten in der Natur; tragen Sie bequeme Wanderschuhe.",
+            "hu": "Tapasztalja meg az etikus turizmust a Following Giants-nél, ahol megmentett elefántokat figyelhet meg; viseljen kényelmes túracipőt a sétához.",
+            "ro": "Experimentați turismul etic la Following Giants, unde puteți observa elefanți salvați în natură, deci purtați încălțăminte confortabilă de mers.",
+            "en": "Experience ethical tourism at Following Giants, where you can observe rescued elephants in their natural habitat, so wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ba Kan Tiang Beach",
+            "hu": "Ba Kan Tiang strand",
+            "ro": "Plaja Ba Kan Tiang",
+            "en": "Ba Kan Tiang Beach"
+          },
+          "coords": [
+            99.07436,
+            7.495484
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Ba Kan Tiang Beach mit seinem klaren Wasser; eine frische Kokosnuss in einem Strandcafé ist ein Muss.",
+            "hu": "Élvezze a Ba Kan Tiang strand pezsgő hangulatát és kristálytiszta vizét, ahol a tengerparti kávézókban feltétlenül érdemes egy friss kókuszt inni.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Ba Kan Tiang, cunoscută pentru apele sale cristaline, unde o nucă de cocos proaspătă este obligatorie.",
+            "en": "Enjoy the lively vibe of Ba Kan Tiang Beach, known for its pristine waters and beachfront cafes, where grabbing a fresh coconut is a must."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang an den Ufern von Ao Mai Phai. Gegen Mittag führt Sie der Weg zum Khlong Chak Strand und den einsamen Buchten der Nui Bay. Der Nachmittag ist der ethischen Naturerkundung bei Following Giants gewidmet, einem tiefgreifenden Erlebnis. Beenden Sie Ihre Wanderung, wenn der Abend über dem Ba Kan Tiang Strand hereinbricht.",
+        "hu": "Kezdje a reggelt egy frissítő sétával az Ao Mai Phai partján, nyugodt alaphangot adva a napnak. Délidőben az út a Khlong Chak strandhoz és a Nui öböl rejtett zugaihoz vezet. A délután az etikus természetfelfedezésé a Following Giants-nél, ami igazán mély élmény. Zárja a gyalogos túrát a Ba Kan Tiang strandon leereszkedő kora esti fényekben.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă pe țărmul Ao Mai Phai. La amiază, poteca vă duce la plaja Khlong Chak și în golfurile retrase de la Nui Bay pentru relaxare. După-amiaza este dedicată explorării etice a naturii la Following Giants. Încheiați-vă călătoria pe jos pe măsură ce seara se lasă peste plaja Ba Kan Tiang.",
+        "en": "Begin your morning with a refreshing stroll along the shores of Ao Mai Phai, setting a tranquil tone for the day. As midday approaches, the path leads you to Khlong Chak Beach and the secluded coves of Nui Bay for relaxation. The afternoon is dedicated to ethical nature exploration at Following Giants, a profound experience. Conclude your walking journey as evening falls over Ba Kan Tiang Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 6.39,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Mai Phai",
+            "hu": "Ao Mai Phai",
+            "ro": "Ao Mai Phai",
+            "en": "Ao Mai Phai"
+          },
+          "coords": [
+            99.089304,
+            7.480062
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ao Mai Phai, einem ruhigen Strand mit weichem Sand, wo ein frühes Eintreffen einen schattigen Platz unter Bambus garantiert.",
+            "hu": "Pihenjen az Ao Mai Phai nyugodt, finom homokos strandján, ahol a korai érkezés garantálja a hűsítő árnyékot a bambuszfák alatt.",
+            "ro": "Relaxați-vă la Ao Mai Phai, o plajă senină cu nisip fin, unde sosirea devreme vă garantează un loc umbrit sub copacii de bambus.",
+            "en": "Relax at Ao Mai Phai, a serene beach offering soft sands and clear waters, where arriving early guarantees a shady spot under the bamboo trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Nui Bay Beach",
+            "hu": "Nui Bay strand",
+            "ro": "Nui Bay Beach",
+            "en": "Nui Bay Beach"
+          },
+          "coords": [
+            99.079102,
+            7.488549
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Entfliehen Sie zum Nui Bay Beach, einer verborgenen Bucht mit grünen Klippen; packen Sie Wasser und Snacks ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön a Nui Bay strandra, egy buja sziklákkal övezett rejtett öbölbe, és ne felejtsen el vizet és rágcsálnivalót vinni a hiányzó büfék miatt.",
+            "ro": "Evadați la Nui Bay, un golf ascuns înconjurat de stânci verzi, și amintiți-vă să aduceți apă și gustări deoarece facilitățile sunt foarte limitate.",
+            "en": "Escape to Nui Bay Beach, a hidden cove framed by lush green cliffs, so remember to pack your own water and snacks as facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Following Giants",
+            "hu": "Following Giants",
+            "ro": "Following Giants",
+            "en": "Following Giants"
+          },
+          "coords": [
+            99.086727,
+            7.494861
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Erleben Sie ethischen Tourismus bei Following Giants und beobachten Sie gerettete Elefanten in der Natur; tragen Sie bequeme Wanderschuhe.",
+            "hu": "Tapasztalja meg az etikus turizmust a Following Giants-nél, ahol megmentett elefántokat figyelhet meg; viseljen kényelmes túracipőt a sétához.",
+            "ro": "Experimentați turismul etic la Following Giants, unde puteți observa elefanți salvați în natură, deci purtați încălțăminte confortabilă de mers.",
+            "en": "Experience ethical tourism at Following Giants, where you can observe rescued elephants in their natural habitat, so wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ba Kan Tiang Beach",
+            "hu": "Ba Kan Tiang strand",
+            "ro": "Plaja Ba Kan Tiang",
+            "en": "Ba Kan Tiang Beach"
+          },
+          "coords": [
+            99.07436,
+            7.495484
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Ba Kan Tiang Beach mit seinem klaren Wasser; eine frische Kokosnuss in einem Strandcafé ist ein Muss.",
+            "hu": "Élvezze a Ba Kan Tiang strand pezsgő hangulatát és kristálytiszta vizét, ahol a tengerparti kávézókban feltétlenül érdemes egy friss kókuszt inni.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Ba Kan Tiang, cunoscută pentru apele sale cristaline, unde o nucă de cocos proaspătă este obligatorie.",
+            "en": "Enjoy the lively vibe of Ba Kan Tiang Beach, known for its pristine waters and beachfront cafes, where grabbing a fresh coconut is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue of Koh Lanta, French TV show (survivor)",
+            "hu": "Koh Lanta szobor",
+            "ro": "Statuia Koh Lanta",
+            "en": "Statue of Koh Lanta, French TV show (survivor)"
+          },
+          "coords": [
+            99.07215,
+            7.498176
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto an der ikonischen Koh Lanta Statue, die an die Survivor-Show erinnert, ideal für einen kurzen Stopp auf Ihrem Abenteuer.",
+            "hu": "Készítsen egy fotót a híres Survivor tévéműsornak emléket állító Koh Lanta szobornál, amely ideális egy gyors megállóra trópusi kalandja során.",
+            "ro": "Faceți o fotografie la statuia emblematică Koh Lanta care comemorează show-ul Survivor, ideală pentru o scurtă oprire în aventura dvs. tropicală.",
+            "en": "Snap a photo at the iconic Statue of Koh Lanta commemorating the famous Survivor TV show, ideal for a quick stop to capture your tropical adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Wild Monkeys",
+            "hu": "Vadmajmok",
+            "ro": "Maimuțe sălbatice",
+            "en": "Wild Monkeys"
+          },
+          "coords": [
+            99.091326,
+            7.499409
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.11,
+          "tip_5lang": {
+            "de": "Beobachten Sie die verspielten Wildaffen in ihrer natürlichen Dschungelumgebung, aber halten Sie Abstand und sichern Sie lose Gegenstände.",
+            "hu": "Figyelje meg a játékos vadmajmokat természetes dzsungeli környezetükben, de tartson tisztes távolságot és rögzítse a laza értéktárgyait.",
+            "ro": "Observați maimuțele sălbatice jucăușe în mediul lor natural de junglă, dar păstrați o distanță sigură și asigurați-vă bunurile personale.",
+            "en": "Observe the playful Wild Monkeys in their natural jungle environment along the road, but keep a safe distance and secure your loose belongings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit der morgendlichen Brise am Ao Mai Phai, bevor Sie zum Nui Bay Beach radeln. Die Mittagssonne verbringen Sie aufmerksam bei den geretteten Elefanten. Am Nachmittag geht es zum lebhaften Ba Kan Tiang Strand und zur Survivor-Statue. Beenden Sie die Fahrt am Rande des Dschungels, während Sie im Abendlicht verspielte Wildaffen beobachten.",
+        "hu": "Indítsa a kerékpártúrát a lágy reggeli szellőben az Ao Mai Phai partján, majd tekerjen a rejtett Nui öböl felé. A delet a megmentett elefántok megfigyelésével töltheti. Délután térjen át a pezsgő Ba Kan Tiang strandra, és lőjön egy fotót a Survivor szobornál. Zárja az aktív utat a dzsungel szélén, játékos majmokat figyelve.",
+        "ro": "Începeți turul cu bicicleta în briza dimineții la Ao Mai Phai, înainte de a pedala spre Nui Bay. La prânz veți observa elefanții salvați la Following Giants. După-amiaza, treceți la animata plajă Ba Kan Tiang și faceți o poză la statuia Survivor. Încheiați cursa la marginea junglei urmărind maimuțele sălbatice jucăușe la amurg.",
+        "en": "Kick off your cycling tour with the gentle morning breezes at Ao Mai Phai before pedaling towards the hidden Nui Bay Beach. The midday sun is spent thoughtfully observing rescued elephants at Following Giants. By afternoon, transition to the lively Ba Kan Tiang Beach and snap a quick photo at the Survivor statue. End the active ride near the jungle edge watching playful wild monkeys at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Laem Ta Not Beach",
+            "hu": "Laem Ta Not strand",
+            "ro": "Plaja Laem Ta Not",
+            "en": "Laem Ta Not Beach"
+          },
+          "coords": [
+            99.099396,
+            7.469507
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den abgelegenen Laem Ta Not Beach mit seinem Leuchtturm und Panoramablick; klettern Sie früh hinauf, um der Mittagssonne zu entgehen.",
+            "hu": "Fedezze fel a távoli Laem Ta Not strandot és világítótornyát, ahová érdemes korán felmászni a lenyűgöző kilátásért és a déli nap elkerüléséért.",
+            "ro": "Explorați plaja izolată Laem Ta Not cu farul său panoramic spre mare, și urcați devreme pentru a evita soarele fierbinte de la mijlocul zilei.",
+            "en": "Explore the remote Laem Ta Not Beach with its iconic lighthouse offering panoramic sea views, and climb up early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Mai Phai",
+            "hu": "Ao Mai Phai",
+            "ro": "Ao Mai Phai",
+            "en": "Ao Mai Phai"
+          },
+          "coords": [
+            99.089304,
+            7.480062
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ao Mai Phai, einem ruhigen Strand mit weichem Sand, wo ein frühes Eintreffen einen schattigen Platz unter Bambus garantiert.",
+            "hu": "Pihenjen az Ao Mai Phai nyugodt, finom homokos strandján, ahol a korai érkezés garantálja a hűsítő árnyékot a bambuszfák alatt.",
+            "ro": "Relaxați-vă la Ao Mai Phai, o plajă senină cu nisip fin, unde sosirea devreme vă garantează un loc umbrit sub copacii de bambus.",
+            "en": "Relax at Ao Mai Phai, a serene beach offering soft sands and clear waters, where arriving early guarantees a shady spot under the bamboo trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Khlong Chak Strand",
+            "hu": "Khlong Chak strand",
+            "ro": "Plaja Khlong Chak",
+            "en": "Khlong Chak Beach"
+          },
+          "coords": [
+            99.083168,
+            7.486078
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Khlong Chak Strand mit seinen sanften Wellen, der sich perfekt für ein friedliches Bad vor der Nachmittagshitze eignet.",
+            "hu": "Fedezze fel a csendes Khlong Chak strandot és lágy hullámait, amely tökéletes egy nyugodt úszáshoz még a délutáni hőség beállta előtt.",
+            "ro": "Descoperiți plaja liniștită Khlong Chak cu valurile sale blânde, perfectă pentru o înotare pașnică înainte de a lovi căldura după-amiezii.",
+            "en": "Discover the tranquil Khlong Chak Beach with its stunning sunset views and gentle waves, perfect for a peaceful swim before the afternoon heat peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nui Bay Beach",
+            "hu": "Nui Bay strand",
+            "ro": "Nui Bay Beach",
+            "en": "Nui Bay Beach"
+          },
+          "coords": [
+            99.079102,
+            7.488549
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entfliehen Sie zum Nui Bay Beach, einer verborgenen Bucht mit grünen Klippen; packen Sie Wasser und Snacks ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön a Nui Bay strandra, egy buja sziklákkal övezett rejtett öbölbe, és ne felejtsen el vizet és rágcsálnivalót vinni a hiányzó büfék miatt.",
+            "ro": "Evadați la Nui Bay, un golf ascuns înconjurat de stânci verzi, și amintiți-vă să aduceți apă și gustări deoarece facilitățile sunt foarte limitate.",
+            "en": "Escape to Nui Bay Beach, a hidden cove framed by lush green cliffs, so remember to pack your own water and snacks as facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Following Giants",
+            "hu": "Following Giants",
+            "ro": "Following Giants",
+            "en": "Following Giants"
+          },
+          "coords": [
+            99.086727,
+            7.494861
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Erleben Sie ethischen Tourismus bei Following Giants und beobachten Sie gerettete Elefanten in der Natur; tragen Sie bequeme Wanderschuhe.",
+            "hu": "Tapasztalja meg az etikus turizmust a Following Giants-nél, ahol megmentett elefántokat figyelhet meg; viseljen kényelmes túracipőt a sétához.",
+            "ro": "Experimentați turismul etic la Following Giants, unde puteți observa elefanți salvați în natură, deci purtați încălțăminte confortabilă de mers.",
+            "en": "Experience ethical tourism at Following Giants, where you can observe rescued elephants in their natural habitat, so wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Khlong Chak Wasserfall",
+            "hu": "Khlong Chak vízesés",
+            "ro": "Cascada Khlong Chak",
+            "en": "Khlong Chak Waterfall"
+          },
+          "coords": [
+            99.093799,
+            7.499908
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Wandern Sie zum erfrischenden Khlong Chak Wasserfall im Regenwald, der am besten in der Regenzeit für einen spektakulären Wasserfluss besucht wird.",
+            "hu": "Túrázzon el az esőerdőben rejtőző frissítő Khlong Chak vízeséshez, amelyet a látványos vízhozam miatt a legjobb az esős évszakban felkeresni.",
+            "ro": "Faceți o drumeție la cascada răcoritoare Khlong Chak din pădurea tropicală, cel mai bine vizitată în sezonul ploios pentru un debit spectaculos.",
+            "en": "Hike up to the refreshing Khlong Chak Waterfall hidden in the rainforest, best visited during the rainy season for a spectacular water flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue of Koh Lanta, French TV show (survivor)",
+            "hu": "Koh Lanta szobor",
+            "ro": "Statuia Koh Lanta",
+            "en": "Statue of Koh Lanta, French TV show (survivor)"
+          },
+          "coords": [
+            99.07215,
+            7.498176
+          ],
+          "category": "landmark",
+          "arrive_at": "16:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.38,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto an der ikonischen Koh Lanta Statue, die an die Survivor-Show erinnert, ideal für einen kurzen Stopp auf Ihrem Abenteuer.",
+            "hu": "Készítsen egy fotót a híres Survivor tévéműsornak emléket állító Koh Lanta szobornál, amely ideális egy gyors megállóra trópusi kalandja során.",
+            "ro": "Faceți o fotografie la statuia emblematică Koh Lanta care comemorează show-ul Survivor, ideală pentru o scurtă oprire în aventura dvs. tropicală.",
+            "en": "Snap a photo at the iconic Statue of Koh Lanta commemorating the famous Survivor TV show, ideal for a quick stop to capture your tropical adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh in den Süden, um den Laem Ta Not Strand und seinen majestätischen Leuchtturm im Morgenlicht zu erkunden. Mittags entspannen Sie an den Stränden Ao Mai Phai, Khlong Chak und Nui Bay. Der Nachmittag verspricht ein Abenteuer mit Elefanten und einem erfrischenden Trekking zum Wasserfall. Ihr Roadtrip endet mit Fotostopps an der berühmten Survivor-Statue.",
+        "hu": "Vezessen le a déli csücsökbe korán, hogy megcsodálhassa a Laem Ta Not strandot és annak világítótornyát. A déli órák a part menti pihenésről szólnak az Ao Mai Phai, Khlong Chak és Nui öböl mentén. A délután elefántos kalandot és frissítő túrát ígér a vízeséshez. Az autós kirándulás a híres Survivor szobornál tett fotós megállókkal zárul.",
+        "ro": "Conduceți dimineața devreme spre sud pentru a explora plaja Laem Ta Not și farul ei maiestuos. La amiază urcați pe coastă, relaxându-vă la Ao Mai Phai, Khlong Chak și Nui Bay. După-amiaza promite aventuri cu elefanți și o drumeție răcoritoare la cascada Khlong Chak. Excursia se încheie cu fotografii la statuia Survivor la apus.",
+        "en": "Drive down to the southern tip early to explore Laem Ta Not Beach and its majestic lighthouse in the morning light. Midday brings you up the coast, unwinding at Ao Mai Phai, Khlong Chak, and the beautiful Nui Bay. Your afternoon promises adventure with ethical elephant encounters and a refreshing trek to Khlong Chak Waterfall. Your road trip concludes with photo stops at the Survivor statue."
+      }
+    }
+  }
+}

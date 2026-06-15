@@ -1,0 +1,428 @@
+{
+  "city_id": "saint-pee-sur-nivelle",
+  "anchor": {
+    "name": "Saint-Pée-sur-Nivelle",
+    "coords": [
+      -1.5506,
+      43.3567
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 2.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.551107,
+            43.355108
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typisch baskischen Holzgalerien in dieser charmanten Kirche und besuchen Sie sie am besten vormittags für bestes Licht.",
+            "hu": "Csodálja meg a tipikus baszk fagalériákat ebben a hangulatos templomban, és látogasson el délelőtt a legszebb fényekért.",
+            "ro": "Admirați galeriile tradiționale din lemn basc în această biserică fermecătoare și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Admire the traditional Basque wooden galleries inside this charming church, and visit in the morning for the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel Larreko",
+            "hu": "Espace Culturel Larreko",
+            "ro": "Espace Culturel Larreko",
+            "en": "Espace Culturel Larreko"
+          },
+          "coords": [
+            -1.548263,
+            43.355284
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Ausstellungen in diesem modernen Kulturzentrum und prüfen Sie vorher online das aktuelle Veranstaltungsprogramm.",
+            "hu": "Tekintse meg a helyi kiállításokat ebben a modern kulturális központban, de előtte érdemes online ellenőrizni az aktuális programokat.",
+            "ro": "Experimentați expozițiile locale în acest centru cultural modern și verificați online programul evenimentelor înainte de vizită.",
+            "en": "Experience local exhibitions at this modern cultural center, and make sure to check the current event schedule online beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "hu": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "ro": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "en": "Ecomusée de la Pelote et du Xistera Pilotari"
+          },
+          "coords": [
+            -1.549619,
+            43.355012
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des baskischen Nationalsports und probieren Sie interaktive Stationen aus, die ideal für Familien sind.",
+            "hu": "Fedezze fel a baszk nemzeti sport titkait, és próbálja ki az interaktív állomásokat, amelyek tökéletesek családok számára.",
+            "ro": "Descoperiți secretele sportului național basc și încercați stațiile interactive, care sunt perfecte pentru vizitele în familie.",
+            "en": "Discover the secrets of the Basque national sport and try out the interactive stations, which are perfect for family visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Pée-sur-Nivelle",
+            "hu": "Château de Saint-Pée-sur-Nivelle",
+            "ro": "Château de Saint-Pée-sur-Nivelle",
+            "en": "Château de Saint-Pée-sur-Nivelle"
+          },
+          "coords": [
+            -1.548664,
+            43.353368
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Schlosses und tragen Sie bequeme Schuhe für das unebene Gelände rundherum.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a lenyűgöző romjait, és viseljen kényelmes cipőt a környék egyenetlen talaja miatt.",
+            "ro": "Explorați ruinele fascinante ale acestui castel istoric și purtați încălțăminte confortabilă pentru terenul neregulat din jur.",
+            "en": "Explore the fascinating ruins of this historic castle, and wear comfortable shoes for navigating the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Marie-Madeleine",
+            "hu": "Chapelle Sainte-Marie-Madeleine",
+            "ro": "Chapelle Sainte-Marie-Madeleine",
+            "en": "Chapelle Sainte-Marie-Madeleine"
+          },
+          "coords": [
+            -1.548233,
+            43.33527
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Stille in dieser abgelegenen Kapelle und bringen Sie eine Flasche Wasser für den sonnigen Spaziergang mit.",
+            "hu": "Élvezze a teljes csendet ebben az eldugott kápolnában, és vigyen magával egy üveg vizet a napos sétához az odaúton.",
+            "ro": "Bucurați-vă de liniștea absolută în această capelă izolată și luați o sticlă de apă pentru plimbarea însorită până acolo.",
+            "en": "Enjoy the absolute silence in this secluded chapel, and bring a bottle of water for the sunny walk to reach this peaceful spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie den Tag an der Kirche Saint-Pierre, um die historische Architektur zu bewundern.\nMidday: Nach einem kulturellen Intermezzo im Espace Larreko tauchen Sie im Ökomuseum in die faszinierende Welt des Pelota-Sports ein.\nAfternoon: Ein Spaziergang zum Château bringt Ihnen die Geschichte der Region näher, bevor Sie die charmanten Gassen erkunden.\nEvening: Beenden Sie Ihre Tour an der ruhigen Kapelle Sainte-Marie-Madeleine, die einen perfekten Abschluss in friedlicher Atmosphäre bietet.",
+        "hu": "Morning: Kezdje a napot a Saint-Pierre templom történelmi építészetének és nyugodt hangulatának felfedezésével.\nMidday: A kulturális Espace Larreko után látogasson el az Ökomúzeumba, ahol megismerheti a hagyományos baszk pelota játékot.\nAfternoon: Tegyen egy sétát a Château felé, amely a múltba repíti, majd fedezze fel a falu hangulatos utcáit és helyi érdekességeit.\nEvening: Zárja a napot a Sainte-Marie-Madeleine kápolnánál, ahol csendben és nyugalomban pihenhet a hosszú séta után.",
+        "ro": "Morning: Începeți ziua explorând arhitectura istorică a bisericii Saint-Pierre, inima spirituală a acestui sat pitoresc.\nMidday: După un moment cultural la Espace Larreko, vizitați Ecomuzeul pentru a descoperi secretele sportului tradițional basc, pelota.\nAfternoon: O plimbare relaxantă spre Château vă va dezvălui istoria fascinantă a regiunii și farmecul străzilor locale.\nEvening: Încheiați itinerariul la capela Sainte-Marie-Madeleine, un loc liniștit perfect pentru a reflecta la experiențele zilei.",
+        "en": "Morning: Start your day by exploring the historic architecture and tranquil atmosphere of the Église Saint-Pierre in the village center.\nMidday: After a cultural stop at Espace Larreko, dive into the fascinating world of traditional Basque pelota at the Ecomuseum.\nAfternoon: A leisurely stroll to the Château offers a glimpse into the region's rich history, followed by wandering the charming streets.\nEvening: Conclude your walk at the serene Chapelle Sainte-Marie-Madeleine, providing a peaceful retreat at the end of the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 2.89,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.551107,
+            43.355108
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typisch baskischen Holzgalerien in dieser charmanten Kirche und besuchen Sie sie am besten vormittags für bestes Licht.",
+            "hu": "Csodálja meg a tipikus baszk fagalériákat ebben a hangulatos templomban, és látogasson el délelőtt a legszebb fényekért.",
+            "ro": "Admirați galeriile tradiționale din lemn basc în această biserică fermecătoare și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Admire the traditional Basque wooden galleries inside this charming church, and visit in the morning for the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "hu": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "ro": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "en": "Ecomusée de la Pelote et du Xistera Pilotari"
+          },
+          "coords": [
+            -1.549619,
+            43.355012
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des baskischen Nationalsports und probieren Sie interaktive Stationen aus, die ideal für Familien sind.",
+            "hu": "Fedezze fel a baszk nemzeti sport titkait, és próbálja ki az interaktív állomásokat, amelyek tökéletesek családok számára.",
+            "ro": "Descoperiți secretele sportului național basc și încercați stațiile interactive, care sunt perfecte pentru vizitele în familie.",
+            "en": "Discover the secrets of the Basque national sport and try out the interactive stations, which are perfect for family visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Pée-sur-Nivelle",
+            "hu": "Château de Saint-Pée-sur-Nivelle",
+            "ro": "Château de Saint-Pée-sur-Nivelle",
+            "en": "Château de Saint-Pée-sur-Nivelle"
+          },
+          "coords": [
+            -1.548664,
+            43.353368
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Schlosses und tragen Sie bequeme Schuhe für das unebene Gelände rundherum.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a lenyűgöző romjait, és viseljen kényelmes cipőt a környék egyenetlen talaja miatt.",
+            "ro": "Explorați ruinele fascinante ale acestui castel istoric și purtați încălțăminte confortabilă pentru terenul neregulat din jur.",
+            "en": "Explore the fascinating ruins of this historic castle, and wear comfortable shoes for navigating the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "hu": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "ro": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "en": "Tyrolienne géante et tyrolienne Park Evolution 2"
+          },
+          "coords": [
+            -1.526067,
+            43.344091
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.06,
+          "tip_5lang": {
+            "de": "Spüren Sie den Adrenalinkick auf der riesigen Seilrutsche und buchen Sie Ihre Tickets unbedingt im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Érezze az adrenalint az óriási drótkötélpályán, és mindenképpen foglalja le jegyeit előre, hogy elkerülje a hosszú várakozást.",
+            "ro": "Simțiți adrenalina pe tiroliana uriașă și asigurați-vă că rezervați biletele în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Feel the adrenaline rush on the giant zipline, and be sure to book your tickets in advance to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Senpereko aintzira",
+            "hu": "Senpereko aintzira",
+            "ro": "Senpereko aintzira",
+            "en": "Senpereko aintzira"
+          },
+          "coords": [
+            -1.52058,
+            43.346644
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Ufer dieses idyllischen Sees und mieten Sie ein Tretboot, um die wunderschöne Natur vom Wasser aus zu erleben.",
+            "hu": "Pihenjen ennek az idilli tónak a csendes partján, és béreljen vízibiciklit, hogy a vízről is megcsodálhassa a természetet.",
+            "ro": "Relaxați-vă pe malul liniștit al acestui lac idilic și închiriați o hidrobicicletă pentru a admira natura frumoasă de pe apă.",
+            "en": "Relax on the quiet shores of this idyllic lake, and rent a pedal boat to experience the beautiful surrounding nature from the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Radtour an der beeindruckenden Kirche Saint-Pierre, bevor Sie sich in die Welt des Pelota-Sports stürzen.\nMidday: Nach dem Besuch im Ökomuseum radeln Sie zum historischen Château, wo Sie die reiche baskische Vergangenheit spüren können.\nAfternoon: Eine kurze Fahrt bringt Sie in die Natur, wo die riesige Seilrutsche im Park Evolution 2 für einen echten Adrenalinkick sorgt.\nEvening: Entspannen Sie sich schließlich am wunderschönen Senpereko aintzira, dem idealen See, um den Tag gemütlich ausklingen zu lassen.",
+        "hu": "Morning: Indítsa kerékpártúráját a lenyűgöző Saint-Pierre templomnál, majd merüljön el a baszk kultúrában és történelemben.\nMidday: Az Ökomúzeum után tekerjen a történelmi Château-hoz, ahol megcsodálhatja az ősi építészetet és a gyönyörű környezetet.\nAfternoon: Egy rövid út a természetbe visz, ahol a Park Evolution 2 óriási drótkötélpályája igazi kalandot és izgalmat ígér.\nEvening: Pihenje ki magát a festői Senpereko aintzira tó partján, amely tökéletes helyszín a nap nyugodt és békés lezárásához.",
+        "ro": "Morning: Începeți traseul cu bicicleta la impresionanta biserică Saint-Pierre, apoi pătrundeți în tradițiile culturale basce.\nMidday: După vizitarea Ecomuzeului, pedalați către istoricul Château pentru a descoperi moștenirea arhitecturală a regiunii.\nAfternoon: O scurtă cursă vă duce în mijlocul naturii, unde tiroliana uriașă de la Park Evolution 2 promite senzații tari și aventură.\nEvening: Relaxați-vă pe malurile lacului Senpereko aintzira, locul ideal pentru a vă bucura de un apus liniștit în mijlocul naturii.",
+        "en": "Morning: Kick off your cycling tour at the impressive Église Saint-Pierre before diving into the local culture and history.\nMidday: After the Ecomuseum, cycle over to the historic Château, where you can admire the ancient architecture and beautiful setting.\nAfternoon: A short ride takes you into nature, where the giant zipline at Park Evolution 2 promises an exciting burst of adrenaline.\nEvening: Unwind by the picturesque Senpereko aintzira lake, the perfect spot to relax and watch the day quietly come to an end."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Saint-Pée-sur-Nivelle",
+            "hu": "Château de Saint-Pée-sur-Nivelle",
+            "ro": "Château de Saint-Pée-sur-Nivelle",
+            "en": "Château de Saint-Pée-sur-Nivelle"
+          },
+          "coords": [
+            -1.548664,
+            43.353368
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Schlosses und tragen Sie bequeme Schuhe für das unebene Gelände rundherum.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a lenyűgöző romjait, és viseljen kényelmes cipőt a környék egyenetlen talaja miatt.",
+            "ro": "Explorați ruinele fascinante ale acestui castel istoric și purtați încălțăminte confortabilă pentru terenul neregulat din jur.",
+            "en": "Explore the fascinating ruins of this historic castle, and wear comfortable shoes for navigating the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "hu": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "ro": "Ecomusée de la Pelote et du Xistera Pilotari",
+            "en": "Ecomusée de la Pelote et du Xistera Pilotari"
+          },
+          "coords": [
+            -1.549619,
+            43.355012
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des baskischen Nationalsports und probieren Sie interaktive Stationen aus, die ideal für Familien sind.",
+            "hu": "Fedezze fel a baszk nemzeti sport titkait, és próbálja ki az interaktív állomásokat, amelyek tökéletesek családok számára.",
+            "ro": "Descoperiți secretele sportului național basc și încercați stațiile interactive, care sunt perfecte pentru vizitele în familie.",
+            "en": "Discover the secrets of the Basque national sport and try out the interactive stations, which are perfect for family visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Marie-Madeleine",
+            "hu": "Chapelle Sainte-Marie-Madeleine",
+            "ro": "Chapelle Sainte-Marie-Madeleine",
+            "en": "Chapelle Sainte-Marie-Madeleine"
+          },
+          "coords": [
+            -1.548233,
+            43.33527
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Stille in dieser abgelegenen Kapelle und bringen Sie eine Flasche Wasser für den sonnigen Spaziergang mit.",
+            "hu": "Élvezze a teljes csendet ebben az eldugott kápolnában, és vigyen magával egy üveg vizet a napos sétához az odaúton.",
+            "ro": "Bucurați-vă de liniștea absolută în această capelă izolată și luați o sticlă de apă pentru plimbarea însorită până acolo.",
+            "en": "Enjoy the absolute silence in this secluded chapel, and bring a bottle of water for the sunny walk to reach this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Adventure Côte-Basque-Paramoteur",
+            "hu": "Adventure Côte-Basque-Paramoteur",
+            "ro": "Adventure Côte-Basque-Paramoteur",
+            "en": "Adventure Côte-Basque-Paramoteur"
+          },
+          "coords": [
+            -1.530995,
+            43.33971
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Ausblicke aus der Luft bei einem Paramotor-Flug und ziehen Sie sich winddicht an für dieses luftige Abenteuer.",
+            "hu": "Élvezze a lélegzetelállító kilátást egy paramotoros repülés során, és öltözzön szélálló ruhába ehhez a különleges légi kalandhoz.",
+            "ro": "Bucurați-vă de priveliști uimitoare din aer cu un zbor cu paramotorul și îmbrăcați-vă rezistent la vânt pentru această aventură aeriană.",
+            "en": "Enjoy breathtaking aerial views during a paramotor flight, and dress in windproof clothing for this thrilling airborne adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "hu": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "ro": "Tyrolienne géante et tyrolienne Park Evolution 2",
+            "en": "Tyrolienne géante et tyrolienne Park Evolution 2"
+          },
+          "coords": [
+            -1.526067,
+            43.344091
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Spüren Sie den Adrenalinkick auf der riesigen Seilrutsche und buchen Sie Ihre Tickets unbedingt im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Érezze az adrenalint az óriási drótkötélpályán, és mindenképpen foglalja le jegyeit előre, hogy elkerülje a hosszú várakozást.",
+            "ro": "Simțiți adrenalina pe tiroliana uriașă și asigurați-vă că rezervați biletele în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Feel the adrenaline rush on the giant zipline, and be sure to book your tickets in advance to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Senpereko aintzira",
+            "hu": "Senpereko aintzira",
+            "ro": "Senpereko aintzira",
+            "en": "Senpereko aintzira"
+          },
+          "coords": [
+            -1.52058,
+            43.346644
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Ufer dieses idyllischen Sees und mieten Sie ein Tretboot, um die wunderschöne Natur vom Wasser aus zu erleben.",
+            "hu": "Pihenjen ennek az idilli tónak a csendes partján, és béreljen vízibiciklit, hogy a vízről is megcsodálhassa a természetet.",
+            "ro": "Relaxați-vă pe malul liniștit al acestui lac idilic și închiriați o hidrobicicletă pentru a admira natura frumoasă de pe apă.",
+            "en": "Relax on the quiet shores of this idyllic lake, and rent a pedal boat to experience the beautiful surrounding nature from the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie Ihre Fahrt am historischen Château de Saint-Pée-sur-Nivelle und tauchen Sie direkt in die baskische Geschichte ein.\nMidday: Entdecken Sie die Traditionen im Ökomuseum und fahren Sie anschließend zur friedlichen Kapelle Sainte-Marie-Madeleine.\nAfternoon: Action erwartet Sie beim Paramotor-Abenteuer und an der Seilrutsche des Park Evolution 2 inmitten herrlicher Landschaften.\nEvening: Beenden Sie Ihren erlebnisreichen Tag mit einem entspannten Spaziergang am Ufer des wunderschönen Sees Senpereko aintzira.",
+        "hu": "Morning: Kezdje autós útját a történelmi Château de Saint-Pée-sur-Nivelle-nél, és ismerkedjen meg a lenyűgöző baszk örökséggel.\nMidday: Fedezze fel az Ökomúzeum kiállításait, majd vezessen a nyugodt és békés Sainte-Marie-Madeleine kápolnához egy kis pihenőre.\nAfternoon: A kalandok folytatódnak a paramotoros bázison és a Park Evolution 2 óriási drótkötélpályáján, gyönyörű környezetben.\nEvening: Zárja ezt az eseménydús napot a festői Senpereko aintzira tó partján, élvezve a természet csendjét és a csodás kilátást.",
+        "ro": "Morning: Începeți călătoria cu mașina la istoricul Château de Saint-Pée-sur-Nivelle, scufundându-vă direct în patrimoniul basc fascinant.\nMidday: Descoperiți tradițiile la Ecomuzeu, apoi conduceți spre capela liniștită Sainte-Marie-Madeleine pentru un moment de reculegere.\nAfternoon: Aventura vă așteaptă cu zborurile cu paramotorul și tiroliana de la Park Evolution 2, înconjurate de peisaje deosebite.\nEvening: Încheiați această zi plină de acțiune cu o plimbare relaxantă pe malul frumosului lac Senpereko aintzira.",
+        "en": "Morning: Start your drive at the historic Château de Saint-Pée-sur-Nivelle, immediately immersing yourself in fascinating Basque heritage.\nMidday: Discover local traditions at the Ecomuseum, then drive to the peaceful Chapelle Sainte-Marie-Madeleine for a quiet moment.\nAfternoon: Adventure awaits with paramotor flights and the giant zipline at Park Evolution 2, surrounded by stunning natural landscapes.\nEvening: Conclude your action-packed day with a relaxing stroll along the shores of the beautiful Senpereko aintzira lake."
+      }
+    }
+  }
+}

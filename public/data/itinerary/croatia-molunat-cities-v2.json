@@ -1,0 +1,497 @@
+{
+  "city_id": "croatia-molunat-cities-v2",
+  "anchor": {
+    "name": "Molunat",
+    "coords": [
+      18.4358,
+      42.4539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Überreste der Peterskirche",
+            "hu": "Szent Péter-templom, romok",
+            "ro": "Biserica Sf. Petru, ruine",
+            "en": "Church of St. Peter, remains"
+          },
+          "coords": [
+            18.435209,
+            42.445659
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rat",
+            "hu": "Rat",
+            "ro": "Rat",
+            "en": "Rat"
+          },
+          "coords": [
+            18.44119,
+            42.448059
+          ],
+          "category": "natural",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
+            "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
+            "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupičina glava",
+            "hu": "Kupičina glava",
+            "ro": "Kupičina glava",
+            "en": "Kupičina glava"
+          },
+          "coords": [
+            18.44671,
+            42.453266
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
+            "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Velika Obalica",
+            "hu": "Velika Obalica",
+            "ro": "Velika Obalica",
+            "en": "Velika Obalica"
+          },
+          "coords": [
+            18.449443,
+            42.46255
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern der Velika Obalica, einer atemberaubenden natürlichen Küste mit kristallklarem Wasser, die sich hervorragend für ein morgendliches Bad eignet.",
+            "hu": "Pihenjen a Velika Obalica partján, amely lenyűgöző természetes partvonalat kínál kristálytiszta vízzel, és kiváló hely egy gyors reggeli csobbanáshoz.",
+            "ro": "Relaxați-vă pe malurile din Velika Obalica, o coastă naturală uimitoare cu ape cristaline, fiind un loc excelent pentru o scurtă baie de dimineață.",
+            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjedalica",
+            "hu": "Sjedalica",
+            "ro": "Sjedalica",
+            "en": "Sjedalica"
+          },
+          "coords": [
+            18.454542,
+            42.459936
+          ],
+          "category": "natural",
+          "arrive_at": "14:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
+            "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
+            "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den beruhigenden Klängen der Adria, während Sie die Küstenpfade und historischen Stätten entlang der bezaubernden Küste von Molunat erkunden.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie Ihre letzte naturnahe Oase erkunden und zusehen, wie die Sonne über dem wunderschönen blauen Wasser untergeht.",
+        "hu": "A reggel az Adriai-tenger nyugtató hangjaival kezdődik, miközben felfedezi Molunat bájos partvonalának parti ösvényeit és varázslatos történelmi maradványait.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az utolsó békés pihenőhelyét, és nézi, ahogy a naplemente csodás színekkel festi meg az eget.",
+        "ro": "Dimineața începe cu sunetele liniștitoare ale Mării Adriatice, explorând potecile de coastă și vestigiile istorice de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce explorați ultimul refugiu natural, privind cum apusul pictează cerul deasupra apelor de un albastru strălucitor.",
+        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you explore the coastal paths and historical remnants along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover a final tranquil oasis, watching the sunset paint the sky over the magnificent shimmering waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Resnica",
+            "hu": "Resnica",
+            "ro": "Resnica",
+            "en": "Resnica"
+          },
+          "coords": [
+            18.423534,
+            42.470539
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer in Resnica, wo die unberührten Naturlandschaften eine erfrischende Flucht bieten, und wenn Sie früh ankommen, ist es besonders ruhig.",
+            "hu": "Kezdje kalandját Resnicában, ahol a nyers, érintetlen természeti tájak frissítő menedéket nyújtanak, a korai érkezés pedig csendes élményt biztosít.",
+            "ro": "Începeți aventura la Resnica, unde peisajele naturale neatinse oferă o evadare revigorantă, iar sosirea devreme asigură o experiență deosebit de liniștită.",
+            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Velika Obalica",
+            "hu": "Velika Obalica",
+            "ro": "Velika Obalica",
+            "en": "Velika Obalica"
+          },
+          "coords": [
+            18.449443,
+            42.46255
+          ],
+          "category": "natural",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern der Velika Obalica, einer atemberaubenden natürlichen Küste mit kristallklarem Wasser, die sich hervorragend für ein morgendliches Bad eignet.",
+            "hu": "Pihenjen a Velika Obalica partján, amely lenyűgöző természetes partvonalat kínál kristálytiszta vízzel, és kiváló hely egy gyors reggeli csobbanáshoz.",
+            "ro": "Relaxați-vă pe malurile din Velika Obalica, o coastă naturală uimitoare cu ape cristaline, fiind un loc excelent pentru o scurtă baie de dimineață.",
+            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjedalica",
+            "hu": "Sjedalica",
+            "ro": "Sjedalica",
+            "en": "Sjedalica"
+          },
+          "coords": [
+            18.454542,
+            42.459936
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
+            "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
+            "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strašnjik",
+            "hu": "Strašnjik",
+            "ro": "Strašnjik",
+            "en": "Strašnjik"
+          },
+          "coords": [
+            18.459099,
+            42.454991
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die malerischen Naturpfade von Strašnjik, genießen Sie das üppige Grün und nutzen Sie GPS, da die Wege manchmal verwirrend sein können.",
+            "hu": "Sétáljon végig Strašnjik festői ösvényein, élvezze a buja növényzetet, és használjon GPS-t, mivel az útvonalak néha egy kicsit zavaróak lehetnek.",
+            "ro": "Plimbați-vă pe cărările naturale pitorești din Strašnjik, bucurându-vă de verdeață, și folosiți un GPS, deoarece traseele pot fi uneori confuze.",
+            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupičina glava",
+            "hu": "Kupičina glava",
+            "ro": "Kupičina glava",
+            "en": "Kupičina glava"
+          },
+          "coords": [
+            18.44671,
+            42.453266
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
+            "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rat",
+            "hu": "Rat",
+            "ro": "Rat",
+            "en": "Rat"
+          },
+          "coords": [
+            18.44119,
+            42.448059
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
+            "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
+            "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste der Peterskirche",
+            "hu": "Szent Péter-templom, romok",
+            "ro": "Biserica Sf. Petru, ruine",
+            "en": "Church of St. Peter, remains"
+          },
+          "coords": [
+            18.435209,
+            42.445659
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer erfrischenden Radtour in den ruhigen Randgebieten, während Sie die Küstenpfade und Naturschutzgebiete entlang der bezaubernden Küste von Molunat erkunden.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und kristallklaren Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie die alten Ruinen am Wasserlauf erkunden und zusehen, wie der Sonnenuntergang den Himmel über den steinernen Überresten färbt.",
+        "hu": "A reggel egy frissítő kerékpározással kezdődik a csendes külvárosokban, miközben felfedezi Molunat bájos partvonalának parti ösvényeit és varázslatos természetvédelmi területeit.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az ősi romokat a vízparton, és nézi, ahogy a naplemente csodás színekkel festi meg az eget a történelmi kőmaradványok felett.",
+        "ro": "Dimineața începe cu o plimbare răcoroasă cu bicicleta în zonele liniștite, explorând potecile de coastă și rezervațiile naturale de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce descoperiți ruinele antice din apropierea apei, privind cum apusul pictează cerul deasupra vestigiilor istorice din piatră.",
+        "en": "Morning begins with a refreshing ride in the quiet outskirts as you explore the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Resnica",
+            "hu": "Resnica",
+            "ro": "Resnica",
+            "en": "Resnica"
+          },
+          "coords": [
+            18.423534,
+            42.470539
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer in Resnica, wo die unberührten Naturlandschaften eine erfrischende Flucht bieten, und wenn Sie früh ankommen, ist es besonders ruhig.",
+            "hu": "Kezdje kalandját Resnicában, ahol a nyers, érintetlen természeti tájak frissítő menedéket nyújtanak, a korai érkezés pedig csendes élményt biztosít.",
+            "ro": "Începeți aventura la Resnica, unde peisajele naturale neatinse oferă o evadare revigorantă, iar sosirea devreme asigură o experiență deosebit de liniștită.",
+            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjedalica",
+            "hu": "Sjedalica",
+            "ro": "Sjedalica",
+            "en": "Sjedalica"
+          },
+          "coords": [
+            18.454542,
+            42.459936
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
+            "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
+            "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strašnjik",
+            "hu": "Strašnjik",
+            "ro": "Strašnjik",
+            "en": "Strašnjik"
+          },
+          "coords": [
+            18.459099,
+            42.454991
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die malerischen Naturpfade von Strašnjik, genießen Sie das üppige Grün und nutzen Sie GPS, da die Wege manchmal verwirrend sein können.",
+            "hu": "Sétáljon végig Strašnjik festői ösvényein, élvezze a buja növényzetet, és használjon GPS-t, mivel az útvonalak néha egy kicsit zavaróak lehetnek.",
+            "ro": "Plimbați-vă pe cărările naturale pitorești din Strašnjik, bucurându-vă de verdeață, și folosiți un GPS, deoarece traseele pot fi uneori confuze.",
+            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing."
+          }
+        },
+        {
+          "name": {
+            "de": "Veraja",
+            "hu": "Veraja",
+            "ro": "Veraja",
+            "en": "Veraja"
+          },
+          "coords": [
+            18.464703,
+            42.452931
+          ],
+          "category": "natural",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die abgeschiedene Schönheit von Veraja, einem versteckten Naturjuwel, das sich perfekt zur Kontemplation eignet, wobei Insektenschutzmittel empfohlen wird.",
+            "hu": "Tapasztalja meg Veraja eldugott szépségét, egy rejtett természeti gyöngyszemet, amely tökéletes az elmélkedésre, ahol nyáron a rovarriasztó erősen ajánlott.",
+            "ro": "Experimentați frumusețea retrasă din Veraja, o bijuterie naturală ascunsă perfectă pentru contemplare, unde repelentul de insecte este foarte recomandat.",
+            "en": "Experience the secluded beauty of Veraja, a hidden natural gem perfect for contemplation, where insect repellent is highly recommended during summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupičina glava",
+            "hu": "Kupičina glava",
+            "ro": "Kupičina glava",
+            "en": "Kupičina glava"
+          },
+          "coords": [
+            18.44671,
+            42.453266
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
+            "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rat",
+            "hu": "Rat",
+            "ro": "Rat",
+            "en": "Rat"
+          },
+          "coords": [
+            18.44119,
+            42.448059
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
+            "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
+            "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste der Peterskirche",
+            "hu": "Szent Péter-templom, romok",
+            "ro": "Biserica Sf. Petru, ruine",
+            "en": "Church of St. Peter, remains"
+          },
+          "coords": [
+            18.435209,
+            42.445659
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den beruhigenden Klängen der Adria, während Sie bequem zu den Küstenpfaden und Naturschutzgebieten entlang der bezaubernden Küste von Molunat fahren.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und kristallklaren Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie die alten Ruinen am Wasserlauf erkunden und zusehen, wie der Sonnenuntergang den Himmel über den steinernen Überresten färbt.",
+        "hu": "A reggel az Adriai-tenger nyugtató hangjaival kezdődik, miközben kényelmesen elautózik Molunat bájos partvonalának parti ösvényeihez és varázslatos természetvédelmi területeihez.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az ősi romokat a vízparton, és nézi, ahogy a naplemente csodás színekkel festi meg az eget a történelmi kőmaradványok felett.",
+        "ro": "Dimineața începe cu sunetele liniștitoare ale Mării Adriatice, conducând confortabil spre potecile de coastă și rezervațiile naturale de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce descoperiți ruinele antice din apropierea apei, privind cum apusul pictează cerul deasupra vestigiilor istorice din piatră.",
+        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you comfortably drive to the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants."
+      }
+    }
+  }
+}

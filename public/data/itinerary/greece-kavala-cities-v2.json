@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-kavala-cities-v2",
+  "anchor": {
+    "name": "Kavala",
+    "coords": [
+      24.40687,
+      40.93959
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Kavala",
+            "hu": "Kavala Városháza",
+            "ro": "Primăria Kavala",
+            "en": "City Hall of Kavala"
+          },
+          "coords": [
+            24.407999,
+            40.937894
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das imposante Rathaus von Kavala im neo-gotischen Stil spiegelt die reiche Tabakvergangenheit wider; kommen Sie früh, um die Fassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Kavala lenyűgöző, neogótikus stílusú városházája a gazdag dohánykereskedelmi múltat idézi; érkezzen korán, hogy zavartalanul fotózhassa a gyönyörű homlokzatot.",
+            "ro": "Impozanta primărie în stil neogotic din Kavala reflectă trecutul bogat al comerțului cu tutun; veniți devreme pentru a fotografia fațada deosebită fără mulțimi.",
+            "en": "The imposing neo-gothic City Hall of Kavala reflects the city's wealthy tobacco-trading past; arrive early to photograph the striking facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Tabakspeicher",
+            "hu": "Városi Dohányraktár",
+            "ro": "Depozitul Municipal de Tutun",
+            "en": "Municipal Tobacco Warehouse"
+          },
+          "coords": [
+            24.409316,
+            40.938399
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieses riesige ehemalige Tabaklagaerhaus zeigt die industrielle Bedeutung Kavalas im 20. Jahrhundert; betrachten Sie die architektonischen Details der verzierten Fensterfronten.",
+            "hu": "Ez a hatalmas egykori dohányraktár Kavala 20. századi ipari jelentőségét mutatja be; figyelje meg az épület díszes ablakainak különleges építészeti részleteit.",
+            "ro": "Acest uriaș depozit de tutun arată importanța industrială a orașului Kavala în secolul al XX-lea; observați detaliile arhitecturale superbe ale ferestrelor ornamentate.",
+            "en": "This massive former municipal tobacco warehouse showcases Kavala's 20th-century industrial importance; note the architectural details of the ornate window fronts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Aghios Nikolaos",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            24.413365,
+            40.936102
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Die ehemalige Ibrahim-Pascha-Moschee wurde in eine orthodoxe Kirche umgewandelt und vereint zwei Kulturen; achten Sie auf die Mosaikwand, die die Ankunft des Apostels Paulus zeigt.",
+            "hu": "A korábbi Ibrahim Pasa mecsetből kialakított ortodox templom két kultúrát ötvöz; keresse meg a Pál apostol érkezését ábrázoló lenyűgöző külső mozaikfalat.",
+            "ro": "Această biserică ortodoxă, fostă moschee Ibrahim Pașa, îmbină două culturi; admirați peretele cu mozaic din exterior care ilustrează memorabila sosire a Apostolului Pavel.",
+            "en": "Formerly the Ibrahim Pasha Mosque, this orthodox church beautifully merges two cultures; look for the striking mosaic wall outside depicting the Apostle Paul's arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Kavala",
+            "hu": "Kavala vízvezeték",
+            "ro": "Apeductul din Kavala",
+            "en": "Aqueduct of Kavala"
+          },
+          "coords": [
+            24.415705,
+            40.93707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das monumentale Kamares-Aquädukt wurde von Süleyman dem Prächtigen erbaut und überspannt die Stadt; der beste Fotospot befindet sich am kleinen Platz gegenüber der Altstadt.",
+            "hu": "A Szulejmán szultán által építtetett monumentális Kamares vízvezeték fenségesen ível át a városon; a legjobb fotópont az óvárossal szemközti kis téren található.",
+            "ro": "Apeductul monumental Kamares, construit de Soliman Magnificul, domină orașul în mod maiestuos; cel mai bun loc pentru fotografii este în piața mică vizavi de orașul vechi.",
+            "en": "The monumental Kamares Aqueduct built by Suleiman the Magnificent majestically spans the city; find the best photo spot at the small square facing the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Kavala",
+            "hu": "Kavala erőd",
+            "ro": "Fortăreața din Kavala",
+            "en": "Fortress of Kavala"
+          },
+          "coords": [
+            24.415356,
+            40.934368
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die osmanische Festung auf der Halbinsel Panagia bietet einen atemberaubenden Blick auf die Ägäis; tragen Sie rutschfeste Schuhe für den steilen und unebenen Aufstieg zum Turm.",
+            "hu": "A Panagia-félszigeten álló ősi oszmán erőd lélegzetelállító kilátást nyújt az Égei-tengerre; viseljen csúszásmentes cipőt a központi toronyhoz vezető meredek feljáró miatt.",
+            "ro": "Fortăreața otomană de pe peninsula Panagia oferă vederi uimitoare la Marea Egee; purtați neapărat încălțăminte antiderapantă pentru urcarea abruptă și pietruită spre turn.",
+            "en": "The Ottoman fortress perched on the Panagia peninsula offers sweeping views of the Aegean Sea; wear non-slip shoes for the steep, uneven cobblestone climb up to the main tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Halil-Bey-Moschee",
+            "hu": "Halil bég mecset",
+            "ro": "Moscheea Halil Bey",
+            "en": "Halil Bey Mosque"
+          },
+          "coords": [
+            24.415175,
+            40.932565
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Diese historische Moschee, einst ein byzantinischer Kirchenstandort, dient heute als Kulturraum; durch den Glasboden können Sie die faszinierenden Ausgrabungen der alten Fundamente sehen.",
+            "hu": "Ez a történelmi mecset, amely egykor bizánci templom volt, ma izgalmas kulturális térként szolgál; a modern üvegpadlón keresztül megtekintheti az ősi alapok lenyűgöző ásatásait.",
+            "ro": "Această moschee istorică, construită pe locul unei biserici bizantine, găzduiește azi expoziții culturale; prin podeaua de sticlă puteți vedea excavațiile fascinante ale fundațiilor vechi.",
+            "en": "Built on a former Byzantine church site, this historic mosque now serves as a vibrant cultural space; peer through the glass floor to see the fascinating excavations of ancient foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Mohamed Ali",
+            "hu": "Muhammad Ali háza",
+            "ro": "Casa lui Mohamed Ali",
+            "en": "The house of Mohamed Ali"
+          },
+          "coords": [
+            24.414842,
+            40.931361
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Das makellos erhaltene osmanische Herrenhaus war der Geburtsort von Muhammad Ali von Ägypten; entspannen Sie sich nach der Tour bei einem Getränk im wunderschönen, ruhigen Innenhofgarten.",
+            "hu": "A kifogástalanul megőrzött oszmán kúria volt az egyiptomi Muhammad Ali szülőhelye; az épület bejárása után lazítson egy kávéval a gyönyörű, hihetetlenül csendes belső udvar kertjében.",
+            "ro": "Acest conac otoman conservat impecabil a fost locul de naștere al liderului Muhammad Ali al Egiptului; relaxați-vă în grădina liniștită a curții interioare după terminarea turului istoric.",
+            "en": "This impeccably preserved Ottoman mansion was the famed birthplace of Muhammad Ali of Egypt; take a moment to relax with a drink in the beautiful, tranquil courtyard garden after your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im modernen Zentrum von Kavala und entdecken Sie das neogotische Rathaus sowie die alten Tabakspeicher. Mittags bewundern Sie den kulturellen Mix an der Kirche Aghios Nikolaos und das massive Kamares-Aquädukt. Am Nachmittag schlendern Sie durch die gepflasterten Gassen der Halbinsel Panagia zur osmanischen Festung. Beenden Sie den Tag entspannt am Mohamed-Ali-Haus.",
+        "hu": "Kezdje a reggelt Kavala modern központjában, fedezze fel a neogótikus Városházát és a történelmi dohányraktárakat. Délben csodálja meg a kulturális sokszínűséget az Aghios Nikolaos templomnál és a lenyűgöző Kamares vízvezetéknél. Délután sétáljon a Panagia-félsziget macskaköves utcáin, és fedezze fel az oszmán erődöt. A napot a történelmi Muhammad Ali ház nyugodt kertjében zárhatja.",
+        "ro": "Începeți dimineața în centrul modern al Kavalei, descoperind Primăria neogotică și depozitele istorice de tutun. La prânz, admirați mixul cultural de la biserica Aghios Nikolaos și masivul Apeduct Kamares. După-amiaza, plimbați-vă pe străzile pietruite ale peninsulei Panagia pentru a explora fortăreața otomană. Încheiați ziua relaxându-vă în grădina casei lui Muhammad Ali.",
+        "en": "Start your morning exploring the modern center of Kavala, discovering the impressive neo-gothic City Hall and the historic tobacco warehouses. By midday, witness the cultural blend at Aghios Nikolaos and marvel at the massive Kamares Aqueduct. Spend your afternoon wandering the cobblestone streets of the Panagia peninsula, exploring the Ottoman fortress. End your day at the Mohamed Ali House."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:48",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Rapsane",
+            "hu": "Rapsane strand",
+            "ro": "Plaja Rapsane",
+            "en": "Rapsane Beach"
+          },
+          "coords": [
+            24.396982,
+            40.934684
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Sandstrand Rapsane liegt nah am Stadtzentrum und ist ideal für eine morgendliche Erfrischung; nutzen Sie die kostenlosen Duschen vor Ort, bevor Sie Ihre Radtour weiterführen.",
+            "hu": "A városközponthoz nagyon közeli Rapsane homokos strandja ideális egy reggeli felfrissüléshez; a továbbindulás előtt használja az ingyenesen elérhető tisztálkodási lehetőségeket és zuhanyzókat.",
+            "ro": "Plaja de nisip Rapsane, aflată foarte aproape de centrul orașului, este ideală pentru o baie matinală; folosiți dușurile gratuite înainte de a pedala mai departe în aventura dumneavoastră.",
+            "en": "The sandy Rapsane beach is very close to the city center and ideal for a quick morning dip; make use of the free public showers on site before continuing your scenic cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Konservatorium",
+            "hu": "Városi Konzervatórium",
+            "ro": "Conservatorul Municipal",
+            "en": "Municipal Conservatory"
+          },
+          "coords": [
+            24.403068,
+            40.936512
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das städtische Konservatorium ist ein beeindruckendes neoklassizistisches Gebäude im Stadtzentrum; stellen Sie Ihr Fahrrad kurz ab, um die Architektur der Säulenhalle in Ruhe zu bewundern.",
+            "hu": "A városi konzervatórium egy lenyűgöző neoklasszicista épület a nyüzsgő központban; tegye le a kerékpárját egy pillanatra, hogy nyugodtan megcsodálhassa az oszlopos előcsarnok építészetét.",
+            "ro": "Conservatorul municipal este o clădire neoclasică impresionantă în centrul vibrant al orașului; parcați bicicleta pentru a admira în liniște arhitectura grandioasă a porticului cu coloane.",
+            "en": "The municipal conservatory is a striking neoclassical building nestled in the city center; park your bike briefly to admire the impressive architecture of its majestic columned portico."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Propheten Elias",
+            "hu": "Próféta Illés templom",
+            "ro": "Biserica Profetul Ilie",
+            "en": "Church of Prophet Elias"
+          },
+          "coords": [
+            24.40683,
+            40.941919
+          ],
+          "category": "religious",
+          "arrive_at": "10:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Diese höher gelegene orthodoxe Kirche bietet einen ruhigen Rückzugsort und herrliche Ausblicke über Kavala; der kurze, aber recht steile Anstieg mit dem Rad lohnt sich für die Panoramafotos.",
+            "hu": "Ez a magasabban fekvő ortodox templom békés menedéket és csodás kilátást nyújt Kavala városára; a kerékpárral megtett rövid, de meredek emelkedő mindenképpen megéri a pazar panorámafotókat.",
+            "ro": "Această biserică ortodoxă situată la înălțime oferă un refugiu liniștit și vederi superbe asupra Kavalei; urcușul scurt, dar abrupt, merită tot efortul depus pentru fotografiile panoramice.",
+            "en": "Elevated above the surrounding area, this orthodox church offers a peaceful retreat and gorgeous views over Kavala; the short but steep climb is well worth it for the sweeping panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Tabakspeicher",
+            "hu": "Városi Dohányraktár",
+            "ro": "Depozitul Municipal de Tutun",
+            "en": "Municipal Tobacco Warehouse"
+          },
+          "coords": [
+            24.409316,
+            40.938399
+          ],
+          "category": "landmark",
+          "arrive_at": "11:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie an diesem massiven ehemaligen Lagerhaus vorbei, das an das goldene Tabakzeitalter der Stadt erinnert; die große Fassade ist ein großartiger Hintergrund für ein schnelles Foto.",
+            "hu": "Tekerjen el e hatalmas egykori raktárépület mellett, amely a város arany dohánykorszakára emlékeztet; a díszes épület robusztus homlokzata kiváló hátteret nyújt egy gyors fotóhoz.",
+            "ro": "Pedalați pe lângă acest depozit masiv care amintește de epoca de aur a tutunului din oraș; fațada mare și impunătoare este un fundal excelent pentru o fotografie rapidă pe bicicletă.",
+            "en": "Cycle past this massive former warehouse that serves as a reminder of the city's golden tobacco era; the grand facade makes for a great backdrop for a quick photo along your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Kavala",
+            "hu": "Kavala vízvezeték",
+            "ro": "Apeductul din Kavala",
+            "en": "Aqueduct of Kavala"
+          },
+          "coords": [
+            24.415705,
+            40.93707
+          ],
+          "category": "landmark",
+          "arrive_at": "12:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das imposante Aquädukt dominiert das Straßenbild; Sie können leicht direkt darunter hindurchradeln und dabei die beeindruckende osmanische Ingenieurskunst aus der Nähe bestaunen.",
+            "hu": "A lenyűgöző vízvezeték meghatározza az utcaképet; könnyedén áttekerhet egyenesen alatta, miközben testközelből is megcsodálhatja az oszmán mérnöki munka lenyűgöző méreteit.",
+            "ro": "Impozantul apeduct domină peisajul stradal; puteți pedala cu ușurință direct pe sub el, minunându-vă de aproape de măiestria și scara uimitoare a ingineriei otomane din secolul al XVI-lea.",
+            "en": "The imposing aqueduct completely dominates the streetscape; you can easily cycle right underneath it, marveling at the impressive scale of this 16th-century Ottoman engineering up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Kavala",
+            "hu": "Kavala erőd",
+            "ro": "Fortăreața din Kavala",
+            "en": "Fortress of Kavala"
+          },
+          "coords": [
+            24.415356,
+            40.934368
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Endpunkt der Tour liegt hoch auf der Halbinsel; schieben Sie Ihr Fahrrad das letzte steile Stück hinauf und genießen Sie zur Belohnung den endlosen Blick über das tiefblaue Meer.",
+            "hu": "A túra végpontja magasan a félszigeten található; az utolsó meredek szakaszon érdemes tolni a kerékpárt, majd jutalomként élvezze a végtelen kilátást a mélykék Égei-tengerre.",
+            "ro": "Punctul final se află sus pe peninsulă; împingeți bicicleta pe ultima secțiune abruptă pietruită și bucurați-vă ca recompensă de priveliștile nesfârșite asupra mării de un albastru profund.",
+            "en": "The final stop is high up on the peninsula; it's best to push your bike up the final steep cobbled section, rewarding yourself with endless, sweeping views over the deep blue Aegean sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem erfrischenden Stopp am Strand von Rapsane. Mittags fahren Sie ins Stadtzentrum, um das neoklassizistische Konservatorium zu bewundern und den kurzen Anstieg zum Propheten Elias zu meistern. Am Nachmittag radeln Sie an den riesigen Tabakspeichern und dem ikonischen Aquädukt vorbei. Beenden Sie die Tour mit der Fahrt zur majestätischen Festung von Kavala.",
+        "hu": "Kezdje kerékpártúráját egy frissítő megállóval a Rapsane strandon, élvezve a tengeri szellőt. Délben tekerjen be a központba, hogy megcsodálja a neoklasszicista Konzervatóriumot és a Próféta Illés templomot. Délután suhanjon el a hatalmas dohányraktárak és az ikonikus vízvezeték mellett. A túrát a Panagia-félszigetre felkapaszkodva, Kavala fenséges erődjének meghódításával zárhatja.",
+        "ro": "Începeți turul cu bicicleta cu o oprire revigorantă la plaja Rapsane. La prânz, pedalați spre centrul orașului pentru a admira Conservatorul neoclasic și a urca la biserica Profetul Ilie. După-amiaza, treceți pe lângă uriașele depozite de tutun și emblematicul Apeduct. Încheiați cursa urcând pe peninsula Panagia pentru a vizita maiestuoasa fortăreață din Kavala.",
+        "en": "Kick off your cycling tour with a refreshing stop at Rapsane beach, taking in the morning sea breeze. Ride into the city center by midday to admire the neoclassical Conservatory and tackle the short climb to Prophete Elia. In the afternoon, glide past the immense tobacco warehouses and the iconic Aqueduct. Conclude your ride ascending the Panagia peninsula to the majestic Fortress of Kavala."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 9.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Antisara",
+            "hu": "Ókori Antisara",
+            "ro": "Anticul Antisara",
+            "en": "Ancient Antisara"
+          },
+          "coords": [
+            24.389405,
+            40.924102
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Ruinen von Antisara geben einen faszinierenden Einblick in die antike Geschichte der Region; da es nur wenig Schatten gibt, sollten Sie bei Ihrem Spaziergang unbedingt Sonnencreme auftragen.",
+            "hu": "Antisara romjai lenyűgöző bepillantást engednek a régió ókori történelmébe; mivel nagyon kevés az árnyék a területen, ne felejtsen el naptejet és kalapot használni a tikkasztó séta során.",
+            "ro": "Ruinele de la Antisara oferă o privire fascinantă asupra istoriei antice a regiunii; deoarece există foarte puțină umbră aici, asigurați-vă că folosiți cremă de protecție solară din plin.",
+            "en": "The scattered ruins of Ancient Antisara provide a fascinating glimpse into the region's ancient history; as there is very little shade, be sure to apply sunscreen before exploring the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Konservatorium",
+            "hu": "Városi Konzervatórium",
+            "ro": "Conservatorul Municipal",
+            "en": "Municipal Conservatory"
+          },
+          "coords": [
+            24.403068,
+            40.936512
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, um dieses architektonische Juwel zu sehen; Parkplätze in der Nähe können knapp sein, suchen Sie also am besten etwas außerhalb nach einer passenden Parkmöglichkeit.",
+            "hu": "Vezessen be a központba, hogy megnézze ezt az építészeti gyöngyszemet; a közeli parkolóhelyek szűkösek lehetnek, ezért érdemes a környező kisebb utcákban keresni szabad helyet az autónak.",
+            "ro": "Conduceți spre centru pentru a vedea această bijuterie arhitecturală; locurile de parcare din apropiere pot fi limitate, așa că cel mai bine este să căutați o parcare pe străduțele adiacente.",
+            "en": "Drive into the busy center to see this striking architectural gem; parking nearby can be quite scarce, so it's best to look for a designated parking garage just outside the immediate core."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Kavala",
+            "hu": "Kavala vízvezeték",
+            "ro": "Apeductul din Kavala",
+            "en": "Aqueduct of Kavala"
+          },
+          "coords": [
+            24.415705,
+            40.93707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das massive Aquädukt ist ein absolutes Muss; parken Sie am Rand der Altstadt und gehen Sie die letzten Meter zu Fuß, um die besten Winkel für beeindruckende Urlaubsbilder zu finden.",
+            "hu": "A hatalmas vízvezeték kihagyhatatlan látnivaló; parkoljon le az óváros szélén, és tegye meg az utolsó métereket gyalog, hogy megtalálja a legjobb szögeket a lenyűgöző nyaralási képekhez.",
+            "ro": "Apeductul masiv este un obiectiv de neratat; parcați la marginea orașului vechi și mergeți pe jos ultimii metri pentru a găsi cele mai bune unghiuri pentru fotografiile de vacanță.",
+            "en": "The massive aqueduct is an absolute must-see landmark; park safely at the edge of the old town and walk the last few meters to find the very best angles for your impressive holiday photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Mohamed Ali",
+            "hu": "Muhammad Ali háza",
+            "ro": "Casa lui Mohamed Ali",
+            "en": "The house of Mohamed Ali"
+          },
+          "coords": [
+            24.414842,
+            40.931361
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Da die Straßen auf der Halbinsel sehr eng sind, lassen Sie das Auto besser am Aquädukt stehen; das prächtige Herrenhaus bietet faszinierende Einblicke in die späte osmanische Lebensweise.",
+            "hu": "Mivel a félsziget macskaköves utcái nagyon szűkek, érdemes az autót a vízvezeték közelében hagyni; a pazar kúria lenyűgöző bepillantást nyújt a késő oszmán korszak mindennapi életmódjába.",
+            "ro": "Deoarece străzile de pe peninsulă sunt foarte înguste, lăsați mașina la apeduct; conacul magnific oferă o perspectivă fascinantă asupra stilului de viață bogat de la sfârșitul epocii otomane.",
+            "en": "Since the cobbled streets on the peninsula are extremely narrow, leave your car near the aqueduct; this magnificent mansion offers a fascinating look into the opulent late Ottoman lifestyle."
+          }
+        },
+        {
+          "name": {
+            "de": "Vranas Resort Beach Bar",
+            "hu": "Vranas Resort Beach Bar",
+            "ro": "Vranas Resort Beach Bar",
+            "en": "Vranas Resort Beach Bar"
+          },
+          "coords": [
+            24.444104,
+            40.94796
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Dieser entspannte Strandclub am Rand der Stadt bietet bequeme Liegen und kristallklares Wasser; buchen Sie am Wochenende im Voraus, da die besten Plätze direkt am Meer schnell vergeben sind.",
+            "hu": "Ez a város szélén található, laza strandklub kényelmes napágyakat és kristálytiszta vizet kínál; nyári hétvégéken foglaljon előre, mert a tengerparthoz közeli legjobb helyek hamar elfogynak.",
+            "ro": "Acest club de plajă relaxant de la marginea orașului oferă șezlonguri confortabile și ape cristaline; rezervați în avans la sfârșit de săptămână, deoarece locurile de la malul mării se ocupă rapid.",
+            "en": "This laid-back beach club on the outskirts of town offers comfortable loungers and crystal-clear water; book ahead on busy summer weekends as the absolute best beachfront spots fill up quickly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens in den Westen zu den antiken Ruinen von Antisara und tauchen Sie in die Vergangenheit ein. Mittags geht es ins Zentrum von Kavala zum großartigen Konservatorium und dem beeindruckenden Kamares-Aquädukt. Verbringen Sie den Nachmittag auf der Halbinsel Panagia beim Haus von Mohamed Ali. Abends fahren Sie nach Osten, um am Vranas Beach Bar bei einem Drink vollends zu entspannen.",
+        "hu": "Reggel induljon nyugatra, hogy felfedezze Antisara ősi romjait, elmerülve a régió múltjában. Délben vezessen be Kavala központjába, hogy megnézze a grandiózus Konzervatóriumot és a Kamares vízvezetéket. A délutánt a Panagia-félszigeten, a lenyűgöző Muhammad Ali ház felfedezésével töltheti. Este vezessen keletre, és lazítson egy ital mellett a tengerparti Vranas Beach Barban.",
+        "ro": "Conduceți spre vest dimineața pentru a explora ruinele antice din Antisara. La prânz, îndreptați-vă spre centrul Kavalei pentru a vedea grandiosul Conservator și impresionantul Apeduct Kamares. Petreceți după-amiaza pe peninsula Panagia, explorând casa magnifică a lui Muhammad Ali. Seara, conduceți spre est pentru a vă relaxa complet la barul de pe plaja exclusivistă Vranas.",
+        "en": "Drive out west early to explore the ancient ruins of Antisara, immersing yourself in the region's distant past. By midday, head to Kavala's center to see the grand Conservatory and the awe-inspiring Kamares Aqueduct. Spend the afternoon parked near the Panagia peninsula, exploring the magnificent House of Mohamed Ali. For the evening, drive east to unwind completely at Vranas Beach Bar."
+      }
+    }
+  }
+}

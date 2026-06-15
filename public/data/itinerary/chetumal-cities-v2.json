@@ -1,0 +1,520 @@
+{
+  "city_id": "chetumal-cities-v2",
+  "anchor": {
+    "name": "Chetumal",
+    "coords": [
+      -88.305,
+      18.5035
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la Patria",
+            "hu": "Monumento a la Patria",
+            "ro": "Monumento a la Patria",
+            "en": "Monumento a la Patria"
+          },
+          "coords": [
+            -88.309944,
+            18.498674
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das das Erbe der Nation ehrt, und bringen Sie eine Kamera für die beeindruckenden Details vor dem Himmel mit.",
+            "hu": "Csodálja meg a nemzet örökségét tisztelő történelmi emlékművet, és feltétlenül hozzon fényképezőgépet az égbolt előtt kirajzolódó részletek miatt.",
+            "ro": "Admirați acest monument istoric impresionant care onorează moștenirea națiunii și aduceți o cameră pentru detaliile arhitecturale uimitoare.",
+            "en": "Admire this striking historical monument honoring the nation's heritage, and bring a camera for the impressive architectural details against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Poet of Chetumal - tickets",
+            "hu": "Poet of Chetumal - tickets",
+            "ro": "Poet of Chetumal - tickets",
+            "en": "Poet of Chetumal - tickets"
+          },
+          "coords": [
+            -88.299345,
+            18.490369
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses künstlerische Wahrzeichen der lokalen Poesie und sichern Sie sich frühzeitig Ihre Tickets für kommende Abendvorstellungen.",
+            "hu": "Álljon meg ennél a helyi költészetnek szentelt művészeti nevezetességnél, és érdemes korán beszerezni a jegyeket a közelgő esti előadásokra.",
+            "ro": "Opriți-vă la acest reper artistic dedicat poeziei locale, unde ar trebui să vă asigurați biletele din timp pentru orice spectacol de seară viitor.",
+            "en": "Stop by this artistic landmark dedicated to local poetry, where you should quickly secure your tickets early for any upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Justicia",
+            "hu": "Justicia",
+            "ro": "Justicia",
+            "en": "Justicia"
+          },
+          "coords": [
+            -88.299867,
+            18.493706
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die monumentale Darstellung der Gerechtigkeit im historischen Viertel und achten Sie auf die aufwendigen Flachreliefs an der Basis.",
+            "hu": "Fedezze fel az Igazságosság monumentális ábrázolását a történelmi negyedben, és figyelje meg az alapzatot díszítő bonyolult domborműveket.",
+            "ro": "Descoperiți reprezentarea monumentală a Justiției din cartierul istoric, acordând atenție basoreliefurilor complicate care decorează baza sa.",
+            "en": "Discover the monumental representation of Justice that anchors the historic district, keeping an eye on the intricate bas-reliefs decorating its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachi Cocom",
+            "hu": "Nachi Cocom",
+            "ro": "Nachi Cocom",
+            "en": "Nachi Cocom"
+          },
+          "coords": [
+            -88.298862,
+            18.49306
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese dem Maya-Herrscher Nachi Cocom gewidmete Stätte, um die indigene Geschichte zu verstehen, und lesen Sie die Tafeln im Schatten.",
+            "hu": "Fedezze fel a maja uralkodónak, Nachi Cocomnak szentelt helyet, hogy megértse az őslakosok történelmét, és olvassa el az árnyékos táblákat.",
+            "ro": "Explorați acest sit dedicat conducătorului mayaș Nachi Cocom pentru istoria indigenă și încercați să citiți plăcile informative la umbră.",
+            "en": "Explore this site dedicated to the Mayan ruler Nachi Cocom to understand indigenous history, and try reading the informational plaques in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CHETUMAL Aquí Inicia México",
+            "hu": "Letras CHETUMAL Aquí Inicia México",
+            "ro": "Letras CHETUMAL Aquí Inicia México",
+            "en": "Letras CHETUMAL Aquí Inicia México"
+          },
+          "coords": [
+            -88.29498,
+            18.493061
+          ],
+          "category": "landmark",
+          "arrive_at": "14:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Foto an diesen bunten Buchstaben, die den Beginn Mexikos markieren, am besten während der goldenen Stunde.",
+            "hu": "Készítsen egy emlékezetes fotót ezeknél a Mexikó kezdetét jelző, ikonikus színes betűknél, lehetőleg az aranyórában a legjobb természetes fényért.",
+            "ro": "Faceți o fotografie memorabilă la aceste litere colorate care marchează începutul Mexicului, vizitând ideal la ora de aur pentru lumina naturală.",
+            "en": "Snap a memorable photo at these iconic colorful letters marking the start of Mexico, ideally visiting during golden hour for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CHETUMAL",
+            "hu": "Letras CHETUMAL",
+            "ro": "Letras CHETUMAL",
+            "en": "Letras CHETUMAL"
+          },
+          "coords": [
+            -88.291292,
+            18.493548
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Posieren Sie am klassischen Chetumal-Schild an der lebhaften Uferpromenade und holen Sie sich einen lokalen Snack, um die Meeresbrise zu genießen.",
+            "hu": "Pózoljon a klasszikus Chetumal feliratnál a nyüzsgő tengerparti sétányon, és vegyen egy helyi harapnivalót, hogy élvezze a tengeri szellőt.",
+            "ro": "Pozați lângă semnul clasic Chetumal de-a lungul promenadei vibrante și luați o gustare locală rapidă pentru a vă bucura de briza mării.",
+            "en": "Pose by the classic Chetumal sign along the vibrant waterfront promenade, and grab a quick local snack from nearby vendors to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Constituyentes",
+            "hu": "Teatro Constituyentes",
+            "ro": "Teatro Constituyentes",
+            "en": "Teatro Constituyentes"
+          },
+          "coords": [
+            -88.290642,
+            18.496499
+          ],
+          "category": "cultural",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses bedeutenden Kulturortes und prüfen Sie den Spielplan im Voraus für eine regionale Live-Show.",
+            "hu": "Csodálja meg e kiemelkedő kulturális helyszín modernista építészetét, és ellenőrizze előre a műsort egy esetleges regionális élő show miatt.",
+            "ro": "Admirați arhitectura modernistă izbitoare a acestei locații culturale, verificând programul în avans pentru a prinde un spectacol regional.",
+            "en": "Admire the striking modernist architecture of this prominent cultural venue, checking the schedule in advance to possibly catch a live regional show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am imposanten Monumento a la Patria und gehen Sie dann zur Bucht. Mittags entdecken Sie die kulturelle Bedeutung der Denkmäler Justicia und Nachi Cocom. Der Nachmittag lädt zu einem Spaziergang am Wasser zu den bunten Chetumal-Buchstaben ein. Beenden Sie den Tag am markanten Teatro Constituyentes und genießen Sie die abendliche Atmosphäre.",
+        "hu": "Kezdje a reggelt az impozáns Monumento a la Patria felfedezésével, majd induljon az öböl felé. Délben fedezze fel a Justicia és a Nachi Cocom emlékművek kulturális jelentőségét. A délután egy vízparti sétára hív a színes Chetumal betűkhöz. Zárja a napot a lenyűgöző Teatro Constituyentesnél, és szívja magába a város művészi esti hangulatát.",
+        "ro": "Începeți dimineața explorând impunătorul Monumento a la Patria înainte de a vă îndrepta spre golf. La amiază, descoperiți semnificația memorialelor Justicia și Nachi Cocom. După-amiaza vă invită să vă plimbați pe faleză până la literele colorate Chetumal. Încheiați ziua la impresionantul Teatro Constituyentes, bucurându-vă de atmosfera artistică.",
+        "en": "Start your morning exploring the imposing Monumento a la Patria before moving towards the bay. Midday, discover the cultural significance of the Justicia and Nachi Cocom memorials. The afternoon invites you to stroll along the waterfront to the colorful Chetumal letters. Wrap up your day at the striking Teatro Constituyentes, soaking in the city's artistic evening vibe."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L a familia",
+            "hu": "L a familia",
+            "ro": "L a familia",
+            "en": "L a familia"
+          },
+          "coords": [
+            -88.322347,
+            18.521191
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese berührende Skulptur, die familiäre Bindungen symbolisiert, perfekt gelegen für eine ruhige Besinnung am kühlen Morgen.",
+            "hu": "Tekintse meg az egységet és a családi kötelékeket szimbolizáló szobrot, amely tökéletes egy csendes reggeli elmélkedéshez még a nagy hőség előtt.",
+            "ro": "Vedeți această sculptură emoționantă care simbolizează legăturile familiale, perfect situată pentru o reflecție matinală liniștită înainte de căldură.",
+            "en": "View this touching historical sculpture symbolizing unity and family bonds, perfectly situated for a quiet morning reflection before the heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro al aire libre yoo´k ol kab",
+            "hu": "Teatro al aire libre yoo´k ol kab",
+            "ro": "Teatro al aire libre yoo´k ol kab",
+            "en": "Teatro al aire libre yoo´k ol kab"
+          },
+          "coords": [
+            -88.303829,
+            18.521548
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Freilichtmuseum, das Kunst mit Natur verbindet, und bringen Sie einen Hut mit, um das Gelände bequem zu erkunden.",
+            "hu": "Látogasson el ebbe a művészetet és természetet ötvöző egyedi szabadtéri múzeumba, és hozzon magával kalapot a nyitott területek felfedezéséhez.",
+            "ro": "Vizitați acest muzeu în aer liber unic care integrează arta cu natura, aducând o pălărie pentru a fi confortabil în timp ce explorați zona.",
+            "en": "Visit this unique open-air museum and theater space integrating art with nature, bringing a hat to stay comfortable while exploring the open grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Acuario Mamisha",
+            "hu": "Acuario Mamisha",
+            "ro": "Acuario Mamisha",
+            "en": "Acuario Mamisha"
+          },
+          "coords": [
+            -88.309149,
+            18.516576
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Meeresleben in diesem kleinen, aber feinen Aquarium, wobei ein Besuch während der Fütterungszeiten am spannendsten ist.",
+            "hu": "Fedezze fel a helyi tengeri élőlényeket ebben az apró, de vonzó akváriumban, és a látogatást érdemes az etetési időpontokhoz igazítani a legjobb élményért.",
+            "ro": "Descoperiți viața marină locală la acest acvariu recreativ captivant și planificați-vă vizita în timpul sesiunilor de hrănire pentru a fi și mai interactiv.",
+            "en": "Discover local marine life at this small but engaging recreational aquarium, and timing your visit for the feeding sessions offers the most excitement."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Patria",
+            "hu": "Monumento a la Patria",
+            "ro": "Monumento a la Patria",
+            "en": "Monumento a la Patria"
+          },
+          "coords": [
+            -88.309944,
+            18.498674
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das das Erbe der Nation ehrt, und bringen Sie eine Kamera für die beeindruckenden Details vor dem Himmel mit.",
+            "hu": "Csodálja meg a nemzet örökségét tisztelő történelmi emlékművet, és feltétlenül hozzon fényképezőgépet az égbolt előtt kirajzolódó részletek miatt.",
+            "ro": "Admirați acest monument istoric impresionant care onorează moștenirea națiunii și aduceți o cameră pentru detaliile arhitecturale uimitoare.",
+            "en": "Admire this striking historical monument honoring the nation's heritage, and bring a camera for the impressive architectural details against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Poet of Chetumal - tickets",
+            "hu": "Poet of Chetumal - tickets",
+            "ro": "Poet of Chetumal - tickets",
+            "en": "Poet of Chetumal - tickets"
+          },
+          "coords": [
+            -88.299345,
+            18.490369
+          ],
+          "category": "landmark",
+          "arrive_at": "15:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses künstlerische Wahrzeichen der lokalen Poesie und sichern Sie sich frühzeitig Ihre Tickets für kommende Abendvorstellungen.",
+            "hu": "Álljon meg ennél a helyi költészetnek szentelt művészeti nevezetességnél, és érdemes korán beszerezni a jegyeket a közelgő esti előadásokra.",
+            "ro": "Opriți-vă la acest reper artistic dedicat poeziei locale, unde ar trebui să vă asigurați biletele din timp pentru orice spectacol de seară viitor.",
+            "en": "Stop by this artistic landmark dedicated to local poetry, where you should quickly secure your tickets early for any upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CHETUMAL Aquí Inicia México",
+            "hu": "Letras CHETUMAL Aquí Inicia México",
+            "ro": "Letras CHETUMAL Aquí Inicia México",
+            "en": "Letras CHETUMAL Aquí Inicia México"
+          },
+          "coords": [
+            -88.29498,
+            18.493061
+          ],
+          "category": "landmark",
+          "arrive_at": "15:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Foto an diesen bunten Buchstaben, die den Beginn Mexikos markieren, am besten während der goldenen Stunde.",
+            "hu": "Készítsen egy emlékezetes fotót ezeknél a Mexikó kezdetét jelző, ikonikus színes betűknél, lehetőleg az aranyórában a legjobb természetes fényért.",
+            "ro": "Faceți o fotografie memorabilă la aceste litere colorate care marchează începutul Mexicului, vizitând ideal la ora de aur pentru lumina naturală.",
+            "en": "Snap a memorable photo at these iconic colorful letters marking the start of Mexico, ideally visiting during golden hour for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie für einen frischen Start zur Skulptur 'La familia' und tauchen Sie dann in die Freiluftausstellungen von yoo´k ol kab ein. Mittags entdecken Sie das Meeresleben im Acuario Mamisha. Fahren Sie nachmittags nach Süden, um das Monumento a la Patria zu bewundern. Genießen Sie eine Abendfahrt vorbei an Wahrzeichen bis zu den ikonischen Chetumal-Buchstaben.",
+        "hu": "Kerékpározzon el a megható „La familia” szoborhoz a friss kezdésért, majd merüljön el a yoo´k ol kab szabadtéri kiállításaiban. Délben fedezze fel az Acuario Mamisha tengeri élővilágát. Délután guruljon dél felé a Monumento a la Patria megcsodálásához. Élvezze az esti utat a helyi költészeti nevezetességek mellett az ikonikus Chetumal határbetűkig.",
+        "ro": "Pedalați până la sculptura 'La familia' pentru un început proaspăt, apoi explorați expozițiile de la yoo´k ol kab. La amiază, descoperiți viața marină la Acuario Mamisha. Mergeți spre sud după-amiaza pentru a admira Monumento a la Patria. Bucurați-vă de o plimbare de seară pe lângă reperele locale de poezie până la literele iconice Chetumal de la mare.",
+        "en": "Cycle your way to the moving 'La familia' sculpture for a fresh start, then immerse yourself in the open-air exhibits at yoo´k ol kab. For midday, delve into marine life at Acuario Mamisha. Keep cruising south in the afternoon to admire the towering Monumento a la Patria. Enjoy an evening ride past the local poetry landmarks to the iconic Chetumal boundary letters by the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dos Mulas",
+            "hu": "Dos Mulas",
+            "ro": "Dos Mulas",
+            "en": "Dos Mulas"
+          },
+          "coords": [
+            -88.2779,
+            18.510269
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strand mit ruhigem Wasser und mieten Sie frühzeitig eine Palapa, um die schöne Aussicht auf die Bucht zu genießen.",
+            "hu": "Pihenjen ezen a nyugodt vizeiről ismert népszerű rekreációs strandon, és béreljen korán egy árnyékos palapát, hogy kényelmesen élvezhesse az öblöt.",
+            "ro": "Relaxați-vă pe această plajă populară cunoscută pentru apele sale calme și închiriați o palapa umbrită devreme pentru a vă bucura de vedere la golf.",
+            "en": "Relax at this popular recreational beach area known for its calm waters, and rent a shaded palapa early to comfortably enjoy the beautiful bay views."
+          }
+        },
+        {
+          "name": {
+            "de": "TEATRO",
+            "hu": "TEATRO",
+            "ro": "TEATRO",
+            "en": "TEATRO"
+          },
+          "coords": [
+            -88.271156,
+            18.523028
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Puls von Chetumal an diesem Haupttheater und nehmen Sie sich Zeit für die Fassade, auch ohne eine Aufführung zu besuchen.",
+            "hu": "Tapasztalja meg Chetumal kulturális lüktetését ebben a színházban, és szánjon időt a homlokzat megcsodálására akkor is, ha nem néz meg egy előadást.",
+            "ro": "Experimentați pulsul cultural din Chetumal la acest teatru principal, luându-vă timp pentru a aprecia fațada chiar dacă nu puteți vedea o piesă.",
+            "en": "Experience the cultural pulse of Chetumal at this primary theater, taking time to appreciate its facade even if you cannot attend a performance inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leona Vicario",
+            "hu": "Leona Vicario",
+            "ro": "Leona Vicario",
+            "en": "Leona Vicario"
+          },
+          "coords": [
+            -88.288855,
+            18.518604
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Huldigen Sie der Heldin der mexikanischen Unabhängigkeit an diesem Denkmal, ideal zu kombinieren mit einem gemütlichen Spaziergang im nahen Park.",
+            "hu": "Tisztelegjen a mexikói függetlenség hősnője előtt ennél a történelmi emlékműnél, ideális esetben egy séta keretében a közeli parkban.",
+            "ro": "Aduceți un omagiu eroinei independenței mexicane la acest monument istoric, combinându-l ideal cu o plimbare relaxantă prin parcul din apropiere.",
+            "en": "Pay homage to the heroine of Mexican Independence at this historical monument, ideally combining it with a leisurely stroll through the nearby park."
+          }
+        },
+        {
+          "name": {
+            "de": "L a familia",
+            "hu": "L a familia",
+            "ro": "L a familia",
+            "en": "L a familia"
+          },
+          "coords": [
+            -88.322347,
+            18.521191
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese berührende Skulptur, die familiäre Bindungen symbolisiert, perfekt gelegen für eine ruhige Besinnung am kühlen Morgen.",
+            "hu": "Tekintse meg az egységet és a családi kötelékeket szimbolizáló szobrot, amely tökéletes egy csendes reggeli elmélkedéshez még a nagy hőség előtt.",
+            "ro": "Vedeți această sculptură emoționantă care simbolizează legăturile familiale, perfect situată pentru o reflecție matinală liniștită înainte de căldură.",
+            "en": "View this touching historical sculpture symbolizing unity and family bonds, perfectly situated for a quiet morning reflection before the heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento del queso",
+            "hu": "Monumento del queso",
+            "ro": "Monumento del queso",
+            "en": "Monumento del queso"
+          },
+          "coords": [
+            -88.31542,
+            18.516087
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses eigentümliche, als Käsemonument bekannte Denkmal an, dessen einzigartige moderne Architektur ein lustiges Fotomotiv bietet.",
+            "hu": "Nézze meg ezt a köznyelvben csak Sajt Emlékműként ismert különleges építményt, amelynek egyedi modern építészete remek fotótémát kínál.",
+            "ro": "Vedeți acest monument istoric ciudat cunoscut colocvial sub numele de Monumentul Brânzei, unde arhitectura modernă oferă o fotografie amuzantă.",
+            "en": "Check out this peculiar historical monument colloquially known as the Cheese Monument, where the unique modern architecture makes for a fun photo op."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachi Cocom",
+            "hu": "Nachi Cocom",
+            "ro": "Nachi Cocom",
+            "en": "Nachi Cocom"
+          },
+          "coords": [
+            -88.298862,
+            18.49306
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese dem Maya-Herrscher Nachi Cocom gewidmete Stätte, um die indigene Geschichte zu verstehen, und lesen Sie die Tafeln im Schatten.",
+            "hu": "Fedezze fel a maja uralkodónak, Nachi Cocomnak szentelt helyet, hogy megértse az őslakosok történelmét, és olvassa el az árnyékos táblákat.",
+            "ro": "Explorați acest sit dedicat conducătorului mayaș Nachi Cocom pentru istoria indigenă și încercați să citiți plăcile informative la umbră.",
+            "en": "Explore this site dedicated to the Mayan ruler Nachi Cocom to understand indigenous history, and try reading the informational plaques in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CHETUMAL",
+            "hu": "Letras CHETUMAL",
+            "ro": "Letras CHETUMAL",
+            "en": "Letras CHETUMAL"
+          },
+          "coords": [
+            -88.291292,
+            18.493548
+          ],
+          "category": "landmark",
+          "arrive_at": "17:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Posieren Sie am klassischen Chetumal-Schild an der lebhaften Uferpromenade und holen Sie sich einen lokalen Snack, um die Meeresbrise zu genießen.",
+            "hu": "Pózoljon a klasszikus Chetumal feliratnál a nyüzsgő tengerparti sétányon, és vegyen egy helyi harapnivalót, hogy élvezze a tengeri szellőt.",
+            "ro": "Pozați lângă semnul clasic Chetumal de-a lungul promenadei vibrante și luați o gustare locală rapidă pentru a vă bucura de briza mării.",
+            "en": "Pose by the classic Chetumal sign along the vibrant waterfront promenade, and grab a quick local snack from nearby vendors to enjoy the sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den ruhigen Ufern von Dos Mulas, bevor Sie die Pracht des Haupttheaters bewundern. Mittags folgen Sie den Spuren der Helden bei Leona Vicario und 'La familia'. Verbringen Sie den Nachmittag beim skurrilen Monumento del queso und Nachi Cocom. Abends fahren Sie hinunter zur Bucht für einen perfekten Sonnenuntergang an den berühmten Chetumal-Buchstaben.",
+        "hu": "Autózzon korán a Dos Mulas nyugodt partjaira, mielőtt megcsodálná a főszínház pompáját. Délben kövesse a hősök útját a Leona Vicarionál és a 'La familia'-nál. Délutánját töltse a mókás Monumento del queso és a történelmi Nachi Cocom megcsodálásával. Este guruljon le az öbölhöz egy tökéletes naplementés fotóért a híres Chetumal betűknél.",
+        "ro": "Conduceți devreme la țărmurile liniștite din Dos Mulas înainte de a admira grandoarea teatrului principal. La amiază, urmați calea eroilor la Leona Vicario și 'La familia'. Petreceți după-amiaza la excentricul Monumento del queso și istoricul Nachi Cocom. Pe măsură ce se lasă seara, mergeți la golf pentru un apus perfect la faimoasele litere Chetumal.",
+        "en": "Drive early to the tranquil shores of Dos Mulas before taking in the grandeur of the main theater. Midday, trace the path of Mexican heroes at Leona Vicario and 'La familia'. Spend your afternoon marveling at the quirky Monumento del queso and historic Nachi Cocom. As evening falls, cruise down to the bay for a picture-perfect sunset at the famous Chetumal letters."
+      }
+    }
+  }
+}

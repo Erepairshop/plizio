@@ -1,0 +1,474 @@
+{
+  "city_id": "sweden-viken-cities-v2",
+  "anchor": {
+    "name": "Viken",
+    "coords": [
+      12.57255,
+      56.15148
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 2.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vikens kyrka",
+            "hu": "Vikens kyrka",
+            "ro": "Vikens kyrka",
+            "en": "Vikens kyrka"
+          },
+          "coords": [
+            12.571885,
+            56.146046
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Herzen des Dorfes und werfen Sie einen Blick auf das örtliche Veranstaltungsprogramm.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely a falu központja, és figyelje a hirdetőtáblát a helyi kóruselőadások miatt.",
+            "ro": "Admirați arhitectura acestei biserici istorice din inima satului și verificați panoul de informații pentru posibile concerte ale corului local.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Sophiamöllan",
+            "hu": "Sophiamöllan",
+            "ro": "Sophiamöllan",
+            "en": "Sophiamöllan"
+          },
+          "coords": [
+            12.577636,
+            56.144603
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene Windmühle, die die landwirtschaftliche Vergangenheit zeigt, und besuchen Sie sie bei Wind, um die Flügel zu sehen.",
+            "hu": "Fedezze fel ezt a kiválóan megőrzött szélmalmot a múltból, és jöjjön egy szeles napon, hogy láthassa a hatalmas vitorlákat mozgás közben.",
+            "ro": "Explorați această moară de vânt perfect conservată care ilustrează trecutul agricol și veniți într-o zi vântoasă pentru a vedea palele în mișcare.",
+            "en": "Explore this well-preserved windmill that highlights the agricultural past, and visit on a windy day to see the impressive sails in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul Jönska gården",
+            "hu": "Paul Jönska gården",
+            "ro": "Paul Jönska gården",
+            "en": "Paul Jönska gården"
+          },
+          "coords": [
+            12.574405,
+            56.143764
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem alten Kapitänshof mit seinen historischen Möbeln eine Zeitreise und genießen Sie unbedingt einen ruhigen Moment im Garten.",
+            "hu": "Lépjen vissza az időben ezen a hagyományos kapitányi birtokon, ahol érdemes egy kis időt eltölteni a csodálatosan gondozott, békés kertben is.",
+            "ro": "Călătoriți în timp la această fermă tradițională de căpitani cu mobilier de epocă și asigurați-vă că savurați un moment de liniște în grădina sa.",
+            "en": "Step back in time at this traditional captain's farm with beautiful period furnishings, and be sure to enjoy a quiet moment in the lovely garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Lovisa",
+            "hu": "Lovisa",
+            "ro": "Lovisa",
+            "en": "Lovisa"
+          },
+          "coords": [
+            12.578414,
+            56.142808
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende maritime Geschichte dieses klassischen Holzschiffs und sprechen Sie mit den Freiwilligen für spannende Geschichten.",
+            "hu": "Ismerje meg a tengeri történelmet ezen a klasszikus fahajón, és mindenképpen beszélgessen a helyi önkéntesekkel a legérdekesebb történetekért.",
+            "ro": "Descoperiți istoria maritimă fascinantă prin această navă clasică de lemn și încercați să discutați cu voluntarii locali pentru povești inedite.",
+            "en": "Discover the fascinating maritime history embodied by this classic wooden ship, and try to speak with the local volunteers for untold stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikens Sjöfartsmuseum",
+            "hu": "Vikens Sjöfartsmuseum",
+            "ro": "Vikens Sjöfartsmuseum",
+            "en": "Vikens Sjöfartsmuseum"
+          },
+          "coords": [
+            12.576932,
+            56.142667
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte von Viken ein und fragen Sie den Kurator nach den berühmten lokalen Seeleuten aus dem 19. Jahrhundert.",
+            "hu": "Merüljön el Viken tengerészeti örökségében a részletes hajómodelleken keresztül, és kérdezze a kurátort a 19. századi híres helyi tengerészekről.",
+            "ro": "Explorați moștenirea maritimă a orașului Viken prin modele detaliate de nave și întrebați curatorul despre marinarii locali faimoși din trecut.",
+            "en": "Dive into the rich seafaring legacy of Viken through intricate ship models, and ask the curator about the famous local sailors from the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikens Havsbad",
+            "hu": "Vikens Havsbad",
+            "ro": "Vikens Havsbad",
+            "en": "Vikens Havsbad"
+          },
+          "coords": [
+            12.567776,
+            56.15093
+          ],
+          "category": "recreational",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Sandstrand, der sich perfekt zum Schwimmen eignet, und bringen Sie Ihr eigenes Handtuch für den Strandbesuch mit.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely tökéletes egy frissítő úszáshoz, de hozzon saját törölközőt, mert a bérlési lehetőségek ritkák.",
+            "ro": "Relaxați-vă pe această plajă cu nisip perfectă pentru o baie revigorantă, dar aduceți propriul prosop deoarece facilitățile de închiriere sunt rare.",
+            "en": "Relax on this pristine stretch of sandy beach perfect for a refreshing swim, and bring your own towel as rental facilities are somewhat limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der charmanten Vikens kyrka, gefolgt von einem Spaziergang zur legendären Sophiamöllan. Mittags machen Sie eine Zeitreise auf dem traditionellen Hof Paul Jönska gården und dem historischen Schiff Lovisa. Der Nachmittag ist den Ausstellungen im Schifffahrtsmuseum gewidmet. Abends können Sie am Vikens Havsbad entspannen und dem sanften Rauschen der Ostseewellen lauschen.",
+        "hu": "A reggel a bájos Vikens kyrka templomnál kezdődik, majd egy rövid sétával elérjük az ikonikus Sophiamöllan szélmalmot. Délben időutazáson vehetünk részt a hagyományos Paul Jönska gården és a történelmi Lovisa hajó területén. A délutánt a tengerészeti múzeum kiállításainak szenteljük. Ahogy közeledik az este, pihenjen meg a Vikens Havsbadnál, élvezve a balti hullámok lágy morajlását.",
+        "ro": "Dimineața începe la fermecătoarea Vikens kyrka, urmată de o plimbare spre iconica moară de vânt Sophiamöllan. La prânz, faceți o călătorie în timp la tradiționala Paul Jönska gården și nava istorică Lovisa. După-amiaza este dedicată explorării bogatelor expoziții ale muzeului maritim. Pe măsură ce se lasă seara, relaxați-vă la Vikens Havsbad și bucurați-vă de sunetul blând al valurilor baltice.",
+        "en": "Morning begins at the charming Vikens kyrka, followed by a short stroll to the iconic Sophiamöllan windmill. Midday invites you to step back in time at the traditional Paul Jönska gården and historic Lovisa ship. The afternoon is dedicated to exploring the rich exhibits at the maritime museum. As evening approaches, relax at Vikens Havsbad and enjoy the gentle sound of the Baltic waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Domsten-Vikens naturreservat",
+            "hu": "Domsten-Vikens naturreservat",
+            "ro": "Domsten-Vikens naturreservat",
+            "en": "Domsten-Vikens naturreservat"
+          },
+          "coords": [
+            12.590317,
+            56.132815
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Küstenpfaden dieses Naturschutzgebiets und tragen Sie feste, wasserdichte Schuhe, um die teils schlammigen Abschnitte zu meistern.",
+            "hu": "Sétáljon ezen a gyönyörű part menti természetvédelmi területen, és viseljen vízálló túracipőt, hogy könnyedén megbirkózzon a sárosabb szakaszokkal.",
+            "ro": "Plimbați-vă pe traseele de coastă ale acestei rezervații naturale și purtați încălțăminte impermeabilă rezistentă pentru a evita zonele noroioase.",
+            "en": "Walk along the coastal trails of this beautiful nature reserve observing local birds, and wear sturdy waterproof shoes to handle the muddy sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikens Sjöfartsmuseum",
+            "hu": "Vikens Sjöfartsmuseum",
+            "ro": "Vikens Sjöfartsmuseum",
+            "en": "Vikens Sjöfartsmuseum"
+          },
+          "coords": [
+            12.576932,
+            56.142667
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte von Viken ein und fragen Sie den Kurator nach den berühmten lokalen Seeleuten aus dem 19. Jahrhundert.",
+            "hu": "Merüljön el Viken tengerészeti örökségében a részletes hajómodelleken keresztül, és kérdezze a kurátort a 19. századi híres helyi tengerészekről.",
+            "ro": "Explorați moștenirea maritimă a orașului Viken prin modele detaliate de nave și întrebați curatorul despre marinarii locali faimoși din trecut.",
+            "en": "Dive into the rich seafaring legacy of Viken through intricate ship models, and ask the curator about the famous local sailors from the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul Jönska gården",
+            "hu": "Paul Jönska gården",
+            "ro": "Paul Jönska gården",
+            "en": "Paul Jönska gården"
+          },
+          "coords": [
+            12.574405,
+            56.143764
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem alten Kapitänshof mit seinen historischen Möbeln eine Zeitreise und genießen Sie unbedingt einen ruhigen Moment im Garten.",
+            "hu": "Lépjen vissza az időben ezen a hagyományos kapitányi birtokon, ahol érdemes egy kis időt eltölteni a csodálatosan gondozott, békés kertben is.",
+            "ro": "Călătoriți în timp la această fermă tradițională de căpitani cu mobilier de epocă și asigurați-vă că savurați un moment de liniște în grădina sa.",
+            "en": "Step back in time at this traditional captain's farm with beautiful period furnishings, and be sure to enjoy a quiet moment in the lovely garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikens kyrka",
+            "hu": "Vikens kyrka",
+            "ro": "Vikens kyrka",
+            "en": "Vikens kyrka"
+          },
+          "coords": [
+            12.571885,
+            56.146046
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Herzen des Dorfes und werfen Sie einen Blick auf das örtliche Veranstaltungsprogramm.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely a falu központja, és figyelje a hirdetőtáblát a helyi kóruselőadások miatt.",
+            "ro": "Admirați arhitectura acestei biserici istorice din inima satului și verificați panoul de informații pentru posibile concerte ale corului local.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Svanebäcksstranden",
+            "hu": "Svanebäcksstranden",
+            "ro": "Svanebäcksstranden",
+            "en": "Svanebäcksstranden"
+          },
+          "coords": [
+            12.564626,
+            56.159562
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenatmosphäre an diesem abgelegenen Strand und bringen Sie einen Picknickkorb mit, um den wunderschönen Sonnenuntergang zu sehen.",
+            "hu": "Élvezze a békés part menti hangulatot ezen a csendesebb strandon, és hozzon magával egy kis piknikkosarat a lenyűgöző naplemente megtekintéséhez.",
+            "ro": "Bucurați-vă de atmosfera senină la această plajă mai liniștită și aduceți un coș de picnic pentru a-l savura în timp ce priviți apusul spectaculos.",
+            "en": "Enjoy the serene coastal atmosphere at this quieter beach destination, and pack a small picnic basket to savor while watching the beautiful sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Väsby strandmarks naturreservat",
+            "hu": "Väsby strandmarks naturreservat",
+            "ro": "Väsby strandmarks naturreservat",
+            "en": "Väsby strandmarks naturreservat"
+          },
+          "coords": [
+            12.563979,
+            56.167178
+          ],
+          "category": "natural",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Küstenheide mit ihrer einzigartigen Flora und bringen Sie ein Fernglas mit, um im Frühling Zugvögel zu beobachten.",
+            "hu": "Tapasztalja meg a parti fenyérek zord szépségét és egyedi növényvilágát, és hozzon távcsövet a ritka vándormadarak tavaszi megfigyeléséhez.",
+            "ro": "Experimentați frumusețea aspră a zonelor de coastă bogate în floră unică și aduceți binoclul pentru a observa păsările migratoare rare primăvara.",
+            "en": "Experience the rugged beauty of the coastal heathlands rich in unique flora, and bring binoculars to spot the rare migratory birds in the spring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag auf den malerischen Wegen im Naturschutzgebiet Domsten-Viken. Mittags erreichen Sie das Dorf, um das Schifffahrtsmuseum, den Kapitänshof und die friedliche Kirche zu entdecken. Verbringen Sie den Nachmittag damit, zu den Sandstränden von Svanebäcksstranden zu radeln. Lassen Sie den Abend inmitten der rauen Küstenheidelandschaft des Reservats Väsby ausklingen.",
+        "hu": "Kezdje a kerékpáros napot a Domsten-Vikens természetvédelmi terület gyönyörű ösvényeinek felfedezésével. Délben a faluba érve fedezze fel a tengerészeti múzeumot, a kapitányi birtokot és a békés templomot. Délután tekerjen a Svanebäcksstranden hívogató homokos partszakaszai felé. Zárja az estét a Väsby rezervátum zord, mégis lenyűgöző part menti fenyérekkel borított tájain pihenve.",
+        "ro": "Începeți ziua de ciclism explorând potecile frumoase din rezervația naturală Domsten-Viken. Prânzul vă aduce în sat pentru a descoperi muzeul maritim, ferma căpitanului și biserica pașnică din Viken. Petreceți după-amiaza pedalând spre întinderile de nisip ale Svanebäcksstranden. Încheiați seara înconjurat de frumusețea aspră a zonelor de coastă din rezervația naturală Väsby.",
+        "en": "Start your cycling day exploring the beautiful paths of Domsten-Vikens naturreservat. Midday brings you into the village to discover the local maritime museum, the captain's farm at Paul Jönska gården, and the peaceful Vikens kyrka. Spend your afternoon pedaling towards the sandy stretches of Svanebäcksstranden. Finish the evening surrounded by the rugged coastal heathlands of Väsby reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 4.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Väsby strandmarks naturreservat",
+            "hu": "Väsby strandmarks naturreservat",
+            "ro": "Väsby strandmarks naturreservat",
+            "en": "Väsby strandmarks naturreservat"
+          },
+          "coords": [
+            12.563979,
+            56.167178
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Küstenheide mit ihrer einzigartigen Flora und bringen Sie ein Fernglas mit, um im Frühling Zugvögel zu beobachten.",
+            "hu": "Tapasztalja meg a parti fenyérek zord szépségét és egyedi növényvilágát, és hozzon távcsövet a ritka vándormadarak tavaszi megfigyeléséhez.",
+            "ro": "Experimentați frumusețea aspră a zonelor de coastă bogate în floră unică și aduceți binoclul pentru a observa păsările migratoare rare primăvara.",
+            "en": "Experience the rugged beauty of the coastal heathlands rich in unique flora, and bring binoculars to spot the rare migratory birds in the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Svanebäcksstranden",
+            "hu": "Svanebäcksstranden",
+            "ro": "Svanebäcksstranden",
+            "en": "Svanebäcksstranden"
+          },
+          "coords": [
+            12.564626,
+            56.159562
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenatmosphäre an diesem abgelegenen Strand und bringen Sie einen Picknickkorb mit, um den wunderschönen Sonnenuntergang zu sehen.",
+            "hu": "Élvezze a békés part menti hangulatot ezen a csendesebb strandon, és hozzon magával egy kis piknikkosarat a lenyűgöző naplemente megtekintéséhez.",
+            "ro": "Bucurați-vă de atmosfera senină la această plajă mai liniștită și aduceți un coș de picnic pentru a-l savura în timp ce priviți apusul spectaculos.",
+            "en": "Enjoy the serene coastal atmosphere at this quieter beach destination, and pack a small picnic basket to savor while watching the beautiful sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikens kyrka",
+            "hu": "Vikens kyrka",
+            "ro": "Vikens kyrka",
+            "en": "Vikens kyrka"
+          },
+          "coords": [
+            12.571885,
+            56.146046
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Herzen des Dorfes und werfen Sie einen Blick auf das örtliche Veranstaltungsprogramm.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely a falu központja, és figyelje a hirdetőtáblát a helyi kóruselőadások miatt.",
+            "ro": "Admirați arhitectura acestei biserici istorice din inima satului și verificați panoul de informații pentru posibile concerte ale corului local.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Sophiamöllan",
+            "hu": "Sophiamöllan",
+            "ro": "Sophiamöllan",
+            "en": "Sophiamöllan"
+          },
+          "coords": [
+            12.577636,
+            56.144603
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene Windmühle, die die landwirtschaftliche Vergangenheit zeigt, und besuchen Sie sie bei Wind, um die Flügel zu sehen.",
+            "hu": "Fedezze fel ezt a kiválóan megőrzött szélmalmot a múltból, és jöjjön egy szeles napon, hogy láthassa a hatalmas vitorlákat mozgás közben.",
+            "ro": "Explorați această moară de vânt perfect conservată care ilustrează trecutul agricol și veniți într-o zi vântoasă pentru a vedea palele în mișcare.",
+            "en": "Explore this well-preserved windmill that highlights the agricultural past, and visit on a windy day to see the impressive sails in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Lovisa",
+            "hu": "Lovisa",
+            "ro": "Lovisa",
+            "en": "Lovisa"
+          },
+          "coords": [
+            12.578414,
+            56.142808
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende maritime Geschichte dieses klassischen Holzschiffs und sprechen Sie mit den Freiwilligen für spannende Geschichten.",
+            "hu": "Ismerje meg a tengeri történelmet ezen a klasszikus fahajón, és mindenképpen beszélgessen a helyi önkéntesekkel a legérdekesebb történetekért.",
+            "ro": "Descoperiți istoria maritimă fascinantă prin această navă clasică de lemn și încercați să discutați cu voluntarii locali pentru povești inedite.",
+            "en": "Discover the fascinating maritime history embodied by this classic wooden ship, and try to speak with the local volunteers for untold stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Domsten-Vikens naturreservat",
+            "hu": "Domsten-Vikens naturreservat",
+            "ro": "Domsten-Vikens naturreservat",
+            "en": "Domsten-Vikens naturreservat"
+          },
+          "coords": [
+            12.590317,
+            56.132815
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Küstenpfaden dieses Naturschutzgebiets und tragen Sie feste, wasserdichte Schuhe, um die teils schlammigen Abschnitte zu meistern.",
+            "hu": "Sétáljon ezen a gyönyörű part menti természetvédelmi területen, és viseljen vízálló túracipőt, hogy könnyedén megbirkózzon a sárosabb szakaszokkal.",
+            "ro": "Plimbați-vă pe traseele de coastă ale acestei rezervații naturale și purtați încălțăminte impermeabilă rezistentă pentru a evita zonele noroioase.",
+            "en": "Walk along the coastal trails of this beautiful nature reserve observing local birds, and wear sturdy waterproof shoes to handle the muddy sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am atemberaubenden Väsby strandmarks naturreservat und fahren Sie südlich zum entspannenden Svanebäcksstranden. Mittags erkunden Sie den historischen Dorfkern mit Kirche, Windmühle und dem Holzschiff Lovisa. Fahren Sie am späten Nachmittag zum Domsten-Vikens naturreservat hinab. Verbringen Sie den Abend damit, den majestätischen Blick auf den Ozean zu genießen.",
+        "hu": "Kezdje a festői autózást a lenyűgöző Väsby strandmarks természetvédelmi területen, majd induljon délre a pihentető Svanebäcksstranden felé. A dél tökéletes a történelmi falu felfedezésére, beleértve a templomot, a szélmalmot és a Lovisa fahajót. Késő délután autózzon le a Domsten-Vikens rezervátumhoz. Az estét a fenséges tengeri kilátás és a partvidék nyugalmának élvezetével töltheti.",
+        "ro": "Începeți călătoria pitorească la uimitoarea rezervație Väsby strandmarks înainte de a merge spre sud la Svanebäcksstranden. Prânzul este perfect pentru a explora centrul istoric, inclusiv biserica, moara și nava de lemn Lovisa. După-amiaza târziu, conduceți către rezervația naturală Domsten-Viken. Petreceți seara admirând priveliștile maiestuoase ale oceanului în liniște deplină.",
+        "en": "Kick off your scenic drive at the stunning Väsby strandmarks naturreservat before heading south to the relaxing Svanebäcksstranden. Midday is perfect for exploring the historic village core, including Vikens kyrka, the towering windmill, and the lovely wooden ship Lovisa. In the late afternoon, drive down to Domsten-Vikens naturreservat. Spend your evening taking in the majestic ocean views."
+      }
+    }
+  }
+}

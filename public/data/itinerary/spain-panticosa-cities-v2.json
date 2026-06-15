@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-panticosa-cities-v2",
+  "anchor": {
+    "name": "Panticosa",
+    "coords": [
+      -0.2817,
+      42.72381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de la Asunción de Nuestra Señora",
+            "hu": "Iglesia de la Asunción de Nuestra Señora",
+            "ro": "Iglesia de la Asunción de Nuestra Señora",
+            "en": "Iglesia de la Asunción de Nuestra Señora"
+          },
+          "coords": [
+            -0.283768,
+            42.723869
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um die wunderschöne Architektur zu bewundern, und achten Sie auf die Öffnungszeiten, da sie mittags oft schließt.",
+            "hu": "Látogassa meg ezt a történelmi templomot, hogy megcsodálja a gyönyörű építészetet, és figyeljen a nyitvatartásra, mivel délben gyakran bezár.",
+            "ro": "Vizitați această biserică istorică pentru a admira arhitectura sa frumoasă și fiți atenți la program, deoarece de obicei se închide la prânz.",
+            "en": "Visit this historic church to admire its beautiful architecture, and pay attention to the opening hours as it often closes during the midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasarelas de Panticosa",
+            "hu": "Pasarelas de Panticosa",
+            "ro": "Pasarelas de Panticosa",
+            "en": "Pasarelas de Panticosa"
+          },
+          "coords": [
+            -0.280224,
+            42.721876
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Nervenkitzel auf diesen atemberaubenden Hängebrücken über die Schlucht, aber tragen Sie unbedingt festes Schuhwerk für den Weg.",
+            "hu": "Éljen át izgalmakat ezeken a lélegzetelállító függőhidakon a szurdok felett, de a biztonságos bejáráshoz feltétlenül viseljen túracipőt.",
+            "ro": "Trăiți senzații tari pe aceste poduri suspendate uluitoare deasupra defileului, dar asigurați-vă că purtați încălțăminte rezistentă pentru traseu.",
+            "en": "Experience a thrill on these breathtaking suspension bridges over the gorge, but be absolutely sure to wear sturdy footwear for the rugged trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Tozal de O'Calvé",
+            "hu": "Mirador del Tozal de O'Calvé",
+            "ro": "Mirador del Tozal de O'Calvé",
+            "en": "Mirador del Tozal de O'Calvé"
+          },
+          "coords": [
+            -0.278607,
+            42.724653
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen herrlichen Panoramablick über das Tal, ideal für Fotos am frühen Morgen, wenn das Licht am weichsten ist.",
+            "hu": "Élvezze a csodálatos panorámát a völgyre ebből a kilátóból, amely ideális kora reggeli fotózáshoz, amikor a fény a leglágyabb és a legszebb.",
+            "ro": "Bucurați-vă de o panoramă magnifică a văii din acest punct de belvedere, ideal pentru fotografii dimineața devreme, când lumina este foarte blândă.",
+            "en": "Enjoy a magnificent panoramic view of the valley from this viewpoint, which is ideal for early morning photography when the natural light is softest."
+          }
+        },
+        {
+          "name": {
+            "de": "bunker",
+            "hu": "bunker",
+            "ro": "bunker",
+            "en": "bunker"
+          },
+          "coords": [
+            -0.282859,
+            42.728904
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Bunker, der von der komplexen Vergangenheit der Region zeugt, und bringen Sie eine kleine Taschenlampe mit.",
+            "hu": "Fedezze fel ezt a történelmi bunkert, amely a régió összetett múltjáról tanúskodik, és hozzon magával egy kis zseblámpát a belső terekhez.",
+            "ro": "Explorați acest buncăr istoric care stă mărturie trecutului complex al regiunii și aduceți o lanternă mică pentru a vedea detaliile din interior.",
+            "en": "Explore this historic bunker that bears witness to the region's complex past, and bring a small flashlight to safely examine the dark interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Peña Medio;Mirador de Peña Medio",
+            "hu": "Peña Medio;Mirador de Peña Medio",
+            "ro": "Peña Medio;Mirador de Peña Medio",
+            "en": "Peña Medio;Mirador de Peña Medio"
+          },
+          "coords": [
+            -0.285012,
+            42.731425
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüfteten Felsformationen von diesem spektakulären Aussichtspunkt, der nach einem kurzen, aber steilen Aufstieg zu erreichen ist.",
+            "hu": "Csodálja meg a zord sziklaalakzatokat erről a látványos kilátópontról, amelyet egy rövid, de kissé meredek kaptatón lehet gyalogosan megközelíteni.",
+            "ro": "Admirați formațiunile stâncoase abrupte de la acest punct de belvedere spectaculos, care poate fi atins după o urcare scurtă, dar destul de abruptă.",
+            "en": "Admire the rugged rock formations from this spectacular viewpoint, which can be reached after a short but somewhat steep climb along the hillside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Cucuraza",
+            "hu": "Mirador de Cucuraza",
+            "ro": "Mirador de Cucuraza",
+            "en": "Mirador de Cucuraza"
+          },
+          "coords": [
+            -0.288812,
+            42.733077
+          ],
+          "category": "natural",
+          "arrive_at": "12:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Wanderung mit diesem ruhigen Aussichtspunkt ab, der perfekte Ausblicke auf die umliegenden Gipfel und eine friedliche Atmosphäre bietet.",
+            "hu": "Zárja túráját ezen a csendes kilátóponton, amely tökéletes kilátást nyújt a környező csúcsokra, és rendkívül békés, nyugodt atmoszférát biztosít.",
+            "ro": "Încheiați drumeția la acest punct de belvedere liniștit, care oferă o priveliște perfectă asupra vârfurilor înconjurătoare și o atmosferă pașnică.",
+            "en": "Conclude your hike at this quiet viewpoint, which offers perfect views of the surrounding peaks and a deeply peaceful atmosphere for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Panticosa an der malerischen Kirche Asunción. Ein kurzer Spaziergang bringt Sie zu den aufregenden Pasarelas de Panticosa. Der Vormittag bietet spektakuläre Ausblicke vom Mirador del Tozal. Mittags erkunden Sie die faszinierenden historischen Bunkeranlagen in den Hügeln. Am Nachmittag besteigen Sie die Peña Medio für eine noch beeindruckendere Perspektive. Beenden Sie die Route am ruhigen Mirador de Cucuraza.",
+        "hu": "Kezdje a napot Panticosa szívében, a festői Asunción templomnál. Egy rövid séta elvezeti a lélegzetelállító Pasarelas de Panticosa függőhídjaihoz. A délelőtt látványos kilátást nyújt a Mirador del Tozal felől. Délben fedezze fel a dombokon található lenyűgöző történelmi bunkerrendszert. Délután mássza meg a Peña Medio-t egy még lenyűgözőbb perspektíváért. Fejezze be a túrát a békés Mirador de Cucuraza kilátónál.",
+        "ro": "Începeți ziua în inima localității Panticosa, la pitoreasca biserică Asunción. O scurtă plimbare vă duce la podurile suspendate Pasarelas de Panticosa. Dimineața oferă priveliști spectaculoase de la Mirador del Tozal. La prânz, explorați buncărele istorice fascinante de pe dealuri. După-amiaza, urcați pe Peña Medio pentru o perspectivă și mai impresionantă. Încheiați traseul la liniștitul Mirador de Cucuraza.",
+        "en": "Start your day in the heart of Panticosa at the picturesque Asunción church. A short walk takes you to the thrilling Pasarelas de Panticosa suspension bridges. The morning offers spectacular views from the Mirador del Tozal. At noon, explore the fascinating historical bunkers hidden in the hills. In the afternoon, climb Peña Medio for an even more impressive perspective. Finish the route at the peaceful Mirador de Cucuraza."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -0.29901,
+            42.719709
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen charmanten Hauptplatz, um die lokale Atmosphäre aufzusaugen, und setzen Sie sich auf einen Kaffee in eines der kleinen Cafés.",
+            "hu": "Sétáljon végig ezen a hangulatos főtéren, hogy magába szívja a helyi atmoszférát, és üljön be egy finom kávéra az egyik barátságos kis kávézóba.",
+            "ro": "Plimbați-vă prin această piață principală fermecătoare pentru a simți atmosfera locală și așezați-vă la o cafea într-una dintre micile cafenele.",
+            "en": "Stroll across this charming main square to soak up the local atmosphere, and sit down for a refreshing coffee in one of the welcoming little cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castiecho",
+            "hu": "Mirador del Castiecho",
+            "ro": "Mirador del Castiecho",
+            "en": "Mirador del Castiecho"
+          },
+          "coords": [
+            -0.298253,
+            42.716425
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie von hier aus auf die tiefen Täler hinab und nutzen Sie das weite Sichtfeld, um die beeindruckenden Kontraste der Landschaft zu fotografieren.",
+            "hu": "Tekintsen le a mély völgyekre innen, és használja ki a széles látómezőt a táj lenyűgöző kontrasztjainak megörökítésére a délelőtti napsütésben.",
+            "ro": "Priviți în jos spre văile adânci de aici și folosiți câmpul vizual larg pentru a fotografia contrastele impresionante ale peisajului montan din jur.",
+            "en": "Look down upon the deep valleys from here and take advantage of the wide field of view to photograph the impressive contrasts of the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de las Sabinas",
+            "hu": "Mirador de las Sabinas",
+            "ro": "Mirador de las Sabinas",
+            "en": "Mirador de las Sabinas"
+          },
+          "coords": [
+            -0.294745,
+            42.717952
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen versteckten Aussichtspunkt zwischen alten Wacholderbäumen, der eine intime und schattige Pause während Ihrer Radtour bietet.",
+            "hu": "Fedezze fel ezt a rejtett kilátópontot az öreg borókák között, amely meghitt és árnyékos pihenőt kínál a kerékpártúra során a meleg nyári napokon.",
+            "ro": "Descoperiți acest punct de belvedere ascuns printre ienuperi bătrâni, care oferă o pauză intimă și umbrită în timpul plimbării cu bicicleta.",
+            "en": "Discover this hidden viewpoint among ancient juniper trees, which offers an intimate and shady break during your active and sunny bicycle tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Peña Santa María",
+            "hu": "Mirador de Peña Santa María",
+            "ro": "Mirador de Peña Santa María",
+            "en": "Mirador de Peña Santa María"
+          },
+          "coords": [
+            -0.290463,
+            42.720607
+          ],
+          "category": "natural",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von diesem Felsvorsprung und achten Sie auf die Raubvögel, die in den starken Aufwinden der Berge elegant ihre Kreise ziehen.",
+            "hu": "Élvezze a kilátást erről a sziklaszirtről, és figyelje meg a ragadozó madarakat, amelyek a hegyek erős feláramlásaiban elegánsan köröznek a magasban.",
+            "ro": "Bucurați-vă de priveliștea de pe acest promontoriu și urmăriți păsările de pradă care zboară elegant în curenții puternici ascendenți ai munților.",
+            "en": "Enjoy the view from this rocky outcrop and keep an eye out for birds of prey gracefully circling in the strong updrafts of the surrounding mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador A Claveta",
+            "hu": "Mirador A Claveta",
+            "ro": "Mirador A Claveta",
+            "en": "Mirador A Claveta"
+          },
+          "coords": [
+            -0.295057,
+            42.723953
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser kleine Aussichtspunkt bietet eine großartige Perspektive auf das Dorf; es lohnt sich, hier kurz innezuhalten und die frische Bergluft zu atmen.",
+            "hu": "Ez a kis kilátópont nagyszerű perspektívát kínál a falura; érdemes itt röviden megállni, és mélyeket lélegezni a friss, tiszta hegyi levegőből.",
+            "ro": "Acest mic punct de belvedere oferă o perspectivă excelentă asupra satului; merită să vă opriți scurt aici pentru a respira aerul proaspăt de munte.",
+            "en": "This small viewpoint offers a great perspective on the village; it is well worth pausing here briefly to breathe in the fresh, clean mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+          },
+          "coords": [
+            -0.308889,
+            42.730444
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese aufregende Klettersteigroute von unten oder wagen Sie sich mit der richtigen Ausrüstung und einem erfahrenen Guide selbst hinauf.",
+            "hu": "Csodálja meg lentről ezt az izgalmas via ferrata útvonalat, vagy megfelelő felszereléssel és tapasztalt vezetővel vágjon neki önmaga is a kalandnak.",
+            "ro": "Admirați acest traseu captivant de via ferrata de jos sau aventurați-vă pe el singuri dacă aveți echipamentul potrivit și un ghid experimentat.",
+            "en": "Marvel at this exciting via ferrata route from below, or venture up it yourself if you have the proper safety equipment and an experienced guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal de Escarrilla",
+            "hu": "Piscina Municipal de Escarrilla",
+            "ro": "Piscina Municipal de Escarrilla",
+            "en": "Piscina Municipal de Escarrilla"
+          },
+          "coords": [
+            -0.315516,
+            42.734991
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem aktiven Tag in diesem schönen städtischen Schwimmbad, das an heißen Sommertagen eine wunderbare Erfrischung bietet.",
+            "hu": "Lazítson egy aktív nap után ebben a szép városi uszodában, amely a forró nyári napokon csodálatos felfrissülést és kikapcsolódást kínál az utazóknak.",
+            "ro": "Relaxați-vă după o zi activă la această frumoasă piscină municipală, care oferă o răcorire minunată în zilele fierbinți și însorite de vară.",
+            "en": "Relax after an active day at this lovely municipal swimming pool, which offers a wonderful and refreshing escape on hot, sunny summer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie auf der historischen Plaza Mayor und genießen Sie das lebhafte Treiben des Dorfes. Radeln Sie rasch zum Mirador del Castiecho für erste Bergblicke. Setzen Sie die Tour entlang der schattigen Sabinas und dem Mirador de Peña Santa María fort. Gegen Mittag erreichen Sie den Mirador A Claveta. Nach einer aufregenden Begegnung mit der Kletterroute El Escuacho können Sie im städtischen Schwimmbad in Escarrilla entspannen.",
+        "hu": "Induljon a történelmi Plaza Mayorról, és élvezze a falu nyüzsgő életét. Kerekezzen el gyorsan a Mirador del Castiecho-hoz az első hegyi kilátásért. Folytassa a túrát az árnyas Sabinas és a Mirador de Peña Santa María mentén. Dél körül elérkezik a Mirador A Claveta-hoz. Az El Escuacho sziklamászó útvonal izgalmas felfedezése után délután pihenhet az escarrillai városi medencénél a kellemes napsütésben.",
+        "ro": "Porniți de la istorica Plaza Mayor și bucurați-vă de agitația satului. Pedalați rapid către Mirador del Castiecho pentru primele priveliști montane. Continuați turul de-a lungul umbroaselor Sabinas și a Mirador de Peña Santa María. Spre prânz veți ajunge la Mirador A Claveta. După o întâlnire interesantă cu traseul de escaladă El Escuacho, vă puteți relaxa la piscina municipală din Escarrilla după-amiaza.",
+        "en": "Start at the historic Plaza Mayor and enjoy the lively hustle and bustle of the village. Cycle quickly to the Mirador del Castiecho for the first mountain views. Continue the tour along the shady Sabinas and the Mirador de Peña Santa María. Around noon you will reach the Mirador A Claveta. After an exciting encounter with the El Escuacho climbing route, you can relax in the municipal pool in Escarrilla."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:22",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de la Asunción de Nuestra Señora",
+            "hu": "Iglesia de la Asunción de Nuestra Señora",
+            "ro": "Iglesia de la Asunción de Nuestra Señora",
+            "en": "Iglesia de la Asunción de Nuestra Señora"
+          },
+          "coords": [
+            -0.283768,
+            42.723869
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um die wunderschöne Architektur zu bewundern, und achten Sie auf die Öffnungszeiten, da sie mittags oft schließt.",
+            "hu": "Látogassa meg ezt a történelmi templomot, hogy megcsodálja a gyönyörű építészetet, és figyeljen a nyitvatartásra, mivel délben gyakran bezár.",
+            "ro": "Vizitați această biserică istorică pentru a admira arhitectura sa frumoasă și fiți atenți la program, deoarece de obicei se închide la prânz.",
+            "en": "Visit this historic church to admire its beautiful architecture, and pay attention to the opening hours as it often closes during the midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasarelas de Panticosa",
+            "hu": "Pasarelas de Panticosa",
+            "ro": "Pasarelas de Panticosa",
+            "en": "Pasarelas de Panticosa"
+          },
+          "coords": [
+            -0.280224,
+            42.721876
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Nervenkitzel auf diesen atemberaubenden Hängebrücken über die Schlucht, aber tragen Sie unbedingt festes Schuhwerk für den Weg.",
+            "hu": "Éljen át izgalmakat ezeken a lélegzetelállító függőhidakon a szurdok felett, de a biztonságos bejáráshoz feltétlenül viseljen túracipőt.",
+            "ro": "Trăiți senzații tari pe aceste poduri suspendate uluitoare deasupra defileului, dar asigurați-vă că purtați încălțăminte rezistentă pentru traseu.",
+            "en": "Experience a thrill on these breathtaking suspension bridges over the gorge, but be absolutely sure to wear sturdy footwear for the rugged trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -0.29901,
+            42.719709
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen charmanten Hauptplatz, um die lokale Atmosphäre aufzusaugen, und setzen Sie sich auf einen Kaffee in eines der kleinen Cafés.",
+            "hu": "Sétáljon végig ezen a hangulatos főtéren, hogy magába szívja a helyi atmoszférát, és üljön be egy finom kávéra az egyik barátságos kis kávézóba.",
+            "ro": "Plimbați-vă prin această piață principală fermecătoare pentru a simți atmosfera locală și așezați-vă la o cafea într-una dintre micile cafenele.",
+            "en": "Stroll across this charming main square to soak up the local atmosphere, and sit down for a refreshing coffee in one of the welcoming little cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castiecho",
+            "hu": "Mirador del Castiecho",
+            "ro": "Mirador del Castiecho",
+            "en": "Mirador del Castiecho"
+          },
+          "coords": [
+            -0.298253,
+            42.716425
+          ],
+          "category": "natural",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie von hier aus auf die tiefen Täler hinab und nutzen Sie das weite Sichtfeld, um die beeindruckenden Kontraste der Landschaft zu fotografieren.",
+            "hu": "Tekintsen le a mély völgyekre innen, és használja ki a széles látómezőt a táj lenyűgöző kontrasztjainak megörökítésére a délelőtti napsütésben.",
+            "ro": "Priviți în jos spre văile adânci de aici și folosiți câmpul vizual larg pentru a fotografia contrastele impresionante ale peisajului montan din jur.",
+            "en": "Look down upon the deep valleys from here and take advantage of the wide field of view to photograph the impressive contrasts of the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+            "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+          },
+          "coords": [
+            -0.308889,
+            42.730444
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese aufregende Klettersteigroute von unten oder wagen Sie sich mit der richtigen Ausrüstung und einem erfahrenen Guide selbst hinauf.",
+            "hu": "Csodálja meg lentről ezt az izgalmas via ferrata útvonalat, vagy megfelelő felszereléssel és tapasztalt vezetővel vágjon neki önmaga is a kalandnak.",
+            "ro": "Admirați acest traseu captivant de via ferrata de jos sau aventurați-vă pe el singuri dacă aveți echipamentul potrivit și un ghid experimentat.",
+            "en": "Marvel at this exciting via ferrata route from below, or venture up it yourself if you have the proper safety equipment and an experienced guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal de Escarrilla",
+            "hu": "Piscina Municipal de Escarrilla",
+            "ro": "Piscina Municipal de Escarrilla",
+            "en": "Piscina Municipal de Escarrilla"
+          },
+          "coords": [
+            -0.315516,
+            42.734991
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem aktiven Tag in diesem schönen städtischen Schwimmbad, das an heißen Sommertagen eine wunderbare Erfrischung bietet.",
+            "hu": "Lazítson egy aktív nap után ebben a szép városi uszodában, amely a forró nyári napokon csodálatos felfrissülést és kikapcsolódást kínál az utazóknak.",
+            "ro": "Relaxați-vă după o zi activă la această frumoasă piscină municipală, care oferă o răcorire minunată în zilele fierbinți și însorite de vară.",
+            "en": "Relax after an active day at this lovely municipal swimming pool, which offers a wonderful and refreshing escape on hot, sunny summer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur eleganten Kirche in Panticosa und unternehmen Sie einen kleinen Spaziergang zu den Hängebrücken. Steuern Sie dann das Auto ins nahegelegene El Pueyo de Jaca, um die Plaza Mayor zu besichtigen. Von dort aus ist der Mirador del Castiecho nur einen Katzensprung entfernt. Am Nachmittag locken die steilen Felswände der Ferrata El Escuacho. Der Tag endet entspannt in der kühlen Piscina Municipal.",
+        "hu": "Reggel vezessen a panticosai elegáns templomhoz, és tegyen egy rövid sétát a függőhidak felé. Ezután irányítsa az autót a közeli El Pueyo de Jaca-ba, és látogassa meg a Plaza Mayort. Innen a Mirador del Castiecho csak egy kőhajításnyira van. Délután hívogatnak az El Escuacho via ferrata meredek sziklafalai. A nap laza pihenéssel ér véget a kellemesen hűs Piscina Municipal medencéjénél.",
+        "ro": "Conduceți dimineața la biserica elegantă din Panticosa și faceți o scurtă plimbare la podurile suspendate. Apoi îndreptați mașina către satul apropiat El Pueyo de Jaca pentru a vizita Plaza Mayor. De acolo, Mirador del Castiecho este la doar o aruncătură de băț. După-amiaza vă atrag pereții stâncoși ai traseului Ferrata El Escuacho. Ziua se încheie relaxant la răcoroasa Piscina Municipal din apropiere.",
+        "en": "Drive to the elegant church in Panticosa in the morning and take a short walk to the suspension bridges. Then head the car into nearby El Pueyo de Jaca to visit the Plaza Mayor. From there, the Mirador del Castiecho is just a stone's throw away. In the afternoon, the steep rock faces of the Ferrata El Escuacho beckon. The day ends completely relaxed in the cool, refreshing waters of the Piscina Municipal."
+      }
+    }
+  }
+}

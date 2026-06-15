@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-marano-lagunare-cities-v2",
+  "anchor": {
+    "name": "Marano Lagunare",
+    "coords": [
+      13.1675,
+      45.76499
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Laguna",
+            "hu": "Museo della Laguna",
+            "ro": "Museo della Laguna",
+            "en": "Museo della Laguna"
+          },
+          "coords": [
+            13.167429,
+            45.764865
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Lagunengemeinde und schauen Sie sich unbedingt die interaktiven Ausstellungen zu traditionellen Fangtechniken an.",
+            "hu": "Fedezze fel a lagúnai közösség gazdag tengerészeti történelmét, és feltétlenül tekintse meg a hagyományos halászati technikákat bemutató interaktív kiállításokat.",
+            "ro": "Descoperiți istoria maritimă bogată a comunității lagunare și asigurați-vă că verificați exponatele interactive despre tehnicile tradiționale de pescuit.",
+            "en": "Discover the rich maritime history of the lagoon community and make sure to check the interactive exhibits on traditional fishing techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Patera bizantina",
+            "hu": "Patera bizantina",
+            "ro": "Patera bizantina",
+            "en": "Patera bizantina"
+          },
+          "coords": [
+            13.166586,
+            45.763713
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses atemberaubende byzantinische Relief, das in die lokale Architektur eingebettet ist, aber bringen Sie ein Zoomobjektiv mit, um die Details von der Straße aus zu fotografieren.",
+            "hu": "Csodálja meg a helyi építészetbe ágyazott lenyűgöző bizánci domborművet, de hozzon magával teleobjektívet, hogy az utcaszintről is tisztán megörökíthesse a bonyolult részleteket.",
+            "ro": "Admirați acest relief bizantin uimitor încorporat în arhitectura locală, dar aduceți un teleobiectiv pentru a surprinde clar detaliile sale complexe de la nivelul străzii.",
+            "en": "Admire this stunning Byzantine relief embedded in the local architecture, but bring a zoom lens to capture its intricate details clearly from the street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiche mura della fortezza",
+            "hu": "Antiche mura della fortezza",
+            "ro": "Antiche mura della fortezza",
+            "en": "Antiche mura della fortezza"
+          },
+          "coords": [
+            13.16528,
+            45.764052
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser alten Festungsmauern, die einst die Stadt schützten, und besuchen Sie sie früh am Tag, um die harte Mittagssonne auf dem Weg zu meiden.",
+            "hu": "Sétáljon végig az egykor a várost védő ősi erődítményfalak maradványain, és látogasson el ide korán, hogy elkerülje az erős déli napsütést a nyílt ösvényen.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor acestor vechi ziduri de fortăreață care protejau odinioară orașul și vizitați-le devreme pentru a evita soarele puternic de la amiază pe poteca expusă.",
+            "en": "Walk along the remnants of these ancient fortress walls that once protected the town, and visit early in the day to avoid the harsh midday sun on the exposed path."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione di Sant'Antonio",
+            "hu": "Bastione di Sant'Antonio",
+            "ro": "Bastione di Sant'Antonio",
+            "en": "Bastione di Sant'Antonio"
+          },
+          "coords": [
+            13.16445,
+            45.762916
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Bastion, die einen Panoramablick auf das Wasser bietet, und tragen Sie feste Wanderschuhe, da die umliegenden Wege ziemlich uneben sein können.",
+            "hu": "Fedezze fel ezt a történelmi bástyát, ahonnan panorámás kilátás nyílik a vízre, és viseljen masszív sétálócipőt, mivel a környező ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați acest bastion istoric care oferă vederi panoramice asupra apei și purtați încălțăminte de mers robustă, deoarece potecile din jur pot fi destul de denivelate.",
+            "en": "Explore this historic bastion offering panoramic views of the water, and wear sturdy walking shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario Lagunare",
+            "hu": "Acquario Lagunare",
+            "ro": "Acquario Lagunare",
+            "en": "Acquario Lagunare"
+          },
+          "coords": [
+            13.159271,
+            45.761527
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältige Wasserwelt des regionalen Lagunen-Ökosystems und versuchen Sie, Ihren Besuch auf die Fütterungszeiten abzustimmen, um ein spannenderes Erlebnis zu haben.",
+            "hu": "Figyelje meg a regionális lagúna ökoszisztémájában őshonos változatos vízi élővilágot, és próbálja meg a látogatását az etetési időpontokhoz igazítani, hogy érdekesebb élményben legyen része.",
+            "ro": "Observați viața acvatică diversă, nativă a ecosistemului lagunar regional, și încercați să vă sincronizați vizita cu sesiunile de hrănire pentru o experiență mai captivantă.",
+            "en": "Observe the diverse aquatic life native to the regional lagoon ecosystem, and try to time your visit with the feeding sessions for a more engaging experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Eintauchen in das lokale Erbe im interaktiven Museo della Laguna. Machen Sie danach einen kurzen Spaziergang zur Patera bizantina. Der Nachmittag ist der Erkundung der Überreste der Antiche mura della fortezza und der Bastione di Sant'Antonio gewidmet. Beenden Sie Ihren Rundgang mit einem entspannenden Besuch im Acquario Lagunare.",
+        "hu": "Kezdje a napot a helyi örökség felfedezésével az interaktív Museo della Laguna-ban. Ezután tegyen egy rövid sétát a Patera bizantina felfedezéséhez. A délutánt az Antiche mura della fortezza és a Bastione di Sant'Antonio lenyűgöző maradványainak felfedezésére szánjuk. Fejezze be gyalogos túráját az Acquario Lagunare megnyugtató látogatásával.",
+        "ro": "Începeți ziua scufundându-vă în patrimoniul local la Museo della Laguna. Apoi, faceți o scurtă plimbare pentru a descoperi detaliile complexe de la Patera bizantina. După-amiaza este dedicată explorării rămășițelor de la Antiche mura della fortezza și Bastione di Sant'Antonio. Încheiați-vă turul pietonal cu o vizită relaxantă la Acquario Lagunare.",
+        "en": "Begin your day by diving into the local heritage at the interactive Museo della Laguna. Next, take a short stroll to discover the intricate details of the Patera bizantina. The afternoon is dedicated to exploring the imposing remnants of the Antiche mura della fortezza and Bastione di Sant'Antonio. Conclude your walking tour with a relaxing visit to the Acquario Lagunare."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 3.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Laguna",
+            "hu": "Museo della Laguna",
+            "ro": "Museo della Laguna",
+            "en": "Museo della Laguna"
+          },
+          "coords": [
+            13.167429,
+            45.764865
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Lagunengemeinde und schauen Sie sich unbedingt die interaktiven Ausstellungen zu traditionellen Fangtechniken an.",
+            "hu": "Fedezze fel a lagúnai közösség gazdag tengerészeti történelmét, és feltétlenül tekintse meg a hagyományos halászati technikákat bemutató interaktív kiállításokat.",
+            "ro": "Descoperiți istoria maritimă bogată a comunității lagunare și asigurați-vă că verificați exponatele interactive despre tehnicile tradiționale de pescuit.",
+            "en": "Discover the rich maritime history of the lagoon community and make sure to check the interactive exhibits on traditional fishing techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiche mura della fortezza",
+            "hu": "Antiche mura della fortezza",
+            "ro": "Antiche mura della fortezza",
+            "en": "Antiche mura della fortezza"
+          },
+          "coords": [
+            13.16528,
+            45.764052
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser alten Festungsmauern, die einst die Stadt schützten, und besuchen Sie sie früh am Tag, um die harte Mittagssonne auf dem Weg zu meiden.",
+            "hu": "Sétáljon végig az egykor a várost védő ősi erődítményfalak maradványain, és látogasson el ide korán, hogy elkerülje az erős déli napsütést a nyílt ösvényen.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor acestor vechi ziduri de fortăreață care protejau odinioară orașul și vizitați-le devreme pentru a evita soarele puternic de la amiază pe poteca expusă.",
+            "en": "Walk along the remnants of these ancient fortress walls that once protected the town, and visit early in the day to avoid the harsh midday sun on the exposed path."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario Lagunare",
+            "hu": "Acquario Lagunare",
+            "ro": "Acquario Lagunare",
+            "en": "Acquario Lagunare"
+          },
+          "coords": [
+            13.159271,
+            45.761527
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältige Wasserwelt des regionalen Lagunen-Ökosystems und versuchen Sie, Ihren Besuch auf die Fütterungszeiten abzustimmen, um ein spannenderes Erlebnis zu haben.",
+            "hu": "Figyelje meg a regionális lagúna ökoszisztémájában őshonos változatos vízi élővilágot, és próbálja meg a látogatását az etetési időpontokhoz igazítani, hogy érdekesebb élményben legyen része.",
+            "ro": "Observați viața acvatică diversă, nativă a ecosistemului lagunar regional, și încercați să vă sincronizați vizita cu sesiunile de hrănire pentru o experiență mai captivantă.",
+            "en": "Observe the diverse aquatic life native to the regional lagoon ecosystem, and try to time your visit with the feeding sessions for a more engaging experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva naturale regionale della Valle Canal Novo",
+            "hu": "Riserva naturale regionale della Valle Canal Novo",
+            "ro": "Riserva naturale regionale della Valle Canal Novo",
+            "en": "Riserva naturale regionale della Valle Canal Novo"
+          },
+          "coords": [
+            13.153698,
+            45.760589
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in dieses unberührte, vogelfreundliche Naturschutzgebiet und denken Sie daran, Insektenschutzmittel einzupacken, da Mücken in der Nähe der Feuchtgebiete aktiv sein können.",
+            "hu": "Merüljön el ebben az érintetlen, madárvilágban gazdag természetvédelmi területen, és ne felejtsen el rovarriasztót csomagolni, mivel a vizes élőhelyek közelében aktívak lehetnek a szúnyogok.",
+            "ro": "Cufundați-vă în această rezervație naturală curată, plină de păsări, și nu uitați să luați un repelent de insecte, deoarece țânțarii pot fi destul de activi în apropierea zonelor umede.",
+            "en": "Immerse yourself in this pristine natural reserve teeming with birdlife, and remember to pack insect repellent as mosquitoes can be active near the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia San Vito",
+            "hu": "Spiaggia San Vito",
+            "ro": "Spiaggia San Vito",
+            "en": "Spiaggia San Vito"
+          },
+          "coords": [
+            13.164857,
+            45.756303
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern dieses lokalen Strandes, aber seien Sie sich bewusst, dass die Einrichtungen begrenzt sind, sodass es sehr empfehlenswert ist, eigenes Wasser und Snacks mitzubringen.",
+            "hu": "Pihenjen ennek a helyi strandnak a békés partjain, de vegye figyelembe, hogy a létesítmények korlátozottak, ezért erősen ajánlott saját vizet és rágcsálnivalót hozni.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestei plaje locale, dar fiți conștienți că facilitățile sunt limitate, așa că vă recomandăm cu căldură să aduceți propriile apă și gustări.",
+            "en": "Relax on the peaceful shores of this local beach, but be aware that facilities are limited so bringing your own water and snacks is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+          },
+          "coords": [
+            13.175626,
+            45.76376
+          ],
+          "category": "natural",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses ruhige und geschützte Ökosystem, das für seine malerischen Pfade bekannt ist, und bleiben Sie strikt auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Túrázzon ezen a festői ösvényeiről ismert, nyugodt és védett ökoszisztémán keresztül, és szigorúan ragaszkodjon a kijelölt utakhoz az érzékeny növényvilág védelme érdekében.",
+            "ro": "Faceți o drumeție prin acest ecosistem liniștit și protejat, cunoscut pentru traseele sale pitorești, și rămâneți cu strictețe pe potecile marcate pentru a proteja flora sensibilă.",
+            "en": "Trek through this tranquil and protected ecosystem known for its scenic trails, and stick strictly to the marked paths to protect the sensitive flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch Marano Lagunare, beginnend beim informativen Museo della Laguna und den historischen Festungsmauern. Mittags können Sie das lebhafte Meeresleben im Acquario Lagunare beobachten. Die Nachmittagsbrise führt Sie zum üppigen Valle Canal Novo und zum Spiaggia San Vito. Beenden Sie Ihre Fahrt inmitten der Valli Grotari e Vulcan.",
+        "hu": "Kerékpározzon Marano Lagunare-ban, kezdve az informatív Museo della Laguna-nál és a történelmi erődítményfalaknál. Dél körül tekintse meg az Acquario Lagunare élénk tengeri élővilágát. A délutáni szellő a buja Valle Canal Novo és a békés Spiaggia San Vito felé vezeti. Fejezze be útját a Valli Grotari e Vulcan rezervátum természeti szépségei között.",
+        "ro": "Pedalați prin Marano Lagunare începând de la Museo della Laguna și zidurile cetății. În jurul prânzului, verificați viața marină de la Acquario Lagunare. Briza de după-amiază vă va ghida către luxurianta Valle Canal Novo și liniștita Spiaggia San Vito. Terminați-vă plimbarea în mijlocul frumuseții naturale din rezervația Valli Grotari e Vulcan.",
+        "en": "Pedal through Marano Lagunare starting at the informative Museo della Laguna and the historic fortress walls. Around midday, check out the vibrant marine life at Acquario Lagunare. The afternoon breeze will guide you to the lush Valle Canal Novo and the peaceful Spiaggia San Vito. Finish your ride amidst the natural beauty of the Valli Grotari e Vulcan reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Laguna",
+            "hu": "Museo della Laguna",
+            "ro": "Museo della Laguna",
+            "en": "Museo della Laguna"
+          },
+          "coords": [
+            13.167429,
+            45.764865
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Lagunengemeinde und schauen Sie sich unbedingt die interaktiven Ausstellungen zu traditionellen Fangtechniken an.",
+            "hu": "Fedezze fel a lagúnai közösség gazdag tengerészeti történelmét, és feltétlenül tekintse meg a hagyományos halászati technikákat bemutató interaktív kiállításokat.",
+            "ro": "Descoperiți istoria maritimă bogată a comunității lagunare și asigurați-vă că verificați exponatele interactive despre tehnicile tradiționale de pescuit.",
+            "en": "Discover the rich maritime history of the lagoon community and make sure to check the interactive exhibits on traditional fishing techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Patera bizantina",
+            "hu": "Patera bizantina",
+            "ro": "Patera bizantina",
+            "en": "Patera bizantina"
+          },
+          "coords": [
+            13.166586,
+            45.763713
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses atemberaubende byzantinische Relief, das in die lokale Architektur eingebettet ist, aber bringen Sie ein Zoomobjektiv mit, um die Details von der Straße aus zu fotografieren.",
+            "hu": "Csodálja meg a helyi építészetbe ágyazott lenyűgöző bizánci domborművet, de hozzon magával teleobjektívet, hogy az utcaszintről is tisztán megörökíthesse a bonyolult részleteket.",
+            "ro": "Admirați acest relief bizantin uimitor încorporat în arhitectura locală, dar aduceți un teleobiectiv pentru a surprinde clar detaliile sale complexe de la nivelul străzii.",
+            "en": "Admire this stunning Byzantine relief embedded in the local architecture, but bring a zoom lens to capture its intricate details clearly from the street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva naturale regionale della Valle Canal Novo",
+            "hu": "Riserva naturale regionale della Valle Canal Novo",
+            "ro": "Riserva naturale regionale della Valle Canal Novo",
+            "en": "Riserva naturale regionale della Valle Canal Novo"
+          },
+          "coords": [
+            13.153698,
+            45.760589
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in dieses unberührte, vogelfreundliche Naturschutzgebiet und denken Sie daran, Insektenschutzmittel einzupacken, da Mücken in der Nähe der Feuchtgebiete aktiv sein können.",
+            "hu": "Merüljön el ebben az érintetlen, madárvilágban gazdag természetvédelmi területen, és ne felejtsen el rovarriasztót csomagolni, mivel a vizes élőhelyek közelében aktívak lehetnek a szúnyogok.",
+            "ro": "Cufundați-vă în această rezervație naturală curată, plină de păsări, și nu uitați să luați un repelent de insecte, deoarece țânțarii pot fi destul de activi în apropierea zonelor umede.",
+            "en": "Immerse yourself in this pristine natural reserve teeming with birdlife, and remember to pack insect repellent as mosquitoes can be active near the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia San Vito",
+            "hu": "Spiaggia San Vito",
+            "ro": "Spiaggia San Vito",
+            "en": "Spiaggia San Vito"
+          },
+          "coords": [
+            13.164857,
+            45.756303
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern dieses lokalen Strandes, aber seien Sie sich bewusst, dass die Einrichtungen begrenzt sind, sodass es sehr empfehlenswert ist, eigenes Wasser und Snacks mitzubringen.",
+            "hu": "Pihenjen ennek a helyi strandnak a békés partjain, de vegye figyelembe, hogy a létesítmények korlátozottak, ezért erősen ajánlott saját vizet és rágcsálnivalót hozni.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestei plaje locale, dar fiți conștienți că facilitățile sunt limitate, așa că vă recomandăm cu căldură să aduceți propriile apă și gustări.",
+            "en": "Relax on the peaceful shores of this local beach, but be aware that facilities are limited so bringing your own water and snacks is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+            "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+          },
+          "coords": [
+            13.175626,
+            45.76376
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses ruhige und geschützte Ökosystem, das für seine malerischen Pfade bekannt ist, und bleiben Sie strikt auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Túrázzon ezen a festői ösvényeiről ismert, nyugodt és védett ökoszisztémán keresztül, és szigorúan ragaszkodjon a kijelölt utakhoz az érzékeny növényvilág védelme érdekében.",
+            "ro": "Faceți o drumeție prin acest ecosistem liniștit și protejat, cunoscut pentru traseele sale pitorești, și rămâneți cu strictețe pe potecile marcate pentru a proteja flora sensibilă.",
+            "en": "Trek through this tranquil and protected ecosystem known for its scenic trails, and stick strictly to the marked paths to protect the sensitive flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Marano Lagunare, um die Geschichte im lokalen Museum und an der Patera bizantina zu entdecken. Nach einer kurzen Fahrt können Sie mittags das atemberaubende Naturschutzgebiet Valle Canal Novo erkunden. Parken Sie nachmittags am Spiaggia San Vito für eine Pause. Fahren Sie schließlich hinaus, um das unberührte Reservat Valli Grotari e Vulcan zu bewundern.",
+        "hu": "Vezessen Marano Lagunare-ba, hogy feltárja annak történelmét a helyi múzeumban és a közeli Patera bizantina-nál. Egy rövid út után töltse a delet a lélegzetelállító Valle Canal Novo természetvédelmi terület felfedezésével. Délután parkoljon le a Spiaggia San Vito közelében egy tengerparti pihenésre. Végül hajtson ki, hogy megcsodálja az érintetlen Valli Grotari e Vulcan rezervátumot.",
+        "ro": "Conduceți în Marano Lagunare pentru a descoperi istoria la muzeul local și Patera bizantina. După o scurtă călătorie, petreceți prânzul explorând rezervația uimitoare Valle Canal Novo. După-amiaza, parcați lângă Spiaggia San Vito pentru o pauză. În cele din urmă, conduceți pentru a admira rezervația imaculată Valli Grotari e Vulcan.",
+        "en": "Drive into Marano Lagunare to unearth its history at the local museum and the nearby Patera bizantina. After a convenient short trip, spend midday exploring the breathtaking Valle Canal Novo nature reserve. In the afternoon, park near Spiaggia San Vito for a coastal break. Finally, drive out to marvel at the pristine Valli Grotari e Vulcan reserve."
+      }
+    }
+  }
+}

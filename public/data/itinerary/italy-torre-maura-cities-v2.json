@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-torre-maura-cities-v2",
+  "anchor": {
+    "name": "Torre Maura",
+    "coords": [
+      12.5903,
+      41.8555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Stanislao",
+            "hu": "Chiesa di San Stanislao",
+            "ro": "Chiesa di San Stanislao",
+            "en": "Chiesa di San Stanislao"
+          },
+          "coords": [
+            12.579281,
+            41.856759
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geometrische moderne römische Kirche der Gemeinde und treten Sie am späten Vormittag ein, um die bemerkenswert friedliche und ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt az egyedi geometriájú modern római templomot, és lépjen be a csendes késő délelőtti órákban, hogy élvezze annak figyelemre méltóan békés és nyugodt atmoszféráját.",
+            "ro": "Descoperiți această biserică romană modernă cu o geometrie unică și pășiți înăuntru în orele liniștite ale dimineții târzii pentru a vă bucura de o atmosferă remarcabil de pașnică.",
+            "en": "Discover this uniquely geometric modern Roman church that serves the local community, and step inside during the quiet late morning hours to enjoy its remarkably peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Domenica Mazzarello",
+            "hu": "Chiesa di Santa Maria Domenica Mazzarello",
+            "ro": "Chiesa di Santa Maria Domenica Mazzarello",
+            "en": "Chiesa di Santa Maria Domenica Mazzarello"
+          },
+          "coords": [
+            12.576793,
+            41.860158
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante zeitgenössische Kirche, die die moderne Seele des Viertels prägt, und setzen Sie sich ruhig hinein, um die einzigartige Akustik voll und ganz zu schätzen.",
+            "hu": "Fedezze fel ezt a feltűnő kortárs templomot, amely a környék modern lelkét adja, és üljön le csendben, hogy teljes mértékben értékelni tudja annak egyedülálló akusztikai környezetét.",
+            "ro": "Explorați această biserică contemporană impresionantă care definește sufletul modern al cartierului și așezați-vă în liniște pentru a aprecia pe deplin acustica sa unică și relaxantă.",
+            "en": "Explore this striking contemporary church defining the neighborhood's modern soul, and take a moment to sit quietly inside to fully appreciate its uniquely peaceful acoustic environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Regina Mundi",
+            "hu": "Chiesa di Santa Maria Regina Mundi",
+            "ro": "Chiesa di Santa Maria Regina Mundi",
+            "en": "Chiesa di Santa Maria Regina Mundi"
+          },
+          "coords": [
+            12.581459,
+            41.865906
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante moderne Heiligtum mit seinem weiten Kirchenschiff und achten Sie auf das schwarze Brett für lokale Veranstaltungen in den angrenzenden Gemeinderäumen.",
+            "hu": "Látogasson el ebbe a széles főhajójáról ismert modern szentélybe, és ne felejtse el megnézni a hirdetőtáblát a szomszédos plébániatermekben tartott helyi közösségi események miatt.",
+            "ro": "Vizitați acest sanctuar modern proeminent cunoscut pentru naosul său larg și primitor și nu uitați să verificați panoul de avize pentru evenimentele comunității locale din parohie.",
+            "en": "Visit this prominent modern sanctuary known for its wide and welcoming nave, and remember to check the notice board for local community events often held in the adjacent parish halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro presso Piazza Sor Capanna",
+            "hu": "Sepolcro presso Piazza Sor Capanna",
+            "ro": "Sepolcro presso Piazza Sor Capanna",
+            "en": "Sepolcro presso Piazza Sor Capanna"
+          },
+          "coords": [
+            12.577985,
+            41.871642
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses gut erhaltene antike römische Grab auf einem modernen Platz und bringen Sie ein Weitwinkelobjektiv mit, um den visuellen Kontrast von Alt und Neu einzufangen.",
+            "hu": "Csodálja meg ezt a meglepően egy modern téren elhelyezkedő ókori római sírt, és hozzon magával széles látószögű objektívet, hogy megörökítse a régi és az új feltűnő vizuális kontrasztját.",
+            "ro": "Minunați-vă de acest mormânt roman antic bine conservat ascuns într-o piață modernă și aduceți un aparat foto cu obiectiv larg pentru a surprinde contrastul izbitor dintre vechi și nou.",
+            "en": "Marvel at this well-preserved ancient Roman tomb nestled surprisingly within a modern square, and bring a camera with a wide lens to capture the striking visual contrast of old and new."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giustino",
+            "hu": "Chiesa di San Giustino",
+            "ro": "Chiesa di San Giustino",
+            "en": "Chiesa di San Giustino"
+          },
+          "coords": [
+            12.580366,
+            41.873891
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser großen Vorstadtkirche mit eleganten zeitgenössischen Fresken und kommen Sie vor dem Abendgottesdienst an, um den beleuchteten Altar zu genießen.",
+            "hu": "Zárja a napot ebben az elegáns kortárs freskókkal díszített nagy külvárosi templomban, és próbáljon meg az esti istentisztelet előtt érkezni, hogy élvezze a kivilágított modern oltárt.",
+            "ro": "Încheiați-vă ziua la această biserică mare de la periferie, cu fresce contemporane elegante, și încercați să sosiți înainte de slujba de seară pentru a admira altarul modern iluminat.",
+            "en": "End your day at this large suburban church featuring elegant contemporary frescoes, and try arriving before the evening service begins to enjoy the beautifully illuminated modern altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Torre Spaccata und erkunden Sie moderne Kirchen wie San Stanislao, die den Gemeinschaftsgeist dieses Vororts prägen. Gegen Mittag weicht die moderne Architektur faszinierenden antiken Ruinen, die sich in belebten Vierteln verstecken. Am Nachmittag werden Sie das gut erhaltene antike Grab von Sor Capanna zwischen Wohnblöcken bewundern. Beenden Sie den gemütlichen Spaziergang an der majestätischen Kirche San Giustino und reflektieren Sie über die einzigartige Mischung aus antiker Geschichte und Vorstadtentwicklung.",
+        "hu": "Kezdje a reggelt Torre Spaccata negyedben, felfedezve a San Stanislao modern templomát, amely meghatározza a külváros közösségi szellemét. Délben a modern építészetet felváltják a nyüzsgő tereken megbúvó lenyűgöző ókori romok. Délután megcsodálhatja a lakótömbök között megbúvó, kiválóan állapotban fennmaradt ókori Sor Capanna síremléket. Zárja a napot a fenséges San Giustino templomnál, elmélkedve az ókori történelem és a külvárosi terjeszkedés egyedülálló keverékén, amely e környék sajátos karakterét adja.",
+        "ro": "Începeți dimineața plimbându-vă prin Torre Spaccata, explorând biserici moderne precum San Stanislao care definesc spiritul acestui cartier. La prânz, arhitectura religioasă lasă loc ruinelor antice fascinante ascunse în piețele aglomerate. După-amiaza, veți admira mormântul antic Sor Capanna, frumos conservat și amplasat printre blocuri. Încheiați plimbarea la maiestuoasa biserică San Giustino, reflectând asupra amestecului unic de istorie străveche și dezvoltare modernă care dă un farmec aparte acestei zone.",
+        "en": "Begin your morning wandering through Torre Spaccata, exploring modern churches like San Stanislao that define this Roman suburb's community spirit. By midday, modern religious architecture gives way to fascinating ancient ruins hidden right inside bustling neighborhood squares. In the afternoon, you will marvel at the well-preserved ancient tomb of Sor Capanna nestled among apartment blocks. Conclude the day's gentle walk at the majestic San Giustino, reflecting on the unique blend of ancient history and mid-century suburban expansion that gives this area its character."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa dei Sette Bassi",
+            "hu": "Villa dei Sette Bassi",
+            "ro": "Villa dei Sette Bassi",
+            "en": "Villa dei Sette Bassi"
+          },
+          "coords": [
+            12.576459,
+            41.843912
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Ruinen dieser riesigen antiken römischen Villa auf den grünen Feldern und tragen Sie feste Wanderschuhe, da die archäologischen Wege sehr staubig sind.",
+            "hu": "Fedezze fel ennek a zöld mezőkön elterülő hatalmas ókori római villakomplexumnak a romjait, és viseljen masszív túracipőt, mivel az egyenetlen régészeti ösvények meglehetősen porosak.",
+            "ro": "Explorați ruinele întinse ale acestui complex masiv de vile romane antice de pe câmpurile verzi și purtați pantofi rezistenți, deoarece cărările arheologice pot fi destul de prăfuite.",
+            "en": "Explore the sweeping ruins of this massive ancient Roman villa complex out in the green fields, and wear sturdy walking shoes since the uneven archaeological paths can be quite dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempietto nella",
+            "hu": "Tempietto nella",
+            "ro": "Tempietto nella",
+            "en": "Tempietto nella"
+          },
+          "coords": [
+            12.577699,
+            41.844361
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inspizieren Sie dieses weniger bekannte antike römische Schreinfragment im Grünen und besuchen Sie es in der hellen Mittagssonne für das absolut beste Licht zum Fotografieren der Steine.",
+            "hu": "Vizsgálja meg ezt a zöldellő környezetben csendesen álló, kevésbé ismert ókori római szentélytöredéket, és látogasson el ide fényes délidőben, hogy a legjobb fényben fotózhassa a köveket.",
+            "ro": "Inspectați acest fragment de altar roman antic mai puțin cunoscut din mijlocul verdeții și vizitați-l în timpul prânzului însorit pentru cea mai bună lumină de fotografiat pietrele.",
+            "en": "Inspect this lesser-known ancient Roman shrine fragment standing quietly among the greenery, and visit during the bright midday sun for the absolute best lighting to photograph the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "hu": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "ro": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "en": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema"
+          },
+          "coords": [
+            12.573499,
+            41.850562
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven audiovisuellen Museum in die Geschichte des italienischen Kinos ein und planen Sie unbedingt zwei Stunden für alle multimedialen Ausstellungen ein.",
+            "hu": "Merüljön el az olasz mozi történetében ebben az interaktív audiovizuális múzeumban, és mindenképpen szánjon rá legalább két teljes órát, hogy megfelelően élvezhesse a kiállításokat.",
+            "ro": "Scufundați-vă în istoria cinematografiei italiene la acest muzeu audiovizual interactiv și alocați cu siguranță cel puțin două ore întregi pentru a experimenta expozițiile multimedia.",
+            "en": "Dive into the history of Italian cinema at this highly interactive audiovisual museum, and definitely allocate at least two full hours to properly experience all the multimedia exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Stanislao",
+            "hu": "Chiesa di San Stanislao",
+            "ro": "Chiesa di San Stanislao",
+            "en": "Chiesa di San Stanislao"
+          },
+          "coords": [
+            12.579281,
+            41.856759
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geometrische moderne römische Kirche der Gemeinde und treten Sie am späten Vormittag ein, um die bemerkenswert friedliche und ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt az egyedi geometriájú modern római templomot, és lépjen be a csendes késő délelőtti órákban, hogy élvezze annak figyelemre méltóan békés és nyugodt atmoszféráját.",
+            "ro": "Descoperiți această biserică romană modernă cu o geometrie unică și pășiți înăuntru în orele liniștite ale dimineții târzii pentru a vă bucura de o atmosferă remarcabil de pașnică.",
+            "en": "Discover this uniquely geometric modern Roman church that serves the local community, and step inside during the quiet late morning hours to enjoy its remarkably peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Domenica Mazzarello",
+            "hu": "Chiesa di Santa Maria Domenica Mazzarello",
+            "ro": "Chiesa di Santa Maria Domenica Mazzarello",
+            "en": "Chiesa di Santa Maria Domenica Mazzarello"
+          },
+          "coords": [
+            12.576793,
+            41.860158
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante zeitgenössische Kirche, die die moderne Seele des Viertels prägt, und setzen Sie sich ruhig hinein, um die einzigartige Akustik voll und ganz zu schätzen.",
+            "hu": "Fedezze fel ezt a feltűnő kortárs templomot, amely a környék modern lelkét adja, és üljön le csendben, hogy teljes mértékben értékelni tudja annak egyedülálló akusztikai környezetét.",
+            "ro": "Explorați această biserică contemporană impresionantă care definește sufletul modern al cartierului și așezați-vă în liniște pentru a aprecia pe deplin acustica sa unică și relaxantă.",
+            "en": "Explore this striking contemporary church defining the neighborhood's modern soul, and take a moment to sit quietly inside to fully appreciate its uniquely peaceful acoustic environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bonaventura da Bagnoregio",
+            "hu": "Chiesa di San Bonaventura da Bagnoregio",
+            "ro": "Chiesa di San Bonaventura da Bagnoregio",
+            "en": "Chiesa di San Bonaventura da Bagnoregio"
+          },
+          "coords": [
+            12.57235,
+            41.869663
+          ],
+          "category": "religious",
+          "arrive_at": "15:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmant einfache Nachbarschaftspfarrei, die die lokale Gemeinde verankert, und ruhen Sie sich kurz auf den schattigen Bänken im Vorhof aus, bevor Sie weiterfahren.",
+            "hu": "Fedezze fel ezt a bájosan egyszerű plébániát, amely a helyi közösség központja, és tartson egy rövid pihenőt az udvaron lévő árnyékos padokon, mielőtt folytatná a kerékpáros túráját.",
+            "ro": "Descoperiți această parohie de cartier fermecător de simplă care ancorează comunitatea locală și odihniți-vă puțin pe băncile umbrite din curtea din față înainte de a vă continua drumul.",
+            "en": "Discover this charmingly simple neighborhood parish that anchors the local community, and take a brief rest on the shaded benches in the front courtyard before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro presso Piazza Sor Capanna",
+            "hu": "Sepolcro presso Piazza Sor Capanna",
+            "ro": "Sepolcro presso Piazza Sor Capanna",
+            "en": "Sepolcro presso Piazza Sor Capanna"
+          },
+          "coords": [
+            12.577985,
+            41.871642
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses gut erhaltene antike römische Grab auf einem modernen Platz und bringen Sie ein Weitwinkelobjektiv mit, um den visuellen Kontrast von Alt und Neu einzufangen.",
+            "hu": "Csodálja meg ezt a meglepően egy modern téren elhelyezkedő ókori római sírt, és hozzon magával széles látószögű objektívet, hogy megörökítse a régi és az új feltűnő vizuális kontrasztját.",
+            "ro": "Minunați-vă de acest mormânt roman antic bine conservat ascuns într-o piață modernă și aduceți un aparat foto cu obiectiv larg pentru a surprinde contrastul izbitor dintre vechi și nou.",
+            "en": "Marvel at this well-preserved ancient Roman tomb nestled surprisingly within a modern square, and bring a camera with a wide lens to capture the striking visual contrast of old and new."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an den Ruinen der Villa dei Sette Bassi und genießen Sie die Morgenbrise. Gegen Mittag bieten die immersiven Ausstellungen im MIAC eine perfekte kulturelle Pause. Ihre Reise am Nachmittag schlängelt sich durch ruhige Wohnstraßen und macht Halt an charmanten lokalen Pfarreien. Die Fahrt endet am Grab von Sor Capanna, das eine Brücke zwischen Antike und Moderne schlägt.",
+        "hu": "Kezdje kerékpáros kalandját a Villa dei Sette Bassi hatalmas romjainál, élvezve a reggeli szellőt. Dél körül a MIAC magával ragadó kiállításai tökéletes kulturális szünetet kínálnak. Délutáni útja csendes lakóutcákon kanyarog, megállva a helyi bájos plébániáknál. Az utazás a figyelemre méltó Sor Capanna sírnál ér véget, amely a római ókor és a modern élet közötti feltűnő kontraszttal jutalmazza meg.",
+        "ro": "Începeți aventura pe bicicletă la ruinele Villa dei Sette Bassi, bucurându-vă de briza dimineții. Spre prânz, expozițiile captivante de la MIAC oferă o pauză culturală perfectă. Călătoria de după-amiază șerpuiește pe străzi rezidențiale liniștite, oprindu-se la parohii locale fermecătoare. Plimbarea se încheie la mormântul Sor Capanna, oferind un contrast izbitor între antichitate și viața modernă.",
+        "en": "Start your cycling adventure at the sweeping ruins of Villa dei Sette Bassi, enjoying the morning breeze across the ancient archaeological park. As you pedal northward towards midday, the immersive cinematic exhibits at MIAC offer a perfect cultural break from the sun. Your afternoon journey winds through tranquil residential streets, stopping at charming local parishes that anchor the community. The ride concludes at the remarkable Sor Capanna tomb, rewarding your cycling effort with a striking contrast between Roman antiquity and modern daily life."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 9.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Archeologico Lucrezia Romana",
+            "hu": "Parco Archeologico Lucrezia Romana",
+            "ro": "Parco Archeologico Lucrezia Romana",
+            "en": "Parco Archeologico Lucrezia Romana"
+          },
+          "coords": [
+            12.581868,
+            41.835006
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen bemerkenswerten archäologischen Park mit ausgegrabenen römischen Gräbern und holen Sie sich am Eingang eine Karte, um die Bodenmosaike nicht zu verpassen.",
+            "hu": "Sétáljon végig ezen a feltárt római sírokat bemutató régészeti parkon, és ne felejtsen el térképet kérni a bejáratnál, hogy ne hagyja ki a csodálatosan megőrzött padlómozaikokat sem.",
+            "ro": "Plimbați-vă prin acest parc arheologic remarcabil cu morminte romane excavate și nu uitați să luați o hartă la intrare pentru a nu rata mozaicurile minunate de pe podea perfect conservate.",
+            "en": "Wander through this remarkable archaeological park showcasing excavated Roman tombs, and remember to grab a map at the entrance so you do not miss the wonderfully preserved floor mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa delle Vignacce",
+            "hu": "Villa delle Vignacce",
+            "ro": "Villa delle Vignacce",
+            "en": "Villa delle Vignacce"
+          },
+          "coords": [
+            12.576388,
+            41.838901
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Ziegelsteinüberreste dieser massiven antiken Vorstadtvilla und nähern Sie sich vom südlichen Weg, um den dramatischsten Blick auf die hohen Mauern zu erhalten.",
+            "hu": "Csodálja meg ennek a hatalmas ókori külvárosi villakomplexumnak az impozáns tégla maradványait, és feltétlenül a déli ösvény felől közelítse meg, hogy a legdrámaibb kilátást élvezhesse.",
+            "ro": "Admirați rămășițele impunătoare din cărămidă ale acestui complex masiv de vile antice și asigurați-vă că vă apropiați dinspre calea sudică pentru a obține cea mai dramatică vedere a zidurilor.",
+            "en": "Admire the imposing brick remnants of this massive ancient suburban villa complex, and be sure to approach from the south pathway to get the most dramatic view of the towering old walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista all’Osteria del Curato",
+            "hu": "Chiesa di San Giovanni Battista all’Osteria del Curato",
+            "ro": "Chiesa di San Giovanni Battista all’Osteria del Curato",
+            "en": "Chiesa di San Giovanni Battista all’Osteria del Curato"
+          },
+          "coords": [
+            12.582254,
+            41.843609
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Straßenkirche, die seit Generationen müde Reisende willkommen heißt, und bewundern Sie die wunderschön restaurierte traditionelle Fassade zur Hauptstraße hin.",
+            "hu": "Látogasson el ebbe a történelmi út menti templomba, amely generációk óta fogadja a fáradt utazókat, és álljon meg megcsodálni a forgalmas útra néző, gyönyörűen felújított hagyományos homlokzatot.",
+            "ro": "Vizitați această biserică istorică de pe marginea drumului care primește călători obosiți de generații și admirați fațada tradițională frumos restaurată ce dă spre drumul principal aglomerat.",
+            "en": "Visit this historic roadside church that has welcomed weary travelers for generations, and pause to admire the beautifully restored traditional facade facing the busy modern thoroughfare."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro a camera",
+            "hu": "Sepolcro a camera",
+            "ro": "Sepolcro a camera",
+            "en": "Sepolcro a camera"
+          },
+          "coords": [
+            12.56556,
+            41.844836
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses bemerkenswert erhaltene Kammergrab aus der römischen Kaiserzeit ein und bringen Sie eine kleine Taschenlampe mit, um das feine antike Mauerwerk im Inneren zu beleuchten.",
+            "hu": "Lépjen be ebbe a római császárkorból származó, figyelemre méltóan megőrzött kamrasírba, és fontolja meg egy kis zseblámpa hozatalát, hogy jobban megvilágítsa a bonyolult ősi téglafalakat.",
+            "ro": "Pășiți în acest mormânt cu cameră remarcabil de conservat din epoca imperială romană și luați o mică lanternă pentru a ilumina mai bine zidăria antică complicată de cărămidă din interior.",
+            "en": "Step into this remarkably preserved chamber tomb dating back to the Roman imperial era, and consider bringing a small flashlight to better illuminate the intricate ancient brickwork inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giovanni Bosco",
+            "hu": "Basilica di San Giovanni Bosco",
+            "ro": "Basilica di San Giovanni Bosco",
+            "en": "Basilica di San Giovanni Bosco"
+          },
+          "coords": [
+            12.565707,
+            41.85875
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die prächtige Kuppel der Nachkriegszeit und die modernen Mosaike dieser Basilika und gehen Sie genau in die Mitte des Kirchenschiffs, um die innere Symmetrie zu erleben.",
+            "hu": "Tekintse meg ennek a hatalmas bazilikának a csodálatos háború utáni kupoláját és feltűnő modern mozaikjait, és sétáljon el a hatalmas főhajó közepére a hihetetlen belső szimmetria átéléséhez.",
+            "ro": "Priviți cupola magnifică de după război și mozaicurile moderne impresionante ale acestei bazilici și mergeți exact în centrul naosului vast pentru a experimenta simetria interioară incredibilă.",
+            "en": "Behold the magnificent postwar dome and striking modern mosaics of this huge basilica, and walk to the exact center of the vast nave to fully experience its incredible interior symmetry."
+          }
+        },
+        {
+          "name": {
+            "de": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "hu": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "ro": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema",
+            "en": "MIAC - Museo Italiano dell’Audiovisivo e del Cinema"
+          },
+          "coords": [
+            12.573499,
+            41.850562
+          ],
+          "category": "museum",
+          "arrive_at": "15:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven audiovisuellen Museum in die Geschichte des italienischen Kinos ein und planen Sie unbedingt zwei Stunden für alle multimedialen Ausstellungen ein.",
+            "hu": "Merüljön el az olasz mozi történetében ebben az interaktív audiovizuális múzeumban, és mindenképpen szánjon rá legalább két teljes órát, hogy megfelelően élvezhesse a kiállításokat.",
+            "ro": "Scufundați-vă în istoria cinematografiei italiene la acest muzeu audiovizual interactiv și alocați cu siguranță cel puțin două ore întregi pentru a experimenta expozițiile multimedia.",
+            "en": "Dive into the history of Italian cinema at this highly interactive audiovisual museum, and definitely allocate at least two full hours to properly experience all the multimedia exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Regina Mundi",
+            "hu": "Chiesa di Santa Maria Regina Mundi",
+            "ro": "Chiesa di Santa Maria Regina Mundi",
+            "en": "Chiesa di Santa Maria Regina Mundi"
+          },
+          "coords": [
+            12.581459,
+            41.865906
+          ],
+          "category": "religious",
+          "arrive_at": "16:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante moderne Heiligtum mit seinem weiten Kirchenschiff und achten Sie auf das schwarze Brett für lokale Veranstaltungen in den angrenzenden Gemeinderäumen.",
+            "hu": "Látogasson el ebbe a széles főhajójáról ismert modern szentélybe, és ne felejtse el megnézni a hirdetőtáblát a szomszédos plébániatermekben tartott helyi közösségi események miatt.",
+            "ro": "Vizitați acest sanctuar modern proeminent cunoscut pentru naosul său larg și primitor și nu uitați să verificați panoul de avize pentru evenimentele comunității locale din parohie.",
+            "en": "Visit this prominent modern sanctuary known for its wide and welcoming nave, and remember to check the notice board for local community events often held in the adjacent parish halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giustino",
+            "hu": "Chiesa di San Giustino",
+            "ro": "Chiesa di San Giustino",
+            "en": "Chiesa di San Giustino"
+          },
+          "coords": [
+            12.580366,
+            41.873891
+          ],
+          "category": "religious",
+          "arrive_at": "17:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser großen Vorstadtkirche mit eleganten zeitgenössischen Fresken und kommen Sie vor dem Abendgottesdienst an, um den beleuchteten Altar zu genießen.",
+            "hu": "Zárja a napot ebben az elegáns kortárs freskókkal díszített nagy külvárosi templomban, és próbáljon meg az esti istentisztelet előtt érkezni, hogy élvezze a kivilágított modern oltárt.",
+            "ro": "Încheiați-vă ziua la această biserică mare de la periferie, cu fresce contemporane elegante, și încercați să sosiți înainte de slujba de seară pentru a admira altarul modern iluminat.",
+            "en": "End your day at this large suburban church featuring elegant contemporary frescoes, and try arriving before the evening service begins to enjoy the beautifully illuminated modern altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Archäologischen Park Lucrezia Romana, um das Morgenlicht zu genießen, das römische Aquädukte beleuchtet. Gegen Mittag wechseln Sie problemlos zur prächtigen Basilika San Giovanni Bosco. Verbringen Sie Ihren Nachmittag damit, im MIAC in Italiens reiche Filmgeschichte einzutauchen. Beenden Sie Ihre umfassende Tour bei San Giustino und schlagen Sie mühelos die Brücke zwischen römischer Geschichte und moderner Kultur.",
+        "hu": "Vessen egy pillantást a Lucrezia Romana Régészeti Parkra korán, élvezve a reggeli fényeket a római vízvezetékeken. Délben könnyedén átgurulhat a lenyűgöző San Giovanni Bosco Bazilikához. Töltse a délutánját azzal, hogy elmerül Olaszország gazdag filmtörténetében a magával ragadó MIAC múzeumban. Zárja átfogó autós túráját a San Giustino templomnál, erőfeszítés nélkül áthidalva a történelmi és modern kultúra közötti távolságokat.",
+        "ro": "Conduceți devreme către Parcul Arheologic Lucrezia Romana pentru a vă bucura de lumina dimineții iluminând apeductele romane. La prânz, treceți cu ușurință la magnifica Bazilică San Giovanni Bosco. Petreceți-vă după-amiaza descoperind bogata istorie a filmului italian la muzeul audiovizual MIAC. Încheiați-vă turul la biserica San Giustino, legând fără efort istoria profundă romană de cultura cinematică modernă a zonei.",
+        "en": "Drive to the Lucrezia Romana Archaeological Park early to enjoy the morning light illuminating ancient Roman aqueducts and well-preserved villas. By midday, your vehicle allows you to easily cross over to the magnificent Basilica of San Giovanni Bosco, admiring its monumental postwar dome. Spend your afternoon diving into Italy's rich film history at the captivating MIAC audiovisual museum nearby. End your comprehensive driving tour at San Giustino, having effortlessly bridged the vast distances between deep Roman history and modern cinematic culture."
+      }
+    }
+  }
+}

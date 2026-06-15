@@ -1,0 +1,451 @@
+{
+  "city_id": "colima-city-cities-v2",
+  "anchor": {
+    "name": "Colima",
+    "coords": [
+      -103.7249,
+      19.2433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 1.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa del Piano",
+            "hu": "Casa del Piano",
+            "ro": "Casa del Piano",
+            "en": "Casa del Piano"
+          },
+          "coords": [
+            -103.726186,
+            19.245098
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Sammlung historischer Klaviere, die die Musikkultur der Region prägten, und achten Sie besonders auf die feinen Holzarbeiten der ältesten Stücke.",
+            "hu": "Csodálja meg a régió zenei kultúráját formáló történelmi zongorák lenyűgöző gyűjteményét, és figyeljen oda a legrégebbi darabok finom, kézzel faragott fa részleteire is.",
+            "ro": "Admirați colecția impresionantă de piane istorice care a modelat cultura muzicală a regiunii și acordați atenție deosebită detaliilor din lemn sculptat ale celor mai vechi piese.",
+            "en": "Admire the impressive collection of historic pianos that shaped the region's musical culture, and pay special attention to the fine woodwork details on the oldest instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Fernando del Paso",
+            "hu": "Museo Fernando del Paso",
+            "ro": "Museo Fernando del Paso",
+            "en": "Museo Fernando del Paso"
+          },
+          "coords": [
+            -103.725172,
+            19.244093
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das facettenreiche Werk dieses berühmten mexikanischen Künstlers und Schriftstellers, wobei Sie sich Zeit für seine detailreichen, bunten Zeichnungen nehmen sollten.",
+            "hu": "Merüljön el a híres mexikói művész és író sokoldalú munkásságában, és mindenképpen szánjon elegendő időt a rendkívül részletgazdag, lenyűgözően színes rajzok tanulmányozására.",
+            "ro": "Scufundați-vă în opera fascinantă a acestui renumit artist și scriitor mexican, alocând suficient timp pentru a studia desenele sale extrem de detaliate și pline de culoare.",
+            "en": "Dive into the multifaceted work of this renowned Mexican artist and writer, making sure to allocate enough time to fully appreciate his highly detailed, vibrant color drawings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "hu": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "ro": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "en": "Museo de Artes Populares \"María Teresa Pomar\""
+          },
+          "coords": [
+            -103.722103,
+            19.248806
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Vielfalt der lokalen Handwerkskunst, die Mexikos Traditionen widerspiegelt, und suchen Sie unbedingt nach den berühmten Xoloitzcuintle-Tonfiguren.",
+            "hu": "Fedezze fel a helyi kézművesség színes sokszínűségét, amely Mexikó hagyományait tükrözi, és feltétlenül keresse meg a híres Xoloitzcuintle agyagfigurákat a vitrinekben.",
+            "ro": "Descoperiți diversitatea plină de culoare a meșteșugurilor locale care reflectă tradițiile Mexicului și nu uitați să căutați celebrele figurine din lut reprezentând câini Xoloitzcuintle.",
+            "en": "Discover the colorful diversity of local crafts reflecting Mexico's rich traditions, and make sure to look for the famous ancient Xoloitzcuintle clay dog figurines on display."
+          }
+        },
+        {
+          "name": {
+            "de": "El Zalatón de Juárez",
+            "hu": "El Zalatón de Juárez",
+            "ro": "El Zalatón de Juárez",
+            "en": "El Zalatón de Juárez"
+          },
+          "coords": [
+            -103.716055,
+            19.244108
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen gigantischen, historischen Feigenbaum, der an Benito Juárez' Besuch erinnert, und genießen Sie die kühle Nuance des dichten Blätterdachs während der Mittagshitze.",
+            "hu": "Tekintse meg ezt az óriási, történelmi fügefát, amely Benito Juárez látogatásának állít emléket, és élvezze a hatalmas lombkorona hűsítő árnyékát a forró déli órákban.",
+            "ro": "Priviți acest smochin uriaș și istoric care comemorează vizita lui Benito Juárez și bucurați-vă de umbra răcoroasă și relaxantă oferită de coronamentul său dens în timpul prânzului.",
+            "en": "Behold this gigantic, historic fig tree commemorating Benito Juárez's visit to the city, and enjoy the refreshing, cool shade provided by its massive canopy during the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "hu": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "ro": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "en": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\""
+          },
+          "coords": [
+            -103.714381,
+            19.242938
+          ],
+          "category": "museum",
+          "arrive_at": "15:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erforschen Sie die prähispanischen Funde Westmexikos in dieser umfassenden Ausstellung und beginnen Sie Ihren Rundgang im Erdgeschoss, um die Chronologie besser zu verstehen.",
+            "hu": "Fedezze fel Nyugat-Mexikó prehispán leleteit ebben az átfogó kiállításban, és a jobb megértés érdekében mindenképpen a földszinten kezdje meg a történelmi időutazást.",
+            "ro": "Explorați artefactele pre-hispanice din vestul Mexicului în această expoziție vastă și începeți turul la parter pentru a înțelege mai bine și mai ușor cronologia istorică.",
+            "en": "Explore the rich pre-Hispanic artifacts of Western Mexico in this comprehensive exhibition, and be sure to start your tour on the ground floor to better understand the chronology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch der Casa del Piano, um die musikalische Geschichte zu entdecken. Gleich nebenan erwartet Sie das Museo Fernando del Paso mit farbenprächtiger Kunst.\nAm Mittag tauchen Sie im Museo de Artes Populares tief in die faszinierende mexikanische Handwerkskunst ein. Die lebendigen Tonfiguren sind einzigartig.\nNachmittags schlendern Sie zum El Zalatón de Juárez, einem historischen Baum, der angenehmen Schatten spendet.\nDer Abend gehört dem Museo de las Culturas de Occidente, wo Sie den Tag mit spannenden prähispanischen Ausstellungen ausklingen lassen.",
+        "hu": "Kezdje a napot a Casa del Piano zenei kincseinek felfedezésével. Közvetlenül mellette várja a Museo Fernando del Paso vibráló és lenyűgöző művészete.\nDélben merüljön el a mexikói kézművesség világában a Museo de Artes Populares kiállításán, ahol a hagyományos kerámiák mesélnek a múltról.\nDélután tegyen egy pihentető sétát az El Zalatón de Juárez gigantikus és történelmi fügefájának hűsítő árnyékában.\nAz estét a Museo de las Culturas de Occidente zárja, ahol az ősi prehispán leletek nyújtanak tökéletes befejezést a kulturális barangolásnak.",
+        "ro": "Începeți ziua explorând comorile muzicale la Casa del Piano, urmată rapid de arta vibrantă a lui Fernando del Paso la muzeul adiacent.\nLa amiază, admirați meșteșugurile tradiționale uimitoare la Museo de Artes Populares, unde ceramica și arta populară prind viață.\nDupă-amiaza, plimbați-vă spre El Zalatón de Juárez, un copac istoric gigantic, perfect pentru o pauză relaxantă și plină de umbră.\nSeara este dedicată istoriei vechi la Museo de las Culturas de Occidente, încheind turul cu o fascinantă colecție pre-hispanică locală.",
+        "en": "Start your morning by exploring musical history at Casa del Piano. Right next door, immerse yourself in the vibrant and detailed art of the Museo Fernando del Paso.\nMidday calls for a dive into traditional craftsmanship at the Museo de Artes Populares, where colorful clay figurines beautifully showcase local culture.\nIn the afternoon, take a relaxing stroll to El Zalatón de Juárez, a historic fig tree providing welcome shade and a peaceful atmosphere.\nYour evening concludes at the Museo de las Culturas de Occidente, wrapping up the day with fascinating pre-Hispanic artifacts."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 4.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cementerio histórico Las Vívoras",
+            "hu": "Cementerio történelmi Las Vívoras",
+            "ro": "Cementerio istoric Las Vívoras",
+            "en": "Historic Cemetery Las Vívoras"
+          },
+          "coords": [
+            -103.705356,
+            19.244687
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen stimmungsvollen historischen Friedhof mit seinen kunstvollen Gräbern, und tragen Sie bequeme Schuhe, da die alten Steinwege oft etwas uneben sind.",
+            "hu": "Sétáljon végig ezen a hangulatos történelmi temetőn, csodálja meg a díszes sírköveket, és viseljen kényelmes cipőt, mivel a régi kőutak sok helyen meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă prin acest cimitir istoric plin de atmosferă, cu mormintele sale artistice, și purtați neapărat încălțăminte confortabilă, deoarece vechile căi de piatră sunt denivelate.",
+            "en": "Walk through this atmospheric historic cemetery to admire its ornate and artistic tombs, and make sure to wear comfortable shoes as the old stone pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "hu": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "ro": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\"",
+            "en": "Museo de las Culturas de Occidente \"María Ahumada de Gómez\""
+          },
+          "coords": [
+            -103.714381,
+            19.242938
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie die prähispanischen Funde Westmexikos in dieser umfassenden Ausstellung und beginnen Sie Ihren Rundgang im Erdgeschoss, um die Chronologie besser zu verstehen.",
+            "hu": "Fedezze fel Nyugat-Mexikó prehispán leleteit ebben az átfogó kiállításban, és a jobb megértés érdekében mindenképpen a földszinten kezdje meg a történelmi időutazást.",
+            "ro": "Explorați artefactele pre-hispanice din vestul Mexicului în această expoziție vastă și începeți turul la parter pentru a înțelege mai bine și mai ușor cronologia istorică.",
+            "en": "Explore the rich pre-Hispanic artifacts of Western Mexico in this comprehensive exhibition, and be sure to start your tour on the ground floor to better understand the chronology."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Ciencia y Tecnología Xoloitzcuintle",
+            "hu": "Museo de Ciencia y Tecnología Xoloitzcuintle",
+            "ro": "Museo de Ciencia y Tecnología Xoloitzcuintle",
+            "en": "Museo de Ciencia y Tecnología Xoloitzcuintle"
+          },
+          "coords": [
+            -103.714036,
+            19.239548
+          ],
+          "category": "museum",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive wissenschaftliche Exponate, die besonders für Familien spannend sind, und probieren Sie die optischen Täuschungen im ersten Ausstellungsraum unbedingt aus.",
+            "hu": "Próbálja ki az interaktív tudományos kiállításokat, amelyek különösen családok számára izgalmasak, és ne hagyja ki az első teremben található lenyűgöző optikai illúziókat sem.",
+            "ro": "Experimentați exponatele științifice interactive, deosebit de atractive pentru familii, și asigurați-vă că testați iluziile optice fascinante din prima sală de expoziție a muzeului.",
+            "en": "Experience interactive scientific exhibits that are especially thrilling for families, and do not miss out on trying the fascinating optical illusions located in the very first hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a los Niños Héroes",
+            "hu": "Monumento a los Niños Héroes",
+            "ro": "Monumento a los Niños Héroes",
+            "en": "Monumento a los Niños Héroes"
+          },
+          "coords": [
+            -103.716285,
+            19.237326
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bedeutenden Denkmal für die jungen Helden der mexikanischen Geschichte, das sich hervorragend als ruhiger Fotostopp am späten Vormittag anbietet.",
+            "hu": "Álljon meg ennél a fontos emlékműnél, amely a mexikói történelem ifjú hősei előtt tiszteleg, és használja ki a délelőtti csendet egy tökéletes, zavartalan fotó elkészítéséhez.",
+            "ro": "Opriți-vă la acest monument important dedicat tinerilor eroi din istoria mexicană, un loc care se dovedește excelent pentru o scurtă oprire fotografică liniștită la sfârșitul dimineții.",
+            "en": "Pause at this significant monument dedicated to the young heroes of Mexican history, which serves as an excellent, quiet photo stop during the pleasant late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rey de Colimán",
+            "hu": "Rey de Colimán",
+            "ro": "Rey de Colimán",
+            "en": "Rey de Colimán"
+          },
+          "coords": [
+            -103.723242,
+            19.23056
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese ikonische Statue, die das indigene Erbe von Colima kraftvoll symbolisiert, und nutzen Sie den Kreisverkehr vorsichtig, um den besten Winkel für Fotos zu finden.",
+            "hu": "Tekintse meg ezt az ikonikus szobrot, amely Colima őslakos örökségét szimbolizálja, és óvatosan közelítse meg a forgalmas körforgalmat, hogy megtalálja a legjobb fotózási szöget.",
+            "ro": "Priviți această statuie iconică care simbolizează puternic moștenirea indigenă a orașului Colima și navigați cu atenție prin sensul giratoriu pentru a găsi cel mai bun unghi foto.",
+            "en": "Behold this iconic statue powerfully symbolizing the indigenous heritage of Colima, and carefully navigate the busy roundabout to safely capture the absolute best angle for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Fernando del Paso",
+            "hu": "Museo Fernando del Paso",
+            "ro": "Museo Fernando del Paso",
+            "en": "Museo Fernando del Paso"
+          },
+          "coords": [
+            -103.725172,
+            19.244093
+          ],
+          "category": "museum",
+          "arrive_at": "16:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das facettenreiche Werk dieses berühmten mexikanischen Künstlers und Schriftstellers, wobei Sie sich Zeit für seine detailreichen, bunten Zeichnungen nehmen sollten.",
+            "hu": "Merüljön el a híres mexikói művész és író sokoldalú munkásságában, és mindenképpen szánjon elegendő időt a rendkívül részletgazdag, lenyűgözően színes rajzok tanulmányozására.",
+            "ro": "Scufundați-vă în opera fascinantă a acestui renumit artist și scriitor mexican, alocând suficient timp pentru a studia desenele sale extrem de detaliate și pline de culoare.",
+            "en": "Dive into the multifaceted work of this renowned Mexican artist and writer, making sure to allocate enough time to fully appreciate his highly detailed, vibrant color drawings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens im historischen Friedhof Las Vívoras, der mit seinen alten Gräbern eine ruhige und geheimnisvolle Atmosphäre bietet.\nGegen Mittag radeln Sie zum Museo de las Culturas de Occidente, gefolgt vom Wissenschaftsmuseum Xoloitzcuintle, das interaktiven Spaß garantiert.\nAm Nachmittag passieren Sie das eindrucksvolle Monumento a los Niños Héroes und die imposante Statue Rey de Colimán, perfekte Fotomotive.\nDer Abend endet entspannt im Museo Fernando del Paso, wo Sie beeindruckende moderne mexikanische Kunst in aller Ruhe bewundern können.",
+        "hu": "Kezdje a reggelt a Las Vívoras történelmi temetőben, amelynek régi sírjai nyugodt és egyben igazán titokzatos atmoszférát árasztanak.\nDélben tekerjen el a Museo de las Culturas de Occidente épületéhez, majd fedezze fel a Xoloitzcuintle tudományos múzeum izgalmas tárlatát.\nDélután elhalad a Niños Héroes emlékmű és a lenyűgöző Rey de Colimán szobor mellett, mindkettő kiváló és ikonikus fotótéma.\nAz este a Museo Fernando del Paso falai között zárul, ahol a modern mexikói művészet részletgazdag alkotásaiban gyönyörködhet.",
+        "ro": "Începeți dimineața în cimitirul istoric Las Vívoras, unde mormintele vechi oferă o atmosferă incredibil de liniștită și misterioasă.\nLa amiază, pedalați spre Museo de las Culturas de Occidente, urmat de o vizită interactivă la muzeul de știință Xoloitzcuintle.\nDupă-amiaza, admirați impresionantul monument dedicat tinerilor eroi și statuia Rey de Colimán, locuri perfecte pentru fotografii.\nSeara se încheie relaxant la Museo Fernando del Paso, admirând capodoperele artei moderne mexicane într-o liniște desăvârșită.",
+        "en": "Begin your morning at the historic Las Vívoras cemetery, where the old tombs create a uniquely peaceful and slightly mysterious atmosphere.\nBy midday, pedal your way to the Museo de las Culturas de Occidente, followed by engaging, interactive fun at the Xoloitzcuintle science museum.\nIn the afternoon, ride past the imposing monument to the young heroes and the iconic Rey de Colimán statue, perfect spots for photography.\nWrap up your evening at the Museo Fernando del Paso, admiring stunning modern Mexican art and beautifully intricate colorful drawings."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zona Arqueológica \"El Chanal\"",
+            "hu": "Zona Arqueológica \"El Chanal\"",
+            "ro": "Zona Arqueológica \"El Chanal\"",
+            "en": "Zona Arqueológica \"El Chanal\""
+          },
+          "coords": [
+            -103.705467,
+            19.292557
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser einst bedeutenden prähispanischen Metropole und kommen Sie am besten früh morgens, um der starken mexikanischen Mittagssonne zu entgehen.",
+            "hu": "Fedezze fel ennek az egykor jelentős prehispán metropolisznak a lenyűgöző romjait, és érkezzen minél korábban, hogy kényelmesen elkerülje az erős és forró mexikói déli napsütést.",
+            "ro": "Descoperiți ruinele fascinante ale acestei metropole pre-hispanice cândva importante și ajungeți cât mai devreme dimineața pentru a evita cu succes soarele puternic de la amiază.",
+            "en": "Discover the fascinating ruins of this once-important pre-Hispanic metropolis, and be sure to arrive early in the morning to completely avoid the strong and exhausting midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras Valle Verde",
+            "hu": "Letras Valle Verde",
+            "ro": "Letras Valle Verde",
+            "en": "Letras Valle Verde"
+          },
+          "coords": [
+            -103.7051,
+            19.286251
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Knipsen Sie ein klassisches Erinnerungsfoto bei den bunten Buchstaben der Stadt, wobei sich das weiche Licht am Vormittag am besten für strahlende Farben und gute Kontraste eignet.",
+            "hu": "Készítsen egy klasszikus emlékfotót a város színes betűinél, amihez a délelőtti lágy fény a legalkalmasabb a ragyogó színek és a tökéletes kontrasztok megörökítése érdekében.",
+            "ro": "Faceți o fotografie clasică de suvenir cu literele colorate ale orașului, profitând de lumina blândă a dimineții care evidențiază culorile vibrante și contrastele excelente.",
+            "en": "Snap a classic souvenir photo at the colorful letters of the city, taking advantage of the soft morning light that perfectly highlights the bright colors and provides great contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Sendera",
+            "hu": "Anfiteatro Sendera",
+            "ro": "Anfiteatro Sendera",
+            "en": "Anfiteatro Sendera"
+          },
+          "coords": [
+            -103.718208,
+            19.276417
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses moderne Kulturzentrum, das oft für beeindruckende lokale Aufführungen genutzt wird, und prüfen Sie vorab das Programm auf mögliche kostenlose Vorstellungen.",
+            "hu": "Tekintse meg ezt a modern kulturális központot, amely gyakran ad otthont helyi előadásoknak, és indulás előtt mindenképpen ellenőrizze az esetleges ingyenes műsorok pontos listáját.",
+            "ro": "Vizitați acest centru cultural modern, folosit adesea pentru spectacole locale impresionante, și verificați din timp programul pentru a găsi posibile reprezentații complet gratuite.",
+            "en": "Visit this modern cultural amphitheater frequently used for impressive local performances, and always check the schedule beforehand to catch any exciting free shows taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "La Campana Archaeological Site",
+            "hu": "La Campana Archaeological Site",
+            "ro": "La Campana Archaeological Site",
+            "en": "La Campana Archaeological Site"
+          },
+          "coords": [
+            -103.725745,
+            19.268186
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartigen runden Pyramiden dieser archäologischen Stätte in Westmexiko, und nehmen Sie unbedingt ausreichend Wasser mit, da es hier nur wenig Schatten gibt.",
+            "hu": "Fedezze fel Nyugat-Mexikó ezen régészeti lelőhelyének egyedülálló, kerek piramisait, és feltétlenül vigyen magával elegendő vizet, mivel a területen csak nagyon kevés árnyék található.",
+            "ro": "Explorați piramidele rotunde unice ale acestui sit arheologic din vestul Mexicului și aduceți neapărat multă apă cu dumneavoastră, deoarece există foarte puțină umbră pe traseu.",
+            "en": "Explore the totally unique round pyramids at this important Western Mexican archaeological site, and definitely bring plenty of water with you since shade is very limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Alberto Isaac",
+            "hu": "Museo Alberto Isaac",
+            "ro": "Museo Alberto Isaac",
+            "en": "Museo Alberto Isaac"
+          },
+          "coords": [
+            -103.709279,
+            19.277043
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kreativen Kunstwerke und Karikaturen dieses berühmten lokalen Künstlers, und achten Sie besonders auf seine humorvollen Darstellungen des mexikanischen Alltagslebens.",
+            "hu": "Csodálja meg ennek a híres helyi művésznek a kreatív alkotásait és karikatúráit, különös tekintettel a mexikói mindennapi életet bemutató, nagyon is humoros ábrázolásaira a falakon.",
+            "ro": "Admirați operele de artă creative și caricaturile acestui faimos artist local, acordând o atenție deosebită reprezentărilor sale pline de umor ale vieții de zi cu zi din Mexic.",
+            "en": "Admire the creative artworks and caricatures by this famous local artist, paying special attention to his deeply humorous depictions of everyday Mexican life on display here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "hu": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "ro": "Museo de Artes Populares \"María Teresa Pomar\"",
+            "en": "Museo de Artes Populares \"María Teresa Pomar\""
+          },
+          "coords": [
+            -103.722103,
+            19.248806
+          ],
+          "category": "museum",
+          "arrive_at": "16:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Vielfalt der lokalen Handwerkskunst, die Mexikos Traditionen widerspiegelt, und suchen Sie unbedingt nach den berühmten Xoloitzcuintle-Tonfiguren.",
+            "hu": "Fedezze fel a helyi kézművesség színes sokszínűségét, amely Mexikó hagyományait tükrözi, és feltétlenül keresse meg a híres Xoloitzcuintle agyagfigurákat a vitrinekben.",
+            "ro": "Descoperiți diversitatea plină de culoare a meșteșugurilor locale care reflectă tradițiile Mexicului și nu uitați să căutați celebrele figurine din lut reprezentând câini Xoloitzcuintle.",
+            "en": "Discover the colorful diversity of local crafts reflecting Mexico's rich traditions, and make sure to look for the famous ancient Xoloitzcuintle clay dog figurines on display."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet tief im Norden bei den prähispanischen Ruinen von El Chanal, ideal um die Geschichte vor der großen Hitze zu erleben.\nGegen Mittag machen Sie ein Foto bei den Letras Valle Verde und besuchen das moderne Anfiteatro Sendera, um die Kultur der Region zu spüren.\nNachmittags erkunden Sie die runden Pyramiden von La Campana, bevor Sie im Museo Alberto Isaac die kreativen Karikaturen bewundern.\nAm frühen Abend fahren Sie ins Zentrum zum Museo de Artes Populares, um den Tag mit farbenprächtiger lokaler Handwerkskunst abzuschließen.",
+        "hu": "A reggel messze északon indul az El Chanal prehispán romjainál, amely tökéletes hely a történelem felfedezésére még a déli hőség előtt.\nDélben készítsen egy fotót a Letras Valle Verde színes betűinél, majd látogasson el a Sendera amfiteátrumba a helyi kultúra megismeréséhez.\nDélután fedezze fel a La Campana kerek piramisait, mielőtt megcsodálná a Museo Alberto Isaac kreatív és humoros karikatúráit.\nKora este hajtson be a központba, hogy a napot a Museo de Artes Populares színpompás mexikói kézműves alkotásai között zárja le.",
+        "ro": "Dimineața începe în nord, la ruinele pre-hispanice El Chanal, locul ideal pentru a explora istoria veche înainte de căldura amiezii.\nLa prânz, faceți o poză la Letras Valle Verde și vizitați amfiteatrul modern Sendera pentru a simți cu adevărat pulsul culturii locale.\nDupă-amiaza explorați piramidele rotunde de la La Campana, urmate de caricaturile geniale și artistice de la Museo Alberto Isaac.\nSeara devreme, conduceți spre centru pentru a încheia ziua printre meșteșugurile tradiționale uimitoare de la Museo de Artes Populares.",
+        "en": "Morning begins far north at the pre-Hispanic ruins of El Chanal, the ideal spot to explore ancient history before the intense midday heat.\nAround midday, grab a photo at the Letras Valle Verde and stop by the modern Anfiteatro Sendera to feel the pulse of regional culture.\nIn the afternoon, explore the unique round pyramids of La Campana before enjoying the creative caricatures at Museo Alberto Isaac.\nBy early evening, drive back to the center to end your journey surrounded by colorful traditional crafts at Museo de Artes Populares."
+      }
+    }
+  }
+}

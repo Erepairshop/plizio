@@ -1,0 +1,520 @@
+{
+  "city_id": "france-loctudy-cities-v2",
+  "anchor": {
+    "name": "Loctudy",
+    "coords": [
+      -4.17504,
+      47.83165
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Tudy",
+            "hu": "Église Saint-Tudy",
+            "ro": "Église Saint-Tudy",
+            "en": "Église Saint-Tudy"
+          },
+          "coords": [
+            -4.175808,
+            47.831653
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltene romanische Architektur dieser Kirche aus dem 11. Jahrhundert und prüfen Sie den Aushang für abendliche Orgelkonzerte.",
+            "hu": "Csodálja meg ennek a 11. századi templomnak a jól megőrzött román stílusú építészetét, és nézze meg a hirdetőtáblát az esetleges esti orgonakoncertek miatt.",
+            "ro": "Admirați arhitectura romanică bine conservată a acestei biserici din secolul al XI-lea și verificați avizierul exterior pentru concertele de orgă de seară.",
+            "en": "Admire the well-preserved Romanesque architecture of this 11th-century church, and check the notice board outside for occasional evening organ concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Conserverie Le Gall",
+            "hu": "Musée Conserverie Le Gall",
+            "ro": "Musée Conserverie Le Gall",
+            "en": "Musée Conserverie Le Gall"
+          },
+          "coords": [
+            -4.168208,
+            47.835089
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der bretonischen Sardinendosenfabrikation in diesem authentischen Museum, aber bringen Sie eine warme Jacke für die kühlen Hallen mit.",
+            "hu": "Fedezze fel a breton szardíniakészítés lenyűgöző történetét ebben a volt gyárban, de vigyen magával meleg kabátot, mert a régi kőtermek meglehetősen hűvösek lehetnek.",
+            "ro": "Descoperiți istoria conservelor de sardine în această fostă fabrică autentică, dar amintiți-vă să purtați o jachetă caldă deoarece vechile săli de piatră sunt răcoroase.",
+            "en": "Discover the fascinating history of Breton sardine canning in this authentic former factory, but remember to wear a warm jacket as the old stone halls can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Perdrix",
+            "hu": "Perdrix",
+            "ro": "Perdrix",
+            "en": "Perdrix"
+          },
+          "coords": [
+            -4.166104,
+            47.837534
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser ikonischen schwarz-weiß karierten Leuchtturm-Markierung, vorzugsweise bei Flut, wenn das Wasser ihren Steinsockel direkt umspült.",
+            "hu": "Készítsen egy gyors fotót erről az ikonikus, fekete-fehér kockás torkolati jelzőfényről, lehetőleg dagály idején, amikor a tenger a közvetlenül a talapzatát mossa.",
+            "ro": "Faceți o fotografie rapidă acestui marcaj de far în carouri alb-negru ce ghidează navele, de preferat în timpul mareei înalte când apa ajunge direct la baza sa.",
+            "en": "Take a quick photo of this iconic black-and-white checkered lighthouse marker guiding ships into the estuary, preferably during high tide when the water laps its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la pointe",
+            "hu": "Plage de la pointe",
+            "ro": "Plage de la pointe",
+            "en": "Plage de la pointe"
+          },
+          "coords": [
+            -4.169731,
+            47.840131
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Halbinsel Île-Tudy von diesem Sandstrand und halten Sie Ausschau nach Kitesurfern, die dieses Gebiet bei gutem Wind besuchen.",
+            "hu": "Élvezze az Île-Tudy félszigetre nyíló panorámás kilátást erről a homokos szakaszról, és figyelje a helyi kiteszörfösöket, akik gyakran látogatják a partot szél esetén.",
+            "ro": "Bucurați-vă de vederea panoramică asupra peninsulei Île-Tudy de pe această fâșie de nisip și urmăriți pasionații de kitesurfing care frecventează zona când bate vântul.",
+            "en": "Enjoy panoramic views of the Île-Tudy peninsula from this sandy stretch, and keep an eye out for local kite-surfers who frequent the area when the wind picks up."
+          }
+        },
+        {
+          "name": {
+            "de": "Langoz Lighthouse",
+            "hu": "Langoz Lighthouse",
+            "ro": "Farul Langoz",
+            "en": "Langoz Lighthouse"
+          },
+          "coords": [
+            -4.159235,
+            47.831356
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bescheidene, aber wichtige Struktur dieses Leuchtfeuers und kommen Sie am besten kurz vor Sonnenuntergang für wunderschöne goldene Lichtverhältnisse.",
+            "hu": "Figyelje meg ennek a szerény, de létfontosságú part menti világítótoronynak a szerkezetét, és próbáljon naplemente körül érkezni a gyönyörű aranyfényű megvilágításért.",
+            "ro": "Observați structura modestă dar vitală a acestui far de coastă și încercați să vizitați aproape de apus pentru a surprinde lumina aurie peste peisajul marin breton.",
+            "en": "Observe the modest yet vital structure of this coastal beacon, and try to visit near sunset for beautiful golden hour lighting against the rugged Breton seascape."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Langoz",
+            "hu": "Plage de Langoz",
+            "ro": "Plage de Langoz",
+            "en": "Plage de Langoz"
+          },
+          "coords": [
+            -4.161365,
+            47.828961
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten, familienfreundlichen Strand mit feinem Sand und mieten Sie im Sommer ein Paddleboard im örtlichen Wassersportzentrum.",
+            "hu": "Pihenjen ezen a népszerű, családbarát, finom homokos strandon, és nyáron érdemes kipróbálni az evezős deszka bérlését a helyi vízisport központból.",
+            "ro": "Relaxați-vă pe această plajă populară printre familii, cu nisip fin, și luați în considerare închirierea unei plăci de paddleboard de la centrul nautic vara.",
+            "en": "Relax on this popular family-friendly beach with its fine sand and gentle waves, and consider renting a paddleboard from the local nautical center during summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Loctudy beginnt an der historischen romanischen Saint-Tudy-Kirche im Herzen der Stadt. Kurz darauf spazieren Sie zum Musée Conserverie Le Gall, wo Sie tief in das bretonische Erbe des Sardinenfangs und der Konservenherstellung eintauchen.\nMittags erreichen Sie die Flussmündung, um das markante Perdrix-Leuchtfeuer zu sehen. Von dort ist es nur ein kurzer Spaziergang zum Plage de la pointe, wo die frische Meeresbrise und der Blick auf die Île-Tudy zum Verweilen und Genießen der Szenerie einladen.\nAm Nachmittag gehen Sie weiter an der Küste entlang und erreichen den malerischen Leuchtturm von Langoz. Er wacht über die Bucht und bietet ein perfektes Fotomotiv, bevor Sie zu Ihrem letzten Ziel direkt am Wasser weiterziehen.\nDer Abend endet am weitläufigen Plage de Langoz. Mit seinem weichen Sand und dem sanften Wasser ist es der ideale Ort, um sich zu entspannen, den Himmel über dem Atlantik zu beobachten und einen wunderschönen Wandertag ausklingen zu lassen.",
+        "hu": "A reggel Loctudy-ban a történelmi román stílusú Saint-Tudy templomnál kezdődik, a város szívében. Nem sokkal később átsétál a Musée Conserverie Le Gall múzeumba, ahol elmerülhet a régió gazdag szardíniahalászati és konzervgyártási örökségében.\nA dél körül a torkolat felé veszi az irányt, hogy megnézze a feltűnő Perdrix jelzőfényt. Innen csak egy rövid séta a Plage de la pointe, ahol a friss tengeri szellő és az Île-Tudy felé nyíló kilátás pihenésre és a tengerparti táj csodálására hívja.\nDélután a part mentén halad tovább, majd megérkezik a festői Langoz világítótoronyhoz. Az öblöt őrző épület tökéletes fotótémát kínál, mielőtt elindulna a legutolsó állomására, egyenesen a vízpart mentén.\nAz este a tágas Plage de Langoz strandon zárul. Puha homokjával és szelíd vizével ideális hely a pihenésre, az Atlanti-óceán feletti égbolt színeinek megfigyelésére, lezárva ezt a csodálatos, gyalogos felfedezéssel töltött napot.",
+        "ro": "Dimineața în Loctudy începe la biserica istorică romanică Saint-Tudy, situată în inima orașului. La scurt timp, veți merge la Musée Conserverie Le Gall, explorând profund moștenirea bogată a pescuitului și a fabricării conservelor de sardine din regiune.\nLa amiază, traseul vă duce spre gura estuarului pentru a vedea marcajul impresionant Perdrix. De acolo, o scurtă plimbare vă duce la Plage de la pointe, unde briza proaspătă a mării și vederea către Île-Tudy vă invită să vă relaxați și să admirați peisajul marin.\nPe măsură ce după-amiaza se desfășoară, veți continua pe coastă, ajungând la pitorescul far Langoz. Păzind golful, acesta oferă o oportunitate perfectă de fotografie înainte de a vă îndrepta spre ultima destinație chiar de-a lungul țărmului.\nSeara se încheie la vasta Plage de Langoz. Cu nisipul fin și apa blândă, este locul ideal pentru a vă relaxa, a privi cerul schimbător deasupra Atlanticului și a reflecta la o zi superbă petrecută explorând litoralul breton pe jos.",
+        "en": "Morning in Loctudy begins at the historic Romanesque Saint-Tudy church, an architectural jewel right in the town's heart. Soon after, you'll walk to the Musée Conserverie Le Gall, diving deep into the region's rich sardine fishing and canning heritage.\nMidday takes you towards the estuary mouth to see the striking Perdrix marker. From there, it's a short stroll to the Plage de la pointe, where the fresh sea breeze and views across to Île-Tudy invite you to rest and appreciate the maritime scenery.\nAs afternoon unfolds, you'll continue along the coast, arriving at the picturesque Langoz Lighthouse. Standing guard over the bay, it provides a perfect photo opportunity before you head to your final destination just down the shoreline.\nThe evening concludes at the expansive Plage de Langoz. With soft sands and gentle waters, it's the ideal spot to relax, watch the changing sky over the Atlantic, and reflect on a beautiful day spent exploring coastal Brittany on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Tudy",
+            "hu": "Église Saint-Tudy",
+            "ro": "Église Saint-Tudy",
+            "en": "Église Saint-Tudy"
+          },
+          "coords": [
+            -4.175808,
+            47.831653
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltene romanische Architektur dieser Kirche aus dem 11. Jahrhundert und prüfen Sie den Aushang für abendliche Orgelkonzerte.",
+            "hu": "Csodálja meg ennek a 11. századi templomnak a jól megőrzött román stílusú építészetét, és nézze meg a hirdetőtáblát az esetleges esti orgonakoncertek miatt.",
+            "ro": "Admirați arhitectura romanică bine conservată a acestei biserici din secolul al XI-lea și verificați avizierul exterior pentru concertele de orgă de seară.",
+            "en": "Admire the well-preserved Romanesque architecture of this 11th-century church, and check the notice board outside for occasional evening organ concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Croaziou",
+            "hu": "Chapelle Notre-Dame-de-Croaziou",
+            "ro": "Chapelle Notre-Dame-de-Croaziou",
+            "en": "Chapelle Notre-Dame-de-Croaziou"
+          },
+          "coords": [
+            -4.189058,
+            47.834578
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser abgelegenen Steinkapelle und beachten Sie die kunstvollen Schnitzereien über dem Eingang vor dem anschließenden Spaziergang.",
+            "hu": "Értékelje ennek az eldugott kőkápolnának a békés hangulatát, és ne hagyja ki az ajtó feletti bonyolult faragványokat, mielőtt élvezné a környező zöldterületet.",
+            "ro": "Apreciați ambianța pașnică a acestei capele izolate din piatră și nu ratați sculpturile detaliate de deasupra ușii înainte de a vă relaxa în spațiul verde din jur.",
+            "en": "Appreciate the peaceful ambiance of this secluded stone chapel, and don't miss noticing the intricate carvings above the doorway before enjoying the surrounding green space."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Dourdy",
+            "hu": "Manoir du Dourdy",
+            "ro": "Manoir du Dourdy",
+            "en": "Manoir du Dourdy"
+          },
+          "coords": [
+            -4.188802,
+            47.842302
+          ],
+          "category": "castle",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Anlage dieses beeindruckenden historischen Herrenhauses in den Wäldern, aber bleiben Sie auf den öffentlichen Wegen, da einiges privat ist.",
+            "hu": "Fedezze fel ennek az erdőben megbúvó, lenyűgöző történelmi udvarháznak a festői birtokát, de maradjon a nyilvános utakon, mivel egyes részei magántulajdonban vannak.",
+            "ro": "Explorați domeniul pitoresc al acestui impresionant conac istoric ascuns în pădure, dar păstrați cărările publice, deoarece unele zone sunt administrate privat.",
+            "en": "Explore the scenic grounds of this impressive historical manor house nestled in the woods, but stick to the public pathways as some areas are privately maintained."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Conserverie Le Gall",
+            "hu": "Musée Conserverie Le Gall",
+            "ro": "Musée Conserverie Le Gall",
+            "en": "Musée Conserverie Le Gall"
+          },
+          "coords": [
+            -4.168208,
+            47.835089
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der bretonischen Sardinendosenfabrikation in diesem authentischen Museum, aber bringen Sie eine warme Jacke für die kühlen Hallen mit.",
+            "hu": "Fedezze fel a breton szardíniakészítés lenyűgöző történetét ebben a volt gyárban, de vigyen magával meleg kabátot, mert a régi kőtermek meglehetősen hűvösek lehetnek.",
+            "ro": "Descoperiți istoria conservelor de sardine în această fostă fabrică autentică, dar amintiți-vă să purtați o jachetă caldă deoarece vechile săli de piatră sunt răcoroase.",
+            "en": "Discover the fascinating history of Breton sardine canning in this authentic former factory, but remember to wear a warm jacket as the old stone halls can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kervilzic",
+            "hu": "Plage de Kervilzic",
+            "ro": "Plage de Kervilzic",
+            "en": "Plage de Kervilzic"
+          },
+          "coords": [
+            -4.165605,
+            47.819182
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang entlang dieses Küstenstreifens und suchen Sie nach faszinierenden Gezeitentümpeln, wofür Sie wasserdichte Schuhe tragen sollten.",
+            "hu": "Tegyen egy nyugodt sétát ezen a csendesebb partszakaszon, keresve az érdekes árapálymedencéket a sziklák között, és ügyeljen arra, hogy vízálló cipőt viseljen.",
+            "ro": "Faceți o plimbare liniștită de-a lungul acestei coaste, căutând micile bazine create de maree printre stânci, având grijă să purtați încălțăminte rezistentă la apă.",
+            "en": "Take a tranquil walk along this quieter coastal stretch, looking out for fascinating tide pools among the rocks, making sure to wear sturdy waterproof shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lodonnec et Ezer",
+            "hu": "Plage de Lodonnec et Ezer",
+            "ro": "Plage de Lodonnec et Ezer",
+            "en": "Plage de Lodonnec et Ezer"
+          },
+          "coords": [
+            -4.171858,
+            47.81293
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen weiten Sandstränden mit Blick auf den offenen Ozean, ideal für ein abendliches Picknick, wenn Sie Ihre eigenen Vorräte mitbringen.",
+            "hu": "Kapcsolódjon ki ezeken az egymásba érő, nyílt óceánra néző homokos szakaszokon, melyek tökéletesek egy esti piknikhez, ha a helyi központból hoz magával kellékeket.",
+            "ro": "Relaxați-vă pe aceste întinderi de nisip ce privesc spre ocean, perfecte pentru un picnic de seară dacă vă aduceți propriile provizii din centrul local.",
+            "en": "Unwind on these contiguous stretches of beautiful sand facing the open ocean, perfect for an evening picnic if you bring your own supplies from the local town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Oual",
+            "hu": "Chapelle Saint-Oual",
+            "ro": "Chapelle Saint-Oual",
+            "en": "Chapelle Saint-Oual"
+          },
+          "coords": [
+            -4.177176,
+            47.812974
+          ],
+          "category": "religious",
+          "arrive_at": "16:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese kleine Küstenkapelle, die historisch Seeleuten Schutz bot, und nehmen Sie sich einen Moment der Stille, während Sie eine Münze in die Spendenbox werfen.",
+            "hu": "Lépjen be ebbe az apró, tengerparti kápolnába, amely történelmileg a tengerészeknek nyújtott menedéket, és töltsön el egy csendes percet, miközben aprópénzt hagy a perselyben.",
+            "ro": "Pășiți în această micuță capelă de coastă care odinioară adăpostea marinarii și bucurați-vă de un moment de liniște, lăsând o mică monedă în cutia de donații.",
+            "en": "Step inside this tiny, charming coastal chapel that historically sheltered sailors, and take a moment of quiet reflection while leaving a small coin in the donation box."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad von der Kirche Saint-Tudy und radeln Sie dann zur ruhigen Chapelle Notre-Dame-de-Croaziou. Dieser friedliche Beginn geht nahtlos in eine historische Reise am nahegelegenen Manoir du Dourdy über.\nMittags erreichen Sie das Musée Conserverie Le Gall. Hier können Sie eine Pause einlegen und mehr über die lokale Fischkonservenindustrie erfahren, die einst das wirtschaftliche Rückgrat dieser stolzen maritimen Gemeinschaft bildete.\nDer Nachmittag steht ganz im Zeichen der natürlichen Küste. Eine angenehme Fahrt bringt Sie zum ruhigen Plage de Kervilzic, gefolgt von den breiten Sandstränden des Plage de Lodonnec et Ezer, ideal, um die müden Beine auszuruhen.\nIhre Tour endet am späten Nachmittag an der winzigen Chapelle Saint-Oual. In der Nähe des Meeres gelegen, bietet sie einen friedlichen Abschluss für einen aktiven Tag, an dem Sie zwischen bretonischen Schätzen und herrlichen Stränden pendelten.",
+        "hu": "Két keréken indul a Saint-Tudy templomtól, mielőtt egy rövid tekeréssel eléri a békés Chapelle Notre-Dame-de-Croaziou-t. Ez a csendes kezdés zökkenőmentesen vált át egy történelmi utazásba a közeli Manoir du Dourdy lenyűgöző birtokánál.\nDélben megérkezik a Musée Conserverie Le Gall múzeumhoz. Itt lerakva a kerékpárt visszaléphet az időben, hogy megismerje a helyi halkonzervipart, amely egykor e büszke tengerészeti közösség gazdasági gerincét alkotta.\nA délután a természetes partszakaszokra fókuszál. Egy kellemes utazás a nyugodt Plage de Kervilzic partra visz, amit a Plage de Lodonnec et Ezer tágas, napfényes homokja követ, amely tökéletes a megfáradt lábak pihentetésére.\nA kerékpározás a késő délutáni fényben, a parányi Chapelle Saint-Oual kápolnánál ér véget. A tenger közelében található épület békés, elmélkedő befejezést kínál az aktív napnak, amit Bretagne történelmi kincsei és lenyűgöző partjai között töltött.",
+        "ro": "Porniți pe două roți de la biserica Saint-Tudy, înainte de a pedala puțin spre liniștita capelă Notre-Dame-de-Croaziou. Acest început calm se transformă ușor într-o călătorie istorică la impresionantul conac Manoir du Dourdy din apropiere.\nPână la prânz, ajungeți la Musée Conserverie Le Gall. Lăsând bicicleta, veți face un pas înapoi în timp pentru a descoperi industria locală de conserve de pește, care odinioară reprezenta pilonul economic al acestei comunități maritime.\nDupă-amiaza se concentrează pe superba coastă naturală. O cursă plăcută vă aduce la liniștita Plage de Kervilzic, urmată de nisipurile largi de la Plage de Lodonnec et Ezer, perfecte pentru a vă odihni picioarele obosite.\nTraseul se încheie în lumina blândă a serii la miniaturala capelă Saint-Oual. Situată lângă mare, aceasta oferă un final pașnic și reflexiv unei zile active petrecute pedalând între perlele istorice și plajele nisipoase ale Bretaniei.",
+        "en": "Set off on two wheels from the Saint-Tudy church, marveling at its ancient stones, before pedaling a short distance to the serene Chapelle Notre-Dame-de-Croaziou. This quiet start transitions smoothly into a historical journey at the nearby Manoir du Dourdy.\nBy midday, you'll reach the Musée Conserverie Le Gall. Here, parking your bike allows you to step back in time and learn about the local fish canning industry that once formed the economic backbone of this proud maritime community.\nThe afternoon focuses on Loctudy's beautiful natural coastline. A pleasant ride brings you to the tranquil Plage de Kervilzic, followed by the wider, sun-drenched sands of Plage de Lodonnec et Ezer, perfect for resting your cycling legs.\nYour ride concludes in the late afternoon glow at the diminutive Chapelle Saint-Oual. Positioned near the sea, it offers a peaceful, reflective end to an active day spent pedaling between Brittany's historical gems and stunning sandy shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manoir de Kerazan",
+            "hu": "Manoir de Kerazan",
+            "ro": "Manoir de Kerazan",
+            "en": "Manoir de Kerazan"
+          },
+          "coords": [
+            -4.195395,
+            47.841865
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppig dekorierten Räume dieses Herrenhauses mit lokaler bretonischer Kunst und planen Sie zusätzliche Zeit für die englischen Parkanlagen ein.",
+            "hu": "Sétáljon végig e kastély gazdagon díszített szobáin, amelyek helyi breton művészeti alkotásokat rejtenek, és szánjon plusz időt az angol stílusú hatalmas park felfedezésére.",
+            "ro": "Plimbați-vă prin camerele somptuos decorate ale acestui conac ce prezintă artă bretonă locală și rezervați timp suplimentar pentru a explora parcul imens în stil englezesc.",
+            "en": "Stroll through the lavishly decorated rooms of this stately home featuring local Breton art, and schedule extra time to explore the sprawling English-style parklands."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Dourdy",
+            "hu": "Manoir du Dourdy",
+            "ro": "Manoir du Dourdy",
+            "en": "Manoir du Dourdy"
+          },
+          "coords": [
+            -4.188802,
+            47.842302
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Anlage dieses beeindruckenden historischen Herrenhauses in den Wäldern, aber bleiben Sie auf den öffentlichen Wegen, da einiges privat ist.",
+            "hu": "Fedezze fel ennek az erdőben megbúvó, lenyűgöző történelmi udvarháznak a festői birtokát, de maradjon a nyilvános utakon, mivel egyes részei magántulajdonban vannak.",
+            "ro": "Explorați domeniul pitoresc al acestui impresionant conac istoric ascuns în pădure, dar păstrați cărările publice, deoarece unele zone sunt administrate privat.",
+            "en": "Explore the scenic grounds of this impressive historical manor house nestled in the woods, but stick to the public pathways as some areas are privately maintained."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Croaziou",
+            "hu": "Chapelle Notre-Dame-de-Croaziou",
+            "ro": "Chapelle Notre-Dame-de-Croaziou",
+            "en": "Chapelle Notre-Dame-de-Croaziou"
+          },
+          "coords": [
+            -4.189058,
+            47.834578
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser abgelegenen Steinkapelle und beachten Sie die kunstvollen Schnitzereien über dem Eingang vor dem anschließenden Spaziergang.",
+            "hu": "Értékelje ennek az eldugott kőkápolnának a békés hangulatát, és ne hagyja ki az ajtó feletti bonyolult faragványokat, mielőtt élvezné a környező zöldterületet.",
+            "ro": "Apreciați ambianța pașnică a acestei capele izolate din piatră și nu ratați sculpturile detaliate de deasupra ușii înainte de a vă relaxa în spațiul verde din jur.",
+            "en": "Appreciate the peaceful ambiance of this secluded stone chapel, and don't miss noticing the intricate carvings above the doorway before enjoying the surrounding green space."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Conserverie Le Gall",
+            "hu": "Musée Conserverie Le Gall",
+            "ro": "Musée Conserverie Le Gall",
+            "en": "Musée Conserverie Le Gall"
+          },
+          "coords": [
+            -4.168208,
+            47.835089
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der bretonischen Sardinendosenfabrikation in diesem authentischen Museum, aber bringen Sie eine warme Jacke für die kühlen Hallen mit.",
+            "hu": "Fedezze fel a breton szardíniakészítés lenyűgöző történetét ebben a volt gyárban, de vigyen magával meleg kabátot, mert a régi kőtermek meglehetősen hűvösek lehetnek.",
+            "ro": "Descoperiți istoria conservelor de sardine în această fostă fabrică autentică, dar amintiți-vă să purtați o jachetă caldă deoarece vechile săli de piatră sunt răcoroase.",
+            "en": "Discover the fascinating history of Breton sardine canning in this authentic former factory, but remember to wear a warm jacket as the old stone halls can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage du Sillon",
+            "hu": "Grande Plage du Sillon",
+            "ro": "Grande Plage du Sillon",
+            "en": "Grande Plage du Sillon"
+          },
+          "coords": [
+            -4.162643,
+            47.847733
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die lange Promenade an diesem weiten Nordstrand, ideal zum Strandgutsammeln nach einem Sturm, und holen Sie sich bei Gelegenheit einen Crêpe.",
+            "hu": "Sétáljon végig a kiterjedt északi partot övező hosszú sétányon, amely ideális kincskeresésre egy vihar után, és vegyen egy palacsintát a közeli szezonális árustól.",
+            "ro": "Plimbați-vă pe lunga promenadă ce mărginește această plajă, ideală pentru căutarea scoicilor după o furtună, și luați o clătită de la un vânzător sezonier din apropiere.",
+            "en": "Walk the long promenade bordering this extensive northern beach, ideal for beachcombing after a storm, and grab a crepe from a nearby seasonal vendor if open."
+          }
+        },
+        {
+          "name": {
+            "de": "Langoz Lighthouse",
+            "hu": "Langoz Lighthouse",
+            "ro": "Farul Langoz",
+            "en": "Langoz Lighthouse"
+          },
+          "coords": [
+            -4.159235,
+            47.831356
+          ],
+          "category": "landmark",
+          "arrive_at": "15:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bescheidene, aber wichtige Struktur dieses Leuchtfeuers und kommen Sie am besten kurz vor Sonnenuntergang für wunderschöne goldene Lichtverhältnisse.",
+            "hu": "Figyelje meg ennek a szerény, de létfontosságú part menti világítótoronynak a szerkezetét, és próbáljon naplemente körül érkezni a gyönyörű aranyfényű megvilágításért.",
+            "ro": "Observați structura modestă dar vitală a acestui far de coastă și încercați să vizitați aproape de apus pentru a surprinde lumina aurie peste peisajul marin breton.",
+            "en": "Observe the modest yet vital structure of this coastal beacon, and try to visit near sunset for beautiful golden hour lighting against the rugged Breton seascape."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lodonnec et Ezer",
+            "hu": "Plage de Lodonnec et Ezer",
+            "ro": "Plage de Lodonnec et Ezer",
+            "en": "Plage de Lodonnec et Ezer"
+          },
+          "coords": [
+            -4.171858,
+            47.81293
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen weiten Sandstränden mit Blick auf den offenen Ozean, ideal für ein abendliches Picknick, wenn Sie Ihre eigenen Vorräte mitbringen.",
+            "hu": "Kapcsolódjon ki ezeken az egymásba érő, nyílt óceánra néző homokos szakaszokon, melyek tökéletesek egy esti piknikhez, ha a helyi központból hoz magával kellékeket.",
+            "ro": "Relaxați-vă pe aceste întinderi de nisip ce privesc spre ocean, perfecte pentru un picnic de seară dacă vă aduceți propriile provizii din centrul local.",
+            "en": "Unwind on these contiguous stretches of beautiful sand facing the open ocean, perfect for an evening picnic if you bring your own supplies from the local town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip grandios am Manoir de Kerazan, bevor Sie nur eine Minute weiter zum faszinierenden Manoir du Dourdy fahren. Danach besichtigen Sie die malerische Chapelle Notre-Dame-de-Croaziou inmitten der Natur.\nParken Sie mittags in der Nähe des Musée Conserverie Le Gall, um in die Fischereivergangenheit von Loctudy einzutauchen. Nach der Geschichte der Sardinendosenfertigung fahren Sie zum Grande Plage du Sillon für einen Spaziergang am Meer.\nDie Fahrt am Nachmittag folgt der Küste mit einem Halt am Leuchtturm von Langoz, um die typische bretonische maritime Architektur zu bewundern. Mit dem Auto lassen sich diese verstreuten Sehenswürdigkeiten bequem erkunden.\nBeenden Sie den Tag am Plage de Lodonnec et Ezer. Den Sonnenuntergang von diesen weiten Sandstränden aus zu beobachten, ist ein atemberaubendes Erlebnis und ein perfekter Abschluss Ihrer umfassenden Tour durch die besten Orte von Loctudy.",
+        "hu": "Kezdje autós útját a fenséges Manoir de Kerazan-nál, mielőtt egy perc alatt átgurulna az ugyancsak lenyűgöző Manoir du Dourdy-hoz. Ezután tegyen egy rövid látogatást a festői Chapelle Notre-Dame-de-Croaziou kápolnában.\nDélben parkoljon le a Musée Conserverie Le Gall közelében, hogy elmerüljön a helyi halászati múltban. A szardíniakonzerválás rejtelmeinek felfedezése után tegyen egy rövid autózást a Grande Plage du Sillon-hoz egy frissítő tengerparti sétára.\nA délutáni vezetés a part mentén halad, megállva a Langoz világítótoronynál, hogy megcsodálhassa a jellegzetes breton tengerészeti építészetet. Az autó kényelme lehetővé teszi a szétszórt látványosságok hatékony felfedezését.\nZárja a napot a Plage de Lodonnec et Ezer homokos partján. A naplemente megtekintése erről a tágas strandról lélegzetelállító élmény, amely tökéletes befejezést nyújt Loctudy legjobb történelmi és természeti látnivalóinak átfogó túrájához.",
+        "ro": "Începeți călătoria cu mașina în măreție la Manoir de Kerazan, explorându-i colecțiile, înainte de a conduce un minut până la fascinantul Manoir du Dourdy. Apoi, vizitați pitoreasca capelă Notre-Dame-de-Croaziou.\nLa amiază, parcați lângă Musée Conserverie Le Gall pentru a vă scufunda în trecutul pescuitului industrial din Loctudy. Apoi, faceți o scurtă plimbare cu mașina până la Grande Plage du Sillon pentru o gură de aer curat pe țărmul oceanului.\nTraseul de după-amiază urmărește linia coastei, oprindu-se la farul Langoz pentru a admira arhitectura maritimă bretonă prin excelență. Confortul mașinii vă permite să surprindeți eficient aceste atracții în timp ce vă bucurați de peisaj.\nÎncheiați ziua parcând la Plage de Lodonnec et Ezer. Privirea apusului de pe aceste nisipuri vaste este o experiență uluitoare, aducând un final perfect turului dumneavoastră cuprinzător al atracțiilor istorice și naturale din Loctudy.",
+        "en": "Begin your road trip in grandeur at the Manoir de Kerazan, exploring its art collections, before driving just a minute down the road to the equally fascinating Manoir du Dourdy. Afterwards, visit the quaint Chapelle Notre-Dame-de-Croaziou.\nFor midday, park near the Musée Conserverie Le Gall to immerse yourself in Loctudy's industrial fishing past. After discovering the intricacies of sardine canning, take a short drive to Grande Plage du Sillon for a refreshing walk along the ocean.\nThe afternoon drive traces the coastline, pausing at the Langoz Lighthouse to take in the quintessential Breton maritime architecture. The ease of a car allows you to capture these scattered sights efficiently while enjoying the coastal breeze.\nFinish the day parking at Plage de Lodonnec et Ezer. Watching the sunset from these expansive sands is a breathtaking experience, bringing a perfect close to your comprehensive driving tour of Loctudy's best historical and natural sights."
+      }
+    }
+  }
+}

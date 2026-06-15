@@ -1,0 +1,474 @@
+{
+  "city_id": "ma-tetouan-cities-v2",
+  "anchor": {
+    "name": "Tetouan",
+    "coords": [
+      -5.3684,
+      35.5785
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Nouaber Bastion",
+            "hu": "Bab Nouaber Bástya",
+            "ro": "Bastionul Bab Nouaber",
+            "en": "Bab Nouaber Bastion"
+          },
+          "coords": [
+            -5.375218,
+            35.573084
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Bastion aus dem 18. Jahrhundert, um Tetouans militärische Vergangenheit zu verstehen, aber tragen Sie festes Schuhwerk für die Wege.",
+            "hu": "Fedezze fel ezt a történelmi 18. századi bástyát, hogy megértse Tetouán katonai múltját, de viseljen kényelmes cipőt a kissé egyenetlen kőösvények és lépcsők miatt.",
+            "ro": "Explorați acest bastion istoric din secolul al XVIII-lea pentru a înțelege trecutul militar al orașului, dar purtați încălțăminte solidă pentru treptele de piatră.",
+            "en": "Explore this historic 18th-century bastion to understand Tetouan's military past, but wear sturdy shoes to safely navigate its uneven stone pathways and stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah",
+            "hu": "Kasbah",
+            "ro": "Kasbah",
+            "en": "Kasbah"
+          },
+          "coords": [
+            -5.371991,
+            35.574341
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Festungsmauern, die einst die Medina schützten, und versuchen Sie, früh am Morgen für das beste Licht bei Ihren Fotos anzukommen.",
+            "hu": "Csodálja meg az impozáns erődítmény falait, amelyek egykor védték a medinát, és próbáljon meg kora reggel érkezni a tökéletes fényképezési fényviszonyok érdekében.",
+            "ro": "Admirați zidurile impunătoare ale fortăreței care au protejat cândva medina și încercați să ajungeți dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Admire the imposing fortress walls that once protected the medina from external threats, and try to arrive early in the morning for the best lighting in photos."
+          }
+        },
+        {
+          "name": {
+            "de": "El-Fasi Zaouia",
+            "hu": "El-Fasi Zaouia",
+            "ro": "Zaouia El-Fasi",
+            "en": "El-Fasi Zaouia"
+          },
+          "coords": [
+            -5.369636,
+            35.572027
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Herz der Stadt in diesem wunderschön dekorierten islamischen Komplex, aber denken Sie daran, sich aus Respekt bescheiden zu kleiden.",
+            "hu": "Fedezze fel a város spirituális szívét ebben a gyönyörűen díszített iszlám komplexumban, de ne feledjen szerényen öltözködni és halkan beszélni a tisztelet jeléül.",
+            "ro": "Descoperiți inima spirituală a orașului la acest complex islamic frumos decorat, însă amintiți-vă să vă îmbrăcați modest și să păstrați o atitudine respectuoasă.",
+            "en": "Discover the spiritual heart of the city at this beautifully decorated Islamic complex, though remember to dress modestly and keep your voice low out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Archéologique",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Musée Archéologique"
+          },
+          "coords": [
+            -5.370667,
+            35.570636
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch römische Mosaike aus Lixus in Marokkos reiche vorislamische Geschichte ein und fragen Sie am Empfang nach einer englischen oder deutschen Broschüre.",
+            "hu": "Merüljön el Marokkó gazdag iszlám előtti történelmében a lenyűgöző római mozaikok révén, és kérjen angol nyelvű tájékoztatót a recepción, mivel a feliratok franciák.",
+            "ro": "Pătrundeți în bogata istorie pre-islamică a Marocului prin mozaicuri romane impresionante, dar cereți un pliant la recepție, deoarece etichetele sunt în franceză.",
+            "en": "Delve into Morocco's rich pre-Islamic history through impressive Roman mosaics from Lixus, and ask the front desk for an English leaflet as labels are in French."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar El Oddi",
+            "hu": "Dar El Oddi",
+            "ro": "Dar El Oddi",
+            "en": "Dar El Oddi"
+          },
+          "coords": [
+            -5.366094,
+            35.570688
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses sorgfältig restaurierte traditionelle Hofhaus, das heute ein Kulturzentrum ist, und bewundern Sie die aufwendigen Zellige-Fliesen im Erdgeschoss.",
+            "hu": "Lépjen be ebbe a gondosan felújított hagyományos udvarházba, amely kulturális központtá vált, és szánjon időt a bonyolult zellige csempék megcsodálására a földszinten.",
+            "ro": "Intrați în această casă tradițională cu curte interioară, meticulos restaurată, și luați-vă timp pentru a admira faianța zellige complexă de la parterul clădirii.",
+            "en": "Step inside this meticulously restored traditional courtyard house turned cultural center, and take time to admire the intricate zellige tilework on the main floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab er Rouah",
+            "hu": "Bab er Rouah",
+            "ro": "Bab er Rouah",
+            "en": "Bab er Rouah"
+          },
+          "coords": [
+            -5.368304,
+            35.570279
+          ],
+          "category": "castle",
+          "arrive_at": "15:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eines der markantesten historischen Tore, die in die alte Medina führen, und halten Sie Ausschau nach lokalen Handwerkern, die ihre Waren verkaufen.",
+            "hu": "Csodálja meg az ősi medinába vezető egyik legkiemelkedőbb történelmi kaput, és figyelje a hagyományos kézműves termékeket árusító helyi árusokat közvetlenül belül.",
+            "ro": "Minunați-vă de una dintre cele mai proeminente porți istorice care duc în medina antică și căutați artizanii locali care vând meșteșuguri tradiționale chiar înăuntru.",
+            "en": "Marvel at one of the most prominent historic gates leading into the ancient medina, and keep an eye out for local artisans selling traditional crafts just inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d’Art Marocain",
+            "hu": "Marokkói Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Marocană",
+            "en": "Musée d’Art Marocain"
+          },
+          "coords": [
+            -5.363833,
+            35.570332
+          ],
+          "category": "museum",
+          "arrive_at": "16:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit der Bewunderung einer exquisiten Sammlung traditioneller marokkanischer Handwerkskunst, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Zárja túráját a hagyományos marokkói kézműves termékek és textíliák gyönyörű gyűjteményével, de előtte ellenőrizze a nyitvatartási időt, mivel az szezonálisan változik.",
+            "ro": "Încheiați-vă turul admirând o colecție rafinată de meșteșuguri și textile marocane tradiționale, dar verificați în prealabil programul care se schimbă odată cu sezonul.",
+            "en": "Finish your tour admiring an exquisite collection of traditional Moroccan crafts and textiles, but check the opening hours beforehand as they change with the season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der historischen Bastionen und Festungen und spüren Sie die alte militärische Präsenz Tetouans. Am Mittag tauchen Sie tiefer in den spirituellen und architektonischen Kern der Medina ein und besuchen kunstvolle Moscheen. Der Nachmittag widmet sich der Kultur in restaurierten traditionellen Häusern und an belebten Toren. Beenden Sie den Abend mit der Bewunderung exquisiter marokkanischer Handwerkskunst, umgeben von der lebhaften Energie der Altstadt in der Dämmerung.",
+        "hu": "Kezdje a reggelt a történelmi bástyák és erődítmények felfedezésével, átérezve az ősi katonai jelenlétet, amely formálta Tetouánt. Délben merüljön el mélyebben a medina spirituális és építészeti magjában, díszes mecseteket és régészeti gyűjteményeket látogatva. A délután a kulturális elmélyülésről szól a felújított hagyományos házakban és a nyüzsgő kapuknál. Zárja az estét a marokkói kézműves termékek megcsodálásával, az óváros élénk energiájával körülvéve, ahogy az alkonyat leszáll a kanyargós sikátorokra.",
+        "ro": "Începeți dimineața explorând bastioanele și fortificațiile istorice, simțind prezența militară antică ce a modelat orașul Tetouan. La prânz, pătrundeți mai adânc în nucleul spiritual și arhitectural al medinei, vizitând moschei ornamentate și colecții arheologice bogate. După-amiaza se îndreaptă spre o imersiune culturală în case tradiționale restaurate și porți istorice pline de viață. Încheiați seara admirând meșteșuguri marocane rafinate, înconjurat de energia vibrantă a orașului vechi la lăsarea amurgului.",
+        "en": "Start your morning exploring the historic bastions and fortifications, feeling the ancient military presence that shaped Tetouan. Midday takes you deeper into the medina's spiritual and architectural core, visiting ornate mosques and rich archaeological collections. The afternoon shifts toward cultural immersion in restored traditional houses and bustling historic gates. Conclude your evening marveling at exquisite Moroccan crafts, surrounded by the vibrant energy of the old city as dusk falls over the winding alleys."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Institut Français de Tétouan",
+            "hu": "Institut Français de Tétouan",
+            "ro": "Institutul Francez din Tetouan",
+            "en": "Institut Français de Tétouan"
+          },
+          "coords": [
+            -5.377088,
+            35.569634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Stück frankophone Kultur mit zeitgenössischen Kunstausstellungen und Filmvorführungen, aber kommen Sie früh, um im kleinen Saal einen guten Platz zu finden.",
+            "hu": "Élvezze a frankofón kultúra egy szeletét kortárs művészeti kiállításokkal, de érkezzen korán, hogy jó helyet kapjon a meglehetősen kis méretű és hangulatos nézőtéren.",
+            "ro": "Bucurați-vă de cultura francofonă cu expoziții de artă contemporană și proiecții de film, dar ajungeți devreme pentru a prinde un loc bun în sala mică și intimă.",
+            "en": "Enjoy a slice of francophone culture with contemporary art exhibitions and film screenings, but arrive early to grab a good seat in the small, intimate auditorium."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Culture",
+            "hu": "Kultúra Háza",
+            "ro": "Casa de Cultură",
+            "en": "Maison de Culture"
+          },
+          "coords": [
+            -5.383218,
+            35.570854
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie in lokalen Kunstprojekten und Gemeindeausstellungen in diesem Zentrum und unterhalten Sie sich mit den Künstlern, falls Sie während eines Workshops hier sind.",
+            "hu": "Böngésszen a helyi művészeti törekvések és közösségi kiállítások között ebben a nyüzsgő központban, és beszélgessen a művészekkel, ha egy workshop idején látogat el.",
+            "ro": "Răsfoiți proiectele artistice locale și expozițiile comunitare la acest centru vibrant și discutați cu artiștii rezidenți dacă ajungeți în timpul unui atelier creativ.",
+            "en": "Browse local artistic endeavors and community exhibitions at this vibrant cultural hub, and chat with the resident artists if you happen to visit during a workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Nouaber Bastion",
+            "hu": "Bab Nouaber Bástya",
+            "ro": "Bastionul Bab Nouaber",
+            "en": "Bab Nouaber Bastion"
+          },
+          "coords": [
+            -5.375218,
+            35.573084
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Bastion aus dem 18. Jahrhundert, um Tetouans militärische Vergangenheit zu verstehen, aber tragen Sie festes Schuhwerk für die Wege.",
+            "hu": "Fedezze fel ezt a történelmi 18. századi bástyát, hogy megértse Tetouán katonai múltját, de viseljen kényelmes cipőt a kissé egyenetlen kőösvények és lépcsők miatt.",
+            "ro": "Explorați acest bastion istoric din secolul al XVIII-lea pentru a înțelege trecutul militar al orașului, dar purtați încălțăminte solidă pentru treptele de piatră.",
+            "en": "Explore this historic 18th-century bastion to understand Tetouan's military past, but wear sturdy shoes to safely navigate its uneven stone pathways and stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah",
+            "hu": "Kasbah",
+            "ro": "Kasbah",
+            "en": "Kasbah"
+          },
+          "coords": [
+            -5.371991,
+            35.574341
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Festungsmauern, die einst die Medina schützten, und versuchen Sie, früh am Morgen für das beste Licht bei Ihren Fotos anzukommen.",
+            "hu": "Csodálja meg az impozáns erődítmény falait, amelyek egykor védték a medinát, és próbáljon meg kora reggel érkezni a tökéletes fényképezési fényviszonyok érdekében.",
+            "ro": "Admirați zidurile impunătoare ale fortăreței care au protejat cândva medina și încercați să ajungeți dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Admire the imposing fortress walls that once protected the medina from external threats, and try to arrive early in the morning for the best lighting in photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Rmouz",
+            "hu": "Bab Rmouz",
+            "ro": "Bab Rmouz",
+            "en": "Bab Rmouz"
+          },
+          "coords": [
+            -5.366989,
+            35.5676
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die besonderen architektonischen Details dieses alten Medina-Tors und nutzen Sie es als praktischen Orientierungspunkt in den verwinkelten Gassen.",
+            "hu": "Fényképezze le ennek az ősi medina-kapunak a jellegzetes építészeti részleteit, és használja kényelmes tájékozódási pontként, ha eltévedne a kanyargós kis sikátorokban.",
+            "ro": "Fotografiați detaliile arhitecturale distincte ale acestei vechi porți a medinei și folosiți-o ca punct de orientare convenabil dacă vă rătăciți pe aleile șerpuitoare.",
+            "en": "Photograph the distinct architectural details of this ancient medina gateway, and use it as a convenient orientation point if you get lost in the winding alleyways."
+          }
+        },
+        {
+          "name": {
+            "de": "Modern Art Center of Tetouan",
+            "hu": "Tetouáni Modern Művészeti Központ",
+            "ro": "Centrul de Artă Modernă din Tetouan",
+            "en": "Modern Art Center of Tetouan"
+          },
+          "coords": [
+            -5.366955,
+            35.566336
+          ],
+          "category": "museum",
+          "arrive_at": "14:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen umgebauten Bahnhof, der heute moderne marokkanische Gemälde beherbergt, und verpassen Sie auf keinen Fall den Skulpturengarten auf der Rückseite.",
+            "hu": "Fedezze fel ezt az átalakított vasútállomást, amely ma modern marokkói festményeknek ad otthont, és semmiképpen se hagyja ki a közvetlenül a hátsó udvarban lévő szoborkertet.",
+            "ro": "Explorați această gară reconvertită, care găzduiește acum picturi marocane moderne fantastice, și nu ratați grădina de sculpturi situată chiar în partea din spate a clădirii.",
+            "en": "Explore this repurposed railway station which now houses a fantastic array of modern Moroccan paintings, and don't miss the sculpture garden located right out back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im frankophonen Kulturzentrum der Stadt, das einen modernen und doch historischen Ton angibt. Mittags radeln Sie an ikonischen Bastionen vorbei und verbinden die historischen Punkte am Rand der Medina. Die Nachmittagsfahrt führt Sie zu wunderschön erhaltenen Stadttoren, die im warmen Licht perfekte Fotomotive bieten. Beenden Sie den Tag am Museum für moderne Kunst und schlendern Sie bei Sonnenuntergang durch die üppigen Skulpturengärten.",
+        "hu": "Kezdje kerékpártúráját a város frankofón kulturális központjában, amely modern, mégis történelmi alaphangot ad a napnak. Délben tekerjen el az ikonikus bástyák és erődítmények mellett, összekötve a medina külső peremének történelmi pontjait. A délutáni túra a gyönyörűen megőrzött városkapukhoz vezet, amelyek tökéletes fotózási lehetőségeket kínálnak. Zárja a napot a modern művészeti központban, és sétáljon végig a buja szoborkerteken, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți turul cu bicicleta la centrul cultural francofon al orașului, stabilind un ton modern, dar istoric pentru ziua respectivă. Până la prânz, pedalați pe lângă bastioane și fortărețe emblematice, conectând punctele istorice ale perimetrului exterior. Plimbarea de după-amiază vă duce la porțile orașului frumos conservate, oferind oportunități perfecte de fotografie. Încheiați la centrul de artă modernă, lăsând bicicleta pentru a vă plimba prin grădinile de sculpturi la apus.",
+        "en": "Kick off your cycling tour at the city's francophone cultural center, setting a modern yet historic tone for the day. By midday, pedal past iconic bastions and fortresses, connecting the broader historical dots of the medina's outer perimeter. The afternoon ride leads you to beautifully preserved city gates, offering perfect photo opportunities in the warm light. Wrap up at the modern art center, leaving your bike to wander through lush sculpture gardens as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oued Martil Viewpoint of Riff Mountains",
+            "hu": "Oued Martil Kilátó - Rif-hegység",
+            "ro": "Punct de belvedere Oued Martil",
+            "en": "Oued Martil Viewpoint of Riff Mountains"
+          },
+          "coords": [
+            -5.369806,
+            35.557742
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das raue Rif-Gebirge am Fluss und bringen Sie ein Weitwinkelobjektiv mit, um die Weite der Landschaft einzufangen.",
+            "hu": "Élvezze a folyóig ereszkedő, zord Rif-hegységre nyíló lélegzetelállító panorámát, és mindenképpen hozzon magával széles látószögű lencsét a táj hatalmasságának megörökítéséhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale Munților Riff care coboară spre râu și aduceți un obiectiv cu unghi larg pentru a surprinde imensitatea peisajului.",
+            "en": "Take in breathtaking panoramic views of the rugged Riff Mountains cascading down to the river, and bring a wide-angle lens to capture the vastness of the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Modern Art Center of Tetouan",
+            "hu": "Tetouáni Modern Művészeti Központ",
+            "ro": "Centrul de Artă Modernă din Tetouan",
+            "en": "Modern Art Center of Tetouan"
+          },
+          "coords": [
+            -5.366955,
+            35.566336
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen umgebauten Bahnhof, der heute moderne marokkanische Gemälde beherbergt, und verpassen Sie auf keinen Fall den Skulpturengarten auf der Rückseite.",
+            "hu": "Fedezze fel ezt az átalakított vasútállomást, amely ma modern marokkói festményeknek ad otthont, és semmiképpen se hagyja ki a közvetlenül a hátsó udvarban lévő szoborkertet.",
+            "ro": "Explorați această gară reconvertită, care găzduiește acum picturi marocane moderne fantastice, și nu ratați grădina de sculpturi situată chiar în partea din spate a clădirii.",
+            "en": "Explore this repurposed railway station which now houses a fantastic array of modern Moroccan paintings, and don't miss the sculpture garden located right out back."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab er Rouah",
+            "hu": "Bab er Rouah",
+            "ro": "Bab er Rouah",
+            "en": "Bab er Rouah"
+          },
+          "coords": [
+            -5.368304,
+            35.570279
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eines der markantesten historischen Tore, die in die alte Medina führen, und halten Sie Ausschau nach lokalen Handwerkern, die ihre Waren verkaufen.",
+            "hu": "Csodálja meg az ősi medinába vezető egyik legkiemelkedőbb történelmi kaput, és figyelje a hagyományos kézműves termékeket árusító helyi árusokat közvetlenül belül.",
+            "ro": "Minunați-vă de una dintre cele mai proeminente porți istorice care duc în medina antică și căutați artizanii locali care vând meșteșuguri tradiționale chiar înăuntru.",
+            "en": "Marvel at one of the most prominent historic gates leading into the ancient medina, and keep an eye out for local artisans selling traditional crafts just inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Archéologique",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Musée Archéologique"
+          },
+          "coords": [
+            -5.370667,
+            35.570636
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch römische Mosaike aus Lixus in Marokkos reiche vorislamische Geschichte ein und fragen Sie am Empfang nach einer englischen oder deutschen Broschüre.",
+            "hu": "Merüljön el Marokkó gazdag iszlám előtti történelmében a lenyűgöző római mozaikok révén, és kérjen angol nyelvű tájékoztatót a recepción, mivel a feliratok franciák.",
+            "ro": "Pătrundeți în bogata istorie pre-islamică a Marocului prin mozaicuri romane impresionante, dar cereți un pliant la recepție, deoarece etichetele sunt în franceză.",
+            "en": "Delve into Morocco's rich pre-Islamic history through impressive Roman mosaics from Lixus, and ask the front desk for an English leaflet as labels are in French."
+          }
+        },
+        {
+          "name": {
+            "de": "Jbel Dersa",
+            "hu": "Jbel Dersa",
+            "ro": "Jbel Dersa",
+            "en": "Jbel Dersa"
+          },
+          "coords": [
+            -5.389348,
+            35.596568
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel mit Blick auf die gesamte weiße Stadt Tetouan, aber packen Sie ausreichend Wasser und Sonnencreme ein, da es wenig Schatten gibt.",
+            "hu": "Túrázzon fel erre a kiemelkedő dombra, ahonnan az egész fehér városra nyílik kilátás, de vigyen magával elég vizet és naptejet, mivel nagyon kevés az árnyékos terület.",
+            "ro": "Urcați pe acest deal proeminent cu vedere la întregul oraș alb Tetouan, dar împachetați suficientă apă și cremă de protecție solară, deoarece există foarte puțină umbră.",
+            "en": "Hike up this prominent hill overlooking the entire white city of Tetouan for a spectacular sunset view, but pack enough water and sunscreen as there is little shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit weiten Naturpanoramen des Rif-Gebirges und Blick auf das ruhige Flusstal. Gegen Mittag tauchen Sie im Museum für moderne Kunst in die künstlerische Seele der Stadt ein, bevor Sie zu den historischen Mauern fahren. Am Nachmittag erkunden Sie alte Tore und archäologische Schätze, die Marokkos Vergangenheit enthüllen. Beenden Sie den Tag mit einer malerischen Fahrt auf den Jbel Dersa, wo der Panoramablick bei Sonnenuntergang ein unvergessliches Finale bietet.",
+        "hu": "Autós túrája a Rif-hegység tágas természeti panorámájával kezdődik, ahonnan a békés folyóvölgyre nyílik kilátás. Dél felé közeledve merüljön el a város művészeti lelkében a modern művészeti központban, mielőtt a történelmi falak felé venné az irányt. Délután fedezze fel az ősi kapukat és a régészeti kincseket, amelyek felfedik Marokkó összetett múltját. Zárja a napot egy festői autózással a Jbel Dersa-ra, ahol a fehér városra nyíló panorámás naplemente felejthetetlen finálét kínál.",
+        "ro": "Turul cu mașina începe cu priveliști naturale vaste ale Munților Riff, având vedere la valea liniștită a râului. Apropiindu-vă de prânz, scufundați-vă în sufletul artistic al orașului la centrul de artă modernă, înainte de a naviga spre zidurile istorice. După-amiaza, explorați porți antice și comori arheologice care dezvăluie trecutul complex al Marocului. Încheiați cu un drum pitoresc pe Jbel Dersa, unde apusul panoramic peste orașul alb oferă un final de neuitat.",
+        "en": "Your driving tour begins with sweeping natural vistas of the Riff Mountains overlooking the serene river valley below. Approaching midday, dive into the city's artistic soul at the modern art center before navigating towards the historic medina walls. In the afternoon, explore ancient gates and archaeological treasures that unveil Morocco's complex past. Finish with a scenic drive up Jbel Dersa, where panoramic sunset views across the white city provide a truly unforgettable finale."
+      }
+    }
+  }
+}

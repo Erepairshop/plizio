@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-urbanitzacio-garraf-ii-cities-v2",
+  "anchor": {
+    "name": "Urbanització Garraf II",
+    "coords": [
+      1.93787,
+      41.26817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 4.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forn de calç",
+            "hu": "Forn de calç",
+            "ro": "Forn de calç",
+            "en": "Forn de calç"
+          },
+          "coords": [
+            1.953647,
+            41.279342
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.79,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen traditionellen Kalkofen, der die industrielle Vergangenheit der Region symbolisiert, und tragen Sie festes Schuhwerk für den Weg.",
+            "hu": "Fedezze fel ezt a hagyományos mészégetőt, amely a régió ipari múltját képviseli, és viseljen túracipőt az egyenetlen megközelítési útvonalhoz.",
+            "ro": "Descoperiți acest cuptor tradițional de var ce reprezintă trecutul industrial al regiunii și purtați încălțăminte adecvată pentru poteca denivelată.",
+            "en": "Discover the traditional lime kiln representing the region's industrial past, and be sure to wear sturdy shoes for the uneven approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Eulalia de Bellamar",
+            "hu": "Santa Eulalia de Bellamar",
+            "ro": "Santa Eulalia de Bellamar",
+            "en": "Santa Eulalia de Bellamar"
+          },
+          "coords": [
+            1.952006,
+            41.268051
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser malerischen religiösen Stätte und kommen Sie früh, um die Fassade ohne störende Blendung zu fotografieren.",
+            "hu": "Csodálja meg e csendes vallási helyszín bájos építészetét, és érkezzen korán, hogy a homlokzatot tökéletes, tükröződésmentes fényben fotózhassa.",
+            "ro": "Admirați arhitectura fermecătoare a acestui loc religios pitoresc ce oferă momente de liniște și veniți devreme pentru a fotografia fațada la lumina perfectă.",
+            "en": "Admire the charming architecture of this quaint religious site offering peaceful moments, and arrive early to photograph the facade without glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Moruna",
+            "hu": "Torre Moruna",
+            "ro": "Torre Moruna",
+            "en": "Torre Moruna"
+          },
+          "coords": [
+            1.957245,
+            41.26926
+          ],
+          "category": "tower",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wehrturm, der Einblicke in den Küstenschutz bietet, und lesen Sie die Informationstafeln für den besten Kontext.",
+            "hu": "Fedezze fel ezt a történelmi védőtornyot, amely betekintést nyújt a partvédelembe, és olvassa el a közeli információs táblákat a legjobb kontextusért.",
+            "ro": "Explorați acest turn defensiv istoric ce oferă o perspectivă excelentă asupra protecției de coastă și citiți panourile informative pentru context.",
+            "en": "Explore this historic defensive tower which offers great insight into coastal protection, and check the nearby placards for the best historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona marìtim terrestre",
+            "hu": "Zona marìtim terrestre",
+            "ro": "Zona marìtim terrestre",
+            "en": "Zona marìtim terrestre"
+          },
+          "coords": [
+            1.961659,
+            41.264786
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses unberührten Küstengebiets, um die lokale Artenvielfalt zu beobachten, und bringen Sie ein Fernglas für Seevögel mit.",
+            "hu": "Sétáljon végig ezen az érintetlen partvidéken a helyi tengeri biodiverzitás megfigyeléséhez, és hozzon távcsövet a tengeri madarak könnyebb észleléséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei zone de coastă imaculate pentru a observa biodiversitatea marină și aduceți un binoclu pentru a repera păsările de mare.",
+            "en": "Stroll along this pristine natural coastal area to observe local marine biodiversity, and bring binoculars to easily spot sea birds along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Castelldefels",
+            "hu": "Platja de Castelldefels",
+            "ro": "Platja de Castelldefels",
+            "en": "Platja de Castelldefels"
+          },
+          "coords": [
+            1.964681,
+            41.263792
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses weitläufigen Strandes und mieten Sie frühzeitig eine Sonnenliege, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, aranyhomokos strandon, amely ideális a nap lezárásához, és béreljen napágyat korán, hogy biztosítsa a legjobb helyet a vízparton.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje întinse, ideală după o zi lungă, și închiriați un șezlong din timp pentru a prinde cel mai bun loc la apă.",
+            "en": "Relax on the golden sands of this expansive beach ideal for unwinding after a long day, and rent a sunbed early to secure a prime spot near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag in der Garraf-Hügelkette und erkunden Sie den historischen Kalkofen.\n\nSpazieren Sie hinab zur charmanten Kirche Santa Eulalia und dem faszinierenden Torre Moruna.\n\nErleben Sie die unberührte Natur der Küstenzone und beobachten Sie die reiche Meeresflora.\n\nBeenden Sie den Tag entspannt am goldenen Sandstrand von Castelldefels bei einem perfekten Sonnenuntergang.",
+        "hu": "Kezdje a napot a Garraf-hegységben, a történelmi mészégető felfedezésével.\n\nSétáljon le a bájos Santa Eulalia templomhoz és a lenyűgöző Torre Moruna toronyhoz.\n\nTapasztalja meg a part menti övezet érintetlen természetét és a gazdag tengeri növényvilágot.\n\nZárja a napot pihenéssel Castelldefels aranyhomokos strandján egy tökéletes naplemente kíséretében.",
+        "ro": "Începeți ziua în dealurile Garraf, explorând istoricul cuptor de var.\n\nCoborâți spre fermecătoarea biserică Santa Eulalia și fascinantul Torre Moruna.\n\nExperimentați natura neatinsă a zonei de coastă și observați flora marină bogată.\n\nÎncheiați ziua relaxându-vă pe plaja cu nisip auriu din Castelldefels cu un apus perfect.",
+        "en": "Start your morning in the Garraf hills, exploring the historic lime kiln.\n\nWalk down towards the charming Santa Eulalia church and the fascinating Torre Moruna.\n\nExperience the pristine nature of the coastal zone and observe the rich marine flora.\n\nEnd your day relaxing on the golden sands of Castelldefels beach with a perfect sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 7.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de la Serra del Lladre",
+            "hu": "Mirador de la Serra del Lladre",
+            "ro": "Mirador de la Serra del Lladre",
+            "en": "Mirador de la Serra del Lladre"
+          },
+          "coords": [
+            1.916584,
+            41.268919
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.77,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem erhöhten Aussichtspunkt und bringen Sie eine Windjacke gegen die starke Brise mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a teljes partvidékre erről a magaslati pontról, és hozzon magával széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare ale coastei de la acest punct de belvedere și aduceți o jachetă de vânt deoarece briza mării poate fi puternică.",
+            "en": "Enjoy breathtaking panoramic views of the entire coastline from this elevated viewpoint, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Ginesta",
+            "hu": "Cala de la Ginesta",
+            "ro": "Cala de la Ginesta",
+            "en": "Cala de la Ginesta"
+          },
+          "coords": [
+            1.91933,
+            41.257863
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Küstenjuwel mit ruhigem Wasser und schroffen Klippen und packen Sie ein Picknick ein, da es hier keine Restaurants gibt.",
+            "hu": "Fedezze fel ezt a nyugodt vizeiről és szikláiról ismert rejtett tengerparti gyöngyszemet, és csomagoljon pikniket, mert nincsenek a közelben éttermek.",
+            "ro": "Descoperiți această bijuterie ascunsă de coastă, cunoscută pentru apele sale liniștite, și aduceți un picnic pentru că nu există restaurante în apropiere.",
+            "en": "Discover this hidden coastal gem known for its peaceful waters and rugged cliffs, and pack a light picnic since there are no nearby food facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Eulalia de Bellamar",
+            "hu": "Santa Eulalia de Bellamar",
+            "ro": "Santa Eulalia de Bellamar",
+            "en": "Santa Eulalia de Bellamar"
+          },
+          "coords": [
+            1.952006,
+            41.268051
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.92,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser malerischen religiösen Stätte und kommen Sie früh, um die Fassade ohne störende Blendung zu fotografieren.",
+            "hu": "Csodálja meg e csendes vallási helyszín bájos építészetét, és érkezzen korán, hogy a homlokzatot tökéletes, tükröződésmentes fényben fotózhassa.",
+            "ro": "Admirați arhitectura fermecătoare a acestui loc religios pitoresc ce oferă momente de liniște și veniți devreme pentru a fotografia fațada la lumina perfectă.",
+            "en": "Admire the charming architecture of this quaint religious site offering peaceful moments, and arrive early to photograph the facade without glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Moruna",
+            "hu": "Torre Moruna",
+            "ro": "Torre Moruna",
+            "en": "Torre Moruna"
+          },
+          "coords": [
+            1.957245,
+            41.26926
+          ],
+          "category": "tower",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wehrturm, der Einblicke in den Küstenschutz bietet, und lesen Sie die Informationstafeln für den besten Kontext.",
+            "hu": "Fedezze fel ezt a történelmi védőtornyot, amely betekintést nyújt a partvédelembe, és olvassa el a közeli információs táblákat a legjobb kontextusért.",
+            "ro": "Explorați acest turn defensiv istoric ce oferă o perspectivă excelentă asupra protecției de coastă și citiți panourile informative pentru context.",
+            "en": "Explore this historic defensive tower which offers great insight into coastal protection, and check the nearby placards for the best historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona marìtim terrestre",
+            "hu": "Zona marìtim terrestre",
+            "ro": "Zona marìtim terrestre",
+            "en": "Zona marìtim terrestre"
+          },
+          "coords": [
+            1.961659,
+            41.264786
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses unberührten Küstengebiets, um die lokale Artenvielfalt zu beobachten, und bringen Sie ein Fernglas für Seevögel mit.",
+            "hu": "Sétáljon végig ezen az érintetlen partvidéken a helyi tengeri biodiverzitás megfigyeléséhez, és hozzon távcsövet a tengeri madarak könnyebb észleléséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei zone de coastă imaculate pentru a observa biodiversitatea marină și aduceți un binoclu pentru a repera păsările de mare.",
+            "en": "Stroll along this pristine natural coastal area to observe local marine biodiversity, and bring binoculars to easily spot sea birds along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Castelldefels",
+            "hu": "Platja de Castelldefels",
+            "ro": "Platja de Castelldefels",
+            "en": "Platja de Castelldefels"
+          },
+          "coords": [
+            1.964681,
+            41.263792
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses weitläufigen Strandes und mieten Sie frühzeitig eine Sonnenliege, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, aranyhomokos strandon, amely ideális a nap lezárásához, és béreljen napágyat korán, hogy biztosítsa a legjobb helyet a vízparton.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje întinse, ideală după o zi lungă, și închiriați un șezlong din timp pentru a prinde cel mai bun loc la apă.",
+            "en": "Relax on the golden sands of this expansive beach ideal for unwinding after a long day, and rent a sunbed early to secure a prime spot near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum Aussichtspunkt Mirador de la Serra del Lladre für erste spektakuläre Küstenblicke.\n\nFahren Sie weiter zur versteckten Cala de la Ginesta, einem idyllischen Ort für eine Pause.\n\nBesuchen Sie historische Denkmäler wie Santa Eulalia und den alten Torre Moruna am Wasser.\n\nLassen Sie die Radtour ausklingen, während Sie den Strand von Castelldefels genießen.",
+        "hu": "Kerékpározzon a Mirador de la Serra del Lladre kilátóhoz az első látványos parti panorámáért.\n\nHaladjon tovább a rejtett Cala de la Ginesta felé, amely idillien békés pihenőhely.\n\nLátogassa meg a történelmi műemlékeket, mint Santa Eulalia és a régi Torre Moruna a víz közelében.\n\nFejezze be a kerékpártúrát Castelldefels strandjának élvezetével a kora esti szürkületben.",
+        "ro": "Pedalați către punctul de belvedere Mirador de la Serra del Lladre pentru primele priveliști spectaculoase.\n\nContinuați spre ascunsa Cala de la Ginesta, un loc idilic pentru o pauză liniștită.\n\nVizitați monumente istorice precum Santa Eulalia și vechiul Torre Moruna, aproape de apă.\n\nÎncheiați turul cu bicicleta bucurându-vă de plaja Castelldefels în amurg.",
+        "en": "Cycle to the Mirador de la Serra del Lladre viewpoint for the first spectacular coastal views.\n\nContinue riding to the hidden Cala de la Ginesta, an idyllic spot for a peaceful break.\n\nVisit historical monuments like Santa Eulalia and the old Torre Moruna near the water.\n\nConclude your bike tour while enjoying Castelldefels beach during the early evening twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 9.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Puig del Cèrvol",
+            "hu": "Puig del Cèrvol",
+            "ro": "Puig del Cèrvol",
+            "en": "Puig del Cèrvol"
+          },
+          "coords": [
+            1.945306,
+            41.280125
+          ],
+          "category": "natural",
+          "arrive_at": "09:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel, um in die mediterrane Flora einzutauchen, und bleiben Sie auf den markierten Wegen, um dornige Büsche zu meiden.",
+            "hu": "Túrázzon fel erre a kiemelkedő dombra, hogy elmerüljön a mediterrán növényzetben, és maradjon a kijelölt ösvényeken a tüskés bokrok elkerülése végett.",
+            "ro": "Urcați pe acest deal proeminent pentru a vă cufunda în flora mediteraneană și rămâneți pe traseele marcate pentru a evita arbuștii spinoși de pe coastă.",
+            "en": "Hike up this prominent hill to immerse yourself in the natural Mediterranean flora, and stay on the marked trails to easily avoid thorny coastal bushes."
+          }
+        },
+        {
+          "name": {
+            "de": "Corral del Cérvol",
+            "hu": "Corral del Cérvol",
+            "ro": "Corral del Cérvol",
+            "en": "Corral del Cérvol"
+          },
+          "coords": [
+            1.947072,
+            41.279786
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese alten Steinruinen, die Geschichten der historischen Schafzucht erzählen, und achten Sie auf die losen Steine entlang des Pfades.",
+            "hu": "Vizsgálja meg ezeket a régi kőromokat, amelyek a történelmi juhtenyésztésről mesélnek, és figyeljen a lépéseire az ösvényen szétszórt laza kövek miatt.",
+            "ro": "Investigați aceste ruine vechi de piatră ce spun poveștile creșterii istorice a oilor și aveți grijă la pietrele libere împrăștiate de-a lungul potecii.",
+            "en": "Investigate these old stone ruins that whisper tales of historical sheep farming, and watch your step around the loose stones scattered along the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Pic de Martell",
+            "hu": "Pic de Martell",
+            "ro": "Pic de Martell",
+            "en": "Pic de Martell"
+          },
+          "coords": [
+            1.923298,
+            41.274422
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Bezwingen Sie diesen dramatischen Gipfel, um Isolation und Schönheit zu erleben, und nehmen Sie viel Wasser mit, da der Aufstieg kaum natürlichen Schatten bietet.",
+            "hu": "Hódítsa meg ezt a drámai csúcsot az elszigeteltség és szépség élményéért, és vigyen magával bőségesen vizet, mivel a felfelé vezető út alig ad árnyékot.",
+            "ro": "Cuceriți acest vârf dramatic pentru a experimenta izolarea și frumusețea sa și luați multă apă deoarece urcarea oferă foarte puțină umbră naturală.",
+            "en": "Conquer this dramatic peak to experience a profound sense of isolation and beauty, and carry plenty of water as the ascent offers very little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Serra del Lladre",
+            "hu": "Mirador de la Serra del Lladre",
+            "ro": "Mirador de la Serra del Lladre",
+            "en": "Mirador de la Serra del Lladre"
+          },
+          "coords": [
+            1.916584,
+            41.268919
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem erhöhten Aussichtspunkt und bringen Sie eine Windjacke gegen die starke Brise mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a teljes partvidékre erről a magaslati pontról, és hozzon magával széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare ale coastei de la acest punct de belvedere și aduceți o jachetă de vânt deoarece briza mării poate fi puternică.",
+            "en": "Enjoy breathtaking panoramic views of the entire coastline from this elevated viewpoint, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Ginesta",
+            "hu": "Cala de la Ginesta",
+            "ro": "Cala de la Ginesta",
+            "en": "Cala de la Ginesta"
+          },
+          "coords": [
+            1.91933,
+            41.257863
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Küstenjuwel mit ruhigem Wasser und schroffen Klippen und packen Sie ein Picknick ein, da es hier keine Restaurants gibt.",
+            "hu": "Fedezze fel ezt a nyugodt vizeiről és szikláiról ismert rejtett tengerparti gyöngyszemet, és csomagoljon pikniket, mert nincsenek a közelben éttermek.",
+            "ro": "Descoperiți această bijuterie ascunsă de coastă, cunoscută pentru apele sale liniștite, și aduceți un picnic pentru că nu există restaurante în apropiere.",
+            "en": "Discover this hidden coastal gem known for its peaceful waters and rugged cliffs, and pack a light picnic since there are no nearby food facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Moruna",
+            "hu": "Torre Moruna",
+            "ro": "Torre Moruna",
+            "en": "Torre Moruna"
+          },
+          "coords": [
+            1.957245,
+            41.26926
+          ],
+          "category": "tower",
+          "arrive_at": "14:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wehrturm, der Einblicke in den Küstenschutz bietet, und lesen Sie die Informationstafeln für den besten Kontext.",
+            "hu": "Fedezze fel ezt a történelmi védőtornyot, amely betekintést nyújt a partvédelembe, és olvassa el a közeli információs táblákat a legjobb kontextusért.",
+            "ro": "Explorați acest turn defensiv istoric ce oferă o perspectivă excelentă asupra protecției de coastă și citiți panourile informative pentru context.",
+            "en": "Explore this historic defensive tower which offers great insight into coastal protection, and check the nearby placards for the best historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Castelldefels",
+            "hu": "Platja de Castelldefels",
+            "ro": "Platja de Castelldefels",
+            "en": "Platja de Castelldefels"
+          },
+          "coords": [
+            1.964681,
+            41.263792
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses weitläufigen Strandes und mieten Sie frühzeitig eine Sonnenliege, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, aranyhomokos strandon, amely ideális a nap lezárásához, és béreljen napágyat korán, hogy biztosítsa a legjobb helyet a vízparton.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje întinse, ideală după o zi lungă, și închiriați un șezlong din timp pentru a prinde cel mai bun loc la apă.",
+            "en": "Relax on the golden sands of this expansive beach ideal for unwinding after a long day, and rent a sunbed early to secure a prime spot near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie hinauf zum Puig del Cèrvol und den Ruinen des Corral del Cérvol in der Bergwelt.\n\nGenießen Sie den grandiosen Ausblick vom Pic de Martell und dem Mirador de la Serra del Lladre.\n\nEntspannen Sie an der abgelegenen Bucht Cala de la Ginesta, bevor Sie den Wehrturm erkunden.\n\nDer Tag gipfelt in einem Spaziergang entlang des Strandes von Castelldefels.",
+        "hu": "Vezessen fel a Puig del Cèrvolra és a Corral del Cérvol romjaihoz a festői hegyvidéken.\n\nÉlvezze a csodálatos kilátást a Pic de Martellről és a Mirador de la Serra del Lladre kilátóból.\n\nPihenjen a távoli Cala de la Ginesta öbölben, mielőtt felfedezné a Torre Moruna védőtornyot.\n\nA nap egy csendes sétával csúcsosodik ki Castelldefels hatalmas strandján.",
+        "ro": "Conduceți sus spre Puig del Cèrvol și ruinele Corral del Cérvol în munții pitorești.\n\nBucurați-vă de priveliștile grandioase de pe Pic de Martell și Mirador de la Serra del Lladre.\n\nRelaxați-vă în golful izolat Cala de la Ginesta înainte de a explora turnul Torre Moruna.\n\nZiua culminează cu o plimbare liniștită de-a lungul plajei întinse din Castelldefels.",
+        "en": "Drive up to Puig del Cèrvol and the ruins of Corral del Cérvol in the picturesque mountains.\n\nEnjoy the magnificent views from Pic de Martell and Mirador de la Serra del Lladre.\n\nRelax at the remote cove of Cala de la Ginesta before exploring the Torre Moruna tower.\n\nThe day culminates in a quiet stroll along the expansive beach of Castelldefels."
+      }
+    }
+  }
+}

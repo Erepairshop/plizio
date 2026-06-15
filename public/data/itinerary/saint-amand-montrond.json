@@ -1,0 +1,520 @@
+{
+  "city_id": "saint-amand-montrond",
+  "anchor": {
+    "name": "Saint-Amand-Montrond",
+    "coords": [
+      2.505,
+      46.7228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Amand",
+            "hu": "Église Saint-Amand",
+            "ro": "Église Saint-Amand",
+            "en": "Église Saint-Amand"
+          },
+          "coords": [
+            2.511107,
+            46.721137
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser majestätischen romanischen Kirche und bewundern Sie die kunstvollen Schnitzereien, bevor die Massen eintreffen.",
+            "hu": "Kezdje a napot ennél a fenséges román stílusú templomnál, és csodálja meg a bonyolult faragványokat még a reggeli tömeg érkezése előtt.",
+            "ro": "Începeți ziua la această biserică romanică maiestuoasă, admirând sculpturile complicate din naos înainte de sosirea aglomerației matinale.",
+            "en": "Start your day at this majestic Romanesque church, taking time to admire the intricate nave carvings before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Saint-Vic",
+            "hu": "Musée Saint-Vic",
+            "ro": "Musée Saint-Vic",
+            "en": "Musée Saint-Vic"
+          },
+          "coords": [
+            2.50764,
+            46.72141
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte in dieser ehemaligen Bischofsresidenz, aber holen Sie sich unbedingt einen Audioguide für die Artefakte.",
+            "hu": "Fedezze fel a helyi történelmet ebben az egykori püspöki rezidenciában, de mindenképp kérjen audioguide-ot a regionális leletek megértéséhez.",
+            "ro": "Explorați istoria locală în această fostă reședință episcopală, dar luați un ghid audio pentru a aprecia pe deplin artefactele regionale.",
+            "en": "Explore local history in this former bishop's residence, but make sure to grab an audio guide to fully appreciate the diverse regional artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            2.495556,
+            46.722778
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die Ruinen dieser mittelalterlichen Festung und tragen Sie festes Schuhwerk, um sicher über die unebenen Grashänge zu gehen.",
+            "hu": "Sétáljon végig a középkori erődítmény hangulatos romjain, és viseljen kényelmes cipőt az egyenetlen, füves lejtőkön való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe medievale, purtând încălțăminte robustă pentru a naviga în siguranță pe pantele înierbate denivelate.",
+            "en": "Wander the evocative ruins of this medieval fortress, wearing sturdy shoes to safely navigate the uneven grassy slopes and remaining stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Berry",
+            "hu": "Canal de Berry",
+            "ro": "Canal de Berry",
+            "en": "Canal de Berry"
+          },
+          "coords": [
+            2.499636,
+            46.711091
+          ],
+          "category": "natural",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses historischen Kanals und bringen Sie etwas Brot mit, um die Enten an den schattigen Ufern zu füttern.",
+            "hu": "Élvezze a nyugodt sétát e történelmi keskeny csatorna mentén, és hozzon egy kis kenyeret a kacsák etetéséhez az árnyékos partokon pihenve.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestui canal istoric, aducând puțină pâine pentru a hrăni rațele în timp ce stați pe malurile umbrite.",
+            "en": "Enjoy a tranquil walk along this historic narrow canal, bringing some bread to feed the ducks while sitting peacefully on the shaded banks."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cité de l'Or",
+            "hu": "La Cité de l'Or",
+            "ro": "La Cité de l'Or",
+            "en": "La Cité de l'Or"
+          },
+          "coords": [
+            2.486515,
+            46.727963
+          ],
+          "category": "cultural",
+          "arrive_at": "15:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die moderne Glaspyramide des Schmuckerbes der Stadt und buchen Sie Ihr Ticket für die Gießereivorführung am besten frühzeitig.",
+            "hu": "Csodálja meg a város ékszerörökségének szentelt modern üvegpiramist, és foglalja le a kora délutáni öntödei bemutatóra szóló jegyét időben.",
+            "ro": "Admirați piramida modernă de sticlă dedicată patrimoniului de bijuterii, rezervând biletul pentru demonstrația de turnătorie devreme.",
+            "en": "Marvel at the modern glass pyramid dedicated to the city's jewelry heritage, booking your foundry demonstration ticket early in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in das spirituelle und kulturelle Herz von Saint-Amand-Montrond eintauchen und die historischen Kirchen und Sammlungen bewundern.\n\nDie Mittagszeit lädt zu einem Übergang zum mittelalterlichen Erbe der Stadt ein, wo Burgruinen weite Ausblicke und einen Blick in vergangene Jahrhunderte bieten.\n\nAm Nachmittag wenden Sie sich vom alten Stein ab und erleben die Brillanz der modernen Industrie im berühmten Goldkomplex der Stadt.\n\nBeenden Sie Ihren Tag in der beruhigenden Natur und spazieren Sie an historischen Wasserwegen oder ruhigen Seen entlang, während der Abend sanft hereinbricht.",
+        "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
+        "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
+        "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:43",
+      "total_km": 9.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Amand",
+            "hu": "Église Saint-Amand",
+            "ro": "Église Saint-Amand",
+            "en": "Église Saint-Amand"
+          },
+          "coords": [
+            2.511107,
+            46.721137
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser majestätischen romanischen Kirche und bewundern Sie die kunstvollen Schnitzereien, bevor die Massen eintreffen.",
+            "hu": "Kezdje a napot ennél a fenséges román stílusú templomnál, és csodálja meg a bonyolult faragványokat még a reggeli tömeg érkezése előtt.",
+            "ro": "Începeți ziua la această biserică romanică maiestuoasă, admirând sculpturile complicate din naos înainte de sosirea aglomerației matinale.",
+            "en": "Start your day at this majestic Romanesque church, taking time to admire the intricate nave carvings before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Saint-Vic",
+            "hu": "Musée Saint-Vic",
+            "ro": "Musée Saint-Vic",
+            "en": "Musée Saint-Vic"
+          },
+          "coords": [
+            2.50764,
+            46.72141
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte in dieser ehemaligen Bischofsresidenz, aber holen Sie sich unbedingt einen Audioguide für die Artefakte.",
+            "hu": "Fedezze fel a helyi történelmet ebben az egykori püspöki rezidenciában, de mindenképp kérjen audioguide-ot a regionális leletek megértéséhez.",
+            "ro": "Explorați istoria locală în această fostă reședință episcopală, dar luați un ghid audio pentru a aprecia pe deplin artefactele regionale.",
+            "en": "Explore local history in this former bishop's residence, but make sure to grab an audio guide to fully appreciate the diverse regional artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            2.495556,
+            46.722778
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die Ruinen dieser mittelalterlichen Festung und tragen Sie festes Schuhwerk, um sicher über die unebenen Grashänge zu gehen.",
+            "hu": "Sétáljon végig a középkori erődítmény hangulatos romjain, és viseljen kényelmes cipőt az egyenetlen, füves lejtőkön való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe medievale, purtând încălțăminte robustă pentru a naviga în siguranță pe pantele înierbate denivelate.",
+            "en": "Wander the evocative ruins of this medieval fortress, wearing sturdy shoes to safely navigate the uneven grassy slopes and remaining stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cité de l'Or",
+            "hu": "La Cité de l'Or",
+            "ro": "La Cité de l'Or",
+            "en": "La Cité de l'Or"
+          },
+          "coords": [
+            2.486515,
+            46.727963
+          ],
+          "category": "cultural",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die moderne Glaspyramide des Schmuckerbes der Stadt und buchen Sie Ihr Ticket für die Gießereivorführung am besten frühzeitig.",
+            "hu": "Csodálja meg a város ékszerörökségének szentelt modern üvegpiramist, és foglalja le a kora délutáni öntödei bemutatóra szóló jegyét időben.",
+            "ro": "Admirați piramida modernă de sticlă dedicată patrimoniului de bijuterii, rezervând biletul pentru demonstrația de turnătorie devreme.",
+            "en": "Marvel at the modern glass pyramid dedicated to the city's jewelry heritage, booking your foundry demonstration ticket early in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Virlay",
+            "hu": "Lac de Virlay",
+            "ro": "Lac de Virlay",
+            "en": "Lac de Virlay"
+          },
+          "coords": [
+            2.478168,
+            46.735812
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem von üppigem Grün umgebenen Natursee und halten Sie Ihre Kamera für die reiche Vogelwelt im Schilf bereit.",
+            "hu": "Pihenjen a buja növényzettel körülvett tágas természetes tó partján, és tartsa készenlétben a fényképezőgépét a nádasban fészkelő madarakhoz.",
+            "ro": "Relaxați-vă pe malul acestui lac natural înconjurat de verdeață luxuriantă, având camera pregătită pentru numeroasele păsări care cuibăresc.",
+            "en": "Relax by this expansive natural lake surrounded by lush greenery, keeping your camera ready for the abundant local birdlife nesting in the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de Noirlac",
+            "hu": "Abbaye de Noirlac",
+            "ro": "Abbaye de Noirlac",
+            "en": "Abbaye de Noirlac"
+          },
+          "coords": [
+            2.461384,
+            46.745237
+          ],
+          "category": "monastic",
+          "arrive_at": "16:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie in dieser Zisterzienserabtei eine Reise in die Vergangenheit und achten Sie beim Besuch auf die makellose Akustik des Kreuzgangs.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött ciszterci apátságban, és látogatása során figyeljen a kerengő lenyűgöző akusztikájára.",
+            "ro": "Întoarceți-vă în timp în această abație cisterciană frumos conservată, acordând o atenție deosebită acusticii impecabile din claustru.",
+            "en": "Step back in time inside this beautifully preserved Cistercian abbey, paying special attention to the pristine cloister acoustics during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Berry",
+            "hu": "Canal de Berry",
+            "ro": "Canal de Berry",
+            "en": "Canal de Berry"
+          },
+          "coords": [
+            2.499636,
+            46.711091
+          ],
+          "category": "natural",
+          "arrive_at": "17:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses historischen Kanals und bringen Sie etwas Brot mit, um die Enten an den schattigen Ufern zu füttern.",
+            "hu": "Élvezze a nyugodt sétát e történelmi keskeny csatorna mentén, és hozzon egy kis kenyeret a kacsák etetéséhez az árnyékos partokon pihenve.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestui canal istoric, aducând puțină pâine pentru a hrăni rațele în timp ce stați pe malurile umbrite.",
+            "en": "Enjoy a tranquil walk along this historic narrow canal, bringing some bread to feed the ducks while sitting peacefully on the shaded banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in das spirituelle und kulturelle Herz von Saint-Amand-Montrond eintauchen und die historischen Kirchen und Sammlungen bewundern.\n\nDie Mittagszeit lädt zu einem Übergang zum mittelalterlichen Erbe der Stadt ein, wo Burgruinen weite Ausblicke und einen Blick in vergangene Jahrhunderte bieten.\n\nAm Nachmittag wenden Sie sich vom alten Stein ab und erleben die Brillanz der modernen Industrie im berühmten Goldkomplex der Stadt.\n\nBeenden Sie Ihren Tag in der beruhigenden Natur und spazieren Sie an historischen Wasserwegen oder ruhigen Seen entlang, während der Abend sanft hereinbricht.",
+        "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
+        "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
+        "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:26",
+      "total_km": 10.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Amand",
+            "hu": "Église Saint-Amand",
+            "ro": "Église Saint-Amand",
+            "en": "Église Saint-Amand"
+          },
+          "coords": [
+            2.511107,
+            46.721137
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser majestätischen romanischen Kirche und bewundern Sie die kunstvollen Schnitzereien, bevor die Massen eintreffen.",
+            "hu": "Kezdje a napot ennél a fenséges román stílusú templomnál, és csodálja meg a bonyolult faragványokat még a reggeli tömeg érkezése előtt.",
+            "ro": "Începeți ziua la această biserică romanică maiestuoasă, admirând sculpturile complicate din naos înainte de sosirea aglomerației matinale.",
+            "en": "Start your day at this majestic Romanesque church, taking time to admire the intricate nave carvings before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Saint-Vic",
+            "hu": "Musée Saint-Vic",
+            "ro": "Musée Saint-Vic",
+            "en": "Musée Saint-Vic"
+          },
+          "coords": [
+            2.50764,
+            46.72141
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte in dieser ehemaligen Bischofsresidenz, aber holen Sie sich unbedingt einen Audioguide für die Artefakte.",
+            "hu": "Fedezze fel a helyi történelmet ebben az egykori püspöki rezidenciában, de mindenképp kérjen audioguide-ot a regionális leletek megértéséhez.",
+            "ro": "Explorați istoria locală în această fostă reședință episcopală, dar luați un ghid audio pentru a aprecia pe deplin artefactele regionale.",
+            "en": "Explore local history in this former bishop's residence, but make sure to grab an audio guide to fully appreciate the diverse regional artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            2.495556,
+            46.722778
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die Ruinen dieser mittelalterlichen Festung und tragen Sie festes Schuhwerk, um sicher über die unebenen Grashänge zu gehen.",
+            "hu": "Sétáljon végig a középkori erődítmény hangulatos romjain, és viseljen kényelmes cipőt az egyenetlen, füves lejtőkön való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe medievale, purtând încălțăminte robustă pentru a naviga în siguranță pe pantele înierbate denivelate.",
+            "en": "Wander the evocative ruins of this medieval fortress, wearing sturdy shoes to safely navigate the uneven grassy slopes and remaining stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des vignes",
+            "hu": "Lac des vignes",
+            "ro": "Lac des vignes",
+            "en": "Lac des vignes"
+          },
+          "coords": [
+            2.482199,
+            46.724572
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen Abstecher zu diesem malerischen kleinen See, der sich ideal für ein kurzes Picknick oder einen Spaziergang abseits des Zentrums eignet.",
+            "hu": "Tegyen egy nyugodt kitérőt ehhez a festői kis tóhoz, amely tökéletes egy gyors déli piknikhez, távol a forgalmas városközpont zajától.",
+            "ro": "Faceți un ocol liniștit către acest mic lac pitoresc, perfect pentru un picnic rapid la amiază sau pentru a vă întinde picioarele departe de centru.",
+            "en": "Take a peaceful detour to this scenic small lake area, perfect for a quick midday picnic or stretching your legs away from the busy center."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cité de l'Or",
+            "hu": "La Cité de l'Or",
+            "ro": "La Cité de l'Or",
+            "en": "La Cité de l'Or"
+          },
+          "coords": [
+            2.486515,
+            46.727963
+          ],
+          "category": "cultural",
+          "arrive_at": "14:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die moderne Glaspyramide des Schmuckerbes der Stadt und buchen Sie Ihr Ticket für die Gießereivorführung am besten frühzeitig.",
+            "hu": "Csodálja meg a város ékszerörökségének szentelt modern üvegpiramist, és foglalja le a kora délutáni öntödei bemutatóra szóló jegyét időben.",
+            "ro": "Admirați piramida modernă de sticlă dedicată patrimoniului de bijuterii, rezervând biletul pentru demonstrația de turnătorie devreme.",
+            "en": "Marvel at the modern glass pyramid dedicated to the city's jewelry heritage, booking your foundry demonstration ticket early in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Virlay",
+            "hu": "Lac de Virlay",
+            "ro": "Lac de Virlay",
+            "en": "Lac de Virlay"
+          },
+          "coords": [
+            2.478168,
+            46.735812
+          ],
+          "category": "natural",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem von üppigem Grün umgebenen Natursee und halten Sie Ihre Kamera für die reiche Vogelwelt im Schilf bereit.",
+            "hu": "Pihenjen a buja növényzettel körülvett tágas természetes tó partján, és tartsa készenlétben a fényképezőgépét a nádasban fészkelő madarakhoz.",
+            "ro": "Relaxați-vă pe malul acestui lac natural înconjurat de verdeață luxuriantă, având camera pregătită pentru numeroasele păsări care cuibăresc.",
+            "en": "Relax by this expansive natural lake surrounded by lush greenery, keeping your camera ready for the abundant local birdlife nesting in the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de Noirlac",
+            "hu": "Abbaye de Noirlac",
+            "ro": "Abbaye de Noirlac",
+            "en": "Abbaye de Noirlac"
+          },
+          "coords": [
+            2.461384,
+            46.745237
+          ],
+          "category": "monastic",
+          "arrive_at": "17:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie in dieser Zisterzienserabtei eine Reise in die Vergangenheit und achten Sie beim Besuch auf die makellose Akustik des Kreuzgangs.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött ciszterci apátságban, és látogatása során figyeljen a kerengő lenyűgöző akusztikájára.",
+            "ro": "Întoarceți-vă în timp în această abație cisterciană frumos conservată, acordând o atenție deosebită acusticii impecabile din claustru.",
+            "en": "Step back in time inside this beautifully preserved Cistercian abbey, paying special attention to the pristine cloister acoustics during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Berry",
+            "hu": "Canal de Berry",
+            "ro": "Canal de Berry",
+            "en": "Canal de Berry"
+          },
+          "coords": [
+            2.499636,
+            46.711091
+          ],
+          "category": "natural",
+          "arrive_at": "18:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses historischen Kanals und bringen Sie etwas Brot mit, um die Enten an den schattigen Ufern zu füttern.",
+            "hu": "Élvezze a nyugodt sétát e történelmi keskeny csatorna mentén, és hozzon egy kis kenyeret a kacsák etetéséhez az árnyékos partokon pihenve.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestui canal istoric, aducând puțină pâine pentru a hrăni rațele în timp ce stați pe malurile umbrite.",
+            "en": "Enjoy a tranquil walk along this historic narrow canal, bringing some bread to feed the ducks while sitting peacefully on the shaded banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in das spirituelle und kulturelle Herz von Saint-Amand-Montrond eintauchen und die historischen Kirchen und Sammlungen bewundern.\n\nDie Mittagszeit lädt zu einem Übergang zum mittelalterlichen Erbe der Stadt ein, wo Burgruinen weite Ausblicke und einen Blick in vergangene Jahrhunderte bieten.\n\nAm Nachmittag wenden Sie sich vom alten Stein ab und erleben die Brillanz der modernen Industrie im berühmten Goldkomplex der Stadt.\n\nBeenden Sie Ihren Tag in der beruhigenden Natur und spazieren Sie an historischen Wasserwegen oder ruhigen Seen entlang, während der Abend sanft hereinbricht.",
+        "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
+        "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
+        "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      }
+    }
+  }
+}

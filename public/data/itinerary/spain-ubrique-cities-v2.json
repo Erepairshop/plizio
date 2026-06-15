@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-ubrique-cities-v2",
+  "anchor": {
+    "name": "Ubrique",
+    "coords": [
+      -5.446,
+      36.67777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 1.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wiege des Leders",
+            "hu": "A Bőr Bölcsője",
+            "ro": "Leagănul Pielii",
+            "en": "Cradle of Leather"
+          },
+          "coords": [
+            -5.449147,
+            36.678994
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Wurzeln der Lederverarbeitung von Ubrique an diesem Ort, und kommen Sie morgens früh, um den Handwerkern bei der Arbeit in ruhiger Atmosphäre zuzusehen.",
+            "hu": "Fedezze fel Ubrique híres bőrművességének történelmi gyökereit ezen a lenyűgöző helyen, és érkezzen kora reggel, hogy nyugodtan megfigyelhesse a helyi mesteremberek hagyományos munkáját.",
+            "ro": "Explorați rădăcinile istorice ale prelucrării pielii din Ubrique în acest loc fascinant și sosiți dimineața devreme pentru a observa artizanii locali lucrând într-o atmosferă liniștită.",
+            "en": "Discover the deep historical roots of Ubrique's famous leatherworking at this fascinating site, and arrive early in the morning to observe the local artisans working in a quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Pedro",
+            "hu": "Szent Péter-kápolna",
+            "ro": "Schitul Sfântul Petru",
+            "en": "St. Peter's Hermitage"
+          },
+          "coords": [
+            -5.443488,
+            36.677947
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser charmanten kleinen Kapelle, die einen friedlichen Rückzugsort bietet, und achten Sie auf die kunstvollen Details am historischen Holzportal.",
+            "hu": "Csodálja meg ezen elbűvölő kis kápolna egyszerű, mégis elegáns építészetét, amely békés menedéket nyújt, és mindenképpen figyeljen meg a történelmi fa kapu aprólékos és művészi részleteit.",
+            "ro": "Admirați arhitectura simplă a acestei mici capele fermecătoare, care oferă un refugiu liniștit, și acordați o atenție deosebită detaliilor artistice uimitoare ale vechiului portal din lemn.",
+            "en": "Admire the simple architecture of this charming little chapel that offers a peaceful retreat, and be sure to pay special attention to the stunning artistic details on the historic wooden portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Mai-Kreuze",
+            "hu": "Májusi Keresztek",
+            "ro": "Crucile de Mai",
+            "en": "May Crosses"
+          },
+          "coords": [
+            -5.442462,
+            36.677443
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem Ort in die tief verwurzelte Tradition des Mai-Kreuz-Festes ein, das die lokale Kultur prägt, und tragen Sie bequeme Schuhe für den Spaziergang durch die steilen Gassen.",
+            "hu": "Merüljön el a májusi keresztek ünnepének helyi kulturális hagyományaiban ezen a történelmi helyszínen, és viseljen kényelmes cipőt a meredek, macskaköves utcákon való kényelmes sétához.",
+            "ro": "Cufundați-vă în tradiția profundă a sărbătorii crucilor de mai care marchează cultura locală în acest loc istoric și purtați încălțăminte confortabilă pentru plimbarea pe străzile abrupte.",
+            "en": "Immerse yourself in the deeply rooted tradition of the May Crosses festival that defines local culture at this historic spot, and wear comfortable shoes for walking up the steep, cobbled streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Urique Alto",
+            "hu": "Urique Alto Kilátó",
+            "ro": "Punctul de belvedere Urique Alto",
+            "en": "Urique Alto Viewpoint"
+          },
+          "coords": [
+            -5.440579,
+            36.676357
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die weißen Häuser und die umliegenden Berge von diesem Aussichtspunkt, und bringen Sie ein gutes Fernglas mit, um die Details zu erkennen.",
+            "hu": "Élvezze a lenyűgöző panorámát a fehér házakra és a környező hegyekre erről a csodálatos kilátóról, és mindenképpen hozzon magával egy jó távcsövet, hogy jobban láthassa a távoli részleteket.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a caselor albe și a munților înconjurători din acest punct de observație și aduceți un binoclu bun pentru a distinge clar toate detaliile îndepărtate.",
+            "en": "Enjoy breathtaking panoramic views of the classic white houses and surrounding mountains from this high viewpoint, and bring a good pair of binoculars to clearly spot the distant landscape details."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Ermita del Calvario",
+            "hu": "Kálvária-kápolna Kilátó",
+            "ro": "Punct de belvedere Ermita del Calvario",
+            "en": "Calvary Hermitage Viewpoint"
+          },
+          "coords": [
+            -5.442975,
+            36.674484
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe und die fantastische Aussicht an dieser abgelegenen Kapelle, und nehmen Sie sich Zeit für eine kleine Pause, um die friedliche Atmosphäre der Natur zu genießen.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat és a fantasztikus kilátást ennél az eldugott kápolnánál, és szánjon időt egy rövid pihenőre, hogy igazán kiélvezze a természet békés atmoszféráját.",
+            "ro": "Experimentați liniștea spirituală și vederea fantastică de la această capelă izolată și acordați-vă timp pentru o scurtă pauză pentru a vă bucura pe deplin de atmosfera pașnică a naturii.",
+            "en": "Experience the profound spiritual tranquility and fantastic views at this secluded chapel, and take enough time for a short break to fully appreciate the peaceful atmosphere of the surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledermuseum",
+            "hu": "Bőrmúzeum",
+            "ro": "Muzeul Pielii",
+            "en": "Leather Museum"
+          },
+          "coords": [
+            -5.44427,
+            36.680443
+          ],
+          "category": "museum",
+          "arrive_at": "13:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Detail alles über die berühmte Lederindustrie, die diese Stadt weltweit bekannt gemacht hat, und besuchen Sie den Museumsshop, um ein authentisches Souvenir aus echtem Leder zu kaufen.",
+            "hu": "Tudjon meg mindent a híres bőriparról, amely világszerte ismertté tette ezt a várost, és mindenképpen látogasson el a múzeum boltjába, hogy egy igazi, minőségi bőrből készült ajándékot vegyen.",
+            "ro": "Aflați totul despre celebra industrie a pielii care a făcut acest oraș cunoscut în întreaga lume și asigurați-vă că vizitați magazinul muzeului pentru a cumpăra un suvenir autentic de calitate.",
+            "en": "Learn all about the famous leather industry that has made this town globally renowned, and be sure to visit the museum shop to purchase an authentic, high-quality handmade leather souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, in die reiche Ledergeschichte von Ubrique einzutauchen.\n\nAm Mittag schlendern Sie an der friedlichen Ermita de San Pedro vorbei und erkunden die historischen Mai-Kreuze.\n\nAm Nachmittag steigen Sie zu den Aussichtspunkten Urique Alto und Calvario hinauf und genießen spektakuläre Panoramen.\n\nBeenden Sie Ihre Wanderung im Ledermuseum der legendären Handwerkskunst.",
+        "hu": "Kezdje a reggelt azzal, hogy elmélyül Ubrique gazdag bőrműves történelmében a Cuna de la Pielnél.\n\nDélben sétáljon el a békés San Pedro-kápolna mellett, és fedezze fel a történelmi Májusi Kereszteket.\n\nDélután kapaszkodjon fel az Urique Alto és Calvario kilátópontokhoz a lenyűgöző panorámákért.\n\nZárja a túrát a Bőrmúzeumban, amely a város legendás helyi kézművességét ünnepli és mutatja be.",
+        "ro": "Începeți dimineața explorând istoria bogată a pielăriei din Ubrique la Cuna de la Piel.\n\nLa prânz, plimbați-vă pe lângă liniștita Ermita de San Pedro și descoperiți istoricele Cruci de Mai.\n\nDupă-amiaza, urcați la punctele de belvedere Urique Alto și Calvario pentru panorame uimitoare.\n\nÎncheiați turul la Muzeul Pielii, celebrând meșteșugul local legendar care a definit acest oraș minunat.",
+        "en": "Start your morning delving into Ubrique's rich leatherworking history at Cuna de la Piel.\n\nBy midday, stroll past the tranquil Ermita de San Pedro and explore the historic Cruces de Mayo.\n\nIn the afternoon, ascend to the viewpoints of Urique Alto and Calvario for stunning panoramas.\n\nConclude your walking tour at the Leather Museum, celebrating the town's legendary local craftsmanship."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.38,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aussichtspunkt Antigua Viña del Perro",
+            "hu": "Öreg Kutya Szőlője Kilátó",
+            "ro": "Punct de belvedere Antigua Viña del Perro",
+            "en": "Old Dog Vineyard Viewpoint"
+          },
+          "coords": [
+            -5.448084,
+            36.667508
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit der kühlen Morgenbrise an diesem malerischen Naturpunkt, und nutzen Sie das sanfte Licht für beeindruckende Fotos der erwachenden umliegenden Landschaft.",
+            "hu": "Kezdje a biciklis napot a hűvös reggeli szellővel ezen a festői természeti ponton, és használja ki a lágy fényeket a környező ébredező táj lenyűgöző fényképeinek elkészítéséhez.",
+            "ro": "Începeți ziua de ciclism cu briza proaspătă a dimineții în acest punct natural pitoresc și folosiți lumina blândă pentru a face fotografii uimitoare ale peisajului înconjurător la trezire.",
+            "en": "Start your cycling day with the cool morning breeze at this picturesque natural spot, and make sure to use the soft light to capture stunning photographs of the awakening surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesus-Kirche",
+            "hu": "Jézus Temploma",
+            "ro": "Biserica lui Iisus",
+            "en": "Church of Jesus"
+          },
+          "coords": [
+            -5.446061,
+            36.672784
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Bewundern Sie die andalusische Architektur dieser schönen Kirche aus der Nähe, und achten Sie darauf, Ihr Fahrrad sicher auf dem nahegelegenen Platz abzustellen, bevor Sie eintreten.",
+            "hu": "Csodálja meg közelről ennek a gyönyörű templomnak a jellegzetes andalúz építészetét, és ügyeljen arra, hogy kerékpárját biztonságosan a közeli téren hagyja, mielőtt belépne az épületbe.",
+            "ro": "Admirați de aproape arhitectura andaluză a acestei biserici frumoase și asigurați-vă că vă parcați bicicleta în siguranță în piața din apropiere înainte de a intra pentru a explora interiorul.",
+            "en": "Admire the authentic Andalusian architecture of this beautiful church up close, and be sure to securely park your bicycle in the nearby square before stepping inside to explore its interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiege des Leders",
+            "hu": "A Bőr Bölcsője",
+            "ro": "Leagănul Pielii",
+            "en": "Cradle of Leather"
+          },
+          "coords": [
+            -5.449147,
+            36.678994
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wichtige historische Viertel der Lederindustrie mit dem Fahrrad, und planen Sie genug Zeit ein, um die traditionellen kleinen Werkstätten entlang der Route zu besuchen.",
+            "hu": "Fedezze fel kerékpárral a bőripar ezen fontos történelmi negyedét, és tervezzen be elegendő időt arra, hogy meglátogassa a hagyományos kis műhelyeket, amelyek az útvonal mentén találhatók.",
+            "ro": "Explorați acest cartier istoric important al industriei pielii cu bicicleta și planificați suficient timp pentru a vizita micile ateliere tradiționale situate chiar de-a lungul traseului dvs.",
+            "en": "Explore this important historical neighborhood of the leather industry by bike, and plan enough time to casually visit the traditional small workshops located right along your riding route."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Las Cumbres",
+            "hu": "Las Cumbres Kilátó",
+            "ro": "Punct de belvedere Las Cumbres",
+            "en": "Las Cumbres Viewpoint"
+          },
+          "coords": [
+            -5.452463,
+            36.680018
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Machen Sie hier eine kurze Pause, um die fantastische Aussicht auf das städtische Gefüge zu genießen, und trinken Sie etwas Wasser, bevor Sie Ihre Fahrt in Richtung des Museums fortsetzen.",
+            "hu": "Tartson itt egy rövid pihenőt, hogy élvezze a városi szövetre nyíló fantasztikus kilátást, és igyon egy kis vizet, mielőtt folytatná útját a múzeum és az északi történelmi helyszínek felé.",
+            "ro": "Faceți o scurtă pauză aici pentru a vă bucura de priveliștea fantastică a țesăturii urbane și beți puțină apă înainte de a vă continua călătoria cu bicicleta spre muzeu și atracțiile de nord.",
+            "en": "Take a short break here to enjoy the fantastic view of the urban fabric, and remember to drink some water before continuing your bicycle ride towards the museum and the northern attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledermuseum",
+            "hu": "Bőrmúzeum",
+            "ro": "Muzeul Pielii",
+            "en": "Leather Museum"
+          },
+          "coords": [
+            -5.44427,
+            36.680443
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über das lokale Lederhandwerk in dieser umfangreichen Ausstellung, und nutzen Sie die Schließfächer, um Ihren Helm während des spannenden Museumsbesuchs sicher zu verstauen.",
+            "hu": "Mélyítse el tudását a helyi bőrművességről ebben az átfogó kiállításban, és használja a rendelkezésre álló szekrényeket a sisak biztonságos tárolására az izgalmas múzeumlátogatás idejére.",
+            "ro": "Aprofundați-vă cunoștințele despre meșteșugul local al pielii în această expoziție extinsă și utilizați dulapurile pentru a vă depozita casca în siguranță în timpul vizitei captivante la muzeu.",
+            "en": "Deepen your knowledge of local leather craftsmanship in this extensive exhibition, and make sure to use the lockers to safely store your helmet during your exciting and informative museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Palatinstadt Ocuri",
+            "hu": "Ocuri Palotaváros",
+            "ro": "Orașul Palatin Ocuri",
+            "en": "Palatine City of Ocuri"
+          },
+          "coords": [
+            -5.447165,
+            36.686603
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden zu diesen beeindruckenden römischen Ruinen, um die antike Geschichte zu spüren, und lassen Sie Ihr Fahrrad am Eingang stehen, da das felsige Gelände nur zu Fuß begehbar ist.",
+            "hu": "Tekerjen északra ezekhez a lenyűgöző római romokhoz, hogy átérezze az ókori történelmet, és hagyja a kerékpárt a bejáratnál, mivel a sziklás terepet biztonságosan csak gyalogosan lehet bejárni.",
+            "ro": "Mergeți spre nord către aceste impresionante ruine romane pentru a simți istoria antică și lăsați-vă bicicleta la intrare, deoarece terenul stâncos poate fi explorat în siguranță doar pe jos.",
+            "en": "Ride north to these impressive Roman ruins to feel the ancient history, and be sure to leave your bicycle at the entrance as the rocky archaeological terrain can only be safely explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Ocuri",
+            "hu": "Ocuri Mauzóleuma",
+            "ro": "Mausoleul Ocuri",
+            "en": "Mausoleum of Ocuri"
+          },
+          "coords": [
+            -5.447698,
+            36.688709
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre antike Erkundung an diesem außergewöhnlich gut erhaltenen Mausoleum, und genießen Sie die späte Nachmittagssonne, die die uralten Steinstrukturen in ein warmes Licht taucht.",
+            "hu": "Fejezze be az ókori felfedezést ennél a kivételesen jól megőrzött mauzóleumnál, és élvezze a késő délutáni napfényt, amely gyönyörű, meleg fényben fürdeti meg ezeket az ősi kőszerkezeteket.",
+            "ro": "Încheiați-vă explorarea antică la acest mausoleu excepțional de bine conservat și bucurați-vă de soarele după-amiezii târzii care scaldă structurile antice de piatră într-o lumină caldă.",
+            "en": "Conclude your ancient exploration at this exceptionally well-preserved mausoleum, and enjoy the late afternoon sun that beautifully bathes the ancient stone structures in a warm, golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit frischen morgendlichen Aussichten von der wunderschönen Antigua Viña del Perro.\n\nDer Mittag bringt eine Mischung aus Glaube und Geschichte, wenn Sie an der Jesus-Kirche vorbei zur Cuna de la Piel fahren.\n\nAm Nachmittag radeln Sie zum Aussichtspunkt Las Cumbres, bevor Sie das weitläufige Ledermuseum erkunden.\n\nBeenden Sie den Tag, indem Sie nach Norden radeln, um die antiken römischen Wunder der beeindruckenden Ocuri-Stätten zu bewundern.",
+        "hu": "Kezdje a kerékpáros utazást friss reggeli kilátással a gyönyörű Antigua Viña del Perro-ról.\n\nA dél a hit és a történelem keverékét hozza, miközben a Jézus-templom mellett elhaladva a Cuna de la Pielhez teker.\n\nDélután a Las Cumbres kilátóhoz vezet az út, mielőtt felfedezné a kiterjedt Bőrmúzeumot.\n\nZárja a napot azzal, hogy északra kerékpározik, és megcsodálja a lenyűgöző Ocuri ókori római csodáit.",
+        "ro": "Începeți călătoria cu bicicleta cu priveliști proaspete de dimineață de la frumoasa Antigua Viña del Perro.\n\nPrânzul aduce un amestec de credință și istorie, trecând pe lângă Biserica lui Iisus spre istoricul Cuna de la Piel.\n\nPedalarea de după-amiază vă duce la punctul de belvedere Las Cumbres înainte de a explora vastul Muzeul Pielii.\n\nÎncheiați ziua mergând spre nord, pentru a descoperi minunile romane antice la impresionantele situri Ocuri.",
+        "en": "Begin your cycling journey with fresh morning views from the beautiful Antigua Viña del Perro.\n\nMidday brings a mix of faith and history, riding past the Jesus Church to the historic Cuna de la Piel.\n\nAfternoon pedaling takes you to Las Cumbres viewpoint before exploring the extensive Leather Museum.\n\nEnd the day riding north to admire the ancient Roman wonders at the impressive Ocuri sites."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 9.12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Willkommen in Ubrique Denkmal",
+            "hu": "Üdvözöljük Ubrique-ben Emlékmű",
+            "ro": "Monumentul Bun venit în Ubrique",
+            "en": "Welcome to Ubrique Monument"
+          },
+          "coords": [
+            -5.450343,
+            36.665522
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Autotour mit einem unvergesslichen Foto an diesem ikonischen Wahrzeichen, und nutzen Sie den nahegelegenen Seitenstreifen, um sicher für diesen kurzen, aber perfekten Fotostopp anzuhalten.",
+            "hu": "Kezdje az autós túrát egy felejthetetlen fotóval ennél az ikonikus városi táblánál, és használja a közeli útpadkát, hogy biztonságosan megálljon ehhez a rövid, de tökéletes fotós megállóhoz.",
+            "ro": "Începeți turul cu mașina cu o fotografie memorabilă la acest punct de reper iconic și utilizați acostamentul din apropiere pentru a opri în siguranță pentru această scurtă, dar perfectă pauză foto.",
+            "en": "Kick off your driving tour with a memorable photo at this iconic roadside landmark, and make sure to use the nearby shoulder to pull over safely for this short but perfect picture opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Amarguillo-Schwimmbad",
+            "hu": "Amarguillo Medence",
+            "ro": "Piscina Amarguillo",
+            "en": "Amarguillo Pool"
+          },
+          "coords": [
+            -5.464437,
+            36.652043
+          ],
+          "category": "recreational",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes morgendliches Bad in diesem ruhigen Freizeitbereich, und packen Sie Ihr eigenes Handtuch sowie Sonnencreme ein, da die Vorräte an den Kiosken vor Ort oft begrenzt sind.",
+            "hu": "Élvezze a frissítő reggeli úszást ezen a csendes pihenőhelyen, és csomagolja be saját törölközőjét és naptejet, mivel a helyi kioszkokban a készletek gyakran korlátozottak és hamar elfogynak.",
+            "ro": "Bucurați-vă de o baie răcoritoare de dimineață în această zonă liniștită de agrement și împachetați-vă propriul prosop și cremă de soare, deoarece proviziile de la chioșcurile locale sunt adesea limitate.",
+            "en": "Enjoy a refreshing morning dip in this quiet recreational area, and be sure to pack your own towel and sunscreen as the supplies available at the local kiosks are often quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiege des Leders",
+            "hu": "A Bőr Bölcsője",
+            "ro": "Leagănul Pielii",
+            "en": "Cradle of Leather"
+          },
+          "coords": [
+            -5.449147,
+            36.678994
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.29,
+          "tip_5lang": {
+            "de": "Fahren Sie in das Herz der Geschichte der Lederverarbeitung, um die Tradition zu erleben, und parken Sie am Stadtrand, um entspannt durch diese engen und oft belebten historischen Gassen zu gehen.",
+            "hu": "Vezessen a bőrművesség történetének szívébe, hogy megtapasztalja a hagyományokat, és parkoljon a város szélén, hogy nyugodtan sétálhasson ezeken a szűk és gyakran forgalmas történelmi utcákon.",
+            "ro": "Conduceți în inima istoriei prelucrării pielii pentru a experimenta tradiția și parcați la marginea orașului pentru a vă plimba relaxat prin aceste străzi istorice înguste și adesea aglomerate.",
+            "en": "Drive into the heart of the town's leatherworking history to experience the tradition, and park on the outskirts to easily enjoy a relaxed walk through these narrow and often bustling historic streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledermuseum",
+            "hu": "Bőrmúzeum",
+            "ro": "Muzeul Pielii",
+            "en": "Leather Museum"
+          },
+          "coords": [
+            -5.44427,
+            36.680443
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Ausstellung ein, die den größten Stolz der Stadt zeigt, und nutzen Sie den nahen öffentlichen Parkplatz, um Ihr Fahrzeug während des gesamten Besuchs sicher abzustellen.",
+            "hu": "Merüljön el a lenyűgöző kiállításban, amely a város legnagyobb büszkeségét mutatja be, és használja a közeli nyilvános parkolót, hogy járművét biztonságosan tárolja a látogatás teljes ideje alatt.",
+            "ro": "Scufundați-vă în expoziția fascinantă care prezintă cea mai mare mândrie a orașului și utilizați parcarea publică din apropiere pentru a vă lăsa vehiculul în siguranță pe durata întregii vizite.",
+            "en": "Immerse yourself in the fascinating exhibition showcasing the town's greatest pride, and use the nearby public parking lot to safely leave your vehicle for the entire duration of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Palatinstadt Ocuri",
+            "hu": "Ocuri Palotaváros",
+            "ro": "Orașul Palatin Ocuri",
+            "en": "Palatine City of Ocuri"
+          },
+          "coords": [
+            -5.447165,
+            36.686603
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Steuern Sie Ihren Wagen zu diesen gut erhaltenen römischen Ruinen auf dem Hügel, und bringen Sie bequemes Schuhwerk mit, da der Spaziergang vom Parkplatz zu den Ausgrabungen recht uneben ist.",
+            "hu": "Irányítsa autóját ezekhez a jól megőrzött római romokhoz a dombon, és hozzon magával kényelmes lábbelit, mivel a parkolótól az ásatásokig vezető séta meglehetősen egyenetlen és köves terepen halad.",
+            "ro": "Conduceți spre aceste ruine romane bine conservate de pe deal și aduceți încălțăminte confortabilă, deoarece plimbarea de la parcare la săpături este destul de accidentată și stâncoasă.",
+            "en": "Drive your car to these incredibly well-preserved Roman ruins on the hill, and bring comfortable footwear as the walk from the parking area to the actual excavations is quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Schwimmbad Benaocaz",
+            "hu": "Benaocaz Városi Medence",
+            "ro": "Piscina Municipală Benaocaz",
+            "en": "Benaocaz Municipal Pool"
+          },
+          "coords": [
+            -5.420112,
+            36.697582
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einer landschaftlich reizvollen Fahrt zu diesem Schwimmbad ausklingen, und genießen Sie die herrliche Aussicht auf die Berge vom Wasser aus, während die späte Sonne langsam untergeht.",
+            "hu": "Zárja a napot egy festői autózással ehhez a gyönyörű medencéhez, és élvezze a fenséges hegyi kilátást közvetlenül a vízből, miközben a késő délutáni nap lassan nyugovóra tér a horizonton.",
+            "ro": "Încheiați ziua cu o plimbare pitorească cu mașina până la această piscină și bucurați-vă de vederea magnifică la munte chiar din apă, în timp ce soarele de după-amiază târzie apune încet.",
+            "en": "End the day with a highly scenic drive up to this refreshing pool, and enjoy the magnificent mountain views right from the water as the late afternoon sun slowly sets over the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour mit einem tollen Foto am Wahrzeichen 'Willkommen in Ubrique'.\n\nVerbringen Sie Ihren Mittag entspannt am Amarguillo-Pool, bevor Sie in die Ledergeschichte der Stadt eintauchen.\n\nAm Nachmittag fahren Sie bequem zwischen dem Ledermuseum und den majestätischen römischen Ruinen von Ocuri hin und her.\n\nBeenden Sie Ihren Roadtrip mit einem erfrischenden Bad im städtischen Schwimmbad in Benaocaz am späten Nachmittag.",
+        "hu": "Kezdje az autós túrát egy nagyszerű fotóval az ikonikus 'Üdvözöljük Ubrique-ben' táblánál.\n\nDélben pihenjen az Amarguillo medencénél, mielőtt elmerülne a város lenyűgöző bőrműves történelmében.\n\nDélután kényelmesen autózhat a Bőrmúzeum és a fenséges Ocuri római romok között.\n\nZárja az autós utazást egy frissítő késő délutáni fürdőzéssel a Benaocaz városi medencében.",
+        "ro": "Începeți turul cu mașina făcând o fotografie la emblematicul punct de reper 'Bun venit în Ubrique'.\n\nPetreceți prânzul relaxându-vă la piscina Amarguillo înainte de a vă scufunda în istoria pielii din oraș.\n\nDupă-amiaza, conduceți cu ușurință între Muzeul Pielii și ruinele romane maiestuoase din Ocuri.\n\nÎncheiați călătoria cu o baie răcoritoare după-amiaza târziu la piscina municipală din Benaocaz.",
+        "en": "Kick off your driving tour by taking a photo at the iconic 'Welcome to Ubrique' roadside landmark.\n\nSpend your midday relaxing at the Amarguillo pool before diving into the town's legendary leather history.\n\nIn the afternoon, easily drive between the immersive Leather Museum and the majestic Roman ruins of Ocuri.\n\nWrap up your road trip with a refreshing late afternoon dip at the beautiful municipal pool in Benaocaz."
+      }
+    }
+  }
+}

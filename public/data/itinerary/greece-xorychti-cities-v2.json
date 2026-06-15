@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-xorychti-cities-v2",
+  "anchor": {
+    "name": "Xorychti",
+    "coords": [
+      23.18674,
+      39.36467
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 2.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Entschlafung der Gottesgebärerin",
+            "hu": "Istenszülő elszenderedése templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Virgin Mary"
+          },
+          "coords": [
+            23.186871,
+            39.365123
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Fresken dieser historischen Dorfkirche und ruhen Sie sich im ruhigen, schattigen Innenhof aus, der an wärmeren Tagen einen herrlich kühlen Rückzugsort bietet.",
+            "hu": "Csodálja meg e történelmi falusi templom gyönyörű freskóit, és pihenjen meg a csendes, árnyékos udvaron, amely tökéletes, hűvös menedéket nyújt a meleg nappali órákban.",
+            "ro": "Admirați frescele frumoase ale acestei biserici istorice și odihniți-vă în curtea umbrită și senină, care oferă un refugiu perfect și răcoros în timpul orelor calde de peste zi.",
+            "en": "Admire the beautiful frescoes of this historic village church, taking time to rest in its serene, shaded courtyard which offers a perfectly cool retreat during the warmer daytime hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Freilufttheater von Xorychti",
+            "hu": "Xorychti Szabadtéri Városi Színház",
+            "ro": "Teatrul Municipal în Aer Liber din Xorychti",
+            "en": "Open-Air Municipal Theatre of Xorychti"
+          },
+          "coords": [
+            23.191897,
+            39.36824
+          ],
+          "category": "cultural",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem charmanten Freilufttheater inmitten der Natur und prüfen Sie das Programm, um eine sommerliche Aufführung unter dem Sternenhimmel zu genießen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a természet lágy ölén fekvő szabadtéri színházban, és előre ellenőrizze a műsort, hogy elcsípjen egy nyári előadást a csillagos ég alatt.",
+            "ro": "Experimentați cultura locală în acest teatru fermecător în aer liber, înconjurat de natură, și verificați programul pentru a prinde o reprezentație estivală sub cerul înstelat.",
+            "en": "Experience the local culture at this charming open-air theatre surrounded by nature, checking the local schedule in advance to catch a summer performance under the starry evening sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Koútra Naturgebiet",
+            "hu": "Koútra Természeti Terület",
+            "ro": "Zona Naturală Koútra",
+            "en": "Koútra Nature Area"
+          },
+          "coords": [
+            23.18778,
+            39.374184
+          ],
+          "category": "natural",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Natur und üppige Vegetation dieser faszinierenden Landschaft und tragen Sie feste Wanderschuhe, um die malerischen, aber oft unebenen Pfade sicher zu bewältigen.",
+            "hu": "Fedezze fel e lenyűgöző táj vad természeti szépségét és buja növényzetét, de mindenképpen viseljen túracipőt, hogy biztonságosan navigáljon a festői, ám gyakran egyenetlen ösvényeken.",
+            "ro": "Descoperiți frumusețea sălbatică și vegetația luxuriantă a acestui peisaj uluitor, purtând încălțăminte robustă pentru a naviga în siguranță pe traseele pitorești, dar uneori accidentate.",
+            "en": "Discover the rugged natural beauty and lush vegetation of this stunning landscape, bringing sturdy walking shoes to safely navigate the scenic but occasionally uneven rocky trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Erzengel",
+            "hu": "Szent Arkangyalok Temploma",
+            "ro": "Biserica Sfinții Arhangheli",
+            "en": "Church of the Holy Archangels"
+          },
+          "coords": [
+            23.179612,
+            39.376291
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die steinerne Architektur und die historischen Ikonen dieser ruhigen Kapelle und denken Sie daran, sich dezent zu kleiden und die friedliche Atmosphäre zu respektieren.",
+            "hu": "Csodálja meg e csendes kápolna bonyolult kőépítészetét és történelmi ikonjait, de ügyeljen a visszafogott öltözködésre és a halk beszédre, miközben felfedezi a békés belső teret.",
+            "ro": "Minunați-vă de arhitectura complicată din piatră a acestei capele liniștite, amintindu-vă să vă îmbrăcați decent și să vorbiți încet în timp ce îi explorați interiorul pașnic.",
+            "en": "Marvel at the intricate stone architecture and historic icons of this quiet chapel, remembering to dress modestly and speak softly while exploring its peaceful, spiritual interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinbrücke von Tsagarada-Xorychti",
+            "hu": "Tsagarada-Xorychti Régi Kőhídja",
+            "ro": "Vechiul Pod de Piatră din Tsagarada-Xorychti",
+            "en": "Old Stone Bridge of Tsagarada-Xorychti"
+          },
+          "coords": [
+            23.17488,
+            39.368873
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den eleganten Bogen dieser traditionellen Steinbrücke, aber seien Sie vorsichtig auf dem rutschigen Kopfsteinpflaster, besonders wenn es kürzlich geregnet hat.",
+            "hu": "Fényképezze le a két falut összekötő hagyományos kőhíd elegáns boltívét, de legyen óvatos a csúszós macskaköveken, különösen, ha egy nemrégiben történt esőzés után látogat ide.",
+            "ro": "Fotografiați arcul elegant al acestui pod tradițional din piatră ce leagă satele, fiind foarte atenți pe piatra cubică alunecoasă, mai ales dacă vizitați după o ploaie recentă.",
+            "en": "Photograph the elegant arch of this traditional stone bridge connecting the two villages, being careful on the slippery cobblestones especially if visiting after a recent rainfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im ruhigen Dorfzentrum, wo Sie eine historische Kirche erkunden, bevor Sie zum Freilufttheater spazieren. Mittags tauchen Sie tief in das üppige Naturschutzgebiet Koútra ein und genießen Xorychtis grünes Herz. Der Nachmittag geht weiter mit dem Besuch einer malerischen Kapelle, umgeben von friedlicher Bergluft. Gegen Abend führt Sie Ihr Spaziergang zu einer alten Steinbogenbrücke, wo sich Geschichte und Natur auf wunderbare Weise verbinden.",
+        "hu": "A reggel a csendes faluközpontban indul, egy történelmi templom felfedezésével, majd a szabadtéri színház felé sétálunk. A délben a Koútra dús növényzetű természetvédelmi területén túrázunk, Xorychti zöld szívében. A délután folyamán egy festői, hegyi levegővel körülvett szent kápolnát látogatunk meg. Az est közeledtével egy régi kőhídhoz érkezünk, ahol a történelem és a természet gyönyörűen összefonódik.",
+        "ro": "Dimineața începe în centrul senin al satului, explorând o biserică istorică înainte de o scurtă plimbare către teatrul în aer liber. La prânz veți pătrunde în inima verde a rezervației naturale luxuriante Koútra. După-amiaza continuă cu vizita la o capelă pitorească, înconjurată de aerul liniștit de munte. Spre seară, plimbarea vă duce la un vechi pod din piatră, unde istoria și natura se împletesc perfect.",
+        "en": "Your morning starts in the serene village center, exploring a historic local church before taking a refreshing walk to the open-air theatre. Midday brings you deeper into the lush nature reserve of Koútra, immersing you in Xorychti's green heart. The afternoon continues with a visit to a picturesque holy chapel, surrounded by peaceful mountain air. As evening approaches, your stroll leads you to an old stone arch bridge, where history and nature beautifully intertwine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 6.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Entschlafung der Gottesgebärerin",
+            "hu": "Istenszülő elszenderedése templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Virgin Mary"
+          },
+          "coords": [
+            23.186871,
+            39.365123
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Fresken dieser historischen Dorfkirche und ruhen Sie sich im ruhigen, schattigen Innenhof aus, der an wärmeren Tagen einen herrlich kühlen Rückzugsort bietet.",
+            "hu": "Csodálja meg e történelmi falusi templom gyönyörű freskóit, és pihenjen meg a csendes, árnyékos udvaron, amely tökéletes, hűvös menedéket nyújt a meleg nappali órákban.",
+            "ro": "Admirați frescele frumoase ale acestei biserici istorice și odihniți-vă în curtea umbrită și senină, care oferă un refugiu perfect și răcoros în timpul orelor calde de peste zi.",
+            "en": "Admire the beautiful frescoes of this historic village church, taking time to rest in its serene, shaded courtyard which offers a perfectly cool retreat during the warmer daytime hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Freilufttheater von Xorychti",
+            "hu": "Xorychti Szabadtéri Városi Színház",
+            "ro": "Teatrul Municipal în Aer Liber din Xorychti",
+            "en": "Open-Air Municipal Theatre of Xorychti"
+          },
+          "coords": [
+            23.191897,
+            39.36824
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem charmanten Freilufttheater inmitten der Natur und prüfen Sie das Programm, um eine sommerliche Aufführung unter dem Sternenhimmel zu genießen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a természet lágy ölén fekvő szabadtéri színházban, és előre ellenőrizze a műsort, hogy elcsípjen egy nyári előadást a csillagos ég alatt.",
+            "ro": "Experimentați cultura locală în acest teatru fermecător în aer liber, înconjurat de natură, și verificați programul pentru a prinde o reprezentație estivală sub cerul înstelat.",
+            "en": "Experience the local culture at this charming open-air theatre surrounded by nature, checking the local schedule in advance to catch a summer performance under the starry evening sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Koútra Naturgebiet",
+            "hu": "Koútra Természeti Terület",
+            "ro": "Zona Naturală Koútra",
+            "en": "Koútra Nature Area"
+          },
+          "coords": [
+            23.18778,
+            39.374184
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Natur und üppige Vegetation dieser faszinierenden Landschaft und tragen Sie feste Wanderschuhe, um die malerischen, aber oft unebenen Pfade sicher zu bewältigen.",
+            "hu": "Fedezze fel e lenyűgöző táj vad természeti szépségét és buja növényzetét, de mindenképpen viseljen túracipőt, hogy biztonságosan navigáljon a festői, ám gyakran egyenetlen ösvényeken.",
+            "ro": "Descoperiți frumusețea sălbatică și vegetația luxuriantă a acestui peisaj uluitor, purtând încălțăminte robustă pentru a naviga în siguranță pe traseele pitorești, dar uneori accidentate.",
+            "en": "Discover the rugged natural beauty and lush vegetation of this stunning landscape, bringing sturdy walking shoes to safely navigate the scenic but occasionally uneven rocky trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Mylopotamos",
+            "hu": "Mylopotamos Strand",
+            "ro": "Plaja Mylopotamos",
+            "en": "Mylopotamos Beach"
+          },
+          "coords": [
+            23.202968,
+            39.375233
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses berühmten, durch einen Felsbogen geteilten Strandes, und kommen Sie früh am Morgen, um sich einen guten Platz vor dem Ansturm zu sichern.",
+            "hu": "Fürödjön a sziklaívvel kettéosztott híres strand kristálytiszta, türkizkék vizében, és érkezzen kora reggel, hogy jó helyet biztosítson magának, mielőtt a nyári tömeg megérkezik.",
+            "ro": "Înotați în apele turcoaz ale acestei plaje celebre împărțite de un arc natural de stâncă, ajungând dimineața devreme pentru a vă asigura un loc bun înainte de sosirea aglomerației.",
+            "en": "Swim in the crystal-clear turquoise waters of this famous beach divided by a natural rock arch, arriving early in the morning to secure a good spot before the summer crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Limionas Strand",
+            "hu": "Limionas Strand",
+            "ro": "Plaja Limionas",
+            "en": "Limionas Beach"
+          },
+          "coords": [
+            23.207447,
+            39.364051
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, von viel Grün umrahmten versteckten Strand und bringen Sie eigenes Wasser und Snacks mit, da es in diesem unberührten Gebiet kaum Einrichtungen gibt.",
+            "hu": "Pihenjen e vad növényzettel keretezett, festői, rejtett öböl nyugodt partján, és hozzon magával saját vizet és rágcsálnivalót, mivel ezen az érintetlen területen korlátozottak a szolgáltatások.",
+            "ro": "Relaxați-vă pe țărmul liniștit al acestui golf ascuns încadrat de verdeață sălbatică, aducându-vă propria apă și gustări, deoarece facilitățile sunt limitate în această zonă virgină.",
+            "en": "Relax on the tranquil shores of this picturesque hidden cove framed by wild greenery, bringing your own water and snacks as there are limited facilities available in this pristine area."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinbrücke von Tsagarada-Xorychti",
+            "hu": "Tsagarada-Xorychti Régi Kőhídja",
+            "ro": "Vechiul Pod de Piatră din Tsagarada-Xorychti",
+            "en": "Old Stone Bridge of Tsagarada-Xorychti"
+          },
+          "coords": [
+            23.17488,
+            39.368873
+          ],
+          "category": "landmark",
+          "arrive_at": "15:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.85,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den eleganten Bogen dieser traditionellen Steinbrücke, aber seien Sie vorsichtig auf dem rutschigen Kopfsteinpflaster, besonders wenn es kürzlich geregnet hat.",
+            "hu": "Fényképezze le a két falut összekötő hagyományos kőhíd elegáns boltívét, de legyen óvatos a csúszós macskaköveken, különösen, ha egy nemrégiben történt esőzés után látogat ide.",
+            "ro": "Fotografiați arcul elegant al acestui pod tradițional din piatră ce leagă satele, fiind foarte atenți pe piatra cubică alunecoasă, mai ales dacă vizitați după o ploaie recentă.",
+            "en": "Photograph the elegant arch of this traditional stone bridge connecting the two villages, being careful on the slippery cobblestones especially if visiting after a recent rainfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Radtour durch das Dorf und besuchen Sie eine schöne Kirche und ein Freilufttheater. Mittags führen Sie kurvenreiche Wege zu den Klippen, wo sich das üppige Grün in einen atemberaubenden Meerblick verwandelt. Verbringen Sie den Nachmittag an zwei versteckten Stränden entlang der Küste. Beenden Sie den Tag mit einer Fahrt zurück zu einer prächtigen Steinbrücke und genießen Sie die landschaftliche Schönheit.",
+        "hu": "Kezdje a napot a falu utcáin kerekezve, egy gyönyörű templom és egy szabadtéri színház meglátogatásával. Délben a kanyargós utak a partvidéki sziklák felé vezetnek, ahol a buja növényzet felváltja a tengeri panorámát. A délutánt két lenyűgöző, eldugott tengerparton pihenheti ki. Aktív kerékpáros napját egy csodálatos kőhídhoz való visszatéréssel zárja, elgondolkodva a régió szépségén.",
+        "ro": "Începeți ziua pedalând pe străzile satului, oprindu-vă la o biserică frumoasă și un teatru în aer liber. La prânz coborâți pe poteci șerpuite spre stâncile de coastă, trecând de la verdeață la vederi spectaculoase. Petreceți-vă după-amiaza relaxându-vă pe două plaje uimitoare ascunse pe coastă. Încheiați ziua activă de ciclism urcând înapoi la un pod magnific de piatră, reflectând la frumusețea regiunii.",
+        "en": "Kick off your day pedaling through the village streets, stopping by a beautiful church and an open-air cultural theatre. Midday leads you down winding paths toward the coastal cliffs, transitioning from lush greenery to breathtaking sea views. Spend your afternoon relaxing at two stunning, distinct beaches hidden along the dramatic coastline. Finish your active cycling day with a ride back up to a magnificent stone bridge, reflecting on the region's remarkable beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Steinbrücke von Tsagarada-Xorychti",
+            "hu": "Tsagarada-Xorychti Régi Kőhídja",
+            "ro": "Vechiul Pod de Piatră din Tsagarada-Xorychti",
+            "en": "Old Stone Bridge of Tsagarada-Xorychti"
+          },
+          "coords": [
+            23.17488,
+            39.368873
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den eleganten Bogen dieser traditionellen Steinbrücke, aber seien Sie vorsichtig auf dem rutschigen Kopfsteinpflaster, besonders wenn es kürzlich geregnet hat.",
+            "hu": "Fényképezze le a két falut összekötő hagyományos kőhíd elegáns boltívét, de legyen óvatos a csúszós macskaköveken, különösen, ha egy nemrégiben történt esőzés után látogat ide.",
+            "ro": "Fotografiați arcul elegant al acestui pod tradițional din piatră ce leagă satele, fiind foarte atenți pe piatra cubică alunecoasă, mai ales dacă vizitați după o ploaie recentă.",
+            "en": "Photograph the elegant arch of this traditional stone bridge connecting the two villages, being careful on the slippery cobblestones especially if visiting after a recent rainfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Entschlafung der Gottesgebärerin",
+            "hu": "Istenszülő elszenderedése templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Virgin Mary"
+          },
+          "coords": [
+            23.186871,
+            39.365123
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Fresken dieser historischen Dorfkirche und ruhen Sie sich im ruhigen, schattigen Innenhof aus, der an wärmeren Tagen einen herrlich kühlen Rückzugsort bietet.",
+            "hu": "Csodálja meg e történelmi falusi templom gyönyörű freskóit, és pihenjen meg a csendes, árnyékos udvaron, amely tökéletes, hűvös menedéket nyújt a meleg nappali órákban.",
+            "ro": "Admirați frescele frumoase ale acestei biserici istorice și odihniți-vă în curtea umbrită și senină, care oferă un refugiu perfect și răcoros în timpul orelor calde de peste zi.",
+            "en": "Admire the beautiful frescoes of this historic village church, taking time to rest in its serene, shaded courtyard which offers a perfectly cool retreat during the warmer daytime hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Freilufttheater von Xorychti",
+            "hu": "Xorychti Szabadtéri Városi Színház",
+            "ro": "Teatrul Municipal în Aer Liber din Xorychti",
+            "en": "Open-Air Municipal Theatre of Xorychti"
+          },
+          "coords": [
+            23.191897,
+            39.36824
+          ],
+          "category": "cultural",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem charmanten Freilufttheater inmitten der Natur und prüfen Sie das Programm, um eine sommerliche Aufführung unter dem Sternenhimmel zu genießen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a természet lágy ölén fekvő szabadtéri színházban, és előre ellenőrizze a műsort, hogy elcsípjen egy nyári előadást a csillagos ég alatt.",
+            "ro": "Experimentați cultura locală în acest teatru fermecător în aer liber, înconjurat de natură, și verificați programul pentru a prinde o reprezentație estivală sub cerul înstelat.",
+            "en": "Experience the local culture at this charming open-air theatre surrounded by nature, checking the local schedule in advance to catch a summer performance under the starry evening sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Koútra Naturgebiet",
+            "hu": "Koútra Természeti Terület",
+            "ro": "Zona Naturală Koútra",
+            "en": "Koútra Nature Area"
+          },
+          "coords": [
+            23.18778,
+            39.374184
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Natur und üppige Vegetation dieser faszinierenden Landschaft und tragen Sie feste Wanderschuhe, um die malerischen, aber oft unebenen Pfade sicher zu bewältigen.",
+            "hu": "Fedezze fel e lenyűgöző táj vad természeti szépségét és buja növényzetét, de mindenképpen viseljen túracipőt, hogy biztonságosan navigáljon a festői, ám gyakran egyenetlen ösvényeken.",
+            "ro": "Descoperiți frumusețea sălbatică și vegetația luxuriantă a acestui peisaj uluitor, purtând încălțăminte robustă pentru a naviga în siguranță pe traseele pitorești, dar uneori accidentate.",
+            "en": "Discover the rugged natural beauty and lush vegetation of this stunning landscape, bringing sturdy walking shoes to safely navigate the scenic but occasionally uneven rocky trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Mylopotamos",
+            "hu": "Mylopotamos Strand",
+            "ro": "Plaja Mylopotamos",
+            "en": "Mylopotamos Beach"
+          },
+          "coords": [
+            23.202968,
+            39.375233
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses berühmten, durch einen Felsbogen geteilten Strandes, und kommen Sie früh am Morgen, um sich einen guten Platz vor dem Ansturm zu sichern.",
+            "hu": "Fürödjön a sziklaívvel kettéosztott híres strand kristálytiszta, türkizkék vizében, és érkezzen kora reggel, hogy jó helyet biztosítson magának, mielőtt a nyári tömeg megérkezik.",
+            "ro": "Înotați în apele turcoaz ale acestei plaje celebre împărțite de un arc natural de stâncă, ajungând dimineața devreme pentru a vă asigura un loc bun înainte de sosirea aglomerației.",
+            "en": "Swim in the crystal-clear turquoise waters of this famous beach divided by a natural rock arch, arriving early in the morning to secure a good spot before the summer crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Labinou Strand",
+            "hu": "Labinou Strand",
+            "ro": "Plaja Labinou",
+            "en": "Labinou Beach"
+          },
+          "coords": [
+            23.213043,
+            39.360917
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.81,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Isolation dieser kleinen Bucht mit tiefblauem Wasser und packen Sie eine weiche Strandmatte ein, da die Küste aus grobem Sand und kleinen Kieseln besteht.",
+            "hu": "Élvezze e lenyűgözően kék vizű, kis öböl békés elszigeteltségét, és mindenképpen vigyen magával kényelmes strandmatracot, mivel a partvonalat durva homok és apró kavicsok borítják.",
+            "ro": "Bucurați-vă de izolarea pașnică a acestui mic golf pitoresc cu ape incredibil de albastre, asigurându-vă că luați o saltea de plajă, deoarece țărmul are nisip grunjos și pietricele.",
+            "en": "Enjoy the peaceful isolation of this small, scenic bay with striking blue waters, making sure to pack a comfortable beach mat since the shoreline features coarse sand and small pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Panagia Lampidonas",
+            "hu": "Panagia Lampidonas Kolostor",
+            "ro": "Mănăstirea Panagia Lampidonas",
+            "en": "Monastery of Panagia Lampidonas"
+          },
+          "coords": [
+            23.213649,
+            39.359034
+          ],
+          "category": "religious",
+          "arrive_at": "15:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieses abgelegenen Küstenklosters und ziehen Sie bequeme Schuhe an, um den kurzen, aber steilen Abstieg vom Hauptzugang sicher zu bewältigen.",
+            "hu": "Fedezze fel e félreeső parti kolostor történelmi romjait és spirituális örökségét, ügyelve arra, hogy kényelmes cipőt viseljen a főútról vezető rövid, de meredek lejtőn való lejutáshoz.",
+            "ro": "Explorați ruinele istorice ale acestei mănăstiri de coastă izolate, asigurându-vă că purtați încălțăminte confortabilă pentru coborârea scurtă, dar abruptă, de la punctul de acces.",
+            "en": "Explore the historic ruins and spiritual heritage of this secluded coastal monastery, ensuring you wear comfortable shoes for the short but steep downhill walk from the main access point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der legendären Steinbrücke und besuchen Sie anschließend die ruhige Dorfkirche. Mittags führt Sie Ihr Weg vorbei am Theater in die üppige Wildnis des örtlichen Naturschutzgebiets. Der Nachmittag ist ganz der Küste gewidmet, mit Stopps an lebhaften Stränden und ruhigen Sandbuchten. Bei Sonnenuntergang fahren Sie zu den abgelegenen Klosterruinen, einem perfekten und friedlichen Abschluss.",
+        "hu": "Kezdje a festői autózást a legendás kőhídnál, majd látogasson el a békés falusi templomba. Délben útja a helyi színház mellett halad el, és a természetvédelmi terület buja vadonjába vezet. A délutánt a tengerparti boldogságnak szentelheti, nyüzsgő strandoknál és csendes, homokos öblöknél megállva. Ahogy a nap lemenőben van, vezessen el a távoli, tengerparti kolostorromokhoz, hogy tökéletesen zárja útját.",
+        "ro": "Începeți traseul auto la legendarul pod de piatră, bucurându-vă de dimineață înainte de a vizita biserica din sat. La prânz, călătoria vă duce pe lângă teatru în sălbăticia luxuriantă a rezervației naturale. După-amiaza este rezervată relaxării pe coastă, oprindu-vă pe plaje vibrante și golfuri liniștite. La apus, conduceți spre ruinele izolate ale mănăstirii, un final perfect și pașnic.",
+        "en": "Start your scenic drive at the legendary stone bridge, enjoying the fresh morning air before visiting the peaceful village church. By midday, your journey takes you past the municipal theater and into the lush wilderness of the local nature reserve. The afternoon is reserved for pure coastal bliss, stopping at vibrant beaches and uncovering quiet, sandy coves. As the sun begins to set, drive to the remote coastal monastery ruins, a perfect, serene end to your road trip."
+      }
+    }
+  }
+}

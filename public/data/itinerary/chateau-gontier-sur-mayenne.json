@@ -1,0 +1,543 @@
+{
+  "city_id": "chateau-gontier-sur-mayenne",
+  "anchor": {
+    "name": "Château-Gontier-sur-Mayenne",
+    "coords": [
+      -0.7028,
+      47.8286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 2.47,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            -0.705123,
+            47.828845
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Geschichte und Kunstwerke in diesem klassischen Museum; nehmen Sie sich Zeit für die griechisch-römischen Artefakte im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet és a képzőművészeti gyűjteményeket; hagyjon időt a görög-római leletekre is az első emeleten.",
+            "ro": "Descoperiți istoria locală și colecțiile de artă în acest muzeu; păstrați timp pentru a admira artefactele greco-romane de la primul etaj.",
+            "en": "Discover fascinating local history and fine art collections in this classic museum; save time to admire the Greco-Roman artifacts on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Bout du Monde",
+            "hu": "Jardin du Bout du Monde",
+            "ro": "Jardin du Bout du Monde",
+            "en": "Jardin du Bout du Monde"
+          },
+          "coords": [
+            -0.706358,
+            47.831008
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in diesem wunderschönen Garten mit Blick auf die Mayenne; bringen Sie eine Kamera für die Panoramaterrasse mit.",
+            "hu": "Élvezze a sétát ebben a gyönyörűen parkosított kertben, ahonnan lenyűgöző kilátás nyílik a Mayenne folyóra; hozzon fényképezőgépet a panorámateraszhoz.",
+            "ro": "Bucurați-vă de o plimbare în această grădină frumos amenajată cu vedere la râul Mayenne; aduceți un aparat foto pentru terasa panoramică.",
+            "en": "Enjoy a relaxing stroll in this beautifully landscaped garden offering stunning views over the Mayenne River; bring a camera for the panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Château-Gontier",
+            "hu": "Château de Château-Gontier",
+            "ro": "Château de Château-Gontier",
+            "en": "Château de Château-Gontier"
+          },
+          "coords": [
+            -0.703997,
+            47.825938
+          ],
+          "category": "castle",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser Burg, die das Schicksal der Stadt prägte; tragen Sie bequeme Schuhe für die unebenen Pflasterwege.",
+            "hu": "Fedezze fel a város sorsát formáló történelmi kastély ősi romjait és területét; viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați ruinele și domeniul acestui castel istoric care a modelat destinul orașului; purtați pantofi confortabili pentru potecile pietruite denivelate.",
+            "en": "Explore the ancient ruins and grounds of this historic castle that shaped the town's destiny; wear comfortable shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Ursulines",
+            "hu": "Couvent des Ursulines",
+            "ro": "Couvent des Ursulines",
+            "en": "Couvent des Ursulines"
+          },
+          "coords": [
+            -0.697171,
+            47.82847
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Klosters aus dem 17. Jahrhundert, das heute ein Kulturzentrum ist; prüfen Sie das Programm für Kunstausstellungen.",
+            "hu": "Csodálja meg a 17. századi kolostor lenyűgöző építészetét, amely ma kulturális központ; nézze meg a helyi programot az időszaki művészeti kiállításokhoz.",
+            "ro": "Admirați arhitectura izbitoare a acestei mănăstiri din secolul al XVII-lea, acum un hub cultural; verificați programul pentru expozițiile de artă temporare.",
+            "en": "Admire the striking architecture of this 17th-century convent now serving as a cultural hub; check the local schedule for temporary art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Franciscains",
+            "hu": "Couvent des Franciscains",
+            "ro": "Couvent des Franciscains",
+            "en": "Couvent des Franciscains"
+          },
+          "coords": [
+            -0.691844,
+            47.81943
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses historischen Franziskanerklosters; besuchen Sie es am späten Nachmittag, wenn das Sonnenlicht den Kreuzgang erhellt.",
+            "hu": "Tapasztalja meg a történelmi ferences kolostor nyugodt légkörét; látogasson el késő délután, amikor a napfény gyönyörűen megvilágítja a kerengőt.",
+            "ro": "Experimentați atmosfera senină a acestei mănăstiri franciscane istorice; vizitați după-amiaza târziu când lumina soarelui iluminează minunat claustrul.",
+            "en": "Experience the serene atmosphere of this historical Franciscan convent; visit during the late afternoon when the sunlight beautifully illuminates the cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit den Sammlungen im Museum für Kunst und Geschichte. Die Morgenbrise ist ideal für einen Spaziergang zum Jardin du Bout du Monde mit Panoramablick auf den Fluss. \nMittags erreichen Sie die historischen Ruinen des Château de Château-Gontier. Machen Sie eine Mittagspause im charmanten Stadtzentrum, bevor Sie die mittelalterliche Vergangenheit erkunden. \nAm Nachmittag entdecken Sie die markante Architektur des Couvent des Ursulines. Dieses Kulturzentrum bietet eine friedliche Atmosphäre, um lokale Kunst zu genießen. \nGegen Abend spazieren Sie zum ruhigen Couvent des Franciscains. Die in die Nachmittagssonne getauchten Kreuzgänge bilden einen perfekten Abschluss Ihrer Tour.",
+        "hu": "Kezdje a napot a Művészeti és Történeti Múzeum gazdag gyűjteményeivel. A reggeli szellő tökéletes egy sétához a Jardin du Bout du Monde-hoz, ahol panorámás folyami kilátás várja. \nDélben a Château de Château-Gontier történelmi romjaihoz ér. Tartson ebédszünetet a hangulatos városközpontban, mielőtt elmerülne a középkori múltban. \nDélután fedezze fel a Couvent des Ursulines lenyűgöző építészetét. Ez a kulturális központ békés légkört kínál a helyi művészet élvezetéhez. \nAz este közeledtével sétáljon el a nyugodt Couvent des Franciscains-hez. A késő délutáni napsütésben fürdő csendes kerengők tökéletes befejezést nyújtanak.",
+        "ro": "Începeți ziua explorând colecțiile bogate de la Muzeul de Artă și Istorie. Briza dimineții este perfectă pentru o scurtă plimbare la Jardin du Bout du Monde, cu vederi panoramice. \nLa amiază veți ajunge la ruinele istorice ale Château de Château-Gontier. Luați o pauză de prânz în centrul fermecător înainte de a vă adânci în trecutul medieval. \nDupă-amiaza, descoperiți arhitectura mănăstirii Couvent des Ursulines. Acest hub cultural oferă o atmosferă pașnică pentru a vă bucura de arta locală. \nSpre seară, mergeți la liniștita Couvent des Franciscains. Claustrele scăldate în soarele după-amiezii târzii oferă un final perfect și reflexiv al turului.",
+        "en": "Start your day exploring the rich collections at the Museum of Art and History. The morning breeze is perfect for a short stroll to the Jardin du Bout du Monde, where panoramic river views await. \nMidday brings you to the historic ruins of the Château de Château-Gontier. Take a lunch break in the charming town center before delving into the area's medieval past. \nIn the afternoon, discover the striking architecture of the Couvent des Ursulines. This cultural hub offers a peaceful yet inspiring atmosphere to soak in local art and history. \nAs evening approaches, walk to the serene Couvent des Franciscains. The quiet cloisters bathed in the late afternoon sun provide a perfect, reflective end to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.64,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.719262,
+            47.835599
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Glasfenster dieser schönen Kirche; achten Sie auf die detaillierten Holzschnitzereien in der Nähe des Hauptaltars.",
+            "hu": "Csodálja meg az ólomüveg ablakokat ebben a gyönyörű helyi templomban; figyelje meg a részletes fafaragásokat a főoltár közelében.",
+            "ro": "Minunați-vă de vitraliile complexe din această frumoasă biserică locală; fiți atenți la sculpturile detaliate în lemn din apropierea altarului principal.",
+            "en": "Marvel at the intricate stained glass windows in this beautiful local church; keep an eye out for the detailed wooden carvings near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Bout du Monde",
+            "hu": "Jardin du Bout du Monde",
+            "ro": "Jardin du Bout du Monde",
+            "en": "Jardin du Bout du Monde"
+          },
+          "coords": [
+            -0.706358,
+            47.831008
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in diesem wunderschönen Garten mit Blick auf die Mayenne; bringen Sie eine Kamera für die Panoramaterrasse mit.",
+            "hu": "Élvezze a sétát ebben a gyönyörűen parkosított kertben, ahonnan lenyűgöző kilátás nyílik a Mayenne folyóra; hozzon fényképezőgépet a panorámateraszhoz.",
+            "ro": "Bucurați-vă de o plimbare în această grădină frumos amenajată cu vedere la râul Mayenne; aduceți un aparat foto pentru terasa panoramică.",
+            "en": "Enjoy a relaxing stroll in this beautifully landscaped garden offering stunning views over the Mayenne River; bring a camera for the panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            -0.705123,
+            47.828845
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Geschichte und Kunstwerke in diesem klassischen Museum; nehmen Sie sich Zeit für die griechisch-römischen Artefakte im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet és a képzőművészeti gyűjteményeket; hagyjon időt a görög-római leletekre is az első emeleten.",
+            "ro": "Descoperiți istoria locală și colecțiile de artă în acest muzeu; păstrați timp pentru a admira artefactele greco-romane de la primul etaj.",
+            "en": "Discover fascinating local history and fine art collections in this classic museum; save time to admire the Greco-Roman artifacts on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Château-Gontier",
+            "hu": "Château de Château-Gontier",
+            "ro": "Château de Château-Gontier",
+            "en": "Château de Château-Gontier"
+          },
+          "coords": [
+            -0.703997,
+            47.825938
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser Burg, die das Schicksal der Stadt prägte; tragen Sie bequeme Schuhe für die unebenen Pflasterwege.",
+            "hu": "Fedezze fel a város sorsát formáló történelmi kastély ősi romjait és területét; viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați ruinele și domeniul acestui castel istoric care a modelat destinul orașului; purtați pantofi confortabili pentru potecile pietruite denivelate.",
+            "en": "Explore the ancient ruins and grounds of this historic castle that shaped the town's destiny; wear comfortable shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Ursulines",
+            "hu": "Couvent des Ursulines",
+            "ro": "Couvent des Ursulines",
+            "en": "Couvent des Ursulines"
+          },
+          "coords": [
+            -0.697171,
+            47.82847
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Klosters aus dem 17. Jahrhundert, das heute ein Kulturzentrum ist; prüfen Sie das Programm für Kunstausstellungen.",
+            "hu": "Csodálja meg a 17. századi kolostor lenyűgöző építészetét, amely ma kulturális központ; nézze meg a helyi programot az időszaki művészeti kiállításokhoz.",
+            "ro": "Admirați arhitectura izbitoare a acestei mănăstiri din secolul al XVII-lea, acum un hub cultural; verificați programul pentru expozițiile de artă temporare.",
+            "en": "Admire the striking architecture of this 17th-century convent now serving as a cultural hub; check the local schedule for temporary art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Refuge de l'Arche",
+            "hu": "Refuge de l'Arche",
+            "ro": "Refuge de l'Arche",
+            "en": "Refuge de l'Arche"
+          },
+          "coords": [
+            -0.700078,
+            47.8142
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.58,
+          "tip_5lang": {
+            "de": "Treffen Sie gerettete Tiere in diesem einzigartigen Tierschutzgebiet; kommen Sie früh, um die morgendlichen Fütterungen zu sehen und Menschenmengen zu meiden.",
+            "hu": "Ismerkedjen meg a megmentett állatokkal ebben az egyedülálló menhelyen; érkezzen korán, hogy láthassa a reggeli etetéseket és elkerülje a tömeget.",
+            "ro": "Conectați-vă cu animalele salvate la acest sanctuar dedicat conservării faunei; ajungeți devreme pentru a prinde hrănirea de dimineață și a evita aglomerația.",
+            "en": "Connect with rescued animals at this unique sanctuary dedicated to wildlife conservation; arrive early to catch the morning feeding sessions and avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Franciscains",
+            "hu": "Couvent des Franciscains",
+            "ro": "Couvent des Franciscains",
+            "en": "Couvent des Franciscains"
+          },
+          "coords": [
+            -0.691844,
+            47.81943
+          ],
+          "category": "religious",
+          "arrive_at": "16:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses historischen Franziskanerklosters; besuchen Sie es am späten Nachmittag, wenn das Sonnenlicht den Kreuzgang erhellt.",
+            "hu": "Tapasztalja meg a történelmi ferences kolostor nyugodt légkörét; látogasson el késő délután, amikor a napfény gyönyörűen megvilágítja a kerengőt.",
+            "ro": "Experimentați atmosfera senină a acestei mănăstiri franciscane istorice; vizitați după-amiaza târziu când lumina soarelui iluminează minunat claustrul.",
+            "en": "Experience the serene atmosphere of this historical Franciscan convent; visit during the late afternoon when the sunlight beautifully illuminates the cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zur Église Saint-Martin, um die Glasfenster zu bewundern. Eine kurze Fahrt führt Sie zum Jardin du Bout du Monde, der ein erfrischendes Parkerlebnis bietet. \nMittags erreichen Sie das Herz der Stadt. Besuchen Sie das Kunstmuseum und radeln Sie zu den Überresten des Château de Château-Gontier, um das Erbe zu spüren. \nDer Nachmittag geht weiter mit dem eleganten Couvent des Ursulines. Fahren Sie dann zum Refuge de l'Arche, wo Tierschutz auf wunderschöne Landschaften trifft. \nBeenden Sie Ihre Radtour am Couvent des Franciscains. Die gemütliche abendliche Rückfahrt ins Zentrum wird Ihnen bleibende Erinnerungen hinterlassen.",
+        "hu": "Tekerjen az Église Saint-Martin-hoz, hogy korán megcsodálja az ólomüveg ablakokat. Egy gyors út a Jardin du Bout du Monde-hoz vezet, amely frissítő parki élményt nyújt. \nDélben a város szívébe érkezik. Látogasson el a Művészeti Múzeumba, és biciklizzen át a Château de Château-Gontier maradványaihoz, felszívva a város örökségét. \nA délután a Couvent des Ursulines-nél folytatódik. Onnan tegyen egy hosszabb utat a Refuge de l'Arche-hoz, ahol a vadvédelem és a táj találkozik. \nZárja kerékpáros útját a Couvent des Franciscains-nél. A kellemes esti tekerés a központba maradandó emlékeket hagy a Mayenne varázsáról.",
+        "ro": "Pedalați până la Église Saint-Martin pentru a admira vitraliile devreme. O plimbare rapidă vă duce la Jardin du Bout du Monde, oferind o experiență răcoroasă în parc. \nLa amiază, ajungeți în inima orașului. Vizitați Muzeul de Artă și Istorie și pedalați către rămășițele Château de Château-Gontier, absorbind patrimoniul orașului. \nDupă-amiaza continuă cu eleganta Couvent des Ursulines. De acolo, mergeți către Refuge de l'Arche, unde conservarea faunei întâlnește peisaje frumoase. \nÎncheiați călătoria la Couvent des Franciscains. Plimbarea blândă de seară înapoi spre centru vă va lăsa amintiri durabile ale farmecului zonei.",
+        "en": "Pedal to the Église Saint-Martin to admire its stained glass early in the day. A quick ride leads you to the Jardin du Bout du Monde, offering a refreshing park experience. \nMidday connects you to the heart of the town. Visit the Museum of Art and History and cycle over to the remnants of the Château de Château-Gontier, absorbing the town's vibrant heritage. \nThe afternoon continues with the elegant Couvent des Ursulines. From there, take a slightly longer ride to the Refuge de l'Arche, where wildlife conservation meets beautiful landscapes. \nConclude your cycling journey at the Couvent des Franciscains. The gentle evening ride back to the center will leave you with lasting memories of Mayenne's charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:33",
+      "total_km": 5.92,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Manoir de Montviant",
+            "hu": "Manoir de Montviant",
+            "ro": "Manoir de Montviant",
+            "en": "Manoir de Montviant"
+          },
+          "coords": [
+            -0.728508,
+            47.838616
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten Herrenhaus inmitten von viel Grün; perfekt für einen ruhigen Morgenspaziergang vor der Mittagshitze.",
+            "hu": "Lépjen vissza az időben ebben a buja zölddel körülvett elegáns udvarházban; tökéletes egy csendes reggeli sétához a déli hőség beállta előtt.",
+            "ro": "Întoarceți-vă în timp la acest conac elegant înconjurat de verdeață luxuriantă; perfect pentru o plimbare liniștită de dimineață.",
+            "en": "Step back in time at this elegant manor house surrounded by lush greenery; perfect for a quiet morning walk before the midday heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.719262,
+            47.835599
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Glasfenster dieser schönen Kirche; achten Sie auf die detaillierten Holzschnitzereien in der Nähe des Hauptaltars.",
+            "hu": "Csodálja meg az ólomüveg ablakokat ebben a gyönyörű helyi templomban; figyelje meg a részletes fafaragásokat a főoltár közelében.",
+            "ro": "Minunați-vă de vitraliile complexe din această frumoasă biserică locală; fiți atenți la sculpturile detaliate în lemn din apropierea altarului principal.",
+            "en": "Marvel at the intricate stained glass windows in this beautiful local church; keep an eye out for the detailed wooden carvings near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Bout du Monde",
+            "hu": "Jardin du Bout du Monde",
+            "ro": "Jardin du Bout du Monde",
+            "en": "Jardin du Bout du Monde"
+          },
+          "coords": [
+            -0.706358,
+            47.831008
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in diesem wunderschönen Garten mit Blick auf die Mayenne; bringen Sie eine Kamera für die Panoramaterrasse mit.",
+            "hu": "Élvezze a sétát ebben a gyönyörűen parkosított kertben, ahonnan lenyűgöző kilátás nyílik a Mayenne folyóra; hozzon fényképezőgépet a panorámateraszhoz.",
+            "ro": "Bucurați-vă de o plimbare în această grădină frumos amenajată cu vedere la râul Mayenne; aduceți un aparat foto pentru terasa panoramică.",
+            "en": "Enjoy a relaxing stroll in this beautifully landscaped garden offering stunning views over the Mayenne River; bring a camera for the panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            -0.705123,
+            47.828845
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Geschichte und Kunstwerke in diesem klassischen Museum; nehmen Sie sich Zeit für die griechisch-römischen Artefakte im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet és a képzőművészeti gyűjteményeket; hagyjon időt a görög-római leletekre is az első emeleten.",
+            "ro": "Descoperiți istoria locală și colecțiile de artă în acest muzeu; păstrați timp pentru a admira artefactele greco-romane de la primul etaj.",
+            "en": "Discover fascinating local history and fine art collections in this classic museum; save time to admire the Greco-Roman artifacts on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Château-Gontier",
+            "hu": "Château de Château-Gontier",
+            "ro": "Château de Château-Gontier",
+            "en": "Château de Château-Gontier"
+          },
+          "coords": [
+            -0.703997,
+            47.825938
+          ],
+          "category": "castle",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser Burg, die das Schicksal der Stadt prägte; tragen Sie bequeme Schuhe für die unebenen Pflasterwege.",
+            "hu": "Fedezze fel a város sorsát formáló történelmi kastély ősi romjait és területét; viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați ruinele și domeniul acestui castel istoric care a modelat destinul orașului; purtați pantofi confortabili pentru potecile pietruite denivelate.",
+            "en": "Explore the ancient ruins and grounds of this historic castle that shaped the town's destiny; wear comfortable shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Ursulines",
+            "hu": "Couvent des Ursulines",
+            "ro": "Couvent des Ursulines",
+            "en": "Couvent des Ursulines"
+          },
+          "coords": [
+            -0.697171,
+            47.82847
+          ],
+          "category": "religious",
+          "arrive_at": "15:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Klosters aus dem 17. Jahrhundert, das heute ein Kulturzentrum ist; prüfen Sie das Programm für Kunstausstellungen.",
+            "hu": "Csodálja meg a 17. századi kolostor lenyűgöző építészetét, amely ma kulturális központ; nézze meg a helyi programot az időszaki művészeti kiállításokhoz.",
+            "ro": "Admirați arhitectura izbitoare a acestei mănăstiri din secolul al XVII-lea, acum un hub cultural; verificați programul pentru expozițiile de artă temporare.",
+            "en": "Admire the striking architecture of this 17th-century convent now serving as a cultural hub; check the local schedule for temporary art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Franciscains",
+            "hu": "Couvent des Franciscains",
+            "ro": "Couvent des Franciscains",
+            "en": "Couvent des Franciscains"
+          },
+          "coords": [
+            -0.691844,
+            47.81943
+          ],
+          "category": "religious",
+          "arrive_at": "16:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses historischen Franziskanerklosters; besuchen Sie es am späten Nachmittag, wenn das Sonnenlicht den Kreuzgang erhellt.",
+            "hu": "Tapasztalja meg a történelmi ferences kolostor nyugodt légkörét; látogasson el késő délután, amikor a napfény gyönyörűen megvilágítja a kerengőt.",
+            "ro": "Experimentați atmosfera senină a acestei mănăstiri franciscane istorice; vizitați după-amiaza târziu când lumina soarelui iluminează minunat claustrul.",
+            "en": "Experience the serene atmosphere of this historical Franciscan convent; visit during the late afternoon when the sunlight beautifully illuminates the cloisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Refuge de l'Arche",
+            "hu": "Refuge de l'Arche",
+            "ro": "Refuge de l'Arche",
+            "en": "Refuge de l'Arche"
+          },
+          "coords": [
+            -0.700078,
+            47.8142
+          ],
+          "category": "natural",
+          "arrive_at": "17:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Treffen Sie gerettete Tiere in diesem einzigartigen Tierschutzgebiet; kommen Sie früh, um die morgendlichen Fütterungen zu sehen und Menschenmengen zu meiden.",
+            "hu": "Ismerkedjen meg a megmentett állatokkal ebben az egyedülálló menhelyen; érkezzen korán, hogy láthassa a reggeli etetéseket és elkerülje a tömeget.",
+            "ro": "Conectați-vă cu animalele salvate la acest sanctuar dedicat conservării faunei; ajungeți devreme pentru a prinde hrănirea de dimineață și a evita aglomerația.",
+            "en": "Connect with rescued animals at this unique sanctuary dedicated to wildlife conservation; arrive early to catch the morning feeding sessions and avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Maroutière",
+            "hu": "Château de la Maroutière",
+            "ro": "Château de la Maroutière",
+            "en": "Château de la Maroutière"
+          },
+          "coords": [
+            -0.701593,
+            47.805149
+          ],
+          "category": "castle",
+          "arrive_at": "18:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem prächtigen ländlichen Schloss; achten Sie auf die Schilder für Führungen, um die historischen Salons zu betreten.",
+            "hu": "Zárja utazását ennél a lenyűgöző vidéki kastélynál; keresse az idegenvezetést jelző táblákat, hogy bejuthasson a történelmi szalonokba.",
+            "ro": "Încheiați călătoria la acest magnific castel rural cu arhitectură clasică franceză; căutați semnele pentru tururi ghidate pentru a accesa saloanele istorice.",
+            "en": "Conclude your trip at this magnificent rural castle boasting classical French architecture; look for the guided tour signs to access the historical drawing rooms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zum Manoir de Montviant, um den historischen Ton anzugeben. Fahren Sie schnell zur Église Saint-Martin, um ihre großartige Architektur zu sehen. \nMittags parken Sie in der Nähe des Zentrums, um den Jardin du Bout du Monde zu erkunden. Nebenan bieten das Kunstmuseum und das Château de Château-Gontier Einblicke in die Vergangenheit. \nFahren Sie am Nachmittag zum Couvent des Ursulines und dann zum Couvent des Franciscains. Genießen Sie danach einen Besuch im Tierschutzgebiet Refuge de l'Arche. \nBeenden Sie Ihre ausgedehnte Autotour am großen Château de la Maroutière. Bei Einbruch der Dämmerung bietet die ländliche Umgebung einen spektakulären Abschluss.",
+        "hu": "Kezdje a napot egy festői autózással a Manoir de Montviant-hoz, megadva a történelmi alaphangot. Ugorjon át az Église Saint-Martin-hoz, hogy megcsodálja lenyűgöző építészetét. \nDélre parkoljon le a városközpont közelében, és fedezze fel a Jardin du Bout du Monde-ot. Mellette a Múzeum és a Château de Château-Gontier kínál elmélyülést a múltba. \nDélután vezessen a Couvent des Ursulines-hez, majd a Couvent des Franciscains-hez. Ezután élvezze az állatmenhely, a Refuge de l'Arche látogatását a központon kívül. \nZárja átfogó autós túráját a hatalmas Château de la Maroutière-nél. Szürkületkor a fenséges vidéki környezet látványos befejezést nyújt.",
+        "ro": "Începeți cu o plimbare pitorească până la Manoir de Montviant, stabilind un ton istoric. Faceți o scurtă oprire la Église Saint-Martin pentru a-i vedea arhitectura magnifică. \nLa amiază, parcați aproape de centru pentru a explora Jardin du Bout du Monde. Chiar alături, Muzeul și Château de Château-Gontier oferă o incursiune în trecut. \nConduceți spre Couvent des Ursulines după-amiaza, apoi spre Couvent des Franciscains. Apoi, bucurați-vă de o vizită la sanctuarul de animale Refuge de l'Arche. \nÎncheiați turul extins cu mașina la grandiosul Château de la Maroutière. La lăsarea întunericului, cadrul rural majestuos oferă o concluzie spectaculoasă.",
+        "en": "Start with a scenic drive to the Manoir de Montviant, setting a historical tone for the day. Quickly hop over to the Église Saint-Martin to view its magnificent architecture and intricate details. \nBy midday, park near the town center to explore the Jardin du Bout du Monde. Right next door, the Museum of Art and History and the Château de Château-Gontier offer an immersive dive into the past. \nDrive to the Couvent des Ursulines in the afternoon, followed by the Couvent des Franciscains. Then, enjoy a rewarding visit to the Refuge de l'Arche animal sanctuary just outside the main center. \nEnd your extensive driving tour at the grand Château de la Maroutière. As twilight falls, the majestic rural setting provides a spectacular conclusion to your exploration of the Mayenne."
+      }
+    }
+  }
+}

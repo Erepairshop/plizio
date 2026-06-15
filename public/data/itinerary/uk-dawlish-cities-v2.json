@@ -1,0 +1,543 @@
+{
+  "city_id": "uk-dawlish-cities-v2",
+  "anchor": {
+    "name": "Dawlish",
+    "coords": [
+      -3.466,
+      50.581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:49",
+      "total_km": 2.8,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Dawlish",
+            "hu": "Dawlish Vasútállomás",
+            "ro": "Gara Dawlish",
+            "en": "Dawlish Railway Station"
+          },
+          "coords": [
+            -3.464531,
+            50.58055
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem ikonischen viktorianischen Bahnhof, der fast auf dem Strand steht, und halten Sie Ausschau nach historischen Dampfzügen.",
+            "hu": "Kezdje útját ezen az ikonikus viktoriánus állomáson, amely szinte a strandon épült, és tartsa a szemét a néha áthaladó gőzmozdonyokon.",
+            "ro": "Începeți călătoria la această gară victoriană emblematică, construită practic pe plajă, și fiți cu ochii în patru după trenurile cu aburi ce trec ocazional.",
+            "en": "Start your journey at this iconic Victorian station practically built on the beach, and look out for the steam trains that occasionally pass through."
+          }
+        },
+        {
+          "name": {
+            "de": "The Lawn",
+            "hu": "The Lawn",
+            "ro": "The Lawn",
+            "en": "The Lawn"
+          },
+          "coords": [
+            -3.468379,
+            50.580714
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Park, um die berühmten schwarzen Schwäne im Bach zu entdecken, und packen Sie ein leichtes Picknick für die Blumenpracht ein.",
+            "hu": "Sétáljon át ezen a festői központi parkon, hogy megcsodálja a híres fekete hattyúkat a patakban, és hozzon magával egy könnyű pikniket a gyönyörű virágok közé.",
+            "ro": "Plimbați-vă prin acest parc central pitoresc pentru a admira faimoasele lebede negre de pe pârâu și aduceți un mic picnic pentru a vă bucura de aranjamentele florale.",
+            "en": "Walk through this picturesque central park to spot the famous black swans swimming in the brook, and pack a light picnic to enjoy the beautiful floral displays all around."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Dawlish",
+            "hu": "Dawlish Múzeum",
+            "ro": "Muzeul Dawlish",
+            "en": "Dawlish Museum"
+          },
+          "coords": [
+            -3.473404,
+            50.580145
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Geschichte von viktorianischen Eisenbahnen bis zur Kriegszeit und prüfen Sie vorher die Öffnungszeiten, da Freiwillige das Museum leiten.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet a viktoriánus vasutaktól a háborús élményekig, és előzetesen ellenőrizze a nyitvatartást, mivel a múzeumot önkéntesek működtetik.",
+            "ro": "Descoperiți istoria locală fascinantă, de la căile ferate victoriene la experiențele de război, și verificați din timp programul gestionat cu drag de voluntarii pasionați.",
+            "en": "Discover fascinating local history spanning from Victorian railways to deep wartime experiences, and check the opening hours beforehand as the museum is lovingly run by volunteers."
+          }
+        },
+        {
+          "name": {
+            "de": "Manor House",
+            "hu": "Manor House",
+            "ro": "Manor House",
+            "en": "Manor House"
+          },
+          "coords": [
+            -3.47558,
+            50.581615
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Gebäude und seine üppigen Gärten, um das Erbe der Stadt zu verstehen, und besuchen Sie die Gemeindeverwaltung im Inneren.",
+            "hu": "Fedezze fel ezt az elegáns történelmi épületet és buja kertjeit, hogy mélyebben megismerje a város örökségét, és vessen egy pillantást a helyi önkormányzati irodákra.",
+            "ro": "Explorați această clădire istorică elegantă și grădinile sale luxuriante pentru a înțelege patrimoniul orașului, observând birourile consiliului local ascunse în interior.",
+            "en": "Explore this elegant historic building and its lush surrounding gardens to deeply understand the town's heritage, stopping by the local council offices nestled inside."
+          }
+        },
+        {
+          "name": {
+            "de": "St Gregory's Church",
+            "hu": "St Gregory Templom",
+            "ro": "Biserica St Gregory",
+            "en": "St Gregory's Church"
+          },
+          "coords": [
+            -3.47972,
+            50.5801
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden architektonischen Details und den friedlichen Friedhof dieser historischen Kirche, und achten Sie auf die kunstvollen Buntglasfenster.",
+            "hu": "Csodálja meg e hagyományos történelmi templom lenyűgöző építészetét és békés temetőjét, különös figyelmet fordítva a bonyolult és rendkívül gyönyörű ólomüveg ablakokra.",
+            "ro": "Admirați detaliile arhitecturale impresionante și cimitirul liniștit al acestei biserici istorice, acordând o atenție deosebită vitraliilor sale tradiționale și complexe.",
+            "en": "Admire the striking architectural details and peaceful graveyard of this traditional historic church, paying close attention to the intricate and beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Dawlish Town Beach",
+            "hu": "Dawlish Városi Strand",
+            "ro": "Plaja Orașului Dawlish",
+            "en": "Dawlish Town Beach"
+          },
+          "coords": [
+            -3.465274,
+            50.579474
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten, direkt mit der lebhaften Stadt verbundenen Sandstrand und beobachten Sie die spektakulären Züge, die hinter dem Wellenbrecher vorbeifahren.",
+            "hu": "Pihenjen ezen az életteli városhoz kapcsolódó népszerű homokos partszakaszon, és figyelje a látványos tengerparti vonatokat, amelyek sebesen elhaladnak a hullámtörő mögött.",
+            "ro": "Relaxați-vă pe această plajă populară de nisip conectată direct de orașul plin de viață și urmăriți trenurile spectaculoase de coastă trecând rapid chiar în spatele digului.",
+            "en": "Relax on this highly popular stretch of soft sand directly connected to the lively town, and watch the spectacular seaside trains passing swiftly just behind the breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Boat Cove",
+            "hu": "Boat Cove",
+            "ro": "Boat Cove",
+            "en": "Boat Cove"
+          },
+          "coords": [
+            -3.467166,
+            50.576995
+          ],
+          "category": "historical",
+          "arrive_at": "16:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische kleine Bucht, in der lokale Fischer noch immer ihre Boote zu Wasser lassen, die unglaubliche Fotomotive vor den schroffen roten Klippen bietet.",
+            "hu": "Látogasson el ebbe a történelmi, bájos kis öbölbe, ahol a halászok még mindig vízre bocsátják csónakjaikat, és készítsen hihetetlen fotókat a zord, vörös sziklák hátterével.",
+            "ro": "Vizitați acest mic golf istoric fermecător unde pescarii locali își lansează încă bărcile de lucru, oferind oportunități incredibile de fotografiere pe fundalul stâncilor roșii.",
+            "en": "Visit this historic and charming small cove where local fishermen still actively launch their working boats, offering incredible photo opportunities against the rugged red cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lea Mount",
+            "hu": "Lea Mount",
+            "ro": "Lea Mount",
+            "en": "Lea Mount"
+          },
+          "coords": [
+            -3.468745,
+            50.576839
+          ],
+          "category": "natural",
+          "arrive_at": "16:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die Wege zu diesem erhöhten Park hinauf, um atemberaubende Panoramablicke auf die Küste zu genießen, und ruhen Sie sich auf den Bänken bei einer Meeresbrise aus.",
+            "hu": "Másszon fel az ösvényeken ebbe a magasan fekvő parkba a teljes partvonalra nyíló lenyűgöző panorámáért, és pihenjen meg a békés padokon, hogy élvezze a frissítő tengeri szellőt.",
+            "ro": "Urcați pe potecile din acest parc public la înălțime pentru vederi panoramice uimitoare ale coastei și odihniți-vă pe băncile liniștite pentru a prinde o briză răcoroasă a mării.",
+            "en": "Climb up the paths to this elevated public garden for stunning panoramic views of the entire coastline, and rest on the peaceful benches to catch a truly refreshing sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Coryton Cove",
+            "hu": "Coryton Cove",
+            "ro": "Coryton Cove",
+            "en": "Coryton Cove"
+          },
+          "coords": [
+            -3.468479,
+            50.575119
+          ],
+          "category": "natural",
+          "arrive_at": "17:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Sommermassen in dieser abgeschiedenen, von roten Klippen umrahmten Bucht und erkunden Sie bei Ebbe vorsichtig die Felsenpools nach faszinierendem Meeresleben.",
+            "hu": "Meneküljön el a nyári tömeg elől ebben a vörös sziklák által övezett gyönyörűen elzárt öbölben, és apálykor óvatosan fedezze fel a sziklás medencék lenyűgöző tengeri élővilágát.",
+            "ro": "Evadați de aglomerația de vară în acest golf retras frumos, înconjurat de stânci roșii, și explorați cu atenție piscinele stâncoase la reflux pentru a descoperi viața marină.",
+            "en": "Escape the busy summer crowds at this beautifully secluded bay framed by towering red cliffs, and carefully explore the rocky pools at low tide for fascinating local marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Küstenbahnhof und schlendern Sie ins Zentrum, um die schwarzen Schwäne in The Lawn zu sehen. Mittags lockt lokale Geschichte im Museum und Manor House, gefolgt von der alten Kirche. Entspannen Sie nachmittags am Strand und bewundern Sie die historische Fischerbucht. Steigen Sie abends auf den Lea Mount für weite Meeresblicke und beenden Sie den Tag in der Ruhe von Coryton Cove.",
+        "hu": "Kezdje a parti vasútállomáson, majd sétáljon be a városba, hogy üdvözölje a fekete hattyúkat a The Lawn-ban. Délben felfedezheti a helyi örökséget a múzeumban és a kastélyban, majd a történelmi templomban. Töltsön el egy pihentető délutánt a városi strandon, és csodálja meg az öreg halászöblöt. Végül másszon fel a Lea Mountra a tengeri kilátásért, és zárja a napot a békés Coryton Cove-ban.",
+        "ro": "Începeți la gara de pe coastă, apoi plimbați-vă în oraș pentru a saluta lebedele negre la The Lawn. Prânzul dezvăluie patrimoniul local la muzeu și Manor House, urmate de biserica istorică. Petreceți o după-amiază relaxantă pe plaja orașului și admirați vechiul golf al pescarilor. În final, urcați pe Lea Mount pentru vederi ample la mare și încheiați ziua activă în liniștea de la Coryton Cove.",
+        "en": "Start at the coastal railway station, then wander into town to greet the black swans at The Lawn. Midday reveals local heritage at the museum and Manor House, followed by the historic church. Spend a relaxing afternoon on the town beach and admire the historic fishermen's cove. Finally, ascend Lea Mount for sweeping sea views and end your active day in the peaceful tranquility of Coryton Cove."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Lawn",
+            "hu": "The Lawn",
+            "ro": "The Lawn",
+            "en": "The Lawn"
+          },
+          "coords": [
+            -3.468379,
+            50.580714
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Park, um die berühmten schwarzen Schwäne im Bach zu entdecken, und packen Sie ein leichtes Picknick für die Blumenpracht ein.",
+            "hu": "Sétáljon át ezen a festői központi parkon, hogy megcsodálja a híres fekete hattyúkat a patakban, és hozzon magával egy könnyű pikniket a gyönyörű virágok közé.",
+            "ro": "Plimbați-vă prin acest parc central pitoresc pentru a admira faimoasele lebede negre de pe pârâu și aduceți un mic picnic pentru a vă bucura de aranjamentele florale.",
+            "en": "Walk through this picturesque central park to spot the famous black swans swimming in the brook, and pack a light picnic to enjoy the beautiful floral displays all around."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Dawlish",
+            "hu": "Dawlish Múzeum",
+            "ro": "Muzeul Dawlish",
+            "en": "Dawlish Museum"
+          },
+          "coords": [
+            -3.473404,
+            50.580145
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Geschichte von viktorianischen Eisenbahnen bis zur Kriegszeit und prüfen Sie vorher die Öffnungszeiten, da Freiwillige das Museum leiten.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet a viktoriánus vasutaktól a háborús élményekig, és előzetesen ellenőrizze a nyitvatartást, mivel a múzeumot önkéntesek működtetik.",
+            "ro": "Descoperiți istoria locală fascinantă, de la căile ferate victoriene la experiențele de război, și verificați din timp programul gestionat cu drag de voluntarii pasionați.",
+            "en": "Discover fascinating local history spanning from Victorian railways to deep wartime experiences, and check the opening hours beforehand as the museum is lovingly run by volunteers."
+          }
+        },
+        {
+          "name": {
+            "de": "Manor House",
+            "hu": "Manor House",
+            "ro": "Manor House",
+            "en": "Manor House"
+          },
+          "coords": [
+            -3.47558,
+            50.581615
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Gebäude und seine üppigen Gärten, um das Erbe der Stadt zu verstehen, und besuchen Sie die Gemeindeverwaltung im Inneren.",
+            "hu": "Fedezze fel ezt az elegáns történelmi épületet és buja kertjeit, hogy mélyebben megismerje a város örökségét, és vessen egy pillantást a helyi önkormányzati irodákra.",
+            "ro": "Explorați această clădire istorică elegantă și grădinile sale luxuriante pentru a înțelege patrimoniul orașului, observând birourile consiliului local ascunse în interior.",
+            "en": "Explore this elegant historic building and its lush surrounding gardens to deeply understand the town's heritage, stopping by the local council offices nestled inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Red Rock Beach",
+            "hu": "Red Rock Beach",
+            "ro": "Red Rock Beach",
+            "en": "Red Rock Beach"
+          },
+          "coords": [
+            -3.454059,
+            50.585807
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang dieses markanten Küstenabschnitts mit lebhaften Sandsteinklippen und bringen Sie unbedingt geeignetes Schuhwerk für den Kies mit.",
+            "hu": "Tegyél egy kellemes és kényelmes sétát ezen a feltűnő partvidéken, amelyet élénk homokkő sziklák határolnak, és mindenképpen hozz megfelelő lábbelit a kavicsos és homokos részre.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei coaste impresionante definite de stânci vii de gresie și aduceți neapărat încălțăminte adecvată pentru zonele cu pietriș și nisip.",
+            "en": "Take a delightfully leisurely stroll along this striking stretch of coast defined by vivid sandstone cliffs, and definitely bring suitable footwear for the mixed shingle and sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Dawlish Warren Naturreservat",
+            "hu": "Dawlish Warren Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Dawlish Warren",
+            "en": "Dawlish Warren Nature Reserve"
+          },
+          "coords": [
+            -3.438333,
+            50.60129
+          ],
+          "category": "natural",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie leise durch die majestätischen Sanddünen dieses international wichtigen Wildtierparadieses, um seltene Zugvögel zu beobachten, und bleiben Sie auf markierten Wegen.",
+            "hu": "Sétáljon csendben ennek a nemzetközileg jelentős vadvédelmi területnek a fenséges homokdűnéin ritka költöző madarak után kutatva, és mindig maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă în liniște prin dunele maiestuoase ale acestui refugiu de importanță internațională pentru a observa păsări migratoare rare și rămâneți pe traseele strict marcate.",
+            "en": "Walk quietly through the majestic sand dunes of this internationally important wildlife haven to spot rare migrating birds, and always stick to marked trails to protect the habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirates Cove Abenteuergolf",
+            "hu": "Pirates Cove Kalandgolf",
+            "ro": "Minigolf Aventura Pirates Cove",
+            "en": "Pirates Cove Adventure Golf"
+          },
+          "coords": [
+            -3.442951,
+            50.59685
+          ],
+          "category": "family",
+          "arrive_at": "16:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine spaßige Familienpause auf diesem aufregenden Piraten-Minigolfplatz und versuchen Sie, früher am Tag zu kommen, um die langen Sommer-Warteschlangen zu meiden.",
+            "hu": "Élvezze a vidám családi kikapcsolódást ezen az izgalmas kalóz témájú minigolfpályán, és próbáljon meg korábban érkezni a nyári sorban állás elkerülése végett.",
+            "ro": "Bucurați-vă de o pauză de familie plină de distracție pe acest teren captivant de minigolf cu pirați și încercați să vizitați mai devreme pentru a evita cozile lungi de vară.",
+            "en": "Enjoy a truly fun-filled family break successfully navigating this exciting pirate-themed mini golf course, and try to visit earlier in the day to avoid the long summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer in The Lawn und genießen Sie die morgendliche Ruhe, bevor Sie zum Museum radeln. Mittags zeigt das elegante Manor House die Geschichte und bereitet eine schöne Küstenfahrt vor. Die Nachmittagsbrise begleitet Sie zum Red Rock Beach, bevor Sie zu den Dünen des Naturreservats fahren. Beenden Sie den aktiven Tag mit leichtem Spaß auf dem Piraten-Abenteuergolfplatz.",
+        "hu": "Kezdje kerékpáros kalandját a The Lawn-nál, magába szívva a reggeli hangulatot, mielőtt a helyi múzeumhoz gurulna. Délben az elegáns Manor House bemutatja a polgári történelmet, előkészítve egy festői parti túrát. A délutáni szellő kíséri a Red Rock Beach-hez, mielőtt a természetvédelmi terület dűnéi felé pedálozna. Zárja aktív napját egy kis vidám szórakozással a kalóz kalandgolfpályán.",
+        "ro": "Începeți aventura pe bicicletă la The Lawn, absorbind atmosfera dimineții înainte de a vă îndrepta spre muzeu. La prânz, elegantul Manor House dezvăluie istoria civică, pregătind o plimbare pitorească pe coastă. Briza după-amiezii vă însoțește la Red Rock Beach, înainte de a pedala spre dunele rezervației naturale. Încheiați ziua activă cu o distracție relaxantă la minigolful cu pirați.",
+        "en": "Begin your cycling adventure at The Lawn, absorbing the morning atmosphere before rolling towards the local museum. At midday, the elegant Manor House reveals civic history, setting up a scenic coastal ride. The afternoon breeze accompanies you to Red Rock Beach, before you pedal towards the nature reserve's dunes. End your active day with some lighthearted fun at the pirate adventure golf course."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Lawn",
+            "hu": "The Lawn",
+            "ro": "The Lawn",
+            "en": "The Lawn"
+          },
+          "coords": [
+            -3.468379,
+            50.580714
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Park, um die berühmten schwarzen Schwäne im Bach zu entdecken, und packen Sie ein leichtes Picknick für die Blumenpracht ein.",
+            "hu": "Sétáljon át ezen a festői központi parkon, hogy megcsodálja a híres fekete hattyúkat a patakban, és hozzon magával egy könnyű pikniket a gyönyörű virágok közé.",
+            "ro": "Plimbați-vă prin acest parc central pitoresc pentru a admira faimoasele lebede negre de pe pârâu și aduceți un mic picnic pentru a vă bucura de aranjamentele florale.",
+            "en": "Walk through this picturesque central park to spot the famous black swans swimming in the brook, and pack a light picnic to enjoy the beautiful floral displays all around."
+          }
+        },
+        {
+          "name": {
+            "de": "St Gregory's Church",
+            "hu": "St Gregory Templom",
+            "ro": "Biserica St Gregory",
+            "en": "St Gregory's Church"
+          },
+          "coords": [
+            -3.47972,
+            50.5801
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden architektonischen Details und den friedlichen Friedhof dieser historischen Kirche, und achten Sie auf die kunstvollen Buntglasfenster.",
+            "hu": "Csodálja meg e hagyományos történelmi templom lenyűgöző építészetét és békés temetőjét, különös figyelmet fordítva a bonyolult és rendkívül gyönyörű ólomüveg ablakokra.",
+            "ro": "Admirați detaliile arhitecturale impresionante și cimitirul liniștit al acestei biserici istorice, acordând o atenție deosebită vitraliilor sale tradiționale și complexe.",
+            "en": "Admire the striking architectural details and peaceful graveyard of this traditional historic church, paying close attention to the intricate and beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Dawlish",
+            "hu": "Dawlish Múzeum",
+            "ro": "Muzeul Dawlish",
+            "en": "Dawlish Museum"
+          },
+          "coords": [
+            -3.473404,
+            50.580145
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Geschichte von viktorianischen Eisenbahnen bis zur Kriegszeit und prüfen Sie vorher die Öffnungszeiten, da Freiwillige das Museum leiten.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet a viktoriánus vasutaktól a háborús élményekig, és előzetesen ellenőrizze a nyitvatartást, mivel a múzeumot önkéntesek működtetik.",
+            "ro": "Descoperiți istoria locală fascinantă, de la căile ferate victoriene la experiențele de război, și verificați din timp programul gestionat cu drag de voluntarii pasionați.",
+            "en": "Discover fascinating local history spanning from Victorian railways to deep wartime experiences, and check the opening hours beforehand as the museum is lovingly run by volunteers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dawlish Town Beach",
+            "hu": "Dawlish Városi Strand",
+            "ro": "Plaja Orașului Dawlish",
+            "en": "Dawlish Town Beach"
+          },
+          "coords": [
+            -3.465274,
+            50.579474
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten, direkt mit der lebhaften Stadt verbundenen Sandstrand und beobachten Sie die spektakulären Züge, die hinter dem Wellenbrecher vorbeifahren.",
+            "hu": "Pihenjen ezen az életteli városhoz kapcsolódó népszerű homokos partszakaszon, és figyelje a látványos tengerparti vonatokat, amelyek sebesen elhaladnak a hullámtörő mögött.",
+            "ro": "Relaxați-vă pe această plajă populară de nisip conectată direct de orașul plin de viață și urmăriți trenurile spectaculoase de coastă trecând rapid chiar în spatele digului.",
+            "en": "Relax on this highly popular stretch of soft sand directly connected to the lively town, and watch the spectacular seaside trains passing swiftly just behind the breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Dawlish Warren Naturreservat",
+            "hu": "Dawlish Warren Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Dawlish Warren",
+            "en": "Dawlish Warren Nature Reserve"
+          },
+          "coords": [
+            -3.438333,
+            50.60129
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie leise durch die majestätischen Sanddünen dieses international wichtigen Wildtierparadieses, um seltene Zugvögel zu beobachten, und bleiben Sie auf markierten Wege.",
+            "hu": "Sétáljon csendben ennek a nemzetközileg jelentős vadvédelmi területnek a fenséges homokdűnéin ritka költöző madarak után kutatva, és mindig maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă în liniște prin dunele maiestuoase ale acestui refugiu de importanță internațională pentru a observa păsări migratoare rare și rămâneți pe traseele strict marcate.",
+            "en": "Walk quietly through the majestic sand dunes of this internationally important wildlife haven to spot rare migrating birds, and always stick to marked trails to protect the habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirates Cove Abenteuergolf",
+            "hu": "Pirates Cove Kalandgolf",
+            "ro": "Minigolf Aventura Pirates Cove",
+            "en": "Pirates Cove Adventure Golf"
+          },
+          "coords": [
+            -3.442951,
+            50.59685
+          ],
+          "category": "family",
+          "arrive_at": "15:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine spaßige Familienpause auf diesem aufregenden Piraten-Minigolfplatz und versuchen Sie, früher am Tag zu kommen, um die langen Sommer-Warteschlangen zu meiden.",
+            "hu": "Élvezze a vidám családi kikapcsolódást ezen az izgalmas kalóz témájú minigolfpályán, és próbáljon meg korábban érkezni a nyári sorban állás elkerülése végett.",
+            "ro": "Bucurați-vă de o pauză de familie plină de distracție pe acest teren captivant de minigolf cu pirați și încercați să vizitați mai devreme pentru a evita cozile lungi de vară.",
+            "en": "Enjoy a truly fun-filled family break successfully navigating this exciting pirate-themed mini golf course, and try to visit earlier in the day to avoid the long summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt bei The Lawn für einen frischen Morgenspaziergang zu den Wasserspielen. Gegen Mittag bringt Sie eine kurze Fahrt zur alten Kirche und dann zum faszinierenden lokalen Museum. Der Nachmittag lädt ein, nahe dem Stadtstrand zu parken und die Meeresluft einzuatmen. Eine kurze Fahrt bringt Sie schließlich zum Naturreservat, abgerundet durch eine abendliche Runde Abenteuergolf.",
+        "hu": "Autós túrája a The Lawn-nál kezdődik, amely lehetővé teszi a friss reggeli sétát a híres vízjátékokhoz. Délben egy rövid út visz a történelmi templomhoz, majd a lenyűgöző helyi múzeumhoz. A délután arra hív, hogy a városi strand közelében parkoljon és beszívja a friss tengeri levegőt. Végül egy rövid autózás elviszi a természetvédelmi területre, amelyet egy esti kalandgolf-kör koronáz meg.",
+        "ro": "Turul cu mașina începe la The Lawn, permițând o plimbare matinală proaspătă pentru a admira fântânile faimoase. La prânz, o scurtă călătorie vă duce la biserica istorică și apoi la fascinantul muzeu local. După-amiaza vă invită să parcați lângă plaja orașului pentru a respira aerul proaspăt al mării. În cele din urmă, o scurtă ieșire vă aduce la rezervația naturală, urmată de o rundă de minigolf.",
+        "en": "Your driving tour begins at The Lawn, allowing for a fresh morning stroll to admire the famous water features. By noon, a short drive transports you to the historic church and then to the fascinating local museum. The afternoon invites you to park near the town beach to breathe in the sea air. Finally, a short drive brings you to the nature reserve, capped off by an evening round of adventure golf."
+      }
+    }
+  }
+}

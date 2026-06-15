@@ -1,0 +1,451 @@
+{
+  "city_id": "etampes",
+  "anchor": {
+    "name": "Étampes",
+    "coords": [
+      2.1622,
+      48.435
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 2.16,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame-du-Fort Kirche",
+            "hu": "Notre-Dame-du-Fort templom",
+            "ro": "Biserica Notre-Dame-du-Fort",
+            "en": "Notre-Dame-du-Fort Church"
+          },
+          "coords": [
+            2.164122,
+            48.435043
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Wehrmerkmale dieser einzigartigen Wehrkirche und prüfen Sie unbedingt die Öffnungszeiten für Krypta-Führungen.",
+            "hu": "Csodálja meg ennek az egyedülálló erődtemplomnak a lenyűgöző védelmi elemeit, és mindenképpen ellenőrizze a kriptatúrák nyitvatartását.",
+            "ro": "Admirați trăsăturile defensive impresionante ale acestei biserici fortificate unice și asigurați-vă că verificați programul pentru tururile criptei.",
+            "en": "Admire the impressive defensive features of this unique fortified church, and be sure to check the opening hours for guided crypt tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Étampes",
+            "hu": "Étampes Városháza",
+            "ro": "Primăria din Étampes",
+            "en": "Étampes City Hall"
+          },
+          "coords": [
+            2.161185,
+            48.434427
+          ],
+          "category": "civic",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die elegante Fassade des Rathauses zu schätzen, das sich als großartiger zentraler Treffpunkt mit nahen Cafés eignet.",
+            "hu": "Szánjon egy percet a polgármesteri hivatal elegáns homlokzatának megcsodálására, amely kiváló központi találkozóhely a közeli kávézókkal.",
+            "ro": "Acordați-vă un moment pentru a aprecia fațada elegantă a centrului civic, care servește drept un excelent punct de întâlnire cu cafenelele din apropiere.",
+            "en": "Take a moment to appreciate the elegant facade of the civic center, which serves as a great central meeting point with nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Interkommunales Museum von Étampes",
+            "hu": "Étampes Interkommunális Múzeuma",
+            "ro": "Muzeul Intercomunal din Étampes",
+            "en": "Intercommunal Museum of Étampes"
+          },
+          "coords": [
+            2.16144,
+            48.4345
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch vielfältige Ausstellungen in die reiche Geschichte der Region ein und planen Sie mindestens eine Stunde für die archäologischen Funde.",
+            "hu": "Merüljön el a régió gazdag történelmében a különféle kiállításokon keresztül, és szánjon legalább egy órát a régészeti leletek értékelésére.",
+            "ro": "Pătrundeți în bogata istorie a regiunii prin expoziții diverse și alocați cel puțin o oră pentru a aprecia pe deplin descoperirile arheologice.",
+            "en": "Dive into the rich history of the region through diverse exhibits, and allocate at least an hour to fully appreciate the archeological finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Guinette-Turm",
+            "hu": "Guinette-torony",
+            "ro": "Turnul Guinette",
+            "en": "Guinette Tower"
+          },
+          "coords": [
+            2.158463,
+            48.437621
+          ],
+          "category": "fortress",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Überreste dieser historischen königlichen Festung für Panoramablicke, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel e történelmi királyi erőd romjaihoz a panorámás kilátásért, de viseljen masszív cipőt, mivel az út kissé egyenetlen lehet.",
+            "ro": "Urcați la rămășițele acestei fortărețe regale istorice pentru a vă bucura de vederi panoramice, dar purtați încălțăminte robustă, deoarece drumul este accidentat.",
+            "en": "Climb up to the remnants of this historic royal fortress to enjoy panoramic views, but wear sturdy shoes as the path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            2.153641,
+            48.432147
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markante romanische Architektur und das ruhige Innere dieser historischen Kirche, am besten bei Morgenlicht für die schönste Atmosphäre.",
+            "hu": "Fedezze fel a történelmi templom lenyűgöző román stílusú építészetét és nyugodt belső terét, ideális esetben a reggeli fényben a legjobb hangulatért.",
+            "ro": "Explorați arhitectura romanică impresionantă și interiorul senin al acestei biserici istorice, vizitând ideal în lumina dimineții pentru cea mai bună ambianță.",
+            "en": "Explore the striking Romanesque architecture and serene interior of this historic church, ideally visiting during morning light for the best ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Jack Têtedoux",
+            "hu": "Square Jack Têtedoux",
+            "ro": "Parcul Jack Têtedoux",
+            "en": "Square Jack Têtedoux"
+          },
+          "coords": [
+            2.143145,
+            48.435048
+          ],
+          "category": "family",
+          "arrive_at": "14:28",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem ruhigen Stadtpark, ideal für eine kurze Pause mit der Familie, und holen Sie sich einen Snack aus einer nahen Bäckerei.",
+            "hu": "Pihenjen meg ebben a békés helyi parkban, amely tökéletes egy rövid családi szünethez, és vegyen egy rágcsálnivalót a közeli pékségből.",
+            "ro": "Relaxați-vă în acest parc local pașnic, perfect pentru o pauză rapidă cu familia, și luați o gustare de la o brutărie din apropiere pe o bancă.",
+            "en": "Relax in this peaceful local park perfect for a quick break with family, and grab a snack from a nearby bakery to enjoy on the benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Étampes und schlendern Sie durch die malerischen Straßen. Verbringen Sie den Mittag damit, mehr über die lokale Geschichte zu erfahren oder entspannen Sie sich. Am Nachmittag können Sie charmante Wahrzeichen erkunden, die atemberaubende Ausblicke bieten. Lassen Sie Ihren Tag entspannt ausklingen und genießen Sie die friedliche Atmosphäre.",
+        "hu": "Kezdje a napot Étampes történelmi szívében, sétáljon végig a festői utcákon és fedezze fel a csodálatos építészetet. Töltse a delet a helyi történelem megismerésével, vagy pihenjen a város zöldövezeteiben. Délután fedezze fel a bájos nevezetességeket, amelyek lenyűgöző kilátást kínálnak. Fejezze be a napot lazítva, gyűjtse be az utolsó benyomásokat és élvezze a békés esti hangulatot.",
+        "ro": "Începeți ziua în inima istorică a orașului Étampes, plimbându-vă pe străzile pitorești. Petreceți prânzul aflând mai multe despre istoria locală sau relaxați-vă în spațiile verzi ale orașului. După-amiaza, puteți explora repere fermecătoare care oferă priveliști uimitoare. Încheiați-vă ziua relaxându-vă, captând ultimele impresii și bucurându-vă de atmosfera pașnică a serii.",
+        "en": "Start your day in the historical heart of Étampes, strolling through picturesque streets and discovering magnificent architecture. Spend your midday learning more about local history or relaxing in the city's quiet green spaces. In the afternoon, explore charming landmarks that offer stunning views and fantastic photo opportunities. Wind down your day enjoying the peaceful evening atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 3.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame-du-Fort Kirche",
+            "hu": "Notre-Dame-du-Fort templom",
+            "ro": "Biserica Notre-Dame-du-Fort",
+            "en": "Notre-Dame-du-Fort Church"
+          },
+          "coords": [
+            2.164122,
+            48.435043
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Wehrmerkmale dieser einzigartigen Wehrkirche und prüfen Sie unbedingt die Öffnungszeiten für Krypta-Führungen.",
+            "hu": "Csodálja meg ennek az egyedülálló erődtemplomnak a lenyűgöző védelmi elemeit, és mindenképpen ellenőrizze a kriptatúrák nyitvatartását.",
+            "ro": "Admirați trăsăturile defensive impresionante ale acestei biserici fortificate unice și asigurați-vă că verificați programul pentru tururile criptei.",
+            "en": "Admire the impressive defensive features of this unique fortified church, and be sure to check the opening hours for guided crypt tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Guinette-Turm",
+            "hu": "Guinette-torony",
+            "ro": "Turnul Guinette",
+            "en": "Guinette Tower"
+          },
+          "coords": [
+            2.158463,
+            48.437621
+          ],
+          "category": "fortress",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Überreste dieser historischen königlichen Festung für Panoramablicke, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel e történelmi királyi erőd romjaihoz a panorámás kilátásért, de viseljen masszív cipőt, mivel az út kissé egyenetlen lehet.",
+            "ro": "Urcați la rămășițele acestei fortărețe regale istorice pentru a vă bucura de vederi panoramice, dar purtați încălțăminte robustă, deoarece drumul este accidentat.",
+            "en": "Climb up to the remnants of this historic royal fortress to enjoy panoramic views, but wear sturdy shoes as the path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            2.153641,
+            48.432147
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markante romanische Architektur und das ruhige Innere dieser historischen Kirche, am besten bei Morgenlicht für die schönste Atmosphäre.",
+            "hu": "Fedezze fel a történelmi templom lenyűgöző román stílusú építészetét és nyugodt belső terét, ideális esetben a reggeli fényben a legjobb hangulatért.",
+            "ro": "Explorați arhitectura romanică impresionantă și interiorul senin al acestei biserici istorice, vizitând ideal în lumina dimineții pentru cea mai bună ambianță.",
+            "en": "Explore the striking Romanesque architecture and serene interior of this historic church, ideally visiting during morning light for the best ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitbasis Étampes",
+            "hu": "Étampes Szabadidőközpont",
+            "ro": "Baza de Agrement Étampes",
+            "en": "Étampes Leisure Base"
+          },
+          "coords": [
+            2.157145,
+            48.427343
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Genießen Sie Outdoor-Aktivitäten von Kanufahren bis Baumklettern in diesem weitläufigen Freizeitzentrum und kommen Sie am Wochenende frühzeitig.",
+            "hu": "Élvezze a szabadtéri tevékenységeket a kenuzástól a fára mászásig ebben a hatalmas szabadidőközpontban, és érkezzen korán a hétvégén a tömeg elkerülése végett.",
+            "ro": "Bucurați-vă de activități în aer liber de la canotaj la escaladare în copaci în acest vast centru de recreere și ajungeți devreme în weekend.",
+            "en": "Enjoy outdoor activities ranging from canoeing to tree climbing at this sprawling recreation center, and arrive early on weekends to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellenbad",
+            "hu": "Hullámmedence",
+            "ro": "Piscina cu valuri",
+            "en": "Piscine à vagues"
+          },
+          "coords": [
+            2.162399,
+            48.42739
+          ],
+          "category": "family",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im berühmten Wellenbad ab, das fantastischen Sommerspaß für alle Altersgruppen bietet, aber vergessen Sie nicht eine Spind-Münze und Handtücher.",
+            "hu": "Hűtse le magát a híres hullámmedencében, amely fantasztikus nyári szórakozást kínál minden korosztálynak, de ne felejtsen el szekrényérmét és törölközőt vinni.",
+            "ro": "Răcoriți-vă la celebra piscină cu valuri care oferă distracție fantastică de vară, dar nu uitați să luați o monedă pentru vestiar și propriile prosoape.",
+            "en": "Cool off at the famous wave pool which offers fantastic summer fun for all ages, but remember to pack a locker coin and your own towels."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Jack Têtedoux",
+            "hu": "Square Jack Têtedoux",
+            "ro": "Parcul Jack Têtedoux",
+            "en": "Square Jack Têtedoux"
+          },
+          "coords": [
+            2.143145,
+            48.435048
+          ],
+          "category": "family",
+          "arrive_at": "14:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem ruhigen Stadtpark, ideal für eine kurze Pause mit der Familie, und holen Sie sich einen Snack aus einer nahen Bäckerei.",
+            "hu": "Pihenjen meg ebben a békés helyi parkban, amely tökéletes egy rövid családi szünethez, és vegyen egy rágcsálnivalót a közeli pékségből.",
+            "ro": "Relaxați-vă în acest parc local pașnic, perfect pentru o pauză rapidă cu familia, și luați o gustare de la o brutărie din apropiere pe o bancă.",
+            "en": "Relax in this peaceful local park perfect for a quick break with family, and grab a snack from a nearby bakery to enjoy on the benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an den prächtigen historischen Wahrzeichen der Stadt. Am Mittag fahren Sie zu den weitläufigen Freizeitgebieten und genießen die frische Luft. Nachmittags erwartet Sie spritziger Spaß im Freibad und aktive Erholung im Grünen. Der Tag endet entspannt in einem ruhigen Stadtpark mit schönen letzten Eindrücken.",
+        "hu": "Kezdje a kerékpártúrát a város lenyűgöző történelmi nevezetességeinél. Délben tekerjen el a tágas szabadidős területekre, és élvezze a friss levegőt. Délután frissítő szórakozás várja a szabadtéri medencében és aktív pihenés a zöldben. A nap egy csendes városi parkban, kellemes utolsó benyomásokkal zárul lazán.",
+        "ro": "Începeți turul cu bicicleta la reperele istorice magnifice ale orașului. La prânz, pedalați către zonele vaste de agrement și bucurați-vă de aerul curat. După-amiaza vă așteaptă o distracție răcoritoare la piscina în aer liber și recreere activă. Ziua se încheie relaxat într-un parc liniștit cu impresii finale frumoase.",
+        "en": "Start your bike tour at the city's magnificent historical landmarks. At midday, ride to the expansive leisure areas and enjoy the fresh outdoor air. In the afternoon, refreshing fun awaits at the outdoor pool along with active green recreation. The day ends relaxingly in a quiet city park with beautiful final impressions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 10.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame-du-Fort Kirche",
+            "hu": "Notre-Dame-du-Fort templom",
+            "ro": "Biserica Notre-Dame-du-Fort",
+            "en": "Notre-Dame-du-Fort Church"
+          },
+          "coords": [
+            2.164122,
+            48.435043
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Wehrmerkmale dieser einzigartigen Wehrkirche und prüfen Sie unbedingt die Öffnungszeiten für Krypta-Führungen.",
+            "hu": "Csodálja meg ennek az egyedülálló erődtemplomnak a lenyűgöző védelmi elemeit, és mindenképpen ellenőrizze a kriptatúrák nyitvatartását.",
+            "ro": "Admirați trăsăturile defensive impresionante ale acestei biserici fortificate unice și asigurați-vă că verificați programul pentru tururile criptei.",
+            "en": "Admire the impressive defensive features of this unique fortified church, and be sure to check the opening hours for guided crypt tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Guinette-Turm",
+            "hu": "Guinette-torony",
+            "ro": "Turnul Guinette",
+            "en": "Guinette Tower"
+          },
+          "coords": [
+            2.158463,
+            48.437621
+          ],
+          "category": "fortress",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Überreste dieser historischen königlichen Festung für Panoramablicke, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel e történelmi királyi erőd romjaihoz a panorámás kilátásért, de viseljen masszív cipőt, mivel az út kissé egyenetlen lehet.",
+            "ro": "Urcați la rămășițele acestei fortărețe regale istorice pentru a vă bucura de vederi panoramice, dar purtați încălțăminte robustă, deoarece drumul este accidentat.",
+            "en": "Climb up to the remnants of this historic royal fortress to enjoy panoramic views, but wear sturdy shoes as the path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitbasis Étampes",
+            "hu": "Étampes Szabadidőközpont",
+            "ro": "Baza de Agrement Étampes",
+            "en": "Étampes Leisure Base"
+          },
+          "coords": [
+            2.157145,
+            48.427343
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie Outdoor-Aktivitäten von Kanufahren bis Baumklettern in diesem weitläufigen Freizeitzentrum und kommen Sie am Wochenende frühzeitig.",
+            "hu": "Élvezze a szabadtéri tevékenységeket a kenuzástól a fára mászásig ebben a hatalmas szabadidőközpontban, és érkezzen korán a hétvégén a tömeg elkerülése végett.",
+            "ro": "Bucurați-vă de activități în aer liber de la canotaj la escaladare în copaci în acest vast centru de recreere și ajungeți devreme în weekend.",
+            "en": "Enjoy outdoor activities ranging from canoeing to tree climbing at this sprawling recreation center, and arrive early on weekends to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare du Chesnay",
+            "hu": "Mare du Chesnay",
+            "ro": "Lacul Mare du Chesnay",
+            "en": "Mare du Chesnay"
+          },
+          "coords": [
+            2.109705,
+            48.45774
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Naturspaziergang um diesen malerischen Teich und bringen Sie ein Fernglas mit, um die lebhafte lokale Vogelwelt zu beobachten.",
+            "hu": "Tegyen egy nyugodt sétát a természetben e gyönyörű, festői tó körül, és hozzon távcsövet, ha látni szeretné az élénk helyi madárvilágot.",
+            "ro": "Faceți o plimbare liniștită în natură în jurul acestui iaz pitoresc și frumos, aducând binoclul dacă doriți să observați păsările locale vibrante.",
+            "en": "Take a tranquil nature walk around this beautiful scenic pond, bringing binoculars if you want to spot some of the vibrant local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            2.153641,
+            48.432147
+          ],
+          "category": "religious",
+          "arrive_at": "14:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markante romanische Architektur und das ruhige Innere dieser historischen Kirche, am besten bei Morgenlicht für die schönste Atmosphäre.",
+            "hu": "Fedezze fel a történelmi templom lenyűgöző román stílusú építészetét és nyugodt belső terét, ideális esetben a reggeli fényben a legjobb hangulatért.",
+            "ro": "Explorați arhitectura romanică impresionantă și interiorul senin al acestei biserici istorice, vizitând ideal în lumina dimineții pentru cea mai bună ambianță.",
+            "en": "Explore the striking Romanesque architecture and serene interior of this historic church, ideally visiting during morning light for the best ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zu den ersten historischen Stationen und bewundern Sie die Architektur. Gegen Mittag machen Sie einen Ausflug zum großen Freizeitzentrum am Stadtrand. Nachmittags steht ein ruhiger Naturspaziergang am malerischen See auf dem Programm. Beenden Sie die Tour an einer wunderschönen alten Kirche und genießen Sie die Ruhe.",
+        "hu": "Vezessen kényelmesen az első történelmi állomásokhoz, és csodálja meg az építészetet. Dél körül tegyen egy kirándulást a város szélén található nagy szabadidőközpontba. Délután egy nyugodt természetjárás a festői tónál a program. Fejezze be a túrát egy gyönyörű régi templomnál, és élvezze a békességet.",
+        "ro": "Conduceți confortabil către primele stații istorice și admirați arhitectura. În jurul prânzului, faceți o excursie la marele centru de agrement de la periferia orașului. După-amiaza, o plimbare liniștită în natură la lacul pitoresc este în program. Încheiați turul la o frumoasă biserică veche și bucurați-vă de liniște.",
+        "en": "Drive comfortably to the first historical stops and admire the stunning architecture. Around midday, take a trip to the large recreation center on the outskirts. In the afternoon, a peaceful nature walk by the scenic pond is on the agenda. Finish the tour at a beautiful old church and simply enjoy the tranquility."
+      }
+    }
+  }
+}

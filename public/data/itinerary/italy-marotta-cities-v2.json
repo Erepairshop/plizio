@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marotta-cities-v2",
+  "anchor": {
+    "name": "Marotta",
+    "coords": [
+      13.13303,
+      43.77127
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:21",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue von Padre Pio",
+            "hu": "Padre Pio szobor",
+            "ro": "Statuia lui Padre Pio",
+            "en": "Statue of Padre Pio"
+          },
+          "coords": [
+            13.124683,
+            43.772607
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bewegende Statue am Meer von Padre Pio und bringen Sie eine Kamera mit, um das Morgenlicht über der Adria einzufangen.",
+            "hu": "Csodálja meg Padre Pio tengerparti szobrát, és mindenképp hozzon fényképezőgépet, hogy megörökítse az Adriai-tengeren megcsillanó reggeli fényeket.",
+            "ro": "Admirați această statuie emoționantă a lui Padre Pio pe malul mării și aduceți o cameră pentru a surprinde lumina dimineții reflectată de Adriatică.",
+            "en": "Admire this moving seaside statue of Padre Pio, a beloved figure, and bring a camera to capture the morning light reflecting off the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des Heiligen Pio von Pietrelcina",
+            "hu": "Pietrelcinai Szent Pio szobra",
+            "ro": "Statuia Sfântului Pio din Pietrelcina",
+            "en": "Statue of St. Pio of Pietrelcina"
+          },
+          "coords": [
+            13.137106,
+            43.768609
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses zweite detaillierte Denkmal für den Heiligen Pio und genießen Sie die ruhige Atmosphäre an der nahegelegenen Uferpromenade.",
+            "hu": "Látogassa meg Szent Pio második, részletgazdag emlékművét is, és szánjon egy percet a közeli sétány nyugodt hangulatának élvezetére.",
+            "ro": "Vizitați acest al doilea omagiu detaliat adus Sfântului Pio și acordați-vă un moment pentru a vă bucura de atmosfera liniștită a promenadei din apropiere.",
+            "en": "Visit this second detailed tribute to Saint Pio, set closer to the center, and take a moment to enjoy the tranquil atmosphere of the nearby promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Avis Denkmal",
+            "hu": "Avis Emlékmű",
+            "ro": "Monumentul Avis",
+            "en": "Avis Monument"
+          },
+          "coords": [
+            13.140829,
+            43.768721
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Denkmal zu Ehren von Blutspendern als Symbol der lokalen Solidarität, während Sie sich auf den Bänken daneben kurz ausruhen.",
+            "hu": "Fedezze fel a véradók előtt tisztelgő emlékművet, a helyi szolidaritás szimbólumát, miközben megpihen egy kicsit a mellette lévő padokon.",
+            "ro": "Descoperiți acest monument civic în onoarea donatorilor de sânge, simbol al solidarității locale, în timp ce vă odihniți pe băncile adiacente.",
+            "en": "Discover this civic monument honoring blood donors, an important symbol of local solidarity, while taking a brief rest on the adjacent benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 7 Happy Days Beach",
+            "hu": "Bagni 7 Happy Days Strand",
+            "ro": "Bagni 7 Happy Days Beach",
+            "en": "Bagni 7 Happy Days Beach"
+          },
+          "coords": [
+            13.145824,
+            43.766156
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lebhaften Strandclub mit hervorragenden Annehmlichkeiten und mieten Sie früh eine Sonnenliege für den besten Platz.",
+            "hu": "Pihenjen ennek a nyüzsgő strandklubnak az aranyhomokos partján, és béreljen korán napágyat, hogy a legjobb tengerparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui club de plajă plin de viață și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc la mare.",
+            "en": "Relax on the golden sands of this lively beach club, which offers excellent amenities, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 5",
+            "hu": "Bagni 5",
+            "ro": "Bagni 5",
+            "en": "Bagni 5"
+          },
+          "coords": [
+            13.150364,
+            43.763417
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser und die sanften Wellen im Bagni 5, einem familienfreundlichen Küstenabschnitt, der ideal für ein Mittagsschwimmen ist.",
+            "hu": "Élvezze a kristálytiszta vizet és a szelíd hullámokat a Bagni 5 strandján, amely egy családbarát partszakasz, és tökéletes egy frissítő déli úszáshoz.",
+            "ro": "Bucurați-vă de apa cristalină și valurile blânde la Bagni 5, o zonă de coastă perfectă pentru familii și ideală pentru o baie răcoritoare la prânz.",
+            "en": "Enjoy the pristine waterfront and gentle waves at Bagni 5, a family-friendly coastal stretch perfectly suited for a refreshing midday swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang und bewundern Sie die ikonischen Statuen an der nördlichen Promenade. Gegen Mittag bewegen Sie sich ins Zentrum, um lokale Denkmäler und einladende Sandstrände zu entdecken. Verbringen Sie Ihren Nachmittag damit, die Sonne und die lebhafte Atmosphäre der berühmten Strandclubs zu genießen. Am Abend entspannen Sie bei einem ruhigen Spaziergang am Meer im milden Licht.",
+        "hu": "Kezdje sétáját az északi sétányon található ikonikus szobrok megcsodálásával, élvezve a friss reggeli tengeri szellőt. Ahogy közeledik a dél, fedezze fel a központ emlékműveit és homokos partjait. A délutánt a napozásnak és a híres strandklubok nyüzsgő atmoszférájának szentelheti. Este lazítson egy békés tengerparti sétával, miközben a lemenő nap színei lassan elhalványulnak.",
+        "ro": "Începeți turul admirând statuile iconice de pe promenada nordică, bucurându-vă de briza proaspătă a mării. La prânz, mergeți spre centrul plin de viață pentru a descoperi monumentele locale și țărmurile nisipoase primitoare. Petreceți după-amiaza la soare, bucurându-vă de atmosfera plină de viață a cluburilor de plajă celebre. Seara, relaxați-vă cu o plimbare liniștită pe malul mării.",
+        "en": "Start your walking tour by admiring the iconic statues along the northern promenade, taking in the fresh morning sea breeze. As midday approaches, move towards the bustling center to discover local monuments and inviting sandy shores. Spend your afternoon soaking up the sun and enjoying the lively atmosphere at the famous beach clubs. In the evening, unwind with a peaceful seaside stroll as the colors fade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Bagni",
+            "hu": "Bagni Strand",
+            "ro": "Plaja Bagni",
+            "en": "Bagni Beach"
+          },
+          "coords": [
+            13.117144,
+            43.78447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen nördlichen Strand, der für seine morgendliche Brise bekannt ist, und laufen Sie barfuß am Ufer.",
+            "hu": "Kezdje a napot ezen a tágas északi strandon, amely nyugtató reggeli szellőjéről ismert, és sétáljon mezítláb a vízparton, hogy felfrissüljön.",
+            "ro": "Începeți ziua la această plajă nordică spațioasă, cunoscută pentru briza sa calmantă de dimineață, și plimbați-vă desculț pe malul mării.",
+            "en": "Start your day at this expansive northern beach area, known for its calming morning breeze, and walk barefoot along the shoreline to wake up."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Padre Pio",
+            "hu": "Padre Pio szobor",
+            "ro": "Statuia lui Padre Pio",
+            "en": "Statue of Padre Pio"
+          },
+          "coords": [
+            13.124683,
+            43.772607
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bewegende Statue am Meer von Padre Pio und bringen Sie eine Kamera mit, um das Morgenlicht über der Adria einzufangen.",
+            "hu": "Csodálja meg Padre Pio tengerparti szobrát, és mindenképp hozzon fényképezőgépet, hogy megörökítse az Adriai-tengeren megcsillanó reggeli fényeket.",
+            "ro": "Admirați această statuie emoționantă a lui Padre Pio pe malul mării și aduceți o cameră pentru a surprinde lumina dimineții reflectată de Adriatică.",
+            "en": "Admire this moving seaside statue of Padre Pio, a beloved figure, and bring a camera to capture the morning light reflecting off the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des Heiligen Pio von Pietrelcina",
+            "hu": "Pietrelcinai Szent Pio szobra",
+            "ro": "Statuia Sfântului Pio din Pietrelcina",
+            "en": "Statue of St. Pio of Pietrelcina"
+          },
+          "coords": [
+            13.137106,
+            43.768609
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses zweite detaillierte Denkmal für den Heiligen Pio und genießen Sie die ruhige Atmosphäre an der nahegelegenen Uferpromenade.",
+            "hu": "Látogassa meg Szent Pio második, részletgazdag emlékművét is, és szánjon egy percet a közeli sétány nyugodt hangulatának élvezetére.",
+            "ro": "Vizitați acest al doilea omagiu detaliat adus Sfântului Pio și acordați-vă un moment pentru a vă bucura de atmosfera liniștită a promenadei din apropiere.",
+            "en": "Visit this second detailed tribute to Saint Pio, set closer to the center, and take a moment to enjoy the tranquil atmosphere of the nearby promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Avis Denkmal",
+            "hu": "Avis Emlékmű",
+            "ro": "Monumentul Avis",
+            "en": "Avis Monument"
+          },
+          "coords": [
+            13.140829,
+            43.768721
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Denkmal zu Ehren von Blutspendern als Symbol der lokalen Solidarität, während Sie sich auf den Bänken daneben kurz ausruhen.",
+            "hu": "Fedezze fel a véradók előtt tisztelgő emlékművet, a helyi szolidaritás szimbólumát, miközben megpihen egy kicsit a mellette lévő padokon.",
+            "ro": "Descoperiți acest monument civic în onoarea donatorilor de sânge, simbol al solidarității locale, în timp ce vă odihniți pe băncile adiacente.",
+            "en": "Discover this civic monument honoring blood donors, an important symbol of local solidarity, while taking a brief rest on the adjacent benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 7 Happy Days Beach",
+            "hu": "Bagni 7 Happy Days Strand",
+            "ro": "Bagni 7 Happy Days Beach",
+            "en": "Bagni 7 Happy Days Beach"
+          },
+          "coords": [
+            13.145824,
+            43.766156
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lebhaften Strandclub mit hervorragenden Annehmlichkeiten und mieten Sie früh eine Sonnenliege für den besten Platz.",
+            "hu": "Pihenjen ennek a nyüzsgő strandklubnak az aranyhomokos partján, és béreljen korán napágyat, hogy a legjobb tengerparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui club de plajă plin de viață și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc la mare.",
+            "en": "Relax on the golden sands of this lively beach club, which offers excellent amenities, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 3 Oasi Beach",
+            "hu": "Bagni 3 Oasi Strand",
+            "ro": "Bagni 3 Oasi Beach",
+            "en": "Bagni 3 Oasi Beach"
+          },
+          "coords": [
+            13.15336,
+            43.761599
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser gepflegten Oase am Meer und probieren Sie unbedingt eine köstliche Piadina von den nahegelegenen Strandkiosken.",
+            "hu": "Kapcsolódjon ki ebben a jól karbantartott tengerparti oázisban, és mindenképpen kóstoljon meg egy piadinát a közeli parti büfék valamelyikéből.",
+            "ro": "Relaxați-vă la această oază bine întreținută de la malul mării și asigurați-vă că gustați o piadina de la chioșcurile de pe plajă din apropiere.",
+            "en": "Unwind at this well-maintained oasis by the sea, offering great local snacks, so be sure to try a piadina from the nearby beachfront kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 1 Stone Beach",
+            "hu": "Bagni 1 Stone Strand",
+            "ro": "Bagni 1 Stone Beach",
+            "en": "Bagni 1 Stone Beach"
+          },
+          "coords": [
+            13.157247,
+            43.759316
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenerkundung an diesem einzigartigen Kieselstrand, der der perfekte Aussichtspunkt für einen farbenfrohen adriatischen Sonnenuntergang ist.",
+            "hu": "Zárja a tengerparti felfedezést ezen a kavicsos partszakaszon, amely tökéletes kilátópont egy színpompás adriai naplemente megtekintéséhez.",
+            "ro": "Încheiați-vă explorarea coastei pe această plajă unică cu pietricele, un punct de observație perfect pentru un apus de soare colorat la Adriatică.",
+            "en": "Wrap up your coastal exploration at this uniquely pebbled beach section, which is the perfect vantage point for a colorful Adriatic sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der malerischen nördlichen Küste, beginnend an den weiten Stränden bis hin zu historischen Sehenswürdigkeiten. Mittags cruisen Sie entlang der lebhaften Strandpromenaden und erkunden lokale Denkmäler. Der Nachmittag ist ideal, um zwischen den verschiedenen Bagni zu wechseln und lokale Köstlichkeiten zu probieren. Beenden Sie Ihre Radtour und beobachten Sie den Sonnenuntergang im Süden.",
+        "hu": "Tekerjen végig Marotta festői északi partvidékén, a csendes strandoktól a történelmi látnivalókig. Délben kényelmesen guruljon végig a nyüzsgő tengerparti sétányokon, és fedezze fel a helyi emlékműveket. A délután tökéletes arra, hogy felfedezze a különböző strandokat és megkóstolja a helyi finomságokat. Fejezze be kerékpáros túráját a gyönyörű déli partokon, és csodálja meg a naplementét.",
+        "ro": "Pedalați pe coasta nordică pitorească, începând cu plajele largi până la atracțiile istorice. La prânz, mergeți de-a lungul promenadelor pline de viață de la plajă pentru a explora monumentele locale. După-amiaza este perfectă pentru a vă deplasa între diverse bagni, degustând delicatese locale. Încheiați călătoria cu bicicleta privind apusul soarelui de pe frumoasele țărmuri sudice.",
+        "en": "Pedal along Marotta's scenic northern coastline, starting with the quiet wide beaches and reaching historical sights. By midday, cruise smoothly along the vibrant beach promenades to explore the local memorials and bustling squares. The afternoon is perfect for hopping between various unique bagni, sampling local treats. End your cycling journey watching the sunset from the beautiful southern shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Bagni",
+            "hu": "Bagni Strand",
+            "ro": "Plaja Bagni",
+            "en": "Bagni Beach"
+          },
+          "coords": [
+            13.117144,
+            43.78447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen nördlichen Strand, der für seine morgendliche Brise bekannt ist, und laufen Sie barfuß am Ufer.",
+            "hu": "Kezdje a napot ezen a tágas északi strandon, amely nyugtató reggeli szellőjéről ismert, és sétáljon mezítláb a vízparton, hogy felfrissüljön.",
+            "ro": "Începeți ziua la această plajă nordică spațioasă, cunoscută pentru briza sa calmantă de dimineață, și plimbați-vă desculț pe malul mării.",
+            "en": "Start your day at this expansive northern beach area, known for its calming morning breeze, and walk barefoot along the shoreline to wake up."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Padre Pio",
+            "hu": "Padre Pio szobor",
+            "ro": "Statuia lui Padre Pio",
+            "en": "Statue of Padre Pio"
+          },
+          "coords": [
+            13.124683,
+            43.772607
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bewegende Statue am Meer von Padre Pio und bringen Sie eine Kamera mit, um das Morgenlicht über der Adria einzufangen.",
+            "hu": "Csodálja meg Padre Pio tengerparti szobrát, és mindenképp hozzon fényképezőgépet, hogy megörökítse az Adriai-tengeren megcsillanó reggeli fényeket.",
+            "ro": "Admirați această statuie emoționantă a lui Padre Pio pe malul mării și aduceți o cameră pentru a surprinde lumina dimineții reflectată de Adriatică.",
+            "en": "Admire this moving seaside statue of Padre Pio, a beloved figure, and bring a camera to capture the morning light reflecting off the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des Heiligen Pio von Pietrelcina",
+            "hu": "Pietrelcinai Szent Pio szobra",
+            "ro": "Statuia Sfântului Pio din Pietrelcina",
+            "en": "Statue of St. Pio of Pietrelcina"
+          },
+          "coords": [
+            13.137106,
+            43.768609
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses zweite detaillierte Denkmal für den Heiligen Pio und genießen Sie die ruhige Atmosphäre an der nahegelegenen Uferpromenade.",
+            "hu": "Látogassa meg Szent Pio második, részletgazdag emlékművét is, és szánjon egy percet a közeli sétány nyugodt hangulatának élvezetére.",
+            "ro": "Vizitați acest al doilea omagiu detaliat adus Sfântului Pio și acordați-vă un moment pentru a vă bucura de atmosfera liniștită a promenadei din apropiere.",
+            "en": "Visit this second detailed tribute to Saint Pio, set closer to the center, and take a moment to enjoy the tranquil atmosphere of the nearby promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 7 Happy Days Beach",
+            "hu": "Bagni 7 Happy Days Strand",
+            "ro": "Bagni 7 Happy Days Beach",
+            "en": "Bagni 7 Happy Days Beach"
+          },
+          "coords": [
+            13.145824,
+            43.766156
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lebhaften Strandclub mit hervorragenden Annehmlichkeiten und mieten Sie früh eine Sonnenliege für den besten Platz.",
+            "hu": "Pihenjen ennek a nyüzsgő strandklubnak az aranyhomokos partján, és béreljen korán napágyat, hogy a legjobb tengerparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui club de plajă plin de viață și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc la mare.",
+            "en": "Relax on the golden sands of this lively beach club, which offers excellent amenities, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "I Sassisotto",
+            "hu": "I Sassisotto",
+            "ro": "I Sassisotto",
+            "en": "I Sassisotto"
+          },
+          "coords": [
+            13.151829,
+            43.762512
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhigere, felsigere Seite von Marottas Küste bei I Sassisotto, wo Badeschuhe empfohlen werden, um bequem über die Kiesel zu laufen.",
+            "hu": "Tapasztalja meg Marotta partjának csendesebb, sziklásabb oldalát az I Sassisotto-nál, ahol vízicipő viselése ajánlott a kavicsokon való kényelmes sétához.",
+            "ro": "Experimentați latura mai liniștită a coastei Marotta la I Sassisotto, unde se recomandă încălțăminte de apă pentru a merge confortabil pe pietricele.",
+            "en": "Experience the quieter, rockier side of Marotta's coast at I Sassisotto, where water shoes are recommended for comfortably navigating the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 1 Stone Beach",
+            "hu": "Bagni 1 Stone Strand",
+            "ro": "Bagni 1 Stone Beach",
+            "en": "Bagni 1 Stone Beach"
+          },
+          "coords": [
+            13.157247,
+            43.759316
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenerkundung an diesem einzigartigen Kieselstrand, der der perfekte Aussichtspunkt für einen farbenfrohen adriatischen Sonnenuntergang ist.",
+            "hu": "Zárja a tengerparti felfedezést ezen a kavicsos partszakaszon, amely tökéletes kilátópont egy színpompás adriai naplemente megtekintéséhez.",
+            "ro": "Încheiați-vă explorarea coastei pe această plajă unică cu pietricele, un punct de observație perfect pentru un apus de soare colorat la Adriatică.",
+            "en": "Wrap up your coastal exploration at this uniquely pebbled beach section, which is the perfect vantage point for a colorful Adriatic sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zu Marottas weitläufigen Nordstränden, um Ihren Tag mit einem Spaziergang am Meer zu beginnen. Mittags erreichen Sie die ikonischen Statuen und beliebten zentralen Strandresorts. Am Nachmittag fahren Sie weiter nach Süden, um die felsigeren Buchten und lebhaften Küsteneinrichtungen zu erkunden. Parken Sie schließlich am Stone Beach, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Autózzon el Marotta tágas északi strandjaihoz, és indítsa a napot egy frissítő tengerparti sétával. Délben látogasson el az ikonikus szobrokhoz és a népszerű központi strandokhoz. Délután induljon délebbre, hogy felfedezze a sziklásabb öblöket és a nyüzsgő tengerparti létesítményeket. Végül parkoljon le a festői Stone Beach közelében, és pihenjen, ahogy a tengerparti nap lassan véget ér.",
+        "ro": "Conduceți ușor spre plajele nordice spațioase din Marotta pentru a începe ziua cu o plimbare revigorantă. La prânz, îndreptați-vă spre statuile iconice și popularele stațiuni centrale unde puteți lua masa. După-amiaza, mergeți mai spre sud pentru a explora golfurile stâncoase și facilitățile vibrante de pe litoral. În cele din urmă, parcați lângă pitorescul Stone Beach pentru a vă relaxa la sfârșitul zilei.",
+        "en": "Drive easily to Marotta's expansive northern beaches to start your day with a refreshing walk by the sea. By midday, make your way to the iconic statues and popular central beach resorts where you can enjoy lunch. In the afternoon, head further south to explore the rockier coves and vibrant seaside establishments. Finally, park near the picturesque Stone Beach to relax as the coastal day winds down."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "sorbiers",
+  "anchor": {
+    "name": "Sorbiers",
+    "coords": [
+      4.4503,
+      45.4878
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:16",
+      "total_km": 1.74,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Church of the Assumption",
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului"
+          },
+          "coords": [
+            4.450689,
+            45.487578
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
+            "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+          }
+        },
+        {
+          "name": {
+            "en": "Sorbiers Town Hall",
+            "de": "Rathaus Sorbiers",
+            "hu": "Sorbiers Városháza",
+            "ro": "Primăria Sorbiers"
+          },
+          "coords": [
+            4.449573,
+            45.490688
+          ],
+          "category": "civic",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
+            "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+          }
+        },
+        {
+          "name": {
+            "en": "l'Éloize Cultural Space",
+            "de": "Kulturzentrum l'Éloize",
+            "hu": "l'Éloize Kulturális Tér",
+            "ro": "Spațiul Cultural l'Éloize"
+          },
+          "coords": [
+            4.446874,
+            45.490644
+          ],
+          "category": "cultural",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
+            "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+          }
+        },
+        {
+          "name": {
+            "en": "Croix Blanche",
+            "de": "Croix Blanche (Weißes Kreuz)",
+            "hu": "Croix Blanche (Fehér Kereszt)",
+            "ro": "Crucea Albă"
+          },
+          "coords": [
+            4.446102,
+            45.494725
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Pause at this historical white stone cross marking an ancient crossroads, and use this quiet spot to capture some charming photos of the nearby streets.",
+            "de": "Halten Sie an diesem historischen weißen Steinkreuz an einer alten Kreuzung und nutzen Sie diesen ruhigen Ort, um reizvolle Fotos der nahegelegenen Straßen zu machen.",
+            "hu": "Tartson szünetet ennél az ősi kereszteződést jelző történelmi fehér kőkeresztnél, és használja ezt a csendes helyet a közeli utcák hangulatos fotózására.",
+            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare."
+          }
+        },
+        {
+          "name": {
+            "en": "Croix Rouge",
+            "de": "Croix Rouge (Rotes Kreuz)",
+            "hu": "Croix Rouge (Piros Kereszt)",
+            "ro": "Crucea Roșie"
+          },
+          "coords": [
+            4.445571,
+            45.501277
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "en": "Discover this distinct red cross monument that reflects local religious heritage, and take a moment to rest on a nearby bench while enjoying the view.",
+            "de": "Entdecken Sie dieses markante rote Kreuz, das das lokale religiöse Erbe widerspiegelt, und ruhen Sie sich auf einer nahegelegenen Bank aus, um die Aussicht zu genießen.",
+            "hu": "Fedezze fel ezt a jellegzetes piros kereszt emlékművet, amely a helyi vallási örökséget tükrözi, és pihenjen meg egy közeli padon, miközben élvezi a kilátást.",
+            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Start your day in the historic center, admiring the Church of the Assumption before visiting the bustling Town Hall square.\n\nMidday: Discover the vibrant heart of the town by exploring the artistic exhibitions and cultural offerings at the modern l'Éloize Cultural Space.\n\nAfternoon: Enjoy a leisurely walk past the historical Croix Blanche and Croix Rouge, marking ancient intersections.\n\nEvening: Conclude your tour by soaking in the twilight ambiance of the central streets, savoring the peaceful atmosphere.",
+        "de": "Morgen: Beginnen Sie Ihren Tag im historischen Zentrum und bewundern Sie die Kirche Mariä Himmelfahrt vor dem Rathausplatz.\n\nMittag: Entdecken Sie das lebhafte Herz der Stadt, indem Sie die Ausstellungen im modernen Kulturzentrum l'Éloize erkunden.\n\nNachmittag: Genießen Sie einen Spaziergang vorbei an den historischen Kreuzen Croix Blanche und Croix Rouge.\n\nAbend: Beenden Sie Ihre Tour, indem Sie die abendliche Atmosphäre der zentralen Straßen und die friedliche Stimmung der Stadt auf sich wirken lassen.",
+        "hu": "Reggel: Kezdje a napot a történelmi központban, és csodálja meg a Nagyboldogasszony-templomot, mielőtt a Városháza terére látogatna.\n\nDélben: Fedezze fel a város szívét a modern l'Éloize Kulturális Tér művészeti kiállításainak megtekintésével.\n\nDélután: Élvezze a kényelmes sétát a történelmi Croix Blanche és Croix Rouge mellett, amelyek ősi kereszteződéseket jeleznek.\n\nEste: Fejezze be a túrát a központi utcák alkonyati hangulatának elnyelésével, élvezve a békés és csendes lakóövezeti atmoszférát.",
+        "ro": "Dimineața: Începeți ziua în centrul istoric, admirând Biserica Adormirea Maicii Domnului înainte de a vizita piața Primăriei.\n\nLa prânz: Descoperiți inima vibrantă a orașului explorând expozițiile artistice la spațiul cultural modern l'Éloize.\n\nDupă-amiaza: Bucurați-vă de o plimbare relaxantă pe lângă istoricele Croix Blanche și Croix Rouge.\n\nSeara: Încheiați turul bucurându-vă de ambianța de amurg a străzilor centrale, savurând atmosfera pașnică și farmecul rezidențial liniștit al zonei."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:45",
+      "total_km": 2.84,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Church of the Assumption",
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului"
+          },
+          "coords": [
+            4.450689,
+            45.487578
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
+            "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+          }
+        },
+        {
+          "name": {
+            "en": "Sorbiers Town Hall",
+            "de": "Rathaus Sorbiers",
+            "hu": "Sorbiers Városháza",
+            "ro": "Primăria Sorbiers"
+          },
+          "coords": [
+            4.449573,
+            45.490688
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
+            "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+          }
+        },
+        {
+          "name": {
+            "en": "l'Éloize Cultural Space",
+            "de": "Kulturzentrum l'Éloize",
+            "hu": "l'Éloize Kulturális Tér",
+            "ro": "Spațiul Cultural l'Éloize"
+          },
+          "coords": [
+            4.446874,
+            45.490644
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
+            "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+          }
+        },
+        {
+          "name": {
+            "en": "Croix Blanche",
+            "de": "Croix Blanche (Weißes Kreuz)",
+            "hu": "Croix Blanche (Fehér Kereszt)",
+            "ro": "Crucea Albă"
+          },
+          "coords": [
+            4.446102,
+            45.494725
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Pause at this historical white stone cross marking an ancient crossroads, and use this quiet spot to capture some charming photos of the nearby streets.",
+            "de": "Halten Sie an diesem historischen weißen Steinkreuz an einer alten Kreuzung und nutzen Sie diesen ruhigen Ort, um reizvolle Fotos der nahegelegenen Straßen zu machen.",
+            "hu": "Tartson szünetet ennél az ősi kereszteződést jelző történelmi fehér kőkeresztnél, és használja ezt a csendes helyet a közeli utcák hangulatos fotózására.",
+            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare."
+          }
+        },
+        {
+          "name": {
+            "en": "Croix Rouge",
+            "de": "Croix Rouge (Rotes Kreuz)",
+            "hu": "Croix Rouge (Piros Kereszt)",
+            "ro": "Crucea Roșie"
+          },
+          "coords": [
+            4.445571,
+            45.501277
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "en": "Discover this distinct red cross monument that reflects local religious heritage, and take a moment to rest on a nearby bench while enjoying the view.",
+            "de": "Entdecken Sie dieses markante rote Kreuz, das das lokale religiöse Erbe widerspiegelt, und ruhen Sie sich auf einer nahegelegenen Bank aus, um die Aussicht zu genießen.",
+            "hu": "Fedezze fel ezt a jellegzetes piros kereszt emlékművet, amely a helyi vallási örökséget tükrözi, és pihenjen meg egy közeli padon, miközben élvezi a kilátást.",
+            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj."
+          }
+        },
+        {
+          "name": {
+            "en": "Église Saint-Isidore",
+            "de": "Kirche Saint-Isidore",
+            "hu": "Saint-Isidore Templom",
+            "ro": "Biserica Saint-Isidore"
+          },
+          "coords": [
+            4.433592,
+            45.506088
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Visit this serene church dedicated to the patron saint of farmers, a nod to the area's rural roots, and maintain a quiet demeanor during your brief tour.",
+            "de": "Besuchen Sie diese friedliche Kirche, die dem Schutzpatron der Bauern gewidmet ist, und bewahren Sie während Ihres kurzen Rundgangs ein ruhiges Auftreten.",
+            "hu": "Látogasson el a gazdák védőszentjének szentelt békés templomba, amely a terület vidéki gyökereire utal, és őrizzen meg csendes viselkedést a rövid túra során.",
+            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Cycle easily through the town center, taking in the civic pride of the Town Hall and the classic beauty of the central church.\n\nMidday: Pedal over to the l'Éloize Cultural Space for an infusion of local art, then navigate towards the historical crosses.\n\nAfternoon: Continue your biking journey slightly northward to reach the serene Église Saint-Isidore, reflecting an agricultural past.\n\nEvening: Finish your ride as the sun sets, returning to your starting point through calm and welcoming suburban streets.",
+        "de": "Morgen: Radeln Sie bequem durch das Stadtzentrum und genießen Sie den bürgerlichen Stolz des Rathauses und die zentrale Kirche.\n\nMittag: Fahren Sie zum Kulturzentrum l'Éloize für lokale Kunst und navigieren Sie dann zu den historischen Kreuzen.\n\nNachmittag: Setzen Sie Ihre Radtour leicht nach Norden fort, um die friedliche Église Saint-Isidore zu erreichen, die an die ländliche Vergangenheit erinnert.\n\nAbend: Beenden Sie Ihre Fahrt bei Sonnenuntergang und kehren Sie durch ruhige Vorstadtstraßen zurück.",
+        "hu": "Reggel: Kényelmesen kerékpározzon át a városközponton, megcsodálva a Városházát és a központi templom klasszikus szépségét.\n\nDélben: Tekerjen a l'Éloize Kulturális Térhez egy kis helyi művészetért, majd navigáljon a történelmi keresztek felé.\n\nDélután: Folytassa útját kissé észak felé, hogy elérje a békés Église Saint-Isidore-t, amely a mezőgazdasági múltat tükrözi.\n\nEste: Fejezze be az utazást naplementekor, és térjen vissza kiindulópontjához a nyugodt és barátságos külvárosi utcákon keresztül.",
+        "ro": "Dimineața: Cilați cu ușurință prin centrul orașului, admirând mândria civică a Primăriei și frumusețea bisericii centrale.\n\nLa prânz: Pedați către Spațiul Cultural l'Éloize pentru o infuzie de artă locală, apoi îndreptați-vă spre crucile istorice.\n\nDupă-amiaza: Continuați călătoria ușor spre nord pentru a ajunge la senina Église Saint-Isidore, reflectând trecutul agricol.\n\nSeara: Terminați plimbarea la apus, întorcându-vă la punctul de plecare prin străzile suburbane calme și primitoare."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 11.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Église Saint-Joseph",
+            "de": "Kirche Saint-Joseph",
+            "hu": "Saint-Joseph Templom",
+            "ro": "Biserica Saint-Joseph"
+          },
+          "coords": [
+            4.485999,
+            45.492361
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Observe the simpler yet profound architecture of this eastern parish church, and visit early in the day when the surrounding neighborhood is most peaceful.",
+            "de": "Betrachten Sie die einfachere, aber tiefgründige Architektur dieser östlichen Pfarrkirche und besuchen Sie sie früh am Tag, wenn die Nachbarschaft am friedlichsten ist.",
+            "hu": "Figyelje meg a keleti plébániatemplom egyszerűbb, de mélyreható építészetét, és látogasson el a nap elején, amikor a környező környék a legbékésebb.",
+            "ro": "Observați arhitectura mai simplă, dar profundă, a acestei biserici parohiale din est și vizitați-o dimineața devreme, când cartierul înconjurător este cel mai liniștit."
+          }
+        },
+        {
+          "name": {
+            "en": "Church of the Assumption",
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului"
+          },
+          "coords": [
+            4.450689,
+            45.487578
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
+            "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+          }
+        },
+        {
+          "name": {
+            "en": "l'Éloize Cultural Space",
+            "de": "Kulturzentrum l'Éloize",
+            "hu": "l'Éloize Kulturális Tér",
+            "ro": "Spațiul Cultural l'Éloize"
+          },
+          "coords": [
+            4.446874,
+            45.490644
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
+            "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+          }
+        },
+        {
+          "name": {
+            "en": "Sorbiers Town Hall",
+            "de": "Rathaus Sorbiers",
+            "hu": "Sorbiers Városháza",
+            "ro": "Primăria Sorbiers"
+          },
+          "coords": [
+            4.449573,
+            45.490688
+          ],
+          "category": "civic",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
+            "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+          }
+        },
+        {
+          "name": {
+            "en": "Église Saint-Isidore",
+            "de": "Kirche Saint-Isidore",
+            "hu": "Saint-Isidore Templom",
+            "ro": "Biserica Saint-Isidore"
+          },
+          "coords": [
+            4.433592,
+            45.506088
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "en": "Visit this serene church dedicated to the patron saint of farmers, a nod to the area's rural roots, and maintain a quiet demeanor during your brief tour.",
+            "de": "Besuchen Sie diese friedliche Kirche, die dem Schutzpatron der Bauern gewidmet ist, und bewahren Sie während Ihres kurzen Rundgangs ein ruhiges Auftreten.",
+            "hu": "Látogasson el a gazdák védőszentjének szentelt békés templomba, amely a terület vidéki gyökereire utal, és őrizzen meg csendes viselkedést a rövid túra során.",
+            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului."
+          }
+        },
+        {
+          "name": {
+            "en": "Crêt de la Chèvre Path",
+            "de": "Crêt de la Chèvre Pfad",
+            "hu": "Crêt de la Chèvre Ösvény",
+            "ro": "Poteca Crêt de la Chèvre"
+          },
+          "coords": [
+            4.406139,
+            45.467798
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "en": "Hike along this natural path offering scenic panoramas of the rolling French countryside, and be sure to wear sturdy shoes for the uneven terrain segments.",
+            "de": "Wandern Sie auf diesem Naturpfad mit malerischen Panoramen der sanften französischen Landschaft und tragen Sie unbedingt festes Schuhwerk für unebene Abschnitte.",
+            "hu": "Túrázzon ezen a természetes ösvényen, amely festői panorámát nyújt a dombos francia vidékre, és mindenképpen viseljen erős cipőt az egyenetlen terepszakaszokon.",
+            "ro": "Drumeți pe această potecă naturală ce oferă panorame pitorești ale peisajului rural francez și purtați încălțăminte robustă pentru segmentele de teren accidentat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Drive out to the eastern edge to see Église Saint-Joseph before returning to the town center for the main civic and religious landmarks.\n\nMidday: Park near the center to appreciate the l'Éloize Cultural Space, then take a short drive north to visit Église Saint-Isidore.\n\nAfternoon: Head west out of town to the Crêt de la Chèvre Path, embarking on a hike through picturesque scenery.\n\nEvening: Enjoy the scenic drive back into Sorbiers as dusk falls, reflecting on the blend of small-town heritage and nature.",
+        "de": "Morgen: Fahren Sie an den östlichen Rand, um die Église Saint-Joseph zu sehen, bevor Sie für die wichtigsten Sehenswürdigkeiten ins Zentrum zurückkehren.\n\nMittag: Parken Sie in der Nähe des Zentrums, um das Kulturzentrum l'Éloize zu besuchen, und fahren Sie dann nach Norden zur Église Saint-Isidore.\n\nNachmittag: Fahren Sie nach Westen zum Crêt de la Chèvre Pfad und unternehmen Sie eine Wanderung durch malerische Landschaften.\n\nAbend: Genießen Sie die Fahrt zurück nach Sorbiers in der Abenddämmerung und die Natur.",
+        "hu": "Reggel: Vezessen a keleti peremre az Église Saint-Joseph megtekintéséhez, mielőtt visszatérne a városközpont főbb látnivalóihoz.\n\nDélben: Parkoljon a központ közelében a l'Éloize Kulturális Tér miatt, majd tegyen egy rövid utat északra az Église Saint-Isidore-hoz.\n\nDélután: Irány nyugat a Crêt de la Chèvre ösvényhez, egy túrára a festői tájon keresztül.\n\nEste: Élvezze a festői visszautat Sorbiers-be alkonyatkor, elmélkedve a kisvárosi örökség és a gyönyörű helyi természet harmonikus keverékén.",
+        "ro": "Dimineața: Conduceți spre marginea de est pentru a vedea Église Saint-Joseph înainte de a reveni în centrul orașului pentru principalele atracții.\n\nLa prânz: Parcați în centru pentru a aprecia Spațiul Cultural l'Éloize, apoi conduceți scurt spre nord până la Église Saint-Isidore.\n\nDupă-amiaza: Îndreptați-vă spre vest către Poteca Crêt de la Chèvre, pornind într-o drumeție prin peisaje pitorești.\n\nSeara: Bucurați-vă de drumul pitoresc înapoi în Sorbiers la lăsarea serii, reflectând asupra naturii."
+      }
+    }
+  }
+}

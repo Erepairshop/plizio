@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-haro-cities-v2",
+  "anchor": {
+    "name": "Haro",
+    "coords": [
+      -2.846111,
+      42.576944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 1.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de la Plaza de la Cruz",
+            "hu": "Plaza de la Cruz Palota",
+            "ro": "Palatul Plaza de la Cruz",
+            "en": "Plaza de la Cruz Palace"
+          },
+          "coords": [
+            -2.847812,
+            42.576065
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante barocke Architektur dieses Palastes, ein Zeugnis des aristokratischen Haro, und besuchen Sie ihn am frühen Morgen, um die Details im weichen Licht zu sehen.",
+            "hu": "Csodálja meg e palota elegáns barokk építészetét, amely Haro arisztokratikus múltját őrzi, és érkezzen kora reggel, hogy a lágy fényben fotózhassa a homlokzatot.",
+            "ro": "Admirați arhitectura barocă elegantă a acestui palat, o dovadă a trecutului aristocratic din Haro, și vizitați-l dimineața devreme pentru a observa detaliile în lumina blândă.",
+            "en": "Admire the elegant Baroque architecture of this palace, a testament to Haro's aristocratic past, and visit early in the morning to photograph the facade in the soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Bendaña o Paternina",
+            "hu": "Bendaña vagy Paternina Palota",
+            "ro": "Palatul Bendaña sau Paternina",
+            "en": "Palace of Bendaña or Paternina"
+          },
+          "coords": [
+            -2.846633,
+            42.577322
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses prächtigen Palastes mit seiner beeindruckenden Fassade, und achten Sie auf die aufwendigen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Fedezze fel e csodálatos palota gazdag történelmét és lenyűgöző homlokzatát, miközben különös figyelmet fordít a főbejárat feletti bonyolult kőfaragványokra.",
+            "ro": "Descoperiți istoria bogată a acestui palat magnific cu fațada sa impresionantă și acordați atenție sculpturilor complicate în piatră aflate chiar deasupra intrării principale.",
+            "en": "Discover the rich history of this magnificent palace with its impressive facade, and pay special attention to the intricate stonework right above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Castillo",
+            "hu": "Castillo Kilátó",
+            "ro": "Punctul de belvedere Castillo",
+            "en": "Castillo Viewpoint"
+          },
+          "coords": [
+            -2.847191,
+            42.579079
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Weinberge und den Fluss Ebro von diesem Aussichtspunkt, und bringen Sie ein Fernglas mit, um die Landschaft im Detail zu betrachten.",
+            "hu": "Élvezze a szőlőültetvényekre és az Ebro folyóra nyíló panorámát erről a kilátóról, és hozzon magával távcsövet a környező dombvidék lenyűgöző részleteinek megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică asupra podgoriilor și a râului Ebro din acest punct de belvedere și aduceți binoclul pentru a observa îndeaproape peisajul rural.",
+            "en": "Enjoy panoramic views of the vineyards and the Ebro River from this scenic viewpoint, and be sure to bring binoculars to fully appreciate the details of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Stadtmauer",
+            "hu": "Ősi városfal",
+            "ro": "Vechiul zid al orașului",
+            "en": "Ancient City Wall"
+          },
+          "coords": [
+            -2.851616,
+            42.578296
+          ],
+          "category": "historical",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Stadtmauer, die Haros mittelalterliche Verteidigung zeigen, und tragen Sie bequeme Schuhe für das unebene historische Kopfsteinpflaster.",
+            "hu": "Sétáljon végig az ősi városfal maradványai mentén, amelyek Haro középkori védelmét mutatják be, és viseljen kényelmes cipőt a kissé egyenetlen történelmi macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechiului zid al orașului care ilustrează apărarea medievală și purtați încălțăminte confortabilă pentru terenul pietruit ușor denivelat.",
+            "en": "Stroll along the remains of the ancient city wall that showcase Haro's medieval defenses, and wear comfortable walking shoes for navigating the slightly uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Rioja Santiago",
+            "hu": "Bodegas Rioja Santiago",
+            "ro": "Bodegas Rioja Santiago",
+            "en": "Bodegas Rioja Santiago"
+          },
+          "coords": [
+            -2.851113,
+            42.579294
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Weinherstellung in einer der ältesten Bodegas in Haro, und buchen Sie Ihre Verkostungstour unbedingt im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Tapasztalja meg a hagyományos borkészítést Haro egyik legrégebbi pincészetében, és mindenképpen foglaljon előre helyet a kóstoló túrára, hogy elkerülje a várakozást.",
+            "ro": "Experimentați vinificația tradițională la una dintre cele mai vechi crame din Haro și asigurați-vă că rezervați turul de degustare în avans pentru a vă garanta un loc.",
+            "en": "Experience traditional winemaking at one of the oldest bodegas in Haro, and make sure to book your tasting tour well in advance to secure your spot without any wait."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas TIHOM",
+            "hu": "Bodegas TIHOM",
+            "ro": "Bodegas TIHOM",
+            "en": "Bodegas TIHOM"
+          },
+          "coords": [
+            -2.850367,
+            42.580411
+          ],
+          "category": "landmark",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser charmanten Bodega in die Welt der feinen Rioja-Weine ein, und fragen Sie das sachkundige Personal nach ihren Empfehlungen für lokale Essenskombinationen.",
+            "hu": "Merüljön el a finom Rioja borok világában ebben a bájos pincészetben, és bátran kérdezze meg a hozzáértő személyzetet a helyi ételekhez legjobban illő borpárosításokról.",
+            "ro": "Pătrundeți în lumea vinurilor fine de Rioja la această cramă fermecătoare și nu ezitați să întrebați personalul priceput despre cele mai bune recomandări de asortare culinară.",
+            "en": "Immerse yourself in the world of fine Rioja wines at this charming bodega, and don't hesitate to ask the knowledgeable staff for their top local food pairing recommendations."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Muga S.A.",
+            "hu": "Bodegas Muga S.A.",
+            "ro": "Bodegas Muga S.A.",
+            "en": "Bodegas Muga S.A."
+          },
+          "coords": [
+            -2.846915,
+            42.582854
+          ],
+          "category": "landmark",
+          "arrive_at": "16:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses renommierte Weingut, um den Reifeprozess in Eichenfässern hautnah zu sehen, und kaufen Sie am Ende der Führung unbedingt eine Flasche ihres exzellenten Reservas.",
+            "hu": "Látogasson el ebbe a híres pincészetbe, hogy testközelből lássa a tölgyfahordós érlelést, és a túra végén feltétlenül vásároljon egy üveget a kiváló Reserva borukból.",
+            "ro": "Vizitați această cramă renumită pentru a vedea de aproape procesul de maturare în butoaie de stejar și cumpărați o sticlă din excelentul lor Reserva la finalul turului.",
+            "en": "Visit this renowned winery to see the oak barrel aging process up close, and be sure to purchase a bottle of their excellent Reserva at the boutique after your guided tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang zu den historischen Palästen im Zentrum, wo die prächtige Architektur das Erbe von Haro widerspiegelt. Mittags genießen Sie die Aussicht vom Mirador del Castillo und erkunden die alten Stadtmauern. Der Nachmittag ist den berühmten Weinkellereien gewidmet, wo Sie die reiche Weinbaugeschichte hautnah erleben. Abends entspannen Sie bei einer Weinprobe.",
+        "hu": "Kezdje a reggelt a központ történelmi palotáinak felfedezésével, ahol a lenyűgöző építészet tükrözi Haro gazdag örökségét. Délben élvezze a kilátást a Mirador del Castillóról, és sétáljon a városfalaknál. A délután a híres borászatoknak van szentelve, ahol megismerheti a borkészítés művészetét. Este pihenjen meg, és kóstoljon meg néhány kiváló helyi bort egy pincészetben.",
+        "ro": "Începeți dimineața explorând palatele istorice din centru, unde arhitectura magnifică reflectă moștenirea bogată a orașului Haro. La prânz, bucurați-vă de priveliștile de la Mirador del Castillo și vechile ziduri. După-amiaza este dedicată faimoaselor crame locale, unde veți descoperi arta vinificației. Seara vă va găsi relaxându-vă cu un pahar de vin excepțional.",
+        "en": "Start your morning by exploring the historical palaces in the center, where magnificent architecture reflects Haro's rich heritage. At midday, enjoy the views from the Mirador del Castillo and stroll along the ancient city walls. The afternoon is completely dedicated to the famous local bodegas, learning about winemaking. In the evening, relax with a premium wine tasting experience."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Lucía",
+            "hu": "Santa Lucía",
+            "ro": "Santa Lucía",
+            "en": "Santa Lucía"
+          },
+          "coords": [
+            -2.845501,
+            42.57384
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Naturlandschaft, die sich perfekt für einen kurzen Rückzug aus der Stadt eignet, und bringen Sie ein kleines Picknick für eine erholsame Pause mit.",
+            "hu": "Pihenjen meg ebben a békés természeti környezetben, amely tökéletes egy rövid elvonulásra a város zajától, és hozzon magával néhány falatot egy kellemes piknikhez.",
+            "ro": "Relaxați-vă în acest cadru natural liniștit, perfect pentru o scurtă evadare din agitația orașului, și aduceți o mică gustare pentru un picnic odihnitor la prânz.",
+            "en": "Relax in this peaceful natural setting, which is absolutely perfect for a short retreat from the bustling city, and bring along a small picnic basket for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Bendaña o Paternina",
+            "hu": "Bendaña vagy Paternina Palota",
+            "ro": "Palatul Bendaña sau Paternina",
+            "en": "Palace of Bendaña or Paternina"
+          },
+          "coords": [
+            -2.846633,
+            42.577322
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses prächtigen Palastes mit seiner beeindruckenden Fassade, und achten Sie auf die aufwendigen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Fedezze fel e csodálatos palota gazdag történelmét és lenyűgöző homlokzatát, miközben különös figyelmet fordít a főbejárat feletti bonyolult kőfaragványokra.",
+            "ro": "Descoperiți istoria bogată a acestui palat magnific cu fațada sa impresionantă și acordați atenție sculpturilor complicate în piatră aflate chiar deasupra intrării principale.",
+            "en": "Discover the rich history of this magnificent palace with its impressive facade, and pay special attention to the intricate stonework right above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Castillo",
+            "hu": "Castillo Kilátó",
+            "ro": "Punctul de belvedere Castillo",
+            "en": "Castillo Viewpoint"
+          },
+          "coords": [
+            -2.847191,
+            42.579079
+          ],
+          "category": "natural",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Weinberge und den Fluss Ebro von diesem Aussichtspunkt, und bringen Sie ein Fernglas mit, um die Landschaft im Detail zu betrachten.",
+            "hu": "Élvezze a szőlőültetvényekre és az Ebro folyóra nyíló panorámát erről a kilátóról, és hozzon magával távcsövet a környező dombvidék lenyűgöző részleteinek megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică asupra podgoriilor și a râului Ebro din acest punct de belvedere și aduceți binoclul pentru a observa îndeaproape peisajul rural.",
+            "en": "Enjoy panoramic views of the vineyards and the Ebro River from this scenic viewpoint, and be sure to bring binoculars to fully appreciate the details of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Bilbaínas. Viña Pomal",
+            "hu": "Bodegas Bilbaínas. Viña Pomal",
+            "ro": "Bodegas Bilbaínas. Viña Pomal",
+            "en": "Bodegas Bilbaínas. Viña Pomal"
+          },
+          "coords": [
+            -2.850303,
+            42.583844
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Weinkeller dieses legendären Weinguts, das für seinen Viña Pomal bekannt ist, und ziehen Sie sich eine leichte Jacke an, da es in den Kellern kühl ist.",
+            "hu": "Fedezze fel e legendás pincészet történelmi pincerendszerét, amely a híres Viña Pomal borról ismert, és hozzon magával egy könnyű kabátot, mert a pincékben hűvös van.",
+            "ro": "Explorați cramele istorice ale acestei podgorii legendare, faimoasă pentru vinul său Viña Pomal, și luați o jachetă ușoară cu dumneavoastră deoarece în pivnițe este răcoare.",
+            "en": "Explore the historic cellars of this legendary estate, widely famous for its Viña Pomal wine, and remember to bring a light jacket as the underground cellars remain quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Briñas Brücke",
+            "hu": "Briñas Híd",
+            "ro": "Podul Briñas",
+            "en": "Briñas Bridge"
+          },
+          "coords": [
+            -2.842105,
+            42.589117
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese beeindruckende mittelalterliche Brücke über den Ebro, um atemberaubende Fotos zu machen, und achten Sie besonders auf die kunstvolle Steinarchitektur der Bögen.",
+            "hu": "Sétáljon át ezen a lenyűgöző középkori Ebro-hídon, hogy lélegzetelállító fotókat készítsen, és figyelje meg a boltívek mesteri kőépítészetének minden apró történelmi részletét.",
+            "ro": "Traversați acest pod medieval impresionant peste râul Ebro pentru a face fotografii uluitoare și acordați atenție deosebită arhitecturii măiestre din piatră a arcadelor.",
+            "en": "Cross this impressive medieval bridge over the Ebro River to capture breathtaking photos, and pay close attention to the masterful stone architecture framing the ancient arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Muga S.A.",
+            "hu": "Bodegas Muga S.A.",
+            "ro": "Bodegas Muga S.A.",
+            "en": "Bodegas Muga S.A."
+          },
+          "coords": [
+            -2.846915,
+            42.582854
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses renommierte Weingut, um den Reifeprozess in Eichenfässern hautnah zu sehen, und kaufen Sie am Ende der Führung unbedingt eine Flasche ihres exzellenten Reservas.",
+            "hu": "Látogasson el ebbe a híres pincészetbe, hogy testközelből lássa a tölgyfahordós érlelést, és a túra végén feltétlenül vásároljon egy üveget a kiváló Reserva borukból.",
+            "ro": "Vizitați această cramă renumită pentru a vedea de aproape procesul de maturare în butoaie de stejar și cumpărați o sticlă din excelentul lor Reserva la finalul turului.",
+            "en": "Visit this renowned winery to see the oak barrel aging process up close, and be sure to purchase a bottle of their excellent Reserva at the boutique after your guided tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer entspannten Radtour im Grünen bei Santa Lucía, bevor Sie in das historische Zentrum von Haro fahren. Mittags radeln Sie vorbei an beeindruckenden Denkmälern zu den Ufern des Ebro und bestaunen die Weinberge. Der Nachmittag führt Sie über die malerische Puente de Briñas, ein mittelalterliches Juwel. Beenden Sie den Tag bei den majestätischen Weingütern von Muga.",
+        "hu": "Kezdje a napot egy pihentető kerékpározással a Santa Lucía zöldövezetében, mielőtt Haro történelmi központjába tekerne. Délben kerékpározzon el az Ebro partjára, és csodálja meg a hatalmas szőlőültetvényeket. A délután elviszi a festői Puente de Briñas középkori hídjához, amely valódi építészeti ékszer. Zárja a napot a Muga pincészet lenyűgöző borainak társaságában.",
+        "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta la Santa Lucía înainte de a intra în centrul istoric al orașului. La prânz, pedalați spre malurile râului Ebro, admirând monumentele și viile întinse. După-amiaza vă poartă peste pitorescul Puente de Briñas, o adevărată bijuterie medievală. Încheiați ziua explorând domeniile majestoase ale faimoasei crame Muga.",
+        "en": "Start your day with a relaxing bike ride in the green spaces of Santa Lucía before heading into Haro's historical core. At midday, cycle towards the Ebro riverbanks, admiring the sweeping vineyards. The afternoon takes you across the picturesque Puente de Briñas, a true medieval gem. End your active day exploring the majestic grounds and cellars of the Muga winery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 13.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bretón",
+            "hu": "Bretón",
+            "ro": "Bretón",
+            "en": "Bretón"
+          },
+          "coords": [
+            -2.850015,
+            42.57657
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kulturelle Aufführung oder bewundern Sie das Gebäude dieses klassischen Theaters in Haro, und überprüfen Sie den Spielplan im Voraus, um Tickets zu reservieren.",
+            "hu": "Élvezze a kulturális előadásokat vagy csak csodálja meg e klasszikus színház épületét Haro szívében, és előre ellenőrizze a műsort, hogy időben lefoglalhassa a jegyeket.",
+            "ro": "Bucurați-vă de un spectacol cultural sau pur și simplu admirați clădirea acestui teatru clasic din Haro și verificați programul în avans pentru a vă rezerva biletele.",
+            "en": "Enjoy a cultural performance or simply admire the grand exterior of this classic theater in Haro, and be sure to check the local schedule in advance to book your tickets early."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Stadtmauer",
+            "hu": "Ősi városfal",
+            "ro": "Vechiul zid al orașului",
+            "en": "Ancient City Wall"
+          },
+          "coords": [
+            -2.851616,
+            42.578296
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Stadtmauer, die Haros mittelalterliche Verteidigung zeigen, und tragen Sie bequeme Schuhe für das unebene historische Kopfsteinpflaster.",
+            "hu": "Sétáljon végig az ősi városfal maradványai mentén, amelyek Haro középkori védelmét mutatják be, és viseljen kényelmes cipőt a kissé egyenetlen történelmi macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechiului zid al orașului care ilustrează apărarea medievală și purtați încălțăminte confortabilă pentru terenul pietruit ușor denivelat.",
+            "en": "Stroll along the remains of the ancient city wall that showcase Haro's medieval defenses, and wear comfortable walking shoes for navigating the slightly uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Bilbaínas. Viña Pomal",
+            "hu": "Bodegas Bilbaínas. Viña Pomal",
+            "ro": "Bodegas Bilbaínas. Viña Pomal",
+            "en": "Bodegas Bilbaínas. Viña Pomal"
+          },
+          "coords": [
+            -2.850303,
+            42.583844
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Weinkeller dieses legendären Weinguts, das für seinen Viña Pomal bekannt ist, und ziehen Sie sich eine leichte Jacke an, da es in den Kellern kühl ist.",
+            "hu": "Fedezze fel e legendás pincészet történelmi pincerendszerét, amely a híres Viña Pomal borról ismert, és hozzon magával egy könnyű kabátot, mert a pincékben hűvös van.",
+            "ro": "Explorați cramele istorice ale acestei podgorii legendare, faimoasă pentru vinul său Viña Pomal, și luați o jachetă ușoară cu dumneavoastră deoarece în pivnițe este răcoare.",
+            "en": "Explore the historic cellars of this legendary estate, widely famous for its Viña Pomal wine, and remember to bring a light jacket as the underground cellars remain quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Briñas Brücke",
+            "hu": "Briñas Híd",
+            "ro": "Podul Briñas",
+            "en": "Briñas Bridge"
+          },
+          "coords": [
+            -2.842105,
+            42.589117
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese beeindruckende mittelalterliche Brücke über den Ebro, um atemberaubende Fotos zu machen, und achten Sie besonders auf die kunstvolle Steinarchitektur der Bögen.",
+            "hu": "Sétáljon át ezen a lenyűgöző középkori Ebro-hídon, hogy lélegzetelállító fotókat készítsen, és figyelje meg a boltívek mesteri kőépítészetének minden apró történelmi részletét.",
+            "ro": "Traversați acest pod medieval impresionant peste râul Ebro pentru a face fotografii uluitoare și acordați atenție deosebită arhitecturii măiestre din piatră a arcadelor.",
+            "en": "Cross this impressive medieval bridge over the Ebro River to capture breathtaking photos, and pay close attention to the masterful stone architecture framing the ancient arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina HerriGain.",
+            "hu": "Piscina HerriGain.",
+            "ro": "Piscina HerriGain.",
+            "en": "Piscina HerriGain."
+          },
+          "coords": [
+            -2.797472,
+            42.59237
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem lokalen Schwimmbad ab, einem perfekten Ort für Familien an heißen Sommertagen, und vergessen Sie nicht, Ihr eigenes Handtuch und Sonnencreme mitzubringen.",
+            "hu": "Hűsöljön ebben a helyi medencében, amely tökéletes hely a családok számára a forró nyári napokon, és ne felejtsen el saját törölközőt és naptejet hozni a kényelem érdekében.",
+            "ro": "Răcoriți-vă la această piscină locală, un loc perfect pentru familii în zilele toride de vară, și nu uitați să aduceți propriul prosop și cremă de protecție solară.",
+            "en": "Cool off at this popular local swimming pool, making it a perfect spot for families on hot summer days, and don't forget to pack your own towel and plenty of sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Városi Medence",
+            "ro": "Piscina Municipală",
+            "en": "Municipal Pool"
+          },
+          "coords": [
+            -2.887001,
+            42.609946
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem erfrischenden Bad in den städtischen Pools am Stadtrand, und nutzen Sie die weitläufigen Rasenflächen zum Entspannen nach den Besichtigungen.",
+            "hu": "Fejezze be a napot egy frissítő úszással a város szélén található városi medencékben, és használja ki a tágas pázsitot a városnézés utáni kellemes délutáni pihenésre.",
+            "ro": "Încheiați ziua cu o baie revigorantă la piscinele municipale de la periferia orașului și profitați de peluzele spațioase pentru a vă relaxa confortabil după vizite.",
+            "en": "End your day with a refreshing swim at the municipal pools located on the outskirts, and take full advantage of the spacious lawns to relax comfortably after sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur am Teatro Bretón, gefolgt von einer Fahrt zu den historischen Mauern der Stadt. Mittags besuchen Sie die berühmte Bodega Viña Pomal und fahren dann zur wunderschönen Puente de Briñas über den Ebro. Der Nachmittag bietet eine angenehme Fahrt durch die malerische Landschaft zu den Erholungsgebieten. Der Abend endet entspannt an den Schwimmbädern der Stadt.",
+        "hu": "A reggel a Teatro Bretón kulturális varázsával indul, majd a város történelmi falaihoz autózunk. Délben meglátogatjuk a híres Viña Pomal pincészetet, majd a gyönyörű Puente de Briñas hídhoz vezetünk az Ebro folyó felett. A délután kellemes kocsikázást kínál a festői tájon keresztül a rekreációs zónák felé. Az estét a városi medencéknél pihenve, kellemes hangulatban zárjuk.",
+        "ro": "Dimineața începe cu farmecul cultural de la Teatro Bretón, urmat de o scurtă oprire la zidurile antice. La prânz, vizitați renumita cramă Viña Pomal și conduceți spre frumosul pod Puente de Briñas. După-amiaza oferă o plimbare pitorească cu mașina prin peisajele viticole către zonele de recreere. Seara se încheie perfect, relaxându-vă la piscinele municipale din împrejurimi.",
+        "en": "The morning begins with cultural charm at the Teatro Bretón, followed by a quick drive to the ancient city walls. At midday, visit the renowned Viña Pomal winery and drive to the beautiful Puente de Briñas. The afternoon offers a scenic drive through the surrounding vineyard landscapes toward the recreational areas. The evening concludes perfectly, relaxing by the municipal pools."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-vukovar-cities-v2",
+  "anchor": {
+    "name": "Vukovar",
+    "coords": [
+      19.002,
+      45.348
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Church of St. Nicholas",
+            "hu": "Church of St. Nicholas",
+            "ro": "Church of St. Nicholas",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            19.002395,
+            45.348546
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur dieser orthodoxen Kirche und beachten Sie die restaurierte Ikonostase, bevor Sie weiter spazieren.",
+            "hu": "Csodálja meg a történelmi ortodox templom barokk építészetét, és figyelje meg a szépen felújított ikonosztázt, mielőtt tovább indul.",
+            "ro": "Admirați arhitectura barocă a acestei biserici ortodoxe și observați iconostasul frumos restaurat înainte de a vă continua plimbarea.",
+            "en": "Admire the exquisite Baroque architecture of this historic Orthodox church and notice the beautifully restored iconostasis before heading to the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetih Filipa i Jakova",
+            "hu": "crkva svetih Filipa i Jakova",
+            "ro": "crkva svetih Filipa i Jakova",
+            "en": "crkva svetih Filipa i Jakova"
+          },
+          "coords": [
+            19.007236,
+            45.34723
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die drittlängste Kirche Kroatiens, um ihre Widerstandsfähigkeit im Krieg zu verstehen, und achten Sie auf mögliche abendliche Chorproben.",
+            "hu": "Látogassa meg Horvátország harmadik leghosszabb templomát a háborús ellenállás emlékére, és keresse a hirdetőtáblán az esti kóruspróbákat.",
+            "ro": "Vizitați a treia cea mai lungă biserică din Croația pentru a-i înțelege reziliența din timpul războiului și verificați programul repetițiilor corale de seară.",
+            "en": "Visit the third longest church in Croatia to understand its profound resilience during the war, and check the notice board for potential evening choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Vukovar water tower",
+            "hu": "Vukovar water tower",
+            "ro": "Vukovar water tower",
+            "en": "Vukovar water tower"
+          },
+          "coords": [
+            19.012278,
+            45.34401
+          ],
+          "category": "historical",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf dieses Symbol von Vukovars Leiden, um die 600 Einschusslöcher zu sehen, aber buchen Sie die Aufzugstickets besser vorab online.",
+            "hu": "Mássza meg Vukovar szenvedésének szimbólumát a 600 tüzérségi találat megtekintéséhez, de a sorban állás elkerülése érdekében foglaljon jegyet online.",
+            "ro": "Urcați pe acest simbol al suferinței Vukovarului pentru a vedea cele 600 de lovituri de artilerie, dar rezervați biletele online pentru a evita cozile.",
+            "en": "Ascend this iconic symbol of Vukovar's suffering to see the 600 artillery hits preserved in its structure, but book your elevator tickets online to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Lavoslava Ružičke",
+            "hu": "Rodna kuća Lavoslava Ružičke",
+            "ro": "Rodna kuća Lavoslava Ružičke",
+            "en": "Rodna kuća Lavoslava Ružičke"
+          },
+          "coords": [
+            19.000542,
+            45.353799
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus des Nobelpreisträgers, um mehr über seine Chemie-Arbeit zu erfahren, und nutzen Sie die interaktiven Ausstellungen.",
+            "hu": "Fedezze fel a Nobel-díjas tudós szülőházát és kémiai munkásságát, a legjobb élmény érdekében pedig vegyen részt egy interaktív vezetett túrán.",
+            "ro": "Explorați casa natală a laureatului Nobel pentru a-i descoperi munca în chimie și bucurați-vă de expozițiile interactive printr-un tur ghidat.",
+            "en": "Explore the birthplace of Vukovar's Nobel laureate to learn about his groundbreaking chemistry work, and enjoy the interactive exhibits via a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradski muzej Vukovar",
+            "hu": "Gradski muzej Vukovar",
+            "ro": "Gradski muzej Vukovar",
+            "en": "Gradski muzej Vukovar"
+          },
+          "coords": [
+            19.000158,
+            45.354761
+          ],
+          "category": "museum",
+          "arrive_at": "14:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das elegante Schloss Eltz mit dem Stadtmuseum und nehmen Sie sich Zeit für die prähistorischen Artefakte im Untergeschoss.",
+            "hu": "Sétáljon végig az elegáns Eltz-kastélyban található városi múzeumban, és szánjon időt az alagsori galéria ritka őskori leleteinek megtekintésére.",
+            "ro": "Plimbați-vă prin elegantul conac Eltz care găzduiește muzeul orașului, luându-vă timp să examinați artefactele preistorice din galeria de la subsol.",
+            "en": "Wander through the elegant Eltz Manor which houses this comprehensive city museum, taking time to examine the rare prehistoric artifacts in the basement gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Nähe der Donau mit Besuchen in zwei historischen Kirchen, die Sie in Vukovars Erbe einführen. Mittags erreichen Sie das überragende Symbol der städtischen Widerstandsfähigkeit für Reflexion und Aussicht. Am Nachmittag verlagert sich der Fokus auf die wissenschaftliche Geschichte im Haus eines Nobelpreisträgers. Der Abend endet mit einer tiefgreifenden Erkundung des Schlosses Eltz, welche die Kultur feiert.",
+        "hu": "A reggel a Duna közelében indul két történelmi templom meglátogatásával, megalapozva Vukovar gazdag szellemi örökségét. Délben a város ellenállásának tornyosuló szimbólumához érkezik, amely panorámát és elmélyülést kínál. Délután a figyelem a tudománytörténetre irányul egy Nobel-díjas otthonában. Az este az Eltz-kastély felfedezésével zárul, megünnepelve a város túlélő kultúráját.",
+        "ro": "Dimineața începe lângă Dunăre, cu vizite la două biserici istorice care vă ancorează în patrimoniul spiritual al Vukovarului. La prânz ajungeți la simbolul impunător al rezilienței orașului, oferind panorame superbe. După-amiaza, accentul se mută pe istoria științifică la casa unui laureat al premiului Nobel. Seara se încheie cu o explorare profundă a Conacului Eltz și a culturii locale.",
+        "en": "Morning begins near the Danube with visits to two iconic churches, grounding you in Vukovar's deep spiritual and architectural heritage. Midday brings you to the towering symbol of the city's resilience, offering both somber reflection and panoramic views. In the afternoon, the focus shifts to scientific history at the home of a Nobel laureate. The evening concludes with a profound exploration of the Eltz Manor, celebrating local culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gradski muzej Vukovar",
+            "hu": "Gradski muzej Vukovar",
+            "ro": "Gradski muzej Vukovar",
+            "en": "Gradski muzej Vukovar"
+          },
+          "coords": [
+            19.000158,
+            45.354761
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das elegante Schloss Eltz mit dem Stadtmuseum und nehmen Sie sich Zeit für die prähistorischen Artefakte im Untergeschoss.",
+            "hu": "Sétáljon végig az elegáns Eltz-kastélyban található városi múzeumban, és szánjon időt az alagsori galéria ritka őskori leleteinek megtekintésére.",
+            "ro": "Plimbați-vă prin elegantul conac Eltz care găzduiește muzeul orașului, luându-vă timp să examinați artefactele preistorice din galeria de la subsol.",
+            "en": "Wander through the elegant Eltz Manor which houses this comprehensive city museum, taking time to examine the rare prehistoric artifacts in the basement gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of St. Nicholas",
+            "hu": "Church of St. Nicholas",
+            "ro": "Church of St. Nicholas",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            19.002395,
+            45.348546
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur dieser orthodoxen Kirche und beachten Sie die restaurierte Ikonostase, bevor Sie weiter spazieren.",
+            "hu": "Csodálja meg a történelmi ortodox templom barokk építészetét, és figyelje meg a szépen felújított ikonosztázt, mielőtt tovább indul.",
+            "ro": "Admirați arhitectura barocă a acestei biserici ortodoxe și observați iconostasul frumos restaurat înainte de a vă continua plimbarea.",
+            "en": "Admire the exquisite Baroque architecture of this historic Orthodox church and notice the beautifully restored iconostasis before heading to the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetih Filipa i Jakova",
+            "hu": "crkva svetih Filipa i Jakova",
+            "ro": "crkva svetih Filipa i Jakova",
+            "en": "crkva svetih Filipa i Jakova"
+          },
+          "coords": [
+            19.007236,
+            45.34723
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die drittlängste Kirche Kroatiens, um ihre Widerstandsfähigkeit im Krieg zu verstehen, und achten Sie auf mögliche abendliche Chorproben.",
+            "hu": "Látogassa meg Horvátország harmadik leghosszabb templomát a háborús ellenállás emlékére, és keresse a hirdetőtáblán az esti kóruspróbákat.",
+            "ro": "Vizitați a treia cea mai lungă biserică din Croația pentru a-i înțelege reziliența din timpul războiului și verificați programul repetițiilor corale de seară.",
+            "en": "Visit the third longest church in Croatia to understand its profound resilience during the war, and check the notice board for potential evening choir rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Vukovar water tower",
+            "hu": "Vukovar water tower",
+            "ro": "Vukovar water tower",
+            "en": "Vukovar water tower"
+          },
+          "coords": [
+            19.012278,
+            45.34401
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf dieses Symbol von Vukovars Leiden, um die 600 Einschusslöcher zu sehen, aber buchen Sie die Aufzugstickets besser vorab online.",
+            "hu": "Mássza meg Vukovar szenvedésének szimbólumát a 600 tüzérségi találat megtekintéséhez, de a sorban állás elkerülése érdekében foglaljon jegyet online.",
+            "ro": "Urcați pe acest simbol al suferinței Vukovarului pentru a vedea cele 600 de lovituri de artilerie, dar rezervați biletele online pentru a evita cozile.",
+            "en": "Ascend this iconic symbol of Vukovar's suffering to see the 600 artillery hits preserved in its structure, but book your elevator tickets online to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorijalni centar Domovinskog rata",
+            "hu": "Memorijalni centar Domovinskog rata",
+            "ro": "Memorijalni centar Domovinskog rata",
+            "en": "Memorijalni centar Domovinskog rata"
+          },
+          "coords": [
+            19.004682,
+            45.338048
+          ],
+          "category": "museum",
+          "arrive_at": "13:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ehren Sie die Verteidiger in diesem ergreifenden Gedenkzentrum mit Militärfahrzeugen, wo Audioführungen den historischen Kontext vertiefen.",
+            "hu": "Tisztelegjen a védők előtt a katonai járműveket bemutató emlékhelyen, ahol az audióvezetés elengedhetetlen a történelmi kontextus megértéséhez.",
+            "ro": "Onorați apărătorii la acest centru memorial cu vehicule militare, unde tururile audio ghidate oferă un context istoric esențial vizitei.",
+            "en": "Honor the defenders at this poignant memorial center showcasing military vehicles and sobering exhibits, where guided audio tours provide essential historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Dudik Memorial Park",
+            "hu": "Dudik Memorial Park",
+            "ro": "Dudik Memorial Park",
+            "en": "Dudik Memorial Park"
+          },
+          "coords": [
+            19.017432,
+            45.330258
+          ],
+          "category": "park",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Reflektieren Sie die Geschichte des Zweiten Weltkriegs zwischen den markanten Betonkonen von Bogdan Bogdanović, idealerweise bei Tageslicht.",
+            "hu": "Gondolkodjon el a II. világháború történelmén Bogdan Bogdanović beton kúpjai között, amelyeket a legjobb fényviszonyok érdekében nappal érdemes fotózni.",
+            "ro": "Reflectați asupra istoriei celui de-al Doilea Război Mondial printre conurile din beton, deși vizitarea în timpul zilei este ideală pentru fotografii.",
+            "en": "Reflect on World War II history among the striking modernist concrete cones designed by Bogdan Bogdanović, though it's best to visit during daylight for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im großen Stadtmuseum im Schloss Eltz, bevor Sie an den historischen Kirchen am Flussufer vorbeiradeln. Mittags stehen Sie vor dem dramatischen Wasserturm, einer Erinnerung an die jüngsten Konflikte. Am Nachmittag radeln Sie zum ergreifenden Gedenkzentrum der Verteidiger. Der Abend bietet eine ruhige Fahrt zu den markanten modernistischen Denkmälern des Dudik-Parks.",
+        "hu": "A reggel az Eltz-kastélyban lévő hatalmas városi múzeumban indul, mielőtt eltekerne a folyóparti történelmi templomok mellett. Délben a drámai víztorony előtt áll, amely a közelmúlt konfliktusaira emlékeztet. Délután a kerékpározás mélyebbre visz a hadtörténetben az emlékhely felé. Az este csendes, elmélyült pedálozást kínál a Dudik park modernista emlékműveihez.",
+        "ro": "Dimineața începe la vastul muzeu al orașului din Conacul Eltz, înainte de a pedala pe lângă bisericile istorice de pe malul râului. La prânz vă aflați în fața dramaticului turn de apă, o amintire a conflictelor recente. După-amiaza vă conduce mai adânc în istoria militară la centrul memorial al apărătorilor. Seara oferă o plimbare liniștită spre monumentele moderniste din parcul Dudik.",
+        "en": "Your morning starts elegantly at the vast city museum in Eltz Manor before cycling past the historic churches near the riverbank. By midday, you stand before the dramatic water tower, a stark reminder of recent conflicts and urban perseverance. Afternoon cycling leads you deeper into military history at the poignant memorial center just south of the center. Evening offers a quieter, reflective pedal to the striking modernist monuments of Dudik park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:12",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Željeznički kolodvor Vukovar",
+            "hu": "Željeznički kolodvor Vukovar",
+            "ro": "Željeznički kolodvor Vukovar",
+            "en": "Željeznički kolodvor Vukovar"
+          },
+          "coords": [
+            18.98794,
+            45.36166
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Architektur dieses historischen Bahnhofs aus der Vorkriegszeit, auch wenn der Zugang ins Innere manchmal eingeschränkt ist.",
+            "hu": "Figyelje meg a történelmi vasútállomás építészeti részleteit, a háború előtti infrastruktúra csendes emlékét, bár a belső tér gyakran zárva tart.",
+            "ro": "Observați detaliile arhitecturale ale acestei gări istorice, deși accesul în interior poate fi uneori restricționat pentru vizitatori.",
+            "en": "Observe the architectural details of this historic railway station, a quiet remnant of the city's pre-war infrastructure, though access inside may be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradski muzej Vukovar",
+            "hu": "Gradski muzej Vukovar",
+            "ro": "Gradski muzej Vukovar",
+            "en": "Gradski muzej Vukovar"
+          },
+          "coords": [
+            19.000158,
+            45.354761
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das elegante Schloss Eltz mit dem Stadtmuseum und nehmen Sie sich Zeit für die prähistorischen Artefakte im Untergeschoss.",
+            "hu": "Sétáljon végig az elegáns Eltz-kastélyban található városi múzeumban, és szánjon időt az alagsori galéria ritka őskori leleteinek megtekintésére.",
+            "ro": "Plimbați-vă prin elegantul conac Eltz care găzduiește muzeul orașului, luându-vă timp să examinați artefactele preistorice din galeria de la subsol.",
+            "en": "Wander through the elegant Eltz Manor which houses this comprehensive city museum, taking time to examine the rare prehistoric artifacts in the basement gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Lavoslava Ružičke",
+            "hu": "Rodna kuća Lavoslava Ružičke",
+            "ro": "Rodna kuća Lavoslava Ružičke",
+            "en": "Rodna kuća Lavoslava Ružičke"
+          },
+          "coords": [
+            19.000542,
+            45.353799
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus des Nobelpreisträgers, um mehr über seine Chemie-Arbeit zu erfahren, und nutzen Sie die interaktiven Ausstellungen.",
+            "hu": "Fedezze fel a Nobel-díjas tudós szülőházát és kémiai munkásságát, a legjobb élmény érdekében pedig vegyen részt egy interaktív vezetett túrán.",
+            "ro": "Explorați casa natală a laureatului Nobel pentru a-i descoperi munca în chimie și bucurați-vă de expozițiile interactive printr-un tur ghidat.",
+            "en": "Explore the birthplace of Vukovar's Nobel laureate to learn about his groundbreaking chemistry work, and enjoy the interactive exhibits via a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorijalni centar Domovinskog rata",
+            "hu": "Memorijalni centar Domovinskog rata",
+            "ro": "Memorijalni centar Domovinskog rata",
+            "en": "Memorijalni centar Domovinskog rata"
+          },
+          "coords": [
+            19.004682,
+            45.338048
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ehren Sie die Verteidiger in diesem ergreifenden Gedenkzentrum mit Militärfahrzeugen, wo Audioführungen den historischen Kontext vertiefen.",
+            "hu": "Tisztelegjen a védők előtt a katonai járműveket bemutató emlékhelyen, ahol az audióvezetés elengedhetetlen a történelmi kontextus megértéséhez.",
+            "ro": "Onorați apărătorii la acest centru memorial cu vehicule militare, unde tururile audio ghidate oferă un context istoric esențial vizitei.",
+            "en": "Honor the defenders at this poignant memorial center showcasing military vehicles and sobering exhibits, where guided audio tours provide essential historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Dudik Memorial Park",
+            "hu": "Dudik Memorial Park",
+            "ro": "Dudik Memorial Park",
+            "en": "Dudik Memorial Park"
+          },
+          "coords": [
+            19.017432,
+            45.330258
+          ],
+          "category": "park",
+          "arrive_at": "15:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Reflektieren Sie die Geschichte des Zweiten Weltkriegs zwischen den markanten Betonkonen von Bogdan Bogdanović, idealerweise bei Tageslicht.",
+            "hu": "Gondolkodjon el a II. világháború történelmén Bogdan Bogdanović beton kúpjai között, amelyeket a legjobb fényviszonyok érdekében nappal érdemes fotózni.",
+            "ro": "Reflectați asupra istoriei celui de-al Doilea Război Mondial printre conurile din beton, deși vizitarea în timpul zilei este ideală pentru fotografii.",
+            "en": "Reflect on World War II history among the striking modernist concrete cones designed by Bogdan Bogdanović, though it's best to visit during daylight for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Vukovar water tower",
+            "hu": "Vukovar water tower",
+            "ro": "Vukovar water tower",
+            "en": "Vukovar water tower"
+          },
+          "coords": [
+            19.012278,
+            45.34401
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf dieses Symbol von Vukovars Leiden, um die 600 Einschusslöcher zu sehen, aber buchen Sie die Aufzugstickets besser vorab online.",
+            "hu": "Mássza meg Vukovar szenvedésének szimbólumát a 600 tüzérségi találat megtekintéséhez, de a sorban állás elkerülése érdekében foglaljon jegyet online.",
+            "ro": "Urcați pe acest simbol al suferinței Vukovarului pentru a vedea cele 600 de lovituri de artilerie, dar rezervați biletele online pentru a evita cozile.",
+            "en": "Ascend this iconic symbol of Vukovar's suffering to see the 600 artillery hits preserved in its structure, but book your elevator tickets online to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Adrenalinski park",
+            "hu": "Adrenalinski park",
+            "ro": "Adrenalinski park",
+            "en": "Adrenalinski park"
+          },
+          "coords": [
+            18.973775,
+            45.35266
+          ],
+          "category": "recreational",
+          "arrive_at": "18:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren intensiven Tag mit etwas Aktivität in den Baumkronen dieses Abenteuerparks und tragen Sie festes Schuhwerk zum Klettern.",
+            "hu": "Fejezze be az intenzív napot egy kis testmozgással a kalandpark buja lombkoronájában, és mindenképpen viseljen masszív cipőt a mászáshoz.",
+            "ro": "Încheiați ziua intensă cu puțină activitate fizică în acest parc de aventură, asigurându-vă că purtați încălțăminte rezistentă pentru cățărare.",
+            "en": "Finish your intense day with some light physical activity in the lush canopy of this adventure park, making sure to wear sturdy shoes for the climbing obstacles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt bei der Bahnhofsarchitektur, bevor Sie in die regionale Geschichte im Schloss Eltz eintauchen. Mittags verlagert sich der Fokus auf die Narben der 1990er Jahre im weitläufigen Heimatkriegs-Gedenkzentrum. Nachmittags verbinden Sie die Denkmäler des Dudik-Parks mit dem überragenden Wasserturm. Der Abend endet mit körperlicher Entspannung im lokalen Abenteuerpark.",
+        "hu": "A reggeli vezetés a történelmi vasúti építészettel kezdődik, mielőtt elmerülne a gyönyörű Eltz-kastély és a Ružička-ház történelmében. Délben a hangsúly a 90-es évek háborús sebeire helyeződik át az emlékközpontban. Délután a Dudik park II. világháborús emlékműveit és a víztornyot keresi fel. Az estét a kalandpark fizikai aktivitása és ellazulása zárja le.",
+        "ro": "Conducerea de dimineață începe la gara istorică înainte de a explora istoria regională la Conacul Eltz. La prânz, accentul se mută pe rănile profunde ale anilor 90, la extinsul Centru Memorial al Războiului. După-amiaza vă conectează la monumentele din parcul Dudik și la faimosul turn de apă. Seara se încheie într-un ritm diferit, oferind relaxare fizică la parcul de aventură.",
+        "en": "The morning drive starts with the historic railway architecture before diving into regional history at the beautiful Eltz Manor and the Ružička birth house. Midday shifts focus to the profound scars of the 1990s as you visit the expansive Homeland War Memorial Center. Afternoon driving connects you to the striking modernist WWII monuments of Dudik and the towering water tower. Evening wraps up with a totally different pace, offering physical release at the adventure park."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "cuernavaca-cities-v2",
+  "anchor": {
+    "name": "Cuernavaca",
+    "coords": [
+      -99.2345,
+      18.922
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 1.07,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Arte Conteporaneo indigena",
+            "hu": "Museo de Arte Conteporaneo indigena",
+            "ro": "Museo de Arte Conteporaneo indigena",
+            "en": "Museo de Arte Conteporaneo indigena"
+          },
+          "coords": [
+            -99.237882,
+            18.921626
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden indigenen Kunstwerke, die den Geist Mexikos einfangen, aber beginnen Sie im obersten Stockwerk für den perfekten Rundgang.",
+            "hu": "Csodálja meg a mexikói szellemet megragadó, lenyűgöző kortárs őslakos alkotásokat, de mindenképpen a legfelső emeleten kezdje a tökéletes kiállítási élményért.",
+            "ro": "Admirați fascinantele opere de artă indigenă contemporană care surprind spiritul Mexicului, dar asigurați-vă că începeți la ultimul etaj pentru a urma perfect expoziția.",
+            "en": "Admire the fascinating indigenous contemporary artworks that capture the spirit of Mexico, but make sure to start on the top floor to follow the exhibition perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la ciudad de Cuernavaca",
+            "hu": "Museo de la ciudad de Cuernavaca",
+            "ro": "Museo de la ciudad de Cuernavaca",
+            "en": "Museo de la ciudad de Cuernavaca"
+          },
+          "coords": [
+            -99.237759,
+            18.920413
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Stadtgeschichte durch fesselnde Fotoarchive und vergessen Sie nicht, an der Rezeption nach der kostenlosen Karte für die Umgebung zu fragen.",
+            "hu": "Fedezze fel Cuernavaca gazdag városi történelmét a lenyűgöző fotóarchívumokon keresztül, és ne felejtsen el ingyenes környéktérképet kérni a barátságos recepción.",
+            "ro": "Descoperiți bogata istorie urbană a orașului Cuernavaca prin arhive fotografice captivante și nu uitați să cereți la recepție harta pietonală gratuită a cartierului.",
+            "en": "Discover Cuernavaca's rich urban history through engaging photographic archives, and remember to ask the friendly front desk for their free neighborhood walking map."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Robert Brady",
+            "hu": "Museo Robert Brady",
+            "ro": "Museo Robert Brady",
+            "en": "Museo Robert Brady"
+          },
+          "coords": [
+            -99.236171,
+            18.919887
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende Privatsammlung globaler Kunst in einem restaurierten Kolonialhaus und nehmen Sie sich unbedingt Zeit für den ruhigen Innenhof.",
+            "hu": "Fedezze fel a globális művészet e lenyűgöző magángyűjteményét egy gyönyörűen felújított gyarmati házban, és feltétlenül szánjon egy percet a nyugodt belső udvarra.",
+            "ro": "Explorați această impresionantă colecție privată de artă globală într-o casă colonială frumos restaurată, asigurându-vă că vă luați un moment în curtea centrală liniștită.",
+            "en": "Explore this stunning private collection of global art housed in a beautifully restored colonial home, making sure to take a moment in the tranquil central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Morelense de Arte Popular",
+            "hu": "Museo Morelense de Arte Popular",
+            "ro": "Museo Morelense de Arte Popular",
+            "en": "Museo Morelense de Arte Popular"
+          },
+          "coords": [
+            -99.235716,
+            18.921036
+          ],
+          "category": "museum",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die traditionelle Handwerkskunst und lebendige Volkskunst aus ganz Morelos und halten Sie Ausschau nach einzigartigen handgemachten Souvenirs im Shop.",
+            "hu": "Csodálja meg a Morelos egész területéről származó bonyolult hagyományos mesterségeket és élénk népművészetet, és keressen egyedi kézműves ajándékokat a boltban.",
+            "ro": "Minunați-vă de meșteșugurile tradiționale complicate și de arta populară vibrantă din Morelos și căutați suveniruri unice realizate manual în frumosul lor magazin.",
+            "en": "Marvel at the intricate traditional crafts and vibrant folk art from across Morelos, and keep an eye out for unique handmade souvenirs in their lovely gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Palace of Hernan Cortez",
+            "hu": "Palace of Hernan Cortez",
+            "ro": "Palace of Hernan Cortez",
+            "en": "Palace of Hernan Cortez"
+          },
+          "coords": [
+            -99.233368,
+            18.921277
+          ],
+          "category": "museum",
+          "arrive_at": "16:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie in dieser Festung aus dem 16. Jahrhundert mit atemberaubenden Wandgemälden eine Zeitreise und versuchen Sie, den Nachmittagstrubel zu vermeiden.",
+            "hu": "Lépjen vissza az időben ebben a 16. századi erődben, amely Diego Rivera lenyűgöző falfestményeit kínálja, és érkezzen korán a délutáni tömeg elkerülése érdekében.",
+            "ro": "Întoarceți-vă în timp la această fortăreață formidabilă cu picturile murale uluitoare ale lui Diego Rivera și încercați să ajungeți devreme pentru a evita aglomerația.",
+            "en": "Step back in time at this formidable 16th-century fortress featuring breathtaking Diego Rivera murals, and try to arrive early to avoid the bustling afternoon tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "hu": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "ro": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "en": "Museo Morelense de Arte Contemporáneo Juan Soriano"
+          },
+          "coords": [
+            -99.230502,
+            18.923114
+          ],
+          "category": "museum",
+          "arrive_at": "17:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem modernen architektonischen Juwel mit Juan Sorianos markanten Skulpturen und prüfen Sie die Website auf abendlichen Zugang zum Garten.",
+            "hu": "Zárja a napot ebben a modern építészeti gyöngyszemben, amely tele van Juan Soriano lenyűgöző szobraival, és ellenőrizze a weboldalt az esti kerti sétákhoz.",
+            "ro": "Încheiați-vă ziua la această bijuterie arhitecturală modernă plină de sculpturile uimitoare ale lui Juan Soriano, verificând site-ul pentru accesul de seară în grădină.",
+            "en": "Conclude your day at this modern architectural gem filled with Juan Soriano's striking sculptures, checking their website for exclusive evening garden access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in die zeitgenössische indigene Kunst Mexikos. Mittags locken globale Schätze im Robert-Brady-Museum und lokale Volkstraditionen. Der Nachmittag konzentriert sich auf den riesigen Cortez-Palast. Der Abend klingt in den modernen, ruhigen Skulpturengärten von Juan Soriano aus.",
+        "hu": "A reggel a kortárs őslakos művészet és a várostörténet felfedezésével kezdődik. A dél a Robert Brady Múzeum globális kincseit és a helyi népi hagyományokat kínálja. A délután a Cortez-palota hatalmas méreteire fókuszál. Az este Juan Soriano modern, nyugodt szoborparkjában ér véget.",
+        "ro": "Dimineața începe cu o incursiune profundă în arta indigenă contemporană și istoria urbană a Mexicului. Prânzul aduce comori globale la muzeul Robert Brady și tradiții populare locale. După-amiaza se concentrează pe scara imensă a Palatului Cortez. Seara se încheie în grădinile moderne de sculptură ale lui Juan Soriano.",
+        "en": "Morning begins with a deep dive into Mexico's contemporary indigenous art and urban history. Midday brings global treasures at the Robert Brady museum and vibrant local folk traditions. Afternoon focuses on the immense scale of the Cortez Palace. Evening winds down among the modern, serene sculpture gardens of Juan Soriano."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 4.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Chapitel",
+            "hu": "El Chapitel",
+            "ro": "El Chapitel",
+            "en": "El Chapitel"
+          },
+          "coords": [
+            -99.238549,
+            18.928968
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die historische Atmosphäre dieses verehrten religiösen Schreins zur Ehre von Golgatha und schließen Sie Ihr Fahrrad sicher an den nahegelegenen Ständern ab.",
+            "hu": "Szívja magába a Kálváriát tisztelő vallási kegyhely történelmi hangulatát, és a felfedezés előtt biztonságosan zárja le kerékpárját a közeli kijelölt tárolóknál.",
+            "ro": "Bucurați-vă de atmosfera istorică a acestui altar religios venerat care onorează Calvarul și blocați-vă bicicleta în siguranță la rastelele dedicate din apropiere.",
+            "en": "Take in the historical atmosphere of this revered religious shrine honoring Calvary, and lock your bike securely at the nearby dedicated racks before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "El Castillito",
+            "hu": "El Castillito",
+            "ro": "El Castillito",
+            "en": "El Castillito"
+          },
+          "coords": [
+            -99.237635,
+            18.928965
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmant kleinen, schlossartigen Backsteingebäude in die lokale Geschichte ein, aber achten Sie auf Ihren Kopf bei den niedrigen Türen.",
+            "hu": "Merüljön el a helyi történelemben ebben a bájos, kisméretű, kastélyszerű téglaépületben, de vigyázzon a fejére az egyedi vintage építészet alacsony ajtónyílásainál.",
+            "ro": "Pătrundeți în istoria locală în interiorul acestei clădiri fermecătoare de cărămidă, dar aveți grijă la cap la ușile joase ale arhitecturii vintage unice.",
+            "en": "Delve into local history inside this charmingly small, castle-like brick building, but watch your head on the low doorways of the unique vintage architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palace of Hernan Cortez",
+            "hu": "Palace of Hernan Cortez",
+            "ro": "Palace of Hernan Cortez",
+            "en": "Palace of Hernan Cortez"
+          },
+          "coords": [
+            -99.233368,
+            18.921277
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erleben Sie die unglaubliche Mischung aus kolonialer und prähispanischer Geschichte in diesem massiven Palast und betrachten Sie die detaillierten Rivera-Wandgemälde.",
+            "hu": "Legyen tanúja a gyarmati és prehispán történelem hihetetlen keverékének ebben a masszív palotában, és feltétlenül tekintse meg a részletes Diego Rivera-falfestményeket.",
+            "ro": "Fiți martori la amestecul incredibil de istorie colonială și pre-hispanică în acest palat masiv, asigurându-vă că vedeți picturile murale detaliate ale lui Diego Rivera.",
+            "en": "Witness the incredible blend of colonial and pre-Hispanic history in this massive palace, making sure to view the detailed Diego Rivera murals on the balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Robert Brady",
+            "hu": "Museo Robert Brady",
+            "ro": "Museo Robert Brady",
+            "en": "Museo Robert Brady"
+          },
+          "coords": [
+            -99.236171,
+            18.919887
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Umgeben Sie sich mit Bradys vielseitiger internationaler Kunstsammlung in seinem ehemaligen Zuhause und achten Sie auf die leuchtenden Farben, die jeden Raum schmücken.",
+            "hu": "Vegyüljön el Brady eklektikus nemzetközi művészeti gyűjteményében egykori otthonában, és figyelje meg a minden szobát díszítő élénk színeket.",
+            "ro": "Înconjurați-vă de colecția eclectică de artă internațională a lui Brady în fosta sa casă, făcându-vă timp să observați culorile vibrante care împodobesc fiecare cameră.",
+            "en": "Surround yourself with Brady's eclectic international art collection in his former home, taking your time to notice the vibrant colors adorning every single room."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la medicina tradicional y herbolaria",
+            "hu": "Museo de la medicina tradicional y herbolaria",
+            "ro": "Museo de la medicina tradicional y herbolaria",
+            "en": "Museo de la medicina tradicional y herbolaria"
+          },
+          "coords": [
+            -99.224111,
+            18.908726
+          ],
+          "category": "museum",
+          "arrive_at": "15:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die aromatischen botanischen Gärten, um etwas über aztekische Kräutermedizin zu lernen, und bringen Sie Insektenschutz für einen entspannten Spaziergang mit.",
+            "hu": "Barangoljon az aromás botanikus kertekben, hogy megismerje az ősi azték gyógynövényes orvoslást, és vigyen magával rovarriasztót a növények közötti kényelmes sétához.",
+            "ro": "Plimbați-vă prin grădinile botanice aromatice pentru a afla despre medicina herbală aztecă și aduceți spray împotriva insectelor pentru o plimbare confortabilă.",
+            "en": "Wander through the aromatic botanical gardens to learn about ancient Aztec herbal medicine, bringing insect repellent for a comfortable stroll among the plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Ciencia",
+            "hu": "Museo de Ciencia",
+            "ro": "Museo de Ciencia",
+            "en": "Museo de Ciencia"
+          },
+          "coords": [
+            -99.227135,
+            18.919107
+          ],
+          "category": "museum",
+          "arrive_at": "17:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven wissenschaftlichen Ausstellungen für alle Altersgruppen und heben Sie sich die Planetariumsshow für Ihre letzte entspannende Aktivität auf.",
+            "hu": "Vegyen részt a minden korosztály számára tökéletes interaktív tudományos kiállításokon, és hagyja a magával ragadó planetáriumi műsort a nap utolsó pihentető tevékenységére.",
+            "ro": "Interacționați cu exponate științifice interactive perfecte pentru curioși de toate vârstele și păstrați spectacolul de la planetariu pentru ultima activitate relaxantă.",
+            "en": "Engage with interactive scientific exhibits perfect for curious minds of all ages, and save the immersive planetarium show for your final relaxing activity of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine frische Fahrt beginnt am historischen Chapitel und dem malerischen Castillito. Mittags radeln Sie zum imposanten Cortez-Palast und zur farbenfrohen Robert-Brady-Sammlung. Nachmittags geht es nach Süden, um alte botanische Heilmittel zu erkunden. Der Abend naht mit faszinierenden Entdeckungen im Wissenschaftsmuseum.",
+        "hu": "Egy frissítő tekerés a történelmi Chapitelnél és a festői Castillitónál kezdődik. A déli kerékpározás az impozáns Cortez-palotához és a színes Robert Brady-gyűjteményhez visz. A délutáni pedálozás délre vezet az ősi botanikai gyógymódokhoz. Az este közeleg a Tudományos Múzeum lenyűgöző felfedezéseivel.",
+        "ro": "O plimbare revigorantă începe la istoricul Chapitel și pitorescul Castillito. Ciclismul de prânz vă aduce la impunătorul Palat Cortez și la colecția colorată Robert Brady. Pedalarea de după-amiază duce spre sud pentru remedii botanice antice. Seara se apropie cu descoperiri fascinante la Muzeul de Știință.",
+        "en": "A crisp ride starts at the historic Chapitel and the quaint Castillito. Midday cycling brings you to the imposing Cortez Palace and the colorful Robert Brady collection. Afternoon pedaling leads south to explore ancient botanical remedies. Evening approaches with fascinating discoveries at the Science Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 16.16,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumental Flag",
+            "hu": "Monumental Flag",
+            "ro": "Monumental Flag",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -99.238396,
+            18.979351
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Panoramablick auf die Stadt unter der wehenden Flagge und nutzen Sie den Parkplatz am Morgen für hervorragende Weitwinkelfotos.",
+            "hu": "Kezdje a napot a városra nyíló panorámával a hatalmas, lobogó zászló alatt, és használja ki a tágas reggeli parkolót néhány kiváló nagylátószögű fénykép készítéséhez.",
+            "ro": "Începeți ziua cu vederi panoramice ale orașului sub steagul imens, folosind parcarea spațioasă de dimineață pentru a face câteva fotografii excelente cu unghi larg.",
+            "en": "Begin your day with panoramic city views under the massive waving flag, utilizing the spacious morning parking lot to take some excellent wide-angle photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Papalote Museo del Niño",
+            "hu": "Papalote Museo del Niño",
+            "ro": "Papalote Museo del Niño",
+            "en": "Papalote Museo del Niño"
+          },
+          "coords": [
+            -99.231093,
+            18.934318
+          ],
+          "category": "museum",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Lassen Sie in diesem interaktiven Wunderland Ihr inneres Kind heraus und nutzen Sie die schattigen Parkplätze, die normalerweise in der Nähe des Haupteingangs verfügbar sind.",
+            "hu": "Engedje szabadjára belső gyermekét ebben az oktatási szórakozás interaktív csodaországában, kihasználva a főbejárat közelében lévő árnyékos parkolóhelyeket.",
+            "ro": "Eliberați-vă copilul interior în acest tărâm interactiv de distracție educațională, profitând de locurile de parcare umbrite disponibile lângă intrarea principală.",
+            "en": "Let your inner child out in this interactive wonderland of educational fun, taking advantage of the shaded parking spots typically available near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Proyecto Siqueiros La Tallera",
+            "hu": "Proyecto Siqueiros La Tallera",
+            "ro": "Proyecto Siqueiros La Tallera",
+            "en": "Proyecto Siqueiros La Tallera"
+          },
+          "coords": [
+            -99.205084,
+            18.93224
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.75,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von Siqueiros' monumentalen Wandgemälden in seiner ehemaligen Werkstatt beeindrucken und achten Sie auf die markante geometrische Außenarchitektur.",
+            "hu": "Nyűgözze le Siqueiros monumentális falfestményeinek látványa egykori műhelyében, és emlékezzen megcsodálni a lenyűgöző geometriai külső építészetet a belépés előtt.",
+            "ro": "Lăsați-vă uimiți de picturile murale monumentale ale lui Siqueiros în fostul său atelier și amintiți-vă să priviți arhitectura exterioară geometrică izbitoare.",
+            "en": "Be awed by Siqueiros's monumental murals inside his former workshop, and remember to look at the striking geometric exterior architecture before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "hu": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "ro": "Museo Morelense de Arte Contemporáneo Juan Soriano",
+            "en": "Museo Morelense de Arte Contemporáneo Juan Soriano"
+          },
+          "coords": [
+            -99.230502,
+            18.923114
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in Juan Sorianos riesige Bronzeskulpturen inmitten wunderschön angelegter Gärten und nutzen Sie die praktische Tiefgarage für Ihr Auto.",
+            "hu": "Merüljön el Juan Soriano hatalmas bronzszobraiban a gyönyörűen parkosított kertek között, és használja a kényelmes mélygarázst autójához.",
+            "ro": "Cufundați-vă în sculpturile masive de bronz ale lui Juan Soriano situate în grădini frumos amenajate, folosind parcarea subterană convenabilă pentru mașina dumneavoastră.",
+            "en": "Immerse yourself in Juan Soriano's massive bronze sculptures set within beautifully landscaped gardens, using the convenient underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Palace of Hernan Cortez",
+            "hu": "Palace of Hernan Cortez",
+            "ro": "Palace of Hernan Cortez",
+            "en": "Palace of Hernan Cortez"
+          },
+          "coords": [
+            -99.233368,
+            18.921277
+          ],
+          "category": "museum",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie Jahrhunderte mexikanischer Geschichte in den Mauern dieser riesigen Steinstruktur, aber beachten Sie, dass Straßenparkplätze knapp sein können.",
+            "hu": "Fedezze fel a mexikói történelem évszázadait e hatalmas kőépület falai között, és vegye figyelembe, hogy az utcai parkolás szűkös lehet, ezért keressen egy közeli parkolót.",
+            "ro": "Descoperiți secole de istorie mexicană în interiorul pereților acestei structuri imense de piatră, observând că parcarea pe stradă poate fi dificilă, așa că folosiți un lot din apropiere.",
+            "en": "Uncover centuries of Mexican history within the walls of this immense stone structure, noting that street parking can be tight so use a nearby lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo INEEL",
+            "hu": "Museo INEEL",
+            "ro": "Museo INEEL",
+            "en": "Museo INEEL"
+          },
+          "coords": [
+            -99.217376,
+            18.878108
+          ],
+          "category": "museum",
+          "arrive_at": "17:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der elektrischen Energieforschung in diesem Spezialmuseum und buchen Sie Ihre Führung im Voraus, da die Plätze begrenzt sind.",
+            "hu": "Fedezze fel az elektromos energia kutatásának lenyűgöző világát ebben a speciális múzeumban, és foglalja le előre az idegenvezetést, mivel a helyek száma korlátozott.",
+            "ro": "Descoperiți lumea fascinantă a cercetării energiei electrice la acest muzeu specializat, rezervând turul ghidat în avans, deoarece intrările spontane sunt limitate.",
+            "en": "Discover the fascinating world of electrical energy research at this specialized museum, booking your guided tour in advance since walk-ins are somewhat limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt hoch über der Stadt an der Monumentalflagge, gefolgt von familienfreundlichem Spaß im Papalote. Mittags fahren Sie zu Siqueiros' monumentaler Kunst. Der Nachmittag bietet die moderne Eleganz von Juan Soriano und den massiven Cortez-Palast. Der Abend endet mit moderner Wissenschaft im INEEL.",
+        "hu": "A reggel magasan a város felett kezdődik a Monumentális Zászlónál, majd családbarát szórakozás következik a Papalote-ban. A déli vezetés Siqueiros monumentális művészetéhez visz. A délután Juan Soriano eleganciáját és a masszív Cortez-palotát mutatja be. Az este a fejlett tudománnyal zárul az INEEL-ben.",
+        "ro": "Dimineața începe sus deasupra orașului la Steagul Monumental, urmată de distracție interactivă la Papalote. Condusul de prânz vă aduce la arta monumentală a lui Siqueiros. După-amiaza prezintă eleganța modernă a lui Juan Soriano și imensul Palat Cortez. Seara se încheie cu știință avansată la INEEL.",
+        "en": "Morning starts high above the city at the Monumental Flag, followed by family-friendly interactive fun at Papalote. Midday driving brings you to Siqueiros's monumental artistry. The afternoon features the modern elegance of Juan Soriano and the massive Cortez Palace. Evening closes with advanced science at INEEL."
+      }
+    }
+  }
+}

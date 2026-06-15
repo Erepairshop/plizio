@@ -1,0 +1,405 @@
+{
+  "city_id": "spain-o-porto-do-barqueiro-cities-v2",
+  "anchor": {
+    "name": "O Porto do Barqueiro",
+    "coords": [
+      -7.70596,
+      43.73656
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Mañón",
+            "hu": "Concello de Mañón",
+            "ro": "Concello de Mañón",
+            "en": "Concello de Mañón"
+          },
+          "coords": [
+            -7.705475,
+            43.736264
+          ],
+          "category": "historical",
+          "arrive_at": "09:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses, bevor Sie den Hafen erkunden, und werfen Sie einen Blick auf die Tafel für lokale Events.",
+            "hu": "Csodálja meg a városháza hagyományos építészetét, mielőtt felfedezné a kikötőt, és mindenképpen nézze meg a helyi kulturális események hirdetőtábláját.",
+            "ro": "Admirați arhitectura tradițională a primăriei înainte de a explora portul și asigurați-vă că verificați panoul informativ pentru evenimente culturale locale.",
+            "en": "Admire the traditional architecture of the town hall before exploring the port area, and remember to check their notice board for local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "O Muíño do Vento",
+            "hu": "O Muíño do Vento",
+            "ro": "O Muíño do Vento",
+            "en": "O Muíño do Vento"
+          },
+          "coords": [
+            -7.706492,
+            43.732543
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser historischen Windmühle, die die landwirtschaftliche Vergangenheit widerspiegelt, und nutzen Sie den erhöhten Punkt für tolle Fotos.",
+            "hu": "Álljon meg ennél a történelmi szélmalomnál, amely a régió mezőgazdasági múltját tükrözi, és használja ki a magaslati pontot gyönyörű tájképek készítéséhez.",
+            "ro": "Opriți-vă la această moară de vânt istorică ce reflectă trecutul agricol al regiunii și profitați de punctul înalt pentru a face fotografii pitorești.",
+            "en": "Stop by this historic windmill structure that reflects the region's agricultural past, and take advantage of the elevated spot for lovely scenic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -7.701939,
+            43.735794
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Sandstrand, wo sanfte Wellen eine beruhigende Atmosphäre schaffen, aber bringen Sie unbedingt Wasser und einen Sonnenschirm mit.",
+            "hu": "Pihenjen ezen a békés homokos strandon, ahol a lágy hullámok nyugtató légkört teremtenek, de mindenképpen hozzon magával saját vizet és napernyőt.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare și liniștită, unde valurile blânde creează o atmosferă calmă, dar asigurați-vă că aduceți apă și o umbrelă.",
+            "en": "Relax on this charming and peaceful sandy beach where the gentle waves create a soothing atmosphere, but be sure to bring your own water and sunshade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Canteira",
+            "hu": "Praia da Canteira",
+            "ro": "Praia da Canteira",
+            "en": "Praia da Canteira"
+          },
+          "coords": [
+            -7.699245,
+            43.738382
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser rauen Küste, ideal für einen erfrischenden Nachmittagsspaziergang, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen a zord tengerparton, amely tökéletes egy frissítő délutáni sétához, és viseljen masszív cipőt az egyenetlen terepen való haladáshoz.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste accidentate perfecte pentru o plimbare revigorantă de după-amiază și purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Stroll along this rugged coastline perfect for a refreshing afternoon walk, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Ponte",
+            "hu": "Praia da Ponte",
+            "ro": "Praia da Ponte",
+            "en": "Praia da Ponte"
+          },
+          "coords": [
+            -7.69802,
+            43.733931
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser schönen Bucht nahe der Brücke, die sie zu einem hervorragenden Ort für Familien macht, um Sandburgen zu bauen.",
+            "hu": "Élvezze a torkolati híd közelében található gyönyörű öböl nyüzsgő hangulatát, amely kiváló helyszínt biztosít a családok számára a homokvár építéshez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui golf minunat de lângă podul estuarului, fiind un loc excelent pentru familii pentru a construi castele.",
+            "en": "Enjoy the lively atmosphere of this beautiful bay located right near the estuary bridge, making it an excellent spot for families to build sandcastles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch O Porto do Barqueiro beginnt im Zentrum und erkundet das lokale Erbe. Gegen Mittag entdecken Sie charmante Küstenwahrzeichen und malerische Aussichtspunkte. Der Nachmittag ist den entspannenden Stränden entlang der Flussmündung gewidmet. Am Abend rundet ein spektakulärer Sonnenuntergang über der letzten Sandbucht Ihre gemütliche Erkundung des Hafens perfekt ab.",
+        "hu": "Sétája O Porto do Barqueiro városában a központ közelében kezdődik, felfedezve a helyi örökséget. Ahogy közeledik a dél, hangulatos tengerparti tereptárgyakkal és kilátókkal találkozhat. A délután a torkolat mentén megbúvó pihentető strandok élvezetének van szentelve. Estére a végső homokos öböl feletti lenyűgöző naplemente tökéletesen zárja a kikötő kényelmes tempójú felfedezését.",
+        "ro": "Turul pietonal prin O Porto do Barqueiro începe în centru, explorând patrimoniul local. Spre prânz, veți întâlni repere de coastă fermecătoare și puncte de belvedere pitorești. După-amiaza este dedicată plajelor relaxante de-a lungul estuarului. Seara, un apus de soare spectaculos peste ultimul golf de nisip încheie perfect această explorare într-un ritm lent și plăcut al portului.",
+        "en": "Your walking tour through O Porto do Barqueiro begins near the town center, exploring local heritage. As midday approaches, you will encounter charming coastal landmarks and scenic lookouts. The afternoon is dedicated to enjoying the relaxing beaches nestled along the estuary. By evening, a spectacular sunset over the final sandy cove perfectly concludes your slow-paced exploration of the port."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Mogor",
+            "hu": "Igrexa de Santa María de Mogor",
+            "ro": "Igrexa de Santa María de Mogor",
+            "en": "Igrexa de Santa María de Mogor"
+          },
+          "coords": [
+            -7.711237,
+            43.735643
+          ],
+          "category": "religious",
+          "arrive_at": "09:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Pfarrkirche, um die bescheidene, aber schöne religiöse Kunst zu bewundern, und denken Sie an respektvolle, schulterbedeckende Kleidung.",
+            "hu": "Lépjen be ebbe a nyugodt plébániatemplomba, hogy megcsodálja szerény, de gyönyörű vallási művészetét, és ne felejtsen el a vállát takaró, tiszteletteljes ruhát viselni.",
+            "ro": "Pășiți în această biserică parohială liniștită pentru a aprecia arta sa religioasă modestă și nu uitați să purtați o ținută respectuoasă care acoperă umerii.",
+            "en": "Step inside this tranquil parish church to appreciate its modest yet beautiful religious artwork, though remember to dress respectfully covering your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Mañón",
+            "hu": "Concello de Mañón",
+            "ro": "Concello de Mañón",
+            "en": "Concello de Mañón"
+          },
+          "coords": [
+            -7.705475,
+            43.736264
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses, bevor Sie den Hafen erkunden, und werfen Sie einen Blick auf die Tafel für lokale Events.",
+            "hu": "Csodálja meg a városháza hagyományos építészetét, mielőtt felfedezné a kikötőt, és mindenképpen nézze meg a helyi kulturális események hirdetőtábláját.",
+            "ro": "Admirați arhitectura tradițională a primăriei înainte de a explora portul și asigurați-vă că verificați panoul informativ pentru evenimente culturale locale.",
+            "en": "Admire the traditional architecture of the town hall before exploring the port area, and remember to check their notice board for local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -7.701939,
+            43.735794
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Sandstrand, wo sanfte Wellen eine beruhigende Atmosphäre schaffen, aber bringen Sie unbedingt Wasser und einen Sonnenschirm mit.",
+            "hu": "Pihenjen ezen a békés homokos strandon, ahol a lágy hullámok nyugtató légkört teremtenek, de mindenképpen hozzon magával saját vizet és napernyőt.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare și liniștită, unde valurile blânde creează o atmosferă calmă, dar asigurați-vă că aduceți apă și o umbrelă.",
+            "en": "Relax on this charming and peaceful sandy beach where the gentle waves create a soothing atmosphere, but be sure to bring your own water and sunshade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Ponte",
+            "hu": "Praia da Ponte",
+            "ro": "Praia da Ponte",
+            "en": "Praia da Ponte"
+          },
+          "coords": [
+            -7.69802,
+            43.733931
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser schönen Bucht nahe der Brücke, die sie zu einem hervorragenden Ort für Familien macht, um Sandburgen zu bauen.",
+            "hu": "Élvezze a torkolati híd közelében található gyönyörű öböl nyüzsgő hangulatát, amely kiváló helyszínt biztosít a családok számára a homokvár építéshez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui golf minunat de lângă podul estuarului, fiind un loc excelent pentru familii pentru a construi castele.",
+            "en": "Enjoy the lively atmosphere of this beautiful bay located right near the estuary bridge, making it an excellent spot for families to build sandcastles."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Esteiro",
+            "hu": "Praia de Esteiro",
+            "ro": "Praia de Esteiro",
+            "en": "Praia de Esteiro"
+          },
+          "coords": [
+            -7.724339,
+            43.749159
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen weiten, wilden Strand, der für seine hervorragenden Surfbedingungen bekannt ist, aber schwimmen Sie vorsichtig, da die Strömungen stark sind.",
+            "hu": "Fedezze fel ezt a hatalmas és vad strandot, amely kiváló szörfözési feltételeiről ismert, de fürödjön óvatosan, mivel az óceáni áramlatok itt meglepően erősek.",
+            "ro": "Descoperiți această plajă vastă și sălbatică cunoscută pentru condițiile excelente de surf, dar înotați cu precauție deoarece curenții oceanici pot fi puternici.",
+            "en": "Discover this expansive and wild beach known for its excellent surf conditions, but swim cautiously as the ocean currents here can be surprisingly strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer, indem Sie sakrale Architektur bewundern, bevor Sie zum historischen Kern radeln. Gegen Mittag fahren Sie auf Küstenwegen zu malerischen Stränden. Die Nachmittagsfahrt führt Sie weiter nach Westen und tauscht die Flussmündung gegen die rohe Schönheit des offenen Ozeans. Sie beenden Ihren aktiven Tag entspannt an einem weiten Strand im schwindenden Abendlicht.",
+        "hu": "Kezdje kerékpáros kalandját a vallási építészet megcsodálásával, mielőtt a történelmi központ felé pedálozna. Délben a parti ösvényeken kerékpározva festői strandokhoz érkezik. A délutáni út nyugatabbra visz, ahol a torkolatot felváltja a nyílt óceán nyers szépsége. Ezt az aktív napot egy tágas tengerparton pihenve zárja majd le, ahogy az esti fények lassan elhalványulnak a horizonton.",
+        "ro": "Începeți aventura pe bicicletă admirând arhitectura religioasă înainte de a pedala spre nucleul istoric. Până la prânz, veți merge pe traseele de coastă pentru a ajunge la plaje pitorești. Plimbarea de după-amiază vă duce mai la vest, schimbând estuarul pentru frumusețea brută a oceanului. Veți încheia ziua activă relaxându-vă pe o plajă vastă, pe măsură ce lumina serală se estompează blând.",
+        "en": "Start your biking adventure by admiring religious architecture before pedaling toward the historic municipal core. By midday, you'll cycle along the coastal paths to reach secluded and picturesque beaches. The afternoon ride takes you further west, trading the estuary for the raw beauty of the open ocean. You will end your active day unwinding on an expansive beach as the evening light fades."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Lama",
+            "hu": "Torre de Lama",
+            "ro": "Torre de Lama",
+            "en": "Torre de Lama"
+          },
+          "coords": [
+            -7.706985,
+            43.715115
+          ],
+          "category": "castle",
+          "arrive_at": "09:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieses historischen Verteidigungsturms, und besuchen Sie ihn im frühen Morgenlicht für die besten Fotos.",
+            "hu": "Fedezze fel ennek a völgyet egykor védelmező történelmi védőtoronynak a lenyűgöző maradványait, és látogasson el ide kora reggel a legjobb fényképek elkészítéséhez.",
+            "ro": "Explorați rămășițele fascinante ale acestui turn defensiv istoric ce proteja odată valea și vizitați-l în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Explore the fascinating remnants of this historic defensive tower that once protected the valley, and visit during early morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de San Fiz",
+            "hu": "Pazo de San Fiz",
+            "ro": "Pazo de San Fiz",
+            "en": "Pazo de San Fiz"
+          },
+          "coords": [
+            -7.706705,
+            43.720812
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische galicische Herrenhausarchitektur von den Toren aus und beachten Sie die kunstvollen Steinmetzarbeiten und den traditionellen Speicher.",
+            "hu": "Figyelje meg a klasszikus galíciai udvarház építészetét a külső kapuktól, és vegye észre a bonyolult kőfaragásokat, valamint az udvaron álló hagyományos magtárat.",
+            "ro": "Observați arhitectura clasică a conacului galician de la porțile exterioare și remarcați detaliile din piatră alături de hambarul tradițional din curte.",
+            "en": "Observe the classic Galician manor house architecture from the outside gates, and notice the intricate stonework and traditional granary standing in the yard."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa do Pico Galiñeiro",
+            "hu": "Mámoa do Pico Galiñeiro",
+            "ro": "Mámoa do Pico Galiñeiro",
+            "en": "Mámoa do Pico Galiñeiro"
+          },
+          "coords": [
+            -7.720427,
+            43.720738
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem alten megalithischen Grabhügel in einer ruhigen natürlichen Umgebung und bringen Sie eine Karte mit, da das Handysignal hier oft schwach ist.",
+            "hu": "Túrázzon el ehhez a nyugodt természeti környezetben fekvő ősi megalitikus sírhalomhoz, és hozzon magával fizikai térképet, mivel a mobil térerő itt gyakran gyenge.",
+            "ro": "Drumeție până la acest vechi tumul megalitic situat într-un cadru natural senin, dar aduceți o hartă fizică deoarece semnalul mobil se poate pierde aici.",
+            "en": "Hike to this ancient megalithic burial mound situated in a serene natural setting, bringing a physical map since mobile signal can drop significantly up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa de Maeda",
+            "hu": "Mámoa de Maeda",
+            "ro": "Mámoa de Maeda",
+            "en": "Mámoa de Maeda"
+          },
+          "coords": [
+            -7.703583,
+            43.747615
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie einen weiteren wichtigen prähistorischen Hügel in der üppig grünen Landschaft und tragen Sie wasserdichte Stiefel für die oft schlammigen Wege.",
+            "hu": "Vizsgáljon meg egy másik fontos őskori halmot a buja zöld tájban, és viseljen vízálló bakancsot, hogy könnyedén megbirkózzon a sárral borított ösvényekkel.",
+            "ro": "Investigați un alt tumul preistoric important ascuns în peisajul verde luxuriant, purtând cizme impermeabile pentru a face față traseelor potențial noroioase.",
+            "en": "Investigate another important prehistoric mound hidden within the lush green landscape, wearing waterproof boots to handle the potentially muddy approach trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa do Chao da Caldeira",
+            "hu": "Mámoa do Chao da Caldeira",
+            "ro": "Mámoa do Chao da Caldeira",
+            "en": "Mámoa do Chao da Caldeira"
+          },
+          "coords": [
+            -7.704763,
+            43.757868
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an dieser gut erhaltenen prähistorischen Stätte auf der Hochebene und nehmen Sie sich einen Moment Zeit für die tiefe Stille.",
+            "hu": "Fejezze be történelmi túráját ennél a jól megőrzött őskori helyszínnél a fennsíkon, és szánjon egy percet arra, hogy egyszerűen magába szívja a terület mély csendjét.",
+            "ro": "Încheiați turul istoric la acest sit preistoric bine conservat de pe câmpiile înalte, luându-vă un moment pentru a absorbi pur și simplu tăcerea profundă a zonei.",
+            "en": "Complete your historical tour at this well-preserved prehistoric site on the elevated plains, taking a moment to simply absorb the profound silence of the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour führt tief in die Geschichte der Region, beginnend mit einer faszinierenden mittelalterlichen Turmruine. Am Mittag fahren Sie durch malerische Täler, um klassische Herrenhäuser und alte Grabhügel zu entdecken. Nachmittags navigieren Sie auf den nördlichen Straßen, um weitere prähistorische Megalithen zu erkunden. Der Abend bietet einen ruhigen Abschluss auf den Plateaus.",
+        "hu": "Autós túrája a régió történelmének mélyére vezet, egy középkori torony lenyűgöző romjával kezdve. Délben festői völgyeken halad keresztül, klasszikus udvarházakat és ősi sírhalmokat fedezve fel. Délután az északi utakon navigálva még több, a tájban rejtőző őskori megalitot talál. Az este nyugodt befejezést kínál a történelmi fennsíkok tetején, ahogy a naplemente aranyba vonja a tájat.",
+        "ro": "Turul cu mașina vă poartă adânc în istoria regiunii, începând cu o ruină fascinantă de turn medieval. Prânzul vă duce prin văi pitorești pentru a descoperi conace clasice și tumuli antici. După-amiaza, veți naviga pe drumurile nordice pentru a descoperi mai mulți megaliți preistorici ascunși. Seara oferă un final liniștit pe platourile istorice, cu vedere asupra peisajului uluitor.",
+        "en": "Your driving tour ventures deep into the region's history, starting with a fascinating medieval tower ruin. Midday takes you through scenic valleys to discover classic manor houses and ancient burial mounds. In the afternoon, you will navigate the northern roads to uncover even more prehistoric megaliths hidden in the landscape. The evening offers a tranquil finish atop the historic plateaus."
+      }
+    }
+  }
+}

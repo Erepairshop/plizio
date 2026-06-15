@@ -1,0 +1,451 @@
+{
+  "city_id": "aurillac",
+  "anchor": {
+    "name": "Aurillac",
+    "coords": [
+      2.4397,
+      44.9253
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:21",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.445471,
+            44.929963
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das als Herzstück des bürgerlichen Lebens von Aurillac dient, und werfen Sie einen Blick auf die Aushänge für lokale Veranstaltungen, bevor Sie durch die Fußgängerzone schlendern.",
+            "hu": "Csodálja meg a városháza neoklasszikus építészetét, amely Aurillac polgári életének központja, és mielőtt továbbsétálna a sétálóutcákon, vessen egy pillantást a helyi események hirdetőtábláira.",
+            "ro": "Admirați arhitectura neoclasică a primăriei, care servește drept inimă a vieții civice din Aurillac, și asigurați-vă că verificați avizierele pentru evenimentele locale viitoare înainte de a vă plimba pe străzile pietonale adiacente.",
+            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Géraud Abbey Church",
+            "hu": "Saint-Géraud Abbey Church",
+            "ro": "Saint-Géraud Abbey Church",
+            "en": "Saint-Géraud Abbey Church"
+          },
+          "coords": [
+            2.445542,
+            44.931774
+          ],
+          "category": "monastic",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese monumentale Abteikirche, um Jahrhunderte klösterlicher Geschichte zu entdecken, aber denken Sie daran, eine leichte Jacke mitzubringen, da die alten Steinmauern das Innere auch im Sommer recht kühl halten.",
+            "hu": "Lépjen be ebbe a monumentális apátsági templomba, hogy felfedezze az évszázados szerzetesi történelmet, de ne felejtsen el egy könnyű kabátot hozni, mivel az ősi kőfalak még nyáron is hűvösen tartják a belső teret.",
+            "ro": "Pășiți în interiorul acestei biserici abațiale monumentale pentru a descoperi secole de istorie monastică, dar nu uitați să luați o jachetă subțire, deoarece zidurile vechi de piatră mențin interiorul destul de răcoros chiar și vara.",
+            "en": "Step inside this monumental abbey church to uncover centuries of monastic history, but remember to bring a light jacket as the ancient stone walls keep the interior quite cool even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-d'Aurinques",
+            "hu": "Chapelle Notre-Dame-d'Aurinques",
+            "ro": "Chapelle Notre-Dame-d'Aurinques",
+            "en": "Chapelle Notre-Dame-d'Aurinques"
+          },
+          "coords": [
+            2.442864,
+            44.930786
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in dieser kleinen, der Beschützerin der Stadt gewidmeten Kapelle, und versuchen Sie, sie zu besuchen, wenn das Nachmittagslicht die wunderschönen Buntglasfenster erhellt.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a város védőszentjének szentelt, meghitt kápolnában, és próbálja meg akkor meglátogatni, amikor a délutáni fény megvilágítja gyönyörű ólomüveg ablakait.",
+            "ro": "Luați-vă un moment de reflecție liniștită în această capelă intimă dedicată protectoarei orașului și încercați să o vizitați când lumina după-amiezii luminează frumoasele sale vitralii.",
+            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-aux-Neiges",
+            "hu": "Église Notre-Dame-aux-Neiges",
+            "ro": "Église Notre-Dame-aux-Neiges",
+            "en": "Église Notre-Dame-aux-Neiges"
+          },
+          "coords": [
+            2.443382,
+            44.927577
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten Linien und die heilige Atmosphäre dieser bemerkenswerten Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails, die ihr friedliches Heiligtum schmücken.",
+            "hu": "Fedezze fel e figyelemre méltó templom elegáns vonalait és szakrális atmoszféráját, miközben érdemes megfigyelni a békés szentélyt díszítő, bonyolult fafaragásokat.",
+            "ro": "Explorați liniile elegante și atmosfera sacră a acestei biserici notabile, fiind atenți la detaliile din lemn sculptate complicat care îi împodobesc sanctuarul pașnic.",
+            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Carmes Garden",
+            "hu": "Carmes Garden",
+            "ro": "Carmes Garden",
+            "en": "Carmes Garden"
+          },
+          "coords": [
+            2.443288,
+            44.925254
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
+            "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
+            "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Rathaus und genießen Sie das ruhige bürgerliche Zentrum, bevor Sie zur monumentalen Abteikirche Saint-Géraud schlendern. Lassen Sie sich mittags von der spirituellen Ruhe der Chapelle Notre-Dame-d'Aurinques und der Église Notre-Dame-aux-Neiges durch Aurillacs charmanten Kern führen. Wenn der Nachmittag anbricht, ziehen Sie sich auf die üppigen Wege des Carmes-Gartens zurück. Beenden Sie Ihren Tag und genießen Sie das sanfte Abendlicht unter den alten Bäumen.",
+        "hu": "Kezdje a reggelt a történelmi Városházánál, elmerülve a nyugodt polgári központ hangulatában, mielőtt a monumentális Saint-Géraud apátsági templomhoz sétálna. Délben hagyja, hogy a Chapelle Notre-Dame-d'Aurinques és az Église Notre-Dame-aux-Neiges spirituális nyugalma vezesse lépteit Aurillac bájos központjában. A délután folyamán vonuljon vissza a Carmes-kert buja ösvényeire, amely ideális zöld oázis a pihenéshez. Zárja a napot a kert ősi fáinak lombkoronája alatt a lágy esti fényekben gyönyörködve.",
+        "ro": "Începeți dimineața la istorica Primărie, admirând centrul civic liniștit înainte de a vă îndrepta spre monumentala Biserică Abațială Saint-Géraud. La prânz, lăsați liniștea spirituală de la Chapelle Notre-Dame-d'Aurinques și Église Notre-Dame-aux-Neiges să vă ghideze pașii prin inima orașului Aurillac. Pe măsură ce după-amiaza se desfășoară, retrageți-vă pe potecile luxuriante din Grădina Carmes, o oază verde ideală pentru relaxare. Încheiați-vă ziua sub bolta copacilor seculari din grădină.",
+        "en": "Start your morning at the historic Hôtel de Ville, taking in the serene civic center before meandering towards the monumental Saint-Géraud Abbey Church. By midday, allow the spiritual tranquility of Chapelle Notre-Dame-d'Aurinques and Église Notre-Dame-aux-Neiges to guide your steps through Aurillac’s charming core. As the afternoon unfolds, retreat to the lush pathways of the Carmes Garden, an ideal green oasis for relaxation. End your day soaking in the gentle evening light under the canopy of ancient trees in the garden."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 2.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            2.434992,
+            44.922934
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der imposanten Fassade dieser markanten Kirche, um ihren besonderen architektonischen Stil zu schätzen, und besuchen Sie sie in den frühen Morgenstunden, um die ungestörte Ruhe des umliegenden Platzes zu genießen.",
+            "hu": "Álljon meg e lenyűgöző templom impozáns homlokzata előtt, hogy megcsodálja egyedi építészeti stílusát, és látogasson el a kora reggeli órákban, hogy élvezze a környező tér zavartalan nyugalmát.",
+            "ro": "Stați în fața fațadei impunătoare a acestei biserici izbitoare pentru a-i aprecia stilul arhitectural distinct și vizitați-o în primele ore ale dimineții pentru a vă bucura de liniștea netulburată a pieței din jur.",
+            "en": "Stand before the imposing facade of this striking church to appreciate its distinct architectural style, and visit during early morning hours to enjoy the undisturbed tranquility of the surrounding square."
+          }
+        },
+        {
+          "name": {
+            "de": "Carmes Garden",
+            "hu": "Carmes Garden",
+            "ro": "Carmes Garden",
+            "en": "Carmes Garden"
+          },
+          "coords": [
+            2.443288,
+            44.925254
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
+            "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
+            "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.445471,
+            44.929963
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das als Herzstück des bürgerlichen Lebens von Aurillac dient, und werfen Sie einen Blick auf die Aushänge für lokale Veranstaltungen, bevor Sie durch die Fußgängerzone schlendern.",
+            "hu": "Csodálja meg a városháza neoklasszikus építészetét, amely Aurillac polgári életének központja, és mielőtt továbbsétálna a sétálóutcákon, vessen egy pillantást a helyi események hirdetőtábláira.",
+            "ro": "Admirați arhitectura neoclasică a primăriei, care servește drept inimă a vieții civice din Aurillac, și asigurați-vă că verificați avizierele pentru evenimentele locale viitoare înainte de a vă plimba pe străzile pietonale adiacente.",
+            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-d'Aurinques",
+            "hu": "Chapelle Notre-Dame-d'Aurinques",
+            "ro": "Chapelle Notre-Dame-d'Aurinques",
+            "en": "Chapelle Notre-Dame-d'Aurinques"
+          },
+          "coords": [
+            2.442864,
+            44.930786
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in dieser kleinen, der Beschützerin der Stadt gewidmeten Kapelle, und versuchen Sie, sie zu besuchen, wenn das Nachmittagslicht die wunderschönen Buntglasfenster erhellt.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a város védőszentjének szentelt, meghitt kápolnában, és próbálja meg akkor meglátogatni, amikor a délutáni fény megvilágítja gyönyörű ólomüveg ablakait.",
+            "ro": "Luați-vă un moment de reflecție liniștită în această capelă intimă dedicată protectoarei orașului și încercați să o vizitați când lumina după-amiezii luminează frumoasele sale vitralii.",
+            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Castle",
+            "hu": "Saint-Étienne Castle",
+            "ro": "Saint-Étienne Castle",
+            "en": "Saint-Étienne Castle"
+          },
+          "coords": [
+            2.44595,
+            44.9345
+          ],
+          "category": "fortress",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die hoch aufragenden Zinnen und das reiche Regionalmuseum in dieser imposanten mittelalterlichen Festung, und vergessen Sie nicht, den Hauptfriedrich zu besteigen, um einen weiten Panoramablick über die Dächer von Aurillac zu genießen.",
+            "hu": "Fedezze fel az impozáns középkori erődítmény magasodó bástyáit és gazdag regionális múzeumát, és ne hagyja ki a főtorony megmászását sem, ahonnan pazar panoráma nyílik Aurillac háztetőire.",
+            "ro": "Descoperiți crenelurile falnice și bogatul muzeu regional găzduit în această impunătoare fortăreață medievală și nu uitați să urcați în turnul principal pentru vederi panoramice ample asupra acoperișurilor din Aurillac.",
+            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Abbatiale Saint-Géraud",
+            "hu": "Église Abbatiale Saint-Géraud",
+            "ro": "Église Abbatiale Saint-Géraud",
+            "en": "Église Abbatiale Saint-Géraud"
+          },
+          "coords": [
+            2.448498,
+            44.93156
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartigen Dimensionen und die historische Tiefe dieser Abteikirche, die das spirituelle Erbe der Stadt verankert, und nehmen Sie sich Zeit für einen langsamen Spaziergang um das Äußere, um die Mauerwerksarbeiten zu schätzen.",
+            "hu": "Csodálja meg ennek az apátsági templomnak a lenyűgöző méreteit és történelmi mélységét, amely a város szellemi örökségét őrzi, és szánjon időt egy lassú sétára a külső falak körül a kőművesmunka megfigyelésére.",
+            "ro": "Minunați-vă de dimensiunile grandioase și profunzimea istorică a acestei biserici abațiale care ancorează moștenirea spirituală a orașului, făcându-vă timp să vă plimbați încet pe exterior pentru a aprecia zidăria.",
+            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der beeindruckenden Église du Sacré-Cœur, bevor Sie zum erfrischenden Grün des Carmes-Gartens radeln. Fahren Sie zur Mittagszeit durch die zentralen Straßen zum Rathaus und zur bezaubernden Chapelle Notre-Dame-d'Aurinques. Der Nachmittag fordert Sie mit einem kurzen Aufstieg zum mächtigen Schloss Saint-Étienne für einen Panoramablick heraus. Lassen Sie Ihren dynamischen Reittag an der herrlichen Église Abbatiale Saint-Géraud ausklingen.",
+        "hu": "Kezdje kerékpártúráját az impozáns Église du Sacré-Cœur templomnál, bemelegítve a Carmes-kert frissítő zöldjébe vezető tekerés előtt. Ebédidőre kerekezzen át a központi utcákon a Városházához és a hangulatos Chapelle Notre-Dame-d'Aurinques-hez. A délután egy rövid emelkedővel vár a lenyűgöző Saint-Étienne kastélyhoz a pazar kilátásért. Vezesse le a dinamikus napot a csodálatos Église Abbatiale Saint-Géraud templomnál, miközben a város lassan elcsendesedik.",
+        "ro": "Începeți turul cu bicicleta la impunătoarea Église du Sacré-Cœur, încălzindu-vă înainte de a pedala spre verdeața răcoritoare din Grădina Carmes. Până la prânz, mergeți pe străzile centrale până la Primărie și fermecătoarea Chapelle Notre-Dame-d'Aurinques. După-amiaza vă provoacă cu o scurtă urcare la falnicul Castel Saint-Étienne pentru recompense panoramice. Încheiați ziua dinamică de pedalat la magnifica Église Abbatiale Saint-Géraud.",
+        "en": "Kick off your cycling tour at the commanding Église du Sacré-Cœur, warming up before pedaling to the refreshing greenery of the Carmes Garden. By lunchtime, ride through the central streets to the Hôtel de Ville and the charming Chapelle Notre-Dame-d'Aurinques. The afternoon challenges you with a short ascent to the mighty Saint-Étienne Castle for panoramic rewards. Wind down your dynamic day of riding at the magnificent Église Abbatiale Saint-Géraud as the town quiets down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 3.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miny toons",
+            "hu": "Miny toons",
+            "ro": "Miny toons",
+            "en": "Miny toons"
+          },
+          "coords": [
+            2.42321,
+            44.917033
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gönnen Sie den jüngeren Reisenden eine energiegeladene Sitzung in diesem beliebten Familienunterhaltungszentrum, wo das Mitbringen rutschfester Socken von zu Hause Ihnen an der Kasse Zeit und Geld spart.",
+            "hu": "Ajándékozza meg a fiatalabb utazókat egy energikus programmal ebben a népszerű családi szórakoztató központban, ahol az otthonról hozott csúszásgátló zoknival időt és pénzt takaríthat meg a bejáratnál.",
+            "ro": "Oferiți tinerilor călători o sesiune plină de energie la acest popular centru de divertisment de familie, unde aducerea de șosete antiderapante de acasă vă va economisi timp și bani la intrare.",
+            "en": "Treat the younger travelers to an energetic session at this popular family entertainment center, where bringing non-slip socks from home will save you time and money at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fanum d'Aron",
+            "hu": "Fanum d'Aron",
+            "ro": "Fanum d'Aron",
+            "en": "Fanum d'Aron"
+          },
+          "coords": [
+            2.421426,
+            44.915708
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die alten Fundamente dieses gallorömischen Tempels, der lokalen Gottheiten gewidmet ist, und tragen Sie feste Wanderschuhe, da das Gelände rund um die archäologische Stätte etwas uneben sein kann.",
+            "hu": "Sétáljon a helyi istenségeknek szentelt gall-római templom ősi alapjai között, de viseljen kényelmes túracipőt, mivel a régészeti lelőhely körüli terep némileg egyenetlen lehet.",
+            "ro": "Plimbați-vă printre fundațiile antice ale acestui templu galo-roman dedicat zeităților locale și purtați pantofi rezistenți de mers, deoarece terenul din jurul sitului arheologic poate fi destul de denivelat.",
+            "en": "Walk among the ancient foundations of this Gallo-Roman temple dedicated to local deities, and wear sturdy walking shoes as the terrain around the archaeological site can be somewhat uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Carmes Garden",
+            "hu": "Carmes Garden",
+            "ro": "Carmes Garden",
+            "en": "Carmes Garden"
+          },
+          "coords": [
+            2.443288,
+            44.925254
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.01,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
+            "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
+            "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-aux-Neiges",
+            "hu": "Église Notre-Dame-aux-Neiges",
+            "ro": "Église Notre-Dame-aux-Neiges",
+            "en": "Église Notre-Dame-aux-Neiges"
+          },
+          "coords": [
+            2.443382,
+            44.927577
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten Linien und die heilige Atmosphäre dieser bemerkenswerten Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails, die ihr friedliches Heiligtum schmücken.",
+            "hu": "Fedezze fel e figyelemre méltó templom elegáns vonalait és szakrális atmoszféráját, miközben érdemes megfigyelni a békés szentélyt díszítő, bonyolult fafaragásokat.",
+            "ro": "Explorați liniile elegante și atmosfera sacră a acestei biserici notabile, fiind atenți la detaliile din lemn sculptate complicat care îi împodobesc sanctuarul pașnic.",
+            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Castle",
+            "hu": "Saint-Étienne Castle",
+            "ro": "Saint-Étienne Castle",
+            "en": "Saint-Étienne Castle"
+          },
+          "coords": [
+            2.44595,
+            44.9345
+          ],
+          "category": "fortress",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die hoch aufragenden Zinnen und das reiche Regionalmuseum in dieser imposanten mittelalterlichen Festung, und vergessen Sie nicht, den Hauptfriedrich zu besteigen, um einen weiten Panoramablick über die Dächer von Aurillac zu genießen.",
+            "hu": "Fedezze fel az impozáns középkori erődítmény magasodó bástyáit és gazdag regionális múzeumát, és ne hagyja ki a főtorony megmászását sem, ahonnan pazar panoráma nyílik Aurillac háztetőire.",
+            "ro": "Descoperiți crenelurile falnice și bogatul muzeu regional găzduit în această impunătoare fortăreață medievală și nu uitați să urcați în turnul principal pentru vederi panoramice ample asupra acoperișurilor din Aurillac.",
+            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Abbatiale Saint-Géraud",
+            "hu": "Église Abbatiale Saint-Géraud",
+            "ro": "Église Abbatiale Saint-Géraud",
+            "en": "Église Abbatiale Saint-Géraud"
+          },
+          "coords": [
+            2.448498,
+            44.93156
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartigen Dimensionen und die historische Tiefe dieser Abteikirche, die das spirituelle Erbe der Stadt verankert, und nehmen Sie sich Zeit für einen langsamen Spaziergang um das Äußere, um die Mauerwerksarbeiten zu schätzen.",
+            "hu": "Csodálja meg ennek az apátsági templomnak a lenyűgöző méreteit és történelmi mélységét, amely a város szellemi örökségét őrzi, és szánjon időt egy lassú sétára a külső falak körül a kőművesmunka megfigyelésére.",
+            "ro": "Minunați-vă de dimensiunile grandioase și profunzimea istorică a acestei biserici abațiale care ancorează moștenirea spirituală a orașului, făcându-vă timp să vă plimbați încet pe exterior pentru a aprecia zidăria.",
+            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrtroute am Stadtrand mit einem spielerischen Start bei Miny Toons, gefolgt von der Erkundung der alten Ruinen des Fanum d'Aron. Kehren Sie mittags in die Innenstadt zurück, um zu parken und die Ruhe des Carmes-Gartens und der Église Notre-Dame-aux-Neiges zu genießen. Fahren Sie nachmittags zu den Höhen des Schlosses Saint-Étienne, um jahrhundertelange Geschichte aufzunehmen. Schließen Sie Ihren Roadtrip vor der Dämmerung an der Biserica Abațială ab.",
+        "hu": "Kezdje autós útitervét a külvárosban egy vidám megállóval a Miny Toons-nál, amelyet a Fanum d'Aron ókori romjainak felfedezése követ. Délre érjen vissza a városközpontba, hogy leparkolva élvezze a Carmes-kert és az Église Notre-Dame-aux-Neiges nyugalmát. Délután hajtson fel a Saint-Étienne kastély parancsoló magasságaiba, hogy magába szívja a történelmet. Zárja az átfogó autós kirándulást a lenyűgöző Église Abbatiale Saint-Géraud templomnál szürkület előtt.",
+        "ro": "Începeți traseul auto la periferie cu un start ludic la Miny Toons, urmat rapid de explorarea ruinelor antice de la Fanum d'Aron. Ajungeți înapoi în centrul orașului la prânz pentru a parca și a vă bucura de liniștea Grădinii Carmes și a Église Notre-Dame-aux-Neiges. Pentru după-amiază, conduceți până la înălțimile impunătoare ale Castelului Saint-Étienne pentru a absorbi secole de istorie. Încheiați călătoria cuprinzătoare la impresionanta Église Abbatiale Saint-Géraud.",
+        "en": "Begin your driving itinerary on the outskirts with a playful start at Miny Toons, quickly followed by exploring the ancient ruins of Fanum d'Aron. Arrive back in the city center by midday to park and enjoy the tranquility of the Carmes Garden and Église Notre-Dame-aux-Neiges. For the afternoon, drive up to the commanding heights of Saint-Étienne Castle to absorb centuries of history. Conclude your comprehensive road trip at the awe-inspiring Église Abbatiale Saint-Géraud before dusk."
+      }
+    }
+  }
+}

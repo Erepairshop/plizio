@@ -1,0 +1,497 @@
+{
+  "city_id": "sigean",
+  "anchor": {
+    "name": "Sigean",
+    "coords": [
+      2.9778,
+      43.0281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 10.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée des Corbières",
+            "hu": "Musée des Corbières",
+            "ro": "Musée des Corbières",
+            "en": "Musée des Corbières"
+          },
+          "coords": [
+            2.979452,
+            43.028899
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Regionalgeschichte in diesem ehemaligen Bürgerhaus, in dem römische Artefakte glänzen, aber prüfen Sie die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag regionális történelmet ebben a korábbi polgári házban, ahol római leletek ragyognak, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria regională bogată în această fostă casă burgheză, unde strălucesc artefacte romane, dar verificați programul de funcționare sezonier înainte.",
+            "en": "Discover rich regional history inside this former bourgeois house, where Roman artifacts shine, but check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Halles de Sigean",
+            "hu": "Les Halles de Sigean",
+            "ro": "Les Halles de Sigean",
+            "en": "Les Halles de Sigean"
+          },
+          "coords": [
+            2.985008,
+            43.031613
+          ],
+          "category": "civic",
+          "arrive_at": "10:59",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre dieser historischen überdachten Markthalle, die das Herz der Stadt bildet, idealerweise früh am Morgen für frische lokale Produkte.",
+            "hu": "Csodálja meg ennek a történelmi fedett piacnak a nyüzsgő atmoszféráját, amely még mindig a város szíve, és jöjjön minél korábban a legfrissebb helyi termékekért.",
+            "ro": "Admirați atmosfera locală vibrantă a acestei piețe acoperite istorice, care rămâne inima orașului, de preferat vizitată devreme pentru cele mai proaspete produse.",
+            "en": "Admire the vibrant local atmosphere of this historic covered market which still forms the town's beating heart, ideally visited early for the freshest local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de Pech Maho",
+            "hu": "Oppidum de Pech Maho",
+            "ro": "Oppidum de Pech Maho",
+            "en": "Oppidum de Pech Maho"
+          },
+          "coords": [
+            2.956222,
+            43.045681
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen eines alten vorrömischen Handelspostens von immensem archäologischen Wert und tragen Sie festes Schuhwerk für das unebene, felsige Gelände.",
+            "hu": "Fedezze fel egy ősi, római kor előtti kereskedelmi állomás hatalmas régészeti értékű romjait, és viseljen zárt cipőt a sziklás, egyenetlen terep biztonságos bejárásához.",
+            "ro": "Explorați ruinele unui vechi punct comercial pre-roman cu o imensă valoare arheologică și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul stâncos.",
+            "en": "Explore the ruins of an ancient pre-Roman trading post that offers immense archaeological value, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve Africaine de Sigean",
+            "hu": "Réserve Africaine de Sigean",
+            "ro": "Réserve Africaine de Sigean",
+            "en": "Réserve Africaine de Sigean"
+          },
+          "coords": [
+            2.953563,
+            43.068135
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von frei lebenden Wildtieren in diesem spektakulären Naturschutzpark, aber bringen Sie ein Fernglas mit, um die Vogelwelt an den Feuchtgebieten zu erspähen.",
+            "hu": "Figyeljen meg több ezer szabadon kószáló vadállatot ebben a látványos természetvédelmi parkban, de mindenképpen hozzon távcsövet a vizes élőhelyek madárvilágának megfigyeléséhez.",
+            "ro": "Observați mii de animale sălbatice libere în acest parc de conservare spectaculos, dar aduceți binoclul pentru a zări avifauna diversă din jurul zonelor umede.",
+            "en": "Observe thousands of free-roaming wild animals in this spectacular conservation park, but arrive with binoculars to spot the diverse birdlife around the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Sigean",
+            "hu": "Étang de Sigean",
+            "ro": "Étang de Sigean",
+            "en": "Étang de Sigean"
+          },
+          "coords": [
+            3.011965,
+            43.056065
+          ],
+          "category": "natural",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 73,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Südufern des Lagunennetzwerks, um den Tag ausklingen zu lassen, und halten Sie Ausschau nach rosa Flamingos im flachen Wasser.",
+            "hu": "Zárja a napot lazítással a lagúnarendszer békés déli partjainál, nyitott szemmel járva, hogy megpillanthassa a sekély vízben táplálkozó rózsaszín flamingókat.",
+            "ro": "Relaxați-vă pe malurile sudice liniștite ale rețelei de lagune pentru a vă încheia ziua, fiind cu ochii în patru după stolurile de flamingo roz care se hrănesc.",
+            "en": "Relax by the tranquil southern shores of the lagoon network to wrap up your day, keeping an eye out for flocks of pink flamingos grazing in the shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sigean beginnt damit, in das historische Herz der Stadt einzutauchen, römische Artefakte zu erkunden und die Atmosphäre des alten Marktes zu genießen.\nWenn die Sonne höher steht, wechseln Sie vom städtischen Erbe zur rauen archäologischen Stätte Pech Maho, die antike Handelswege mit wilden Landschaften verbindet.\nDer Nachmittag ist der atemberaubenden Natur gewidmet und bringt Sie in direkten Kontakt mit wilden Tieren und den surrealen Holzstegen über schimmernde Salzpfannen.\nLassen Sie Ihre Reise an den ruhigen Ufern des riesigen Lagunennetzwerks ausklingen und beobachten Sie, wie das Sonnenlicht schwindet, während Flamingos zur Ruhe kommen.",
+        "hu": "Sigeani napja a város történelmi szívében kezdődik, ahol ókori római leletekkel és a régi piac nyüzsgő atmoszférájával ismerkedhet meg, megalapozva a helyi hangulatot.\nAhogy a nap magasabbra hág, a városi örökségtől a zord Pech Maho régészeti lelőhelye felé veszi az irányt, hidat verve az ősi kereskedelmi utak és a vad táj közé.\nA délutánt a lenyűgöző természetnek szenteljük: szabadon kószáló vadállatokkal találkozhat, és szürreális fapallókon sétálhat a csillogó sólepárlók felett.\nZárja utazását a hatalmas lagúnarendszer békés partjainál, figyelve a víz felett elhalványuló napfényt, miközben a flamingók lassan nyugovóra térnek az alkonyatban.",
+        "ro": "Ziua ta în Sigean începe prin cufundarea în inima istorică a orașului, explorând artefacte romane antice și atmosfera plină de viață a vechii piețe locale.\nPe măsură ce soarele urcă, faceți tranziția de la moștenirea urbană la situl arheologic accidentat Pech Maho, legând vechile rute comerciale de peisajele sălbatice.\nDupă-amiaza este dedicată naturii uimitoare, aducându-vă față în față cu animalele sălbatice și cu plimbările suprarealiste pe pontoane de lemn peste saline.\nÎncheiați-vă călătoria pe marginile senine ale vastei rețele de lagune, urmărind cum lumina soarelui dispare peste ape, iar păsările flamingo se odihnesc.",
+        "en": "Your Sigean day begins by immersing yourself in the historic heart of the town, exploring ancient Roman artifacts and the bustling atmosphere of the old market, setting a lively local tone.\nAs the sun climbs, you transition from urban heritage to the rugged archaeological site of Pech Maho, bridging the gap between ancient trade routes and wild landscapes.\nThe afternoon is dedicated to awe-inspiring nature, bringing you face-to-face with free-roaming wildlife and the surreal, elevated wooden pontoon walks over shimmering salt pans.\nWind down your journey along the serene edges of the vast lagoon network, watching the sunlight fade over the waters as flamingos settle into the tranquil coastal dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 13.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée des Corbières",
+            "hu": "Musée des Corbières",
+            "ro": "Musée des Corbières",
+            "en": "Musée des Corbières"
+          },
+          "coords": [
+            2.979452,
+            43.028899
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Regionalgeschichte in diesem ehemaligen Bürgerhaus, in dem römische Artefakte glänzen, aber prüfen Sie die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag regionális történelmet ebben a korábbi polgári házban, ahol római leletek ragyognak, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria regională bogată în această fostă casă burgheză, unde strălucesc artefacte romane, dar verificați programul de funcționare sezonier înainte.",
+            "en": "Discover rich regional history inside this former bourgeois house, where Roman artifacts shine, but check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de Pech Maho",
+            "hu": "Oppidum de Pech Maho",
+            "ro": "Oppidum de Pech Maho",
+            "en": "Oppidum de Pech Maho"
+          },
+          "coords": [
+            2.956222,
+            43.045681
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen eines alten vorrömischen Handelspostens von immensem archäologischen Wert und tragen Sie festes Schuhwerk für das unebene, felsige Gelände.",
+            "hu": "Fedezze fel egy ősi, római kor előtti kereskedelmi állomás hatalmas régészeti értékű romjait, és viseljen zárt cipőt a sziklás, egyenetlen terep biztonságos bejárásához.",
+            "ro": "Explorați ruinele unui vechi punct comercial pre-roman cu o imensă valoare arheologică și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul stâncos.",
+            "en": "Explore the ruins of an ancient pre-Roman trading post that offers immense archaeological value, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve Africaine de Sigean",
+            "hu": "Réserve Africaine de Sigean",
+            "ro": "Réserve Africaine de Sigean",
+            "en": "Réserve Africaine de Sigean"
+          },
+          "coords": [
+            2.953563,
+            43.068135
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von frei lebenden Wildtieren in diesem spektakulären Naturschutzpark, aber bringen Sie ein Fernglas mit, um die Vogelwelt an den Feuchtgebieten zu erspähen.",
+            "hu": "Figyeljen meg több ezer szabadon kószáló vadállatot ebben a látványos természetvédelmi parkban, de mindenképpen hozzon távcsövet a vizes élőhelyek madárvilágának megfigyeléséhez.",
+            "ro": "Observați mii de animale sălbatice libere în acest parc de conservare spectaculos, dar aduceți binoclul pentru a zări avifauna diversă din jurul zonelor umede.",
+            "en": "Observe thousands of free-roaming wild animals in this spectacular conservation park, but arrive with binoculars to spot the diverse birdlife around the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Peyriac-de-Mer",
+            "hu": "Étang de Peyriac-de-Mer",
+            "ro": "Étang de Peyriac-de-Mer",
+            "en": "Étang de Peyriac-de-Mer"
+          },
+          "coords": [
+            2.970474,
+            43.078591
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den wunderschönen Holzstegen durch die alten Salzpfannen und achten Sie darauf, auf den markierten Wegen zu bleiben, um das Ökosystem zu schützen.",
+            "hu": "Sétáljon végig a régi sólepárlókat átszelő gyönyörű fapallókon, de a törékeny ökoszisztéma védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă pe frumoasele pontoane de lemn care traversează vechile saline, asigurându-vă că rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Walk along the beautiful wooden pontoon pathways traversing the old salt pans, making sure to stick to the marked trails to protect the delicate ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bages-Sigean",
+            "hu": "Étang de Bages-Sigean",
+            "ro": "Étang de Bages-Sigean",
+            "en": "Étang de Bages-Sigean"
+          },
+          "coords": [
+            3.00194,
+            43.0917
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über diese weite Küstenlagune mit traditionellen Fischerbooten, die man am besten zur goldenen Stunde fotografiert.",
+            "hu": "Élvezze a hagyományos halászhajókkal pettyezett hatalmas parti lagúna lélegzetelállító panorámáját, amelyet a tökéletes fényviszonyokhoz a leginkább naplemente előtt érdemes fotózni.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare peste această vastă lagună de coastă presărată cu bărci tradiționale de pescari, cel mai bine de fotografiat la apus.",
+            "en": "Enjoy breathtaking panoramic views across this vast coastal lagoon dotted with traditional fishing boats, best photographed during the golden hour for perfect lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Sigean",
+            "hu": "Étang de Sigean",
+            "ro": "Étang de Sigean",
+            "en": "Étang de Sigean"
+          },
+          "coords": [
+            3.011965,
+            43.056065
+          ],
+          "category": "natural",
+          "arrive_at": "17:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Südufern des Lagunennetzwerks, um den Tag ausklingen zu lassen, und halten Sie Ausschau nach rosa Flamingos im flachen Wasser.",
+            "hu": "Zárja a napot lazítással a lagúnarendszer békés déli partjainál, nyitott szemmel járva, hogy megpillanthassa a sekély vízben táplálkozó rózsaszín flamingókat.",
+            "ro": "Relaxați-vă pe malurile sudice liniștite ale rețelei de lagune pentru a vă încheia ziua, fiind cu ochii în patru după stolurile de flamingo roz care se hrănesc.",
+            "en": "Relax by the tranquil southern shores of the lagoon network to wrap up your day, keeping an eye out for flocks of pink flamingos grazing in the shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sigean beginnt damit, in das historische Herz der Stadt einzutauchen, römische Artefakte zu erkunden und die Atmosphäre des alten Marktes zu genießen.\nWenn die Sonne höher steht, wechseln Sie vom städtischen Erbe zur rauen archäologischen Stätte Pech Maho, die antike Handelswege mit wilden Landschaften verbindet.\nDer Nachmittag ist der atemberaubenden Natur gewidmet und bringt Sie in direkten Kontakt mit wilden Tieren und den surrealen Holzstegen über schimmernde Salzpfannen.\nLassen Sie Ihre Reise an den ruhigen Ufern des riesigen Lagunennetzwerks ausklingen und beobachten Sie, wie das Sonnenlicht schwindet, während Flamingos zur Ruhe kommen.",
+        "hu": "Sigeani napja a város történelmi szívében kezdődik, ahol ókori római leletekkel és a régi piac nyüzsgő atmoszférájával ismerkedhet meg, megalapozva a helyi hangulatot.\nAhogy a nap magasabbra hág, a városi örökségtől a zord Pech Maho régészeti lelőhelye felé veszi az irányt, hidat verve az ősi kereskedelmi utak és a vad táj közé.\nA délutánt a lenyűgöző természetnek szenteljük: szabadon kószáló vadállatokkal találkozhat, és szürreális fapallókon sétálhat a csillogó sólepárlók felett.\nZárja utazását a hatalmas lagúnarendszer békés partjainál, figyelve a víz felett elhalványuló napfényt, miközben a flamingók lassan nyugovóra térnek az alkonyatban.",
+        "ro": "Ziua ta în Sigean începe prin cufundarea în inima istorică a orașului, explorând artefacte romane antice și atmosfera plină de viață a vechii piețe locale.\nPe măsură ce soarele urcă, faceți tranziția de la moștenirea urbană la situl arheologic accidentat Pech Maho, legând vechile rute comerciale de peisajele sălbatice.\nDupă-amiaza este dedicată naturii uimitoare, aducându-vă față în față cu animalele sălbatice și cu plimbările suprarealiste pe pontoane de lemn peste saline.\nÎncheiați-vă călătoria pe marginile senine ale vastei rețele de lagune, urmărind cum lumina soarelui dispare peste ape, iar păsările flamingo se odihnesc.",
+        "en": "Your Sigean day begins by immersing yourself in the historic heart of the town, exploring ancient Roman artifacts and the bustling atmosphere of the old market, setting a lively local tone.\nAs the sun climbs, you transition from urban heritage to the rugged archaeological site of Pech Maho, bridging the gap between ancient trade routes and wild landscapes.\nThe afternoon is dedicated to awe-inspiring nature, bringing you face-to-face with free-roaming wildlife and the surreal, elevated wooden pontoon walks over shimmering salt pans.\nWind down your journey along the serene edges of the vast lagoon network, watching the sunlight fade over the waters as flamingos settle into the tranquil coastal dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:17",
+      "total_km": 14.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée des Corbières",
+            "hu": "Musée des Corbières",
+            "ro": "Musée des Corbières",
+            "en": "Musée des Corbières"
+          },
+          "coords": [
+            2.979452,
+            43.028899
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Regionalgeschichte in diesem ehemaligen Bürgerhaus, in dem römische Artefakte glänzen, aber prüfen Sie die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag regionális történelmet ebben a korábbi polgári házban, ahol római leletek ragyognak, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria regională bogată în această fostă casă burgheză, unde strălucesc artefacte romane, dar verificați programul de funcționare sezonier înainte.",
+            "en": "Discover rich regional history inside this former bourgeois house, where Roman artifacts shine, but check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Halles de Sigean",
+            "hu": "Les Halles de Sigean",
+            "ro": "Les Halles de Sigean",
+            "en": "Les Halles de Sigean"
+          },
+          "coords": [
+            2.985008,
+            43.031613
+          ],
+          "category": "civic",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre dieser historischen überdachten Markthalle, die das Herz der Stadt bildet, idealerweise früh am Morgen für frische lokale Produkte.",
+            "hu": "Csodálja meg ennek a történelmi fedett piacnak a nyüzsgő atmoszféráját, amely még mindig a város szíve, és jöjjön minél korábban a legfrissebb helyi termékekért.",
+            "ro": "Admirați atmosfera locală vibrantă a acestei piețe acoperite istorice, care rămâne inima orașului, de preferat vizitată devreme pentru cele mai proaspete produse.",
+            "en": "Admire the vibrant local atmosphere of this historic covered market which still forms the town's beating heart, ideally visited early for the freshest local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de Pech Maho",
+            "hu": "Oppidum de Pech Maho",
+            "ro": "Oppidum de Pech Maho",
+            "en": "Oppidum de Pech Maho"
+          },
+          "coords": [
+            2.956222,
+            43.045681
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen eines alten vorrömischen Handelspostens von immensem archäologischen Wert und tragen Sie festes Schuhwerk für das unebene, felsige Gelände.",
+            "hu": "Fedezze fel egy ősi, római kor előtti kereskedelmi állomás hatalmas régészeti értékű romjait, és viseljen zárt cipőt a sziklás, egyenetlen terep biztonságos bejárásához.",
+            "ro": "Explorați ruinele unui vechi punct comercial pre-roman cu o imensă valoare arheologică și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul stâncos.",
+            "en": "Explore the ruins of an ancient pre-Roman trading post that offers immense archaeological value, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve Africaine de Sigean",
+            "hu": "Réserve Africaine de Sigean",
+            "ro": "Réserve Africaine de Sigean",
+            "en": "Réserve Africaine de Sigean"
+          },
+          "coords": [
+            2.953563,
+            43.068135
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von frei lebenden Wildtieren in diesem spektakulären Naturschutzpark, aber bringen Sie ein Fernglas mit, um die Vogelwelt an den Feuchtgebieten zu erspähen.",
+            "hu": "Figyeljen meg több ezer szabadon kószáló vadállatot ebben a látványos természetvédelmi parkban, de mindenképpen hozzon távcsövet a vizes élőhelyek madárvilágának megfigyeléséhez.",
+            "ro": "Observați mii de animale sălbatice libere în acest parc de conservare spectaculos, dar aduceți binoclul pentru a zări avifauna diversă din jurul zonelor umede.",
+            "en": "Observe thousands of free-roaming wild animals in this spectacular conservation park, but arrive with binoculars to spot the diverse birdlife around the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Peyriac-de-Mer",
+            "hu": "Étang de Peyriac-de-Mer",
+            "ro": "Étang de Peyriac-de-Mer",
+            "en": "Étang de Peyriac-de-Mer"
+          },
+          "coords": [
+            2.970474,
+            43.078591
+          ],
+          "category": "natural",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den wunderschönen Holzstegen durch die alten Salzpfannen und achten Sie darauf, auf den markierten Wegen zu bleiben, um das Ökosystem zu schützen.",
+            "hu": "Sétáljon végig a régi sólepárlókat átszelő gyönyörű fapallókon, de a törékeny ökoszisztéma védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă pe frumoasele pontoane de lemn care traversează vechile saline, asigurându-vă că rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Walk along the beautiful wooden pontoon pathways traversing the old salt pans, making sure to stick to the marked trails to protect the delicate ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Doul",
+            "hu": "Étang du Doul",
+            "ro": "Étang du Doul",
+            "en": "Étang du Doul"
+          },
+          "coords": [
+            2.973807,
+            43.09013
+          ],
+          "category": "natural",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige hypersaline Lagune mit ihrer atemberaubend hohen Salzkonzentration und bringen Sie einen Hut mit, da die umliegenden Hügel keinen Schatten bieten.",
+            "hu": "Csodálja meg a kivételesen magas sókoncentrációjú, egyedülálló hiperszikes lagúnát, és hozzon magával kalapot, mivel a környező dombokon nyáron egyáltalán nincs árnyék.",
+            "ro": "Minunați-vă de laguna hipersalină unică care se mândrește cu o concentrație uriașă de sare și aduceți o pălărie deoarece dealurile din jur nu oferă deloc umbră.",
+            "en": "Marvel at the unique hypersaline lagoon which boasts a stunningly high salt concentration, and bring a hat since the surrounding hills offer zero shade in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bages-Sigean",
+            "hu": "Étang de Bages-Sigean",
+            "ro": "Étang de Bages-Sigean",
+            "en": "Étang de Bages-Sigean"
+          },
+          "coords": [
+            3.00194,
+            43.0917
+          ],
+          "category": "natural",
+          "arrive_at": "17:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über diese weite Küstenlagune mit traditionellen Fischerbooten, die man am besten zur goldenen Stunde fotografiert.",
+            "hu": "Élvezze a hagyományos halászhajókkal pettyezett hatalmas parti lagúna lélegzetelállító panorámáját, amelyet a tökéletes fényviszonyokhoz a leginkább naplemente előtt érdemes fotózni.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare peste această vastă lagună de coastă presărată cu bărci tradiționale de pescari, cel mai bine de fotografiat la apus.",
+            "en": "Enjoy breathtaking panoramic views across this vast coastal lagoon dotted with traditional fishing boats, best photographed during the golden hour for perfect lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Sigean",
+            "hu": "Étang de Sigean",
+            "ro": "Étang de Sigean",
+            "en": "Étang de Sigean"
+          },
+          "coords": [
+            3.011965,
+            43.056065
+          ],
+          "category": "natural",
+          "arrive_at": "18:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Südufern des Lagunennetzwerks, um den Tag ausklingen zu lassen, und halten Sie Ausschau nach rosa Flamingos im flachen Wasser.",
+            "hu": "Zárja a napot lazítással a lagúnarendszer békés déli partjainál, nyitott szemmel járva, hogy megpillanthassa a sekély vízben táplálkozó rózsaszín flamingókat.",
+            "ro": "Relaxați-vă pe malurile sudice liniștite ale rețelei de lagune pentru a vă încheia ziua, fiind cu ochii în patru după stolurile de flamingo roz care se hrănesc.",
+            "en": "Relax by the tranquil southern shores of the lagoon network to wrap up your day, keeping an eye out for flocks of pink flamingos grazing in the shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sigean beginnt damit, in das historische Herz der Stadt einzutauchen, römische Artefakte zu erkunden und die Atmosphäre des alten Marktes zu genießen.\nWenn die Sonne höher steht, wechseln Sie vom städtischen Erbe zur rauen archäologischen Stätte Pech Maho, die antike Handelswege mit wilden Landschaften verbindet.\nDer Nachmittag ist der atemberaubenden Natur gewidmet und bringt Sie in direkten Kontakt mit wilden Tieren und den surrealen Holzstegen über schimmernde Salzpfannen.\nLassen Sie Ihre Reise an den ruhigen Ufern des riesigen Lagunennetzwerks ausklingen und beobachten Sie, wie das Sonnenlicht schwindet, während Flamingos zur Ruhe kommen.",
+        "hu": "Sigeani napja a város történelmi szívében kezdődik, ahol ókori római leletekkel és a régi piac nyüzsgő atmoszférájával ismerkedhet meg, megalapozva a helyi hangulatot.\nAhogy a nap magasabbra hág, a városi örökségtől a zord Pech Maho régészeti lelőhelye felé veszi az irányt, hidat verve az ősi kereskedelmi utak és a vad táj közé.\nA délutánt a lenyűgöző természetnek szenteljük: szabadon kószáló vadállatokkal találkozhat, és szürreális fapallókon sétálhat a csillogó sólepárlók felett.\nZárja utazását a hatalmas lagúnarendszer békés partjainál, figyelve a víz felett elhalványuló napfényt, miközben a flamingók lassan nyugovóra térnek az alkonyatban.",
+        "ro": "Ziua ta în Sigean începe prin cufundarea în inima istorică a orașului, explorând artefacte romane antice și atmosfera plină de viață a vechii piețe locale.\nPe măsură ce soarele urcă, faceți tranziția de la moștenirea urbană la situl arheologic accidentat Pech Maho, legând vechile rute comerciale de peisajele sălbatice.\nDupă-amiaza este dedicată naturii uimitoare, aducându-vă față în față cu animalele sălbatice și cu plimbările suprarealiste pe pontoane de lemn peste saline.\nÎncheiați-vă călătoria pe marginile senine ale vastei rețele de lagune, urmărind cum lumina soarelui dispare peste ape, iar păsările flamingo se odihnesc.",
+        "en": "Your Sigean day begins by immersing yourself in the historic heart of the town, exploring ancient Roman artifacts and the bustling atmosphere of the old market, setting a lively local tone.\nAs the sun climbs, you transition from urban heritage to the rugged archaeological site of Pech Maho, bridging the gap between ancient trade routes and wild landscapes.\nThe afternoon is dedicated to awe-inspiring nature, bringing you face-to-face with free-roaming wildlife and the surreal, elevated wooden pontoon walks over shimmering salt pans.\nWind down your journey along the serene edges of the vast lagoon network, watching the sunlight fade over the waters as flamingos settle into the tranquil coastal dusk."
+      }
+    }
+  }
+}

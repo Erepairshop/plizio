@@ -1,0 +1,451 @@
+{
+  "city_id": "chateau-arnoux-saint-auban",
+  "anchor": {
+    "name": "Château-Arnoux-Saint-Auban",
+    "coords": [
+      6.0083,
+      44.0933
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Château-Arnoux-Saint-Auban",
+            "hu": "Château-Arnoux-Saint-Auban Városháza",
+            "ro": "Primăria din Château-Arnoux-Saint-Auban",
+            "en": "Town Hall of Château-Arnoux-Saint-Auban"
+          },
+          "coords": [
+            6.00905,
+            44.093376
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Rathauses, das in einem Renaissance-Schloss untergebracht ist, und achten Sie auf den aufwendig geschnitzten Haupteingang.",
+            "hu": "Csodálja meg a városháza lenyűgöző homlokzatát, amely egy reneszánsz kastélyban kapott helyet, és vessen egy pillantást a bonyolult faragású főbejáratra.",
+            "ro": "Admirați fațada impresionantă a primăriei, găzduită într-un castel renascentist, și rezervați-vă un moment pentru a observa intrarea principală sculptată complex.",
+            "en": "Admire the impressive facade of the town hall, which is housed in a Renaissance castle, and take a moment to notice the intricately carved main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Château-Arnoux",
+            "hu": "Château-Arnoux Kastély",
+            "ro": "Castelul Château-Arnoux",
+            "en": "Château-Arnoux Castle"
+          },
+          "coords": [
+            6.008005,
+            44.09369
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schlossgelände, um die gut erhaltene Architektur aus dem 16. Jahrhundert zu schätzen, und genießen Sie den Panoramablick vom Wendeltreppenturm.",
+            "hu": "Fedezze fel a történelmi kastély területét, hogy megcsodálja a jól megőrzött 16. századi építészetet, és élvezze a panorámát a csigalépcsős toronyból.",
+            "ro": "Explorați terenurile istorice ale castelului pentru a aprecia arhitectura bine conservată din secolul al XVI-lea și bucurați-vă de priveliștile panoramice din turnul cu scară în spirală.",
+            "en": "Explore the historic castle grounds to appreciate the well-preserved 16th-century architecture and enjoy the panoramic views from the spiral staircase tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Jean",
+            "hu": "Saint-Jean Kápolna",
+            "ro": "Capela Saint-Jean",
+            "en": "Saint-Jean Chapel"
+          },
+          "coords": [
+            6.000867,
+            44.088783
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, aus Stein erbaute Kapelle in ruhiger Umgebung und achten Sie auf die verblassten, aber faszinierenden mittelalterlichen Fresken in der Nähe des Altars.",
+            "hu": "Látogassa meg ezt a hangulatos, kőből épült kápolnát, amely csendes környezetben fekszik, és keresse meg az oltár közelében lévő halvány, de lenyűgöző középkori freskókat.",
+            "ro": "Vizitați această capelă fermecătoare construită din piatră, situată într-un cadru liniștit, și căutați frescele medievale șterse, dar fascinante de lângă altar.",
+            "en": "Visit this charming, stone-built chapel set amidst quiet surroundings, and look for the faded but fascinating medieval frescoes near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Priorats Saint-Pierre-ès-Liens",
+            "hu": "Saint-Pierre-ès-Liens Perjeliség Romjai",
+            "ro": "Ruinele Prioriei Saint-Pierre-ès-Liens",
+            "en": "Ruins of Saint-Pierre-ès-Liens Priory"
+          },
+          "coords": [
+            6.012418,
+            44.08984
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die antiken Ruinen dieses mittelalterlichen Priorats, um die tiefe Geschichte der Region zu spüren, und achten Sie darauf, leicht um die zerbrechlichen Steinfundamente zu treten.",
+            "hu": "Sétáljon végig a középkori perjeliség ősi romjai között, hogy átérezze a régió mély történelmét, ügyelve arra, hogy óvatosan lépkedjen a törékeny kőalapzatok körül.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestei priorii medievale pentru a simți istoria profundă a regiunii, asigurându-vă că pășiți ușor în jurul fundațiilor fragile din piatră.",
+            "en": "Wander around the ancient ruins of this medieval priory to feel the deep history of the region, making sure to step lightly around the fragile stone foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "See L'Escale",
+            "hu": "L'Escale-tó",
+            "ro": "Lacul Escale",
+            "en": "Lac de l'Escale"
+          },
+          "coords": [
+            6.015078,
+            44.084412
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang am ruhigen Ufer dieses malerischen Sees und bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt in diesem Feuchtgebiet zu beobachten.",
+            "hu": "Tegyen egy pihentető sétát ennek a festői tónak a nyugodt partján, és hozzon magával távcsövet a vizes élőhelyen virágzó változatos madárvilág megfigyeléséhez.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor liniștite ale acestui lac pitoresc, aducând binoclul pentru a observa păsările diverse care prosperă în zona umedă.",
+            "en": "Take a relaxing stroll along the tranquil shores of this picturesque lake, bringing binoculars to spot the diverse birdlife that thrives in the wetland area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im historischen Kern von Château-Arnoux, bewundern Sie die Architektur der Mairie und erkunden Sie anschließend das benachbarte Schloss.\nMittag: Machen Sie einen gemütlichen Spaziergang in Richtung der Außenbezirke, um die Kapelle Saint-Jean und die ruhigen Ruinen des Prieuré zu entdecken.\nNachmittag: Gehen Sie nach Süden in Richtung Wasser für einen entspannten Nachmittag, an dem Sie die Natur rund um den Lac de l'Escale erkunden.\nAbend: Beenden Sie Ihren Rundgang mit einem Sonnenuntergang über dem ruhigen Wasser des Sees und blicken Sie auf einen Tag voller Geschichte und Natur zurück.",
+        "hu": "Reggel: Kezdje a napot Château-Arnoux történelmi központjában, csodálja meg a Mairie építészetét, majd zökkenőmentesen váltson át a szomszédos kastély ősi területére.\nDél: Tegyen egy kényelmes sétát a külváros felé, hogy felfedezze a Saint-Jean kápolnát és a Prieuré csendes, sokatmondó romjait.\nDélután: Vegye az irányt dél felé a vízpartra, hogy egy pihentető délutánt töltsön el a Lac de l'Escale körüli természet és a madárvilág felfedezésével.\nEste: Zárja gyalogos túráját a tó nyugodt vizén megcsillanó naplemente látványával, visszagondolva a középkori történelem és a természet békés találkozására.",
+        "ro": "Dimineața: Începeți ziua în nucleul istoric al Château-Arnoux, admirând arhitectura impresionantă a Primăriei înainte de a trece pe domeniul castelului vecin.\nPrânz: Faceți o plimbare liniștită spre periferie pentru a descoperi Capela Saint-Jean și ruinele tăcute și evocatoare ale Prieuré Saint-Pierre-ès-Liens.\nDupă-amiaza: Îndreptați-vă spre sud, spre malul apei, pentru o după-amiază profund relaxantă, explorând frumusețea naturală din jurul Lac de l'Escale.\nSeara: Încheiați turul pietonal cu o vedere la apus peste apele calme ale lacului, reflectând la o zi petrecută la intersecția dintre istoria medievală și natură.",
+        "en": "Morning: Begin your day in the historic core of Château-Arnoux, admiring the grand architecture of the Mairie before transitioning seamlessly into the ancient grounds of the neighboring castle.\nMidday: Take a leisurely stroll towards the outskirts to discover the Saint-Jean Chapel and the quiet, evocative ruins of the Prieuré Saint-Pierre-ès-Liens.\nAfternoon: Head south towards the waterfront for a deeply relaxing afternoon exploring the natural beauty and diverse birdlife around Lac de l'Escale.\nEvening: Conclude your walking tour with a sunset view over the lake's calm waters, reflecting on a day spent tracing the gentle intersection of medieval history and nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Château-Arnoux-Saint-Auban",
+            "hu": "Château-Arnoux-Saint-Auban Városháza",
+            "ro": "Primăria din Château-Arnoux-Saint-Auban",
+            "en": "Town Hall of Château-Arnoux-Saint-Auban"
+          },
+          "coords": [
+            6.00905,
+            44.093376
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Rathauses, das in einem Renaissance-Schloss untergebracht ist, und achten Sie auf den aufwendig geschnitzten Haupteingang.",
+            "hu": "Csodálja meg a városháza lenyűgöző homlokzatát, amely egy reneszánsz kastélyban kapott helyet, és vessen egy pillantást a bonyolult faragású főbejáratra.",
+            "ro": "Admirați fațada impresionantă a primăriei, găzduită într-un castel renascentist, și rezervați-vă un moment pentru a observa intrarea principală sculptată complex.",
+            "en": "Admire the impressive facade of the town hall, which is housed in a Renaissance castle, and take a moment to notice the intricately carved main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Château-Arnoux",
+            "hu": "Château-Arnoux Kastély",
+            "ro": "Castelul Château-Arnoux",
+            "en": "Château-Arnoux Castle"
+          },
+          "coords": [
+            6.008005,
+            44.09369
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schlossgelände, um die gut erhaltene Architektur aus dem 16. Jahrhundert zu schätzen, und genießen Sie den Panoramablick vom Wendeltreppenturm.",
+            "hu": "Fedezze fel a történelmi kastély területét, hogy megcsodálja a jól megőrzött 16. századi építészetet, és élvezze a panorámát a csigalépcsős toronyból.",
+            "ro": "Explorați terenurile istorice ale castelului pentru a aprecia arhitectura bine conservată din secolul al XVI-lea și bucurați-vă de priveliștile panoramice din turnul cu scară în spirală.",
+            "en": "Explore the historic castle grounds to appreciate the well-preserved 16th-century architecture and enjoy the panoramic views from the spiral staircase tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Volonne",
+            "hu": "Volonne Városháza",
+            "ro": "Primăria din Volonne",
+            "en": "Town Hall of Volonne"
+          },
+          "coords": [
+            6.013813,
+            44.11125
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das malerische Rathaus von Volonne, um die traditionelle provenzalische Architektur zu bewundern, und machen Sie ein schnelles Foto von dem belebten Dorfplatz davor.",
+            "hu": "Álljon meg Volonne hangulatos városházájánál, hogy megcsodálja a hagyományos provence-i építészetet, és készítsen egy gyors fotót a közvetlenül előtte lévő nyüzsgő falutérről.",
+            "ro": "Opriți-vă la pitoreasca primărie din Volonne pentru a aprecia arhitectura tradițională provensală și faceți o fotografie rapidă a pieței vibrante a satului aflată chiar în față.",
+            "en": "Stop by the quaint town hall of Volonne to appreciate the traditional Provençal architecture, and snap a quick photo of the vibrant village square right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom Romjai",
+            "ro": "Ruinele Bisericii Saint-Martin",
+            "en": "Ruins of Saint-Martin Church"
+          },
+          "coords": [
+            6.014836,
+            44.115107
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den faszinierenden Ruinen dieser Hügelkirche hinauf, wo Sie mit einem weiten Blick über das Durance-Tal und das umliegende Voralpenland belohnt werden.",
+            "hu": "másszon fel ennek a dombtetőn álló templomnak a lenyűgöző romjaihoz, ahol a Durance-völgyre és a környező alpesi dombvidékre nyíló lenyűgöző kilátás lesz a jutalma.",
+            "ro": "Urcați până la ruinele fascinante ale acestei biserici de pe deal, unde veți fi recompensat cu vederi panoramice asupra văii Durance și a poalelor alpine din jur.",
+            "en": "Climb up to the fascinating ruins of this hilltop church, where you will be rewarded with sweeping views over the Durance valley and the surrounding alpine foothills."
+          }
+        },
+        {
+          "name": {
+            "de": "See L'Escale",
+            "hu": "L'Escale-tó",
+            "ro": "Lacul Escale",
+            "en": "Lac de l'Escale"
+          },
+          "coords": [
+            6.015078,
+            44.084412
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang am ruhigen Ufer dieses malerischen Sees und bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt in diesem Feuchtgebiet zu beobachten.",
+            "hu": "Tegyen egy pihentető sétát ennek a festői tónak a nyugodt partján, és hozzon magával távcsövet a vizes élőhelyen virágzó változatos madárvilág megfigyeléséhez.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor liniștite ale acestui lac pitoresc, aducând binoclul pentru a observa păsările diverse care prosperă în zona umedă.",
+            "en": "Take a relaxing stroll along the tranquil shores of this picturesque lake, bringing binoculars to spot the diverse birdlife that thrives in the wetland area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Mandanois",
+            "hu": "Notre-Dame-de-Mandanois Templom",
+            "ro": "Biserica Notre-Dame-de-Mandanois",
+            "en": "Church of Notre-Dame-de-Mandanois"
+          },
+          "coords": [
+            6.022126,
+            44.085151
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte architektonische Juwel mit seinem robusten Glockenturm und nehmen Sie sich Zeit, die einfachen, eleganten Steinarbeiten zu bewundern, die die lokalen religiösen Gebäude prägen.",
+            "hu": "Fedezze fel ezt a rejtett építészeti gyöngyszemet a robusztus harangtornyával, és szánjon időt az egyszerű, elegáns kőmunkák megcsodálására, amelyek a helyi vallási épületeket jellemzik.",
+            "ro": "Descoperiți această bijuterie arhitecturală ascunsă, cu turnul său robust, și acordați-vă timp pentru a admira piatra simplă și elegantă care caracterizează clădirile religioase locale.",
+            "en": "Discover this hidden architectural gem with its sturdy bell tower, and take time to admire the simple, elegant stonework that characterizes local religious buildings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Fahrt mit einem Besuch des Rathauses und des majestätischen Schlosses Château-Arnoux, bevor Sie sich auf den Weg machen.\nMittag: Radeln Sie nach Norden zum malerischen Volonne, halten Sie am Rathaus an und wandern Sie dann zu den Ruinen der Église Saint-Martin.\nNachmittag: Genießen Sie eine luftige Fahrt nach Süden zum Ufer des Lac de l'Escale, um die Wasservögel zu beobachten und die friedliche Umgebung zu genießen.\nAbend: Lassen Sie Ihr Fahrradabenteuer mit einem kurzen Ausflug zur Église Notre-Dame-de-Mandanois ausklingen, die im weichen Abendlicht erstrahlt.",
+        "hu": "Reggel: Indítsa útját az ikonikus városháza és a fenséges Château-Arnoux kastély meglátogatásával, és szívja magába az építészeti örökséget indulás előtt.\nDél: Kerékpározzon északra Volonne falujába, álljon meg a városházánál, majd túrázzon fel az Église Saint-Martin panorámás romjaihoz.\nDélután: Élvezze a szellős utat délre a Lac de l'Escale partjáig, időt szakítva a helyi vízimadarak megfigyelésére és a nyugodt vizes élőhely élvezetére.\nEste: Fejezze be kerékpáros kalandját egy rövid kirándulással az Église Notre-Dame-de-Mandanois-hoz, megcsodálva annak csendes méltóságát a lágy esti fényben.",
+        "ro": "Dimineața: Începeți plimbarea vizitând emblematica primărie și maiestuosul castel Château-Arnoux, bucurându-vă de moștenirea arhitecturală înainte de a porni la drum.\nPrânz: Pedalați spre nord până în satul pitoresc Volonne, oprindu-vă la primăria sa înainte de a urca la ruinele panoramice ale Église Saint-Martin.\nDupă-amiaza: Bucurați-vă de o plimbare răcoroasă spre sud, până pe malul Lac de l'Escale, făcându-vă timp pentru a admira mediul senin al zonelor umede.\nSeara: Încheiați aventura pe bicicletă cu o scurtă excursie la Église Notre-Dame-de-Mandanois, admirând demnitatea ei tăcută în lumina blândă a serii.",
+        "en": "Morning: Kickstart your ride by visiting the iconic town hall and the majestic Château-Arnoux Castle, soaking in the architectural heritage before hitting the road.\nMidday: Cycle north to the quaint village of Volonne, stopping by its town hall before hiking up to the panoramic ruins of Église Saint-Martin.\nAfternoon: Enjoy a breezy ride south to the shores of Lac de l'Escale, taking time to watch the local waterfowl and enjoy the serene wetland environment.\nEvening: Wind down your cycling adventure with a short trip to the Église Notre-Dame-de-Mandanois, admiring its quiet dignity in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 13.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Château-Arnoux",
+            "hu": "Château-Arnoux Kastély",
+            "ro": "Castelul Château-Arnoux",
+            "en": "Château-Arnoux Castle"
+          },
+          "coords": [
+            6.008005,
+            44.09369
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schlossgelände, um die gut erhaltene Architektur aus dem 16. Jahrhundert zu schätzen, und genießen Sie den Panoramablick vom Wendeltreppenturm.",
+            "hu": "Fedezze fel a történelmi kastély területét, hogy megcsodálja a jól megőrzött 16. századi építészetet, és élvezze a panorámát a csigalépcsős toronyból.",
+            "ro": "Explorați terenurile istorice ale castelului pentru a aprecia arhitectura bine conservată din secolul al XVI-lea și bucurați-vă de priveliștile panoramice din turnul cu scară în spirală.",
+            "en": "Explore the historic castle grounds to appreciate the well-preserved 16th-century architecture and enjoy the panoramic views from the spiral staircase tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Volonne",
+            "hu": "Volonne Városháza",
+            "ro": "Primăria din Volonne",
+            "en": "Town Hall of Volonne"
+          },
+          "coords": [
+            6.013813,
+            44.11125
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das malerische Rathaus von Volonne, um die traditionelle provenzalische Architektur zu bewundern, und machen Sie ein schnelles Foto von dem belebten Dorfplatz davor.",
+            "hu": "Álljon meg Volonne hangulatos városházájánál, hogy megcsodálja a hagyományos provence-i építészetet, és készítsen egy gyors fotót a közvetlenül előtte lévő nyüzsgő falutérről.",
+            "ro": "Opriți-vă la pitoreasca primărie din Volonne pentru a aprecia arhitectura tradițională provensală și faceți o fotografie rapidă a pieței vibrante a satului aflată chiar în față.",
+            "en": "Stop by the quaint town hall of Volonne to appreciate the traditional Provençal architecture, and snap a quick photo of the vibrant village square right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom Romjai",
+            "ro": "Ruinele Bisericii Saint-Martin",
+            "en": "Ruins of Saint-Martin Church"
+          },
+          "coords": [
+            6.014836,
+            44.115107
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den faszinierenden Ruinen dieser Hügelkirche hinauf, wo Sie mit einem weiten Blick über das Durance-Tal und das umliegende Voralpenland belohnt werden.",
+            "hu": "másszon fel ennek a dombtetőn álló templomnak a lenyűgöző romjaihoz, ahol a Durance-völgyre és a környező alpesi dombvidékre nyíló lenyűgöző kilátás lesz a jutalma.",
+            "ro": "Urcați până la ruinele fascinante ale acestei biserici de pe deal, unde veți fi recompensat cu vederi panoramice asupra văii Durance și a poalelor alpine din jur.",
+            "en": "Climb up to the fascinating ruins of this hilltop church, where you will be rewarded with sweeping views over the Durance valley and the surrounding alpine foothills."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Kápolnája",
+            "ro": "Capela Imaculatei Concepții",
+            "en": "Chapel of the Immaculate Conception"
+          },
+          "coords": [
+            6.02556,
+            44.08442
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschön erhaltene Kapelle aus dem 19. Jahrhundert ein, um abseits der belebten Dorfwege einen Moment der stillen Besinnung zu erleben.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött 19. századi kápolnába, hogy megtapasztaljon egy pillanatnyi csendes elmélkedést a forgalmas falusi utaktól távol.",
+            "ro": "Pășiți în această capelă din secolul al XIX-lea, frumos conservată, pentru a experimenta un moment de reflecție liniștită departe de cărările aglomerate ale satului.",
+            "en": "Step into this beautifully preserved 19th-century chapel to experience a moment of quiet reflection away from the busy village paths."
+          }
+        },
+        {
+          "name": {
+            "de": "See L'Escale",
+            "hu": "L'Escale-tó",
+            "ro": "Lacul Escale",
+            "en": "Lac de l'Escale"
+          },
+          "coords": [
+            6.015078,
+            44.084412
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang am ruhigen Ufer dieses malerischen Sees und bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt in diesem Feuchtgebiet zu beobachten.",
+            "hu": "Tegyen egy pihentető sétát ennek a festői tónak a nyugodt partján, és hozzon magával távcsövet a vizes élőhelyen virágzó változatos madárvilág megfigyeléséhez.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor liniștite ale acestui lac pitoresc, aducând binoclul pentru a observa păsările diverse care prosperă în zona umedă.",
+            "en": "Take a relaxing stroll along the tranquil shores of this picturesque lake, bringing binoculars to spot the diverse birdlife that thrives in the wetland area."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturgebiet DFCI",
+            "hu": "DFCI Természetvédelmi Terület",
+            "ro": "Zona Naturală DFCI",
+            "en": "DFCI Nature Area"
+          },
+          "coords": [
+            5.942001,
+            44.063041
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie in dieses Naturschutzgebiet mit seinen unberührten Landschaften und bleiben Sie auf den markierten Wegen, um die raue Wildnis der Haute-Provence sicher zu genießen.",
+            "hu": "Látogasson el erre az érintetlen tájakat kínáló természetvédelmi területre, és maradjon a kijelölt ösvényeken, hogy biztonságosan élvezhesse Haute-Provence zord vadonját.",
+            "ro": "Mergeți cu mașina sau cu bicicleta spre această rezervație naturală care oferă peisaje neatinse și rămâneți pe traseele marcate pentru a vă bucura în siguranță de sălbăticia accidentată a regiunii Haute-Provence.",
+            "en": "Drive or bike out to this natural reserve area offering unspoiled landscapes, and stick to the marked trails to safely enjoy the rugged wilderness of Haute-Provence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Fahrt am historischen Schloss Château-Arnoux und tauchen Sie direkt im Stadtzentrum in die lokale mittelalterliche Geschichte ein.\nMittag: Fahren Sie nach Volonne, um das Rathaus und die bemerkenswerten Ruinen der Église Saint-Martin zu bewundern, die großartige Aussichtspunkte bieten.\nNachmittag: Fahren Sie nach Süden vorbei an der Chapelle de l'Immaculée-Conception zum Lac de l'Escale, wo Sie einen erfrischenden Spaziergang machen können.\nAbend: Beenden Sie Ihren Roadtrip mit einer malerischen Fahrt in das Naturgebiet DFCI, atmen Sie frische Luft und blicken Sie auf einen abwechslungsreichen Tag zurück.",
+        "hu": "Reggel: Kezdje autós túráját a történelmi Château-Arnoux kastélynál, elmerülve a helyi középkori történelemben a városközpontban.\nDél: Vezessen Volonne-ba, hogy megcsodálja a városházát és az Église Saint-Martin figyelemre méltó romjait, amelyek a régió legjobb kilátópontjait kínálják.\nDélután: Haladjon délre a Chapelle de l'Immaculée-Conception mellett a Lac de l'Escale felé, ahol leparkolhat és tehet egy frissítő sétát a vízparton.\nEste: Zárja autós utazását egy festői vezetéssel a DFCI természeti területére, belélegezve a friss levegőt egy változatos városnéző nap után.",
+        "ro": "Dimineața: Începeți turul cu mașina la istoricul castel Château-Arnoux, cufundându-vă în istoria medievală locală chiar în centrul orașului.\nPrânz: Conduceți la Volonne pentru a admira primăria și ruinele remarcabile ale Église Saint-Martin, care oferă unele dintre cele mai bune puncte de belvedere.\nDupă-amiaza: Îndreptați-vă spre sud pe lângă Chapelle de l'Immaculée-Conception spre Lac de l'Escale, unde puteți parca pentru o plimbare revigorantă pe malul apei.\nSeara: Încheiați-vă călătoria cu un drum pitoresc către zona naturală DFCI, respirând aer curat și reflectând la o zi diversă de explorare.",
+        "en": "Morning: Start your driving tour at the historic Château-Arnoux Castle, immersing yourself in local medieval history right in the center of town.\nMidday: Drive to Volonne to admire its town hall and the remarkable ruins of Église Saint-Martin, offering some of the best vantage points in the region.\nAfternoon: Head south past the Chapelle de l'Immaculée-Conception towards Lac de l'Escale, where you can park and take a refreshing walk by the water.\nEvening: Conclude your road trip with a scenic drive out to the DFCI natural area, breathing in the fresh air and reflecting on a diverse day of sightseeing."
+      }
+    }
+  }
+}

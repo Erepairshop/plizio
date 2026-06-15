@@ -1,0 +1,474 @@
+{
+  "city_id": "montenegro-bar-cities-v2",
+  "anchor": {
+    "name": "Bar",
+    "coords": [
+      19.1,
+      42.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 1.64,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "I Love Bar",
+            "hu": "I Love Bar",
+            "ro": "I Love Bar",
+            "en": "I Love Bar"
+          },
+          "coords": [
+            19.091218,
+            42.097284
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie zu Beginn des Tages ein schnelles Foto an diesem ikonischen Wahrzeichen und kommen Sie früh, um die blendende Sonne für bessere Porträts zu vermeiden.",
+            "hu": "Kezdje a napot egy gyors fotóval ennél az ikonikus táblánál, és érkezzen korán, hogy elkerülje az erős napsütést a legjobb portrék készítéséhez.",
+            "ro": "Faceți o fotografie rapidă la acest semn iconic la începutul zilei și veniți devreme pentru a evita soarele puternic, asigurând portrete mai bune.",
+            "en": "Snap a quick photo at this iconic waterfront sign to start your day right, and try visiting early to avoid the brightest sun glare for better portraits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trikonchos - Frühchristliche Kirche",
+            "hu": "Trikonch - Ókeresztény templom",
+            "ro": "Triconch - Biserica paleocreștină",
+            "en": "Triconch - Paleochristian church 5.-9. cent."
+          },
+          "coords": [
+            19.095255,
+            42.095498
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser frühchristlichen Kirche und lesen Sie unbedingt die Informationstafeln, um ihre antike Geschichte zu verstehen.",
+            "hu": "Fedezze fel ennek az 5. századi ókeresztény templomnak a lenyűgöző romjait, és feltétlenül olvassa el a tájékoztató táblákat a történelmi háttér megértéséhez.",
+            "ro": "Explorați ruinele fascinante ale acestei biserici paleocreștine și citiți plăcile informative pentru a înțelege pe deplin istoria sa antică impresionantă.",
+            "en": "Explore the fascinating ruins of this 5th-century paleochristian church, and make sure to read the informational plaques to fully grasp its ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale St. Peter der Apostel",
+            "hu": "Szent Péter apostol társszékesegyház",
+            "ro": "Co-catedrala Sfântul Petru Apostol",
+            "en": "Co-cathedral of Saint Peter the Apostle"
+          },
+          "coords": [
+            19.097673,
+            42.094643
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser katholischen Stätte und betreten Sie sie leise, um die friedliche Atmosphäre und die schönen Fenster zu genießen.",
+            "hu": "Csodálja meg e fontos katolikus helyszín lenyűgöző modern építészetét, és lépjen be csendben, hogy élvezze a békés hangulatot és a gyönyörű üvegablakokat.",
+            "ro": "Admirați arhitectura modernă a acestui important sit catolic și pășiți înăuntru în liniște pentru a vă bucura de atmosfera pașnică și de vitraliile superbe.",
+            "en": "Admire the striking modern architecture of this important Catholic site, and step inside quietly to appreciate the peaceful atmosphere and beautiful stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerija StoyanovićArt",
+            "hu": "Galerija StoyanovićArt",
+            "ro": "Galerija StoyanovićArt",
+            "en": "Galerija StoyanovićArt"
+          },
+          "coords": [
+            19.099514,
+            42.099155
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entdecken Sie unglaubliche lokale Kunstwerke in dieser Galerie und zögern Sie nicht, mit dem Kurator zu sprechen, der gerne die Geschichten der Künstler teilt.",
+            "hu": "Fedezzen fel lenyűgöző helyi alkotásokat ebben a bájos galériában, és nyugodtan beszélgessen a kurátorral, aki szívesen megosztja a művészek egyedi történeteit.",
+            "ro": "Descoperiți opere de artă locale în această galerie fermecătoare și nu ezitați să discutați cu curatorul care împărtășește cu bucurie poveștile artiștilor.",
+            "en": "Discover incredible local artworks in this charming independent gallery, and don't hesitate to chat with the curator who happily shares the artists' unique stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel des Heiligen Jovan Vladimir",
+            "hu": "Szent Jovan Vladimir templom",
+            "ro": "Templul Sfântului Jovan Vladimir",
+            "en": "Hram svetog Jovana Vladimira"
+          },
+          "coords": [
+            19.093937,
+            42.1015
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die goldenen Kuppeln dieses Tempels und denken Sie daran, sich bescheiden zu kleiden, um das atemberaubende, reich bemalte Innere zu besichtigen.",
+            "hu": "Csodálja meg ennek a lenyűgöző ortodox templomnak az aranykupoláit, és ne feledjen szerényen öltözni, hogy megtekinthesse a lélegzetelállító, festett belsőt.",
+            "ro": "Admirați cupolele aurii ale acestui templu ortodox și amintiți-vă să vă îmbrăcați decent pentru a vizita interiorul uluitor, bogat pictat.",
+            "en": "Gaze at the majestic golden domes of this stunning Orthodox temple, and remember to dress modestly to gain access to the breathtaking, richly painted interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der lebhaften Uferpromenade für unvergessliche Fotos, bevor Sie in die antike Vergangenheit der frühchristlichen Ruinen eintauchen. Am Mittag schlendern Sie friedlich zur markanten katholischen Konkathedrale und genießen die mediterrane Brise. Verbringen Sie den Nachmittag damit, lokale Kultur und Kunst in der StoyanovićArt Galerie aufzusaugen. Beenden Sie diesen inspirierenden Tag unter den goldenen Kuppeln des großen orthodoxen Tempels.",
+        "hu": "Kezdje a reggelt a pezsgő vízpart közelében néhány emlékezetes fotóval, mielőtt elmerülne az ókeresztény romok ősi múltjában. Délben tegyen egy békés sétát a lenyűgöző katolikus társszékesegyház felé, élvezve a mediterrán szellőt. Délután szívja magába a helyi kultúrát és a gyönyörű művészeti alkotásokat a StoyanovićArt galériában. Zárja ezt az inspiráló napot a hatalmas ortodox templom aranykupolái alatt.",
+        "ro": "Începeți dimineața lângă faleza vibrantă pentru fotografii memorabile înainte de a explora trecutul antic la ruinele paleocreștine. La prânz, faceți o plimbare pașnică spre impresionanta co-catedrală catolică, bucurându-vă de briza mediteraneană. Petreceți după-amiaza admirând cultura locală și arta superbă la galeria StoyanovićArt. Încheiați această zi inspirată sub cupolele aurii ale marelui templu ortodox.",
+        "en": "Start your morning near the vibrant waterfront to capture some memorable photos before diving into the ancient past at the nearby Paleochristian ruins. By midday, take a peaceful stroll towards the striking Catholic Co-cathedral, enjoying the local Mediterranean breeze. Spend your afternoon soaking up local culture and beautiful artwork at the StoyanovićArt gallery. Conclude your inspiring day under the majestic golden domes of the grand Orthodox temple."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 3.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "I Love Bar",
+            "hu": "I Love Bar",
+            "ro": "I Love Bar",
+            "en": "I Love Bar"
+          },
+          "coords": [
+            19.091218,
+            42.097284
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie zu Beginn des Tages ein schnelles Foto an diesem ikonischen Wahrzeichen und kommen Sie früh, um die blendende Sonne für bessere Porträts zu vermeiden.",
+            "hu": "Kezdje a napot egy gyors fotóval ennél az ikonikus táblánál, és érkezzen korán, hogy elkerülje az erős napsütést a legjobb portrék készítéséhez.",
+            "ro": "Faceți o fotografie rapidă la acest semn iconic la începutul zilei și veniți devreme pentru a evita soarele puternic, asigurând portrete mai bune.",
+            "en": "Snap a quick photo at this iconic waterfront sign to start your day right, and try visiting early to avoid the brightest sun glare for better portraits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trikonchos - Frühchristliche Kirche",
+            "hu": "Trikonch - Ókeresztény templom",
+            "ro": "Triconch - Biserica paleocreștină",
+            "en": "Triconch - Paleochristian church 5.-9. cent."
+          },
+          "coords": [
+            19.095255,
+            42.095498
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser frühchristlichen Kirche und lesen Sie unbedingt die Informationstafeln, um ihre antike Geschichte zu verstehen.",
+            "hu": "Fedezze fel ennek az 5. századi ókeresztény templomnak a lenyűgöző romjait, és feltétlenül olvassa el a tájékoztató táblákat a történelmi háttér megértéséhez.",
+            "ro": "Explorați ruinele fascinante ale acestei biserici paleocreștine și citiți plăcile informative pentru a înțelege pe deplin istoria sa antică impresionantă.",
+            "en": "Explore the fascinating ruins of this 5th-century paleochristian church, and make sure to read the informational plaques to fully grasp its ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale St. Peter der Apostel",
+            "hu": "Szent Péter apostol társszékesegyház",
+            "ro": "Co-catedrala Sfântul Petru Apostol",
+            "en": "Co-cathedral of Saint Peter the Apostle"
+          },
+          "coords": [
+            19.097673,
+            42.094643
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser katholischen Stätte und betreten Sie sie leise, um die friedliche Atmosphäre und die schönen Fenster zu genießen.",
+            "hu": "Csodálja meg e fontos katolikus helyszín lenyűgöző modern építészetét, és lépjen be csendben, hogy élvezze a békés hangulatot és a gyönyörű üvegablakokat.",
+            "ro": "Admirați arhitectura modernă a acestui important sit catolic și pășiți înăuntru în liniște pentru a vă bucura de atmosfera pașnică și de vitraliile superbe.",
+            "en": "Admire the striking modern architecture of this important Catholic site, and step inside quietly to appreciate the peaceful atmosphere and beautiful stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Crkva sv. Nikole"
+          },
+          "coords": [
+            19.1136,
+            42.093137
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser ruhigen historischen Kirche in einem stilleren Viertel und bringen Sie Wasser mit, da die Radstrecke dorthin recht sonnenexponiert ist.",
+            "hu": "Pihenjen meg ennél a nyugodt negyedben megbúvó történelmi templomnál, és hozzon magával vizet, mivel az ide vezető kerékpárút precej napos lehet.",
+            "ro": "Opriți-vă la această biserică istorică liniștită dintr-un cartier pașnic și aduceți o sticlă cu apă, deoarece traseul de ciclism de aici este expus la soare.",
+            "en": "Pause at this serene historic church nestled in a quieter neighborhood, and bring a small bottle of water as the cycling route here can be quite sun-exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerija StoyanovićArt",
+            "hu": "Galerija StoyanovićArt",
+            "ro": "Galerija StoyanovićArt",
+            "en": "Galerija StoyanovićArt"
+          },
+          "coords": [
+            19.099514,
+            42.099155
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie unglaubliche lokale Kunstwerke in dieser Galerie und zögern Sie nicht, mit dem Kurator zu sprechen, der gerne die Geschichten der Künstler teilt.",
+            "hu": "Fedezzen fel lenyűgöző helyi alkotásokat ebben a bájos galériában, és nyugodtan beszélgessen a kurátorral, aki szívesen megosztja a művészek egyedi történeteit.",
+            "ro": "Descoperiți opere de artă locale în această galerie fermecătoare și nu ezitați să discutați cu curatorul care împărtășește cu bucurie poveștile artiștilor.",
+            "en": "Discover incredible local artworks in this charming independent gallery, and don't hesitate to chat with the curator who happily shares the artists' unique stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel des Heiligen Jovan Vladimir",
+            "hu": "Szent Jovan Vladimir templom",
+            "ro": "Templul Sfântului Jovan Vladimir",
+            "en": "Hram svetog Jovana Vladimira"
+          },
+          "coords": [
+            19.093937,
+            42.1015
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die goldenen Kuppeln dieses Tempels und denken Sie daran, sich bescheiden zu kleiden, um das atemberaubende, reich bemalte Innere zu besichtigen.",
+            "hu": "Csodálja meg ennek a lenyűgöző ortodox templomnak az aranykupoláit, és ne feledjen szerényen öltözni, hogy megtekinthesse a lélegzetelállító, festett belsőt.",
+            "ro": "Admirați cupolele aurii ale acestui templu ortodox și amintiți-vă să vă îmbrăcați decent pentru a vizita interiorul uluitor, bogat pictat.",
+            "en": "Gaze at the majestic golden domes of this stunning Orthodox temple, and remember to dress modestly to gain access to the breathtaking, richly painted interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine morgendliche Fahrt entlang der Küste, machen Sie ein Foto am Stadtschild, bevor Sie die Geheimnisse der antiken Trikonchos-Ruinen lüften. Am Mittag radeln Sie zur Konkathedrale, die historische Erkundung mit aktivem Reisen verbindet. Nachmittags fahren Sie zur friedlichen Crkva sv. Nikole und kehren für Kunst in der Galerie zurück. Ihre Fahrt endet mit dem beeindruckenden Anblick des großen orthodoxen Tempels.",
+        "hu": "Élvezze a frissítő reggeli tekerést a parton, lőjön egy fotót a város táblájánál, majd fedezze fel az ősi Trikonch romjait. Délben a társszékesegyház felé kerekezik, tökéletesen ötvözve a történelmi felfedezést az aktív pihenéssel. Délután tekerjen el a békés Crkva sv. Nikole templomhoz, majd térjen vissza a helyi művészeti galériába. Utazása a grandiózus ortodox templom lenyűgöző látványával ér véget.",
+        "ro": "Bucurați-vă de o plimbare matinală pe coastă, faceți o fotografie la semnul orașului înainte de a descoperi secretele ruinelor antice. Prânzul vă aduce pedalând spre co-catedrală, îmbinând explorarea istorică cu turismul activ. După-amiaza, mergeți pe bicicletă până la pașnica Crkva sv. Nikole, apoi întoarceți-vă pentru artă la galeria locală. Plimbarea se încheie cu priveliștea uimitoare a marelui templu ortodox.",
+        "en": "Enjoy a crisp morning ride along the coast, grabbing a quick photo at the city sign before uncovering the secrets of the ancient Triconch ruins. Midday takes you pedaling towards the grand Co-cathedral, seamlessly blending historical exploration with active travel. In the afternoon, cycle out to the peaceful Crkva sv. Nikole, then loop back for cultural enrichment at the local art gallery. Your ride finishes with the awe-inspiring sight of the grand Orthodox temple."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempel des Heiligen Jovan Vladimir",
+            "hu": "Szent Jovan Vladimir templom",
+            "ro": "Templul Sfântului Jovan Vladimir",
+            "en": "Hram svetog Jovana Vladimira"
+          },
+          "coords": [
+            19.093937,
+            42.1015
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die goldenen Kuppeln dieses Tempels und denken Sie daran, sich bescheiden zu kleiden, um das atemberaubende, reich bemalte Innere zu besichtigen.",
+            "hu": "Csodálja meg ennek a lenyűgöző ortodox templomnak az aranykupoláit, és ne feledjen szerényen öltözni, hogy megtekinthesse a lélegzetelállító, festett belsőt.",
+            "ro": "Admirați cupolele aurii ale acestui templu ortodox și amintiți-vă să vă îmbrăcați decent pentru a vizita interiorul uluitor, bogat pictat.",
+            "en": "Gaze at the majestic golden domes of this stunning Orthodox temple, and remember to dress modestly to gain access to the breathtaking, richly painted interior."
+          }
+        },
+        {
+          "name": {
+            "de": "I Love Bar",
+            "hu": "I Love Bar",
+            "ro": "I Love Bar",
+            "en": "I Love Bar"
+          },
+          "coords": [
+            19.091218,
+            42.097284
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Machen Sie zu Beginn des Tages ein schnelles Foto an diesem ikonischen Wahrzeichen und kommen Sie früh, um die blendende Sonne für bessere Porträts zu vermeiden.",
+            "hu": "Kezdje a napot egy gyors fotóval ennél az ikonikus táblánál, és érkezzen korán, hogy elkerülje az erős napsütést a legjobb portrék készítéséhez.",
+            "ro": "Faceți o fotografie rapidă la acest semn iconic la începutul zilei și veniți devreme pentru a evita soarele puternic, asigurând portrete mai bune.",
+            "en": "Snap a quick photo at this iconic waterfront sign to start your day right, and try visiting early to avoid the brightest sun glare for better portraits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trikonchos - Frühchristliche Kirche",
+            "hu": "Trikonch - Ókeresztény templom",
+            "ro": "Triconch - Biserica paleocreștină",
+            "en": "Triconch - Paleochristian church 5.-9. cent."
+          },
+          "coords": [
+            19.095255,
+            42.095498
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser frühchristlichen Kirche und lesen Sie unbedingt die Informationstafeln, um ihre antike Geschichte zu verstehen.",
+            "hu": "Fedezze fel ennek az 5. századi ókeresztény templomnak a lenyűgöző romjait, és feltétlenül olvassa el a tájékoztató táblákat a történelmi háttér megértéséhez.",
+            "ro": "Explorați ruinele fascinante ale acestei biserici paleocreștine și citiți plăcile informative pentru a înțelege pe deplin istoria sa antică impresionantă.",
+            "en": "Explore the fascinating ruins of this 5th-century paleochristian church, and make sure to read the informational plaques to fully grasp its ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale St. Peter der Apostel",
+            "hu": "Szent Péter apostol társszékesegyház",
+            "ro": "Co-catedrala Sfântul Petru Apostol",
+            "en": "Co-cathedral of Saint Peter the Apostle"
+          },
+          "coords": [
+            19.097673,
+            42.094643
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser katholischen Stätte und betreten Sie sie leise, um die friedliche Atmosphäre und die schönen Fenster zu genießen.",
+            "hu": "Csodálja meg e fontos katolikus helyszín lenyűgöző modern építészetét, és lépjen be csendben, hogy élvezze a békés hangulatot és a gyönyörű üvegablakokat.",
+            "ro": "Admirați arhitectura modernă a acestui important sit catolic și pășiți înăuntru în liniște pentru a vă bucura de atmosfera pașnică și de vitraliile superbe.",
+            "en": "Admire the striking modern architecture of this important Catholic site, and step inside quietly to appreciate the peaceful atmosphere and beautiful stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Crkva sv. Nikole"
+          },
+          "coords": [
+            19.1136,
+            42.093137
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser ruhigen historischen Kirche in einem stilleren Viertel und bringen Sie Wasser mit, da die Radstrecke dorthin recht sonnenexponiert ist.",
+            "hu": "Pihenjen meg ennél a nyugodt negyedben megbúvó történelmi templomnál, és hozzon magával vizet, mivel az ide vezető kerékpárút precej napos lehet.",
+            "ro": "Opriți-vă la această biserică istorică liniștită dintr-un cartier pașnic și aduceți o sticlă cu apă, deoarece traseul de ciclism de aici este expus la soare.",
+            "en": "Pause at this serene historic church nestled in a quieter neighborhood, and bring a small bottle of water as the cycling route here can be quite sun-exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Sutorman",
+            "hu": "Sutorman",
+            "ro": "Sutorman",
+            "en": "Sutorman"
+          },
+          "coords": [
+            19.105017,
+            42.08718
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem herrlichen Wahrzeichen hinauf für weite Panoramablicke und stellen Sie sicher, dass Sie genug Kraftstoff für die Bergstraßen haben.",
+            "hu": "Vezessen fel ehhez a lenyűgöző hegyi nevezetességhez a panorámáért, és gondoskodjon elég üzemanyagról, mivel a hegyi utakon nincsenek benzinkutak.",
+            "ro": "Conduceți până la acest punct de atracție montan pentru vederi panoramice vaste și asigurați-vă că aveți suficient combustibil pentru drumurile montane.",
+            "en": "Drive up to this magnificent mountain landmark for sweeping panoramic views, and ensure your vehicle has enough fuel since mountain roads have no stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Vitus",
+            "hu": "Szent Vitus templom",
+            "ro": "Biserica Sf. Vitus",
+            "en": "Crkva sv. Vita"
+          },
+          "coords": [
+            19.12836,
+            42.092622
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte, bescheidene Kirche mit tiefen historischen Wurzeln und parken Sie vorsichtig in den engen Gassen, um die Anwohner nicht zu stören.",
+            "hu": "Látogasson el ebbe a történelmi, szerény méretű templomba, és parkoljon óvatosan a szűk utcákban, tiszteletben tartva a helyi lakosok magánterületeit.",
+            "ro": "Vizitați această biserică veche, de dimensiuni modeste, și parcați cu atenție pe aleile înguste pentru a respecta limitele proprietăților localnicilor.",
+            "en": "Visit this ancient, modestly-sized church with profound historical roots, and park carefully on the narrow adjacent lanes to respect local property boundaries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am prächtigen orthodoxen Tempel und fahren Sie dann zur lebhaften Promenade für einen schnellen Schnappschuss am Meer hinunter. Mittags navigieren Sie mühelos zwischen den antiken frühchristlichen Ruinen und der modernen Konkathedrale. Verbringen Sie den Nachmittag damit, dem Zentrum zu entfliehen und die malerischen Hänge von Sutorman hinaufzufahren. Beenden Sie Ihren Tag an der historischen Crkva sv. Vita.",
+        "hu": "Kezdje útját a csodálatos ortodox templomnál, majd hajtson le a nyüzsgő sétányra egy gyors tengerparti fotó erejéig. Délben könnyedén navigáljon az ókeresztény romok és a modern társszékesegyház között. Délután hagyja el a városközpontot, és autózzon fel a Sutorman festői lejtőire a lélegzetelállító tájért. Zárja a napot a történelmi Crkva sv. Vita templomnál, elmerülve a békés, magaslati hangulatban.",
+        "ro": "Începeți plimbarea la magnificul templu ortodox, înainte de a coborî spre faleza plină de viață pentru o scurtă fotografie la malul mării. La prânz, navigați fără efort între ruinele antice paleocreștine și co-catedrala modernă. Petreceți după-amiaza evadând din centrul orașului, urcând pe versanții pitorești ai muntelui Sutorman. Încheiați ziua la istorica Crkva sv. Vita, bucurându-vă de atmosfera senină.",
+        "en": "Start your drive at the magnificent Orthodox temple, marveling at its golden domes before heading down to the lively promenade for a quick seaside snapshot. By midday, effortlessly navigate between the ancient Paleochristian ruins and the modern Co-cathedral. Spend your afternoon escaping the city center, cruising up the scenic slopes of Sutorman for breathtaking landscapes. End your day trip at the historic Crkva sv. Vita, soaking in the serene, elevated atmosphere."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-zamora-cities-v2",
+  "anchor": {
+    "name": "Zamora",
+    "coords": [
+      -5.755556,
+      41.503333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 1.17,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerta de Doña Urraca",
+            "hu": "Puerta de Doña Urraca",
+            "ro": "Puerta de Doña Urraca",
+            "en": "Puerta de Doña Urraca"
+          },
+          "coords": [
+            -5.748753,
+            41.504449
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mittelalterliche Tor voller Geschichte und fotografieren Sie die verwitterten Steinbögen am besten im sanften Morgenlicht.",
+            "hu": "Csodálja meg ezt a középkori kaput, amely tele van történelemmel, és mindenképpen fotózza le az íveket a lágy reggeli fényben, ami kiemeli a köveket.",
+            "ro": "Admirați această poartă medievală plină de istorie și asigurați-vă că fotografiați arcadele de piatră erodată în lumina blândă și caldă a dimineții.",
+            "en": "Admire this rounded medieval gate steeped in legendary history, and be sure to photograph the weathered stone archways in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Zamora",
+            "hu": "Ayuntamiento de Zamora",
+            "ro": "Ayuntamiento de Zamora",
+            "en": "Ayuntamiento de Zamora"
+          },
+          "coords": [
+            -5.747042,
+            41.503908
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das historische Rathaus an, das den Hauptplatz prägt, und bewundern Sie die Fassadendetails, bevor Sie einen lokalen Kaffee trinken.",
+            "hu": "Nézze meg az elegáns történelmi városházát a főtéren, és szánjon időt a gyönyörű homlokzat részleteinek megfigyelésére, mielőtt inna egy kávét.",
+            "ro": "Vedeți primăria istorică elegantă din piața principală și opriți-vă pentru a aprecia detaliile fațadei înainte de a savura o cafea locală.",
+            "en": "See the elegant historical city hall that anchors the main square, and pause to appreciate the beautiful facade details before grabbing a local coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico de Castilla y León",
+            "hu": "Museo Etnográfico de Castilla y León",
+            "ro": "Museo Etnográfico de Castilla y León",
+            "en": "Museo Etnográfico de Castilla y León"
+          },
+          "coords": [
+            -5.748371,
+            41.503174
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende kulturelle Erbe der Region durch interaktive Exponate und planen Sie mindestens eine Stunde für die Textilausstellungen ein.",
+            "hu": "Fedezze fel a régió kulturális örökségét az interaktív kiállításokon keresztül, és szánjon legalább egy órát a lenyűgöző textíliák megtekintésére.",
+            "ro": "Explorați moștenirea culturală a regiunii prin expoziții interactive și rezervați cel puțin o oră pentru a aprecia pe deplin colecțiile de textile.",
+            "en": "Explore the fascinating cultural heritage of the region through interactive exhibits, and plan at least an hour to fully appreciate the textile displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación de las Ciudades Medievales",
+            "hu": "Centro de Interpretación de las Ciudades Medievales",
+            "ro": "Centro de Interpretación de las Ciudades Medievales",
+            "en": "Centro de Interpretación de las Ciudades Medievales"
+          },
+          "coords": [
+            -5.750249,
+            41.500217
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Lernen Sie hier die städtische Entwicklung mittelalterlicher Städte kennen und besuchen Sie die obere Terrasse für ein tolles Panorama auf den Fluss.",
+            "hu": "Ismerje meg a középkori városok fejlődését ebből a modern központból, és menjen fel a felső teraszra a folyóra nyíló lenyűgöző panorámáért.",
+            "ro": "Aflați despre evoluția orașelor medievale din acest centru și vizitați terasa superioară pentru o panoramă uimitoare asupra râului Duero.",
+            "en": "Learn about the urban evolution of medieval cities from this modern viewpoint, and visit the upper terrace for a stunning panorama of the Duero river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Catedralicio de Zamora",
+            "hu": "Museo Catedralicio de Zamora",
+            "ro": "Museo Catedralicio de Zamora",
+            "en": "Museo Catedralicio de Zamora"
+          },
+          "coords": [
+            -5.754544,
+            41.499222
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die außergewöhnlichen flämischen Wandteppiche in diesem Museum und nutzen Sie den Audioguide, um die biblischen Szenen zu verstehen.",
+            "hu": "Csodálja meg a kivételes flamand falikárpitokat ebben a múzeumban, és kérjen hangosvezetőt, hogy megértse a bonyolult bibliai jeleneteket.",
+            "ro": "Minunați-vă de extraordinarele tapiserii flamande din acest muzeu și luați ghidul audio pentru a înțelege scenele biblice complicate reprezentate.",
+            "en": "Marvel at the extraordinary Flemish tapestries housed in this essential museum, and pick up the audio guide to understand the intricate biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Zamora",
+            "hu": "Castillo de Zamora",
+            "ro": "Castillo de Zamora",
+            "en": "Castillo de Zamora"
+          },
+          "coords": [
+            -5.756153,
+            41.49979
+          ],
+          "category": "castle",
+          "arrive_at": "16:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Festungsmauern dieser sternförmigen Burg für unglaubliche Ausblicke und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig a csillag alakú erőd felújított sáncain a hihetetlen kilátásért, és viseljen kényelmes cipőt az egyenetlen kőutakon való közlekedéshez.",
+            "ro": "Plimbați-vă pe meterezele restaurate ale acestei cetăți pentru vederi incredibile și purtați pantofi comozi pentru a naviga pe potecile de piatră.",
+            "en": "Walk the newly restored ramparts of this star-shaped fortress for incredible views, and wear comfortable shoes to navigate the uneven stone pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer am alten Steintor der Doña Urraca, spüren Sie das mittelalterliche Flair und spazieren Sie dann entspannt zum lebhaften Rathausplatz im Zentrum. Die Mittagssonne führt Sie in das faszinierende Ethnografische Museum, gefolgt von einem Besuch im Interpretationszentrum, wo die mittelalterliche Stadtplanung lebendig wird. Verbringen Sie den Nachmittag damit, die unschätzbaren flämischen Wandteppiche im Kathedralmuseum zu bewundern, einem friedlichen Rückzugsort im historischen Herzen Zamoras. Beenden Sie Ihren Rundgang in der imposanten Burg von Zamora. Bei Sonnenuntergang bieten die historischen Festungsmauern fantastische Panoramablicke über den Fluss Duero.",
+        "hu": "Kezdje a sétát Doña Urraca ősi kőkapuján áthaladva, érezze át a középkori történelmet, majd érkezzen meg az élettel teli Városháza terére a belváros szívében. A déli napsütés elől menekülve fedezze fel a Néprajzi Múzeumot, majd látogasson el az interpretációs központba, amely átfogó képet ad a középkori városrendezésről. Töltse a délutánt a Katedrális Múzeum felbecsülhetetlen értékű flamand falikárpitjainak megcsodálásával, amely békés menedéket nyújt Zamora történelmi központjában. Zárja a sétát Zamora hatalmas váránál a naplementében, sétáljon végig a történelmi sáncokon, és gyönyörködjön a Duero folyóra nyíló panorámában.",
+        "ro": "Începeți aventura traversând vechea poartă de piatră a Doñei Urraca, simțind istoria medievală înainte de a ajunge în piața plină de viață a Primăriei orașului. Soarele amiezii vă îndrumă spre Muzeul Etnografic, urmat de o fascinantă perspectivă asupra planificării urbane medievale la centrul de interpretare local. Petreceți după-amiaza admirând tapiseriile flamande inestimabile din Muzeul Catedralei, oferind un refugiu liniștit în inima religioasă a orașului istoric Zamora. Încheiați plimbarea la formidabilul Castel Zamora. La apus, plimbați-vă pe meterezele istorice pentru a admira priveliștile panoramice asupra râului Duero de jos.",
+        "en": "Start your walking adventure traversing the ancient stone archway of Doña Urraca's gate, feeling the medieval history around you before reaching the lively City Hall square. The midday sun guides you indoors to the Ethnographic Museum, where Castilian traditions come to life, followed by a fascinating overview of the medieval urban layout at the interpretation center. Spend the afternoon admiring the priceless Flemish tapestries within the Cathedral Museum, offering a peaceful retreat in the historic religious heart of Zamora. Conclude your walk at the formidable Zamora Castle as the sun begins to set, walking the historic ramparts to take in panoramic views of the Douro River below."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 2.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Zamora",
+            "hu": "Castillo de Zamora",
+            "ro": "Castillo de Zamora",
+            "en": "Castillo de Zamora"
+          },
+          "coords": [
+            -5.756153,
+            41.49979
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Festungsmauern dieser sternförmigen Burg für unglaubliche Ausblicke und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig a csillag alakú erőd felújított sáncain a hihetetlen kilátásért, és viseljen kényelmes cipőt az egyenetlen kőutakon való közlekedéshez.",
+            "ro": "Plimbați-vă pe meterezele restaurate ale acestei cetăți pentru vederi incredibile și purtați pantofi comozi pentru a naviga pe potecile de piatră.",
+            "en": "Walk the newly restored ramparts of this star-shaped fortress for incredible views, and wear comfortable shoes to navigate the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Portillo de la Lealtad",
+            "hu": "Portillo de la Lealtad",
+            "ro": "Portillo de la Lealtad",
+            "en": "Portillo de la Lealtad"
+          },
+          "coords": [
+            -5.754408,
+            41.500493
+          ],
+          "category": "fortress",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem historischen Tor des Verrats, um die mittelalterlichen Legenden zu spüren, und lesen Sie die Tafel, um seine Rolle zu verstehen.",
+            "hu": "Álljon meg a történelmi Árulás Kapuja előtt, érezze a középkori legendákat, és olvassa el a közeli táblát, hogy megértse a helyi történelmet.",
+            "ro": "Stați în fața istoricei Porți a Trădării pentru a simți legendele medievale și citiți placa din apropiere pentru a-i înțelege rolul istoric.",
+            "en": "Stand before the historic 'Gate of Treason' to sense the dramatic medieval legends, and read the nearby plaque to understand its role in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio del Cordón",
+            "hu": "Palacio del Cordón",
+            "ro": "Palacio del Cordón",
+            "en": "Palacio del Cordón"
+          },
+          "coords": [
+            -5.747596,
+            41.501039
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Betrachten Sie die in Stein gemeißelte Franziskanerkordel am Eingang dieses Palastes und kommen Sie an Wochentagen vormittags für mehr Ruhe.",
+            "hu": "Figyelje meg a palota bejáratát keretező kőbe faragott ferences kötelet, és látogasson el hétköznap délelőtt, amikor a belső tér csendesebb.",
+            "ro": "Observați cordonul franciscan sculptat în piatră care încadrează intrarea acestui palat și vizitați în diminețile din timpul săptămânii.",
+            "en": "Observe the unique Franciscan cord carved in stone framing the entrance of this palace, and visit during weekday mornings when the interior is quieter."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Leonardo",
+            "hu": "Iglesia de San Leonardo",
+            "ro": "Iglesia de San Leonardo",
+            "en": "Iglesia de San Leonardo"
+          },
+          "coords": [
+            -5.745164,
+            41.502096
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie den romanischen Charme dieser kleinen Kirche im Stadtzentrum und achten Sie genau auf die Kragsteine der alten Dachkonstruktion.",
+            "hu": "Fedezze fel ennek a kis belvárosi templomnak a rejtett román kori varázsát, és nézze meg közelebbről az ősi tetőszerkezetet tartó gyámköveket.",
+            "ro": "Descoperiți farmecul romanic ascuns al acestei mici biserici din centrul orașului și priviți atent consolele care susțin vechea structură a acoperișului.",
+            "en": "Discover the hidden Romanesque charm of this small church tucked in the city center, and look closely at the corbels supporting the ancient roof structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent of San Francisco",
+            "hu": "Convent of San Francisco",
+            "ro": "Convent of San Francisco",
+            "en": "Convent of San Francisco"
+          },
+          "coords": [
+            -5.749537,
+            41.497309
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen Klosterkomplexes und prüfen Sie das Programm für kulturelle Veranstaltungen, die hier oft stattfinden.",
+            "hu": "Fedezze fel a történelmi kolostorkomplexum romjait és újjáépített tereit, és nézze meg a kerengőben alkalmanként megrendezett események programját.",
+            "ro": "Explorați ruinele și spațiile reconstruite ale acestui complex istoric și verificați programul evenimentelor culturale organizate ocazional în claustru.",
+            "en": "Explore the ruins and reconstructed spaces of this historic convent complex, and check the schedule for cultural events occasionally held in the cloisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Fluvial de Los Pelambres",
+            "hu": "Playa Fluvial de Los Pelambres",
+            "ro": "Playa Fluvial de Los Pelambres",
+            "en": "Playa Fluvial de Los Pelambres"
+          },
+          "coords": [
+            -5.754143,
+            41.495648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Naherholungsgebiet am Fluss mit bestem Blick auf die Skyline von Zamora und bringen Sie eine Picknickdecke für den Nachmittag mit.",
+            "hu": "Pihenjen ezen a folyóparti területen, ahonnan a legjobb kilátás nyílik Zamora sziluettjére, és hozzon magával egy pikniktakarót a nyugodt délutánhoz.",
+            "ro": "Relaxați-vă în acest loc de pe malul râului oferind cea mai bună vedere asupra orașului și aduceți o pătură de picnic pentru o după-amiază liniștită.",
+            "en": "Relax at this riverside recreational spot offering the absolute best views of Zamora's skyline, and bring a picnic blanket to enjoy a peaceful afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Burg von Zamora und genießen Sie die morgendliche Brise, bevor Sie zum legendären Tor des Verrats mit seiner königlichen Folklore radeln. Fahren Sie durch die historischen Straßen, um die einzigartige Fassade des Palacio del Cordón zu bewundern, und machen Sie Halt an der charmanten Kirche San Leonardo. Setzen Sie Ihre Reise auf zwei Rädern zu den Ruinen des Klosters San Francisco fort und genießen Sie die friedliche Atmosphäre der Gärten und Kreuzgänge. Beenden Sie den Tag an der Flussbucht Los Pelambres. Entspannen Sie am Ufer, während die Sonne untergeht und goldene Reflexionen auf die Skyline von Zamora wirft.",
+        "hu": "Kezdje a biciklizést a zamorai várnál, élvezze a friss reggeli szellőt a sáncokon, majd tekerjen át a régi királyi legendákkal átszőtt Árulás Kapujához. Kerékpározzon a történelmi utcákon a Palacio del Cordón egyedi homlokzatához, majd álljon meg a közelben megbúvó bájos San Leonardo templomnál. Folytassa kétkerekű útját a San Francisco kolostor újjáépített romjaihoz, és élvezze a csendes kerengő és a kertek békés atmoszféráját a délután folyamán. Fejezze be a napot a Los Pelambres folyóparti strandján. Pihenjen a füves parton naplementekor, amikor a város sziluettje arany színben tükröződik a vízen.",
+        "ro": "Începeți plimbarea cu bicicleta la Castelul Zamora, bucurându-vă de briza dimineții, înainte de a pedala spre legendara Poartă a Trădării, plină de folclor regal. Ciclismul vă duce prin străzile istorice pentru a admira fațada unică a Palacio del Cordón, oprindu-vă apoi la fermecătoarea biserică San Leonardo din apropiere. Continuați călătoria pe două roți către ruinele reconstruite ale Mănăstirii San Francisco, bucurându-vă de atmosfera liniștită a grădinilor în timpul după-amiezii. Terminați ziua coborând spre plaja fluvială Los Pelambres. Odihniți-vă pe malurile cu iarbă la apus, când orizontul orașului se reflectă auriu pe suprafața apei.",
+        "en": "Begin your ride at Zamora Castle, enjoying a crisp morning breeze atop the ramparts before pedaling over to the legendary Gate of Treason steeped in old royal folklore. Cycle smoothly through the historic streets to admire the unique facade of Palacio del Cordón, then stop at the charming San Leonardo church nestled nearby. Continue your two-wheeled journey to the reconstructed ruins of the San Francisco Convent, enjoying the quiet cloisters and peaceful garden atmosphere. Finish the day cruising down to Los Pelambres river beach. Rest on the grassy banks as the sun sets, casting golden reflections across the water towards the city skyline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 3.43,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Municipal \"La Sindical\"",
+            "hu": "Piscina Municipal \"La Sindical\"",
+            "ro": "Piscina Municipal \"La Sindical\"",
+            "en": "Piscina Municipal \"La Sindical\""
+          },
+          "coords": [
+            -5.736276,
+            41.501909
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich an einem heißen Sommertag in diesen großen öffentlichen Pools ab und kommen Sie pünktlich zur Öffnung, um einen Schattenplatz zu sichern.",
+            "hu": "Hűsöljön ezekben a tágas nyilvános medencékben egy forró nyári napon, és érkezzen pontosan nyitásra, hogy biztosítson egy jó napozóágyat az árnyékban.",
+            "ro": "Răcoriți-vă în aceste piscine publice spațioase într-o zi fierbinte de vară și ajungeți la ora deschiderii pentru a prinde un șezlong bun la umbră.",
+            "en": "Cool off in these spacious public pools on a hot summer day, and arrive right at opening time to secure a good lounge chair in the shaded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia del Sepulcro",
+            "hu": "Iglesia del Sepulcro",
+            "ro": "Iglesia del Sepulcro",
+            "en": "Iglesia del Sepulcro"
+          },
+          "coords": [
+            -5.746166,
+            41.492152
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese faszinierende Kirche mit ihren Verbindungen zu den Tempelrittern und konzentrieren Sie sich auf die strenge romanische Architektur.",
+            "hu": "Látogasson el ebbe az érdekes templomba, amely erősen kötődik a templomos lovagokhoz, és fókuszáljon a szigorú, későbbi kiegészítésektől mentes építészetre.",
+            "ro": "Vizitați această biserică intrigantă cu legăturile sale puternice cu Cavalerii Templieri și concentrați-vă asupra arhitecturii romanice austere.",
+            "en": "Visit this intriguing church with its strong Knights Templar associations, and focus on the austere Romanesque architecture free from later additions."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Frontis",
+            "hu": "Iglesia de San Frontis",
+            "ro": "Iglesia de San Frontis",
+            "en": "Iglesia de San Frontis"
+          },
+          "coords": [
+            -5.754284,
+            41.493655
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Steinbrücke zu dieser frühen romanischen Kirche am gegenüberliegenden Ufer und genießen Sie die ruhige, dörfliche Atmosphäre.",
+            "hu": "Kelj át a kőhídon, hogy megtalálja ezt a kora román templomot a szemközti folyóparton, és élvezze a környék nyugodt, falusias hangulatát.",
+            "ro": "Traversați podul de piatră pentru a găsi această biserică romanică timpurie pe malul opus și bucurați-vă de atmosfera liniștită a satului din jur.",
+            "en": "Cross the stone bridge to find this early Romanesque church nestled on the opposite riverbank, and enjoy the tranquil village-like atmosphere around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Catedralicio de Zamora",
+            "hu": "Museo Catedralicio de Zamora",
+            "ro": "Museo Catedralicio de Zamora",
+            "en": "Museo Catedralicio de Zamora"
+          },
+          "coords": [
+            -5.754544,
+            41.499222
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die außergewöhnlichen flämischen Wandteppiche in diesem Museum und nutzen Sie den Audioguide, um die biblischen Szenen zu verstehen.",
+            "hu": "Csodálja meg a kivételes flamand falikárpitokat ebben a múzeumban, és kérjen hangosvezetőt, hogy megértse a bonyolult bibliai jeleneteket.",
+            "ro": "Minunați-vă de extraordinarele tapiserii flamande din acest muzeu și luați ghidul audio pentru a înțelege scenele biblice complicate reprezentate.",
+            "en": "Marvel at the extraordinary Flemish tapestries housed in this essential museum, and pick up the audio guide to understand the intricate biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Doña Urraca",
+            "hu": "Puerta de Doña Urraca",
+            "ro": "Puerta de Doña Urraca",
+            "en": "Puerta de Doña Urraca"
+          },
+          "coords": [
+            -5.748753,
+            41.504449
+          ],
+          "category": "fortress",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mittelalterliche Tor voller Geschichte und fotografieren Sie die verwitterten Steinbögen am besten im sanften Morgenlicht.",
+            "hu": "Csodálja meg ezt a középkori kaput, amely tele van történelemmel, és mindenképpen fotózza le az íveket a lágy reggeli fényben, ami kiemeli a köveket.",
+            "ro": "Admirați această poartă medievală plină de istorie și asigurați-vă că fotografiați arcadele de piatră erodată în lumina blândă și caldă a dimineții.",
+            "en": "Admire this rounded medieval gate steeped in legendary history, and be sure to photograph the weathered stone archways in the soft morning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie erfrischend in den großen Pools von La Sindical, bevor Sie bequem über den Fluss zur faszinierenden Templerkirche Iglesia del Sepulcro fahren. Machen Sie eine kurze Fahrt zur Kirche San Frontis am Flussufer und bewundern Sie die frühe romanische Architektur in einer ruhigen, dörflichen Umgebung. Fahren Sie zurück in den mittelalterlichen Kern, um das Kathedralenmuseum zu erkunden, in dem sich spektakuläre Wandteppiche und religiöse Kunst befinden. Parken Sie für Ihren letzten Halt in der Nähe des Tors Doña Urraca. Die beleuchteten Steine bieten einen dramatischen Abschied von Zamoras zeitloser Schönheit.",
+        "hu": "Kezdje a napot frissítően a La Sindical tágas medencéinél, majd egy rövid vezetés után keljen át a folyón, hogy felfedezze a lenyűgöző Sepulcro templomot. Vezessen a folyóparti San Frontis templomhoz, amely kora román kori építészetét egy csendesebb, falusias környezetben, a tömegtől távol kínálja. Autózzon vissza a középkori magba, hogy felfedezze a Katedrális Múzeumot, amely látványos falikárpitoknak és évszázados vallási művészetnek ad otthont. Parkoljon le a Doña Urraca kapu közelében az utolsó megállóhoz. A kivilágított ősi kövek drámai búcsút vesznek Zamora kortalan építészeti szépségétől.",
+        "ro": "Începeți cu o dimineață revigorantă la piscinele spațioase La Sindical, înainte de a conduce peste râu la fascinanta biserică a Templierilor, Sepulcro. Faceți o scurtă plimbare cu mașina până la biserica San Frontis, admirând arhitectura sa romanică timpurie într-un cadru mai liniștit, departe de mulțimi. Conduceți înapoi în nucleul medieval pentru a explora Muzeul Catedralei, care găzduiește tapiserii spectaculoase și secole de artă religioasă profundă. Parcați lângă impunătoarea poartă Doña Urraca pentru oprirea finală. Pietrele antice iluminate oferă un rămas bun dramatic de la frumusețea orașului Zamora.",
+        "en": "Start with a refreshing morning at the spacious La Sindical pools, enjoying an easy arrival before driving across the river to the fascinating Sepulcro church. Take a short drive to San Frontis church on the riverbank, admiring its early Romanesque architecture in a quieter, village-like setting away from the main crowds. Drive back across the water into the medieval core to explore the Cathedral Museum, home to spectacular tapestries and centuries of profound religious art. Park near the imposing Doña Urraca gate for your final stop. The illuminated ancient stones provide a dramatic farewell to Zamora's timeless architectural beauty."
+      }
+    }
+  }
+}

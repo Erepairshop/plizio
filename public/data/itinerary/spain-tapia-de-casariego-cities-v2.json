@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-tapia-de-casariego-cities-v2",
+  "anchor": {
+    "name": "Tapia de Casariego",
+    "coords": [
+      -6.94365,
+      43.56926
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nautilus Furor",
+            "hu": "Nautilus Furor",
+            "ro": "Nautilus Furor",
+            "en": "Nautilus Furor"
+          },
+          "coords": [
+            -6.943702,
+            43.570197
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende maritime Denkmal über den Untergang der Nautilus und lesen Sie die Schautafeln, während Sie die Meeresbrise genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerészeti emlékművet, amely a Nautilus drámai elsüllyedését mutatja be, és olvassa el a táblákat a tengeri szellőt élvezve.",
+            "ro": "Explorați acest monument maritim fascinant despre scufundarea dramatică a navei Nautilus și citiți plăcile informative în timp ce vă bucurați de briza mării.",
+            "en": "Explore this fascinating maritime monument detailing the dramatic sinking of the Nautilus, and read the informative plaques while enjoying the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de La Guardia",
+            "hu": "Mirador de La Guardia",
+            "ro": "Mirador de La Guardia",
+            "en": "Mirador de La Guardia"
+          },
+          "coords": [
+            -6.945885,
+            43.571799
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Stehen Sie an diesem außergewöhnlichen Aussichtspunkt, um die mächtigen Wellen zu beobachten, und bringen Sie eine Windjacke mit, da die Böen hier stark sind.",
+            "hu": "Álljon ki erre a kivételes kilátópontra, hogy megcsodálja a szikláknak csapódó hatalmas hullámokat, és hozzon magával széldzsekit az erős parti széllökések miatt.",
+            "ro": "Stați la acest punct de belvedere excepțional pentru a vedea valurile puternice, și aduceți o jachetă de vânt, deoarece rafalele de coastă sunt destul de puternice aici.",
+            "en": "Stand at this exceptional viewpoint to witness the powerful waves crashing against the cliffs, and bring a windbreaker as the coastal gusts are quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Tapia de Casariego",
+            "hu": "Faro de Tapia de Casariego",
+            "ro": "Faro de Tapia de Casariego",
+            "en": "Faro de Tapia de Casariego"
+          },
+          "coords": [
+            -6.946004,
+            43.574379
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses aktiven Leuchtturms auf der Insel und überqueren Sie die malerische Brücke am frühen Morgen, um die Massen zu meiden.",
+            "hu": "Csodálja meg a szigeten álló, ma is működő világítótorony lenyűgöző építészetét, és menjen át a festői hídon kora reggel, hogy elkerülje a turisták tömegét.",
+            "ro": "Admirați arhitectura izbitoare a acestui far activ de pe insulă și traversați podul pitoresc dis-de-dimineață pentru a evita aglomerația de turiști.",
+            "en": "Admire the striking architecture of this active lighthouse on the island, and cross the scenic bridge early in the morning to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de los Cañones",
+            "hu": "Mirador de los Cañones",
+            "ro": "Mirador de los Cañones",
+            "en": "Mirador de los Cañones"
+          },
+          "coords": [
+            -6.947848,
+            43.571808
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beobachten Sie die historischen Kanonen, die noch immer die Küste bewachen, und versuchen Sie, die einheimischen Seevögel in den Klippen zu entdecken.",
+            "hu": "Figyelje meg a zord partvidéket még mindig őrző történelmi ágyúkat erről a pontról, és próbálja meg észrevenni a környező sziklákban fészkelő tengeri madarakat.",
+            "ro": "Observați tunurile istorice care încă păzesc coasta accidentată și încercați să zăriți păsările marine locale care cuibăresc pe stâncile din jur.",
+            "en": "Observe the historic cannons still guarding the rugged coastline from this vantage point, and try to spot the local seabirds nesting in the surrounding cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa a Ribeiría",
+            "hu": "Playa a Ribeiría",
+            "ro": "Playa a Ribeiría",
+            "en": "Playa a Ribeiría"
+          },
+          "coords": [
+            -6.948282,
+            43.569917
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses malerischen Strandes mit ruhigem Wasser und mieten Sie früh eine Sonnenliege, um den besten Platz nahe den Cafés zu sichern.",
+            "hu": "Pihenjen ennek a festői városi strandnak a finom homokján, amely nyugodt vizet kínál, és béreljen napágyat korán a hangulatos kávézók közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu ape calme și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc lângă cafenele.",
+            "en": "Relax on the fine sands of this picturesque town beach offering calm waters, and rent a sunbed early to secure the best spot near the charming local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Murallón",
+            "hu": "Playa del Murallón",
+            "ro": "Playa del Murallón",
+            "en": "Playa del Murallón"
+          },
+          "coords": [
+            -6.947747,
+            43.568104
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad an diesem beliebten Surfstrand und tragen Sie Wasserschuhe, um bei Ebbe sicher durch die felsigen Abschnitte zu navigieren.",
+            "hu": "Mártózzon meg ezen a lenyűgöző hullámtörővel szegélyezett, népszerű szörfstrandon, és viseljen vizicipőt, hogy biztonságosan átkeljen a sziklás részeken apálykor.",
+            "ro": "Faceți o baie răcoritoare la această plajă populară pentru surf și purtați pantofi de apă pentru a naviga în siguranță pe secțiunile stâncoase în timpul refluxului.",
+            "en": "Take a refreshing dip at this popular surf beach framed by an impressive seawall, and wear water shoes to safely navigate the rocky sections during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der faszinierenden historischen Denkmäler und atemberaubenden Aussichtspunkte im Zentrum. Mittags überqueren Sie die malerische Brücke zum ikonischen Leuchtturm, wo der Meerblick unvergleichlich ist. Verbringen Sie den Nachmittag entspannt an den beliebtesten Stränden der Stadt, schwimmen und sonnenbaden Sie. Beenden Sie Ihren Spaziergang mit einem wunderschönen Abendbummel entlang der Ufermauer und lauschen Sie den Atlantikwellen.",
+        "hu": "Kezdje a reggelt a városközpont lenyűgöző történelmi emlékeinek és lenyűgöző tengerparti kilátópontjainak felfedezésével. Délben menjen át a festői hídon a sziget ikonikus világítótornyához, ahonnan a tengeri panoráma páratlan. Töltse a délutánt pihenéssel a város legkedveltebb központi strandjain, úszással és napozással. Fejezze be kényelmes sétáját egy gyönyörű esti barangolással a hullámtörő mentén, élvezve az Atlanti-óceán hullámainak hangját.",
+        "ro": "Începeți dimineața explorând fascinantele repere istorice și punctele de belvedere de coastă uimitoare din centrul fermecător. La prânz, traversați podul pitoresc spre farul iconic, unde priveliștile oceanului sunt inegalabile. Petreceți-vă după-amiaza relaxându-vă la cele mai iubite plaje centrale ale orașului, înotând și făcând plajă. Încheiați turul de plimbare cu o seară frumoasă de-a lungul digului, bucurându-vă de sunetul valurilor Atlanticului.",
+        "en": "Start your morning exploring the fascinating historical markers and stunning coastal viewpoints around the town's charming center. Midday invites you to cross the scenic bridge to the iconic island lighthouse, where the ocean views are unmatched. Spend your afternoon relaxing at the town's most beloved central beaches, swimming and sunbathing. Conclude your leisurely walking tour with a beautiful evening stroll along the seawall, enjoying the sound of the Atlantic waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Castelo de El Esteiro",
+            "hu": "El Castelo de El Esteiro",
+            "ro": "El Castelo de El Esteiro",
+            "en": "El Castelo de El Esteiro"
+          },
+          "coords": [
+            -6.959275,
+            43.561932
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie um die alten Ruinen dieser Küstenfestung, die einst die Flussmündung verteidigte, und achten Sie auf die unebenen Pfade, da einige Steine rutschig sind.",
+            "hu": "Sétáljon a torkolatot egykor védő parti erőd ősi romjai körül, és legyen óvatos az egyenetlen ösvényeken, mert néhány kő meglehetősen csúszós lehet.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestui fort care a apărat estuarul și fiți atenți pe cărările denivelate, deoarece unele pietre sunt destul de alunecoase.",
+            "en": "Wander around the ancient ruins of this coastal fort that once defended the estuary, and stay alert on the uneven paths as some stones are quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa De La Paloma",
+            "hu": "Playa De La Paloma",
+            "ro": "Playa De La Paloma",
+            "en": "Playa De La Paloma"
+          },
+          "coords": [
+            -6.954222,
+            43.566298
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Natur dieser einsamen, von grünen Hügeln umgebenen Bucht und bringen Sie Snacks mit, da es am Strand wenig Einrichtungen gibt.",
+            "hu": "Élvezze ennek a zöldellő dombokkal körülvett, eldugott öbölnek a lenyűgöző természeti környezetét, és csomagoljon saját harapnivalót, mivel itt kevés a szolgáltatás.",
+            "ro": "Bucurați-vă de cadrul natural uimitor al acestui golf izolat înconjurat de dealuri verzi și împachetați-vă propriile gustări, deoarece facilitățile sunt limitate aici.",
+            "en": "Enjoy the stunning natural setting of this secluded cove surrounded by green hills, and pack your own snacks as there are limited facilities directly on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Los Campos",
+            "hu": "Playa de Los Campos",
+            "ro": "Playa de Los Campos",
+            "en": "Playa de Los Campos"
+          },
+          "coords": [
+            -6.948678,
+            43.565527
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten Sandstrand, der Fluss und Meer perfekt verbindet, und kommen Sie bei Sonnenuntergang für spektakuläre Fotomotive des Horizonts.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos parton, ahol a folyó tökéletesen egybeolvad a tengerrel, és látogasson el ide naplementekor a látványos fotókért.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm nisipos unde râul se îmbină perfect cu marea și vizitați la apus pentru oportunități fotografice spectaculoase.",
+            "en": "Walk along this expansive sandy shore which perfectly merges the river with the sea, and visit during sunset for spectacular photo opportunities of the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Nautilus Furor",
+            "hu": "Nautilus Furor",
+            "ro": "Nautilus Furor",
+            "en": "Nautilus Furor"
+          },
+          "coords": [
+            -6.943702,
+            43.570197
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende maritime Denkmal über den Untergang der Nautilus und lesen Sie die Schautafeln, während Sie die Meeresbrise genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerészeti emlékművet, amely a Nautilus drámai elsüllyedését mutatja be, és olvassa el a táblákat a tengeri szellőt élvezve.",
+            "ro": "Explorați acest monument maritim fascinant despre scufundarea dramatică a navei Nautilus și citiți plăcile informative în timp ce vă bucurați de briza mării.",
+            "en": "Explore this fascinating maritime monument detailing the dramatic sinking of the Nautilus, and read the informative plaques while enjoying the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Tapia de Casariego",
+            "hu": "Faro de Tapia de Casariego",
+            "ro": "Faro de Tapia de Casariego",
+            "en": "Faro de Tapia de Casariego"
+          },
+          "coords": [
+            -6.946004,
+            43.574379
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses aktiven Leuchtturms auf der Insel und überqueren Sie die malerische Brücke am frühen Morgen, um die Massen zu meiden.",
+            "hu": "Csodálja meg a szigeten álló, ma is működő világítótorony lenyűgöző építészetét, és menjen át a festői hídon kora reggel, hogy elkerülje a turisták tömegét.",
+            "ro": "Admirați arhitectura izbitoare a acestui far activ de pe insulă și traversați podul pitoresc dis-de-dimineață pentru a evita aglomerația de turiști.",
+            "en": "Admire the striking architecture of this active lighthouse on the island, and cross the scenic bridge early in the morning to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Represas",
+            "hu": "Playa de Represas",
+            "ro": "Playa de Represas",
+            "en": "Playa de Represas"
+          },
+          "coords": [
+            -6.937811,
+            43.569771
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Felsformationen und Gezeitentümpel an diesem wilden Strand und planen Sie Ihren Besuch bei Ebbe, um die Meeresbewohner zu erkunden.",
+            "hu": "Csodálja meg a drámai sziklaalakzatokat és árapály-medencéket ezen a vadabb strandon, és időzítse látogatását apályra, hogy teljesen felfedezze a tengeri élővilágot.",
+            "ro": "Admirați formațiunile stâncoase dramatice și bazinele mareice de pe această plajă sălbatică și planificați-vă vizita la reflux pentru a explora viața marină ascunsă.",
+            "en": "Marvel at the dramatic rock formations and tidal pools on this wilder beach, and time your visit with the low tide to fully explore the hidden marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Westen, um alte Festungsruinen und ruhige Strände zu entdecken. Mittags radeln Sie in Richtung Küste und folgen Wegen, die Sandbuchten mit historischen Denkmälern verbinden. Die Nachmittagsbrise begleitet Sie auf der Fahrt zum ikonischen Leuchtturm mit seiner spektakulären Aussicht. Beenden Sie den Tag mit einer Fahrt nach Osten zu wilderen Ufern, wo dramatische Felsformationen im Abendlicht leuchten.",
+        "hu": "Kezdje kerékpáros kalandját nyugat felé, hogy felfedezze egy torkolati erőd ősi romjait és a csendes nyugati strandokat. Délben tekerjen a központi partvidék felé, követve a homokos öblöket és történelmi emlékeket összekötő utakat. A délutáni szellő kíséri majd, amikor felbiciklizik az ikonikus világítótoronyhoz a látványos panorámáért. Fejezze be a napot kelet felé tartva, ahol a drámai sziklaalakzatok melegen ragyognak az esti napfényben.",
+        "ro": "Începeți aventura cu bicicleta îndreptându-vă spre vest pentru a descoperi ruinele antice ale fortului și plajele liniștite. La prânz, pedalați spre coasta centrală, urmând traseele care leagă golfurile de nisip cu monumentele istorice. Briza vă însoțește după-amiaza când urcați spre farul iconic pentru priveliști panoramice spectaculoase. Încheiați ziua mergând spre est pentru a explora țărmuri mai sălbatice, unde rocile strălucesc cald sub soarele de seară.",
+        "en": "Kick off your cycling adventure by heading west to discover the ancient ruins of an estuary fort and the tranquil western beaches. By midday, pedal towards the central coastline, tracing the paths that link sandy coves to historical monuments. The afternoon breeze accompanies you as you ride up to the iconic lighthouse for spectacular panoramic vistas. Finish the day riding east to explore wilder shorelines, where dramatic rock formations glow warmly under the evening sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Represas",
+            "hu": "Playa de Represas",
+            "ro": "Playa de Represas",
+            "en": "Playa de Represas"
+          },
+          "coords": [
+            -6.937811,
+            43.569771
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Felsformationen und Gezeitentümpel an diesem wilden Strand und planen Sie Ihren Besuch bei Ebbe, um die Meeresbewohner zu erkunden.",
+            "hu": "Csodálja meg a drámai sziklaalakzatokat és árapály-medencéket ezen a vadabb strandon, és időzítse látogatását apályra, hogy teljesen felfedezze a tengeri élővilágot.",
+            "ro": "Admirați formațiunile stâncoase dramatice și bazinele mareice de pe această plajă sălbatică și planificați-vă vizita la reflux pentru a explora viața marină ascunsă.",
+            "en": "Marvel at the dramatic rock formations and tidal pools on this wilder beach, and time your visit with the low tide to fully explore the hidden marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Tapia de Casariego",
+            "hu": "Faro de Tapia de Casariego",
+            "ro": "Faro de Tapia de Casariego",
+            "en": "Faro de Tapia de Casariego"
+          },
+          "coords": [
+            -6.946004,
+            43.574379
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses aktiven Leuchtturms auf der Insel und überqueren Sie die malerische Brücke am frühen Morgen, um die Massen zu meiden.",
+            "hu": "Csodálja meg a szigeten álló, ma is működő világítótorony lenyűgöző építészetét, és menjen át a festői hídon kora reggel, hogy elkerülje a turisták tömegét.",
+            "ro": "Admirați arhitectura izbitoare a acestui far activ de pe insulă și traversați podul pitoresc dis-de-dimineață pentru a evita aglomerația de turiști.",
+            "en": "Admire the striking architecture of this active lighthouse on the island, and cross the scenic bridge early in the morning to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de los Cañones",
+            "hu": "Mirador de los Cañones",
+            "ro": "Mirador de los Cañones",
+            "en": "Mirador de los Cañones"
+          },
+          "coords": [
+            -6.947848,
+            43.571808
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die historischen Kanonen, die noch immer die Küste bewachen, und versuchen Sie, die einheimischen Seevögel in den Klippen zu entdecken.",
+            "hu": "Figyelje meg a zord partvidéket még mindig őrző történelmi ágyúkat erről a pontról, és próbálja meg észrevenni a környező sziklákban fészkelő tengeri madarakat.",
+            "ro": "Observați tunurile istorice care încă păzesc coasta accidentată și încercați să zăriți păsările marine locale care cuibăresc pe stâncile din jur.",
+            "en": "Observe the historic cannons still guarding the rugged coastline from this vantage point, and try to spot the local seabirds nesting in the surrounding cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa a Ribeiría",
+            "hu": "Playa a Ribeiría",
+            "ro": "Playa a Ribeiría",
+            "en": "Playa a Ribeiría"
+          },
+          "coords": [
+            -6.948282,
+            43.569917
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses malerischen Strandes mit ruhigem Wasser und mieten Sie früh eine Sonnenliege, um den besten Platz nahe den Cafés zu sichern.",
+            "hu": "Pihenjen ennek a festői városi strandnak a finom homokján, amely nyugodt vizet kínál, és béreljen napágyat korán a hangulatos kávézók közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu ape calme și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc lângă cafenele.",
+            "en": "Relax on the fine sands of this picturesque town beach offering calm waters, and rent a sunbed early to secure the best spot near the charming local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa De La Paloma",
+            "hu": "Playa De La Paloma",
+            "ro": "Playa De La Paloma",
+            "en": "Playa De La Paloma"
+          },
+          "coords": [
+            -6.954222,
+            43.566298
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Natur dieser einsamen, von grünen Hügeln umgebenen Bucht und bringen Sie Snacks mit, da es am Strand wenig Einrichtungen gibt.",
+            "hu": "Élvezze ennek a zöldellő dombokkal körülvett, eldugott öbölnek a lenyűgöző természeti környezetét, és csomagoljon saját harapnivalót, mivel itt kevés a szolgáltatás.",
+            "ro": "Bucurați-vă de cadrul natural uimitor al acestui golf izolat înconjurat de dealuri verzi și împachetați-vă propriile gustări, deoarece facilitățile sunt limitate aici.",
+            "en": "Enjoy the stunning natural setting of this secluded cove surrounded by green hills, and pack your own snacks as there are limited facilities directly on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "El Castelo de El Esteiro",
+            "hu": "El Castelo de El Esteiro",
+            "ro": "El Castelo de El Esteiro",
+            "en": "El Castelo de El Esteiro"
+          },
+          "coords": [
+            -6.959275,
+            43.561932
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie um die alten Ruinen dieser Küstenfestung, die einst die Flussmündung verteidigte, und achten Sie auf die unebenen Pfade, da einige Steine rutschig sind.",
+            "hu": "Sétáljon a torkolatot egykor védő parti erőd ősi romjai körül, és legyen óvatos az egyenetlen ösvényeken, mert néhány kő meglehetősen csúszós lehet.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestui fort care a apărat estuarul și fiți atenți pe cărările denivelate, deoarece unele pietre sunt destul de alunecoase.",
+            "en": "Wander around the ancient ruins of this coastal fort that once defended the estuary, and stay alert on the uneven paths as some stones are quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an den rauen östlichen Rändern der Stadt, wo wilde Gezeitentümpel Ihre Sinne wecken. Fahren Sie mittags ins Zentrum, um den berühmten Leuchtturm und historische Aussichtspunkte zu besichtigen. Der Nachmittag ist dem Wechsel zwischen unberührten, goldenen Stränden gewidmet, wo Sie parken und entspannen können. Beenden Sie Ihre Tour mit einer Fahrt zu den alten westlichen Ruinen, während die Sonne über der Mündung untergeht.",
+        "hu": "Autós kirándulása a város zord keleti peremén kezdődik, ahol a vad árapály-medencék felébresztik érzékeit. Délben hajtson be a városközpontba, hogy meglátogassa a híres világítótornyot és megcsodálja a történelmi kilátópontokat. A délutánt az érintetlen, aranyhomokos strandok közötti ugrálásnak szenteljük, ahol a közelben parkolhat. Zárja le az átfogó túrát azzal, hogy a nyugati ősi romokhoz vezet, miközben a nap lemegy a torkolat felett.",
+        "ro": "Călătoria auto începe la marginile estice accidentate ale orașului, unde bazinele mareice sălbatice vă trezesc simțurile. La prânz, conduceți în centrul orașului pentru a vizita faimosul far și punctele de belvedere istorice. După-amiaza este dedicată explorării plajelor imaculate și aurii, unde puteți parca și vă puteți relaxa imediat. Încheiați-vă turul conducând spre ruinele antice din vest, în timp ce soarele apune peste estuar.",
+        "en": "Your road trip starts on the rugged eastern edges of the town, where wild tidal pools and dramatic seascapes awaken your senses. By noon, drive into the town center to visit the famous lighthouse and marvel at historic coastal viewpoints. The afternoon is dedicated to hopping between pristine, golden beaches, where you can park nearby and instantly relax. Wrap up your comprehensive tour by driving out to the ancient western ruins as the sun sets over the estuary."
+      }
+    }
+  }
+}

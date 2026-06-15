@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-ponza-cities-v2",
+  "anchor": {
+    "name": "Ponza",
+    "coords": [
+      12.966667,
+      40.9
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Sant'Antonio",
+            "hu": "Spiaggia di Sant'Antonio",
+            "ro": "Spiaggia di Sant'Antonio",
+            "en": "Spiaggia di Sant'Antonio"
+          },
+          "coords": [
+            12.960452,
+            40.894495
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem belebten Sandstrand nahe dem Hafen, wo klares Wasser zu einem erfrischenden morgendlichen Schwimmen einlädt.",
+            "hu": "Kezdje a napot ezen a forgalmas homokos strandon a kikötő közelében, ahol a kristálytiszta víz tökéletes egy reggeli frissítő úszáshoz.",
+            "ro": "Începeți ziua pe această plajă de nisip animată de lângă port, cu ape clare, ideală pentru o înot înviorător de dimineață înainte de aglomerație.",
+            "en": "Start your day at this bustling sandy beach near the port, offering clear waters perfect for a quick morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna della Dragonara",
+            "hu": "Cisterna della Dragonara",
+            "ro": "Cisterna della Dragonara",
+            "en": "Cisterna della Dragonara"
+          },
+          "coords": [
+            12.961385,
+            40.892344
+          ],
+          "category": "historical",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende antike römische Zisterne als Meisterwerk früher Ingenieurskunst, aber bringen Sie eine leichte Jacke für die kühlen Tunnel mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző ókori római ciszternát és a korai mérnöki zsenialitást, de vigyen magával egy könnyű kabátot a hűvös alagutak miatt.",
+            "ro": "Explorați această impresionantă cisternă romană antică pentru a vedea ingineria timpurie, dar luați o jachetă subțire, deoarece tunelele subterane sunt răcoroase.",
+            "en": "Explore this impressive ancient Roman cistern to see brilliant early engineering, but bring a light jacket as the underground tunnels get chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna del Corridoio",
+            "hu": "Cisterna del Corridoio",
+            "ro": "Cisterna del Corridoio",
+            "en": "Cisterna del Corridoio"
+          },
+          "coords": [
+            12.9662,
+            40.894195
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese riesige, vollständig in den Tuffstein gehauene unterirdische Zisterne, und tragen Sie festes Schuhwerk für die unebenen Böden.",
+            "hu": "Csodálja meg ezt a hatalmas, teljesen tufába vájt földalatti víztározót, és viseljen stabil cipőt a nedves, egyenetlen padlózat miatt.",
+            "ro": "Admirați această uriașă facilitate de stocare a apei sculptată în tuful vulcanic și purtați încălțăminte robustă pentru podelele umede și inegale.",
+            "en": "Marvel at this massive underground water storage facility carved entirely into the tuff rock, and wear sturdy shoes for the uneven, damp floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Borbonica",
+            "hu": "Torre Borbonica",
+            "ro": "Torre Borbonica",
+            "en": "Torre Borbonica"
+          },
+          "coords": [
+            12.967852,
+            40.895495
+          ],
+          "category": "tower",
+          "arrive_at": "13:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses von den Bourbonen erbauten Wehrturms aus dem 18. Jahrhundert, der ein tolles Fotomotiv bietet.",
+            "hu": "Csodálja meg a Bourbonok által épített, 18. századi védelmi torony masszív építészetét, amely kiváló fotóhátteret kínál a keleti sétányról.",
+            "ro": "Admirați arhitectura robustă a acestui turn defensiv din secolul al XVIII-lea, construit de Bourboni, o fundal foto excelent de pe promenada estică.",
+            "en": "Admire the sturdy architecture of this 18th-century defensive tower built by the Bourbons, offering a great photo backdrop from the eastern promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro rosso",
+            "hu": "Faro rosso",
+            "ro": "Faro rosso",
+            "en": "Faro rosso"
+          },
+          "coords": [
+            12.964433,
+            40.896346
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses leuchtend rote Hafenfeuer, das Schiffe nach Ponza leitet, und machen Sie ein maritimes Erinnerungsfoto von den einlaufenden Booten.",
+            "hu": "Álljon meg ennél a piros kikötői világítótoronynál, amely a hajókat Ponzába vezeti, és készítsen egy tengeri pillanatképet az érkező hajókról.",
+            "ro": "Opriți-vă la acest far roșu vibrant al portului care ghidează navele spre Ponza, surprinzând o fotografie maritimă perfectă cu bărcile care sosesc.",
+            "en": "Stop by this vibrant red harbor light guiding ships into Ponza, capturing the perfect maritime snapshot while waiting to watch the boats arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Madonna",
+            "hu": "Faro di Punta Madonna",
+            "ro": "Faro di Punta Madonna",
+            "en": "Faro di Punta Madonna"
+          },
+          "coords": [
+            12.970372,
+            40.895234
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem malerischen, auf Klippen thronenden Leuchtturm, der atemberaubende Panoramablicke aufs Mittelmeer bietet.",
+            "hu": "Fejezze be a sétát ezen a sziklás szirteken álló, ma is működő festői világítótoronynál, amely lenyűgöző panorámát nyújt a Földközi-tengerre.",
+            "ro": "Încheiați plimbarea la acest far pitoresc activ situat pe stânci abrupte, oferind o vedere panoramică uimitoare asupra Mării Mediterane la apus.",
+            "en": "End your walk at this scenic active lighthouse perched on rugged cliffs, providing stunning panoramic views of the Mediterranean Sea at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am lebhaften Strand nahe dem geschäftigen Hafen. Mittags entfliehen Sie der Hitze in den faszinierenden unterirdischen römischen Zisternen von Ponza. Am Nachmittag erkunden Sie die Küstenverteidigung rund um den ikonischen Bourbonenturm. Ihr Abend endet wunderschön mit einem Spaziergang zu den östlichen Leuchttürmen, um den Sonnenuntergang am Mittelmeer zu genießen.",
+        "hu": "Kezdje a reggelt a nyüzsgő kikötő melletti strand felfedezésével. Délben meneküljön a hőség elől Ponza lenyűgöző földalatti római ciszternáinak mélyére. Délután kövesse a sziget partvédelmi vonalát az ikonikus Bourbon-torony felé. Az este egy gyönyörű, romantikus sétával ér véget a keleti világítótornyok irányába, megcsodálva a Földközi-tenger feletti lélegzetelállító naplementét.",
+        "ro": "Începeți dimineața explorând zona plajei animate de lângă port. La prânz, scăpați de căldură coborând în fascinantele cisterne romane subterane din Ponza. După-amiaza, descoperiți apărarea de coastă a insulei spre iconicul turn Bourbon. Seara se încheie frumos cu o plimbare romantică spre farurile din est, admirând apusul spectaculos al soarelui deasupra Mării Mediterane.",
+        "en": "Start your morning exploring the lively beach area near the bustling port. By midday, escape the heat by delving deep into Ponza's fascinating underground Roman cisterns. In the afternoon, trace the island's coastal defenses towards the iconic Bourbon tower. Your evening ends beautifully with a romantic stroll toward the eastern lighthouses, taking in the spectacular Mediterranean sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            12.961285,
+            40.900453
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Pfarrkirche, die dem Heiligen Josef gewidmet ist, und bewundern Sie die bescheidene, aber elegante Inselarchitektur in Ruhe.",
+            "hu": "Lépjen be ebbe a Szent Józsefnek szentelt, bájos és nyugodt plébániatemplomba, és szánjon egy percet az elegáns szigeti építészet megcsodálására.",
+            "ro": "Pășiți în această fermecătoare și liniștită biserică parohială închinată Sfântului Iosif și admirați arhitectura sa insulară modestă, dar elegantă.",
+            "en": "Step inside this charming and tranquil parish church dedicated to St. Joseph, and take a moment to appreciate its modest yet elegant island architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "La marinella dei morti",
+            "hu": "La marinella dei morti",
+            "ro": "La marinella dei morti",
+            "en": "La marinella dei morti"
+          },
+          "coords": [
+            12.960198,
+            40.898222
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser abgelegenen Bucht mit faszinierenden lokalen Legenden, und bringen Sie Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Pihenjen meg ezen az eldugott öbölben, amely érdekes helyi legendákat őriz a közeli temetőről, és hozzon magával vizet a korlátozott ellátás miatt.",
+            "ro": "Relaxați-vă în acest golfuleț retras, cu legende locale fascinante despre cimitirul istoric din apropiere, și aduceți apă deoarece facilitățile sunt limitate.",
+            "en": "Relax at this somewhat secluded cove with fascinating local lore about the adjacent historic cemetery, and pack water since amenities are limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Sant'Antonio",
+            "hu": "Spiaggia di Sant'Antonio",
+            "ro": "Spiaggia di Sant'Antonio",
+            "en": "Spiaggia di Sant'Antonio"
+          },
+          "coords": [
+            12.960452,
+            40.894495
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang dieses ikonischen Hafenstrandes mit bunten Fischerbooten, wo die lebhafte Atmosphäre zu einer kurzen Pause am Wasser einlädt.",
+            "hu": "Élvezze a kerékpározást ezen az ikonikus, színes halászhajókkal szegélyezett kikötői strandon, ahol a nyüzsgő hangulat egy rövid vízparti szünetre csábít.",
+            "ro": "Bucurați-vă de o plimbare cu bicicleta pe lângă această plajă iconică de la port, plină de bărci colorate, unde atmosfera vibrantă vă invită la o scurtă pauză.",
+            "en": "Enjoy cycling past this iconic harbor beach lined with colorful fishing boats, where the lively atmosphere invites you to take a quick waterfront break."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiaia di Luna",
+            "hu": "Chiaia di Luna",
+            "ro": "Chiaia di Luna",
+            "en": "Chiaia di Luna"
+          },
+          "coords": [
+            12.954294,
+            40.894574
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die sichelförmigen weißen Klippen, aber betrachten Sie diese sicher von oben, da der Strandzugang wegen Steinschlag oft gesperrt ist.",
+            "hu": "Csodálja meg a tengerbe zuhanó félhold alakú, fehér sziklákat, de biztonságból fentről nézze, mivel a strand látogatása kőomlás miatt gyakran tilos.",
+            "ro": "Admirați stâncile albe imense în formă de semilună, dar priviți-le de sus în siguranță, deoarece accesul la plajă este adesea interzis din cauza căderilor de pietre.",
+            "en": "Marvel at the towering crescent-shaped white cliffs plunging into the sea, but view it safely from above since beach access is often restricted due to rockfalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Semaforo",
+            "hu": "Semaforo",
+            "ro": "Semaforo",
+            "en": "Semaforo"
+          },
+          "coords": [
+            12.956536,
+            40.884381
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Erreichen Sie diese historische Signalstation für einen unvergleichlichen Aussichtspunkt über den Süden der Insel, der die steile Anfahrt absolut lohnt.",
+            "hu": "Érje el ezt a történelmi szemaforállomást, amely páratlan kilátást nyújt a déli szigetre, így a meredek felfelé pedálozás mindenképpen megéri.",
+            "ro": "Ajungeți la această stație istorică de semafor pentru un punct de observație inegalabil asupra sudului insulei, făcând ca efortul pedalării pe pantă să merite.",
+            "en": "Reach this historic semaphore station for an unparalleled vantage point over the southern island, making the steep pedal effort totally worthwhile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in den ruhigen nördlichen Straßen an einer charmanten Pfarrkirche. Gegen Mittag radeln Sie zur historischen Bucht und zum Hauptstrand. Der Nachmittag ist für die Fahrt zu den Klippen von Chiaia di Luna reserviert. Beenden Sie Ihre abenteuerliche Fahrt, indem Sie die steilen südlichen Straßen zur Signalstation erklimmen, um epische Ausblicke in der Dämmerung zu genießen.",
+        "hu": "Indítsa kerékpártúráját az északi csendes utcákon egy bájos plébániatemplomnál. Később tekerjen a történelmi halottak öbléhez és a kikötői strandhoz. A délutánt a Chiaia di Luna lenyűgöző szikláinak szenteljük. Fejezze be kalandos útját a déli meredek utak meghódításával, és érjen fel a történelmi szemaforállomáshoz az epikus esti kilátásért.",
+        "ro": "Începeți turul cu bicicleta pe străzile nordice liniștite la o biserică parohială fermecătoare. Pe parcursul zilei, pedalați spre golful istoric și plaja principală. După-amiaza este rezervată navigării spre stâncile uluitoare de la Chiaia di Luna. Încheiați cursa aventuroasă urcând drumurile abrupte sudice până la stația de semafor pentru vederi epice la amurg.",
+        "en": "Kick off your cycling tour in the serene northern streets at a charming parish church. As the day warms up, pedal to the historic cove of the dead before reaching the main harbor beach. The afternoon is reserved for navigating toward the awe-inspiring cliffs of Chiaia di Luna. End your adventurous ride by conquering the steep southern roads up to the historic semaphore station for epic twilight views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Lucia Rosa",
+            "hu": "Spiaggia di Lucia Rosa",
+            "ro": "Spiaggia di Lucia Rosa",
+            "en": "Spiaggia di Lucia Rosa"
+          },
+          "coords": [
+            12.952334,
+            40.915363
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt über diesem unberührten Strand, der für seine dramatischen Felsnadeln bekannt ist, und beobachten Sie die Boote unten.",
+            "hu": "Vezessen fel a kilátópontig, ahonnan rálátni erre az érintetlen, drámai sziklaalakzatairól híres strandra, és figyelje a lent úszó kirándulóhajókat.",
+            "ro": "Conduceți la punctul de belvedere deasupra acestei plaje imaculate renumite pentru stâncile sale spectaculoase și priviți excursiile cu barca de jos.",
+            "en": "Drive up to the viewpoint overlooking this pristine beach famous for its dramatic sea stacks, and look out for boat excursions operating below."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino",
+            "hu": "Fortino",
+            "ro": "Fortino",
+            "en": "Fortino"
+          },
+          "coords": [
+            12.966108,
+            40.908676
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Festung mit strategischem Blick nach Norden, und tragen Sie auf dem felsigen Zugangsweg angemessenes Schuhwerk.",
+            "hu": "Fedezze fel az ősi erődítmény romjait, amely stratégiai északi kilátást nyújt, de ügyeljen arra, hogy megfelelő cipőt viseljen a sziklás megközelítési úton.",
+            "ro": "Explorați ruinele acestei fortificații antice care oferă vederi strategice nordice, având grijă să purtați încălțăminte adecvată pe poteca stâncoasă.",
+            "en": "Explore the ruins of this ancient fortification offering strategic northern views, taking care to wear proper shoes on the rocky approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            12.961285,
+            40.900453
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie kurz bei dieser schönen Inselkirche, um ihre klassische mediterrane Fassade zu bewundern und den ruhigen lokalen Rhythmus zu erleben.",
+            "hu": "Parkoljon le röviden e szép szigeti templom közelében, csodálja meg mediterrán homlokzatát, és tapasztalja meg a helyi élet csendes ritmusát a kikötőtől távol.",
+            "ro": "Parcați scurt lângă această frumoasă biserică insulară pentru a-i admira fațada mediteraneană clasică și experimentați ritmul liniștit al vieții locale.",
+            "en": "Park briefly near this lovely island church to admire its classic Mediterranean facade, and experience the quiet rhythm of local life away from the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna della Dragonara",
+            "hu": "Cisterna della Dragonara",
+            "ro": "Cisterna della Dragonara",
+            "en": "Cisterna della Dragonara"
+          },
+          "coords": [
+            12.961385,
+            40.892344
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in diesen tief in den Fels gehauenen römischen Wasserspeicher, und nehmen Sie sich Zeit, die Gewölbedecken genau zu betrachten.",
+            "hu": "Merészkedjen be ebbe a mélyen a sziklába vájt, kivételesen jó állapotban fennmaradt római víztározóba, és vegye szemügyre a bonyolult boltozatos mennyezeteket.",
+            "ro": "Aventurați-vă în acest rezervor roman de apă sculptat adânc în stâncă, observând îndeaproape tavanele boltite complicate.",
+            "en": "Venture into this exceptionally well-preserved Roman water reservoir carved deep into the rock, taking time to notice the intricate vaulted ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiaia di Luna",
+            "hu": "Chiaia di Luna",
+            "ro": "Chiaia di Luna",
+            "en": "Chiaia di Luna"
+          },
+          "coords": [
+            12.954294,
+            40.894574
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser spektakulären, hoch aufragenden Klippe im Sonnenuntergang, und respektieren Sie die Sicherheitsbarrieren.",
+            "hu": "Fejezze be az autózást ennél a látványos, magasba nyúló sziklaperemnél naplementekor, és feltétlenül tartsa tiszteletben a biztonsági korlátokat.",
+            "ro": "Încheiați-vă călătoria cu mașina la această spectaculoasă margine de stâncă impunătoare la apus, asigurându-vă că respectați barierele de siguranță.",
+            "en": "Conclude your drive at this spectacular towering cliff edge facing the sunset, ensuring you respect the safety barriers near the fragile rock faces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit Panoramablicken über die markanten Felsnadeln im Norden. Mittags erleben Sie eine Mischung aus militärischen Ruinen und friedlichen Inselkirchen. Am Nachmittag fahren Sie zurück in Richtung Zentrum, um bemerkenswerte römische Ingenieurskunst zu erkunden. Parken Sie schließlich bei den majestätischen westlichen Klippen, um die untergehende Sonne zu beobachten.",
+        "hu": "Az autózás panorámás kilátással kezdődik a látványos északi sziklákra. A délidő katonai romok és békés szigeti templomok keverékét hozza, távol a turisták zajától. Délután visszaindul a városközpont felé, hogy felfedezze a lenyűgöző római mérnöki munkát. Végül parkoljon le a fenséges nyugati sziklák közelében, hogy végignézze, ahogy a nap az óceán horizontja alá bukik.",
+        "ro": "Călătoria cu mașina începe cu o priveliște panoramică asupra stâncilor spectaculoase din nord. Prânzul aduce un mix de ruine militare și biserici insulare pașnice. După-amiaza vă veți îndrepta spre centrul orașului pentru a explora remarcabila inginerie romană subterană. În cele din urmă, parcați lângă stâncile vestice maiestuoase pentru a privi soarele coborând sub orizont.",
+        "en": "Your drive begins with panoramic vistas over the striking sea stacks in the north. Midday brings a mix of military ruins and peaceful island churches away from the tourist hubs. Throughout the afternoon, you will head back toward the town center to explore remarkable subterranean Roman engineering. Finally, park near the majestic western cliffs to watch the sun dip below the ocean horizon."
+      }
+    }
+  }
+}

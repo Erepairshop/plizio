@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-scalea-cities-v2",
+  "anchor": {
+    "name": "Scalea",
+    "coords": [
+      15.79142,
+      39.81444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 1.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Busto Gregorio Caloprese",
+            "hu": "Busto Gregorio Caloprese",
+            "ro": "Busto Gregorio Caloprese",
+            "en": "Busto Gregorio Caloprese"
+          },
+          "coords": [
+            15.791457,
+            39.81439
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Büste des Philosophen Gregorio Caloprese im historischen Zentrum und kommen Sie früh, um den ruhigen Platz zu genießen.",
+            "hu": "Csodálja meg Gregorio Caloprese filozófus lenyűgöző mellszobrát a történelmi központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați bustul impresionant al filozofului Gregorio Caloprese în centrul istoric și veniți dimineața devreme pentru a vă bucura de o piață complet liniștită.",
+            "en": "Admire the striking bust of the renowned philosopher Gregorio Caloprese in the historic center, and come early to enjoy the square before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Principi Spinelli",
+            "hu": "Palazzo dei Principi Spinelli",
+            "ro": "Palazzo dei Principi Spinelli",
+            "en": "Palazzo dei Principi Spinelli"
+          },
+          "coords": [
+            15.791106,
+            39.815658
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großen Säle dieses Adelspalastes, um Scaleas aristokratische Vergangenheit zu entdecken, und achten Sie auf die prächtigen Fresken.",
+            "hu": "Fedezze fel e nemesi palota nagytermeit, hogy megismerje Scalea arisztokratikus múltját, és figyelje meg a főudvar kiválóan megőrzött csodás freskóit.",
+            "ro": "Explorați sălile acestui palat nobil pentru a descoperi trecutul aristocratic al orașului Scalea, acordând atenție frescelor bine păstrate din curtea principală.",
+            "en": "Explore the grand halls of this noble palace to uncover Scalea's aristocratic past, keeping an eye out for well-preserved frescoes in the main courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Cimalonga",
+            "hu": "Torre Cimalonga",
+            "ro": "Torre Cimalonga",
+            "en": "Torre Cimalonga"
+          },
+          "coords": [
+            15.791578,
+            39.816567
+          ],
+          "category": "tower",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen Wachturm für atemberaubende Küstenpanoramen und historische Ausstellungen, aber tragen Sie festes Schuhwerk für die steilen Stufen.",
+            "hu": "Mássza meg ezt az ikonikus őrtornyot a tengerparti panorámáért és a történelmi kiállításokért, de viseljen masszív cipőt a meredek kőlépcsők miatt.",
+            "ro": "Urcați în acest turn de veghe pentru panorame de coastă și expoziții istorice, dar purtați încălțăminte robustă pentru treptele abrupte și inegale din piatră.",
+            "en": "Climb this iconic watchtower for sweeping coastal panoramas and historical exhibits inside, but wear sturdy shoes for the steep, uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Normanno di Scalea",
+            "hu": "Castello Normanno di Scalea",
+            "ro": "Castello Normanno di Scalea",
+            "en": "Castello Normanno di Scalea"
+          },
+          "coords": [
+            15.790703,
+            39.818012
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die eindrucksvollen Ruinen der normannischen Burg, die die Skyline dominiert, und besuchen Sie sie zur goldenen Stunde für beste Fotos.",
+            "hu": "Barangolja be a város látképét uraló normann kastély lenyűgöző romjait, és látogasson el az aranyórában a leglátványosabb fotózási fényviszonyokért.",
+            "ro": "Plimbați-vă printre ruinele Castelului Normande care domină orizontul orașului, vizitând la ora de aur pentru cea mai spectaculoasă lumină fotografică.",
+            "en": "Wander the evocative ruins of the Norman Castle that dominates the town's skyline, visiting at golden hour for the most spectacular photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte medievale \"di Annibale\"",
+            "hu": "Ponte medievale \"di Annibale\"",
+            "ro": "Ponte medievale \"di Annibale\"",
+            "en": "Ponte medievale \"di Annibale\""
+          },
+          "coords": [
+            15.791639,
+            39.819008
+          ],
+          "category": "landmark",
+          "arrive_at": "13:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alten Steinbögen von Hannibals Brücke in der Landschaft und bringen Sie ein Weitwinkelobjektiv mit, um ihre Größe einzufangen.",
+            "hu": "Csodálja meg a tájban megbúvó Hannibal hídjának ősi kőíveit, és hozzon magával nagylátószögű objektívet, hogy lentről megörökítse hatalmas méreteit.",
+            "ro": "Admirați arcurile antice de piatră ale Podului lui Hannibal ascunse în peisaj și aduceți un obiectiv superangular pentru a surprinde amploarea sa.",
+            "en": "Marvel at the ancient stone arches of Hannibal's Bridge hidden in the landscape, and bring a wide-angle lens to capture its impressive scale from below."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Nicola in Plateis",
+            "hu": "Chiesa di San Nicola in Plateis",
+            "ro": "Chiesa di San Nicola in Plateis",
+            "en": "Chiesa di San Nicola in Plateis"
+          },
+          "coords": [
+            15.789568,
+            39.815758
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche historische Kirche, um wunderschöne religiöse Artefakte zu sehen, und denken Sie an angemessene, schulterbedeckende Kleidung.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy gyönyörű vallási műtárgyakat lásson, és ne feledjen szerény, fedett vállú öltözéket viselni a látogatás során.",
+            "ro": "Pășiți în această biserică istorică pentru a vedea artefacte religioase frumoase, amintindu-vă să purtați o ținută modestă, cu umerii neapărat acoperiți.",
+            "en": "Step into this peaceful historic church to see beautiful religious artifacts, remembering to dress modestly with covered shoulders during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Talao",
+            "hu": "Torre Talao",
+            "ro": "Torre Talao",
+            "en": "Torre Talao"
+          },
+          "coords": [
+            15.7882,
+            39.812652
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem legendären Küstenturm, der gegen Piraten gebaut wurde, und suchen Sie sich einen Platz auf den Felsen für den Sonnenuntergang.",
+            "hu": "Fejezze be a napját a kalózok ellen épült legendás parti toronynál, és keressen egy helyet a sziklákon, hogy megnézze a csodás tirrén-tengeri naplementét.",
+            "ro": "Încheiați ziua la acest legendar turn de coastă, găsind un loc perfect pe stâncile din apropiere pentru a urmări apusul peste Marea Tireniană spumegândă.",
+            "en": "End your day at this legendary coastal tower built to defend against pirates, finding a spot on the nearby rocks to watch the sunset over the Tyrrhenian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den historischen Straßen, halten Sie an der Büste von Gregorio Caloprese und besuchen Sie den Palazzo dei Principi Spinelli.\n\nMittags führt Ihr Weg zum Torre Cimalonga mit atemberaubender Aussicht, gefolgt von einer Erkundung der majestätischen Ruinen der normannischen Burg.\n\nAm Nachmittag spazieren Sie zu den antiken Steinbögen von Hannibals Brücke und finden Ruhe in der wunderschönen Chiesa di San Nicola in Plateis.\n\nBeenden Sie Ihren Rundgang bei Einbruch der Dunkelheit am Torre Talao, genießen Sie die Meeresbrise und einen feurigen Sonnenuntergang über den tyrrhenischen Wellen.",
+        "hu": "Kezdje a reggelt a történelmi utcák felfedezésével, álljon meg Gregorio Caloprese mellszobránál, mielőtt belépne a fenséges Palazzo dei Principi Spinelli épületébe.\n\nDélben útja a Torre Cimalonga felé vezet, ahonnan lenyűgöző kilátás nyílik, majd felfedezi a fenséges normann kastély csodás és romantikus romjait.\n\nDélután sétáljon Hannibál hídjának ősi kőívei felé, majd találjon spirituális nyugalmat a gyönyörű Chiesa di San Nicola in Plateis templomban.\n\nFejezze be gyalogtúráját a Torre Talao-nál, ahogy leszáll az este, élvezve a tengeri szellőt és a tüzes naplementét a tirrén hullámok felett.",
+        "ro": "Începeți dimineața explorând străzile istorice, oprindu-vă la bustul lui Gregorio Caloprese înainte de a păși în maiestuosul Palazzo dei Principi Spinelli.\n\nLa amiază, călătoria urcă spre Torre Cimalonga, răsplătindu-vă cu vederi uimitoare, urmată de o explorare a ruinelor maiestuosului Castel Normand.\n\nDupă-amiaza, plimbați-vă spre arcurile antice ale Podului lui Hannibal, apoi găsiți liniștea spirituală în frumoasa Chiesa di San Nicola in Plateis.\n\nÎncheiați turul la Torre Talao pe măsură ce se lasă seara, bucurându-vă de briza mării și de un apus de soare de foc peste valurile mării.",
+        "en": "Start your morning exploring the historic streets, pausing at the distinguished bust of Gregorio Caloprese before stepping into the regal Palazzo dei Principi Spinelli.\n\nBy midday, your journey elevates to Torre Cimalonga, rewarding your climb with stunning views, followed by an exploration of the majestic Norman Castle ruins.\n\nIn the afternoon, wander towards the ancient stone arches of Hannibal's Bridge, then find spiritual tranquility inside the beautiful Chiesa di San Nicola in Plateis.\n\nConclude your walking tour at Torre Talao as evening falls, enjoying the ocean breeze and a fiery sunset over the Tyrrhenian waves to cap off a perfect day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:09",
+      "total_km": 2.09,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro scuola media",
+            "hu": "Anfiteatro scuola media",
+            "ro": "Anfiteatro scuola media",
+            "en": "Anfiteatro scuola media"
+          },
+          "coords": [
+            15.793147,
+            39.807482
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem modernen kulturellen Amphitheater und holen Sie sich einen Espresso, den Sie auf den sonnigen Steinstufen genießen können.",
+            "hu": "Kezdje a reggelt ebben a modern kulturális amfiteátrumban, és vegyen egy eszpresszót egy közeli kávézóban, amit a lépcsőn ülve élvezhet a friss levegőn.",
+            "ro": "Începeți dimineața la acest amfiteatru cultural modern, luând un espresso de la o cafenea din apropiere pentru a-l savura stând pur și simplu pe trepte.",
+            "en": "Start your morning at this modern cultural amphitheater nested in the city, grabbing an espresso from a nearby café to enjoy while sitting on the steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto Gregorio Caloprese",
+            "hu": "Busto Gregorio Caloprese",
+            "ro": "Busto Gregorio Caloprese",
+            "en": "Busto Gregorio Caloprese"
+          },
+          "coords": [
+            15.791457,
+            39.81439
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Büste des Philosophen Gregorio Caloprese im historischen Zentrum und kommen Sie früh, um den ruhigen Platz zu genießen.",
+            "hu": "Csodálja meg Gregorio Caloprese filozófus lenyűgöző mellszobrát a történelmi központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați bustul impresionant al filozofului Gregorio Caloprese în centrul istoric și veniți dimineața devreme pentru a vă bucura de o piață complet liniștită.",
+            "en": "Admire the striking bust of the renowned philosopher Gregorio Caloprese in the historic center, and come early to enjoy the square before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ottovolante",
+            "hu": "Ottovolante",
+            "ro": "Ottovolante",
+            "en": "Ottovolante"
+          },
+          "coords": [
+            15.789638,
+            39.814006
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses markante lokale Wahrzeichen, das den öffentlichen Raum prägt, und nutzen Sie es als Treffpunkt, um Ihre Fahrradausrüstung zu ordnen.",
+            "hu": "Nézze meg ezt a feltűnő helyi nevezetességet, amely a város élénk közterét alakítja, és használja kiváló találkozási pontként a kerékpáros túra során.",
+            "ro": "Vizitați acest reper local impresionant care modelează spațiul public și folosiți-l ca punct de întâlnire pentru a vă reorganiza echipamentul de bicicletă.",
+            "en": "Check out this striking local landmark that shapes the town's vibrant public space, using it as a great meeting point to reorganize your biking gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex ponte ferroviario",
+            "hu": "Ex ponte ferroviario",
+            "ro": "Ex ponte ferroviario",
+            "en": "Ex ponte ferroviario"
+          },
+          "coords": [
+            15.789338,
+            39.817437
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Radeln Sie unter den Überresten der alten Eisenbahnbrücke hindurch, die hervorragenden Schatten für eine schnelle Wasserpause in der Mittagshitze bietet.",
+            "hu": "Kerékpározzon el a régi vasúti híd maradványai alatt, amely kiváló árnyékot ad egy gyors vízivó szünethez a meleg déli hőségben tartott túra közepén.",
+            "ro": "Ciclism pe sub rămășițele vechiului pod feroviar care leagă epocile, oferind umbră excelentă pentru o pauză rapidă de hidratare la soarele amiezii.",
+            "en": "Cycle beneath the remains of the old railway bridge connecting Scalea's eras, which provides excellent shade for a quick water break during midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Giuda",
+            "hu": "Torre di Giuda",
+            "ro": "Torre di Giuda",
+            "en": "Torre di Giuda"
+          },
+          "coords": [
+            15.788386,
+            39.818217
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geheimnisse des Judasturms hoch über der Küste und sichern Sie Ihr Fahrrad ordnungsgemäß, bevor Sie den felsigen Aufstieg beginnen.",
+            "hu": "Merüljön el a tengerpart felett magasodó Júdás-torony lenyűgöző rejtélyeiben, és győződjön meg róla, hogy megfelelően rögzítette a bérelt kerékpárját.",
+            "ro": "Pătrundeți în misterele Turnului lui Iuda situat sus deasupra coastei, asigurându-vă că ați legat corect bicicleta înainte de a începe ascensiunea abruptă.",
+            "en": "Delve into the mysteries of Judas Tower perched high above the coastline, making sure to secure your bike properly before starting the rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti del mare",
+            "hu": "Monumento ai Caduti del mare",
+            "ro": "Monumento ai Caduti del mare",
+            "en": "Monumento ai Caduti del mare"
+          },
+          "coords": [
+            15.787002,
+            39.815607
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal für die Gefallenen des Meeres inne, wo das Lesen der Gedenktafeln tiefe Einblicke in die maritime Seele bietet.",
+            "hu": "Álljon meg egy pillanatra a tenger halottainak szentelt emlékműnél, ahol a közeli táblák olvasása mély betekintést nyújt a város tengerészeti lelkébe.",
+            "ro": "Opriți-vă la acest monument solemn dedicat celor căzuți pe mare, unde citirea plăcilor din apropiere oferă o perspectivă profundă asupra sufletului maritim.",
+            "en": "Pause at this solemn monument dedicated to the fallen of the sea, where reading the nearby plaques offers profound insight into the town's maritime soul."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Talao",
+            "hu": "Torre Talao",
+            "ro": "Torre Talao",
+            "en": "Torre Talao"
+          },
+          "coords": [
+            15.7882,
+            39.812652
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem legendären Küstenturm, der gegen Piraten gebaut wurde, und suchen Sie sich einen Platz auf den Felsen für den Sonnenuntergang.",
+            "hu": "Fejezze be a napját a kalózok ellen épült legendás parti toronynál, és keressen egy helyet a sziklákon, hogy megnézze a csodás tirrén-tengeri naplementét.",
+            "ro": "Încheiați ziua la acest legendar turn de coastă, găsind un loc perfect pe stâncile din apropiere pentru a urmări apusul peste Marea Tireniană spumegândă.",
+            "en": "End your day at this legendary coastal tower built to defend against pirates, finding a spot on the nearby rocks to watch the sunset over the Tyrrhenian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am modernen Amphitheater und gibt einen energiegeladenen Ton an, bevor Sie zur historischen Statue von Gregorio Caloprese radeln.\n\nMittags fahren Sie am Wahrzeichen Ottovolante und unter der alten Eisenbahnbrücke hindurch, wo sich die urbane Entwicklung Scaleas mit der Vergangenheit vermischt.\n\nNach einer Mittagspause bewältigen Sie die Steigung zum mysteriösen Judasturm, einer beeindruckenden Struktur, die die spektakuläre Küste bewacht.\n\nGegen Abend halten Sie am Seefahrer-Denkmal inne und beenden Ihre Fahrt am Torre Talao, wo die Küstenansichten in einen brillanten Sonnenuntergang übergehen.",
+        "hu": "Kerékpáros kalandja a modern szabadtéri amfiteátrumban kezdődik, lendületes alapot adva, mielőtt Gregorio Caloprese történelmi szobra felé pedálozna.\n\nA déli kerékpározás az ikonikus Ottovolante nevezetesség mellett és a régi vasúti híd alatt visz, ötvözve Scalea városi fejlődését az építészeti múlttal.\n\nEgy frissítő ebédszünet után küzdje le a titokzatos Júdás-torony felé vezető enyhe emelkedőt, amely a látványos tengerpartot őrző félelmetes építmény.\n\nAhogy közeledik az este, elmélkedjen az elesett tengerészek emlékművénél, és fejezze be útját a Torre Talao-nál egy briliáns tengerparti naplementével.",
+        "ro": "Aventura pe bicicletă începe la amfiteatrul modern în aer liber, stabilind un ton energic înainte de a pedala spre statuia istorică a lui Gregorio Caloprese.\n\nLa amiază, traseul vă duce pe lângă reperul Ottovolante și pe sub vechiul pod feroviar, îmbinând evoluția urbană a orașului Scalea cu trecutul său arhitectural.\n\nDupă pauza de prânz, abordați înclinația ușoară spre misteriosul Turn al lui Iuda, o structură formidabilă care păzește coasta extrem de spectaculoasă.\n\nSpre seară, reflectați la monumentul marinarilor căzuți, terminând plimbarea la Torre Talao, unde priveliștile de coastă se estompează într-un apus minunat.",
+        "en": "Your cycling adventure begins at the modern open-air amphitheater, setting an energetic tone before you pedal towards the historic statue of Gregorio Caloprese.\n\nMidday cycling takes you past the iconic Ottovolante landmark and under the old railway bridge, blending Scalea's urban evolution with its architectural past.\n\nAfter a refreshing lunch break, tackle the slight incline towards the mysterious Judas Tower, a formidable structure that guards the spectacular coastline.\n\nAs evening approaches, reflect at the monument for fallen sailors, finishing your ride at Torre Talao where the coastal views fade into a brilliant sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro scuola media",
+            "hu": "Anfiteatro scuola media",
+            "ro": "Anfiteatro scuola media",
+            "en": "Anfiteatro scuola media"
+          },
+          "coords": [
+            15.793147,
+            39.807482
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem modernen kulturellen Amphitheater und holen Sie sich einen Espresso, den Sie auf den sonnigen Steinstufen genießen können.",
+            "hu": "Kezdje a reggelt ebben a modern kulturális amfiteátrumban, és vegyen egy eszpresszót egy közeli kávézóban, amit a lépcsőn ülve élvezhet a friss levegőn.",
+            "ro": "Începeți dimineața la acest amfiteatru cultural modern, luând un espresso de la o cafenea din apropiere pentru a-l savura stând pur și simplu pe trepte.",
+            "en": "Start your morning at this modern cultural amphitheater nested in the city, grabbing an espresso from a nearby café to enjoy while sitting on the steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto Gregorio Caloprese",
+            "hu": "Busto Gregorio Caloprese",
+            "ro": "Busto Gregorio Caloprese",
+            "en": "Busto Gregorio Caloprese"
+          },
+          "coords": [
+            15.791457,
+            39.81439
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Büste des Philosophen Gregorio Caloprese im historischen Zentrum und kommen Sie früh, um den ruhigen Platz zu genießen.",
+            "hu": "Csodálja meg Gregorio Caloprese filozófus lenyűgöző mellszobrát a történelmi központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați bustul impresionant al filozofului Gregorio Caloprese în centrul istoric și veniți dimineața devreme pentru a vă bucura de o piață complet liniștită.",
+            "en": "Admire the striking bust of the renowned philosopher Gregorio Caloprese in the historic center, and come early to enjoy the square before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Rovine del Convento Francescano",
+            "hu": "Rovine del Convento Francescano",
+            "ro": "Rovine del Convento Francescano",
+            "en": "Rovine del Convento Francescano"
+          },
+          "coords": [
+            15.792813,
+            39.815005
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ruinen des Franziskanerklosters inmitten üppigen Grüns und bringen Sie Insektenspray mit, wenn Sie im Schatten verweilen.",
+            "hu": "Fedezze fel a ferences kolostor csendes romjait a buja növényzet között, és hozzon szúnyogriasztót, ha hosszan szeretne időzni az árnyékos kerengőben.",
+            "ro": "Descoperiți ruinele liniștite ale Mănăstirii Franciscane în mijlocul verdeții și aduceți spray împotriva insectelor dacă stați mult în zonele umbrite.",
+            "en": "Uncover the tranquil ruins of the Franciscan Convent set amidst lush greenery, bringing bug spray if you plan to linger in the shaded cloister areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Cimalonga",
+            "hu": "Torre Cimalonga",
+            "ro": "Torre Cimalonga",
+            "en": "Torre Cimalonga"
+          },
+          "coords": [
+            15.791578,
+            39.816567
+          ],
+          "category": "tower",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen Wachturm für atemberaubende Küstenpanoramen und historische Ausstellungen, aber tragen Sie festes Schuhwerk für die steilen Stufen.",
+            "hu": "Mássza meg ezt az ikonikus őrtornyot a tengerparti panorámáért és a történelmi kiállításokért, de viseljen masszív cipőt a meredek kőlépcsők miatt.",
+            "ro": "Urcați în acest turn de veghe pentru panorame de coastă și expoziții istorice, dar purtați încălțăminte robustă pentru treptele abrupte și inegale din piatră.",
+            "en": "Climb this iconic watchtower for sweeping coastal panoramas and historical exhibits inside, but wear sturdy shoes for the steep, uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Normanno di Scalea",
+            "hu": "Castello Normanno di Scalea",
+            "ro": "Castello Normanno di Scalea",
+            "en": "Castello Normanno di Scalea"
+          },
+          "coords": [
+            15.790703,
+            39.818012
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die eindrucksvollen Ruinen der normannischen Burg, die die Skyline dominiert, und besuchen Sie sie zur goldenen Stunde für beste Fotos.",
+            "hu": "Barangolja be a város látképét uraló normann kastély lenyűgöző romjait, és látogasson el az aranyórában a leglátványosabb fotózási fényviszonyokért.",
+            "ro": "Plimbați-vă printre ruinele Castelului Normande care domină orizontul orașului, vizitând la ora de aur pentru cea mai spectaculoasă lumină fotografică.",
+            "en": "Wander the evocative ruins of the Norman Castle that dominates the town's skyline, visiting at golden hour for the most spectacular photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "San Francesco",
+            "hu": "San Francesco",
+            "ro": "San Francesco",
+            "en": "San Francesco"
+          },
+          "coords": [
+            15.807272,
+            39.796045
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem gut erhaltenen historischen Heiligtum mit atemberaubendem Blick auf die Täler und nutzen Sie die großzügigen kostenlosen Parkplätze.",
+            "hu": "Vezessen ki ehhez a gyönyörűen megőrzött szentélyhez, ahonnan lélegzetelállító kilátás nyílik a völgyekre, és használja a bőséges ingyenes parkolót.",
+            "ro": "Conduceți până la acest sanctuar istoric minunat conservat, care oferă vederi spectaculoase și utilizați parcarea gratuită spațioasă de la poarta principală.",
+            "en": "Drive out to this beautifully preserved historic sanctuary offering breathtaking views of the surrounding valleys, and utilize the ample free parking space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am Amphitheater für ein architektonisches Erlebnis, bevor Sie nahe dem Zentrum parken, um die Büste von Gregorio Caloprese zu bewundern.\n\nWenn der Tag wärmer wird, fahren Sie zu den ruhigen Ruinen des Franziskanerklosters, gefolgt von einem Aufstieg zum Torre Cimalonga für tolle Küstenblicke.\n\nVerbringen Sie den Nachmittag damit, die weitläufigen Ruinen der normannischen Burg zu erkunden, wo Jahrhunderte der Geschichte durch die Steinmauern hallen.\n\nAm Abend machen Sie eine entspannte Fahrt zum historischen Heiligtum San Francesco am Stadtrand und beenden Ihre Reise mit friedlichem Panoramablick auf das Tal.",
+        "hu": "Kezdje autós utazását az amfiteátrumnál egy gyors építészeti élményért, mielőtt a központ közelében parkolna, hogy megcsodálja Gregorio Caloprese szobrát.\n\nAhogy a nap melegszik, vezessen a ferences kolostor csendes romjaihoz, majd kapaszkodjon fel a Torre Cimalonga-hoz a lenyűgöző tengerparti kilátásért.\n\nTöltse a délutánt a normann kastély kiterjedt romjainak felfedezésével, ahol az évszázadok történelme visszhangzik a figyelemre méltóan megőrzött kőfalakon.\n\nEste tegyen egy rövid, pihentető utat a külvárosi San Francesco történelmi szentélyhez, és zárja utazását békés, panorámás völgyi kilátásokkal a kocsiból.",
+        "ro": "Începeți excursia cu mașina la amfiteatrul orașului pentru o scurtă imersiune arhitecturală înainte de a parca pentru a admira bustul lui Gregorio Caloprese.\n\nPe măsură ce ziua se încălzește, conduceți la ruinele liniștite ale Mănăstirii Franciscane, urmată de o urcare spre Torre Cimalonga pentru priveliști de coastă.\n\nPetreceți-vă după-amiaza explorând ruinele întinse ale Castelului Normand, unde secole de istorie răsună prin zidurile de piatră extrem de bine conservate.\n\nSeara, faceți o scurtă plimbare cu mașina până la sanctuarul istoric San Francesco de la periferie, încheind călătoria cu vederi panoramice liniștite ale văii.",
+        "en": "Kick off your road trip at the city's amphitheater for a quick architectural immersion before parking near the center to admire the bust of Gregorio Caloprese.\n\nAs the day warms up, drive to the tranquil ruins of the Franciscan Convent, followed by a scenic ascent to Torre Cimalonga to enjoy elevated coastal vistas.\n\nSpend your afternoon exploring the sprawling ruins of the Norman Castle, where centuries of history echo through the remarkably well-preserved stone walls.\n\nIn the evening, take a short, relaxing drive to the historic San Francesco sanctuary on the outskirts, ending your journey with peaceful, panoramic valley views."
+      }
+    }
+  }
+}

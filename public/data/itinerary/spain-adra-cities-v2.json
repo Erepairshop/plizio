@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-adra-cities-v2",
+  "anchor": {
+    "name": "Adra",
+    "coords": [
+      -3.02036,
+      36.74883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Adra",
+            "hu": "Castillo de Adra",
+            "ro": "Castillo de Adra",
+            "en": "Castillo de Adra"
+          },
+          "coords": [
+            -3.013918,
+            36.749304
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Festung, um Adras defensive Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Fedezze fel e történelmi erődítmény maradványait, hogy megértse Adra védelmi múltját, és feltétlenül viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestei fortărețe istorice pentru a înțelege trecutul defensiv al Adrei, asigurându-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historic fortress to understand Adra's defensive past, making sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "hu": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "ro": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "en": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)"
+          },
+          "coords": [
+            -3.01107,
+            36.751199
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Adelshäuser aus dem 18. Jahrhundert, die den lokalen Reichtum widerspiegeln, und achten Sie auf die schmiedeeisernen Balkone.",
+            "hu": "Csodálja meg a 18. századi nemesi házak építészetét, amelyek a helyi gazdagságot tükrözik, és figyelje meg a kovácsoltvas erkélyek bonyolult részleteit.",
+            "ro": "Admirați arhitectura secolului al XVIII-lea a acestor case nobiliare ce reflectă bogăția locală și priviți îndeaproape detaliile balcoanelor din fier forjat.",
+            "en": "Admire the 18th-century architecture of these noble houses reflecting local wealth, and look closely at the intricate details of the wrought-iron balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino del Lugar",
+            "hu": "Molino del Lugar",
+            "ro": "Molino del Lugar",
+            "en": "Molino del Lugar"
+          },
+          "coords": [
+            -3.009421,
+            36.750362
+          ],
+          "category": "landmark",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese traditionelle Mühle, die die landwirtschaftliche Geschichte der Region zeigt, und versuchen Sie einen Besuch am Morgen für das beste Fotolicht.",
+            "hu": "Fedezze fel ezt a hagyományos malmot, amely a régió mezőgazdasági történetét mutatja be, és próbáljon meg reggel látogatni a legjobb fotózási fényekért.",
+            "ro": "Descoperiți această moară tradițională care prezintă istoria agricolă a regiunii și încercați să vizitați dimineața, când lumina este optimă pentru fotografii.",
+            "en": "Discover this traditional mill that showcases the agricultural history of the region, and try to visit in the morning when the light is best for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Pago del Lugar",
+            "hu": "Anfiteatro Pago del Lugar",
+            "ro": "Anfiteatro Pago del Lugar",
+            "en": "Anfiteatro Pago del Lugar"
+          },
+          "coords": [
+            -3.014427,
+            36.745556
+          ],
+          "category": "cultural",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in diesem modernen kulturellen Amphitheater am Meer und prüfen Sie den lokalen Zeitplan vorab auf Freiluftaufführungen.",
+            "hu": "Élvezze a békés pillanatot ebben a tengerközeli, modern kulturális amfiteátrumban, és előre ellenőrizze a helyi programot a szabadtéri előadások miatt.",
+            "ro": "Bucurați-vă de un moment de liniște la acest amfiteatru cultural modern de lângă mare, verificând programul local în avans pentru spectacole în aer liber.",
+            "en": "Enjoy a peaceful moment at this modern cultural amphitheater near the sea, checking the local schedule in advance for any open-air community performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación de la Pesca",
+            "hu": "Centro de Interpretación de la Pesca",
+            "ro": "Centro de Interpretación de la Pesca",
+            "en": "Centro de Interpretación de la Pesca"
+          },
+          "coords": [
+            -3.0221,
+            36.747898
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Adras tiefe Verbindung zum Meer durch interaktive Fischereiausstellungen ein und beginnen Sie im obersten Stockwerk für eine tolle Aussicht.",
+            "hu": "Merüljön el Adra tengerhez fűződő mély kapcsolatában az interaktív halászati kiállításokon keresztül, és kezdje a legfelső emeleten a nagyszerű kilátásért.",
+            "ro": "Pătrundeți în legătura profundă a Adrei cu marea prin expoziții interactive de pescuit și începeți la ultimul etaj pentru a vă bucura de o priveliște minunată.",
+            "en": "Delve into Adra's deep connection to the sea through interactive fishing exhibits, and start on the top floor to enjoy a great view before walking downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Club Náutico de Adra",
+            "hu": "Real Club Náutico de Adra",
+            "ro": "Real Club Náutico de Adra",
+            "en": "Real Club Náutico de Adra"
+          },
+          "coords": [
+            -3.020198,
+            36.746973
+          ],
+          "category": "landmark",
+          "arrive_at": "16:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Segelboote, die von diesem lebhaften nautischen Club in den Hafen ein- und auslaufen, und bringen Sie eine leichte Jacke für die kühle Meeresbrise mit.",
+            "hu": "Nézze meg a kikötőbe be- és kifutó vitorlásokat ebből a nyüzsgő hajósklubból, és hozzon egy könnyű kabátot, mivel a tengeri szellő meglepően hűvös lehet.",
+            "ro": "Urmăriți bărcile cu pânze intrând și ieșind din port de la acest club nautic plin de viață, aducând o jachetă ușoară, deoarece briza mării poate fi răcoroasă.",
+            "en": "Watch the sailboats glide in and out of the harbor from this lively nautical club, bringing a light jacket as the sea breeze can be surprisingly cool here."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Adra",
+            "hu": "Faro de Adra",
+            "ro": "Faro de Adra",
+            "en": "Faro de Adra"
+          },
+          "coords": [
+            -3.030973,
+            36.747977
+          ],
+          "category": "landmark",
+          "arrive_at": "17:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen gestreiften Leuchtturm, der Seeleute entlang der Küste führt, und spazieren Sie bei Sonnenuntergang für einen bunten Hintergrund umher.",
+            "hu": "Fényképezze le ezt az ikonikus csíkos világítótornyot, amely a tengerészeket irányítja a part mentén, és sétáljon a lábánál naplementekor a színes háttérért.",
+            "ro": "Fotografiați acest far cu dungi emblematic care ghidează marinarii de-a lungul coastei și plimbați-vă la baza sa la apus pentru un fundal spectaculos.",
+            "en": "Photograph this iconic striped lighthouse guiding sailors along the coastline, and walk around its base at sunset for a spectacularly colorful background."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie die Erkundung von Adras Geschichte am Castillo und den eleganten Adelshäusern aus dem 18. Jahrhundert. Mittag: Besuchen Sie die traditionelle Molino del Lugar, bevor Sie zum Freiluft-Amphitheater gehen. Nachmittag: Entdecken Sie die maritime Kultur im Fischereimuseum und spüren Sie die Atmosphäre im Nautical Club. Abend: Beenden Sie Ihren Spaziergang am Faro de Adra.",
+        "hu": "Reggel: Kezdje Adra történelmének felfedezését a Castillónál és a 18. századi nemesi házaknál. Dél: Látogasson el a Molino del Lugarhoz, mielőtt a part közeli amfiteátrumba indulna. Délután: Merüljön el a tengerészeti kultúrában a Halászati Múzeumban, és érezze a helyi hangulatot a hajóklubban. Este: Zárja a sétát az ikonikus Faro de Adra világítótorony megcsodálásával a naplementében.",
+        "ro": "Dimineața: Începeți explorarea istoriei Adrei la Castillo și la elegantele case nobiliare din secolul al XVIII-lea. Prânz: Vizitați tradiționala Molino del Lugar înainte de a vă îndrepta spre amfiteatrul în aer liber. După-amiaza: Descoperiți cultura maritimă la Muzeul Pescuitului și simțiți atmosfera la Clubul Nautic. Seara: Încheiați plimbarea admirând emblematicul Faro de Adra.",
+        "en": "Morning: Start exploring Adra’s history at the impressive Castillo and the elegant 18th-century noble houses. Midday: Visit the traditional Molino del Lugar before heading to the open-air Anfiteatro near the shore. Afternoon: Delve into maritime culture at the Fishing Museum and feel the local vibe at the Nautical Club. Evening: Conclude your walk admiring the tall, iconic Faro de Adra."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Molino del Lugar",
+            "hu": "Molino del Lugar",
+            "ro": "Molino del Lugar",
+            "en": "Molino del Lugar"
+          },
+          "coords": [
+            -3.009421,
+            36.750362
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese traditionelle Mühle, die die landwirtschaftliche Geschichte der Region zeigt, und versuchen Sie einen Besuch am Morgen für das beste Fotolicht.",
+            "hu": "Fedezze fel ezt a hagyományos malmot, amely a régió mezőgazdasági történetét mutatja be, és próbáljon meg reggel látogatni a legjobb fotózási fényekért.",
+            "ro": "Descoperiți această moară tradițională care prezintă istoria agricolă a regiunii și încercați să vizitați dimineața, când lumina este optimă pentru fotografii.",
+            "en": "Discover this traditional mill that showcases the agricultural history of the region, and try to visit in the morning when the light is best for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "hu": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "ro": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "en": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)"
+          },
+          "coords": [
+            -3.01107,
+            36.751199
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Adelshäuser aus dem 18. Jahrhundert, die den lokalen Reichtum widerspiegeln, und achten Sie auf die schmiedeeisernen Balkone.",
+            "hu": "Csodálja meg a 18. századi nemesi házak építészetét, amelyek a helyi gazdagságot tükrözik, és figyelje meg a kovácsoltvas erkélyek bonyolult részleteit.",
+            "ro": "Admirați arhitectura secolului al XVIII-lea a acestor case nobiliare ce reflectă bogăția locală și priviți îndeaproape detaliile balcoanelor din fier forjat.",
+            "en": "Admire the 18th-century architecture of these noble houses reflecting local wealth, and look closely at the intricate details of the wrought-iron balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Adra",
+            "hu": "Castillo de Adra",
+            "ro": "Castillo de Adra",
+            "en": "Castillo de Adra"
+          },
+          "coords": [
+            -3.013918,
+            36.749304
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Festung, um Adras defensive Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Fedezze fel e történelmi erődítmény maradványait, hogy megértse Adra védelmi múltját, és feltétlenül viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestei fortărețe istorice pentru a înțelege trecutul defensiv al Adrei, asigurându-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historic fortress to understand Adra's defensive past, making sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación de la Pesca",
+            "hu": "Centro de Interpretación de la Pesca",
+            "ro": "Centro de Interpretación de la Pesca",
+            "en": "Centro de Interpretación de la Pesca"
+          },
+          "coords": [
+            -3.0221,
+            36.747898
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Adras tiefe Verbindung zum Meer durch interaktive Fischereiausstellungen ein und beginnen Sie im obersten Stockwerk für eine tolle Aussicht.",
+            "hu": "Merüljön el Adra tengerhez fűződő mély kapcsolatában az interaktív halászati kiállításokon keresztül, és kezdje a legfelső emeleten a nagyszerű kilátásért.",
+            "ro": "Pătrundeți în legătura profundă a Adrei cu marea prin expoziții interactive de pescuit și începeți la ultimul etaj pentru a vă bucura de o priveliște minunată.",
+            "en": "Delve into Adra's deep connection to the sea through interactive fishing exhibits, and start on the top floor to enjoy a great view before walking downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Adra",
+            "hu": "Faro de Adra",
+            "ro": "Faro de Adra",
+            "en": "Faro de Adra"
+          },
+          "coords": [
+            -3.030973,
+            36.747977
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen gestreiften Leuchtturm, der Seeleute entlang der Küste führt, und spazieren Sie bei Sonnenuntergang für einen bunten Hintergrund umher.",
+            "hu": "Fényképezze le ezt az ikonikus csíkos világítótornyot, amely a tengerészeket irányítja a part mentén, és sétáljon a lábánál naplementekor a színes háttérért.",
+            "ro": "Fotografiați acest far cu dungi emblematic care ghidează marinarii de-a lungul coastei și plimbați-vă la baza sa la apus pentru un fundal spectaculos.",
+            "en": "Photograph this iconic striped lighthouse guiding sailors along the coastline, and walk around its base at sunset for a spectacularly colorful background."
+          }
+        },
+        {
+          "name": {
+            "de": "Sirena Loca",
+            "hu": "Sirena Loca",
+            "ro": "Sirena Loca",
+            "en": "Sirena Loca"
+          },
+          "coords": [
+            -3.027996,
+            36.746349
+          ],
+          "category": "recreational",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strand, der für seinen dunklen Vulkansand bekannt ist, und bringen Sie einen Sonnenschirm mit, da der natürliche Schatten begrenzt ist.",
+            "hu": "Pihenjen ezen a sötét vulkáni homokjáról ismert népszerű strandon, és hozzon magával napernyőt, mivel a természetes árnyék meglehetősen korlátozott délben.",
+            "ro": "Relaxați-vă pe această plajă populară, cunoscută pentru nisipul său vulcanic închis la culoare, aducând propria umbrelă de soare, deoarece umbra este limitată la prânz.",
+            "en": "Relax on this popular recreational beach known for its dark volcanic sand, bringing your own parasol as natural shade is quite limited during the hot midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rana",
+            "hu": "La Rana",
+            "ro": "La Rana",
+            "en": "La Rana"
+          },
+          "coords": [
+            -3.044796,
+            36.747213
+          ],
+          "category": "recreational",
+          "arrive_at": "16:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen Küstenerholungsort, der sich perfekt für einen Spaziergang eignet, und nutzen Sie die nahegelegenen Cafés für ein kühles Getränk.",
+            "hu": "Fejezze be a napot ezen a tágas tengerparti pihenőhelyen, amely tökéletes egy csendes sétához, kihasználva a közeli kávézókat egy frissítő hideg italra.",
+            "ro": "Încheiați-vă ziua în acest spațiu de recreere de coastă, perfect pentru o plimbare liniștită, profitând de cafenelele locale din apropiere pentru o băutură rece.",
+            "en": "End your day at this expansive coastal recreational spot perfect for a quiet stroll, taking advantage of the nearby local cafes to grab a refreshing cold drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zur traditionellen Molino del Lugar, dann bewundern Sie die Adelshäuser und die historische Burg. Mittag: Fahren Sie in Richtung Hafen, um im Museum in das Fischereierbe einzutauchen. Nachmittag: Radeln Sie am Faro de Adra vorbei und machen Sie eine Pause am Strand Sirena Loca. Abend: Beenden Sie Ihr Radabenteuer in La Rana bei einem malerischen Sonnenuntergang am Meer.",
+        "hu": "Reggel: Tekerjen el a hagyományos Molino del Lugarhoz, majd csodálja meg a nemesi házakat és a történelmi kastélyt. Dél: Biciklizzen a kikötő felé, hogy elmerüljön Adra halászati örökségében a múzeumban. Délután: Haladjon el a Faro de Adra mellett, és tartson pihenőt a Sirena Loca strandon. Este: Fejezze be a kerékpáros kalandot a La Rana-nál egy tengerparti naplementével.",
+        "ro": "Dimineața: Pedați spre tradiționala Molino del Lugar, apoi admirați casele nobiliare și castelul istoric. Prânz: Mergeți cu bicicleta spre port pentru a vă cufunda în moștenirea pescuitului la muzeu. După-amiaza: Treceți pe lângă Faro de Adra și faceți o pauză la plaja Sirena Loca. Seara: Încheiați-vă aventura cu bicicleta la La Rana, admirând un apus de soare frumos la malul mării.",
+        "en": "Morning: Pedal your way to the traditional Molino del Lugar, then marvel at the noble houses and historic castle. Midday: Ride towards the harbor to immerse yourself in Adra’s fishing heritage at the interactive museum. Afternoon: Cycle past the lively Faro de Adra and head to Sirena Loca beach for a relaxing break. Evening: Finish your cycling adventure at La Rana with a seaside sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Interpretación de la Pesca",
+            "hu": "Centro de Interpretación de la Pesca",
+            "ro": "Centro de Interpretación de la Pesca",
+            "en": "Centro de Interpretación de la Pesca"
+          },
+          "coords": [
+            -3.0221,
+            36.747898
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Adras tiefe Verbindung zum Meer durch interaktive Fischereiausstellungen ein und beginnen Sie im obersten Stockwerk für eine tolle Aussicht.",
+            "hu": "Merüljön el Adra tengerhez fűződő mély kapcsolatában az interaktív halászati kiállításokon keresztül, és kezdje a legfelső emeleten a nagyszerű kilátásért.",
+            "ro": "Pătrundeți în legătura profundă a Adrei cu marea prin expoziții interactive de pescuit și începeți la ultimul etaj pentru a vă bucura de o priveliște minunată.",
+            "en": "Delve into Adra's deep connection to the sea through interactive fishing exhibits, and start on the top floor to enjoy a great view before walking downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Club Náutico de Adra",
+            "hu": "Real Club Náutico de Adra",
+            "ro": "Real Club Náutico de Adra",
+            "en": "Real Club Náutico de Adra"
+          },
+          "coords": [
+            -3.020198,
+            36.746973
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Segelboote, die von diesem lebhaften nautischen Club in den Hafen ein- und auslaufen, und bringen Sie eine leichte Jacke für die kühle Meeresbrise mit.",
+            "hu": "Nézze meg a kikötőbe be- és kifutó vitorlásokat ebből a nyüzsgő hajósklubból, és hozzon egy könnyű kabátot, mivel a tengeri szellő meglepően hűvös lehet.",
+            "ro": "Urmăriți bărcile cu pânze intrând și ieșind din port de la acest club nautic plin de viață, aducând o jachetă ușoară, deoarece briza mării poate fi răcoroasă.",
+            "en": "Watch the sailboats glide in and out of the harbor from this lively nautical club, bringing a light jacket as the sea breeze can be surprisingly cool here."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Pago del Lugar",
+            "hu": "Anfiteatro Pago del Lugar",
+            "ro": "Anfiteatro Pago del Lugar",
+            "en": "Anfiteatro Pago del Lugar"
+          },
+          "coords": [
+            -3.014427,
+            36.745556
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in diesem modernen kulturellen Amphitheater am Meer und prüfen Sie den lokalen Zeitplan vorab auf Freiluftaufführungen.",
+            "hu": "Élvezze a békés pillanatot ebben a tengerközeli, modern kulturális amfiteátrumban, és előre ellenőrizze a helyi programot a szabadtéri előadások miatt.",
+            "ro": "Bucurați-vă de un moment de liniște la acest amfiteatru cultural modern de lângă mare, verificând programul local în avans pentru spectacole în aer liber.",
+            "en": "Enjoy a peaceful moment at this modern cultural amphitheater near the sea, checking the local schedule in advance for any open-air community performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "hu": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "ro": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)",
+            "en": "Casas Señoriales Familias Rodríguez-Chacón y Gnecco (S.XVIII)"
+          },
+          "coords": [
+            -3.01107,
+            36.751199
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Adelshäuser aus dem 18. Jahrhundert, die den lokalen Reichtum widerspiegeln, und achten Sie auf die schmiedeeisernen Balkone.",
+            "hu": "Csodálja meg a 18. századi nemesi házak építészetét, amelyek a helyi gazdagságot tükrözik, és figyelje meg a kovácsoltvas erkélyek bonyolult részleteit.",
+            "ro": "Admirați arhitectura secolului al XVIII-lea a acestor case nobiliare ce reflectă bogăția locală și priviți îndeaproape detaliile balcoanelor din fier forjat.",
+            "en": "Admire the 18th-century architecture of these noble houses reflecting local wealth, and look closely at the intricate details of the wrought-iron balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Adra",
+            "hu": "Castillo de Adra",
+            "ro": "Castillo de Adra",
+            "en": "Castillo de Adra"
+          },
+          "coords": [
+            -3.013918,
+            36.749304
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Festung, um Adras defensive Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Fedezze fel e történelmi erődítmény maradványait, hogy megértse Adra védelmi múltját, és feltétlenül viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestei fortărețe istorice pentru a înțelege trecutul defensiv al Adrei, asigurându-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historic fortress to understand Adra's defensive past, making sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sirena Loca",
+            "hu": "Sirena Loca",
+            "ro": "Sirena Loca",
+            "en": "Sirena Loca"
+          },
+          "coords": [
+            -3.027996,
+            36.746349
+          ],
+          "category": "recreational",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strand, der für seinen dunklen Vulkansand bekannt ist, und bringen Sie einen Sonnenschirm mit, da der natürliche Schatten begrenzt ist.",
+            "hu": "Pihenjen ezen a sötét vulkáni homokjáról ismert népszerű strandon, és hozzon magával napernyőt, mivel a természetes árnyék meglehetősen korlátozott délben.",
+            "ro": "Relaxați-vă pe această plajă populară, cunoscută pentru nisipul său vulcanic închis la culoare, aducând propria umbrelă de soare, deoarece umbra este limitată la prânz.",
+            "en": "Relax on this popular recreational beach known for its dark volcanic sand, bringing your own parasol as natural shade is quite limited during the hot midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rana",
+            "hu": "La Rana",
+            "ro": "La Rana",
+            "en": "La Rana"
+          },
+          "coords": [
+            -3.044796,
+            36.747213
+          ],
+          "category": "recreational",
+          "arrive_at": "16:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen Küstenerholungsort, der sich perfekt für einen Spaziergang eignet, und nutzen Sie die nahegelegenen Cafés für ein kühles Getränk.",
+            "hu": "Fejezze be a napot ezen a tágas tengerparti pihenőhelyen, amely tökéletes egy csendes sétához, kihasználva a közeli kávézókat egy frissítő hideg italra.",
+            "ro": "Încheiați-vă ziua în acest spațiu de recreere de coastă, perfect pentru o plimbare liniștită, profitând de cafenelele locale din apropiere pentru o băutură rece.",
+            "en": "End your day at this expansive coastal recreational spot perfect for a quiet stroll, taking advantage of the nearby local cafes to grab a refreshing cold drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Parken Sie am Fischereimuseum, um mehr über Adras Seefahrerwurzeln zu erfahren, gefolgt vom Nautical Club. Mittag: Fahren Sie zum Küstenamphitheater und erkunden Sie die majestätischen Adelshäuser. Nachmittag: Besuchen Sie die Überreste des Castillos, bevor Sie zum dunklen Sand von Sirena Loca fahren. Abend: Genießen Sie die ruhige Fahrt nach La Rana bei einem schönen Sonnenuntergang.",
+        "hu": "Reggel: Parkoljon le a halászati múzeumnál, hogy megismerje Adra tengerész gyökereit, majd nézze meg a hajóklubot. Dél: Vezessen a parti amfiteátrumhoz, majd fedezze fel a város fenséges nemesi házait. Délután: Látogasson el a Castillo maradványaihoz, mielőtt a Sirena Loca sötét homokjához indulna. Este: Élvezze a csendes utazást a La Rana-hoz, és gyönyörködjön a lenyugvó napfényben.",
+        "ro": "Dimineața: Parcați lângă muzeul pescuitului pentru a afla despre rădăcinile maritime ale Adrei, urmat de clubul nautic. Prânz: Conduceți la amfiteatrul de coastă, apoi explorați casele nobiliare majestuoase. După-amiaza: Vizitați rămășițele Castilloului înainte de a merge la nisipurile închise ale Sirenei Loca. Seara: Bucurați-vă de o plimbare liniștită până la La Rana, la apusul soarelui.",
+        "en": "Morning: Park near the fishing museum to learn about Adra’s seafaring roots, followed by a quick stop at the nautical club. Midday: Drive to the coastal amphitheater, then explore the town's majestic noble houses. Afternoon: Visit the remnants of the Castillo before heading to the dark sands of Sirena Loca. Evening: Enjoy a quiet drive to La Rana, reflecting on the day as the sun goes down."
+      }
+    }
+  }
+}

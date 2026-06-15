@@ -1,0 +1,520 @@
+{
+  "city_id": "oloron-sainte-marie",
+  "anchor": {
+    "name": "Oloron-Sainte-Marie",
+    "coords": [
+      -0.6067,
+      43.1942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Marie Kathedrale",
+            "hu": "Sainte-Marie Katedrális",
+            "ro": "Catedrala Sainte-Marie",
+            "en": "Sainte-Marie Cathedral"
+          },
+          "coords": [
+            -0.615936,
+            43.187846
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das UNESCO-gelistete romanische Portal mit seinen Skulpturen und treten Sie ein, um die Orgel zu sehen, wobei morgens Ruhe geboten ist.",
+            "hu": "Csodálja meg az UNESCO-listás román kori portált és a részletes szobrokat, majd csendben tekintse meg az orgonát a reggeli misék idejét elkerülve.",
+            "ro": "Admirați portalul romanic inclus pe lista UNESCO cu sculpturile sale complexe, apoi intrați pentru a vedea orga, păstrând liniștea dimineața.",
+            "en": "Admire the UNESCO-listed Romanesque portal with its intricate sculptures, then step inside to see the organ, keeping quiet during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "Retenue d'Oloron",
+            "hu": "Retenue d'Oloron",
+            "ro": "Retenue d'Oloron",
+            "en": "Retenue d'Oloron"
+          },
+          "coords": [
+            -0.608566,
+            43.185405
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an diesem Stausee, wo die Flüsse zusammenfließen, und bringen Sie eine Kamera für die Spiegelungen der Altstadt mit.",
+            "hu": "Sétáljon egyet ezen a gyönyörű víztározónál, ahol a helyi folyók összefolynak, és hozzon fényképezőgépet az óváros tükröződésének megörökítéséhez.",
+            "ro": "Bucurați-vă de o plimbare pe malul acestui lac de acumulare pitoresc unde râurile se unesc, aducând o cameră pentru a surprinde reflexiile orașului.",
+            "en": "Enjoy a peaceful stroll along this beautiful reservoir where the local rivers merge, bringing a camera to capture the reflections of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.606099,
+            43.189098
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckende Kirche aus dem 11. Jahrhundert mit ihrer maurischen Kuppel und kommen Sie mittags für das beste Lichteinfall.",
+            "hu": "Fedezze fel ezt a lenyűgöző 11. századi templomot a különleges hispán-mór kupolájával, és érkezzen délben, amikor a fények a legszebben játszanak.",
+            "ro": "Descoperiți această uimitoare biserică din secolul al XI-lea cu domul său hispano-maur și vizitați-o la prânz, când lumina pătrunde într-un mod magic.",
+            "en": "Discover this stunning 11th-century church with its remarkable Hispano-Moorish dome, and visit around midday when the light filters beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine",
+            "hu": "Maison du Patrimoine",
+            "ro": "Maison du Patrimoine",
+            "en": "Maison du Patrimoine"
+          },
+          "coords": [
+            -0.606435,
+            43.189562
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte des Béarn durch faszinierende Ausstellungen ein und beginnen Sie im ersten Stock für den chronologischen Ablauf.",
+            "hu": "Merüljön el a Béarn régió gazdag történelmében és hagyományaiban az izgalmas kiállításokon keresztül, az első emeleten kezdve az időrendi sorrendért.",
+            "ro": "Pătrundeți în istoria bogată a regiunii Béarn prin expoziții fascinante, începând explorarea la primul etaj pentru un context cronologic perfect.",
+            "en": "Delve into the rich history and traditions of the Béarn region through fascinating exhibits, starting on the first floor for chronological context."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Grède",
+            "hu": "Tour de Grède",
+            "ro": "Tour de Grède",
+            "en": "Tour de Grède"
+          },
+          "coords": [
+            -0.606582,
+            43.189711
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen mittelalterlichen Turm für einen Panoramablick auf die Pyrenäen und tragen Sie feste Schuhe für die steilen, engen Treppen.",
+            "hu": "Másszon fel e középkori torony tetejére a Pireneusok panorámájáért, és viseljen kényelmes cipőt a meredek, szűk lépcsők biztonságos megtételéhez.",
+            "ro": "Urcați în vârful acestui turn medieval pentru vederi panoramice spre Pirinei, purtând încălțăminte rezistentă pentru a urca în siguranță scările.",
+            "en": "Climb to the top of this medieval tower for panoramic views across the Pyrenees, wearing sturdy shoes to safely navigate the steep, narrow stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Public",
+            "hu": "Jardin Public",
+            "ro": "Jardin Public",
+            "en": "Jardin Public"
+          },
+          "coords": [
+            -0.61135,
+            43.192284
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter jahrhundertealten Bäumen in diesem üppigen Park mit Bergblick und bringen Sie lokalen Käse für ein Nachmittagspicknick mit.",
+            "hu": "Pihenjen az évszázados fák alatt ebben a buja parkban, amely a hegyekre néz, és hozzon magával helyi sajtot egy tökéletes délutáni piknikhez.",
+            "ro": "Relaxați-vă sub copaci seculari în această grădină luxuriantă cu vedere la munți, aducând niște brânză locală pentru un picnic perfect de după-amiază.",
+            "en": "Relax under centuries-old trees in this lush public garden overlooking the mountains, packing some local cheese and wine for a perfect afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Wandertour an der atemberaubenden Kathedrale Sainte-Marie. Ihre UNESCO-gelistete Architektur gibt einen majestätischen Ton an. Spazieren Sie danach hinunter zur ruhigen Retenue d'Oloron, wo sanftes Wasser und schöne Spiegelungen der alten Brücken für ein beruhigendes Erlebnis am frühen Morgen sorgen.\n\nGegen Mittag steigen Sie zum historischen Viertel Sainte-Croix hinauf. Besuchen Sie die bemerkenswerte Kirche Sainte-Croix mit ihrer beeindruckenden maurischen Kuppel. Nur einen Steinwurf entfernt lädt das Maison du Patrimoine Sie ein, tief in die reiche Kulturgeschichte des Béarn einzutauchen.\n\nAm Nachmittag können Sie den mittelalterlichen Tour de Grède besteigen. Der Panoramablick von oben über die Stadt und die Pyrenäen ist unvergesslich. Danach schlendern Sie gemütlich in Richtung Stadtzentrum und genießen die malerischen Gassen der Umgebung.\n\nBeenden Sie Ihr Abenteuer im üppigen Jardin Public. Ruhen Sie sich unter jahrhundertealten Bäumen aus und denken Sie über Ihre Entdeckungen nach, während das späte Nachmittagslicht die fernen Berggipfel beleuchtet. Ein ruhiger Abschluss für einen erlebnisreichen Tag.",
+        "hu": "Kezdje sétáját a lélegzetelállító Sainte-Marie katedrálisnál. Az UNESCO-listás építészet fenséges alaphangot ad a napnak. Ezután sétáljon le a békés Retenue d'Oloron felé, ahol a lágy vízáramlás és a régi hidak gyönyörű tükröződései tökéletesen nyugtató reggeli élményt nyújtanak.\n\nDél körül emelkedjen fel a történelmi Sainte-Croix negyed felé. Látogassa meg a figyelemre méltó Sainte-Croix templomot a lenyűgöző hispán-mór kupolájával. Egy kőhajításnyira a Maison du Patrimoine arra hívja, hogy merüljön el a Béarn régió gazdag kulturális történelmében.\n\nDélután hódítsa meg a középkori Tour de Grède tornyot. A városra és a Pireneusokra nyíló panoráma fentről valóban felejthetetlen. Ezután lassan sétáljon lefelé a város szíve felé, gyönyörködve az óváros festői utcáiban és hangulatos részleteiben.\n\nSétás kalandját a buja Jardin Public-ban fejezze be. Pihenjen meg az évszázados fák árnyékában, és gondolja végig a nap felfedezéseit, miközben a késő délutáni aranyfény megvilágítja a távoli hegycsúcsokat. Ez a tökéletes, nyugodt befejezés.",
+        "ro": "Începeți turul pietonal la uluitoarea Catedrală Sainte-Marie. Arhitectura sa inclusă pe lista UNESCO oferă un ton maiestuos zilei. Plimbați-vă apoi spre liniștitul Retenue d'Oloron, unde fluxul blând al apei și reflexiile frumoase ale podurilor vechi oferă o experiență perfectă și calmantă de dimineață.\n\nÎn jurul prânzului, urcați spre cartierul istoric Sainte-Croix. Vizitați remarcabila Biserică Sainte-Croix, cu uimitorul său dom hispano-maur. La doar o aruncătură de băț, Maison du Patrimoine vă invită să pătrundeți în istoria culturală și tradițiile regiunii Béarn.\n\nDupă-amiaza, provocați-vă să urcați în medievalul Tour de Grède. Vederile panoramice de sus, peste oraș și spre Pirinei, sunt cu adevărat de neuitat. Ulterior, plimbați-vă ușor spre inima orașului, admirând străzile pitorești și atmosfera autentică.\n\nÎncheiați aventura pietonală în luxuriantul Jardin Public. Odihniți-vă la umbra copacilor seculari, reflectând la descoperirile făcute în timp ce lumina aurie a după-amiezii luminează vârfurile îndepărtate ale munților. Este finalul liniștit și perfect.",
+        "en": "Start your walking tour at the breathtaking Sainte-Marie Cathedral. Its intricate UNESCO-listed architecture sets a majestic tone for the day. Stroll next down to the serene Retenue d'Oloron, where the gentle flow of water and beautiful reflections of the old bridges provide a perfectly calming morning experience.\n\nAround midday, ascend towards the historic Sainte-Croix quarter. Visit the remarkable Sainte-Croix Church with its stunning Hispano-Moorish dome. Just a stone's throw away, the Maison du Patrimoine invites you to delve deep into the rich cultural history and traditions of the Béarn region.\n\nIn the afternoon, challenge yourself to climb the medieval Tour de Grède. The panoramic views from the top, sweeping across the town and towards the mighty Pyrenees, are truly unforgettable. Afterwards, gently wander down towards the heart of the city, taking in the picturesque streets.\n\nConclude your walking adventure in the lush Jardin Public. Rest under the shade of centuries-old trees, reflecting on your discoveries as the golden late afternoon light illuminates the distant mountain peaks. It’s the perfect, tranquil end to a rich day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Marie Kathedrale",
+            "hu": "Sainte-Marie Katedrális",
+            "ro": "Catedrala Sainte-Marie",
+            "en": "Sainte-Marie Cathedral"
+          },
+          "coords": [
+            -0.615936,
+            43.187846
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das UNESCO-gelistete romanische Portal mit seinen Skulpturen und treten Sie ein, um die Orgel zu sehen, wobei morgens Ruhe geboten ist.",
+            "hu": "Csodálja meg az UNESCO-listás román kori portált és a részletes szobrokat, majd csendben tekintse meg az orgonát a reggeli misék idejét elkerülve.",
+            "ro": "Admirați portalul romanic inclus pe lista UNESCO cu sculpturile sale complexe, apoi intrați pentru a vedea orga, păstrând liniștea dimineața.",
+            "en": "Admire the UNESCO-listed Romanesque portal with its intricate sculptures, then step inside to see the organ, keeping quiet during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "Retenue d'Oloron",
+            "hu": "Retenue d'Oloron",
+            "ro": "Retenue d'Oloron",
+            "en": "Retenue d'Oloron"
+          },
+          "coords": [
+            -0.608566,
+            43.185405
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an diesem Stausee, wo die Flüsse zusammenfließen, und bringen Sie eine Kamera für die Spiegelungen der Altstadt mit.",
+            "hu": "Sétáljon egyet ezen a gyönyörű víztározónál, ahol a helyi folyók összefolynak, és hozzon fényképezőgépet az óváros tükröződésének megörökítéséhez.",
+            "ro": "Bucurați-vă de o plimbare pe malul acestui lac de acumulare pitoresc unde râurile se unesc, aducând o cameră pentru a surprinde reflexiile orașului.",
+            "en": "Enjoy a peaceful stroll along this beautiful reservoir where the local rivers merge, bringing a camera to capture the reflections of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Grède",
+            "hu": "Tour de Grède",
+            "ro": "Tour de Grède",
+            "en": "Tour de Grède"
+          },
+          "coords": [
+            -0.606582,
+            43.189711
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen mittelalterlichen Turm für einen Panoramablick auf die Pyrenäen und tragen Sie feste Schuhe für die steilen, engen Treppen.",
+            "hu": "Másszon fel e középkori torony tetejére a Pireneusok panorámájáért, és viseljen kényelmes cipőt a meredek, szűk lépcsők biztonságos megtételéhez.",
+            "ro": "Urcați în vârful acestui turn medieval pentru vederi panoramice spre Pirinei, purtând încălțăminte rezistentă pentru a urca în siguranță scările.",
+            "en": "Climb to the top of this medieval tower for panoramic views across the Pyrenees, wearing sturdy shoes to safely navigate the steep, narrow stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.606099,
+            43.189098
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckende Kirche aus dem 11. Jahrhundert mit ihrer maurischen Kuppel und kommen Sie mittags für das beste Lichteinfall.",
+            "hu": "Fedezze fel ezt a lenyűgöző 11. századi templomot a különleges hispán-mór kupolájával, és érkezzen délben, amikor a fények a legszebben játszanak.",
+            "ro": "Descoperiți această uimitoare biserică din secolul al XI-lea cu domul său hispano-maur și vizitați-o la prânz, când lumina pătrunde într-un mod magic.",
+            "en": "Discover this stunning 11th-century church with its remarkable Hispano-Moorish dome, and visit around midday when the light filters beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours du Gave d'Aspe",
+            "hu": "Cours du Gave d'Aspe",
+            "ro": "Cours du Gave d'Aspe",
+            "en": "Cours du Gave d'Aspe"
+          },
+          "coords": [
+            -0.609303,
+            43.190719
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den erfrischenden Flussufern mit charmanten alten Häusern und halten Sie Ausschau nach Fischern, die im klaren Wasser angeln.",
+            "hu": "Sétáljon a frissítő folyóparton a bájos régi házak mentén, és figyelje a helyi horgászokat, akik a kristálytiszta vizekben próbálnak szerencsét.",
+            "ro": "Plimbați-vă pe malurile revigorante ale râului mărginite de case vechi fermecătoare și urmăriți pescarii locali cum își aruncă undițele în apă.",
+            "en": "Walk or cycle along the refreshing riverbanks lined with charming old houses, and watch out for local fishermen casting lines in the crystal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Public",
+            "hu": "Jardin Public",
+            "ro": "Jardin Public",
+            "en": "Jardin Public"
+          },
+          "coords": [
+            -0.61135,
+            43.192284
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter jahrhundertealten Bäumen in diesem üppigen Park mit Bergblick und bringen Sie lokalen Käse für ein Nachmittagspicknick mit.",
+            "hu": "Pihenjen az évszázados fák alatt ebben a buja parkban, amely a hegyekre néz, és hozzon magával helyi sajtot egy tökéletes délutáni piknikhez.",
+            "ro": "Relaxați-vă sub copaci seculari în această grădină luxuriantă cu vedere la munți, aducând niște brânză locală pentru un picnic perfect de după-amiază.",
+            "en": "Relax under centuries-old trees in this lush public garden overlooking the mountains, packing some local cheese and wine for a perfect afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Faget",
+            "hu": "Lac du Faget",
+            "ro": "Lac du Faget",
+            "en": "Lac du Faget"
+          },
+          "coords": [
+            -0.570484,
+            43.224866
+          ],
+          "category": "natural",
+          "arrive_at": "16:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt an diesem ruhigen See in den grünen Hügeln und kommen Sie eine Stunde vor Sonnenuntergang für die beste Aussicht.",
+            "hu": "Meneküljön el a város zajától ezen a zöldellő dombok között fekvő csendes tónál, és érkezzen naplemente előtt az aranyórai fények kedvéért.",
+            "ro": "Scăpați de agitația orașului la acest lac liniștit ascuns printre dealuri verzi, ajungând cu o oră înainte de apus pentru o lumină aurie perfectă.",
+            "en": "Escape the town's bustle at this serene lake nestled in the rolling green hills, arriving an hour before sunset to enjoy the best golden hour views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der herrlichen Kathedrale Sainte-Marie, bevor Sie zur Retenue d'Oloron radeln. Der morgendliche Nebel auf dem Stausee schafft eine magische Atmosphäre. Genießen Sie die frische Luft, während Sie durch die Unterstadt fahren und die natürliche Schönheit der Flüsse bewundern.\n\nSchalten Sie mittags einen Gang zurück, um ins Viertel Sainte-Croix aufzusteigen. Erklimmen Sie den Tour de Grède für eine tolle Aussicht und ruhen Sie Ihre Beine bei der Kirche Sainte-Croix aus. Die historische Atmosphäre hier ist spürbar und bietet eine schöne kulturelle Pause.\n\nNach dem Mittagessen radeln Sie gemütlich am Cours du Gave d'Aspe entlang. Der sanfte Uferweg ist ideal. Folgen Sie ihm zum Jardin Public, wo Sie Ihr Fahrrad parken und sich auf den üppigen Rasenflächen entspannen können, während Sie die schönen Panoramen der Berge genießen.\n\nGegen Abend machen Sie eine etwas längere Fahrt zum Lac du Faget. Diese Naturoase bietet einen ruhigen Rückzugsort von der Stadt. Beobachten Sie, wie sich der Sonnenuntergang auf dem ruhigen Wasser spiegelt, bevor Sie in der Dämmerung in die Innenstadt zurückkehren.",
+        "hu": "Kezdje kerékpáros útját a csodálatos Sainte-Marie katedrálisnál, mielőtt letekernék a Retenue d'Oloronhoz. A reggeli köd a víztározón varázslatos hangulatot teremt. Élvezze a friss levegőt, miközben áthalad az alsóvároson, és megcsodálja az összefolyó folyók csendes, természetes szépségét.\n\nDél körül váltson kisebb fokozatba, és másszon fel a Sainte-Croix negyedbe. Tekintse meg a Tour de Grède panorámáját, majd pihentesse lábait a Sainte-Croix templom különleges építészetét csodálva. A történelmi hangulat itt kézzelfogható, és szép kulturális szünetet kínál.\n\nEbéd után guruljon végig a Cours du Gave d'Aspe mentén. A folyóparti ösvény tökéletes a kerékpározáshoz. Kövesse a Jardin Public-ig, ahol leparkolhatja kerékpárját, és megpihenhet a buja pázsiton, élvezve a környező hegyi tájak gyönyörű panorámáját a következő út előtt.\n\nAz este közeledtével tegyen egy festői, valamivel hosszabb túrát a Lac du Faget felé. Ez a természeti menedék békés menekülést kínál a városból. Nézze meg, ahogy a naplemente visszatükröződik a nyugodt vizeken, majd a szürkületben lassan tekerjen vissza a városközpontba.",
+        "ro": "Începeți călătoria cu bicicleta la magnifica Catedrală Sainte-Marie înainte de a pedala spre Retenue d'Oloron. Ceața matinală de pe lac creează o atmosferă magică. Bucurați-vă de aerul curat în timp ce mergeți prin orașul de jos, admirând frumusețea naturală a râurilor care se unesc.\n\nÎn jurul prânzului, schimbați într-o treaptă inferioară pentru a urca în cartierul Sainte-Croix. Urcați în Tour de Grède pentru o vedere panoramică, apoi odihniți-vă picioarele admirând arhitectura Bisericii Sainte-Croix. Atmosfera istorică oferă o pauză culturală minunată.\n\nDupă prânz, mergeți de-a lungul Cours du Gave d'Aspe. Calea blândă de pe malul râului este perfectă pentru biciclete. Urmați-o până la Jardin Public, unde puteți parca bicicleta și vă puteți relaxa pe gazonul luxuriant, bucurându-vă de panoramele frumoase ale munților din jur.\n\nPe măsură ce se apropie seara, faceți o plimbare pitorească și puțin mai lungă până la Lac du Faget. Acest refugiu natural oferă o evadare senină din oraș. Priviți apusul reflectându-se pe apele calme, respirând aerul proaspăt de țară înainte de a pedala înapoi la lăsarea întunericului.",
+        "en": "Kick off your cycling journey at the magnificent Sainte-Marie Cathedral before pedaling down to the Retenue d'Oloron. The morning mist on the reservoir creates a magical atmosphere. Enjoy the crisp air as you ride through the lower town, taking in the tranquil, natural beauty of the merging rivers.\n\nAround midday, shift to a lower gear to climb into the Sainte-Croix district. Scale the Tour de Grède for sweeping views, then rest your legs while admiring the unique architecture of the Sainte-Croix Church. The historic atmosphere here is palpable and offers a lovely mid-trip cultural pause.\n\nAfter lunch, cruise along the Cours du Gave d'Aspe. The gentle riverside path is perfect for cycling. Follow it up to the Jardin Public, where you can park your bike and relax on the lush lawns, soaking in the beautiful panoramas of the surrounding mountain landscapes before your next ride.\n\nAs evening approaches, take a scenic, slightly longer ride out to Lac du Faget. This natural haven offers a serene escape from the town. Watch the sunset reflect off the calm waters, breathing in the fresh countryside air before cycling back to the center in the twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Marie Kathedrale",
+            "hu": "Sainte-Marie Katedrális",
+            "ro": "Catedrala Sainte-Marie",
+            "en": "Sainte-Marie Cathedral"
+          },
+          "coords": [
+            -0.615936,
+            43.187846
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das UNESCO-gelistete romanische Portal mit seinen Skulpturen und treten Sie ein, um die Orgel zu sehen, wobei morgens Ruhe geboten ist.",
+            "hu": "Csodálja meg az UNESCO-listás román kori portált és a részletes szobrokat, majd csendben tekintse meg az orgonát a reggeli misék idejét elkerülve.",
+            "ro": "Admirați portalul romanic inclus pe lista UNESCO cu sculpturile sale complexe, apoi intrați pentru a vedea orga, păstrând liniștea dimineața.",
+            "en": "Admire the UNESCO-listed Romanesque portal with its intricate sculptures, then step inside to see the organ, keeping quiet during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Grède",
+            "hu": "Tour de Grède",
+            "ro": "Tour de Grède",
+            "en": "Tour de Grède"
+          },
+          "coords": [
+            -0.606582,
+            43.189711
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen mittelalterlichen Turm für einen Panoramablick auf die Pyrenäen und tragen Sie feste Schuhe für die steilen, engen Treppen.",
+            "hu": "Másszon fel e középkori torony tetejére a Pireneusok panorámájáért, és viseljen kényelmes cipőt a meredek, szűk lépcsők biztonságos megtételéhez.",
+            "ro": "Urcați în vârful acestui turn medieval pentru vederi panoramice spre Pirinei, purtând încălțăminte rezistentă pentru a urca în siguranță scările.",
+            "en": "Climb to the top of this medieval tower for panoramic views across the Pyrenees, wearing sturdy shoes to safely navigate the steep, narrow stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine",
+            "hu": "Maison du Patrimoine",
+            "ro": "Maison du Patrimoine",
+            "en": "Maison du Patrimoine"
+          },
+          "coords": [
+            -0.606435,
+            43.189562
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte des Béarn durch faszinierende Ausstellungen ein und beginnen Sie im ersten Stock für den chronologischen Ablauf.",
+            "hu": "Merüljön el a Béarn régió gazdag történelmében és hagyományaiban az izgalmas kiállításokon keresztül, az első emeleten kezdve az időrendi sorrendért.",
+            "ro": "Pătrundeți în istoria bogată a regiunii Béarn prin expoziții fascinante, începând explorarea la primul etaj pentru un context cronologic perfect.",
+            "en": "Delve into the rich history and traditions of the Béarn region through fascinating exhibits, starting on the first floor for chronological context."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -0.606099,
+            43.189098
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckende Kirche aus dem 11. Jahrhundert mit ihrer maurischen Kuppel und kommen Sie mittags für das beste Lichteinfall.",
+            "hu": "Fedezze fel ezt a lenyűgöző 11. századi templomot a különleges hispán-mór kupolájával, és érkezzen délben, amikor a fények a legszebben játszanak.",
+            "ro": "Descoperiți această uimitoare biserică din secolul al XI-lea cu domul său hispano-maur și vizitați-o la prânz, când lumina pătrunde într-un mod magic.",
+            "en": "Discover this stunning 11th-century church with its remarkable Hispano-Moorish dome, and visit around midday when the light filters beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Georges Minvielle",
+            "hu": "Espace Georges Minvielle",
+            "ro": "Espace Georges Minvielle",
+            "en": "Espace Georges Minvielle"
+          },
+          "coords": [
+            -0.612564,
+            43.192212
+          ],
+          "category": "family",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem familienfreundlichen Freizeitbereich Energie abbauen und bringen Sie eine wiederverwendbare Wasserflasche mit.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a családbarát parkban, és hozzon magával kulacsot a kinti szabadidős tevékenységekhez.",
+            "ro": "Lăsați copiii să-și consume energia în acest spațiu de recreere pentru familii, aducând o sticlă de apă reutilizabilă pentru activitățile afară.",
+            "en": "Let the kids burn off energy at this family-friendly recreational space, bringing a refillable water bottle to stay hydrated during outdoor activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Public",
+            "hu": "Jardin Public",
+            "ro": "Jardin Public",
+            "en": "Jardin Public"
+          },
+          "coords": [
+            -0.61135,
+            43.192284
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter jahrhundertealten Bäumen in diesem üppigen Park mit Bergblick und bringen Sie lokalen Käse für ein Nachmittagspicknick mit.",
+            "hu": "Pihenjen az évszázados fák alatt ebben a buja parkban, amely a hegyekre néz, és hozzon magával helyi sajtot egy tökéletes délutáni piknikhez.",
+            "ro": "Relaxați-vă sub copaci seculari în această grădină luxuriantă cu vedere la munți, aducând niște brânză locală pentru un picnic perfect de după-amiază.",
+            "en": "Relax under centuries-old trees in this lush public garden overlooking the mountains, packing some local cheese and wine for a perfect afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Faget",
+            "hu": "Lac du Faget",
+            "ro": "Lac du Faget",
+            "en": "Lac du Faget"
+          },
+          "coords": [
+            -0.570484,
+            43.224866
+          ],
+          "category": "natural",
+          "arrive_at": "16:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt an diesem ruhigen See in den grünen Hügeln und kommen Sie eine Stunde vor Sonnenuntergang für die beste Aussicht.",
+            "hu": "Meneküljön el a város zajától ezen a zöldellő dombok között fekvő csendes tónál, és érkezzen naplemente előtt az aranyórai fények kedvéért.",
+            "ro": "Scăpați de agitația orașului la acest lac liniștit ascuns printre dealuri verzi, ajungând cu o oră înainte de apus pentru o lumină aurie perfectă.",
+            "en": "Escape the town's bustle at this serene lake nestled in the rolling green hills, arriving an hour before sunset to enjoy the best golden hour views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der monumentalen Kathedrale Sainte-Marie und nutzen Sie die Parkplätze in der Nähe. Genießen Sie den Morgen und bewundern Sie das Portal, bevor Sie kurz in das höher gelegene Viertel Sainte-Croix fahren, wo die mittelalterliche Geschichte die Skyline dominiert.\n\nParken Sie im historischen Zentrum einmal, um eine enge Gruppe von Sehenswürdigkeiten zu erkunden. Besteigen Sie den Tour de Grède, wandern Sie durch das Maison du Patrimoine und besichtigen Sie die Kirche Sainte-Croix. Diese kurze Erkundung zu Fuß verbindet Fahren mit tiefem historischen Eintauchen.\n\nFahren Sie eine kurze Strecke hinunter zum Espace Georges Minvielle für eine entspannte, familienfreundliche Pause. Danach geht es zum Jardin Public, der großartige Ausblicke auf die Pyrenäen bietet. Diese leicht zugänglichen Orte ermöglichen es Ihnen, die Natur mit maximalem Komfort zu genießen.\n\nWenn der Tag ausklingt, machen Sie eine landschaftlich reizvolle Fahrt zum Lac du Faget. Dieser wunderschöne See ist mit dem Auto gut erreichbar und bietet einen ruhigen Abschluss. Spazieren Sie an den Ufern entlang, während die Sonne über den Hügeln untergeht und den erlebnisreichen Tag abrundet.",
+        "hu": "Kezdje autós túráját a monumentális Sainte-Marie katedrálisnál, a közeli tágas parkolókat használva. Töltsön egy békés reggelt a lenyűgöző portál megcsodálásával, mielőtt egy rövid úton felhajtana a magasabban fekvő Sainte-Croix negyedbe, ahol a középkori történelem uralja a várost.\n\nA történelmi központban parkoljon le egyszer, hogy felfedezze a látnivalók szoros csoportját. Másszon fel a Tour de Grède-be, járja be a Maison du Patrimoine kiállításait, és lépjen be a lélegzetelállító Sainte-Croix templomba. Ez a gyalogos szakasz tökéletesen egyensúlyozza a vezetést a történelmi elmélyüléssel.\n\nVezessen egy rövid távolságot le az Espace Georges Minvielle-hez egy nyugodt, családbarát délutáni pihenőhöz. Később könnyedén guruljon át a Jardin Public-ba, ahonnan csodálatos kilátás nyílik a Pireneusokra. Ezek a helyszínek lehetővé teszik a zöldterületek maximális kényelemben történő élvezetét.\n\nA nap lezárásaként tegyen egy festői autózást a Lac du Faget felé. Ez a gyönyörű tó könnyen megközelíthető autóval, és csendes befejezést kínál. Sétáljon a békés partokon, miközben a nap lenyugszik a dombok felett, visszaemlékezve erre a gyönyörű és változatos napra Oloron-Sainte-Marie-ban.",
+        "ro": "Începeți turul cu mașina la monumentala Catedrală Sainte-Marie, folosind parcarea spațioasă din apropiere. Petreceți dimineața admirând portalul său înainte de a conduce scurt până în cartierul înalt Sainte-Croix, unde istoria medievală domină orizontul orașului.\n\nÎn inima istorică, parcați o singură dată pentru a explora un grup strâns de obiective. Urcați în Tour de Grède, plimbați-vă prin Maison du Patrimoine și vizitați Biserica Sainte-Croix. Această explorare pietonală echilibrează perfect condusul cu o imersiune istorică intimă și profundă.\n\nConduceți o distanță scurtă până la Espace Georges Minvielle pentru o pauză de după-amiază relaxată. Ulterior, mutați-vă ușor la Jardin Public, care oferă priveliști mărețe spre Pirinei. Aceste opriri accesibile vă permit să vă bucurați de spațiile verzi cu un confort maxim.\n\nPe măsură ce ziua se încheie, faceți o plimbare pitorească cu mașina până la Lac du Faget. Acest lac frumos este ușor accesibil și oferă un final liniștit itinerariului. Plimbați-vă pe țărmurile pașnice în timp ce soarele apune peste dealuri, reflectând la o zi superb diversă în Oloron-Sainte-Marie.",
+        "en": "Begin your driving tour with the monumental Sainte-Marie Cathedral, utilizing the ample parking nearby. Spend a peaceful morning admiring its stunning portal before making the short drive up into the elevated Sainte-Croix quarter, where medieval history dominates the city’s skyline.\n\nIn the historical heart, park once to explore a tight cluster of sights. Climb the Tour de Grède, wander through the exhibits of the Maison du Patrimoine, and step inside the breathtaking Sainte-Croix Church. This pedestrian-friendly exploration perfectly balances driving with intimate historical immersion.\n\nDrive a short distance down to the Espace Georges Minvielle for a relaxed, family-friendly afternoon break. Later, easily relocate to the Jardin Public, offering grand vistas of the Pyrenees. These accessible stops allow you to soak in the town’s green spaces with maximum convenience.\n\nAs the day winds down, take a scenic drive out to Lac du Faget. This beautiful lake is easily reachable by car and offers a tranquil end to your itinerary. Walk along the peaceful shores as the sun sets over the hills, reflecting on a beautifully diverse day exploring Oloron-Sainte-Marie."
+      }
+    }
+  }
+}

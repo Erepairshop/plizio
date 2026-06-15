@@ -1,0 +1,474 @@
+{
+  "city_id": "finland-matinkyla-cities-v2",
+  "anchor": {
+    "name": "Matinkylä",
+    "coords": [
+      24.74471,
+      60.15418
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Matinkartano",
+            "hu": "Matinkartano",
+            "ro": "Matinkartano",
+            "en": "Matinkartano"
+          },
+          "coords": [
+            24.748958,
+            60.161207
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Gutshaus, das die lokale Geschichte prägt, und achten Sie besonders auf die faszinierende traditionelle Holzarchitektur der Umgebung.",
+            "hu": "Fedezze fel ezt a helyi történelmet meghatározó kúriát, és figyeljen a környező lenyűgöző hagyományos faépítészeti elemekre a séta során.",
+            "ro": "Explorați acest conac istoric care definește istoria locală și acordați o atenție deosebită fascinantei arhitecturi tradiționale din lemn.",
+            "en": "Explore this historic manor that shapes local history, and pay special attention to the fascinating traditional wooden architecture in the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Duudsonit Activity Park",
+            "hu": "Duudsonit Activity Park",
+            "ro": "Duudsonit Activity Park",
+            "en": "Duudsonit Activity Park"
+          },
+          "coords": [
+            24.737488,
+            60.162199
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihrer Energie in diesem aufregenden Actionpark freien Lauf, aber vergessen Sie nicht, bequeme Kleidung und rutschfeste Socken mitzubringen.",
+            "hu": "Vezesse le az energiáját ebben az izgalmas akcióparkban, de ne felejtsen el kényelmes ruházatot és csúszásmentes zoknit hozni magával.",
+            "ro": "Eliberați-vă energia în acest parc de acțiune captivant, dar nu uitați să aduceți îmbrăcăminte confortabilă și șosete antiderapante pentru joacă.",
+            "en": "Unleash your energy in this exciting action park, but do not forget to bring comfortable clothing and non-slip socks for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Matinkylän rantauimala",
+            "hu": "Matinkylän rantauimala",
+            "ro": "Matinkylän rantauimala",
+            "en": "Matinkylän rantauimala"
+          },
+          "coords": [
+            24.754672,
+            60.150251
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strandbad am Meer und bringen Sie am besten ein Picknick mit, um die malerische Aussicht auf den Schärengarten zu genießen.",
+            "hu": "Pihenjen meg ezen a népszerű tengerparti strandon, és a legjobb, ha hoz egy piknikkosarat, hogy kiélvezze a festői szigetvilágra nyíló kilátást.",
+            "ro": "Relaxați-vă pe această plajă populară de la malul mării și asigurați-vă că aduceți un picnic pentru a vă bucura de priveliștile pitorești ale arhipelagului.",
+            "en": "Relax at this popular seaside beach and make sure to bring a picnic to fully enjoy the picturesque views of the surrounding archipelago."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Koli",
+            "hu": "Villa Koli",
+            "ro": "Villa Koli",
+            "en": "Villa Koli"
+          },
+          "coords": [
+            24.764681,
+            60.152093
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante historische Villa an der Küste und nutzen Sie das sanfte Nachmittagslicht für beeindruckende Architekturfotografien.",
+            "hu": "Csodálja meg ezt a bájos történelmi tengerparti villát, és használja ki a lágy délutáni fényeket a lenyűgöző építészeti fotók elkészítéséhez.",
+            "ro": "Admirați această vilă istorică fermecătoare de pe coastă și profitați de lumina blândă a după-amiezii pentru fotografii arhitecturale uimitoare.",
+            "en": "Admire this charming historic coastal villa and take advantage of the soft afternoon light to capture stunning architectural photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Haukilahden rauniot",
+            "hu": "Haukilahden rauniot",
+            "ro": "Haukilahden rauniot",
+            "en": "Haukilahden rauniot"
+          },
+          "coords": [
+            24.777155,
+            60.158652
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geheimnisvollen Ruinen aus vergangenen Zeiten und tragen Sie festes Schuhwerk, da die unebenen Pfade recht steinig sein können.",
+            "hu": "Fedezze fel ezeket a letűnt idők rejtélyes romjait, és viseljen masszív lábbelit, mivel az egyenetlen ösvények meglehetősen kavicsosak lehetnek.",
+            "ro": "Descoperiți aceste ruine misterioase din vremuri apuse și purtați încălțăminte robustă, deoarece potecile denivelate pot fi destul de stâncoase.",
+            "en": "Discover these mysterious ruins from bygone eras, and wear sturdy footwear as the uneven paths around the site can be quite rocky and challenging."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch des historischen Matinkartano, bevor Sie sich im actionreichen Duudsonit Park vergnügen.\nGönnen Sie sich am Matinkylän rantauimala eine erholsame Pause am Strand und genießen Sie die maritime finnische Atmosphäre.\nAm Nachmittag erkunden Sie die charmante Architektur der Villa Koli, die einen Einblick in das historische Küstenleben bietet.\nLassen Sie den Tag bei den Haukilahden Ruinen ausklingen, wo Sie die geheimnisvolle Stimmung der Abenddämmerung erleben können.",
+        "hu": "Kezdje a napot a történelmi Matinkartano felfedezésével, mielőtt átadná magát a szórakozásnak az izgalmas Duudsonit Parkban.\nKényeztesse magát egy pihentető tengerparti szünettel a Matinkylän rantauimala strandon, élvezve az egyedülálló finn tengeri hangulatot.\nDélután fedezze fel a bájos Villa Koli építészetét, amely betekintést nyújt a régió történelmi parti mindennapjaiba.\nZárja a napot a titokzatos Haukilahden romoknál, ahol a lenyűgöző alkonyati fények varázslatos és békés hangulatot teremtenek.",
+        "ro": "Începeți ziua cu o vizită la istoricul Matinkartano, înainte de a vă distra de minune în parcul plin de acțiune Duudsonit.\nRăsfățați-vă cu o pauză relaxantă la plaja Matinkylän rantauimala, bucurându-vă de atmosfera maritimă unică și liniștită.\nDupă-amiaza, explorați arhitectura fermecătoare a Vilei Koli, care oferă o perspectivă asupra vieții istorice de pe coasta finlandeză.\nÎncheiați ziua la misterioasele ruine Haukilahden, unde puteți experimenta atmosfera magică și pașnică a crepusculului nordic.",
+        "en": "Start your day with an engaging visit to the historic Matinkartano before having some active fun at the exciting Duudsonit Park.\nTreat yourself to a relaxing seaside break at the Matinkylän rantauimala beach, fully enjoying the unique and peaceful maritime atmosphere.\nIn the afternoon, explore the charming architecture of Villa Koli, which offers a great glimpse into the historical coastal lifestyle.\nEnd your day at the mysterious Haukilahden ruins, where you can truly experience the magical and calming atmosphere of the Nordic twilight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hausmuseum Villa Rulludd",
+            "hu": "Villa Rulludd Házmúzeum",
+            "ro": "Casa memorială Villa Rulludd",
+            "en": "House museum Villa Rulludd"
+          },
+          "coords": [
+            24.709199,
+            60.14212
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des 19. Jahrhunderts in diesem Museum ein und fragen Sie das Personal nach den faszinierenden Sommergeschichten der Familie Kihlman.",
+            "hu": "Merüljön el a 19. századi életben ebben a múzeumban, és kérdezze meg a személyzetet a Kihlman család lenyűgöző nyári történeteiről és titkairól.",
+            "ro": "Pătrundeți în viața secolului al XIX-lea în acest muzeu și întrebați personalul despre poveștile fascinante de vară ale distinsei familii Kihlman.",
+            "en": "Delve into 19th-century life at this house museum and ask the staff about the fascinating summer stories of the prominent Kihlman family."
+          }
+        },
+        {
+          "name": {
+            "de": "Suomenojan lintuallas",
+            "hu": "Suomenojan lintuallas",
+            "ro": "Suomenojan lintuallas",
+            "en": "Suomenojan lintuallas"
+          },
+          "coords": [
+            24.718124,
+            60.152757
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt an diesem ruhigen Becken und nehmen Sie unbedingt ein Fernglas mit, um die nistenden Arten nicht zu stören.",
+            "hu": "Figyelje meg a gazdag madárvilágot ennél a csendes medencénél, és feltétlenül vigyen magával távcsövet, hogy ne zavarja meg a fészkelő fajokat.",
+            "ro": "Observați avifauna bogată de la acest bazin liniștit și asigurați-vă că luați binoclul pentru a nu deranja speciile rare care cuibăresc aici.",
+            "en": "Observe the rich birdlife at this tranquil basin, and make sure to bring binoculars so you do not disturb the rare nesting species along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Suomenoja Vogelturm",
+            "hu": "Suomenoja madártorony",
+            "ro": "Turnul de păsări Suomenoja",
+            "en": "Suomenoja bird tower"
+          },
+          "coords": [
+            24.722278,
+            60.152892
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Klettern Sie auf diesen Turm für den besten Panoramablick über das Feuchtgebiet, ideal für Vogelbeobachter in den frühen Morgenstunden.",
+            "hu": "Másszon fel erre a toronyra a legjobb panorámáért a vizes élőhely felett, amely kora reggel a legideálisabb az elhivatott madármegfigyelők számára.",
+            "ro": "Urcați în acest turn pentru cea mai bună vedere panoramică asupra zonei umede, ideal pentru observatorii de păsări în primele ore ale dimineții.",
+            "en": "Climb this tower for the best panoramic view over the wetland area, which is highly ideal for dedicated birdwatchers during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Finnevikinsilta",
+            "hu": "Finnevikinsilta",
+            "ro": "Finnevikinsilta",
+            "en": "Finnevikinsilta"
+          },
+          "coords": [
+            24.720575,
+            60.156466
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese moderne Brücke mit ihrer markanten Holzstruktur und halten Sie kurz an, um die friedliche Landschaft darunter zu fotografieren.",
+            "hu": "Keljen át ezen a jellegzetes faszerkezetű modern hídon, és álljon meg egy pillanatra, hogy lefotózza az alatta elterülő békés és csendes tájat.",
+            "ro": "Traversați acest pod modern cu structura sa distinctivă din lemn și opriți-vă un moment pentru a fotografia peisajul pașnic care se întinde dedesubt.",
+            "en": "Cross this modern bridge with its distinctive wooden structure, and pause for a moment to photograph the peaceful landscape spreading out underneath."
+          }
+        },
+        {
+          "name": {
+            "de": "Matinkartano",
+            "hu": "Matinkartano",
+            "ro": "Matinkartano",
+            "en": "Matinkartano"
+          },
+          "coords": [
+            24.748958,
+            60.161207
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Gutshaus, das die lokale Geschichte prägt, und achten Sie besonders auf die faszinierende traditionelle Holzarchitektur der Umgebung.",
+            "hu": "Fedezze fel ezt a helyi történelmet meghatározó kúriát, és figyeljen a környező lenyűgöző hagyományos faépítészeti elemekre a séta során.",
+            "ro": "Explorați acest conac istoric care definește istoria locală și acordați o atenție deosebită fascinantei arhitecturi tradiționale din lemn.",
+            "en": "Explore this historic manor that shapes local history, and pay special attention to the fascinating traditional wooden architecture in the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Espoon helluntaiseurakunta",
+            "hu": "Espoon helluntaiseurakunta",
+            "ro": "Espoon helluntaiseurakunta",
+            "en": "Espoon helluntaiseurakunta"
+          },
+          "coords": [
+            24.757256,
+            60.172698
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne finnische Kirchenarchitektur dieses Gebäudes, dessen ruhiger Innenraum sich perfekt für eine kurze Besinnungspause eignet.",
+            "hu": "Tapasztalja meg az épület modern finn templomépítészetét, amelynek csendes belső tere tökéletesen alkalmas egy rövid elmélkedésre a nap folyamán.",
+            "ro": "Experimentați arhitectura modernă a bisericii finlandeze a acestei clădiri, al cărei interior liniștit este perfect pentru un scurt moment de reflecție.",
+            "en": "Experience the modern Finnish church architecture of this building, whose quiet interior is absolutely perfect for a short moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Haukilahden rauniot",
+            "hu": "Haukilahden rauniot",
+            "ro": "Haukilahden rauniot",
+            "en": "Haukilahden rauniot"
+          },
+          "coords": [
+            24.777155,
+            60.158652
+          ],
+          "category": "historical",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geheimnisvollen Ruinen aus vergangenen Zeiten und tragen Sie festes Schuhwerk, da die unebenen Pfade recht steinig sein können.",
+            "hu": "Fedezze fel ezeket a letűnt idők rejtélyes romjait, és viseljen masszív lábbelit, mivel az egyenetlen ösvények meglehetősen kavicsosak lehetnek.",
+            "ro": "Descoperiți aceste ruine misterioase din vremuri apuse și purtați încălțăminte robustă, deoarece potecile denivelate pot fi destul de stâncoase.",
+            "en": "Discover these mysterious ruins from bygone eras, and wear sturdy footwear as the uneven paths around the site can be quite rocky and challenging."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren Sie morgens zum House Museum Villa Rulludd, gefolgt von der friedlichen Natur rund um das Vogelbecken Suomenojan lintuallas.\nErklimmen Sie den Suomenoja Vogelturm für einen Weitblick und radeln Sie dann über die moderne und architektonisch reizvolle Finnevikinsilta.\nDie Route führt Sie weiter zum historischen Matinkartano und bietet Zeit für Besinnung in der modernen Espoon helluntaiseurakunta Kirche.\nGenießen Sie die abendliche Ruhe an den Haukilahden Ruinen und lassen Sie die Eindrücke Ihrer abwechslungsreichen Radtour entspannt Revue passieren.",
+        "hu": "Kerékpározzon el a Villa Rulludd múzeumhoz, majd élvezze a békés természetet a Suomenojan lintuallas madármedence környékén.\nMássza meg a Suomenoja madártornyot a kilátásért, majd tekerjen át a modern és építészetileg lenyűgöző Finnevikinsilta hídon.\nAz útvonal a történelmi Matinkartano felé vezet, és időt kínál az elmélkedésre a modern Espoon helluntaiseurakunta templomban.\nÉlvezze az esti békét a Haukilahden romoknál, és hagyja, hogy a változatos kerékpártúra élményei nyugodtan leülepedjenek.",
+        "ro": "Pedalați spre muzeul Villa Rulludd în zorii zilei, urmat de natura pașnică din jurul bazinului de păsări Suomenojan lintuallas.\nUrcați în turnul de păsări Suomenoja pentru priveliști și apoi traversați podul modern și atractiv din punct de vedere arhitectural Finnevikinsilta.\nTraseul vă duce mai departe la istoricul Matinkartano și oferă timp de reflecție în biserica modernă Espoon helluntaiseurakunta.\nBucurați-vă de liniștea serii la ruinele Haukilahden și lăsați impresiile turului variat cu bicicleta să se decanteze în tihnă.",
+        "en": "Cycle to the Villa Rulludd house museum in the morning, followed by the peaceful nature around the Suomenojan lintuallas bird basin.\nClimb the Suomenoja bird tower for grand views and then ride your bike across the modern and architecturally appealing Finnevikinsilta bridge.\nThe route takes you further to the historic Matinkartano and offers a moment of reflection in the modern Espoon helluntaiseurakunta church.\nEnjoy the evening tranquility at the Haukilahden ruins, taking a moment to fully process all the great impressions of your varied cycling tour."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "HopLop Espoo, Suomenoja",
+            "hu": "HopLop Espoo, Suomenoja",
+            "ro": "HopLop Espoo, Suomenoja",
+            "en": "HopLop Espoo, Suomenoja"
+          },
+          "coords": [
+            24.705525,
+            60.163459
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem bunten Indoor-Spielplatz toben, der sich ideal als actionreiches Schlechtwetterprogramm am Morgen eignet.",
+            "hu": "Hagyja, hogy a gyerekek kitombolják magukat ebben a színes beltéri játszótérben, amely ideális akciódús program lehet rossz idő esetén a délelőtt.",
+            "ro": "Lăsați copiii să se dezlănțuie în acest loc de joacă interior colorat, care este ideal ca program plin de acțiune pentru o dimineață cu vreme rea.",
+            "en": "Let the children run wild in this colorful indoor playground, which serves as an ideal and action-packed program for a rainy or overcast morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaitans Själörberget",
+            "hu": "Kaitans Själörberget",
+            "ro": "Kaitans Själörberget",
+            "en": "Kaitans Själörberget"
+          },
+          "coords": [
+            24.709814,
+            60.145591
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Felsen für einen herrlichen Ausblick, aber seien Sie vorsichtig, da die felsigen Pfade bei Nässe rutschig sind.",
+            "hu": "Mássza meg ezt a történelmi sziklát a csodálatos kilátásért, de legyen nagyon óvatos, mert a sziklás ösvények nedves időben meglehetősen csúszósak.",
+            "ro": "Urcați pe această stâncă istorică pentru o priveliște magnifică, dar aveți grijă deoarece potecile stâncoase devin destul de alunecoase când sunt ude.",
+            "en": "Climb this historic rock for a magnificent view of the area, but be very careful as the rocky and unpaved paths become quite slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rulludd",
+            "hu": "Villa Rulludd",
+            "ro": "Villa Rulludd",
+            "en": "Villa Rulludd"
+          },
+          "coords": [
+            24.710255,
+            60.141943
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Gärten dieser alten Sommervilla der Elite und genießen Sie die authentische maritime Atmosphäre der vergangenen Epochen.",
+            "hu": "Sétáljon végig az elit egykori nyári villájának kertjein, és élvezze az elmúlt korszakok autentikus, nyugodt és békés tengerparti hangulatát.",
+            "ro": "Plimbați-vă prin grădinile acestei foste vile de vară a elitei și bucurați-vă de atmosfera maritimă autentică și liniștită a epocilor trecute.",
+            "en": "Stroll through the lush gardens of this former elite summer villa and deeply enjoy the authentic, peaceful maritime atmosphere of bygone eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Suomenojan lintuallas",
+            "hu": "Suomenojan lintuallas",
+            "ro": "Suomenojan lintuallas",
+            "en": "Suomenojan lintuallas"
+          },
+          "coords": [
+            24.718124,
+            60.152757
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt an diesem ruhigen Becken und nehmen Sie unbedingt ein Fernglas mit, um die nistenden Arten nicht zu stören.",
+            "hu": "Figyelje meg a gazdag madárvilágot ennél a csendes medencénél, és feltétlenül vigyen magával távcsövet, hogy ne zavarja meg a fészkelő fajokat.",
+            "ro": "Observați avifauna bogată de la acest bazin liniștit și asigurați-vă că luați binoclul pentru a nu deranja speciile rare care cuibăresc aici.",
+            "en": "Observe the rich birdlife at this tranquil basin, and make sure to bring binoculars so you do not disturb the rare nesting species along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvholmsklackarna",
+            "hu": "Kalvholmsklackarna",
+            "ro": "Kalvholmsklackarna",
+            "en": "Kalvholmsklackarna"
+          },
+          "coords": [
+            24.746993,
+            60.136671
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Natur auf diesen Küstenfelsen, ein perfekter Ort, um den Wellen zuzuhören und die frische finnische Meeresbrise zu spüren.",
+            "hu": "Élvezze a zord természetet ezeken a parti sziklákon, ami egy tökéletes hely a hullámok hallgatására és a friss finn tengeri szellő megtapasztalására.",
+            "ro": "Bucurați-vă de natura aspră pe aceste stânci de coastă, un loc perfect pentru a asculta valurile și a simți briza proaspătă a mării finlandeze.",
+            "en": "Enjoy the rugged nature on these scenic coastal rocks, a perfect spot to listen to the waves and truly feel the fresh, crisp Finnish sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Matinkylän rantauimala",
+            "hu": "Matinkylän rantauimala",
+            "ro": "Matinkylän rantauimala",
+            "en": "Matinkylän rantauimala"
+          },
+          "coords": [
+            24.754672,
+            60.150251
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strandbad am Meer und bringen Sie am besten ein Picknick mit, um die malerische Aussicht auf den Schärengarten zu genießen.",
+            "hu": "Pihenjen meg ezen a népszerű tengerparti strandon, és a legjobb, ha hoz egy piknikkosarat, hogy kiélvezze a festői szigetvilágra nyíló kilátást.",
+            "ro": "Relaxați-vă pe această plajă populară de la malul mării și asigurați-vă că aduceți un picnic pentru a vă bucura de priveliștile pitorești ale arhipelagului.",
+            "en": "Relax at this popular seaside beach and make sure to bring a picnic to fully enjoy the picturesque views of the surrounding archipelago."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie rasant im HopLop Espoo und erkunden Sie danach die faszinierenden Felsformationen am historischen Kaitans Själörberget.\nBesuchen Sie die prächtige Villa Rulludd, bevor Sie die vielfältige Vogelwelt am idyllischen Suomenojan lintuallas entdecken.\nFahren Sie entspannt zu den natürlichen Klippen von Kalvholmsklackarna und genießen Sie die unberührte Schönheit der Schärenlandschaft.\nBeenden Sie den Roadtrip mit einem entspannten Spaziergang am Matinkylän rantauimala, während die Sonne langsam über dem ruhigen Meer untergeht.",
+        "hu": "Kezdjen lendületesen a HopLop Espoo-ban, majd fedezze fel a történelmi Kaitans Själörberget lenyűgöző és vad sziklaképződményeit.\nLátogassa meg a csodálatos Villa Rulludd-ot, mielőtt felfedezné a sokszínű madárvilágot az idilli Suomenojan lintuallas környékén.\nAutózzon el kényelmesen a Kalvholmsklackarna természetes szikláihoz, és élvezze a finn szigetvilág érintetlen és békés szépségét.\nFejezze be az autós utazást egy pihentető sétával a Matinkylän rantauimala strandon, miközben a nap lassan lenyugszik a tenger felett.",
+        "ro": "Începeți în forță la HopLop Espoo și apoi explorați fascinantele formațiuni stâncoase de la istoricul Kaitans Själörberget.\nVizitați superba Villa Rulludd înainte de a descoperi avifauna diversă de la idilicul bazin Suomenojan lintuallas.\nConduceți relaxat spre stâncile naturale Kalvholmsklackarna și bucurați-vă de frumusețea neatinsă și sălbatică a arhipelagului finlandez.\nÎncheiați excursia cu mașina printr-o plimbare relaxantă la plaja Matinkylän rantauimala, în timp ce soarele apune încet peste mare.",
+        "en": "Start with a burst of energy at HopLop Espoo and then explore the fascinating rock formations at the historic Kaitans Själörberget.\nVisit the magnificent Villa Rulludd before easily discovering the diverse birdlife at the completely idyllic Suomenojan lintuallas basin.\nDrive comfortably to the natural cliffs of Kalvholmsklackarna and enjoy the totally untouched, rugged beauty of the gorgeous archipelago.\nEnd your road trip with a very relaxing stroll along the Matinkylän rantauimala beach as the sun slowly sets over the completely calm sea."
+      }
+    }
+  }
+}

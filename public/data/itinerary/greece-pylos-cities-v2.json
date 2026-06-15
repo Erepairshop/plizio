@@ -1,0 +1,566 @@
+{
+  "city_id": "greece-pylos-cities-v2",
+  "anchor": {
+    "name": "Pylos",
+    "coords": [
+      21.696389,
+      36.913889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+          },
+          "coords": [
+            21.694918,
+            36.913719
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Pylos durch faszinierende antike Artefakte, und kommen Sie früh am Morgen, um großen Besuchergruppen auszuweichen.",
+            "hu": "Fedezze fel Pilosz gazdag történelmét a lenyűgöző ókori leleteken keresztül, és érkezzen kora reggel, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Descoperiți istoria bogată a orașului Pylos prin artefacte antice fascinante și asigurați-vă că ajungeți devreme dimineața pentru a evita grupurile mari de turiști.",
+            "en": "Discover the rich history of Pylos through fascinating ancient artifacts, and make sure to arrive early in the morning to beat the larger tourist groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamares",
+            "hu": "Kamares",
+            "ro": "Kamares",
+            "en": "Kamares"
+          },
+          "coords": [
+            21.695813,
+            36.907482
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das historische Aquädukt von Pylos als architektonisches Meisterwerk und nutzen Sie das weiche Licht des Vormittags für wahrlich perfekte Fotos.",
+            "hu": "Csodálja meg a történelmi piloszi vízvezetéket, mint lenyűgöző építészeti remekművet, és használja ki a lágy délelőtti fényt a tökéletes fotók elkészítéséhez.",
+            "ro": "Admirați apeductul istoric din Pylos ca pe o capodoperă arhitecturală și profitați de lumina blândă a dimineții pentru a realiza fotografii cu adevărat perfecte.",
+            "en": "Marvel at the historic Pylos aqueduct as an architectural masterpiece, and take advantage of the soft morning light to capture truly perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Pylos",
+            "hu": "Archaeological Museum of Pylos",
+            "ro": "Archaeological Museum of Pylos",
+            "en": "Archaeological Museum of Pylos"
+          },
+          "coords": [
+            21.692018,
+            36.912417
+          ],
+          "category": "museum",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie beeindruckende mykenische Fundstücke in diesem modernen Museum und planen Sie extra Zeit für die Ausstellungen ein, die die Historie beleben.",
+            "hu": "Csodálja meg a lenyűgöző mükénéi leleteket ebben a modern múzeumban, és szánjon extra időt a történelmet életre keltő interaktív kiállításokra.",
+            "ro": "Admirați descoperirile miceniene din acest muzeu modern și alocați neapărat timp suplimentar pentru expozițiile interactive care readuc istoria la viață.",
+            "en": "Admire impressive Mycenaean finds in this modern museum, and be sure to allocate extra time for the interactive exhibitions that bring history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Marine Archaeological Finds",
+            "hu": "Museum of Marine Archaeological Finds",
+            "ro": "Museum of Marine Archaeological Finds",
+            "en": "Museum of Marine Archaeological Finds"
+          },
+          "coords": [
+            21.690668,
+            36.911792
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Unterwassergeschichte anhand geborgener Schiffswracks, und denken Sie an festes Schuhwerk, um das Festungsgelände bequem zu durchqueren.",
+            "hu": "Fedezze fel a víz alatti történelmet a felszínre hozott hajóroncsokon keresztül, és viseljen kényelmes cipőt az erőd körüli sétákhoz a kövezett terepen.",
+            "ro": "Explorați istoria subacvatică prin epavele recuperate și amintiți-vă să purtați încălțăminte robustă pentru a naviga confortabil pe terenul fortăreței.",
+            "en": "Explore underwater history through recovered shipwrecks, and remember to wear sturdy shoes to comfortably navigate the surrounding fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Niokastrou",
+            "hu": "Pharos Niokastrou",
+            "ro": "Pharos Niokastrou",
+            "en": "Pharos Niokastrou"
+          },
+          "coords": [
+            21.688533,
+            36.911646
+          ],
+          "category": "landmark",
+          "arrive_at": "15:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen herrlichen Panoramablick auf die Bucht von Navarino von diesem historischen Leuchtturm, aber bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Élvezze a Navarino-öbölre nyíló csodálatos panorámát ebből a történelmi világítótoronyból, de mindenképpen vigyen magával bőséges ivóvizet a felmászáshoz.",
+            "ro": "Bucurați-vă de o vedere panoramică magnifică asupra golfului Navarino de la acest far istoric, dar aduceți cu voi suficientă apă de băut pentru urcare.",
+            "en": "Enjoy a magnificent panoramic view of Navarino Bay from this historic lighthouse, but make sure to bring plenty of drinking water with you for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument of the Greeks",
+            "hu": "Monument of the Greeks",
+            "ro": "Monument of the Greeks",
+            "en": "Monument of the Greeks"
+          },
+          "coords": [
+            21.673716,
+            36.911926
+          ],
+          "category": "historical",
+          "arrive_at": "16:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Gedenken Sie der gefallenen Helden der Schlacht von Navarino an diesem friedlichen Ort, der im späten Nachmittagslicht eine magische Atmosphäre bietet.",
+            "hu": "Emlékezzen a navarinói csata hősi halottaira ezen a békés helyen, amely késő délutáni napfényben egy igazán varázslatos és elgondolkodtató atmoszférát áraszt.",
+            "ro": "Comemorați eroii căzuți în Bătălia de la Navarino în acest loc pașnic, care oferă o atmosferă cu adevărat magică în lumina blândă a după-amiezii târzii.",
+            "en": "Commemorate the fallen heroes of the Battle of Navarino at this peaceful site, which offers a truly magical atmosphere in the late afternoon sunlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Pylos mit faszinierenden archäologischen Entdeckungen in den zentralen Museen. Zur Mittagszeit spazieren Sie zum historischen Aquädukt und vertiefen sich direkt in die lokale Geschichte. Am Nachmittag erkunden Sie die Festung sowie den Leuchtturm mit freiem Blick auf das Meer. Der Abend endet besinnlich am Denkmal der Griechen am Navarino-Ufer.",
+        "hu": "Kezdje a napot Pilosz szívében lenyűgöző régészeti felfedezésekkel a múzeumokban. Délben sétáljon el a történelmi vízvezetékhez, és merüljön el a helyi építészetben. Délután fedezze fel az erődöt és a világítótornyot, ahonnan fenséges kilátás nyílik a tengerre. Az estét a görögök emlékművénél zárhatja elgondolkodva, miközben a nap lenyugszik a legendás Navarino-öböl felett.",
+        "ro": "Începeți ziua în inima orașului Pylos cu descoperiri arheologice fascinante. La prânz, plimbați-vă spre apeductul istoric și pătrundeți în detaliile istoriei locale. După-amiaza, explorați fortăreața și farul cu o vedere spectaculoasă la mare. Seara se încheie cu un moment de reflecție la Monumentul Grecilor, în timp ce soarele apune peste pitorescul și legendarul golf Navarino.",
+        "en": "Begin your day in the heart of Pylos with fascinating archaeological discoveries. At midday, walk to the historic aqueduct and delve deep into local history. In the afternoon, explore the fortress and lighthouse overlooking the sparkling sea. The evening ends thoughtfully at the Monument of the Greeks as the sun beautifully sets over the legendary waters of Navarino Bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "21:08",
+      "total_km": 8.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+          },
+          "coords": [
+            21.694918,
+            36.913719
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Pylos durch faszinierende antike Artefakte, und kommen Sie früh am Morgen, um großen Besuchergruppen auszuweichen.",
+            "hu": "Fedezze fel Pilosz gazdag történelmét a lenyűgöző ókori leleteken keresztül, és érkezzen kora reggel, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Descoperiți istoria bogată a orașului Pylos prin artefacte antice fascinante și asigurați-vă că ajungeți devreme dimineața pentru a evita grupurile mari de turiști.",
+            "en": "Discover the rich history of Pylos through fascinating ancient artifacts, and make sure to arrive early in the morning to beat the larger tourist groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamares",
+            "hu": "Kamares",
+            "ro": "Kamares",
+            "en": "Kamares"
+          },
+          "coords": [
+            21.695813,
+            36.907482
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das historische Aquädukt von Pylos als architektonisches Meisterwerk und nutzen Sie das weiche Licht des Vormittags für wahrlich perfekte Fotos.",
+            "hu": "Csodálja meg a történelmi piloszi vízvezetéket, mint lenyűgöző építészeti remekművet, és használja ki a lágy délelőtti fényt a tökéletes fotók elkészítéséhez.",
+            "ro": "Admirați apeductul istoric din Pylos ca pe o capodoperă arhitecturală și profitați de lumina blândă a dimineții pentru a realiza fotografii cu adevărat perfecte.",
+            "en": "Marvel at the historic Pylos aqueduct as an architectural masterpiece, and take advantage of the soft morning light to capture truly perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Pylos",
+            "hu": "Archaeological Museum of Pylos",
+            "ro": "Archaeological Museum of Pylos",
+            "en": "Archaeological Museum of Pylos"
+          },
+          "coords": [
+            21.692018,
+            36.912417
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie beeindruckende mykenische Fundstücke in diesem modernen Museum und planen Sie extra Zeit für die Ausstellungen ein, die die Historie beleben.",
+            "hu": "Csodálja meg a lenyűgöző mükénéi leleteket ebben a modern múzeumban, és szánjon extra időt a történelmet életre keltő interaktív kiállításokra.",
+            "ro": "Admirați descoperirile miceniene din acest muzeu modern și alocați neapărat timp suplimentar pentru expozițiile interactive care readuc istoria la viață.",
+            "en": "Admire impressive Mycenaean finds in this modern museum, and be sure to allocate extra time for the interactive exhibitions that bring history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Marine Archaeological Finds",
+            "hu": "Museum of Marine Archaeological Finds",
+            "ro": "Museum of Marine Archaeological Finds",
+            "en": "Museum of Marine Archaeological Finds"
+          },
+          "coords": [
+            21.690668,
+            36.911792
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Unterwassergeschichte anhand geborgener Schiffswracks, und denken Sie an festes Schuhwerk, um das Festungsgelände bequem zu durchqueren.",
+            "hu": "Fedezze fel a víz alatti történelmet a felszínre hozott hajóroncsokon keresztül, és viseljen kényelmes cipőt az erőd körüli sétákhoz a kövezett terepen.",
+            "ro": "Explorați istoria subacvatică prin epavele recuperate și amintiți-vă să purtați încălțăminte robustă pentru a naviga confortabil pe terenul fortăreței.",
+            "en": "Explore underwater history through recovered shipwrecks, and remember to wear sturdy shoes to comfortably navigate the surrounding fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Niokastrou",
+            "hu": "Pharos Niokastrou",
+            "ro": "Pharos Niokastrou",
+            "en": "Pharos Niokastrou"
+          },
+          "coords": [
+            21.688533,
+            36.911646
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen herrlichen Panoramablick auf die Bucht von Navarino von diesem historischen Leuchtturm, aber bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Élvezze a Navarino-öbölre nyíló csodálatos panorámát ebből a történelmi világítótoronyból, de mindenképpen vigyen magával bőséges ivóvizet a felmászáshoz.",
+            "ro": "Bucurați-vă de o vedere panoramică magnifică asupra golfului Navarino de la acest far istoric, dar aduceți cu voi suficientă apă de băut pentru urcare.",
+            "en": "Enjoy a magnificent panoramic view of Navarino Bay from this historic lighthouse, but make sure to bring plenty of drinking water with you for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "French memorial monument",
+            "hu": "French memorial monument",
+            "ro": "French memorial monument",
+            "en": "French memorial monument"
+          },
+          "coords": [
+            21.67299,
+            36.906636
+          ],
+          "category": "historical",
+          "arrive_at": "16:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Würdigen Sie die tapferen französischen Seeleute an diesem Denkmal, wo ein kurzer Moment der Stille sehr passend ist, um ihre großen Opfer zu ehren.",
+            "hu": "Tisztelegjen a bátor francia tengerészek előtt ennél a szigeti emlékműnél, ahol egy rövid, csendes pillanat nagyon is helyénvaló a tiszteletadásra.",
+            "ro": "Aduceți un omagiu marinarilor francezi curajoși la acest monument impresionant, unde un scurt moment de tăcere este un gest potrivit pentru sacrificiul lor.",
+            "en": "Pay tribute to the brave French sailors at this impressive island monument, where a short moment of silence is a fitting gesture to honor their sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument of the Greeks",
+            "hu": "Monument of the Greeks",
+            "ro": "Monument of the Greeks",
+            "en": "Monument of the Greeks"
+          },
+          "coords": [
+            21.673716,
+            36.911926
+          ],
+          "category": "historical",
+          "arrive_at": "17:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Gedenken Sie der gefallenen Helden der Schlacht von Navarino an diesem friedlichen Ort, der im späten Nachmittagslicht eine magische Atmosphäre bietet.",
+            "hu": "Emlékezzen a navarinói csata hősi halottaira ezen a békés helyen, amely késő délutáni napfényben egy igazán varázslatos és elgondolkodtató atmoszférát áraszt.",
+            "ro": "Comemorați eroii căzuți în Bătălia de la Navarino în acest loc pașnic, care oferă o atmosferă cu adevărat magică în lumina blândă a după-amiezii târzii.",
+            "en": "Commemorate the fallen heroes of the Battle of Navarino at this peaceful site, which offers a truly magical atmosphere in the late afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoe Seaside Resort",
+            "hu": "Zoe Seaside Resort",
+            "ro": "Zoe Seaside Resort",
+            "en": "Zoe Seaside Resort"
+          },
+          "coords": [
+            21.700983,
+            36.950547
+          ],
+          "category": "recreational",
+          "arrive_at": "19:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Entspanen Sie nach einem langen Tag voller Besichtigungen in dieser tollen Küstenanlage und reservieren Sie vorab einen Tisch für ein fantastisches Abendessen.",
+            "hu": "Pihenjen meg egy hosszú városnéző nap után ebben a gyönyörű tengerparti üdülőhelyben, és foglaljon asztalt előre egy fantasztikus mediterrán vacsorához.",
+            "ro": "Relaxați-vă după o zi lungă de vizitare în această frumoasă stațiune de coastă și asigurați-vă că rezervați o masă în avans pentru o cină mediteraneană grozavă.",
+            "en": "Relax after a long day of sightseeing at this beautiful coastal resort, and be sure to reserve a table in advance to enjoy a great Mediterranean dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen von den zentralen Museen zum beeindruckenden historischen Aquädukt. Mittags setzen Sie Ihre Tour zur Festung fort, wo faszinierende maritime Schätze warten. Der Nachmittag bietet eine malerische Fahrt entlang der Küste zu den heldenhaften Denkmälern der Navarino-Schlacht. Lassen Sie den Tag schließlich entspannt in einem wunderschönen Küstenresort weit im Norden ausklingen.",
+        "hu": "Reggel kerékpározzon a központi múzeumoktól a lenyűgöző történelmi vízvezetékig. Délben folytassa túráját az erőd felé, ahol izgalmas tengeri kincsek várják. A délután festői parti utat kínál a navarinói csata emlékműveihez. Zárja a napot lazán egy gyönyörű, északi tengerparti üdülőhelyen, élvezve a frissítő és hűsítő esti tengeri fuvallatot.",
+        "ro": "Pedalați dimineața de la muzeele centrale până la apeductul istoric impresionant. La prânz, continuați turul către fortăreață, unde vă așteaptă comori maritime fascinante. După-amiaza oferă o plimbare pitorească pe coastă către monumentele Bătăliei de la Navarino. Încheiați ziua absolut relaxant într-o frumoasă stațiune de coastă din zona de nord a orașului.",
+        "en": "Cycle in the morning from the central museums to the impressive historic aqueduct. At midday, continue your ride to the fortress, where fascinating maritime treasures await. The afternoon offers a scenic coastal ride to the historic monuments of the Battle of Navarino. End the day smoothly relaxing at a beautiful coastal resort in the north of the city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:38",
+      "total_km": 7.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoe Seaside Resort",
+            "hu": "Zoe Seaside Resort",
+            "ro": "Zoe Seaside Resort",
+            "en": "Zoe Seaside Resort"
+          },
+          "coords": [
+            21.700983,
+            36.950547
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspanen Sie am Morgen mit herrlichem Meerblick in dieser tollen Küstenanlage und genießen Sie einen hervorragenden Kaffee, bevor Sie in die Stadt fahren.",
+            "hu": "Pihenjen meg a reggeli órákban ebben a gyönyörű tengerparti üdülőhelyben, és fogyasszon el egy kiváló kávét, mielőtt a nyüzsgő városközpontba hajtana.",
+            "ro": "Relaxați-vă dimineața cu vedere la mare în această frumoasă stațiune de coastă și savurați o cafea excelentă înainte de a conduce spre centrul orașului.",
+            "en": "Relax in the morning with gorgeous sea views at this beautiful coastal resort, and enjoy an excellent coffee before driving into the bustling city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+            "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+          },
+          "coords": [
+            21.694918,
+            36.913719
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Pylos durch faszinierende antike Artefakte, und parken Sie Ihr Auto frühzeitig in der Nähe, um Platz zu sichern.",
+            "hu": "Fedezze fel Pilosz gazdag történelmét a lenyűgöző ókori leleteken keresztül, és parkolja le autóját a közelben, hogy biztosítsa a jó helyet a környéken.",
+            "ro": "Descoperiți istoria bogată a orașului Pylos prin artefacte antice fascinante și asigurați-vă că parcați mașina în apropiere pentru a găsi un loc ușor.",
+            "en": "Discover the rich history of Pylos through fascinating ancient artifacts, and make sure to park your car nearby early to secure a convenient spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamares",
+            "hu": "Kamares",
+            "ro": "Kamares",
+            "en": "Kamares"
+          },
+          "coords": [
+            21.695813,
+            36.907482
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das historische Aquädukt von Pylos als architektonisches Meisterwerk und nutzen Sie das weiche Licht des Vormittags für wahrlich perfekte Fotos.",
+            "hu": "Csodálja meg a történelmi piloszi vízvezetéket, mint lenyűgöző építészeti remekművet, és használja ki a lágy délelőtti fényt a tökéletes fotók elkészítéséhez.",
+            "ro": "Admirați apeductul istoric din Pylos ca pe o capodoperă arhitecturală și profitați de lumina blândă a dimineții pentru a realiza fotografii cu adevărat perfecte.",
+            "en": "Marvel at the historic Pylos aqueduct as an architectural masterpiece, and take advantage of the soft morning light to capture truly perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Pylos",
+            "hu": "Archaeological Museum of Pylos",
+            "ro": "Archaeological Museum of Pylos",
+            "en": "Archaeological Museum of Pylos"
+          },
+          "coords": [
+            21.692018,
+            36.912417
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie beeindruckende mykenische Fundstücke in diesem modernen Museum und planen Sie extra Zeit für die Ausstellungen ein, die die Historie beleben.",
+            "hu": "Csodálja meg a lenyűgöző mükénéi leleteket ebben a modern múzeumban, és szánjon extra időt a történelmet életre keltő interaktív kiállításokra.",
+            "ro": "Admirați descoperirile miceniene din acest muzeu modern și alocați neapărat timp suplimentar pentru expozițiile interactive care readuc istoria la viață.",
+            "en": "Admire impressive Mycenaean finds in this modern museum, and be sure to allocate extra time for the interactive exhibitions that bring history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Marine Archaeological Finds",
+            "hu": "Museum of Marine Archaeological Finds",
+            "ro": "Museum of Marine Archaeological Finds",
+            "en": "Museum of Marine Archaeological Finds"
+          },
+          "coords": [
+            21.690668,
+            36.911792
+          ],
+          "category": "museum",
+          "arrive_at": "15:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Unterwassergeschichte anhand geborgener Schiffswracks, und denken Sie an festes Schuhwerk, um das Festungsgelände bequem zu durchqueren.",
+            "hu": "Fedezze fel a víz alatti történelmet a felszínre hozott hajóroncsokon keresztül, és viseljen kényelmes cipőt az erőd körüli sétákhoz a kövezett terepen.",
+            "ro": "Explorați istoria subacvatică prin epavele recuperate și amintiți-vă să purtați încălțăminte robustă pentru a naviga confortabil pe terenul fortăreței.",
+            "en": "Explore underwater history through recovered shipwrecks, and remember to wear sturdy shoes to comfortably navigate the surrounding fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Niokastrou",
+            "hu": "Pharos Niokastrou",
+            "ro": "Pharos Niokastrou",
+            "en": "Pharos Niokastrou"
+          },
+          "coords": [
+            21.688533,
+            36.911646
+          ],
+          "category": "landmark",
+          "arrive_at": "16:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen herrlichen Panoramablick auf die Bucht von Navarino von diesem historischen Leuchtturm, aber bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Élvezze a Navarino-öbölre nyíló csodálatos panorámát ebből a történelmi világítótoronyból, de mindenképpen vigyen magával bőséges ivóvizet a felmászáshoz.",
+            "ro": "Bucurați-vă de o vedere panoramică magnifică asupra golfului Navarino de la acest far istoric, dar aduceți cu voi suficientă apă de băut pentru urcare.",
+            "en": "Enjoy a magnificent panoramic view of Navarino Bay from this historic lighthouse, but make sure to bring plenty of drinking water with you for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument of the Greeks",
+            "hu": "Monument of the Greeks",
+            "ro": "Monument of the Greeks",
+            "en": "Monument of the Greeks"
+          },
+          "coords": [
+            21.673716,
+            36.911926
+          ],
+          "category": "historical",
+          "arrive_at": "17:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Gedenken Sie der gefallenen Helden der Schlacht von Navarino an diesem friedlichen Ort, der im späten Nachmittagslicht eine magische Atmosphäre bietet.",
+            "hu": "Emlékezzen a navarinói csata hősi halottaira ezen a békés helyen, amely késő délutáni napfényben egy igazán varázslatos és elgondolkodtató atmoszférát áraszt.",
+            "ro": "Comemorați eroii căzuți în Bătălia de la Navarino în acest loc pașnic, care oferă o atmosferă cu adevărat magică în lumina blândă a după-amiezii târzii.",
+            "en": "Commemorate the fallen heroes of the Battle of Navarino at this peaceful site, which offers a truly magical atmosphere in the late afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "French memorial monument",
+            "hu": "French memorial monument",
+            "ro": "French memorial monument",
+            "en": "French memorial monument"
+          },
+          "coords": [
+            21.67299,
+            36.906636
+          ],
+          "category": "historical",
+          "arrive_at": "18:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Würdigen Sie die tapferen französischen Seeleute an diesem Denkmal, wo ein kurzer Moment der Stille sehr passend ist, um ihre großen Opfer zu ehren.",
+            "hu": "Tisztelegjen a bátor francia tengerészek előtt ennél a szigeti emlékműnél, ahol egy rövid, csendes pillanat nagyon is helyénvaló a tiszteletadásra.",
+            "ro": "Aduceți un omagiu marinarilor francezi curajoși la acest monument impresionant, unde un scurt moment de tăcere este un gest potrivit pentru sacrificiul lor.",
+            "en": "Pay tribute to the brave French sailors at this impressive island monument, where a short moment of silence is a fitting gesture to honor their sacrifice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einem absolut erholsamen Morgen in einem malerischen Küstenresort, bevor Sie mit dem Auto direkt ins Zentrum von Pylos fahren. Der Mittag ist den reizvollen Museen und archäologischen Wundern der Stadt gewidmet. Am Nachmittag erkunden Sie bequem die Festungsgelände und den markanten Leuchtturm. Ein stimmungsvoller abendlicher Besuch der historischen Denkmäler rundet diesen perfekten Tag ab.",
+        "hu": "Kezdje a napot egy hihetetlenül pihentető reggellel egy tengerparti üdülőhelyen, mielőtt Pilosz élénk központjába vezetne. A délidőt a város bájos múzeumainak és régészeti csodáinak szenteljük. Délután kényelmesen fedezze fel a hatalmas erőd területét és a világítótornyot. A történelmi és hősies emlékművek esti, békés látogatása teszi teljessé ezt a tökéletes utazást.",
+        "ro": "Începeți cu o dimineață relaxantă la o stațiune de coastă pitorească înainte de a conduce direct în centrul vibrant al orașului Pylos. Prânzul este dedicat muzeelor fermecătoare și minunilor arheologice locale. După-amiaza, explorați confortabil zona vastă a fortăreței și farul marcant. O vizită de seară emoționantă la monumentele istorice completează perfect această zi plină de cultură.",
+        "en": "Start with a relaxing morning at a picturesque coastal resort before driving right into the vibrant center of Pylos. Midday is totally dedicated to the city's charming museums and archaeological wonders. In the afternoon, comfortably explore the vast fortress grounds and the striking lighthouse. An evocative evening visit to the historic coastal monuments perfectly rounds off this cultural day."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-kalymnos-town-cities-v2",
+  "anchor": {
+    "name": "Kalymnos Town",
+    "coords": [
+      26.9833,
+      36.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Kalymnos",
+            "hu": "Kalümnoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Kalymnos",
+            "en": "Archaeological Museum of Kalymnos"
+          },
+          "coords": [
+            26.983697,
+            36.954451
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Insel anhand antiker Artefakte, darunter die beeindruckende bronzene Dame von Kalymnos, und kommen Sie am besten früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel a sziget gazdag történelmét az ősi leleteken keresztül, köztük a lenyűgöző bronz Kalümnosz Hölgye szoborral, és érkezzen korán, hogy elkerülje a legnagyobb meleget.",
+            "ro": "Descoperiți istoria bogată a insulei prin artefacte antice, inclusiv impresionanta Doamnă de bronz din Kalymnos, și încercați să vizitați devreme pentru a evita cele mai fierbinți părți ale zilei.",
+            "en": "Discover the island's rich history through ancient artifacts, including the impressive bronze Lady of Kalymnos, and try to visit early to avoid the hottest parts of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Neoklassiko",
+            "hu": "Neoklassiko Kúria",
+            "ro": "Conacul Neoklassiko",
+            "en": "Neoklassiko"
+          },
+          "coords": [
+            26.979775,
+            36.950029
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene Villa aus dem 19. Jahrhundert, um den wohlhabenden Lebensstil einer Schwammhändlerfamilie zu erleben, wobei Sie die empfindlichen Originalmöbel nicht berühren sollten.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött 19. századi kúriába, hogy megtapasztalja egy szivacsgyűjtő család jómódú életmódját, miközben ügyel arra, hogy ne érintse meg az érzékeny eredeti bútorokat.",
+            "ro": "Intrați în acest conac din secolul al XIX-lea frumos conservat pentru a experimenta stilul de viață bogat al unei familii de negustori de bureți, având grijă să nu atingeți mobilierul original delicat.",
+            "en": "Step into this beautifully preserved 19th-century mansion to experience the affluent lifestyle of a sponge merchant family, while taking care not to touch the delicate original furnishings."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrts- und Folkloremuseum",
+            "hu": "Tengerészeti és Folklórmúzeum",
+            "ro": "Muzeul Maritim și de Folclor",
+            "en": "Maritime and Folklore Museum"
+          },
+          "coords": [
+            26.984275,
+            36.949831
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Schwammtaucher-Tradition und die lokale Folklore von Kalymnos anhand traditioneller Kostüme und Taucheranzüge, und werfen Sie einen Blick auf die historischen Fotografien im Obergeschoss.",
+            "hu": "Ismerje meg Kalümnosz híres szivacsbúvár örökségét és helyi folklórját a hagyományos jelmezeken és búvárruhákon keresztül, az emeleten pedig feltétlenül nézze meg az egyedi történelmi fényképeket.",
+            "ro": "Explorați faimoasa moștenire a scufundărilor după bureți din Kalymnos și folclorul local prin costume tradiționale și costume de scafandru, și urcați la etaj pentru a vedea fotografii istorice unice.",
+            "en": "Explore Kalymnos' famous sponge-diving heritage and local folklore through traditional costumes and diving suits, and check the upper floor for unique historical photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasonia",
+            "hu": "Kasonia",
+            "ro": "Kasonia",
+            "en": "Kasonia"
+          },
+          "coords": [
+            26.987371,
+            36.94518
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch dieses Küstengebiet, um die lebhafte lokale Atmosphäre und die malerische Aussicht zu genießen, und holen Sie sich am besten einen Kaffee aus einem nahegelegenen Café.",
+            "hu": "Tegyen egy pihentető sétát ezen a tengerparti részen, hogy élvezze a pezsgő helyi hangulatot és a festői kilátást, és közben mindenképpen igyon egy kávét valamelyik közeli kávézóban.",
+            "ro": "Faceți o plimbare relaxantă prin această zonă de coastă pentru a vă bucura de atmosfera locală vibrantă și de priveliștile pitorești, luând cu siguranță o cafea de la o cafenea din apropiere.",
+            "en": "Take a relaxing stroll through this coastal area to enjoy the vibrant local atmosphere and scenic views, making sure to grab a quick coffee from a nearby café to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Gefyra",
+            "hu": "Gefyra Strand",
+            "ro": "Plaja Gefyra",
+            "en": "Paralia Gefyra"
+          },
+          "coords": [
+            26.98551,
+            36.940352
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten kleinen Strand, der für sein klares Wasser und die Nähe zur Stadt bekannt ist, und bringen Sie unbedingt Wasserschuhe mit, da das Ufer sehr kieselig ist.",
+            "hu": "Pihenjen ezen a hangulatos kis strandon, amely tiszta vizéről és a városhoz való közelségéről ismert, és mindenképpen hozzon magával vízicipőt, mivel a part meglehetősen kavicsos.",
+            "ro": "Relaxați-vă la această mică plajă fermecătoare, cunoscută pentru apele sale limpezi și proximitatea de oraș, și aduceți încălțăminte de apă deoarece țărmul este destul de pietros.",
+            "en": "Unwind at this charming small beach known for its clear waters and proximity to town, and bring your own towel or water shoes since the shoreline is quite pebbly."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Kalymnos",
+            "hu": "Kalümnosz Öböl",
+            "ro": "Golful Kalymnos",
+            "en": "Kalymnos Bay"
+          },
+          "coords": [
+            26.996461,
+            36.945127
+          ],
+          "category": "landmark",
+          "arrive_at": "17:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie der Sonnenuntergang den Himmel über dem belebten Hafen färbt, wo traditionelle Kaiki-Boote sanft im Wasser schaukeln, und nutzen Sie die südliche Promenade für ein perfektes Foto.",
+            "hu": "Nézze meg, ahogy a naplemente megfesti az eget a nyüzsgő kikötő felett, ahol hagyományos csónakok ringatóznak a vízen, tökéletes fotózási lehetőséget kínálva a déli sétányról.",
+            "ro": "Priviți cum apusul colorează cerul deasupra portului plin de viață, unde bărcile tradiționale caique se leagănă ușor, oferind o oportunitate foto perfectă de pe promenada sudică.",
+            "en": "Watch the sunset paint the sky over the bustling harbor where traditional caique boats gently bob in the water, offering a perfect photo opportunity from the southern promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Archäologischen Museum und tauchen Sie ein in die antike Vergangenheit von Kalymnos. Danach spazieren Sie zum eleganten Herrenhaus Neoklassiko, um das Leben der Schwammhändler zu bewundern.\nNach dem Mittagessen besuchen Sie das Schifffahrts- und Folkloremuseum, um mehr über die tapferen Schwammtaucher zu erfahren. Flanieren Sie danach entlang der Küste von Kasonia.\nGönnen Sie sich am späten Nachmittag eine erholsame Pause am Paralia Gefyra, einem kleinen Kieselstrand mit kristallklarem Wasser, der sich ideal zur Abkühlung eignet.\nBeenden Sie Ihre Tour an der Bucht von Kalymnos, wo Sie beobachten können, wie sich die Farben des Sonnenuntergangs über dem malerischen Hafen spiegeln.",
+        "hu": "Kezdje a reggelt a Régészeti Múzeumban, elmerülve Kalümnosz ókori múltjában. Ezután sétáljon el az elegáns Neoklassiko kúriához, hogy bepillantást nyerjen a 19. századi szivacskereskedők fényűző életébe.\nEbéd után a Tengerészeti és Folklórmúzeumban ismerkedjen meg a bátor szivacsbúvárokkal. Sétáljon végig a Kasonia partszakaszon, és élvezze a helyi tengerparti hangulatot.\nKéső délután tartson egy pihentető szünetet a Paralia Gefyra kavicsos strandján, amelynek kristálytiszta vize tökéletes a felfrissülésre.\nZárja a gyalogos túrát a Kalümnosz-öbölnél, figyelve, ahogy a naplemente színei visszatükröződnek a festői kikötő és a hagyományos hajók felett.",
+        "ro": "Începeți dimineața la Muzeul Arheologic, scufundându-vă în trecutul antic. Apoi, plimbați-vă până la elegantul conac Neoklassiko pentru a arunca o privire asupra stilului de viață luxos al comercianților din secolul al XIX-lea.\nDupă prânz, continuați la Muzeul Maritim și de Folclor pentru a afla despre curajoșii scafandri. Plimbați-vă de-a lungul coastei Kasonia pentru a vă bucura de atmosfera vibrantă de pe litoral.\nÎn ultima parte a după-amiezii, faceți o pauză relaxantă la Paralia Gefyra, o plajă cu pietricele cu ape cristaline, perfectă pentru a vă răcori sub soare.\nÎncheiați turul la Golful Kalymnos, privind culorile apusului reflectându-se peste portul pitoresc plin de bărci tradiționale.",
+        "en": "Start your morning at the Archaeological Museum, diving deep into Kalymnos’ ancient past. Then, walk to the elegant Neoklassiko mansion to get a glimpse of the 19th-century sponge merchants' luxurious lifestyle.\nAfter lunch, continue to the Maritime and Folklore Museum to learn about the brave sponge divers. Stroll along Kasonia to enjoy the local seaside atmosphere and vibrant streetscapes.\nIn the late afternoon, take a relaxing break at Paralia Gefyra, a pebbly beach with crystal-clear waters perfect for cooling off.\nConclude your walking tour at Kalymnos Bay, watching the sunset colors reflect over the picturesque harbor and traditional boats."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Chrysocheria",
+            "hu": "Chrysocheria Vár",
+            "ro": "Castelul Chrysocheria",
+            "en": "Chrysocheria Castle"
+          },
+          "coords": [
+            26.969986,
+            36.954774
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Klettern Sie zu den Ruinen der von den Johannitern erbauten Burg der Goldenen Hand hinauf, um den Panoramablick zu genießen, aber tragen Sie festes Schuhwerk, da der Weg steil und uneben sein kann.",
+            "hu": "Másszon fel az Aranymarkú lovagvár romjaihoz, amelyet a Szent János-lovagok építettek, hogy élvezze a panorámát, de viseljen masszív cipőt, mivel az ösvény meredek és egyenetlen.",
+            "ro": "Urcați la ruinele acestui castel medieval Mâna de Aur construit de Cavalerii Sfântului Ioan pentru a vă bucura de vederi panoramice, dar purtați încălțăminte robustă deoarece poteca este abruptă.",
+            "en": "Climb up to the ruins of this medieval Castle of the Golden Hand built by the Knights of St. John to enjoy panoramic views, but wear sturdy shoes as the path can be steep and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Chora von Kalymnos",
+            "hu": "Kalümnoszi Chora Vára",
+            "ro": "Castelul din Chora de Kalymnos",
+            "en": "Castle of Chora of Kalymnos"
+          },
+          "coords": [
+            26.961007,
+            36.967801
+          ],
+          "category": "castle",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Überreste der alten Hauptstadt, die sich innerhalb dieser byzantinischen Mauern verbergen, und nehmen Sie ausreichend Wasser mit, da es oben keinen Schatten gibt.",
+            "hu": "Barangoljon a régi főváros kiterjedt maradványai között a lenyűgöző bizánci falakon belül, és vigyen magával bőségesen vizet, mivel a hegytetőn nincsenek szolgáltatások vagy árnyék.",
+            "ro": "Plimbați-vă prin rămășițele extinse ale vechii capitale ascunse între aceste ziduri bizantine impresionante, luând multă apă cu dumneavoastră deoarece nu există facilități sau umbră sus.",
+            "en": "Wander through the extensive remnants of the old capital hidden within these impressive Byzantine walls, taking plenty of water since there are no facilities or shade at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Moni Analipsi",
+            "hu": "Moni Analipsi Kolostor",
+            "ro": "Mănăstirea Moni Analipsi",
+            "en": "Moni Analipsi"
+          },
+          "coords": [
+            26.964625,
+            36.959439
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieses wunderschönen Klosters auf dem Hügel, das die raue Landschaft überblickt, und achten Sie darauf, Schultern und Knie aus Respekt vor den religiösen Regeln zu bedecken.",
+            "hu": "Tapasztalja meg a nyugodt atmoszférát ebben a gyönyörű hegytetői kolostorban, amely a sziget zord tájára néz, és ügyeljen a vállak és térdek takarására, tiszteletben tartva a vallási öltözködési szabályokat.",
+            "ro": "Experimentați atmosfera senină a acestei frumoase mănăstiri pe deal cu vedere la peisajul accidentat al insulei, asigurându-vă că umerii și genunchii sunt acoperiți pentru a respecta codul vestimentar religios.",
+            "en": "Experience the serene atmosphere of this beautiful hilltop monastery that overlooks the island's rugged landscape, making sure your shoulders and knees are covered to respect the local religious dress code."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Kalymnos",
+            "hu": "Kalümnoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Kalymnos",
+            "en": "Archaeological Museum of Kalymnos"
+          },
+          "coords": [
+            26.983697,
+            36.954451
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Insel anhand antiker Artefakte, darunter die beeindruckende bronzene Dame von Kalymnos, und kommen Sie am besten früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel a sziget gazdag történelmét az ősi leleteken keresztül, köztük a lenyűgöző bronz Kalümnosz Hölgye szoborral, és érkezzen korán, hogy elkerülje a legnagyobb meleget.",
+            "ro": "Descoperiți istoria bogată a insulei prin artefacte antice, inclusiv impresionanta Doamnă de bronz din Kalymnos, și încercați să vizitați devreme pentru a evita cele mai fierbinți părți ale zilei.",
+            "en": "Discover the island's rich history through ancient artifacts, including the impressive bronze Lady of Kalymnos, and try to visit early to avoid the hottest parts of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrts- und Folkloremuseum",
+            "hu": "Tengerészeti és Folklórmúzeum",
+            "ro": "Muzeul Maritim și de Folclor",
+            "en": "Maritime and Folklore Museum"
+          },
+          "coords": [
+            26.984275,
+            36.949831
+          ],
+          "category": "museum",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Schwammtaucher-Tradition und die lokale Folklore von Kalymnos anhand traditioneller Kostüme und Taucheranzüge, und werfen Sie einen Blick auf die historischen Fotografien im Obergeschoss.",
+            "hu": "Ismerje meg Kalümnosz híres szivacsbúvár örökségét és helyi folklórját a hagyományos jelmezeken és búvárruhákon keresztül, az emeleten pedig feltétlenül nézze meg az egyedi történelmi fényképeket.",
+            "ro": "Explorați faimoasa moștenire a scufundărilor după bureți din Kalymnos și folclorul local prin costume tradiționale și costume de scafandru, și urcați la etaj pentru a vedea fotografii istorice unice.",
+            "en": "Explore Kalymnos' famous sponge-diving heritage and local folklore through traditional costumes and diving suits, and check the upper floor for unique historical photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Therma Strand",
+            "hu": "Therma Strand",
+            "ro": "Plaja Therma",
+            "en": "Therma Beach"
+          },
+          "coords": [
+            26.987174,
+            36.938462
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im warmen, angeblich therapeutischen Wasser an diesem felsigen Küstenabschnitt, an dem die Einheimischen seit Generationen baden, und bringen Sie Schnorchelausrüstung für die Meeresbewohner mit.",
+            "hu": "Ússzon a meleg, állítólag terápiás hatású vizekben ezen a sziklás tengerparti részen, ahol a helyiek generációk óta fürdenek, és fontolja meg a búvárfelszerelés magával hozatalát a tengeri élővilág megfigyeléséhez.",
+            "ro": "Înotați în apele calde, presupuse a fi terapeutice, la acest punct de coastă stâncos unde localnicii se scaldă de generații, și luați echipament de snorkeling pentru a observa viața marină ascunsă printre pietre.",
+            "en": "Swim in the warm, supposedly therapeutic waters at this rocky coastal spot where locals have bathed for generations, and consider bringing snorkeling gear to observe the marine life hidden among the stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit dem Aufstieg zur Burg Chrysocheria und genießen Sie die morgendliche Aussicht. Fahren Sie weiter zur großen Burg von Chora, um die mittelalterliche Verteidigungsgeschichte zu erkunden.\nMittags besuchen Sie das friedliche Kloster Moni Analipsi in den rauen Hügeln, bevor Sie hinab zum Archäologischen Museum fahren.\nRadeln Sie später zum Schifffahrts- und Folkloremuseum, um in das legendäre Erbe der lokalen Schwammtaucher einzutauchen, das die Insel geprägt hat.\nBeenden Sie Ihren aktiven Tag mit einer Fahrt zum Therma Beach, wo Sie Ihre Muskeln bei Sonnenuntergang im therapeutischen Wasser entspannen können.",
+        "hu": "Kezdje a kerékpározást a Chrysocheria vár meghódításával, és élvezze a fenséges reggeli kilátást. Tekerjen át a kiterjedt Chora várához, hogy tovább kutassa a sziget középkori védelmi történetét.\nA délidő a zord dombok között megbújó Moni Analipsi kolostor békés meglátogatását hozza, mielőtt legurulna a Régészeti Múzeumhoz egy kulturális utazásra.\nKésőbb tekerjen a Tengerészeti és Folklórmúzeumhoz, hogy elmerüljön a Kalümnoszt formáló legendás szivacsbúvár örökségben.\nZárja az aktív napot a Therma strandnál, ahol naplementekor az állítólagos terápiás, meleg vizekben nyugtathatja meg fáradt izmait.",
+        "ro": "Începeți ziua de ciclism cu o urcare la Castelul Chrysocheria, bucurându-vă de vederi matinale. Mergeți la extinsul Castel din Chora pentru a explora în continuare istoria medievală a insulei.\nLa prânz vizitați senina mănăstire Moni Analipsi, cuibărită printre dealurile stâncoase, înainte de a coborî spre Muzeul Arheologic pentru perspective culturale.\nMai târziu, pedalați către Muzeul Maritim și de Folclor pentru a aprofunda legendara moștenire a scufundărilor după bureți.\nTerminați-vă ziua activă la Plaja Therma, unde vă puteți relaxa mușchii în apele calde, presupuse a fi terapeutice, în lumina blândă a apusului.",
+        "en": "Kick off your cycling day with a climb to Chrysocheria Castle, enjoying majestic morning views. Ride over to the extensive Castle of Chora to further explore the island's medieval defense history.\nMidday brings a serene visit to Moni Analipsi, nestled in the rugged hills, before you ride downhill to the Archaeological Museum for cultural insights.\nLater, pedal to the Maritime and Folklore Museum to delve into the legendary local sponge diving heritage that shaped Kalymnos.\nFinish your active day by riding out to Therma Beach, where you can soothe your muscles in the supposedly therapeutic warm waters at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Chora von Kalymnos",
+            "hu": "Kalümnoszi Chora Vára",
+            "ro": "Castelul din Chora de Kalymnos",
+            "en": "Castle of Chora of Kalymnos"
+          },
+          "coords": [
+            26.961007,
+            36.967801
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Überreste der alten Hauptstadt, die sich innerhalb dieser byzantinischen Mauern verbergen, und nehmen Sie ausreichend Wasser mit, da es oben keinen Schatten gibt.",
+            "hu": "Barangoljon a régi főváros kiterjedt maradványai között a lenyűgöző bizánci falakon belül, és vigyen magával bőségesen vizet, mivel a hegytetőn nincsenek szolgáltatások vagy árnyék.",
+            "ro": "Plimbați-vă prin rămășițele extinse ale vechii capitale ascunse între aceste ziduri bizantine impresionante, luând multă apă cu dumneavoastră deoarece nu există facilități sau umbră sus.",
+            "en": "Wander through the extensive remnants of the old capital hidden within these impressive Byzantine walls, taking plenty of water since there are no facilities or shade at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Chrysocheria",
+            "hu": "Chrysocheria Vár",
+            "ro": "Castelul Chrysocheria",
+            "en": "Chrysocheria Castle"
+          },
+          "coords": [
+            26.969986,
+            36.954774
+          ],
+          "category": "castle",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Klettern Sie zu den Ruinen der von den Johannitern erbauten Burg der Goldenen Hand hinauf, um den Panoramablick zu genießen, aber tragen Sie festes Schuhwerk, da der Weg steil und uneben sein kann.",
+            "hu": "Másszon fel az Aranymarkú lovagvár romjaihoz, amelyet a Szent János-lovagok építettek, hogy élvezze a panorámát, de viseljen masszív cipőt, mivel az ösvény meredek és egyenetlen.",
+            "ro": "Urcați la ruinele acestui castel medieval Mâna de Aur construit de Cavalerii Sfântului Ioan pentru a vă bucura de vederi panoramice, dar purtați încălțăminte robustă deoarece poteca este abruptă.",
+            "en": "Climb up to the ruins of this medieval Castle of the Golden Hand built by the Knights of St. John to enjoy panoramic views, but wear sturdy shoes as the path can be steep and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Kalymnos",
+            "hu": "Kalümnoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Kalymnos",
+            "en": "Archaeological Museum of Kalymnos"
+          },
+          "coords": [
+            26.983697,
+            36.954451
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Insel anhand antiker Artefakte, darunter die beeindruckende bronzene Dame von Kalymnos, und kommen Sie am besten früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel a sziget gazdag történelmét az ősi leleteken keresztül, köztük a lenyűgöző bronz Kalümnosz Hölgye szoborral, és érkezzen korán, hogy elkerülje a legnagyobb meleget.",
+            "ro": "Descoperiți istoria bogată a insulei prin artefacte antice, inclusiv impresionanta Doamnă de bronz din Kalymnos, și încercați să vizitați devreme pentru a evita cele mai fierbinți părți ale zilei.",
+            "en": "Discover the island's rich history through ancient artifacts, including the impressive bronze Lady of Kalymnos, and try to visit early to avoid the hottest parts of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrts- und Folkloremuseum",
+            "hu": "Tengerészeti és Folklórmúzeum",
+            "ro": "Muzeul Maritim și de Folclor",
+            "en": "Maritime and Folklore Museum"
+          },
+          "coords": [
+            26.984275,
+            36.949831
+          ],
+          "category": "museum",
+          "arrive_at": "13:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Schwammtaucher-Tradition und die lokale Folklore von Kalymnos anhand traditioneller Kostüme und Taucheranzüge, und werfen Sie einen Blick auf die historischen Fotografien im Obergeschoss.",
+            "hu": "Ismerje meg Kalümnosz híres szivacsbúvár örökségét és helyi folklórját a hagyományos jelmezeken és búvárruhákon keresztül, az emeleten pedig feltétlenül nézze meg az egyedi történelmi fényképeket.",
+            "ro": "Explorați faimoasa moștenire a scufundărilor după bureți din Kalymnos și folclorul local prin costume tradiționale și costume de scafandru, și urcați la etaj pentru a vedea fotografii istorice unice.",
+            "en": "Explore Kalymnos' famous sponge-diving heritage and local folklore through traditional costumes and diving suits, and check the upper floor for unique historical photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Sea World",
+            "hu": "Tengeri Világ Múzeum",
+            "ro": "Sea World",
+            "en": "Sea World"
+          },
+          "coords": [
+            26.964775,
+            36.932263
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende private Sammlung von Meereslebewesen, Muscheln und nautischen Artefakten, und fragen Sie den leidenschaftlichen Besitzer unbedingt nach seinen persönlichen Tauchabenteuern.",
+            "hu": "Fedezzen fel egy lenyűgöző magángyűjteményt tengeri élőlényekből, kagylókból és tengerészeti leletekből, és feltétlenül kérdezze meg a szenvedélyes tulajdonost a saját búvárkalandjairól.",
+            "ro": "Descoperiți o fascinantă colecție privată de viață marină, scoici și artefacte nautice, asigurându-vă că îl întrebați pe proprietarul pasionat despre aventurile sale personale de scufundări.",
+            "en": "Discover a fascinating private collection of marine life, seashells, and nautical artifacts curated by local sponge divers, making sure to ask the passionate owner about his personal diving adventures."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Petros",
+            "hu": "Agios Petros Templom",
+            "ro": "Biserica Agios Petros",
+            "en": "Agios Petros"
+          },
+          "coords": [
+            26.983331,
+            36.94375
+          ],
+          "category": "religious",
+          "arrive_at": "17:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur der Dodekanes in dieser markanten weißen Kirche vor einer dramatischen Felskulisse, und nutzen Sie das späte Nachmittagslicht für die besten Fotos.",
+            "hu": "Csodálja meg ennek a lenyűgöző fehér templomnak a hagyományos dodekanészoszi építészetét a drámai sziklás háttér előtt, és a legjobb fotók készítéséhez használja ki a késő délutáni fényeket.",
+            "ro": "Admirați arhitectura tradițională din Dodecanez a acestei biserici albe uimitoare, situată pe un fundal stâncos dramatic, capturând cea mai bună lumină pentru fotografie în timpul după-amiezii târzii.",
+            "en": "Marvel at the traditional Dodecanese architecture of this striking white church set against the dramatic rocky backdrop, capturing the best light for photography during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zur Burg von Chora, um die weiten Ruinen der alten Hauptstadt zu erkunden. Danach machen Sie eine kurze, malerische Fahrt zur nahen Burg Chrysocheria für unglaubliche Buchtblicke.\nFahren Sie mittags in die Stadt, um die beeindruckenden Artefakte im Archäologischen Museum zu bestaunen. Entdecken Sie danach die Tauchvergangenheit im Schifffahrtsmuseum.\nFahren Sie am Nachmittag nach Süden in Richtung Vlychadia, um die faszinierende Sea World zu besuchen, ein privates Museum voller mariner Schätze.\nBeenden Sie den Roadtrip an der wunderschönen weißen Kirche Agios Petros und genießen Sie die friedliche Küstenatmosphäre in der Abenddämmerung.",
+        "hu": "Autózzon korán a Chora várához, és fedezze fel a régi főváros kiterjedt romjait a nagy hőség előtt. Ezután egy rövid, festői út következik a közeli Chrysocheria várhoz a lenyűgöző öböli kilátásért.\nDél körül menjen a városba, hogy megtekintse a Régészeti Múzeum leleteit. Ezután fedezze fel a sziget egyedülálló búvármúltját a Tengerészeti és Folklórmúzeumban.\nDélután vezessen délre, Vlychadia felé, hogy meglátogassa a Sea World magánmúzeumot, amely tele van rendkívüli tengeri kincsekkel és felszerelésekkel.\nZárja a napot az Agios Petros gyönyörű fehér templománál, elmerülve a békés tengerparti hangulatban, ahogy közeledik az este.",
+        "ro": "Conduceți devreme la Castelul din Chora, explorând ruinele vechii capitale. Urmați cu o scurtă călătorie pitorească spre Castelul Chrysocheria din apropiere pentru vederi incredibile asupra golfului.\nMergeți în oraș la prânz pentru a explora artefactele impresionante de la Muzeul Arheologic. Apoi, descoperiți trecutul scufundărilor la Muzeul Maritim și de Folclor.\nDupă-amiaza, conduceți spre sud spre Vlychadia pentru a vizita Sea World, un fascinant muzeu privat plin de comori marine extraordinare și echipamente.\nÎncheiați călătoria zilei la frumoasa biserică albă Agios Petros, bucurându-vă de atmosfera senină de coastă pe măsură ce se apropie seara.",
+        "en": "Drive early to the Castle of Chora, exploring the vast ruins of the old capital before it gets too hot. Follow this up with a short scenic drive to the nearby Chrysocheria Castle for incredible bay views.\nHead into town around midday to explore the impressive artifacts at the Archaeological Museum. Then, uncover the island's unique diving past at the Maritime and Folklore Museum.\nIn the afternoon, drive south to Vlychadia to visit Sea World, a fascinating private museum full of extraordinary marine treasures and diving gear.\nEnd the day's road trip at the beautiful white church of Agios Petros, soaking in the serene coastal atmosphere as evening approaches."
+      }
+    }
+  }
+}

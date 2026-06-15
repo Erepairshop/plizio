@@ -1,0 +1,474 @@
+{
+  "city_id": "france-saint-lary-soulan-cities-v2",
+  "anchor": {
+    "name": "Saint-Lary-Soulan",
+    "coords": [
+      0.322778,
+      42.815833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 0.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison de l'Ours",
+            "hu": "Maison de l'Ours",
+            "ro": "Maison de l'Ours",
+            "en": "Maison de l'Ours"
+          },
+          "coords": [
+            0.318523,
+            42.814902
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Pyrenäen-Braunbären in diesem interaktiven Zentrum, kommen Sie früh, um den größten Andrang zu vermeiden.",
+            "hu": "Fedezze fel a pireneusi barnamedvék világát ebben az interaktív központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget a főszezonban.",
+            "ro": "Descoperiți lumea urșilor bruni din Pirinei în acest centru interactiv și veniți devreme pentru a evita aglomerația în sezonul de vârf turistic.",
+            "en": "Discover the fascinating world of Pyrenean brown bears in this interactive center, and arrive early to avoid the largest crowds during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrousel",
+            "hu": "Carrousel",
+            "ro": "Carrousel",
+            "en": "Carrousel"
+          },
+          "coords": [
+            0.320528,
+            42.816013
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Vintage-Details dieses klassischen Karussells im Zentrum, ideal für ein schnelles Foto, während Sie sich nebenan Gebäck holen.",
+            "hu": "Csodálja meg a klasszikus körhinta vintage részleteit a falu központjában, amely tökéletes egy gyors fotóhoz, miközben péksüteményt is vásárol.",
+            "ro": "Admirați detaliile vintage ale acestui carusel clasic din centrul satului, perfect pentru o fotografie rapidă în timp ce cumpărați patiserie locală.",
+            "en": "Admire the beautiful vintage details of this classic carousel in the village center, perfect for a quick photo op while picking up nearby pastries."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+          },
+          "coords": [
+            0.322075,
+            42.816564
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Kulturgeschichte des Aure-Tals ein und denken Sie daran, das Personal nach den übersetzten Informationsbroschüren zu fragen.",
+            "hu": "Merüljön el az Aure-völgy gazdag kulturális történelmében, és ne felejtsen el a személyzettől fordításokat tartalmazó információs füzetet kérni.",
+            "ro": "Explorați bogata istorie culturală a Văii Aure în acest muzeu și nu uitați să cereți personalului broșurile cu traduceri pentru a înțelege mai bine.",
+            "en": "Delve into the rich cultural history and traditions of the Aure Valley here, and remember to ask the friendly staff for the english translation booklets."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Debat",
+            "hu": "Moulin Debat",
+            "ro": "Moulin Debat",
+            "en": "Moulin Debat"
+          },
+          "coords": [
+            0.323057,
+            42.818156
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Architektur dieser traditionellen Wassermühle, ein großartiger Ort, um den lokalen Einfallsreichtum am Flusslauf zu schätzen.",
+            "hu": "Csodálja meg a hagyományos vízimalom építészetét, amely remek hely a helyi találékonyság megismerésére, mielőtt beljebb indulna a központba.",
+            "ro": "Admirați arhitectura acestei mori de apă tradiționale, un loc excelent pentru a aprecia ingeniozitatea locală înainte de a continua plimbarea.",
+            "en": "Marvel at the preserved architecture of this traditional water mill, a great spot to appreciate local ingenuity before heading further into town."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Marie",
+            "hu": "Chapelle Sainte-Marie",
+            "ro": "Chapelle Sainte-Marie",
+            "en": "Chapelle Sainte-Marie"
+          },
+          "coords": [
+            0.323097,
+            42.819713
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kapelle, um die charmanten Artefakte zu sehen, die einen kühlen Rückzugsort vor den belebten Dorfstraßen draußen bieten.",
+            "hu": "Lépjen be ebbe a nyugodt kápolnába, hogy megtekintse vallási tárgyait, amely hűvös és csendes menedéket kínál a nyüzsgő falusi utcák zajától.",
+            "ro": "Pășiți în această capelă liniștită pentru a vedea artefactele sale, oferind un refugiu răcoros și calm de străzile aglomerate ale satului montan.",
+            "en": "Step inside this tranquil chapel to view its charming religious artifacts, offering a cool and quiet retreat from the bustling village streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Sensoria rio",
+            "hu": "Sensoria rio",
+            "ro": "Sensoria rio",
+            "en": "Sensoria rio"
+          },
+          "coords": [
+            0.321135,
+            42.81967
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Thermalwasser dieses Canyoning-Spa-Komplexes, aber buchen Sie Ihre Sitzung unbedingt rechtzeitig und bequem im Voraus online.",
+            "hu": "Pihenjen a kanyon témájú wellness komplexum természetes termálvizében, de a belépőt érdemes jó előre online lefoglalni a kellemes kikapcsolódáshoz.",
+            "ro": "Relaxați-vă în apele termale din acest complex spa tematic, dar asigurați-vă că rezervați sesiunea din timp online pentru o zi fără griji.",
+            "en": "Unwind in the natural thermal waters of this canyon-themed spa complex, but make sure to book your relaxation session well in advance online."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Tierwelt im Maison de l'Ours. Am Mittag locken das Karussell und das Museum mit lokalem Erbe. Der Nachmittag bietet historische Mühlen und Kapellen. Beenden Sie den Tag entspannt im Thermalbad Sensoria rio.",
+        "hu": "Kezdje a reggelt a Maison de l'Ours vadvilágának felfedezésével. Délben a helyi örökség, a körhinta és a múzeum várja. Délután történelmi malmokat és kápolnákat láthat. Zárja a napot a Sensoria rio termálvizeiben pihenve.",
+        "ro": "Începeți dimineața explorând fauna la Maison de l'Ours. La prânz, descoperiți patrimoniul local la Carusel și Muzeu. După-amiaza vă aduce mori istorice și capele pitorești. Încheiați ziua relaxându-vă în apele termale de la Sensoria rio.",
+        "en": "Start your morning exploring the wildlife at Maison de l'Ours. Midday brings charming local heritage at the Carrousel and Museum. Afternoon features historical mills and quaint chapels. End your day relaxing in the thermal waters of Sensoria rio."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Blaise",
+            "hu": "Église Saint-Blaise",
+            "ro": "Église Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            0.313624,
+            42.813467
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Architektur dieser Bergkirche und überprüfen Sie das lokale Brett auf unerwartete und charmante Gemeindechor-Aufführungen.",
+            "hu": "Figyelje meg ennek a hegyi templomnak az építészeti vonásait, és ellenőrizze a hirdetőtáblát a váratlan helyi kóruselőadások időpontjaiért.",
+            "ro": "Observați trăsăturile arhitecturale ale acestei biserici de munte și verificați panoul local pentru spectacole neașteptate ale corului comunitar.",
+            "en": "Observe the striking architectural features of this quaint mountain church, and check the local board for unexpected community choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Ours",
+            "hu": "Maison de l'Ours",
+            "ro": "Maison de l'Ours",
+            "en": "Maison de l'Ours"
+          },
+          "coords": [
+            0.318523,
+            42.814902
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Pyrenäen-Braunbären in diesem interaktiven Zentrum, kommen Sie früh, um den größten Andrang zu vermeiden.",
+            "hu": "Fedezze fel a pireneusi barnamedvék világát ebben az interaktív központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget a főszezonban.",
+            "ro": "Descoperiți lumea urșilor bruni din Pirinei în acest centru interactiv și veniți devreme pentru a evita aglomerația în sezonul de vârf turistic.",
+            "en": "Discover the fascinating world of Pyrenean brown bears in this interactive center, and arrive early to avoid the largest crowds during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+          },
+          "coords": [
+            0.322075,
+            42.816564
+          ],
+          "category": "museum",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Kulturgeschichte des Aure-Tals ein und denken Sie daran, das Personal nach den übersetzten Informationsbroschüren zu fragen.",
+            "hu": "Merüljön el az Aure-völgy gazdag kulturális történelmében, és ne felejtsen el a személyzettől fordításokat tartalmazó információs füzetet kérni.",
+            "ro": "Explorați bogata istorie culturală a Văii Aure în acest muzeu și nu uitați să cereți personalului broșurile cu traduceri pentru a înțelege mai bine.",
+            "en": "Delve into the rich cultural history and traditions of the Aure Valley here, and remember to ask the friendly staff for the english translation booklets."
+          }
+        },
+        {
+          "name": {
+            "de": "Le moulin de la Mousquère",
+            "hu": "Le moulin de la Mousquère",
+            "ro": "Le moulin de la Mousquère",
+            "en": "Le moulin de la Mousquère"
+          },
+          "coords": [
+            0.340269,
+            42.818259
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Mühle, um die traditionelle Getreideverarbeitung zu verstehen, und tragen Sie bequeme Schuhe für unebenes Gelände.",
+            "hu": "Fedezze fel a történelmi malmot a hagyományos gabonafeldolgozás megértéséhez, és viseljen kényelmes cipőt az egyenetlen talaj miatt a környéken.",
+            "ro": "Explorați această moară istorică pentru a înțelege prelucrarea cerealelor și purtați încălțăminte confortabilă, deoarece terenul din jur este denivelat.",
+            "en": "Explore this well-preserved historic mill to understand traditional grain processing, and wear comfortable shoes as the ground around it is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            0.333822,
+            42.820461
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kirche, die für ihre Altardetails bekannt ist, und genießen Sie die friedliche Aussicht auf die Berge direkt vom Innenhof.",
+            "hu": "Látogasson el a gyönyörű oltárrészleteiről ismert templomba, és élvezze a békés és festői hegyi kilátást közvetlenül a templom külső udvarából.",
+            "ro": "Vizitați această biserică cunoscută pentru detaliile altarului său și bucurați-vă de priveliștile montane liniștite chiar din curtea sa exterioară.",
+            "en": "Visit this serene church known for its beautifully crafted altar details, and enjoy the peaceful scenic mountain views right from its outer courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Sensoria rio",
+            "hu": "Sensoria rio",
+            "ro": "Sensoria rio",
+            "en": "Sensoria rio"
+          },
+          "coords": [
+            0.321135,
+            42.81967
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Thermalwasser dieses Canyoning-Spa-Komplexes, aber buchen Sie Ihre Sitzung unbedingt rechtzeitig und bequem im Voraus online.",
+            "hu": "Pihenjen a kanyon témájú wellness komplexum természetes termálvizében, de a belépőt érdemes jó előre online lefoglalni a kellemes kikapcsolódáshoz.",
+            "ro": "Relaxați-vă în apele termale din acest complex spa tematic, dar asigurați-vă că rezervați sesiunea din timp online pentru o zi fără griji.",
+            "en": "Unwind in the natural thermal waters of this canyon-themed spa complex, but make sure to book your relaxation session well in advance online."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zur Église Saint-Blaise für einen aktiven Start in den Tag. Mittags besuchen Sie das Museum und die Bärenausstellung. Nachmittags fahren Sie zu historischen Mühlen. Beenden Sie den Ausflug im wohltuenden Spa Sensoria rio.",
+        "hu": "Kerékpározzon az Église Saint-Blaise templomhoz egy aktív reggelért. Délben a városközpont múzeumait és medvekiállítását nézheti meg. Délután tekerjen keletre a malmokhoz. Fejezze be a napot a Sensoria fürdő nyugtató medencéiben.",
+        "ro": "Pedalați până la Église Saint-Blaise pentru o dimineață activă. La prânz, vizitați muzeele și expoziția de urși din centru. După-amiaza, mergeți spre est la morile istorice. Finalizați traseul cu o experiență relaxantă la spa-ul Sensoria.",
+        "en": "Cycle out to Église Saint-Blaise to start your active morning. Midday takes you through the town center's museums and bear exhibits. In the afternoon, ride east to historic mills and churches. Finish with a soothing spa experience at Sensoria."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle du Pla",
+            "hu": "Chapelle du Pla",
+            "ro": "Chapelle du Pla",
+            "en": "Chapelle du Pla"
+          },
+          "coords": [
+            0.296911,
+            42.812794
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das rustikale Mauerwerk dieser Bergkapelle und bringen Sie eine Windjacke mit, da das offene Tal oft ziemlich windig sein kann.",
+            "hu": "Csodálja meg a hegyi kápolna rusztikus kőművesmunkáját, és hozzon magával egy széldzsekit, mivel a nyitott völgy gyakran eléggé szeles lehet.",
+            "ro": "Admirați zidăria rustică a acestei capele de munte și aduceți o jachetă, deoarece valea deschisă este adesea destul de bătută de vânturi reci.",
+            "en": "Admire the rustic stone masonry of this solitary mountain chapel, and bring a windbreaker as the open valley setting often gets quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Ours",
+            "hu": "Maison de l'Ours",
+            "ro": "Maison de l'Ours",
+            "en": "Maison de l'Ours"
+          },
+          "coords": [
+            0.318523,
+            42.814902
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Pyrenäen-Braunbären in diesem interaktiven Zentrum, kommen Sie früh, um den größten Andrang zu vermeiden.",
+            "hu": "Fedezze fel a pireneusi barnamedvék világát ebben az interaktív központban, és érkezzen korán, hogy elkerülje a legnagyobb tömeget a főszezonban.",
+            "ro": "Descoperiți lumea urșilor bruni din Pirinei în acest centru interactiv și veniți devreme pentru a evita aglomerația în sezonul de vârf turistic.",
+            "en": "Discover the fascinating world of Pyrenean brown bears in this interactive center, and arrive early to avoid the largest crowds during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+            "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+          },
+          "coords": [
+            0.322075,
+            42.816564
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Kulturgeschichte des Aure-Tals ein und denken Sie daran, das Personal nach den übersetzten Informationsbroschüren zu fragen.",
+            "hu": "Merüljön el az Aure-völgy gazdag kulturális történelmében, és ne felejtsen el a személyzettől fordításokat tartalmazó információs füzetet kérni.",
+            "ro": "Explorați bogata istorie culturală a Văii Aure în acest muzeu și nu uitați să cereți personalului broșurile cu traduceri pentru a înțelege mai bine.",
+            "en": "Delve into the rich cultural history and traditions of the Aure Valley here, and remember to ask the friendly staff for the english translation booklets."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Invention de Saint-Etiènne d'Ens",
+            "hu": "Église de l'Invention de Saint-Etiènne d'Ens",
+            "ro": "Église de l'Invention de Saint-Etiènne d'Ens",
+            "en": "Église de l'Invention de Saint-Etiènne d'Ens"
+          },
+          "coords": [
+            0.341634,
+            42.806824
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die historische Bedeutung dieser romanischen Kirche und halten Sie Ihre Stimme respektvoll leise, da sie eine aktive Gemeinde bleibt.",
+            "hu": "Tapasztalja meg az egyedülálló nevű román stílusú templom történelmi jelentőségét, és legyen csendes, mivel még mindig aktív plébániaként működik.",
+            "ro": "Admirați semnificația istorică a acestei biserici romanice unice și păstrați liniștea cu respect, deoarece rămâne o parohie activă pentru localnici.",
+            "en": "Take in the historical significance of this uniquely named Romanesque church, and respectfully keep your voice low as it remains an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Le moulin de la Mousquère",
+            "hu": "Le moulin de la Mousquère",
+            "ro": "Le moulin de la Mousquère",
+            "en": "Le moulin de la Mousquère"
+          },
+          "coords": [
+            0.340269,
+            42.818259
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Mühle, um die traditionelle Getreideverarbeitung zu verstehen, und tragen Sie bequeme Schuhe für unebenes Gelände.",
+            "hu": "Fedezze fel a történelmi malmot a hagyományos gabonafeldolgozás megértéséhez, és viseljen kényelmes cipőt az egyenetlen talaj miatt a környéken.",
+            "ro": "Explorați această moară istorică pentru a înțelege prelucrarea cerealelor și purtați încălțăminte confortabilă, deoarece terenul din jur este denivelat.",
+            "en": "Explore this well-preserved historic mill to understand traditional grain processing, and wear comfortable shoes as the ground around it is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "La Forêt Suspendue",
+            "hu": "La Forêt Suspendue",
+            "ro": "La Forêt Suspendue",
+            "en": "La Forêt Suspendue"
+          },
+          "coords": [
+            0.346244,
+            42.849589
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fordern Sie sich auf aufregenden Seilrutschen und Hochseilgärten heraus, aber lassen Sie Ihren Gurt immer von den professionellen Lehrern überprüfen.",
+            "hu": "Tedd próbára magad az erdei lombkoronában lévő drótkötélpályákon, de mindig győződj meg róla, hogy az oktatók kétszer is ellenőrizték a hevedered.",
+            "ro": "Provocați-vă pe tiroliene și trasee cu frânghii în pădure, dar asigurați-vă întotdeauna că hamul vă este verificat de instructori cu atenție.",
+            "en": "Challenge yourself on thrilling zip lines and rope courses in the forest canopy, but always ensure your harness is double-checked by the instructors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Chapelle du Pla für einen ruhigen Start. Mittags geht es in die Stadt zu interaktiven Ausstellungen. Verbringen Sie den Nachmittag mit der Erkundung von Talkirchen und Mühlen. Enden Sie mit Abenteuern in der Forêt Suspendue.",
+        "hu": "Vezessen a Chapelle du Pla-hoz a békés reggeli kezdésért. Délben irány a belváros az interaktív kiállításokért. Délután fedezze fel a völgy templomait és történelmi malmait. Zárja a napot a La Forêt Suspendue lombkorona-kalandjaival.",
+        "ro": "Conduceți la Chapelle du Pla pentru un început liniștit. Mergeți în oraș la prânz pentru expoziții și istorie locală. După-amiaza explorați bisericile și morile din vale. Încheiați cu aventuri în copaci la La Forêt Suspendue.",
+        "en": "Drive to Chapelle du Pla for a peaceful start to the day. Head into town midday for interactive exhibits and local history. Spend the afternoon exploring valley churches and mills. Conclude with tree-top adventures at La Forêt Suspendue."
+      }
+    }
+  }
+}

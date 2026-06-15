@@ -1,0 +1,474 @@
+{
+  "city_id": "kupang-cities-v2",
+  "anchor": {
+    "name": "Kupang",
+    "coords": [
+      123.583,
+      -10.166
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gereja Katedral Kristus Raja Kupang",
+            "hu": "Gereja Katedral Kristus Raja Kupang",
+            "ro": "Gereja Katedral Kristus Raja Kupang",
+            "en": "Gereja Katedral Kristus Raja Kupang"
+          },
+          "coords": [
+            123.581999,
+            -10.162585
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Hauptkathedrale, dem spirituellen Herzen von Kupang, und kleiden Sie sich für den Besuch am Morgen angemessen.",
+            "hu": "Csodálja meg a főszékesegyház lenyűgöző építészetét, Kupang spirituális központját, és ügyeljen a szerény öltözködésre a reggeli látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestei catedrale principale, inima spirituală a orașului Kupang, și asigurați-vă că purtați haine modeste la vizita de dimineață.",
+            "en": "Admire the striking architecture of this main cathedral, the spiritual heart of Kupang, and remember to dress modestly while visiting during morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Yoseph, Naikoten",
+            "hu": "Gereja Santo Yoseph, Naikoten",
+            "ro": "Gereja Santo Yoseph, Naikoten",
+            "en": "Gereja Santo Yoseph, Naikoten"
+          },
+          "coords": [
+            123.597337,
+            -10.173881
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser örtlichen Kirche, ideal für einen Moment der Besinnung, und beachten Sie das Schwarze Brett für Gemeindeerlebnisse.",
+            "hu": "Fedezze fel a helyi templom békés atmoszféráját, amely tökéletes egy kis csendes elmélkedéshez, és nézze meg a faliújságot a közösségi eseményekért.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici locale, perfectă pentru reflecție, și verificați avizierul parohial pentru evenimentele comunitare.",
+            "en": "Discover the serene atmosphere of this local church, perfect for a moment of quiet reflection, and check the parish bulletin board for community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santa Maria Assumpta, Kota Baru",
+            "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+            "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+            "en": "Gereja Santa Maria Assumpta, Kota Baru"
+          },
+          "coords": [
+            123.619725,
+            -10.160039
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschön gestaltete Kirche mit ihrer einladenden Gemeinde und nehmen Sie an einem Wochenendgottesdienst teil, um lokale Traditionen zu erleben.",
+            "hu": "Látogasson el ebbe a gyönyörűen tervezett templomba, amely vendégszerető gyülekezetéről ismert, és vegyen részt egy hétvégi istentiszteleten.",
+            "ro": "Vizitați această biserică frumos proiectată, cunoscută pentru congregația sa primitoare, și participați la o slujbă de weekend pentru a simți tradițiile locale.",
+            "en": "Visit this beautifully designed church known for its welcoming congregation, and consider attending a weekend service to experience local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Daerah Nusa Tenggara Timur",
+            "hu": "Museum Daerah Nusa Tenggara Timur",
+            "ro": "Museum Daerah Nusa Tenggara Timur",
+            "en": "Museum Daerah Nusa Tenggara Timur"
+          },
+          "coords": [
+            123.619574,
+            -10.158985
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe von Ost-Nusa Tenggara anhand faszinierender Artefakte und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel Kelet-Nusa Tenggara gazdag kulturális örökségét a lenyűgöző leleteken keresztül, és érkezzen korán, hogy elkerülje a legnagyobb hőséget.",
+            "ro": "Explorați bogatul patrimoniu cultural din Nusa Tenggara de Est prin artefacte fascinante și sosiți devreme pentru a evita căldura de la amiază.",
+            "en": "Explore the rich cultural heritage of East Nusa Tenggara through fascinating artifacts, and arrive early to avoid the hottest part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+            "hu": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+            "ro": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+            "en": "Gereja Santo Petrus Rasul, Tuak Daun Merah"
+          },
+          "coords": [
+            123.633079,
+            -10.165699
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses moderne Gotteshaus ein, das als Anker der Gemeinde dient, und machen Sie einen kurzen Spaziergang durch die friedlichen Gärten.",
+            "hu": "Lépjen be ebbe a modern imahelybe, amely a közösség támasza, és tegyen egy rövid sétát a békés külső kertekben távozás előtt.",
+            "ro": "Intrați în acest lăcaș de cult modern care servește drept ancoră comunitară și faceți o scurtă plimbare prin grădinile exterioare liniștite.",
+            "en": "Step into this modern place of worship that serves as a community anchor, and take a brief walk around the peaceful exterior gardens before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der beeindruckenden Hauptkathedrale und bietet einen friedlichen Start. Von dort schlendern wir ins Viertel Naikoten, um das lokale spirituelle Leben zu schätzen. Mittags erreichen wir die wunderschön gestaltete Assumpta-Kirche und das faszinierende Regionalmuseum zur lokalen Kultur. Der Nachmittag endet mit einem kurzen Spaziergang nach Tuak Daun Merah.",
+        "hu": "A reggel a lenyűgöző főszékesegyháznál kezdődik, amely békés indulást biztosít. Innen a Naikoten negyed felé sétálunk, hogy megismerjük a helyi spirituális életet. Délben elérjük a gyönyörűen tervezett Assumpta templomot és a lenyűgöző regionális múzeumot. A délután egy rövid sétával zárul Tuak Daun Merah felé egy kis csendes elmélkedésre.",
+        "ro": "Dimineața începe la impresionanta Catedrală principală, oferind un start liniștit al zilei. De acolo, ne plimbăm spre zona Naikoten pentru a aprecia viața spirituală locală. La amiază ajungem la biserica Assumpta, frumos proiectată, și la muzeul regional fascinant. După-amiaza se încheie cu o scurtă plimbare spre Tuak Daun Merah pentru reflecție.",
+        "en": "Morning begins at the impressive main Cathedral, offering a peaceful start to the day. From there, we stroll towards the Naikoten area to appreciate local spiritual life. Midday brings us to the beautifully designed Assumpta church and the fascinating regional museum to learn about local culture. The afternoon concludes with a short walk to Tuak Daun Merah for some quiet reflection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 12.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gereja Katedral Kristus Raja Kupang",
+            "hu": "Gereja Katedral Kristus Raja Kupang",
+            "ro": "Gereja Katedral Kristus Raja Kupang",
+            "en": "Gereja Katedral Kristus Raja Kupang"
+          },
+          "coords": [
+            123.581999,
+            -10.162585
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Hauptkathedrale, dem spirituellen Herzen von Kupang, und kleiden Sie sich für den Besuch am Morgen angemessen.",
+            "hu": "Csodálja meg a főszékesegyház lenyűgöző építészetét, Kupang spirituális központját, és ügyeljen a szerény öltözködésre a reggeli látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestei catedrale principale, inima spirituală a orașului Kupang, și asigurați-vă că purtați haine modeste la vizita de dimineață.",
+            "en": "Admire the striking architecture of this main cathedral, the spiritual heart of Kupang, and remember to dress modestly while visiting during morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Gregorius Agung, Oeleta",
+            "hu": "Gereja Santo Gregorius Agung, Oeleta",
+            "ro": "Gereja Santo Gregorius Agung, Oeleta",
+            "en": "Gereja Santo Gregorius Agung, Oeleta"
+          },
+          "coords": [
+            123.568549,
+            -10.188733
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige architektonische Mischung aus traditionellen und modernen Elementen in dieser Kirche und bringen Sie eine Kamera mit.",
+            "hu": "Tapasztalja meg a hagyományos és modern elemek egyedi építészeti ötvözetét ebben a templomban, és hozzon magával fényképezőgépet a részletekért.",
+            "ro": "Experimentați amestecul arhitectural unic de elemente tradiționale și moderne la această biserică și aduceți un aparat foto pentru detaliile exterioare.",
+            "en": "Experience the unique architectural blend of traditional and modern elements at this church, and bring a camera to capture the intricate exterior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Sancta Familia, Sikumana",
+            "hu": "Gereja Sancta Familia, Sikumana",
+            "ro": "Gereja Sancta Familia, Sikumana",
+            "en": "Gereja Sancta Familia, Sikumana"
+          },
+          "coords": [
+            123.608266,
+            -10.199498
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre der versteckten Kirche der Heiligen Familie und respektieren Sie die Ruhezeiten, wenn Sie an Werktagen kommen.",
+            "hu": "Élvezze a Szent Család templom csendes hangulatát a környéken, és tartsa tiszteletben a csendes órákat, ha hétköznap délután látogat el ide.",
+            "ro": "Bucurați-vă de ambianța liniștită a Bisericii Sfânta Familie ascunsă în cartier și respectați orele de liniște dacă o vizitați în timpul săptămânii.",
+            "en": "Enjoy the tranquil ambiance of the Holy Family Church tucked away in the neighborhood, and respect the quiet hours if you visit during weekday afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Mathias Rasul, Tofa",
+            "hu": "Gereja Santo Mathias Rasul, Tofa",
+            "ro": "Gereja Santo Mathias Rasul, Tofa",
+            "en": "Gereja Santo Mathias Rasul, Tofa"
+          },
+          "coords": [
+            123.615109,
+            -10.181156
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das pulsierende Gemeindeleben rund um diese prominente lokale Pfarrei und versuchen Sie, mit den freundlichen Einheimischen ins Gespräch zu kommen.",
+            "hu": "Csodálja meg a kiemelkedő helyi plébániát körülvevő pezsgő közösségi életet, és elegyedjen szóba a kint tartózkodó barátságos helyiekkel.",
+            "ro": "Minunați-vă de viața comunitară vibrantă din jurul acestei parohii locale proeminente și încercați să intrați în vorbă cu localnicii prietenoși de afară.",
+            "en": "Marvel at the vibrant community life surrounding this prominent local parish, and try striking up a conversation with the friendly locals outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Daerah Nusa Tenggara Timur",
+            "hu": "Museum Daerah Nusa Tenggara Timur",
+            "ro": "Museum Daerah Nusa Tenggara Timur",
+            "en": "Museum Daerah Nusa Tenggara Timur"
+          },
+          "coords": [
+            123.619574,
+            -10.158985
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe von Ost-Nusa Tenggara anhand faszinierender Artefakte und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel Kelet-Nusa Tenggara gazdag kulturális örökségét a lenyűgöző leleteken keresztül, és érkezzen korán, hogy elkerülje a legnagyobb hőséget.",
+            "ro": "Explorați bogatul patrimoniu cultural din Nusa Tenggara de Est prin artefacte fascinante și sosiți devreme pentru a evita căldura de la amiază.",
+            "en": "Explore the rich cultural heritage of East Nusa Tenggara through fascinating artifacts, and arrive early to avoid the hottest part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santa Maria Assumpta, Kota Baru",
+            "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+            "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+            "en": "Gereja Santa Maria Assumpta, Kota Baru"
+          },
+          "coords": [
+            123.619725,
+            -10.160039
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschön gestaltete Kirche mit ihrer einladenden Gemeinde und nehmen Sie an einem Wochenendgottesdienst teil, um lokale Traditionen zu erleben.",
+            "hu": "Látogasson el ebbe a gyönyörűen tervezett templomba, amely vendégszerető gyülekezetéről ismert, és vegyen részt egy hétvégi istentiszteleten.",
+            "ro": "Vizitați această biserică frumos proiectată, cunoscută pentru congregația sa primitoare, și participați la o slujbă de weekend pentru a simți tradițiile locale.",
+            "en": "Visit this beautifully designed church known for its welcoming congregation, and consider attending a weekend service to experience local traditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Fahrrad von der zentralen Kathedrale nach Südwesten in Richtung Oeleta, um atemberaubende Architektur zu bewundern. Mittags radeln Sie über sanfte Hänge nach Sikumana und Tofa. Am Nachmittag wechseln Sie im Regionalmuseum zur Geschichte über. Beenden Sie die Fahrt gleich nebenan an der Assumpta-Kirche, während die Sonne langsam untergeht.",
+        "hu": "Induljon kerékpárral a központi katedrálistól délnyugat felé, Oeleta lenyűgöző építészetének irányába. Délben tekerjen át az enyhe lejtőkön Sikumana és Tofa nyüzsgő közösségi plébániáihoz. Délután váltson a történelemre a regionális múzeumban. Fejezze be az utat a szomszédos Assumpta templomnál, miközben a nap lassan nyugovóra tér.",
+        "ro": "Porniți pe bicicletă de la Catedrala centrală spre sud-vest, către Oeleta, pentru priveliști arhitecturale uimitoare. La amiază, pedalați spre Sikumana și Tofa, unde vă întâmpină parohiile vibrante. După-amiaza, schimbați ritmul cu o vizită istorică la muzeul regional. Încheiați plimbarea chiar alături, la biserica Assumpta, la asfințit.",
+        "en": "Set off on your bike from the central Cathedral, heading southwest towards Oeleta for stunning architectural views. By midday, pedal across the gentle slopes to Sikumana and Tofa, where vibrant community parishes welcome you. In the afternoon, shift gears to history at the regional museum. Wrap up the ride right next door at the Assumpta church as the sun begins its gradual descent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 21.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Daerah Nusa Tenggara Timur",
+            "hu": "Museum Daerah Nusa Tenggara Timur",
+            "ro": "Museum Daerah Nusa Tenggara Timur",
+            "en": "Museum Daerah Nusa Tenggara Timur"
+          },
+          "coords": [
+            123.619574,
+            -10.158985
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe von Ost-Nusa Tenggara anhand faszinierender Artefakte und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel Kelet-Nusa Tenggara gazdag kulturális örökségét a lenyűgöző leleteken keresztül, és érkezzen korán, hogy elkerülje a legnagyobb hőséget.",
+            "ro": "Explorați bogatul patrimoniu cultural din Nusa Tenggara de Est prin artefacte fascinante și sosiți devreme pentru a evita căldura de la amiază.",
+            "en": "Explore the rich cultural heritage of East Nusa Tenggara through fascinating artifacts, and arrive early to avoid the hottest part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Adipura",
+            "hu": "Monumen Adipura",
+            "ro": "Monumen Adipura",
+            "en": "Monumen Adipura"
+          },
+          "coords": [
+            123.657316,
+            -10.168269
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische historische Denkmal zur Feier der städtischen Sauberkeit und überqueren Sie die belebte Kreuzung vorsichtig für das beste Bild.",
+            "hu": "Fényképezze le ezt az ikonikus történelmi emlékművet, amely a város tisztaságát hirdeti, és óvatosan keljen át a forgalmas kereszteződésen a legjobb képért.",
+            "ro": "Fotografiați acest monument istoric iconic care celebrează curățenia urbană și traversați cu atenție intersecția aglomerată pentru cea mai bună fotografie.",
+            "en": "Photograph this iconic historical monument celebrating urban cleanliness, and carefully cross the bustling intersection to get the best wide-angle shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Yoseph Pekerja, Penfui",
+            "hu": "Gereja Santo Yoseph Pekerja, Penfui",
+            "ro": "Gereja Santo Yoseph Pekerja, Penfui",
+            "en": "Gereja Santo Yoseph Pekerja, Penfui"
+          },
+          "coords": [
+            123.656411,
+            -10.17685
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich in dieser historischen Stadtteilkirche mit dem tief verwurzelten lokalen Glauben und planen Sie Ihren Besuch außerhalb der Hauptmessen.",
+            "hu": "Csatlakozzon a mélyen gyökerező helyi hithez ebben a történelmi környékbeli templomban, és tervezze látogatását a fő miséken kívül egy csendesebb élményért.",
+            "ro": "Conectați-vă cu credința locală profund înrădăcinată la această biserică istorică de cartier și planificați-vă vizita în afara orelor principale de slujbă.",
+            "en": "Connect with the deep-rooted local faith at this historic neighborhood church, and plan your visit outside of main mass hours for a quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "batas dusun 4 dan belo",
+            "hu": "batas dusun 4 dan belo",
+            "ro": "batas dusun 4 dan belo",
+            "en": "batas dusun 4 dan belo"
+          },
+          "coords": [
+            123.640023,
+            -10.22247
+          ],
+          "category": "castle",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den rustikalen Charme und die historischen Überreste dieser lokalen Grenzmarkierung und tragen Sie feste Wanderschuhe für das unebene Gelände.",
+            "hu": "Fedezze fel e helyi határkő rusztikus varázsát és történelmi maradványait, és viseljen masszív túracipőt az egyenetlen környező terepen való eligazodáshoz.",
+            "ro": "Explorați farmecul rustic și rămășițele istorice ale acestui marcaj de graniță local și purtați încălțăminte de mers robustă pentru a naviga pe terenul accidentat.",
+            "en": "Explore the rustic charm and historic remnants of this local boundary marker, and wear sturdy walking shoes to navigate the uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+            "hu": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+            "ro": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+            "en": "Gereja Santo Fransiskus dari Assisi, Kolhua"
+          },
+          "coords": [
+            123.630368,
+            -10.202654
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Viertel von dieser wunderschön gelegenen Kirche aus und bringen Sie Wasser mit, da der Aufstieg anstrengend ist.",
+            "hu": "Élvezze a környékre nyíló panorámás kilátást ebből a gyönyörű fekvésű templomból, és hozzon magával vizet, mivel a dombra vezető út fárasztó lehet.",
+            "ro": "Admirați vederea panoramică a cartierului de la această biserică frumos situată și aduceți apă, deoarece urcușul pe deal poate fi destul de obositor.",
+            "en": "Take in the panoramic neighborhood views from this beautifully situated church, and bring a bottle of water as the walk up the hill can be quite tiring."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Petrus dan Paulus, Oesapa",
+            "hu": "Gereja Santo Petrus dan Paulus, Oesapa",
+            "ro": "Gereja Santo Petrus dan Paulus, Oesapa",
+            "en": "Gereja Santo Petrus dan Paulus, Oesapa"
+          },
+          "coords": [
+            123.645832,
+            -10.150145
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die leuchtenden Farben und die Hingabe der Gemeinde in dieser belebten Vorstadtpfarrei und halten Sie Ausschau nach lokalen Essensständen.",
+            "hu": "Legyen tanúja a nyüzsgő külvárosi plébánia élénk színeinek és közösségi odaadásának, és tartsa nyitva a szemét a bejárat közelében parkoló árusokra.",
+            "ro": "Fiți martorii culorilor vibrante și devotamentului comunitar la această parohie aglomerată din suburbii și fiți atenți la vânzătorii de mâncare locali.",
+            "en": "Witness the vibrant colors and community devotion at this bustling suburban parish, and keep an eye out for local food vendors parked near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Andreas, Lasiana",
+            "hu": "Gereja Santo Andreas, Lasiana",
+            "ro": "Gereja Santo Andreas, Lasiana",
+            "en": "Gereja Santo Andreas, Lasiana"
+          },
+          "coords": [
+            123.663426,
+            -10.140755
+          ],
+          "category": "religious",
+          "arrive_at": "15:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise in dieser friedlichen Kirche in der Nähe des berühmten Strandgebiets und planen Sie Ihren Besuch passend zum spektakulären späten Nachmittagslicht.",
+            "hu": "Zárja útját ebben a békés templomban, amely a híres tengerpart közelében található, és időzítse látogatását a látványos késő délutáni fényekhez.",
+            "ro": "Încheiați-vă călătoria la această biserică pașnică situată lângă celebra zonă de plajă și programați-vă vizita pentru a coincide cu lumina spectaculoasă a după-amiezii.",
+            "en": "Conclude your trip at this peaceful church located near the famous beach area, and time your visit to coincide with the spectacular late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour tief in der Geschichte im Regionalmuseum und fahren Sie dann kurz zum ikonischen Adipura-Denkmal. Die Mittagsstunden führen Sie nach Süden durch Penfui und zu den historischen Grenzen von Dusun 4. Fahren Sie am späten Nachmittag in Richtung Kolhua und Oesapa, bis Sie vor der Abenddämmerung die Küstenpfarrei Lasiana erreichen.",
+        "hu": "Kezdje autós túráját a történelembe merülve a regionális múzeumban, majd tegyen egy rövid utat az ikonikus Adipura emlékműhöz. A déli órák dél felé, Penfuin és a történelmi Dusun 4 határain át vezetnek. Késő délután vezessen vissza Kolhua és Oesapa felé, végül szürkület előtt érje el Lasiana tengerparti plébániáját.",
+        "ro": "Începeți turul cu mașina cufundat în istorie la muzeul regional, apoi faceți o scurtă călătorie până la emblematicul Monument Adipura. Orele amiezii vă vor ghida spre sud prin Penfui spre limitele istorice ale Dusun 4. Conduceți înapoi spre Kolhua și Oesapa după-amiaza târziu, ajungând în final la parohia de coastă Lasiana înainte de amurg.",
+        "en": "Begin your driving tour deeply immersed in history at the regional museum, then take a short ride to the iconic Adipura Monument. The midday hours will guide you south through Penfui and out to the historic bounds of Dusun 4 for some rustic exploration. Drive back up towards Kolhua and Oesapa in the late afternoon, finally reaching the coastal parish of Lasiana before twilight."
+      }
+    }
+  }
+}

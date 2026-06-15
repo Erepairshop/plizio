@@ -1,0 +1,451 @@
+{
+  "city_id": "france-biville-cities-v2",
+  "anchor": {
+    "name": "Biville",
+    "coords": [
+      -1.82235,
+      49.61299
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Biville",
+            "hu": "Mairie déléguée de Biville",
+            "ro": "Mairie déléguée de Biville",
+            "en": "Mairie déléguée de Biville"
+          },
+          "coords": [
+            -1.821726,
+            49.613195
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der historischen Mairie von Biville, wo Sie die charmante Architektur bewundern und sich über lokale Veranstaltungen informieren können.",
+            "hu": "Kezdje a napot Biville történelmi polgármesteri hivatalánál, ahol megcsodálhatja a bájos építészetet és tájékozódhat a helyi eseményekről.",
+            "ro": "Începeți ziua la primăria istorică din Biville, unde puteți admira arhitectura fermecătoare și puteți afla despre evenimentele locale.",
+            "en": "Start your day at the historic town hall of Biville, where you can admire the charming architecture and inquire about local events taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -1.823129,
+            49.613561
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche, achten Sie auf die steinernen Details und kleiden Sie sich für den Besuch stets respektvoll.",
+            "hu": "Fedezze fel ezen ősi templom lelki nyugalmát, figyeljen a kőből faragott részletekre, és öltözzön tisztelettudóan a látogatáshoz.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici vechi, acordați atenție detaliilor din piatră și îmbrăcați-vă respectuos pentru vizită.",
+            "en": "Discover the spiritual tranquility of this ancient church, pay attention to the stonework details, and dress respectfully for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Grand'Cour",
+            "hu": "Manoir de la Grand'Cour",
+            "ro": "Manoir de la Grand'Cour",
+            "en": "Manoir de la Grand'Cour"
+          },
+          "coords": [
+            -1.823895,
+            49.611166
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses prachtvolle historische Herrenhaus aus der Nähe, das die reiche Geschichte der Region atmet, aber respektieren Sie die Privatsphäre.",
+            "hu": "Csodálja meg közelről ezt a pompás történelmi udvarházat, amely a régió gazdag történelmét árasztja, de tartsa tiszteletben a magánszférát.",
+            "ro": "Admirați de aproape acest conac istoric magnific, care respiră istoria bogată a regiunii, dar asigurați-vă că respectați intimitatea locului.",
+            "en": "Marvel up close at this magnificent historic manor that breathes the region's rich history, but make sure to respect the privacy of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes de Biville",
+            "hu": "Dunes de Biville",
+            "ro": "Dunes de Biville",
+            "en": "Dunes de Biville"
+          },
+          "coords": [
+            -1.835577,
+            49.611036
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese beeindruckende und weite Dünenlandschaft, die unberührte Natur bietet, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig ezen a lenyűgöző és hatalmas dűnevidéken, amely érintetlen természetet kínál, és mindenképpen hozzon magával túracipőt.",
+            "ro": "Plimbați-vă prin acest peisaj impresionant și vast de dune care oferă natură neatinsă și asigurați-vă că aduceți încălțăminte robustă.",
+            "en": "Wander through this impressive and vast dune landscape offering pristine nature, and be absolutely sure to bring sturdy walking shoes with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Biville",
+            "hu": "Plage de Biville",
+            "ro": "Plage de Biville",
+            "en": "Plage de Biville"
+          },
+          "coords": [
+            -1.8433,
+            49.609592
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand an diesem weitläufigen Strand, der sich perfekt für einen langen Spaziergang eignet, und bringen Sie Windschutz mit.",
+            "hu": "Élvezze a puha homokot ezen a kiterjedt strandon, amely tökéletes egy hosszú sétához, és ne felejtsen el szélvédőt hozni magával a partra.",
+            "ro": "Bucurați-vă de nisipul fin pe această plajă extinsă, perfectă pentru o plimbare lungă, și nu uitați să aduceți o protecție împotriva vântului.",
+            "en": "Enjoy the soft sand on this expansive beach that is perfect for a long afternoon stroll, and don't forget to bring a windbreaker with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Biville.\nEntdecken Sie die alte Kirche und das prächtige Herrenhaus.\nNachmittags wandern Sie durch die beeindruckenden Sanddünen.\nLassen Sie den Tag mit einem entspannten Spaziergang am endlosen Strand ausklingen.",
+        "hu": "Kezdje a napot Biville történelmi központjában.\nFedezze fel az ősi templomot és a pompás udvarházat.\nDélután túrázzon át a lenyűgöző homokdűnéken.\nZárja a napot egy pihentető sétával a végtelen tengerparton.",
+        "ro": "Începeți-vă ziua în centrul istoric al orașului Biville.\nDescoperiți vechea biserică și magnificul conac.\nDupă-amiaza, faceți o drumeție prin impresionantul peisaj de dune de nisip.\nÎncheiați ziua cu o plimbare relaxantă pe plaja nesfârșită.",
+        "en": "Start your day in the historic center of Biville.\nDiscover the ancient church and the magnificent manor house.\nIn the afternoon, hike through the impressive sand dunes.\nEnd the day with a relaxing walk on the endless beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Biville",
+            "hu": "Mairie déléguée de Biville",
+            "ro": "Mairie déléguée de Biville",
+            "en": "Mairie déléguée de Biville"
+          },
+          "coords": [
+            -1.821726,
+            49.613195
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der historischen Mairie von Biville, wo Sie die charmante Architektur bewundern und sich über lokale Veranstaltungen informieren können.",
+            "hu": "Kezdje a napot Biville történelmi polgármesteri hivatalánál, ahol megcsodálhatja a bájos építészetet és tájékozódhat a helyi eseményekről.",
+            "ro": "Începeți ziua la primăria istorică din Biville, unde puteți admira arhitectura fermecătoare și puteți afla despre evenimentele locale.",
+            "en": "Start your day at the historic town hall of Biville, where you can admire the charming architecture and inquire about local events taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -1.823129,
+            49.613561
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche, achten Sie auf die steinernen Details und kleiden Sie sich für den Besuch stets respektvoll.",
+            "hu": "Fedezze fel ezen ősi templom lelki nyugalmát, figyeljen a kőből faragott részletekre, és öltözzön tisztelettudóan a látogatáshoz.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici vechi, acordați atenție detaliilor din piatră și îmbrăcați-vă respectuos pentru vizită.",
+            "en": "Discover the spiritual tranquility of this ancient church, pay attention to the stonework details, and dress respectfully for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes de Biville",
+            "hu": "Dunes de Biville",
+            "ro": "Dunes de Biville",
+            "en": "Dunes de Biville"
+          },
+          "coords": [
+            -1.835577,
+            49.611036
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese beeindruckende und weite Dünenlandschaft, die unberührte Natur bietet, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig ezen a lenyűgöző és hatalmas dűnevidéken, amely érintetlen természetet kínál, és mindenképpen hozzon magával túracipőt.",
+            "ro": "Plimbați-vă prin acest peisaj impresionant și vast de dune care oferă natură neatinsă și asigurați-vă că aduceți încălțăminte robustă.",
+            "en": "Wander through this impressive and vast dune landscape offering pristine nature, and be absolutely sure to bring sturdy walking shoes with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Blockhaus",
+            "hu": "Blockhaus",
+            "ro": "Blockhaus",
+            "en": "Blockhaus"
+          },
+          "coords": [
+            -1.844433,
+            49.61456
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden Bunker aus dem Zweiten Weltkrieg, der direkt am Strand liegt, und seien Sie beim Klettern sehr vorsichtig.",
+            "hu": "Fedezze fel ezt a lenyűgöző, közvetlenül a tengerparton található második világháborús bunkert, de legyen nagyon óvatos a mászás során.",
+            "ro": "Explorați acest buncăr fascinant din al Doilea Război Mondial situat chiar pe plajă și fiți foarte atenți dacă vă decideți să vă cățărați pe el.",
+            "en": "Explore this fascinating World War II bunker located right on the sandy beach, and be very careful with your footing if you decide to climb it."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère du Thot",
+            "hu": "Belvédère du Thot",
+            "ro": "Belvédère du Thot",
+            "en": "Belvédère du Thot"
+          },
+          "coords": [
+            -1.835221,
+            49.618857
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Panoramablick über die gesamte Küste von diesem erhöhten Aussichtspunkt, ideal für wunderschöne Landschaftsfotos.",
+            "hu": "Élje át a lélegzetelállító panorámát az egész partvonalra erről a megemelt kilátópontról, amely ideális a gyönyörű tájképek készítéséhez.",
+            "ro": "Experimentați o vedere panoramică uluitoare asupra întregii coaste de la acest punct de belvedere, ideal pentru fotografii de peisaj superbe.",
+            "en": "Experience a breathtaking panoramic view of the entire coastline from this elevated viewpoint, which is absolutely ideal for stunning landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la mare de Vauville",
+            "hu": "Réserve naturelle de la mare de Vauville",
+            "ro": "Réserve naturelle de la mare de Vauville",
+            "en": "Réserve naturelle de la mare de Vauville"
+          },
+          "coords": [
+            -1.843828,
+            49.622613
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Vogelwelt in diesem friedlichen Naturschutzgebiet hinter den Dünen, also vergessen Sie nicht, ein Fernglas einzupacken.",
+            "hu": "Fedezze fel a gazdag madárvilágot ebben a békés természetvédelmi területben a dűnék mögött, így ne felejtsen el távcsövet csomagolni az útra.",
+            "ro": "Descoperiți viața bogată a păsărilor în această rezervație naturală pașnică din spatele dunelor, așa că nu uitați să împachetați un binoclu bun.",
+            "en": "Discover the rich birdlife in this peaceful nature reserve situated right behind the dunes, so don't forget to pack a pair of binoculars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im historischen Dorfkern von Biville.\nFahren Sie an der alten Kirche vorbei zu den spektakulären Dünenlandschaften und historischen Bunkern.\nRadeln Sie hinauf zum Aussichtspunkt für unglaubliche Küstenpanoramen.\nEntspannen Sie sich im friedlichen Naturschutzgebiet und beobachten Sie die reiche Vogelwelt in der Abenddämmerung.",
+        "hu": "Kezdje a kerékpártúrát Biville történelmi faluközpontjában.\nTekerjen el a régi templom mellett a látványos dűnevidékek és a történelmi bunkerek felé.\nKerékpározzon fel a kilátópontra a hihetetlen tengerparti panorámáért.\nPihenjen a békés természetvédelmi területen, és figyelje meg a gazdag madárvilágot szürkületkor.",
+        "ro": "Începeți turul cu bicicleta în centrul istoric al satului Biville.\nMergeți pe lângă vechea biserică spre peisajele spectaculoase de dune și buncărele istorice.\nUrcați cu bicicleta până la punctul de belvedere pentru panorame de coastă incredibile.\nRelaxați-vă în rezervația naturală pașnică, urmărind păsările la asfințit.",
+        "en": "Start your cycling tour in Biville's historic village center.\nRide past the old church towards the spectacular dune landscapes and historical bunkers.\nCycle up to the viewpoint for incredible coastal panoramas.\nRelax at the peaceful nature reserve watching the rich birdlife at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 6.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Biville",
+            "hu": "Mairie déléguée de Biville",
+            "ro": "Mairie déléguée de Biville",
+            "en": "Mairie déléguée de Biville"
+          },
+          "coords": [
+            -1.821726,
+            49.613195
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der historischen Mairie von Biville, wo Sie die charmante Architektur bewundern und sich über lokale Veranstaltungen informieren können.",
+            "hu": "Kezdje a napot Biville történelmi polgármesteri hivatalánál, ahol megcsodálhatja a bájos építészetet és tájékozódhat a helyi eseményekről.",
+            "ro": "Începeți ziua la primăria istorică din Biville, unde puteți admira arhitectura fermecătoare și puteți afla despre evenimentele locale.",
+            "en": "Start your day at the historic town hall of Biville, where you can admire the charming architecture and inquire about local events taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromlech de Vasteville",
+            "hu": "Cromlech de Vasteville",
+            "ro": "Cromlech de Vasteville",
+            "en": "Cromlech de Vasteville"
+          },
+          "coords": [
+            -1.799479,
+            49.60101
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spüren Sie die Mystik dieses prähistorischen Steinkreises in der ruhigen Landschaft, ein perfekter Ort für eine Pause abseits des Trubels.",
+            "hu": "Érezze ennek a történelem előtti kőkörnek a misztikumát a csendes vidéken, amely tökéletes helyszín egy kis pihenésre a nyüzsgéstől távol.",
+            "ro": "Simțiți misticismul acestui cerc de piatră preistoric din peisajul liniștit, un loc perfect pentru o pauză departe de agitația cotidiană.",
+            "en": "Feel the mysticism of this prehistoric stone circle nestled in the quiet countryside, making it a perfect spot for a break away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Grand'Cour",
+            "hu": "Manoir de la Grand'Cour",
+            "ro": "Manoir de la Grand'Cour",
+            "en": "Manoir de la Grand'Cour"
+          },
+          "coords": [
+            -1.823895,
+            49.611166
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses prachtvolle historische Herrenhaus aus der Nähe, das die reiche Geschichte der Region atmet, aber respektieren Sie die Privatsphäre.",
+            "hu": "Csodálja meg közelről ezt a pompás történelmi udvarházat, amely a régió gazdag történelmét árasztja, de tartsa tiszteletben a magánszférát.",
+            "ro": "Admirați de aproape acest conac istoric magnific, care respiră istoria bogată a regiunii, dar asigurați-vă că respectați intimitatea locului.",
+            "en": "Marvel up close at this magnificent historic manor that breathes the region's rich history, but make sure to respect the privacy of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes de Biville",
+            "hu": "Dunes de Biville",
+            "ro": "Dunes de Biville",
+            "en": "Dunes de Biville"
+          },
+          "coords": [
+            -1.835577,
+            49.611036
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese beeindruckende und weite Dünenlandschaft, die unberührte Natur bietet, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig ezen a lenyűgöző és hatalmas dűnevidéken, amely érintetlen természetet kínál, és mindenképpen hozzon magával túracipőt.",
+            "ro": "Plimbați-vă prin acest peisaj impresionant și vast de dune care oferă natură neatinsă și asigurați-vă că aduceți încălțăminte robustă.",
+            "en": "Wander through this impressive and vast dune landscape offering pristine nature, and be absolutely sure to bring sturdy walking shoes with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère du Thot",
+            "hu": "Belvédère du Thot",
+            "ro": "Belvédère du Thot",
+            "en": "Belvédère du Thot"
+          },
+          "coords": [
+            -1.835221,
+            49.618857
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Panoramablick über die gesamte Küste von diesem erhöhten Aussichtspunkt, ideal für wunderschöne Landschaftsfotos.",
+            "hu": "Élje át a lélegzetelállító panorámát az egész partvonalra erről a megemelt kilátópontról, amely ideális a gyönyörű tájképek készítéséhez.",
+            "ro": "Experimentați o vedere panoramică uluitoare asupra întregii coaste de la acest punct de belvedere, ideal pentru fotografii de peisaj superbe.",
+            "en": "Experience a breathtaking panoramic view of the entire coastline from this elevated viewpoint, which is absolutely ideal for stunning landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la mare de Vauville",
+            "hu": "Réserve naturelle de la mare de Vauville",
+            "ro": "Réserve naturelle de la mare de Vauville",
+            "en": "Réserve naturelle de la mare de Vauville"
+          },
+          "coords": [
+            -1.843828,
+            49.622613
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Vogelwelt in diesem friedlichen Naturschutzgebiet hinter den Dünen, also vergessen Sie nicht, ein Fernglas einzupacken.",
+            "hu": "Fedezze fel a gazdag madárvilágot ebben a békés természetvédelmi területben a dűnék mögött, így ne felejtsen el távcsövet csomagolni az útra.",
+            "ro": "Descoperiți viața bogată a păsărilor în această rezervație naturală pașnică din spatele dunelor, așa că nu uitați să împachetați un binoclu bun.",
+            "en": "Discover the rich birdlife in this peaceful nature reserve situated right behind the dunes, so don't forget to pack a pair of binoculars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie durch das historische Herz der Stadt und hinaus zum alten Cromlech.\nKehren Sie zurück, um das prächtige Herrenhaus und die einzigartigen rollenden Dünen zu bewundern.\nFahren Sie entlang der malerischen Küstenstraßen hinauf zum erhöhten Aussichtspunkt.\nBeenden Sie Ihren Roadtrip im friedlichen Naturschutzgebiet von Vauville.",
+        "hu": "Vezessen át a város történelmi szívén, egészen az ősi Cromlechhez.\nTérjen vissza, hogy megcsodálja a pompás udvarházat és az egyedülálló, hullámzó dűnéket.\nKocsikázzon végig a festői tengerparti utakon, fel a magaslati kilátóponthoz.\nZárja autós utazását a békés vauville-i természetvédelmi területen.",
+        "ro": "Conduceți prin inima istorică a orașului și până la vechiul Cromlech.\nÎntoarceți-vă pentru a admira magnificul conac și dunele unice, în continuă schimbare.\nMergeți de-a lungul drumurilor pitorești de coastă până la punctul de belvedere ridicat.\nÎncheiați-vă excursia cu mașina în rezervația naturală pașnică din Vauville.",
+        "en": "Drive through the historic heart of the town and out to the ancient Cromlech.\nReturn to admire the grand manor and the unique rolling dunes.\nCruise along the scenic coastal roads up to the elevated viewpoint.\nConclude your road trip at the peaceful Vauville nature reserve."
+      }
+    }
+  }
+}

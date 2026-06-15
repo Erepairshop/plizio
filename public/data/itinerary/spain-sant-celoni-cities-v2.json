@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-sant-celoni-cities-v2",
+  "anchor": {
+    "name": "Sant Celoni",
+    "coords": [
+      2.48965,
+      41.68921
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antic Hospital",
+            "hu": "Antic Hospital",
+            "ro": "Antic Hospital",
+            "en": "Antic Hospital"
+          },
+          "coords": [
+            2.488972,
+            41.68884
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Bögen dieses alten Krankenhauses, das die mittelalterliche Architektur Sant Celonis prägt, und besuchen Sie es früh für bestes Fotolicht.",
+            "hu": "Csodálja meg ennek a középkori kórháznak az ősi boltíveit, amely Sant Celoni történelmi központjának éke, és érkezzen korán a legjobb fotós fényekért.",
+            "ro": "Admirați arcadele istorice ale acestui vechi spital care definește arhitectura medievală din Sant Celoni și vizitați-l devreme pentru cea mai bună lumină foto.",
+            "en": "Admire the historical arches of this ancient hospital which defines the medieval architecture of Sant Celoni, and visit early in the day for the best photographic light."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Ateneu",
+            "hu": "L'Ateneu",
+            "ro": "L'Ateneu",
+            "en": "L'Ateneu"
+          },
+          "coords": [
+            2.489392,
+            41.687499
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wichtige kulturelle Zentrum, dessen prächtige Fassade die lokale Geschichte widerspiegelt, und prüfen Sie den Veranstaltungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a fontos kulturális központot, amelynek díszes homlokzata a helyi történelmet tükrözi, és látogatás előtt ellenőrizze az eseménynaptárt.",
+            "ro": "Descoperiți acest important centru cultural a cărui fațadă grandioasă reflectă istoria locală și verificați programul evenimentelor înainte de a planifica vizita.",
+            "en": "Discover this important cultural center whose magnificent facade reflects local history, and make sure to check their event schedule before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Salomé - Escultura de Lluís Montané",
+            "hu": "Salomé - Escultura de Lluís Montané",
+            "ro": "Salomé - Escultura de Lluís Montané",
+            "en": "Salomé - Escultura de Lluís Montané"
+          },
+          "coords": [
+            2.490254,
+            41.685932
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese elegante Skulptur von Lluís Montané, die das moderne künstlerische Erbe der Stadt zeigt, und achten Sie auf die feinen Details der Bronzeoberfläche.",
+            "hu": "Tekintse meg Lluís Montané elegáns szobrát, amely a város modern művészeti örökségét mutatja be, és figyeljen meg minden apró részletet a bronzfelületen.",
+            "ro": "Priviți această sculptură elegantă a lui Lluís Montané care evidențiază moștenirea artistică a orașului și observați micile detalii fine de pe suprafața de bronz.",
+            "en": "View this elegant sculpture by Lluís Montané which showcases the modern artistic heritage of the town, and pay attention to the fine details on the bronze surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Xemeneia de Can Pàmies",
+            "hu": "Xemeneia de Can Pàmies",
+            "ro": "Xemeneia de Can Pàmies",
+            "en": "Xemeneia de Can Pàmies"
+          },
+          "coords": [
+            2.495257,
+            41.686205
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Staunen Sie über diesen hoch aufragenden Schornstein aus rotem Backstein, ein stolzes Zeugnis der industriellen Vergangenheit, der von weitem am besten sichtbar ist.",
+            "hu": "Csodálkozzon rá erre a magasba törő vöröstéglás kéményre, az ipari múlt büszke emlékére, amely kissé távolabbról nyújtja a leglenyűgözőbb látványt.",
+            "ro": "Minunați-vă de acest coș de fum falnic din cărămidă roșie, o dovadă mândră a trecutului industrial al orașului, care poate fi observat cel mai bine de la distanță.",
+            "en": "Marvel at this towering red brick chimney, a proud testament to the town's industrial past, which offers the most impressive viewing angle from a slight distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Sant Celoni",
+            "hu": "Ajuntament de Sant Celoni",
+            "ro": "Ajuntament de Sant Celoni",
+            "en": "Ajuntament de Sant Celoni"
+          },
+          "coords": [
+            2.492416,
+            41.690101
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathausgebäude, das mit seiner markanten Turmuhr den zentralen Platz dominiert, und nutzen Sie den Platz für eine kurze Kaffeepause in der Nähe.",
+            "hu": "Csodálja meg a városháza épületét, amely jellegzetes óratornyával uralja a főteret, és használja ki a teret egy rövid, pihentető kávészünetre a környéken.",
+            "ro": "Admirați clădirea primăriei, care domină piața centrală cu turnul său cu ceas distinctiv, și folosiți piața pentru o scurtă pauză de cafea la terasele din apropiere.",
+            "en": "Admire the town hall building which dominates the central square with its distinctive clock tower, and use the plaza for a short relaxing coffee break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Martí de Pertegàs",
+            "hu": "Sant Martí de Pertegàs",
+            "ro": "Sant Martí de Pertegàs",
+            "en": "Sant Martí de Pertegàs"
+          },
+          "coords": [
+            2.489658,
+            41.6935
+          ],
+          "category": "religious",
+          "arrive_at": "15:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese alte romanische Kirche, deren friedliche Atmosphäre zur Kontemplation einlädt, und spazieren Sie anschließend durch den kleinen angrenzenden Garten.",
+            "hu": "Látogassa meg ezt az ősi román stílusú templomot, amelynek békés atmoszférája elmélkedésre hív, majd sétáljon egyet a csendes és hangulatos szomszédos kertben.",
+            "ro": "Vizitați această veche biserică romanică, a cărei atmosferă pașnică invită la contemplare, și faceți apoi o scurtă plimbare relaxantă prin mica grădină alăturată.",
+            "en": "Visit this ancient Romanesque church whose peaceful atmosphere invites quiet contemplation, and take a short relaxing walk through the tranquil adjacent garden afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am beeindruckenden Antic Hospital, wo mittelalterliche Architektur die Geschichte Sant Celonis erzählt.\nSpazieren Sie zum Kulturzentrum L'Ateneu und bewundern Sie anschließend die elegante Skulptur Salomé, die das Stadtbild prägt.\nDer Nachmittag führt Sie zum markanten alten Industrieschornstein und weiter zum belebten Platz des historischen Rathauses.\nBeenden Sie Ihre Tour an der romanischen Kirche Sant Martí de Pertegàs, wo friedliche Stille den perfekten Abschluss des Tages bietet.",
+        "hu": "Kezdje a napot a lenyűgöző Antic Hospital-nál, ahol a középkori építészet Sant Celoni gazdag történelméről mesél.\nSétáljon el a L'Ateneu kulturális központhoz, majd csodálja meg a városképet meghatározó elegáns Salomé szobrot.\nDélután fedezze fel az egykori ipari múltra emlékeztető gyárkéményt, és élvezze a pezsgő hangulatot a Városháza előtti téren.\nZárja a túrát a román stílusú Sant Martí de Pertegàs templomnál, ahol a békés csend tökéletes befejezése lesz a napnak.",
+        "ro": "Începeți ziua la impresionantul Antic Hospital, unde arhitectura medievală frumoasă vă va povesti despre istoria veche a orașului Sant Celoni.\nFaceți o plimbare spre centrul cultural L'Ateneu și admirați apoi sculptura elegantă Salomé care oferă un farmec distinctiv peisajului urban.\nDupă-amiaza, descoperiți coșul de fum industrial falnic și bucurați-vă de atmosfera vibrantă din piața istorică din fața primăriei.\nÎncheiați turul la biserica romanică Sant Martí de Pertegàs, unde liniștea deplină reprezintă finalul perfect pentru această zi plină.",
+        "en": "Begin your day at the impressive Antic Hospital, where the preserved medieval architecture vividly tells the rich history of Sant Celoni.\nStroll towards the L'Ateneu cultural center, and then admire the elegant Salomé sculpture which beautifully defines the urban landscape.\nIn the afternoon, discover the towering industrial chimney from the town's past, and enjoy the vibrant atmosphere at the historic town hall square.\nConclude your tour at the Romanesque church of Sant Martí de Pertegàs, where profound peacefulness provides the perfect end to a busy day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Martí de Pertegàs",
+            "hu": "Sant Martí de Pertegàs",
+            "ro": "Sant Martí de Pertegàs",
+            "en": "Sant Martí de Pertegàs"
+          },
+          "coords": [
+            2.489658,
+            41.6935
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese alte romanische Kirche, deren friedliche Atmosphäre zur Kontemplation einlädt, und spazieren Sie anschließend durch den kleinen angrenzenden Garten.",
+            "hu": "Látogassa meg ezt az ősi román stílusú templomot, amelynek békés atmoszférája elmélkedésre hív, majd sétáljon egyet a csendes és hangulatos szomszédos kertben.",
+            "ro": "Vizitați această veche biserică romanică, a cărei atmosferă pașnică invită la contemplare, și faceți apoi o scurtă plimbare relaxantă prin mica grădină alăturată.",
+            "en": "Visit this ancient Romanesque church whose peaceful atmosphere invites quiet contemplation, and take a short relaxing walk through the tranquil adjacent garden afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Cruz Roja",
+            "hu": "Monumento a la Cruz Roja",
+            "ro": "Monumento a la Cruz Roja",
+            "en": "Monumento a la Cruz Roja"
+          },
+          "coords": [
+            2.491876,
+            41.693106
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem Denkmal, das die humanitären Bemühungen des Roten Kreuzes ehrt, und lesen Sie die Inschriften, um die lokale Bedeutung zu verstehen.",
+            "hu": "Álljon meg egy pillanatra ennél az emlékműnél, amely a Vöröskereszt humanitárius erőfeszítéseit tiszteli, és olvassa el a feliratokat a helyi jelentőség megértéséhez.",
+            "ro": "Opriți-vă la acest monument care onorează eforturile umanitare ale Crucii Roșii și citiți inscripțiile pentru a înțelege mai bine semnificația sa pentru comunitatea locală.",
+            "en": "Stop briefly at this monument which honors the humanitarian efforts of the Red Cross, and read the inscriptions to understand its significance to the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Sant Celoni",
+            "hu": "Ajuntament de Sant Celoni",
+            "ro": "Ajuntament de Sant Celoni",
+            "en": "Ajuntament de Sant Celoni"
+          },
+          "coords": [
+            2.492416,
+            41.690101
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathausgebäude, das mit seiner markanten Turmuhr den zentralen Platz dominiert, und nutzen Sie den Platz für eine kurze Kaffeepause in der Nähe.",
+            "hu": "Csodálja meg a városháza épületét, amely jellegzetes óratornyával uralja a főteret, és használja ki a teret egy rövid, pihentető kávészünetre a környéken.",
+            "ro": "Admirați clădirea primăriei, care domină piața centrală cu turnul său cu ceas distinctiv, și folosiți piața pentru o scurtă pauză de cafea la terasele din apropiere.",
+            "en": "Admire the town hall building which dominates the central square with its distinctive clock tower, and use the plaza for a short relaxing coffee break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Masia de Can Fabes",
+            "hu": "Masia de Can Fabes",
+            "ro": "Masia de Can Fabes",
+            "en": "Masia de Can Fabes"
+          },
+          "coords": [
+            2.493403,
+            41.690346
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ikonische historische Bauernhaus, das tiefe Wurzeln in der lokalen Kultur hat, und fotografieren Sie die rustikalen Steindetails der Hauptfassade.",
+            "hu": "Fedezze fel ezt az ikonikus történelmi kúriát, amely mély gyökerekkel rendelkezik a helyi kultúrában, és fotózza le a főhomlokzat rusztikus kőrészleteit.",
+            "ro": "Descoperiți această fermă istorică iconică cu rădăcini adânci în cultura locală și asigurați-vă că fotografiați detaliile rustice din piatră ale fațadei principale.",
+            "en": "Discover this iconic historical farmhouse which has deep roots in the local culture, and make sure to photograph the beautiful rustic stone details of the main facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Capella de Sant Ponç",
+            "hu": "Capella de Sant Ponç",
+            "ro": "Capella de Sant Ponç",
+            "en": "Capella de Sant Ponç"
+          },
+          "coords": [
+            2.497445,
+            41.692661
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle, die etwas abseits des Trubels liegt, und genießen Sie die spirituelle Ruhe, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Látogassa meg ezt a bájos kis kápolnát, amely kissé távolabb esik a város zajától, és élvezze a spirituális nyugalmat, mielőtt folytatná a felfedezőutat.",
+            "ro": "Vizitați această mică și fermecătoare capelă situată puțin departe de agitația orașului și bucurați-vă de liniștea sa spirituală înainte de a vă continua drumul.",
+            "en": "Visit this charming small chapel located slightly away from the hustle and bustle, and enjoy its profound spiritual tranquility before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Escultura de Colomo",
+            "hu": "Escultura de Colomo",
+            "ro": "Escultura de Colomo",
+            "en": "Escultura de Colomo"
+          },
+          "coords": [
+            2.500353,
+            41.694182
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses moderne Kunstwerk, das die öffentliche Kunstszene der Stadt bereichert, und versuchen Sie, die verschiedenen symbolischen Elemente der Form zu entschlüsseln.",
+            "hu": "Tekintse meg ezt a modern műalkotást, amely gazdagítja a város köztéri művészeti színterét, és próbálja megfejteni a forma különféle szimbolikus elemeit.",
+            "ro": "Admirați această operă de artă modernă care îmbogățește scena artistică publică a orașului și încercați să descifrați diversele elemente simbolice ascunse în formele sale.",
+            "en": "Admire this piece of modern art which greatly enriches the town's public art scene, and try to decipher the various symbolic elements cleverly hidden in its forms."
+          }
+        },
+        {
+          "name": {
+            "de": "Pou de glaç de Can Draper",
+            "hu": "Pou de glaç de Can Draper",
+            "ro": "Pou de glaç de Can Draper",
+            "en": "Pou de glaç de Can Draper"
+          },
+          "coords": [
+            2.496805,
+            41.678734
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Eiskeller, der zeigt, wie früher Eis konserviert wurde, und tragen Sie bequeme Schuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi jégvermet, amely bemutatja, hogyan tárolták régen a jeget, és viseljen kényelmes cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Explorați această pivniță istorică fascinantă pentru gheață, care arată modul vechi de conservare, și purtați încălțăminte confortabilă pentru drumul de acces denivelat.",
+            "en": "Explore this fascinating historical ice well which demonstrates ancient preservation techniques, and wear comfortable walking shoes for the slightly uneven access path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an der charmanten Kirche Sant Martí de Pertegàs, gefolgt von einem kurzen Stopp am Rotkreuz-Denkmal in der Nähe.\nRadeln Sie ins Zentrum zum historischen Rathaus und entdecken Sie die traditionelle Architektur der ikonischen Masia de Can Fabes.\nAm Nachmittag besuchen Sie die ruhige Capella de Sant Ponç und betrachten die moderne Colomo-Skulptur, bevor Sie aus der Stadt fahren.\nDer letzte Abschnitt bringt Sie in die Naturlandschaft zum historischen Eiskeller von Can Draper, ein faszinierendes Zeugnis alter Techniken.",
+        "hu": "A kerékpártúra a bájos Sant Martí de Pertegàs templomnál indul, amelyet egy rövid megálló követ a közeli Vöröskereszt-emlékműnél.\nTekerjen a központba a történelmi Városházához, majd fedezze fel az ikonikus Masia de Can Fabes hagyományos vidéki építészetét.\nDélután látogasson el a csendes Capella de Sant Ponç kápolnához, és tekintse meg a modern Colomo-szobrot a városon kívül.\nAz utolsó szakasz a természetbe vezet, a Can Draper történelmi jégverméhez, amely lenyűgöző betekintést nyújt a régi tartósítási technikákba.",
+        "ro": "Turul cu bicicleta începe la fermecătoarea biserică Sant Martí de Pertegàs, urmat de o scurtă oprire la monumentul Crucii Roșii din apropiere.\nPedalați spre centrul orașului până la primăria istorică și descoperiți apoi arhitectura tradițională a iconicei ferme Masia de Can Fabes.\nDupă-amiaza, vizitați liniștita Capella de Sant Ponç și admirați sculptura modernă Colomo chiar înainte de a vă îndrepta spre marginile orașului.\nUltima etapă vă poartă în mijlocul naturii, către pivnița istorică de gheață Can Draper, un exemplu fascinant de ingeniozitate antică.",
+        "en": "Your cycling tour starts at the charming Sant Martí de Pertegàs church, followed by a brief stop at the nearby Red Cross monument.\nPedal into the center to admire the historic town hall, and then discover the traditional rural architecture of the iconic Masia de Can Fabes.\nIn the afternoon, visit the quiet Capella de Sant Ponç and observe the modern Colomo sculpture before heading towards the outskirts.\nThe final stretch takes you into nature to the historic Can Draper ice well, a fascinating testament to ancient preservation techniques."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Antic Hospital",
+            "hu": "Antic Hospital",
+            "ro": "Antic Hospital",
+            "en": "Antic Hospital"
+          },
+          "coords": [
+            2.488972,
+            41.68884
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Bögen dieses alten Krankenhauses, das die mittelalterliche Architektur Sant Celonis prägt, und besuchen Sie es früh für bestes Fotolicht.",
+            "hu": "Csodálja meg ennek a középkori kórháznak az ősi boltíveit, amely Sant Celoni történelmi központjának éke, és érkezzen korán a legjobb fotós fényekért.",
+            "ro": "Admirați arcadele istorice ale acestui vechi spital care definește arhitectura medievală din Sant Celoni și vizitați-l devreme pentru cea mai bună lumină foto.",
+            "en": "Admire the historical arches of this ancient hospital which defines the medieval architecture of Sant Celoni, and visit early in the day for the best photographic light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pou de glaç de Can Draper",
+            "hu": "Pou de glaç de Can Draper",
+            "ro": "Pou de glaç de Can Draper",
+            "en": "Pou de glaç de Can Draper"
+          },
+          "coords": [
+            2.496805,
+            41.678734
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Eiskeller, der zeigt, wie früher Eis konserviert wurde, und tragen Sie bequeme Schuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi jégvermet, amely bemutatja, hogyan tárolták régen a jeget, és viseljen kényelmes cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Explorați această pivniță istorică fascinantă pentru gheață, care arată modul vechi de conservare, și purtați încălțăminte confortabilă pentru drumul de acces denivelat.",
+            "en": "Explore this fascinating historical ice well which demonstrates ancient preservation techniques, and wear comfortable walking shoes for the slightly uneven access path."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge of Can Plana",
+            "hu": "Bridge of Can Plana",
+            "ro": "Bridge of Can Plana",
+            "en": "Bridge of Can Plana"
+          },
+          "coords": [
+            2.498295,
+            41.670518
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke, die eine malerische Verbindung über den Fluss bildet, und halten Sie in der Mitte für ein herrliches Landschaftsfoto an.",
+            "hu": "Keljen át ezen a történelmi hídon, amely festői kapcsolatot teremt a folyó felett, és álljon meg a közepén egy gyönyörű tájkép elkészítéséhez.",
+            "ro": "Traversați acest pod istoric care formează o legătură pitorească peste râul liniștit și opriți-vă exact la mijloc pentru a face o fotografie splendidă a peisajului.",
+            "en": "Cross this historical bridge which forms a picturesque connection over the tranquil river, and stop exactly in the middle to capture a splendid landscape photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó de Ca l'Alzina Vell",
+            "hu": "Turó de Ca l'Alzina Vell",
+            "ro": "Turó de Ca l'Alzina Vell",
+            "en": "Turó de Ca l'Alzina Vell"
+          },
+          "coords": [
+            2.492718,
+            41.670068
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur auf diesem bewaldeten Hügel, der eine grüne Oase nahe der Stadt bietet, und bringen Sie eine Flasche Wasser für den kurzen Aufstieg mit.",
+            "hu": "Élvezze a természetet ezen az erdős dombon, amely egy zöld oázis a város közelében, és feltétlenül hozzon magával egy üveg vizet a rövid, de meredek emelkedőhöz.",
+            "ro": "Bucurați-vă de natura luxuriantă pe acest deal împădurit care oferă o oază verde lângă oraș și aduceți o sticlă de apă pentru scurta urcare pe traseu.",
+            "en": "Enjoy the lush nature on this forested hill which provides a peaceful green oasis near the town, and make sure to bring a bottle of water for the short scenic ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Capella de Sant Ponç",
+            "hu": "Capella de Sant Ponç",
+            "ro": "Capella de Sant Ponç",
+            "en": "Capella de Sant Ponç"
+          },
+          "coords": [
+            2.497445,
+            41.692661
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle, die etwas abseits des Trubels liegt, und genießen Sie die spirituelle Ruhe, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Látogassa meg ezt a bájos kis kápolnát, amely kissé távolabb esik a város zajától, és élvezze a spirituális nyugalmat, mielőtt folytatná a felfedezőutat.",
+            "ro": "Vizitați această mică și fermecătoare capelă situată puțin departe de agitația orașului și bucurați-vă de liniștea sa spirituală înainte de a vă continua drumul.",
+            "en": "Visit this charming small chapel located slightly away from the hustle and bustle, and enjoy its profound spiritual tranquility before continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour im Zentrum beim Antic Hospital, wo Sie die beeindruckenden Bögen dieses historischen Bauwerks erkunden können.\nFahren Sie südwärts zum historischen Eiskeller von Can Draper, ein faszinierender Einblick in die Techniken der Vergangenheit.\nDer Nachmittag bietet eine Fahrt zur alten Steinbrücke von Can Plana und einen Spaziergang im Grün des Turó de Ca l'Alzina Vell.\nZum Abschluss fahren Sie in den Norden zur Capella de Sant Ponç, deren friedliche Atmosphäre den perfekten ruhigen Abend einläutet.",
+        "hu": "Kezdje autós túráját a központban az Antic Hospital-nál, ahol felfedezheti ennek a lenyűgöző történelmi épületnek a középkori boltíveit.\nVezessen dél felé a Can Draper történelmi jégverméhez, amely különleges betekintést nyújt a régi idők élelmiszertartósítási módszereibe.\nDélután autózzon el a régi Can Plana kőhídhoz, majd tegyen egy frissítő sétát a Turó de Ca l'Alzina Vell zöldellő, dombos erdejében.\nA nap végén hajtson északra a Capella de Sant Ponç kápolnához, amelynek békés környezete tökéletes egy csendes és pihentető estéhez.",
+        "ro": "Începeți traseul auto în centrul orașului la Antic Hospital, unde puteți explora arcadele magnifice ale acestui important monument istoric.\nConduceți spre sud către vechea pivniță de gheață Can Draper, un loc care oferă o perspectivă unică asupra tehnicilor vechi de conservare.\nDupă-amiaza include o vizită la podul de piatră Can Plana și o plimbare relaxantă printre copacii de pe dealul Turó de Ca l'Alzina Vell.\nLa finalul zilei, îndreptați-vă spre nord către Capella de Sant Ponç, a cărei atmosferă senină pregătește terenul pentru o seară liniștită.",
+        "en": "Start your driving tour in the center at the Antic Hospital, where you can easily explore the magnificent medieval arches of this historic building.\nDrive south to the historic Can Draper ice well, a fascinating site that provides a unique glimpse into long-forgotten preservation techniques.\nThe afternoon features a scenic drive to the old Can Plana stone bridge and a refreshing walk through the greenery of Turó de Ca l'Alzina Vell.\nConclude your day by heading north to the Capella de Sant Ponç, whose serene atmosphere sets the perfect tone for a quiet and relaxing evening."
+      }
+    }
+  }
+}

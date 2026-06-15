@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-naousa-cities-v2",
+  "anchor": {
+    "name": "Naousa",
+    "coords": [
+      25.23874,
+      37.12352
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:58",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piperi",
+            "hu": "Piperi",
+            "ro": "Piperi",
+            "en": "Piperi"
+          },
+          "coords": [
+            25.233065,
+            37.122804
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser leicht zugänglichen Sandbucht, ideal für ein morgendliches Bad, aber kommen Sie früh für einen guten Platz.",
+            "hu": "Kezdje a napot ezen a könnyen megközelíthető homokos öbölben egy reggeli csobbanással, de érkezzen korán a legjobb helyekért.",
+            "ro": "Începeți ziua în acest golf cu nisip accesibil, perfect pentru o baie de dimineață, dar ajungeți devreme pentru un loc bun.",
+            "en": "Start your day at this accessible sandy cove perfect for a morning dip, but arrive early to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.238071,
+            37.124097
+          ],
+          "category": "landmark",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese malerische Kirche mit blauer Kuppel am Hafen und vergessen Sie Ihre Kamera für klassische Kykladen-Fotos nicht.",
+            "hu": "Csodálja meg ezt a festői, kék kupolás templomot a kikötőben, és ne felejtse el a fényképezőgépét a kükladikus építészet megörökítéséhez.",
+            "ro": "Admirați această biserică pitorească cu dom albastru de lângă port și nu uitați aparatul foto pentru arhitectura cicladică.",
+            "en": "Admire this iconic, picturesque blue-domed church by the harbor, and don't forget your camera to capture the classic Cycladic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Windmühle",
+            "hu": "Régi Szélmalom",
+            "ro": "Vechea Moară de Vânt",
+            "en": "Old Windmill"
+          },
+          "coords": [
+            25.241328,
+            37.125376
+          ],
+          "category": "landmark",
+          "arrive_at": "10:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die charmante alte Windmühle als Symbol der maritimen Geschichte von Naousa, die im weichen Mittagslicht am besten wirkt.",
+            "hu": "Fedezze fel a bájos régi szélmalmot, amely Naousa tengerészeti történelmének szimbóluma, amit a legszebb a déli, lágy fényben fotózni.",
+            "ro": "Explorați vechea moară de vânt fermecătoare, simbol al istoriei maritime, care este cel mai bine de admirat în lumina blândă a amiezii.",
+            "en": "Explore the charming old windmill that stands as a symbol of Naousa's maritime history, best viewed during the soft light of midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Stefanos",
+            "hu": "Agios Stefanos",
+            "ro": "Agios Stefanos",
+            "en": "Agios Stefanos"
+          },
+          "coords": [
+            25.247273,
+            37.12518
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der malerischen Küste von Agios Stefanos mit tollem Blick über die Bucht, aber tragen Sie gute Schuhe für den Weg.",
+            "hu": "Pihenjen meg Agios Stefanos festői partszakaszán, ahonnan remek kilátás nyílik az öbölre, bár az ösvényen a túracipő erősen ajánlott.",
+            "ro": "Relaxați-vă pe porțiunea pitorească de coastă Agios Stefanos, cu vedere la golf, deși încălțămintea de mers pe jos este recomandată aici.",
+            "en": "Relax by the scenic coastal stretch of Agios Stefanos, offering great views across the bay, though walking shoes are recommended for the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Agiou Antoniou",
+            "hu": "Agiou Antoniou Kolostor",
+            "ro": "Mănăstirea Agiou Antoniou",
+            "en": "Mone Agiou Antoniou"
+          },
+          "coords": [
+            25.237155,
+            37.110578
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang in diesem friedlichen Kloster in den Hügeln, wo Sie sich bescheiden kleiden sollten, um die Atmosphäre zu spüren.",
+            "hu": "Zárja a sétát ebben a dombok között megbúvó békés kolostorban, ahol a szerény öltözet kötelező, ha be szeretne menni és átélni a nyugalmat.",
+            "ro": "Încheiați plimbarea la această mănăstire pașnică din dealuri, unde trebuie să vă îmbrăcați modest pentru a intra și a simți atmosfera.",
+            "en": "Conclude your walk at this peaceful monastery nestled in the hills, where you should dress modestly to enter and appreciate its serene atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Spaziergang entlang der Westküste. Der Mittag lädt Sie in das Herz von Naousas pulsierendem Hafen ein. Der Nachmittag bietet einen malerischen Spaziergang am Wasser nach Osten. Der Abend führt hinauf zu einem ruhigen spirituellen Rückzugsort.",
+        "hu": "A reggel egy frissítő sétával indul a nyugati partvonal mentén. A délidő Naousa nyüzsgő kikötőjének szívébe invitálja a látogatókat. A délután egy festői tengerparti sétát tartogat kelet felé. Az este felvezet egy csendes, spirituális elvonulóhelyre a dombok között.",
+        "ro": "Dimineața începe cu o plimbare revigorantă de-a lungul coastei de vest. Amiaza vă invită în inima portului vibrant din Naousa. După-amiaza oferă o plimbare pitorească spre est, pe malul apei. Seara urcă spre un refugiu spiritual liniștit și retras.",
+        "en": "Morning begins with a refreshing walk along the western shoreline. Midday invites you into the heart of Naousa's vibrant harbor. Afternoon offers a scenic eastward stroll along the water. Evening climbs up to a serene spiritual retreat."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Limnes Strand",
+            "hu": "Limnes Strand",
+            "ro": "Plaja Limnes",
+            "en": "Limnes Beach"
+          },
+          "coords": [
+            25.213411,
+            37.124129
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Fahrt an diesem ruhigen Strand mit flachem Wasser, aber bringen Sie eigenen Schatten mit, da natürlicher Schutz fehlt.",
+            "hu": "Kezdje a tekerést ezen a csendes, lassan mélyülő vizű strandon, de hozzon magával napernyőt, mivel a természetes árnyék itt nagyon ritka.",
+            "ro": "Începeți plimbarea la această plajă liniștită, ideală pentru o baie ușoară, dar aduceți-vă propria umbră, deoarece acoperirea este limitată.",
+            "en": "Kick off your ride at this quiet, shallow-water beach ideal for wading, but bring your own shade as natural cover is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolumpethres",
+            "hu": "Kolumpethres",
+            "ro": "Kolumpethres",
+            "en": "Kolumpethres"
+          },
+          "coords": [
+            25.215322,
+            37.129341
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen mondähnlichen Granitfelsen im blauen Wasser und schließen Sie Ihr Fahrrad in der Nähe des Haupteingangs sicher ab.",
+            "hu": "Csodálja meg a kék vízzel kontrasztos, egyedi, holdszerű gránit sziklaalakzatokat, és zárja le biztonságosan a kerékpárját a főbejáratnál.",
+            "ro": "Minunați-vă de formațiunile unice de roci din granit ca pe lună, și asigurați-vă că vă blocați bine bicicleta lângă intrarea principală.",
+            "en": "Marvel at the unique lunar-like granite rock formations contrasting the blue waters, and securely lock your bike near the main entrance path."
+          }
+        },
+        {
+          "name": {
+            "de": "Crique Bucht",
+            "hu": "Crique-öböl",
+            "ro": "Golful Crique",
+            "en": "Crique"
+          },
+          "coords": [
+            25.218955,
+            37.129467
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser felsigen Bucht für tolle Fotos, aber achten Sie auf Ihre Schritte auf dem extrem unebenen Boden hier.",
+            "hu": "Tartson egy rövid pihenőt ennél a sziklás öbölnél, amely kiváló fotózási lehetőségeket kínál, bár érdemes vigyázni a lépteire az egyenetlen talajon.",
+            "ro": "Faceți o scurtă pauză în acest golf stâncos care oferă oportunități excelente de fotografie, deși ar trebui să aveți grijă la teren.",
+            "en": "Take a quick rest at this rugged rocky inlet that provides excellent photography opportunities, though you should watch your step on the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Windmühle",
+            "hu": "Régi Szélmalom",
+            "ro": "Vechea Moară de Vânt",
+            "en": "Old Windmill"
+          },
+          "coords": [
+            25.241328,
+            37.125376
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie in den Hafen, um die historische runde Windmühle aus der Nähe zu sehen, wobei es ratsam ist, das Rad durch Fußgängerzonen zu schieben.",
+            "hu": "Tekerjen be a kikötőbe, hogy közelről is lássa a történelmi szélmalmot, ahol erősen ajánlott tolni a biciklit a forgalmas sétálóutcák miatt.",
+            "ro": "Mergeți în port pentru a vedea de aproape moara de vânt istorică, unde se recomandă să mergeți pe jos cu bicicleta prin zonele pietonale.",
+            "en": "Ride into the harbor to see the historic circular windmill up close, where walking your bike through the busy pedestrian zones is highly advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksuphara",
+            "hu": "Ksuphara",
+            "ro": "Ksuphara",
+            "en": "Ksuphara"
+          },
+          "coords": [
+            25.264241,
+            37.123791
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem langen, leeren Oststrand, perfekt für ein entspanntes Bad, bevor Sie bei Sonnenuntergang zurückfahren.",
+            "hu": "Fejezze be a kerékpártúrát ezen a hosszú, keleti strandon, amely tökéletes egy lazító úszáshoz, mielőtt naplementekor visszaindulna a szállásra.",
+            "ro": "Terminați-vă călătoria cu bicicleta la această plajă lungă din est, perfectă pentru o baie relaxantă înainte de a vă întoarce la apus.",
+            "en": "Finish your cycling journey at this long, uncrowded eastern beach, perfect for a relaxing swim before riding back as the sun begins to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt Sie an faszinierenden geologischen Wundern und sanften Buchten vorbei. Der Mittag navigiert Sie in den belebten alten Hafen. Der Nachmittag weht Sie zu den ruhigeren Ostküsten hinaus. Der Abend bietet einen ruhigen Ausklang an der Küste.",
+        "hu": "A délelőtti kerékpározás lenyűgöző geológiai csodák és csendes öblök mellett vezet el. A délidő a nyüzsgő régi kikötőbe és a nevezetességekhez irányít. A délutáni szellő a csendesebb keleti partok felé visz. Az este nyugodt tengerparti levezetést ígér.",
+        "ro": "Dimineața pedalați pe lângă minuni geologice izbitoare și golfuri line. Amiaza navighează în vechiul port plin de viață și repere iconice. După-amiaza vă poartă spre țărmurile mai liniștite din est. Seara oferă o relaxare liniștită pe coastă.",
+        "en": "Morning pedals you past striking geological wonders and smooth bays. Midday navigates into the bustling old port and iconic landmarks. Afternoon breezes out toward the quieter eastern shores. Evening provides a tranquil coastal wind-down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tourkou Ammos Strand",
+            "hu": "Tourkou Ammos Strand",
+            "ro": "Plaja Tourkou Ammos",
+            "en": "Tourkou Ammos Beach"
+          },
+          "coords": [
+            25.232519,
+            37.144118
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe dieser abgelegenen nördlichen Bucht mit unberührtem Wasser und bringen Sie unbedingt alle nötigen Snacks und Getränke mit.",
+            "hu": "Parkoljon le a kristálytiszta vizű, eldugott északi öböl közelében, és mindenképpen vigyen magával elegendő frissítőt és harapnivalót.",
+            "ro": "Parcați-vă mașina lângă acest golf nordic izolat, cu ape imaculate, și asigurați-vă că aduceți cu voi toate gustările și băuturile necesare.",
+            "en": "Park your car near this secluded northern bay characterized by pristine waters, and make sure to bring all your necessary snacks and drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Crique Bucht",
+            "hu": "Crique-öböl",
+            "ro": "Golful Crique",
+            "en": "Crique"
+          },
+          "coords": [
+            25.218955,
+            37.129467
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um diese wilde Felsformation an der Küste zu bewundern, ein verstecktes Juwel, das vorsichtiges Fahren erfordert.",
+            "hu": "Húzódjon félre egy pillanatra, hogy megcsodálja ezt a vad tengerparti sziklaképződményt, amelyhez a keskeny úton óvatos vezetés szükséges.",
+            "ro": "Trageți scurt pe dreapta pentru a admira această formațiune stâncoasă de coastă, o bijuterie ascunsă care necesită prudență pe drumul îngust.",
+            "en": "Pull over briefly to admire this wild coastal rock formation, which is a hidden gem that requires careful maneuvering on the narrow access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.238071,
+            37.124097
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den städtischen Parkplatz für den kurzen Spaziergang zu diesem Wahrzeichen, um den Stress der engen, fußgängerfreundlichen Straßen zu meiden.",
+            "hu": "Használja a fő városi parkolót, és sétáljon fel ehhez a fontos nevezetességhez, hogy elkerülje a szűk, gyalogosokkal teli központ stresszét.",
+            "ro": "Folosiți parcarea municipală pentru a merge spre acest punct de reper, economisind stresul de a naviga prin centrul aglomerat de pietoni.",
+            "en": "Use the main municipal parking to stroll up to this essential landmark, saving you the stress of navigating the tight, pedestrian-heavy center."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm aus der hellenistischen Zeit",
+            "hu": "Hellenisztikus kori torony",
+            "ro": "Turn din perioada elenistică",
+            "en": "Tower of Hellenistic Period"
+          },
+          "coords": [
+            25.256182,
+            37.117221
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden, um diese faszinierenden antiken Ruinen zu untersuchen, und passen Sie auf, da die Parkplätze unmarkiert und begrenzt sind.",
+            "hu": "Vezessen délre, hogy megnézze ezeket a lenyűgöző, tájat uraló ókori romokat, de legyen óvatos, mert a közeli parkolóhelyek jelöletlenek és szűkösek.",
+            "ro": "Conduceți spre sud pentru a examina aceste ruine antice fascinante, având grijă deoarece locurile de parcare din apropiere sunt nemarcate.",
+            "en": "Drive south to examine these fascinating ancient ruins dominating the landscape, taking care as parking spaces nearby are unmarked and limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Oikonomos-Ausgrabungsstätte",
+            "hu": "Oikonomos lelőhely",
+            "ro": "Situl Oikonomos",
+            "en": "Oikonomos site (Paros)"
+          },
+          "coords": [
+            25.264371,
+            37.128282
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt mit der Erkundung dieser bedeutenden historischen Stätte, die Sie am besten am späten Nachmittag ohne die grelle Sonne besuchen.",
+            "hu": "Fejezze be az autózást e jelentős történelmi régészeti lelőhely felfedezésével, amelyet érdemes késő délután, a gyengülő napsütésben meglátogatni.",
+            "ro": "Terminați condusul explorând acest sit arheologic istoric semnificativ, cel mai bine vizitat târziu după-amiaza când soarele intens se estompează.",
+            "en": "End your drive exploring this significant historical archaeological site, best visited late in the afternoon when the intense Mediterranean sun fades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt Sie für einen friedlichen Start zu abgelegenen nördlichen Stränden. Der Mittag bringt Sie zum Hafen, bevor es zu historischen Stätten geht. Der Nachmittag ist der Erkundung antiker Ruinen auf malerischen Straßen gewidmet. Der Abend beschließt Ihre Reise inmitten alter Inselgeschichte.",
+        "hu": "A reggel a félreeső északi strandok felé vezet egy békés kezdéshez. Délben a központi kikötő érintésével halad a történelmi emlékek felé. A délután az ókori romok felfedezésének van szentelve festői utakon. Az utazás szigettörténeti kalandozással zárul az est közeledtével.",
+        "ro": "Dimineața conduceți spre plajele izolate din nord pentru un început pașnic. Amiaza vă lasă în portul central înainte de a merge spre locuri istorice. După-amiaza este dedicată urmăririi ruinelor antice de-a lungul drumurilor. Seara încheie călătoria dumneavoastră în mijlocul istoriei insulare.",
+        "en": "Morning cruises to the secluded northern beaches for a peaceful start. Midday drops you by the iconic central harbor before heading to historical grounds. Afternoon is dedicated to tracing ancient ruins along scenic roads. Evening concludes your journey amidst ancient island history."
+      }
+    }
+  }
+}

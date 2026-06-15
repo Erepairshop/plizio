@@ -1,0 +1,474 @@
+{
+  "city_id": "ustaritz",
+  "anchor": {
+    "name": "Ustaritz",
+    "coords": [
+      -1.4564,
+      43.3994
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.77,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Vincent Church",
+            "hu": "Saint Vincent Church",
+            "ro": "Saint Vincent Church",
+            "en": "Saint Vincent Church"
+          },
+          "coords": [
+            -1.455626,
+            43.398232
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante baskische Architektur der Kirche Saint Vincent, einer ruhigen Oase, wo Sie am schwarzen Brett nach gelegentlichen Chorauftritten Ausschau halten sollten.",
+            "hu": "Csodálja meg a Szent Vince-templom jellegzetes baszk építészetét, amely egy békés lelki menedék, és érdemes a hirdetőtáblán ellenőrizni az esetleges kórusfellépések időpontjait.",
+            "ro": "Admirați arhitectura tradițională bască a bisericii Saint Vincent, un refugiu spiritual liniștit, unde vă recomandăm să verificați panoul informativ pentru concerte corale ocazionale.",
+            "en": "Admire the striking traditional Basque architecture of Saint Vincent Church, a serene spiritual haven where you should check the local notice board for occasional choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Lota",
+            "hu": "Château Lota",
+            "ro": "Château Lota",
+            "en": "Château Lota"
+          },
+          "coords": [
+            -1.455,
+            43.397222
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände des Château Lota, um die aristokratische Vergangenheit von Ustaritz zu verstehen, und denken Sie daran, dass die besten Fotomotive im hinteren Garten liegen.",
+            "hu": "Fedezze fel a Château Lota lenyűgöző birtokát, hogy megértse Ustaritz arisztokratikus múltját, szem előtt tartva, hogy a legjobb fotós szögeket a hátsó kertekben találja meg.",
+            "ro": "Explorați domeniul impresionant de la Château Lota pentru a înțelege trecutul aristocratic al orașului, ținând cont că cele mai bune unghiuri fotografice se găsesc în grădinile din spate.",
+            "en": "Explore the grand grounds of Château Lota to understand Ustaritz's aristocratic past, keeping in mind that the best photographic angles are found by walking around to the rear gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "The Nive River",
+            "hu": "The Nive River",
+            "ro": "The Nive River",
+            "en": "The Nive River"
+          },
+          "coords": [
+            -1.453183,
+            43.397697
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den malerischen Ufern der Nive entlang, um die natürliche Schönheit der Region zu genießen, und tragen Sie bequeme Schuhe für die gut ausgebauten Uferwege.",
+            "hu": "Sétáljon a Nive folyó festői partjain, hogy értékelje a régió természeti szépségét, és feltétlenül hozzon kényelmes cipőt a jól karbantartott parti ösvények kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe malurile pitorești ale râului Nive pentru a aprecia frumusețea naturală a regiunii și purtați încălțăminte comodă pentru a vă bucura de potecile bine întreținute.",
+            "en": "Stroll along the scenic banks of the Nive River to appreciate the region's natural beauty, and bring comfortable walking shoes to fully enjoy the well-maintained riverside pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du couvent des Filles de la Croix",
+            "hu": "Chapelle du couvent des Filles de la Croix",
+            "ro": "Chapelle du couvent des Filles de la Croix",
+            "en": "Chapelle du couvent des Filles de la Croix"
+          },
+          "coords": [
+            -1.457578,
+            43.401573
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Kapelle des Klosters der Kreuztöchter, eine wichtige lokale Kulturerbestätte, an der respektvolles Schweigen von der ansässigen Gemeinschaft sehr geschätzt wird.",
+            "hu": "Fedezze fel a Kereszt Leányai kolostor békés kápolnáját, amely egy fontos helyi örökségi helyszín, és ahol a helyi közösség nagyra értékeli a tiszteletteljes csend betartását.",
+            "ro": "Descoperiți liniștita capelă a mănăstirii Fiicelor Crucii, un important sit de patrimoniu local, unde păstrarea unei tăceri respectuoase este foarte apreciată de comunitatea rezidentă.",
+            "en": "Discover the tranquil Chapelle du couvent des Filles de la Croix, an important local heritage site where maintaining a respectful silence is highly appreciated by the resident community."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Eliza Hegi",
+            "hu": "Chapelle Eliza Hegi",
+            "ro": "Chapelle Eliza Hegi",
+            "en": "Chapelle Eliza Hegi"
+          },
+          "coords": [
+            -1.457237,
+            43.392494
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die malerische Chapelle Eliza Hegi, um die traditionelle ländliche Frömmigkeit zu erleben, und beachten Sie, wie das Nachmittagslicht die historische Fassade beleuchtet.",
+            "hu": "Látogasson el a festői Chapelle Eliza Hegi kápolnához, hogy megtapasztalja a hagyományos vidéki áhítatot, megfigyelve, hogyan világítja meg a kora délutáni fény a bájos történelmi homlokzatot.",
+            "ro": "Vizitați pitoreasca capelă Eliza Hegi pentru a experimenta devoțiunea rurală tradițională, observând cum lumina după-amiezii luminează minunat fațada sa istorică modestă, dar fermecătoare.",
+            "en": "Visit the quaint Chapelle Eliza Hegi to experience traditional rural devotion, noting that early afternoon light beautifully illuminates its modest but charming historic facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Ustaritz mit der markanten Kirche Saint Vincent und einem tiefen Einblick in die lokale Aristokratie im Château Lota.\n\nDie Mittagszeit bietet einen friedlichen Übergang bei einem Spaziergang am Ufer der Nive.\n\nDer Nachmittag ist geprägt von stiller Reflexion im historischen Kloster Filles de la Croix.\n\nGegen Abend endet Ihre kurze Wanderung an der Chapelle Eliza Hegi, die einen perfekten und ruhigen Abschluss Ihrer Tour bildet.",
+        "hu": "A reggel Ustaritz szívében kezdődik a lenyűgöző Szent Vince-templommal és a Château Lota történelmi felfedezésével.\n\nA délidő békés átmenetet kínál, ahogy a Nive folyó nyugtató partján sétál a baszk természetben.\n\nA délután a csendes elmélkedésé a történelmi Kereszt Leányai kolostorban.\n\nAhogy közeledik az este, a rövid gyalogos túra a Chapelle Eliza Hegi kápolnánál ér véget, amely tökéletes, nyugodt befejezést nyújt.",
+        "ro": "Dimineața începe în inima orașului Ustaritz cu impresionanta biserică Saint Vincent și o incursiune istorică la Château Lota.\n\nPrânzul oferă o tranziție pașnică, plimbându-vă pe malurile râului Nive, înconjurați de natura bască.\n\nDupă-amiaza se concentrează pe reflecție la istorica mănăstire Fiicele Crucii.\n\nOdată cu lăsarea serii, scurta drumeție se încheie la Chapelle Eliza Hegi, oferind un final perfect și senin pentru turul pietonal.",
+        "en": "Your morning starts in the heart of Ustaritz with the striking Saint Vincent Church and a deep dive into local aristocracy at Château Lota.\n\nMidday offers a peaceful transition as you walk along the soothing banks of the Nive River, surrounded by Basque nature.\n\nThe afternoon shifts towards quiet reflection at the historic Filles de la Croix convent.\n\nAs evening approaches, your short trek concludes at Chapelle Eliza Hegi, providing a perfect, serene end to your cultural tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 3.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Catherine",
+            "hu": "Chapelle Sainte-Catherine",
+            "ro": "Chapelle Sainte-Catherine",
+            "en": "Chapelle Sainte-Catherine"
+          },
+          "coords": [
+            -1.466957,
+            43.420052
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der malerischen Chapelle Sainte-Catherine, um die friedliche Umgebung zu genießen, und nehmen Sie eine leichte Jacke mit, da die Morgenbrise hier frisch sein kann.",
+            "hu": "Kezdje a napot a festői Chapelle Sainte-Catherine kápolnánál, hogy magába szívja a békés környezetet, és hozzon magával egy vékony kabátot, mert a reggeli szellő itt meglepően hűvös lehet.",
+            "ro": "Începeți ziua la pitoreasca capelă Sainte-Catherine pentru a vă bucura de împrejurimile liniștite și aduceți o jachetă ușoară, deoarece briza dimineții poate fi destul de răcoroasă.",
+            "en": "Start your day at the picturesque Chapelle Sainte-Catherine to take in its peaceful surroundings, and consider bringing a light jacket as the morning breeze here can be surprisingly crisp."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du couvent des Filles de la Croix",
+            "hu": "Chapelle du couvent des Filles de la Croix",
+            "ro": "Chapelle du couvent des Filles de la Croix",
+            "en": "Chapelle du couvent des Filles de la Croix"
+          },
+          "coords": [
+            -1.457578,
+            43.401573
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Kapelle des Klosters der Kreuztöchter, eine wichtige lokale Kulturerbestätte, an der respektvolles Schweigen von der ansässigen Gemeinschaft sehr geschätzt wird.",
+            "hu": "Fedezze fel a Kereszt Leányai kolostor békés kápolnáját, amely egy fontos helyi örökségi helyszín, és ahol a helyi közösség nagyra értékeli a tiszteletteljes csend betartását.",
+            "ro": "Descoperiți liniștita capelă a mănăstirii Fiicelor Crucii, un important sit de patrimoniu local, unde păstrarea unei tăceri respectuoase este foarte apreciată de comunitatea rezidentă.",
+            "en": "Discover the tranquil Chapelle du couvent des Filles de la Croix, an important local heritage site where maintaining a respectful silence is highly appreciated by the resident community."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Vincent Church",
+            "hu": "Saint Vincent Church",
+            "ro": "Saint Vincent Church",
+            "en": "Saint Vincent Church"
+          },
+          "coords": [
+            -1.455626,
+            43.398232
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante baskische Architektur der Kirche Saint Vincent, einer ruhigen Oase, wo Sie am schwarzen Brett nach gelegentlichen Chorauftritten Ausschau halten sollten.",
+            "hu": "Csodálja meg a Szent Vince-templom jellegzetes baszk építészetét, amely egy békés lelki menedék, és érdemes a hirdetőtáblán ellenőrizni az esetleges kórusfellépések időpontjait.",
+            "ro": "Admirați arhitectura tradițională bască a bisericii Saint Vincent, un refugiu spiritual liniștit, unde vă recomandăm să verificați panoul informativ pentru concerte corale ocazionale.",
+            "en": "Admire the striking traditional Basque architecture of Saint Vincent Church, a serene spiritual haven where you should check the local notice board for occasional choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Lota",
+            "hu": "Château Lota",
+            "ro": "Château Lota",
+            "en": "Château Lota"
+          },
+          "coords": [
+            -1.455,
+            43.397222
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände des Château Lota, um die aristokratische Vergangenheit von Ustaritz zu verstehen, und denken Sie daran, dass die besten Fotomotive im hinteren Garten liegen.",
+            "hu": "Fedezze fel a Château Lota lenyűgöző birtokát, hogy megértse Ustaritz arisztokratikus múltját, szem előtt tartva, hogy a legjobb fotós szögeket a hátsó kertekben találja meg.",
+            "ro": "Explorați domeniul impresionant de la Château Lota pentru a înțelege trecutul aristocratic al orașului, ținând cont că cele mai bune unghiuri fotografice se găsesc în grădinile din spate.",
+            "en": "Explore the grand grounds of Château Lota to understand Ustaritz's aristocratic past, keeping in mind that the best photographic angles are found by walking around to the rear gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Haitze",
+            "hu": "Château de Haitze",
+            "ro": "Château de Haitze",
+            "en": "Château de Haitze"
+          },
+          "coords": [
+            -1.462277,
+            43.396172
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Architektur des Château de Haitze, ein Zeugnis des historischen Adels der Stadt, und erkundigen Sie sich vorab im Tourismusbüro nach verfügbaren Führungen.",
+            "hu": "Csodálja meg a Château de Haitze különleges építészetét, amely a város történelmi nemességének bizonyítéka, miközben előzetesen érdeklődik a helyi turisztikai irodában a vezetett túrákról.",
+            "ro": "Admirați arhitectura distinsă a Château de Haitze, o mărturie a nobilimii istorice a orașului, verificând în prealabil la biroul de turism local dacă sunt disponibile tururi ghidate.",
+            "en": "Marvel at the distinguished architecture of Château de Haitze, a testament to the town's historical nobility, while checking the local tourist office for any available guided tours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -1.459385,
+            43.390942
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Finden Sie Einsamkeit in der Chapelle Saint-Michel, einem versteckten Juwel zur stillen Reflexion, und nutzen Sie eine Karte, um die kleinen rustikalen Straßen zu diesem abgelegenen Ort zu navigieren.",
+            "hu": "Keressen nyugalmat a Chapelle Saint-Michel kápolnában, egy rejtett gyöngyszemben, amely csendes elmélkedést kínál, és használjon térképet az ehhez a kissé eldugott helyhez vezető kis rusztikus utak navigálásához.",
+            "ro": "Găsiți solitudinea la capela Saint-Michel, o bijuterie ascunsă ideală pentru reflecție, și folosiți o hartă pentru a naviga pe micile drumuri rustice care duc spre acest loc retras.",
+            "en": "Find solitude at Chapelle Saint-Michel, a hidden gem offering a moment of quiet reflection, and use a map to navigate the small rustic roads leading to this slightly secluded spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer im Norden an der friedlichen Chapelle Sainte-Catherine, bevor Sie zum Kloster Filles de la Croix radeln.\n\nMittags fahren Sie in das lebhafte Zentrum, um die Kirche Saint Vincent und das elegante Château Lota zu erkunden.\n\nAm Nachmittag radeln Sie an malerischen Landschaften vorbei, um die imposante Architektur des Château de Haitze zu entdecken.\n\nDer Abend belohnt Sie mit einer ruhigen Fahrt zur Chapelle Saint-Michel, die den idyllischen ländlichen Charme des Baskenlandes einfängt.",
+        "hu": "Kezdje kerékpáros kalandját az északi peremen a békés Chapelle Sainte-Catherine kápolnánál, mielőtt eltekerne a Kereszt Leányai kolostorhoz.\n\nDélben a nyüzsgő városközpontba érkezik, hogy felfedezze a Szent Vince-templomot és az elegáns Château Lota kastélyt.\n\nDélután festői tájakon keresztül kerékpározik, hogy megtekintse a Château de Haitze impozáns építészetét.\n\nAz este egy csendes utazással jutalmazza a Chapelle Saint-Michel kápolnához, megragadva a baszk vidék idilli varázsát.",
+        "ro": "Începeți aventura pe bicicletă în partea de nord, la liniștita capelă Sainte-Catherine, înainte de a pedala spre mănăstirea Fiicele Crucii.\n\nLa prânz, ajungeți în centrul vibrant pentru a explora biserica Saint Vincent și elegantul Château Lota.\n\nDupă-amiaza, pedalați prin peisaje pitorești pentru a descoperi arhitectura impunătoare a Château de Haitze.\n\nSeara vă răsplătește cu o plimbare liniștită până la capela Saint-Michel, surprinzând farmecul rural idilic al Țării Bascilor.",
+        "en": "Begin your cycling adventure on the northern edge at the peaceful Chapelle Sainte-Catherine before riding down to the Filles de la Croix convent.\n\nBy midday, you are pedaling into the vibrant town center to explore the grand Saint Vincent Church and the elegant Château Lota.\n\nIn the afternoon, cycle past picturesque landscapes to discover the imposing architecture of Château de Haitze.\n\nThe evening rewards you with a quiet ride to Chapelle Saint-Michel, capturing the idyllic rural charm of the Basque country."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Catherine",
+            "hu": "Chapelle Sainte-Catherine",
+            "ro": "Chapelle Sainte-Catherine",
+            "en": "Chapelle Sainte-Catherine"
+          },
+          "coords": [
+            -1.466957,
+            43.420052
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der malerischen Chapelle Sainte-Catherine, um die friedliche Umgebung zu genießen, und nehmen Sie eine leichte Jacke mit, da die Morgenbrise hier frisch sein kann.",
+            "hu": "Kezdje a napot a festői Chapelle Sainte-Catherine kápolnánál, hogy magába szívja a békés környezetet, és hozzon magával egy vékony kabátot, mert a reggeli szellő itt meglepően hűvös lehet.",
+            "ro": "Începeți ziua la pitoreasca capelă Sainte-Catherine pentru a vă bucura de împrejurimile liniștite și aduceți o jachetă ușoară, deoarece briza dimineții poate fi destul de răcoroasă.",
+            "en": "Start your day at the picturesque Chapelle Sainte-Catherine to take in its peaceful surroundings, and consider bringing a light jacket as the morning breeze here can be surprisingly crisp."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du couvent des Filles de la Croix",
+            "hu": "Chapelle du couvent des Filles de la Croix",
+            "ro": "Chapelle du couvent des Filles de la Croix",
+            "en": "Chapelle du couvent des Filles de la Croix"
+          },
+          "coords": [
+            -1.457578,
+            43.401573
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Kapelle des Klosters der Kreuztöchter, eine wichtige lokale Kulturerbestätte, an der respektvolles Schweigen von der ansässigen Gemeinschaft sehr geschätzt wird.",
+            "hu": "Fedezze fel a Kereszt Leányai kolostor békés kápolnáját, amely egy fontos helyi örökségi helyszín, és ahol a helyi közösség nagyra értékeli a tiszteletteljes csend betartását.",
+            "ro": "Descoperiți liniștita capelă a mănăstirii Fiicelor Crucii, un important sit de patrimoniu local, unde păstrarea unei tăceri respectuoase este foarte apreciată de comunitatea rezidentă.",
+            "en": "Discover the tranquil Chapelle du couvent des Filles de la Croix, an important local heritage site where maintaining a respectful silence is highly appreciated by the resident community."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Vincent Church",
+            "hu": "Saint Vincent Church",
+            "ro": "Saint Vincent Church",
+            "en": "Saint Vincent Church"
+          },
+          "coords": [
+            -1.455626,
+            43.398232
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante baskische Architektur der Kirche Saint Vincent, einer ruhigen Oase, wo Sie am schwarzen Brett nach gelegentlichen Chorauftritten Ausschau halten sollten.",
+            "hu": "Csodálja meg a Szent Vince-templom jellegzetes baszk építészetét, amely egy békés lelki menedék, és érdemes a hirdetőtáblán ellenőrizni az esetleges kórusfellépések időpontjait.",
+            "ro": "Admirați arhitectura tradițională bască a bisericii Saint Vincent, un refugiu spiritual liniștit, unde vă recomandăm să verificați panoul informativ pentru concerte corale ocazionale.",
+            "en": "Admire the striking traditional Basque architecture of Saint Vincent Church, a serene spiritual haven where you should check the local notice board for occasional choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Haitze",
+            "hu": "Château de Haitze",
+            "ro": "Château de Haitze",
+            "en": "Château de Haitze"
+          },
+          "coords": [
+            -1.462277,
+            43.396172
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Architektur des Château de Haitze, ein Zeugnis des historischen Adels der Stadt, und erkundigen Sie sich vorab im Tourismusbüro nach verfügbaren Führungen.",
+            "hu": "Csodálja meg a Château de Haitze különleges építészetét, amely a város történelmi nemességének bizonyítéka, miközben előzetesen érdeklődik a helyi turisztikai irodában a vezetett túrákról.",
+            "ro": "Admirați arhitectura distinsă a Château de Haitze, o mărturie a nobilimii istorice a orașului, verificând în prealabil la biroul de turism local dacă sunt disponibile tururi ghidate.",
+            "en": "Marvel at the distinguished architecture of Château de Haitze, a testament to the town's historical nobility, while checking the local tourist office for any available guided tours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -1.459385,
+            43.390942
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Finden Sie Einsamkeit in der Chapelle Saint-Michel, einem versteckten Juwel zur stillen Reflexion, und nutzen Sie eine Karte, um die kleinen rustikalen Straßen zu diesem abgelegenen Ort zu navigieren.",
+            "hu": "Keressen nyugalmat a Chapelle Saint-Michel kápolnában, egy rejtett gyöngyszemben, amely csendes elmélkedést kínál, és használjon térképet az ehhez a kissé eldugott helyhez vezető kis rusztikus utak navigálásához.",
+            "ro": "Găsiți solitudinea la capela Saint-Michel, o bijuterie ascunsă ideală pentru reflecție, și folosiți o hartă pentru a naviga pe micile drumuri rustice care duc spre acest loc retras.",
+            "en": "Find solitude at Chapelle Saint-Michel, a hidden gem offering a moment of quiet reflection, and use a map to navigate the small rustic roads leading to this slightly secluded spot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Nive River",
+            "hu": "The Nive River",
+            "ro": "The Nive River",
+            "en": "The Nive River"
+          },
+          "coords": [
+            -1.453183,
+            43.397697
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den malerischen Ufern der Nive entlang, um die natürliche Schönheit der Region zu genießen, und tragen Sie bequeme Schuhe für die gut ausgebauten Uferwege.",
+            "hu": "Sétáljon a Nive folyó festői partjain, hogy értékelje a régió természeti szépségét, és feltétlenül hozzon kényelmes cipőt a jól karbantartott parti ösvények kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe malurile pitorești ale râului Nive pentru a aprecia frumusețea naturală a regiunii și purtați încălțăminte comodă pentru a vă bucura de potecile bine întreținute.",
+            "en": "Stroll along the scenic banks of the Nive River to appreciate the region's natural beauty, and bring comfortable walking shoes to fully enjoy the well-maintained riverside pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de ville",
+            "hu": "Hôtel de ville",
+            "ro": "Hôtel de ville",
+            "en": "Hôtel de ville"
+          },
+          "coords": [
+            -1.428426,
+            43.38853
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch am Hôtel de ville, um dessen administrative Pracht zu bewundern, und nehmen Sie sich Zeit, die Informationstafeln zur reichen Stadtgeschichte von Ustaritz zu lesen.",
+            "hu": "Zárja látogatását a városházánál, hogy megcsodálja közigazgatási nagyszerűségét, és mindenképpen szánjon időt az Ustaritz gazdag történetét részletező információs táblák elolvasására.",
+            "ro": "Încheiați vizita la Primărie pentru a admira grandoarea sa administrativă, asigurându-vă că citiți plăcile informative care detaliază bogata istorie municipală a orașului Ustaritz.",
+            "en": "Conclude your visit at the Hôtel de ville to admire its administrative grandeur, ensuring you take a moment to read the informational plaques detailing Ustaritz's rich municipal history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre umfassende Autotour an der ruhigen Chapelle Sainte-Catherine und fahren Sie nahtlos zum historischen Kloster Filles de la Croix.\n\nGegen Mittag parken Sie im Zentrum, um die Kirche Saint Vincent und das große Château de Haitze bequem zu besuchen.\n\nDer Nachmittag führt Sie auf einer malerischen Fahrt zur abgelegenen Chapelle Saint-Michel und entlang der wunderschönen Nive.\n\nIhr Tag endet elegant am zentralen Hôtel de ville und bietet einen kompletten Überblick über das Erbe von Ustaritz.",
+        "hu": "Kezdje átfogó autós túráját a nyugodt Chapelle Sainte-Catherine kápolnánál, majd zökkenőmentesen haladjon a történelmi Kereszt Leányai kolostorhoz.\n\nDél közeledtével parkoljon le a központban, hogy kényelmesen meglátogassa a Szent Vince-templomot és a hatalmas Château de Haitze kastélyt.\n\nA délután egy festői autózásra viszi az eldugott Chapelle Saint-Michelhez és a gyönyörű Nive folyó mentén.\n\nA nap elegánsan zárul a központi városházánál, teljes áttekintést nyújtva Ustaritz kulturális örökségéről.",
+        "ro": "Începeți turul cuprinzător cu mașina la liniștita capelă Sainte-Catherine, continuând cu istorica mănăstire Fiicele Crucii.\n\nPe măsură ce se apropie prânzul, parcați în centru pentru a vizita confortabil biserica Saint Vincent și impresionantul Château de Haitze.\n\nDupă-amiaza vă poartă într-o plimbare pitorească spre retrasa capelă Saint-Michel și de-a lungul frumosului râu Nive.\n\nZiua se încheie elegant la Primăria centrală, oferind o imagine completă a patrimoniului civic și cultural din Ustaritz.",
+        "en": "Start your comprehensive driving tour at the tranquil Chapelle Sainte-Catherine, smoothly connecting to the historic Filles de la Croix convent.\n\nAs midday approaches, park in the center to comfortably visit the striking Saint Vincent Church and the grand Château de Haitze.\n\nThe afternoon takes you on a scenic drive to the secluded Chapelle Saint-Michel and along the beautiful Nive River.\n\nYour day gracefully concludes at the central Hôtel de ville, offering a complete overview of Ustaritz's civic and cultural heritage."
+      }
+    }
+  }
+}

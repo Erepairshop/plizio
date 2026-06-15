@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-carreco-cities-v2",
+  "anchor": {
+    "name": "Carreço",
+    "coords": [
+      -8.86226,
+      41.74863
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro da Corôa",
+            "hu": "Castro da Corôa",
+            "ro": "Castro da Corôa",
+            "en": "Castro da Corôa"
+          },
+          "coords": [
+            -8.858718,
+            41.749394
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Siedlung aus der Eisenzeit, um Portugals tiefe Geschichte zu entdecken; tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt az ősi vaskori települést, hogy megismerje Portugália mély történelmét, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați această așezare antică din Epoca Fierului pentru a descoperi istoria profundă a Portugaliei, purtând încălțăminte robustă pentru teren.",
+            "en": "Explore this ancient Iron Age settlement to uncover Portugal's deep history, making sure to wear sturdy shoes for the uneven, unpaved terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol de Montedor",
+            "hu": "Farol de Montedor",
+            "ro": "Farol de Montedor",
+            "en": "Farol de Montedor"
+          },
+          "coords": [
+            -8.873491,
+            41.751082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den nördlichsten Leuchtturm Portugals mit weitem Küstenblick, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Csodálja meg Portugália legészakibb világítótornyát a pazar tengerparti kilátásért, de hozzon széldzsekit, mert az óceáni szellő itt elég erős.",
+            "ro": "Admirați cel mai nordic far din Portugalia pentru priveliști de coastă uimitoare, dar luați o geacă de vânt deoarece briza oceanului e puternică.",
+            "en": "Admire the northernmost lighthouse of Portugal for sweeping coastal views, but bring a windbreaker as the ocean breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravuras Rupestres da Fraga da Bica",
+            "hu": "Gravuras Rupestres da Fraga da Bica",
+            "ro": "Gravuras Rupestres da Fraga da Bica",
+            "en": "Gravuras Rupestres da Fraga da Bica"
+          },
+          "coords": [
+            -8.873631,
+            41.749112
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese prähistorischen Felszeichnungen genau, um antike Kunst zu erleben, am besten sichtbar bei schräg einfallendem Sonnenlicht.",
+            "hu": "Vizsgálja meg közelebbről ezeket a rejtélyes történelem előtti sziklarajzokat, amelyeket a legjobban az oldalsó, súroló napfényben lehet látni.",
+            "ro": "Examinați de aproape aceste sculpturi în stâncă preistorice misterioase, având în vedere că sunt cel mai bine vizibile în lumina oblică a soarelui.",
+            "en": "Examine these mysterious prehistoric rock carvings closely to connect with ancient artistry, keeping in mind that they are best seen in slanted light."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinhos de Montedor",
+            "hu": "Moinhos de Montedor",
+            "ro": "Moinhos de Montedor",
+            "en": "Moinhos de Montedor"
+          },
+          "coords": [
+            -8.876031,
+            41.74892
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese wunderschön restaurierten traditionellen Windmühlen und fotografieren Sie vom Hügel aus für den besten Panoramablick.",
+            "hu": "Csodálja meg ezeket a gyönyörűen felújított hagyományos szélmalmokat, és készítsen fotókat a dombról a legjobb panoráma szög eléréséhez.",
+            "ro": "Admirați aceste mori de vânt tradiționale frumos restaurate care simbolizează moștenirea locală, făcând fotografii de pe deal pentru panoramă.",
+            "en": "Marvel at these beautifully restored traditional windmills that symbolize local heritage, taking photos from the hill for the best panoramic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravuras rupestres de Fornelos",
+            "hu": "Gravuras rupestres de Fornelos",
+            "ro": "Gravuras rupestres de Fornelos",
+            "en": "Gravuras rupestres de Fornelos"
+          },
+          "coords": [
+            -8.877096,
+            41.747008
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie weitere antike Petroglyphen in der Landschaft, um Ihre historische Tour abzuschließen, auch wenn einige schwer zu erkennen sind.",
+            "hu": "Fedezzen fel további ősi petroglifákat a tájon szétszórva, bár némelyikük megtalálásához némi türelemre van szükség a sziklákon.",
+            "ro": "Descoperiți mai multe petroglife antice împrăștiate în peisaj, deși unele necesită răbdare pentru a fi observate clar pe stânci.",
+            "en": "Discover more ancient petroglyphs scattered across the landscape to complete your historical tour, though some require patience to spot on the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Carreço",
+            "hu": "Praia de Carreço",
+            "ro": "Praia de Carreço",
+            "en": "Praia de Carreço"
+          },
+          "coords": [
+            -8.874535,
+            41.737174
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten Sandstrand mit klarem Wasser und kommen Sie früh, um sich einen guten Platz in der Nähe der Felsenpools zu sichern.",
+            "hu": "Pihenjen ezen a lenyűgöző, védett homokos strandon, tiszta vízzel, és érkezzen korán, ha jó helyet szeretne a sziklás medencék közelében.",
+            "ro": "Relaxați-vă pe această plajă uimitoare și ferită de vânt, cu ape limpezi, și sosiți devreme pentru a prinde un loc bun lângă bazinele naturale.",
+            "en": "Relax on this stunning, sheltered sandy beach that boasts clear waters, and arrive early if you want to secure a prime spot near the rock pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des antiken Castro da Corôa. Mittags schlendern Sie am legendären Farol de Montedor vorbei und betrachten die mysteriösen prähistorischen Felszeichnungen. Der Nachmittag lädt dazu ein, die traditionellen Montedor-Windmühlen zu bewundern. Beenden Sie Ihren Tag entspannt an der Praia de Carreço, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt az ősi Castro da Corôa felfedezésével, átérezve a vaskori történelem súlyát. Délben sétáljon el a Farol de Montedor mellett, és tanulmányozza a rejtélyes sziklarajzokat. A délután folyamán csodálja meg a hagyományos szélmalmokat és az ősi petroglifákat. Fejezze be a napot a Praia de Carreço strandon pihenve a naplemente alatt.",
+        "ro": "Începeți dimineața explorând anticul Castro da Corôa, simțind greutatea istoriei Epocii Fierului. La amiază, plimbați-vă pe lângă Farol de Montedor și descoperiți misterioasele sculpturi în stâncă. După-amiaza vă invită să admirați morile de vânt tradiționale Montedor. Încheiați-vă ziua relaxându-vă la Praia de Carreço în timp ce soarele apune.",
+        "en": "Start your morning exploring the ancient Castro da Corôa, feeling the weight of Iron Age history. By midday, wander past the iconic Farol de Montedor and trace the mysterious prehistoric rock carvings. The afternoon invites you to admire the traditional Montedor windmills and more ancient petroglyphs. Finish your day relaxing at Praia de Carreço as the sun sets over the ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro da Corôa",
+            "hu": "Castro da Corôa",
+            "ro": "Castro da Corôa",
+            "en": "Castro da Corôa"
+          },
+          "coords": [
+            -8.858718,
+            41.749394
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Siedlung aus der Eisenzeit, um Portugals tiefe Geschichte zu entdecken; tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt az ősi vaskori települést, hogy megismerje Portugália mély történelmét, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați această așezare antică din Epoca Fierului pentru a descoperi istoria profundă a Portugaliei, purtând încălțăminte robustă pentru teren.",
+            "en": "Explore this ancient Iron Age settlement to uncover Portugal's deep history, making sure to wear sturdy shoes for the uneven, unpaved terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol de Montedor",
+            "hu": "Farol de Montedor",
+            "ro": "Farol de Montedor",
+            "en": "Farol de Montedor"
+          },
+          "coords": [
+            -8.873491,
+            41.751082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den nördlichsten Leuchtturm Portugals mit weitem Küstenblick, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Csodálja meg Portugália legészakibb világítótornyát a pazar tengerparti kilátásért, de hozzon széldzsekit, mert az óceáni szellő itt elég erős.",
+            "ro": "Admirați cel mai nordic far din Portugalia pentru priveliști de coastă uimitoare, dar luați o geacă de vânt deoarece briza oceanului e puternică.",
+            "en": "Admire the northernmost lighthouse of Portugal for sweeping coastal views, but bring a windbreaker as the ocean breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravuras Rupestres da Fraga da Bica",
+            "hu": "Gravuras Rupestres da Fraga da Bica",
+            "ro": "Gravuras Rupestres da Fraga da Bica",
+            "en": "Gravuras Rupestres da Fraga da Bica"
+          },
+          "coords": [
+            -8.873631,
+            41.749112
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese prähistorischen Felszeichnungen genau, um antike Kunst zu erleben, am besten sichtbar bei schräg einfallendem Sonnenlicht.",
+            "hu": "Vizsgálja meg közelebbről ezeket a rejtélyes történelem előtti sziklarajzokat, amelyeket a legjobban az oldalsó, súroló napfényben lehet látni.",
+            "ro": "Examinați de aproape aceste sculpturi în stâncă preistorice misterioase, având în vedere că sunt cel mai bine vizibile în lumina oblică a soarelui.",
+            "en": "Examine these mysterious prehistoric rock carvings closely to connect with ancient artistry, keeping in mind that they are best seen in slanted light."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinhos de Montedor",
+            "hu": "Moinhos de Montedor",
+            "ro": "Moinhos de Montedor",
+            "en": "Moinhos de Montedor"
+          },
+          "coords": [
+            -8.876031,
+            41.74892
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese wunderschön restaurierten traditionellen Windmühlen und fotografieren Sie vom Hügel aus für den besten Panoramablick.",
+            "hu": "Csodálja meg ezeket a gyönyörűen felújított hagyományos szélmalmokat, és készítsen fotókat a dombról a legjobb panoráma szög eléréséhez.",
+            "ro": "Admirați aceste mori de vânt tradiționale frumos restaurate care simbolizează moștenirea locală, făcând fotografii de pe deal pentru panoramă.",
+            "en": "Marvel at these beautifully restored traditional windmills that symbolize local heritage, taking photos from the hill for the best panoramic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Paçô",
+            "hu": "Forte Paçô",
+            "ro": "Forte Paçô",
+            "en": "Forte Paçô"
+          },
+          "coords": [
+            -8.876501,
+            41.758838
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Küstenverteidigungsanlage aus dem 18. Jahrhundert, aber seien Sie beim Gehen vorsichtig wegen der bröckelnden Mauern.",
+            "hu": "Fedezze fel ezt a 18. századi tengerparti erődöt, hogy megértse a tengeri történelmet, de vigyázzon az omladozó kőfalakra séta közben.",
+            "ro": "Explorați ruinele acestui fort de apărare de coastă din secolul 18 pentru a înțelege istoria maritimă, având grijă la zidurile de piatră surpate.",
+            "en": "Explore the ruins of this 18th-century coastal defense fort to understand maritime history, being careful of the crumbling stone walls while walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Paçô",
+            "hu": "Praia de Paçô",
+            "ro": "Praia de Paçô",
+            "en": "Praia de Paçô"
+          },
+          "coords": [
+            -8.877544,
+            41.758656
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang entlang dieses ruhigen Strandes, packen Sie jedoch eigene Snacks ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Élvezze a békés sétát ennek a csendes, festői strandnak a partján, de csomagoljon saját harapnivalót, mivel a közeli lehetőségek korlátozottak.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe țărmul acestei plaje pitorești, luând propriile gustări deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Enjoy a peaceful walk along the shoreline of this quiet, picturesque beach, packing your own snacks as nearby amenities are somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Carreço",
+            "hu": "Praia de Carreço",
+            "ro": "Praia de Carreço",
+            "en": "Praia de Carreço"
+          },
+          "coords": [
+            -8.874535,
+            41.737174
+          ],
+          "category": "recreational",
+          "arrive_at": "15:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten Sandstrand mit klarem Wasser und kommen Sie früh, um sich einen guten Platz in der Nähe der Felsenpools zu sichern.",
+            "hu": "Pihenjen ezen a lenyűgöző, védett homokos strandon, tiszta vízzel, és érkezzen korán, ha jó helyet szeretne a sziklás medencék közelében.",
+            "ro": "Relaxați-vă pe această plajă uimitoare și ferită de vânt, cu ape limpezi, și sosiți devreme pentru a prinde un loc bun lângă bazinele naturale.",
+            "en": "Relax on this stunning, sheltered sandy beach that boasts clear waters, and arrive early if you want to secure a prime spot near the rock pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Castro da Corôa in einen geschichtsträchtigen Morgen am Leuchtturm von Montedor. Der Mittag bringt eine faszinierende Fahrt vorbei an den Fraga da Bica Felszeichnungen. Am Nachmittag radeln Sie nach Norden, um die Ruinen von Forte Paçô zu erkunden. Beenden Sie Ihre aktive Reise mit einer Fahrt in den Süden zur wunderschönen Praia de Carreço.",
+        "hu": "Tekerjen el a Castro da Corôa-tól egy történelemmel átitatott délelőttre a Montedor világítótoronyhoz. A dél lenyűgöző utat hoz a Fraga da Bica sziklarajzai és a történelmi szélmalmok mellett. Délután kerékpározzon északra, hogy felfedezze a Forte Paçô romjait. Zárja aktív utazását délre haladva, hogy a gyönyörű Praia de Carreço strandon lazítson.",
+        "ro": "Pedalați de la Castro da Corôa într-o dimineață plină de istorie la farul Montedor. Amiaza aduce o plimbare fascinantă pe lângă sculpturile în stâncă Fraga da Bica. După-amiaza, mergeți spre nord pentru a explora ruinele Forte Paçô și pitoreasca Praia de Paçô. Încheiați-vă călătoria activă mergând spre sud pentru a vă relaxa la Praia de Carreço.",
+        "en": "Pedal away from Castro da Corôa into a morning steeped in history by the Montedor lighthouse. Midday brings a fascinating ride past the Fraga da Bica rock carvings and historic windmills. In the afternoon, cycle north to explore the ruins of Forte Paçô and the scenic Praia de Paçô. Conclude your active journey riding south to unwind at the beautiful Praia de Carreço."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 5.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro da Corôa",
+            "hu": "Castro da Corôa",
+            "ro": "Castro da Corôa",
+            "en": "Castro da Corôa"
+          },
+          "coords": [
+            -8.858718,
+            41.749394
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Siedlung aus der Eisenzeit, um Portugals tiefe Geschichte zu entdecken; tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt az ősi vaskori települést, hogy megismerje Portugália mély történelmét, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Explorați această așezare antică din Epoca Fierului pentru a descoperi istoria profundă a Portugaliei, purtând încălțăminte robustă pentru teren.",
+            "en": "Explore this ancient Iron Age settlement to uncover Portugal's deep history, making sure to wear sturdy shoes for the uneven, unpaved terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol de Montedor",
+            "hu": "Farol de Montedor",
+            "ro": "Farol de Montedor",
+            "en": "Farol de Montedor"
+          },
+          "coords": [
+            -8.873491,
+            41.751082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den nördlichsten Leuchtturm Portugals mit weitem Küstenblick, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Csodálja meg Portugália legészakibb világítótornyát a pazar tengerparti kilátásért, de hozzon széldzsekit, mert az óceáni szellő itt elég erős.",
+            "ro": "Admirați cel mai nordic far din Portugalia pentru priveliști de coastă uimitoare, dar luați o geacă de vânt deoarece briza oceanului e puternică.",
+            "en": "Admire the northernmost lighthouse of Portugal for sweeping coastal views, but bring a windbreaker as the ocean breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravuras Rupestres da Fraga da Bica",
+            "hu": "Gravuras Rupestres da Fraga da Bica",
+            "ro": "Gravuras Rupestres da Fraga da Bica",
+            "en": "Gravuras Rupestres da Fraga da Bica"
+          },
+          "coords": [
+            -8.873631,
+            41.749112
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese prähistorischen Felszeichnungen genau, um antike Kunst zu erleben, am besten sichtbar bei schräg einfallendem Sonnenlicht.",
+            "hu": "Vizsgálja meg közelebbről ezeket a rejtélyes történelem előtti sziklarajzokat, amelyeket a legjobban az oldalsó, súroló napfényben lehet látni.",
+            "ro": "Examinați de aproape aceste sculpturi în stâncă preistorice misterioase, având în vedere că sunt cel mai bine vizibile în lumina oblică a soarelui.",
+            "en": "Examine these mysterious prehistoric rock carvings closely to connect with ancient artistry, keeping in mind that they are best seen in slanted light."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinhos de Montedor",
+            "hu": "Moinhos de Montedor",
+            "ro": "Moinhos de Montedor",
+            "en": "Moinhos de Montedor"
+          },
+          "coords": [
+            -8.876031,
+            41.74892
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese wunderschön restaurierten traditionellen Windmühlen und fotografieren Sie vom Hügel aus für den besten Panoramablick.",
+            "hu": "Csodálja meg ezeket a gyönyörűen felújított hagyományos szélmalmokat, és készítsen fotókat a dombról a legjobb panoráma szög eléréséhez.",
+            "ro": "Admirați aceste mori de vânt tradiționale frumos restaurate care simbolizează moștenirea locală, făcând fotografii de pe deal pentru panoramă.",
+            "en": "Marvel at these beautifully restored traditional windmills that symbolize local heritage, taking photos from the hill for the best panoramic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravuras rupestres de Fornelos",
+            "hu": "Gravuras rupestres de Fornelos",
+            "ro": "Gravuras rupestres de Fornelos",
+            "en": "Gravuras rupestres de Fornelos"
+          },
+          "coords": [
+            -8.877096,
+            41.747008
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie weitere antike Petroglyphen in der Landschaft, um Ihre historische Tour abzuschließen, auch wenn einige schwer zu erkennen sind.",
+            "hu": "Fedezzen fel további ősi petroglifákat a tájon szétszórva, bár némelyikük megtalálásához némi türelemre van szükség a sziklákon.",
+            "ro": "Descoperiți mai multe petroglife antice împrăștiate în peisaj, deși unele necesită răbdare pentru a fi observate clar pe stânci.",
+            "en": "Discover more ancient petroglyphs scattered across the landscape to complete your historical tour, though some require patience to spot on the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Carreço",
+            "hu": "Praia de Carreço",
+            "ro": "Praia de Carreço",
+            "en": "Praia de Carreço"
+          },
+          "coords": [
+            -8.874535,
+            41.737174
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten Sandstrand mit klarem Wasser und kommen Sie früh, um sich einen guten Platz in der Nähe der Felsenpools zu sichern.",
+            "hu": "Pihenjen ezen a lenyűgöző, védett homokos strandon, tiszta vízzel, és érkezzen korán, ha jó helyet szeretne a sziklás medencék közelében.",
+            "ro": "Relaxați-vă pe această plajă uimitoare și ferită de vânt, cu ape limpezi, și sosiți devreme pentru a prinde un loc bun lângă bazinele naturale.",
+            "en": "Relax on this stunning, sheltered sandy beach that boasts clear waters, and arrive early if you want to secure a prime spot near the rock pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Paçô",
+            "hu": "Praia de Paçô",
+            "ro": "Praia de Paçô",
+            "en": "Praia de Paçô"
+          },
+          "coords": [
+            -8.877544,
+            41.758656
+          ],
+          "category": "recreational",
+          "arrive_at": "16:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang entlang dieses ruhigen Strandes, packen Sie jedoch eigene Snacks ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Élvezze a békés sétát ennek a csendes, festői strandnak a partján, de csomagoljon saját harapnivalót, mivel a közeli lehetőségek korlátozottak.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe țărmul acestei plaje pitorești, luând propriile gustări deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Enjoy a peaceful walk along the shoreline of this quiet, picturesque beach, packing your own snacks as nearby amenities are somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Paçô",
+            "hu": "Forte Paçô",
+            "ro": "Forte Paçô",
+            "en": "Forte Paçô"
+          },
+          "coords": [
+            -8.876501,
+            41.758838
+          ],
+          "category": "landmark",
+          "arrive_at": "17:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Küstenverteidigungsanlage aus dem 18. Jahrhundert, aber seien Sie beim Gehen vorsichtig wegen der bröckelnden Mauern.",
+            "hu": "Fedezze fel ezt a 18. századi tengerparti erődöt, hogy megértse a tengeri történelmet, de vigyázzon az omladozó kőfalakra séta közben.",
+            "ro": "Explorați ruinele acestui fort de apărare de coastă din secolul 18 pentru a înțelege istoria maritimă, având grijă la zidurile de piatră surpate.",
+            "en": "Explore the ruins of this 18th-century coastal defense fort to understand maritime history, being careful of the crumbling stone walls while walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Castro da Corôa, um Ihren Tag mit atemberaubendem historischem Kontext zu beginnen. Mittags verbinden Sie den Leuchtturm von Montedor, prähistorische Felskunst und traditionelle Windmühlen. Verbringen Sie den Nachmittag damit, weitere Petroglyphen zu entdecken und sich an der Praia de Carreço zu entspannen. Abends fahren Sie die Küste hinauf zum Forte Paçô.",
+        "hu": "Vezessen az ősi Castro da Corôa-hoz, hogy lélegzetelállító történelmi kontextussal kezdje a napot. Délben kösse össze a Montedor világítótornyot, az őskori sziklaművészetet és a hagyományos szélmalmokat. A délutánt töltse további petroglifák felfedezésével és a Praia de Carreço-n való pihenéssel. Este hajtson fel a parton, hogy megtapasztalja a Forte Paçô szépségét.",
+        "ro": "Conduceți la anticul Castro da Corôa pentru a vă începe ziua cu un context istoric uluitor. La amiază, vizitați farul Montedor, arta rupestră preistorică și morile de vânt tradiționale. Petreceți după-amiaza descoperind mai multe petroglife și relaxându-vă la Praia de Carreço. Seara, conduceți pe coastă pentru a experimenta frumusețea aspră a Forte Paçô.",
+        "en": "Drive to the ancient Castro da Corôa to start your day with breathtaking historical context. By midday, seamlessly connect the Montedor lighthouse, prehistoric rock art, and traditional windmills. Spend the afternoon uncovering more ancient petroglyphs and relaxing at Praia de Carreço. In the evening, drive up the coast to experience the rugged beauty of Forte Paçô at sunset."
+      }
+    }
+  }
+}

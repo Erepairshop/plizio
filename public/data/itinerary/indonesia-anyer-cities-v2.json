@@ -1,0 +1,474 @@
+{
+  "city_id": "indonesia-anyer-cities-v2",
+  "anchor": {
+    "name": "Anyer",
+    "coords": [
+      105.920732,
+      -6.064128
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musholla Baiturrohman",
+            "hu": "Musholla Baiturrohman",
+            "ro": "Musholla Baiturrohman",
+            "en": "Musholla Baiturrohman"
+          },
+          "coords": [
+            105.896545,
+            -6.067681
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem bescheidenen Gebetsraum, der den lokalen Gemeinschaftsgeist widerspiegelt, und ziehen Sie unbedingt Ihre Schuhe aus.",
+            "hu": "Kezdje a reggelt ebben a szerény imateremben, amely a helyi közösségi szellemet tükrözi, és ne felejtse el levenni a cipőjét, mielőtt belépne a szentélybe.",
+            "ro": "Începeți dimineața la această sală modestă de rugăciune ce reflectă spiritul comunității locale, având grijă să vă descălțați înainte de a păși înăuntru.",
+            "en": "Start your morning at this modest neighborhood prayer hall that reflects the local community spirit, making sure to remove your shoes before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Iman",
+            "hu": "Masjid Nurul Iman",
+            "ro": "Masjid Nurul Iman",
+            "en": "Masjid Nurul Iman"
+          },
+          "coords": [
+            105.898308,
+            -6.066204
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser Moschee als Symbol des Glaubens und denken Sie daran, sich bescheiden zu kleiden, wenn Sie sie besichtigen.",
+            "hu": "Csodálja meg a mecset békés építészetét, a környék hitvallásának szimbólumát, és ne feledjen visszafogottan öltözni, ha közelebbről szeretné megfigyelni.",
+            "ro": "Admirați arhitectura pașnică a acestei moschei, un simbol al credinței, și amintiți-vă să vă îmbrăcați modest dacă intenționați să o observați de aproape.",
+            "en": "Admire the peaceful architecture of this mosque, a symbol of faith for the neighborhood, and remember to dress modestly if you plan to observe from nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "SUMUR AGUNG",
+            "hu": "SUMUR AGUNG",
+            "ro": "SUMUR AGUNG",
+            "en": "SUMUR AGUNG"
+          },
+          "coords": [
+            105.901297,
+            -6.066149
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Brunnen, der als lebenswichtige Wasserquelle diente, und bringen Sie eine Kamera mit, um das alte Mauerwerk festzuhalten.",
+            "hu": "Fedezze fel ezt a történelmi kutat, amely a korai telepesek létfontosságú vízforrásaként szolgált, és hozzon magával fényképezőgépet a falazat megörökítéséhez.",
+            "ro": "Descoperiți această fântână istorică ce a servit drept sursă vitală de apă pentru primii coloniști și aduceți un aparat foto pentru a surprinde zidăria antică.",
+            "en": "Discover this historical grand well that served as a vital water source for early settlers, and bring a camera to capture the authentic ancient masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Assyauroh",
+            "hu": "Masjid Assyauroh",
+            "ro": "Masjid Assyauroh",
+            "en": "Masjid Assyauroh"
+          },
+          "coords": [
+            105.900397,
+            -6.065612
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der ruhigen Besinnung in dieser charmanten lokalen Moschee, beachten Sie die Holzarbeiten und respektieren Sie die Gebetszeiten.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a bájos helyi mecsetben, figyelembe véve a bonyolult fafaragásokat, és tisztelje a napi imaidőpontokat.",
+            "ro": "Acordați-vă un moment de reflecție liniștită la această moschee fermecătoare, remarcând detaliile din lemn și respectând orele de rugăciune în curs.",
+            "en": "Take a moment of quiet reflection at this charming local mosque, noting the intricate woodwork details, and be respectful of the ongoing prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla Al Barokah",
+            "hu": "Musholla Al Barokah",
+            "ro": "Musholla Al Barokah",
+            "en": "Musholla Al Barokah"
+          },
+          "coords": [
+            105.902639,
+            -6.064098
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser ruhigen Gemeinschaftsmusholla, einem perfekten Ort, um das tägliche spirituelle Leben kennenzulernen; seien Sie leise.",
+            "hu": "Fejezze be sétáját ennél a békés közösségi mushollánál, amely tökéletes hely a napi spirituális élet megértéséhez, ügyelve arra, hogy csendben maradjon.",
+            "ro": "Încheiați plimbarea la această musholla comunitară senină, un loc perfect pentru a înțelege viața spirituală, asigurându-vă că păstrați liniștea deplină.",
+            "en": "Conclude your walk at this serene community musholla, a perfect spot to understand daily spiritual life, while making sure to keep noise levels down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im ruhigen südwestlichen Viertel und erkunden Sie bescheidene Gebetsräume, die das Herz der Gemeinde bilden.\n\nGehen Sie weiter zum historischen Brunnen SUMUR AGUNG, bevor Sie sich ausruhen und den lokalen Glauben an der Masjid Assyauroh beobachten.\n\nDer Nachmittag lädt zu einem gemütlichen Spaziergang zu den nahe gelegenen religiösen Stätten ein, bei dem Sie die ruhige Atmosphäre genießen.\n\nBeenden Sie Ihren kulturellen Spaziergang an der Musholla Al Barokah in der goldenen Stunde und denken Sie über den friedlichen Lebensrhythmus nach.",
+        "hu": "Kezdje sétáját a csendes délnyugati negyedben, felfedezve azokat a szerény imatereket, amelyek a helyi közösség alapját jelentik.\n\nFolytassa útját a történelmi SUMUR AGUNG kúthoz, a múlt egy fontos műemlékéhez, mielőtt megpihenne a Masjid Assyauroh mecsetnél.\n\nA délután egy kényelmes sétára csábít a közeli vallási nevezetességek körül, befogadva a nyugodt lakóövezeti hangulatot és a barátságos mosolyokat.\n\nFejezze be kulturális sétáját a Musholla Al Barokah-nál az aranyórában, elgondolkodva az anyeri mindennapi élet békés spirituális ritmusán.",
+        "ro": "Începeți plimbarea în cartierul liniștit din sud-vest, explorând spații modeste de rugăciune care reprezintă inima acestei comunități locale.\n\nContinuați spre fântâna istorică SUMUR AGUNG, un monument vital al trecutului, înainte de a vă odihni picioarele la liniștita Masjid Assyauroh.\n\nDupă-amiaza invită la o plimbare relaxantă pe lângă reperele religioase din apropiere, absorbind atmosfera rezidențială senină și zâmbetele calde.\n\nÎncheiați plimbarea culturală la Musholla Al Barokah în lumina apusului, reflectând asupra ritmului spiritual pașnic al vieții de zi cu zi din Anyer.",
+        "en": "Start your walking tour in the quiet southwestern neighborhood, exploring humble prayer spaces like Musholla Baiturrohman that ground the community.\n\nContinue towards the historic SUMUR AGUNG well, a vital monument of the past, before resting your feet and observing local faith at Masjid Assyauroh.\n\nThe afternoon invites a leisurely stroll around the nearby religious landmarks, absorbing the serene residential atmosphere and friendly smiles.\n\nConclude your cultural walk at Musholla Al Barokah as the golden hour settles, reflecting on the peaceful spiritual rhythm of daily life in Anyer."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Nurul Falah",
+            "hu": "Masjid Nurul Falah",
+            "ro": "Masjid Nurul Falah",
+            "en": "Masjid Nurul Falah"
+          },
+          "coords": [
+            105.908225,
+            -6.073809
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese geräumige lokale Moschee, die für ihre einladende Atmosphäre bekannt ist, und stellen Sie sicher, dass Schultern und Knie bedeckt sind.",
+            "hu": "Látogasson el ebbe a tágas helyi mecsetbe, amely hívogató légköréről és gyönyörű kupoláiról ismert, ügyelve arra, hogy válla és térde fedve legyen.",
+            "ro": "Vizitați această moschee spațioasă, cunoscută pentru atmosfera sa primitoare și cupolele frumoase, asigurându-vă că aveți umerii și genunchii acoperiți.",
+            "en": "Visit this spacious local mosque known for its inviting atmosphere and beautiful domes, ensuring your shoulders and knees are covered before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Ikhlas",
+            "hu": "Masjid Al Ikhlas",
+            "ro": "Masjid Al Ikhlas",
+            "en": "Masjid Al Ikhlas"
+          },
+          "coords": [
+            105.905801,
+            -6.070758
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die täglichen Versammlungen in dieser Eckpfeiler-Moschee und kommen Sie zwischen den Gebetszeiten für eine ruhigere Fotografiesitzung.",
+            "hu": "Figyelje meg a napi összejöveteleket ebben a helyi lakosokat egyesítő mecsetben, és érkezzen az imaidők között egy csendesebb fotózási lehetőségért.",
+            "ro": "Observați adunările zilnice la această moschee esențială care unește localnicii și sosiți între orele de rugăciune pentru o sesiune foto mai liniștită.",
+            "en": "Observe the daily gatherings at this cornerstone mosque which unites the local residents, and arrive between prayer times for a quieter photography session."
+          }
+        },
+        {
+          "name": {
+            "de": "SUMUR AGUNG",
+            "hu": "SUMUR AGUNG",
+            "ro": "SUMUR AGUNG",
+            "en": "SUMUR AGUNG"
+          },
+          "coords": [
+            105.901297,
+            -6.066149
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Brunnen, der als lebenswichtige Wasserquelle diente, und bringen Sie eine Kamera mit, um das alte Mauerwerk festzuhalten.",
+            "hu": "Fedezze fel ezt a történelmi kutat, amely a korai telepesek létfontosságú vízforrásaként szolgált, és hozzon magával fényképezőgépet a falazat megörökítéséhez.",
+            "ro": "Descoperiți această fântână istorică ce a servit drept sursă vitală de apă pentru primii coloniști și aduceți un aparat foto pentru a surprinde zidăria antică.",
+            "en": "Discover this historical grand well that served as a vital water source for early settlers, and bring a camera to capture the authentic ancient masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla Al Barokah",
+            "hu": "Musholla Al Barokah",
+            "ro": "Musholla Al Barokah",
+            "en": "Musholla Al Barokah"
+          },
+          "coords": [
+            105.902639,
+            -6.064098
+          ],
+          "category": "landmark",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser ruhigen Gemeinschaftsmusholla, einem perfekten Ort, um das tägliche spirituelle Leben kennenzulernen; seien Sie leise.",
+            "hu": "Fejezze be sétáját ennél a békés közösségi mushollánál, amely tökéletes hely a napi spirituális élet megértéséhez, ügyelve arra, hogy csendben maradjon.",
+            "ro": "Încheiați plimbarea la această musholla comunitară senină, un loc perfect pentru a înțelege viața spirituală, asigurându-vă că păstrați liniștea deplină.",
+            "en": "Conclude your walk at this serene community musholla, a perfect spot to understand daily spiritual life, while making sure to keep noise levels down."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Mandalika Anyer",
+            "hu": "Pantai Mandalika Anyer",
+            "ro": "Pantai Mandalika Anyer",
+            "en": "Pantai Mandalika Anyer"
+          },
+          "coords": [
+            105.914726,
+            -6.053145
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der malerischen Küste, wo Sie die frische Meeresbrise genießen können, und packen Sie Sonnenschutz für einen angenehmen Nachmittag ein.",
+            "hu": "Pihenjen a Mandalika strand festői partvonalán, ahol élvezheti a friss tengeri szellőt, és vigyen magával naptejet a kényelmes délutáni tartózkodáshoz.",
+            "ro": "Relaxați-vă de-a lungul coastei pitorești a plajei Mandalika, unde vă puteți bucura de briza mării, și luați protecție solară pentru o după-amiază perfectă.",
+            "en": "Relax along the scenic coastline of Mandalika Beach where you can enjoy the fresh sea breeze, and pack some sun protection for a comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "At Taubah",
+            "hu": "At Taubah",
+            "ro": "At Taubah",
+            "en": "At Taubah"
+          },
+          "coords": [
+            105.922504,
+            -6.052942
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in diesem modernen islamischen Zentrum nahe dem Strand, und nutzen Sie den schattigen Innenhof für eine kurze Erholungspause.",
+            "hu": "Találjon nyugalmat ebben a strandhoz közeli, modern iszlám központban, és használja az árnyékos udvart egy gyors pihenésre a biciklizés után.",
+            "ro": "Găsiți liniște la acest centru islamic modern din apropierea plajei și folosiți curtea umbrită pentru o scurtă odihnă înainte de a vă continua drumul.",
+            "en": "Find tranquility at this modern Islamic center near the beach, distinguished by its neat architecture, and use the shaded courtyard for a quick rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Morgenbrise von Anyer, beginnen Sie an der Masjid Nurul Falah und genießen Sie das einladende spirituelle Ambiente der Stadt.\n\nBesuchen Sie den alten Brunnen SUMUR AGUNG, bevor Sie zu den erfrischenden Küstenausblicken von Pantai Mandalika Anyer weiterradeln.\n\nGenießen Sie die Meeresbrise und die Sandstrände, nehmen Sie sich viel Zeit zum Entspannen und Tanken nach Ihrer Fahrt durch die historischen Straßen.\n\nBeenden Sie Ihre Radtour an der modernen Moschee At Taubah, wo die friedliche Atmosphäre einen erfüllten Tag auf zwei Rädern perfekt ergänzt.",
+        "hu": "Tekerjen Anyer reggeli szellőjében, a tágas Masjid Nurul Falah mecsetnél kezdve, és szívja magába a város barátságos spirituális hangulatát.\n\nLátogasson el az ősi SUMUR AGUNG kúthoz egy kis történelemért, mielőtt a Pantai Mandalika Anyer frissítő tengerparti kilátásai felé venné az irányt.\n\nÉlvezze a tengeri szellőt és a homokos partszakaszokat, bőséges időt szánva a pihenésre a történelmi utcákon való tekerés után.\n\nFejezze be kerékpáros útját a modern At Taubah mecsetnél, ahol a békés légkör tökéletesen kiegészíti a két keréken töltött élményekkel teli napot.",
+        "ro": "Porniți la drum prin briza dimineții din Anyer, începând de la Masjid Nurul Falah și bucurându-vă de ambianța spirituală primitoare a orașului.\n\nVizitați fântâna antică SUMUR AGUNG pentru o lecție de istorie, înainte de a pedala spre priveliștile de coastă răcoritoare de la Pantai Mandalika Anyer.\n\nBucurați-vă de briza mării și de plajă, acordându-vă timp amplu pentru a vă relaxa și a vă reîncărca după plimbarea pe străzile istorice.\n\nÎncheiați-vă călătoria cu bicicleta la moscheea modernă At Taubah, unde atmosfera pașnică completează perfect o zi plină de satisfacții.",
+        "en": "Pedal your way through Anyer's morning breeze, starting at the spacious Masjid Nurul Falah and soaking in the town's welcoming spiritual ambiance.\n\nVisit the ancient SUMUR AGUNG well to touch a piece of history before biking towards the refreshing coastal views of Pantai Mandalika Anyer.\n\nEnjoy the sea breeze and sandy stretches at the beach, taking ample time to relax and refuel after your ride through the historical streets.\n\nEnd your cycling journey at the modern At Taubah mosque, where the peaceful atmosphere perfectly complements a fulfilling day on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Musholla Baiturrohman",
+            "hu": "Musholla Baiturrohman",
+            "ro": "Musholla Baiturrohman",
+            "en": "Musholla Baiturrohman"
+          },
+          "coords": [
+            105.896545,
+            -6.067681
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem bescheidenen Gebetsraum, der den lokalen Gemeinschaftsgeist widerspiegelt, und ziehen Sie unbedingt Ihre Schuhe aus.",
+            "hu": "Kezdje a reggelt ebben a szerény imateremben, amely a helyi közösségi szellemet tükrözi, és ne felejtse el levenni a cipőjét, mielőtt belépne a szentélybe.",
+            "ro": "Începeți dimineața la această sală modestă de rugăciune ce reflectă spiritul comunității locale, având grijă să vă descălțați înainte de a păși înăuntru.",
+            "en": "Start your morning at this modest neighborhood prayer hall that reflects the local community spirit, making sure to remove your shoes before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "SUMUR AGUNG",
+            "hu": "SUMUR AGUNG",
+            "ro": "SUMUR AGUNG",
+            "en": "SUMUR AGUNG"
+          },
+          "coords": [
+            105.901297,
+            -6.066149
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Brunnen, der als lebenswichtige Wasserquelle diente, und bringen Sie eine Kamera mit, um das alte Mauerwerk festzuhalten.",
+            "hu": "Fedezze fel ezt a történelmi kutat, amely a korai telepesek létfontosságú vízforrásaként szolgált, és hozzon magával fényképezőgépet a falazat megörökítéséhez.",
+            "ro": "Descoperiți această fântână istorică ce a servit drept sursă vitală de apă pentru primii coloniști și aduceți un aparat foto pentru a surprinde zidăria antică.",
+            "en": "Discover this historical grand well that served as a vital water source for early settlers, and bring a camera to capture the authentic ancient masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Ikhlas",
+            "hu": "Masjid Al Ikhlas",
+            "ro": "Masjid Al Ikhlas",
+            "en": "Masjid Al Ikhlas"
+          },
+          "coords": [
+            105.905801,
+            -6.070758
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die täglichen Versammlungen in dieser Eckpfeiler-Moschee und kommen Sie zwischen den Gebetszeiten für eine ruhigere Fotografiesitzung.",
+            "hu": "Figyelje meg a napi összejöveteleket ebben a helyi lakosokat egyesítő mecsetben, és érkezzen az imaidők között egy csendesebb fotózási lehetőségért.",
+            "ro": "Observați adunările zilnice la această moschee esențială care unește localnicii și sosiți între orele de rugăciune pentru o sesiune foto mai liniștită.",
+            "en": "Observe the daily gatherings at this cornerstone mosque which unites the local residents, and arrive between prayer times for a quieter photography session."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Mandalika Anyer",
+            "hu": "Pantai Mandalika Anyer",
+            "ro": "Pantai Mandalika Anyer",
+            "en": "Pantai Mandalika Anyer"
+          },
+          "coords": [
+            105.914726,
+            -6.053145
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der malerischen Küste, wo Sie die frische Meeresbrise genießen können, und packen Sie Sonnenschutz für einen angenehmen Nachmittag ein.",
+            "hu": "Pihenjen a Mandalika strand festői partvonalán, ahol élvezheti a friss tengeri szellőt, és vigyen magával naptejet a kényelmes délutáni tartózkodáshoz.",
+            "ro": "Relaxați-vă de-a lungul coastei pitorești a plajei Mandalika, unde vă puteți bucura de briza mării, și luați protecție solară pentru o după-amiază perfectă.",
+            "en": "Relax along the scenic coastline of Mandalika Beach where you can enjoy the fresh sea breeze, and pack some sun protection for a comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Alhamdulillah",
+            "hu": "Masjid Alhamdulillah",
+            "ro": "Masjid Alhamdulillah",
+            "en": "Masjid Alhamdulillah"
+          },
+          "coords": [
+            105.931979,
+            -6.056273
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schätzen Sie die kulturelle Bedeutung dieser markanten Moschee an der Hauptstraße und parken Sie Ihr Fahrzeug sicher auf den ausgewiesenen Plätzen.",
+            "hu": "Értékelje e főút melletti mecset vibráló kulturális jelentőségét, és parkolja le járművét biztonságosan a kijelölt helyeken a zavartalan élményért.",
+            "ro": "Apreciați semnificația culturală a acestei moschei de pe drumul principal și parcați vehiculul în siguranță în locurile special amenajate din apropiere.",
+            "en": "Appreciate the vibrant cultural significance of this landmark mosque by the main road, and park your vehicle safely in the designated spots nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla Al-Jami",
+            "hu": "Musholla Al-Jami",
+            "ro": "Musholla Al-Jami",
+            "en": "Musholla Al-Jami"
+          },
+          "coords": [
+            105.933472,
+            -6.04631
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schauen Sie sich diesen gut gepflegten Gebetsraum an, um lokale Designs zu sehen, und nehmen Sie Wasser mit, da es in der Gegend recht warm werden kann.",
+            "hu": "Ugorjon be ebbe a jól karbantartott közösségi imatérbe a helyi dizájnelemek megtekintéséhez, és vigyen magával vizet, mivel a környék elég meleg lehet.",
+            "ro": "Opriți-vă la acest spațiu de rugăciune bine întreținut pentru a vedea designurile locale și purtați o sticlă de apă, deoarece zona poate deveni călduroasă.",
+            "en": "Stop by this well-maintained community prayer space to see the intricate local designs, and carry a small bottle of water as the area can get quite warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Alfurqon",
+            "hu": "Masjid Alfurqon",
+            "ro": "Masjid Alfurqon",
+            "en": "Masjid Alfurqon"
+          },
+          "coords": [
+            105.941577,
+            -6.054027
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser weitläufigen lokalen Moschee mit ihrem hohen Minarett, einem großartigen Ort, um die goldenen Farben des Abendhimmels zu sehen.",
+            "hu": "Fejezze be autós túráját ennél a magas minaretjéről ismert hatalmas mecsetnél, amely nagyszerű hely az esti égbolt arany színeinek csendes megfigyelésére.",
+            "ro": "Încheiați turul la această moschee locală extinsă, cunoscută pentru minaretul său înalt, un loc minunat pentru a asista liniștit la culorile cerului de seară.",
+            "en": "End your driving tour at this expansive local mosque known for its towering minaret, a great spot to quietly witness the golden colors of the evening sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem durch Anyer und beginnen Sie mit religiösen und historischen Stätten wie SUMUR AGUNG, um das lokale Erbe zu verstehen.\n\nNavigieren Sie zum wunderschönen Pantai Mandalika Anyer und unterbrechen Sie die Fahrt mit einem Spaziergang entlang der tropischen Küstenlinie.\n\nFahren Sie weiter auf den Küstenstraßen und halten Sie an monumentalen Wahrzeichen wie der Masjid Alhamdulillah, um die Architektur zu bewundern.\n\nParken Sie gegen Abend an der großen Masjid Alfurqon und beobachten Sie, wie der Himmel über der ruhigen Küstenstadt seine Farben ändert.",
+        "hu": "Vezessen kényelmesen Anyerben, a SUMUR AGUNG történelmi és vallási helyszíneivel kezdve, hogy megértse a helyi kulturális örökséget.\n\nNavigáljon a gyönyörű Pantai Mandalika Anyer felé, megszakítva az autós túrát egy hosszú sétával a napfényes trópusi tengerparton.\n\nFolytassa útját a parti utakon, megállva az olyan monumentális nevezetességeknél, mint a Masjid Alhamdulillah, hogy értékelje az építészetet.\n\nParkoljon le a nagyszerű Masjid Alfurqon mecsetnél az este közeledtével, és figyelje, ahogy az égbolt megváltoztatja színeit a tengerparti város felett.",
+        "ro": "Conduceți confortabil prin Anyer, începând cu situri religioase și istorice fundamentale precum SUMUR AGUNG pentru a înțelege moștenirea locală.\n\nNavigați spre frumoasa Pantai Mandalika Anyer, întrerupând turul auto cu o plimbare prelungită de-a lungul coastei tropicale însorite.\n\nContinuați pe drumurile de coastă, oprindu-vă la repere monumentale precum Masjid Alhamdulillah pentru a aprecia arhitectura comunitară.\n\nParcați la marea Masjid Alfurqon pe măsură ce se apropie seara, privind cum cerul își schimbă culorile deasupra orașului de coastă liniștit.",
+        "en": "Drive comfortably through Anyer, beginning with its foundational religious and historical sites like SUMUR AGUNG to understand local heritage.\n\nNavigate towards the beautiful Pantai Mandalika Anyer, breaking up the driving tour with an extended stroll along the sunlit tropical shoreline.\n\nContinue cruising along the coastal roads, stopping at monumental landmarks such as Masjid Alhamdulillah to appreciate community architecture.\n\nPark up at the grand Masjid Alfurqon as evening approaches, watching the sky change colors over the tranquil coastal town before heading back."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "neufchateau",
+  "anchor": {
+    "name": "Neufchâteau",
+    "coords": [
+      5.6961,
+      48.3556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadttheater Neufchâteau",
+            "hu": "Neufchâteau Városi Színház",
+            "ro": "Teatrul Municipal Neufchâteau",
+            "en": "Neufchâteau Municipal Theater"
+          },
+          "coords": [
+            5.693366,
+            48.354195
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Theaters, das das kulturelle Erbe der Stadt widerspiegelt, und prüfen Sie frühzeitig die Spielpläne für aktuelle Vorführungen.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az építészetét, amely a város kulturális örökségét tükrözi, és érdemes korán ellenőrizni az aktuális előadások műsorrendjét.",
+            "ro": "Admirați arhitectura acestui teatru istoric care reflectă patrimoniul cultural al orașului și verificați din timp programul pentru spectacolele curente.",
+            "en": "Admire the architecture of this historical theater reflecting the city's cultural heritage, and check the schedule early for current performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Christophe",
+            "hu": "Saint-Christophe Templom",
+            "ro": "Biserica Saint-Christophe",
+            "en": "Saint-Christophe Church"
+          },
+          "coords": [
+            5.693865,
+            48.35412
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Details der Kirchenfenster, die eine reiche religiöse Geschichte erzählen, am besten im hellen Vormittagslicht.",
+            "hu": "Figyelje meg a templomablakok finom részleteit, amelyek gazdag vallási történelmet mesélnek el, a legjobb látványért jöjjön a délelőtti fényben.",
+            "ro": "Observați detaliile fine ale vitraliilor bisericii care spun o istorie religioasă bogată, de preferință în lumina clară a dimineții.",
+            "en": "Observe the fine details of the church windows telling a rich religious history, best viewed in the bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Mazarine",
+            "hu": "Mazarine Művészeti Galéria",
+            "ro": "Galeria de Artă Mazarine",
+            "en": "Galerie d’art de la Mazarine"
+          },
+          "coords": [
+            5.693676,
+            48.35273
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden lokalen Kunstwerke in dieser charmanten Galerie und nehmen Sie sich Zeit für die wechselnden Ausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel a lenyűgöző helyi művészeti alkotásokat ebben a bájos galériában, és szánjon időt az emeleti időszaki kiállításokra is.",
+            "ro": "Descoperiți operele de artă locale impresionante din această galerie fermecătoare și alocați-vă timp pentru expozițiile temporare de la etaj.",
+            "en": "Discover the impressive local artworks in this charming gallery, and make sure to allocate time for the changing exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            5.698211,
+            48.354391
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Die beeindruckende Krypta dieser Kirche ist ein wahres Meisterwerk der Baukunst; achten Sie auf die steinernen Verzierungen an den Säulen.",
+            "hu": "Ennek a templomnak a lenyűgöző kriptája az építőművészet igazi remekműve; figyeljen a kőoszlopok finom díszítéseire.",
+            "ro": "Cripta impresionantă a acestei biserici este o adevărată capodoperă arhitecturală; fiți atenți la decorațiunile din piatră de pe coloane.",
+            "en": "The impressive crypt of this church is a true architectural masterpiece; pay close attention to the stone carvings on the pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Meurger",
+            "hu": "Meurger Kilátó",
+            "ro": "Punctul de Vedere Meurger",
+            "en": "Point de Vue du Meurger"
+          },
+          "coords": [
+            5.699824,
+            48.358887
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das gesamte Tal und bringen Sie eine Kamera für wunderschöne Landschaftsaufnahmen mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát, amely az egész völgyre nyílik, és mindenképpen hozzon magával fényképezőgépet a tájképekhez.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra întregii văi și aduceți un aparat foto pentru fotografii superbe de peisaj.",
+            "en": "Enjoy the breathtaking panoramic view over the entire valley, and make sure to bring a camera for wonderful landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Theater im kulturellen Herzen von Neufchâteau, bevor Sie die friedliche Kirche Saint-Christophe besuchen. Mittags entdecken Sie in der Mazarine-Galerie eine Schatzkammer lokaler Kunst und Geschichte. Am Nachmittag können Sie die alten Steine der Kirche Saint-Nicolas bewundern und die architektonische Pracht auf sich wirken lassen. Gegen Abend beenden Sie Ihre Reise am atemberaubenden Aussichtspunkt Meurger.",
+        "hu": "Kezdje a reggelt Neufchâteau kulturális központjában, a történelmi színháznál, majd látogasson el a békés Saint-Christophe templomba. A déli órákban a Mazarine Művészeti Galéria várja a helyi alkotók remekműveivel. Délután csodálja meg a Saint-Nicolas templom ősi köveit, elmélyedve a páratlan építészeti nagyságban. Az este közeledtével zárja utazását a lenyűgöző Meurger kilátónál, élvezve az eléje táruló csodás panorámát.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Neufchâteau la teatrul istoric, înainte de a păși în liniștita Biserică Saint-Christophe. La amiază vizitați Galeria de Artă Mazarine, o comoară a creativității locale. După-amiaza, admirați pietrele antice ale Bisericii Saint-Nicolas și lăsați-vă impresionați de grandoarea arhitecturală. Spre seară, încheiați călătoria la uimitorul Punct de Vedere Meurger.",
+        "en": "Start your morning exploring the cultural heart of Neufchâteau at the historic theater, before stepping into the peaceful Saint-Christophe Church. Midday brings you to the Mazarine Art Gallery, a treasure trove of local creativity and history. In the afternoon, marvel at the ancient stones of Saint-Nicolas Church, soaking in the architectural grandeur. As evening nears, end your journey at the stunning Point de Vue du Meurger, watching the sunset paint the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heilig-Geist-Kapelle",
+            "hu": "Szentlélek Kápolna",
+            "ro": "Capela Sfântului Duh",
+            "en": "Chapelle du Saint-Esprit"
+          },
+          "coords": [
+            5.689286,
+            48.355486
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese kleine Kapelle strahlt eine wunderbare Ruhe aus und ist ideal für einen Moment der Besinnung vor dem Start in den belebten Tag.",
+            "hu": "Ez a kis kápolna csodálatos nyugalmat áraszt, és ideális egy pillanatnyi elmélkedésre a nyüzsgő nap megkezdése előtt.",
+            "ro": "Această mică capelă emană o liniște minunată și este ideală pentru un moment de reflecție înainte de a începe ziua plină.",
+            "en": "This small chapel exudes a wonderful tranquility and is ideal for a moment of reflection before starting the busy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Neufchâteau",
+            "hu": "Neufchâteau Városi Színház",
+            "ro": "Teatrul Municipal Neufchâteau",
+            "en": "Neufchâteau Municipal Theater"
+          },
+          "coords": [
+            5.693366,
+            48.354195
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Theaters, das das kulturelle Erbe der Stadt widerspiegelt, und prüfen Sie frühzeitig die Spielpläne für aktuelle Vorführungen.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az építészetét, amely a város kulturális örökségét tükrözi, és érdemes korán ellenőrizni az aktuális előadások műsorrendjét.",
+            "ro": "Admirați arhitectura acestui teatru istoric care reflectă patrimoniul cultural al orașului și verificați din timp programul pentru spectacolele curente.",
+            "en": "Admire the architecture of this historical theater reflecting the city's cultural heritage, and check the schedule early for current performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Christophe",
+            "hu": "Saint-Christophe Templom",
+            "ro": "Biserica Saint-Christophe",
+            "en": "Saint-Christophe Church"
+          },
+          "coords": [
+            5.693865,
+            48.35412
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Details der Kirchenfenster, die eine reiche religiöse Geschichte erzählen, am besten im hellen Vormittagslicht.",
+            "hu": "Figyelje meg a templomablakok finom részleteit, amelyek gazdag vallási történelmet mesélnek el, a legjobb látványért jöjjön a délelőtti fényben.",
+            "ro": "Observați detaliile fine ale vitraliilor bisericii care spun o istorie religioasă bogată, de preferință în lumina clară a dimineții.",
+            "en": "Observe the fine details of the church windows telling a rich religious history, best viewed in the bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            5.698211,
+            48.354391
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Die beeindruckende Krypta dieser Kirche ist ein wahres Meisterwerk der Baukunst; achten Sie auf die steinernen Verzierungen an den Säulen.",
+            "hu": "Ennek a templomnak a lenyűgöző kriptája az építőművészet igazi remekműve; figyeljen a kőoszlopok finom díszítéseire.",
+            "ro": "Cripta impresionantă a acestei biserici este o adevărată capodoperă arhitecturală; fiți atenți la decorațiunile din piatră de pe coloane.",
+            "en": "The impressive crypt of this church is a true architectural masterpiece; pay close attention to the stone carvings on the pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Meurger",
+            "hu": "Meurger Kilátó",
+            "ro": "Punctul de Vedere Meurger",
+            "en": "Point de Vue du Meurger"
+          },
+          "coords": [
+            5.699824,
+            48.358887
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das gesamte Tal und bringen Sie eine Kamera für wunderschöne Landschaftsaufnahmen mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát, amely az egész völgyre nyílik, és mindenképpen hozzon magával fényképezőgépet a tájképekhez.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra întregii văi și aduceți un aparat foto pentru fotografii superbe de peisaj.",
+            "en": "Enjoy the breathtaking panoramic view over the entire valley, and make sure to bring a camera for wonderful landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            5.691581,
+            48.362653
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Die historischen Altäre in dieser Kirche sind außergewöhnlich gut erhalten; verpassen Sie nicht die kunstvollen Holzschnitzereien im hinteren Bereich.",
+            "hu": "A templom történelmi oltárai kivételesen jó állapotban maradtak fenn; ne hagyja ki a hátsó részen található díszes fafaragásokat.",
+            "ro": "Altarele istorice din această biserică sunt excepțional de bine conservate; nu ratați sculpturile ornamentale în lemn din zona din spate.",
+            "en": "The historical altars in this church are exceptionally well-preserved; do not miss the ornate wood carvings in the rear section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Chapelle du Saint-Esprit, bevor Sie zum beeindruckenden Stadttheater radeln. Mittags fahren Sie entspannt zu den Kirchen Saint-Christophe und Saint-Nicolas, um die sakrale Architektur zu bewundern. Am Nachmittag überwinden Sie die sanften Hügel zum atemberaubenden Aussichtspunkt Meurger. Beenden Sie Ihr Abenteuer an der Église Saint-Martin und genießen Sie die ruhige Abendstimmung.",
+        "hu": "Kezdje kerékpártúráját a békés Chapelle du Saint-Esprit-nél, mielőtt eltekerne a lenyűgöző Városi Színházhoz. A déli órákban fedezze fel a Saint-Christophe és a Saint-Nicolas templomok lenyűgöző szakrális építészetét. Délután hódítsa meg a lankás emelkedőt a lélegzetelállító Meurger kilátóig. Fejezze be kerékpáros kalandját a Saint-Martin templomnál, megörökítve a csendes esti hangulatot.",
+        "ro": "Începeți plimbarea cu bicicleta la liniștita Capelă a Sfântului Duh, înainte de a pedala spre Teatrul Municipal. La amiază vă îndreptați spre Saint-Christophe și Saint-Nicolas pentru a descoperi arhitectura sacră. După-amiaza, urcați pantele line pentru a ajunge la uimitorul Punct de Vedere Meurger. Încheiați aventura pe două roți la Biserica Saint-Martin, bucurându-vă de ambianța liniștită a serii.",
+        "en": "Kick off your ride at the serene Chapelle du Saint-Esprit before pedaling to the grand Municipal Theater for a dose of culture. Midday takes you gracefully to Saint-Christophe and Saint-Nicolas, offering a deep dive into the town’s sacred architecture. In the afternoon, conquer the gentle slopes to reach the breathtaking Meurger Viewpoint. Finish your cycling adventure at Église Saint-Martin, capturing the quiet evening ambiance."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Ursule",
+            "hu": "Sainte-Ursule Templom",
+            "ro": "Biserica Sainte-Ursule",
+            "en": "Église Sainte-Ursule"
+          },
+          "coords": [
+            5.68484,
+            48.347109
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die besondere Dachkonstruktion dieses religiösen Bauwerks und gehen Sie einmal um das Gebäude, um alle architektonischen Winkel zu sehen.",
+            "hu": "Figyelje meg ennek a vallási épületnek a különleges tetőszerkezetét, és sétálja körbe az épületet, hogy minden építészeti szöget lásson.",
+            "ro": "Observați structura deosebită a acoperișului acestui edificiu religios și faceți o plimbare în jurul clădirii pentru a vedea toate unghiurile arhitecturale.",
+            "en": "Note the unique roof structure of this religious building and walk completely around the outside to see all the architectural angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kapelle",
+            "hu": "Szentlélek Kápolna",
+            "ro": "Capela Sfântului Duh",
+            "en": "Chapelle du Saint-Esprit"
+          },
+          "coords": [
+            5.689286,
+            48.355486
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Diese kleine Kapelle strahlt eine wunderbare Ruhe aus und ist ideal für einen Moment der Besinnung vor dem Start in den belebten Tag.",
+            "hu": "Ez a kis kápolna csodálatos nyugalmat áraszt, és ideális egy pillanatnyi elmélkedésre a nyüzsgő nap megkezdése előtt.",
+            "ro": "Această mică capelă emană o liniște minunată și este ideală pentru un moment de reflecție înainte de a începe ziua plină.",
+            "en": "This small chapel exudes a wonderful tranquility and is ideal for a moment of reflection before starting the busy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Mazarine",
+            "hu": "Mazarine Művészeti Galéria",
+            "ro": "Galeria de Artă Mazarine",
+            "en": "Galerie d’art de la Mazarine"
+          },
+          "coords": [
+            5.693676,
+            48.35273
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden lokalen Kunstwerke in dieser charmanten Galerie und nehmen Sie sich Zeit für die wechselnden Ausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel a lenyűgöző helyi művészeti alkotásokat ebben a bájos galériában, és szánjon időt az emeleti időszaki kiállításokra is.",
+            "ro": "Descoperiți operele de artă locale impresionante din această galerie fermecătoare și alocați-vă timp pentru expozițiile temporare de la etaj.",
+            "en": "Discover the impressive local artworks in this charming gallery, and make sure to allocate time for the changing exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Christophe",
+            "hu": "Saint-Christophe Templom",
+            "ro": "Biserica Saint-Christophe",
+            "en": "Saint-Christophe Church"
+          },
+          "coords": [
+            5.693865,
+            48.35412
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Details der Kirchenfenster, die eine reiche religiöse Geschichte erzählen, am besten im hellen Vormittagslicht.",
+            "hu": "Figyelje meg a templomablakok finom részleteit, amelyek gazdag vallási történelmet mesélnek el, a legjobb látványért jöjjön a délelőtti fényben.",
+            "ro": "Observați detaliile fine ale vitraliilor bisericii care spun o istorie religioasă bogată, de preferință în lumina clară a dimineții.",
+            "en": "Observe the fine details of the church windows telling a rich religious history, best viewed in the bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            5.698211,
+            48.354391
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Die beeindruckende Krypta dieser Kirche ist ein wahres Meisterwerk der Baukunst; achten Sie auf die steinernen Verzierungen an den Säulen.",
+            "hu": "Ennek a templomnak a lenyűgöző kriptája az építőművészet igazi remekműve; figyeljen a kőoszlopok finom díszítéseire.",
+            "ro": "Cripta impresionantă a acestei biserici este o adevărată capodoperă arhitecturală; fiți atenți la decorațiunile din piatră de pe coloane.",
+            "en": "The impressive crypt of this church is a true architectural masterpiece; pay close attention to the stone carvings on the pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            5.691581,
+            48.362653
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Die historischen Altäre in dieser Kirche sind außergewöhnlich gut erhalten; verpassen Sie nicht die kunstvollen Holzschnitzereien im hinteren Bereich.",
+            "hu": "A templom történelmi oltárai kivételesen jó állapotban maradtak fenn; ne hagyja ki a hátsó részen található díszes fafaragásokat.",
+            "ro": "Altarele istorice din această biserică sunt excepțional de bine conservate; nu ratați sculpturile ornamentale în lemn din zona din spate.",
+            "en": "The historical altars in this church are exceptionally well-preserved; do not miss the ornate wood carvings in the rear section."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Meurger",
+            "hu": "Meurger Kilátó",
+            "ro": "Punctul de Vedere Meurger",
+            "en": "Point de Vue du Meurger"
+          },
+          "coords": [
+            5.699824,
+            48.358887
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das gesamte Tal und bringen Sie eine Kamera für wunderschöne Landschaftsaufnahmen mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát, amely az egész völgyre nyílik, és mindenképpen hozzon magával fényképezőgépet a tájképekhez.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra întregii văi și aduceți un aparat foto pentru fotografii superbe de peisaj.",
+            "en": "Enjoy the breathtaking panoramic view over the entire valley, and make sure to bring a camera for wonderful landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der Église Sainte-Ursule, bevor Sie zur historischen Chapelle du Saint-Esprit fahren. Mittags parken Sie zentral, um die Mazarine-Galerie und die Kirche Saint-Christophe zu erkunden. Der Nachmittag lädt Sie ein, die beeindruckenden Kirchen Saint-Nicolas und Saint-Martin zu bewundern. Fahren Sie schließlich hinauf zum Aussichtspunkt Meurger für ein herrliches Abendpanorama.",
+        "hu": "Autós túráját a Sainte-Ursule templomnál kezdje, majd vegye az irányt a történelmi Chapelle du Saint-Esprit felé. Délben parkoljon le a központban, hogy felfedezze a Mazarine Galériát és a Saint-Christophe templomot. Délután megcsodálhatja a lenyűgöző Saint-Nicolas és Saint-Martin templomokat. Végül vezessen fel a Meurger kilátóhoz, és élvezze a lenyűgöző esti panorámát.",
+        "ro": "Începeți turul cu mașina la Biserica Sainte-Ursule, o bijuterie arhitecturală, apoi vizitați istorica Capelă a Sfântului Duh. La amiază, parcați în centru pentru a explora Galeria de Artă Mazarine și Biserica Saint-Christophe. După-amiaza vă invită să admirați bisericile impresionante Saint-Nicolas și Saint-Martin. La final, conduceți spre Punctul de Vedere Meurger pentru o panoramă magnifică de seară.",
+        "en": "Begin your driving tour at Église Sainte-Ursule, a quiet architectural gem, then head to the historic Chapelle du Saint-Esprit. By midday, park near the center to explore the captivating Mazarine Art Gallery and the nearby Saint-Christophe Church. The afternoon invites you to marvel at the impressive Saint-Nicolas and Saint-Martin churches. Finally, drive up to the Meurger Viewpoint for a sweeping evening panorama."
+      }
+    }
+  }
+}

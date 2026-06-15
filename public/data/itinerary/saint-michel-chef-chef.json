@@ -1,0 +1,405 @@
+{
+  "city_id": "saint-michel-chef-chef",
+  "anchor": {
+    "name": "Saint-Michel-Chef-Chef",
+    "coords": [
+      -2.1486,
+      47.1808
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            -2.148368,
+            47.18121
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Église Saint-Michel, einen Grundpfeiler des lokalen Erbes, und achten Sie auf die einzigartigen architektonischen Details, bevor Sie früh aufbrechen.",
+            "hu": "Csodálja meg a gyönyörű Église Saint-Michel templomot, a helyi örökség alapkövét, és figyelje meg egyedi építészeti részleteit, miközben kora reggel elkerüli a nagyobb tömeget.",
+            "ro": "Admirați frumoasa Église Saint-Michel, o piatră de temelie a patrimoniului local, și observați detaliile arhitecturale unice ajungând devreme pentru a evita mulțimile de turiști.",
+            "en": "Admire the beautiful Église Saint-Michel, a cornerstone of local heritage, and take a moment to notice its unique architectural details before heading out early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Comberge",
+            "hu": "Port de Comberge",
+            "ro": "Port de Comberge",
+            "en": "Port de Comberge"
+          },
+          "coords": [
+            -2.165522,
+            47.17508
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote am Port de Comberge, einem reizvollen Ort am Meer, um maritime Traditionen kennenzulernen, und bringen Sie eine leichte Jacke gegen die Meeresbrise mit.",
+            "hu": "Figyelje meg a Port de Comberge kikötőben ringatózó csónakokat, amely tökéletes a tengeri hagyományok megismerésére, és ne felejtsen el egy könnyű kabátot hozni a tengeri szellő ellen.",
+            "ro": "Priviți bărcile legănându-se la Port de Comberge, un loc fermecător perfect pentru a înțelege tradițiile maritime, și aduceți o jachetă ușoară împotriva brizei răcoroase a mării.",
+            "en": "Watch the boats gently bobbing at Port de Comberge, a charming coastal spot perfect for understanding maritime traditions, and remember to bring a light jacket against the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Pêcheries de Tharon",
+            "hu": "Les Pêcheries de Tharon",
+            "ro": "Les Pêcheries de Tharon",
+            "en": "Les Pêcheries de Tharon"
+          },
+          "coords": [
+            -2.1585,
+            47.172909
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmten Pêcheries de Tharon auf ihren Holzpfählen, um historische Angelmethoden zu verstehen, und bringen Sie unbedingt eine Kamera für tolle Vormittagsfotos mit.",
+            "hu": "Fedezze fel a cölöpökön álló ikonikus Pêcheries de Tharon halászkunyhókat a történelmi módszerek megértéséhez, és hozzon fényképezőgépet a lenyűgöző délelőtti fotók készítéséhez.",
+            "ro": "Explorați iconicele Pêcheries de Tharon pe pilonii lor din lemn pentru a înțelege metodele istorice de pescuit și asigurați-vă că aduceți o cameră pentru fotografii uimitoare dimineața.",
+            "en": "Explore the iconic Pêcheries de Tharon on their wooden stilts to grasp the historic fishing methods, and be sure to bring a camera for stunning photos during the late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tharon",
+            "hu": "Plage de Tharon",
+            "ro": "Plage de Tharon",
+            "en": "Plage de Tharon"
+          },
+          "coords": [
+            -2.163413,
+            47.164935
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Plage de Tharon, einem erstklassigen Ziel für Familienerholung, und kommen Sie mittags an, um den besten Platz nahe am erfrischenden Wasser zu sichern.",
+            "hu": "Pihenjen a Plage de Tharon tágas, aranyló homokján, amely a családi kikapcsolódás kiváló helyszíne, és érkezzen dél körül, hogy a legjobb helyet foglalhassa el a frissítő víz közelében.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Plage de Tharon, o destinație excelentă pentru recreere în familie, și sosiți pe la prânz pentru a prinde cel mai bun loc lângă apa răcoroasă.",
+            "en": "Relax on the expansive golden sands of Plage de Tharon, a prime destination for family recreation, and try to arrive by midday to secure the best spot near the refreshing water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Gohaud",
+            "hu": "Plage de Gohaud",
+            "ro": "Plage de Gohaud",
+            "en": "Plage de Gohaud"
+          },
+          "coords": [
+            -2.161901,
+            47.190785
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der malerischen Plage de Gohaud, einem beliebten Ort für Gleitschirmflieger, und tragen Sie feste Wanderschuhe, um die leicht unebenen Küstenwege bequem zu meistern.",
+            "hu": "Sétáljon végig a festői Plage de Gohaud parton, amely a siklóernyősök kedvence, és viseljen masszív cipőt, hogy kényelmesen bejárhassa az egyenetlen part menti ösvényeket.",
+            "ro": "Plimbați-vă pe pitoreasca Plage de Gohaud, un loc preferat pentru parapantiști, și purtați încălțăminte de mers robustă pentru a naviga confortabil pe potecile de coastă inegale.",
+            "en": "Stroll along the scenic Plage de Gohaud, a favorite spot for paragliders and nature lovers, and wear sturdy walking shoes to comfortably navigate the slightly uneven coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Zentrum an der ikonischen Kirche und führt Sie langsam zum malerischen Fischerhafen. Mittags bewundern Sie historische Fischerhütten und entspannen an einem goldenen Sandstrand. Der Nachmittag ist geprägt von landschaftlich reizvollen Küstenwanderungen mit weitem Blick auf den Ozean. Am Abend erreichen Sie eine raue, natürliche Küste, wo die Sonne wunderschön im Atlantik versinkt.",
+        "hu": "A reggel a városközpontban, az ikonikus templomnál kezdődik, ahonnan lassan a festői halászkikötő felé halad. Délben megcsodálhatja a történelmi halászkunyhókat, és megpihenhet egy aranyló homokos tengerparton. A délutánt látványos parti séták töltik ki, gyönyörű óceáni panorámával. Este egy vadabb, természetes partszakaszhoz ér, amely tökéletes arra, hogy megnézze az Atlanti-óceánba bukó napot.",
+        "ro": "Dimineața începe în centrul orașului la biserica emblematică, îndreptându-vă treptat spre portul de pescuit pitoresc. La prânz, veți admira colibele istorice de pescuit și vă veți relaxa pe o plajă cu nisip auriu. După-amiaza este plină de plimbări pitorești pe coastă, cu vederi ample asupra oceanului. Seara vă aduce pe un țărm stâncos și natural, perfect pentru a privi soarele apunând în Atlantic.",
+        "en": "Your morning starts in the town center at the iconic church, gently transitioning toward the picturesque fishing port. By midday, you'll be admiring the historic fishing huts and relaxing on a golden sandy beach. The afternoon is filled with scenic coastal walks, taking in the expansive ocean views. Evening brings you to a rugged and natural shoreline, perfect for watching the sun dip below the Atlantic horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 6.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            -2.148368,
+            47.18121
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Église Saint-Michel, einen Grundpfeiler des lokalen Erbes, und achten Sie auf die einzigartigen architektonischen Details, bevor Sie früh aufbrechen.",
+            "hu": "Csodálja meg a gyönyörű Église Saint-Michel templomot, a helyi örökség alapkövét, és figyelje meg egyedi építészeti részleteit, miközben kora reggel elkerüli a nagyobb tömeget.",
+            "ro": "Admirați frumoasa Église Saint-Michel, o piatră de temelie a patrimoniului local, și observați detaliile arhitecturale unice ajungând devreme pentru a evita mulțimile de turiști.",
+            "en": "Admire the beautiful Église Saint-Michel, a cornerstone of local heritage, and take a moment to notice its unique architectural details before heading out early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Comberge",
+            "hu": "Port de Comberge",
+            "ro": "Port de Comberge",
+            "en": "Port de Comberge"
+          },
+          "coords": [
+            -2.165522,
+            47.17508
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote am Port de Comberge, einem reizvollen Ort am Meer, um maritime Traditionen kennenzulernen, und bringen Sie eine leichte Jacke gegen die Meeresbrise mit.",
+            "hu": "Figyelje meg a Port de Comberge kikötőben ringatózó csónakokat, amely tökéletes a tengeri hagyományok megismerésére, és ne felejtsen el egy könnyű kabátot hozni a tengeri szellő ellen.",
+            "ro": "Priviți bărcile legănându-se la Port de Comberge, un loc fermecător perfect pentru a înțelege tradițiile maritime, și aduceți o jachetă ușoară împotriva brizei răcoroase a mării.",
+            "en": "Watch the boats gently bobbing at Port de Comberge, a charming coastal spot perfect for understanding maritime traditions, and remember to bring a light jacket against the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tharon",
+            "hu": "Plage de Tharon",
+            "ro": "Plage de Tharon",
+            "en": "Plage de Tharon"
+          },
+          "coords": [
+            -2.163413,
+            47.164935
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Plage de Tharon, einem erstklassigen Ziel für Familienerholung, und kommen Sie mittags an, um den besten Platz nahe am erfrischenden Wasser zu sichern.",
+            "hu": "Pihenjen a Plage de Tharon tágas, aranyló homokján, amely a családi kikapcsolódás kiváló helyszíne, és érkezzen dél körül, hogy a legjobb helyet foglalhassa el a frissítő víz közelében.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Plage de Tharon, o destinație excelentă pentru recreere în familie, și sosiți pe la prânz pentru a prinde cel mai bun loc lângă apa răcoroasă.",
+            "en": "Relax on the expansive golden sands of Plage de Tharon, a prime destination for family recreation, and try to arrive by midday to secure the best spot near the refreshing water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Gohaud",
+            "hu": "Plage de Gohaud",
+            "ro": "Plage de Gohaud",
+            "en": "Plage de Gohaud"
+          },
+          "coords": [
+            -2.161901,
+            47.190785
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der malerischen Plage de Gohaud, einem beliebten Ort für Gleitschirmflieger, und tragen Sie feste Wanderschuhe, um die leicht unebenen Küstenwege bequem zu meistern.",
+            "hu": "Sétáljon végig a festői Plage de Gohaud parton, amely a siklóernyősök kedvence, és viseljen masszív cipőt, hogy kényelmesen bejárhassa az egyenetlen part menti ösvényeket.",
+            "ro": "Plimbați-vă pe pitoreasca Plage de Gohaud, un loc preferat pentru parapantiști, și purtați încălțăminte de mers robustă pentru a naviga confortabil pe potecile de coastă inegale.",
+            "en": "Stroll along the scenic Plage de Gohaud, a favorite spot for paragliders and nature lovers, and wear sturdy walking shoes to comfortably navigate the slightly uneven coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Pierre Attelée",
+            "hu": "Plage de la Pierre Attelée",
+            "ro": "Plage de la Pierre Attelée",
+            "en": "Plage de la Pierre Attelée"
+          },
+          "coords": [
+            -2.160288,
+            47.200892
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der Plage de la Pierre Attelée mit ihrem angrenzenden Kiefernwald und nutzen Sie den natürlichen Schatten für ein friedliches Nachmittagspicknick am Ozean.",
+            "hu": "Kapcsolódjon ki a Plage de la Pierre Attelée fenyőerdővel övezett partján, és használja ki a természetes árnyékot egy békés késő délutáni piknikhez az óceán megnyugtató közelében.",
+            "ro": "Relaxați-vă la Plage de la Pierre Attelée, o plajă frumoasă mărginită de o pădure de pini, și profitați de umbra naturală pentru un picnic liniștit de după-amiază lângă ocean.",
+            "en": "Unwind at Plage de la Pierre Attelée, a beautiful stretch backed by a lush pine forest, and take advantage of the natural shade for a peaceful late afternoon picnic by the ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der örtlichen Kirche, bevor Sie hinunter zum lebhaften Hafenviertel radeln. Mittags fahren Sie bequem zu einem beliebten Strand und genießen die frische Meeresbrise. Am Nachmittag folgen Sie den Küstenwegen, um ruhigere, natürliche Sandstrände zu entdecken. Die Fahrt endet an einem ruhigen, von Wäldern gesäumten Strand – ein perfekter Abschluss auf zwei Rädern.",
+        "hu": "Kezdje kerékpártúráját a helyi templomnál, majd tekerjen le a nyüzsgő kikötőhöz. Dél körül kényelmesen eljuthat a népszerű strandra, élvezve a frissítő tengeri szellőt. A délután folyamán a part menti ösvényeken haladva csendesebb, természetes homokos partszakaszokat fedezhet fel. Az utazás egy békés, erdővel övezett strandon ér véget, tökéletes lezárást nyújtva egy kétkeréken töltött napnak.",
+        "ro": "Începeți turul cu bicicleta la biserica locală înainte de a pedala spre zona plină de viață a portului. La prânz veți merge confortabil către o plajă populară, bucurându-vă de briza proaspătă a mării. Pe măsură ce se desfășoară după-amiaza, urmați potecile de coastă pentru a descoperi plaje naturale mai liniștite. Plimbarea se încheie la o plajă liniștită mărginită de pădure, finalizând perfect ziua.",
+        "en": "Kick off your cycling tour at the local church before pedaling down to the lively port area. Midday sees you cruising comfortably to a popular local beach, enjoying the refreshing sea breeze. As the afternoon unfolds, follow the coastal paths to discover quieter, natural sandy stretches. The ride concludes at a tranquil forest-backed beach, offering a perfect end to a day on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            -2.148368,
+            47.18121
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Église Saint-Michel, einen Grundpfeiler des lokalen Erbes, und achten Sie auf die einzigartigen architektonischen Details, bevor Sie früh aufbrechen.",
+            "hu": "Csodálja meg a gyönyörű Église Saint-Michel templomot, a helyi örökség alapkövét, és figyelje meg egyedi építészeti részleteit, miközben kora reggel elkerüli a nagyobb tömeget.",
+            "ro": "Admirați frumoasa Église Saint-Michel, o piatră de temelie a patrimoniului local, și observați detaliile arhitecturale unice ajungând devreme pentru a evita mulțimile de turiști.",
+            "en": "Admire the beautiful Église Saint-Michel, a cornerstone of local heritage, and take a moment to notice its unique architectural details before heading out early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tharon",
+            "hu": "Plage de Tharon",
+            "ro": "Plage de Tharon",
+            "en": "Plage de Tharon"
+          },
+          "coords": [
+            -2.163413,
+            47.164935
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Plage de Tharon, einem erstklassigen Ziel für Familienerholung, und kommen Sie mittags an, um den besten Platz nahe am erfrischenden Wasser zu sichern.",
+            "hu": "Pihenjen a Plage de Tharon tágas, aranyló homokján, amely a családi kikapcsolódás kiváló helyszíne, és érkezzen dél körül, hogy a legjobb helyet foglalhassa el a frissítő víz közelében.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Plage de Tharon, o destinație excelentă pentru recreere în familie, și sosiți pe la prânz pentru a prinde cel mai bun loc lângă apa răcoroasă.",
+            "en": "Relax on the expansive golden sands of Plage de Tharon, a prime destination for family recreation, and try to arrive by midday to secure the best spot near the refreshing water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Pêcheries de Tharon",
+            "hu": "Les Pêcheries de Tharon",
+            "ro": "Les Pêcheries de Tharon",
+            "en": "Les Pêcheries de Tharon"
+          },
+          "coords": [
+            -2.1585,
+            47.172909
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmten Pêcheries de Tharon auf ihren Holzpfählen, um historische Angelmethoden zu verstehen, und bringen Sie unbedingt eine Kamera für tolle Vormittagsfotos mit.",
+            "hu": "Fedezze fel a cölöpökön álló ikonikus Pêcheries de Tharon halászkunyhókat a történelmi módszerek megértéséhez, és hozzon fényképezőgépet a lenyűgöző délelőtti fotók készítéséhez.",
+            "ro": "Explorați iconicele Pêcheries de Tharon pe pilonii lor din lemn pentru a înțelege metodele istorice de pescuit și asigurați-vă că aduceți o cameră pentru fotografii uimitoare dimineața.",
+            "en": "Explore the iconic Pêcheries de Tharon on their wooden stilts to grasp the historic fishing methods, and be sure to bring a camera for stunning photos during the late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Roussellerie",
+            "hu": "Plage de la Roussellerie",
+            "ro": "Plage de la Roussellerie",
+            "en": "Plage de la Roussellerie"
+          },
+          "coords": [
+            -2.159771,
+            47.196406
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schönheit der Plage de la Roussellerie, ideal für ein erfrischendes Nachmittagsschwimmen, und halten Sie Ausschau nach interessanten Muscheln am makellosen Ufer.",
+            "hu": "Fedezze fel a Plage de la Roussellerie nyugodt szépségét, amely tökéletes egy frissítő úszáshoz, és keressen érdekes tengeri kagylókat a lenyűgöző és érintetlen partvonal mentén.",
+            "ro": "Descoperiți frumusețea liniștită a Plage de la Roussellerie, perfectă pentru o baie răcoritoare după-amiaza, și căutați scoici interesante împrăștiate de-a lungul acestei țărmuri.",
+            "en": "Discover the tranquil beauty of Plage de la Roussellerie, perfect for a refreshing afternoon swim, and keep an eye out for interesting seashells scattered along this pristine shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de L'Ermitage",
+            "hu": "Plage de L'Ermitage",
+            "ro": "Plage de L'Ermitage",
+            "en": "Plage de L'Ermitage"
+          },
+          "coords": [
+            -2.163655,
+            47.208883
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die abgeschiedene Atmosphäre der Plage de L'Ermitage, einem versteckten Juwel, und bleiben Sie bis zum Sonnenuntergang, um ein spektakuläres Farbenspiel auf dem Wasser zu sehen.",
+            "hu": "Élvezze a Plage de L'Ermitage eldugott atmoszféráját, amely egy rejtett gyöngyszem az Atlanti-óceán partján, és maradjon naplementéig, hogy lássa a vízen tükröződő látványos színeket.",
+            "ro": "Bucurați-vă de atmosfera retrasă de la Plage de L'Ermitage, o bijuterie ascunsă pe coasta Atlanticului, și rămâneți până la apus pentru a asista la un spectacol de culori reflectate pe apă.",
+            "en": "Soak in the secluded atmosphere of Plage de L'Ermitage, a hidden gem along the Atlantic coast, and stay until sunset to witness a spectacular display of colors reflecting on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Herzen des Dorfes, bevor Sie direkt zu den Hauptattraktionen der Küste fahren. Mittags wechseln Sie bequem zwischen dem weitläufigen Hauptstrand und den ikonischen Pfahlbaufischerhütten. Am Nachmittag können Sie durch kurze Fahrten verschiedene Sandbuchten im Norden erkunden. Beenden Sie Ihren Tag an einem abgeschiedenen Küstenabschnitt bei einem friedlichen atlantischen Sonnenuntergang.",
+        "hu": "Autós útvonala a falu szívében kezdődik, mielőtt egyenesen a part főbb látványosságai felé venné az irányt. Délben könnyedén ugrálhat a kiterjedt fő strand és az ikonikus cölöpházak között. Délután a rövid utaknak köszönhetően változatos homokos öblöket fedezhet fel az északi part mentén. A napot egy eldugott partszakaszon fejezheti be, élvezve a békés atlanti naplementét.",
+        "ro": "Traseul cu mașina începe în inima satului înainte de a vă îndrepta direct spre atracțiile principale ale coastei. Până la prânz, veți face un salt ușor între plaja principală și colibele de pescuit pe piloni. După-amiaza, drumurile scurte vă permit să explorați diverse golfuri de nisip din nord. Încheiați ziua într-un loc retras de pe țărm, bucurându-vă de un apus liniștit la Oceanul Atlantic.",
+        "en": "Your driving route begins in the heart of the village before heading straight to the coast's main attractions. By midday, you'll have easily hopped between the sprawling main beach and the iconic stilted fishing huts. In the afternoon, quick drives let you explore a series of varied sandy coves along the northern coastline. End your day at a secluded shoreline spot, enjoying a peaceful Atlantic sunset."
+      }
+    }
+  }
+}

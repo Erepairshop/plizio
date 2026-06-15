@@ -1,0 +1,580 @@
+{
+  "city_id": "bourg-de-peage",
+  "anchor": {
+    "name": "Bourg-de-Péage",
+    "coords": [
+      5.05,
+      45.0378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Brücke (Pont Vieux)",
+            "hu": "Öreg híd (Pont Vieux)",
+            "ro": "Podul Vechi (Pont Vieux)",
+            "en": "Old Bridge (Pont Vieux)"
+          },
+          "coords": [
+            5.048552,
+            45.041662
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Meisterwerk, um die beste Aussicht auf den Fluss Isère zu genießen, und vergessen Sie Ihre Kamera für tolle Fotos nicht.",
+            "hu": "Sétáljon át ezen a történelmi remekművön, hogy megcsodálja az Isère folyóra nyíló legjobb kilátást, és ne felejtse el a fényképezőgépét a remek fotókhoz.",
+            "ro": "Plimbați-vă pe această capodoperă istorică pentru a admira cea mai bună priveliște asupra râului Isère și nu uitați aparatul foto pentru cadre spectaculoase.",
+            "en": "Stroll across this historic masterpiece to take in the absolute best views of the Isère river, and don't forget your camera to capture some stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Church of Notre-Dame"
+          },
+          "coords": [
+            5.049178,
+            45.039565
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche und nehmen Sie sich einen ruhigen Moment im Inneren, bevor Sie den belebten Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, és töltsön el egy csendes pillanatot a belső térben, mielőtt felfedezné a nyüzsgő városközpontot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici și rezervați-vă un moment de liniște în interior înainte de a explora centrul plin de viață al orașului.",
+            "en": "Admire the impressive architecture of this beautiful church and take a quiet, reflective moment inside before heading out to explore the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pogne-Museum",
+            "hu": "Pogne Múzeum",
+            "ro": "Muzeul Pogne",
+            "en": "Pogne Museum"
+          },
+          "coords": [
+            5.047182,
+            45.038601
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Geheimnis des berühmten lokalen Gebäcks und kaufen Sie unbedingt eine frische Pogne direkt aus dem traditionellen Ofen.",
+            "hu": "Fedezze fel a híres helyi péksütemény lenyűgöző titkait, és feltétlenül vásároljon egyenesen a hagyományos kemencéből származó, frissen sült pognét.",
+            "ro": "Descoperiți secretul fascinant al celebrei rețete locale de patiserie și asigurați-vă că o să cumpărați un pogne proaspăt scos din cuptorul tradițional.",
+            "en": "Discover the fascinating secrets behind the famous local pastry, and make sure to buy a freshly baked pogne directly from their traditional bakery oven."
+          }
+        },
+        {
+          "name": {
+            "de": "Isère-Ufer",
+            "hu": "Isère rakpart",
+            "ro": "Cheiul Isère",
+            "en": "Isère Riverbanks"
+          },
+          "coords": [
+            5.04377,
+            45.043076
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang am malerischen Flussufer und setzen Sie sich auf eine Bank, um die vorbeifahrenden Boote im Sonnenlicht zu beobachten.",
+            "hu": "Élvezze a pihentető sétát a festői folyóparton, és üljön le egy padra, hogy a napfényben fürdőzve figyelje a lassan elhaladó hajókat és a békés tájat.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe malul pitoresc al râului și așezați-vă pe o bancă pentru a privi bărcile trecând ușor în lumina blândă a soarelui.",
+            "en": "Enjoy a highly relaxing stroll along the picturesque riverbank, and grab a seat on a wooden bench to watch the gentle boats passing by in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Nailles",
+            "hu": "Nailles-erdő",
+            "ro": "Pădurea Nailles",
+            "en": "Nailles Woods"
+          },
+          "coords": [
+            5.054227,
+            45.028695
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Waldluft auf den gut markierten Wanderwegen tief ein und packen Sie ein kleines Picknick ein, um die Natur in vollen Zügen zu genießen.",
+            "hu": "Lélegezze be a friss erdei levegőt a jól jelzett ösvényeken, és vigyen magával egy kis pikniket, hogy a természet lágy ölén teljesen feltöltődjön energiával.",
+            "ro": "Respirați aerul proaspăt de pădure pe traseele perfect marcate și aduceți un mic picnic pentru a vă bucura de natură la superlativ într-o pauză binemeritată.",
+            "en": "Take a deep breath of fresh forest air along the well-marked hiking trails, and pack a lovely little picnic to fully immerse yourself in nature's tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": [
+          "Beginnen Sie Ihren Tag am majestätischen Pont Vieux, wo Sie die frische Morgenbrise und den weiten Blick auf den Fluss Isère genießen können. Ein perfekter Start für unsere Entdeckungsreise.",
+          "Zur Mittagszeit tauchen Sie in die lokale Kultur ein, indem Sie die prächtige Architektur der Notre-Dame-Kirche bewundern und im Pogne-Museum die Geheimnisse des regionalen Backwerks entdecken.",
+          "Am Nachmittag bietet das Flussufer der Isère die ideale Kulisse für einen gemütlichen Spaziergang unter schattigen Bäumen, perfekt um die Seele baumeln zu lassen und die Natur zu genießen.",
+          "Beenden Sie den erlebnisreichen Tag im wunderschönen Wald von Nailles. Hier können Sie die sanfte Abendsonne bei einem entspannten Picknick auskosten und die Natur in vollen Zügen erleben."
+        ],
+        "hu": [
+          "Kezdje a napot a fenséges Pont Vieux-nál, ahol élvezheti a friss reggeli szellőt és a széles kilátást az Isère folyóra. Tökéletes kiindulópontja a városnéző kalandunknak.",
+          "Dél körül merüljön el a helyi kultúrában: csodálja meg a Notre-Dame templom csodás építészetét, majd fedezze fel a híres regionális péksütemények titkait a Pogne Múzeumban.",
+          "Délután az Isère folyópartja ideális helyszínt biztosít egy kényelmes sétához az árnyékos fák alatt, amely kiváló lehetőség a feltöltődésre és a nyugodt pihenésre.",
+          "Zárja ezt az eseménydús napot a gyönyörű Nailles-erdőben. Itt egy kellemes séta vagy piknik keretében élvezheti a lemenő nap lágy sugarait a lenyűgöző természet lágy ölén."
+        ],
+        "ro": [
+          "Începeți ziua la maiestuosul Pont Vieux, unde vă puteți bucura de briza proaspătă a dimineții și de vederea largă asupra râului Isère. Un start perfect pentru o zi de explorare.",
+          "La prânz, scufundați-vă în cultura locală admirând arhitectura splendidă a bisericii Notre-Dame și descoperind secretele patiseriei regionale la Muzeul Pogne.",
+          "După-amiaza, malurile râului Isère oferă cadrul ideal pentru o plimbare confortabilă pe sub copacii umbroși, locul perfect pentru a vă relaxa și a admira natura.",
+          "Încheiați ziua plină de evenimente în frumoasa Pădure Nailles. Aici vă puteți bucura de soarele blând al serii la un picnic relaxant, conectându-vă deplin cu liniștea naturii."
+        ],
+        "en": [
+          "Begin your day at the majestic Pont Vieux, where you can enjoy the crisp morning breeze and sweeping views of the Isère river. It is the absolute perfect start to our walking adventure.",
+          "Around midday, dive completely into local culture by admiring the splendid architecture of the Notre-Dame church, followed by discovering pastry secrets at the unique Pogne Museum.",
+          "In the afternoon, the banks of the Isère river provide the most ideal setting for a highly comfortable stroll under shady trees, a wonderful way to relax and recharge your energy.",
+          "Conclude your eventful day in the beautiful Nailles Woods. Here you can fully enjoy the gentle evening sun during a relaxing picnic, soaking in the complete tranquility of nature."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 4.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Isère-Ufer",
+            "hu": "Isère rakpart",
+            "ro": "Cheiul Isère",
+            "en": "Isère Riverbanks"
+          },
+          "coords": [
+            5.04377,
+            45.043076
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang am malerischen Flussufer und setzen Sie sich auf eine Bank, um die vorbeifahrenden Boote im Sonnenlicht zu beobachten.",
+            "hu": "Élvezze a pihentető sétát a festői folyóparton, és üljön le egy padra, hogy a napfényben fürdőzve figyelje a lassan elhaladó hajókat és a békés tájat.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe malul pitoresc al râului și așezați-vă pe o bancă pentru a privi bărcile trecând ușor în lumina blândă a soarelui.",
+            "en": "Enjoy a highly relaxing stroll along the picturesque riverbank, and grab a seat on a wooden bench to watch the gentle boats passing by in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Pont Vieux)",
+            "hu": "Öreg híd (Pont Vieux)",
+            "ro": "Podul Vechi (Pont Vieux)",
+            "en": "Old Bridge (Pont Vieux)"
+          },
+          "coords": [
+            5.048552,
+            45.041662
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Meisterwerk, um die beste Aussicht auf den Fluss Isère zu genießen, und vergessen Sie Ihre Kamera für tolle Fotos nicht.",
+            "hu": "Sétáljon át ezen a történelmi remekművön, hogy megcsodálja az Isère folyóra nyíló legjobb kilátást, és ne felejtse el a fényképezőgépét a remek fotókhoz.",
+            "ro": "Plimbați-vă pe această capodoperă istorică pentru a admira cea mai bună priveliște asupra râului Isère și nu uitați aparatul foto pentru cadre spectaculoase.",
+            "en": "Stroll across this historic masterpiece to take in the absolute best views of the Isère river, and don't forget your camera to capture some stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Church of Notre-Dame"
+          },
+          "coords": [
+            5.049178,
+            45.039565
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche und nehmen Sie sich einen ruhigen Moment im Inneren, bevor Sie den belebten Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, és töltsön el egy csendes pillanatot a belső térben, mielőtt felfedezné a nyüzsgő városközpontot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici și rezervați-vă un moment de liniște în interior înainte de a explora centrul plin de viață al orașului.",
+            "en": "Admire the impressive architecture of this beautiful church and take a quiet, reflective moment inside before heading out to explore the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pogne-Museum",
+            "hu": "Pogne Múzeum",
+            "ro": "Muzeul Pogne",
+            "en": "Pogne Museum"
+          },
+          "coords": [
+            5.047182,
+            45.038601
+          ],
+          "category": "museum",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Geheimnis des berühmten lokalen Gebäcks und kaufen Sie unbedingt eine frische Pogne direkt aus dem traditionellen Ofen.",
+            "hu": "Fedezze fel a híres helyi péksütemény lenyűgöző titkait, és feltétlenül vásároljon egyenesen a hagyományos kemencéből származó, frissen sült pognét.",
+            "ro": "Descoperiți secretul fascinant al celebrei rețete locale de patiserie și asigurați-vă că o să cumpărați un pogne proaspăt scos din cuptorul tradițional.",
+            "en": "Discover the fascinating secrets behind the famous local pastry, and make sure to buy a freshly baked pogne directly from their traditional bakery oven."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Nailles",
+            "hu": "Nailles-erdő",
+            "ro": "Pădurea Nailles",
+            "en": "Nailles Woods"
+          },
+          "coords": [
+            5.054227,
+            45.028695
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Waldluft auf den gut markierten Wanderwegen tief ein und packen Sie ein kleines Picknick ein, um die Natur in vollen Zügen zu genießen.",
+            "hu": "Lélegezze be a friss erdei levegőt a jól jelzett ösvényeken, és vigyen magával egy kis pikniket, hogy a természet lágy ölén teljesen feltöltődjön energiával.",
+            "ro": "Respirați aerul proaspăt de pădure pe traseele perfect marcate și aduceți un mic picnic pentru a vă bucura de natură la superlativ într-o pauză binemeritată.",
+            "en": "Take a deep breath of fresh forest air along the well-marked hiking trails, and pack a lovely little picnic to fully immerse yourself in nature's tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pizançon",
+            "hu": "Pizançon Kastély",
+            "ro": "Castelul Pizançon",
+            "en": "Pizançon Castle"
+          },
+          "coords": [
+            5.074152,
+            45.037891
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Schlossgelände, um die lokale Adelsgeschichte zu verstehen, und achten Sie besonders auf die kunstvollen Details der Außenfassade.",
+            "hu": "Fedezze fel a pompás kastély kertjét, hogy megértse a helyi nemesség történelmét, és fordítson különös figyelmet a külső homlokzat mesteri díszítéseire.",
+            "ro": "Explorați domeniul castelului pentru a înțelege istoria nobilimii locale și acordați o atenție deosebită detaliilor arhitecturale complexe ale fațadei.",
+            "en": "Explore the magnificent castle grounds to deeply understand the local noble history, paying special attention to the ornate and masterful facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            5.073085,
+            45.037093
+          ],
+          "category": "religious",
+          "arrive_at": "17:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den wunderschönen Glasfenstern dieser ruhigen Kirche verzaubern und besuchen Sie sie am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Hagyja, hogy elvarázsolják ennek a csendes templomnak a gyönyörű ólomüveg ablakai, és látogassa meg késő délután a legszebb természetes fényviszonyokért.",
+            "ro": "Lăsați-vă fascinați de vitraliile superbe ale acestei biserici liniștite și vizitați-o în a doua parte a după-amiezii pentru a prinde cea mai bună lumină.",
+            "en": "Allow yourself to be mesmerized by the beautiful stained glass windows of this quiet church, visiting in the late afternoon for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": [
+          "Schwingen Sie sich morgens auf Ihr Fahrrad und radeln Sie gemütlich am Ufer der Isère entlang, bevor Sie das historische Flair der alten Brücke in der Morgensonne in sich aufnehmen.",
+          "Nach der Brücke geht es weiter zur beeindruckenden Notre-Dame-Kirche und zum Pogne-Museum, wo Sie sich eine traditionelle süße Pause gönnen sollten, bevor die Tour weitergeht.",
+          "Am Nachmittag führt Sie die Route in den schattigen Wald von Nailles. Die kühle Brise und das viele Grün sind eine willkommene Abkühlung bei dieser sportlichen Entdeckungsreise.",
+          "Gegen Abend erreichen Sie das imposante Schloss Pizançon und die Kirche Saint-Michel. Die untergehende Sonne taucht die historischen Gemäuer in ein unvergessliches, goldenes Licht."
+        ],
+        "hu": [
+          "Pattanjon kerékpárra reggel, és tekerjen kényelmesen az Isère partján, mielőtt elmerülne a régi híd történelmi hangulatában a reggeli napsütésben fürdőzve.",
+          "A híd után az út a Notre-Dame templomhoz és a Pogne Múzeumhoz vezet, ahol mindenképpen érdemes egy hagyományos édes pihenőt tartani a túra folytatása előtt.",
+          "Délután az útvonal a Nailles-erdő árnyas fái közé vezet. A hűvös szellő és a rengeteg zöldellő növényzet frissítő élményt nyújt a sportos felfedezőút során.",
+          "Kora este érkezik meg a lenyűgöző Pizançon kastélyhoz és a Szent Mihály-templomhoz. A lemenő nap varázslatos aranyfénybe öltözteti a történelmi falakat."
+        ],
+        "ro": [
+          "Urcați-vă pe bicicletă dimineața și pedalați confortabil de-a lungul râului Isère, înainte de a absorbi atmosfera istorică a Podului Vechi sub primele raze ale soarelui.",
+          "După pod, traseul continuă spre biserica Notre-Dame și Muzeul Pogne, unde ar trebui să vă bucurați neapărat de o pauză dulce tradițională înainte de a pedala mai departe.",
+          "După-amiaza, traseul vă duce în pădurea umbroasă Nailles. Briza răcoroasă și multă verdeață reprezintă o pauză binevenită în această excursie activă de explorare.",
+          "Spre seară, ajungeți la impunătorul castel Pizançon și la biserica Saint-Michel. Apusul soarelui scaldă aceste ziduri istorice într-o lumină aurie de neuitat."
+        ],
+        "en": [
+          "Hop on your bike in the morning and cycle comfortably along the banks of the Isère river, before absorbing the historic atmosphere of the Old Bridge in the bright morning sunlight.",
+          "After the bridge, the route continues directly to the Notre-Dame church and the famous Pogne Museum, where you should absolutely treat yourself to a traditional sweet break.",
+          "In the afternoon, your path leads into the wonderfully shady Nailles Woods. The refreshing breeze and lush greenery offer a highly welcome cooling break during this active tour.",
+          "Towards the evening, you will reach the imposing Pizançon Castle and Saint-Michel Church. The slowly setting sun constantly bathes these ancient walls in an unforgettable golden light."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 6.45,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Freibad / Planschbecken",
+            "hu": "Szabadtéri Pancsoló",
+            "ro": "Piscina de vară",
+            "en": "Outdoor Paddling Pool"
+          },
+          "coords": [
+            5.041488,
+            45.016693
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder im sicheren Außenbecken planschen und bringen Sie unbedingt Sonnencreme und Snacks für einen perfekten, familienfreundlichen Vormittag mit.",
+            "hu": "Hagyja, hogy a gyerekek biztonságosan pancsoljanak a szabadtéri medencében, és feltétlenül vigyen magával naptejet, valamint rágcsálnivalót a délelőtthöz.",
+            "ro": "Lăsați copiii să se bălăcească în siguranță în piscina exterioară și nu uitați să aduceți cremă de soare și gustări pentru o dimineață perfectă în familie.",
+            "en": "Let the kids splash around happily in the safe outdoor paddling pool, and absolutely remember to bring sunscreen and snacks for a perfect family morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Nailles",
+            "hu": "Nailles-erdő",
+            "ro": "Pădurea Nailles",
+            "en": "Nailles Woods"
+          },
+          "coords": [
+            5.054227,
+            45.028695
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Waldluft auf den gut markierten Wanderwegen tief ein und packen Sie ein kleines Picknick ein, um die Natur in vollen Zügen zu genießen.",
+            "hu": "Lélegezze be a friss erdei levegőt a jól jelzett ösvényeken, és vigyen magával egy kis pikniket, hogy a természet lágy ölén teljesen feltöltődjön energiával.",
+            "ro": "Respirați aerul proaspăt de pădure pe traseele perfect marcate și aduceți un mic picnic pentru a vă bucura de natură la superlativ într-o pauză binemeritată.",
+            "en": "Take a deep breath of fresh forest air along the well-marked hiking trails, and pack a lovely little picnic to fully immerse yourself in nature's tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Pogne-Museum",
+            "hu": "Pogne Múzeum",
+            "ro": "Muzeul Pogne",
+            "en": "Pogne Museum"
+          },
+          "coords": [
+            5.047182,
+            45.038601
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Geheimnis des berühmten lokalen Gebäcks und kaufen Sie unbedingt eine frische Pogne direkt aus dem traditionellen Ofen.",
+            "hu": "Fedezze fel a híres helyi péksütemény lenyűgöző titkait, és feltétlenül vásároljon egyenesen a hagyományos kemencéből származó, frissen sült pognét.",
+            "ro": "Descoperiți secretul fascinant al celebrei rețete locale de patiserie și asigurați-vă că o să cumpărați un pogne proaspăt scos din cuptorul tradițional.",
+            "en": "Discover the fascinating secrets behind the famous local pastry, and make sure to buy a freshly baked pogne directly from their traditional bakery oven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Church of Notre-Dame"
+          },
+          "coords": [
+            5.049178,
+            45.039565
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche und nehmen Sie sich einen ruhigen Moment im Inneren, bevor Sie den belebten Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, és töltsön el egy csendes pillanatot a belső térben, mielőtt felfedezné a nyüzsgő városközpontot.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici și rezervați-vă un moment de liniște în interior înainte de a explora centrul plin de viață al orașului.",
+            "en": "Admire the impressive architecture of this beautiful church and take a quiet, reflective moment inside before heading out to explore the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Pont Vieux)",
+            "hu": "Öreg híd (Pont Vieux)",
+            "ro": "Podul Vechi (Pont Vieux)",
+            "en": "Old Bridge (Pont Vieux)"
+          },
+          "coords": [
+            5.048552,
+            45.041662
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Meisterwerk, um die beste Aussicht auf den Fluss Isère zu genießen, und vergessen Sie Ihre Kamera für tolle Fotos nicht.",
+            "hu": "Sétáljon át ezen a történelmi remekművön, hogy megcsodálja az Isère folyóra nyíló legjobb kilátást, és ne felejtse el a fényképezőgépét a remek fotókhoz.",
+            "ro": "Plimbați-vă pe această capodoperă istorică pentru a admira cea mai bună priveliște asupra râului Isère și nu uitați aparatul foto pentru cadre spectaculoase.",
+            "en": "Stroll across this historic masterpiece to take in the absolute best views of the Isère river, and don't forget your camera to capture some stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Isère-Ufer",
+            "hu": "Isère rakpart",
+            "ro": "Cheiul Isère",
+            "en": "Isère Riverbanks"
+          },
+          "coords": [
+            5.04377,
+            45.043076
+          ],
+          "category": "recreational",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang am malerischen Flussufer und setzen Sie sich auf eine Bank, um die vorbeifahrenden Boote im Sonnenlicht zu beobachten.",
+            "hu": "Élvezze a pihentető sétát a festői folyóparton, és üljön le egy padra, hogy a napfényben fürdőzve figyelje a lassan elhaladó hajókat és a békés tájat.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe malul pitoresc al râului și așezați-vă pe o bancă pentru a privi bărcile trecând ușor în lumina blândă a soarelui.",
+            "en": "Enjoy a highly relaxing stroll along the picturesque riverbank, and grab a seat on a wooden bench to watch the gentle boats passing by in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pizançon",
+            "hu": "Pizançon Kastély",
+            "ro": "Castelul Pizançon",
+            "en": "Pizançon Castle"
+          },
+          "coords": [
+            5.074152,
+            45.037891
+          ],
+          "category": "castle",
+          "arrive_at": "16:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Schlossgelände, um die lokale Adelsgeschichte zu verstehen, und achten Sie besonders auf die kunstvollen Details der Außenfassade.",
+            "hu": "Fedezze fel a pompás kastély kertjét, hogy megértse a helyi nemesség történelmét, és fordítson különös figyelmet a külső homlokzat mesteri díszítéseire.",
+            "ro": "Explorați domeniul castelului pentru a înțelege istoria nobilimii locale și acordați o atenție deosebită detaliilor arhitecturale complexe ale fațadei.",
+            "en": "Explore the magnificent castle grounds to deeply understand the local noble history, paying special attention to the ornate and masterful facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            5.073085,
+            45.037093
+          ],
+          "category": "religious",
+          "arrive_at": "18:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den wunderschönen Glasfenstern dieser ruhigen Kirche verzaubern und besuchen Sie sie am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Hagyja, hogy elvarázsolják ennek a csendes templomnak a gyönyörű ólomüveg ablakai, és látogassa meg késő délután a legszebb természetes fényviszonyokért.",
+            "ro": "Lăsați-vă fascinați de vitraliile superbe ale acestei biserici liniștite și vizitați-o în a doua parte a după-amiezii pentru a prinde cea mai bună lumină.",
+            "en": "Allow yourself to be mesmerized by the beautiful stained glass windows of this quiet church, visiting in the late afternoon for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": [
+          "Beginnen Sie den Tag entspannt am Freibad, perfekt für einen aktiven Morgen mit der Familie, bevor Sie eine kurze Fahrt in das grüne Herz des Nailles-Waldes unternehmen.",
+          "Die Mittagszeit verbringen Sie mit dem Auto im Stadtzentrum. Genießen Sie die Ausstellung im Pogne-Museum und besuchen Sie die ruhige und architektonisch beeindruckende Notre-Dame-Kirche.",
+          "Am Nachmittag führt Sie eine kurze Strecke zum historischen Pont Vieux und dem Flussufer der Isère, wo Sie bequem parken und einen erholsamen Spaziergang am Wasser machen können.",
+          "Den perfekten Abschluss bildet die Fahrt zum malerischen Schloss Pizançon und zur Kirche Saint-Michel, wo Sie abseits des Trubels den Tag mit einem herrlichen Ausblick beenden."
+        ],
+        "hu": [
+          "Kezdje a napot egy kellemes szabadtéri fürdőzéssel a pancsolóban, amely tökéletes családi program, mielőtt egy rövid autózással a Nailles-erdő zöld szívébe érkezne.",
+          "A dél körüli órákat a városközpontban töltheti. Élvezze a Pogne Múzeum kiállítását, és tegyen egy rövid látogatást a csendes és építészetileg is lenyűgöző Notre-Dame templomban.",
+          "Délután egy rövid autóút a történelmi Pont Vieux-hoz és az Isère partjához vezet, ahol könnyedén leparkolhat, majd tehet egy pihentető sétát a csillogó vízparton.",
+          "A tökéletes befejezést a Pizançon kastélyhoz és a Szent Mihály-templomhoz tett utazás jelenti, ahol a nyüzsgéstől távol, egy csodálatos kilátással zárhatja a napot."
+        ],
+        "ro": [
+          "Începeți ziua relaxat la piscina exterioară, perfectă pentru o dimineață activă cu familia, înainte de a face o scurtă plimbare cu mașina până în inima verde a Pădurii Nailles.",
+          "Petreceți perioada prânzului explorând centrul orașului. Bucurați-vă de expoziția de la Muzeul Pogne și vizitați liniștita și impresionanta biserică Notre-Dame din apropiere.",
+          "După-amiaza, un scurt traseu vă duce la istoricul Pont Vieux și pe malul râului Isère, unde puteți parca ușor și face o plimbare relaxantă chiar lângă apa curgătoare.",
+          "Finalul perfect îl reprezintă călătoria cu mașina la pitorescul castel Pizançon și la biserica Saint-Michel, unde puteți încheia ziua departe de agitație, cu o priveliște superbă."
+        ],
+        "en": [
+          "Start the day in a relaxed manner at the outdoor paddling pool, highly perfect for an active family morning, before taking a very short drive into the green heart of Nailles Woods.",
+          "Spend your midday hours driving into the town center. Greatly enjoy the exhibition at the Pogne Museum and easily visit the quiet, architecturally stunning Notre-Dame church.",
+          "In the afternoon, a very brief drive takes you to the historic Pont Vieux and the Isère riverbank, where you can park with ease and take a highly relaxing stroll by the flowing water.",
+          "The truly perfect conclusion is the scenic drive to Pizançon Castle and the Saint-Michel Church, where you can completely escape the bustle and end the day with a magnificent view."
+        ]
+      }
+    }
+  }
+}

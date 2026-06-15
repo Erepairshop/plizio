@@ -1,0 +1,451 @@
+{
+  "city_id": "makthar-cities-v2",
+  "anchor": {
+    "name": "Makthar",
+    "coords": [
+      9.2064,
+      35.8569
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 1.12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Maktaris",
+            "hu": "Maktaris Múzeuma",
+            "ro": "Muzeul Maktaris",
+            "en": "Maktaris Museum"
+          },
+          "coords": [
+            9.206376,
+            35.856003
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Museum, um die reiche Sammlung punischer und römischer Artefakte zu bewundern, aber achten Sie auf die unregelmäßigen Öffnungszeiten am Morgen.",
+            "hu": "Látogassa meg ezt a lenyűgöző múzeumot, ahol pun és római leleteket csodálhat meg, de a látogatást érdemes a délelőtti, nyugodtabb órákra időzíteni a tömeg elkerülése érdekében.",
+            "ro": "Vizitați acest muzeu fascinant pentru a admira colecția bogată de artefacte punice și romane, dar verificați programul de dimineață, care uneori poate suferi mici modificări.",
+            "en": "Visit this fascinating museum to admire its rich collection of Punic and Roman artifacts, but plan your visit for the early morning to avoid any unexpected schedule changes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mactaris",
+            "hu": "Mactaris",
+            "ro": "Mactaris",
+            "en": "Mactaris"
+          },
+          "coords": [
+            9.20754,
+            35.85413
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Ruinen der antiken Stadt Mactaris, die von der einstigen Größe der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Mactaris város kiterjedt romjait, amelyek a régió egykori nagyságáról tanúskodnak, és viseljen zárt, kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Explorați ruinele întinse ale anticului Mactaris, care mărturisesc măreția de odinioară a regiunii, și purtați neapărat încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the extensive ruins of the ancient city of Mactaris, which bear witness to the region's former greatness, and be sure to wear sturdy shoes for the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel von Hathor Miskar",
+            "hu": "Hathor Miskar Temploma",
+            "ro": "Templul lui Hathor Miskar",
+            "en": "Temple of Hathor Miskar"
+          },
+          "coords": [
+            9.209082,
+            35.854594
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Überreste dieses bedeutenden Tempels, der eine faszinierende Mischung aus punischen und römischen Einflüssen zeigt, am besten im Nachmittagslicht.",
+            "hu": "Csodálja meg e jelentős templom építészeti maradványait, amely a pun és római hatások lenyűgöző keveredését mutatja, és hozza magával fényképezőgépét a délutáni fényekhez.",
+            "ro": "Admirați vestigiile arhitecturale ale acestui templu important, ce reflectă un amestec fascinant de influențe punice și romane, de preferat în lumina blândă a după-amiezii.",
+            "en": "Marvel at the architectural remains of this significant temple, showcasing a fascinating blend of Punic and Roman influences, best photographed in the soft afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Hildeguns",
+            "hu": "Hildeguns Bazilikája",
+            "ro": "Bazilica Hildeguns",
+            "en": "Basilica of Hildeguns"
+          },
+          "coords": [
+            9.208084,
+            35.853022
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser byzantinischen Basilika, die wertvolle Einblicke in die frühchristliche Geschichte der Region bietet, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel ennek a bizánci bazilikának a romjait, amely értékes bepillantást enged a régió ókeresztény történelmébe, de kérjük, mindig maradjon a kijelölt látogatói ösvényeken.",
+            "ro": "Descoperiți ruinele acestei bazilici bizantine, care oferă o perspectivă valoroasă asupra istoriei paleocreștine a regiunii, asigurându-vă că rămâneți pe traseele marcate.",
+            "en": "Discover the ruins of this Byzantine basilica, offering valuable insights into the region's early Christian history, and make sure to stay on the clearly marked visitor paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Thermen",
+            "hu": "Nagy Fürdők",
+            "ro": "Marile Terme",
+            "en": "Large Baths"
+          },
+          "coords": [
+            9.208519,
+            35.851837
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Wandeln Sie durch die beeindruckenden Großen Thermen, deren gewaltige Ausmaße die römische Ingenieurskunst verdeutlichen, und bringen Sie ausreichend Trinkwasser für den Rundgang mit.",
+            "hu": "Sétáljon végig a lenyűgöző Nagy Fürdőkön, amelyek hatalmas méretei a római mérnöki tudást dicsérik, és vigyen magával elegendő ivóvizet a hosszas, árnyékmentes sétához.",
+            "ro": "Plimbați-vă prin impresionantele Mari Terme, ale căror dimensiuni uriașe evidențiază măiestria inginerească romană, și luați cu dumneavoastră suficientă apă de băut.",
+            "en": "Walk through the impressive Large Baths, whose massive scale highlights Roman engineering prowess, and bring plenty of drinking water for the long walk in the open sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapitol-Thermen",
+            "hu": "Capitoliumi fürdők",
+            "ro": "Termele Capitoliului",
+            "en": "Capitol Baths"
+          },
+          "coords": [
+            9.205756,
+            35.853799
+          ],
+          "category": "historical",
+          "arrive_at": "16:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die gut erhaltenen Mosaike und Säulen der Kapitol-Thermen, die vom luxuriösen römischen Lebensstil zeugen, und nutzen Sie einen physischen Reiseführer vor Ort.",
+            "hu": "Tekintse meg a Capitoliumi fürdők jól megőrzött mozaikjait és oszlopait, amelyek a fényűző római életmódról tanúskodnak, és használjon nyomtatott útikalauzt a helyszínen.",
+            "ro": "Priviți mozaicurile și coloanele bine conservate ale Termelor Capitoliului, mărturii ale stilului de viață roman luxos, și folosiți un ghid fizic pentru detalii istorice.",
+            "en": "View the well-preserved mosaics and columns of the Capitol Baths, testifying to the luxurious Roman lifestyle, and rely on a physical guidebook as signage is quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch im Musée de Maktaris und tauchen Sie in die lokale Geschichte ein. Am Mittag schlendern Sie durch die beeindruckenden Ruinen von Mactaris. Nachmittags erkunden Sie die religiösen Stätten und Thermenanlagen. Der Abend bietet einen entspannten Abschluss zwischen den antiken Säulen der Kapitol-Thermen, bevor Ihr Rundgang durch die Stadt endet.",
+        "hu": "Kezdje a napot a Musée de Maktaris megtekintésével, és merüljön el a helyi történelemben. Délben sétáljon végig Mactaris lenyűgöző ókori romjain. Délután fedezze fel a vallási helyszíneket és a hatalmas római fürdőket. Az este pihentető lezárást kínál a Capitoliumi fürdők ősi oszlopai között, mielőtt a városnéző túra a végéhez ér.",
+        "ro": "Începeți ziua cu o vizită la Musée de Maktaris și pătrundeți în istoria locală fascinantă. La prânz, plimbați-vă prin ruinele impresionante ale Mactarisului. După-amiaza, explorați siturile religioase și complexele termale. Seara oferă o încheiere relaxantă printre coloanele antice ale Termelor Capitoliului, înainte ca turul dumneavoastră să se termine.",
+        "en": "Start your day with a visit to the Musée de Maktaris and delve into the fascinating local history. At noon, stroll through the impressive ancient ruins of Mactaris. In the afternoon, explore the important religious sites and grand thermal complexes. The evening offers a relaxing conclusion among the ancient columns of the Capitol Baths before your tour ends."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 1.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zama Minor",
+            "hu": "Zama Minor",
+            "ro": "Zama Minor",
+            "en": "Zama Minor"
+          },
+          "coords": [
+            9.205708,
+            35.860508
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Stätte von Zama Minor, die für ihre entscheidende Schlacht bekannt ist, und planen Sie genügend Zeit ein, da das Gebiet ziemlich weitläufig ist.",
+            "hu": "Látogasson el Zama Minor történelmi helyszínére, amely döntő csatájáról ismert, és tervezzen be elegendő időt, mivel a terület meglehetősen kiterjedt és nincsenek árnyékos részek.",
+            "ro": "Vizitați situl istoric Zama Minor, cunoscut pentru bătălia sa decisivă, și alocați suficient timp pentru explorare, deoarece zona este destul de întinsă și lipsită de umbră.",
+            "en": "Visit the historical site of Zama Minor, famous for its decisive battle, and allocate plenty of time for exploration as the area is quite expansive and lacks shaded spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Maktaris",
+            "hu": "Maktaris Múzeuma",
+            "ro": "Muzeul Maktaris",
+            "en": "Maktaris Museum"
+          },
+          "coords": [
+            9.206376,
+            35.856003
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Museum, um die reiche Sammlung punischer und römischer Artefakte zu bewundern, aber achten Sie auf die unregelmäßigen Öffnungszeiten am Morgen.",
+            "hu": "Látogassa meg ezt a lenyűgöző múzeumot, ahol pun és római leleteket csodálhat meg, de a látogatást érdemes a délelőtti, nyugodtabb órákra időzíteni a tömeg elkerülése érdekében.",
+            "ro": "Vizitați acest muzeu fascinant pentru a admira colecția bogată de artefacte punice și romane, dar verificați programul de dimineață, care uneori poate suferi mici modificări.",
+            "en": "Visit this fascinating museum to admire its rich collection of Punic and Roman artifacts, but plan your visit for the early morning to avoid any unexpected schedule changes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mactaris",
+            "hu": "Mactaris",
+            "ro": "Mactaris",
+            "en": "Mactaris"
+          },
+          "coords": [
+            9.20754,
+            35.85413
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Ruinen der antiken Stadt Mactaris, die von der einstigen Größe der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Mactaris város kiterjedt romjait, amelyek a régió egykori nagyságáról tanúskodnak, és viseljen zárt, kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Explorați ruinele întinse ale anticului Mactaris, care mărturisesc măreția de odinioară a regiunii, și purtați neapărat încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the extensive ruins of the ancient city of Mactaris, which bear witness to the region's former greatness, and be sure to wear sturdy shoes for the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel von Hathor Miskar",
+            "hu": "Hathor Miskar Temploma",
+            "ro": "Templul lui Hathor Miskar",
+            "en": "Temple of Hathor Miskar"
+          },
+          "coords": [
+            9.209082,
+            35.854594
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Überreste dieses bedeutenden Tempels, der eine faszinierende Mischung aus punischen und römischen Einflüssen zeigt, am besten im Nachmittagslicht.",
+            "hu": "Csodálja meg e jelentős templom építészeti maradványait, amely a pun és római hatások lenyűgöző keveredését mutatja, és hozza magával fényképezőgépét a délutáni fényekhez.",
+            "ro": "Admirați vestigiile arhitecturale ale acestui templu important, ce reflectă un amestec fascinant de influențe punice și romane, de preferat în lumina blândă a după-amiezii.",
+            "en": "Marvel at the architectural remains of this significant temple, showcasing a fascinating blend of Punic and Roman influences, best photographed in the soft afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Thermen",
+            "hu": "Nagy Fürdők",
+            "ro": "Marile Terme",
+            "en": "Large Baths"
+          },
+          "coords": [
+            9.208519,
+            35.851837
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Wandeln Sie durch die beeindruckenden Großen Thermen, deren gewaltige Ausmaße die römische Ingenieurskunst verdeutlichen, und bringen Sie ausreichend Trinkwasser für den Rundgang mit.",
+            "hu": "Sétáljon végig a lenyűgöző Nagy Fürdőkön, amelyek hatalmas méretei a római mérnöki tudást dicsérik, és vigyen magával elegendő ivóvizet a hosszas, árnyékmentes sétához.",
+            "ro": "Plimbați-vă prin impresionantele Mari Terme, ale căror dimensiuni uriașe evidențiază măiestria inginerească romană, și luați cu dumneavoastră suficientă apă de băut.",
+            "en": "Walk through the impressive Large Baths, whose massive scale highlights Roman engineering prowess, and bring plenty of drinking water for the long walk in the open sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Punisches Monument",
+            "hu": "Pun műemlék",
+            "ro": "Monumentul punic",
+            "en": "Punic Monument"
+          },
+          "coords": [
+            9.202908,
+            35.851657
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Dieses seltene punische Monument bietet einen einzigartigen Einblick in die vorrömische Ära Nordafrikas; betrachten Sie die feinen Details am besten mit einem Fernglas.",
+            "hu": "Ez a ritka pun műemlék egyedülálló bepillantást nyújt Észak-Afrika rómaiak előtti korszakába; a finom részletek megfigyeléséhez érdemes egy kis távcsövet is magával hoznia.",
+            "ro": "Acest monument punic rar oferă o privire unică asupra epocii preromane a Africii de Nord; luați un binoclu pentru a putea observa detaliile sculpturale fine de la distanță.",
+            "en": "This rare Punic monument offers a unique glimpse into North Africa's pre-Roman era; consider bringing a pair of binoculars to properly appreciate the fine sculptural details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie radelnd bei Zama Minor und erfahren Sie mehr über die antiken Konflikte. Mittags fahren Sie zum Museum und den Kernruinen von Mactaris. Nachmittags radeln Sie gemütlich zu den faszinierenden Thermenanlagen. Abends erreichen Sie das punische Monument, wo Sie die reiche Geschichte dieser nordafrikanischen Stadt noch einmal im sanften Abendlicht reflektieren können.",
+        "hu": "Induljon kerékpárral Zama Minorhoz, és ismerje meg az ókori konfliktusokat. Délben tekerjen át a múzeumhoz és a központi Mactaris romokhoz. Délután kényelmesen elbiciklizhet a lenyűgöző fürdőkomplexumokhoz. Este érje el a pun műemléket, ahol az észak-afrikai város gazdag történelmét még egyszer, a lágy esti fényben elmélkedve élheti át.",
+        "ro": "Începeți pedalând la Zama Minor și aflați mai multe despre conflictele antice. La prânz, mergeți spre muzeu și ruinele centrale din Mactaris. După-amiaza, mergeți cu bicicleta către fascinantele complexe termale. Seara ajungeți la monumentul punic, unde puteți reflecta asupra istoriei bogate a acestui oraș nord-african în lumina blândă.",
+        "en": "Start cycling at Zama Minor and learn about the ancient conflicts of the region. At noon, ride to the museum and the core ruins of Mactaris. In the afternoon, enjoy a leisurely bike ride to the fascinating thermal complexes. In the evening, reach the Punic monument, where you can reflect on the rich history of this North African city in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zama Minor",
+            "hu": "Zama Minor",
+            "ro": "Zama Minor",
+            "en": "Zama Minor"
+          },
+          "coords": [
+            9.205708,
+            35.860508
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Stätte von Zama Minor, die für ihre entscheidende Schlacht bekannt ist, und planen Sie genügend Zeit ein, da das Gebiet ziemlich weitläufig ist.",
+            "hu": "Látogasson el Zama Minor történelmi helyszínére, amely döntő csatájáról ismert, és tervezzen be elegendő időt, mivel a terület meglehetősen kiterjedt és nincsenek árnyékos részek.",
+            "ro": "Vizitați situl istoric Zama Minor, cunoscut pentru bătălia sa decisivă, și alocați suficient timp pentru explorare, deoarece zona este destul de întinsă și lipsită de umbră.",
+            "en": "Visit the historical site of Zama Minor, famous for its decisive battle, and allocate plenty of time for exploration as the area is quite expansive and lacks shaded spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Maktaris",
+            "hu": "Maktaris Múzeuma",
+            "ro": "Muzeul Maktaris",
+            "en": "Maktaris Museum"
+          },
+          "coords": [
+            9.206376,
+            35.856003
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Museum, um die reiche Sammlung punischer und römischer Artefakte zu bewundern, aber achten Sie auf die unregelmäßigen Öffnungszeiten am Morgen.",
+            "hu": "Látogassa meg ezt a lenyűgöző múzeumot, ahol pun és római leleteket csodálhat meg, de a látogatást érdemes a délelőtti, nyugodtabb órákra időzíteni a tömeg elkerülése érdekében.",
+            "ro": "Vizitați acest muzeu fascinant pentru a admira colecția bogată de artefacte punice și romane, dar verificați programul de dimineață, care uneori poate suferi mici modificări.",
+            "en": "Visit this fascinating museum to admire its rich collection of Punic and Roman artifacts, but plan your visit for the early morning to avoid any unexpected schedule changes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mactaris",
+            "hu": "Mactaris",
+            "ro": "Mactaris",
+            "en": "Mactaris"
+          },
+          "coords": [
+            9.20754,
+            35.85413
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Ruinen der antiken Stadt Mactaris, die von der einstigen Größe der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Mactaris város kiterjedt romjait, amelyek a régió egykori nagyságáról tanúskodnak, és viseljen zárt, kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Explorați ruinele întinse ale anticului Mactaris, care mărturisesc măreția de odinioară a regiunii, și purtați neapărat încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the extensive ruins of the ancient city of Mactaris, which bear witness to the region's former greatness, and be sure to wear sturdy shoes for the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Hildeguns",
+            "hu": "Hildeguns Bazilikája",
+            "ro": "Bazilica Hildeguns",
+            "en": "Basilica of Hildeguns"
+          },
+          "coords": [
+            9.208084,
+            35.853022
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser byzantinischen Basilika, die wertvolle Einblicke in die frühchristliche Geschichte der Region bietet, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel ennek a bizánci bazilikának a romjait, amely értékes bepillantást enged a régió ókeresztény történelmébe, de kérjük, mindig maradjon a kijelölt látogatói ösvényeken.",
+            "ro": "Descoperiți ruinele acestei bazilici bizantine, care oferă o perspectivă valoroasă asupra istoriei paleocreștine a regiunii, asigurându-vă că rămâneți pe traseele marcate.",
+            "en": "Discover the ruins of this Byzantine basilica, offering valuable insights into the region's early Christian history, and make sure to stay on the clearly marked visitor paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Punisches Monument",
+            "hu": "Pun műemlék",
+            "ro": "Monumentul punic",
+            "en": "Punic Monument"
+          },
+          "coords": [
+            9.202908,
+            35.851657
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieses seltene punische Monument bietet einen einzigartigen Einblick in die vorrömische Ära Nordafrikas; betrachten Sie die feinen Details am besten mit einem Fernglas.",
+            "hu": "Ez a ritka pun műemlék egyedülálló bepillantást nyújt Észak-Afrika rómaiak előtti korszakába; a finom részletek megfigyeléséhez érdemes egy kis távcsövet is magával hoznia.",
+            "ro": "Acest monument punic rar oferă o privire unică asupra epocii preromane a Africii de Nord; luați un binoclu pentru a putea observa detaliile sculpturale fine de la distanță.",
+            "en": "This rare Punic monument offers a unique glimpse into North Africa's pre-Roman era; consider bringing a pair of binoculars to properly appreciate the fine sculptural details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen bequem zu Zama Minor, dem historischen Schlachtfeld. Mittags parken Sie nahe dem Museum und spazieren durch das antike Mactaris. Am Nachmittag bringt Sie Ihr Wagen zur byzantinischen Basilika und weiteren Ruinen. Den Abend lassen Sie am beeindruckenden punischen Monument ausklingen, welches einen großartigen Abschluss dieses spannenden Roadtrips bildet.",
+        "hu": "Reggel kényelmesen utazzon autóval a történelmi csatatérhez, Zama Minorhoz. Délben parkoljon le a múzeum közelében, és sétáljon végig az ókori Mactarison. Délután autója elviszi a bizánci bazilikához és más romokhoz. Az estét a lenyűgöző pun műemléknél zárhatja, amely nagyszerű befejezése ennek az izgalmas történelmi autós kirándulásnak.",
+        "ro": "Conduceți confortabil dimineața până la Zama Minor, un câmp de luptă istoric. La prânz, parcați lângă muzeu și plimbați-vă prin anticul Mactaris. După-amiaza, mașina vă va duce la bazilica bizantină și alte ruine majore. Încheiați seara la impresionantul monument punic, o concluzie excelentă pentru această călătorie auto captivantă în istorie.",
+        "en": "Drive comfortably in the morning to Zama Minor, the historic battlefield. At noon, park near the museum and walk through the sprawling ancient Mactaris. In the afternoon, your car will take you to the Byzantine basilica and other main ruins. End the evening at the impressive Punic monument, which forms a great conclusion to this exciting historical road trip."
+      }
+    }
+  }
+}

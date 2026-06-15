@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-la-rapita-cities-v2",
+  "anchor": {
+    "name": "la Ràpita",
+    "coords": [
+      0.59001,
+      40.61782
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Meeresmuseum des Ebro",
+            "hu": "Ebro Tengerészeti Múzeum",
+            "ro": "Muzeul Mării Ebrului",
+            "en": "Museum of the Sea of the Ebro"
+          },
+          "coords": [
+            0.598262,
+            40.621796
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche maritime Erbe und das ökologische Gleichgewicht des Ebro-Deltas ein und besuchen Sie das Museum am besten morgens.",
+            "hu": "Merüljön el az Ebro-delta gazdag tengerészeti örökségében és ökológiai egyensúlyában, és érdemes a csendesebb délelőtti órákban érkezni.",
+            "ro": "Descoperiți bogata moștenire maritimă și echilibrul ecologic al Deltei Ebrului și încercați să vizitați muzeul dimineața pentru a evita aglomerația.",
+            "en": "Dive into the rich maritime heritage and ecological balance of the Ebro Delta, and consider visiting during morning hours for fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Guardiola Turm",
+            "hu": "Guardiola Őrtorony",
+            "ro": "Turnul Guardiola",
+            "en": "Guardiola Tower"
+          },
+          "coords": [
+            0.585864,
+            40.623582
+          ],
+          "category": "landmark",
+          "arrive_at": "11:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Wachturm für einen atemberaubenden Panoramablick auf die Bucht, aber tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Mássza meg ezt a történelmi őrtornyot az öbölre nyíló lélegzetelállító panorámáért, de viseljen kényelmes cipőt az egyenetlen út miatt.",
+            "ro": "Urcați în acest turn de veghe istoric pentru o priveliște panoramică uluitoare asupra golfului, dar purtați încălțăminte comodă pe drumul denivelat.",
+            "en": "Climb this historic watchtower for breathtaking panoramic views of the bay, but wear sturdy shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockensteinhütte 10097",
+            "hu": "10097-es szárazkő kunyhó",
+            "ro": "Coliba de piatră seacă 10097",
+            "en": "Dry-stone hut 10097"
+          },
+          "coords": [
+            0.584288,
+            40.623589
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Trockensteinarchitektur der Bauern und achten Sie auf die meisterhafte Konstruktion ganz ohne Mörtel.",
+            "hu": "Csodálja meg a helyi gazdák hagyományos szárazkő építészetét, és figyelje meg közelebbről ezt a mesteri, habarcs nélküli technikát.",
+            "ro": "Admirați arhitectura tradițională din piatră seacă folosită de fermierii locali și observați cu atenție tehnica magistrală de construcție fără mortar.",
+            "en": "Admire the traditional dry-stone architecture once used by local farmers, and look closely at the masterful mortarless construction technique."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Senieta",
+            "hu": "Senieta Strand",
+            "ro": "Plaja Senieta",
+            "en": "Senieta Beach"
+          },
+          "coords": [
+            0.586248,
+            40.608649
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.66,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses charmanten Stadtstrandes und bringen Sie eigenes Wasser mit, da die Einrichtungen in der Nebensaison begrenzt sind.",
+            "hu": "Pihenjen ezen a bájos városi strand aranyhomokján, de vigyen magával vizet, mivel a holtszezonban a közeli szolgáltatások korlátozottak lehetnek.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje urbane fermecătoare, aducând apă proprie deoarece facilitățile pot fi limitate în extrasezon.",
+            "en": "Relax on the golden sands of this charming urban beach, bringing your own water as nearby facilities can be limited during the off-season."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturmstrand",
+            "hu": "Világítótorony Strand",
+            "ro": "Plaja Farului",
+            "en": "Lighthouse Beach"
+          },
+          "coords": [
+            0.58736,
+            40.609577
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in der Nähe des ikonischen Leuchtturms und kommen Sie am späten Nachmittag für spektakuläre Fotos zur goldenen Stunde.",
+            "hu": "Élvezze a frissítő úszást az ikonikus világítótorony közelében, és érdemes késő délután érkezni a látványos naplementés fotókhoz.",
+            "ro": "Bucurați-vă de o baie revigorantă lângă farul emblematic și încercați să ajungeți după-amiaza târziu pentru fotografii spectaculoase la apus.",
+            "en": "Enjoy a refreshing swim near the iconic lighthouse, and try to arrive by late afternoon for spectacular golden hour photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Schifffahrtsmuseum, um die lokale Kultur kennenzulernen. Mittags geht es hinauf zu einem historischen Wachturm und alten Ruinen mit Blick auf die Bucht. Der Nachmittag dient der Entspannung am Strand Senieta. Der Abend lockt mit einem Spaziergang am Leuchtturm.",
+        "hu": "A délelőtt a tengerészeti múzeumban indul, ahol megismerheti a helyi kultúrát. Délben felkapaszkodik egy történelmi őrtoronyhoz és egy ősi kőkunyhóhoz az öböl panorámájáért. A délután a Senieta strand pihenéséről szól. Az este egy lágy sétát hoz a helyi világítótorony közelében.",
+        "ro": "Dimineața începe la muzeul maritim pentru a înțelege cultura locală. La prânz, urcați la un turn istoric de veghe și la ruine vechi de piatră pentru a vedea golful. După-amiaza vă relaxați pe plaja urbană Senieta. Seara aduce o plimbare liniștită pe coastă lângă far.",
+        "en": "Morning starts at the maritime museum to understand local culture. Midday takes you up to a historic watchtower and old stone ruins for bay views. Afternoon is for relaxing at the Senieta urban beach. Evening brings a gentle coastal stroll near the local lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 3.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Meeresmuseum des Ebro",
+            "hu": "Ebro Tengerészeti Múzeum",
+            "ro": "Muzeul Mării Ebrului",
+            "en": "Museum of the Sea of the Ebro"
+          },
+          "coords": [
+            0.598262,
+            40.621796
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche maritime Erbe und das ökologische Gleichgewicht des Ebro-Deltas ein und besuchen Sie das Museum am besten morgens.",
+            "hu": "Merüljön el az Ebro-delta gazdag tengerészeti örökségében és ökológiai egyensúlyában, és érdemes a csendesebb délelőtti órákban érkezni.",
+            "ro": "Descoperiți bogata moștenire maritimă și echilibrul ecologic al Deltei Ebrului și încercați să vizitați muzeul dimineața pentru a evita aglomerația.",
+            "en": "Dive into the rich maritime heritage and ecological balance of the Ebro Delta, and consider visiting during morning hours for fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Guardiola Turm",
+            "hu": "Guardiola Őrtorony",
+            "ro": "Turnul Guardiola",
+            "en": "Guardiola Tower"
+          },
+          "coords": [
+            0.585864,
+            40.623582
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Wachturm für einen atemberaubenden Panoramablick auf die Bucht, aber tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Mássza meg ezt a történelmi őrtornyot az öbölre nyíló lélegzetelállító panorámáért, de viseljen kényelmes cipőt az egyenetlen út miatt.",
+            "ro": "Urcați în acest turn de veghe istoric pentru o priveliște panoramică uluitoare asupra golfului, dar purtați încălțăminte comodă pe drumul denivelat.",
+            "en": "Climb this historic watchtower for breathtaking panoramic views of the bay, but wear sturdy shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von La Ràpita",
+            "hu": "La Ràpita Világítótorony",
+            "ro": "Farul din La Ràpita",
+            "en": "La Ràpita Lighthouse"
+          },
+          "coords": [
+            0.585253,
+            40.607697
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Beobachten Sie diesen Leuchtturm, der den Fischern den Weg weist, und nehmen Sie sich Zeit für einen ruhigen Spaziergang voller maritimer Geschichte.",
+            "hu": "Figyelje meg ezt a működő világítótornyot, amely a helyi halászokat irányítja, és tegyen egy csendes sétát a tengerészeti történelem mentén.",
+            "ro": "Observați acest far funcțional care ghidează pescarii locali, făcând o plimbare liniștită pentru a aprecia istoria maritimă pe care o reprezintă.",
+            "en": "Observe this operational lighthouse guiding local fishermen, taking a moment to appreciate the maritime history it represents on a quiet stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Delícies",
+            "hu": "Delícies Strand",
+            "ro": "Plaja Delícies",
+            "en": "Delícies Beach"
+          },
+          "coords": [
+            0.583475,
+            40.606369
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strand mit hervorragender Wasserqualität, ideal für Familien, die einen sicheren Nachmittag am Meer verbringen möchten.",
+            "hu": "Kapcsolódjon ki ezen a kiváló vízminőségű, kedvelt strandon, amely tökéletes helyszín a családok számára egy biztonságos délutáni fürdőzéshez.",
+            "ro": "Relaxați-vă pe această plajă apreciată cu o calitate excelentă a apei, fiind locul perfect pentru familiile care doresc o baie sigură după-amiaza.",
+            "en": "Unwind on this well-loved beach with excellent water quality, making it a perfect spot for families to enjoy a safe afternoon splash."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Suís",
+            "hu": "Suís Strand",
+            "ro": "Plaja Suís",
+            "en": "Suís Beach"
+          },
+          "coords": [
+            0.58103,
+            40.604326
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigere Atmosphäre dieses charmanten Küstenabschnitts, ideal, um ein Buch zu lesen oder den sanften Mittelmeerwellen zu lauschen.",
+            "hu": "Fedezze fel ezen bájos partvidék csendesebb hangulatát, amely ideális olvasáshoz vagy a lágy mediterrán hullámok hallgatásához.",
+            "ro": "Descoperiți atmosfera mai liniștită a acestui colț de coastă fermecător, ideal pentru a citi o carte sau pentru a asculta valurile blânde.",
+            "en": "Discover the quieter atmosphere of this charming coastal spot, ideal for reading a book or enjoying the sound of the gentle Mediterranean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Figueres",
+            "hu": "Figueres Strand",
+            "ro": "Plaja Figueres",
+            "en": "Figueres Beach"
+          },
+          "coords": [
+            0.578217,
+            40.601153
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den weichen Sand dieses malerischen Strandes, ein fantastischer Ort, um den Tag bei wunderschönen Abendfarben ausklingen zu lassen.",
+            "hu": "Süllyessze lábujjait e festői strand puha homokjába, ami egy fantasztikus helyszín a nap befejezéséhez és a gyönyörű esti színek megfigyeléséhez.",
+            "ro": "Afundați-vă degetele în nisipul fin al acestei plaje pitorești, un loc fantastic pentru a vă încheia ziua admirând culorile superbe ale serii.",
+            "en": "Sink your toes into the soft sand of this picturesque beach, a fantastic place to end your day while watching the beautiful evening hues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der maritimen Geschichte im Museum. Mittags fahren Sie zum Aussichtspunkt Guardiola und dem aktiven Leuchtturm. Der Nachmittag führt Sie an den herrlichen Stränden Delícies und Suís vorbei. Der Abend endet perfekt im weichen Sand von Figueres.",
+        "hu": "Kezdje kerékpártúráját a tengeri történelem felfedezésével a múzeumban. Délben tekerjen a Guardiola kilátóponthoz és az aktív világítótoronyhoz. A délután a lenyűgöző Delícies és Suís strandok mentén telik. Az este tökéletesen zárul a Figueres strand puha homokján.",
+        "ro": "Începeți turul cu bicicleta explorând istoria mării la muzeu. La prânz, pedalați spre punctul de belvedere Guardiola și farul activ din apropiere. După-amiaza se desfășoară de-a lungul plajelor superbe Delícies și Suís. Seara se încheie perfect pe nisipul moale al plajei Figueres.",
+        "en": "Kick off your cycling tour diving into sea history at the museum. Midday moves towards the towering Guardiola viewpoint and the nearby active lighthouse. Afternoon rolls along the stunning Delícies and Suís beaches. Evening concludes perfectly on the soft sands of Figueres."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Meeresmuseum des Ebro",
+            "hu": "Ebro Tengerészeti Múzeum",
+            "ro": "Muzeul Mării Ebrului",
+            "en": "Museum of the Sea of the Ebro"
+          },
+          "coords": [
+            0.598262,
+            40.621796
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche maritime Erbe und das ökologische Gleichgewicht des Ebro-Deltas ein und besuchen Sie das Museum am besten morgens.",
+            "hu": "Merüljön el az Ebro-delta gazdag tengerészeti örökségében és ökológiai egyensúlyában, és érdemes a csendesebb délelőtti órákban érkezni.",
+            "ro": "Descoperiți bogata moștenire maritimă și echilibrul ecologic al Deltei Ebrului și încercați să vizitați muzeul dimineața pentru a evita aglomerația.",
+            "en": "Dive into the rich maritime heritage and ecological balance of the Ebro Delta, and consider visiting during morning hours for fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Racó Mamadits",
+            "hu": "Racó Mamadits",
+            "ro": "Racó Mamadits",
+            "en": "Racó Mamadits"
+          },
+          "coords": [
+            0.565349,
+            40.627225
+          ],
+          "category": "natural",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige Naturgebiet voller typischer lokaler Flora und denken Sie in den wärmeren Sommermonaten an Insektenschutzmittel.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi növényvilággal teli, békés természeti enklávét, de a melegebb nyári hónapokban ne felejtse el a szúnyogriasztót.",
+            "ro": "Explorați această enclavă naturală liniștită plină de floră locală și nu uitați să luați repelent împotriva insectelor în lunile calde de vară.",
+            "en": "Explore this serene natural enclave full of typical local flora, and remember to pack insect repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Mola de Telles",
+            "hu": "Mola de Telles",
+            "ro": "Mola de Telles",
+            "en": "Mola de Telles"
+          },
+          "coords": [
+            0.565412,
+            40.620094
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese natürliche Erhebung für einen markanten Blick über das Delta und nehmen Sie ausreichend Wasser sowie Sonnenschutz mit.",
+            "hu": "Túrázzon fel erre a természetes magaslatra a deltára nyíló lenyűgöző kilátásért, és gondoskodjon elegendő vízről és napvédelemről.",
+            "ro": "Urcați pe această proeminență naturală pentru vederi uimitoare asupra deltei, asigurându-vă că aveți multă apă și protecție solară la voi.",
+            "en": "Hike up this natural prominence for striking views across the delta, ensuring you carry plenty of water and wear sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkofen 436",
+            "hu": "436-os Mészégető",
+            "ro": "Cuptorul de var 436",
+            "en": "Lime kiln 436"
+          },
+          "coords": [
+            0.575159,
+            40.630809
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Machen Sie an diesem alten Kalkofen eine Zeitreise in die Industriegeschichte, die einen kurzen, vorsichtigen Spaziergang durch das Gestrüpp erfordert.",
+            "hu": "Lépjen vissza az időben ennél az ősi mészégetőnél, amely az ipartörténet lenyűgöző emléke, de a cserjéken keresztül óvatos sétát igényel.",
+            "ro": "Întoarceți-vă în timp la acest cuptor antic de var, o rămășiță fascinantă a istoriei industriale, care necesită o scurtă plimbare atentă prin tufișuri.",
+            "en": "Step back in time at this ancient lime kiln, a fascinating remnant of industrial history that requires a short, careful walk through the scrub."
+          }
+        },
+        {
+          "name": {
+            "de": "Guardiola Turm",
+            "hu": "Guardiola Őrtorony",
+            "ro": "Turnul Guardiola",
+            "en": "Guardiola Tower"
+          },
+          "coords": [
+            0.585864,
+            40.623582
+          ],
+          "category": "landmark",
+          "arrive_at": "14:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Wachturm für einen atemberaubenden Panoramablick auf die Bucht, aber tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Mássza meg ezt a történelmi őrtornyot az öbölre nyíló lélegzetelállító panorámáért, de viseljen kényelmes cipőt az egyenetlen út miatt.",
+            "ro": "Urcați în acest turn de veghe istoric pentru o priveliște panoramică uluitoare asupra golfului, dar purtați încălțăminte comodă pe drumul denivelat.",
+            "en": "Climb this historic watchtower for breathtaking panoramic views of the bay, but wear sturdy shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Tontos",
+            "hu": "Tontos Strand",
+            "ro": "Plaja Tontos",
+            "en": "Tontos Beach"
+          },
+          "coords": [
+            0.576368,
+            40.599627
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.76,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Küstenabenteuer an diesem lebhaften Strand, der für sein klares Wasser bekannt ist und wo Sie hervorragend lokale Meeresfrüchte probieren können.",
+            "hu": "Zárja tengerparti kalandját ezen a nyüzsgő strandon, amely tiszta vizéről híres, és kiváló hely a közeli friss tengeri ételek megkóstolására.",
+            "ro": "Încheiați-vă aventura pe coastă la această plajă plină de viață, renumită pentru apele sale clare și ca un loc excelent pentru a gusta fructe de mare.",
+            "en": "Wrap up your coastal adventure at this lively beach area, renowned for its clear waters and a great spot to try local seafood nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum Schifffahrtsmuseum für Einblicke in das Delta. Mittags erkunden Sie die wilde Schönheit des Hinterlandes bei Racó Mamadits und Mola de Telles. Der Nachmittag bringt Geschichte an einem alten Kalkofen und einem Panoramaturm. Abends entspannen Sie am Strand der Tontos.",
+        "hu": "Utazzon először a tengerészeti múzeumba a delta megismeréséhez. A dél fénypontja a vadabb belterületi táj, a Racó Mamadits és a Mola de Telles felfedezése. A délután a történelemé egy mészégetőnél és egy panorámatoronynál. Az este lazításra csábít a nyüzsgő Platja dels Tontosnál.",
+        "ro": "Conduceți mai întâi la muzeul maritim pentru informații despre deltă. Prânzul este pentru explorarea frumuseții sălbatice interioare la Racó Mamadits și Mola de Telles. După-amiaza treceți pe la un cuptor de var și un turn cu panoramă. Seara vă invită să vă relaxați la Platja dels Tontos.",
+        "en": "Drive first to the maritime museum for early insights into the delta. Midday is for exploring the wilder inland beauty at Racó Mamadits and Mola de Telles. Afternoon shifts back to history at a lime kiln and a panoramic tower. Evening invites you to relax by the lively Platja dels Tontos."
+      }
+    }
+  }
+}

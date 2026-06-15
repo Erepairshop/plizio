@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-cemagi-cities-v2",
+  "anchor": {
+    "name": "Cemagi",
+    "coords": [
+      115.10993,
+      -8.63249
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 1.26,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Labyrinth Arts Centre",
+            "hu": "Labyrinth Arts Centre",
+            "ro": "Labyrinth Arts Centre",
+            "en": "Labyrinth Arts Centre"
+          },
+          "coords": [
+            115.096153,
+            -8.628112
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Kulturzentrum voller lokaler Kunst und interaktiver Installationen, am besten gleich morgens ohne große Menschenmassen.",
+            "hu": "Fedezze fel ezt a helyi művészeteket és interaktív installációkat bemutató kulturális központot, és érkezzen korán a tömeg elkerülése érdekében.",
+            "ro": "Descoperiți acest centru cultural unic cu artă locală și instalații imersive, ajungând devreme pentru a vă bucura de exponate fără aglomerație.",
+            "en": "Discover this unique cultural hub showcasing local artistry and immersive installations, arriving early to enjoy the exhibits without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Odyssey Garden",
+            "hu": "Odyssey Garden",
+            "ro": "Odyssey Garden",
+            "en": "Odyssey Garden"
+          },
+          "coords": [
+            115.094882,
+            -8.627707
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese wunderschön gestalteten Landschaften, die einen friedlichen Rückzugsort bieten, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Sétáljon végig ezen a gyönyörűen kialakított, békés menedéket nyújtó tájon, és hozza magával fényképezőgépét a trópusi lombozat megörökítéséhez.",
+            "ro": "Plimbați-vă prin aceste peisaje frumos sculptate care oferă un refugiu liniștit și aduceți camera foto pentru a surprinde frunzișul tropical.",
+            "en": "Stroll through these beautifully sculpted landscapes offering a peaceful retreat, and bring your camera to capture the vibrant tropical foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Gardenia",
+            "hu": "Gardenia",
+            "ro": "Gardenia",
+            "en": "Gardenia"
+          },
+          "coords": [
+            115.094145,
+            -8.629151
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses botanische Schutzgebiet mit seltenen Pflanzen und tragen Sie bequeme Schuhe, um die schattigen Ecken optimal zu erkunden.",
+            "hu": "Csodálja meg ezt a ritka növényekkel teli botanikai szentélyt, és viseljen kényelmes cipőt az árnyékos ösvények kényelmes bejárásához.",
+            "ro": "Admirați acest sanctuar botanic plin de plante rare și poteci relaxante, purtând încălțăminte confortabilă pentru a explora colțurile umbrite.",
+            "en": "Marvel at this botanical sanctuary filled with rare plants and relaxing pathways, wearing comfortable shoes to fully explore the shaded corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Funky Place",
+            "hu": "Funky Place",
+            "ro": "Funky Place",
+            "en": "Funky Place"
+          },
+          "coords": [
+            115.097439,
+            -8.629687
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielseitige Atmosphäre dieses kreativen Wahrzeichens mit schrägem Design, ideal für eine kurze Pause und bunte Erinnerungsfotos.",
+            "hu": "Élvezze a kreatív nevezetesség eklektikus hangulatát és mókás dizájnját, amely tökéletes egy rövid pihenőhöz és néhány színes fotó elkészítéséhez.",
+            "ro": "Bucurați-vă de atmosfera eclectică a acestui reper creativ cu design neobișnuit, perfect pentru o scurtă odihnă și câteva fotografii colorate.",
+            "en": "Soak up the eclectic atmosphere at this creative landmark featuring quirky designs, perfect for a short rest and snapping some colorful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuanu Park",
+            "hu": "Nuanu Park",
+            "ro": "Nuanu Park",
+            "en": "Nuanu Park"
+          },
+          "coords": [
+            115.09919,
+            -8.628129
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen weitläufigen Freizeitpark, der Kunst und Natur verbindet, und bleiben Sie auf den Wegen, um versteckte Skulpturen zu finden.",
+            "hu": "Barangoljon ebben a modern művészetet és a természetet ötvöző hatalmas parkban, a kijelölt ösvényeken maradva a rejtett szobrok felfedezéséhez.",
+            "ro": "Plimbați-vă prin acest parc extins care îmbină arta modernă cu natura, rămânând pe traseele marcate pentru a observa ușor sculpturile ascunse.",
+            "en": "Wander around this expansive recreational park blending modern art with nature, staying on the marked trails to easily spot the hidden sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Lumeira",
+            "hu": "Lumeira",
+            "ro": "Lumeira",
+            "en": "Lumeira"
+          },
+          "coords": [
+            115.098864,
+            -8.626851
+          ],
+          "category": "landmark",
+          "arrive_at": "14:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die faszinierenden visuellen Darstellungen dieses modernen Wahrzeichens, wobei Sie sich vorher über spezielle Lichtinstallationen informieren sollten.",
+            "hu": "Tapasztalja meg ennek a modern nevezetességnek a lenyűgöző vizuális elemeit, és ellenőrizze a menetrendet a különleges fényinstallációkért.",
+            "ro": "Experimentați afișajele vizuale fascinante ale acestui reper modern, verificând programul în prealabil pentru a prinde instalațiile speciale.",
+            "en": "Experience the mesmerizing visual displays of this modern landmark, checking the schedule beforehand to catch any special light installations."
+          }
+        },
+        {
+          "name": {
+            "de": "Pacha Alpaca",
+            "hu": "Pacha Alpaca",
+            "ro": "Pacha Alpaca",
+            "en": "Pacha Alpaca"
+          },
+          "coords": [
+            115.097546,
+            -8.627106
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Interagieren Sie an diesem charmanten Ort mit freundlichen Alpakas und halten Sie etwas Bargeld bereit, um vor Ort Tierfutter kaufen zu können.",
+            "hu": "Lépjen kapcsolatba a barátságos alpakákkal ezen a bájos állatos helyszínen, és tartson magánál némi készpénzt, hogy a helyszínen takarmányt vásárolhasson.",
+            "ro": "Interacționați cu alpaca prietenoase în acest loc fermecător, păstrând la dumneavoastră puțin numerar pentru a cumpăra hrană pentru animale.",
+            "en": "Interact with the friendly alpacas at this charming animal encounter spot, keeping a small amount of cash handy to purchase animal feed on-site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der künstlerischen Atmosphäre des Labyrinth Arts Centre, bevor Sie entspannt zum Odyssey Garden spazieren.\n\nGenießen Sie die üppige Gardenia und die herrlich schräge Architektur des Funky Place, während Sie die tropische Umgebung im gemütlichen Tempo erkunden.\n\nVerbringen Sie einen gemütlichen Nachmittag im Nuanu Park, wo Kunst und Natur auf faszinierende Weise verschmelzen.\n\nBeenden Sie Ihre Tour bei den beeindruckenden Installationen von Lumeira und treffen Sie zum krönenden Abschluss die sanften Tiere im Pacha Alpaca.",
+        "hu": "Kezdje a napot a Labyrinth Arts Centre művészi hangulatában, majd tegyen egy békés sétát az Odyssey Garden felé.\n\nFolytassa útját a buja Gardenia kertjében, majd csodálja meg a Funky Place különleges építészetét kényelmes sétatempóban haladva.\n\nTöltsön el egy kellemes délutánt a Nuanu Park szobrokkal tarkított, hatalmas kiterjedésű, művészetet és természetet ötvöző zöldterületein.\n\nZárja gyalogos útját a Lumeira látványos elemeinél, majd koronázza meg a napot a Pacha Alpaca szelíd lakóival való vidám találkozással.",
+        "ro": "Începeți ziua scufundați în ambianța artistică de la Labyrinth Arts Centre, urmată de o plimbare liniștită spre Odyssey Garden.\n\nContinuați la luxurianta Gardenia înainte de a descoperi arhitectura ciudată de la Funky Place, bucurându-vă de împrejurimile tropicale.\n\nPetreceți o după-amiază relaxantă explorând Nuanu Park, unde instalațiile creative se îmbină perfect cu frumusețea naturală captivantă.\n\nÎncheiați-vă călătoria pe jos la Lumeira, urmată de o întâlnire interactivă și veselă cu rezidenții blânzi de la Pacha Alpaca.",
+        "en": "Start your day immersed in the artistic ambiance of the Labyrinth Arts Centre. Let the intricate designs inspire you before a peaceful stroll towards Odyssey Garden.\n\nContinue the garden theme at the lush Gardenia before encountering the delightfully odd architecture of the Funky Place. Enjoy the vibrant tropical surroundings at a relaxed walking pace.\n\nSpend a leisurely afternoon wandering the vast, sculpture-dotted expanses of Nuanu Park. The seamless blend of creative installations and natural beauty is truly captivating.\n\nConclude your walking journey by the striking displays of Lumeira, followed by a lighthearted, interactive encounter with the gentle residents of Pacha Alpaca to cap off a wonderful day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 5.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuanu Park",
+            "hu": "Nuanu Park",
+            "ro": "Nuanu Park",
+            "en": "Nuanu Park"
+          },
+          "coords": [
+            115.09919,
+            -8.628129
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen weitläufigen Freizeitpark, der Kunst und Natur verbindet, und bleiben Sie auf den Wegen, um versteckte Skulpturen zu finden.",
+            "hu": "Barangoljon ebben a modern művészetet és a természetet ötvöző hatalmas parkban, a kijelölt ösvényeken maradva a rejtett szobrok felfedezéséhez.",
+            "ro": "Plimbați-vă prin acest parc extins care îmbină arta modernă cu natura, rămânând pe traseele marcate pentru a observa ușor sculpturile ascunse.",
+            "en": "Wander around this expansive recreational park blending modern art with nature, staying on the marked trails to easily spot the hidden sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Labyrinth Arts Centre",
+            "hu": "Labyrinth Arts Centre",
+            "ro": "Labyrinth Arts Centre",
+            "en": "Labyrinth Arts Centre"
+          },
+          "coords": [
+            115.096153,
+            -8.628112
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Kulturzentrum voller lokaler Kunst und interaktiver Installationen, am besten gleich morgens ohne große Menschenmassen.",
+            "hu": "Fedezze fel ezt a helyi művészeteket és interaktív installációkat bemutató kulturális központot, és érkezzen korán a tömeg elkerülése érdekében.",
+            "ro": "Descoperiți acest centru cultural unic cu artă locală și instalații imersive, ajungând devreme pentru a vă bucura de exponate fără aglomerație.",
+            "en": "Discover this unique cultural hub showcasing local artistry and immersive installations, arriving early to enjoy the exhibits without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Odyssey Garden",
+            "hu": "Odyssey Garden",
+            "ro": "Odyssey Garden",
+            "en": "Odyssey Garden"
+          },
+          "coords": [
+            115.094882,
+            -8.627707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese wunderschön gestalteten Landschaften, die einen friedlichen Rückzugsort bieten, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Sétáljon végig ezen a gyönyörűen kialakított, békés menedéket nyújtó tájon, és hozza magával fényképezőgépét a trópusi lombozat megörökítéséhez.",
+            "ro": "Plimbați-vă prin aceste peisaje frumos sculptate care oferă un refugiu liniștit și aduceți camera foto pentru a surprinde frunzișul tropical.",
+            "en": "Stroll through these beautifully sculpted landscapes offering a peaceful retreat, and bring your camera to capture the vibrant tropical foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset viewpoint on Tanah Lot Temple",
+            "hu": "Sunset viewpoint on Tanah Lot Temple",
+            "ro": "Sunset viewpoint on Tanah Lot Temple",
+            "en": "Sunset viewpoint on Tanah Lot Temple"
+          },
+          "coords": [
+            115.088214,
+            -8.623498
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean und die Tempelsilhouette. Sichern Sie sich frühzeitig einen Platz, da es hier abends sehr voll wird.",
+            "hu": "Gyönyörködjön az ikonikus templom sziluettjére nyíló óceáni kilátásban, de foglaljon helyet korán, mivel a környék alkonyatkor nagyon forgalmassá válik.",
+            "ro": "Admirați priveliștile vaste ale oceanului spre silueta iconică a templului, ocupând un loc devreme deoarece zona devine foarte aglomerată seara.",
+            "en": "Take in the sweeping ocean views looking towards the iconic temple silhouette, securing your spot early as this area gets incredibly busy at dusk."
+          }
+        },
+        {
+          "name": {
+            "de": "seseh beach",
+            "hu": "seseh beach",
+            "ro": "seseh beach",
+            "en": "seseh beach"
+          },
+          "coords": [
+            115.115819,
+            -8.647912
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.07,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem friedlichen schwarzen Vulkansand abseits der Massen und bringen Sie Ihr eigenes Handtuch mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen a békés fekete vulkáni homokon, távol a hatalmas tömegtől, és hozzon magával törölközőt és vizet, mivel a felszereltség meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe nisipurile vulcanice negre și liniștite, departe de mulțimile masive, aducând propriul prosop și apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the peaceful black volcanic sands away from the massive crowds, bringing your own towel and water as facilities here are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Local kite beach",
+            "hu": "Local kite beach",
+            "ro": "Local kite beach",
+            "en": "Local kite beach"
+          },
+          "coords": [
+            115.116869,
+            -8.64861
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Einheimische riesige traditionelle Drachen steigen lassen, aber halten Sie sich von den dicken Schnüren fern, um sicher zu bleiben.",
+            "hu": "Nézze meg, ahogy a helyiek hatalmas, hagyományos sárkányokat eregetnek a szeles parton, de a biztonság érdekében maradjon távol a vastag zsinóroktól.",
+            "ro": "Urmăriți localnicii care înalță zmeie tradiționale masive deasupra țărmului, dar păstrați distanța față de sforile groase pentru a fi în siguranță.",
+            "en": "Watch local enthusiasts fly massive traditional kites over the breezy shoreline, but stay clear of the thick strings to ensure a safe viewing experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer im weitläufigen Nuanu Park und radeln Sie dann zu den beeindruckenden Ausstellungen des Labyrinth Arts Centre.\n\nRadeln Sie zur Erholung zum friedlichen Odyssey Garden. Die schattigen Wege bieten eine perfekte Pause vor der Mittagssonne.\n\nFahren Sie in Richtung Küste, um vom Sunset Viewpoint den herrlichen Panoramablick auf das Meer und die Silhouette des Tanah Lot zu genießen.\n\nBeenden Sie Ihre Tour am Seseh Beach und beobachten Sie, wie riesige lokale Drachen anmutig über den benachbarten Strand fliegen.",
+        "hu": "Kezdje kerékpáros kalandját a Nuanu Park tágas ösvényein, majd tekerjen át a Labyrinth Arts Centre lenyűgöző kiállításainak megcsodálására.\n\nTekerjen el a békés Odyssey Gardenbe egy kis feltöltődésre. Az árnyékos ösvények tökéletes menedéket nyújtanak a déli napsütés elől.\n\nBiciklizzen a part felé, hogy a Sunset kilátóból lenyűgöző panorámában és a távoli Tanah Lot templom fenséges sziluettjében gyönyörködjön.\n\nZárja a napot a Seseh Beach hűsítő szellőjében, miközben végignézi, ahogy a hatalmas helyi sárkányok kecsesen szállnak a szomszédos strand felett.",
+        "ro": "Începeți aventura pe bicicletă la Nuanu Park, bucurându-vă de traseele extinse înainte de a explora expozițiile impresionante de la Labyrinth Arts Centre.\n\nPedalați până la liniștita Odyssey Garden pentru a vă reîncărca, unde potecile umbrite oferă o pauză perfectă de la soarele amiezii.\n\nMergeți spre coastă pentru a admira priveliștile panoramice de la punctul de belvedere Sunset, observând silueta templului Tanah Lot în depărtare.\n\nÎncheiați cu briza răcoroasă de la Seseh Beach, privind zmeiele masive care zboară grațios deasupra plajei locale alăturate.",
+        "en": "Kickstart your cycling adventure at Nuanu Park, enjoying the expansive trails before heading over to marvel at the impressive exhibits of the Labyrinth Arts Centre.\n\nPedal your way to the peaceful Odyssey Garden to recharge. The shaded pathways and lush greenery offer a perfect break from riding in the midday sunshine.\n\nRide towards the coast to catch stunning panoramic ocean views from the Sunset viewpoint, observing the majestic silhouette of Tanah Lot Temple in the distance.\n\nFinish up with a cooling breeze down at Seseh Beach, ending your ride by watching massive local kites soar gracefully above the neighboring kite beach sands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:25",
+      "total_km": 6.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Labyrinth Arts Centre",
+            "hu": "Labyrinth Arts Centre",
+            "ro": "Labyrinth Arts Centre",
+            "en": "Labyrinth Arts Centre"
+          },
+          "coords": [
+            115.096153,
+            -8.628112
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Kulturzentrum voller lokaler Kunst und interaktiver Installationen, am besten gleich morgens ohne große Menschenmassen.",
+            "hu": "Fedezze fel ezt a helyi művészeteket és interaktív installációkat bemutató kulturális központot, és érkezzen korán a tömeg elkerülése érdekében.",
+            "ro": "Descoperiți acest centru cultural unic cu artă locală și instalații imersive, ajungând devreme pentru a vă bucura de exponate fără aglomerație.",
+            "en": "Discover this unique cultural hub showcasing local artistry and immersive installations, arriving early to enjoy the exhibits without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pacha Alpaca",
+            "hu": "Pacha Alpaca",
+            "ro": "Pacha Alpaca",
+            "en": "Pacha Alpaca"
+          },
+          "coords": [
+            115.097546,
+            -8.627106
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Interagieren Sie an diesem charmanten Ort mit freundlichen Alpakas und halten Sie etwas Bargeld bereit, um vor Ort Tierfutter kaufen zu können.",
+            "hu": "Lépjen kapcsolatba a barátságos alpakákkal ezen a bájos állatos helyszínen, és tartson magánál némi készpénzt, hogy a helyszínen takarmányt vásárolhasson.",
+            "ro": "Interacționați cu alpaca prietenoase în acest loc fermecător, păstrând la dumneavoastră puțin numerar pentru a cumpăra hrană pentru animale.",
+            "en": "Interact with the friendly alpacas at this charming animal encounter spot, keeping a small amount of cash handy to purchase animal feed on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset viewpoint on Tanah Lot Temple",
+            "hu": "Sunset viewpoint on Tanah Lot Temple",
+            "ro": "Sunset viewpoint on Tanah Lot Temple",
+            "en": "Sunset viewpoint on Tanah Lot Temple"
+          },
+          "coords": [
+            115.088214,
+            -8.623498
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean und die Tempelsilhouette. Sichern Sie sich frühzeitig einen Platz, da es hier abends sehr voll wird.",
+            "hu": "Gyönyörködjön az ikonikus templom sziluettjére nyíló óceáni kilátásban, de foglaljon helyet korán, mivel a környék alkonyatkor nagyon forgalmassá válik.",
+            "ro": "Admirați priveliștile vaste ale oceanului spre silueta iconică a templului, ocupând un loc devreme deoarece zona devine foarte aglomerată seara.",
+            "en": "Take in the sweeping ocean views looking towards the iconic temple silhouette, securing your spot early as this area gets incredibly busy at dusk."
+          }
+        },
+        {
+          "name": {
+            "de": "Pererenan Beach",
+            "hu": "Pererenan Beach",
+            "ro": "Pererenan Beach",
+            "en": "Pererenan Beach"
+          },
+          "coords": [
+            115.12139,
+            -8.651869
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die dynamischen Wellen und die lebhafte Surfkultur an diesem beliebten Küstenabschnitt am besten am späten Vormittag.",
+            "hu": "Élvezze a dinamikus hullámokat és a nyüzsgő szörfös kultúrát ezen a népszerű partszakaszon, ideális esetben a késő délelőtti órákban idelátogatva.",
+            "ro": "Bucurați-vă de valurile dinamice și de cultura vibrantă a surfului pe această coastă populară, optând pentru o vizită înainte de prânz.",
+            "en": "Enjoy the dynamic waves and vibrant surf culture at this popular coastal stretch, opting for a late morning visit to watch the skilled surfers in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Local kite beach",
+            "hu": "Local kite beach",
+            "ro": "Local kite beach",
+            "en": "Local kite beach"
+          },
+          "coords": [
+            115.116869,
+            -8.64861
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Einheimische riesige traditionelle Drachen steigen lassen, aber halten Sie sich von den dicken Schnüren fern, um sicher zu bleiben.",
+            "hu": "Nézze meg, ahogy a helyiek hatalmas, hagyományos sárkányokat eregetnek a szeles parton, de a biztonság érdekében maradjon távol a vastag zsinóroktól.",
+            "ro": "Urmăriți localnicii care înalță zmeie tradiționale masive deasupra țărmului, dar păstrați distanța față de sforile groase pentru a fi în siguranță.",
+            "en": "Watch local enthusiasts fly massive traditional kites over the breezy shoreline, but stay clear of the thick strings to ensure a safe viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "seseh beach",
+            "hu": "seseh beach",
+            "ro": "seseh beach",
+            "en": "seseh beach"
+          },
+          "coords": [
+            115.115819,
+            -8.647912
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem friedlichen schwarzen Vulkansand abseits der Massen und bringen Sie Ihr eigenes Handtuch mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen a békés fekete vulkáni homokon, távol a hatalmas tömegtől, és hozzon magával törölközőt és vizet, mivel a felszereltség meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe nisipurile vulcanice negre și liniștite, departe de mulțimile masive, aducând propriul prosop și apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the peaceful black volcanic sands away from the massive crowds, bringing your own towel and water as facilities here are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins kulturelle Zentrum und beginnen Sie beim Labyrinth Arts Centre. Danach besuchen Sie die fröhlichen Tiere im Pacha Alpaca.\n\nMachen Sie eine malerische Fahrt zum berühmten Sunset Viewpoint abseits des abendlichen Trubels und genießen Sie den Blick auf die Klippen.\n\nFahren Sie zur dynamischen Küste von Pererenan Beach, spazieren Sie am Sand entlang und beobachten Sie die Surfer in den warmen Nachmittagsstunden.\n\nBeenden Sie Ihre Küstentour am örtlichen Drachenstrand mit farbenfrohen Flugschauen und lassen Sie den Tag am ruhigen Seseh Beach ausklingen.",
+        "hu": "Vezessen a környék kulturális szívébe, és kezdje útját a Labyrinth Arts Centre-ben, majd tegyen egy vidám látogatást a Pacha Alpaca állatainál.\n\nTegyen egy festői autózást a híres Sunset kilátóhoz még az esti csúcsforgalom előtt, élvezve a drámai tengerparti sziklák nappali látványát.\n\nAutózzon le a Pererenan Beach dinamikus partjaihoz, sétáljon a homokon, és nézze a hullámokat meglovagoló szörfösöket a trópusi délutánon.\n\nZárja tengerparti autós túráját a helyi sárkányos strandnál, ahol színes égi bemutatók várják, majd pihenjen meg a nyugodt Seseh Beachen.",
+        "ro": "Conduceți spre inima culturală a zonei, începând cu Labyrinth Arts Centre, urmată de o vizită veselă la animalele de la Pacha Alpaca.\n\nFaceți o plimbare pitorească spre celebrul punct de belvedere Sunset înainte de aglomerația serii, bucurându-vă de priveliștile dramatice de coastă.\n\nNavigați spre țărmurile dinamice de la Pererenan Beach, plimbându-vă pe nisip și urmărind surferii pe valuri în după-amiaza tropicală caldă.\n\nÎncheiați turul de coastă parcând lângă plaja locală de zmeie pentru a vedea spectacole colorate pe cer, terminând la serena Seseh Beach.",
+        "en": "Drive to the cultural heart of the area, starting your journey at the Labyrinth Arts Centre. Afterwards, hop over for a cheerful visit to the animals at Pacha Alpaca.\n\nTake a scenic drive to the famous Sunset viewpoint area ahead of the evening rush. Enjoy sweeping daytime views of the dramatic coastal cliffs and the temple structure.\n\nNavigate down to the dynamic shores of Pererenan Beach. Take a relaxing walk along the sand, watching surfers ride the crashing waves in the warm tropical afternoon.\n\nWrap up your coastal driving tour where the local traditions shine. Park near the local kite beach to see colorful displays in the sky, concluding at the serene Seseh Beach."
+      }
+    }
+  }
+}

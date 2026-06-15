@@ -1,0 +1,520 @@
+{
+  "city_id": "denmark-valby-cities-v2",
+  "anchor": {
+    "name": "Valby",
+    "coords": [
+      12.52,
+      55.66
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jesuskirken",
+            "hu": "Jesuskirken",
+            "ro": "Jesuskirken",
+            "en": "Jesuskirken"
+          },
+          "coords": [
+            12.522165,
+            55.665281
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unkonventionelle Architektur dieser schönen Kirche und achten Sie bei Ihrem morgendlichen Besuch auf ihre einzigartige Akustik.",
+            "hu": "Csodálja meg e gyönyörű templom rendhagyó építészetét, és figyeljen a különleges akusztikára a reggeli, igazán csendes látogatás során.",
+            "ro": "Admirați arhitectura neconvențională a acestei frumoase biserici și ascultați cu atenție acustica sa unică în timpul vizitei liniștite de dimineață.",
+            "en": "Admire the unconventional architecture of this beautiful church, and listen closely to its unique acoustic qualities during your quiet morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannes Døbers Kirke",
+            "hu": "Johannes Døbers Kirke",
+            "ro": "Johannes Døbers Kirke",
+            "en": "Johannes Døbers Kirke"
+          },
+          "coords": [
+            12.519321,
+            55.66003
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese modernistische Backsteinkirche mit ihrem wunderschönen dänischen Design, aber respektieren Sie die laufenden Gottesdienste.",
+            "hu": "Fedezze fel ezt a modernista, vöröstéglás templomot, hogy megcsodálja a dán dizájnt, de tartsa tiszteletben a benti helyi istentiszteleteket.",
+            "ro": "Explorați această biserică modernistă din cărămidă roșie pentru a aprecia designul danez, respectând totodată slujbele comunității locale în curs.",
+            "en": "Explore this modernist red-brick church to appreciate its beautiful minimalist Danish design, but remember to respect ongoing local community services inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisternerne",
+            "hu": "Cisternerne",
+            "ro": "Cisternerne",
+            "en": "Cisternerne"
+          },
+          "coords": [
+            12.52419,
+            55.669575
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese vergessenen unterirdischen Reservoirs hinab, um faszinierende Kunst zu erleben, aber tragen Sie unbedingt sehr warme Kleidung.",
+            "hu": "Ereszkedjen le e földalatti víztározókba a lenyűgöző művészeti installációkhoz, de viseljen meleg ruhát, mivel a klíma itt mindig nyirkos és hideg.",
+            "ro": "Coborâți în aceste rezervoare subterane uitate pentru a experimenta instalații de artă tulburătoare, dar purtați haine groase din cauza frigului.",
+            "en": "Descend into these forgotten underground reservoirs to experience haunting art installations, but wear warm clothing as the climate is always damp and cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakkehusmuseet",
+            "hu": "Bakkehusmuseet",
+            "ro": "Bakkehusmuseet",
+            "en": "Bakkehusmuseet"
+          },
+          "coords": [
+            12.531958,
+            55.668297
+          ],
+          "category": "museum",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem literarischen Zuhause aus dem Goldenen Zeitalter in die Vergangenheit und spazieren Sie durch den wunderschön rekonstruierten Garten.",
+            "hu": "Lépjen vissza az időben a dán aranykor e történelmi, irodalmi otthonában, és tegyen egy békés sétát a gyönyörűen rekonstruált, romantikus kertben.",
+            "ro": "Întoarceți-vă în timp la această casă literară istorică din Epoca de Aur și asigurați-vă că faceți o plimbare liniștită prin grădina sa frumoasă.",
+            "en": "Step back in time at this historic literary home from the Golden Age, and be sure to take a peaceful stroll through its beautifully reconstructed garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Betty Nansen Teatret",
+            "hu": "Betty Nansen Teatret",
+            "ro": "Betty Nansen Teatret",
+            "en": "Betty Nansen Teatret"
+          },
+          "coords": [
+            12.536943,
+            55.673963
+          ],
+          "category": "cultural",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Äußere dieses klassischen Frederiksberger Theaters und prüfen Sie den Abendspielplan, falls Sie ein Stück sehen möchten.",
+            "hu": "Tekintse meg ennek a klasszikus Frederiksberg színháznak az elegáns külsejét, és előre ellenőrizze a műsort, ha esetleg kortárs darabot nézne meg.",
+            "ro": "Priviți exteriorul elegant al acestui teatru clasic și verificați programul de seară în avans dacă doriți să prindeți o piesă contemporană excelentă.",
+            "en": "View the elegant exterior of this classic Frederiksberg theater, and check their evening schedule in advance if you wish to catch a contemporary play."
+          }
+        },
+        {
+          "name": {
+            "de": "Storm P. Museet",
+            "hu": "Storm P. Museet",
+            "ro": "Storm P. Museet",
+            "en": "Storm P. Museet"
+          },
+          "coords": [
+            12.53197,
+            55.674424
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lachen Sie laut auf bei den skurrilen Cartoons von Dänemarks berühmtem Humoristen und holen Sie sich ein einzigartiges satirisches Souvenir im Shop.",
+            "hu": "Nevessen egy nagyot Dánia híres humoristájának szeszélyes karikatúráin, és feltétlenül szerezzen be egy egyedi szatirikus szuvenírt a múzeum boltjában.",
+            "ro": "Râdeți cu poftă explorând desenele animate capricioase ale faimosului umorist danez și luați un suvenir satiric unic de la magazinul fantastic al muzeului.",
+            "en": "Laugh out loud while exploring the whimsical cartoons of Denmark's famous humorist, and grab a unique satirical souvenir from the fantastic museum gift shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag in der Jesuskirken und der Johannes Døbers Kirke, um die Architektur von Valby zu genießen.\nMittag: Steigen Sie für ein surreales Kunsterlebnis in die Tiefen der Cisternerne hinab.\nNachmittag: Besuchen Sie das Bakkehusmuseet für dänische Literaturgeschichte.\nAbend: Spazieren Sie am Betty Nansen Teatret vorbei und beenden Sie den Tag humorvoll im Storm P. Museet.",
+        "hu": "Reggel: Kezdje a napot a Jesuskirken és a Johannes Døbers Kirke felfedezésével, magába szívva Valby építészeti szépségét.\nDél: Ereszkedjen le a Cisternerne kísérteties mélységeibe egy szürreális művészeti élményért.\nDélután: Sétáljon el a Bakkehusmuseet-be a dán aranykor irodalomtörténetéért.\nEste: Fejezze be a napot a Betty Nansen Teatret érintésével a Storm P. Museet humoros falai között.",
+        "ro": "Dimineață: Începeți ziua la Jesuskirken și Johannes Døbers Kirke, admirând frumusețea arhitecturală din Valby.\nPrânz: Coborâți în adâncurile Cisternerne pentru o experiență de artă suprarealistă.\nDupă-amiază: Vizitați Bakkehusmuseet pentru o notă de istorie literară daneză.\nSeară: Încheiați trecând pe lângă Betty Nansen Teatret, finalizând ziua cu mult umor la faimosul Storm P. Museet.",
+        "en": "Morning: Start the day exploring local spirituality at Jesuskirken and Johannes Døbers Kirke, absorbing the serene architectural beauty of Valby's historic borders.\nMidday: Descend into the haunting depths of Cisternerne for a surreal underground art experience before re-emerging into the daylight.\nAfternoon: Stroll to Bakkehusmuseet for a touch of Danish Golden Age literary history, enjoying the peacefulness of its beautiful, historic garden.\nEvening: Conclude by passing the iconic Betty Nansen Teatret, ending up at Storm P. Museet to finish the day with a healthy dose of Danish humor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Margrethekirken",
+            "hu": "Margrethekirken",
+            "ro": "Margrethekirken",
+            "en": "Margrethekirken"
+          },
+          "coords": [
+            12.503368,
+            55.649823
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante modernistische Kirche in der Nähe des Hafens, um ihre einzigartigen architektonischen Linien vom ruhigen Vorplatz zu fotografieren.",
+            "hu": "Látogassa meg ezt a kikötőhöz közeli feltűnő modernista templomot egyedi építészeti vonalaiért, és készítsen nagyszerű fotókat a csendes előtérből.",
+            "ro": "Vizitați această biserică modernistă impresionantă de lângă port pentru liniile sale arhitecturale unice, făcând fotografii grozave din piațeta liniștită.",
+            "en": "Visit this striking modernist church near the harbor to see its unique architectural lines, making sure to capture great photos from the quiet front plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuskirken",
+            "hu": "Jesuskirken",
+            "ro": "Jesuskirken",
+            "en": "Jesuskirken"
+          },
+          "coords": [
+            12.522165,
+            55.665281
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unkonventionelle Architektur dieser schönen Kirche und achten Sie bei Ihrem morgendlichen Besuch auf ihre einzigartige Akustik.",
+            "hu": "Csodálja meg e gyönyörű templom rendhagyó építészetét, és figyeljen a különleges akusztikára a reggeli, igazán csendes látogatás során.",
+            "ro": "Admirați arhitectura neconvențională a acestei frumoase biserici și ascultați cu atenție acustica sa unică în timpul vizitei liniștite de dimineață.",
+            "en": "Admire the unconventional architecture of this beautiful church, and listen closely to its unique acoustic qualities during your quiet morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisternerne",
+            "hu": "Cisternerne",
+            "ro": "Cisternerne",
+            "en": "Cisternerne"
+          },
+          "coords": [
+            12.52419,
+            55.669575
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese vergessenen unterirdischen Reservoirs hinab, um faszinierende Kunst zu erleben, aber tragen Sie unbedingt sehr warme Kleidung.",
+            "hu": "Ereszkedjen le e földalatti víztározókba a lenyűgöző művészeti installációkhoz, de viseljen meleg ruhát, mivel a klíma itt mindig nyirkos és hideg.",
+            "ro": "Coborâți în aceste rezervoare subterane uitate pentru a experimenta instalații de artă tulburătoare, dar purtați haine groase din cauza frigului.",
+            "en": "Descend into these forgotten underground reservoirs to experience haunting art installations, but wear warm clothing as the climate is always damp and cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Møstings Hus",
+            "hu": "Møstings Hus",
+            "ro": "Møstings Hus",
+            "en": "Møstings Hus"
+          },
+          "coords": [
+            12.52776,
+            55.678374
+          ],
+          "category": "museum",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wechselnden Kunstausstellungen in diesem charmanten Landhaus aus dem 19. Jahrhundert und genießen Sie den idyllischen Blick auf den Teich.",
+            "hu": "Csodálja meg a változó kortárs művészeti kiállításokat ebben a bájos 19. századi vidéki házban, és élvezze a kis szomszédos tóra nyíló idilli kilátást.",
+            "ro": "Admirați expozițiile de artă contemporană în această fermecătoare casă de țară din secolul al XIX-lea și bucurați-vă de vederea idilică spre micul iaz.",
+            "en": "Admire the changing contemporary art exhibitions in this charming 19th-century country house, and enjoy the idyllic view over the adjacent small pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhambra - Museet for humor og satire",
+            "hu": "Alhambra - Museet for humor og satire",
+            "ro": "Alhambra - Museet for humor og satire",
+            "en": "Alhambra - Museet for humor og satire"
+          },
+          "coords": [
+            12.531562,
+            55.675452
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die skurrile Geschichte der dänischen Unterhaltung ein und nehmen Sie sich Zeit, die urkomischen Anekdoten in den Räumen zu lesen.",
+            "hu": "Merüljön el a dán szórakoztatóipar és revük furcsa történetében, és szánjon időt a szobákban elszórtan található igazán mulatságos anekdoták elolvasására.",
+            "ro": "Cufundați-vă în istoria excentrică a divertismentului danez, făcându-vă timp să citiți anecdotele amuzante împrăștiate prin camerele fascinante.",
+            "en": "Immerse yourself in the quirky history of Danish entertainment and revues, taking time to read the hilarious anecdotes scattered throughout the fascinating rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Aveny-T",
+            "hu": "Aveny-T",
+            "ro": "Aveny-T",
+            "en": "Aveny-T"
+          },
+          "coords": [
+            12.533198,
+            55.675005
+          ],
+          "category": "cultural",
+          "arrive_at": "15:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses historische, aber auf die Jugend ausgerichtete Theatergebäude an der Hauptstraße an, ein idealer Ausgangspunkt für den Abend.",
+            "hu": "Nézze meg ezt a történelmi, mégis ifjúságközpontú színházépületet közvetlenül a főúton, amely kiváló kiindulópont egy esti szórakozáshoz a környéken.",
+            "ro": "Verificați această clădire istorică de teatru, dar orientată spre tineri, situată chiar pe bulevardul principal, un punct excelent pentru o seară în oraș.",
+            "en": "Check out this historic yet youth-focused theater building right on the main avenue, which is an excellent starting point for an evening out in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Det Ny Teater",
+            "hu": "Det Ny Teater",
+            "ro": "Det Ny Teater",
+            "en": "Det Ny Teater"
+          },
+          "coords": [
+            12.555334,
+            55.673124
+          ],
+          "category": "cultural",
+          "arrive_at": "17:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre Fassade dieses großen Musicaltheaters und buchen Sie eine Führung, wenn Sie hinter die extravaganten Kulissen blicken möchten.",
+            "hu": "Csodálja meg ennek a nagyszerű zenés színháznak a látványos homlokzatát, és fontolja meg egy tárlatvezetés foglalását, ha bepillantana a kulisszák mögé.",
+            "ro": "Minunați-vă de fațada cu adevărat spectaculoasă a acestui teatru muzical și luați în considerare rezervarea unui tur pentru a vedea culisele extravagante.",
+            "en": "Marvel at the truly spectacular facade of this grand musical theater, and consider booking a guided tour if you want a peek behind the extravagant scenes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie von den modernen Linien der Margrethekirken zur klassischen Schönheit der Jesuskirken.\nMittag: Tauchen Sie in die Geheimnisse der Cisternerne ein, gefolgt von moderner Kunst im Møstings Hus.\nNachmittag: Radeln Sie durch die Geschichte der dänischen Satire im Alhambra.\nAbend: Fahren Sie am Aveny-T vorbei und beenden Sie Ihre Tour am spektakulären und prachtvollen Det Ny Teater.",
+        "hu": "Reggel: Kerékpározzon a Margrethekirken modern vonalaitól a Jesuskirken klasszikus szépségéig.\nDél: Merüljön el a Cisternerne földalatti titkaiban, majd irány a Møstings Hus kortárs művészete.\nDélután: Tekerjen végig a dán szatíra történelmén az Alhambra múzeumban.\nEste: Haladjon el az Aveny-T mellett, majd fejezze be túráját a látványos Det Ny Teater lenyűgöző esti kivilágított homlokzatánál.",
+        "ro": "Dimineață: Pedalați de la liniile moderne ale Margrethekirken la frumusețea clasică a Jesuskirken.\nPrânz: Scufundați-vă în misterele subterane de la Cisternerne, urmate de arta contemporană de la Møstings Hus.\nDupă-amiază: Pedalați prin istoria satirei daneze la uimitorul muzeu Alhambra.\nSeară: Treceți pe lângă Aveny-T, terminând turul la spectaculosul Det Ny Teater pentru a-i admira fațada iluminată.",
+        "en": "Morning: Cycle from the modern lines of Margrethekirken to the classic beauty of Jesuskirken, enjoying the brisk morning air and varied architecture.\nMidday: Dive into the underground mysteries of Cisternerne, followed by a short ride to Møstings Hus for contemporary art by a tranquil pond.\nAfternoon: Pedal through the history of Danish satire at Alhambra, discovering the quirky past of local revues and theater entertainment.\nEvening: Ride past Aveny-T, finishing your tour at the spectacularly grand Det Ny Teater to admire its illuminated evening facade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:19",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "DieselHouse",
+            "hu": "DieselHouse",
+            "ro": "DieselHouse",
+            "en": "DieselHouse"
+          },
+          "coords": [
+            12.555132,
+            55.656595
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die massiven historischen Dieselmotoren in diesem Industriemuseum, wo die riesigen Maschinen unglaubliche Fotomotive bieten.",
+            "hu": "Tapasztalja meg a történelmi dízelmotorok hatalmas méreteit ebben az ipari múzeumban, ahol a tornyosuló gépezetek hihetetlen fotózási lehetőségeket kínálnak.",
+            "ro": "Experimentați scara masivă a motoarelor diesel istorice în acest muzeu industrial, unde mașinăriile impunătoare oferă oportunități foto incredibile.",
+            "en": "Experience the massive scale of historical diesel engines in this industrial museum, where the towering machinery offers incredible photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Husets Teater",
+            "hu": "Husets Teater",
+            "ro": "Husets Teater",
+            "en": "Husets Teater"
+          },
+          "coords": [
+            12.561428,
+            55.670178
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen gemütlichen und intimen Veranstaltungsort in einem lebhaften Viertel, perfekt gelegen für eine kurze Kaffeepause auf Ihrer Tour.",
+            "hu": "Fedezze fel ezt a hangulatos és intim előadóhelyet egy nyüzsgő környéken, amely tökéletes helyszín egy gyors kávészünethez a további barangolás előtt.",
+            "ro": "Descoperiți această locație de spectacole intimă și confortabilă, amplasată într-un cartier vibrant, perfect situată pentru o scurtă pauză de cafea.",
+            "en": "Discover this cozy and intimate performance venue nestled in a vibrant neighborhood, perfectly located for a quick coffee break before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mark's Church",
+            "hu": "Saint Mark's Church",
+            "ro": "Saint Mark's Church",
+            "en": "Saint Mark's Church"
+          },
+          "coords": [
+            12.552667,
+            55.679916
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser klassischen Kirche und achten Sie auf die komplizierten architektonischen Details am Hauptaltar.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre e klasszikus templomépületben, és figyeljen a főoltárt keretező bonyolult, csodálatos építészeti részletekre.",
+            "ro": "Luați un moment de reflecție liniștită în interiorul acestei biserici clasice, acordând atenție detaliilor arhitecturale complexe care încadrează altarul.",
+            "en": "Take a moment of quiet reflection inside this classical church structure, paying attention to the intricate architectural details framing the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhambra - Museet for humor og satire",
+            "hu": "Alhambra - Museet for humor og satire",
+            "ro": "Alhambra - Museet for humor og satire",
+            "en": "Alhambra - Museet for humor og satire"
+          },
+          "coords": [
+            12.531562,
+            55.675452
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die skurrile Geschichte der dänischen Unterhaltung ein und nehmen Sie sich Zeit, die urkomischen Anekdoten in den Räumen zu lesen.",
+            "hu": "Merüljön el a dán szórakoztatóipar és revük furcsa történetében, és szánjon időt a szobákban elszórtan található igazán mulatságos anekdoták elolvasására.",
+            "ro": "Cufundați-vă în istoria excentrică a divertismentului danez, făcându-vă timp să citiți anecdotele amuzante împrăștiate prin camerele fascinante.",
+            "en": "Immerse yourself in the quirky history of Danish entertainment and revues, taking time to read the hilarious anecdotes scattered throughout the fascinating rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Storm P. Museet",
+            "hu": "Storm P. Museet",
+            "ro": "Storm P. Museet",
+            "en": "Storm P. Museet"
+          },
+          "coords": [
+            12.53197,
+            55.674424
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lachen Sie laut auf bei den skurrilen Cartoons von Dänemarks berühmtem Humoristen und holen Sie sich ein einzigartiges satirisches Souvenir im Shop.",
+            "hu": "Nevessen egy nagyot Dánia híres humoristájának szeszélyes karikatúráin, és feltétlenül szerezzen be egy egyedi szatirikus szuvenírt a múzeum boltjában.",
+            "ro": "Râdeți cu poftă explorând desenele animate capricioase ale faimosului umorist danez și luați un suvenir satiric unic de la magazinul fantastic al muzeului.",
+            "en": "Laugh out loud while exploring the whimsical cartoons of Denmark's famous humorist, and grab a unique satirical souvenir from the fantastic museum gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisternerne",
+            "hu": "Cisternerne",
+            "ro": "Cisternerne",
+            "en": "Cisternerne"
+          },
+          "coords": [
+            12.52419,
+            55.669575
+          ],
+          "category": "museum",
+          "arrive_at": "16:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese vergessenen unterirdischen Reservoirs hinab, um faszinierende Kunst zu erleben, aber tragen Sie unbedingt sehr warme Kleidung.",
+            "hu": "Ereszkedjen le e földalatti víztározókba a lenyűgöző művészeti installációkhoz, de viseljen meleg ruhát, mivel a klíma itt mindig nyirkos és hideg.",
+            "ro": "Coborâți în aceste rezervoare subterane uitate pentru a experimenta instalații de artă tulburătoare, dar purtați haine groase din cauza frigului.",
+            "en": "Descend into these forgotten underground reservoirs to experience haunting art installations, but wear warm clothing as the climate is always damp and cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuskirken",
+            "hu": "Jesuskirken",
+            "ro": "Jesuskirken",
+            "en": "Jesuskirken"
+          },
+          "coords": [
+            12.522165,
+            55.665281
+          ],
+          "category": "religious",
+          "arrive_at": "18:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unkonventionelle Architektur dieser schönen Kirche und achten Sie bei Ihrem abendlichen Besuch auf ihre einzigartige Akustik.",
+            "hu": "Csodálja meg e gyönyörű templom rendhagyó építészetét, és figyeljen a különleges akusztikára a délutáni, igazán csendes látogatás során.",
+            "ro": "Admirați arhitectura neconvențională a acestei frumoase biserici și ascultați cu atenție acustica sa unică în timpul vizitei liniștite de seară.",
+            "en": "Admire the unconventional architecture of this beautiful church, and listen closely to its unique acoustic qualities during your quiet evening visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie im industriellen DieselHouse und bestaunen Sie riesige Motoren.\nMittag: Besuchen Sie das Husets Teater und die klassische Saint Mark's Church, um Kultur und Architektur zu verbinden.\nNachmittag: Geht es weiter zum Alhambra und Storm P. Museet für dänische Comedy-Traditionen.\nAbend: Beenden Sie die Fahrt bei den Cisternerne und der Jesuskirken, um den Tag ruhig ausklingen zu lassen.",
+        "hu": "Reggel: Kezdjen az ipari DieselHouse-ban, megcsodálva az óriási történelmi motorokat.\nDél: Látogassa meg a Husets Teater-t és a klasszikus Saint Mark's Church-öt, ötvözve a kultúrát az építészettel.\nDélután: Folytassa útját az Alhambra és a Storm P. Museet felé a dán komédia felfedezéséhez.\nEste: Fejezze be az autózást a Cisternerne és a Jesuskirken közelében, visszagondolva a nap drámai kontrasztjaira.",
+        "ro": "Dimineață: Începeți la DieselHouse, minunându-vă de motoarele uriașe.\nPrânz: Vizitați Husets Teater și clasica Biserică Saint Mark, îmbinând artele spectacolului cu arhitectura uimitoare.\nDupă-amiază: Continuați la Alhambra și Storm P. Museet pentru o explorare a tradițiilor comice daneze.\nSeară: Încheiați plimbarea cu mașina lângă magnificele Cisternerne și Jesuskirken pentru o reflecție liniștită.",
+        "en": "Morning: Begin at the industrial powerhouse of DieselHouse, marvelling at giant engines before driving towards the cultural heart of the district.\nMidday: Visit Husets Teater and the classic Saint Mark's Church, blending intimate local performing arts with striking religious architecture.\nAfternoon: Continue to Alhambra and Storm P. Museet for a delightful exploration of Denmark's rich comedic and satirical traditions.\nEvening: End the drive near the magnificent Cisternerne and Jesuskirken, reflecting on a day filled with dramatic contrasts and deep history."
+      }
+    }
+  }
+}

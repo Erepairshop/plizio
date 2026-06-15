@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-olot-cities-v2",
+  "anchor": {
+    "name": "Olot",
+    "coords": [
+      2.49012,
+      42.18096
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 1.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Solà Morales",
+            "hu": "Casa Solà Morales",
+            "ro": "Casa Solà Morales",
+            "en": "Casa Solà Morales"
+          },
+          "coords": [
+            2.486971,
+            42.183338
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstilfassade dieses historischen Hauses, um die Architektur der Region zu verstehen, und fotografieren Sie sie am besten morgens.",
+            "hu": "Csodálja meg ennek a történelmi háznak a szecessziós homlokzatát, hogy megértse a régió építészetét, és a legjobb fényviszonyokért fotózza le reggel.",
+            "ro": "Admirați fațada Art Nouveau a acestei case istorice pentru a înțelege arhitectura regiunii și fotografiați-o dimineața pentru o lumină perfectă.",
+            "en": "Admire the Art Nouveau facade of this historic house to understand the region's architecture, and be sure to photograph it in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Gaietà Vila",
+            "hu": "Casa Gaietà Vila",
+            "ro": "Casa Gaietà Vila",
+            "en": "Casa Gaietà Vila"
+          },
+          "coords": [
+            2.487977,
+            42.182441
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Balkone dieses eleganten Gebäudes, die Olots Reichtum widerspiegeln, und achten Sie auf die kunstvollen Eisendetails.",
+            "hu": "Fedezze fel ezen elegáns épület lenyűgöző erkélyeit, amelyek Olot gazdagságát tükrözik, és figyeljen a mesterien kidolgozott vas részletekre is.",
+            "ro": "Descoperiți balcoanele impresionante ale acestei clădiri elegante, ce reflectă bogăția din Olot, și acordați atenție detaliilor din fier forjat.",
+            "en": "Discover the impressive balconies of this elegant building reflecting Olot's wealth, and pay close attention to the intricate wrought-iron details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Garrotxa",
+            "hu": "Museu de la Garrotxa",
+            "ro": "Museu de la Garrotxa",
+            "en": "Museu de la Garrotxa"
+          },
+          "coords": [
+            2.489065,
+            42.181188
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte und Kunst der Landschaftsmaler ein, um die Kultur zu schätzen, und planen Sie genügend Zeit für die Gemälde ein.",
+            "hu": "Merüljön el a helyi történelemben és a tájképfestők művészetében, hogy értékelje a kultúrát, és szánjon elegendő időt a festmények megtekintésére.",
+            "ro": "Cufundați-vă în istoria locală și arta pictorilor peisagiști pentru a aprecia cultura, și alocați suficient timp pentru a admira picturile expuse.",
+            "en": "Dive into local history and the art of landscape painters to fully appreciate the culture, and allocate enough time to admire the magnificent painting exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ateneu Popular",
+            "hu": "Ateneu Popular",
+            "ro": "Ateneu Popular",
+            "en": "Ateneu Popular"
+          },
+          "coords": [
+            2.490343,
+            42.182242
+          ],
+          "category": "cultural",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Kulturzentrum, um den Puls der lokalen Gemeinschaft zu spüren, und werfen Sie einen Blick auf die aktuellen Ausstellungen.",
+            "hu": "Látogasson el ebbe az élénk kulturális központba, hogy érezze a helyi közösség lüktetését, és vessen egy pillantást az aktuális kiállításokra is.",
+            "ro": "Vizitați acest centru cultural plin de viață pentru a simți pulsul comunității locale și aruncați o privire la expozițiile sau evenimentele actuale.",
+            "en": "Visit this lively cultural center to truly feel the pulse of the local community, and take a quick look at the current exhibitions or small artistic events."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pujador",
+            "hu": "Casa Pujador",
+            "ro": "Casa Pujador",
+            "en": "Casa Pujador"
+          },
+          "coords": [
+            2.491399,
+            42.182921
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betrachten Sie die geschwungenen Linien dieser modernistischen Architektur, um Olots Stil zu erfassen, und fotografieren Sie die Details der Fassade.",
+            "hu": "Vizsgálja meg e modernista építészet íves vonalait, hogy megértse Olot stílusát, és mindenképpen fotózza le a homlokzat különleges díszítéseit.",
+            "ro": "Priviți liniile curbate ale acestei arhitecturi moderniste pentru a surprinde stilul din Olot și nu uitați să fotografiați detaliile bogate ale fațadei.",
+            "en": "Observe the curved lines of this modernist architecture to grasp Olot's distinct style, and make sure to extensively photograph the ornate facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu dels Sants",
+            "hu": "Museu dels Sants",
+            "ro": "Museu dels Sants",
+            "en": "Museu dels Sants"
+          },
+          "coords": [
+            2.488978,
+            42.179896
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionelle Herstellung religiöser Statuen, um ein einzigartiges Handwerk zu sehen, und fragen Sie nach den originalen Gipsformen.",
+            "hu": "Fedezze fel a vallási szobrok hagyományos készítését, hogy egyedülálló mesterséget lásson, és feltétlenül kérdezzen rá az eredeti gipszformákra.",
+            "ro": "Explorați fabricarea tradițională a statuilor religioase pentru a vedea un meșteșug unic și întrebați personalul despre matrițele originale din gips.",
+            "en": "Explore the traditional manufacture of religious statues to witness a unique local craft, and be sure to ask the helpful staff about the original plaster molds."
+          }
+        },
+        {
+          "name": {
+            "de": "Joan Pere Fontanella",
+            "hu": "Joan Pere Fontanella",
+            "ro": "Joan Pere Fontanella",
+            "en": "Joan Pere Fontanella"
+          },
+          "coords": [
+            2.484461,
+            42.179061
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses historische Monument, um die Ursprünge der Stadt zu würdigen, und lesen Sie die Informationstafeln für mehr Hintergrundwissen.",
+            "hu": "Tekintse meg ezt a történelmi emlékművet, hogy méltányolja a város eredetét, és olvassa el az információs táblákat a mélyebb háttérismeretekért.",
+            "ro": "Vizitați acest monument istoric pentru a onora originile orașului și citiți panourile informative pentru a afla mult mai multe detalii de context.",
+            "en": "Visit this important historical monument to appreciate the city's deep origins, and read the adjacent informational plaques for excellent background context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den eleganten modernistischen Gebäuden im Herzen von Olot. Mittags erkunden Sie die reiche Kunstgeschichte und tauchen tief in die Werke der berühmten lokalen Landschaftsmaler ein. Der Nachmittag ist der traditionellen Handwerkskunst im Museum der Heiligen gewidmet. Der Abend endet friedlich bei einem bedeutenden historischen Monument in den alten Straßen.",
+        "hu": "A reggel Olot szívének elegáns modernista épületeivel kezdődik. Délben felfedezi a gazdag művészettörténetet, elmélyülve a híres helyi tájképfestők munkáiban. A délután a hagyományos kézművességnek van szentelve a Szentek Múzeumában. Az este békésen zárul egy fontos történelmi emlékműnél a régi macskaköves utcákon.",
+        "ro": "Dimineața începe cu clădirile moderniste elegante din inima orașului Olot. La prânz, explorați istoria bogată a artei și aprofundați operele celebrilor peisagiști locali. După-amiaza este dedicată meșteșugurilor tradiționale din Muzeul Sfinților. Seara se încheie liniștit la un monument istoric important, aflat pe vechile străzi.",
+        "en": "The morning begins with the elegant modernist buildings right in the heart of Olot. At midday, explore the rich art history, delving deep into the works of famous local landscape painters. The afternoon is dedicated to traditional craftsmanship at the Museum of Saints. The evening concludes peacefully at a significant historical monument in the old streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 6.13,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Montolivet",
+            "hu": "Torre de Montolivet",
+            "ro": "Turnul Montolivet",
+            "en": "Torre de Montolivet"
+          },
+          "coords": [
+            2.478449,
+            42.179128
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem alten Wehrturm hinauf, um eine strategische Aussicht zu genießen, und tragen Sie bequeme Schuhe für den kurzen Anstieg dorthin.",
+            "hu": "Másszon fel ehhez az ősi védőtoronyhoz, hogy élvezze a stratégiai kilátást, és viseljen kényelmes cipőt a rövid, de kissé meredek emelkedőhöz.",
+            "ro": "Urcați la acest vechi turn de apărare pentru a vă bucura de o priveliște strategică și purtați încălțăminte confortabilă pentru scurta ascensiune.",
+            "en": "Climb up to this ancient defensive tower to enjoy a remarkably strategic view, and make sure you wear very comfortable shoes for the short ascent up."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Roc",
+            "hu": "Sant Roc",
+            "ro": "Sant Roc",
+            "en": "Sant Roc"
+          },
+          "coords": [
+            2.473095,
+            42.173176
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in dieser kleinen Kapelle am Wasser, um dem Trubel zu entfliehen, und machen Sie einen entspannten Spaziergang an den Quellen.",
+            "hu": "Élvezze a nyugalmat ebben a kis vízparti kápolnában, hogy elmeneküljön a nyüzsgésből, és tegyen egy pihentető sétát a közeli források körül is.",
+            "ro": "Bucurați-vă de liniștea din această mică capelă de lângă apă pentru a scăpa de agitație și faceți o plimbare relaxantă în jurul izvoarelor apropiate.",
+            "en": "Enjoy the absolute peace in this small waterside chapel to escape the bustle, and take a very relaxing walk around the nearby natural, bubbling springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre reproductor de cranc de riu",
+            "hu": "Centre reproductor de cranc de riu",
+            "ro": "Centre reproductor de cranc de riu",
+            "en": "Centre reproductor de cranc de riu"
+          },
+          "coords": [
+            2.488869,
+            42.171341
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Lernen Sie das Flusskrebs-Zuchtzentrum kennen, um den Naturschutz der Region zu verstehen, und planen Sie diesen Stopp besonders für naturinteressierte.",
+            "hu": "Ismerje meg a folyami rák tenyésztőközpontot, hogy megértse a régió természetvédelmét, és tervezze be ezt a megállót, ha szereti az ökológiát.",
+            "ro": "Aflați despre centrul de creștere a racilor de râu pentru a înțelege conservarea naturii și vizitați acest loc interesant pentru pasionații de ecologie.",
+            "en": "Learn about the river crab breeding center to fully understand local nature conservation, and prioritize this stop if you are deeply interested in ecology."
+          }
+        },
+        {
+          "name": {
+            "de": "Font Moixina",
+            "hu": "Font Moixina",
+            "ro": "Font Moixina",
+            "en": "Font Moixina"
+          },
+          "coords": [
+            2.485832,
+            42.166452
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen bezaubernden Park mit seinen Quellen, um die vulkanische Natur zu erleben, und bringen Sie eine Flasche für frisches Wasser.",
+            "hu": "Sétáljon végig ezen a varázslatos, forrásokkal teli parkon, hogy megtapasztalja a vulkanikus természetet, és hozzon magával palackot friss vízért.",
+            "ro": "Plimbați-vă prin acest parc fermecător cu izvoarele sale pentru a experimenta natura vulcanică și aduceți o sticlă pentru a lua apă naturală proaspătă.",
+            "en": "Stroll through this enchanting park with its springs to experience the volcanic nature, and remember to bring an empty bottle for gathering fresh spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Malatosquer",
+            "hu": "Mirador del Malatosquer",
+            "ro": "Mirador del Malatosquer",
+            "en": "Mirador del Malatosquer"
+          },
+          "coords": [
+            2.473163,
+            42.166497
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Aussichtspunkt über die Landschaft, um die vulkanische Topographie zu bewundern, und bringen Sie ein gutes Kameraobjektiv mit.",
+            "hu": "Tekintsen le erről a kilátóról a tájra, hogy megcsodálja a lenyűgöző vulkanikus domborzatot, és mindenképpen hozzon magával jó fényképezőgép-lencsét.",
+            "ro": "Priviți de la acest punct de observare peste peisaj pentru a admira topografia vulcanică și asigurați-vă că aduceți un obiectiv excelent pentru cameră.",
+            "en": "Look out from this excellent viewpoint over the landscape to admire the volcanic topography, and make sure you bring a highly capable camera lens with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Garrotxa",
+            "hu": "Museu de la Garrotxa",
+            "ro": "Museu de la Garrotxa",
+            "en": "Museu de la Garrotxa"
+          },
+          "coords": [
+            2.489065,
+            42.181188
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte und Kunst der Landschaftsmaler ein, um die Kultur zu schätzen, und planen Sie genügend Zeit für die Gemälde ein.",
+            "hu": "Merüljön el a helyi történelemben és a tájképfestők művészetében, hogy értékelje a kultúrát, és szánjon elegendő időt a festmények megtekintésére.",
+            "ro": "Cufundați-vă în istoria locală și arta pictorilor peisagiști pentru a aprecia cultura, și alocați suficient timp pentru a admira picturile expuse.",
+            "en": "Dive into local history and the art of landscape painters to fully appreciate the culture, and allocate enough time to admire the magnificent painting exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Solà Morales",
+            "hu": "Casa Solà Morales",
+            "ro": "Casa Solà Morales",
+            "en": "Casa Solà Morales"
+          },
+          "coords": [
+            2.486971,
+            42.183338
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstilfassade dieses historischen Hauses, um die Architektur der Region zu verstehen, und fotografieren Sie sie am besten morgens.",
+            "hu": "Csodálja meg ennek a történelmi háznak a szecessziós homlokzatát, hogy megértse a régió építészetét, és a legjobb fényviszonyokért fotózza le reggel.",
+            "ro": "Admirați fațada Art Nouveau a acestei case istorice pentru a înțelege arhitectura regiunii și fotografiați-o dimineața pentru o lumină perfectă.",
+            "en": "Admire the Art Nouveau facade of this historic house to understand the region's architecture, and be sure to photograph it in the early morning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten sportlich an einem alten Wehrturm mit tollem Blick über die vulkanische Landschaft. Am Vormittag radeln Sie zu den ruhigen Quellen und einer kleinen Kapelle im Grünen. Der Nachmittag bietet interessante Einblicke in den regionalen Naturschutz und die lokale Kunst. Sie beenden den Tag entspannt wieder im historischen Zentrum der Stadt.",
+        "hu": "Sportosan indul a nap egy régi védőtoronynál, ahonnan remek kilátás nyílik a vulkanikus tájra. Délelőtt a csendes forrásokhoz és egy zöldellő kápolnához kerekezik. A délután érdekes betekintést nyújt a regionális természetvédelembe és a helyi művészetbe. A napot nyugodtan zárja a város történelmi központjában.",
+        "ro": "Începeți sportiv la un vechi turn de apărare cu o vedere minunată asupra peisajului vulcanic. Dimineața, pedalați spre izvoarele liniștite și o capelă în mijlocul naturii. După-amiaza oferă perspective interesante asupra conservării regionale și a artei locale. Încheiați ziua relaxat, înapoi în centrul istoric al orașului.",
+        "en": "You start sportily at an old defensive tower offering a great view over the volcanic landscape. In the morning, cycle to the quiet springs and a small chapel in the green. The afternoon offers interesting insights into regional nature conservation and local art. You end the day relaxed, back in the historic center of the city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:49",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina coberta del Club Natació Olot",
+            "hu": "Piscina coberta del Club Natació Olot",
+            "ro": "Piscina coberta del Club Natació Olot",
+            "en": "Piscina coberta del Club Natació Olot"
+          },
+          "coords": [
+            2.509675,
+            42.189075
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Sportzentrum, um die lokale Freizeitinfrastruktur zu sehen, und überprüfen Sie im Voraus die genauen Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a modern sportközpontba, hogy lássa a helyi szabadidős infrastruktúrát, és előzetesen ellenőrizze a pontos nyitvatartási időt.",
+            "ro": "Vizitați acest centru sportiv modern pentru a vedea infrastructura locală de agrement și verificați în prealabil orele exacte de deschidere.",
+            "en": "Visit this modern sports center to observe the excellent local recreational infrastructure, and definitely check the exact opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pujador",
+            "hu": "Casa Pujador",
+            "ro": "Casa Pujador",
+            "en": "Casa Pujador"
+          },
+          "coords": [
+            2.491399,
+            42.182921
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.66,
+          "tip_5lang": {
+            "de": "Betrachten Sie die geschwungenen Linien dieser modernistischen Architektur, um Olots Stil zu erfassen, und fotografieren Sie die Details der Fassade.",
+            "hu": "Vizsgálja meg e modernista építészet íves vonalait, hogy megértse Olot stílusát, és mindenképpen fotózza le a homlokzat különleges díszítéseit.",
+            "ro": "Priviți liniile curbate ale acestei arhitecturi moderniste pentru a surprinde stilul din Olot și nu uitați să fotografiați detaliile bogate ale fațadei.",
+            "en": "Observe the curved lines of this modernist architecture to grasp Olot's distinct style, and make sure to extensively photograph the ornate facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu dels Sants",
+            "hu": "Museu dels Sants",
+            "ro": "Museu dels Sants",
+            "en": "Museu dels Sants"
+          },
+          "coords": [
+            2.488978,
+            42.179896
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionelle Herstellung religiöser Statuen, um ein einzigartiges Handwerk zu sehen, und fragen Sie nach den originalen Gipsformen.",
+            "hu": "Fedezze fel a vallási szobrok hagyományos készítését, hogy egyedülálló mesterséget lásson, és feltétlenül kérdezzen rá az eredeti gipszformákra.",
+            "ro": "Explorați fabricarea tradițională a statuilor religioase pentru a vedea un meșteșug unic și întrebați personalul despre matrițele originale din gips.",
+            "en": "Explore the traditional manufacture of religious statues to witness a unique local craft, and be sure to ask the helpful staff about the original plaster molds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Montolivet",
+            "hu": "Torre de Montolivet",
+            "ro": "Turnul Montolivet",
+            "en": "Torre de Montolivet"
+          },
+          "coords": [
+            2.478449,
+            42.179128
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem alten Wehrturm hinauf, um eine strategische Aussicht zu genießen, und tragen Sie bequeme Schuhe für den kurzen Anstieg dorthin.",
+            "hu": "Másszon fel ehhez az ősi védőtoronyhoz, hogy élvezze a stratégiai kilátást, és viseljen kényelmes cipőt a rövid, de kissé meredek emelkedőhöz.",
+            "ro": "Urcați la acest vechi turn de apărare pentru a vă bucura de o priveliște strategică și purtați încălțăminte confortabilă pentru scurta ascensiune.",
+            "en": "Climb up to this ancient defensive tower to enjoy a remarkably strategic view, and make sure you wear very comfortable shoes for the short ascent up."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Malatosquer",
+            "hu": "Mirador del Malatosquer",
+            "ro": "Mirador del Malatosquer",
+            "en": "Mirador del Malatosquer"
+          },
+          "coords": [
+            2.473163,
+            42.166497
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Aussichtspunkt über die Landschaft, um die vulkanische Topographie zu bewundern, und bringen Sie ein gutes Kameraobjektiv mit.",
+            "hu": "Tekintsen le erről a kilátóról a tájra, hogy megcsodálja a lenyűgöző vulkanikus domborzatot, és mindenképpen hozzon magával jó fényképezőgép-lencsét.",
+            "ro": "Priviți de la acest punct de observare peste peisaj pentru a admira topografia vulcanică și asigurați-vă că aduceți un obiectiv excelent pentru cameră.",
+            "en": "Look out from this excellent viewpoint over the landscape to admire the volcanic topography, and make sure you bring a highly capable camera lens with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Font Moixina",
+            "hu": "Font Moixina",
+            "ro": "Font Moixina",
+            "en": "Font Moixina"
+          },
+          "coords": [
+            2.485832,
+            42.166452
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen bezaubernden Park mit seinen Quellen, um die vulkanische Natur zu erleben, und bringen Sie eine Flasche für frisches Wasser.",
+            "hu": "Sétáljon végig ezen a varázslatos, forrásokkal teli parkon, hogy megtapasztalja a vulkanikus természetet, és hozzon magával palackot friss vízért.",
+            "ro": "Plimbați-vă prin acest parc fermecător cu izvoarele sale pentru a experimenta natura vulcanică și aduceți o sticlă pentru a lua apă naturală proaspătă.",
+            "en": "Stroll through this enchanting park with its springs to experience the volcanic nature, and remember to bring an empty bottle for gathering fresh spring water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto steuern Sie zuerst die modernen Freizeitanlagen im Osten an. Danach parken Sie zentrumsnah, um die prächtige Architektur und die faszinierenden Museen bequem zu erkunden. Später fahren Sie zu den vulkanischen Aussichtspunkten am Stadtrand, die großartige Motive bieten. Der Ausflug klingt harmonisch in einem weitläufigen Naturpark mit klaren Quellen aus.",
+        "hu": "Autóval először a keleten fekvő modern szabadidős létesítményeket veszi célba. Ezután a központhoz közel parkol, hogy kényelmesen felfedezze a csodás építészetet és a múzeumokat. Később a város szélén található vulkanikus kilátókhoz hajt, amelyek nagyszerű témákat kínálnak. A kirándulás harmonikusan zárul egy tágas természeti parkban.",
+        "ro": "Cu mașina, vă îndreptați mai întâi spre facilitățile moderne de agrement din est. Apoi parcați aproape de centru pentru a explora arhitectura magnifică și muzeele fascinante. Mai târziu, conduceți către punctele de observare vulcanice de la periferie, care oferă priveliști grozave. Excursia se încheie armonios într-un parc natural.",
+        "en": "By car, you first head to the modern recreational facilities in the east. Afterwards, park close to the center to comfortably explore the magnificent architecture and fascinating museums. Later, you drive to the volcanic viewpoints on the outskirts, which offer great motifs. The trip ends harmoniously in a spacious natural park with clear springs."
+      }
+    }
+  }
+}

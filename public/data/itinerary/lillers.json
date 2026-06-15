@@ -1,0 +1,274 @@
+{
+  "city_id": "lillers",
+  "anchor": {
+    "name": "Lillers",
+    "coords": [
+      2.4819,
+      50.5636
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 1.76,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle der Barmherzigkeit",
+            "hu": "Irgalmasság Kápolnája",
+            "ro": "Capela Milostivirii",
+            "en": "Chapel of Mercy"
+          },
+          "coords": [
+            2.480645,
+            50.564079
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie früh am Morgen die intimen Buntglasfenster dieser kleinen Kapelle, bevor Sie das nahe Stadtzentrum erkunden.",
+            "hu": "Csodálja meg a kis kápolna meghitt ólomüveg részleteit még kora reggel, mielőtt felfedezné a közeli városközpontot.",
+            "ro": "Admirați detaliile intime ale vitraliilor acestei mici capele dis-de-dimineață, înainte de a explora centrul orașului.",
+            "en": "Admire the intimate stained glass details of this small chapel early in the morning before exploring the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Omer Kirche",
+            "hu": "Saint-Omer templom",
+            "ro": "Biserica Saint-Omer",
+            "en": "Saint-Omer Church"
+          },
+          "coords": [
+            2.482465,
+            50.564111
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende romanische Architektur dieser Stiftskirche und nehmen Sie sich Zeit für die prächtige Orgel.",
+            "hu": "Figyelje meg e történelmi társaskápolna lenyűgöző román stílusú építészetét, és szakítson időt a pompás orgona megtekintésére.",
+            "ro": "Observați arhitectura romanică impresionantă a acestei biserici colegiale istorice, alocând timp pentru a vedea orga magnifică.",
+            "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum",
+            "hu": "Cipőmúzeum",
+            "ro": "Muzeul Pantofului",
+            "en": "Shoe Museum"
+          },
+          "coords": [
+            2.478606,
+            50.563937
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie Lillers industrielles Erbe anhand faszinierender Ausstellungen zur Schuhherstellung und fragen Sie nach lokalen Schuhmachern.",
+            "hu": "Fedezze fel Lillers ipari örökségét a cipőgyártás lenyűgöző kiállításain keresztül, és kérdezze a vezetőket a helyi cipészekről.",
+            "ro": "Descoperiți moștenirea industrială din Lillers prin expoziții fascinante despre producția de încălțăminte și istoria cizmarilor.",
+            "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Palace",
+            "hu": "Le Palace",
+            "ro": "Le Palace",
+            "en": "Le Palace"
+          },
+          "coords": [
+            2.475852,
+            50.566523
+          ],
+          "category": "cultural",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die klassische Fassade dieses Kulturortes und prüfen Sie vorab den Spielplan auf mittägliche Gemeindeveranstaltungen.",
+            "hu": "Készítsen fotókat e kulturális helyszín klasszikus homlokzatáról, és előzetesen ellenőrizze a programot a déli közösségi eseményekhez.",
+            "ro": "Fotografiați fațada clasică a acestui lăcaș cultural, verificând în prealabil programul pentru evenimente comunitare la prânz.",
+            "en": "Snap photos of the classic facade of this cultural venue, checking the schedule in advance for any midday community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Brûle",
+            "hu": "Parc du Brûle",
+            "ro": "Parc du Brûle",
+            "en": "Parc du Brûle"
+          },
+          "coords": [
+            2.489739,
+            50.563443
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den friedlichen Wanderwegen dieser grünen Oase, die der perfekte Ort für ein ruhiges Nachmittagspicknick ist.",
+            "hu": "Pihenjen meg e zöld menedék békés sétaútjain, amely tökéletes helyszínt biztosít egy nyugodt, kora délutáni piknikhez a szabadban.",
+            "ro": "Relaxați-vă de-a lungul potecilor pașnice din acest refugiu verde, locul perfect pentru un picnic liniștit în timpul după-amiezii.",
+            "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unsere Erkundung im Herzen von Lillers, einer an Geschichte und handwerklichem Erbe reichen Stadt. Zum Tagesauftakt besuchen wir ruhige Heiligtümer und bürgerliche Wahrzeichen und genießen das sanfte Erwachen der lokalen Straßen.\nMidday: Gegen Mittag rückt Lillers berühmte industrielle Vergangenheit in den Mittelpunkt. Höhepunkt ist das faszinierende Schuhmuseum, in dem wir etwas über das Vermächtnis der Schuhmacher erfahren, bevor wir weitere kulturelle Zentren der Stadt passieren.\nAfternoon: Der Nachmittag ist der Natur und der Entspannung gewidmet. Wir begeben uns in den ruhigen Parc du Brûle und genießen einen friedlichen Rückzugsort im Grünen. Dieser ruhige Abschnitt ermöglicht es uns, in der lokalen Landschaft völlig zu entspannen.\nEvening: Wir beenden unseren Tagesausflug im Grünen. Die späten Sonnenstrahlen tauchen die Bäume in ein warmes Licht und bieten einen friedlichen Abschluss unseres Abenteuers in Lillers."
+      },
+      "hu": "Morning: Felfedezésünket Lillers szívében kezdjük, amely gazdag történelmi és kézműves örökséggel rendelkezik. A nap kezdetén csendes vallási szentélyeket és polgári műemlékeket látogatunk meg, magunkba szívva a helyi utcák ébredését és szépségét.\nMidday: Ahogy közeledik a dél, Lillers híres ipari múltjára helyezzük a hangsúlyt. A fénypont a lenyűgöző cipőmúzeum, ahol megismerkedünk a város cipész hagyományaival. Kulturális központok mellett is elhaladunk, melyek a közösségi szellemet tükrözik.\nAfternoon: A délutánt a természetnek és a pihenésnek szenteljük. Átsétálunk a nyugodt Parc du Brûle-be, ahol élvezhetjük a békés, zöld menedéket. Ez a lassú tempójú szakasz csendes elmélkedést és a helyi táj gondtalan élvezetét teszi lehetővé.\nEvening: Egynapos kirándulásunkat a park fáinak árnyékában zárjuk. A lemenő nap meleg fényt vet a zöldellő lombozatra, békés befejezést kínálva e festői kisvárosi kalandunknak.",
+      "ro": "Morning: Începem explorarea noastră în inima orașului Lillers, bogat în istorie și moștenire artizanală. Vizităm sanctuare religioase liniștite și repere civice, bucurându-ne de trezirea blândă a străzilor locale și de frumusețea arhitecturală a dimineții.\nMidday: Odată cu apropierea prânzului, ne concentrăm pe trecutul industrial din Lillers. Punctul culminant este muzeul pantofilor, unde descoperim moștenirea cizmarilor. Trecem, de asemenea, pe lângă centre culturale pline de o efervescență comunitară.\nAfternoon: După-amiaza este dedicată naturii și relaxării. Ne mutăm în liniștitul Parc du Brûle, bucurându-ne de un refugiu pașnic în mijlocul verdeții. Acest segment într-un ritm lent ne permite să ne relaxăm complet și să admirăm peisajul local.\nEvening: Încheiem excursia bucurându-ne de ultimele raze de soare în parc. Liniștea serii se așterne peste vegetația bogată, oferind o concluzie cu adevărat senină și memorabilă aventurii noastre în Lillers.",
+      "en": "Morning: We begin our exploration in the heart of Lillers, a town rich in history and artisanal heritage. As the day starts, we visit quiet religious sanctuaries and civic landmarks, soaking in the gentle awakening of the local streets and the architectural beauty.\nMidday: As noon approaches, our focus shifts to Lillers' renowned industrial past. The highlight is the captivating shoe museum, where we learn about the town's shoemaking legacy. We also pass by cultural hubs, reflecting the vibrant community spirit.\nAfternoon: The afternoon is dedicated to nature and relaxation. We transition to the tranquil Parc du Brûle, enjoying a peaceful retreat amidst greenery. This slow-paced segment allows for quiet reflection and enjoying the local landscape.\nEvening: We wrap up our day trip by relaxing in the park grounds. The setting sun casts a warm glow over the trees, offering a serene and beautiful conclusion to our walking adventure in Lillers."
+    }
+  },
+  "bike": {
+    "mode": "bike",
+    "speed_kmh": 11,
+    "start": "09:00",
+    "end_estimate": "14:49",
+    "total_km": 5.18,
+    "stop_count": 5,
+    "stops": [
+      {
+        "name": {
+          "de": "Rathaus",
+          "hu": "Városháza",
+          "ro": "Primăria",
+          "en": "Town Hall"
+        },
+        "coords": [
+          2.439782,
+          50.551628
+        ],
+        "category": "civic",
+        "arrive_at": "09:10",
+        "stay_min": 25,
+        "hop_from_prev_min": 10,
+        "hop_from_prev_km": 0.0,
+        "tip_5lang": {
+          "de": "Beginnen Sie Ihre Reise mit der Betrachtung der soliden bürgerlichen Architektur des Rathauses, einem tollen Treffpunkt zur Orientierung.",
+          "hu": "Kezdje útját a városháza masszív, polgári építészetének megcsodálásával, amely kiváló találkozási pont a tájékozódáshoz.",
+          "ro": "Începeți călătoria apreciind arhitectura civică solidă a primăriei, un punct de întâlnire excelent pentru a vă orienta inițial.",
+          "en": "Start your journey by appreciating the solid civic architecture of the town hall, a great meeting point to gather your bearings."
+        }
+      },
+      {
+        "name": {
+          "de": "Schuhmuseum",
+          "hu": "Cipőmúzeum",
+          "ro": "Muzeul Pantofului",
+          "en": "Shoe Museum"
+        },
+        "coords": [
+          2.478606,
+          50.563937
+        ],
+        "category": "museum",
+        "arrive_at": "09:52",
+        "stay_min": 100,
+        "hop_from_prev_min": 17,
+        "hop_from_prev_km": 3.05,
+        "tip_5lang": {
+          "de": "Entdecken Sie Lillers industrielles Erbe anhand faszinierender Ausstellungen zur Schuhherstellung und fragen Sie nach lokalen Schuhmachern.",
+          "hu": "Fedezze fel Lillers ipari örökségét a cipőgyártás lenyűgöző kiállításain keresztül, és kérdezze a vezetőket a helyi cipészekről.",
+          "ro": "Descoperiți moștenirea industrială din Lillers prin expoziții fascinante despre producția de încălțăminte și istoria cizmarilor.",
+          "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers."
+        }
+      },
+      {
+        "name": {
+          "de": "St. Omer Kirche",
+          "hu": "Saint-Omer templom",
+          "ro": "Biserica Saint-Omer",
+          "en": "Saint-Omer Church"
+        },
+        "coords": [
+          2.482465,
+          50.564111
+        ],
+        "category": "religious",
+        "arrive_at": "11:34",
+        "stay_min": 40,
+        "hop_from_prev_min": 2,
+        "hop_from_prev_km": 0.27,
+        "tip_5lang": {
+          "de": "Beachten Sie die beeindruckende romanische Architektur dieser Stiftskirche und nehmen Sie sich Zeit für die prächtige Orgel.",
+          "hu": "Figyelje meg e történelmi társaskápolna lenyűgöző román stílusú építészetét, és szakítson időt a pompás orgona megtekintésére.",
+          "ro": "Observați arhitectura romanică impresionantă a acestei biserici colegiale istorice, alocând timp pentru a vedea orga magnifică.",
+          "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ."
+        }
+      },
+      {
+        "name": {
+          "de": "Parc du Brûle",
+          "hu": "Parc du Brûle",
+          "ro": "Parc du Brûle",
+          "en": "Parc du Brûle"
+        },
+        "coords": [
+          2.489739,
+          50.563443
+        ],
+        "category": "natural",
+        "arrive_at": "12:17",
+        "stay_min": 75,
+        "hop_from_prev_min": 3,
+        "hop_from_prev_km": 0.51,
+        "tip_5lang": {
+          "de": "Entspannen Sie sich auf den friedlichen Wanderwegen dieser grünen Oase, die der perfekte Ort für ein ruhiges Nachmittagspicknick ist.",
+          "hu": "Pihenjen meg e zöld menedék békés sétaútjain, amely tökéletes helyszínt biztosít egy nyugodt, kora délutáni piknikhez a szabadban.",
+          "ro": "Relaxați-vă de-a lungul potecilor pașnice din acest refugiu verde, locul perfect pentru un picnic liniștit în timpul după-amiezii.",
+          "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break."
+        }
+      },
+      {
+        "name": {
+          "de": "Kirche Unserer Lieben Frau des Friedens",
+          "hu": "Béke Miasszonyunk templom",
+          "ro": "Biserica Maicii Domnului a Păcii",
+          "en": "Church of Our Lady of Peace"
+        },
+        "coords": [
+          2.500061,
+          50.553015
+        ],
+        "category": "religious",
+        "arrive_at": "13:39",
+        "stay_min": 70,
+        "hop_from_prev_min": 7,
+        "hop_from_prev_km": 1.35,
+        "tip_5lang": {
+          "de": "Nehmen Sie sich einen ruhigen Moment in dieser beschaulichen Kirche am Rand, deren schlichtes Design im Kontrast zur Hauptbasilika steht.",
+          "hu": "Töltsön el egy csendes pillanatot e békés peremkerületi templomban, megfigyelve, hogyan tér el szerény kialakítása a fő bazilikától.",
+          "ro": "Luați-vă un moment de liniște în această biserică periferică, remarcând modul în care designul său modest contrastează cu bazilica.",
+          "en": "Take a quiet moment inside this serene peripheral church, noting how its modest design contrasts with the main central basilica."
+        }
+      }
+    ],
+    "narrative_4lang": {
+      "de": "Morning: Wir starten unsere Fahrradtour am Rathaus, bevor wir ins Zentrum von Lillers fahren, um dort das unglaubliche Schuhmuseum zu besichtigen und das industrielle Erbe kennenzulernen.\nMidday: Wir radeln weiter durch die Stadtmitte und besuchen die imposante St. Omer Kirche. Diese Kombination aus Industriehistorie und romanischer Architektur vermittelt ein gutes Bild der Stadt.\nAfternoon: Mit dem Fahrrad erreichen wir schnell den grünen Parc du Brûle. Hier haben wir ausgiebig Zeit, um eine Pause einzulegen und die gepflegte Parkanlage fernab der Hauptstraßen zu genießen.\nEvening: Wir beschließen die Tour mit einer Fahrt zur Kirche Unserer Lieben Frau des Friedens. Die friedliche Atmosphäre dieses peripheren Gotteshauses ist ein besinnlicher Abschluss des Tagesausflugs."
+    },
+    "hu": "Morning: Kerékpáros túránkat a városházánál kezdjük, majd Lillers központjába tekerünk, ahol az egyedülálló cipőmúzeumban megismerjük a város lenyűgöző ipari múltját.\nMidday: Tovább haladva a belvárosban megtekintjük az impozáns Saint-Omer templomot. Az ipartörténet és a román stílusú építészet együttesen nagyszerű képet ad Lillers arculatáról.\nAfternoon: A kerékpároknak köszönhetően hamar elérjük a zöldellő Parc du Brûle-t. Bőséges időnk marad arra, hogy megpihenjünk és élvezzük a gondozott parkot távol a főutak zajától.\nEvening: A napot egy könnyed tekeréssel zárjuk a Béke Miasszonyunk templomához. E peremkerületi szentély békés atmoszférája tökéletes és elmélyült befejezése a tartalmas kirándulásnak.",
+    "ro": "Morning: Începem turul nostru pe bicicletă la Primărie, înainte de a pedala spre centrul orașului Lillers pentru a vizita incredibilul muzeu al pantofilor și a-i descoperi istoria industrială.\nMidday: Continuăm plimbarea prin centrul orașului și vizităm impunătoarea Biserică Saint-Omer. Această combinație de istorie industrială și arhitectură romanică definește spiritul orașului.\nAfternoon: Cu bicicleta ajungem rapid în verdele Parc du Brûle. Aici avem suficient timp să luăm o pauză relaxantă și să ne bucurăm de spațiul amenajat, departe de străzile aglomerate.\nEvening: Încheiem traseul pedalând către Biserica Maicii Domnului a Păcii. Atmosfera pașnică a acestui lăcaș de cult periferic este finalul perfect pentru o zi plină de explorări pitorești.",
+    "en": "Morning: We kick off our bike tour at the civic Town Hall before pedaling into the center of Lillers to explore the incredible Shoe Museum, deeply tied to the local industrial heritage.\nMidday: Continuing our ride through the heart of the city, we visit the imposing Saint-Omer Church. The mix of industrial history and magnificent Romanesque architecture paints a full picture of the town.\nAfternoon: Thanks to our bikes, we quickly reach the lush Parc du Brûle. We take ample time here to rest, enjoy a picnic, and wander the well-kept grounds away from the busier main streets.\nEvening: We finish our active day by cycling to the Church of Our Lady of Peace. The peaceful atmosphere of this peripheral sanctuary provides a thoughtful and calm end to our journey."
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-vinhais-cities-v2",
+  "anchor": {
+    "name": "Vinhais",
+    "coords": [
+      -7,
+      41.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vinhais",
+            "hu": "Vinhais Városháza",
+            "ro": "Primăria din Vinhais",
+            "en": "Vinhais City Hall"
+          },
+          "coords": [
+            -7.002283,
+            41.835128
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das das administrative Herz von Vinhais bildet, und achten Sie auf die architektonischen Details, bevor Sie den nahegelegenen Platz erkunden.",
+            "hu": "Csodálja meg a történelmi városházát, amely Vinhais közigazgatási szíve, és figyelje meg az építészeti részleteket, mielőtt felfedezné a közeli teret.",
+            "ro": "Admirați primăria istorică, inima administrativă a orașului Vinhais, și observați detaliile arhitecturale înainte de a explora piața din apropiere.",
+            "en": "Admire the historical city hall, the administrative heart of Vinhais, and notice the architectural details before exploring the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+            "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+            "ro": "Centrul Cultural Conacul Conților de Vinhais",
+            "en": "Cultural Center Manor of the Counts of Vinhais"
+          },
+          "coords": [
+            -7.004605,
+            41.834035
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses prächtige Herrenhaus, um mehr über die adlige Geschichte der Region zu erfahren, und nehmen Sie sich Zeit für die wechselnden Kunstausstellungen im Erdgeschoss.",
+            "hu": "Látogasson el ebbe a csodálatos kúriába, hogy megismerje a régió nemesi történelmét, és szánjon időt a földszinten található időszaki művészeti kiállításokra.",
+            "ro": "Vizitați acest conac magnific pentru a afla despre istoria nobilă a regiunii și acordați-vă timp pentru expozițiile de artă temporare de la parter.",
+            "en": "Visit this magnificent manor to learn about the region's noble history, taking your time to browse the temporary art exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Vinhais",
+            "hu": "Vinhais Pellengér",
+            "ro": "Stâlpul Infamiei din Vinhais",
+            "en": "Vinhais Pillory"
+          },
+          "coords": [
+            -6.999915,
+            41.834963
+          ],
+          "category": "monument",
+          "arrive_at": "11:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie den steinernen Pranger, der als historisches Symbol für Gerechtigkeit und städtische Macht steht, und nutzen Sie das morgendliche Licht für fantastische Fotos.",
+            "hu": "Tekintse meg a kőpellengért, amely az igazságszolgáltatás és a városi hatalom történelmi szimbóluma, és használja ki a reggeli fényeket a fantasztikus fotók elkészítéséhez.",
+            "ro": "Priviți stâlpul infamiei din piatră, simbol istoric al justiției și puterii municipale, și profitați de lumina dimineții pentru fotografii fantastice.",
+            "en": "Observe the stone pillory standing as a historical symbol of justice and municipal power, and take advantage of the soft morning light for fantastic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Facundo",
+            "hu": "São Facundo Templom",
+            "ro": "Biserica São Facundo",
+            "en": "Church of São Facundo"
+          },
+          "coords": [
+            -6.999729,
+            41.830864
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Kirche, deren religiöse Kunstwerke die tiefe spirituelle Tradition des Ortes widerspiegeln, und treten Sie leise ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot, amelynek vallási műalkotásai a helyi mély spirituális hagyományokat tükrözik, és lépjen be csendben, hogy élvezze a békés légkört.",
+            "ro": "Explorați această biserică fascinantă, ale cărei opere de artă religioasă reflectă tradiția spirituală profundă a locului, și intrați în liniște pentru a vă bucura de atmosfera pașnică.",
+            "en": "Explore this fascinating church where religious artworks reflect the deep spiritual tradition of the town, stepping inside quietly to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand Ponte da Ranca",
+            "hu": "Ponte da Ranca Folyami Strand",
+            "ro": "Plaja Fluvială Ponte da Ranca",
+            "en": "Ponte da Ranca River Beach"
+          },
+          "coords": [
+            -6.99697,
+            41.81017
+          ],
+          "category": "park",
+          "arrive_at": "13:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen Flussstrand, der sich perfekt für Familien eignet, und bringen Sie ein Picknick mit, um den Nachmittag im Grünen zu verbringen.",
+            "hu": "Pihenjen ezen az idilli folyami strandon, amely tökéletes családok számára, és hozzon magával pikniket, hogy a délutánt a természetben tölthesse.",
+            "ro": "Relaxați-vă pe această plajă fluvială idilică, perfectă pentru familii, și aduceți un picnic pentru a petrece după-amiaza înconjurat de natură.",
+            "en": "Relax at this idyllic river beach which is perfect for families, and bring a picnic lunch to spend a delightful afternoon surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Rathaus, um die lokale Verwaltung kennenzulernen. Gegen Mittag tauchen Sie im Kulturzentrum in die noble Geschichte ein. Am Nachmittag entdecken Sie den alten Pranger und die Kirche, Symbole der Tradition. Schließen Sie den Abend mit einem entspannten Spaziergang hinunter zum friedlichen Flussstrand ab.",
+        "hu": "Kezdje a reggelt a történelmi városházánál, hogy megismerje a helyi közigazgatást. Délben merüljön el a nemesi történelemben a lenyűgöző kulturális központban. Délután fedezze fel az ősi pellengért és a templomot, a helyi hagyományok szimbólumait. Fejezze be az estét egy pihentető sétával a nyugodt folyami strandon, hogy kikapcsolódjon.",
+        "ro": "Începeți dimineața la primăria istorică pentru a înțelege administrația locală. La prânz, absorbiți istoria nobilă la magnificul centru cultural. După-amiaza, descoperiți vechiul stâlp al infamiei și frumoasa biserică, simboluri ale tradiției locale. Încheiați seara cu o plimbare relaxantă până la plaja fluvială liniștită pentru a vă destinde.",
+        "en": "Start your morning at the historic City Hall to understand the local administration. Around midday, soak in the noble history at the stunning Cultural Center manor. In the afternoon, discover the ancient pillory and the beautiful church, symbols of local tradition. Conclude your evening with a relaxing stroll down to the tranquil river beach to unwind."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pranger von Vinhais",
+            "hu": "Vinhais Pellengér",
+            "ro": "Stâlpul Infamiei din Vinhais",
+            "en": "Vinhais Pillory"
+          },
+          "coords": [
+            -6.999915,
+            41.834963
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie den steinernen Pranger, der als historisches Symbol für Gerechtigkeit und städtische Macht steht, und nutzen Sie das morgendliche Licht für fantastische Fotos.",
+            "hu": "Tekintse meg a kőpellengért, amely az igazságszolgáltatás és a városi hatalom történelmi szimbóluma, és használja ki a reggeli fényeket a fantasztikus fotók elkészítéséhez.",
+            "ro": "Priviți stâlpul infamiei din piatră, simbol istoric al justiției și puterii municipale, și profitați de lumina dimineții pentru fotografii fantastice.",
+            "en": "Observe the stone pillory standing as a historical symbol of justice and municipal power, and take advantage of the soft morning light for fantastic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Facundo",
+            "hu": "São Facundo Templom",
+            "ro": "Biserica São Facundo",
+            "en": "Church of São Facundo"
+          },
+          "coords": [
+            -6.999729,
+            41.830864
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Kirche, deren religiöse Kunstwerke die tiefe spirituelle Tradition des Ortes widerspiegeln, und treten Sie leise ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot, amelynek vallási műalkotásai a helyi mély spirituális hagyományokat tükrözik, és lépjen be csendben, hogy élvezze a békés légkört.",
+            "ro": "Explorați această biserică fascinantă, ale cărei opere de artă religioasă reflectă tradiția spirituală profundă a locului, și intrați în liniște pentru a vă bucura de atmosfera pașnică.",
+            "en": "Explore this fascinating church where religious artworks reflect the deep spiritual tradition of the town, stepping inside quietly to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+            "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+            "ro": "Centrul Cultural Conacul Conților de Vinhais",
+            "en": "Cultural Center Manor of the Counts of Vinhais"
+          },
+          "coords": [
+            -7.004605,
+            41.834035
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses prächtige Herrenhaus, um mehr über die adlige Geschichte der Region zu erfahren, und nehmen Sie sich Zeit für die wechselnden Kunstausstellungen im Erdgeschoss.",
+            "hu": "Látogasson el ebbe a csodálatos kúriába, hogy megismerje a régió nemesi történelmét, és szánjon időt a földszinten található időszaki művészeti kiállításokra.",
+            "ro": "Vizitați acest conac magnific pentru a afla despre istoria nobilă a regiunii și acordați-vă timp pentru expozițiile de artă temporare de la parter.",
+            "en": "Visit this magnificent manor to learn about the region's noble history, taking your time to browse the temporary art exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaschaukel von Chouriça",
+            "hu": "Chouriça Panoráma Hinta",
+            "ro": "Leagănul Panoramic din Chouriça",
+            "en": "Panoramic Swing of Chouriça"
+          },
+          "coords": [
+            -6.993586,
+            41.846585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schwingen Sie auf dieser malerischen Schaukel mit herrlichem Blick über die Landschaft und vergessen Sie nicht, warme Kleidung mitzunehmen, da es windig werden kann.",
+            "hu": "Hintázzon ezen a festői hintán, ahonnan csodálatos kilátás nyílik a tájra, és ne felejtsen el meleg ruhát vinni, mivel odafent szeles lehet.",
+            "ro": "Leagănați-vă pe acest leagăn pitoresc cu vederi magnifice asupra peisajului și nu uitați să luați haine groase, deoarece poate fi vântos.",
+            "en": "Swing on this picturesque swing offering magnificent views over the landscape, and do not forget to bring warm clothes as it can get windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Ciradelha",
+            "hu": "Ciradelha Kilátó",
+            "ro": "Punct de Belvedere Ciradelha",
+            "en": "Ciradelha Viewpoint"
+          },
+          "coords": [
+            -6.9915,
+            41.847514
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem Aussichtspunkt, der die raue Natur Nordportugals zeigt, und bringen Sie ein Fernglas mit, um die Details der fernen Hügel zu erkennen.",
+            "hu": "Élvezze a lélegzetelállító kilátást erről a kilátóról, amely bemutatja Észak-Portugália zord természetét, és hozzon magával távcsövet a távoli dombok megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea uluitoare de la acest punct de belvedere, care arată natura aspră a nordului Portugaliei, și aduceți binoclul pentru a vedea detaliile dealurilor îndepărtate.",
+            "en": "Enjoy the breathtaking views from this viewpoint that showcases the rugged nature of Northern Portugal, bringing binoculars to spot details in the distant hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand Ponte da Ranca",
+            "hu": "Ponte da Ranca Folyami Strand",
+            "ro": "Plaja Fluvială Ponte da Ranca",
+            "en": "Ponte da Ranca River Beach"
+          },
+          "coords": [
+            -6.99697,
+            41.81017
+          ],
+          "category": "park",
+          "arrive_at": "12:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen Flussstrand, der sich perfekt für Familien eignet, und bringen Sie ein Picknick mit, um den Nachmittag im Grünen zu verbringen.",
+            "hu": "Pihenjen ezen az idilli folyami strandon, amely tökéletes családok számára, és hozzon magával pikniket, hogy a délutánt a természetben tölthesse.",
+            "ro": "Relaxați-vă pe această plajă fluvială idilică, perfectă pentru familii, și aduceți un picnic pentru a petrece după-amiaza înconjurat de natură.",
+            "en": "Relax at this idyllic river beach which is perfect for families, and bring a picnic lunch to spend a delightful afternoon surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre morgendliche Radtour am zentralen Pranger und der nahegelegenen Kirche. Erkunden Sie am Mittag das große Kulturzentrum und seine Ausstellungen. Radeln Sie am Nachmittag zur Panoramaschaukel und zum Aussichtspunkt für spektakuläre Landschaften. Beenden Sie den Abend mit einer lohnenden Fahrt bergab zum idyllischen Flussstrand.",
+        "hu": "Kezdje a reggeli kerékpározást a központi pellengérnél és a közeli templomnál. Délben fedezze fel a kulturális központot és annak kiállításait. Délután tekerjen fel a panoráma hintához és a kilátóhoz a látványos tájakért. Fejezze be az estét egy jutalmazó ereszkedéssel az idilli folyami strand felé, hogy a természetben pihenjen.",
+        "ro": "Începeți plimbarea cu bicicleta dimineața la stâlpul infamiei și biserica din apropiere. La prânz, explorați marele centru cultural și expozițiile sale. După-amiaza, pedalați până la leagănul panoramic și punctul de belvedere pentru peisaje spectaculoase. Încheiați seara cu o coborâre plină de satisfacții spre plaja fluvială idilică pentru a vă relaxa.",
+        "en": "Begin your morning bike ride at the central pillory and the nearby spiritual church. By midday, explore the grand Cultural Center and its captivating exhibitions. In the afternoon, cycle up to the panoramic swing and viewpoint for spectacular landscapes. End your evening with a rewarding, downhill ride towards the idyllic river beach to relax in nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vinhais",
+            "hu": "Vinhais Városháza",
+            "ro": "Primăria din Vinhais",
+            "en": "Vinhais City Hall"
+          },
+          "coords": [
+            -7.002283,
+            41.835128
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das das administrative Herz von Vinhais bildet, und achten Sie auf die architektonischen Details, bevor Sie den nahegelegenen Platz erkunden.",
+            "hu": "Csodálja meg a történelmi városházát, amely Vinhais közigazgatási szíve, és figyelje meg az építészeti részleteket, mielőtt felfedezné a közeli teret.",
+            "ro": "Admirați primăria istorică, inima administrativă a orașului Vinhais, și observați detaliile arhitecturale înainte de a explora piața din apropiere.",
+            "en": "Admire the historical city hall, the administrative heart of Vinhais, and notice the architectural details before exploring the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Facundo",
+            "hu": "São Facundo Templom",
+            "ro": "Biserica São Facundo",
+            "en": "Church of São Facundo"
+          },
+          "coords": [
+            -6.999729,
+            41.830864
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Kirche, deren religiöse Kunstwerke die tiefe spirituelle Tradition des Ortes widerspiegeln, und treten Sie leise ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot, amelynek vallási műalkotásai a helyi mély spirituális hagyományokat tükrözik, és lépjen be csendben, hogy élvezze a békés légkört.",
+            "ro": "Explorați această biserică fascinantă, ale cărei opere de artă religioasă reflectă tradiția spirituală profundă a locului, și intrați în liniște pentru a vă bucura de atmosfera pașnică.",
+            "en": "Explore this fascinating church where religious artworks reflect the deep spiritual tradition of the town, stepping inside quietly to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum für portugiesische einheimische Rassen",
+            "hu": "Portugál Őshonos Fajták Látogatóközpontja",
+            "ro": "Centrul de Interpretare a Raselor Autohtone Portugheze",
+            "en": "Interpretive Center of Portuguese Autochthonous Breeds"
+          },
+          "coords": [
+            -6.987907,
+            41.858883
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem interaktiven Museum alles über die einheimischen portugiesischen Tierrassen und fragen Sie das Personal nach den Fütterungszeiten der lebenden Tiere auf dem Gelände.",
+            "hu": "Tudjon meg mindent az őshonos portugál állatfajtákról ebben az interaktív múzeumban, és kérdezze meg a személyzetet az etetési időkről.",
+            "ro": "Învățați totul despre rasele de animale autohtone portugheze în acest muzeu interactiv și întrebați personalul despre orele de hrănire a animalelor.",
+            "en": "Learn everything about native Portuguese animal breeds in this interactive museum, making sure to ask the staff about feeding times for the live animals on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Stausee von Prada",
+            "hu": "Prada Víztározó",
+            "ro": "Rezervorul Prada",
+            "en": "Prada Reservoir"
+          },
+          "coords": [
+            -6.98153,
+            41.867905
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um diesen ruhigen Stausee, der ein Paradies für Vogelbeobachter ist, und bleiben Sie auf den markierten Wegen, um die lokale Flora nicht zu stören.",
+            "hu": "Sétáljon egyet e nyugodt víztározó körül, amely a madármegfigyelők paradicsoma, és maradjon a kijelölt ösvényeken, hogy ne zavarja a helyi növényvilágot.",
+            "ro": "Faceți o plimbare în jurul acestui rezervor liniștit, care este un paradis pentru observatorii de păsări, și rămâneți pe traseele marcate pentru a proteja flora locală.",
+            "en": "Take a stroll around this tranquil reservoir which is a true paradise for birdwatchers, staying on the marked trails to avoid disturbing the delicate local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaschaukel von Chouriça",
+            "hu": "Chouriça Panoráma Hinta",
+            "ro": "Leagănul Panoramic din Chouriça",
+            "en": "Panoramic Swing of Chouriça"
+          },
+          "coords": [
+            -6.993586,
+            41.846585
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schwingen Sie auf dieser malerischen Schaukel mit herrlichem Blick über die Landschaft und vergessen Sie nicht, warme Kleidung mitzunehmen, da es windig werden kann.",
+            "hu": "Hintázzon ezen a festői hintán, ahonnan csodálatos kilátás nyílik a tájra, és ne felejtsen el meleg ruhát vinni, mivel odafent szeles lehet.",
+            "ro": "Leagănați-vă pe acest leagăn pitoresc cu vederi magnifice asupra peisajului și nu uitați să luați haine groase, deoarece poate fi vântos.",
+            "en": "Swing on this picturesque swing offering magnificent views over the landscape, and do not forget to bring warm clothes as it can get windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Ciradelha",
+            "hu": "Ciradelha Kilátó",
+            "ro": "Punct de Belvedere Ciradelha",
+            "en": "Ciradelha Viewpoint"
+          },
+          "coords": [
+            -6.9915,
+            41.847514
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem Aussichtspunkt, der die raue Natur Nordportugals zeigt, und bringen Sie ein Fernglas mit, um die Details der fernen Hügel zu erkennen.",
+            "hu": "Élvezze a lélegzetelállító kilátást erről a kilátóról, amely bemutatja Észak-Portugália zord természetét, és hozzon magával távcsövet a távoli dombok megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea uluitoare de la acest punct de belvedere, care arată natura aspră a nordului Portugaliei, și aduceți binoclul pentru a vedea detaliile dealurilor îndepărtate.",
+            "en": "Enjoy the breathtaking views from this viewpoint that showcases the rugged nature of Northern Portugal, bringing binoculars to spot details in the distant hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Stausee von Nunes",
+            "hu": "Nunes Víztározó",
+            "ro": "Rezervorul Nunes",
+            "en": "Nunes Reservoir"
+          },
+          "coords": [
+            -6.948974,
+            41.827929
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen See, der durch sein ruhiges Wasser besticht, und warten Sie auf den Sonnenuntergang, der die Wasseroberfläche in goldene Farben taucht.",
+            "hu": "Fejezze be a napját ennél a gyönyörű tónál, amely lenyűgöző a nyugodt vizével, és várja meg a naplementét, amely arany színbe öltözteti a víz felszínét.",
+            "ro": "Încheiați ziua la acest lac frumos, remarcabil pentru apele sale calme, și așteptați apusul soarelui care scaldă suprafața apei în culori aurii.",
+            "en": "End your day at this beautiful lake known for its calm waters, and stay until sunset when the water surface reflects a mesmerizing array of golden colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Morgen mit einer Fahrt zum historischen Rathaus und der örtlichen Kirche. Fahren Sie gegen Mittag nach Norden, um das interaktive Tiermuseum zu besuchen. Verbringen Sie den Nachmittag am ruhigen Prada-Stausee und genießen Sie die atemberaubende Aussicht. Schließen Sie den Abend mit einem friedlichen Sonnenuntergang am Nunes-Stausee ab.",
+        "hu": "Kezdje a reggelt azzal, hogy a történelmi városházához és a helyi templomhoz hajt. Dél körül utazzon északra, hogy tanuljon az interaktív állatfajták múzeumában. Töltse a délutánt a Prada víztározó nyugalmának és a hinta csodálatos kilátásának élvezetével. Fejezze be az estét egy békés naplementével a gyönyörű Nunes víztározónál.",
+        "ro": "Începeți dimineața conducând spre primăria istorică și biserica locală senină. În jurul prânzului, călătoriți spre nord pentru a învăța la muzeul interactiv de animale. Petreceți după-amiaza bucurându-vă de rezervorul calm Prada și de vederile uimitoare de la leagăn și belvedere. Încheiați seara cu un apus liniștit la frumosul rezervor Nunes.",
+        "en": "Kick off your morning by driving to the historic city hall and the serene local church. Around midday, travel north to learn at the interactive animal breeds museum. Spend your afternoon enjoying the calm Prada reservoir and the stunning views from the swing and viewpoint. Conclude the evening with a peaceful sunset stop at the beautiful Nunes reservoir."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-lajes-das-flores-cities-v2",
+  "anchor": {
+    "name": "Lajes das Flores",
+    "coords": [
+      -31.17709,
+      39.37795
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal das Lajes das Flores",
+            "hu": "Lajes das Flores Városháza",
+            "ro": "Primăria din Lajes das Flores",
+            "en": "Lajes das Flores Town Hall"
+          },
+          "coords": [
+            -31.175442,
+            39.378456
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle azorische Architektur dieses historischen Rathauses mit seinem Basaltmauerwerk und kommen Sie an einem Wochentagmorgen.",
+            "hu": "Csodálja meg a történelmi városháza hagyományos azori építészetét és bazalt kőművesmunkáját, majd érkezzen egy békés hétköznap délelőtt a nyugodtabb élményért.",
+            "ro": "Admirați arhitectura tradițională azoreană a acestei primării istorice, observând detaliile din bazalt, și vizitați-o într-o dimineață de zi lucrătoare.",
+            "en": "Admire the traditional Azorean architecture of this historic town hall, noticing the basalt stonework, and visit during weekday mornings for a quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora do Rosário",
+            "hu": "Nossa Senhora do Rosário-templom",
+            "ro": "Biserica Nossa Senhora do Rosário",
+            "en": "Church of Nossa Senhora do Rosário"
+          },
+          "coords": [
+            -31.17435,
+            39.378215
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvolle Innenausstattung dieser jahrhundertealten Kirche, die einen friedlichen Rückzugsort bietet, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg a több évszázados templom díszes belső terét és vallási ereklyéit, de ne feledjen szerény és visszafogott öltözékben érkezni a tisztelet jeléül.",
+            "ro": "Minunați-vă de interioarele ornamentate și artefactele acestei biserici vechi de secole, dar nu uitați să vă îmbrăcați decent înainte de a păși înăuntru.",
+            "en": "Marvel at the ornate interiors and religious artifacts of this centuries-old church, which offers a peaceful retreat, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu das Lajes das Flores",
+            "hu": "Lajes das Flores Múzeum",
+            "ro": "Muzeul din Lajes das Flores",
+            "en": "Lajes das Flores Museum"
+          },
+          "coords": [
+            -31.178744,
+            39.377636
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen zur frühen Besiedlung und maritimen Geschichte der Insel und planen Sie mindestens eine Stunde ein, um alle Details zu erfassen.",
+            "hu": "Fedezze fel a sziget korai település- és tengerészeti történetét bemutató kiállításokat, és szánjon legalább egy órát a részletes leírások áttanulmányozására.",
+            "ro": "Explorați expozițiile care detaliază colonizarea timpurie și istoria maritimă a insulei, alocând cel puțin o oră pentru a citi toate panourile informative.",
+            "en": "Explore exhibits detailing the early settlement and maritime history of the island, providing crucial cultural context, so allocate at least an hour to read the displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmuseum",
+            "hu": "Bálnavadászati Múzeum",
+            "ro": "Muzeul Vânătorii de Balene",
+            "en": "Whaling Museum"
+          },
+          "coords": [
+            -31.170987,
+            39.379094
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intensive Geschichte des azorischen Walfangs anhand authentischer Artefakte und Boote und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Ismerje meg az azori bálnavadászat kemény történetét az eredeti csónakokon keresztül, de indulás előtt mindenképp ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți istoria intensă a vânătorii de balene prin artefacte autentice și bărci de epocă, dar verificați programul de funcționare, deoarece variază sezonier.",
+            "en": "Discover the intense history of Azorean whaling through authentic artifacts and boats, reflecting a tough era, and check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol das Lajes das Flores",
+            "hu": "Lajes das Flores Világítótorony",
+            "ro": "Farul Lajes das Flores",
+            "en": "Lajes das Flores Lighthouse"
+          },
+          "coords": [
+            -31.176531,
+            39.375708
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean von diesem ikonischen Leuchtturm und bringen Sie eine Windjacke mit, da die steife Meeresbrise recht kühl sein kann.",
+            "hu": "Élvezze a panorámás óceáni kilátást az ikonikus világítótoronyból, amely évtizedek óta irányítja a hajókat, és hozzon széldzsekit a hűvös parti szél miatt.",
+            "ro": "Bucurați-vă de vederea panoramică la ocean de la acest far iconic ce ghidează navele de decenii și aduceți o jachetă de vânt pentru briza de coastă rece.",
+            "en": "Enjoy panoramic ocean views from this iconic lighthouse that has guided ships for decades, and bring a windbreaker as the coastal breeze can be quite chilly here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am historischen Rathaus, um die Architektur der Azoren zu bewundern, bevor Sie zur Hauptkirche schlendern. Gegen Mittag tauchen Sie im Heimatmuseum tief in die reiche Geschichte der Insel ein. Am Nachmittag widmen Sie sich der bewegten Vergangenheit im Walfangmuseum. Der Tag endet stimmungsvoll am Leuchtturm mit einem herrlichen Blick auf den weiten Ozean.",
+        "hu": "A reggelt a történelmi városházánál kezdje az azori építészet felfedezésével, majd sétáljon át a közeli templomhoz. Délben a helytörténeti múzeum kiállításain keresztül ismerheti meg a sziget múltját. Délután a bálnavadászati múzeum izgalmas történeteibe nyerhet bepillantást. A napot a világítótoronynál zárja, ahonnan lenyűgöző kilátás nyílik a végtelen óceánra.",
+        "ro": "Începeți dimineața la primăria istorică pentru a admira arhitectura locală, înainte de a vizita biserica principală. La prânz, aprofundați istoria insulei explorând exponatele fascinante ale muzeului local. După-amiaza este dedicată trecutului maritim la muzeul vânătorii de balene. Ziua se încheie la far, oferind o panoramă spectaculoasă asupra oceanului nesfârșit.",
+        "en": "Start your morning at the historic town hall to admire Azorean architecture before strolling to the main church. Midday brings a deep dive into island history at the local municipal museum. Spend your afternoon exploring the fascinating maritime past at the whaling museum. Conclude your day at the scenic lighthouse, soaking in the endless views of the Atlantic Ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu das Lajes das Flores",
+            "hu": "Lajes das Flores Múzeum",
+            "ro": "Muzeul din Lajes das Flores",
+            "en": "Lajes das Flores Museum"
+          },
+          "coords": [
+            -31.178744,
+            39.377636
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen zur frühen Besiedlung und maritimen Geschichte der Insel und planen Sie mindestens eine Stunde ein, um alle Details zu erfassen.",
+            "hu": "Fedezze fel a sziget korai település- és tengerészeti történetét bemutató kiállításokat, és szánjon legalább egy órát a részletes leírások áttanulmányozására.",
+            "ro": "Explorați expozițiile care detaliază colonizarea timpurie și istoria maritimă a insulei, alocând cel puțin o oră pentru a citi toate panourile informative.",
+            "en": "Explore exhibits detailing the early settlement and maritime history of the island, providing crucial cultural context, so allocate at least an hour to read the displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal das Lajes das Flores",
+            "hu": "Lajes das Flores Városháza",
+            "ro": "Primăria din Lajes das Flores",
+            "en": "Lajes das Flores Town Hall"
+          },
+          "coords": [
+            -31.175442,
+            39.378456
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle azorische Architektur dieses historischen Rathauses mit seinem Basaltmauerwerk und kommen Sie an einem Wochentagmorgen.",
+            "hu": "Csodálja meg a történelmi városháza hagyományos azori építészetét és bazalt kőművesmunkáját, majd érkezzen egy békés hétköznap délelőtt a nyugodtabb élményért.",
+            "ro": "Admirați arhitectura tradițională azoreană a acestei primării istorice, observând detaliile din bazalt, și vizitați-o într-o dimineață de zi lucrătoare.",
+            "en": "Admire the traditional Azorean architecture of this historic town hall, noticing the basalt stonework, and visit during weekday mornings for a quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora do Rosário",
+            "hu": "Nossa Senhora do Rosário-templom",
+            "ro": "Biserica Nossa Senhora do Rosário",
+            "en": "Church of Nossa Senhora do Rosário"
+          },
+          "coords": [
+            -31.17435,
+            39.378215
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvolle Innenausstattung dieser jahrhundertealten Kirche, die einen friedlichen Rückzugsort bietet, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg a több évszázados templom díszes belső terét és vallási ereklyéit, de ne feledjen szerény és visszafogott öltözékben érkezni a tisztelet jeléül.",
+            "ro": "Minunați-vă de interioarele ornamentate și artefactele acestei biserici vechi de secole, dar nu uitați să vă îmbrăcați decent înainte de a păși înăuntru.",
+            "en": "Marvel at the ornate interiors and religious artifacts of this centuries-old church, which offers a peaceful retreat, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmuseum",
+            "hu": "Bálnavadászati Múzeum",
+            "ro": "Muzeul Vânătorii de Balene",
+            "en": "Whaling Museum"
+          },
+          "coords": [
+            -31.170987,
+            39.379094
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intensive Geschichte des azorischen Walfangs anhand authentischer Artefakte und Boote und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Ismerje meg az azori bálnavadászat kemény történetét az eredeti csónakokon keresztül, de indulás előtt mindenképp ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți istoria intensă a vânătorii de balene prin artefacte autentice și bărci de epocă, dar verificați programul de funcționare, deoarece variază sezonier.",
+            "en": "Discover the intense history of Azorean whaling through authentic artifacts and boats, reflecting a tough era, and check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro das Pedras Brancas",
+            "hu": "Pedras Brancas Kilátó",
+            "ro": "Punctul de belvedere Pedras Brancas",
+            "en": "Pedras Brancas Viewpoint"
+          },
+          "coords": [
+            -31.17272,
+            39.37973
+          ],
+          "category": "natural",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Küstenblicke und dramatischen Felsformationen an diesem natürlichen Aussichtspunkt, der sich nachmittags perfekt für Landschaftsfotos eignet.",
+            "hu": "Gyönyörködjön a tengerparti kilátásban és a drámai sziklaképződményekben ezen a természetes kilátóponton, amely délután tökéletes helyszín a tájfotózáshoz.",
+            "ro": "Admirați priveliștile de coastă și formațiunile stâncoase dramatice la acest punct de belvedere natural, perfect pentru fotografia de peisaj, mai ales după-amiaza.",
+            "en": "Take in the sweeping coastal vistas and dramatic rock formations at this natural viewpoint, making it the perfect spot for landscape photography, especially in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Senhor Santo Cristo dos Milagres",
+            "hu": "Senhor Santo Cristo dos Milagres Templom",
+            "ro": "Biserica Senhor Santo Cristo dos Milagres",
+            "en": "Church of Senhor Santo Cristo dos Milagres"
+          },
+          "coords": [
+            -31.166494,
+            39.389135
+          ],
+          "category": "religious",
+          "arrive_at": "15:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante religiöse Stätte, die für ihre kulturelle Bedeutung bekannt ist, und genießen Sie die ruhige Atmosphäre abseits des Zentrums.",
+            "hu": "Látogasson el a kulturális jelentőségű és gyönyörű homlokzatú vallási helyszínre, és lépjen be, hogy élvezze a központtól távol eső csendes atmoszférát.",
+            "ro": "Vizitați acest sit religios remarcabil pentru semnificația sa culturală și fațada frumoasă, pășind înăuntru pentru a aprecia atmosfera liniștită, departe de centru.",
+            "en": "Visit this striking religious site known for its cultural significance and beautiful facade, and step inside to appreciate the quiet, contemplative atmosphere away from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie sportlich am Stadtmuseum und radeln Sie dann weiter zum historischen Rathaus im Zentrum. Zur Mittagszeit besichtigen Sie die Kirche Nossa Senhora do Rosário und stärken sich danach geistig im Walfangmuseum. Nachmittags genießen Sie die salzige Brise am Aussichtspunkt Pedras Brancas. Zum Abschluss führt die Route zur beeindruckenden Kirche Santo Cristo dos Milagres.",
+        "hu": "Indítsa a napot a városi múzeumnál, majd tekerjen be a központba a történelmi városházához. Ebédidőben látogasson el a Nossa Senhora do Rosário templomba, és fedezze fel a bálnavadászati múzeumot. Délután élvezze a sós tengeri levegőt a Pedras Brancas kilátónál. A túra a lenyűgöző Santo Cristo dos Milagres templom megtekintésével ér véget a kora esti órákban.",
+        "ro": "Porniți la drum de la muzeul orașului și pedalați spre centrul istoric pentru a vedea primăria. La prânz, vizitați biserica Nossa Senhora do Rosário și explorați fascinantul muzeu al vânătorii de balene. După-amiaza, respirați aerul sărat al oceanului la punctul de belvedere Pedras Brancas. Traseul se încheie la impresionanta biserică Santo Cristo dos Milagres.",
+        "en": "Kick off your ride at the municipal museum before pedaling to the historic town hall in the center. Midday, visit the Church of Nossa Senhora do Rosário and uncover local maritime history at the whaling museum. In the afternoon, catch the salty sea breeze at the Pedras Brancas viewpoint. Your journey concludes at the striking Church of Santo Cristo dos Milagres."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro da Fajã de Lopo Vaz",
+            "hu": "Fajã de Lopo Vaz Kilátó",
+            "ro": "Punctul de belvedere Fajã de Lopo Vaz",
+            "en": "Fajã de Lopo Vaz Viewpoint"
+          },
+          "coords": [
+            -31.195521,
+            39.37477
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die atemberaubenden Klippen, die ins Meer abfallen, und tragen Sie feste Schuhe, falls Sie die nahegelegenen und steilen Naturpfade erwandern möchten.",
+            "hu": "Figyelje meg a tengerbe zuhanó lenyűgöző sziklákat erről a magaslati teraszról, és viseljen masszív cipőt, ha a közeli, vulkanikus ösvényeken is sétálna.",
+            "ro": "Observați stâncile uimitoare care se prăbușesc în mare de pe această terasă naturală și purtați încălțăminte rezistentă dacă intenționați să mergeți pe potecile din apropiere.",
+            "en": "Observe the stunning cliffs plunging into the sea from this elevated natural terrace, showcasing raw volcanic beauty, and wear sturdy shoes if you plan to walk the nearby trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Lavrador",
+            "hu": "Gazdálkodó Múzeum",
+            "ro": "Muzeul Fermierului",
+            "en": "Farmer's Museum"
+          },
+          "coords": [
+            -31.186693,
+            39.38006
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch gut erhaltene Werkzeuge mehr über traditionelle azorische Landwirtschaft und bitten Sie das freundliche Personal um detaillierte Erklärungen.",
+            "hu": "Ismerje meg a hagyományos azori gazdálkodást és vidéki életet a jól megőrzött eszközökön keresztül, és nyugodtan kérjen tájékoztatást a barátságos személyzettől.",
+            "ro": "Aflați despre metodele tradiționale de agricultură azoreană prin unelte bine conservate și nu ezitați să cereți explicații detaliate de la personalul amabil.",
+            "en": "Learn about traditional Azorean farming methods and rural life through well-preserved tools, providing a glimpse into the past, so ask the friendly staff for guided insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol das Lajes das Flores",
+            "hu": "Lajes das Flores Világítótorony",
+            "ro": "Farul Lajes das Flores",
+            "en": "Lajes das Flores Lighthouse"
+          },
+          "coords": [
+            -31.176531,
+            39.375708
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean von diesem ikonischen Leuchtturm und bringen Sie eine Windjacke mit, da die steife Meeresbrise recht kühl sein kann.",
+            "hu": "Élvezze a panorámás óceáni kilátást az ikonikus világítótoronyból, amely évtizedek óta irányítja a hajókat, és hozzon széldzsekit a hűvös parti szél miatt.",
+            "ro": "Bucurați-vă de vederea panoramică la ocean de la acest far iconic ce ghidează navele de decenii și aduceți o jachetă de vânt pentru briza de coastă rece.",
+            "en": "Enjoy panoramic ocean views from this iconic lighthouse that has guided ships for decades, and bring a windbreaker as the coastal breeze can be quite chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmuseum",
+            "hu": "Bálnavadászati Múzeum",
+            "ro": "Muzeul Vânătorii de Balene",
+            "en": "Whaling Museum"
+          },
+          "coords": [
+            -31.170987,
+            39.379094
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intensive Geschichte des azorischen Walfangs anhand authentischer Artefakte und Boote und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Ismerje meg az azori bálnavadászat kemény történetét az eredeti csónakokon keresztül, de indulás előtt mindenképp ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți istoria intensă a vânătorii de balene prin artefacte autentice și bărci de epocă, dar verificați programul de funcționare, deoarece variază sezonier.",
+            "en": "Discover the intense history of Azorean whaling through authentic artifacts and boats, reflecting a tough era, and check the opening hours as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Miraduro da Caldeira",
+            "hu": "Caldeira Kilátó",
+            "ro": "Punctul de belvedere Caldeira",
+            "en": "Caldeira Viewpoint"
+          },
+          "coords": [
+            -31.16314,
+            39.386412
+          ],
+          "category": "natural",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Blicken Sie in den üppigen Vulkankrater, der ruhige und leuchtend grüne Landschaften bietet, und bringen Sie unbedingt ein Weitwinkelobjektiv für Ihre Fotos mit.",
+            "hu": "Tekintsen le a buja vulkáni kráterbe, amely hihetetlenül békés és élénkzöld tájakat kínál, és mindenképpen hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Priviți în craterul vulcanic luxuriant ce oferă peisaje incredibil de verzi și senine și asigurați-vă că aveți un obiectiv cu unghi larg pentru fotografii spectaculoase.",
+            "en": "Gaze into the lush, volcanic crater offering incredibly serene and vibrant green landscapes, a true testament to the island's geology, and bring a wide-angle lens for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Furna da Pedrinha",
+            "hu": "Furna da Pedrinha Kilátó",
+            "ro": "Punctul de belvedere Furna da Pedrinha",
+            "en": "Furna da Pedrinha Viewpoint"
+          },
+          "coords": [
+            -31.190344,
+            39.396539
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Küstengeologie und die tiefen, von den Wellen geformten Naturhöhlen, aber bleiben Sie zu Ihrer eigenen Sicherheit hinter den Geländern.",
+            "hu": "Csodálja meg az egyedülálló tengerparti geológiát és az óceán hullámai által vájt természetes barlangokat, de a biztonsága érdekében maradjon a korlátok mögött.",
+            "ro": "Minunați-vă de geologia unică a coastei și de peșterile naturale adânci sculptate de valuri, dar stați în siguranță în spatele balustradelor de vizionare amenajate.",
+            "en": "Marvel at the unique coastal geology and deep natural caves carved by the ocean waves, capturing the raw power of nature, but stay safely behind the designated viewing rails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am spektakulären Aussichtspunkt Lopo Vaz und fahren Sie dann zum Bauernmuseum, um das traditionelle Landleben kennenzulernen. Mittags werfen Sie einen kurzen Blick auf den Leuchtturm, bevor Sie das Walfangmuseum besuchen. Nachmittags erwartet Sie der atemberaubende Caldeira-Aussichtspunkt. Beenden Sie die Fahrt bei den faszinierenden Felsformationen der Furna da Pedrinha.",
+        "hu": "Kezdje a napot a látványos Lopo Vaz kilátónál, majd vezessen a helyi gazdálkodás történetét bemutató múzeumhoz. Délben álljon meg egy fotóra a világítótoronynál, mielőtt felfedezné a bálnavadászat múltját. Délután a Caldeira kilátópont lélegzetelállító panorámája várja. A napot a Furna da Pedrinha lenyűgöző sziklaképződményeinél zárja, gyönyörködve a naplementében.",
+        "ro": "Începeți ziua la spectaculosul punct de belvedere Lopo Vaz, apoi conduceți spre muzeul agriculturii tradiționale. La prânz, admirați farul înainte de a explora istoria maritimă la muzeul vânătorii de balene. După-amiaza vă rezervă o priveliște uimitoare de la punctul de belvedere Caldeira. Încheiați traseul admirând formațiunile stâncoase unice de la Furna da Pedrinha.",
+        "en": "Start the day at the spectacular Lopo Vaz viewpoint, then drive to the farmer's museum to learn about traditional agriculture. Midday, pause at the historic lighthouse before exploring the whaling museum. Your afternoon features breathtaking panoramic vistas from the Caldeira viewpoint. Wrap up your scenic drive admiring the fascinating rock formations at Furna da Pedrinha."
+      }
+    }
+  }
+}

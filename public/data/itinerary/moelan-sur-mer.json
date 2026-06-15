@@ -1,0 +1,520 @@
+{
+  "city_id": "moelan-sur-mer",
+  "anchor": {
+    "name": "Moëlan-sur-Mer",
+    "coords": [
+      -3.6281,
+      47.8142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Philibert und Saint-Roch Kapelle",
+            "hu": "Saint-Philibert és Saint-Roch kápolna",
+            "ro": "Capela Saint-Philibert și Saint-Roch",
+            "en": "Saint-Philibert and Saint-Roch Chapel"
+          },
+          "coords": [
+            -3.627,
+            47.8125
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kapelle und starten Sie Ihren Tag am besten früh, um die Stille der friedlichen Umgebung voll auszukosten.",
+            "hu": "Csodálja meg e békés kápolna történelmi részleteit, és érdemes korán érkeznie, hogy zavartalanul élvezhesse a környező természet nyugalmát.",
+            "ro": "Admirați detaliile istorice ale acestei capele liniștite și încercați să ajungeți devreme pentru a vă bucura de calmul absolut al împrejurimilor.",
+            "en": "Admire the historic details of this peaceful chapel, and try to arrive early in the morning to fully experience the absolute serenity of its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kercadoret Dolmen",
+            "hu": "Kercadoret dolmen",
+            "ro": "Dolmenul Kercadoret",
+            "en": "Kercadoret Dolmen"
+          },
+          "coords": [
+            -3.6232,
+            47.8168
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende prähistorische Monument aus nächster Nähe und tragen Sie bequeme Schuhe, da der Weg dorthin teilweise etwas uneben sein kann.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti emlékművet testközelből, és viseljen kényelmes cipőt, mivel az oda vezető út helyenként meglehetősen egyenetlen.",
+            "ro": "Descoperiți de aproape acest monument preistoric impresionant și purtați încălțăminte confortabilă, deoarece poteca de acces poate fi pe alocuri denivelată.",
+            "en": "Discover this impressive prehistoric monument up close, and make sure to wear comfortable shoes as the path leading to it can be quite uneven in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad GR34",
+            "hu": "GR34-es tengerparti ösvény",
+            "ro": "Poteca de coastă GR34",
+            "en": "GR34 Coastal Path"
+          },
+          "coords": [
+            -3.652604,
+            47.820375
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Ausblicke auf die bretonische Küste und packen Sie unbedingt etwas Wasser sowie eine Windjacke für die frischen Meeresbrisen ein.",
+            "hu": "Élvezze a breton tengerpartra nyíló lélegzetelállító kilátást, és mindenképpen vigyen magával vizet, valamint egy széldzsekit a hűvös tengeri szél miatt.",
+            "ro": "Bucurați-vă de priveliști uluitoare ale coastei bretone și asigurați-vă că luați apă și o jachetă de vânt pentru briza mării, care poate fi destul de răcoroasă.",
+            "en": "Enjoy breathtaking views of the rugged Breton coastline, and be sure to pack some water and a windbreaker to protect against the refreshing sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Merrien",
+            "hu": "Merrien kikötője",
+            "ro": "Portul Merrien",
+            "en": "Port of Merrien"
+          },
+          "coords": [
+            -3.6473,
+            47.7822
+          ],
+          "category": "culinary",
+          "arrive_at": "14:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 68,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Austernfischer in diesem authentischen Hafen und probieren Sie die lokalen Meeresfrüchte direkt bei den Erzeugern vor Ort.",
+            "hu": "Figyelje meg a hagyományos osztrigatenyésztőket ebben az autentikus kikötőben, és feltétlenül kóstolja meg a helyi tengeri gyümölcsöket közvetlenül a termelőknél.",
+            "ro": "Urmăriți pescarii tradiționali de stridii în acest port autentic și nu ratați ocazia de a gusta fructe de mare proaspete direct de la producătorii locali.",
+            "en": "Watch the traditional oyster farmers in this authentic harbor, and don't miss the opportunity to taste fresh local seafood directly from the local producers."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Brigneau",
+            "hu": "Brigneau kikötője",
+            "ro": "Portul Brigneau",
+            "en": "Port of Brigneau"
+          },
+          "coords": [
+            -3.67282,
+            47.78593
+          ],
+          "category": "maritime",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den alten Konservenfabriken dieses malerischen Hafens ausklingen und machen Sie hier noch ein paar stimmungsvolle Fotos im späten Sonnenlicht.",
+            "hu": "Zárja a napot ennek a festői kikötőnek a régi konzervgyárainál, és használja ki a késő délutáni fényeket néhány igazán hangulatos fénykép elkészítéséhez.",
+            "ro": "Încheiați-vă ziua lângă vechile fabrici de conserve din acest port pitoresc și profitați de lumina blândă a după-amiezii pentru a face fotografii memorabile.",
+            "en": "End your day by the old canneries of this picturesque maritime port, and take advantage of the late afternoon light to capture some truly atmospheric photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer ruhigen Erkundung der historischen Kapelle und des Dolmens im Zentrum. Gegen Mittag wandern Sie zum herrlichen Küstenpfad GR34. Der Nachmittag steht im Zeichen des Hafens von Merrien und seiner berühmten Austernzucht. Am frühen Abend erreichen Sie schließlich den malerischen Hafen von Brigneau für einen entspannten Abschluss.",
+        "hu": "Kezdje a reggelt a központban található történelmi kápolna és a dolmen csendes felfedezésével. Délben túrázzon a csodálatos GR34-es tengerparti ösvényen. A délután Merrien kikötőjéről és annak híres osztrigatenyésztéséről szól. Kora este végül elérkezik Brigneau festői kikötőjébe egy igazán pihentető és hangulatos napzáráshoz.",
+        "ro": "Începeți dimineața cu o explorare liniștită a capelei istorice și a dolmenului din centru. La prânz, faceți o drumeție pe superba potecă de coastă GR34. După-amiaza este dedicată portului Merrien și faimoaselor sale culturi de stridii. Seara devreme ajungeți în sfârșit în portul pitoresc Brigneau pentru o încheiere extrem de relaxantă.",
+        "en": "Start the morning with a quiet exploration of the historic chapel and the dolmen in the center. By midday, hike the stunning GR34 coastal path to enjoy sweeping ocean views. The afternoon focuses on the Port of Merrien and its famous oyster farming culture. In the early evening, you finally reach the picturesque Port of Brigneau for a relaxing finish."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Philibert und Saint-Roch Kapelle",
+            "hu": "Saint-Philibert és Saint-Roch kápolna",
+            "ro": "Capela Saint-Philibert și Saint-Roch",
+            "en": "Saint-Philibert and Saint-Roch Chapel"
+          },
+          "coords": [
+            -3.627,
+            47.8125
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kapelle und starten Sie Ihren Tag am besten früh, um die Stille der friedlichen Umgebung voll auszukosten.",
+            "hu": "Csodálja meg e békés kápolna történelmi részleteit, és érdemes korán érkeznie, hogy zavartalanul élvezhesse a környező természet nyugalmát.",
+            "ro": "Admirați detaliile istorice ale acestei capele liniștite și încercați să ajungeți devreme pentru a vă bucura de calmul absolut al împrejurimilor.",
+            "en": "Admire the historic details of this peaceful chapel, and try to arrive early in the morning to fully experience the absolute serenity of its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kercadoret Dolmen",
+            "hu": "Kercadoret dolmen",
+            "ro": "Dolmenul Kercadoret",
+            "en": "Kercadoret Dolmen"
+          },
+          "coords": [
+            -3.6232,
+            47.8168
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende prähistorische Monument aus nächster Nähe und tragen Sie bequeme Schuhe, da der Weg dorthin teilweise etwas uneben sein kann.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti emlékművet testközelből, és viseljen kényelmes cipőt, mivel az oda vezető út helyenként meglehetősen egyenetlen.",
+            "ro": "Descoperiți de aproape acest monument preistoric impresionant și purtați încălțăminte confortabilă, deoarece poteca de acces poate fi pe alocuri denivelată.",
+            "en": "Discover this impressive prehistoric monument up close, and make sure to wear comfortable shoes as the path leading to it can be quite uneven in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad GR34",
+            "hu": "GR34-es tengerparti ösvény",
+            "ro": "Poteca de coastă GR34",
+            "en": "GR34 Coastal Path"
+          },
+          "coords": [
+            -3.652604,
+            47.820375
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Ausblicke auf die bretonische Küste und packen Sie unbedingt etwas Wasser sowie eine Windjacke für die frischen Meeresbrisen ein.",
+            "hu": "Élvezze a breton tengerpartra nyíló lélegzetelállító kilátást, és mindenképpen vigyen magával vizet, valamint egy széldzsekit a hűvös tengeri szél miatt.",
+            "ro": "Bucurați-vă de priveliști uluitoare ale coastei bretone și asigurați-vă că luați apă și o jachetă de vânt pentru briza mării, care poate fi destul de răcoroasă.",
+            "en": "Enjoy breathtaking views of the rugged Breton coastline, and be sure to pack some water and a windbreaker to protect against the refreshing sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kerfany",
+            "hu": "Kerfany strand",
+            "ro": "Plaja Kerfany",
+            "en": "Kerfany Beach"
+          },
+          "coords": [
+            -3.72053,
+            47.80098
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten Sandstrand mit herrlicher Aussicht und bringen Sie ein Picknick mit, um die malerische Atmosphäre in vollen Zügen zu genießen.",
+            "hu": "Pihenjen ezen a védett homokos strandon, ahonnan csodás a kilátás, és hozzon magával egy piknikkosarat, hogy maximálisan kiélvezze a festői hangulatot.",
+            "ro": "Relaxați-vă pe această plajă de nisip protejată cu vederi superbe și aduceți un picnic pentru a vă bucura din plin de atmosfera cu adevărat pitorească.",
+            "en": "Relax on this sheltered sandy beach offering gorgeous views, and consider bringing a picnic to fully enjoy the scenic and tranquil coastal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Brigneau",
+            "hu": "Brigneau kikötője",
+            "ro": "Portul Brigneau",
+            "en": "Port of Brigneau"
+          },
+          "coords": [
+            -3.67282,
+            47.78593
+          ],
+          "category": "maritime",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den alten Konservenfabriken dieses malerischen Hafens ausklingen und machen Sie hier noch ein paar stimmungsvolle Fotos im späten Sonnenlicht.",
+            "hu": "Zárja a napot ennek a festői kikötőnek a régi konzervgyárainál, és használja ki a késő délutáni fényeket néhány igazán hangulatos fénykép elkészítéséhez.",
+            "ro": "Încheiați-vă ziua lângă vechile fabrici de conserve din acest port pitoresc și profitați de lumina blândă a după-amiezii pentru a face fotografii memorabile.",
+            "en": "End your day by the old canneries of this picturesque maritime port, and take advantage of the late afternoon light to capture some truly atmospheric photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Merrien",
+            "hu": "Merrien kikötője",
+            "ro": "Portul Merrien",
+            "en": "Port of Merrien"
+          },
+          "coords": [
+            -3.6473,
+            47.7822
+          ],
+          "category": "culinary",
+          "arrive_at": "16:14",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Austernfischer in diesem authentischen Hafen und probieren Sie die lokalen Meeresfrüchte direkt bei den Erzeugern vor Ort.",
+            "hu": "Figyelje meg a hagyományos osztrigatenyésztőket ebben az autentikus kikötőben, és feltétlenül kóstolja meg a helyi tengeri gyümölcsöket közvetlenül a termelőknél.",
+            "ro": "Urmăriți pescarii tradiționali de stridii în acest port autentic și nu ratați ocazia de a gusta fructe de mare proaspete direct de la producătorii locali.",
+            "en": "Watch the traditional oyster farmers in this authentic harbor, and don't miss the opportunity to taste fresh local seafood directly from the local producers."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Port Blanc",
+            "hu": "Port Blanc-i öböl",
+            "ro": "Golful Port Blanc",
+            "en": "Port Blanc Cove"
+          },
+          "coords": [
+            -3.60262,
+            47.769115
+          ],
+          "category": "recreational",
+          "arrive_at": "17:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, versteckte Bucht, die sich perfekt für eine ruhige Pause eignet, und achten Sie beim Radfahren auf den schmalen Zugangsweg zum Strand.",
+            "hu": "Fedezze fel ezt a kis, rejtett öblöt, amely tökéletes egy csendes pihenőre, és biciklizés közben ügyeljen a strandhoz vezető keskeny és meredek lejáróra.",
+            "ro": "Explorați acest mic golf ascuns, perfect pentru o pauză liniștită, și aveți grijă la coborârea îngustă cu bicicleta pe poteca ce duce spre plajă.",
+            "en": "Explore this small, hidden cove that is perfect for a quiet rest, and be careful with your bike on the narrow, slightly steep path leading down to the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach einem Besuch der Kapelle und des Dolmens radeln Sie zügig zum Küstenpfad GR34. Am Mittag können Sie am wunderschönen Strand von Kerfany entspannen. Danach führt Sie die Tour entlang der Austernbänke von Brigneau und Merrien. Beenden Sie diesen aktiven Tag in der abgeschiedenen Bucht von Port Blanc mit Blick auf den Sonnenuntergang.",
+        "hu": "A kápolna és a dolmen meglátogatása után tekerjen el a GR34-es tengerparti ösvényhez. Délben lazíthat a gyönyörű Kerfany strandon. Ezután az útvonal Brigneau és Merrien kikötőinek osztrigatelepei mentén vezet. Zárja ezt az aktív napot Port Blanc félreeső öblében, miközben a lemenő nap fényeit csodálja a tenger felett.",
+        "ro": "După ce vizitați capela și dolmenul, pedalați rapid către poteca de coastă GR34. La prânz vă puteți relaxa pe superba plajă Kerfany. Apoi traseul vă poartă de-a lungul paturilor de stridii din Brigneau și Merrien. Încheiați această zi activă în golful izolat Port Blanc, bucurându-vă de un apus de soare magnific deasupra apei.",
+        "en": "After visiting the chapel and dolmen, pedal briskly to the famous GR34 coastal path. By midday, take a well-deserved relaxing break at the beautiful Kerfany Beach. The afternoon route leads you past the oyster beds of both Brigneau and Merrien harbors. Conclude this active day in the secluded Port Blanc cove, watching the evening light over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 25.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Philibert und Saint-Roch Kapelle",
+            "hu": "Saint-Philibert és Saint-Roch kápolna",
+            "ro": "Capela Saint-Philibert și Saint-Roch",
+            "en": "Saint-Philibert and Saint-Roch Chapel"
+          },
+          "coords": [
+            -3.627,
+            47.8125
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kapelle und starten Sie Ihren Tag am besten früh, um die Stille der friedlichen Umgebung voll auszukosten.",
+            "hu": "Csodálja meg e békés kápolna történelmi részleteit, és érdemes korán érkeznie, hogy zavartalanul élvezhesse a környező természet nyugalmát.",
+            "ro": "Admirați detaliile istorice ale acestei capele liniștite și încercați să ajungeți devreme pentru a vă bucura de calmul absolut al împrejurimilor.",
+            "en": "Admire the historic details of this peaceful chapel, and try to arrive early in the morning to fully experience the absolute serenity of its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kercadoret Dolmen",
+            "hu": "Kercadoret dolmen",
+            "ro": "Dolmenul Kercadoret",
+            "en": "Kercadoret Dolmen"
+          },
+          "coords": [
+            -3.6232,
+            47.8168
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende prähistorische Monument aus nächster Nähe und tragen Sie bequeme Schuhe, da der Weg dorthin teilweise etwas uneben sein kann.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti emlékművet testközelből, és viseljen kényelmes cipőt, mivel az oda vezető út helyenként meglehetősen egyenetlen.",
+            "ro": "Descoperiți de aproape acest monument preistoric impresionant și purtați încălțăminte confortabilă, deoarece poteca de acces poate fi pe alocuri denivelată.",
+            "en": "Discover this impressive prehistoric monument up close, and make sure to wear comfortable shoes as the path leading to it can be quite uneven in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kerfany",
+            "hu": "Kerfany strand",
+            "ro": "Plaja Kerfany",
+            "en": "Kerfany Beach"
+          },
+          "coords": [
+            -3.72053,
+            47.80098
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten Sandstrand mit herrlicher Aussicht und bringen Sie ein Picknick mit, um die malerische Atmosphäre in vollen Zügen zu genießen.",
+            "hu": "Pihenjen ezen a védett homokos strandon, ahonnan csodás a kilátás, és hozzon magával egy piknikkosarat, hogy maximálisan kiélvezze a festői hangulatot.",
+            "ro": "Relaxați-vă pe această plajă de nisip protejată cu vederi superbe și aduceți un picnic pentru a vă bucura din plin de atmosfera cu adevărat pitorească.",
+            "en": "Relax on this sheltered sandy beach offering gorgeous views, and consider bringing a picnic to fully enjoy the scenic and tranquil coastal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Brigneau",
+            "hu": "Brigneau kikötője",
+            "ro": "Portul Brigneau",
+            "en": "Port of Brigneau"
+          },
+          "coords": [
+            -3.67282,
+            47.78593
+          ],
+          "category": "maritime",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den alten Konservenfabriken dieses malerischen Hafens ausklingen und machen Sie hier noch ein paar stimmungsvolle Fotos im späten Sonnenlicht.",
+            "hu": "Zárja a napot ennek a festői kikötőnek a régi konzervgyárainál, és használja ki a késő délutáni fényeket néhány igazán hangulatos fénykép elkészítéséhez.",
+            "ro": "Încheiați-vă ziua lângă vechile fabrici de conserve din acest port pitoresc și profitați de lumina blândă a după-amiezii pentru a face fotografii memorabile.",
+            "en": "End your day by the old canneries of this picturesque maritime port, and take advantage of the late afternoon light to capture some truly atmospheric photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Merrien",
+            "hu": "Merrien kikötője",
+            "ro": "Portul Merrien",
+            "en": "Port of Merrien"
+          },
+          "coords": [
+            -3.6473,
+            47.7822
+          ],
+          "category": "culinary",
+          "arrive_at": "14:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Austernfischer in diesem authentischen Hafen und probieren Sie die lokalen Meeresfrüchte direkt bei den Erzeugern vor Ort.",
+            "hu": "Figyelje meg a hagyományos osztrigatenyésztőket ebben az autentikus kikötőben, és feltétlenül kóstolja meg a helyi tengeri gyümölcsöket közvetlenül a termelőknél.",
+            "ro": "Urmăriți pescarii tradiționali de stridii în acest port autentic și nu ratați ocazia de a gusta fructe de mare proaspete direct de la producătorii locali.",
+            "en": "Watch the traditional oyster farmers in this authentic harbor, and don't miss the opportunity to taste fresh local seafood directly from the local producers."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Port Blanc",
+            "hu": "Port Blanc-i öböl",
+            "ro": "Golful Port Blanc",
+            "en": "Port Blanc Cove"
+          },
+          "coords": [
+            -3.60262,
+            47.769115
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, versteckte Bucht, die sich perfekt für eine ruhige Pause eignet, und achten Sie beim Radfahren auf den schmalen Zugangsweg zum Strand.",
+            "hu": "Fedezze fel ezt a kis, rejtett öblöt, amely tökéletes egy csendes pihenőre, és biciklizés közben ügyeljen a strandhoz vezető keskeny és meredek lejáróra.",
+            "ro": "Explorați acest mic golf ascuns, perfect pentru o pauză liniștită, și aveți grijă la coborârea îngustă cu bicicleta pe poteca ce duce spre plajă.",
+            "en": "Explore this small, hidden cove that is perfect for a quiet rest, and be careful with your bike on the narrow, slightly steep path leading down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Roche Percée",
+            "hu": "Roche Percée strand",
+            "ro": "Plaja Roche Percée",
+            "en": "Roche Percée Beach"
+          },
+          "coords": [
+            -3.587523,
+            47.768753
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen dieses faszinierenden Strandes und überprüfen Sie vorab die Gezeiten, da er bei Ebbe am besten zugänglich ist.",
+            "hu": "Csodálja meg e lenyűgöző strand jellegzetes sziklaformációit, és előzetesen ellenőrizze az árapályt, mivel apály idején a legkönnyebben megközelíthető.",
+            "ro": "Admirați formațiunile stâncoase izbitoare ale acestei plaje fascinante și verificați mareele în prealabil, deoarece accesul este cel mai bun la reflux.",
+            "en": "Admire the striking rock formations of this fascinating beach, and check the tide schedule beforehand as it is best explored and most accessible during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kerou",
+            "hu": "Kerou strand",
+            "ro": "Plaja Kerou",
+            "en": "Kerou Beach"
+          },
+          "coords": [
+            -3.563495,
+            47.767782
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Surfer in den Wellen dieses beliebten breiten Strandes und nutzen Sie den nahegelegenen großen Parkplatz für einen stressfreien Abschluss.",
+            "hu": "Figyelje a szörfösöket ennek a népszerű, széles strandnak a hullámain, és használja a közeli nagy parkolót egy stresszmentes, kényelmes napzáráshoz.",
+            "ro": "Priviți surferii pe valurile acestei plaje largi și populare, apoi folosiți parcarea mare din apropiere pentru un sfârșit de zi confortabil și fără stres.",
+            "en": "Watch the surfers riding the waves at this popular and expansive beach, and use the large nearby parking area for a stress-free and convenient end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet entspannt bei den historischen Highlights im Zentrum, bevor Sie gemütlich zum Strand von Kerfany fahren. Das Mittagessen lockt in die authentischen Häfen von Brigneau und Merrien. Nachmittags erkunden Sie die rauen Klippen der Bucht von Port Blanc und Roche Percée. Der Surfer-Strand Kerou bildet den perfekten Abschluss.",
+        "hu": "A nap lazán indul a központ történelmi nevezetességeivel, mielőtt kényelmesen átautózna a Kerfany strandra. Az ebédidő Brigneau és Merrien autentikus kikötőibe csábítja. Délután felfedezi Port Blanc és Roche Percée zord, sziklás partjait. A szörfösök kedvelt strandja, a Kerou tökéletes befejezése ennek az autós kalandnak.",
+        "ro": "Ziua începe relaxant cu atracțiile istorice din centru, înainte de a conduce confortabil spre plaja Kerfany. Ora prânzului vă atrage în porturile autentice Brigneau și Merrien. După-amiaza explorați stâncile abrupte din golful Port Blanc și Roche Percée. Plaja populară printre surferi, Kerou, oferă un final perfect pentru această zi.",
+        "en": "The day begins at a relaxed pace with the historic sights in the center, before you take a comfortable drive to Kerfany Beach. Lunchtime draws you into the authentic maritime harbors of Brigneau and Merrien. In the afternoon, explore the rugged cliffs of Port Blanc cove and Roche Percée. The surfer-friendly Kerou Beach provides the perfect finale."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-campo-di-mare-cities-v2",
+  "anchor": {
+    "name": "Campo di Mare",
+    "coords": [
+      12.04139,
+      41.9745
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "spiaggia libera",
+            "hu": "spiaggia libera",
+            "ro": "spiaggia libera",
+            "en": "spiaggia libera"
+          },
+          "coords": [
+            12.034298,
+            41.974857
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses öffentlichen Strandes, der ideal für ungestörte Sonnenstunden ist, aber bringen Sie unbedingt Ihren eigenen Sonnenschirm mit.",
+            "hu": "Élvezze e szabadstrand tágas homokját, amely tökéletes a zavartalan napozáshoz, de ne felejtsen el saját napernyőt hozni a forró órákra.",
+            "ro": "Bucurați-vă de întinderea acestei plaje publice, ideală pentru ore de plajă netulburate, dar asigurați-vă că aduceți propria umbrelă pentru umbră.",
+            "en": "Enjoy the expansiveness of this public beach, which is ideal for undisturbed sunbathing, but be sure to bring your own umbrella for essential shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Quadrifoglio",
+            "hu": "Il Quadrifoglio",
+            "ro": "Il Quadrifoglio",
+            "en": "Il Quadrifoglio"
+          },
+          "coords": [
+            12.035767,
+            41.973976
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem gepflegten Strandbad, das mit exzellentem Service punktet, und reservieren Sie Ihre Liege frühzeitig in der Hochsaison.",
+            "hu": "Pihenjen ebben a kiváló szolgáltatásokat nyújtó, gondozott strandfürdőben, és főszezonban mindenképpen foglalja le előre a napágyát.",
+            "ro": "Relaxați-vă în această stațiune balneară bine întreținută, recunoscută pentru serviciile excelente, și rezervați-vă șezlongul devreme în vârf de sezon.",
+            "en": "Relax at this well-maintained beach establishment known for its excellent service, and make sure to reserve your sunbed early during the peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Ocean Surf Beach",
+            "hu": "Ocean Surf Beach",
+            "ro": "Ocean Surf Beach",
+            "en": "Ocean Surf Beach"
+          },
+          "coords": [
+            12.039002,
+            41.96952
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spüren Sie die sportliche Energie an diesem beliebten Surfspot, der perfekte Wellen bietet, und mieten Sie sich ein Board direkt bei den örtlichen Verleihern.",
+            "hu": "Érezze a sportos energiát ezen a népszerű szörfös helyen, amely remek hullámokat kínál, és béreljen deszkát közvetlenül a helyi kölcsönzőkben.",
+            "ro": "Simțiți energia sportivă a acestui loc popular de surf cu valuri perfecte și închiriați o placă direct de la centrele locale de pe plajă.",
+            "en": "Feel the sporty energy at this popular surf spot offering great waves, and easily rent a board or book a quick lesson directly at the beach huts."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento naturale Palude di Torre Flavia",
+            "hu": "Monumento naturale Palude di Torre Flavia",
+            "ro": "Monumento naturale Palude di Torre Flavia",
+            "en": "Monumento naturale Palude di Torre Flavia"
+          },
+          "coords": [
+            12.046107,
+            41.962557
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Feuchtgebiet, das zahlreiche seltene Vogelarten beheimatet, und nehmen Sie ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző vizenyős területet, amely számos ritka madárfajnak ad otthont, és mindenképpen hozzon magával távcsövet a megfigyeléshez.",
+            "ro": "Explorați această rezervație naturală fascinantă, adăpost pentru numeroase specii de păsări rare, și nu uitați să luați un binoclu pentru observații.",
+            "en": "Explore this fascinating natural wetland habitat home to numerous rare bird species, and be sure to pack a pair of binoculars for optimal wildlife viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Flavia",
+            "hu": "Torre Flavia",
+            "ro": "Torre Flavia",
+            "en": "Torre Flavia"
+          },
+          "coords": [
+            12.049256,
+            41.95546
+          ],
+          "category": "tower",
+          "arrive_at": "16:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerischen Ruinen dieses historischen Wachturms am Strand, der besonders bei Sonnenuntergang spektakuläre Fotomotive bietet.",
+            "hu": "Csodálja meg e történelmi parti őrtorony festői romjait, amelyek különösen naplemente idején nyújtanak látványos és romantikus fotótémát.",
+            "ro": "Admirați ruinele pitorești ale acestui turn de veghe istoric de pe plajă, care oferă oportunități fotografice spectaculoase, mai ales la apus.",
+            "en": "Admire the picturesque ruins of this historic coastal watchtower right on the beach, which provides spectacular photography opportunities at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der naturbelassenen Spiaggia Libera, wo Sie die morgendliche Meeresbrise genießen können. Bis zum Mittag flanieren Sie entlang der belebten Küste zum Il Quadrifoglio und Ocean Surf Beach, um Sonne und Meer aufzusaugen. Am Nachmittag führt der Weg in das friedliche Naturschutzgebiet Palude di Torre Flavia. Der Tag endet an der malerischen Turmruine Torre Flavia.",
+        "hu": "Kezdje a sétát a természetes Spiaggia Libera strandon, ahol élvezheti a reggeli tengeri szellőt. Dél körül sétáljon végig az élettel teli parton az Il Quadrifoglio és az Ocean Surf Beach felé, élvezve a napfényt. Délután az út a Palude di Torre Flavia békés természetvédelmi területére vezet. A napot a festői Torre Flavia toronyromjainál zárhatja, miközben a tenger morajlását hallgatja.",
+        "ro": "Începeți plimbarea la plaja publică naturală Spiaggia Libera pentru a vă bucura de briza proaspătă a mării. La prânz, plimbați-vă de-a lungul coastei pline de viață până la Il Quadrifoglio și Ocean Surf Beach pentru relaxare. După-amiaza, traseul vă duce în liniștita rezervație naturală Palude di Torre Flavia. Ziua se încheie la ruinele pitorești ale turnului istoric Torre Flavia de pe mal.",
+        "en": "Start your walk at the natural Spiaggia Libera, enjoying the fresh morning sea breeze along the peaceful shore. By midday, stroll down the lively coast to Il Quadrifoglio and Ocean Surf Beach to soak up the sun and vibrant atmosphere. In the afternoon, the path leads into the tranquil Palude di Torre Flavia nature reserve. The day concludes at the picturesque ruins of Torre Flavia by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Chiesa di San Francesco",
+            "ro": "Chiesa di San Francesco",
+            "en": "Chiesa di San Francesco"
+          },
+          "coords": [
+            12.055057,
+            41.976632
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche Kirche, die als spirituelles Herz der Gemeinde dient, und achten Sie auf angemessene Kleidung beim Betreten.",
+            "hu": "Látogasson el ebbe a békés templomba, amely a helyi közösség spirituális központja, és ügyeljen a megfelelő, vállakat takaró öltözékre a belépéskor.",
+            "ro": "Vizitați această biserică liniștită, inima spirituală a comunității, și asigurați-vă că purtați o ținută adecvată atunci când pășiți în interior.",
+            "en": "Visit this tranquil church that serves as the spiritual heart of the local community, and ensure you wear modest clothing covering your shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "spiaggia libera",
+            "hu": "spiaggia libera",
+            "ro": "spiaggia libera",
+            "en": "spiaggia libera"
+          },
+          "coords": [
+            12.034298,
+            41.974857
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses öffentlichen Strandes, der ideal für ungestörte Sonnenstunden ist, aber bringen Sie unbedingt Ihren eigenen Sonnenschirm mit.",
+            "hu": "Élvezze e szabadstrand tágas homokját, amely tökéletes a zavartalan napozáshoz, de ne felejtsen el saját napernyőt hozni a forró órákra.",
+            "ro": "Bucurați-vă de întinderea acestei plaje publice, ideală pentru ore de plajă netulburate, dar asigurați-vă că aduceți propria umbrelă pentru umbră.",
+            "en": "Enjoy the expansiveness of this public beach, which is ideal for undisturbed sunbathing, but be sure to bring your own umbrella for essential shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Associazione Nautica Campo di Mare",
+            "hu": "Associazione Nautica Campo di Mare",
+            "ro": "Associazione Nautica Campo di Mare",
+            "en": "Associazione Nautica Campo di Mare"
+          },
+          "coords": [
+            12.038204,
+            41.970448
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie das lebhafte Treiben der lokalen Segler an diesem maritimen Treffpunkt, wo Sie sich am besten am frühen Vormittag aufhalten sollten.",
+            "hu": "Figyelje meg a helyi vitorlások nyüzsgését ezen a tengerészeti találkozóhelyen, ahová érdemes a kora délelőtti órákban érkezni a legjobb látványért.",
+            "ro": "Observați activitatea plină de viață a marinarilor locali la acest club nautic, un loc ideal de vizitat la primele ore ale dimineții pentru fotografii.",
+            "en": "Watch the lively activity of local sailors at this maritime meeting point, which is best visited in the early morning for great waterfront photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento naturale Palude di Torre Flavia",
+            "hu": "Monumento naturale Palude di Torre Flavia",
+            "ro": "Monumento naturale Palude di Torre Flavia",
+            "en": "Monumento naturale Palude di Torre Flavia"
+          },
+          "coords": [
+            12.046107,
+            41.962557
+          ],
+          "category": "natural",
+          "arrive_at": "13:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Feuchtgebiet, das zahlreiche seltene Vogelarten beheimatet, und nehmen Sie ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző vizenyős területet, amely számos ritka madárfajnak ad otthont, és mindenképpen hozzon magával távcsövet a megfigyeléshez.",
+            "ro": "Explorați această rezervație naturală fascinantă, adăpost pentru numeroase specii de păsări rare, și nu uitați să luați un binoclu pentru observații.",
+            "en": "Explore this fascinating natural wetland habitat home to numerous rare bird species, and be sure to pack a pair of binoculars for optimal wildlife viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Flavia",
+            "hu": "Torre Flavia",
+            "ro": "Torre Flavia",
+            "en": "Torre Flavia"
+          },
+          "coords": [
+            12.049256,
+            41.95546
+          ],
+          "category": "tower",
+          "arrive_at": "15:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerischen Ruinen dieses historischen Wachturms am Strand, der besonders bei Sonnenuntergang spektakuläre Fotomotive bietet.",
+            "hu": "Csodálja meg e történelmi parti őrtorony festői romjait, amelyek különösen naplemente idején nyújtanak látványos és romantikus fotótémát.",
+            "ro": "Admirați ruinele pitorești ale acestui turn de veghe istoric de pe plajă, care oferă oportunități fotografice spectaculoase, mai ales la apus.",
+            "en": "Admire the picturesque ruins of this historic coastal watchtower right on the beach, which provides spectacular photography opportunities at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Kirche San Francesco im Ort, bevor Sie an die Küste radeln. Mittags erreichen Sie die Strände und das Nautikzentrum, wo Sie eine erfrischende Pause einlegen können. Am Nachmittag fahren Sie durch die herrliche Küstenlandschaft zum faszinierenden Naturschutzgebiet Torre Flavia. Beenden Sie die Tour an der alten Turmruine mit Blick auf das weite, blaue Meer.",
+        "hu": "Indítsa kerékpártúráját a San Francesco templomnál, mielőtt leereszkedne a tengerparthoz. Délben érje el a strandokat és a tengerészeti központot, ahol tarthat egy frissítő pihenőt. Délután tekerjen végig a gyönyörű parti tájon a Palude di Torre Flavia lenyűgöző madárvilága felé. A túrát a régi toronyromnál fejezze be, ahonnan csodálatos kilátás nyílik a végtelen, kék tengerre.",
+        "ro": "Începeți turul cu bicicleta la biserica San Francesco înainte de a pedala spre coastă. La prânz ajungeți la plaje și la centrul nautic, perfecte pentru o pauză revigorantă. După-amiaza, mergeți prin peisajul de coastă superb spre fascinanta rezervație naturală Palude di Torre Flavia. Încheiați turul la vechiul turn în ruină, bucurându-vă de priveliștea mării albastre nesfârșite.",
+        "en": "Kick off your bike tour at the San Francesco church in town before pedaling down to the breezy coast. By midday, reach the lovely beaches and the nautical center, taking a refreshing seaside break. In the afternoon, ride through the gorgeous coastal landscape towards the fascinating Torre Flavia nature reserve. End the tour at the ancient tower ruins, overlooking the vast, deep blue sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Chiesa di San Francesco",
+            "ro": "Chiesa di San Francesco",
+            "en": "Chiesa di San Francesco"
+          },
+          "coords": [
+            12.055057,
+            41.976632
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche Kirche, die als spirituelles Herz der Gemeinde dient, und achten Sie auf angemessene Kleidung beim Betreten.",
+            "hu": "Látogasson el ebbe a békés templomba, amely a helyi közösség spirituális központja, és ügyeljen a megfelelő, vállakat takaró öltözékre a belépéskor.",
+            "ro": "Vizitați această biserică liniștită, inima spirituală a comunității, și asigurați-vă că purtați o ținută adecvată atunci când pășiți în interior.",
+            "en": "Visit this tranquil church that serves as the spiritual heart of the local community, and ensure you wear modest clothing covering your shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Six Beach House",
+            "hu": "Six Beach House",
+            "ro": "Six Beach House",
+            "en": "Six Beach House"
+          },
+          "coords": [
+            12.037225,
+            41.971712
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das moderne Flair dieses Strandclubs mit seinen stilvollen Einrichtungen, und probieren Sie unbedingt einen erfrischenden Cocktail an der Bar.",
+            "hu": "Tapasztalja meg e stílusos strandklub modern hangulatát, és mindenképpen kóstoljon meg egy frissítő koktélt a kiváló tengerparti bárban.",
+            "ro": "Experimentați atmosfera modernă a acestui club de pe plajă și asigurați-vă că savurați un cocktail revigorant la barul elegant cu vedere la mare.",
+            "en": "Experience the modern flair of this stylish beach club, and be sure to try one of their refreshing signature cocktails right by the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Zelio Beach",
+            "hu": "Zelio Beach",
+            "ro": "Zelio Beach",
+            "en": "Zelio Beach"
+          },
+          "coords": [
+            12.041915,
+            41.966298
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verbringen Sie herrliche Stunden an diesem lebhaften Strand mit goldenem Sand, wo es ratsam ist, rechtzeitig anzureisen, um den besten Platz zu ergattern.",
+            "hu": "Töltsön el csodálatos órákat ezen az aranyhomokos, nyüzsgő strandon, ahová érdemes időben érkezni, hogy biztosan a legjobb helyet szerezze meg.",
+            "ro": "Petreceți ore minunate pe această plajă plină de viață, cu nisip fin, unde este recomandat să ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Spend wonderful hours at this lively beach featuring soft golden sand, where arriving early is strongly advised to secure the very best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Ezio alla Torretta",
+            "hu": "Da Ezio alla Torretta",
+            "ro": "Da Ezio alla Torretta",
+            "en": "Da Ezio alla Torretta"
+          },
+          "coords": [
+            12.040649,
+            41.967318
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Küstenatmosphäre in diesem traditionellen Strandabschnitt, ideal für Familien, die ruhiges Wasser und guten Service suchen.",
+            "hu": "Fedezze fel a bájos tengerparti hangulatot ezen a hagyományos partszakaszon, amely ideális választás a csendes vizet kereső kisgyermekes családok számára.",
+            "ro": "Descoperiți atmosfera de coastă fermecătoare a acestei secțiuni tradiționale de plajă, perfectă pentru familiile care caută ape liniștite și sigure.",
+            "en": "Discover the charming coastal atmosphere at this traditional stretch of beach, which is highly recommended for families seeking calm waters and good amenities."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento naturale Palude di Torre Flavia",
+            "hu": "Monumento naturale Palude di Torre Flavia",
+            "ro": "Monumento naturale Palude di Torre Flavia",
+            "en": "Monumento naturale Palude di Torre Flavia"
+          },
+          "coords": [
+            12.046107,
+            41.962557
+          ],
+          "category": "natural",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Feuchtgebiet, das zahlreiche seltene Vogelarten beheimatet, und nehmen Sie ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző vizenyős területet, amely számos ritka madárfajnak ad otthont, és mindenképpen hozzon magával távcsövet a megfigyeléshez.",
+            "ro": "Explorați această rezervație naturală fascinantă, adăpost pentru numeroase specii de păsări rare, și nu uitați să luați un binoclu pentru observații.",
+            "en": "Explore this fascinating natural wetland habitat home to numerous rare bird species, and be sure to pack a pair of binoculars for optimal wildlife viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Flavia",
+            "hu": "Torre Flavia",
+            "ro": "Torre Flavia",
+            "en": "Torre Flavia"
+          },
+          "coords": [
+            12.049256,
+            41.95546
+          ],
+          "category": "tower",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerischen Ruinen dieses historischen Wachturms am Strand, der besonders bei Sonnenuntergang spektakuläre Fotomotive bietet.",
+            "hu": "Csodálja meg e történelmi parti őrtorony festői romjait, amelyek különösen naplemente idején nyújtanak látványos és romantikus fotótémát.",
+            "ro": "Admirați ruinele pitorești ale acestui turn de veghe istoric de pe plajă, care oferă oportunități fotografice spectaculoase, mai ales la apus.",
+            "en": "Admire the picturesque ruins of this historic coastal watchtower right on the beach, which provides spectacular photography opportunities at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag entspannt an der Kirche San Francesco und fahren Sie dann bequem zum Six Beach House. Zur Mittagszeit laden Zelio Beach und Da Ezio alla Torretta zu ausgiebigen Sonnenbädern und kulinarischen Pausen ein. Der Nachmittag ist der Erkundung des Feuchtgebiets Palude di Torre Flavia gewidmet, wo Sie Vögel beobachten können. Zum Abschluss bietet die Torre Flavia herrliche Ausblicke.",
+        "hu": "Kezdje a napot nyugodtan a San Francesco templomnál, majd autózzon kényelmesen a Six Beach House-hoz. Délben a Zelio Beach és a Da Ezio alla Torretta csábít hosszas napozásra és finom ebédekre. A délutánt a Palude di Torre Flavia vizenyős területének felfedezésére szánhatja, ahol ritka madarakat figyelhet meg. Végül a Torre Flavia romjai kínálnak festői, emlékezetes tengerparti kilátást.",
+        "ro": "Începeți ziua la liniștita biserică San Francesco, apoi conduceți confortabil spre Six Beach House. La amiază, plajele Zelio și Da Ezio alla Torretta vă invită la plajă și la o pauză culinară. După-amiaza este dedicată explorării rezervației naturale Palude di Torre Flavia, ideală pentru observarea păsărilor. La final, ruinele turnului Torre Flavia oferă priveliști costiere de neuitat.",
+        "en": "Start your day peacefully at the San Francesco church before driving comfortably to Six Beach House. At midday, Zelio Beach and Da Ezio alla Torretta invite you for extensive sunbathing and a pleasant lunch. The afternoon is dedicated to exploring the serene Palude di Torre Flavia wetland, perfect for birdwatching. Finally, the historic Torre Flavia offers stunning coastal views to end the day."
+      }
+    }
+  }
+}

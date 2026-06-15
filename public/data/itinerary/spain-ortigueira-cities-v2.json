@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-ortigueira-cities-v2",
+  "anchor": {
+    "name": "Ortigueira",
+    "coords": [
+      -7.85437,
+      43.68431
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro da Beneficencia",
+            "hu": "Teatro da Beneficencia",
+            "ro": "Teatro da Beneficencia",
+            "en": "Teatro da Beneficencia"
+          },
+          "coords": [
+            -7.854916,
+            43.684892
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Theaters, einem kulturellen Eckpfeiler von Ortigueira, und prüfen Sie den Spielplan für Abendvorstellungen.",
+            "hu": "Csodálja meg ennek a történelmi színháznak a lenyűgöző építészetét, amely Ortigueira kulturális sarokköve, és feltétlenül ellenőrizze az esti előadások műsorát.",
+            "ro": "Admirați arhitectura impresionantă a acestui teatru istoric, un pilon cultural al orașului Ortigueira, și verificați programul pentru eventuale spectacole de seară.",
+            "en": "Admire the striking architecture of this historic theater, a cultural cornerstone of Ortigueira, and check the schedule for any evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Ortegalia",
+            "hu": "Museo Ortegalia",
+            "ro": "Museo Ortegalia",
+            "en": "Museo Ortegalia"
+          },
+          "coords": [
+            -7.852962,
+            43.684284
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die keltische und maritime Geschichte der Region ein, wo Sie die archäologischen Exponate nicht verpassen sollten.",
+            "hu": "Merüljön el a régió kelta és tengerészeti történelmében ebben a magával ragadó múzeumban, ahol semmiképpen se hagyja ki a lenyűgöző régészeti kiállításokat.",
+            "ro": "Pătrundeți adânc în istoria celtică și maritimă a regiunii la acest muzeu captivant, unde nu trebuie să ratați fascinantele expoziții arheologice locale.",
+            "en": "Dive deep into the Celtic and maritime history of the region at this engaging museum, where you should not miss the fascinating archaeological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Campo da Torre",
+            "hu": "Castelo do Campo da Torre",
+            "ro": "Castelo do Campo da Torre",
+            "en": "Castelo do Campo da Torre"
+          },
+          "coords": [
+            -7.85672,
+            43.684902
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verwitterten Ruinen dieser mittelalterlichen Festung, die einst die Küste bewachte, und tragen Sie unbedingt festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ennek a középkori erődnek az időjárás viszontagságait túlélő romjait, amely egykor a partvidéket védte, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați ruinele erodate ale acestei fortărețe medievale care păzea odinioară coasta și asigurați-vă că purtați încălțăminte rezistentă pentru a naviga pe potecile inegale.",
+            "en": "Explore the weathered ruins of this medieval fortress that once guarded the coastline, and be sure to wear sturdy shoes for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Brandariz",
+            "hu": "Pazo de Brandariz",
+            "ro": "Pazo de Brandariz",
+            "en": "Pazo de Brandariz"
+          },
+          "coords": [
+            -7.852281,
+            43.690095
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie das großartige Design dieses traditionellen galicischen Herrenhauses im Grünen und nehmen Sie sich Zeit, um die wunderschön geschnitzte Steinfassade zu fotografieren.",
+            "hu": "Értékelje ennek a hagyományos, buja növényzetben fekvő galíciai udvarháznak a nagyszerű kialakítását, és szánjon egy percet a gyönyörűen faragott kőhomlokzat lefotózására.",
+            "ro": "Apreciați designul grandios al acestui conac tradițional galician situat printre verdeață luxuriantă și luați-vă un moment pentru a fotografia fațada sa din piatră frumos sculptată.",
+            "en": "Appreciate the grand design of this traditional Galician manor house set against lush greenery, and take a moment to photograph its beautifully carved stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+          },
+          "coords": [
+            -7.859576,
+            43.692015
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein atemberaubendes geschütztes Feuchtgebiet, das als wichtiges Schutzgebiet für Zugvögel dient, weshalb Sie für die beste Beobachtung unbedingt ein Fernglas mitbringen sollten.",
+            "hu": "Fedezzen fel egy lélegzetelállító védett vizes élőhelyet, amely létfontosságú menedékként szolgál a vándormadarak számára, így a legjobb megfigyelés érdekében feltétlenül hozzon magával távcsövet.",
+            "ro": "Descoperiți o zonă umedă protejată uluitoare, care servește drept sanctuar vital pentru păsările migratoare, fiind absolut esențial să aduceți binoclul pentru cea mai bună observare.",
+            "en": "Discover a breathtaking protected wetland that serves as a vital sanctuary for migratory birds, making it absolutely essential to bring your binoculars for the best viewing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Rundgang durch Ortigueira beginnt im charmanten Stadtzentrum und führt Sie vom majestätischen Beneficencia-Theater zum tiefen lokalen Erbe im Museo Ortegalia. Mittags erreichen Sie die mittelalterlichen Ruinen des Campo da Torre. Ihr Nachmittagsspaziergang führt am imposanten Pazo de Brandariz vorbei, bevor er an den spektakulären Ría-Feuchtgebieten, einem Paradies für Vögel, gipfelt.",
+        "hu": "Ortigueira gyalogos túrája a bájos városközpontban kezdődik, a fenséges Beneficencia Színháztól a Museo Ortegalia helyi örökségéig. A dél a Campo da Torre középkori romjaihoz viszi Önt, bepillantást engedve az ősi parti védelembe. A délutáni séta elhalad az impozáns Pazo de Brandariz mellett, mielőtt a látványos Ría vizes élőhelyein, a madarak paradicsomában csúcsosodna ki.",
+        "ro": "Turul pietonal al orașului Ortigueira începe în centrul fermecător, ducându-vă de la Teatrul Beneficencia la patrimoniul local de la Museo Ortegalia. La amiază ajungeți la ruinele medievale Campo da Torre, oferind o privire asupra apărării antice. Plimbarea de după-amiază trece pe lângă impunătorul Pazo de Brandariz înainte de a culmina la spectaculoasele zone umede Ría de Ortigueira.",
+        "en": "The walking tour of Ortigueira starts in the charming town center, taking you from the majestic Beneficencia Theater to the deep local heritage at Museo Ortegalia. Midday brings you to the medieval ruins of the Campo da Torre, offering a glimpse into ancient coastal defenses. Your afternoon stroll passes the imposing Pazo de Brandariz before culminating at the spectacular Ría wetlands."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Ortegalia",
+            "hu": "Museo Ortegalia",
+            "ro": "Museo Ortegalia",
+            "en": "Museo Ortegalia"
+          },
+          "coords": [
+            -7.852962,
+            43.684284
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die keltische und maritime Geschichte der Region ein, wo Sie die archäologischen Exponate nicht verpassen sollten.",
+            "hu": "Merüljön el a régió kelta és tengerészeti történelmében ebben a magával ragadó múzeumban, ahol semmiképpen se hagyja ki a lenyűgöző régészeti kiállításokat.",
+            "ro": "Pătrundeți adânc în istoria celtică și maritimă a regiunii la acest muzeu captivant, unde nu trebuie să ratați fascinantele expoziții arheologice locale.",
+            "en": "Dive deep into the Celtic and maritime history of the region at this engaging museum, where you should not miss the fascinating archaeological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castriño",
+            "hu": "O Castriño",
+            "ro": "O Castriño",
+            "en": "O Castriño"
+          },
+          "coords": [
+            -7.833588,
+            43.684903
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen Schritt in die Vergangenheit an dieser alten Siedlungsstätte mit Blick auf die Landschaft und versuchen Sie, im frühen Morgenlicht zu kommen, um die mystische Atmosphäre einzufangen.",
+            "hu": "Lépjen vissza az időben ezen a tájra néző ősi településen, és próbálja meg a kora reggeli fényben meglátogatni, hogy megörökítse a hely misztikus atmoszféráját a kamerájával.",
+            "ro": "Întoarceți-vă în timp la această veche așezare cu vedere la peisaj și încercați să vizitați în lumina dimineții devreme pentru a surprinde atmosfera mistică pe cameră.",
+            "en": "Step back in time at this ancient settlement site overlooking the landscape, and try to visit during early morning light to capture the mystical atmosphere on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "A Telleira",
+            "hu": "A Telleira",
+            "ro": "A Telleira",
+            "en": "A Telleira"
+          },
+          "coords": [
+            -7.837528,
+            43.690462
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden Überreste des lokalen Ziegelmacher-Erbes an dieser historischen Stätte und achten Sie auf Ihre Schritte rund um die alten Öfen, während Sie etwas über die traditionelle Industrie lernen.",
+            "hu": "Figyelje meg a helyi téglagyártás örökségének lenyűgöző maradványait ezen a történelmi helyszínen, és vigyázzon a lépéseire a régi kemencék körül, miközben a hagyományos iparról tanul.",
+            "ro": "Observați rămășițele fascinante ale patrimoniului local de fabricare a cărămizilor la acest sit istoric și aveți grijă pe unde pășiți în jurul vechilor cuptoare în timp ce învățați despre industria tradițională.",
+            "en": "Observe the fascinating remnants of local brickmaking heritage at this historical site, and watch your step around the old kilns while learning about traditional industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Morouzos",
+            "hu": "Praia de Morouzos",
+            "ro": "Praia de Morouzos",
+            "en": "Praia de Morouzos"
+          },
+          "coords": [
+            -7.844045,
+            43.703082
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang, der von ruhigen Kiefernwäldern flankiert wird, und nutzen Sie die Holzstege, um zu den Dünen zu gelangen, ohne das empfindliche Ökosystem zu stören.",
+            "hu": "Sétáljon végig ezen a kiterjedt, nyugodt fenyőerdőkkel szegélyezett homokos tengerparton, és használja a fa járdákat a dűnék megközelítéséhez, hogy ne zavarja a törékeny ökoszisztémát.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse de nisip flancate de păduri liniștite de pini și folosiți aleile din lemn pentru a accesa dunele fără a perturba ecosistemul local fragil.",
+            "en": "Stroll along this expansive sandy beach flanked by tranquil pine forests, and use the wooden walkways to access the dunes without disturbing the fragile local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cabalar",
+            "hu": "Praia de Cabalar",
+            "ro": "Praia de Cabalar",
+            "en": "Praia de Cabalar"
+          },
+          "coords": [
+            -7.858244,
+            43.706305
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses weniger überlaufenen Küstenjuwels, das perfekt zum Abschalten ist, und packen Sie eine Windjacke ein, da die Meeresbrise am Nachmittag unerwartet frisch sein kann.",
+            "hu": "Pihenjen ennek a kevésbé zsúfolt, kikapcsolódásra tökéletes tengerparti gyöngyszemnek a partján, és csomagoljon széldzsekit, mivel az óceáni szellő délután váratlanul élénk lehet.",
+            "ro": "Relaxați-vă pe țărmul acestei bijuterii de coastă mai puțin aglomerate, perfectă pentru relaxare, și luați în considerare un hanorac, deoarece briza oceanului poate fi rece după-amiaza.",
+            "en": "Relax on the shores of this less crowded coastal gem perfect for unwinding, and consider packing a windbreaker as the ocean breeze can be unexpectedly brisk in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+            "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+          },
+          "coords": [
+            -7.859576,
+            43.692015
+          ],
+          "category": "natural",
+          "arrive_at": "16:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein atemberaubendes geschütztes Feuchtgebiet, das als wichtiges Schutzgebiet für Zugvögel dient, weshalb Sie für die beste Beobachtung unbedingt ein Fernglas mitbringen sollten.",
+            "hu": "Fedezzen fel egy lélegzetelállító védett vizes élőhelyet, amely létfontosságú menedékként szolgál a vándormadarak számára, így a legjobb megfigyelés érdekében feltétlenül hozzon magával távcsövet.",
+            "ro": "Descoperiți o zonă umedă protejată uluitoare, care servește drept sanctuar vital pentru păsările migratoare, fiind absolut esențial să aduceți binoclul pentru cea mai bună observare.",
+            "en": "Discover a breathtaking protected wetland that serves as a vital sanctuary for migratory birds, making it absolutely essential to bring your binoculars for the best viewing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Morgen mit keltischer Geschichte im Museo Ortegalia, bevor Sie zu den alten Ruinen von O Castriño radeln. Mittags erkunden Sie die Überreste alter Ziegelöfen in A Telleira. Der Nachmittag ist der Küstenbrise vorbehalten, wenn Sie zu den Stränden Morouzos und Cabalar fahren und Ihren aktiven Tag in den geschützten Feuchtgebieten der Flussmündung beenden.",
+        "hu": "Egy kerékpáros kalandra indulva a reggel a kelta történelemmel kezdődik a Museo Ortégaliában, mielőtt O Castriño ősi romjaihoz pedálozna. Délben fedezze fel a régi téglakemencéket A Telleira-ban. A délutánt a parti szellőnek tartják fenn, miközben a Morouzos és Cabalar strandokhoz lovagol, és aktív napját a torkolat védett vizes élőhelyein fejezi be.",
+        "ro": "Pornind într-o aventură cu bicicleta, dimineața începe cu istoria celtică la Museo Ortegalia înainte de a pedala spre ruinele O Castriño. La amiază, explorați vechile cuptoare la A Telleira. După-amiaza este rezervată brizelor de coastă, mergând spre Praia de Morouzos și Cabalar, terminând ziua activă observând păsările în zonele umede protejate ale estuarului uluitor.",
+        "en": "Embarking on a cycling adventure, your morning begins with Celtic history at Museo Ortegalia before pedaling to the ancient ruins of O Castriño. By midday, explore the remnants of old brick kilns at A Telleira. The afternoon is reserved for coastal breezes as you ride to Praia de Morouzos and Cabalar, finishing your active day watching birds in the protected wetlands of the estuary."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo de Riomaior",
+            "hu": "Pazo de Riomaior",
+            "ro": "Pazo de Riomaior",
+            "en": "Pazo de Riomaior"
+          },
+          "coords": [
+            -7.847007,
+            43.666081
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Eleganz dieses von Natur umgebenen Landsitzes und erkundigen Sie sich im Voraus, ob während Ihres Besuchs Führungen durch das Innere des Herrenhauses angeboten werden.",
+            "hu": "Csodálja meg ennek a természettel körülvett vidéki birtoknak a történelmi eleganciáját, és előzetesen érdeklődjön, hogy látogatása során elérhetőek-e vezetett túrák az udvarház belsejében.",
+            "ro": "Minunați-vă de eleganța istorică a acestui conac de la țară învăluit de natură și verificați din timp dacă sunt disponibile tururi ghidate ale interiorului conacului în timpul vizitei dumneavoastră.",
+            "en": "Marvel at the historical elegance of this countryside estate enveloped by nature, and check ahead if guided tours of the manor’s interior are available during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xiao de Barbos",
+            "hu": "Igrexa de San Xiao de Barbos",
+            "ro": "Igrexa de San Xiao de Barbos",
+            "en": "Igrexa de San Xiao de Barbos"
+          },
+          "coords": [
+            -7.824481,
+            43.683226
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieser malerischen Dorfkirche vor der Kulisse sanfter Hügel und nehmen Sie Rücksicht auf laufende Gottesdienste, wenn Sie sich das bescheidene Innere ansehen.",
+            "hu": "Tapasztalja meg ennek a lankás dombok között fekvő hangulatos vidéki templomnak a mélységes nyugalmát, és legyen tisztelettel a folyamatban lévő istentiszteletek iránt, ha megtekinti a belső teret.",
+            "ro": "Experimentați liniștea profundă a acestei biserici rurale pitorești, așezată pe un fundal de dealuri ondulate, și respectați orice slujbă în curs dacă decideți să vedeți interiorul modest.",
+            "en": "Experience the profound tranquility of this quaint rural church set against rolling hills, and be respectful of any ongoing services if you decide to view the modest interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Ortegalia",
+            "hu": "Museo Ortegalia",
+            "ro": "Museo Ortegalia",
+            "en": "Museo Ortegalia"
+          },
+          "coords": [
+            -7.852962,
+            43.684284
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die keltische und maritime Geschichte der Region ein, wo Sie die archäologischen Exponate nicht verpassen sollten.",
+            "hu": "Merüljön el a régió kelta és tengerészeti történelmében ebben a magával ragadó múzeumban, ahol semmiképpen se hagyja ki a lenyűgöző régészeti kiállításokat.",
+            "ro": "Pătrundeți adânc în istoria celtică și maritimă a regiunii la acest muzeu captivant, unde nu trebuie să ratați fascinantele expoziții arheologice locale.",
+            "en": "Dive deep into the Celtic and maritime history of the region at this engaging museum, where you should not miss the fascinating archaeological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Campo da Torre",
+            "hu": "Castelo do Campo da Torre",
+            "ro": "Castelo do Campo da Torre",
+            "en": "Castelo do Campo da Torre"
+          },
+          "coords": [
+            -7.85672,
+            43.684902
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verwitterten Ruinen dieser mittelalterlichen Festung, die einst die Küste bewachte, und tragen Sie unbedingt festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ennek a középkori erődnek az időjárás viszontagságait túlélő romjait, amely egykor a partvidéket védte, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați ruinele erodate ale acestei fortărețe medievale care păzea odinioară coasta și asigurați-vă că purtați încălțăminte rezistentă pentru a naviga pe potecile inegale.",
+            "en": "Explore the weathered ruins of this medieval fortress that once guarded the coastline, and be sure to wear sturdy shoes for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Puntal",
+            "hu": "Miradoiro do Puntal",
+            "ro": "Miradoiro do Puntal",
+            "en": "Miradoiro do Puntal"
+          },
+          "coords": [
+            -7.877751,
+            43.687915
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem erstklassigen Aussichtspunkt auf die atemberaubende Flussmündung und die dramatischen Klippen und bringen Sie Ihr bestes Kameraobjektiv mit, um die Farben des Sonnenuntergangs einzufangen.",
+            "hu": "Tekintsen le a lélegzetelállító tölcsértorkolatra és a drámai sziklákra erről a kiváló kilátópontról, és hozza magával a legjobb fényképezőgép-objektívjét, hogy megörökítse a naplemente élénk színeit.",
+            "ro": "Priviți estuarul uluitor și stâncile dramatice din acest punct de observație de prim rang și aduceți cel mai bun obiectiv al camerei pentru a surprinde culorile vibrante ale apusului de soare.",
+            "en": "Gaze out over the breathtaking estuary and dramatic cliffs from this prime observation point, and bring your best camera lens to capture the vibrant colors of the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cabalar",
+            "hu": "Praia de Cabalar",
+            "ro": "Praia de Cabalar",
+            "en": "Praia de Cabalar"
+          },
+          "coords": [
+            -7.858244,
+            43.706305
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses weniger überlaufenen Küstenjuwels, das perfekt zum Abschalten ist, und packen Sie eine Windjacke ein, da die Meeresbrise am Nachmittag unerwartet frisch sein kann.",
+            "hu": "Pihenjen ennek a kevésbé zsúfolt, kikapcsolódásra tökéletes tengerparti gyöngyszemnek a partján, és csomagoljon széldzsekit, mivel az óceáni szellő délután váratlanul élénk lehet.",
+            "ro": "Relaxați-vă pe țărmul acestei bijuterii de coastă mai puțin aglomerate, perfectă pentru relaxare, și luați în considerare un hanorac, deoarece briza oceanului poate fi rece după-amiaza.",
+            "en": "Relax on the shores of this less crowded coastal gem perfect for unwinding, and consider packing a windbreaker as the ocean breeze can be unexpectedly brisk in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Morouzos",
+            "hu": "Praia de Morouzos",
+            "ro": "Praia de Morouzos",
+            "en": "Praia de Morouzos"
+          },
+          "coords": [
+            -7.844045,
+            43.703082
+          ],
+          "category": "recreational",
+          "arrive_at": "16:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang, der von ruhigen Kiefernwäldern flankiert wird, und nutzen Sie die Holzstege, um zu den Dünen zu gelangen, ohne das empfindliche Ökosystem zu stören.",
+            "hu": "Sétáljon végig ezen a kiterjedt, nyugodt fenyőerdőkkel szegélyezett homokos tengerparton, és használja a fa járdákat a dűnék megközelítéséhez, hogy ne zavarja a törékeny ökoszisztémát.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse de nisip flancate de păduri liniștite de pini și folosiți aleile din lemn pentru a accesa dunele fără a perturba ecosistemul local fragil.",
+            "en": "Stroll along this expansive sandy beach flanked by tranquil pine forests, and use the wooden walkways to access the dunes without disturbing the fragile local ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour deckt die gesamte Breite von Ortigueira ab und beginnt mit dem eleganten Pazo de Riomaior und dem ruhigen Charme der Kirche San Xiao de Barbos. Mittags zieht es Sie in den Stadtkern, um das Museum und die historische Festung zu erkunden. Am Nachmittag fahren Sie die Küste entlang, halten am dramatischen Aussichtspunkt Puntal und entspannen an den schönen Stränden Cabalar und Morouzos.",
+        "hu": "Autós túrája Ortigueira szélességét fedi le, az elegáns Pazo de Riomaior udvarházzal és a San Xiao de Barbos templom nyugodt bájával kezdve. Délben a városmagba vonzza Önt, hogy felfedezze múzeumát és történelmi erődjét. Ahogy a délután elhalványul, a part mentén fog vezetni, megállva a drámai Puntal kilátónál, mielőtt a gyönyörű Cabalar és Morouzos strandokon pihenne.",
+        "ro": "Turul auto acoperă întinderea orașului Ortigueira, începând cu elegantul Pazo de Riomaior și farmecul liniștit al bisericii San Xiao de Barbos. La amiază vă îndreptați spre centrul orașului pentru a explora muzeul și fortăreața. După-amiaza, veți conduce de-a lungul coastei, oprindu-vă la punctul de observație dramatic Puntal înainte de a vă relaxa pe frumoasele plaje Cabalar și Morouzos.",
+        "en": "Your driving tour covers the breadth of Ortigueira, starting with the elegant rural Pazo de Riomaior and the quiet charm of the San Xiao de Barbos church. Midday draws you to the town's core to explore its museum and historic fortress. As the afternoon wanes, you will drive along the coast, stopping at the dramatic Puntal viewpoint before relaxing on the beautiful stretches of Cabalar and Morouzos beaches."
+      }
+    }
+  }
+}

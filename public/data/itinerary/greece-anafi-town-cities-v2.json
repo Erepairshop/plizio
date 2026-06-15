@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-anafi-town-cities-v2",
+  "anchor": {
+    "name": "Anafi Town",
+    "coords": [
+      25.7667,
+      36.3667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Xetrypiti",
+            "hu": "Xetrypiti",
+            "ro": "Xetrypiti",
+            "en": "Xetrypiti"
+          },
+          "coords": [
+            25.771468,
+            36.344475
+          ],
+          "category": "recreational",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen abgelegenen Sandstrand, der ideal für ruhiges Sonnenbaden ist, und bringen Sie viel Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt az eldugott homokos partszakaszt, amely tökéletes a nyugodt napozáshoz, és vigyen magával sok vizet, mert nincsenek büfék.",
+            "ro": "Explorați această fâșie izolată de nisip, perfectă pentru băi de soare liniștite, și amintiți-vă să aduceți multă apă, deoarece nu există facilități.",
+            "en": "Explore this secluded stretch of sand, perfect for peaceful sunbathing, and remember to pack plenty of water since there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleisidi",
+            "hu": "Kleisidi",
+            "ro": "Kleisidi",
+            "en": "Kleisidi beach"
+          },
+          "coords": [
+            25.776936,
+            36.34458
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den goldenen Sand dieses beliebten Ortes und kommen Sie früh, um sich einen Platz bei den lokalen Tavernen zu sichern.",
+            "hu": "Élvezze a népszerű hely lágy hullámait és aranyhomokját, de érkezzen korán, hogy jó helyet kapjon a hangulatos helyi tavernák közelében.",
+            "ro": "Bucurați-vă de valurile blânde și nisipul auriu al acestui loc popular, asigurându-vă că ajungeți devreme pentru un loc bun lângă taverne.",
+            "en": "Enjoy the gentle waves and golden sands of this popular spot, making sure to arrive early to secure a prime spot near the charming local tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Katsouni",
+            "hu": "Katsouni",
+            "ro": "Katsouni",
+            "en": "Katsouni"
+          },
+          "coords": [
+            25.780673,
+            36.344199
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel mit seinem kristallklaren, flachen Wasser, aber tragen Sie feste Schuhe für den leicht felsigen Pfad zum Ufer.",
+            "hu": "Fedezze fel ezt a rejtett gyöngyszemet, amely kristálytiszta, sekély vizéről ismert, de viseljen erős cipőt a partra vezető sziklás ösvényen.",
+            "ro": "Descoperiți această bijuterie ascunsă, cunoscută pentru apele sale cristaline puțin adânci, dar purtați încălțăminte solidă pentru cărarea stâncoasă.",
+            "en": "Discover this hidden gem known for its crystal-clear shallow waters, but wear sturdy shoes for the slightly rocky path leading down to the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Flamourou",
+            "hu": "Flamourou",
+            "ro": "Flamourou",
+            "en": "Flamourou"
+          },
+          "coords": [
+            25.783274,
+            36.344855
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den unberührten Ufern dieser ruhigen Bucht, einem idealen Ort zum Schnorcheln, also vergessen Sie Ihre Unterwasserausrüstung nicht.",
+            "hu": "Pihenjen ennek a csendes öbölnek az érintetlen partjain, amely ideális a sznorkelezéshez, ezért ne felejtse el a búvárfelszerelését a tengeri élőlényekhez.",
+            "ro": "Relaxați-vă pe țărmurile imaculate ale acestui golf liniștit, ideal pentru snorkeling, așa că nu uitați echipamentul subacvatic pentru a vedea fauna.",
+            "en": "Relax on the pristine shores of this tranquil cove, an ideal setting for snorkeling, so don't forget your underwater gear to spot marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Exo Roukounas",
+            "hu": "Exo Roukounas",
+            "ro": "Exo Roukounas",
+            "en": "Exo Roukounas"
+          },
+          "coords": [
+            25.788485,
+            36.345189
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Landschaft rund um diesen ruhigen äußeren Strand und bringen Sie einen Schirm mit, da natürlicher Schatten nachmittags selten ist.",
+            "hu": "Csodálja meg a csendes külső strandot körülölelő drámai tájat, és feltétlenül hozzon napernyőt, mivel a természetes árnyék délután nagyon ritka.",
+            "ro": "Admirați peisajul dramatic care înconjoară această plajă exterioară liniștită, aducând o umbrelă deoarece umbra naturală este rară după-amiaza.",
+            "en": "Marvel at the dramatic landscape wrapping around this quiet outer beach, bringing an umbrella as natural shade is incredibly scarce during the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer erfrischenden Wanderung von der Hauptstadt hinunter zu den unberührten Ufern von Xetrypiti.\n\nMittags können Sie entlang der südlichen Sandbuchten wie Kleisidi und Katsouni hüpfen.\n\nDer Nachmittag eignet sich perfekt zum Schwimmen in Flamourou, während die Sonne die Felsen wärmt.\n\nDer Abend bricht sanft am Exo Roukounas ein und bietet ruhige Sonnenuntergänge vor der Rückkehr.",
+        "hu": "A reggel egy frissítő túrával indul a fővárosból Xetrypiti érintetlen partjaira.\n\nA délidő arra csábít, hogy végigjárja a déli homokos öblöket, mint Kleisidi és Katsouni.\n\nA délután tökéletes a fürdőzésre Flamourou kristálytiszta vizében, miközben a nap felmelegíti a sziklákat.\n\nAz este lágyan ereszkedik le Exo Roukounas strandjára, nyugodt naplemente kilátást nyújtva a visszatérés előtt.",
+        "ro": "Dimineața începe cu o drumeție revigorantă din orașul principal până la țărmurile imaculate din Xetrypiti.\n\nAmiaza vă invită să explorați salba continuă de golfuri nisipoase din sud, precum Kleisidi și Katsouni.\n\nDupă-amiaza este perfectă pentru a înota în apele cristaline din Flamourou, în timp ce soarele încălzește stâncile.\n\nSeara cade blând la Exo Roukounas, oferind apusuri liniștite înainte de întoarcere.",
+        "en": "Morning begins with a refreshing hike from the main town down to the pristine shores of Xetrypiti.\n\nMidday invites you to hop along the continuous string of southern sandy coves like Kleisidi and Katsouni.\n\nAfternoon is perfect for swimming in the crystal-clear waters of Flamourou as the sun warms the rocks.\n\nEvening falls gently at Exo Roukounas, offering tranquil sunset views before you return."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 12.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Prassa",
+            "hu": "Prassa",
+            "ro": "Prassa",
+            "en": "Prassa"
+          },
+          "coords": [
+            25.741184,
+            36.378671
+          ],
+          "category": "recreational",
+          "arrive_at": "09:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue nordwestliche Schönheit der Insel an diesem unberührten Strand und achten Sie auf interessante Felsformationen am Wasser.",
+            "hu": "Élvezze a sziget zord északnyugati szépségét ezen az érintetlen strandon, és figyeljen a víz menti érdekes sziklaalakzatokra a séta során.",
+            "ro": "Bucurați-vă de frumusețea accidentată din nord-vestul insulei la această plajă imaculată, căutând formațiuni stâncoase interesante de-a lungul apei.",
+            "en": "Take in the rugged northwestern beauty of the island at this pristine beach, keeping an eye out for interesting rock formations along the water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalagkathi",
+            "hu": "Kalagkathi",
+            "ro": "Kalagkathi",
+            "en": "Kalagkathi"
+          },
+          "coords": [
+            25.747276,
+            36.381982
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie pure Ruhe an diesem wilden, abgelegenen Küstenort, den Sie am besten erreichen, indem Sie die unbefestigten Wege vorsichtig befahren.",
+            "hu": "Tapasztalja meg a tiszta nyugalmat ezen a vad és távoli tengerparti helyen, amelyet úgy érhet el a legjobban, ha óvatosan halad a burkolatlan utakon.",
+            "ro": "Experimentați liniștea pură în acest loc sălbatic și izolat de pe coastă, care este cel mai bine accesat navigând cu atenție pe cărările neasfaltate.",
+            "en": "Experience pure tranquility at this wild and remote coastal spot, which is best accessed by carefully navigating the unpaved paths with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Livoskopos",
+            "hu": "Livoskopos",
+            "ro": "Livoskopos",
+            "en": "Livoskopos"
+          },
+          "coords": [
+            25.776758,
+            36.395003
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Nordküste von dieser weiten Sandbucht aus, obwohl Sie auf gelegentlich starke Meereswinde vorbereitet sein sollten.",
+            "hu": "Csodálja meg a lélegzetelállító északi partvidéket ebből a tágas homokos menedékből, bár érdemes felkészülni a tenger felől érkező időnkénti erős szélre.",
+            "ro": "Admirați coasta nordică uluitoare din acest refugiu vast de nisip, deși ar trebui să fiți pregătiți pentru vânturile puternice ocazionale de pe mare.",
+            "en": "Admire the breathtaking northern coastline from this sweeping sandy haven, though you should be prepared for occasional strong winds sweeping off the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Megas Potamos",
+            "hu": "Megas Potamos",
+            "ro": "Megas Potamos",
+            "en": "Megas Potamos"
+          },
+          "coords": [
+            25.810847,
+            36.352133
+          ],
+          "category": "recreational",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie nahe der Mündung der großen Flussschlucht, die diesem Strand den Namen gab, ein toller Ort, um Küstenwanderungen mit Schwimmen zu verbinden.",
+            "hu": "Kapcsolódjon ki a nagyszerű folyószurdok torkolatánál, amely a strand nevét adta, és amely kiváló helyszín a parti túrázás és az úszás ötvözésére.",
+            "ro": "Relaxați-vă lângă gura marelui defileu care dă numele acestei plaje, făcând din ea un loc excelent pentru a combina o drumeție de coastă cu înotul.",
+            "en": "Unwind near the mouth of the great river gorge that gives this beach its name, making it an excellent spot for combining a coastal hike with swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Agioi Anargyroi",
+            "hu": "Agioi Anargyroi",
+            "ro": "Agioi Anargyroi",
+            "en": "Agioi Anargyroi"
+          },
+          "coords": [
+            25.816519,
+            36.353581
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie unter der markanten, namensgebenden Kirche auf den Klippen und versuchen Sie, am späten Nachmittag wegen des weichen Lichts hier zu sein.",
+            "hu": "Ússzon a sziklákon magasodó lenyűgöző névadó templom alatt, és próbáljon késő délután idelátogatni a legszebb arany fényviszonyok érdekében.",
+            "ro": "Înotați sub biserica impresionantă cocoțată pe stâncile de deasupra și încercați să vizitați după-amiaza târziu pentru cea mai caldă lumină aurie.",
+            "en": "Swim beneath the striking namesake church perched on the cliffs above, and try visiting during the late afternoon for the softest golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Brechen Sie früh mit dem Fahrrad in den rauen Nordwesten auf, um die versteckte Küstenschönheit von Prassa zu entdecken.\n\nFordern Sie sich mittags auf den Feldwegen zu den wilden Landschaften von Kalagkathi und Livoskopos heraus.\n\nVerbringen Sie den Nachmittag mit einer Fahrt nach Osten zum Megas Potamos, wo die Flussschlucht auf das Meer trifft.\n\nBeenden Sie den Tag unter den Klippen von Agioi Anargyroi.",
+        "hu": "Induljon el korán kerékpárral a zord északnyugati rész felé, hogy felfedezze Prassa rejtett part menti szépségét.\n\nDél körül tegye próbára magát a Kalagkathi és Livoskopos vad tájaira vezető földutakon.\n\nA délutánt lovagolja kelet felé, a Megas Potamos irányába, ahol a folyó kanyonjai találkoznak a tengerrel.\n\nZárja az aktív napot az Agioi Anargyroi sziklái alatt, ahogy az esti fény megfesti a tájat.",
+        "ro": "Porniți devreme cu bicicleta spre nord-vestul accidentat pentru a descoperi frumusețea ascunsă a coastei din Prassa.\n\nLa amiază, provocați-vă pe drumurile de pământ către peisajele sălbatice din Kalagkathi și Livoskopos.\n\nPetreceți după-amiaza mergând spre est spre Megas Potamos, unde canioanele întâlnesc marea.\n\nÎncheiați ziua sub stâncile de la Agioi Anargyroi în lumina blândă a serii.",
+        "en": "Set out early cycling towards the rugged northwest to uncover the hidden coastal beauty of Prassa.\n\nBy midday, challenge yourself on the dirt paths leading to the wild landscapes of Kalagkathi and Livoskopos.\n\nSpend the afternoon riding east towards Megas Potamos, where river canyons meet the sea.\n\nConclude your active day below the cliffs of Agioi Anargyroi as the evening light paints the landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kleisidi",
+            "hu": "Kleisidi",
+            "ro": "Kleisidi",
+            "en": "Kleisidi beach"
+          },
+          "coords": [
+            25.776936,
+            36.34458
+          ],
+          "category": "recreational",
+          "arrive_at": "09:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Parken Sie einfach in der Nähe dieses beliebten Familienstrandes und holen Sie sich morgens einen schnellen Kaffee in der Taverne, bevor es voll wird.",
+            "hu": "Parkoljon kényelmesen a családbarát strand közelében, hogy élvezze a puha homokot, és igyon egy gyors reggeli kávét a közeli tavernában a tömeg előtt.",
+            "ro": "Parcați ușor lângă această plajă iubită de familii pentru a vă bucura de nisipul fin și luați o cafea la taverna din apropiere înainte să se aglomereze.",
+            "en": "Park easily near this beloved family-friendly beach to enjoy its soft sand, and grab a quick morning coffee at the nearby taverna before it gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikros Roukounas",
+            "hu": "Mikros Roukounas",
+            "ro": "Mikros Roukounas",
+            "en": "Mikros Roukounas"
+          },
+          "coords": [
+            25.792237,
+            36.345662
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser kleineren, ruhigeren Alternative zum berühmten Nachbarn, die fantastische Privatsphäre bietet, wenn Sie ein Stück zu Fuß gehen.",
+            "hu": "Álljon meg ezen a kisebb és csendesebb alternatíván, amely fantasztikus magánéletet kínál, ha nem bánja, hogy az autótól egy rövid sétát kell tennie.",
+            "ro": "Opriți la această alternativă mai mică și liniștită la vecinul său faimos, oferind o intimitate fantastică dacă nu vă deranjează o scurtă plimbare de la mașină.",
+            "en": "Stop at this slightly smaller and quieter alternative to its famous neighbor, offering fantastic privacy if you don't mind walking a short distance from the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Ronkounas",
+            "hu": "Ronkounas",
+            "ro": "Ronkounas",
+            "en": "Ronkounas beach"
+          },
+          "coords": [
+            25.795917,
+            36.347405
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verbringen Sie Zeit an Anafis legendärstem und weitläufigstem Strand, der für seine freigeistige Atmosphäre bekannt ist, und rasten Sie unter den Tamarisken.",
+            "hu": "Töltsön időt Anafi leglegendásabb és legtágasabb strandján, amelyet szabad szellemű légköre miatt szeretnek, ahol érdemes a tamariszkuszok alatt megpihenni.",
+            "ro": "Petreceți timpul la cea mai legendară plajă din Anafi, iubită pentru atmosfera sa liberă, unde camparea sub tamarisc este pur și simplu obligatorie.",
+            "en": "Spend time at Anafi's most legendary and expansive beach, widely loved for its free-spirited atmosphere, where setting up camp under the tamarisks is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Katalimatsa",
+            "hu": "Katalimatsa",
+            "ro": "Katalimatsa",
+            "en": "Katalimatsa"
+          },
+          "coords": [
+            25.799515,
+            36.348599
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Bucht mit Überresten antiker Hafenstrukturen, weshalb es sehr zu empfehlen ist, eine Schnorchelmaske mitzubringen.",
+            "hu": "Fedezze fel ezt a lenyűgöző öblöt, amely ősi kikötői építmények maradványait rejti, ezért erősen ajánlott egy sznorkel maszkot hozni a felfedezésekhez.",
+            "ro": "Explorați acest golf fascinant cu rămășițe de structuri portuare antice, fiind foarte recomandat să aduceți o mască de snorkeling pentru descoperiri.",
+            "en": "Explore this fascinating cove that holds remnants of ancient harbor structures, making it highly recommended to bring a snorkel mask for historical discoveries."
+          }
+        },
+        {
+          "name": {
+            "de": "Megas Potamos",
+            "hu": "Megas Potamos",
+            "ro": "Megas Potamos",
+            "en": "Megas Potamos"
+          },
+          "coords": [
+            25.810847,
+            36.352133
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie dorthin, wo die steile Schlucht auf die Ägäis trifft und einen einzigartigen Kieselstrand bildet, und packen Sie Snacks ein, da es hier nichts gibt.",
+            "hu": "Sétáljon el oda, ahol a meredek kanyon találkozik az Égei-tengerrel, egyedi kavicsos strandot hozva létre, és vigyen magával nassolnivalót a büfék hiánya miatt.",
+            "ro": "Plimbați-vă unde canionul abrupt întâlnește Marea Egee, creând o plajă unică de pietriș, și aduceți gustări ușoare, deoarece facilitățile lipsesc complet.",
+            "en": "Wander where the steep canyon meets the Aegean Sea creating a unique pebble beach, and pack light snacks since amenities are completely non-existent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Prasies",
+            "hu": "Prasies",
+            "ro": "Prasies",
+            "en": "Prasies"
+          },
+          "coords": [
+            25.82412,
+            36.354541
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser weniger besuchten östlichen Bucht, die von dramatischen Klippen eingerahmt ist, die bei Sonnenuntergang herrliche Fotomotive bieten.",
+            "hu": "Fejezze be a vezetést ezen a lenyűgöző és kevésbé látogatott keleti öbölben, amelyet drámai sziklák kereteznek, csodálatos fotózási lehetőségeket kínálva.",
+            "ro": "Încheiați-vă traseul la acest golf estic impresionant și mai puțin vizitat, încadrat de stânci dramatice care oferă oportunități de fotografiere superbe.",
+            "en": "Conclude your drive at this striking and less-visited eastern bay, perfectly framed by dramatic cliffs that offer gorgeous photo opportunities near sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens als Erstes zum beliebten Kleisidi-Strand, um den Massen zu entgehen und in Ruhe zu schwimmen.\n\nFahren Sie entlang der Südküste weiter, um sich mittags im Mikros und am berühmten Ronkounas zu entspannen.\n\nVerbringen Sie den Nachmittag damit, die antiken Hafenreste in Katalimatsa und die Flussmündung am Megas Potamos zu erkunden.\n\nBeenden Sie Ihren Roadtrip am Prasies und genießen Sie die Dämmerung.",
+        "hu": "Vezessen le kora reggel a népszerű Kleisidi strandra, hogy elkerülje a tömeget és nyugodtan ússzon egyet.\n\nFolytassa útját a déli part mentén, és pihenjen délben a Mikrosnál és a híres Ronkounas-nál.\n\nA délutánt a Katalimatsa ősi kikötői maradványainak és a Megas Potamos drámai folyótorkolatának felfedezésével töltheti.\n\nFejezze be az autós utazást a Prasies-nél, élvezve a látványos esti szürkületet.",
+        "ro": "Conduceți la prima oră spre populara plajă Kleisidi pentru a evita aglomerația și a vă bucura de o baie liniștită.\n\nContinuați de-a lungul coastei de sud pentru relaxare la prânz la Mikros și pe faimoasa plajă Ronkounas.\n\nPetreceți după-amiaza descoperind rămășițele portului antic de la Katalimatsa și gura râului de la Megas Potamos.\n\nÎncheiați călătoria la Prasies, savurând amurgul spectaculos al serii.",
+        "en": "Drive down to the popular Kleisidi beach first thing in the morning to beat the crowds and enjoy a peaceful swim.\n\nContinue along the southern coast for midday relaxation at Mikros and the famous expanses of Ronkounas.\n\nSpend your afternoon uncovering the ancient harbor remnants at Katalimatsa and the dramatic river mouth at Megas Potamos.\n\nFinish your road trip at Prasies, savoring the spectacular evening twilight."
+      }
+    }
+  }
+}

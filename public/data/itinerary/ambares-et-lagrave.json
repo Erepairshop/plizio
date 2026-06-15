@@ -1,0 +1,474 @@
+{
+  "city_id": "ambares-et-lagrave",
+  "anchor": {
+    "name": "Ambarès-et-Lagrave",
+    "coords": [
+      -0.4867,
+      44.9247
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:31",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie d'Ambarès-et-Lagrave",
+            "hu": "Mairie d'Ambarès-et-Lagrave",
+            "ro": "Mairie d'Ambarès-et-Lagrave",
+            "en": "Mairie d'Ambarès-et-Lagrave"
+          },
+          "coords": [
+            -0.490535,
+            44.926344
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am örtlichen Rathaus, um den Rhythmus der Gemeinde zu spüren, und bewundern Sie die klassische Architektur, bevor Sie einen Kaffee trinken.",
+            "hu": "Kezdje a napot a helyi városházánál, hogy ráhangolódjon a közösség ritmusára, és csodálja meg a klasszikus építészetet, mielőtt bekapna egy kávét a közelben.",
+            "ro": "Începeți-vă ziua la primăria locală pentru a simți ritmul comunității, admirând arhitectura clasică înainte de a bea o cafea rapidă în apropiere.",
+            "en": "Start your day at the local town hall to grasp the community's rhythm, paying attention to the classic architecture before grabbing a quick coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ev@sion",
+            "hu": "Ev@sion",
+            "ro": "Ev@sion",
+            "en": "Ev@sion"
+          },
+          "coords": [
+            -0.487966,
+            44.926849
+          ],
+          "category": "cultural",
+          "arrive_at": "09:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses lebendige Kulturzentrum ist das künstlerische Herz der Stadt mit lokalen Ausstellungen; prüfen Sie das Programm im Voraus auf Vormittags-Workshops.",
+            "hu": "Ez a vibráló kulturális központ a város művészeti szíve, helyi kiállításokkal; érdemes előre ellenőrizni a programot a délelőtti workshopokhoz.",
+            "ro": "Acest centru cultural vibrant este inima artistică a orașului, cu expoziții locale captivante; verificați programul în avans pentru atelierele de dimineață.",
+            "en": "This vibrant cultural center is the artistic heart of the town, offering engaging local exhibits; check their schedule in advance for morning workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.485458,
+            44.924237
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die tiefe Ruhe in diesem historischen religiösen Gebäude, wo die schönen Buntglasfenster am besten ohne Blitz fotografiert werden.",
+            "hu": "Csodálja meg a történelmi vallási épület nyugalmát, ahol a gyönyörű ólomüveg ablakokat a legszebben vaku használata nélkül lehet lefotózni.",
+            "ro": "Admirați liniștea profundă din interiorul acestei clădiri religioase istorice, unde vitraliile frumoase sunt cel mai bine fotografiate fără bliț.",
+            "en": "Admire the profound tranquility inside this historic religious structure, where the beautiful stained glass is best photographed without using flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-La-Grave",
+            "hu": "Église Notre-Dame-de-La-Grave",
+            "ro": "Église Notre-Dame-de-La-Grave",
+            "en": "Église Notre-Dame-de-La-Grave"
+          },
+          "coords": [
+            -0.471461,
+            44.928414
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Details dieser leicht versteckten Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die einzigartige Fassade einzufangen.",
+            "hu": "Fedezze fel ennek a kissé eldugott templomnak a bájos részleteit, és hozzon nagylátószögű objektívet az egyedi homlokzat megörökítéséhez.",
+            "ro": "Descoperiți detaliile fermecătoare ale acestei biserici ascunse, aducând un obiectiv cu unghi larg pentru a surprinde fațada unică printre verdeață.",
+            "en": "Discover the charming details of this slightly hidden church, bringing a wide-angle lens to capture the unique facade against the surrounding greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sainte-Eulalie",
+            "hu": "Mairie de Sainte-Eulalie",
+            "ro": "Mairie de Sainte-Eulalie",
+            "en": "Mairie de Sainte-Eulalie"
+          },
+          "coords": [
+            -0.47353,
+            44.908252
+          ],
+          "category": "landmark",
+          "arrive_at": "12:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem benachbarten Verwaltungsgebäude und genießen Sie die gepflegten Gärten, die einen perfekten Ort für eine Pause bieten.",
+            "hu": "Fejezze be sétáját ennél a szomszédos közigazgatási épületnél, és élvezze a gondozott kerteket, amelyek tökéletes helyet kínálnak egy rövid pihenőre.",
+            "ro": "Încheiați-vă plimbarea la acest punct de reper administrativ vecin, bucurându-vă de grădinile îngrijite care oferă un loc perfect pentru o scurtă pauză.",
+            "en": "Conclude your walk at this neighboring administrative landmark, enjoying the neat surrounding gardens which offer a perfect spot for a brief, restful break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im administrativen und kulturellen Herzen von Ambarès-et-Lagrave. Der Mittag bringt historische Besinnung an der Église Saint-Pierre. Der Nachmittag führt zur benachbarten Ruhe von Notre-Dame-de-La-Grave. Schließen Sie mit einem Spaziergang nach Sainte-Eulalie ab.",
+        "hu": "Kezdje a reggelt Ambarès-et-Lagrave közigazgatási és kulturális központjának felfedezésével. A délidő történelmi elmélyülést hoz az Église Saint-Pierre-nél. A délután a szomszédos Notre-Dame-de-La-Grave nyugalmába vezet. Zárja a napot egy kellemes sétával Sainte-Eulalie-ba.",
+        "ro": "Începeți dimineața explorând centrul administrativ și cultural din Ambarès-et-Lagrave. Prânzul aduce o reflecție istorică la Église Saint-Pierre. După-amiaza vă conduce spre liniștea învecinată de la Notre-Dame-de-La-Grave. Încheiați cu o plimbare plăcută către Sainte-Eulalie.",
+        "en": "Start your morning exploring the central administrative and cultural heart of Ambarès-et-Lagrave. Midday transitions to historical reflection at Église Saint-Pierre. The afternoon shifts towards the neighboring quietness at Notre-Dame-de-La-Grave. Conclude with an easy stroll to Sainte-Eulalie."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 10.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.485458,
+            44.924237
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die tiefe Ruhe in diesem historischen religiösen Gebäude, wo die schönen Buntglasfenster am besten ohne Blitz fotografiert werden.",
+            "hu": "Csodálja meg a történelmi vallási épület nyugalmát, ahol a gyönyörű ólomüveg ablakokat a legszebben vaku használata nélkül lehet lefotózni.",
+            "ro": "Admirați liniștea profundă din interiorul acestei clădiri religioase istorice, unde vitraliile frumoase sunt cel mai bine fotografiate fără bliț.",
+            "en": "Admire the profound tranquility inside this historic religious structure, where the beautiful stained glass is best photographed without using flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie d'Ambarès-et-Lagrave",
+            "hu": "Mairie d'Ambarès-et-Lagrave",
+            "ro": "Mairie d'Ambarès-et-Lagrave",
+            "en": "Mairie d'Ambarès-et-Lagrave"
+          },
+          "coords": [
+            -0.490535,
+            44.926344
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am örtlichen Rathaus, um den Rhythmus der Gemeinde zu spüren, und bewundern Sie die klassische Architektur, bevor Sie einen Kaffee trinken.",
+            "hu": "Kezdje a napot a helyi városházánál, hogy ráhangolódjon a közösség ritmusára, és csodálja meg a klasszikus építészetet, mielőtt bekapna egy kávét a közelben.",
+            "ro": "Începeți-vă ziua la primăria locală pentru a simți ritmul comunității, admirând arhitectura clasică înainte de a bea o cafea rapidă în apropiere.",
+            "en": "Start your day at the local town hall to grasp the community's rhythm, paying attention to the classic architecture before grabbing a quick coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ev@sion",
+            "hu": "Ev@sion",
+            "ro": "Ev@sion",
+            "en": "Ev@sion"
+          },
+          "coords": [
+            -0.487966,
+            44.926849
+          ],
+          "category": "cultural",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses lebendige Kulturzentrum ist das künstlerische Herz der Stadt mit lokalen Ausstellungen; prüfen Sie das Programm im Voraus auf Vormittags-Workshops.",
+            "hu": "Ez a vibráló kulturális központ a város művészeti szíve, helyi kiállításokkal; érdemes előre ellenőrizni a programot a délelőtti workshopokhoz.",
+            "ro": "Acest centru cultural vibrant este inima artistică a orașului, cu expoziții locale captivante; verificați programul în avans pentru atelierele de dimineață.",
+            "en": "This vibrant cultural center is the artistic heart of the town, offering engaging local exhibits; check their schedule in advance for morning workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de la Blanche",
+            "hu": "Plan d'eau de la Blanche",
+            "ro": "Plan d'eau de la Blanche",
+            "en": "Plan d'eau de la Blanche"
+          },
+          "coords": [
+            -0.518417,
+            44.945381
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem ruhigen See, einem perfekten Rückzugsort in der Natur, wo ein Picknick am Wasser sehr zu empfehlen ist.",
+            "hu": "Tartson egy frissítő szünetet ennél a békés tónál, amely tökéletes természeti menedék, és ahol nagyon ajánlott egy pikniket tartani a helyi falatokból.",
+            "ro": "Faceți o pauză răcoritoare lângă acest lac liniștit, o evadare naturală perfectă, unde se recomandă să aduceți câteva gustări locale pentru un picnic.",
+            "en": "Take a refreshing pause by this serene lake, a perfect natural escape where packing some local snacks for a waterside picnic is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Peychaud",
+            "hu": "Château Peychaud",
+            "ro": "Château Peychaud",
+            "en": "Château Peychaud"
+          },
+          "coords": [
+            -0.507021,
+            44.963483
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Gelände dieses historischen Anwesens und tragen Sie bequeme Schuhe, da das Gelände rund um das Schloss uneben sein kann.",
+            "hu": "Fedezze fel ennek a történelmi birtoknak a lenyűgöző területét, és viseljen kényelmes cipőt, mivel a kastély körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Explorați terenurile fascinante ale acestui domeniu istoric, purtând încălțăminte confortabilă, deoarece terenul din jurul castelului poate fi accidentat.",
+            "en": "Explore the fascinating grounds of this historical estate, making sure to wear comfortable walking shoes as the terrain around the castle can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-La-Grave",
+            "hu": "Église Notre-Dame-de-La-Grave",
+            "ro": "Église Notre-Dame-de-La-Grave",
+            "en": "Église Notre-Dame-de-La-Grave"
+          },
+          "coords": [
+            -0.471461,
+            44.928414
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Details dieser leicht versteckten Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die einzigartige Fassade einzufangen.",
+            "hu": "Fedezze fel ennek a kissé eldugott templomnak a bájos részleteit, és hozzon nagylátószögű objektívet az egyedi homlokzat megörökítéséhez.",
+            "ro": "Descoperiți detaliile fermecătoare ale acestei biserici ascunse, aducând un obiectiv cu unghi larg pentru a surprinde fațada unică printre verdeață.",
+            "en": "Discover the charming details of this slightly hidden church, bringing a wide-angle lens to capture the unique facade against the surrounding greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Église Saint-Pierre, bevor Sie die lokale Atmosphäre am Rathaus aufsaugen. Mittags radeln Sie zum friedlichen Plan d'eau de la Blanche. Verbringen Sie den Nachmittag am Château Peychaud. Beenden Sie die Fahrt an der Notre-Dame-de-La-Grave.",
+        "hu": "Indítsa kerékpártúráját a történelmi Église Saint-Pierre-nél, majd szívja magába a helyi hangulatot a városházánál. Délben tekerjen a békés Plan d'eau de la Blanche felé. A délutánt a Château Peychaud örökségének felfedezésével töltse. Fejezze be az utat a Notre-Dame-de-La-Grave-nál.",
+        "ro": "Începeți turul cu bicicleta la biserica istorică Saint-Pierre înainte de a simți atmosfera la primărie. Până la prânz, pedalați spre liniștitul Plan d'eau de la Blanche. Petreceți după-amiaza descoperind moștenirea Château Peychaud. Finalizați traseul la Notre-Dame-de-La-Grave.",
+        "en": "Kick off your cycling tour at the historic Église Saint-Pierre before soaking up the local vibe at the town hall. By midday, pedal towards the serene Plan d'eau de la Blanche for nature views. Spend your afternoon uncovering the legacy of Château Peychaud. Finish the ride at Notre-Dame-de-La-Grave."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Eulalie",
+            "hu": "Église Sainte-Eulalie",
+            "ro": "Église Sainte-Eulalie",
+            "en": "Église Sainte-Eulalie"
+          },
+          "coords": [
+            -0.470911,
+            44.90845
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses wunderschöne historische Heiligtum ein, um die erhaltene Architektur zu bewundern, und verhalten Sie sich ruhig, da es aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi szentélybe, hogy megcsodálja a megőrzött építészetet, és maradjon csendben, mivel ez ma is aktív imahely.",
+            "ro": "Intrați în acest frumos sanctuar istoric pentru a aprecia arhitectura sa conservată, păstrând liniștea deoarece este un lăcaș de cult activ.",
+            "en": "Step into this beautiful historic sanctuary to appreciate its preserved architecture, staying respectfully quiet as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sainte-Eulalie",
+            "hu": "Mairie de Sainte-Eulalie",
+            "ro": "Mairie de Sainte-Eulalie",
+            "en": "Mairie de Sainte-Eulalie"
+          },
+          "coords": [
+            -0.47353,
+            44.908252
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem benachbarten Verwaltungsgebäude und genießen Sie die gepflegten Gärten, die einen perfekten Ort für eine Pause bieten.",
+            "hu": "Fejezze be sétáját ennél a szomszédos közigazgatási épületnél, és élvezze a gondozott kerteket, amelyek tökéletes helyet kínálnak egy rövid pihenőre.",
+            "ro": "Încheiați-vă plimbarea la acest punct de reper administrativ vecin, bucurându-vă de grădinile îngrijite care oferă un loc perfect pentru o scurtă pauză.",
+            "en": "Conclude your walk at this neighboring administrative landmark, enjoying the neat surrounding gardens which offer a perfect spot for a brief, restful break."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-La-Grave",
+            "hu": "Église Notre-Dame-de-La-Grave",
+            "ro": "Église Notre-Dame-de-La-Grave",
+            "en": "Église Notre-Dame-de-La-Grave"
+          },
+          "coords": [
+            -0.471461,
+            44.928414
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Details dieser leicht versteckten Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die einzigartige Fassade einzufangen.",
+            "hu": "Fedezze fel ennek a kissé eldugott templomnak a bájos részleteit, és hozzon nagylátószögű objektívet az egyedi homlokzat megörökítéséhez.",
+            "ro": "Descoperiți detaliile fermecătoare ale acestei biserici ascunse, aducând un obiectiv cu unghi larg pentru a surprinde fațada unică printre verdeață.",
+            "en": "Discover the charming details of this slightly hidden church, bringing a wide-angle lens to capture the unique facade against the surrounding greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie d'Ambarès-et-Lagrave",
+            "hu": "Mairie d'Ambarès-et-Lagrave",
+            "ro": "Mairie d'Ambarès-et-Lagrave",
+            "en": "Mairie d'Ambarès-et-Lagrave"
+          },
+          "coords": [
+            -0.490535,
+            44.926344
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am örtlichen Rathaus, um den Rhythmus der Gemeinde zu spüren, und bewundern Sie die klassische Architektur, bevor Sie einen Kaffee trinken.",
+            "hu": "Kezdje a napot a helyi városházánál, hogy ráhangolódjon a közösség ritmusára, és csodálja meg a klasszikus építészetet, mielőtt bekapna egy kávét a közelben.",
+            "ro": "Începeți-vă ziua la primăria locală pentru a simți ritmul comunității, admirând arhitectura clasică înainte de a bea o cafea rapidă în apropiere.",
+            "en": "Start your day at the local town hall to grasp the community's rhythm, paying attention to the classic architecture before grabbing a quick coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.485458,
+            44.924237
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die tiefe Ruhe in diesem historischen religiösen Gebäude, wo die schönen Buntglasfenster am besten ohne Blitz fotografiert werden.",
+            "hu": "Csodálja meg a történelmi vallási épület nyugalmát, ahol a gyönyörű ólomüveg ablakokat a legszebben vaku használata nélkül lehet lefotózni.",
+            "ro": "Admirați liniștea profundă din interiorul acestei clădiri religioase istorice, unde vitraliile frumoase sunt cel mai bine fotografiate fără bliț.",
+            "en": "Admire the profound tranquility inside this historic religious structure, where the beautiful stained glass is best photographed without using flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de la Blanche",
+            "hu": "Plan d'eau de la Blanche",
+            "ro": "Plan d'eau de la Blanche",
+            "en": "Plan d'eau de la Blanche"
+          },
+          "coords": [
+            -0.518417,
+            44.945381
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem ruhigen See, einem perfekten Rückzugsort in der Natur, wo ein Picknick am Wasser sehr zu empfehlen ist.",
+            "hu": "Tartson egy frissítő szünetet ennél a békés tónál, amely tökéletes természeti menedék, és ahol nagyon ajánlott egy pikniket tartani a helyi falatokból.",
+            "ro": "Faceți o pauză răcoritoare lângă acest lac liniștit, o evadare naturală perfectă, unde se recomandă să aduceți câteva gustări locale pentru un picnic.",
+            "en": "Take a refreshing pause by this serene lake, a perfect natural escape where packing some local snacks for a waterside picnic is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Peychaud",
+            "hu": "Château Peychaud",
+            "ro": "Château Peychaud",
+            "en": "Château Peychaud"
+          },
+          "coords": [
+            -0.507021,
+            44.963483
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Gelände dieses historischen Anwesens und tragen Sie bequeme Schuhe, da das Gelände rund um das Schloss uneben sein kann.",
+            "hu": "Fedezze fel ennek a történelmi birtoknak a lenyűgöző területét, és viseljen kényelmes cipőt, mivel a kastély körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Explorați terenurile fascinante ale acestui domeniu istoric, purtând încălțăminte confortabilă, deoarece terenul din jurul castelului poate fi accidentat.",
+            "en": "Explore the fascinating grounds of this historical estate, making sure to wear comfortable walking shoes as the terrain around the castle can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom südlichen Rand in Sainte-Eulalie los und bewundern Sie Kirche und Rathaus. Fahren Sie bis zum Mittag nach Norden zur Notre-Dame-de-La-Grave. Der Nachmittag ist für Natur und Geschichte reserviert: Entspannen Sie am Plan d'eau de la Blanche und bestaunen Sie das Château Peychaud.",
+        "hu": "Induljon autóval a déli peremről, Sainte-Eulalie-ból, megcsodálva annak templomát és városházáját. Délre haladjon északra a Notre-Dame-de-La-Grave-hoz. A délután a természeté és a történelemé, pihenjen a Plan d'eau de la Blanche partján, és csodálja meg a nagyszerű Château Peychaud-t.",
+        "ro": "Începeți să conduceți din marginea sudică, la Sainte-Eulalie, admirând biserica și primăria. Mergeți spre nord la Notre-Dame-de-La-Grave până la prânz. După-amiaza este rezervată naturii și istoriei, relaxându-vă lângă Plan d'eau de la Blanche și admirând grandiosul Château Peychaud.",
+        "en": "Begin driving from the southern edge at Sainte-Eulalie, admiring its church and town hall. Head north to Notre-Dame-de-La-Grave and the lively Ambarès center by noon. The afternoon is reserved for nature and history, relaxing by Plan d'eau de la Blanche and marveling at the grand Château Peychaud."
+      }
+    }
+  }
+}

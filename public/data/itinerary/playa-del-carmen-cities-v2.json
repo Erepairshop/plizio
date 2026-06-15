@@ -1,0 +1,589 @@
+{
+  "city_id": "playa-del-carmen-cities-v2",
+  "anchor": {
+    "name": "Playa del Carmen",
+    "coords": [
+      -87.0811,
+      20.6274
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:02",
+      "total_km": 2.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "settlers park",
+            "hu": "settlers park",
+            "ro": "settlers park",
+            "en": "settlers park"
+          },
+          "coords": [
+            -87.074981,
+            20.622004
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Settlers Park, einer grünen Oase, in der Sie die lokale Atmosphäre einatmen und frische Früchte von den morgendlichen Händlern genießen können.",
+            "hu": "Kezdje a napot a Settlers Parkban, a város zöld szívében, ahol átérezheti a helyi hangulatot és megkóstolhatja a friss gyümölcsöket a reggeli árusoktól.",
+            "ro": "Începeți în Parcul Colonialiștilor, o oază verde unde puteți simți atmosfera locală și savura fructe proaspete de la vânzătorii matinali.",
+            "en": "Start at Settlers Park, a green oasis where you can soak up the local atmosphere and enjoy fresh fruit from the morning vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Skydive Playa",
+            "hu": "Skydive Playa",
+            "ro": "Skydive Playa",
+            "en": "Skydive Playa"
+          },
+          "coords": [
+            -87.077871,
+            20.62201
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die mutigen Fallschirmspringer am Skydive Playa und spüren Sie den Adrenalinkick, während Sie tolle Fotos am weichen Sandstrand machen.",
+            "hu": "Figyelje meg a bátor ejtőernyősöket a Skydive Playánál, és érezze az adrenalint, miközben remek fotókat készít a puha homokos tengerparton.",
+            "ro": "Urmăriți parașutiștii curajoși la Skydive Playa și simțiți adrenalina în timp ce faceți fotografii grozave pe plaja cu nisip fin.",
+            "en": "Watch the brave skydivers at Skydive Playa and feel the adrenaline rush while taking great photos on the soft sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Frida Kahlo",
+            "hu": "Frida Kahlo",
+            "ro": "Frida Kahlo",
+            "en": "Frida Kahlo"
+          },
+          "coords": [
+            -87.072757,
+            20.625921
+          ],
+          "category": "museum",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Frida Kahlo Museum in das Leben der ikonischen Künstlerin ein und buchen Sie Ihre Tickets vorab, um längere Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el az ikonikus művésznő életében a Frida Kahlo Múzeumban, és foglalja le jegyeit előre, hogy elkerülje a hosszabb várakozást.",
+            "ro": "Scufundați-vă în viața iconicei artiste la Muzeul Frida Kahlo și rezervați-vă biletele în avans pentru a evita cozile lungi.",
+            "en": "Dive into the life of the iconic artist at the Frida Kahlo Museum and book your tickets in advance to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "3D Museum",
+            "hu": "3D Museum",
+            "ro": "3D Museum",
+            "en": "3D Museum"
+          },
+          "coords": [
+            -87.073352,
+            20.626961
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive optische Täuschungen im 3D Museum und bringen Sie unbedingt eine Kamera mit, um die lustigen Posen mit der Familie festzuhalten.",
+            "hu": "Tapasztalja meg az interaktív optikai csalódásokat a 3D Múzeumban, és mindenképpen hozzon magával fényképezőgépet a vicces családi pózok megörökítéséhez.",
+            "ro": "Experimentați iluzii optice interactive la Muzeul 3D și asigurați-vă că aduceți un aparat foto pentru a surprinde ipostazele amuzante.",
+            "en": "Experience interactive optical illusions at the 3D Museum and be sure to bring a camera to capture the fun poses with your family."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Beach",
+            "hu": "Aquarium Beach",
+            "ro": "Aquarium Beach",
+            "en": "Aquarium Beach"
+          },
+          "coords": [
+            -87.071468,
+            20.628367
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Meereswelt im Aquarium Beach und besuchen Sie die Fütterungszeiten, die für Kinder ein besonderes Highlight sind.",
+            "hu": "Fedezze fel a lenyűgöző tengeri világot az Aquarium Beach-en, és látogasson el az etetési időszakokban, amelyek különösen izgalmasak a gyerekek számára.",
+            "ro": "Descoperiți fascinanta lume marină la Aquarium Beach și participați la sesiunile de hrănire, care sunt o adevărată atracție pentru copii.",
+            "en": "Discover the fascinating marine world at Aquarium Beach and visit during feeding times, which are a special highlight for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Playalingua",
+            "hu": "Playalingua",
+            "ro": "Playalingua",
+            "en": "Playalingua"
+          },
+          "coords": [
+            -87.069882,
+            20.630889
+          ],
+          "category": "cultural",
+          "arrive_at": "15:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Kultur bei Playalingua kennen, wo interaktive Sprachausstellungen dazu einladen, ein paar nützliche spanische Phrasen zu üben.",
+            "hu": "Ismerje meg a helyi kultúrát a Playalingua központban, ahol az interaktív nyelvi kiállítások arra ösztönzik, hogy gyakoroljon néhány hasznos spanyol kifejezést.",
+            "ro": "Cunoașteți cultura locală la Playalingua, unde expozițiile lingvistice interactive vă invită să exersați câteva expresii spaniole utile.",
+            "en": "Get to know the local culture at Playalingua, where interactive language exhibits invite you to practice a few useful Spanish phrases."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa mamitas",
+            "hu": "Playa mamitas",
+            "ro": "Playa mamitas",
+            "en": "Playa mamitas"
+          },
+          "coords": [
+            -87.064977,
+            20.63074
+          ],
+          "category": "landmark",
+          "arrive_at": "15:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am berühmten Playa Mamitas, lauschen Sie den entspannten Beats der Beach Clubs und mieten Sie sich frühzeitig eine Sonnenliege.",
+            "hu": "Pihenjen a híres Playa Mamitason, hallgassa a beach clubok laza ritmusait, és béreljen napágyat még a reggeli órákban.",
+            "ro": "Relaxați-vă pe faimoasa Playa Mamitas, ascultați ritmurile relaxante ale cluburilor de pe plajă și închiriați un șezlong din timp.",
+            "en": "Relax at the famous Playa Mamitas, listen to the chilled beats of the beach clubs, and rent a sun lounger early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "tree of 18m diameter",
+            "hu": "tree of 18m diameter",
+            "ro": "tree of 18m diameter",
+            "en": "tree of 18m diameter"
+          },
+          "coords": [
+            -87.064815,
+            20.634554
+          ],
+          "category": "historical",
+          "arrive_at": "17:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Baum mit 18 Metern Durchmesser, ein wahres Naturwunder, und nehmen Sie sich Zeit für die beeindruckenden Details seiner Rinde.",
+            "hu": "Csodálja meg a 18 méter átmérőjű történelmi fát, amely egy igazi természeti csoda, és szánjon időt a kérgének lenyűgöző részleteire.",
+            "ro": "Admirați copacul istoric cu diametrul de 18 metri, o adevărată minune a naturii, și luați-vă timp pentru a observa detaliile impresionante ale scoarței sale.",
+            "en": "Admire the historic tree with an 18-meter diameter, a true natural wonder, and take your time to appreciate the impressive details of its bark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im ruhigen Settlers Park, bevor Sie das Abenteuer am Strand bei Skydive Playa schnuppern. Gegen Mittag tauchen Sie im Frida Kahlo Museum und im 3D Museum in die Kunst und Illusionen der Stadt ein. Am Nachmittag erwarten Sie das faszinierende Aquarium Beach sowie die sprachlichen Entdeckungen bei Playalingua. Der Tag endet entspannt am Playa Mamitas und beim beeindruckenden alten Baum.",
+        "hu": "A nap a csendes Settlers Parkban indul, mielőtt belevetné magát a tengerparti kalandokba a Skydive Playánál. Dél körül a Frida Kahlo Múzeum és a 3D Múzeum művészeti illúzióit fedezheti fel. Délután a lenyűgöző Aquarium Beach és a Playalingua nyelvi érdekességei várják. A nap a híres Playa Mamitas partján és a hatalmas, történelmi fa árnyékában ér véget.",
+        "ro": "Ziua începe în liniștitul Parc al Colonialiștilor, înainte de a simți aventura pe plajă la Skydive Playa. Pe la prânz, vă scufundați în arta și iluziile orașului la Muzeul Frida Kahlo și Muzeul 3D. După-amiaza vă așteaptă fascinantul Aquarium Beach și descoperirile lingvistice de la Playalingua. Ziua se încheie relaxant pe Playa Mamitas și la impresionantul copac secular.",
+        "en": "The day begins in the quiet Settlers Park before you get a taste of beachside adventure at Skydive Playa. Around midday, dive into art and illusions at the Frida Kahlo Museum and 3D Museum. In the afternoon, the fascinating Aquarium Beach and the linguistic discoveries at Playalingua await. The day ends relaxingly at Playa Mamitas and by the impressive ancient tree."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 4.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "settlers park",
+            "hu": "settlers park",
+            "ro": "settlers park",
+            "en": "settlers park"
+          },
+          "coords": [
+            -87.074981,
+            20.622004
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Settlers Park, einer grünen Oase, in der Sie die lokale Atmosphäre einatmen und frische Früchte von den morgendlichen Händlern genießen können.",
+            "hu": "Kezdje a napot a Settlers Parkban, a város zöld szívében, ahol átérezheti a helyi hangulatot és megkóstolhatja a friss gyümölcsöket a reggeli árusoktól.",
+            "ro": "Începeți în Parcul Colonialiștilor, o oază verde unde puteți simți atmosfera locală și savura fructe proaspete de la vânzătorii matinali.",
+            "en": "Start at Settlers Park, a green oasis where you can soak up the local atmosphere and enjoy fresh fruit from the morning vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Frida Kahlo",
+            "hu": "Frida Kahlo",
+            "ro": "Frida Kahlo",
+            "en": "Frida Kahlo"
+          },
+          "coords": [
+            -87.072757,
+            20.625921
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Frida Kahlo Museum in das Leben der ikonischen Künstlerin ein und buchen Sie Ihre Tickets vorab, um längere Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el az ikonikus művésznő életében a Frida Kahlo Múzeumban, és foglalja le jegyeit előre, hogy elkerülje a hosszabb várakozást.",
+            "ro": "Scufundați-vă în viața iconicei artiste la Muzeul Frida Kahlo și rezervați-vă biletele în avans pentru a evita cozile lungi.",
+            "en": "Dive into the life of the iconic artist at the Frida Kahlo Museum and book your tickets in advance to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "3D Museum",
+            "hu": "3D Museum",
+            "ro": "3D Museum",
+            "en": "3D Museum"
+          },
+          "coords": [
+            -87.073352,
+            20.626961
+          ],
+          "category": "landmark",
+          "arrive_at": "12:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive optische Täuschungen im 3D Museum und bringen Sie unbedingt eine Kamera mit, um die lustigen Posen mit der Familie festzuhalten.",
+            "hu": "Tapasztalja meg az interaktív optikai csalódásokat a 3D Múzeumban, és mindenképpen hozzon magával fényképezőgépet a vicces családi pózok megörökítéséhez.",
+            "ro": "Experimentați iluzii optice interactive la Muzeul 3D și asigurați-vă că aduceți un aparat foto pentru a surprinde ipostazele amuzante.",
+            "en": "Experience interactive optical illusions at the 3D Museum and be sure to bring a camera to capture the fun poses with your family."
+          }
+        },
+        {
+          "name": {
+            "de": "Playalingua",
+            "hu": "Playalingua",
+            "ro": "Playalingua",
+            "en": "Playalingua"
+          },
+          "coords": [
+            -87.069882,
+            20.630889
+          ],
+          "category": "cultural",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Kultur bei Playalingua kennen, wo interaktive Sprachausstellungen dazu einladen, ein paar nützliche spanische Phrasen zu üben.",
+            "hu": "Ismerje meg a helyi kultúrát a Playalingua központban, ahol az interaktív nyelvi kiállítások arra ösztönzik, hogy gyakoroljon néhány hasznos spanyol kifejezést.",
+            "ro": "Cunoașteți cultura locală la Playalingua, unde expozițiile lingvistice interactive vă invită să exersați câteva expresii spaniole utile.",
+            "en": "Get to know the local culture at Playalingua, where interactive language exhibits invite you to practice a few useful Spanish phrases."
+          }
+        },
+        {
+          "name": {
+            "de": "tree of 18m diameter",
+            "hu": "tree of 18m diameter",
+            "ro": "tree of 18m diameter",
+            "en": "tree of 18m diameter"
+          },
+          "coords": [
+            -87.064815,
+            20.634554
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Baum mit 18 Metern Durchmesser, ein wahres Naturwunder, und nehmen Sie sich Zeit für die beeindruckenden Details seiner Rinde.",
+            "hu": "Csodálja meg a 18 méter átmérőjű történelmi fát, amely egy igazi természeti csoda, és szánjon időt a kérgének lenyűgöző részleteire.",
+            "ro": "Admirați copacul istoric cu diametrul de 18 metri, o adevărată minune a naturii, și luați-vă timp pentru a observa detaliile impresionante ale scoarței sale.",
+            "en": "Admire the historic tree with an 18-meter diameter, a true natural wonder, and take your time to appreciate the impressive details of its bark."
+          }
+        },
+        {
+          "name": {
+            "de": "Residencia Art Project",
+            "hu": "Residencia Art Project",
+            "ro": "Residencia Art Project",
+            "en": "Residencia Art Project"
+          },
+          "coords": [
+            -87.06589,
+            20.635217
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Lassen Sie sich vom Residencia Art Project inspirieren, wo zeitgenössische Künstler ihre Werke präsentieren und oft auch persönlich für spannende Gespräche anwesend sind.",
+            "hu": "Merítsen ihletet a Residencia Art Project kortárs művészeinek alkotásaiból, akik gyakran személyesen is jelen vannak egy-egy izgalmas beszélgetésre.",
+            "ro": "Lăsați-vă inspirați de Residencia Art Project, unde artiștii contemporani își prezintă lucrările și sunt adesea prezenți pentru discuții interesante.",
+            "en": "Get inspired by the Residencia Art Project, where contemporary artists present their works and are often personally present for exciting conversations."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa De Las Hamacas",
+            "hu": "La Casa De Las Hamacas",
+            "ro": "La Casa De Las Hamacas",
+            "en": "La Casa De Las Hamacas"
+          },
+          "coords": [
+            -87.068071,
+            20.641773
+          ],
+          "category": "landmark",
+          "arrive_at": "16:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Besuchen Sie La Casa De Las Hamacas für authentisches mexikanisches Handwerk und prüfen Sie die Qualität der handgewebten Hängematten vor dem Kauf.",
+            "hu": "Látogasson el a La Casa De Las Hamacas üzletébe autentikus mexikói kézműves termékekért, és vásárlás előtt ellenőrizze a kézzel szőtt függőágyak minőségét.",
+            "ro": "Vizitați La Casa De Las Hamacas pentru meșteșuguri autentice mexicane și verificați calitatea hamacelor țesute manual înainte de a cumpăra.",
+            "en": "Visit La Casa De Las Hamacas for authentic Mexican crafts and check the quality of the hand-woven hammocks before making a purchase."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro De La Ciudad Solidaridad",
+            "hu": "Teatro De La Ciudad Solidaridad",
+            "ro": "Teatro De La Ciudad Solidaridad",
+            "en": "Teatro De La Ciudad Solidaridad"
+          },
+          "coords": [
+            -87.082889,
+            20.652626
+          ],
+          "category": "cultural",
+          "arrive_at": "17:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie am Abend eine lokale Aufführung im Teatro De La Ciudad Solidaridad und sichern Sie sich Ihre Plätze im Voraus, um das kulturelle Flair voll auszukosten.",
+            "hu": "Élvezze az esti helyi előadást a Teatro De La Ciudad Solidaridad színházban, és foglalja le a helyét előre, hogy teljesen átélje a kulturális hangulatot.",
+            "ro": "Bucurați-vă de o reprezentație locală seara la Teatro De La Ciudad Solidaridad și asigurați-vă locurile în avans pentru a savura pe deplin atmosfera culturală.",
+            "en": "Enjoy a local evening performance at the Teatro De La Ciudad Solidaridad and secure your seats in advance to fully experience the cultural flair."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet gemütlich im Settlers Park und führt Sie schnell zu den kulturellen Highlights rund um das Frida Kahlo Museum und das 3D Museum. Nachmittags radeln Sie zu Playalingua und bewundern den gigantischen Baum mit 18 Metern Durchmesser. Die Tour setzt sich künstlerisch im Residencia Art Project fort und führt Sie zur traditionellen Casa De Las Hamacas. Abends krönt ein Besuch im Teatro De La Ciudad Solidaridad diesen ereignisreichen Tag.",
+        "hu": "A kerékpártúra a Settlers Parkból indul, és gyorsan a Frida Kahlo Múzeum és a 3D Múzeum kulturális látnivalóihoz vezet. Délután a Playalingua felé teker, majd megcsodálja a 18 méter átmérőjű óriási fát. Az út a Residencia Art Project művészeti terébe, majd a hagyományos Casa De Las Hamacasba folytatódik. Az estét a Teatro De La Ciudad Solidaridad előadása koronázza meg.",
+        "ro": "Turul cu bicicleta începe relaxant în Parcul Colonialiștilor și vă duce rapid către atracțiile culturale de la Muzeul Frida Kahlo și Muzeul 3D. După-amiaza pedalați spre Playalingua și admirați uriașul copac. Traseul continuă artistic la Residencia Art Project și vă duce la tradiționala Casa De Las Hamacas. Seara se încheie glorios cu o vizită la Teatro De La Ciudad Solidaridad.",
+        "en": "Your bike tour starts leisurely in Settlers Park and quickly leads you to the cultural highlights around the Frida Kahlo Museum and 3D Museum. In the afternoon, cycle to Playalingua and admire the gigantic 18-meter diameter tree. The tour continues artistically at the Residencia Art Project and takes you to the traditional Casa De Las Hamacas. In the evening, a visit to the Teatro De La Ciudad Solidaridad crowns this eventful day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 13.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Xcaret Waterpark",
+            "hu": "Xcaret Waterpark",
+            "ro": "Xcaret Waterpark",
+            "en": "Xcaret Waterpark"
+          },
+          "coords": [
+            -87.119648,
+            20.578545
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie unvergessliche Wasserabenteuer im Xcaret Waterpark, bringen Sie biologisch abbaubare Sonnencreme mit und starten Sie früh, um die Naturlandschaften zu genießen.",
+            "hu": "Éljen át felejthetetlen vízi kalandokat a Xcaret Waterparkban, hozzon biológiailag lebomló naptejet, és induljon korán, hogy kiélvezze a természeti tájakat.",
+            "ro": "Experimentați aventuri acvatice de neuitat la Xcaret Waterpark, aduceți cremă de soare biodegradabilă și începeți devreme pentru a vă bucura de peisajele naturale.",
+            "en": "Experience unforgettable water adventures at Xcaret Waterpark, bring biodegradable sunscreen, and start early to fully enjoy the natural landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dog rescue center volunteering",
+            "hu": "Dog rescue center volunteering",
+            "ro": "Dog rescue center volunteering",
+            "en": "Dog rescue center volunteering"
+          },
+          "coords": [
+            -87.105852,
+            20.633978
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Unterstützen Sie das Dog Rescue Center mit freiwilliger Arbeit, streicheln Sie die liebevollen Hunde und bringen Sie eine kleine Spende in Form von Futter mit.",
+            "hu": "Támogassa a kutyamentő központot önkéntes munkával, simogassa meg a barátságos kutyákat, és hozzon magával egy kis adományt eledel formájában.",
+            "ro": "Sprijiniți centrul de salvare a câinilor cu muncă voluntară, mângâiați câinii afectuoși și aduceți o mică donație sub formă de mâncare.",
+            "en": "Support the dog rescue center with voluntary work, pet the affectionate dogs, and bring a small donation in the form of pet food."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -87.083506,
+            20.651326
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Kunstwerke in der Casa de la Cultura, wo häufig kleine, aber feine Ausstellungen stattfinden, die einen authentischen Einblick geben.",
+            "hu": "Fedezze fel a helyi művészeti alkotásokat a Casa de la Cultura épületében, ahol gyakran kis, de színvonalas kiállítások nyújtanak autentikus betekintést.",
+            "ro": "Descoperiți operele de artă locale la Casa de la Cultura, unde expoziții mici, dar rafinate, oferă adesea o perspectivă autentică asupra orașului.",
+            "en": "Discover local artworks at the Casa de la Cultura, where small but fine exhibitions often take place, providing an authentic insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro De La Ciudad Solidaridad",
+            "hu": "Teatro De La Ciudad Solidaridad",
+            "ro": "Teatro De La Ciudad Solidaridad",
+            "en": "Teatro De La Ciudad Solidaridad"
+          },
+          "coords": [
+            -87.082889,
+            20.652626
+          ],
+          "category": "cultural",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie am Abend eine lokale Aufführung im Teatro De La Ciudad Solidaridad und sichern Sie sich Ihre Plätze im Voraus, um das kulturelle Flair voll auszukosten.",
+            "hu": "Élvezze az esti helyi előadást a Teatro De La Ciudad Solidaridad színházban, és foglalja le a helyét előre, hogy teljesen átélje a kulturális hangulatot.",
+            "ro": "Bucurați-vă de o reprezentație locală seara la Teatro De La Ciudad Solidaridad și asigurați-vă locurile în avans pentru a savura pe deplin atmosfera culturală.",
+            "en": "Enjoy a local evening performance at the Teatro De La Ciudad Solidaridad and secure your seats in advance to fully experience the cultural flair."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa De Las Hamacas",
+            "hu": "La Casa De Las Hamacas",
+            "ro": "La Casa De Las Hamacas",
+            "en": "La Casa De Las Hamacas"
+          },
+          "coords": [
+            -87.068071,
+            20.641773
+          ],
+          "category": "landmark",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie La Casa De Las Hamacas für authentisches mexikanisches Handwerk und prüfen Sie die Qualität der handgewebten Hängematten vor dem Kauf.",
+            "hu": "Látogasson el a La Casa De Las Hamacas üzletébe autentikus mexikói kézműves termékekért, és vásárlás előtt ellenőrizze a kézzel szőtt függőágyak minőségét.",
+            "ro": "Vizitați La Casa De Las Hamacas pentru meșteșuguri autentice mexicane și verificați calitatea hamacelor țesute manual înainte de a cumpăra.",
+            "en": "Visit La Casa De Las Hamacas for authentic Mexican crafts and check the quality of the hand-woven hammocks before making a purchase."
+          }
+        },
+        {
+          "name": {
+            "de": "Residencia Art Project",
+            "hu": "Residencia Art Project",
+            "ro": "Residencia Art Project",
+            "en": "Residencia Art Project"
+          },
+          "coords": [
+            -87.06589,
+            20.635217
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie sich vom Residencia Art Project inspirieren, wo zeitgenössische Künstler ihre Werke präsentieren und oft auch persönlich für spannende Gespräche anwesend sind.",
+            "hu": "Merítsen ihletet a Residencia Art Project kortárs művészeinek alkotásaiból, akik gyakran személyesen is jelen vannak egy-egy izgalmas beszélgetésre.",
+            "ro": "Lăsați-vă inspirați de Residencia Art Project, unde artiștii contemporani își prezintă lucrările și sunt adesea prezenți pentru discuții interesante.",
+            "en": "Get inspired by the Residencia Art Project, where contemporary artists present their works and are often personally present for exciting conversations."
+          }
+        },
+        {
+          "name": {
+            "de": "3D Museum",
+            "hu": "3D Museum",
+            "ro": "3D Museum",
+            "en": "3D Museum"
+          },
+          "coords": [
+            -87.073352,
+            20.626961
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive optische Täuschungen im 3D Museum und bringen Sie unbedingt eine Kamera mit, um die lustigen Posen mit der Familie festzuhalten.",
+            "hu": "Tapasztalja meg az interaktív optikai csalódásokat a 3D Múzeumban, és mindenképpen hozzon magával fényképezőgépet a vicces családi pózok megörökítéséhez.",
+            "ro": "Experimentați iluzii optice interactive la Muzeul 3D și asigurați-vă că aduceți un aparat foto pentru a surprinde ipostazele amuzante.",
+            "en": "Experience interactive optical illusions at the 3D Museum and be sure to bring a camera to capture the fun poses with your family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr automobiler Tag startet aufregend im weitläufigen Xcaret Waterpark, wo Natur und Wasser locken. Nach dieser Erfrischung geht es weiter zum Dog Rescue Center, um eine gute Tat zu vollbringen, gefolgt von kulturellen Eindrücken in der Casa de la Cultura. Gegen Nachmittag besuchen Sie das benachbarte Teatro De La Ciudad Solidaridad und erkunden das Kunsthandwerk bei La Casa De Las Hamacas. Der Tag klingt mit inspirierender Kunst im Residencia Art Project und faszinierenden optischen Illusionen im 3D Museum aus.",
+        "hu": "Az autós nap izgalmasan indul a kiterjedt Xcaret Waterparkban, ahol a természet és a víz hívogat. A felfrissülés után a kutyamentő központba indul, hogy egy jó cselekedetet vigyen véghez, amit a Casa de la Cultura kulturális benyomásai követnek. Délután ellátogat a szomszédos Teatro De La Ciudad Solidaridadba, és felfedezi a La Casa De Las Hamacas kézműves termékeit. A napot a Residencia Art Project inspiráló művészete és a 3D Múzeum lenyűgöző optikai illúziói zárják.",
+        "ro": "Ziua dvs. cu mașina începe captivant în imensul Xcaret Waterpark, unde natura și apa vă atrag. După această înviorare, mergeți la Centrul de salvare a câinilor pentru o faptă bună, urmată de impresii culturale la Casa de la Cultura. După-amiaza vizitați Teatro De La Ciudad Solidaridad din apropiere și explorați artizanatul la La Casa De Las Hamacas. Ziua se încheie cu arta inspiratoare de la Residencia Art Project și iluziile optice fascinante de la Muzeul 3D.",
+        "en": "Your driving day starts excitingly in the expansive Xcaret Waterpark, where nature and water beckon. After this refreshment, head to the dog rescue center to do a good deed, followed by cultural impressions at the Casa de la Cultura. In the afternoon, visit the neighboring Teatro De La Ciudad Solidaridad and explore the crafts at La Casa De Las Hamacas. The day winds down with inspiring art at the Residencia Art Project and fascinating optical illusions at the 3D Museum."
+      }
+    }
+  }
+}

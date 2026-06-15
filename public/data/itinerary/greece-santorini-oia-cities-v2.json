@@ -1,0 +1,566 @@
+{
+  "city_id": "greece-santorini-oia-cities-v2",
+  "anchor": {
+    "name": "Oia (Santorini)",
+    "coords": [
+      25.375694,
+      36.46234
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chariot with flower",
+            "hu": "Chariot with flower",
+            "ro": "Chariot with flower",
+            "en": "Chariot with flower"
+          },
+          "coords": [
+            25.379847,
+            36.4622
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Kutsche mit Blumen, die als charmantes Symbol von Oia gilt, und nutzen Sie das weiche Morgenlicht für perfekte Fotos.",
+            "hu": "Fedezze fel a virágokkal díszített szekeret, amely Oia bájos szimbóluma, és használja ki a lágy reggeli fényeket a tökéletes fotók elkészítéséhez.",
+            "ro": "Descoperiți trăsura colorată cu flori, considerată un simbol fermecător al Oiei, și profitați de lumina blândă a dimineții pentru fotografii perfecte.",
+            "en": "Discover the colorful flower chariot, a charming symbol of Oia, and take advantage of the soft morning light for perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Dome",
+            "hu": "Blue Dome",
+            "ro": "Blue Dome",
+            "en": "Blue Dome"
+          },
+          "coords": [
+            25.376107,
+            36.461326
+          ],
+          "category": "natural",
+          "arrive_at": "09:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen blauen Kuppeln, die das klassische Bild von Santorin prägen, und kommen Sie früh, um den großen Menschenmassen auszuweichen.",
+            "hu": "Csodálja meg az ikonikus kék kupolákat, amelyek Szantorini klasszikus arculatát adják, és érkezzen korán, hogy elkerülje a nagy tömeget.",
+            "ro": "Admirați faimoasele cupole albastre care definesc imaginea clasică a insulei Santorini și sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the iconic blue domes that define the classic image of Santorini, and arrive early to avoid the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galanopoulos Art Gallery",
+            "hu": "Galanopoulos Art Gallery",
+            "ro": "Galanopoulos Art Gallery",
+            "en": "Galanopoulos Art Gallery"
+          },
+          "coords": [
+            25.374824,
+            36.461646
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie faszinierende lokale Kunstwerke in der Galanopoulos-Galerie, die die ägäische Kultur widerspiegeln, und nehmen Sie sich Zeit für die Details.",
+            "hu": "Tekintse meg a Galanopoulos Művészeti Galéria lenyűgöző helyi alkotásait, amelyek az égei kultúrát tükrözik, és szánjon időt a részletekre.",
+            "ro": "Admirați operele de artă locale fascinante la Galeria Galanopoulos, care reflectă cultura egeeană, și alocați-vă timp pentru a aprecia detaliile.",
+            "en": "View fascinating local artworks at the Galanopoulos Art Gallery that reflect Aegean culture, and take your time to appreciate the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Naval Museum Oia",
+            "hu": "Naval Museum Oia",
+            "ro": "Naval Museum Oia",
+            "en": "Naval Museum Oia"
+          },
+          "coords": [
+            25.373886,
+            36.461591
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Schifffahrtsmuseum in die maritime Geschichte Oias ein, die den Reichtum der Insel begründete, und lesen Sie die englischen Informationstafeln sorgfältig durch.",
+            "hu": "Merüljön el Oia tengerészeti történelmében a múzeumban, amely a sziget gazdagságát megalapozta, és olvassa el figyelmesen az angol nyelvű tájékoztatókat.",
+            "ro": "Aprofundați istoria maritimă a Oiei în muzeul naval, care a stat la baza bogăției insulei, și citiți cu atenție panourile informative.",
+            "en": "Delve into Oia's maritime history at the Naval Museum, which founded the island's wealth, and read the English information panels carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadel of Oia",
+            "hu": "Citadel of Oia",
+            "ro": "Citadel of Oia",
+            "en": "Citadel of Oia"
+          },
+          "coords": [
+            25.37324,
+            36.460189
+          ],
+          "category": "castle",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Zitadelle von Oia, die einst dem Schutz vor Piraten diente, und tragen Sie rutschfestes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel az oiai fellegvár romjait, amely egykor a kalózok elleni védelmet szolgálta, és viseljen csúszásmentes lábbelit az egyenetlen utakon.",
+            "ro": "Explorați ruinele Citadelei din Oia, care odată servea drept protecție împotriva piraților, și purtați încălțăminte antiderapantă pentru potecile inegale.",
+            "en": "Explore the ruins of the Citadel of Oia, which once served as protection against pirates, and wear non-slip shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammoudi",
+            "hu": "Ammoudi",
+            "ro": "Ammoudi",
+            "en": "Ammoudi"
+          },
+          "coords": [
+            25.371071,
+            36.460411
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie die malerische Bucht von Ammoudi mit ihrem kristallklaren Wasser, die ein authentisches Fischerdorf-Erlebnis bietet, und reservieren Sie vorab einen Tisch in einer der Tavernen.",
+            "hu": "Látogasson el a festői Ammoudi-öbölbe, mely kristálytiszta vizével autentikus halászfalu élményt nyújt, és foglaljon előre asztalt az egyik tavernában.",
+            "ro": "Vizitați golful pitoresc Ammoudi cu apele sale cristaline, oferind o experiență autentică de sat pescăresc, și rezervați din timp o masă la o tavernă.",
+            "en": "Visit the picturesque Ammoudi Bay with its crystal clear waters offering an authentic fishing village experience, and book a table in advance at one of the tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Lioyerma Cafe Pool",
+            "hu": "Lioyerma Cafe Pool",
+            "ro": "Lioyerma Cafe Pool",
+            "en": "Lioyerma Cafe Pool"
+          },
+          "coords": [
+            25.37199,
+            36.462159
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Lioyerma Cafe Pool, der einen fantastischen Blick auf den Sonnenuntergang bietet, und bestellen Sie ein erfrischendes lokales Getränk.",
+            "hu": "Pihenjen a Lioyerma Cafe Pool partján, amely fantasztikus kilátást nyújt a naplementére, és rendeljen egy frissítő helyi italt.",
+            "ro": "Relaxați-vă la Lioyerma Cafe Pool, care oferă o vedere fantastică la apus, și comandați o băutură locală răcoritoare.",
+            "en": "Relax by the Lioyerma Cafe Pool, which offers a fantastic view of the sunset, and order a refreshing local drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang beginnt mit charmanten Wahrzeichen und der ikonischen blauen Kuppel, wo Sie die klassische Kykladen-Architektur im weichen Morgenlicht erleben. Mittags widmen wir uns der Kultur und Geschichte in den örtlichen Galerien und dem Schifffahrtsmuseum von Oia. Am Nachmittag erkunden wir die historische Zitadelle und steigen hinab zur malerischen Bucht von Ammoudi, um das authentische Inselflair zu spüren. Der Abend klingt entspannt an einem Pool-Café aus, wo Sie den weltberühmten Sonnenuntergang bei einem erfrischenden Getränk in vollen Zügen genießen können.",
+        "hu": "A séta bájos nevezetességekkel és az ikonikus kék kupolával kezdődik, ahol a lágy reggeli fényben csodálhatja meg a kükládikus építészetet. Délben a kultúrának és a történelemnek szenteljük az időt a helyi galériákban és az oiai tengerészeti múzeumban. Délután felfedezzük a történelmi fellegvárat, majd leereszkedünk a festői Ammoudi-öbölbe az autentikus szigeti hangulatért. Az estét egy medencés kávézóban pihenve zárjuk, ahol egy hűsítő ital kíséretében élvezheti a világhírű naplementét.",
+        "ro": "Plimbarea începe cu repere fermecătoare și faimoasa cupolă albastră, unde veți admira arhitectura cicladică în lumina blândă a dimineții. La prânz, ne dedicăm culturii și istoriei explorând galeriile locale și muzeul maritim din Oia. După-amiaza descoperim citadela istorică și coborâm spre pitorescul golf Ammoudi pentru a simți atmosfera autentică a insulei. Seara se încheie relaxant la o cafenea cu piscină, unde vă puteți bucura din plin de renumitul apus de soare alături de o băutură răcoritoare.",
+        "en": "The walk begins with charming landmarks and the iconic blue dome, where you will experience classic Cycladic architecture in the soft morning light. At midday, we dedicate our time to culture and history in the local galleries and Oia's Naval Museum. In the afternoon, we explore the historical citadel and descend to the picturesque Ammoudi Bay to feel the authentic island atmosphere. The evening ends in a relaxing pool cafe, where you can fully enjoy the world-famous sunset with a refreshing drink."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 2.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chariot with flower",
+            "hu": "Chariot with flower",
+            "ro": "Chariot with flower",
+            "en": "Chariot with flower"
+          },
+          "coords": [
+            25.379847,
+            36.4622
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Kutsche mit Blumen, die als charmantes Symbol von Oia gilt, und nutzen Sie das weiche Morgenlicht für perfekte Fotos.",
+            "hu": "Fedezze fel a virágokkal díszített szekeret, amely Oia bájos szimbóluma, és használja ki a lágy reggeli fényeket a tökéletes fotók elkészítéséhez.",
+            "ro": "Descoperiți trăsura colorată cu flori, considerată un simbol fermecător al Oiei, și profitați de lumina blândă a dimineții pentru fotografii perfecte.",
+            "en": "Discover the colorful flower chariot, a charming symbol of Oia, and take advantage of the soft morning light for perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Dome",
+            "hu": "Blue Dome",
+            "ro": "Blue Dome",
+            "en": "Blue Dome"
+          },
+          "coords": [
+            25.376107,
+            36.461326
+          ],
+          "category": "natural",
+          "arrive_at": "09:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen blauen Kuppeln, die das klassische Bild von Santorin prägen, und kommen Sie früh, um den großen Menschenmassen auszuweichen.",
+            "hu": "Csodálja meg az ikonikus kék kupolákat, amelyek Szantorini klasszikus arculatát adják, és érkezzen korán, hogy elkerülje a nagy tömeget.",
+            "ro": "Admirați faimoasele cupole albastre care definesc imaginea clasică a insulei Santorini și sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the iconic blue domes that define the classic image of Santorini, and arrive early to avoid the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galanopoulos Art Gallery",
+            "hu": "Galanopoulos Art Gallery",
+            "ro": "Galanopoulos Art Gallery",
+            "en": "Galanopoulos Art Gallery"
+          },
+          "coords": [
+            25.374824,
+            36.461646
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie faszinierende lokale Kunstwerke in der Galanopoulos-Galerie, die die ägäische Kultur widerspiegeln, und nehmen Sie sich Zeit für die Details.",
+            "hu": "Tekintse meg a Galanopoulos Művészeti Galéria lenyűgöző helyi alkotásait, amelyek az égei kultúrát tükrözik, és szánjon időt a részletekre.",
+            "ro": "Admirați operele de artă locale fascinante la Galeria Galanopoulos, care reflectă cultura egeeană, și alocați-vă timp pentru a aprecia detaliile.",
+            "en": "View fascinating local artworks at the Galanopoulos Art Gallery that reflect Aegean culture, and take your time to appreciate the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Naval Museum Oia",
+            "hu": "Naval Museum Oia",
+            "ro": "Naval Museum Oia",
+            "en": "Naval Museum Oia"
+          },
+          "coords": [
+            25.373886,
+            36.461591
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Schifffahrtsmuseum in die maritime Geschichte Oias ein, die den Reichtum der Insel begründete, und lesen Sie die englischen Informationstafeln sorgfältig durch.",
+            "hu": "Merüljön el Oia tengerészeti történelmében a múzeumban, amely a sziget gazdagságát megalapozta, és olvassa el figyelmesen az angol nyelvű tájékoztatókat.",
+            "ro": "Aprofundați istoria maritimă a Oiei în muzeul naval, care a stat la baza bogăției insulei, și citiți cu atenție panourile informative.",
+            "en": "Delve into Oia's maritime history at the Naval Museum, which founded the island's wealth, and read the English information panels carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadel of Oia",
+            "hu": "Citadel of Oia",
+            "ro": "Citadel of Oia",
+            "en": "Citadel of Oia"
+          },
+          "coords": [
+            25.37324,
+            36.460189
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Zitadelle von Oia, die einst dem Schutz vor Piraten diente, und tragen Sie rutschfestes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel az oiai fellegvár romjait, amely egykor a kalózok elleni védelmet szolgálta, és viseljen csúszásmentes lábbelit az egyenetlen utakon.",
+            "ro": "Explorați ruinele Citadelei din Oia, care odată servea drept protecție împotriva piraților, și purtați încălțăminte antiderapantă pentru potecile inegale.",
+            "en": "Explore the ruins of the Citadel of Oia, which once served as protection against pirates, and wear non-slip shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammoudi",
+            "hu": "Ammoudi",
+            "ro": "Ammoudi",
+            "en": "Ammoudi"
+          },
+          "coords": [
+            25.371071,
+            36.460411
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie die malerische Bucht von Ammoudi mit ihrem kristallklaren Wasser, die ein authentisches Fischerdorf-Erlebnis bietet, und reservieren Sie vorab einen Tisch in einer der Tavernen.",
+            "hu": "Látogasson el a festői Ammoudi-öbölbe, mely kristálytiszta vizével autentikus halászfalu élményt nyújt, és foglaljon előre asztalt az egyik tavernában.",
+            "ro": "Vizitați golful pitoresc Ammoudi cu apele sale cristaline, oferind o experiență autentică de sat pescăresc, și rezervați din timp o masă la o tavernă.",
+            "en": "Visit the picturesque Ammoudi Bay with its crystal clear waters offering an authentic fishing village experience, and book a table in advance at one of the tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Lioyerma Cafe Pool",
+            "hu": "Lioyerma Cafe Pool",
+            "ro": "Lioyerma Cafe Pool",
+            "en": "Lioyerma Cafe Pool"
+          },
+          "coords": [
+            25.37199,
+            36.462159
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Lioyerma Cafe Pool, der einen fantastischen Blick auf den Sonnenuntergang bietet, und bestellen Sie ein erfrischendes lokales Getränk.",
+            "hu": "Pihenjen a Lioyerma Cafe Pool partján, amely fantasztikus kilátást nyújt a naplementére, és rendeljen egy frissítő helyi italt.",
+            "ro": "Relaxați-vă la Lioyerma Cafe Pool, care oferă o vedere fantastică la apus, și comandați o băutură locală răcoritoare.",
+            "en": "Relax by the Lioyerma Cafe Pool, which offers a fantastic view of the sunset, and order a refreshing local drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Katharos beach",
+            "hu": "Katharos beach",
+            "ro": "Katharos beach",
+            "en": "Katharos beach"
+          },
+          "coords": [
+            25.368381,
+            36.467382
+          ],
+          "category": "recreational",
+          "arrive_at": "16:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am schwarzen Kiesstrand von Katharos, abseits der Touristenpfade, und bringen Sie unbedingt Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a nyugalmat Katharos fekete kavicsos strandján, távol a turisták által járt utaktól, és feltétlenül vigyen magával saját törölközőt.",
+            "ro": "Bucurați-vă de liniștea de pe plaja cu pietriș negru din Katharos, departe de traseele turistice, și asigurați-vă că aduceți propriul prosop.",
+            "en": "Enjoy the tranquility on the black pebble beach of Katharos, away from the tourist trails, and be sure to bring your own towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour mit den farbenfrohen Symbolen von Oia und den berühmten blauen Kuppeln, bevor die Straßen zu voll werden. Am Mittag radeln Sie entspannt von Kunstgalerien zum Schifffahrtsmuseum und tauchen tief in die maritime Vergangenheit ein. Nachmittags besuchen Sie die alte Zitadelle, werfen einen Blick auf Ammoudi und fahren weiter zu einem erfrischenden Pool, um neue Energie zu tanken. Den Abschluss bildet der ruhigere Strand von Katharos, wo Sie fernab des Trubels den Tag mit herrlichem Meerblick ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát Oia színes szimbólumaival és a híres kék kupolákkal, még mielőtt az utcák túlságosan megtelnének. Délben kényelmesen eltekerhet a művészeti galériáktól a tengerészeti múzeumig, elmélyedve a tengeri múltban. Délután meglátogatjuk a régi fellegvárat, letekintünk Ammoudira, majd egy hűsítő medencéhez hajtunk energiát gyűjteni. A napot a csendesebb Katharos strandon zárjuk, ahol a nyüzsgéstől távol, csodálatos tengerparti kilátás mellett pihenhet.",
+        "ro": "Începeți turul cu bicicleta cu simbolurile colorate din Oia și faimoasele cupole albastre, înainte ca străzile să devină prea aglomerate. La prânz, pedalați relaxat între galeriile de artă și muzeul maritim, aprofundând trecutul maritim. După-amiaza vizităm vechea citadelă, aruncăm o privire spre Ammoudi și ne îndreptăm spre o piscină răcoroasă pentru a ne reîncărca bateriile. Ziua se încheie pe plaja mai liniștită din Katharos, unde vă puteți relaxa departe de agitație, cu o priveliște magnifică la mare.",
+        "en": "Start your bike tour with the colorful symbols of Oia and the famous blue domes before the streets become too crowded. At midday, pedal leisurely from art galleries to the naval museum, delving deep into the maritime past. In the afternoon, visit the old citadel, take a look at Ammoudi, and continue to a refreshing pool to recharge your energy. The day concludes at the quieter Katharos beach, where you can unwind away from the hustle and bustle with a magnificent sea view."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 2.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chariot with flower",
+            "hu": "Chariot with flower",
+            "ro": "Chariot with flower",
+            "en": "Chariot with flower"
+          },
+          "coords": [
+            25.379847,
+            36.4622
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Kutsche mit Blumen, die als charmantes Symbol von Oia gilt, und nutzen Sie das weiche Morgenlicht für perfekte Fotos.",
+            "hu": "Fedezze fel a virágokkal díszített szekeret, amely Oia bájos szimbóluma, és használja ki a lágy reggeli fényeket a tökéletes fotók elkészítéséhez.",
+            "ro": "Descoperiți trăsura colorată cu flori, considerată un simbol fermecător al Oiei, și profitați de lumina blândă a dimineții pentru fotografii perfecte.",
+            "en": "Discover the colorful flower chariot, a charming symbol of Oia, and take advantage of the soft morning light for perfect photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Dome",
+            "hu": "Blue Dome",
+            "ro": "Blue Dome",
+            "en": "Blue Dome"
+          },
+          "coords": [
+            25.376107,
+            36.461326
+          ],
+          "category": "natural",
+          "arrive_at": "09:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen blauen Kuppeln, die das klassische Bild von Santorin prägen, und kommen Sie früh, um den großen Menschenmassen auszuweichen.",
+            "hu": "Csodálja meg az ikonikus kék kupolákat, amelyek Szantorini klasszikus arculatát adják, és érkezzen korán, hogy elkerülje a nagy tömeget.",
+            "ro": "Admirați faimoasele cupole albastre care definesc imaginea clasică a insulei Santorini și sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the iconic blue domes that define the classic image of Santorini, and arrive early to avoid the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "206 POOL",
+            "hu": "206 POOL",
+            "ro": "206 POOL",
+            "en": "206 POOL"
+          },
+          "coords": [
+            25.375013,
+            36.464741
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich im 206 POOL, einem modernen Rückzugsort inmitten der Insel, und nutzen Sie die bequemen Sonnenliegen für eine entspannte Pause.",
+            "hu": "Frissüljön fel a 206 POOL-ban, amely egy modern menedékhely a sziget szívében, és használja a kényelmes napozóágyakat egy pihentető szünetre.",
+            "ro": "Răcoriți-vă la 206 POOL, un refugiu modern în inima insulei, și folosiți șezlongurile confortabile pentru o pauză relaxantă.",
+            "en": "Refresh yourself at the 206 POOL, a modern retreat in the heart of the island, and use the comfortable sun loungers for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Galanopoulos Art Gallery",
+            "hu": "Galanopoulos Art Gallery",
+            "ro": "Galanopoulos Art Gallery",
+            "en": "Galanopoulos Art Gallery"
+          },
+          "coords": [
+            25.374824,
+            36.461646
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie faszinierende lokale Kunstwerke in der Galanopoulos-Galerie, die die ägäische Kultur widerspiegeln, und nehmen Sie sich Zeit für die Details.",
+            "hu": "Tekintse meg a Galanopoulos Művészeti Galéria lenyűgöző helyi alkotásait, amelyek az égei kultúrát tükrözik, és szánjon időt a részletekre.",
+            "ro": "Admirați operele de artă locale fascinante la Galeria Galanopoulos, care reflectă cultura egeeană, și alocați-vă timp pentru a aprecia detaliile.",
+            "en": "View fascinating local artworks at the Galanopoulos Art Gallery that reflect Aegean culture, and take your time to appreciate the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadel of Oia",
+            "hu": "Citadel of Oia",
+            "ro": "Citadel of Oia",
+            "en": "Citadel of Oia"
+          },
+          "coords": [
+            25.37324,
+            36.460189
+          ],
+          "category": "castle",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Zitadelle von Oia, die einst dem Schutz vor Piraten diente, und tragen Sie rutschfestes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel az oiai fellegvár romjait, amely egykor a kalózok elleni védelmet szolgálta, és viseljen csúszásmentes lábbelit az egyenetlen utakon.",
+            "ro": "Explorați ruinele Citadelei din Oia, care odată servea drept protecție împotriva piraților, și purtați încălțăminte antiderapantă pentru potecile inegale.",
+            "en": "Explore the ruins of the Citadel of Oia, which once served as protection against pirates, and wear non-slip shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammoudi",
+            "hu": "Ammoudi",
+            "ro": "Ammoudi",
+            "en": "Ammoudi"
+          },
+          "coords": [
+            25.371071,
+            36.460411
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie die malerische Bucht von Ammoudi mit ihrem kristallklaren Wasser, die ein authentisches Fischerdorf-Erlebnis bietet, und reservieren Sie vorab einen Tisch in einer der Tavernen.",
+            "hu": "Látogasson el a festői Ammoudi-öbölbe, mely kristálytiszta vizével autentikus halászfalu élményt nyújt, és foglaljon előre asztalt az egyik tavernában.",
+            "ro": "Vizitați golful pitoresc Ammoudi cu apele sale cristaline, oferind o experiență autentică de sat pescăresc, și rezervați din timp o masă la o tavernă.",
+            "en": "Visit the picturesque Ammoudi Bay with its crystal clear waters offering an authentic fishing village experience, and book a table in advance at one of the tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Katharos beach",
+            "hu": "Katharos beach",
+            "ro": "Katharos beach",
+            "en": "Katharos beach"
+          },
+          "coords": [
+            25.368381,
+            36.467382
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am schwarzen Kiesstrand von Katharos, abseits der Touristenpfade, und bringen Sie unbedingt Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a nyugalmat Katharos fekete kavicsos strandján, távol a turisták által járt utaktól, és feltétlenül vigyen magával saját törölközőt.",
+            "ro": "Bucurați-vă de liniștea de pe plaja cu pietriș negru din Katharos, departe de traseele turistice, și asigurați-vă că aduceți propriul prosop.",
+            "en": "Enjoy the tranquility on the black pebble beach of Katharos, away from the tourist trails, and be sure to bring your own towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die bekannten Wahrzeichen und Aussichtspunkte wie die blaue Kuppel, um den Tag mit tollen Eindrücken zu beginnen. Zur Mittagszeit steht Kultur auf dem Programm, wenn Sie zwischen modernen Pools, lokalen Kunstgalerien und der beeindruckenden Zitadelle wechseln. Am Nachmittag führt die Route weiter hinab nach Ammoudi, wo sich die maritimen Traditionen der Insel von ihrer besten Seite zeigen. Abends parken Sie in der Nähe des Strandes von Katharos, wo Sie in ruhiger Atmosphäre das Rauschen der Wellen genießen.",
+        "hu": "Autóval kényelmesen elérheti a jól ismert nevezetességeket és a kék kupolát, hogy lenyűgöző élményekkel indítsa a napot. Délben a kultúráé a főszerep, miközben modern medencék, helyi művészeti galériák és a lenyűgöző fellegvár között közlekedik. Délután az útvonal levezet Ammoudiba, ahol a sziget tengeri hagyományai a legszebb arcukat mutatják. Este Katharos strandjának közelében parkolhat le, ahol csendes környezetben élvezheti a hullámok megnyugtató morajlását.",
+        "ro": "Cu mașina ajungeți confortabil la reperele cunoscute și la cupola albastră pentru a începe ziua cu impresii deosebite. La prânz programul este dedicat culturii, alternând între piscine moderne, galerii locale de artă și impresionanta citadelă. După-amiaza, traseul coboară spre Ammoudi, unde tradițiile maritime ale insulei se arată în toată splendoarea lor. Seara parcați lângă plaja Katharos, unde vă puteți bucura de sunetul liniștitor al valurilor într-o atmosferă liniștită.",
+        "en": "By car, you can comfortably reach the well-known landmarks and the blue dome to start your day with great impressions. At midday, culture is on the agenda as you move between modern pools, local art galleries, and the impressive citadel. In the afternoon, the route continues down to Ammoudi, where the island's maritime traditions are shown at their best. In the evening, park near Katharos beach, where you can enjoy the soothing sound of the waves in a quiet atmosphere."
+      }
+    }
+  }
+}

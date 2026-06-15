@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-villena-cities-v2",
+  "anchor": {
+    "name": "Villena",
+    "coords": [
+      -0.86568,
+      38.6373
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stierkampfarena von Villena",
+            "hu": "Villena Bikaviadal-aréna",
+            "ro": "Arena de tauri din Villena",
+            "en": "Bullring of Villena"
+          },
+          "coords": [
+            -0.868404,
+            38.639586
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Stierkampfarena, die noch heute große kulturelle Veranstaltungen beherbergt, aber prüfen Sie vorher die Öffnungszeiten, da der Zugang variiert.",
+            "hu": "Csodálja meg ennek a történelmi bikaviadal-arénának a lenyűgöző építészetét, amely még mindig jelentős kulturális eseményeknek ad otthont, de előtte ellenőrizze a nyitvatartást, mivel a belső tér látogatása változó.",
+            "ro": "Admirați arhitectura impresionantă a acestei arene istorice care găzduiește și astăzi evenimente culturale majore, dar verificați în prealabil programul de funcționare, deoarece accesul variază.",
+            "en": "Admire the impressive architecture of this historic bullring which still hosts major cultural events, but check the opening hours beforehand as interior access varies."
+          }
+        },
+        {
+          "name": {
+            "de": "Bildhauer Navarro Santafé Museum",
+            "hu": "Navarro Santafé Szobrászati Múzeum",
+            "ro": "Muzeul Sculptorului Navarro Santafé",
+            "en": "Sculptor Navarro Santafé Museum"
+          },
+          "coords": [
+            -0.864106,
+            38.63424
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die tiefgründigen Tierskulpturen des lokalen Künstlers Navarro Santafé und betrachten Sie genau die Bärenstatuen, die Madrids berühmtes Denkmal inspirierten.",
+            "hu": "Csodálja meg a helyi művész, Navarro Santafé mélyreható állatszobrait, és nézze meg közelebbről azokat a medveszobrokat, amelyek Madrid híres emlékművét ihlették.",
+            "ro": "Minunați-vă de sculpturile profunde de animale create de artistul local Navarro Santafé și priviți cu atenție statuile de urși care au inspirat faimosul monument din Madrid.",
+            "en": "Marvel at the profound animal sculptures crafted by local artist Navarro Santafé, and look closely at the bear statues that inspired Madrid's famous monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Atalaya",
+            "hu": "Atalaya Kastély",
+            "ro": "Castelul Atalaya",
+            "en": "Atalaya Castle"
+          },
+          "coords": [
+            -0.860915,
+            38.631934
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie die gut erhaltenen Türme dieser imposanten mittelalterlichen Festung für einen unvergleichlichen Ausblick und kaufen Sie Ihre Tickets frühzeitig, um einen Platz für die Führung zu sichern.",
+            "hu": "Mássza meg ennek az impozáns középkori erődnek a jól karbantartott tornyait a páratlan kilátásért, és mindenképpen korán vegye meg a jegyet, hogy biztosítsa a helyét a vezetett túrán.",
+            "ro": "Urcați în turnurile bine conservate ale acestei impunătoare fortărețe medievale pentru vederi de neegalat și asigurați-vă că vă cumpărați biletele din timp pentru a prinde un tur ghidat.",
+            "en": "Climb the well-preserved towers of this imposing medieval fortress for unmatched views, and make sure to buy your tickets early to secure a guided tour slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria Templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -0.861085,
+            38.630235
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche im Gotik-Renaissance-Stil ein, um ihre Kreuzrippengewölbe zu bestaunen, und besuchen Sie sie am frühen Nachmittag, um das weiche Licht zu genießen.",
+            "hu": "Lépjen be ebbe a gyönyörű gótikus-reneszánsz templomba, hogy megcsodálja bordás boltozatait, és látogasson el kora délután, hogy élvezze az ablakokon átszűrődő lágy fényt.",
+            "ro": "Pășiți în interiorul acestei frumoase biserici gotic-renascentiste pentru a-i admira bolțile cu nervuri și vizitați-o la începutul după-amiezii pentru a vă bucura de lumina blândă.",
+            "en": "Step inside this beautiful Gothic-Renaissance church to marvel at its ribbed vaults, and visit during the early afternoon to enjoy the soft light filtering through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José María Soler",
+            "hu": "José María Soler Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José María Soler",
+            "en": "José María Soler Archaeological Museum"
+          },
+          "coords": [
+            -0.863101,
+            38.631332
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den berühmten Schatz von Villena, eine außergewöhnliche Sammlung von Gold aus der Bronzezeit, und fragen Sie das Museumspersonal nach der faszinierenden Geschichte seiner zufälligen Entdeckung.",
+            "hu": "Fedezze fel a híres villenai kincset, a bronzkori arany rendkívüli gyűjteményét, és kérdezze meg a múzeum munkatársait a véletlen felfedezés lenyűgöző történetéről.",
+            "ro": "Descoperiți faimoasa Comoară din Villena, o colecție extraordinară de aur din Epoca Bronzului, și întrebați personalul muzeului despre povestea fascinantă a descoperirii sale accidentale.",
+            "en": "Discover the famous Treasure of Villena, an extraordinary collection of Bronze Age gold, and ask the museum staff about the fascinating story of its accidental discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Villena",
+            "hu": "Villena Múzeum",
+            "ro": "Muzeul din Villena",
+            "en": "Museum of Villena"
+          },
+          "coords": [
+            -0.86654,
+            38.629945
+          ],
+          "category": "museum",
+          "arrive_at": "15:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die umfassende Geschichte und die lokalen Traditionen ein, die hier präsentiert werden, und nehmen Sie sich Zeit in der ethnografischen Abteilung, um die kulturelle Entwicklung zu würdigen.",
+            "hu": "Merüljön el az itt bemutatott átfogó történelemben és helyi hagyományokban, és szánjon időt a néprajzi részlegre, hogy teljes mértékben értékelje a régió kulturális fejlődését.",
+            "ro": "Aprofundați istoria vastă și tradițiile locale prezentate aici și luați-vă timp în secțiunea etnografică pentru a aprecia pe deplin evoluția culturală a regiunii.",
+            "en": "Delve into the comprehensive history and local traditions showcased here, and take your time in the ethnographic section to fully appreciate the region's cultural evolution."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der ikonischen Stierkampfarena, bevor Sie in die skulpturale Brillanz des Navarro Santafé Museums eintauchen.\nGegen Mittag steigen Sie zum majestätischen Castillo de la Atalaya auf, das einen Panoramablick über das historische Zentrum von Villena bietet.\nBestaunen Sie am Nachmittag die gotische Architektur der Kirche Santa Maria und erkunden Sie das faszinierende archäologische Museum.\nBeenden Sie den Tag im Stadtmuseum von Villena und lassen Sie das reiche kulturelle Erbe der Region im Abendlicht auf sich wirken.",
+        "hu": "Kezdje sétáját az ikonikus bikaviadal-arénánál, majd merüljön el a Navarro Santafé Múzeum szobrászati remekműveiben.\nDélben másszon fel a fenséges Castillo de la Atalaya várába, ahonnan panorámás kilátás nyílik Villena történelmi központjára.\nDélután csodálja meg a Santa Maria templom gótikus építészetét, és fedezze fel a lenyűgöző régészeti múzeumot.\nZárja a napot a Villena Városi Múzeumban, és az esti fényben gondoljon vissza a régió gazdag kulturális örökségére.",
+        "ro": "Începeți plimbarea la emblematica arenă de tauri, înainte de a descoperi sculpturile excepționale de la Muzeul Navarro Santafé.\nLa prânz, urcați la maiestuosul Castillo de la Atalaya, care oferă vederi panoramice asupra centrului istoric al orașului Villena.\nDupă-amiaza, admirați arhitectura gotică a Bisericii Santa Maria și explorați fascinantul muzeu arheologic.\nÎncheiați ziua la Muzeul din Villena, reflectând asupra bogatului patrimoniu cultural al regiunii în lumina serii.",
+        "en": "Start your walk at the iconic Plaza de Toros before diving into the sculptural brilliance of the Navarro Santafé Museum.\nMidday brings an ascent to the majestic Castillo de la Atalaya, offering panoramic views over Villena's historic center.\nIn the afternoon, marvel at the Gothic architecture of Santa Maria Church and explore the fascinating archaeological museum.\nEnd the day at the City Museum of Villena, reflecting on the region's rich cultural heritage in the evening light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stierkampfarena von Villena",
+            "hu": "Villena Bikaviadal-aréna",
+            "ro": "Arena de tauri din Villena",
+            "en": "Bullring of Villena"
+          },
+          "coords": [
+            -0.868404,
+            38.639586
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Stierkampfarena, die noch heute große kulturelle Veranstaltungen beherbergt, aber prüfen Sie vorher die Öffnungszeiten, da der Zugang variiert.",
+            "hu": "Csodálja meg ennek a történelmi bikaviadal-arénának a lenyűgöző építészetét, amely még mindig jelentős kulturális eseményeknek ad otthont, de előtte ellenőrizze a nyitvatartást, mivel a belső tér látogatása változó.",
+            "ro": "Admirați arhitectura impresionantă a acestei arene istorice care găzduiește și astăzi evenimente culturale majore, dar verificați în prealabil programul de funcționare, deoarece accesul variază.",
+            "en": "Admire the impressive architecture of this historic bullring which still hosts major cultural events, but check the opening hours beforehand as interior access varies."
+          }
+        },
+        {
+          "name": {
+            "de": "Bildhauer Navarro Santafé Museum",
+            "hu": "Navarro Santafé Szobrászati Múzeum",
+            "ro": "Muzeul Sculptorului Navarro Santafé",
+            "en": "Sculptor Navarro Santafé Museum"
+          },
+          "coords": [
+            -0.864106,
+            38.63424
+          ],
+          "category": "museum",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die tiefgründigen Tierskulpturen des lokalen Künstlers Navarro Santafé und betrachten Sie genau die Bärenstatuen, die Madrids berühmtes Denkmal inspirierten.",
+            "hu": "Csodálja meg a helyi művész, Navarro Santafé mélyreható állatszobrait, és nézze meg közelebbről azokat a medveszobrokat, amelyek Madrid híres emlékművét ihlették.",
+            "ro": "Minunați-vă de sculpturile profunde de animale create de artistul local Navarro Santafé și priviți cu atenție statuile de urși care au inspirat faimosul monument din Madrid.",
+            "en": "Marvel at the profound animal sculptures crafted by local artist Navarro Santafé, and look closely at the bear statues that inspired Madrid's famous monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Salvatierra",
+            "hu": "Salvatierra Kastély",
+            "ro": "Castelul Salvatierra",
+            "en": "Salvatierra Castle"
+          },
+          "coords": [
+            -0.854262,
+            38.635253
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen stimmungsvollen Ruinen auf dem Hügel, um ihre strategischen Ursprünge aus der islamischen Zeit zu würdigen, und nehmen Sie Wasser mit, da es oben keine Einrichtungen gibt.",
+            "hu": "Túrázzon fel ezekhez a hangulatos hegytetőn lévő romokhoz, hogy értékelje stratégiai iszlám kori eredetüket, és vigyen magával vizet, mivel a csúcson nincsenek létesítmények.",
+            "ro": "Urcați la aceste ruine evocatoare de pe vârful dealului pentru a le aprecia originile strategice din era islamică și luați apă cu dumneavoastră, deoarece sus nu există facilități.",
+            "en": "Hike up to these evocative hilltop ruins to appreciate their strategic Islamic-era origins, and carry some water as there are no facilities at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Atalaya",
+            "hu": "Atalaya Kastély",
+            "ro": "Castelul Atalaya",
+            "en": "Atalaya Castle"
+          },
+          "coords": [
+            -0.860915,
+            38.631934
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie die gut erhaltenen Türme dieser imposanten mittelalterlichen Festung für einen unvergleichlichen Ausblick und kaufen Sie Ihre Tickets frühzeitig, um einen Platz für die Führung zu sichern.",
+            "hu": "Mássza meg ennek az impozáns középkori erődnek a jól karbantartott tornyait a páratlan kilátásért, és mindenképpen korán vegye meg a jegyet, hogy biztosítsa a helyét a vezetett túrán.",
+            "ro": "Urcați în turnurile bine conservate ale acestei impunătoare fortărețe medievale pentru vederi de neegalat și asigurați-vă că vă cumpărați biletele din timp pentru a prinde un tur ghidat.",
+            "en": "Climb the well-preserved towers of this imposing medieval fortress for unmatched views, and make sure to buy your tickets early to secure a guided tour slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San José",
+            "hu": "San José Remetelak",
+            "ro": "Schitul San José",
+            "en": "Hermitage of San José"
+          },
+          "coords": [
+            -0.85946,
+            38.630327
+          ],
+          "category": "religious",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten Einsiedelei für einen ruhigen Moment der Besinnung und beachten Sie die traditionellen architektonischen Details, die die religiöse Hingabe der Stadt widerspiegeln.",
+            "hu": "Álljon meg ennél a bájos remetelaknál egy csendes pillanatra az elmélkedéshez, és figyelje meg a hagyományos építészeti részleteket, amelyek a város vallási odaadását tükrözik.",
+            "ro": "Opriți-vă la acest schit fermecător pentru a experimenta un moment liniștit de reflecție și observați detaliile arhitecturale tradiționale care reflectă devotamentul religios al orașului.",
+            "en": "Pause at this charming hermitage to experience a quiet moment of reflection, and note the traditional architectural details that reflect the town's religious devotion."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria Templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -0.861085,
+            38.630235
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche im Gotik-Renaissance-Stil ein, um ihre Kreuzrippengewölbe zu bestaunen, und besuchen Sie sie am frühen Nachmittag, um das weiche Licht zu genießen.",
+            "hu": "Lépjen be ebbe a gyönyörű gótikus-reneszánsz templomba, hogy megcsodálja bordás boltozatait, és látogasson el kora délután, hogy élvezze az ablakokon átszűrődő lágy fényt.",
+            "ro": "Pășiți în interiorul acestei frumoase biserici gotic-renascentiste pentru a-i admira bolțile cu nervuri și vizitați-o la începutul după-amiezii pentru a vă bucura de lumina blândă.",
+            "en": "Step inside this beautiful Gothic-Renaissance church to marvel at its ribbed vaults, and visit during the early afternoon to enjoy the soft light filtering through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José María Soler",
+            "hu": "José María Soler Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José María Soler",
+            "en": "José María Soler Archaeological Museum"
+          },
+          "coords": [
+            -0.863101,
+            38.631332
+          ],
+          "category": "museum",
+          "arrive_at": "15:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den berühmten Schatz von Villena, eine außergewöhnliche Sammlung von Gold aus der Bronzezeit, und fragen Sie das Museumspersonal nach der faszinierenden Geschichte seiner zufälligen Entdeckung.",
+            "hu": "Fedezze fel a híres villenai kincset, a bronzkori arany rendkívüli gyűjteményét, és kérdezze meg a múzeum munkatársait a véletlen felfedezés lenyűgöző történetéről.",
+            "ro": "Descoperiți faimoasa Comoară din Villena, o colecție extraordinară de aur din Epoca Bronzului, și întrebați personalul muzeului despre povestea fascinantă a descoperirii sale accidentale.",
+            "en": "Discover the famous Treasure of Villena, an extraordinary collection of Bronze Age gold, and ask the museum staff about the fascinating story of its accidental discovery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der historischen Stierkampfarena zu den kunstvollen Skulpturen und nehmen Sie dann den sanften Anstieg zu den Ruinen von Castillo de Salvatierra in Angriff. Der Mittag lädt dazu ein, das beeindruckende Castillo de la Atalaya mit seinen mittelalterlichen Geheimnissen zu erkunden. Rollen Sie bergab, um charmante religiöse Stätten wie die Einsiedelei von San José und die schöne Kirche Santa Maria zu entdecken. Beenden Sie Ihr Radabenteuer, indem Sie im berühmten Archäologischen Museum alte Schätze ausgraben.",
+        "hu": "Kerekezzen a történelmi bikaviadal-arénától a bonyolult szobrokig, majd vágjon neki a Castillo de Salvatierra romjaihoz vezető enyhe emelkedőnek. A délidő a félelmetes Castillo de la Atalaya felfedezésére csábít, ahol középkori titkokat és lenyűgöző kilátást talál. Guruljon lefelé, hogy felfedezze az olyan bájos vallási helyszíneket, mint a San José remetelak és a gyönyörű Santa Maria templom. Kerékpáros kalandját úgy zárja, hogy ősi kincseket csodál meg a híres Régészeti Múzeumban.",
+        "ro": "Pedalați de la arena istorică la sculpturile detaliate, apoi abordați urcarea ușoară spre ruinele Castillo de Salvatierra. Amiaza vă invită să explorați formidabilul Castillo de la Atalaya, descoperind secrete medievale și panorame vaste. Coborâți pentru a descoperi situri religioase fermecătoare, cum ar fi Schitul San José și frumoasa Biserică Santa Maria. Încheiați aventura pe bicicletă descoperind comori antice la renumitul Muzeu Arheologic.",
+        "en": "Cycle from the historic bullring to the intricate sculptures, then tackle the gentle climb towards the ruins of Castillo de Salvatierra. Midday invites you to explore the formidable Castillo de la Atalaya, discovering its medieval secrets and sweeping views. Roll downhill to discover charming religious sites like the Hermitage of San José and the beautiful Santa Maria Church. Conclude your cycling adventure by unearthing ancient treasures at the renowned Archaeological Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabezo Redondo",
+            "hu": "Cabezo Redondo",
+            "ro": "Cabezo Redondo",
+            "en": "Cabezo Redondo"
+          },
+          "coords": [
+            -0.890704,
+            38.64347
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende archäologische Stätte aus der Bronzezeit, um die Wurzeln der Region zu verstehen, und bringen Sie festes Schuhwerk für das unebene Gelände mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző bronzkori régészeti lelőhelyet, hogy megértse a régió gyökereit, és hozzon erős cipőt az egyenetlen terephez.",
+            "ro": "Explorați acest sit arheologic fascinant din Epoca Bronzului pentru a înțelege rădăcinile regiunii și aduceți încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore this fascinating Bronze Age archaeological site to understand the roots of the region, and bring sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Stierkampfarena von Villena",
+            "hu": "Villena Bikaviadal-aréna",
+            "ro": "Arena de tauri din Villena",
+            "en": "Bullring of Villena"
+          },
+          "coords": [
+            -0.868404,
+            38.639586
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Stierkampfarena, die noch heute große kulturelle Veranstaltungen beherbergt, aber prüfen Sie vorher die Öffnungszeiten, da der Zugang variiert.",
+            "hu": "Csodálja meg ennek a történelmi bikaviadal-arénának a lenyűgöző építészetét, amely még mindig jelentős kulturális eseményeknek ad otthont, de előtte ellenőrizze a nyitvatartást, mivel a belső tér látogatása változó.",
+            "ro": "Admirați arhitectura impresionantă a acestei arene istorice care găzduiește și astăzi evenimente culturale majore, dar verificați în prealabil programul de funcționare, deoarece accesul variază.",
+            "en": "Admire the impressive architecture of this historic bullring which still hosts major cultural events, but check the opening hours beforehand as interior access varies."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Salvatierra",
+            "hu": "Salvatierra Kastély",
+            "ro": "Castelul Salvatierra",
+            "en": "Salvatierra Castle"
+          },
+          "coords": [
+            -0.854262,
+            38.635253
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen stimmungsvollen Ruinen auf dem Hügel, um ihre strategischen Ursprünge aus der islamischen Zeit zu würdigen, und nehmen Sie Wasser mit, da es oben keine Einrichtungen gibt.",
+            "hu": "Túrázzon fel ezekhez a hangulatos hegytetőn lévő romokhoz, hogy értékelje stratégiai iszlám kori eredetüket, és vigyen magával vizet, mivel a csúcson nincsenek létesítmények.",
+            "ro": "Urcați la aceste ruine evocatoare de pe vârful dealului pentru a le aprecia originile strategice din era islamică și luați apă cu dumneavoastră, deoarece sus nu există facilități.",
+            "en": "Hike up to these evocative hilltop ruins to appreciate their strategic Islamic-era origins, and carry some water as there are no facilities at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Atalaya",
+            "hu": "Atalaya Kastély",
+            "ro": "Castelul Atalaya",
+            "en": "Atalaya Castle"
+          },
+          "coords": [
+            -0.860915,
+            38.631934
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie die gut erhaltenen Türme dieser imposanten mittelalterlichen Festung für einen unvergleichlichen Ausblick und kaufen Sie Ihre Tickets frühzeitig, um einen Platz für die Führung zu sichern.",
+            "hu": "Mássza meg ennek az impozáns középkori erődnek a jól karbantartott tornyait a páratlan kilátásért, és mindenképpen korán vegye meg a jegyet, hogy biztosítsa a helyét a vezetett túrán.",
+            "ro": "Urcați în turnurile bine conservate ale acestei impunătoare fortărețe medievale pentru vederi de neegalat și asigurați-vă că vă cumpărați biletele din timp pentru a prinde un tur ghidat.",
+            "en": "Climb the well-preserved towers of this imposing medieval fortress for unmatched views, and make sure to buy your tickets early to secure a guided tour slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José María Soler",
+            "hu": "José María Soler Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José María Soler",
+            "en": "José María Soler Archaeological Museum"
+          },
+          "coords": [
+            -0.863101,
+            38.631332
+          ],
+          "category": "museum",
+          "arrive_at": "13:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den berühmten Schatz von Villena, eine außergewöhnliche Sammlung von Gold aus der Bronzezeit, und fragen Sie das Museumspersonal nach der faszinierenden Geschichte seiner zufälligen Entdeckung.",
+            "hu": "Fedezze fel a híres villenai kincset, a bronzkori arany rendkívüli gyűjteményét, és kérdezze meg a múzeum munkatársait a véletlen felfedezés lenyűgöző történetéről.",
+            "ro": "Descoperiți faimoasa Comoară din Villena, o colecție extraordinară de aur din Epoca Bronzului, și întrebați personalul muzeului despre povestea fascinantă a descoperirii sale accidentale.",
+            "en": "Discover the famous Treasure of Villena, an extraordinary collection of Bronze Age gold, and ask the museum staff about the fascinating story of its accidental discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Villena",
+            "hu": "Villena Múzeum",
+            "ro": "Muzeul din Villena",
+            "en": "Museum of Villena"
+          },
+          "coords": [
+            -0.86654,
+            38.629945
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die umfassende Geschichte und die lokalen Traditionen ein, die hier präsentiert werden, und nehmen Sie sich Zeit in der ethnografischen Abteilung, um die kulturelle Entwicklung zu würdigen.",
+            "hu": "Merüljön el az itt bemutatott átfogó történelemben és helyi hagyományokban, és szánjon időt a néprajzi részlegre, hogy teljes mértékben értékelje a régió kulturális fejlődését.",
+            "ro": "Aprofundați istoria vastă și tradițiile locale prezentate aici și luați-vă timp în secțiunea etnografică pentru a aprecia pe deplin evoluția culturală a regiunii.",
+            "en": "Delve into the comprehensive history and local traditions showcased here, and take your time in the ethnographic section to fully appreciate the region's cultural evolution."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur antiken Siedlung Cabezo Redondo, um in die Geschichte der Bronzezeit einzutauchen und weite Landschaftsblicke zu genießen. Navigieren Sie zurück in die Stadt, um die große Plaza de Toros zu bewundern und zu den schroffen Ruinen des Castillo de Salvatierra zu wandern. Verbringen Sie den Nachmittag damit, die gut erhaltenen Türme des Castillo de la Atalaya und den goldenen Schatz von Villena zu entdecken. Schließen Sie Ihren Tagesausflug mit einem tiefen Einblick in die lokale Geschichte in den modernen Museen der Stadt ab.",
+        "hu": "Autózzon el a Cabezo Redondo ősi településre, hogy a délelőttöt a bronzkori történelemben és a pazar tájképekben elmerülve töltse. Térjen vissza a városba, hogy megcsodálja a grandiózus Plaza de Toros-t, és sétáljon fel a zord Castillo de Salvatierra romjaihoz. A délutánt a Castillo de la Atalaya jól karbantartott tornyainak és a villenai aranykincsnek a felfedezésével töltse. Zárja a napot a helyi történelem elmélyült megismerésével a város átfogó és modern múzeumaiban.",
+        "ro": "Conduceți până la așezarea antică Cabezo Redondo pentru o dimineață captivantă în istoria Epocii Bronzului și peisaje deosebite. Navigați înapoi în oraș pentru a admira grandioasa Plaza de Toros și urcați la ruinele accidentate ale Castillo de Salvatierra. Petreceți după-amiaza descoperind turnurile bine conservate ale Castillo de la Atalaya și comoara de aur din Villena. Încheiați-vă excursia de o zi cu o scufundare profundă în istoria locală, vizitând muzeele moderne și cuprinzătoare ale orașului.",
+        "en": "Drive out to the ancient settlement of Cabezo Redondo for a morning immersed in Bronze Age history and sweeping landscape views. Navigate back into the city to marvel at the grand Plaza de Toros and hike up to the rugged Castillo de Salvatierra ruins. Spend the afternoon uncovering the well-preserved towers of Castillo de la Atalaya and the golden Treasure of Villena. Wrap up your day trip with a deep dive into local history at the city's comprehensive and modern museums."
+      }
+    }
+  }
+}

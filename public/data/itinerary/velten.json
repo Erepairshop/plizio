@@ -1,0 +1,474 @@
+{
+  "city_id": "velten",
+  "anchor": {
+    "name": "Velten",
+    "coords": [
+      13.1776,
+      52.6882
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Viktoriapark",
+            "hu": "Viktoriapark",
+            "ro": "Viktoriapark",
+            "en": "Viktoriapark"
+          },
+          "coords": [
+            13.178997,
+            52.685329
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Wege des Viktoriaparks, um die schattigen Grünflächen zu genießen, ein perfekter Ort für ein kurzes Picknick.",
+            "hu": "Sétáljon végig a Viktoriapark békés ösvényein, élvezze az árnyékos zöldterületeket, ami tökéletes hely a lábak megpihentetésére egy gyors piknikkel.",
+            "ro": "Plimbați-vă pe aleile liniștite din Viktoriapark pentru a vă bucura de spațiile verzi, fiind un loc perfect pentru a vă odihni picioarele la un picnic.",
+            "en": "Stroll through the peaceful pathways of Viktoriapark to enjoy its shaded green spaces, making it a perfect spot to rest your feet with a quick picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz am Rathaus",
+            "hu": "Spielplatz am Rathaus",
+            "ro": "Spielplatz am Rathaus",
+            "en": "Spielplatz am Rathaus"
+          },
+          "coords": [
+            13.176595,
+            52.690371
+          ],
+          "category": "family",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Pausieren Sie am zentralen Spielplatz am Rathaus, einem praktischen Ort, an dem Kinder sicher spielen können, während Sie das nächste Abenteuer planen.",
+            "hu": "Álljon meg a városháza melletti központi játszótéren, amely kényelmes hely a gyermekek számára, amíg Ön megszervezi a városi kaland következő szakaszát.",
+            "ro": "Faceți o pauză la locul de joacă central de lângă primărie, un loc convenabil unde copiii se pot juca în siguranță în timp ce vă organizați următoarea etapă.",
+            "en": "Pause at the central playground by the town hall, a convenient spot for kids to play safely while you organize the next leg of your city adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Ofen- und Keramikmuseum Velten",
+            "hu": "Ofen- und Keramikmuseum Velten",
+            "ro": "Ofen- und Keramikmuseum Velten",
+            "en": "Ofen- und Keramikmuseum Velten"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Veltens industrielles Erbe im Ofenmuseum, um kunstvolle Keramik zu bewundern, und achten Sie auf die klassischen Kachelmodelle.",
+            "hu": "Fedezze fel Velten ipari örökségét a kályhamúzeumban, csodálja meg a kerámiákat, és figyeljen a klasszikus csempézett modellekre a továbblépés előtt.",
+            "ro": "Descoperiți moștenirea industrială a orașului Velten la muzeul sobelor pentru a admira ceramica complexă și căutați modelele clasice frumos placate.",
+            "en": "Discover Velten's industrial heritage at the stove museum to admire intricate ceramics and look for the beautifully tiled classic models before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Hedwig-Bollhagen-Gedenkstätte",
+            "hu": "Hedwig-Bollhagen-Gedenkstätte",
+            "ro": "Hedwig-Bollhagen-Gedenkstätte",
+            "en": "Hedwig-Bollhagen-Gedenkstätte"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das künstlerische Erbe von Hedwig Bollhagen durch ihre ikonische Gebrauchskeramik und schätzen Sie die zeitlosen Bauhaus-inspirierten Designs.",
+            "hu": "Fedezze fel Hedwig Bollhagen művészi örökségét ikonikus mindennapi kerámiáin keresztül, és szánjon egy percet az időtlen, Bauhaus ihlette dizájnokra.",
+            "ro": "Explorați moștenirea artistică a lui Hedwig Bollhagen prin ceramica sa de uz zilnic și luați-vă un moment pentru a aprecia designul inspirat de Bauhaus.",
+            "en": "Explore the artistic legacy of Hedwig Bollhagen through her iconic daily-use ceramics, and take a moment to appreciate the timeless Bauhaus-inspired designs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergspielplatz",
+            "hu": "Bergspielplatz",
+            "ro": "Bergspielplatz",
+            "en": "Bergspielplatz"
+          },
+          "coords": [
+            13.170737,
+            52.697455
+          ],
+          "category": "family",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem gut ausgestatteten Bergspielplatz Energie verbrennen, der kreative Klettergerüste für kleine Entdecker bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat a jól felszerelt Bergspielplatzon, amely kreatív mászókákat kínál a kis felfedezők szórakoztatására.",
+            "ro": "Lăsați copiii să-și consume energia la Bergspielplatz, care oferă structuri de cățărat creative ce provoacă și distrează tinerii exploratori.",
+            "en": "Let the children burn off some energy at the well-equipped Bergspielplatz, offering creative climbing structures that challenge and entertain young explorers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang durch den Viktoriapark und atmen Sie die frische Luft ein. Gehen Sie danach in Richtung Stadtzentrum, damit sich die Kinder am Rathausspielplatz austoben können.\n\nDie Mitte des Tages ist Veltens reicher industrieller Vergangenheit gewidmet. Tauchen Sie tief in das Ofen- und Keramikmuseum ein und erfahren Sie, wie die Stadt berühmt wurde.\n\nSetzen Sie Ihre kulturelle Erkundung direkt nebenan in der Hedwig-Bollhagen-Gedenkstätte fort. Ihre zeitlosen Keramikdesigns sind ein absolutes Muss für Kunst- und Geschichtsliebhaber.\n\nBeenden Sie Ihren gemütlichen Tag zu Fuß, indem Sie in Richtung Bergspielplatz schlendern. Es ist eine entspannende Möglichkeit, den späten Nachmittag zu verbringen und die Vorstadtatmosphäre zu genießen.",
+        "hu": "Kezdje a reggelt egy békés sétával a Viktoriaparkban, beszívva a friss levegőt. Ezután induljon a városközpont felé, hogy a gyerekek nyújtózkodhassanak egyet a városháza melletti játszótéren.\n\nA nap közepe Velten gazdag ipari múltjának van szentelve. Merüljön el a Kályha- és Kerámiamúzeumban, és tudja meg, hogyan vált a város híressé a gyönyörű kályháiról.\n\nFolytassa a kulturális felfedezést közvetlenül a szomszédban, a Hedwig-Bollhagen-Gedenkstättében. Időtlen kerámia dizájnjai abszolút kötelező látnivalók a művészet és a történelem szerelmeseinek.\n\nZárja a kényelmes, gyalogos napot a Bergspielplatz felé sétálva. Ez egy pihentető módja a késő délután eltöltésének, élvezve a csendes külvárosi hangulatot a megérdemelt vacsora előtt.",
+        "ro": "Începeți dimineața cu o plimbare liniștită prin Viktoriapark, bucurându-vă de aerul proaspăt. Apoi, îndreptați-vă spre centrul orașului pentru a lăsa copiii să se relaxeze la locul de joacă de la primărie.\n\nMijlocul zilei este dedicat bogatului trecut industrial al orașului Velten. Pătrundeți adânc în Muzeul Sobelor și Ceramicii, aflând cum a devenit orașul faimos pentru sobele sale rafinate.\n\nContinuați explorarea culturală chiar alături, la Hedwig-Bollhagen-Gedenkstätte. Designurile sale atemporale din ceramică sunt absolut de neratat pentru iubitorii de artă și istorie.\n\nÎncheiați-vă ziua de plimbare relaxantă îndreptându-vă spre Bergspielplatz. Este o modalitate liniștitoare de a petrece după-amiaza târziu, bucurându-vă de atmosfera liniștită din suburbii.",
+        "en": "Begin your morning with a tranquil walk through Viktoriapark, taking in the fresh air. Afterward, head towards the town center to let the kids stretch at the Rathaus playground.\n\nThe middle of the day is dedicated to Velten's rich industrial past. Dive deep into the Ofen- und Keramikmuseum, learning how the town became famous for its exquisite stoves.\n\nContinue your cultural exploration right next door at the Hedwig-Bollhagen-Gedenkstätte. Her timeless ceramic designs are an absolute must-see for art and history lovers alike.\n\nWrap up your leisurely day on foot by strolling towards the Bergspielplatz. It is a relaxing way to spend the late afternoon, enjoying the quiet suburban atmosphere before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Windkraftanlage",
+            "hu": "Windkraftanlage",
+            "ro": "Windkraftanlage",
+            "en": "Windkraftanlage"
+          },
+          "coords": [
+            13.152746,
+            52.667861
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Windkraftanlage aus sicherer Entfernung und schätzen Sie diesen frühen Meilenstein der nachhaltigen regionalen Energieerzeugung.",
+            "hu": "Figyelje meg a tornyosuló történelmi szélturbinát biztonságos távolságból, értékelve a fenntartható regionális energiatermelés e korai mérföldkövét.",
+            "ro": "Observați structura istorică a turbinei eoliene de la o distanță sigură, apreciind acest reper timpuriu în generarea regională de energie durabilă.",
+            "en": "Observe the towering historical wind turbine structure from a safe distance, appreciating this early milestone in sustainable regional energy generation."
+          }
+        },
+        {
+          "name": {
+            "de": "Viktoriapark",
+            "hu": "Viktoriapark",
+            "ro": "Viktoriapark",
+            "en": "Viktoriapark"
+          },
+          "coords": [
+            13.178997,
+            52.685329
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Wege des Viktoriaparks, um die schattigen Grünflächen zu genießen, ein perfekter Ort für ein kurzes Picknick.",
+            "hu": "Sétáljon végig a Viktoriapark békés ösvényein, élvezze az árnyékos zöldterületeket, ami tökéletes hely a lábak megpihentetésére egy gyors piknikkel.",
+            "ro": "Plimbați-vă pe aleile liniștite din Viktoriapark pentru a vă bucura de spațiile verzi, fiind un loc perfect pentru a vă odihni picioarele la un picnic.",
+            "en": "Stroll through the peaceful pathways of Viktoriapark to enjoy its shaded green spaces, making it a perfect spot to rest your feet with a quick picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ofen- und Keramikmuseum Velten",
+            "hu": "Ofen- und Keramikmuseum Velten",
+            "ro": "Ofen- und Keramikmuseum Velten",
+            "en": "Ofen- und Keramikmuseum Velten"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie Veltens industrielles Erbe im Ofenmuseum, um kunstvolle Keramik zu bewundern, und achten Sie auf die klassischen Kachelmodelle.",
+            "hu": "Fedezze fel Velten ipari örökségét a kályhamúzeumban, csodálja meg a kerámiákat, és figyeljen a klasszikus csempézett modellekre a továbblépés előtt.",
+            "ro": "Descoperiți moștenirea industrială a orașului Velten la muzeul sobelor pentru a admira ceramica complexă și căutați modelele clasice frumos placate.",
+            "en": "Discover Velten's industrial heritage at the stove museum to admire intricate ceramics and look for the beautifully tiled classic models before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Hedwig-Bollhagen-Gedenkstätte",
+            "hu": "Hedwig-Bollhagen-Gedenkstätte",
+            "ro": "Hedwig-Bollhagen-Gedenkstätte",
+            "en": "Hedwig-Bollhagen-Gedenkstätte"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das künstlerische Erbe von Hedwig Bollhagen durch ihre ikonische Gebrauchskeramik und schätzen Sie die zeitlosen Bauhaus-inspirierten Designs.",
+            "hu": "Fedezze fel Hedwig Bollhagen művészi örökségét ikonikus mindennapi kerámiáin keresztül, és szánjon egy percet az időtlen, Bauhaus ihlette dizájnokra.",
+            "ro": "Explorați moștenirea artistică a lui Hedwig Bollhagen prin ceramica sa de uz zilnic și luați-vă un moment pentru a aprecia designul inspirat de Bauhaus.",
+            "en": "Explore the artistic legacy of Hedwig Bollhagen through her iconic daily-use ceramics, and take a moment to appreciate the timeless Bauhaus-inspired designs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernsteinsee Velten",
+            "hu": "Bernsteinsee Velten",
+            "ro": "Bernsteinsee Velten",
+            "en": "Bernsteinsee Velten"
+          },
+          "coords": [
+            13.220852,
+            52.697429
+          ],
+          "category": "family",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie der Familie eine lustige Pause am Spielbereich des Bernsteinsees, wo Kinder sichere Aktivitäten genießen und Eltern in der Nähe entspannen können.",
+            "hu": "Lepje meg a családot egy vidám szünettel a Bernsteinsee játszóterén, ahol a gyerekek biztonságos tevékenységeket élvezhetnek, míg a szülők pihennek.",
+            "ro": "Oferiți familiei o pauză plină de distracție la zona de joacă Bernsteinsee, unde copiii se pot bucura de activități sigure pe apă, în timp ce părinții se relaxează.",
+            "en": "Treat the family to a fun-filled break at the Bernsteinsee play area, where kids can enjoy safe waterside activities while parents relax nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernsteinsee",
+            "hu": "Bernsteinsee",
+            "ro": "Bernsteinsee",
+            "en": "Bernsteinsee"
+          },
+          "coords": [
+            13.219159,
+            52.700074
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "16:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am klaren Wasser des Bernsteinsees, einem weitläufigen Badesee, der fantastische Schwimmmöglichkeiten und Sandstrände für eine Flucht bietet.",
+            "hu": "Pihenjen a Bernsteinsee tiszta vize mellett, amely egy kiterjedt rekreációs tó fantasztikus úszóhelyekkel és homokos partokkal egy délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malul apelor limpezi de la Bernsteinsee, un lac de agrement care oferă locuri de înot fantastice și țărmuri nisipoase pentru o evadare.",
+            "en": "Relax by the clear waters of Bernsteinsee, an expansive recreational lake that offers fantastic swimming spots and sandy shores for an afternoon escape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer früh und fahren Sie zur historischen Windkraftanlage, um die alte Ingenieurskunst zu bestaunen. Radeln Sie zurück in die Stadt für einen ruhigen Stopp im Viktoriapark.\n\nZur Mittagszeit erreichen Sie das kulturelle Zentrum von Velten. Parken Sie Ihre Fahrräder am renommierten Ofen- und Keramikmuseum, um die faszinierende Geschichte der Kachelofenproduktion zu erkunden.\n\nBleiben Sie im Museumsviertel, um die wunderschöne Gebrauchskeramik in der Hedwig-Bollhagen-Gedenkstätte zu bewundern. Es ist ein lohnendes Eintauchen in die Kultur, bevor Sie sich wieder auf den Sattel schwingen.\n\nFahren Sie bei schwindendem Nachmittagslicht nach Osten in Richtung Bernsteinsee. Die Sandstrände und das ruhige Wasser bieten den perfekten, erfrischenden Abschluss eines aktiven Radtages.",
+        "hu": "Kezdje korán a kerékpáros kalandot, és tekerjen el a történelmi szélturbinához, megcsodálva a régi mérnöki munkát. Kerékpározzon vissza a városba egy békés pihenőre a Viktoriaparkban.\n\nEbédidőben Velten kulturális központjába érkezik. Parkolja le kerékpárjait a neves Kályha- és Kerámiamúzeumnál, hogy felfedezze a helyi kályhagyártás lenyűgöző történetét és emlékeit.\n\nMaradjon a múzeumi negyedben, és csodálja meg a gyönyörű mindennapi kerámiákat a Hedwig-Bollhagen-Gedenkstättében. Ez egy hálás kulturális elmélyülés, mielőtt újra nyeregbe pattan.\n\nAz utolsó fénysugarakkal tekerjen kelet felé a Bernsteinsee környékére. A homokos partok és a nyugodt víz tökéletes, frissítő lezárást kínálnak egy aktív kerékpáros napnak.",
+        "ro": "Începeți aventura cu bicicleta devreme, pedalând până la turbina eoliană istorică, admirând ingineria de epocă. Întoarceți-vă în oraș pentru o oprire liniștită în Viktoriapark.\n\nOra prânzului vă aduce în inima culturală a orașului Velten. Parcați bicicletele la renumitul Muzeu al Sobelor și Ceramicii pentru a explora istoria fascinantă a producției locale.\n\nRămâneți în cartierul muzeelor pentru a admira ceramica de uz zilnic la Hedwig-Bollhagen-Gedenkstätte. Este o imersiune culturală plină de satisfacții înainte de a urca din nou în șa.\n\nMergeți spre est, spre zona Bernsteinsee, odată cu lăsarea serii. Țărmurile nisipoase și apele liniștite oferă o concluzie perfectă și răcoritoare pentru o zi activă de ciclism.",
+        "en": "Start your cycling adventure early by riding out to the historical Windkraftanlage, marveling at the vintage engineering. Pedal back into town for a peaceful stop at Viktoriapark.\n\nLunchtime brings you to the cultural heart of Velten. Park your bikes at the renowned Ofen- und Keramikmuseum to explore the fascinating history of local stove manufacturing.\n\nStay in the museum quarter to admire the beautiful daily-use ceramics at the Hedwig-Bollhagen-Gedenkstätte. It’s a rewarding cultural immersion before hopping back on the saddle.\n\nRide eastward towards the Bernsteinsee area as the afternoon fades. The sandy shores and calm waters offer the perfect, refreshing conclusion to an active day of cycling."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bernsteinsee",
+            "hu": "Bernsteinsee",
+            "ro": "Bernsteinsee",
+            "en": "Bernsteinsee"
+          },
+          "coords": [
+            13.219159,
+            52.700074
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am klaren Wasser des Bernsteinsees, einem weitläufigen Badesee, der fantastische Schwimmmöglichkeiten und Sandstrände für eine Flucht bietet.",
+            "hu": "Pihenjen a Bernsteinsee tiszta vize mellett, amely egy kiterjedt rekreációs tó fantasztikus úszóhelyekkel és homokos partokkal egy délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malul apelor limpezi de la Bernsteinsee, un lac de agrement care oferă locuri de înot fantastice și țărmuri nisipoase pentru o evadare.",
+            "en": "Relax by the clear waters of Bernsteinsee, an expansive recreational lake that offers fantastic swimming spots and sandy shores for an afternoon escape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergspielplatz",
+            "hu": "Bergspielplatz",
+            "ro": "Bergspielplatz",
+            "en": "Bergspielplatz"
+          },
+          "coords": [
+            13.170737,
+            52.697455
+          ],
+          "category": "family",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem gut ausgestatteten Bergspielplatz Energie verbrennen, der kreative Klettergerüste für kleine Entdecker bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat a jól felszerelt Bergspielplatzon, amely kreatív mászókákat kínál a kis felfedezők szórakoztatására.",
+            "ro": "Lăsați copiii să-și consume energia la Bergspielplatz, care oferă structuri de cățărat creative ce provoacă și distrează tinerii exploratori.",
+            "en": "Let the children burn off some energy at the well-equipped Bergspielplatz, offering creative climbing structures that challenge and entertain young explorers."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz am Rathaus",
+            "hu": "Spielplatz am Rathaus",
+            "ro": "Spielplatz am Rathaus",
+            "en": "Spielplatz am Rathaus"
+          },
+          "coords": [
+            13.176595,
+            52.690371
+          ],
+          "category": "family",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Pausieren Sie am zentralen Spielplatz am Rathaus, einem praktischen Ort, an dem Kinder sicher spielen können, während Sie das nächste Abenteuer planen.",
+            "hu": "Álljon meg a városháza melletti központi játszótéren, amely kényelmes hely a gyermekek számára, amíg Ön megszervezi a városi kaland következő szakaszát.",
+            "ro": "Faceți o pauză la locul de joacă central de lângă primărie, un loc convenabil unde copiii se pot juca în siguranță în timp ce vă organizați următoarea etapă.",
+            "en": "Pause at the central playground by the town hall, a convenient spot for kids to play safely while you organize the next leg of your city adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Ofen- und Keramikmuseum Velten",
+            "hu": "Ofen- und Keramikmuseum Velten",
+            "ro": "Ofen- und Keramikmuseum Velten",
+            "en": "Ofen- und Keramikmuseum Velten"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Veltens industrielles Erbe im Ofenmuseum, um kunstvolle Keramik zu bewundern, und achten Sie auf die klassischen Kachelmodelle.",
+            "hu": "Fedezze fel Velten ipari örökségét a kályhamúzeumban, csodálja meg a kerámiákat, és figyeljen a klasszikus csempézett modellekre a továbblépés előtt.",
+            "ro": "Descoperiți moștenirea industrială a orașului Velten la muzeul sobelor pentru a admira ceramica complexă și căutați modelele clasice frumos placate.",
+            "en": "Discover Velten's industrial heritage at the stove museum to admire intricate ceramics and look for the beautifully tiled classic models before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Hedwig-Bollhagen-Gedenkstätte",
+            "hu": "Hedwig-Bollhagen-Gedenkstätte",
+            "ro": "Hedwig-Bollhagen-Gedenkstätte",
+            "en": "Hedwig-Bollhagen-Gedenkstätte"
+          },
+          "coords": [
+            13.1715,
+            52.6893
+          ],
+          "category": "Museums",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das künstlerische Erbe von Hedwig Bollhagen durch ihre ikonische Gebrauchskeramik und schätzen Sie die zeitlosen Bauhaus-inspirierten Designs.",
+            "hu": "Fedezze fel Hedwig Bollhagen művészi örökségét ikonikus mindennapi kerámiáin keresztül, és szánjon egy percet az időtlen, Bauhaus ihlette dizájnokra.",
+            "ro": "Explorați moștenirea artistică a lui Hedwig Bollhagen prin ceramica sa de uz zilnic și luați-vă un moment pentru a aprecia designul inspirat de Bauhaus.",
+            "en": "Explore the artistic legacy of Hedwig Bollhagen through her iconic daily-use ceramics, and take a moment to appreciate the timeless Bauhaus-inspired designs."
+          }
+        },
+        {
+          "name": {
+            "de": "Viktoriapark",
+            "hu": "Viktoriapark",
+            "ro": "Viktoriapark",
+            "en": "Viktoriapark"
+          },
+          "coords": [
+            13.178997,
+            52.685329
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Wege des Viktoriaparks, um die schattigen Grünflächen zu genießen, ein perfekter Ort für ein kurzes Picknick.",
+            "hu": "Sétáljon végig a Viktoriapark békés ösvényein, élvezze az árnyékos zöldterületeket, ami tökéletes hely a lábak megpihentetésére egy gyors piknikkel.",
+            "ro": "Plimbați-vă pe aleile liniștite din Viktoriapark pentru a vă bucura de spațiile verzi, fiind un loc perfect pentru a vă odihni picioarele la un picnic.",
+            "en": "Stroll through the peaceful pathways of Viktoriapark to enjoy its shaded green spaces, making it a perfect spot to rest your feet with a quick picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Windkraftanlage",
+            "hu": "Windkraftanlage",
+            "ro": "Windkraftanlage",
+            "en": "Windkraftanlage"
+          },
+          "coords": [
+            13.152746,
+            52.667861
+          ],
+          "category": "historical",
+          "arrive_at": "16:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Windkraftanlage aus sicherer Entfernung und schätzen Sie diesen frühen Meilenstein der nachhaltigen regionalen Energieerzeugung.",
+            "hu": "Figyelje meg a tornyosuló történelmi szélturbinát biztonságos távolságból, értékelve a fenntartható regionális energiatermelés e korai mérföldkövét.",
+            "ro": "Observați structura istorică a turbinei eoliene de la o distanță sigură, apreciind acest reper timpuriu în generarea regională de energie durabilă.",
+            "en": "Observe the towering historical wind turbine structure from a safe distance, appreciating this early milestone in sustainable regional energy generation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum malerischen Bernsteinsee, um Ihren Tag mit der Ruhe am See zu beginnen. Navigieren Sie von dort aus einfach zurück in die Stadt und halten Sie kurz am Bergspielplatz für Familienspaß.\n\nParken Sie als Nächstes in der Nähe des Rathauses für eine kurze Spielplatzpause, bevor Sie zum Ofenmuseum fahren. Die Entdeckung von Veltens legendären Kachelöfen ist ein Highlight am Mittag.\n\nErkunden Sie nur wenige Schritte entfernt die Hedwig-Bollhagen-Gedenkstätte, um ihre ikonischen Bauhaus-Designs zu sehen. Machen Sie danach eine kurze Fahrt zum Viktoriapark für einen Spaziergang.\n\nSchließen Sie Ihre Fahrt am südlichen Rand der Stadt in der Nähe der historischen Windkraftanlage ab. Die beeindruckende alte Struktur ragt in den Abendhimmel – ein tolles letztes Fotomotiv.",
+        "hu": "Vezessen a festői Bernsteinsee-hez, hogy a tóparti nyugalommal kezdje a napot. Innen könnyedén visszanavigálhat a városba, rövid megállót tartva a Bergspielplatzon egy kis családi mókára.\n\nKövetkező lépésként parkoljon le a városháza közelében egy rövid játszótéri szünetre, mielőtt a kályhamúzeumba indulna. Velten legendás cserépkályháinak felfedezése a déli órák fénypontja.\n\nCsak néhány lépésre innen, fedezze fel a Hedwig-Bollhagen-Gedenkstättét, és tekintse meg ikonikus Bauhaus dizájnjait. Utána tegyen egy rövid utat a Viktoriaparkba egy kellemes délutáni sétára.\n\nFejezze be autós túráját a város déli szélén, a történelmi szélturbina közelében. A lenyűgöző régi építmény magasan emelkedik az esti égbolt felé, kiváló utolsó fotózási lehetőséget kínálva.",
+        "ro": "Conduceți până la pitorescul Bernsteinsee pentru a vă începe ziua cu liniștea lacului. De acolo, navigați ușor înapoi în oraș, oprindu-vă scurt pentru distracție în familie la Bergspielplatz.\n\nApoi, parcați lângă primărie pentru o scurtă pauză la locul de joacă înainte de a merge la Muzeul Sobelor. Descoperirea legendarelor sobe de teracotă este punctul culminant al prânzului.\n\nLa doar câțiva pași distanță, explorați Hedwig-Bollhagen-Gedenkstätte pentru a vedea designurile sale Bauhaus. Apoi, faceți o scurtă plimbare cu mașina până la Viktoriapark.\n\nÎncheiați-vă turul cu mașina la marginea de sud a orașului, lângă turbina eoliană istorică. Impresionanta structură veche se înalță pe cerul serii, o excelentă oportunitate finală de a face poze.",
+        "en": "Drive out to the scenic Bernsteinsee to start your day with lakeside tranquility. From there, easily navigate back into the town, stopping briefly for family fun at Bergspielplatz.\n\nNext, park near the town hall for a quick playground break before heading to the Ofen- und Keramikmuseum. Discovering Velten's legendary ceramic stoves is a midday highlight.\n\nJust steps away, explore the Hedwig-Bollhagen-Gedenkstätte to see her iconic Bauhaus designs. Afterward, take a short drive to Viktoriapark for a pleasant afternoon stroll in the shade.\n\nConclude your driving tour at the southern edge of town near the historic Windkraftanlage. The impressive old structure stands tall against the evening sky, a great final photo op."
+      }
+    }
+  }
+}

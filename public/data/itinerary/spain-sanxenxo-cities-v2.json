@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-sanxenxo-cities-v2",
+  "anchor": {
+    "name": "Sanxenxo",
+    "coords": [
+      -8.80698,
+      42.39996
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia dos Barcos",
+            "hu": "Praia dos Barcos",
+            "ro": "Praia dos Barcos",
+            "en": "Praia dos Barcos"
+          },
+          "coords": [
+            -8.805687,
+            42.3996
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den morgendlichen Trubel an diesem zentralen Strand, wo Fischerboote anlegen, und bringen Sie bequeme Schuhe für den nahen Hafenrundgang mit.",
+            "hu": "Élvezze a reggeli nyüzsgést ezen a központi strandon, ahol a halászhajók kikötnek, és hozzon kényelmes cipőt a közeli kikötő bejárásához.",
+            "ro": "Bucurați-vă de forfota matinală pe această plajă centrală, unde ancorează bărcile de pescuit, și purtați încălțăminte comodă pentru o plimbare prin port.",
+            "en": "Enjoy the morning bustle at this central beach where local fishing boats dock, and bring comfortable shoes for a quick stroll around the nearby marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Lavapáns",
+            "hu": "Praia Lavapáns",
+            "ro": "Praia Lavapáns",
+            "en": "Praia Lavapáns"
+          },
+          "coords": [
+            -8.801683,
+            42.400752
+          ],
+          "category": "recreational",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen Bucht, die durch klares Wasser besticht, und kommen Sie früh, um die besten Sonnenplätze vor den Einheimischen zu ergattern.",
+            "hu": "Pihenjen ebben a csendes öbölben, amely tiszta vizéről híres, és érkezzen korán, hogy még a helyiek előtt elfoglalhassa a legjobb napozóhelyeket.",
+            "ro": "Relaxați-vă în acest golf liniștit, renumit pentru apele sale limpezi, și ajungeți devreme pentru a prinde cele mai bune locuri la soare înaintea localnicilor.",
+            "en": "Relax in this quiet cove known for its crystal-clear waters, and make sure to arrive early to secure the best sunbathing spots before the locals do."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Carabuxeira",
+            "hu": "Praia Carabuxeira",
+            "ro": "Praia Carabuxeira",
+            "en": "Praia Carabuxeira"
+          },
+          "coords": [
+            -8.799452,
+            42.400241
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Aussicht auf die Flussmündung von diesem schmalen Strandabschnitt aus, ideal für ein erfrischendes Bad bei steigender Flut.",
+            "hu": "Csodálja meg a festői kilátást a folyótorkolatra erről a keskeny strandszakaszról, amely dagály idején ideális egy frissítő fürdőzéshez a tengerben.",
+            "ro": "Admirați priveliștea pitorească a estuarului de pe această fâșie îngustă de plajă, perfectă pentru o baie răcoritoare atunci când nivelul mării crește.",
+            "en": "Admire the picturesque views of the estuary from this narrow stretch of sand, which is absolutely perfect for a refreshing swim when the tide comes in."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Mortos",
+            "hu": "Praia dos Mortos",
+            "ro": "Praia dos Mortos",
+            "en": "Praia dos Mortos"
+          },
+          "coords": [
+            -8.777381,
+            42.390547
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen etwas abgelegenen Naturstrand mit seiner wilden Schönheit, aber achten Sie auf die teilweise starken Strömungen beim Schwimmen im Meer.",
+            "hu": "Fedezze fel ezt a kissé eldugott, vad szépségű természetes strandot, de úszás közben feltétlenül ügyeljen az időnként felbukkanó erős tengeri áramlatokra.",
+            "ro": "Descoperiți această plajă naturală, ușor retrasă, cu o frumusețe sălbatică, dar fiți atenți la curenții marini uneori puternici atunci când înotați.",
+            "en": "Discover this slightly secluded natural beach with its rugged beauty, but always pay close attention to the occasionally strong marine currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Area de Agra",
+            "hu": "Area de Agra",
+            "ro": "Area de Agra",
+            "en": "Area de Agra"
+          },
+          "coords": [
+            -8.769438,
+            42.39445
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem malerischen Sandstrand, der von grünen Hügeln umgeben ist, und packen Sie ein Picknick für die Mittagszeit ein.",
+            "hu": "Töltsön el néhány pihentető órát ezen a zöld dombokkal övezett, festői homokos strandon, és mindenképpen hozzon magával egy finom ebédet a piknikezéshez.",
+            "ro": "Petreceți ore relaxante pe această plajă pitorească de nisip înconjurată de dealuri verzi și asigurați-vă că împachetați un picnic gustos pentru prânz.",
+            "en": "Spend relaxing hours at this picturesque sandy beach surrounded by rolling green hills, and be sure to pack a delicious picnic basket for a lovely lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Zentrum und erkunden Sie die lebendigen Stadtstrände. Mittags wandern Sie entlang der Küste zu ruhigeren, malerischen Buchten, wo Sie die Natur ungestört genießen können. Der Nachmittag lädt zu einem entspannten Picknick und Schwimmen im kühlen Atlantik ein. Beenden Sie den perfekten Tag mit einem Spaziergang im goldenen Abendlicht an einem der idyllischen Randstrände.",
+        "hu": "Kezdje a napot a központban, és fedezze fel a nyüzsgő városi strandokat. Délben sétáljon végig a parton a csendesebb, festői öblök felé, ahol zavartalanul élvezheti a természetet. A délután tökéletes egy kellemes piknikhez és egy frissítő fürdőzéshez a hűvös Atlanti-óceánban. Zárja ezt a csodás napot egy naplemente körüli sétával az egyik idilli, távolabbi partszakaszon.",
+        "ro": "Începeți ziua în centru, explorând plajele pline de viață ale orașului. La prânz, mergeți de-a lungul coastei spre golfuri mai liniștite și pitorești, unde vă puteți bucura de natură. După-amiaza vă invită la un picnic relaxant și o baie în oceanul răcoros. Încheiați ziua perfectă cu o plimbare în lumina caldă a serii pe una dintre plajele idilice aflate la marginea stațiunii.",
+        "en": "Start your day in the center, exploring the lively urban beaches. By midday, travel along the breathtaking coastline toward quieter, picturesque coves where nature truly shines. The afternoon is absolutely perfect for a relaxing picnic and a refreshing swim in the cool Atlantic waters. End this perfect day with a gentle stroll in the golden evening light at one of the idyllic outer beaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia dos Barcos",
+            "hu": "Praia dos Barcos",
+            "ro": "Praia dos Barcos",
+            "en": "Praia dos Barcos"
+          },
+          "coords": [
+            -8.805687,
+            42.3996
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den morgendlichen Trubel an diesem zentralen Strand, wo Fischerboote anlegen, und bringen Sie bequeme Schuhe für den nahen Hafenrundgang mit.",
+            "hu": "Élvezze a reggeli nyüzsgést ezen a központi strandon, ahol a halászhajók kikötnek, és hozzon kényelmes cipőt a közeli kikötő bejárásához.",
+            "ro": "Bucurați-vă de forfota matinală pe această plajă centrală, unde ancorează bărcile de pescuit, și purtați încălțăminte comodă pentru o plimbare prin port.",
+            "en": "Enjoy the morning bustle at this central beach where local fishing boats dock, and bring comfortable shoes for a quick stroll around the nearby marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Carabuxeira",
+            "hu": "Praia Carabuxeira",
+            "ro": "Praia Carabuxeira",
+            "en": "Praia Carabuxeira"
+          },
+          "coords": [
+            -8.799452,
+            42.400241
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Aussicht auf die Flussmündung von diesem schmalen Strandabschnitt aus, ideal für ein erfrischendes Bad bei steigender Flut.",
+            "hu": "Csodálja meg a festői kilátást a folyótorkolatra erről a keskeny strandszakaszról, amely dagály idején ideális egy frissítő fürdőzéshez a tengerben.",
+            "ro": "Admirați priveliștea pitorească a estuarului de pe această fâșie îngustă de plajă, perfectă pentru o baie răcoritoare atunci când nivelul mării crește.",
+            "en": "Admire the picturesque views of the estuary from this narrow stretch of sand, which is absolutely perfect for a refreshing swim when the tide comes in."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Mortos",
+            "hu": "Praia dos Mortos",
+            "ro": "Praia dos Mortos",
+            "en": "Praia dos Mortos"
+          },
+          "coords": [
+            -8.777381,
+            42.390547
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen etwas abgelegenen Naturstrand mit seiner wilden Schönheit, aber achten Sie auf die teilweise starken Strömungen beim Schwimmen im Meer.",
+            "hu": "Fedezze fel ezt a kissé eldugott, vad szépségű természetes strandot, de úszás közben feltétlenül ügyeljen az időnként felbukkanó erős tengeri áramlatokra.",
+            "ro": "Descoperiți această plajă naturală, ușor retrasă, cu o frumusețe sălbatică, dar fiți atenți la curenții marini uneori puternici atunci când înotați.",
+            "en": "Discover this slightly secluded natural beach with its rugged beauty, but always pay close attention to the occasionally strong marine currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Area de Agra",
+            "hu": "Area de Agra",
+            "ro": "Area de Agra",
+            "en": "Area de Agra"
+          },
+          "coords": [
+            -8.769438,
+            42.39445
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem malerischen Sandstrand, der von grünen Hügeln umgeben ist, und packen Sie ein Picknick für die Mittagszeit ein.",
+            "hu": "Töltsön el néhány pihentető órát ezen a zöld dombokkal övezett, festői homokos strandon, és mindenképpen hozzon magával egy finom ebédet a piknikezéshez.",
+            "ro": "Petreceți ore relaxante pe această plajă pitorească de nisip înconjurată de dealuri verzi și asigurați-vă că împachetați un picnic gustos pentru prânz.",
+            "en": "Spend relaxing hours at this picturesque sandy beach surrounded by rolling green hills, and be sure to pack a delicious picnic basket for a lovely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Pampaido",
+            "hu": "Praia de Pampaido",
+            "ro": "Praia de Pampaido",
+            "en": "Praia de Pampaido"
+          },
+          "coords": [
+            -8.759321,
+            42.39733
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem ruhigen, familienfreundlichen Strand baumeln, der flaches Wasser bietet und somit ideal für ein sicheres Planschen ist.",
+            "hu": "Pihenje ki magát ezen a csendes, családbarát strandon, amelynek sekély vize ideális és teljesen biztonságos környezetet nyújt a gyerekek fürdőzéséhez.",
+            "ro": "Relaxați-vă pe această plajă liniștită, potrivită pentru familii, care oferă ape puțin adânci, perfecte pentru o bălăceală în condiții de maximă siguranță.",
+            "en": "Unwind at this quiet, family-friendly beach that offers inviting shallow waters, making it an incredibly safe and enjoyable spot for a quick coastal splash."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Granxa",
+            "hu": "Praia da Granxa",
+            "ro": "Praia da Granxa",
+            "en": "Praia da Granxa"
+          },
+          "coords": [
+            -8.758737,
+            42.400672
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem bezaubernden Strand ausklingen und machen Sie einen gemütlichen Spaziergang entlang der Küste, während die Sonne langsam untergeht.",
+            "hu": "Zárja a napot ezen a varázslatos strandon, és tegyen egy kényelmes sétát a part mentén, miközben gyönyörködik a lassan lemenő nap csodás színeiben.",
+            "ro": "Încheiați ziua pe această plajă fermecătoare și faceți o plimbare relaxantă de-a lungul coastei, admirând culorile spectaculoase ale soarelui la apus.",
+            "en": "End your lovely day at this charming beach and take a leisurely sunset stroll along the pristine coastline as you watch the sky change its vibrant colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Zentrum und erkunden Sie die lebendigen Stadtstrände. Mittags wandern Sie entlang der Küste zu ruhigeren, malerischen Buchten, wo Sie die Natur ungestört genießen können. Der Nachmittag lädt zu einem entspannten Picknick und Schwimmen im kühlen Atlantik ein. Beenden Sie den perfekten Tag mit einem Spaziergang im goldenen Abendlicht an einem der idyllischen Randstrände.",
+        "hu": "Kezdje a napot a központban, és fedezze fel a nyüzsgő városi strandokat. Délben sétáljon végig a parton a csendesebb, festői öblök felé, ahol zavartalanul élvezheti a természetet. A délután tökéletes egy kellemes piknikhez és egy frissítő fürdőzéshez a hűvös Atlanti-óceánban. Zárja ezt a csodás napot egy naplemente körüli sétával az egyik idilli, távolabbi partszakaszon.",
+        "ro": "Începeți ziua în centru, explorând plajele pline de viață ale orașului. La prânz, mergeți de-a lungul coastei spre golfuri mai liniștite și pitorești, unde vă puteți bucura de natură. După-amiaza vă invită la un picnic relaxant și o baie în oceanul răcoros. Încheiați ziua perfectă cu o plimbare în lumina caldă a serii pe una dintre plajele idilice aflate la marginea stațiunii.",
+        "en": "Start your day in the center, exploring the lively urban beaches. By midday, travel along the breathtaking coastline toward quieter, picturesque coves where nature truly shines. The afternoon is absolutely perfect for a relaxing picnic and a refreshing swim in the cool Atlantic waters. End this perfect day with a gentle stroll in the golden evening light at one of the idyllic outer beaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia dos Barcos",
+            "hu": "Praia dos Barcos",
+            "ro": "Praia dos Barcos",
+            "en": "Praia dos Barcos"
+          },
+          "coords": [
+            -8.805687,
+            42.3996
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den morgendlichen Trubel an diesem zentralen Strand, wo Fischerboote anlegen, und bringen Sie bequeme Schuhe für den nahen Hafenrundgang mit.",
+            "hu": "Élvezze a reggeli nyüzsgést ezen a központi strandon, ahol a halászhajók kikötnek, és hozzon kényelmes cipőt a közeli kikötő bejárásához.",
+            "ro": "Bucurați-vă de forfota matinală pe această plajă centrală, unde ancorează bărcile de pescuit, și purtați încălțăminte comodă pentru o plimbare prin port.",
+            "en": "Enjoy the morning bustle at this central beach where local fishing boats dock, and bring comfortable shoes for a quick stroll around the nearby marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Carabuxeira",
+            "hu": "Praia Carabuxeira",
+            "ro": "Praia Carabuxeira",
+            "en": "Praia Carabuxeira"
+          },
+          "coords": [
+            -8.799452,
+            42.400241
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Aussicht auf die Flussmündung von diesem schmalen Strandabschnitt aus, ideal für ein erfrischendes Bad bei steigender Flut.",
+            "hu": "Csodálja meg a festői kilátást a folyótorkolatra erről a keskeny strandszakaszról, amely dagály idején ideális egy frissítő fürdőzéshez a tengerben.",
+            "ro": "Admirați priveliștea pitorească a estuarului de pe această fâșie îngustă de plajă, perfectă pentru o baie răcoritoare atunci când nivelul mării crește.",
+            "en": "Admire the picturesque views of the estuary from this narrow stretch of sand, which is absolutely perfect for a refreshing swim when the tide comes in."
+          }
+        },
+        {
+          "name": {
+            "de": "Area de Agra",
+            "hu": "Area de Agra",
+            "ro": "Area de Agra",
+            "en": "Area de Agra"
+          },
+          "coords": [
+            -8.769438,
+            42.39445
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem malerischen Sandstrand, der von grünen Hügeln umgeben ist, und packen Sie ein Picknick für die Mittagszeit ein.",
+            "hu": "Töltsön el néhány pihentető órát ezen a zöld dombokkal övezett, festői homokos strandon, és mindenképpen hozzon magával egy finom ebédet a piknikezéshez.",
+            "ro": "Petreceți ore relaxante pe această plajă pitorească de nisip înconjurată de dealuri verzi și asigurați-vă că împachetați un picnic gustos pentru prânz.",
+            "en": "Spend relaxing hours at this picturesque sandy beach surrounded by rolling green hills, and be sure to pack a delicious picnic basket for a lovely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Pampaido",
+            "hu": "Praia de Pampaido",
+            "ro": "Praia de Pampaido",
+            "en": "Praia de Pampaido"
+          },
+          "coords": [
+            -8.759321,
+            42.39733
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem ruhigen, familienfreundlichen Strand baumeln, der flaches Wasser bietet und somit ideal für ein sicheres Planschen ist.",
+            "hu": "Pihenje ki magát ezen a csendes, családbarát strandon, amelynek sekély vize ideális és teljesen biztonságos környezetet nyújt a gyerekek fürdőzéséhez.",
+            "ro": "Relaxați-vă pe această plajă liniștită, potrivită pentru familii, care oferă ape puțin adânci, perfecte pentru o bălăceală în condiții de maximă siguranță.",
+            "en": "Unwind at this quiet, family-friendly beach that offers inviting shallow waters, making it an incredibly safe and enjoyable spot for a quick coastal splash."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Mariña",
+            "hu": "Santa Mariña",
+            "ro": "Santa Mariña",
+            "en": "Santa Mariña"
+          },
+          "coords": [
+            -8.758325,
+            42.39926
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen beschaulichen Küstenabschnitt für einen Moment der Stille, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Urlaubsfotos.",
+            "hu": "Látogasson el erre a békés partszakaszra egy pillanatnyi nyugalomért, és használja ki a lágy délutáni fényeket a legszebb nyaralási fotók elkészítéséhez.",
+            "ro": "Vizitați această secțiune de coastă liniștită pentru un moment de pace și profitați de lumina blândă a după-amiezii pentru a face fotografii superbe de vacanță.",
+            "en": "Visit this tranquil stretch of coastline for a pure moment of peace, and take full advantage of the soft afternoon light to capture beautiful vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Granxa",
+            "hu": "Praia da Granxa",
+            "ro": "Praia da Granxa",
+            "en": "Praia da Granxa"
+          },
+          "coords": [
+            -8.758737,
+            42.400672
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem bezaubernden Strand ausklingen und machen Sie einen gemütlichen Spaziergang entlang der Küste, während die Sonne langsam untergeht.",
+            "hu": "Zárja a napot ezen a varázslatos strandon, és tegyen egy kényelmes sétát a part mentén, miközben gyönyörködik a lassan lemenő nap csodás színeiben.",
+            "ro": "Încheiați ziua pe această plajă fermecătoare și faceți o plimbare relaxantă de-a lungul coastei, admirând culorile spectaculoase ale soarelui la apus.",
+            "en": "End your lovely day at this charming beach and take a leisurely sunset stroll along the pristine coastline as you watch the sky change its vibrant colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Zentrum und erkunden Sie die lebendigen Stadtstrände. Mittags wandern Sie entlang der Küste zu ruhigeren, malerischen Buchten, wo Sie die Natur ungestört genießen können. Der Nachmittag lädt zu einem entspannten Picknick und Schwimmen im kühlen Atlantik ein. Beenden Sie den perfekten Tag mit einem Spaziergang im goldenen Abendlicht an einem der idyllischen Randstrände.",
+        "hu": "Kezdje a napot a központban, és fedezze fel a nyüzsgő városi strandokat. Délben sétáljon végig a parton a csendesebb, festői öblök felé, ahol zavartalanul élvezheti a természetet. A délután tökéletes egy kellemes piknikhez és egy frissítő fürdőzéshez a hűvös Atlanti-óceánban. Zárja ezt a csodás napot egy naplemente körüli sétával az egyik idilli, távolabbi partszakaszon.",
+        "ro": "Începeți ziua în centru, explorând plajele pline de viață ale orașului. La prânz, mergeți de-a lungul coastei spre golfuri mai liniștite și pitorești, unde vă puteți bucura de natură. După-amiaza vă invită la un picnic relaxant și o baie în oceanul răcoros. Încheiați ziua perfectă cu o plimbare în lumina caldă a serii pe una dintre plajele idilice aflate la marginea stațiunii.",
+        "en": "Start your day in the center, exploring the lively urban beaches. By midday, travel along the breathtaking coastline toward quieter, picturesque coves where nature truly shines. The afternoon is absolutely perfect for a relaxing picnic and a refreshing swim in the cool Atlantic waters. End this perfect day with a gentle stroll in the golden evening light at one of the idyllic outer beaches."
+      }
+    }
+  }
+}

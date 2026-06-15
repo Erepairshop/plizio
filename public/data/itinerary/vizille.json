@@ -1,0 +1,428 @@
+{
+  "city_id": "vizille",
+  "anchor": {
+    "name": "Vizille",
+    "coords": [
+      5.7719,
+      45.0783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 1.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vizille",
+            "hu": "Vizille Városháza",
+            "ro": "Primăria Vizille",
+            "en": "Vizille Town Hall"
+          },
+          "coords": [
+            5.77253,
+            45.07729
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
+            "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
+            "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark von Vizille",
+            "hu": "Vizille Kastélypark",
+            "ro": "Parcul Castelului Vizille",
+            "en": "Vizille Castle Park"
+          },
+          "coords": [
+            5.769512,
+            45.078478
+          ],
+          "category": "natural",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen, von Kanälen durchzogenen Gärten des Schlossparks, um die Natur zu genießen und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
+            "hu": "Sétáljon végig a kastélypark csatornákkal átszőtt kiterjedt kertjein, hogy élvezze a természetet, és hozzon magával pikniket egy békés szabadtéri ebédhez.",
+            "ro": "Plimbați-vă prin grădinile vaste ale parcului castelului, traversate de canale, pentru a vă bucura de natură, și aduceți un picnic pentru un prânz liniștit.",
+            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für die Französische Revolution",
+            "hu": "Francia Forradalom Múzeuma",
+            "ro": "Muzeul Revoluției Franceze",
+            "en": "Museum of the French Revolution"
+          },
+          "coords": [
+            5.773056,
+            45.075556
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
+            "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
+            "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Hirsche und Rehe",
+            "hu": "Szarvasok és Őzek",
+            "ro": "Cerbi și Căprioare",
+            "en": "Cerfs et biches"
+          },
+          "coords": [
+            5.774051,
+            45.069548
+          ],
+          "category": "family",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen Hirsche und Rehe, die frei im Tiergehege des Parks umherstreifen, und kommen Sie am frühen Nachmittag, wenn sie am aktivsten sind.",
+            "hu": "Figyelje meg a park állatkeresztjében szabadon kószáló fenséges szarvasokat és őzeket, és érkezzen kora délután, amikor ezek az állatok a legaktívabbak.",
+            "ro": "Observați cerbii și căprioarele maiestuoase care cutreieră liber în rezervația parcului și veniți la începutul după-amiezii când aceste animale sunt cele mai active.",
+            "en": "Watch the majestic deer and does roaming freely within the park's animal reserve, and plan to arrive in the early afternoon when the animals are most active."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Vizille",
+            "hu": "Domaine de Vizille",
+            "ro": "Domeniul Vizille",
+            "en": "Domaine de Vizille"
+          },
+          "coords": [
+            5.77225,
+            45.066924
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der historischen Domaine de Vizille, dem Geburtsort der Revolution, und tragen Sie bequeme Schuhe für die großen Höfe.",
+            "hu": "Csodálja meg a történelmi Domaine de Vizille, a forradalom szülőhelyének lenyűgöző építészetét, és viseljen kényelmes cipőt a nagy udvarok bejárásához.",
+            "ro": "Admirați arhitectura impresionantă a domeniului istoric Vizille, locul de naștere al revoluției, și purtați încălțăminte confortabilă pentru curțile sale imense.",
+            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum am historischen Rathaus. Schlendern Sie anschließend entspannt in den beeindruckenden Schlosspark von Vizille, um die üppige Natur zu genießen. Tauchen Sie mittags im Museum für die Französische Revolution in die reiche Geschichte ein. Der Nachmittag bietet eine Begegnung mit den Rehen des Parks und endet am majestätischen Domaine de Vizille.",
+        "hu": "Kezdje a napot a központban, a történelmi városházánál. Ezután tegyen egy pihentető sétát Vizille lenyűgöző kastélyparkjában, hogy élvezze a buja természetet. Délben merüljön el a gazdag történelemben a Francia Forradalom Múzeumában. A délután lehetőséget nyújt a park szarvasainak megfigyelésére, végül pedig a fenséges Domaine de Vizille-nél ér véget a túra.",
+        "ro": "Începeți-vă ziua în centru la primăria istorică. Apoi faceți o plimbare relaxantă în impresionantul parc al castelului din Vizille pentru a vă bucura de natura luxuriantă. La prânz, scufundați-vă în istoria bogată la Muzeul Revoluției Franceze. După-amiaza oferă o întâlnire cu cerbii din parc și se încheie la maiestuosul Domeniu Vizille.",
+        "en": "Start your day in the center at the historic town hall. Afterward, take a relaxing stroll into the impressive Vizille castle park to enjoy the lush nature and tranquil canals. At midday, dive into rich history at the Museum of the French Revolution. The afternoon offers an encounter with the park's roaming deer, ending at the majestic Domaine de Vizille."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 5.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vizille",
+            "hu": "Vizille Városháza",
+            "ro": "Primăria Vizille",
+            "en": "Vizille Town Hall"
+          },
+          "coords": [
+            5.77253,
+            45.07729
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
+            "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
+            "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark von Vizille",
+            "hu": "Vizille Kastélypark",
+            "ro": "Parcul Castelului Vizille",
+            "en": "Vizille Castle Park"
+          },
+          "coords": [
+            5.769512,
+            45.078478
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen, von Kanälen durchzogenen Gärten des Schlossparks, um die Natur zu genießen und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
+            "hu": "Sétáljon végig a kastélypark csatornákkal átszőtt kiterjedt kertjein, hogy élvezze a természetet, és hozzon magával pikniket egy békés szabadtéri ebédhez.",
+            "ro": "Plimbați-vă prin grădinile vaste ale parcului castelului, traversate de canale, pentru a vă bucura de natură, și aduceți un picnic pentru un prânz liniștit.",
+            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für die Französische Revolution",
+            "hu": "Francia Forradalom Múzeuma",
+            "ro": "Muzeul Revoluției Franceze",
+            "en": "Museum of the French Revolution"
+          },
+          "coords": [
+            5.773056,
+            45.075556
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
+            "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
+            "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Vizille",
+            "hu": "Domaine de Vizille",
+            "ro": "Domeniul Vizille",
+            "en": "Domaine de Vizille"
+          },
+          "coords": [
+            5.77225,
+            45.066924
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der historischen Domaine de Vizille, dem Geburtsort der Revolution, und tragen Sie bequeme Schuhe für die großen Höfe.",
+            "hu": "Csodálja meg a történelmi Domaine de Vizille, a forradalom szülőhelyének lenyűgöző építészetét, és viseljen kényelmes cipőt a nagy udvarok bejárásához.",
+            "ro": "Admirați arhitectura impresionantă a domeniului istoric Vizille, locul de naștere al revoluției, și purtați încălțăminte confortabilă pentru curțile sale imense.",
+            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratsruinen",
+            "hu": "Perjelség Romjai",
+            "ro": "Ruinele Prioratului",
+            "en": "Priory Ruins"
+          },
+          "coords": [
+            5.727845,
+            45.0603
+          ],
+          "category": "monastic",
+          "arrive_at": "14:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die geheimnisvollen Ruinen des alten Priorats, die eine ruhige historische Atmosphäre bieten, und fotografieren Sie das Gelände im weichen Nachmittagslicht.",
+            "hu": "Fedezze fel a régi perjelség titokzatos romjait, amelyek nyugodt történelmi légkört kínálnak, és fotózza le a területet a lágy, délutáni napfényben.",
+            "ro": "Descoperiți ruinele misterioase ale vechii priorități, care oferă o atmosferă istorică liniștită, și fotografiați site-ul în lumina blândă a după-amiezii.",
+            "en": "Discover the mysterious ruins of the old priory that offer a serene historical atmosphere, and bring your camera to photograph the site in the soft afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet zentral am Rathaus von Vizille. Von dort fahren Sie direkt in die wunderschönen Parkanlagen des Schlosses, ein idealer Ort für eine morgendliche Erkundung. Mittags besuchen Sie das Revolutionsmuseum und das umliegende historische Gut. Am Nachmittag radeln Sie gemütlich aus der Stadt heraus, um die geheimnisvollen Prioratsruinen zu entdecken.",
+        "hu": "A kerékpártúra központilag, Vizille városházájától indul. Innen egyenesen a kastély gyönyörű parkjába tekerhet, amely ideális helyszín egy reggeli felfedezéshez. Délben látogassa meg a forradalmi múzeumot és a környező történelmi birtokot. Délután kényelmesen kerekezzen ki a városból, hogy felfedezze a régi perjelség titokzatos romjait.",
+        "ro": "Turul cu bicicleta începe central la primăria din Vizille. De acolo mergeți direct în grădinile frumoase ale castelului, o locație ideală pentru o explorare matinală. La prânz vizitați muzeul revoluției și domeniul istoric din jur. După-amiaza pedalați lejer în afara orașului pentru a descoperi ruinele misterioase ale priorității.",
+        "en": "The bike tour starts centrally at the Vizille town hall. From there, ride straight into the beautiful parklands of the castle, an ideal location for morning exploration. At midday, visit the revolution museum and the surrounding historical estate grounds. In the afternoon, cycle leisurely out of town to discover the mysterious ruins of the old priory."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 16.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vizille",
+            "hu": "Vizille Városháza",
+            "ro": "Primăria Vizille",
+            "en": "Vizille Town Hall"
+          },
+          "coords": [
+            5.77253,
+            45.07729
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
+            "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
+            "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für die Französische Revolution",
+            "hu": "Francia Forradalom Múzeuma",
+            "ro": "Muzeul Revoluției Franceze",
+            "en": "Museum of the French Revolution"
+          },
+          "coords": [
+            5.773056,
+            45.075556
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
+            "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
+            "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Luitel",
+            "hu": "Lac Luitel",
+            "ro": "Lacul Luitel",
+            "en": "Lac Luitel"
+          },
+          "coords": [
+            5.848437,
+            45.090761
+          ],
+          "category": "natural",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung am Lac Luitel, einem geschützten Torfmoor mit einzigartiger Flora, und bleiben Sie auf den Holzstegen, um die Natur zu schützen.",
+            "hu": "Élvezze a békés környezetet a Lac Luitel-nél, egy védett tőzeglápnál egyedi növényvilággal, és maradjon a fa pallókon, hogy megvédje az érzékeny természetet.",
+            "ro": "Bucurați-vă de mediul pașnic de la Lac Luitel, o turbărie protejată cu floră unică, și rămâneți pe pasarelele din lemn pentru a proteja ecosistemul fragil.",
+            "en": "Enjoy the peaceful surroundings at Lac Luitel, a protected peat bog featuring unique flora, and please stay on the wooden boardwalks to protect the fragile nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Praver",
+            "hu": "Lac de Praver",
+            "ro": "Lacul de Praver",
+            "en": "Lac de Praver"
+          },
+          "coords": [
+            5.854861,
+            45.07264
+          ],
+          "category": "natural",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern des Lac de Praver, der abseits der großen Touristenströme liegt, und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Pihenjen meg a Lac de Praver nyugodt partjainál, amely távol esik a nagy turistatömegektől, és vigyen magával távcsövet a helyi madarak megfigyeléséhez.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale lacului de Praver, situat departe de mulțimile de turiști, și luați un binoclu pentru a observa păsările din zonă.",
+            "en": "Relax by the tranquil shores of Lac de Praver, which lies well away from the major tourist crowds, and don't forget to pack binoculars for excellent bird watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Mort",
+            "hu": "Lac Mort",
+            "ro": "Lac Mort",
+            "en": "Lac Mort"
+          },
+          "coords": [
+            5.789836,
+            45.031184
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Lac Mort für atemberaubende alpine Spiegelungen im klaren Wasser, und beachten Sie, dass das Schwimmen in diesem künstlichen Stausee verboten ist.",
+            "hu": "Látogasson el a Lac Mort-hoz a tiszta vízben tükröződő lenyűgöző alpesi tájért, de vegye figyelembe, hogy ebben a mesterséges víztározóban tilos az úszás.",
+            "ro": "Vizitați Lac Mort pentru reflexiile alpine uimitoare în apele sale clare și rețineți că înotul este strict interzis în acest rezervor de apă artificial.",
+            "en": "Visit Lac Mort to witness stunning alpine reflections on its clear waters, but please be aware that swimming is strictly prohibited in this artificial reservoir."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Lac de Laffrey",
+            "hu": "Grand Lac de Laffrey",
+            "ro": "Grand Lac de Laffrey",
+            "en": "Grand Lac de Laffrey"
+          },
+          "coords": [
+            5.777424,
+            45.011706
+          ],
+          "category": "natural",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Grand Lac de Laffrey, einem perfekten Ort für Wassersport und Entspannung, und genießen Sie den Sonnenuntergang von den westlichen Ufern aus.",
+            "hu": "Fejezze be a napját a Grand Lac de Laffrey-nél, amely tökéletes hely vízi sportokhoz és pihenéshez, és élvezze a naplementét a nyugati partok egyikéről.",
+            "ro": "Încheiați-vă ziua la Grand Lac de Laffrey, un loc perfect pentru sporturi nautice și relaxare, și bucurați-vă de un apus spectaculos de pe malurile vestice.",
+            "en": "Conclude your day at the Grand Lac de Laffrey, a perfect spot for water sports and relaxation, and secure a spot on the western shores to watch the beautiful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem kurzen Halt am Rathaus und tauchen Sie im Revolutionsmuseum in die Geschichte ein. Danach verlassen Sie die Stadt, um den malerischen alpinen Lac Luitel zu erkunden. Der Nachmittag ist der Natur gewidmet, beginnend mit der Ruhe am Lac de Praver und den atemberaubenden Spiegelungen am Lac Mort. Der Tag endet perfekt am großflächigen Grand Lac de Laffrey.",
+        "hu": "Kezdje egy rövid megállóval a városházánál, majd merüljön el a történelemben a forradalmi múzeumban. Ezután hagyja el a várost, hogy felfedezze a festői, alpesi Lac Luitel-t. A délután a természetnek van szentelve, amely a Lac de Praver nyugalmával és a Lac Mort lenyűgöző tükröződéseivel kezdődik. A nap tökéletesen zárul a hatalmas Grand Lac de Laffrey partján.",
+        "ro": "Începeți cu o scurtă oprire la primărie și aprofundați istoria la muzeul revoluției. Apoi părăsiți orașul pentru a explora pitorescul lac alpin Luitel. După-amiaza este dedicată naturii, începând cu liniștea de la Lac de Praver și reflexiile uimitoare de la Lac Mort. Ziua se încheie perfect pe malurile întinse ale Grand Lac de Laffrey.",
+        "en": "Begin with a brief stop at the town hall and delve into history at the revolution museum. Afterwards, leave the town to explore the picturesque alpine Lac Luitel. The afternoon is completely dedicated to nature, starting with tranquility at Lac de Praver and stunning reflections at Lac Mort. The day wraps up perfectly by the expansive Grand Lac de Laffrey."
+      }
+    }
+  }
+}

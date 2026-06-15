@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-andre-de-cubzac",
+  "anchor": {
+    "name": "Saint-André-de-Cubzac",
+    "coords": [
+      -0.4458,
+      44.9947
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salle du Champ de Foire",
+            "hu": "Salle du Champ de Foire",
+            "ro": "Salle du Champ de Foire",
+            "en": "Salle du Champ de Foire"
+          },
+          "coords": [
+            -0.444419,
+            44.995216
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses zentrale kulturelle Zentrum für lokale Veranstaltungen und prüfen Sie das schwarze Brett auf kostenlose Abendvorstellungen, bevor Sie einen Kaffee trinken.",
+            "hu": "Fedezze fel ezt a helyi rendezvényeknek otthont adó központi kulturális teret, és nézze meg a hirdetőtáblát az ingyenes esti előadásokért, mielőtt meginna egy kávét a közelben.",
+            "ro": "Descoperiți acest centru cultural central ce găzduiește evenimente locale și verificați avizierul pentru spectacole gratuite seara, înainte de a savura o cafea în apropiere.",
+            "en": "Discover this central cultural hub that hosts local events, and check the bulletin board outside for free evening performances before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-André Church",
+            "hu": "Saint-André Church",
+            "ro": "Saint-André Church",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            -0.448188,
+            44.992272
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
+            "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Robillard",
+            "hu": "Château Robillard",
+            "ro": "Château Robillard",
+            "en": "Château Robillard"
+          },
+          "coords": [
+            -0.449818,
+            44.994375
+          ],
+          "category": "castle",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
+            "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
+            "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin panoramique de Montalon",
+            "hu": "Moulin panoramique de Montalon",
+            "ro": "Moulin panoramique de Montalon",
+            "en": "Moulin panoramique de Montalon"
+          },
+          "coords": [
+            -0.453288,
+            44.997126
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
+            "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
+            "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoulou",
+            "hu": "Zoulou",
+            "ro": "Zoulou",
+            "en": "Zoulou"
+          },
+          "coords": [
+            -0.438285,
+            44.995033
+          ],
+          "category": "family",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um die Hindernisse sicher überwinden zu können.",
+            "hu": "Látogasson el a családdal ebbe a szórakoztató kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadályok biztonságos leküzdése érdekében.",
+            "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru o experiență sigură.",
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the structures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im belebten kulturellen Herzen an der Salle du Champ de Foire. Tauchen Sie anschließend bei der nahegelegenen Saint-André Kirche in die lokale Geschichte ein. Erkunden Sie die Ruinen von Château Robillard für einen Hauch von mittelalterlicher Romantik. Genießen Sie nachmittags den herrlichen Weitblick von der Moulin de Montalon und beenden Sie den Tag bei Zoulou.",
+        "hu": "Kezdje gyalogos sétáját a nyüzsgő kulturális központban, a Salle du Champ de Foire-nál. Ezután merüljön el a helyi történelemben a közeli Saint-André templomnál. Fedezze fel a Château Robillard romjait egy kis középkori romantikáért. Délután élvezze a csodálatos kilátást a Moulin de Montalon malomtól, és zárja a napot egy vidám kikapcsolódással a Zoulou központban.",
+        "ro": "Începeți plimbarea în inima culturală animată, la Salle du Champ de Foire. Aprofundați istoria locală la biserica Saint-André aflată în apropiere. Explorați ruinele Château Robillard pentru o notă de romantism medieval. După-amiaza, bucurați-vă de priveliștile ample de la Moulin de Montalon și încheiați ziua relaxându-vă cu familia la centrul de activități Zoulou.",
+        "en": "Begin your walk at the bustling cultural heart of the Salle du Champ de Foire. Delve into local history at the nearby Saint-André Church shortly after. Explore the picturesque ruins of Château Robillard for a touch of medieval romance. In the afternoon, enjoy the sweeping panoramic vistas from the Moulin de Montalon before concluding your day with a fun break at Zoulou."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-André Church",
+            "hu": "Saint-André Church",
+            "ro": "Saint-André Church",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            -0.448188,
+            44.992272
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
+            "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Robillard",
+            "hu": "Château Robillard",
+            "ro": "Château Robillard",
+            "en": "Château Robillard"
+          },
+          "coords": [
+            -0.449818,
+            44.994375
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
+            "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
+            "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin panoramique de Montalon",
+            "hu": "Moulin panoramique de Montalon",
+            "ro": "Moulin panoramique de Montalon",
+            "en": "Moulin panoramique de Montalon"
+          },
+          "coords": [
+            -0.453288,
+            44.997126
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
+            "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
+            "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoulou Aventures",
+            "hu": "Zoulou Aventures",
+            "ro": "Zoulou Aventures",
+            "en": "Zoulou Aventures"
+          },
+          "coords": [
+            -0.438944,
+            45.009679
+          ],
+          "category": "family",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um sicher auf den Strukturen klettern zu können.",
+            "hu": "Látogasson el a családdal ebbe a szórakoztató szabadtéri kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadálypályák biztonságos leküzdése érdekében.",
+            "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru a urca în siguranță.",
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bouilh",
+            "hu": "Château de Bouilh",
+            "ro": "Château de Bouilh",
+            "en": "Château de Bouilh"
+          },
+          "coords": [
+            -0.455711,
+            45.009228
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Pracht dieses beeindruckenden Anwesens und buchen Sie eine Führung im Voraus, um Zugang zu den erhaltenen Innenräumen zu erhalten.",
+            "hu": "Csodálja meg a Victor Louis által tervezett lenyűgöző birtok neoklasszikus pompáját, és érdemes előre vezetett túrát foglalni, hogy megtekinthesse a belső termeket is.",
+            "ro": "Minunați-vă de măreția neoclasică a acestui domeniu impresionant și rezervați un tur ghidat în avans pentru a avea acces la interioarele frumos conservate.",
+            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der wunderschönen Saint-André Kirche, bevor Sie gemütlich zum Château Robillard radeln. Setzen Sie die Tour bergauf zur historischen Moulin de Montalon fort, um die herrliche Aussicht zu genießen. Am Nachmittag bietet Zoulou Aventures aktiven Spaß für alle. Der Tag endet beeindruckend mit der neoklassizistischen Architektur des Château de Bouilh.",
+        "hu": "Kezdje kerékpáros túráját a gyönyörű Saint-André templomnál, mielőtt kényelmesen áttekerne a Château Robillard-hoz. Folytassa az utat felfelé a történelmi Moulin de Montalon malomhoz a csodás kilátásért. Délután a Zoulou Aventures kínál aktív szórakozást. A napot a lenyűgöző, neoklasszikus stílusú Château de Bouilh kastély megtekintésével zárja stílusosan.",
+        "ro": "Începeți turul cu bicicleta la frumoasa biserică Saint-André, înainte de a pedala lejer spre Château Robillard. Continuați drumul în urcare spre istorica Moulin de Montalon pentru a admira priveliștea. După-amiaza, Zoulou Aventures oferă distracție activă pentru toți. Ziua se încheie impresionant cu arhitectura neoclasică a magnificului Château de Bouilh.",
+        "en": "Start your cycling tour at the lovely Saint-André Church before pedaling gently to Château Robillard. Continue uphill to the historic Moulin de Montalon to take in the rewarding vineyard views. In the afternoon, Zoulou Aventures offers active fun for everyone. The day ends on a high note exploring the impressive neoclassical architecture of Château de Bouilh."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Julien",
+            "hu": "Église Saint-Julien",
+            "ro": "Église Saint-Julien",
+            "en": "Église Saint-Julien"
+          },
+          "coords": [
+            -0.446713,
+            44.970793
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre historische Reise an diesem charmanten religiösen Denkmal und beachten Sie den friedlichen Friedhof, der einen Einblick in die lokale Geschichte bietet.",
+            "hu": "Kezdje utazását ennél a bájos, kissé eldugott vallási műemléknél, és figyelje meg a békés környező temetőt, amely bepillantást nyújt a helyi ősök történetébe.",
+            "ro": "Începeți călătoria istorică la acest monument religios fermecător și retras, remarcând cimitirul pașnic din jur, care oferă o perspectivă asupra genealogiei locale.",
+            "en": "Start your historical journey at this charming and somewhat secluded religious monument, noting its peaceful surrounding cemetery that provides a fascinating glimpse into local ancestry."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-André Church",
+            "hu": "Saint-André Church",
+            "ro": "Saint-André Church",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            -0.448188,
+            44.992272
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
+            "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Robillard",
+            "hu": "Château Robillard",
+            "ro": "Château Robillard",
+            "en": "Château Robillard"
+          },
+          "coords": [
+            -0.449818,
+            44.994375
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
+            "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
+            "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin panoramique de Montalon",
+            "hu": "Moulin panoramique de Montalon",
+            "ro": "Moulin panoramique de Montalon",
+            "en": "Moulin panoramique de Montalon"
+          },
+          "coords": [
+            -0.453288,
+            44.997126
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
+            "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
+            "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoulou Aventures",
+            "hu": "Zoulou Aventures",
+            "ro": "Zoulou Aventures",
+            "en": "Zoulou Aventures"
+          },
+          "coords": [
+            -0.438944,
+            45.009679
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um sicher auf den Strukturen klettern zu können.",
+            "hu": "Látogasson el a családdal ebbe a szórakoztató szabadtéri kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadálypályák biztonságos leküzdése érdekében.",
+            "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru a urca în siguranță.",
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bouilh",
+            "hu": "Château de Bouilh",
+            "ro": "Château de Bouilh",
+            "en": "Château de Bouilh"
+          },
+          "coords": [
+            -0.455711,
+            45.009228
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Pracht dieses beeindruckenden Anwesens und buchen Sie eine Führung im Voraus, um Zugang zu den erhaltenen Innenräumen zu erhalten.",
+            "hu": "Csodálja meg a Victor Louis által tervezett lenyűgöző birtok neoklasszikus pompáját, és érdemes előre vezetett túrát foglalni, hogy megtekinthesse a belső termeket is.",
+            "ro": "Minunați-vă de măreția neoclasică a acestui domeniu impresionant și rezervați un tur ghidat în avans pentru a avea acces la interioarele frumos conservate.",
+            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Saint-Gervais",
+            "hu": "Mairie de Saint-Gervais",
+            "ro": "Mairie de Saint-Gervais",
+            "en": "Mairie de Saint-Gervais"
+          },
+          "coords": [
+            -0.464441,
+            45.016926
+          ],
+          "category": "landmark",
+          "arrive_at": "15:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schätzen Sie die traditionelle bürgerliche Architektur dieses gepflegten Rathauses und machen Sie ein kurzes Foto der eleganten Fassade vor der Weiterfahrt.",
+            "hu": "Tekintse meg a közösség központjaként szolgáló, jól karbantartott városháza hagyományos polgári építészetét, és készítsen egy gyors fotót az elegáns homlokzatról indulás előtt.",
+            "ro": "Apreciați arhitectura civică tradițională a acestei primării bine întreținute și faceți o fotografie rapidă a fațadei elegante înainte de a vă continua drumul cu mașina.",
+            "en": "Appreciate the traditional civic architecture of this well-maintained town hall which anchors the community, taking a quick snapshot of the elegant façade before continuing your drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Süden an der friedlichen Église Saint-Julien und fahren Sie dann ins Zentrum zur Saint-André Kirche. Ein kurzer Stopp beim Château Robillard leitet Sie weiter zur malerischen Moulin de Montalon. Erleben Sie am Nachmittag familiären Spaß bei Zoulou Aventures und besuchen Sie das majestätische Château de Bouilh, bevor Sie bei der Mairie enden.",
+        "hu": "Kezdje autós útját délen a békés Église Saint-Julien templomnál, majd hajtson a központba a Saint-André templomhoz. A Château Robillard-nál tett rövid megálló után irány a festői Moulin de Montalon. Délután a Zoulou Aventures nyújt családi szórakozást, majd látogasson el a fenséges Château de Bouilh-hoz, mielőtt a városházánál fejezné be napját.",
+        "ro": "Începeți plimbarea cu mașina în sud, la pașnica Église Saint-Julien, apoi conduceți spre centru la biserica Saint-André. O scurtă oprire la Château Robillard vă îndreaptă spre pitoreasca Moulin de Montalon. După-amiaza, bucurați-vă de distracția în familie la Zoulou Aventures, vizitați majestuosul Château de Bouilh și încheiați la primăria localității.",
+        "en": "Begin your drive in the south at the peaceful Église Saint-Julien, then head into the center to visit the Saint-André Church. A brief stop at Château Robillard leads you to the scenic Moulin de Montalon. Enjoy afternoon family fun at Zoulou Aventures, visit the majestic Château de Bouilh, and finally conclude your extensive tour at the local town hall."
+      }
+    }
+  }
+}

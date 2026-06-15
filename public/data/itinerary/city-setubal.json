@@ -1,0 +1,405 @@
+{
+  "city_id": "city-setubal",
+  "anchor": {
+    "name": "Setubal",
+    "coords": [
+      -8.8928,
+      38.5244
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Setúbal",
+            "hu": "Setúbal Múzeum",
+            "ro": "Muzeul din Setúbal",
+            "en": "Museum of Setúbal"
+          },
+          "coords": [
+            -8.895148,
+            38.525936
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und Kunstfertigkeit im Museum und schauen Sie sich unbedingt die Sonderausstellungen im Erdgeschoss an.",
+            "hu": "Fedezze fel a helyi történelmet és művészetet a múzeumban, és mindenképpen tekintse meg a földszinti időszaki kiállításokat.",
+            "ro": "Descoperiți istoria și măiestria locală în interiorul muzeului și asigurați-vă că verificați expozițiile temporare de la parter.",
+            "en": "Discover local history and artistry inside the museum, and be sure to check the temporary exhibitions on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Animação de Setúbal",
+            "hu": "Teatro Animação de Setúbal",
+            "ro": "Teatro Animação de Setúbal",
+            "en": "Teatro Animação de Setúbal"
+          },
+          "coords": [
+            -8.896195,
+            38.525286
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie den kulturellen Herzschlag der Stadt in diesem lebendigen Theater und prüfen Sie vorab den Spielplan für Vorstellungen.",
+            "hu": "Csodálja meg a város kulturális lüktetését ebben az élénk színházban, és előre ellenőrizze a helyi műsorfüzetet az előadásokhoz.",
+            "ro": "Admirați pulsul cultural al orașului la acest teatru plin de viață, verificând programul local în avans pentru spectacole.",
+            "en": "Admire the cultural heartbeat of the city at this lively theater, checking the local schedule in advance for performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Municipal",
+            "hu": "Galeria Municipal",
+            "ro": "Galeria Municipal",
+            "en": "Galeria Municipal"
+          },
+          "coords": [
+            -8.892189,
+            38.522671
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den schönen Sammlungen zeitgenössischer Kunst in dieser städtischen Galerie und fragen Sie das Personal nach lokalen Künstlern.",
+            "hu": "Böngésszen a kortárs művészeti gyűjtemények között ebben a városi galériában, és feltétlenül kérdezze meg a személyzetet a helyi művészekről.",
+            "ro": "Răsfoiți colecțiile de artă contemporană în această galerie municipală, asigurându-vă că întrebați personalul despre artiștii locali.",
+            "en": "Browse the fine contemporary art collections in this municipal gallery, making sure to ask the staff about the featured local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches und Ethnografisches Museum",
+            "hu": "Régészeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Arheologie și Etnografie",
+            "en": "Museu de Arqueologia e Etnografia do Distrito de Setúbal"
+          },
+          "coords": [
+            -8.889135,
+            38.523164
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Artefakte tief in die antiken Wurzeln der Region ein und nehmen Sie sich Zeit für die römischen Mosaike.",
+            "hu": "Merüljön el a régió ősi gyökereiben lenyűgöző leleteken keresztül, és szánjon extra időt a bonyolult római mozaikokra.",
+            "ro": "Scufundați-vă în rădăcinile antice ale regiunii prin artefacte fascinante și alocați timp suplimentar pentru mozaicurile romane.",
+            "en": "Dive deep into the region's ancient roots through fascinating artifacts, and allocate extra time for the intricate Roman mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Pökelfabrik",
+            "hu": "Római Halsózó Gyár",
+            "ro": "Fabrica Romană de Sărare",
+            "en": "Fábrica Romana de Salga"
+          },
+          "coords": [
+            -8.890267,
+            38.523569
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erstaunlich intakten Ruinen der römischen Fischsalzfabrik, die man am besten im späten Nachmittagslicht fotografiert.",
+            "hu": "Csodálja meg a római halsózó gyár meglepően ép romjait, amelyeket a késő délutáni fényben a legjobb lefotózni.",
+            "ro": "Minunați-vă de ruinele surprinzător de intacte ale fabricii romane de sărare, cel mai bine de văzut în lumina după-amiezii târzii.",
+            "en": "Marvel at the surprisingly intact ruins of the Roman fish-salting factory, best viewed in the late afternoon light for great photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in das lokale Erbe im Museum von Setúbal, gefolgt von einem Spaziergang zum kulturellen Zentrum des Teatro Animação. Der Mittag eignet sich perfekt zur Erkundung der bildenden Künste in der Galeria Municipal. Am Nachmittag reisen Sie im Museu de Arqueologia weiter in die Vergangenheit. Der Abend klingt wunderbar in den antiken Ruinen der Fábrica Romana de Salga aus.",
+        "hu": "A délelőtt a helyi örökség felfedezésével kezdődik a Setúbal Múzeumban, majd egy séta következik a Teatro Animação kulturális központjához. A délidő tökéletes a Galeria Municipal képzőművészeti alkotásainak felfedezésére. Délután utazzon tovább a múltba a Museu de Arqueologiában. Az este gyönyörűen zárul a Fábrica Romana de Salga ősi romjai között.",
+        "ro": "Dimineața începe cu o incursiune profundă în patrimoniul local la Muzeul din Setúbal, urmată de o plimbare spre centrul cultural Teatro Animação. Amiaza este perfectă pentru explorarea artelor vizuale la Galeria Municipală. După-amiaza, călătoriți mai departe în trecut la Muzeul de Arheologie. Seara se încheie frumos printre ruinele antice ale Fabricii Romane de Salga.",
+        "en": "Morning begins with a deep dive into local heritage at the Museum of Setúbal, followed by a stroll to the cultural hub of Teatro Animação. Midday is perfect for exploring the visual arts at the Galeria Municipal. In the afternoon, journey further into the past at the Museu de Arqueologia. The evening wraps up beautifully among the ancient ruins of the Fábrica Romana de Salga."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 3.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte de São Luiz Gonzaga",
+            "hu": "Forte de São Luiz Gonzaga",
+            "ro": "Forte de São Luiz Gonzaga",
+            "en": "Forte de São Luiz Gonzaga"
+          },
+          "coords": [
+            -8.906076,
+            38.528494
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser Festung mit tollen historischen Einblicken und denken Sie daran, Ihr Fahrrad am unteren Eingang anzuschließen.",
+            "hu": "Kezdje a túrát ennél az impozáns erődnél, amely történelmi betekintést nyújt, és ne felejtse el lezárni a kerékpárját az alsó bejáratnál.",
+            "ro": "Începeți plimbarea la această fortăreață impunătoare care oferă perspective istorice și amintiți-vă să vă asigurați bicicleta la intrarea inferioară.",
+            "en": "Start your ride at this imposing fortress offering great historical insights, and remember to secure your bike at the lower entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Setúbal",
+            "hu": "Setúbal Múzeum",
+            "ro": "Muzeul din Setúbal",
+            "en": "Museum of Setúbal"
+          },
+          "coords": [
+            -8.895148,
+            38.525936
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie die reichen Ausstellungen, die das bemerkenswerte kulturelle Erbe der Stadt veranschaulichen.",
+            "hu": "Parkolja le kerékpárját a közelben, és fedezze fel a város figyelemre méltó kulturális örökségét bemutató gazdag kiállításokat.",
+            "ro": "Parcați bicicleta în apropiere și explorați expozițiile bogate care detaliază moștenirea culturală remarcabilă a orașului.",
+            "en": "Park your bike nearby and explore the rich exhibitions that detail the city's remarkable cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Municipal",
+            "hu": "Galeria Municipal",
+            "ro": "Galeria Municipal",
+            "en": "Galeria Municipal"
+          },
+          "coords": [
+            -8.892189,
+            38.522671
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die beeindruckenden modernen Kunstwerke, bevor Sie Ihre Fahrt entlang der lebhaften Straßen fortsetzen.",
+            "hu": "Szánjon időt a lenyűgöző modern művészeti alkotások megcsodálására, mielőtt folytatná útját az élénk utcákon.",
+            "ro": "Acordați-vă timp pentru a aprecia lucrările de artă modernă izbitoare înainte de a vă continua plimbarea pe străzile pline de viață.",
+            "en": "Take your time to appreciate the striking modern artworks inside before continuing your ride along the lively streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Saúde",
+            "hu": "Praia da Saúde",
+            "ro": "Praia da Saúde",
+            "en": "Praia da Saúde"
+          },
+          "coords": [
+            -8.906037,
+            38.516745
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise an diesem Stadtstrand und nutzen Sie die Promenade für eine entspannte Pause am Nachmittag.",
+            "hu": "Élvezze a friss tengeri szellőt ezen a városi strandon, és használja ki a sétányt egy pihentető délutáni szünetre.",
+            "ro": "Bucurați-vă de briza proaspătă a oceanului pe această plajă urbană și folosiți promenada pentru o pauză relaxantă după-amiaza.",
+            "en": "Enjoy the fresh ocean breeze at this urban beach and take advantage of the promenade for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Filipe",
+            "hu": "Forte de São Filipe",
+            "ro": "Forte de São Filipe",
+            "en": "Forte de São Filipe"
+          },
+          "coords": [
+            -8.90907,
+            38.517843
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den atemberaubenden Panoramablick über die Bucht; bringen Sie Wasser für die steile Strecke mit.",
+            "hu": "A megmászás megéri a lélegzetelállító panorámát az öbölre; hozzon vizet a meredek szakaszra.",
+            "ro": "Urcarea merită pentru priveliștile panoramice uluitoare asupra golfului; aduceți apă pentru porțiunea abruptă.",
+            "en": "The climb is entirely worth it for the breathtaking panoramic views over the bay; bring water for the steep stretch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt an der beeindruckenden Forte de São Luiz Gonzaga, gefolgt von einer angenehmen Radtour zum zentralen Museum von Setúbal. Mittags können Sie die vielfältigen Ausstellungen in der Galeria Municipal bewundern. Die Nachmittagsbrise führt Sie an der Küste entlang zur Praia da Saúde. Beenden Sie Ihren Tag mit einem anspruchsvollen Anstieg zur Forte de São Filipe für atemberaubende Abendblicke.",
+        "hu": "A reggeli kerékpározás az impozáns Forte de São Luiz Gonzaga erődnék kezdődik, majd egy kellemes tekerés következik a központi Setúbal Múzeumhoz. Délben megcsodálhatja a Galeria Municipal változatos kiállításait. A délutáni szellő a part mentén a Praia da Saúde-hoz vezet. Zárja a napot egy kihívást jelentő emelkedővel a Forte de São Filipe-hez a lélegzetelállító esti kilátásért.",
+        "ro": "Plimbarea de dimineață începe la impresionanta Forte de São Luiz Gonzaga, urmată de o pedalare plăcută spre centrul Muzeului din Setúbal. Până la prânz, veți admira diversele expoziții de la Galeria Municipală. Briza de după-amiază vă ghidează de-a lungul coastei spre Praia da Saúde. Încheiați-vă ziua cu o urcare provocatoare la Forte de São Filipe pentru priveliști uluitoare seara.",
+        "en": "The morning ride kicks off at the impressive Forte de São Luiz Gonzaga, followed by a pleasant pedal to the central Museum of Setúbal. By midday, you will be admiring the diverse exhibits at the Galeria Municipal. The afternoon breeze guides you along the coast to Praia da Saúde. Conclude your day with a challenging climb to Forte de São Filipe for breathtaking evening views over the bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Via Antiga do Viso",
+            "hu": "Via Antiga do Viso",
+            "ro": "Via Antiga do Viso",
+            "en": "Via Antiga do Viso"
+          },
+          "coords": [
+            -8.919188,
+            38.527056
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Morgen mit einem Spaziergang entlang dieser alten Straße und tragen Sie bequeme Schuhe für das historische Pflaster.",
+            "hu": "Kezdje a reggelt egy sétával ezen a régi úton, és viseljen kényelmes cipőt a történelmi macskaköveken.",
+            "ro": "Începeți dimineața plimbându-vă de-a lungul acestei căi antice și purtați pantofi comozi pentru pavajul istoric.",
+            "en": "Start your morning strolling along this ancient pathway, and be sure to wear comfortable shoes for the historical paving."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Albarquel",
+            "hu": "Forte de Albarquel",
+            "ro": "Forte de Albarquel",
+            "en": "Forte de Albarquel"
+          },
+          "coords": [
+            -8.91355,
+            38.511084
+          ],
+          "category": "fortress",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene Küstenfestung; die nahegelegenen Parkplätze füllen sich schnell, kommen Sie also zeitig an.",
+            "hu": "Fedezze fel ezt a jól megőrzött tengerparti erődöt; a közeli parkolók hamar megtelnek, ezért érkezzen időben.",
+            "ro": "Explorați această fortăreață de coastă bine conservată; parcările din apropiere se umplu repede, așa că ajungeți devreme.",
+            "en": "Explore this well-preserved coastal fortress; nearby parking spots fill up quickly, so arrive promptly."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Albarquel",
+            "hu": "Praia de Albarquel",
+            "ro": "Praia de Albarquel",
+            "en": "Praia de Albarquel"
+          },
+          "coords": [
+            -8.915682,
+            38.510901
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie direkt von der Festung zum Sand und genießen Sie ein entspanntes Mittagspicknick mit Blick auf den ruhigen Ozean.",
+            "hu": "Sétáljon át egyenesen az erődtől a homokos partra, és élvezzen egy pihentető déli pikniket a nyugodt óceánra nézve.",
+            "ro": "Plimbați-vă direct de la fort pe nisip și bucurați-vă de un picnic relaxant la amiază cu vedere la oceanul calm.",
+            "en": "Stroll directly from the fort onto the sand and enjoy a relaxing midday picnic overlooking the calm ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedra Furada",
+            "hu": "Pedra Furada",
+            "ro": "Pedra Furada",
+            "en": "Pedra Furada"
+          },
+          "coords": [
+            -8.876389,
+            38.519644
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem faszinierenden geologischen Wunder und nehmen Sie Ihre Kamera für einzigartige Naturaufnahmen mit.",
+            "hu": "Vezessen el ehhez a lenyűgöző geológiai csodához, és vigye magával fényképezőgépét az egyedi természetfotókhoz.",
+            "ro": "Conduceți până la această minune geologică fascinantă și luați-vă aparatul foto pentru fotografii unice în natură.",
+            "en": "Drive over to this fascinating geological wonder, and bring your camera for some highly unique nature photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol da Azeda",
+            "hu": "Farol da Azeda",
+            "ro": "Farol da Azeda",
+            "en": "Farol da Azeda"
+          },
+          "coords": [
+            -8.87844,
+            38.538652
+          ],
+          "category": "landmark",
+          "arrive_at": "14:38",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route an diesem auffälligen Leuchtturm, dessen Erhebung den perfekten Aussichtspunkt für die Abendstunden bietet.",
+            "hu": "Fejezze be az útvonalat ennél a feltűnő világítótoronynál, amelynek magassága tökéletes kilátópontot nyújt az esti órákban.",
+            "ro": "Încheiați-vă traseul la acest far izbitor, a cărui elevație oferă punctul de observație perfect pentru orele serii.",
+            "en": "Finish your route at this striking lighthouse, its elevation offering the perfect vantage point for the evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour mit der Erkundung der alten Wege der Via Antiga do Viso, bevor Sie nach Süden zur Küstenfestung Forte de Albarquel fahren. Der Mittag bietet entspannende Momente am wunderschönen Praia de Albarquel. Im Laufe des Nachmittags fahren Sie zu den einzigartigen Naturformationen der Pedra Furada. Ihr Tag endet perfekt am Farol da Azeda.",
+        "hu": "Kezdje az autós túrát a Via Antiga do Viso ősi ösvényeinek felfedezésével, mielőtt dél felé indulna a Forte de Albarquel tengerparti erődhöz. A délidő pihentető pillanatokat kínál a gyönyörű Praia de Albarquelnél. Ahogy a délután halad előre, vezessen a Pedra Furada egyedülálló természeti képződményeihez. A nap tökéletesen zárul a Farol da Azedánál.",
+        "ro": "Începeți turul cu mașina explorând cărările antice din Via Antiga do Viso înainte de a vă îndrepta spre sud către fortăreața de coastă Forte de Albarquel. Amiaza oferă momente de relaxare lângă valuri la frumoasa Praia de Albarquel. Pe măsură ce după-amiaza progresează, conduceți spre formațiunile naturale unice din Pedra Furada. Ziua se încheie perfect la Farol da Azeda.",
+        "en": "Start your driving tour exploring the ancient pathways of Via Antiga do Viso before heading south to the coastal Forte de Albarquel. Midday offers relaxing moments by the waves at the beautiful Praia de Albarquel. As the afternoon progresses, drive to the unique natural formations of Pedra Furada. Your day concludes perfectly at Farol da Azeda."
+      }
+    }
+  }
+}

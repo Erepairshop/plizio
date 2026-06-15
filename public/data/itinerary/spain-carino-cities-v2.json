@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-carino-cities-v2",
+  "anchor": {
+    "name": "Cariño",
+    "coords": [
+      -7.86981,
+      43.74122
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Áncora",
+            "hu": "Áncora",
+            "ro": "Áncora",
+            "en": "Áncora"
+          },
+          "coords": [
+            -7.869139,
+            43.740767
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses wunderschöne maritime Ankermonument zu Ehren der lokalen Fischer, und fotografieren Sie es am besten am frühen Morgen im sanften Küstenlicht.",
+            "hu": "Csodálja meg ezt a helyi halászok előtt tisztelegő horgony emlékművet, és feltétlenül kora reggel fényképezze le a legjobb tengerparti fényekért.",
+            "ro": "Admirați acest monument ancoră maritimă care onorează pescarii locali și asigurați-vă că îl fotografiați dimineața devreme pentru cele mai bune lumini.",
+            "en": "Admire this maritime anchor monument honoring local fishermen, and be sure to photograph it early morning for the best coastal lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Area da Concha",
+            "hu": "Area da Concha",
+            "ro": "Area da Concha",
+            "en": "Area da Concha"
+          },
+          "coords": [
+            -7.870485,
+            43.737838
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen Sand dieses malerischen Küstenabschnitts mit ruhigem Wasser, der sich ideal für ein erfrischendes Bad im Sommer eignet.",
+            "hu": "Pihenjen meg a finom homokos és festői tengerparti szakaszon, amelynek nyugodt vize tökéletes egy frissítő déli úszáshoz a melegebb nyári hónapok során.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei porțiuni de coastă pitorești, care oferă ape liniștite perfecte pentru o baie răcoroasă în timpul lunilor de vară.",
+            "en": "Relax on the soft sands of this scenic coastal stretch which offers calm waters, perfect for a refreshing midday swim during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Cariño",
+            "hu": "Castro de Cariño",
+            "ro": "Castro de Cariño",
+            "en": "Castro de Cariño"
+          },
+          "coords": [
+            -7.865277,
+            43.739437
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieser keltischen Siedlung mit Blick aufs Meer, und tragen Sie feste Wanderschuhe für das unebene, felsige Gelände.",
+            "hu": "Fedezze fel ennek a tengerre néző kelta településnek az ősi maradványait, és viseljen masszív túracipőt az egyenetlen, sziklás terep biztonságos bejárásához.",
+            "ro": "Explorați vestigiile antice ale acestei așezări celtice cu vedere la mare și purtați încălțăminte rezistentă pentru a naviga în siguranță pe terenul stâncos.",
+            "en": "Explore the ancient remains of this Celtic settlement overlooking the sea, and wear sturdy walking shoes to safely navigate the uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Castro",
+            "hu": "Miradoiro do Castro",
+            "ro": "Miradoiro do Castro",
+            "en": "Miradoiro do Castro"
+          },
+          "coords": [
+            -7.866363,
+            43.739764
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die raue Küste von diesem erhöhten Aussichtspunkt, der auch der perfekte Ort für die Vogelbeobachtung mit dem Fernglas ist.",
+            "hu": "Gyönyörködjön a zord partvonal panorámájában erről a magaslati kilátóról, amely egyben tökéletes helyszínt nyújt a távcsöves madármegfigyeléshez is.",
+            "ro": "Admirați priveliștile panoramice ale coastei accidentate de la acest punct de belvedere înalt, fiind locul perfect pentru observarea păsărilor cu binoclul.",
+            "en": "Take in the panoramic views of the rugged coastline from this elevated viewpoint, making it the perfect spot to use a pair of binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Rúa Antiga",
+            "hu": "Miradoiro da Rúa Antiga",
+            "ro": "Miradoiro da Rúa Antiga",
+            "en": "Miradoiro da Rúa Antiga"
+          },
+          "coords": [
+            -7.866178,
+            43.741806
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem malerischen Aussichtspunkt einen weiteren spektakulären Blick auf die Stadt, aber halten Sie Ihren Hut fest, da der Wind hier weht.",
+            "hu": "Élvezze a bájos kisvárosra nyíló látványos szöget erről a festői kilátóból, de tartsa erősen a kalapját, mivel a tengeri szellő itt gyakran nagyon erős.",
+            "ro": "Bucurați-vă de un alt unghi spectaculos al orașului fermecător de la acest punct panoramic, dar țineți-vă bine pălăria, deoarece briza oceanului este puternică.",
+            "en": "Enjoy another spectacular angle of the charming town below from this scenic overlook, but keep a tight grip on your hat as ocean breezes are strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Bartolomeu de Cariño",
+            "hu": "Igrexa de San Bartolomeu de Cariño",
+            "ro": "Igrexa de San Bartolomeu de Cariño",
+            "en": "Igrexa de San Bartolomeu de Cariño"
+          },
+          "coords": [
+            -7.867899,
+            43.742746
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne traditionelle Architektur dieser friedlichen Pfarrkirche, und sprechen Sie im Inneren leise, um die lokalen Gläubigen zu respektieren.",
+            "hu": "Csodálja meg ennek a békés plébániatemplomnak a gyönyörű hagyományos építészetét, és ne felejtsen el halkan beszélni odabent a helyi hívők iránti tiszteletből.",
+            "ro": "Admirați frumoasa arhitectură tradițională a acestei biserici parohiale liniștite și amintiți-vă să vorbiți încet înăuntru ca semn de respect pentru credincioși.",
+            "en": "Admire the beautiful traditional architecture of this peaceful parish church, and remember to speak softly inside as a sign of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Cemiterio",
+            "hu": "Miradoiro do Cemiterio",
+            "ro": "Miradoiro do Cemiterio",
+            "en": "Miradoiro do Cemiterio"
+          },
+          "coords": [
+            -7.867386,
+            43.744754
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem besinnlichen Blick auf das majestätische Wasser an diesem friedlichen Aussichtspunkt, der sich für Sonnenuntergangsfotos eignet.",
+            "hu": "Zárja a sétát a fenséges vizekre vetett elmélkedő pillantással ezen a békés kilátóponton, amely drámai tájat biztosít a lenyűgöző naplemente fotózásához.",
+            "ro": "Încheiați plimbarea cu o privire contemplativă asupra apelor maiestuoase de la acest punct de belvedere senin, oferind un peisaj dramatic pentru fotografii la apus.",
+            "en": "End your walk with a contemplative gaze over the majestic waters at this serene viewpoint, providing a dramatic landscape ideal for sunset photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Cariño zu Fuß, beginnend am symbolischen Áncora-Denkmal. Spazieren Sie in Richtung Area da Concha, um das Ambiente am Strand zu genießen.\n\nSetzen Sie Ihren Spaziergang zum alten Castro de Cariño fort. Spüren Sie die historische Bedeutung, bevor Sie die erhöhte Aussicht am Miradoiro do Castro genießen.\n\nWandern Sie zum Miradoiro da Rúa Antiga für weitere Küstenpanoramen. Besuchen Sie die friedliche Igrexa de San Bartolomeu, um ihre Architektur zu bewundern.\n\nBeenden Sie den Tag mit einem Spaziergang zum Miradoiro do Cemiterio. Es ist der perfekte Ort, um zu beobachten, wie die Sonne unter den Horizont des Atlantiks sinkt.",
+        "hu": "Fedezze fel Cariño városát gyalog, a szimbolikus Áncora emlékműnél kezdve. Sétáljon az Area da Concha felé, és élvezze a tengerparti hangulatot.\n\nFolytassa sétáját az ősi Castro de Cariño felé. Érezze át a történelmi jelentőséget, mielőtt élvezné a magaslati kilátást a Miradoiro do Castro-ból.\n\nBarangoljon a Miradoiro da Rúa Antiga felé a további panorámákért. Látogasson el a békés Igrexa de San Bartolomeu templomba, hogy megcsodálja az építészetét.\n\nZárja a napot a Miradoiro do Cemiterio felé sétálva. Ez a tökéletes hely arra, hogy végignézze, ahogy a nap az Atlanti-óceán horizontja alá bukik.",
+        "ro": "Descoperiți Cariño pe jos, începând cu monumentul simbolic Áncora. Plimbați-vă spre Area da Concha pentru a vă bucura de ambianța de la malul mării.\n\nContinuați plimbarea către anticul Castro de Cariño. Simțiți semnificația istorică înainte de a vă bucura de priveliștile înalte de la Miradoiro do Castro.\n\nRătăciți spre Miradoiro da Rúa Antiga pentru mai multe panorame de coastă. Vizitați liniștita Igrexa de San Bartolomeu pentru a-i admira arhitectura tradițională.\n\nÎncheiați-vă ziua plimbându-vă până la Miradoiro do Cemiterio. Este locul perfect pentru a privi cum soarele apune sub orizontul dramatic al Atlanticului.",
+        "en": "Discover Cariño on foot, beginning at the symbolic Áncora monument. Stroll towards Area da Concha to enjoy the beachside ambiance.\n\nContinue your walk to the ancient Castro de Cariño. Feel the historical significance before enjoying the elevated views at Miradoiro do Castro.\n\nWander towards Miradoiro da Rúa Antiga for more coastal panoramas. Visit the peaceful Igrexa de San Bartolomeu de Cariño to admire its architecture.\n\nConclude your day walking up to Miradoiro do Cemiterio. It’s the perfect spot to watch the sun dip below the Atlantic horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "A Basteira Beach",
+            "hu": "A Basteira Beach",
+            "ro": "A Basteira Beach",
+            "en": "A Basteira Beach"
+          },
+          "coords": [
+            -7.87162,
+            43.732488
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour entlang des weitläufigen goldenen Sandes dieses schönen Strandes, und bleiben Sie auf den ausgewiesenen Küstenwegen für eine reibungslose Fahrt.",
+            "hu": "Kezdje kerékpáros túráját ennek a gyönyörű strandnak a kiterjedt aranyhomokos partján, és ügyeljen arra, hogy a kijelölt tengerparti utakon haladjon a zökkenőmentes haladásért.",
+            "ro": "Începeți plimbarea cu bicicleta de-a lungul nisipurilor aurii expansive ale acestei plaje frumoase, asigurându-vă că rămâneți pe traseele de coastă desemnate pentru siguranță.",
+            "en": "Start your biking journey along the expansive golden sands of this beautiful beach, making sure to stick to the designated coastal paths for a smooth ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Area da Concha",
+            "hu": "Area da Concha",
+            "ro": "Area da Concha",
+            "en": "Area da Concha"
+          },
+          "coords": [
+            -7.870485,
+            43.737838
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um die ruhige Atmosphäre dieser halbmondförmigen Bucht zu genießen, und holen Sie sich einen kleinen Snack in einem nahegelegenen Café.",
+            "hu": "Szakítsa meg útját, hogy élvezze ennek a félhold alakú öbölnek a nyugodt hangulatát, és vegyen egy gyors harapnivalót egy közeli kávézóban az energiaraktárai feltöltéséhez.",
+            "ro": "Puneți pauză plimbării pentru a vă bucura de atmosfera liniștită a acestui golf în formă de semilună și luați o gustare rapidă de la o cafenea din apropiere pentru energie.",
+            "en": "Pause your ride to enjoy the tranquil atmosphere of this crescent-shaped bay, and grab a quick snack from a nearby local cafe to recharge your energy levels."
+          }
+        },
+        {
+          "name": {
+            "de": "Áncora",
+            "hu": "Áncora",
+            "ro": "Áncora",
+            "en": "Áncora"
+          },
+          "coords": [
+            -7.869139,
+            43.740767
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um dieses ikonische maritime Symbol der reichen Fischereitradition der Stadt vor der atemberaubenden Kulisse des blauen Meeres zu würdigen.",
+            "hu": "Szánjon egy pillanatot ennek a város gazdag halászati örökségét jelképező tengerészeti szimbólumnak a megcsodálására, lehetőleg a lenyűgöző azúrkék tengerrel a háttérben.",
+            "ro": "Luați-vă un moment pentru a aprecia acest simbol maritim iconic ce reprezintă bogata moștenire pescărească a orașului, cu marea azurie servind drept fundal uimitor de frumos.",
+            "en": "Take a moment to appreciate this iconic maritime symbol representing the town's rich fishing heritage, ideally with the azure sea serving as a stunning backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Bartolomeu de Cariño",
+            "hu": "Igrexa de San Bartolomeu de Cariño",
+            "ro": "Igrexa de San Bartolomeu de Cariño",
+            "en": "Igrexa de San Bartolomeu de Cariño"
+          },
+          "coords": [
+            -7.867899,
+            43.742746
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher draußen, um diese bezaubernde historische Kirche zu besuchen, und achten Sie besonders auf die kunstvollen Steinmetzarbeiten an der Fassade.",
+            "hu": "Parkolja le kerékpárját biztonságosan a bejárat előtt, hogy meglátogassa ezt a bájos történelmi templomot, és figyelje meg a békés homlokzatát díszítő gyönyörű kőfaragásokat.",
+            "ro": "Parcați bicicleta în siguranță afară pentru a vizita această fermecătoare biserică istorică, observând în mod special sculpturile în piatră care îi împodobesc fațada pașnică.",
+            "en": "Park your bike securely outside to visit this charming historical church, taking special note of the beautifully crafted stonework adorning its peaceful facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Limo",
+            "hu": "Miradoiro do Limo",
+            "ro": "Miradoiro do Limo",
+            "en": "Miradoiro do Limo"
+          },
+          "coords": [
+            -7.890544,
+            43.746324
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem spektakulären hochgelegenen Aussichtspunkt, um den atemberaubenden Blick auf die Klippen zu genießen, aber prüfen Sie Ihre Bremsen für die Abfahrt.",
+            "hu": "Tekerjen fel ehhez a látványos, magasan fekvő kilátóhoz a meredek sziklákra nyíló lélegzetelállító kilátásért, de a lejtmenet előtt mindenképpen ellenőrizze a kerékpár fékjeit.",
+            "ro": "Pedalați până la acest punct de belvedere spectaculos la mare altitudine pentru priveliști uimitoare ale stâncilor, dar asigurați-vă că frânele bicicletei funcționează optim.",
+            "en": "Cycle up to this spectacular high-altitude overlook for breathtaking views of the sweeping cliffs, but ensure your bike brakes are well-maintained for the descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am schönen A Basteira Beach und genießen Sie die morgendliche Meeresbrise, während Sie auf dem goldenen Sand in Richtung Area da Concha radeln.\n\nRadeln Sie in Richtung Stadtzentrum, um das ikonische Áncora-Denkmal zu fotografieren. Machen Sie eine erfrischende Pause in einem lokalen Café und genießen Sie die Atmosphäre.\n\nTreten Sie in die Pedale und fahren Sie zur historischen Igrexa de San Bartolomeu. Erkunden Sie ihre schöne Architektur, bevor Sie Ihre Beine für den großen Aufstieg ausruhen.\n\nBeenden Sie die Tour stark, indem Sie zum spektakulären Miradoiro do Limo radeln. Der atemberaubende Panoramablick von den Klippen ist die perfekte Belohnung für Ihre Mühe.",
+        "hu": "Kezdje kerékpáros kalandját a gyönyörű A Basteira Beach-en, élvezve a reggeli tengeri szellőt, miközben az aranyhomok mentén az Area da Concha felé teker.\n\nTekerjen a városközpont felé, hogy lefotózza az ikonikus Áncora emlékművet. Tartson egy frissítő szünetet egy helyi kávézóban, és szívja magába a pezsgő hangulatot.\n\nFolytassa útját a történelmi Igrexa de San Bartolomeu templomhoz. Fedezze fel kedves építészetét, mielőtt megpihentetné lábait a nagy emelkedő előtt.\n\nZárja a napot erősen: tekerjen fel a látványos Miradoiro do Limo kilátóhoz. A sziklákról nyíló lélegzetelállító panoráma tökéletes jutalom az erőfeszítésért.",
+        "ro": "Începeți-vă aventura pe bicicletă la frumoasa plajă A Basteira, bucurându-vă de briza mării de dimineață în timp ce pedalați de-a lungul nisipurilor aurii spre Area da Concha.\n\nPedalați către centrul orașului pentru a fotografia emblematicul monument Áncora. Faceți o pauză răcoritoare la o cafenea locală și bucurați-vă de atmosfera vibrantă.\n\nContinuați drumul spre istorica Igrexa de San Bartolomeu. Explorați arhitectura sa minunată înainte de a vă odihni picioarele pentru urcarea cea mare.\n\nÎncheiați în forță pedalând până la spectaculosul Miradoiro do Limo. Priveliștile panoramice uluitoare de pe stânci sunt recompensa perfectă pentru efortul dumneavoastră.",
+        "en": "Start your cycling adventure at the beautiful A Basteira Beach, enjoying the morning sea breeze as you pedal along the golden sands to Area da Concha.\n\nCycle towards the town center to photograph the iconic Áncora monument. Take a refreshing break at a local cafe and soak in the vibrant atmosphere.\n\nPedal your way to the historic Igrexa de San Bartolomeu de Cariño. Explore its lovely architecture before resting your legs for the big climb.\n\nFinish strong by cycling up to the spectacular Miradoiro do Limo. The breathtaking panoramic views from the cliffs are the perfect reward for your effort."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo da Cerca",
+            "hu": "Pazo da Cerca",
+            "ro": "Pazo da Cerca",
+            "en": "Pazo da Cerca"
+          },
+          "coords": [
+            -7.877235,
+            43.728117
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die geschichtsträchtige Vergangenheit dieses beeindruckenden galicischen Herrenhauses, und parken Sie unbedingt auf den ausgewiesenen Besucherparkplätzen.",
+            "hu": "Fedezze fel ennek a lenyűgöző galíciai udvarháznak a gazdag történelmét, és ügyeljen arra, hogy a kijelölt látogatói parkolókban álljon meg, ne a szűk bekötőutakon.",
+            "ro": "Descoperiți istoria fascinantă a acestui conac galician impresionant, asigurându-vă că parcați în zonele desemnate pentru vizitatori pentru a nu bloca drumurile de acces.",
+            "en": "Discover the storied history of this impressive Galician manor house, making sure to park in the designated visitor areas rather than blocking the narrow access roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador da Basteira",
+            "hu": "Mirador da Basteira",
+            "ro": "Mirador da Basteira",
+            "en": "Mirador da Basteira"
+          },
+          "coords": [
+            -7.869843,
+            43.728347
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem atemberaubenden Aussichtspunkt sicher an, um die weitläufige Küstenlandschaft zu bewundern, die ein hervorragendes Fotomotiv der dramatischen Küste bietet.",
+            "hu": "Húzódjon félre biztonságosan ennél a lenyűgöző kilátónál, hogy megcsodálja a kiterjedt tengerparti tájat, amely kiváló fotózási lehetőséget kínál a drámai partvonalról.",
+            "ro": "Trageți pe dreapta în siguranță la acest punct de belvedere uimitor pentru a admira peisajul de coastă, care oferă o oportunitate excelentă de a fotografia țărmul dramatic.",
+            "en": "Pull over safely at this stunning viewpoint to marvel at the expansive coastal landscape, which provides an excellent photo opportunity of the dramatic shoreline below."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Moura",
+            "hu": "Castro da Moura",
+            "ro": "Castro da Moura",
+            "en": "Castro da Moura"
+          },
+          "coords": [
+            -7.856199,
+            43.724564
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser alten Siedlung in der Landschaft, und bringen Sie Wasser mit, da der Ort einen kurzen, steilen Fußmarsch nach oben erfordert.",
+            "hu": "Fedezze fel a tájban megbúvó ősi település lenyűgöző romjait, és hozzon magával vizet, mivel a helyszín eléréséhez egy kis hegynek felfelé gyaloglás szükséges.",
+            "ro": "Descoperiți ruinele fascinante ale acestei așezări antice ascunse în peisaj și aduceți o sticlă de apă, deoarece situl necesită o scurtă plimbare la deal pentru a fi atins.",
+            "en": "Uncover the fascinating ruins of this ancient settlement hidden in the landscape, and bring a bottle of water along as the site requires a bit of uphill walking to reach."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Vaca",
+            "hu": "Praia da Vaca",
+            "ro": "Praia da Vaca",
+            "en": "Praia da Vaca"
+          },
+          "coords": [
+            -7.861484,
+            43.725298
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem malerischen Strand hinunter, um das beruhigende Rauschen der Wellen zu genießen, aber seien Sie vorsichtig auf der steilen, kurvenreichen Zufahrtsstraße.",
+            "hu": "Autózzon le ehhez az eldugott és festői strandhoz, hogy élvezze a hullámok megnyugtató hangját, de legyen óvatos a meredek és kanyargós bekötőúton a partvonal felé közeledve.",
+            "ro": "Conduceți până la această plajă retrasă și pitorească pentru a vă bucura de sunetul valurilor, dar fiți atenți la drumul de acces abrupt și sinuos care se apropie de coastă.",
+            "en": "Drive down to this secluded and picturesque beach to enjoy the soothing sound of the waves, but be cautious on the steep and winding access road approaching the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Barreiros",
+            "hu": "Pazo de Barreiros",
+            "ro": "Pazo de Barreiros",
+            "en": "Pazo de Barreiros"
+          },
+          "coords": [
+            -7.881319,
+            43.737969
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Äußere dieses wunderbar erhaltenen historischen Anwesens, das tiefen Einblick in die aristokratische Vergangenheit der ländlichen Region bietet.",
+            "hu": "Fedezze fel ennek a gyönyörűen megőrzött történelmi ingatlannak a nagyszerű külsejét, amely mély bepillantást enged a régió arisztokratikus múltjába a vidék szívében.",
+            "ro": "Explorați exteriorul grandios al acestei proprietăți istorice frumos conservate, care oferă o incursiune în trecutul aristocratic al regiunii, chiar în inima zonei rurale.",
+            "en": "Explore the grand exterior of this beautifully preserved historical property, which offers a deep dive into the region's aristocratic past right in the heart of the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Limo",
+            "hu": "Miradoiro do Limo",
+            "ro": "Miradoiro do Limo",
+            "en": "Miradoiro do Limo"
+          },
+          "coords": [
+            -7.890544,
+            43.746324
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Klippenaussichtspunkt mit Blick auf den weiten Ozean, und kommen Sie kurz vor der Dämmerung, um den Sonnenuntergang zu fotografieren.",
+            "hu": "Fejezze be autózását ezen a hatalmas óceánra néző, csodálatos sziklaparti kilátónál, és érkezzen közvetlenül szürkület előtt, hogy igazán felejthetetlen emlékeket szerezzen.",
+            "ro": "Încheiați călătoria la acest punct de belvedere magnific de pe stânci cu vedere la ocean și asigurați-vă că ajungeți chiar înainte de amurg pentru a surprinde apusuri de neuitat.",
+            "en": "Conclude your drive at this magnificent clifftop viewpoint overlooking the vast ocean, and make sure to arrive just before dusk to capture truly unforgettable sunset memories."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum prächtigen Pazo da Cerca, um das historische Gelände zu erkunden. Machen Sie danach eine kurze Fahrt zum Mirador da Basteira für einen atemberaubenden Blick.\n\nFahren Sie in Richtung der faszinierenden Ruinen des Castro da Moura. Fahren Sie danach zum abgelegenen Praia da Vaca, um eine ruhige und entspannende Pause an der Küste einzulegen.\n\nSetzen Sie Ihren Roadtrip zum wunderschön erhaltenen Pazo de Barreiros fort. Entdecken Sie das reiche architektonische Erbe der Region, eingebettet in die wunderschöne Landschaft.\n\nFahren Sie auf den kurvenreichen Straßen zum Miradoiro do Limo für das ultimative Sonnenuntergangserlebnis. Der weite Blick auf die Klippen und den Ozean wird Sie sprachlos machen.",
+        "hu": "Autózzon el reggel a csodálatos Pazo da Cerca-hoz, hogy felfedezze történelmi környezetét. Ezután egy rövid úttal érje el a Mirador da Basteira-t a lenyűgöző reggeli kilátásért.\n\nIrány a Castro da Moura ősi településének lenyűgöző romja. Ezt követően hajtson le az eldugott Praia da Vaca strandhoz egy békés és pihentető tengerparti szünetért.\n\nFolytassa autós utazását a gyönyörűen megőrzött Pazo de Barreiros felé. Fedezze fel a régió gazdag építészeti örökségét, amely a gyönyörű vidéken található.\n\nAutózzon fel a kanyargós utakon a Miradoiro do Limo-hoz a végső naplemente élményért. A sziklákra és az óceánra nyíló pazar kilátás garantáltan elakad a szava.",
+        "ro": "Conduceți spre magnificul Pazo da Cerca, explorând terenurile sale istorice. Apoi, faceți o scurtă plimbare cu mașina până la Mirador da Basteira pentru o priveliște matinală uimitoare.\n\nÎndreptați-vă spre ruinele fascinante de la Castro da Moura. După aceea, conduceți până la plaja retrasă Praia da Vaca pentru o pauză de coastă liniștită și relaxantă.\n\nContinuați-vă călătoria rutieră spre Pazo de Barreiros, frumos conservat. Descoperiți bogatul patrimoniu arhitectural al regiunii, situat în zona rurală pitorească.\n\nConduceți pe drumurile șerpuitoare până la Miradoiro do Limo pentru experiența supremă a apusului. Priveliștile panoramice ale stâncilor și oceanului vă vor lăsa fără cuvinte.",
+        "en": "Drive to the magnificent Pazo da Cerca, exploring its historical grounds. Next, take a short drive to Mirador da Basteira for a stunning morning view.\n\nHead towards the fascinating ruins of Castro da Moura. Afterwards, drive down to the secluded Praia da Vaca for a peaceful and relaxing coastal break.\n\nContinue your road trip to the beautifully preserved Pazo de Barreiros. Discover the region’s rich architectural heritage nestled in the countryside.\n\nDrive up the winding roads to Miradoiro do Limo for the ultimate sunset experience. The sweeping views of the cliffs and ocean will leave you speechless."
+      }
+    }
+  }
+}

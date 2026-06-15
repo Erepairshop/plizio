@@ -1,0 +1,405 @@
+{
+  "city_id": "leon-cities-v2",
+  "anchor": {
+    "name": "León",
+    "coords": [
+      -101.6853,
+      21.125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de las Identidades Leonesas",
+            "hu": "Museo de las Identidades Leonesas",
+            "ro": "Museo de las Identidades Leonesas",
+            "en": "Museo de las Identidades Leonesas"
+          },
+          "coords": [
+            -101.6847,
+            21.121627
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe der Region in diesem ehemaligen Gefängnis und besuchen Sie unbedingt die Wechselausstellungen im zweiten Stock für tiefere Einblicke.",
+            "hu": "Fedezze fel a helyi örökséget ebben az egykori börtönben, és feltétlenül tekintse meg a második emeleten található, mélyebb kulturális betekintést nyújtó időszaki kiállításokat.",
+            "ro": "Descoperiți bogata moștenire locală în această fostă închisoare și asigurați-vă că verificați expozițiile temporare de la etajul doi pentru perspective culturale profunde.",
+            "en": "Discover the rich local heritage in this former jail, and be sure to check the rotating exhibitions on the second floor for deep cultural insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro María Greever",
+            "hu": "Teatro María Greever",
+            "ro": "Teatro María Greever",
+            "en": "Teatro María Greever"
+          },
+          "coords": [
+            -101.682815,
+            21.123904
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die intime Architektur dieses modernen Kulturraums, der der berühmten lokalen Komponistin gewidmet ist, und buchen Sie Tickets für Abendvorstellungen im Voraus.",
+            "hu": "Csodálja meg a híres helyi zeneszerzőnek szentelt modern kulturális tér intim építészetét, és próbálja meg előre lefoglalni a jegyeket az esti előadásokra.",
+            "ro": "Admirați arhitectura intimă a acestui spațiu cultural modern dedicat faimosului compozitor local și încercați să vă rezervați biletele în avans pentru spectacolele de seară.",
+            "en": "Admire the intimate architecture of this modern cultural space dedicated to the famous local composer, and try to book your tickets in advance for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Museo de la Ciudad",
+            "ro": "Museo de la Ciudad",
+            "en": "Museo de la Ciudad"
+          },
+          "coords": [
+            -101.679124,
+            21.123061
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die urbane und soziale Entwicklung von León durch faszinierende visuelle Ausstellungen und besuchen Sie das Museum am frühen Nachmittag, wenn es am ruhigsten ist.",
+            "hu": "Kövesse nyomon León városi és társadalmi fejlődését lenyűgöző vizuális kiállításokon keresztül, és látogasson el kora délután, amikor a legkevésbé zsúfolt a galéria.",
+            "ro": "Urmăriți evoluția urbană și socială a orașului León prin expoziții vizuale fascinante și vizitați la începutul după-amiezii, când este cel mai puțin aglomerat.",
+            "en": "Trace the urban and social evolution of León through fascinating visual displays, and visit early in the afternoon when it is least crowded to fully enjoy the galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Manuel Doblado",
+            "hu": "Teatro Manuel Doblado",
+            "ro": "Teatro Manuel Doblado",
+            "en": "Teatro Manuel Doblado"
+          },
+          "coords": [
+            -101.680026,
+            21.122907
+          ],
+          "category": "cultural",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die neoklassizistische Pracht dieses historischen Theaters und nehmen Sie sich einen Moment Zeit für die Details der Fassade, bevor Sie an einer Führung teilnehmen.",
+            "hu": "Tapasztalja meg ennek a történelmi színháznak a neoklasszikus nagyszerűségét, szánjon egy percet a homlokzat bonyolult részleteire, mielőtt csatlakozna egy belső tárlatvezetéshez.",
+            "ro": "Experimentați grandoarea neoclasică a acestui teatru istoric, alocând un moment pentru a aprecia detaliile fațadei înainte de a vă alătura unui tur ghidat în interior.",
+            "en": "Experience the neoclassical grandeur of this historic theater, taking a moment to appreciate the facade's intricate details before joining a guided interior tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte Sacro",
+            "hu": "Museo de Arte Sacro",
+            "ro": "Museo de Arte Sacro",
+            "en": "Museo de Arte Sacro"
+          },
+          "coords": [
+            -101.681766,
+            21.124591
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die exquisiten religiösen Kunstsammlungen aus mehreren Jahrhunderten und achten Sie besonders auf die wunderschön erhaltenen Kolonialgemälde in der Haupthalle.",
+            "hu": "Csodálja meg az évszázadokat felölelő, gyönyörű vallási művészeti gyűjteményeket, és fordítson különös figyelmet a főteremben kiállított, szépen megőrzött gyarmati festményekre.",
+            "ro": "Minunați-vă de colecțiile de artă religioasă care se întind pe secole și acordați o atenție deosebită picturilor coloniale frumos conservate, expuse în holul principal.",
+            "en": "Marvel at the exquisite religious art collections spanning centuries, and pay special attention to the beautifully preserved colonial paintings displayed in the main hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Herzens von León und seiner tiefen kulturellen Wurzeln. Mittags schlendern Sie durch faszinierende Museen, die die lebendige Stadtentwicklung einfangen. Am Nachmittag können Sie die beeindruckende neoklassizistische Architektur der zentralen Theater bewundern. Wenn der Abend naht, tauchen Sie in die sakrale Kunst ein.",
+        "hu": "Kezdje a reggelt León történelmi szívének felfedezésével, összpontosítva annak mély kulturális gyökereire. Délben sétáljon végig a lenyűgöző múzeumokon, amelyek bemutatják a városi fejlődést. Délután csodálja meg a központi színházak lenyűgöző neoklasszikus építészetét. Ahogy közeledik az este, merüljön el a szakrális művészetben és a város maradandó örökségében.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului León, concentrându-vă pe rădăcinile sale culturale profunde. La amiază, plimbați-vă prin muzee fascinante care surprind evoluția urbană vibrantă. După-amiaza, apreciați arhitectura neoclasică impresionantă a teatrelor centrale. Pe măsură ce se apropie seara, scufundați-vă în arta sacră și în moștenirea durabilă a orașului.",
+        "en": "Start the morning exploring the historic heart of León, focusing on its profound cultural roots. By midday, wander through fascinating museums that capture the vibrant urban evolution. In the afternoon, appreciate the impressive neoclassical architecture spanning the central theaters. As evening approaches, immerse yourself in the sacred art and the city's enduring heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lago chapalita",
+            "hu": "Lago chapalita",
+            "ro": "Lago chapalita",
+            "en": "Lago chapalita"
+          },
+          "coords": [
+            -101.698722,
+            21.125463
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer erfrischenden Fahrt um diesen malerischen See und bringen Sie ein kleines Picknick mit, das Sie vor der Mittagshitze am Wasser genießen können.",
+            "hu": "Kezdje a napot egy frissítő kerékpározással e festői tó körül, és vigyen magával egy kis pikniket, hogy a déli hőség beállta előtt a vízparton élvezhesse.",
+            "ro": "Începeți-vă ziua cu o plimbare revigorantă în jurul acestui lac pitoresc și aduceți un mic picnic pentru a vă bucura lângă apă înainte de a începe căldura amiezii.",
+            "en": "Start your day with a refreshing ride around this scenic lake, and bring a small picnic to enjoy near the water before the midday heat begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Concha Acustica del Parque Hidalgo",
+            "hu": "Concha Acustica del Parque Hidalgo",
+            "ro": "Concha Acustica del Parque Hidalgo",
+            "en": "Concha Acustica del Parque Hidalgo"
+          },
+          "coords": [
+            -101.690108,
+            21.132173
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an dieser ikonischen Freilichtbühne im Parque Hidalgo, die dank ihres einzigartigen akustischen Muscheldesigns großartige Fotomotive bietet.",
+            "hu": "Tartson egy kis szünetet ezen az ikonikus szabadtéri színpadon a Parque Hidalgóban, amely egyedi akusztikus kagylókialakításának köszönhetően nagyszerű fotózási lehetőségeket kínál.",
+            "ro": "Faceți o pauză la această scenă emblematică în aer liber din Parque Hidalgo, care oferă oportunități excelente de fotografiere datorită designului său acustic unic.",
+            "en": "Take a break at this iconic open-air stage nestled in Parque Hidalgo, which offers great photo opportunities thanks to its unique acoustic shell design."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Identidades Leonesas",
+            "hu": "Museo de las Identidades Leonesas",
+            "ro": "Museo de las Identidades Leonesas",
+            "en": "Museo de las Identidades Leonesas"
+          },
+          "coords": [
+            -101.6847,
+            21.121627
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie das lokale Erbe in diesem ehemaligen Gefängnis, insbesondere die faszinierenden interaktiven Exponate zur Geschichte von León.",
+            "hu": "Zárja le biztonságosan kerékpárját odakint, és fedezze fel a helyi örökséget ebben az egykori börtönben, különös tekintettel a León történelmét bemutató interaktív kiállításokra.",
+            "ro": "Legați-vă bicicleta în siguranță afară și explorați moștenirea locală în această fostă închisoare, concentrându-vă pe expozițiile interactive fascinante despre istoria orașului.",
+            "en": "Lock your bike safely outside and explore the local heritage inside this former jail, focusing on the fascinating interactive exhibits about León's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Cultural Guanajuato",
+            "hu": "Forum Cultural Guanajuato",
+            "ro": "Forum Cultural Guanajuato",
+            "en": "Forum Cultural Guanajuato"
+          },
+          "coords": [
+            -101.660598,
+            21.115936
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Außenskulpturen dieses erstklassigen Kulturkomplexes und erkundigen Sie sich am Informationsschalter nach kostenlosen öffentlichen Veranstaltungen.",
+            "hu": "Sétáljon végig ezen a kiváló kulturális komplexum hatalmas szabadtéri szobrai között, és érdeklődjön az információs pultnál a látogatása idején zajló ingyenes nyilvános eseményekről.",
+            "ro": "Plimbați-vă printre sculpturile în aer liber ale acestui complex cultural de prim rang și verificați biroul de informații pentru evenimente publice gratuite în timpul vizitei.",
+            "en": "Wander through the expansive outdoor sculptures of this premier cultural complex, and check the information desk for free public events taking place during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del Bicentenario",
+            "hu": "Teatro del Bicentenario",
+            "ro": "Teatro del Bicentenario",
+            "en": "Teatro del Bicentenario"
+          },
+          "coords": [
+            -101.660609,
+            21.114026
+          ],
+          "category": "cultural",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour, indem Sie die atemberaubende moderne Architektur dieses großen Theaters bewundern, und kommen Sie kurz vor Sonnenuntergang für das beste Licht an.",
+            "hu": "Zárja kerékpárútját ennek a hatalmas színháznak a lenyűgöző modern építészetével, és érkezzen közvetlenül naplemente előtt, hogy a legjobb megvilágításban lássa az üveghomlokzatot.",
+            "ro": "Încheiați-vă traseul cu bicicleta admirând arhitectura modernă a acestui teatru, ajungând chiar înainte de apus pentru cea mai bună lumină pe fațada sa masivă din sticlă.",
+            "en": "End your cycling route by admiring the stunning modern architecture of this major theater, arriving just before sunset for the best lighting on its massive glass facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit frischer Luft am malerischen See. Mittags radeln Sie zu den ikonischen Parks und Freilichtbühnen, die die lokale Freizeitgestaltung prägen. Am Nachmittag tauchen Sie in renovierten historischen Gebäuden in die Stadtgeschichte ein. Wenn es dunkel wird, können Sie die modernen Theater und das zeitgenössische Kulturforum im schönen Licht bewundern.",
+        "hu": "Indítsa kerékpárútját friss levegővel a nyugodt tó partján. Délben tekerjen az ikonikus parkok és szabadtéri színpadok felé, amelyek a helyi szabadidőt határozzák meg. Délután merüljön el a város történelmében a felújított történelmi épületekben. Végül, ahogy leszáll az est, csodálja meg a csodálatosan megvilágított modern színházakat és kortárs kulturális fórumokat.",
+        "ro": "Începeți-vă călătoria cu bicicleta cu aer proaspăt pe malul lacului senin. La amiază, pedalați spre parcurile și scenele emblematice care definesc timpul liber. După-amiaza, pătrundeți în istoria orașului în clădirile istorice renovate. În cele din urmă, la lăsarea serii, admirați marile teatre moderne și forumurile culturale contemporane iluminate superb.",
+        "en": "Kick off your cycling journey with fresh air by the serene lake. By midday, pedal towards the iconic parks and outdoor stages that define local leisure. In the afternoon, dive into the city's history within renovated historic buildings. Finally, as evening falls, marvel at the modern grand theaters and contemporary cultural forums illuminated beautifully."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 10.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Zoológico de León - Zooleón",
+            "hu": "Parque Zoológico de León - Zooleón",
+            "ro": "Parque Zoológico de León - Zooleón",
+            "en": "Parque Zoológico de León - Zooleón"
+          },
+          "coords": [
+            -101.652979,
+            21.184784
+          ],
+          "category": "wildlife",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh in diesen weitläufigen Zoo, um die Tiere in ihrer aktivsten Phase zu sehen, und buchen Sie die Safari-Tour im Voraus, um mehr Fläche bequem zu erkunden.",
+            "hu": "Érkezzen korán ebbe a hatalmas állatkertbe, hogy a legaktívabb pillanataikban lássa az állatokat, és fontolja meg a szafari túra előzetes lefoglalását a kényelmesebb bejárás érdekében.",
+            "ro": "Ajungeți devreme la acest zoo vast pentru a vedea animalele în momentele lor active și luați în considerare rezervarea turului safari în avans pentru o vizită confortabilă.",
+            "en": "Arrive early to this expansive zoo to see the animals at their most active, and consider booking the safari tour in advance to comfortably cover more ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Concha Acustica del Parque Hidalgo",
+            "hu": "Concha Acustica del Parque Hidalgo",
+            "ro": "Concha Acustica del Parque Hidalgo",
+            "en": "Concha Acustica del Parque Hidalgo"
+          },
+          "coords": [
+            -101.690108,
+            21.132173
+          ],
+          "category": "cultural",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um durch den Parque Hidalgo zur beeindruckenden akustischen Muschel zu schlendern – ein perfekter Ort, um sich die Beine zu vertreten.",
+            "hu": "Parkoljon le a közelben, és sétáljon fel a Parque Hidalgón keresztül a lenyűgöző akusztikus kagylóig, amely tökéletes hely a lábak kinyújtóztatására és egy tízórai elfogyasztására.",
+            "ro": "Parcați în apropiere pentru a vă plimba prin Parque Hidalgo până la impresionanta scoică acustică, un loc perfect pentru a vă întinde picioarele și a savura o gustare.",
+            "en": "Park nearby to stroll through Parque Hidalgo up to the impressive acoustic shell, a perfect spot to stretch your legs and enjoy a quick mid-morning snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Museo de la Ciudad",
+            "ro": "Museo de la Ciudad",
+            "en": "Museo de la Ciudad"
+          },
+          "coords": [
+            -101.679124,
+            21.123061
+          ],
+          "category": "museum",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie ein nahegelegenes Parkhaus, bevor Sie in die reiche Geschichte der Stadt eintauchen, die durch Kunst und historische Artefakte erzählt wird.",
+            "hu": "Használjon egy közeli parkolóházat, mielőtt elmerülne a város művészeten és történelmi tárgyakon keresztül elmesélt gazdag történetében, nyugodtan végigjárva a galériákat.",
+            "ro": "Folosiți o parcare din apropiere înainte de a vă scufunda în povestea bogată a orașului spusă prin artă și artefacte, acordându-vă timp în galeriile permanente.",
+            "en": "Use a nearby parking garage before diving into the city's rich narrative told through art and historical artifacts, taking your time in the permanent galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Cultural Guanajuato",
+            "hu": "Forum Cultural Guanajuato",
+            "ro": "Forum Cultural Guanajuato",
+            "en": "Forum Cultural Guanajuato"
+          },
+          "coords": [
+            -101.660598,
+            21.115936
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrzeug in der geräumigen Tiefgarage und spazieren Sie um diesen wunderschönen Ort, der üppige Gärten nahtlos mit monumentaler moderner Kunst verbindet.",
+            "hu": "Hagyja járművét a tágas mélygarázsban, és sétáljon körbe ezen a gyönyörű helyszínen, amely zökkenőmentesen ötvözi a buja kerteket a monumentális modern művészettel.",
+            "ro": "Lăsați-vă vehiculul în parcarea subterană spațioasă și plimbați-vă prin această locație frumoasă, care îmbină perfect grădinile luxuriante cu arta modernă monumentală.",
+            "en": "Leave your vehicle in the spacious underground parking and walk around this beautiful venue, which seamlessly blends lush gardens with monumental modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Area de Juegos Feria de León",
+            "hu": "Area de Juegos Feria de León",
+            "ro": "Area de Juegos Feria de León",
+            "en": "Area de Juegos Feria de León"
+          },
+          "coords": [
+            -101.658475,
+            21.113822
+          ],
+          "category": "family",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour auf diesem lebhaften Messegelände, wo Kinder spielen können und Sie leicht lokale Essensstände finden, die bis in die Abendstunden geöffnet sind.",
+            "hu": "Fejezze be autós túráját ezen a nyüzsgő vásárterületen, ahol a gyerekek játszhatnak, és könnyen találhat olyan helyi ételstandokat, amelyek késő estig nyitva tartanak.",
+            "ro": "Terminați-vă turul cu mașina la acest târg plin de viață, unde copiii se pot juca și puteți găsi cu ușurință standuri cu mâncare locală deschise până seara târziu.",
+            "en": "Finish your driving tour at these lively fairgrounds, where kids can play and you can easily find local food stalls open well into the evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrtag in der Natur und beobachten Sie Tiere im größten Park der Stadt. Gegen Mittag fahren Sie ins Zentrum, um sich an einem berühmten akustischen Denkmal die Beine zu vertreten. Am Nachmittag erkunden Sie mühelos monumentale Museen und riesige Kulturzentren. Lassen Sie den Tag dort ausklingen, wo sich Familien in lebhafter Atmosphäre versammeln.",
+        "hu": "Kezdje autós napját a természetben, a város legnagyobb parkjában. Dél felé haladva vezessen a városközpont felé, hogy kinyújtóztassa a lábát egy híres akusztikus műemléknél. Délután könnyedén felfedezheti a monumentális múzeumokat és a hatalmas kulturális központokat. Zárja a napot ott, ahol a családok összegyűlnek, élvezve a nyüzsgő hangulatot és a naplementét.",
+        "ro": "Începeți-vă ziua cu mașina în natură, observând fauna sălbatică în cel mai mare parc al orașului. Apropiindu-vă de amiază, conduceți spre centru pentru a admira un monument acustic renumit. În timpul după-amiezii, explorați cu ușurință muzee monumentale și hub-uri culturale vaste. Încheiați-vă ziua acolo unde se adună familiile, bucurându-vă de atmosfera plină de viață.",
+        "en": "Begin your driving day out in nature, observing wildlife at the city's largest park. Approaching midday, drive towards the city center to stretch your legs at a renowned acoustic monument. During the afternoon, explore monumental museums and vast cultural hubs with ease. Wrap up your day where families gather, enjoying the lively atmosphere and sunset entertainment."
+      }
+    }
+  }
+}

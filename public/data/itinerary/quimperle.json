@@ -1,0 +1,451 @@
+{
+  "city_id": "quimperle",
+  "anchor": {
+    "name": "Quimperlé",
+    "coords": [
+      -3.5497,
+      47.8728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:46",
+      "total_km": 0.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Sainte-Croix",
+            "hu": "Sainte-Croix apátság",
+            "ro": "Abația Sainte-Croix",
+            "en": "Sainte-Croix Abbey"
+          },
+          "coords": [
+            -3.546473,
+            47.873846
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
+            "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
+            "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Bogenschützen",
+            "hu": "Íjászok háza (Maison des Archers)",
+            "ro": "Casa Arcașilor",
+            "en": "Maison des Archers"
+          },
+          "coords": [
+            -3.545762,
+            47.872986
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
+            "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
+            "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthallen von Quimperlé",
+            "hu": "Quimperlé Vásárcsarnok",
+            "ro": "Halele din Quimperlé",
+            "en": "Quimperlé Market Halls"
+          },
+          "coords": [
+            -3.545336,
+            47.872362
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesen historischen Markthallen nach bretonischen Delikatessen und bringen Sie Bargeld mit, da einige kleine Händler keine Kreditkarten akzeptieren.",
+            "hu": "Böngésszen a helyi breton finomságok között ezekben a történelmi vásárcsarnokokban, és hozzon készpénzt, mivel néhány kisebb árus nem fogad el bankkártyát.",
+            "ro": "Căutați delicatese bretone locale în aceste hale istorice și aduceți numerar, deoarece unii vânzători artizanali mici s-ar putea să nu accepte carduri.",
+            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenbrücke (Pont Fleuri)",
+            "hu": "Pont Fleuri (Virágos híd)",
+            "ro": "Pont Fleuri (Podul cu Flori)",
+            "en": "Pont Fleuri"
+          },
+          "coords": [
+            -3.54356,
+            47.8728
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
+            "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
+            "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption templom",
+            "ro": "Biserica Notre-Dame de l'Assomption",
+            "en": "Notre-Dame de l'Assomption Church"
+          },
+          "coords": [
+            -3.548082,
+            47.871012
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
+            "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
+            "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der Abtei Sainte-Croix, deren seltener runder Bau Sie ins Mittelalter zurückversetzt. Schlendern Sie dann zum Haus der Bogenschützen, um noch tiefer in die Stadtgeschichte einzutauchen.\n\nZur Mittagszeit locken die Markthallen von Quimperlé mit bretonischen Spezialitäten und lebhaftem Treiben. Hier spüren Sie den wahren Puls der Stadt.\n\nAm Nachmittag spazieren Sie zur charmanten Blumenbrücke Pont Fleuri. Dieser idyllische Ort am Wasser bietet wunderschöne Fotomotive.\n\nBeenden Sie Ihren Rundgang in der Oberstadt an der Kirche Notre-Dame de l'Assomption. Genießen Sie die friedliche Atmosphäre der majestätischen Gotik.",
+        "hu": "Kezdje a sétát a Sainte-Croix apátságnál, melynek ritka kerek alaprajza a középkorba repíti. Ezután sétáljon át az Íjászok házához, és merüljön el a város gazdag történelmében.\n\nDélben a Quimperlé Vásárcsarnok csábítja a látogatókat breton specialitásokkal és pezsgő hangulattal. Itt igazán átérezheti a város lüktetését.\n\nDélután sétáljon le a bájos Pont Fleuri virágos hídhoz. Ez az idilli, vízparti hely csodálatos fotótémákat kínál.\n\nZárja a túrát a felsővárosban a Notre-Dame de l'Assomption templomnál. Élvezze a fenséges gótika békés, nyugodt atmoszféráját.",
+        "ro": "Începeți plimbarea la Abația Sainte-Croix, al cărei design circular rar vă va transporta în Evul Mediu. Apoi, vizitați Casa Arcașilor pentru a aprofunda istoria bogată a orașului.\n\nLa amiază, Halele din Quimperlé vă atrag cu specialități bretone și o atmosferă plină de viață. Aici veți simți cu adevărat pulsul orașului.\n\nDupă-amiaza, plimbați-vă până la fermecătorul pod cu flori, Pont Fleuri. Acest loc idilic pe malul apei oferă oportunități fotografice minunate.\n\nÎncheiați turul în orașul de sus la Biserica Notre-Dame de l'Assomption. Bucurați-vă de atmosfera liniștită a arhitecturii gotice maiestuoase.",
+        "en": "Begin your walking tour at Sainte-Croix Abbey, where the rare circular design transports you to the Middle Ages. Stroll next to the Maison des Archers to dive deeper into the rich local history.\n\nMidday draws you to the Quimperlé Market Halls, bustling with Breton specialties and lively energy. It is the perfect place to feel the true pulse of the city.\n\nIn the afternoon, wander down to the charming Pont Fleuri. This idyllic, flower-draped bridge over the water provides wonderful photo opportunities.\n\nConclude your journey in the upper town at the Notre-Dame de l'Assomption Church. Soak in the peaceful atmosphere and majestic Gothic architecture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption templom",
+            "ro": "Biserica Notre-Dame de l'Assomption",
+            "en": "Notre-Dame de l'Assomption Church"
+          },
+          "coords": [
+            -3.548082,
+            47.871012
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
+            "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
+            "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthallen von Quimperlé",
+            "hu": "Quimperlé Vásárcsarnok",
+            "ro": "Halele din Quimperlé",
+            "en": "Quimperlé Market Halls"
+          },
+          "coords": [
+            -3.545336,
+            47.872362
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesen historischen Markthallen nach bretonischen Delikatessen und bringen Sie Bargeld mit, da einige kleine Händler keine Kreditkarten akzeptieren.",
+            "hu": "Böngésszen a helyi breton finomságok között ezekben a történelmi vásárcsarnokokban, és hozzon készpénzt, mivel néhány kisebb árus nem fogad el bankkártyát.",
+            "ro": "Căutați delicatese bretone locale în aceste hale istorice și aduceți numerar, deoarece unii vânzători artizanali mici s-ar putea să nu accepte carduri.",
+            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Bogenschützen",
+            "hu": "Íjászok háza (Maison des Archers)",
+            "ro": "Casa Arcașilor",
+            "en": "Maison des Archers"
+          },
+          "coords": [
+            -3.545762,
+            47.872986
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
+            "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
+            "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Sainte-Croix",
+            "hu": "Sainte-Croix apátság",
+            "ro": "Abația Sainte-Croix",
+            "en": "Sainte-Croix Abbey"
+          },
+          "coords": [
+            -3.546473,
+            47.873846
+          ],
+          "category": "monastic",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
+            "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
+            "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenbrücke (Pont Fleuri)",
+            "hu": "Pont Fleuri (Virágos híd)",
+            "ro": "Pont Fleuri (Podul cu Flori)",
+            "en": "Pont Fleuri"
+          },
+          "coords": [
+            -3.54356,
+            47.8728
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
+            "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
+            "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Gyermekjátszótér",
+            "ro": "Loc de joacă",
+            "en": "Children's Playground"
+          },
+          "coords": [
+            -3.519685,
+            47.873472
+          ],
+          "category": "family",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem weitläufigen Spielplatz Energie abbauen, der günstig an Wanderwegen liegt, wo Sie eine friedliche Pause am späten Nachmittag genießen können.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a tágas játszótéren, amely kényelmesen a sétautak közelében található a késő délutáni békés pihenéshez.",
+            "ro": "Lăsați copiii să-și consume energia în această zonă spațioasă de joacă, situată convenabil lângă alei unde vă puteți bucura de o pauză liniștită după-amiaza.",
+            "en": "Let the kids burn off energy at this spacious playground area, conveniently located near walking paths where you can sit and enjoy a peaceful late afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour hoch oben an der prächtigen Kirche Notre-Dame de l'Assomption, bevor Sie hinunter ins Stadtzentrum rollen. Dort erwarten Sie die lebhaften Markthallen mit frischen, lokalen Köstlichkeiten.\n\nFahren Sie zur Mittagszeit weiter zum Haus der Bogenschützen, um die Fachwerkarchitektur zu bestaunen. Gleich um die Ecke beeindruckt die Abtei Sainte-Croix mit ihrer besonderen Bauweise.\n\nDer Nachmittag führt Sie über die blumengeschmückte Brücke Pont Fleuri. Ein wunderbarer Moment, um die Aussicht auf die sanft fließenden Flüsse zu genießen.\n\nLassen Sie den Tag bei einer entspannten Fahrt zu den grünen Parkanlagen ausklingen. Der Kinderspielplatz bietet den perfekten Abschluss für eine familiäre und aktive Erkundungstour.",
+        "hu": "Indítsa kerékpártúráját magasan, a pompás Notre-Dame de l'Assomption templomnál, mielőtt legurulna a központba. Ott a pezsgő Vásárcsarnok friss, helyi finomságokkal várja.\n\nDélben folytassa útját az Íjászok házához, hogy megcsodálja a favázas építészetet. Közvetlenül a sarok után a Sainte-Croix apátság nyűgöz le különleges formájával.\n\nA délután a virágokkal díszített Pont Fleuri hídon át vezet. Csodálatos pillanat, hogy élvezze a lágyan csörgedező folyók festői látványát.\n\nZárja a napot egy laza tekeréssel a zöld parkok felé. A játszótér környéke tökéletes befejezést kínál egy családias, aktív felfedezőútnak.",
+        "ro": "Începeți turul cu bicicleta sus, la Biserica Notre-Dame de l'Assomption, înainte de a coborî în centrul orașului. Acolo, Halele pline de viață vă așteaptă cu delicatese locale proaspete.\n\nLa amiază, continuați spre Casa Arcașilor pentru a admira arhitectura tradițională. Chiar după colț, Abația Sainte-Croix impresionează prin designul său deosebit.\n\nDupă-amiaza vă poartă peste podul împodobit cu flori, Pont Fleuri. Un moment minunat pentru a vă bucura de priveliștea râurilor curgând lin.\n\nÎncheiați ziua cu o plimbare relaxantă spre zonele verzi. Locul de joacă oferă un final perfect pentru o explorare activă și potrivită pentru familii.",
+        "en": "Start your bike ride high up at the splendid Notre-Dame de l'Assomption Church before coasting down into the center. There, the lively Market Halls await with fresh, local delicacies.\n\nMidday takes you further to the Maison des Archers to marvel at the half-timbered architecture. Just around the corner, Sainte-Croix Abbey impresses with its distinct shape.\n\nYour afternoon route crosses the flower-decked Pont Fleuri bridge. It is a wonderful moment to pause and enjoy the view of the gently flowing rivers.\n\nEnd the day with a relaxed ride towards the green park areas. The playground vicinity offers the perfect, family-friendly conclusion to an active exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption templom",
+            "ro": "Biserica Notre-Dame de l'Assomption",
+            "en": "Notre-Dame de l'Assomption Church"
+          },
+          "coords": [
+            -3.548082,
+            47.871012
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
+            "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
+            "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Sainte-Croix",
+            "hu": "Sainte-Croix apátság",
+            "ro": "Abația Sainte-Croix",
+            "en": "Sainte-Croix Abbey"
+          },
+          "coords": [
+            -3.546473,
+            47.873846
+          ],
+          "category": "monastic",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
+            "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
+            "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Bogenschützen",
+            "hu": "Íjászok háza (Maison des Archers)",
+            "ro": "Casa Arcașilor",
+            "en": "Maison des Archers"
+          },
+          "coords": [
+            -3.545762,
+            47.872986
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
+            "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
+            "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenbrücke (Pont Fleuri)",
+            "hu": "Pont Fleuri (Virágos híd)",
+            "ro": "Pont Fleuri (Podul cu Flori)",
+            "en": "Pont Fleuri"
+          },
+          "coords": [
+            -3.54356,
+            47.8728
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
+            "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
+            "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserreservoir",
+            "hu": "Víztározó",
+            "ro": "Rezervor de apă",
+            "en": "Water Reservoir"
+          },
+          "coords": [
+            -3.52865,
+            47.862667
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem überraschend malerischen Wasserreservoir mitten in der Natur, das ein hervorragender ruhiger Ort für ein Picknick ist.",
+            "hu": "Pihenjen meg ennél a meglepően festői, természet által körülvett víztározónál, amely kiváló csendes hely egy déli piknikhez, távol a város zajától.",
+            "ro": "Relaxați-vă la acest rezervor pitoresc înconjurat de natură, care este un loc liniștit excelent pentru un picnic de prânz departe de agitația orașului.",
+            "en": "Relax by this surprisingly scenic water reservoir surrounded by nature, making it an excellent quiet spot for a midday picnic away from the city crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Waschhaus von Kerluhec",
+            "hu": "Kerluhec mosóház",
+            "ro": "Spălătoria din Kerluhec",
+            "en": "Kerluhec Washhouse"
+          },
+          "coords": [
+            -3.512652,
+            47.841609
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem traditionellen Steinwaschhaus im Grünen, einem ruhigen Abschluss Ihrer Reise, wo im Sommer Insektenschutz empfohlen wird.",
+            "hu": "Lépjen vissza az időben ezen a zöldben megbúvó hagyományos kőmosóháznál, amely nyugodt lezárása az utazásnak, de nyáron rovarriasztó használata ajánlott.",
+            "ro": "Întoarceți-vă în timp la această spălătorie tradițională de piatră ascunsă în verdeață, un final senin unde se recomandă repelent de insecte vara.",
+            "en": "Step back in time at this traditional stone washhouse nestled in greenery, a serene end to your journey where insect repellent is recommended in summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour im oberen Teil der Stadt an der gotischen Kirche Notre-Dame de l'Assomption. Parken Sie danach nah am Zentrum, um die runde Abtei Sainte-Croix bequem zu besuchen.\n\nErkunden Sie um die Mittagszeit das benachbarte Haus der Bogenschützen und bestaunen Sie die Geschichte. Ein kurzer Spaziergang bringt Sie anschließend zur Blumenbrücke Pont Fleuri.\n\nAm Nachmittag verlassen Sie das Stadtzentrum und fahren in die Natur zum ruhigen Wasserreservoir. Dieser Ort lädt zu einer gemütlichen und erholsamen Pause fernab des Trubels ein.\n\nZum Abschluss steuern Sie das historische Waschhaus von Kerluhec an. Versteckt im Grünen, bietet es ein friedliches Finale für Ihre abwechslungsreiche Tagestour.",
+        "hu": "Kezdje autós túráját a felsővárosban a gótikus Notre-Dame de l'Assomption templomnál. Ezután parkoljon le a központhoz közel, hogy kényelmesen felkereshesse a kerek Sainte-Croix apátságot.\n\nDélben fedezze fel a szomszédos Íjászok házát, és csodálja meg a történelmet. Egy rövid séta elviszi a Pont Fleuri virágos hídhoz is a vízparton.\n\nDélután hagyja el a városközpontot, és hajtson ki a természetbe a csendes víztározóhoz. Ez a hely egy kényelmes és pihentető pihenésre csábít távol a zajtól.\n\nBefejezésül vezessen el a történelmi Kerluhec mosóházhoz. A zöldben megbúvó épület békés lezárást nyújt a változatos egynapos utazásnak.",
+        "ro": "Începeți turul auto în partea de sus a orașului la biserica gotică Notre-Dame de l'Assomption. Parcați apoi aproape de centru pentru a vizita comod Abația circulară Sainte-Croix.\n\nLa amiază, explorați Casa Arcașilor din apropiere și admirați istoria sa. O scurtă plimbare vă va duce la podul împodobit cu flori, Pont Fleuri.\n\nDupă-amiaza părăsiți centrul și conduceți în natură, spre rezervorul liniștit de apă. Acest loc vă invită la o pauză confortabilă și relaxantă, departe de agitație.\n\nLa final, îndreptați-vă spre spălătoria istorică din Kerluhec. Ascunsă în verdeață, oferă un sfârșit pașnic pentru o călătorie diversă de o zi.",
+        "en": "Start your driving tour in the upper town at the Gothic Notre-Dame de l'Assomption Church. Then, park near the center to easily visit the unique circular Sainte-Croix Abbey.\n\nAround midday, explore the neighboring Maison des Archers and take in its medieval charm. A brief walk from your parking spot brings you to the beautiful Pont Fleuri.\n\nIn the afternoon, leave the city center behind and drive out to the tranquil water reservoir. This nature spot invites you to a comfortable, relaxing break away from the crowds.\n\nFinally, navigate to the historic Kerluhec washhouse. Hidden in the lush greenery, it provides a peaceful and reflective finale to your varied day trip."
+      }
+    }
+  }
+}

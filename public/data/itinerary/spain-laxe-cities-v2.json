@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-laxe-cities-v2",
+  "anchor": {
+    "name": "Laxe",
+    "coords": [
+      -9.00594,
+      43.22191
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 2.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Laxe",
+            "hu": "Concello de Laxe",
+            "ro": "Concello de Laxe",
+            "en": "Concello de Laxe"
+          },
+          "coords": [
+            -9.004208,
+            43.217308
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses, das als Herz der lokalen Verwaltung dient, und kommen Sie früh, um die Fassade ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg a helyi közigazgatás szívének számító városháza hagyományos építészetét, és érkezzen korán, hogy tömeg nélkül fényképezhesse le a homlokzatot.",
+            "ro": "Admirați arhitectura tradițională a primăriei care servește drept inima administrației locale și ajungeți devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the traditional architecture of the town hall that serves as the heart of local administration, and arrive early to photograph the facade without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Laxe",
+            "hu": "Praia de Laxe",
+            "ro": "Praia de Laxe",
+            "en": "Praia de Laxe"
+          },
+          "coords": [
+            -9.000705,
+            43.218199
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie barfuß über diesen weiten weißen Sandstrand entlang der Bucht und baden Sie kurz in der Nähe der geschützten Hafenmauer, wo das Wasser am ruhigsten ist.",
+            "hu": "Sétáljon mezítláb ezen az öböl mentén húzódó, hatalmas fehér homokos tengerparton, és mártózzon meg a védett kikötőfal közelében, ahol a víz a legnyugodtabb.",
+            "ro": "Plimbați-vă desculț pe această plajă imensă cu nisip alb care se întinde de-a lungul golfului și faceți o baie rapidă lângă zidul portului, unde apa este calmă.",
+            "en": "Walk barefoot on this extensive white sand beach stretching along the bay, and take a quick dip near the protected harbor wall where the water is calmest."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar",
+            "hu": "Museo do Mar",
+            "ro": "Museo do Mar",
+            "en": "Museo do Mar"
+          },
+          "coords": [
+            -9.006027,
+            43.221822
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das tiefe maritime Erbe der Region durch faszinierende lokale Ausstellungen und fragen Sie den Kurator nach den berühmten Schiffswracks der Costa da Morte.",
+            "hu": "Fedezze fel a régió mély tengeri örökségét a lenyűgöző helyi kiállításokon keresztül, és kérdezze meg a kurátort a Costa da Morte híres hajóroncsairól.",
+            "ro": "Descoperiți moștenirea maritimă profundă a regiunii prin exponatele locale fascinante și întrebați custodele despre celebrele epave de pe Costa da Morte.",
+            "en": "Discover the profound maritime heritage of the region through fascinating local exhibits, and ask the curator about the famous shipwrecks of the Costa da Morte."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María da Atalaia",
+            "hu": "Igrexa de Santa María da Atalaia",
+            "ro": "Igrexa de Santa María da Atalaia",
+            "en": "Igrexa de Santa María da Atalaia"
+          },
+          "coords": [
+            -9.004681,
+            43.222691
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese wunderschöne gotische Kirche, die stolz über dem Dorf thront, und prüfen Sie die Steinmetzarbeiten am Eingang auf versteckte maritime Symbole.",
+            "hu": "Csodálja meg a falu fölé magasodó gyönyörű gótikus templomot, és keresse a bejárati kőfaragásokon elrejtett tengerészeti szimbólumokat.",
+            "ro": "Admirați această frumoasă biserică gotică care se înalță mândră deasupra satului și verificați sculpturile în piatră de la intrare pentru simboluri maritime ascunse.",
+            "en": "Marvel at this beautiful Gothic church standing proudly over the village, and check the stone carvings at the entrance for hidden maritime symbols."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Cristais",
+            "hu": "Praia dos Cristais",
+            "ro": "Praia dos Cristais",
+            "en": "Praia dos Cristais"
+          },
+          "coords": [
+            -9.0106,
+            43.22669
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dem mit abgeschliffenem Meerglas bedeckten Ufer überraschen, das aus einer ehemaligen Glasdeponie stammt, aber denken Sie daran, keine Kristalle mitzunehmen.",
+            "hu": "Ámuljon el az egykori üveglerakóból származó, simára csiszolt tengeri üveggel borított parton, de ne feledje, hogy a kristályok hazavitele szigorúan tilos.",
+            "ro": "Lăsați-vă uimiți de țărmul acoperit cu sticlă de mare șlefuită provenită de la o fostă groapă de gunoi, dar rețineți că este strict interzis să luați cristale acasă.",
+            "en": "Be amazed by the shore covered in smoothed sea glass formed from a former glass dump, but remember it is strictly forbidden to take any crystals home."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Insua",
+            "hu": "Miradoiro da Insua",
+            "ro": "Miradoiro da Insua",
+            "en": "Miradoiro da Insua"
+          },
+          "coords": [
+            -9.007061,
+            43.226495
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die raue Küste und den endlosen Ozean und bringen Sie ein Fernglas mit, um Seevögel entlang der Klippen zu beobachten.",
+            "hu": "Élvezze a zord partvonal és a végtelen óceán lenyűgöző panorámáját, és hozzon magával távcsövet a sziklák mentén merülő tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice vaste asupra coastei accidentate și a oceanului nesfârșit și aduceți un binoclu pentru a observa păsările marine de lângă stânci.",
+            "en": "Take in the sweeping panoramic views of the rugged coastline and endless ocean, and bring binoculars to spot seabirds diving along the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Laxe",
+            "hu": "Faro de Laxe",
+            "ro": "Faro de Laxe",
+            "en": "Faro de Laxe"
+          },
+          "coords": [
+            -9.011224,
+            43.232137
+          ],
+          "category": "landmark",
+          "arrive_at": "16:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spüren Sie die dramatische Kraft des Ozeans an diesem ikonischen Leuchtturm und bringen Sie auch im Sommer eine Windjacke mit, da die Brise unerbittlich ist.",
+            "hu": "Érezze az óceán drámai erejét, ahogy a sziklás fokot veri ez a híres világítótorony, és még nyáron is hozzon széldzsekit, mert a szél könyörtelen.",
+            "ro": "Simțiți forța dramatică a oceanului lovind capul stâncos din jurul acestui far emblematic și aduceți o jachetă de vânt chiar și vara, deoarece briza este constantă.",
+            "en": "Feel the dramatic force of the ocean hitting the rocky cape around this iconic lighthouse, and bring a windbreaker even in summer as the breeze is relentless."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Concello vor einem erfrischenden Stopp an der Praia de Laxe. Mittags erwarten Sie die faszinierenden Exponate des Museo do Mar und die beeindruckende Igrexa da Atalaia. Am Nachmittag bewundern Sie die funkelnde Praia dos Cristais und den Aussichtspunkt Miradoiro da Insua. Der Abend klingt beim Leuchtturm Faro de Laxe aus.",
+        "hu": "A reggel a történelmi Concello épületénél indul, majd a Praia de Laxe partján frissülhet fel. Délben a Museo do Mar kiállításai és a lenyűgöző Igrexa da Atalaia várják. Délután csodálja meg a szikrázó Praia dos Cristais-t és a Miradoiro da Insua panorámáját. Az estét a Faro de Laxe világítótorony naplementéje teszi tökéletessé.",
+        "ro": "Dimineața începe la istoricul Concello, urmată de o oprire revigorantă la Praia de Laxe. La amiază, explorați exponatele de la Museo do Mar și impresionanta biserică Santa María da Atalaia. După-amiaza admirați plaja Praia dos Cristais și priveliștea de la Miradoiro da Insua. Seara se încheie perfect la farul din Laxe.",
+        "en": "Morning begins at the historic Concello before a refreshing stop at Praia de Laxe. Midday takes you to the rich exhibits of Museo do Mar and the stunning Igrexa de Santa María da Atalaia. In the afternoon, marvel at the sparkling Praia dos Cristais and panoramic Miradoiro da Insua. Evening falls perfectly with sunset views at Faro de Laxe."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Laxe",
+            "hu": "Praia de Laxe",
+            "ro": "Praia de Laxe",
+            "en": "Praia de Laxe"
+          },
+          "coords": [
+            -9.000705,
+            43.218199
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gehen Sie barfuß über diesen weiten weißen Sandstrand entlang der Bucht und baden Sie kurz in der Nähe der geschützten Hafenmauer, wo das Wasser am ruhigsten ist.",
+            "hu": "Sétáljon mezítláb ezen az öböl mentén húzódó, hatalmas fehér homokos tengerparton, és mártózzon meg a védett kikötőfal közelében, ahol a víz a legnyugodtabb.",
+            "ro": "Plimbați-vă desculț pe această plajă imensă cu nisip alb care se întinde de-a lungul golfului și faceți o baie rapidă lângă zidul portului, unde apa este calmă.",
+            "en": "Walk barefoot on this extensive white sand beach stretching along the bay, and take a quick dip near the protected harbor wall where the water is calmest."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar",
+            "hu": "Museo do Mar",
+            "ro": "Museo do Mar",
+            "en": "Museo do Mar"
+          },
+          "coords": [
+            -9.006027,
+            43.221822
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das tiefe maritime Erbe der Region durch faszinierende lokale Ausstellungen und fragen Sie den Kurator nach den berühmten Schiffswracks der Costa da Morte.",
+            "hu": "Fedezze fel a régió mély tengeri örökségét a lenyűgöző helyi kiállításokon keresztül, és kérdezze meg a kurátort a Costa da Morte híres hajóroncsairól.",
+            "ro": "Descoperiți moștenirea maritimă profundă a regiunii prin exponatele locale fascinante și întrebați custodele despre celebrele epave de pe Costa da Morte.",
+            "en": "Discover the profound maritime heritage of the region through fascinating local exhibits, and ask the curator about the famous shipwrecks of the Costa da Morte."
+          }
+        },
+        {
+          "name": {
+            "de": "A Furna da Escuma",
+            "hu": "A Furna da Escuma",
+            "ro": "A Furna da Escuma",
+            "en": "A Furna da Escuma"
+          },
+          "coords": [
+            -9.013461,
+            43.229553
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese natürliche Meereshöhle, in der brechende Wellen eine spektakuläre Schaumexplosion erzeugen, und bleiben Sie bei Flut sicher hinter den Markierungen.",
+            "hu": "Figyelje meg ezt a természetes tengeri barlangot, ahol az összecsapó hullámok látványos habrobbanást hoznak létre, és dagály idején maradjon biztonságban a jelzések mögött.",
+            "ro": "Observați această peșteră marină naturală unde valurile creează o explozie spectaculoasă de spumă și rămâneți în siguranță în spatele marcajelor la flux.",
+            "en": "Observe this natural sea cave where crashing waves create a spectacular foam explosion, and stay safely behind the markers during high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Laxe",
+            "hu": "Faro de Laxe",
+            "ro": "Faro de Laxe",
+            "en": "Faro de Laxe"
+          },
+          "coords": [
+            -9.011224,
+            43.232137
+          ],
+          "category": "landmark",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spüren Sie die dramatische Kraft des Ozeans an diesem ikonischen Leuchtturm und bringen Sie auch im Sommer eine Windjacke mit, da die Brise unerbittlich ist.",
+            "hu": "Érezze az óceán drámai erejét, ahogy a sziklás fokot veri ez a híres világítótorony, és még nyáron is hozzon széldzsekit, mert a szél könyörtelen.",
+            "ro": "Simțiți forța dramatică a oceanului lovind capul stâncos din jurul acestui far emblematic și aduceți o jachetă de vânt chiar și vara, deoarece briza este constantă.",
+            "en": "Feel the dramatic force of the ocean hitting the rocky cape around this iconic lighthouse, and bring a windbreaker even in summer as the breeze is relentless."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Soesto",
+            "hu": "Praia de Soesto",
+            "ro": "Praia de Soesto",
+            "en": "Praia de Soesto"
+          },
+          "coords": [
+            -9.021707,
+            43.21425
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten, wilden Strand, der wegen seiner Wellen bei Surfern beliebt ist, und packen Sie eigene Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen az érintetlen, vad strandon, amelyet a szörfösök a folyamatos hullámok miatt kedvelnek, és csomagoljon saját rágcsálnivalót, mivel nincsenek büfék a közelben.",
+            "ro": "Relaxați-vă pe această plajă sălbatică apreciată de surferii locali pentru valurile sale și luați-vă propriile gustări, deoarece nu există facilități permanente.",
+            "en": "Relax on this pristine, wild beach favored by local surfers for its consistent waves, and pack your own snacks as there are no permanent facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro",
+            "hu": "Castro",
+            "ro": "Castro",
+            "en": "Castro"
+          },
+          "coords": [
+            -9.016934,
+            43.219253
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste einer alten keltischen Siedlung aus der Eisenzeit und tragen Sie feste Schuhe, um das unebene Grasgelände sicher zu bewältigen.",
+            "hu": "Fedezze fel az ősi kelta település maradványait, amely bepillantást enged a vaskori múltba, és viseljen masszív cipőt a fűvel benőtt, egyenetlen terepen.",
+            "ro": "Explorați rămășițele unei vechi așezări celtice care oferă o privire în trecutul epocii fierului și purtați încălțăminte rezistentă pe terenul cu iarbă.",
+            "en": "Explore the remnants of an ancient Celtic settlement offering a glimpse into the region's Iron Age past, and wear sturdy shoes to navigate the uneven grassy terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Praia de Laxe, bevor Sie im Museo do Mar in die maritime Geschichte eintauchen. Mittags radeln Sie zu den Klippen von A Furna da Escuma und zum Leuchtturm Faro de Laxe. Verbringen Sie einen entspannten Nachmittag am Strand Praia de Soesto. Die Fahrt endet an den antiken Ruinen des Castro.",
+        "hu": "Kezdje kerékpártúráját a szeles Praia de Laxe partján, majd merüljön el a Museo do Mar tengeri történelmében. Délben tekerjen az A Furna da Escuma drámai szikláihoz és a magasló Faro de Laxe-hez. Töltsön egy pihentető délutánt a Praia de Soesto aranyhomokos strandján. A túra az ősi Castro romjainál ér véget.",
+        "ro": "Începeți turul cu bicicleta la Praia de Laxe înainte de a descoperi istoria maritimă la Museo do Mar. La amiază, pedalați spre stâncile de la A Furna da Escuma și farul impresionant. Petreceți o după-amiază relaxantă pe nisipul auriu de la Praia de Soesto. Călătoria se încheie cu explorarea ruinelor antice Castro.",
+        "en": "Start your bike tour at the breezy Praia de Laxe before diving into maritime history at Museo do Mar. By midday, pedal towards the dramatic natural cliffs of A Furna da Escuma and the towering Faro de Laxe. Spend a relaxed afternoon enjoying the golden sands of Praia de Soesto. Conclude your ride by exploring the ancient Castro ruins."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Serantes",
+            "hu": "Igrexa de Santa María de Serantes",
+            "ro": "Igrexa de Santa María de Serantes",
+            "en": "Igrexa de Santa María de Serantes"
+          },
+          "coords": [
+            -9.001388,
+            43.202341
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Spiritualität dieser alten ländlichen Pfarrkirche und sehen Sie sich den Kirchhof an, auf dem oft schöne traditionelle galizische Steinkreuze stehen.",
+            "hu": "Értékelje ezen ősi vidéki plébániatemplom csendes spiritualitását, és nézze meg a templomkertet, ahol gyakran szép hagyományos galíciai kőkeresztek állnak.",
+            "ro": "Apreciați spiritualitatea liniștită a acestei vechi biserici parohiale rurale și vizitați curtea care găzduiește adesea cruci tradiționale din piatră din Galicia.",
+            "en": "Appreciate the quiet spirituality of this ancient rural parish church, and check the churchyard which often hosts beautiful traditional Galician stone crosses."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Lourido",
+            "hu": "Castro de Lourido",
+            "ro": "Castro de Lourido",
+            "en": "Castro de Lourido"
+          },
+          "coords": [
+            -8.98658,
+            43.207615
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser weniger bekannten befestigten Siedlung eine weitere Schicht galizischer Geschichte und kommen Sie am späten Nachmittag für wunderschönes goldenes Licht.",
+            "hu": "Fedezzen fel egy újabb réteget Galícia történelméből ennél a kevésbé ismert erődített településnél, és látogasson el késő délután az aranyfényben fürdő romokhoz.",
+            "ro": "Descoperiți un alt strat al istoriei galiciene la această așezare fortificată mai puțin cunoscută și vizitați-o spre seară pentru o lumină aurie frumoasă pe ruine.",
+            "en": "Uncover another layer of Galician history at this lesser-known fortified settlement, and visit at late afternoon for beautiful golden lighting across the stone ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santo Estevo de Soesto",
+            "hu": "Igrexa de Santo Estevo de Soesto",
+            "ro": "Igrexa de Santo Estevo de Soesto",
+            "en": "Igrexa de Santo Estevo de Soesto"
+          },
+          "coords": [
+            -9.015936,
+            43.201062
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bezaubernden romanischen Tempel und gehen Sie um sein Äußeres, um die fein geschnitzten Konsolen zu bewundern, die das Dach stützen.",
+            "hu": "Álljon meg ennél a bájos, középkori áhítatot tükröző román kori templomnál, és sétálja körbe, hogy megcsodálja a tetőt tartó, finoman faragott konzolokat.",
+            "ro": "Opriți-vă la acest fermecător templu romanic care reflectă devotamentul medieval și plimbați-vă în exterior pentru a admira consolele delicat sculptate.",
+            "en": "Pause at this charming Romanesque temple reflecting medieval devotion, and walk around its exterior to admire the delicately carved corbels supporting the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Castrillón",
+            "hu": "Praia do Castrillón",
+            "ro": "Praia do Castrillón",
+            "en": "Praia do Castrillón"
+          },
+          "coords": [
+            -9.03363,
+            43.212047
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Küstenjuwel inmitten steiler Klippen und planen Sie Ihren Besuch bei Ebbe, um die weiten Sandstrände voll zu genießen.",
+            "hu": "Meneküljön el a tömeg elől ezen a drámai sziklákkal körülvett eldugott tengerparti gyöngyszemen, és időzítse a látogatást apály idejére, hogy élvezhesse a homokot.",
+            "ro": "Evadați de aglomerație la această bijuterie de coastă retrasă înconjurată de stânci dramatice și planificați-vă vizita la reflux pentru a vă bucura de nisip.",
+            "en": "Escape the crowds at this secluded coastal gem surrounded by dramatic cliffs, and plan your visit during low tide to fully enjoy the exposed sandy stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Soesto",
+            "hu": "Praia de Soesto",
+            "ro": "Praia de Soesto",
+            "en": "Praia de Soesto"
+          },
+          "coords": [
+            -9.021707,
+            43.21425
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten, wilden Strand, der wegen seiner Wellen bei Surfern beliebt ist, und packen Sie eigene Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen az érintetlen, vad strandon, amelyet a szörfösök a folyamatos hullámok miatt kedvelnek, és csomagoljon saját rágcsálnivalót, mivel nincsenek büfék a közelben.",
+            "ro": "Relaxați-vă pe această plajă sălbatică apreciată de surferii locali pentru valurile sale și luați-vă propriile gustări, deoarece nu există facilități permanente.",
+            "en": "Relax on this pristine, wild beach favored by local surfers for its consistent waves, and pack your own snacks as there are no permanent facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Laxe",
+            "hu": "Faro de Laxe",
+            "ro": "Faro de Laxe",
+            "en": "Faro de Laxe"
+          },
+          "coords": [
+            -9.011224,
+            43.232137
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die dramatische Kraft des Ozeans an diesem ikonischen Leuchtturm und bringen Sie auch im Sommer eine Windjacke mit, da die Brise unerbittlich ist.",
+            "hu": "Érezze az óceán drámai erejét, ahogy a sziklás fokot veri ez a híres világítótorony, és még nyáron is hozzon széldzsekit, mert a szél könyörtelen.",
+            "ro": "Simțiți forța dramatică a oceanului lovind capul stâncos din jurul acestui far emblematic și aduceți o jachetă de vânt chiar și vara, deoarece briza este constantă.",
+            "en": "Feel the dramatic force of the ocean hitting the rocky cape around this iconic lighthouse, and bring a windbreaker even in summer as the breeze is relentless."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt bringt Sie zur Igrexa de Santa María de Serantes und zum antiken Castro de Lourido. Mittags geht es weiter zur schönen Igrexa de Santo Estevo, bevor Sie die abgelegene Praia do Castrillón erreichen. Der Nachmittag wird am Praia de Soesto in der Sonne genossen. Beenden Sie die Tour am Faro de Laxe.",
+        "hu": "A reggeli vezetés az Igrexa de Santa María de Serantes vidéki bájához és az ősi Castro de Lourido-hoz viszi. Délben a gyönyörű Igrexa de Santo Estevo következik, mielőtt eléri a távoli Praia do Castrillón-t. A délutánt a napsütötte Praia de Soesto partján érdemes tölteni. Zárja útját a parti kilátással a Faro de Laxe-nél.",
+        "ro": "Dimineața cu mașina vă aduce la șarmul rural de la Igrexa de Santa María de Serantes și la vechiul Castro de Lourido. La amiază vizitați superba biserică Santo Estevo înainte de a ajunge la izolată Praia do Castrillón. După-amiaza este perfectă pentru a vă bucura de soare la Praia de Soesto. Încheiați călătoria la Faro de Laxe.",
+        "en": "Morning driving brings you to the rural charm of Igrexa de Santa María de Serantes and the ancient Castro de Lourido. Midday continues with the beautiful Igrexa de Santo Estevo before arriving at the remote Praia do Castrillón. Afternoon is perfectly spent soaking up the sun at Praia de Soesto. End your road trip with spectacular coastal views at Faro de Laxe."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "ales",
+  "anchor": {
+    "name": "Alès",
+    "coords": [
+      4.0808,
+      44.1272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 1.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            4.076811,
+            44.125114
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses bürgerlichen Zentrums und starten Sie Ihren Tag am besten mit einem Kaffee auf dem belebten Vorplatz.",
+            "hu": "Csodálja meg ezen elegáns polgári épület homlokzatát, és kezdje a napját egy kávéval a nyüzsgő téren.",
+            "ro": "Admirați arhitectura elegantă a acestui centru civic și începeți ziua cu o cafea în piața animată din față.",
+            "en": "Admire the elegant architecture of this civic center and start your day right by enjoying a coffee in the bustling square in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            4.076619,
+            44.123554
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden gotischen und romanischen Elemente dieser Kirche; achten Sie besonders auf die detaillierten Fenster im Chorraum.",
+            "hu": "Figyelje meg a templom lenyűgöző gótikus és román elemeit; fordítson különös figyelmet a szentély részletgazdag ablakaira.",
+            "ro": "Observați elementele gotice și romanice impresionante ale acestei biserici; acordați o atenție deosebită ferestrelor detaliate din cor.",
+            "en": "Observe the impressive Gothic and Romanesque elements of this church; pay special attention to the detailed windows in the choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            4.077623,
+            44.121474
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese historische Steinbrücke, um tolle Fotos vom Fluss Gardon und der Skyline der Altstadt zu machen.",
+            "hu": "Sétáljon át ezen a történelmi kőhídon, hogy nagyszerű fotókat készíthessen a Gardon folyóról és az óváros sziluettjéről.",
+            "ro": "Plimbați-vă peste acest pod istoric de piatră pentru a face fotografii grozave cu râul Gardon și orizontul orașului vechi.",
+            "en": "Stroll across this historic stone bridge to take great photos of the Gardon river and the skyline of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cratère",
+            "hu": "Le Cratère Színház",
+            "ro": "Teatrul Le Cratère",
+            "en": "Le Cratère Theatre"
+          },
+          "coords": [
+            4.08139,
+            44.12401
+          ],
+          "category": "cultural",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses moderne Kulturzentrum; schauen Sie sich das aktuelle Programm an, vielleicht finden Sie eine spannende Vorstellung für den Abend.",
+            "hu": "Fedezze fel ezt a modern kulturális központot; nézze meg az aktuális műsort, hátha talál egy izgalmas előadást estére.",
+            "ro": "Descoperiți acest centru cultural modern; verificați programul actual, poate găsiți un spectacol captivant pentru diseară.",
+            "en": "Discover this modern cultural center; check the current program, you might find an exciting performance for the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Colombier",
+            "hu": "Colombier Múzeum",
+            "ro": "Muzeul Colombier",
+            "en": "Colombier Museum"
+          },
+          "coords": [
+            4.080312,
+            44.128406
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Kunst- und Archäologiemuseum; nehmen Sie sich Zeit für die beeindruckenden römischen Artefakte aus der Region.",
+            "hu": "Látogassa meg ezt a művészeti és régészeti múzeumot; szánjon időt a régióból származó lenyűgöző római leletekre.",
+            "ro": "Vizitați acest muzeu de artă și arheologie; faceți-vă timp pentru impresionantele artefacte romane din regiune.",
+            "en": "Visit this art and archaeology museum; take your time to appreciate the impressive Roman artifacts from the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Vauban",
+            "hu": "Vauban-erőd",
+            "ro": "Fortul Vauban",
+            "en": "Vauban Fort"
+          },
+          "coords": [
+            4.07492,
+            44.1258
+          ],
+          "category": "fortress",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festungsanlagen; von den Bastionen aus haben Sie einen perfekten Panoramablick über die Dächer von Alès.",
+            "hu": "Fedezze fel az erődítményeket; a bástyákról tökéletes panoráma nyílik Alès háztetőire, amit érdemes lencsevégre kapni.",
+            "ro": "Explorați fortificațiile; de pe bastioane aveți o vedere panoramică perfectă asupra acoperișurilor orașului Alès.",
+            "en": "Explore the fortifications; from the bastions, you have a perfect panoramic view over the rooftops of Alès."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Verdure du Bosquet",
+            "hu": "Bosquet Szabadtéri Színház",
+            "ro": "Teatrul de Verdeață Bosquet",
+            "en": "Bosquet Open-Air Theatre"
+          },
+          "coords": [
+            4.07589,
+            44.125937
+          ],
+          "category": "cultural",
+          "arrive_at": "17:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem grünen Amphitheater; ein wunderbarer Ort, um den Tag inmitten der Natur ruhig ausklingen zu lassen.",
+            "hu": "Pihenjen meg ebben a zöldellő amfiteátrumban; csodálatos hely a nap csendes, természetközeli lezárásához.",
+            "ro": "Relaxați-vă în acest amfiteatru verde; un loc minunat pentru a încheia ziua liniștit, înconjurat de natură.",
+            "en": "Relax in this green amphitheater; a wonderful place to quietly end the day surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Alès beginnt mit der Besichtigung der prachtvollen Architektur des Rathauses und der Kathedrale im historischen Kern. Die morgendliche Frische ist ideal für diese ersten Eindrücke.",
+        "hu": "A nap Alès-ben a városháza és a katedrális csodálatos építészetének megtekintésével kezdődik a történelmi magban. A reggeli frissesség ideális ezekhez az első benyomásokhoz.",
+        "ro": "Ziua în Alès începe cu vizionarea arhitecturii magnifice a primăriei și a catedralei din centrul istoric. Răcoarea dimineții este ideală pentru aceste prime impresii.",
+        "en": "The day in Alès starts with viewing the magnificent architecture of the city hall and cathedral in the historic core. The morning freshness is ideal for these first impressions."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:04",
+      "total_km": 5.07,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            4.076811,
+            44.125114
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour direkt am Platz vor dem eleganten Rathaus, ideal um sich mit einem lokalen Gebäck für den Tag zu stärken.",
+            "hu": "Kezdje a biciklitúrát egyenesen az elegáns városháza előtti téren, amely ideális egy helyi péksütemény elfogyasztásához.",
+            "ro": "Începeți turul cu bicicleta chiar în piața din fața primăriei elegante, ideal pentru a vă întări cu o patiserie locală pentru ziua respectivă.",
+            "en": "Start your bike tour right in the square in front of the elegant city hall, ideal for fortifying yourself with a local pastry for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            4.076619,
+            44.123554
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und betreten Sie die kühle, alte Kirche, deren mächtiges Kirchenschiff Frieden ausstrahlt.",
+            "hu": "Parkolja le a kerékpárját a közelben, és lépjen be a hűvös, régi templomba, amelynek hatalmas hajója békét áraszt.",
+            "ro": "Parcați bicicleta în apropiere și intrați în biserica veche și răcoroasă, a cărei navă puternică radiază pace.",
+            "en": "Park your bike nearby and enter the cool, ancient church, whose mighty nave radiates peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Tour Vieille",
+            "hu": "Tour Vieille Park",
+            "ro": "Parcul Tour Vieille",
+            "en": "Tour Vieille Park"
+          },
+          "coords": [
+            4.079,
+            44.1117
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diesen weitläufigen Park und machen Sie eine Pause auf den gepflegten Rasenflächen, ein toller Ort für ein Picknick.",
+            "hu": "Karikázzon át ezen a kiterjedt parkon, és tartson egy kis pihenőt a gondozott pázsiton, ami remek hely egy piknikhez.",
+            "ro": "Bicicliți prin acest parc extins și faceți o pauză pe peluzele bine îngrijite, un loc minunat pentru un picnic.",
+            "en": "Cycle through this expansive park and take a break on the well-kept lawns, a great spot for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            4.077623,
+            44.121474
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie über die malerische Brücke und genießen Sie die leichte Brise; hier bieten sich hervorragende Gelegenheiten für Landschaftsbilder.",
+            "hu": "Tekerjen át a festői hídon, és élvezze a lágy szellőt; itt kiváló lehetőségek kínálkoznak tájképek készítésére.",
+            "ro": "Mergeți peste podul pitoresc și bucurați-vă de briza ușoară; aici există oportunități excelente pentru fotografii de peisaj.",
+            "en": "Ride across the picturesque bridge and enjoy the gentle breeze; there are excellent opportunities for landscape photos here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre André Benoit",
+            "hu": "Pierre André Benoit Múzeum",
+            "ro": "Muzeul Pierre André Benoit",
+            "en": "Pierre André Benoit Museum"
+          },
+          "coords": [
+            4.069172,
+            44.130557
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den Sammlungen moderner Kunst in diesem außergewöhnlichen Museum verzaubern; nehmen Sie sich Zeit für die Bibliothek.",
+            "hu": "Hagyja, hogy elvarázsolják a modern művészeti gyűjtemények ebben a kivételes múzeumban; szánjon időt a könyvtárra is.",
+            "ro": "Lăsați-vă fermecați de colecțiile de artă modernă din acest muzeu excepțional; faceți-vă timp pentru bibliotecă.",
+            "en": "Let yourself be enchanted by the collections of modern art in this exceptional museum; take time for the library as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Témoin d'Alès",
+            "hu": "Alès-i bányamúzeum",
+            "ro": "Mina Muzeu Alès",
+            "en": "Alès Mine Museum"
+          },
+          "coords": [
+            4.06632,
+            44.1319
+          ],
+          "category": "museum",
+          "arrive_at": "15:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die faszinierende Geschichte des Bergbaus; bringen Sie eine Jacke mit, da es unter Tage frisch sein kann.",
+            "hu": "Ereszkedjen le a bányászat lenyűgöző történetébe; hozzon magával kabátot, mert a föld alatt hűvös lehet.",
+            "ro": "Coborâți în istoria fascinantă a mineritului; aduceți o jachetă, deoarece poate fi răcoare în subteran.",
+            "en": "Descend into the fascinating history of mining; bring a jacket, as it can be chilly underground."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Vauban",
+            "hu": "Vauban-erőd",
+            "ro": "Fortul Vauban",
+            "en": "Vauban Fort"
+          },
+          "coords": [
+            4.07492,
+            44.1258
+          ],
+          "category": "fortress",
+          "arrive_at": "17:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Aufstieg zur Festung, um bei Sonnenuntergang einen atemberaubenden Blick auf die Stadt zu genießen.",
+            "hu": "Zárja a túrát az erődbe való felkapaszkodással, hogy naplemente idején lélegzetelállító kilátás nyíljon a városra.",
+            "ro": "Încheiați turul urcând la fort, pentru a vă bucura de o vedere uluitoare asupra orașului la apus.",
+            "en": "End your tour with a climb to the fort to enjoy a breathtaking view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden wir die Stadt flexibel und schnell. Nach den klassischen Highlights im Zentrum lockt die grüne Natur im Park.",
+        "hu": "Két keréken rugalmasan és gyorsan fedezzük fel a várost. A központ klasszikus látnivalói után a park zöld természete csábít.",
+        "ro": "Pe două roți explorăm orașul flexibil și rapid. După atracțiile clasice din centru, natura verde a parcului este tentantă.",
+        "en": "On two wheels we explore the city flexibly and quickly. After the classic highlights in the center, the green nature of the park beckons."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée du Colombier",
+            "hu": "Colombier Múzeum",
+            "ro": "Muzeul Colombier",
+            "en": "Colombier Museum"
+          },
+          "coords": [
+            4.080312,
+            44.128406
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die bequemen Parkmöglichkeiten hier für einen entspannten Start in die Kultur- und Kunstgeschichte der Stadt.",
+            "hu": "Használja ki az itteni kényelmes parkolási lehetőségeket, hogy nyugodtan kezdhesse a város kultúr- és művészettörténeti felfedezését.",
+            "ro": "Profitați de facilitățile de parcare convenabile de aici pentru un început relaxat în istoria culturală și artistică a orașului.",
+            "en": "Take advantage of the convenient parking facilities here for a relaxed start into the cultural and art history of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Témoin d'Alès",
+            "hu": "Alès-i bányamúzeum",
+            "ro": "Mina Muzeu Alès",
+            "en": "Alès Mine Museum"
+          },
+          "coords": [
+            4.06632,
+            44.1319
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück zur Mine, um einen authentischen Einblick in das harte Leben der Bergarbeiter von damals zu erhalten.",
+            "hu": "Tegyen egy rövid utat a bányához, hogy hiteles bepillantást nyerjen az egykori bányászok kemény életébe.",
+            "ro": "Conduceți o scurtă distanță până la mină pentru a obține o perspectivă autentică asupra vieții grele a minerilor de altădată.",
+            "en": "Drive a short distance to the mine to get an authentic insight into the harsh life of the miners of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de l'Ermitage",
+            "hu": "L'Ermitage Oppidum",
+            "ro": "Oppidum de l'Ermitage",
+            "en": "Oppidum of the Hermitage"
+          },
+          "coords": [
+            4.063217,
+            44.12374
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie mit dem Auto die Anhöhe dieser antiken Stätte, wo faszinierende Ruinen und ein schöner Ausblick auf Sie warten.",
+            "hu": "Mássza meg autóval ezen ősi hely magaslatát, ahol lenyűgöző romok és gyönyörű kilátás várja.",
+            "ro": "Urcați dealul acestui sit antic cu mașina, unde vă așteaptă ruine fascinante și o priveliște frumoasă.",
+            "en": "Climb the hill of this ancient site by car, where fascinating ruins and a beautiful view await you."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            4.076619,
+            44.123554
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück und besichtigen Sie die prächtige Kathedrale; das Parken in den umliegenden Straßen erfordert etwas Geduld.",
+            "hu": "Térjen vissza a központba, és látogassa meg a csodálatos katedrálist; a környező utcákban való parkolás némi türelmet igényel.",
+            "ro": "Întoarceți-vă în centru și vizitați magnifica catedrală; parcarea pe străzile din jur necesită puțină răbdare.",
+            "en": "Return to the center and visit the magnificent cathedral; parking in the surrounding streets requires some patience."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Vauban",
+            "hu": "Vauban-erőd",
+            "ro": "Fortul Vauban",
+            "en": "Vauban Fort"
+          },
+          "coords": [
+            4.07492,
+            44.1258
+          ],
+          "category": "fortress",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Sprung bringt Sie zur Festung, spazieren Sie auf den alten Mauern und genießen Sie den Blick über Alès.",
+            "hu": "Egy nagyon rövid ugrás elviszi az erődhöz, sétáljon a régi falakon, és élvezze a kilátást Alès-re.",
+            "ro": "Un salt foarte scurt vă duce la fort, plimbați-vă pe vechile ziduri și bucurați-vă de priveliștea spre Alès.",
+            "en": "A very short hop takes you to the fort, stroll on the old walls and enjoy the view over Alès."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castellas",
+            "hu": "Le Castellas kastély",
+            "ro": "Castelul Le Castellas",
+            "en": "Le Castellas Castle"
+          },
+          "coords": [
+            4.051995,
+            44.111825
+          ],
+          "category": "castle",
+          "arrive_at": "16:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus zu diesen beeindruckenden Burgruinen; festes Schuhwerk ist für die teils unebenen Wege sehr zu empfehlen.",
+            "hu": "Hajtson ki a városból ezekhez a lenyűgöző kastélyromokhoz; az egyenetlen ösvények miatt erősen ajánlott a masszív cipő.",
+            "ro": "Ieșiți din oraș cu mașina spre aceste ruine impresionante de castel; încălțămintea rezistentă este foarte recomandată pentru potecile inegale.",
+            "en": "Drive out of the city to these impressive castle ruins; sturdy footwear is highly recommended for the uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen wir auch die weiter entfernten Schätze von Alès. Vom kulturellen Zentrum geht es hoch hinaus in die Geschichte.",
+        "hu": "Autóval is elérhetjük Alès távolabbi kincseit. A kulturális központból a történelem magasságaiba emelkedünk.",
+        "ro": "Cu mașina dezvoltăm și comorile mai îndepărtate din Alès. De la centrul cultural urcăm sus în istorie.",
+        "en": "By car we also access the more distant treasures of Alès. From the cultural center we go high into history."
+      }
+    }
+  }
+}

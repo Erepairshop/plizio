@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-furnas-cities-v2",
+  "anchor": {
+    "name": "Furnas",
+    "coords": [
+      -25.316667,
+      37.766667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:31",
+      "total_km": 3.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Santa Ana",
+            "hu": "Igreja de Santa Ana",
+            "ro": "Igreja de Santa Ana",
+            "en": "Igreja de Santa Ana"
+          },
+          "coords": [
+            -25.317642,
+            37.771292
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser zentralen Kirche und halten Sie Ausschau nach lokalen Cafés in der Nähe, um vor der Erkundungstour einen schnellen Espresso zu trinken.",
+            "hu": "Csodálja meg a központi templom neogótikus építészetét, és keressen egy közeli kávézót, hogy megigyon egy gyors reggeli eszpresszót a város felfedezése előtt.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici centrale, fiind cu ochii în patru după cafenelele locale din apropiere pentru a savura un espresso rapid de dimineață înainte de a explora orașul.",
+            "en": "Admire the neo-gothic architecture of this central church, keeping an eye out for local cafes nearby to grab a quick morning espresso before exploring the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Invertida",
+            "hu": "Casa Invertida",
+            "ro": "Casa Invertida",
+            "en": "Casa Invertida"
+          },
+          "coords": [
+            -25.310286,
+            37.772403
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Machen Sie ein lustiges Foto vor diesem kuriosen auf dem Kopf stehenden Haus und achten Sie darauf, den Bildausschnitt so zu wählen, dass die Illusion vor der Kulisse von Furnas perfekt zur Geltung kommt.",
+            "hu": "Készítsen egy mókás fotót ezelőtt a különös, fejjel lefelé fordított ház előtt, és ügyeljen a megfelelő képkivágásra, hogy az illúzió tökéletesen mutasson a furnasi háttérrel.",
+            "ro": "Faceți o fotografie amuzantă în fața acestei case ciudate cu susul în jos, având grijă să încadrați atent imaginea pentru a surprinde perfect iluzia cu peisajul din Furnas în fundal.",
+            "en": "Snap a fun photo in front of this peculiar upside-down house, remembering to frame the shot carefully to capture the illusion perfectly against the Furnas backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Nostra Garden",
+            "hu": "Terra Nostra Garden",
+            "ro": "Terra Nostra Garden",
+            "en": "Terra Nostra Garden"
+          },
+          "coords": [
+            -25.312524,
+            37.770649
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen herrlichen botanischen Park und bringen Sie unbedingt Ihre Badesachen mit, um sich im großen Thermalbecken zu entspannen, dessen eisenhaltiges Wasser perfekt für die Muskelentspannung ist.",
+            "hu": "Sétáljon végig ezen a csodálatos botanikus kerten, és mindenképpen hozzon magával fürdőruhát, hogy a vasban gazdag, nagy termálmedencében pihentesse az izmait.",
+            "ro": "Plimbați-vă prin acest magnific parc botanic și nu uitați să aduceți costumul de baie pentru a vă relaxa în piscina termală mare, bogată în fier, perfectă pentru relaxarea musculară.",
+            "en": "Wander through this magnificent botanical park and bring your swimsuit to relax in the large thermal pool, which is rich in iron and perfect for soothing your muscles."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldeira Seca",
+            "hu": "Caldeira Seca",
+            "ro": "Caldeira Seca",
+            "en": "Caldeira Seca"
+          },
+          "coords": [
+            -25.304183,
+            37.772811
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die rohe vulkanische Kraft beim Spaziergang zwischen blubbernden Quellen und dampfenden Schloten, aber bleiben Sie zu Ihrer eigenen Sicherheit unbedingt auf den markierten Wegen.",
+            "hu": "Tapasztalja meg a vulkáni erőt a bugyogó források és gőzölgő nyílások között sétálva, de a saját biztonsága érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Experimentați forța vulcanică brută plimbându-vă printre izvoarele bolborositoare și orificiile aburinde, dar asigurați-vă că rămâneți strict pe potecile amenajate pentru siguranța dumneavoastră.",
+            "en": "Experience the raw volcanic power as you walk among bubbling springs and steaming vents, but make sure to stay strictly on the designated pathways for your own safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro Lombo Dos Milhos",
+            "hu": "Miradouro Lombo Dos Milhos",
+            "ro": "Miradouro Lombo Dos Milhos",
+            "en": "Miradouro Lombo Dos Milhos"
+          },
+          "coords": [
+            -25.318964,
+            37.764018
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen, erhöhten Blick über die grünen Weiden und fernen Kraterränder, was diesen Ort ideal macht, um den Tag Revue passieren zu lassen und das Nachmittagslicht zu beobachten.",
+            "hu": "Élvezze a zöld legelőkre és a távoli kráterperemekre nyíló békés, magaslati kilátást, amely ideális és csendes hely a nap lezárásához és a délutáni fények megfigyeléséhez.",
+            "ro": "Bucurați-vă de o panoramă liniștită, la înălțime, asupra pășunilor verzi și a marginilor îndepărtate ale craterului, acesta fiind locul ideal pentru a reflecta asupra zilei și a privi lumina după-amiezii.",
+            "en": "Enjoy a serene, elevated view over the green pastures and distant crater rims, making it the ideal quiet spot to reflect on your day and watch the changing afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "[M] Beginnen Sie Ihr Abenteuer im Herzen des Dorfes an der charmanten Igreja de Santa Ana. Spüren Sie die idyllische Atmosphäre und beobachten Sie das morgendliche Treiben.\n[Mid] Nach einem lustigen Foto an der kuriosen Casa Invertida tauchen Sie in die üppigen Pfade des Terra Nostra Gartens ein. Das Thermalbad ist ein absolutes Highlight.\n[Aft] Gehen Sie weiter zur Caldeira Seca, um den vulkanischen Herzschlag von Furnas zu erleben. Die blubbernden Quellen und Schwefelwolken schaffen eine dramatische Landschaft.\n[E] Beenden Sie Ihren Spaziergang am Miradouro Lombo Dos Milhos. Genießen Sie die Ruhe dieses erhöhten Ortes und beobachten Sie das goldene Licht über dem grünen Tal.",
+        "hu": "[M] Kezdje gyalogos kalandját a falu szívében, a bájos Igreja de Santa Ana templomnál. Érezze a hangulatos atmoszférát, miközben megfigyeli a helyiek reggeli rutinját.\n[Mid] Egy gyors fotó után a mókás Casa Invertida-nál merüljön el a Terra Nostra kert buja ösvényeiben. A termálmedence kihagyhatatlan fénypont.\n[Aft] Folytassa útját a Caldeira Seca felé, hogy tanúja legyen Furnas vulkáni szívverésének. A bugyogó források és a kénes felhők drámai, túlvilági tájat alkotnak.\n[E] Fejezze be sétáját a Miradouro Lombo Dos Milhos kilátónál. Élvezze e magaslati pont nyugalmát, figyelve, ahogy az esti fény arany színbe öltözteti a zöld völgyet.",
+        "ro": "[M] Începeți-vă aventura pe jos în inima satului, la fermecătoarea Igreja de Santa Ana. Simțiți atmosfera pitorească în timp ce observați rutina matinală locală.\n[Mid] După o fotografie rapidă la ciudata Casa Invertida, pierdeți-vă pe aleile luxuriante din Grădina Terra Nostra. Piscina termală este o atracție de neratat.\n[Aft] Continuați spre Caldeira Seca pentru a asista la bătăile inimii vulcanice din Furnas. Izvoarele fierbinți și norii de sulf creează un peisaj dramatic.\n[E] Încheiați plimbarea la Miradouro Lombo Dos Milhos. Bucurați-vă de liniștea acestui loc înalt, privind cum lumina târzie aruncă nuanțe aurii peste valea verde.",
+        "en": "[M] Start your walking adventure in the heart of the village at the charming Igreja de Santa Ana. Feel the quaint atmosphere as you observe local morning routines.\n[Mid] After a quick photo op at the quirky Casa Invertida, immerse yourself in the lush paths of Terra Nostra Garden. The thermal pool is an unmissable highlight.\n[Aft] Continue towards Caldeira Seca to witness Furnas's volcanic heartbeat. The bubbling springs and sulfurous clouds create a dramatic, otherworldly landscape.\n[E] Conclude your stroll at Miradouro Lombo Dos Milhos. Enjoy the tranquility of this elevated spot, watching the late light cast golden hues over the green valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caldeira Seca",
+            "hu": "Caldeira Seca",
+            "ro": "Caldeira Seca",
+            "en": "Caldeira Seca"
+          },
+          "coords": [
+            -25.304183,
+            37.772811
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag zwischen den dampfenden Fumarolen, um die Energie der Erde zu spüren, und achten Sie darauf, Ihr Fahrrad in der Nähe der sprudelnden Becken zu schieben.",
+            "hu": "Kezdje a kerékpáros napot a gőzölgő fumarolák között, hogy érezze a Föld energiáját, és ügyeljen arra, hogy a forgalmas, bugyogó medencék közelében tolja a kerékpárt.",
+            "ro": "Începeți-vă ziua de ciclism printre fumarolele aburinde pentru a simți energia Pământului, având grijă să mergeți pe lângă bicicletă în apropierea bazinelor aglomerate.",
+            "en": "Start your cycling day among the steaming fumaroles to feel the Earth's energy, taking care to walk your bike near the crowded bubbling pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Nostra Garden",
+            "hu": "Terra Nostra Garden",
+            "ro": "Terra Nostra Garden",
+            "en": "Terra Nostra Garden"
+          },
+          "coords": [
+            -25.312524,
+            37.770649
+          ],
+          "category": "park",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die botanischen Wunder zu Fuß, während Sie sich Zeit für ein verjüngendes Bad im eisenhaltigen Thermalbecken nehmen.",
+            "hu": "Parkolja le a kerékpárt a bejáratnál, és fedezze fel gyalog a botanikai csodákat, időt szakítva egy frissítő fürdőzésre a vasban gazdag termálmedencében.",
+            "ro": "Parcați bicicleta la intrare și explorați minunile botanice pe jos, făcându-vă timp pentru o baie revigorantă în piscina termală bogată în fier.",
+            "en": "Park your bike at the entrance and explore the botanical wonders on foot, taking time for a rejuvenating dip in the iron-rich thermal pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Grená House",
+            "hu": "Grená House",
+            "ro": "Grená House",
+            "en": "Grená House"
+          },
+          "coords": [
+            -25.335697,
+            37.76638
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Tor stehen und wandern Sie die üppigen Stufen zu diesem historischen, verfallenen Herrenhaus hinauf, wobei Sie festes Schuhwerk tragen sollten, da die Naturpfade steil und rutschig sein können.",
+            "hu": "Hagyja a kerékpárt a kapunál, és túrázzon fel a buja lépcsőkön ehhez a történelmi romos kastélyhoz, stabil cipőt viselve, mivel az erdei ösvények meredekek és csúszósak lehetnek.",
+            "ro": "Lăsați bicicleta la poartă și urcați treptele luxuriante către acest conac istoric în ruină, purtând încălțăminte rezistentă, deoarece traseele naturale pot fi abrupte și alunecoase.",
+            "en": "Leave your bike at the gate and hike up the lush steps to this historic ruined manor, wearing sturdy shoes as the nature trails can be steep and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço das Furnas",
+            "hu": "Baloiço das Furnas",
+            "ro": "Baloiço das Furnas",
+            "en": "Baloiço das Furnas"
+          },
+          "coords": [
+            -25.331095,
+            37.768387
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause auf dieser malerischen Schaukel, um einen schönen Blick auf die umliegenden Bäume und den See zu werfen, und machen Sie ein schnelles Foto, während Sie Ihre Radlerbeine ausruhen.",
+            "hu": "Tartson egy rövid pihenőt ezen a festői hintán, ahonnan gyönyörű kilátás nyílik a környező fákra és a tóra, és készítsen egy gyors fotót, miközben pihenteti kerékpáros lábait.",
+            "ro": "Faceți o scurtă pauză pe acest leagăn pitoresc pentru o priveliște minunată asupra copacilor și a lacului din jur, făcând o fotografie rapidă în timp ce vă odihniți picioarele.",
+            "en": "Take a short break on this scenic swing for a lovely view of the surrounding trees and lake, capturing a quick photo while resting your cycling legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora das Vitórias",
+            "hu": "Capela de Nossa Senhora das Vitórias",
+            "ro": "Capela de Nossa Senhora das Vitórias",
+            "en": "Capela de Nossa Senhora das Vitórias"
+          },
+          "coords": [
+            -25.330711,
+            37.75023
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende neugotische Architektur dieser Kapelle am See und treten Sie ein, wenn die Türen geöffnet sind, um die ruhige, historische Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ennek a tóparti kápolnának a lenyűgöző neogótikus építészetét, és lépjen be, ha nyitva vannak az ajtók, hogy értékelje csendes, történelmi atmoszféráját.",
+            "ro": "Admirați impresionanta arhitectură neogotică a acestei capele de pe malul lacului, intrând înăuntru dacă ușile sunt deschise pentru a aprecia atmosfera sa liniștită și istorică.",
+            "en": "Admire the stunning neo-Gothic architecture of this lakeside chapel, stepping inside if the doors are open to appreciate its quiet, historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Swing of Lagoa das Furnas",
+            "hu": "Swing of Lagoa das Furnas",
+            "ro": "Swing of Lagoa das Furnas",
+            "en": "Swing of Lagoa das Furnas"
+          },
+          "coords": [
+            -25.337234,
+            37.751339
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am See, indem Sie über das Wasser schaukeln, wobei Sie etwas später am Tag hierher kommen sollten, um den Hauptmassen zu entgehen und ein ungestörtes Foto zu bekommen.",
+            "hu": "Fejezze be a tóparti túrát azzal, hogy a víz fölé hintázik; érdemes kicsit később érkezni, hogy elkerülje a tömeget, és zavartalanul fotózhasson.",
+            "ro": "Încheiați plimbarea pe malul lacului dându-vă în leagăn deasupra apei, venind aici puțin mai târziu în timpul zilei pentru a evita mulțimile și a obține o fotografie perfectă.",
+            "en": "End your lakeside ride by swinging out over the water, coming here slightly later in the day to avoid the main crowds and get an uninterrupted shot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "[M] Beginnen Sie Ihre Radtour inmitten der dampfenden Schlote der Caldeira Seca. Die kühle Morgenluft bildet einen tollen Kontrast zur Hitze der Fumarolen.\n[Mid] Radeln Sie zum berühmten Terra Nostra Garten. Schließen Sie Ihr Fahrrad an, schlendern Sie durch die Anlage und nehmen Sie ein Bad im warmen Eisenwasser.\n[Aft] Fahren Sie Richtung See und halten Sie an den Ruinen des Grená-Hauses und dem Baloiço das Furnas. Die Waldlandschaft bietet tolle, schattige Wege.\n[E] Beenden Sie Ihre Fahrt mit einer Umrundung des Sees zur malerischen Kapelle und der Seeschaukel. Das ruhige Wasser spiegelt den dämmrigen Himmel perfekt wider.",
+        "hu": "[M] Kezdje a kerékpártúrát a Caldeira Seca gőzölgő nyílásai között. A kora reggeli hűvös tökéletes kontrasztot alkot az aktív fumarolák hőjével.\n[Mid] Tekerjen át a híres Terra Nostra kerthez. Zárja le a kerékpárt, sétáljon végig a botanikai csodákon, és mártózzon meg a meleg vasas vízben.\n[Aft] Lovagoljon a tó felé, megállva a Grená-ház romjainál és a Baloiço das Furnas hintánál. Az erdei táj kiváló árnyékos ösvényeket kínál.\n[E] Fejezze be a túrát a tó megkerülésével, a festői kápolnánál és a tóparti hintánál. A nyugodt víz tökéletesen tükrözi az alkonyati eget.",
+        "ro": "[M] Începeți-vă călătoria cu bicicleta printre craterele aburinde de la Caldeira Seca. Răcoarea dimineții contrastează perfect cu căldura fumarolelor active.\n[Mid] Pedați până la faimoasa Grădină Terra Nostra. Legați bicicleta pentru a vă plimba prin minunile botanice și a face o baie relaxantă în apele calde.\n[Aft] Mergeți spre lac, oprindu-vă la ruinele Casei Grená și la Baloiço das Furnas. Peisajul forestier oferă trasee excelente și umbrite pentru bicicliști.\n[E] Încheiați traseul înconjurând lacul până la capela pitorească și la leagănul de pe mal. Apele liniștite oglindesc perfect cerul în amurg.",
+        "en": "[M] Kick off your cycling journey amidst the steaming vents of Caldeira Seca. The early morning cool perfectly contrasts with the heat of the active fumaroles.\n[Mid] Pedal over to the famous Terra Nostra Garden. Lock your bike to stroll through botanical wonders and perhaps take a relaxing dip in the warm iron waters.\n[Aft] Ride towards the lake, stopping at the Grená House ruins and the Baloiço das Furnas. The changing forest scenery provides excellent shady paths for cyclists.\n[E] Finish your ride circling the lake to the picturesque Capela and the lakeside swing. The serene waters mirror the dusky sky perfectly."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:39",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pico do Ferro",
+            "hu": "Pico do Ferro",
+            "ro": "Pico do Ferro",
+            "en": "Pico do Ferro"
+          },
+          "coords": [
+            -25.336782,
+            37.772567
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie oben und blicken Sie hinab in die riesige vulkanische Caldera, wobei Sie früh ankommen sollten, um den morgendlichen Nebel über dem Talboden aufsteigen zu sehen.",
+            "hu": "Parkoljon le a tetőn, és tekintsen le a hatalmas vulkáni kalderába; érdemes korán érkezni, hogy elcsípje a völgyből felszálló reggeli ködöt, mielőtt a nap feloszlatná.",
+            "ro": "Parcați sus și priviți în jos, în masiva calderă vulcanică, ajungând devreme pentru a prinde ceața dimineții ridicându-se de pe fundul văii înainte să se evapore.",
+            "en": "Park at the top and gaze down into the massive volcanic caldera, arriving early to catch the morning mist rising off the valley floor before it burns away."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterfall Vieepoint",
+            "hu": "Waterfall Vieepoint",
+            "ro": "Waterfall Vieepoint",
+            "en": "Waterfall Vieepoint"
+          },
+          "coords": [
+            -25.342092,
+            37.760507
+          ],
+          "category": "natural",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am Straßenrand an, um diesen bezaubernden versteckten Wasserfall zu bewundern, und seien Sie vorsichtig beim Heranfahren, da der Parkplatz am Seitenstreifen sehr begrenzt ist.",
+            "hu": "Álljon meg egy rövid időre az út szélén, hogy megcsodálja ezt a bájos rejtett vízesést, és legyen óvatos a lehúzódásnál, mivel a parkolóhely meglehetősen korlátozott.",
+            "ro": "Opriți-vă scurt pe marginea drumului pentru a admira această fermecătoare cascadă ascunsă, având grijă când trageți pe dreapta, deoarece spațiul de parcare este destul de limitat.",
+            "en": "Stop briefly at the roadside to admire this charming hidden cascade, taking care when pulling over as the shoulder parking space is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora das Vitórias",
+            "hu": "Capela de Nossa Senhora das Vitórias",
+            "ro": "Capela de Nossa Senhora das Vitórias",
+            "en": "Capela de Nossa Senhora das Vitórias"
+          },
+          "coords": [
+            -25.330711,
+            37.75023
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto in der Nähe stehen und spazieren Sie um diese ikonische Kapelle am See herum, um zu sehen, wie sich ihre neugotische Silhouette im dunklen Wasser spiegelt.",
+            "hu": "Hagyja az autót a közelben, és sétálja körbe ezt az ikonikus tóparti kápolnát, szánva egy percet arra, hogy megfigyelje a neogótikus sziluett tükröződését a sötét vízben.",
+            "ro": "Lăsați mașina în apropiere și faceți o plimbare în jurul acestei capele emblematice de pe malul lacului, luându-vă un moment pentru a aprecia modul în care silueta sa neogotică se reflectă în apele întunecate.",
+            "en": "Leave your car nearby and walk around this iconic lakeside chapel, taking a moment to appreciate how its neo-gothic silhouette reflects on the dark waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldeira Seca",
+            "hu": "Caldeira Seca",
+            "ro": "Caldeira Seca",
+            "en": "Caldeira Seca"
+          },
+          "coords": [
+            -25.304183,
+            37.772811
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie in das Dorf hinunter und spazieren Sie zwischen den schwefelhaltigen Dampfschloten, während Sie die besonderen lokalen Mineralwasser direkt aus den öffentlichen Zapfstellen probieren, wenn Sie sich trauen.",
+            "hu": "Vezessen le a faluba, és sétáljon a kénes gőzölgő nyílások között, bátran megkóstolva a különleges helyi ásványvizeket közvetlenül a nyilvános csapokból.",
+            "ro": "Conduceți în sat și plimbați-vă printre gurile de aburi sulfuroși, gustând apele minerale locale direct de la robinetele publice, dacă aveți curaj.",
+            "en": "Drive down into the village and walk amongst the sulfurous steam vents, tasting the distinct local mineral waters directly from the public spigots if you dare."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Nostra Garden",
+            "hu": "Terra Nostra Garden",
+            "ro": "Terra Nostra Garden",
+            "en": "Terra Nostra Garden"
+          },
+          "coords": [
+            -25.312524,
+            37.770649
+          ],
+          "category": "park",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie sicher im Stadtzentrum, um ein paar Stunden damit zu verbringen, die riesigen exotischen Gärten zu erkunden und im berühmten gelben, eisenhaltigen Thermalwasser zu baden.",
+            "hu": "Parkoljon le biztonságosan a városközpontban, hogy néhány órát töltsön a hatalmas egzotikus kertek felfedezésével és a híresen sárga, vasban gazdag termálvízben való fürdőzéssel.",
+            "ro": "Parcați în siguranță în centrul orașului pentru a petrece câteva ore explorând grădinile exotice masive și relaxându-vă în celebrele ape termale galbene, bogate în fier.",
+            "en": "Park securely in the town center to spend a few hours exploring the massive exotic gardens and soaking in the famously yellow, iron-rich thermal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Vista do Vale",
+            "hu": "Vista do Vale",
+            "ro": "Vista do Vale",
+            "en": "Vista do Vale"
+          },
+          "coords": [
+            -25.32304,
+            37.78065
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour mit diesem spektakulären Überblick über das Furnas-Tal, einem hervorragenden Aussichtspunkt, um zu beobachten, wie die Abendschatten über dem Krater länger werden.",
+            "hu": "Fejezze be az autós túrát ezzel a látványos áttekintéssel a Furnas-völgy felett, amely kiváló kilátópont a kráterre vetülő esti árnyékok megfigyeléséhez.",
+            "ro": "Încheiați-vă turul cu mașina cu această panoramă spectaculoasă asupra Văii Furnas, un punct de observație excelent pentru a privi umbrele serii lungindu-se peste crater.",
+            "en": "Finish your driving tour with this spectacular overview of the Furnas Valley, an excellent vantage point to watch the evening shadows lengthen across the crater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "[M] Fahren Sie gleich morgens zum Pico do Ferro. Dieser Aussichtspunkt bietet die beste Einführung in den riesigen Furnas-Krater und seinen ruhigen See.\n[Mid] Fahren Sie zum See hinab, halten Sie kurz am Wasserfall-Aussichtspunkt und erkunden Sie dann die beeindruckende Uferarchitektur der Kapelle.\n[Aft] Fahren Sie ins Dorf, um das kochende Wasser der Caldeira Seca zu bestaunen. Lassen Sie das Auto stehen und entspannen Sie in den Anlagen von Terra Nostra.\n[E] Fahren Sie aus dem Tal hinauf zur Vista do Vale. Dieser letzte Aussichtspunkt bietet einen herrlichen Abschied, wenn die Abendschatten die Caldera füllen.",
+        "hu": "[M] Kora reggel hajtson fel a Pico do Ferro kilátóhoz. Ez a lenyűgöző panoráma a legjobb bevezetés a hatalmas Furnas-kráterhez és a békés tóhoz.\n[Mid] Ereszkedjen le a tó felé, tegyen egy gyors megállót a vízesés kilátójánál, majd fedezze fel a kápolna lenyűgöző partmenti építészetét.\n[Aft] Irány a falu, hogy megcsodálja a Caldeira Seca forró vizeit. Hagyja a közelben az autót, és pihenjen a Terra Nostra kert kiterjedt parkjában.\n[E] Hajtson ki a völgyből a Vista do Vale felé. Ez az utolsó kilátó pompás búcsút kínál a falutól, ahogy az esti árnyékok betöltik a kalderát.",
+        "ro": "[M] Conduceți până la Pico do Ferro la prima oră a dimineții. Acest punct de belvedere oferă cea mai bună introducere în masivul crater Furnas și lacul său liniștit.\n[Mid] Coborâți spre lac, faceți o scurtă oprire la Cascadă înainte de a explora arhitectura impresionantă a Capelei de pe malul apei.\n[Aft] Mergeți în sat pentru a admira apele clocotite de la Caldeira Seca. Lăsați mașina și relaxați-vă pe terenurile luxuriante ale Grădinii Terra Nostra.\n[E] Ieșiți din vale cu mașina până la Vista do Vale. Acest ultim punct de observație oferă un adio magnific satului, pe măsură ce umbrele serii umplu caldera.",
+        "en": "[M] Drive up to Pico do Ferro first thing in the morning. This sweeping viewpoint offers the best introduction to the massive Furnas crater and its serene lake.\n[Mid] Descend towards the lake, making a quick stop at the Waterfall Viewpoint before exploring the stunning shoreline architecture of the Capela.\n[Aft] Head into the village to marvel at the boiling waters of Caldeira Seca. Leave the car nearby and relax in the extensive, lush grounds of Terra Nostra Garden.\n[E] Drive up out of the valley to Vista do Vale. This final overlook provides a magnificent goodbye to the village as the evening shadows fill the caldera."
+      }
+    }
+  }
+}

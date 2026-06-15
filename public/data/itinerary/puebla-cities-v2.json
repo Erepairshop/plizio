@@ -1,0 +1,428 @@
+{
+  "city_id": "puebla-cities-v2",
+  "anchor": {
+    "name": "Puebla",
+    "coords": [
+      -98.2063,
+      19.0414
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 3.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Talavera Casa Uriarte",
+            "hu": "Museo Talavera Casa Uriarte",
+            "ro": "Museo Talavera Casa Uriarte",
+            "en": "Museo Talavera Casa Uriarte"
+          },
+          "coords": [
+            -98.204036,
+            19.049162
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die handbemalten Fliesen, die Pueblas Architektur prägen; beobachten Sie Handwerker und kaufen Sie echte Keramik für zu Hause.",
+            "hu": "Csodálja meg a Puebla építészetét meghatározó, kézzel festett csempéket; figyelje meg a kézműveseket, és vásároljon hiteles kerámiákat emlékbe.",
+            "ro": "Admirați plăcile pictate manual care definesc arhitectura orașului Puebla; urmăriți meșterii la lucru și cumpărați ceramică autentică pentru acasă.",
+            "en": "Admire the vibrant, hand-painted tiles that define Puebla's architecture; watch artisans at work and purchase authentic ceramics to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "hu": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "ro": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "en": "Museo del Ejercito y Fuerza Aérea Mexicanos"
+          },
+          "coords": [
+            -98.207841,
+            19.04841
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie Mexikos Militärgeschichte durch faszinierende Exponate; prüfen Sie jedoch vor Ihrem Besuch die saisonalen Öffnungszeiten des Museums.",
+            "hu": "Fedezze fel Mexikó hadtörténetét az egyenruhák és fegyverek kiállításán, de látogatás előtt mindenképpen ellenőrizze az aktuális nyitvatartási időt.",
+            "ro": "Explorați istoria militară a Mexicului prin expoziții fascinante de arme, dar asigurați-vă că verificați programul de funcționare înainte de vizită.",
+            "en": "Explore Mexico's military history through fascinating exhibits of uniforms and weaponry, but make sure to check the seasonal opening hours before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Independencia",
+            "hu": "Monumento a la Independencia",
+            "ro": "Monumento a la Independencia",
+            "en": "Monumento a la Independencia"
+          },
+          "coords": [
+            -98.213217,
+            19.049027
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Denkmal, das Mexikos Freiheit feiert; das Morgenlicht bietet die besten Bedingungen für Fotos ohne die großen Menschenmengen.",
+            "hu": "Álljon meg ennél a lenyűgöző emlékműnél, amely a szabadságot ünnepli; a reggeli fény a legjobb a fotózáshoz, mielőtt a nagy tömeg megérkezne.",
+            "ro": "Opriți-vă la acest monument impresionant care celebrează libertatea; lumina dimineții oferă cele mai bune condiții foto fără aglomerația orașului.",
+            "en": "Pause at this striking monument celebrating Mexico's freedom; the morning light offers the best photography conditions without the heavy city crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "La Estatua de Benito Juárez",
+            "hu": "La Estatua de Benito Juárez",
+            "ro": "La Estatua de Benito Juárez",
+            "en": "La Estatua de Benito Juárez"
+          },
+          "coords": [
+            -98.217877,
+            19.051396
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für diese Hommage an einen beliebten Präsidenten; es ist ein lokaler Treffpunkt, also behalten Sie Ihre Sachen gut im Auge.",
+            "hu": "Szánjon egy percet Mexikó legkedveltebb elnökének szobrára; ez egy népszerű helyi találkozóhely, ezért mindig tartsa szemmel a személyes tárgyait.",
+            "ro": "Acordați-vă un moment pentru acest omagiu adus unui președinte iubit; fiind un loc popular de întâlnire, aveți grijă la lucrurile dumneavoastră.",
+            "en": "Take a moment to view this tribute to one of Mexico's most beloved presidents; it is a popular local meeting spot, so keep an eye on your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Automobile Museum Puebla",
+            "hu": "Automobile Museum Puebla",
+            "ro": "Automobile Museum Puebla",
+            "en": "Automobile Museum Puebla"
+          },
+          "coords": [
+            -98.203623,
+            19.039805
+          ],
+          "category": "museum",
+          "arrive_at": "14:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Sammlung von Oldtimern aus Jahrzehnten; tragen Sie bequeme Schuhe, da die Ausstellungshallen sehr weitläufig sind.",
+            "hu": "Fedezzen fel egy évtizedeket átfogó lenyűgöző veteránautó-gyűjteményt; viseljen kényelmes cipőt, mivel a kiállítótermek meglepően tágasak.",
+            "ro": "Descoperiți o colecție impresionantă de mașini de epocă; purtați încălțăminte confortabilă, deoarece sălile de expoziție sunt surprinzător de spațioase.",
+            "en": "Discover an impressive collection of vintage cars spanning decades; wear comfortable walking shoes as the exhibition halls are surprisingly expansive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der kunstvollen Talavera-Keramik und setzt einen kreativen Ton. Mittags erkunden Sie die nationale Militärgeschichte und spazieren vorbei an Denkmälern. Am Nachmittag erwarten Sie weitere ikonische Statuen in den belebten Straßen. Der Abend endet mit einer nostalgischen Reise durch ein Automobilmuseum und rundet einen vielfältigen Tag ab.",
+        "hu": "A reggel a hagyományos Talavera kerámiák bonyolult művészetével indul. Délben a nemzeti hadtörténetet fedezheti fel, és elsétál a függetlenségi emlékművek mellett. A délután további ikonikus szobrokat tartogat a nyüzsgő városi utcákon. Az estét egy klasszikus autómúzeumban tett nosztalgikus utazás zárja, megkoronázva a változatos napot.",
+        "ro": "Dimineața începe cu măiestria ceramicii tradiționale Talavera. La prânz explorăm istoria militară națională și trecem pe lângă monumente ale independenței. După-amiaza aduce alte statui iconice pe străzile pline de viață ale orașului. Seara se încheie cu o călătorie nostalgică printr-un muzeu de automobile clasice, încununând o zi diversă.",
+        "en": "Morning begins with the intricate artistry of traditional Talavera pottery, setting a creative tone. Midday shifts to exploring national military history and walking past significant independence monuments. The afternoon features more iconic statues in the bustling city streets. Evening concludes with a nostalgic journey through a classic automobile museum, capping off a day of diverse discoveries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 5.16,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Talavera Casa Uriarte",
+            "hu": "Museo Talavera Casa Uriarte",
+            "ro": "Museo Talavera Casa Uriarte",
+            "en": "Museo Talavera Casa Uriarte"
+          },
+          "coords": [
+            -98.204036,
+            19.049162
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die handbemalten Fliesen, die Pueblas Architektur prägen; beobachten Sie Handwerker und kaufen Sie echte Keramik für zu Hause.",
+            "hu": "Csodálja meg a Puebla építészetét meghatározó, kézzel festett csempéket; figyelje meg a kézműveseket, és vásároljon hiteles kerámiákat emlékbe.",
+            "ro": "Admirați plăcile pictate manual care definesc arhitectura orașului Puebla; urmăriți meșterii la lucru și cumpărați ceramică autentică pentru acasă.",
+            "en": "Admire the vibrant, hand-painted tiles that define Puebla's architecture; watch artisans at work and purchase authentic ceramics to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "hu": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "ro": "Museo del Ejercito y Fuerza Aérea Mexicanos",
+            "en": "Museo del Ejercito y Fuerza Aérea Mexicanos"
+          },
+          "coords": [
+            -98.207841,
+            19.04841
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie Mexikos Militärgeschichte durch faszinierende Exponate; prüfen Sie jedoch vor Ihrem Besuch die saisonalen Öffnungszeiten des Museums.",
+            "hu": "Fedezze fel Mexikó hadtörténetét az egyenruhák és fegyverek kiállításán, de látogatás előtt mindenképpen ellenőrizze az aktuális nyitvatartási időt.",
+            "ro": "Explorați istoria militară a Mexicului prin expoziții fascinante de arme, dar asigurați-vă că verificați programul de funcționare înainte de vizită.",
+            "en": "Explore Mexico's military history through fascinating exhibits of uniforms and weaponry, but make sure to check the seasonal opening hours before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "La Estatua de Benito Juárez",
+            "hu": "La Estatua de Benito Juárez",
+            "ro": "La Estatua de Benito Juárez",
+            "en": "La Estatua de Benito Juárez"
+          },
+          "coords": [
+            -98.217877,
+            19.051396
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für diese Hommage an einen beliebten Präsidenten; es ist ein lokaler Treffpunkt, also behalten Sie Ihre Sachen gut im Auge.",
+            "hu": "Szánjon egy percet Mexikó legkedveltebb elnökének szobrára; ez egy népszerű helyi találkozóhely, ezért mindig tartsa szemmel a személyes tárgyait.",
+            "ro": "Acordați-vă un moment pentru acest omagiu adus unui președinte iubit; fiind un loc popular de întâlnire, aveți grijă la lucrurile dumneavoastră.",
+            "en": "Take a moment to view this tribute to one of Mexico's most beloved presidents; it is a popular local meeting spot, so keep an eye on your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de los Frailes",
+            "hu": "Fuente de los Frailes",
+            "ro": "Fuente de los Frailes",
+            "en": "Fuente de los Frailes"
+          },
+          "coords": [
+            -98.222624,
+            19.053791
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie den erfrischenden Nebel dieses Brunnens an einem Kreisverkehr; nähern Sie sich wegen des Verkehrs vorsichtig und nutzen Sie die Übergänge.",
+            "hu": "Élvezze a nagy körforgalomban lévő gyönyörű szökőkút frissítő permetét; a nagy forgalom miatt óvatosan közelítse meg a kijelölt átkelőhelyeken.",
+            "ro": "Bucurați-vă de ceața răcoroasă a acestei frumoase fântâni; apropiați-vă cu atenție din cauza traficului intens și folosiți trecerile de pietoni.",
+            "en": "Enjoy the refreshing mist from this beautiful fountain at a major roundabout; approach carefully due to heavy traffic and use the designated crossings."
+          }
+        },
+        {
+          "name": {
+            "de": "Constitución De Apatzingan 1814",
+            "hu": "Constitución De Apatzingan 1814",
+            "ro": "Constitución De Apatzingan 1814",
+            "en": "Constitución De Apatzingan 1814"
+          },
+          "coords": [
+            -98.223995,
+            19.051836
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über Mexikos frühe Verfassungsgeschichte; es ist ein kurzer Stopp, machen Sie einige Fotos, bevor Sie weiterradeln.",
+            "hu": "Ismerje meg Mexikó korai alkotmányos történelmét ezen a helyen; ez egy gyors megálló, készítsen néhány fotót, mielőtt folytatná a kerékpározást.",
+            "ro": "Aflați despre istoria constituțională timpurie a Mexicului; este o oprire rapidă, faceți câteva fotografii înainte de a vă continua aventura pe bicicletă.",
+            "en": "Learn about Mexico's early constitutional history at this landmark; it is a quick stop, so take some photos before continuing your cycling adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Julio Glockner",
+            "hu": "Auditorio Julio Glockner",
+            "ro": "Auditorio Julio Glockner",
+            "en": "Auditorio Julio Glockner"
+          },
+          "coords": [
+            -98.214081,
+            19.03865
+          ],
+          "category": "cultural",
+          "arrive_at": "15:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.79,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses Universitätsauditoriums; holen Sie sich einen Kaffee aus einem nahegelegenen Studentencafé zur Stärkung.",
+            "hu": "Tekintse meg az egyetemi auditórium modern építészetét; vegyen egy kávét egy közeli diákkávézóban, hogy felfrissüljön a nap további részére.",
+            "ro": "Admirați arhitectura modernă a acestui auditoriu universitar; luați o cafea de la o cafenea studențească din apropiere pentru a vă reîncărca bateriile.",
+            "en": "Check out the modern architecture and cultural events hosted at this university auditorium; grab a coffee from a nearby student cafe to recharge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit lokaler Keramik, bevor Sie zum militärischen Erbe radeln. Mittags passieren Sie historische Statuen, die Mexikos Anführer ehren. Nachmittags fahren Sie um ikonische Brunnen und wichtige Wahrzeichen der Verfassung. Der Abend klingt in der Nähe eines lebhaften Universitätsauditoriums aus und mischt Geschichte mit Jugend.",
+        "hu": "Kezdje a napot a helyi kerámiákkal, majd tekerjen a katonai örökség felfedezésére. Délben történelmi szobrok mellett halad el, amelyek Mexikó vezetőit tisztelik. Délután ikonikus szökőkutak és alkotmányos emlékhelyek körül kerékpározik. Az este egy nyüzsgő egyetemi auditórium közelében ér véget, ötvözve a történelmet a fiatalos hangulattal.",
+        "ro": "Începeți ziua admirând ceramica locală înainte de a pedala spre patrimoniul militar. La prânz treceți pe lângă statui istorice care onorează marii lideri. După-amiaza vă duce în jurul fântânilor iconice și a reperelor constituționale. Seara se relaxează lângă un auditoriu universitar plin de viață, îmbinând istoria cu atmosfera tinerească.",
+        "en": "Start the day marveling at local ceramics before cycling to uncover military heritage. Midday brings you past historic statues honoring Mexico's great leaders. Afternoon riding takes you around iconic fountains and key constitutional landmarks. Evening winds down near a lively university auditorium, blending history with a youthful atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 12.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Constancia luz obrera",
+            "hu": "La Constancia luz obrera",
+            "ro": "La Constancia luz obrera",
+            "en": "La Constancia luz obrera"
+          },
+          "coords": [
+            -98.23488,
+            19.092684
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese ehemalige Textilfabrik, die nun ein Museumskomplex ist; parken Sie früh auf dem Parkplatz, um den Ansturm zu vermeiden.",
+            "hu": "Sétáljon végig az egykori textilgyárból kialakított múzeumkomplexumon; parkoljon le korán a kijelölt parkolóban, hogy elkerülje a déli tömeget.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile devenită muzeu; parcați devreme în lotul dedicat pentru a evita aglomerația de la prânz din weekend.",
+            "en": "Wander through this former textile factory turned multifaceted museum complex; park in the dedicated lot early to avoid the midday weekend rush."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a los Hermanos Serdan",
+            "hu": "Monumento a los Hermanos Serdan",
+            "ro": "Monumento a los Hermanos Serdan",
+            "en": "Monumento a los Hermanos Serdan"
+          },
+          "coords": [
+            -98.221789,
+            19.06323
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.53,
+          "tip_5lang": {
+            "de": "Zollen Sie den revolutionären Helden an diesem Denkmal Respekt; der Verkehr kann stark sein, fahren Sie also besonders vorsichtig durch den Kreisverkehr.",
+            "hu": "Tisztelegjen a forradalmi hősök előtt ennél az impozáns emlékműnél; a forgalom itt sűrű lehet, ezért rendkívül óvatosan közlekedjen a körforgalomban.",
+            "ro": "Aduceți un omagiu eroilor revoluționari la acest monument; traficul poate fi intens, așa că navigați prin sensul giratoriu cu mare atenție.",
+            "en": "Pay respects to the revolutionary heroes at this imposing monument; traffic can be busy here, so navigate the surrounding circle with extreme care."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Talavera Casa Uriarte",
+            "hu": "Museo Talavera Casa Uriarte",
+            "ro": "Museo Talavera Casa Uriarte",
+            "en": "Museo Talavera Casa Uriarte"
+          },
+          "coords": [
+            -98.204036,
+            19.049162
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die handbemalten Fliesen, die Pueblas Architektur prägen; beobachten Sie Handwerker und kaufen Sie echte Keramik für zu Hause.",
+            "hu": "Csodálja meg a Puebla építészetét meghatározó, kézzel festett csempéket; figyelje meg a kézműveseket, és vásároljon hiteles kerámiákat emlékbe.",
+            "ro": "Admirați plăcile pictate manual care definesc arhitectura orașului Puebla; urmăriți meșterii la lucru și cumpărați ceramică autentică pentru acasă.",
+            "en": "Admire the vibrant, hand-painted tiles that define Puebla's architecture; watch artisans at work and purchase authentic ceramics to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Automobile Museum Puebla",
+            "hu": "Automobile Museum Puebla",
+            "ro": "Automobile Museum Puebla",
+            "en": "Automobile Museum Puebla"
+          },
+          "coords": [
+            -98.203623,
+            19.039805
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Sammlung von Oldtimern aus Jahrzehnten; tragen Sie bequeme Schuhe, da die Ausstellungshallen sehr weitläufig sind.",
+            "hu": "Fedezzen fel egy évtizedeket átfogó lenyűgöző veteránautó-gyűjteményt; viseljen kényelmes cipőt, mivel a kiállítótermek meglepően tágasak.",
+            "ro": "Descoperiți o colecție impresionantă de mașini de epocă; purtați încălțăminte confortabilă, deoarece sălile de expoziție sunt surprinzător de spațioase.",
+            "en": "Discover an impressive collection of vintage cars spanning decades; wear comfortable walking shoes as the exhibition halls are surprisingly expansive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Barroco",
+            "hu": "Museo del Barroco",
+            "ro": "Museo del Barroco",
+            "en": "Museo del Barroco"
+          },
+          "coords": [
+            -98.246358,
+            19.018706
+          ],
+          "category": "museum",
+          "arrive_at": "15:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.05,
+          "tip_5lang": {
+            "de": "Erleben Sie spektakuläre zeitgenössische Architektur und Ausstellungen; kaufen Sie Tickets vorab online, um die Warteschlangen an dieser Attraktion zu überspringen.",
+            "hu": "Tapasztalja meg a lenyűgöző kortárs építészetet és az interaktív kiállításokat; vásároljon jegyet előre online, hogy elkerülje a sorban állást ezen a népszerű helyen.",
+            "ro": "Experimentați arhitectura contemporană spectaculoasă și expozițiile interactive; cumpărați bilete online în avans pentru a sări peste cozile de la această atracție.",
+            "en": "Experience the spectacular contemporary architecture and interactive exhibits; buy tickets online in advance to skip the lines at this popular attraction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in einer historischen Textilfabrik, die in ein Kulturzentrum verwandelt wurde. Mittags fahren Sie zu revolutionären Denkmälern und zur Produktion von Talavera-Keramik. Der Nachmittag ist für eine Reise in die Automobilgeschichte reserviert. Der Tag findet sein großes Finale im spektakulären Internationalen Museum des Barock.",
+        "hu": "A reggel egy történelmi textilgyárban indul, amely ma kulturális központ. Délben forradalmi emlékművekhez és a Talavera kerámiagyártás szívéhez vezet az út. A délután a veterán autók történelmének felfedezéséről szól. A nap a látványos Nemzetközi Barokk Múzeumban éri el a nagy finálét.",
+        "ro": "Dimineața începe la o fabrică istorică de textile transformată într-un hub cultural. La prânz conduceți spre monumente revoluționare și centrul producției ceramicii Talavera. După-amiaza este rezervată explorării istoriei automobilelor de epocă. Ziua ajunge la marele final la spectaculosul Muzeu Internațional al Barocului.",
+        "en": "Morning kicks off at a massive historic textile mill transformed into a cultural hub. Midday driving takes you to revolutionary monuments and the heart of Talavera pottery production. The afternoon is reserved for a deep dive into vintage automotive history. The day reaches its grand finale at the spectacular International Museum of the Baroque."
+      }
+    }
+  }
+}

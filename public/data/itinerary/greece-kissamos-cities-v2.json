@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-kissamos-cities-v2",
+  "anchor": {
+    "name": "Kissamos",
+    "coords": [
+      23.65947,
+      35.49334
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 1.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "West Roman Cemetery",
+            "hu": "West Roman Cemetery",
+            "ro": "West Roman Cemetery",
+            "en": "West Roman Cemetery"
+          },
+          "coords": [
+            23.658143,
+            35.49428
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Bestattungspraktiken an dieser gut erhaltenen römischen Stätte im besten Morgenlicht und bringen Sie unbedingt Wasser als Hitzeschutz mit.",
+            "hu": "Fedezze fel az ősi temetkezési szokásokat ezen a római kori lelőhelyen, ahol a reggeli fény a legjobb a fotózáshoz, és mindenképpen hozzon magával ivóvizet.",
+            "ro": "Descoperiți practicile funerare antice la acest sit roman bine conservat, vizitați dis-de-dimineață pentru poze perfecte și aduceți neapărat o sticlă de apă.",
+            "en": "Discover the ancient burial practices at this well-preserved Roman site, where early morning light offers the best photos, and bring water as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Fountain",
+            "hu": "Venetian Fountain",
+            "ro": "Venetian Fountain",
+            "en": "Venetian Fountain"
+          },
+          "coords": [
+            23.655404,
+            35.494976
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Steinmetzarbeiten dieses venezianischen Wahrzeichens im Zentrum und erfrischen Sie sich hier kurz vor dem Museumsbesuch.",
+            "hu": "Csodálja meg a hangulatos velencei emlékmű történelmi kőfaragásait a belvárosban, amely tökéletes egy rövid felfrissülésre a múzeumi látogatás előtt.",
+            "ro": "Admirați sculpturile istorice în piatră ale acestui fermecător reper venețian, o oprire perfectă pentru a vă răcori rapid înainte de a vizita muzeul.",
+            "en": "Admire the historic stone carvings of this charming Venetian landmark in the town center, a perfect quick stop to refresh yourself before hitting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Kissamos",
+            "hu": "Archaeological Museum of Kissamos",
+            "ro": "Archaeological Museum of Kissamos",
+            "en": "Archaeological Museum of Kissamos"
+          },
+          "coords": [
+            23.654332,
+            35.495624
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden römischen Bodenmosaike und hellenistischen Artefakte, aber beginnen Sie am besten im Erdgeschoss für die chronologische Reihenfolge.",
+            "hu": "Csodálja meg a lenyűgöző római padlómozaikokat és hellénisztikus leleteket, de mindenképpen a földszinten kezdje a túrát az időrendi sorrend követéséhez.",
+            "ro": "Admirați uimitoarele mozaicuri romane și artefactele elenistice, dar asigurați-vă că începeți de la parter pentru a urmări cronologic istoria locului.",
+            "en": "Marvel at the stunning Roman floor mosaics and Hellenistic artifacts housed here, but make sure to start on the ground floor to follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Castle Walls",
+            "hu": "Venetian Castle Walls",
+            "ro": "Venetian Castle Walls",
+            "en": "Venetian Castle Walls"
+          },
+          "coords": [
+            23.653205,
+            35.49687
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den beeindruckenden Überresten von Kissamos' mittelalterlicher Festung entlang und achten Sie auf das raue Mauerwerk aus turbulenten Zeiten.",
+            "hu": "Sétáljon végig Kissamos középkori védelmi rendszerének lenyűgöző maradványai mentén, és figyelje meg a régió viharos múltjáról árulkodó masszív falazatot.",
+            "ro": "Plimbați-vă pe lângă rămășițele sistemului de apărare medieval și priviți zidăria aspră care subliniază istoria tulbure și fascinantă a întregii regiuni.",
+            "en": "Walk alongside the formidable remnants of Kissamos's medieval defense system, paying close attention to the rugged masonry that highlights the region's turbulent past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteli of Kissamos",
+            "hu": "Kasteli of Kissamos",
+            "ro": "Kasteli of Kissamos",
+            "en": "Kasteli of Kissamos"
+          },
+          "coords": [
+            23.654135,
+            35.49698
+          ],
+          "category": "castle",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieser imposanten Festung mit festem Schuhwerk, um sicher über die unebenen, felsigen Pfade des Geländes zu navigieren.",
+            "hu": "Fedezze fel az egykor a várost védő impozáns erődítmény történelmi romjait, és mindenképpen viseljen masszív cipőt a sziklás, egyenetlen ösvények miatt.",
+            "ro": "Explorați ruinele istorice ale acestei fortărețe impunătoare care proteja orașul, purtând încălțăminte solidă pentru a parcurge în siguranță potecile stâncoase.",
+            "en": "Explore the historic ruins of this imposing fortress that once protected the town, wearing sturdy shoes to safely navigate the uneven, rocky pathways around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach of Telonio",
+            "hu": "Beach of Telonio",
+            "ro": "Beach of Telonio",
+            "en": "Beach of Telonio"
+          },
+          "coords": [
+            23.659409,
+            35.498133
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem lebhaften Kieselstrand mit seinen gemütlichen Tavernen, der sich ideal für ein Nachmittagsschwimmen und ein Abendessen bei Sonnenuntergang eignet.",
+            "hu": "Pihenjen ezen a nyüzsgő, helyi tavernákkal szegélyezett kavicsos strandon, amely tökéletes hely egy délutáni úszáshoz és egy naplementés tengeri vacsorához.",
+            "ro": "Relaxați-vă pe această plajă plină de viață, străjuită de taverne locale, un loc ideal pentru o baie de după-amiază și o cină cu fructe de mare la apus.",
+            "en": "Relax on this vibrant pebble beach lined with bustling local tavernas, making it the ideal spot for an afternoon swim followed by a sunset dinner with fresh seafood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am römischen Friedhof und spazieren Sie zum venezianischen Brunnen. Lassen Sie den Morgen bei den Mosaiken des Archäologischen Museums ausklingen.\n\nMachen Sie eine Mittagspause, bevor Sie zu den robusten venezianischen Burgmauern schlendern. Genießen Sie einen lokalen Snack und die historische Atmosphäre.\n\nVerbringen Sie den Nachmittag damit, das historische Kasteli von Kissamos zu erkunden. Die kurzen Wege zwischen den Denkmälern machen es leicht, in die Geschichte einzutauchen.\n\nAm Abend lockt der belebte Strand von Telonio. Die Promenade erwacht zum Leben und bietet die perfekte Kulisse, um den Tag bei einem traditionellen Abendessen ausklingen zu lassen.",
+        "hu": "Kezdje sétáját a római temető ősi sírjainál, majd nézze meg a velencei kutat. A délelőttöt a Régészeti Múzeum lenyűgöző mozaikjainak megcsodálásával zárhatja.\n\nTartson egy jól megérdemelt pihenőt, mielőtt a robusztus velencei várfalak felé veszi az irányt. Ez a központi rész tökéletes egy gyors helyi falatozásra a történelmi díszletek között.\n\nA délutánt Kissamos történelmi Kastelijának felfedezésével töltheti. A központi műemlékek közötti rövid séták megkönnyítik a város egyedi középkori hangulatának befogadását.\n\nAhogy közeledik az este, sétáljon le a nyüzsgő Telonio strandra. A sétány megtelik élettel, ideális helyszínt biztosítva egy tengerparti pihenéshez és egy hagyományos krétai vacsorához.",
+        "ro": "Începeți plimbarea explorând obiceiurile funerare la Cimitirul Roman, apoi opriți-vă la Fântâna Venețiană. Încheiați dimineața admirând mozaicurile de la Muzeul Arheologic.\n\nLuați o pauză binemeritată la prânz înainte de a vă îndrepta spre Zidurile Castelului Venețian. Zona centrală este perfectă pentru o gustare locală printre ruinele istorice.\n\nPetreceți după-amiaza explorând istoricul Kasteli din Kissamos, unde ruinele medievale vă întorc în timp. Distanțele scurte fac plimbarea foarte relaxantă și plină de farmec.\n\nPe măsură ce se lasă seara, îndreptați-vă spre plaja plină de viață Telonio. Promenada se animă, fiind locul perfect pentru a vă relaxa lângă valuri cu o cină tradițională.",
+        "en": "Begin your Kissamos walk exploring ancient burial customs at the Roman Cemetery, then stroll to the quaint Venetian Fountain for a quick photo. End the morning marveling at the rich mosaics inside the Archaeological Museum.\n\nTake a well-deserved midday break before wandering toward the robust Venetian Castle Walls. This central area is perfect for grabbing a quick local snack or simply admiring the layers of history visible in the stonework.\n\nSpend your afternoon exploring the historical Kasteli of Kissamos, where the medieval ruins transport you back in time. The short walks between these central monuments make it easy to absorb the town's atmosphere.\n\nAs evening approaches, head to the bustling Beach of Telonio. The promenade comes alive with locals and tourists alike, making it the perfect setting to relax by the waves and enjoy a traditional Cretan dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 2.44,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "West Roman Cemetery",
+            "hu": "West Roman Cemetery",
+            "ro": "West Roman Cemetery",
+            "en": "West Roman Cemetery"
+          },
+          "coords": [
+            23.658143,
+            35.49428
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Bestattungspraktiken an dieser gut erhaltenen römischen Stätte im besten Morgenlicht und bringen Sie unbedingt Wasser als Hitzeschutz mit.",
+            "hu": "Fedezze fel az ősi temetkezési szokásokat ezen a római kori lelőhelyen, ahol a reggeli fény a legjobb a fotózáshoz, és mindenképpen hozzon magával ivóvizet.",
+            "ro": "Descoperiți practicile funerare antice la acest sit roman bine conservat, vizitați dis-de-dimineață pentru poze perfecte și aduceți neapărat o sticlă de apă.",
+            "en": "Discover the ancient burial practices at this well-preserved Roman site, where early morning light offers the best photos, and bring water as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Fountain",
+            "hu": "Venetian Fountain",
+            "ro": "Venetian Fountain",
+            "en": "Venetian Fountain"
+          },
+          "coords": [
+            23.655404,
+            35.494976
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Steinmetzarbeiten dieses venezianischen Wahrzeichens im Zentrum und erfrischen Sie sich hier kurz vor dem Museumsbesuch.",
+            "hu": "Csodálja meg a hangulatos velencei emlékmű történelmi kőfaragásait a belvárosban, amely tökéletes egy rövid felfrissülésre a múzeumi látogatás előtt.",
+            "ro": "Admirați sculpturile istorice în piatră ale acestui fermecător reper venețian, o oprire perfectă pentru a vă răcori rapid înainte de a vizita muzeul.",
+            "en": "Admire the historic stone carvings of this charming Venetian landmark in the town center, a perfect quick stop to refresh yourself before hitting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Kissamos",
+            "hu": "Archaeological Museum of Kissamos",
+            "ro": "Archaeological Museum of Kissamos",
+            "en": "Archaeological Museum of Kissamos"
+          },
+          "coords": [
+            23.654332,
+            35.495624
+          ],
+          "category": "museum",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden römischen Bodenmosaike und hellenistischen Artefakte, aber beginnen Sie am besten im Erdgeschoss für die chronologische Reihenfolge.",
+            "hu": "Csodálja meg a lenyűgöző római padlómozaikokat és hellénisztikus leleteket, de mindenképpen a földszinten kezdje a túrát az időrendi sorrend követéséhez.",
+            "ro": "Admirați uimitoarele mozaicuri romane și artefactele elenistice, dar asigurați-vă că începeți de la parter pentru a urmări cronologic istoria locului.",
+            "en": "Marvel at the stunning Roman floor mosaics and Hellenistic artifacts housed here, but make sure to start on the ground floor to follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Castle Walls",
+            "hu": "Venetian Castle Walls",
+            "ro": "Venetian Castle Walls",
+            "en": "Venetian Castle Walls"
+          },
+          "coords": [
+            23.653205,
+            35.49687
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den beeindruckenden Überresten von Kissamos' mittelalterlicher Festung entlang und achten Sie auf das raue Mauerwerk aus turbulenten Zeiten.",
+            "hu": "Sétáljon végig Kissamos középkori védelmi rendszerének lenyűgöző maradványai mentén, és figyelje meg a régió viharos múltjáról árulkodó masszív falazatot.",
+            "ro": "Plimbați-vă pe lângă rămășițele sistemului de apărare medieval și priviți zidăria aspră care subliniază istoria tulbure și fascinantă a întregii regiuni.",
+            "en": "Walk alongside the formidable remnants of Kissamos's medieval defense system, paying close attention to the rugged masonry that highlights the region's turbulent past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteli of Kissamos",
+            "hu": "Kasteli of Kissamos",
+            "ro": "Kasteli of Kissamos",
+            "en": "Kasteli of Kissamos"
+          },
+          "coords": [
+            23.654135,
+            35.49698
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieser imposanten Festung mit festem Schuhwerk, um sicher über die unebenen, felsigen Pfade des Geländes zu navigieren.",
+            "hu": "Fedezze fel az egykor a várost védő impozáns erődítmény történelmi romjait, és mindenképpen viseljen masszív cipőt a sziklás, egyenetlen ösvények miatt.",
+            "ro": "Explorați ruinele istorice ale acestei fortărețe impunătoare care proteja orașul, purtând încălțăminte solidă pentru a parcurge în siguranță potecile stâncoase.",
+            "en": "Explore the historic ruins of this imposing fortress that once protected the town, wearing sturdy shoes to safely navigate the uneven, rocky pathways around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mavros Molos",
+            "hu": "Mavros Molos",
+            "ro": "Mavros Molos",
+            "en": "Mavros Molos"
+          },
+          "coords": [
+            23.647478,
+            35.500249
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser dieses städtischen Sandstrandes für Familien und mieten Sie am besten frühzeitig eine Sonnenliege für maximalen Komfort.",
+            "hu": "Élvezze e homokos, sekély vizű városi strand nyugalmát, amely ideális családoknak, de érdemes kora reggel napágyat bérelni a legjobb helyek biztosításához.",
+            "ro": "Bucurați-vă de apele calme și puțin adânci ale acestei plaje urbane perfecte pentru familii și închiriați un șezlong devreme pentru cel mai bun confort.",
+            "en": "Enjoy the calm, shallow waters of this sandy urban beach which is perfect for families, and rent a sunbed early in the day to secure the most comfortable spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach of Telonio",
+            "hu": "Beach of Telonio",
+            "ro": "Beach of Telonio",
+            "en": "Beach of Telonio"
+          },
+          "coords": [
+            23.659409,
+            35.498133
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem lebhaften Kieselstrand mit seinen gemütlichen Tavernen, der sich ideal für ein Nachmittagsschwimmen und ein Abendessen bei Sonnenuntergang eignet.",
+            "hu": "Pihenjen ezen a nyüzsgő, helyi tavernákkal szegélyezett kavicsos strandon, amely tökéletes hely egy délutáni úszáshoz és egy naplementés tengeri vacsorához.",
+            "ro": "Relaxați-vă pe această plajă plină de viață, străjuită de taverne locale, un loc ideal pentru o baie de după-amiază și o cină cu fructe de mare la apus.",
+            "en": "Relax on this vibrant pebble beach lined with bustling local tavernas, making it the ideal spot for an afternoon swim followed by a sunset dinner with fresh seafood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am römischen Friedhof, gefolgt von einem Stopp am venezianischen Brunnen. Parken Sie Ihr Rad am Museum, um tief in die antike Kunst einzutauchen.\n\nRadeln Sie an den venezianischen Burgmauern und den Ruinen des Kasteli vorbei. Das kompakte Zentrum macht den Wechsel zwischen den Sehenswürdigkeiten zum Kinderspiel.\n\nFahren Sie zum Mavros Molos Strand und erfrischen Sie sich im flachen Wasser. Der weiche Sand ist ideal, um sich nach den historischen Erkundungen etwas abzukühlen.\n\nBeenden Sie den Tag mit einer Fahrt zum lebhaften Strand von Telonio. Schließen Sie Ihr Rad ab und suchen Sie sich eine gemütliche Taverne für den perfekten Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a római temetőnél a hűvös reggeli órákban, majd álljon meg a velencei kútnál. Parkolja le bringáját a múzeumnál a lenyűgöző ókori művészetért.\n\nTekerjen el a velencei várfalak és a Kasteli romjai mellett, magába szívva a középkori hangulatot. A városközpontban könnyű és gyors a történelmi látnivalók közötti közlekedés.\n\nGuruljon el a Mavros Molos strandra egy frissítő csobbanásra a nyugodt vizekben. A finom homok tökéletes hely a pihenésre a városi kőemlékek felfedezése után.\n\nZárja a napot a nyüzsgő Telonio strandon. Zárja le a kerékpárt, sétáljon végig a tengerparti sétányon, és találjon egy remek tavernát a naplemente megtekintéséhez.",
+        "ro": "Începeți turul cu bicicleta la Cimitirul Roman pentru a evita căldura, urmat de Fântâna Venețiană. Lăsați bicicleta la muzeu pentru a descoperi arta antică fascinantă.\n\nPedați pe lângă Zidurile Castelului Venețian și ruinele Kasteli. Centrul compact face ca deplasarea pe două roți între aceste repere istorice să fie o adevărată plăcere.\n\nMergeți spre plaja Mavros Molos pentru o baie răcoritoare în apele calme. Nisipul fin și atmosfera relaxată vă ajută să vă răcoriți după atâta explorare urbană.\n\nÎncheiați ziua pedalând spre vibranta plajă Telonio. Asigurați bicicleta și plimbați-vă pe faleză pentru a găsi o tavernă perfectă unde să admirați apusul cu o băutură rece.",
+        "en": "Kick off your cycling tour at the West Roman Cemetery to beat the heat, followed by a quick stop at the Venetian Fountain. Park your bike outside the museum to dive into Kissamos’s fascinating ancient art and history.\n\nPedal past the Venetian Castle Walls and the Kasteli ruins, soaking in the medieval vibes. The compact town center makes cycling between these historical landmarks a breeze before heading towards the coast.\n\nRide out to Mavros Molos beach for a refreshing dip in its calm, shallow waters. The soft sand and relaxed atmosphere offer a great way to cool down after exploring the city's stone monuments.\n\nFinish your day by cycling over to the vibrant Beach of Telonio. Lock your bike and stroll along the lively promenade to find the perfect seaside taverna to watch the sunset with a cold drink."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 3.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "West Roman Cemetery",
+            "hu": "West Roman Cemetery",
+            "ro": "West Roman Cemetery",
+            "en": "West Roman Cemetery"
+          },
+          "coords": [
+            23.658143,
+            35.49428
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Bestattungspraktiken an dieser gut erhaltenen römischen Stätte im besten Morgenlicht und bringen Sie unbedingt Wasser als Hitzeschutz mit.",
+            "hu": "Fedezze fel az ősi temetkezési szokásokat ezen a római kori lelőhelyen, ahol a reggeli fény a legjobb a fotózáshoz, és mindenképpen hozzon magával ivóvizet.",
+            "ro": "Descoperiți practicile funerare antice la acest sit roman bine conservat, vizitați dis-de-dimineață pentru poze perfecte și aduceți neapărat o sticlă de apă.",
+            "en": "Discover the ancient burial practices at this well-preserved Roman site, where early morning light offers the best photos, and bring water as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Fountain",
+            "hu": "Venetian Fountain",
+            "ro": "Venetian Fountain",
+            "en": "Venetian Fountain"
+          },
+          "coords": [
+            23.655404,
+            35.494976
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Steinmetzarbeiten dieses venezianischen Wahrzeichens im Zentrum und erfrischen Sie sich hier kurz vor dem Museumsbesuch.",
+            "hu": "Csodálja meg a hangulatos velencei emlékmű történelmi kőfaragásait a belvárosban, amely tökéletes egy rövid felfrissülésre a múzeumi látogatás előtt.",
+            "ro": "Admirați sculpturile istorice în piatră ale acestui fermecător reper venețian, o oprire perfectă pentru a vă răcori rapid înainte de a vizita muzeul.",
+            "en": "Admire the historic stone carvings of this charming Venetian landmark in the town center, a perfect quick stop to refresh yourself before hitting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Kissamos",
+            "hu": "Archaeological Museum of Kissamos",
+            "ro": "Archaeological Museum of Kissamos",
+            "en": "Archaeological Museum of Kissamos"
+          },
+          "coords": [
+            23.654332,
+            35.495624
+          ],
+          "category": "museum",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden römischen Bodenmosaike und hellenistischen Artefakte, aber beginnen Sie am besten im Erdgeschoss für die chronologische Reihenfolge.",
+            "hu": "Csodálja meg a lenyűgöző római padlómozaikokat és hellénisztikus leleteket, de mindenképpen a földszinten kezdje a túrát az időrendi sorrend követéséhez.",
+            "ro": "Admirați uimitoarele mozaicuri romane și artefactele elenistice, dar asigurați-vă că începeți de la parter pentru a urmări cronologic istoria locului.",
+            "en": "Marvel at the stunning Roman floor mosaics and Hellenistic artifacts housed here, but make sure to start on the ground floor to follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Venetian Castle Walls",
+            "hu": "Venetian Castle Walls",
+            "ro": "Venetian Castle Walls",
+            "en": "Venetian Castle Walls"
+          },
+          "coords": [
+            23.653205,
+            35.49687
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den beeindruckenden Überresten von Kissamos' mittelalterlicher Festung entlang und achten Sie auf das raue Mauerwerk aus turbulenten Zeiten.",
+            "hu": "Sétáljon végig Kissamos középkori védelmi rendszerének lenyűgöző maradványai mentén, és figyelje meg a régió viharos múltjáról árulkodó masszív falazatot.",
+            "ro": "Plimbați-vă pe lângă rămășițele sistemului de apărare medieval și priviți zidăria aspră care subliniază istoria tulbure și fascinantă a întregii regiuni.",
+            "en": "Walk alongside the formidable remnants of Kissamos's medieval defense system, paying close attention to the rugged masonry that highlights the region's turbulent past."
+          }
+        },
+        {
+          "name": {
+            "de": "Mavros Molos",
+            "hu": "Mavros Molos",
+            "ro": "Mavros Molos",
+            "en": "Mavros Molos"
+          },
+          "coords": [
+            23.647478,
+            35.500249
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser dieses städtischen Sandstrandes für Familien und mieten Sie am besten frühzeitig eine Sonnenliege für maximalen Komfort.",
+            "hu": "Élvezze e homokos, sekély vizű városi strand nyugalmát, amely ideális családoknak, de érdemes kora reggel napágyat bérelni a legjobb helyek biztosításához.",
+            "ro": "Bucurați-vă de apele calme și puțin adânci ale acestei plaje urbane perfecte pentru familii și închiriați un șezlong devreme pentru cel mai bun confort.",
+            "en": "Enjoy the calm, shallow waters of this sandy urban beach which is perfect for families, and rent a sunbed early in the day to secure the most comfortable spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach of Telonio",
+            "hu": "Beach of Telonio",
+            "ro": "Beach of Telonio",
+            "en": "Beach of Telonio"
+          },
+          "coords": [
+            23.659409,
+            35.498133
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem lebhaften Kieselstrand mit seinen gemütlichen Tavernen, der sich ideal für ein Nachmittagsschwimmen und ein Abendessen bei Sonnenuntergang eignet.",
+            "hu": "Pihenjen ezen a nyüzsgő, helyi tavernákkal szegélyezett kavicsos strandon, amely tökéletes hely egy délutáni úszáshoz és egy naplementés tengeri vacsorához.",
+            "ro": "Relaxați-vă pe această plajă plină de viață, străjuită de taverne locale, un loc ideal pentru o baie de după-amiază și o cină cu fructe de mare la apus.",
+            "en": "Relax on this vibrant pebble beach lined with bustling local tavernas, making it the ideal spot for an afternoon swim followed by a sunset dinner with fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Korfalonas Beach",
+            "hu": "Korfalonas Beach",
+            "ro": "Korfalonas Beach",
+            "en": "Korfalonas Beach"
+          },
+          "coords": [
+            23.674091,
+            35.498651
+          ],
+          "category": "recreational",
+          "arrive_at": "16:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigen Küstenstreifen mit herrlicher Natur, aber bringen Sie einen eigenen Schirm mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől ezen a nyugodt tengerparti szakaszon, és hozzon magával saját napernyőt, mivel a kiépített szolgáltatások itt meglehetősen korlátozottak.",
+            "ro": "Scăpați de aglomerație pe această întindere liniștită de coastă unde natura strălucește, dar aduceți propria umbrelă, deoarece facilitățile sunt destul de limitate.",
+            "en": "Escape the crowds at this tranquil stretch of coastline where the natural scenery shines, and bring your own umbrella since organized facilities are quite limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am römischen Friedhof und genießen Sie die morgendliche Ruhe. Nach einem kurzen Halt am Brunnen erkunden Sie die Artefakte im Archäologischen Museum.\n\nFahren Sie kurze Strecken zwischen den venezianischen Burgmauern und dem Kasteli. Auch mit dem Auto erfordern diese Ruinen etwas Fußweg, um das Erbe wirklich zu spüren.\n\nPacken Sie Ihre Strandsachen und fahren Sie zum Mavros Molos für Entspannung im Sand. Mit dem Auto können Sie alles für einen perfekten Strandnachmittag bequem transportieren.\n\nZum krönenden Abschluss fahren Sie zum friedlichen Strand von Korfalonas, um den abendlichen Massen zu entfliehen. Genießen Sie hier den ruhigen Sonnenuntergang am Wasser.",
+        "hu": "Kezdje az autózást a római temetőnél a reggeli nyugalomban. Egy rövid megálló a velencei kútnál, majd merüljön el a Régészeti Múzeum ókori műkincseiben.\n\nVezessen a velencei várfalak és a központi Kasteli között. Az autó ellenére ezek a történelmi romok némi sétát igényelnek, így átérezheti Kissamos középkori örökségét.\n\nPakolja be a strandfelszerelést, és vezessen a Mavros Molosra egy kis pihenésre. Az autóval könnyedén elvihet mindent, ami egy kényelmes tengerparti délutánhoz szükséges.\n\nA nap lezárásaként autózzon el a békés Korfalonas strandra, távol az esti tömegtől. Élvezze a csendes naplementét és a hullámok morajlását, mielőtt visszatérne a központba.",
+        "ro": "Începeți traseul auto la Cimitirul Roman, bucurându-vă de liniștea dimineții. După o scurtă oprire la Fântâna Venețiană, vizitați artefactele antice din Muzeul Arheologic.\n\nConduceți pe distanțe scurte între Zidurile Castelului Venețian și Kasteli. Chiar și cu mașina, explorarea acestor ruine necesită câțiva pași pentru a simți istoria locului.\n\nLuați echipamentul de plajă și conduceți la Mavros Molos pentru relaxare pe nisip. Mașina vă permite să aduceți tot confortul necesar pentru o după-amiază perfectă sub soarele cretan.\n\nPentru un final grandios, mergeți la plaja liniștită Korfalonas pentru a scăpa de aglomerație. Bucurați-vă de apusul senin și de sunetul relaxant al valurilor mării.",
+        "en": "Start your drive at the West Roman Cemetery, enjoying the morning peace. Briefly stop at the Venetian Fountain before spending a couple of hours immersed in the ancient artifacts of the Archaeological Museum.\n\nDrive short distances between the Venetian Castle Walls and the central Kasteli. Even with a car, exploring these historical ruins requires a bit of walking, giving you a true feel of Kissamos's medieval heritage.\n\nPack your beach gear and drive to Mavros Molos for some relaxation on the sandy shore. Having a car makes it easy to transport everything you need for a comfortable beach afternoon under the Cretan sun.\n\nFor the grand finale, cruise over to the peaceful Korfalonas Beach to escape the evening crowds. Enjoy the serene sunset views and the quiet ripple of the waves before heading back to the town center."
+      }
+    }
+  }
+}

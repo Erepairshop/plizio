@@ -1,0 +1,474 @@
+{
+  "city_id": "manosque",
+  "anchor": {
+    "name": "Manosque",
+    "coords": [
+      5.7831,
+      43.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville Square",
+            "hu": "Hôtel de Ville Square",
+            "ro": "Hôtel de Ville Square",
+            "en": "Hôtel de Ville Square"
+          },
+          "coords": [
+            5.782634,
+            43.833759
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem lebendigen historischen Zentrum und genießen Sie die Atmosphäre und die wunderschöne Architektur bei einem lokalen Kaffee.",
+            "hu": "Kezdje utazását ezen az élénk történelmi központon, gyönyörködjön a hangulatban és az építészetben, mielőtt beülne egy közeli hangulatos helyi kávézóba.",
+            "ro": "Începeți călătoria în acest centru istoric plin de viață, admirând atmosfera și arhitectura frumoasă înainte de a vizita o cafenea locală din apropiere.",
+            "en": "Start your journey at this vibrant historical center, taking in the lively atmosphere and beautiful architecture before checking out a nearby local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame-de-Romigier",
+            "hu": "Church of Notre-Dame-de-Romigier",
+            "ro": "Church of Notre-Dame-de-Romigier",
+            "en": "Church of Notre-Dame-de-Romigier"
+          },
+          "coords": [
+            5.783134,
+            43.833775
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende romanische Kirche, die für ihre antike Statue der Schwarzen Madonna bekannt ist, und respektieren Sie die Ruhezeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző román stílusú templomot, amely ősi Fekete Madonna-szobráról ismert, de mindig tartsa tiszteletben a csendes áhítat óráit.",
+            "ro": "Explorați această uimitoare biserică romanică, renumită pentru vechea sa statuie Madona Neagră, și asigurați-vă că respectați orele de liniște.",
+            "en": "Explore this stunning Romanesque church, renowned for its ancient Black Madonna statue and peaceful ambiance, and remember to respect the quiet hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Saunerie",
+            "hu": "Porte de la Saunerie",
+            "ro": "Porte de la Saunerie",
+            "en": "Porte de la Saunerie"
+          },
+          "coords": [
+            5.78401,
+            43.8317
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses südliche Tor aus dem Jahr 1382, das einst den Salzhandel kontrollierte, und machen Sie früh morgens Fotos, wenn das Licht ideal ist.",
+            "hu": "Csodálja meg ezt az 1382-ből származó déli kaput, amely egykor a sókereskedelmet ellenőrizte, és készítsen nagyszerű fotókat a kora reggeli fényekben.",
+            "ro": "Admirați această poartă sudică iconică din 1382 care controla comerțul cu sare și faceți fotografii clare dimineața devreme, când lumina este ideală.",
+            "en": "Admire this iconic southern gateway from 1382 that once controlled the salt trade, and take clear photos early in the morning when the light is ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Drouille",
+            "hu": "Parc de Drouille",
+            "ro": "Parc de Drouille",
+            "en": "Parc de Drouille"
+          },
+          "coords": [
+            5.783431,
+            43.827072
+          ],
+          "category": "family",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser grünen Oase mit schattigen Wegen und schönen Blumenarrangements, die sich perfekt für eine kurze Pause mit Lunchpaket eignet.",
+            "hu": "Pihenjen meg ebben a békés zöld oázisban, amely árnyékos ösvényekkel és gyönyörű virágokkal várja, tökéletes helyszínt nyújtva egy gyors ebédszünethez.",
+            "ro": "Relaxați-vă în această oază verde și pașnică, cu alei umbrite și aranjamente florale frumoase, fiind locul perfect pentru o pauză rapidă cu un prânz.",
+            "en": "Relax in this peaceful green oasis featuring shaded paths and lovely floral displays, making it the perfect spot for a quick break with a packed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Jean Giono Center",
+            "hu": "Jean Giono Center",
+            "ro": "Jean Giono Center",
+            "en": "Jean Giono Center"
+          },
+          "coords": [
+            5.789397,
+            43.833461
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch fesselnde literarische Ausstellungen in die Welt des berühmten lokalen Autors ein und buchen Sie Ihre Führung in der Hochsaison im Voraus.",
+            "hu": "Merüljön el a híres helyi író világában a lenyűgöző irodalmi kiállításokon keresztül, és főszezonban mindenképpen előre foglalja le az idegenvezetést.",
+            "ro": "Cufundați-vă în lumea celebrului autor local prin expoziții literare captivante și asigurați-vă că rezervați turul ghidat din timp în sezonul de vârf.",
+            "en": "Immerse yourself in the world of the famous local author through engaging literary exhibits, and definitely book your guided tour ahead in peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte du Soubeyran",
+            "hu": "Porte du Soubeyran",
+            "ro": "Porte du Soubeyran",
+            "en": "Porte du Soubeyran"
+          },
+          "coords": [
+            5.781765,
+            43.835219
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie das höchste noch erhaltene mittelalterliche Stadttor mit seinem Campanile aus dem 19. Jahrhundert und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel a város legmagasabb fennmaradt középkori kapuját a 19. századi harangtoronnyal, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Descoperiți cea mai înaltă poartă medievală rămasă a orașului, cu o clopotniță din secolul 19, și aduceți un obiectiv larg pentru a o surprinde integral.",
+            "en": "Discover the tallest remaining medieval gate of the city, adorned with a 19th-century campanile, and bring a wide-angle lens to capture its full height."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Manosque. Schlendern Sie über die zentralen Plätze und besuchen Sie die alte romanische Kirche. Die Architektur erzählt von längst vergangenen Zeiten. Gegen Mittag laden die kühlen, schattigen Wege des Parc de Drouille zu einer entspannten Pause ein. Nachmittags können Sie im Jean Giono Center tief in die provenzalische Literatur eintauchen. Zum Abschluss bewundern Sie die mächtigen Stadttore, deren Silhouette den perfekten Rahmen für die Abenddämmerung bildet.",
+        "hu": "Kezdje a napot Manosque történelmi szívében. Sétáljon a központi tereken, és látogassa meg az ősi román stílusú templomot. Az építészet letűnt korokról mesél. Dél körül a Parc de Drouille hűvös, árnyékos ösvényei hívogatnak egy pihentető szünetre. Délután merüljön el a provence-i irodalomban a Jean Giono Központban. Végül csodálja meg a hatalmas városkapukat, amelyek sziluettje tökéletes keretet ad az esti szürkületnek.",
+        "ro": "Începeți-vă ziua în inima istorică a orașului Manosque. Plimbați-vă prin piețele centrale și vizitați vechea biserică romanică. Arhitectura spune povești din vremuri demult apuse. Pe la prânz, aleile răcoroase și umbrite din Parc de Drouille vă invită la o pauză relaxantă. După-amiaza, pătrundeți în literatura provensală la Centrul Jean Giono. La final, admirați porțile masive ale orașului, a căror siluetă oferă cadrul perfect pentru amurg.",
+        "en": "Start your day in the historic heart of Manosque. Stroll through the central squares and visit the ancient Romanesque church. The architecture tells stories of bygone eras. Around midday, the cool, shaded paths of Parc de Drouille invite you for a relaxing break. In the afternoon, dive deep into Provençal literature at the Jean Giono Center. Finally, admire the massive city gates, their silhouettes providing the perfect frame for the evening dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville Square",
+            "hu": "Hôtel de Ville Square",
+            "ro": "Hôtel de Ville Square",
+            "en": "Hôtel de Ville Square"
+          },
+          "coords": [
+            5.782634,
+            43.833759
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem lebendigen historischen Zentrum und genießen Sie die Atmosphäre und die wunderschöne Architektur bei einem lokalen Kaffee.",
+            "hu": "Kezdje utazását ezen az élénk történelmi központon, gyönyörködjön a hangulatban és az építészetben, mielőtt beülne egy közeli hangulatos helyi kávézóba.",
+            "ro": "Începeți călătoria în acest centru istoric plin de viață, admirând atmosfera și arhitectura frumoasă înainte de a vizita o cafenea locală din apropiere.",
+            "en": "Start your journey at this vibrant historical center, taking in the lively atmosphere and beautiful architecture before checking out a nearby local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame-de-Romigier",
+            "hu": "Church of Notre-Dame-de-Romigier",
+            "ro": "Church of Notre-Dame-de-Romigier",
+            "en": "Church of Notre-Dame-de-Romigier"
+          },
+          "coords": [
+            5.783134,
+            43.833775
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende romanische Kirche, die für ihre antike Statue der Schwarzen Madonna bekannt ist, und respektieren Sie die Ruhezeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző román stílusú templomot, amely ősi Fekete Madonna-szobráról ismert, de mindig tartsa tiszteletben a csendes áhítat óráit.",
+            "ro": "Explorați această uimitoare biserică romanică, renumită pentru vechea sa statuie Madona Neagră, și asigurați-vă că respectați orele de liniște.",
+            "en": "Explore this stunning Romanesque church, renowned for its ancient Black Madonna statue and peaceful ambiance, and remember to respect the quiet hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Jean Giono Center",
+            "hu": "Jean Giono Center",
+            "ro": "Jean Giono Center",
+            "en": "Jean Giono Center"
+          },
+          "coords": [
+            5.789397,
+            43.833461
+          ],
+          "category": "museum",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch fesselnde literarische Ausstellungen in die Welt des berühmten lokalen Autors ein und buchen Sie Ihre Führung in der Hochsaison im Voraus.",
+            "hu": "Merüljön el a híres helyi író világában a lenyűgöző irodalmi kiállításokon keresztül, és főszezonban mindenképpen előre foglalja le az idegenvezetést.",
+            "ro": "Cufundați-vă în lumea celebrului autor local prin expoziții literare captivante și asigurați-vă că rezervați turul ghidat din timp în sezonul de vârf.",
+            "en": "Immerse yourself in the world of the famous local author through engaging literary exhibits, and definitely book your guided tour ahead in peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour du Mont d'Or",
+            "hu": "Tour du Mont d'Or",
+            "ro": "Tour du Mont d'Or",
+            "en": "Tour du Mont d'Or"
+          },
+          "coords": [
+            5.79413,
+            43.8376
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieses mittelalterlichen Wachturms hinauf, um einen spektakulären Panoramablick auf das Tal zu genießen; tragen Sie feste Schuhe.",
+            "hu": "Másszon fel a középkori őrtorony romjaihoz, ahonnan látványos panoráma nyílik az egész völgyre, de mindenképpen viseljen masszív, kényelmes túracipőt.",
+            "ro": "Urcați la ruinele acestui turn de veghe medieval pentru o vedere panoramică spectaculoasă a întregii văi, dar asigurați-vă că purtați încălțăminte solidă.",
+            "en": "Climb up to the ruins of this medieval watchtower for a spectacular panoramic view of the entire valley, but make sure to wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin rétention pluvial Osco Manosco",
+            "hu": "Bassin rétention pluvial Osco Manosco",
+            "ro": "Bassin rétention pluvial Osco Manosco",
+            "en": "Bassin rétention pluvial Osco Manosco"
+          },
+          "coords": [
+            5.799489,
+            43.82909
+          ],
+          "category": "natural",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses gut durchdachte moderne Rückhaltebecken, das auch als friedlicher ökologischer Park dient und einen ruhigen Rückzugsort bietet.",
+            "hu": "Sétáljon körbe ezen a gondosan megtervezett modern víztározón, amely egyben békés ökológiai parkként is szolgál, csendes kikapcsolódást kínálva.",
+            "ro": "Plimbați-vă în jurul acestui bazin de retenție modern, care servește și ca parc ecologic liniștit, oferind o evadare relaxantă aproape de centru.",
+            "en": "Stroll around this thoughtfully designed modern retention basin that also serves as a peaceful ecological park, offering a quiet escape near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau des Vannades",
+            "hu": "Plan d'eau des Vannades",
+            "ro": "Plan d'eau des Vannades",
+            "en": "Plan d'eau des Vannades"
+          },
+          "coords": [
+            5.838736,
+            43.82994
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.12,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen Badesee, wo Sie schwimmen, segeln oder einfach entspannen können; bringen Sie eigene Snacks mit.",
+            "hu": "Zárja a napot ennél a gyönyörű rekreációs tónál, ahol úszhat, vitorlázhat vagy csak lazíthat a füves parton; érdemes saját nassolnivalót hozni.",
+            "ro": "Încheiați-vă ziua la acest frumos lac de agrement unde puteți înota, naviga sau pur și simplu vă puteți relaxa pe malurile înierbate; aduceți gustări.",
+            "en": "End your day at this beautiful recreational lake where you can swim, sail, or simply unwind on the grassy banks; bringing your own snacks is recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie in die Pedale und erkunden Sie Manosque auf zwei Rädern! Starten Sie am Hôtel de Ville, wo das morgendliche Treiben beginnt. Nach einem kulturellen Stopp im Jean Giono Center fahren Sie hinauf zum Tour du Mont d'Or. Der Ausblick auf das Durance-Tal ist atemberaubend. Nachmittags rollen Sie gemütlich zum ökologischen Rückhaltebecken Osco Manosco. Beenden Sie die Tour am Plan d'eau des Vannades, wo das Wasser im Abendlicht glitzert.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Manosque-ot két keréken! Induljon a Hôtel de Ville elől, ahol a reggeli nyüzsgés kezdődik. A Jean Giono Központ kulturális megállója után tekerjen fel a Tour du Mont d'Or-hoz. A kilátás a Durance-völgyre lélegzetelállító. Délután guruljon el kényelmesen az Osco Manosco ökológiai víztározóhoz. Fejezze be a túrát a Plan d'eau des Vannades tónál, ahol a víz az esti fényben csillog.",
+        "ro": "Urcați pe bicicletă și explorați Manosque pe două roți! Începeți la Hôtel de Ville, unde începe forfota matinală. După o oprire culturală la Centrul Jean Giono, urcați spre Tour du Mont d'Or. Priveliștea asupra Văii Durance este uluitoare. După-amiaza, coborâți ușor către bazinul ecologic Osco Manosco. Încheiați turul la Plan d'eau des Vannades, unde apa strălucește în lumina serii.",
+        "en": "Pedal your way through Manosque on two wheels! Start at the Hôtel de Ville, where the morning bustle begins. After a cultural stop at the Jean Giono Center, ride up to the Tour du Mont d'Or. The view over the Durance Valley is truly breathtaking. In the afternoon, roll leisurely to the ecological basin of Osco Manosco. Finish the tour at Plan d'eau des Vannades, with the water sparkling in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte du Soubeyran",
+            "hu": "Porte du Soubeyran",
+            "ro": "Porte du Soubeyran",
+            "en": "Porte du Soubeyran"
+          },
+          "coords": [
+            5.781765,
+            43.835219
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das höchste noch erhaltene mittelalterliche Stadttor mit seinem Campanile aus dem 19. Jahrhundert und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel a város legmagasabb fennmaradt középkori kapuját a 19. századi harangtoronnyal, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Descoperiți cea mai înaltă poartă medievală rămasă a orașului, cu o clopotniță din secolul 19, și aduceți un obiectiv larg pentru a o surprinde integral.",
+            "en": "Discover the tallest remaining medieval gate of the city, adorned with a 19th-century campanile, and bring a wide-angle lens to capture its full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville Square",
+            "hu": "Hôtel de Ville Square",
+            "ro": "Hôtel de Ville Square",
+            "en": "Hôtel de Ville Square"
+          },
+          "coords": [
+            5.782634,
+            43.833759
+          ],
+          "category": "civic",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem lebendigen historischen Zentrum und genießen Sie die Atmosphäre und die wunderschöne Architektur bei einem lokalen Kaffee.",
+            "hu": "Kezdje utazását ezen az élénk történelmi központon, gyönyörködjön a hangulatban és az építészetben, mielőtt beülne egy közeli hangulatos helyi kávézóba.",
+            "ro": "Începeți călătoria în acest centru istoric plin de viață, admirând atmosfera și arhitectura frumoasă înainte de a vizita o cafenea locală din apropiere.",
+            "en": "Start your journey at this vibrant historical center, taking in the lively atmosphere and beautiful architecture before checking out a nearby local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Thomassine Biodiversity House",
+            "hu": "Thomassine Biodiversity House",
+            "ro": "Thomassine Biodiversity House",
+            "en": "Thomassine Biodiversity House"
+          },
+          "coords": [
+            5.752577,
+            43.846827
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende regionale Flora und seltene Pflanzenarten in diesen atemberaubenden Gärten und informieren Sie sich über die Öffnungszeiten.",
+            "hu": "Fedezze fel a lenyűgöző regionális flórát és a ritka növényfajtákat ebben a gyönyörű konzervatóriumi kertben, és előre ellenőrizze a nyitvatartást.",
+            "ro": "Explorați flora regională fascinantă și soiurile de plante rare în aceste grădini uimitoare și asigurați-vă că verificați orele de deschidere sezoniere.",
+            "en": "Explore fascinating regional flora and rare plant varieties in these stunning conservatory gardens, and be sure to check the seasonal opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour du Mont d'Or",
+            "hu": "Tour du Mont d'Or",
+            "ro": "Tour du Mont d'Or",
+            "en": "Tour du Mont d'Or"
+          },
+          "coords": [
+            5.79413,
+            43.8376
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.35,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieses mittelalterlichen Wachturms hinauf, um einen spektakulären Panoramablick auf das Tal zu genießen; tragen Sie feste Schuhe.",
+            "hu": "Másszon fel a középkori őrtorony romjaihoz, ahonnan látványos panoráma nyílik az egész völgyre, de mindenképpen viseljen masszív, kényelmes túracipőt.",
+            "ro": "Urcați la ruinele acestui turn de veghe medieval pentru o vedere panoramică spectaculoasă a întregii văi, dar asigurați-vă că purtați încălțăminte solidă.",
+            "en": "Climb up to the ruins of this medieval watchtower for a spectacular panoramic view of the entire valley, but make sure to wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Laurons",
+            "hu": "Les Laurons",
+            "ro": "Les Laurons",
+            "en": "Les Laurons"
+          },
+          "coords": [
+            5.830106,
+            43.818686
+          ],
+          "category": "natural",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.56,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang durch dieses reizvolle Naturgebiet, das wegen seiner Artenvielfalt beliebt ist, und halten Sie Ausschau nach Vogelarten.",
+            "hu": "Tegyen egy frissítő sétát ezen a bájos természeti területen, amelyet a helyiek a biológiai sokféleség miatt kedvelnek, és figyeljen a madárfajokra.",
+            "ro": "Faceți o plimbare revigorantă prin această zonă naturală fermecătoare, favorizată de localnici pentru biodiversitate, și căutați specii de păsări locale.",
+            "en": "Take a refreshing walk through this charming natural area favored by locals for its biodiversity, and keep an eye out for interesting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau des Vannades",
+            "hu": "Plan d'eau des Vannades",
+            "ro": "Plan d'eau des Vannades",
+            "en": "Plan d'eau des Vannades"
+          },
+          "coords": [
+            5.838736,
+            43.82994
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.38,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen Badesee, wo Sie schwimmen, segeln oder einfach entspannen können; bringen Sie eigene Snacks mit.",
+            "hu": "Zárja a napot ennél a gyönyörű rekreációs tónál, ahol úszhat, vitorlázhat vagy csak lazíthat a füves parton; érdemes saját nassolnivalót hozni.",
+            "ro": "Încheiați-vă ziua la acest frumos lac de agrement unde puteți înota, naviga sau pur și simplu vă puteți relaxa pe malurile înierbate; aduceți gustări.",
+            "en": "End your day at this beautiful recreational lake where you can swim, sail, or simply unwind on the grassy banks; bringing your own snacks is recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Autotour ermöglicht es Ihnen, sowohl die Altstadt als auch das weitläufige Umland zu genießen. Starten Sie bei der historischen Porte du Soubeyran. Das Hôtel de Ville Square ist nur einen Katzensprung entfernt. Fahren Sie dann zur Thomassine Biodiversity House, um die seltene regionale Flora zu entdecken. Nachmittags bieten der Tour du Mont d'Or und Les Laurons spektakuläre Aussichten und Naturerlebnisse. Lassen Sie den Tag entspannt am malerischen Plan d'eau des Vannades ausklingen.",
+        "hu": "Egy autós túra lehetővé teszi, hogy az óvárost és a tágabb környéket is élvezze. Kezdjen a történelmi Porte du Soubeyran-nál. A Hôtel de Ville Square csupán egy kőhajításnyira van. Ezután vezessen a Thomassine Biodiverzitás Házhoz a ritka helyi flóra felfedezéséhez. Délután a Tour du Mont d'Or és Les Laurons kínál látványos kilátást. Zárja a napot pihentetően a festői Plan d'eau des Vannades tónál.",
+        "ro": "Un tur cu mașina vă permite să vă bucurați atât de orașul vechi, cât și de împrejurimi. Începeți la istorica Porte du Soubeyran. Piața Hôtel de Ville este foarte aproape. Conduceți apoi către Casa Biodiversității Thomassine pentru a descoperi flora rară. După-amiaza, Tour du Mont d'Or și Les Laurons oferă priveliști spectaculoase. Încheiați ziua relaxându-vă la pitorescul Plan d'eau des Vannades.",
+        "en": "A driving tour allows you to enjoy both the old town and the expansive surroundings. Start at the historic Porte du Soubeyran. The Hôtel de Ville Square is just a stone's throw away. Then, drive to the Thomassine Biodiversity House to discover rare regional flora. In the afternoon, the Tour du Mont d'Or and Les Laurons offer spectacular views and nature experiences. Unwind at the scenic Plan d'eau des Vannades as the sun sets."
+      }
+    }
+  }
+}

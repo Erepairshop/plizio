@@ -1,0 +1,520 @@
+{
+  "city_id": "ireland-glencolmcille-cities-v2",
+  "anchor": {
+    "name": "Glencolmcille",
+    "coords": [
+      -8.720278,
+      54.710278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turas Ghleann Cholm Cille",
+            "hu": "Turas Ghleann Cholm Cille",
+            "ro": "Turas Ghleann Cholm Cille",
+            "en": "Turas Ghleann Cholm Cille"
+          },
+          "coords": [
+            -8.719495,
+            54.712535
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den alten Menhiren dieses historischen Pilgerwegs, um die frühe keltische Christenheit zu spüren, und tragen Sie unbedingt wasserdichte Stiefel für die Pfade.",
+            "hu": "Sétáljon a történelmi zarándokút ősi állókövei között, hogy megtapasztalja a korai kelta kereszténységet, és mindenképpen viseljen vízálló bakancsot a sáros ösvények miatt.",
+            "ro": "Plimbați-vă printre pietrele antice ale acestui traseu istoric de pelerinaj pentru a simți creștinismul celtic timpuriu, asigurându-vă că purtați cizme impermeabile pentru potecile noroioase.",
+            "en": "Walk among the ancient standing stones of this historical pilgrimage route to connect with early Celtic Christianity, making sure to wear sturdy waterproof boots for the muddy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Glencolumbkille Turas",
+            "hu": "Glencolumbkille Turas",
+            "ro": "Glencolumbkille Turas",
+            "en": "Glencolumbkille Turas"
+          },
+          "coords": [
+            -8.72485,
+            54.71084
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende, mit Kreuzen verzierte Säulen, die Pilger seit Jahrhunderten leiten, und halten Sie eine Karte bereit, um die verstreuten Stationen zu finden.",
+            "hu": "Fedezze fel a lenyűgöző kereszttel vésett oszlopokat, amelyek évszázadok óta vezetik a zarándokokat, és tartson magánál térképet a szétszórt állomások könnyebb megtalálásához.",
+            "ro": "Descoperiți pilonii fascinați cu cruci sculptate care au ghidat pelerinii secole de-a rândul, păstrând o hartă la îndemână pentru a naviga printre stațiunile răspândite.",
+            "en": "Discover fascinating cross-inscribed pillars that have guided pilgrims for centuries across this rugged landscape, keeping a map handy to navigate the scattered valley stations."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Faned's Well",
+            "hu": "St. Faned's Well",
+            "ro": "St. Faned's Well",
+            "en": "St. Faned's Well"
+          },
+          "coords": [
+            -8.733507,
+            54.70618
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser heiligen Quelle an, die für ihre lokalen Legenden bekannt ist, und bringen Sie ein kleines Andenken mit, um es respektvoll nach lokalem Brauch zu hinterlassen.",
+            "hu": "Álljon meg ennél a békés szent kútnál, amely a helyi legendákról híres, és fontolja meg egy apró emléktárgy tiszteletteljes elhelyezését, ahogyan az itt szokás.",
+            "ro": "Opriți-vă la acest izvor sfânt și liniștit, cunoscut pentru legendele locale, și luați în considerare aducerea unui mic simbol pentru a-l lăsa cu respect, conform obiceiului.",
+            "en": "Pause at this peaceful holy well known for its local lore and supposed healing properties, and consider bringing a small token to leave respectfully as is the local custom."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Village Museum",
+            "hu": "Folk Village Museum",
+            "ro": "Folk Village Museum",
+            "en": "Folk Village Museum"
+          },
+          "coords": [
+            -8.740779,
+            54.707092
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen authentischen strohgedeckten Cottages, die das ländliche irische Leben illustrieren, und planen Sie Ihren Besuch passend zu den Führungen.",
+            "hu": "Lépjen vissza az időben ezekben az autentikus nádfedeles házikókban, amelyek bemutatják a vidéki ír életet, és időzítse látogatását a vezetett túrákhoz a mélyebb megértés érdekében.",
+            "ro": "Întoarceți-vă în timp în aceste căsuțe autentice cu acoperiș de stuf care ilustrează viața rurală, planificându-vă vizita în jurul orelor de tur ghidat pentru perspective mai profunde.",
+            "en": "Step back in time within these authentic thatched cottages that beautifully illustrate rural Irish life, planning your visit around the guided tour times for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "An Trá Bheag (Trá Bheag an Ghleanna)",
+            "hu": "An Trá Bheag (Trá Bheag an Ghleanna)",
+            "ro": "An Trá Bheag (Trá Bheag an Ghleanna)",
+            "en": "An Trá Bheag (Trá Bheag an Ghleanna)"
+          },
+          "coords": [
+            -8.744718,
+            54.707427
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen kleinen Strand in der Bucht, um das Rauschen des Ozeans zu genießen, aber achten Sie auf die Flut, wenn Sie am Wasser entlang spazieren.",
+            "hu": "Pihenjen meg ezen a festői kis strandon az öbölben, ahol élvezheti az óceán nyugtató hangjait, de ügyeljen a dagályra, ha közvetlenül a vízparton sétál.",
+            "ro": "Relaxați-vă pe această plajă pitorească ascunsă în golf, unde vă puteți bucura de sunetele oceanului, dar fiți atenți la mareea în creștere dacă vă plimbați pe malul apei.",
+            "en": "Relax on this picturesque little beach nestled in the bay where you can enjoy the soothing ocean sounds, but be mindful of the incoming tide if you decide to walk along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Glencolmcille beginnt mit einer Erkundung der historischen Pilgerwege und mystischen Menhire. Wir wandern durch grüne Hügel, spüren die uralte Geschichte des Tals und tauchen tief in das frühchristliche Erbe der Region ein. Gegen Mittag besuchen wir St. Faned's Well, bevor wir das authentische Leben vergangener Jahrhunderte im faszinierenden Folk Village Museum entdecken. Am Nachmittag führt uns der Spaziergang weiter durch das idyllische Dorf, um die friedliche Küstenlandschaft am An Trá Bheag zu genießen. Wir beenden unseren entspannten Tag am Ozean, wo die frische irische Seeluft und das Rauschen der Wellen für einen perfekten Ausklang sorgen.",
+        "hu": "A Glencolmcille-i reggel a történelmi zarándokutak és misztikus állókövek felfedezésével indul. A zöldellő dombok között sétálva megtapasztaljuk a völgy ősi történetét és a kora keresztény örökséget. Délben meglátogatjuk a St. Faned kutat, mielőtt felfedeznénk az elmúlt évszázadok autentikus életét a lenyűgöző Folk Village Múzeumban. Délután a séta továbbvezet az idilli falun át, hogy élvezzük a békés part menti tájat az An Trá Bheag strandon. Nyugodt napunkat az óceánnál fejezzük be, ahol a friss ír tengeri levegő és a hullámok morajlása tökéletes lezárást nyújt.",
+        "ro": "Dimineața în Glencolmcille începe cu explorarea traseelor istorice de pelerinaj și a pietrelor mistice. Ne plimbăm prin dealurile verzi, simțind istoria străveche a văii și moștenirea creștină timpurie. La prânz, vizităm fântâna St. Faned înainte de a descoperi viața autentică a secolelor trecute la fascinantul Folk Village Museum. După-amiaza, plimbarea ne conduce prin satul idilic pentru a ne bucura de peisajul de coastă liniștit la An Trá Bheag. Ne încheiem ziua relaxantă la ocean, unde aerul proaspăt al mării irlandeze și sunetul valurilor oferă un final perfect.",
+        "en": "The morning in Glencolmcille begins with an exploration of historic pilgrimage routes and mystical standing stones. We wander through the rolling green hills, sensing the ancient history of the valley and diving deep into the region's early Christian heritage. By midday, we visit St. Faned's Well before discovering the authentic life of past centuries at the fascinating Folk Village Museum. In the afternoon, our walk leads us further through the idyllic village to enjoy the peaceful coastal scenery at An Trá Bheag. We end our relaxing day by the ocean, where the fresh Irish sea air and crashing waves provide a perfect conclusion."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Farranmacbride Court Tomb",
+            "hu": "Farranmacbride Court Tomb",
+            "ro": "Farranmacbride Court Tomb",
+            "en": "Farranmacbride Court Tomb"
+          },
+          "coords": [
+            -8.721563,
+            54.715363
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende neolithische Grabstätte, um die prähistorischen Wurzeln der Gegend zu begreifen, und bringen Sie ein Weitwinkelobjektiv für großartige Fotos mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus sírépítményt, hogy megértse a terület őskori gyökereit, és vigyen magával nagylátószögű objektívet a masszív kövek fotózásához.",
+            "ro": "Explorați acest mormânt neolitic impresionant pentru a înțelege rădăcinile preistorice ale zonei și aduceți un obiectiv cu unghi larg pentru a surprinde amploarea pietrelor masive.",
+            "en": "Explore this impressive Neolithic tomb structure to grasp the deep prehistoric roots of the area, and bring a wide-angle lens to capture the sheer scale of the massive stone layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Turas Ghleann Cholm Cille",
+            "hu": "Turas Ghleann Cholm Cille",
+            "ro": "Turas Ghleann Cholm Cille",
+            "en": "Turas Ghleann Cholm Cille"
+          },
+          "coords": [
+            -8.719495,
+            54.712535
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den alten Menhiren dieses historischen Pilgerwegs, um die frühe keltische Christenheit zu spüren, und tragen Sie unbedingt wasserdichte Stiefel für die Pfade.",
+            "hu": "Sétáljon a történelmi zarándokút ősi állókövei között, hogy megtapasztalja a korai kelta kereszténységet, és mindenképpen viseljen vízálló bakancsot a sáros ösvények miatt.",
+            "ro": "Plimbați-vă printre pietrele antice ale acestui traseu istoric de pelerinaj pentru a simți creștinismul celtic timpuriu, asigurându-vă că purtați cizme impermeabile pentru potecile noroioase.",
+            "en": "Walk among the ancient standing stones of this historical pilgrimage route to connect with early Celtic Christianity, making sure to wear sturdy waterproof boots for the muddy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Glencolumbkille Turas",
+            "hu": "Glencolumbkille Turas",
+            "ro": "Glencolumbkille Turas",
+            "en": "Glencolumbkille Turas"
+          },
+          "coords": [
+            -8.72485,
+            54.71084
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende, mit Kreuzen verzierte Säulen, die Pilger seit Jahrhunderten leiten, und halten Sie eine Karte bereit, um die verstreuten Stationen zu finden.",
+            "hu": "Fedezze fel a lenyűgöző kereszttel vésett oszlopokat, amelyek évszázadok óta vezetik a zarándokokat, és tartson magánál térképet a szétszórt állomások könnyebb megtalálásához.",
+            "ro": "Descoperiți pilonii fascinați cu cruci sculptate care au ghidat pelerinii secole de-a rândul, păstrând o hartă la îndemână pentru a naviga printre stațiunile răspândite.",
+            "en": "Discover fascinating cross-inscribed pillars that have guided pilgrims for centuries across this rugged landscape, keeping a map handy to navigate the scattered valley stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Donnchadh Mac Niallghuis",
+            "hu": "Donnchadh Mac Niallghuis",
+            "ro": "Donnchadh Mac Niallghuis",
+            "en": "Donnchadh Mac Niallghuis"
+          },
+          "coords": [
+            -8.730227,
+            54.708526
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Denkmal für das lokale Erbe, um den kulturellen Geist von Donegal zu verstehen, und nehmen Sie sich Zeit, die Inschriften zu lesen.",
+            "hu": "Látogassa meg ezt a helyi örökségnek szentelt történelmi emlékművet, hogy megértse Donegal kulturális szellemét, és szánjon időt a feliratok elolvasására.",
+            "ro": "Vizitați acest monument istoric dedicat patrimoniului local pentru a înțelege spiritul cultural al regiunii Donegal, făcându-vă timp să citiți plăcile informative.",
+            "en": "Visit this historic monument dedicated to local heritage to understand the enduring cultural spirit of Donegal, taking a moment to read the inscribed plaques detailing his legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Village Museum",
+            "hu": "Folk Village Museum",
+            "ro": "Folk Village Museum",
+            "en": "Folk Village Museum"
+          },
+          "coords": [
+            -8.740779,
+            54.707092
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen authentischen strohgedeckten Cottages, die das ländliche irische Leben illustrieren, und planen Sie Ihren Besuch passend zu den Führungen.",
+            "hu": "Lépjen vissza az időben ezekben az autentikus nádfedeles házikókban, amelyek bemutatják a vidéki ír életet, és időzítse látogatását a vezetett túrákhoz a mélyebb megértés érdekében.",
+            "ro": "Întoarceți-vă în timp în aceste căsuțe autentice cu acoperiș de stuf care ilustrează viața rurală, planificându-vă vizita în jurul orelor de tur ghidat pentru perspective mai profunde.",
+            "en": "Step back in time within these authentic thatched cottages that beautifully illustrate rural Irish life, planning your visit around the guided tour times for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Trá an Ghleanna",
+            "hu": "Trá an Ghleanna",
+            "ro": "Trá an Ghleanna",
+            "en": "Trá an Ghleanna"
+          },
+          "coords": [
+            -8.737334,
+            54.711435
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen weiten Sandstrand entlang, der von Klippen gesäumt ist, und packen Sie eine Windjacke ein, da die Atlantikbrise auch im Sommer ziemlich kühl sein kann.",
+            "hu": "Sétáljon végig ezen a drámai sziklákkal szegélyezett, kiterjedt homokos strandon a pazar kilátásért, és csomagoljon széldzsekit, mert az atlanti szél még nyáron is hűvös.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse încadrate de stânci dramatice pentru priveliști spectaculoase, luând o jachetă de vânt deoarece briza atlantică este rece.",
+            "en": "Stroll along this sweeping sandy beach framed by dramatic cliffs for spectacular coastal views, packing a windbreaker as the Atlantic breeze can be quite chilly even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Glencolumbkille Viewpoint",
+            "hu": "Glencolumbkille Viewpoint",
+            "ro": "Glencolumbkille Viewpoint",
+            "en": "Glencolumbkille Viewpoint"
+          },
+          "coords": [
+            -8.722235,
+            54.703505
+          ],
+          "category": "natural",
+          "arrive_at": "17:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem spektakulären Aussichtspunkt hinauf, um das atemberaubende Panorama von Tal und Meer zu bewundern, und kommen Sie früh, um das beste Licht einzufangen.",
+            "hu": "Másszon fel erre a látványos kilátópontra, hogy megcsodálja a völgyre és a tengerre nyíló lélegzetelállító panorámát, és érkezzen kora reggel a legjobb fotós fényekért.",
+            "ro": "Urcați la acest punct de belvedere spectaculos pentru a admira panorame uluitoare ale văii și mării, ajungând devreme dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Climb to this spectacular vantage point to admire breathtaking panoramic vistas of the valley and sea, arriving early in the morning to catch the best lighting for your photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt mit dem beeindruckenden Farranmacbride Court Tomb, das einen tiefen Einblick in die Vorgeschichte Irlands bietet. Danach radeln wir zu den heiligen Steinen der alten Pilgerroute. Die frische Brise weckt unsere Sinne. Gegen Mittag erkunden wir das Folk Village Museum, wo die Geschichte des ländlichen Lebens greifbar wird. Danach stärken wir uns inmitten historischer Relikte. Am Nachmittag fahren wir an die Küste zum herrlichen Sandstrand Trá an Ghleanna, wo die wilden Wellen brechen. Am Abend radeln wir schließlich zum Glencolumbkille Viewpoint, um das spektakuläre Panorama bei Sonnenuntergang zu bewundern.",
+        "hu": "Kerékpártúránk a lenyűgöző Farranmacbride Court Tomb-nál kezdődik, amely betekintést nyújt Írország őskorába. Ezután az ősi zarándokút szent köveihez tekerünk. A friss szél felélénkíti érzékeinket. Délben felfedezzük a Folk Village Múzeumot, ahol a vidéki élet története kézzelfoghatóvá válik. Később történelmi emlékek között pihenünk meg. Délután a parthoz, a pompás Trá an Ghleanna homokos strandjához tekerünk, ahol a vad hullámok megtörnek. Este végül feltekerünk a Glencolumbkille kilátóponthoz, hogy megcsodáljuk a naplemente nyújtotta drámai és látványos panorámát.",
+        "ro": "Turul nostru cu bicicleta începe la mormântul Farranmacbride, oferind o perspectivă profundă asupra preistoriei Irlandei. Apoi pedalăm spre pietrele sacre ale vechiului traseu de pelerinaj. Briza proaspătă ne trezește simțurile. La prânz explorăm Folk Village Museum, unde istoria vieții rurale devine palpabilă. Mai târziu ne odihnim printre relicve istorice. După-amiaza, mergem pe coastă la frumoasa plajă de nisip Trá an Ghleanna, unde valurile sălbatice se sparg. Seara, pedalăm în cele din urmă la punctul de belvedere Glencolumbkille pentru a admira panorama spectaculoasă a apusului de soare.",
+        "en": "Our bike ride starts at the impressive Farranmacbride Court Tomb, offering deep insights into Ireland's prehistory. We then cycle to the sacred stones of the ancient pilgrimage route. The fresh breeze awakens our senses. At midday, we explore the Folk Village Museum, where the history of rural life becomes wonderfully tangible. We then recharge amid historical relics. In the afternoon, we head to the coast to the magnificent sandy beach of Trá an Ghleanna, where wild waves crash against the shore. In the evening, we finally pedal up to the Glencolumbkille Viewpoint to admire the spectacular sunset panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 5.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Glencolumbkille Viewpoint",
+            "hu": "Glencolumbkille Viewpoint",
+            "ro": "Glencolumbkille Viewpoint",
+            "en": "Glencolumbkille Viewpoint"
+          },
+          "coords": [
+            -8.722235,
+            54.703505
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem spektakulären Aussichtspunkt hinauf, um das atemberaubende Panorama von Tal und Meer zu bewundern, und kommen Sie früh, um das beste Licht einzufangen.",
+            "hu": "Másszon fel erre a látványos kilátópontra, hogy megcsodálja a völgyre és a tengerre nyíló lélegzetelállító panorámát, és érkezzen kora reggel a legjobb fotós fényekért.",
+            "ro": "Urcați la acest punct de belvedere spectaculos pentru a admira panorame uluitoare ale văii și mării, ajungând devreme dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Climb to this spectacular vantage point to admire breathtaking panoramic vistas of the valley and sea, arriving early in the morning to catch the best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Village Museum",
+            "hu": "Folk Village Museum",
+            "ro": "Folk Village Museum",
+            "en": "Folk Village Museum"
+          },
+          "coords": [
+            -8.740779,
+            54.707092
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen authentischen strohgedeckten Cottages, die das ländliche irische Leben illustrieren, und planen Sie Ihren Besuch passend zu den Führungen.",
+            "hu": "Lépjen vissza az időben ezekben az autentikus nádfedeles házikókban, amelyek bemutatják a vidéki ír életet, és időzítse látogatását a vezetett túrákhoz a mélyebb megértés érdekében.",
+            "ro": "Întoarceți-vă în timp în aceste căsuțe autentice cu acoperiș de stuf care ilustrează viața rurală, planificându-vă vizita în jurul orelor de tur ghidat pentru perspective mai profunde.",
+            "en": "Step back in time within these authentic thatched cottages that beautifully illustrate rural Irish life, planning your visit around the guided tour times for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Faned's Well",
+            "hu": "St. Faned's Well",
+            "ro": "St. Faned's Well",
+            "en": "St. Faned's Well"
+          },
+          "coords": [
+            -8.733507,
+            54.70618
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser heiligen Quelle an, die für ihre lokalen Legenden bekannt ist, und bringen Sie ein kleines Andenken mit, um es respektvoll nach lokalem Brauch zu hinterlassen.",
+            "hu": "Álljon meg ennél a békés szent kútnál, amely a helyi legendákról híres, és fontolja meg egy apró emléktárgy tiszteletteljes elhelyezését, ahogyan az itt szokás.",
+            "ro": "Opriți-vă la acest izvor sfânt și liniștit, cunoscut pentru legendele locale, și luați în considerare aducerea unui mic simbol pentru a-l lăsa cu respect, conform obiceiului.",
+            "en": "Pause at this peaceful holy well known for its local lore and supposed healing properties, and consider bringing a small token to leave respectfully as is the local custom."
+          }
+        },
+        {
+          "name": {
+            "de": "Glencolumbkille Turas",
+            "hu": "Glencolumbkille Turas",
+            "ro": "Glencolumbkille Turas",
+            "en": "Glencolumbkille Turas"
+          },
+          "coords": [
+            -8.72485,
+            54.71084
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende, mit Kreuzen verzierte Säulen, die Pilger seit Jahrhunderten leiten, und halten Sie eine Karte bereit, um die verstreuten Stationen zu finden.",
+            "hu": "Fedezze fel a lenyűgöző kereszttel vésett oszlopokat, amelyek évszázadok óta vezetik a zarándokokat, és tartson magánál térképet a szétszórt állomások könnyebb megtalálásához.",
+            "ro": "Descoperiți pilonii fascinați cu cruci sculptate care au ghidat pelerinii secole de-a rândul, păstrând o hartă la îndemână pentru a naviga printre stațiunile răspândite.",
+            "en": "Discover fascinating cross-inscribed pillars that have guided pilgrims for centuries across this rugged landscape, keeping a map handy to navigate the scattered valley stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Turas Ghleann Cholm Cille",
+            "hu": "Turas Ghleann Cholm Cille",
+            "ro": "Turas Ghleann Cholm Cille",
+            "en": "Turas Ghleann Cholm Cille"
+          },
+          "coords": [
+            -8.719495,
+            54.712535
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den alten Menhiren dieses historischen Pilgerwegs, um die frühe keltische Christenheit zu spüren, und tragen Sie unbedingt wasserdichte Stiefel für die Pfade.",
+            "hu": "Sétáljon a történelmi zarándokút ősi állókövei között, hogy megtapasztalja a korai kelta kereszténységet, és mindenképpen viseljen vízálló bakancsot a sáros ösvények miatt.",
+            "ro": "Plimbați-vă printre pietrele antice ale acestui traseu istoric de pelerinaj pentru a simți creștinismul celtic timpuriu, asigurându-vă că purtați cizme impermeabile pentru potecile noroioase.",
+            "en": "Walk among the ancient standing stones of this historical pilgrimage route to connect with early Celtic Christianity, making sure to wear sturdy waterproof boots for the muddy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Farranmacbride Court Tomb",
+            "hu": "Farranmacbride Court Tomb",
+            "ro": "Farranmacbride Court Tomb",
+            "en": "Farranmacbride Court Tomb"
+          },
+          "coords": [
+            -8.721563,
+            54.715363
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende neolithische Grabstätte, um die prähistorischen Wurzeln der Gegend zu begreifen, und bringen Sie ein Weitwinkelobjektiv für großartige Fotos mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus sírépítményt, hogy megértse a terület őskori gyökereit, és vigyen magával nagylátószögű objektívet a masszív kövek fotózásához.",
+            "ro": "Explorați acest mormânt neolitic impresionant pentru a înțelege rădăcinile preistorice ale zonei și aduceți un obiectiv cu unghi larg pentru a surprinde amploarea pietrelor masive.",
+            "en": "Explore this impressive Neolithic tomb structure to grasp the deep prehistoric roots of the area, and bring a wide-angle lens to capture the sheer scale of the massive stone layout."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Columban Chapel",
+            "hu": "St. Columban Chapel",
+            "ro": "St. Columban Chapel",
+            "en": "St. Columban Chapel"
+          },
+          "coords": [
+            -8.738725,
+            54.718013
+          ],
+          "category": "religious",
+          "arrive_at": "15:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser malerischen religiösen Stätte in der rauen Landschaft und nehmen Sie sich einen Moment Zeit für die traditionelle Architektur.",
+            "hu": "Tapasztalja meg ennek a zord tájon fekvő különleges vallási helynek a nyugodt légkörét, és szánjon egy percet a vidéki Írországra jellemző hagyományos építészet megcsodálására.",
+            "ro": "Experimentați atmosfera senină a acestui sit religios pitoresc așezat în peisajul accidentat și faceți-vă un moment pentru a admira arhitectura tradițională irlandeză.",
+            "en": "Experience the serene atmosphere of this quaint religious site perched in the rugged landscape, and take a moment to admire the traditional architecture typical of rural Ireland."
+          }
+        },
+        {
+          "name": {
+            "de": "Trá an Ghleanna",
+            "hu": "Trá an Ghleanna",
+            "ro": "Trá an Ghleanna",
+            "en": "Trá an Ghleanna"
+          },
+          "coords": [
+            -8.737334,
+            54.711435
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen weiten Sandstrand entlang, der von Klippen gesäumt ist, und packen Sie eine Windjacke ein, da die Atlantikbrise auch im Sommer ziemlich kühl sein kann.",
+            "hu": "Sétáljon végig ezen a drámai sziklákkal szegélyezett, kiterjedt homokos strandon a pazar kilátásért, és csomagoljon széldzsekit, mert az atlanti szél még nyáron is hűvös.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse încadrate de stânci dramatice pentru priveliști spectaculoase, luând o jachetă de vânt deoarece briza atlantică este rece.",
+            "en": "Stroll along this sweeping sandy beach framed by dramatic cliffs for spectacular coastal views, packing a windbreaker as the Atlantic breeze can be quite chilly even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unseren Roadtrip entspannt am Glencolumbkille Viewpoint, wo wir das weite Tal aus der Vogelperspektive überblicken. Das Morgenlicht taucht die Klippen in ein sanftes Farbenspiel. Mittags tauchen wir im Folk Village Museum und an den historischen Turas-Stationen in die Kultur und Religion vergangener Jahrtausende ein. Das Auto macht die Distanzen hier im Tal angenehm kurz. Nachmittags besuchen wir das abgelegene neolithische Grab und eine charmante kleine Kapelle auf den Klippen. Zum Ausklang entspannen wir uns am weitläufigen Strand Trá an Ghleanna und lauschen dem Ozean.",
+        "hu": "Autós túránkat a Glencolumbkille kilátónál kezdjük, ahonnan madártávlatból láthatjuk a hatalmas völgyet. A reggeli fény lágy színekben fürdeti a sziklákat. Délben elmerülünk az elmúlt évezredek kultúrájában és vallásában a Folk Village Múzeumban és a történelmi Turas állomásokon. Az autó kényelmesen lerövidíti a völgy távolságait. Délután meglátogatjuk a távoli neolitikus sírt és egy bájos kis kápolnát a sziklákon. A nap végén a hatalmas Trá an Ghleanna strandon pihenünk, miközben az óceán hullámait és nyugtató hangját hallgatjuk.",
+        "ro": "Începem călătoria cu mașina la punctul de belvedere Glencolumbkille, unde privim valea de sus. Lumina dimineții scaldă stâncile în culori blânde, oferind un peisaj minunat. La prânz, ne scufundăm în cultura și religia mileniilor trecute la Folk Village Museum și la stațiunile istorice Turas. Mașina scurtează confortabil distanțele din vale. După-amiaza, vizităm mormântul neolitic izolat și o capelă mică fermecătoare de pe stânci. Ne încheiem ziua relaxându-ne pe plaja vastă Trá an Ghleanna, ascultând oceanul și bucurându-ne de peisajul natural.",
+        "en": "We start our road trip with ease at the Glencolumbkille Viewpoint, looking out over the expansive valley from a bird's-eye view. The morning light bathes the cliffs in soft, beautiful colors. At midday, we delve into the culture and religion of past millennia at the Folk Village Museum and the historic Turas stations. The car makes the valley distances pleasantly short. In the afternoon, we visit the remote Neolithic tomb and a charming little chapel perched on the cliffs. We wind down the day relaxing on the vast Trá an Ghleanna beach, listening to the roaring ocean waves."
+      }
+    }
+  }
+}

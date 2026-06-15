@@ -1,0 +1,543 @@
+{
+  "city_id": "lannilis",
+  "anchor": {
+    "name": "Lannilis",
+    "coords": [
+      -4.5194,
+      48.5697
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 5.76,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -4.521651,
+            48.569764
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, ein Zeugnis des bretonischen Glaubens, und besuchen Sie sie früh, um das Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét, a helyi breton hit bizonyítékát, és lépjen be korán, hogy élvezze a csodás reggeli fényeket az üvegablakokon keresztül.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o mărturie a credinței bretone, și intrați devreme pentru a surprinde lumina dimineții prin vitraliile sale.",
+            "en": "Admire the striking architecture of this central church, a testament to local Breton faith, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sébastien Chapel",
+            "hu": "Saint-Sébastien Chapel",
+            "ro": "Saint-Sébastien Chapel",
+            "en": "Saint-Sébastien Chapel"
+          },
+          "coords": [
+            -4.517105,
+            48.564118
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bescheidene, aber historische Kapelle, die Generationen diente, und spazieren Sie um den kleinen Außenfriedhof für einen Moment der ruhigen Besinnung.",
+            "hu": "Fedezze fel ezt a szerény, de történelmi kápolnát, amely generációkat szolgált, és ne felejtsen el sétálni egyet a kis külső temetőben egy békés, csendes pillanatért.",
+            "ro": "Descoperiți această capelă modestă, dar istorică, și asigurați-vă că vă plimbați prin micul cimitir exterior pentru a vă bucura de un moment liniștit de reflecție.",
+            "en": "Discover this modest but historic chapel that served generations of locals, and remember to walk around the small exterior graveyard for a peaceful moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Paluden",
+            "hu": "Pont de Paluden",
+            "ro": "Pont de Paluden",
+            "en": "Pont de Paluden"
+          },
+          "coords": [
+            -4.515173,
+            48.58753
+          ],
+          "category": "monument",
+          "arrive_at": "11:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stehen Sie auf dieser markanten Brücke mit weitem Blick über das Wasser, einem wichtigen Kreuzungspunkt, und halten Sie Ihre Kamera bereit, um die vorbeifahrenden Boote zu fotografieren.",
+            "hu": "Álljon meg ezen a vízre nyíló kilátást nyújtó ikonikus hídon, amely fontos átkelőhely, és tartsa készenlétben a fényképezőgépét az alatta elhaladó hajók megörökítéséhez.",
+            "ro": "Stați pe acest pod emblematic care oferă vederi ample asupra apei, un punct de trecere esențial, și pregătiți aparatul foto pentru a surprinde bărcile care trec pe dedesubt.",
+            "en": "Stand on this landmark bridge offering wide views over the water, an essential crossing point in Lannilis, and keep your camera ready for capturing the boats passing underneath."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kerouartz",
+            "hu": "Château de Kerouartz",
+            "ro": "Château de Kerouartz",
+            "en": "Château de Kerouartz"
+          },
+          "coords": [
+            -4.502787,
+            48.581995
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände dieses beeindruckenden Schlosses, das den bretonischen Adel präsentiert, und tragen Sie bequeme Schuhe, um das Anwesen in vollen Zügen zu genießen.",
+            "hu": "Fedezze fel e lenyűgöző kastély hatalmas birtokát, amely a breton nemességet mutatja be, és viseljen kényelmes cipőt a kiterjedt környező terület teljes bejárásához.",
+            "ro": "Explorați domeniul vast al acestui castel istoric impresionant ce ilustrează nobilimea bretonă și purtați încălțăminte confortabilă pentru a vă bucura de întreaga proprietate.",
+            "en": "Explore the grand grounds of this impressive historical castle showcasing classical Breton nobility, and wear comfortable walking shoes to fully enjoy the extensive surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Paul-Aurélien",
+            "hu": "Chapelle Saint-Paul-Aurélien",
+            "ro": "Chapelle Saint-Paul-Aurélien",
+            "en": "Chapelle Saint-Paul-Aurélien"
+          },
+          "coords": [
+            -4.484527,
+            48.577691
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die einem verehrten lokalen Heiligen gewidmet ist, und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Haupteingang zu betrachten.",
+            "hu": "Látogasson el erre a bájos vallási helyszínre, amelyet egy helyi szentnek szenteltek, és szánjon időt a főbejárat körüli bonyolult kőfaragványok megvizsgálására a belépés előtt.",
+            "ro": "Vizitați acest loc religios fermecător dedicat unui sfânt local venerat și faceți-vă timp pentru a studia sculpturile detaliate în piatră din jurul intrării principale.",
+            "en": "Visit this charming religious site dedicated to a revered local saint, and take time to inspect the intricate stone carvings around the main entrance before stepping inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Lannilis, wo die beiden zentralen Kapellen das tief verwurzelte spirituelle Erbe der Bretagne veranschaulichen. Gegen Mittag führt der Weg sanft hinaus in Richtung der historischen Kreuzungen, vorbei an landschaftlich reizvollen und markanten Landmarken der Region. Der Nachmittag ist geprägt von der Pracht des Schlosses, das einen Einblick in das Leben der Adligen von einst gewährt. Am Abend rundet ein letzter besinnlicher Halt an einer charmanten Kapelle den erfüllten Wandertag friedlich ab.",
+        "hu": "A reggel Lannilis szívében indul, ahol a két központi kápolna gyönyörűen illusztrálja Bretagne mélyen gyökerező szellemi örökségét. Dél körül az utazás kivezet a történelmi útkereszteződések felé, bemutatva a vidék festői és fontos tájékozódási pontjait. A délutáni órákat a kastély nagyszerűsége határozza meg, bepillantást engedve az egykori nemesség életébe. Estefelé egy utolsó csendes megálló egy bájos kápolnánál békésen zárja le ezt a tartalmas sétával töltött napot.",
+        "ro": "Dimineața începe în inima orașului Lannilis, unde două capele centrale ilustrează perfect moștenirea spirituală profundă a regiunii Bretania. Până la prânz, traseul vă poartă spre intersecțiile istorice, trecând pe lângă repere pitorești și importante ale zonei. După-amiaza este dedicată explorării măreției castelului, oferind o perspectivă rară asupra vieții nobiliare de altădată. Seara, o ultimă oprire liniștită la o capelă fermecătoare încheie în pace această zi lungă de plimbare.",
+        "en": "The morning begins in the heart of Lannilis, where two central chapels beautifully illustrate the deeply rooted spiritual heritage of Brittany. By midday, the gentle walking route leads outward toward historic crossings, showcasing the region's scenic and vital landmarks. The afternoon is defined by the grandeur of the local castle, offering a glimpse into the opulent lives of past nobility. As evening approaches, a final contemplative stop at a charming chapel peacefully concludes this fulfilling day of exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 15.06,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -4.521651,
+            48.569764
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, ein Zeugnis des bretonischen Glaubens, und besuchen Sie sie früh, um das Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét, a helyi breton hit bizonyítékát, és lépjen be korán, hogy élvezze a csodás reggeli fényeket az üvegablakokon keresztül.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o mărturie a credinței bretone, și intrați devreme pentru a surprinde lumina dimineții prin vitraliile sale.",
+            "en": "Admire the striking architecture of this central church, a testament to local Breton faith, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Paluden",
+            "hu": "Pont de Paluden",
+            "ro": "Pont de Paluden",
+            "en": "Pont de Paluden"
+          },
+          "coords": [
+            -4.515173,
+            48.58753
+          ],
+          "category": "monument",
+          "arrive_at": "10:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stehen Sie auf dieser markanten Brücke mit weitem Blick über das Wasser, einem wichtigen Kreuzungspunkt, und halten Sie Ihre Kamera bereit, um die vorbeifahrenden Boote zu fotografieren.",
+            "hu": "Álljon meg ezen a vízre nyíló kilátást nyújtó ikonikus hídon, amely fontos átkelőhely, és tartsa készenlétben a fényképezőgépét az alatta elhaladó hajók megörökítéséhez.",
+            "ro": "Stați pe acest pod emblematic care oferă vederi ample asupra apei, un punct de trecere esențial, și pregătiți aparatul foto pentru a surprinde bărcile care trec pe dedesubt.",
+            "en": "Stand on this landmark bridge offering wide views over the water, an essential crossing point in Lannilis, and keep your camera ready for capturing the boats passing underneath."
+          }
+        },
+        {
+          "name": {
+            "de": "Aber Wrac'h Estuary",
+            "hu": "Aber Wrac'h Estuary",
+            "ro": "Aber Wrac'h Estuary",
+            "en": "Aber Wrac'h Estuary"
+          },
+          "coords": [
+            -4.565683,
+            48.590913
+          ],
+          "category": "park",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende natürliche Schönheit dieser riesigen Mündung, wo Fluss auf Meer trifft, und bringen Sie eine Windjacke mit, da die Brisen hier sehr frisch sein können.",
+            "hu": "Gyönyörködjön e hatalmas tölcsértorkolat lélegzetelállító szépségében, ahol a folyó a tengerbe ömlik, és hozzon magával széldzsekit, mert a parti szél itt elég erős lehet.",
+            "ro": "Admirați frumusețea naturală a acestui vast estuar unde râul întâlnește marea și luați o jachetă de vânt, deoarece briza de coastă poate fi surprinzător de rece aici.",
+            "en": "Take in the breathtaking natural beauty of this vast estuary where river meets sea, and bring a windbreaker as the coastal breezes here can be surprisingly brisk even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kerouartz",
+            "hu": "Château de Kerouartz",
+            "ro": "Château de Kerouartz",
+            "en": "Château de Kerouartz"
+          },
+          "coords": [
+            -4.502787,
+            48.581995
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände dieses beeindruckenden Schlosses, das den bretonischen Adel präsentiert, und tragen Sie bequeme Schuhe, um das Anwesen in vollen Zügen zu genießen.",
+            "hu": "Fedezze fel e lenyűgöző kastély hatalmas birtokát, amely a breton nemességet mutatja be, és viseljen kényelmes cipőt a kiterjedt környező terület teljes bejárásához.",
+            "ro": "Explorați domeniul vast al acestui castel istoric impresionant ce ilustrează nobilimea bretonă și purtați încălțăminte confortabilă pentru a vă bucura de întreaga proprietate.",
+            "en": "Explore the grand grounds of this impressive historical castle showcasing classical Breton nobility, and wear comfortable walking shoes to fully enjoy the extensive surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison en Ruine",
+            "hu": "Maison en Ruine",
+            "ro": "Maison en Ruine",
+            "en": "Maison en Ruine"
+          },
+          "coords": [
+            -4.483362,
+            48.574799
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romantische Atmosphäre dieser von Pflanzen überwucherten antiken Ruinen und bleiben Sie auf den Hauptwegen, da die instabilen Bereiche nicht sicher zum Klettern sind.",
+            "hu": "Csodálja meg e növényzettel benőtt, ősi romok romantikus hangulatát, és maradjon a fő ösvényeken, mivel a szerkezetileg instabil részekre mászni egyáltalán nem biztonságos.",
+            "ro": "Admirați atmosfera romantică a acestor ruine antice înconjurate de vegetație și rămâneți pe cărările principale, deoarece zonele instabile structural nu sunt sigure pentru cățărat.",
+            "en": "Marvel at the romantic atmosphere of these ancient ruins surrounded by overgrowth, and stick to the main paths as the structurally unstable areas are not safe to climb on."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Paul-Aurélien",
+            "hu": "Chapelle Saint-Paul-Aurélien",
+            "ro": "Chapelle Saint-Paul-Aurélien",
+            "en": "Chapelle Saint-Paul-Aurélien"
+          },
+          "coords": [
+            -4.484527,
+            48.577691
+          ],
+          "category": "religious",
+          "arrive_at": "15:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die einem verehrten lokalen Heiligen gewidmet ist, und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Haupteingang zu betrachten.",
+            "hu": "Látogasson el erre a bájos vallási helyszínre, amelyet egy helyi szentnek szenteltek, és szánjon időt a főbejárat körüli bonyolult kőfaragványok megvizsgálására a belépés előtt.",
+            "ro": "Vizitați acest loc religios fermecător dedicat unui sfânt local venerat și faceți-vă timp pentru a studia sculpturile detaliate în piatră din jurul intrării principale.",
+            "en": "Visit this charming religious site dedicated to a revered local saint, and take time to inspect the intricate stone carvings around the main entrance before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sébastien Chapel",
+            "hu": "Saint-Sébastien Chapel",
+            "ro": "Saint-Sébastien Chapel",
+            "en": "Saint-Sébastien Chapel"
+          },
+          "coords": [
+            -4.517105,
+            48.564118
+          ],
+          "category": "religious",
+          "arrive_at": "16:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bescheidene, aber historische Kapelle, die Generationen diente, und spazieren Sie um den kleinen Außenfriedhof für einen Moment der ruhigen Besinnung.",
+            "hu": "Fedezze fel ezt a szerény, de történelmi kápolnát, amely generációkat szolgált, és ne felejtsen el sétálni egyet a kis külső temetőben egy békés, csendes pillanatért.",
+            "ro": "Descoperiți această capelă modestă, dar istorică, și asigurați-vă că vă plimbați prin micul cimitir exterior pentru a vă bucura de un moment liniștit de reflecție.",
+            "en": "Discover this modest but historic chapel that served generations of locals, and remember to walk around the small exterior graveyard for a peaceful moment of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet dynamisch im Stadtzentrum, bevor die Radtour zügig zum ikonischen Pont de Paluden führt, einem wahren Wahrzeichen der Gegend. Bis zum Mittag erreichen Sie die weite Mündung des Aber Wrac'h, wo atemberaubende Küstenausblicke auf Sie warten. Der Nachmittag wird mit der Erkundung des großen Schlosses und romantischer Ruinen verbracht, die beide faszinierende Geschichten erzählen. Am Abend rollen Sie sanft zu zwei friedlichen Kapellen, die diesen aktiven Tag in Ruhe ausklingen lassen.",
+        "hu": "A reggel dinamikusan indul a városközpontban, majd a kerékpártúra gyorsan eléri az ikonikus Pont de Paluden hídját, a környék egyik igazi szimbólumát. Délre megérkezik az Aber Wrac'h torkolatához, ahol lélegzetelállító part menti kilátás fogadja. A délutánt a hatalmas kastély és a romantikus romok felfedezése tölti ki, melyek lenyűgöző történeteket rejtenek. Estefelé finoman begurul két békés kápolnához, amelyek nyugodt lezárást biztosítanak ennek az aktív napnak.",
+        "ro": "Dimineața începe dinamic în centrul orașului, înainte ca traseul de biciclete să ducă rapid spre emblematicul pod Paluden, un simbol al zonei. Până la prânz, ajungeți la vastul estuar Aber Wrac'h, unde vă așteaptă priveliști de coastă uluitoare. După-amiaza este petrecută explorând mărețul castel și ruinele romantice, ambele ascunzând povești fascinante. Seara, pedalați ușor spre două capele liniștite, care oferă un sfârșit pașnic și relaxant acestei zile active.",
+        "en": "The morning starts dynamically in the town center before the cycling route quickly leads to the iconic Pont de Paluden, a true landmark of the area. By midday, you reach the expansive Aber Wrac'h Estuary, where breathtaking coastal views await. The afternoon is spent exploring the grand castle and romantic ruins, both of which hold fascinating historical stories. In the evening, you smoothly roll toward two peaceful chapels that provide a serene and quiet end to this active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 17.61,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -4.521651,
+            48.569764
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, ein Zeugnis des bretonischen Glaubens, und besuchen Sie sie früh, um das Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét, a helyi breton hit bizonyítékát, és lépjen be korán, hogy élvezze a csodás reggeli fényeket az üvegablakokon keresztül.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o mărturie a credinței bretone, și intrați devreme pentru a surprinde lumina dimineții prin vitraliile sale.",
+            "en": "Admire the striking architecture of this central church, a testament to local Breton faith, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sébastien Chapel",
+            "hu": "Saint-Sébastien Chapel",
+            "ro": "Saint-Sébastien Chapel",
+            "en": "Saint-Sébastien Chapel"
+          },
+          "coords": [
+            -4.517105,
+            48.564118
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bescheidene, aber historische Kapelle, die Generationen diente, und spazieren Sie um den kleinen Außenfriedhof für einen Moment der ruhigen Besinnung.",
+            "hu": "Fedezze fel ezt a szerény, de történelmi kápolnát, amely generációkat szolgált, és ne felejtsen el sétálni egyet a kis külső temetőben egy békés, csendes pillanatért.",
+            "ro": "Descoperiți această capelă modestă, dar istorică, și asigurați-vă că vă plimbați prin micul cimitir exterior pentru a vă bucura de un moment liniștit de reflecție.",
+            "en": "Discover this modest but historic chapel that served generations of locals, and remember to walk around the small exterior graveyard for a peaceful moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pol-Aurélien",
+            "hu": "Église Saint-Pol-Aurélien",
+            "ro": "Église Saint-Pol-Aurélien",
+            "en": "Église Saint-Pol-Aurélien"
+          },
+          "coords": [
+            -4.537872,
+            48.551418
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser klassischen bretonischen Kirche in einer ruhigen Gegend und beachten Sie das sorgfältig erhaltene hölzerne Altarbild in der Seitenkapelle.",
+            "hu": "Tapasztalja meg e csendes környéken megbúvó klasszikus breton templom nyugodt szellemi hangulatát, és figyelje meg az oldalkápolnában elrejtett, gondosan megőrzött fa oltárképet.",
+            "ro": "Experimentați ambianța spirituală a acestei biserici clasice bretone situată într-o zonă liniștită și remarcați altarul din lemn atent conservat ascuns în capela laterală.",
+            "en": "Experience the serene spiritual ambiance of this classic Breton church nestled in a quiet area, and notice the carefully preserved wooden altarpiece hidden in the side chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin du Roudous",
+            "hu": "Moulin du Roudous",
+            "ro": "Moulin du Roudous",
+            "en": "Moulin du Roudous"
+          },
+          "coords": [
+            -4.528533,
+            48.545506
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die landwirtschaftliche Vergangenheit der Region in dieser historischen Mühle ein und lauschen Sie dem rauschenden Wasser des Baches, das einst das Rad antrieb.",
+            "hu": "Merüljön el a régió mezőgazdasági múltjában ezen a jól megőrzött történelmi malmon keresztül, és hallgassa a közeli patak csobogását, amely egykor a hatalmas kereket hajtotta.",
+            "ro": "Pătrundeți în trecutul agricol al regiunii la această moară istorică bine conservată și ascultați susurul apei din pârâul din apropiere, care odinioară alimenta roata masivă.",
+            "en": "Delve into the region's agricultural past at this well-preserved historic mill, and listen carefully for the rushing water from the nearby stream that once powered the massive wheel."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Moulin d'Avoine",
+            "hu": "Étang du Moulin d'Avoine",
+            "ro": "Étang du Moulin d'Avoine",
+            "en": "Étang du Moulin d'Avoine"
+          },
+          "coords": [
+            -4.484991,
+            48.537307
+          ],
+          "category": "park",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser dieses malerischen Teiches voller lokaler Wildtiere und bringen Sie ein kleines Picknick mit, um es auf den grasbewachsenen Ufern zu genießen.",
+            "hu": "Pihenjen meg a helyi vadvilággal teli festői tó nyugodt vizénél, és hozzon magával egy könnyű pikniket, amit az érett fák árnyékában, a füves parton fogyaszthat el.",
+            "ro": "Relaxați-vă pe malul apelor calme ale acestui iaz pitoresc plin de animale sălbatice și luați în considerare un mic picnic pentru a vă bucura de umbra copacilor pe iarbă.",
+            "en": "Relax by the calm waters of this picturesque pond teeming with local wildlife, and consider packing a light picnic to enjoy on the grassy banks under the shade of mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison en Ruine",
+            "hu": "Maison en Ruine",
+            "ro": "Maison en Ruine",
+            "en": "Maison en Ruine"
+          },
+          "coords": [
+            -4.483362,
+            48.574799
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romantische Atmosphäre dieser von Pflanzen überwucherten antiken Ruinen und bleiben Sie auf den Hauptwegen, da die instabilen Bereiche nicht sicher zum Klettern sind.",
+            "hu": "Csodálja meg e növényzettel benőtt, ősi romok romantikus hangulatát, és maradjon a fő ösvényeken, mivel a szerkezetileg instabil részekre mászni egyáltalán nem biztonságos.",
+            "ro": "Admirați atmosfera romantică a acestor ruine antice înconjurate de vegetație și rămâneți pe cărările principale, deoarece zonele instabile structural nu sunt sigure pentru cățărat.",
+            "en": "Marvel at the romantic atmosphere of these ancient ruins surrounded by overgrowth, and stick to the main paths as the structurally unstable areas are not safe to climb on."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Paul-Aurélien",
+            "hu": "Chapelle Saint-Paul-Aurélien",
+            "ro": "Chapelle Saint-Paul-Aurélien",
+            "en": "Chapelle Saint-Paul-Aurélien"
+          },
+          "coords": [
+            -4.484527,
+            48.577691
+          ],
+          "category": "religious",
+          "arrive_at": "15:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die einem verehrten lokalen Heiligen gewidmet ist, und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Haupteingang zu betrachten.",
+            "hu": "Látogasson el erre a bájos vallási helyszínre, amelyet egy helyi szentnek szenteltek, és szánjon időt a főbejárat körüli bonyolult kőfaragványok megvizsgálására a belépés előtt.",
+            "ro": "Vizitați acest loc religios fermecător dedicat unui sfânt local venerat și faceți-vă timp pentru a studia sculpturile detaliate în piatră din jurul intrării principale.",
+            "en": "Visit this charming religious site dedicated to a revered local saint, and take time to inspect the intricate stone carvings around the main entrance before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kerouartz",
+            "hu": "Château de Kerouartz",
+            "ro": "Château de Kerouartz",
+            "en": "Château de Kerouartz"
+          },
+          "coords": [
+            -4.502787,
+            48.581995
+          ],
+          "category": "historical",
+          "arrive_at": "16:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände dieses beeindruckenden Schlosses, das den bretonischen Adel präsentiert, und tragen Sie bequeme Schuhe, um das Anwesen in vollen Zügen zu genießen.",
+            "hu": "Fedezze fel e lenyűgöző kastély hatalmas birtokát, amely a breton nemességet mutatja be, és viseljen kényelmes cipőt a kiterjedt környező terület teljes bejárásához.",
+            "ro": "Explorați domeniul vast al acestui castel istoric impresionant ce ilustrează nobilimea bretonă și purtați încălțăminte confortabilă pentru a vă bucura de întreaga proprietate.",
+            "en": "Explore the grand grounds of this impressive historical castle showcasing classical Breton nobility, and wear comfortable walking shoes to fully enjoy the extensive surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Aber Wrac'h Estuary",
+            "hu": "Aber Wrac'h Estuary",
+            "ro": "Aber Wrac'h Estuary",
+            "en": "Aber Wrac'h Estuary"
+          },
+          "coords": [
+            -4.565683,
+            48.590913
+          ],
+          "category": "park",
+          "arrive_at": "17:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende natürliche Schönheit dieser riesigen Mündung, wo Fluss auf Meer trifft, und bringen Sie eine Windjacke mit, da die Brisen hier sehr frisch sein können.",
+            "hu": "Gyönyörködjön e hatalmas tölcsértorkolat lélegzetelállító szépségében, ahol a folyó a tengerbe ömlik, és hozzon magával széldzsekit, mert a parti szél itt elég erős lehet.",
+            "ro": "Admirați frumusețea naturală a acestui vast estuar unde râul întâlnește marea și luați o jachetă de vânt, deoarece briza de coastă poate fi surprinzător de rece aici.",
+            "en": "Take in the breathtaking natural beauty of this vast estuary where river meets sea, and bring a windbreaker as the coastal breezes here can be surprisingly brisk even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag bietet eine reizvolle Fahrt durch Lannilis, wobei drei historische religiöse Stätten den kulturellen Reichtum der Region deutlich machen. Gegen Mittag tauchen Sie an einer alten Mühle in die Vergangenheit ein, gefolgt von einer entspannenden Pause an einem malerischen Naturteich. Der Nachmittag kombiniert die raue Schönheit verfallener Ruinen mit der erhaltenen Pracht des majestätischen Schlosses Kerouartz. Zum Abschluss des Tages fahren Sie an die beeindruckende Mündung, wo ein unvergesslicher Sonnenuntergang auf Sie wartet.",
+        "hu": "A délelőtt egy varázslatos autózást kínál Lannilisben, ahol három történelmi vallási helyszín mutatja be a régió kulturális gazdagságát. Dél körül egy régi malomnál merülhet el a múltban, amit egy pihentető szünet követ egy festői természeti tónál. A délután ötvözi a romos épületek nyers szépségét a fenséges Kerouartz kastély megőrzött pompájával. A nap zárásaként elvezet a lenyűgöző tölcsértorkolathoz, ahol egy felejthetetlen naplemente várja a tengerparton.",
+        "ro": "Dimineața oferă o plimbare încântătoare cu mașina prin Lannilis, unde trei situri religioase istorice evidențiază bogăția culturală a regiunii. În jurul prânzului, pătrundeți în trecut la o veche moară, urmată de o pauză relaxantă la un iaz natural pitoresc. După-amiaza combină frumusețea aspră a ruinelor decăzute cu splendoarea conservată a maiestuosului castel Kerouartz. Pentru a încheia ziua, conduceți spre impresionantul estuar, unde vă așteaptă un apus de soare de neuitat.",
+        "en": "The morning offers a delightful drive through Lannilis, with three historical religious sites highlighting the region's rich cultural tapestry. Around midday, you delve into the past at an old mill, followed by a relaxing and scenic break at a picturesque natural pond. The afternoon perfectly pairs the raw beauty of overgrown ruins with the preserved splendor of the majestic Kerouartz Castle. To cap off the day, you drive to the sweeping estuary, where an unforgettable coastal sunset awaits."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-costa-nova-cities-v2",
+  "anchor": {
+    "name": "Costa Nova",
+    "coords": [
+      -8.750567,
+      40.614767
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:06",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "case colorate",
+            "hu": "case colorate",
+            "ro": "case colorate",
+            "en": "case colorate"
+          },
+          "coords": [
+            -8.749733,
+            40.621811
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die legendären gestreiften Fischerhäuschen, die den Charme von Costa Nova ausmachen, und bringen Sie ein Weitwinkelobjektiv für lebhafte Fotos mit.",
+            "hu": "Csodálja meg Costa Nova ikonikus, csíkos egykori halászházait, melyek a település varázsát adják, és feltétlenül hozzon magával széles látószögű lencsét a fotókhoz.",
+            "ro": "Admirați iconicele case cu dungi care definesc farmecul din Costa Nova, folosite inițial de pescari, și aduceți un obiectiv cu unghi larg pentru fotografii vibrante.",
+            "en": "Admire the iconic striped houses that define Costa Nova's charm, originally used by fishermen to store gear, so bring a wide-angle lens for the best vibrant photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Palheiro de José Estêvão",
+            "hu": "Palheiro de José Estêvão",
+            "ro": "Palheiro de José Estêvão",
+            "en": "Palheiro de José Estêvão"
+          },
+          "coords": [
+            -8.74991,
+            40.619707
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen gestreiften Heuschober eines berühmten Politikers und achten Sie auf die gut erhaltene Architektur sowie verfügbare lokale Führer.",
+            "hu": "Fedezze fel egy híres parlamenti képviselő egykori csíkos faházát, megcsodálva annak megőrzött építészetét, miközben érdemes helyi idegenvezetőhöz csatlakozni itt.",
+            "ro": "Explorați acest hambar istoric din lemn cu dungi al unui celebru parlamentar, observându-i arhitectura conservată, în timp ce căutați ghizii locali disponibili aici.",
+            "en": "Explore this historic striped wooden haystack once owned by a famous parliamentarian, observing its preserved architecture while keeping an eye out for local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Costa Nova",
+            "hu": "Praia da Costa Nova",
+            "ro": "Praia da Costa Nova",
+            "en": "Praia da Costa Nova"
+          },
+          "coords": [
+            -8.752878,
+            40.619566
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit seinen Atlantikwellen, ideal für einen Spaziergang, aber packen Sie wegen der steifen Brise eine Windjacke ein.",
+            "hu": "Pihenjen ezen a hatalmas homokos strandon, amely az atlanti hullámokról ismert és tökéletes egy sétához, de a tengeri szellő miatt mindenképp hozzon széldzsekit.",
+            "ro": "Relaxați-vă pe această plajă imensă de nisip cunoscută pentru valurile atlantice, perfectă pentru o plimbare, așa că luați o jachetă de vânt pentru briza puternică.",
+            "en": "Relax on this expansive sandy beach known for its rolling Atlantic waves, making it perfect for an invigorating afternoon walk, so pack a windbreaker for the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "hu": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "ro": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "en": "Kitesurf und Wingsurfspot Costa Nova (Süd)"
+          },
+          "coords": [
+            -8.7484,
+            40.606976
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie rasante Wassersportarten an dieser erstklassigen Lagune, die von stetigen thermischen Winden profitiert, weshalb der frühe Nachmittag ideal ist.",
+            "hu": "Figyelje az adrenalindús vízisportokat ezen a kiváló lagúnán, amely folyamatos termikus szelekkel büszkélkedhet, így a kora délután a legalkalmasabb a látogatásra.",
+            "ro": "Urmăriți sporturi nautice pline de adrenalină la această lagună de top cu vânturi termice constante, prima parte a după-amiezii fiind ideală pentru o vizită aici.",
+            "en": "Watch adrenaline-pumping water sports at this premier lagoon location, which benefits from consistent thermal winds, making early afternoon the best time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da Borda",
+            "hu": "Baloiço da Borda",
+            "ro": "Baloiço da Borda",
+            "en": "Baloiço da Borda"
+          },
+          "coords": [
+            -8.742276,
+            40.595999
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schaukeln Sie an diesem malerischen Aussichtspunkt am Ufer mit Blick auf die ruhige Flussmündung und versuchen Sie, kurz vor Sonnenuntergang hier zu sein.",
+            "hu": "Hintázzon a horizont felé ezen a festői vízparti kilátóponton, amely a csendes tölcsértorkolatra néz, és próbáljon naplemente előtt érkezni a varázslatos fotókért.",
+            "ro": "Leagănați-vă spre orizont la acest punct de belvedere pitoresc de pe malul estuarului și încercați să ajungeți chiar înainte de apus pentru reflexii cu adevărat magice.",
+            "en": "Swing towards the horizon at this picturesque waterfront viewpoint overlooking the serene estuary, and try arriving just before sunset for truly magical reflections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt frische Atlantikluft zu den bunten Fischerhäusern.\n\nDer Mittag lädt zu einem Spaziergang am Sandstrand und zu Wassersport an der Lagune ein.\n\nSetzen Sie am Nachmittag Ihren Weg zu den versteckten Dünen und Aussichtspunkten fort.\n\nDer Abend senkt sich mit goldenen Farben und bietet einen friedlichen Sonnenuntergang.",
+        "hu": "A reggel friss levegőt hoz a színes csíkos halászházak felfedezéséhez.\n\nA meleg dél a hatalmas homokos strandokra és a lagúna vízisportjaihoz csábít.\n\nDélután folytassa útját dél felé, hogy felfedezze a dűnék vad szépségét.\n\nAz este aranyló színekkel borul a torkolatra, békés és tökéletes naplementét kínálva.",
+        "ro": "Dimineața aduce aer proaspăt pentru a explora casele colorate ale pescarilor.\n\nCăldura prânzului vă invită pe plajele de nisip și la sporturile nautice.\n\nDupă-amiaza, continuați spre sud pentru a descoperi dunele și priveliștile.\n\nSeara coboară cu nuanțe aurii peste estuar, oferind un apus de soare pașnic perfect.",
+        "en": "Morning brings fresh air to the colorful, striped fishermen's houses.\n\nMidday warmth invites you to stroll the sandy beaches and watch lagoon water sports.\n\nAfternoon continues south to discover scenic estuary viewpoints and dunes.\n\nEvening descends with golden hues, offering a peaceful sunset as the perfect coastal end."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Barra",
+            "hu": "Praia da Barra",
+            "ro": "Praia da Barra",
+            "en": "Praia da Barra"
+          },
+          "coords": [
+            -8.749034,
+            40.636037
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie am riesigen Wellenbrecher beim imposanten Leuchtturm entlang, um die raue Kraft des Ozeans zu spüren, wofür Sie unbedingt festes Schuhwerk benötigen.",
+            "hu": "Sétáljon végig a hatalmas hullámtörőn a magasodó világítótorony mellett, hogy érezze az óceán erejét, de viseljen stabil cipőt a csúszós, nedves kőutak miatt.",
+            "ro": "Plimbați-vă pe digul imens de lângă farul impunător pentru a simți forța brută a oceanului, purtând încălțăminte solidă pentru a naviga în siguranță pe pietrele ude.",
+            "en": "Walk along the immense breakwater by the towering lighthouse to experience the raw power of the ocean, wearing sturdy shoes to safely navigate the wet stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "case colorate",
+            "hu": "case colorate",
+            "ro": "case colorate",
+            "en": "case colorate"
+          },
+          "coords": [
+            -8.749733,
+            40.621811
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die legendären gestreiften Fischerhäuschen, die den Charme von Costa Nova ausmachen, und bringen Sie ein Weitwinkelobjektiv für lebhafte Fotos mit.",
+            "hu": "Csodálja meg Costa Nova ikonikus, csíkos egykori halászházait, melyek a település varázsát adják, és feltétlenül hozzon magával széles látószögű lencsét a fotókhoz.",
+            "ro": "Admirați iconicele case cu dungi care definesc farmecul din Costa Nova, folosite inițial de pescari, și aduceți un obiectiv cu unghi larg pentru fotografii vibrante.",
+            "en": "Admire the iconic striped houses that define Costa Nova's charm, originally used by fishermen to store gear, so bring a wide-angle lens for the best vibrant photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Palheiro de José Estêvão",
+            "hu": "Palheiro de José Estêvão",
+            "ro": "Palheiro de José Estêvão",
+            "en": "Palheiro de José Estêvão"
+          },
+          "coords": [
+            -8.74991,
+            40.619707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen gestreiften Heuschober eines berühmten Politikers und achten Sie auf die gut erhaltene Architektur sowie verfügbare lokale Führer.",
+            "hu": "Fedezze fel egy híres parlamenti képviselő egykori csíkos faházát, megcsodálva annak megőrzött építészetét, miközben érdemes helyi idegenvezetőhöz csatlakozni itt.",
+            "ro": "Explorați acest hambar istoric din lemn cu dungi al unui celebru parlamentar, observându-i arhitectura conservată, în timp ce căutați ghizii locali disponibili aici.",
+            "en": "Explore this historic striped wooden haystack once owned by a famous parliamentarian, observing its preserved architecture while keeping an eye out for local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Costa Nova",
+            "hu": "Praia da Costa Nova",
+            "ro": "Praia da Costa Nova",
+            "en": "Praia da Costa Nova"
+          },
+          "coords": [
+            -8.752878,
+            40.619566
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit seinen Atlantikwellen, ideal für einen Spaziergang, aber packen Sie wegen der steifen Brise eine Windjacke ein.",
+            "hu": "Pihenjen ezen a hatalmas homokos strandon, amely az atlanti hullámokról ismert és tökéletes egy sétához, de a tengeri szellő miatt mindenképp hozzon széldzsekit.",
+            "ro": "Relaxați-vă pe această plajă imensă de nisip cunoscută pentru valurile atlantice, perfectă pentru o plimbare, așa că luați o jachetă de vânt pentru briza puternică.",
+            "en": "Relax on this expansive sandy beach known for its rolling Atlantic waves, making it perfect for an invigorating afternoon walk, so pack a windbreaker for the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "hu": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "ro": "Kitesurf und Wingsurfspot Costa Nova (Süd)",
+            "en": "Kitesurf und Wingsurfspot Costa Nova (Süd)"
+          },
+          "coords": [
+            -8.7484,
+            40.606976
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie rasante Wassersportarten an dieser erstklassigen Lagune, die von stetigen thermischen Winden profitiert, weshalb der frühe Nachmittag ideal ist.",
+            "hu": "Figyelje az adrenalindús vízisportokat ezen a kiváló lagúnán, amely folyamatos termikus szelekkel büszkélkedhet, így a kora délután a legalkalmasabb a látogatásra.",
+            "ro": "Urmăriți sporturi nautice pline de adrenalină la această lagună de top cu vânturi termice constante, prima parte a după-amiezii fiind ideală pentru o vizită aici.",
+            "en": "Watch adrenaline-pumping water sports at this premier lagoon location, which benefits from consistent thermal winds, making early afternoon the best time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Naturistas da Costa Nova em Aveiro",
+            "hu": "Praia Naturistas da Costa Nova em Aveiro",
+            "ro": "Praia Naturistas da Costa Nova em Aveiro",
+            "en": "Praia Naturistas da Costa Nova em Aveiro"
+          },
+          "coords": [
+            -8.758036,
+            40.593187
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abgeschiedenheit dieses Naturistenstrandes hinter den Dünen für eine ungestörte Auszeit in der Natur, aber vergessen Sie nicht, Wasser mitzubringen.",
+            "hu": "Élvezze a dűnék mögött megbúvó naturista strand nyugalmát, amely zavartalan természeti menedéket nyújt, de ne felejtsen el elegendő ivóvizet hozni a látogatáshoz.",
+            "ro": "Bucurați-vă de liniștea acestei plaje naturiste ascunse în spatele dunelor pentru o evadare naturală neaglomerată, dar nu uitați să vă aduceți propria sticlă de apă.",
+            "en": "Enjoy the remote tranquility of this designated naturist beach tucked behind the dunes, providing an uncrowded natural escape, but remember to bring your own water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt frische Atlantikluft zu den bunten Fischerhäusern.\n\nDer Mittag lädt zu einem Spaziergang am Sandstrand und zu Wassersport an der Lagune ein.\n\nSetzen Sie am Nachmittag Ihren Weg zu den versteckten Dünen und Aussichtspunkten fort.\n\nDer Abend senkt sich mit goldenen Farben und bietet einen friedlichen Sonnenuntergang.",
+        "hu": "A reggel friss levegőt hoz a színes csíkos halászházak felfedezéséhez.\n\nA meleg dél a hatalmas homokos strandokra és a lagúna vízisportjaihoz csábít.\n\nDélután folytassa útját dél felé, hogy felfedezze a dűnék vad szépségét.\n\nAz este aranyló színekkel borul a torkolatra, békés és tökéletes naplementét kínálva.",
+        "ro": "Dimineața aduce aer proaspăt pentru a explora casele colorate ale pescarilor.\n\nCăldura prânzului vă invită pe plajele de nisip și la sporturile nautice.\n\nDupă-amiaza, continuați spre sud pentru a descoperi dunele și priveliștile.\n\nSeara coboară cu nuanțe aurii peste estuar, oferind un apus de soare pașnic perfect.",
+        "en": "Morning brings fresh air to the colorful, striped fishermen's houses.\n\nMidday warmth invites you to stroll the sandy beaches and watch lagoon water sports.\n\nAfternoon continues south to discover scenic estuary viewpoints and dunes.\n\nEvening descends with golden hues, offering a peaceful sunset as the perfect coastal end."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscinas Municipais Gafanha da Nazaré",
+            "hu": "Piscinas Municipais Gafanha da Nazaré",
+            "ro": "Piscinas Municipais Gafanha da Nazaré",
+            "en": "Piscinas Municipais Gafanha da Nazaré"
+          },
+          "coords": [
+            -8.707952,
+            40.626674
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einem erfrischenden Schwimmen im gepflegten städtischen Schwimmbad, einer idealen Familienaktivität vor dem Ausflug an die Sandküste.",
+            "hu": "Kezdje a reggelt egy frissítő úszással ebben a jól karbantartott városi medencekomplexumban, amely ideális családi program, mielőtt a homokos tengerpart felé indulna.",
+            "ro": "Începeți dimineața cu o înot revigorant la acest complex de piscine municipale bine întreținut, o activitate familială ideală înainte de a vă îndrepta spre coastă.",
+            "en": "Start your morning with an energizing swim at this well-maintained municipal pool complex, an ideal family-friendly activity before heading toward the sandy coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Barra",
+            "hu": "Praia da Barra",
+            "ro": "Praia da Barra",
+            "en": "Praia da Barra"
+          },
+          "coords": [
+            -8.749034,
+            40.636037
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie am riesigen Wellenbrecher beim imposanten Leuchtturm entlang, um die raue Kraft des Ozeans zu spüren, wofür Sie unbedingt festes Schuhwerk benötigen.",
+            "hu": "Sétáljon végig a hatalmas hullámtörőn a magasodó világítótorony mellett, hogy érezze az óceán erejét, de viseljen stabil cipőt a csúszós, nedves kőutak miatt.",
+            "ro": "Plimbați-vă pe digul imens de lângă farul impunător pentru a simți forța brută a oceanului, purtând încălțăminte solidă pentru a naviga în siguranță pe pietrele ude.",
+            "en": "Walk along the immense breakwater by the towering lighthouse to experience the raw power of the ocean, wearing sturdy shoes to safely navigate the wet stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "case colorate",
+            "hu": "case colorate",
+            "ro": "case colorate",
+            "en": "case colorate"
+          },
+          "coords": [
+            -8.749733,
+            40.621811
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die legendären gestreiften Fischerhäuschen, die den Charme von Costa Nova ausmachen, und bringen Sie ein Weitwinkelobjektiv für lebhafte Fotos mit.",
+            "hu": "Csodálja meg Costa Nova ikonikus, csíkos egykori halászházait, melyek a település varázsát adják, és feltétlenül hozzon magával széles látószögű lencsét a fotókhoz.",
+            "ro": "Admirați iconicele case cu dungi care definesc farmecul din Costa Nova, folosite inițial de pescari, și aduceți un obiectiv cu unghi larg pentru fotografii vibrante.",
+            "en": "Admire the iconic striped houses that define Costa Nova's charm, originally used by fishermen to store gear, so bring a wide-angle lens for the best vibrant photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Palheiro de José Estêvão",
+            "hu": "Palheiro de José Estêvão",
+            "ro": "Palheiro de José Estêvão",
+            "en": "Palheiro de José Estêvão"
+          },
+          "coords": [
+            -8.74991,
+            40.619707
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen gestreiften Heuschober eines berühmten Politikers und achten Sie auf die gut erhaltene Architektur sowie verfügbare lokale Führer.",
+            "hu": "Fedezze fel egy híres parlamenti képviselő egykori csíkos faházát, megcsodálva annak megőrzött építészetét, miközben érdemes helyi idegenvezetőhöz csatlakozni itt.",
+            "ro": "Explorați acest hambar istoric din lemn cu dungi al unui celebru parlamentar, observându-i arhitectura conservată, în timp ce căutați ghizii locali disponibili aici.",
+            "en": "Explore this historic striped wooden haystack once owned by a famous parliamentarian, observing its preserved architecture while keeping an eye out for local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Costa Nova",
+            "hu": "Praia da Costa Nova",
+            "ro": "Praia da Costa Nova",
+            "en": "Praia da Costa Nova"
+          },
+          "coords": [
+            -8.752878,
+            40.619566
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit seinen Atlantikwellen, ideal für einen Spaziergang, aber packen Sie wegen der steifen Brise eine Windjacke ein.",
+            "hu": "Pihenjen ezen a hatalmas homokos strandon, amely az atlanti hullámokról ismert és tökéletes egy sétához, de a tengeri szellő miatt mindenképp hozzon széldzsekit.",
+            "ro": "Relaxați-vă pe această plajă imensă de nisip cunoscută pentru valurile atlantice, perfectă pentru o plimbare, așa că luați o jachetă de vânt pentru briza puternică.",
+            "en": "Relax on this expansive sandy beach known for its rolling Atlantic waves, making it perfect for an invigorating afternoon walk, so pack a windbreaker for the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da Borda",
+            "hu": "Baloiço da Borda",
+            "ro": "Baloiço da Borda",
+            "en": "Baloiço da Borda"
+          },
+          "coords": [
+            -8.742276,
+            40.595999
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schaukeln Sie an diesem malerischen Aussichtspunkt am Ufer mit Blick auf die ruhige Flussmündung und versuchen Sie, kurz vor Sonnenuntergang hier zu sein.",
+            "hu": "Hintázzon a horizont felé ezen a festői vízparti kilátóponton, amely a csendes tölcsértorkolatra néz, és próbáljon naplemente előtt érkezni a varázslatos fotókért.",
+            "ro": "Leagănați-vă spre orizont la acest punct de belvedere pitoresc de pe malul estuarului și încercați să ajungeți chiar înainte de apus pentru reflexii cu adevărat magice.",
+            "en": "Swing towards the horizon at this picturesque waterfront viewpoint overlooking the serene estuary, and try arriving just before sunset for truly magical reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Naturistas da Costa Nova em Aveiro",
+            "hu": "Praia Naturistas da Costa Nova em Aveiro",
+            "ro": "Praia Naturistas da Costa Nova em Aveiro",
+            "en": "Praia Naturistas da Costa Nova em Aveiro"
+          },
+          "coords": [
+            -8.758036,
+            40.593187
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abgeschiedenheit dieses Naturistenstrandes hinter den Dünen für eine ungestörte Auszeit in der Natur, aber vergessen Sie nicht, Wasser mitzubringen.",
+            "hu": "Élvezze a dűnék mögött megbúvó naturista strand nyugalmát, amely zavartalan természeti menedéket nyújt, de ne felejtsen el elegendő ivóvizet hozni a látogatáshoz.",
+            "ro": "Bucurați-vă de liniștea acestei plaje naturiste ascunse în spatele dunelor pentru o evadare naturală neaglomerată, dar nu uitați să vă aduceți propria sticlă de apă.",
+            "en": "Enjoy the remote tranquility of this designated naturist beach tucked behind the dunes, providing an uncrowded natural escape, but remember to bring your own water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt frische Atlantikluft zu den bunten Fischerhäusern.\n\nDer Mittag lädt zu einem Spaziergang am Sandstrand und zu Wassersport an der Lagune ein.\n\nSetzen Sie am Nachmittag Ihren Weg zu den versteckten Dünen und Aussichtspunkten fort.\n\nDer Abend senkt sich mit goldenen Farben und bietet einen friedlichen Sonnenuntergang.",
+        "hu": "A reggel friss levegőt hoz a színes csíkos halászházak felfedezéséhez.\n\nA meleg dél a hatalmas homokos strandokra és a lagúna vízisportjaihoz csábít.\n\nDélután folytassa útját dél felé, hogy felfedezze a dűnék vad szépségét.\n\nAz este aranyló színekkel borul a torkolatra, békés és tökéletes naplementét kínálva.",
+        "ro": "Dimineața aduce aer proaspăt pentru a explora casele colorate ale pescarilor.\n\nCăldura prânzului vă invită pe plajele de nisip și la sporturile nautice.\n\nDupă-amiaza, continuați spre sud pentru a descoperi dunele și priveliștile.\n\nSeara coboară cu nuanțe aurii peste estuar, oferind un apus de soare pașnic perfect.",
+        "en": "Morning brings fresh air to the colorful, striped fishermen's houses.\n\nMidday warmth invites you to stroll the sandy beaches and watch lagoon water sports.\n\nAfternoon continues south to discover scenic estuary viewpoints and dunes.\n\nEvening descends with golden hues, offering a peaceful sunset as the perfect coastal end."
+      }
+    }
+  }
+}

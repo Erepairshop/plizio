@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-posillipo-cities-v2",
+  "anchor": {
+    "name": "Posillipo",
+    "coords": [
+      14.20243,
+      40.81021
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Vergiliano - Tomba di Virgilio",
+            "hu": "Parco Vergiliano - Tomba di Virgilio",
+            "ro": "Parco Vergiliano - Tomba di Virgilio",
+            "en": "Parco Vergiliano - Tomba di Virgilio"
+          },
+          "coords": [
+            14.217338,
+            40.829611
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den üppigen Park, der die legendären Gräber von Vergil und Leopardi beherbergt, und tragen Sie für die steilen antiken Wege bequeme Schuhe.",
+            "hu": "Fedezze fel a buja parkot, amely Vergilius és Leopardi legendás sírjainak ad otthont, és viseljen kényelmes cipőt a meredek antik ösvényeken.",
+            "ro": "Explorați parcul luxuriant care adăpostește mormintele legendare ale lui Virgil și Leopardi și purtați încălțăminte confortabilă pentru cărările antice ușor abrupte.",
+            "en": "Explore the lush park housing the legendary tombs of Virgil and Leopardi, and wear comfortable shoes for the slightly steep ancient paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio a Posillipo",
+            "hu": "Chiesa di Sant'Antonio a Posillipo",
+            "ro": "Chiesa di Sant'Antonio a Posillipo",
+            "en": "Chiesa di Sant'Antonio a Posillipo"
+          },
+          "coords": [
+            14.217007,
+            40.828195
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken in diesem ruhigen Heiligtum und treten Sie unbedingt auf die Terrasse, um einen atemberaubenden Blick auf den Vesuv zu genießen.",
+            "hu": "Csodálja meg a gyönyörű freskókat ebben a békés hegyoldali szentélyben, majd lépjen ki a teraszra a Vezúv egyik legikonikusabb kilátásáért.",
+            "ro": "Admirați frescele frumoase din acest sanctuar liniștit și asigurați-vă că ieșiți pe terasă pentru una dintre cele mai iconice priveliști ale Vezuviului.",
+            "en": "Admire the beautiful frescoes in this serene hillside sanctuary, but be sure to step out onto the terrace for one of the most iconic views of Mount Vesuvius."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria del Parto a Mergellina",
+            "hu": "Chiesa di Santa Maria del Parto a Mergellina",
+            "ro": "Chiesa di Santa Maria del Parto a Mergellina",
+            "en": "Chiesa di Santa Maria del Parto a Mergellina"
+          },
+          "coords": [
+            14.220212,
+            40.824757
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese vom Dichter Sannazaro gegründete historische Kirche, um sein kunstvolles Grab zu sehen, und prüfen Sie vorab die Öffnungszeiten, da mittags geschlossen ist.",
+            "hu": "Látogassa meg ezt a Sannazaro költő által alapított történelmi templomot díszes sírja miatt, és előre ellenőrizze a nyitvatartást az ebédszüneti zárás miatt.",
+            "ro": "Vizitați această biserică istorică fondată de poetul Sannazaro pentru mormântul său ornat și verificați orele de deschidere în prealabil din cauza pauzei de prânz.",
+            "en": "Visit this historic church founded by the poet Sannazaro to see his ornate tomb, and check the opening hours beforehand as they strictly close for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Donn'Anna",
+            "hu": "Palazzo Donn'Anna",
+            "ro": "Palazzo Donn'Anna",
+            "en": "Palazzo Donn'Anna"
+          },
+          "coords": [
+            14.214256,
+            40.819866
+          ],
+          "category": "castle",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen, unvollendeten Palast aus dem 17. Jahrhundert, der direkt ins Meer ragt, und fotografieren Sie ihn am besten nachmittags vom Strand aus.",
+            "hu": "Csodálja meg a tengerbe nyúló, drámai 17. századi befejezetlen palotát, amelyet a legszebben a közeli strandról, a délutáni lágy fényben fotózhat.",
+            "ro": "Admirați palatul neterminat din secolul al XVII-lea care se prelungește dramatic în mare, cel mai bine fotografiat de pe plaja din apropiere în lumina blândă a după-amiezii.",
+            "en": "Marvel at the dramatic, unfinished 17th-century palace jutting directly into the sea, best photographed from the nearby beach area during the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria della Consolazione",
+            "hu": "Chiesa di Santa Maria della Consolazione",
+            "ro": "Chiesa di Santa Maria della Consolazione",
+            "en": "Chiesa di Santa Maria della Consolazione"
+          },
+          "coords": [
+            14.206985,
+            40.820571
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante und weniger überlaufene religiöse Stätte mit lokaler Architektur und bewahren Sie Stille, da es sich um einen aktiven Ort der Anbetung handelt.",
+            "hu": "Fedezze fel ezt az elegáns, kevésbé zsúfolt, helyi építészeti stílusú vallási helyszínt, csendben maradva, mivel a helyiek mindennapi istentiszteleteinek ad otthont.",
+            "ro": "Descoperiți acest lăcaș religios elegant și mai puțin aglomerat cu o frumoasă arhitectură locală, păstrând liniștea deoarece este un loc activ de închinare.",
+            "en": "Discover this elegant and less crowded religious site featuring beautiful local architecture, remembering to maintain silence as it is a place of active local worship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den Ruhestätten antiker Dichter, bevor Sie durch das malerische Viertel Mergellina schlendern. Mittags entdecken Sie historische Heiligtümer an den Hängen mit herrlichem Blick auf den Golf von Neapel. Am Nachmittag steigen Sie zur Küste hinab, wo ikonische Paläste mit dem Meer verschmelzen. Ihr Abend endet mit einem friedlichen Spaziergang durch die historischen Gassen dieses aristokratischen Viertels.",
+        "hu": "Kezdje a reggelt az ókori költők nyughelyeinek felfedezésével, mielőtt végigsétálna a festői Mergellina negyeden. A dél a hegyoldalakon megbúvó történelmi szentélyeket és a Nápolyi-öböl lenyűgöző kilátását tartogatja. Délután ereszkedjen le a partra, hogy megcsodálja a tengerbe olvadó ikonikus tengerparti palotákat. Az este egy békés sétával zárul ennek az arisztokratikus negyednek a történelmi utcáin.",
+        "ro": "Începeți dimineața explorând locurile de odihnă ale poeților antici înainte de a vă plimba prin pitorescul cartier Mergellina. La prânz, descoperiți sanctuare istorice pe coline, oferind panorame uimitoare ale Golfului Napoli. După-amiaza, coborâți spre țărm pentru a vedea palate de coastă iconice care se îmbină cu marea. Seara se încheie cu o plimbare liniștită pe străduțele istorice ale acestui cartier aristocratic.",
+        "en": "Start your morning exploring the resting places of ancient poets before winding your way through the scenic Mergellina neighborhood. Midday reveals historic sanctuaries perched on the hillsides offering stunning vistas of the Bay of Naples. In the afternoon, descend towards the shoreline to witness iconic coastal palaces blending into the sea. Your evening concludes with a peaceful stroll among the historic lanes of this aristocratic coastal quarter."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Vergiliano - Tomba di Virgilio",
+            "hu": "Parco Vergiliano - Tomba di Virgilio",
+            "ro": "Parco Vergiliano - Tomba di Virgilio",
+            "en": "Parco Vergiliano - Tomba di Virgilio"
+          },
+          "coords": [
+            14.217338,
+            40.829611
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den üppigen Park, der die legendären Gräber von Vergil und Leopardi beherbergt, und tragen Sie für die steilen antiken Wege bequeme Schuhe.",
+            "hu": "Fedezze fel a buja parkot, amely Vergilius és Leopardi legendás sírjainak ad otthont, és viseljen kényelmes cipőt a meredek antik ösvényeken.",
+            "ro": "Explorați parcul luxuriant care adăpostește mormintele legendare ale lui Virgil și Leopardi și purtați încălțăminte confortabilă pentru cărările antice ușor abrupte.",
+            "en": "Explore the lush park housing the legendary tombs of Virgil and Leopardi, and wear comfortable shoes for the slightly steep ancient paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Donn'Anna",
+            "hu": "Palazzo Donn'Anna",
+            "ro": "Palazzo Donn'Anna",
+            "en": "Palazzo Donn'Anna"
+          },
+          "coords": [
+            14.214256,
+            40.819866
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen, unvollendeten Palast aus dem 17. Jahrhundert, der direkt ins Meer ragt, und fotografieren Sie ihn am besten nachmittags vom Strand aus.",
+            "hu": "Csodálja meg a tengerbe nyúló, drámai 17. századi befejezetlen palotát, amelyet a legszebben a közeli strandról, a délutáni lágy fényben fotózhat.",
+            "ro": "Admirați palatul neterminat din secolul al XVII-lea care se prelungește dramatic în mare, cel mai bine fotografiat de pe plaja din apropiere în lumina blândă a după-amiezii.",
+            "en": "Marvel at the dramatic, unfinished 17th-century palace jutting directly into the sea, best photographed from the nearby beach area during the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ranieri",
+            "hu": "Torre Ranieri",
+            "ro": "Torre Ranieri",
+            "en": "Torre Ranieri"
+          },
+          "coords": [
+            14.194698,
+            40.80852
+          ],
+          "category": "tower",
+          "arrive_at": "12:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Verteidigungsturm, der einst die Küste vor Piraten schützte, der jedoch meist nur von außen für einen kurzen Fotostopp zugänglich ist.",
+            "hu": "Tekintse meg ezt a történelmi védőtornyot, amely egykor kalózoktól védte a partot; mivel többnyire csak kívülről látható, ideális egy gyors fotózáshoz.",
+            "ro": "Priviți acest turn istoric de apărare care proteja cândva coasta de pirați, deși de obicei este văzut doar din exterior, fiind o oprire rapidă pentru fotografii.",
+            "en": "Look up at this historic defensive tower that once protected the coast from pirates, though it is usually viewed from the outside, making it a quick photographic stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo Schilizzi",
+            "hu": "Mausoleo Schilizzi",
+            "ro": "Mausoleo Schilizzi",
+            "en": "Mausoleo Schilizzi"
+          },
+          "coords": [
+            14.201745,
+            40.805461
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie in die markante neo-ägyptische Architektur dieses beeindruckenden Mausoleums ein und respektieren Sie die feierliche Atmosphäre beim Lesen der Inschriften.",
+            "hu": "Lépjen be e hatalmas mauzóleum lenyűgöző neo-egyiptomi épületegyüttesébe, és adózzon tisztelettel a háborús emlékmű ünnepélyes légkörének a feliratok olvasásakor.",
+            "ro": "Pășiți în impresionanta arhitectură neo-egipteană a acestui grandios mausoleu, acum un memorial de război emoționant, și respectați atmosfera solemnă.",
+            "en": "Step into the striking neo-Egyptian architecture of this grand mausoleum, now a poignant war memorial, and respect the solemn atmosphere while reading the inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria di Bellavista",
+            "hu": "Chiesa di Santa Maria di Bellavista",
+            "ro": "Chiesa di Santa Maria di Bellavista",
+            "en": "Chiesa di Santa Maria di Bellavista"
+          },
+          "coords": [
+            14.200408,
+            40.803256
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von der Terrasse dieser bezaubernden Pfarrkirche und bringen Sie eine kleine Spende mit, wenn Sie drinnen eine Kerze anzünden.",
+            "hu": "Gyönyörködjön a tengeri panorámában a bájos plébániatemplom teraszáról, és vigyen magával egy kis adományt, ha gyertyát szeretne gyújtani a békés belső térben.",
+            "ro": "Bucurați-vă de vederea panoramică la mare de pe terasa acestei fermecătoare biserici parohiale și aduceți o mică donație pentru a aprinde o lumânare.",
+            "en": "Take in the panoramic sea views from the terrace of this charming parish church, and bring a small donation if you plan to light a candle in the peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santo Strato a Posillipo",
+            "hu": "Chiesa di Santo Strato a Posillipo",
+            "ro": "Chiesa di Santo Strato a Posillipo",
+            "en": "Chiesa di Santo Strato a Posillipo"
+          },
+          "coords": [
+            14.193397,
+            40.804242
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefgreifende lokale Geschichte dieser auf römischen Ruinen erbauten antiken Pfarrei und spazieren Sie durch die ruhigen angrenzenden Gassen.",
+            "hu": "Tapasztalja meg a római romokra épült ősi plébánia mély helyi történetét, és sétáljon végig a csendes szomszédos sikátorokon a régi falusi hangulatért.",
+            "ro": "Experimentați istoria locală profundă a acestei parohii antice construite pe ruine romane și plimbați-vă pe străduțele liniștite pentru a simți vibrația satului.",
+            "en": "Experience the deep local history of this ancient parish built on Roman ruins, and walk around the quiet adjacent alleys to fully appreciate the old village vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an den Gräbern von Vergil, bevor Sie hinab zu den majestätischen Palästen von Posillipo rollen. Die Mittagsfahrt führt vorbei an alten Verteidigungstürmen und markanten Denkmälern. Am Nachmittag navigieren Sie über die eleganten oberen Küstenstraßen und genießen den weiten Blick auf das Mittelmeer. Der Tag klingt in der Nähe alter Pfarrkirchen im warmen Licht der untergehenden Sonne aus.",
+        "hu": "A kerékpáros kaland Vergilius történelmi sírjainál kezdődik, majd lefelé gurul a tengerre néző fenséges posillipói paloták felé. A déli utazás során régi védőtornyok és emlékművek mellett halad el, panorámás megállókkal. Délután a felső tengerparti utakon tekerhet, élvezve a Földközi-tenger látványát. A nap régi plébániatemplomok közelében zárul, a lemenő nap meleg fényében fürdőzve.",
+        "ro": "Aventura pe bicicletă începe la mormintele lui Virgil, înainte de a coborî spre palatele maiestuoase cu fața la mare din Posillipo. Călătoria de prânz trece pe lângă vechi turnuri de apărare și monumente cu opriri panoramice. După-amiaza, navigați pe elegantele drumuri superioare de coastă, bucurându-vă de vederea spre Mediterană. Ziua se încheie lângă biserici parohiale vechi, în lumina caldă a apusului de soare.",
+        "en": "Your cycling adventure begins at the storied tombs of Virgil before rolling downhill towards the majestic sea-facing palaces of Posillipo. The midday ride offers a smooth transition past old defensive towers and striking monuments with panoramic stops. As afternoon approaches, navigate the elegant upper coastal roads, enjoying sweeping views of the Mediterranean. The day wraps up near ancient parish churches, basking in the warm glow of the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Vergiliano - Tomba di Virgilio",
+            "hu": "Parco Vergiliano - Tomba di Virgilio",
+            "ro": "Parco Vergiliano - Tomba di Virgilio",
+            "en": "Parco Vergiliano - Tomba di Virgilio"
+          },
+          "coords": [
+            14.217338,
+            40.829611
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den üppigen Park, der die legendären Gräber von Vergil und Leopardi beherbergt, und tragen Sie für die steilen antiken Wege bequeme Schuhe.",
+            "hu": "Fedezze fel a buja parkot, amely Vergilius és Leopardi legendás sírjainak ad otthont, és viseljen kényelmes cipőt a meredek antik ösvényeken.",
+            "ro": "Explorați parcul luxuriant care adăpostește mormintele legendare ale lui Virgil și Leopardi și purtați încălțăminte confortabilă pentru cărările antice ușor abrupte.",
+            "en": "Explore the lush park housing the legendary tombs of Virgil and Leopardi, and wear comfortable shoes for the slightly steep ancient paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Donn'Anna",
+            "hu": "Palazzo Donn'Anna",
+            "ro": "Palazzo Donn'Anna",
+            "en": "Palazzo Donn'Anna"
+          },
+          "coords": [
+            14.214256,
+            40.819866
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen, unvollendeten Palast aus dem 17. Jahrhundert, der direkt ins Meer ragt, und fotografieren Sie ihn am besten nachmittags vom Strand aus.",
+            "hu": "Csodálja meg a tengerbe nyúló, drámai 17. századi befejezetlen palotát, amelyet a legszebben a közeli strandról, a délutáni lágy fényben fotózhat.",
+            "ro": "Admirați palatul neterminat din secolul al XVII-lea care se prelungește dramatic în mare, cel mai bine fotografiat de pe plaja din apropiere în lumina blândă a după-amiezii.",
+            "en": "Marvel at the dramatic, unfinished 17th-century palace jutting directly into the sea, best photographed from the nearby beach area during the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo Schilizzi",
+            "hu": "Mausoleo Schilizzi",
+            "ro": "Mausoleo Schilizzi",
+            "en": "Mausoleo Schilizzi"
+          },
+          "coords": [
+            14.201745,
+            40.805461
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die markante neo-ägyptische Architektur dieses beeindruckenden Mausoleums ein und respektieren Sie die feierliche Atmosphäre beim Lesen der Inschriften.",
+            "hu": "Lépjen be e hatalmas mauzóleum lenyűgöző neo-egyiptomi épületegyüttesébe, és adózzon tisztelettel a háborús emlékmű ünnepélyes légkörének a feliratok olvasásakor.",
+            "ro": "Pășiți în impresionanta arhitectură neo-egipteană a acestui grandios mausoleu, acum un memorial de război emoționant, și respectați atmosfera solemnă.",
+            "en": "Step into the striking neo-Egyptian architecture of this grand mausoleum, now a poignant war memorial, and respect the solemn atmosphere while reading the inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santo Strato a Posillipo",
+            "hu": "Chiesa di Santo Strato a Posillipo",
+            "ro": "Chiesa di Santo Strato a Posillipo",
+            "en": "Chiesa di Santo Strato a Posillipo"
+          },
+          "coords": [
+            14.193397,
+            40.804242
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefgreifende lokale Geschichte dieser auf römischen Ruinen erbauten antiken Pfarrei und spazieren Sie durch die ruhigen angrenzenden Gassen.",
+            "hu": "Tapasztalja meg a római romokra épült ősi plébánia mély helyi történetét, és sétáljon végig a csendes szomszédos sikátorokon a régi falusi hangulatért.",
+            "ro": "Experimentați istoria locală profundă a acestei parohii antice construite pe ruine romane și plimbați-vă pe străduțele liniștite pentru a simți vibrația satului.",
+            "en": "Experience the deep local history of this ancient parish built on Roman ruins, and walk around the quiet adjacent alleys to fully appreciate the old village vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Pausilypon Archaeological Park",
+            "hu": "Pausilypon Archaeological Park",
+            "ro": "Pausilypon Archaeological Park",
+            "en": "Pausilypon Archaeological Park"
+          },
+          "coords": [
+            14.18537,
+            40.79395
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die spektakuläre Seiano-Höhle zu den Ruinen der römischen Küstenvilla und stellen Sie sicher, dass Sie vorab eine Führung buchen.",
+            "hu": "Sétáljon át a látványos Seiano-barlangon, hogy elérje a tengerparti római villa lélegzetelállító romjait, de a belépéshez időben foglaljon vezetett túrát.",
+            "ro": "Treceți prin spectaculoasa Peșteră Seiano pentru a ajunge la ruinele vilei romane de pe coastă, asigurându-vă că rezervați un tur ghidat din timp.",
+            "en": "Walk through the spectacular Seiano Cave to reach the breathtaking ruins of a Roman seaside villa, ensuring you book a guided tour well in advance for access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria del Faro",
+            "hu": "Chiesa di Santa Maria del Faro",
+            "ro": "Chiesa di Santa Maria del Faro",
+            "en": "Chiesa di Santa Maria del Faro"
+          },
+          "coords": [
+            14.19135,
+            40.795701
+          ],
+          "category": "religious",
+          "arrive_at": "15:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser malerischen Küstenkirche direkt an der Marechiaro-Bucht, wo Sie bei Sonnenuntergang die Rückkehr der Fischerboote beobachten können.",
+            "hu": "Fejezze be útját ennél a festői tengerparti templomnál a Marechiaro-öbölben, ahonnan naplementekor megfigyelheti a visszatérő hagyományos halászhajókat.",
+            "ro": "Încheiați călătoria la această biserică pitorească de pe coastă, situată pe golful Marechiaro, unde puteți urmări bărcile de pescuit întorcându-se la apus.",
+            "en": "End your journey at this picturesque coastal church located directly on the Marechiaro bay, where you can watch the traditional fishing boats return at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour bei den Gräbern antiker Dichter und fahren Sie dann gemütlich die berühmte Via Posillipo hinunter. Die Mittagsfahrt ermöglicht bequeme Sprünge zwischen grandiosen Kriegerdenkmälern und versteckten Nachbarschaftskirchen. Am Nachmittag erreichen Sie die archäologischen Höhepunkte an der Spitze der Halbinsel. Beenden Sie Ihren Abend an einer malerischen Fischerbucht beim sanften Rauschen der Wellen.",
+        "hu": "Kezdje autós túráját az ókori római költők sírjainak meglátogatásával, majd guruljon végig a híres via Posillipón a tengerparti építészetért. A déli autózás kényelmes ugrásokat tesz lehetővé a háborús emlékművek és rejtett templomok között. Délután érje el a félsziget csúcsán található lenyűgöző régészeti látnivalókat. Zárja az estét egy hangulatos halászöbölben, a hullámok lágy csapkodását hallgatva.",
+        "ro": "Începeți turul cu mașina vizitând mormintele poeților romani, apoi conduceți pe faimoasa via Posillipo pentru a admira arhitectura sa de pe faleză. Plimbarea de prânz permite treceri confortabile între memoriale de război grandioase și biserici de cartier ascunse. După-amiaza, veți ajunge la reperele arheologice spectaculoase de la capătul peninsulei. Încheiați seara într-un golf pitoresc de pescari, ascultând valurile.",
+        "en": "Kick off your driving tour by visiting ancient Roman poets' tombs, then easily cruise down the famed via Posillipo to witness its iconic waterfront architecture. The midday drive allows comfortable hops between grandiose war memorials and hidden neighborhood churches. In the afternoon, you will reach the spectacular archaeological highlights at the tip of the peninsula. Conclude your evening at a quaint fishing bay, listening to the gentle crash of the waves."
+      }
+    }
+  }
+}

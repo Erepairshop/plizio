@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-ko-phayam-cities-v2",
+  "anchor": {
+    "name": "Ko Phayam",
+    "coords": [
+      98.401975,
+      9.736814
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Happy House",
+            "hu": "Happy House",
+            "ro": "Happy House",
+            "en": "Happy House"
+          },
+          "coords": [
+            98.410925,
+            9.732812
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Morgenstimmung an diesem Wahrzeichen, das sich perfekt für den Tagesbeginn eignet; holen Sie sich hier einen schnellen Kaffee.",
+            "hu": "Élvezze a nyugodt reggeli hangulatot ezen a helyi tájékozódási ponton; igyon meg egy gyors kávét itt, mielőtt felfedezné a közeli szigeti ösvényeket.",
+            "ro": "Bucurați-vă de atmosfera relaxantă a dimineții la acest reper local perfect pentru a începe ziua; luați o cafea rapidă aici înainte de a explora.",
+            "en": "Enjoy a relaxed morning vibe at this local landmark, perfect for starting your day; grab a quick coffee here before exploring the nearby island trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Khao Kwai Beach (South)",
+            "hu": "Ao Khao Kwai Beach (South)",
+            "ro": "Ao Khao Kwai Beach (South)",
+            "en": "Ao Khao Kwai Beach (South)"
+          },
+          "coords": [
+            98.401296,
+            9.7446
+          ],
+          "category": "recreational",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der ruhigen Küste, die für ihre Mangrovenwurzeln bekannt ist; bringen Sie Wasserschuhe mit, um die schlammigen Stellen zu überqueren.",
+            "hu": "Sétáljon végig a kanyargós, békés parton, amely mangrove gyökereiről ismert; hozzon vízi cipőt, hogy kényelmesen közlekedhessen az iszapos foltokon.",
+            "ro": "Plimbați-vă de-a lungul coastei pașnice cunoscute pentru rădăcinile de mangrove; aduceți încălțăminte de apă pentru a naviga confortabil noroiul.",
+            "en": "Stroll along the curved, peaceful shoreline known for its striking mangrove roots; bring water shoes to comfortably navigate the slightly muddy patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Hin Talu",
+            "hu": "Hin Talu",
+            "ro": "Hin Talu",
+            "en": "Hin Talu"
+          },
+          "coords": [
+            98.405849,
+            9.747196
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische Felsformation mit einem vom Meer geformten Loch; kommen Sie bei Ebbe, um die allerbesten Fotowinkel zu ergattern.",
+            "hu": "Csodálja meg ezt az ikonikus sziklaképződményt a tenger által formált lyukkal; időzítse a látogatást apályra, hogy a legjobb fotókat készíthesse el.",
+            "ro": "Admirați această formațiune stâncoasă iconică cu o gaură modelată de mare; planificați vizita la reflux pentru a obține cele mai bune unghiuri foto.",
+            "en": "Marvel at this iconic natural rock formation featuring a unique hole shaped by the sea; time your visit during low tide to get the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Nudist Beach",
+            "hu": "Nudist Beach",
+            "ro": "Nudist Beach",
+            "en": "Nudist Beach"
+          },
+          "coords": [
+            98.406697,
+            9.748372
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erleben Sie völlige Freiheit an diesem abgelegenen Sandstrand abseits der Massen; packen Sie reichlich Sonnencreme ein und respektieren Sie die Regeln.",
+            "hu": "Tapasztalja meg a teljes szabadságot ezen a félreeső homokos partszakaszon, távol a tömegtől; vigyen magával naptejet és tisztelje a helyi etikettet.",
+            "ro": "Experimentați libertatea pe această plajă retrasă, departe de aglomerație; asigurați-vă că luați multă cremă de soare și respectați eticheta locală.",
+            "en": "Experience complete freedom at this secluded stretch of sand away from the crowds; ensure you pack plenty of sunscreen and respect the local etiquette."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Khao Kwai Beach (North)",
+            "hu": "Ao Khao Kwai Beach (North)",
+            "ro": "Ao Khao Kwai Beach (North)",
+            "en": "Ao Khao Kwai Beach (North)"
+          },
+          "coords": [
+            98.40826,
+            9.759263
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie am nördlichen Horn der Buffalo Bay, wo der Sand weich und das Wasser ruhig ist; bleiben Sie bis zum späten Nachmittag für den Sonnenuntergang.",
+            "hu": "Pihenjen a Buffalo-öböl északi szarvánál, ahol a homok puha és a víz nyugodt; maradjon késő délutánig, hogy elkapja a lenyugvó nap első sugarait.",
+            "ro": "Relaxați-vă pe cornul nordic al golfului unde nisipul este fin și apa calmă; rămâneți până după-amiaza târziu pentru a prinde începutul apusului.",
+            "en": "Relax on the northern horn of Buffalo Bay where the sand is soft and the water calm; stay until late afternoon to catch the beginning of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Wanderung im Herzen der Insel am Happy House für einen entspannten Morgen. Danach geht es nach Nordwesten zu den ruhigen Ufern von Ao Khao Kwai Süd. Entdecken Sie am Mittag das einzigartige Felsentor von Hin Talu und nahegelegene ruhige Strände. Verbringen Sie den Nachmittag am nördlichen Abschnitt der Bucht und beenden Sie den Tag an der Küste in den ruhigen Abendstunden.",
+        "hu": "Kezdje sétáját a sziget szívében, a Happy House-nál egy nyugodt reggelért. Ezután induljon északnyugat felé az Ao Khao Kwai South békés partjaihoz. Ahogy közeledik a dél, fedezze fel a Hin Talu egyedülálló sziklaívét és a közeli csendes strandokat. Töltse a délutánt az öböl északi szakaszán sétálva. Fejezze be a napját egy csendes estével a tengernél a lágy szellő kíséretében.",
+        "ro": "Începeți turul de plimbare în inima insulei la Happy House pentru o dimineață relaxantă. Apoi, mergeți spre țărmurile din Ao Khao Kwai South. Pe măsură ce se apropie amiaza, descoperiți arcul de stâncă Hin Talu și plajele liniștite. Petreceți-vă după-amiaza plimbându-vă de-a lungul întinderii nordice a golfului. Încheiați-vă ziua cu o seară calmă și relaxantă lângă marea tropicală.",
+        "en": "Start your walking tour in the heart of the island at Happy House for a relaxed morning. Next, head northwest to the peaceful shores of Ao Khao Kwai South. As midday approaches, discover the unique rock arch of Hin Talu and nearby quiet beaches. Spend your afternoon strolling along the northern stretch of the bay, soaking up the tropical sun. Conclude your day with a calm evening by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 9.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bot Klang Thale",
+            "hu": "Bot Klang Thale",
+            "ro": "Bot Klang Thale",
+            "en": "Bot Klang Thale"
+          },
+          "coords": [
+            98.422224,
+            9.746231
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den faszinierenden \"Tempel im Meer\" auf Stelzen am Pier; tragen Sie bescheidene Kleidung, um dieses ruhige buddhistische Heiligtum zu erkunden.",
+            "hu": "Látogassa meg a mólónál cölöpökön álló lenyűgöző \"Tengeri templomot\"; viseljen szerény ruházatot, hogy tiszteletteljesen fedezze fel a szentélyt.",
+            "ro": "Vizitați fascinantul „Templu din mare” cocoțat pe piloni la debarcader; purtați haine modeste pentru a explora cu respect acest sanctuar budist.",
+            "en": "Visit the fascinating \"Temple in the Sea\" perched on stilts at the pier; wear modest clothing to respectfully explore this serene Buddhist sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle",
+            "hu": "Muelle",
+            "ro": "Muelle",
+            "en": "Muelle"
+          },
+          "coords": [
+            98.42132,
+            9.744546
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beobachten Sie den täglichen Rhythmus der Insel an ihrem Hauptankunftsort; halten Sie Ausschau nach günstigen Obstverkäufern direkt neben dem Weg.",
+            "hu": "Figyelje meg a sziget napi ritmusát a fő érkezési ponton, ahol a hajók kikötnek; keressen megfizethető gyümölcsárusokat közvetlenül a sétány mellett.",
+            "ro": "Urmăriți ritmul zilnic al insulei la punctul său principal de sosire; fiți atenți la vânzătorii de fructe la prețuri accesibile de lângă alee.",
+            "en": "Watch the daily rhythm of the island at its primary arrival point where boats dock; keep an eye out for affordable fruit vendors just off the walkway."
+          }
+        },
+        {
+          "name": {
+            "de": "Chedi Loi Nam Beach",
+            "hu": "Chedi Loi Nam Beach",
+            "ro": "Chedi Loi Nam Beach",
+            "en": "Chedi Loi Nam Beach"
+          },
+          "coords": [
+            98.421529,
+            9.742489
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Strand neben dem Meerestempel mit sanften Wellen; bringen Sie ein Handtuch mit, da es kaum Sonnenliegen gibt.",
+            "hu": "Kapcsolódjon ki ezen a csendes strandon a tengeri templom mellett lágy hullámokkal; hozzon törölközőt, mivel nagyon kevés napozóágy áll rendelkezésre.",
+            "ro": "Relaxați-vă pe această plajă liniștită de lângă templu, cu valuri blânde; aduceți un prosop, deoarece există foarte puține șezlonguri disponibile.",
+            "en": "Unwind on this quiet beach area adjacent to the sea temple with gentle morning waves; bring a towel as there are very few commercial sunbeds available."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Mae Mai Beach",
+            "hu": "Ao Mae Mai Beach",
+            "ro": "Ao Mae Mai Beach",
+            "en": "Ao Mae Mai Beach"
+          },
+          "coords": [
+            98.422136,
+            9.738621
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Genießen Sie die belebte Ostküste, die nahtlos mit den Geschäften verbunden ist; holen Sie sich eine eisgekühlte Kokosnuss von einem nahen Stand.",
+            "hu": "Élvezze a nyüzsgő keleti partot, amely zökkenőmentesen kapcsolódik a helyi boltokhoz; vegyen egy jeges kókuszt egy közeli standnál a felfrissüléshez.",
+            "ro": "Bucurați-vă de coasta de est plină de viață, conectată la magazinele locale; luați o nucă de cocos cu gheață de la un stand pentru a vă răcori.",
+            "en": "Enjoy the bustling, accessible eastern shoreline that connects seamlessly to local shops; grab an iced coconut from a nearby stand to stay refreshed."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Muk Beach",
+            "hu": "Ao Muk Beach",
+            "ro": "Ao Muk Beach",
+            "en": "Ao Muk Beach"
+          },
+          "coords": [
+            98.420986,
+            9.724959
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen unberührten, versteckten Sandstreifen, perfekt zum Lesen; packen Sie alles Nötige ein, da es auf diesem Streifen keine Anlagen gibt.",
+            "hu": "Fedezzen fel egy érintetlen, rejtett homokfoltot, amely tökéletes olvasáshoz; csomagoljon be mindent, mivel ezen a szakaszon nincsenek létesítmények.",
+            "ro": "Descoperiți o fâșie de nisip curată, perfectă pentru lectură sau reflecție; împachetați lucrurile esențiale, deoarece nu există facilități pe plajă.",
+            "en": "Discover a pristine, hidden patch of sand perfect for solitary reading or reflection; pack all your essentials as there are no facilities on this strip."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Yai Beach",
+            "hu": "Ao Yai Beach",
+            "ro": "Ao Yai Beach",
+            "en": "Ao Yai Beach"
+          },
+          "coords": [
+            98.39378,
+            9.720449
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie am längsten und berühmtesten Strand der Insel, bekannt fürs Surfen; bleiben Sie bis in die Dämmerung für einen spektakulären Sonnenuntergang.",
+            "hu": "Sétáljon a sziget leghosszabb és leghíresebb strandján, amely a szörfözésről ismert; maradjon alkonyatig, hogy szemtanúja legyen a látványos naplementének.",
+            "ro": "Plimbați-vă pe cea mai lungă și faimoasă plajă a insulei, renumită pentru surfing; rămâneți până la amurg pentru a vedea un apus de soare spectaculos.",
+            "en": "Walk along the island's longest and most famous beach, renowned for excellent surfing; stick around until dusk to witness a truly spectacular sunset view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tree Beach Resort",
+            "hu": "Tree Beach Resort",
+            "ro": "Tree Beach Resort",
+            "en": "Tree Beach Resort"
+          },
+          "coords": [
+            98.424816,
+            9.733975
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem wunderschön integrierten Resort mit tollem Meerblick; schnappen Sie sich einen erfrischenden Cocktail an der Bar.",
+            "hu": "Fejezze be a napot ebben a gyönyörűen beépített üdülőövezetben, csodás kilátással; igyon egy frissítő koktélt a bárban, élvezve az óceáni szellőt.",
+            "ro": "Încheiați-vă ziua la această stațiune frumos integrată care oferă vederi la mare; luați un cocktail răcoritor la bar în timp ce simțiți briza oceanului.",
+            "en": "End your day at this beautifully integrated resort area offering great sea views; grab a refreshing cocktail at the bar while enjoying the ocean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am atemberaubenden Tempel im Meer im schönen Morgenlicht. Rollen Sie am Pier vorbei und genießen Sie vor dem Mittagessen die ruhigen östlichen Strände. Am Nachmittag radeln Sie hinunter zum berühmten Ao Yai Strand, um die weite Sandfläche und die Brandung zu genießen. Beenden Sie den Tag im Tree Beach Resort mit einem kühlen, tropischen Getränk in der Hand.",
+        "hu": "Kezdje kerékpáros utazását a lenyűgöző Tengeri Templomnál a reggeli fényekben. Guruljon el a központi móló mellett, és ebéd előtt élvezze a csendes keleti strandok sorát. Délután pedálozzon le a híres Ao Yai Beach-re, élvezve a hatalmas homokos partszakaszt. Fejezze be a napot a Tree Beach Resortban pihenve egy trópusi itallal a kezében, miközben a lemenő napot figyeli.",
+        "ro": "Începeți călătoria cu bicicleta la uimitorul Templu din Mare în lumina dimineții. Treceți pe lângă debarcader și bucurați-vă de plajele estice înainte de prânz. După-amiaza, pedalați până la faimoasa plajă Ao Yai, bucurându-vă de întinderea vastă de nisip. Încheiați ziua relaxându-vă la Tree Beach Resort cu o băutură tropicală în mână, ascultând valurile oceanului.",
+        "en": "Kick off your cycling journey at the stunning Temple in the Sea as the morning light hits the water. Roll past the central pier and enjoy a sequence of serene eastern beaches before lunch. In the afternoon, pedal your way down to the famous Ao Yai Beach, taking in the vast expanse of sand and surf. End the day relaxing at the Tree Beach Resort with a tropical drink in hand."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Hin Khao",
+            "hu": "Ao Hin Khao",
+            "ro": "Ao Hin Khao",
+            "en": "Ao Hin Khao"
+          },
+          "coords": [
+            98.415497,
+            9.756324
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Besuch dieser malerischen Bucht, geprägt von Felsbrocken; tragen Sie feste Sandalen, um sicher über die Steine zu klettern.",
+            "hu": "Kezdje a látogatást ebben a festői öbölben, amelyet nagy sziklák és tiszta víz jellemez; viseljen erős szandált a sziklákon való biztonságos mászáshoz.",
+            "ro": "Începeți cu o vizită la acest golf stâncos și pitoresc definit de bolovani mari; purtați sandale rezistente pentru a vă urca în siguranță pe stânci.",
+            "en": "Start with a visit to this rugged, picturesque bay defined by large boulders and clear water; wear sturdy sandals for climbing over the rocks safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Khao Kwai Beach (North)",
+            "hu": "Ao Khao Kwai Beach (North)",
+            "ro": "Ao Khao Kwai Beach (North)",
+            "en": "Ao Khao Kwai Beach (North)"
+          },
+          "coords": [
+            98.40826,
+            9.759263
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Entspannen Sie am nördlichen Horn der Buffalo Bay, wo der Sand weich und das Wasser ruhig ist; bleiben Sie bis zum späten Nachmittag für den Sonnenuntergang.",
+            "hu": "Pihenjen a Buffalo-öböl északi szarvánál, ahol a homok puha és a víz nyugodt; maradjon késő délutánig, hogy elkapja a lenyugvó nap első sugarait.",
+            "ro": "Relaxați-vă pe cornul nordic al golfului unde nisipul este fin și apa calmă; rămâneți până după-amiaza târziu pentru a prinde începutul apusului.",
+            "en": "Relax on the northern horn of Buffalo Bay where the sand is soft and the water calm; stay until late afternoon to catch the beginning of the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Hin Talu",
+            "hu": "Hin Talu",
+            "ro": "Hin Talu",
+            "en": "Hin Talu"
+          },
+          "coords": [
+            98.405849,
+            9.747196
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische Felsformation mit einem vom Meer geformten Loch; kommen Sie bei Ebbe, um die allerbesten Fotowinkel zu ergattern.",
+            "hu": "Csodálja meg ezt az ikonikus sziklaképződményt a tenger által formált lyukkal; időzítse a látogatást apályra, hogy a legjobb fotókat készíthesse el.",
+            "ro": "Admirați această formațiune stâncoasă iconică cu o gaură modelată de mare; planificați vizita la reflux pentru a obține cele mai bune unghiuri foto.",
+            "en": "Marvel at this iconic natural rock formation featuring a unique hole shaped by the sea; time your visit during low tide to get the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Khao Kwai Beach (South)",
+            "hu": "Ao Khao Kwai Beach (South)",
+            "ro": "Ao Khao Kwai Beach (South)",
+            "en": "Ao Khao Kwai Beach (South)"
+          },
+          "coords": [
+            98.401296,
+            9.7446
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der ruhigen Küste, die für ihre Mangrovenwurzeln bekannt ist; bringen Sie Wasserschuhe mit, um die schlammigen Stellen zu überqueren.",
+            "hu": "Sétáljon végig a kanyargós, békés parton, amely mangrove gyökereiről ismert; hozzon vízi cipőt, hogy kényelmesen közlekedhessen az iszapos foltokon.",
+            "ro": "Plimbați-vă de-a lungul coastei pașnice cunoscute pentru rădăcinile de mangrove; aduceți încălțăminte de apă pentru a naviga confortabil noroiul.",
+            "en": "Stroll along the curved, peaceful shoreline known for its striking mangrove roots; bring water shoes to comfortably navigate the slightly muddy patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Yai Beach",
+            "hu": "Ao Yai Beach",
+            "ro": "Ao Yai Beach",
+            "en": "Ao Yai Beach"
+          },
+          "coords": [
+            98.39378,
+            9.720449
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.79,
+          "tip_5lang": {
+            "de": "Spazieren Sie am längsten und berühmtesten Strand der Insel, bekannt fürs Surfen; bleiben Sie bis in die Dämmerung für einen spektakulären Sonnenuntergang.",
+            "hu": "Sétáljon a sziget leghosszabb és leghíresebb strandján, amely a szörfözésről ismert; maradjon alkonyatig, hogy szemtanúja legyen a látványos naplementének.",
+            "ro": "Plimbați-vă pe cea mai lungă și faimoasă plajă a insulei, renumită pentru surfing; rămâneți până la amurg pentru a vedea un apus de soare spectaculos.",
+            "en": "Walk along the island's longest and most famous beach, renowned for excellent surfing; stick around until dusk to witness a truly spectacular sunset view."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturist spot",
+            "hu": "Naturist spot",
+            "ro": "Naturist spot",
+            "en": "Naturist spot"
+          },
+          "coords": [
+            98.403664,
+            9.711304
+          ],
+          "category": "landmark",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur in diesem abgeschiedenen, optional bekleideten Rückzugsort; stellen Sie sicher, dass Sie genug Wasser haben und Regeln respektieren.",
+            "hu": "Ölelje át a természetet ezen a félreeső, ruházat nélküli menedékhelyen a sziget déli szélén; gondoskodjon elegendő vízről és tisztelje a szabályokat.",
+            "ro": "Îmbrățișați natura la această retragere izolată, la alegere cu haine, la marginea de sud; asigurați-vă că aveți apă suficientă și respectați intimitatea.",
+            "en": "Embrace nature fully at this secluded, clothing-optional retreat on the island's southern edge; ensure you have enough water and respect the privacy rules."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die gesamte Insel, beginnend an der rauen nördlichen Bucht Ao Hin Khao. Fahren Sie zur Buffalo Bay und besuchen Sie mittags die ikonischen Hin Talu Felsen. Fahren Sie am Nachmittag die malerischen Wege hinunter zu den weiten Ufern des Ao Yai Strandes für Sonne und Wellen. Beenden Sie Ihren Roadtrip an der Südspitze der Insel in der ungezähmten Natur des Naturisten-Spots.",
+        "hu": "Fedezze fel Ko Phayamot, kezdve az Ao Hin Khao zord északi öblénél. Cirkáljon le a Buffalo-öbölbe, és álljon meg a Hin Talu szikláknál déli felfedezésre. Délután haladjon a festői utakon az Ao Yai Beach hatalmas partjaihoz napozni és szörfözni. Fejezze be szigeti körútját a legdélibb csücsökben, átölelve a naturista hely érintetlen, vad természetét a lemenő napfényben.",
+        "ro": "Explorați insula Ko Phayam, începând de la golful nordic accidentat Ao Hin Khao. Mergeți cu scuterul până la Buffalo Bay și opriți-vă la stâncile Hin Talu la amiază. După-amiaza, parcurgeți potecile pitorești până la țărmurile din Ao Yai Beach pentru soare și plajă. Încheiați excursia rutieră la extremitatea sudică, îmbrățișând natura neîmblânzită și complet sălbatică.",
+        "en": "Explore the full scope of Ko Phayam starting at the rugged northern bay of Ao Hin Khao. Cruise down to Buffalo Bay and stop by the iconic Hin Talu rocks for midday exploration. In the afternoon, ride the scenic paths down to the sweeping shores of Ao Yai Beach for sun and surf. Conclude your island road trip at the very southern tip, embracing the untamed nature of the nudist spot."
+      }
+    }
+  }
+}

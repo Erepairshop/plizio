@@ -1,0 +1,428 @@
+{
+  "city_id": "guingamp",
+  "anchor": {
+    "name": "Guingamp",
+    "coords": [
+      -3.1511,
+      48.5625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Fontaine de la Plomée",
+            "hu": "La Fontaine de la Plomée",
+            "ro": "La Fontaine de la Plomée",
+            "en": "La Fontaine de la Plomée"
+          },
+          "coords": [
+            -3.151766,
+            48.561937
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Renaissance-Details dieses ikonischen Brunnens im Herzen der Stadt, der als Symbol für Guingamps Reichtum steht, und besuchen Sie die nahegelegenen Cafés.",
+            "hu": "Csodálja meg ezen ikonikus, a város szívében található reneszánsz szökőkút finom részleteit, amely Guingamp gazdagságát jelképezi, és ne hagyja ki a közeli hangulatos kávézókat.",
+            "ro": "Admirați detaliile renascentiste ale acestei fântâni iconice din inima orașului, care stă ca un simbol al bogăției din Guingamp, și nu uitați să verificați cafenelele din apropiere.",
+            "en": "Admire the intricate Renaissance details of this iconic fountain at the city's heart, which stands as a symbol of Guingamp's wealth, and don't forget to check the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ti ar Vro Gwengamp",
+            "hu": "Ti ar Vro Gwengamp",
+            "ro": "Ti ar Vro Gwengamp",
+            "en": "Ti ar Vro Gwengamp"
+          },
+          "coords": [
+            -3.14868,
+            48.561842
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Zentrum, das dem bretonischen Erbe gewidmet ist, und versuchen Sie, an einem ihrer spannenden Sprachworkshops teilzunehmen, wenn Sie Zeit haben.",
+            "hu": "Fedezze fel ezt a breton örökségnek szentelt kulturális központot, amely mély betekintést nyújt a helyi hagyományokba, és ha teheti, vegyen részt egy nyelvi workshopjukon is.",
+            "ro": "Explorați acest centru cultural dedicat patrimoniului breton, oferind perspective profunde asupra tradițiilor locale, și încercați să prindeți unul dintre atelierele lor lingvistice.",
+            "en": "Explore this cultural hub dedicated to Breton heritage, offering deep insights into local traditions, and try to catch one of their engaging linguistic workshops if you have time."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de Bon-Secours",
+            "hu": "Basilica of Notre-Dame de Bon-Secours",
+            "ro": "Basilica of Notre-Dame de Bon-Secours",
+            "en": "Basilica of Notre-Dame de Bon-Secours"
+          },
+          "coords": [
+            -3.150827,
+            48.561165
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Mischung aus gotischen und barocken Stilen in dieser beeindruckenden Basilika, die für ihre Schwarze Madonna bekannt ist, und achten Sie auf die bunten Fenster.",
+            "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a Fekete Madonnáról ismert lenyűgöző bazilikában, és szánjon egy percet a gyönyörű ólomüveg ablakok megfigyelésére.",
+            "ro": "Minunați-vă de amestecul de stiluri gotice și renascentiste din această bazilică uimitoare, cunoscută pentru Madona Neagră, și admirați cu atenție frumoasele vitralii colorate.",
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning basilica known for its Black Madonna, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Pierre II",
+            "hu": "Château Pierre II",
+            "ro": "Château Pierre II",
+            "en": "Château Pierre II"
+          },
+          "coords": [
+            -3.150271,
+            48.560141
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die imposanten Ruinen dieser Burg aus dem 15. Jahrhundert, um die Militärgeschichte zu entdecken, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ennek a 15. századi kastélynak az impozáns romjain, hogy felfedezze a régió katonai történelmét, és viseljen kényelmes cipőt az egyenetlen köves ösvényekhez.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestui castel din secolul al XV-lea pentru a descoperi istoria militară, și purtați pantofi confortabili pentru potecile de piatră.",
+            "en": "Wander through the imposing ruins of this 15th-century castle to uncover the military history of the region, and wear comfortable shoes for navigating the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Chapelle du Couvent des Ursulines",
+            "hu": "Ancienne Chapelle du Couvent des Ursulines",
+            "ro": "Ancienne Chapelle du Couvent des Ursulines",
+            "en": "Ancienne Chapelle du Couvent des Ursulines"
+          },
+          "coords": [
+            -3.147033,
+            48.560734
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschön erhaltene ehemalige Klosterkapelle ein, um die ruhige Atmosphäre zu genießen, und prüfen Sie den Zeitplan, da hier oft Kunstausstellungen stattfinden.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött egykori kolostorkápolnába, hogy megtapasztalja annak nyugodt légkörét, és ellenőrizze a programot, mivel gyakran ad otthont művészeti kiállításoknak.",
+            "ro": "Intrați în această fostă capelă a mănăstirii frumos conservată pentru a simți atmosfera senină și verificați programul local, deoarece găzduiește frecvent expoziții de artă.",
+            "en": "Step into this beautifully preserved former convent chapel to experience its serene atmosphere, and check the local schedule as it frequently hosts fascinating art exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum mit bürgerlichen Denkmälern und bretonischer Kultur. Mittags stehen die atemberaubende Basilika und eine mittelalterliche Burg im Mittelpunkt. Der Nachmittag ist für die Erkundung ruhiger Kapellen und grüner Herrenhäuser gedacht. Der Abend klingt mit Spaziergängen durch die beleuchteten Plätze aus.",
+        "hu": "A reggel a történelmi központban indul a polgári emlékművekkel és a breton kultúrával. A dél a lenyűgöző bazilika és egy középkori vár körül forog. A délután a csendes vallási kápolnák és a buja zöld udvarházak felfedezéséről szól. Az este pedig kellemes sétákkal zárul a város hangulatosan kivilágított központi terein.",
+        "ro": "Dimineața începe în centrul istoric cu monumente civice și cultură bretonă. Miezul zilei se învârte în jurul bazilicii uimitoare și al unui castel medieval. După-amiaza este dedicată explorării capelelor religioase liniștite și a conacelor verzi. Seara se încheie cu plimbări relaxante prin piețele centrale fermecător luminate ale orașului.",
+        "en": "Morning starts in the historic center with civic monuments and Breton culture. Midday revolves around the stunning basilica and a medieval castle. Afternoon is for exploring quiet religious chapels and lush green manors. Evening winds down with relaxing strolls back through the town's charmingly lit central squares."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Fontaine de la Plomée",
+            "hu": "La Fontaine de la Plomée",
+            "ro": "La Fontaine de la Plomée",
+            "en": "La Fontaine de la Plomée"
+          },
+          "coords": [
+            -3.151766,
+            48.561937
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Renaissance-Details dieses ikonischen Brunnens im Herzen der Stadt, der als Symbol für Guingamps Reichtum steht, und besuchen Sie die nahegelegenen Cafés.",
+            "hu": "Csodálja meg ezen ikonikus, a város szívében található reneszánsz szökőkút finom részleteit, amely Guingamp gazdagságát jelképezi, és ne hagyja ki a közeli hangulatos kávézókat.",
+            "ro": "Admirați detaliile renascentiste ale acestei fântâni iconice din inima orașului, care stă ca un simbol al bogăției din Guingamp, și nu uitați să verificați cafenelele din apropiere.",
+            "en": "Admire the intricate Renaissance details of this iconic fountain at the city's heart, which stands as a symbol of Guingamp's wealth, and don't forget to check the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de Bon-Secours",
+            "hu": "Basilica of Notre-Dame de Bon-Secours",
+            "ro": "Basilica of Notre-Dame de Bon-Secours",
+            "en": "Basilica of Notre-Dame de Bon-Secours"
+          },
+          "coords": [
+            -3.150827,
+            48.561165
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Mischung aus gotischen und barocken Stilen in dieser beeindruckenden Basilika, die für ihre Schwarze Madonna bekannt ist, und achten Sie auf die bunten Fenster.",
+            "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a Fekete Madonnáról ismert lenyűgöző bazilikában, és szánjon egy percet a gyönyörű ólomüveg ablakok megfigyelésére.",
+            "ro": "Minunați-vă de amestecul de stiluri gotice și renascentiste din această bazilică uimitoare, cunoscută pentru Madona Neagră, și admirați cu atenție frumoasele vitralii colorate.",
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning basilica known for its Black Madonna, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Pierre II",
+            "hu": "Château Pierre II",
+            "ro": "Château Pierre II",
+            "en": "Château Pierre II"
+          },
+          "coords": [
+            -3.150271,
+            48.560141
+          ],
+          "category": "castle",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die imposanten Ruinen dieser Burg aus dem 15. Jahrhundert, um die Militärgeschichte zu entdecken, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ennek a 15. századi kastélynak az impozáns romjain, hogy felfedezze a régió katonai történelmét, és viseljen kényelmes cipőt az egyenetlen köves ösvényekhez.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestui castel din secolul al XV-lea pentru a descoperi istoria militară, și purtați pantofi confortabili pentru potecile de piatră.",
+            "en": "Wander through the imposing ruins of this 15th-century castle to uncover the military history of the region, and wear comfortable shoes for navigating the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Salles",
+            "hu": "Château des Salles",
+            "ro": "Château des Salles",
+            "en": "Château des Salles"
+          },
+          "coords": [
+            -3.156633,
+            48.558396
+          ],
+          "category": "castle",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieses historischen Herrenhauses im Grünen, das einen perfekten Einblick in das aristokratische Leben bietet, und bringen Sie Ihre Kamera für die Fassade mit.",
+            "hu": "Fedezze fel a buja növényzetben megbúvó történelmi udvarház varázsát, amely bepillantást enged az arisztokrata életbe, és ne felejtse otthon a fényképezőgépét az elegáns homlokzathoz.",
+            "ro": "Descoperiți farmecul acestui conac istoric situat în verdeață luxuriantă, care oferă o privire perfectă asupra vieții aristocratice, și aduceți camera pentru a surprinde fațada.",
+            "en": "Discover the charm of this historic manor nestled in lush greenery which offers a perfect glimpse into aristocratic life, and bring your camera for capturing the elegant facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade de Roudourou",
+            "hu": "Stade de Roudourou",
+            "ro": "Stade de Roudourou",
+            "en": "Stade de Roudourou"
+          },
+          "coords": [
+            -3.16552,
+            48.56516
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spüren Sie die elektrische Energie der lokalen Fußballleidenschaft in diesem modernen Stadion von En Avant Guingamp und besuchen Sie den Fanshop für ein rot-schwarzes Souvenir.",
+            "hu": "Érezze a helyi futballszenvedély lüktetését ebben a modern stadionban, az En Avant Guingamp otthonában, és térjen be a hivatalos rajongói boltba egy piros-fekete ajándéktárgyért.",
+            "ro": "Simțiți energia electrică a pasiunii locale pentru fotbal la acest stadion modern, casa echipei En Avant Guingamp, și vizitați magazinul fanilor pentru un suvenir roșu cu negru.",
+            "en": "Feel the electric energy of local football passion at this modern stadium, home to En Avant Guingamp, and try to visit the official fan shop to grab a memorable red and black souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum mit bürgerlichen Denkmälern und bretonischer Kultur. Mittags stehen die atemberaubende Basilika und eine mittelalterliche Burg im Mittelpunkt. Der Nachmittag ist für die Erkundung ruhiger Kapellen und grüner Herrenhäuser gedacht. Der Abend klingt mit Spaziergängen durch die beleuchteten Plätze aus.",
+        "hu": "A reggel a történelmi központban indul a polgári emlékművekkel és a breton kultúrával. A dél a lenyűgöző bazilika és egy középkori vár körül forog. A délután a csendes vallási kápolnák és a buja zöld udvarházak felfedezéséről szól. Az este pedig kellemes sétákkal zárul a város hangulatosan kivilágított központi terein.",
+        "ro": "Dimineața începe în centrul istoric cu monumente civice și cultură bretonă. Miezul zilei se învârte în jurul bazilicii uimitoare și al unui castel medieval. După-amiaza este dedicată explorării capelelor religioase liniștite și a conacelor verzi. Seara se încheie cu plimbări relaxante prin piețele centrale fermecător luminate ale orașului.",
+        "en": "Morning starts in the historic center with civic monuments and Breton culture. Midday revolves around the stunning basilica and a medieval castle. Afternoon is for exploring quiet religious chapels and lush green manors. Evening winds down with relaxing strolls back through the town's charmingly lit central squares."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 4.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Kernabat",
+            "hu": "Château de Kernabat",
+            "ro": "Château de Kernabat",
+            "en": "Château de Kernabat"
+          },
+          "coords": [
+            -3.185691,
+            48.572075
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in die Außenbezirke, um dieses charmante historische Schloss inmitten der Natur zu besuchen, und nehmen Sie sich Zeit für einen Spaziergang über das malerische Gelände.",
+            "hu": "Meneküljön el a külvárosba, hogy meglátogassa ezt a természet ölelte bájos történelmi kastélyt, amely tökéletes egy békés elvonuláshoz, és sétáljon egyet a gondozott festői birtokon.",
+            "ro": "Evadați la periferie pentru a vizita acest fermecător castel istoric înconjurat de natură, perfect pentru o retragere pașnică, și faceți o plimbare prin parcul său pitoresc și îngrijit.",
+            "en": "Escape to the outskirts to visit this charming historical castle surrounded by nature, perfect for a peaceful retreat, and take a moment to walk around its well-maintained scenic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade de Roudourou",
+            "hu": "Stade de Roudourou",
+            "ro": "Stade de Roudourou",
+            "en": "Stade de Roudourou"
+          },
+          "coords": [
+            -3.16552,
+            48.56516
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die elektrische Energie der lokalen Fußballleidenschaft in diesem modernen Stadion von En Avant Guingamp und besuchen Sie den Fanshop für ein rot-schwarzes Souvenir.",
+            "hu": "Érezze a helyi futballszenvedély lüktetését ebben a modern stadionban, az En Avant Guingamp otthonában, és térjen be a hivatalos rajongói boltba egy piros-fekete ajándéktárgyért.",
+            "ro": "Simțiți energia electrică a pasiunii locale pentru fotbal la acest stadion modern, casa echipei En Avant Guingamp, și vizitați magazinul fanilor pentru un suvenir roșu cu negru.",
+            "en": "Feel the electric energy of local football passion at this modern stadium, home to En Avant Guingamp, and try to visit the official fan shop to grab a memorable red and black souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fontaine de la Plomée",
+            "hu": "La Fontaine de la Plomée",
+            "ro": "La Fontaine de la Plomée",
+            "en": "La Fontaine de la Plomée"
+          },
+          "coords": [
+            -3.151766,
+            48.561937
+          ],
+          "category": "civic",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Renaissance-Details dieses ikonischen Brunnens im Herzen der Stadt, der als Symbol für Guingamps Reichtum steht, und besuchen Sie die nahegelegenen Cafés.",
+            "hu": "Csodálja meg ezen ikonikus, a város szívében található reneszánsz szökőkút finom részleteit, amely Guingamp gazdagságát jelképezi, és ne hagyja ki a közeli hangulatos kávézókat.",
+            "ro": "Admirați detaliile renascentiste ale acestei fântâni iconice din inima orașului, care stă ca un simbol al bogăției din Guingamp, și nu uitați să verificați cafenelele din apropiere.",
+            "en": "Admire the intricate Renaissance details of this iconic fountain at the city's heart, which stands as a symbol of Guingamp's wealth, and don't forget to check the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de Bon-Secours",
+            "hu": "Basilica of Notre-Dame de Bon-Secours",
+            "ro": "Basilica of Notre-Dame de Bon-Secours",
+            "en": "Basilica of Notre-Dame de Bon-Secours"
+          },
+          "coords": [
+            -3.150827,
+            48.561165
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Mischung aus gotischen und barocken Stilen in dieser beeindruckenden Basilika, die für ihre Schwarze Madonna bekannt ist, und achten Sie auf die bunten Fenster.",
+            "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a Fekete Madonnáról ismert lenyűgöző bazilikában, és szánjon egy percet a gyönyörű ólomüveg ablakok megfigyelésére.",
+            "ro": "Minunați-vă de amestecul de stiluri gotice și renascentiste din această bazilică uimitoare, cunoscută pentru Madona Neagră, și admirați cu atenție frumoasele vitralii colorate.",
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning basilica known for its Black Madonna, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Pierre II",
+            "hu": "Château Pierre II",
+            "ro": "Château Pierre II",
+            "en": "Château Pierre II"
+          },
+          "coords": [
+            -3.150271,
+            48.560141
+          ],
+          "category": "castle",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die imposanten Ruinen dieser Burg aus dem 15. Jahrhundert, um die Militärgeschichte zu entdecken, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ennek a 15. századi kastélynak az impozáns romjain, hogy felfedezze a régió katonai történelmét, és viseljen kényelmes cipőt az egyenetlen köves ösvényekhez.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestui castel din secolul al XV-lea pentru a descoperi istoria militară, și purtați pantofi confortabili pentru potecile de piatră.",
+            "en": "Wander through the imposing ruins of this 15th-century castle to uncover the military history of the region, and wear comfortable shoes for navigating the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Joseph",
+            "hu": "Chapelle Saint-Joseph",
+            "ro": "Chapelle Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            -3.154895,
+            48.551171
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Gelassenheit und bescheidene Schönheit dieser malerischen Kapelle außerhalb des Zentrums und setzen Sie sich auf eine nahegelegene Bank, um nachzudenken.",
+            "hu": "Élvezze a nyüzsgő központon kívül található csendes kis kápolna békés nyugalmát és szerény szépségét, majd pihenjen meg egy közeli padon az épületet körülvevő meghitt kertben.",
+            "ro": "Bucurați-vă de liniștea senină și frumusețea modestă a acestei capele pitorești situate chiar în afara centrului aglomerat și așezați-vă pe o bancă pentru a reflecta în grădinile din jur.",
+            "en": "Enjoy the quiet serenity and modest beauty of this quaint chapel located just outside the bustling center, and sit on a nearby bench to reflect in the peaceful surrounding gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum mit bürgerlichen Denkmälern und bretonischer Kultur. Mittags stehen die atemberaubende Basilika und eine mittelalterliche Burg im Mittelpunkt. Der Nachmittag ist für die Erkundung ruhiger Kapellen und grüner Herrenhäuser gedacht. Der Abend klingt mit Spaziergängen durch die beleuchteten Plätze aus.",
+        "hu": "A reggel a történelmi központban indul a polgári emlékművekkel és a breton kultúrával. A dél a lenyűgöző bazilika és egy középkori vár körül forog. A délután a csendes vallási kápolnák és a buja zöld udvarházak felfedezéséről szól. Az este pedig kellemes sétákkal zárul a város hangulatosan kivilágított központi terein.",
+        "ro": "Dimineața începe în centrul istoric cu monumente civice și cultură bretonă. Miezul zilei se învârte în jurul bazilicii uimitoare și al unui castel medieval. După-amiaza este dedicată explorării capelelor religioase liniștite și a conacelor verzi. Seara se încheie cu plimbări relaxante prin piețele centrale fermecător luminate ale orașului.",
+        "en": "Morning starts in the historic center with civic monuments and Breton culture. Midday revolves around the stunning basilica and a medieval castle. Afternoon is for exploring quiet religious chapels and lush green manors. Evening winds down with relaxing strolls back through the town's charmingly lit central squares."
+      }
+    }
+  }
+}

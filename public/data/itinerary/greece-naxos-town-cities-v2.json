@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-naxos-town-cities-v2",
+  "anchor": {
+    "name": "Naxos Town",
+    "coords": [
+      25.3833,
+      37.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portara",
+            "hu": "Portara",
+            "ro": "Portara",
+            "en": "Portara"
+          },
+          "coords": [
+            25.3723,
+            37.110212
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das imposante Marmortor des unvollendeten Apollon-Tempels, besonders zum Sonnenaufgang reizvoll, aber achten Sie auf den starken Wind.",
+            "hu": "Csodálja meg a befejezetlen Apollón-templom lenyűgöző márványkapuját, amely napkeltekor a legszebb, de készüljön fel az erős tengeri szélre.",
+            "ro": "Admirați poarta masivă din marmură a templului neterminat al lui Apollo, superbă la răsărit, dar fiți pregătiți pentru vânturile de coastă puternice.",
+            "en": "Admire the iconic marble gateway of the unfinished Temple of Apollo, especially striking at sunrise, but be prepared for strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Vintsi",
+            "hu": "Vintsi",
+            "ro": "Vintsi",
+            "en": "Vintsi"
+          },
+          "coords": [
+            25.374104,
+            37.108015
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Küstenabschnitt und beobachten Sie die vorbeifahrenden Boote; bringen Sie eine Kamera für wunderbare Hafenmotive mit.",
+            "hu": "Pihenjen ezen a csendes tengerparti részen, miközben a hajókat figyeli; mindenképpen hozzon fényképezőgépet a hangulatos kikötői fotók kedvéért.",
+            "ro": "Relaxați-vă în acest loc liniștit pe coastă pentru a privi bărcile trecând, un loc excelent pentru a surprinde farmecul portului cu aparatul foto.",
+            "en": "Relax at this quiet coastal spot to watch the boats pass by, offering great photo opportunities, so bring your camera to capture the port's charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Satului",
+            "en": "Folk Museum"
+          },
+          "coords": [
+            25.375622,
+            37.107143
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Betreten Sie ein traditionelles naxisches Haus voller authentischer Artefakte, um die lokale Geschichte und besonders die detaillierten Webwaren zu entdecken.",
+            "hu": "Lépjen be egy hagyományos naxoszi házba, ahol autentikus tárgyakon keresztül ismerheti meg a helyi történelmet, és csodálja meg a finom szőtteseket.",
+            "ro": "Intrați într-o casă tradițională naxiotă pentru a explora istoria locală prin artefacte autentice și rezervați-vă timp pentru a admira textilele țesute.",
+            "en": "Step into a traditional Naxian house to explore local history through authentic artifacts, and take time to appreciate the detailed woven textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Iakovos Kampanelis",
+            "hu": "Iakovos Kampanelis",
+            "ro": "Iakovos Kampanelis",
+            "en": "Iakovos Kampanelis"
+          },
+          "coords": [
+            25.376896,
+            37.108173
+          ],
+          "category": "cultural",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und Werk des berühmten griechischen Dramatikers; der Raum ist ideal für Literaturliebhaber, die tiefere kulturelle Einblicke suchen.",
+            "hu": "Fedezze fel a híres görög drámaíró életét és munkásságát a neki szentelt térben, amely tökéletes az irodalomkedvelők kulturális elmélyüléséhez.",
+            "ro": "Descoperiți viața și opera celebrului dramaturg grec într-un spațiu dedicat, perfect pentru iubitorii de literatură care caută un context cultural profund.",
+            "en": "Discover the life and literary works of this renowned Greek playwright in his dedicated space, perfect for literature lovers wanting deeper cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Della Rocca-Barozzi Venezianisches Museum",
+            "hu": "Della Rocca-Barozzi Velencei Múzeum",
+            "ro": "Muzeul Venețian Della Rocca-Barozzi",
+            "en": "Della Rocca-Barozzi Venetian Museum"
+          },
+          "coords": [
+            25.376165,
+            37.105921
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut erhaltenen venezianischen Turm, um die mittelalterliche Epoche zu verstehen, und fragen Sie nach der Geschichte der Adelsfamilie.",
+            "hu": "Fedezze fel ezt a velencei tornyot, amely bemutatja a sziget középkori korszakát, és bátran kérdezze az idegenvezetőket a nemesi család történetéről.",
+            "ro": "Explorați acest turn venețian conservat pentru a înțelege perioada medievală a insulei și întrebați ghizii bine pregătiți despre istoria familiei nobiliare.",
+            "en": "Explore this preserved Venetian tower to understand the island's medieval period, and ask the knowledgeable guides about the noble family's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Naxos",
+            "hu": "Naxoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Naxos",
+            "en": "Archaeological Museum of Naxos"
+          },
+          "coords": [
+            25.377272,
+            37.105511
+          ],
+          "category": "museum",
+          "arrive_at": "14:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Sammlung kykladischer Figuren in einem historischen Gebäude; ein früher Besuch hilft, großen Touristenströmen auszuweichen.",
+            "hu": "Tekintse meg a kükladikus figurák lenyűgöző gyűjteményét egy történelmi épületben; érdemes korán érkezni, hogy elkerülje a nagyobb délutáni csoportokat.",
+            "ro": "Admirați o colecție impresionantă de figurine cicladice într-o clădire istorică; o vizită mai devreme vă ajută să evitați aglomerația grupurilor mari.",
+            "en": "View an impressive collection of Cycladic figurines housed in a historic building; visiting early helps you avoid the larger midday tour groups."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang in Naxos-Stadt an der imposanten Portara und genießen Sie die morgendliche Meeresbrise, bevor Sie die Ruhe von Vintsi erleben.\n\nGegen Mittag tauchen Sie im Volkskundemuseum und den kulturellen Ausstellungen von Iakovos Kampanelis in das reiche Erbe der Insel und ihre engen Gassen ein.\n\nDer Nachmittag lädt dazu ein, das venezianische Museum Della Rocca-Barozzi zu erkunden, wo mittelalterliche Geschichte auf elegante Architektur trifft.\n\nBeenden Sie Ihren Tag im Archäologischen Museum von Naxos und bewundern Sie die kykladische Kunst, während die untergehende Sonne das Zentrum in Gold taucht.",
+        "hu": "Kezdje naxoszi sétáját az impozáns Portaránál, magába szívva a reggeli tengeri szellőt, mielőtt a Vintsi partszakasz nyugalma felé venné az irányt.\n\nAhogy közeledik a dél, merüljön el a sziget gazdag örökségében a Néprajzi Múzeumban és Iakovos Kampanelis kiállításain, a szűk sikátorokban sétálva.\n\nA délután a Della Rocca-Barozzi Velencei Múzeum felfedezésére hív, ahol a középkori történelem és az elegáns építészet találkozik az óváros szívében.\n\nZárja a napot a Naxoszi Régészeti Múzeumban, csodálva a kükladikus művészetet, miközben a lemenő nap aranyos fényt vet a történelmi központra.",
+        "ro": "Începeți plimbarea prin Naxos la impunătoarea Portara, bucurându-vă de briza dimineții, înainte de a vă îndrepta spre liniștea de coastă din Vintsi.\n\nPe măsură ce se apropie prânzul, descoperiți bogata moștenire a insulei la Muzeul Satului și expozițiile lui Iakovos Kampanelis, rătăcind pe străduțele înguste.\n\nDupă-amiaza vă invită să explorați Muzeul Venețian Della Rocca-Barozzi, unde istoria medievală se îmbină cu arhitectura elegantă în inima orașului vechi.\n\nÎncheiați ziua la Muzeul Arheologic din Naxos, admirând arta cicladică antică în timp ce soarele la apus scaldă centrul istoric într-o lumină aurie.",
+        "en": "Begin your walking tour of Naxos Town at the imposing Portara, taking in the morning sea breeze before heading into the coastal serenity of Vintsi.\n\nAs midday approaches, dive into the island's rich heritage at the Folk Museum and the cultural exhibits of Iakovos Kampanelis, wandering the narrow alleys.\n\nThe afternoon invites you to explore the Della Rocca-Barozzi Venetian Museum, where medieval history meets elegant architecture in the heart of the old town.\n\nConclude your day at the Archaeological Museum of Naxos, marvelling at ancient Cycladic art as the setting sun casts a golden glow over the historical center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portara",
+            "hu": "Portara",
+            "ro": "Portara",
+            "en": "Portara"
+          },
+          "coords": [
+            25.3723,
+            37.110212
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das imposante Marmortor des unvollendeten Apollon-Tempels, besonders zum Sonnenaufgang reizvoll, aber achten Sie auf den starken Wind.",
+            "hu": "Csodálja meg a befejezetlen Apollón-templom lenyűgöző márványkapuját, amely napkeltekor a legszebb, de készüljön fel az erős tengeri szélre.",
+            "ro": "Admirați poarta masivă din marmură a templului neterminat al lui Apollo, superbă la răsărit, dar fiți pregătiți pentru vânturile de coastă puternice.",
+            "en": "Admire the iconic marble gateway of the unfinished Temple of Apollo, especially striking at sunrise, but be prepared for strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Satului",
+            "en": "Folk Museum"
+          },
+          "coords": [
+            25.375622,
+            37.107143
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Betreten Sie ein traditionelles naxisches Haus voller authentischer Artefakte, um die lokale Geschichte und besonders die detaillierten Webwaren zu entdecken.",
+            "hu": "Lépjen be egy hagyományos naxoszi házba, ahol autentikus tárgyakon keresztül ismerheti meg a helyi történelmet, és csodálja meg a finom szőtteseket.",
+            "ro": "Intrați într-o casă tradițională naxiotă pentru a explora istoria locală prin artefacte autentice și rezervați-vă timp pentru a admira textilele țesute.",
+            "en": "Step into a traditional Naxian house to explore local history through authentic artifacts, and take time to appreciate the detailed woven textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Naxos",
+            "hu": "Naxoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Naxos",
+            "en": "Archaeological Museum of Naxos"
+          },
+          "coords": [
+            25.377272,
+            37.105511
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Sammlung kykladischer Figuren in einem historischen Gebäude; ein früher Besuch hilft, großen Touristenströmen auszuweichen.",
+            "hu": "Tekintse meg a kükladikus figurák lenyűgöző gyűjteményét egy történelmi épületben; érdemes korán érkezni, hogy elkerülje a nagyobb délutáni csoportokat.",
+            "ro": "Admirați o colecție impresionantă de figurine cicladice într-o clădire istorică; o vizită mai devreme vă ajută să evitați aglomerația grupurilor mari.",
+            "en": "View an impressive collection of Cycladic figurines housed in a historic building; visiting early helps you avoid the larger midday tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Stefanos, Antikes Aquädukt",
+            "hu": "Szent István-bazilika, Ősi vízvezeték",
+            "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+            "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+          },
+          "coords": [
+            25.39216,
+            37.099541
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die faszinierenden Ruinen dieser frühchristlichen Basilika samt Aquädukt; festes Schuhwerk ist wegen des unebenen Geländes unverzichtbar.",
+            "hu": "Sétáljon a kora keresztény bazilika és vízvezeték lenyűgöző romjai között, de feltétlenül viseljen kényelmes túracipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale bazilicii paleocreștine și apeductului, dar purtați încălțăminte comodă deoarece terenul este destul de accidentat.",
+            "en": "Wander among the fascinating ruins of this early Christian basilica and aqueduct, wearing sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Naxaki Beach Lounge und Restaurant",
+            "hu": "Naxaki Beach Lounge és Étterem",
+            "ro": "Naxaki Beach Lounge și Restaurant",
+            "en": "Naxaki Beach Lounge and Restaurant"
+          },
+          "coords": [
+            25.375381,
+            37.096751
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause mit lokalen Meeresfrüchten und Strandblick, ideal, um sich vor der Weiterfahrt noch einmal richtig auszuruhen.",
+            "hu": "Fogyasszon el egy frissítő tengeri fogást közvetlenül a tengerparton, amely tökéletes pihenőhelyet nyújt, mielőtt folytatná a felfedező utat a szigeten.",
+            "ro": "Bucurați-vă de o pauză răcoritoare cu fructe de mare locale și vedere la plajă, un loc ideal pentru a vă odihni picioarele înainte de a continua explorarea.",
+            "en": "Enjoy a refreshing break with delicious local seafood and beachfront views, making it an ideal spot to rest your feet before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Laguna Beach Park",
+            "hu": "Laguna Beach Park",
+            "ro": "Laguna Beach Park",
+            "en": "Laguna Beach Park"
+          },
+          "coords": [
+            25.358372,
+            37.087156
+          ],
+          "category": "landmark",
+          "arrive_at": "15:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem beliebten Ort für Wind- und Kitesurfen; das flache Wasser eignet sich hervorragend für Anfänger im Wassersport.",
+            "hu": "Fejezze be a napot ezen a népszerű szörfös és kiteboardos partszakaszon; a sekély víz kifejezetten ideális a vízisportokkal ismerkedő kezdők számára.",
+            "ro": "Încheiați-vă traseul în acest loc popular pentru windsurf; apele puțin adânci sunt excelente pentru începătorii care doresc să încerce un sport acvatic.",
+            "en": "End your ride at this popular spot for windsurfing and kiteboarding; the shallow waters are excellent for beginners wanting to try a new water sport."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der spektakulären Portara und radeln Sie dann durch die Straßen zum Volkskundemuseum, um einen Blick auf lokale Traditionen zu werfen.\n\nRadeln Sie zum Archäologischen Museum von Naxos, um antike Artefakte zu bestaunen und den leicht erhöhten Blick über die traditionellen weißen Häuser zu genießen.\n\nVerlassen Sie das Zentrum in Richtung der beeindruckenden Ruinen der Basilika St. Stefanos und des antiken Aquädukts – eine perfekte Erkundung auf zwei Rädern.\n\nBeenden Sie Ihren aktiven Tag mit einer Fahrt zur Naxaki Beach Lounge und ausklingend am Laguna Beach Park, wenn die Sonne hinter dem Horizont versinkt.",
+        "hu": "Kezdje kerékpáros útját a látványos Portaránál, majd tekerjen végig a város utcáin a Néprajzi Múzeumhoz, hogy bepillantást nyerjen a helyi hagyományokba.\n\nTekerjen a Régészeti Múzeum felé, hogy megcsodálja az ősi leleteket, és élvezze a hagyományos fehér házakra nyíló, kissé megemelt kilátást.\n\nHagyja el a központot, és vegye az irányt a Szent István-bazilika és az ősi vízvezeték lenyűgöző romjai felé, ami tökéletes kétkerekes szabadtéri program.\n\nZárja aktív napját a Naxaki Beach Lounge-ban pihenve, majd érkezzen meg a festői Laguna Beach Parkba, ahogy a nap a csillogó horizont alá bukik.",
+        "ro": "Începeți-vă traseul cu bicicleta la spectaculoasa Portara, apoi pedalați pe străzile orașului până la Muzeul Satului pentru o privire asupra tradițiilor locale.\n\nPedalați către Muzeul Arheologic din Naxos pentru a admira artefactele antice, bucurându-vă de vederea ușor panoramică asupra caselor tradiționale albe.\n\nIeșiți din centrul principal spre ruinele uimitoare ale Bazilicii Sf. Ștefan și Apeductului Antic, o explorare perfectă în aer liber pe două roți.\n\nÎncheiați-vă ziua activă relaxându-vă la Naxaki Beach Lounge și oprindu-vă la Laguna Beach Park în timp ce soarele coboară sub orizontul sclipitor.",
+        "en": "Kick off your cycling journey at the spectacular Portara, then pedal through the town streets to the Folk Museum for a quick glimpse into local traditions.\n\nCycle towards the Archaeological Museum of Naxos to marvel at ancient artifacts, enjoying the slightly elevated views over the traditional white-washed houses.\n\nHead out of the main center towards the striking ruins of the Basilica of St. Stefanos and the Ancient Aqueduct, a perfect outdoor exploration on two wheels.\n\nFinish your active day cruising to Naxaki Beach Lounge for a rest, ending at the scenic Laguna Beach Park as the sun dips below the shimmering horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 13.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Limnodexameni Eggaron",
+            "hu": "Limnodexameni Eggaron",
+            "ro": "Limnodexameni Eggaron",
+            "en": "Limnodexameni Eggaron"
+          },
+          "coords": [
+            25.437809,
+            37.128512
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem friedlichen, von Natur umgebenen Stausee; ideal zur Vogelbeobachtung, also vergessen Sie Ihr Fernglas nicht.",
+            "hu": "Kezdje a reggelt ennél a békés, természettel körülvett mesterséges tónál; a madármegfigyeléshez érdemes magával hoznia egy jó minőségű távcsövet is.",
+            "ro": "Începeți dimineața la acest lac artificial liniștit înconjurat de natură, perfect pentru observarea păsărilor, așa că aduceți un binoclu pentru o experiență optimă.",
+            "en": "Start your morning at this peaceful artificial lake surrounded by nature, perfect for birdwatching, so bring binoculars for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Portara",
+            "hu": "Portara",
+            "ro": "Portara",
+            "en": "Portara"
+          },
+          "coords": [
+            25.3723,
+            37.110212
+          ],
+          "category": "landmark",
+          "arrive_at": "10:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie das imposante Marmortor des unvollendeten Apollon-Tempels, besonders zum Sonnenaufgang reizvoll, aber achten Sie auf den starken Wind.",
+            "hu": "Csodálja meg a befejezetlen Apollón-templom lenyűgöző márványkapuját, amely napkeltekor a legszebb, de készüljön fel az erős tengeri szélre.",
+            "ro": "Admirați poarta masivă din marmură a templului neterminat al lui Apollo, superbă la răsărit, dar fiți pregătiți pentru vânturile de coastă puternice.",
+            "en": "Admire the iconic marble gateway of the unfinished Temple of Apollo, especially striking at sunrise, but be prepared for strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Naxos",
+            "hu": "Naxoszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Naxos",
+            "en": "Archaeological Museum of Naxos"
+          },
+          "coords": [
+            25.377272,
+            37.105511
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Sammlung kykladischer Figuren in einem historischen Gebäude; ein früher Besuch hilft, großen Touristenströmen auszuweichen.",
+            "hu": "Tekintse meg a kükladikus figurák lenyűgöző gyűjteményét egy történelmi épületben; érdemes korán érkezni, hogy elkerülje a nagyobb délutáni csoportokat.",
+            "ro": "Admirați o colecție impresionantă de figurine cicladice într-o clădire istorică; o vizită mai devreme vă ajută să evitați aglomerația grupurilor mari.",
+            "en": "View an impressive collection of Cycladic figurines housed in a historic building; visiting early helps you avoid the larger midday tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Stefanos, Antikes Aquädukt",
+            "hu": "Szent István-bazilika, Ősi vízvezeték",
+            "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+            "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+          },
+          "coords": [
+            25.39216,
+            37.099541
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die faszinierenden Ruinen dieser frühchristlichen Basilika samt Aquädukt; festes Schuhwerk ist wegen des unebenen Geländes unverzichtbar.",
+            "hu": "Sétáljon a kora keresztény bazilika és vízvezeték lenyűgöző romjai között, de feltétlenül viseljen kényelmes túracipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale bazilicii paleocreștine și apeductului, dar purtați încălțăminte comodă deoarece terenul este destul de accidentat.",
+            "en": "Wander among the fascinating ruins of this early Christian basilica and aqueduct, wearing sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaiologiki Syllogi Yrion",
+            "hu": "Archaiologiki Syllogi Yrion",
+            "ro": "Archaiologiki Syllogi Yrion",
+            "en": "Archaiologiki Syllogi Yrion"
+          },
+          "coords": [
+            25.381567,
+            37.077346
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie das antike Dionysos-Heiligtum mit seinen bemerkenswerten Marmorsäulen; beachten Sie die Tafeln, die die reiche Mythologie detailliert erklären.",
+            "hu": "Fedezze fel az ősi Dionüszosz-szentélyt, amely figyelemreméltó márványoszlopokat rejt; olvassa el az információs táblákat a gazdag mitológiáról.",
+            "ro": "Descoperiți vechiul sanctuar al lui Dionis care expune coloane de marmură remarcabile; citiți plăcuțele informative care detaliază bogata mitologie a locului.",
+            "en": "Discover the ancient sanctuary of Dionysus showcasing remarkable marble columns; look for the informative plaques detailing the site's rich mythology."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqua fun",
+            "hu": "Aqua fun",
+            "ro": "Aqua fun",
+            "en": "Aqua fun"
+          },
+          "coords": [
+            25.35416,
+            37.08178
+          ],
+          "category": "family",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.46,
+          "tip_5lang": {
+            "de": "Planschen Sie in den Pools und auf den Wasserrutschen dieses familienfreundlichen Parks; bringen Sie eigene Handtücher mit und genießen Sie den späten Nachmittag.",
+            "hu": "Csobbanjon egyet a medencékben és csúszdákon ebben a családbarát parkban; hozzon saját törölközőt, és élvezze a késő délutáni vidám pillanatokat.",
+            "ro": "Distrați-vă în piscinele și toboganele acestui parc acvatic pentru familii; aduceți-vă propriile prosoape și bucurați-vă de o după-amiază plină de energie.",
+            "en": "Splash around in the pools and water slides at this family-friendly park, bringing your own towels and arriving late afternoon for a discounted entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ruhigen Limnodexameni Eggaron, um den Tag in der Natur zu beginnen, bevor Sie zur Küste zurückkehren, um die ikonische Portara zu bewundern.\n\nParken Sie nahe dem Zentrum und besuchen Sie das Archäologische Museum von Naxos, gefolgt von einer kurzen Fahrt zur faszinierenden Basilika St. Stefanos.\n\nSetzen Sie Ihren Roadtrip nach Süden fort, um die Archaiologiki Syllogi Yrion zu erkunden und in die tiefe antike Geschichte und ruhige Landschaft einzutauchen.\n\nRunden Sie Ihr Naxos-Fahrabenteuer mit einem erfrischenden Bad im Aqua fun ab; eine großartige Möglichkeit, sich vor dem Abendessen abzukühlen.",
+        "hu": "Autózzon el a csendes Limnodexameni Eggaron tóhoz, hogy a természetben kezdje a napot, mielőtt visszatérne a partra az ikonikus Portara megtekintéséhez.\n\nParkoljon le a városközpont közelében, látogasson el a Régészeti Múzeumba, majd tegyen egy rövid autózást a lenyűgöző Szent István-bazilika felé.\n\nFolytassa útját délre, és fedezze fel az Archaiologiki Syllogi Yriont, elmerülve a sziget mély ókori történelmében és békés tájában.\n\nZárja naxoszi autós kalandját egy frissítő csobbanással az Aqua fun parkban, amely remek kikapcsolódás a késő délutáni melegben, vacsora előtt.",
+        "ro": "Conduceți până la liniștitul Limnodexameni Eggaron pentru a vă începe ziua în natură, înainte de a vă întoarce pe coastă pentru a vedea iconica Portara.\n\nParcați aproape de centru și vizitați Muzeul Arheologic din Naxos, urmat de un scurt drum pitoresc până la fascinanta Bazilică a Sfântului Ștefan.\n\nContinuați-vă călătoria spre sud pentru a explora Archaiologiki Syllogi Yrion, cufundându-vă în istoria antică profundă și peisajul senin al insulei.\n\nÎncheiați-vă aventura auto din Naxos cu o bălăceală energică la Aqua fun, o modalitate excelentă de a vă răcori și a vă bucura de după-amiază.",
+        "en": "Drive out to the tranquil Limnodexameni Eggaron to start your day surrounded by nature, before heading back to the coast to witness the iconic Portara.\n\nPark near the town center and step into the Archaeological Museum of Naxos, followed by a short scenic drive to the fascinating Basilica of St. Stefanos.\n\nContinue your road trip south to explore the Archaiologiki Syllogi Yrion, immersing yourself in the profound ancient history and serene landscape of the island.\n\nWrap up your Naxos driving adventure with an energetic splash at Aqua fun, a great way to cool off and enjoy the late afternoon before dinner."
+      }
+    }
+  }
+}

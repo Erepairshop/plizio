@@ -1,0 +1,589 @@
+{
+  "city_id": "portugal-capelas-cities-v2",
+  "anchor": {
+    "name": "Capelas",
+    "coords": [
+      -25.68887,
+      37.83702
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 4.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Apresentação",
+            "hu": "Igreja de Nossa Senhora da Apresentação",
+            "ro": "Igreja de Nossa Senhora da Apresentação",
+            "en": "Igreja de Nossa Senhora da Apresentação"
+          },
+          "coords": [
+            -25.688579,
+            37.837368
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle azoreanische Architektur dieser historischen Kirche und kommen Sie am besten früh, um die friedliche Morgenstimmung am Hauptplatz zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos azori építészetét, és érkezzen korán, hogy átélhesse a főtér békés reggeli hangulatát.",
+            "ro": "Admirați arhitectura tradițională azoreană a acestei biserici istorice și veniți devreme pentru a vă bucura de atmosfera pașnică a dimineții în piața principală.",
+            "en": "Admire the traditional Azorean architecture of this historic church and arrive early to soak up the peaceful morning atmosphere in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Capelas",
+            "hu": "Museu Capelas",
+            "ro": "Museu Capelas",
+            "en": "Museu Capelas"
+          },
+          "coords": [
+            -25.692466,
+            37.830354
+          ],
+          "category": "museum",
+          "arrive_at": "10:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Walfanggeschichte der Insel ein und nehmen Sie sich Zeit für die faszinierenden maritimen Exponate im ersten Stock.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében, és feltétlenül szánjon időt az első emelet lenyűgöző tengerészeti kiállításainak megtekintésére.",
+            "ro": "Scufundați-vă în istoria bogată a vânătorii de balene a insulei și asigurați-vă că vă faceți timp pentru expozițiile maritime fascinante de la primul etaj.",
+            "en": "Delve into the island's rich whaling history and make sure you allocate enough time for the fascinating maritime exhibits located on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Maranhãu",
+            "hu": "Miradouro do Maranhãu",
+            "ro": "Miradouro do Maranhãu",
+            "en": "Miradouro do Maranhãu"
+          },
+          "coords": [
+            -25.706081,
+            37.831979
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den atemberaubenden Blick über die zerklüftete Küste auf sich wirken und bringen Sie ein Fernglas mit, um Seevögel an den Klippen zu beobachten.",
+            "hu": "Élvezze a lenyűgöző kilátást a csipkézett partvidékre, és hozzon magával távcsövet a szikláknál fészkelő tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea uluitoare asupra coastei accidentate și aduceți binoclul pentru a observa păsările marine care cuibăresc pe stânci.",
+            "en": "Take in the breathtaking view of the rugged coastline and remember to bring binoculars to easily spot sea birds nesting along the jagged cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Vigia",
+            "hu": "Miradouro da Vigia",
+            "ro": "Miradouro da Vigia",
+            "en": "Miradouro da Vigia"
+          },
+          "coords": [
+            -25.685004,
+            37.840754
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die dramatischen Wellen an diesem berühmten Aussichtspunkt, der sich perfekt für windige, aber spektakuläre Panoramafotos eignet.",
+            "hu": "Nézze meg a drámai hullámokat erről a híres kilátópontról, amely szeles, de tökéletes helyszínt biztosít lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Observați valurile dramatice de la acest punct de belvedere faimos, care este perfect pentru a surprinde fotografii panoramice spectaculoase și vântoase.",
+            "en": "Watch the dramatic waves crashing from this famous viewpoint, which provides a breezy but perfect setting for capturing spectacular panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Pesceiros",
+            "hu": "Miradouro do Pesceiros",
+            "ro": "Miradouro do Pesceiros",
+            "en": "Miradouro do Pesceiros"
+          },
+          "coords": [
+            -25.690249,
+            37.84247
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie diesen ruhigen Rastplatz mit Blick auf den Ozean, der sich besonders gut für ein kurzes Picknick abseits der größeren Touristenströme anbietet.",
+            "hu": "Élvezze ezt a csendes, óceánra néző pihenőhelyet, amely kiválóan alkalmas egy rövid piknikre a nagyobb turistatömegektől távol eső nyugalomban.",
+            "ro": "Bucurați-vă de acest loc de odihnă liniștit cu vedere la ocean, care este ideal pentru un scurt picnic, departe de aglomerația mare de turiști.",
+            "en": "Enjoy this quiet resting spot overlooking the ocean, which is highly recommended for a quick picnic away from the larger crowds of busy tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Fopo",
+            "hu": "Miradouro do Fopo",
+            "ro": "Miradouro do Fopo",
+            "en": "Miradouro do Fopo"
+          },
+          "coords": [
+            -25.691808,
+            37.84365
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versteckten Felsformationen entlang der Küstenlinie und tragen Sie festes Schuhwerk, da der Zugangsweg teilweise uneben sein kann.",
+            "hu": "Fedezze fel a partvonal mentén rejtőző sziklaformációkat, és viseljen zárt cipőt, mivel a megközelítéshez vezető ösvény néhol egyenetlen lehet.",
+            "ro": "Descoperiți formațiunile stâncoase ascunse de-a lungul liniei de coastă și purtați încălțăminte solidă, deoarece poteca de acces poate fi uneori denivelată.",
+            "en": "Discover the hidden rock formations dotting the coastline, and be sure to wear sturdy shoes since the approach trail can be somewhat uneven in places."
+          }
+        },
+        {
+          "name": {
+            "de": "Calhau Miúdo",
+            "hu": "Calhau Miúdo",
+            "ro": "Calhau Miúdo",
+            "en": "Calhau Miúdo"
+          },
+          "coords": [
+            -25.692887,
+            37.844574
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt, der zum Baden einlädt, aber achten Sie auf die Unterwasserströmungen und bleiben Sie in Ufernähe.",
+            "hu": "Pihenjen ezen a festői partszakaszon, amely tökéletes fürdőzésre, de ügyeljen a víz alatti áramlatokra, és mindig maradjon biztonságos távolságban a parttól.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă, perfectă pentru înot, dar fiți atenți la curenții subacvatici și stați aproape de țărm pentru siguranță.",
+            "en": "Relax at this picturesque stretch of coastline that is perfect for a swim, but be mindful of the underwater currents and stay close to the shore for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt im Herzen von Capelas an der malerischen Kirche, gefolgt von einer tiefen Eintauchung in die Geschichte im Museu Capelas. Danach führt Sie der Spaziergang an die Küste, wo atemberaubende Ausblicke warten. Nachmittags wandern Sie von Aussichtspunkt zu Aussichtspunkt entlang der Steilklippen. Der Tag endet friedlich in der Natur bei Calhau Miúdo.",
+        "hu": "Kezdje a napot Capelas szívében a festői templomnál, majd merüljön el a történelemben a Capelas Múzeumban. Ezután a séta a partra vezet, ahol lenyűgöző kilátás várja. Délután a meredek sziklák mentén túrázhat a különböző csodálatos kilátópontok között. A nap békésen, a természet lágy ölén zárul a Calhau Miúdo pihentető környezetében.",
+        "ro": "Începeți ziua relaxat în inima orașului Capelas la biserica pitorească, urmată de o scufundare în istorie la Muzeul Capelas. Apoi plimbarea vă duce pe coastă, unde vă așteaptă priveliști uimitoare. După-amiaza veți merge din punct de belvedere în punct de belvedere de-a lungul stâncilor abrupte. Ziua se încheie liniștit în mijlocul naturii la Calhau Miúdo.",
+        "en": "Start your day relaxed in the heart of Capelas at the picturesque church, followed by a deep dive into local history at the Museu Capelas. Afterwards, your walk takes you to the rugged coast, where stunning views await. In the afternoon, you will stroll from viewpoint to viewpoint along the steep cliffs. The day ends peacefully surrounded by nature at Calhau Miúdo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 7.76,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Apresentação",
+            "hu": "Igreja de Nossa Senhora da Apresentação",
+            "ro": "Igreja de Nossa Senhora da Apresentação",
+            "en": "Igreja de Nossa Senhora da Apresentação"
+          },
+          "coords": [
+            -25.688579,
+            37.837368
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle azoreanische Architektur dieser historischen Kirche und kommen Sie am besten früh, um die friedliche Morgenstimmung am Hauptplatz zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos azori építészetét, és érkezzen korán, hogy átélhesse a főtér békés reggeli hangulatát.",
+            "ro": "Admirați arhitectura tradițională azoreană a acestei biserici istorice și veniți devreme pentru a vă bucura de atmosfera pașnică a dimineții în piața principală.",
+            "en": "Admire the traditional Azorean architecture of this historic church and arrive early to soak up the peaceful morning atmosphere in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Capelas",
+            "hu": "Museu Capelas",
+            "ro": "Museu Capelas",
+            "en": "Museu Capelas"
+          },
+          "coords": [
+            -25.692466,
+            37.830354
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Walfanggeschichte der Insel ein und nehmen Sie sich Zeit für die faszinierenden maritimen Exponate im ersten Stock.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében, és feltétlenül szánjon időt az első emelet lenyűgöző tengerészeti kiállításainak megtekintésére.",
+            "ro": "Scufundați-vă în istoria bogată a vânătorii de balene a insulei și asigurați-vă că vă faceți timp pentru expozițiile maritime fascinante de la primul etaj.",
+            "en": "Delve into the island's rich whaling history and make sure you allocate enough time for the fascinating maritime exhibits located on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Maranhãu",
+            "hu": "Miradouro do Maranhãu",
+            "ro": "Miradouro do Maranhãu",
+            "en": "Miradouro do Maranhãu"
+          },
+          "coords": [
+            -25.706081,
+            37.831979
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den atemberaubenden Blick über die zerklüftete Küste auf sich wirken und bringen Sie ein Fernglas mit, um Seevögel an den Klippen zu beobachten.",
+            "hu": "Élvezze a lenyűgöző kilátást a csipkézett partvidékre, és hozzon magával távcsövet a szikláknál fészkelő tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea uluitoare asupra coastei accidentate și aduceți binoclul pentru a observa păsările marine care cuibăresc pe stânci.",
+            "en": "Take in the breathtaking view of the rugged coastline and remember to bring binoculars to easily spot sea birds nesting along the jagged cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro das Pedras Negras",
+            "hu": "Miradouro das Pedras Negras",
+            "ro": "Miradouro das Pedras Negras",
+            "en": "Miradouro das Pedras Negras"
+          },
+          "coords": [
+            -25.672469,
+            37.835591
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blicken Sie auf die dunklen Vulkansteine, die dem Ort seinen Namen geben, und nutzen Sie das weiche Nachmittagslicht für besonders dramatische Fotos.",
+            "hu": "Tekintse meg a sötét vulkáni köveket, amelyekről a hely a nevét kapta, és használja ki a lágy délutáni fényeket a különösen drámai fotók elkészítéséhez.",
+            "ro": "Priviți pietrele vulcanice întunecate care dau numele locului și profitați de lumina blândă a după-amiezii pentru a realiza fotografii cu adevărat dramatice.",
+            "en": "Gaze out at the dark volcanic stones that give the spot its name, and take advantage of the soft afternoon light for capturing exceptionally dramatic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Sertão",
+            "hu": "Miradouro do Sertão",
+            "ro": "Miradouro do Sertão",
+            "en": "Miradouro do Sertão"
+          },
+          "coords": [
+            -25.677811,
+            37.836515
+          ],
+          "category": "natural",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Aussicht über die grünen Hänge und das blaue Meer, während Sie sich auf einer der Bänke kurz von der Fahrradtour erholen.",
+            "hu": "Tapasztalja meg a zöld lejtőkre és a kék tengerre nyíló tágas kilátást, miközben megpihen az egyik padon a kerékpártúra fáradalmai után.",
+            "ro": "Experimentați vederea vastă asupra pantelor verzi și a mării albastre, în timp ce vă odihniți pe una dintre bănci după o plimbare revigorantă cu bicicleta.",
+            "en": "Experience the expansive view across the green slopes and blue sea while resting on one of the benches to recover briefly from your bicycle ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro das \"Capelas\"",
+            "hu": "Miradouro das \"Capelas\"",
+            "ro": "Miradouro das \"Capelas\"",
+            "en": "Miradouro das \"Capelas\""
+          },
+          "coords": [
+            -25.674433,
+            37.835095
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Verschaffen Sie sich einen großartigen Überblick über das gesamte Dorf und versuchen Sie, die Orientierungspunkte aus dieser erhöhten Perspektive zu erkennen.",
+            "hu": "Kapjon nagyszerű áttekintést az egész faluról erről a kilátóról, és próbálja meg beazonosítani a már meglátogatott nevezetességeket ebből a magaslati pontból.",
+            "ro": "Obțineți o imagine de ansamblu excelentă asupra întregului sat de aici și încercați să identificați punctele de reper din această perspectivă înaltă.",
+            "en": "Gain a magnificent overview of the entire village from this vantage point, and try identifying the various local landmarks from this elevated perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Vigia",
+            "hu": "Miradouro da Vigia",
+            "ro": "Miradouro da Vigia",
+            "en": "Miradouro da Vigia"
+          },
+          "coords": [
+            -25.685004,
+            37.840754
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die dramatischen Wellen an diesem berühmten Aussichtspunkt, der sich perfekt für windige, aber spektakuläre Panoramafotos eignet.",
+            "hu": "Nézze meg a drámai hullámokat erről a híres kilátópontról, amely szeles, de tökéletes helyszínt biztosít lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Observați valurile dramatice de la acest punct de belvedere faimos, care este perfect pentru a surprinde fotografii panoramice spectaculoase și vântoase.",
+            "en": "Watch the dramatic waves crashing from this famous viewpoint, which provides a breezy but perfect setting for capturing spectacular panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Calhau Miúdo",
+            "hu": "Calhau Miúdo",
+            "ro": "Calhau Miúdo",
+            "en": "Calhau Miúdo"
+          },
+          "coords": [
+            -25.692887,
+            37.844574
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt, der zum Baden einlädt, aber achten Sie auf die Unterwasserströmungen und bleiben Sie in Ufernähe.",
+            "hu": "Pihenjen ezen a festői partszakaszon, amely tökéletes fürdőzésre, de ügyeljen a víz alatti áramlatokra, és mindig maradjon biztonságos távolságban a parttól.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă, perfectă pentru înot, dar fiți atenți la curenții subacvatici și stați aproape de țărm pentru siguranță.",
+            "en": "Relax at this picturesque stretch of coastline that is perfect for a swim, but be mindful of the underwater currents and stay close to the shore for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt im Zentrum und führt Sie schnell zum maritimen Museum, bevor Sie die Küstenstraße erkunden. Am Mittag erreichen Sie die dramatischen Klippen und die dunklen Steine der westlichen Aussichtspunkte. Nachmittags radeln Sie gemütlich durch die hügelige Landschaft und passieren weitere malerische Ausblicke. Schließlich lassen Sie den Tag am Ozean ausklingen.",
+        "hu": "A kerékpártúra a központból indul, és hamar a tengerészeti múzeumhoz vezet, mielőtt felfedezné a tengerparti utat. Délben eléri a drámai sziklákat és a nyugati kilátók sötét köveit. Délután kényelmesen kerekezik a dombos tájon, újabb festői panorámák mellett elhaladva. Végül a napot az óceán partján, a hullámok hangjával a háttérben zárja.",
+        "ro": "Plimbarea cu bicicleta începe în centru și vă duce rapid la muzeul maritim înainte de a explora drumul de coastă. La prânz ajungeți la stâncile dramatice și la pietrele întunecate din vest. După-amiaza pedalați confortabil prin peisajul deluros, trecând pe lângă mai multe priveliști pitorești. În cele din urmă, lăsați ziua să se încheie relaxant lângă ocean.",
+        "en": "Your bike ride begins in the center and quickly leads to the maritime museum before you explore the coastal road. By midday, you will reach the dramatic cliffs and dark stones of the western viewpoints. In the afternoon, pedal comfortably through the hilly landscape, passing more picturesque panoramas. Finally, wind down your active day right by the ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 4.65,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Capelas",
+            "hu": "Museu Capelas",
+            "ro": "Museu Capelas",
+            "en": "Museu Capelas"
+          },
+          "coords": [
+            -25.692466,
+            37.830354
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Walfanggeschichte der Insel ein und nehmen Sie sich Zeit für die faszinierenden maritimen Exponate im ersten Stock.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében, és feltétlenül szánjon időt az első emelet lenyűgöző tengerészeti kiállításainak megtekintésére.",
+            "ro": "Scufundați-vă în istoria bogată a vânătorii de balene a insulei și asigurați-vă că vă faceți timp pentru expozițiile maritime fascinante de la primul etaj.",
+            "en": "Delve into the island's rich whaling history and make sure you allocate enough time for the fascinating maritime exhibits located on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Apresentação",
+            "hu": "Igreja de Nossa Senhora da Apresentação",
+            "ro": "Igreja de Nossa Senhora da Apresentação",
+            "en": "Igreja de Nossa Senhora da Apresentação"
+          },
+          "coords": [
+            -25.688579,
+            37.837368
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle azoreanische Architektur dieser historischen Kirche und kommen Sie am besten früh, um die friedliche Morgenstimmung am Hauptplatz zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos azori építészetét, és érkezzen korán, hogy átélhesse a főtér békés reggeli hangulatát.",
+            "ro": "Admirați arhitectura tradițională azoreană a acestei biserici istorice și veniți devreme pentru a vă bucura de atmosfera pașnică a dimineții în piața principală.",
+            "en": "Admire the traditional Azorean architecture of this historic church and arrive early to soak up the peaceful morning atmosphere in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Navio",
+            "hu": "Miradouro do Navio",
+            "ro": "Miradouro do Navio",
+            "en": "Miradouro do Navio"
+          },
+          "coords": [
+            -25.675981,
+            37.834789
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Meeresbrandung von diesem felsigen Vorsprung aus und nehmen Sie eine Windjacke mit, da hier oft eine steife Brise vom Atlantik weht.",
+            "hu": "Figyelje meg a tenger hullámzását erről a sziklás kiszögellésről, és vigyen magával széldzsekit, mivel itt gyakran fúj erős szél az Atlanti-óceán felől.",
+            "ro": "Urmăriți valurile oceanului din acest promontoriu stâncos și luați cu dumneavoastră o jachetă de vânt, deoarece adesea suflă o briză puternică de pe Atlantic.",
+            "en": "Watch the ocean surf crash from this rocky outcropping, and remember to pack a windbreaker since a stiff breeze often blows directly from the Atlantic."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Sertão",
+            "hu": "Miradouro do Sertão",
+            "ro": "Miradouro do Sertão",
+            "en": "Miradouro do Sertão"
+          },
+          "coords": [
+            -25.677811,
+            37.836515
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Aussicht über die grünen Hänge und das blaue Meer, während Sie sich auf einer der Bänke kurz von der Fahrradtour erholen.",
+            "hu": "Tapasztalja meg a zöld lejtőkre és a kék tengerre nyíló tágas kilátást, miközben megpihen az egyik padon a kerékpártúra fáradalmai után.",
+            "ro": "Experimentați vederea vastă asupra pantelor verzi și a mării albastre, în timp ce vă odihniți pe una dintre bănci după o plimbare revigorantă cu bicicleta.",
+            "en": "Experience the expansive view across the green slopes and blue sea while resting on one of the benches to recover briefly from your bicycle ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro das Pedras Negras",
+            "hu": "Miradouro das Pedras Negras",
+            "ro": "Miradouro das Pedras Negras",
+            "en": "Miradouro das Pedras Negras"
+          },
+          "coords": [
+            -25.672469,
+            37.835591
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Blicken Sie auf die dunklen Vulkansteine, die dem Ort seinen Namen geben, und nutzen Sie das weiche Nachmittagslicht für besonders dramatische Fotos.",
+            "hu": "Tekintse meg a sötét vulkáni köveket, amelyekről a hely a nevét kapta, és használja ki a lágy délutáni fényeket a különösen drámai fotók elkészítéséhez.",
+            "ro": "Priviți pietrele vulcanice întunecate care dau numele locului și profitați de lumina blândă a după-amiezii pentru a realiza fotografii cu adevărat dramatice.",
+            "en": "Gaze out at the dark volcanic stones that give the spot its name, and take advantage of the soft afternoon light for capturing exceptionally dramatic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Vigia",
+            "hu": "Miradouro da Vigia",
+            "ro": "Miradouro da Vigia",
+            "en": "Miradouro da Vigia"
+          },
+          "coords": [
+            -25.685004,
+            37.840754
+          ],
+          "category": "natural",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die dramatischen Wellen an diesem berühmten Aussichtspunkt, der sich perfekt für windige, aber spektakuläre Panoramafotos eignet.",
+            "hu": "Nézze meg a drámai hullámokat erről a híres kilátópontról, amely szeles, de tökéletes helyszínt biztosít lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Observați valurile dramatice de la acest punct de belvedere faimos, care este perfect pentru a surprinde fotografii panoramice spectaculoase și vântoase.",
+            "en": "Watch the dramatic waves crashing from this famous viewpoint, which provides a breezy but perfect setting for capturing spectacular panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Pesceiros",
+            "hu": "Miradouro do Pesceiros",
+            "ro": "Miradouro do Pesceiros",
+            "en": "Miradouro do Pesceiros"
+          },
+          "coords": [
+            -25.690249,
+            37.84247
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie diesen ruhigen Rastplatz mit Blick auf den Ozean, der sich besonders gut für ein kurzes Picknick abseits der größeren Touristenströme anbietet.",
+            "hu": "Élvezze ezt a csendes, óceánra néző pihenőhelyet, amely kiválóan alkalmas egy rövid piknikre a nagyobb turistatömegektől távol eső nyugalomban.",
+            "ro": "Bucurați-vă de acest loc de odihnă liniștit cu vedere la ocean, care este ideal pentru un scurt picnic, departe de aglomerația mare de turiști.",
+            "en": "Enjoy this quiet resting spot overlooking the ocean, which is highly recommended for a quick picnic away from the larger crowds of busy tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Calhau Miúdo",
+            "hu": "Calhau Miúdo",
+            "ro": "Calhau Miúdo",
+            "en": "Calhau Miúdo"
+          },
+          "coords": [
+            -25.692887,
+            37.844574
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt, der zum Baden einlädt, aber achten Sie auf die Unterwasserströmungen und bleiben Sie in Ufernähe.",
+            "hu": "Pihenjen ezen a festői partszakaszon, amely tökéletes fürdőzésre, de ügyeljen a víz alatti áramlatokra, és mindig maradjon biztonságos távolságban a parttól.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă, perfectă pentru înot, dar fiți atenți la curenții subacvatici și stați aproape de țărm pentru siguranță.",
+            "en": "Relax at this picturesque stretch of coastline that is perfect for a swim, but be mindful of the underwater currents and stay close to the shore for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie komfortabel am Museum, um in die Kultur der Azoren einzutauchen, bevor Sie die historische Kirche im Zentrum besichtigen. Zur Mittagszeit cruisen Sie entlang der Küste und halten an spektakulären Klippen an. Der Nachmittag bietet eine nahtlose Fahrt zwischen den besten Aussichtspunkten der Insel. Der Ausflug endet entspannt am idyllischen Küstenabschnitt.",
+        "hu": "Induljon kényelmesen a múzeumból, hogy elmerüljön az azori kultúrában, mielőtt meglátogatná a központban lévő történelmi templomot. Ebédidőben a part mentén cirkál, és látványos szikláknál áll meg. A délután zökkenőmentes autózást kínál a sziget legjobb kilátópontjai között. A kirándulás nyugodtan ér véget az idilli partszakaszon.",
+        "ro": "Începeți confortabil la muzeu pentru a vă scufunda în cultura din Azore înainte de a vizita biserica istorică. La prânz, navigați de-a lungul coastei și opriți-vă la stânci spectaculoase. După-amiaza vă oferă o plimbare fără probleme între cele mai bune puncte de belvedere ale insulei. Excursia se încheie relaxat pe porțiunea idilică de coastă.",
+        "en": "Start comfortably at the museum to immerse yourself in Azorean culture before visiting the historic church in the center. At midday, cruise along the coastline and stop at spectacular rocky cliffs. The afternoon offers a seamless drive between the island's most stunning scenic viewpoints. The trip concludes peacefully at the idyllic coastal stretch."
+      }
+    }
+  }
+}

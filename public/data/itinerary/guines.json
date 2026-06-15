@@ -1,0 +1,520 @@
+{
+  "city_id": "guines",
+  "anchor": {
+    "name": "Guînes",
+    "coords": [
+      1.8703,
+      50.8692
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 7.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrenturm (Tour de l'Horloge)",
+            "hu": "Óratorony (Tour de l'Horloge)",
+            "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            1.86953,
+            50.868893
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Wikingererbe und lokale Geschichte in diesem faszinierenden Museum in einem historischen Turm; steigen Sie für die Aussicht hinauf, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a viking örökséget és a helyi történelmet ebben a történelmi toronyban működő múzeumban; másszon fel a remek kilátásért, de viseljen kényelmes cipőt a lépcsőkhöz.",
+            "ro": "Descoperiți moștenirea vikingă și istoria locală în acest muzeu fascinant dintr-un turn istoric; urcați pentru o priveliște minunată, dar purtați încălțăminte confortabilă.",
+            "en": "Discover Viking heritage and local history in this fascinating museum housed in a historic tower; climb to the top for a great view, but wear comfortable shoes for the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.867668,
+            50.867197
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieser zentralen Kirche und betrachten Sie die detaillierten Buntglasfenster während der ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét és békés hangulatát, és szánjon egy percet a részletes ólomüveg ablakok megtekintésére a csendesebb reggeli órákban.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera pașnică a acestei biserici centrale, alocând un moment vitraliilor detaliate în timpul orelor mai liniștite ale dimineții.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this central church, taking a moment to appreciate its detailed stained glass windows during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet von Guînes",
+            "hu": "Guînes-i mocsár",
+            "ro": "Mlaștina Guînes",
+            "en": "Guînes Marsh"
+          },
+          "coords": [
+            1.873683,
+            50.882062
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Feuchtgebiet, indem Sie ein traditionelles Boot mieten, und bringen Sie ein Fernglas mit, um die reiche Vogelwelt in den ausgedehnten Wasserwegen zu beobachten.",
+            "hu": "Fedezze fel a nyugodt vizes élőhelyet egy kis hagyományos csónak bérlésével, és hozzon távcsövet a kiterjedt zöld vízi utakon nyüzsgő gazdag helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați ecosistemul seren al mlaștinilor închiriind o barcă tradițională și aduceți binoclul pentru a observa avifauna locală bogată printre căile navigabile verzi extinse.",
+            "en": "Explore the serene wetland ecosystem by renting a small traditional boat, and bring binoculars to observe the rich local birdlife thriving among the extensive green waterways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Jeanne d'Arc",
+            "hu": "Sainte-Jeanne d'Arc templom",
+            "ro": "Biserica Sainte-Jeanne d'Arc",
+            "en": "Église Sainte-Jeanne d'Arc"
+          },
+          "coords": [
+            1.889162,
+            50.888141
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die den tiefen Gemeinschaftsgeist der Region widerspiegelt; achten Sie auf das schwarze Brett für gelegentliche Gemeindeereignisse.",
+            "hu": "Látogassa meg ezt a bájos vallási helyszínt, amely a régió mély közösségi szellemét tükrözi; nézze meg a kinti hirdetőtáblát az esetleges közösségi események vagy kóruspróbák miatt.",
+            "ro": "Vizitați acest sit religios fermecător care reflectă spiritul comunitar profund al regiunii; verificați avizierul exterior pentru evenimente comunitare ocazionale sau repetiții ale corului.",
+            "en": "Visit this charming religious site that reflects the deep community spirit of the region; check the local notice board outside for occasional community events or choir practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Feld des Güldenen Tuches",
+            "hu": "Aranybrokát Mezeje",
+            "ro": "Câmpul Pânzei de Aur",
+            "en": "Field of the Cloth of Gold Site"
+          },
+          "coords": [
+            1.9229,
+            50.8523
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 69,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo sich Heinrich VIII. und Franz I. 1520 an dieser diplomatischen Stätte trafen, und besuchen Sie den Ort am späten Nachmittag für perfekte Lichtverhältnisse.",
+            "hu": "Álljon pontosan ott, ahol VIII. Henrik és I. Ferenc 1520-ban találkozott ezen a diplomáciai helyszínen, és próbáljon késő délután érkezni, amikor a súrlófény tökéletes a fotózáshoz.",
+            "ro": "Stați exact unde Henric al VIII-lea și Francisc I s-au întâlnit în 1520 la acest sit diplomatic, și încercați să vizitați după-amiaza târziu când lumina e perfectă pentru poze.",
+            "en": "Stand exactly where King Henry VIII and Francis I met in 1520 at this monumental diplomatic site, and try to visit in the late afternoon when the slanting light is perfect for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Guînes an der Tour de l'Horloge, bevor Sie in der Kirche Saint-Pierre Ruhe finden. Mittags führt Ihr Weg zum üppigen Sumpfgebiet, einer erfrischenden Flucht in die Natur. Am Nachmittag entdecken Sie die bezaubernde Église Sainte-Jeanne d'Arc beim Schlendern durch ruhige Viertel. Lassen Sie den Tag am legendären Field of the Cloth of Gold Site ausklingen.",
+        "hu": "Kezdje a reggelt Guînes szívében, a lenyűgöző Tour de l'Horloge-nál, majd találjon nyugalmat a közeli Saint-Pierre templomban. A délben induljon a buja mocsárvidék felé, amely frissítő természeti kikapcsolódást kínál. Délután fedezze fel a bájos Église Sainte-Jeanne d'Arc-ot a csendesebb környékeken sétálva. Estefelé fejezze be útját a legendás Aranybrokát Mezején.",
+        "ro": "Începeți dimineața în inima orașului Guînes la fascinantul Tour de l'Horloge înainte de a căuta liniște la Biserica Saint-Pierre. La prânz, mergeți spre mlaștina luxuriantă, o evadare naturală răcoritoare de pe străzile pietruite. După-amiaza, descoperiți fermecătoarea Église Sainte-Jeanne d'Arc. Spre seară, încheiați-vă călătoria la legendarul sit Field of the Cloth of Gold.",
+        "en": "Begin your morning in the heart of Guînes at the fascinating Tour de l'Horloge before seeking quiet reflection at the nearby Saint-Pierre Church. Midday takes you towards the lush Guînes Marsh, offering a refreshing natural escape from the cobblestone streets. In the afternoon, discover the charming Église Sainte-Jeanne d'Arc. Conclude your journey at the legendary Field of the Cloth of Gold."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 14.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            1.839257,
+            50.876773
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Hingabe dieser etwas abgelegenen Pfarrkirche mit ihrem schönen rustikalen Altar; vermeiden Sie respektvoll Besuche während der laufenden Sonntagsmessen.",
+            "hu": "Tapasztalja meg ennek a kissé eldugott plébániatemplomnak a csendes áhítatát, amely gyönyörű rusztikus oltárral rendelkezik; tiszteletből kerülje a vasárnapi misék alatti látogatást.",
+            "ro": "Experimentați devotamentul liniștit al acestei biserici parohiale oarecum retrase, cu un altar rustic frumos; evitați respectuos vizitarea în timpul slujbelor de duminică.",
+            "en": "Experience the quiet devotion of this somewhat secluded parish church, which features a beautiful rustic altar; respectfully avoid visiting during ongoing Sunday services."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm (Tour de l'Horloge)",
+            "hu": "Óratorony (Tour de l'Horloge)",
+            "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            1.86953,
+            50.868893
+          ],
+          "category": "museum",
+          "arrive_at": "10:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Wikingererbe und lokale Geschichte in diesem faszinierenden Museum in einem historischen Turm; steigen Sie für die Aussicht hinauf, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a viking örökséget és a helyi történelmet ebben a történelmi toronyban működő múzeumban; másszon fel a remek kilátásért, de viseljen kényelmes cipőt a lépcsőkhöz.",
+            "ro": "Descoperiți moștenirea vikingă și istoria locală în acest muzeu fascinant dintr-un turn istoric; urcați pentru o priveliște minunată, dar purtați încălțăminte confortabilă.",
+            "en": "Discover Viking heritage and local history in this fascinating museum housed in a historic tower; climb to the top for a great view, but wear comfortable shoes for the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.867668,
+            50.867197
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieser zentralen Kirche und betrachten Sie die detaillierten Buntglasfenster während der ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét és békés hangulatát, és szánjon egy percet a részletes ólomüveg ablakok megtekintésére a csendesebb reggeli órákban.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera pașnică a acestei biserici centrale, alocând un moment vitraliilor detaliate în timpul orelor mai liniștite ale dimineții.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this central church, taking a moment to appreciate its detailed stained glass windows during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet von Guînes",
+            "hu": "Guînes-i mocsár",
+            "ro": "Mlaștina Guînes",
+            "en": "Guînes Marsh"
+          },
+          "coords": [
+            1.873683,
+            50.882062
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Feuchtgebiet, indem Sie ein traditionelles Boot mieten, und bringen Sie ein Fernglas mit, um die reiche Vogelwelt in den ausgedehnten Wasserwegen zu beobachten.",
+            "hu": "Fedezze fel a nyugodt vizes élőhelyet egy kis hagyományos csónak bérlésével, és hozzon távcsövet a kiterjedt zöld vízi utakon nyüzsgő gazdag helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați ecosistemul seren al mlaștinilor închiriind o barcă tradițională și aduceți binoclul pentru a observa avifauna locală bogată printre căile navigabile verzi extinse.",
+            "en": "Explore the serene wetland ecosystem by renting a small traditional boat, and bring binoculars to observe the rich local birdlife thriving among the extensive green waterways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Jeanne d'Arc",
+            "hu": "Sainte-Jeanne d'Arc templom",
+            "ro": "Biserica Sainte-Jeanne d'Arc",
+            "en": "Église Sainte-Jeanne d'Arc"
+          },
+          "coords": [
+            1.889162,
+            50.888141
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die den tiefen Gemeinschaftsgeist der Region widerspiegelt; achten Sie auf das schwarze Brett für gelegentliche Gemeindeereignisse.",
+            "hu": "Látogassa meg ezt a bájos vallási helyszínt, amely a régió mély közösségi szellemét tükrözi; nézze meg a kinti hirdetőtáblát az esetleges közösségi események vagy kóruspróbák miatt.",
+            "ro": "Vizitați acest sit religios fermecător care reflectă spiritul comunitar profund al regiunii; verificați avizierul exterior pentru evenimente comunitare ocazionale sau repetiții ale corului.",
+            "en": "Visit this charming religious site that reflects the deep community spirit of the region; check the local notice board outside for occasional community events or choir practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Feld des Güldenen Tuches",
+            "hu": "Aranybrokát Mezeje",
+            "ro": "Câmpul Pânzei de Aur",
+            "en": "Field of the Cloth of Gold Site"
+          },
+          "coords": [
+            1.9229,
+            50.8523
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo sich Heinrich VIII. und Franz I. 1520 an dieser diplomatischen Stätte trafen, und besuchen Sie den Ort am späten Nachmittag für perfekte Lichtverhältnisse.",
+            "hu": "Álljon pontosan ott, ahol VIII. Henrik és I. Ferenc 1520-ban találkozott ezen a diplomáciai helyszínen, és próbáljon késő délután érkezni, amikor a súrlófény tökéletes a fotózáshoz.",
+            "ro": "Stați exact unde Henric al VIII-lea și Francisc I s-au întâlnit în 1520 la acest sit diplomatic, și încercați să vizitați după-amiaza târziu când lumina e perfectă pentru poze.",
+            "en": "Stand exactly where King Henry VIII and Francis I met in 1520 at this monumental diplomatic site, and try to visit in the late afternoon when the slanting light is perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Guînes",
+            "hu": "Guînes-i erdő",
+            "ro": "Pădurea Guînes",
+            "en": "Forest of Guînes"
+          },
+          "coords": [
+            1.866983,
+            50.83324
+          ],
+          "category": "natural",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen historischen Wald mit gut markierten Wanderwegen; packen Sie eine Wasserflasche und Snacks ein, da es tief im Wald kaum Einrichtungen gibt.",
+            "hu": "Barangoljon ebben a hatalmas történelmi erdőben, amely jól jelzett túraútvonalakat kínál; vigyen magával vizespalackot és rágcsálnivalót, mivel az erdő mélyén kevés a létesítmény.",
+            "ro": "Plimbați-vă prin această pădure istorică întinsă care oferă trasee de drumeție bine marcate; luați o sticlă cu apă și gustări, deoarece există facilități limitate în adâncul pădurii.",
+            "en": "Wander through this expansive historical woodland offering well-marked hiking trails; pack a water bottle and some snacks as there are limited facilities deep within the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Église Saint-Martin und radeln Sie dann zur Tour de l'Horloge, um das lokale Erbe zu erkunden. Nach der Kirche Saint-Pierre fahren Sie mittags zum weitläufigen Sumpfgebiet. Ihr Nachmittag führt Sie an der Église Sainte-Jeanne d'Arc vorbei zum historischen Field of the Cloth of Gold. Ihre abendliche Fahrt endet im ruhigen Wald von Guînes, wo alte Bäume lange Schatten werfen.",
+        "hu": "Kezdje kerékpártúráját a történelmi Saint-Martin templomnál, majd tekerjen a Tour de l'Horloge-hoz a helyi örökség felfedezéséhez. Délben, a Saint-Pierre templom után lovagoljon le a mocsarakhoz. A délutáni tekerés a Sainte-Jeanne d'Arc templom mellett a híres Aranybrokát Mezejéhez vezet. Végül az esti út a békés Guînes-i erdőben csúcsosodik ki, ahol az ősi fák hosszú árnyékot vetnek.",
+        "ro": "Începeți turul cu bicicleta la Église Saint-Martin, apoi pedalați spre Tour de l'Horloge pentru a explora patrimoniul local. La prânz, după Biserica Saint-Pierre, mergeți la mlaștinile vaste. După-amiaza vă duce pe lângă Église Sainte-Jeanne d'Arc până la celebrul sit Field of the Cloth of Gold. Seara se încheie în liniștita Pădure Guînes, unde copacii antici aruncă umbre lungi și frumoase.",
+        "en": "Kick off your cycling tour at the historic Église Saint-Martin, then pedal to the Tour de l'Horloge to dive into local heritage. By midday, after visiting Saint-Pierre Church, ride down to the Guînes Marsh to enjoy the vast wetlands. Your afternoon pedaling takes you past the serene Église Sainte-Jeanne d'Arc to the grand Field of the Cloth of Gold Site. Finally, your evening ride culminates in the tranquil Forest of Guînes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 14.75,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            1.839257,
+            50.876773
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Hingabe dieser etwas abgelegenen Pfarrkirche mit ihrem schönen rustikalen Altar; vermeiden Sie respektvoll Besuche während der laufenden Sonntagsmessen.",
+            "hu": "Tapasztalja meg ennek a kissé eldugott plébániatemplomnak a csendes áhítatát, amely gyönyörű rusztikus oltárral rendelkezik; tiszteletből kerülje a vasárnapi misék alatti látogatást.",
+            "ro": "Experimentați devotamentul liniștit al acestei biserici parohiale oarecum retrase, cu un altar rustic frumos; evitați respectuos vizitarea în timpul slujbelor de duminică.",
+            "en": "Experience the quiet devotion of this somewhat secluded parish church, which features a beautiful rustic altar; respectfully avoid visiting during ongoing Sunday services."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm (Tour de l'Horloge)",
+            "hu": "Óratorony (Tour de l'Horloge)",
+            "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            1.86953,
+            50.868893
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Wikingererbe und lokale Geschichte in diesem faszinierenden Museum in einem historischen Turm; steigen Sie für die Aussicht hinauf, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a viking örökséget és a helyi történelmet ebben a történelmi toronyban működő múzeumban; másszon fel a remek kilátásért, de viseljen kényelmes cipőt a lépcsőkhöz.",
+            "ro": "Descoperiți moștenirea vikingă și istoria locală în acest muzeu fascinant dintr-un turn istoric; urcați pentru o priveliște minunată, dar purtați încălțăminte confortabilă.",
+            "en": "Discover Viking heritage and local history in this fascinating museum housed in a historic tower; climb to the top for a great view, but wear comfortable shoes for the stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.867668,
+            50.867197
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieser zentralen Kirche und betrachten Sie die detaillierten Buntglasfenster während der ruhigeren Morgenstunden.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét és békés hangulatát, és szánjon egy percet a részletes ólomüveg ablakok megtekintésére a csendesebb reggeli órákban.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera pașnică a acestei biserici centrale, alocând un moment vitraliilor detaliate în timpul orelor mai liniștite ale dimineții.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this central church, taking a moment to appreciate its detailed stained glass windows during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet von Guînes",
+            "hu": "Guînes-i mocsár",
+            "ro": "Mlaștina Guînes",
+            "en": "Guînes Marsh"
+          },
+          "coords": [
+            1.873683,
+            50.882062
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Feuchtgebiet, indem Sie ein traditionelles Boot mieten, und bringen Sie ein Fernglas mit, um die reiche Vogelwelt in den ausgedehnten Wasserwegen zu beobachten.",
+            "hu": "Fedezze fel a nyugodt vizes élőhelyet egy kis hagyományos csónak bérlésével, és hozzon távcsövet a kiterjedt zöld vízi utakon nyüzsgő gazdag helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați ecosistemul seren al mlaștinilor închiriind o barcă tradițională și aduceți binoclul pentru a observa avifauna locală bogată printre căile navigabile verzi extinse.",
+            "en": "Explore the serene wetland ecosystem by renting a small traditional boat, and bring binoculars to observe the rich local birdlife thriving among the extensive green waterways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Jeanne d'Arc",
+            "hu": "Sainte-Jeanne d'Arc templom",
+            "ro": "Biserica Sainte-Jeanne d'Arc",
+            "en": "Église Sainte-Jeanne d'Arc"
+          },
+          "coords": [
+            1.889162,
+            50.888141
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte, die den tiefen Gemeinschaftsgeist der Region widerspiegelt; achten Sie auf das schwarze Brett für gelegentliche Gemeindeereignisse.",
+            "hu": "Látogassa meg ezt a bájos vallási helyszínt, amely a régió mély közösségi szellemét tükrözi; nézze meg a kinti hirdetőtáblát az esetleges közösségi események vagy kóruspróbák miatt.",
+            "ro": "Vizitați acest sit religios fermecător care reflectă spiritul comunitar profund al regiunii; verificați avizierul exterior pentru evenimente comunitare ocazionale sau repetiții ale corului.",
+            "en": "Visit this charming religious site that reflects the deep community spirit of the region; check the local notice board outside for occasional community events or choir practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Feld des Güldenen Tuches",
+            "hu": "Aranybrokát Mezeje",
+            "ro": "Câmpul Pânzei de Aur",
+            "en": "Field of the Cloth of Gold Site"
+          },
+          "coords": [
+            1.9229,
+            50.8523
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo sich Heinrich VIII. und Franz I. 1520 an dieser diplomatischen Stätte trafen, und besuchen Sie den Ort am späten Nachmittag für perfekte Lichtverhältnisse.",
+            "hu": "Álljon pontosan ott, ahol VIII. Henrik és I. Ferenc 1520-ban találkozott ezen a diplomáciai helyszínen, és próbáljon késő délután érkezni, amikor a súrlófény tökéletes a fotózáshoz.",
+            "ro": "Stați exact unde Henric al VIII-lea și Francisc I s-au întâlnit în 1520 la acest sit diplomatic, și încercați să vizitați după-amiaza târziu când lumina e perfectă pentru poze.",
+            "en": "Stand exactly where King Henry VIII and Francis I met in 1520 at this monumental diplomatic site, and try to visit in the late afternoon when the slanting light is perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Abenteuerpark Passion aventure",
+            "hu": "Passion aventure kalandpark",
+            "ro": "Parcul de aventură Passion",
+            "en": "Passion aventure"
+          },
+          "coords": [
+            1.884795,
+            50.84536
+          ],
+          "category": "landmark",
+          "arrive_at": "15:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fordern Sie sich in diesem lokalen Outdoor-Abenteuerpark heraus, der körperliche Aktivität mit Natur verbindet; buchen Sie Ihren Klettertermin im Voraus an geschäftigen Sommerwochenenden.",
+            "hu": "Tedd próbára magad ebben a helyi szabadtéri kalandparkban, amely a fizikai aktivitást a természettel ötvözi; a forgalmas nyári hétvégéken előre foglalja le a fára mászó időpontot.",
+            "ro": "Provocați-vă la acest parc local de aventură în aer liber care îmbină activitatea fizică cu natura; rezervați-vă din timp locul pentru cățărat în copaci în weekendurile de vară aglomerate.",
+            "en": "Challenge yourself at this local outdoor adventure park that blends physical activity with nature; book your treetop climbing slot in advance during the busy summer weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Guînes",
+            "hu": "Guînes-i erdő",
+            "ro": "Pădurea Guînes",
+            "en": "Forest of Guînes"
+          },
+          "coords": [
+            1.866983,
+            50.83324
+          ],
+          "category": "natural",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen historischen Wald mit gut markierten Wanderwegen; packen Sie eine Wasserflasche und Snacks ein, da es tief im Wald kaum Einrichtungen gibt.",
+            "hu": "Barangoljon ebben a hatalmas történelmi erdőben, amely jól jelzett túraútvonalakat kínál; vigyen magával vizespalackot és rágcsálnivalót, mivel az erdő mélyén kevés a létesítmény.",
+            "ro": "Plimbați-vă prin această pădure istorică întinsă care oferă trasee de drumeție bine marcate; luați o sticlă cu apă și gustări, deoarece există facilități limitate în adâncul pădurii.",
+            "en": "Wander through this expansive historical woodland offering well-marked hiking trails; pack a water bottle and some snacks as there are limited facilities deep within the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der abgelegenen Église Saint-Martin, bevor Sie die zentrale Tour de l'Horloge und die Kirche Saint-Pierre besuchen. Fahren Sie gegen Mittag zum malerischen Sumpfgebiet. Am Nachmittag besichtigen Sie die Église Sainte-Jeanne d'Arc und das Field of the Cloth of Gold. Ihr Abend endet mit einem kurzen Stopp bei Passion aventure und einer entspannten Fahrt in den Wald von Guînes.",
+        "hu": "Kezdje útját a kissé eldugott Saint-Martin templomnál, majd hajtson a központi Tour de l'Horloge és a Saint-Pierre templom felé egy kis kultúráért. Délben látogasson el a mocsarakhoz egy festői pihenőre. Délután nézze meg a Sainte-Jeanne d'Arc templomot és a monumentális Aranybrokát Mezejét. Az este egy gyors megállóval zárul a Passion aventure-nél és egy pihentető autózással a békés Guînes-i erdőbe.",
+        "ro": "Începeți plimbarea la Église Saint-Martin, înainte de a vă îndrepta spre Tour de l'Horloge și Biserica Saint-Pierre pentru o doză de cultură. La prânz, conduceți spre mlaștini pentru o pauză pitorească. După-amiaza, vizitați Église Sainte-Jeanne d'Arc și monumentalul sit Field of the Cloth of Gold. Seara se încheie la Passion aventure și cu o plimbare relaxantă în adâncul Pădurii Guînes.",
+        "en": "Start your drive at the somewhat secluded Église Saint-Martin before heading to the central Tour de l'Horloge and Saint-Pierre Church for a dose of culture. Around noon, drive up to the Guînes Marsh for a scenic break among the waterways. In the afternoon, visit Église Sainte-Jeanne d'Arc and the monumental Field of the Cloth of Gold Site. Your evening concludes with a quick stop at Passion aventure and a relaxing drive into the deep Forest of Guînes."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-mutriku-cities-v2",
+  "anchor": {
+    "name": "Mutriku",
+    "coords": [
+      -2.38711,
+      43.30712
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 1.14,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nautilus",
+            "hu": "Nautilus",
+            "ro": "Nautilus",
+            "en": "Nautilus"
+          },
+          "coords": [
+            -2.3895,
+            43.306669
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Nautilus faszinierende Ammonitenfossilien und die Geologie des Flyschs, und kommen Sie früh, um den Besuchermassen zu entgehen.",
+            "hu": "Fedezze fel a lenyűgöző ammonitesz kövületeket a Nautilusban, és érkezzen korán, hogy elkerülje a dél körüli nagyobb turistacsoportokat.",
+            "ro": "Descoperiți fosile fascinante de amoniți la Nautilus, aflând despre formațiunile de fliș, și vizitați devreme pentru a evita aglomerația.",
+            "en": "Discover fascinating ammonite fossils at Nautilus, learning about flysch geological formations, and visit early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Jasokundeko Andre Mari eliza",
+            "hu": "Jasokundeko Andre Mari eliza",
+            "ro": "Jasokundeko Andre Mari eliza",
+            "en": "Jasokundeko Andre Mari eliza"
+          },
+          "coords": [
+            -2.387715,
+            43.307485
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neoklassizistische Architektur dieser historischen Kirche und achten Sie besonders auf das beeindruckende Altarbild im Inneren.",
+            "hu": "Csodálja meg e történelmi templom neoklasszicista építészetét, és mindenképpen szánjon időt a lenyűgöző belső oltárkép alapos megtekintésére.",
+            "ro": "Admirați arhitectura neoclasică a acestei biserici istorice, un simbol al orașului Mutriku, și acordați atenție altarului său impresionant.",
+            "en": "Admire the striking neoclassical architecture of this historic church, a symbol of Mutriku, while noting the impressive altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Arrietakua jauregia",
+            "hu": "Arrietakua jauregia",
+            "ro": "Arrietakua jauregia",
+            "en": "Arrietakua jauregia"
+          },
+          "coords": [
+            -2.386139,
+            43.307463
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut erhaltenen maritimen Palast aus dem 18. Jahrhundert, aber prüfen Sie vorab die variierenden Zeiten für Führungen.",
+            "hu": "Fedezze fel ezt a jól megőrzött 18. századi tengerészeti palotát, de előzetesen ellenőrizze a tárlatvezetések változó időpontjait a bejutáshoz.",
+            "ro": "Explorați acest palat maritim din secolul al XVIII-lea, dar verificați în prealabil programul tururilor ghidate, deoarece acestea pot varia zilnic.",
+            "en": "Explore this well-preserved 18th-century maritime palace to understand local naval history, but check guided tour times in advance as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Montalibet jauregia",
+            "hu": "Montalibet jauregia",
+            "ro": "Montalibet jauregia",
+            "en": "Montalibet jauregia"
+          },
+          "coords": [
+            -2.38478,
+            43.306573
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Dachgesimse und das Wappen dieses baskischen Adelshauses, dessen Fassade im Morgenlicht am besten wirkt.",
+            "hu": "Figyelje meg ennek a baszk nemesi háznak a lenyűgöző ereszét és címerét, amelynek klasszikus homlokzata a délelőtti fényekben mutat a legjobban.",
+            "ro": "Remarcați streșinile și blazonul acestei case nobiliare basce de pe stradă, fațada sa clasică fiind cel mai bine fotografiată în lumina dimineții.",
+            "en": "Notice the impressive eaves and coat of arms of this Basque noble house from the street, as its classic facade is best photographed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Portu gaineko ikuspegia",
+            "hu": "Portu gaineko ikuspegia",
+            "ro": "Portu gaineko ikuspegia",
+            "en": "Portu gaineko ikuspegia"
+          },
+          "coords": [
+            -2.384902,
+            43.307743
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über den Hafen und das Kantabrische Meer, und bringen Sie eine Windjacke mit, da die Küstenbrise hier stark ist.",
+            "hu": "Élvezze a kikötőre és a Kantábriai-tengerre nyíló panorámát, és hozzon magával széldzsekit, mert a parti szél itt meglehetősen erős lehet.",
+            "ro": "Bucurați-vă de vederile panoramice asupra portului și Mării Cantabrice, și luați o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
+            "en": "Take in sweeping panoramic views over the harbor and the Cantabrian Sea, and bring a windbreaker as the coastal breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "San Nikolas ermita",
+            "hu": "San Nikolas ermita",
+            "ro": "San Nikolas ermita",
+            "en": "San Nikolas ermita"
+          },
+          "coords": [
+            -2.383133,
+            43.309579
+          ],
+          "category": "landmark",
+          "arrive_at": "15:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber kulturell bedeutsame Küsteneinsiedelei der Seeleute, die einen ruhigen Moment nahe der Küste bietet.",
+            "hu": "Látogasson el a tengerészeknek szentelt szerény, de kulturálisan jelentős parti remetelakhoz, amely csendes elmélkedést kínál a part közelében.",
+            "ro": "Vizitați acest schit de coastă dedicat marinarilor, o structură modestă, dar semnificativă, care oferă un moment de liniște lângă țărm.",
+            "en": "Visit this modest yet culturally significant coastal hermitage dedicated to sailors, offering a quiet moment of reflection near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Burumendi hondartza",
+            "hu": "Burumendi hondartza",
+            "ro": "Burumendi hondartza",
+            "en": "Burumendi hondartza"
+          },
+          "coords": [
+            -2.380174,
+            43.311404
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand oder erkunden Sie die Felsformationen dieses malerischen Strandes, ideal für ein Nachmittagsschwimmen bei Flut.",
+            "hu": "Pihenjen a homokban, vagy fedezze fel a parti sziklaalakzatokat ezen a festői strandon, amely tökéletes egy frissítő délutáni úszáshoz.",
+            "ro": "Relaxați-vă pe nisip sau explorați formațiunile stâncoase la această plajă pitorească, ideală pentru o baie revigorantă după-amiaza.",
+            "en": "Relax on the sand or explore the coastal rock formations at this scenic local beach, perfect for a refreshing afternoon swim when the tide allows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit faszinierenden Fossilien im Nautilus, wo wir tief in die Flysch-Geologie eintauchen. Danach spazieren wir zur majestätischen Kirche. / Mittags erreichen wir die historischen Paläste Arrietakua und Montalibet, die das reiche maritime Erbe der Stadt zeigen. / Am Nachmittag führt der Weg zum Hafen, wo wir atemberaubende Panoramablicke auf das Meer und die raue Küste genießen. / Am Abend bietet die Einsiedelei San Nikolas Ruhe, bevor der Tag mit einem entspannten Strandspaziergang in Burumendi ausklingt.",
+        "hu": "A reggel a Nautilus lenyűgöző fosszíliáival kezdődik, elmerülve a flis geológiában. Ezután elsétálunk a fenséges templomhoz, hogy megcsodáljuk az építészetét. / Délben a történelmi Arrietakua és Montalibet paloták következnek, bemutatva a város gazdag tengerészeti és nemesi örökségét. / Délután a kikötő felé vesszük az irányt, ahonnan lélegzetelállító panoráma nyílik a tengerre és a sziklás partvidékre. / Estefelé a San Nikolas remetelak nyújt békés pillanatot, mielőtt a napot egy lazító sétával zárnánk a Burumendi strandon.",
+        "ro": "Dimineața începe cu fosile fascinante la Nautilus, explorând geologia flișului. Apoi ne plimbăm spre inima orașului Mutriku pentru a admira biserica maiestuoasă. / La amiază ajungem la palatele istorice Arrietakua și Montalibet, care prezintă bogatul patrimoniu naval și nobiliar al orașului. / După-amiaza ne îndreptăm spre port pentru a ne bucura de vederi panoramice uluitoare asupra mării și a coastei abrupte. / Pe măsură ce se lasă seara, schitul San Nikolas oferă un moment de liniște, urmat de o relaxare pe plaja Burumendi.",
+        "en": "Morning begins with fascinating fossils at Nautilus, diving deep into the Flysch geology. We then stroll into the heart of Mutriku to admire the majestic church. / Midday brings us to the historic Arrietakua and Montalibet palaces, showcasing the town's rich naval and noble heritage. / In the afternoon, we head toward the port for breathtaking panoramic views of the sea, taking in the rugged coastline. / As evening approaches, a peaceful moment at San Nikolas hermitage transitions into a relaxing sunset stroll along the beautiful Burumendi beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 3.77,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Catalina Komendua",
+            "hu": "Santa Catalina Komendua",
+            "ro": "Santa Catalina Komendua",
+            "en": "Santa Catalina Komendua"
+          },
+          "coords": [
+            -2.385183,
+            43.305598
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem ruhigen, geschichtsträchtigen Kloster und nehmen Sie sich Zeit, den ruhigen Innenhof und die Architektur zu schätzen.",
+            "hu": "Kezdje útját ennél a békés, történelmi gyökerű kolostornál, és szánjon egy percet a nyugodt udvar és a környező építészet megcsodálására.",
+            "ro": "Începeți plimbarea la această mănăstire pașnică cu rădăcini istorice adânci, luându-vă un moment pentru a aprecia curtea liniștită.",
+            "en": "Begin your ride at this peaceful convent with deep roots in local history, taking a moment to appreciate the tranquil courtyard and surrounding architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Jasokundeko Andre Mari eliza",
+            "hu": "Jasokundeko Andre Mari eliza",
+            "ro": "Jasokundeko Andre Mari eliza",
+            "en": "Jasokundeko Andre Mari eliza"
+          },
+          "coords": [
+            -2.387715,
+            43.307485
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Stadtplatz, um die monumentale Kirchenfassade zu sehen, und nutzen Sie die Fahrradständer, während Sie den Altar betrachten.",
+            "hu": "Kerekezzen a főtérre, hogy megnézze e monumentális templom homlokzatát, és használja a közeli tárolókat, amíg bemegy megnézni az oltárt.",
+            "ro": "Mergeți cu bicicleta în piața orașului pentru a vedea fațada monumentală a bisericii, folosind rastelele din apropiere cât vizitați interiorul.",
+            "en": "Cycle to the town square to view this monumental church's facade, using the nearby bike racks while you step inside to see the grand altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Portu gaineko ikuspegia",
+            "hu": "Portu gaineko ikuspegia",
+            "ro": "Portu gaineko ikuspegia",
+            "en": "Portu gaineko ikuspegia"
+          },
+          "coords": [
+            -2.384902,
+            43.307743
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Radtour für atemberaubende Fotos der Mole von diesem Aussichtspunkt, und bleiben Sie sicher hinter den Geländern.",
+            "hu": "Szakítsa meg útját lenyűgöző fotókért a hullámtörőről erről a magaslati pontról, ügyelve arra, hogy biztonságban maradjon a korlátok mögött.",
+            "ro": "Faceți o pauză pentru fotografii uimitoare ale digului din acest punct de observație, asigurându-vă că rămâneți în siguranță în spatele balustradelor.",
+            "en": "Pause your bike ride for stunning photos of the breakwater from this high vantage point, ensuring you stay safely behind the safety railings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristozulo",
+            "hu": "Kristozulo",
+            "ro": "Kristozulo",
+            "en": "Kristozulo"
+          },
+          "coords": [
+            -2.379986,
+            43.307798
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen versteckten Naturort an der Küste für einen kurzen Spaziergang, aber tragen Sie festes Schuhwerk wegen unebener Wege.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti természeti helyet, amely tökéletes egy rövid sétához, de viseljen erős cipőt az egyenetlen ösvények miatt.",
+            "ro": "Descoperiți acest loc natural ascuns de pe coastă, perfect pentru o scurtă plimbare, dar purtați încălțăminte robustă pentru potecile inegale.",
+            "en": "Discover this hidden natural spot along the coast, perfect for a short nature walk, but wear sturdy shoes as the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Hirugarren hondartza",
+            "hu": "Hirugarren hondartza",
+            "ro": "Hirugarren hondartza",
+            "en": "Hirugarren hondartza"
+          },
+          "coords": [
+            -2.382038,
+            43.312658
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie die abgeschiedene Atmosphäre dieses kleineren Strandes, ein idealer Ort, um die Beine auszuruhen und frische Meeresluft zu atmen.",
+            "hu": "Élvezze e kisebb strand elszigetelt hangulatát, amely kiváló megálló, hogy megpihenjen és friss óceáni levegőt szívjon a továbbindulás előtt.",
+            "ro": "Bucurați-vă de atmosfera retrasă a acestei plaje mai mici, o oprire excelentă pentru a vă odihni picioarele și a respira aer proaspăt de ocean.",
+            "en": "Enjoy the secluded atmosphere of this smaller beach, an excellent midway stop to rest your legs and breathe in the fresh ocean air before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Saturraran naturista",
+            "hu": "Saturraran naturista",
+            "ro": "Saturraran naturista",
+            "en": "Saturraran naturista"
+          },
+          "coords": [
+            -2.408607,
+            43.322401
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser schönen Sandbucht mit dramatischen Klippen, und bringen Sie ein Handtuch mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Fejezze be kerékpáros útját ezen a drámai sziklákkal szegélyezett gyönyörű homokos öbölben, és hozzon törölközőt a korlátozott létesítmények miatt.",
+            "ro": "Încheiați traseul la acest frumos golf de nisip mărginit de stânci dramatice și aduceți un prosop, deoarece facilitățile locale sunt limitate.",
+            "en": "End your biking route at this beautiful sandy cove bordered by dramatic cliffs, bringing a towel to relax as there are limited facilities on site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen entspannt am Kloster Santa Catalina, bevor Sie zum belebten Stadtplatz radeln, um die imposante Kirche zu bewundern. / Der Mittag belohnt Sie mit einer Fahrt zum Hafenaussichtspunkt, der spektakuläre Ausblicke auf das Kantabrische Meer und die Mole bietet. / Am Nachmittag wagen wir uns in die felsige Natur von Kristozulo und an den ruhigen Sand des Hirugarren-Strandes. / Beenden Sie Ihren aktiven Tag mit einer abendlichen Fahrt nach Saturraran und genießen Sie die dramatischen Klippen im Sonnenuntergang.",
+        "hu": "Kezdje a reggelt kellemesen a Santa Catalina kolostornál, mielőtt a nyüzsgő főtérre kerekezne, hogy megcsodálja az impozáns neoklasszicista templomot. / A dél egy frissítő tekeréssel jutalmaz a kikötői kilátóhoz, amely látványos kilátást nyújt a Kantábriai-tengerre és a hullámtörőre. / Délután merészkedjen ki Kristozulo sziklás természeti szépségéhez és a csendes Hirugarren strand homokjához. / Zárja aktív napját egy esti túrával Saturraranba, élvezve a drámai sziklákat a naplementében és a hűs tengeri szellőt.",
+        "ro": "Începeți dimineața lin la mănăstirea Santa Catalina, înainte de a pedala spre piața vibrantă a orașului pentru a admira biserica neoclasică impunătoare. / Amiaza vă răsplătește cu o plimbare până la punctul de observație al portului, oferind priveliști spectaculoase asupra Mării Cantabrice. / După-amiaza vă aventurați spre frumusețea naturală stâncoasă a Kristozulo și nisipurile liniștite ale plajei Hirugarren. / Încheiați ziua activă cu o plimbare de seară la Saturraran, bucurându-vă de stâncile dramatice la apus.",
+        "en": "Start your morning gently at the Santa Catalina convent before pedaling into the vibrant town square to admire the imposing neoclassical church. / Midday rewards you with an invigorating ride up to the port viewpoint, offering spectacular vistas of the Cantabrian Sea and the town's breakwater. / In the afternoon, venture out to the rocky, natural beauty of Kristozulo and the quiet sands of Hirugarren beach. / Conclude your active day with an evening ride to Saturraran, enjoying the dramatic sunset cliffs and the refreshing ocean breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 3.33,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arrikrutzeko hilarria",
+            "hu": "Arrikrutzeko hilarria",
+            "ro": "Arrikrutzeko hilarria",
+            "en": "Arrikrutzeko hilarria"
+          },
+          "coords": [
+            -2.399311,
+            43.290031
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser faszinierenden antiken Stele, einem Zeugnis früher baskischer Bestattungspraktiken, und nutzen Sie den kleinen Schotterparkplatz.",
+            "hu": "Vezessen ki ehhez az ősi sztéléhez, amely a korai baszk temetkezési szokások bizonyítéka, és használja a közeli kis kavicsos parkolót a megálláshoz.",
+            "ro": "Conduceți până la această stelă antică, o dovadă a practicilor funerare basce timpurii, folosind mica parcare cu pietriș din apropiere.",
+            "en": "Drive out to this intriguing ancient stele, a testament to early Basque funerary practices, using the small gravel pull-off nearby for parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziñuako karobia",
+            "hu": "Ziñuako karobia",
+            "ro": "Ziñuako karobia",
+            "en": "Ziñuako karobia"
+          },
+          "coords": [
+            -2.409176,
+            43.295671
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Kalkofen in der ländlichen Landschaft, der einen einzigartigen Einblick in die traditionellen Industrien bietet.",
+            "hu": "Tekintse meg ezt a vidéki tájba illeszkedő történelmi mészégetőt, amely egyedülálló bepillantást enged a régió hagyományos iparába.",
+            "ro": "Inspectați acest cuptor istoric de var integrat în peisajul rural, care oferă o privire unică asupra industriilor tradiționale ale regiunii.",
+            "en": "Inspect this historic lime kiln structure integrated into the rural landscape, offering a unique glimpse into the region's traditional industries."
+          }
+        },
+        {
+          "name": {
+            "de": "Jentiletxetako haitzuloak",
+            "hu": "Jentiletxetako haitzuloak",
+            "ro": "Jentiletxetako haitzuloak",
+            "en": "Jentiletxetako haitzuloak"
+          },
+          "coords": [
+            -2.409876,
+            43.296852
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Parken Sie sicher und wandern Sie kurz zu diesen mythischen Höhlen der baskischen Riesenlegenden, und bringen Sie eine Taschenlampe mit.",
+            "hu": "Parkoljon le, és tegyen egy rövid túrát a baszk óriáslegendákhoz kapcsolódó mitikus barlangokhoz, és vigyen magával zseblámpát a bejáratnál.",
+            "ro": "Parcați în siguranță și faceți o scurtă drumeție către aceste peșteri mitice legate de legendele basce, luând o lanternă pentru vizibilitate.",
+            "en": "Park safely and take a short hike to these mythical caves linked to Basque legends of giants, carrying a flashlight to see the entrance details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nautilus",
+            "hu": "Nautilus",
+            "ro": "Nautilus",
+            "en": "Nautilus"
+          },
+          "coords": [
+            -2.3895,
+            43.306669
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Kehren Sie in die Stadt zurück, um den Nautilus zu erkunden, und parken Sie auf dem öffentlichen Parkplatz, da Straßenparkplätze selten sind.",
+            "hu": "Térjen vissza a városba, hogy felfedezze a Nautilus geológiai csodáit, és parkoljon a közeli nyilvános parkolóban, mert az utcai hely ritka.",
+            "ro": "Întoarceți-vă în oraș pentru a explora minunile geologice la Nautilus, parcând în lotul public din apropiere, deoarece locurile stradale sunt rare.",
+            "en": "Return to town to explore the geological wonders at Nautilus, parking at the nearby public lot as street spots in the center are extremely rare."
+          }
+        },
+        {
+          "name": {
+            "de": "Arrietakua jauregia",
+            "hu": "Arrietakua jauregia",
+            "ro": "Arrietakua jauregia",
+            "en": "Arrietakua jauregia"
+          },
+          "coords": [
+            -2.386139,
+            43.307463
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt mit einem Besuch in diesem majestätischen Marinepalast und erfahren Sie in einer Führung mehr über die seefahrenden Besitzer.",
+            "hu": "Fejezze be az autózást ennek a fenséges tengerészeti palotának a meglátogatásával, ahol egy vezetés során megismerheti tengerész tulajdonosait.",
+            "ro": "Încheiați plimbarea cu o vizită la acest palat naval maiestuos, aflând despre proprietarii săi navigatori prin intermediul unui tur ghidat detaliat.",
+            "en": "Conclude your drive with a visit to this majestic naval palace, learning about its famous seafaring owners through an insightful guided tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir brechen morgens aufs Land auf, um die antike Arrikrutzeko hilarria und den rustikalen Kalkofen Ziñuako karobia zu entdecken. / Gegen Mittag bringt uns eine kurze Fahrt zu den mythischen Höhlen von Jentiletxetako haitzuloak, die in den baskischen Legenden verwurzelt sind. / Am Nachmittag kehren wir ins Küstenstädtchen zurück, um die bemerkenswerten Fossilien im Nautilus-Museum zu erkunden. / Der Abend schließt unsere Reise mit einem majestätischen Besuch im Arrietakua-Palast ab, der den maritimen Ruhm Mutrikus zeigt.",
+        "hu": "Reggel a vidékre indulunk, hogy felfedezzük az ősi Arrikrutzeko hilarriát és a rusztikus Ziñuako karobia mészégetőt. / Délre egy rövid út elvisz minket a Jentiletxetako haitzuloak mitikus barlangjaihoz, amelyek a Baszkföld lenyűgöző óriáslegendáiban gyökereznek. / Délután visszatérünk a tengerparti városközpontba, hogy felfedezzük a Nautilus múzeumban kiállított figyelemre méltó fosszíliákat. / Az este az Arrietakua palota fejedelmi meglátogatásával zárul, amely tökéletesen foglalja össze Mutriku történelmi dicsőségét.",
+        "ro": "Plecăm dimineața spre mediul rural pentru a descoperi vechea Arrikrutzeko hilarria și cuptorul rustic de var Ziñuako karobia. / Până la amiază, un scurt drum ne duce la peșterile mitice din Jentiletxetako haitzuloak, pline de fascinantele legende basce. / După-amiaza, ne întoarcem în centrul orașului de coastă pentru a explora fosilele remarcabile expuse la muzeul Nautilus. / Seara se încheie cu o vizită regală la palatul Arrietakua, rezumând perfect gloria maritimă a orașului istoric Mutriku.",
+        "en": "We set off into the countryside this morning to discover the ancient Arrikrutzeko hilarria and the rustic Ziñuako karobia lime kiln. / By midday, a short drive brings us to the mythical caves of Jentiletxetako haitzuloak, steeped in the fascinating giant legends of the Basque Country. / In the afternoon, we return to the coastal town center to explore the remarkable ammonite fossils displayed at the Nautilus museum. / Evening concludes our journey with a regal visit to the Arrietakua palace, perfectly summarizing the maritime glory of historic Mutriku."
+      }
+    }
+  }
+}

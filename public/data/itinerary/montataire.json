@@ -1,0 +1,474 @@
+{
+  "city_id": "montataire",
+  "anchor": {
+    "name": "Montataire",
+    "coords": [
+      2.4383,
+      49.2556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc du Prieuré",
+            "hu": "Parc du Prieuré",
+            "ro": "Parc du Prieuré",
+            "en": "Prieuré Park"
+          },
+          "coords": [
+            2.417663,
+            49.253468
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
+            "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Leufroy",
+            "hu": "Église Saint-Leufroy",
+            "ro": "Église Saint-Leufroy",
+            "en": "Église Saint-Leufroy"
+          },
+          "coords": [
+            2.429914,
+            49.249442
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitlose Architektur der Église Saint-Leufroy, die das lokale Erbe widerspiegelt, und bewundern Sie die steinerne Fassade im sanften Morgenlicht.",
+            "hu": "Fedezze fel az Église Saint-Leufroy helyi örökséget tükröző, időtlen építészetét, és szánjon egy percet arra, hogy megcsodálja lenyűgöző kőhomlokzatát a reggeli fényben.",
+            "ro": "Descoperiți arhitectura atemporală a Bisericii Saint-Leufroy, reflectând moștenirea locală bogată, și faceți-vă timp să admirați fațada sa de piatră în lumina dimineții.",
+            "en": "Discover the timeless architecture of Église Saint-Leufroy, reflecting the rich local heritage, and take a moment to admire its beautiful stone façade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Ressuscité",
+            "hu": "Église du Christ-Ressuscité",
+            "ro": "Église du Christ-Ressuscité",
+            "en": "Église du Christ-Ressuscité"
+          },
+          "coords": [
+            2.436259,
+            49.257585
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
+            "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
+            "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.443098,
+            49.256943
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in die Église Notre-Dame ein, um ihre ruhige Atmosphäre zu erleben, und achten Sie unbedingt auf die wunderschön erhaltenen Buntglasfenster im Inneren.",
+            "hu": "Lépjen be az Église Notre-Dame épületébe, és élvezze a békés hangulatot, miközben különös figyelmet szentel a gyönyörűen megőrzött, színpompás ólomüveg ablakoknak.",
+            "ro": "Pășiți în Biserica Notre-Dame pentru a experimenta ambianța sa senină și semnificația istorică, asigurându-vă că observați vitraliile frumos conservate din interior.",
+            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Montataire",
+            "hu": "Montataire-i kastély",
+            "ro": "Castelul Montataire",
+            "en": "Montataire Castle"
+          },
+          "coords": [
+            2.444229,
+            49.25781
+          ],
+          "category": "fortress",
+          "arrive_at": "13:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
+            "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
+            "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
+        "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
+        "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalan-templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Notre-Dame Collegiate Church"
+          },
+          "coords": [
+            2.363802,
+            49.272753
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das großartige Design der Stiftskirche Notre-Dame, eines historischen Meisterwerks am Rande der Stadt, wobei es sich empfiehlt, vorher die Öffnungszeiten zu prüfen.",
+            "hu": "Csodálja meg a Notre-Dame társaskáptalan-templom lenyűgöző kialakítását a város szélén, de indulás előtt mindenképpen érdemes ellenőrizni az aktuális nyitvatartási időt.",
+            "ro": "Admirați designul grandios al Bisericii Colegiale Notre-Dame, o capodoperă istorică de la periferie, unde este foarte recomandat să verificați în prealabil programul de vizitare.",
+            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Prieuré",
+            "hu": "Parc du Prieuré",
+            "ro": "Parc du Prieuré",
+            "en": "Prieuré Park"
+          },
+          "coords": [
+            2.417663,
+            49.253468
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
+            "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.400961,
+            49.255029
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment in der Église Saint-Martin, einer liebenswerten, von viel Grün umgebenen lokalen Kirche, die eine wunderbare Kulisse für die Fotografie bietet.",
+            "hu": "Töltsön el egy csendes percet a zöldövezettel körülvett Église Saint-Martin templomnál, amely csodálatos és nyugodt hátteret biztosít a fotózáshoz a felfedezés során.",
+            "ro": "Luați-vă un moment de liniște la Église Saint-Martin, o biserică locală fermecătoare înconjurată de verdeață, care oferă un fundal minunat pentru fotografii în timpul explorării.",
+            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Ressuscité",
+            "hu": "Église du Christ-Ressuscité",
+            "ro": "Église du Christ-Ressuscité",
+            "en": "Église du Christ-Ressuscité"
+          },
+          "coords": [
+            2.436259,
+            49.257585
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
+            "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
+            "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Montataire",
+            "hu": "Montataire-i kastély",
+            "ro": "Castelul Montataire",
+            "en": "Montataire Castle"
+          },
+          "coords": [
+            2.444229,
+            49.25781
+          ],
+          "category": "fortress",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
+            "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
+            "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Laversine",
+            "hu": "Château de Laversine",
+            "ro": "Château de Laversine",
+            "en": "Château de Laversine"
+          },
+          "coords": [
+            2.452189,
+            49.235141
+          ],
+          "category": "castle",
+          "arrive_at": "14:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im herrlichen Château de Laversine, einem eleganten Anwesen, wo ein entspannter Nachmittagsspaziergang über das weitläufige Gelände wirklich unvergesslich ist.",
+            "hu": "Zárja a napot a fenséges Château de Laversine elegáns birtokán, ahol a kiterjedt parkban tett délutáni séta garantáltan emlékezetes élményt nyújt minden látogató számára.",
+            "ro": "Încheiați ziua la magnificul Château de Laversine, o moșie elegantă unde o plimbare de după-amiază prin terenurile sale vaste și frumos întreținute este cu adevărat memorabilă.",
+            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
+        "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
+        "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalan-templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Notre-Dame Collegiate Church"
+          },
+          "coords": [
+            2.363802,
+            49.272753
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das großartige Design der Stiftskirche Notre-Dame, eines historischen Meisterwerks am Rande der Stadt, wobei es sich empfiehlt, vorher die Öffnungszeiten zu prüfen.",
+            "hu": "Csodálja meg a Notre-Dame társaskáptalan-templom lenyűgöző kialakítását a város szélén, de indulás előtt mindenképpen érdemes ellenőrizni az aktuális nyitvatartási időt.",
+            "ro": "Admirați designul grandios al Bisericii Colegiale Notre-Dame, o capodoperă istorică de la periferie, unde este foarte recomandat să verificați în prealabil programul de vizitare.",
+            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Prieuré",
+            "hu": "Parc du Prieuré",
+            "ro": "Parc du Prieuré",
+            "en": "Prieuré Park"
+          },
+          "coords": [
+            2.417663,
+            49.253468
+          ],
+          "category": "recreational",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
+            "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.400961,
+            49.255029
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment in der Église Saint-Martin, einer liebenswerten, von viel Grün umgebenen lokalen Kirche, die eine wunderbare Kulisse für die Fotografie bietet.",
+            "hu": "Töltsön el egy csendes percet a zöldövezettel körülvett Église Saint-Martin templomnál, amely csodálatos és nyugodt hátteret biztosít a fotózáshoz a felfedezés során.",
+            "ro": "Luați-vă un moment de liniște la Église Saint-Martin, o biserică locală fermecătoare înconjurată de verdeață, care oferă un fundal minunat pentru fotografii în timpul explorării.",
+            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Ressuscité",
+            "hu": "Église du Christ-Ressuscité",
+            "ro": "Église du Christ-Ressuscité",
+            "en": "Église du Christ-Ressuscité"
+          },
+          "coords": [
+            2.436259,
+            49.257585
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
+            "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
+            "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.443098,
+            49.256943
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in die Église Notre-Dame ein, um ihre ruhige Atmosphäre zu erleben, und achten Sie unbedingt auf die wunderschön erhaltenen Buntglasfenster im Inneren.",
+            "hu": "Lépjen be az Église Notre-Dame épületébe, és élvezze a békés hangulatot, miközben különös figyelmet szentel a gyönyörűen megőrzött, színpompás ólomüveg ablakoknak.",
+            "ro": "Pășiți în Biserica Notre-Dame pentru a experimenta ambianța sa senină și semnificația istorică, asigurându-vă că observați vitraliile frumos conservate din interior.",
+            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Montataire",
+            "hu": "Montataire-i kastély",
+            "ro": "Castelul Montataire",
+            "en": "Montataire Castle"
+          },
+          "coords": [
+            2.444229,
+            49.25781
+          ],
+          "category": "fortress",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
+            "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
+            "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Laversine",
+            "hu": "Château de Laversine",
+            "ro": "Château de Laversine",
+            "en": "Château de Laversine"
+          },
+          "coords": [
+            2.452189,
+            49.235141
+          ],
+          "category": "castle",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im herrlichen Château de Laversine, einem eleganten Anwesen, wo ein entspannter Nachmittagsspaziergang über das weitläufige Gelände wirklich unvergesslich ist.",
+            "hu": "Zárja a napot a fenséges Château de Laversine elegáns birtokán, ahol a kiterjedt parkban tett délutáni séta garantáltan emlékezetes élményt nyújt minden látogató számára.",
+            "ro": "Încheiați ziua la magnificul Château de Laversine, o moșie elegantă unde o plimbare de după-amiază prin terenurile sale vaste și frumos întreținute este cu adevărat memorabilă.",
+            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
+        "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
+        "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+      }
+    }
+  }
+}

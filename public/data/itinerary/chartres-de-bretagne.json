@@ -1,0 +1,451 @@
+{
+  "city_id": "chartres-de-bretagne",
+  "anchor": {
+    "name": "Chartres-de-Bretagne",
+    "coords": [
+      -1.7039,
+      48.0394
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            -1.698724,
+            48.038875
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Buntglasfenster dieser historischen Kapelle, die das spirituelle Erbe der Region widerspiegelt, und kommen Sie morgens, um das beste natürliche Licht im Inneren zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi kápolnának a gyönyörű ólomüveg ablakait, amelyek a helyi szellemi örökséget tükrözik, és próbáljon meg a délelőtti órákban érkezni a legszebb természetes fényhatásokért.",
+            "ro": "Admirați vitraliile rafinate ale acestei capele istorice care reflectă moștenirea spirituală locală și amintiți-vă să o vizitați în timpul dimineții pentru cea mai bună lumină naturală în interior.",
+            "en": "Admire the exquisite stained glass of this historic chapel which reflects the local spiritual heritage, and remember to visit during morning hours for the best natural light illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Pôle Sud Cultural Center",
+            "hu": "Pôle Sud Cultural Center",
+            "ro": "Pôle Sud Cultural Center",
+            "en": "Pôle Sud Cultural Center"
+          },
+          "coords": [
+            -1.695609,
+            48.041681
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen und dynamische Aufführungen in diesem modernen Kulturzentrum und prüfen Sie vorab den Online-Tagesplan, um Tickets für besondere lokale Events zu sichern.",
+            "hu": "Fedezze fel a kortárs művészeti kiállításokat és dinamikus előadásokat ebben a modern kulturális központban, de mindenképpen ellenőrizze a napi programot online, hogy jegyet szerezhessen az eseményekre.",
+            "ro": "Explorați expozițiile de artă contemporană și spectacolele dinamice de la acest centru cultural modern, verificând programul zilnic online în avans pentru a vă asigura bilete la evenimentele speciale.",
+            "en": "Explore the contemporary art exhibitions and dynamic performances at this modern cultural hub, checking their daily schedule online in advance to secure tickets for any special seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fontenay",
+            "hu": "Château de Fontenay",
+            "ro": "Château de Fontenay",
+            "en": "Château de Fontenay"
+          },
+          "coords": [
+            -1.696822,
+            48.046203
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das elegante Gelände dieses wunderschönen lokalen Schlosses, um die klassische französische Architektur zu bewundern, und bringen Sie ein Weitwinkelobjektiv für die beeindruckende Fassade mit.",
+            "hu": "Sétáljon végig a gyönyörű helyi kastély elegáns birtokán, hogy megfigyelhesse a klasszikus francia építészeti stílust, és hozzon magával nagylátószögű lencsét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Plimbați-vă pe terenurile elegante ale acestui frumos castel local pentru a asista la stilul arhitectural clasic francez și aduceți un obiectiv cu unghi larg pentru a surprinde fațada impresionantă.",
+            "en": "Stroll through the elegant grounds of this beautiful local castle to witness the classic French architectural style, and bring a wide-angle lens to capture the impressive facade against the lush gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.706929,
+            48.042666
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinschnitzereien und die friedliche Atmosphäre dieser zentralen Kirche, die die Gemeinde verankert, und nehmen Sie sich einen Moment Zeit auf den Bänken für die zeitlose Akustik.",
+            "hu": "Figyelje meg ennek a központi templomnak a bonyolult kőfaragásait és békés hangulatát, amely összefogja a közösséget, és szánjon egy percet arra, hogy a padokban ülve értékelje a nyugodt, időtlen akusztikát.",
+            "ro": "Observați sculpturile complicate în piatră și ambianța pașnică a acestei biserici centrale, luându-vă un moment pentru a sta liniștit în bănci și a aprecia pe deplin acustica sa senină și atemporală.",
+            "en": "Observe the intricate stone carvings and peaceful ambiance of this central church that anchors the community, taking a moment to sit quietly in the pews to fully appreciate its serene, timeless acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Anciens Fours à chaux",
+            "hu": "Anciens Fours à chaux",
+            "ro": "Anciens Fours à chaux",
+            "en": "Anciens Fours à chaux"
+          },
+          "coords": [
+            -1.716442,
+            48.043445
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Industriegeschichte der alten Kalköfen, die für die regionale Entwicklung wichtig waren, und tragen Sie festes Schuhwerk, da das umliegende historische Gelände uneben ist.",
+            "hu": "Fedezze fel a régi mészégető kemencék lenyűgöző ipartörténetét, amelyek létfontosságú szerepet játszottak a régió fejlődésében, és viseljen kényelmes cipőt, mivel a környező történelmi terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți istoria industrială fascinantă a vechilor cuptoare de var, care au jucat un rol vital în dezvoltarea regională, și purtați pantofi de mers rezistenți, deoarece terenul istoric înconjurător este accidentat.",
+            "en": "Discover the fascinating industrial history of the old lime kilns which played a vital role in regional development, and wear sturdy walking shoes as the surrounding historical terrain can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der charmanten zentralen Straßen und dem Besuch historischer Wahrzeichen der Stadt.\n\nWechseln Sie am Mittag zu den kulturellen Zentren der Stadt und genießen Sie die modernen architektonischen Kontraste.\n\nVerbringen Sie Ihren Nachmittag mit der lokalen Geschichte und malerischen Naturparks und spazieren Sie über friedliche Waldwege.\n\nBeenden Sie den Abend, indem Sie die pulsierende regionale Unterhaltung erleben oder einen Spaziergang im Zwielicht unternehmen.",
+        "hu": "Kezdje a reggelt a bájos utcák felfedezésével, a város történelmi és vallási nevezetességeit kutatva.\n\nDélben látogassa meg a kulturális központokat, élvezve a modern építészeti kontrasztokat.\n\nTöltse a délutánt a helyi történelem és a természeti parkok megismerésével a békés ösvényeken.\n\nZárja az estét a regionális szórakozási lehetőségekkel, vagy sétáljon egyet a kivilágított épületek előtt.",
+        "ro": "Începeți dimineața explorând străzile centrale fermecătoare, vizitând repere istorice și religioase.\n\nLa amiază, îndreptați-vă spre centrele culturale ale orașului, bucurându-vă de contrastele arhitecturale moderne.\n\nPetreceți după-amiaza cufundându-vă în istoria locală și în parcurile naturale, făcând o plimbare pe traseele verzi.\n\nÎncheiați seara cu un spectacol vibrant de divertisment sau printr-o plimbare la apus pe lângă fațadele istorice.",
+        "en": "Start your morning exploring the charming central streets, visiting historical and religious landmarks that ground the town's spirit.\n\nBy midday, transition towards the town's cultural hubs, enjoying the modern architectural contrasts and lively atmosphere.\n\nSpend your afternoon immersing yourself in local history and scenic nature parks, taking time to walk the peaceful, green trails.\n\nConclude the evening by experiencing the vibrant regional entertainment or taking a twilight stroll past the illuminated historic facades."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Town Hall",
+            "hu": "Town Hall",
+            "ro": "Town Hall",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -1.706766,
+            48.027797
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante bürgerliche Architektur des Rathauses, das als Herz der lokalen Verwaltung dient, und nutzen Sie den kurzen Stopp, um an der Rezeption kostenlose Karten und regionale Broschüren zu holen.",
+            "hu": "Figyelje meg a Városháza lenyűgöző polgári építészetét, amely a helyi közigazgatás szíveként szolgál, és tökéletes gyors megálló arra, hogy ingyenes térképeket és regionális prospektusokat szerezzen a recepción.",
+            "ro": "Observați arhitectura civică izbitoare a Primăriei, care servește drept inima administrației locale, făcând din aceasta o scurtă oprire perfectă pentru a aduna hărți gratuite și broșuri regionale de la recepție.",
+            "en": "Notice the striking civic architecture of the Town Hall which serves as the heart of local administration, making it a perfect quick stop to gather free maps and regional brochures from the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            -1.698724,
+            48.038875
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Buntglasfenster dieser historischen Kapelle, die das spirituelle Erbe der Region widerspiegelt, und kommen Sie morgens, um das beste natürliche Licht im Inneren zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi kápolnának a gyönyörű ólomüveg ablakait, amelyek a helyi szellemi örökséget tükrözik, és próbáljon meg a délelőtti órákban érkezni a legszebb természetes fényhatásokért.",
+            "ro": "Admirați vitraliile rafinate ale acestei capele istorice care reflectă moștenirea spirituală locală și amintiți-vă să o vizitați în timpul dimineții pentru cea mai bună lumină naturală în interior.",
+            "en": "Admire the exquisite stained glass of this historic chapel which reflects the local spiritual heritage, and remember to visit during morning hours for the best natural light illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fontenay",
+            "hu": "Château de Fontenay",
+            "ro": "Château de Fontenay",
+            "en": "Château de Fontenay"
+          },
+          "coords": [
+            -1.696822,
+            48.046203
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das elegante Gelände dieses wunderschönen lokalen Schlosses, um die klassische französische Architektur zu bewundern, und bringen Sie ein Weitwinkelobjektiv für die beeindruckende Fassade mit.",
+            "hu": "Sétáljon végig a gyönyörű helyi kastély elegáns birtokán, hogy megfigyelhesse a klasszikus francia építészeti stílust, és hozzon magával nagylátószögű lencsét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Plimbați-vă pe terenurile elegante ale acestui frumos castel local pentru a asista la stilul arhitectural clasic francez și aduceți un obiectiv cu unghi larg pentru a surprinde fațada impresionantă.",
+            "en": "Stroll through the elegant grounds of this beautiful local castle to witness the classic French architectural style, and bring a wide-angle lens to capture the impressive facade against the lush gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.706929,
+            48.042666
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinschnitzereien und die friedliche Atmosphäre dieser zentralen Kirche, die die Gemeinde verankert, und nehmen Sie sich einen Moment Zeit auf den Bänken für die zeitlose Akustik.",
+            "hu": "Figyelje meg ennek a központi templomnak a bonyolult kőfaragásait és békés hangulatát, amely összefogja a közösséget, és szánjon egy percet arra, hogy a padokban ülve értékelje a nyugodt, időtlen akusztikát.",
+            "ro": "Observați sculpturile complicate în piatră și ambianța pașnică a acestei biserici centrale, luându-vă un moment pentru a sta liniștit în bănci și a aprecia pe deplin acustica sa senină și atemporală.",
+            "en": "Observe the intricate stone carvings and peaceful ambiance of this central church that anchors the community, taking a moment to sit quietly in the pews to fully appreciate its serene, timeless acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Lormandière",
+            "hu": "Lormandière",
+            "ro": "Lormandière",
+            "en": "Lormandière"
+          },
+          "coords": [
+            -1.725719,
+            48.048663
+          ],
+          "category": "park",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Flucht in die Natur in diesem weitläufigen Park, der für seine reiche Artenvielfalt bekannt ist, und packen Sie ein leichtes Picknick ein, um am Nachmittag am Hauptteich zu entspannen.",
+            "hu": "Élvezze a frissítő menekülést a természetbe ebben a hatalmas parkban, amely gazdag biodiverzitásáról és festői ösvényeiről ismert, és csomagoljon egy könnyű pikniket, hogy pihenhessen a fő tó közelében.",
+            "ro": "Bucurați-vă de o evadare revigorantă în natură în acest parc întins, cunoscut pentru biodiversitatea sa bogată, și împachetați un picnic ușor pentru a vă relaxa lângă iazul principal în timpul unei după-amiezi însorite.",
+            "en": "Enjoy a refreshing escape into nature at this expansive park known for its rich biodiversity and scenic trails, and pack a light picnic to relax near the main pond during a sunny afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Anciens Fours à chaux",
+            "hu": "Anciens Fours à chaux",
+            "ro": "Anciens Fours à chaux",
+            "en": "Anciens Fours à chaux"
+          },
+          "coords": [
+            -1.716442,
+            48.043445
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Industriegeschichte der alten Kalköfen, die für die regionale Entwicklung wichtig waren, und tragen Sie festes Schuhwerk, da das umliegende historische Gelände uneben ist.",
+            "hu": "Fedezze fel a régi mészégető kemencék lenyűgöző ipartörténetét, amelyek létfontosságú szerepet játszottak a régió fejlődésében, és viseljen kényelmes cipőt, mivel a környező történelmi terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți istoria industrială fascinantă a vechilor cuptoare de var, care au jucat un rol vital în dezvoltarea regională, și purtați pantofi de mers rezistenți, deoarece terenul istoric înconjurător este accidentat.",
+            "en": "Discover the fascinating industrial history of the old lime kilns which played a vital role in regional development, and wear sturdy walking shoes as the surrounding historical terrain can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der charmanten zentralen Straßen und dem Besuch historischer Wahrzeichen der Stadt.\n\nWechseln Sie am Mittag zu den kulturellen Zentren der Stadt und genießen Sie die modernen architektonischen Kontraste.\n\nVerbringen Sie Ihren Nachmittag mit der lokalen Geschichte und malerischen Naturparks und spazieren Sie über friedliche Waldwege.\n\nBeenden Sie den Abend, indem Sie die pulsierende regionale Unterhaltung erleben oder einen Spaziergang im Zwielicht unternehmen.",
+        "hu": "Kezdje a reggelt a bájos utcák felfedezésével, a város történelmi és vallási nevezetességeit kutatva.\n\nDélben látogassa meg a kulturális központokat, élvezve a modern építészeti kontrasztokat.\n\nTöltse a délutánt a helyi történelem és a természeti parkok megismerésével a békés ösvényeken.\n\nZárja az estét a regionális szórakozási lehetőségekkel, vagy sétáljon egyet a kivilágított épületek előtt.",
+        "ro": "Începeți dimineața explorând străzile centrale fermecătoare, vizitând repere istorice și religioase.\n\nLa amiază, îndreptați-vă spre centrele culturale ale orașului, bucurându-vă de contrastele arhitecturale moderne.\n\nPetreceți după-amiaza cufundându-vă în istoria locală și în parcurile naturale, făcând o plimbare pe traseele verzi.\n\nÎncheiați seara cu un spectacol vibrant de divertisment sau printr-o plimbare la apus pe lângă fațadele istorice.",
+        "en": "Start your morning exploring the charming central streets, visiting historical and religious landmarks that ground the town's spirit.\n\nBy midday, transition towards the town's cultural hubs, enjoying the modern architectural contrasts and lively atmosphere.\n\nSpend your afternoon immersing yourself in local history and scenic nature parks, taking time to walk the peaceful, green trails.\n\nConclude the evening by experiencing the vibrant regional entertainment or taking a twilight stroll past the illuminated historic facades."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Town Hall",
+            "hu": "Town Hall",
+            "ro": "Town Hall",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -1.706766,
+            48.027797
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante bürgerliche Architektur des Rathauses, das als Herz der lokalen Verwaltung dient, und nutzen Sie den kurzen Stopp, um an der Rezeption kostenlose Karten und regionale Broschüren zu holen.",
+            "hu": "Figyelje meg a Városháza lenyűgöző polgári építészetét, amely a helyi közigazgatás szíveként szolgál, és tökéletes gyors megálló arra, hogy ingyenes térképeket és regionális prospektusokat szerezzen a recepción.",
+            "ro": "Observați arhitectura civică izbitoare a Primăriei, care servește drept inima administrației locale, făcând din aceasta o scurtă oprire perfectă pentru a aduna hărți gratuite și broșuri regionale de la recepție.",
+            "en": "Notice the striking civic architecture of the Town Hall which serves as the heart of local administration, making it a perfect quick stop to gather free maps and regional brochures from the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.706929,
+            48.042666
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Steinschnitzereien und die friedliche Atmosphäre dieser zentralen Kirche, die die Gemeinde verankert, und nehmen Sie sich einen Moment Zeit auf den Bänken für die zeitlose Akustik.",
+            "hu": "Figyelje meg ennek a központi templomnak a bonyolult kőfaragásait és békés hangulatát, amely összefogja a közösséget, és szánjon egy percet arra, hogy a padokban ülve értékelje a nyugodt, időtlen akusztikát.",
+            "ro": "Observați sculpturile complicate în piatră și ambianța pașnică a acestei biserici centrale, luându-vă un moment pentru a sta liniștit în bănci și a aprecia pe deplin acustica sa senină și atemporală.",
+            "en": "Observe the intricate stone carvings and peaceful ambiance of this central church that anchors the community, taking a moment to sit quietly in the pews to fully appreciate its serene, timeless acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Pôle Sud Cultural Center",
+            "hu": "Pôle Sud Cultural Center",
+            "ro": "Pôle Sud Cultural Center",
+            "en": "Pôle Sud Cultural Center"
+          },
+          "coords": [
+            -1.695609,
+            48.041681
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen und dynamische Aufführungen in diesem modernen Kulturzentrum und prüfen Sie vorab den Online-Tagesplan, um Tickets für besondere lokale Events zu sichern.",
+            "hu": "Fedezze fel a kortárs művészeti kiállításokat és dinamikus előadásokat ebben a modern kulturális központban, de mindenképpen ellenőrizze a napi programot online, hogy jegyet szerezhessen az eseményekre.",
+            "ro": "Explorați expozițiile de artă contemporană și spectacolele dinamice de la acest centru cultural modern, verificând programul zilnic online în avans pentru a vă asigura bilete la evenimentele speciale.",
+            "en": "Explore the contemporary art exhibitions and dynamic performances at this modern cultural hub, checking their daily schedule online in advance to secure tickets for any special seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Fontenay",
+            "hu": "Château de Fontenay",
+            "ro": "Château de Fontenay",
+            "en": "Château de Fontenay"
+          },
+          "coords": [
+            -1.696822,
+            48.046203
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das elegante Gelände dieses wunderschönen lokalen Schlosses, um die klassische französische Architektur zu bewundern, und bringen Sie ein Weitwinkelobjektiv für die beeindruckende Fassade mit.",
+            "hu": "Sétáljon végig a gyönyörű helyi kastély elegáns birtokán, hogy megfigyelhesse a klasszikus francia építészeti stílust, és hozzon magával nagylátószögű lencsét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Plimbați-vă pe terenurile elegante ale acestui frumos castel local pentru a asista la stilul arhitectural clasic francez și aduceți un obiectiv cu unghi larg pentru a surprinde fațada impresionantă.",
+            "en": "Stroll through the elegant grounds of this beautiful local castle to witness the classic French architectural style, and bring a wide-angle lens to capture the impressive facade against the lush gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Lormandière",
+            "hu": "Lormandière",
+            "ro": "Lormandière",
+            "en": "Lormandière"
+          },
+          "coords": [
+            -1.725719,
+            48.048663
+          ],
+          "category": "park",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Flucht in die Natur in diesem weitläufigen Park, der für seine reiche Artenvielfalt bekannt ist, und packen Sie ein leichtes Picknick ein, um am Nachmittag am Hauptteich zu entspannen.",
+            "hu": "Élvezze a frissítő menekülést a természetbe ebben a hatalmas parkban, amely gazdag biodiverzitásáról és festői ösvényeiről ismert, és csomagoljon egy könnyű pikniket, hogy pihenhessen a fő tó közelében.",
+            "ro": "Bucurați-vă de o evadare revigorantă în natură în acest parc întins, cunoscut pentru biodiversitatea sa bogată, și împachetați un picnic ușor pentru a vă relaxa lângă iazul principal în timpul unei după-amiezi însorite.",
+            "en": "Enjoy a refreshing escape into nature at this expansive park known for its rich biodiversity and scenic trails, and pack a light picnic to relax near the main pond during a sunny afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "MusikHall",
+            "hu": "MusikHall",
+            "ro": "MusikHall",
+            "en": "MusikHall"
+          },
+          "coords": [
+            -1.732938,
+            48.057258
+          ],
+          "category": "cultural",
+          "arrive_at": "14:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die pulsierende Energie dieses erstklassigen Veranstaltungsortes für musikalische Darbietungen, und kommen Sie mindestens fünfundvierzig Minuten früher, um in Ruhe zu parken und Ihre Plätze zu finden.",
+            "hu": "Tapasztalja meg ennek az elsőrangú szórakoztató központnak a vibráló energiáját, amely kiváló zenei előadásoknak ad otthont, és érkezzen legalább negyvenöt perccel korábban a zökkenőmentes parkolás érdekében.",
+            "ro": "Experimentați energia vibrantă a acestei locații de divertisment de primă clasă, care găzduiește spectacole muzicale de top, și ajungeți cu cel puțin patruzeci și cinci de minute mai devreme pentru a parca ușor.",
+            "en": "Experience the vibrant energy of this premier entertainment venue hosting top-tier musical performances, and arrive at least forty-five minutes early to smoothly navigate parking and find your designated seats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der charmanten zentralen Straßen und dem Besuch historischer Wahrzeichen der Stadt.\n\nWechseln Sie am Mittag zu den kulturellen Zentren der Stadt und genießen Sie die modernen architektonischen Kontraste.\n\nVerbringen Sie Ihren Nachmittag mit der lokalen Geschichte und malerischen Naturparks und spazieren Sie über friedliche Waldwege.\n\nBeenden Sie den Abend, indem Sie die pulsierende regionale Unterhaltung erleben oder einen Spaziergang im Zwielicht unternehmen.",
+        "hu": "Kezdje a reggelt a bájos utcák felfedezésével, a város történelmi és vallási nevezetességeit kutatva.\n\nDélben látogassa meg a kulturális központokat, élvezve a modern építészeti kontrasztokat.\n\nTöltse a délutánt a helyi történelem és a természeti parkok megismerésével a békés ösvényeken.\n\nZárja az estét a regionális szórakozási lehetőségekkel, vagy sétáljon egyet a kivilágított épületek előtt.",
+        "ro": "Începeți dimineața explorând străzile centrale fermecătoare, vizitând repere istorice și religioase.\n\nLa amiază, îndreptați-vă spre centrele culturale ale orașului, bucurându-vă de contrastele arhitecturale moderne.\n\nPetreceți după-amiaza cufundându-vă în istoria locală și în parcurile naturale, făcând o plimbare pe traseele verzi.\n\nÎncheiați seara cu un spectacol vibrant de divertisment sau printr-o plimbare la apus pe lângă fațadele istorice.",
+        "en": "Start your morning exploring the charming central streets, visiting historical and religious landmarks that ground the town's spirit.\n\nBy midday, transition towards the town's cultural hubs, enjoying the modern architectural contrasts and lively atmosphere.\n\nSpend your afternoon immersing yourself in local history and scenic nature parks, taking time to walk the peaceful, green trails.\n\nConclude the evening by experiencing the vibrant regional entertainment or taking a twilight stroll past the illuminated historic facades."
+      }
+    }
+  }
+}

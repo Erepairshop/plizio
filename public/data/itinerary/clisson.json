@@ -1,0 +1,474 @@
+{
+  "city_id": "clisson",
+  "anchor": {
+    "name": "Clisson",
+    "coords": [
+      -1.2836,
+      47.0869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Ville",
+            "hu": "Porte de Ville",
+            "ro": "Porte de Ville",
+            "en": "Porte de Ville"
+          },
+          "coords": [
+            -1.282604,
+            47.085724
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Stadttors, das einst Clisson schützte, und achten Sie auf die historischen Schießscharten in der Steinfassade.",
+            "hu": "Csodálja meg ennek az ősi városkapunak a középkori építészetét, amely egykor Clissont védte, és figyelje meg a kőhomlokzaton lévő történelmi lőréseket közelebbről.",
+            "ro": "Admirați arhitectura medievală a acestei porți vechi care proteja Clissonul și asigurați-vă că observați fantele defensive istorice de pe fațada sa de piatră.",
+            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Clisson",
+            "hu": "Château de Clisson",
+            "ro": "Château de Clisson",
+            "en": "Château de Clisson"
+          },
+          "coords": [
+            -1.281002,
+            47.086492
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
+            "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
+            "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Church",
+            "hu": "Notre-Dame Church",
+            "ro": "Notre-Dame Church",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -1.281418,
+            47.087647
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster und die ruhige Atmosphäre zu schätzen, und kommen Sie früh, um das Morgenlicht zu genießen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, hogy megcsodálja gyönyörű ólomüveg ablakait és nyugodt légkörét, és jöjjön korán a csodálatos reggeli fényviszonyokért.",
+            "ro": "Pășiți în această biserică în stil romanic pentru a aprecia vitraliile sale frumoase și atmosfera senină și vizitați-o dimineața devreme pentru a vă bucura de lumină.",
+            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jacques",
+            "hu": "Église Saint-Jacques",
+            "ro": "Église Saint-Jacques",
+            "en": "Église Saint-Jacques"
+          },
+          "coords": [
+            -1.284364,
+            47.088631
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche aus dem 12. Jahrhundert, bekannt für ihre schlichte Architektur, und ruhen Sie sich einen Moment auf dem ruhigen Platz davor aus.",
+            "hu": "Fedezze fel ezt a bájos, 12. századi templomot, amely egyszerű, de elegáns építészetéről ismert, és pihenjen meg egy pillanatra a bejárat előtti csendes kis téren.",
+            "ro": "Descoperiți această fermecătoare biserică din secolul al XII-lea, cunoscută pentru arhitectura sa simplă, și odihniți-vă pe piațeta liniștită chiar la intrare.",
+            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Valley Bridge",
+            "hu": "Valley Bridge",
+            "ro": "Valley Bridge",
+            "en": "Valley Bridge"
+          },
+          "coords": [
+            -1.27972,
+            47.0869
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
+            "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Trinité",
+            "hu": "Église de la Trinité",
+            "ro": "Église de la Trinité",
+            "en": "Église de la Trinité"
+          },
+          "coords": [
+            -1.276554,
+            47.088622
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige religiöse Stätte mit markanten architektonischen Details und einer friedlichen Aura und achten Sie auf die Schnitzereien am Hauptportal.",
+            "hu": "Látogasson el erre az egyedi vallási helyszínre, amely lenyűgöző építészeti részletekkel büszkélkedhet, és figyelje meg a fő faajtót keretező bonyolult faragásokat.",
+            "ro": "Vizitați acest sit religios unic, cu detalii arhitecturale uimitoare și o aură pașnică, și priviți cu atenție sculpturile complicate care încadrează ușa principală.",
+            "en": "Visit this unique religious site featuring striking architectural details and a peaceful aura, and look closely at the intricate carvings framing the main wooden doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Lemot Estate",
+            "hu": "Garenne Lemot Estate",
+            "ro": "Garenne Lemot Estate",
+            "en": "Garenne Lemot Estate"
+          },
+          "coords": [
+            -1.27591,
+            47.085
+          ],
+          "category": "cultural",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
+            "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
+            "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den alten Stadttoren, vorbei an den imposanten Ruinen des Château de Clisson. Spüren Sie das Gewicht der mittelalterlichen Geschichte.\nMittags gibt es ein spirituelles Zwischenspiel in der Kirche Notre-Dame und der Église Saint-Jacques, wo Sie die friedliche Atmosphäre dieser romanischen Juwelen genießen.\nÜberqueren Sie nachmittags die atemberaubende Valley Bridge, bevor Sie die feine Architektur der Église de la Trinité bewundern und den Blick auf den Fluss genießen.\nDer Abend endet mit einem entspannenden Spaziergang über das Anwesen Garenne Lemot, wo italienische Schönheit und üppige Gärten einen perfekten, ruhigen Abschied bieten.",
+        "hu": "A reggel az ősi városkapuknál kezdődik, átsétálva a Château de Clisson impozáns romjaihoz. Érezze a középkori történelem súlyát, miközben felfedezi annak titkait.\nA dél körüli órák spirituális élményt nyújtanak a Notre-Dame és a Saint-Jacques templomoknál, élvezve e román stílusú gyöngyszemek békés atmoszféráját.\nDélután keljen át a lélegzetelállító Valley Bridge-en, csodás fotókat készítve a folyóról, majd tekintse meg a Trinité templom finom építészeti megoldásait.\nAz este egy pihentető sétával zárul a Garenne Lemot birtokon, ahol az olaszos szépség és a buja kertek tökéletes, nyugodt búcsút kínálnak Clissontól.",
+        "ro": "Dimineața începe la porțile antice ale orașului, trecând pe lângă ruinele impunătoare ale Château de Clisson. Simțiți greutatea istoriei medievale descoperind secretele sale.\nAmiaza oferă un interludiu spiritual la Biserica Notre-Dame și Église Saint-Jacques, bucurându-vă de atmosfera pașnică a acestor bijuterii romanice deosebite.\nDupă-amiaza, traversați uimitorul Pod al Văii, surprinzând fotografii uimitoare ale râului, înainte de a admira arhitectura delicată a Église de la Trinité.\nSeara se încheie cu o plimbare relaxantă prin domeniul Garenne Lemot, unde frumusețea italiană și grădinile luxuriante oferă un rămas bun perfect și liniștit.",
+        "en": "Morning starts at the ancient city gates, wandering past the imposing ruins of Château de Clisson. Feel the weight of medieval history as you discover its secrets.\nMidday offers a spiritual interlude at Notre-Dame Church and Église Saint-Jacques, enjoying the peaceful atmosphere of these Romanesque gems.\nIn the afternoon, cross the breathtaking Valley Bridge, capturing stunning photos of the river before admiring the delicate architecture of Église de la Trinité.\nThe evening concludes with a relaxing stroll through the Garenne Lemot Estate, where Italianate beauty and lush gardens provide a perfect, tranquil farewell to Clisson."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Clisson Covered Market",
+            "hu": "Clisson Covered Market",
+            "ro": "Clisson Covered Market",
+            "en": "Clisson Covered Market"
+          },
+          "coords": [
+            -1.309829,
+            47.060904
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Aromen in dieser historischen Markthalle mit ihrer beeindruckenden Holzdachkonstruktion und kommen Sie vor dem Mittag, um die frischesten Produkte zu finden.",
+            "hu": "Tapasztalja meg a helyi ízeket ebben a nyüzsgő, történelmi piaccsarnokban, amely lenyűgöző fa tetőszerkezetéről ismert, és érkezzen dél előtt a legfrissebb árukért.",
+            "ro": "Experimentați aromele locale în această piață istorică plină de viață, cunoscută pentru acoperișul său din lemn, și sosiți înainte de prânz pentru produse proaspete.",
+            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Clisson",
+            "hu": "Château de Clisson",
+            "ro": "Château de Clisson",
+            "en": "Château de Clisson"
+          },
+          "coords": [
+            -1.281002,
+            47.086492
+          ],
+          "category": "castle",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
+            "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
+            "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Church",
+            "hu": "Notre-Dame Church",
+            "ro": "Notre-Dame Church",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -1.281418,
+            47.087647
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster und die ruhige Atmosphäre zu schätzen, und kommen Sie früh, um das Morgenlicht zu genießen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, hogy megcsodálja gyönyörű ólomüveg ablakait és nyugodt légkörét, és jöjjön korán a csodálatos reggeli fényviszonyokért.",
+            "ro": "Pășiți în această biserică în stil romanic pentru a aprecia vitraliile sale frumoase și atmosfera senină și vizitați-o dimineața devreme pentru a vă bucura de lumină.",
+            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jacques",
+            "hu": "Église Saint-Jacques",
+            "ro": "Église Saint-Jacques",
+            "en": "Église Saint-Jacques"
+          },
+          "coords": [
+            -1.284364,
+            47.088631
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche aus dem 12. Jahrhundert, bekannt für ihre schlichte Architektur, und ruhen Sie sich einen Moment auf dem ruhigen Platz davor aus.",
+            "hu": "Fedezze fel ezt a bájos, 12. századi templomot, amely egyszerű, de elegáns építészetéről ismert, és pihenjen meg egy pillanatra a bejárat előtti csendes kis téren.",
+            "ro": "Descoperiți această fermecătoare biserică din secolul al XII-lea, cunoscută pentru arhitectura sa simplă, și odihniți-vă pe piațeta liniștită chiar la intrare.",
+            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Valley Bridge",
+            "hu": "Valley Bridge",
+            "ro": "Valley Bridge",
+            "en": "Valley Bridge"
+          },
+          "coords": [
+            -1.27972,
+            47.0869
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
+            "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Lemot Estate",
+            "hu": "Garenne Lemot Estate",
+            "ro": "Garenne Lemot Estate",
+            "en": "Garenne Lemot Estate"
+          },
+          "coords": [
+            -1.27591,
+            47.085
+          ],
+          "category": "cultural",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
+            "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
+            "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem historischen überdachten Markt, wo Sie die lebhafte Atmosphäre genießen, bevor Sie malerisch zum majestätischen Château de Clisson radeln.\nMittags ist perfekt, um das religiöse Erbe von Notre-Dame und Saint-Jacques zu erkunden, die leicht auf zwei Rädern zu erreichen sind.\nAm Nachmittag gleiten Sie über die legendäre Valley Bridge und halten an, um einen weiten Blick auf den Fluss und die historische Landschaft zu werfen.\nDer Abend endet auf dem ruhigen Anwesen Garenne Lemot, wo Sie Ihr Fahrrad parken und bei Sonnenuntergang durch die italienischen Gärten schlendern können.",
+        "hu": "A reggel a történelmi fedett piacon indul, élvezve a nyüzsgő helyi hangulatot, mielőtt átkerekezne a fenséges Château de Clissonhoz.\nA dél ideális a Notre-Dame és a Saint-Jacques vallási örökségének felfedezésére, melyek könnyen megközelíthetők kerékpárral a városon keresztül.\nDélután guruljon át az ikonikus Valley Bridge-en, megállva, hogy megörökítse a folyó és a festői történelmi táj lenyűgöző látványát.\nAz este a békés Garenne Lemot birtokon zárul, ahol leparkolva a kerékpárt, a naplementében sétálhat az olaszos stílusú kertekben.",
+        "ro": "Dimineața începe la Piața Acoperită istorică, bucurându-vă de atmosfera locală plină de viață înainte de a pedala spre maiestuosul Château de Clisson.\nAmiaza este perfectă pentru explorarea patrimoniului religios al bisericilor Notre-Dame și Saint-Jacques, ușor accesibile pe două roți.\nDupă-amiaza, treceți peste legendarul Pod al Văii, oprindu-vă pentru a surprinde vederi panoramice ale râului și ale peisajului istoric.\nSeara se încheie pe domeniul liniștit Garenne Lemot, unde vă puteți lăsa bicicleta și vă puteți plimba prin grădinile italienești la apus.",
+        "en": "Morning kicks off at the historic Covered Market, enjoying the lively local atmosphere before a scenic ride to the majestic Château de Clisson.\nMidday is perfect for exploring the religious heritage of Notre-Dame and Saint-Jacques, easily accessed on two wheels as you pedal through town.\nIn the afternoon, glide across the iconic Valley Bridge, stopping to capture sweeping views of the river and the picturesque historical landscape.\nThe evening wraps up at the tranquil Garenne Lemot Estate, where you can park your bike and wander the Italianate gardens as the sun goes down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Clisson Covered Market",
+            "hu": "Clisson Covered Market",
+            "ro": "Clisson Covered Market",
+            "en": "Clisson Covered Market"
+          },
+          "coords": [
+            -1.309829,
+            47.060904
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Aromen in dieser historischen Markthalle mit ihrer beeindruckenden Holzdachkonstruktion und kommen Sie vor dem Mittag, um die frischesten Produkte zu finden.",
+            "hu": "Tapasztalja meg a helyi ízeket ebben a nyüzsgő, történelmi piaccsarnokban, amely lenyűgöző fa tetőszerkezetéről ismert, és érkezzen dél előtt a legfrissebb árukért.",
+            "ro": "Experimentați aromele locale în această piață istorică plină de viață, cunoscută pentru acoperișul său din lemn, și sosiți înainte de prânz pentru produse proaspete.",
+            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Clisson",
+            "hu": "Château de Clisson",
+            "ro": "Château de Clisson",
+            "en": "Château de Clisson"
+          },
+          "coords": [
+            -1.281002,
+            47.086492
+          ],
+          "category": "castle",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
+            "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
+            "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Ville",
+            "hu": "Porte de Ville",
+            "ro": "Porte de Ville",
+            "en": "Porte de Ville"
+          },
+          "coords": [
+            -1.282604,
+            47.085724
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Stadttors, das einst Clisson schützte, und achten Sie auf die historischen Schießscharten in der Steinfassade.",
+            "hu": "Csodálja meg ennek az ősi városkapunak a középkori építészetét, amely egykor Clissont védte, és figyelje meg a kőhomlokzaton lévő történelmi lőréseket közelebbről.",
+            "ro": "Admirați arhitectura medievală a acestei porți vechi care proteja Clissonul și asigurați-vă că observați fantele defensive istorice de pe fațada sa de piatră.",
+            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Valley Bridge",
+            "hu": "Valley Bridge",
+            "ro": "Valley Bridge",
+            "en": "Valley Bridge"
+          },
+          "coords": [
+            -1.27972,
+            47.0869
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
+            "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Lemot Estate",
+            "hu": "Garenne Lemot Estate",
+            "ro": "Garenne Lemot Estate",
+            "en": "Garenne Lemot Estate"
+          },
+          "coords": [
+            -1.27591,
+            47.085
+          ],
+          "category": "cultural",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
+            "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
+            "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Fahrt zum geschäftigen Covered Market für lokale Köstlichkeiten und steuern Sie dann das imposante Château de Clisson an.\nMittags erreichen Sie die historische Porte de Ville, wo Sie bequem in der Nähe parken und die alte Verteidigungsarchitektur der Stadt bewundern können.\nAm Nachmittag führt Sie eine kurze Fahrt über die berühmte Valley Bridge, die atemberaubende Aussichtspunkte und ein wahres Gefühl für den Fluss bietet.\nBeenden Sie den Abend auf dem Anwesen Garenne Lemot bei einem entspannten Spaziergang zwischen neoklassizistischen Statuen, bevor Sie ins Hotel fahren.",
+        "hu": "Kezdje a reggelt azzal, hogy a nyüzsgő fedett piachoz hajt a helyi finomságokért, majd induljon el a lenyűgöző Château de Clisson felé.\nA délidő a történelmi Porte de Ville-hez viszi, ahol a közelben könnyedén leparkolhat, és megcsodálhatja a város ősi védelmi építészetét.\nDélután egy rövid autózás után átkelhet a híres Valley Bridge-en, amely lélegzetelállító kilátópontokat és igazi rálátást nyújt a folyó méreteire.\nZárja az estét a csodálatos Garenne Lemot birtokon, élvezve a pihentető sétát a neoklasszicista szobrok között, mielőtt visszavezetne a szállodába.",
+        "ro": "Începeți dimineața conducând către Piața Acoperită plină de viață pentru a lua delicatese locale, apoi îndreptați-vă spre impunătorul Château de Clisson.\nAmiaza vă aduce la istorica Porte de Ville, unde puteți parca ușor în apropiere pentru a admira arhitectura de apărare antică a orașului.\nDupă-amiaza, un scurt drum cu mașina vă poartă peste faimosul Pod al Văii, oferind puncte de belvedere uimitoare și o imagine asupra râului.\nÎncheiați seara pe domeniul magnific Garenne Lemot, bucurându-vă de o plimbare printre statui neoclasice înainte de a conduce înapoi la hotel.",
+        "en": "Start the morning by driving to the bustling Covered Market to pick up local delicacies, then head towards the imposing Château de Clisson.\nMidday brings you to the historic Porte de Ville, where you can easily park nearby and admire the ancient defensive architecture of the city.\nIn the afternoon, a short drive takes you over the famous Valley Bridge, providing breathtaking viewpoints and a true sense of the river's scale.\nConclude the evening at the magnificent Garenne Lemot Estate, enjoying a relaxing stroll among neoclassical statues before driving back to your hotel."
+      }
+    }
+  }
+}

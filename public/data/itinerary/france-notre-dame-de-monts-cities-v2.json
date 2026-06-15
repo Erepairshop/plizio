@@ -1,0 +1,451 @@
+{
+  "city_id": "france-notre-dame-de-monts-cities-v2",
+  "anchor": {
+    "name": "Notre-Dame-de-Monts",
+    "coords": [
+      -2.13056,
+      46.83139
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 2.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Assomption",
+            "hu": "Église Notre-Dame de l'Assomption",
+            "ro": "Église Notre-Dame de l'Assomption",
+            "en": "Église Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -2.131222,
+            46.831398
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Dorfkirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a falu központi templomának helyi történelmet tükröző, bájos építészetét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria locală, și vizitați-o devreme pentru a evita soarele amiezii.",
+            "en": "Admire the charming architecture of this central village church, which reflects local history, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Centrale",
+            "hu": "Plage Centrale",
+            "ro": "Plage Centrale",
+            "en": "Plage Centrale"
+          },
+          "coords": [
+            -2.146277,
+            46.830091
+          ],
+          "category": "recreational",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinem goldenen Sand, ideal zum Schwimmen, und bringen Sie eine Windjacke für die Küstenbrise mit.",
+            "hu": "Tapasztalja meg a fő strand élénk hangulatát és aranyszínű homokját, amely tökéletes egy úszáshoz, és hozzon magával széldzsekit a parti szellő ellen.",
+            "ro": "Experimentați atmosfera plină de viață a plajei principale cu nisipul ei auriu, perfectă pentru înot, și aduceți o jachetă de vânt pentru briza coastei.",
+            "en": "Experience the lively atmosphere of the main beach with its golden sands, perfect for a swim, and bring a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Régates",
+            "hu": "Plage des Régates",
+            "ro": "Plage des Régates",
+            "en": "Plage des Régates"
+          },
+          "coords": [
+            -2.147035,
+            46.835425
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen sportlichen Küstenabschnitt, wo sich Segelbegeisterte treffen und tolle Fotomotive bieten, und achten Sie auf die Gezeiten.",
+            "hu": "Fedezze fel ezt a sportos partszakaszt, ahol a vitorlázók gyülekeznek, és remek fotótémákat kínálnak; sétálás előtt ellenőrizze az árapályt.",
+            "ro": "Descoperiți această secțiune de coastă sportivă unde se adună pasionații de navigație, oferind oportunități foto excelente; verificați mareele.",
+            "en": "Discover this sporty coastal section where sailing enthusiasts gather, offering great photo opportunities, and watch the tide schedule before walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Braie",
+            "hu": "Plage de la Braie",
+            "ro": "Plage de la Braie",
+            "en": "Plage de la Braie"
+          },
+          "coords": [
+            -2.147556,
+            46.840651
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem breiten, friedlichen Sandstrand hinter schönen Dünen, der ein wahres Naturerlebnis bietet, und tragen Sie festes Schuhwerk.",
+            "hu": "Pihenjen ezen a széles, békés, dűnékkel szegélyezett homokos parton, amely igazi természetközeli élményt nyújt; viseljen kényelmes cipőt.",
+            "ro": "Relaxați-vă pe această porțiune largă și liniștită de nisip, mărginită de dune frumoase, și purtați încălțăminte robustă pentru cărările nisipoase.",
+            "en": "Relax on this wide, peaceful stretch of sand backed by beautiful dunes, offering a true nature escape, and wear sturdy shoes for the sandy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Renaudière",
+            "hu": "Plage de la Renaudière",
+            "ro": "Plage de la Renaudière",
+            "en": "Plage de la Renaudière"
+          },
+          "coords": [
+            -2.147415,
+            46.844566
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit der nördlichen Küste, wo sich weniger Menschenmassen tummeln, und packen Sie unbedingt Wasser und Snacks ein.",
+            "hu": "Élvezze az északi partvidék nyers szépségét, ahol kevesebb a tömeg, így ideális az elmélkedésre; ne felejtsen el vizet és rágcsálnivalót csomagolni.",
+            "ro": "Bucurați-vă de frumusețea brută a coastei de nord, cu mai puține aglomerații, ideală pentru relaxare, și luați cu dumneavoastră apă și gustări.",
+            "en": "Enjoy the raw beauty of the northern coastline where fewer crowds gather, making it ideal for reflection, and pack some water and snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie an der charmanten örtlichen Kirche und erkunden das ruhige Dorfzentrum, bevor Sie zum Meer schlendern. Mittags erreichen Sie den Hauptstrand, wo Sie entlang der lebhaften Promenade spazieren. Nachmittags führt Sie der Weg nach Norden an der malerischen Küste entlang, vorbei an ruhigen Sandabschnitten. Abends lassen Sie den Tag an den nördlichen Stränden mit einem friedlichen Spaziergang am Meer ausklingen.",
+        "hu": "Reggel kezdje a napot a bájos helyi templomnál, és fedezze fel a falu csendes központját, mielőtt az óceán felé indulna. Délben elérkezik a fő strandhoz, ahol sétálhat az élénk sétányon. Délután az út észak felé vezet a festői partvonalon, csendes homokos szakaszok mellett. Este az északi strandokon fejezheti be a napot, megcsodálva a tengerparti nyugalmat.",
+        "ro": "Dimineața, începeți la biserica locală fermecătoare și explorați centrul liniștit al satului înainte de a vă îndrepta spre ocean. La prânz, ajungeți la plaja principală, unde vă puteți plimba pe promenada animată. După-amiaza, drumul vă duce spre nord, de-a lungul coastei pitorești, trecând pe lângă porțiuni liniștite de nisip. Seara, vă încheiați ziua pe plajele nordice cu o plimbare liniștită.",
+        "en": "Morning starts at the charming local church, exploring the quiet village center before walking towards the ocean. Midday brings you to the main beach, where you can stroll along the vibrant promenade and sandy shores. In the afternoon, your path leads north along the scenic coastline, passing by tranquil stretches of sand. Evening allows you to conclude the tour at the northern beaches, enjoying a peaceful seaside atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Assomption",
+            "hu": "Église Notre-Dame de l'Assomption",
+            "ro": "Église Notre-Dame de l'Assomption",
+            "en": "Église Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -2.131222,
+            46.831398
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Dorfkirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a falu központi templomának helyi történelmet tükröző, bájos építészetét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria locală, și vizitați-o devreme pentru a evita soarele amiezii.",
+            "en": "Admire the charming architecture of this central village church, which reflects local history, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulmino",
+            "hu": "Kulmino",
+            "ro": "Kulmino",
+            "en": "Kulmino"
+          },
+          "coords": [
+            -2.09982,
+            46.838865
+          ],
+          "category": "natural",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen einzigartigen Wasserturm für einen atemberaubenden Panoramablick auf die Sümpfe und das Meer, und bringen Sie ein Fernglas mit.",
+            "hu": "Másszon fel erre az egyedülálló víztoronyra a mocsarakra és az óceánra nyíló lélegzetelállító panorámáért, és hozzon távcsövet a távoli szigetekhez.",
+            "ro": "Urcați în acest turn de apă unic pentru o vedere panoramică uluitoare a mlaștinilor și a oceanului, și aduceți binoclu pentru a vedea insulele.",
+            "en": "Ascend this unique water tower for a breathtaking panoramic view of the marshes and ocean, and bring binoculars to spot distant islands clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Hippodrome",
+            "hu": "Plage de l'Hippodrome",
+            "ro": "Plage de l'Hippodrome",
+            "en": "Plage de l'Hippodrome"
+          },
+          "coords": [
+            -2.132659,
+            46.811036
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Südstrand, der für seine großen Naturräume und Ruhe bekannt ist, und halten Sie Ausschau nach Seevögeln.",
+            "hu": "Sétáljon végig ezen a kiterjedt déli strandon, amely hatalmas természeti tereiről és nyugalmáról ismert; figyelje meg a helyi tengeri madarakat.",
+            "ro": "Plimbați-vă pe această plajă extinsă din sud, cunoscută pentru spațiile sale naturale vaste și liniștea sa, și căutați păsările marine locale.",
+            "en": "Walk along this expansive southern beach known for its vast natural spaces and tranquility, and keep an eye out for local seabirds along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pont d'Yeu",
+            "hu": "Plage du Pont d'Yeu",
+            "ro": "Plage du Pont d'Yeu",
+            "en": "Plage du Pont d'Yeu"
+          },
+          "coords": [
+            -2.141739,
+            46.817016
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden, bei Ebbe sichtbaren felsigen Überreste, die die geologische Vergangenheit der Region offenbaren, und tragen Sie Badeschuhe.",
+            "hu": "Fedezze fel az apálykor látható lenyűgöző sziklás maradványokat, amelyek feltárják a terület geológiai múltját, és viseljen vizicipőt a biztonságért.",
+            "ro": "Explorați rămășițele stâncoase fascinante vizibile la reflux, care dezvăluie trecutul geologic al zonei, și purtați încălțăminte de apă pentru protecție.",
+            "en": "Explore the fascinating rocky remnants visible at low tide that reveal the area's geological past, and wear water shoes to protect your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Mûrier",
+            "hu": "Plage du Mûrier",
+            "ro": "Plage du Mûrier",
+            "en": "Plage du Mûrier"
+          },
+          "coords": [
+            -2.145167,
+            46.823993
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den weichen Sand dieses familienfreundlichen Strandes, ideal zum Sandburgenbauen, und vergessen Sie nicht die Sonnencreme.",
+            "hu": "Süllyessze lábujjait a családbarát strand puha homokjába, amely tökéletes homokvár építéshez, és ne felejtse el rendszeresen bekenni magát.",
+            "ro": "Afundați-vă degetele în nisipul moale al acestei plaje prietenoase pentru familii, perfectă pentru castele de nisip, și aplicați cremă de soare.",
+            "en": "Sink your toes into the soft sands of this family-friendly beach, perfect for building sandcastles, and don't forget to apply sunscreen regularly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Centrale",
+            "hu": "Plage Centrale",
+            "ro": "Plage Centrale",
+            "en": "Plage Centrale"
+          },
+          "coords": [
+            -2.146277,
+            46.830091
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinem goldenen Sand, ideal zum Schwimmen, und bringen Sie eine Windjacke für die Küstenbrise mit.",
+            "hu": "Tapasztalja meg a fő strand élénk hangulatát és aranyszínű homokját, amely tökéletes egy úszáshoz, és hozzon magával széldzsekit a parti szellő ellen.",
+            "ro": "Experimentați atmosfera plină de viață a plajei principale cu nisipul ei auriu, perfectă pentru înot, și aduceți o jachetă de vânt pentru briza coastei.",
+            "en": "Experience the lively atmosphere of the main beach with its golden sands, perfect for a swim, and bring a windbreaker for the coastal breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag im Dorf und radeln Sie gemütlich zum Wasserturm Kulmino, um eine einmalige Aussicht zu genießen. Mittags führt die Tour durch Kiefernwälder zum ruhigen Südstrand Plage de l'Hippodrome. Am Nachmittag radeln Sie entspannt an den Dünen entlang zu familienfreundlichen Buchten, wo das Meer zum Verweilen einlädt. Der Abend klingt an der belebten Plage Centrale aus, wo Sie die frische Küstenbrise spüren können.",
+        "hu": "Kezdje a napot a faluban, és kerékpározzon el a Kulmino víztoronyhoz egy páratlan kilátásért. Délben az út fenyőerdőkön keresztül vezet a csendes déli strandhoz, a Plage de l'Hippodrome-hoz. Délután kényelmesen tekerjen a dűnék mentén a családbarát öblökhöz, ahol a tenger hívogat. Az estét a nyüzsgő Plage Centrale-nál zárhatja, élvezve a friss parti szellőt.",
+        "ro": "Începeți ziua în sat și pedalați până la turnul de apă Kulmino pentru o priveliște inegalabilă. La prânz, traseul trece prin păduri de pini spre plaja liniștită din sud, Plage de l'Hippodrome. După-amiaza, mergeți cu bicicleta de-a lungul dunelor spre golfuri prietenoase, unde marea vă invită să zăboviți. Seara se încheie la animata Plage Centrale, unde puteți simți briza proaspătă a coastei.",
+        "en": "Start the day in the village and cycle out to the Kulmino water tower for an unparalleled view of the marshlands. Midday takes you south through scenic pine forests to the tranquil Plage de l'Hippodrome. In the afternoon, pedal leisurely along the dunes, exploring family-friendly coves where the ocean invites you to relax. The evening wraps up at the lively Plage Centrale, offering the perfect spot to feel the fresh coastal breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulmino",
+            "hu": "Kulmino",
+            "ro": "Kulmino",
+            "en": "Kulmino"
+          },
+          "coords": [
+            -2.09982,
+            46.838865
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen einzigartigen Wasserturm für einen atemberaubenden Panoramablick auf die Sümpfe und das Meer, und bringen Sie ein Fernglas mit.",
+            "hu": "Másszon fel erre az egyedülálló víztoronyra a mocsarakra és az óceánra nyíló lélegzetelállító panorámáért, és hozzon távcsövet a távoli szigetekhez.",
+            "ro": "Urcați în acest turn de apă unic pentru o vedere panoramică uluitoare a mlaștinilor și a oceanului, și aduceți binoclu pentru a vedea insulele.",
+            "en": "Ascend this unique water tower for a breathtaking panoramic view of the marshes and ocean, and bring binoculars to spot distant islands clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Assomption",
+            "hu": "Église Notre-Dame de l'Assomption",
+            "ro": "Église Notre-Dame de l'Assomption",
+            "en": "Église Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -2.131222,
+            46.831398
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Dorfkirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a falu központi templomának helyi történelmet tükröző, bájos építészetét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria locală, și vizitați-o devreme pentru a evita soarele amiezii.",
+            "en": "Admire the charming architecture of this central village church, which reflects local history, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Bois Soret",
+            "hu": "Plage du Bois Soret",
+            "ro": "Plage du Bois Soret",
+            "en": "Plage du Bois Soret"
+          },
+          "coords": [
+            -2.147202,
+            46.847639
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die angrenzenden Kiefernwälder, bevor Sie diesen ruhigen und versteckten Strand erreichen, und packen Sie Mückenspray ein.",
+            "hu": "Barangoljon a szomszédos fenyőerdőkben, mielőtt elérné ezt a nyugodt és kissé eldugott strandot; csomagoljon szúnyogriasztót az erdei sétához.",
+            "ro": "Plimbați-vă prin pădurile de pini adiacente înainte de a ajunge la această plajă senină și ușor ascunsă, și luați repelent pentru țânțari la plimbare.",
+            "en": "Wander through the adjacent pine forests before reaching this serene and slightly hidden beach, and pack mosquito repellent for the woodland walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Centrale",
+            "hu": "Plage Centrale",
+            "ro": "Plage Centrale",
+            "en": "Plage Centrale"
+          },
+          "coords": [
+            -2.146277,
+            46.830091
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinem goldenen Sand, ideal zum Schwimmen, und bringen Sie eine Windjacke für die Küstenbrise mit.",
+            "hu": "Tapasztalja meg a fő strand élénk hangulatát és aranyszínű homokját, amely tökéletes egy úszáshoz, és hozzon magával széldzsekit a parti szellő ellen.",
+            "ro": "Experimentați atmosfera plină de viață a plajei principale cu nisipul ei auriu, perfectă pentru înot, și aduceți o jachetă de vânt pentru briza coastei.",
+            "en": "Experience the lively atmosphere of the main beach with its golden sands, perfect for a swim, and bring a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pont d'Yeu",
+            "hu": "Plage du Pont d'Yeu",
+            "ro": "Plage du Pont d'Yeu",
+            "en": "Plage du Pont d'Yeu"
+          },
+          "coords": [
+            -2.141739,
+            46.817016
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden, bei Ebbe sichtbaren felsigen Überreste, die die geologische Vergangenheit der Region offenbaren, und tragen Sie Badeschuhe.",
+            "hu": "Fedezze fel az apálykor látható lenyűgöző sziklás maradványokat, amelyek feltárják a terület geológiai múltját, és viseljen vizicipőt a biztonságért.",
+            "ro": "Explorați rămășițele stâncoase fascinante vizibile la reflux, care dezvăluie trecutul geologic al zonei, și purtați încălțăminte de apă pentru protecție.",
+            "en": "Explore the fascinating rocky remnants visible at low tide that reveal the area's geological past, and wear water shoes to protect your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste",
+            "hu": "Plage naturiste",
+            "ro": "Plage naturiste",
+            "en": "Plage naturiste"
+          },
+          "coords": [
+            -2.133476,
+            46.813196
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie absolute Freiheit an diesem ausgewiesenen FKK-Bereich, der ruhig an den südlichen Dünen liegt, und respektieren Sie die Fotografierregeln.",
+            "hu": "Tapasztalja meg az abszolút szabadságot ezen a déli dűnék között csendesen megbúvó, kijelölt naturista strandon, és tartsa tiszteletben a fotózási szabályokat.",
+            "ro": "Experimentați libertatea absolută în acest loc desemnat pentru nudiști, cuibărit liniștit pe dunele sudice, și respectați regulile locale de fotografie.",
+            "en": "Experience absolute freedom at this designated naturist spot nestled quietly against the southern dunes, and remember to respect local photography rules."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag bringt Sie bequem zum Wasserturm Kulmino für einen Überblick, bevor Sie die historische Dorfkirche besichtigen. Mittags fahren Sie entspannt zu den nördlichen, versteckten Stränden, um ein kleines Picknick zu genießen. Am Nachmittag lockt die zentrale Küste mit ihren vielen Annehmlichkeiten und dem weiten Sandstrand. Gegen Abend steuern Sie den ruhigen südlichen Küstenstreifen an, wo die Natur im weichen Licht der Dämmerung erstrahlt.",
+        "hu": "A délelőtt során kényelmesen eljut a Kulmino víztoronyhoz egy panorámás áttekintésért, mielőtt meglátogatná a történelmi templomot. Délben az északi, rejtettebb strandokhoz vezet az út, ahol nyugodtan piknikezhet. Délután a központi partvidék csábít kényelmes szolgáltatásaival és széles homokos strandjával. Kora este a csendesebb déli partszakaszra hajt, ahol a természet a szürkület lágy fényében tündököl.",
+        "ro": "Dimineața vă duce confortabil la turnul de apă Kulmino pentru o priveliște de ansamblu, înainte de a vizita biserica istorică a satului. La prânz conduceți spre plajele ascunse din nord pentru a vă bucura de un picnic liniștit. După-amiaza, coasta centrală vă atrage cu facilitățile sale și cu plaja largă de nisip. Spre seară, vă îndreptați spre fâșia de coastă liniștită din sud, unde natura strălucește în lumina blândă a crepusculului.",
+        "en": "The morning drive comfortably brings you to the Kulmino water tower for an overview before visiting the historic village church. Midday takes you up to the hidden northern beaches, perfect for a quiet coastal picnic in nature. In the afternoon, the central coastline beckons with its convenient amenities and wide sandy shores. By evening, you cruise down to the tranquil southern strip, where the natural landscape shines in the soft twilight."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-alcanar-cities-v2",
+  "anchor": {
+    "name": "Alcanar",
+    "coords": [
+      0.48084,
+      40.54386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditori Municipal \"José Antonio Valls\"",
+            "hu": "Auditori Municipal \"José Antonio Valls\"",
+            "ro": "Auditori Municipal \"José Antonio Valls\"",
+            "en": "Auditori Municipal \"José Antonio Valls\""
+          },
+          "coords": [
+            0.482172,
+            40.541702
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem modernen Auditorium, indem Sie den Spielplan prüfen und frühzeitig anreisen, um sich einen guten Platz zu sichern.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a modern nézőtéren, ha előzetesen ellenőrzi az esti előadások menetrendjét és időben érkezik a jó helyekért.",
+            "ro": "Experimentați cultura locală la acest auditoriu modern verificând programul spectacolelor de seară și sosind devreme pentru un loc bun.",
+            "en": "Experience local culture at this modern auditorium by checking the schedule for evening performances and arriving early to secure a good seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Casa O'Connor",
+            "hu": "Museu Casa O'Connor",
+            "ro": "Museu Casa O'Connor",
+            "en": "Museu Casa O'Connor"
+          },
+          "coords": [
+            0.481913,
+            40.54312
+          ],
+          "category": "museum",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Alcanar in diesem stattlichen Herrenhaus aus dem 19. Jahrhundert und bewundern Sie die spektakulären modernistischen Details.",
+            "hu": "Fedezze fel Alcanar gazdag történelmét ebben a 19. századi udvarházban, és feltétlenül csodálja meg a látványos modernista belsőépítészeti részleteket.",
+            "ro": "Descoperiți istoria bogată a orașului Alcanar în acest conac impunător din secolul al XIX-lea, asigurându-vă că admirați detaliile interioare moderniste.",
+            "en": "Discover the rich history of Alcanar inside this stately 19th-century manor house, making sure to admire the spectacular modernist interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Capelleta del Remei",
+            "hu": "Capelleta del Remei",
+            "ro": "Capelleta del Remei",
+            "en": "Capelleta del Remei"
+          },
+          "coords": [
+            0.474268,
+            40.556155
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten kleinen Straßenkapelle, um ihre historische Bedeutung als Rastplatz für Pilger vor dem Aufstieg zu würdigen.",
+            "hu": "Pihenjen meg ennél a bájos kis út menti kápolnánál, és értékelje történelmi jelentőségét mint a zarándokok hagyományos pihenőhelyét a hegy előtt.",
+            "ro": "Faceți un scurt popas la această mică capelă fermecătoare pentru a aprecia importanța sa istorică ca loc tradițional de odihnă pentru pelerini.",
+            "en": "Pause at this charming little roadside chapel to appreciate its historical significance as a traditional resting point for pilgrims before heading up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Poblat ibèric de la Moleta del Remei",
+            "hu": "Poblat ibèric de la Moleta del Remei",
+            "ro": "Poblat ibèric de la Moleta del Remei",
+            "en": "Poblat ibèric de la Moleta del Remei"
+          },
+          "coords": [
+            0.48159,
+            40.558301
+          ],
+          "category": "landmark",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die antiken Fundamente dieser beeindruckenden iberischen Siedlung und tragen Sie festes Schuhwerk für das unebene archäologische Gelände.",
+            "hu": "Sétáljon végig e lenyűgöző ibér település ősi alapjain, és viseljen kényelmes, zárt cipőt a helyenként egyenetlen régészeti terepen való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestei impresionante așezări iberice și purtați încălțăminte comodă pentru a naviga în siguranță terenul accidentat.",
+            "en": "Walk through the ancient foundations of this impressive Iberian settlement and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Remei",
+            "hu": "Ermita del Remei",
+            "ro": "Ermita del Remei",
+            "en": "Ermita del Remei"
+          },
+          "coords": [
+            0.479076,
+            40.559198
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieses hochgelegenen Heiligtums und bringen Sie eine Kamera für die fantastische Aussicht mit.",
+            "hu": "Csodálja meg a hegytetőn álló szentély lenyűgöző építészetét és békés légkörét, és hozzon magával fényképezőgépet a mediterrán partvidék panorámájához.",
+            "ro": "Admirați arhitectura remarcabilă și atmosfera pașnică a acestui sanctuar de pe deal, aducând un aparat foto pentru priveliștile asupra coastei.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this hilltop sanctuary, and bring a camera to capture the sweeping views over the Mediterranean coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Alcanar mit einem Hauch lokaler Kultur im modernen Auditori Municipal.\n\nAm Mittag tauchen Sie im Museu Casa O'Connor in die reiche aristokratische Geschichte der Stadt ein.\n\nDer Nachmittag führt Sie allmählich bergauf in die Vororte zur historischen Capelleta del Remei und weiter zu den faszinierenden archäologischen Ruinen der iberischen Siedlung.\n\nLassen Sie den Tag in der friedlichen Abendstimmung an der wunderschönen, hoch gelegenen Ermita del Remei bei einem fantastischen Küstenblick ausklingen.",
+        "hu": "Kezdje gyalogos sétáját Alcanar szívében, a modern Auditori Municipal kulturális légkörében.\n\nA nap közepén a Museu Casa O'Connor elegáns termeiben merülhet el a város arisztokratikus történelmében.\n\nA délután folyamán lassan felfelé haladva a történelmi Capelleta del Remei érintésével éri el az ibér település lenyűgöző ókori romjait.\n\nA napot a hegytetőn álló Ermita del Remei kápolna békés esti hangulatában és a partvidékre nyíló festői kilátásban gyönyörködve zárhatja.",
+        "ro": "Începeți plimbarea în inima orașului Alcanar, simțind pulsul cultural la modernul Auditori Municipal.\n\nLa amiază, explorați istoria aristocratică a orașului prin sălile impunătoare ale Museu Casa O'Connor.\n\nDupă-amiaza vă poartă ușor spre dealurile din împrejurimi, oprind la istorica Capelleta del Remei înainte de a vizita fascinantele ruine antice ale așezării iberice.\n\nÎncheiați ziua bucurându-vă de atmosfera liniștită a serii și de priveliștile de coastă de la frumoasa Ermita del Remei.",
+        "en": "Begin your walking journey in the heart of Alcanar by taking in the cultural pulse at the modern Auditori Municipal.\n\nBy midday, delve into the town's aristocratic history as you wander through the stately halls of Museu Casa O'Connor.\n\nThe afternoon leads you gently upwards toward the outskirts, pausing at the historic Capelleta del Remei before exploring the fascinating ancient ruins of the Moleta del Remei Iberian settlement.\n\nConclude your day soaking in the serene evening atmosphere and coastal views at the beautiful hilltop Ermita del Remei."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Casa O'Connor",
+            "hu": "Museu Casa O'Connor",
+            "ro": "Museu Casa O'Connor",
+            "en": "Museu Casa O'Connor"
+          },
+          "coords": [
+            0.481913,
+            40.54312
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Alcanar in diesem stattlichen Herrenhaus aus dem 19. Jahrhundert und bewundern Sie die spektakulären modernistischen Details.",
+            "hu": "Fedezze fel Alcanar gazdag történelmét ebben a 19. századi udvarházban, és feltétlenül csodálja meg a látványos modernista belsőépítészeti részleteket.",
+            "ro": "Descoperiți istoria bogată a orașului Alcanar în acest conac impunător din secolul al XIX-lea, asigurându-vă că admirați detaliile interioare moderniste.",
+            "en": "Discover the rich history of Alcanar inside this stately 19th-century manor house, making sure to admire the spectacular modernist interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Capelleta del Remei",
+            "hu": "Capelleta del Remei",
+            "ro": "Capelleta del Remei",
+            "en": "Capelleta del Remei"
+          },
+          "coords": [
+            0.474268,
+            40.556155
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten kleinen Straßenkapelle, um ihre historische Bedeutung als Rastplatz für Pilger vor dem Aufstieg zu würdigen.",
+            "hu": "Pihenjen meg ennél a bájos kis út menti kápolnánál, és értékelje történelmi jelentőségét mint a zarándokok hagyományos pihenőhelyét a hegy előtt.",
+            "ro": "Faceți un scurt popas la această mică capelă fermecătoare pentru a aprecia importanța sa istorică ca loc tradițional de odihnă pentru pelerini.",
+            "en": "Pause at this charming little roadside chapel to appreciate its historical significance as a traditional resting point for pilgrims before heading up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Remei",
+            "hu": "Ermita del Remei",
+            "ro": "Ermita del Remei",
+            "en": "Ermita del Remei"
+          },
+          "coords": [
+            0.479076,
+            40.559198
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieses hochgelegenen Heiligtums und bringen Sie eine Kamera für die fantastische Aussicht mit.",
+            "hu": "Csodálja meg a hegytetőn álló szentély lenyűgöző építészetét és békés légkörét, és hozzon magával fényképezőgépet a mediterrán partvidék panorámájához.",
+            "ro": "Admirați arhitectura remarcabilă și atmosfera pașnică a acestui sanctuar de pe deal, aducând un aparat foto pentru priveliștile asupra coastei.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this hilltop sanctuary, and bring a camera to capture the sweeping views over the Mediterranean coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+          },
+          "coords": [
+            0.480198,
+            40.559214
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese monumentalen, tausendjährigen Olivenbäume, die noch immer Öl produzieren, ohne jedoch die empfindlichen, verdrehten Stämme zu betreten.",
+            "hu": "Csodálja meg ezeket a monumentális, ezeréves olajfákat, amelyek még mindig teremnek, ügyelve arra, hogy ne másszon fel a törékeny és csavart törzsekre.",
+            "ro": "Lăsați-vă uimit de acești măslini milenari monumentali care încă produc ulei, având grijă să nu vă urcați sau să le deteriorați trunchiurile contorsionate.",
+            "en": "Stand in awe of these monumental, thousand-year-old olive trees that still produce oil, taking care not to climb on or damage their deeply twisted, fragile trunks."
+          }
+        },
+        {
+          "name": {
+            "de": "Poblat ibèric de la Moleta del Remei",
+            "hu": "Poblat ibèric de la Moleta del Remei",
+            "ro": "Poblat ibèric de la Moleta del Remei",
+            "en": "Poblat ibèric de la Moleta del Remei"
+          },
+          "coords": [
+            0.48159,
+            40.558301
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die antiken Fundamente dieser beeindruckenden iberischen Siedlung und tragen Sie festes Schuhwerk für das unebene archäologische Gelände.",
+            "hu": "Sétáljon végig e lenyűgöző ibér település ősi alapjain, és viseljen kényelmes, zárt cipőt a helyenként egyenetlen régészeti terepen való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestei impresionante așezări iberice și purtați încălțăminte comodă pentru a naviga în siguranță terenul accidentat.",
+            "en": "Walk through the ancient foundations of this impressive Iberian settlement and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig Gros",
+            "hu": "Puig Gros",
+            "ro": "Puig Gros",
+            "en": "Puig Gros"
+          },
+          "coords": [
+            0.456686,
+            40.553072
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser markanten natürlichen Erhebung für einen atemberaubenden Blick auf das Ebro-Delta und denken Sie an ausreichend Wasser und Sonnenschutz.",
+            "hu": "Túrázzon fel erre a kiemelkedő természeti magaslatra az Ebro-delta leglélegzetelállítóbb panorámájáért, és ne felejtsen el bőséges vizet és napvédőt vinni.",
+            "ro": "Urcați pe această altitudine naturală pentru cele mai uluitoare priveliști ale Deltei Ebro, asigurându-vă că aveți suficientă apă și protecție solară.",
+            "en": "Hike to this prominent natural elevation for the most breathtaking panoramic views of the Ebro Delta, making sure to carry plenty of water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer in der Stadt mit einem tiefen Einblick in das lokale Erbe im prächtigen Museu Casa O'Connor.\n\nGegen Mittag radeln Sie zur Capelleta del Remei und weiter hinauf zum friedlichen Heiligtum Ermita del Remei.\n\nVerbringen Sie den Nachmittag damit, die kolossalen antiken Stämme der tausendjährigen Olivenbäume zu bewundern und die Ruinen der iberischen Siedlung zu erkunden.\n\nAbends führt Sie eine letzte malerische Fahrt zum Puig Gros für ein unvergessliches Panorama der Region.",
+        "hu": "Kezdje kerékpáros kalandját a városban, és ismerkedjen meg a helyi örökséggel a csodálatos Museu Casa O'Connor épületében.\n\nA dél közeledtével tekerjen ki a Capelleta del Remei kápolnához, majd haladjon tovább a békés Ermita del Remei szentélyhez.\n\nA délutánt az ezeréves olajfák kolosszális törzseinek és az ibér település ókori romjainak felfedezésével töltheti.\n\nAz est leszálltával egy utolsó festői út a Puig Gros magaslatára vezet, ahonnan felejthetetlen panoráma tárul ön elé.",
+        "ro": "Începeți aventura pe bicicletă în oraș, descoperind moștenirea locală la magnificul Museu Casa O'Connor.\n\nPe la prânz, pedalați spre Capelleta del Remei și continuați urcarea către pașnicul sanctuar Ermita del Remei.\n\nPetreceți după-amiaza admirând trunchiurile colosale ale măslinilor milenari și explorând ruinele așezării iberice.\n\nLa lăsarea serii, o ultimă cursă pitorească vă duce la Puig Gros pentru o panoramă de neuitat asupra întregii regiuni.",
+        "en": "Start your cycling adventure in town with a deep dive into local heritage at the magnificent Museu Casa O'Connor.\n\nAs midday approaches, pedal outward to the Capelleta del Remei and continue up to the peaceful Ermita del Remei sanctuary.\n\nSpend your afternoon marveling at the colossal ancient trunks of the thousand-year-old olive trees and exploring the Moleta del Remei ruins.\n\nAs evening falls, a final scenic ride takes you to Puig Gros for an unforgettable, sweeping panorama of the region."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont dels Estretets",
+            "hu": "Pont dels Estretets",
+            "ro": "Pont dels Estretets",
+            "en": "Pont dels Estretets"
+          },
+          "coords": [
+            0.493474,
+            40.528101
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das robuste Mauerwerk dieser historischen Steinbrücke, die einst wichtige Handelswege verband, und achten Sie auf die unbefestigten Zugänge.",
+            "hu": "Vizsgálja meg e történelmi kőhíd masszív falazatát, amely egykor fontos kereskedelmi útvonalakat kötött össze, ügyelve a lépéseire a füves megközelítéseknél.",
+            "ro": "Examinați zidăria robustă a acestui pod istoric din piatră care lega cândva rute comerciale vitale, fiind atent pe cărările de acces cu iarbă.",
+            "en": "Examine the sturdy masonry of this historic stone bridge that once connected vital trade routes, watching your step on the grassy, unpaved approaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Casa O'Connor",
+            "hu": "Museu Casa O'Connor",
+            "ro": "Museu Casa O'Connor",
+            "en": "Museu Casa O'Connor"
+          },
+          "coords": [
+            0.481913,
+            40.54312
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Alcanar in diesem stattlichen Herrenhaus aus dem 19. Jahrhundert und bewundern Sie die spektakulären modernistischen Details.",
+            "hu": "Fedezze fel Alcanar gazdag történelmét ebben a 19. századi udvarházban, és feltétlenül csodálja meg a látványos modernista belsőépítészeti részleteket.",
+            "ro": "Descoperiți istoria bogată a orașului Alcanar în acest conac impunător din secolul al XIX-lea, asigurându-vă că admirați detaliile interioare moderniste.",
+            "en": "Discover the rich history of Alcanar inside this stately 19th-century manor house, making sure to admire the spectacular modernist interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Poblat ibèric de la Moleta del Remei",
+            "hu": "Poblat ibèric de la Moleta del Remei",
+            "ro": "Poblat ibèric de la Moleta del Remei",
+            "en": "Poblat ibèric de la Moleta del Remei"
+          },
+          "coords": [
+            0.48159,
+            40.558301
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die antiken Fundamente dieser beeindruckenden iberischen Siedlung und tragen Sie festes Schuhwerk für das unebene archäologische Gelände.",
+            "hu": "Sétáljon végig e lenyűgöző ibér település ősi alapjain, és viseljen kényelmes, zárt cipőt a helyenként egyenetlen régészeti terepen való biztonságos mozgáshoz.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestei impresionante așezări iberice și purtați încălțăminte comodă pentru a naviga în siguranță terenul accidentat.",
+            "en": "Walk through the ancient foundations of this impressive Iberian settlement and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+            "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+          },
+          "coords": [
+            0.480198,
+            40.559214
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese monumentalen, tausendjährigen Olivenbäume, die noch immer Öl produzieren, ohne jedoch die empfindlichen, verdrehten Stämme zu betreten.",
+            "hu": "Csodálja meg ezeket a monumentális, ezeréves olajfákat, amelyek még mindig teremnek, ügyelve arra, hogy ne másszon fel a törékeny és csavart törzsekre.",
+            "ro": "Lăsați-vă uimit de acești măslini milenari monumentali care încă produc ulei, având grijă să nu vă urcați sau să le deteriorați trunchiurile contorsionate.",
+            "en": "Stand in awe of these monumental, thousand-year-old olive trees that still produce oil, taking care not to climb on or damage their deeply twisted, fragile trunks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Remei",
+            "hu": "Ermita del Remei",
+            "ro": "Ermita del Remei",
+            "en": "Ermita del Remei"
+          },
+          "coords": [
+            0.479076,
+            40.559198
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und friedliche Atmosphäre dieses hochgelegenen Heiligtums und bringen Sie eine Kamera für die fantastische Aussicht mit.",
+            "hu": "Csodálja meg a hegytetőn álló szentély lenyűgöző építészetét és békés légkörét, és hozzon magával fényképezőgépet a mediterrán partvidék panorámájához.",
+            "ro": "Admirați arhitectura remarcabilă și atmosfera pașnică a acestui sanctuar de pe deal, aducând un aparat foto pentru priveliștile asupra coastei.",
+            "en": "Admire the striking architecture and peaceful atmosphere of this hilltop sanctuary, and bring a camera to capture the sweeping views over the Mediterranean coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig Gros",
+            "hu": "Puig Gros",
+            "ro": "Puig Gros",
+            "en": "Puig Gros"
+          },
+          "coords": [
+            0.456686,
+            40.553072
+          ],
+          "category": "natural",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser markanten natürlichen Erhebung für einen atemberaubenden Blick auf das Ebro-Delta und denken Sie an ausreichend Wasser und Sonnenschutz.",
+            "hu": "Túrázzon fel erre a kiemelkedő természeti magaslatra az Ebro-delta leglélegzetelállítóbb panorámájáért, és ne felejtsen el bőséges vizet és napvédőt vinni.",
+            "ro": "Urcați pe această altitudine naturală pentru cele mai uluitoare priveliști ale Deltei Ebro, asigurându-vă că aveți suficientă apă și protecție solară.",
+            "en": "Hike to this prominent natural elevation for the most breathtaking panoramic views of the Ebro Delta, making sure to carry plenty of water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour südlich des Stadtzentrums, um das historische Mauerwerk der Brücke Pont dels Estretets zu bewundern.\n\nKehren Sie mittags in die Stadt zurück, um die eleganten Ausstellungen im Museu Casa O'Connor zu erleben.\n\nFahren Sie nachmittags in die Hügel zur antiken Siedlung, schlendern Sie zwischen den tausendjährigen Olivenbäumen und halten Sie an der Ermita del Remei.\n\nBeenden Sie den Tag mit einer abendlichen Wanderung am Puig Gros bei spektakulärem Blick auf die Küste.",
+        "hu": "Kezdje autós túráját a városközponttól délre, a történelmi Pont dels Estretets kőhíd masszív szerkezetének megtekintésével.\n\nDélben térjen vissza a városba, hogy átélje a Museu Casa O'Connor elegáns történelmi kiállításainak hangulatát.\n\nDélután autózzon fel a hegyekbe az ősi ibér településhez, sétáljon a monumentális ezeréves olajfák között, és pihenjen meg az Ermita del Remei kápolnánál.\n\nA festői napot egy esti sétával zárja a Puig Gros magaslatán, ahol a tengerpart lenyűgöző látványában gyönyörködhet.",
+        "ro": "Începeți turul cu mașina la sud de centrul orașului pentru a admira arhitectura istorică a podului Pont dels Estretets.\n\nÎntoarceți-vă în oraș la prânz pentru a descoperi exponatele elegante găzduite în Museu Casa O'Connor.\n\nConduceți pe dealuri după-amiaza pentru a vizita așezarea antică iberică, plimbați-vă printre măslinii milenari monumentali și opriți la Ermita del Remei.\n\nÎncheiați ziua pitorească cu o drumeție de seară la Puig Gros, admirând priveliștea spectaculoasă a coastei.",
+        "en": "Kick off your driving tour south of the town center to admire the historic masonry of the Pont dels Estretets bridge.\n\nReturn to town by midday to experience the elegant historical exhibits housed within the Museu Casa O'Connor.\n\nDrive up the hills in the afternoon to visit the ancient Moleta del Remei settlement, wander among the monumental thousand-year-old olive trees, and pause at the Ermita del Remei.\n\nFinish your scenic day trip with an evening hike at Puig Gros, taking in spectacular golden-hour views of the coastline."
+      }
+    }
+  }
+}

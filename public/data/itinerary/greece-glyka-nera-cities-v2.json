@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-glyka-nera-cities-v2",
+  "anchor": {
+    "name": "Glyka Nera",
+    "coords": [
+      23.848333,
+      37.991667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Adrianeio Udragogeio Agias Paraskeues",
+            "hu": "Adrianeio Udragogeio Agias Paraskeues",
+            "ro": "Adrianeio Udragogeio Agias Paraskeues",
+            "en": "Adrianeio Udragogeio Agias Paraskeues"
+          },
+          "coords": [
+            23.837775,
+            38.009917
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses antiken Aquädukts, um römische Ingenieurskunst zu bewundern, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezen ókori vízvezeték maradványait a római mérnöki zsenialitás megértéséhez, és viseljen masszív cipőt a környező egyenetlen terepen.",
+            "ro": "Explorați rămășițele acestui apeduct antic pentru a admira ingineria romană și purtați încălțăminte rezistentă pentru terenul accidentat din împrejurimi.",
+            "en": "Explore the remnants of this ancient aqueduct to grasp Roman engineering brilliance, and wear sturdy shoes for the uneven surrounding terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Thekla",
+            "hu": "Agia Thekla",
+            "ro": "Agia Thekla",
+            "en": "Agia Thekla"
+          },
+          "coords": [
+            23.840077,
+            38.011286
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre dieser historischen Kirche in der Natur und ruhen Sie sich im Schatten der großen Bäume in der Nähe aus.",
+            "hu": "Csodálja meg a természetben megbúvó történelmi templom békés hangulatát, és pihenjen meg egy pillanatra a közeli hatalmas fák hűs árnyékában.",
+            "ro": "Admirați atmosfera senină a acestei biserici istorice aflate în natură și odihniți-vă pentru un moment la umbra copacilor mari din apropiere.",
+            "en": "Admire the serene atmosphere of this historic church nestled in nature, and take a moment to rest under the shade of the large mature trees nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteroromaiko ktisma",
+            "hu": "Usteroromaiko ktisma",
+            "ro": "Usteroromaiko ktisma",
+            "en": "Usteroromaiko ktisma"
+          },
+          "coords": [
+            23.838956,
+            38.011627
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieses spätrömischen Gebäudes, die von vergangenen Epochen erzählen, und bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a késő római épület lenyűgöző romjait, amelyek letűnt korokról mesélnek, és hozzon magával ivóvizet, mivel nincsenek boltok a helyszínen.",
+            "ro": "Descoperiți ruinele fascinante ale acestei clădiri romane târzii care spun povești din epoci trecute și aduceți apă, deoarece nu există magazine.",
+            "en": "Uncover the fascinating ruins of this late Roman building that tell tales of past eras, and bring your own water as there are no facilities on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Iero Pallenidos Athenas",
+            "hu": "Iero Pallenidos Athenas",
+            "ro": "Iero Pallenidos Athenas",
+            "en": "Iero Pallenidos Athenas"
+          },
+          "coords": [
+            23.84517,
+            38.013972
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das antike Heiligtum der Athene, um in die griechische Mythologie einzutauchen, und nutzen Sie das beste Licht in der Mittagszeit.",
+            "hu": "Látogasson el az Athénének szentelt ókori szentélybe, hogy kapcsolódjon a görög mitológiához, és érkezzen délben a legjobb természetes fényért.",
+            "ro": "Vizitați sanctuarul antic dedicat Atenei pentru a vă conecta cu mitologia greacă și încercați să veniți la prânz pentru cea mai bună lumină de poze.",
+            "en": "Visit the ancient sanctuary dedicated to Athena to connect with Greek mythology, and try visiting during midday for the best natural lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ereipeia Buzantinou Naou",
+            "hu": "Ereipeia Buzantinou Naou",
+            "ro": "Ereipeia Buzantinou Naou",
+            "en": "Ereipeia Buzantinou Naou"
+          },
+          "coords": [
+            23.849323,
+            38.01243
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an den majestätischen Ruinen dieses byzantinischen Tempels und machen Sie Fotos im goldenen Nachmittagslicht der Sonne.",
+            "hu": "Zárja sétáját e bizánci templom fenséges romjainál a történelmi rétegek megfigyeléséhez, és készítsen fotókat az aranyló délutáni napfényben.",
+            "ro": "Încheiați plimbarea la ruinele maiestuoase ale acestui templu bizantin pentru a vedea istoria și faceți fotografii în lumina aurie a după-amiezii.",
+            "en": "Conclude your walk at the majestic ruins of this Byzantine temple to see historical layers, and take photos during the golden afternoon sunlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am alten Aquädukt und bewundern Sie die römische Baukunst. Finden Sie mittags Ruhe in Agia Thekla und erkunden Sie die spätrömischen Ruinen. Verbringen Sie den Nachmittag damit, im Heiligtum der Athene in die Mythologie einzutauchen. Gegen Abend beenden Sie Ihre historische Wanderung inmitten der wunderschönen, friedlichen Überreste eines byzantinischen Tempels.",
+        "hu": "Kezdje a reggelt az ókori vízvezeték ösvényén, csodálva a római mérnöki munkát. Délben találjon békét az Agia Thekla-nál, és fedezze fel a római romokat. A délutánt töltse a mitológiában elmerülve Athéné szentélyénél. Ahogy közeledik az este, fejezze be történelmi sétáját egy bizánci templom gyönyörű, békés maradványai között a lemenő nap aranyló fényében fürdőzve.",
+        "ro": "Începeți dimineața pe calea apeductului antic, admirând ingineria romană. La prânz, găsiți liniște la Agia Thekla și explorați ruinele romane. Petreceți după-amiaza descoperind mitologia la sanctuarul Atenei. Pe măsură ce se apropie seara, încheiați-vă călătoria istorică pe jos printre rămășițele frumoase și liniștite ale unui templu bizantin.",
+        "en": "Begin your morning tracing the path of the ancient aqueduct, admiring the brilliance of Roman engineering. By midday, find peace at Agia Thekla and explore the late Roman ruins nearby. Spend your afternoon diving into mythology at the sanctuary of Athena. As evening approaches, conclude your historical walking journey among the beautiful, serene remains of a Byzantine temple."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 5.93,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Liontari Kantzas",
+            "hu": "Liontari Kantzas",
+            "ro": "Liontari Kantzas",
+            "en": "Liontari Kantzas"
+          },
+          "coords": [
+            23.855151,
+            37.990821
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende Marmorlöwenstatue aus der Antike und nutzen Sie die breiten Wege, um Ihr Fahrrad sicher abzustellen.",
+            "hu": "Csodálja meg ezt a lenyűgöző ókori márvány oroszlánszobrot, és használja a széles utakat a kerékpár biztonságos parkolásához a fotózás idejére.",
+            "ro": "Admirați această impresionantă statuie antică din marmură a unui leu și folosiți aleile late pentru a parca bicicleta în siguranță cât faceți poze.",
+            "en": "Marvel at this impressive marble lion statue from antiquity, and use the wide surrounding paths to safely park your bicycle while you take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Orukheia Phure",
+            "hu": "Orukheia Phure",
+            "ro": "Orukheia Phure",
+            "en": "Orukheia Phure"
+          },
+          "coords": [
+            23.836986,
+            37.999604
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verlassenen Minen, die die industrielle Vergangenheit der Gegend zeigen, aber halten Sie zu Ihrer Sicherheit Abstand von den Rändern.",
+            "hu": "Fedezze fel az elhagyatott bányákat, amelyek a terület ipari múltját mutatják be, de saját biztonsága érdekében mindenképp maradjon távol a peremektől.",
+            "ro": "Descoperiți minele abandonate intrigante, care prezintă trecutul industrial al zonei, dar păstrați o distanță sigură de margini pentru siguranța dvs.",
+            "en": "Discover the intriguing abandoned mines that showcase the area's industrial past, but stay well clear of the steep edges for your own personal safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Adrianeio Udragogeio Agias Paraskeues",
+            "hu": "Adrianeio Udragogeio Agias Paraskeues",
+            "ro": "Adrianeio Udragogeio Agias Paraskeues",
+            "en": "Adrianeio Udragogeio Agias Paraskeues"
+          },
+          "coords": [
+            23.837775,
+            38.009917
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem herrlichen römischen Wasserwerk, das einst Athen versorgte, und prüfen Sie Ihre Gänge vor dem leichten Anstieg.",
+            "hu": "Tekerjen fel a lenyűgöző római vízműhöz, amely egykor Athént látta el, és ellenőrizze a váltókat, mielőtt nekivág az itteni enyhe emelkedőnek.",
+            "ro": "Mergeți cu bicicleta până la această magnifică lucrare romană de apă ce alimenta odată Atena și verificați-vă vitezele înainte de panta ușoară.",
+            "en": "Cycle up to this magnificent Roman waterwork that once supplied Athens, and check your bike gears before heading up the slight incline here."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Thekla",
+            "hu": "Agia Thekla",
+            "ro": "Agia Thekla",
+            "en": "Agia Thekla"
+          },
+          "coords": [
+            23.840077,
+            38.011286
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten orthodoxen Kapelle für eine Pause und essen Sie einen kleinen Snack auf den Bänken, bevor Sie weiterfahren.",
+            "hu": "Álljon meg ennél a bájos ortodox kápolnánál egy békés pihenőre, és hozzon magával valami rágcsálnivalót, amit a padokon fogyaszthat el a szabadban.",
+            "ro": "Opriți-vă la această capelă ortodoxă fermecătoare pentru o odihnă pașnică și aduceți o gustare pe care să o savurați pe bănci înainte de a continua.",
+            "en": "Stop by this charming orthodox chapel to enjoy a peaceful rest, and bring a small snack to eat on the benches before continuing your riding route."
+          }
+        },
+        {
+          "name": {
+            "de": "Iero Pallenidos Athenas",
+            "hu": "Iero Pallenidos Athenas",
+            "ro": "Iero Pallenidos Athenas",
+            "en": "Iero Pallenidos Athenas"
+          },
+          "coords": [
+            23.84517,
+            38.013972
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Geschichte des antiken Heiligtums der Athena Pallenis und schließen Sie Ihr Fahrrad während Ihres Besuchs sicher ab.",
+            "hu": "Szívja magába a gazdag történelmet Athéné Pallenisz ókori szentélyénél, és látogatása alatt gondosan zárja le kerékpárját a közeli kerítéshez.",
+            "ro": "Absorbiți istoria bogată la sanctuarul antic al Atenei Pallenis și legați-vă bicicleta cu atenție de gardul din apropiere pe durata vizitei.",
+            "en": "Absorb the rich history at the ancient sanctuary of Athena Pallenis, and lock your bike carefully to the nearby robust fencing during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Purosbestiko Mouseio",
+            "hu": "Purosbestiko Mouseio",
+            "ro": "Purosbestiko Mouseio",
+            "en": "Purosbestiko Mouseio"
+          },
+          "coords": [
+            23.867901,
+            38.005169
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit der faszinierenden Geschichte der griechischen Feuerwehr und fragen Sie das Personal nach den alten Feuerwehrautos.",
+            "hu": "Zárja kerékpártúráját a görög tűzoltóság lenyűgöző történetének megismerésével, és kérdezze a barátságos személyzetet a kinti régi tűzoltóautókról.",
+            "ro": "Încheiați turul explorând istoria fascinantă a pompierilor greci și întrebați personalul amabil despre mașinile de pompieri de epocă de afară.",
+            "en": "End your cycling tour exploring the fascinating history of the Greek fire service, and ask the friendly staff about the vintage fire engines outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am majestätischen Kantzas-Löwen. Wenn die Mittagssonne wärmer wird, radeln Sie vorbei an den verlassenen Minen zum römischen Aquädukt. Ihr Nachmittag führt Sie zu einer ruhigen Kapelle und dem antiken Heiligtum der Athene. Beenden Sie den Tag, indem Sie die faszinierenden alten Maschinen im örtlichen Feuerwehrmuseum erkunden, bevor die Dämmerung hereinbricht.",
+        "hu": "Indítsa kerékpártúráját a fenséges Kantzas oroszlánnál. Amikor a déli nap melegít, tekerjen el az elhagyatott bányák mellett a csodás római vízvezetékhez. A délután egy csendes kápolnához és Athéné ókori szentélyéhez vezeti Önt. Zárja a napot azzal, hogy még sötétedés előtt felfedezi a helyi tűzoltómúzeum lenyűgöző veterán járműveit és gazdag felszereléseit.",
+        "ro": "Începeți turul cu bicicleta la maiestuosul Leu Kantzas. Când soarele amiezii încălzește, pedalați pe lângă minele abandonate spre magnificul apeduct roman. După-amiaza vă aduce la o capelă liniștită și la sanctuarul antic al Atenei. Terminați ziua explorând mașinile de epocă fascinante la muzeul local al pompierilor înainte de lăsarea serii peste oraș.",
+        "en": "Kick off your cycling tour at the majestic Kantzas Lion, a stark reminder of antiquity. As the midday sun warms up, pedal past the intriguing abandoned mines towards the magnificent Roman aqueduct. Your afternoon brings you to a quiet chapel and the ancient sanctuary of Athena. Finish the day exploring the fascinating vintage engines at the local fire brigade museum before dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 6.53,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Purgos Korakobouniou",
+            "hu": "Purgos Korakobouniou",
+            "ro": "Purgos Korakobouniou",
+            "en": "Purgos Korakobouniou"
+          },
+          "coords": [
+            23.824456,
+            37.979816
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip an diesem geheimnisvollen antiken Wachturm auf dem Hügel und parken Sie am Fuße des unbefestigten Weges sicher.",
+            "hu": "Kezdje autós utazását ennél a titokzatos ókori őrtoronynál a hegyen, és parkoljon le a földút alján, hogy az utolsó rövid szakaszt sétálva tegye meg.",
+            "ro": "Începeți excursia la acest misterios turn de veghe antic de pe deal și parcați la baza potecii neasfaltate pentru a merge pe jos ultima porțiune.",
+            "en": "Begin your road trip at this mysterious ancient watchtower on the hill, and park at the bottom of the unpaved path to walk the last short section safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Liontari",
+            "hu": "Liontari",
+            "ro": "Liontari",
+            "en": "Liontari"
+          },
+          "coords": [
+            23.82973,
+            37.98738
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende historische Wahrzeichen und halten Sie kurz am Straßenrand, da es keinen ausgewiesenen Parkplatz gibt.",
+            "hu": "Tekintse meg ezt a helyi szimbólumnak számító lenyűgöző történelmi mérföldkövet, és csak röviden húzódjon le az útpadkára, mert nincsen parkoló.",
+            "ro": "Vedeți acest reper istoric impresionant care este un simbol local și trageți pe dreapta pe acostament, deoarece nu există o parcare amenajată.",
+            "en": "View this impressive historical landmark that stands as a local symbol, and just briefly pull over on the road shoulder as there is no parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spelaio nukhteridas",
+            "hu": "Spelaio nukhteridas",
+            "ro": "Spelaio nukhteridas",
+            "en": "Spelaio nukhteridas"
+          },
+          "coords": [
+            23.827569,
+            37.990989
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Treten Sie vorsichtig auf, um diese lokale Fledermaushöhle zu bewundern, und halten Sie Ihre Taschenlampe bereit, um den dunklen Eingang zu erhellen.",
+            "hu": "Lépkedjen óvatosan, hogy megpillantsa ezt a helyi denevérbarlangot, és tartsa kéznél a zseblámpáját a sötét bejárati terület teljes megvilágításához.",
+            "ro": "Pășiți cu grijă pentru a vedea această peșteră locală de lilieci și țineți lanterna la îndemână pentru a lumina zona întunecată a intrării.",
+            "en": "Step carefully to glimpse this local bat cave, which is a unique natural site, and keep your flashlight handy to illuminate the dark entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "Orukheia Phure",
+            "hu": "Orukheia Phure",
+            "ro": "Orukheia Phure",
+            "en": "Orukheia Phure"
+          },
+          "coords": [
+            23.836986,
+            37.999604
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weite Ausdehnung dieser verlassenen historischen Minen und halten Sie Ihre Autofenster geschlossen, um den Staub zu vermeiden.",
+            "hu": "Csodálja meg ezen elhagyatott történelmi bányák hatalmas kiterjedését, és tartsa felhúzva az autó ablakait az elhaladó helyi teherautók felvert pora miatt.",
+            "ro": "Admirați întinderea vastă a acestor mine istorice abandonate și țineți geamurile mașinii închise pentru a evita praful de la camioanele locale.",
+            "en": "Marvel at the vast expanse of these abandoned historical mines, and keep your car windows rolled up to avoid the dust from passing local industrial trucks."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteroromaiko ktisma",
+            "hu": "Usteroromaiko ktisma",
+            "ro": "Usteroromaiko ktisma",
+            "en": "Usteroromaiko ktisma"
+          },
+          "coords": [
+            23.838956,
+            38.011627
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Erkundung dieses spätrömischen Komplexes direkt an der Straße und verriegeln Sie Ihr Auto sicher in der ruhigen Gegend.",
+            "hu": "Szánjon időt e jelentős késő római komplexum felfedezésére közvetlenül az út mellett, és zárja be biztonságosan autóját ebben a nagyon csendes negyedben.",
+            "ro": "Faceți-vă timp explorând acest complex roman târziu situat direct la drum și încuiați bine portierele mașinii, deoarece este un cartier liniștit.",
+            "en": "Take your time exploring this significant late Roman complex directly by the road, and lock your car doors securely as it is a very quiet neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Ereipeia Buzantinou Naou",
+            "hu": "Ereipeia Buzantinou Naou",
+            "ro": "Ereipeia Buzantinou Naou",
+            "en": "Ereipeia Buzantinou Naou"
+          },
+          "coords": [
+            23.849323,
+            38.01243
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Bewundern Sie das feine Mauerwerk dieser byzantinischen Ruinen und nutzen Sie den Schatten der Olivenbäume, um Ihr Fahrzeug bequem zu parken.",
+            "hu": "Értékelje e több évszázados bizánci romok bonyolult falazatát, és használja a közeli olajfák árnyékát, hogy kényelmesen leparkolja a gépjárművét.",
+            "ro": "Apreciați zidăria complicată a acestor ruine bizantine vechi de secole și folosiți umbra din apropiere de la măslini pentru a vă parca vehiculul.",
+            "en": "Appreciate the intricate masonry of these Byzantine ruins spanning centuries, and use the nearby shade from olive trees to park your vehicle comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Purosbestiko Mouseio",
+            "hu": "Purosbestiko Mouseio",
+            "ro": "Purosbestiko Mouseio",
+            "en": "Purosbestiko Mouseio"
+          },
+          "coords": [
+            23.867901,
+            38.005169
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem Feuerwehrmuseum voller Oldtimer und profitieren Sie von dem geräumigen ausgewiesenen Besucherparkplatz direkt vor Ort.",
+            "hu": "Fejezze be a vezetést ennél a régi járművekkel teli tűzoltómúzeumnál, és használja ki a tágas, kijelölt látogatói parkoló nyújtotta teljes kényelmet.",
+            "ro": "Încheiați-vă drumul la acest muzeu al pompierilor plin de vehicule de epocă și profitați de parcarea lor spațioasă destinată special vizitatorilor.",
+            "en": "Conclude your drive at this fire brigade museum filled with vintage vehicles, and take advantage of their spacious designated visitor parking lot outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip früh am Wachturm von Korakobouniou. Verbinden Sie mittags die Löwenstatue, eine versteckte Fledermaushöhle und historische Minen. Am Nachmittag tauchen Sie in spätrömische und byzantinische architektonische Wunder ein, die sicher in der Nähe der Hauptstraßen verborgen sind. Ihr Abend endet wunderbar im Feuerwehrmuseum mit seiner beeindruckenden Flotte.",
+        "hu": "Kezdje autós útját korán a titokzatos Korakobouniou őrtoronynál. Délben zökkenőmentesen kösse össze az ókori oroszlánszobrot, egy rejtett denevérbarlangot és a történelmi bányákat. Délután merüljön el a főutak közelében megbúvó késő római és bizánci építészeti csodákban. Az estéje csodálatosan zárul a tűzoltómúzeumban, annak lenyűgöző járműparkjával és történetével.",
+        "ro": "Începeți excursia devreme la misteriosul turn de veghe Korakobouniou. La prânz, conectați statuia leului, o peșteră ascunsă și mine istorice. După-amiaza, descoperiți minunile arhitecturale romane târzii și bizantine ascunse în siguranță lângă drumurile principale. Seara se încheie minunat la muzeul pompierilor cu flota sa impresionantă de vehicule istorice.",
+        "en": "Start your road trip early at the mysterious Korakobouniou watchtower. By midday, seamlessly connect the ancient lion statue, a hidden bat cave, and vast historical mines. In the afternoon, dive deep into late Roman and Byzantine architectural marvels safely tucked away near the main roads. Your evening concludes wonderfully at the fire brigade museum with its impressive fleet."
+      }
+    }
+  }
+}

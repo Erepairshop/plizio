@@ -1,0 +1,589 @@
+{
+  "city_id": "paray-le-monial",
+  "anchor": {
+    "name": "Paray-le-Monial",
+    "coords": [
+      4.1194,
+      46.4511
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 1.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison Jayet",
+            "hu": "Maison Jayet",
+            "ro": "Maison Jayet",
+            "en": "Maison Jayet"
+          },
+          "coords": [
+            4.120457,
+            46.452239
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
+            "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
+            "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas-Turm",
+            "hu": "Saint-Nicolas torony",
+            "ro": "Turnul Saint-Nicolas",
+            "en": "Saint-Nicolas Tower"
+          },
+          "coords": [
+            4.120444,
+            46.452213
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
+            "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
+            "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Colombière-Kapelle",
+            "hu": "Colombière kápolna",
+            "ro": "Capela Colombière",
+            "en": "Colombière Chapel"
+          },
+          "coords": [
+            4.123884,
+            46.452183
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
+            "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
+            "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Hiéron-Museum",
+            "hu": "Hiéron Múzeum",
+            "ro": "Muzeul Hiéron",
+            "en": "Hiéron Museum"
+          },
+          "coords": [
+            4.1231,
+            46.452
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Basilika",
+            "hu": "Szent Szív Bazilika",
+            "ro": "Bazilica Inimii Sacre",
+            "en": "Basilica of the Sacred Heart"
+          },
+          "coords": [
+            4.121709,
+            46.449821
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
+            "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
+            "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin-Liron-Park",
+            "hu": "Moulin Liron Park",
+            "ro": "Parcul Moulin Liron",
+            "en": "Moulin Liron Park"
+          },
+          "coords": [
+            4.122579,
+            46.446706
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
+            "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
+            "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Centre",
+            "hu": "Canal du Centre",
+            "ro": "Canal du Centre",
+            "en": "Canal du Centre"
+          },
+          "coords": [
+            4.120619,
+            46.445637
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
+            "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
+            "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der beeindruckenden Architektur des Maison Jayet und dem historischen Saint-Nicolas-Turm.\n\nSuchen Sie mittags Ruhe in der Colombière-Kapelle, bevor Sie das Hiéron-Museum besuchen.\n\nVerbringen Sie den Nachmittag damit, die ehrfurchtgebietende Herz-Jesu-Basilika zu bestaunen.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang durch den Moulin-Liron-Park und entlang des ruhigen Canal du Centre.",
+        "hu": "Kezdje a reggelt a Maison Jayet és a történelmi Saint-Nicolas torony lenyűgöző építészetének megcsodálásával.\n\nKora délután találjon békét a Colombière kápolnában, majd fedezze fel a Hiéron Múzeumot.\n\nA délutánt a csodálatos Szent Szív Bazilika felfedezésével töltheti.\n\nZárja a napot egy pihentető naplementés sétával a Moulin Liron parkban és a békés Canal du Centre partján.",
+        "ro": "Începeți dimineața admirând arhitectura impresionantă de la Maison Jayet și turnul istoric Saint-Nicolas.\n\nLa prânz, găsiți liniștea în Capela Colombière înainte de a vizita Muzeul Hiéron.\n\nPetreceți după-amiaza minunându-vă de impresionanta Bazilică a Inimii Sacre.\n\nÎncheiați ziua cu o plimbare relaxantă la apus prin Parcul Moulin Liron și pe malul pașnic al Canal du Centre.",
+        "en": "Start your morning admiring the impressive architecture of Maison Jayet and the historic Saint-Nicolas Tower.\n\nAs midday approaches, find peace inside the Colombière Chapel before diving into the religious heritage at the Hiéron Museum.\n\nSpend your afternoon marveling at the awe-inspiring Basilica of the Sacred Heart.\n\nConclude the day with a relaxing sunset stroll through Moulin Liron Park and by the tranquil Canal du Centre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 1.95,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Canal du Centre",
+            "hu": "Canal du Centre",
+            "ro": "Canal du Centre",
+            "en": "Canal du Centre"
+          },
+          "coords": [
+            4.120619,
+            46.445637
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
+            "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
+            "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin-Liron-Park",
+            "hu": "Moulin Liron Park",
+            "ro": "Parcul Moulin Liron",
+            "en": "Moulin Liron Park"
+          },
+          "coords": [
+            4.122579,
+            46.446706
+          ],
+          "category": "recreational",
+          "arrive_at": "10:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
+            "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
+            "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Basilika",
+            "hu": "Szent Szív Bazilika",
+            "ro": "Bazilica Inimii Sacre",
+            "en": "Basilica of the Sacred Heart"
+          },
+          "coords": [
+            4.121709,
+            46.449821
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
+            "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
+            "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Hiéron-Museum",
+            "hu": "Hiéron Múzeum",
+            "ro": "Muzeul Hiéron",
+            "en": "Hiéron Museum"
+          },
+          "coords": [
+            4.1231,
+            46.452
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Colombière-Kapelle",
+            "hu": "Colombière kápolna",
+            "ro": "Capela Colombière",
+            "en": "Colombière Chapel"
+          },
+          "coords": [
+            4.123884,
+            46.452183
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
+            "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
+            "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas-Turm",
+            "hu": "Saint-Nicolas torony",
+            "ro": "Turnul Saint-Nicolas",
+            "en": "Saint-Nicolas Tower"
+          },
+          "coords": [
+            4.120444,
+            46.452213
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
+            "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
+            "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Jayet",
+            "hu": "Maison Jayet",
+            "ro": "Maison Jayet",
+            "en": "Maison Jayet"
+          },
+          "coords": [
+            4.120457,
+            46.452239
+          ],
+          "category": "civic",
+          "arrive_at": "15:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
+            "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
+            "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Fosse à Plonger",
+            "hu": "Fosse à Plonger",
+            "ro": "Fosse à Plonger",
+            "en": "Fosse à Plonger"
+          },
+          "coords": [
+            4.111787,
+            46.453052
+          ],
+          "category": "family",
+          "arrive_at": "16:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie mit der Familie diese moderne Tauchanlage für ein spannendes Wassererlebnis, aber buchen Sie Ihren Tauchplatz unbedingt rechtzeitig.",
+            "hu": "Hozza el a családot ebbe a modern búvármedencébe, amely izgalmas vízi élményt kínál, de mindenképpen foglalja le jó előre a búvárkodás időpontját.",
+            "ro": "Aduceți familia la acest bazin modern de scufundări pentru o experiență acvatică incitantă, dar asigurați-vă că rezervați din timp slotul dorit.",
+            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am ruhigen Canal du Centre und radeln Sie durch den schönen Moulin-Liron-Park.\n\nTauchen Sie mittags in die Geschichte der Basilika ein und erkunden Sie das Hiéron-Museum.\n\nBesuchen Sie nachmittags die Colombière-Kapelle und den historischen Saint-Nicolas-Turm.\n\nBeenden Sie den aktiven Tag am Maison Jayet und genießen Sie abends den Wasserspaß in der Fosse à Plonger.",
+        "hu": "Indítsa kerékpártúráját a békés Canal du Centre partján, átszelve a gyönyörű Moulin Liron parkot.\n\nDélben merüljön el a Bazilika történelmében és a Hiéron Múzeum művészetében.\n\nDélután látogassa meg a csendes Colombière kápolnát és a történelmi Saint-Nicolas tornyot.\n\nFejezze be aktív napját a Maison Jayet-nél, majd irány a Fosse à Plonger egy esti vízi kalandra.",
+        "ro": "Începeți turul cu bicicleta pe lângă Canal du Centre, pedalând prin frumosul Parc Moulin Liron.\n\nLa prânz, absorbiți istoria Bazilicii și explorați arta de la Muzeul Hiéron.\n\nDupă-amiaza, vizitați Capela Colombière și istoricul Turn Saint-Nicolas.\n\nÎncheiați ziua activă la primăria Maison Jayet, înainte de a vă îndrepta spre Fosse à Plonger pentru distracție acvatică.",
+        "en": "Kick off your cycling tour by the serene Canal du Centre, pedaling through the beautiful Moulin Liron Park.\n\nBy midday, soak in the profound history of the Basilica and explore the sacred art at the Hiéron Museum.\n\nIn the afternoon, visit the quiet Colombière Chapel and the historic Saint-Nicolas Tower.\n\nFinish your active day at the civic Maison Jayet before heading to the Fosse à Plonger for an evening of aquatic fun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 1.95,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fosse à Plonger",
+            "hu": "Fosse à Plonger",
+            "ro": "Fosse à Plonger",
+            "en": "Fosse à Plonger"
+          },
+          "coords": [
+            4.111787,
+            46.453052
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie mit der Familie diese moderne Tauchanlage für ein spannendes Wassererlebnis, aber buchen Sie Ihren Tauchplatz unbedingt rechtzeitig.",
+            "hu": "Hozza el a családot ebbe a modern búvármedencébe, amely izgalmas vízi élményt kínál, de mindenképpen foglalja le jó előre a búvárkodás időpontját.",
+            "ro": "Aduceți familia la acest bazin modern de scufundări pentru o experiență acvatică incitantă, dar asigurați-vă că rezervați din timp slotul dorit.",
+            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Jayet",
+            "hu": "Maison Jayet",
+            "ro": "Maison Jayet",
+            "en": "Maison Jayet"
+          },
+          "coords": [
+            4.120457,
+            46.452239
+          ],
+          "category": "civic",
+          "arrive_at": "10:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
+            "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
+            "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas-Turm",
+            "hu": "Saint-Nicolas torony",
+            "ro": "Turnul Saint-Nicolas",
+            "en": "Saint-Nicolas Tower"
+          },
+          "coords": [
+            4.120444,
+            46.452213
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
+            "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
+            "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Colombière-Kapelle",
+            "hu": "Colombière kápolna",
+            "ro": "Capela Colombière",
+            "en": "Colombière Chapel"
+          },
+          "coords": [
+            4.123884,
+            46.452183
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
+            "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
+            "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Hiéron-Museum",
+            "hu": "Hiéron Múzeum",
+            "ro": "Muzeul Hiéron",
+            "en": "Hiéron Museum"
+          },
+          "coords": [
+            4.1231,
+            46.452
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Basilika",
+            "hu": "Szent Szív Bazilika",
+            "ro": "Bazilica Inimii Sacre",
+            "en": "Basilica of the Sacred Heart"
+          },
+          "coords": [
+            4.121709,
+            46.449821
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
+            "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
+            "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin-Liron-Park",
+            "hu": "Moulin Liron Park",
+            "ro": "Parcul Moulin Liron",
+            "en": "Moulin Liron Park"
+          },
+          "coords": [
+            4.122579,
+            46.446706
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
+            "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
+            "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Centre",
+            "hu": "Canal du Centre",
+            "ro": "Canal du Centre",
+            "en": "Canal du Centre"
+          },
+          "coords": [
+            4.120619,
+            46.445637
+          ],
+          "category": "natural",
+          "arrive_at": "16:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
+            "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
+            "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotrip mit einer erfrischenden Runde in der Fosse à Plonger, bevor Sie ins historische Zentrum zum Maison Jayet fahren.\n\nEntdecken Sie mittags den Saint-Nicolas-Turm, die Colombière-Kapelle und das Hiéron-Museum.\n\nWidmen Sie den Nachmittag der majestätischen Herz-Jesu-Basilika.\n\nLassen Sie den Roadtrip mit einem Spaziergang im Moulin-Liron-Park und am Kanal ausklingen.",
+        "hu": "Kezdje az autós kirándulást egy frissítő élménnyel a Fosse à Plonger-ben, majd irány a történelmi központ és a Maison Jayet.\n\nDélben fedezze fel a Saint-Nicolas tornyot, a Colombière kápolnát és a Hiéron Múzeum kincseit.\n\nA délutánt szentelje a fenséges Szent Szív Bazilikának.\n\nZárja az autós utazást egy békés sétával a Moulin Liron parkban és a festői csatorna partján.",
+        "ro": "Începeți ziua cu mașina cu o sesiune revigorantă la Fosse à Plonger înainte de a merge în centru pentru a vedea Maison Jayet.\n\nLa prânz, descoperiți Turnul Saint-Nicolas, Capela Colombière și comorile Muzeului Hiéron.\n\nDedicați după-amiaza maiestuoasei Bazilici a Inimii Sacre.\n\nÎncheiați călătoria cu o plimbare pașnică prin Parcul Moulin Liron și pe lângă canal.",
+        "en": "Start your driving day with an invigorating session at the Fosse à Plonger before heading into the historic center to see Maison Jayet.\n\nAt midday, discover the Saint-Nicolas Tower and the serene Colombière Chapel, followed by the treasures of the Hiéron Museum.\n\nDevote your afternoon to the majestic Basilica of the Sacred Heart.\n\nWind down your road trip with a peaceful walk through Moulin Liron Park and by the canal."
+      }
+    }
+  }
+}

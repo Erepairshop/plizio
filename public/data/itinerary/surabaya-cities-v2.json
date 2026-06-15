@@ -1,0 +1,474 @@
+{
+  "city_id": "surabaya-cities-v2",
+  "anchor": {
+    "name": "Surabaya",
+    "coords": [
+      112.7521,
+      -7.2575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Pendidikan",
+            "hu": "Museum Pendidikan",
+            "ro": "Museum Pendidikan",
+            "en": "Museum Pendidikan"
+          },
+          "coords": [
+            112.742964,
+            -7.256217
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Indonesiens reiche Bildungsgeschichte anhand faszinierender alter Schulartefakte, und kommen Sie früh, um große Schulgruppen zu vermeiden.",
+            "hu": "Fedezze fel Indonézia gazdag oktatási múltját a lenyűgöző régi iskolai tárgyakon keresztül, és érkezzen korán, hogy elkerülje a nagy diákcsoportokat.",
+            "ro": "Explorați bogata istorie educațională a Indoneziei prin artefacte școlare de epocă și vizitați devreme pentru a evita aglomerația grupurilor mari de elevi.",
+            "en": "Explore Indonesia's rich educational history through fascinating vintage school artifacts, and visit early to avoid the afternoon school group crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Gubernur Suryo",
+            "hu": "Monumen Gubernur Suryo",
+            "ro": "Monumen Gubernur Suryo",
+            "en": "Monumen Gubernur Suryo"
+          },
+          "coords": [
+            112.742849,
+            -7.263689
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ehren Sie den Mut des ersten Gouverneurs von Ost-Java an diesem Denkmal, und ruhen Sie sich einen Moment auf den schattigen Bänken zur Straße aus.",
+            "hu": "Tisztelegjen Kelet-Jáva első kormányzójának bátorsága előtt ennél az emlékműnél, és pihenjen meg egy pillanatra az utcára néző, árnyékos padokon.",
+            "ro": "Onorați curajul primului guvernator din Java de Est la acest memorial central și odihniți-vă un moment pe băncile umbrite din apropiere care au vedere la stradă.",
+            "en": "Honor the courage of East Java's first governor at this central memorial, and take a moment to rest on the nearby shaded benches facing the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Bambu Runcing",
+            "hu": "Tugu Bambu Runcing",
+            "ro": "Tugu Bambu Runcing",
+            "en": "Tugu Bambu Runcing"
+          },
+          "coords": [
+            112.744409,
+            -7.267739
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Bambusspeer-Denkmal für den Unabhängigkeitskampf der Stadt, das besonders bei eingeschaltetem Springbrunnen toll wirkt.",
+            "hu": "Csodálja meg a város függetlenségi harcát jelképező, ikonikus bambuszlándzsa emlékművet, amely különösen lenyűgöző, amikor a szökőkút is működik.",
+            "ro": "Admirați acest monument iconic al suliței de bambus ce simbolizează lupta pentru independență a orașului, impresionant mai ales când funcționează fântâna.",
+            "en": "Admire this iconic bamboo spear monument symbolizing the city's fierce independence struggle, which looks especially impressive when the fountain is on."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Jenderal Sudirman",
+            "hu": "Monumen Jenderal Sudirman",
+            "ro": "Monumen Jenderal Sudirman",
+            "en": "Monumen Jenderal Sudirman"
+          },
+          "coords": [
+            112.746423,
+            -7.261709
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem legendären Militärkommandanten an dieser Statue die Ehre, die man für einen dramatischen Winkel am besten vom südlichen Zebrastreifen aus fotografiert.",
+            "hu": "Tisztelegjen a legendás katonai parancsnok előtt ennél a hatalmas szobornál, amelyet a déli zebráról lehet a legdrámaibb szögben lefotózni.",
+            "ro": "Aduceți un omagiu legendarului comandant militar la această statuie falnică, cel mai bine fotografiată de pe trecerea de pietoni sudică pentru un unghi dramatic.",
+            "en": "Pay your respects to the legendary military commander at this towering statue, best photographed from the southern crosswalk for a dramatic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Submarine Monument",
+            "hu": "Submarine Monument",
+            "ro": "Submarine Monument",
+            "en": "Submarine Monument"
+          },
+          "coords": [
+            112.750305,
+            -7.265443
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie ein echtes stillgelegtes russisches U-Boot, um Marinegeschichte hautnah zu erleben, aber achten Sie auf Ihren Kopf bei den niedrigen Schotts.",
+            "hu": "Lépjen be egy valódi, leszerelt orosz tengeralattjáróba a haditengerészeti történelem átéléséhez, de ügyeljen a fejére az alacsony fém válaszfalaknál.",
+            "ro": "Pășiți în interiorul unui submarin rusesc scos din uz pentru a experimenta istoria navală, dar aveți grijă la cap din cauza pereților etanși joși.",
+            "en": "Step inside an actual decommissioned Russian submarine to experience naval history firsthand, but mind your head on the low metal bulkheads inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kanker Indonesia",
+            "hu": "Museum Kanker Indonesia",
+            "ro": "Museum Kanker Indonesia",
+            "en": "Museum Kanker Indonesia"
+          },
+          "coords": [
+            112.74896,
+            -7.267447
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gewinnen Sie wertvolle gesundheitliche Einblicke in diesem Museum zur Krebsaufklärung, und nehmen Sie sich zweisprachige Broschüren am Empfang mit.",
+            "hu": "Nyerjen értékes egészségügyi ismereteket ebben az úttörő ráktudatossági múzeumban, és vigyen magával néhány informatív kétnyelvű prospektust a recepción.",
+            "ro": "Obțineți informații valoroase despre sănătate la acest muzeu de pionierat dedicat conștientizării cancerului și luați câteva broșuri bilingve de la recepție.",
+            "en": "Gain valuable health insights at this pioneering cancer awareness museum, and pick up some informative bilingual brochures at the front desk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem tiefen Einblick in das lokale Erbe, erkunden Sie die Bildungsgeschichte und Denkmäler.\n\nDie Mittagshitze eignet sich perfekt für einen kurzen Stopp an den markanten Bambusspeeren und Statuen.\n\nAm Nachmittag betreten Sie ein echtes U-Boot und tauchen in die Marinegeschichte ein.\n\nBeenden Sie den Tag mit einem aufschlussreichen Besuch im Gesundheitsmuseum.",
+        "hu": "Kezdje a reggelt a helyi örökség felfedezésével, megismerve a klasszikus oktatás gyökereit és a kormányzói emlékműveket.\n\nA déli hőség tökéletes egy rövid megállóra a bambuszlándzsáknál, mielőtt árnyékot keresne.\n\nDélután lépjen be egy igazi tengeralattjáróba, és merüljön el a haditengerészet történelmében.\n\nZárja a napot egy tanulságos látogatással az egészségügyi múzeumban.",
+        "ro": "Începeți dimineața explorând rădăcinile educaționale locale și aducând omagii la memorialele istorice.\n\nCăldura amiezii este perfectă pentru o scurtă oprire la sulițele de bambus înainte de a căuta umbră.\n\nDupă-amiaza vă duce în interiorul unui submarin real, cufundându-vă în istoria navală a orașului.\n\nÎncheiați ziua cu o vizită plină de învățăminte la muzeul sănătății, pe măsură ce se răcește.",
+        "en": "Start your morning with a deep dive into local heritage, exploring classic educational roots and paying respects at memorials.\n\nMidday heat is perfect for a quick stop at the striking bamboo spears before finding shade.\n\nAfternoon takes you inside a real submarine and immerses you in authentic naval history.\n\nConclude the day with an enlightening visit to the health museum as the city cools down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Muhammad Cheng Hoo Surabaya",
+            "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+            "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+            "en": "Masjid Muhammad Cheng Hoo Surabaya"
+          },
+          "coords": [
+            112.746796,
+            -7.251952
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Mischung aus chinesischer Architektur und islamischer Tradition in dieser Moschee, und kleiden Sie sich angemessen.",
+            "hu": "Csodálja meg a kínai építészet és az iszlám hagyományok egyedülálló ötvözetét ebben a mecsetben, de ne feledkezzen meg a szerény öltözködésről.",
+            "ro": "Admirați amestecul unic de arhitectură chineză și tradiții islamice în această moschee izbitoare, amintindu-vă să vă îmbrăcați modest și să vă descălțați.",
+            "en": "Marvel at the unique blend of Chinese architecture and Islamic traditions in this striking mosque, remembering to dress modestly and remove your shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum WR Soepratman",
+            "hu": "Museum WR Soepratman",
+            "ro": "Museum WR Soepratman",
+            "en": "Museum WR Soepratman"
+          },
+          "coords": [
+            112.753797,
+            -7.250618
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des Komponisten der indonesischen Nationalhymne in diesem intimen Hausmuseum, das Führungen bietet, wenn Sie den Wärter fragen.",
+            "hu": "Ismerje meg az indonéz himnusz zeneszerzőjének életét ebben a házimúzeumban, ahol a gondnoktól kérhetünk informatív tárlatvezetést is.",
+            "ro": "Descoperiți viața compozitorului imnului național indonezian în acest muzeu intim, care oferă informații ghidate dacă îi solicitați îngrijitorului.",
+            "en": "Discover the life of the composer of Indonesia's national anthem in this intimate house museum, which offers guided insights if you ask the caretaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Submarine Monument",
+            "hu": "Submarine Monument",
+            "ro": "Submarine Monument",
+            "en": "Submarine Monument"
+          },
+          "coords": [
+            112.750305,
+            -7.265443
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie ein echtes stillgelegtes russisches U-Boot, um Marinegeschichte hautnah zu erleben, aber achten Sie auf Ihren Kopf bei den niedrigen Schotts.",
+            "hu": "Lépjen be egy valódi, leszerelt orosz tengeralattjáróba a haditengerészeti történelem átéléséhez, de ügyeljen a fejére az alacsony fém válaszfalaknál.",
+            "ro": "Pășiți în interiorul unui submarin rusesc scos din uz pentru a experimenta istoria navală, dar aveți grijă la cap din cauza pereților etanși joși.",
+            "en": "Step inside an actual decommissioned Russian submarine to experience naval history firsthand, but mind your head on the low metal bulkheads inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Bambu Runcing",
+            "hu": "Tugu Bambu Runcing",
+            "ro": "Tugu Bambu Runcing",
+            "en": "Tugu Bambu Runcing"
+          },
+          "coords": [
+            112.744409,
+            -7.267739
+          ],
+          "category": "historical",
+          "arrive_at": "13:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Bambusspeer-Denkmal für den Unabhängigkeitskampf der Stadt, das besonders bei eingeschaltetem Springbrunnen toll wirkt.",
+            "hu": "Csodálja meg a város függetlenségi harcát jelképező, ikonikus bambuszlándzsa emlékművet, amely különösen lenyűgöző, amikor a szökőkút is működik.",
+            "ro": "Admirați acest monument iconic al suliței de bambus ce simbolizează lupta pentru independență a orașului, impresionant mai ales când funcționează fântâna.",
+            "en": "Admire this iconic bamboo spear monument symbolizing the city's fierce independence struggle, which looks especially impressive when the fountain is on."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Perjuangan Polri",
+            "hu": "Monumen Perjuangan Polri",
+            "ro": "Monumen Perjuangan Polri",
+            "en": "Monumen Perjuangan Polri"
+          },
+          "coords": [
+            112.740957,
+            -7.280827
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gedenken Sie hier den historischen Beiträgen der indonesischen Polizei, und kommen Sie am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Emlékezzen meg az indonéz rendőrség történelmi hozzájárulásairól ezen a helyen, és látogasson ide késő délután a legjobb természetes fényviszonyokért.",
+            "ro": "Comemorați contribuțiile istorice ale forțelor de poliție indoneziene aici și vizitați spre sfârșitul după-amiezii pentru cea mai bună lumină naturală.",
+            "en": "Commemorate the fierce historical contributions of the Indonesian police force here, and visit during the late afternoon for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Etnografi",
+            "hu": "Museum Etnografi",
+            "ro": "Museum Etnografi",
+            "en": "Museum Etnografi"
+          },
+          "coords": [
+            112.759533,
+            -7.272503
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in das faszinierende Thema der Todes- und Bestattungstraditionen indonesischer Kulturen ein, und bringen Sie eine Übersetzungs-App mit.",
+            "hu": "Merüljön el a halál és a temetkezés lenyűgöző hagyományaiban az indonéz kultúrákban, és hozzon fordítóalkalmazást, mert néhány felirat csak helyi.",
+            "ro": "Aprofundați tema captivantă a tradițiilor funerare din culturile indoneziene și aduceți o aplicație de traducere, unele exponate sunt doar în limba locală.",
+            "en": "Dive deep into the captivating theme of death and burial traditions across Indonesian cultures, and bring a translation app as some exhibits are local only."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an einer einzigartigen Moschee, die im Morgenlicht verschiedene kulturelle Architekturen perfekt vereint.\n\nRadeln Sie in den Mittag, um entlang schattiger Boulevards Musikgeschichte und historische Wahrzeichen zu entdecken.\n\nIhre nachmittägliche Fahrt folgt dem historischen Kampf vorbei an eindrucksvollen Denkmälern.\n\nBeenden Sie das Radeln am ethnografischen Museum, um in die Kultur einzutauchen.",
+        "hu": "Kezdje a kerékpártúrát egy egyedi mecsetnél, amely tökéletesen ötvözi a kulturális építészeti stílusokat a reggeli fényben.\n\nTekerjen a déli órákban, hogy felfedezze a zenei történelmet és a történelmi ikonokat.\n\nA délutáni út a történelmi küzdelmek nyomába ered, elhaladva a lenyűgöző emlékművek mellett.\n\nFejezze be a túrát a néprajzi múzeumnál, elgondolkodva az indonéz kultúrák rejtelmein.",
+        "ro": "Începeți turul cu bicicleta la o moschee unică, îmbinând perfect arhitecturile culturale diverse în lumina frumoasă a dimineții.\n\nPedalați spre amiază pentru a descoperi istoria muzicală și repere istorice pe bulevarde umbrite.\n\nCălătoria de după-amiază urmează lupta istorică, trecând pe lângă monumente impresionante.\n\nTerminați pedalatul la muzeul etnografic, meditând asupra misterelor culturilor indoneziene.",
+        "en": "Kick off your cycling tour at a unique mosque, blending distinct cultural architectures perfectly in the morning light.\n\nPedal into the midday to uncover musical history and monumental historic icons along shaded boulevards.\n\nYour afternoon ride follows the local struggle, passing striking statues and lively street corners.\n\nFinish cycling at the ethnographic museum, pondering the mysteries of Indonesian cultures."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 19.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Pendidikan",
+            "hu": "Museum Pendidikan",
+            "ro": "Museum Pendidikan",
+            "en": "Museum Pendidikan"
+          },
+          "coords": [
+            112.742964,
+            -7.256217
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Indonesiens reiche Bildungsgeschichte anhand faszinierender alter Schulartefakte, und kommen Sie früh, um große Schulgruppen zu vermeiden.",
+            "hu": "Fedezze fel Indonézia gazdag oktatási múltját a lenyűgöző régi iskolai tárgyakon keresztül, és érkezzen korán, hogy elkerülje a nagy diákcsoportokat.",
+            "ro": "Explorați bogata istorie educațională a Indoneziei prin artefacte școlare de epocă și vizitați devreme pentru a evita aglomerația grupurilor mari de elevi.",
+            "en": "Explore Indonesia's rich educational history through fascinating vintage school artifacts, and visit early to avoid the afternoon school group crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Muhammad Cheng Hoo Surabaya",
+            "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+            "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+            "en": "Masjid Muhammad Cheng Hoo Surabaya"
+          },
+          "coords": [
+            112.746796,
+            -7.251952
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Mischung aus chinesischer Architektur und islamischer Tradition in dieser Moschee, und kleiden Sie sich angemessen.",
+            "hu": "Csodálja meg a kínai építészet és az iszlám hagyományok egyedülálló ötvözetét ebben a mecsetben, de ne feledkezzen meg a szerény öltözködésről.",
+            "ro": "Admirați amestecul unic de arhitectură chineză și tradiții islamice în această moschee izbitoare, amintindu-vă să vă îmbrăcați modest și să vă descălțați.",
+            "en": "Marvel at the unique blend of Chinese architecture and Islamic traditions in this striking mosque, remembering to dress modestly and remove your shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Surabaya Sports Museum",
+            "hu": "Surabaya Sports Museum",
+            "ro": "Surabaya Sports Museum",
+            "en": "Surabaya Sports Museum"
+          },
+          "coords": [
+            112.731069,
+            -7.286727
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Feiern Sie in diesem dynamischen Museum jahrzehntelange lokale Sporterfolge, wo Sportfans problemlos Stunden mit der Erkundung der Memorabilien verbringen können.",
+            "hu": "Ünnepelje az évtizedeket felölelő helyi sporteredményeket ebben a dinamikus múzeumban, ahol a rajongók órákat tölthetnek az emléktárgyak felfedezésével.",
+            "ro": "Sărbătoriți realizările atletice locale din ultimele decenii în acest muzeu dinamic, unde fanii sportului pot petrece ore întregi explorând suvenirurile.",
+            "en": "Celebrate local athletic achievements spanning decades inside this dynamic museum, where sports fans can easily spend hours exploring the memorabilia."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Mayangkara",
+            "hu": "Monumen Mayangkara",
+            "ro": "Monumen Mayangkara",
+            "en": "Monumen Mayangkara"
+          },
+          "coords": [
+            112.735576,
+            -7.30698
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende Reiterstandbild des tapferen Mayangkara-Bataillons, und nutzen Sie die Fußgängerbrücken, um es sicher zu erreichen.",
+            "hu": "Tekintse meg a bátor Mayangkara zászlóaljnak szentelt lenyűgöző lovasszobrot, és óvatosan használja a közeli gyalogos hidakat a biztonságos megközelítéshez.",
+            "ro": "Vedeți această impresionantă statuie ecvestră dedicată curajosului batalion Mayangkara și folosiți cu atenție podurile pietonale din apropiere pentru a ajunge în siguranță.",
+            "en": "View this impressive equestrian statue dedicated to the brave Mayangkara battalion, and carefully use the nearby pedestrian bridges to reach it safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Mastrip",
+            "hu": "Monumen Mastrip",
+            "ro": "Monumen Mastrip",
+            "en": "Monumen Mastrip"
+          },
+          "coords": [
+            112.718817,
+            -7.307467
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Denken Sie an diesem feierlichen Vorstadtdenkmal an die Opfer der Studentensoldaten, das an die Beteiligung der Jugend am Unabhängigkeitskrieg erinnert.",
+            "hu": "Gondolkodjon el a diákkatonák áldozatain ennél az ünnepélyes külvárosi emlékműnél, amely csendes emlékeztető a fiatalság függetlenségi háborúbeli részvételére.",
+            "ro": "Reflectați la sacrificiile tinerilor soldați la acest monument suburban solemn, care servește drept o amintire liniștită a implicării tinerilor în războiul de independență.",
+            "en": "Reflect on the student soldiers' sacrifices at this solemn suburban monument, which serves as a quiet reminder of youth involvement in the independence war."
+          }
+        },
+        {
+          "name": {
+            "de": "Menggapai Cakrawala",
+            "hu": "Menggapai Cakrawala",
+            "ro": "Menggapai Cakrawala",
+            "en": "Menggapai Cakrawala"
+          },
+          "coords": [
+            112.80815,
+            -7.277869
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick aufs Meer neben diesem markanten Marinedenkmal, wo die erfrischende Meeresbrise den perfekten Abschluss eines langen Tages bildet.",
+            "hu": "Élvezze a tengerparti kilátást e mellett a lenyűgöző tengerészeti emlékmű mellett, ahol a frissítő tengeri szellő tökéletes befejezést nyújt a naphoz.",
+            "ro": "Bucurați-vă de priveliștile ample de la malul mării lângă acest monument naval izbitor, unde briza revigorantă a mării oferă un final perfect pentru explorare.",
+            "en": "Enjoy the expansive seaside views next to this striking naval monument, where the refreshing sea breeze provides a perfect ending to a long day of exploring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt nahtlos im historischen Zentrum, wo sich am Morgen Bildungserbe mit markanter religiöser Architektur verbindet.\n\nFahren Sie am Mittag nach Süden, um am riesigen Stadion in die lokalen Sporterfolge einzutauchen.\n\nVerbringen Sie Ihren Nachmittag damit, zwischen dramatischen Militärstatuen mutiger lokaler Bataillone zu navigieren.\n\nParken Sie nachmittags am Meer für einen spektakulären Blick auf das ferne Marinedenkmal.",
+        "hu": "Az autózás zökkenőmentesen indul a történelmi központban, ahol az oktatási örökség és a vallási építészet keveredik.\n\nVezessen dél felé a déli órákban, hogy elmerüljön a helyi sporteredményekben a nagy stadion múzeumban.\n\nA délutánt a bátor helyi zászlóaljakat tisztelő drámai katonai szobrok közötti navigálással töltse.\n\nKésőbb parkoljon le a tengernél, hogy lenyűgöző kilátás nyíljon a tengerészeti emlékműre.",
+        "ro": "Plimbarea începe în centrul istoric, îmbinând moștenirea educațională cu arhitectura religioasă în timpul dimineții.\n\nConduceți spre sud la amiază pentru a vă scufunda în realizările sportive locale la marele muzeu al stadionului.\n\nPetreceți-vă după-amiaza navigând între statuile militare dramatice care onorează batalioanele locale curajoase.\n\nParcați mai târziu la malul mării pentru o vedere spectaculoasă a monumentului naval de coastă.",
+        "en": "Your drive begins seamlessly in the historic center, blending educational heritage with striking religious architecture in the morning.\n\nDrive south for midday to dive into local sporting achievements at the grand stadium museum.\n\nSpend your afternoon navigating between dramatic military statues honoring courageous local battalions.\n\nPark by the sea for a spectacular late afternoon view of the naval monument to end your journey."
+      }
+    }
+  }
+}

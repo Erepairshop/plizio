@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-figueira-cities-v2",
+  "anchor": {
+    "name": "Figueira",
+    "coords": [
+      -8.84335,
+      37.07343
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Figueira",
+            "hu": "Praia da Figueira",
+            "ro": "Praia da Figueira",
+            "en": "Praia da Figueira"
+          },
+          "coords": [
+            -8.840148,
+            37.06072
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am abgelegenen Strand Praia da Figueira, einem unberührten, von Klippen umrahmten Ort, aber bringen Sie Wasser mit, da es keine Kioske gibt.",
+            "hu": "Pihenjen a sziklákkal övezett Praia da Figueira eldugott homokján, de feltétlenül hozzon magával vizet, mivel a parton nincsenek vendéglátóhelyek.",
+            "ro": "Relaxează-te pe nisipul izolat de la Praia da Figueira, un loc virgin înconjurat de stânci, dar nu uita să aduci apă, deoarece nu există facilități.",
+            "en": "Relax on the secluded sands of Praia da Figueira, a pristine spot framed by cliffs, but remember to bring your own water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Vera Cruz da Figueira",
+            "hu": "Forte de Vera Cruz da Figueira",
+            "ro": "Forte de Vera Cruz da Figueira",
+            "en": "Forte de Vera Cruz da Figueira"
+          },
+          "coords": [
+            -8.838722,
+            37.061124
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Küstenfestung aus dem 17. Jahrhundert, die einst vor Piraten schützte, und tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Fedezze fel e 17. századi tengerparti erőd romjait, amely egykor a kalózoktól védett, és viseljen túracipőt a sziklás megközelítés miatt.",
+            "ro": "Explorează ruinele acestui fort de coastă din secolul al XVII-lea, care a apărat golful de pirați, și poartă încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Explore the ruins of this 17th-century coastal fort, which once protected the bay from pirates, and wear sturdy shoes to navigate the rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Santa",
+            "hu": "Praia Santa",
+            "ro": "Praia Santa",
+            "en": "Praia Santa"
+          },
+          "coords": [
+            -8.836826,
+            37.061463
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Schönheit von Praia Santa, einer kleinen Bucht zum Sonnenbaden, die Sie am besten bei Ebbe für mehr Platz am Sandstrand besuchen.",
+            "hu": "Élvezze a Praia Santa csendes szépségét, egy kis öblöt, amely tökéletes a békés napozáshoz, de érdemes apálykor jönni, hogy több hely legyen a homokban.",
+            "ro": "Bucură-te de frumusețea liniștită a micii plaje Praia Santa, ideală pentru băi de soare pașnice, dar vizitează la reflux pentru a avea mai mult nisip.",
+            "en": "Enjoy the quiet beauty of Praia Santa, a small cove perfect for peaceful sunbathing, though it's best to visit at low tide for more space on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Jazida de icnofósseis da Praia Santa",
+            "hu": "Jazida de icnofósseis da Praia Santa",
+            "ro": "Jazida de icnofósseis da Praia Santa",
+            "en": "Jazida de icnofósseis da Praia Santa"
+          },
+          "coords": [
+            -8.834743,
+            37.061728
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die in den Kalksteinfelsen erhaltenen antiken Dinosaurierspuren und besuchen Sie diese im Morgenlicht, um sie deutlicher zu erkennen.",
+            "hu": "Csodálja meg a strand mészkőszikláiban megőrzött ősi dinoszaurusz lábnyomokat, és próbáljon reggeli fényben érkezni, hogy tisztábban láthassa őket.",
+            "ro": "Admiră urmele străvechi de dinozauri conservate în rocile calcaroase ale plajei și încearcă să le vizitezi în lumina dimineții pentru o vizibilitate clară.",
+            "en": "Marvel at the ancient dinosaur footprints preserved in the limestone rocks of the beach, and try visiting during morning light to see them clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "hu": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "ro": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "en": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions"
+          },
+          "coords": [
+            -8.826864,
+            37.06433
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende Abfolge von 13 Dinosaurierspuren auf einer Felsplatte und halten Sie Abstand, um die geologische Formation zu schützen.",
+            "hu": "Figyelje meg ezt a sziklán sorakozó 13 dinoszaurusz lábnyomból álló lenyűgöző sorozatot, de tartson távolságot a kényes geológiai képződmény védelmében.",
+            "ro": "Observă această secvență fascinantă de 13 urme de dinozauri aliniate pe o stâncă, păstrând o distanță sigură pentru a proteja formațiunea geologică fragilă.",
+            "en": "Observe this fascinating sequence of 13 dinosaur tracks aligned on a rock slab, keeping a safe distance to protect the delicate geological formation."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Salema",
+            "hu": "Praia da Salema",
+            "ro": "Praia da Salema",
+            "en": "Praia da Salema"
+          },
+          "coords": [
+            -8.822853,
+            37.065208
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem malerischen Fischerdorfstrand, wo traditionelle Boote liegen, und essen Sie in einem der nahegelegenen Fischrestaurants.",
+            "hu": "Zárja a napot ezen a festői halászfalvi strandon, ahol hagyományos csónakok pihennek, és egyen egy finomat az egyik közeli hangulatos tengeri kávézóban.",
+            "ro": "Încheie ziua pe această plajă pitorească de pescari, unde bărcile tradiționale împart nisipul, și gustă preparate locale la o cafenea cu fructe de mare.",
+            "en": "Finish your day at this picturesque fishing village beach, where traditional boats share the sand with swimmers, and grab a bite at a nearby seafood cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt am abgelegenen Praia da Figueira mit einer frischen Meeresbrise am Morgen. Entlang der dramatischen Küste entdecken Sie das historische Forte de Vera Cruz und die Bucht Praia Santa. Der Nachmittag offenbart antike Geheimnisse mit echten Dinosaurierspuren in den Felsen. Entspannen Sie sich schließlich und genießen Sie die abendliche Atmosphäre am lebhaften Praia da Salema.",
+        "hu": "Sétája az eldugott Praia da Figueiráról indul, ahol beszívhatja a reggeli tengeri levegőt. A drámai partvonal mentén haladva felfedezheti a történelmi Forte de Vera Cruz-t és a bájos Praia Santa-t. A délután ősi titkokat tár fel, amikor part menti sziklákban igazi dinoszaurusz lábnyomokat talál. Végül pihenjen és élvezze a pezsgő esti hangulatot a nyüzsgő Praia da Salema strandon.",
+        "ro": "Plimbarea ta începe la izolata Praia da Figueira, respirând briza proaspătă a dimineții. Continuând de-a lungul coastei stâncoase, vei descoperi istoricul Forte de Vera Cruz și micuța Praia Santa. După-amiaza îți dezvăluie secrete antice când vei vedea amprente reale de dinozauri pe stânci. În cele din urmă, relaxează-te și bucură-te de atmosfera de seară la animata Praia da Salema.",
+        "en": "Your walk starts at the secluded Praia da Figueira, breathing in the fresh morning sea breeze. Continuing along the dramatic coastline, you will encounter the historic Forte de Vera Cruz and the charming Praia Santa cove. The afternoon reveals ancient secrets as you spot genuine dinosaur footprints embedded in the coastal rocks. Finally, relax and soak in the evening atmosphere at the lively Praia da Salema."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Matriz de Budens",
+            "hu": "Igreja Matriz de Budens",
+            "ro": "Igreja Matriz de Budens",
+            "en": "Igreja Matriz de Budens"
+          },
+          "coords": [
+            -8.829529,
+            37.086437
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bezaubernde Architektur dieser traditionellen Dorfkirche, die die Gemeinde prägt, und prüfen Sie respektvoll die lokalen Öffnungszeiten.",
+            "hu": "Csodálja meg ennek a hagyományos falusi templomnak a bájos építészetét, és a látogatás tervezésekor tisztelettel ellenőrizze a helyi nyitvatartási időket.",
+            "ro": "Admiră arhitectura fermecătoare a acestei biserici tradiționale de sat care ancorează comunitatea și verifică respectuos programul local de vizitare.",
+            "en": "Admire the charming architecture of this traditional village church that anchors the community, and respectfully check local schedules for visiting hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora de Guadalupe",
+            "hu": "Ermida de Nossa Senhora de Guadalupe",
+            "ro": "Ermida de Nossa Senhora de Guadalupe",
+            "en": "Ermida de Nossa Senhora de Guadalupe"
+          },
+          "coords": [
+            -8.864766,
+            37.083677
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der ältesten religiösen Gebäude der Algarve, das mit Heinrich dem Seefahrer verbunden ist, und erkunden Sie das schlichte historische Innere.",
+            "hu": "Látogasson el Algarve egyik legrégebbi, Tengerész Henrikhez köthető vallási épületébe, és szánjon időt az egyszerű, mégis történelmi belső tér felfedezésére.",
+            "ro": "Vizitează una dintre cele mai vechi clădiri religioase din Algarve asociată cu Prințul Henric Navigatorul, luându-ți timp să explorezi interiorul său istoric.",
+            "en": "Visit one of the Algarve's oldest religious buildings associated with Prince Henry the Navigator, taking time to explore its simplistic yet historic interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir de Aspradantes",
+            "hu": "Menir de Aspradantes",
+            "ro": "Menir de Aspradantes",
+            "en": "Menir de Aspradantes"
+          },
+          "coords": [
+            -8.865307,
+            37.072519
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen prähistorischen weißen Kalkstein-Menhir auf einem ruhigen Feld, der einen mysteriösen Einblick in frühe menschliche Siedlungen bietet.",
+            "hu": "Fedezze fel ezt a fehér mészkőből álló, magányos történelem előtti menhírt egy csendes mezőn, amely titokzatos bepillantást nyújt a korai emberi településekbe.",
+            "ro": "Descoperă acest menhir preistoric solitar din calcar alb aflat într-un câmp liniștit, care oferă o privire misterioasă asupra așezărilor umane timpurii.",
+            "en": "Discover this solitary prehistoric standing stone made of white limestone in a tranquil field, providing a mysterious glimpse into early human settlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Furnas",
+            "hu": "Praia das Furnas",
+            "ro": "Praia das Furnas",
+            "en": "Praia das Furnas"
+          },
+          "coords": [
+            -8.854525,
+            37.055321
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Praia das Furnas, einem naturbelassenen Strand mit interessanten Felsformationen, für den eine Windjacke oft eine kluge Wahl ist.",
+            "hu": "Kapcsolódjon ki a Praia das Furnas vad és természetes, érdekes sziklaalakzatairól ismert strandján, ahová gyakran érdemes széldzsekit is magával vinnie.",
+            "ro": "Relaxează-te la Praia das Furnas, o plajă sălbatică cunoscută pentru formațiunile sale stâncoase, unde o jachetă de vânt este adesea o alegere inteligentă.",
+            "en": "Unwind at Praia das Furnas, a wild and natural beach known for its interesting rock formations, where packing a windbreaker is often a smart choice."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Foia do Carro",
+            "hu": "Praia da Foia do Carro",
+            "ro": "Praia da Foia do Carro",
+            "en": "Praia da Foia do Carro"
+          },
+          "coords": [
+            -8.845685,
+            37.058623
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem winzigen, schwer erreichbaren Strand mit unberührter Landschaft, aber seien Sie vorsichtig auf dem steilen Abstieg.",
+            "hu": "Meneküljön el a tömeg elől ezen a nehezen megközelíthető strandon, amely érintetlen tájjal jutalmaz, de legyen óvatos a meredek és burkolatlan lejtőn.",
+            "ro": "Scapă de aglomerație la această plajă greu accesibilă care răsplătește drumeții cu peisaje virgine, dar fii precaut pe coborârea abruptă și neasfaltată.",
+            "en": "Escape the crowds at this tiny, difficult-to-reach beach that rewards hikers with pristine scenery, but be cautious on the steep and unpaved descent path."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Vera Cruz da Figueira",
+            "hu": "Forte de Vera Cruz da Figueira",
+            "ro": "Forte de Vera Cruz da Figueira",
+            "en": "Forte de Vera Cruz da Figueira"
+          },
+          "coords": [
+            -8.838722,
+            37.061124
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Küstenfestung aus dem 17. Jahrhundert, die einst vor Piraten schützte, und tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Fedezze fel e 17. századi tengerparti erőd romjait, amely egykor a kalózoktól védett, és viseljen túracipőt a sziklás megközelítés miatt.",
+            "ro": "Explorează ruinele acestui fort de coastă din secolul al XVII-lea, care a apărat golful de pirați, și poartă încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Explore the ruins of this 17th-century coastal fort, which once protected the bay from pirates, and wear sturdy shoes to navigate the rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Salema",
+            "hu": "Praia da Salema",
+            "ro": "Praia da Salema",
+            "en": "Praia da Salema"
+          },
+          "coords": [
+            -8.822853,
+            37.065208
+          ],
+          "category": "recreational",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem malerischen Fischerdorfstrand, wo traditionelle Boote liegen, und essen Sie in einem der nahegelegenen Fischrestaurants.",
+            "hu": "Zárja a napot ezen a festői halászfalvi strandon, ahol hagyományos csónakok pihennek, és egyen egy finomat az egyik közeli hangulatos tengeri kávézóban.",
+            "ro": "Încheie ziua pe această plajă pitorească de pescari, unde bărcile tradiționale împart nisipul, și gustă preparate locale la o cafenea cu fructe de mare.",
+            "en": "Finish your day at this picturesque fishing village beach, where traditional boats share the sand with swimmers, and grab a bite at a nearby seafood cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in Budens an der traditionellen Dorfkirche, bevor Sie zur historischen Ermida de Nossa Senhora de Guadalupe fahren. Radeln Sie durch Felder zum antiken Menir de Aspradantes, bevor Sie die Küste ansteuern. Den Nachmittag verbringen Sie mit Strandhopping entlang der Klippen. Beenden Sie Ihre Fahrt am Praia da Salema, während die Sonne untergeht.",
+        "hu": "Kezdje kerékpártúráját Budensben a falu hagyományos templománál, mielőtt a történelmi Ermida de Nossa Senhora de Guadalupe felé venné az irányt. Csendes mezőkön át tekerve fedezze fel a Menir de Aspradantes-t. A délutánt a lenyűgöző sziklák mentén történő strandolással töltheti, a vadabb partszakaszokat érintve. Zárja túráját a Praia da Salema-n, miközben a naplemente csodás fényeit élvezi.",
+        "ro": "Începe turul pe bicicletă în Budens admirând biserica tradițională a satului, înainte de a te îndrepta spre Ermida de Nossa Senhora de Guadalupe. Pedalează pe câmpuri pentru a descoperi vechiul Menir de Aspradantes înainte de a merge spre coastă. După-amiaza o vei petrece explorând plaje de-a lungul stâncilor spectaculoase. Încheie cursa la Praia da Salema la apus.",
+        "en": "Kick off your cycling tour in Budens by admiring the traditional village church before heading to the historic Ermida de Nossa Senhora de Guadalupe. Ride through quiet fields to discover the ancient Menir de Aspradantes before steering towards the rugged coastline. The afternoon is spent beach-hopping along the stunning cliffs. Conclude your ride at Praia da Salema as the sun sets over the ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 8.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora de Guadalupe",
+            "hu": "Ermida de Nossa Senhora de Guadalupe",
+            "ro": "Ermida de Nossa Senhora de Guadalupe",
+            "en": "Ermida de Nossa Senhora de Guadalupe"
+          },
+          "coords": [
+            -8.864766,
+            37.083677
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der ältesten religiösen Gebäude der Algarve, das mit Heinrich dem Seefahrer verbunden ist, und erkunden Sie das schlichte historische Innere.",
+            "hu": "Látogasson el Algarve egyik legrégebbi, Tengerész Henrikhez köthető vallási épületébe, és szánjon időt az egyszerű, mégis történelmi belső tér felfedezésére.",
+            "ro": "Vizitează una dintre cele mai vechi clădiri religioase din Algarve asociată cu Prințul Henric Navigatorul, luându-ți timp să explorezi interiorul său istoric.",
+            "en": "Visit one of the Algarve's oldest religious buildings associated with Prince Henry the Navigator, taking time to explore its simplistic yet historic interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir de Aspradantes",
+            "hu": "Menir de Aspradantes",
+            "ro": "Menir de Aspradantes",
+            "en": "Menir de Aspradantes"
+          },
+          "coords": [
+            -8.865307,
+            37.072519
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen prähistorischen weißen Kalkstein-Menhir auf einem ruhigen Feld, der einen mysteriösen Einblick in frühe menschliche Siedlungen bietet.",
+            "hu": "Fedezze fel ezt a fehér mészkőből álló, magányos történelem előtti menhírt egy csendes mezőn, amely titokzatos bepillantást nyújt a korai emberi településekbe.",
+            "ro": "Descoperă acest menhir preistoric solitar din calcar alb aflat într-un câmp liniștit, care oferă o privire misterioasă asupra așezărilor umane timpurii.",
+            "en": "Discover this solitary prehistoric standing stone made of white limestone in a tranquil field, providing a mysterious glimpse into early human settlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Budens",
+            "hu": "Igreja Matriz de Budens",
+            "ro": "Igreja Matriz de Budens",
+            "en": "Igreja Matriz de Budens"
+          },
+          "coords": [
+            -8.829529,
+            37.086437
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bezaubernde Architektur dieser traditionellen Dorfkirche, die die Gemeinde prägt, und prüfen Sie respektvoll die lokalen Öffnungszeiten.",
+            "hu": "Csodálja meg ennek a hagyományos falusi templomnak a bájos építészetét, és a látogatás tervezésekor tisztelettel ellenőrizze a helyi nyitvatartási időket.",
+            "ro": "Admiră arhitectura fermecătoare a acestei biserici tradiționale de sat care ancorează comunitatea și verifică respectuos programul local de vizitare.",
+            "en": "Admire the charming architecture of this traditional village church that anchors the community, and respectfully check local schedules for visiting hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Salema",
+            "hu": "Praia da Salema",
+            "ro": "Praia da Salema",
+            "en": "Praia da Salema"
+          },
+          "coords": [
+            -8.822853,
+            37.065208
+          ],
+          "category": "recreational",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem malerischen Fischerdorfstrand, wo traditionelle Boote liegen, und essen Sie in einem der nahegelegenen Fischrestaurants.",
+            "hu": "Zárja a napot ezen a festői halászfalvi strandon, ahol hagyományos csónakok pihennek, és egyen egy finomat az egyik közeli hangulatos tengeri kávézóban.",
+            "ro": "Încheie ziua pe această plajă pitorească de pescari, unde bărcile tradiționale împart nisipul, și gustă preparate locale la o cafenea cu fructe de mare.",
+            "en": "Finish your day at this picturesque fishing village beach, where traditional boats share the sand with swimmers, and grab a bite at a nearby seafood cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "hu": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "ro": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions",
+            "en": "Ornithopod trackway with at least 13 very lined-up tridactyl and subcircular impressions"
+          },
+          "coords": [
+            -8.826864,
+            37.06433
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende Abfolge von 13 Dinosaurierspuren auf einer Felsplatte und halten Sie Abstand, um die geologische Formation zu schützen.",
+            "hu": "Figyelje meg ezt a sziklán sorakozó 13 dinoszaurusz lábnyomból álló lenyűgöző sorozatot, de tartson távolságot a kényes geológiai képződmény védelmében.",
+            "ro": "Observă această secvență fascinantă de 13 urme de dinozauri aliniate pe o stâncă, păstrând o distanță sigură pentru a proteja formațiunea geologică fragilă.",
+            "en": "Observe this fascinating sequence of 13 dinosaur tracks aligned on a rock slab, keeping a safe distance to protect the delicate geological formation."
+          }
+        },
+        {
+          "name": {
+            "de": "Jazida de icnofósseis da Praia Santa",
+            "hu": "Jazida de icnofósseis da Praia Santa",
+            "ro": "Jazida de icnofósseis da Praia Santa",
+            "en": "Jazida de icnofósseis da Praia Santa"
+          },
+          "coords": [
+            -8.834743,
+            37.061728
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die in den Kalksteinfelsen erhaltenen antiken Dinosaurierspuren und besuchen Sie diese im Morgenlicht, um sie deutlicher zu erkennen.",
+            "hu": "Csodálja meg a strand mészkőszikláiban megőrzött ősi dinoszaurusz lábnyomokat, és próbáljon reggeli fényben érkezni, hogy tisztábban láthassa őket.",
+            "ro": "Admiră urmele străvechi de dinozauri conservate în rocile calcaroase ale plajei și încearcă să le vizitezi în lumina dimineții pentru o vizibilitate clară.",
+            "en": "Marvel at the ancient dinosaur footprints preserved in the limestone rocks of the beach, and try visiting during morning light to see them clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Santa",
+            "hu": "Praia Santa",
+            "ro": "Praia Santa",
+            "en": "Praia Santa"
+          },
+          "coords": [
+            -8.836826,
+            37.061463
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Schönheit von Praia Santa, einer kleinen Bucht zum Sonnenbaden, die Sie am besten bei Ebbe für mehr Platz am Sandstrand besuchen.",
+            "hu": "Élvezze a Praia Santa csendes szépségét, egy kis öblöt, amely tökéletes a békés napozáshoz, de érdemes apálykor jönni, hogy több hely legyen a homokban.",
+            "ro": "Bucură-te de frumusețea liniștită a micii plaje Praia Santa, ideală pentru băi de soare pașnice, dar vizitează la reflux pentru a avea mai mult nisip.",
+            "en": "Enjoy the quiet beauty of Praia Santa, a small cove perfect for peaceful sunbathing, though it's best to visit at low tide for more space on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Figueira",
+            "hu": "Praia da Figueira",
+            "ro": "Praia da Figueira",
+            "en": "Praia da Figueira"
+          },
+          "coords": [
+            -8.840148,
+            37.06072
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am abgelegenen Strand Praia da Figueira, einem unberührten, von Klippen umrahmten Ort, aber bringen Sie Wasser mit, da es keine Kioske gibt.",
+            "hu": "Pihenjen a sziklákkal övezett Praia da Figueira eldugott homokján, de feltétlenül hozzon magával vizet, mivel a parton nincsenek vendéglátóhelyek.",
+            "ro": "Relaxează-te pe nisipul izolat de la Praia da Figueira, un loc virgin înconjurat de stânci, dar nu uita să aduci apă, deoarece nu există facilități.",
+            "en": "Relax on the secluded sands of Praia da Figueira, a pristine spot framed by cliffs, but remember to bring your own water as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in der ruhigen Landschaft an der historischen Ermida, gefolgt vom prähistorischen Menir de Aspradantes. Nach Budens fahren Sie an die Küste zum lebhaften Praia da Salema. Der Nachmittag wird zu einem geologischen Abenteuer bei der Suche nach Dinosaurierspuren entlang der Klippen. Lassen Sie den Tag beim Beobachten der Wellen am Praia da Figueira ausklingen.",
+        "hu": "Autóútja a csendes vidéken indul a történelmi Ermidánál, majd a történelem előtti Menir de Aspradantes felfedezésével folytatódik. Budens után a part felé veszi az irányt a nyüzsgő Praia da Salema felé. A délután geológiai kalanddá alakul, miközben dinoszaurusz nyomokat keres a sziklákon. Végül fejezze be a napot a hullámok megfigyelésével a gyönyörű Praia da Figueira parton.",
+        "ro": "Traseul auto începe în mediul rural liniștit la istorica Ermida, urmat de o vizită la preistoricul Menir de Aspradantes. După Budens, îndreaptă-te spre coastă pentru a explora Praia da Salema. După-amiaza devine o aventură geologică în timp ce cauți urme de dinozauri pe stânci. În cele din urmă, încheie-ți ziua ascultând valurile pe plaja Praia da Figueira.",
+        "en": "Your drive begins in the tranquil countryside at the historic Ermida, followed by a short trip to marvel at the prehistoric Menir de Aspradantes. After passing through Budens, head down to the coast to experience the lively Praia da Salema. The afternoon transitions to a geological adventure as you hunt for dinosaur tracks along the cliffs. Finally, end your day watching the waves at Praia da Figueira."
+      }
+    }
+  }
+}

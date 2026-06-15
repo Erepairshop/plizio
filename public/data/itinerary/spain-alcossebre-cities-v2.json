@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-alcossebre-cities-v2",
+  "anchor": {
+    "name": "Alcossebre",
+    "coords": [
+      0.27559,
+      40.24475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 1.76,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Carregador",
+            "hu": "Platja del Carregador",
+            "ro": "Platja del Carregador",
+            "en": "Platja del Carregador"
+          },
+          "coords": [
+            0.27601,
+            40.240894
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen, goldenen Sand dieses weitläufigen zentralen Strandes, und ein frühes Kommen sichert Ihnen einen Platz am klaren, flachen Wasser.",
+            "hu": "Süllyessze lábujjait a hatalmas központi strand finom, aranyhomokjába, és az időben érkezés garantálja a legjobb helyet a tiszta, sekély víz partján.",
+            "ro": "Simțiți nisipul fin și auriu al acestei vaste plaje centrale, iar sosirea devreme vă garantează un loc în primul rând lângă apele limpezi și puțin adânci.",
+            "en": "Sink your toes into the fine, golden sands of this expansive central beach, and arriving early ensures a front-row spot near the clear, shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Romana",
+            "hu": "Platja de la Romana",
+            "ro": "Platja de la Romana",
+            "en": "Platja de la Romana"
+          },
+          "coords": [
+            0.273323,
+            40.234487
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ökologisch geschützten Strand mit herrlichen Dünen, aber nutzen Sie die Holzstege, um die einheimische Flora zu erhalten.",
+            "hu": "Pihenjen ezen az ökológiailag védett, lenyűgöző dűnékkel övezett strandon, de mindenképpen a fapallókon sétáljon, hogy megóvja az őshonos növényvilágot.",
+            "ro": "Relaxați-vă pe această plajă protejată ecologic, susținută de dune uimitoare, dar folosiți potecile de lemn pentru a ajuta la conservarea florei native.",
+            "en": "Relax on this ecologically protected beach backed by stunning dunes, but make sure to walk along the wooden pathways to help preserve the native flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Moro",
+            "hu": "Platja del Moro",
+            "ro": "Platja del Moro",
+            "en": "Platja del Moro"
+          },
+          "coords": [
+            0.272292,
+            40.230133
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, von Felsen flankierte Sandbucht, die ideal zum Schnorcheln ist, wenn Sie Ihre eigene Ausrüstung zur Erkundung mitbringen.",
+            "hu": "Fedezze fel ezt a festői, sziklás kiemelkedésekkel szegélyezett homokos öblöt, amely tökéletes sznorkelezésre, ha saját felszerelésével merül a habokba.",
+            "ro": "Descoperiți acest golf pitoresc de nisip, flancat de stânci uimitoare, perfect pentru snorkeling dacă vă aduceți propriul echipament pentru a explora.",
+            "en": "Discover this picturesque sandy cove flanked by striking rocky outcrops, perfect for snorkeling if you bring your own gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Roca del Moro",
+            "hu": "Mirador de la Roca del Moro",
+            "ro": "Mirador de la Roca del Moro",
+            "en": "Mirador de la Roca del Moro"
+          },
+          "coords": [
+            0.272414,
+            40.228659
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Panoramablick auf die Mittelmeerküste von diesem erhöhten Felsenaussichtspunkt, den Sie am besten bei Rückenlicht fotografieren.",
+            "hu": "Csodálja meg a Földközi-tenger partvidékének lélegzetelállító panorámáját erről a magaslati sziklakilátóról, amelyet a hátulról érkező fényben a legjobb fotózni.",
+            "ro": "Admirați vederile panoramice uluitoare ale coastei mediteraneene de pe acest punct de observare stâncos, cel mai bine de fotografiat când soarele e în spate.",
+            "en": "Admire the breathtaking panoramic vistas of the Mediterranean coastline from this elevated rock viewpoint, best photographed when the sun is behind you."
+          }
+        },
+        {
+          "name": {
+            "de": "les Tres Platges",
+            "hu": "les Tres Platges",
+            "ro": "les Tres Platges",
+            "en": "les Tres Platges"
+          },
+          "coords": [
+            0.271266,
+            40.225365
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen drei aufeinanderfolgenden kleinen, ruhigen Stränden, aber bringen Sie eine feste Matte mit, da der Boden Sand und Kiesel mischt.",
+            "hu": "Kapcsolódjon ki ezen a három egymást követő apró, csendes, sziklák által védett strandon, és hozzon masszív gyékényt, mert a talaj homokos és kavicsos.",
+            "ro": "Relaxați-vă la această serie de trei mici plaje liniștite, adăpostite de stânci, dar aduceți o saltea solidă, deoarece terenul îmbină nisipul și pietrișul.",
+            "en": "Unwind at this series of three consecutive small, tranquil beaches sheltered by rocks, bringing a sturdy mat since the terrain blends sand and pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Alcossebre an der weitläufigen Platja del Carregador und spüren Sie die warme Morgensonne auf dem Sand.\nSchlendern Sie südwärts zur Platja de la Romana, wo die geschützten Dünen eine wirklich atemberaubende natürliche Kulisse bieten.\nWeiter geht es zur Platja del Moro und zum Mirador, um die weitreichende Aussicht auf das Mittelmeer von den Felsen zu genießen.\nBeenden Sie Ihre Wanderung an den Tres Platges und genießen Sie die friedliche Atmosphäre, während das Licht auf den Wellen tanzt.",
+        "hu": "Kezdje a napot Alcossebre hatalmas Platja del Carregador strandján, élvezve a reggeli napsütést az aranyló homokon.\nSétáljon dél felé a Platja de la Romana irányába, ahol a védett dűnék lenyűgöző természeti hátteret biztosítanak a pihenéshez.\nFolytassa útját a Platja del Moro és a Mirador felé, és szánjon időt a csodás mediterrán kilátásra a sziklás magaslatokról.\nFejezze be tengerparti sétáját a les Tres Platges strandjain, és élvezze a békés hangulatot a hullámokon táncoló délutáni fényben.",
+        "ro": "Începeți-vă ziua în Alcossebre la vasta Platja del Carregador, simțind cum soarele dimineții încălzește nisipul auriu și fin.\nPlimbați-vă spre sud, pe coastă, până la Platja de la Romana, unde dunele protejate oferă un fundal natural cu adevărat uimitor.\nContinuați spre Platja del Moro și Miradorul adiacent, admirând priveliștile panoramice ale Mediteranei de pe înălțimile stâncoase.\nÎncheiați-vă traseul la les Tres Platges, bucurându-vă de atmosfera pașnică, în timp ce lumina după-amiezii dansează pe valurile blânde.",
+        "en": "Start your day in Alcossebre at the expansive Platja del Carregador, feeling the morning sun warm the golden sand.\nStroll southward along the gentle coast to Platja de la Romana, where protected dunes offer a stunning natural backdrop.\nContinue to Platja del Moro and the adjacent Mirador, taking time to admire sweeping Mediterranean views from the rocky heights.\nEnd your coastal trek at les Tres Platges, enjoying the peaceful atmosphere as the late afternoon light dances on the gentle waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 3.99,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala Blanca",
+            "hu": "Cala Blanca",
+            "ro": "Cala Blanca",
+            "en": "Cala Blanca"
+          },
+          "coords": [
+            0.296256,
+            40.258472
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den abgeschiedenen Charme dieser ruhigen Bucht mit weißem Sand und bringen Sie reichlich Trinkwasser mit, da es hier kaum Einrichtungen gibt.",
+            "hu": "Élvezze e csendes, fehér homokos öböl elzárt varázsát és érintetlen környezetét, de hozzon bőséges ivóvizet, mivel a kényelmi szolgáltatások hiányosak.",
+            "ro": "Bucurați-vă de farmecul izolat al acestui golf liniștit cu nisip alb, aducând cu dumneavoastră multă apă potabilă, deoarece facilitățile sunt foarte puține.",
+            "en": "Enjoy the secluded charm and pristine natural surroundings of this quiet white-sand cove, bringing plenty of drinking water as facilities are very scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Fonts",
+            "hu": "Platja de les Fonts",
+            "ro": "Platja de les Fonts",
+            "en": "Platja de les Fonts"
+          },
+          "coords": [
+            0.287287,
+            40.252623
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Süßwasserquellen, die direkt aus dem Sand ins Meer sprudeln, ein faszinierendes Naturphänomen, das bei Ebbe am besten sichtbar ist.",
+            "hu": "Csodálja meg a közvetlenül a homokból a tengerbe bugyogó egyedi édesvizű forrásokat, amely rendkívüli természeti jelenséget apálykor a legérdemesebb megfigyelni.",
+            "ro": "Minunați-vă de izvoarele unice de apă dulce care curg direct din nisip în mare, un fenomen natural extraordinar, care se observă cel mai bine la reflux.",
+            "en": "Marvel at the unique freshwater springs bubbling directly from the sand into the sea, an extraordinary natural phenomenon best observed at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Carregador",
+            "hu": "Platja del Carregador",
+            "ro": "Platja del Carregador",
+            "en": "Platja del Carregador"
+          },
+          "coords": [
+            0.27601,
+            40.240894
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen, goldenen Sand dieses weitläufigen zentralen Strandes, und ein frühes Kommen sichert Ihnen einen Platz am klaren, flachen Wasser.",
+            "hu": "Süllyessze lábujjait a hatalmas központi strand finom, aranyhomokjába, és az időben érkezés garantálja a legjobb helyet a tiszta, sekély víz partján.",
+            "ro": "Simțiți nisipul fin și auriu al acestei vaste plaje centrale, iar sosirea devreme vă garantează un loc în primul rând lângă apele limpezi și puțin adânci.",
+            "en": "Sink your toes into the fine, golden sands of this expansive central beach, and arriving early ensures a front-row spot near the clear, shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Romana",
+            "hu": "Platja de la Romana",
+            "ro": "Platja de la Romana",
+            "en": "Platja de la Romana"
+          },
+          "coords": [
+            0.273323,
+            40.234487
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ökologisch geschützten Strand mit herrlichen Dünen, aber nutzen Sie die Holzstege, um die einheimische Flora zu erhalten.",
+            "hu": "Pihenjen ezen az ökológiailag védett, lenyűgöző dűnékkel övezett strandon, de mindenképpen a fapallókon sétáljon, hogy megóvja az őshonos növényvilágot.",
+            "ro": "Relaxați-vă pe această plajă protejată ecologic, susținută de dune uimitoare, dar folosiți potecile de lemn pentru a ajuta la conservarea florei native.",
+            "en": "Relax on this ecologically protected beach backed by stunning dunes, but make sure to walk along the wooden pathways to help preserve the native flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Moro",
+            "hu": "Platja del Moro",
+            "ro": "Platja del Moro",
+            "en": "Platja del Moro"
+          },
+          "coords": [
+            0.272292,
+            40.230133
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, von Felsen flankierte Sandbucht, die ideal zum Schnorcheln ist, wenn Sie Ihre eigene Ausrüstung zur Erkundung mitbringen.",
+            "hu": "Fedezze fel ezt a festői, sziklás kiemelkedésekkel szegélyezett homokos öblöt, amely tökéletes sznorkelezésre, ha saját felszerelésével merül a habokba.",
+            "ro": "Descoperiți acest golf pitoresc de nisip, flancat de stânci uimitoare, perfect pentru snorkeling dacă vă aduceți propriul echipament pentru a explora.",
+            "en": "Discover this picturesque sandy cove flanked by striking rocky outcrops, perfect for snorkeling if you bring your own gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Roca del Moro",
+            "hu": "Mirador de la Roca del Moro",
+            "ro": "Mirador de la Roca del Moro",
+            "en": "Mirador de la Roca del Moro"
+          },
+          "coords": [
+            0.272414,
+            40.228659
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Panoramablick auf die Mittelmeerküste von diesem erhöhten Felsenaussichtspunkt, den Sie am besten bei Rückenlicht fotografieren.",
+            "hu": "Csodálja meg a Földközi-tenger partvidékének lélegzetelállító panorámáját erről a magaslati sziklakilátóról, amelyet a hátulról érkező fényben a legjobb fotózni.",
+            "ro": "Admirați vederile panoramice uluitoare ale coastei mediteraneene de pe acest punct de observare stâncos, cel mai bine de fotografiat când soarele e în spate.",
+            "en": "Admire the breathtaking panoramic vistas of the Mediterranean coastline from this elevated rock viewpoint, best photographed when the sun is behind you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der einsamen Cala Blanca und genießen Sie die frische Meeresbrise und den unberührten weißen Sand am Morgen.\nRadeln Sie zur Platja de les Fonts, um die Süßwasserquellen zu sehen, und fahren Sie dann weiter zu den Ufern der Platja del Carregador.\nFahren Sie entspannt an der Küste entlang zur Platja de la Romana und Platja del Moro, um die charmanten Sandbuchten zu erkunden.\nBeenden Sie Ihre Fahrt am Mirador de la Roca del Moro, wo Sie Ihre Beine ausruhen und einen herrlichen Panoramablick auf das Meer haben.",
+        "hu": "Indítsa kerékpártúráját az eldugott Cala Blanca öbölben, élvezve a friss tengeri szellőt és a kora reggeli csendet a fehér homokon.\nTekerjen a Platja de les Fonts felé az egyedi édesvizű forrásokhoz, majd folytassa útját a nyüzsgő Platja del Carregador partjára.\nHaladjon kényelmesen a part mentén a Platja de la Romana és a Platja del Moro felé, felfedezve a sziklák közötti hangulatos homokos öblöket.\nZárja túráját a Mirador de la Roca del Moro kilátónál, ahol megpihenhet, és gyönyörködhet a tenger lenyűgöző panorámájában.",
+        "ro": "Începeți turul cu bicicleta la izolata Cala Blanca, bucurându-vă de briza proaspătă a mării și de nisipul alb și imaculat în liniștea dimineții.\nPedalați până la Platja de les Fonts pentru a vedea izvoarele dulci, apoi continuați spre țărmurile pline de viață de la Platja del Carregador.\nMergeți ușor de-a lungul coastei până la Platja de la Romana și Platja del Moro, explorând golfurile fermecătoare cu nisip dintre stânci.\nÎncheiați plimbarea la Mirador de la Roca del Moro, unde vă puteți odihni picioarele și admira o vedere panoramică glorioasă asupra mării.",
+        "en": "Kick off your cycling tour at the secluded Cala Blanca, enjoying the crisp sea breeze and the pristine white sands in the morning quiet.\nPedal down to Platja de les Fonts to witness the unique freshwater springs, then continue to the bustling shores of Platja del Carregador.\nRide smoothly along the coastline to reach Platja de la Romana and Platja del Moro, exploring the charming sandy coves nestled between rocks.\nConclude your ride at the Mirador de la Roca del Moro, where you can rest your legs and take in a glorious panoramic view of the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capelleta de Sant Benet",
+            "hu": "Capelleta de Sant Benet",
+            "ro": "Capelleta de Sant Benet",
+            "en": "Capelleta de Sant Benet"
+          },
+          "coords": [
+            0.264525,
+            40.261761
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und historische Architektur dieser charmanten kleinen Bergkapelle und tragen Sie bequeme Wanderschuhe für den Aufstieg.",
+            "hu": "Szívja magába ennek a hangulatos kis hegyi kápolnának a békés légkörét és történelmi építészetét, de az emelkedőhöz mindenképpen kényelmes cipőben érkezzen.",
+            "ro": "Bucurați-vă de atmosfera senină și arhitectura istorică a acestei mici capele fermecătoare de pe deal, dar sosiți cu încălțăminte confortabilă pentru urcare.",
+            "en": "Take in the serene atmosphere and historic architecture of this charming little hilltop chapel, arriving with comfortable walking shoes for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment Arqueològic del Baix Maestrat",
+            "hu": "Jaciment Arqueològic del Baix Maestrat",
+            "ro": "Jaciment Arqueològic del Baix Maestrat",
+            "en": "Jaciment Arqueològic del Baix Maestrat"
+          },
+          "coords": [
+            0.266187,
+            40.260813
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vergangenheit, während Sie die faszinierenden iberischen Ruinen erkunden, und lesen Sie die Informationstafeln, um die Geschichte zu verstehen.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi a lenyűgöző ókori ibériai romokat, és figyelmesen olvassa el a táblákat a hely gazdag történelmének megértéséhez.",
+            "ro": "Întoarceți-vă în timp în timp ce explorați fascinantele ruine iberice antice, citind cu atenție plăcuțele informative pentru a înțelege bogata istorie a locului.",
+            "en": "Step back in time as you explore the fascinating ancient Iberian ruins, carefully reading the informational plaques to fully grasp the site's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Fonts",
+            "hu": "Platja de les Fonts",
+            "ro": "Platja de les Fonts",
+            "en": "Platja de les Fonts"
+          },
+          "coords": [
+            0.287287,
+            40.252623
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Süßwasserquellen, die direkt aus dem Sand ins Meer sprudeln, ein faszinierendes Naturphänomen, das bei Ebbe am besten sichtbar ist.",
+            "hu": "Csodálja meg a közvetlenül a homokból a tengerbe bugyogó egyedi édesvizű forrásokat, amely rendkívüli természeti jelenséget apálykor a legérdemesebb megfigyelni.",
+            "ro": "Minunați-vă de izvoarele unice de apă dulce care curg direct din nisip în mare, un fenomen natural extraordinar, care se observă cel mai bine la reflux.",
+            "en": "Marvel at the unique freshwater springs bubbling directly from the sand into the sea, an extraordinary natural phenomenon best observed at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Carregador",
+            "hu": "Platja del Carregador",
+            "ro": "Platja del Carregador",
+            "en": "Platja del Carregador"
+          },
+          "coords": [
+            0.27601,
+            40.240894
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen, goldenen Sand dieses weitläufigen zentralen Strandes, und ein frühes Kommen sichert Ihnen einen Platz am klaren, flachen Wasser.",
+            "hu": "Süllyessze lábujjait a hatalmas központi strand finom, aranyhomokjába, és az időben érkezés garantálja a legjobb helyet a tiszta, sekély víz partján.",
+            "ro": "Simțiți nisipul fin și auriu al acestei vaste plaje centrale, iar sosirea devreme vă garantează un loc în primul rând lângă apele limpezi și puțin adânci.",
+            "en": "Sink your toes into the fine, golden sands of this expansive central beach, and arriving early ensures a front-row spot near the clear, shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Roca del Moro",
+            "hu": "Mirador de la Roca del Moro",
+            "ro": "Mirador de la Roca del Moro",
+            "en": "Mirador de la Roca del Moro"
+          },
+          "coords": [
+            0.272414,
+            40.228659
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Panoramablick auf die Mittelmeerküste von diesem erhöhten Felsenaussichtspunkt, den Sie am besten bei Rückenlicht fotografieren.",
+            "hu": "Csodálja meg a Földközi-tenger partvidékének lélegzetelállító panorámáját erről a magaslati sziklakilátóról, amelyet a hátulról érkező fényben a legjobb fotózni.",
+            "ro": "Admirați vederile panoramice uluitoare ale coastei mediteraneene de pe acest punct de observare stâncos, cel mai bine de fotografiat când soarele e în spate.",
+            "en": "Admire the breathtaking panoramic vistas of the Mediterranean coastline from this elevated rock viewpoint, best photographed when the sun is behind you."
+          }
+        },
+        {
+          "name": {
+            "de": "les Tres Platges",
+            "hu": "les Tres Platges",
+            "ro": "les Tres Platges",
+            "en": "les Tres Platges"
+          },
+          "coords": [
+            0.271266,
+            40.225365
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen drei aufeinanderfolgenden kleinen, ruhigen Stränden, aber bringen Sie eine feste Matte mit, da der Boden Sand und Kiesel mischt.",
+            "hu": "Kapcsolódjon ki ezen a három egymást követő apró, csendes, sziklák által védett strandon, és hozzon masszív gyékényt, mert a talaj homokos és kavicsos.",
+            "ro": "Relaxați-vă la această serie de trei mici plaje liniștite, adăpostite de stânci, dar aduceți o saltea solidă, deoarece terenul îmbină nisipul și pietrișul.",
+            "en": "Unwind at this series of three consecutive small, tranquil beaches sheltered by rocks, bringing a sturdy mat since the terrain blends sand and pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Landesinneren mit einer Fahrt zur Capelleta de Sant Benet, um die ruhige Atmosphäre und den Panoramablick zu genießen.\nFahren Sie eine kurze Strecke, um die antiken iberischen Ruinen des Jaciment Arqueològic zu erkunden und in die reiche Geschichte einzutauchen.\nFahren Sie zur Küste, parken Sie an der Platja de les Fonts und entspannen Sie sich dann an den weiten Stränden der Platja del Carregador.\nBeenden Sie Ihre Tour am Mirador und den Tres Platges und genießen Sie einen friedlichen Spaziergang entlang der felsigen, geschützten Ufer.",
+        "hu": "Kezdje a napot a szárazföld belsejében, a Capelleta de Sant Benet kápolnánál, élvezve a dombról nyíló békés panorámát a reggeli órákban.\nVezessen egy rövid távot a Jaciment Arqueològic ókori ibériai romjainak felfedezéséhez, elmerülve a régió gazdag és lenyűgöző történelmében.\nEreszkedjen le a partra, parkoljon le a Platja de les Fonts közelében, majd pihenjen a Platja del Carregador hatalmas, aranyló homokján.\nFejezze be autós túráját a Miradornál és a les Tres Platges strandjain, egy nyugodt késő délutáni sétát téve a sziklás, védett partokon.",
+        "ro": "Începeți în interiorul țării cu o plimbare până la Capelleta de Sant Benet, bucurându-vă de atmosfera senină și de priveliștile de pe deal.\nConduceți pe o distanță scurtă pentru a explora ruinele iberice antice la Jaciment Arqueològic, scufundându-vă în istoria bogată a regiunii.\nCoborâți spre coastă, parcând lângă Platja de les Fonts pentru a vedea izvoarele, apoi relaxați-vă pe nisipurile vaste ale Platja del Carregador.\nTerminați turul cu mașina la Mirador și les Tres Platges, bucurându-vă de o plimbare pașnică de după-amiază pe țărmurile stâncoase și adăpostite.",
+        "en": "Begin inland with a drive up to the Capelleta de Sant Benet, embracing the serene morning atmosphere and panoramic views from the hill.\nDrive just a short distance to explore the ancient Iberian ruins at the Jaciment Arqueològic, diving deep into the region's rich history.\nHead down to the coast, parking near Platja de les Fonts to see the springs, then relax on the expansive sands of Platja del Carregador.\nFinish your driving tour at the Mirador and les Tres Platges, enjoying a peaceful late afternoon walk along the rocky, sheltered shores."
+      }
+    }
+  }
+}

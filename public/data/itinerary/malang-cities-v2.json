@@ -1,0 +1,497 @@
+{
+  "city_id": "malang-cities-v2",
+  "anchor": {
+    "name": "Malang",
+    "coords": [
+      112.631,
+      -7.966
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alun-Alun Bundar Malang",
+            "hu": "Alun-Alun Bundar Malang",
+            "ro": "Alun-Alun Bundar Malang",
+            "en": "Alun-Alun Bundar Malang"
+          },
+          "coords": [
+            112.634038,
+            -7.97715
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen kreisförmigen Park, ein Symbol kolonialer Stadtplanung, und kommen Sie früh, um die kühle Morgenbrise zu genießen.",
+            "hu": "Sétáljon egyet ebben a kör alakú parkban, amely a gyarmati várostervezés szimbóluma, és érkezzen korán a hűvös reggeli szellőért.",
+            "ro": "Plimbați-vă prin acest parc circular, un simbol al urbanismului colonial, și ajungeți devreme pentru a vă bucura de briza răcoroasă a dimineții.",
+            "en": "Stroll around this central circular park, a symbol of colonial urban planning, and arrive early to enjoy the cooler morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Patung Tank Tentara",
+            "hu": "Patung Tank Tentara",
+            "ro": "Patung Tank Tentara",
+            "en": "Patung Tank Tentara"
+          },
+          "coords": [
+            112.636707,
+            -7.977791
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Panzerdenkmal, das an den indonesischen Unabhängigkeitskampf erinnert, am besten von der Ostseite fotografiert.",
+            "hu": "Csodálja meg ezt a történelmi tankemlékművet, amely az indonéz függetlenségi harcnak állít emléket, és amelyet a keleti oldalról a legjobb fotózni.",
+            "ro": "Admirați acest monument istoric cu tanc care comemorează lupta pentru independență a Indoneziei, cel mai bine fotografiat din partea de est.",
+            "en": "Admire this historical tank monument commemorating Indonesia's independence struggle, best photographed from the east side."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Inggil",
+            "hu": "Museum Inggil",
+            "ro": "Museum Inggil",
+            "en": "Museum Inggil"
+          },
+          "coords": [
+            112.634832,
+            -7.978779
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesige Sammlung javanischer Antiquitäten und Schattenspielfiguren und verpassen Sie nicht die traditionellen Masken im Obergeschoss.",
+            "hu": "Fedezze fel a jávai régiségek és árnyékbábok hatalmas gyűjteményét, és semmiképp se hagyja ki a hagyományos maszkokat a felső szinten.",
+            "ro": "Explorați colecția vastă de antichități javaneze și marionete de umbre și nu ratați măștile tradiționale expuse la etajul superior.",
+            "en": "Explore the vast collection of Javanese antiquities and shadow puppets here, and don't miss the traditional mask exhibits on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Galery Nja' Abbas Akub",
+            "hu": "Galery Nja' Abbas Akub",
+            "ro": "Galery Nja' Abbas Akub",
+            "en": "Galery Nja' Abbas Akub"
+          },
+          "coords": [
+            112.628563,
+            -7.979819
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine intime Sammlung lokaler Kunst und historischer Artefakte, aber beachten Sie, dass die Räume klein sind und langsam erkundet werden sollten.",
+            "hu": "Fedezzen fel egy meghitt helyi művészeti és történelmi gyűjteményt, de vegye figyelembe, hogy a terek kicsik, ezért lassan haladjon.",
+            "ro": "Descoperiți o colecție intimă de artă locală și artefacte istorice, dar rețineți că spațiile sunt mici, așa că explorați într-un ritm lent.",
+            "en": "Discover an intimate collection of local art and historical artifacts, but note that the gallery spaces are small so explore at a slow pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Malang Stoomtram Maatschappij",
+            "hu": "Malang Stoomtram Maatschappij",
+            "ro": "Malang Stoomtram Maatschappij",
+            "en": "Malang Stoomtram Maatschappij"
+          },
+          "coords": [
+            112.630355,
+            -7.981915
+          ],
+          "category": "museum",
+          "arrive_at": "15:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lernen Sie Malangs koloniale Eisenbahngeschichte durch erhaltene Dampfstraßenbahnmodelle kennen und bitten Sie den Kurator um eine Vorführung der alten Signale.",
+            "hu": "Ismerje meg Malang gyarmati vasúti történelmét a megőrzött gőzvamos modelleken keresztül, és kérje meg a kurátort a régi jelzők bemutatására.",
+            "ro": "Aflați despre istoria feroviară colonială a orașului Malang prin modelele de tramvaie cu aburi și cereți curatorului o demonstrație a semnalelor vechi.",
+            "en": "Learn about Malang's colonial railway history through preserved steam tram models, and ask the curator for a demonstration of the old signals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem erfrischenden Morgen im runden Alun-Alun-Park und genießen Sie das kühle Klima Malangs.\n\nDer Mittag bringt Sie am Panzerdenkmal mit der Unabhängigkeitsgeschichte und im Museum Inggil mit reichen kulturellen Artefakten in Berührung.\n\nVerbringen Sie Ihren Nachmittag damit, zur bezaubernden lokalen Galerie Nja' Abbas Akub zu schlendern.\n\nBeenden Sie den Tag, indem Sie im Stoomtram-Museum in das koloniale Eisenbahnerbe der Stadt eintauchen.",
+        "hu": "Kezdje egy frissítő reggellel a kör alakú Alun-Alun parkban, élvezve Malang hűvös éghajlatát.\n\nDélben szembesülhet a függetlenség történelmével a tankemlékműnél és az Inggil Múzeum gazdag kulturális tárgyaival.\n\nTöltse a délutánt azzal, hogy átsétál a hangulatos helyi Nja' Abbas Akub galériába.\n\nZárja a napot a város gyarmati vasúti örökségének felfedezésével a Stoomtram múzeumban.",
+        "ro": "Începeți cu o dimineață răcoroasă în parcul circular Alun-Alun, bucurându-vă de climatul plăcut al orașului Malang.\n\nLa prânz veți descoperi istoria independenței la monumentul tancului și artefactele culturale bogate ale Muzeului Inggil.\n\nPetreceți-vă după-amiaza plimbându-vă spre fermecătoarea galerie locală Nja' Abbas Akub.\n\nÎncheiați ziua scufundându-vă în moștenirea feroviară colonială a orașului la muzeul Stoomtram.",
+        "en": "Start with a refreshing morning at the circular Alun-Alun park, embracing Malang's cool climate.\n\nMidday brings you face-to-face with independence history at the tank monument and the rich cultural artifacts of Museum Inggil.\n\nSpend your afternoon wandering to the charming local gallery of Nja' Abbas Akub.\n\nEnd the day diving into the city's colonial railway heritage at the Stoomtram museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:33",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Candi Ketawanggede",
+            "hu": "Candi Ketawanggede",
+            "ro": "Candi Ketawanggede",
+            "en": "Candi Ketawanggede"
+          },
+          "coords": [
+            112.612353,
+            -7.946843
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das kunstvolle Mauerwerk dieser alten hinduistischen Tempelruine und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Vizsgálja meg ezen ősi hindu templomrom bonyolult kőfaragásait, és viseljen kényelmes cipőt az egyenetlen környező terep miatt.",
+            "ro": "Examinați piatra complexă a acestei ruine antice de templu hindus și purtați încălțăminte confortabilă pentru a naviga pe terenul denivelat.",
+            "en": "Examine the intricate stonework of this ancient Hindu temple ruin, and wear comfortable shoes to navigate the slightly uneven surrounding grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Universitas Negeri Malang",
+            "hu": "Museum Universitas Negeri Malang",
+            "ro": "Museum Universitas Negeri Malang",
+            "en": "Museum Universitas Negeri Malang"
+          },
+          "coords": [
+            112.618824,
+            -7.963394
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Bildungsgeschichte von Malang in diesem Universitätsmuseum, das hervorragende englische Broschüren am Schalter anbietet.",
+            "hu": "Fedezze fel Malang oktatási történetét ebben az egyetemi múzeumban, amely kiváló angol nyelvű prospektusokat kínál a pultnál.",
+            "ro": "Descoperiți istoria educațională a orașului Malang în acest muzeu universitar, care oferă broșuri excelente în engleză la birou.",
+            "en": "Discover the educational history and academic achievements of Malang in this university museum, which offers excellent English brochures at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Brawijaya",
+            "hu": "Museum Brawijaya",
+            "ro": "Museum Brawijaya",
+            "en": "Museum Brawijaya"
+          },
+          "coords": [
+            112.620804,
+            -7.971974
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich den 'Todeswagen' und militärische Artefakte aus dem Unabhängigkeitskrieg an und planen Sie Zeit für die Außenanlagen ein.",
+            "hu": "Tekintse meg a 'Halálvagont' és a függetlenségi háború katonai tárgyait, extra időt szánva a szabadtéri udvari kiállításokra.",
+            "ro": "Vedeți 'Vagonul Morții' și artefacte militare din războiul de independență, alocând timp suplimentar pentru expozițiile din curtea exterioară.",
+            "en": "View the 'Gerbong Maut' (Death Carriage) and military artifacts from the independence war, allocating extra time for the outdoor courtyard displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Alun-Alun Bundar Malang",
+            "hu": "Alun-Alun Bundar Malang",
+            "ro": "Alun-Alun Bundar Malang",
+            "en": "Alun-Alun Bundar Malang"
+          },
+          "coords": [
+            112.634038,
+            -7.97715
+          ],
+          "category": "park",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in diesem kreisförmigen Park, der das koloniale Erbe der Stadt widerspiegelt, und probieren Sie Snacks von den umliegenden Verkäufern.",
+            "hu": "Tartson szünetet ebben a város gyarmati örökségét tükröző kör alakú parkban, és kóstoljon meg néhány harapnivalót a környékbeli árusoktól.",
+            "ro": "Luați o pauză în acest parc circular care reflectă moștenirea colonială a orașului și gustați gustări de la vânzătorii din jur.",
+            "en": "Take a well-deserved rest at this central circular park reflecting the city's colonial heritage, and try some local snacks from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Inggil",
+            "hu": "Museum Inggil",
+            "ro": "Museum Inggil",
+            "en": "Museum Inggil"
+          },
+          "coords": [
+            112.634832,
+            -7.978779
+          ],
+          "category": "museum",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesige Sammlung javanischer Antiquitäten und Schattenspielfiguren und verpassen Sie nicht die traditionellen Masken im Obergeschoss.",
+            "hu": "Fedezze fel a jávai régiségek és árnyékbábok hatalmas gyűjteményét, és semmiképp se hagyja ki a hagyományos maszkokat a felső szinten.",
+            "ro": "Explorați colecția vastă de antichități javaneze și marionete de umbre și nu ratați măștile tradiționale expuse la etajul superior.",
+            "en": "Explore the vast collection of Javanese antiquities and shadow puppets here, and don't miss the traditional mask exhibits on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Musik Indonesia",
+            "hu": "Museum Musik Indonesia",
+            "ro": "Museum Musik Indonesia",
+            "en": "Museum Musik Indonesia"
+          },
+          "coords": [
+            112.626664,
+            -7.988334
+          ],
+          "category": "museum",
+          "arrive_at": "17:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stöbern Sie in Tausenden von Vintage-Schallplatten und suchen Sie nach interaktiven Hörstationen, um klassischen lokalen Pop zu erleben.",
+            "hu": "Böngésszen több ezer régi lemez között, és keresse az interaktív hallgatóállomásokat, hogy megtapasztalja a klasszikus helyi popzenét.",
+            "ro": "Răsfoiți mii de discuri vintage și căutați stațiile interactive de ascultare pentru a experimenta muzica pop locală clasică.",
+            "en": "Browse thousands of vintage Indonesian and international records, and look for the interactive listening stations to experience classic local pop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zu den antiken Ruinen von Candi Ketawanggede, bevor Sie das akademische Erbe im Universitätsmuseum erkunden.\n\nDer Mittag ist für die militärische Geschichte in Brawijaya und eine entspannende Pause am Alun-Alun reserviert.\n\nWenn der Nachmittag in den Abend übergeht, tauchen Sie bei Inggil in javanische Antiquitäten ein.\n\nBeenden Sie die Tour mit wunderbaren Vintage-Melodien im einzigartigen Musikmuseum der Stadt.",
+        "hu": "Tekerjen el a nap kezdetén a Candi Ketawanggede ősi romjaihoz, mielőtt felfedezné az akadémiai örökséget az egyetemi múzeumban.\n\nA dél a Brawijaya katonai történelmének és az Alun-Alun parkban tett pihentető szünetnek van fenntartva.\n\nAhogy a délután estébe hajlik, merüljön el a jávai régiségekben az Inggilnél.\n\nZárja a túrát csodálatos vintage dallamokkal a város egyedülálló Zenei Múzeumában.",
+        "ro": "Pedalați la începutul zilei la ruinele antice Candi Ketawanggede înainte de a explora moștenirea academică la muzeul universitar.\n\nPrânzul este rezervat istoriei militare de la Brawijaya și unei pauze relaxante la Alun-Alun.\n\nPe măsură ce după-amiaza se transformă în seară, cufundați-vă în antichitățile javaneze la Inggil.\n\nÎncheiați turul cu melodii vintage minunate la unicul Muzeu al Muzicii din oraș.",
+        "en": "Pedal off your day at the ancient ruins of Candi Ketawanggede before exploring the academic heritage at the university museum.\n\nMidday is reserved for the stark military history at Brawijaya and a relaxing break at Alun-Alun.\n\nAs afternoon turns to evening, immerse yourself in Javanese antiquities at Inggil.\n\nFinish the tour with wonderful vintage tunes at the city's unique Music Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:40",
+      "total_km": 9.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Candi Ketawanggede",
+            "hu": "Candi Ketawanggede",
+            "ro": "Candi Ketawanggede",
+            "en": "Candi Ketawanggede"
+          },
+          "coords": [
+            112.612353,
+            -7.946843
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das kunstvolle Mauerwerk dieser alten hinduistischen Tempelruine und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Vizsgálja meg ezen ősi hindu templomrom bonyolult kőfaragásait, és viseljen kényelmes cipőt az egyenetlen környező terep miatt.",
+            "ro": "Examinați piatra complexă a acestei ruine antice de templu hindus și purtați încălțăminte confortabilă pentru a naviga pe terenul denivelat.",
+            "en": "Examine the intricate stonework of this ancient Hindu temple ruin, and wear comfortable shoes to navigate the slightly uneven surrounding grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Haji Muhammad Sattar (MHMS)",
+            "hu": "Museum Haji Muhammad Sattar (MHMS)",
+            "ro": "Museum Haji Muhammad Sattar (MHMS)",
+            "en": "Museum Haji Muhammad Sattar (MHMS)"
+          },
+          "coords": [
+            112.615486,
+            -7.957004
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese private Sammlung, die Malangs Erbe zeigt, und respektieren Sie die ruhige Atmosphäre dieses sehr persönlichen Museums.",
+            "hu": "Fedezze fel ezt a Malang örökségét bemutató magángyűjteményt, és tartsa tiszteletben ennek a személyes múzeumnak a csendes légkörét.",
+            "ro": "Explorați această colecție privată ce prezintă moștenirea locală din Malang și respectați atmosfera liniștită a acestui muzeu personal.",
+            "en": "Explore this private collection showcasing Malang's local heritage, and make sure to respect the quiet atmosphere as it is a deeply personal museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Reenactor Ngalam",
+            "hu": "Museum Reenactor Ngalam",
+            "ro": "Museum Reenactor Ngalam",
+            "en": "Museum Reenactor Ngalam"
+          },
+          "coords": [
+            112.608049,
+            -7.954844
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie Geschichte durch interaktive Militärausstellungen und überprüfen Sie den Wochenendplan für Live-Nachstellungen.",
+            "hu": "Tapasztalja meg a megelevenedett történelmet az interaktív katonai kiállításokon, és ellenőrizze a hétvégi bemutatók menetrendjét.",
+            "ro": "Experimentați istoria adusă la viață prin expoziții militare interactive și verificați programul de weekend pentru reconstituiri live.",
+            "en": "Experience history brought to life through interactive military exhibits, and check their weekend schedule for live reenactment performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Brawijaya",
+            "hu": "Museum Brawijaya",
+            "ro": "Museum Brawijaya",
+            "en": "Museum Brawijaya"
+          },
+          "coords": [
+            112.620804,
+            -7.971974
+          ],
+          "category": "museum",
+          "arrive_at": "14:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich den 'Todeswagen' und militärische Artefakte aus dem Unabhängigkeitskrieg an und planen Sie Zeit für die Außenanlagen ein.",
+            "hu": "Tekintse meg a 'Halálvagont' és a függetlenségi háború katonai tárgyait, extra időt szánva a szabadtéri udvari kiállításokra.",
+            "ro": "Vedeți 'Vagonul Morții' și artefacte militare din războiul de independență, alocând timp suplimentar pentru expozițiile din curtea exterioară.",
+            "en": "View the 'Gerbong Maut' (Death Carriage) and military artifacts from the independence war, allocating extra time for the outdoor courtyard displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Alun-Alun Bundar Malang",
+            "hu": "Alun-Alun Bundar Malang",
+            "ro": "Alun-Alun Bundar Malang",
+            "en": "Alun-Alun Bundar Malang"
+          },
+          "coords": [
+            112.634038,
+            -7.97715
+          ],
+          "category": "park",
+          "arrive_at": "15:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in diesem kreisförmigen Park, der das koloniale Erbe der Stadt widerspiegelt, und probieren Sie Snacks von den umliegenden Verkäufern.",
+            "hu": "Tartson szünetet ebben a város gyarmati örökségét tükröző kör alakú parkban, és kóstoljon meg néhány harapnivalót a környékbeli árusoktól.",
+            "ro": "Luați o pauză în acest parc circular care reflectă moștenirea colonială a orașului și gustați gustări de la vânzătorii din jur.",
+            "en": "Take a well-deserved rest at this central circular park reflecting the city's colonial heritage, and try some local snacks from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Malang Stoomtram Maatschappij",
+            "hu": "Malang Stoomtram Maatschappij",
+            "ro": "Malang Stoomtram Maatschappij",
+            "en": "Malang Stoomtram Maatschappij"
+          },
+          "coords": [
+            112.630355,
+            -7.981915
+          ],
+          "category": "museum",
+          "arrive_at": "17:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lernen Sie Malangs koloniale Eisenbahngeschichte durch erhaltene Dampfstraßenbahnmodelle kennen und bitten Sie den Kurator um eine Vorführung der alten Signale.",
+            "hu": "Ismerje meg Malang gyarmati vasúti történelmét a megőrzött gőzvamos modelleken keresztül, és kérje meg a kurátort a régi jelzők bemutatására.",
+            "ro": "Aflați despre istoria feroviară colonială a orașului Malang prin modelele de tramvaie cu aburi și cereți curatorului o demonstrație a semnalelor vechi.",
+            "en": "Learn about Malang's colonial railway history through preserved steam tram models, and ask the curator for a demonstration of the old signals."
+          }
+        },
+        {
+          "name": {
+            "de": "GKT Jemaat 1",
+            "hu": "GKT Jemaat 1",
+            "ro": "GKT Jemaat 1",
+            "en": "GKT Jemaat 1"
+          },
+          "coords": [
+            112.631045,
+            -7.990969
+          ],
+          "category": "religious",
+          "arrive_at": "18:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser lokalen Kirche und nehmen Sie Rücksicht auf Gottesdienste an Sonn- und Feiertagen.",
+            "hu": "Értékelje ennek a kiemelkedő helyi templomnak a békés építészetét, és legyen tekintettel a folyamatban lévő istentiszteletekre vasárnaponként.",
+            "ro": "Apreciați arhitectura pașnică a acestei biserici locale proeminente și fiți atenți la slujbele în curs dacă vizitați duminica.",
+            "en": "Appreciate the peaceful architecture of this prominent local church, and be mindful of ongoing services if you visit on a Sunday or holiday."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Musik Indonesia",
+            "hu": "Museum Musik Indonesia",
+            "ro": "Museum Musik Indonesia",
+            "en": "Museum Musik Indonesia"
+          },
+          "coords": [
+            112.626664,
+            -7.988334
+          ],
+          "category": "museum",
+          "arrive_at": "19:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie in Tausenden von Vintage-Schallplatten und suchen Sie nach interaktiven Hörstationen, um klassischen lokalen Pop zu erleben.",
+            "hu": "Böngésszen több ezer régi lemez között, és keresse az interaktív hallgatóállomásokat, hogy megtapasztalja a klasszikus helyi popzenét.",
+            "ro": "Răsfoiți mii de discuri vintage și căutați stațiile interactive de ascultare pentru a experimenta muzica pop locală clasică.",
+            "en": "Browse thousands of vintage Indonesian and international records, and look for the interactive listening stations to experience classic local pop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Norden mit der alten Geschichte von Ketawanggede und verlagert sich dann zum intimen lokalen Erbe im Sattar- und Reenactor-Museum.\n\nDer Mittag bietet die bekannten militärischen Ausstellungen von Brawijaya und einen entspannten Aufenthalt am berühmten Alun-Alun.\n\nEntdecken Sie am Nachmittag die kolonialen Straßenbahnen und die friedliche Kirchenarchitektur der Stadt.\n\nDer Tag endet melodisch mit einer Reise durch die Zeit im einzigartigen Musikmuseum.",
+        "hu": "Az utazás északon, Ketawanggede ősi történelmével kezdődik, majd a Sattar és a Reenactor múzeumok meghitt helyi örökségével folytatódik.\n\nA dél a Brawijaya ismert katonai kiállításait és az ikonikus Alun-Alun parkban tett pihentető látogatást kínálja.\n\nDélután fedezze fel a gyarmati villamosokat és a város békés templomi építészetét.\n\nA nap dallamosan zárul a páratlan Zenei Múzeum időutazásával.",
+        "ro": "Conducerea începe în nord cu istoria antică a Ketawanggede, trecând la moștenirea locală intimă la muzeele Sattar și Reenactor.\n\nPrânzul prezintă renumitele expoziții militare Brawijaya și o ședere relaxantă la iconicul Alun-Alun.\n\nDupă-amiaza, descoperiți tramvaiele coloniale și arhitectura pașnică a bisericii din oraș.\n\nZiua se încheie melodic cu o călătorie în timp la unicul Muzeu al Muzicii.",
+        "en": "Your drive begins in the north with the ancient history of Ketawanggede, moving to intimate local heritage at the Sattar and Reenactor museums.\n\nMidday features the renowned Brawijaya military exhibits and a relaxing stay at the iconic Alun-Alun.\n\nIn the afternoon, discover the colonial trams and the city's peaceful church architecture.\n\nThe day concludes melodically with a trip through time at the unique Music Museum."
+      }
+    }
+  }
+}

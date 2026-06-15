@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-bibione-pineda-cities-v2",
+  "anchor": {
+    "name": "Bibione Pineda",
+    "coords": [
+      13.00385,
+      45.63256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 1.08,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            13.004747,
+            45.630145
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser ruhigen katholischen Kirche, die eine friedliche Flucht vor den Stränden bietet, und prüfen Sie die Tafel auf Abendkonzerte.",
+            "hu": "Csodálja meg a modern építészetet ebben a békés katolikus templomban, amely nyugodt menedéket nyújt a strandoktól, és figyelje a hirdetőtáblát az esti koncertekért.",
+            "ro": "Admirați arhitectura modernă a acestei biserici catolice senine, o evadare liniștită de pe plajele aglomerate, și verificați panoul pentru concertele de seară.",
+            "en": "Admire the modern architecture of this serene Catholic church, providing a peaceful escape from the busy beaches, and check the notice board for evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Settore 1",
+            "hu": "Settore 1",
+            "ro": "Settore 1",
+            "en": "Settore 1"
+          },
+          "coords": [
+            13.001907,
+            45.62792
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses organisierten Strandabschnitts, perfekt für ein morgendliches Bad, aber kommen Sie früh, um eine Liege nah am Wasser zu sichern.",
+            "hu": "Élvezze a szervezett strandszakasz érintetlen aranyhomokját, amely tökéletes egy reggeli úszáshoz, de érkezzen korán, hogy jó napágyat szerezzen a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu din acest sector de plajă organizat, perfect pentru o înot de dimineață, dar ajungeți devreme pentru un șezlong bun aproape de apă.",
+            "en": "Enjoy the pristine golden sands of this organized beach sector, perfect for a refreshing morning swim, but be sure to arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Settore 2",
+            "hu": "Settore 2",
+            "ro": "Settore 2",
+            "en": "Settore 2"
+          },
+          "coords": [
+            13.000179,
+            45.627696
+          ],
+          "category": "recreational",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem familienfreundlichen Küstenabschnitt mit flachem Wasser, ideal zum Waten, und mieten Sie einen Sonnenschirm für einen längeren Nachmittag.",
+            "hu": "Sétáljon ezen a családbarát partszakaszon, ahol a sekély víz ideális a pancsoláshoz, és ne felejtsen el napernyőt bérelni egy hosszabb délutáni tartózkodáshoz.",
+            "ro": "Plimbați-vă pe această porțiune de coastă potrivită pentru familii, cu ape puțin adânci, și nu uitați să închiriați o umbrelă dacă plănuiți o ședere mai lungă.",
+            "en": "Stroll along this family-friendly stretch of the coast, featuring shallow waters ideal for wading, and don't forget to rent a parasol if you plan a longer afternoon stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Pineda A",
+            "hu": "Pineda A",
+            "ro": "Pineda A",
+            "en": "Pineda A"
+          },
+          "coords": [
+            12.998844,
+            45.627748
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Strandbereich, umgeben von wunderschönen Pinien, die natürlichen Schatten spenden, ideal für ein ruhiges Picknick am Meer.",
+            "hu": "Pihenjen ezen a csendes tengerparti részen, amelyet gyönyörű fenyőfák vesznek körül, természetes árnyékot adva, ami tökéletes helyszín egy békés piknikhez.",
+            "ro": "Relaxați-vă pe această plajă liniștită înconjurată de pini frumoși ce oferă umbră naturală, fiind un loc foarte recomandat pentru un picnic liniștit pe litoral.",
+            "en": "Relax at this tranquil beachfront area surrounded by beautiful pine trees providing natural shade, making it a highly recommended spot for a quiet seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Seven Beach",
+            "hu": "Seven Beach",
+            "ro": "Seven Beach",
+            "en": "Seven Beach"
+          },
+          "coords": [
+            12.996183,
+            45.627585
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses beliebten Strandclubs, bekannt für hervorragende Küstenanlagen, buchen Sie daher im Voraus eine stilvolle Cabana.",
+            "hu": "Tapasztalja meg ennek a népszerű strandklubnak a vibráló atmoszféráját, amely kiváló felszereltségekről ismert, így érdemes előre lefoglalni egy elegáns sátrat.",
+            "ro": "Experimentați atmosfera vibrantă a acestui club de plajă popular, cunoscut pentru facilitățile sale excelente, așa că luați în considerare rezervarea unei cabane din timp.",
+            "en": "Experience the vibrant atmosphere of this popular beach club, known for its excellent coastal amenities, so consider booking a stylish cabana ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre open air",
+            "hu": "Theatre open air",
+            "ro": "Theatre open air",
+            "en": "Theatre open air"
+          },
+          "coords": [
+            12.992627,
+            45.627399
+          ],
+          "category": "cultural",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen charmanten Veranstaltungsort im Freien im Grünen, wo lokale Kulturevents stattfinden, prüfen Sie den Zeitplan für abendliche Theatershows.",
+            "hu": "Fedezze fel ezt a zöld növényzetben megbúvó bájos szabadtéri színpadot, ahol helyi kulturális eseményeket tartanak, ezért érdemes megnézni az esti műsorok kínálatát.",
+            "ro": "Descoperiți acest spațiu fermecător de spectacole în aer liber ascuns printre verdeață, unde au loc evenimente culturale, verificați programul pentru spectacole de seară.",
+            "en": "Discover this charming outdoor performance space nestled among the greenery, where local cultural events take place, so check the schedule for twilight theatrical shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem friedlichen Besuch der Chiesa di Sant'Antonio, bevor Sie zum Sand des Settore 1 für einen Morgenspaziergang und ein Bad aufbrechen. Mittags geht es weiter entlang der Küste zu Settore 2 und Pineda A, um die warme Sonne und den Schatten der Pinien zu genießen. Der Nachmittag führt Sie zum Seven Beach, wo Sie die lebhafte Strandclub-Atmosphäre erleben. Beenden Sie die Tour am Freilufttheater, einem charmanten kulturellen Ort in der Natur, perfekt für einen entspannten Abschluss.",
+        "hu": "Kezdje a napot egy békés látogatással a Chiesa di Sant'Antonio-ban, majd induljon a Settore 1 homokos partjára egy reggeli sétára és egy frissítő csobbanásra. Délben folytassa útját a gyönyörű tengerparton a Settore 2 és Pineda A felé, élvezve a meleg napsütést és a parti fenyők árnyékát. Délután a séta a Seven Beach-hez vezet, ahol megtapasztalhatja az élénk strandklub hangulatát. Zárja a gyalogos túrát a szabadtéri színházban, egy bájos, természettel körülvett kulturális helyszínen.",
+        "ro": "Începeți ziua cu o vizită liniștită la Chiesa di Sant'Antonio, înainte de a vă îndrepta spre nisipurile de la Settore 1 pentru o plimbare de dimineață. La prânz, continuați de-a lungul coastei spre Settore 2 și Pineda A, bucurându-vă de soarele cald și de umbra pinilor. După-amiaza, plimbarea vă duce la Seven Beach, unde puteți experimenta atmosfera plină de viață a clubului. Încheiați-vă turul la teatrul în aer liber, un loc cultural fermecător înconjurat de natură.",
+        "en": "Start your day with a peaceful visit to Chiesa di Sant'Antonio, before heading to the pristine sands of Settore 1 for a morning stroll and refreshing dip. Midday brings you along the beautiful Bibione Pineda coastline to Settore 2 and Pineda A, taking time to enjoy the warm sun and the shade of coastal pine trees. Your afternoon leads to Seven Beach to experience the lively beach club atmosphere. Conclude your tour at the open-air theatre, a charming cultural spot perfectly surrounded by nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa Santi Pietro e Paolo",
+            "hu": "Chiesa Santi Pietro e Paolo",
+            "ro": "Chiesa Santi Pietro e Paolo",
+            "en": "Chiesa Santi Pietro e Paolo"
+          },
+          "coords": [
+            13.026528,
+            45.633283
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einladende Pfarrkirche näher am Stadtzentrum für einen ruhigen Moment der Besinnung und kleiden Sie sich beim Betreten respektvoll mit bedeckten Schultern.",
+            "hu": "Látogasson el ebbe a barátságos plébániatemplomba, amely közelebb található a városközponthoz, csendes elmélkedést kínálva, és a belépésnél takarja el a vállait.",
+            "ro": "Vizitați această biserică parohială primitoare situată mai aproape de centrul orașului, oferind un moment de reflecție, și îmbrăcați-vă respectuos, acoperindu-vă umerii.",
+            "en": "Visit this welcoming parish church situated closer to the town center, offering a quiet moment of reflection, and dress respectfully with shoulders covered when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+          },
+          "coords": [
+            13.025535,
+            45.630764
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Nutzen Sie die hervorragenden Sporteinrichtungen an diesem gut ausgestatteten Strandabschnitt mit Volleyballplätzen und Duschen, ideal für aktive Reisende.",
+            "hu": "Használja ki ennek a jól felszerelt strandszakasznak a kiváló sportolási lehetőségeit, ahol röplabdapályák és zuhanyzók is találhatók, ami ideális aktív utazóknak.",
+            "ro": "Profitați de facilitățile sportive excelente la acest sector de plajă bine echipat, cu terenuri de volei și dușuri, perfect pentru un călător activ.",
+            "en": "Take advantage of the excellent sporting facilities at this well-equipped beach sector, offering volleyball courts and showers, making it perfect for active travelers."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro",
+            "hu": "Teatro",
+            "ro": "Teatro",
+            "en": "Teatro"
+          },
+          "coords": [
+            13.018617,
+            45.631201
+          ],
+          "category": "cultural",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kunstszene an diesem speziellen Indoor-Theater ein, das eine Vielzahl lebendiger Aufführungen bietet, und holen Sie sich ein Programmheft am Eingang.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a fedett színházban, amely változatos és élénk előadásoknak ad otthont, és vigyen egy műsorfüzetet a bejáratnál.",
+            "ro": "Cufundați-vă în scena artistică locală la acest teatru interior, care găzduiește o varietate de spectacole vibrante, și luați o broșură cu programul de la intrare.",
+            "en": "Immerse yourself in the local arts scene at this dedicated indoor theater venue, hosting a variety of vibrant performances, and grab a program booklet at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            13.004747,
+            45.630145
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser ruhigen katholischen Kirche, die eine friedliche Flucht vor den Stränden bietet, und prüfen Sie die Tafel auf Abendkonzerte.",
+            "hu": "Csodálja meg a modern építészetet ebben a békés katolikus templomban, amely nyugodt menedéket nyújt a strandoktól, és figyelje a hirdetőtáblát az esti koncertekért.",
+            "ro": "Admirați arhitectura modernă a acestei biserici catolice senine, o evadare liniștită de pe plajele aglomerate, și verificați panoul pentru concertele de seară.",
+            "en": "Admire the modern architecture of this serene Catholic church, providing a peaceful escape from the busy beaches, and check the notice board for evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Settore 1",
+            "hu": "Settore 1",
+            "ro": "Settore 1",
+            "en": "Settore 1"
+          },
+          "coords": [
+            13.001907,
+            45.62792
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses organisierten Strandabschnitts, perfekt für ein morgendliches Bad, aber kommen Sie früh, um eine Liege nah am Wasser zu sichern.",
+            "hu": "Élvezze a szervezett strandszakasz érintetlen aranyhomokját, amely tökéletes egy reggeli úszáshoz, de érkezzen korán, hogy jó napágyat szerezzen a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu din acest sector de plajă organizat, perfect pentru o înot de dimineață, dar ajungeți devreme pentru un șezlong bun aproape de apă.",
+            "en": "Enjoy the pristine golden sands of this organized beach sector, perfect for a refreshing morning swim, but be sure to arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Seven Beach",
+            "hu": "Seven Beach",
+            "ro": "Seven Beach",
+            "en": "Seven Beach"
+          },
+          "coords": [
+            12.996183,
+            45.627585
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses beliebten Strandclubs, bekannt für hervorragende Küstenanlagen, buchen Sie daher im Voraus eine stilvolle Cabana.",
+            "hu": "Tapasztalja meg ennek a népszerű strandklubnak a vibráló atmoszféráját, amely kiváló felszereltségekről ismert, így érdemes előre lefoglalni egy elegáns sátrat.",
+            "ro": "Experimentați atmosfera vibrantă a acestui club de plajă popular, cunoscut pentru facilitățile sale excelente, așa că luați în considerare rezervarea unei cabane din timp.",
+            "en": "Experience the vibrant atmosphere of this popular beach club, known for its excellent coastal amenities, so consider booking a stylish cabana ahead of your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im Osten an der Chiesa Santi Pietro e Paolo, gefolgt von einem Strandstopp am Settore Vivaldi. Mittags fahren Sie am Teatro vorbei zur ruhigen Chiesa di Sant'Antonio im Herzen von Pineda. Am Nachmittag radeln Sie zum Settore 1 für spektakuläre Ausblicke auf das Meer und Entspannung in der Sonne. Beenden Sie Ihre Radtour mit einem längeren Aufenthalt am berühmten Seven Beach und genießen Sie die Meeresbrise, während der Tag sanft in den Abend übergeht.",
+        "hu": "Kerékpáros kalandja a keleti oldalon, a Chiesa Santi Pietro e Paolo-nál kezdődik, amelyet egy aktív strandolás követ a Settore Vivaldin. Délben tekerjen el a Teatro mellett a Pineda szívében található békés Chiesa di Sant'Antonio felé. Délután guruljon le a Settore 1-hez, hogy élvezze a tengerparti kilátást és a pihenést a napon. Zárja a biciklitúrát egy hosszabb tartózkodással a híres Seven Beach-en, élvezve a tengeri szellőt, ahogy a nap lassan estébe hajlik.",
+        "ro": "Aventura pe bicicletă începe în est, la Chiesa Santi Pietro e Paolo, urmată de o oprire activă la Settore Vivaldi. La prânz treceți pe lângă Teatro spre liniștita Chiesa di Sant'Antonio din inima Pinedei. După-amiaza, pedalați spre Settore 1 pentru vederi spectaculoase și relaxare sub soare. Încheiați turul pe bicicletă cu o ședere prelungită la faimoasa Seven Beach, bucurându-vă de briza mării în timp ce ziua se transformă blând în seară.",
+        "en": "Your cycling adventure starts on the eastern side at Chiesa Santi Pietro e Paolo, followed by an active beach stop at Settore Vivaldi. Midday brings you past the indoor Teatro toward the tranquil Chiesa di Sant'Antonio in the heart of Pineda. In the afternoon, pedal down to Settore 1 for more spectacular seaside views and relaxation under the sun. Wrap up your bike tour with an extended stay at the famous Seven Beach, enjoying the sea breeze as the day gently turns into evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 3.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Theatre open air",
+            "hu": "Theatre open air",
+            "ro": "Theatre open air",
+            "en": "Theatre open air"
+          },
+          "coords": [
+            12.992627,
+            45.627399
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen charmanten Veranstaltungsort im Freien im Grünen, wo lokale Kulturevents stattfinden, prüfen Sie den Zeitplan für abendliche Theatershows.",
+            "hu": "Fedezze fel ezt a zöld növényzetben megbúvó bájos szabadtéri színpadot, ahol helyi kulturális eseményeket tartanak, ezért érdemes megnézni az esti műsorok kínálatát.",
+            "ro": "Descoperiți acest spațiu fermecător de spectacole în aer liber ascuns printre verdeață, unde au loc evenimente culturale, verificați programul pentru spectacole de seară.",
+            "en": "Discover this charming outdoor performance space nestled among the greenery, where local cultural events take place, so check the schedule for twilight theatrical shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Seven Beach",
+            "hu": "Seven Beach",
+            "ro": "Seven Beach",
+            "en": "Seven Beach"
+          },
+          "coords": [
+            12.996183,
+            45.627585
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses beliebten Strandclubs, bekannt für hervorragende Küstenanlagen, buchen Sie daher im Voraus eine stilvolle Cabana.",
+            "hu": "Tapasztalja meg ennek a népszerű strandklubnak a vibráló atmoszféráját, amely kiváló felszereltségekről ismert, így érdemes előre lefoglalni egy elegáns sátrat.",
+            "ro": "Experimentați atmosfera vibrantă a acestui club de plajă popular, cunoscut pentru facilitățile sale excelente, așa că luați în considerare rezervarea unei cabane din timp.",
+            "en": "Experience the vibrant atmosphere of this popular beach club, known for its excellent coastal amenities, so consider booking a stylish cabana ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            13.004747,
+            45.630145
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser ruhigen katholischen Kirche, die eine friedliche Flucht vor den Stränden bietet, und prüfen Sie die Tafel auf Abendkonzerte.",
+            "hu": "Csodálja meg a modern építészetet ebben a békés katolikus templomban, amely nyugodt menedéket nyújt a strandoktól, és figyelje a hirdetőtáblát az esti koncertekért.",
+            "ro": "Admirați arhitectura modernă a acestei biserici catolice senine, o evadare liniștită de pe plajele aglomerate, și verificați panoul pentru concertele de seară.",
+            "en": "Admire the modern architecture of this serene Catholic church, providing a peaceful escape from the busy beaches, and check the notice board for evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro",
+            "hu": "Teatro",
+            "ro": "Teatro",
+            "en": "Teatro"
+          },
+          "coords": [
+            13.018617,
+            45.631201
+          ],
+          "category": "cultural",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kunstszene an diesem speziellen Indoor-Theater ein, das eine Vielzahl lebendiger Aufführungen bietet, und holen Sie sich ein Programmheft am Eingang.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a fedett színházban, amely változatos és élénk előadásoknak ad otthont, és vigyen egy műsorfüzetet a bejáratnál.",
+            "ro": "Cufundați-vă în scena artistică locală la acest teatru interior, care găzduiește o varietate de spectacole vibrante, și luați o broșură cu programul de la intrare.",
+            "en": "Immerse yourself in the local arts scene at this dedicated indoor theater venue, hosting a variety of vibrant performances, and grab a program booklet at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santi Pietro e Paolo",
+            "hu": "Chiesa Santi Pietro e Paolo",
+            "ro": "Chiesa Santi Pietro e Paolo",
+            "en": "Chiesa Santi Pietro e Paolo"
+          },
+          "coords": [
+            13.026528,
+            45.633283
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einladende Pfarrkirche näher am Stadtzentrum für einen ruhigen Moment der Besinnung und kleiden Sie sich beim Betreten respektvoll mit bedeckten Schultern.",
+            "hu": "Látogasson el ebbe a barátságos plébániatemplomba, amely közelebb található a városközponthoz, csendes elmélkedést kínálva, és a belépésnél takarja el a vállait.",
+            "ro": "Vizitați această biserică parohială primitoare situată mai aproape de centrul orașului, oferind un moment de reflecție, și îmbrăcați-vă respectuos, acoperindu-vă umerii.",
+            "en": "Visit this welcoming parish church situated closer to the town center, offering a quiet moment of reflection, and dress respectfully with shoulders covered when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+            "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+          },
+          "coords": [
+            13.025535,
+            45.630764
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Nutzen Sie die hervorragenden Sporteinrichtungen an diesem gut ausgestatteten Strandabschnitt mit Volleyballplätzen und Duschen, ideal für aktive Reisende.",
+            "hu": "Használja ki ennek a jól felszerelt strandszakasznak a kiváló sportolási lehetőségeit, ahol röplabdapályák és zuhanyzók is találhatók, ami ideális aktív utazóknak.",
+            "ro": "Profitați de facilitățile sportive excelente la acest sector de plajă bine echipat, cu terenuri de volei și dușuri, perfect pentru un călător activ.",
+            "en": "Take advantage of the excellent sporting facilities at this well-equipped beach sector, offering volleyball courts and showers, making it perfect for active travelers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am Freilufttheater und genießen Sie die morgendliche Ruhe im Grünen, bevor Sie zum Seven Beach fahren. Mittags parken Sie in der Nähe der Chiesa di Sant'Antonio, um die moderne Architektur zu erkunden, und fahren dann weiter zum Teatro. Am Nachmittag besuchen Sie die Chiesa Santi Pietro e Paolo, eine einladende Pfarrkirche nur eine kurze Fahrt entfernt. Ihr Tag endet am Settore Vivaldi, wo Sie sich im Sand entspannen und das abendliche Küstenambiente genießen können.",
+        "hu": "Kezdje autós útját a szabadtéri színháznál, magába szívva a zöld környezet reggeli nyugalmát, mielőtt a Seven Beach-hez hajtana. Délben parkoljon le a Chiesa di Sant'Antonio közelében, hogy felfedezze modern építészetét, majd vezessen keletre a Teatro-hoz. Délután látogasson el a Chiesa Santi Pietro e Paolo-hoz, amely csak egy rövid autóútra van. Motoros napja a Settore Vivaldinál ér véget, ahol kikapcsolódhat a homokon és élvezheti az esti tengerparti hangulatot.",
+        "ro": "Începeți călătoria cu mașina la teatrul în aer liber, absorbind liniștea dimineții înainte de a conduce la Seven Beach. La prânz, parcați lângă Chiesa di Sant'Antonio pentru arhitectura modernă, apoi mergeți spre Teatro. După-amiaza, vizitați Chiesa Santi Pietro e Paolo, o biserică primitoare la doar o scurtă plimbare cu mașina. Ziua motorizată se încheie la Settore Vivaldi, unde vă puteți relaxa pe nisip și vă puteți bucura de ambianța de coastă a serii.",
+        "en": "Kick off your road trip in Pineda at the open-air theatre, soaking in the morning tranquility of its green surroundings before driving down to Seven Beach. By midday, park near Chiesa di Sant'Antonio to explore its modern architecture, then drive east to the prominent Teatro. In the afternoon, visit Chiesa Santi Pietro e Paolo, a welcoming parish church just a short drive away. Your motorized day concludes at Settore Vivaldi, where you can unwind on the sand and enjoy the evening coastal ambiance."
+      }
+    }
+  }
+}

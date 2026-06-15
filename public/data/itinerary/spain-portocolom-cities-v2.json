@@ -1,0 +1,566 @@
+{
+  "city_id": "spain-portocolom-cities-v2",
+  "anchor": {
+    "name": "Portocolom",
+    "coords": [
+      3.26473,
+      39.42609
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 2.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tancat de sa Torre",
+            "hu": "Tancat de sa Torre",
+            "ro": "Tancat de sa Torre",
+            "en": "Tancat de sa Torre"
+          },
+          "coords": [
+            3.271904,
+            39.425251
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte natürliche Küstengebiet, das für sein unberührtes mediterranes Buschland bekannt ist, und halten Sie in den frühen Abendstunden Ausschau nach einheimischen Vogelarten.",
+            "hu": "Sétáljon végig ezen a védett természeti partvidéken, amely érintetlen mediterrán cserjéseiről ismert, és tartsa nyitva a szemét az őshonos madárfajok után a kora esti órákban.",
+            "ro": "Plimbați-vă prin această zonă de coastă naturală protejată, cunoscută pentru tufărișurile sale mediteraneene virgine, căutând speciile de păsări native în primele ore ale serii.",
+            "en": "Stroll through this protected natural coastal area known for its pristine Mediterranean scrubland, keeping an eye out for native bird species in the early evening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenal dels Ases",
+            "hu": "Arenal dels Ases",
+            "ro": "Arenal dels Ases",
+            "en": "Arenal dels Ases"
+          },
+          "coords": [
+            3.268077,
+            39.422982
+          ],
+          "category": "recreational",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser kleinen, ruhigen Bucht, die von Einheimischen bevorzugt wird, und denken Sie daran, Ihr eigenes Wasser und Snacks einzupacken, da es keine Einrichtungen in der Nähe gibt.",
+            "hu": "Meneküljön el a tömeg elől ebbe a kicsi, csendes, a helyiek által kedvelt öbölbe, és ne felejtsen el vizet és harapnivalót csomagolni, mivel a közelben nincsenek létesítmények.",
+            "ro": "Scăpați de aglomerație în acest mic și liniștit golf preferat de localnici și nu uitați să vă pachetizați apă și gustări, deoarece nu există facilități în apropiere.",
+            "en": "Escape the crowds at this small, tranquil cove favored by locals, and remember to pack your own water and snacks as there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenal Gran",
+            "hu": "S'Arenal Gran",
+            "ro": "S'Arenal Gran",
+            "en": "S'Arenal Gran"
+          },
+          "coords": [
+            3.270574,
+            39.419509
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre des Hauptsandstrandes der Stadt unter den Tamariskenbäumen, wo das flache Wasser perfekte, sichere Badebedingungen für alle bietet.",
+            "hu": "Élvezze a város fő homokos strandjának nyüzsgő hangulatát a tamariszkuszfák alatt, ahol a sekély víz tökéletes, biztonságos úszási feltételeket kínál mindenkinek.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a plajei principale de nisip a orașului, sub copacii de tamarix, unde apele puțin adânci oferă condiții perfecte și sigure de înot.",
+            "en": "Enjoy the lively atmosphere of the town's main sandy beach beneath the tamarisk trees, where the shallow waters provide perfect, safe swimming conditions for everyone."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenal Petit",
+            "hu": "S'Arenal Petit",
+            "ro": "S'Arenal Petit",
+            "en": "S'Arenal Petit"
+          },
+          "coords": [
+            3.270981,
+            39.418575
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten, kleinen Schwesterstrand der größeren Bucht, der sich ideal für eine ruhige Nachmittagslektüre oder zum Schnorcheln an den felsigen Rändern eignet.",
+            "hu": "Kapcsolódjon ki a nagyobb öböl e bájos, családias méretű testvérstrandján, amely ideális egy csendes délutáni olvasáshoz vagy a sziklás széleken való búvárkodáshoz.",
+            "ro": "Relaxați-vă la această plajă fermecătoare, de dimensiuni intime, soră cu golful mai mare, ideală pentru o lectură liniștită de după-amiază sau pentru snorkeling de-a lungul marginilor sale stâncoase.",
+            "en": "Unwind at this charming, intimately sized sibling beach to the grander bay, ideal for a quiet afternoon read or snorkeling along its rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de sa Bateria",
+            "hu": "Punta de sa Bateria",
+            "ro": "Punta de sa Bateria",
+            "en": "Punta de sa Bateria"
+          },
+          "coords": [
+            3.268078,
+            39.416275
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Überreste einer alten Küstenbatterie, während Sie einen Panoramablick auf die Bucht genießen, und tragen Sie unbedingt festes Schuhwerk für das felsige Gelände.",
+            "hu": "Fedezze fel egy régi partvédelmi üteg történelmi maradványait, miközben panorámás kilátás nyílik az öbölre, és feltétlenül viseljen masszív cipőt a sziklás terep miatt.",
+            "ro": "Descoperiți rămășițele istorice ale unei vechi baterii de coastă în timp ce vă bucurați de o vedere panoramică a golfului, asigurându-vă că purtați încălțăminte solidă pentru terenul stâncos.",
+            "en": "Discover the historical remnants of an old coastal battery while enjoying a panoramic sweep of the bay, making sure to wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Cova Foradada",
+            "hu": "Mirador de la Cova Foradada",
+            "ro": "Mirador de la Cova Foradada",
+            "en": "Mirador de la Cova Foradada"
+          },
+          "coords": [
+            3.267313,
+            39.415058
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an diesem atemberaubenden natürlichen Aussichtspunkt mit einem markanten Felsbogen über dem Wasser, und bleiben Sie auf den markierten Wegen, da die Klippenkanten uneben sein können.",
+            "hu": "Pihenjen meg ennél a lenyűgöző természetes kilátónál, ahol egy markáns sziklaív tornyosul a víz fölé, de maradjon a kijelölt ösvényeken a sziklaszélek miatt.",
+            "ro": "Zăboviți la acest punct de belvedere natural uimitor, cu o arcadă de piatră proeminentă deasupra apei, rămânând pe potecile marcate deoarece marginile stâncilor pot fi neregulate.",
+            "en": "Take a moment at this stunning natural viewpoint featuring a prominent rock arch over the water, keeping to the marked paths as the cliff edges can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de ses Crestes",
+            "hu": "Punta de ses Crestes",
+            "ro": "Punta de ses Crestes",
+            "en": "Punta de ses Crestes"
+          },
+          "coords": [
+            3.27065,
+            39.414023
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den malerischen, gestreiften Leuchtturm, der stolz an diesem malerischen Kap steht, und bringen Sie Ihre Kamera für spektakuläre Ausblicke auf das Mittelmeer mit.",
+            "hu": "Csodálja meg a festői, csíkos világítótornyot, amely büszkén áll ezen a fokon, és hozzon fényképezőgépet a Földközi-tengerre nyíló lenyűgöző kilátás miatt.",
+            "ro": "Admirați pitorescul far cu dungi care se înalță mândru pe acest cap stâncos și luați aparatul foto pentru vederi spectaculoase asupra Mării Mediterane.",
+            "en": "Marvel at the picturesque striped lighthouse standing proudly at this scenic cape, and bring your camera for spectacular views over the Mediterranean Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Natur am Tancat de sa Torre, bevor Sie das Juwel Arenal dels Ases entdecken. Die Mittagssonne lädt zum Entspannen am S'Arenal Gran und Petit ein. Am Nachmittag erkunden Sie die Geschichte der Punta de sa Bateria und bewundern die Felsen der Cova Foradada. Beenden Sie Ihre Tour am berühmten Punta de ses Crestes mit atemberaubendem Sonnenuntergang.",
+        "hu": "Kezdje a napot a Tancat de sa Torre természetvédelmi területén, majd fedezze fel az Arenal dels Ases rejtett kincsét. A déli napfény a S'Arenal Gran és Petit partjain csábít pihenésre. Délután megismerheti a Punta de sa Bateria történelmét, és megcsodálhatja a Cova Foradada sziklaalakzatait. Sétája a festői Punta de ses Crestesnél ér véget, naplemente kíséretében.",
+        "ro": "Începeți ziua înconjurați de natura de la Tancat de sa Torre, înainte de a descoperi bijuteria ascunsă Arenal dels Ases. Soarele amiezii vă invită la relaxare pe S'Arenal Gran și Petit. După-amiaza, veți explora istoria Punta de sa Bateria și veți admira stâncile de la Cova Foradada. Încheiați plimbarea la emblematicul Punta de ses Crestes cu un apus spectaculos.",
+        "en": "Start the day surrounded by nature at Tancat de sa Torre before discovering the hidden gem of Arenal dels Ases. The mid-day sun invites you to relax at S'Arenal Gran and S'Arenal Petit. In the afternoon, you will explore Punta de sa Bateria's history and admire the rocky formations at Cova Foradada. End your walking tour at the iconic Punta de ses Crestes for stunning sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Closos de Ca'n Gaià",
+            "hu": "Closos de Ca'n Gaià",
+            "ro": "Closos de Ca'n Gaià",
+            "en": "Closos de Ca'n Gaià"
+          },
+          "coords": [
+            3.243993,
+            39.4194
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswerte naviforme Siedlung aus der Bronzezeit, um Mallorcas prähistorische Wurzeln zu verstehen, aber kommen Sie früh, um die harte Mittagssonne zu meiden.",
+            "hu": "Fedezze fel ezt a figyelemre méltó bronzkori naviform települést, hogy megértse Mallorca őskori gyökereit, de érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Explorați această remarcabilă așezare naviformă din Epoca Bronzului pentru a înțelege rădăcinile preistorice ale Mallorcăi, dar veniți devreme pentru a evita soarele amiezii.",
+            "en": "Explore this remarkable Bronze Age Naviform settlement to understand Mallorca's prehistoric roots, but visit early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Marçal",
+            "hu": "Cala Marçal",
+            "ro": "Cala Marçal",
+            "en": "Cala Marçal"
+          },
+          "coords": [
+            3.257882,
+            39.409847
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem breiten, familienfreundlichen Sandstrand mit klarem, ruhigem Wasser, und kommen Sie vor dem Vormittag an, um sich einen erstklassigen Platz mit einer Sonnenliege zu sichern.",
+            "hu": "Pihenjen ezen a széles, családbarát homokos strandon, amelynek vize tiszta és nyugodt, és érkezzen kora délelőtt, hogy biztosítson egy jó napozóágyat.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip, potrivită pentru familii, cu ape limpezi și calme, sosind înainte de jumătatea dimineții pentru a ocupa un șezlong bun.",
+            "en": "Relax on this wide, family-friendly sandy beach with clear, calm waters, arriving before mid-morning to secure a prime spot with a sun lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de ses Crestes",
+            "hu": "Punta de ses Crestes",
+            "ro": "Punta de ses Crestes",
+            "en": "Punta de ses Crestes"
+          },
+          "coords": [
+            3.27065,
+            39.414023
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den malerischen, gestreiften Leuchtturm, der stolz an diesem malerischen Kap steht, und bringen Sie Ihre Kamera für spektakuläre Ausblicke auf das Mittelmeer mit.",
+            "hu": "Csodálja meg a festői, csíkos világítótornyot, amely büszkén áll ezen a fokon, és hozzon fényképezőgépet a Földközi-tengerre nyíló lenyűgöző kilátás miatt.",
+            "ro": "Admirați pitorescul far cu dungi care se înalță mândru pe acest cap stâncos și luați aparatul foto pentru vederi spectaculoase asupra Mării Mediterane.",
+            "en": "Marvel at the picturesque striped lighthouse standing proudly at this scenic cape, and bring your camera for spectacular views over the Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Cova Foradada",
+            "hu": "Mirador de la Cova Foradada",
+            "ro": "Mirador de la Cova Foradada",
+            "en": "Mirador de la Cova Foradada"
+          },
+          "coords": [
+            3.267313,
+            39.415058
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an diesem atemberaubenden natürlichen Aussichtspunkt mit einem markanten Felsbogen über dem Wasser, und bleiben Sie auf den markierten Wegen, da die Klippenkanten uneben sein können.",
+            "hu": "Pihenjen meg ennél a lenyűgöző természetes kilátónál, ahol egy markáns sziklaív tornyosul a víz fölé, de maradjon a kijelölt ösvényeken a sziklaszélek miatt.",
+            "ro": "Zăboviți la acest punct de belvedere natural uimitor, cu o arcadă de piatră proeminentă deasupra apei, rămânând pe potecile marcate deoarece marginile stâncilor pot fi neregulate.",
+            "en": "Take a moment at this stunning natural viewpoint featuring a prominent rock arch over the water, keeping to the marked paths as the cliff edges can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de sa Bateria",
+            "hu": "Punta de sa Bateria",
+            "ro": "Punta de sa Bateria",
+            "en": "Punta de sa Bateria"
+          },
+          "coords": [
+            3.268078,
+            39.416275
+          ],
+          "category": "landmark",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Überreste einer alten Küstenbatterie, während Sie einen Panoramablick auf die Bucht genießen, und tragen Sie unbedingt festes Schuhwerk für das felsige Gelände.",
+            "hu": "Fedezze fel egy régi partvédelmi üteg történelmi maradványait, miközben panorámás kilátás nyílik az öbölre, és feltétlenül viseljen masszív cipőt a sziklás terep miatt.",
+            "ro": "Descoperiți rămășițele istorice ale unei vechi baterii de coastă în timp ce vă bucurați de o vedere panoramică a golfului, asigurându-vă că purtați încălțăminte solidă pentru terenul stâncos.",
+            "en": "Discover the historical remnants of an old coastal battery while enjoying a panoramic sweep of the bay, making sure to wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenal Petit",
+            "hu": "S'Arenal Petit",
+            "ro": "S'Arenal Petit",
+            "en": "S'Arenal Petit"
+          },
+          "coords": [
+            3.270981,
+            39.418575
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten, kleinen Schwesterstrand der größeren Bucht, der sich ideal für eine ruhige Nachmittagslektüre oder zum Schnorcheln an den felsigen Rändern eignet.",
+            "hu": "Kapcsolódjon ki a nagyobb öböl e bájos, családias méretű testvérstrandján, amely ideális egy csendes délutáni olvasáshoz vagy a sziklás széleken való búvárkodáshoz.",
+            "ro": "Relaxați-vă la această plajă fermecătoare, de dimensiuni intime, soră cu golful mai mare, ideală pentru o lectură liniștită de după-amiază sau pentru snorkeling de-a lungul marginilor sale stâncoase.",
+            "en": "Unwind at this charming, intimately sized sibling beach to the grander bay, ideal for a quiet afternoon read or snorkeling along its rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenal Gran",
+            "hu": "S'Arenal Gran",
+            "ro": "S'Arenal Gran",
+            "en": "S'Arenal Gran"
+          },
+          "coords": [
+            3.270574,
+            39.419509
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre des Hauptsandstrandes der Stadt unter den Tamariskenbäumen, wo das flache Wasser perfekte, sichere Badebedingungen für alle bietet.",
+            "hu": "Élvezze a város fő homokos strandjának nyüzsgő hangulatát a tamariszkuszfák alatt, ahol a sekély víz tökéletes, biztonságos úszási feltételeket kínál mindenkinek.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a plajei principale de nisip a orașului, sub copacii de tamarix, unde apele puțin adânci oferă condiții perfecte și sigure de înot.",
+            "en": "Enjoy the lively atmosphere of the town's main sandy beach beneath the tamarisk trees, where the shallow waters provide perfect, safe swimming conditions for everyone."
+          }
+        },
+        {
+          "name": {
+            "de": "Tancat de sa Torre",
+            "hu": "Tancat de sa Torre",
+            "ro": "Tancat de sa Torre",
+            "en": "Tancat de sa Torre"
+          },
+          "coords": [
+            3.271904,
+            39.425251
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte natürliche Küstengebiet, das für sein unberührtes mediterranes Buschland bekannt ist, und halten Sie in den frühen Abendstunden Ausschau nach einheimischen Vogelarten.",
+            "hu": "Sétáljon végig ezen a védett természeti partvidéken, amely érintetlen mediterrán cserjéseiről ismert, és tartsa nyitva a szemét az őshonos madárfajok után a kora esti órákban.",
+            "ro": "Plimbați-vă prin această zonă de coastă naturală protejată, cunoscută pentru tufărișurile sale mediteraneene virgine, căutând speciile de păsări native în primele ore ale serii.",
+            "en": "Stroll through this protected natural coastal area known for its pristine Mediterranean scrubland, keeping an eye out for native bird species in the early evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zur antiken naviformen Siedlung Closos de Ca'n Gaià, gefolgt von einem Bad an der Cala Marçal. Fahren Sie dann zur Küste, um den legendären Leuchtturm am Punta de ses Crestes und die Cova Foradada zu sehen. Ihr Nachmittag umfasst Stopps an der historischen Punta de sa Bateria und zwei schönen Sandbuchten. Schließen Sie mit einer Fahrt bei Dämmerung zum Tancat de sa Torre ab.",
+        "hu": "Először tekerjen el Closos de Ca'n Gaià ősi településéhez, majd frissüljön fel a Cala Marçal széles homokján. Ezután a part felé véve az irányt, nézze meg a Punta de ses Crestes ikonikus világítótornyát. Délután megáll a Punta de sa Bateria történelmi pontján és két gyönyörű homokos öbölnél. A napot egy festői naplementés biciklizéssel zárja a Tancat de sa Torre területén.",
+        "ro": "Pedalați mai întâi spre așezarea antică Closos de Ca'n Gaià, urmată de o baie răcoritoare la Cala Marçal. Apoi, mergeți spre coastă pentru a vedea farul iconic de la Punta de ses Crestes și stâncoasa Cova Foradada. După-amiaza include opriri la istorica Punta de sa Bateria și la două golfuri frumoase de nisip. Încheiați cu o plimbare pitorească la asfințit la Tancat de sa Torre.",
+        "en": "Pedal first to the ancient Naviform settlement of Closos de Ca'n Gaià, followed by a refreshing swim at the wide sands of Cala Marçal. Next, ride towards the coast to witness the iconic lighthouse at Punta de ses Crestes and the rocky Cova Foradada. Your afternoon includes stops at the historic Punta de sa Bateria and two beautiful sandy coves. Conclude with a scenic twilight ride at Tancat de sa Torre."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Closos de Ca'n Gaià",
+            "hu": "Closos de Ca'n Gaià",
+            "ro": "Closos de Ca'n Gaià",
+            "en": "Closos de Ca'n Gaià"
+          },
+          "coords": [
+            3.243993,
+            39.4194
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswerte naviforme Siedlung aus der Bronzezeit, um Mallorcas prähistorische Wurzeln zu verstehen, aber kommen Sie früh, um die harte Mittagssonne zu meiden.",
+            "hu": "Fedezze fel ezt a figyelemre méltó bronzkori naviform települést, hogy megértse Mallorca őskori gyökereit, de érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Explorați această remarcabilă așezare naviformă din Epoca Bronzului pentru a înțelege rădăcinile preistorice ale Mallorcăi, dar veniți devreme pentru a evita soarele amiezii.",
+            "en": "Explore this remarkable Bronze Age Naviform settlement to understand Mallorca's prehistoric roots, but visit early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Marçal",
+            "hu": "Cala Marçal",
+            "ro": "Cala Marçal",
+            "en": "Cala Marçal"
+          },
+          "coords": [
+            3.257882,
+            39.409847
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem breiten, familienfreundlichen Sandstrand mit klarem, ruhigem Wasser, und kommen Sie vor dem Vormittag an, um sich einen erstklassigen Platz mit einer Sonnenliege zu sichern.",
+            "hu": "Pihenjen ezen a széles, családbarát homokos strandon, amelynek vize tiszta és nyugodt, és érkezzen kora délelőtt, hogy biztosítson egy jó napozóágyat.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip, potrivită pentru familii, cu ape limpezi și calme, sosind înainte de jumătatea dimineții pentru a ocupa un șezlong bun.",
+            "en": "Relax on this wide, family-friendly sandy beach with clear, calm waters, arriving before mid-morning to secure a prime spot with a sun lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de ses Crestes",
+            "hu": "Punta de ses Crestes",
+            "ro": "Punta de ses Crestes",
+            "en": "Punta de ses Crestes"
+          },
+          "coords": [
+            3.27065,
+            39.414023
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den malerischen, gestreiften Leuchtturm, der stolz an diesem malerischen Kap steht, und bringen Sie Ihre Kamera für spektakuläre Ausblicke auf das Mittelmeer mit.",
+            "hu": "Csodálja meg a festői, csíkos világítótornyot, amely büszkén áll ezen a fokon, és hozzon fényképezőgépet a Földközi-tengerre nyíló lenyűgöző kilátás miatt.",
+            "ro": "Admirați pitorescul far cu dungi care se înalță mândru pe acest cap stâncos și luați aparatul foto pentru vederi spectaculoase asupra Mării Mediterane.",
+            "en": "Marvel at the picturesque striped lighthouse standing proudly at this scenic cape, and bring your camera for spectacular views over the Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Cova Foradada",
+            "hu": "Mirador de la Cova Foradada",
+            "ro": "Mirador de la Cova Foradada",
+            "en": "Mirador de la Cova Foradada"
+          },
+          "coords": [
+            3.267313,
+            39.415058
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an diesem atemberaubenden natürlichen Aussichtspunkt mit einem markanten Felsbogen über dem Wasser, und bleiben Sie auf den markierten Wegen, da die Klippenkanten uneben sein können.",
+            "hu": "Pihenjen meg ennél a lenyűgöző természetes kilátónál, ahol egy markáns sziklaív tornyosul a víz fölé, de maradjon a kijelölt ösvényeken a sziklaszélek miatt.",
+            "ro": "Zăboviți la acest punct de belvedere natural uimitor, cu o arcadă de piatră proeminentă deasupra apei, rămânând pe potecile marcate deoarece marginile stâncilor pot fi neregulate.",
+            "en": "Take a moment at this stunning natural viewpoint featuring a prominent rock arch over the water, keeping to the marked paths as the cliff edges can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "S'Arenal Gran",
+            "hu": "S'Arenal Gran",
+            "ro": "S'Arenal Gran",
+            "en": "S'Arenal Gran"
+          },
+          "coords": [
+            3.270574,
+            39.419509
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre des Hauptsandstrandes der Stadt unter den Tamariskenbäumen, wo das flache Wasser perfekte, sichere Badebedingungen für alle bietet.",
+            "hu": "Élvezze a város fő homokos strandjának nyüzsgő hangulatát a tamariszkuszfák alatt, ahol a sekély víz tökéletes, biztonságos úszási feltételeket kínál mindenkinek.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a plajei principale de nisip a orașului, sub copacii de tamarix, unde apele puțin adânci oferă condiții perfecte și sigure de înot.",
+            "en": "Enjoy the lively atmosphere of the town's main sandy beach beneath the tamarisk trees, where the shallow waters provide perfect, safe swimming conditions for everyone."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenal dels Ases",
+            "hu": "Arenal dels Ases",
+            "ro": "Arenal dels Ases",
+            "en": "Arenal dels Ases"
+          },
+          "coords": [
+            3.268077,
+            39.422982
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser kleinen, ruhigen Bucht, die von Einheimischen bevorzugt wird, und denken Sie daran, Ihr eigenes Wasser und Snacks einzupacken, da es keine Einrichtungen in der Nähe gibt.",
+            "hu": "Meneküljön el a tömeg elől ebbe a kicsi, csendes, a helyiek által kedvelt öbölbe, és ne felejtsen el vizet és harapnivalót csomagolni, mivel a közelben nincsenek létesítmények.",
+            "ro": "Scăpați de aglomerație în acest mic și liniștit golf preferat de localnici și nu uitați să vă pachetizați apă și gustări, deoarece nu există facilități în apropiere.",
+            "en": "Escape the crowds at this small, tranquil cove favored by locals, and remember to pack your own water and snacks as there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Tancat de sa Torre",
+            "hu": "Tancat de sa Torre",
+            "ro": "Tancat de sa Torre",
+            "en": "Tancat de sa Torre"
+          },
+          "coords": [
+            3.271904,
+            39.425251
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte natürliche Küstengebiet, das für sein unberührtes mediterranes Buschland bekannt ist, und halten Sie in den frühen Abendstunden Ausschau nach einheimischen Vogelarten.",
+            "hu": "Sétáljon végig ezen a védett természeti partvidéken, amely érintetlen mediterrán cserjéseiről ismert, és tartsa nyitva a szemét az őshonos madárfajok után a kora esti órákban.",
+            "ro": "Plimbați-vă prin această zonă de coastă naturală protejată, cunoscută pentru tufărișurile sale mediteraneene virgine, căutând speciile de păsări native în primele ore ale serii.",
+            "en": "Stroll through this protected natural coastal area known for its pristine Mediterranean scrubland, keeping an eye out for native bird species in the early evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur faszinierenden prähistorischen Stätte Closos de Ca'n Gaià, bevor Sie am Morgen den beliebten Strand Cala Marçal besuchen. Mittags erreichen Sie den Leuchtturm Punta de ses Crestes und den Felsbogen der Cova Foradada. Verbringen Sie den Nachmittag damit, zwischen den Stränden S'Arenal Gran und Arenal dels Ases zu wechseln, und beenden Sie den Ausflug am Tancat de sa Torre.",
+        "hu": "Vezessen a lenyűgöző őskori Closos de Ca'n Gaià lelőhelyhez, mielőtt a népszerű Cala Marçal strandon töltené a délelőttöt. Délben elérkezik a Punta de ses Crestes világítótornyához és a Cova Foradada látványos sziklaívéhez. Töltse a délutánt a S'Arenal Gran és az Arenal dels Ases napfényes strandjainál, és fejezze be autós túráját a Tancat de sa Torre-nél.",
+        "ro": "Conduceți la fascinantul sit preistoric Closos de Ca'n Gaià înainte de a vă îndrepta spre populara Cala Marçal. La amiază ajungeți la farul Punta de ses Crestes și la spectaculoasa arcadă Cova Foradada. Petreceți după-amiaza trecând de la plajele însorite S'Arenal Gran la Arenal dels Ases, terminând excursia cu mașina la Tancat de sa Torre.",
+        "en": "Drive to the fascinating prehistoric site of Closos de Ca'n Gaià before heading down to the popular Cala Marçal for a relaxing morning beach session. Midday brings you to the lighthouse at Punta de ses Crestes and the striking natural arch of Cova Foradada. Spend your afternoon hopping between the sun-drenched beaches of S'Arenal Gran and Arenal dels Ases, ending the road trip at Tancat de sa Torre."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "le-pian-medoc",
+  "anchor": {
+    "name": "Le Pian-Médoc",
+    "coords": [
+      -0.6697,
+      44.955
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie du Pian-Médoc",
+            "hu": "Mairie du Pian-Médoc",
+            "ro": "Mairie du Pian-Médoc",
+            "en": "Mairie du Pian-Médoc"
+          },
+          "coords": [
+            -0.670301,
+            44.954906
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses und nutzen Sie den Platz davor, um ein paar schöne Fotos im Morgenlicht zu machen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, és használja ki az előtte lévő teret néhány szép fotó elkészítéséhez a reggeli fényben.",
+            "ro": "Admirați arhitectura clasică a primăriei și folosiți piața din față pentru a face câteva fotografii frumoase în lumina dimineții.",
+            "en": "Admire the classic architecture of the town hall and use the square in front to snap some beautiful photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pôle culturel du Pian-Médoc",
+            "hu": "Pôle culturel du Pian-Médoc",
+            "ro": "Pôle culturel du Pian-Médoc",
+            "en": "Pôle culturel du Pian-Médoc"
+          },
+          "coords": [
+            -0.676295,
+            44.953828
+          ],
+          "category": "cultural",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, um lokale Kunstwerke zu entdecken, und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, hogy felfedezze a helyi műalkotásokat, és előzetesen ellenőrizze az eseménynaptárat az aktuális kiállításokért.",
+            "ro": "Vizitați acest centru cultural modern pentru a descoperi opere de artă locale și verificați programul evenimentelor în avans pentru expoziții curente.",
+            "en": "Visit this modern cultural center to discover local artworks, and check the event schedule in advance for any current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sénéjac",
+            "hu": "Château Sénéjac",
+            "ro": "Château Sénéjac",
+            "en": "Château Sénéjac"
+          },
+          "coords": [
+            -0.671204,
+            44.956318
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Weingut, probieren Sie die exzellenten Weine der Region und buchen Sie Ihre geführte Tour unbedingt im Voraus.",
+            "hu": "Fedezze fel ezt a történelmi borbirtokot, kóstolja meg a régió kiváló borait, és mindenképpen foglalja le előre az idegenvezetést.",
+            "ro": "Explorați această podgorie istorică, degustați vinurile excelente ale regiunii și asigurați-vă că vă rezervați turul ghidat în avans.",
+            "en": "Explore this historic wine estate, taste the region's excellent wines, and be sure to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de l'Étu",
+            "hu": "Moulin de l'Étu",
+            "ro": "Moulin de l'Étu",
+            "en": "Moulin de l'Étu"
+          },
+          "coords": [
+            -0.65193,
+            44.961595
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die charmanten Überreste dieser alten Mühle, die von der landwirtschaftlichen Vergangenheit zeugt, und tragen Sie bequeme Schuhe für den Spaziergang dorthin.",
+            "hu": "Tekintse meg ennek a régi malomnak a hangulatos maradványait, amely a mezőgazdasági múltat idézi, és viseljen kényelmes cipőt az odavezető sétához.",
+            "ro": "Priviți rămășițele fermecătoare ale acestei vechi mori, o dovadă a trecutului agricol, și purtați încălțăminte confortabilă pentru plimbarea până acolo.",
+            "en": "Observe the charming remains of this old mill, a testament to the agricultural past, and wear comfortable shoes for the walk there."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Seurin",
+            "hu": "Église Saint-Seurin",
+            "ro": "Église Saint-Seurin",
+            "en": "Église Saint-Seurin"
+          },
+          "coords": [
+            -0.645732,
+            44.967042
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Treten Sie in diese beschauliche Kirche ein, um ihre schlichte, aber elegante Architektur zu bewundern, und achten Sie auf die Stille im Inneren.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja egyszerű, de elegáns építészetét, és ügyeljen a belső csendre.",
+            "ro": "Intrați în această biserică liniștită pentru a admira arhitectura sa simplă, dar elegantă, și asigurați-vă că respectați tăcerea în interior.",
+            "en": "Step into this peaceful church to admire its simple yet elegant architecture, and be sure to maintain the quiet atmosphere inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen am Morgen im Zentrum am Rathaus und spazieren zum Kulturzentrum. Danach besuchen wir das elegante Château Sénéjac für erste Wein-Eindrücke. Der Nachmittag führt uns zur historischen Mühle von l'Étu. Wir beenden den Tag entspannt an der friedlichen Kirche Saint-Seurin.",
+        "hu": "Reggel a központban, a városházánál kezdünk, majd átsétálunk a kulturális központhoz. Ezután az elegáns Château Sénéjac felé vesszük az irányt az első boros élményekért. A délután elvezet minket l'Étu történelmi malmához. A napot békésen zárjuk a Saint-Seurin templomnál.",
+        "ro": "Dimineața începem în centru la primărie și ne plimbăm până la centrul cultural. Apoi vizităm elegantul Château Sénéjac pentru primele impresii viticole. După-amiaza ne conduce la istorica moară l'Étu. Încheiem ziua relaxant la biserica pașnică Saint-Seurin.",
+        "en": "We begin our morning in the center at the town hall and stroll to the cultural center. Then we visit the elegant Château Sénéjac for early wine impressions. The afternoon leads us to the historic mill of l'Étu. We end the day peacefully at the quiet Saint-Seurin church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pôle culturel du Pian-Médoc",
+            "hu": "Pôle culturel du Pian-Médoc",
+            "ro": "Pôle culturel du Pian-Médoc",
+            "en": "Pôle culturel du Pian-Médoc"
+          },
+          "coords": [
+            -0.676295,
+            44.953828
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, um lokale Kunstwerke zu entdecken, und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, hogy felfedezze a helyi műalkotásokat, és előzetesen ellenőrizze az eseménynaptárat az aktuális kiállításokért.",
+            "ro": "Vizitați acest centru cultural modern pentru a descoperi opere de artă locale și verificați programul evenimentelor în avans pentru expoziții curente.",
+            "en": "Visit this modern cultural center to discover local artworks, and check the event schedule in advance for any current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sénéjac",
+            "hu": "Château Sénéjac",
+            "ro": "Château Sénéjac",
+            "en": "Château Sénéjac"
+          },
+          "coords": [
+            -0.671204,
+            44.956318
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Weingut, probieren Sie die exzellenten Weine der Region und buchen Sie Ihre geführte Tour unbedingt im Voraus.",
+            "hu": "Fedezze fel ezt a történelmi borbirtokot, kóstolja meg a régió kiváló borait, és mindenképpen foglalja le előre az idegenvezetést.",
+            "ro": "Explorați această podgorie istorică, degustați vinurile excelente ale regiunii și asigurați-vă că vă rezervați turul ghidat în avans.",
+            "en": "Explore this historic wine estate, taste the region's excellent wines, and be sure to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Soubeyran",
+            "hu": "Moulin de Soubeyran",
+            "ro": "Moulin de Soubeyran",
+            "en": "Moulin de Soubeyran"
+          },
+          "coords": [
+            -0.694711,
+            44.971024
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikale Schönheit dieser historischen Windmühle in der Landschaft und bringen Sie Ihre Kamera für großartige Landschaftsaufnahmen mit.",
+            "hu": "Fedezze fel ennek a történelmi szélmalomnak a rusztikus szépségét a vidéken, és vigye magával a fényképezőgépét a nagyszerű tájképekhez.",
+            "ro": "Descoperiți frumusețea rustică a acestei mori de vânt istorice în peisajul rural și aduceți aparatul foto pentru fotografii peisagistice minunate.",
+            "en": "Discover the rustic beauty of this historic windmill in the countryside, and bring your camera for some great landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc naturel communal du Pian Médoc",
+            "hu": "Parc naturel communal du Pian Médoc",
+            "ro": "Parc naturel communal du Pian Médoc",
+            "en": "Parc naturel communal du Pian Médoc"
+          },
+          "coords": [
+            -0.659782,
+            44.972574
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses weitläufige Naturschutzgebiet unter schattigen Bäumen und packen Sie ein leichtes Picknick für eine entspannte Pause ein.",
+            "hu": "Sétáljon végig ezen a hatalmas természetvédelmi területen az árnyékos fák alatt, és csomagoljon egy könnyű pikniket egy pihentető szünethez.",
+            "ro": "Plimbați-vă prin această rezervație naturală vastă sub copaci umbroși și împachetați un picnic ușor pentru o pauză relaxantă.",
+            "en": "Stroll through this expansive nature reserve beneath the shady trees, and pack a light picnic for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Seurin",
+            "hu": "Église Saint-Seurin",
+            "ro": "Église Saint-Seurin",
+            "en": "Église Saint-Seurin"
+          },
+          "coords": [
+            -0.645732,
+            44.967042
+          ],
+          "category": "religious",
+          "arrive_at": "14:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diese beschauliche Kirche ein, um ihre schlichte, aber elegante Architektur zu bewundern, und achten Sie auf die Stille im Inneren.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja egyszerű, de elegáns építészetét, és ügyeljen a belső csendre.",
+            "ro": "Intrați în această biserică liniștită pentru a admira arhitectura sa simplă, dar elegantă, și asigurați-vă că respectați tăcerea în interior.",
+            "en": "Step into this peaceful church to admire its simple yet elegant architecture, and be sure to maintain the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Malleret",
+            "hu": "Château Malleret",
+            "ro": "Château Malleret",
+            "en": "Château Malleret"
+          },
+          "coords": [
+            -0.64234,
+            44.965335
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Architektur dieses herrschaftlichen Schlosses, erfahren Sie mehr über seine Geschichte und spazieren Sie durch den makellosen Park.",
+            "hu": "Élvezze ennek a fenséges kastélynak a lenyűgöző építészetét, tudjon meg többet a történetéről, és sétáljon a kifogástalan parkban.",
+            "ro": "Bucurați-vă de arhitectura uimitoare a acestui castel impunător, aflați mai multe despre istoria sa și plimbați-vă prin parcul impecabil.",
+            "en": "Enjoy the stunning architecture of this stately castle, learn about its history, and take a walk through the immaculate park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen starten wir beim Kulturzentrum und radeln zügig zum historischen Château Sénéjac. Später entdecken wir die ländliche Windmühle von Soubeyran. Der Nachmittag gehört der Natur im weitläufigen Gemeindepark, bevor wir die historische Kirche Saint-Seurin und das majestätische Château Malleret besichtigen.",
+        "hu": "Reggel a kulturális központból indulunk, és gyorsan eltekerünk a történelmi Château Sénéjac-hoz. Később felfedezzük a soubeyrani vidéki szélmalmot. A délután a természeté a hatalmas községi parkban, mielőtt meglátogatnánk a történelmi Saint-Seurin templomot és a fenséges Château Malleret-t.",
+        "ro": "Dimineața pornim de la centrul cultural și pedalăm rapid spre istoricul Château Sénéjac. Mai târziu descoperim moara de vânt rurală din Soubeyran. După-amiaza aparține naturii în vastul parc comunal, înainte de a vizita biserica istorică Saint-Seurin și maiestuosul Château Malleret.",
+        "en": "In the morning, we start at the cultural center and quickly cycle to the historic Château Sénéjac. Later we discover the rural windmill of Soubeyran. The afternoon is dedicated to nature in the expansive communal park, before we visit the historic Saint-Seurin church and the majestic Château Malleret."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie du Pian-Médoc",
+            "hu": "Mairie du Pian-Médoc",
+            "ro": "Mairie du Pian-Médoc",
+            "en": "Mairie du Pian-Médoc"
+          },
+          "coords": [
+            -0.670301,
+            44.954906
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses und nutzen Sie den Platz davor, um ein paar schöne Fotos im Morgenlicht zu machen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, és használja ki az előtte lévő teret néhány szép fotó elkészítéséhez a reggeli fényben.",
+            "ro": "Admirați arhitectura clasică a primăriei și folosiți piața din față pentru a face câteva fotografii frumoase în lumina dimineții.",
+            "en": "Admire the classic architecture of the town hall and use the square in front to snap some beautiful photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sénéjac",
+            "hu": "Château Sénéjac",
+            "ro": "Château Sénéjac",
+            "en": "Château Sénéjac"
+          },
+          "coords": [
+            -0.671204,
+            44.956318
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Weingut, probieren Sie die exzellenten Weine der Region und buchen Sie Ihre geführte Tour unbedingt im Voraus.",
+            "hu": "Fedezze fel ezt a történelmi borbirtokot, kóstolja meg a régió kiváló borait, és mindenképpen foglalja le előre az idegenvezetést.",
+            "ro": "Explorați această podgorie istorică, degustați vinurile excelente ale regiunii și asigurați-vă că vă rezervați turul ghidat în avans.",
+            "en": "Explore this historic wine estate, taste the region's excellent wines, and be sure to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Soubeyran",
+            "hu": "Moulin de Soubeyran",
+            "ro": "Moulin de Soubeyran",
+            "en": "Moulin de Soubeyran"
+          },
+          "coords": [
+            -0.694711,
+            44.971024
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikale Schönheit dieser historischen Windmühle in der Landschaft und bringen Sie Ihre Kamera für großartige Landschaftsaufnahmen mit.",
+            "hu": "Fedezze fel ennek a történelmi szélmalomnak a rusztikus szépségét a vidéken, és vigye magával a fényképezőgépét a nagyszerű tájképekhez.",
+            "ro": "Descoperiți frumusețea rustică a acestei mori de vânt istorice în peisajul rural și aduceți aparatul foto pentru fotografii peisagistice minunate.",
+            "en": "Discover the rustic beauty of this historic windmill in the countryside, and bring your camera for some great landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc naturel communal du Pian Médoc",
+            "hu": "Parc naturel communal du Pian Médoc",
+            "ro": "Parc naturel communal du Pian Médoc",
+            "en": "Parc naturel communal du Pian Médoc"
+          },
+          "coords": [
+            -0.659782,
+            44.972574
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses weitläufige Naturschutzgebiet unter schattigen Bäumen und packen Sie ein leichtes Picknick für eine entspannte Pause ein.",
+            "hu": "Sétáljon végig ezen a hatalmas természetvédelmi területen az árnyékos fák alatt, és csomagoljon egy könnyű pikniket egy pihentető szünethez.",
+            "ro": "Plimbați-vă prin această rezervație naturală vastă sub copaci umbroși și împachetați un picnic ușor pentru o pauză relaxantă.",
+            "en": "Stroll through this expansive nature reserve beneath the shady trees, and pack a light picnic for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Malleret",
+            "hu": "Château Malleret",
+            "ro": "Château Malleret",
+            "en": "Château Malleret"
+          },
+          "coords": [
+            -0.64234,
+            44.965335
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Architektur dieses herrschaftlichen Schlosses, erfahren Sie mehr über seine Geschichte und spazieren Sie durch den makellosen Park.",
+            "hu": "Élvezze ennek a fenséges kastélynak a lenyűgöző építészetét, tudjon meg többet a történetéről, és sétáljon a kifogástalan parkban.",
+            "ro": "Bucurați-vă de arhitectura uimitoare a acestui castel impunător, aflați mai multe despre istoria sa și plimbați-vă prin parcul impecabil.",
+            "en": "Enjoy the stunning architecture of this stately castle, learn about its history, and take a walk through the immaculate park."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Seurin",
+            "hu": "Église Saint-Seurin",
+            "ro": "Église Saint-Seurin",
+            "en": "Église Saint-Seurin"
+          },
+          "coords": [
+            -0.645732,
+            44.967042
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diese beschauliche Kirche ein, um ihre schlichte, aber elegante Architektur zu bewundern, und achten Sie auf die Stille im Inneren.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja egyszerű, de elegáns építészetét, és ügyeljen a belső csendre.",
+            "ro": "Intrați în această biserică liniștită pentru a admira arhitectura sa simplă, dar elegantă, și asigurați-vă că respectați tăcerea în interior.",
+            "en": "Step into this peaceful church to admire its simple yet elegant architecture, and be sure to maintain the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Grand Clapeau Olivier",
+            "hu": "Château Grand Clapeau Olivier",
+            "ro": "Château Grand Clapeau Olivier",
+            "en": "Château Grand Clapeau Olivier"
+          },
+          "coords": [
+            -0.654056,
+            44.932639
+          ],
+          "category": "castle",
+          "arrive_at": "15:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses abgelegenen Schlosses ein, probieren Sie die lokalen Jahrgänge und prüfen Sie die Öffnungszeiten vor Ihrem Besuch.",
+            "hu": "Merüljön el ennek az eldugott kastélynak a történetében, kóstolja meg a helyi évjáratokat, és látogatás előtt ellenőrizze a nyitvatartási időt.",
+            "ro": "Pătrundeți în istoria acestui castel retras, degustați vinurile locale și verificați orele de deschidere înainte de vizită.",
+            "en": "Delve into the history of this secluded castle, taste the local vintages, and check the opening hours prior to your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour beginnt entspannt am zentralen Rathaus, gefolgt vom nahegelegenen Château Sénéjac. Vor dem Mittagessen fahren wir zur Mühle von Soubeyran und erkunden dann den großen Naturpark. Der Nachmittag bietet kulturelle Höhepunkte im Château Malleret und der Kirche Saint-Seurin, bevor wir beim Château Grand Clapeau Olivier enden.",
+        "hu": "Autóstúránk a központi városházánál kezdődik, melyet a közeli Château Sénéjac követ. Ebéd előtt elautózunk a soubeyrani malomhoz, majd felfedezzük a nagy natúrparkot. A délután kulturális csúcspontokat kínál a Château Malleret-ben és a Saint-Seurin templomban, mielőtt a Château Grand Clapeau Olivier-nél fejeznénk be.",
+        "ro": "Turul nostru cu mașina începe relaxant la primăria centrală, urmat de Château Sénéjac din apropiere. Înainte de prânz conducem la moara Soubeyran și explorăm marele parc natural. După-amiaza oferă atracții culturale la Château Malleret și biserica Saint-Seurin, înainte de a termina la Château Grand Clapeau Olivier.",
+        "en": "Our driving tour starts casually at the central town hall, followed by the nearby Château Sénéjac. Before lunch we drive to the Soubeyran mill and explore the large nature park. The afternoon offers cultural highlights at Château Malleret and Saint-Seurin church, before finishing at Château Grand Clapeau Olivier."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-caxias-cities-v2",
+  "anchor": {
+    "name": "Caxias",
+    "coords": [
+      -9.27168,
+      38.69836
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte de Nossa Senhora do Vale",
+            "hu": "Forte de Nossa Senhora do Vale",
+            "ro": "Forte de Nossa Senhora do Vale",
+            "en": "Forte de Nossa Senhora do Vale"
+          },
+          "coords": [
+            -9.270983,
+            38.697966
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Küstenfort, das einst Lissabon verteidigte, und bringen Sie festes Schuhwerk für die unebenen Wege mit.",
+            "hu": "Csodálja meg ezt a parti erődöt, amely egykor Lisszabont védte, és viseljen masszív cipőt, mivel a környező utak egyenetlenek lehetnek.",
+            "ro": "Admirați acest fort de coastă care odată apăra Lisabona, purtând încălțăminte robustă deoarece potecile din jur pot fi denivelate.",
+            "en": "Admire this coastal fort that once defended Lisbon, bringing sturdy shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço Real de Caxias",
+            "hu": "Paço Real de Caxias",
+            "ro": "Paço Real de Caxias",
+            "en": "Paço Real de Caxias"
+          },
+          "coords": [
+            -9.273619,
+            38.699599
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten königlichen Gärten und prächtigen Statuen und nehmen Sie sich Zeit für den Weg zur schönen Kaskade für die besten Fotos.",
+            "hu": "Fedezze fel az elegáns királyi kerteket és szobrokat, és szánjon időt a gyönyörű vízeséshez való felsétálásra a legjobb fotókért.",
+            "ro": "Explorați grădinile regale elegante și statuile magnifice, făcându-vă timp să urcați la frumoasa cascadă pentru cele mai bune fotografii.",
+            "en": "Explore the elegant royal gardens and magnificent statues, taking time to walk up to the beautiful cascata for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Clube Português de Automóveis Antigos",
+            "hu": "Clube Português de Automóveis Antigos",
+            "ro": "Clube Português de Automóveis Antigos",
+            "en": "Clube Português de Automóveis Antigos"
+          },
+          "coords": [
+            -9.284349,
+            38.699465
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese umfangreiche Sammlung von Oldtimern an, die die Automobilgeschichte beleuchten, aber prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Tekintse meg ezt a veterán járművekből álló hatalmas gyűjteményt, amely bemutatja az autóipar történetét, de előzetesen ellenőrizze a nyitvatartást.",
+            "ro": "Vedeți această colecție extinsă de vehicule de epocă care evidențiază istoria auto, dar verificați orele de deschidere în avans.",
+            "en": "See this extensive collection of vintage vehicles that highlight automotive history, but check opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor Jesus dos Navegantes",
+            "hu": "Capela do Senhor Jesus dos Navegantes",
+            "ro": "Capela do Senhor Jesus dos Navegantes",
+            "en": "Capela do Senhor Jesus dos Navegantes"
+          },
+          "coords": [
+            -9.29018,
+            38.695921
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Seemannskapelle, die Einblick in die lokale maritime Hingabe bietet, und sprechen Sie aus Respekt leise.",
+            "hu": "Látogasson el ebbe a festői tengerészkápolnába, amely bepillantást enged a helyi tengeri áhítatba, és tiszteletből halkan beszéljen.",
+            "ro": "Vizitați această capelă pitorească a marinarilor care oferă o privire asupra devotamentului maritim local, păstrând vocea joasă din respect.",
+            "en": "Visit this quaint sailors' chapel offering a glimpse into local maritime devotion, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Velha",
+            "hu": "Praia Velha",
+            "ro": "Praia Velha",
+            "en": "Praia Velha"
+          },
+          "coords": [
+            -9.291662,
+            38.69302
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem kleineren, historischen Strand, der einen friedlichen Rückzugsort bietet; es ist ratsam, Wasser mitzubringen.",
+            "hu": "Pihenjen ezen a kisebb, történelmi strandon, amely békés menedéket nyújt, bár saját víz és rágcsálnivaló hozatala erősen ajánlott.",
+            "ro": "Relaxați-vă pe această plajă istorică care oferă o evadare pașnică, deși este foarte recomandat să aduceți propria apă și gustări.",
+            "en": "Relax on this smaller, historic beach which provides a peaceful escape, though bringing your own water and snacks is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Fornos da Cal",
+            "hu": "Fornos da Cal",
+            "ro": "Fornos da Cal",
+            "en": "Fornos da Cal"
+          },
+          "coords": [
+            -9.293236,
+            38.694294
+          ],
+          "category": "historical",
+          "arrive_at": "15:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese alten Kalköfen, die die industrielle Vergangenheit der Gegend repräsentieren, und besichtigen Sie sie bei Tageslicht.",
+            "hu": "Fedezze fel ezeket a régi mészégetőket, amelyek a terület ipari múltját képviselik, és nézze meg őket nappali fénynél a falazat értékeléséhez.",
+            "ro": "Descoperiți aceste cuptoare vechi de var impresionante reprezentând trecutul industrial, vizionându-le la lumina zilei pentru a aprecia zidăria.",
+            "en": "Discover these impressive old lime kilns representing the area's industrial past, viewing them during daylight to fully appreciate the brickwork."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung historischer Küstenfestungen, bevor Sie zum majestätischen Königspalast hinaufschlendern. Mittags tauchen Sie in eine beeindruckende Sammlung klassischer Automobile ein. Ihr Nachmittag verläuft entspannt mit ruhigen Stopps an lokalen Kapellen und Flussstränden. Beenden Sie den Tag bei den historischen Kalköfen am Wasser.",
+        "hu": "Kezdje a reggelt a történelmi parti erődök felfedezésével, majd sétáljon fel a fenséges királyi palotához és kertjeihez. Délben merüljön el a klasszikus autók lenyűgöző gyűjteményében. A délutánt nyugodt kápolnák és a békés folyóparti strandok felfedezésével töltheti. Zárja a napot a vízpart melletti történelmi mészégetők megtekintésével.",
+        "ro": "Începeți dimineața explorând fortărețele de coastă istorice înainte de a urca spre palatul regal și grădinile sale maiestuoase. La prânz, admirați o colecție impresionantă de automobile clasice. După-amiaza se desfășoară cu opriri senine la capele locale și plaje liniștite pe râu. Încheiați ziua admirând cuptoarele istorice de var de lângă apă.",
+        "en": "Start your morning exploring the historic coastal fortresses before wandering up to the majestic royal palace and gardens. By midday, delve into an impressive collection of classic automobiles. Your afternoon unfolds with serene stops at local chapels and calm river beaches. Conclude the day by admiring the historical lime kilns near the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Farol do Esteiro",
+            "hu": "Farol do Esteiro",
+            "ro": "Farol do Esteiro",
+            "en": "Farol do Esteiro"
+          },
+          "coords": [
+            -9.259848,
+            38.703791
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen markanten Leuchtturm, der Schiffe in die Flussmündung führt, und parken Sie Ihr Fahrrad sicher in der Nähe.",
+            "hu": "Fényképezze le ezt a lenyűgöző világítótornyot, amely a torkolatba vezeti a hajókat, és parkolja le biztonságosan a kerékpárját a közelben.",
+            "ro": "Fotografiați acest far izbitor care ghidează navele în estuar, parcându-vă bicicleta în siguranță lângă bază înainte de a vă plimba.",
+            "en": "Photograph this striking lighthouse that guides ships into the estuary, parking your bike securely near the base before wandering around."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora da Boa Viagem",
+            "hu": "Capela de Nossa Senhora da Boa Viagem",
+            "ro": "Capela de Nossa Senhora da Boa Viagem",
+            "en": "Capela de Nossa Senhora da Boa Viagem"
+          },
+          "coords": [
+            -9.258634,
+            38.701174
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese kleine Flusskapelle segnete historisch abfahrende Seeleute; treten Sie kurz ein, aber vergessen Sie nicht, Ihren Fahrradhelm abzunehmen.",
+            "hu": "Ez a kis folyóparti kápolna történelmileg az induló tengerészeket áldotta meg; lépjen be röviden, de ne felejtse el levenni a kerékpáros sisakot.",
+            "ro": "Această mică capelă de pe malul râului a binecuvântat istoric marinarii la plecare; pășiți înăuntru scurt, dar nu uitați să scoateți casca.",
+            "en": "This small riverside chapel historically blessed departing sailors; step inside briefly but remember to take off your cycling helmet."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol da Gibalta Barra do Sul Range",
+            "hu": "Farol da Gibalta Barra do Sul Range",
+            "ro": "Farol da Gibalta Barra do Sul Range",
+            "en": "Farol da Gibalta Barra do Sul Range"
+          },
+          "coords": [
+            -9.266271,
+            38.699108
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein weiteres wichtiges Navigationszeichen mit hervorragendem Blick auf das Wasser, ideal für eine kurze Radpause und zur Rehydratisierung.",
+            "hu": "Egy másik kulcsfontosságú navigációs tájékozódási pont, amely kiváló kilátást nyújt a vízre, ideális egy rövid kerékpáros pihenőre és folyadékpótlásra.",
+            "ro": "Un alt reper navigațional crucial care oferă vederi excelente asupra apei, ideal pentru o scurtă pauză de ciclism și hidratare.",
+            "en": "Another crucial navigational landmark offering excellent views of the water, ideal for a quick cycling rest and hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço Real de Caxias",
+            "hu": "Paço Real de Caxias",
+            "ro": "Paço Real de Caxias",
+            "en": "Paço Real de Caxias"
+          },
+          "coords": [
+            -9.273619,
+            38.699599
+          ],
+          "category": "castle",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die wunderschönen Gärten des Anwesens, aber seien Sie darauf vorbereitet, Ihr Fahrrad auf den Sandwegen zu schieben.",
+            "hu": "Sétáljon végig a királyi birtok gyönyörű 18. századi kertjein, de készüljön fel arra, hogy a homokos utakon tolnia kell a kerékpárját.",
+            "ro": "Plimbați-vă prin superbele grădini ale domeniului regal, dar fiți pregătit să vă împingeți bicicleta pe cărările de nisip.",
+            "en": "Wander through the gorgeous 18th-century gardens of the royal estate, but be prepared to push your bike on the sandy pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Nossa Senhora do Vale",
+            "hu": "Forte de Nossa Senhora do Vale",
+            "ro": "Forte de Nossa Senhora do Vale",
+            "en": "Forte de Nossa Senhora do Vale"
+          },
+          "coords": [
+            -9.270983,
+            38.697966
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die historische Bedeutung dieses Küstenartillerieforts und schließen Sie Ihr Fahrrad draußen ab, da die Innenräume ziemlich eng sind.",
+            "hu": "Szívja magába ennek a parti tüzérségi erődnek a történelmi jelentőségét, és zárja le kerékpárját kívül, mivel a belső terek meglehetősen szűkek.",
+            "ro": "Bucurați-vă de semnificația istorică a acestui fort de artilerie de coastă, încuiindu-vă bicicleta afară deoarece spațiile interioare sunt înguste.",
+            "en": "Take in the historical significance of this coastal artillery fort, locking your bike outside since the interior spaces are quite cramped."
+          }
+        },
+        {
+          "name": {
+            "de": "Clube Português de Automóveis Antigos",
+            "hu": "Clube Português de Automóveis Antigos",
+            "ro": "Clube Português de Automóveis Antigos",
+            "en": "Clube Português de Automóveis Antigos"
+          },
+          "coords": [
+            -9.284349,
+            38.699465
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein sehenswertes Museum für jeden Fahrzeugliebhaber mit makellosen Oldtimern, dessen Eingang einen bequemen Platz für Fahrräder bietet.",
+            "hu": "Kötelező látnivaló járműrajongóknak, amely kifogástalan klasszikus autókat mutat be, a bejáratnál kényelmes hely van a kerékpároknak.",
+            "ro": "Un muzeu de văzut pentru orice pasionat de vehicule, cu mașini clasice impecabile, unde intrarea are un loc convenabil pentru biciclete.",
+            "en": "A must-see museum for any vehicle enthusiast featuring pristine classic cars, where the entrance has a convenient spot for bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Paço de Arcos",
+            "hu": "Praia de Paço de Arcos",
+            "ro": "Praia de Paço de Arcos",
+            "en": "Praia de Paço de Arcos"
+          },
+          "coords": [
+            -9.296858,
+            38.690463
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am breiten Sandstrand, der das Ende Ihrer Fahrt markiert, und halten Sie beim Waten im Wasser den Radweg im Auge.",
+            "hu": "Pihenjen meg a széles homokos strandon, amely az utazás végét jelzi, mártózzon meg a vízben, miközben szemmel tartja a kerékpárutat.",
+            "ro": "Relaxați-vă pe plaja largă cu nisip care marchează sfârșitul cursei dvs., băgându-vă degetele în apă în timp ce urmăriți pista de biciclete.",
+            "en": "Unwind on the broad sandy beach that marks the end of your ride, dipping your toes in the water while keeping an eye on the bike lane."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in der Morgenbrise am Flussufer entlang, vorbei an ikonischen Leuchttürmen und charmanten Seemannskapellen. Mittags erreichen Sie die großen Gärten des königlichen Anwesens und gut erhaltene Küstenverteidigungen. Fahren Sie nachmittags nach Paço de Arcos, um Oldtimer zu sehen. Beenden Sie Ihre Radtour entspannt am Sandstrand.",
+        "hu": "Kerékpározzon a reggeli szellőben a folyóparton, elhaladva az ikonikus világítótornyok és a tengerészek hangulatos kápolnái mellett. Délben a királyi birtok hatalmas kertjeit és a jól megőrzött parti erődítményeket keresi fel. Délután tekerjen Paço de Arcos felé, hogy megcsodálja a veterán autókat. A kerékpáros utat a helyi strand homokos partján pihenve zárja.",
+        "ro": "Pedalați în briza dimineții de-a lungul râului, trecând pe lângă faruri iconice și capele fermecătoare ale marinarilor. La prânz ajungeți la grădinile grandioase ale domeniului regal și la apărările de coastă bine conservate. După-amiaza, mergeți spre Paço de Arcos pentru mașini de epocă. Terminați călătoria relaxându-vă pe plaja cu nisip.",
+        "en": "Pedal through the morning breeze along the riverside, passing iconic lighthouses and charming sailors' chapels. Midday brings you to the grand gardens of the royal estate and well-preserved coastal defenses. As the afternoon progresses, ride towards Paço de Arcos to see vintage cars. Finish your cycling journey relaxing on the sandy stretches of the local beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moinho da Peça",
+            "hu": "Moinho da Peça",
+            "ro": "Moinho da Peça",
+            "en": "Moinho da Peça"
+          },
+          "coords": [
+            -9.278537,
+            38.713779
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser historischen Windmühle auf dem Hügel, die einen Panoramablick bietet, und nutzen Sie den kleinen Schotterparkplatz.",
+            "hu": "Kezdje utazását ennél a történelmi dombtetőn lévő szélmalomnál, amely panorámás kilátást nyújt, és használja a helyszín melletti kis földes parkolót.",
+            "ro": "Începeți-vă călătoria la această moară de vânt istorică de pe deal care oferă vederi panoramice, utilizând mica parcare de pământ adiacentă.",
+            "en": "Start your journey at this historic hilltop windmill that offers panoramic views, utilizing the small dirt parking area adjacent to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta do Torneiro",
+            "hu": "Quinta do Torneiro",
+            "ro": "Quinta do Torneiro",
+            "en": "Quinta do Torneiro"
+          },
+          "coords": [
+            -9.291557,
+            38.710899
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieses große historische Anwesen verfügt über prächtige Fliesen und klassische Architektur und ist ein perfekter Ort für elegante Fotos.",
+            "hu": "Ez a történelmi birtok csodálatos csempékkel és klasszikus építészettel büszkélkedhet, tökéletes hely elegáns fotókhoz, ha a kapuk nyitva vannak.",
+            "ro": "Această proprietate istorică grandioasă are plăci magnifice și o arhitectură clasică, fiind un loc perfect pentru fotografii elegante dacă porțile sunt deschise.",
+            "en": "This grand historic estate features magnificent tiles and classic architecture, making it a perfect spot for elegant photos if the gates are open."
+          }
+        },
+        {
+          "name": {
+            "de": "Alto das Lebres",
+            "hu": "Alto das Lebres",
+            "ro": "Alto das Lebres",
+            "en": "Alto das Lebres"
+          },
+          "coords": [
+            -9.283927,
+            38.708196
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Luft in diesem hochgelegenen Naturgebiet mit weitem Blick, aber schließen Sie Ihr Auto ab, da es ziemlich abgelegen sein kann.",
+            "hu": "Élvezze a friss levegőt ezen a magasan fekvő természeti területen, ahonnan tágas kilátás nyílik, de tartsa zárva az autóját, mivel kissé elszigetelt.",
+            "ro": "Bucurați-vă de o gură de aer proaspăt în această zonă naturală înaltă cu vederi ample, deși țineți-vă mașina încuiată deoarece poate fi retrasă.",
+            "en": "Enjoy a breath of fresh air in this elevated natural area with expansive views, though keep your car locked as it can be quite secluded."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço Real de Caxias",
+            "hu": "Paço Real de Caxias",
+            "ro": "Paço Real de Caxias",
+            "en": "Paço Real de Caxias"
+          },
+          "coords": [
+            -9.273619,
+            38.699599
+          ],
+          "category": "castle",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die atemberaubenden formalen Gärten und der Wasserfall sind das Highlight dieses Königspalastes; am Haupteingang gibt es meist Parkplätze.",
+            "hu": "A lenyűgöző formális kertek és a vízesés a fénypontja ennek a palotának, és a főbejárat közelében általában bőséges utcai parkolóhely van.",
+            "ro": "Grădinile formale uimitoare și cascada sunt atracția principală a acestui palat regal, cu parcare stradală de obicei disponibilă lângă intrare.",
+            "en": "The stunning formal gardens and waterfall are the highlight of this royal palace, with ample street parking usually available near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fornos da Cal",
+            "hu": "Fornos da Cal",
+            "ro": "Fornos da Cal",
+            "en": "Fornos da Cal"
+          },
+          "coords": [
+            -9.293236,
+            38.694294
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Diese bemerkenswert erhaltenen Kalköfen zeigen die lokale Industriegeschichte perfekt, und Sie können bequem direkt an der Küstenstraße parken.",
+            "hu": "Ezek a figyelemre méltóan megőrzött mészégetők tökéletesen bemutatják a helyi ipari történelmet, és kényelmesen parkolhat közvetlenül a parti út mentén.",
+            "ro": "Aceste cuptoare de var remarcabil conservate prezintă perfect istoria industrială locală și puteți parca convenabil chiar pe drumul de coastă.",
+            "en": "These remarkably preserved lime kilns showcase local industrial history perfectly, and you can conveniently park just along the adjacent coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Paço de Arcos",
+            "hu": "Praia de Paço de Arcos",
+            "ro": "Praia de Paço de Arcos",
+            "en": "Praia de Paço de Arcos"
+          },
+          "coords": [
+            -9.296858,
+            38.690463
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an diesem familienfreundlichen Strand mit ruhigem Wasser und denken Sie daran, im Sommer die Parkuhren zu bezahlen.",
+            "hu": "Fejezze be utazását ezen a családbarát, nyugodt vizű strandon, és ügyeljen arra, hogy a forgalmas nyári hónapokban fizessen a parkolóóráknál.",
+            "ro": "Încheiați-vă excursia rutieră pe această plajă pentru familii cu ape calme, asigurându-vă că plătiți parcarea la parcometre în lunile de vară.",
+            "en": "End your road trip at this family-friendly beach with calm waters, making sure to pay for parking at the meters during the busy summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour im Landesinneren bei einer historischen Windmühle, gefolgt von einem Besuch eines prächtigen traditionellen Herrenhauses. Verbringen Sie die Mittagszeit mit weiten grünen Aussichten vom Alto das Lebres, bevor Sie zur Küste hinabfahren. Nachmittags erkunden Sie die königliche Geschichte im Paço Real und das industrielle Erbe der Kalköfen. Entspannen Sie abends am Strand.",
+        "hu": "Kezdje autós túráját a szárazföld belsejében egy történelmi szélmalomnál, majd látogasson el egy csodálatos hagyományos udvarházba. A delet az Alto das Lebres zöldellő kilátásának élvezetével töltse, mielőtt leereszkedik a partra. Délután fedezze fel a Paço Real királyi történelmét és a mészégetők ipari örökségét. Pihenjen a strandon, ahogy leszáll az este.",
+        "ro": "Începeți turul cu mașina în interior la o moară de vânt istorică, urmată de vizitarea unui conac tradițional magnific. Petreceți prânzul bucurându-vă de priveliștile verzi de la Alto das Lebres înainte de a coborî spre coastă. După-amiaza, explorați istoria regală de la Paço Real și moștenirea industrială a cuptoarelor de var. Relaxați-vă pe plajă odată cu lăsarea serii.",
+        "en": "Start your driving tour inland at a historic windmill, followed by a visit to a magnificent traditional manor house. Spend midday enjoying the expansive green views from Alto das Lebres before descending to the coast. In the afternoon, explore the regal history at Paço Real and the industrial heritage of the lime kilns. Relax at the beach as evening sets in."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-pembroke",
+  "anchor": {
+    "name": "Pembroke",
+    "coords": [
+      -4.9158,
+      51.676
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pembroke Museum",
+            "hu": "Pembroke Múzeum",
+            "ro": "Muzeul Pembroke",
+            "en": "Pembroke Museum"
+          },
+          "coords": [
+            -4.917699,
+            51.67591
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum die jahrhundertelange Lokalgeschichte und fragen Sie das Personal nach den geheimen Schlosstunneln.",
+            "hu": "Fedezze fel az évszázados helyi történelmet ebben a bájos múzeumban, és mindenképpen kérdezze meg a személyzetet a vár titkos alagútjairól.",
+            "ro": "Descoperiți istoria locală de-a lungul secolelor în acest muzeu fermecător și întrebați personalul amabil despre tunelurile secrete ale castelului.",
+            "en": "Discover local history spanning centuries inside this charming museum, and be sure to ask the friendly staff about the castle's secret tunnels."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szűz Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -4.917869,
+            51.676372
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Buntglasfenster dieser friedlichen historischen Kirche und betrachten Sie die mittelalterlichen Denkmäler.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat ebben a békés történelmi templomban, és vessen egy pillantást a középkori emlékművekre a főhajóban.",
+            "ro": "Admirați vitraliile uimitoare din această biserică istorică liniștită și faceți-vă timp pentru a privi monumentele medievale din naosul tăcut.",
+            "en": "Admire the stunning stained glass windows in this peaceful historic church, and take a moment to look at the medieval monuments in the quiet nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenteich",
+            "hu": "Malomtó",
+            "ro": "Iazul Morii",
+            "en": "Mill Pond"
+          },
+          "coords": [
+            -4.91699,
+            51.677235
+          ],
+          "category": "natural",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang um dieses malerische Gewässer und beobachten Sie die Schwäne, aber bringen Sie gutes Schuhwerk für matschige Wege mit.",
+            "hu": "Élvezze a pihentető sétát e festői vízpart mentén a hattyúkat figyelve, de hozzon jó cipőt, mert a tarka ösvény heves esőzések után sáros lehet.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în jurul acestei ape pitorești pentru a vedea lebedele, dar aduceți încălțăminte bună, deoarece poteca poate fi noroioasă.",
+            "en": "Enjoy a relaxing walk around this scenic waterway to watch the swans, but bring some good walking shoes as the path can get muddy after heavy rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pembroke Castle",
+            "hu": "Pembroke vára",
+            "ro": "Castelul Pembroke",
+            "en": "Pembroke Castle"
+          },
+          "coords": [
+            -4.920556,
+            51.676944
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den weitläufigen Geburtsort von Heinrich VII. und besteigen Sie den Bergfried für unglaubliche Ausblicke; kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Fedezze fel VII. Henrik kiterjedt szülőhelyét, és mássza meg a hatalmas öregtornyot a hihetetlen kilátásért, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Explorați locul de naștere al lui Henric al VII-lea și urcați în turnul principal pentru priveliști incredibile, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the sprawling birthplace of Henry VII and climb the massive keep for incredible views, but arrive early to avoid the largest afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkton Priory",
+            "hu": "Monkton Priory",
+            "ro": "Mănăstirea Monkton",
+            "en": "Monkton Priory"
+          },
+          "coords": [
+            -4.92734,
+            51.675651
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die alten Steinbögen dieser mittelalterlichen Klosteranlage, um abseits der belebten Haupttouristengebiete wahre Ruhe zu erleben.",
+            "hu": "Sétáljon át a középkori kolostor ősi kőárkádjai alatt, hogy megtapasztalja a valódi nyugalmat távol a város forgalmas fő turisztikai területeitől.",
+            "ro": "Plimbați-vă prin arcadele antice de piatră ale acestui sit monahal medieval pentru a experimenta un adevărat sentiment de liniște departe de zonele turistice.",
+            "en": "Walk through the ancient stone arches of this medieval monastic site to experience a true sense of tranquility away from the busy main tourist areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie im Museum und gehen Sie dann zur nahegelegenen St. Marienkirche. Mittags: Genießen Sie einen erfrischenden Spaziergang um den ruhigen Mühlenteich, bevor Sie zur Festung aufbrechen. Nachmittags: Erkunden Sie das mächtige Pembroke Castle, die Geburtsstätte der Tudor-Dynastie. Abends: Beenden Sie die Tour mit einem friedlichen Besuch der historischen Ruinen der Monkton Priory.",
+        "hu": "Délelőtt: Kezdje a napot a múzeumban, majd sétáljon át a közeli Szűz Mária-templomhoz. Délben: Élvezze a frissítő sétát a békés Malomtó körül, mielőtt az erődbe indulna. Délután: Fedezze fel a hatalmas Pembroke várat, a Tudor-dinasztia szülőhelyét. Este: Zárja a gyalogos túrát a történelmi Monkton Priory lenyűgöző romjainak békés meglátogatásával.",
+        "ro": "Dimineața: Începeți la muzeu, apoi mergeți la Biserica Sf. Maria din apropiere pentru un moment de liniște. La prânz: Bucurați-vă de o plimbare răcoritoare în jurul Iazului Morii. După-amiaza: Explorați impunătorul Castel Pembroke, descoperind locul de naștere al dinastiei Tudor. Seara: Încheiați turul pietonal cu o vizită pașnică la ruinele istorice ale Mănăstirii Monkton.",
+        "en": "Morning: Start at the museum, then walk to the nearby St Mary's Church for a quiet moment. Midday: Enjoy a refreshing stroll around the serene Mill Pond before heading to the fortress. Afternoon: Explore the mighty Pembroke Castle, uncovering the birthplace of the Tudor dynasty. Evening: Conclude the walking tour with a peaceful visit to the historic Monkton Priory ruins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pembroke Castle",
+            "hu": "Pembroke vára",
+            "ro": "Castelul Pembroke",
+            "en": "Pembroke Castle"
+          },
+          "coords": [
+            -4.920556,
+            51.676944
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den weitläufigen Geburtsort von Heinrich VII. und besteigen Sie den Bergfried für unglaubliche Ausblicke; kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Fedezze fel VII. Henrik kiterjedt szülőhelyét, és mássza meg a hatalmas öregtornyot a hihetetlen kilátásért, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Explorați locul de naștere al lui Henric al VII-lea și urcați în turnul principal pentru priveliști incredibile, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the sprawling birthplace of Henry VII and climb the massive keep for incredible views, but arrive early to avoid the largest afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkton Priory",
+            "hu": "Monkton Priory",
+            "ro": "Mănăstirea Monkton",
+            "en": "Monkton Priory"
+          },
+          "coords": [
+            -4.92734,
+            51.675651
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die alten Steinbögen dieser mittelalterlichen Klosteranlage, um abseits der belebten Haupttouristengebiete wahre Ruhe zu erleben.",
+            "hu": "Sétáljon át a középkori kolostor ősi kőárkádjai alatt, hogy megtapasztalja a valódi nyugalmat távol a város forgalmas fő turisztikai területeitől.",
+            "ro": "Plimbați-vă prin arcadele antice de piatră ale acestui sit monahal medieval pentru a experimenta un adevărat sentiment de liniște departe de zonele turistice.",
+            "en": "Walk through the ancient stone arches of this medieval monastic site to experience a true sense of tranquility away from the busy main tourist areas."
+          }
+        },
+        {
+          "name": {
+            "de": "VC Gallery",
+            "hu": "VC Galéria",
+            "ro": "Galeria VC",
+            "en": "VC Gallery"
+          },
+          "coords": [
+            -4.941225,
+            51.687349
+          ],
+          "category": "cultural",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser einzigartigen Galerie in bewegende zeitgenössische Kunstwerke ein und informieren Sie sich über interaktive Kunstworkshops.",
+            "hu": "Merüljön el a megható kortárs műalkotásokban ebben az egyedi galériában, és mindenképpen ellenőrizze az interaktív műhelyfoglalkozások időpontjait.",
+            "ro": "Cufundați-vă în opere de artă contemporană emoționante în această galerie unică și verificați programul lor pentru ateliere interactive interesante.",
+            "en": "Immerse yourself in moving contemporary artworks and community projects in this unique gallery, and check their schedule for interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Zion Free Church",
+            "hu": "Zion Szabadegyház",
+            "ro": "Biserica Liberă Zion",
+            "en": "Zion Free Church"
+          },
+          "coords": [
+            -4.943321,
+            51.692748
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante nonkonformistische Architektur dieser lokalen Kapelle und achten Sie auf die wunderschöne Fassade aus der Vergangenheit.",
+            "hu": "Figyelje meg a helyi kápolna jellegzetes nonkonformista építészetét, különös tekintettel a terület gazdag vallási múltját tükröző gyönyörű homlokzatra.",
+            "ro": "Observați arhitectura nonconformistă distinctă a acestei capele locale frumoase, remarcând fațada care reflectă trecutul religios bogat al zonei.",
+            "en": "Observe the distinctive nonconformist architecture of this beautiful local chapel, noting the beautiful facade that reflects the area's rich religious past."
+          }
+        },
+        {
+          "name": {
+            "de": "Pembroke Dock Heritage Centre",
+            "hu": "Pembroke Dock Örökségvédelmi Központ",
+            "ro": "Centrul de Patrimoniu Pembroke Dock",
+            "en": "Pembroke Dock Heritage Centre"
+          },
+          "coords": [
+            -4.94906,
+            51.693062
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die beeindruckende Geschichte der hier gebauten Flugboote und planen Sie genügend Zeit für die interaktiven Flugsimulatoren ein.",
+            "hu": "Ismerje meg az itt épített repülőcsónakok lenyűgöző történetét, és hagyjon bőven időt az izgalmas interaktív repülésszimulátorok kipróbálására is.",
+            "ro": "Aflați despre istoria impresionantă a hidroavioanelor construite aici în timpul războiului și lăsați timp suficient pentru simulatoarele de zbor interactive.",
+            "en": "Learn about the impressive history of the flying boats built here during wartime, and leave plenty of time to experience the interactive flight simulators."
+          }
+        },
+        {
+          "name": {
+            "de": "Gun Tower",
+            "hu": "Ágyútorony",
+            "ro": "Turnul de Artilerie",
+            "en": "Gun Tower"
+          },
+          "coords": [
+            -4.9474,
+            51.69624
+          ],
+          "category": "historical",
+          "arrive_at": "15:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen defensiven Martello-Turm, um mehr über die Küstenbefestigungen zu erfahren, und bringen Sie eine Kamera für den Panoramablick mit.",
+            "hu": "Lépjen be ebbe a védelmi Martello-toronyba, hogy megismerje a part menti erődítményeket, és hozzon fényképezőgépet a vízi útra nyíló panorámához.",
+            "ro": "Pășiți în interiorul acestui turn de apărare pentru a învăța despre fortificațiile de coastă și aduceți un aparat foto pentru vederile panoramice superbe.",
+            "en": "Step inside this defensive martello tower to learn about the coastal fortifications, and bring a camera for the stunning panoramic views over the waterway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie am legendären Pembroke Castle und fahren Sie dann kurz zur Monkton Priory. Mittags: Radeln Sie in Richtung Küste, um die kulturelle VC Gallery und die Zion Free Church zu besuchen. Nachmittags: Tauchen Sie im Pembroke Dock Heritage Centre tief in die Marinegeschichte ein. Abends: Beenden Sie Ihren Radtag am historischen Gun Tower mit Blick auf das Wasser.",
+        "hu": "Délelőtt: Kezdjen az ikonikus Pembroke váránál, amelyet egy gyors tekerés követ a Monkton Priory felé. Délben: Kerékpározzon a part felé, és látogassa meg a VC Galériát és a Zion Szabadegyházat. Délután: Merüljön el a haditengerészet történetében a Heritage Centre-ben. Este: Zárja a kerékpáros napot a vízpartra néző, történelmi Ágyútorony megtekintésével.",
+        "ro": "Dimineața: Începeți la iconicul Castel Pembroke, urmat de o plimbare scurtă până la Mănăstirea Monkton. La prânz: Mergeți cu bicicleta spre coastă pentru a vizita Galeria VC și Biserica Liberă Zion. După-amiaza: Aprofundați istoria navală la Centrul de Patrimoniu Pembroke Dock. Seara: Încheiați ziua de ciclism la istoricul Turn de Artilerie, cu vedere la malul apei.",
+        "en": "Morning: Begin at the iconic Pembroke Castle, followed by a quick ride to Monkton Priory. Midday: Cycle towards the coast to visit the cultural VC Gallery and the Zion Free Church. Afternoon: Dive deep into naval history at the Pembroke Dock Heritage Centre. Evening: End your cycling day at the historic Gun Tower overlooking the waterfront."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 16.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "South Quay",
+            "hu": "Déli Rakpart",
+            "ro": "Cheiul de Sud",
+            "en": "South Quay"
+          },
+          "coords": [
+            -4.880998,
+            51.709244
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das maritime Erbe der historischen Docks bei einem Spaziergang am Ufer und halten Sie Ausschau nach informativen Gedenktafeln am Wasser.",
+            "hu": "Fedezze fel a történelmi dokkok tengerészeti örökségét a part mentén sétálva, és figyelje a víz közelében elrejtett informatív emléktáblákat is.",
+            "ro": "Descoperiți moștenirea maritimă a docurilor istorice în timp ce vă plimbați pe malul apei, căutând plăcile informative ascunse aproape de apă.",
+            "en": "Discover the maritime heritage of the historic docks while strolling along the waterfront, keeping an eye out for informative plaques hidden near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pembroke Dock Heritage Centre",
+            "hu": "Pembroke Dock Örökségvédelmi Központ",
+            "ro": "Centrul de Patrimoniu Pembroke Dock",
+            "en": "Pembroke Dock Heritage Centre"
+          },
+          "coords": [
+            -4.94906,
+            51.693062
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die beeindruckende Geschichte der hier gebauten Flugboote und planen Sie genügend Zeit für die interaktiven Flugsimulatoren ein.",
+            "hu": "Ismerje meg az itt épített repülőcsónakok lenyűgöző történetét, és hagyjon bőven időt az izgalmas interaktív repülésszimulátorok kipróbálására is.",
+            "ro": "Aflați despre istoria impresionantă a hidroavioanelor construite aici în timpul războiului și lăsați timp suficient pentru simulatoarele de zbor interactive.",
+            "en": "Learn about the impressive history of the flying boats built here during wartime, and leave plenty of time to experience the interactive flight simulators."
+          }
+        },
+        {
+          "name": {
+            "de": "Pembroke Castle",
+            "hu": "Pembroke vára",
+            "ro": "Castelul Pembroke",
+            "en": "Pembroke Castle"
+          },
+          "coords": [
+            -4.920556,
+            51.676944
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den weitläufigen Geburtsort von Heinrich VII. und besteigen Sie den Bergfried für unglaubliche Ausblicke; kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Fedezze fel VII. Henrik kiterjedt szülőhelyét, és mássza meg a hatalmas öregtornyot a hihetetlen kilátásért, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Explorați locul de naștere al lui Henric al VII-lea și urcați în turnul principal pentru priveliști incredibile, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the sprawling birthplace of Henry VII and climb the massive keep for incredible views, but arrive early to avoid the largest afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szűz Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -4.917869,
+            51.676372
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Buntglasfenster dieser friedlichen historischen Kirche und betrachten Sie die mittelalterlichen Denkmäler.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat ebben a békés történelmi templomban, és vessen egy pillantást a középkori emlékművekre a főhajóban.",
+            "ro": "Admirați vitraliile uimitoare din această biserică istorică liniștită și faceți-vă timp pentru a privi monumentele medievale din naosul tăcut.",
+            "en": "Admire the stunning stained glass windows in this peaceful historic church, and take a moment to look at the medieval monuments in the quiet nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserreservoir",
+            "hu": "Víztározó",
+            "ro": "Rezervorul de Apă",
+            "en": "Water Reservoir"
+          },
+          "coords": [
+            -4.93062,
+            51.627334
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause von den historischen Sehenswürdigkeiten und genießen Sie diesen ruhigen Naturort bei einem Picknick, während Sie die Vögel beobachten.",
+            "hu": "Tartson egy kis szünetet a történelmi látnivalók után ezen a nyugodt természeti helyen, amely tökéletes egy gyors piknikhez és madármegfigyeléshez.",
+            "ro": "Luați o pauză de la atracțiile istorice pentru a vă bucura de acest loc natural calm, perfect pentru un picnic rapid în timp ce priviți păsările locale.",
+            "en": "Take a break from the historic sights to enjoy this calm natural spot, perfect for a quick picnic while watching the local birds gather around the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mere Pool",
+            "hu": "Mere-medence",
+            "ro": "Lacul Mere",
+            "en": "Mere Pool"
+          },
+          "coords": [
+            -4.930261,
+            51.609011
+          ],
+          "category": "natural",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag, indem Sie den wunderschönen Sonnenuntergang an diesem ruhigen Pool beobachten, aber packen Sie im Sommer ein Insektenschutzmittel ein.",
+            "hu": "Zárja a napot a békés medence vizén tükröződő gyönyörű naplemente megfigyelésével, de a meleg nyári hónapokban feltétlenül csomagoljon rovarriasztót.",
+            "ro": "Încheiați-vă ziua observând apusul care se reflectă frumos pe acest bazin liniștit, dar asigurați-vă că luați repelent de insecte în lunile de vară.",
+            "en": "End your day observing the sunset reflecting beautifully on this tranquil pool of water, but make sure to pack insect repellent during the warm summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie zum historischen South Quay und dann weiter zum Pembroke Dock Heritage Centre. Mittags: Kehren Sie in die Innenstadt zurück, parken Sie das Auto und besuchen Sie das majestätische Pembroke Castle. Nachmittags: Sehen Sie sich die St. Marienkirche an und fahren Sie zum ruhigen Wasserreservoir. Abends: Beenden Sie den Roadtrip mit einem friedlichen Sonnenuntergangsstopp am Mere Pool.",
+        "hu": "Délelőtt: Vezessen a történelmi Déli Rakparthoz, majd irány nyugat, a Pembroke Dock Heritage Centre felfedezésére. Délben: Térjen vissza a városközpontba, és sétáljon a fenséges Pembroke vár környékén. Délután: Látogassa meg a Szűz Mária-templomot, majd utazzon délre a Víztározó felé. Este: Zárja az autós túrát egy nyugodt, naplementés pihenővel a gyönyörű Mere-medencénél.",
+        "ro": "Dimineața: Conduceți la istoricul Chei de Sud, apoi mergeți spre vest pentru a explora Centrul de Patrimoniu Pembroke Dock. La prânz: Întoarceți-vă în centrul orașului pentru a parca și a vizita majestuosul Castel Pembroke. După-amiaza: Vizitați Biserica Sf. Maria, apoi conduceți spre sud spre Rezervorul de Apă. Seara: Încheiați excursia cu o oprire liniștită la apus la Lacul Mere.",
+        "en": "Morning: Drive to the historic South Quay, then head west to explore the Pembroke Dock Heritage Centre. Midday: Return to the town center to park and walk around the majestic Pembroke Castle. Afternoon: Visit St Mary's Church, then drive south out of town toward the Water Reservoir. Evening: Finish the road trip with a tranquil sunset stop at the beautiful Mere Pool."
+      }
+    }
+  }
+}

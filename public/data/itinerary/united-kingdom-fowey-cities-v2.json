@@ -1,0 +1,474 @@
+{
+  "city_id": "united-kingdom-fowey-cities-v2",
+  "anchor": {
+    "name": "Fowey",
+    "coords": [
+      -4.633,
+      50.334
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Fowey",
+            "de": "Fowey",
+            "hu": "Fowey",
+            "ro": "Fowey"
+          },
+          "coords": [
+            -4.638281,
+            50.335049
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy the stunning natural harbor views that have inspired countless writers, and be sure to bring a windbreaker for the breezy waterfront walk.",
+            "de": "Genießen Sie die atemberaubende Aussicht auf den natürlichen Hafen, die unzählige Schriftsteller inspirierte, und bringen Sie eine Windjacke für den windigen Spaziergang mit.",
+            "hu": "Élvezze a számtalan írót megihlető természetes kikötő lenyűgöző látványát, és feltétlenül hozzon magával egy széldzsekit a szeles vízparti sétához.",
+            "ro": "Bucurați-vă de priveliștile uimitoare ale portului natural care au inspirat nenumărați scriitori și asigurați-vă că aduceți o jachetă pentru plimbarea pe faleză."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey Town Museum",
+            "de": "Stadtmuseum Fowey",
+            "hu": "Fowey Városi Múzeum",
+            "ro": "Muzeul Orașului Fowey"
+          },
+          "coords": [
+            -4.634801,
+            50.335128
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Discover Fowey's rich maritime history and literary connections in this compact museum, but note that entry is often cash only so bring some coins.",
+            "de": "Entdecken Sie in diesem kompakten Museum die reiche maritime Geschichte von Fowey, aber beachten Sie, dass der Eintritt oft nur in bar bezahlt werden kann.",
+            "hu": "Fedezze fel Fowey gazdag tengerészeti múltját és irodalmi kapcsolatait ebben a múzeumban, de ne feledje, hogy a belépés gyakran csak készpénzzel lehetséges.",
+            "ro": "Descoperiți bogata istorie maritimă a orașului Fowey în acest muzeu compact, dar rețineți că intrarea se plătește adesea doar cu numerar, deci aduceți monede."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey Church (St Fimbarrus)",
+            "de": "Fowey Church (St Fimbarrus)",
+            "hu": "Fowey templom (St Fimbarrus)",
+            "ro": "Biserica Fowey (St Fimbarrus)"
+          },
+          "coords": [
+            -4.635715,
+            50.335363
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Admire the beautiful Norman architecture and intricate stained glass of this historic church, and visit early in the day to avoid the larger crowds.",
+            "de": "Bewundern Sie die normannische Architektur und die bunten Glasfenster dieser historischen Kirche; besuchen Sie sie früh am Tag, um den Massen zu entgehen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű normann építészetét és bonyolult ólomüveg ablakait, és érkezzen korán a nagyobb tömeg elkerülése érdekében.",
+            "ro": "Admirați frumoasa arhitectură normandă și vitraliile complicate ale acestei biserici istorice și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Readymoney Cove Beach",
+            "de": "Readymoney Cove Beach",
+            "hu": "Readymoney Cove Beach",
+            "ro": "Readymoney Cove Beach"
+          },
+          "coords": [
+            -4.64539,
+            50.329406
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "en": "Relax on the sandy shores of this sheltered cove perfect for family swimming, and grab a coffee at the small seasonal kiosk before claiming your spot.",
+            "de": "Entspannen Sie sich an den Sandstränden dieser geschützten Bucht, die sich perfekt zum Schwimmen eignet, und holen Sie sich am saisonalen Kiosk einen Kaffee.",
+            "hu": "Pihenjen ennek a védett, családi fürdőzésre tökéletes öbölnek a homokos partján, és igyon egy kávét a szezonális kis kioszkban, mielőtt helyet foglalna.",
+            "ro": "Relaxați-vă pe țărmul nisipos al acestui golf adăpostit, perfect pentru înot, și luați o cafea la micul chioșc sezonier înainte de a vă rezerva locul."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint Catherine's Castle",
+            "de": "Saint Catherine's Castle",
+            "hu": "Saint Catherine kastély",
+            "ro": "Castelul Saint Catherine"
+          },
+          "coords": [
+            -4.644484,
+            50.32826
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Explore the ruins of this Henrician artillery fort built to protect the harbor, and wear sturdy shoes for the steep but rewarding path up the cliff.",
+            "de": "Erkunden Sie die Ruinen dieses Artillerieforts, das zum Schutz des Hafens erbaut wurde, und tragen Sie festes Schuhwerk für den steilen Weg die Klippe hinauf.",
+            "hu": "Fedezze fel e kikötővédő tüzérségi erőd romjait, és viseljen masszív cipőt a sziklán felfelé vezető, meredek, de nagyon is megéri fáradságot jelentő ösvényen.",
+            "ro": "Explorați ruinele acestui fort de artilerie construit pentru a proteja portul și purtați încălțăminte rezistentă pentru poteca abruptă de pe stâncă."
+          }
+        },
+        {
+          "name": {
+            "en": "St Catherine's Point Light",
+            "de": "St Catherine's Point Light",
+            "hu": "St Catherine's Point világítótorony",
+            "ro": "Farul St Catherine's Point"
+          },
+          "coords": [
+            -4.647158,
+            50.327168
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Take in the panoramic coastal views from this iconic navigation beacon, and bring your camera for spectacular photos during the golden hour of sunset.",
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem ikonischen Leuchtfeuer aus und bringen Sie Ihre Kamera für spektakuläre Fotos während der goldenen Stunde mit.",
+            "hu": "Élvezze a tengerparti panorámát ebből az ikonikus navigációs világítótoronyból, és mindenképpen hozza magával a fényképezőgépét a naplemente aranyórájában.",
+            "ro": "Admirați priveliștile panoramice ale coastei de la acest far de navigație iconic și aduceți-vă camera pentru fotografii spectaculoase la ora de aur."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Start your day breathing in the fresh sea air at the natural harbor of Fowey before delving into local lore at the town museum.\n\nMidday: After immersing yourself in maritime history, admire the stunning architecture of St Fimbarrus Church right in the heart of town.\n\nAfternoon: Follow the scenic coastal path towards Readymoney Cove Beach, where you can relax on the sand and enjoy the sheltered waters.\n\nEvening: Conclude with a walk up to Saint Catherine's Castle and the adjacent Point Light, watching the sunset paint the Cornish coastline.",
+        "de": "Morning: Beginnen Sie Ihren Tag mit der frischen Meeresluft am natürlichen Hafen von Fowey, bevor Sie im Stadtmuseum in die lokale Geschichte eintauchen.\n\nMidday: Nachdem Sie in die maritime Geschichte eingetaucht sind, bewundern Sie die atemberaubende Architektur der St. Fimbarrus Church im Herzen der Stadt.\n\nAfternoon: Folgen Sie dem malerischen Küstenpfad zum Readymoney Cove Beach, wo Sie im Sand entspannen und das geschützte Wasser genießen können.\n\nEvening: Schließen Sie mit einem Spaziergang zum Saint Catherine's Castle und dem Point Light ab und beobachten Sie den Sonnenuntergang an der Küste.",
+        "hu": "Morning: Kezdje a napot a friss tengeri levegővel Fowey természetes kikötőjében, mielőtt elmélyülne a helyi történelemben a városi múzeumban.\n\nMidday: Miután elmerült a tengerészeti történelemben, csodálja meg a St Fimbarrus templom lenyűgöző építészetét a város szívében.\n\nAfternoon: Kövesse a festői parti ösvényt a Readymoney Cove Beach felé, ahol megpihenhet a homokban és élvezheti a védett vizeket.\n\nEvening: Zárja a napot a Saint Catherine kastélyhoz és a szomszédos világítótoronyhoz tett sétával, figyelve, ahogy a naplemente megfesti a partot.",
+        "ro": "Morning: Începeți-vă ziua respirând aerul proaspăt al mării în portul natural din Fowey, înainte de a explora istoria locală la muzeul orașului.\n\nMidday: După ce v-ați cufundat în istoria maritimă, admirați arhitectura uimitoare a Bisericii St Fimbarrus, chiar în inima orașului.\n\nAfternoon: Urmați traseul pitoresc de coastă către plaja Readymoney Cove, unde vă puteți relaxa pe nisip și vă puteți bucura de apele adăpostite.\n\nEvening: Încheiați cu o plimbare până la Castelul Saint Catherine și Farul Point adiacent, privind apusul pictând coasta din Cornwall."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Fowey/Caffa Mill Obelisk",
+            "de": "Fowey/Caffa Mill Obelisk",
+            "hu": "Fowey/Caffa Mill obeliszk",
+            "ro": "Obeliscul Fowey/Caffa Mill"
+          },
+          "coords": [
+            -4.63444,
+            50.33981
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "View this striking granite obelisk monument celebrating Queen Victoria's jubilee, and use the nearby car park as a convenient starting point for your ride.",
+            "de": "Betrachten Sie diesen markanten Granitobelisken zur Feier des Jubiläums von Queen Victoria und nutzen Sie den nahegelegenen Parkplatz als bequemen Startpunkt.",
+            "hu": "Tekintse meg ezt a Viktória királynő jubileumát ünneplő, lenyűgöző gránit obeliszket, és használja a közeli parkolót az utazás kényelmes kiindulópontjaként.",
+            "ro": "Vizualizați acest obelisc de granit care sărbătorește jubileul Reginei Victoria și folosiți parcarea din apropiere ca punct de plecare pentru plimbare."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey Church (St Fimbarrus)",
+            "de": "Fowey Church (St Fimbarrus)",
+            "hu": "Fowey templom (St Fimbarrus)",
+            "ro": "Biserica Fowey (St Fimbarrus)"
+          },
+          "coords": [
+            -4.635715,
+            50.335363
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Admire the beautiful Norman architecture and intricate stained glass of this historic church, and visit early in the day to avoid the larger crowds.",
+            "de": "Bewundern Sie die normannische Architektur und die bunten Glasfenster dieser historischen Kirche; besuchen Sie sie früh am Tag, um den Massen zu entgehen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű normann építészetét és bonyolult ólomüveg ablakait, és érkezzen korán a nagyobb tömeg elkerülése érdekében.",
+            "ro": "Admirați frumoasa arhitectură normandă și vitraliile complicate ale acestei biserici istorice și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey Town Museum",
+            "de": "Stadtmuseum Fowey",
+            "hu": "Fowey Városi Múzeum",
+            "ro": "Muzeul Orașului Fowey"
+          },
+          "coords": [
+            -4.634801,
+            50.335128
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Discover Fowey's rich maritime history and literary connections in this compact museum, but note that entry is often cash only so bring some coins.",
+            "de": "Entdecken Sie in diesem kompakten Museum die reiche maritime Geschichte von Fowey, aber beachten Sie, dass der Eintritt oft nur in bar bezahlt werden kann.",
+            "hu": "Fedezze fel Fowey gazdag tengerészeti múltját és irodalmi kapcsolatait ebben a múzeumban, de ne feledje, hogy a belépés gyakran csak készpénzzel lehetséges.",
+            "ro": "Descoperiți bogata istorie maritimă a orașului Fowey în acest muzeu compact, dar rețineți că intrarea se plătește adesea doar cu numerar, deci aduceți monede."
+          }
+        },
+        {
+          "name": {
+            "en": "Readymoney Cove Beach",
+            "de": "Readymoney Cove Beach",
+            "hu": "Readymoney Cove Beach",
+            "ro": "Readymoney Cove Beach"
+          },
+          "coords": [
+            -4.64539,
+            50.329406
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Relax on the sandy shores of this sheltered cove perfect for family swimming, and grab a coffee at the small seasonal kiosk before claiming your spot.",
+            "de": "Entspannen Sie sich an den Sandstränden dieser geschützten Bucht, die sich perfekt zum Schwimmen eignet, und holen Sie sich am saisonalen Kiosk einen Kaffee.",
+            "hu": "Pihenjen ennek a védett, családi fürdőzésre tökéletes öbölnek a homokos partján, és igyon egy kávét a szezonális kis kioszkban, mielőtt helyet foglalna.",
+            "ro": "Relaxați-vă pe țărmul nisipos al acestui golf adăpostit, perfect pentru înot, și luați o cafea la micul chioșc sezonier înainte de a vă rezerva locul."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint Catherine's Castle",
+            "de": "Saint Catherine's Castle",
+            "hu": "Saint Catherine kastély",
+            "ro": "Castelul Saint Catherine"
+          },
+          "coords": [
+            -4.644484,
+            50.32826
+          ],
+          "category": "castle",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Explore the ruins of this Henrician artillery fort built to protect the harbor, and wear sturdy shoes for the steep but rewarding path up the cliff.",
+            "de": "Erkunden Sie die Ruinen dieses Artillerieforts, das zum Schutz des Hafens erbaut wurde, und tragen Sie festes Schuhwerk für den steilen Weg die Klippe hinauf.",
+            "hu": "Fedezze fel e kikötővédő tüzérségi erőd romjait, és viseljen masszív cipőt a sziklán felfelé vezető, meredek, de nagyon is megéri fáradságot jelentő ösvényen.",
+            "ro": "Explorați ruinele acestui fort de artilerie construit pentru a proteja portul și purtați încălțăminte rezistentă pentru poteca abruptă de pe stâncă."
+          }
+        },
+        {
+          "name": {
+            "en": "Coombe Haven",
+            "de": "Coombe Haven",
+            "hu": "Coombe Haven",
+            "ro": "Coombe Haven"
+          },
+          "coords": [
+            -4.652077,
+            50.326779
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Discover a tranquil coastal retreat away from the bustling town center, and pack a small picnic to enjoy the peaceful atmosphere by the water's edge.",
+            "de": "Entdecken Sie einen ruhigen Rückzugsort an der Küste abseits des geschäftigen Stadtzentrums und packen Sie ein kleines Picknick ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezzen fel egy nyugodt tengerparti menedéket távol a nyüzsgő városközponttól, és csomagoljon egy kis pikniket, hogy élvezze a békés légkört a vízparton.",
+            "ro": "Descoperiți un refugiu de coastă liniștit, departe de centrul plin de viață al orașului, și luați un mic picnic pentru a vă bucura de atmosferă lângă apă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Kick off your cycling tour near the historic Caffa Mill Obelisk, setting a steady pace towards the charming center of Fowey.\n\nMidday: Take a cultural break to explore the intricate details of Fowey Church and the fascinating exhibits within the local Town Museum.\n\nAfternoon: Pedal along the scenic coastal route to Readymoney Cove Beach, enjoying a refreshing break by the sea before tackling the cliffs.\n\nEvening: Ride up to Saint Catherine's Castle for dramatic views, then wind down your journey at the tranquil and secluded Coombe Haven.",
+        "de": "Morning: Beginnen Sie Ihre Radtour in der Nähe des historischen Caffa Mill Obelisken und fahren Sie in einem stetigen Tempo in Richtung des Zentrums.\n\nMidday: Machen Sie eine kulturelle Pause, um die komplizierten Details der Fowey Church und die faszinierenden Exponate im Stadtmuseum zu erkunden.\n\nAfternoon: Radeln Sie entlang der Küstenroute zum Readymoney Cove Beach und genießen Sie eine erfrischende Pause am Meer, bevor Sie die Klippen in Angriff nehmen.\n\nEvening: Fahren Sie für dramatische Ausblicke zum Saint Catherine's Castle hinauf und lassen Sie Ihre Reise im ruhigen und abgelegenen Coombe Haven ausklingen.",
+        "hu": "Morning: Kezdje kerékpártúráját a történelmi Caffa Mill obeliszk közelében, egyenletes tempót diktálva Fowey hangulatos központja felé.\n\nMidday: Tartson kulturális szünetet a Fowey templom bonyolult részleteinek és a helyi városi múzeum lenyűgöző kiállításainak felfedezésére.\n\nAfternoon: Tekerjen a festői tengerparti úton a Readymoney Cove Beach felé, élvezve a frissítő pihenőt a tengerparton, mielőtt megküzd a sziklákkal.\n\nEvening: Kerékpározzon fel a Saint Catherine kastélyhoz a drámai kilátásért, majd lazítson a nyugodt és félreeső Coombe Havenben.",
+        "ro": "Morning: Începeți-vă turul cu bicicleta lângă istoricul Obelisc Caffa Mill, stabilind un ritm constant spre centrul fermecător al orașului Fowey.\n\nMidday: Luați o pauză culturală pentru a explora detaliile complicate ale Bisericii Fowey și exponatele fascinante din Muzeul Local al Orașului.\n\nAfternoon: Pedalați de-a lungul rutei de coastă spre Readymoney Cove Beach, bucurându-vă de o pauză răcoritoare la malul mării înainte de a aborda stâncile.\n\nEvening: Mergeți până la Castelul Saint Catherine pentru priveliști dramatice, apoi încheiați-vă călătoria la liniștitul și retrasul Coombe Haven."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "St Wyllow",
+            "de": "St Wyllow",
+            "hu": "St Wyllow",
+            "ro": "St Wyllow"
+          },
+          "coords": [
+            -4.608381,
+            50.334353
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Step inside this ancient Celtic church renowned for its carved woodwork, and look out for the fascinating historical details hidden in the wooden pews.",
+            "de": "Betreten Sie diese alte keltische Kirche, die für ihre geschnitzten Holzarbeiten bekannt ist, und achten Sie auf die faszinierenden historischen Details in den Bänken.",
+            "hu": "Lépjen be ebbe az ősi kelta templomba, amely faragott famunkáiról híres, és figyelje meg a fapadokban elrejtett lenyűgöző, apró történelmi részleteket.",
+            "ro": "Pășiți în interiorul acestei vechi biserici celtice renumite pentru sculpturile în lemn și căutați detaliile istorice ascunse în băncile de lemn."
+          }
+        },
+        {
+          "name": {
+            "en": "St. Wyllow Chapel",
+            "de": "St. Wyllow Chapel",
+            "hu": "St. Wyllow kápolna",
+            "ro": "Capela St. Wyllow"
+          },
+          "coords": [
+            -4.625021,
+            50.33906
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Visit the quiet remnants of this sacred chapel site nestled in the Cornish countryside, and tread carefully as the surrounding paths can get quite muddy.",
+            "de": "Besuchen Sie die ruhigen Überreste dieser heiligen Kapelle inmitten der kornischen Landschaft und treten Sie vorsichtig auf, da die Wege recht schlammig sein können.",
+            "hu": "Látogasson el e szent kápolna csendes maradványaihoz a cornwalli vidéken, és lépkedjen óvatosan, mivel a környező ösvények meglehetősen sárosak lehetnek.",
+            "ro": "Vizitați rămășițele liniștite ale acestei capele sfinte din peisajul rural și pășiți cu grijă, deoarece cărările din jur pot deveni destul de noroioase."
+          }
+        },
+        {
+          "name": {
+            "en": "St John",
+            "de": "St John",
+            "hu": "St John",
+            "ro": "St John"
+          },
+          "coords": [
+            -4.628961,
+            50.339743
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Appreciate the simpler architectural elegance of this local parish church, and check the community board outside for details on upcoming local village events.",
+            "de": "Schätzen Sie die einfachere architektonische Eleganz dieser örtlichen Pfarrkirche und prüfen Sie die Anschlagtafel auf Details zu bevorstehenden Veranstaltungen.",
+            "hu": "Értékelje e helyi plébániatemplom egyszerűbb építészeti eleganciáját, és nézze meg a kinti hirdetőtáblát a közelgő helyi falusi események részleteiért.",
+            "ro": "Apreciați eleganța arhitecturală mai simplă a acestei biserici parohiale locale și verificați panoul comunitar pentru detalii despre evenimentele locale."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey/Caffa Mill Obelisk",
+            "de": "Fowey/Caffa Mill Obelisk",
+            "hu": "Fowey/Caffa Mill obeliszk",
+            "ro": "Obeliscul Fowey/Caffa Mill"
+          },
+          "coords": [
+            -4.63444,
+            50.33981
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "View this striking granite obelisk monument celebrating Queen Victoria's jubilee, and use the nearby car park as a convenient starting point for your ride.",
+            "de": "Betrachten Sie diesen markanten Granitobelisken zur Feier des Jubiläums von Queen Victoria und nutzen Sie den nahegelegenen Parkplatz als bequemen Startpunkt.",
+            "hu": "Tekintse meg ezt a Viktória királynő jubileumát ünneplő, lenyűgöző gránit obeliszket, és használja a közeli parkolót az utazás kényelmes kiindulópontjaként.",
+            "ro": "Vizualizați acest obelisc de granit care sărbătorește jubileul Reginei Victoria și folosiți parcarea din apropiere ca punct de plecare pentru plimbare."
+          }
+        },
+        {
+          "name": {
+            "en": "Fowey Church (St Fimbarrus)",
+            "de": "Fowey Church (St Fimbarrus)",
+            "hu": "Fowey templom (St Fimbarrus)",
+            "ro": "Biserica Fowey (St Fimbarrus)"
+          },
+          "coords": [
+            -4.635715,
+            50.335363
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Admire the beautiful Norman architecture and intricate stained glass of this historic church, and visit early in the day to avoid the larger crowds.",
+            "de": "Bewundern Sie die normannische Architektur und die bunten Glasfenster dieser historischen Kirche; besuchen Sie sie früh am Tag, um den Massen zu entgehen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű normann építészetét és bonyolult ólomüveg ablakait, és érkezzen korán a nagyobb tömeg elkerülése érdekében.",
+            "ro": "Admirați frumoasa arhitectură normandă și vitraliile complicate ale acestei biserici istorice și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint Catherine's Castle",
+            "de": "Saint Catherine's Castle",
+            "hu": "Saint Catherine kastély",
+            "ro": "Castelul Saint Catherine"
+          },
+          "coords": [
+            -4.644484,
+            50.32826
+          ],
+          "category": "castle",
+          "arrive_at": "14:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Explore the ruins of this Henrician artillery fort built to protect the harbor, and wear sturdy shoes for the steep but rewarding path up the cliff.",
+            "de": "Erkunden Sie die Ruinen dieses Artillerieforts, das zum Schutz des Hafens erbaut wurde, und tragen Sie festes Schuhwerk für den steilen Weg die Klippe hinauf.",
+            "hu": "Fedezze fel e kikötővédő tüzérségi erőd romjait, és viseljen masszív cipőt a sziklán felfelé vezető, meredek, de nagyon is megéri fáradságot jelentő ösvényen.",
+            "ro": "Explorați ruinele acestui fort de artilerie construit pentru a proteja portul și purtați încălțăminte rezistentă pentru poteca abruptă de pe stâncă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Begin your driving adventure east of the river at the historic St Wyllow church, exploring the quiet rural roads of Lanteglos.\n\nMidday: Continue your journey through the countryside to discover the ancient St. Wyllow Chapel and the charming local St John parish.\n\nAfternoon: Cross the river towards Fowey to see the Caffa Mill Obelisk, then park the car to visit the beautiful Fowey Church on foot.\n\nEvening: Drive down towards the coast to explore the impressive ruins of Saint Catherine's Castle, capping off your day with stunning sea views.",
+        "de": "Morning: Beginnen Sie Ihr Fahrabenteuer östlich des Flusses an der historischen St. Wyllow Church und erkunden Sie die ruhigen Landstraßen von Lanteglos.\n\nMidday: Setzen Sie Ihre Reise durch die Landschaft fort, um die alte St. Wyllow Chapel und die charmante lokale Gemeinde St. John zu entdecken.\n\nAfternoon: Überqueren Sie den Fluss nach Fowey, um den Caffa Mill Obelisken zu sehen, und parken Sie das Auto, um die schöne Fowey Church zu Fuß zu besuchen.\n\nEvening: Fahren Sie in Richtung Küste, um die beeindruckenden Ruinen von Saint Catherine's Castle zu erkunden und den Tag mit herrlichem Meerblick abzurunden.",
+        "hu": "Morning: Kezdje autós kalandját a folyótól keletre, a történelmi St Wyllow templomnál, felfedezve Lanteglos csendes vidéki útjait.\n\nMidday: Folytassa utazását a vidéken, hogy felfedezze az ősi St. Wyllow kápolnát és a hangulatos helyi St John plébániát.\n\nAfternoon: Keljen át a folyón Fowey felé, hogy megnézze a Caffa Mill obeliszket, majd parkolja le autóját, hogy gyalogosan látogassa meg a gyönyörű Fowey templomot.\n\nEvening: Vezessen le a tengerpart felé, hogy felfedezze a Saint Catherine kastély lenyűgöző romjait, és a napot lenyűgöző tengeri kilátással zárja.",
+        "ro": "Morning: Începeți-vă aventura cu mașina la est de râu, la istorica biserică St Wyllow, explorând drumurile rurale liniștite din Lanteglos.\n\nMidday: Continuați-vă călătoria prin mediul rural pentru a descoperi vechea Capelă St. Wyllow și fermecătoarea parohie locală St John.\n\nAfternoon: Traversați râul spre Fowey pentru a vedea Obeliscul Caffa Mill, apoi parcați mașina pentru a vizita frumoasa biserică Fowey pe jos.\n\nEvening: Conduceți spre coastă pentru a explora ruinele impresionante ale Castelului Saint Catherine, încheind ziua cu priveliști uimitoare la mare."
+      }
+    }
+  }
+}

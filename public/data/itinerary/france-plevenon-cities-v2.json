@@ -1,0 +1,497 @@
+{
+  "city_id": "france-plevenon-cities-v2",
+  "anchor": {
+    "name": "Plévenon",
+    "coords": [
+      -2.33156,
+      48.65489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.33236,
+            48.654429
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser Dorfkirche, die die bretonische Geschichte widerspiegelt, und respektieren Sie die Ruhezeiten.",
+            "hu": "Csodálja meg a falu templomának bájos kőépítészetét, amely a helyi breton történelmet tükrözi, de mindenképpen tartsa tiszteletben a csendes órákat.",
+            "ro": "Admirați arhitectura fermecătoare din piatră a acestei biserici care reflectă istoria bretonă, dar asigurați-vă că respectați orele de liniște.",
+            "en": "Admire the charming stone architecture of this village church, which reflects local Breton history, but be sure to respect the quiet hours during visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Ker Avel",
+            "hu": "Ker Avel szélmalom",
+            "ro": "Moara de vânt Ker Avel",
+            "en": "Moulin de Ker Avel"
+          },
+          "coords": [
+            -2.330453,
+            48.662447
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese restaurierte traditionelle Windmühle, die das landwirtschaftliche Erbe zeigt, und fotografieren Sie sie vom grasbewachsenen Hügel.",
+            "hu": "Fedezze fel ezt a felújított hagyományos szélmalmot, amely a terület örökségét mutatja be, és ne felejtsen el fényképezni a füves domb tetejéről.",
+            "ro": "Descoperiți această moară tradițională restaurată care prezintă patrimoniul agricol bogat, și nu uitați să faceți fotografii de pe dealul înierbat.",
+            "en": "Discover this restored traditional windmill that showcases the area's rich agricultural heritage, and don't forget to take photos from the grassy knoll."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Porry",
+            "hu": "Plage du Porry",
+            "ro": "Plaja Porry",
+            "en": "Plage du Porry"
+          },
+          "coords": [
+            -2.341302,
+            48.667548
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, weniger bekannten Strand mit fantastischer Aussicht und packen Sie bequeme Wasserschuhe für felsige Abschnitte ein.",
+            "hu": "Pihenjen ezen az érintetlen, kevésbé ismert strandon, amely fantasztikus kilátást nyújt a partra, és hozzon magával kényelmes vizicipőt a sziklás részekhez.",
+            "ro": "Relaxați-vă pe această plajă mai puțin cunoscută, cu vederi fantastice, și nu uitați să aduceți încălțăminte confortabilă pentru porțiunile stâncoase.",
+            "en": "Relax on this pristine, lesser-known beach offering fantastic coastal views, and remember to pack some comfortable water shoes for the rocky sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Fosse",
+            "hu": "Plage de La Fosse",
+            "ro": "Plaja La Fosse",
+            "en": "Plage de La Fosse"
+          },
+          "coords": [
+            -2.34532,
+            48.665776
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Sandstrände, die sich ideal für Picknicks eignen, aber prüfen Sie vorher den Gezeitenplan, um die Sonnenzeit zu maximieren.",
+            "hu": "Élvezze a kiterjedt homokos partokat, amelyek ideálisak családi piknikekhez, de előtte ellenőrizze az árapály táblázatot a napozási idő maximalizálása érdekében.",
+            "ro": "Bucurați-vă de țărmurile nisipoase ideale pentru picnicuri de familie și verificați programul mareelor pentru a vă maximiza timpul petrecut la soare.",
+            "en": "Enjoy the expansive sandy shores ideal for family picnics and refreshing swims, but check the tide schedule beforehand to maximize your sunbathing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Grèves d'en Bas",
+            "hu": "Plage des Grèves d'en Bas",
+            "ro": "Plaja Grèves d'en Bas",
+            "en": "Plage des Grèves d'en Bas"
+          },
+          "coords": [
+            -2.353611,
+            48.661873
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schroffen Klippen hinter diesem weiten malerischen Strand und bleiben Sie bis zum späten Nachmittag, um die dramatischen Schatten zu sehen.",
+            "hu": "Csodálja meg a festői strandot szegélyező zord sziklákat, és maradjon késő délutánig, hogy elkapja a lenyugvó nap drámai árnyékait a tengerparton.",
+            "ro": "Minunați-vă de stâncile abrupte care mărginesc această plajă și rămâneți până după-amiaza târziu pentru a prinde umbrele dramatice ale soarelui la apus.",
+            "en": "Marvel at the rugged cliffs backing this expansive picturesque beach, and stay until late afternoon to catch the dramatic shadows cast by the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der historischen Kirche Saint-Pierre und erkunden Sie ihre ruhige Schönheit, bevor Sie nach Norden gehen. Erreichen Sie die Windmühle Ker Avel, ein Zeugnis der landwirtschaftlichen Vergangenheit und der starken Küstenwinde. Verbringen Sie den Nachmittag am Strand, angefangen bei der Plage du Porry bis hin zu den Sandstränden von La Fosse. Beenden Sie Ihren Spaziergang an der Plage des Grèves d'en Bas und beobachten Sie die Gezeiten, während die Sonne untergeht.",
+        "hu": "Kezdje a történelmi Saint-Pierre templomnál, felfedezve annak csendes szépségét, mielőtt északra indulna. Érje el a Ker Avel szélmalmot, amely a régió mezőgazdasági múltjának és az erős part menti szeleknek a tanúja. Töltse a délutánt a strandokon, kezdve a Plage du Porry-nál, majd a La Fosse homokos szakaszain. Fejezze be sétáját a Plage des Grèves d'en Bas partján, figyelve az óceán árapályát, ahogy a nap leereszkedik.",
+        "ro": "Începeți la biserica istorică Saint-Pierre, explorând frumusețea ei liniștită înainte de a vă îndrepta spre nord. Ajungeți la moara de vânt Ker Avel, o mărturie a trecutului agricol și a vânturilor puternice de coastă. Petreceți după-amiaza pe plajă, începând cu Plage du Porry și trecând spre întinderile de nisip de la La Fosse. Încheiați-vă plimbarea la Plage des Grèves d'en Bas, urmărind marea în timp ce soarele coboară la orizont.",
+        "en": "Start at the historic Saint-Pierre church, exploring its quiet beauty before heading north. Reach the iconic Ker Avel windmill, a testament to the region's agricultural past and strong coastal winds. Spend the afternoon beach hopping, starting at Plage du Porry and moving to the sandy stretches of La Fosse. End your coastal walk at Plage des Grèves d'en Bas, watching the ocean tide as the sun lowers on the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.33236,
+            48.654429
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser Dorfkirche, die die bretonische Geschichte widerspiegelt, und respektieren Sie die Ruhezeiten.",
+            "hu": "Csodálja meg a falu templomának bájos kőépítészetét, amely a helyi breton történelmet tükrözi, de mindenképpen tartsa tiszteletben a csendes órákat.",
+            "ro": "Admirați arhitectura fermecătoare din piatră a acestei biserici care reflectă istoria bretonă, dar asigurați-vă că respectați orele de liniște.",
+            "en": "Admire the charming stone architecture of this village church, which reflects local Breton history, but be sure to respect the quiet hours during visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Ker Avel",
+            "hu": "Ker Avel szélmalom",
+            "ro": "Moara de vânt Ker Avel",
+            "en": "Moulin de Ker Avel"
+          },
+          "coords": [
+            -2.330453,
+            48.662447
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese restaurierte traditionelle Windmühle, die das landwirtschaftliche Erbe zeigt, und fotografieren Sie sie vom grasbewachsenen Hügel.",
+            "hu": "Fedezze fel ezt a felújított hagyományos szélmalmot, amely a terület örökségét mutatja be, és ne felejtsen el fényképezni a füves domb tetejéről.",
+            "ro": "Descoperiți această moară tradițională restaurată care prezintă patrimoniul agricol bogat, și nu uitați să faceți fotografii de pe dealul înierbat.",
+            "en": "Discover this restored traditional windmill that showcases the area's rich agricultural heritage, and don't forget to take photos from the grassy knoll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lande du Cap Fréhel",
+            "hu": "Lande du Cap Fréhel",
+            "ro": "Lande du Cap Fréhel",
+            "en": "Lande du Cap Fréhel"
+          },
+          "coords": [
+            -2.322678,
+            48.673325
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese herrliche Heidelandschaft voller leuchtender Farben und tragen Sie eine Windjacke, da die Meeresbrise überraschend frisch sein kann.",
+            "hu": "Sétáljon végig ezen a csodálatos, élénk színekben pompázó tengerparti pusztaságon, és viseljen széldzsekit, mivel az óceáni szellő itt meglepően hűvös.",
+            "ro": "Plimbați-vă prin această landă de coastă plină de culori vibrante și purtați o jachetă de vânt, deoarece briza oceanului poate fi surprinzător de rece.",
+            "en": "Wander through this magnificent coastal heathland bursting with vibrant colors, and wear a windbreaker as the ocean breezes here can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Fosse",
+            "hu": "Plage de La Fosse",
+            "ro": "Plaja La Fosse",
+            "en": "Plage de La Fosse"
+          },
+          "coords": [
+            -2.34532,
+            48.665776
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Sandstrände, die sich ideal für Picknicks eignen, aber prüfen Sie vorher den Gezeitenplan, um die Sonnenzeit zu maximieren.",
+            "hu": "Élvezze a kiterjedt homokos partokat, amelyek ideálisak családi piknikekhez, de előtte ellenőrizze az árapály táblázatot a napozási idő maximalizálása érdekében.",
+            "ro": "Bucurați-vă de țărmurile nisipoase ideale pentru picnicuri de familie și verificați programul mareelor pentru a vă maximiza timpul petrecut la soare.",
+            "en": "Enjoy the expansive sandy shores ideal for family picnics and refreshing swims, but check the tide schedule beforehand to maximize your sunbathing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Anse du Croc",
+            "hu": "Plage de l'Anse du Croc",
+            "ro": "Plaja Anse du Croc",
+            "en": "Plage de l'Anse du Croc"
+          },
+          "coords": [
+            -2.361173,
+            48.656655
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des lokalen Wassersports in dieser dynamischen Bucht und bringen Sie ein stabiles Strandzelt mit, um sich vor Wind zu schützen.",
+            "hu": "Tapasztalja meg a helyi vízi sportok izgalmát ebben a dinamikus öbölben, és hozzon egy erős strandsátrat, ha menedéket keres a part menti szelektől.",
+            "ro": "Experimentați emoția sporturilor acvatice în acest golf dinamic și aduceți un cort de plajă robust dacă intenționați să vă adăpostiți de vânturile de coastă.",
+            "en": "Experience the thrill of local water sports at this dynamic, breezy bay, and bring a sturdy beach tent if you plan to shelter from the coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Meurtel",
+            "hu": "Château du Meurtel",
+            "ro": "Château du Meurtel",
+            "en": "Château du Meurtel"
+          },
+          "coords": [
+            -2.311856,
+            48.64571
+          ],
+          "category": "castle",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Schlosses der lokalen Nobilität, aber prüfen Sie vor Ihrer Ankunft unbedingt die privaten Tourzeiten.",
+            "hu": "Fedezze fel ezen elegáns kastély történelmi területét, amely a helyi nemességről mesél, bár érkezés előtt érdemes ellenőrizni a privát túrák időpontjait.",
+            "ro": "Explorați terenurile acestui castel elegant care spune povestea nobilimii locale, deși ar trebui să verificați programul tururilor private înainte de sosire.",
+            "en": "Explore the historic grounds of this elegant chateau that tells a story of local nobility, though you should check the private tour times before arriving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Dorfzentrum, bevor Sie in Richtung Norden zur malerischen Mühle Ker Avel radeln. Fahren Sie durch die atemberaubende Lande du Cap Fréhel, wo Heidelandschaft aufs Meer trifft. Fahren Sie an der Küste entlang und halten Sie an der La Fosse und l'Anse du Croc. Beenden Sie Ihr Fahrradabenteuer im Süden auf dem großen Gelände des Château du Meurtel.",
+        "hu": "Kezdje a falu központjában, mielőtt északra pedálozna a festői Ker Avel malomhoz. Tekerjen át a lélegzetelállító Lande du Cap Fréhel pusztaságán, ahol a növényzet a tengerrel találkozik. Haladjon a part mentén, megállva a La Fosse és l'Anse du Croc strandjainál. Fejezze be kerékpáros kalandját délen, a Château du Meurtel hatalmas területén.",
+        "ro": "Începeți în centrul satului înainte de a pedala spre nord până la pitoreasca moară Ker Avel. Călătoriți prin uluitoarea Lande du Cap Fréhel, unde vegetația întâlnește marea. Mergeți de-a lungul coastei, oprindu-vă la La Fosse și l'Anse du Croc. Încheiați-vă aventura cu bicicleta în sud, pe terenurile mărețe ale Château du Meurtel.",
+        "en": "Start at the village center before pedaling north to the picturesque Moulin de Ker Avel. Ride through the breathtaking Lande du Cap Fréhel, where vibrant heathland meets the sea. Cruise along the coastline, stopping at La Fosse and l'Anse du Croc to enjoy the beaches. Finish your biking adventure in the south at the grand grounds of Château du Meurtel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:37",
+      "total_km": 8.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château du Meurtel",
+            "hu": "Château du Meurtel",
+            "ro": "Château du Meurtel",
+            "en": "Château du Meurtel"
+          },
+          "coords": [
+            -2.311856,
+            48.64571
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Schlosses der lokalen Nobilität, aber prüfen Sie vor Ihrer Ankunft unbedingt die privaten Tourzeiten.",
+            "hu": "Fedezze fel ezen elegáns kastély történelmi területét, amely a helyi nemességről mesél, bár érkezés előtt érdemes ellenőrizni a privát túrák időpontjait.",
+            "ro": "Explorați terenurile acestui castel elegant care spune povestea nobilimii locale, deși ar trebui să verificați programul tururilor private înainte de sosire.",
+            "en": "Explore the historic grounds of this elegant chateau that tells a story of local nobility, though you should check the private tour times before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Château Serein",
+            "hu": "Plage de Château Serein",
+            "ro": "Plaja Château Serein",
+            "en": "Plage de Château Serein"
+          },
+          "coords": [
+            -2.309039,
+            48.641356
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe an diesem abgelegenen, in die Natur eingebetteten Erholungsort, der den perfekten Rahmen für ein ruhiges morgendliches Lesen bietet.",
+            "hu": "Találjon nyugalmat ezen a természetbe ágyazott, eldugott rekreációs helyen, amely tökéletes helyszínt biztosít egy csendes reggeli olvasáshoz.",
+            "ro": "Găsiți liniștea în acest loc de agrement izolat în mijlocul naturii, care este cadrul perfect pentru o dimineață liniștită citind cartea preferată.",
+            "en": "Find tranquility at this secluded recreational spot nestled against nature, making it the perfect setting for a quiet morning reading your favorite book."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.33236,
+            48.654429
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser Dorfkirche, die die bretonische Geschichte widerspiegelt, und respektieren Sie die Ruhezeiten.",
+            "hu": "Csodálja meg a falu templomának bájos kőépítészetét, amely a helyi breton történelmet tükrözi, de mindenképpen tartsa tiszteletben a csendes órákat.",
+            "ro": "Admirați arhitectura fermecătoare din piatră a acestei biserici care reflectă istoria bretonă, dar asigurați-vă că respectați orele de liniște.",
+            "en": "Admire the charming stone architecture of this village church, which reflects local Breton history, but be sure to respect the quiet hours during visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Anse du Croc",
+            "hu": "Plage de l'Anse du Croc",
+            "ro": "Plaja Anse du Croc",
+            "en": "Plage de l'Anse du Croc"
+          },
+          "coords": [
+            -2.361173,
+            48.656655
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des lokalen Wassersports in dieser dynamischen Bucht und bringen Sie ein stabiles Strandzelt mit, um sich vor Wind zu schützen.",
+            "hu": "Tapasztalja meg a helyi vízi sportok izgalmát ebben a dinamikus öbölben, és hozzon egy erős strandsátrat, ha menedéket keres a part menti szelektől.",
+            "ro": "Experimentați emoția sporturilor acvatice în acest golf dinamic și aduceți un cort de plajă robust dacă intenționați să vă adăpostiți de vânturile de coastă.",
+            "en": "Experience the thrill of local water sports at this dynamic, breezy bay, and bring a sturdy beach tent if you plan to shelter from the coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Grèves d'en Bas",
+            "hu": "Plage des Grèves d'en Bas",
+            "ro": "Plaja Grèves d'en Bas",
+            "en": "Plage des Grèves d'en Bas"
+          },
+          "coords": [
+            -2.353611,
+            48.661873
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schroffen Klippen hinter diesem weiten malerischen Strand und bleiben Sie bis zum späten Nachmittag, um die dramatischen Schatten zu sehen.",
+            "hu": "Csodálja meg a festői strandot szegélyező zord sziklákat, és maradjon késő délutánig, hogy elkapja a lenyugvó nap drámai árnyékait a tengerparton.",
+            "ro": "Minunați-vă de stâncile abrupte care mărginesc această plajă și rămâneți până după-amiaza târziu pentru a prinde umbrele dramatice ale soarelui la apus.",
+            "en": "Marvel at the rugged cliffs backing this expansive picturesque beach, and stay until late afternoon to catch the dramatic shadows cast by the setting sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Fosse",
+            "hu": "Plage de La Fosse",
+            "ro": "Plaja La Fosse",
+            "en": "Plage de La Fosse"
+          },
+          "coords": [
+            -2.34532,
+            48.665776
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Sandstrände, die sich ideal für Picknicks eignen, aber prüfen Sie vorher den Gezeitenplan, um die Sonnenzeit zu maximieren.",
+            "hu": "Élvezze a kiterjedt homokos partokat, amelyek ideálisak családi piknikekhez, de előtte ellenőrizze az árapály táblázatot a napozási idő maximalizálása érdekében.",
+            "ro": "Bucurați-vă de țărmurile nisipoase ideale pentru picnicuri de familie și verificați programul mareelor pentru a vă maximiza timpul petrecut la soare.",
+            "en": "Enjoy the expansive sandy shores ideal for family picnics and refreshing swims, but check the tide schedule beforehand to maximize your sunbathing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Ker Avel",
+            "hu": "Ker Avel szélmalom",
+            "ro": "Moara de vânt Ker Avel",
+            "en": "Moulin de Ker Avel"
+          },
+          "coords": [
+            -2.330453,
+            48.662447
+          ],
+          "category": "historical",
+          "arrive_at": "16:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese restaurierte traditionelle Windmühle, die das landwirtschaftliche Erbe zeigt, und fotografieren Sie sie vom grasbewachsenen Hügel.",
+            "hu": "Fedezze fel ezt a felújított hagyományos szélmalmot, amely a terület örökségét mutatja be, és ne felejtsen el fényképezni a füves domb tetejéről.",
+            "ro": "Descoperiți această moară tradițională restaurată care prezintă patrimoniul agricol bogat, și nu uitați să faceți fotografii de pe dealul înierbat.",
+            "en": "Discover this restored traditional windmill that showcases the area's rich agricultural heritage, and don't forget to take photos from the grassy knoll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lande du Cap Fréhel",
+            "hu": "Lande du Cap Fréhel",
+            "ro": "Lande du Cap Fréhel",
+            "en": "Lande du Cap Fréhel"
+          },
+          "coords": [
+            -2.322678,
+            48.673325
+          ],
+          "category": "natural",
+          "arrive_at": "17:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese herrliche Heidelandschaft voller leuchtender Farben und tragen Sie eine Windjacke, da die Meeresbrise überraschend frisch sein kann.",
+            "hu": "Sétáljon végig ezen a csodálatos, élénk színekben pompázó tengerparti pusztaságon, és viseljen széldzsekit, mivel az óceáni szellő itt meglepően hűvös.",
+            "ro": "Plimbați-vă prin această landă de coastă plină de culori vibrante și purtați o jachetă de vânt, deoarece briza oceanului poate fi surprinzător de rece.",
+            "en": "Wander through this magnificent coastal heathland bursting with vibrant colors, and wear a windbreaker as the ocean breezes here can be surprisingly brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Château du Meurtel und fahren Sie zum ruhigen Strand Château Serein. Fahren Sie ins Dorf zur Kirche Saint-Pierre und dann zur wilden Anse du Croc. Navigieren Sie über die malerischen Küstenstraßen zwischen Grèves d'en Bas und La Fosse. Beenden Sie Ihre Fahrt an der historischen Windmühle und den Klippen von Cap Fréhel.",
+        "hu": "Kezdje a Château du Meurtel-nél, és menjen a közeli csendes Château Serein strandra. Vezessen be a faluba a Saint-Pierre templomhoz, majd a vad Anse du Croc-hoz. Navigáljon a festői parti utakon a Grèves d'en Bas és La Fosse strandok között. Fejezze be autózását a történelmi szélmalomnál és a Cap Fréhel fenséges szikláinál.",
+        "ro": "Începeți la Château du Meurtel și mergeți la plaja liniștită Château Serein. Conduceți în sat până la biserica Saint-Pierre, apoi spre sălbatica Anse du Croc. Navigați pe drumurile pitorești de coastă dintre plajele Grèves d'en Bas și La Fosse. Încheiați-vă călătoria la moara istorică și la stâncile majestuoase de la Cap Fréhel.",
+        "en": "Begin at Château du Meurtel and head nearby to the tranquil Plage de Château Serein. Drive into the village to see Église Saint-Pierre, then out to the wild Anse du Croc. Navigate the scenic coastal roads connecting the beaches of Grèves d'en Bas and La Fosse. Conclude your drive at the historic windmill and the majestic cliffs of Cap Fréhel."
+      }
+    }
+  }
+}

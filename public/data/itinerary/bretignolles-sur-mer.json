@@ -1,0 +1,451 @@
+{
+  "city_id": "bretignolles-sur-mer",
+  "anchor": {
+    "name": "Bretignolles-sur-Mer",
+    "coords": [
+      -1.8667,
+      46.6333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.854611,
+            46.627984
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und das friedliche Innere dieser zentralen Kirche, und treten Sie ein, wenn das Morgenlicht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg ennek a központi templomnak a lenyűgöző építészetét és békés belső terét, és feltétlenül lépjen be, amikor a reggeli fény gyönyörűen megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura impresionantă și interiorul pașnic al acestei biserici centrale, asigurându-vă că intrați atunci când lumina dimineții iluminează frumos vitraliile colorate.",
+            "en": "Admire the striking architecture and peaceful interior of this central church, making sure to step inside when the morning light beautifully illuminates the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf",
+            "hu": "Minigolf",
+            "ro": "Minigolf",
+            "en": "Mini Golf"
+          },
+          "coords": [
+            -1.85868,
+            46.635861
+          ],
+          "category": "family",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie ein fröhliches Spiel auf diesem wunderbar angelegten Minigolfplatz, wo Sie bei früher Ankunft der Mittagssonne entgehen und Ihre Schläger ohne Wartezeit sichern.",
+            "hu": "Élvezze a vidám játékot ezen az elragadóan parkosított minigolfpályán, ahol a korai érkezés segít elkerülni a déli napsütést és várakozás nélkül megkapni az ütőket.",
+            "ro": "Bucurați-vă de un joc vesel pe acest teren de minigolf frumos amenajat, unde sosirea devreme vă ajută să evitați soarele amiezii și să vă luați crosele fără timpi de așteptare.",
+            "en": "Enjoy a lighthearted game at this delightfully landscaped mini-golf course, where arriving early helps you beat the midday sun and secure your clubs without any waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendée Miniature",
+            "hu": "Vendée Miniature",
+            "ro": "Vendée Miniature",
+            "en": "Vendée Miniature"
+          },
+          "coords": [
+            -1.869719,
+            46.6318
+          ],
+          "category": "cultural",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, indem Sie dieses unglaublich präzise Miniaturdorf betrachten, und bringen Sie eine Kamera mit gutem Zoom mit, um die winzigen handgefertigten Details einzufangen.",
+            "hu": "Lépjen vissza az időben, és figyelje meg a hagyományos életet ábrázoló hihetetlenül precíz miniatűr falut, és hozzon magával egy jó zoomos fényképezőgépet az apró részletek megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp observând acest sat în miniatură incredibil de precis care descrie viața tradițională și aduceți o cameră cu zoom bun pentru a surprinde detaliile minuscule.",
+            "en": "Step back in time by observing this incredibly precise miniature village depicting traditional life, and bring a camera with a good zoom to capture the tiny, hand-crafted details."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Parée",
+            "hu": "La Parée strand",
+            "ro": "Plaja La Parée",
+            "en": "La Parée Beach"
+          },
+          "coords": [
+            -1.876097,
+            46.624533
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses lebhaften und leicht zugänglichen Strandes, und kommen Sie am Nachmittag, um einen erstklassigen Platz in der Nähe der Cafés zu finden.",
+            "hu": "Pihenjen ennek a nyüzsgő és könnyen megközelíthető strandnak az aranyhomokján, érkezzen késő délután, hogy könnyen találjon egy kiváló helyet a kényelmes parti kávézók közelében.",
+            "ro": "Relaxați-vă pe nisipurile aurii ale acestei plaje animate și ușor accesibile, sosind la mijlocul după-amiezii pentru a găsi cu ușurință un loc excelent lângă cafenelele de pe faleză.",
+            "en": "Relax on the golden sands of this lively and easily accessible beach, arriving by mid-afternoon to easily find a prime spot near the convenient waterfront promenade cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielhalle La Parée",
+            "hu": "La Parée játékterem",
+            "ro": "Sala de jocuri La Parée",
+            "en": "La Parée Arcade Hall"
+          },
+          "coords": [
+            -1.874008,
+            46.625682
+          ],
+          "category": "family",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser lebhaften lokalen Spielhalle in Retro-Unterhaltung ein, wo Sie mit ein paar zusätzlichen Münzen die klassischen Flipperautomaten und Rennspiele genießen können.",
+            "hu": "Merüljön el a retro szórakozásban ebben a nyüzsgő helyi játékteremben, ahol néhány extra érme kéznél tartásával teljes mértékben élvezheti a klasszikus flippereket és versenyjátékokat.",
+            "ro": "Scufundați-vă în divertismentul retro la această sală de jocuri vibrantă locală, unde păstrarea câtorva monede suplimentare la îndemână vă va permite să vă bucurați de jocurile clasice.",
+            "en": "Dive into retro entertainment at this vibrant local arcade hall, where keeping a few extra coins handy will let you fully enjoy the classic pinball machines and racing games."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der wunderschönen Kirche Mariä Himmelfahrt im Zentrum. Am Mittag wartet lustiges Minigolf auf Sie, perfekt für ein familiäres Lachen vor dem Besuch des Miniaturdorfes. Den Nachmittag verbringen Sie damit, die faszinierenden Details der Vendée Miniature zu bestaunen. Der Abend klingt gemütlich an der Plage de La Parée und in der nahen Spielhalle aus.",
+        "hu": "Kezdje a reggelt a városközpontban található gyönyörű Nagyboldogasszony-templom felfedezésével. A délidő vidám minigolfozást hoz, amely tökéletes egy kis családi nevetéshez a miniatűr falu előtt. A délutánt a Vendée Miniature helyi életet bemutató aprólékos részleteinek megcsodálásával töltheti. Az este kellemesen zárul a nyüzsgő Plage de La Parée partján és a közeli játékteremben.",
+        "ro": "Începeți dimineața explorând frumoasa Biserică a Adormirii Maicii Domnului din centrul orașului. Prânzul aduce distracție la minigolf, perfect pentru râsete în familie înainte de a vizita satul în miniatură. După-amiaza este petrecută admirând detaliile complicate ale vieții locale la Vendée Miniature. Seara se încheie frumos de-a lungul animatei Plage de La Parée și la sala de jocuri din apropiere.",
+        "en": "Start the morning exploring the beautiful Church of Our Lady of the Assumption in the town center. Midday brings fun at the local Mini Golf, perfect for family laughs before heading to the miniature village. Afternoon is spent marveling at Vendée Miniature's intricate details of local life. The evening winds down beautifully along the lively Plage de La Parée and the nearby arcade hall."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.854611,
+            46.627984
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und das friedliche Innere dieser zentralen Kirche, und treten Sie ein, wenn das Morgenlicht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg ennek a központi templomnak a lenyűgöző építészetét és békés belső terét, és feltétlenül lépjen be, amikor a reggeli fény gyönyörűen megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura impresionantă și interiorul pașnic al acestei biserici centrale, asigurându-vă că intrați atunci când lumina dimineții iluminează frumos vitraliile colorate.",
+            "en": "Admire the striking architecture and peaceful interior of this central church, making sure to step inside when the morning light beautifully illuminates the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "La Normandelière",
+            "hu": "La Normandelière",
+            "ro": "La Normandelière",
+            "en": "La Normandelière"
+          },
+          "coords": [
+            -1.8617,
+            46.613579
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem familienfreundlichen Strand mit ruhigem Wasser und denken Sie an eine leichte Windjacke, da die Meeresbrise hier recht frisch sein kann.",
+            "hu": "Tartson egy frissítő szünetet ezen a családbarát, nyugodt vizű strandon, és ne felejtsen el csomagolni egy könnyű széldzsekit, mivel a parti szellő itt meglehetősen élénk lehet.",
+            "ro": "Faceți o pauză revigorantă pe această plajă potrivită pentru familii, cu ape calme, și nu uitați să împachetați o jachetă de vânt ușoară, deoarece briza de coastă de aici poate fi destul de rece.",
+            "en": "Take a refreshing break at this family-friendly beach featuring calm waters, and remember to pack a light windbreaker as the coastal breezes here can be quite brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Marais Girard",
+            "hu": "Marais Girard strand",
+            "ro": "Plaja Marais Girard",
+            "en": "Marais Girard Beach"
+          },
+          "coords": [
+            -1.871514,
+            46.618699
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der rauen Küste dieses malerischen Strandes entlang, der für seine Felsformationen bekannt ist, und tragen Sie feste Sandalen, um die Gezeitentümpel sicher zu erkunden.",
+            "hu": "Sétáljon végig e festői strand zord partvidékén, amely érdekes sziklaalakzatairól ismert, és viseljen masszív szandált, hogy biztonságosan felfedezhesse az árapálymedencéket apálykor.",
+            "ro": "Plimbați-vă de-a lungul coastei accidentate a acestei plaje pitorești cunoscute pentru formațiunile sale stâncoase și purtați sandale rezistente pentru a explora în siguranță bazinele cu maree.",
+            "en": "Stroll along the rugged coastline of this scenic beach known for its interesting rock formations, and wear sturdy sandals to safely explore the tide pools at low water levels."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendée Miniature",
+            "hu": "Vendée Miniature",
+            "ro": "Vendée Miniature",
+            "en": "Vendée Miniature"
+          },
+          "coords": [
+            -1.869719,
+            46.6318
+          ],
+          "category": "cultural",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, indem Sie dieses unglaublich präzise Miniaturdorf betrachten, und bringen Sie eine Kamera mit gutem Zoom mit, um die winzigen handgefertigten Details einzufangen.",
+            "hu": "Lépjen vissza az időben, és figyelje meg a hagyományos életet ábrázoló hihetetlenül precíz miniatűr falut, és hozzon magával egy jó zoomos fényképezőgépet az apró részletek megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp observând acest sat în miniatură incredibil de precis care descrie viața tradițională și aduceți o cameră cu zoom bun pentru a surprinde detaliile minuscule.",
+            "en": "Step back in time by observing this incredibly precise miniature village depicting traditional life, and bring a camera with a good zoom to capture the tiny, hand-crafted details."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen Sainte-Véronique",
+            "hu": "Sainte-Véronique szikla",
+            "ro": "Stânca Sainte-Véronique",
+            "en": "Sainte-Véronique Rock"
+          },
+          "coords": [
+            -1.879247,
+            46.630885
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen ikonischen natürlichen Felspfeiler, der stolz gegen die Atlantikwellen steht, und halten Sie Ihre Kamera für eine spektakuläre Landschaftsaufnahme vom Küstenpfad bereit.",
+            "hu": "Csodálja meg ezt az ikonikus, természetes sziklaoszlopot, amely büszkén áll az atlanti hullámokkal szemben, és tartsa készenlétben a fényképezőgépét egy látványos tájképhez a parti ösvényről.",
+            "ro": "Priviți la acest stâlp natural iconic de stâncă care stă mândru împotriva valurilor Atlanticului și asigurați-vă că aveți camera pregătită pentru o fotografie de peisaj de pe poteca de coastă.",
+            "en": "Gaze at this iconic natural rock pillar standing proudly against the Atlantic waves, and make sure to have your camera ready for a spectacular landscape shot from the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Sauzaie",
+            "hu": "La Sauzaie strand",
+            "ro": "Plaja La Sauzaie",
+            "en": "La Sauzaie Beach"
+          },
+          "coords": [
+            -1.89318,
+            46.63769
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit dieses von Felsklippen gesäumten Surfspots, wo Sie von der oberen Corniche aus den besten Blick auf die beeindruckenden abendlichen Wellen haben.",
+            "hu": "Tapasztalja meg ennek a sziklás szirtekkel határolt, híres szörfös helynek a nyers szépségét, ahol a felső párkányon lévő helyről nyílik a legjobb kilátás a lenyűgöző esti hullámokra.",
+            "ro": "Experimentați frumusețea brută a acestui renumit loc de surfing mărginit de stânci, unde obținerea unui loc pe cornișa superioară oferă cea mai bună vedere asupra valurilor de seară.",
+            "en": "Experience the raw beauty of this renowned surfing spot bordered by rocky cliffs, where grabbing a spot on the upper corniche offers the best view of the impressive evening waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen von der historischen Kirche im Zentrum zum luftigen Strand La Normandelière. Gegen Mittag fahren Sie die Küste entlang, um am malerischen Sandstrand Plage du Marais Girard zu entspannen. Der Nachmittag lädt Sie ein, die unglaublich detaillierten Modelle der Vendée Miniature zu erkunden. Beenden Sie den Abend mit einer Fahrt am Felsen Sainte-Véronique zur La Sauzaie Beach.",
+        "hu": "Tekerjen át a reggelen a központi történelmi templomtól a szeles La Normandelière strand felé. Délben cirkáljon a part mentén, hogy megpihenjen a Plage du Marais Girard festői homokján. A délután a szárazföld belsejébe csábít, hogy felfedezze a Vendée Miniature elképesztően részletes makettjeit. Az estét a híres Sainte-Véronique szikla mellett elhaladva, a La Sauzaie strandon fejezze be.",
+        "ro": "Pedalați dimineața de la biserica istorică din centru înainte de a coborî spre plaja aerisită La Normandelière. Până la prânz, mergeți de-a lungul coastei pentru a vă relaxa pe nisipurile pitorești de la Plage du Marais Girard. După-amiaza vă invită să explorați modelele incredibil de detaliate de la Vendée Miniature. Încheiați seara trecând pe lângă stânca Sainte-Véronique spre plaja La Sauzaie.",
+        "en": "Pedal through the morning starting at the central historic church before cycling down to the breezy La Normandelière beach. By midday, cruise along the coast to relax on the scenic sands of Plage du Marais Girard. The afternoon invites you inland to explore the incredibly detailed models at Vendée Miniature. Finish the evening cycling past the iconic Sainte-Véronique Rock to La Sauzaie Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dünenstrand",
+            "hu": "Dűnék strandja",
+            "ro": "Plaja Dunelor",
+            "en": "Dunes Beach"
+          },
+          "coords": [
+            -1.853602,
+            46.597415
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie inmitten der geschützten Sanddünen dieser weiten und wilden Küste und betreten Sie nur die markierten Wege, um die empfindliche Flora auf dem Weg zum Meer zu schützen.",
+            "hu": "Sétáljon a hatalmas és vad tengerpartot formáló védett homokdűnék között, és csak a kijelölt ösvényeken lépkedjen a tenger felé haladva, hogy megvédje a kényes helyi növényvilágot.",
+            "ro": "Plimbați-vă printre dunele de nisip protejate care modelează această porțiune de coastă vastă și sălbatică, călcând doar pe cărările marcate pentru a proteja flora delicată îndreptându-vă spre mare.",
+            "en": "Walk amidst the protected sand dunes shaping this vast and wild stretch of coastline, stepping only on the marked paths to protect the delicate flora while heading towards the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.854611,
+            46.627984
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und das friedliche Innere dieser zentralen Kirche, und treten Sie ein, wenn das Morgenlicht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg ennek a központi templomnak a lenyűgöző építészetét és békés belső terét, és feltétlenül lépjen be, amikor a reggeli fény gyönyörűen megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura impresionantă și interiorul pașnic al acestei biserici centrale, asigurându-vă că intrați atunci când lumina dimineții iluminează frumos vitraliile colorate.",
+            "en": "Admire the striking architecture and peaceful interior of this central church, making sure to step inside when the morning light beautifully illuminates the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Vendée Miniature",
+            "hu": "Vendée Miniature",
+            "ro": "Vendée Miniature",
+            "en": "Vendée Miniature"
+          },
+          "coords": [
+            -1.869719,
+            46.6318
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, indem Sie dieses unglaublich präzise Miniaturdorf betrachten, und bringen Sie eine Kamera mit gutem Zoom mit, um die winzigen handgefertigten Details einzufangen.",
+            "hu": "Lépjen vissza az időben, és figyelje meg a hagyományos életet ábrázoló hihetetlenül precíz miniatűr falut, és hozzon magával egy jó zoomos fényképezőgépet az apró részletek megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp observând acest sat în miniatură incredibil de precis care descrie viața tradițională și aduceți o cameră cu zoom bun pentru a surprinde detaliile minuscule.",
+            "en": "Step back in time by observing this incredibly precise miniature village depicting traditional life, and bring a camera with a good zoom to capture the tiny, hand-crafted details."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen Sainte-Véronique",
+            "hu": "Sainte-Véronique szikla",
+            "ro": "Stânca Sainte-Véronique",
+            "en": "Sainte-Véronique Rock"
+          },
+          "coords": [
+            -1.879247,
+            46.630885
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen ikonischen natürlichen Felspfeiler, der stolz gegen die Atlantikwellen steht, und halten Sie Ihre Kamera für eine spektakuläre Landschaftsaufnahme vom Küstenpfad bereit.",
+            "hu": "Csodálja meg ezt az ikonikus, természetes sziklaoszlopot, amely büszkén áll az atlanti hullámokkal szemben, és tartsa készenlétben a fényképezőgépét egy látványos tájképhez a parti ösvényről.",
+            "ro": "Priviți la acest stâlp natural iconic de stâncă care stă mândru împotriva valurilor Atlanticului și asigurați-vă că aveți camera pregătită pentru o fotografie de peisaj de pe poteca de coastă.",
+            "en": "Gaze at this iconic natural rock pillar standing proudly against the Atlantic waves, and make sure to have your camera ready for a spectacular landscape shot from the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Sauzaie",
+            "hu": "La Sauzaie strand",
+            "ro": "Plaja La Sauzaie",
+            "en": "La Sauzaie Beach"
+          },
+          "coords": [
+            -1.89318,
+            46.63769
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit dieses von Felsklippen gesäumten Surfspots, wo Sie von der oberen Corniche aus den besten Blick auf die beeindruckenden abendlichen Wellen haben.",
+            "hu": "Tapasztalja meg ennek a sziklás szirtekkel határolt, híres szörfös helynek a nyers szépségét, ahol a felső párkányon lévő helyről nyílik a legjobb kilátás a lenyűgöző esti hullámokra.",
+            "ro": "Experimentați frumusețea brută a acestui renumit loc de surfing mărginit de stânci, unde obținerea unui loc pe cornișa superioară oferă cea mai bună vedere asupra valurilor de seară.",
+            "en": "Experience the raw beauty of this renowned surfing spot bordered by rocky cliffs, where grabbing a spot on the upper corniche offers the best view of the impressive evening waves."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand Petit Pont",
+            "hu": "Petit Pont naturista strand",
+            "ro": "Plaja naturistă Petit Pont",
+            "en": "Petit Pont Naturist Beach"
+          },
+          "coords": [
+            -1.910131,
+            46.657362
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Freiheit an diesem abgelegenen FKK-Strand inmitten unberührter Natur, achten Sie auf die lokale Etikette und hinterlassen Sie absolut keine Spuren im Sand.",
+            "hu": "Élvezze a teljes szabadságot ezen a félreeső naturista strandon, amelyet érintetlen természet vesz körül, ügyelve arra, hogy tiszteletben tartsa a helyi etikettet, és ne hagyjon nyomot.",
+            "ro": "Îmbrățișați libertatea totală la această plajă naturistă izolată înconjurată de natură curată, asigurându-vă că respectați eticheta locală și nu lăsați absolut nicio urmă pe nisip.",
+            "en": "Embrace total freedom at this secluded naturist beach surrounded by pristine nature, ensuring you respect the local etiquette and leave absolutely no trace behind on the pristine sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Süden an der Plage des Dunes und genießen Sie die morgendliche Ruhe, bevor Sie zur charmanten Stadtkirche fahren. Der Mittag bringt ein faszinierendes Eintauchen in die regionale Geschichte bei der spektakulären Vendée Miniature. Machen Sie am Nachmittag einen kurzen Fotostopp am markanten Felsen Sainte-Véronique. Ihr Abend endet mit einem atemberaubenden Sonnenuntergang.",
+        "hu": "Kezdje autós útját délen a Plage des Dunes-nél, élvezve a kora reggeli nyugalmat, mielőtt a bájos belvárosi templomhoz hajtana. A délidő lenyűgöző elmerülést hoz a regionális történelembe a látványos Vendée Miniature attrakciónál. Délután tartson egy gyors fotószünetet a lenyűgöző Sainte-Véronique sziklánál. Az estéje egy lenyűgöző naplementével zárul az északi, vadabb tengerparti szakaszokon.",
+        "ro": "Începeți plimbarea cu mașina în sud, la Plage des Dunes, bucurându-vă de liniștea dimineții devreme, înainte de a merge la fermecătoarea biserică din centru. Prânzul aduce o scufundare fascinantă în istoria regională la spectaculoasa atracție Vendée Miniature. În timpul după-amiezii, faceți o scurtă oprire foto la impresionanta stâncă Sainte-Véronique. Seara se încheie cu un apus uimitor pe plajele nordice.",
+        "en": "Begin your drive in the south at Plage des Dunes, enjoying the early morning tranquility before heading to the charming downtown church. Midday brings a fascinating dive into regional history at the spectacular Vendée Miniature attraction. During the afternoon, take a quick photo stop at the striking Sainte-Véronique Rock. Your evening concludes with a stunning sunset at the northern beaches."
+      }
+    }
+  }
+}

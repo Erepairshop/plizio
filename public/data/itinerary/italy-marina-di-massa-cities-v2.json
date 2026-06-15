@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-di-massa-cities-v2",
+  "anchor": {
+    "name": "Marina di Massa",
+    "coords": [
+      10.10193,
+      44.0095
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Servi di Maria",
+            "hu": "Servi di Maria",
+            "ro": "Servi di Maria",
+            "en": "Servi di Maria"
+          },
+          "coords": [
+            10.102883,
+            44.008495
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Kirche in Strandnähe und achten Sie auf die ruhige Atmosphäre im Inneren, am besten bei einem Besuch am frühen Vormittag.",
+            "hu": "Csodálja meg a part közeli templom modern építészetét, és élvezze a belső tér csendjét a kora délelőtti órákban, amikor még kevesen vannak.",
+            "ro": "Admirați arhitectura modernă a acestei biserici situate aproape de plajă și bucurați-vă de liniștea interioară venind la primele ore ale dimineții.",
+            "en": "Admire the modern architecture of this church located close to the beach, and enjoy the tranquil interior atmosphere by visiting early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Asciutti",
+            "hu": "Bagno Asciutti",
+            "ro": "Bagno Asciutti",
+            "en": "Bagno Asciutti"
+          },
+          "coords": [
+            10.094375,
+            44.010179
+          ],
+          "category": "recreational",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem traditionellen Strandbad mit gut gepflegten Einrichtungen und mieten Sie frühzeitig einen Liegestuhl, um den besten Platz am Meer zu sichern.",
+            "hu": "Pihenjen ebben a hagyományos strandfürdőben, amely kiváló felszereltséggel rendelkezik, és béreljen napágyat korán a legjobb tengerparti kilátásért.",
+            "ro": "Relaxați-vă la această baie tradițională de la malul mării cu facilități excelente și închiriați un șezlong din timp pentru a avea cea mai bună vedere.",
+            "en": "Relax at this traditional beach establishment featuring excellent facilities, and be sure to rent your sunbed early to secure a prime spot by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Villa Gioietta",
+            "hu": "Bagno Villa Gioietta",
+            "ro": "Bagno Villa Gioietta",
+            "en": "Bagno Villa Gioietta"
+          },
+          "coords": [
+            10.093269,
+            44.011014
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundliche Atmosphäre und den feinen Sand in diesem Bereich, wobei ein Spaziergang am Wasser ideal für entspannte Mittagsstunden ist.",
+            "hu": "Élvezze a családbarát légkört és a finom homokot ezen a partszakaszon, ahol a vízparti séta tökéletes választás a pihentető déli órákban.",
+            "ro": "Bucurați-vă de atmosfera prietenoasă cu familia și de nisipul fin de aici, o plimbare pe malul apei fiind perfectă pentru orele relaxante de prânz.",
+            "en": "Enjoy the family-friendly atmosphere and the fine sand of this beach section, where a barefoot walk along the water is perfect during the quiet midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Libera",
+            "hu": "Spiaggia Libera",
+            "ro": "Spiaggia Libera",
+            "en": "Spiaggia Libera"
+          },
+          "coords": [
+            10.089657,
+            44.013276
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische Küstenflair am freien Strandabschnitt und bringen Sie unbedingt Ihr eigenes Handtuch sowie einen Sonnenschirm für den Nachmittag mit.",
+            "hu": "Tapasztalja meg az igazi tengerparti hangulatot a szabadstrandon, de mindenképpen hozzon magával saját törölközőt és napernyőt a délutáni pihenéshez.",
+            "ro": "Experimentați farmecul autentic al coastei pe această plajă publică, dar asigurați-vă că aduceți propriul prosop și o umbrelă pentru soarele de după-amiază.",
+            "en": "Experience authentic coastal charm at this free public beach, but make sure to bring your own towel and an umbrella for comfortable afternoon sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "hu": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "ro": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "en": "La Scogliera di Evarì La Scogliera dell'Amore"
+          },
+          "coords": [
+            10.087814,
+            44.014637
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dieser romantischen Felsformation verzaubern, die herrliche Fotomotive bietet, und tragen Sie bequeme Schuhe, um sicher auf den Steinen zu gehen.",
+            "hu": "Engedje, hogy elvarázsolja ez a romantikus sziklaalakzat, amely lenyűgöző fotótémákat kínál, de viseljen kényelmes cipőt a köveken való biztonságos lépkedéshez.",
+            "ro": "Lăsați-vă fermecat de această formațiune stâncoasă romantică, perfectă pentru fotografii de neuitat, și purtați încălțăminte confortabilă pentru a merge pe pietre.",
+            "en": "Let yourself be enchanted by this romantic rock formation offering stunning photo opportunities, and wear comfortable shoes to walk safely along the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Marchini",
+            "hu": "Bagno Marchini",
+            "ro": "Bagno Marchini",
+            "en": "Bagno Marchini"
+          },
+          "coords": [
+            10.085375,
+            44.015775
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem lebhaften Strandbad ausklingen und probieren Sie einen Aperitif an der Bar, während die Sonne langsam über dem Tyrrhenischen Meer untergeht.",
+            "hu": "Zárja a napot ebben a nyüzsgő strandfürdőben, és kóstoljon meg egy aperitifet a bárban, miközben a nap lassan lenyugszik a Tirrén-tenger felett.",
+            "ro": "Încheiați ziua la această baie de plajă plină de viață și savurați un aperitiv la bar în timp ce soarele apune încet peste Marea Tireniană.",
+            "en": "Conclude your day at this lively beach club, and enjoy a refreshing aperitif at the local bar while watching the sun slowly set over the Tyrrhenian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der friedlichen Kirche Servi di Maria. Die frische Meeresbrise begleitet Sie beim Schlendern durch die Straßen. Am Mittag entspannen Sie in den traditionellen Badeanstalten Bagno Asciutti und Villa Gioietta. Nachmittags spazieren Sie zur malerischen Scogliera dell'Amore, um herrliche Fotos zu machen. Abends klingt der Tag am belebten Strand von Bagno Marchini aus.",
+        "hu": "Kezdje a napot a békés Servi di Maria templomnál. A friss tengeri szellő kíséri majd az utcákon sétálva. Délben a Bagno Asciutti és a Villa Gioietta hagyományos fürdőhelyein lazíthat. Délután sétáljon el a festői Scogliera dell'Amore sziklához, és készítsen nagyszerű fotókat. Az estét a Bagno Marchini nyüzsgő strandján zárhatja, a tenger morajlását hallgatva.",
+        "ro": "Începeți ziua la biserica liniștită Servi di Maria. Briza mării vă va însoți pe străzile orașului. La amiază, relaxați-vă la stațiunile tradiționale Bagno Asciutti și Villa Gioietta. După-amiaza, plimbați-vă spre stâncile pitorești Scogliera dell'Amore pentru a face fotografii grozave. Seara se încheie perfect pe plaja animată Bagno Marchini, ascultând valurile.",
+        "en": "Start your day at the peaceful Servi di Maria church. The fresh sea breeze accompanies you as you stroll through the streets. At midday, relax in the traditional bathing establishments of Bagno Asciutti and Villa Gioietta. In the afternoon, walk to the picturesque Scogliera dell'Amore rocks to take great photos. The evening winds down beautifully at the lively Bagno Marchini beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 3.99,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Obelisco",
+            "hu": "Obelisco",
+            "ro": "Obelisco",
+            "en": "Obelisco"
+          },
+          "coords": [
+            10.116765,
+            44.022297
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal im Herzen der Stadt, das an lokale Ereignisse erinnert, und nutzen Sie den umliegenden Platz für eine kurze Orientierungspause.",
+            "hu": "Tekintse meg ezt a város szívében álló, helyi eseményekre emlékeztető történelmi emlékművet, és használja a környező teret egy rövid tájékozódási szünetre.",
+            "ro": "Admirați acest monument istoric din inima orașului, care amintește de evenimentele locale, și folosiți piața din jur pentru o scurtă pauză de orientare.",
+            "en": "Observe this historical monument in the heart of the city commemorating local events, and use the surrounding square for a brief orientation pause before cycling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "hu": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "ro": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "en": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido"
+          },
+          "coords": [
+            10.116936,
+            44.020625
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Halten Sie inne an diesem bewegenden Mahnmal, das an die Opfer des Krieges erinnert, und lesen Sie die Informationstafeln, um die lokale Geschichte besser zu verstehen.",
+            "hu": "Álljon meg ennél a megható, a háború áldozatainak emléket állító emlékműnél, és olvassa el az információs táblákat a helyi történelem jobb megértése érdekében.",
+            "ro": "Opriți-vă la acest memorial emoționant dedicat victimelor războiului și citiți panourile informative pentru a înțelege mai bine istoria zbuciumată a regiunii.",
+            "en": "Pause at this moving memorial dedicated to the victims of war, and take time to read the informational plaques to gain a deeper understanding of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Servi di Maria",
+            "hu": "Servi di Maria",
+            "ro": "Servi di Maria",
+            "en": "Servi di Maria"
+          },
+          "coords": [
+            10.102883,
+            44.008495
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser modernen Kirche an der Küste und parken Sie Ihr Fahrrad sicher an den dafür vorgesehenen Plätzen, bevor Sie eintreten.",
+            "hu": "Fedezze fel a parti modern templom békés hangulatát, és parkolja le biztonságosan kerékpárját a kijelölt helyeken, mielőtt belépne az épületbe.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici moderne de pe coastă și parcați-vă bicicleta în siguranță în locurile special amenajate înainte de a intra.",
+            "en": "Discover the serene ambiance of this modern religious site by the coast, and park your bike securely in the nearby designated spots before going inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Conca D'Oro Beach",
+            "hu": "Conca D'Oro Beach",
+            "ro": "Conca D'Oro Beach",
+            "en": "Conca D'Oro Beach"
+          },
+          "coords": [
+            10.106175,
+            44.002144
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen goldenen Sand dieses malerischen Strandabschnitts und mieten Sie rechtzeitig einen Sonnenschirm, um der intensiven Mittagssonne zu entgehen.",
+            "hu": "Élvezze e festői partszakasz finom aranyhomokját, és béreljen időben napernyőt, hogy menedéket találjon az intenzív déli napsütés elől.",
+            "ro": "Bucurați-vă de nisipul auriu fin al acestei porțiuni pitorești de plajă și închiriați o umbrelă din timp pentru a scăpa de soarele intens de la amiază.",
+            "en": "Enjoy the fine golden sand of this picturesque beach section, and be sure to rent an umbrella early to escape the intense rays of the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Public beach",
+            "hu": "Public beach",
+            "ro": "Public beach",
+            "en": "Public beach"
+          },
+          "coords": [
+            10.110889,
+            43.999509
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Mischen Sie sich an diesem offenen Strand unter die Einheimischen, doch achten Sie auf Ihre Wertsachen und bringen Sie Snacks für ein gemütliches Picknick am Meer mit.",
+            "hu": "Vegyüljön el a helyiek között ezen a nyitott strandon, de vigyázzon az értékeire, és hozzon magával rágcsálnivalót egy kellemes tengerparti piknikhez.",
+            "ro": "Amestecați-vă printre localnici pe această plajă deschisă, dar aveți grijă de bunurile de valoare și aduceți gustări pentru un picnic relaxant pe malul mării.",
+            "en": "Mingle with the locals at this welcoming public beach area, but keep an eye on your valuables and bring some snacks for a pleasant seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Carol di Levante",
+            "hu": "Bagno Carol di Levante",
+            "ro": "Bagno Carol di Levante",
+            "en": "Bagno Carol di Levante"
+          },
+          "coords": [
+            10.119035,
+            43.994635
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Lassen Sie die Fahrradtour an diesem gepflegten Badeort entspannt ausklingen und nutzen Sie die Duschen vor Ort, bevor Sie sich einen Snack am Kiosk gönnen.",
+            "hu": "Fejezze be kerékpártúráját ezen a gondozott strandon, és használja a helyszíni zuhanyzókat, mielőtt kényeztetné magát egy finom falattal a büfében.",
+            "ro": "Încheiați-vă turul cu bicicleta la această baie bine întreținută și folosiți dușurile de la fața locului înainte de a vă răsfăța cu o gustare la chioșc.",
+            "en": "Wind down your cycling tour at this well-maintained beach resort, and make use of the on-site showers before treating yourself to a snack at the kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens landeinwärts beim historischen Obelisken und dem bewegenden Mahnmal am Frigido. Mittags radeln Sie zur Küste und besuchen die Kirche Servi di Maria. Der Nachmittag gehört den weiten Sandstränden, vom Conca D'Oro bis zum öffentlichen Strand. Am späten Nachmittag erreichen Sie das Bagno Carol di Levante, wo Sie den Tag gemütlich ausklingen lassen können.",
+        "hu": "Kezdje a reggelt a szárazföld belsejében a történelmi Obeliszknél és a megható Frigido-emlékműnél. Délben tekerjen a partra, és látogassa meg a Servi di Maria templomot. A délután a széles homokos strandoké, a Conca D'Orotól a szabadstrandig. Késő délután érkezik a Bagno Carol di Levante fürdőbe, ahol kényelmesen levezetheti a nap fáradalmait.",
+        "ro": "Începeți dimineața în interiorul orașului la Obeliscul istoric și la memorialul Frigido. La amiază, pedalați spre coastă și vizitați biserica Servi di Maria. După-amiaza este dedicată plajelor largi de nisip, de la Conca D'Oro la plaja publică. Spre seară, ajungeți la Bagno Carol di Levante, unde vă puteți relaxa după turul cu bicicleta.",
+        "en": "Start your morning inland at the historical Obelisk and the moving Frigido memorial. At midday, cycle towards the coast to visit the Servi di Maria church. The afternoon is dedicated to the wide sandy beaches, from Conca D'Oro to the open public beach. By late afternoon, you'll arrive at Bagno Carol di Levante, a perfect place to unwind after your cycling tour."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 6.53,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Etnologico delle Apuane",
+            "hu": "Museo Etnologico delle Apuane",
+            "ro": "Museo Etnologico delle Apuane",
+            "en": "Museo Etnologico delle Apuane"
+          },
+          "coords": [
+            10.112741,
+            44.028469
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tief verwurzelte Kultur der Region ein und nutzen Sie den kostenfreien Parkplatz in der Nähe, um das Museum entspannt zu erkunden.",
+            "hu": "Merüljön el a régió mélyen gyökerező kultúrájában, és használja a közeli ingyenes parkolót, hogy kényelmesen felfedezhesse a múzeum gazdag gyűjteményét.",
+            "ro": "Cufundați-vă în cultura adânc înrădăcinată a regiunii și folosiți parcarea gratuită din apropiere pentru a explora muzeul într-un ritm relaxant.",
+            "en": "Delve into the deep-rooted cultural heritage of the region at this museum, and take advantage of nearby free parking to explore the exhibits at a leisurely pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Gigi Guadagnucci",
+            "hu": "Museo Gigi Guadagnucci",
+            "ro": "Museo Gigi Guadagnucci",
+            "en": "Museo Gigi Guadagnucci"
+          },
+          "coords": [
+            10.128693,
+            44.020258
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Skulpturen aus Carrara-Marmor in diesem eleganten Museum und buchen Sie Ihr Ticket vorab online, um Wartezeiten zu vermeiden.",
+            "hu": "Csodálja meg a lenyűgöző carrarai márványszobrokat ebben az elegáns múzeumban, és foglalja le jegyét előre online, hogy elkerülje a hosszú várakozási időt.",
+            "ro": "Admirați sculpturile fascinante din marmură de Carrara în acest muzeu elegant și rezervați-vă biletul online în avans pentru a evita cozile.",
+            "en": "Admire the fascinating Carrara marble sculptures housed in this elegant museum, and book your admission ticket online in advance to skip any potential lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "hu": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "ro": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido",
+            "en": "Monumento alle Vittime dell'Eccidio delle Fosse del Frigido"
+          },
+          "coords": [
+            10.116936,
+            44.020625
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wichtige Mahnmal auf Ihrem Weg zur Küste und parken Sie direkt am Straßenrand, um einen Moment der Stille einzulegen.",
+            "hu": "Látogassa meg ezt a fontos emlékművet a part felé vezető úton, és parkoljon le közvetlenül az út szélén, hogy egy pillanatnyi csendet tarthasson.",
+            "ro": "Vizitați acest monument important în drumul spre coastă și parcați direct pe marginea drumului pentru a păstra un moment de reculegere tăcută.",
+            "en": "Visit this significant memorial on your way toward the coast, and park briefly along the roadside to pay your respects in a moment of silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di Maria Santissima Madre della Chiesa",
+            "hu": "chiesa di Maria Santissima Madre della Chiesa",
+            "ro": "chiesa di Maria Santissima Madre della Chiesa",
+            "en": "chiesa di Maria Santissima Madre della Chiesa"
+          },
+          "coords": [
+            10.081652,
+            44.022226
+          ],
+          "category": "religious",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.83,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser modernen Kirche und achten Sie auf die bunten Glasfenster, besonders wenn am Nachmittag die Sonne hindurchscheint.",
+            "hu": "Tapasztalja meg a modern templom spirituális nyugalmát, és figyelje meg a színes üvegablakokat, különösen akkor, amikor a délutáni nap átsüt rajtuk.",
+            "ro": "Experimentați liniștea spirituală a acestei biserici moderne și acordați atenție vitraliilor colorate, mai ales când soarele strălucește prin ele după-amiaza.",
+            "en": "Experience the spiritual tranquility of this modern church, and pay special attention to the stained glass windows when the afternoon sun shines brightly through them."
+          }
+        },
+        {
+          "name": {
+            "de": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "hu": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "ro": "La Scogliera di Evarì La Scogliera dell'Amore",
+            "en": "La Scogliera di Evarì La Scogliera dell'Amore"
+          },
+          "coords": [
+            10.087814,
+            44.014637
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem malerischen Felsvorsprung mit atemberaubendem Meerblick und stellen Sie Ihr Auto auf dem ausgewiesenen Küstenparkplatz ab.",
+            "hu": "Autózzon el ehhez a festői sziklás kiszögelléshez, ahonnan lélegzetelállító kilátás nyílik a tengerre, és hagyja járművét a kijelölt parti parkolóban.",
+            "ro": "Conduceți până la acest afloriment stâncos pitoresc pentru vederi uluitoare la mare și lăsați mașina în zona de parcare de coastă desemnată din apropiere.",
+            "en": "Drive down to this scenic rocky outcrop for breathtaking sea views, and make sure to leave your car at the designated coastal parking area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Marchini",
+            "hu": "Bagno Marchini",
+            "ro": "Bagno Marchini",
+            "en": "Bagno Marchini"
+          },
+          "coords": [
+            10.085375,
+            44.015775
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenfahrt an diesem kultigen Strandclub, um am Wasser zu entspannen, aber kommen Sie vor Sonnenuntergang, um einen guten Platz zu ergattern.",
+            "hu": "Fejezze be tengerparti autózását ennél az ikonikus strandklubnál, ahol lazíthat a vízparton, de érkezzen naplemente előtt, hogy jó helyet találjon.",
+            "ro": "Încheiați plimbarea pe coastă la acest club de plajă iconic unde vă puteți relaxa, dar asigurați-vă că ajungeți înainte de apus pentru a prinde un loc bun.",
+            "en": "Finish your coastal drive at this iconic beach club where you can relax by the water, but ensure you arrive before sunset to find a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt kulturell mit faszinierenden Ausstellungen im Museo Etnologico und im Skulpturenmuseum Gigi Guadagnucci. Nach einem Stopp am Frigido-Mahnmal fahren Sie mittags zur modernen Kirche Maria Santissima. Der Nachmittag wird an der Küste verbracht, zuerst bei der wilden Scogliera dell'Amore. Gegen Abend genießen Sie die Atmosphäre im eleganten Strandbad Bagno Marchini.",
+        "hu": "A reggel kulturálisan indul a Museo Etnologico és a Gigi Guadagnucci szobormúzeum lenyűgöző kiállításaival. A Frigido-emlékműnél tett megálló után délben a modern Maria Santissima templomhoz hajt. A délutánt a tengerparton tölti, először a vad Scogliera dell'Amore szikláinál. Estefelé élvezze a hangulatot a lenyűgöző Bagno Marchini strandfürdőben.",
+        "ro": "Dimineața începe cultural cu expoziții la Museo Etnologico și muzeul de sculptură Gigi Guadagnucci. După o oprire la memorialul Frigido, conduceți la amiază la biserica modernă Maria Santissima. După-amiaza este petrecută pe coastă, începând cu stâncile sălbatice Scogliera dell'Amore. Spre seară, bucurați-vă de atmosfera de la elegantul club Bagno Marchini.",
+        "en": "The morning begins culturally with fascinating exhibitions at the Museo Etnologico and the Gigi Guadagnucci sculpture museum. After a stop at the Frigido memorial, drive to the modern Maria Santissima church at midday. Spend the afternoon exploring the coast, starting at the wild Scogliera dell'Amore rocks. Towards evening, enjoy the relaxed vibe at the Bagno Marchini beach club."
+      }
+    }
+  }
+}

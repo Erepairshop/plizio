@@ -1,0 +1,428 @@
+{
+  "city_id": "figeac",
+  "anchor": {
+    "name": "Figeac",
+    "coords": [
+      2.0317,
+      44.6086
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 0.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Carnot",
+            "hu": "Place Carnot",
+            "ro": "Place Carnot",
+            "en": "Place Carnot"
+          },
+          "coords": [
+            2.033546,
+            44.609356
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fachwerkhäuser an diesem lebhaften Platz, der das Herz der Stadt bildet, und genießen Sie einen Kaffee in der Morgensonne.",
+            "hu": "Csodálja meg a történelmi favázas házakat ezen az élettel teli téren, amely a város szíve, és fogyasszon el egy kávét a reggeli napsütésben.",
+            "ro": "Admirați casele istorice cu cherestea în această piață plină de viață, care este inima orașului, și savurați o cafea în soarele dimineții.",
+            "en": "Admire the historic half-timbered houses in this lively square that forms the heart of the city, and enjoy a fresh coffee in the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Écritures",
+            "hu": "Place des Écritures",
+            "ro": "Place des Écritures",
+            "en": "Place des Écritures"
+          },
+          "coords": [
+            2.033927,
+            44.609805
+          ],
+          "category": "cultural",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die riesige Nachbildung des Steins von Rosetta, die den gesamten Innenhof ausfüllt, am besten von den oberen Terrassen aus.",
+            "hu": "Nézze meg a rosette-i kő hatalmas másolatát, amely az egész udvart kitölti, és a legjobb kilátásért menjen fel a felső teraszokra.",
+            "ro": "Priviți reproducerea uriașă a Pietrei din Rosetta care umple întreaga curte, având cea mai bună priveliște de pe terasele superioare.",
+            "en": "Behold the giant reproduction of the Rosetta Stone that completely fills the courtyard, best viewed from the upper terraces for full impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Champollion - Les Écritures du Monde",
+            "hu": "Musée Champollion - Les Écritures du Monde",
+            "ro": "Musée Champollion - Les Écritures du Monde",
+            "en": "Musée Champollion - Les Écritures du Monde"
+          },
+          "coords": [
+            2.034444,
+            44.609722
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Weltschriften im Geburtshaus des berühmten Ägyptologen, und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel a világ írásainak lenyűgöző történetét a híres egyiptológus szülőházában, és a sorban állás elkerülése érdekében foglaljon jegyet online.",
+            "ro": "Descoperiți istoria fascinantă a scrierilor lumii în casa natală a celebrului egiptolog și rezervați-vă biletele online pentru a evita cozile.",
+            "en": "Discover the fascinating history of world scripts in the birthplace of the famous Egyptologist, and remember to book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Puy",
+            "hu": "Église Notre-Dame-du-Puy",
+            "ro": "Église Notre-Dame-du-Puy",
+            "en": "Église Notre-Dame-du-Puy"
+          },
+          "coords": [
+            2.0359,
+            44.61041
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu dieser romanischen Kirche, die einen herrlichen Panoramablick auf die Dächer von Figeac bietet, und achten Sie auf die Kapitelle.",
+            "hu": "Másszon fel ehhez a román stílusú templomhoz, amely csodálatos panorámát nyújt Figeac háztetőire, és figyelje meg a faragott oszlopfőket.",
+            "ro": "Urcați la această biserică romanică ce oferă o panoramă superbă asupra acoperișurilor din Figeac și acordați atenție capitelelor sculptate cu măiestrie.",
+            "en": "Climb up to this lovely Romanesque church which offers a magnificent panoramic view over the rooftops of Figeac, paying special attention to the capitals."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            2.0348,
+            44.608
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Abteikirche mit ihrer wunderschönen Holzdecke und kommen Sie am frühen Nachmittag für das beste Lichtspiel.",
+            "hu": "Látogasson el ebbe a lenyűgöző apátsági templomba, melynek gyönyörű fateteje van, és érkezzen kora délután a legszebb fényviszonyokért.",
+            "ro": "Vizitați această impresionantă biserică abațială cu frumosul ei tavan din lemn și veniți la începutul după-amiezii pentru cel mai bun joc de lumini.",
+            "en": "Visit this impressive abbey church with its beautiful wooden ceiling, and try to arrive in the early afternoon to experience the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de la Monnaie",
+            "hu": "Hôtel de la Monnaie",
+            "ro": "Hôtel de la Monnaie",
+            "en": "Hôtel de la Monnaie"
+          },
+          "coords": [
+            2.032445,
+            44.607877
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte gotische Gebäude, das einst als Münzprägeanstalt diente, und verpassen Sie nicht die faszinierende Münzausstellung.",
+            "hu": "Fedezze fel ezt a figyelemre méltó gótikus épületet, amely egykor pénzverdeként szolgált, és semmiképp se hagyja ki az érmekiállítást.",
+            "ro": "Explorați această remarcabilă clădire gotică care a servit cândva ca monetărie și nu ratați expoziția fascinantă de monede vechi.",
+            "en": "Explore this remarkable Gothic building that once served as the city's mint, and be sure not to miss the fascinating historical coin exhibition inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Herzen von Figeac an der Place Carnot. Ein kurzer Spaziergang führt zur faszinierenden Place des Écritures. / Mittags dreht sich alles um die Geheimnisse alter Schriften im beeindruckenden Musée Champollion. / Nachmittags erklimmen Sie die Notre-Dame-du-Puy für einen Panoramablick, bevor Sie zur großen Abteikirche hinabsteigen. / Der Abend endet mit einem entspannten Spaziergang rund um das historische Hôtel de la Monnaie.",
+        "hu": "A reggel Figeac élettel teli szívében, a Place Carnot-n kezdődik. Egy rövid séta után eléri a lenyűgöző Place des Écritures-t. / A délidő teljes egészében az ősi írások rejtélyeinek felfedezéséről szól a csodálatos Musée Champollionban. / Délután másszon fel a Notre-Dame-du-Puy-hoz a panorámáért, majd ereszkedjen le a lenyűgöző apátsági templomhoz. / Az est egy pihentető sétával zárul a történelmi Hôtel de la Monnaie körül.",
+        "ro": "Dimineața începe în inima vibrantă a orașului Figeac, în Place Carnot. O scurtă plimbare vă duce la fascinanta Place des Écritures. / Amiaza este dedicată în întregime descoperirii misterelor scrierilor antice la impresionantul Muzeu Champollion. / După-amiaza vă invită să urcați la Notre-Dame-du-Puy pentru panoramă, înainte de a coborî la biserica abațială. / Seara se încheie cu o plimbare relaxantă în jurul istoricului Hôtel de la Monnaie.",
+        "en": "Morning begins in the vibrant heart of Figeac, where half-timbered houses line the lively Place Carnot. A short stroll reveals the fascinating Place des Écritures. / Midday is entirely dedicated to unraveling the mysteries of ancient scripts at the incredible Musée Champollion. / Afternoon invites you to climb to the panoramic Notre-Dame-du-Puy before descending to the grand Abbey Church. / Evening concludes with a relaxing walk around the historic Hôtel de la Monnaie, ending your cultural journey in the old town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Écritures",
+            "hu": "Place des Écritures",
+            "ro": "Place des Écritures",
+            "en": "Place des Écritures"
+          },
+          "coords": [
+            2.033927,
+            44.609805
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die riesige Nachbildung des Steins von Rosetta, die den gesamten Innenhof ausfüllt, am besten von den oberen Terrassen aus.",
+            "hu": "Nézze meg a rosette-i kő hatalmas másolatát, amely az egész udvart kitölti, és a legjobb kilátásért menjen fel a felső teraszokra.",
+            "ro": "Priviți reproducerea uriașă a Pietrei din Rosetta care umple întreaga curte, având cea mai bună priveliște de pe terasele superioare.",
+            "en": "Behold the giant reproduction of the Rosetta Stone that completely fills the courtyard, best viewed from the upper terraces for full impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Champollion - Les Écritures du Monde",
+            "hu": "Musée Champollion - Les Écritures du Monde",
+            "ro": "Musée Champollion - Les Écritures du Monde",
+            "en": "Musée Champollion - Les Écritures du Monde"
+          },
+          "coords": [
+            2.034444,
+            44.609722
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Weltschriften im Geburtshaus des berühmten Ägyptologen, und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel a világ írásainak lenyűgöző történetét a híres egyiptológus szülőházában, és a sorban állás elkerülése érdekében foglaljon jegyet online.",
+            "ro": "Descoperiți istoria fascinantă a scrierilor lumii în casa natală a celebrului egiptolog și rezervați-vă biletele online pentru a evita cozile.",
+            "en": "Discover the fascinating history of world scripts in the birthplace of the famous Egyptologist, and remember to book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Pin",
+            "hu": "Pont du Pin",
+            "ro": "Pont du Pin",
+            "en": "Pont du Pin"
+          },
+          "coords": [
+            2.042066,
+            44.607577
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke über den Célé, die ein beliebtes Fotomotiv ist, und spazieren Sie anschließend am malerischen Flussufer entlang.",
+            "hu": "Keljen át ezen a történelmi hídon a Célé folyó felett, amely remek fotótéma, majd sétáljon egyet a festői folyóparton a friss levegőn.",
+            "ro": "Traversați acest pod istoric peste râul Célé, care este un motiv foto popular, și apoi plimbați-vă pe malul pitoresc al râului.",
+            "en": "Cross this historic bridge over the Célé river, which makes for a perfect photo opportunity, and then take a relaxing stroll along the picturesque riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau du Surgié",
+            "hu": "Plan d'eau du Surgié",
+            "ro": "Plan d'eau du Surgié",
+            "en": "Plan d'eau du Surgié"
+          },
+          "coords": [
+            2.047878,
+            44.610375
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der ideal für ein Picknick ist, und mieten Sie ein Tretboot, um die Naturlandschaft vom Wasser aus zu genießen.",
+            "hu": "Pihenjen meg ennél a csendes tónál, amely ideális egy piknikhez, és béreljen vízibiciklit, hogy a vízről is élvezhesse a természeti tájat.",
+            "ro": "Relaxați-vă la acest lac liniștit, care este ideal pentru un picnic, și închiriați o hidrobicicletă pentru a vă bucura de peisajul natural de pe apă.",
+            "en": "Relax by this tranquil lake that is perfectly suited for an afternoon picnic, and rent a pedal boat to fully enjoy the natural scenery from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Nature Figeac",
+            "hu": "Cap Nature Figeac",
+            "ro": "Cap Nature Figeac",
+            "en": "Cap Nature Figeac"
+          },
+          "coords": [
+            2.009647,
+            44.615239
+          ],
+          "category": "family",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinkick in diesem Abenteuerpark im Wald, wo bequeme Sportkleidung für die Hochseilgärten absolut unerlässlich ist.",
+            "hu": "Éljen át egy kis adrenalint ebben az erdei kalandparkban, ahol a kényelmes sportruházat elengedhetetlen a magaslati kötélpályákhoz.",
+            "ro": "Experimentați o doză de adrenalină în acest parc de aventură din pădure, unde îmbrăcămintea sport confortabilă este esențială pentru traseele la înălțime.",
+            "en": "Experience an adrenaline rush at this forest adventure park, where wearing comfortable athletic clothing is absolutely essential for the high ropes courses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur an der berühmten Place des Écritures und einem tiefen Eintauchen in die Geschichte im Musée Champollion. / Mittags rollen Sie aus dem mittelalterlichen Zentrum heraus und überqueren die historische Pont du Pin über den Célé. / Der Nachmittag bietet Entspannung pur, wenn Sie in Richtung des ruhigen Plan d'eau du Surgié radeln. / Der Abend bringt eine gemütliche Fahrt zum abenteuerlichen Cap Nature am Stadtrand.",
+        "hu": "A reggel a híres Place des Écritures kulturális élményével indul, amit a Musée Champollion történelmi felfedezése követ. / Délben kigurul a középkori központból, hogy átkeljen a történelmi Pont du Pin-en a Célé felett. / A délután tiszta kikapcsolódást kínál, miközben a csendes Plan d'eau du Surgié felé teker egy kis friss levegőért. / Az estét egy kellemes kerékpározás zárja a város szélén található kalandos Cap Nature-höz.",
+        "ro": "Dimineața începe cu o imersiune culturală la Place des Écritures, urmată de o explorare istorică la Muzeul Champollion. / La amiază ieșiți din centrul medieval pentru a traversa istoricul Pont du Pin peste râul Célé. / După-amiaza oferă relaxare pură în timp ce pedalați spre liniștitul Plan d'eau du Surgié pentru aer proaspăt. / Seara aduce o plimbare plăcută către aventurosul Cap Nature de la periferie, încheind perfect o zi activă.",
+        "en": "Morning starts with a cultural immersion at the famous Place des Écritures, followed directly by a deep dive into history at the Musée Champollion. / Midday takes you rolling out of the compact medieval center to cross the historic Pont du Pin over the Célé river. / Afternoon offers pure relaxation and nature as you cycle towards the tranquil Plan d'eau du Surgié for some fresh air. / Evening brings a gentle ride to the adventurous Cap Nature on the outskirts, perfectly wrapping up an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Puy",
+            "hu": "Église Notre-Dame-du-Puy",
+            "ro": "Église Notre-Dame-du-Puy",
+            "en": "Église Notre-Dame-du-Puy"
+          },
+          "coords": [
+            2.0359,
+            44.61041
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu dieser romanischen Kirche, die einen herrlichen Panoramablick auf die Dächer von Figeac bietet, und achten Sie auf die Kapitelle.",
+            "hu": "Másszon fel ehhez a román stílusú templomhoz, amely csodálatos panorámát nyújt Figeac háztetőire, és figyelje meg a faragott oszlopfőket.",
+            "ro": "Urcați la această biserică romanică ce oferă o panoramă superbă asupra acoperișurilor din Figeac și acordați atenție capitelelor sculptate cu măiestrie.",
+            "en": "Climb up to this lovely Romanesque church which offers a magnificent panoramic view over the rooftops of Figeac, paying special attention to the capitals."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de la Monnaie",
+            "hu": "Hôtel de la Monnaie",
+            "ro": "Hôtel de la Monnaie",
+            "en": "Hôtel de la Monnaie"
+          },
+          "coords": [
+            2.032445,
+            44.607877
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte gotische Gebäude, das einst als Münzprägeanstalt diente, und verpassen Sie nicht die faszinierende Münzausstellung.",
+            "hu": "Fedezze fel ezt a figyelemre méltó gótikus épületet, amely egykor pénzverdeként szolgált, és semmiképp se hagyja ki az érmekiállítást.",
+            "ro": "Explorați această remarcabilă clădire gotică care a servit cândva ca monetărie și nu ratați expoziția fascinantă de monede vechi.",
+            "en": "Explore this remarkable Gothic building that once served as the city's mint, and be sure not to miss the fascinating historical coin exhibition inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Pin",
+            "hu": "Pont du Pin",
+            "ro": "Pont du Pin",
+            "en": "Pont du Pin"
+          },
+          "coords": [
+            2.042066,
+            44.607577
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke über den Célé, die ein beliebtes Fotomotiv ist, und spazieren Sie anschließend am malerischen Flussufer entlang.",
+            "hu": "Keljen át ezen a történelmi hídon a Célé folyó felett, amely remek fotótéma, majd sétáljon egyet a festői folyóparton a friss levegőn.",
+            "ro": "Traversați acest pod istoric peste râul Célé, care este un motiv foto popular, și apoi plimbați-vă pe malul pitoresc al râului.",
+            "en": "Cross this historic bridge over the Célé river, which makes for a perfect photo opportunity, and then take a relaxing stroll along the picturesque riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine à vagues",
+            "hu": "Piscine à vagues",
+            "ro": "Piscine à vagues",
+            "en": "Piscine à vagues"
+          },
+          "coords": [
+            2.049909,
+            44.610934
+          ],
+          "category": "family",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem Wellenbad ab, das besonders bei Familien beliebt ist, und bringen Sie unbedingt ausreichend Sonnencreme für den Außenbereich mit.",
+            "hu": "Hűtse le magát ebben a hullámmedencében, amely különösen a családok körében népszerű, és mindenképpen hozzon magával elegendő naptejet.",
+            "ro": "Răcoriți-vă în această piscină cu valuri, care este deosebit de populară printre familii, și asigurați-vă că aduceți suficientă cremă de protecție solară.",
+            "en": "Cool off in this exciting wave pool which is especially popular with families, and be absolutely sure to bring plenty of sunscreen for the outdoor areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Nature Figeac",
+            "hu": "Cap Nature Figeac",
+            "ro": "Cap Nature Figeac",
+            "en": "Cap Nature Figeac"
+          },
+          "coords": [
+            2.009647,
+            44.615239
+          ],
+          "category": "family",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinkick in diesem Abenteuerpark im Wald, wo bequeme Sportkleidung für die Hochseilgärten absolut unerlässlich ist.",
+            "hu": "Éljen át egy kis adrenalint ebben az erdei kalandparkban, ahol a kényelmes sportruházat elengedhetetlen a magaslati kötélpályákhoz.",
+            "ro": "Experimentați o doză de adrenalină în acest parc de aventură din pădure, unde îmbrăcămintea sport confortabilă este esențială pentru traseele la înălțime.",
+            "en": "Experience an adrenaline rush at this forest adventure park, where wearing comfortable athletic clothing is absolutely essential for the high ropes courses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt Sie zur Église Notre-Dame-du-Puy mit ihrem weiten Blick, bevor Sie hinab zum historischen Hôtel de la Monnaie fahren. / Mittags können Sie eine malerische Route über die beliebte Pont du Pin nehmen und die Flussatmosphäre genießen. / Nachmittags steht Wasserspaß auf dem Programm, wenn Sie nahe der Piscine à vagues für eine Erfrischung parken. / Der Abend endet außerhalb der Stadt im Cap Nature Figeac und tauscht städtischen Charme gegen Natur.",
+        "hu": "A reggel a Notre-Dame-du-Puy templomhoz vezet, ahonnan csodás kilátás nyílik, mielőtt levezetne a történelmi Hôtel de la Monnaie-hoz. / Délben a festői útvonal a kedvelt Pont du Pin-en vezet át, élvezve a folyóparti hangulatot. / A délután a vízi mókáról szól, amikor a Piscine à vagues közelében parkol egy frissítő pihenőre. / Az este a városon kívül, a Cap Nature Figeac-ban ér véget, a városi varázst természetre cserélve.",
+        "ro": "Dimineața vă duce pe înălțimile bisericii Notre-Dame-du-Puy, oferind vederi largi, înainte de a conduce la istoricul Hôtel de la Monnaie. / Amiaza permite o rută pitorească traversând Pont du Pin, admirând atmosfera râului. / După-amiaza este dedicată distracției acvatice, parcând lângă Piscine à vagues pentru o pauză răcoritoare. / Seara se termină la periferie, la Cap Nature Figeac, schimbând farmecul urban pe un strop de sălbăticie.",
+        "en": "Morning takes you straight to the heights of Église Notre-Dame-du-Puy, offering sweeping views before you drive down to the historic Hôtel de la Monnaie. / Midday allows for a scenic route crossing the beloved Pont du Pin, taking in the picturesque riverside atmosphere. / Afternoon is all about aquatic fun as you park near the Piscine à vagues to enjoy a refreshing break with the family. / Evening finishes just outside the city at Cap Nature Figeac, trading the urban charm for a touch of wilderness."
+      }
+    }
+  }
+}

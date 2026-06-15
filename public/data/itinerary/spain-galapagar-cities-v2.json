@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-galapagar-cities-v2",
+  "anchor": {
+    "name": "Galapagar",
+    "coords": [
+      -4.00426,
+      40.5783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 3.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Recrearte",
+            "hu": "Recrearte",
+            "ro": "Recrearte",
+            "en": "Recrearte"
+          },
+          "coords": [
+            -4.003233,
+            40.576183
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie bei Recrearte lokale Kunstausstellungen, die die kulturelle Seele der Region widerspiegeln, und prüfen Sie vorab online das aktuelle Workshop-Angebot.",
+            "hu": "Fedezze fel a Recrearte helyi művészeti kiállításait, amelyek a régió kulturális lelkét tükrözik, és előzetesen ellenőrizze online az aktuális workshop-kínálatot.",
+            "ro": "Descoperiți expozițiile de artă locală la Recrearte, care reflectă sufletul cultural al regiunii, și verificați în prealabil online oferta actuală de ateliere.",
+            "en": "Discover local art exhibitions at Recrearte that reflect the cultural soul of the region, and check their online schedule beforehand for current workshop offerings."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural La Pocilla",
+            "hu": "Centro Cultural La Pocilla",
+            "ro": "Centro Cultural La Pocilla",
+            "en": "Centro Cultural La Pocilla"
+          },
+          "coords": [
+            -4.008564,
+            40.58279
+          ],
+          "category": "cultural",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Centro Cultural La Pocilla, einem Zentrum für darstellende Künste, und sichern Sie sich frühzeitig Tickets für Abendvorstellungen.",
+            "hu": "Csodálja meg a Centro Cultural La Pocilla, a modern előadó-művészeti központ építészetét, és biztosítson korán jegyeket az esti előadásokra, mivel azok hamar elfogynak.",
+            "ro": "Admirați arhitectura modernă a Centro Cultural La Pocilla, un hub vibrant pentru artele spectacolului, și rezervați-vă biletele din timp pentru reprezentațiile de seară.",
+            "en": "Admire the modern architecture of Centro Cultural La Pocilla, a vibrant performing arts hub, and book your tickets early for evening performances as they sell out fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal de Galapagar",
+            "hu": "Piscina municipal de Galapagar",
+            "ro": "Piscina municipal de Galapagar",
+            "en": "Piscina municipal de Galapagar"
+          },
+          "coords": [
+            -4.006519,
+            40.572367
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Sommer in der Piscina municipal de Galapagar, einem beliebten Treffpunkt für Familien, und packen Sie ausreichend Sonnencreme für den Außenbereich ein.",
+            "hu": "Pihenjen nyáron a Piscina municipal de Galapagar medencéinél, amely a családok kedvelt találkozóhelye, és hozzon magával elegendő naptejet a szabadtéri fürdőzéshez.",
+            "ro": "Relaxați-vă în timpul verii la Piscina municipal de Galapagar, un loc de întâlnire preferat de familii, și luați cu dumneavoastră suficientă cremă de soare pentru zonele exterioare.",
+            "en": "Relax during the summer at the Piscina municipal de Galapagar, a beloved gathering spot for local families, and pack plenty of sunscreen for the expansive outdoor areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro",
+            "hu": "Anfiteatro",
+            "ro": "Anfiteatro",
+            "en": "Anfiteatro"
+          },
+          "coords": [
+            -4.012846,
+            40.562866
+          ],
+          "category": "cultural",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freiluft-Anfiteatro, das in den wärmeren Monaten für gemeinschaftliche Veranstaltungen genutzt wird, und bringen Sie ein Kissen für die Steinsitze mit.",
+            "hu": "Látogasson el a szabadtéri Anfiteatro helyszínére, amelyet a melegebb hónapokban közösségi eseményekre használnak, és hozzon magával egy párnát a kőülésekhez.",
+            "ro": "Vizitați Anfiteatro în aer liber, utilizat în lunile mai calde pentru evenimente comunitare, și aduceți o pernă mică pentru a sta confortabil pe scaunele din piatră.",
+            "en": "Visit the open-air Anfiteatro, which comes alive during warmer months for community events, and bring a small cushion for comfortable seating on the stone tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente del Pozuelo",
+            "hu": "Fuente del Pozuelo",
+            "ro": "Fuente del Pozuelo",
+            "en": "Fuente del Pozuelo"
+          },
+          "coords": [
+            -4.017046,
+            40.563065
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Verweilen Sie an der historischen Fuente del Pozuelo, die einst eine wichtige Wasserquelle der Stadt war, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Fotos.",
+            "hu": "Időzzön el a történelmi Fuente del Pozuelo kútnál, amely egykor a város fontos vízforrása volt, és használja ki a lágy délutáni fényeket gyönyörű fotók készítéséhez.",
+            "ro": "Zăboviți la istorica Fuente del Pozuelo, odinioară o sursă vitală de apă pentru oraș, și profitați de lumina blândă a după-amiezii pentru a face fotografii minunate.",
+            "en": "Linger at the historic Fuente del Pozuelo, once a vital water source for the town, and take advantage of the soft afternoon light for beautifully framed photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit inspirierender lokaler Kunst bei Recrearte. Spazieren Sie dann zum Centro Cultural La Pocilla, um die moderne Architektur und kulturellen Schätze zu bewundern. Am Nachmittag bietet die Piscina municipal eine erfrischende Auszeit unter freiem Himmel. Beenden Sie den Tag am Freiluft-Anfiteatro und der historischen Fuente del Pozuelo, wo die Abendstimmung besonders magisch ist.",
+        "hu": "Kezdje a reggelt inspiráló helyi művészettel a Recrearte központban. Ezután sétáljon el a Centro Cultural La Pocilla felé, hogy megcsodálja a modern építészetet és kulturális kincseket. Délután a Piscina municipal frissítő kikapcsolódást kínál a szabad ég alatt. Zárja a napot a szabadtéri Anfiteatro és a történelmi Fuente del Pozuelo kútjánál, ahol az esti hangulat varázslatos.",
+        "ro": "Începeți dimineața cu artă locală inspiratoare la centrul Recrearte. Apoi plimbați-vă spre Centro Cultural La Pocilla pentru a admira arhitectura modernă și comorile culturale. După-amiaza, Piscina municipală oferă o pauză răcoritoare sub cerul liber. Încheiați ziua la Anfiteatro în aer liber și la istorica Fuente del Pozuelo, unde atmosfera serală devine cu adevărat magică.",
+        "en": "Start your morning with inspiring local art and exhibitions at Recrearte. Then walk to the Centro Cultural La Pocilla to admire its modern architecture and discover more cultural treasures. In the afternoon, the municipal pool offers a refreshing and lively break under the open sky. End your day at the open-air Anfiteatro and the historic Fuente del Pozuelo, where the evening mood is truly magical."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 3.21,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural La Pocilla",
+            "hu": "Centro Cultural La Pocilla",
+            "ro": "Centro Cultural La Pocilla",
+            "en": "Centro Cultural La Pocilla"
+          },
+          "coords": [
+            -4.008564,
+            40.58279
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Centro Cultural La Pocilla, einem Zentrum für darstellende Künste, und sichern Sie sich frühzeitig Tickets für Abendvorstellungen.",
+            "hu": "Csodálja meg a Centro Cultural La Pocilla, a modern előadó-művészeti központ építészetét, és biztosítson korán jegyeket az esti előadásokra, mivel azok hamar elfogynak.",
+            "ro": "Admirați arhitectura modernă a Centro Cultural La Pocilla, un hub vibrant pentru artele spectacolului, și rezervați-vă biletele din timp pentru reprezentațiile de seară.",
+            "en": "Admire the modern architecture of Centro Cultural La Pocilla, a vibrant performing arts hub, and book your tickets early for evening performances as they sell out fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Recrearte",
+            "hu": "Recrearte",
+            "ro": "Recrearte",
+            "en": "Recrearte"
+          },
+          "coords": [
+            -4.003233,
+            40.576183
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie bei Recrearte lokale Kunstausstellungen, die die kulturelle Seele der Region widerspiegeln, und prüfen Sie vorab online das aktuelle Workshop-Angebot.",
+            "hu": "Fedezze fel a Recrearte helyi művészeti kiállításait, amelyek a régió kulturális lelkét tükrözik, és előzetesen ellenőrizze online az aktuális workshop-kínálatot.",
+            "ro": "Descoperiți expozițiile de artă locală la Recrearte, care reflectă sufletul cultural al regiunii, și verificați în prealabil online oferta actuală de ateliere.",
+            "en": "Discover local art exhibitions at Recrearte that reflect the cultural soul of the region, and check their online schedule beforehand for current workshop offerings."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal de Galapagar",
+            "hu": "Piscina municipal de Galapagar",
+            "ro": "Piscina municipal de Galapagar",
+            "en": "Piscina municipal de Galapagar"
+          },
+          "coords": [
+            -4.006519,
+            40.572367
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Sommer in der Piscina municipal de Galapagar, einem beliebten Treffpunkt für Familien, und packen Sie ausreichend Sonnencreme für den Außenbereich ein.",
+            "hu": "Pihenjen nyáron a Piscina municipal de Galapagar medencéinél, amely a családok kedvelt találkozóhelye, és hozzon magával elegendő naptejet a szabadtéri fürdőzéshez.",
+            "ro": "Relaxați-vă în timpul verii la Piscina municipal de Galapagar, un loc de întâlnire preferat de familii, și luați cu dumneavoastră suficientă cremă de soare pentru zonele exterioare.",
+            "en": "Relax during the summer at the Piscina municipal de Galapagar, a beloved gathering spot for local families, and pack plenty of sunscreen for the expansive outdoor areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro",
+            "hu": "Anfiteatro",
+            "ro": "Anfiteatro",
+            "en": "Anfiteatro"
+          },
+          "coords": [
+            -4.012846,
+            40.562866
+          ],
+          "category": "cultural",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freiluft-Anfiteatro, das in den wärmeren Monaten für gemeinschaftliche Veranstaltungen genutzt wird, und bringen Sie ein Kissen für die Steinsitze mit.",
+            "hu": "Látogasson el a szabadtéri Anfiteatro helyszínére, amelyet a melegebb hónapokban közösségi eseményekre használnak, és hozzon magával egy párnát a kőülésekhez.",
+            "ro": "Vizitați Anfiteatro în aer liber, utilizat în lunile mai calde pentru evenimente comunitare, și aduceți o pernă mică pentru a sta confortabil pe scaunele din piatră.",
+            "en": "Visit the open-air Anfiteatro, which comes alive during warmer months for community events, and bring a small cushion for comfortable seating on the stone tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente del Pozuelo",
+            "hu": "Fuente del Pozuelo",
+            "ro": "Fuente del Pozuelo",
+            "en": "Fuente del Pozuelo"
+          },
+          "coords": [
+            -4.017046,
+            40.563065
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Verweilen Sie an der historischen Fuente del Pozuelo, die einst eine wichtige Wasserquelle der Stadt war, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Fotos.",
+            "hu": "Időzzön el a történelmi Fuente del Pozuelo kútnál, amely egykor a város fontos vízforrása volt, és használja ki a lágy délutáni fényeket gyönyörű fotók készítéséhez.",
+            "ro": "Zăboviți la istorica Fuente del Pozuelo, odinioară o sursă vitală de apă pentru oraș, și profitați de lumina blândă a după-amiezii pentru a face fotografii minunate.",
+            "en": "Linger at the historic Fuente del Pozuelo, once a vital water source for the town, and take advantage of the soft afternoon light for beautifully framed photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Santiago Apóstol",
+            "hu": "Santiago Apóstol",
+            "ro": "Santiago Apóstol",
+            "en": "Santiago Apóstol"
+          },
+          "coords": [
+            -4.017262,
+            40.560564
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche Santiago Apóstol wegen ihrer schlichten, aber eleganten architektonischen Details, und achten Sie beim Betreten auf die beeindruckenden Deckengewölbe.",
+            "hu": "Tekintse meg a Santiago Apóstol templomot az egyszerű, de elegáns építészeti részletei miatt, és belépéskor figyelje meg a lenyűgöző mennyezeti boltozatokat.",
+            "ro": "Vizitați biserica Santiago Apóstol pentru detaliile sale arhitecturale simple, dar elegante, și acordați atenție bolților impresionante ale tavanului atunci când intrați.",
+            "en": "Visit the Santiago Apóstol church for its simple yet elegant architectural details, and pay special attention to the impressive ceiling vaults as you step inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+          },
+          "coords": [
+            -4.017443,
+            40.559663
+          ],
+          "category": "cultural",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur im Teatro Municipal, wo regelmäßig hochkarätige Stücke aufgeführt werden, und prüfen Sie den Spielplan am Haupteingang für kurzfristige Tickets.",
+            "hu": "Tapasztalja meg a helyi kultúrát a Teatro Municipalban, ahol rendszeresen színvonalas darabokat adnak elő, és nézze meg a főbejáratnál a műsort az utolsó pillanatos jegyekért.",
+            "ro": "Experimentați cultura locală la Teatro Municipal, unde se joacă regulat piese de înaltă calitate, și verificați programul la intrarea principală pentru bilete de ultim moment.",
+            "en": "Experience local culture at the Teatro Municipal, where high-quality plays are regularly staged, and check the schedule at the main entrance for last-minute ticket availability."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Centro Cultural La Pocilla mit viel kulturellem Flair. Radeln Sie weiter zu Recrearte und genießen Sie eine wohlverdiente Pause an der Piscina municipal. Am Nachmittag erkunden Sie das charmante Anfiteatro und die historische Fuente del Pozuelo im sanften Licht. Der Abend gehört der beeindruckenden Kirche Santiago Apóstol und dem belebten Teatro Municipal.",
+        "hu": "Kerékpártúrája a Centro Cultural La Pocilla épületénél kezdődik, rengeteg kulturális élménnyel. Tekerjen tovább a Recrearte felé, majd élvezze a jól megérdemelt pihenést a Piscina municipalnál. Délután fedezze fel a hangulatos Anfiteatro-t és a történelmi Fuente del Pozuelo-t. Az este a lenyűgöző Santiago Apóstol templomé és a nyüzsgő Teatro Municipalé, ahol a helyi kultúra életre kel.",
+        "ro": "Turul pe bicicletă începe la Centro Cultural La Pocilla, plin de un aer cultural deosebit. Pedalați mai departe spre Recrearte și bucurați-vă de o pauză binemeritată la Piscina municipală. După-amiaza explorați fermecătorul Anfiteatro și istorica Fuente del Pozuelo în lumina caldă. Seara aparține impresionantei biserici Santiago Apóstol și animatului Teatro Municipal.",
+        "en": "Your cycling tour begins at Centro Cultural La Pocilla, absorbing its vibrant cultural flair. Pedal onwards to Recrearte before enjoying a well-deserved break at the bustling municipal pool. In the afternoon, explore the charming open-air Anfiteatro and the historic Fuente del Pozuelo. The evening belongs to the impressive Santiago Apóstol church and the lively Teatro Municipal nearby."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 5.44,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Canto del Peso",
+            "hu": "Canto del Peso",
+            "ro": "Canto del Peso",
+            "en": "Canto del Peso"
+          },
+          "coords": [
+            -3.994445,
+            40.592182
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Canto del Peso, einen faszinierenden Granitfelsen, der typisch für die Geologie der Sierra ist, und tragen Sie feste Schuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel a Canto del Peso-t, egy lenyűgöző gránitsziklát, amely jellemző a Sierra geológiájára, és viseljen masszív cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Descoperiți Canto del Peso, o stâncă de granit fascinantă, tipică pentru geologia Sierrei, și purtați încălțăminte solidă pentru drumul de acces denivelat.",
+            "en": "Discover Canto del Peso, a fascinating granite boulder typical of the Sierra's geology, and wear sturdy walking shoes to comfortably navigate the slightly uneven access trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural La Pocilla",
+            "hu": "Centro Cultural La Pocilla",
+            "ro": "Centro Cultural La Pocilla",
+            "en": "Centro Cultural La Pocilla"
+          },
+          "coords": [
+            -4.008564,
+            40.58279
+          ],
+          "category": "cultural",
+          "arrive_at": "09:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Centro Cultural La Pocilla, einem Zentrum für darstellende Künste, und sichern Sie sich frühzeitig Tickets für Abendvorstellungen.",
+            "hu": "Csodálja meg a Centro Cultural La Pocilla, a modern előadó-művészeti központ építészetét, és biztosítson korán jegyeket az esti előadásokra, mivel azok hamar elfogynak.",
+            "ro": "Admirați arhitectura modernă a Centro Cultural La Pocilla, un hub vibrant pentru artele spectacolului, și rezervați-vă biletele din timp pentru reprezentațiile de seară.",
+            "en": "Admire the modern architecture of Centro Cultural La Pocilla, a vibrant performing arts hub, and book your tickets early for evening performances as they sell out fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Recrearte",
+            "hu": "Recrearte",
+            "ro": "Recrearte",
+            "en": "Recrearte"
+          },
+          "coords": [
+            -4.003233,
+            40.576183
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie bei Recrearte lokale Kunstausstellungen, die die kulturelle Seele der Region widerspiegeln, und prüfen Sie vorab online das aktuelle Workshop-Angebot.",
+            "hu": "Fedezze fel a Recrearte helyi művészeti kiállításait, amelyek a régió kulturális lelkét tükrözik, és előzetesen ellenőrizze online az aktuális workshop-kínálatot.",
+            "ro": "Descoperiți expozițiile de artă locală la Recrearte, care reflectă sufletul cultural al regiunii, și verificați în prealabil online oferta actuală de ateliere.",
+            "en": "Discover local art exhibitions at Recrearte that reflect the cultural soul of the region, and check their online schedule beforehand for current workshop offerings."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilas del Navazo",
+            "hu": "Pilas del Navazo",
+            "ro": "Pilas del Navazo",
+            "en": "Pilas del Navazo"
+          },
+          "coords": [
+            -4.02335,
+            40.568366
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Suchen Sie die verborgenen Pilas del Navazo auf, alte in Stein gehauene Tröge, die eine ländliche Vergangenheit bezeugen, und nehmen Sie Wasser mit auf diese abgelegene Route.",
+            "hu": "Keresse fel a rejtett Pilas del Navazo-t, az ősi, kőbe vájt vályúkat, amelyek egy vidékies múltat bizonyítanak, és vigyen magával vizet erre az elhagyatottabb útvonalra.",
+            "ro": "Căutați Pilas del Navazo, vechi jgheaburi săpate în piatră care stau mărturie unui trecut rural, și asigurați-vă că aveți apă la voi pe acest traseu mai izolat.",
+            "en": "Seek out Pilas del Navazo, ancient stone-carved troughs that testify to a rural past, and make sure to bring bottled water as this site is somewhat off the beaten path."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente del Pozuelo",
+            "hu": "Fuente del Pozuelo",
+            "ro": "Fuente del Pozuelo",
+            "en": "Fuente del Pozuelo"
+          },
+          "coords": [
+            -4.017046,
+            40.563065
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verweilen Sie an der historischen Fuente del Pozuelo, die einst eine wichtige Wasserquelle der Stadt war, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Fotos.",
+            "hu": "Időzzön el a történelmi Fuente del Pozuelo kútnál, amely egykor a város fontos vízforrása volt, és használja ki a lágy délutáni fényeket gyönyörű fotók készítéséhez.",
+            "ro": "Zăboviți la istorica Fuente del Pozuelo, odinioară o sursă vitală de apă pentru oraș, și profitați de lumina blândă a după-amiezii pentru a face fotografii minunate.",
+            "en": "Linger at the historic Fuente del Pozuelo, once a vital water source for the town, and take advantage of the soft afternoon light for beautifully framed photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Santiago Apóstol",
+            "hu": "Santiago Apóstol",
+            "ro": "Santiago Apóstol",
+            "en": "Santiago Apóstol"
+          },
+          "coords": [
+            -4.017262,
+            40.560564
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche Santiago Apóstol wegen ihrer schlichten, aber eleganten architektonischen Details, und achten Sie beim Betreten auf die beeindruckenden Deckengewölbe.",
+            "hu": "Tekintse meg a Santiago Apóstol templomot az egyszerű, de elegáns építészeti részletei miatt, és belépéskor figyelje meg a lenyűgöző mennyezeti boltozatokat.",
+            "ro": "Vizitați biserica Santiago Apóstol pentru detaliile sale arhitecturale simple, dar elegante, și acordați atenție bolților impresionante ale tavanului atunci când intrați.",
+            "en": "Visit the Santiago Apóstol church for its simple yet elegant architectural details, and pay special attention to the impressive ceiling vaults as you step inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+            "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+          },
+          "coords": [
+            -4.017443,
+            40.559663
+          ],
+          "category": "cultural",
+          "arrive_at": "13:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur im Teatro Municipal, wo regelmäßig hochkarätige Stücke aufgeführt werden, und prüfen Sie den Spielplan am Haupteingang für kurzfristige Tickets.",
+            "hu": "Tapasztalja meg a helyi kultúrát a Teatro Municipalban, ahol rendszeresen színvonalas darabokat adnak elő, és nézze meg a főbejáratnál a műsort az utolsó pillanatos jegyekért.",
+            "ro": "Experimentați cultura locală la Teatro Municipal, unde se joacă regulat piese de înaltă calitate, și verificați programul la intrarea principală pentru bilete de ultim moment.",
+            "en": "Experience local culture at the Teatro Municipal, where high-quality plays are regularly staged, and check the schedule at the main entrance for last-minute ticket availability."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am markanten Canto del Peso, einem faszinierenden geologischen Wahrzeichen. Am Vormittag besuchen Sie die Kulturzentren La Pocilla und Recrearte, bevor Sie in den Westen fahren. Nach einem Stopp an den antiken Pilas del Navazo entdecken Sie die idyllische Fuente del Pozuelo. Der Ausflug endet in Colmenarejo mit der Santiago Apóstol Kirche und dem Theater.",
+        "hu": "Kezdje útját a jellegzetes Canto del Peso nevű, lenyűgöző geológiai nevezetességnél. Délelőtt látogasson el a La Pocilla és a Recrearte kulturális központokba, mielőtt nyugat felé indulna. Az ősi Pilas del Navazo-nál tett megálló után fedezze fel az idilli Fuente del Pozuelo-t. A kirándulás Colmenarejóban ér véget, a Santiago Apóstol templomnál és a nyüzsgő helyi színháznál.",
+        "ro": "Începeți călătoria cu mașina la impresionantul Canto del Peso, un reper geologic fascinant. În prima parte a zilei vizitați centrele culturale La Pocilla și Recrearte, înainte de a conduce spre vest. După o oprire la anticele Pilas del Navazo, descoperiți idilica Fuente del Pozuelo. Excursia se încheie la Colmenarejo cu biserica Santiago Apóstol și frumosul teatru municipal.",
+        "en": "Kick off your scenic drive at the striking Canto del Peso, a fascinating local geological landmark. Spend your morning exploring the cultural hubs of La Pocilla and Recrearte before driving westwards. After a stop at the ancient Pilas del Navazo troughs, discover the idyllic Fuente del Pozuelo. Your road trip concludes with the Santiago Apóstol church and the municipal theater."
+      }
+    }
+  }
+}

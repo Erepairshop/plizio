@@ -1,0 +1,497 @@
+{
+  "city_id": "makassar-cities-v2",
+  "anchor": {
+    "name": "Makassar",
+    "coords": [
+      119.414,
+      -5.1477
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gedung Mulo",
+            "hu": "Gedung Mulo",
+            "ro": "Gedung Mulo",
+            "en": "Gedung Mulo"
+          },
+          "coords": [
+            119.415599,
+            -5.145584
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante niederländische Kolonialarchitektur dieses historischen Gebäudes und kommen Sie früh, um die Fassade vor der Mittagshitze zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a lenyűgöző holland gyarmati építészetét, és érkezzen korán, hogy még a déli hőség előtt lefotózhassa a homlokzatot.",
+            "ro": "Admirați arhitectura colonială olandeză a acestei clădiri istorice remarcabile și ajungeți devreme pentru a fotografia fațada spectaculoasă înaintea căldurii amiezii.",
+            "en": "Admire the striking Dutch colonial architecture of this historical building, once a tourism hub, and arrive early to photograph the facade before the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Globus",
+            "hu": "Földgömb",
+            "ro": "Globul",
+            "en": "Globe"
+          },
+          "coords": [
+            119.405921,
+            -5.147867
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses ikonische historische Wahrzeichen der globalen Position Makassars, das sich als perfekter kurzer Stopp für ein unvergessliches Selfie anbietet.",
+            "hu": "Tekintse meg ezt az ikonikus történelmi jelzést, amely Makassar globális helyzetét mutatja, így tökéletes rövid megálló egy emlékezetes szelfihez a séta során.",
+            "ro": "Observați acest marcaj istoric iconic ce ilustrează poziția globală a orașului Makassar, fiind oprirea perfectă și rapidă pentru un selfie memorabil pe traseu.",
+            "en": "Check out this iconic historical marker that highlights Makassar's global position, making it a perfect quick stop for a memorable selfie along your walking route."
+          }
+        },
+        {
+          "name": {
+            "de": "Veteranen-Denkmal Süd-Ujung",
+            "hu": "Dél-Ujung Veterán Emlékmű",
+            "ro": "Monumentul Veteranilor din Sudul Ujung",
+            "en": "South Ujung Veteran Monument"
+          },
+          "coords": [
+            119.41993,
+            -5.167492
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen historischen Denkmal zu Ehren lokaler Veteranen Ihren Respekt und nehmen Sie sich Zeit für die Inschriften der tapferen Vergangenheit.",
+            "hu": "Rójja le tiszteletét ennél az ünnepélyes helyi veteránoknak emléket állító emlékműnél, és szánjon időt a régió bátor múltját tükröző feliratok elolvasására.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn dedicat veteranilor locali și luați-vă un moment pentru a citi inscripțiile ce reflectă trecutul curajos al regiunii.",
+            "en": "Pay your respects at this solemn historical monument honoring local veterans, and take a moment to read the inscriptions reflecting the region's brave past."
+          }
+        },
+        {
+          "name": {
+            "de": "SIKU Integrierter Raum",
+            "hu": "SIKU Integrált Tér",
+            "ro": "Spațiul Integrat SIKU",
+            "en": "SIKU Integrated Space"
+          },
+          "coords": [
+            119.428467,
+            -5.17097
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige moderne Museum und den kreativen Raum, der zeitgenössische Kunst mit lokaler Kultur verbindet, und achten Sie auf Live-Workshops.",
+            "hu": "Fedezze fel ezt a pezsgő, modern múzeumot és kreatív teret, amely összeköti a kortárs művészetet a helyi kultúrával, de mindenképp ellenőrizze a workshopok idejét.",
+            "ro": "Explorați acest muzeu modern și spațiu creativ vibrant ce îmbină arta contemporană cu tradiția locală, însă asigurați-vă că verificați programul pentru ateliere live.",
+            "en": "Explore this vibrant modern museum and creative space that bridges contemporary art with local culture, but be sure to check their schedule for any live workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanggar Tongkonan Kunst",
+            "hu": "Sanggar Tongkonan Művészet",
+            "ro": "Arta Sanggar Tongkonan",
+            "en": "Sanggar Tongkonan Art"
+          },
+          "coords": [
+            119.429938,
+            -5.178248
+          ],
+          "category": "cultural",
+          "arrive_at": "16:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturzentrum in die von Toraja inspirierte Kunst ein, wo Sie lokalen Handwerkern bei der Herstellung komplexer Meisterwerke zusehen können.",
+            "hu": "Merüljön el a toradzsa ihletésű művészetben ebben a kulturális központban, ahol testközelből figyelheti meg a helyi kézműveseket az aprólékos remekművek készítése közben.",
+            "ro": "Cufundați-vă în arta inspirată de cultura Toraja la acest centru cultural, unde puteți urmări îndeaproape artizanii locali cum creează capodopere tradiționale complexe.",
+            "en": "Immerse yourself in Torajan-inspired art at this dedicated cultural center, where you can watch local artisans craft intricate traditional masterpieces up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung beginnt im Herzen der Stadt und erkundet das beeindruckende niederländische Kolonialerbe im Gedung Mulo.\nGegen Mittag spazieren Sie zum ikonischen Globe hinunter, einem kleinen, aber sehr bedeutenden historischen Wahrzeichen.\nDer Nachmittag führt Sie weiter nach Süden, um lokale Helden an einem Veteranendenkmal zu ehren, gefolgt von moderner Kunst.\nDer Abend bricht an, wenn Sie ein Kulturzentrum erreichen und diesen intensiven Tag abschließen.",
+        "hu": "A gyalogtúra a város szívében kezdődik, ahol a Gedung Mulo lenyűgöző holland gyarmati örökségét fedezheti fel.\nDél közeledtével az ikonikus Globe felé sétál, amely egy kicsi, de rendkívül jelentős történelmi jelkép a városban.\nA délután folyamán délebbre indul, hogy egy veterán emlékműnél tisztelegjen a helyi hősök előtt, majd művészetet csodáljon.\nAz est közeledtével egy kulturális központba érkezik, lezárva a helyi örökségben gazdag napot.",
+        "ro": "Turul pietonal începe în inima orașului, explorând moștenirea colonială olandeză impresionantă de la Gedung Mulo.\nLa apropierea amiezii, vă veți plimba spre iconicul Globe, un marcaj istoric mic, dar plin de o semnificație aparte.\nDupă-amiaza vă poartă mai spre sud pentru a onora eroii locali la un monument al veteranilor, urmat de arta modernă.\nSeara se lasă pe măsură ce ajungeți la un centru cultural dedicat, încheind o zi plină de moștenire locală imersivă.",
+        "en": "Your walking tour begins in the heart of the city, exploring the striking Dutch colonial legacy at Gedung Mulo.\nAs midday approaches, you will stroll down towards the iconic Globe, a small but significant historical marker.\nThe afternoon takes you further south to honor local heroes at a prominent veteran monument, followed by modern art.\nEvening settles in as you reach a dedicated cultural center, wrapping up a day of immersive local heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:21",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gedung Mulo",
+            "hu": "Gedung Mulo",
+            "ro": "Gedung Mulo",
+            "en": "Gedung Mulo"
+          },
+          "coords": [
+            119.415599,
+            -5.145584
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante niederländische Kolonialarchitektur dieses historischen Gebäudes und kommen Sie früh, um die Fassade vor der Mittagshitze zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a lenyűgöző holland gyarmati építészetét, és érkezzen korán, hogy még a déli hőség előtt lefotózhassa a homlokzatot.",
+            "ro": "Admirați arhitectura colonială olandeză a acestei clădiri istorice remarcabile și ajungeți devreme pentru a fotografia fațada spectaculoasă înaintea căldurii amiezii.",
+            "en": "Admire the striking Dutch colonial architecture of this historical building, once a tourism hub, and arrive early to photograph the facade before the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Globus",
+            "hu": "Földgömb",
+            "ro": "Globul",
+            "en": "Globe"
+          },
+          "coords": [
+            119.405921,
+            -5.147867
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses ikonische historische Wahrzeichen der globalen Position Makassars, das sich als perfekter kurzer Stopp für ein unvergessliches Selfie anbietet.",
+            "hu": "Tekintse meg ezt az ikonikus történelmi jelzést, amely Makassar globális helyzetét mutatja, így tökéletes rövid megálló egy emlékezetes szelfihez a séta során.",
+            "ro": "Observați acest marcaj istoric iconic ce ilustrează poziția globală a orașului Makassar, fiind oprirea perfectă și rapidă pentru un selfie memorabil pe traseu.",
+            "en": "Check out this iconic historical marker that highlights Makassar's global position, making it a perfect quick stop for a memorable selfie along your walking route."
+          }
+        },
+        {
+          "name": {
+            "de": "Veteranen-Denkmal Süd-Ujung",
+            "hu": "Dél-Ujung Veterán Emlékmű",
+            "ro": "Monumentul Veteranilor din Sudul Ujung",
+            "en": "South Ujung Veteran Monument"
+          },
+          "coords": [
+            119.41993,
+            -5.167492
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen historischen Denkmal zu Ehren lokaler Veteranen Ihren Respekt und nehmen Sie sich Zeit für die Inschriften der tapferen Vergangenheit.",
+            "hu": "Rójja le tiszteletét ennél az ünnepélyes helyi veteránoknak emléket állító emlékműnél, és szánjon időt a régió bátor múltját tükröző feliratok elolvasására.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn dedicat veteranilor locali și luați-vă un moment pentru a citi inscripțiile ce reflectă trecutul curajos al regiunii.",
+            "en": "Pay your respects at this solemn historical monument honoring local veterans, and take a moment to read the inscriptions reflecting the region's brave past."
+          }
+        },
+        {
+          "name": {
+            "de": "SIKU Integrierter Raum",
+            "hu": "SIKU Integrált Tér",
+            "ro": "Spațiul Integrat SIKU",
+            "en": "SIKU Integrated Space"
+          },
+          "coords": [
+            119.428467,
+            -5.17097
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige moderne Museum und den kreativen Raum, der zeitgenössische Kunst mit lokaler Kultur verbindet, und achten Sie auf Live-Workshops.",
+            "hu": "Fedezze fel ezt a pezsgő, modern múzeumot és kreatív teret, amely összeköti a kortárs művészetet a helyi kultúrával, de mindenképp ellenőrizze a workshopok idejét.",
+            "ro": "Explorați acest muzeu modern și spațiu creativ vibrant ce îmbină arta contemporană cu tradiția locală, însă asigurați-vă că verificați programul pentru ateliere live.",
+            "en": "Explore this vibrant modern museum and creative space that bridges contemporary art with local culture, but be sure to check their schedule for any live workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Vemoza",
+            "hu": "Vemoza",
+            "ro": "Vemoza",
+            "en": "Vemoza"
+          },
+          "coords": [
+            119.432652,
+            -5.179824
+          ],
+          "category": "cultural",
+          "arrive_at": "15:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie einzigartige kulturelle Ausstellungen und moderne Installationen an diesem Kunstort und bringen Sie Wasser mit, da die Innenräume recht warm werden.",
+            "hu": "Fedezze fel az egyedi kulturális kiállításokat és kortárs installációkat ebben a művészeti központban, és hozzon magával vizet, mivel a belső terek felmelegedhetnek.",
+            "ro": "Descoperiți expoziții culturale unice și instalații contemporane în acest centru artistic și aduceți o sticlă de apă, deoarece interioarele pot deveni destul de calde.",
+            "en": "Discover unique cultural exhibits and contemporary installations at this artsy hub, and bring a small bottle of water as the indoor areas can get quite warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtteil Gunung Sari",
+            "hu": "Gunung Sari Városrész",
+            "ro": "Satul Urban Gunung Sari",
+            "en": "Gunung Sari Urban Village"
+          },
+          "coords": [
+            119.44386,
+            -5.178907
+          ],
+          "category": "historical",
+          "arrive_at": "17:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Verwaltungsbereich, um einen Einblick in die alltägliche lokale Regierung zu erhalten, und betrachten Sie die traditionelle Architektur.",
+            "hu": "Látogasson el erre a történelmi közigazgatási területre, hogy bepillantást nyerjen a mindennapi helyi kormányzásba, és figyelje meg a hagyományos építészeti elemeket.",
+            "ro": "Vizitați această zonă administrativă istorică pentru a asista la un fragment de guvernanță locală cotidiană și observați cu respect elementele arhitecturale tradiționale.",
+            "en": "Visit this historic administrative area to witness a slice of everyday local governance, and respectfully observe the traditional architectural elements of the office."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunststudio Celebes Indonesien",
+            "hu": "Celebesz Indonézia Művészeti Stúdió",
+            "ro": "Studioul de Artă Celebes Indonezia",
+            "en": "Celebes Indonesia Art Studio"
+          },
+          "coords": [
+            119.447715,
+            -5.183479
+          ],
+          "category": "cultural",
+          "arrive_at": "18:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche Erbe der darstellenden Künste von Sulawesi in diesem lebendigen Studio und versuchen Sie, eine Tanzprobe am späten Nachmittag zu erwischen.",
+            "hu": "Tapasztalja meg Sulawesi gazdag előadóművészeti örökségét ebben a nyüzsgő stúdióban, és próbáljon meg elkapni egy késő délutáni táncpróbát az igazi élményért.",
+            "ro": "Experimentați moștenirea bogată a artelor spectacolului din Sulawesi la acest studio plin de viață și încercați să prindeți o repetiție de dans după-amiaza târziu.",
+            "en": "Experience the rich performing arts heritage of Sulawesi at this lively studio, and try to catch one of their late afternoon dance rehearsals for a true cultural treat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am kolonialen Gedung Mulo, bevor Sie reibungslos zum historischen Globe der Stadt radeln.\nNavigieren Sie mittags durch die lebhaften Straßen zum Veteranendenkmal und genießen Sie die dynamische Atmosphäre.\nIhr Nachmittag ist voller Kreativität, wenn Sie lebendige kulturelle Zentren wie SIKU und den künstlerischen Vemoza-Raum besuchen.\nDer Tag endet mit reichen traditionellen Aufführungen im Sanggar Celebes und rundet eine aktive kulturelle Reise ab.",
+        "hu": "Kezdje kerékpáros kalandját a gyarmati Gedung Mulo-nál, mielőtt a város történelmi Globe-ja felé pedálozna zökkenőmentesen.\nDélben a nyüzsgő utcákon navigálva ér a veterán emlékműhöz, miközben magába szívja a dinamikus helyi atmoszférát.\nA délután kreativitással telik, miközben pezsgő kulturális központokat látogat meg, mint a SIKU és a művészi Vemoza tér.\nA nap hagyományos előadásokkal zárul a Sanggar Celebes-ben, tökéletesen lezárva egy aktív kulturális utazást.",
+        "ro": "Începeți aventura pe bicicletă la colonialul Gedung Mulo înainte de a pedala ușor spre Globe-ul istoric al orașului.\nLa amiază, navigați pe străzile pline de viață până la monumentul veteranilor, absorbind atmosfera locală dinamică.\nDupă-amiaza vă este plină de creativitate vizitând centre culturale vibrante, inclusiv SIKU și spațiul artistic Vemoza.\nZiua se încheie cu spectacole tradiționale la Sanggar Celebes, completând perfect o călătorie culturală activă.",
+        "en": "Start your cycling adventure at the colonial Gedung Mulo before smoothly pedaling towards the city's historical Globe.\nBy midday, navigate the lively streets down to the veteran monument, soaking in the dynamic local atmosphere as you ride.\nYour afternoon is filled with creativity as you visit vibrant cultural hubs, including SIKU and the artistic Vemoza space.\nThe day concludes with rich traditional performances at Sanggar Celebes, perfectly capping off an active cultural journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:30",
+      "total_km": 14.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gedung Mulo",
+            "hu": "Gedung Mulo",
+            "ro": "Gedung Mulo",
+            "en": "Gedung Mulo"
+          },
+          "coords": [
+            119.415599,
+            -5.145584
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante niederländische Kolonialarchitektur dieses historischen Gebäudes und kommen Sie früh, um die Fassade vor der Mittagshitze zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a lenyűgöző holland gyarmati építészetét, és érkezzen korán, hogy még a déli hőség előtt lefotózhassa a homlokzatot.",
+            "ro": "Admirați arhitectura colonială olandeză a acestei clădiri istorice remarcabile și ajungeți devreme pentru a fotografia fațada spectaculoasă înaintea căldurii amiezii.",
+            "en": "Admire the striking Dutch colonial architecture of this historical building, once a tourism hub, and arrive early to photograph the facade before the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Globus",
+            "hu": "Földgömb",
+            "ro": "Globul",
+            "en": "Globe"
+          },
+          "coords": [
+            119.405921,
+            -5.147867
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses ikonische historische Wahrzeichen der globalen Position Makassars, das sich als perfekter kurzer Stopp für ein unvergessliches Selfie anbietet.",
+            "hu": "Tekintse meg ezt az ikonikus történelmi jelzést, amely Makassar globális helyzetét mutatja, így tökéletes rövid megálló egy emlékezetes szelfihez a séta során.",
+            "ro": "Observați acest marcaj istoric iconic ce ilustrează poziția globală a orașului Makassar, fiind oprirea perfectă și rapidă pentru un selfie memorabil pe traseu.",
+            "en": "Check out this iconic historical marker that highlights Makassar's global position, making it a perfect quick stop for a memorable selfie along your walking route."
+          }
+        },
+        {
+          "name": {
+            "de": "Baruga Somba Opu",
+            "hu": "Baruga Somba Opu",
+            "ro": "Baruga Somba Opu",
+            "en": "Baruga Somba Opu"
+          },
+          "coords": [
+            119.405258,
+            -5.191219
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie in diesem großen Park durch rekonstruierte traditionelle Häuser von Süd-Sulawesi und tragen Sie bequeme Schuhe, da die Wege dazwischen uneben sind.",
+            "hu": "Sétáljon végig a hagyományos dél-szulavézi házak között ebben a hatalmas történelmi parkban, de viseljen kényelmes cipőt, mert a szerkezetek közötti utak meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă printre casele tradiționale din sudul insulei Sulawesi reconstruite în acest parc imens, însă purtați pantofi comozi deoarece potecile sunt destul de denivelate.",
+            "en": "Walk through traditional South Sulawesi houses reconstructed in this vast historical park, but wear comfortable shoes as the pathways between structures are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaeng Pattinngalloang Museum",
+            "hu": "Karaeng Pattinngalloang Múzeum",
+            "ro": "Muzeul Karaeng Pattinngalloang",
+            "en": "Karaeng Pattinngalloang Museum"
+          },
+          "coords": [
+            119.404097,
+            -5.191091
+          ],
+          "category": "museum",
+          "arrive_at": "14:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den legendären lokalen Intellektuellen und seine Artefakte und nehmen Sie sich Zeit für die Ausstellungen über das goldene Zeitalter des Gowa-Reichs.",
+            "hu": "Ismerje meg a legendás helyi értelmiségit és történelmi tárgyait, időt szánva a Gowa Királyság aranykorát részletező, gondosan összeállított kiállítások elolvasására.",
+            "ro": "Învățați despre legendarul intelectual local și artefactele sale istorice, alocându-vă timp pentru a citi expozițiile detaliate despre epoca de aur a Regatului Gowa.",
+            "en": "Learn about the legendary local intellectual and his historical artifacts, taking your time to read the well-curated displays detailing the golden age of the Gowa Kingdom."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Katangka Moschee",
+            "hu": "Régi Katangka Mecset",
+            "ro": "Vechea Moschee Katangka",
+            "en": "Old Katangka Mosque"
+          },
+          "coords": [
+            119.451272,
+            -5.190706
+          ],
+          "category": "religious",
+          "arrive_at": "15:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Betreten Sie eine der ältesten erhaltenen Moscheen der Region, um ihre einzigartige hybride Architektur zu bewundern, und kleiden Sie sich aus Respekt angemessen.",
+            "hu": "Lépjen be a régió egyik legrégebbi fennmaradt mecsetébe, hogy megcsodálhassa egyedi hibrid építészetét, de ügyeljen a visszafogott öltözködésre a szokások tiszteletben tartásával.",
+            "ro": "Pășiți în una dintre cele mai vechi moschei supraviețuitoare din regiune pentru a admira arhitectura sa hibridă, asigurându-vă că vă îmbrăcați modest, din respect.",
+            "en": "Step inside one of the oldest surviving mosques in the region to admire its unique hybrid architecture, ensuring you dress modestly to respect local religious customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballaʼ Lompoa Museum",
+            "hu": "Ballaʼ Lompoa Múzeum",
+            "ro": "Muzeul Ballaʼ Lompoa",
+            "en": "Ballaʼ Lompoa Museum"
+          },
+          "coords": [
+            119.452783,
+            -5.206707
+          ],
+          "category": "museum",
+          "arrive_at": "16:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die königlichen Insignien in diesem rekonstruierten Holzpalast und nehmen Sie sich am Eingang einen lokalen Führer, um die Gowa-Geschichte zu verstehen.",
+            "hu": "Csodálja meg a királyi jelvényeket ebben a hatalmas újjáépített fapalotában, és fogadjon fel egy helyi idegenvezetőt a bejáratnál a mély királyi történelem megértéséhez.",
+            "ro": "Minunați-vă de însemnele regale adăpostite în acest grandios palat de lemn reconstruit și angajați un ghid local la intrare pentru a înțelege pe deplin istoria Gowa.",
+            "en": "Marvel at the royal regalia housed inside this grand reconstructed wooden palace, and hire a local guide at the entrance to fully grasp the deep royal Gowa history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasumba Kunsthaus",
+            "hu": "Kasumba Művészeti Ház",
+            "ro": "Casa de Artă Kasumba",
+            "en": "Kasumba Art House"
+          },
+          "coords": [
+            119.45565,
+            -5.197512
+          ],
+          "category": "museum",
+          "arrive_at": "18:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit farbenfrohen Gemälden und lokalem Kunsthandwerk in diesem Kunsthaus, wo Sie authentische Souvenirs direkt von den Künstlern kaufen können.",
+            "hu": "Zárja útját az élénk festmények és helyi kézműves termékek felfedezésével ebben a színes művészeti házban, ahol autentikus, kézzel készített ajándéktárgyakat vásárolhat.",
+            "ro": "Încheiați-vă călătoria explorând picturi vii și meșteșuguri locale la această casă de artă colorată, de unde puteți achiziționa suveniruri autentice direct de la artiști.",
+            "en": "Conclude your trip exploring vivid paintings and local crafts at this colorful art house, where you can purchase authentic, handcrafted souvenirs directly from the artists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt am Gedung Mulo und dem historischen Globe, um die koloniale Vergangenheit zu erkunden.\nDer Mittag führt Sie zum weitläufigen historischen Park Somba Opu, wo altes regionales Erbe und Architektur lebendig werden.\nDer Nachmittag taucht mit Besuchen des angesehenen Pattinngalloang-Museums und einer alten Moschee tief in die Geschichte ein.\nBeenden Sie den Abend und bewundern Sie den rekonstruierten Balla Lompoa Palast und die Kunst im Rumah Seni Kasumba.",
+        "hu": "Autós túrája zökkenőmentesen indul a Gedung Mulo és a Globe érintésével, felfedezve a központ gyarmati múltját.\nA dél a hatalmas Somba Opu történelmi parkba vezeti, ahol a régió ősi öröksége és hagyományos építészete igazán életre kel.\nA délután még mélyebbre merül a királyi történelemben a híres Pattinngalloang Múzeum és egy régi mecset meglátogatásával.\nZárja az estét az újjáépített Balla Lompoa palota és a Rumah Seni Kasumba vibráló műalkotásainak megcsodálásával.",
+        "ro": "Turul auto începe fluent la Gedung Mulo și istoricul Globe, explorând trecutul colonial din centrul fascinant al orașului.\nAmiaza vă aduce în vastul parc istoric Somba Opu, unde moștenirea regională antică și arhitectura prind cu adevărat viață.\nDupă-amiaza pătrunde în istoria regală cu vizite la distinsul Muzeu Pattinngalloang și la o veche moschee legendară.\nÎncheiați seara admirând măreția palatului reconstruit Balla Lompoa și operele vibrante de la Rumah Seni Kasumba.",
+        "en": "Your driven tour kicks off smoothly at Gedung Mulo and the historic Globe, exploring the central city's colonial past.\nMidday brings you to the sprawling Somba Opu historical park, where ancient regional heritage and architecture truly come alive.\nThe afternoon dives deeper into royal history with visits to the esteemed Pattinngalloang Museum and a legendary old mosque.\nEnd the evening admiring the grandeur of the reconstructed Balla Lompoa palace and vibrant artworks at Rumah Seni Kasumba."
+      }
+    }
+  }
+}

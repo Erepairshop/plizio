@@ -1,0 +1,543 @@
+{
+  "city_id": "germany-schillig-cities-v2",
+  "anchor": {
+    "name": "Schillig",
+    "coords": [
+      8.02355,
+      53.70337
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 2.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "ehem. Unterfeuer Schillig",
+            "hu": "ehem. Unterfeuer Schillig",
+            "ro": "ehem. Unterfeuer Schillig",
+            "en": "ehem. Unterfeuer Schillig"
+          },
+          "coords": [
+            8.028102,
+            53.696602
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das ehemalige Unterfeuer ist ein faszinierendes Seezeichen, das tolle Fotomotive bietet, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "Az egykori alsó világítótorony lenyűgöző tengeri jelzőtűz, amely remek fotótémákat kínál, ezért ne felejtse el a fényképezőgépét.",
+            "ro": "Fostul far inferior este un reper maritim fascinant, care oferă oportunități foto excelente, așa că nu uitați aparatul foto.",
+            "en": "The former lower lighthouse is a fascinating maritime marker that offers great photo opportunities, so don't forget your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "DLRG am Badestrand Schillig",
+            "hu": "DLRG am Badestrand Schillig",
+            "ro": "DLRG am Badestrand Schillig",
+            "en": "DLRG am Badestrand Schillig"
+          },
+          "coords": [
+            8.030005,
+            53.698338
+          ],
+          "category": "landmark",
+          "arrive_at": "09:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Die DLRG-Station sorgt für Sicherheit am Strand; achten Sie auf die gehissten Flaggen für sicheres Baden in der Nordsee.",
+            "hu": "A DLRG állomás gondoskodik a strand biztonságáról; figyelje a felvont zászlókat a biztonságos fürdőzés érdekében az Északi-tengerben.",
+            "ro": "Stația DLRG asigură siguranța pe plajă; fiți atenți la steagurile ridicate pentru o baie sigură în Marea Nordului.",
+            "en": "The DLRG station ensures safety on the beach; pay attention to the hoisted flags for safe swimming in the North Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Schillig",
+            "hu": "Strandbad Schillig",
+            "ro": "Strandbad Schillig",
+            "en": "Strandbad Schillig"
+          },
+          "coords": [
+            8.030448,
+            53.702082
+          ],
+          "category": "landmark",
+          "arrive_at": "09:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Das weitläufige Strandbad lädt zum Entspannen im Strandkorb ein, den Sie am besten vorab online reservieren sollten.",
+            "hu": "A tágas strand fürdőzésre és pihenésre csábít a strandszékekben, amelyeket érdemes előre online lefoglalni.",
+            "ro": "Ștrandul spațios vă invită să vă relaxați într-un coș de plajă, pe care este recomandat să îl rezervați online în avans.",
+            "en": "The spacious beach invites you to relax in a beach chair, which is best reserved online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenwiese Schillighörn",
+            "hu": "Drachenwiese Schillighörn",
+            "ro": "Drachenwiese Schillighörn",
+            "en": "Drachenwiese Schillighörn"
+          },
+          "coords": [
+            8.028546,
+            53.70366
+          ],
+          "category": "landmark",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Auf der weiten Drachenwiese können Sie bunte Flugdrachen beobachten; bringen Sie Ihren eigenen Drachen mit, um den steten Nordseewind zu nutzen.",
+            "hu": "A tágas sárkányeregető réten színes sárkányokat figyelhet meg; hozzon saját sárkányt, hogy kihasználja a folyamatos északi-tengeri szelet.",
+            "ro": "Pe pajiștea vastă puteți observa zmeie colorate; aduceți-vă propriul zmeu pentru a profita de briza constantă a Mării Nordului.",
+            "en": "On the vast kite meadow you can watch colorful kites; bring your own kite to take advantage of the steady North Sea wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "hu": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "ro": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "en": "Antennenträger Schillig (ehem.Oberfeuer)"
+          },
+          "coords": [
+            8.021464,
+            53.700431
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Der ehemalige Leuchtturm und jetzige Antennenträger ist ein markantes Bauwerk; informieren Sie sich an den Tafeln über seine spannende Geschichte.",
+            "hu": "Az egykori világítótorony, amely ma antennatartó, egy feltűnő építmény; tájékozódjon az információs táblákon az izgalmas történetéről.",
+            "ro": "Fostul far și actualul turn de antenă este o structură marcantă; citiți panourile pentru a afla despre istoria sa fascinantă.",
+            "en": "The former lighthouse and current antenna tower is a striking structure; read the information boards to learn about its fascinating history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand Schillig",
+            "hu": "Hundestrand Schillig",
+            "ro": "Hundestrand Schillig",
+            "en": "Hundestrand Schillig"
+          },
+          "coords": [
+            8.022579,
+            53.708454
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Dieser Strandabschnitt ist ideal für Vierbeiner; denken Sie an ausreichend Trinkwasser für Ihren Hund nach dem Toben im Sand.",
+            "hu": "Ez a strandszakasz ideális a négylábúak számára; gondoskodjon elegendő ivóvízről a kutyája számára a homokban való játék után.",
+            "ro": "Această secțiune de plajă este ideală pentru câini; nu uitați să aduceți suficientă apă de băut pentru câinele dumneavoastră.",
+            "en": "This beach section is ideal for dogs; remember to bring plenty of drinking water for your dog after playing in the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten Sie Ihren entspannten Rundgang am ehemaligen Unterfeuer und lassen die erste frische Meeresbrise auf sich wirken. Gegen Mittag schlendern Sie entlang des DLRG-Postens bis zum weitläufigen Strandbad Schillig, wo sich die Nordsee von ihrer schönsten Seite zeigt. Nachmittags erwartet Sie ein farbenfrohes Spektakel auf der Drachenwiese, gefolgt von der maritimen Historie am alten Antennenträger. Der Abend klingt gemütlich und tierisch entspannt am weiten Hundestrand im Norden aus.",
+        "hu": "Reggel a laza sétáját az egykori alsó világítótoronynál kezdi, és élvezi a friss tengeri szellőt. Délben a DLRG állomás mentén a tágas Schillig strandfürdő felé sétál, ahol az Északi-tenger a legszebb arcát mutatja. Délután színes látványosság várja a sárkányeregető réten, majd a régi antennatartó tengeri történelme következik. Az este kellemesen és nyugodtan zárul az északi kutyás strandon.",
+        "ro": "Dimineața vă începeți plimbarea relaxantă la fostul far inferior și lăsați prima briză proaspătă a mării să vă revigoreze. La prânz, vă plimbați de-a lungul stației DLRG până la plaja spațioasă din Schillig, unde Marea Nordului se arată în toată splendoarea ei. După-amiaza vă așteaptă un spectacol colorat pe pajiștea zmeielor, urmat de istoria maritimă la vechiul turn de antenă. Seara se încheie liniștit pe vasta plajă pentru câini din nord.",
+        "en": "In the morning, start your relaxed walking tour at the former lower lighthouse and take in the first fresh sea breeze. At noon, you stroll along the DLRG station to the spacious Schillig beach, where the North Sea shows its most beautiful side. In the afternoon, a colorful spectacle awaits you on the kite meadow, followed by maritime history at the old antenna tower. The evening ends cozily and relaxed on the vast dog beach in the north."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 3.22,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Den Opfern der See",
+            "hu": "Den Opfern der See",
+            "ro": "Den Opfern der See",
+            "en": "Den Opfern der See"
+          },
+          "coords": [
+            8.016336,
+            53.684914
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses Denkmal erinnert eindrucksvoll an die auf See Gebliebenen; nehmen Sie sich hier einen Moment der Stille für diese berührende Gedenkstätte.",
+            "hu": "Ez az emlékmű a tengeren odaveszettekre emlékeztet; szánjon egy perc csendet erre a megható emlékhelyre.",
+            "ro": "Acest monument comemorează victimele mării; luați-vă un moment de liniște aici pentru acest memorial emoționant.",
+            "en": "This monument impressively commemorates those lost at sea; take a moment of silence here for this touching memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolk",
+            "hu": "Kolk",
+            "ro": "Kolk",
+            "en": "Kolk"
+          },
+          "coords": [
+            8.016071,
+            53.688522
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das kleine Gewässer hinter dem Deich ist ein friedliches Biotop, an dem Sie mit einem Fernglas hervorragend heimische Vögel beobachten können.",
+            "hu": "A gát mögötti kis vízfelület egy békés biotóp, ahol távcsővel kiválóan megfigyelheti a helyi madarakat.",
+            "ro": "Micul ochi de apă din spatele digului este un biotop pașnic, unde puteți observa excelent păsările locale cu un binoclu.",
+            "en": "The small body of water behind the dike is a peaceful biotope where you can excellently observe local birds with binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Horumersiel",
+            "hu": "Strandbad Horumersiel",
+            "ro": "Strandbad Horumersiel",
+            "en": "Strandbad Horumersiel"
+          },
+          "coords": [
+            8.022058,
+            53.686941
+          ],
+          "category": "landmark",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Das gepflegte Strandbad lockt mit grünen Wiesen statt Sand, was besonders für Familien mit Kleinkindern eine tolle und saubere Alternative ist.",
+            "hu": "A gondozott strand homok helyett zöld pázsittal csábít, ami különösen a kisgyermekes családok számára nagyszerű és tiszta alternatíva.",
+            "ro": "Ștrandul bine întreținut atrage cu pajiști verzi în loc de nisip, ceea ce este o alternativă excelentă și curată pentru familiile cu copii mici.",
+            "en": "The well-kept beach attracts with green meadows instead of sand, which is a great and clean alternative, especially for families with small children."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielhaus \"Seesternchen\"",
+            "hu": "Kinderspielhaus \"Seesternchen\"",
+            "ro": "Kinderspielhaus \"Seesternchen\"",
+            "en": "Kinderspielhaus \"Seesternchen\""
+          },
+          "coords": [
+            8.021972,
+            53.692046
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Das Indoor-Spielhaus bietet Spaß bei jedem Wetter; checken Sie vorher online die Öffnungszeiten und Bastelangebote für Ihre Kinder.",
+            "hu": "A beltéri játszóház minden időjárási körülmények között szórakozást nyújt; előzetesen ellenőrizze online a nyitvatartást és a kézműves programokat.",
+            "ro": "Casa de joacă interioară oferă distracție indiferent de vreme; verificați online programul și atelierele de creație pentru copiii dumneavoastră.",
+            "en": "The indoor playhouse offers fun in all weathers; check the opening hours and craft offers for your children online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "ehem. Unterfeuer Schillig",
+            "hu": "ehem. Unterfeuer Schillig",
+            "ro": "ehem. Unterfeuer Schillig",
+            "en": "ehem. Unterfeuer Schillig"
+          },
+          "coords": [
+            8.028102,
+            53.696602
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Das ehemalige Unterfeuer ist ein faszinierendes Seezeichen, das tolle Fotomotive bietet, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "Az egykori alsó világítótorony lenyűgöző tengeri jelzőtűz, amely remek fotótémákat kínál, ezért ne felejtse el a fényképezőgépét.",
+            "ro": "Fostul far inferior este un reper maritim fascinant, care oferă oportunități foto excelente, așa că nu uitați aparatul foto.",
+            "en": "The former lower lighthouse is a fascinating maritime marker that offers great photo opportunities, so don't forget your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Badestrand Schillig",
+            "hu": "Badestrand Schillig",
+            "ro": "Badestrand Schillig",
+            "en": "Badestrand Schillig"
+          },
+          "coords": [
+            8.030706,
+            53.703274
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Der traumhafte Sandstrand ist perfekt für lange Spaziergänge, wobei Sie unbedingt auf die Gezeiten achten sollten, bevor Sie ins Watt gehen.",
+            "hu": "Az álomszép homokos strand tökéletes hosszú sétákhoz, de mielőtt az iszapba lépne, mindenképpen figyeljen az árapályra.",
+            "ro": "Plaja superbă cu nisip este perfectă pentru plimbări lungi, deși trebuie să fiți atenți la maree înainte de a merge pe nămol.",
+            "en": "The fantastic sandy beach is perfect for long walks, though you should definitely pay attention to the tides before walking on the mudflats."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunde am Naturstrand von Schillig",
+            "hu": "Hunde am Naturstrand von Schillig",
+            "ro": "Hunde am Naturstrand von Schillig",
+            "en": "Hunde am Naturstrand von Schillig"
+          },
+          "coords": [
+            8.028184,
+            53.706809
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "An diesem Naturstrandabschnitt können Hunde frei laufen; packen Sie eine windfeste Jacke ein, da es hier oft etwas rauer zugeht.",
+            "hu": "Ezen a természetes strandszakaszon a kutyák szabadon futkározhatnak; csomagoljon be egy szélálló kabátot, mivel itt gyakran zordabb az idő.",
+            "ro": "Pe această secțiune de plajă naturală, câinii pot alerga liber; împachetați o jachetă rezistentă la vânt, deoarece aici suflă adesea mai tare.",
+            "en": "Dogs can run free on this natural beach section; pack a windproof jacket as it can often get a bit rougher here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt im idyllischen Horumersiel mit einem besinnlichen Halt am Denkmal für die Opfer der See und einem kurzen Abstecher zum malerischen Kolk. Am späten Vormittag radeln Sie am grünen Strandbad vorbei und entdecken das fröhliche Kinderspielhaus Seesternchen. Nachmittags führt der Weg Sie zügig zum historischen Unterfeuer und dem herrlichen Badestrand von Schillig. Den Abend verbringen Sie auf dem weitläufigen Naturstrand, wo Sie den weiten Blick auf das offene Meer genießen.",
+        "hu": "Kerékpártúrája az idilli Horumersielben indul, egy elgondolkodtató megállóval a tenger áldozatainak emlékművénél és egy rövid kitérővel a festői Kolkhoz. Késő délelőtt a zöldellő strandfürdő mellett teker, és felfedezi a vidám Seesternchen játszóházat. Délután az út a történelmi alsó világítótoronyhoz és Schillig csodálatos strandjához vezet. Az estét a tágas természetes strandon tölti, ahol élvezheti a nyílt tengerre nyíló tágas kilátást.",
+        "ro": "Turul dumneavoastră cu bicicleta începe în idilicul Horumersiel cu o oprire contemplativă la monumentul victimelor mării și un scurt ocol către pitorescul Kolk. Spre sfârșitul dimineții pedalați pe lângă ștrandul verde și descoperiți vesela casă de joacă Seesternchen. După-amiaza, drumul vă duce rapid către farul istoric inferior și superba plajă din Schillig. Vă petreceți seara pe plaja naturală spațioasă, bucurându-vă de priveliștea largă a mării deschise.",
+        "en": "Your bike tour starts in idyllic Horumersiel with a contemplative stop at the memorial for the victims of the sea and a short detour to the picturesque Kolk. In the late morning, cycle past the green beach and discover the cheerful Seesternchen children's playhouse. In the afternoon, the path takes you quickly to the historic lower lighthouse and the wonderful Schillig beach. Spend the evening on the spacious natural beach, where you can enjoy the sweeping view of the open sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 3.38,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kolk",
+            "hu": "Kolk",
+            "ro": "Kolk",
+            "en": "Kolk"
+          },
+          "coords": [
+            8.016071,
+            53.688522
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das kleine Gewässer hinter dem Deich ist ein friedliches Biotop, an dem Sie mit einem Fernglas hervorragend heimische Vögel beobachten können.",
+            "hu": "A gát mögötti kis vízfelület egy békés biotóp, ahol távcsővel kiválóan megfigyelheti a helyi madarakat.",
+            "ro": "Micul ochi de apă din spatele digului este un biotop pașnic, unde puteți observa excelent păsările locale cu un binoclu.",
+            "en": "The small body of water behind the dike is a peaceful biotope where you can excellently observe local birds with binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Den Opfern der See",
+            "hu": "Den Opfern der See",
+            "ro": "Den Opfern der See",
+            "en": "Den Opfern der See"
+          },
+          "coords": [
+            8.016336,
+            53.684914
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses Denkmal erinnert eindrucksvoll an die auf See Gebliebenen; nehmen Sie sich hier einen Moment der Stille für diese berührende Gedenkstätte.",
+            "hu": "Ez az emlékmű a tengeren odaveszettekre emlékeztet; szánjon egy perc csendet erre a megható emlékhelyre.",
+            "ro": "Acest monument comemorează victimele mării; luați-vă un moment de liniște aici pentru acest memorial emoționant.",
+            "en": "This monument impressively commemorates those lost at sea; take a moment of silence here for this touching memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Horumersiel",
+            "hu": "Strandbad Horumersiel",
+            "ro": "Strandbad Horumersiel",
+            "en": "Strandbad Horumersiel"
+          },
+          "coords": [
+            8.022058,
+            53.686941
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Das gepflegte Strandbad lockt mit grünen Wiesen statt Sand, was besonders für Familien mit Kleinkindern eine tolle und saubere Alternative ist.",
+            "hu": "A gondozott strand homok helyett zöld pázsittal csábít, ami különösen a kisgyermekes családok számára nagyszerű és tiszta alternatíva.",
+            "ro": "Ștrandul bine întreținut atrage cu pajiști verzi în loc de nisip, ceea ce este o alternativă excelentă și curată pentru familiile cu copii mici.",
+            "en": "The well-kept beach attracts with green meadows instead of sand, which is a great and clean alternative, especially for families with small children."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielhaus \"Seesternchen\"",
+            "hu": "Kinderspielhaus \"Seesternchen\"",
+            "ro": "Kinderspielhaus \"Seesternchen\"",
+            "en": "Kinderspielhaus \"Seesternchen\""
+          },
+          "coords": [
+            8.021972,
+            53.692046
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Das Indoor-Spielhaus bietet Spaß bei jedem Wetter; checken Sie vorher online die Öffnungszeiten und Bastelangebote für Ihre Kinder.",
+            "hu": "A beltéri játszóház minden időjárási körülmények között szórakozást nyújt; előzetesen ellenőrizze online a nyitvatartást és a kézműves programokat.",
+            "ro": "Casa de joacă interioară oferă distracție indiferent de vreme; verificați online programul și atelierele de creație pentru copiii dumneavoastră.",
+            "en": "The indoor playhouse offers fun in all weathers; check the opening hours and craft offers for your children online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "ehem. Unterfeuer Schillig",
+            "hu": "ehem. Unterfeuer Schillig",
+            "ro": "ehem. Unterfeuer Schillig",
+            "en": "ehem. Unterfeuer Schillig"
+          },
+          "coords": [
+            8.028102,
+            53.696602
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Das ehemalige Unterfeuer ist ein faszinierendes Seezeichen, das tolle Fotomotive bietet, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "Az egykori alsó világítótorony lenyűgöző tengeri jelzőtűz, amely remek fotótémákat kínál, ezért ne felejtse el a fényképezőgépét.",
+            "ro": "Fostul far inferior este un reper maritim fascinant, care oferă oportunități foto excelente, așa că nu uitați aparatul foto.",
+            "en": "The former lower lighthouse is a fascinating maritime marker that offers great photo opportunities, so don't forget your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "hu": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "ro": "Antennenträger Schillig (ehem.Oberfeuer)",
+            "en": "Antennenträger Schillig (ehem.Oberfeuer)"
+          },
+          "coords": [
+            8.021464,
+            53.700431
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Der ehemalige Leuchtturm und jetzige Antennenträger ist ein markantes Bauwerk; informieren Sie sich an den Tafeln über seine spannende Geschichte.",
+            "hu": "Az egykori világítótorony, amely ma antennatartó, egy feltűnő építmény; tájékozódjon az információs táblákon az izgalmas történetéről.",
+            "ro": "Fostul far și actualul turn de antenă este o structură marcantă; citiți panourile pentru a afla despre istoria sa fascinantă.",
+            "en": "The former lighthouse and current antenna tower is a striking structure; read the information boards to learn about its fascinating history."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenwiese Schillighörn",
+            "hu": "Drachenwiese Schillighörn",
+            "ro": "Drachenwiese Schillighörn",
+            "en": "Drachenwiese Schillighörn"
+          },
+          "coords": [
+            8.028546,
+            53.70366
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Auf der weiten Drachenwiese können Sie bunte Flugdrachen beobachten; bringen Sie Ihren eigenen Drachen mit, um den steten Nordseewind zu nutzen.",
+            "hu": "A tágas sárkányeregető réten színes sárkányokat figyelhet meg; hozzon saját sárkányt, hogy kihasználja a folyamatos északi-tengeri szelet.",
+            "ro": "Pe pajiștea vastă puteți observa zmeie colorate; aduceți-vă propriul zmeu pentru a profita de briza constantă a Mării Nordului.",
+            "en": "On the vast kite meadow you can watch colorful kites; bring your own kite to take advantage of the steady North Sea wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Badestrand Schillig",
+            "hu": "Badestrand Schillig",
+            "ro": "Badestrand Schillig",
+            "en": "Badestrand Schillig"
+          },
+          "coords": [
+            8.030706,
+            53.703274
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Der traumhafte Sandstrand ist perfekt für lange Spaziergänge, wobei Sie unbedingt auf die Gezeiten achten sollten, bevor Sie ins Watt gehen.",
+            "hu": "Az álomszép homokos strand tökéletes hosszú sétákhoz, de mielőtt az iszapba lépne, mindenképpen figyeljen az árapályra.",
+            "ro": "Plaja superbă cu nisip este perfectă pentru plimbări lungi, deși trebuie să fiți atenți la maree înainte de a merge pe nămol.",
+            "en": "The fantastic sandy beach is perfect for long walks, though you should definitely pay attention to the tides before walking on the mudflats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der motorisierte Ausflug beginnt am Naturidyll Kolk und dem eindrucksvollen Denkmal, das tief in die maritime Geschichte der Region blicken lässt. Zur Mittagszeit erreichen Sie die gepflegten Anlagen von Horumersiel und das beliebte Kinderspielhaus Seesternchen. Am Nachmittag erkunden Sie die prägnanten Wahrzeichen von Schillig wie das Unterfeuer, den imposanten Antennenträger und die weite Drachenwiese. Ein perfekter Strandabend am Schilliger Badestrand krönt diesen abwechslungsreichen Tag an der Küste.",
+        "hu": "A motorizált kirándulás a Kolk természeti idilljével és a lenyűgöző emlékművel kezdődik, amely mély bepillantást enged a régió tengeri történelmébe. Délidőben eléri Horumersiel gondozott parkjait és a népszerű Seesternchen játszóházat. Délután felfedezi Schillig meghatározó nevezetességeit, mint az alsó világítótorony, az impozáns antennatartó és a tágas sárkányeregető rét. A tengerparti napot egy tökéletes este koronázza meg a schilligi strandon.",
+        "ro": "Excursia motorizată începe la idila naturală Kolk și monumentul impresionant, oferind o perspectivă profundă asupra istoriei maritime a regiunii. La prânz ajungeți la facilitățile bine întreținute din Horumersiel și la populara casă de joacă Seesternchen. După-amiaza, explorați reperele importante din Schillig, cum ar fi farul inferior, impresionantul turn de antenă și vasta pajiște pentru zmeie. O seară perfectă pe plaja din Schillig încununează această zi variată pe coastă.",
+        "en": "The motorized excursion begins at the natural idyll of Kolk and the impressive monument, offering a deep insight into the region's maritime history. At lunchtime, you reach the well-kept facilities of Horumersiel and the popular Seesternchen playhouse. In the afternoon, explore Schillig's defining landmarks, such as the lower lighthouse, the imposing antenna tower, and the vast kite meadow. A perfect beach evening at Schillig's swimming beach crowns this varied day on the coast."
+      }
+    }
+  }
+}

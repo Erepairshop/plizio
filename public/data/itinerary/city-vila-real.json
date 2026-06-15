@@ -1,0 +1,451 @@
+{
+  "city_id": "city-vila-real",
+  "anchor": {
+    "name": "Vila Real",
+    "coords": [
+      -7.7441,
+      41.3006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kids Only",
+            "hu": "Kids Only",
+            "ro": "Kids Only",
+            "en": "Kids Only"
+          },
+          "coords": [
+            -7.744388,
+            41.307552
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Familienort, der perfekt für Kinder ist, um Energie abzubauen, aber denken Sie daran, Ihre eigenen Wasserflaschen mitzubringen.",
+            "hu": "Kezdje a napot ezen a központi családi helyen, ahol a gyerekek levezethetik az energiájukat, mielőtt felfedeznék a várost, de ne felejtsen el saját vizespalackot hozni.",
+            "ro": "Începeți ziua în acest loc central pentru familii, perfect pentru ca cei mici să își consume energia înainte de a explora orașul, dar nu uitați să aduceți sticle cu apă.",
+            "en": "Start your day at this central family spot, perfect for letting the little ones burn some energy before exploring the city, but remember to bring your own water bottles."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte da Nossa Senhora da Conceição",
+            "hu": "Fonte da Nossa Senhora da Conceição",
+            "ro": "Fonte da Nossa Senhora da Conceição",
+            "en": "Fonte da Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -7.74368,
+            41.30523
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen charmanten historischen Brunnen, der die Gemeinde über Generationen hinweg versorgte, und nutzen Sie den schattigen Ort für eine kurze Verschnaufpause.",
+            "hu": "Csodálja meg ezt a hangulatos történelmi kutat, amely generációkon át látta el a helyi közösséget, és használja ki az árnyékos helyet egy kis pihenésre a reggeli séta során.",
+            "ro": "Admirați această fântână istorică fermecătoare care a alimentat comunitatea locală timp de generații, fiind un loc umbrit ideal pentru a vă trage sufletul în timpul plimbării.",
+            "en": "Admire this charming historic fountain that supplied the local community for generations, making it an ideal shaded spot to catch your breath during your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Infantil da Estação",
+            "hu": "Parque Infantil da Estação",
+            "ro": "Parque Infantil da Estação",
+            "en": "Parque Infantil da Estação"
+          },
+          "coords": [
+            -7.738384,
+            41.294745
+          ],
+          "category": "family",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem lebhaften Spielplatz in der Nähe des alten Bahnhofs, der moderne Geräte bietet, also holen Sie sich vorher einen Kaffee, um sich hier auszuruhen.",
+            "hu": "Pihenjen ebben a régi vasútállomás közelében található, modern eszközökkel felszerelt játszótéren, és javasoljuk, hogy érkezés előtt vegyen egy kávét a közeli kávézók egyikében.",
+            "ro": "Relaxați-vă în acest loc de joacă plin de viață situat lângă vechea gară, oferind echipamente moderne, așa că luați-vă o cafea din apropiere înainte de a vă așeza pe bancă.",
+            "en": "Relax in this lively playground located near the old station area, offering modern equipment for children and plenty of seating, so grab a coffee nearby before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Terragido",
+            "hu": "Albufeira do Terragido",
+            "ro": "Albufeira do Terragido",
+            "en": "Albufeira do Terragido"
+          },
+          "coords": [
+            -7.748189,
+            41.287973
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den Ufern dieses ruhigen städtischen Stausees, wo Sie die Spiegelungen des Himmels auf dem Wasser beobachten können, aber tragen Sie bequeme Wanderschuhe.",
+            "hu": "Sétáljon ezen a nyugodt városi víztározó partján, ahol megfigyelheti az égbolt tükröződését a vízen, de mindenképpen viseljen kényelmes cipőt az egyenetlen földutak miatt.",
+            "ro": "Plimbați-vă pe malurile acestui rezervor urban liniștit, unde puteți urmări reflexiile cerului pe apă, dar purtați încălțăminte confortabilă pentru potecile de pământ accidentate.",
+            "en": "Stroll along the edges of this tranquil urban reservoir, where you can watch the reflections of the sky on the water, but wear comfortable shoes for the uneven dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Espelho de Água da UTAD",
+            "hu": "Espelho de Água da UTAD",
+            "ro": "Espelho de Água da UTAD",
+            "en": "Espelho de Água da UTAD"
+          },
+          "coords": [
+            -7.73803,
+            41.289489
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Wasserspiegel des Universitätscampus, einem friedlichen architektonischen Merkmal, das sich perfekt für Fotos eignet, besonders im weichen Nachmittagslicht.",
+            "hu": "Fejezze be a sétát az egyetemi kampusz víztükrénél, amely egy békés építészeti alkotás és tökéletes fotótéma, különösen akkor, amikor a délutáni fény a leglágyabb.",
+            "ro": "Încheiați turul la oglinda de apă din campusul universitar, o caracteristică arhitecturală pașnică, perfectă pentru fotografie, mai ales când lumina după-amiezii este foarte blândă.",
+            "en": "Finish your walking tour at the university campus water mirror, a peaceful architectural feature perfect for photography, especially when the afternoon light is softest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den familienfreundlichen Gegenden von Vila Real, bevor Sie das historische Herz entdecken. Mittags schlendern Sie an Wasserspielen und Grünflächen vorbei. Der Nachmittag führt Sie zu den ruhigen Pfaden des südlichen Stausees. Beenden Sie den Tag mit einem Spaziergang über den modernen Universitätscampus und genießen Sie die Seen.",
+        "hu": "Kezdje a reggelt Vila Real családbarát területein, mielőtt felfedezné a történelmi központot. Délben már a város kedvelt zöldterületei és szökőkútjai mellett fog sétálni. A délután a déli víztározó nyugodt ösvényei felé vezeti Önt. Zárja a napot a modern egyetemi kampuszon tett sétával, élvezve a gyönyörűen tükröződő tavak igazán békés és lenyűgöző látványát.",
+        "ro": "Începeți dimineața explorând zonele familiale din centrul Vila Real înainte de a descoperi inima istorică. La prânz, vă veți plimba pe lângă spațiile verzi și jocurile de apă. După-amiaza vă duce spre traseele liniștite ale rezervorului sudic. Încheiați ziua plimbându-vă prin campusul universitar modern, bucurându-vă de lacurile care reflectă frumos lumina serii.",
+        "en": "Start your morning exploring the family-friendly areas of central Vila Real before discovering the historic heart. By midday, you'll be wandering past the town's cherished water features and green spaces. The afternoon takes you towards the tranquil southern reservoir trails. Conclude your day walking through the modern university campus, enjoying the reflective lakes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fonte da Nossa Senhora da Conceição",
+            "hu": "Fonte da Nossa Senhora da Conceição",
+            "ro": "Fonte da Nossa Senhora da Conceição",
+            "en": "Fonte da Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -7.74368,
+            41.30523
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen charmanten historischen Brunnen, der die Gemeinde über Generationen hinweg versorgte, und nutzen Sie den schattigen Ort für eine kurze Verschnaufpause.",
+            "hu": "Csodálja meg ezt a hangulatos történelmi kutat, amely generációkon át látta el a helyi közösséget, és használja ki az árnyékos helyet egy kis pihenésre a reggeli séta során.",
+            "ro": "Admirați această fântână istorică fermecătoare care a alimentat comunitatea locală timp de generații, fiind un loc umbrit ideal pentru a vă trage sufletul în timpul plimbării.",
+            "en": "Admire this charming historic fountain that supplied the local community for generations, making it an ideal shaded spot to catch your breath during your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Game Zone",
+            "hu": "Game Zone",
+            "ro": "Game Zone",
+            "en": "Game Zone"
+          },
+          "coords": [
+            -7.734507,
+            41.297075
+          ],
+          "category": "family",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieses moderne Spielzentrum ein, das eine großartige Alternative für Regentage bietet, aber versuchen Sie, früh zu kommen, um den geschäftigen Nachmittag zu meiden.",
+            "hu": "Merüljön el a családi szórakozásban ebben a modern játékközpontban, amely kiváló esős napi alternatívát kínál, de érkezzen korán, hogy elkerülje a délutáni nagy tömeget.",
+            "ro": "Bucurați-vă de divertismentul în familie la acest centru modern de jocuri, perfect pentru o zi ploioasă, dar încercați să ajungeți devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Dive into family-friendly entertainment at this modern game center, which offers a great rainy-day alternative, but try to arrive early to avoid the bustling afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanque Oval",
+            "hu": "Tanque Oval",
+            "ro": "Tanque Oval",
+            "en": "Tanque Oval"
+          },
+          "coords": [
+            -7.713976,
+            41.294159
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante ovale Becken auf einem historischen Anwesen, das klassische Landschaftsbautechniken zeigt, also nehmen Sie sich einen Moment Zeit für die Steinmetzarbeiten.",
+            "hu": "Fedezze fel ezt az elegáns ovális medencét a történelmi birtokon, amely a klasszikus tájépítészetet mutatja be, ezért szánjon időt a szimmetrikus kőmunkák megcsodálására.",
+            "ro": "Descoperiți acest bazin oval elegant, situat pe un domeniu istoric, care prezintă tehnici clasice de peisagistică, așa că acordați-vă un moment pentru a admira piatra simetrică.",
+            "en": "Discover this elegant oval basin nestled within historic estate grounds, showcasing classical landscaping techniques, so take a moment to admire the symmetric stonework design."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanque de Dona Leonor",
+            "hu": "Tanque de Dona Leonor",
+            "ro": "Tanque de Dona Leonor",
+            "en": "Tanque de Dona Leonor"
+          },
+          "coords": [
+            -7.713243,
+            41.296502
+          ],
+          "category": "natural",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wassertank, der Dona Leonor gewidmet ist und tief mit der Adelsgeschichte verbunden ist, und sprechen Sie leise, um die ruhige Atmosphäre zu bewahren.",
+            "hu": "Fedezze fel ezt a Dona Leonornak szentelt történelmi víztározót, amely mélyen kapcsolódik a helyi nemesi történelemhez, és kérjük, beszéljen halkan, hogy megőrizze a nyugodt légkört.",
+            "ro": "Explorați acest rezervor istoric de apă dedicat Donei Leonor, conectat de istoria nobilă locală, și amintiți-vă să vorbiți încet pentru a menține atmosfera cu adevărat liniștită.",
+            "en": "Explore this historic water tank dedicated to Dona Leonor, deeply connected to local noble history, and remember to keep your voice down to preserve the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Infantil da Habutad",
+            "hu": "Parque Infantil da Habutad",
+            "ro": "Parque Infantil da Habutad",
+            "en": "Parque Infantil da Habutad"
+          },
+          "coords": [
+            -7.729885,
+            41.289108
+          ],
+          "category": "family",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bringen Sie die Kinder zu diesem Spielplatz in der Nachbarschaft mit sicheren Klettergerüsten, der einen ausgezeichneten Rastplatz auf halbem Weg Ihres Radabenteuers bietet.",
+            "hu": "Hozza el a gyerekeket ebbe a környékbeli játszótérre, amely biztonságos mászókákkal rendelkezik, és kiváló pihenőhelyet biztosít a kerékpáros kaland felénél az egész családnak.",
+            "ro": "Aduceți copiii la acest loc de joacă din cartier, care oferă structuri sigure de cățărat, fiind o oprire excelentă de odihnă la jumătatea distanței în timpul aventurii cu bicicleta.",
+            "en": "Bring the kids to this neighborhood playground featuring safe climbing structures and wide open areas, providing an excellent halfway rest stop during your cycling adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Lago da ECHS - Pólo 1",
+            "hu": "Lago da ECHS - Pólo 1",
+            "ro": "Lago da ECHS - Pólo 1",
+            "en": "Lago da ECHS - Pólo 1"
+          },
+          "coords": [
+            -7.745729,
+            41.284384
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem künstlichen See auf dem Campus, wo das umliegende Grün eine perfekte Kulisse für ein entspanntes und gemütliches Nachmittagspicknick bietet.",
+            "hu": "Zárja kerékpártúráját az egyetemi kampusz ezen mesterséges tavánál, ahol a környező növényzet tökéletes hátteret kínál egy pihentető és igazán hangulatos délutáni piknikhez.",
+            "ro": "Încheiați turul cu bicicleta lângă acest lac artificial senin din campusul universitar, unde verdeața înconjurătoare oferă un fundal perfect pentru un picnic de după-amiază.",
+            "en": "Conclude your cycling tour by this serene artificial lake on the university campus, where the surrounding greenery offers a perfect backdrop for a relaxing afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im historischen Zentrum und bewundern Sie die klassischen Brunnen in der frischen Morgenluft. Die Mittagsroute führt Sie nach Osten zu eleganten Anwesen. Verbringen Sie den Nachmittag damit, an charmanten Familienparks vorbeizufahren. Wenn der Abend naht, entspannen Sie an den ruhigen Campusseen, die von üppiger Vegetation umgeben sind.",
+        "hu": "Kezdje kerékpáros útját a történelmi központban, megcsodálva a klasszikus szökőkutakat a friss reggeli levegőben. A déli útvonal kelet felé, elegáns birtokok és pihenőövezetek felé visz. A délutánt bájos, családoknak kialakított környékbeli parkok mellett elhaladva töltheti. Ahogy közeledik az este, pihenjen a buja növényzettel körülvett békés egyetemi tavaknál.",
+        "ro": "Începeți călătoria cu bicicleta în centrul istoric, admirând fântânile clasice în aerul proaspăt al dimineții. Traseul de prânz vă duce spre est, către domenii elegante. Petreceți după-amiaza trecând pe lângă parcuri fermecătoare de cartier, perfecte pentru familii. Pe măsură ce se apropie seara, relaxați-vă lângă lacurile din campus, înconjurate de vegetație.",
+        "en": "Kick off your cycling journey in the historic center, admiring the classical fountains in the fresh morning air. The midday route takes you eastwards towards elegant estates and recreational zones. Spend the afternoon gliding past charming neighborhood parks tailored for families. As evening approaches, relax by the serene campus lakes surrounded by lush vegetation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Albufeira Cimeira do Alvão",
+            "hu": "Albufeira Cimeira do Alvão",
+            "ro": "Albufeira Cimeira do Alvão",
+            "en": "Albufeira Cimeira do Alvão"
+          },
+          "coords": [
+            -7.795949,
+            41.352876
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatische Berglandschaft rund um diesen hochgelegenen Stausee im Naturpark Alvão, aber bringen Sie eine Windjacke mit, da es hier oben sehr kühl werden kann.",
+            "hu": "Csodálja meg az Alvão Nemzeti Park ezen magasan fekvő víztározóját körülölelő drámai hegyvidéki tájat, de mindenképpen hozzon széldzsekit, mert itt nagyon hűvös lehet az idő.",
+            "ro": "Admirați peisajele montane dramatice care înconjoară acest rezervor de mare altitudine din Parcul Natural Alvão, dar asigurați-vă că aduceți o jachetă, deoarece aici este destul de răcoare.",
+            "en": "Marvel at the dramatic mountain landscapes surrounding this high-altitude reservoir in the Alvão Natural Park, but make sure to bring a windbreaker as it gets very chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira Fundeira do Alvão",
+            "hu": "Albufeira Fundeira do Alvão",
+            "ro": "Albufeira Fundeira do Alvão",
+            "en": "Albufeira Fundeira do Alvão"
+          },
+          "coords": [
+            -7.799155,
+            41.358024
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie den unteren See des Alvão-Parks, wo kaskadierende Bäche einen beruhigenden Soundtrack erzeugen, und bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+            "hu": "Tapasztalja meg az Alvão parkrendszer alsó tavát, ahol a csobogó patakok nyugtató természetes hangzást teremtenek, és maradjon a kijelölt ösvényeken az érzékeny flóra védelmében.",
+            "ro": "Experimentați lacul inferior al sistemului de parcuri Alvão, unde pâraiele creează o coloană sonoră naturală, și rămâneți pe traseele marcate pentru a proteja flora delicată.",
+            "en": "Experience the lower lake of the Alvão park system, where cascading streams create a soothing natural soundtrack, and stick to the marked trails to protect the delicate flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte da Nossa Senhora da Conceição",
+            "hu": "Fonte da Nossa Senhora da Conceição",
+            "ro": "Fonte da Nossa Senhora da Conceição",
+            "en": "Fonte da Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -7.74368,
+            41.30523
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen charmanten historischen Brunnen, der die Gemeinde über Generationen hinweg versorgte, und nutzen Sie den schattigen Ort für eine kurze Verschnaufpause.",
+            "hu": "Csodálja meg ezt a hangulatos történelmi kutat, amely generációkon át látta el a helyi közösséget, és használja ki az árnyékos helyet egy kis pihenésre a reggeli séta során.",
+            "ro": "Admirați această fântână istorică fermecătoare care a alimentat comunitatea locală timp de generații, fiind un loc umbrit ideal pentru a vă trage sufletul în timpul plimbării.",
+            "en": "Admire this charming historic fountain that supplied the local community for generations, making it an ideal shaded spot to catch your breath during your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanque Oval",
+            "hu": "Tanque Oval",
+            "ro": "Tanque Oval",
+            "en": "Tanque Oval"
+          },
+          "coords": [
+            -7.713976,
+            41.294159
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante ovale Becken auf einem historischen Anwesen, das klassische Landschaftsbautechniken zeigt, also nehmen Sie sich einen Moment Zeit für die Steinmetzarbeiten.",
+            "hu": "Fedezze fel ezt az elegáns ovális medencét a történelmi birtokon, amely a klasszikus tájépítészetet mutatja be, ezért szánjon időt a szimmetrikus kőmunkák megcsodálására.",
+            "ro": "Descoperiți acest bazin oval elegant, situat pe un domeniu istoric, care prezintă tehnici clasice de peisagistică, așa că acordați-vă un moment pentru a admira piatra simetrică.",
+            "en": "Discover this elegant oval basin nestled within historic estate grounds, showcasing classical landscaping techniques, so take a moment to admire the symmetric stonework design."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Sordo",
+            "hu": "Albufeira do Sordo",
+            "ro": "Albufeira do Sordo",
+            "en": "Albufeira do Sordo"
+          },
+          "coords": [
+            -7.792164,
+            41.270077
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang um diesen friedlichen ländlichen Staudamm, der bei Vogelbeobachtern sehr beliebt ist, und bringen Sie unbedingt ein Fernglas dafür mit.",
+            "hu": "Tegyen egy kényelmes sétát e békés vidéki gát körül, amely nagyon népszerű a helyi madármegfigyelők körében, ezért hozzon távcsövet, ha szeretne őshonos fajokat észlelni.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui baraj rural pașnic, foarte popular printre observatorii de păsări, așa că aduceți binoclul dacă doriți să vedeți speciile native.",
+            "en": "Take a leisurely walk around this peaceful countryside dam, which is highly popular with local birdwatchers, so bring binoculars if you want to spot native regional species."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagoa de Arejamento/Regularização",
+            "hu": "Lagoa de Arejamento/Regularização",
+            "ro": "Lagoa de Arejamento/Regularização",
+            "en": "Lagoa de Arejamento/Regularização"
+          },
+          "coords": [
+            -7.71385,
+            41.253208
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Roadtrip an dieser großen Wassermanagement-Lagune am Stadtrand ausklingen, die einen weiten Himmel und eine ruhige Atmosphäre vor der Rückkehr ins Zentrum bietet.",
+            "hu": "Fejezze be autós kirándulását ezen a város szélén található, nagy vízgazdálkodási lagúnánál, amely nyitott eget és csendes légkört kínál, mielőtt visszatérne a nyüzsgő központba.",
+            "ro": "Încheiați călătoria cu mașina la această lagună de gestionare a apei de la periferia orașului, oferind un cer deschis și o atmosferă liniștită înainte de a vă întoarce în centru.",
+            "en": "Wind down your road trip at this large water management lagoon on the city outskirts, offering wide open skies and a quiet atmosphere before heading back to the bustling center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Brechen Sie früh zum atemberaubenden Naturpark Alvão auf, wo hochgelegene Stauseen im kühlen Bergmorgen warten. Mittags erkunden Sie die eleganten Adelsgüter und Höhepunkte der Stadt. Der Nachmittag beinhaltet eine Fahrt zu den Staudämmen im Südwesten. Beenden Sie Ihr automobiles Abenteuer am südlichen Stadtrand unter dem weiten, offenen Abendhimmel von Vila Real.",
+        "hu": "Induljon korán a lélegzetelállító Alvão Nemzeti Parkba, ahol magasan fekvő víztározók várják a friss hegyi reggelen. A dél a városba hozza vissza, hogy felfedezze az elegáns nemesi birtokokat. A délután egy festői autózást tartogat a délnyugati vidéki gátakhoz. Zárja autós kalandját a város déli peremén, a nyitott esti égbolt alatt egy hatalmas és csendes lagúnánál.",
+        "ro": "Plecați devreme spre uluitorul Parc Natural Alvão, unde rezervoarele de mare altitudine vă așteaptă în dimineața montană. Prânzul vă aduce înapoi pentru a explora domeniile nobile elegante. După-amiaza implică o plimbare pitorească cu mașina către barajele rurale din sud-vest. Încheiați aventura pe periferia sudică, sub cerul liber de seară, la o lagună deschisă.",
+        "en": "Depart early for the breathtaking Alvão Natural Park, where high-altitude reservoirs await in the crisp mountain morning. Midday brings you back down to explore the elegant noble estates and central town highlights. The afternoon involves a scenic drive to the southwestern countryside dams. Wrap up your automotive adventure on the southern outskirts under the open evening sky."
+      }
+    }
+  }
+}

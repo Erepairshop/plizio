@@ -1,0 +1,428 @@
+{
+  "city_id": "france-algajola-cities-v2",
+  "anchor": {
+    "name": "Algajola",
+    "coords": [
+      8.86196,
+      42.60745
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            8.864159,
+            42.608081
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine Kapelle früh am Morgen für bestes Licht und tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen.",
+            "hu": "Látogasson el ehhez a kis kápolnához kora reggel a legjobb fényekért, és viseljen kényelmes cipőt a macskaköves utcákon.",
+            "ro": "Vizitați această mică capelă dimineața devreme pentru cea mai bună lumină și purtați încălțăminte comodă pe străduțele pietruite.",
+            "en": "Visit this small chapel early in the morning for the best light, and wear comfortable shoes for the surrounding cobblestone streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Château-fort",
+            "hu": "Château-fort",
+            "ro": "Château-fort",
+            "en": "Château-fort"
+          },
+          "coords": [
+            8.862271,
+            42.609367
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die historische Burg bietet nicht nur spannende Architektur, sondern auch fantastische Ausblicke, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "A történelmi vár nemcsak izgalmas építészetet, hanem lenyűgöző kilátást is kínál, ezért ne felejtse otthon a fényképezőgépét.",
+            "ro": "Castelul istoric oferă nu doar o arhitectură fascinantă, ci și priveliști uimitoare, așa că nu uitați aparatul foto.",
+            "en": "The historic castle offers not only fascinating architecture but also stunning views, so be sure not to forget your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Aregno Plage - Algajola",
+            "hu": "Aregno Plage - Algajola",
+            "ro": "Aregno Plage - Algajola",
+            "en": "Aregno Plage - Algajola"
+          },
+          "coords": [
+            8.871817,
+            42.610399
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand dieses weitläufigen Strandes und mieten Sie sich einen Sonnenschirm für eine entspannte Mittagspause am Meer.",
+            "hu": "Élvezze e hatalmas strand finom homokját, és béreljen napernyőt egy pihentető tengerparti ebédszünethez a napsütésben.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje întinse și închiriați o umbrelă pentru o pauză relaxantă de prânz la malul mării.",
+            "en": "Enjoy the fine sand of this expansive beach and rent an umbrella for a relaxing seaside lunch break in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Aregno Plage",
+            "hu": "Aregno Plage",
+            "ro": "Aregno Plage",
+            "en": "Aregno Plage"
+          },
+          "coords": [
+            8.875978,
+            42.614095
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie weiter entlang der Küste, um ruhigere Abschnitte zu finden, und packen Sie ausreichend Trinkwasser für den Strandspaziergang ein.",
+            "hu": "Sétáljon tovább a parton a csendesebb részek felfedezéséhez, és vigyen magával elegendő ivóvizet a homokos túrához.",
+            "ro": "Continuați plimbarea de-a lungul coastei pentru a găsi zone mai liniștite și luați suficientă apă pentru drumeția pe plajă.",
+            "en": "Continue walking along the coast to find quieter sections, and make sure to pack plenty of drinking water for the beach stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocky outcrop",
+            "hu": "Rocky outcrop",
+            "ro": "Rocky outcrop",
+            "en": "Rocky outcrop"
+          },
+          "coords": [
+            8.874916,
+            42.615501
+          ],
+          "category": "natural",
+          "arrive_at": "14:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Klettern Sie vorsichtig auf diese natürlichen Felsformationen, um einen atemberaubenden Panoramablick auf die Küste zu fotografieren.",
+            "hu": "Óvatosan másszon fel ezekre a természetes sziklaalakzatokra, hogy lélegzetelállító panorámaképeket készíthessen a partvonalról.",
+            "ro": "Urcați cu grijă pe aceste formațiuni stâncoase naturale pentru a fotografia o priveliște panoramică uluitoare a coastei.",
+            "en": "Carefully climb these natural rock formations to photograph a breathtaking panoramic view of the entire beautiful coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Wir erkunden das Herz von Algajola, beginnen an der historischen Chapelle Saint-Michel und tauchen dann in den Charme des Château-fort ein.\nMittags: Der Spaziergang führt uns zum glitzernden Meer, wo wir am Aregno Plage - Algajola den warmen Sand und die Wellen genießen.\nNachmittags: Wir setzen unsere Küstenreise fort und spazieren am Aregno Plage entlang, um ruhigere Orte und herrliche Meeresblicke zu finden.\nAbends: Wir beenden den Tag am felsigen Vorsprung und bewundern den Panoramablick auf den Sonnenuntergang über dem Mittelmeer.",
+        "hu": "Délelőtt: Felfedezzük Algajola szívét, a történelmi Chapelle Saint-Michel kápolnánál kezdve, majd elmerülünk a Château-fort középkori varázsában.\nDélben: Sétánk a csillogó tenger felé vezet, az Aregno Plage - Algajola strandon élvezhetjük a meleg homokot és a szelíd hullámokat.\nDélután: Folytatjuk tengerparti utunkat az Aregno Plage mentén, hogy még nyugodtabb helyeket és gyönyörű kilátást találjunk.\nEste: A napot a sziklás kiugrónál zárjuk, megcsodálva a Földközi-tenger felett lemenő nap panorámáját, ahogy az este leszáll.",
+        "ro": "Dimineața: Explorăm inima orașului Algajola, începând de la istorica Chapelle Saint-Michel, înainte de a ne scufunda în farmecul medieval al Château-fort.\nAmiază: Plimbarea ne poartă spre marea strălucitoare, ajungând la Aregno Plage - Algajola, unde ne putem bucura de nisipul cald și valurile blânde.\nDupă-amiaza: Continuând călătoria pe coastă, ne plimbăm de-a lungul Aregno Plage pentru a găsi locuri mai liniștite și priveliști maritime superbe.\nSeara: Încheiem ziua la aflorimentul stâncos, admirând priveliștile panoramice ale apusului peste Marea Mediterană.",
+        "en": "Morning: We explore the heart of Algajola, starting at the historic Chapelle Saint-Michel before diving into the medieval charm of the Château-fort.\nMidday: The stroll takes us towards the shimmering sea, arriving at Aregno Plage - Algajola where we can enjoy the warm sand and gentle waves.\nAfternoon: Continuing our coastal journey, we traverse further along Aregno Plage to find more serene spots and beautiful maritime views.\nEvening: We conclude the day at the Rocky Outcrop, admiring the panoramic sunset views over the Mediterranean Sea as the day gently fades."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:22",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de l'Annunziata",
+            "hu": "Chapelle de l'Annunziata",
+            "ro": "Chapelle de l'Annunziata",
+            "en": "Chapelle de l'Annunziata"
+          },
+          "coords": [
+            8.874896,
+            42.593907
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre dieser Kapelle und packen Sie ausreichend Wasser für Ihre Radtour ein.",
+            "hu": "Szánjon egy percet ennek az eldugott kápolnának a nyugodt hangulatára, és ne felejtsen el vizet csomagolni a kerékpáros kalandhoz.",
+            "ro": "Acordați-vă un moment pentru a vă bucura de atmosfera liniștită a acestei capele retrase și nu uitați să luați apă pentru aventura pe bicicletă.",
+            "en": "Take a moment to enjoy the tranquil atmosphere of this secluded chapel, and don't forget to pack some water for your cycling adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            8.864159,
+            42.608081
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Nach einer kurzen Fahrt erreichen Sie diese pittoreske Kapelle, bei der Sie Ihr Fahrrad am besten direkt am Eingang sicher abschließen.",
+            "hu": "Rövid tekerés után eléri ezt a festői kápolnát, ahol a legjobb, ha kerékpárját közvetlenül a bejáratnál biztonságosan lezárja.",
+            "ro": "După o scurtă plimbare ajungeți la această capelă pitorească, unde este recomandat să vă asigurați bicicleta direct la intrare.",
+            "en": "After a short ride you reach this picturesque chapel, where it is best to securely lock your bicycle right at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château-fort",
+            "hu": "Château-fort",
+            "ro": "Château-fort",
+            "en": "Château-fort"
+          },
+          "coords": [
+            8.862271,
+            42.609367
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Festungsmauern und genießen Sie den atemberaubenden Blick, den dieses historische Bauwerk auf das Meer bietet.",
+            "hu": "Fedezze fel a masszív várfalakat, és élvezze azt a lélegzetelállító kilátást, amelyet ez a történelmi építmény nyújt a tengerre.",
+            "ro": "Descoperiți zidurile robuste ale fortăreței și bucurați-vă de priveliștea uluitoare pe care această structură istorică o oferă spre mare.",
+            "en": "Discover the sturdy fortress walls and enjoy the breathtaking view that this impressive historic structure offers out over the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Aregno Plage - Algajola",
+            "hu": "Aregno Plage - Algajola",
+            "ro": "Aregno Plage - Algajola",
+            "en": "Aregno Plage - Algajola"
+          },
+          "coords": [
+            8.871817,
+            42.610399
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und entspannen Sie sich auf dem warmen Sand dieses lebhaften Strandes für eine wohlverdiente Badepause.",
+            "hu": "Tegye le kerékpárját, és pihenjen meg e nyüzsgő strand meleg homokján egy jól megérdemelt, frissítő fürdőzési szünetre.",
+            "ro": "Lăsați bicicleta și relaxați-vă pe nisipul cald al acestei plaje pline de viață pentru o binemeritată pauză de înot.",
+            "en": "Park your bike and relax on the warm sand of this lively beach to enjoy a well-deserved, refreshing swimming break."
+          }
+        },
+        {
+          "name": {
+            "de": "Monolithe de Corbara",
+            "hu": "Monolithe de Corbara",
+            "ro": "Monolithe de Corbara",
+            "en": "Monolithe de Corbara"
+          },
+          "coords": [
+            8.881291,
+            42.611719
+          ],
+          "category": "landmark",
+          "arrive_at": "13:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem beeindruckenden Monolithen, der ein perfektes Fotomotiv mit der malerischen Landschaft abgibt.",
+            "hu": "Fejezze be kerékpártúráját ennél a lenyűgöző monolitnál, amely tökéletes fotótémát nyújt a festői tájjal a háttérben.",
+            "ro": "Încheiați turul cu bicicleta la acest monolit impresionant, care oferă un motiv foto perfect alături de peisajul pitoresc.",
+            "en": "End your cycling tour at this impressive monolith, which provides a perfect photo opportunity alongside the picturesque landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Wir beginnen am ruhigen südlichen Rand bei der Chapelle de l'Annunziata und radeln hinauf in das lebhafte Zentrum zur Chapelle Saint-Michel.\nMittags: Wir erkunden das mächtige Château-fort und fahren dann hinunter zum langen Sandstrand von Aregno Plage für eine erfrischende Pause.\nNachmittags: Eine sanfte Fahrt führt uns weiter an der Küste entlang, um die frische Meeresbrise und die dramatische Landschaft zu spüren.\nAbends: Unsere Radtour endet am beeindruckenden Monolithen von Corbara, einem einzigartigen Wahrzeichen, das unser korsisches Abenteuer abrundet.",
+        "hu": "Délelőtt: A nyugodt déli peremen, a Chapelle de l'Annunziata kápolnánál indulunk, és feltekerünk a nyüzsgő központba a Chapelle Saint-Michel-hez.\nDélben: Felfedezzük a hatalmas Château-fort várat, majd lelovagolunk az Aregno Plage hosszú homokos partjára egy frissítő tengerparti szünetre.\nDélután: Egy kellemes kerékpározás során tovább haladunk a part mentén, érezve a friss tengeri szellőt és megcsodálva a drámai tengerparti tájat.\nEste: Biciklitúránk a lenyűgöző Corbara monolitnál ér véget, amely egyedi tájékozódási pontként szolgál napfényes korzikai kalandunk lezárásához.",
+        "ro": "Dimineața: Începând de la marginea sudică liniștită, la Chapelle de l'Annunziata, pedalăm spre centrul plin de viață pentru a vedea Chapelle Saint-Michel.\nAmiază: Explorăm puternicul Château-fort și apoi coborâm spre plaja lungă cu nisip Aregno Plage pentru o pauză revigorantă pe malul mării.\nDupă-amiaza: O plimbare ușoară ne duce mai departe de-a lungul coastei, simțind briza proaspătă a mării și admirând peisajul de coastă dramatic.\nSeara: Turul nostru cu bicicleta se încheie la impresionantul Monolit din Corbara, un reper unic pentru a reflecta asupra aventurii noastre corsicane.",
+        "en": "Morning: Starting in the serene southern outskirts at Chapelle de l'Annunziata, we pedal up to the bustling center to see Chapelle Saint-Michel.\nMidday: We explore the mighty Château-fort and then ride down to the long sandy stretch of Aregno Plage for a refreshing seaside break.\nAfternoon: A gentle ride takes us further along the coast, feeling the fresh sea breeze and admiring the dramatic coastal landscape.\nEvening: Our bike tour concludes at the impressive Monolithe de Corbara, offering a unique landmark to reflect on our sunny Corsican adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château-fort",
+            "hu": "Château-fort",
+            "ro": "Château-fort",
+            "en": "Château-fort"
+          },
+          "coords": [
+            8.862271,
+            42.609367
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto etwas außerhalb des Zentrums, um die historischen Mauern und die spektakuläre Aussicht der Burg entspannt zu erkunden.",
+            "hu": "Parkolja le autóját kissé a központon kívül, hogy nyugodtan felfedezhesse a történelmi falakat és a vár látványos panorámáját.",
+            "ro": "Parcați mașina puțin în afara centrului pentru a explora în liniște zidurile istorice și priveliștea spectaculoasă a castelului.",
+            "en": "Park your car slightly outside the main center so you can relax and thoroughly explore the historic walls and spectacular castle views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            8.864159,
+            42.608081
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich die Zeit für diese spirituelle Stätte und beachten Sie die architektonischen Details aus der Vergangenheit der Region.",
+            "hu": "Szánjon időt erre a spirituális helyre, és figyelje meg a régió múltjából származó különleges építészeti részleteket.",
+            "ro": "Acordați-vă timp pentru acest loc spiritual și observați detaliile arhitecturale speciale din trecutul fascinant al regiunii.",
+            "en": "Take time to visit this spiritual site and closely observe the special architectural details that reflect the region's fascinating past."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'Annunziata",
+            "hu": "Chapelle de l'Annunziata",
+            "ro": "Chapelle de l'Annunziata",
+            "en": "Chapelle de l'Annunziata"
+          },
+          "coords": [
+            8.874896,
+            42.593907
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den schmalen Straßen in Richtung Süden, um die friedvolle Umgebung dieser abgelegenen Kapelle zu genießen.",
+            "hu": "Vezessen óvatosan a szűk utakon dél felé, hogy kiélvezhesse ennek a félreeső kápolnának a békés és csendes környezetét.",
+            "ro": "Conduceți cu grijă pe drumurile înguste spre sud pentru a vă bucura de împrejurimile pașnice și liniștite ale acestei capele izolate.",
+            "en": "Drive carefully on the narrow roads heading south so you can fully enjoy the peaceful and quiet surroundings of this secluded chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Monolithe de Corbara",
+            "hu": "Monolithe de Corbara",
+            "ro": "Monolithe de Corbara",
+            "en": "Monolithe de Corbara"
+          },
+          "coords": [
+            8.881291,
+            42.611719
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen beeindruckenden natürlichen Monolithen, aber achten Sie beim Parken an der Straße auf den vorbeifahrenden Verkehr.",
+            "hu": "Csodálja meg ezt a lenyűgöző természetes monolitot, de legyen nagyon óvatos az elhaladó forgalommal, amikor az út szélén parkol.",
+            "ro": "Minunați-vă de acest monolit natural impresionant, dar fiți prudenți la traficul din zonă atunci când parcați pe marginea drumului.",
+            "en": "Marvel at this impressive natural monolith, which provides a fascinating photo opportunity, but be mindful of passing traffic when parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocky outcrop",
+            "hu": "Rocky outcrop",
+            "ro": "Rocky outcrop",
+            "en": "Rocky outcrop"
+          },
+          "coords": [
+            8.874916,
+            42.615501
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen kurzen Halt für fantastische Landschaftsaufnahmen, bevor Sie Ihre Fahrt entlang der malerischen Küste fortsetzen.",
+            "hu": "Használja ki ezt a rövid megállót fantasztikus tájképek készítésére, mielőtt folytatná útját a festői tengerpart mentén.",
+            "ro": "Profitați de această scurtă oprire pentru fotografii fantastice de peisaj înainte de a vă continua drumul de-a lungul coastei pitorești.",
+            "en": "Take advantage of this short stop to capture fantastic landscape photographs before continuing your scenic drive along the beautiful coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Davia",
+            "hu": "Plage de Davia",
+            "ro": "Plage de Davia",
+            "en": "Plage de Davia"
+          },
+          "coords": [
+            8.881199,
+            42.621549
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip entspannt an diesem wunderschönen Sandstrand und bringen Sie Schnorchelausrüstung für das klare Wasser mit.",
+            "hu": "Fejezze be autós túráját lazítva ezen a gyönyörű homokos strandon, és fontolja meg búvárfelszerelés hozatalát a tiszta víz felfedezéséhez.",
+            "ro": "Încheiați călătoria relaxându-vă pe această frumoasă plajă cu nisip și luați în considerare aducerea echipamentului de snorkeling.",
+            "en": "End your road trip by relaxing on this beautiful stretch of sand, and consider bringing your own snorkeling gear to explore the clear waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Wir beginnen unsere Fahrt mit einem Besuch des mächtigen Château-fort, gefolgt von einem kurzen Stopp an der charmanten Chapelle Saint-Michel.\nMittags: Wir fahren nach Süden zur friedlichen Chapelle de l'Annunziata, bevor wir nach Norden fahren, um den Monolithen von Corbara zu bewundern.\nNachmittags: Wir parken in der Nähe der dramatischen Felsformationen, um weite Küstenblicke zu genießen und die salzige Meeresluft einzuatmen.\nAbends: Der Roadtrip endet am weitläufigen Plage de Davia, wo wir uns am Strand entspannen und einen herrlichen Sonnenuntergang über dem kristallklaren Wasser beobachten können.",
+        "hu": "Délelőtt: Autózásunkat a lenyűgöző Château-fort megtekintésével kezdjük, majd rövid megállót tartunk a bájos Chapelle Saint-Michel kápolnánál.\nDélben: Dél felé haladva felfedezzük a békés Chapelle de l'Annunziata kápolnát, majd északnak vesszük az irányt, hogy megcsodáljuk a Corbara monolitot.\nDélután: Leparkolunk a drámai sziklás kiugró közelében, hogy élvezzük a tágas tengerparti kilátást és beszívjuk a friss, sós levegőt.\nEste: Az utazás a hatalmas Plage de Davia strandon ér véget, ahol megpihenhetünk a homokon, és végignézhetjük a ragyogó naplementét a kristálytiszta víz felett.",
+        "ro": "Dimineața: Ne începem plimbarea cu o vizită la impunătorul Château-fort, urmată de o scurtă oprire la fermecătoarea Chapelle Saint-Michel.\nAmiază: Conducând spre sud, descoperim liniștita Chapelle de l'Annunziata înainte de a ne îndrepta spre nord pentru a admira Monolitul din Corbara.\nDupă-amiaza: Parcăm lângă aflorimentul stâncos pentru a ne bucura de priveliștile ample ale coastei și pentru a respira aerul mediteranean sărat.\nSeara: Călătoria se încheie la plaja întinsă Plage de Davia, unde ne putem relaxa pe nisip și privi un apus de soare glorios peste apa cristalină.",
+        "en": "Morning: We begin our drive with a visit to the commanding Château-fort, followed by a quick stop at the charming Chapelle Saint-Michel.\nMidday: Driving south, we discover the peaceful Chapelle de l'Annunziata before heading north to marvel at the impressive Monolithe de Corbara.\nAfternoon: We park near the dramatic Rocky outcrop to enjoy sweeping coastal views and breathe in the fresh, salty Mediterranean air.\nEvening: The road trip ends at the expansive Plage de Davia, where we can relax on the sand and watch a glorious sunset over the crystal-clear water."
+      }
+    }
+  }
+}

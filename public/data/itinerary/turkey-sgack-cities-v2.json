@@ -1,0 +1,543 @@
+{
+  "city_id": "turkey-sgack-cities-v2",
+  "anchor": {
+    "name": "Sığacık",
+    "coords": [
+      26.78601,
+      38.19319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 3.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sığacık Kalesi",
+            "hu": "Sığacık Kalesi",
+            "ro": "Sığacık Kalesi",
+            "en": "Sığacık Kalesi"
+          },
+          "coords": [
+            26.784461,
+            38.194512
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese osmanische Festung aus dem 16. Jahrhundert, die den Hafen schützte, und spazieren Sie früh über die historischen Mauern, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel ezt a 16. századi oszmán erődöt, amely a kikötőt védte, és sétáljon a történelmi falakon kora reggel, hogy elkerülje az igazi turistatömeget.",
+            "ro": "Explorați această fortăreață otomană din secolul al XVI-lea care proteja portul și asigurați-vă că vă plimbați pe ziduri dimineața devreme pentru a evita aglomerația.",
+            "en": "Explore this 16th-century Ottoman fortress that protected the port, an essential piece of local history where you should walk the walls early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Deniz Feneri",
+            "hu": "Deniz Feneri",
+            "ro": "Deniz Feneri",
+            "en": "Deniz Feneri"
+          },
+          "coords": [
+            26.782696,
+            38.195696
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von diesem malerischen Leuchtturm, einem perfekten Fotomotiv, für das Sie am besten ein Weitwinkelobjektiv mitbringen sollten.",
+            "hu": "Élvezze a tengeri panorámát ebből a festői világítótoronyból, amely tökéletes fotózási helyszín, így mindenképpen hozzon magával nagylátószögű objektívet a partvonalhoz.",
+            "ro": "Admirați vederea panoramică la mare de la acest far maritim pitoresc, un loc perfect pentru fotografii unde o lentilă superangulară va surprinde coasta dramatică perfect.",
+            "en": "Take in panoramic sea views from this picturesque maritime lighthouse, a perfect photo spot where arriving with a wide-angle lens captures the dramatic coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Küçük Akkum Plajı",
+            "hu": "Küçük Akkum Plajı",
+            "ro": "Küçük Akkum Plajı",
+            "en": "Küçük Akkum Plajı"
+          },
+          "coords": [
+            26.773959,
+            38.193871
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses charmanten kleinen Strandes mit ruhigem Wasser, wo das frühe Mieten einer Sonnenliege einen perfekten Platz zum Schwimmen garantiert.",
+            "hu": "Pihenjen ezen az elbűvölő, finom homokos kis strandon, ahol a nyugodt, tiszta vízben való reggeli úszáshoz érdemes minél korábban napágyat bérelnie magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje mici cu ape limpezi, unde închirierea timpurie a unui șezlong vă garantează locul perfect pentru înotul de dimineață.",
+            "en": "Relax on the golden sands of this charming small beach with calm, clear waters, where renting a sunbed early guarantees a perfect spot for your morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Akropol",
+            "hu": "Teos Akropol",
+            "ro": "Teos Akropol",
+            "en": "Teos Akropol"
+          },
+          "coords": [
+            26.786946,
+            38.181212
+          ],
+          "category": "landmark",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie hinauf zur antiken Akropolis, die einen atemberaubenden Blick über die Ruinen von Teos bietet, und tragen Sie unbedingt festes Schuhwerk für die felsigen Wege.",
+            "hu": "Túrázzon fel az ősi akropoliszra, ahonnan lélegzetelállító kilátás nyílik Teos romjaira, és mindenképpen viseljen masszív túracipőt az egyenetlen, sziklás ösvények miatt.",
+            "ro": "Urcați până la acropola antică care oferă o priveliște uluitoare asupra ruinelor Teos, asigurându-vă că purtați încălțăminte robustă pentru potecile stâncoase și inegale.",
+            "en": "Hike up to the ancient acropolis offering breathtaking hilltop views over the Teos ruins, ensuring you wear sturdy walking shoes for the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Theater",
+            "hu": "Teos Theater",
+            "ro": "Teos Theater",
+            "en": "Teos Theater"
+          },
+          "coords": [
+            26.787553,
+            38.179986
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in diesem gut erhaltenen hellenistischen Theater im Grünen in die Vergangenheit versetzt und testen Sie die brillante Akustik direkt im Zentrum der Bühne.",
+            "hu": "Lépjen vissza az időben ebben a buja zöld környezetben fekvő, szépen megőrzött hellenisztikus színházban, és próbálja ki a kiváló akusztikát az ősi színpad legközepéről.",
+            "ro": "Întoarceți-vă în timp la acest teatru elenistic frumos conservat în mijlocul vegetației luxuriante și testați acustica strălucitoare chiar din centrul scenei antice.",
+            "en": "Step back in time at this beautifully preserved Hellenistic theater set against lush greenery, and test the brilliant acoustics from the very center of the ancient stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple of Dionysos",
+            "hu": "Temple of Dionysos",
+            "ro": "Temple of Dionysos",
+            "en": "Temple of Dionysos"
+          },
+          "coords": [
+            26.784878,
+            38.177228
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentalen Überreste des größten Tempels der Antike für den Weingott und achten Sie genau auf die aufwendigen Schnitzereien an den Säulenbasen.",
+            "hu": "Csodálja meg az ókori világ legnagyobb boristennek szentelt templomának monumentális maradványait, és figyelje meg a fennmaradt oszloptalpak bonyolult faragásait.",
+            "ro": "Admirați rămășițele monumentale ale celui mai mare templu antic dedicat zeului vinului și priviți cu atenție sculpturile complicate de pe bazele coloanelor supraviețuitoare.",
+            "en": "Admire the monumental remains of the largest temple dedicated to the wine god in the ancient world, and look closely at the intricate carvings on the surviving column bases."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos",
+            "hu": "Teos",
+            "ro": "Teos",
+            "en": "Teos"
+          },
+          "coords": [
+            26.783073,
+            38.179741
+          ],
+          "category": "landmark",
+          "arrive_at": "17:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den riesigen Kern der antiken ionischen Stadt inmitten uralter Olivenbäume und halten Sie eine gedruckte Karte bereit, da die Beschilderung begrenzt ist.",
+            "hu": "Sétáljon az ősi jón város hatalmas, öreg olajfákkal körülvett központjában, és tartson magánál nyomtatott térképet, mivel a kiterjedt területen kevés a jelzőtábla.",
+            "ro": "Plimbați-vă prin nucleul vast al orașului antic ionian, înconjurat de măslini seculari, având o hartă tipărită la îndemână, deoarece semnalizarea este destul de limitată.",
+            "en": "Wander through the vast core of the ancient Ionian city surrounded by ancient olive trees, keeping a printed map handy as signage throughout the sprawling site is limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Sığacık Kalesi, bevor Sie die Meeresbrise am Leuchtturm und am Küçük Akkum genießen. Mittags wandern Sie landeinwärts hinauf zur Teos Akropolis, um ein unvergleichliches historisches Panorama zu erleben. Der Nachmittag widmet sich der antiken Kunst mit dem gut erhaltenen Theater und dem Dionysostempel. Der Tag endet elegant inmitten der weitläufigen Teos-Ruinen, wo das sanfte Abendlicht die uralten Steine wundervoll beleuchtet.",
+        "hu": "A reggel a történelmi Sığacık váránál indul, mielőtt a világítótoronynál és a Küçük Akkum strandon pihenne. Délben a szárazföld felé haladva túrázzon fel a Teos Akropoliszhoz, ahonnan páratlan történelmi panoráma nyílik. A délután az őkori művészetre és hitre összpontosít, érintve a jó állapotú Színházat és a hatalmas Dionüszosz-templomot. A nap elegánsan zárul Teos központi romjai között, miközben a naplemente fénye megvilágítja az ősi köveket.",
+        "ro": "Dimineața începe la Castelul Sığacık, oferind un ton istoric înainte de a vă relaxa la farul din apropiere și pe plaja Küçük Akkum. La prânz, urcați spre Acropola Teos pentru o panoramă uluitoare. După-amiaza se concentrează pe artă și credință, coborând la Teatrul antic și monumentalul Templu al lui Dionis. Ziua se încheie elegant în mijlocul ruinelor centrale din Teos, unde lumina apusului creează o atmosferă unică peste pietrele vechi.",
+        "en": "Morning begins at the historic Sığacık Castle, setting a profound tone before enjoying sea breezes at the nearby lighthouse and relaxing at Küçük Akkum. Midday shifts inland, challenging you with a hike up to the Teos Acropolis for unmatched historical panoramas. The afternoon focuses on ancient arts and faith, descending to the well-preserved Theater and the grand Temple of Dionysos. The day elegantly concludes amidst the core ruins of Teos, letting the sunset glow illuminate ancient stones."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 5.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sığacık Kalesi",
+            "hu": "Sığacık Kalesi",
+            "ro": "Sığacık Kalesi",
+            "en": "Sığacık Kalesi"
+          },
+          "coords": [
+            26.784461,
+            38.194512
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese osmanische Festung aus dem 16. Jahrhundert, die den Hafen schützte, und spazieren Sie früh über die historischen Mauern, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel ezt a 16. századi oszmán erődöt, amely a kikötőt védte, és sétáljon a történelmi falakon kora reggel, hogy elkerülje az igazi turistatömeget.",
+            "ro": "Explorați această fortăreață otomană din secolul al XVI-lea care proteja portul și asigurați-vă că vă plimbați pe ziduri dimineața devreme pentru a evita aglomerația.",
+            "en": "Explore this 16th-century Ottoman fortress that protected the port, an essential piece of local history where you should walk the walls early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Büyük Akkum Plajı",
+            "hu": "Büyük Akkum Plajı",
+            "ro": "Büyük Akkum Plajı",
+            "en": "Büyük Akkum Plajı"
+          },
+          "coords": [
+            26.77282,
+            38.190599
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufige Küste und die sanften Wellen des größeren Akkum-Strandes, wo ein frischer Saft von den Strandkiosken die perfekten Energiereserven liefert.",
+            "hu": "Élvezze a nagyobbik Akkum strand kiterjedt partvonalát és lágy hullámait, ahol a tengerparti kioszkokból származó friss gyümölcslé tökéletesen felfrissíti az aktív pihenés során.",
+            "ro": "Bucurați-vă de țărmul vast și de valurile blânde ale plajei mari Akkum, perfectă pentru o pauză activă, unde un suc proaspăt de la chioșcurile de pe plajă vă revigorează.",
+            "en": "Enjoy the expansive shoreline and gentle waves of the larger Akkum beach, perfect for an active break where grabbing a fresh juice from the seaside kiosks reenergizes you."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekmeksiz Beach",
+            "hu": "Ekmeksiz Beach",
+            "ro": "Ekmeksiz Beach",
+            "en": "Ekmeksiz Beach"
+          },
+          "coords": [
+            26.77454,
+            38.17469
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einsame, von Kiefern gesäumte Bucht mit unglaublich ruhigem Wasser, aber bringen Sie unbedingt eigene Snacks mit, da es hier keine Geschäfte gibt.",
+            "hu": "Fedezze fel ezt a fenyőfákkal szegélyezett, hihetetlenül nyugodt vizű, félreeső öblöt, de ne felejtsen el saját ételt hozni, mivel a közelben nincsenek kereskedelmi létesítmények.",
+            "ro": "Descoperiți acest golf izolat, mărginit de pini, cu ape incredibil de liniștite, dar amintiți-vă să aduceți propriile gustări deoarece nu există facilități comerciale aici.",
+            "en": "Discover this secluded, pine-fringed cove with incredibly tranquil waters, but remember to pack your own snacks and water as there are no commercial facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Antic Harbor",
+            "hu": "Teos Antic Harbor",
+            "ro": "Teos Antic Harbor",
+            "en": "Teos Antic Harbor"
+          },
+          "coords": [
+            26.791453,
+            38.171155
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo einst antike Handelsflotten anlegten, und bewundern Sie die versunkenen Ruinen, die mit einer polarisierten Sonnenbrille am besten sichtbar sind.",
+            "hu": "Álljon pontosan ott, ahol egykor az ókori kereskedelmi flották horgonyoztak, és csodálja meg a víz alatti romokat, amelyek polárszűrős napszemüvegben láthatók a legjobban.",
+            "ro": "Stați exact unde andocau flotele comerciale antice, admirând ruinele scufundate care sunt cel mai bine vizibile dacă purtați ochelari de soare polarizați contra reflexiilor.",
+            "en": "Stand exactly where ancient trade fleets once docked, admiring the submerged ruins along the coast that are best visible if you bring polarized sunglasses to cut water glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Agora",
+            "hu": "Teos Agora",
+            "ro": "Teos Agora",
+            "en": "Teos Agora"
+          },
+          "coords": [
+            26.790677,
+            38.177044
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Stellen Sie sich den geschäftigen antiken Marktplatz zwischen den verstreuten Marmorblöcken vor und bringen Sie einen breitkrempigen Hut mit, um sich vor der Sonne zu schützen.",
+            "hu": "Képzelje el a nyüzsgő ókori piacteret a szétszórt márványtömbök között, az egykori üzletek körvonalait követve, és hozzon magával széles karimájú kalapot a tűző nap ellen.",
+            "ro": "Imaginați-vă piața antică plină de viață printre blocurile de marmură împrăștiate și aduceți neapărat o pălărie cu boruri largi care vă va proteja de soarele destul de puternic.",
+            "en": "Visualize the bustling ancient marketplace amidst the scattered marble blocks, tracing the outlines of old shops where bringing a wide-brimmed hat will shield you from the harsh sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Theater",
+            "hu": "Teos Theater",
+            "ro": "Teos Theater",
+            "en": "Teos Theater"
+          },
+          "coords": [
+            26.787553,
+            38.179986
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in diesem gut erhaltenen hellenistischen Theater im Grünen in die Vergangenheit versetzt und testen Sie die brillante Akustik direkt im Zentrum der Bühne.",
+            "hu": "Lépjen vissza az időben ebben a buja zöld környezetben fekvő, szépen megőrzött hellenisztikus színházban, és próbálja ki a kiváló akusztikát az ősi színpad legközepéről.",
+            "ro": "Întoarceți-vă în timp la acest teatru elenistic frumos conservat în mijlocul vegetației luxuriante și testați acustica strălucitoare chiar din centrul scenei antice.",
+            "en": "Step back in time at this beautifully preserved Hellenistic theater set against lush greenery, and test the brilliant acoustics from the very center of the ancient stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos",
+            "hu": "Teos",
+            "ro": "Teos",
+            "en": "Teos"
+          },
+          "coords": [
+            26.783073,
+            38.179741
+          ],
+          "category": "landmark",
+          "arrive_at": "17:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den riesigen Kern der antiken ionischen Stadt inmitten uralter Olivenbäume und halten Sie eine gedruckte Karte bereit, da die Beschilderung begrenzt ist.",
+            "hu": "Sétáljon az ősi jón város hatalmas, öreg olajfákkal körülvett központjában, és tartson magánál nyomtatott térképet, mivel a kiterjedt területen kevés a jelzőtábla.",
+            "ro": "Plimbați-vă prin nucleul vast al orașului antic ionian, înconjurat de măslini seculari, având o hartă tipărită la îndemână, deoarece semnalizarea este destul de limitată.",
+            "en": "Wander through the vast core of the ancient Ionian city surrounded by ancient olive trees, keeping a printed map handy as signage throughout the sprawling site is limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Festung Sığacık und radeln Sie entlang der Küste zu den Stränden Büyük Akkum und Ekmeksiz. Gegen Mittag erreichen Sie die antike Küstenlinie und machen Rast am einstigen antiken Hafen von Teos. Am Nachmittag erkunden Sie das historische Handelszentrum auf der Teos Agora und die malerischen Ränge des antiken Theaters. Der Abend klingt im weitläufigen Gelände von Teos aus, während Sie sanft durch jahrhundertealte Olivenhaine radeln.",
+        "hu": "Induljon a tekintélyes Sığacık várból, majd tekerjen a part mentén, hogy megcsodálja a Büyük Akkum és az eldugott Ekmeksiz strandokat. Délben az ősi partvonal felé veszi az irányt, pontosan ott megpihenve, ahol a Teos ókori kikötője virágzott. A délután a múlt kereskedelmi központján, a Teos Agorán és a festői Színházon vezet keresztül. Az este a hatalmas Teos területén ér véget, évszázados olajfaligetek között kerekezve a naplementében.",
+        "ro": "Începeți la robustul Castel Sığacık înainte de a pedala de-a lungul coastei spre plajele Büyük Akkum și golful izolat Ekmeksiz. La prânz, vă îndreptați spre coasta antică, oprindu-vă exact unde prospera odată portul antic Teos. După-amiaza vă poartă prin inima comercială a trecutului la Agora Teos și la spectaculosul Teatru antic. Seara se încheie în vastul sit Teos, pedalând încet prin livezile de măslini seculari care înconjoară orașul.",
+        "en": "Kick off your ride at the sturdy Sığacık Castle before pedaling along the coast to feel the sand at both Büyük Akkum and the secluded Ekmeksiz Beach. Midday leads you toward the ancient coastline, resting exactly where the Teos Antic Harbor once thrived. The afternoon takes you through the mercantile heart of the past at the Teos Agora and the scenic rows of the ancient Theater. Evening wraps up in the vast Teos site, cycling gently through century-old olive groves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 5.69,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sığacık Kalesi",
+            "hu": "Sığacık Kalesi",
+            "ro": "Sığacık Kalesi",
+            "en": "Sığacık Kalesi"
+          },
+          "coords": [
+            26.784461,
+            38.194512
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese osmanische Festung aus dem 16. Jahrhundert, die den Hafen schützte, und spazieren Sie früh über die historischen Mauern, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel ezt a 16. századi oszmán erődöt, amely a kikötőt védte, és sétáljon a történelmi falakon kora reggel, hogy elkerülje az igazi turistatömeget.",
+            "ro": "Explorați această fortăreață otomană din secolul al XVI-lea care proteja portul și asigurați-vă că vă plimbați pe ziduri dimineața devreme pentru a evita aglomerația.",
+            "en": "Explore this 16th-century Ottoman fortress that protected the port, an essential piece of local history where you should walk the walls early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Labranda Lebedos Princess",
+            "hu": "Labranda Lebedos Princess",
+            "ro": "Labranda Lebedos Princess",
+            "en": "Labranda Lebedos Princess"
+          },
+          "coords": [
+            26.798458,
+            38.174015
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang in der Nähe dieses gehobenen Resorts mit seinen gepflegten Gärten am Meer und nutzen Sie den gepflasterten Küstenweg zum Laufen.",
+            "hu": "Tegyen egy kellemes sétát ezen a tengerparti kertekkel rendelkező előkelő üdülőterületen, és használja ki a kiválóan aszfaltozott parti sétányt a kényelmes kikapcsolódáshoz.",
+            "ro": "Faceți o plimbare relaxantă în apropierea acestei zone de stațiune de lux cunoscută pentru grădinile sale de pe litoral, profitând de poteca de coastă foarte bine pavată.",
+            "en": "Take a leisurely stroll near this upscale resort area known for its beautifully manicured seaside gardens, taking advantage of the well-paved coastal path for a smooth walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Antic Harbor",
+            "hu": "Teos Antic Harbor",
+            "ro": "Teos Antic Harbor",
+            "en": "Teos Antic Harbor"
+          },
+          "coords": [
+            26.791453,
+            38.171155
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo einst antike Handelsflotten anlegten, und bewundern Sie die versunkenen Ruinen, die mit einer polarisierten Sonnenbrille am besten sichtbar sind.",
+            "hu": "Álljon pontosan ott, ahol egykor az ókori kereskedelmi flották horgonyoztak, és csodálja meg a víz alatti romokat, amelyek polárszűrős napszemüvegben láthatók a legjobban.",
+            "ro": "Stați exact unde andocau flotele comerciale antice, admirând ruinele scufundate care sunt cel mai bine vizibile dacă purtați ochelari de soare polarizați contra reflexiilor.",
+            "en": "Stand exactly where ancient trade fleets once docked, admiring the submerged ruins along the coast that are best visible if you bring polarized sunglasses to cut water glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos Agora",
+            "hu": "Teos Agora",
+            "ro": "Teos Agora",
+            "en": "Teos Agora"
+          },
+          "coords": [
+            26.790677,
+            38.177044
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Stellen Sie sich den geschäftigen antiken Marktplatz zwischen den verstreuten Marmorblöcken vor und bringen Sie einen breitkrempigen Hut mit, um sich vor der Sonne zu schützen.",
+            "hu": "Képzelje el a nyüzsgő ókori piacteret a szétszórt márványtömbök között, az egykori üzletek körvonalait követve, és hozzon magával széles karimájú kalapot a tűző nap ellen.",
+            "ro": "Imaginați-vă piața antică plină de viață printre blocurile de marmură împrăștiate și aduceți neapărat o pălărie cu boruri largi care vă va proteja de soarele destul de puternic.",
+            "en": "Visualize the bustling ancient marketplace amidst the scattered marble blocks, tracing the outlines of old shops where bringing a wide-brimmed hat will shield you from the harsh sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple of Dionysos",
+            "hu": "Temple of Dionysos",
+            "ro": "Temple of Dionysos",
+            "en": "Temple of Dionysos"
+          },
+          "coords": [
+            26.784878,
+            38.177228
+          ],
+          "category": "landmark",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentalen Überreste des größten Tempels der Antike für den Weingott und achten Sie genau auf die aufwendigen Schnitzereien an den Säulenbasen.",
+            "hu": "Csodálja meg az ókori világ legnagyobb boristennek szentelt templomának monumentális maradványait, és figyelje meg a fennmaradt oszloptalpak bonyolult faragásait.",
+            "ro": "Admirați rămășițele monumentale ale celui mai mare templu antic dedicat zeului vinului și priviți cu atenție sculpturile complicate de pe bazele coloanelor supraviețuitoare.",
+            "en": "Admire the monumental remains of the largest temple dedicated to the wine god in the ancient world, and look closely at the intricate carvings on the surviving column bases."
+          }
+        },
+        {
+          "name": {
+            "de": "Teos",
+            "hu": "Teos",
+            "ro": "Teos",
+            "en": "Teos"
+          },
+          "coords": [
+            26.783073,
+            38.179741
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den riesigen Kern der antiken ionischen Stadt inmitten uralter Olivenbäume und halten Sie eine gedruckte Karte bereit, da die Beschilderung begrenzt ist.",
+            "hu": "Sétáljon az ősi jón város hatalmas, öreg olajfákkal körülvett központjában, és tartson magánál nyomtatott térképet, mivel a kiterjedt területen kevés a jelzőtábla.",
+            "ro": "Plimbați-vă prin nucleul vast al orașului antic ionian, înconjurat de măslini seculari, având o hartă tipărită la îndemână, deoarece semnalizarea este destul de limitată.",
+            "en": "Wander through the vast core of the ancient Ionian city surrounded by ancient olive trees, keeping a printed map handy as signage throughout the sprawling site is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekmeksiz Beach",
+            "hu": "Ekmeksiz Beach",
+            "ro": "Ekmeksiz Beach",
+            "en": "Ekmeksiz Beach"
+          },
+          "coords": [
+            26.77454,
+            38.17469
+          ],
+          "category": "recreational",
+          "arrive_at": "17:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einsame, von Kiefern gesäumte Bucht mit unglaublich ruhigem Wasser, aber bringen Sie unbedingt eigene Snacks mit, da es hier keine Geschäfte gibt.",
+            "hu": "Fedezze fel ezt a fenyőfákkal szegélyezett, hihetetlenül nyugodt vizű, félreeső öblöt, de ne felejtsen el saját ételt hozni, mivel a közelben nincsenek kereskedelmi létesítmények.",
+            "ro": "Descoperiți acest golf izolat, mărginit de pini, cu ape incredibil de liniștite, dar amintiți-vă să aduceți propriile gustări deoarece nu există facilități comerciale aici.",
+            "en": "Discover this secluded, pine-fringed cove with incredibly tranquil waters, but remember to pack your own snacks and water as there are no commercial facilities nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der Festung Sığacık, bevor Sie zur gepflegten Küste bei Labranda Lebedos weiterfahren. Mittags tauchen Sie in die Antike ein und parken in der Nähe des antiken Hafens von Teos, um die Seemacht der Region zu bewundern. Der Nachmittag bietet kurze Fahrten zwischen der lebhaften Teos Agora und dem Dionysostempel. Runden Sie den Tag mit der Erkundung der Teos-Hauptruinen ab und beobachten Sie den Sonnenuntergang am Strand von Ekmeksiz.",
+        "hu": "Útja az impozáns Sığacık vártól indul, megalapozva a történelmi hangulatot, mielőtt a Labranda Lebedos közeli elegáns partvidékre hajtana. Délben elmerül az ókorban a Teos ókori kikötőjénél, felidézve a régió hatalmas tengeri múltját. A délután rövid utazásokat tartogat a nyüzsgő Teos Agora és a lenyűgöző Dionüszosz-templom között. Zárja a napot a központi Teos romjainál, végül pedig csodálja meg az Ekmeksiz strand csodás naplementéjét.",
+        "ro": "Plimbarea cu mașina începe la impresionantul Castel Sığacık, coborând apoi spre coasta bine îngrijită de lângă Labranda Lebedos. La prânz faceți trecerea spre antichitate, parcând lângă Portul Antic Teos pentru a reflecta asupra istoriei maritime. După-amiaza implică deplasări scurte între vibranta Agora Teos și maiestuosul Templu al lui Dionis. Încheiați ziua explorând ruinele principale din Teos și admirând apusul la superba plajă Ekmeksiz.",
+        "en": "Your drive starts at the impressive Sığacık Castle, setting a historical baseline before cruising down to the manicured coast near Labranda Lebedos. By midday, you transition into antiquity, parking near the serene Teos Antic Harbor to reflect on the region's ancient maritime power. The afternoon involves easy hops between the vibrant Teos Agora and the awe-inspiring Temple of Dionysos. Cap off your day exploring the main Teos ruins before watching the sunset at Ekmeksiz Beach."
+      }
+    }
+  }
+}

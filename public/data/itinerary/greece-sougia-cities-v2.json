@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-sougia-cities-v2",
+  "anchor": {
+    "name": "Sougia",
+    "coords": [
+      23.8111,
+      35.24927
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika des Agios Panteleimon in Sougia",
+            "hu": "Agios Panteleimon-bazilika Sougiában",
+            "ro": "Bazilica Agios Panteleimon din Sougia",
+            "en": "Basilica of Agios Panteleimon in Sougia"
+          },
+          "coords": [
+            23.808778,
+            35.248703
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Mosaikböden dieser frühchristlichen Basilika, die ein tiefes spirituelles Erbe darstellen, und kommen Sie früh, um das beste Licht für Fotos zu nutzen.",
+            "hu": "Csodálja meg ezen ókeresztény bazilika lenyűgöző mozaikpadlóit, amelyek a terület gazdag vallási múltját idézik, és érkezzen korán a legjobb fényviszonyokhoz.",
+            "ro": "Admirați podelele cu mozaic antice ale acestei bazilici paleocreștine care ilustrează o moștenire spirituală profundă și ajungeți devreme pentru a prinde cea mai bună lumină.",
+            "en": "Admire the ancient mosaic floors of this early Christian basilica which represent a deep spiritual heritage, and arrive early in the morning to catch the best light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Kriegsmuseum Sougia",
+            "hu": "Sougiai Történelmi Háborús Múzeum",
+            "ro": "Muzeul Istoric de Război Sougia",
+            "en": "Historical war Museum Sougia"
+          },
+          "coords": [
+            23.810611,
+            35.249588
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungsstücke, die vom lokalen Widerstand während des Zweiten Weltkriegs erzählen, und fragen Sie das Personal nach persönlichen Geschichten der Dorfbewohner.",
+            "hu": "Fedezze fel a második világháborús helyi ellenállást bemutató lenyűgöző kiállításokat, és kérje meg a személyzetet, hogy meséljenek a falusiak személyes történeteiről.",
+            "ro": "Explorați exponatele care detaliază rezistența locală din timpul celui de-al Doilea Război Mondial și rugați personalul să vă împărtășească poveștile personale ale sătenilor.",
+            "en": "Explore the exhibits detailing local resistance during World War II, which shaped the region's modern identity, and ask the staff to share some personal stories of the villagers."
+          }
+        },
+        {
+          "name": {
+            "de": "Anker aus dem Zweiten Weltkrieg von Sougia",
+            "hu": "Sougiai második világháborús horgony",
+            "ro": "Ancora din Al Doilea Război Mondial din Sougia",
+            "en": "World War II anchor from Sougia"
+          },
+          "coords": [
+            23.810726,
+            35.248261
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen massiven Anker, der ein stummes Zeugnis der Seeschlachten der Vergangenheit ist, und kombinieren Sie den kurzen Halt mit einem Spaziergang entlang der nahen Promenade.",
+            "hu": "Vegyem szemügyre ezt a hatalmas horgonyt, amely a múlt tengeri csatáinak néma tanúja, és kösse össze a rövid megállót egy sétával a közeli sétányon.",
+            "ro": "Priviți această ancoră masivă, o mărturie tăcută a luptelor navale din trecut, și combinați scurta oprire cu o plimbare de-a lungul promenadei din apropiere.",
+            "en": "Observe this massive anchor which serves as a silent witness to past naval battles, and combine this quick stop with a relaxing stroll along the nearby promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "FLAK von Sougia",
+            "hu": "Sougiai FLAK légvédelmi ágyú",
+            "ro": "FLAK din Sougia",
+            "en": "FLAK of Sougia"
+          },
+          "coords": [
+            23.808415,
+            35.24769
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste dieser Flugabwehrkanone, die die strategische Bedeutung der Bucht unterstreicht, und achten Sie auf den unebenen Boden rund um die Stellung.",
+            "hu": "Vizsgálja meg a légvédelmi ágyú maradványait, amely az öböl stratégiai jelentőségét hangsúlyozza, és vigyázzon az egyenetlen talajra a pozíció körül.",
+            "ro": "Examinați rămășițele acestui tun antiaerian care subliniază importanța strategică a golfului și fiți atenți la terenul accidentat din jurul poziției.",
+            "en": "Examine the remains of this anti-aircraft gun which highlights the bay's strategic importance during the war, and watch your step on the uneven ground around the emplacement."
+          }
+        },
+        {
+          "name": {
+            "de": "Sougia Strand",
+            "hu": "Sougia strand",
+            "ro": "Plaja Sougia",
+            "en": "Sougia Beach"
+          },
+          "coords": [
+            23.81834,
+            35.247681
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Kieselstrand mit seinem kristallklaren Wasser, das ideal zum Schwimmen ist, und bringen Sie Badeschuhe für einen bequemen Einstieg mit.",
+            "hu": "Pihenjen ezen a tágas kavicsos strandon, amelynek kristálytiszta vize ideális az úszáshoz, és feltétlenül hozzon magával fürdőcipőt a kényelmes vízbe jutáshoz.",
+            "ro": "Relaxați-vă pe această plajă extinsă cu pietricele, cu ape cristaline ideale pentru înot, și aduceți încălțăminte de apă pentru o intrare mai confortabilă în mare.",
+            "en": "Relax on this expansive pebble beach with its crystal-clear waters perfect for swimming, and make sure to bring water shoes for a much more comfortable entry into the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang im charmanten Sougia mit einem Hauch von Antike an der faszinierenden Basilika. Die Morgenluft ist frisch und einladend.\nDer Vormittag ist der bewegten jüngeren Geschichte gewidmet, wenn wir das örtliche Kriegsmuseum besuchen. Hier erwachen die Geschichten des lokalen Widerstands eindrucksvoll zum Leben.\nNach dem Museum entdecken wir weitere historische Relikte, darunter einen massiven Anker und eine Flugabwehrkanone, die beide die Küste bewachen. Sie erzählen von stürmischen Zeiten.\nZum Abschluss gönnen wir uns eine wohlverdiente Auszeit am wunderschönen Strand von Sougia. Das kristallklare Wasser lädt zu einem erfrischenden Bad und zum Träumen ein.",
+        "hu": "Sétánkat a bájos Sougiában az antikvitás érintésével kezdjük a lenyűgöző bazilikánál. A reggeli levegő friss és hívogató.\nA délelőttöt az eseménydús közelmúlt történelmének szenteljük, miközben meglátogatjuk a helyi háborús múzeumot. Itt a helyi ellenállás történetei kelnek életre.\nA múzeum után további történelmi emlékeket fedezünk fel, köztük egy hatalmas horgonyt és egy légvédelmi ágyút, amelyek mindketten a partot őrzik. Viharos időkről mesélnek.\nVégül megérdemelt pihenőt tartunk Sougia gyönyörű strandján. A kristálytiszta víz frissítő fürdőzésre és álmodozásra csábít.",
+        "ro": "Ne începem plimbarea în fermecătorul Sougia cu o notă de antichitate la fascinanta bazilică. Aerul dimineții este proaspăt și primitor.\nDimineața este dedicată istoriei recente zbuciumate, vizitând muzeul local de război. Aici, poveștile rezistenței locale prind viață în mod impresionant.\nDupă muzeu, descoperim mai multe relicve istorice, inclusiv o ancoră masivă și un tun antiaerian, ambele păzind coasta. Ele spun povestea unor vremuri tulburi.\nÎn cele din urmă, ne bucurăm de o pauză binemeritată pe frumoasa plajă din Sougia. Apa limpede ne invită la o baie răcoritoare și la relaxare.",
+        "en": "We start our walk in charming Sougia with a touch of antiquity at the fascinating basilica. The morning breeze off the sea is fresh, inviting us to explore the historical layers.\nThe mid-morning is dedicated to the eventful recent history as we visit the local war museum. Here, the profound stories of local resistance vividly come to life.\nFollowing the museum, we discover more historical relics, including a massive anchor and an anti-aircraft gun, both standing guard on the coast. They speak of tumultuous times.\nFinally, we treat ourselves to a well-deserved rest on the beautiful Sougia Beach. The crystal-clear water invites you for a refreshing swim and a peaceful end to the walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Römisches Aquädukt von Sougia",
+            "hu": "Sougiai római vízvezeték",
+            "ro": "Apeductul roman din Sougia",
+            "en": "Roman aqueduct of sougia"
+          },
+          "coords": [
+            23.809743,
+            35.257036
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Ingenieurskunst dieses alten römischen Bauwerks, das einst die Gegend mit Wasser versorgte, und fahren Sie vorsichtig auf den unbefestigten Wegen dorthin.",
+            "hu": "Csodálja meg ennek az ősi római építménynek a mérnöki zsenialitását, amely egykor vízzel látta el a környéket, és óvatosan kerékpározzon az oda vezető földutakon.",
+            "ro": "Minunați-vă de măiestria inginerească a acestei vechi structuri romane care aproviziona odată zona cu apă și mergeți cu grijă pe drumurile neasfaltate până acolo.",
+            "en": "Marvel at the engineering brilliance of this ancient Roman structure that once supplied water to the area, and cycle carefully on the unpaved paths leading to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Kriegsmuseum Sougia",
+            "hu": "Sougiai Történelmi Háborús Múzeum",
+            "ro": "Muzeul Istoric de Război Sougia",
+            "en": "Historical war Museum Sougia"
+          },
+          "coords": [
+            23.810611,
+            35.249588
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungsstücke, die vom lokalen Widerstand während des Zweiten Weltkriegs erzählen, und schließen Sie Ihr Fahrrad sicher am Eingang ab.",
+            "hu": "Fedezze fel a második világháborús helyi ellenállást bemutató lenyűgöző kiállításokat, és biztonságosan zárja le a kerékpárját a bejáratnál.",
+            "ro": "Explorați exponatele care detaliază rezistența locală din timpul celui de-al Doilea Război Mondial și asigurați-vă că blocați bicicleta în siguranță la intrare.",
+            "en": "Explore the exhibits detailing local resistance during World War II, which shaped the region's modern identity, and make sure to lock your bike securely near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika des Agios Panteleimon in Sougia",
+            "hu": "Agios Panteleimon-bazilika Sougiában",
+            "ro": "Bazilica Agios Panteleimon din Sougia",
+            "en": "Basilica of Agios Panteleimon in Sougia"
+          },
+          "coords": [
+            23.808778,
+            35.248703
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Mosaikböden dieser frühchristlichen Basilika, und genießen Sie die kühle Atmosphäre im Schatten der Bäume um die Ruine.",
+            "hu": "Csodálja meg ezen ókeresztény bazilika lenyűgöző mozaikpadlóit, és élvezze a hűvös légkört a romokat körülvevő fák árnyékában.",
+            "ro": "Admirați podelele cu mozaic antice ale acestei bazilici paleocreștine și bucurați-vă de atmosfera răcoroasă la umbra copacilor din jurul ruinelor.",
+            "en": "Admire the ancient mosaic floors of this early Christian basilica which represent a deep spiritual heritage, and enjoy the cool atmosphere in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "FLAK von Sougia",
+            "hu": "Sougiai FLAK légvédelmi ágyú",
+            "ro": "FLAK din Sougia",
+            "en": "FLAK of Sougia"
+          },
+          "coords": [
+            23.808415,
+            35.24769
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste dieser Flugabwehrkanone, die die strategische Bedeutung der Bucht unterstreicht, bevor Sie weiter zum Strand radeln.",
+            "hu": "Vizsgálja meg a légvédelmi ágyú maradványait, amely az öböl stratégiai jelentőségét hangsúlyozza, mielőtt tovább kerekezne a strand felé.",
+            "ro": "Examinați rămășițele acestui tun antiaerian care subliniază importanța strategică a golfului, înainte de a pedala mai departe spre plajă.",
+            "en": "Examine the remains of this anti-aircraft gun which highlights the bay's strategic importance during the war, before hopping back on the bike towards the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Sougia Strand",
+            "hu": "Sougia strand",
+            "ro": "Plaja Sougia",
+            "en": "Sougia Beach"
+          },
+          "coords": [
+            23.81834,
+            35.247681
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Kieselstrand mit seinem kristallklaren Wasser, das ideal zum Schwimmen ist, und parken Sie Ihr Rad an der Strandpromenade.",
+            "hu": "Pihenjen ezen a tágas kavicsos strandon, amelynek kristálytiszta vize ideális az úszáshoz, és parkolja le kerékpárját a parti sétányon.",
+            "ro": "Relaxați-vă pe această plajă extinsă cu pietricele, cu ape cristaline ideale pentru înot, și parcați-vă bicicleta pe promenada de lângă plajă.",
+            "en": "Relax on this expansive pebble beach with its crystal-clear waters perfect for swimming, and simply park your bike along the accessible beach promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt mit einer kleinen Zeitreise zum römischen Aquädukt im Norden von Sougia. Die ruhige Morgenstimmung ist perfekt für diese Entdeckung.\nZurück im Dorfzentrum tauchen wir tief in die Ereignisse des Zweiten Weltkriegs ein. Das lokale Museum bietet erstaunliche Einblicke in den Mut der Einheimischen.\nKurz darauf radeln wir zur frühchristlichen Basilika und der nahegelegenen Flak-Stellung. Diese Orte verbinden alte Spiritualität mit rauer Kriegsgeschichte.\nDie Tour endet entspannt am langen Kieselstrand von Sougia. Das Rad ist schnell geparkt, und wir können die Sonne und das Meer in vollen Zügen genießen.",
+        "hu": "Kerékpártúránk egy kis időutazással kezdődik a Sougia északi részén található római vízvezetékhez. A csendes reggeli hangulat tökéletes ehhez a felfedezéshez.\nVisszatérve a falu központjába, elmélyedünk a második világháború eseményeiben. A helyi múzeum elképesztő bepillantást nyújt a helyiek bátorságába.\nRöviddel ezután az ókeresztény bazilikához és a közeli légvédelmi álláshoz kerekezünk. Ezek a helyek ötvözik az ősi spiritualitást a zord hadtörténettel.\nA túra lazán ér véget a hosszú sougiai kavicsos strandon. A kerékpárt gyorsan leparkoljuk, és teljes mértékben élvezhetjük a napsütést és a tengert.",
+        "ro": "Turul nostru cu bicicleta începe cu o mică călătorie în timp la apeductul roman din nordul orașului Sougia. Atmosfera liniștită a dimineții este perfectă pentru această descoperire.\nÎntorcându-ne în centrul satului, ne cufundăm adânc în evenimentele celui de-al Doilea Război Mondial. Muzeul local oferă o perspectivă uimitoare asupra curajului localnicilor.\nLa scurt timp după aceea, pedalăm către bazilica paleocreștină și poziția antiaeriană din apropiere. Aceste locuri combină spiritualitatea străveche cu istoria crudă a războiului.\nTurul se termină relaxat pe lunga plajă cu pietricele din Sougia. Bicicleta este parcată rapid și ne putem bucura din plin de soare și de mare.",
+        "en": "Our bike tour kicks off with a short journey back in time to the Roman aqueduct just north of Sougia. The quiet morning atmosphere is perfect for a breezy ride.\nBack in the village center, we dive deep into the turbulent events of World War II. The local museum provides incredible insights into the courage of the residents.\nShortly after, we cycle to the ruins of the early Christian basilica and the nearby flak position. These sites uniquely blend ancient spirituality with raw military history.\nThe tour wraps up perfectly at the long pebble beach of Sougia. The bike is quickly parked, leaving us completely free to soak up the sun and the refreshing sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempel des Asklepios",
+            "hu": "Aszklépiosz temploma",
+            "ro": "Templul lui Asclepios",
+            "en": "Temple of Asclepios"
+          },
+          "coords": [
+            23.785522,
+            35.24377
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen dieses faszinierenden Heiligtums im Tal von Lissos, und bringen Sie ausreichend Wasser mit, da es vor Ort keine Versorgung gibt.",
+            "hu": "Fedezze fel ennek a lenyűgöző szentélynek az ősi romjait Lissos völgyében, és hozzon magával elegendő vizet, mivel a helyszínen nincs semmilyen ellátás.",
+            "ro": "Explorați ruinele antice ale acestui sanctuar fascinant din valea Lissos și asigurați-vă că aduceți suficientă apă, deoarece nu există facilități la fața locului.",
+            "en": "Explore the ancient ruins of this fascinating healing sanctuary hidden in the Lissos valley, and remember to bring plenty of water as there are no facilities on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Odeum von Lissos",
+            "hu": "Lissosi Odeon",
+            "ro": "Odeonul din Lissos",
+            "en": "Odeum"
+          },
+          "coords": [
+            23.785208,
+            35.242752
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die musikalischen Darbietungen in diesem kleinen antiken Theater vor, das sehr gut erhalten ist, und achten Sie auf die fein gearbeiteten Steinreihen.",
+            "hu": "Képzelje el a zenei előadásokat ebben a kis, kiválóan fennmaradt ókori színházban, és figyelje meg a finoman megmunkált kősorokat.",
+            "ro": "Imaginați-vă spectacolele muzicale din acest mic teatru antic remarcabil conservat și acordați atenție rândurilor de piatră fin lucrate.",
+            "en": "Imagine the ancient musical performances in this remarkably preserved small theater, and take a moment to admire the finely crafted stone seating rows."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Kriegsmuseum Sougia",
+            "hu": "Sougiai Történelmi Háborús Múzeum",
+            "ro": "Muzeul Istoric de Război Sougia",
+            "en": "Historical war Museum Sougia"
+          },
+          "coords": [
+            23.810611,
+            35.249588
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nach den antiken Wundern bietet dieses Museum einen Einblick in die harte Realität des Zweiten Weltkriegs, am besten Sie parken am Dorfeingang.",
+            "hu": "Az ókori csodák után ez a múzeum bepillantást nyújt a második világháború zord valóságába, a legjobb, ha a falu bejáratánál parkol.",
+            "ro": "După minunile antice, acest muzeu oferă o perspectivă asupra realității dure a celui de-al Doilea Război Mondial; cel mai bine este să parcați la intrarea în sat.",
+            "en": "Following the ancient wonders, this museum provides a stark insight into the harsh realities of World War II, and it's best to park your car at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Aquädukt von Sougia",
+            "hu": "Sougiai római vízvezeték",
+            "ro": "Apeductul roman din Sougia",
+            "en": "Roman aqueduct of sougia"
+          },
+          "coords": [
+            23.809743,
+            35.257036
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Ingenieurskunst dieses alten Bauwerks, das einst die Gegend mit Wasser versorgte, eine kurze Fahrt nördlich des Dorfes.",
+            "hu": "Csodálja meg ennek az ősi építménynek a mérnöki zsenialitását, amely egykor vízzel látta el a környéket, egy rövid autóútra a falutól északra.",
+            "ro": "Minunați-vă de măiestria inginerească a acestei vechi structuri care aproviziona odată zona cu apă, la o scurtă plimbare cu mașina la nord de sat.",
+            "en": "Marvel at the engineering brilliance of this ancient Roman structure that once supplied water, located just a short and scenic drive north of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Spelaio Poluphemou",
+            "hu": "Polüphémosz-barlang",
+            "ro": "Peștera lui Polifem",
+            "en": "Spelaio Poluphemou"
+          },
+          "coords": [
+            23.829263,
+            35.255618
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese mythologisch bedeutsame Höhle, in der der Legende nach der Kyklop lebte, und bringen Sie eine Taschenlampe mit, um die dunklen Ecken auszuleuchten.",
+            "hu": "Fedezze fel ezt a mitológiai szempontból jelentős barlangot, ahol a legenda szerint a küklopsz élt, és hozzon magával zseblámpát a sötét sarkok megvilágításához.",
+            "ro": "Descoperiți această peșteră mitologică, unde legenda spune că trăia ciclopul, și aduceți o lanternă pentru a ilumina colțurile întunecate ale cavernei.",
+            "en": "Discover this mythologically significant cave where legend says the Cyclops lived, and make sure to bring a strong flashlight to illuminate its dark corners."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag mit einem Ausflug ins historische Tal von Lissos, wo der Tempel des Asklepios majestätisch in der Landschaft ruht. Eine magische Atmosphäre erwartet uns.\nGleich nebenan liegt das kleine, aber feine Odeum, das einst für musikalische Darbietungen genutzt wurde. Man kann die antiken Melodien förmlich noch hören.\nZurück in Sougia holt uns die moderne Geschichte im Kriegsmuseum ein. Die tapferen Taten der lokalen Bevölkerung hinterlassen einen bleibenden Eindruck.\nAm Nachmittag fahren wir ein Stück weiter in die Berge zum römischen Aquädukt und der geheimnisvollen Zyklopenhöhle. Ein abenteuerlicher Abschluss voller Legenden.",
+        "hu": "A napot egy kirándulással kezdjük Lissos történelmi völgyébe, ahol Aszklépiosz temploma fenségesen nyugszik a tájban. Varázslatos atmoszféra vár ránk.\nKözvetlenül mellette található a kicsi, de pompás Odeon, amelyet egykor zenei előadásokra használtak. Szinte hallani lehet az ősi dallamokat.\nVisszatérve Sougiába, a modern történelem utolér minket a háborús múzeumban. A helyi lakosság hősies tettei maradandó benyomást keltenek.\nDélután egy kicsit tovább autózunk a hegyekbe a római vízvezetékhez és a titokzatos küklopsz-barlanghoz. Egy kalandos befejezés, tele legendákkal.",
+        "ro": "Începem ziua cu o excursie în valea istorică Lissos, unde Templul lui Asclepios se odihnește maiestuos în peisaj. Ne așteaptă o atmosferă cu adevărat magică.\nChiar alături se află micul, dar frumosul Odeon, folosit cândva pentru spectacole muzicale. Aproape că poți auzi melodiile antice ecou în piatră.\nÎntorcându-ne în Sougia, istoria modernă ne ajunge din urmă la muzeul de război. Faptele curajoase ale populației locale lasă o impresie de neuitat.\nDupă-amiază conducem puțin mai departe în munți către apeductul roman și misterioasa peșteră a ciclopului. Un final aventuros plin de legende locale.",
+        "en": "We start the day with a drive toward the historical valley of Lissos, where the Temple of Asclepios rests majestically in the landscape. A truly magical atmosphere awaits.\nRight next door lies the small but exquisite Odeum, once used for musical performances. You can almost hear the ancient melodies echoing off the stone tiers.\nHeading back into Sougia, modern history catches up with us at the local war museum. The brave deeds and resilience of the local population leave a lasting impression.\nIn the afternoon, we drive a bit further into the hills to see the Roman aqueduct and the mysterious cave of the Cyclops. An adventurous finale full of myth."
+      }
+    }
+  }
+}

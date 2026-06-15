@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-east-mani-cities-v2",
+  "anchor": {
+    "name": "East Mani",
+    "coords": [
+      22.4799,
+      36.4194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Tainaron",
+            "hu": "Ókori Tainaron",
+            "ro": "Anticul Tainaron",
+            "en": "Ancient Tainaron"
+          },
+          "coords": [
+            22.486411,
+            36.401541
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Poseidon am südlichsten Punkt des europäischen Festlands und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Fedezze fel a Poszeidónnak szentelt ősi romokat Európa legdélebbi szárazföldi pontján, és viseljen masszív cipőt a sziklás terepen.",
+            "ro": "Explorați ruinele antice dedicate lui Poseidon în cel mai sudic punct al Europei continentale și purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Explore the ancient ruins dedicated to Poseidon at the southernmost tip of mainland Europe, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum des antiken Tainaron",
+            "hu": "Az ókori Tainaron Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic al anticului Tainaron",
+            "en": "Archeological Museum of ancient Tainaron"
+          },
+          "coords": [
+            22.488716,
+            36.402153
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte der Ausgrabungsstätte, die die Geschichte der Region erklären, also nehmen Sie sich Zeit für die Ausstellungsstücke.",
+            "hu": "Fedezzen fel lenyűgöző tárgyakat a közeli régészeti lelőhelyről, amelyek bemutatják a régió történelmét, ezért szánjon időt a részletes kiállításokra.",
+            "ro": "Descoperiți artefacte fascinante din situl arheologic din apropiere care explică istoria regiunii, așa că acordați-vă timp pentru a citi exponatele.",
+            "en": "Discover fascinating artifacts from the nearby archaeological site that explain the region's history, so take your time reading the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Eingang zum Hades",
+            "hu": "A Hádész bejárata",
+            "ro": "Intrarea în Hades",
+            "en": "Entrance to Hades"
+          },
+          "coords": [
+            22.487643,
+            36.402105
+          ],
+          "category": "landmark",
+          "arrive_at": "12:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der mythischen Höhle, die als Tor zur Unterwelt galt, und bringen Sie eine kleine Taschenlampe mit, um in die Dunkelheit zu spähen.",
+            "hu": "Álljon a mitikus barlang előtt, amelyet az ősök az alvilág kapujának hittek, és hozzon egy kis zseblámpát, hogy bepillanthasson a sötét nyílásba.",
+            "ro": "Stați în fața peșterii mitice crezute a fi poarta către lumea de dincolo și aduceți o mică lanternă pentru a privi în deschiderea întunecată.",
+            "en": "Stand before the mythical cave believed by ancients to be the gateway to the underworld, bringing a small flashlight to peek into the dark opening."
+          }
+        },
+        {
+          "name": {
+            "de": "Romaike Paralia",
+            "hu": "Romaike Paralia",
+            "ro": "Romaike Paralia",
+            "en": "Romaike Paralia"
+          },
+          "coords": [
+            22.484541,
+            36.399771
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Kieselstrand in einer dramatischen Bucht und bringen Sie Wasser und Snacks mit, da es keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen a drámai öbölben megbúvó, nyugodt kavicsos strandon, de feltétlenül hozzon magával vizet és rágcsálnivalót, mivel nincsenek létesítmények.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș situată într-un golf dramatic, asigurându-vă că aduceți apă și gustări, deoarece nu există facilități.",
+            "en": "Relax on this serene pebble beach nestled in a dramatic cove, making sure to bring your own water and snacks as there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Skourka",
+            "hu": "Skourka",
+            "ro": "Skourka",
+            "en": "Skourka"
+          },
+          "coords": [
+            22.480695,
+            36.418366
+          ],
+          "category": "natural",
+          "arrive_at": "14:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem rauen natürlichen Aussichtspunkt für weite Panoramen der Mani-Halbinsel, am besten nachmittags für atemberaubendes Licht.",
+            "hu": "Túrázzon fel ehhez a zord természetes kilátóhoz a Mani-félsziget pazar panorámájáért, amelyet délután a legjobb felkeresni a lenyűgöző fények miatt.",
+            "ro": "Urcați până la acest punct de belvedere natural pentru panorame ample ale peninsulei Mani, cel mai bine vizitat după-amiaza pentru o lumină uimitoare.",
+            "en": "Hike up to this rugged natural viewpoint for sweeping panoramas of the Mani peninsula, best visited in the afternoon for stunning coastal lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Rande des Kontinents und erkunden Sie die antiken Ruinen von Tainaron sowie das Museum. Bis zum Mittag laufen Sie zur mythischen Höhle des Hades und tauchen in die faszinierende Geschichte ein. Der Nachmittag ist für Entspannung am abgelegenen Strand Romaike Paralia reserviert. Beenden Sie den Tag mit einer Wanderung nach Skourka für einen herrlichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a kontinens peremén, és fedezze fel Tainaron ősi romjait, valamint a közeli múzeumot. Délben sétáljon el a mitikus Hádész-barlanghoz, elmerülve a környék hátborzongató történetében. A délután a kikapcsolódásé, miközben elgyalogol a félreeső Romaike Paralia strandhoz. Zárja a napot egy Skourka felé tartó túrával, ahol lenyűgöző naplemente várja.",
+        "ro": "Începeți dimineața la marginea continentului, explorând ruinele antice din Tainaron și muzeul arheologic. La prânz, mergeți la peștera mitică a lui Hades, absorbind istoria fascinantă a zonei. După-amiaza este rezervată relaxării în timp ce faceți o drumeție la plaja izolată Romaike Paralia. Încheiați ziua mergând spre Skourka pentru un apus de soare magnific.",
+        "en": "Start your morning at the very edge of the continent, exploring the ancient ruins of Tainaron and the nearby archaeological museum. By midday, walk to the mythical Cave of Hades, soaking in the eerie but fascinating history of the area. The afternoon is reserved for true relaxation as you hike over to the secluded Romaike Paralia. End the day walking up to Skourka for a magnificent sunset view."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Skourka",
+            "hu": "Skourka",
+            "ro": "Skourka",
+            "en": "Skourka"
+          },
+          "coords": [
+            22.480695,
+            36.418366
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem rauen natürlichen Aussichtspunkt für weite Panoramen der Mani-Halbinsel, am besten nachmittags für atemberaubendes Licht.",
+            "hu": "Túrázzon fel ehhez a zord természetes kilátóhoz a Mani-félsziget pazar panorámájáért, amelyet délután a legjobb felkeresni a lenyűgöző fények miatt.",
+            "ro": "Urcați până la acest punct de belvedere natural pentru panorame ample ale peninsulei Mani, cel mai bine vizitat după-amiaza pentru o lumină uimitoare.",
+            "en": "Hike up to this rugged natural viewpoint for sweeping panoramas of the Mani peninsula, best visited in the afternoon for stunning coastal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmari",
+            "hu": "Marmari",
+            "ro": "Marmari",
+            "en": "Marmari"
+          },
+          "coords": [
+            22.473388,
+            36.423142
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sandstrand und das klare, flache Wasser dieser schönen Bucht, ideal für ein erfrischendes Bad am Mittag in der griechischen Sonne.",
+            "hu": "Élvezze a homokos partszakaszt és a gyönyörű öböl tiszta, sekély vizét, amely tökéletes egy frissítő déli úszáshoz a görög nap elől menekülve.",
+            "ro": "Bucurați-vă de întinderea de nisip și de apele limpezi ale acestui golf frumos, perfect pentru o baie răcoritoare la prânz pentru a scăpa de soare.",
+            "en": "Enjoy the sandy stretch and clear, shallow waters of this beautiful bay, perfect for a refreshing midday swim to cool off from the Greek sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos Gregorake",
+            "hu": "Purgos Gregorake",
+            "ro": "Purgos Gregorake",
+            "en": "Purgos Gregorake"
+          },
+          "coords": [
+            22.479071,
+            36.428926
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle maniotische Steinarchitektur dieses historischen Turmhauses und halten Sie respektvollen Abstand zum Privatbesitz.",
+            "hu": "Csodálja meg a természet ölelésében megbúvó történelmi toronyház hagyományos manióta kőépítészetét, de tartson tisztes távolságot a magánterülettől.",
+            "ro": "Admirați arhitectura tradițională din piatră a acestui turn istoric cuibărit în natură, păstrând o distanță respectuoasă, deoarece este proprietate privată.",
+            "en": "Admire the traditional Maniot stone architecture of this historic tower house nestled in nature, keeping a respectful distance as it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Kagio",
+            "hu": "Porto Kagio",
+            "ro": "Porto Kagio",
+            "en": "Porto Kagio"
+          },
+          "coords": [
+            22.48581,
+            36.42846
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diese malerische Bucht mit kleinen Fischerbooten und kehren Sie in einer Taverne am Meer für frische Meeresfrüchte und Getränke ein.",
+            "hu": "Sétáljon körbe ezen a festői, kis halászhajókkal teli öbölben, és álljon meg egy helyi tengerparti tavernában friss tenger gyümölcseiért és italokért.",
+            "ro": "Plimbați-vă în jurul acestui golf pitoresc plin de bărci de pescuit și opriți-vă la o tavernă pe litoral pentru fructe de mare proaspete și băuturi.",
+            "en": "Stroll around this picturesque, sheltered bay filled with small fishing boats, and stop at a local seaside taverna for fresh seafood and cold drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Porto Kayio",
+            "hu": "Porto Kayio vára",
+            "ro": "Castelul Porto Kayio",
+            "en": "Castle of Porto Kayio"
+          },
+          "coords": [
+            22.485185,
+            36.437492
+          ],
+          "category": "castle",
+          "arrive_at": "13:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten osmanischen Festung hinauf, um einen tollen Blick über die Bucht zu genießen, aber achten Sie auf Ihre Schritte.",
+            "hu": "Másszon fel a régi oszmán erőd romjaihoz az öbölre nyíló impozáns kilátásért, de ügyeljen a lépéseire a karbantartatlan és omladozó falakon.",
+            "ro": "Urcați la ruinele acestei vechi fortărețe otomane pentru o vedere impunătoare asupra golfului, dar aveți grijă la pași pe zidurile nemenținute.",
+            "en": "Climb up to the ruins of this old Ottoman fortress for an imposing view over the bay, but watch your step on the unmaintained and crumbling walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour inmitten der rauen Naturschönheit von Skourka. Fahren Sie nach Marmari, um den goldenen Sand und das klare Wasser für eine Mittagspause zu genießen. Am Nachmittag radeln Sie vorbei an den historischen Steintürmen von Purgos Gregorake in Richtung Porto Kagio. Beenden Sie Ihren aktiven Tag mit einer Fahrt zur beeindruckenden Festung von Porto Kayio.",
+        "hu": "Kezdje a kerékpártúrát Skourka zord természeti szépségei között, élvezve a reggeli szellőt. Tekerjen délre Marmari felé, hogy a déli pihenő során élvezze az aranyhomokot. Délután pedálozzon el Purgos Gregorake történelmi kőtornyai mellett a hangulatos Porto Kagio irányába. Zárja az aktív napot egy felfelé vezető úttal Porto Kayio lenyűgöző várához, ahonnan csodás a kilátás.",
+        "ro": "Începeți călătoria cu bicicleta printre frumusețea naturală de la Skourka. Mergeți spre sud spre Marmari pentru a vă bucura de nisipurile sale aurii pentru o pauză la prânz. După-amiaza, pedalați pe lângă turnurile istorice din piatră din Purgos Gregorake spre farmecul de coastă din Porto Kagio. Încheiați-vă ziua activă mergând la impresionantul Castel Porto Kayio.",
+        "en": "Begin your cycling trip amidst the rugged natural beauty of Skourka, taking in the morning breeze. Ride south to Marmari to enjoy its golden sands and clear waters for a midday break. In the afternoon, pedal past the historic stone towers of Purgos Gregorake toward the coastal charm of Porto Kagio. Conclude your active day by cycling up to the impressive Castle of Porto Kayio overlooking the bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 7.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum des antiken Tainaron",
+            "hu": "Az ókori Tainaron Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic al anticului Tainaron",
+            "en": "Archeological Museum of ancient Tainaron"
+          },
+          "coords": [
+            22.488716,
+            36.402153
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte der Ausgrabungsstätte, die die Geschichte der Region erklären, also nehmen Sie sich Zeit für die Ausstellungsstücke.",
+            "hu": "Fedezzen fel lenyűgöző tárgyakat a közeli régészeti lelőhelyről, amelyek bemutatják a régió történelmét, ezért szánjon időt a részletes kiállításokra.",
+            "ro": "Descoperiți artefacte fascinante din situl arheologic din apropiere care explică istoria regiunii, așa că acordați-vă timp pentru a citi exponatele.",
+            "en": "Discover fascinating artifacts from the nearby archaeological site that explain the region's history, so take your time reading the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Tainaron",
+            "hu": "Ókori Tainaron",
+            "ro": "Anticul Tainaron",
+            "en": "Ancient Tainaron"
+          },
+          "coords": [
+            22.486411,
+            36.401541
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Poseidon am südlichsten Punkt des europäischen Festlands und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Fedezze fel a Poszeidónnak szentelt ősi romokat Európa legdélebbi szárazföldi pontján, és viseljen masszív cipőt a sziklás terepen.",
+            "ro": "Explorați ruinele antice dedicate lui Poseidon în cel mai sudic punct al Europei continentale și purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Explore the ancient ruins dedicated to Poseidon at the southernmost tip of mainland Europe, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmari",
+            "hu": "Marmari",
+            "ro": "Marmari",
+            "en": "Marmari"
+          },
+          "coords": [
+            22.473388,
+            36.423142
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sandstrand und das klare, flache Wasser dieser schönen Bucht, ideal für ein erfrischendes Bad am Mittag in der griechischen Sonne.",
+            "hu": "Élvezze a homokos partszakaszt és a gyönyörű öböl tiszta, sekély vizét, amely tökéletes egy frissítő déli úszáshoz a görög nap elől menekülve.",
+            "ro": "Bucurați-vă de întinderea de nisip și de apele limpezi ale acestui golf frumos, perfect pentru o baie răcoritoare la prânz pentru a scăpa de soare.",
+            "en": "Enjoy the sandy stretch and clear, shallow waters of this beautiful bay, perfect for a refreshing midday swim to cool off from the Greek sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Kagio",
+            "hu": "Porto Kagio",
+            "ro": "Porto Kagio",
+            "en": "Porto Kagio"
+          },
+          "coords": [
+            22.48581,
+            36.42846
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diese malerische Bucht mit kleinen Fischerbooten und kehren Sie in einer Taverne am Meer für frische Meeresfrüchte und Getränke ein.",
+            "hu": "Sétáljon körbe ezen a festői, kis halászhajókkal teli öbölben, és álljon meg egy helyi tengerparti tavernában friss tenger gyümölcseiért és italokért.",
+            "ro": "Plimbați-vă în jurul acestui golf pitoresc plin de bărci de pescuit și opriți-vă la o tavernă pe litoral pentru fructe de mare proaspete și băuturi.",
+            "en": "Stroll around this picturesque, sheltered bay filled with small fishing boats, and stop at a local seaside taverna for fresh seafood and cold drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Porto Kayio",
+            "hu": "Porto Kayio vára",
+            "ro": "Castelul Porto Kayio",
+            "en": "Castle of Porto Kayio"
+          },
+          "coords": [
+            22.485185,
+            36.437492
+          ],
+          "category": "castle",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten osmanischen Festung hinauf, um einen tollen Blick über die Bucht zu genießen, aber achten Sie auf Ihre Schritte.",
+            "hu": "Másszon fel a régi oszmán erőd romjaihoz az öbölre nyíló impozáns kilátásért, de ügyeljen a lépéseire a karbantartatlan és omladozó falakon.",
+            "ro": "Urcați la ruinele acestei vechi fortărețe otomane pentru o vedere impunătoare asupra golfului, dar aveți grijă la pași pe zidurile nemenținute.",
+            "en": "Climb up to the ruins of this old Ottoman fortress for an imposing view over the bay, but watch your step on the unmaintained and crumbling walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos",
+            "hu": "Purgos",
+            "ro": "Purgos",
+            "en": "Purgos"
+          },
+          "coords": [
+            22.465829,
+            36.436693
+          ],
+          "category": "natural",
+          "arrive_at": "16:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einsame Naturgebiet mit zerklüftetem Gelände und Gestrüpp und bringen Sie einen Hut mit, um sich vor der Nachmittagssonne zu schützen.",
+            "hu": "Fedezze fel ezt az elszigetelt, zord tereppel és cserjékkel borított természeti területet, és hozzon magával széles karimájú kalapot a nap ellen.",
+            "ro": "Explorați această zonă naturală izolată cu teren accidentat și vegetație, aducând o pălărie cu boruri largi pentru a vă proteja de soarele de după-amiază.",
+            "en": "Explore this isolated natural area featuring rugged terrain and scrub vegetation, bringing a wide-brimmed hat to protect yourself from the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum südlichsten Punkt, um das Museum und das antike Tainaron an der frischen Morgenluft zu erkunden. Mittags geht es die Küste hinauf nach Marmari für ein Bad in der türkisfarbenen Bucht. Die Nachmittagsfahrt führt Sie zum malerischen Hafen von Porto Kagio und hinauf zu den Burgruinen. Genießen Sie schließlich einen ruhigen Abend am friedlichen Naturort Purgos.",
+        "hu": "Vezessen el a legdélebbi pontra, és fedezze fel a Múzeumot és az ókori Tainaront a friss reggeli levegőn. Délben haladjon északra Marmari felé egy úszásra a türkizkék öbölben. A délutáni út Porto Kagio festői kikötőjébe, majd az impozáns várromokhoz vezet. Végül élvezze a békés estét Purgos csendes, eldugott természeti területén.",
+        "ro": "Conduceți spre cel mai sudic punct pentru a explora Muzeul și Anticul Tainaron în aerul proaspăt al dimineții. La prânz, mergeți pe coastă la Marmari pentru o baie în golful turcoaz. Călătoria de după-amiază vă duce în portul pitoresc din Porto Kagio și până la ruinele castelului său. În cele din urmă, bucurați-vă de o seară liniștită în locul natural din Purgos.",
+        "en": "Drive to the southernmost point to explore the Archeological Museum and Ancient Tainaron in the fresh morning air. For midday, head up the coast to Marmari for a swim in the turquoise bay. The afternoon drive takes you to the picturesque harbor of Porto Kagio for a seaside stroll and up to its commanding castle ruins. Finally, enjoy a peaceful evening at the quiet natural spot of Purgos."
+      }
+    }
+  }
+}

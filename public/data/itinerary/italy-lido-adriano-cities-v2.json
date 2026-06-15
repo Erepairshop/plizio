@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-lido-adriano-cities-v2",
+  "anchor": {
+    "name": "Lido Adriano",
+    "coords": [
+      12.3086,
+      44.41225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "CISIM",
+            "hu": "CISIM",
+            "ro": "CISIM",
+            "en": "CISIM"
+          },
+          "coords": [
+            12.304781,
+            44.418116
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale zeitgenössische Kunst und kulturelle Veranstaltungen in diesem lebendigen kreativen Zentrum, aber prüfen Sie unbedingt vorab die Öffnungszeiten im Internet.",
+            "hu": "Fedezze fel a helyi kortárs művészetet és kulturális eseményeket ebben a nyüzsgő kreatív központban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți arta contemporană locală și evenimentele culturale din acest centru creativ vibrant, dar asigurați-vă că verificați programul online înainte de vizită.",
+            "en": "Discover local contemporary art and cultural events at this vibrant creative hub, but be sure to check their opening hours online before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 007 Beach",
+            "hu": "Bagno 007 Beach",
+            "ro": "Bagno 007 Beach",
+            "en": "Bagno 007 Beach"
+          },
+          "coords": [
+            12.308912,
+            44.417213
+          ],
+          "category": "recreational",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Badeortes und nutzen Sie die hervorragenden Einrichtungen, aber kommen Sie früh, um die besten Liegen am Wasser zu ergattern.",
+            "hu": "Pihenjen e népszerű tengerparti helyszín aranyló homokján és élvezze a kiváló szolgáltatásokat, de érkezzen korán reggel, hogy a legjobb napágyakat biztosítsa a víz közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei destinații populare și bucurați-vă de facilitățile excelente, dar ajungeți devreme pentru a prinde cele mai bune șezlonguri.",
+            "en": "Relax on the golden sands of this popular seaside spot and enjoy the excellent facilities, but arrive early in the morning to secure the best sunbeds near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno La Playa 348",
+            "hu": "Bagno La Playa 348",
+            "ro": "Bagno La Playa 348",
+            "en": "Bagno La Playa 348"
+          },
+          "coords": [
+            12.310423,
+            44.414584
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Genießen Sie die mediterrane Sonne bei erfrischenden Cocktails an der Strandbar und vergessen Sie nicht, reichlich Sonnencreme für einen entspannten Tag einzupacken.",
+            "hu": "Élvezze a mediterrán napsütést, miközben frissítő koktélokat kortyolgat a strandi bárban, és ne felejtsen el sok naptejet csomagolni a kényelmes szabadtéri naphoz.",
+            "ro": "Bucurați-vă de soarele mediteranean în timp ce savurați cocktailuri revigorante la barul de pe plajă și nu uitați să luați cremă de soare pentru o zi confortabilă.",
+            "en": "Soak up the Mediterranean sun while enjoying refreshing cocktails at the beach bar, and don't forget to pack plenty of sunscreen for a comfortable day outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Azzurra",
+            "hu": "Bagno Azzurra",
+            "ro": "Bagno Azzurra",
+            "en": "Bagno Azzurra"
+          },
+          "coords": [
+            12.312221,
+            44.412055
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am Ufer oder spielen Sie eine Runde Beachvolleyball, und bringen Sie bequeme Sandalen für den warmen Sand am Nachmittag mit.",
+            "hu": "Tegyen egy kellemes sétát a parton vagy vegyen részt a strandröplabda meccseken, és mindenképpen hozzon kényelmes szandált a meleg délutáni homokon való sétáláshoz.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul țărmului sau jucați volei pe plajă și asigurați-vă că aveți sandale confortabile pentru a merge pe nisipul cald de după-amiază.",
+            "en": "Take a leisurely stroll along the shore or participate in beach volleyball games, and make sure to bring comfortable sandals for walking on the warm afternoon sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Auai Auai",
+            "hu": "Auai Auai",
+            "ro": "Auai Auai",
+            "en": "Auai Auai"
+          },
+          "coords": [
+            12.30845,
+            44.408774
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erleben Sie familienfreundliche Unterhaltung und Fahrgeschäfte in diesem lebhaften Vergnügungspark, aber denken Sie an etwas Kleingeld für die verschiedenen Arcade-Spiele.",
+            "hu": "Élvezze a családbarát szórakozást és a vidám körhintákat ebben a nyüzsgő vidámparkban, de ne felejtsen el aprópénzt hozni a különböző játékokhoz és standokhoz.",
+            "ro": "Experimentați divertismentul pentru familii și atracțiile distractive din acest parc de distracții plin de viață, dar amintiți-vă să aveți mărunt pentru jocurile arcade.",
+            "en": "Experience family-friendly entertainment and fun rides at this lively amusement park, but remember to carry small change in cash for the various arcade games and stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Beginnen Sie Ihren Morgen mit einem Schuss Kultur im CISIM und erkunden Sie die lokale Kunstszene.\n\n2. Gehen Sie zur Küste zum Bagno 007 Beach und spüren Sie den weichen Sand unter Ihren Füßen, während die Sonne höher steigt.\n\n3. Setzen Sie Ihren entspannten Spaziergang zum Bagno La Playa 348 und Bagno Azzurra für einen Nachmittag voller Entspannung am Meer fort.\n\n4. Beenden Sie Ihren Tag mit lebendiger Unterhaltung im Auai Auai.",
+        "hu": "1. Kezdje a reggelt egy kis kultúrával a CISIM-ben, felfedezve a helyi művészeti életet.\n\n2. Irány a part, a Bagno 007 Beach, ahol érezheti a puha homokot a lába alatt, ahogy a nap egyre magasabbra hág.\n\n3. Folytassa kényelmes tengerparti sétáját a Bagno La Playa 348 és a Bagno Azzurra felé egy kis délutáni pihenésért.\n\n4. Zárja a napot az Auai Auai vidám szórakozási lehetőségeivel és színes játékaival.",
+        "ro": "1. Începeți dimineața cu un strop de cultură la CISIM, explorând vibrațiile artistice locale.\n\n2. Îndreptați-vă spre coastă la Bagno 007 Beach, simțind nisipul moale sub picioare pe măsură ce soarele urcă.\n\n3. Continuați plimbarea relaxantă pe coastă spre Bagno La Playa 348 și Bagno Azzurra pentru o după-amiază de relaxare.\n\n4. Încheiați ziua cu divertisment plin de viață și atracții colorate la Auai Auai.",
+        "en": "1. Start your morning with a splash of culture at CISIM, exploring local artistic vibes.\n\n2. Head towards the coast to Bagno 007 Beach, feeling the soft sand beneath your feet as the sun climbs higher.\n\n3. Continue your leisurely coastal stroll to Bagno La Playa 348 and Bagno Azzurra for an afternoon of seaside relaxation.\n\n4. Conclude your day with lively entertainment and colorful rides at Auai Auai."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Alessandro",
+            "hu": "Bagno Alessandro",
+            "ro": "Bagno Alessandro",
+            "en": "Bagno Alessandro"
+          },
+          "coords": [
+            12.30336,
+            44.428397
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag an diesem ruhigen Küstenabschnitt mit hervorragender Morgenaussicht und packen Sie eine leichte Windjacke für die frische Radtour ein.",
+            "hu": "Kezdje a strandolást ezen a nyugodt északi partszakaszon, ahonnan kiváló a reggeli kilátás, és vigyen magával egy könnyű széldzsekit a szellős tengerparti kerékpározáshoz.",
+            "ro": "Începeți ziua de plajă în acest loc liniștit de pe țărmul nordic, cu vederi excelente dimineața, și luați o jachetă ușoară pentru plimbarea cu bicicleta pe coastă.",
+            "en": "Start your beach day at this serene northern shore spot with excellent early morning views, and pack a light windbreaker for the breezy coastal bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Cesar",
+            "hu": "Bagno Cesar",
+            "ro": "Bagno Cesar",
+            "en": "Bagno Cesar"
+          },
+          "coords": [
+            12.307883,
+            44.419406
+          ],
+          "category": "recreational",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Machen Sie hier eine Pause für fantastischen Kaffee und Gebäck direkt am Strand, aber schließen Sie Ihr Fahrrad sicher an den dafür vorgesehenen Ständern ab.",
+            "hu": "Tartson egy kis szünetet itt a fantasztikus kávé- és süteménykínálatért közvetlenül a strandon, de biztonságosan zárja le kerékpárját a bejárat melletti tárolóknál.",
+            "ro": "Luați o pauză aici pentru selecții fantastice de cafea și produse de patiserie chiar pe plajă, dar asigurați-vă bicicleta la rastelele desemnate de lângă intrare.",
+            "en": "Take a break here for fantastic coffee and pastry selections right on the beach, but lock your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Calipso",
+            "hu": "Bagno Calipso",
+            "ro": "Bagno Calipso",
+            "en": "Bagno Calipso"
+          },
+          "coords": [
+            12.310399,
+            44.415797
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad im klaren Adriawasser oder mieten Sie ein Paddleboard, und halten Sie eine wasserdichte Tasche für Ihre Wertsachen bereit.",
+            "hu": "Élvezze a frissítő úszást a tiszta Adriai-tengerben vagy béreljen evezősdeszkát, és tartson kéznél egy vízálló táskát az elektronikai eszközei és értékei számára.",
+            "ro": "Bucurați-vă de o înot revigorant în apele clare ale Adriaticii sau închiriați o placă cu vâsle și păstrați o geantă impermeabilă la îndemână pentru obiectele de valoare.",
+            "en": "Enjoy a refreshing swim in the clear Adriatic waters or rent a paddleboard, and remember to keep a waterproof bag handy for your electronic devices and valuables."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Sabbia d'Oro 466",
+            "hu": "Bagno Sabbia d'Oro 466",
+            "ro": "Bagno Sabbia d'Oro 466",
+            "en": "Bagno Sabbia d'Oro 466"
+          },
+          "coords": [
+            12.313361,
+            44.409219
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich traditionelle italienische Meeresfrüchtegerichte im hoteleigenen Restaurant mit Meerblick, aber reservieren Sie in der Hochsaison unbedingt im Voraus.",
+            "hu": "Kényeztesse magát hagyományos olasz tengeri ételekkel a tengerre néző helyszíni étteremben, de főszezonban erősen ajánlott előre asztalt foglalni.",
+            "ro": "Răsfățați-vă cu preparate tradiționale italienești din fructe de mare la restaurantul de pe plajă cu vedere la mare, dar este recomandat să rezervați o masă în avans.",
+            "en": "Indulge in traditional Italian seafood dishes at the on-site restaurant overlooking the sea, but it is highly recommended to reserve a table in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Corallo",
+            "hu": "Bagno Corallo",
+            "ro": "Bagno Corallo",
+            "en": "Bagno Corallo"
+          },
+          "coords": [
+            12.313774,
+            44.407696
+          ],
+          "category": "recreational",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf bequemen Liegen, genießen Sie die entspannte Atmosphäre am Meer und holen Sie sich einen frischen Frucht-Smoothie vom Kiosk zur Abkühlung.",
+            "hu": "Pihenjen a kényelmes nyugágyakon, élvezze a laza tengerparti hangulatot, és fontolja meg egy friss gyümölcsturmix vásárlását a kioszkban, hogy lehűljön a napon.",
+            "ro": "Relaxați-vă pe șezlonguri confortabile, bucurați-vă de atmosfera relaxată de pe litoral și luați un smoothie de fructe proaspete de la chioșc pentru a vă răcori.",
+            "en": "Relax on comfortable loungers and enjoy the laid-back seaside atmosphere, and consider grabbing a fresh fruit smoothie from the kiosk to cool down under the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Cala Celeste",
+            "hu": "Bagno Cala Celeste",
+            "ro": "Bagno Cala Celeste",
+            "en": "Bagno Cala Celeste"
+          },
+          "coords": [
+            12.315579,
+            44.403005
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem angesagten südlichen Beachclub, der für wunderschöne Sonnenuntergänge bekannt ist, und bestellen Sie einen klassischen Aperitif zum Abschluss.",
+            "hu": "Kapcsolódjon ki ebben a trendi déli strandklubban, amely gyönyörű naplementéiről és lounge zenéjéről ismert, és rendeljen egy klasszikus aperitivót a nap lezárásaként.",
+            "ro": "Relaxați-vă la acest club de plajă la modă din sud, cunoscut pentru apusurile sale frumoase, și comandați un aperitiv clasic pentru a încheia perfect aventura cu bicicleta.",
+            "en": "Unwind at this trendy southern beach club known for its beautiful sunsets and lounge music, and order a classic aperitivo to perfectly round off your cycling adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Beginnen Sie Ihre Radtour am nördlichen Ende beim Bagno Alessandro und genießen Sie die frische Meeresbrise am Morgen.\n\n2. Radeln Sie gemütlich gen Süden und machen Sie Halt für Erfrischungen am Strand im Bagno Cesar und Bagno Calipso.\n\n3. Setzen Sie Ihre Fahrt entlang der Küste fort, gönnen Sie sich ein Mittagessen im Bagno Sabbia d'Oro 466 und ein Bad im Bagno Corallo.\n\n4. Beenden Sie Ihren aktiven Tag im Bagno Cala Celeste und beobachten Sie den Sonnenuntergang bei einem wohlverdienten abendlichen Aperitif.",
+        "hu": "1. Kezdje kerékpártúráját az északi végén a Bagno Alessandro-nál, élvezve a friss reggeli tengeri szellőt.\n\n2. Kényelmesen tekerjen dél felé, álljon meg egy kis frissítőre és tengerparti pihenésre a Bagno Cesar és a Bagno Calipso strandokon.\n\n3. Folytassa útját a part mentén, kényeztesse magát egy finom ebéddel a Bagno Sabbia d'Oro 466-ban, és mártózzon meg a Bagno Corallo-nál.\n\n4. Zárja aktív napját a Bagno Cala Celeste-ben, megcsodálva a naplementét egy jól megérdemelt esti aperitivo kíséretében.",
+        "ro": "1. Începeți turul cu bicicleta la capătul nordic la Bagno Alessandro, bucurându-vă de briza proaspătă a mării de dimineață.\n\n2. Pedați lin spre sud, oprindu-vă pentru o gustare și o relaxare pe plajă la Bagno Cesar și Bagno Calipso.\n\n3. Continuați plimbarea de-a lungul coastei, răsfățându-vă cu un prânz delicios la Bagno Sabbia d'Oro 466 și o baie la Bagno Corallo.\n\n4. Încheiați ziua activă la Bagno Cala Celeste, privind apusul cu un aperitiv binemeritat de seară.",
+        "en": "1. Kick off your cycling tour at the northern end with Bagno Alessandro, enjoying the crisp morning sea breeze.\n\n2. Pedal smoothly southwards, stopping for refreshments and beachside relaxation at Bagno Cesar and Bagno Calipso.\n\n3. Continue your ride along the coast, treating yourself to a delicious seafood lunch at Bagno Sabbia d'Oro 466 and a quick dip at Bagno Corallo.\n\n4. Conclude your active day at Bagno Cala Celeste, watching the sunset with a well-deserved evening aperitivo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "CISIM",
+            "hu": "CISIM",
+            "ro": "CISIM",
+            "en": "CISIM"
+          },
+          "coords": [
+            12.304781,
+            44.418116
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die engagierten kommunalen Kunstprojekte in diesem Kulturzentrum an und nutzen Sie die kostenlosen Parkplätze in der umliegenden Nachbarschaft.",
+            "hu": "Tekintse meg a helyi kulturális központ közösségi művészeti projektjeit, és használja ki a környező utcákban elérhető ingyenes parkolási lehetőségeket.",
+            "ro": "Descoperiți proiectele de artă comunitară la acest centru cultural local și profitați de parcarea gratuită pe stradă disponibilă în cartierul înconjurător.",
+            "en": "Check out engaging community art projects at this local cultural center, and take advantage of the free street parking available in the surrounding neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Azzurra hothel",
+            "hu": "Bagno Azzurra hothel",
+            "ro": "Bagno Azzurra hothel",
+            "en": "Bagno Azzurra hothel"
+          },
+          "coords": [
+            12.310862,
+            44.413024
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den komfortablen Annehmlichkeiten direkt am Wasser und fragen Sie an der Rezeption nach den täglichen Mietpaketen für Sonnenschirme und Liegen.",
+            "hu": "Kapcsolódjon ki a kényelmes, üdülőszerű létesítményekben közvetlenül a vízparton, és ne felejtsen el érdeklődni a recepción a napi napernyő- és napágybérlési csomagokról.",
+            "ro": "Relaxați-vă în facilitățile confortabile de tip resort chiar lângă apă și nu uitați să întrebați la recepție despre pachetele zilnice de închiriere de umbrele și șezlonguri.",
+            "en": "Unwind in the comfortable resort-style amenities right by the water, and remember to ask the front desk about daily beach umbrella and sunbed rental packages."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Sabbia d'Oro 466",
+            "hu": "Bagno Sabbia d'Oro 466",
+            "ro": "Bagno Sabbia d'Oro 466",
+            "en": "Bagno Sabbia d'Oro 466"
+          },
+          "coords": [
+            12.313361,
+            44.409219
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Genießen Sie authentische Küstenküche auf der renommierten Strandterrasse, aber kommen Sie kurz vor dem Mittagsansturm, um einen Parkplatz in der Nähe zu finden.",
+            "hu": "Lakmározzon autentikus tengerparti ételeket a híres tengerparti teraszon, de érkezzen kicsit az ebédidő csúcsa előtt, hogy kényelmes parkolóhelyet találjon a közelben.",
+            "ro": "Savurați bucătăria autentică de coastă pe renumita terasă la malul mării, dar asigurați-vă că ajungeți puțin înainte de aglomerația prânzului pentru a găsi parcare.",
+            "en": "Feast on authentic coastal cuisine at their renowned seaside patio, but be sure to arrive slightly before the lunch rush to find a convenient parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Auai Auai",
+            "hu": "Auai Auai",
+            "ro": "Auai Auai",
+            "en": "Auai Auai"
+          },
+          "coords": [
+            12.30845,
+            44.408774
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder die bunten Autoscooter und Parkattraktionen genießen und bedenken Sie, dass die Abende recht voll werden, sodass ein Nachmittagsbesuch entspannter ist.",
+            "hu": "Hagyja, hogy a gyerekek élvezzék a színes dodzsemeket és a park látványosságait, de tartsa szem előtt, hogy az esték elég forgalmasak, így a délutáni látogatás nyugodtabb.",
+            "ro": "Lăsați copiii să se bucure de mașinuțele colorate și de atracțiile parcului, dar rețineți că serile devin destul de aglomerate, așa că o vizită după-amiaza este mai relaxantă.",
+            "en": "Let the kids enjoy the colorful bumper cars and engaging park attractions, and keep in mind that evenings get quite busy so an afternoon visit is much more relaxed."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno La Rosa dei Venti",
+            "hu": "Bagno La Rosa dei Venti",
+            "ro": "Bagno La Rosa dei Venti",
+            "en": "Bagno La Rosa dei Venti"
+          },
+          "coords": [
+            12.314598,
+            44.405929
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem beruhigenden Rauschen der Wellen an diesem südlichen Strandabschnitt und mieten Sie ein Tretboot für einen kleinen Ausflug auf das sanfte Meer.",
+            "hu": "Hallgassa a hullámok nyugtató hangját ezen a pihentető déli strandon, és fontolja meg egy vízibicikli bérlését egy vidám kis kiránduláshoz a csendes tengeren.",
+            "ro": "Ascultați sunetul liniștitor al valurilor la acest loc relaxant de pe plaja din sud și luați în considerare închirierea unei hidrobiciclete pentru o mică excursie pe mare.",
+            "en": "Listen to the soothing sound of the waves at this relaxing southern beach spot, and consider renting a pedal boat for a fun little excursion out on the gentle sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Le Vele",
+            "hu": "Bagno Le Vele",
+            "ro": "Bagno Le Vele",
+            "en": "Bagno Le Vele"
+          },
+          "coords": [
+            12.315071,
+            44.404369
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang bei einem erfrischenden Spritz in diesem eleganten Beachclub und nutzen Sie die ausgewiesenen Gästeparkplätze direkt vor dem Eingang.",
+            "hu": "Csodálja meg a naplementét egy frissítő spritz kortyolgatása közben ebben az elegáns strandklubban, és használja ki a közvetlenül a bejárat előtt található vendégparkolót.",
+            "ro": "Prindeți apusul în timp ce savurați un șpriț răcoritor la acest club de plajă elegant și profitați de parcarea desemnată pentru oaspeți chiar la intrare.",
+            "en": "Catch the sunset while sipping a refreshing spritz at this elegant beach club, and take advantage of the designated guest parking right outside the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Beginnen Sie Ihre Autotour im kulturellen Herzen der Region mit einem inspirierenden morgendlichen Besuch im CISIM.\n\n2. Fahren Sie an die Küste und parken Sie bequem in der Nähe des Bagno Azzurra hothel und Bagno Sabbia d'Oro 466 für ein Mittagessen am Meer.\n\n3. Machen Sie am Nachmittag einen kurzen Abstecher ins Landesinnere, um familienfreundliche Unterhaltung im Auai Auai zu erleben.\n\n4. Fahren Sie weiter in den Süden, um den Tag mit friedlicher Küstenatmosphäre im Bagno La Rosa dei Venti und einem schicken Drink im Bagno Le Vele ausklingen zu lassen.",
+        "hu": "1. Kezdje autós túráját a környék kulturális szívében egy inspiráló reggeli látogatással a CISIM-ben.\n\n2. Irány a part, és parkoljon le kényelmesen a Bagno Azzurra hothel és a Bagno Sabbia d'Oro 466 közelében, hogy élvezze a déli napsütést és egy finom tengerparti ebédet.\n\n3. Tegyen egy gyors kitérőt a szárazföld belseje felé egy kis délutáni családbarát szórakozásért és izgalmakért az Auai Auai vidámparkban.\n\n4. Vezessen tovább délre, hogy a napot békés tengerparti hangulattal zárja a Bagno La Rosa dei Venti-ben és egy elegáns naplementés itallal a Bagno Le Vele-ben.",
+        "ro": "1. Începeți turul cu mașina în inima culturală a zonei cu o vizită matinală la CISIM.\n\n2. Îndreptați-vă spre coastă și parcați confortabil lângă Bagno Azzurra hothel și Bagno Sabbia d'Oro 466 pentru a vă bucura de soarele amiezii și de un prânz minunat.\n\n3. Faceți o scurtă plimbare spre interior pentru distracție în familie după-amiaza la Auai Auai.\n\n4. Conduceți mai spre sud pentru a încheia ziua cu vibrații pașnice de coastă la Bagno La Rosa dei Venti și o băutură șic la apus la Bagno Le Vele.",
+        "en": "1. Begin your driving tour at the cultural heart of the area with an inspiring morning visit to CISIM.\n\n2. Head to the coast and comfortably park near Bagno Azzurra hothel and Bagno Sabbia d'Oro 466 to enjoy the midday sun and a lovely seaside lunch.\n\n3. Take a quick drive inland for some afternoon family-friendly amusement and thrills at Auai Auai.\n\n4. Drive further south to round off the day with peaceful coastal vibes at Bagno La Rosa dei Venti and a chic sunset drink at Bagno Le Vele."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "bengkulu-cities-v2",
+  "anchor": {
+    "name": "Bengkulu",
+    "coords": [
+      102.265,
+      -3.791
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.61,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Simpang Lima",
+            "hu": "Tugu Simpang Lima",
+            "ro": "Tugu Simpang Lima",
+            "en": "Tugu Simpang Lima"
+          },
+          "coords": [
+            102.26597,
+            -3.797344
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das lebhafte Treiben von Bengkulu an dieser zentralen historischen Kreuzung, die tolle Fotomotive bietet, wenn Sie früh vor dem Verkehr anreisen.",
+            "hu": "Figyelje meg Bengkulu nyüzsgő életét ennél a központi történelmi kereszteződésnél, amely remek fotózási lehetőségeket kínál, ha korán, még a forgalom előtt érkezik.",
+            "ro": "Observați fluxul vibrant al orașului Bengkulu la această intersecție istorică centrală, care oferă oportunități foto excelente dacă sosiți devreme înaintea traficului.",
+            "en": "Observe the vibrant flow of Bengkulu at this central historical intersection, which offers great photo opportunities if you visit early before traffic builds up."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumah Fatmawati",
+            "hu": "Rumah Fatmawati",
+            "ro": "Rumah Fatmawati",
+            "en": "Rumah Fatmawati"
+          },
+          "coords": [
+            102.265388,
+            -3.798282
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie das erhaltene Haus von Indonesiens First Lady, um die Nähmaschine der ersten Nationalflagge zu sehen, und denken Sie daran, vor dem Eintreten die Schuhe auszuziehen.",
+            "hu": "Lépjen be Indonézia First Lady-jének megőrzött otthonába, ahol megtekintheti az első nemzeti zászló varrásához használt gépet, és ne felejtse el levenni a cipőjét belépés előtt.",
+            "ro": "Pășiți în casa conservată a Primei Doamne a Indoneziei pentru a vedea mașina de cusut folosită pentru primul steag național, amintindu-vă să vă descălțați înainte de a intra.",
+            "en": "Step into the preserved home of Indonesia's First Lady to see the sewing machine used for the first national flag, keeping in mind to remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumah Soekarno",
+            "hu": "Rumah Soekarno",
+            "ro": "Rumah Soekarno",
+            "en": "Rumah Soekarno"
+          },
+          "coords": [
+            102.261265,
+            -3.799028
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Exilresidenz des indonesischen Gründervaters mit seinen Originalmöbeln und kommen Sie am frühen Nachmittag, um den ruhigen Innenhof zu genießen.",
+            "hu": "Fedezze fel Indonézia alapító atyjának elegáns száműzetési rezidenciáját, ahol eredeti bútorait őrzik, és érkezzen kora délután, hogy kiélvezze a békés udvart.",
+            "ro": "Explorați reședința elegantă de exil a tatălui fondator al Indoneziei, unde se păstrează mobilierul său original, și sosiți la începutul după-amiezii pentru curtea pașnică.",
+            "en": "Explore the elegant exile residence of Indonesia's founding father where his original furniture is kept, and arrive in the early afternoon to enjoy the peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+            "hu": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+            "ro": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+            "en": "Masjid Khalifah SMPN 02 Kota Bengkulu"
+          },
+          "coords": [
+            102.273589,
+            -3.795163
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung in dieser wunderschön gepflegten, an eine Schule angeschlossenen Moschee, aber kleiden Sie sich aus Respekt vor den Gläubigen bescheiden.",
+            "hu": "Tartson egy pillanatnyi elmélkedést ennél az iskolához csatolt, szépen karbantartott helyi mecsetnél, de kérjük, öltözzön szerényen a diákok és a hívők tiszteletére.",
+            "ro": "Luați-vă un moment de reflecție la această moschee locală frumos întreținută, atașată unei școli, dar îmbrăcați-vă modest din respect pentru elevi și credincioși.",
+            "en": "Take a moment of reflection at this beautifully maintained local mosque attached to a school, but please dress modestly out of respect for the students and worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Simpang Padang Jati",
+            "hu": "Simpang Padang Jati",
+            "ro": "Simpang Padang Jati",
+            "en": "Simpang Padang Jati"
+          },
+          "coords": [
+            102.272339,
+            -3.800475
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser wichtigen historischen Kreuzung, die die Stadtentwicklung widerspiegelt, und probieren Sie an den nahegelegenen Ständen einen authentischen Snack.",
+            "hu": "Fejezze be sétáját ennél a kulcsfontosságú történelmi kereszteződésnél, amely a város fejlődését tükrözi, és kóstoljon meg egy autentikus helyi snacket a közeli utcai árusoknál.",
+            "ro": "Încheiați-vă plimbarea la această intersecție istorică cheie care reflectă dezvoltarea urbană, verificând tarabele stradale din apropiere pentru o gustare locală autentică.",
+            "en": "Conclude your walk at this key historical intersection that reflects the urban development of the city, checking the nearby street stalls for an authentic local snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Bengkulu am Tugu Simpang Lima. Die sanfte Morgenbrise ist perfekt, um die Stadt zu Fuß zu erkunden.\n\nAm Mittag tauchen Sie in die Geschichte der indonesischen Gründerfamilie ein. Sie spazieren zwischen den erhaltenen Häusern von Fatmawati und Soekarno.\n\nAm Nachmittag ändert sich das Tempo auf dem Weg zu einem spirituellen Zentrum. Das Moscheegelände bietet einen ruhigen Moment der Besinnung.\n\nBeenden Sie Ihre Tour am Simpang Padang Jati. Diese lebhafte Kreuzung ist der ideale Ort für einen Snack und um das Erbe dieser Stadt zu reflektieren.",
+        "hu": "Kezdje a reggelt Bengkulu történelmi szívében, a nyüzsgő Tugu Simpang Lima-nál. A lágy reggeli szellő tökéletes alaphangot ad a város gyalogos felfedezéséhez.\n\nDélig áttérhet az indonéz alapító család megható történelmére. Sétáljon közvetlenül Fatmawati és Soekarno gyönyörűen megőrzött házai között.\n\nDélután a tempó megváltozik, ahogy egy helyi spirituális központ felé halad. A mecset környéke csendes pillanatot kínál a főutcáktól távol.\n\nFejezze be sétáját a Simpang Padang Jati-nál. Ez a kereszteződés ideális hely egy helyi snack elfogyasztására és a város örökségének átgondolására.",
+        "ro": "Începeți dimineața în inima istorică a orașului Bengkulu, la Tugu Simpang Lima. Briza blândă este perfectă pentru a explora orașul la pas.\n\nLa prânz, treceți în istoria familiei fondatoare a Indoneziei. Veți merge între casele frumos conservate ale lui Fatmawati și Soekarno.\n\nDupă-amiaza, ritmul se schimbă în timp ce vă plimbați spre un centru spiritual local. Terenul moscheii oferă un moment liniștit de reflecție.\n\nÎncheiați-vă turul la Simpang Padang Jati. Această intersecție plină de viață este locul ideal pentru a gusta ceva local și a reflecta la patrimoniu.",
+        "en": "Begin your morning in the historical heart of Bengkulu, starting at the vibrant Tugu Simpang Lima. The gentle morning breeze sets a perfect tone for exploring the city on foot.\n\nBy midday, transition into the poignant history of Indonesia's founding family. You will walk closely between the beautifully preserved houses of Fatmawati and Soekarno.\n\nIn the afternoon, the pace shifts as you stroll towards a local spiritual center. Visiting the mosque grounds provides a quiet moment of reflection away from the main streets.\n\nConclude your walking tour at Simpang Padang Jati. This lively intersection is the ideal place to grab a local snack and reflect on the deep heritage of this Sumatran city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 3.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumen Thomas Parr",
+            "hu": "Monumen Thomas Parr",
+            "ro": "Monumen Thomas Parr",
+            "en": "Monumen Thomas Parr"
+          },
+          "coords": [
+            102.250674,
+            -3.788793
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag an diesem umstrittenen achteckigen Denkmal für einen britischen Residenten, das sich am besten im weichen Morgenlicht fotografieren lässt.",
+            "hu": "Kezdje a kerékpáros napot ennél a vitatott, egy brit lakosnak szentelt nyolcszögletű emlékműnél, amelyet a lágy reggeli fényben érdemes a leginkább fotózni.",
+            "ro": "Începeți-vă ziua de ciclism la acest monument octogonal controversat dedicat unui rezident britanic, care este cel mai bine fotografiat în lumina blândă a dimineții.",
+            "en": "Start your cycling day at this controversial octagonal monument dedicated to a British resident, which is best photographed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Marlborough",
+            "hu": "Fort Marlborough",
+            "ro": "Fort Marlborough",
+            "en": "Fort Marlborough"
+          },
+          "coords": [
+            102.251786,
+            -3.787166
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese massive, von Briten erbaute Festung, um mehr über die Kolonialgeschichte zu erfahren, und erklimmen Sie die Wälle für spektakuläre Küstenausblicke.",
+            "hu": "Barangoljon ebben a hatalmas, britek által épített erődben, hogy megismerje a gyarmati történelmet, és másszon fel a bástyákra a tengerpart látványáért.",
+            "ro": "Plimbați-vă prin această fortăreață masivă britanică pentru istoria colonială și urcați pe metereze pentru vederi spectaculoase ale coastei.",
+            "en": "Wander through this massive British-built fortress to learn about the region's colonial history, and climb the ramparts for spectacular views of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla",
+            "hu": "Musholla",
+            "ro": "Musholla",
+            "en": "Musholla"
+          },
+          "coords": [
+            102.261511,
+            -3.787513
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine ruhige Pause in der Nähe dieses kleinen Gebetsraums im Viertel und stellen Sie sicher, dass Sie Ihr Fahrrad sicher abschließen, bevor Sie sich ausruhen.",
+            "hu": "Tartson egy csendes szünetet e környéken megbúvó kis imaterem közelében, ügyelve arra, hogy a kerékpárját biztonságosan lezárja, mielőtt megpihen.",
+            "ro": "Faceți o pauză liniștită lângă această mică sală de rugăciune ascunsă în cartier, asigurându-vă că vă blocați bine bicicleta înainte de a vă odihni.",
+            "en": "Pause for a quiet break near this small prayer hall tucked in the neighborhood, ensuring you leave your bicycle securely locked before taking a rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumah Soekarno",
+            "hu": "Rumah Soekarno",
+            "ro": "Rumah Soekarno",
+            "en": "Rumah Soekarno"
+          },
+          "coords": [
+            102.261265,
+            -3.799028
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um die elegante Exilresidenz des indonesischen Gründervaters mit seinen Originalmöbeln zu erkunden und den ruhigen Innenhof zu genießen.",
+            "hu": "Parkolja le kerékpárját, hogy felfedezze Indonézia alapító atyjának száműzetési rezidenciáját, ahol eredeti bútorait őrzik a békés udvar mellett.",
+            "ro": "Parcați-vă bicicleta pentru a explora reședința de exil a tatălui fondator al Indoneziei unde se păstrează mobilierul original, bucurându-vă de curtea pașnică.",
+            "en": "Park your bike to explore the elegant exile residence of Indonesia's founding father where his original furniture is kept, enjoying the peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Panjang",
+            "hu": "Pantai Panjang",
+            "ro": "Pantai Panjang",
+            "en": "Pantai Panjang"
+          },
+          "coords": [
+            102.25984,
+            -3.805854
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt mit einer Radtour an diesem atemberaubenden, mit Pinien bewachsenen Strand, um rechtzeitig einen atemberaubenden Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be a tekerést ezen a lenyűgöző, fenyőfákkal díszített hosszú strandon, pont időben érkezve egy lélegzetelállító naplemente megtekintéséhez.",
+            "ro": "Terminați plimbarea pedalând de-a lungul acestei plaje lungi uimitoare împodobite cu pini, sosind la timp pentru a privi un apus de soare uluitor.",
+            "en": "Finish your ride by cycling along this stunning long beach adorned with pine trees, arriving just in time to watch a breathtaking sunset over the Indian Ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt frisch in Ufernähe am Thomas Parr Monument. Die leeren morgendlichen Straßen machen das Radfahren sicher und angenehm.\n\nAm Mittag erkunden Sie die imposanten Mauern von Fort Marlborough, bevor Sie zu einer ruhigen Musholla fahren. Die Meeresbrise hält die Fahrt angenehm.\n\nNach einer Pause radeln Sie bei Rumah Soekarno zurück in die nationale Geschichte. Die schattigen Straßen bieten hier eine sehr angenehme Fahrt.\n\nBeenden Sie den Tag, indem Sie den Pantai Panjang entlangfahren. Der lange Strand belohnt Sie mit einem unglaublichen Sonnenuntergang über dem Indischen Ozean.",
+        "hu": "Kerékpáros utazása a part közelében, a Thomas Parr emlékműnél kezdődik. Az üres reggeli utcák biztonságossá és élvezetessé teszik a tekerést.\n\nFélidőben felfedezi a Fort Marlborough falait, majd egy csendes imateremhez teker. A tengeri szellő kényelmessé teszi az utazást.\n\nEgy pihentető szünet után a Rumah Soekarnónál újra a nemzeti történelembe teker. Az árnyékos utcák kellemes utazást biztosítanak a trópusi nap alatt.\n\nZárja a napot a híres Pantai Panjang mentén. A hosszú, fenyőfás strand hihetetlen naplementével jutalmazza meg az Indiai-óceán felett.",
+        "ro": "Călătoria pe bicicletă începe proaspăt lângă țărm, la Monumentul Thomas Parr. Străzile goale de dimineață fac pedalarea sigură și plăcută.\n\nLa prânz explorați zidurile impunătoare de la Fort Marlborough înainte de a merge la o musholla liniștită. Briza mării menține plimbarea confortabilă.\n\nDupă o pauză, pedalați în istoria națională la Rumah Soekarno. Străzile umbrite oferă o plimbare plăcută sub soarele tropical.\n\nÎncheiați ziua mergând spre sud pe Pantai Panjang. Plaja lungă cu pini vă răsplătește cu un apus incredibil peste Oceanul Indian.",
+        "en": "Your cycling journey starts fresh near the shore at the intriguing Thomas Parr Monument. The empty morning streets make it safe and enjoyable to pedal around.\n\nMidday finds you exploring the imposing walls of Fort Marlborough before taking a short ride to a quiet neighborhood musholla. The sea breeze keeps the ride comfortable.\n\nAfter a restful break, you pedal back into national history at Rumah Soekarno. The shaded streets along this stretch offer a pleasant ride under the tropical sun.\n\nEnd the day riding south along the famous Pantai Panjang. The long stretch of beach and pine trees rewards you with an incredible sunset reflecting off the Indian Ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 22.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Hiu",
+            "hu": "Tugu Hiu",
+            "ro": "Tugu Hiu",
+            "en": "Tugu Hiu"
+          },
+          "coords": [
+            102.310889,
+            -3.766628
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem ikonischen Hai-Denkmal, das dem lokalen Fischererbe huldigt und als ausgezeichneter Fotostopp am Straßenrand dient.",
+            "hu": "Kezdje a vezetést ennél az ikonikus cápa emlékműnél, amely a helyi halászati örökség előtt tiszteleg, és kiváló út menti fotómegállóként szolgál.",
+            "ro": "Începeți-vă drumul la acest monument iconic de rechin care aduce un omagiu patrimoniului local de pescuit, servind ca un excelent popas foto.",
+            "en": "Begin your drive at this iconic shark monument that pays homage to the local fishing heritage, which serves as an excellent roadside photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musium Provinsi Bengkulu",
+            "hu": "Musium Provinsi Bengkulu",
+            "ro": "Musium Provinsi Bengkulu",
+            "en": "Musium Provinsi Bengkulu"
+          },
+          "coords": [
+            102.287325,
+            -3.815613
+          ],
+          "category": "museum",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem umfassenden Museum eine reiche Sammlung von Artefakten und Textilien aus Sumatra und nehmen Sie sich mindestens eine Stunde Zeit.",
+            "hu": "Fedezzen fel egy gazdag szumátrai műtárgy- és textilgyűjteményt ebben az átfogó múzeumban, legalább egy órát szánva a kulturális kiállításokra.",
+            "ro": "Descoperiți o colecție bogată de artefacte și textile tradiționale sumatreze la acest muzeu cuprinzător, alocând cel puțin o oră pentru exponatele culturale.",
+            "en": "Discover a rich collection of Sumatran artifacts and traditional textiles at this comprehensive museum, allocating at least an hour to appreciate the cultural exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Simpang Hibrida",
+            "hu": "Simpang Hibrida",
+            "ro": "Simpang Hibrida",
+            "en": "Simpang Hibrida"
+          },
+          "coords": [
+            102.307279,
+            -3.82178
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch diese lebhafte historische Kreuzung, die Bengkulus moderne Expansion zeigt, und werden Sie langsamer, um die geschäftigen Märkte zu beobachten.",
+            "hu": "Navigáljon át ezen az élénk történelmi kereszteződésen, amely Bengkulu modern terjeszkedését mutatja be, lelassítva a nyüzsgő helyi piacok megfigyeléséhez.",
+            "ro": "Navigați prin această intersecție istorică plină de viață care prezintă expansiunea modernă a orașului Bengkulu, încetinind pentru a observa piețele locale aglomerate.",
+            "en": "Navigate through this lively historic crossroad that showcases Bengkulu's modern expansion, slowing down to observe the bustling local markets nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedung Sensas",
+            "hu": "Gedung Sensas",
+            "ro": "Gedung Sensas",
+            "en": "Gedung Sensas"
+          },
+          "coords": [
+            102.27582,
+            -3.757557
+          ],
+          "category": "cultural",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Linien dieses bedeutenden Kulturgebäudes und parken Sie in der Nähe, um Details der Fassade zu fotografieren, bevor Sie zum Theater gehen.",
+            "hu": "Csodálja meg e jelentős kulturális épület építészeti vonalait, a közelben parkolva, hogy megörökítse egyedi homlokzatát, mielőtt elsétál a színházhoz.",
+            "ro": "Admirați liniile arhitecturale ale acestei clădiri culturale semnificative, parcând în apropiere pentru a surprinde detaliile fațadei înainte de a merge la teatru.",
+            "en": "Admire the architectural lines of this significant cultural building, parking nearby to capture details of its unique facade before walking to the theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Outdoor Teater",
+            "hu": "Outdoor Teater",
+            "ro": "Outdoor Teater",
+            "en": "Outdoor Teater"
+          },
+          "coords": [
+            102.274596,
+            -3.758276
+          ],
+          "category": "cultural",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu diesem lebendigen Kulturraum im Freien, in dem am späten Nachmittag gelegentlich traditionelle Tanzproben stattfinden.",
+            "hu": "Tegyen egy rövid sétát ehhez a nyüzsgő szabadtéri kulturális térhez, amely késő délutánonként alkalmanként hagyományos táncpróbáknak ad otthont.",
+            "ro": "Faceți o scurtă plimbare până la acest spațiu cultural vibrant în aer liber, care găzduiește ocazional repetiții de dans tradițional în timpul după-amiezii târzii.",
+            "en": "Take a short walk over to this vibrant outdoor cultural space, which occasionally hosts traditional dance rehearsals during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Marlborough",
+            "hu": "Fort Marlborough",
+            "ro": "Fort Marlborough",
+            "en": "Fort Marlborough"
+          },
+          "coords": [
+            102.251786,
+            -3.787166
+          ],
+          "category": "museum",
+          "arrive_at": "17:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren umfassenden Roadtrip mit der Erkundung der massiven Wälle dieses historischen Küstenforts, das den perfekten erhöhten Aussichtspunkt bietet.",
+            "hu": "Zárja le az autós utazást e történelmi part menti erőd hatalmas bástyáinak felfedezésével, amely tökéletes kilátópontot kínál az esti fényekhez.",
+            "ro": "Încheiați-vă călătoria cuprinzătoare explorând meterezele masive ale acestui fort istoric de coastă, oferind punctul de observație perfect pentru vederi de amurg.",
+            "en": "Wrap up your comprehensive road trip by exploring the massive ramparts of this historic coastal fort, offering the perfect elevated vantage point for twilight views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am Rande der Stadt mit dem Tugu Hiu. Wenn Sie morgens fahren, können Sie dem starken Verkehr ausweichen und längere Strecken zurücklegen.\n\nGegen Mittag tauchen Sie im Provinzmuseum in Sumatras Erbe ein. Der Komfort Ihres Autos macht die Fahrt durch das geschäftige Simpang Hibrida mühelos.\n\nAm Nachmittag parken Sie Ihr Fahrzeug, um die Kulturzone zu erkunden. Gedung Sensas und das Theater zeigen lokale Kunst in einem kompakten Bereich.\n\nFahren Sie abends in Richtung Küste nach Fort Marlborough. Der massive Kolonialbau ist in der Abenddämmerung spektakulär beleuchtet.",
+        "hu": "Kezdje autós utazását a külvárosban az ikonikus Tugu Hiu-nál. A reggeli vezetés lehetővé teszi, hogy elkerülje a nagy forgalmat, miközben nagyobb távokat tesz meg.\n\nAhogy közeledik a dél, merüljön el Szumátra örökségében a Tartományi Múzeumban. Az autó kényelme könnyűvé teszi a nyüzsgő Simpang Hibrida navigálását.\n\nDélután parkolja le járművét a város kulturális zónájának felfedezéséhez. A Gedung Sensas és a szabadtéri színház helyi művészeteket mutat be.\n\nEste vezessen a part felé a Fort Marlborough-hoz. A hatalmas gyarmati építmény szürkületkor látványosan ki van világítva, drámai lezárást nyújtva.",
+        "ro": "Începeți-vă călătoria la periferie cu iconicul Tugu Hiu. Conducerea dimineața vă permite să evitați traficul intens în timp ce parcurgeți distanțe mai lungi.\n\nSpre prânz, aprofundați patrimoniul Sumatrei la Muzeul Provincial. Confortul mașinii face ca navigarea prin aglomeratul Simpang Hibrida să fie ușoară.\n\nDupă-amiaza, parcați vehiculul pentru a explora zona culturală. Gedung Sensas și Teatrul în aer liber prezintă artele locale într-o zonă compactă.\n\nPentru seară, conduceți spre coastă până la Fort Marlborough. Structura colonială masivă este iluminată spectaculos la amurg, oferind un final dramatic.",
+        "en": "Kick off your road trip at the outskirts with the iconic Tugu Hiu. Driving in the morning allows you to beat the heavy traffic while covering longer distances.\n\nAs midday approaches, dive deep into Sumatra's heritage at the Provincial Museum. The comfort of your car makes navigating through the bustling Simpang Hibrida effortless.\n\nIn the afternoon, park your vehicle to explore the city's cultural zone. The nearby Gedung Sensas and Outdoor Teater showcase local arts in a compact, walkable area.\n\nFor the evening, drive toward the coast to reach Fort Marlborough. The massive colonial structure is spectacularly lit at dusk, providing a dramatic end to your comprehensive tour."
+      }
+    }
+  }
+}

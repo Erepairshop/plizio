@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-q2771917-cities-v2",
+  "anchor": {
+    "name": "Q2771917",
+    "coords": [
+      -3.58,
+      53.28
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Paul's",
+            "hu": "St. Paul's",
+            "ro": "St. Paul's",
+            "en": "St. Paul's"
+          },
+          "coords": [
+            -3.580018,
+            53.28396
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Pfarrkirche, einem Eckpfeiler der Gemeinde, und kommen Sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a helyi közösség alappillérének számító plébániatemplom építészetét, és érkezzen korán, hogy élvezhesse a békés reggeli fényeket az ólomüveg ablakokon át.",
+            "ro": "Admirați arhitectura acestei biserici parohiale, o piatră de temelie a comunității, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții prin vitralii.",
+            "en": "Admire the striking architecture of this local parish church, a cornerstone of the community, and arrive early to enjoy the peaceful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "The Peel",
+            "hu": "The Peel",
+            "ro": "The Peel",
+            "en": "The Peel"
+          },
+          "coords": [
+            -3.580112,
+            53.285368
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Stätte, die einen Einblick in das reiche Erbe der Region bietet, aber tragen Sie unbedingt bequeme Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Fedezze fel ezt a történelmi helyszínt, amely bepillantást enged a régió gazdag örökségébe, de mindenképpen viseljen kényelmes cipőt, mivel a környező ösvények egyenetlenek.",
+            "ro": "Explorați acest sit istoric care oferă o privire asupra bogatei moșteniri a regiunii, dar asigurați-vă că purtați pantofi comozi, deoarece cărările din jur sunt inegale.",
+            "en": "Explore this historic site which offers a glimpse into the region's rich heritage, but be sure to wear comfortable walking shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Oak House",
+            "hu": "Oak House",
+            "ro": "Oak House",
+            "en": "Oak House"
+          },
+          "coords": [
+            -3.583658,
+            53.286473
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das traditionelle Design dieses bemerkenswerten historischen Gebäudes, das die lokale Geschichte einfängt, und nehmen Sie sich Zeit für detaillierte Fotos.",
+            "hu": "Csodálja meg ennek a helyi történelmet tökéletesen megörökítő épületnek a hagyományos dizájnját, és szánjon egy percet a bonyolult külső részletek lefotózására a sétája során.",
+            "ro": "Minunați-vă de designul tradițional al acestei clădiri istorice notabile și acordați-vă un moment pentru a fotografia detaliile exterioare complexe care o fac cu adevărat unică.",
+            "en": "Marvel at the traditional design of this notable historical building that perfectly captures local history, and take a moment to photograph its intricate exterior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of St Teresa of Lisieux",
+            "hu": "Church of St Teresa of Lisieux",
+            "ro": "Church of St Teresa of Lisieux",
+            "en": "Church of St Teresa of Lisieux"
+          },
+          "coords": [
+            -3.582302,
+            53.287533
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in dieser ruhigen katholischen Kirche, die für ihre einladende Atmosphäre bekannt ist, und achten Sie auf aktuelle Veranstaltungen.",
+            "hu": "Töltsön el egy csendes percet ebben a barátságos légköréről ismert, békés katolikus templomban, és látogatása során nézze meg a hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Petreceți un moment de liniște în această biserică catolică senină, cunoscută pentru atmosfera sa primitoare, și verificați avizierul pentru evenimentele comunitare viitoare.",
+            "en": "Take a quiet moment inside this serene Catholic church known for its welcoming atmosphere, and check the notice board for any upcoming community events during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Children's Play Area",
+            "hu": "Children's Play Area",
+            "ro": "Children's Play Area",
+            "en": "Children's Play Area"
+          },
+          "coords": [
+            -3.585184,
+            53.28952
+          ],
+          "category": "family",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem gut ausgestatteten Park, der Spaß für alle Altersgruppen bietet, Energie abbauen und bringen Sie leichte Snacks für die nahegelegenen Bänke mit.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a jól felszerelt parkban, és hozzon magával néhány könnyű harapnivalót, amelyeket a kényelmes közeli padokon fogyaszthat.",
+            "ro": "Lăsați copiii să-și consume energia în acest parc bine echipat care oferă distracție pentru toate vârstele și aduceți câteva gustări ușoare pentru a le savura pe băncile din jur.",
+            "en": "Let the kids burn off some energy at this well-equipped park that offers fun for all ages, and bring along some light snacks to enjoy on the convenient nearby seating benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Surfside Cafe Crazy Golf",
+            "hu": "Surfside Cafe Crazy Golf",
+            "ro": "Surfside Cafe Crazy Golf",
+            "en": "Surfside Cafe Crazy Golf"
+          },
+          "coords": [
+            -3.584788,
+            53.294489
+          ],
+          "category": "family",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einer lustigen Partie Minigolf direkt an der Küste und gönnen Sie sich im angrenzenden Café einen warmen Kaffee oder ein leckeres Eis zur Belohnung.",
+            "hu": "Fejezze be a sétát egy vidám minigolf partival a part mentén, és lepje meg magát egy meleg kávéval vagy fagylalttal a szomszédos kávézóban a meccs végén.",
+            "ro": "Încheiați-vă turul cu o rundă distractivă de mini-golf chiar pe coastă și răsfățați-vă cu o cafea caldă sau o înghețată la cafeneaua alăturată în timp ce țineți scorul împreună.",
+            "en": "End your walking tour with a fun round of crazy golf right by the coast, and treat yourself to a warm coffee or ice cream at the adjoining cafe while keeping score together."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem ruhigen Besuch von St. Paul's, wo die Architektur eine besinnliche Stimmung erzeugt. Ein kurzer Spaziergang bringt Sie zu The Peel, um in die Geschichte einzutauchen.\n\nMittags besichtigen Sie das Oak House, ein historisches Juwel, das Einblicke in die Vergangenheit der Region bietet. Danach besuchen wir die Kirche St. Teresa von Lisieux für einen ruhigen Moment.\n\nDer Nachmittag verläuft in einem entspannteren und familienfreundlicheren Tempo, wenn Sie am örtlichen Kinderspielplatz ankommen. Ein toller Ort, um sich auszuruhen und die Kinder spielen zu lassen.\n\nDer Abend nähert sich mit einem herrlichen Abschluss an der Küste beim Surfside Cafe Crazy Golf. Genießen Sie einen freundschaftlichen Wettbewerb und eine wohlverdiente Belohnung.",
+        "hu": "A reggel a St. Paul's templom békés meglátogatásával kezdődik, ahol a gyönyörű építészet elgondolkodtató hangulatot teremt. Egy rövid séta elviszi a The Peelhez, elmerülve a helyi történelemben.\n\nA délben az Oak House meglátogatása következik, egy újabb történelmi gyöngyszem, amely mély bepillantást nyújt a régió múltjába. Ezután a Lisieux-i Szent Teréz templom felé vesszük az irányt.\n\nA délután egy lazább és családbarátabb tempóra vált, amikor megérkezik a helyi játszótérre. Ez egy nagyszerű hely a pihenésre, miközben a legkisebbek szabadon játszhatnak a friss levegőn.\n\nAz este egy elragadó parti befejezéssel közeledik a Surfside Cafe minigolfpályájánál. Élvezze a barátságos versengést és egy jól megérdemelt finomságot a kellemes sétaút lezárásaként.",
+        "ro": "Dimineața începe cu o vizită senină la St. Paul's, unde arhitectura frumoasă creează o atmosferă reflexivă. O scurtă plimbare vă duce la The Peel, cufundându-vă în istoria locală fascinantă.\n\nLa prânz veți vizita Oak House, o altă bijuterie istorică ce oferă o perspectivă profundă asupra trecutului. Apoi ne îndreptăm spre Biserica Sf. Tereza de Lisieux pentru un moment de liniște.\n\nDupă-amiaza trece la un ritm mai relaxat și familial pe măsură ce ajungeți la locul de joacă pentru copii. Este un loc minunat pentru a vă odihni și a lăsa copiii să se joace liber.\n\nSeara se apropie cu un final încântător pe coastă la Surfside Cafe Crazy Golf. Bucurați-vă de o competiție amicală și de o gustare bine meritată pentru a încheia acest tur pietonal relaxant.",
+        "en": "Morning begins with a serene visit to St. Paul's, where beautiful architecture sets a reflective tone. A short stroll takes you to The Peel, immersing you in the local history.\n\nMidday features a visit to Oak House, another historical gem offering deep insights into the region's past. We then move towards the Church of St Teresa of Lisieux for a quiet moment.\n\nThe afternoon shifts to a more relaxed and family-friendly pace as you arrive at the local Children's Play Area. It's a great spot to rest and let the younger ones play.\n\nEvening approaches with a delightful coastal finish at the Surfside Cafe Crazy Golf. Enjoy some friendly competition and a well-deserved treat to conclude your leisurely walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gwrych Castle",
+            "hu": "Gwrych Castle",
+            "ro": "Gwrych Castle",
+            "en": "Gwrych Castle"
+          },
+          "coords": [
+            -3.608807,
+            53.283275
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die dramatischen Ruinen und weitläufigen Gärten dieses Schlosses, aber stellen Sie sich auf eine steile Auffahrt ein, also teilen Sie Ihre Kräfte gut ein.",
+            "hu": "Fedezze fel az ikonikus kastély drámai romjait és kiterjedt kertjeit, de készüljön fel a meredek emelkedőkre, így ossza be az erejét, miközben felteker a főbejárathoz.",
+            "ro": "Descoperiți ruinele dramatice și grădinile întinse ale acestui castel, dar fiți pregătiți pentru o urcare abruptă cu bicicleta, așa că dozați-vă efortul în mod corespunzător.",
+            "en": "Discover the dramatic ruins and sprawling gardens of this iconic castle, but be prepared for a steep uphill cycle to reach the main entrance so pace yourself accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Cawr",
+            "hu": "Castell Cawr",
+            "ro": "Castell Cawr",
+            "en": "Castell Cawr"
+          },
+          "coords": [
+            -3.597716,
+            53.276604
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch üppige Wälder zu dieser alten Wallburg mit spektakulärer Aussicht und bringen Sie ein sicheres Schloss mit, um den letzten felsigen Pfad zu erwandern.",
+            "hu": "Tekerjen át a buja erdőkön, hogy felfedezze ezt az ősi hegyi erődöt, és hozzon magával biztonságos kerékpárzárat, hogy nyugodtan túrázhasson az utolsó sziklás ösvényen.",
+            "ro": "Pedalați prin pădurile luxuriante pentru a descoperi această cetate antică și aduceți un lacăt sigur pentru bicicletă, astfel încât să puteți face drumeția finală în siguranță.",
+            "en": "Cycle through lush woodlands to uncover this ancient hillfort with spectacular views, and bring a secure bike lock so you can safely hike the final rugged woodland trail."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's",
+            "hu": "St. Paul's",
+            "ro": "St. Paul's",
+            "en": "St. Paul's"
+          },
+          "coords": [
+            -3.580018,
+            53.28396
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um die gotische Architektur dieses Wahrzeichens zu würdigen, und nutzen Sie die Fahrradständer in der Nähe, während Sie den schönen Altar bewundern.",
+            "hu": "Szakítsa meg útját, hogy értékelje ennek a helyi nevezetességnek a gótikus építészetét, és használja a közeli kerékpártárolókat, amíg bemegy megcsodálni a gyönyörű oltárt.",
+            "ro": "Faceți o pauză pentru a aprecia arhitectura gotică izbitoare a acestui punct de reper și folosiți suporturile pentru biciclete din apropiere în timp ce admirați frumosul altar.",
+            "en": "Pause your ride to appreciate the striking gothic architecture of this local landmark, and use the nearby cycle racks while you step inside to admire the beautiful altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sacred Tree/witches circle",
+            "hu": "Sacred Tree/witches circle,",
+            "ro": "Sacred Tree/witches circle",
+            "en": "Sacred Tree/witches circle"
+          },
+          "coords": [
+            -3.574816,
+            53.270689
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Verlassen Sie die ausgetretenen Pfade, um diesen mystischen, in Folklore gehüllten Ort zu finden, und respektieren Sie die Umwelt, indem Sie Ihr Rad auf den Wegen lassen.",
+            "hu": "Térjen le a kitaposott ösvényről, hogy megtalálja ezt a folklórral övezett misztikus helyet, és tisztelje a kényes környezetet azzal, hogy kerékpárját a kijelölt utakon tartja.",
+            "ro": "Abateți-vă de la traseele obișnuite pentru a găsi acest loc mistic învăluit în folclor și respectați mediul delicat păstrând bicicleta doar pe potecile special marcate.",
+            "en": "Step off the beaten path to find this mystical natural site shrouded in local folklore, and respect the delicate environment by keeping your bicycle on the marked pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "The Warren",
+            "hu": "The Warren",
+            "ro": "The Warren",
+            "en": "The Warren"
+          },
+          "coords": [
+            -3.562557,
+            53.269795
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Fahrt durch dieses malerische Naturschutzgebiet voller Wildtiere und denken Sie daran, sanft zu klingeln, um Fußgänger auf dem Weg zu warnen.",
+            "hu": "Élvezze a kényelmes tekerést ezen a helyi vadvilágtól nyüzsgő festői természetvédelmi területen, és ne felejtsen el halkan csengetni, hogy figyelmeztesse a sétálókat az úton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această rezervație pitorească plină de faună și amintiți-vă să sunați ușor din clopoțel pentru a avertiza pietonii pe traseele comune.",
+            "en": "Enjoy a leisurely cycle through this picturesque nature reserve teeming with local wildlife, and remember to ring your bell gently to alert walkers on the shared trails."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George's Church",
+            "hu": "St. George's Church",
+            "ro": "St. George's Church",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            -3.540063,
+            53.269246
+          ],
+          "category": "religious",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag an dieser idyllischen Kirche in einem friedlichen Dorf, die einen ruhigen Ort bietet, um Ihre Beine vor der letzten Rückfahrt in die Stadt auszuruhen.",
+            "hu": "Zárja a kerékpáros napot ennél az ódon történelmi templomnál, amely egy békés faluban található, és nyugodt helyet kínál a pihenésre a városba vezető végső utazás előtt.",
+            "ro": "Încheiați ziua de ciclism la această biserică istorică dintr-un sat pașnic, oferind un loc liniștit pentru a vă odihni picioarele înainte de călătoria finală spre oraș.",
+            "en": "Conclude your cycling day at this quaint historic church set in a peaceful village, offering a tranquil spot to rest your legs before making your final journey back to town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer energiegeladenen Fahrt zum Gwrych Castle, die den majestätischen Ton für den Tag angibt. Danach radeln Sie zum Castell Cawr für atemberaubende Ausblicke.\n\nGegen Mittag fahren Sie zurück in die Stadt, um die Architektur von St. Paul's zu bewundern. Die Route führt Sie dann zu den mystischen Legenden rund um den Heiligen Baum.\n\nAm Nachmittag verlangsamt sich das Tempo, während Sie durch The Warren radeln, eine wunderschöne Naturlandschaft, die sich perfekt zur Tierbeobachtung und Erholung anbietet.\n\nDie abendliche Fahrt endet im ruhigen Dorf rund um die St.-Georgs-Kirche. Es ist ein friedlicher, besinnlicher Abschluss eines aktiven Radtages durch Geschichte und grüne Landschaften.",
+        "hu": "A reggel egy energikus tekeréssel kezdődik a Gwrych kastélyhoz, amely megadja a nap fenséges alaphangját. Innen az ősi Castell Cawr felé indul, hogy lenyűgöző kilátásban legyen része.\n\nDélben visszaereszkedik a városba, hogy megcsodálja a St. Paul's templom építészetét. Az útvonal ezután a helyi Szent Fát körülvevő misztikus legendák felfedezésére csábítja.\n\nDélután a tempó lelassul, ahogy átteker a The Warren gyönyörű természeti területén, amely tökéletes a vadvilág megfigyelésére és a fák árnyékában való csendes, nyugodt kikapcsolódásra.\n\nAz esti utazás a Szent György-templomot körülvevő csendes faluban ér véget. Ez egy békés, elgondolkodtató befejezése az aktív kerékpáros napnak a történelem és a zöld tájak között.",
+        "ro": "Dimineața începe cu o plimbare plină de energie până la Castelul Gwrych, stabilind un ton maiestuos. De acolo, veți pedala spre anticul Castell Cawr pentru priveliști uimitoare.\n\nPână la prânz, coborâți înapoi spre oraș pentru a admira arhitectura bisericii St. Paul's. Traseul vă duce apoi să descoperiți legendele mistice care înconjoară Arborele Sacru.\n\nDupă-amiaza, ritmul încetinește pe măsură ce pedalați prin The Warren, o întindere naturală superbă, perfectă pentru a observa fauna sălbatică și a vă bucura de briza blândă pe poteci.\n\nCălătoria de seară se încheie în satul liniștit din jurul Bisericii Sf. Gheorghe. Este un final pașnic și reflexiv al unei zile active de ciclism prin istoria bogată și peisajele verzi.",
+        "en": "The morning begins with an energetic ride up to Gwrych Castle, setting a majestic tone for the day. From there, you'll cycle towards the ancient Castell Cawr for breathtaking views.\n\nBy midday, you descend back towards town to admire the architecture at St. Paul's. The route then takes you to uncover the mystical legends surrounding the local Sacred Tree.\n\nIn the afternoon, the pace slows as you pedal through The Warren, a beautiful natural expanse perfect for wildlife spotting and enjoying a gentle breeze along the tree-lined paths.\n\nThe evening ride concludes in the quiet village surrounding St. George's Church. It’s a peaceful, reflective end to an active day of cycling through rich history and green landscapes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 16.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plas-uchaf Reservoir",
+            "hu": "Plas-uchaf Reservoir",
+            "ro": "Plas-uchaf Reservoir",
+            "en": "Plas-uchaf Reservoir"
+          },
+          "coords": [
+            -3.546143,
+            53.22727
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem atemberaubenden Stausee mit weiten offenen Gewässern und nutzen Sie die ausgewiesenen Parkplätze, bevor Sie am malerischen Ufer spazieren.",
+            "hu": "Kezdje autós túráját ennél a lenyűgöző, hatalmas nyílt vízfelületű víztározónál, és feltétlenül a kijelölt parkolókat használja, mielőtt egy rövid sétát tenne a festői parton.",
+            "ro": "Începeți-vă călătoria la acest rezervor uimitor care oferă ape deschise vaste și asigurați-vă că utilizați parcările desemnate înainte de a face o scurtă plimbare pe mal.",
+            "en": "Start your drive at this stunning reservoir offering vast open waters, and make sure to utilize the designated parking areas before taking a short walk along the scenic banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolwen Reservoir",
+            "hu": "Dolwen Reservoir",
+            "ro": "Dolwen Reservoir",
+            "en": "Dolwen Reservoir"
+          },
+          "coords": [
+            -3.539478,
+            53.220863
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück, um diesen ebenso schönen benacharten Stausee zu entdecken, ideal für Spiegelungen im Wasser, halten Sie also Ihre Kamera bei der Ankunft bereit.",
+            "hu": "Vezessen egy keveset, hogy felfedezze ezt a szomszédos víztározót, amely tökéletes a vízi tükröződések megörökítésére, így érkezéskor már tartsa is készenlétben a kameráját.",
+            "ro": "Conduceți o distanță scurtă pentru a descoperi acest rezervor vecin la fel de frumos, perfect pentru a capta reflexii de apă, așa că aveți camera pregătită la sosire pe mal.",
+            "en": "Drive a short distance to discover this equally beautiful neighboring reservoir, perfect for capturing mirror-like water reflections, so have your camera ready upon arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George's Church",
+            "hu": "St. George's Church",
+            "ro": "St. George's Church",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            -3.540063,
+            53.269246
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden, um diese charmante historische Kirche in einem ruhigen Dorf zu finden, und parken Sie respektvoll, ohne die Einfahrten der Anwohner zu blockieren.",
+            "hu": "Utazzon észak felé, hogy megtalálja ezt az elbűvölő történelmi templomot, és ügyeljen arra, hogy tiszteletteljesen parkoljon a közeli utakon, anélkül, hogy elállná a felhajtókat.",
+            "ro": "Călătoriți spre nord pentru a găsi această fermecătoare biserică istorică și amintiți-vă să parcați cu respect pe drumurile din apropiere, fără a bloca intrările localnicilor.",
+            "en": "Journey north to find this charming historic church nestled in a quiet village, and remember to park respectfully on the nearby roads without blocking any local driveways."
+          }
+        },
+        {
+          "name": {
+            "de": "Gwrych Castle",
+            "hu": "Gwrych Castle",
+            "ro": "Gwrych Castle",
+            "en": "Gwrych Castle"
+          },
+          "coords": [
+            -3.608807,
+            53.283275
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weitläufigen Märchenruinen dieses prächtigen Schlosses und prüfen Sie vor der steilen Auffahrt unbedingt die offiziellen Öffnungszeiten auf der Website.",
+            "hu": "Csodálja meg ennek a csodálatos kastélynak a kiterjedt, meseszerű romjait, de mielőtt nekivágna a meredek útnak, feltétlenül ellenőrizze a hivatalos weboldalon a nyitvatartást.",
+            "ro": "Minunați-vă de ruinele de basm ale acestui domeniu magnific de castel și asigurați-vă că verificați site-ul oficial pentru orele de deschidere înainte de a urca panta abruptă.",
+            "en": "Marvel at the sprawling fairy-tale ruins of this magnificent castle estate, and be sure to check the official website for seasonal opening times before making the steep drive up."
+          }
+        },
+        {
+          "name": {
+            "de": "Knightly's Fun Park",
+            "hu": "Knightly's Fun Park",
+            "ro": "Knightly's Fun Park",
+            "en": "Knightly's Fun Park"
+          },
+          "coords": [
+            -3.545542,
+            53.305466
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit aufregenden Fahrgeschäften in diesem lebhaften Vergnügungspark, wo Sie problemlos ausreichend Parkplätze nur wenige Schritte entfernt finden können.",
+            "hu": "Zárja autós kirándulását izgalmas körhintákkal ebben a nyüzsgő vidámparkban, ahol könnyedén talál bőséges parkolóhelyet mindössze néhány lépésre a főbb látványosságoktól.",
+            "ro": "Terminați-vă călătoria cu plimbări palpitante la acest parc de distracții plin de viață, unde puteți găsi cu ușurință o parcare spațioasă la doar câțiva pași de atracțiile mari.",
+            "en": "Finish your road trip with thrilling rides and arcade games at this lively amusement park, where you can easily find ample parking just steps away from all the main attractions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Roadtrip beginnt tief auf dem Land mit einem erfrischenden Besuch des Plas-uchaf-Stausees. Das weite Wasser und die ruhige Atmosphäre bieten eine perfekte Flucht am Morgen.\n\nDie Fahrt zur Mittagszeit bringt Sie zum ruhigen Dolwen-Stausee, um weitere Naturschönheiten zu bewundern. Dann fahren Sie nach Norden zum historischen Umfeld der St.-Georgs-Kirche.\n\nDer Nachmittag ist der Erkundung der Erhabenheit des Gwrych Castle gewidmet. Die kurvenreichen Straßen zum Anwesen eröffnen atemberaubende Ausblicke auf die Küste und die Ruinen.\n\nWenn der Abend hereinbricht, führt die Route zur pulsierenden Atmosphäre des Knightly's Fun Park. Es ist ein fantastischer Ort voller Energie, um das Ende einer malerischen Fahrt zu feiern.",
+        "hu": "Az autós utazás a vidéken kezdődik a Plas-uchaf víztározó frissítő meglátogatásával. A hatalmas vízfelület és a csendes légkör tökéletes reggeli kikapcsolódást kínál mindenkinek.\n\nDélben egy rövid autózás a békés Dolwen víztározóhoz vezet további természeti szépségekért. Ezután észak felé haladva áttér a nyílt vizektől a Szent György-templom történelmi környezetébe.\n\nA délután a Gwrych kastély nagyszerűségének felfedezésének van szentelve. A birtokhoz vezető kanyargós utak lélegzetelállító kilátást nyújtanak a tengerpartra és magukra a kiterjedt romokra.\n\nAz este leszálltával az út a Knightly's Fun Park nyüzsgő atmoszférájába vezet. Ez egy fantasztikus, energikus hely, ahol megünnepelheti egy hosszú, festői autózás végét a barátokkal.",
+        "ro": "Călătoria începe în mediul rural profund cu o vizită revigorantă la Rezervorul Plas-uchaf. Apele întinse și atmosfera liniștită oferă o evadare perfectă în această dimineață.\n\nConducerea la prânz vă duce la liniștitul rezervor Dolwen pentru și mai multă frumusețe naturală. Apoi veți merge spre nord, trecând spre cadrul istoric al Bisericii Sf. Gheorghe.\n\nDupă-amiaza este dedicată explorării măreției Castelului Gwrych. Drumurile întortocheate până la moșie dezvăluie vederi uluitoare ale coastei și ale ruinelor întinse de pe deal.\n\nPe măsură ce se lasă seara, traseul duce la atmosfera vibrantă din Knightly's Fun Park. Este o locație fantastică pentru a sărbători sfârșitul unei călătorii pitorești cu familia.",
+        "en": "The road trip begins in the deep countryside with a refreshing visit to the Plas-uchaf Reservoir. The sweeping waters and quiet atmosphere offer a perfect morning escape.\n\nMidday driving takes you a short distance to the tranquil Dolwen Reservoir for further natural beauty. You'll then cruise northward, transitioning from open waters to the historic setting of St. George's Church.\n\nThe afternoon is dedicated to exploring the grandeur of Gwrych Castle. The winding roads up to the estate reveal breathtaking views of the coastline and the sprawling ruins themselves.\n\nAs evening falls, the route leads to the vibrant atmosphere of Knightly's Fun Park. It's a fantastic, high-energy location to celebrate the end of a long, scenic drive with family and friends."
+      }
+    }
+  }
+}

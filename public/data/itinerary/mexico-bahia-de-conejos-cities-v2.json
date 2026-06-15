@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-bahia-de-conejos-cities-v2",
+  "anchor": {
+    "name": "Bahía de Conejos",
+    "coords": [
+      -96.07392,
+      15.77662
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Public Entrance to Playa Conejos",
+            "hu": "Public Entrance to Playa Conejos",
+            "ro": "Public Entrance to Playa Conejos",
+            "en": "Public Entrance to Playa Conejos"
+          },
+          "coords": [
+            -96.06814,
+            15.781335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Haupteingang zur atemberaubenden Bucht Conejos, einem idealen Ort, um Ihre Küstenroute zu planen, bevor Sie zum goldenen Sand hinabsteigen.",
+            "hu": "Kezdje a napot a lélegzetelállító Conejos-öböl főbejáratánál, amely tökéletes helyszín a tengerparti útvonal megtervezéséhez, mielőtt leereszkedne az aranyhomokos partra.",
+            "ro": "Începeți ziua la intrarea principală în superba zonă Conejos, un loc perfect pentru a vă planifica traseul de coastă înainte de a coborî pe plaja cu nisip auriu.",
+            "en": "Start your day at the main gateway to the breathtaking Conejos Bay, a perfect spot to map out your coastal route before heading down to the pristine golden sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Conejos",
+            "hu": "Playa Conejos",
+            "ro": "Playa Conejos",
+            "en": "Playa Conejos"
+          },
+          "coords": [
+            -96.065012,
+            15.780558
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser weitläufige, ruhige Strand bietet atemberaubend azurblaues Wasser zum Schwimmen, bringen Sie jedoch eigenen Sonnenschutz mit, da natürlicher Schatten fehlt.",
+            "hu": "Ez a tágas és nyugodt strand lenyűgöző égszínkék vízzel várja az úszni vágyókat, de feltétlenül hozzon magával napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Această plajă spațioasă și liniștită oferă ape azurii perfecte pentru înot, așa că nu uitați să vă aduceți propria umbrelă, deoarece umbra naturală este rară aici.",
+            "en": "This expansive and tranquil beach offers stunning azure waters perfect for swimming, so be sure to bring your own shade as natural cover is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Arena",
+            "hu": "Playa La Arena",
+            "ro": "Playa La Arena",
+            "en": "Playa La Arena"
+          },
+          "coords": [
+            -96.071916,
+            15.778393
+          ],
+          "category": "recreational",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese wunderschöne Bucht ist für ihre sanften Wellen und ihre abgeschiedene Atmosphäre bekannt – ideal, um mit reichlich umweltfreundlicher Sonnencreme ein Buch zu lesen.",
+            "hu": "A lágyabb hullámairól és eldugottabb hangulatáról ismert gyönyörű öböl ideális egy jó könyv olvasásához, miközben bőségesen használ környezetbarát naptejet.",
+            "ro": "Cunoscut pentru valurile sale blânde și atmosfera retrasă, acest golf frumos este ideal pentru a citi o carte în timp ce aplicați cu generozitate o cremă solară ecologică.",
+            "en": "Known for its softer waves and slightly more secluded atmosphere, this beautiful cove is ideal for reading a good book while applying plenty of eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tejoncito",
+            "hu": "Playa Tejoncito",
+            "ro": "Playa Tejoncito",
+            "en": "Playa Tejoncito"
+          },
+          "coords": [
+            -96.076217,
+            15.769853
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Umgeben von markanten Felsformationen bietet dieses versteckte Juwel ruhiges, flaches Wasser zum Schnorcheln, vergessen Sie also nicht Ihre Unterwasserkamera.",
+            "hu": "A drámai sziklaalakzatokkal körülvett rejtett gyöngyszem nyugodt, sekély vize kiválóan alkalmas sznorkelezésre, ezért semmiképp se felejtse el a víz alatti kameráját.",
+            "ro": "Înconjurat de formațiuni stâncoase impresionante, acest loc ascuns oferă ape calme și puțin adânci, perfecte pentru snorkeling, așa că nu uitați camera subacvatică.",
+            "en": "Surrounded by dramatic rock formations, this hidden gem provides calm, shallow waters excellent for snorkeling, so don't forget to pack your underwater camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Picuda",
+            "hu": "Playa Picuda",
+            "ro": "Playa Picuda",
+            "en": "Playa Picuda"
+          },
+          "coords": [
+            -96.079257,
+            15.768674
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser kleine, unberührte Sandstreifen abseits der Massen wirkt wie ein privates Paradies; packen Sie unbedingt genügend Wasser und Snacks für einen ruhigen Nachmittag ein.",
+            "hu": "Ez az apró, érintetlen homoksáv a tömegektől távol olyan, mint egy privát paradicsom, így feltétlenül vigyen magával elegendő vizet és rágcsálnivalót a délutánra.",
+            "ro": "Această mică fâșie de nisip neatinsă pare un paradis privat departe de aglomerație, fiind esențial să luați destulă apă și gustări pentru o după-amiază liniștită.",
+            "en": "This small, untouched strip of sand feels like a private paradise away from the crowds, making it essential to carry enough water and snacks for a peaceful afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Haupteingang und tauchen Sie in die tropische Atmosphäre ein, bevor Sie den goldenen Sand von Conejos betreten.\n\nGegen Mittag spazieren Sie zur ruhigen La Arena, um sich zu entspannen und die Sonne zu genießen.\n\nDer Nachmittag lädt Sie ein, das seichte Wasser von Tejoncito beim Schnorcheln zu entdecken.\n\nBeenden Sie Ihre Wanderung am abgelegenen Picuda und beobachten Sie den Farbwechsel am Himmel über dem Pazifik.",
+        "hu": "Kezdje a reggelt a főbejáratnál, ráhangolódva a trópusi légkörre, mielőtt a Conejos aranyhomokos partjára lépne.\n\nDélben a csendes La Arena felé sétál, ahol nyugodt pihenésre és napozásra lel.\n\nA délután folyamán felfedezheti a Tejoncito sekély és szelíd vizét, amely tökéletes sznorkelezéshez.\n\nZárja gyalogos útját az eldugott Picuda strandon, figyelve a Csendes-óceán feletti égbolt lenyűgöző színjátékát.",
+        "ro": "Începeți dimineața la intrarea principală, intrând în atmosfera tropicală înainte de a păși pe nisipurile aurii din Conejos.\n\nLa prânz, vă veți plimba spre liniștita La Arena, găsind un loc perfect pentru relaxare la soare.\n\nDupă-amiaza vă invită să descoperiți apele calme de la Tejoncito, ideale pentru explorări subacvatice.\n\nÎncheiați călătoria pe jos la izolata Picuda, privind cum cerul își schimbă culorile deasupra apelor Pacificului.",
+        "en": "Start your morning at the main entrance, easing into the tropical atmosphere before stepping onto the vast golden sands of Conejos.\n\nBy midday, you'll wander along the shoreline to the serene La Arena, finding a quiet spot to relax.\n\nThe afternoon invites you to discover the gentle, shallow waters of Tejoncito.\n\nConclude your walking journey at the secluded Picuda, watching the sky change colors over the Pacific."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 4.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Public Entrance to Playa Conejos",
+            "hu": "Public Entrance to Playa Conejos",
+            "ro": "Public Entrance to Playa Conejos",
+            "en": "Public Entrance to Playa Conejos"
+          },
+          "coords": [
+            -96.06814,
+            15.781335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Haupteingang zur atemberaubenden Bucht Conejos, einem idealen Ort, um Ihre Küstenroute zu planen, bevor Sie zum goldenen Sand hinabsteigen.",
+            "hu": "Kezdje a napot a lélegzetelállító Conejos-öböl főbejáratánál, amely tökéletes helyszín a tengerparti útvonal megtervezéséhez, mielőtt leereszkedne az aranyhomokos partra.",
+            "ro": "Începeți ziua la intrarea principală în superba zonă Conejos, un loc perfect pentru a vă planifica traseul de coastă înainte de a coborî pe plaja cu nisip auriu.",
+            "en": "Start your day at the main gateway to the breathtaking Conejos Bay, a perfect spot to map out your coastal route before heading down to the pristine golden sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Conejos",
+            "hu": "Playa Conejos",
+            "ro": "Playa Conejos",
+            "en": "Playa Conejos"
+          },
+          "coords": [
+            -96.065012,
+            15.780558
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser weitläufige, ruhige Strand bietet atemberaubend azurblaues Wasser zum Schwimmen, bringen Sie jedoch eigenen Sonnenschutz mit, da natürlicher Schatten fehlt.",
+            "hu": "Ez a tágas és nyugodt strand lenyűgöző égszínkék vízzel várja az úszni vágyókat, de feltétlenül hozzon magával napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Această plajă spațioasă și liniștită oferă ape azurii perfecte pentru înot, așa că nu uitați să vă aduceți propria umbrelă, deoarece umbra naturală este rară aici.",
+            "en": "This expansive and tranquil beach offers stunning azure waters perfect for swimming, so be sure to bring your own shade as natural cover is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Arena",
+            "hu": "Playa La Arena",
+            "ro": "Playa La Arena",
+            "en": "Playa La Arena"
+          },
+          "coords": [
+            -96.071916,
+            15.778393
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese wunderschöne Bucht ist für ihre sanften Wellen und ihre abgeschiedene Atmosphäre bekannt – ideal, um mit reichlich umweltfreundlicher Sonnencreme ein Buch zu lesen.",
+            "hu": "A lágyabb hullámairól és eldugottabb hangulatáról ismert gyönyörű öböl ideális egy jó könyv olvasásához, miközben bőségesen használ környezetbarát naptejet.",
+            "ro": "Cunoscut pentru valurile sale blânde și atmosfera retrasă, acest golf frumos este ideal pentru a citi o carte în timp ce aplicați cu generozitate o cremă solară ecologică.",
+            "en": "Known for its softer waves and slightly more secluded atmosphere, this beautiful cove is ideal for reading a good book while applying plenty of eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tejoncito",
+            "hu": "Playa Tejoncito",
+            "ro": "Playa Tejoncito",
+            "en": "Playa Tejoncito"
+          },
+          "coords": [
+            -96.076217,
+            15.769853
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Umgeben von markanten Felsformationen bietet dieses versteckte Juwel ruhiges, flaches Wasser zum Schnorcheln, vergessen Sie also nicht Ihre Unterwasserkamera.",
+            "hu": "A drámai sziklaalakzatokkal körülvett rejtett gyöngyszem nyugodt, sekély vize kiválóan alkalmas sznorkelezésre, ezért semmiképp se felejtse el a víz alatti kameráját.",
+            "ro": "Înconjurat de formațiuni stâncoase impresionante, acest loc ascuns oferă ape calme și puțin adânci, perfecte pentru snorkeling, așa că nu uitați camera subacvatică.",
+            "en": "Surrounded by dramatic rock formations, this hidden gem provides calm, shallow waters excellent for snorkeling, so don't forget to pack your underwater camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Guerrilla",
+            "hu": "Playa La Guerrilla",
+            "ro": "Playa La Guerrilla",
+            "en": "Playa La Guerrilla"
+          },
+          "coords": [
+            -96.084207,
+            15.768207
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser Strand bietet mit seiner stärkeren Brandung ein raueres Küstenerlebnis für Wellenliebhaber, Anfänger sollten jedoch besser nur die herrliche Aussicht genießen.",
+            "hu": "Az erősebb hullámokkal vadabb tengerparti élményt nyújtó strand népszerű a hullámok szerelmesei körében, bár a kezdőknek érdemesebb inkább a kilátásban gyönyörködni.",
+            "ro": "Oferind o experiență de coastă mai sălbatică, cu un valuri mai puternice, această plajă este populară printre pasionați, deși începătorii ar trebui să admire doar vederea.",
+            "en": "Offering a more rugged coastal experience with stronger surf, this beach is popular among wave enthusiasts, though beginners should stick to simply admiring the ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tangolunda",
+            "hu": "Playa Tangolunda",
+            "ro": "Playa Tangolunda",
+            "en": "Playa Tangolunda"
+          },
+          "coords": [
+            -96.096981,
+            15.77218
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser weitläufigen Bucht mit Resorts ausklingen, wo Sie luxuriöse Annehmlichkeiten und romantische Sonnenuntergangsspaziergänge genießen können.",
+            "hu": "A nap befejezése ezen a tágas, üdülőkkel szegélyezett öbölben azt jelenti, hogy élvezheti a luxus szolgáltatásokat, majd egy romantikus naplemente sétát tehet a parton.",
+            "ro": "Încheierea zilei la acest golf spațios vă permite să vă bucurați de facilități de lux și de plimbări lungi la apus, având la dispoziție restaurante excelente pentru cină.",
+            "en": "Ending the day at this expansive resort-lined bay means you can enjoy upscale amenities and long romantic sunset walks, with plenty of nearby options for a fine seafood dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom Haupteingang los, um die spektakuläre Aussicht auf Playa Conejos zu genießen.\n\nDie Fahrt am Mittag führt Sie entlang der malerischen Küstenwege nach La Arena und zu den verborgenen Felsen von Tejoncito.\n\nErkunden Sie am Nachmittag die raueren Wellen in der wunderschönen Bucht La Guerrilla.\n\nIhr Fahrradabenteuer endet schließlich an der weitläufigen Tangolunda-Bucht, die herrlichen Resort-Komfort bietet.",
+        "hu": "Tekerjen el a főbejárattól a reggeli szellőben, hogy megcsodálhassa a Playa Conejos lenyűgöző látványát.\n\nA déli kerékpározás a festői part menti utakon a La Arena és a Tejoncito rejtett szikláihoz vezet.\n\nDélután fedezze fel a La Guerrilla vadabb hullámait és lenyűgöző tengerpartját.\n\nKétkerekes kalandja a tágas Tangolunda öbölben ér véget, amely kényelmes pihenési lehetőségeket kínál a naplementében.",
+        "ro": "Pedalați de la intrarea publică în briza dimineții pentru a ajunge la priveliștile spectaculoase de la Playa Conejos.\n\nLa prânz, traseul vă duce pe cărările de coastă către La Arena și stâncile ascunse de la Tejoncito.\n\nDupă-amiaza, explorați valurile mai agitate și peisajul dramatic de la La Guerrilla.\n\nAventura pe bicicletă se încheie la Tangolunda, oferind confortul resorturilor de pe plajă la apus.",
+        "en": "Pedal away from the Public Entrance in the morning breeze to reach the spectacular views of Playa Conejos.\n\nMidday riding takes you along the scenic coastal paths to La Arena and the hidden rocks of Tejoncito.\n\nIn the afternoon, explore the more rugged waves at the beautiful La Guerrilla cove.\n\nYour biking adventure concludes beautifully at the expansive Tangolunda, offering resort-side comforts at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Public Entrance to Playa Conejos",
+            "hu": "Public Entrance to Playa Conejos",
+            "ro": "Public Entrance to Playa Conejos",
+            "en": "Public Entrance to Playa Conejos"
+          },
+          "coords": [
+            -96.06814,
+            15.781335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Haupteingang zur atemberaubenden Bucht Conejos, einem idealen Ort, um Ihre Küstenroute zu planen, bevor Sie zum goldenen Sand hinabsteigen.",
+            "hu": "Kezdje a napot a lélegzetelállító Conejos-öböl főbejáratánál, amely tökéletes helyszín a tengerparti útvonal megtervezéséhez, mielőtt leereszkedne az aranyhomokos partra.",
+            "ro": "Începeți ziua la intrarea principală în superba zonă Conejos, un loc perfect pentru a vă planifica traseul de coastă înainte de a coborî pe plaja cu nisip auriu.",
+            "en": "Start your day at the main gateway to the breathtaking Conejos Bay, a perfect spot to map out your coastal route before heading down to the pristine golden sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Conejos",
+            "hu": "Playa Conejos",
+            "ro": "Playa Conejos",
+            "en": "Playa Conejos"
+          },
+          "coords": [
+            -96.065012,
+            15.780558
+          ],
+          "category": "recreational",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser weitläufige, ruhige Strand bietet atemberaubend azurblaues Wasser zum Schwimmen, bringen Sie jedoch eigenen Sonnenschutz mit, da natürlicher Schatten fehlt.",
+            "hu": "Ez a tágas és nyugodt strand lenyűgöző égszínkék vízzel várja az úszni vágyókat, de feltétlenül hozzon magával napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Această plajă spațioasă și liniștită oferă ape azurii perfecte pentru înot, așa că nu uitați să vă aduceți propria umbrelă, deoarece umbra naturală este rară aici.",
+            "en": "This expansive and tranquil beach offers stunning azure waters perfect for swimming, so be sure to bring your own shade as natural cover is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Arena",
+            "hu": "Playa La Arena",
+            "ro": "Playa La Arena",
+            "en": "Playa La Arena"
+          },
+          "coords": [
+            -96.071916,
+            15.778393
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese wunderschöne Bucht ist für ihre sanften Wellen und ihre abgeschiedene Atmosphäre bekannt – ideal, um mit reichlich umweltfreundlicher Sonnencreme ein Buch zu lesen.",
+            "hu": "A lágyabb hullámairól és eldugottabb hangulatáról ismert gyönyörű öböl ideális egy jó könyv olvasásához, miközben bőségesen használ környezetbarát naptejet.",
+            "ro": "Cunoscut pentru valurile sale blânde și atmosfera retrasă, acest golf frumos este ideal pentru a citi o carte în timp ce aplicați cu generozitate o cremă solară ecologică.",
+            "en": "Known for its softer waves and slightly more secluded atmosphere, this beautiful cove is ideal for reading a good book while applying plenty of eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tejoncito",
+            "hu": "Playa Tejoncito",
+            "ro": "Playa Tejoncito",
+            "en": "Playa Tejoncito"
+          },
+          "coords": [
+            -96.076217,
+            15.769853
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Umgeben von markanten Felsformationen bietet dieses versteckte Juwel ruhiges, flaches Wasser zum Schnorcheln, vergessen Sie also nicht Ihre Unterwasserkamera.",
+            "hu": "A drámai sziklaalakzatokkal körülvett rejtett gyöngyszem nyugodt, sekély vize kiválóan alkalmas sznorkelezésre, ezért semmiképp se felejtse el a víz alatti kameráját.",
+            "ro": "Înconjurat de formațiuni stâncoase impresionante, acest loc ascuns oferă ape calme și puțin adânci, perfecte pentru snorkeling, așa că nu uitați camera subacvatică.",
+            "en": "Surrounded by dramatic rock formations, this hidden gem provides calm, shallow waters excellent for snorkeling, so don't forget to pack your underwater camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Picuda",
+            "hu": "Playa Picuda",
+            "ro": "Playa Picuda",
+            "en": "Playa Picuda"
+          },
+          "coords": [
+            -96.079257,
+            15.768674
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser kleine, unberührte Sandstreifen abseits der Massen wirkt wie ein privates Paradies; packen Sie unbedingt genügend Wasser und Snacks für einen ruhigen Nachmittag ein.",
+            "hu": "Ez az apró, érintetlen homoksáv a tömegektől távol olyan, mint egy privát paradicsom, így feltétlenül vigyen magával elegendő vizet és rágcsálnivalót a délutánra.",
+            "ro": "Această mică fâșie de nisip neatinsă pare un paradis privat departe de aglomerație, fiind esențial să luați destulă apă și gustări pentru o după-amiază liniștită.",
+            "en": "This small, untouched strip of sand feels like a private paradise away from the crowds, making it essential to carry enough water and snacks for a peaceful afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Guerrilla",
+            "hu": "Playa La Guerrilla",
+            "ro": "Playa La Guerrilla",
+            "en": "Playa La Guerrilla"
+          },
+          "coords": [
+            -96.084207,
+            15.768207
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Strand bietet mit seiner stärkeren Brandung ein raueres Küstenerlebnis für Wellenliebhaber, Anfänger sollten jedoch besser nur die herrliche Aussicht genießen.",
+            "hu": "Az erősebb hullámokkal vadabb tengerparti élményt nyújtó strand népszerű a hullámok szerelmesei körében, bár a kezdőknek érdemesebb inkább a kilátásban gyönyörködni.",
+            "ro": "Oferind o experiență de coastă mai sălbatică, cu un valuri mai puternice, această plajă este populară printre pasionați, deși începătorii ar trebui să admire doar vederea.",
+            "en": "Offering a more rugged coastal experience with stronger surf, this beach is popular among wave enthusiasts, though beginners should stick to simply admiring the ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tangolunda",
+            "hu": "Playa Tangolunda",
+            "ro": "Playa Tangolunda",
+            "en": "Playa Tangolunda"
+          },
+          "coords": [
+            -96.096981,
+            15.77218
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser weitläufigen Bucht mit Resorts ausklingen, wo Sie luxuriöse Annehmlichkeiten und romantische Sonnenuntergangsspaziergänge genießen können.",
+            "hu": "A nap befejezése ezen a tágas, üdülőkkel szegélyezett öbölben azt jelenti, hogy élvezheti a luxus szolgáltatásokat, majd egy romantikus naplemente sétát tehet a parton.",
+            "ro": "Încheierea zilei la acest golf spațios vă permite să vă bucurați de facilități de lux și de plimbări lungi la apus, având la dispoziție restaurante excelente pentru cină.",
+            "en": "Ending the day at this expansive resort-lined bay means you can enjoy upscale amenities and long romantic sunset walks, with plenty of nearby options for a fine seafood dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Haupteingang und beginnen Sie Ihre Küstenerkundung mit einem makellosen Morgen in Playa Conejos.\n\nFahren Sie mittags schnell und bequem zwischen La Arena und den dramatischen Felsen von Tejoncito hin und her.\n\nDie Nachmittagsfahrt offenbart die unberührte Schönheit von Picuda und die dynamische Brandung von La Guerrilla.\n\nParken Sie abends in Tangolunda und gönnen Sie sich einen luxuriösen Sonnenuntergang am Strand.",
+        "hu": "Autózzon le a főbejárathoz, és kezdje a partvidék felfedezését egy csodás reggellel a Playa Conejos strandon.\n\nDélben könnyedén mozoghat autóval a festői La Arena és a sziklás Tejoncito öblök között.\n\nA délutáni autózás felfedi Picuda érintetlen szépségét és a La Guerrilla energikus hullámait.\n\nEste parkoljon le Tangolundában, és kényeztesse magát egy varázslatos naplementével a resortoknál.",
+        "ro": "Conduceți până la intrarea publică pentru a începe explorarea coastei cu o dimineață perfectă la Playa Conejos.\n\nConduceți rapid între La Arena și priveliștile stâncoase de la Tejoncito în timpul prânzului.\n\nDupă-amiaza la volan vă dezvăluie frumusețea neatinsă a plajei Picuda și valurile puternice de la La Guerrilla.\n\nParcați seara la Tangolunda, răsfățându-vă cu un apus de soare de lux și o cină excelentă.",
+        "en": "Drive down to the Public Entrance to start your coastal exploration with a pristine morning at Playa Conejos.\n\nDrive seamlessly between La Arena and Tejoncito at midday, enjoying the dramatic ocean viewpoints.\n\nThe afternoon drive reveals the untouched beauty of Picuda and the energetic surf of La Guerrilla.\n\nPark for the evening at Tangolunda, treating yourself to sunset luxury and a relaxing beachfront atmosphere."
+      }
+    }
+  }
+}

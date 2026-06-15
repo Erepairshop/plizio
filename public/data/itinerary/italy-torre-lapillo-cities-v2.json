@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-torre-lapillo-cities-v2",
+  "anchor": {
+    "name": "Torre Lapillo",
+    "coords": [
+      17.85109,
+      40.28784
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Lapillo",
+            "hu": "Torre Lapillo",
+            "ro": "Torre Lapillo",
+            "en": "Torre Lapillo"
+          },
+          "coords": [
+            17.852759,
+            40.285557
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Küstenwachturm, der die Küste dominiert, und kommen Sie früh, um die besten Plätze für Panoramafotos der Bucht zu sichern.",
+            "hu": "Csodálja meg ezt a partvonalat uraló ikonikus parti őrtornyot, és érkezzen korán, hogy a legjobb helyről készíthessen lenyűgöző panorámaképeket az öbölről.",
+            "ro": "Admirați acest turn de veghe de coastă emblematic care domină țărmul și ajungeți devreme pentru a prinde cel mai bun loc pentru fotografii panoramice.",
+            "en": "Admire this iconic coastal watchtower that dominates the shoreline, and arrive early to snag a prime spot for taking stunning panoramic photos of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Pineta",
+            "hu": "Lido La Pineta",
+            "ro": "Lido La Pineta",
+            "en": "Lido La Pineta"
+          },
+          "coords": [
+            17.855679,
+            40.286389
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses Strandclubs, aber reservieren Sie Ihre Liegen und Sonnenschirme in den Sommermonaten unbedingt rechtzeitig im Voraus.",
+            "hu": "Pihenjen ennek a népszerű strandklubnak a finom fehér homokján, de a nyári csúcsidőszakban mindenképpen jó előre béreljen napágyat és napernyőt a kényelemért.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui club de plajă, dar asigurați-vă că închiriați șezlongul și umbrela cu mult timp înainte în lunile de vară pline.",
+            "en": "Relax on the fine white sands of this popular beach club, but make sure to rent your sunbed and umbrella well in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Canne",
+            "hu": "Lido Canne",
+            "ro": "Lido Canne",
+            "en": "Lido Canne"
+          },
+          "coords": [
+            17.856925,
+            40.286149
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser, das perfekt für ein Bad ist, und holen Sie sich ein kühles Getränk am Kiosk, um in der apulischen Sonne hydratisiert zu bleiben.",
+            "hu": "Élvezze a frissítő fürdőzésre tökéletes sekély vizet, és vegyen egy hideg italt a közeli kioszkban, hogy hidratált maradjon az apuliai napsütésben.",
+            "ro": "Bucurați-vă de apele cristaline, perfecte pentru o baie, și luați o băutură rece de la chioșcul din apropiere pentru a vă hidrata sub soarele cald al Apuliei.",
+            "en": "Enjoy the shallow, crystal-clear waters perfect for a refreshing dip, and grab a cold drink from the nearby kiosk to stay hydrated under the warm Apulian sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahia del Sol",
+            "hu": "Bahia del Sol",
+            "ro": "Bahia del Sol",
+            "en": "Bahia del Sol"
+          },
+          "coords": [
+            17.859314,
+            40.285425
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses Küstenabschnitts, wo Sie in den Strandbars lokale Snacks finden, bevor Sie sich sportlich im Wasser betätigen.",
+            "hu": "Tapasztalja meg ennek a partszakasznak az élénk hangulatát, ahol a strandbárokban helyi harapnivalókat is találhat, mielőtt csatlakozna a vízi sportokhoz.",
+            "ro": "Experimentați atmosfera vibrantă a acestei porțiuni de coastă pline de viață, unde puteți găsi gustări locale la barurile de pe plajă înainte de a înota.",
+            "en": "Experience the vibrant atmosphere of this lively stretch of coast, where you can easily find local snacks at the beach bars before joining in on the water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Orange Sun",
+            "hu": "Orange Sun",
+            "ro": "Orange Sun",
+            "en": "Orange Sun"
+          },
+          "coords": [
+            17.861102,
+            40.284726
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandspaziergang an diesem Ort der goldenen Stunde und genießen Sie einen Cocktail beim wunderschönen Sonnenuntergang über dem Ionischen Meer.",
+            "hu": "Fejezze be tengerparti sétáját ezen a lenyűgöző helyen, és igyon meg egy koktélt, miközben élvezi a Jón-tenger felett lemenő nap gyönyörű látványát.",
+            "ro": "Încheiați plimbarea în acest loc vibrant pentru ora de aur și savurați un cocktail admirând apusul frumos peste nesfârșita Mare Ionică.",
+            "en": "End your seaside walk at this vibrant beach spot known for its golden hour ambiance, and grab a cocktail to enjoy the beautiful sunset over the Ionian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang direkt im Herzen von Torre Lapillo und genießen die Morgensonne in der Nähe des historischen Küstenturms. Das sanfte Rauschen der Wellen begleitet uns, während wir auf den feinen Sand des Lido La Pineta treten.\n\nGegen Mittag schlendern wir weiter entlang der Küste zum Lido Canne, einem perfekten Ort, um im kristallklaren Wasser zu waten. Die entspannte Atmosphäre macht es zu einem idealen Ort zum Ausruhen.\n\nAm Nachmittag bringt uns ein kurzer Spaziergang zum Bahia del Sol. Die lebhafte Strandclub-Energie ist ansteckend und bietet reichlich Gelegenheiten für pure Entspannung und spannende Wasseraktivitäten.\n\nWir beenden unseren Tag am Orange Sun und machen es uns in der gemütlichen Umgebung bequem, während der Abend den Himmel färbt. Ein fantastischer Ort, um ein erfrischendes Getränk zum Sonnenuntergang zu genießen.",
+        "hu": "Sétánkat Torre Lapillo szívében kezdjük, élvezve a reggeli napsütést a történelmi parti torony közelében. A hullámok lágy hangja kísér minket, amint a Lido La Pineta finom homokjára lépünk.\n\nDélben tovább sétálunk a part mentén a Lido Canne-ig, amely tökéletes hely a kristálytiszta, sekély jón-tengeri vizekben való gázoláshoz. A nyugodt légkör ideális pihenésre.\n\nAhogy közeledik a délután, egy rövid séta elvisz minket a Bahia del Solhoz. A vibráló strandklub energiája ragadós, és bőséges lehetőséget kínál a tiszta pihenésre és a vízi tevékenységekre egyaránt.\n\nNapunkat az Orange Sun-nál zárjuk, kényelembe helyezve magunkat, ahogy az este színesre festi az eget. Ez egy fantasztikus hely egy frissítő ital elfogyasztására és a horizont alá bukó nap megtekintésére.",
+        "ro": "Începem turul nostru pe jos chiar în inima orașului Torre Lapillo, bucurându-ne de soarele dimineții lângă turnul de coastă istoric. Sunetul blând al valurilor ne însoțește spre nisipurile de la Lido La Pineta.\n\nPână la prânz, ne plimbăm mai departe de-a lungul coastei până la Lido Canne, un loc perfect pentru a vă bălăci în apele cristaline și puțin adânci. Atmosfera relaxată îl face ideal pentru odihnă.\n\nPe măsură ce se instalează după-amiaza, o scurtă plimbare ne aduce la Bahia del Sol. Energia vibrantă a clubului de plajă este contagioasă, oferind oportunități ample pentru relaxare și activități acvatice.\n\nNe încheiem ziua la Orange Sun, așezându-ne confortabil chiar când seara pictează cerul. Este un loc fantastic pentru a savura o băutură răcoritoare și a urmări soarele apunând frumos sub orizont.",
+        "en": "We begin our walking tour right in the heart of Torre Lapillo, taking in the morning sun near the historic coastal tower. The gentle sound of waves accompanies us as we step onto the fine sands of Lido La Pineta.\n\nBy midday, we stroll further along the coastline to Lido Canne, a perfect spot to wade in the crystal-clear, shallow Ionian waters. The relaxed atmosphere makes it an ideal place to rest and enjoy the sea breeze.\n\nAs the afternoon sets in, a short walk brings us to Bahia del Sol. The vibrant beach club energy is infectious, offering ample opportunities for both pure relaxation and exciting coastal water activities.\n\nWe conclude our day at Orange Sun, settling into the comfortable surroundings just as the evening paints the sky. It is a fantastic spot to enjoy a refreshing drink and watch the dramatic sun dip below the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Specchia Del Serpente",
+            "hu": "Specchia Del Serpente",
+            "ro": "Specchia Del Serpente",
+            "en": "Specchia Del Serpente"
+          },
+          "coords": [
+            17.827011,
+            40.285566
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mysteriösen Überreste dieser alten Steinstruktur inmitten der Macchia, und tragen Sie feste Schuhe, um das unebene Gelände zu durchqueren.",
+            "hu": "Fedezze fel ennek az ősi kőszerkezetnek a titokzatos maradványait, és viseljen masszív túracipőt az egyenetlen terepen való biztonságos közlekedéshez.",
+            "ro": "Explorați rămășițele misterioase ale acestei vechi structuri de piatră din vegetația mediteraneeană, purtând încălțăminte rezistentă pentru siguranță.",
+            "en": "Explore the mysterious remnants of this ancient stone structure amidst the Mediterranean scrub, wearing sturdy walking shoes to navigate the terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Lapillo",
+            "hu": "Torre Lapillo",
+            "ro": "Torre Lapillo",
+            "en": "Torre Lapillo"
+          },
+          "coords": [
+            17.852759,
+            40.285557
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Küstenwachturm, der die Küste dominiert, und kommen Sie früh, um die besten Plätze für Panoramafotos der Bucht zu sichern.",
+            "hu": "Csodálja meg ezt a partvonalat uraló ikonikus parti őrtornyot, és érkezzen korán, hogy a legjobb helyről készíthessen lenyűgöző panorámaképeket az öbölről.",
+            "ro": "Admirați acest turn de veghe de coastă emblematic care domină țărmul și ajungeți devreme pentru a prinde cel mai bun loc pentru fotografii panoramice.",
+            "en": "Admire this iconic coastal watchtower that dominates the shoreline, and arrive early to snag a prime spot for taking stunning panoramic photos of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Pineta",
+            "hu": "Lido La Pineta",
+            "ro": "Lido La Pineta",
+            "en": "Lido La Pineta"
+          },
+          "coords": [
+            17.855679,
+            40.286389
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses Strandclubs, aber reservieren Sie Ihre Liegen und Sonnenschirme in den Sommermonaten unbedingt rechtzeitig im Voraus.",
+            "hu": "Pihenjen ennek a népszerű strandklubnak a finom fehér homokján, de a nyári csúcsidőszakban mindenképpen jó előre béreljen napágyat és napernyőt a kényelemért.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui club de plajă, dar asigurați-vă că închiriați șezlongul și umbrela cu mult timp înainte în lunile de vară pline.",
+            "en": "Relax on the fine white sands of this popular beach club, but make sure to rent your sunbed and umbrella well in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Canne",
+            "hu": "Lido Canne",
+            "ro": "Lido Canne",
+            "en": "Lido Canne"
+          },
+          "coords": [
+            17.856925,
+            40.286149
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser, das perfekt für ein Bad ist, und holen Sie sich ein kühles Getränk am Kiosk, um in der apulischen Sonne hydratisiert zu bleiben.",
+            "hu": "Élvezze a frissítő fürdőzésre tökéletes sekély vizet, és vegyen egy hideg italt a közeli kioszkban, hogy hidratált maradjon az apuliai napsütésben.",
+            "ro": "Bucurați-vă de apele cristaline, perfecte pentru o baie, și luați o băutură rece de la chioșcul din apropiere pentru a vă hidrata sub soarele cald al Apuliei.",
+            "en": "Enjoy the shallow, crystal-clear waters perfect for a refreshing dip, and grab a cold drink from the nearby kiosk to stay hydrated under the warm Apulian sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahia del Sol",
+            "hu": "Bahia del Sol",
+            "ro": "Bahia del Sol",
+            "en": "Bahia del Sol"
+          },
+          "coords": [
+            17.859314,
+            40.285425
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses Küstenabschnitts, wo Sie in den Strandbars lokale Snacks finden, bevor Sie sich sportlich im Wasser betätigen.",
+            "hu": "Tapasztalja meg ennek a partszakasznak az élénk hangulatát, ahol a strandbárokban helyi harapnivalókat is találhat, mielőtt csatlakozna a vízi sportokhoz.",
+            "ro": "Experimentați atmosfera vibrantă a acestei porțiuni de coastă pline de viață, unde puteți găsi gustări locale la barurile de pe plajă înainte de a înota.",
+            "en": "Experience the vibrant atmosphere of this lively stretch of coast, where you can easily find local snacks at the beach bars before joining in on the water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Freccia sulla scogliera",
+            "hu": "Freccia sulla scogliera",
+            "ro": "Freccia sulla scogliera",
+            "en": "Freccia sulla scogliera"
+          },
+          "coords": [
+            17.870069,
+            40.272362
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese einzigartige Pfeilmarkierung an den Klippen und seien Sie an den felsigen Rändern besonders an windigen Nachmittagen sehr vorsichtig.",
+            "hu": "Csodálja meg a végtelen horizont felé mutató, sziklánál lévő egyedi nyíljelzést, de legyen nagyon óvatos a sziklás peremek közelében szeles időben.",
+            "ro": "Admirați acest marcaj unic în formă de săgeată de pe stânci și aveți mare grijă lângă marginile stâncoase abrupte, mai ales în după-amiezile cu vânt.",
+            "en": "Marvel at this unique cliffside arrow marker pointing out towards the endless horizon, taking extreme care near the rocky edges, especially on windy afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt inmitten der alten Ruinen der Specchia Del Serpente. Nachdem wir dieses historische Juwel erkundet haben, radeln wir zum Zentrum von Torre Lapillo, um seinen berühmten Turm zu bewundern.\n\nWir setzen unsere Fahrt zur Mittagszeit fort und folgen der schönen Küste in Richtung Lido La Pineta und Lido Canne. Wir fahren an den Strandbesuchern vorbei und machen kurze Pausen am weißen Sand.\n\nAm Nachmittag erreichen wir Bahia del Sol und genießen die energiegeladene Atmosphäre. Wir lassen die Sandstrände hinter uns und radeln auf dem felsigen südlichen Weg, um dramatischere Landschaften zu sehen.\n\nWir beenden unseren aktiven Tag an der Freccia sulla scogliera. An dieser felsigen Markierung beobachten wir, wie die abendlichen Wellen gegen die Klippen schlagen und unser Abenteuer lohnend abschließen.",
+        "hu": "Kerékpáros túránk a Specchia Del Serpente ősi romjai között indul. Miután felfedeztük ezt a történelmi gyöngyszemet, Torre Lapillo nyüzsgő központja felé tekerünk, hogy megcsodáljuk a híres tornyot.\n\nDélben folytatjuk utunkat, és a gyönyörű part mentén haladunk a Lido La Pineta és a Lido Canne felé. A fürdőzők mellett eltekerve rövid szüneteket tartunk, hogy értékeljük a vakítóan fehér homokot.\n\nA délután közepe a Bahia del Solnál ér minket, élvezve az energikus légkört. A homokos strandokat magunk mögött hagyva ismét kerékpárra pattanunk, hogy a sziklás déli ösvényen haladjunk tovább.\n\nAktív napunkat a Freccia sulla scogliera-nál fejezzük be. Ezen az egyedülálló sziklás jelzésnél állva nézzük, ahogy az esti hullámok a szikláknak csapódnak, méltó befejezéseként a kerékpáros kalandunknak.",
+        "ro": "Călătoria noastră cu bicicleta începe printre ruinele antice ale Specchia Del Serpente. După ce explorăm această bijuterie istorică, pedalăm spre centrul orașului Torre Lapillo pentru a admira faimosul turn.\n\nContinuând plimbarea la prânz, urmăm coasta frumoasă spre Lido La Pineta și Lido Canne. Trecând pe lângă turiștii de pe plajă, luăm scurte pauze pentru a aprecia nisipurile albe și apele albastre.\n\nDupă-amiaza ne găsește la Bahia del Sol, bucurându-ne de atmosfera energică. Lăsând în urmă plajele cu nisip, ne urcăm din nou pe biciclete pentru a ne îndrepta spre peisaje mai dramatice.\n\nNe încheiem ziua activă la Freccia sulla scogliera. Stând lângă acest marcaj stâncos unic, privim cum valurile serii se sparg de stânci, oferind un final profund satisfăcător aventurii noastre de coastă.",
+        "en": "Our cycling journey kicks off amidst the ancient, rugged ruins of Specchia Del Serpente. After exploring this historical gem, we pedal towards the bustling center of Torre Lapillo to admire its famous tower.\n\nContinuing our ride at midday, we trace the beautiful coast towards Lido La Pineta and Lido Canne. Cycling past the vibrant beachgoers, we take short breaks to appreciate the dazzling white sands and blue waters.\n\nMid-afternoon finds us at Bahia del Sol, soaking in the energetic atmosphere. Leaving the sandy beaches behind, we mount our bikes again to head down the rocky southern path for more dramatic landscapes.\n\nWe finish our active day at Freccia sulla scogliera. Standing by this unique rocky marker, we watch the evening waves crash against the cliffs, providing a deeply rewarding end to our coastal cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anelli dell'Arneo",
+            "hu": "Anelli dell'Arneo",
+            "ro": "Anelli dell'Arneo",
+            "en": "Anelli dell'Arneo"
+          },
+          "coords": [
+            17.873695,
+            40.301582
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Spuren der alten landwirtschaftlichen Praktiken der Arneo-Region und bringen Sie eine App mit, um den Kontext zu verstehen.",
+            "hu": "Fedezze fel az Arneo régió ősi mezőgazdasági gyakorlatai által hagyott lenyűgöző nyomokat, és hozzon magával egy útikönyvet a helyi történelemhez.",
+            "ro": "Descoperiți urmele istorice fascinante lăsate de vechile practici agricole din regiunea Arneo, aducând un ghid sau o aplicație pentru contextul local.",
+            "en": "Discover the fascinating historical traces left by the ancient agricultural practices of the Arneo region, making sure to bring a guidebook to understand the local context."
+          }
+        },
+        {
+          "name": {
+            "de": "Specchia Del Serpente",
+            "hu": "Specchia Del Serpente",
+            "ro": "Specchia Del Serpente",
+            "en": "Specchia Del Serpente"
+          },
+          "coords": [
+            17.827011,
+            40.285566
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mysteriösen Überreste dieser alten Steinstruktur inmitten der Macchia, und tragen Sie feste Schuhe, um das unebene Gelände zu durchqueren.",
+            "hu": "Fedezze fel ennek az ősi kőszerkezetnek a titokzatos maradványait, és viseljen masszív túracipőt az egyenetlen terepen való biztonságos közlekedéshez.",
+            "ro": "Explorați rămășițele misterioase ale acestei vechi structuri de piatră din vegetația mediteraneeană, purtând încălțăminte rezistentă pentru siguranță.",
+            "en": "Explore the mysterious remnants of this ancient stone structure amidst the Mediterranean scrub, wearing sturdy walking shoes to navigate the terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Lapillo",
+            "hu": "Torre Lapillo",
+            "ro": "Torre Lapillo",
+            "en": "Torre Lapillo"
+          },
+          "coords": [
+            17.852759,
+            40.285557
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Küstenwachturm, der die Küste dominiert, und kommen Sie früh, um die besten Plätze für Panoramafotos der Bucht zu sichern.",
+            "hu": "Csodálja meg ezt a partvonalat uraló ikonikus parti őrtornyot, és érkezzen korán, hogy a legjobb helyről készíthessen lenyűgöző panorámaképeket az öbölről.",
+            "ro": "Admirați acest turn de veghe de coastă emblematic care domină țărmul și ajungeți devreme pentru a prinde cel mai bun loc pentru fotografii panoramice.",
+            "en": "Admire this iconic coastal watchtower that dominates the shoreline, and arrive early to snag a prime spot for taking stunning panoramic photos of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Pineta",
+            "hu": "Lido La Pineta",
+            "ro": "Lido La Pineta",
+            "en": "Lido La Pineta"
+          },
+          "coords": [
+            17.855679,
+            40.286389
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses Strandclubs, aber reservieren Sie Ihre Liegen und Sonnenschirme in den Sommermonaten unbedingt rechtzeitig im Voraus.",
+            "hu": "Pihenjen ennek a népszerű strandklubnak a finom fehér homokján, de a nyári csúcsidőszakban mindenképpen jó előre béreljen napágyat és napernyőt a kényelemért.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui club de plajă, dar asigurați-vă că închiriați șezlongul și umbrela cu mult timp înainte în lunile de vară pline.",
+            "en": "Relax on the fine white sands of this popular beach club, but make sure to rent your sunbed and umbrella well in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahia del Sol",
+            "hu": "Bahia del Sol",
+            "ro": "Bahia del Sol",
+            "en": "Bahia del Sol"
+          },
+          "coords": [
+            17.859314,
+            40.285425
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses Küstenabschnitts, wo Sie in den Strandbars lokale Snacks finden, bevor Sie sich sportlich im Wasser betätigen.",
+            "hu": "Tapasztalja meg ennek a partszakasznak az élénk hangulatát, ahol a strandbárokban helyi harapnivalókat is találhat, mielőtt csatlakozna a vízi sportokhoz.",
+            "ro": "Experimentați atmosfera vibrantă a acestei porțiuni de coastă pline de viață, unde puteți găsi gustări locale la barurile de pe plajă înainte de a înota.",
+            "en": "Experience the vibrant atmosphere of this lively stretch of coast, where you can easily find local snacks at the beach bars before joining in on the water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Freccia sulla scogliera",
+            "hu": "Freccia sulla scogliera",
+            "ro": "Freccia sulla scogliera",
+            "en": "Freccia sulla scogliera"
+          },
+          "coords": [
+            17.870069,
+            40.272362
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese einzigartige Pfeilmarkierung an den Klippen und seien Sie an den felsigen Rändern besonders an windigen Nachmittagen sehr vorsichtig.",
+            "hu": "Csodálja meg a végtelen horizont felé mutató, sziklánál lévő egyedi nyíljelzést, de legyen nagyon óvatos a sziklás peremek közelében szeles időben.",
+            "ro": "Admirați acest marcaj unic în formă de săgeată de pe stânci și aveți mare grijă lângă marginile stâncoase abrupte, mai ales în după-amiezile cu vânt.",
+            "en": "Marvel at this unique cliffside arrow marker pointing out towards the endless horizon, taking extreme care near the rocky edges, especially on windy afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir fahren durch die malerische apulische Landschaft und beginnen unsere Erkundung bei den Anelli dell'Arneo. Kurz darauf bringt uns eine kurze Fahrt nach Westen zu den mysteriösen Steinformationen der Specchia Del Serpente.\n\nGegen Mittag parken wir in der Nähe des ikonischen Torre Lapillo, um die Aussicht auf die Küste zu genießen. Danach bewegen wir uns nahtlos zu den lebhaften Ufern des Lido La Pineta und tauchen in die Strandkultur ein.\n\nUnsere Autofahrt geht weiter, als wir am Nachmittag bequem zum Bahia del Sol hüpfen. Dieser beliebte Erholungsort ist ideal, um einen kleinen Happen zu essen und die lebhaften Wassersportaktivitäten in der Bucht zu beobachten.\n\nWenn der Abend näher rückt, bringt uns eine letzte Fahrt entlang der zerklüfteten Küste zur Freccia sulla scogliera. Die dramatischen Klippen bieten einen spektakulären Aussichtspunkt für einen faszinierenden Sonnenuntergang.",
+        "hu": "Az apuliai tájon keresztül autózva az Anelli dell'Arneo-nál kezdjük a felfedezést. Nem sokkal ezután egy rövid nyugati út elvezet minket a Specchia Del Serpente titokzatos ősi kőképződményeihez.\n\nDélre az ikonikus Torre Lapillo közelében parkolunk, hogy élvezzük a tengerparti kilátást. Ezt követően zökkenőmentesen haladunk a Lido La Pineta nyüzsgő partjai felé, és elmerülünk a helyi strandklub kultúrájában.\n\nAutós utunk délután a Bahia del Sol felé folytatódik. Ez a népszerű szabadidős hely kiválóan alkalmas egy gyors harapnivaló elfogyasztására és az öböl élénk vízi sporttevékenységeinek megtekintésére.\n\nAhogy közeledik az este, egy utolsó út levisz minket a csipkézett part mentén a Freccia sulla scogliera-hoz. A drámai sziklák látványos kilátópontot kínálnak a varázslatos és békés apuliai naplemente élvezetéhez.",
+        "ro": "Conducând prin peisajul rural pitoresc din Apulia, ne începem explorarea la Anelli dell'Arneo. La scurt timp după, un scurt drum spre vest ne aduce la formațiunile misterioase de piatră de la Specchia Del Serpente.\n\nPână la prânz, parcăm lângă emblematicul Torre Lapillo pentru a ne bucura de priveliștile de coastă. Apoi, ne deplasăm fără probleme spre țărmurile vibrante din Lido La Pineta, pășind în cultura plajelor locale.\n\nCălătoria noastră cu mașina continuă cu o scurtă oprire la Bahia del Sol. Acest loc de agrement popular este excelent pentru a lua o gustare rapidă și a privi activitățile pline de viață de sporturi nautice din golf.\n\nPe măsură ce se apropie seara, o ultimă plimbare cu mașina ne duce pe coasta zimțată până la Freccia sulla scogliera. Stâncile dramatice oferă un punct de observație spectaculos pentru a savura un apus liniștit.",
+        "en": "Driving through the scenic Apulian countryside, we begin our exploration at Anelli dell'Arneo. Shortly after, a brief drive west brings us to the mysterious ancient stone formations of Specchia Del Serpente.\n\nBy midday, we park near the iconic Torre Lapillo to enjoy the coastal views. Afterward, we seamlessly move towards the vibrant shorelines of Lido La Pineta, diving right into the local beach club culture.\n\nOur car journey continues as we easily hop to Bahia del Sol in the afternoon. This popular recreational spot is excellent for grabbing a quick bite and watching the lively watersport activities in the bay.\n\nAs evening approaches, a final drive takes us down the jagged coast to Freccia sulla scogliera. The dramatic cliffs offer a spectacular vantage point to enjoy a mesmerizing and serene Apulian sunset over the sea."
+      }
+    }
+  }
+}

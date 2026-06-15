@@ -1,0 +1,474 @@
+{
+  "city_id": "culiacan-cities-v2",
+  "anchor": {
+    "name": "Culiacán",
+    "coords": [
+      -107.394,
+      24.8096
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 1.49,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "MIA Museo Interactivo Contra Las Adicciones",
+            "hu": "MIA Museo Interactivo Contra Las Adicciones",
+            "ro": "MIA Museo Interactivo Contra Las Adicciones",
+            "en": "MIA Museo Interactivo Contra Las Adicciones"
+          },
+          "coords": [
+            -107.393546,
+            24.809213
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie interaktive Ausstellungen zum Thema Wohlbefinden in diesem einzigartigen Museum und kommen Sie am besten an einem Wochentagvormittag, um die Anlagen in Ruhe zu genießen.",
+            "hu": "Fedezze fel a jólétet bemutató interaktív kiállításokat ebben az egyedülálló múzeumban, és érdemes egy hétköznap délelőtt érkezni, hogy zavartalanul élvezhesse a látványosságokat.",
+            "ro": "Descoperiți expoziții interactive despre bunăstare în acest muzeu unic și încercați să veniți într-o dimineață de zi lucrătoare pentru a vă bucura în liniște de prezentări.",
+            "en": "Discover interactive exhibits on well-being at this unique museum, and try visiting on a weekday morning to have the engaging displays all to yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "El Museo de Arte de Sinaloa (MASIN)",
+            "hu": "El Museo de Arte de Sinaloa (MASIN)",
+            "ro": "El Museo de Arte de Sinaloa (MASIN)",
+            "en": "El Museo de Arte de Sinaloa (MASIN)"
+          },
+          "coords": [
+            -107.394194,
+            24.810751
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische regionale Kunst in diesem wunderschön restaurierten neoklassizistischen Gebäude und trinken Sie unbedingt einen schnellen Kaffee auf der nahegelegenen Plaza, bevor Sie hineingehen.",
+            "hu": "Csodálja meg a kortárs regionális művészetet ebben a gyönyörűen felújított neoklasszicista épületben, de előtte feltétlenül igyon egy gyors kávét a közeli téren.",
+            "ro": "Admirați arta regională contemporană în această clădire neoclasică frumos restaurată, asigurându-vă că beți o cafea rapidă la piața din apropiere înainte de a intra.",
+            "en": "Admire contemporary regional art in this beautifully restored neoclassical building, making sure to grab a quick coffee at the nearby plaza before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pablo de Villavicencio",
+            "hu": "Pablo de Villavicencio",
+            "ro": "Pablo de Villavicencio",
+            "en": "Pablo de Villavicencio"
+          },
+          "coords": [
+            -107.393231,
+            24.811715
+          ],
+          "category": "cultural",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erleben Sie eine fesselnde Aufführung oder erkunden Sie die kulturellen Ausstellungen in diesem großen Theater, und denken Sie daran, vor Ihrem Besuch den lokalen Veranstaltungsplan online zu prüfen.",
+            "hu": "Tekintsen meg egy lenyűgöző előadást vagy fedezze fel a kulturális kiállításokat ebben a jelentős színházban, de látogatás előtt ne felejtse el online ellenőrizni a helyi eseménynaptárt.",
+            "ro": "Urmăriți un spectacol captivant sau explorați expozițiile culturale la acest teatru major și amintiți-vă să verificați online programul evenimentelor locale înainte de vizită.",
+            "en": "Catch a captivating performance or explore the cultural exhibitions at this major theater, and remember to check the local event schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Sinaloa",
+            "hu": "Museo Regional de Sinaloa",
+            "ro": "Museo Regional de Sinaloa",
+            "en": "Museo Regional de Sinaloa"
+          },
+          "coords": [
+            -107.385436,
+            24.812205
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die faszinierende Geschichte der Region von der präkolumbianischen Zeit bis zur Gegenwart und planen Sie mindestens eine Stunde ein, um die kunstvollen Artefakte umfassend zu würdigen.",
+            "hu": "Kövesse nyomon a régió lenyűgöző történetét a prekolumbián időktől napjainkig, és szánjon legalább egy órát a kiállított bonyolult leletek teljes megismerésére.",
+            "ro": "Urmăriți istoria fascinantă a regiunii din timpurile precolumbiene până în prezent și alocați cel puțin o oră pentru a aprecia pe deplin artefactele complexe expuse.",
+            "en": "Trace the fascinating history of the region from pre-Columbian times to the present, and allocate at least an hour to fully appreciate the intricate artifacts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoológico de Culiacán",
+            "hu": "Zoológico de Culiacán",
+            "ro": "Zoológico de Culiacán",
+            "en": "Zoológico de Culiacán"
+          },
+          "coords": [
+            -107.385128,
+            24.81372
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch üppige Lebensräume mit vielfältigen Tierarten im städtischen Zoo und tragen Sie bequeme Wanderschuhe, da die Wege an Wochenenden recht voll werden können.",
+            "hu": "Sétáljon végig a városi állatkert változatos állatfajoknak otthont adó buja élőhelyein, és viseljen kényelmes cipőt, mivel a sétányok hétvégén meglehetősen zsúfoltak lehetnek.",
+            "ro": "Plimbați-vă prin habitate luxuriante care adăpostesc diverse specii de animale la grădina zoologică a orașului și purtați încălțăminte confortabilă, deoarece aleile pot fi aglomerate în weekend.",
+            "en": "Stroll through lush habitats housing diverse animal species at the city zoo, and wear comfortable walking shoes since the pathways can get quite crowded on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Salón de la Fama Culiacán",
+            "hu": "Salón de la Fama Culiacán",
+            "ro": "Salón de la Fama Culiacán",
+            "en": "Salón de la Fama Culiacán"
+          },
+          "coords": [
+            -107.383798,
+            24.814331
+          ],
+          "category": "museum",
+          "arrive_at": "17:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Feiern Sie lokale Sportlegenden und ihre bemerkenswerten Erfolge in dieser Ruhmeshalle und verbinden Sie Ihren Besuch mit dem angrenzenden Zoo für einen perfekten Nachmittagsausflug.",
+            "hu": "Ünnepelje a helyi sportlegendákat és figyelemre méltó eredményeiket ebben a dicsőségcsarnokban, és a teljes délutáni program érdekében kösse össze a látogatást a szomszédos állatkerttel.",
+            "ro": "Sărbătoriți legendele sportive locale și realizările lor remarcabile în această sală a faimei, combinând vizita cu grădina zoologică adiacentă pentru o excursie completă de după-amiază.",
+            "en": "Celebrate local sporting legends and their remarkable achievements in this hall of fame, combining your visit with the adjacent zoo for a complete afternoon outing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Culiacán, wo die interaktiven Ausstellungen des MIA einen faszinierenden Start bieten. Nur einen kurzen Spaziergang entfernt tauchen Sie im MASIN in die zeitgenössische Kunst der Region ein.\n\nMittags erreichen Sie das Theater Pablo de Villavicencio, um sein kulturelles Erbe zu erkunden. Die Straßen der Stadt pulsieren, während Sie von moderner Kunst zu den tiefen historischen Wurzeln im Museo Regional wechseln.\n\nDer Nachmittag lockt mit Natur und Erholung im Zoológico de Culiacán. Hier bieten schattige Wege und vielfältige Tiergehege eine erfrischende Pause vom städtischen Trubel.\n\nDer Abend naht, wenn Sie Ihre Reise in der Ruhmeshalle beenden. Die Feier der Sportlegenden aus Sinaloa bildet einen inspirierenden Abschluss eines Tages voller Kunst und Kultur.",
+        "hu": "A reggel Culiacán szívében kezdődik, ahol a MIA interaktív kiállításai lenyűgöző indulást biztosítanak. Egy rövid sétára a MASIN a régió kortárs művészetébe nyújt mélyebb betekintést egy gyönyörű épületben.\n\nA dél a Pablo de Villavicencio színháznál éri, kulturális örökségét felfedezve. A városi utcák pezsegnek, miközben a modern művészettől a Museo Regional történelmi gyökerei felé halad.\n\nA délután a természeté és a kikapcsolódásé a helyi állatkertben. Itt az árnyékos ösvények és a változatos állati élőhelyek frissítő szünetet kínálnak a városi nyüzsgés után.\n\nAz este közeledtével a Dicsőségcsarnokban fejezi be útját. Sinaloa sporthőseinek ünneplése inspiráló lezárást ad a művészettel, történelemmel és kultúrával teli napnak.",
+        "ro": "Dimineața începe în inima orașului Culiacán, unde expozițiile interactive ale MIA oferă un start fascinant. La o scurtă plimbare, MASIN oferă o incursiune profundă în expresiile artistice contemporane ale regiunii.\n\nLa amiază vă aflați la teatrul Pablo de Villavicencio, explorând moștenirea sa culturală. Străzile orașului pulsează de energie pe măsură ce treceți de la arta modernă la istoria profundă a Museo Regional.\n\nDupă-amiaza se îndreaptă spre natură și recreere la grădina zoologică din Culiacán. Aici, cărările umbrite și diversele habitate ale animalelor oferă o pauză răcoroasă de la mediul urban.\n\nSeara se apropie în timp ce vă încheiați călătoria la Sala Faimei. Sărbătorirea eroilor sportivi din Sinaloa adaugă un final inspirat unei zile pline de istorie și cultură.",
+        "en": "Morning begins in the heart of Culiacán, where the interactive exhibits of MIA provide a fascinating start to the day. Just a short stroll away, the MASIN offers a deep dive into the region's contemporary artistic expressions within a beautifully preserved building.\n\nMidday finds you at the Pablo de Villavicencio, exploring its cultural legacy before heading eastward. The city streets hum with local energy as you transition from modern art to the deep historical roots showcased at the Museo Regional de Sinaloa.\n\nAfternoon shifts towards nature and recreation at the Zoológico de Culiacán. Here, shaded paths and diverse animal habitats offer a refreshing break from the urban environment, perfect for a leisurely walk.\n\nEvening approaches as you conclude your journey at the Salón de la Fama. Celebrating the athletic heroes of Sinaloa adds an inspiring finish to a day filled with art, history, and vibrant local culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pablo de Villavicencio",
+            "hu": "Pablo de Villavicencio",
+            "ro": "Pablo de Villavicencio",
+            "en": "Pablo de Villavicencio"
+          },
+          "coords": [
+            -107.393231,
+            24.811715
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie eine fesselnde Aufführung oder erkunden Sie die kulturellen Ausstellungen in diesem großen Theater, und denken Sie daran, vor Ihrem Besuch den lokalen Veranstaltungsplan online zu prüfen.",
+            "hu": "Tekintsen meg egy lenyűgöző előadást vagy fedezze fel a kulturális kiállításokat ebben a jelentős színházban, de látogatás előtt ne felejtse el online ellenőrizni a helyi eseménynaptárt.",
+            "ro": "Urmăriți un spectacol captivant sau explorați expozițiile culturale la acest teatru major și amintiți-vă să verificați online programul evenimentelor locale înainte de vizită.",
+            "en": "Catch a captivating performance or explore the cultural exhibitions at this major theater, and remember to check the local event schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "MIA Museo Interactivo Contra Las Adicciones",
+            "hu": "MIA Museo Interactivo Contra Las Adicciones",
+            "ro": "MIA Museo Interactivo Contra Las Adicciones",
+            "en": "MIA Museo Interactivo Contra Las Adicciones"
+          },
+          "coords": [
+            -107.393546,
+            24.809213
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie interaktive Ausstellungen zum Thema Wohlbefinden in diesem einzigartigen Museum und kommen Sie am besten an einem Wochentagvormittag, um die Anlagen in Ruhe zu genießen.",
+            "hu": "Fedezze fel a jólétet bemutató interaktív kiállításokat ebben az egyedülálló múzeumban, és érdemes egy hétköznap délelőtt érkezni, hogy zavartalanul élvezhesse a látványosságokat.",
+            "ro": "Descoperiți expoziții interactive despre bunăstare în acest muzeu unic și încercați să veniți într-o dimineață de zi lucrătoare pentru a vă bucura în liniște de prezentări.",
+            "en": "Discover interactive exhibits on well-being at this unique museum, and try visiting on a weekday morning to have the engaging displays all to yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Negro",
+            "hu": "Puente Negro",
+            "ro": "Puente Negro",
+            "en": "Puente Negro"
+          },
+          "coords": [
+            -107.410302,
+            24.809149
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die markante schwarze Eisenbahnbrücke über den Fluss, idealerweise bei Sonnenuntergang, wenn die Silhouetten vor dem farbenfrohen Himmel das perfekte Fotomotiv bieten.",
+            "hu": "Fényképezze le a folyót átívelő ikonikus fekete vasúti hidat, ideális esetben naplementekor, amikor a színes égbolt előtt kirajzolódó sziluettek tökéletes fotózási lehetőséget kínálnak.",
+            "ro": "Fotografiați podul feroviar negru emblematic care traversează râul, ideal vizitând la apus, când siluetele de pe cerul colorat oferă oportunitatea perfectă pentru o poză.",
+            "en": "Photograph the iconic black railway bridge crossing the river, ideally visiting during sunset when the silhouettes against the colorful sky offer the perfect photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Circo Rolex",
+            "hu": "Circo Rolex",
+            "ro": "Circo Rolex",
+            "en": "Circo Rolex"
+          },
+          "coords": [
+            -107.409588,
+            24.812054
+          ],
+          "category": "cultural",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte und traditionelle mexikanische Zirkusatmosphäre, aber stellen Sie sicher, dass Sie Ihre Tickets im Voraus online kaufen, um sich die besten Plätze im Zelt zu sichern.",
+            "hu": "Élvezze a nyüzsgő és hagyományos mexikói cirkuszi atmoszférát, de mindenképpen vegye meg előre a jegyeket online, hogy a legjobb helyeket biztosítsa a színes sátor alatt.",
+            "ro": "Experimentați atmosfera plină de viață și tradițională a circului mexican, dar asigurați-vă că vă cumpărați biletele în avans online pentru a obține cele mai bune locuri.",
+            "en": "Experience the lively and traditional Mexican circus atmosphere, but make sure to buy your tickets in advance online to secure the best seats under the vibrant tent."
+          }
+        },
+        {
+          "name": {
+            "de": "Skatepark",
+            "hu": "Skatepark",
+            "ro": "Skatepark",
+            "en": "Skatepark"
+          },
+          "coords": [
+            -107.40403,
+            24.815683
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimische Jugend bei ihren beeindruckenden Skateboard-Tricks in diesem modernen Betonpark oder bringen Sie Ihre eigene Ausrüstung mit, um in den Anfängerbereichen mitzumachen.",
+            "hu": "Nézze meg a helyi fiatalokat, ahogy lenyűgöző gördeszkás trükköket mutatnak be ebben a modern betonparkban, vagy hozza el saját felszerelését, és csatlakozzon a kezdők részlegében.",
+            "ro": "Urmăriți tinerii locali demonstrându-și abilitățile impresionante de skateboarding în acest parc modern de beton sau aduceți-vă propriul echipament pentru a vă distra în secțiunile pentru începători.",
+            "en": "Watch local youths display their impressive skateboarding skills in this modern concrete park, or bring your own gear to join the fun in the dedicated beginner sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Go Kartz",
+            "hu": "Go Kartz",
+            "ro": "Go Kartz",
+            "en": "Go Kartz"
+          },
+          "coords": [
+            -107.401001,
+            24.816682
+          ],
+          "category": "landmark",
+          "arrive_at": "15:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spüren Sie das Adrenalin, wenn Sie mit Freunden auf der anspruchsvollen Strecke um die Wette fahren, und denken Sie daran, lange Haare zusammenzubinden und geschlossene Schuhe zu tragen.",
+            "hu": "Érezze az adrenalint, miközben barátaival versenyez a kihívást jelentő pályán, és a biztonság érdekében feltétlenül kösse össze a hosszú haját, és viseljen zárt cipőt.",
+            "ro": "Simțiți adrenalina în timp ce vă întreceți cu prietenii pe pista provocatoare și nu uitați să vă legați părul lung și să purtați pantofi închiși pentru siguranță.",
+            "en": "Feel the adrenaline rush as you race friends around the challenging track, and remember to tie back long hair and wear closed-toe shoes for safety during the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Radtour zum kulturellen Zentrum Pablo de Villavicencio. Gleiten Sie anschließend schnell zum MIA-Museum, um mit modernen Ausstellungen zu interagieren, die Ihre Perspektive erweitern.\n\nMittags steht eine malerische Fahrt zum berühmten Puente Negro an. Wenn Sie an dieser massiven Struktur vorbeiradeln, bieten sich spektakuläre Ausblicke auf den Fluss und das einzigartige industrielle Erbe der Stadt.\n\nDie Nachmittagsenergie steigt, wenn Sie zum Circo Rolex fahren, gefolgt von einem Besuch im lokalen Skatepark, wo Sie der Jugend der Stadt bei ihren beeindruckenden Tricks zusehen können.\n\nDer Abend bricht herein, während Sie zum Go Kartz eilen. Das Adrenalin auf der Rennstrecke bietet einen spannenden Abschluss Ihres zweirädrigen Abenteuers durch die vielfältigen Bezirke von Culiacán.",
+        "hu": "Kezdje a reggelt azzal, hogy elkerékpározik a Pablo de Villavicencio kulturális központjához. Gyorsan guruljon át a MIA múzeumba, hogy olyan modern kiállításokkal találkozzon, amelyek új perspektívákat nyitnak.\n\nA dél egy festői utazást tartogat az ikonikus Puente Negro felé. A hatalmas építmény melletti tekerés lenyűgöző kilátást nyújt a folyóra, és tökéletesen keretbe foglalja a város ipari örökségét.\n\nA délutáni energia fokozódik a Circo Rolex felé, majd a helyi gördeszkaparkban folytatódik, ahol megnézheti a város fiataljainak lenyűgöző trükkjeit.\n\nAz este közeledtével a Go Kartz felé veszi az irányt. A versenypálya adrenalinja izgalmas lezárást nyújt a kétkerekű kalandnak Culiacán nyüzsgő és változatos negyedein keresztül.",
+        "ro": "Începeți-vă dimineața cu bicicleta spre centrul cultural Pablo de Villavicencio. Deplasați-vă rapid la muzeul MIA pentru a interacționa cu expoziții moderne care vă provoacă perspectiva asupra lumii.\n\nAmiaza aduce o plimbare pitorească spre emblematicul Puente Negro. Pedalând pe lângă această structură masivă vă oferă vederi spectaculoase asupra râului și moștenirii industriale.\n\nEnergia după-amiezii crește pe măsură ce vă îndreptați spre Circo Rolex, urmat de o vizită la skatepark-ul local unde puteți urmări tinerii orașului arătându-și trucurile impresionante.\n\nSeara cade în timp ce vă grăbiți la Go Kartz. Adrenalina de pe pistă oferă o concluzie palpitantă aventurii dumneavoastră pe două roți prin districtele vibrante și diverse ale orașului.",
+        "en": "Start your morning cycling to the cultural hub of Pablo de Villavicencio, setting an inspiring tone for the day. Quickly glide over to the MIA museum to interact with modern exhibits that challenge your perspective.\n\nMidday brings a scenic ride towards the iconic Puente Negro. Pedaling past this massive structure offers spectacular views of the river and perfectly frames Culiacán's unique industrial heritage.\n\nAfternoon energy ramps up as you head to Circo Rolex for a taste of traditional entertainment, followed by a visit to the local Skatepark where you can watch the city's youth show off their impressive tricks.\n\nEvening falls as you race to Go Kartz. The adrenaline of the track provides a thrilling conclusion to your two-wheeled adventure through the vibrant and diverse districts of the city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 11.39,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Ciencias de Sinaloa",
+            "hu": "Centro de Ciencias de Sinaloa",
+            "ro": "Centro de Ciencias de Sinaloa",
+            "en": "Centro de Ciencias de Sinaloa"
+          },
+          "coords": [
+            -107.385416,
+            24.829645
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit hochmodernen Wissenschaftsausstellungen und dem beeindruckenden Meteoriten, und beginnen Sie Ihren Tag hier direkt zur Öffnungszeit, um leicht einen Parkplatz zu finden.",
+            "hu": "Ismerkedjen meg az élvonalbeli tudományos kiállításokkal és a lenyűgöző meteorittal, és kezdje itt a napját rögtön nyitáskor, hogy könnyen találjon parkolóhelyet a közelben.",
+            "ro": "Interacționați cu exponatele științifice de ultimă oră și impresionantul meteorit și începeți-vă ziua aici chiar la deschidere pentru a găsi cu ușurință parcare în apropiere.",
+            "en": "Engage with cutting-edge science exhibits and the impressive meteorite display, and start your day here right when they open to easily find parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "El Cruce De Los Quiqes",
+            "hu": "El Cruce De Los Quiqes",
+            "ro": "El Cruce De Los Quiqes",
+            "en": "El Cruce De Los Quiqes"
+          },
+          "coords": [
+            -107.414735,
+            24.823481
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser belebten Straßenkreuzung, die die dynamische Energie der Stadt widerspiegelt, und halten Sie Ihre Kamera bereit, um das pulsierende Straßenleben einzufangen.",
+            "hu": "Álljon meg ezen a nyüzsgő városi kereszteződésen, amely a város dinamikus energiáját tükrözi, és tartsa készenlétben a fényképezőgépét, hogy megörökítse a színes utcai életet.",
+            "ro": "Opriți-vă la această intersecție urbană plină de viață, care reflectă energia orașului, și țineți camera pregătită pentru a surprinde viața stradală vibrantă și vânzătorii locali.",
+            "en": "Stop by this bustling urban intersection that reflects the dynamic energy of the city, and keep your camera ready to capture the vibrant street life and local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoológico de Culiacán",
+            "hu": "Zoológico de Culiacán",
+            "ro": "Zoológico de Culiacán",
+            "en": "Zoológico de Culiacán"
+          },
+          "coords": [
+            -107.385128,
+            24.81372
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch üppige Lebensräume mit vielfältigen Tierarten im städtischen Zoo und tragen Sie bequeme Wanderschuhe, da die Wege an Wochenenden recht voll werden können.",
+            "hu": "Sétáljon végig a városi állatkert változatos állatfajoknak otthont adó buja élőhelyein, és viseljen kényelmes cipőt, mivel a sétányok hétvégén meglehetősen zsúfoltak lehetnek.",
+            "ro": "Plimbați-vă prin habitate luxuriante care adăpostesc diverse specii de animale la grădina zoologică a orașului și purtați încălțăminte confortabilă, deoarece aleile pot fi aglomerate în weekend.",
+            "en": "Stroll through lush habitats housing diverse animal species at the city zoo, and wear comfortable walking shoes since the pathways can get quite crowded on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "El Museo de Arte de Sinaloa (MASIN)",
+            "hu": "El Museo de Arte de Sinaloa (MASIN)",
+            "ro": "El Museo de Arte de Sinaloa (MASIN)",
+            "en": "El Museo de Arte de Sinaloa (MASIN)"
+          },
+          "coords": [
+            -107.394194,
+            24.810751
+          ],
+          "category": "museum",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische regionale Kunst in diesem wunderschön restaurierten neoklassizistischen Gebäude und trinken Sie unbedingt einen schnellen Kaffee auf der nahegelegenen Plaza, bevor Sie hineingehen.",
+            "hu": "Csodálja meg a kortárs regionális művészetet ebben a gyönyörűen felújított neoklasszicista épületben, de előtte feltétlenül igyon egy gyors kávét a közeli téren.",
+            "ro": "Admirați arta regională contemporană în această clădire neoclasică frumos restaurată, asigurându-vă că beți o cafea rapidă la piața din apropiere înainte de a intra.",
+            "en": "Admire contemporary regional art in this beautifully restored neoclassical building, making sure to grab a quick coffee at the nearby plaza before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Negro",
+            "hu": "Puente Negro",
+            "ro": "Puente Negro",
+            "en": "Puente Negro"
+          },
+          "coords": [
+            -107.410302,
+            24.809149
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die markante schwarze Eisenbahnbrücke über den Fluss, idealerweise bei Sonnenuntergang, wenn die Silhouetten vor dem farbenfrohen Himmel das perfekte Fotomotiv bieten.",
+            "hu": "Fényképezze le a folyót átívelő ikonikus fekete vasúti hidat, ideális esetben naplementekor, amikor a színes égbolt előtt kirajzolódó sziluettek tökéletes fotózási lehetőséget kínálnak.",
+            "ro": "Fotografiați podul feroviar negru emblematic care traversează râul, ideal vizitând la apus, când siluetele de pe cerul colorat oferă oportunitatea perfectă pentru o poză.",
+            "en": "Photograph the iconic black railway bridge crossing the river, ideally visiting during sunset when the silhouettes against the colorful sky offer the perfect photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Temático Más Culiacán",
+            "hu": "Parque Temático Más Culiacán",
+            "ro": "Parque Temático Más Culiacán",
+            "en": "Parque Temático Más Culiacán"
+          },
+          "coords": [
+            -107.435269,
+            24.810459
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.53,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Nachmittag in den Themengärten und spielerischen Installationen und bringen Sie unbedingt Wasser und einen Hut mit, da Schatten oft Mangelware ist.",
+            "hu": "Töltsön el egy pihentető délutánt a tematikus kertekben és játékos installációk között sétálva, de feltétlenül hozzon magával vizet és kalapot, mivel kevés az árnyék.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă plimbându-vă prin grădini tematice și instalații jucăușe, asigurându-vă că aduceți apă și o pălărie, deoarece umbra poate fi rară.",
+            "en": "Enjoy a relaxing afternoon wandering through themed gardens and playful installations, making sure to bring some water and a hat since shade can be scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Centro de Ciencias de Sinaloa, wo modernste Ausstellungen Ihre Fantasie anregen. Mit dem Auto erreichen Sie bequem den energiegeladenen urbanen Knotenpunkt El Cruce De Los Quiqes.\n\nMittags fahren Sie zum Zoológico de Culiacán. Die Fahrt durch die Stadt ermöglicht Ihnen einen gemütlichen Spaziergang inmitten exotischer Tiere, ohne sich um öffentliche Verkehrsmittel kümmern zu müssen.\n\nDer Nachmittag ist für die Kunstschätze im MASIN reserviert, gefolgt von einer kurzen Fahrt zur imposanten Silhouette des Puente Negro vor dem Nachmittagshimmel.\n\nDer Abend endet mit einem kurzen Ausflug in den Parque Temático. Das weitläufige Gelände bietet eine perfekte, entspannende Möglichkeit, Ihre umfassende Autotour durch die Stadt ausklingen zu lassen.",
+        "hu": "A reggel a Centro de Ciencias de Sinaloa-nál indul, ahol a modern kiállítások megragadják a képzeletét. Autóval könnyedén átkelhet az El Cruce De Los Quiqes nyüzsgő városi csomópontjához.\n\nA dél közeledtével a culiacáni állatkertbe hajt. A városon való átkelés lehetővé teszi, hogy nyugodtan sétáljon az egzotikus állatok között anélkül, hogy a tömegközlekedés miatt aggódna.\n\nA délután a MASIN művészeti kincseinek van fenntartva, amelyet egy gyors autózás követ az ikonikus Puente Negro hatalmas sziluettjének megcsodálására.\n\nAz este egy rövid utazással zárul a Parque Temático-ba. A kiterjedt területek és a fantáziadús installációk tökéletes módot kínálnak a város átfogó autós túrájának lezárására.",
+        "ro": "Dimineața începe la Centro de Ciencias, unde expozițiile de ultimă generație vă captează imaginația. Cu o mașină, traversați cu ușurință orașul spre intersecția aglomerată El Cruce De Los Quiqes.\n\nAmiaza se apropie în timp ce conduceți spre grădina zoologică din Culiacán. Traversarea orașului vă permite să vă bucurați de o plimbare relaxantă printre animalele exotice, fără griji.\n\nDupă-amiaza este rezervată comorilor artistice de la MASIN, urmată de o scurtă plimbare pentru a vă minuna de silueta impunătoare a Puente Negro pe cerul târziu.\n\nSeara se încheie cu o excursie la Parque Temático. Terenurile întinse și decorurile pline de imaginație oferă un mod perfect și relaxant de a vă încheia turul cuprinzător al orașului.",
+        "en": "Morning kicks off at the Centro de Ciencias de Sinaloa, where cutting-edge displays and a massive meteorite capture your imagination. With a car, you easily traverse to the energetic urban spot of El Cruce De Los Quiqes.\n\nMidday approaches as you drive to the Zoológico de Culiacán. Navigating across town allows you to enjoy a leisurely stroll among exotic wildlife without worrying about transit delays.\n\nAfternoon is reserved for the artistic treasures at MASIN, followed by a quick drive to marvel at the imposing silhouette of Puente Negro against the late-afternoon sky.\n\nEvening concludes with a short trip to Parque Temático Más Culiacán. The sprawling grounds and imaginative setups offer a perfect, relaxing way to wind down your comprehensive driving tour of the city."
+      }
+    }
+  }
+}

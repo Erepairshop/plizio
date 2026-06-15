@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-oliva-cities-v2",
+  "anchor": {
+    "name": "Oliva",
+    "coords": [
+      -0.120655,
+      38.920875
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 1.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Etnologico",
+            "hu": "Museo Etnologico",
+            "ro": "Museo Etnologico",
+            "en": "Museo Etnologico"
+          },
+          "coords": [
+            -0.120331,
+            38.920255
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur in diesem detailreichen Museum und achten Sie auf die historischen Werkzeuge, die einen tiefen Einblick in das frühere Leben geben.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a részletgazdag múzeumban, és figyelje meg a régi szerszámokat, amelyek mélyebb betekintést engednek a múlt mindennapjaiba.",
+            "ro": "Descoperiți cultura locală în acest muzeu detaliat și acordați atenție uneltelor vechi care oferă o perspectivă fascinantă asupra vieții cotidiene de odinioară.",
+            "en": "Discover the local culture in this detailed museum and pay attention to the historical tools that offer a deep insight into the everyday life of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Enginy d'OLIVA",
+            "hu": "Enginy d'OLIVA",
+            "ro": "Enginy d'OLIVA",
+            "en": "Enginy d'OLIVA"
+          },
+          "coords": [
+            -0.118985,
+            38.920545
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses historische Zeugnis der alten Ingenieurskunst und kommen Sie am besten früh, um die architektonischen Details in Ruhe fotografieren zu können.",
+            "hu": "Csodálja meg az ősi mérnöki munka e történelmi emlékét, és érdemes korán érkezni, hogy zavartalanul fotózhassa le a különleges építészeti részleteket.",
+            "ro": "Admirați această mărturie istorică a ingineriei antice și veniți mai devreme pentru a putea fotografia în liniște detaliile arhitecturale deosebite ale clădirii.",
+            "en": "Marvel at this historical testament to ancient engineering and arrive early so you can peacefully photograph the unique architectural details of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo arqueologico",
+            "hu": "Museo arqueologico",
+            "ro": "Museo arqueologico",
+            "en": "Museo arqueologico"
+          },
+          "coords": [
+            -0.12228,
+            38.921007
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Geschichte Olivas ein und werfen Sie einen genauen Blick auf die römischen Artefakte, die die lange Besiedlung der Region belegen.",
+            "hu": "Merüljön el Oliva ókori történelmében, és vegye szemügyre a római kori leleteket, amelyek a régió hosszú és gazdag betelepülésének történetét bizonyítják.",
+            "ro": "Pătrundeți în istoria antică a orașului Oliva și examinați îndeaproape artefactele romane care atestă locuirea îndelungată a acestei regiuni fascinante.",
+            "en": "Immerse yourself in Oliva's ancient history and take a close look at the Roman artifacts that prove the long and fascinating settlement of this historic region."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle de la Hoz",
+            "hu": "Calle de la Hoz",
+            "ro": "Calle de la Hoz",
+            "en": "Calle de la Hoz"
+          },
+          "coords": [
+            -0.124123,
+            38.919999
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerische, hufeisenförmige Straße und tragen Sie bequeme Schuhe, um das historische Kopfsteinpflaster problemlos bewältigen zu können.",
+            "hu": "Sétáljon végig ezen a festői, patkó alakú utcán, és viseljen kényelmes cipőt, hogy a történelmi macskaköveken is könnyedén és biztonságosan lépkedhessen.",
+            "ro": "Plimbați-vă pe această stradă pitorească în formă de potcoavă și purtați încălțăminte comodă pentru a naviga fără probleme pe pavajul istoric pietruit.",
+            "en": "Stroll through this picturesque horseshoe-shaped street and be sure to wear comfortable shoes so you can easily navigate the historic and charming cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Olímpia",
+            "hu": "Teatre Olímpia",
+            "ro": "Teatre Olímpia",
+            "en": "Teatre Olímpia"
+          },
+          "coords": [
+            -0.118623,
+            38.919507
+          ],
+          "category": "cultural",
+          "arrive_at": "14:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Atmosphäre dieses charmanten Theaters und überprüfen Sie vorab den lokalen Spielplan auf besondere Vorstellungen während Ihres Besuchs.",
+            "hu": "Tapasztalja meg e bájos színház kulturális atmoszféráját, és előzetesen ellenőrizze a műsort, hátha épp valamilyen különleges előadást fognak játszani.",
+            "ro": "Experimentați atmosfera culturală a acestui teatru fermecător și verificați din timp programul local pentru a prinde o reprezentație specială în timpul vizitei.",
+            "en": "Experience the cultural atmosphere of this charming theater and check the local schedule in advance for any special performances running during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Spaziergang durch Oliva beginnt im ethnologischen Museum, wo die Geschichte am frühen Morgen greifbar wird. Gegen Mittag tauchen wir bei alten Relikten in die antike Vergangenheit ein. Am Nachmittag schlendern wir gemütlich durch die historischen, kopfsteingepflasterten Gassen. Der Abend klingt nach einem inspirierenden Besuch im örtlichen Theater aus.",
+        "hu": "Olivai sétánk a Néprajzi Múzeumban kezdődik, ahol a történelem már kora reggel szinte tapintható. Dél körül az ókori múlt és az egykori mérnöki munka kincseiben merülünk el. Délután bejárjuk a történelmi macskaköves utcákat. Az estét a helyi színház kulturális légkörének megtapasztalása után zárjuk le.",
+        "ro": "Plimbarea noastră prin Oliva începe la muzeul etnologic, unde istoria prinde viață de la prima oră a dimineții. La prânz explorăm trecutul antic și ingineria veche a zonei. După-amiaza ne plimbăm liniștiți pe străzile istorice pitorești. Seara se încheie într-o notă relaxantă și culturală la fermecătorul teatru.",
+        "en": "Our walk through Oliva begins at the Ethnological Museum, where history feels tangible right in the morning. Around midday, we dive deeply into the ancient past and historic engineering. In the afternoon, we stroll through historic cobblestone alleys. The evening gently winds down after an inspiring cultural visit to the local theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Horno romano",
+            "hu": "Horno romano",
+            "ro": "Horno romano",
+            "en": "Horno romano"
+          },
+          "coords": [
+            -0.121908,
+            38.922207
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen gut erhaltenen römischen Ofen und lesen Sie die informativen Tafeln, um mehr über die antike Keramikproduktion der Stadt zu erfahren.",
+            "hu": "Tekintse meg ezt a jól megőrzött római kemencét, és olvassa el a tájékoztató táblákat, hogy többet tudjon meg a város ókori kerámiagyártásának titkairól.",
+            "ro": "Vizitați acest cuptor roman bine conservat și citiți panourile informative pentru a afla mai multe despre producția antică de ceramică din această zonă.",
+            "en": "Visit this well-preserved Roman oven and read the informative plaques to learn more about the ancient ceramic production that once thrived in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo arqueologico",
+            "hu": "Museo arqueologico",
+            "ro": "Museo arqueologico",
+            "en": "Museo arqueologico"
+          },
+          "coords": [
+            -0.12228,
+            38.921007
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Geschichte Olivas ein und werfen Sie einen genauen Blick auf die römischen Artefakte, die die lange Besiedlung der Region belegen.",
+            "hu": "Merüljön el Oliva ókori történelmében, és vegye szemügyre a római kori leleteket, amelyek a régió hosszú és gazdag betelepülésének történetét bizonyítják.",
+            "ro": "Pătrundeți în istoria antică a orașului Oliva și examinați îndeaproape artefactele romane care atestă locuirea îndelungată a acestei regiuni fascinante.",
+            "en": "Immerse yourself in Oliva's ancient history and take a close look at the Roman artifacts that prove the long and fascinating settlement of this historic region."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnologico",
+            "hu": "Museo Etnologico",
+            "ro": "Museo Etnologico",
+            "en": "Museo Etnologico"
+          },
+          "coords": [
+            -0.120331,
+            38.920255
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur in diesem detailreichen Museum und achten Sie auf die historischen Werkzeuge, die einen tiefen Einblick in das frühere Leben geben.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a részletgazdag múzeumban, és figyelje meg a régi szerszámokat, amelyek mélyebb betekintést engednek a múlt mindennapjaiba.",
+            "ro": "Descoperiți cultura locală în acest muzeu detaliat și acordați atenție uneltelor vechi care oferă o perspectivă fascinantă asupra vieții cotidiene de odinioară.",
+            "en": "Discover the local culture in this detailed museum and pay attention to the historical tools that offer a deep insight into the everyday life of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Enginy d'OLIVA",
+            "hu": "Enginy d'OLIVA",
+            "ro": "Enginy d'OLIVA",
+            "en": "Enginy d'OLIVA"
+          },
+          "coords": [
+            -0.118985,
+            38.920545
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses historische Zeugnis der alten Ingenieurskunst und kommen Sie am besten früh, um die architektonischen Details in Ruhe fotografieren zu können.",
+            "hu": "Csodálja meg az ősi mérnöki munka e történelmi emlékét, és érdemes korán érkezni, hogy zavartalanul fotózhassa le a különleges építészeti részleteket.",
+            "ro": "Admirați această mărturie istorică a ingineriei antice și veniți mai devreme pentru a putea fotografia în liniște detaliile arhitecturale deosebite ale clădirii.",
+            "en": "Marvel at this historical testament to ancient engineering and arrive early so you can peacefully photograph the unique architectural details of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Filà Moriscos Oliva",
+            "hu": "Filà Moriscos Oliva",
+            "ro": "Filà Moriscos Oliva",
+            "en": "Filà Moriscos Oliva"
+          },
+          "coords": [
+            -0.110027,
+            38.918243
+          ],
+          "category": "cultural",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spüren Sie den Geist der traditionellen Feste in diesem Vereinslokal und kommen Sie während der Festivitäten, um die lebendige lokale Feierkultur hautnah zu erleben.",
+            "hu": "Érezze a hagyományos fesztiválok szellemét ebben a klubházban, és érkezzen az ünnepek idején, hogy testközelből tapasztalja meg az élő helyi kultúrát.",
+            "ro": "Simțiți spiritul festivalurilor tradiționale în acest sediu și veniți în timpul sărbătorilor pentru a experimenta cultura locală efervescentă la prima mână.",
+            "en": "Feel the spirit of traditional festivals at this association house and come during the festivities to experience the vibrant local celebration culture firsthand."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -0.112828,
+            38.923367
+          ],
+          "category": "recreational",
+          "arrive_at": "16:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser öffentlichen Schwimmanlage und bringen Sie Ihr eigenes Handtuch sowie Sonnencreme mit, um einen erfrischenden Nachmittag zu genießen.",
+            "hu": "Pihenjen ebben a nyilvános uszodában, és hozzon magával saját törölközőt, illetve naptejet, hogy zavartalanul élvezhesse a hűsítő és frissítő délutánt.",
+            "ro": "Relaxați-vă în acest complex de înot public și aduceți propriul prosop și cremă de soare pentru a vă bucura din plin de o după-amiază răcoroasă de vară.",
+            "en": "Relax at this public swimming facility and remember to bring your own towel and sunscreen so you can fully enjoy a refreshing and peaceful summer afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir entspannt am alten römischen Ofen und erkunden die Ursprünge der Stadt. Mittags radeln wir durch die Straßen zu den faszinierenden Museen im Zentrum. Der Nachmittag ist geprägt von lokaler Festkultur bei den historischen Filàs. Der Abend bietet schließlich eine herrliche Abkühlung im städtischen Schwimmbad.",
+        "hu": "Kerékpáros túránk kora reggel az ősi római kemencénél indul, ahol felfedezzük a város gyökereit. Délben a központ lenyűgöző múzeumai felé tekerünk. A délutánt a Filàs ünnepi és kulturális közege határozza meg. Az estét a helyi uszodában töltjük, ahol kellemesen kipihenjük a nap fáradalmait.",
+        "ro": "Turul nostru cu bicicleta începe de dimineață la vechiul cuptor roman, explorând originile orașului. La prânz pedalăm cu entuziasm spre muzeele fascinante din centru. După-amiaza este marcată de cultura festivă autentică de la Filàs. Seara ne relaxăm și ne răcorim la piscina municipală primitoare.",
+        "en": "Our bike tour starts early at the old Roman oven, smoothly exploring the city's origins. At noon, we pedal through the streets to the fascinating museums in the center. The afternoon is marked by discovering local festive culture at the historic Filàs. The evening finally offers a wonderful cool-down at the municipal swimming pool."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tossal Gros",
+            "hu": "Tossal Gros",
+            "ro": "Tossal Gros",
+            "en": "Tossal Gros"
+          },
+          "coords": [
+            -0.143562,
+            38.911695
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen schönen Naturpfad für eine tolle Aussicht und starten Sie am besten frühmorgens, um der starken Mittagshitze der Region zu entgehen.",
+            "hu": "Mássza meg ezt a gyönyörű tanösvényt a nagyszerű kilátásért, és induljon el kora reggel, hogy elkerülje a régióra jellemző erős és kimerítő déli hőséget.",
+            "ro": "Urcați pe acest traseu natural superb pentru o priveliște excelentă și porniți la drum dis-de-dimineață pentru a evita căldura copleșitoare de la amiază.",
+            "en": "Hike up this lovely nature trail for an excellent viewpoint and try to start early in the morning so you can comfortably avoid the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle de la Hoz",
+            "hu": "Calle de la Hoz",
+            "ro": "Calle de la Hoz",
+            "en": "Calle de la Hoz"
+          },
+          "coords": [
+            -0.124123,
+            38.919999
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerische, hufeisenförmige Straße und tragen Sie bequeme Schuhe, um das historische Kopfsteinpflaster problemlos bewältigen zu können.",
+            "hu": "Sétáljon végig ezen a festői, patkó alakú utcán, és viseljen kényelmes cipőt, hogy a történelmi macskaköveken is könnyedén és biztonságosan lépkedhessen.",
+            "ro": "Plimbați-vă pe această stradă pitorească în formă de potcoavă și purtați încălțăminte comodă pentru a naviga fără probleme pe pavajul istoric pietruit.",
+            "en": "Stroll through this picturesque horseshoe-shaped street and be sure to wear comfortable shoes so you can easily navigate the historic and charming cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnologico",
+            "hu": "Museo Etnologico",
+            "ro": "Museo Etnologico",
+            "en": "Museo Etnologico"
+          },
+          "coords": [
+            -0.120331,
+            38.920255
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur in diesem detailreichen Museum und achten Sie auf die historischen Werkzeuge, die einen tiefen Einblick in das frühere Leben geben.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a részletgazdag múzeumban, és figyelje meg a régi szerszámokat, amelyek mélyebb betekintést engednek a múlt mindennapjaiba.",
+            "ro": "Descoperiți cultura locală în acest muzeu detaliat și acordați atenție uneltelor vechi care oferă o perspectivă fascinantă asupra vieții cotidiene de odinioară.",
+            "en": "Discover the local culture in this detailed museum and pay attention to the historical tools that offer a deep insight into the everyday life of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Horno romano",
+            "hu": "Horno romano",
+            "ro": "Horno romano",
+            "en": "Horno romano"
+          },
+          "coords": [
+            -0.121908,
+            38.922207
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen gut erhaltenen römischen Ofen und lesen Sie die informativen Tafeln, um mehr über die antike Keramikproduktion der Stadt zu erfahren.",
+            "hu": "Tekintse meg ezt a jól megőrzött római kemencét, és olvassa el a tájékoztató táblákat, hogy többet tudjon meg a város ókori kerámiagyártásának titkairól.",
+            "ro": "Vizitați acest cuptor roman bine conservat și citiți panourile informative pentru a afla mai multe despre producția antică de ceramică din această zonă.",
+            "en": "Visit this well-preserved Roman oven and read the informative plaques to learn more about the ancient ceramic production that once thrived in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Filà Tuareg Oliva",
+            "hu": "Filà Tuareg Oliva",
+            "ro": "Filà Tuareg Oliva",
+            "en": "Filà Tuareg Oliva"
+          },
+          "coords": [
+            -0.120891,
+            38.92435
+          ],
+          "category": "cultural",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Traditionen der maurischen Fraktion und versuchen Sie, mit den Einheimischen ins Gespräch zu kommen, um mehr zu erfahren.",
+            "hu": "Fedezze fel a mór frakció színes hagyományait ezen a helyszínen, és próbáljon meg beszélgetésbe elegyedni a helyiekkel, hogy még többet megtudjon róluk.",
+            "ro": "Descoperiți tradițiile colorate ale facțiunii maure în acest loc și încercați să purtați o conversație cu localnicii pentru a afla mai multe detalii.",
+            "en": "Discover the colorful traditions of the Moorish faction here and try to strike up a conversation with the welcoming locals to learn more about their history."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -0.112828,
+            38.923367
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser öffentlichen Schwimmanlage und bringen Sie Ihr eigenes Handtuch sowie Sonnencreme mit, um einen erfrischenden Nachmittag zu genießen.",
+            "hu": "Pihenjen ebben a nyilvános uszodában, és hozzon magával saját törölközőt, illetve naptejet, hogy zavartalanul élvezhesse a hűsítő és frissítő délutánt.",
+            "ro": "Relaxați-vă în acest complex de înot public și aduceți propriul prosop și cremă de soare pentru a vă bucura din plin de o după-amiază răcoroasă de vară.",
+            "en": "Relax at this public swimming facility and remember to bring your own towel and sunscreen so you can fully enjoy a refreshing and peaceful summer afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir fahren zunächst komfortabel zum Tossal Gros, um die herrliche Aussicht in der Morgensonne zu genießen. Danach führt die Route ins Zentrum zur historischen und malerischen Calle de la Hoz. Nachmittags erkunden wir die kulturellen Wurzeln in Museen und bei den lokalen Festvereinen. Den Abend verbringen wir schließlich entspannt und erfrischt am öffentlichen Poolbereich.",
+        "hu": "Először kényelmesen a Tossal Gros felé autózunk, hogy a reggeli napsütésben élvezzük a csodás kilátást. Ezt követően a központba, a történelmi Calle de la Hoz-hoz hajtunk. Délután a helyi múzeumokban és a hagyományos kulturális klubokban fedezzük fel a város múltját. Az estét a nyilvános medence hűsítő vizénél, tökéletes nyugalomban zárjuk.",
+        "ro": "Conducem mai întâi confortabil spre Tossal Gros pentru a admira priveliștea spectaculoasă în soarele dimineții. Apoi traseul ne duce în centru la istorica și pitoreasca Calle de la Hoz. După-amiaza explorăm rădăcinile culturale în muzee și la cluburile locale de festival. Seara ne-o petrecem relaxați și revigorați la piscina publică din oraș.",
+        "en": "We first drive comfortably to Tossal Gros to enjoy the spectacular scenic view in the clear morning sun. Then the driving route takes us to the historic and picturesque Calle de la Hoz in the center. In the afternoon, we explore cultural roots in museums and local festival clubs. The evening is spent perfectly relaxed and refreshed at the public pool area."
+      }
+    }
+  }
+}

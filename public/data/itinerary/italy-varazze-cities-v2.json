@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-varazze-cities-v2",
+  "anchor": {
+    "name": "Varazze",
+    "coords": [
+      8.57533,
+      44.3593
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santi Nazario e Celso",
+            "hu": "Santi Nazario e Celso",
+            "ro": "Santi Nazario e Celso",
+            "en": "Santi Nazario e Celso"
+          },
+          "coords": [
+            8.569026,
+            44.357587
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Stiftskirche mit ihren Fresken, aber kommen Sie früh, um den Menschenmassen der Morgenmesse zu entgehen.",
+            "hu": "Csodálja meg e történelmi társaskáptalani templom lenyűgöző homlokzatát és freskóit, de érkezzen korán, hogy elkerülje a reggeli misék forgatagát a téren.",
+            "ro": "Admirați fațada impresionantă a acestei biserici colegiale istorice cu fresce deosebite, dar veniți devreme pentru a evita aglomerația de la slujba de dimineață.",
+            "en": "Admire the striking facade of this historic collegiate church, essential for its beautiful frescoes, but arrive early to avoid the bustling morning mass crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio San Giuseppe",
+            "hu": "Oratorio San Giuseppe",
+            "ro": "Oratorio San Giuseppe",
+            "en": "Oratorio San Giuseppe"
+          },
+          "coords": [
+            8.574476,
+            44.359587
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Oratorium, um traditionelle Holzkruzifixe zu sehen, und achten Sie auf die strikte Stille, die in den Mittagsstunden erbeten wird.",
+            "hu": "Lépjen be ebbe a békés oratóriumba, hogy lenyűgöző hagyományos fakereszteket láthasson, ügyelve a déli órákban elvárt szigorú csend és nyugalom betartására.",
+            "ro": "Pășiți în acest oratoriu liniștit pentru a vedea crucifixuri din lemn uimitoare, având grijă să respectați tăcerea strictă solicitată în orele amiezii.",
+            "en": "Step into this peaceful oratory to view stunning traditional wooden crucifixes, taking care to observe the strict silence requested during the midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di Nostra Signora Assunta",
+            "hu": "Oratorio di Nostra Signora Assunta",
+            "ro": "Oratorio di Nostra Signora Assunta",
+            "en": "Oratorio di Nostra Signora Assunta"
+          },
+          "coords": [
+            8.574916,
+            44.360556
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier detailreiche Prozessionswagen und fragen Sie unbedingt die örtlichen Betreuer nach deren faszinierender maritimer Geschichte für die Stadt.",
+            "hu": "Fedezze fel a falak között rejlő bonyolult körmeneti kocsik kincsesbányáját, és mindenképpen kérdezze meg a helyi gondnokokat azok gazdag tengerészeti múltjáról.",
+            "ro": "Descoperiți o comoară de care procesionale complexe ascunse între aceste ziduri, asigurându-vă că întrebați îngrijitorii locali despre istoria lor maritimă.",
+            "en": "Discover a treasure trove of intricate processional floats hidden within these walls, making sure to ask the local caretakers about their rich maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Bartolomeo",
+            "hu": "Oratorio di San Bartolomeo",
+            "ro": "Oratorio di San Bartolomeo",
+            "en": "Oratorio di San Bartolomeo"
+          },
+          "coords": [
+            8.579072,
+            44.360543
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Renaissance-Altarbilder dieser eleganten Kapelle und denken Sie an eine kleine Spende, um die empfindlichen Kunstwerke zu erhalten.",
+            "hu": "Fedezze fel az elegáns kápolnát meghatározó élénk reneszánsz oltárképeket, és ne felejtsen el aprópénzt hozni az ősi műalkotások megőrzésének támogatására.",
+            "ro": "Explorați altarele renascentiste vibrante ce definesc această capelă elegantă, amintindu-vă să aduceți o mică donație pentru a conserva operele de artă.",
+            "en": "Explore the vibrant Renaissance altarpieces defining this elegant chapel, remembering to bring a small donation to help preserve its delicate, ancient artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "Chiesa di San Domenico",
+            "ro": "Chiesa di San Domenico",
+            "en": "Chiesa di San Domenico"
+          },
+          "coords": [
+            8.584677,
+            44.360847
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den stimmungsvollen Kreuzgang dieses Wahrzeichens, aber prüfen Sie vorher den Hofplan, da hier oft lokale Veranstaltungen stattfinden.",
+            "hu": "Szánjon időt e kiemelkedő műemlék hangulatos kerengőjének felfedezésével, előtte ellenőrizve az udvar beosztását, mivel gyakran ad otthont csendes eseményeknek.",
+            "ro": "Alocați-vă timp pentru a vă plimba prin claustrul evocator al acestui reper, verificând programul curții, deoarece găzduiește adesea evenimente locale.",
+            "en": "Take time to wander through the evocative cloister of this prominent landmark, checking the courtyard schedule beforehand as it often hosts quiet local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Santa Caterina",
+            "hu": "Santuario di Santa Caterina",
+            "ro": "Santuario di Santa Caterina",
+            "en": "Santuario di Santa Caterina"
+          },
+          "coords": [
+            8.586175,
+            44.360405
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in diesem markanten Heiligtum zu Ehren der Schutzpatronin, wo die erhöhte Terrasse einen herrlichen, fotogenen Blick aufs Meer bietet.",
+            "hu": "Zárja látogatását a város védőszentjét tisztelő lenyűgöző szentélyben, ahol a megemelt terasz csodálatos, fotózásra érdemes kilátást nyújt a végtelen tengerre.",
+            "ro": "Încheiați-vă vizita la acest sanctuar impresionant dedicat patroanei orașului, unde terasa ridicată oferă vederi magnifice, perfecte pentru fotografii, spre mare.",
+            "en": "Conclude your visit at this striking sanctuary honoring the city's patron saint, where the elevated terrace offers magnificent, photo-worthy views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der zentralen Kirchen in der Küstensonne. Mittags tauchen Sie in die stillen Oratorien in den engen Gassen ein. Verbringen Sie den Nachmittag damit, Renaissance-Kunst und lebhafte Fresken zu bewundern. Gegen Abend schlendern Sie zum östlichen Heiligtum für einen atemberaubenden Meerblick und Ruhe.",
+        "hu": "Kezdje a reggelt a központi templomok felfedezésével a parti napsütésben. Délben merüljön el a szűk sikátorokban rejlő csendes oratóriumokban. A délutánt reneszánsz művészet és élénk freskók megcsodálásával töltse. Ahogy közeledik az este, sétáljon a keleti szentély felé a lélegzetelállító tengeri kilátásért és a nap békés lezárásáért.",
+        "ro": "Începeți dimineața explorând bisericile centrale, bucurându-vă de soarele de coastă. La prânz, pătrundeți în oratoriile liniștite din aleile înguste. Petreceți după-amiaza admirând arta renascentistă și frescele vibrante. Spre seară, plimbați-vă către sanctuarul estic pentru vederi uimitoare la mare și un final liniștit de zi pe Riviera.",
+        "en": "Start your morning exploring the central churches, soaking in the coastal sunshine. By midday, delve into the quiet oratories hidden in narrow alleys. Spend your afternoon admiring Renaissance art and vibrant frescoes. As evening approaches, stroll towards the eastern sanctuary for breathtaking sea views and a peaceful end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 3.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Capelli",
+            "hu": "Castello Capelli",
+            "ro": "Castello Capelli",
+            "en": "Castello Capelli"
+          },
+          "coords": [
+            8.566134,
+            44.350065
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an den steinernen Türmen dieser mittelalterlichen Burg und tragen Sie festes Schuhwerk, da die umliegenden Wege recht uneben sein können.",
+            "hu": "Kezdje parti utazását e középkori kastély félelmetes kőtornyainak felfedezésével, stabil sétacipőt viselve, mivel a környező ösvények meglehetősen egyenetlenek.",
+            "ro": "Începeți călătoria explorând turnurile formidabile de piatră ale acestui castel medieval, purtând pantofi de mers robuști, deoarece cărările sunt inegale.",
+            "en": "Begin your coastal journey exploring the formidable stone towers of this medieval castle, wearing sturdy walking shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santi Nazario e Celso",
+            "hu": "Santi Nazario e Celso",
+            "ro": "Santi Nazario e Celso",
+            "en": "Santi Nazario e Celso"
+          },
+          "coords": [
+            8.569026,
+            44.357587
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Stiftskirche mit ihren Fresken, aber kommen Sie früh, um den Menschenmassen der Morgenmesse zu entgehen.",
+            "hu": "Csodálja meg e történelmi társaskáptalani templom lenyűgöző homlokzatát és freskóit, de érkezzen korán, hogy elkerülje a reggeli misék forgatagát a téren.",
+            "ro": "Admirați fațada impresionantă a acestei biserici colegiale istorice cu fresce deosebite, dar veniți devreme pentru a evita aglomerația de la slujba de dimineață.",
+            "en": "Admire the striking facade of this historic collegiate church, essential for its beautiful frescoes, but arrive early to avoid the bustling morning mass crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Donato",
+            "hu": "Chiesa di San Donato",
+            "ro": "Chiesa di San Donato",
+            "en": "Chiesa di San Donato"
+          },
+          "coords": [
+            8.571348,
+            44.368061
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser ruhigen Hügelkirche und bringen Sie Wasser mit, da es in diesem Wohngebiet kaum Einkaufsmöglichkeiten gibt.",
+            "hu": "Csodálja meg e békés dombtetői templom gyönyörű román kori építészetét, és vigyen magával vizet, mivel ebben a nyugodt lakóövezetben kevés a szolgáltatás.",
+            "ro": "Admirați arhitectura romanică rafinată a acestei biserici liniștite de pe deal, aducând o sticlă de apă, deoarece facilitățile în această zonă sunt rare.",
+            "en": "Admire the exquisite Romanesque architecture of this tranquil hilltop church, bringing a bottle of water since amenities in this serene residential area are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di Nostra Signora Assunta",
+            "hu": "Oratorio di Nostra Signora Assunta",
+            "ro": "Oratorio di Nostra Signora Assunta",
+            "en": "Oratorio di Nostra Signora Assunta"
+          },
+          "coords": [
+            8.574916,
+            44.360556
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier detailreiche Prozessionswagen und fragen Sie unbedingt die örtlichen Betreuer nach deren faszinierender maritimer Geschichte für die Stadt.",
+            "hu": "Fedezze fel a falak között rejlő bonyolult körmeneti kocsik kincsesbányáját, és mindenképpen kérdezze meg a helyi gondnokokat azok gazdag tengerészeti múltjáról.",
+            "ro": "Descoperiți o comoară de care procesionale complexe ascunse între aceste ziduri, asigurându-vă că întrebați îngrijitorii locali despre istoria lor maritimă.",
+            "en": "Discover a treasure trove of intricate processional floats hidden within these walls, making sure to ask the local caretakers about their rich maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "Chiesa di San Domenico",
+            "ro": "Chiesa di San Domenico",
+            "en": "Chiesa di San Domenico"
+          },
+          "coords": [
+            8.584677,
+            44.360847
+          ],
+          "category": "landmark",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den stimmungsvollen Kreuzgang dieses Wahrzeichens, aber prüfen Sie vorher den Hofplan, da hier oft lokale Veranstaltungen stattfinden.",
+            "hu": "Szánjon időt e kiemelkedő műemlék hangulatos kerengőjének felfedezésével, előtte ellenőrizve az udvar beosztását, mivel gyakran ad otthont csendes eseményeknek.",
+            "ro": "Alocați-vă timp pentru a vă plimba prin claustrul evocator al acestui reper, verificând programul curții, deoarece găzduiește adesea evenimente locale.",
+            "en": "Take time to wander through the evocative cloister of this prominent landmark, checking the courtyard schedule beforehand as it often hosts quiet local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Santa Caterina",
+            "hu": "Santuario di Santa Caterina",
+            "ro": "Santuario di Santa Caterina",
+            "en": "Santuario di Santa Caterina"
+          },
+          "coords": [
+            8.586175,
+            44.360405
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in diesem markanten Heiligtum zu Ehren der Schutzpatronin, wo die erhöhte Terrasse einen herrlichen, fotogenen Blick aufs Meer bietet.",
+            "hu": "Zárja látogatását a város védőszentjét tisztelő lenyűgöző szentélyben, ahol a megemelt terasz csodálatos, fotózásra érdemes kilátást nyújt a végtelen tengerre.",
+            "ro": "Încheiați-vă vizita la acest sanctuar impresionant dedicat patroanei orașului, unde terasa ridicată oferă vederi magnifice, perfecte pentru fotografii, spre mare.",
+            "en": "Conclude your visit at this striking sanctuary honoring the city's patron saint, where the elevated terrace offers magnificent, photo-worthy views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgendliche Fahrten beginnen an der imposanten Burg in der frischen Meeresluft. Mittags geht es in die Altstadt, um verzierte Stiftskirchen zu bestaunen. Am Nachmittag radeln Sie leicht bergauf und entdecken versteckte romanische Juwelen. Der Abend endet mit einer entspannten Fahrt zum Heiligtum der Schutzpatronin an der ruhigen Küste.",
+        "hu": "A reggeli tekerés a középkori kastélynál kezdődik, a friss tengeri levegőt beszívva. A dél a történelmi központba visz, hogy megcsodálja a díszes templomokat. A délutáni kerékpározás kissé felfelé vezet, rejtett román kori gyöngyszemeket tárva fel. Az este egy pihentető utazással zárul a védőszent szentélyéhez a nyugodt, békés tengerparton.",
+        "ro": "Plimbările de dimineață încep la castelul medieval impozant, respirând aerul proaspăt. Amiaza vă coboară în centrul istoric pentru a admira bisericile colegiale ornate. După-amiaza pedalați ușor la deal, descoperind bijuterii romanice ascunse. Seara coboară cu o plimbare relaxantă spre sanctuarul patroanei orașului de pe țărmul liniștit.",
+        "en": "Morning rides begin at the imposing medieval castle, breathing in the fresh sea air. Midday brings you down into the historic center to marvel at ornate collegiate churches. Afternoon pedals take you slightly uphill, uncovering hidden Romanesque gems. Evening descends with a relaxing ride to the patron saint's sanctuary by the tranquil shore."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:59",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista e Santa Lucia",
+            "hu": "Chiesa di San Giovanni Battista e Santa Lucia",
+            "ro": "Chiesa di San Giovanni Battista e Santa Lucia",
+            "en": "Chiesa di San Giovanni Battista e Santa Lucia"
+          },
+          "coords": [
+            8.545942,
+            44.352468
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das spirituelle Erbe dieser Küstenkirche und prüfen Sie das lokale Informationsbrett auf kommende abendliche Chorauftritte vor der Abreise.",
+            "hu": "Merüljön el a tengerparti templom gazdag szellemi örökségében, és távozás előtt ellenőrizze a helyi hirdetőtáblán a közelgő esti kóruselőadások időpontjait.",
+            "ro": "Pătrundeți în bogatul patrimoniu spiritual al acestei biserici de coastă, verificând avizierul local pentru viitoarele spectacole de cor înainte de a pleca.",
+            "en": "Delve into the rich spiritual heritage of this dual-dedicated coastal church, checking the local notice board for upcoming evening choir performances before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora della Croce di Castagnabuona",
+            "hu": "Santuario di Nostra Signora della Croce di Castagnabuona",
+            "ro": "Santuario di Nostra Signora della Croce di Castagnabuona",
+            "en": "Santuario di Nostra Signora della Croce di Castagnabuona"
+          },
+          "coords": [
+            8.55114,
+            44.363034
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem malerischen Heiligtum, um das verehrte Küstenkreuz zu bestaunen, und halten Sie Ihre Kamera für den weiten Blick über die Riviera bereit.",
+            "hu": "Vezessen fel ehhez a festői szentélyhez, hogy megcsodálja a tisztelt tengerparti keresztet, készenlétben tartva fényképezőgépét a Riviérára nyíló panorámához.",
+            "ro": "Conduceți până la acest sanctuar pitoresc pentru a admira crucea sa de coastă, asigurându-vă că aparatul foto este pregătit pentru vederile asupra Rivierei.",
+            "en": "Drive up to this scenic sanctuary to marvel at its deeply revered coastal cross, ensuring your camera is ready for the sweeping panoramic vistas over the Riviera."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Natività di Maria Santissima",
+            "hu": "Chiesa della Natività di Maria Santissima",
+            "ro": "Chiesa della Natività di Maria Santissima",
+            "en": "Chiesa della Natività di Maria Santissima"
+          },
+          "coords": [
+            8.571301,
+            44.37729
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zarten Pastellfresken dieser einladenden Hangpfarrkirche und parken Sie vorsichtig an der schmalen Zufahrtsstraße, um Anwohner zu respektieren.",
+            "hu": "Csodálja meg a hívogató hegyoldali plébániát díszítő finom pasztell freskókat, és a szűk bekötőúton óvatosan parkoljon, hogy tisztelje a helyi lakosokat.",
+            "ro": "Minunați-vă de frescele pastelate delicate ce împodobesc această parohie primitoare pe deal, parcând cu atenție pe drumul de acces îngust.",
+            "en": "Marvel at the delicate pastel frescoes adorning this welcoming hillside parish, parking carefully along the narrow approach road to respect the local neighbors."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella del Beato Jacopo da Varagine",
+            "hu": "Cappella del Beato Jacopo da Varagine",
+            "ro": "Cappella del Beato Jacopo da Varagine",
+            "en": "Cappella del Beato Jacopo da Varagine"
+          },
+          "coords": [
+            8.581389,
+            44.379905
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem berühmten Chronisten der Stadt in dieser intimen Landkapelle die Ehre und sprechen Sie leise, um die tiefe meditative Atmosphäre zu bewahren.",
+            "hu": "Tisztelegjen a város híres krónikása előtt ebben a meghitt vidéki kápolnában, halkan beszélve, hogy megőrizze az erdő mélyen meditatív, békés atmoszféráját.",
+            "ro": "Aduceți un omagiu celebrului cronicar al orașului în această capelă rurală intimă, păstrând vocea scăzută pentru a conserva atmosfera meditativă a pădurii.",
+            "en": "Pay homage to the city's famous chronicler within this intimate rural chapel, keeping your voice low to preserve the deeply meditative atmosphere of the woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora della Guardia",
+            "hu": "Santuario di Nostra Signora della Guardia",
+            "ro": "Santuario di Nostra Signora della Guardia",
+            "en": "Santuario di Nostra Signora della Guardia"
+          },
+          "coords": [
+            8.595166,
+            44.37272
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Krönen Sie Ihre Tour an dieser majestätischen Hügelbasilika mit atemberaubendem Küstenblick, idealerweise am späten Nachmittag für das beste goldene Licht.",
+            "hu": "Koronázza meg túráját ezen a fenséges dombtetői bazilikánál, időzítve látogatását a késő délutánra, amikor a lemenő nap aranyló fénye fürdeti a homlokzatot.",
+            "ro": "Încoronați-vă turul la această bazilică maiestuoasă cu vederile sale uimitoare, planificând vizita spre sfârșitul după-amiezii, când lumina aurie o scaldă.",
+            "en": "Crown your tour at this majestic hilltop basilica with its stunning coastal views, timing your visit for the late afternoon when the golden light bathes the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Santa Caterina",
+            "hu": "Santuario di Santa Caterina",
+            "ro": "Santuario di Santa Caterina",
+            "en": "Santuario di Santa Caterina"
+          },
+          "coords": [
+            8.586175,
+            44.360405
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in diesem markanten Heiligtum zu Ehren der Schutzpatronin, wo die erhöhte Terrasse einen herrlichen, fotogenen Blick aufs Meer bietet.",
+            "hu": "Zárja látogatását a város védőszentjét tisztelő lenyűgöző szentélyben, ahol a megemelt terasz csodálatos, fotózásra érdemes kilátást nyújt a végtelen tengerre.",
+            "ro": "Încheiați-vă vizita la acest sanctuar impresionant dedicat patroanei orașului, unde terasa ridicată oferă vederi magnifice, perfecte pentru fotografii, spre mare.",
+            "en": "Conclude your visit at this striking sanctuary honoring the city's patron saint, where the elevated terrace offers magnificent, photo-worthy views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den westlichen Küstenkirchen, um dem Verkehr zu entgehen. Mittags erkunden Sie die kurvigen Hügelstraßen zu den Panoramasan Heiligtümern. Verbringen Sie den Nachmittag in abgelegenen rustikalen Kapellen inmitten mediterraner Flora. Beenden Sie den Abend an der majestätischen Guardia-Basilika mit einer Sonnenuntergangsfahrt.",
+        "hu": "Vezessen korán a nyugati parti templomokhoz, hogy elkerülje a déli forgalmat. A dél tökéletes a kanyargós hegyi utak bejárására a panorámás szentélyek felé. A délutánt a buja mediterrán növényzetben megbújó, eldugott rusztikus kápolnák felfedezésével töltse. Zárja az estét a fenséges Guardia bazilikánál egy emlékezetes naplemente körúttal.",
+        "ro": "Conduceți devreme către bisericile de coastă vestice pentru a evita traficul. Amiaza este perfectă pentru a naviga pe drumurile șerpuite spre sanctuare panoramice. Petreceți după-amiaza explorând capele rustice retrase, cuibărite printre flora mediteraneană. Încheiați seara la maiestuoasa bazilică Guardia cu o plimbare la apusul soarelui.",
+        "en": "Drive out early to the western coastal churches to beat the midday traffic. Midday is perfect for navigating the winding hillside roads to reach panoramic sanctuaries. Spend the afternoon exploring secluded rustic chapels nestled among lush Mediterranean flora. Conclude your evening at the majestic Guardia basilica with a memorable sunset drive."
+      }
+    }
+  }
+}

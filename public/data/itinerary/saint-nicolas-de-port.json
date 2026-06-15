@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-nicolas-de-port",
+  "anchor": {
+    "name": "Saint-Nicolas-de-Port",
+    "coords": [
+      6.3022,
+      48.6308
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika von Saint-Nicolas",
+            "hu": "Saint-Nicolas Bazilika",
+            "ro": "Bazilica Saint-Nicolas",
+            "en": "Basilica of Saint-Nicolas"
+          },
+          "coords": [
+            6.303889,
+            48.631667
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre gotische Architektur dieser historischen Basilika zu Ehren des heiligen Nikolaus und betrachten Sie die Buntglasfenster, bevor Sie sich ausruhen.",
+            "hu": "Csodálja meg a Szent Miklós tiszteletére emelt gótikus bazilika lenyűgöző építészetét, és figyelje meg a csodás ólomüveg ablakokat, mielőtt megpihenne a csendes főhajóban.",
+            "ro": "Admirați arhitectura gotică spectaculoasă a acestei bazilici istorice dedicate Sfântului Nicolae și priviți vitraliile uimitoare înainte de a vă odihni în naosul liniștit.",
+            "en": "Marvel at the spectacular Gothic architecture of this historic basilica honoring Saint Nicholas, and look closely at the stunning stained glass windows before resting in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Autre Filature",
+            "hu": "L'Autre Filature",
+            "ro": "L'Autre Filature",
+            "en": "L'Autre Filature"
+          },
+          "coords": [
+            6.303763,
+            48.635046
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum in einer ehemaligen Textilfabrik und prüfen Sie vorab das Programm, um eine der Ausstellungen oder lokalen Veranstaltungen zu besuchen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális teret egy egykori textilgyárban, és előzetesen ellenőrizze a programot, hogy elcsípjen egy kortárs művészeti kiállítást vagy helyi eseményt.",
+            "ro": "Explorați acest spațiu cultural vibrant aflat într-o fostă fabrică de textile și verificați programul în avans pentru a prinde una dintre expozițiile de artă contemporană.",
+            "en": "Explore this vibrant cultural space housed in a former textile mill, and check their schedule in advance to catch one of the contemporary art exhibitions or local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Storchengehege",
+            "hu": "Gólyarezervátum",
+            "ro": "Țarcul Berzelor",
+            "en": "Stork Enclosure"
+          },
+          "coords": [
+            6.300836,
+            48.634538
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie majestätische Störche in ihrem natürlichen Lebensraum in diesem Schutzgehege und bringen Sie ein Fernglas mit, um das Nistverhalten aus der Ferne zu beobachten.",
+            "hu": "Figyelje meg a fenséges gólyákat természetes élőhelyükön ebben a védett rezervátumban, és hozzon magával távcsövet, hogy biztonságos távolságból láthassa a fészkelési szokásokat.",
+            "ro": "Priviți berzele maiestuoase în habitatul lor la acest țarc de conservare și aduceți binoclul pentru a observa cu calm comportamentele sezoniere de cuibărit de la o distanță sigură.",
+            "en": "Watch majestic storks in their natural habitat at this dedicated preservation enclosure, and bring binoculars to quietly observe the seasonal nesting behaviors from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Französisches Brauereimuseum",
+            "hu": "Francia Sörfőző Múzeum",
+            "ro": "Muzeul Berăriei Franceze",
+            "en": "French Brewery Museum"
+          },
+          "coords": [
+            6.2975,
+            48.6339
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Brauwesens in diesem imposanten Industriegebäude, wo Sie alte Kupferkessel erkunden und eine Verkostung genießen können.",
+            "hu": "Fedezze fel a francia sörfőzés lenyűgöző történetét ebben az impozáns ipari épületben, ahol régi rézüstöket csodálhat meg, a túra végén pedig kóstolón is részt vehet.",
+            "ro": "Descoperiți istoria fascinantă a fabricării berii în această clădire industrială, unde puteți explora vechile cuve de cupru și vă puteți bucura de o degustare la finalul turului.",
+            "en": "Discover the fascinating history of French brewing in this impressive industrial building, where you can explore old copper vats and enjoy a tasting session at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Filmmuseum",
+            "hu": "Mozi Múzeum",
+            "ro": "Muzeul Cinematografiei",
+            "en": "Cinema Museum"
+          },
+          "coords": [
+            6.28955,
+            48.631572
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die goldene Ära des Films ein mit einer Sammlung von Vintage-Projektoren und bitten Sie den freundlichen Führer, die jahrhundertealten Kameras zu demonstrieren.",
+            "hu": "Lépjen vissza a mozi aranykorába a lenyűgöző vintage projektorok gyűjteményén keresztül, és kérje meg az idegenvezetőt, hogy mutassa be a százéves mechanikus kamerák működését.",
+            "ro": "Pășiți în epoca de aur a filmului printre proiectoare de epocă și rugați ghidul prietenos să vă demonstreze cum funcționează camerele mecanice vechi de un secol din colecție.",
+            "en": "Step back into the golden age of film through an incredible collection of vintage projectors, and ask the friendly guide to demonstrate how the century-old mechanical cameras work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Basilika und besuchen Sie L'Autre Filature für lokale Kultur. Beobachten Sie danach die majestätischen Vögel im Enclos des Cigognes. Verbringen Sie den Nachmittag damit, die Brautraditionen im Musée de la Brasserie zu erkunden. Beenden Sie Ihre Tour im Musée du Cinéma und tauchen Sie in die Geschichte des frühen Films ein.",
+        "hu": "Kezdje a lenyűgöző Bazilikánál, majd látogasson el a L'Autre Filature kulturális központba. Ezután figyelje meg a gólyákat az Enclos des Cigognes területén. Délután fedezze fel a sörfőzés hagyományait a Musée de la Brasserie-ben. Zárja a sétát a Musée du Cinéma lenyűgöző filmes kiállításán, mielőtt megvacsorázna a városban.",
+        "ro": "Începeți la impresionanta Bazilică, apoi vizitați L'Autre Filature pentru cultura locală. Apoi, observați păsările la Enclos des Cigognes. Petreceți după-amiaza explorând tradițiile berăriei la extinsul Musée de la Brasserie. Încheiați turul la Musée du Cinéma, cufundându-vă în istoria fascinantă a filmului timpuriu.",
+        "en": "Start at the breathtaking Basilique, then visit L'Autre Filature for local culture. Next, observe the majestic birds at Enclos des Cigognes. Spend your afternoon exploring regional brewing traditions at the expansive Musée de la Brasserie. Conclude your walking tour at the Musée du Cinéma, immersing yourself in the fascinating history of early filmmaking before an evening meal."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gorgon-Kirche",
+            "hu": "Saint-Gorgon-templom",
+            "ro": "Biserica Saint-Gorgon",
+            "en": "Saint-Gorgon Church"
+          },
+          "coords": [
+            6.315294,
+            48.632911
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde historische Pfarrkirche, um ihre erhaltenen traditionellen Elemente zu bewundern, und treten Sie ein, um die friedliche Akustik zu erleben.",
+            "hu": "Látogasson el ebbe a bájos, történelmi plébániatemplomba, csodálja meg hagyományos elemeit, és élvezze a békés akusztikát távol a főbb turisztikai útvonalaktól.",
+            "ro": "Vizitați această biserică parohială istorică fermecătoare pentru a admira elementele sale tradiționale și intrați pentru a experimenta acustica pașnică, departe de traseele aglomerate.",
+            "en": "Visit this charming historic parish church to admire its beautifully preserved traditional elements, and step inside to experience the peaceful acoustics away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Saint-Nicolas",
+            "hu": "Saint-Nicolas Bazilika",
+            "ro": "Bazilica Saint-Nicolas",
+            "en": "Basilica of Saint-Nicolas"
+          },
+          "coords": [
+            6.303889,
+            48.631667
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre gotische Architektur dieser historischen Basilika zu Ehren des heiligen Nikolaus und betrachten Sie die Buntglasfenster, bevor Sie sich ausruhen.",
+            "hu": "Csodálja meg a Szent Miklós tiszteletére emelt gótikus bazilika lenyűgöző építészetét, és figyelje meg a csodás ólomüveg ablakokat, mielőtt megpihenne a csendes főhajóban.",
+            "ro": "Admirați arhitectura gotică spectaculoasă a acestei bazilici istorice dedicate Sfântului Nicolae și priviți vitraliile uimitoare înainte de a vă odihni în naosul liniștit.",
+            "en": "Marvel at the spectacular Gothic architecture of this historic basilica honoring Saint Nicholas, and look closely at the stunning stained glass windows before resting in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Autre Filature",
+            "hu": "L'Autre Filature",
+            "ro": "L'Autre Filature",
+            "en": "L'Autre Filature"
+          },
+          "coords": [
+            6.303763,
+            48.635046
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum in einer ehemaligen Textilfabrik und prüfen Sie vorab das Programm, um eine der Ausstellungen oder lokalen Veranstaltungen zu besuchen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális teret egy egykori textilgyárban, és előzetesen ellenőrizze a programot, hogy elcsípjen egy kortárs művészeti kiállítást vagy helyi eseményt.",
+            "ro": "Explorați acest spațiu cultural vibrant aflat într-o fostă fabrică de textile și verificați programul în avans pentru a prinde una dintre expozițiile de artă contemporană.",
+            "en": "Explore this vibrant cultural space housed in a former textile mill, and check their schedule in advance to catch one of the contemporary art exhibitions or local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Französisches Brauereimuseum",
+            "hu": "Francia Sörfőző Múzeum",
+            "ro": "Muzeul Berăriei Franceze",
+            "en": "French Brewery Museum"
+          },
+          "coords": [
+            6.2975,
+            48.6339
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Brauwesens in diesem imposanten Industriegebäude, wo Sie alte Kupferkessel erkunden und eine Verkostung genießen können.",
+            "hu": "Fedezze fel a francia sörfőzés lenyűgöző történetét ebben az impozáns ipari épületben, ahol régi rézüstöket csodálhat meg, a túra végén pedig kóstolón is részt vehet.",
+            "ro": "Descoperiți istoria fascinantă a fabricării berii în această clădire industrială, unde puteți explora vechile cuve de cupru și vă puteți bucura de o degustare la finalul turului.",
+            "en": "Discover the fascinating history of French brewing in this impressive industrial building, where you can explore old copper vats and enjoy a tasting session at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Filmmuseum",
+            "hu": "Mozi Múzeum",
+            "ro": "Muzeul Cinematografiei",
+            "en": "Cinema Museum"
+          },
+          "coords": [
+            6.28955,
+            48.631572
+          ],
+          "category": "museum",
+          "arrive_at": "14:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die goldene Ära des Films ein mit einer Sammlung von Vintage-Projektoren und bitten Sie den freundlichen Führer, die jahrhundertealten Kameras zu demonstrieren.",
+            "hu": "Lépjen vissza a mozi aranykorába a lenyűgöző vintage projektorok gyűjteményén keresztül, és kérje meg az idegenvezetőt, hogy mutassa be a százéves mechanikus kamerák működését.",
+            "ro": "Pășiți în epoca de aur a filmului printre proiectoare de epocă și rugați ghidul prietenos să vă demonstreze cum funcționează camerele mecanice vechi de un secol din colecție.",
+            "en": "Step back into the golden age of film through an incredible collection of vintage projectors, and ask the friendly guide to demonstrate how the century-old mechanical cameras work."
+          }
+        },
+        {
+          "name": {
+            "de": "Christkönigskirche",
+            "hu": "Krisztus Király-templom",
+            "ro": "Biserica Hristos Regele",
+            "en": "Church of Christ the King"
+          },
+          "coords": [
+            6.270092,
+            48.639159
+          ],
+          "category": "religious",
+          "arrive_at": "16:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markant moderne Kirche mit ihren klaren Linien und dem minimalistischen Interieur und genießen Sie das natürliche Licht, das mittags in das Heiligtum fällt.",
+            "hu": "Fedezze fel ezt a jellegzetesen modern, letisztult vonalvezetésű templomot, és szánjon egy pillanatot arra, ahogy a természetes fény megvilágítja a szentélyt a déli órákban.",
+            "ro": "Explorați această biserică modernă cu linii izbitoare și interior minimalist și observați cum lumina naturală inundă sanctuarul în timpul orelor liniștite ale amiezii.",
+            "en": "Explore this distinctively modern church with its striking lines and minimalist interior, and take a moment to appreciate how the natural light enters the sanctuary during midday."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Église Saint-Gorgon und radeln Sie zur majestätischen Basilika. Genießen Sie L'Autre Filature und fahren Sie zum Musée de la Brasserie. Weiter geht es zum Musée du Cinéma für eine Reise in die Filmgeschichte. Beenden Sie Ihre Radtour an der modernen Église du Christ-Roi und genießen Sie die abendliche Atmosphäre.",
+        "hu": "Kezdjen az Église Saint-Gorgon templomnál, majd kerekezzen a fenséges Bazilikához. Érintse a L'Autre Filature-t, majd tekerjen a Musée de la Brasserie-hez. Folytassa útját a Musée du Cinéma történelmi gyűjteményéhez. Zárja a kerékpáros útvonalat a modern Église du Christ-Roi templomnál, és élvezze a város békés esti hangulatát.",
+        "ro": "Începeți la Église Saint-Gorgon înainte de a pedala spre maiestuoasa Bazilică. Bucurați-vă de o oprire la L'Autre Filature, apoi mergeți la Musée de la Brasserie. Continuați spre Musée du Cinéma pentru istoria filmului de epocă. Terminați traseul cu bicicleta la moderna Église du Christ-Roi, admirând atmosfera de seară.",
+        "en": "Begin at Église Saint-Gorgon before cycling to the majestic Basilique. Enjoy a cultural stop at L'Autre Filature, then pedal to the Musée de la Brasserie. Continue to the Musée du Cinéma for a dive into vintage film history. Finish your scenic cycling route at the modern Église du Christ-Roi, taking in the peaceful and quiet evening atmosphere of the town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Christkönigskirche",
+            "hu": "Krisztus Király-templom",
+            "ro": "Biserica Hristos Regele",
+            "en": "Church of Christ the King"
+          },
+          "coords": [
+            6.270092,
+            48.639159
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markant moderne Kirche mit ihren klaren Linien und dem minimalistischen Interieur und genießen Sie das natürliche Licht, das mittags in das Heiligtum fällt.",
+            "hu": "Fedezze fel ezt a jellegzetesen modern, letisztult vonalvezetésű templomot, és szánjon egy pillanatot arra, ahogy a természetes fény megvilágítja a szentélyt a déli órákban.",
+            "ro": "Explorați această biserică modernă cu linii izbitoare și interior minimalist și observați cum lumina naturală inundă sanctuarul în timpul orelor liniștite ale amiezii.",
+            "en": "Explore this distinctively modern church with its striking lines and minimalist interior, and take a moment to appreciate how the natural light enters the sanctuary during midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Filmmuseum",
+            "hu": "Mozi Múzeum",
+            "ro": "Muzeul Cinematografiei",
+            "en": "Cinema Museum"
+          },
+          "coords": [
+            6.28955,
+            48.631572
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die goldene Ära des Films ein mit einer Sammlung von Vintage-Projektoren und bitten Sie den freundlichen Führer, die jahrhundertealten Kameras zu demonstrieren.",
+            "hu": "Lépjen vissza a mozi aranykorába a lenyűgöző vintage projektorok gyűjteményén keresztül, és kérje meg az idegenvezetőt, hogy mutassa be a százéves mechanikus kamerák működését.",
+            "ro": "Pășiți în epoca de aur a filmului printre proiectoare de epocă și rugați ghidul prietenos să vă demonstreze cum funcționează camerele mecanice vechi de un secol din colecție.",
+            "en": "Step back into the golden age of film through an incredible collection of vintage projectors, and ask the friendly guide to demonstrate how the century-old mechanical cameras work."
+          }
+        },
+        {
+          "name": {
+            "de": "Französisches Brauereimuseum",
+            "hu": "Francia Sörfőző Múzeum",
+            "ro": "Muzeul Berăriei Franceze",
+            "en": "French Brewery Museum"
+          },
+          "coords": [
+            6.2975,
+            48.6339
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Brauwesens in diesem imposanten Industriegebäude, wo Sie alte Kupferkessel erkunden und eine Verkostung genießen können.",
+            "hu": "Fedezze fel a francia sörfőzés lenyűgöző történetét ebben az impozáns ipari épületben, ahol régi rézüstöket csodálhat meg, a túra végén pedig kóstolón is részt vehet.",
+            "ro": "Descoperiți istoria fascinantă a fabricării berii în această clădire industrială, unde puteți explora vechile cuve de cupru și vă puteți bucura de o degustare la finalul turului.",
+            "en": "Discover the fascinating history of French brewing in this impressive industrial building, where you can explore old copper vats and enjoy a tasting session at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Storchengehege",
+            "hu": "Gólyarezervátum",
+            "ro": "Țarcul Berzelor",
+            "en": "Stork Enclosure"
+          },
+          "coords": [
+            6.300836,
+            48.634538
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie majestätische Störche in ihrem natürlichen Lebensraum in diesem Schutzgehege und bringen Sie ein Fernglas mit, um das Nistverhalten aus der Ferne zu beobachten.",
+            "hu": "Figyelje meg a fenséges gólyákat természetes élőhelyükön ebben a védett rezervátumban, és hozzon magával távcsövet, hogy biztonságos távolságból láthassa a fészkelési szokásokat.",
+            "ro": "Priviți berzele maiestuoase în habitatul lor la acest țarc de conservare și aduceți binoclul pentru a observa cu calm comportamentele sezoniere de cuibărit de la o distanță sigură.",
+            "en": "Watch majestic storks in their natural habitat at this dedicated preservation enclosure, and bring binoculars to quietly observe the seasonal nesting behaviors from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Saint-Nicolas",
+            "hu": "Saint-Nicolas Bazilika",
+            "ro": "Bazilica Saint-Nicolas",
+            "en": "Basilica of Saint-Nicolas"
+          },
+          "coords": [
+            6.303889,
+            48.631667
+          ],
+          "category": "religious",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre gotische Architektur dieser historischen Basilika zu Ehren des heiligen Nikolaus und betrachten Sie die Buntglasfenster, bevor Sie sich ausruhen.",
+            "hu": "Csodálja meg a Szent Miklós tiszteletére emelt gótikus bazilika lenyűgöző építészetét, és figyelje meg a csodás ólomüveg ablakokat, mielőtt megpihenne a csendes főhajóban.",
+            "ro": "Admirați arhitectura gotică spectaculoasă a acestei bazilici istorice dedicate Sfântului Nicolae și priviți vitraliile uimitoare înainte de a vă odihni în naosul liniștit.",
+            "en": "Marvel at the spectacular Gothic architecture of this historic basilica honoring Saint Nicholas, and look closely at the stunning stained glass windows before resting in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Varangéville",
+            "hu": "Varangéville-i bánya",
+            "ro": "Mina Varangéville",
+            "en": "Varangéville Mine"
+          },
+          "coords": [
+            6.312285,
+            48.637175
+          ],
+          "category": "landmark",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie in die riesige Unterwelt dieses aktiven Salzbergwerks hinab und denken Sie daran, warme Kleidung zu tragen, da die unterirdischen Temperaturen konstant kühl bleiben.",
+            "hu": "Ereszkedjen le ebbe az aktív sóbányába egy igazán egyedülálló kalandért, és ne felejtsen el meleg ruhát viselni, mivel a föld alatti hőmérséklet egész évben hűvös marad.",
+            "ro": "Coborâți în lumea subterană vastă a acestei mine de sare active pentru o aventură unică și nu uitați să purtați haine groase, deoarece temperaturile sunt constant scăzute.",
+            "en": "Descend into the vast underground world of this active salt mine for a truly unique adventure, and remember to wear warm clothes as the subterranean temperatures remain constantly cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Église du Christ-Roi, gefolgt vom Musée du Cinéma. Erkunden Sie das Musée Français de la Brasserie und bewundern Sie die Störche im Enclos des Cigognes. Besuchen Sie am Nachmittag die imposante Basilique de Saint-Nicolas. Beenden Sie den Tagesausflug mit einem unvergesslichen Abstieg in die aktive Mine de Varangéville.",
+        "hu": "Látogasson el autóval az Église du Christ-Roi templomhoz, majd a Musée du Cinéma kiállításához. Fedezze fel a Musée Français de la Brasserie-t, és nézze meg a gólyákat. Délután csodálja meg az impozáns Basilique de Saint-Nicolas épületét. Zárja a napot egy felejthetetlen ereszkedéssel a lenyűgöző és aktív Mine de Varangéville sóbányába.",
+        "ro": "Conduceți la Église du Christ-Roi, urmată de exponatele de la Musée du Cinéma. Explorați Musée Français de la Brasserie și admirați berzele de la Enclos des Cigognes. Vizitați impunătoarea Basilique de Saint-Nicolas după-amiaza. Încheiați excursia cu o coborâre de neuitat în salina activă Mine de Varangéville.",
+        "en": "Drive first to the striking Église du Christ-Roi, followed by the vintage exhibits at Musée du Cinéma. Next, explore the grand Musée Français de la Brasserie and briefly admire the storks at Enclos des Cigognes. Visit the imposing Basilique de Saint-Nicolas in the afternoon. Conclude your day trip with an unforgettable descent into the active Mine de Varangéville."
+      }
+    }
+  }
+}

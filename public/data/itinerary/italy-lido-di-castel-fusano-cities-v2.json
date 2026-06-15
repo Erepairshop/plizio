@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-lido-di-castel-fusano-cities-v2",
+  "anchor": {
+    "name": "Lido di Castel Fusano",
+    "coords": [
+      12.32588,
+      41.71628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Statua Sant Agostino",
+            "hu": "Szent Ágoston-szobor",
+            "ro": "Statuia Sfântului Augustin",
+            "en": "Statua Sant Agostino"
+          },
+          "coords": [
+            12.30242,
+            41.721878
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das dem geliebten Heiligen gewidmet ist, und bringen Sie eine Kamera für das schöne Morgenlicht mit.",
+            "hu": "Csodálja meg ezt a szeretett szentnek szentelt történelmi emlékművet, és hozzon magával fényképezőgépet a gyönyörű reggeli fények miatt.",
+            "ro": "Admirați acest monument istoric dedicat sfântului iubit și aduceți un aparat foto pentru lumina superbă a dimineții pe statuie.",
+            "en": "Admire this historical monument dedicated to the beloved saint, and bring a camera for the lovely morning light against the statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Mami Beach",
+            "hu": "Mami Beach",
+            "ro": "Mami Beach",
+            "en": "Mami Beach"
+          },
+          "coords": [
+            12.301102,
+            41.719235
+          ],
+          "category": "recreational",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Sonnenbad und die lebhafte Strandkultur an diesem Ort, wo Sie unbedingt ein erfrischendes Getränk am Kiosk probieren sollten.",
+            "hu": "Élvezze a napozást és a nyüzsgő strandkultúrát ezen a helyen, ahol mindenképpen kóstoljon meg egy frissítő italt a helyi kioszkban.",
+            "ro": "Bucurați-vă de plajă și de cultura vibrantă a acestui loc plin de viață, unde ar trebui să încercați o băutură răcoritoare de la chioșcul local.",
+            "en": "Enjoy sunbathing and vibrant beach culture at this lively spot, where you should definitely try a refreshing drink from the local kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Libera Canale dei Pescatori",
+            "hu": "Szabadstrand a Halász-csatornánál",
+            "ro": "Plaja Liberă Canale dei Pescatori",
+            "en": "Spiaggia Libera Canale dei Pescatori"
+          },
+          "coords": [
+            12.302771,
+            41.71834
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten, freien Strandbereich in der Nähe des Fischerkanals und kommen Sie früh, um einen guten Platz zu ergattern.",
+            "hu": "Pihenjen ezen a népszerű, ingyenes strandon a halászcsatorna közelében, és érkezzen korán, hogy jó helyet biztosítson magának a homokban.",
+            "ro": "Relaxați-vă pe această plajă publică populară lângă canalul pescarilor și ajungeți devreme pentru a vă asigura un loc bun pe nisip.",
+            "en": "Relax at this free, popular beach area near the fisherman's canal, and arrive early to secure a good spot on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Cippo Italcable",
+            "hu": "Cippo Italcable",
+            "ro": "Cippo Italcable",
+            "en": "Cippo Italcable"
+          },
+          "coords": [
+            12.304578,
+            41.718295
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bedeutende historische Markierung für Italiens frühe Telekommunikation, die sich perfekt als kurzer Fotostopp eignet.",
+            "hu": "Fedezze fel ezt az Olaszország korai távközlésének emléket állító történelmi jelzést, amely ideális egy gyors fotózáshoz útban a part felé.",
+            "ro": "Explorați acest marcaj istoric semnificativ care comemorează telecomunicațiile timpurii ale Italiei, vizitat cel mai bine pentru o fotografie rapidă.",
+            "en": "Explore this significant historical marker commemorating Italy's early telecommunications, best visited as a quick photo stop on your way to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "La vecchia Pineta",
+            "hu": "La vecchia Pineta",
+            "ro": "La vecchia Pineta",
+            "en": "La vecchia Pineta"
+          },
+          "coords": [
+            12.305656,
+            41.717921
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reisen Sie in dieser historischen Strandeinrichtung mit eleganter Architektur in der Zeit zurück und reservieren Sie einen Tisch für das Mittagessen.",
+            "hu": "Lépjen vissza az időben ebben az elegáns építészetű, történelmi tengerparti létesítményben, és foglaljon asztalt egy tengerre néző ebédhez.",
+            "ro": "Întoarceți-vă în timp în acest stabiliment istoric de pe plajă, cu arhitectură elegantă, și rezervați o masă pentru un prânz cu vedere la mare.",
+            "en": "Step back in time at this historic beachfront establishment featuring elegant architecture, and book a table for a sea-view lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuova Pineta",
+            "hu": "Nuova Pineta",
+            "ro": "Nuova Pineta",
+            "en": "Nuova Pineta"
+          },
+          "coords": [
+            12.311741,
+            41.715947
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem klassischen Erholungsgebiet an der Küste, das perfekten Schatten bietet und ideal für ein erholsames Nachmittagspicknick ist.",
+            "hu": "Kapcsolódjon ki ezen a klasszikus tengerparti fenyves területen, amely tökéletes árnyékot nyújt, és ideális egy délutáni pihentető piknikhez.",
+            "ro": "Relaxați-vă în această zonă recreativă clasică de coastă care oferă umbră perfectă, fiind ideală pentru un picnic de după-amiază liniștit.",
+            "en": "Unwind in this classic recreational coastal pine area that offers perfect shade, making it ideal for a relaxing midday picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Besuch der historischen Stätten im Westen von Castel Fusano, bevor wir an den lebhaften Stränden neue Energie tanken. Mittags erkunden wir die Uferpromenade mit kurzen Stopps an historischen Denkmälern. Der Nachmittag bietet viel Zeit, die Architektur der berühmten Strandclubs zu bewundern. Am Abend entspannen wir unter den kühlen Pinienbäumen der Küste.",
+        "hu": "A reggelt Castel Fusano nyugati történelmi helyszínein kezdjük, mielőtt a nyüzsgő strandokon felfrissülnénk. Délben a partmenti sétányt fedezzük fel, történelmi emlékművek érintésével. A délután rengeteg időt kínál a híres strandklubok építészetének megcsodálására. Estefelé a hűs tengerparti fenyők alatt pihenhetünk meg.",
+        "ro": "Dimineața începe cu vizitarea siturilor istorice din vestul Castel Fusano, înainte de a ne bucura de plajele pline de viață. La prânz explorăm faleza cu scurte opriri la monumente istorice. După-amiaza oferă timp berechet pentru a admira arhitectura faimoaselor cluburi de plajă. Seara ne relaxăm sub pinii răcoroși de pe coastă.",
+        "en": "The morning begins with a visit to the historic sites in the west of Castel Fusano before enjoying the lively beaches. Midday brings a walk along the waterfront with brief stops at historical markers. The afternoon provides ample time to admire the architecture of renowned beach clubs. By evening, we relax under the cooling shade of the coastal pines."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Dafne",
+            "hu": "Dafne Színház",
+            "ro": "Teatro Dafne",
+            "en": "Teatro Dafne"
+          },
+          "coords": [
+            12.304438,
+            41.731485
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale kulturelle Darbietungen in diesem charmanten Vororttheater, aber schauen Sie vorab online nach dem aktuellen Programm.",
+            "hu": "Fedezze fel a helyi kulturális előadásokat ebben a bájos külvárosi színházban, de látogatás előtt mindenképpen ellenőrizze az online műsort.",
+            "ro": "Descoperiți spectacolele culturale locale în acest teatru fermecător de suburbie, dar verificați programul online înainte de vizită.",
+            "en": "Discover local cultural performances in this charming suburban theater, but remember to check their schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua Sant Agostino",
+            "hu": "Szent Ágoston-szobor",
+            "ro": "Statuia Sfântului Augustin",
+            "en": "Statua Sant Agostino"
+          },
+          "coords": [
+            12.30242,
+            41.721878
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das dem geliebten Heiligen gewidmet ist, und bringen Sie eine Kamera für das schöne Morgenlicht mit.",
+            "hu": "Csodálja meg ezt a szeretett szentnek szentelt történelmi emlékművet, és hozzon magával fényképezőgépet a gyönyörű reggeli fények miatt.",
+            "ro": "Admirați acest monument istoric dedicat sfântului iubit și aduceți un aparat foto pentru lumina superbă a dimineții pe statuie.",
+            "en": "Admire this historical monument dedicated to the beloved saint, and bring a camera for the lovely morning light against the statue."
+          }
+        },
+        {
+          "name": {
+            "de": "La vecchia Pineta",
+            "hu": "La vecchia Pineta",
+            "ro": "La vecchia Pineta",
+            "en": "La vecchia Pineta"
+          },
+          "coords": [
+            12.305656,
+            41.717921
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reisen Sie in dieser historischen Strandeinrichtung mit eleganter Architektur in die Vergangenheit und reservieren Sie einen Tisch mit Meerblick.",
+            "hu": "Lépjen vissza az időben ebben az elegáns építészetű tengerparti létesítményben, és foglaljon asztalt egy tengerre néző ebédhez.",
+            "ro": "Întoarceți-vă în timp în acest stabiliment istoric de plajă, cu arhitectură elegantă, și rezervați o masă pentru un prânz cu vedere la mare.",
+            "en": "Step back in time at this historic beachfront establishment featuring elegant architecture, and book a table for a sea-view lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kursaal Village",
+            "hu": "Kursaal Village",
+            "ro": "Kursaal Village",
+            "en": "Kursaal Village"
+          },
+          "coords": [
+            12.315453,
+            41.714823
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen architektonischen Details dieses berühmten Strandclubs und machen Sie ein Foto an seinem ikonischen Sprungturm.",
+            "hu": "Csodálja meg ennek a híres strandklubnak a modern építészeti részleteit, és ne hagyja ki a fotózkodást az ikonikus ugródeszkánál.",
+            "ro": "Admirați detaliile arhitecturale moderne ale acestui faimos club de plajă și nu ratați să faceți o fotografie lângă trambulina sa iconică.",
+            "en": "Marvel at the mid-century modern architectural details of this famous beach club, and don't miss taking a picture near its iconic diving board."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Azzurro",
+            "hu": "Lido Azzurro",
+            "ro": "Lido Azzurro",
+            "en": "Lido Azzurro"
+          },
+          "coords": [
+            12.322727,
+            41.711283
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser dieser gepflegten Küstenanlage ein und bringen Sie Ihr eigenes Handtuch mit für die freien Bereiche.",
+            "hu": "Merüljön el ennek a jól karbantartott parti létesítménynek a tiszta vizében, és hozzon saját törölközőt az ingyenes részekhez.",
+            "ro": "Scufundați-vă în apele clare la această facilitate de coastă bine întreținută și aduceți propriul prosop pentru zonele cu acces gratuit.",
+            "en": "Dive into the clear waters at this well-maintained coastal facility, and bring your own towel if you plan to stick to the free access areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Orsa Maggiore",
+            "hu": "Orsa Maggiore",
+            "ro": "Orsa Maggiore",
+            "en": "Orsa Maggiore"
+          },
+          "coords": [
+            12.323652,
+            41.710886
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre dieses ikonischen Strandresorts und bleiben Sie bis zum späten Nachmittag für den spektakulären Sonnenuntergang.",
+            "hu": "Szívja magába ezen ikonikus tengerparti üdülőhely nyugodt légkörét, és maradjon késő délutánig, hogy megcsodálja a látványos naplementét.",
+            "ro": "Bucurați-vă de atmosfera relaxată a acestei stațiuni iconice de plajă și rămâneți până târziu pentru a prinde apusul spectaculos.",
+            "en": "Soak in the relaxed atmosphere of this iconic beach resort, and stay until late afternoon to catch the spectacular coastal sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am kulturellen Zentrum im Landesinneren und radeln flott in Richtung Küste. Der Vormittag bietet eine malerische Fahrt entlang der Uferstraße mit einem kurzen Halt an der historischen Statue. Mittags machen wir Rast an den ikonischen, eleganten Strandclubs mit ihrer beeindruckenden Architektur. Der Tag endet gemütlich mit dem Meeresrauschen in einem der entspanntesten Strandbäder.",
+        "hu": "A szárazföldi kulturális központból indulva gyorsan a part felé tekerünk. A délelőtt festői utazást kínál a parti úton, rövid megállóval a történelmi szobornál. Délben az ikonikus, lenyűgöző építészetű strandkluboknál pihenünk meg. A nap a tenger zúgása mellett zárul az egyik legnyugodtabb fürdőhelyen.",
+        "ro": "Începem de la centrul cultural spre interior și pedalăm alert spre coastă. Dimineața oferă o plimbare pitorească pe drumul de coastă, cu o scurtă oprire la statuia istorică. La prânz facem o pauză la cluburile iconice de plajă, remarcabile prin arhitectura lor. Ziua se încheie liniștit pe sunetul valurilor într-una dintre cele mai relaxante stațiuni.",
+        "en": "We start from the inland cultural hub and pedal briskly toward the coast. The morning offers a scenic ride along the waterfront road with a brief stop at the historic statue. Midday sees us resting at the iconic beach clubs notable for their stunning architecture. The day concludes peacefully to the sound of the ocean at a highly relaxed resort."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Dafne",
+            "hu": "Dafne Színház",
+            "ro": "Teatro Dafne",
+            "en": "Teatro Dafne"
+          },
+          "coords": [
+            12.304438,
+            41.731485
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale kulturelle Darbietungen in diesem charmanten Vororttheater, aber schauen Sie vorab online nach dem aktuellen Programm.",
+            "hu": "Fedezze fel a helyi kulturális előadásokat ebben a bájos külvárosi színházban, de látogatás előtt mindenképpen ellenőrizze az online műsort.",
+            "ro": "Descoperiți spectacolele culturale locale în acest teatru fermecător de suburbie, dar verificați programul online înainte de vizită.",
+            "en": "Discover local cultural performances in this charming suburban theater, but remember to check their schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cippo Italcable",
+            "hu": "Cippo Italcable",
+            "ro": "Cippo Italcable",
+            "en": "Cippo Italcable"
+          },
+          "coords": [
+            12.304578,
+            41.718295
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bedeutende historische Markierung für Italiens frühe Telekommunikation, die sich perfekt als kurzer Fotostopp eignet.",
+            "hu": "Fedezze fel ezt az Olaszország korai távközlésének emléket állító történelmi jelzést, amely ideális egy gyors fotózáshoz útban a part felé.",
+            "ro": "Explorați acest marcaj istoric semnificativ care comemorează telecomunicațiile timpurii ale Italiei, vizitat cel mai bine pentru o fotografie rapidă.",
+            "en": "Explore this significant historical marker commemorating Italy's early telecommunications, best visited as a quick photo stop on your way to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuova Pineta",
+            "hu": "Nuova Pineta",
+            "ro": "Nuova Pineta",
+            "en": "Nuova Pineta"
+          },
+          "coords": [
+            12.311741,
+            41.715947
+          ],
+          "category": "recreational",
+          "arrive_at": "10:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem klassischen Erholungsgebiet an der Küste, das perfekten Schatten bietet und ideal für ein erholsames Nachmittagspicknick ist.",
+            "hu": "Kapcsolódjon ki ezen a klasszikus tengerparti fenyves területen, amely tökéletes árnyékot nyújt, és ideális egy délutáni pihentető piknikhez.",
+            "ro": "Relaxați-vă în această zonă recreativă clasică de coastă care oferă umbră perfectă, fiind ideală pentru un picnic de după-amiază liniștit.",
+            "en": "Unwind in this classic recreational coastal pine area that offers perfect shade, making it ideal for a relaxing midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Zenit",
+            "hu": "Zenit",
+            "ro": "Zenit",
+            "en": "Zenit"
+          },
+          "coords": [
+            12.326873,
+            41.70933
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Meer in dieser modernen Anlage, die dank ihrer hervorragenden Annehmlichkeiten und dem sanften Ufer perfekt für Familien ist.",
+            "hu": "Pihenjen a tengerparton ebben a modern létesítményben, amely kiváló felszereltségének és lankás partjának köszönhetően tökéletes családok számára.",
+            "ro": "Relaxați-vă la malul mării în această facilitate modernă, perfectă pentru familii datorită dotărilor excelente și țărmului lin.",
+            "en": "Unwind by the sea in this modern recreational facility, which is perfect for families thanks to its excellent seaside amenities and gentle shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilimento Balneare Le Palme",
+            "hu": "Stabilimento Balneare Le Palme",
+            "ro": "Stabilimento Balneare Le Palme",
+            "en": "Stabilimento Balneare Le Palme"
+          },
+          "coords": [
+            12.3289,
+            41.708366
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie gehobene Strandfreizeit im Le Palme, wo die Vorabreservierung einer Sonnenliege einen komfortablen Nachmittag garantiert.",
+            "hu": "Tapasztalja meg az exkluzív strandolást a Le Palme-ban, ahol a napágy előzetes lefoglalása kényelmes és fényűző délutánt biztosít.",
+            "ro": "Experimentați luxul pe plajă la Le Palme, unde închirierea în avans a unui șezlong asigură o după-amiază confortabilă.",
+            "en": "Experience upscale beach leisure at Le Palme, where renting a sunbed in advance ensures a comfortable and luxurious afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa cosiddetta di Plinio",
+            "hu": "Plinius villája",
+            "ro": "Villa cosiddetta di Plinio",
+            "en": "Villa cosiddetta di Plinio"
+          },
+          "coords": [
+            12.346947,
+            41.711167
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden römischen Ruinen dieser antiken Küstenvilla und tragen Sie festes Schuhwerk für die archäologische Stätte.",
+            "hu": "Fedezze fel ennek az ősi tengerparti villának a lenyűgöző római romjait, és viseljen masszív sétacipőt a régészeti lelőhely bejárásához.",
+            "ro": "Explorați ruinele romane fascinante ale acestei vile antice de coastă și purtați încălțăminte comodă pentru a naviga situl arheologic.",
+            "en": "Explore the fascinating Roman ruins of this ancient coastal villa, and wear sturdy walking shoes to navigate the archaeological site comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit einem Hauch von Lokalkultur, bevor wir zügig zur Küste übersetzen. Der Mittag lockt mit wunderschönen Strandabschnitten, bei denen Komfort und Entspannung im Mittelpunkt stehen. Am Nachmittag lassen wir das moderne Leben hinter uns und tauchen ein in die exklusiveren Badeanlagen. Den krönenden Abschluss bildet ein Spaziergang durch faszinierende antike römische Ruinen.",
+        "hu": "Az utazás a helyi kultúra egy csipetnyijével kezdődik, mielőtt gyorsan áttérnénk a partra. A délidő gyönyörű strandrészekkel csábít, ahol a kényelem és a pihenés áll a középpontban. Délután magunk mögött hagyjuk a nyüzsgést, hogy exkluzívabb fürdőhelyeken relaxáljunk. A nap koronája a lenyűgöző ókori római romok közötti séta lesz.",
+        "ro": "Călătoria începe cu o atingere de cultură locală, urmată de un drum rapid spre coastă. Prânzul este petrecut la sectoare de plajă frumoase, axate pe confort și relaxare. După-amiaza lăsăm în urmă viața agitată pentru a ne bucura de stabilimente mai exclusiviste. Finalul glorios este o plimbare printre fascinantele ruine romane antice.",
+        "en": "The drive begins with a touch of local culture before quickly moving towards the coastline. Midday invites us to beautiful beach sectors focused heavily on comfort and relaxation. In the afternoon, we leave the modern rush behind to enjoy more exclusive beach establishments. The crowning finale is a walk through fascinating ancient Roman ruins."
+      }
+    }
+  }
+}

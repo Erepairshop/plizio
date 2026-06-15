@@ -1,0 +1,589 @@
+{
+  "city_id": "ireland-rathbarry-cities-v2",
+  "anchor": {
+    "name": "Rathbarry",
+    "coords": [
+      -8.9603,
+      51.57355
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cottage Museum",
+            "hu": "Cottage Museum",
+            "ro": "Cottage Museum",
+            "en": "Cottage Museum"
+          },
+          "coords": [
+            -8.962401,
+            51.572852
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in diesem charmanten Cottage und betrachten Sie historische Artefakte des ländlichen Lebens; sprechen Sie unbedingt mit den kundigen Führern.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos vidéki házban, megvizsgálva a vidéki ír élet történelmi emlékeit; feltétlenül beszélgessen a nagy tudású helyi vezetőkkel.",
+            "ro": "Descoperiți moștenirea locală în această căsuță fermecătoare, examinând artefacte istorice ale vieții rurale; asigurați-vă că discutați cu ghizii locali bine informați.",
+            "en": "Discover local heritage within this charming cottage, examining historical artifacts that reveal rural Irish life; make sure to chat with the knowledgeable local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "St Michael's Church, Rathbarry",
+            "hu": "St Michael's Church, Rathbarry",
+            "ro": "St Michael's Church, Rathbarry",
+            "en": "St Michael's Church, Rathbarry"
+          },
+          "coords": [
+            -8.96165,
+            51.575901
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser religiösen Stätte, die als zentraler Pfeiler der Gemeinde dient; kommen Sie früh, um das Morgenlicht in den Fenstern zu sehen.",
+            "hu": "Csodálja meg e vallási helyszín békés építészetét, amely a közösség központi oszlopaként áll; érkezzen korán, hogy értékelje az ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura liniștită a acestui sit religios, care se înalță ca un stâlp central al comunității; sosiți devreme pentru a aprecia lumina dimineții prin ferestre.",
+            "en": "Admire the tranquil architecture of this religious site, which stands as a central pillar of the community; arrive early to appreciate the morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Wart Well",
+            "hu": "Wart Well",
+            "ro": "Wart Well",
+            "en": "Wart Well"
+          },
+          "coords": [
+            -8.974555,
+            51.575174
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Stück lokaler Folklore mit seinen angeblich heilenden Wassern; treten Sie respektvoll auf und lesen Sie die alten Inschriften der Steine.",
+            "hu": "Fedezze fel a helyi folklór e lenyűgöző darabját, amelynek gyógyító vizet tulajdonítanak; közeledjen tisztelettel, és olvassa el a közeli köveken található ősi feliratokat.",
+            "ro": "Explorați această piesă fascinantă de folclor local, despre care se crede că are ape vindecătoare; apropiați-vă cu respect și citiți inscripțiile antice de pe pietrele din jur.",
+            "en": "Explore this fascinating piece of local folklore believed to hold healing waters; approach with respect and take a moment to read the ancient inscriptions on the nearby stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlefreke Castle",
+            "hu": "Castlefreke Castle",
+            "ro": "Castlefreke Castle",
+            "en": "Castlefreke Castle"
+          },
+          "coords": [
+            -8.977922,
+            51.570715
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Ruinen dieser historischen Festung in der grünen Landschaft; tragen Sie festes Schuhwerk, da die umliegenden Wege oft uneben und schlammig sind.",
+            "hu": "Csodálja meg ennek a zöldellő tájban megbúvó történelmi erődítménynek a lenyűgöző romjait; viseljen erős túracipőt, mivel a környező ösvények egyenetlenek és sarasak lehetnek.",
+            "ro": "Minunați-vă de ruinele impunătoare ale acestei fortărețe istorice cuibărite în peisajul verde; purtați încălțăminte de drumeție robustă, deoarece potecile pot fi noroioase.",
+            "en": "Marvel at the imposing ruins of this historical fortress nestled in the verdant landscape; wear sturdy walking shoes as the surrounding paths can be uneven and quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruined Church",
+            "hu": "Ruined Church",
+            "ro": "Ruined Church",
+            "en": "Ruined Church"
+          },
+          "coords": [
+            -8.97273,
+            51.56627
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den stimmungsvollen steinernen Überresten dieser antiken Kultstätte; bringen Sie eine Kamera mit, um die dramatischen Kontraste einzufangen.",
+            "hu": "Lépjen vissza az időben ezen ősi istentiszteleti hely hangulatos kőmaradványai között; hozzon fényképezőgépet a régi falak és az ég közötti drámai kontraszt megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp printre rămășițele de piatră atmosferice ale acestui vechi lăcaș de cult; aduceți un aparat foto pentru a surprinde contrastul dramatic cu cerul.",
+            "en": "Step back in time among the atmospheric stone remains of this ancient place of worship; bring a camera to capture the dramatic contrast between the old walls and the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Long Strand Dunes",
+            "hu": "Long Strand Dunes",
+            "ro": "Long Strand Dunes",
+            "en": "Long Strand Dunes"
+          },
+          "coords": [
+            -8.964251,
+            51.556997
+          ],
+          "category": "natural",
+          "arrive_at": "16:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die empfindlichen ökologischen Systeme dieser sandigen Hügel an der Küste; bleiben Sie auf markierten Wegen, um die Flora zu schützen, und genießen Sie die Brise.",
+            "hu": "Sétáljon át e homokdűnék finom ökológiai rendszerein, amelyek a partvonalat formálják; maradjon a kijelölt ösvényeken a törékeny növényvilág védelme és a tengeri szellő élvezete érdekében.",
+            "ro": "Plimbați-vă prin sistemele ecologice delicate ale acestor dealuri nisipoase de coastă; rămâneți pe potecile marcate pentru a proteja flora fragilă și bucurați-vă de briza oceanului.",
+            "en": "Wander through the delicate ecological systems of these sandy hills shaping the coastline; stay on marked paths to protect the fragile flora and enjoy the ocean breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "The Long Strand",
+            "hu": "The Long Strand",
+            "ro": "The Long Strand",
+            "en": "The Long Strand"
+          },
+          "coords": [
+            -8.965855,
+            51.556014
+          ],
+          "category": "recreational",
+          "arrive_at": "17:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem herrlichen Küstenabschnitt, während die Wellen ans Ufer schlagen; packen Sie eine Windjacke ein, da die Meeresbrise auch an sonnigen Tagen frisch ist.",
+            "hu": "Pihenjen meg ezen a csodálatos partszakaszon, miközben a hullámok a partnak csapódnak; csomagoljon széldzsekit, mivel a tengeri szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Relaxați-vă pe această porțiune magnifică de coastă în timp ce valurile se sparg de țărm; aduceți o jachetă de vânt, deoarece briza mării poate fi rece chiar și în zilele însorite.",
+            "en": "Relax on this magnificent stretch of coastline as the waves crash against the shoreline; pack a windbreaker since the sea breeze can be brisk even on sunny afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Dorfzentrum, wo das Cottage Museum und die St. Michael's Church das reiche Erbe von Rathbarry vorstellen. Mittags wandern Sie durch die grüne irische Landschaft zum legendären Wart Well und Castlefreke Castle. Der Nachmittag ist eine historische Reise vorbei an der stimmungsvollen Kirchenruine zu den Dünen. Der Abend klingt am The Long Strand mit den Meereswellen aus.",
+        "hu": "A reggel a falu központjában kezdődik, ahol a Cottage Museum és a Szent Mihály-templom bemutatja Rathbarry gazdag örökségét. A dél a zöldellő ír vidéken át a legendás Wart Well és a Castlefreke kastély felé vezet. A délután egy történelmi utazás, amely a hangulatos romtemplom mellett a dűnékig visz. Az este a The Long Strand partszakaszán, az óceán hullámai mellett éri a látogatókat.",
+        "ro": "Dimineața începe în centrul satului, unde Muzeul Cottage și Biserica Sf. Mihail prezintă moștenirea bogată a Rathbarry. La amiază mergeți prin zona rurală verde spre legendarul Wart Well și Castelul Castlefreke. După-amiaza este o călătorie istorică, trecând pe lângă Biserica Ruinată până la dune. Seara cade pe The Long Strand, acompaniați de valurile liniștitoare ale oceanului Atlantic.",
+        "en": "Morning begins in the village center, where the Cottage Museum and St Michael's Church introduce the rich heritage of Rathbarry. Midday takes you through the verdant Irish countryside towards the legendary Wart Well and Castlefreke Castle. The afternoon is a historical journey, passing the atmospheric Ruined Church before reaching the dunes. Evening falls on The Long Strand with ocean waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:17",
+      "total_km": 6.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Toberruane",
+            "hu": "Toberruane",
+            "ro": "Toberruane",
+            "en": "Toberruane"
+          },
+          "coords": [
+            -8.97157,
+            51.594038
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige Wahrzeichen, das einen Einblick in die historischen Erzählungen der Region bietet; ein perfekter kurzer Stopp zur Orientierung am Morgen.",
+            "hu": "Látogasson el erre a csendes helyi nevezetességre, amely bepillantást enged a régió történelmi elbeszéléseibe; tökéletes rövid megálló a tájékozódáshoz a nap kezdetén.",
+            "ro": "Vizitați acest punct de reper local liniștit care oferă o perspectivă asupra narațiunilor istorice ale regiunii; o oprire scurtă perfectă pentru a vă orienta înainte de a explora.",
+            "en": "Visit this quiet local landmark that offers a glimpse into the region's historical narratives; it's a perfect brief stop to orient yourself before delving deeper into the area."
+          }
+        },
+        {
+          "name": {
+            "de": "St Michael's Church, Rathbarry",
+            "hu": "St Michael's Church, Rathbarry",
+            "ro": "St Michael's Church, Rathbarry",
+            "en": "St Michael's Church, Rathbarry"
+          },
+          "coords": [
+            -8.96165,
+            51.575901
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser religiösen Stätte, die als zentraler Pfeiler der Gemeinde dient; kommen Sie früh, um das Morgenlicht in den Fenstern zu sehen.",
+            "hu": "Csodálja meg e vallási helyszín békés építészetét, amely a közösség központi oszlopaként áll; érkezzen korán, hogy értékelje az ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura liniștită a acestui sit religios, care se înalță ca un stâlp central al comunității; sosiți devreme pentru a aprecia lumina dimineții prin ferestre.",
+            "en": "Admire the tranquil architecture of this religious site, which stands as a central pillar of the community; arrive early to appreciate the morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cottage Museum",
+            "hu": "Cottage Museum",
+            "ro": "Cottage Museum",
+            "en": "Cottage Museum"
+          },
+          "coords": [
+            -8.962401,
+            51.572852
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in diesem charmanten Cottage und betrachten Sie historische Artefakte des ländlichen Lebens; sprechen Sie unbedingt mit den kundigen Führern.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos vidéki házban, megvizsgálva a vidéki ír élet történelmi emlékeit; feltétlenül beszélgessen a nagy tudású helyi vezetőkkel.",
+            "ro": "Descoperiți moștenirea locală în această căsuță fermecătoare, examinând artefacte istorice ale vieții rurale; asigurați-vă că discutați cu ghizii locali bine informați.",
+            "en": "Discover local heritage within this charming cottage, examining historical artifacts that reveal rural Irish life; make sure to chat with the knowledgeable local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Wart Well",
+            "hu": "Wart Well",
+            "ro": "Wart Well",
+            "en": "Wart Well"
+          },
+          "coords": [
+            -8.974555,
+            51.575174
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Stück lokaler Folklore mit seinen angeblich heilenden Wassern; treten Sie respektvoll auf und lesen Sie die alten Inschriften der Steine.",
+            "hu": "Fedezze fel a helyi folklór e lenyűgöző darabját, amelynek gyógyító vizet tulajdonítanak; közeledjen tisztelettel, és olvassa el a közeli köveken található ősi feliratokat.",
+            "ro": "Explorați această piesă fascinantă de folclor local, despre care se crede că are ape vindecătoare; apropiați-vă cu respect și citiți inscripțiile antice de pe pietrele din jur.",
+            "en": "Explore this fascinating piece of local folklore believed to hold healing waters; approach with respect and take a moment to read the ancient inscriptions on the nearby stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlefreke Castle",
+            "hu": "Castlefreke Castle",
+            "ro": "Castlefreke Castle",
+            "en": "Castlefreke Castle"
+          },
+          "coords": [
+            -8.977922,
+            51.570715
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Ruinen dieser historischen Festung in der grünen Landschaft; tragen Sie festes Schuhwerk, da die umliegenden Wege oft uneben und schlammig sind.",
+            "hu": "Csodálja meg ennek a zöldellő tájban megbúvó történelmi erődítménynek a lenyűgöző romjait; viseljen erős túracipőt, mivel a környező ösvények egyenetlenek és sarasak lehetnek.",
+            "ro": "Minunați-vă de ruinele impunătoare ale acestei fortărețe istorice cuibărite în peisajul verde; purtați încălțăminte de drumeție robustă, deoarece potecile pot fi noroioase.",
+            "en": "Marvel at the imposing ruins of this historical fortress nestled in the verdant landscape; wear sturdy walking shoes as the surrounding paths can be uneven and quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruined Church",
+            "hu": "Ruined Church",
+            "ro": "Ruined Church",
+            "en": "Ruined Church"
+          },
+          "coords": [
+            -8.97273,
+            51.56627
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den stimmungsvollen steinernen Überresten dieser antiken Kultstätte; bringen Sie eine Kamera mit, um die dramatischen Kontraste einzufangen.",
+            "hu": "Lépjen vissza az időben ezen ősi istentiszteleti hely hangulatos kőmaradványai között; hozzon fényképezőgépet a régi falak és az ég közötti drámai kontraszt megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp printre rămășițele de piatră atmosferice ale acestui vechi lăcaș de cult; aduceți un aparat foto pentru a surprinde contrastul dramatic cu cerul.",
+            "en": "Step back in time among the atmospheric stone remains of this ancient place of worship; bring a camera to capture the dramatic contrast between the old walls and the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Long Strand Dunes",
+            "hu": "Long Strand Dunes",
+            "ro": "Long Strand Dunes",
+            "en": "Long Strand Dunes"
+          },
+          "coords": [
+            -8.964251,
+            51.556997
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die empfindlichen ökologischen Systeme dieser sandigen Hügel an der Küste; bleiben Sie auf markierten Wegen, um die Flora zu schützen, und genießen Sie die Brise.",
+            "hu": "Sétáljon át e homokdűnék finom ökológiai rendszerein, amelyek a partvonalat formálják; maradjon a kijelölt ösvényeken a törékeny növényvilág védelme és a tengeri szellő élvezete érdekében.",
+            "ro": "Plimbați-vă prin sistemele ecologice delicate ale acestor dealuri nisipoase de coastă; rămâneți pe potecile marcate pentru a proteja flora fragilă și bucurați-vă de briza oceanului.",
+            "en": "Wander through the delicate ecological systems of these sandy hills shaping the coastline; stay on marked paths to protect the fragile flora and enjoy the ocean breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "The Long Strand",
+            "hu": "The Long Strand",
+            "ro": "The Long Strand",
+            "en": "The Long Strand"
+          },
+          "coords": [
+            -8.965855,
+            51.556014
+          ],
+          "category": "recreational",
+          "arrive_at": "17:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem herrlichen Küstenabschnitt, während die Wellen ans Ufer schlagen; packen Sie eine Windjacke ein, da die Meeresbrise auch an sonnigen Tagen frisch ist.",
+            "hu": "Pihenjen meg ezen a csodálatos partszakaszon, miközben a hullámok a partnak csapódnak; csomagoljon széldzsekit, mivel a tengeri szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Relaxați-vă pe această porțiune magnifică de coastă în timp ce valurile se sparg de țărm; aduceți o jachetă de vânt, deoarece briza mării poate fi rece chiar și în zilele însorite.",
+            "en": "Relax on this magnificent stretch of coastline as the waves crash against the shoreline; pack a windbreaker since the sea breeze can be brisk even on sunny afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in Toberruane und genießen Sie die morgendliche Ruhe, bevor Sie zum kulturellen Zentrum an der St. Michael's Church fahren. Die mittägliche Fahrt führt vom Cottage Museum zu historischen Wundern wie Wart Well und Castlefreke Castle. Verbringen Sie den Nachmittag bei der Ruinenkirche und den feinen Dünen. Der Sonnenuntergang am The Long Strand bietet das perfekte Ende.",
+        "hu": "Kezdje a túrát a Toberruane-nál, élvezve a kora reggeli békét, mielőtt a falu kulturális szívébe, a Szent Mihály-templomhoz tekerne. A déli kerékpározás a Cottage Múzeumtól a Wart Well és a Castlefreke történelmi csodái felé vezet. A délutánt a romtemplom és a finom dűne ökoszisztémák felfedezésével töltheti. A The Long Strand naplementéje tökéletes befejezést nyújt.",
+        "ro": "Începeți plimbarea la Toberruane, absorbind pacea dimineții înainte de a pedala spre inima culturală a satului la Biserica Sf. Mihail. Plimbarea de prânz vă duce de la Muzeul Cottage spre minunile istorice de la Wart Well și Castelul Castlefreke. Petreceți după-amiaza explorând Biserica Ruinată și ecosistemele dunelor. Apusul la The Long Strand oferă un final absolut perfect.",
+        "en": "Start your ride at Toberruane, soaking in the early morning peace before cycling down to the village's cultural heart at St Michael's Church. Midday riding leads you from the fascinating Cottage Museum towards the historical marvels of Wart Well and Castlefreke Castle. Spend the afternoon exploring the Ruined Church and the delicate dune ecosystems. Sunset at The Long Strand provides a perfect end."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:59",
+      "total_km": 6.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Toberruane",
+            "hu": "Toberruane",
+            "ro": "Toberruane",
+            "en": "Toberruane"
+          },
+          "coords": [
+            -8.97157,
+            51.594038
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige Wahrzeichen, das einen Einblick in die historischen Erzählungen der Region bietet; ein perfekter kurzer Stopp zur Orientierung am Morgen.",
+            "hu": "Látogasson el erre a csendes helyi nevezetességre, amely bepillantást enged a régió történelmi elbeszéléseibe; tökéletes rövid megálló a tájékozódáshoz a nap kezdetén.",
+            "ro": "Vizitați acest punct de reper local liniștit care oferă o perspectivă asupra narațiunilor istorice ale regiunii; o oprire scurtă perfectă pentru a vă orienta înainte de a explora.",
+            "en": "Visit this quiet local landmark that offers a glimpse into the region's historical narratives; it's a perfect brief stop to orient yourself before delving deeper into the area."
+          }
+        },
+        {
+          "name": {
+            "de": "St Michael's Church, Rathbarry",
+            "hu": "St Michael's Church, Rathbarry",
+            "ro": "St Michael's Church, Rathbarry",
+            "en": "St Michael's Church, Rathbarry"
+          },
+          "coords": [
+            -8.96165,
+            51.575901
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser religiösen Stätte, die als zentraler Pfeiler der Gemeinde dient; kommen Sie früh, um das Morgenlicht in den Fenstern zu sehen.",
+            "hu": "Csodálja meg e vallási helyszín békés építészetét, amely a közösség központi oszlopaként áll; érkezzen korán, hogy értékelje az ablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați arhitectura liniștită a acestui sit religios, care se înalță ca un stâlp central al comunității; sosiți devreme pentru a aprecia lumina dimineții prin ferestre.",
+            "en": "Admire the tranquil architecture of this religious site, which stands as a central pillar of the community; arrive early to appreciate the morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cottage Museum",
+            "hu": "Cottage Museum",
+            "ro": "Cottage Museum",
+            "en": "Cottage Museum"
+          },
+          "coords": [
+            -8.962401,
+            51.572852
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in diesem charmanten Cottage und betrachten Sie historische Artefakte des ländlichen Lebens; sprechen Sie unbedingt mit den kundigen Führern.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos vidéki házban, megvizsgálva a vidéki ír élet történelmi emlékeit; feltétlenül beszélgessen a nagy tudású helyi vezetőkkel.",
+            "ro": "Descoperiți moștenirea locală în această căsuță fermecătoare, examinând artefacte istorice ale vieții rurale; asigurați-vă că discutați cu ghizii locali bine informați.",
+            "en": "Discover local heritage within this charming cottage, examining historical artifacts that reveal rural Irish life; make sure to chat with the knowledgeable local guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Wart Well",
+            "hu": "Wart Well",
+            "ro": "Wart Well",
+            "en": "Wart Well"
+          },
+          "coords": [
+            -8.974555,
+            51.575174
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Stück lokaler Folklore mit seinen angeblich heilenden Wassern; treten Sie respektvoll auf und lesen Sie die alten Inschriften der Steine.",
+            "hu": "Fedezze fel a helyi folklór e lenyűgöző darabját, amelynek gyógyító vizet tulajdonítanak; közeledjen tisztelettel, és olvassa el a közeli köveken található ősi feliratokat.",
+            "ro": "Explorați această piesă fascinantă de folclor local, despre care se crede că are ape vindecătoare; apropiați-vă cu respect și citiți inscripțiile antice de pe pietrele din jur.",
+            "en": "Explore this fascinating piece of local folklore believed to hold healing waters; approach with respect and take a moment to read the ancient inscriptions on the nearby stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlefreke Castle",
+            "hu": "Castlefreke Castle",
+            "ro": "Castlefreke Castle",
+            "en": "Castlefreke Castle"
+          },
+          "coords": [
+            -8.977922,
+            51.570715
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Ruinen dieser historischen Festung in der grünen Landschaft; tragen Sie festes Schuhwerk, da die umliegenden Wege oft uneben und schlammig sind.",
+            "hu": "Csodálja meg ennek a zöldellő tájban megbúvó történelmi erődítménynek a lenyűgöző romjait; viseljen erős túracipőt, mivel a környező ösvények egyenetlenek és sarasak lehetnek.",
+            "ro": "Minunați-vă de ruinele impunătoare ale acestei fortărețe istorice cuibărite în peisajul verde; purtați încălțăminte de drumeție robustă, deoarece potecile pot fi noroioase.",
+            "en": "Marvel at the imposing ruins of this historical fortress nestled in the verdant landscape; wear sturdy walking shoes as the surrounding paths can be uneven and quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruined Church",
+            "hu": "Ruined Church",
+            "ro": "Ruined Church",
+            "en": "Ruined Church"
+          },
+          "coords": [
+            -8.97273,
+            51.56627
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den stimmungsvollen steinernen Überresten dieser antiken Kultstätte; bringen Sie eine Kamera mit, um die dramatischen Kontraste einzufangen.",
+            "hu": "Lépjen vissza az időben ezen ősi istentiszteleti hely hangulatos kőmaradványai között; hozzon fényképezőgépet a régi falak és az ég közötti drámai kontraszt megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp printre rămășițele de piatră atmosferice ale acestui vechi lăcaș de cult; aduceți un aparat foto pentru a surprinde contrastul dramatic cu cerul.",
+            "en": "Step back in time among the atmospheric stone remains of this ancient place of worship; bring a camera to capture the dramatic contrast between the old walls and the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Long Strand Dunes",
+            "hu": "Long Strand Dunes",
+            "ro": "Long Strand Dunes",
+            "en": "Long Strand Dunes"
+          },
+          "coords": [
+            -8.964251,
+            51.556997
+          ],
+          "category": "natural",
+          "arrive_at": "15:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die empfindlichen ökologischen Systeme dieser sandigen Hügel an der Küste; bleiben Sie auf markierten Wegen, um die Flora zu schützen, und genießen Sie die Brise.",
+            "hu": "Sétáljon át e homokdűnék finom ökológiai rendszerein, amelyek a partvonalat formálják; maradjon a kijelölt ösvényeken a törékeny növényvilág védelme és a tengeri szellő élvezete érdekében.",
+            "ro": "Plimbați-vă prin sistemele ecologice delicate ale acestor dealuri nisipoase de coastă; rămâneți pe potecile marcate pentru a proteja flora fragilă și bucurați-vă de briza oceanului.",
+            "en": "Wander through the delicate ecological systems of these sandy hills shaping the coastline; stay on marked paths to protect the fragile flora and enjoy the ocean breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "The Long Strand",
+            "hu": "The Long Strand",
+            "ro": "The Long Strand",
+            "en": "The Long Strand"
+          },
+          "coords": [
+            -8.965855,
+            51.556014
+          ],
+          "category": "recreational",
+          "arrive_at": "17:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem herrlichen Küstenabschnitt, während die Wellen ans Ufer schlagen; packen Sie eine Windjacke ein, da die Meeresbrise auch an sonnigen Tagen frisch ist.",
+            "hu": "Pihenjen meg ezen a csodálatos partszakaszon, miközben a hullámok a partnak csapódnak; csomagoljon széldzsekit, mivel a tengeri szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Relaxați-vă pe această porțiune magnifică de coastă în timp ce valurile se sparg de țărm; aduceți o jachetă de vânt, deoarece briza mării poate fi rece chiar și în zilele însorite.",
+            "en": "Relax on this magnificent stretch of coastline as the waves crash against the shoreline; pack a windbreaker since the sea breeze can be brisk even on sunny afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Halt in Toberruane, bevor Sie nach Rathbarry fahren, um die St. Michael's Church und das aufschlussreiche Cottage Museum zu besuchen. Bis Mittag navigieren Sie über malerische Landstraßen, um das mystische Wart Well und Castlefreke Castle zu erkunden. Die Nachmittagsfahrt verbindet die alte Kirchenruine mit den atemberaubenden Dünen. Entspannen Sie sich bis zum Abend.",
+        "hu": "Az autózás egy gyors megállóval kezdődik Toberruane-nál, mielőtt Rathbarry felé venné az irányt a Szent Mihály-templom és a Cottage Múzeum megtekintésére. Délre már a festői vidéki utakon navigál a misztikus Wart Well és a Castlefreke kastély felé. A délutáni út az ősi romtemplomot köti össze a lélegzetelállító dűnékkel. Pihenjen a tengerparton a naplementéig.",
+        "ro": "Călătoria cu mașina începe la Toberruane înainte de a vă îndrepta spre Rathbarry pentru a vizita Biserica Sf. Mihail și Muzeul Cottage. La prânz, navigați pe drumurile pitorești de țară pentru a explora misticul Wart Well și impunătorul Castel Castlefreke. După-amiaza conectează Biserica Ruinată cu uimitoarele dune de la The Long Strand. Relaxați-vă la malul mării până seara târziu.",
+        "en": "Your drive begins with a quick stop at Toberruane before heading into Rathbarry to visit St Michael's Church and the insightful Cottage Museum. By midday, you are navigating the scenic country lanes to explore the mystical Wart Well and the imposing Castlefreke Castle. The afternoon drive connects the ancient Ruined Church with the breathtaking Long Strand Dunes. Unwind by the sea until evening."
+      }
+    }
+  }
+}

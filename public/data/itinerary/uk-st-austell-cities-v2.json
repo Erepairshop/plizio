@@ -1,0 +1,428 @@
+{
+  "city_id": "uk-st-austell-cities-v2",
+  "anchor": {
+    "name": "St Austell",
+    "coords": [
+      -4.795,
+      50.338
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "White River Place",
+            "hu": "White River Place",
+            "ro": "White River Place",
+            "en": "White River Place"
+          },
+          "coords": [
+            -4.793749,
+            50.33718
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem modernen Zentrum mit einem frischen Kaffee, während Sie das lokale Leben beobachten, aber kommen Sie früh.",
+            "hu": "Kezdje a napját ebben a modern központban egy friss kávéval, miközben a helyi életet figyeli, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Începeți ziua în acest centru civic modern cu o cafea proaspătă observând viața locală, dar ajungeți devreme înainte să se aglomereze.",
+            "en": "Start your day at this modern civic center to grab a fresh coffee while observing local life, but arrive early before the shops get busy."
+          }
+        },
+        {
+          "name": {
+            "de": "St Austell Parish Church",
+            "hu": "St Austell plébániatemplom",
+            "ro": "Biserica Parohială St Austell",
+            "en": "St Austell Parish Church"
+          },
+          "coords": [
+            -4.795614,
+            50.339487
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende mittelalterliche Architektur dieser historischen Kirche und nehmen Sie sich einen Moment der stillen Reflexion.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző középkori építészetét és faragásait, és töltsön el egy percet csendes elmélkedéssel.",
+            "ro": "Admirați arhitectura medievală uimitoare și sculpturile complicate ale acestei biserici istorice, luând un moment de reflecție în liniște.",
+            "en": "Admire the stunning medieval architecture and intricate carvings of this historic church, taking a moment of quiet reflection in the pews."
+          }
+        },
+        {
+          "name": {
+            "de": "St Austell Brewery",
+            "hu": "St Austell Sörfőzde",
+            "ro": "Berăria St Austell",
+            "en": "St Austell Brewery"
+          },
+          "coords": [
+            -4.789003,
+            50.342791
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Brauerbe Cornwalls bei einer Führung und probieren Sie unbedingt das kultige Tribute Ale an der Verkostungsbar.",
+            "hu": "Fedezze fel Cornwall lenyűgöző sörfőző örökségét egy vezetett túra során, és mindenképpen kóstolja meg az ikonikus Tribute sört a bárban.",
+            "ro": "Descoperiți fascinanta moștenire a berii din Cornwall într-un tur ghidat și asigurați-vă că gustați iconica bere Tribute la barul de degustare.",
+            "en": "Discover the fascinating brewing heritage of Cornwall on a guided tour, and make sure to sample the iconic Tribute ale at the tasting bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Charlestown Harbour",
+            "hu": "Charlestown Kikötő",
+            "ro": "Portul Charlestown",
+            "en": "Charlestown Harbour"
+          },
+          "coords": [
+            -4.77544,
+            50.318379
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen unberührten georgianischen Hafen, der für seine Großsegler bekannt ist, und achten Sie auf maritime Details.",
+            "hu": "Sétáljon ebben az érintetlen, vitorlásokról és filmekből ismert György-kori kikötőben, figyelemmel kísérve a történelmi tengerészeti részleteket.",
+            "ro": "Plimbați-vă prin acest port georgian curat, renumit pentru navele sale înalte, fiind atenți la detaliile maritime istorice de pe docuri.",
+            "en": "Wander around this pristine Georgian port famous for its tall ships and film appearances, keeping an eye out for historic maritime details."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthpean Beach",
+            "hu": "Porthpean Strand",
+            "ro": "Plaja Porthpean",
+            "en": "Porthpean Beach"
+          },
+          "coords": [
+            -4.765642,
+            50.323472
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den geschützten Sandstränden dieses familienfreundlichen Strandes, der sich perfekt für ein erfrischendes Bad am Nachmittag eignet.",
+            "hu": "Pihenjen ennek a gyönyörű, családbarát strandnak a védett homokján, amely tökéletes egy frissítő délutáni csobbanáshoz a nyugodt vizekben.",
+            "ro": "Relaxați-vă pe nisipurile adăpostite ale acestei plaje frumoase pentru familii, perfectă pentru o baie răcoritoare de după-amiază în apele calme.",
+            "en": "Relax on the sheltered sands of this beautiful family-friendly beach, which is perfect for a refreshing afternoon dip in the calm waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im belebten Zentrum von St Austell und bewundern Sie historische Architektur.\nTauchen Sie in Cornwalls Braugeschichte ein, bevor Sie ein herzhaftes Pub-Mittagessen genießen.\nGehen Sie in Richtung Küste zum ikonischen Charlestown Harbour, berühmt für seine historischen Schiffe.\nBeenden Sie Ihren Spaziergang am entspannenden Porthpean Beach und lassen Sie den Tag am Wasser ausklingen.",
+        "hu": "Kezdje a napot St Austell nyüzsgő központjában, megcsodálva a civil tereket és a történelmi építészetet.\nMerüljön el Cornwall sörfőző történelmében egy sörfőzdei túrával, majd fogyasszon el egy finom ebédet.\nSétáljon a part felé, hogy elérje az ikonikus Charlestown Harbourt, amely történelmi hajóiról híres.\nZárja a sétát a pihentető Porthpean strandon, és gondoljon vissza a napra a nyugodt víz mellett.",
+        "ro": "Începeți ziua în centrul plin de viață al orașului St Austell, admirând arhitectura istorică.\nPătrundeți în istoria berii din Cornwall cu un tur captivant înainte de a savura un prânz delicios.\nMergeți spre coastă pentru a ajunge la portul iconic Charlestown, renumit pentru navele sale istorice.\nÎncheiați plimbarea pe plaja relaxantă Porthpean, reflectând la ziua petrecută la malul apei liniștite.",
+        "en": "Start your day in the bustling center of St Austell, admiring civic spaces and historic church architecture.\nDive into Cornwall's brewing history with an engaging brewery tour before enjoying a hearty pub lunch.\nWalk towards the coast to reach the iconic Charlestown Harbour, famous for its historic tall ships.\nConclude your walk at the relaxing Porthpean Beach, reflecting on the day as the sun sets over the calm waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 12.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Austell Parish Church",
+            "hu": "St Austell plébániatemplom",
+            "ro": "Biserica Parohială St Austell",
+            "en": "St Austell Parish Church"
+          },
+          "coords": [
+            -4.795614,
+            50.339487
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende mittelalterliche Architektur dieser historischen Kirche und nehmen Sie sich einen Moment der stillen Reflexion.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző középkori építészetét és faragásait, és töltsön el egy percet csendes elmélkedéssel.",
+            "ro": "Admirați arhitectura medievală uimitoare și sculpturile complicate ale acestei biserici istorice, luând un moment de reflecție în liniște.",
+            "en": "Admire the stunning medieval architecture and intricate carvings of this historic church, taking a moment of quiet reflection in the pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Wheal Martyn China Clay Museum",
+            "hu": "Wheal Martyn Porcelánföld Múzeum",
+            "ro": "Muzeul Argilei Wheal Martyn",
+            "en": "Wheal Martyn China Clay Museum"
+          },
+          "coords": [
+            -4.807,
+            50.3654
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die erhaltenen viktorianischen Tonwerke, um Cornwalls industrielle Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a megőrzött viktoriánus agyagfeldolgozókat Cornwall ipari múltjának megismeréséhez, és viseljen kényelmes cipőt az erdei ösvényekhez.",
+            "ro": "Explorați fabricile de argilă victoriene pentru a înțelege trecutul industrial al regiunii Cornwall, purtând încălțăminte confortabilă pentru trasee.",
+            "en": "Explore the preserved Victorian clay works to understand Cornwall's industrial past, wearing comfortable shoes for the expansive woodland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden Project",
+            "hu": "Éden Projekt",
+            "ro": "Proiectul Eden",
+            "en": "Eden Project"
+          },
+          "coords": [
+            -4.743,
+            50.3598
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen Biome mit globalen Regenwäldern und buchen Sie Ihre Eintrittskarten weit im Voraus online, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a globális esőerdőknek otthont adó hatalmas biomokat, és foglalja le a belépőjegyeket jó előre online, hogy elkerülje a sorban állást.",
+            "ro": "Minunați-vă de biomurile masive care adăpostesc păduri tropicale globale și rezervați-vă biletele de intrare din timp online pentru a evita cozile.",
+            "en": "Marvel at the massive biomes housing global rainforests and diverse plant life, and book your entrance tickets well in advance online to skip lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinetum Gardens",
+            "hu": "Pinetum Kertek",
+            "ro": "Grădinile Pinetum",
+            "en": "Pinetum Gardens"
+          },
+          "coords": [
+            -4.74751,
+            50.340719
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese weitläufigen botanischen Räume mit exotischen Arten und nehmen Sie sich Zeit zum Entspannen im japanischen Zen-Garten.",
+            "hu": "Sétáljon ezen az egzotikus fajokat bemutató tágas botanikus kerten, és szánjon időt a pihenésre a gyönyörűen gondozott japán zen kertben.",
+            "ro": "Plimbați-vă prin aceste spații botanice vaste care prezintă specii exotice, luându-vă timp să vă relaxați în frumosul grădină japoneză Zen.",
+            "en": "Stroll through these expansive botanical spaces showcasing exotic species, taking time to relax in the beautifully curated Japanese Zen garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Charlestown Harbour",
+            "hu": "Charlestown Kikötő",
+            "ro": "Portul Charlestown",
+            "en": "Charlestown Harbour"
+          },
+          "coords": [
+            -4.77544,
+            50.318379
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen unberührten georgianischen Hafen, der für seine Großsegler bekannt ist, und achten Sie auf maritime Details.",
+            "hu": "Sétáljon ebben az érintetlen, vitorlásokról és filmekből ismert György-kori kikötőben, figyelemmel kísérve a történelmi tengerészeti részleteket.",
+            "ro": "Plimbați-vă prin acest port georgian curat, renumit pentru navele sale înalte, fiind atenți la detaliile maritime istorice de pe docuri.",
+            "en": "Wander around this pristine Georgian port famous for its tall ships and film appearances, keeping an eye out for historic maritime details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom historischen Stadtzentrum zu den faszinierenden Resten des Tonbergbaus in der frischen Luft.\nErleben Sie die weltberühmten ökologischen Kuppeln und nehmen Sie sich Zeit für die verschiedenen Klimazonen.\nRadeln Sie durch die üppigen, ruhigen botanischen Gärten, bevor Sie sich auf den Weg zur Küste machen.\nBeenden Sie Ihre Fahrt am majestätischen georgianischen Hafen und bewundern Sie die maritime Geschichte.",
+        "hu": "Tekerjen a történelmi központból a lenyűgöző agyagbányászati maradványokig a friss cornwalli levegőn.\nTapasztalja meg a világhírű ökológiai kupolákat, bőséges időt szánva a változatos beltéri klímák felfedezésére.\nKerékpározzon a buja, nyugodt botanikus kerteken keresztül, mielőtt a történelmi partvidék felé venné az irányt.\nFejezze be az utat a fenséges György-kori kikötőben, megcsodálva az esti fényben fürdő tengerészeti történelmet.",
+        "ro": "Pedalați din centrul istoric până la rămășițele fascinante ale mineritului de argilă, bucurându-vă de aerul proaspăt.\nExperimentați faimoasele domuri ecologice, luându-vă timp amplu pentru a explora diversele climate interioare.\nCiclism prin grădinile botanice luxuriante și liniștite înainte de a vă îndrepta spre coasta istorică.\nTerminați plimbarea la portul georgian maiestuos, admirând istoria maritimă scăldată în lumina serii.",
+        "en": "Pedal from the historic town center up to the fascinating clay mining remnants, enjoying the crisp Cornish air.\nExperience the world-famous ecological domes, taking ample time to explore the diverse indoor climates.\nCycle through the lush, tranquil botanical gardens before making your way toward the historic coastline.\nFinish your ride at the majestic Georgian harbour, admiring the maritime history bathed in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 21.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eden Project",
+            "hu": "Éden Projekt",
+            "ro": "Proiectul Eden",
+            "en": "Eden Project"
+          },
+          "coords": [
+            -4.743,
+            50.3598
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen Biome mit globalen Regenwäldern und buchen Sie Ihre Eintrittskarten weit im Voraus online, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a globális esőerdőknek otthont adó hatalmas biomokat, és foglalja le a belépőjegyeket jó előre online, hogy elkerülje a sorban állást.",
+            "ro": "Minunați-vă de biomurile masive care adăpostesc păduri tropicale globale și rezervați-vă biletele de intrare din timp online pentru a evita cozile.",
+            "en": "Marvel at the massive biomes housing global rainforests and diverse plant life, and book your entrance tickets well in advance online to skip lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Wheal Martyn China Clay Museum",
+            "hu": "Wheal Martyn Porcelánföld Múzeum",
+            "ro": "Muzeul Argilei Wheal Martyn",
+            "en": "Wheal Martyn China Clay Museum"
+          },
+          "coords": [
+            -4.807,
+            50.3654
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die erhaltenen viktorianischen Tonwerke, um Cornwalls industrielle Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a megőrzött viktoriánus agyagfeldolgozókat Cornwall ipari múltjának megismeréséhez, és viseljen kényelmes cipőt az erdei ösvényekhez.",
+            "ro": "Explorați fabricile de argilă victoriene pentru a înțelege trecutul industrial al regiunii Cornwall, purtând încălțăminte confortabilă pentru trasee.",
+            "en": "Explore the preserved Victorian clay works to understand Cornwall's industrial past, wearing comfortable shoes for the expansive woodland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "St Austell Brewery",
+            "hu": "St Austell Sörfőzde",
+            "ro": "Berăria St Austell",
+            "en": "St Austell Brewery"
+          },
+          "coords": [
+            -4.789003,
+            50.342791
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Brauerbe Cornwalls bei einer Führung und probieren Sie unbedingt das kultige Tribute Ale an der Verkostungsbar.",
+            "hu": "Fedezze fel Cornwall lenyűgöző sörfőző örökségét egy vezetett túra során, és mindenképpen kóstolja meg az ikonikus Tribute sört a bárban.",
+            "ro": "Descoperiți fascinanta moștenire a berii din Cornwall într-un tur ghidat și asigurați-vă că gustați iconica bere Tribute la barul de degustare.",
+            "en": "Discover the fascinating brewing heritage of Cornwall on a guided tour, and make sure to sample the iconic Tribute ale at the tasting bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Lost Gardens of Heligan",
+            "hu": "Heligan Elveszett Kertjei",
+            "ro": "Grădinile Pierdute din Heligan",
+            "en": "Lost Gardens of Heligan"
+          },
+          "coords": [
+            -4.811583,
+            50.285747
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mysteriöse Schönheit dieser restaurierten Gärten aus dem 19. Jahrhundert und finden Sie die berühmte Mud Maid Skulptur im Wald.",
+            "hu": "Fedezze fel ezen felújított 19. századi kertek titokzatos szépségét, és feltétlenül keresse meg az erdőben elrejtett ikonikus Mud Maid szobrot.",
+            "ro": "Descoperiți frumusețea misterioasă a acestor grădini restaurate din secolul al XIX-lea, asigurându-vă că găsiți sculptura Mud Maid ascunsă în pădure.",
+            "en": "Uncover the mysterious beauty of these restored 19th-century gardens, making sure to find the iconic Mud Maid sculpture hidden in the woodland."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevagissey Model Railway",
+            "hu": "Mevagissey Kisvasút",
+            "ro": "Calea Ferată în Miniatură Mevagissey",
+            "en": "Mevagissey Model Railway"
+          },
+          "coords": [
+            -4.788652,
+            50.269506
+          ],
+          "category": "cultural",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser bezaubernden Miniatureisenbahn-Ausstellung mit komplizierten Landschaften, ein perfekter Stopp für Familien.",
+            "hu": "Lépjen vissza az időben ezen a bájos kisvasút-kiállításon, amely aprólékos tájakat mutat be, tökéletes rövid megálló családok és modellrajongók számára.",
+            "ro": "Întoarceți-vă în timp la această fermecătoare expoziție de cale ferată în miniatură, o oprire scurtă perfectă pentru familii și pasionații de modele.",
+            "en": "Step back in time at this charming miniature railway exhibition showcasing intricate landscapes, a perfect short stop for families and model enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Charlestown Harbour",
+            "hu": "Charlestown Kikötő",
+            "ro": "Portul Charlestown",
+            "en": "Charlestown Harbour"
+          },
+          "coords": [
+            -4.77544,
+            50.318379
+          ],
+          "category": "historical",
+          "arrive_at": "16:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen unberührten georgianischen Hafen, der für seine Großsegler bekannt ist, und achten Sie auf maritime Details.",
+            "hu": "Sétáljon ebben az érintetlen, vitorlásokról és filmekből ismert György-kori kikötőben, figyelemmel kísérve a történelmi tengerészeti részleteket.",
+            "ro": "Plimbați-vă prin acest port georgian curat, renumit pentru navele sale înalte, fiind atenți la detaliile maritime istorice de pe docuri.",
+            "en": "Wander around this pristine Georgian port famous for its tall ships and film appearances, keeping an eye out for historic maritime details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den Bio-Kuppeln und erkunden Sie dann das nahegelegene industrielle Erbe der Region.\nFahren Sie zurück in die Stadt für ein traditionelles Brauereierlebnis, gefolgt von einer malerischen Fahrt.\nVerirren Sie sich in den magischen, restaurierten botanischen Landschaften und entdecken Sie Miniaturwunder.\nParken Sie am klassischen Hafen der Großsegler, um Ihren Tag mit einem malerischen Strandspaziergang zu beenden.",
+        "hu": "Vezessen korán a csodálatos biokupolákhoz, majd fedezze fel a régió ipari örökségét a közelben.\nIrány vissza a városba egy hagyományos sörfőzdei élményre, majd egy festői utazás a déli birtokok felé.\nVesszen el a varázslatos, felújított botanikus tájakon, és fedezze fel a miniatűr csodákat a falu közelében.\nParkoljon le a klasszikus vitorlás kikötő közelében, és zárja a napot egy festői tengerparti sétával.",
+        "ro": "Conduceți devreme la magnificele bio-domuri, apoi explorați moștenirea industrială a regiunii în apropiere.\nÎntoarceți-vă în oraș pentru o experiență tradițională de berărie, urmată de o plimbare pitorească spre sud.\nPierdeți-vă în peisajele botanice magice și restaurate și descoperiți minuni în miniatură lângă satul de pescari.\nParcați lângă portul clasic cu nave înalte pentru a vă încheia ziua cu o plimbare pitorească pe litoral.",
+        "en": "Drive to the magnificent bio-domes early to beat the crowds, then explore the region's industrial heritage nearby.\nHead back into town for a traditional brewery experience, followed by a scenic drive towards the southern estates.\nGet lost in the magical, restored botanical landscapes and discover miniature rail marvels near the fishing village.\nPark near the classic tall-ship harbour to end your day with a picturesque seaside stroll and dinner."
+      }
+    }
+  }
+}

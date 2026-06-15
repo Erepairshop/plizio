@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-cala-ratjada-cities-v2",
+  "anchor": {
+    "name": "Cala Ratjada",
+    "coords": [
+      3.461944,
+      39.711389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sa Torre Cega",
+            "hu": "Sa Torre Cega",
+            "ro": "Sa Torre Cega",
+            "en": "Sa Torre Cega"
+          },
+          "coords": [
+            3.467977,
+            39.712192
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die atemberaubenden botanischen Gärten dieses modernistischen Anwesens mit zeitgenössischen Skulpturen, aber buchen Sie Ihre Führung vorab online.",
+            "hu": "Sétáljon végig a modernista birtok lenyűgöző, kortárs szobrokkal díszített botanikus kertjében, de ne felejtse el előre online lefoglalni a vezetett túrát.",
+            "ro": "Plimbați-vă prin grădinile botanice uimitoare ale acestei moșii moderniste pline de sculpturi contemporane, dar nu uitați să rezervați un tur ghidat online în avans.",
+            "en": "Wander through this modernist estate's stunning botanical gardens dotted with contemporary sculptures, but remember to book your guided tour online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Gat",
+            "hu": "Cala Gat",
+            "ro": "Cala Gat",
+            "en": "Cala Gat"
+          },
+          "coords": [
+            3.470108,
+            39.71307
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieser kleinen, geschützten Bucht, die sich perfekt zum Schnorcheln eignet, und kommen Sie früh, um einen Platz zu sichern.",
+            "hu": "Élvezze a kristálytiszta vizet ebben a kis, védett öbölben, amely tökéletes sznorkelezéshez, és érkezzen korán, hogy helyet találjon az aranyhomokos parton.",
+            "ro": "Bucurați-vă de apele cristaline din acest mic golf adăpostit, perfect pentru snorkeling, ajungând devreme pentru a prinde un loc pe mica porțiune de nisip auriu.",
+            "en": "Enjoy the crystal-clear waters of this small, sheltered cove perfect for snorkeling, arriving early to claim a spot on the limited stretch of golden sand."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Torre Esbucada",
+            "hu": "sa Torre Esbucada",
+            "ro": "sa Torre Esbucada",
+            "en": "sa Torre Esbucada"
+          },
+          "coords": [
+            3.475168,
+            39.71703
+          ],
+          "category": "castle",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser Küstenverteidigungsturm, die einen Einblick in die Piratenvergangenheit bietet, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a tengerparti védőtorony lenyűgöző romjait, amelyek bepillantást engednek a régió kalóz múltjába, és viseljen masszív cipőt a sziklás ösvényhez.",
+            "ro": "Explorați ruinele fascinante ale acestui turn de apărare de coastă care oferă o privire în trecutul pirateresc, purtând încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Explore the fascinating ruins of this coastal defense tower which offers a glimpse into the region's pirate past, wearing sturdy shoes for the rocky path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Capdepera",
+            "hu": "Far de Capdepera",
+            "ro": "Far de Capdepera",
+            "en": "Far de Capdepera"
+          },
+          "coords": [
+            3.477498,
+            39.715656
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem historischen Leuchtturm aus dem 19. Jahrhundert und bringen Sie eine Windjacke für die windigen Klippen mit.",
+            "hu": "Gyönyörködjön a lélegzetelállító panorámában, amely a 19. századi történelmi világítótoronyból nyílik a Földközi-tengerre, és hozzon magával széldzsekit.",
+            "ro": "Admirați vederile panoramice uluitoare de la acest far istoric din secolul al XIX-lea spre Marea Mediterană, aducând o jachetă deoarece pe stânci poate bate vântul.",
+            "en": "Take in the breathtaking panoramic views from this historic 19th-century lighthouse overlooking the Mediterranean, bringing a windbreaker as the cliffs can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Son Moll",
+            "hu": "Son Moll",
+            "ro": "Son Moll",
+            "en": "Son Moll"
+          },
+          "coords": [
+            3.456303,
+            39.705309
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am lebhaften Hauptstrand der Stadt mit breiten Sandufern und tollen Cafés, aber beachten Sie, dass es in den Sommermonaten recht voll werden kann.",
+            "hu": "Pihenjen a város nyüzsgő fő strandján, ahol széles homokos partok és kiváló kávézók várják, de vegye figyelembe, hogy a nyári csúcsidőszakban zsúfolt lehet.",
+            "ro": "Relaxați-vă la plaja principală vibrantă a orașului, unde vă puteți bucura de țărmuri nisipoase și cafenele excelente, dar fiți conștienți că este aglomerat vara.",
+            "en": "Relax at the town's vibrant main beach where you can enjoy wide sandy shores and excellent nearby cafes, just be aware that it gets crowded during the peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wandertour durch Cala Ratjada beginnt in den ruhigen Gärten von Sa Torre Cega, wo Kunst und Natur verschmelzen. Mittags schlendern Sie an der Küste entlang nach Cala Gat und zu den Ruinen von sa Torre Esbucada. Der Nachmittag belohnt Sie mit einem Panoramablick vom Leuchtturm Far de Capdepera. Entspannen Sie sich schließlich am Abend im weichen Sand des Strandes Son Moll.",
+        "hu": "Cala Ratjada-i gyalogtúrája Sa Torre Cega békés kertjeiben indul, ahol a művészet és a természet egybeolvad. Délben a gyönyörű part mentén Cala Gat és a sa Torre Esbucada romjai felé sétál. A délután a Far de Capdepera világítótorony lenyűgöző panorámájával jutalmazza meg. Végül kora este pihenjen meg Son Moll finom homokos tengerpartján, élvezve a naplemente fényeit.",
+        "ro": "Turul pietonal prin Cala Ratjada începe în grădinile liniștite de la Sa Torre Cega, unde arta și natura se împletesc. Până la prânz, veți rătăci de-a lungul coastei spre Cala Gat și ruinele sa Torre Esbucada. După-amiaza vă răsplătește cu vederi panoramice de la farul Far de Capdepera. În cele din urmă, relaxați-vă pe nisipul fin de la Son Moll odată cu lăsarea serii.",
+        "en": "Your walking tour of Cala Ratjada begins in the tranquil gardens of Sa Torre Cega, where art and nature blend seamlessly. By midday, you'll wander along the beautiful coast to Cala Gat and the rugged ruins of sa Torre Esbucada. The afternoon rewards you with sweeping panoramic views from the Far de Capdepera lighthouse. Finally, relax and unwind on the soft sands of Son Moll as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Son Moll",
+            "hu": "Son Moll",
+            "ro": "Son Moll",
+            "en": "Son Moll"
+          },
+          "coords": [
+            3.456303,
+            39.705309
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am lebhaften Hauptstrand der Stadt mit breiten Sandufern und tollen Cafés, aber beachten Sie, dass es in den Sommermonaten recht voll werden kann.",
+            "hu": "Pihenjen a város nyüzsgő fő strandján, ahol széles homokos partok és kiváló kávézók várják, de vegye figyelembe, hogy a nyári csúcsidőszakban zsúfolt lehet.",
+            "ro": "Relaxați-vă la plaja principală vibrantă a orașului, unde vă puteți bucura de țărmuri nisipoase și cafenele excelente, dar fiți conștienți că este aglomerat vara.",
+            "en": "Relax at the town's vibrant main beach where you can enjoy wide sandy shores and excellent nearby cafes, just be aware that it gets crowded during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Sa Torre Cega",
+            "hu": "Sa Torre Cega",
+            "ro": "Sa Torre Cega",
+            "en": "Sa Torre Cega"
+          },
+          "coords": [
+            3.467977,
+            39.712192
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die atemberaubenden botanischen Gärten dieses modernistischen Anwesens mit zeitgenössischen Skulpturen, aber buchen Sie Ihre Führung vorab online.",
+            "hu": "Sétáljon végig a modernista birtok lenyűgöző, kortárs szobrokkal díszített botanikus kertjében, de ne felejtse el előre online lefoglalni a vezetett túrát.",
+            "ro": "Plimbați-vă prin grădinile botanice uimitoare ale acestei moșii moderniste pline de sculpturi contemporane, dar nu uitați să rezervați un tur ghidat online în avans.",
+            "en": "Wander through this modernist estate's stunning botanical gardens dotted with contemporary sculptures, but remember to book your guided tour online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Gat",
+            "hu": "Cala Gat",
+            "ro": "Cala Gat",
+            "en": "Cala Gat"
+          },
+          "coords": [
+            3.470108,
+            39.71307
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieser kleinen, geschützten Bucht, die sich perfekt zum Schnorcheln eignet, und kommen Sie früh, um einen Platz zu sichern.",
+            "hu": "Élvezze a kristálytiszta vizet ebben a kis, védett öbölben, amely tökéletes sznorkelezéshez, és érkezzen korán, hogy helyet találjon az aranyhomokos parton.",
+            "ro": "Bucurați-vă de apele cristaline din acest mic golf adăpostit, perfect pentru snorkeling, ajungând devreme pentru a prinde un loc pe mica porțiune de nisip auriu.",
+            "en": "Enjoy the crystal-clear waters of this small, sheltered cove perfect for snorkeling, arriving early to claim a spot on the limited stretch of golden sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Capdepera",
+            "hu": "Far de Capdepera",
+            "ro": "Far de Capdepera",
+            "en": "Far de Capdepera"
+          },
+          "coords": [
+            3.477498,
+            39.715656
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem historischen Leuchtturm aus dem 19. Jahrhundert und bringen Sie eine Windjacke für die windigen Klippen mit.",
+            "hu": "Gyönyörködjön a lélegzetelállító panorámában, amely a 19. századi történelmi világítótoronyból nyílik a Földközi-tengerre, és hozzon magával széldzsekit.",
+            "ro": "Admirați vederile panoramice uluitoare de la acest far istoric din secolul al XIX-lea spre Marea Mediterană, aducând o jachetă deoarece pe stânci poate bate vântul.",
+            "en": "Take in the breathtaking panoramic views from this historic 19th-century lighthouse overlooking the Mediterranean, bringing a windbreaker as the cliffs can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "cala Agulla",
+            "hu": "cala Agulla",
+            "ro": "cala Agulla",
+            "en": "cala Agulla"
+          },
+          "coords": [
+            3.455754,
+            39.723279
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen unberührten Strand mit Blauer Flagge, der von Pinienwäldern umgeben ist, und mieten Sie ein Stand-Up-Paddleboard für einen aktiven Morgen.",
+            "hu": "Fedezze fel ezt a fenyőerdőkkel övezett, Kék Zászló minősítésű érintetlen strandot, amely kiváló vízi sportokat kínál, így érdemes paddleboardot bérelni.",
+            "ro": "Descoperiți o plajă imaculată, înconjurată de păduri de pini, care oferă facilități excelente pentru sporturi nautice, ideală pentru a închiria un paddleboard.",
+            "en": "Discover a pristine Blue Flag beach surrounded by pine forests offering excellent water sports facilities, making it ideal to rent a paddleboard for an active morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am beliebten Strand Son Moll und tanken Sie Morgensonne, bevor Sie zum historischen Sa Torre Cega fahren. Mittags machen Sie einen erfrischenden Stopp an der idyllischen Cala Gat und fahren hinauf zum markanten Leuchtturm Far de Capdepera. Beenden Sie Ihren aktiven Nachmittag an der Cala Agulla, wo weite Sandstrände und kühle Pinienwälder auf Sie warten.",
+        "hu": "Kezdje kerékpáros kalandját a népszerű Son Moll strandon, élvezve a reggeli napsütést, majd tekerjen el a történelmi Sa Torre Cega felé. A dél egy frissítő megállót hoz az idilli Cala Gat öbölben és egy festői utat a lenyűgöző Far de Capdepera világítótoronyhoz. Zárja az aktív délutánt a Cala Agulla partján, ahol a széles homokos part és a hűvös fenyőerdők tökéletes kikapcsolódást nyújtanak.",
+        "ro": "Începeți aventura cu bicicleta la populara plajă Son Moll, bucurându-vă de soarele dimineții înainte de a vă îndrepta spre istorica Sa Torre Cega. Prânzul aduce o oprire răcoritoare la golful idilic Cala Gat și o plimbare pitorească până la farul Far de Capdepera. Încheiați după-amiaza la cala Agulla, unde nisipurile fine și pădurile de pini oferă o relaxare perfectă la malul mării.",
+        "en": "Kick off your cycling adventure at the popular Son Moll beach, soaking in the morning sun before heading to the historic Sa Torre Cega. Midday brings a refreshing stop at the idyllic Cala Gat cove and a scenic ride up to the striking Far de Capdepera lighthouse. Conclude your active afternoon at cala Agulla, where expansive sands and cool pine forests provide the perfect coastal wind-down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Caló des Beato",
+            "hu": "Caló des Beato",
+            "ro": "Caló des Beato",
+            "en": "Caló des Beato"
+          },
+          "coords": [
+            3.45469,
+            39.695701
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ziehen Sie sich in diese abgeschiedene Kieselbucht zurück, die sich ideal für ungestörtes Schwimmen eignet, und bringen Sie eigene Snacks mit, da es keine Anlagen gibt.",
+            "hu": "Vonuljon vissza ebbe az eldugott, nyugodt kavicsos öbölbe, amely ideális a zavartalan úszáshoz, de hozzon magával vizet és nasit, mivel nincsenek szolgáltatások.",
+            "ro": "Retrageți-vă în acest golfuleț retras și liniștit cu pietriș, ideal pentru înot nestingherit, aducând propriile gustări și apă, deoarece nu există facilități aici.",
+            "en": "Retreat to this secluded and tranquil pebble cove ideal for quiet contemplation and undisturbed swimming, bringing your own water and snacks as there are no amenities."
+          }
+        },
+        {
+          "name": {
+            "de": "Son Moll",
+            "hu": "Son Moll",
+            "ro": "Son Moll",
+            "en": "Son Moll"
+          },
+          "coords": [
+            3.456303,
+            39.705309
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am lebhaften Hauptstrand der Stadt mit breiten Sandufern und tollen Cafés, aber beachten Sie, dass es in den Sommermonaten recht voll werden kann.",
+            "hu": "Pihenjen a város nyüzsgő fő strandján, ahol széles homokos partok és kiváló kávézók várják, de vegye figyelembe, hogy a nyári csúcsidőszakban zsúfolt lehet.",
+            "ro": "Relaxați-vă la plaja principală vibrantă a orașului, unde vă puteți bucura de țărmuri nisipoase și cafenele excelente, dar fiți conștienți că este aglomerat vara.",
+            "en": "Relax at the town's vibrant main beach where you can enjoy wide sandy shores and excellent nearby cafes, just be aware that it gets crowded during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Sa Torre Cega",
+            "hu": "Sa Torre Cega",
+            "ro": "Sa Torre Cega",
+            "en": "Sa Torre Cega"
+          },
+          "coords": [
+            3.467977,
+            39.712192
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die atemberaubenden botanischen Gärten dieses modernistischen Anwesens mit zeitgenössischen Skulpturen, aber buchen Sie Ihre Führung vorab online.",
+            "hu": "Sétáljon végig a modernista birtok lenyűgöző, kortárs szobrokkal díszített botanikus kertjében, de ne felejtse el előre online lefoglalni a vezetett túrát.",
+            "ro": "Plimbați-vă prin grădinile botanice uimitoare ale acestei moșii moderniste pline de sculpturi contemporane, dar nu uitați să rezervați un tur ghidat online în avans.",
+            "en": "Wander through this modernist estate's stunning botanical gardens dotted with contemporary sculptures, but remember to book your guided tour online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Capdepera",
+            "hu": "Far de Capdepera",
+            "ro": "Far de Capdepera",
+            "en": "Far de Capdepera"
+          },
+          "coords": [
+            3.477498,
+            39.715656
+          ],
+          "category": "landmark",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem historischen Leuchtturm aus dem 19. Jahrhundert und bringen Sie eine Windjacke für die windigen Klippen mit.",
+            "hu": "Gyönyörködjön a lélegzetelállító panorámában, amely a 19. századi történelmi világítótoronyból nyílik a Földközi-tengerre, és hozzon magával széldzsekit.",
+            "ro": "Admirați vederile panoramice uluitoare de la acest far istoric din secolul al XIX-lea spre Marea Mediterană, aducând o jachetă deoarece pe stânci poate bate vântul.",
+            "en": "Take in the breathtaking panoramic views from this historic 19th-century lighthouse overlooking the Mediterranean, bringing a windbreaker as the cliffs can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "cala Agulla",
+            "hu": "cala Agulla",
+            "ro": "cala Agulla",
+            "en": "cala Agulla"
+          },
+          "coords": [
+            3.455754,
+            39.723279
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen unberührten Strand mit Blauer Flagge, der von Pinienwäldern umgeben ist, und mieten Sie ein Stand-Up-Paddleboard für einen aktiven Morgen.",
+            "hu": "Fedezze fel ezt a fenyőerdőkkel övezett, Kék Zászló minősítésű érintetlen strandot, amely kiváló vízi sportokat kínál, így érdemes paddleboardot bérelni.",
+            "ro": "Descoperiți o plajă imaculată, înconjurată de păduri de pini, care oferă facilități excelente pentru sporturi nautice, ideală pentru a închiria un paddleboard.",
+            "en": "Discover a pristine Blue Flag beach surrounded by pine forests offering excellent water sports facilities, making it ideal to rent a paddleboard for an active morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Moltó",
+            "hu": "Cala Moltó",
+            "ro": "Cala Moltó",
+            "en": "Cala Moltó"
+          },
+          "coords": [
+            3.452033,
+            39.725908
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Natur dieser kleinen Felsbucht mit türkisblauem Wasser, aber beachten Sie, dass sie ein bekannter und sehr beliebter Ort für FKK-Anhänger ist.",
+            "hu": "Élvezze ennek a kristálytiszta, türkizkék vizű, kis sziklás öbölnek a vad és természetes hangulatát, de tartsa szem előtt, hogy a naturisták körében is népszerű hely.",
+            "ro": "Bucurați-vă de atmosfera sălbatică a acestui mic golf stâncos cunoscut pentru apele turcoaz, dar rețineți că este o locație frecventată destul de des de nudiști.",
+            "en": "Enjoy the wild and natural atmosphere of this small rocky bay known for its crystal-clear turquoise waters, but keep in mind that it is a popular spot for naturists."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala na Llòbriga",
+            "hu": "Cala na Llòbriga",
+            "ro": "Cala na Llòbriga",
+            "en": "Cala na Llòbriga"
+          },
+          "coords": [
+            3.454754,
+            39.731686
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie auf malerischen Waldwegen zu dieser völlig unberührten Naturbucht, in der Sie friedlich schnorcheln können, und packen Sie bequeme Schuhe für die Wanderung ein.",
+            "hu": "Túrázzon festői erdei ösvényeken, hogy elérje ezt a teljesen érintetlen természetes öblöt, ahol békésen sznorkelezhet, és mindenképpen hozzon kényelmes cipőt.",
+            "ro": "Drumețiți pe trasee pitorești prin pădure pentru a ajunge la acest golf natural complet virgin, unde puteți face snorkeling liniștit, luând pantofi comozi.",
+            "en": "Trek through scenic forested trails to reach this completely unspoiled natural cove where you can snorkel peacefully, ensuring you pack comfortable shoes for the hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum abgelegenen Caló des Beato, dann weiter zum Son Moll und dem kulturellen Juwel Sa Torre Cega. Die Mittagsfahrt bringt Sie zum hoch aufragenden Far de Capdepera mit herrlichem Meerblick, gefolgt von einem Besuch der weitläufigen Cala Agulla. Verbringen Sie den späten Nachmittag damit, den unberührten Charme der Cala Moltó und die Schönheit der Cala na Llòbriga zu entdecken.",
+        "hu": "Autózzon egyenesen az eldugott Caló des Beato felé egy csendes reggelért, majd haladjon tovább Son Moll és a kulturális kincs, Sa Torre Cega felé. A déli út a magasba törő Far de Capdepera világítótoronyhoz visz, lenyűgöző kilátással, amit a hatalmas Cala Agulla meglátogatása követ. A késő délutánt Cala Moltó érintetlen bájának és Cala na Llòbriga vad szépségének felfedezésével töltheti.",
+        "ro": "Conduceți direct la retrasul Caló des Beato pentru o dimineață liniștită, apoi navigați spre Son Moll și bijuteria culturală Sa Torre Cega. Drumul de la prânz vă duce la farul impunător Far de Capdepera, urmat de o vizită la întinsa cala Agulla. Petreceți sfârșitul după-amiezii descoperind farmecul natural imaculat de la Cala Moltó și frumusețea sălbatică a golfului Cala na Llòbriga.",
+        "en": "Drive straight to the secluded Caló des Beato for a quiet morning, then cruise over to Son Moll and the cultural gem of Sa Torre Cega. The midday drive takes you to the towering Far de Capdepera, offering incredible views of the sea, followed by a visit to the expansive cala Agulla. Spend your late afternoon discovering the pristine natural charm of Cala Moltó and the rugged beauty of Cala na Llòbriga."
+      }
+    }
+  }
+}

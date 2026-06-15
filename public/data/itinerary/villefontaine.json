@@ -1,0 +1,497 @@
+{
+  "city_id": "villefontaine",
+  "anchor": {
+    "name": "Villefontaine",
+    "coords": [
+      5.1486,
+      45.6133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Vellein",
+            "hu": "Le Vellein",
+            "ro": "Le Vellein",
+            "en": "Le Vellein"
+          },
+          "coords": [
+            5.144547,
+            45.614786
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
+            "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
+            "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Vellein 1",
+            "hu": "Vellein 1",
+            "ro": "Vellein 1",
+            "en": "Vellein 1"
+          },
+          "coords": [
+            5.147288,
+            45.615906
+          ],
+          "category": "family",
+          "arrive_at": "10:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser grünen Oase für Familien und bringen Sie frisches Brot mit, um die freundlichen Enten der Umgebung zu füttern.",
+            "hu": "Pihenjen meg ebben a családok számára tökéletes zöldövezetben, és hozzon magával friss kenyeret, hogy megetethesse a barátságos helyi kacsákat.",
+            "ro": "Relaxați-vă în acest spațiu verde fermecător, ideal pentru familii, și aduceți puțină pâine proaspătă pentru a hrăni rațele prietenoase.",
+            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Vaugelas",
+            "hu": "Étang de Vaugelas",
+            "ro": "Étang de Vaugelas",
+            "en": "Étang de Vaugelas"
+          },
+          "coords": [
+            5.153366,
+            45.604863
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Spazieren Sie den schattigen Uferweg entlang, um die Vogelwelt zu genießen, und packen Sie ein leichtes Picknick für die Holzbänke ein.",
+            "hu": "Sétáljon végig az árnyékos tóparti ösvényen a gazdag madárvilágért, és hozzon magával egy könnyű pikniket a szépen karbantartott fapadokra.",
+            "ro": "Plimbați-vă pe cărarea umbrită de pe malul lacului pentru a admira păsările și aduceți un picnic ușor de savurat pe băncile din lemn.",
+            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "piscine",
+            "hu": "piscine",
+            "ro": "piscine",
+            "en": "piscine"
+          },
+          "coords": [
+            5.160026,
+            45.607451
+          ],
+          "category": "family",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in dieser modernen Anlage, aber denken Sie daran, dass in Frankreich enge Badehosen obligatorisch sind.",
+            "hu": "Élvezze a frissítő úszást ebben a modern létesítményben, de ne feledje, hogy Franciaországban a szoros fürdőruha viselése kötelező.",
+            "ro": "Bucurați-vă de o baie răcoritoare în acest complex modern, dar nu uitați că slipul clasic este obligatoriu pentru acces în Franța.",
+            "en": "Enjoy a refreshing swim in this modern facility, but remember that standard tight-fitting swimwear is mandatory for entry in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Bonnet Nature Reserve",
+            "hu": "Saint-Bonnet Nature Reserve",
+            "ro": "Saint-Bonnet Nature Reserve",
+            "en": "Saint-Bonnet Nature Reserve"
+          },
+          "coords": [
+            5.167082,
+            45.61115
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
+            "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
+            "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Saint-Bonnet",
+            "hu": "Étang de Saint-Bonnet",
+            "ro": "Étang de Saint-Bonnet",
+            "en": "Étang de Saint-Bonnet"
+          },
+          "coords": [
+            5.167409,
+            45.610037
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen Sonnenuntergangsreflexionen an diesem Teich und bringen Sie Mückenspray mit, falls Sie bis zum Abend bleiben.",
+            "hu": "Csodálja meg a békés naplemente tükröződését ezen az érintetlen tavon, és feltétlenül vigyen magával szúnyogriasztót, ha estig marad.",
+            "ro": "Admirați reflexiile calme ale apusului pe acest iaz curat și asigurați-vă că aveți spray anti-țânțari dacă zăboviți târziu în seară.",
+            "en": "Admire the calm sunset reflections at this pristine pond, making sure to bring mosquito repellent if you linger late into the warm evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Le Vellein mit lokaler Kultur, bevor Sie zum angrenzenden Vellein 1 schlendern. Mittags erreichen Sie die ruhigen Ufer des Étang de Vaugelas, die sich perfekt für eine entspannte Pause am Wasser eignen. Genießen Sie am Nachmittag eine aktive Zeit in der Nähe der Piscine, bevor Sie die grünen Pfade des Naturschutzgebiets Saint-Bonnet erkunden. Beenden Sie Ihren Tag am friedlichen Étang de Saint-Bonnet und beobachten Sie die abendlichen Spiegelungen.",
+        "hu": "Kezdje a reggelt a Le Vellein kulturális terén, majd sétáljon át a szomszédos Vellein 1 pihenőövezetbe. A délben elérhető Étang de Vaugelas nyugodt partjai tökéletes helyszínt nyújtanak egy kis vízparti pihenésre. Délután élvezze az aktív időtöltést a Piscine közelében, mielőtt felfedezné a Saint-Bonnet Természetvédelmi Terület zöldellő ösvényeit. Zárja a napot a békés Étang de Saint-Bonnet mellett, gyönyörködve a lemenő nap vízi tükröződésében.",
+        "ro": "Începeți dimineața la Le Vellein pentru a simți pulsul cultural local, înainte de a face o scurtă plimbare spre zona Vellein 1. La prânz vă veți relaxa pe malurile liniștite ale lacului Étang de Vaugelas, ideal pentru o pauză reconfortantă. După-amiaza aduce momente active lângă Piscine, urmate de o explorare a potecilor verzi din Rezervația Naturală Saint-Bonnet. Încheiați ziua pe malul pașnic al lacului Étang de Saint-Bonnet, admirând reflexiile serii pe apă.",
+        "en": "Start your morning at Le Vellein, immersing yourself in local culture before taking a brief stroll to the adjacent Vellein 1 area. Midday brings you to the tranquil shores of Étang de Vaugelas, perfect for a relaxing waterside break. In the afternoon, enjoy some active time near the piscine before exploring the verdant trails of the Saint-Bonnet Nature Reserve. Conclude your day by the peaceful Étang de Saint-Bonnet, watching the evening reflections on the calm water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de Fallavier",
+            "hu": "Étang de Fallavier",
+            "ro": "Étang de Fallavier",
+            "en": "Étang de Fallavier"
+          },
+          "coords": [
+            5.130302,
+            45.621529
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang um diesen historischen See und halten Sie Ausschau nach den alten Ruinen im nahegelegenen Wald.",
+            "hu": "Tegyen egy kényelmes sétát a történelmi tó hatalmas peremén, és tartsa nyitva a szemét a közeli erdőben rejtőző ősi romok után.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui lac istoric și fiți cu ochii în patru pentru ruinele antice ascunse în pădurea din apropiere.",
+            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Vellein",
+            "hu": "Le Vellein",
+            "ro": "Le Vellein",
+            "en": "Le Vellein"
+          },
+          "coords": [
+            5.144547,
+            45.614786
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
+            "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
+            "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Vellein 1",
+            "hu": "Vellein 1",
+            "ro": "Vellein 1",
+            "en": "Vellein 1"
+          },
+          "coords": [
+            5.147288,
+            45.615906
+          ],
+          "category": "family",
+          "arrive_at": "11:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser grünen Oase für Familien und bringen Sie frisches Brot mit, um die freundlichen Enten der Umgebung zu füttern.",
+            "hu": "Pihenjen meg ebben a családok számára tökéletes zöldövezetben, és hozzon magával friss kenyeret, hogy megetethesse a barátságos helyi kacsákat.",
+            "ro": "Relaxați-vă în acest spațiu verde fermecător, ideal pentru familii, și aduceți puțină pâine proaspătă pentru a hrăni rațele prietenoase.",
+            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Vaugelas",
+            "hu": "Étang de Vaugelas",
+            "ro": "Étang de Vaugelas",
+            "en": "Étang de Vaugelas"
+          },
+          "coords": [
+            5.153366,
+            45.604863
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Spazieren Sie den schattigen Uferweg entlang, um die Vogelwelt zu genießen, und packen Sie ein leichtes Picknick für die Holzbänke ein.",
+            "hu": "Sétáljon végig az árnyékos tóparti ösvényen a gazdag madárvilágért, és hozzon magával egy könnyű pikniket a szépen karbantartott fapadokra.",
+            "ro": "Plimbați-vă pe cărarea umbrită de pe malul lacului pentru a admira păsările și aduceți un picnic ușor de savurat pe băncile din lemn.",
+            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Bonnet Nature Reserve",
+            "hu": "Saint-Bonnet Nature Reserve",
+            "ro": "Saint-Bonnet Nature Reserve",
+            "en": "Saint-Bonnet Nature Reserve"
+          },
+          "coords": [
+            5.167082,
+            45.61115
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
+            "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
+            "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang neuf 1",
+            "hu": "Étang neuf 1",
+            "ro": "Étang neuf 1",
+            "en": "Étang neuf 1"
+          },
+          "coords": [
+            5.180431,
+            45.604033
+          ],
+          "category": "family",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Finden Sie ein friedliches Plätzchen zum Angeln am Wasser, aber überprüfen Sie die örtlichen Vorschriften, bevor Sie Ihre Angel auswerfen.",
+            "hu": "Keressen egy békés horgászhelyet vagy csak pihenjen a vízparton, de előtte feltétlenül tájékozódjon a helyi horgászati szabályokról.",
+            "ro": "Găsiți un loc liniștit pentru pescuit sau relaxare, dar asigurați-vă că verificați regulamentele locale înainte de a arunca undița.",
+            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here."
+          }
+        },
+        {
+          "name": {
+            "de": "Quincia",
+            "hu": "Quincia",
+            "ro": "Quincia",
+            "en": "Quincia"
+          },
+          "coords": [
+            5.180493,
+            45.598697
+          ],
+          "category": "family",
+          "arrive_at": "16:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem Spielplatz Energie abbauen, der hervorragende Sitzbereiche bietet, auf denen Eltern bei einem Kaffee entspannen können.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt játszótéren, amely kiváló ülőhelyeket kínál a szülőknek egy kávé mellé.",
+            "ro": "Lăsați copiii să-și consume energia în acest spațiu recreativ bine echipat, care oferă zone de relaxare excelente pentru părinți la o cafea.",
+            "en": "Let the kids burn off energy in this well-equipped recreational space, which offers excellent seating areas for parents to relax with a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am historischen Étang de Fallavier, genießen Sie den Blick aufs Wasser und radeln Sie dann zum Kulturzentrum Le Vellein. Ein kurzes Stück führt zu Vellein 1 und ebnet den Weg für eine schöne Mittagspause am Étang de Vaugelas. Verbringen Sie den Nachmittag mit einer Fahrt durch das Naturschutzgebiet Saint-Bonnet zum Étang neuf 1. Beenden Sie die Fahrt im familienfreundlichen Quincia und genießen Sie das weiche Abendlicht.",
+        "hu": "Kezdje kerékpártúráját a történelmi Étang de Fallavier partjánál, gyönyörködjön a vízben, majd tekerjen a Le Vellein kulturális központjához. Egy rövid szakasz elvezeti a Vellein 1-hez, amely egy remek déli pihenőt készít elő az Étang de Vaugelas-nál. A délutánt a Saint-Bonnet Természetvédelmi Területen át az Étang neuf 1-ig kerekezve töltheti. Zárja az utat a családbarát Quincia-nál, élvezve a lágy esti fényeket.",
+        "ro": "Începeți turul cu bicicleta la istoricul Étang de Fallavier, admirând priveliștile înainte de a pedala spre centrul cultural Le Vellein. Un scurt traseu vă duce la Vellein 1, pregătind o pauză de prânz la Étang de Vaugelas. Petreceți după-amiaza traversând Rezervația Naturală Saint-Bonnet până la Étang neuf 1. Încheiați plimbarea la spațiul familial Quincia, bucurându-vă de lumina blândă a serii pe drumul de întoarcere.",
+        "en": "Kick off your cycling tour at the historic Étang de Fallavier, taking in the grand water views before riding to the cultural hub of Le Vellein. A short pedal takes you to Vellein 1, paving the way for a lovely midday rest at Étang de Vaugelas. Spend your afternoon cruising through the pristine Saint-Bonnet Nature Reserve and arriving at Étang neuf 1. Conclude your ride at the family-friendly Quincia, enjoying the soft evening light on your relaxing journey back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Noirée Park",
+            "hu": "Noirée Park",
+            "ro": "Noirée Park",
+            "en": "Noirée Park"
+          },
+          "coords": [
+            5.115469,
+            45.639739
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen flott auf den weiten Laufstrecken dieses großen Parks und bringen Sie Wasser mit, da es nur wenige Trinkbrunnen gibt.",
+            "hu": "Kezdje a reggelt egy frissítő kocogással a hatalmas park kiterjedt ösvényein, és hozzon magával kulacsot, mivel ritkák az ivókutak.",
+            "ro": "Începeți dimineața energic pe traseele extinse de alergare din acest parc vast, aducând propria sticlă cu apă, deoarece cișmelele sunt rare.",
+            "en": "Start your morning briskly on the extensive jogging trails of this vast park, bringing your own water bottle as fountains are sparsely located."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Fallavier",
+            "hu": "Étang de Fallavier",
+            "ro": "Étang de Fallavier",
+            "en": "Étang de Fallavier"
+          },
+          "coords": [
+            5.130302,
+            45.621529
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.32,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang um diesen historischen See und halten Sie Ausschau nach den alten Ruinen im nahegelegenen Wald.",
+            "hu": "Tegyen egy kényelmes sétát a történelmi tó hatalmas peremén, és tartsa nyitva a szemét a közeli erdőben rejtőző ősi romok után.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui lac istoric și fiți cu ochii în patru pentru ruinele antice ascunse în pădurea din apropiere.",
+            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Vellein",
+            "hu": "Le Vellein",
+            "ro": "Le Vellein",
+            "en": "Le Vellein"
+          },
+          "coords": [
+            5.144547,
+            45.614786
+          ],
+          "category": "cultural",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
+            "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
+            "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Bonnet Nature Reserve",
+            "hu": "Saint-Bonnet Nature Reserve",
+            "ro": "Saint-Bonnet Nature Reserve",
+            "en": "Saint-Bonnet Nature Reserve"
+          },
+          "coords": [
+            5.167082,
+            45.61115
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
+            "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
+            "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang neuf 1",
+            "hu": "Étang neuf 1",
+            "ro": "Étang neuf 1",
+            "en": "Étang neuf 1"
+          },
+          "coords": [
+            5.180431,
+            45.604033
+          ],
+          "category": "family",
+          "arrive_at": "14:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Finden Sie ein friedliches Plätzchen zum Angeln am Wasser, aber überprüfen Sie die örtlichen Vorschriften, bevor Sie Ihre Angel auswerfen.",
+            "hu": "Keressen egy békés horgászhelyet vagy csak pihenjen a vízparton, de előtte feltétlenül tájékozódjon a helyi horgászati szabályokról.",
+            "ro": "Găsiți un loc liniștit pentru pescuit sau relaxare, dar asigurați-vă că verificați regulamentele locale înainte de a arunca undița.",
+            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux de Turitin",
+            "hu": "Aire de Jeux de Turitin",
+            "ro": "Aire de Jeux de Turitin",
+            "en": "Aire de Jeux de Turitin"
+          },
+          "coords": [
+            5.163068,
+            45.593031
+          ],
+          "category": "family",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem spielerischen Ort mit sicheren Klettergerüsten und packen Sie eine leichte Jacke ein, da die Temperaturen abends sinken.",
+            "hu": "Zárja a napot ezen a modern mászókákkal felszerelt családi helyen, és ne felejtsen el egy vékony kabátot hozni az esti lehűléshez.",
+            "ro": "Încheiați ziua la acest loc de joacă modern și sigur pentru familii, asigurându-vă că luați o jachetă subțire, deoarece temperaturile scad seara.",
+            "en": "End the day at this playful family spot featuring safe, modern climbing structures, ensuring you pack a light jacket as evening temperatures drop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im weitläufigen Noirée Park, einem perfekten Ort für einen morgendlichen Spaziergang. Fahren Sie dann zum malerischen Étang de Fallavier und weiter zum Le Vellein für regionale Kunst. Der Nachmittag bietet einen tiefen Einblick in die lokale Ökologie im Naturschutzgebiet Saint-Bonnet und führt Sie zu den ruhigen Ufern des Étang neuf 1. Beenden Sie den Tag am lebhaften Aire de Jeux de Turitin, wo sich alle entspannen können.",
+        "hu": "Az autós nap a hatalmas Noirée Parkban kezdődik, amely tökéletes egy energikus reggeli sétához. Ezután vezessen a festői Étang de Fallavier-hez a tóparti kilátásért, majd a Le Vellein-be a regionális művészetekért. A délután folyamán merüljön el a helyi ökológiában a Saint-Bonnet Természetvédelmi Területen, amely simán átvezet az Étang neuf 1 csendes partjaira. Fejezze be a napot a nyüzsgő Aire de Jeux de Turitin játszótérnél.",
+        "ro": "Ziua cu mașina începe în vastul Parc Noirée, perfect pentru o plimbare energică de dimineață. Conduceți apoi spre pitorescul Étang de Fallavier, înainte de a vizita Le Vellein pentru a admira artele regionale. După-amiaza oferă o incursiune în ecologia locală la Rezervația Naturală Saint-Bonnet, trecând lin spre malurile liniștite ale lacului Étang neuf 1. Încheiați ziua la parcul plin de viață Aire de Jeux de Turitin, relaxându-vă înainte de apus.",
+        "en": "Your driving day begins at the expansive Noirée Park, a perfect place for an energetic morning stroll. Next, drive to the scenic Étang de Fallavier for majestic lake views before heading to Le Vellein to soak in some regional arts. The afternoon features a deep dive into local ecology at the Saint-Bonnet Nature Reserve, seamlessly transitioning to the quiet shores of Étang neuf 1. Finish the day at the lively Aire de Jeux de Turitin, where everyone can unwind before sunset."
+      }
+    }
+  }
+}

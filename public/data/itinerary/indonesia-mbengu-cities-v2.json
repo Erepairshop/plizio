@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-mbengu-cities-v2",
+  "anchor": {
+    "name": "Mbengu",
+    "coords": [
+      122.03276,
+      -8.77951
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:59",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Keli Wolowake",
+            "hu": "Keli Wolowake",
+            "ro": "Keli Wolowake",
+            "en": "Keli Wolowake"
+          },
+          "coords": [
+            122.034046,
+            -8.77571
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Wanderung am Keli Wolowake, um die üppigen Vulkanhügel der Region zu bewundern, und tragen Sie festes Schuhwerk, da der Morgentau die Pfade rutschig macht.",
+            "hu": "Kezdje a túrát a Keli Wolowake-nál, hogy megcsodálja a régió buja vulkáni dombjait, de viseljen masszív cipőt, mivel a reggeli harmat eléggé csúszóssá teszi a füves ösvényeket.",
+            "ro": "Începeți drumeția la Keli Wolowake pentru a admira dealurile vulcanice luxuriante ale regiunii, purtând încălțăminte robustă, deoarece roua dimineții face traseele alunecoase.",
+            "en": "Begin your hike at Keli Wolowake to admire the lush volcanic hills defining the region, bringing sturdy shoes as the morning dew makes the grassy trails quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Keli Niranibe",
+            "hu": "Keli Niranibe",
+            "ro": "Keli Niranibe",
+            "en": "Keli Niranibe"
+          },
+          "coords": [
+            122.031269,
+            -8.771832
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Naturschönheit des Keli Niranibe, eines markanten Gipfels mit weitem Blick ins Landesinnere, aber tragen Sie vor dem Aufstieg unbedingt Sonnencreme auf.",
+            "hu": "Fedezze fel a Keli Niranibe zord természeti szépségét, egy kiemelkedő helyi csúcsot, amely széles körű kilátást nyújt a szárazföldre, de ne felejtsen el naptejet használni.",
+            "ro": "Descoperiți frumusețea naturală accidentată a Keli Niranibe, un vârf local proeminent care oferă vederi ample spre interior, dar asigurați-vă că aplicați multă cremă de soare.",
+            "en": "Discover the rugged natural beauty of Keli Niranibe, a prominent local peak offering sweeping inland views, but make sure to apply plenty of sunscreen before starting the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Big Jesus statue view point",
+            "hu": "Big Jesus statue view point",
+            "ro": "Big Jesus statue view point",
+            "en": "Big Jesus statue view point"
+          },
+          "coords": [
+            122.038738,
+            -8.782098
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesige Christusstatue, ein ikonisches Symbol des Glaubens mit herrlichem Küstenpanorama, also bringen Sie ein Weitwinkelobjektiv für Landschaftsaufnahmen mit.",
+            "hu": "Csodálja meg a monumentális Jézus-szobrot, amely a hit ikonikus szimbóluma és lenyűgöző tengerparti panorámát nyújt, ezért hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Minunați-vă de statuia monumentală a lui Iisus, un simbol iconic al credinței ce oferă panorame uimitoare de coastă, așa că aduceți un obiectiv superangular pentru fotografii.",
+            "en": "Marvel at the monumental Big Jesus statue view point, an iconic symbol of faith providing stunning coastal panoramas, so bring a wide-angle lens to capture the entire landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Ili Meja",
+            "hu": "Ili Meja",
+            "ro": "Ili Meja",
+            "en": "Ili Meja"
+          },
+          "coords": [
+            122.022964,
+            -8.786913
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die dramatischen geologischen Formationen am Ili Meja, einem steil aus dem Dschungel aufragenden Bergrücken, und halten Sie Ausschau nach exotischen Vogelarten.",
+            "hu": "Fedezze fel az Ili Meja drámai geológiai képződményeit, egy meredeken a dzsungelből kiemelkedő hegygerincet, miközben tartsa a szemét a fészkelő egzotikus helyi madárfajokon.",
+            "ro": "Explorați formațiunile geologice dramatice de la Ili Meja, o creastă montană ce se înalță abrupt din junglă, stând cu ochii în patru după specii de păsări exotice cuibăritoare.",
+            "en": "Explore the dramatic geological formations at Ili Meja, a striking mountain ridge rising steeply from the jungle, while keeping an eye out for exotic local bird species nesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Keli Lisabeto",
+            "hu": "Keli Lisabeto",
+            "ro": "Keli Lisabeto",
+            "en": "Keli Lisabeto"
+          },
+          "coords": [
+            122.017603,
+            -8.777344
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung am Keli Lisabeto, einem ruhigen Hügel inmitten unberührter tropischer Vegetation, und bringen Sie Insektenschutzmittel für den Sonnenuntergang mit.",
+            "hu": "Zárja a felfedezést a Keli Lisabeto-nál, egy nyugodt hegytetőn, amelyet érintetlen trópusi növényzet ölel körül, és hozzon rovarriasztót, hogy kényelmesen élvezze a naplementét.",
+            "ro": "Încheiați explorarea la Keli Lisabeto, un reper senin pe deal învăluit în vegetație tropicală virgină, aducând o soluție împotriva insectelor pentru a vă bucura de apus în tihnă.",
+            "en": "Conclude your exploration at Keli Lisabeto, a serene hilltop landmark enveloped in pristine tropical vegetation, bringing some insect repellent to enjoy the sunset comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer erfrischenden Wanderung am Keli Wolowake. Wenn die Sonne höher steigt, gehen Sie weiter zum Keli Niranibe für weite Blicke. Stehen Sie mittags ehrfürchtig vor der majestätischen Christusstatue und genießen Sie das spektakuläre Küstenpanorama. Der Nachmittag führt Sie zum Ili Meja, um seine markanten geologischen Formationen zu sehen. Beenden Sie den aktiven Tag auf dem ruhigen Gipfel des Keli Lisabeto und beobachten Sie den tropischen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt egy frissítő túrával a Keli Wolowake környékén, élvezve a vulkanikus dombokat. Ahogy a nap feljebb emelkedik, lépjen tovább a Keli Niranibe felé a pazar kilátásért. Délben álljon tiszteletteljesen a fenséges Jézus-szobor kilátója előtt. A délután az Ili Meja felé vezet, hogy tanúja legyen a feltűnő geológiai képződményeinek. Zárja aktív napját a Keli Lisabeto nyugodt csúcsán, nézve, ahogy a naplemente élénk trópusi árnyalatokkal festi meg az eget a nyugodt táj felett.",
+        "ro": "Începeți dimineața cu o drumeție revigorantă în jurul Keli Wolowake, bucurându-vă de dealurile vulcanice. Pe măsură ce soarele răsare, mergeți la Keli Niranibe pentru vederi ample. La amiază, stați cu uimire în fața statuii maiestuoase a lui Iisus, admirând panorama spectaculoasă a coastei. După-amiaza vă conduce la Ili Meja pentru a vedea formațiunile geologice izbitoare. Încheiați ziua activă la vârful senin al Keli Lisabeto, privind apusul de soare ce pictează cerul tropical.",
+        "en": "Start the morning with a refreshing hike around Keli Wolowake, enjoying the misty volcanic hills. As the sun rises higher, move on to Keli Niranibe for expansive inland views. By midday, stand in awe before the majestic Big Jesus statue view point, taking in the spectacular coastal panorama. The afternoon leads you to Ili Meja to witness its striking geological formations. Conclude your active day at the serene peak of Keli Lisabeto, watching the sunset paint the sky in vibrant tropical hues."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Big Jesus statue view point",
+            "hu": "Big Jesus statue view point",
+            "ro": "Big Jesus statue view point",
+            "en": "Big Jesus statue view point"
+          },
+          "coords": [
+            122.038738,
+            -8.782098
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesige Christusstatue, ein ikonisches Symbol des Glaubens mit herrlichem Küstenpanorama, also bringen Sie ein Weitwinkelobjektiv für Landschaftsaufnahmen mit.",
+            "hu": "Csodálja meg a monumentális Jézus-szobrot, amely a hit ikonikus szimbóluma és lenyűgöző tengerparti panorámát nyújt, ezért hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Minunați-vă de statuia monumentală a lui Iisus, un simbol iconic al credinței ce oferă panorame uimitoare de coastă, așa că aduceți un obiectiv superangular pentru fotografii.",
+            "en": "Marvel at the monumental Big Jesus statue view point, an iconic symbol of faith providing stunning coastal panoramas, so bring a wide-angle lens to capture the entire landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Ili Nusabeta",
+            "hu": "Ili Nusabeta",
+            "ro": "Ili Nusabeta",
+            "en": "Ili Nusabeta"
+          },
+          "coords": [
+            122.028703,
+            -8.791772
+          ],
+          "category": "landmark",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Klippen von Ili Nusabeta, einem wichtigen geografischen Merkmal der Südküste, und bleiben Sie beim Fotografieren unbedingt hinter den markierten Barrieren.",
+            "hu": "Csodálja meg az Ili Nusabeta tornyosuló szikláit, a déli partot meghatározó döntő földrajzi képződményt, és maradjon a kijelölt biztonsági korlátok mögött a fotózás során.",
+            "ro": "Admirați stâncile impunătoare de la Ili Nusabeta, o caracteristică geografică ce definește coasta de sud, și stați în spatele barierelor de siguranță când faceți fotografii.",
+            "en": "Admire the towering cliffs of Ili Nusabeta, a crucial geographical feature defining the southern coast, and stay behind the marked safety barriers when taking photographs here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Beta",
+            "hu": "Pantai Beta",
+            "ro": "Pantai Beta",
+            "en": "Pantai Beta"
+          },
+          "coords": [
+            122.027938,
+            -8.794248
+          ],
+          "category": "recreational",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Pantai Beta, einem Erholungsstrand, der für seine sanften Wellen bekannt ist, aber beachten Sie, dass man am besten bei Ebbe schwimmen geht.",
+            "hu": "Pihenjen a Pantai Beta aranyhomokján, az enyhe hullámairól ismert érintetlen strandon, de vegye figyelembe, hogy az erős áramlatok miatt a fürdés apálykor a legbiztonságosabb.",
+            "ro": "Relaxați-vă pe nisipul auriu de la Pantai Beta, o plajă de agrement curată cunoscută pentru valurile sale blânde, dar rețineți că înotul este cel mai bun la mareea joasă mereu.",
+            "en": "Relax on the golden sands of Pantai Beta, a pristine recreational beach known for its gentle rolling waves, but be aware that swimming is best at low tide due to strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Ili Koka",
+            "hu": "Ili Koka",
+            "ro": "Ili Koka",
+            "en": "Ili Koka"
+          },
+          "coords": [
+            122.021571,
+            -8.794956
+          ],
+          "category": "landmark",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätischen Hänge des Ili Koka, einem imposanten Hügel, der eine spektakuläre Kulisse für die Strände bietet, und achten Sie auf den losen Schotterweg.",
+            "hu": "Tekintse meg az Ili Koka fenséges lejtőit, egy impozáns dombot, amely lenyűgöző hátteret biztosít a szomszédos strandoknak, miközben ügyeljen a lépteire a laza kavicsos utakon.",
+            "ro": "Priviți pantele maiestuoase ale Ili Koka, un deal impunător ce oferă un fundal spectaculos pentru plajele adiacente, menținându-vă echilibrul pe potecile acoperite cu pietriș.",
+            "en": "Gaze upon the majestic slopes of Ili Koka, an imposing hill providing a spectacular backdrop to the adjacent beaches, while maintaining your grip on the loose gravel footpaths."
+          }
+        },
+        {
+          "name": {
+            "de": "Koka beach",
+            "hu": "Koka beach",
+            "ro": "Koka beach",
+            "en": "Koka beach"
+          },
+          "coords": [
+            122.016847,
+            -8.794188
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser des Koka Beach, einer atemberaubenden Doppelbucht zum Schnorcheln, und mieten Sie frühzeitig einen Holzpavillon für ausreichend Schatten.",
+            "hu": "Ússzon a Koka strand kristálytiszta, türkizkék vizében, egy lélegzetelállító, sznorkelezésről híres kettős öbölben, és béreljen korán egy fakabint, hogy árnyékot biztosítson.",
+            "ro": "Înotați în apele turcoaz cristaline de la Koka beach, un golf dublu uluitor renumit pentru snorkeling, și închiriați devreme un foișor de lemn pentru a vă asigura puțină umbră.",
+            "en": "Swim in the crystal-clear turquoise waters of Koka beach, a breathtaking double bay renowned for snorkeling, and rent a basic wooden gazebo early to secure some much-needed shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Koka",
+            "hu": "Koka",
+            "ro": "Koka",
+            "en": "Koka"
+          },
+          "coords": [
+            122.018103,
+            -8.795279
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kultur in Koka, einem Erholungszentrum, wo Fischer ihren täglichen Fang einbringen, was die perfekte Gelegenheit bietet, frischen Fisch zu kaufen.",
+            "hu": "Tapasztalja meg az élénk helyi kultúrát Koka rekreációs központjában, ahová a halászok beviszik a napi fogásukat, tökéletes lehetőséget kínálva a friss tenger gyümölcseihez.",
+            "ro": "Experimentați cultura locală vibrantă în Koka, un centru de recreere animat unde pescarii își aduc captura zilnică, oferind oportunitatea perfectă de a cumpăra fructe de mare.",
+            "en": "Experience the vibrant local culture in Koka, a lively recreational hub where fishermen bring in their daily catch, offering the perfect opportunity to buy some fresh seafood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der Christusstatue und sichern Sie sich einen herrlichen Blick auf die Küste. Fahren Sie bergab zu den Klippen von Ili Nusabeta, um die Meeresbrise zu spüren. Machen Sie mittags eine entspannte Pause an der Pantai Beta und kühlen Sie Ihre Füße ab. Die Nachmittagsfahrt führt Sie an den imposanten Hängen des Ili Koka vorbei zum Koka Beach. Beenden Sie Ihre Reise im lebhaften Erholungsgebiet von Koka und genießen Sie die abendliche Atmosphäre am Meer.",
+        "hu": "Kezdje kerékpáros kalandját a Jézus-szobornál, és biztosítson magának lenyűgöző kilátást a partra. Navigáljon lefelé az Ili Nusabeta tornyosuló sziklái felé, hogy érezze az óceáni szellőt. Tartson egy pihentető déli szünetet a Pantai Beta-nál, a hűsítő hullámokba lógatva a lábát. A délutáni túra az Ili Koka lejtői mellett vezet a Koka strand felé. Fejezze be utazását Koka nyüzsgő rekreációs területén, élvezve a nyüzsgő esti légkört és a friss tenger gyümölcseit kínáló helyi árusokat.",
+        "ro": "Începeți aventura pe bicicletă la statuia lui Iisus, asigurându-vă o vedere impresionantă a coastei. Navigați la vale spre stâncile din Ili Nusabeta pentru a simți briza oceanului. Opriți-vă pentru o pauză relaxantă la amiază la Pantai Beta, răcorindu-vă picioarele în valuri. Plimbarea de după-amiază vă duce pe lângă pantele impunătoare ale Ili Koka înainte de a ajunge la Koka beach. Terminați călătoria în zona de recreere vibrantă din Koka, savurând atmosfera animată de seară.",
+        "en": "Kick off your cycling adventure at the Big Jesus statue view point, securing an awe-inspiring view of the coast. Navigate downhill towards the towering cliffs of Ili Nusabeta to feel the ocean breeze. Stop for a relaxing midday break at Pantai Beta, dipping your toes in the refreshing waves. The afternoon ride takes you past the imposing slopes of Ili Koka before reaching the pristine Koka beach. Finish your journey in the vibrant recreational area of Koka, savoring the lively atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 7.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Big Jesus statue view point",
+            "hu": "Big Jesus statue view point",
+            "ro": "Big Jesus statue view point",
+            "en": "Big Jesus statue view point"
+          },
+          "coords": [
+            122.038738,
+            -8.782098
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesige Christusstatue, ein ikonisches Symbol des Glaubens mit herrlichem Küstenpanorama, also bringen Sie ein Weitwinkelobjektiv für Landschaftsaufnahmen mit.",
+            "hu": "Csodálja meg a monumentális Jézus-szobrot, amely a hit ikonikus szimbóluma és lenyűgöző tengerparti panorámát nyújt, ezért hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Minunați-vă de statuia monumentală a lui Iisus, un simbol iconic al credinței ce oferă panorame uimitoare de coastă, așa că aduceți un obiectiv superangular pentru fotografii.",
+            "en": "Marvel at the monumental Big Jesus statue view point, an iconic symbol of faith providing stunning coastal panoramas, so bring a wide-angle lens to capture the entire landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Keli Niranibe",
+            "hu": "Keli Niranibe",
+            "ro": "Keli Niranibe",
+            "en": "Keli Niranibe"
+          },
+          "coords": [
+            122.031269,
+            -8.771832
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Naturschönheit des Keli Niranibe, eines markanten Gipfels mit weitem Blick ins Landesinnere, aber tragen Sie vor dem Aufstieg unbedingt Sonnencreme auf.",
+            "hu": "Fedezze fel a Keli Niranibe zord természeti szépségét, egy kiemelkedő helyi csúcsot, amely széles körű kilátást nyújt a szárazföldre, de ne felejtsen el naptejet használni.",
+            "ro": "Descoperiți frumusețea naturală accidentată a Keli Niranibe, un vârf local proeminent care oferă vederi ample spre interior, dar asigurați-vă că aplicați multă cremă de soare.",
+            "en": "Discover the rugged natural beauty of Keli Niranibe, a prominent local peak offering sweeping inland views, but make sure to apply plenty of sunscreen before starting the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Keli Lisabeto",
+            "hu": "Keli Lisabeto",
+            "ro": "Keli Lisabeto",
+            "en": "Keli Lisabeto"
+          },
+          "coords": [
+            122.017603,
+            -8.777344
+          ],
+          "category": "landmark",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung am Keli Lisabeto, einem ruhigen Hügel inmitten unberührter tropischer Vegetation, und bringen Sie Insektenschutzmittel für den Sonnenuntergang mit.",
+            "hu": "Zárja a felfedezést a Keli Lisabeto-nál, egy nyugodt hegytetőn, amelyet érintetlen trópusi növényzet ölel körül, és hozzon rovarriasztót, hogy kényelmesen élvezze a naplementét.",
+            "ro": "Încheiați explorarea la Keli Lisabeto, un reper senin pe deal învăluit în vegetație tropicală virgină, aducând o soluție împotriva insectelor pentru a vă bucura de apus în tihnă.",
+            "en": "Conclude your exploration at Keli Lisabeto, a serene hilltop landmark enveloped in pristine tropical vegetation, bringing some insect repellent to enjoy the sunset comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Ili Pelah",
+            "hu": "Ili Pelah",
+            "ro": "Ili Pelah",
+            "en": "Ili Pelah"
+          },
+          "coords": [
+            122.021182,
+            -8.78442
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden des Ili Pelah, einem markanten Berg mit vielfältiger Flora und Fauna, und nehmen Sie ausreichend Trinkwasser mit, da es keine Händler gibt.",
+            "hu": "Túrázzon az Ili Pelah festői ösvényein, a változatos növény- és állatvilágot kínáló, kiemelkedő hegyen, és vigyen magával elegendő ivóvizet, mivel az útvonalon nincsenek árusok.",
+            "ro": "Mergeți pe traseele pitorești de pe Ili Pelah, un munte proeminent cu o floră și faună diversă, având grijă să aduceți suficientă apă de băut, deoarece nu există vânzători aici.",
+            "en": "Hike along the scenic trails of Ili Pelah, a prominent mountain offering diverse flora and fauna, taking care to pack sufficient drinking water as there are no vendors on route."
+          }
+        },
+        {
+          "name": {
+            "de": "Ili Watumoda",
+            "hu": "Ili Watumoda",
+            "ro": "Ili Watumoda",
+            "en": "Ili Watumoda"
+          },
+          "coords": [
+            122.021494,
+            -8.79191
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rauen Charme des Ili Watumoda, der durch steile Felsvorsprünge gekennzeichnet ist, und engagieren Sie einen lokalen Führer, um sicher zum Gipfel zu gelangen.",
+            "hu": "Fedezze fel az Ili Watumoda zord varázsát, amelyet a tájat uraló meredek sziklakibúvások jellemeznek, és fogadjon fel egy helyi vezetőt, ha biztonságosan akar a csúcsra jutni.",
+            "ro": "Descoperiți farmecul accidentat al Ili Watumoda, caracterizat de aflorimente stâncoase abrupte ce domină peisajul, și angajați un ghid local dacă doriți să navigați pe traseu.",
+            "en": "Discover the rugged charm of Ili Watumoda, characterized by steep rocky outcrops dominating the landscape, and hire a local guide if you wish to safely navigate the peak trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Beta",
+            "hu": "Pantai Beta",
+            "ro": "Pantai Beta",
+            "en": "Pantai Beta"
+          },
+          "coords": [
+            122.027938,
+            -8.794248
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Pantai Beta, einem Erholungsstrand, der für seine sanften Wellen bekannt ist, aber beachten Sie, dass man am besten bei Ebbe schwimmen geht.",
+            "hu": "Pihenjen a Pantai Beta aranyhomokján, az enyhe hullámairól ismert érintetlen strandon, de vegye figyelembe, hogy az erős áramlatok miatt a fürdés apálykor a legbiztonságosabb.",
+            "ro": "Relaxați-vă pe nisipul auriu de la Pantai Beta, o plajă de agrement curată cunoscută pentru valurile sale blânde, dar rețineți că înotul este cel mai bun la mareea joasă mereu.",
+            "en": "Relax on the golden sands of Pantai Beta, a pristine recreational beach known for its gentle rolling waves, but be aware that swimming is best at low tide due to strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Koka beach",
+            "hu": "Koka beach",
+            "ro": "Koka beach",
+            "en": "Koka beach"
+          },
+          "coords": [
+            122.016847,
+            -8.794188
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser des Koka Beach, einer atemberaubenden Doppelbucht zum Schnorcheln, und mieten Sie frühzeitig einen Holzpavillon für ausreichend Schatten.",
+            "hu": "Ússzon a Koka strand kristálytiszta, türkizkék vizében, egy lélegzetelállító, sznorkelezésről híres kettős öbölben, és béreljen korán egy fakabint, hogy árnyékot biztosítson.",
+            "ro": "Înotați în apele turcoaz cristaline de la Koka beach, un golf dublu uluitor renumit pentru snorkeling, și închiriați devreme un foișor de lemn pentru a vă asigura puțină umbră.",
+            "en": "Swim in the crystal-clear turquoise waters of Koka beach, a breathtaking double bay renowned for snorkeling, and rent a basic wooden gazebo early to secure some much-needed shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Keli Muda",
+            "hu": "Keli Muda",
+            "ro": "Keli Muda",
+            "en": "Keli Muda"
+          },
+          "coords": [
+            122.010273,
+            -8.792658
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die dramatische Landschaft am Keli Muda, einem vulkanischen Hügel voller tropischer Wälder, wo Sie frühmorgens mit magischem Nebel über den Tälern belohnt werden.",
+            "hu": "Örökítse meg a Keli Muda drámai táját, egy sűrű trópusi erdőkkel borított ősi vulkáni dombot, ahol a kora reggeli látogatások varázslatos köddel jutalmazzák a völgyek felett.",
+            "ro": "Surprindeți peisajul dramatic de la Keli Muda, un deal vulcanic antic acoperit de păduri tropicale dense, unde vizitele dimineața devreme vă răsplătesc cu o ceață magică rară.",
+            "en": "Capture the dramatic scenery at Keli Muda, an ancient volcanic hill covered in dense tropical forests, where early morning visits reward you with a magical mist over the valleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine umfassende Fahrt, beginnend bei der ikonischen Christusstatue mit unschlagbarem Morgenpanorama. Fahren Sie durch die üppigen Hügel und halten Sie am Keli Niranibe und Keli Lisabeto für Fotos. Verbringen Sie den Mittag damit, das raue Gelände des Ili Pelah und Ili Watumoda zu bestaunen, bevor Sie zur Küste aufbrechen. Entspannen Sie nachmittags an der Pantai Beta und am Koka Beach. Schließen Sie mit einer malerischen Fahrt in der Nähe des alten Keli Muda ab.",
+        "hu": "Induljon egy átfogó autós túrára, amely az ikonikus Jézus-szobornál kezdődik, verhetetlen reggeli panorámát kínálva. Vezessen simán a zöldellő dombokon át, megállva a Keli Niranibe és a Keli Lisabeto mellett. A delet az Ili Pelah és az Ili Watumoda zord terepén töltse, mielőtt a homokos partok felé venné az irányt. Délután lazítson a Pantai Beta és a Koka strand türkizkék vizénél. Zárja a napot egy festői autózással az ősi Keli Muda közelében, élvezve a páratlan természeti csodákat.",
+        "ro": "Porniți într-un tur cuprinzător cu mașina care începe la statuia iconică a lui Iisus, oferind panorame matinale imbatabile. Conduceți lin prin dealurile luxuriante, oprindu-vă la Keli Niranibe și Keli Lisabeto. Petreceți amiaza minunându-vă de terenurile accidentate ale Ili Pelah și Ili Watumoda înainte de a vă îndrepta spre țărm. Relaxați-vă după-amiaza la Pantai Beta și Koka beach cu apele lor turcoaz. Încheiați cu o plimbare pitorească în apropierea anticului deal Keli Muda.",
+        "en": "Embark on a comprehensive driving tour beginning at the iconic Big Jesus statue, offering unbeatable morning panoramas. Drive smoothly through the lush hills, stopping at Keli Niranibe and Keli Lisabeto for incredible photo opportunities. Spend midday marveling at the rugged terrains of Ili Pelah and Ili Watumoda before heading towards the sandy shores. Unwind in the afternoon at Pantai Beta and Koka beach with their turquoise waters. Conclude with a scenic drive near the ancient Keli Muda."
+      }
+    }
+  }
+}

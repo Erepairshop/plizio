@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-olesa-de-montserrat-cities-v2",
+  "anchor": {
+    "name": "Olesa de Montserrat",
+    "coords": [
+      1.89407,
+      41.54372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 3.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "El Casal",
+            "hu": "El Casal",
+            "ro": "El Casal",
+            "en": "El Casal"
+          },
+          "coords": [
+            1.893893,
+            41.540608
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses kulturellen Zentrums und holen Sie sich einen Kaffee im lokalen Café, um den Gemeinschaftsgeist zu spüren.",
+            "hu": "Csodálja meg ennek a kulturális központnak a gyönyörű építészetét, és igyon egy kávét a helyi kávézóban, hogy átélje a közösségi szellemet.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru cultural și savurați o cafea la cafeneaua locală pentru a simți spiritul vibrant al comunității.",
+            "en": "Admire the beautiful architecture of this cultural hub, and grab a coffee at the local café to feel the vibrant community spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Teatre de la Passió d'Olesa",
+            "hu": "Gran Teatre de la Passió d'Olesa",
+            "ro": "Gran Teatre de la Passió d'Olesa",
+            "en": "Gran Teatre de la Passió d'Olesa"
+          },
+          "coords": [
+            1.894695,
+            41.542583
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die riesige Bühne dieses legendären Theaters; buchen Sie in der Frühlingssaison Ihre Tickets rechtzeitig im Voraus.",
+            "hu": "Fedezze fel e legendás színház hatalmas színpadát; a tavaszi szezonban érdemes jó előre jegyet foglalni a híres passiójátékokra.",
+            "ro": "Descoperiți scena masivă a acestui teatru iconic; rezervați bilete din timp în timpul sezonului de primăvară pentru spectacolele de patimi.",
+            "en": "Discover the massive stage of this iconic theater famous for its passion plays; book tickets well in advance during the spring season."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockensteinhütte (Typ Olesa)",
+            "hu": "Szárazkő kunyhó (Olesa típus)",
+            "ro": "Colibă din piatră seacă (tipologia Olesa)",
+            "en": "Dry Stone Hut (Olesa Typology)"
+          },
+          "coords": [
+            1.895758,
+            41.55538
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Trockensteinbauweise der Bauern; tragen Sie festes Schuhwerk, da die umliegenden Wege uneben sein können.",
+            "hu": "Vizsgálja meg a helyi gazdák által használt hagyományos szárazkő építkezést; viseljen masszív cipőt, mivel az utak egyenetlenek lehetnek.",
+            "ro": "Examinați construcția tradițională din piatră seacă folosită de fermierii locali; purtați încălțăminte robustă, deoarece potecile pot fi denivelate.",
+            "en": "Examine the traditional dry stone construction used by local farmers; wear sturdy shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Font del Frare Pau",
+            "hu": "Font del Frare Pau",
+            "ro": "Font del Frare Pau",
+            "en": "Font del Frare Pau"
+          },
+          "coords": [
+            1.88649,
+            41.557611
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser historischen natürlichen Quelle im Grünen und bringen Sie eine leere Flasche für das erfrischende Wasser mit.",
+            "hu": "Pihenjen meg a zöldben megbúvó történelmi természetes forrásnál, és hozzon egy üres üveget, hogy megtöltse a frissítő helyi vízzel.",
+            "ro": "Relaxați-vă la acest izvor natural istoric situat în verdeață și aduceți o sticlă goală pentru a o umple cu apa locală răcoroasă.",
+            "en": "Relax by this historic natural spring nestled in the greenery, and bring an empty bottle to fill with the cool, refreshing local water."
+          }
+        },
+        {
+          "name": {
+            "de": "Font dels Encantats",
+            "hu": "Font dels Encantats",
+            "ro": "Font dels Encantats",
+            "en": "Font dels Encantats"
+          },
+          "coords": [
+            1.899627,
+            41.558226
+          ],
+          "category": "landmark",
+          "arrive_at": "15:11",
+          "stay_min": 55,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an dieser verwunschenen Quelle; der perfekte Ort für ein ruhiges abendliches Picknick in der Natur.",
+            "hu": "Élvezze a békés hangulatot ennél az elvarázsolt forrásnál; tökéletes hely egy csendes esti piknikhez, mielőtt visszatérne a városba.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest izvor fermecat; este locul perfect pentru un picnic liniștit seara, înainte de întoarcere.",
+            "en": "Enjoy the peaceful atmosphere at this enchanted spring; it's the perfect spot for a quiet evening picnic before heading back into town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Zentrum von Olesa, wo Sie das kulturelle Erbe im El Casal und das berühmte Gran Teatre bewundern können. Mittags geht es in die ländliche Umgebung, um die traditionellen Trockensteinmauer-Hütten zu entdecken. Der Nachmittag ist den natürlichen Quellen gewidmet, mit einer Rast an der Font del Frare Pau. Der Abend endet stimmungsvoll an der Font dels Encantats.",
+        "hu": "A reggel Olesa központjában indul, az El Casal és a híres Gran Teatre de la Passió kulturális örökségének megcsodálásával. Délben a vidékies külváros felé vesszük az irányt, felfedezve a hagyományos szárazkő kunyhókat. A délutánt a természetes forrásoknál töltjük, megpihenve a békés Font del Frare Pau mellett. Az estét a varázslatos Font dels Encantats környékén zárjuk.",
+        "ro": "Dimineața începe în centrul localității Olesa, admirând patrimoniul cultural de la El Casal și faimosul Gran Teatre. La prânz, tranziția se face spre periferia rustică, descoperind colibele tradiționale din piatră seacă. După-amiaza este dedicată izvoarelor naturale, cu un popas la liniștitul Font del Frare Pau. Seara se încheie la fermecătorul izvor Font dels Encantats.",
+        "en": "Morning starts in Olesa's center, admiring the rich cultural heritage at El Casal and the renowned Gran Teatre de la Passió. Midday transitions towards the rustic outskirts, discovering the traditional dry stone huts that mark the landscape. Afternoon is spent enjoying the natural springs, resting by the peaceful Font del Frare Pau. Evening concludes at the enchanting Font dels Encantats."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gran Teatre de la Passió d'Olesa",
+            "hu": "Gran Teatre de la Passió d'Olesa",
+            "ro": "Gran Teatre de la Passió d'Olesa",
+            "en": "Gran Teatre de la Passió d'Olesa"
+          },
+          "coords": [
+            1.894695,
+            41.542583
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die riesige Bühne dieses legendären Theaters; buchen Sie in der Frühlingssaison Ihre Tickets rechtzeitig im Voraus.",
+            "hu": "Fedezze fel e legendás színház hatalmas színpadát; a tavaszi szezonban érdemes jó előre jegyet foglalni a híres passiójátékokra.",
+            "ro": "Descoperiți scena masivă a acestui teatru iconic; rezervați bilete din timp în timpul sezonului de primăvară pentru spectacolele de patimi.",
+            "en": "Discover the massive stage of this iconic theater famous for its passion plays; book tickets well in advance during the spring season."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Eulàlia",
+            "hu": "Santa Eulàlia",
+            "ro": "Santa Eulàlia",
+            "en": "Santa Eulàlia"
+          },
+          "coords": [
+            1.868761,
+            41.541093
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese prächtige Kirche in Esparreguera; kommen Sie am besten zum Sonnenuntergang, um den Glockenturm im goldenen Licht zu sehen.",
+            "hu": "Látogassa meg ezt a csodálatos templomot Esparreguerában; időzítse látogatását naplementére, amikor a harangtorony aranyfényben ragyog.",
+            "ro": "Vizitați această biserică magnifică din Esparreguera; încercați să sosiți la apus pentru a vedea turnul clopotniței strălucind în lumina aurie.",
+            "en": "Visit this magnificent church towering over Esparreguera; try to time your visit for sunset to see the bell tower glowing in the golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Esparraguera",
+            "hu": "Esparraguera Városháza",
+            "ro": "Primăria din Esparraguera",
+            "en": "Ajuntament d'Esparraguera"
+          },
+          "coords": [
+            1.870717,
+            41.539027
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante Fassade des Rathauses am Hauptplatz, ein großartiger Treffpunkt, um die lokalen Geschäfte zu erkunden.",
+            "hu": "Figyelje meg a főteret uraló városháza elegáns homlokzatát, amely nagyszerű találkozási pont a helyi üzletek felfedezéséhez.",
+            "ro": "Observați fațada elegantă a primăriei ce domină piața principală, un punct de întâlnire excelent pentru a explora magazinele locale.",
+            "en": "Note the elegant facade of the town hall dominating the main square, a great meeting point to start your exploration of the local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre la Passió d'Esparreguera",
+            "hu": "Teatre la Passió d'Esparreguera",
+            "ro": "Teatre la Passió d'Esparreguera",
+            "en": "Teatre la Passió d'Esparreguera"
+          },
+          "coords": [
+            1.872439,
+            41.534678
+          ],
+          "category": "cultural",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz der Stadt in diesem großen Theater; informieren Sie sich über Backstage-Touren, um die Technik zu sehen.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a nagyszerű színházban; keressen kulisszajáró túrákat, hogy lássa a lenyűgöző technikát.",
+            "ro": "Experimentați pulsul cultural al orașului la acest teatru grandios; verificați programul pentru tururi în culise pentru a vedea mecanismele.",
+            "en": "Experience the cultural heartbeat of the town at this grand theater; check the schedule for back-stage tours to see the impressive mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Esparreguera",
+            "hu": "Castell d'Esparreguera",
+            "ro": "Castell d'Esparreguera",
+            "en": "Castell d'Esparreguera"
+          },
+          "coords": [
+            1.870451,
+            41.549821
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser mittelalterlichen Burg mit Panoramablick; der Aufstieg ist steil, also lassen Sie sich Zeit.",
+            "hu": "Fedezze fel e középkori vár ősi romjait, ahonnan panorámás kilátás nyílik; a hegyre vezető séta meredek, ezért haladjon lassan.",
+            "ro": "Explorați rămășițele antice ale acestui castel medieval ce oferă vederi panoramice; urcarea este abruptă, așa că acordați-vă timp.",
+            "en": "Explore the ancient remains of this medieval castle offering panoramic views; the uphill walk is steep, so take your time and stay hydrated."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria del Puig",
+            "hu": "Església de Santa Maria del Puig",
+            "ro": "Església de Santa Maria del Puig",
+            "en": "Església de Santa Maria del Puig"
+          },
+          "coords": [
+            1.869517,
+            41.551334
+          ],
+          "category": "landmark",
+          "arrive_at": "16:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Details dieser Kirche auf dem Hügel; die ruhige Umgebung ist ideal für stille Reflexion und Fotografie.",
+            "hu": "Csodálja meg e hegytetőn álló templom román kori részleteit; a csendes környezet ideális helyszín az elmélyüléshez és a fotózáshoz.",
+            "ro": "Admirați detaliile romanice ale acestei biserici de pe deal; împrejurimile liniștite o fac un loc ideal pentru reflecție și fotografie.",
+            "en": "Marvel at the Romanesque details of this hilltop church; the tranquil surroundings make it an ideal spot for quiet reflection and photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am beeindruckenden Theater von Olesa, bevor Sie nach Esparreguera radeln. Den Mittag verbringen Sie mit der Erkundung der Kirche Santa Eulàlia und des Rathauses im Zentrum. Nachmittags fahren Sie zum bemerkenswerten Teatre la Passió d'Esparreguera, das tief in der Tradition verwurzelt ist. Abends folgt der Aufstieg zur Burgruine und nach Santa Maria.",
+        "hu": "A reggelt Olesa lenyűgöző színházánál kezdjük, majd áttekerünk a folyón Esparreguerába. A delet a történelmi Santa Eulàlia templom és a nyüzsgő központban található Városháza felfedezésével töltjük. Délután a helyi hagyományokban gyökerező Teatre la Passió d'Esparreguera-hoz kerékpározunk. Az estét a várromok és a Santa Maria látványos megközelítése koronázza meg.",
+        "ro": "Începeți dimineața la impresionantul teatru din Olesa, apoi pedalați peste râu spre Esparreguera. Prânzul este dedicat explorării bisericii istorice Santa Eulàlia și a Primăriei din centrul animat. Plimbările de după-amiază vă poartă la remarcabilul Teatre la Passió d'Esparreguera. Seara aduce o urcare pitorească spre ruinele castelului și biserica Santa Maria.",
+        "en": "Kick off the morning at Olesa's impressive theater before pedaling across the river to Esparreguera. Midday is spent exploring the historic Santa Eulàlia church and the grand Town Hall in the bustling center. Afternoon rides take you to the remarkable Teatre la Passió d'Esparreguera, deeply rooted in local tradition. Evening brings a scenic climb to the castle ruins and Santa Maria."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Esparraguera",
+            "hu": "Esparraguera Városháza",
+            "ro": "Primăria din Esparraguera",
+            "en": "Ajuntament d'Esparraguera"
+          },
+          "coords": [
+            1.870717,
+            41.539027
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante Fassade des Rathauses am Hauptplatz, ein großartiger Treffpunkt, um die lokalen Geschäfte zu erkunden.",
+            "hu": "Figyelje meg a főteret uraló városháza elegáns homlokzatát, amely nagyszerű találkozási pont a helyi üzletek felfedezéséhez.",
+            "ro": "Observați fațada elegantă a primăriei ce domină piața principală, un punct de întâlnire excelent pentru a explora magazinele locale.",
+            "en": "Note the elegant facade of the town hall dominating the main square, a great meeting point to start your exploration of the local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Esparreguera",
+            "hu": "Castell d'Esparreguera",
+            "ro": "Castell d'Esparreguera",
+            "en": "Castell d'Esparreguera"
+          },
+          "coords": [
+            1.870451,
+            41.549821
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser mittelalterlichen Burg mit Panoramablick; der Aufstieg ist steil, also lassen Sie sich Zeit.",
+            "hu": "Fedezze fel e középkori vár ősi romjait, ahonnan panorámás kilátás nyílik; a hegyre vezető séta meredek, ezért haladjon lassan.",
+            "ro": "Explorați rămășițele antice ale acestui castel medieval ce oferă vederi panoramice; urcarea este abruptă, așa că acordați-vă timp.",
+            "en": "Explore the ancient remains of this medieval castle offering panoramic views; the uphill walk is steep, so take your time and stay hydrated."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Victorina",
+            "hu": "Santa Victorina",
+            "ro": "Santa Victorina",
+            "en": "Santa Victorina"
+          },
+          "coords": [
+            1.872067,
+            41.5505
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante religiöse Stätte ein, um ihre bescheidene Schönheit zu bewundern; respektieren Sie die Stille vor Ort.",
+            "hu": "Lépjen be ebbe a bájos, eldugott vallási emlékhelybe, és csodálja meg szerény szépségét; tartsa tiszteletben a csendet ezen az imahelyen.",
+            "ro": "Pășiți în acest lăcaș de cult fermecător pentru a-i admira frumusețea modestă; respectați liniștea, deoarece este un loc de rugăciune.",
+            "en": "Step inside this charming, secluded religious site to admire its modest beauty; respect the silence as it is a place of active prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockensteinhütte 21068",
+            "hu": "Szárazkő kunyhó 21068",
+            "ro": "Colibă din piatră seacă 21068",
+            "en": "Dry Stone Hut 21068"
+          },
+          "coords": [
+            1.896219,
+            41.559463
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese gut erhaltene Trockensteinhütte der Landwirtschaftsgeschichte; bleiben Sie auf den markierten Wegen.",
+            "hu": "Fotózza le ezt a kifogástalanul megőrzött, évszázados mezőgazdasági történelmet tükröző szárazkő kunyhót; maradjon a kijelölt ösvényeken.",
+            "ro": "Fotografiați această colibă din piatră seacă, perfect conservată; rămâneți pe traseele marcate pentru a proteja flora locală.",
+            "en": "Photograph this impeccably preserved dry stone hut that reflects centuries of farming history; stay on the marked trails to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockensteinhütte 13499",
+            "hu": "Szárazkő kunyhó 13499",
+            "ro": "Colibă din piatră seacă 13499",
+            "en": "Dry Stone Hut 13499"
+          },
+          "coords": [
+            1.895747,
+            41.561656
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige Kraggewölbe-Technik beim Dachbau; ein faszinierendes Beispiel für Volksarchitektur ganz ohne Mörtel.",
+            "hu": "Figyelje meg a tető építéséhez használt egyedi álboltozatos technikát; ez a habarcs nélküli népi építészet lenyűgöző példája.",
+            "ro": "Observați tehnica unică a bolții false folosită la construirea acoperișului; un exemplu fascinant de arhitectură vernaculară fără mortar.",
+            "en": "Notice the unique corbelled vaulting technique used to build the roof; it is a fascinating example of vernacular architecture without mortar."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockensteinhütte 19217",
+            "hu": "Szárazkő kunyhó 19217",
+            "ro": "Colibă din piatră seacă 19217",
+            "en": "Dry Stone Hut 19217"
+          },
+          "coords": [
+            1.892292,
+            41.562071
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser etwas größeren Struktur und stellen Sie sich vor, wie Hirten hier einst Schutz vor dem Regen suchten.",
+            "hu": "Zárja a szárazkő túrát ennél a valamivel nagyobb építménynél, és képzelje el, hogyan kerestek itt menedéket a pásztorok az eső elől.",
+            "ro": "Încheiați turul la această structură ușor mai mare, imaginându-vă cum păstorii se adăposteau odată aici de ploaia bruscă mediteraneană.",
+            "en": "Conclude your dry stone tour at this slightly larger structure, visualizing how shepherds once took shelter here from the sudden Mediterranean rain."
+          }
+        },
+        {
+          "name": {
+            "de": "El Casal",
+            "hu": "El Casal",
+            "ro": "El Casal",
+            "en": "El Casal"
+          },
+          "coords": [
+            1.893893,
+            41.540608
+          ],
+          "category": "cultural",
+          "arrive_at": "16:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses kulturellen Zentrums und holen Sie sich einen Kaffee im lokalen Café, um den Gemeinschaftsgeist zu spüren.",
+            "hu": "Csodálja meg ennek a kulturális központnak a gyönyörű építészetét, és igyon egy kávét a helyi kávézóban, hogy átélje a közösségi szellemet.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru cultural și savurați o cafea la cafeneaua locală pentru a simți spiritul vibrant al comunității.",
+            "en": "Admire the beautiful architecture of this cultural hub, and grab a coffee at the local café to feel the vibrant community spirit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der historischen Architektur des Rathauses von Esparreguera und den nahegelegenen Burgruinen. Mittags besuchen Sie die friedliche Santa Victorina, bevor Sie in die Natur fahren, um alte Trockensteinhütten zu finden. Der Nachmittag ist eine Fahrt zu diesen einzigartigen landwirtschaftlichen Bauten. Abends kehren Sie nach Olesa zurück, um im El Casal zu entspannen.",
+        "hu": "A reggel Esparreguera Városházájának történelmi építészetével és a közeli várromokkal indul. Délben a békés Santa Victorina felé vesszük az irányt, mielőtt a természetbe hajtanánk a régi szárazkő kunyhókhoz. A délután ezen egyedülálló mezőgazdasági építmények autós felfedezésével telik. Este visszatérünk Olesába, hogy a pezsgő El Casalban pihenjük ki a napot.",
+        "ro": "Dimineața începe cu arhitectura istorică a Primăriei din Esparreguera și ruinele castelului. La prânz vizitați liniștita Santa Victorina, înainte de a conduce în natură pentru a găsi colibe antice din piatră seacă. După-amiaza este un tur cu mașina al acestor structuri agricole unice. Seara vă întoarceți în Olesa pentru a vă relaxa și a vă bucura de vibrantul El Casal.",
+        "en": "Morning begins with the historic architecture of Esparreguera's Town Hall and the nearby castle remains. Midday takes you to the serene Santa Victorina before driving into the natural landscape to find ancient dry stone huts. Afternoon is a driving tour of these unique agricultural structures, stepping back in time. Evening returns to Olesa to relax and enjoy the vibrant El Casal."
+      }
+    }
+  }
+}

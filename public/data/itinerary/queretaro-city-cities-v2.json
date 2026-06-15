@@ -1,0 +1,474 @@
+{
+  "city_id": "queretaro-city-cities-v2",
+  "anchor": {
+    "name": "Santiago de Querétaro",
+    "coords": [
+      -100.3899,
+      20.5888
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:55",
+      "total_km": 1.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardín Zenea",
+            "hu": "Jardín Zenea",
+            "ro": "Jardín Zenea",
+            "en": "Jardín Zenea"
+          },
+          "coords": [
+            -100.392116,
+            20.593022
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dem verzierten Eisenbrunnen auf diesem historischen Platz, dem pulsierenden Herzen von Querétaro, und sichern Sie sich früh eine Bank, um der prallen Sonne zu entgehen.",
+            "hu": "Pihenjen meg a díszes vaskút mellett ezen a történelmi téren, amely Querétaro dobogó szíve, és foglaljon egy padot korán, hogy elkerülje a déli hőséget.",
+            "ro": "Relaxați-vă lângă fântâna de fier ornamentată din această piață istorică, inima pulsantă a orașului Querétaro, și ocupați o bancă devreme pentru a evita soarele intens.",
+            "en": "Relax by the ornate iron fountain in this historic square, the beating heart of Querétaro, and grab a bench early to avoid the intense midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Querétaro",
+            "hu": "Querétaro Regionális Múzeuma",
+            "ro": "Muzeul Regional din Querétaro",
+            "en": "Museo Regional de Querétaro"
+          },
+          "coords": [
+            -100.391102,
+            20.592443
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähispanische Artefakte und Kolonialgeschichte in diesem prächtigen ehemaligen Franziskanerkloster und vergessen Sie nicht, den atemberaubenden Kreuzgang zu bewundern.",
+            "hu": "Fedezze fel a prehispán műkincseket és a gyarmati történelmet ebben a csodálatos egykori ferences kolostorban, és feltétlenül csodálja meg a lenyűgöző központi kerengőt.",
+            "ro": "Descoperiți artefacte prehispanice și istoria colonială în interiorul acestei magnifice foste mănăstiri franciscane, asigurându-vă că admirați uimitorul claustru central.",
+            "en": "Discover pre-Hispanic artifacts and colonial history inside this magnificent former Franciscan convent, making sure to admire the stunning central cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Galería Libertad",
+            "hu": "Galería Libertad",
+            "ro": "Galeria Libertad",
+            "en": "Galería Libertad"
+          },
+          "coords": [
+            -100.389874,
+            20.592506
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie hochmoderne zeitgenössische mexikanische Kunst in dieser dynamischen Galerie mit Blick auf den Hauptplatz, beachten Sie jedoch das ideale Licht am Vormittag.",
+            "hu": "Fedezze fel az élvonalbeli kortárs mexikói művészetet ebben a főtérre néző dinamikus galériában, de vegye figyelembe, hogy a természetes fény a déli órákban a legjobb.",
+            "ro": "Explorați arta contemporană mexicană de avangardă în această galerie dinamică cu vedere la piața principală, însă rețineți că cea mai bună lumină naturală este dimineața.",
+            "en": "Explore cutting-edge contemporary Mexican art in this dynamic gallery overlooking the main square, but note that the best natural lighting for viewing is earlier in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte Sacro",
+            "hu": "Szakrális Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museo de Arte Sacro"
+          },
+          "coords": [
+            -100.393866,
+            20.592446
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie exquisite religiöse Gemälde und Skulpturen, die das spirituelle Erbe der Region darstellen, und achten Sie auf die aufwendigen Holzarbeiten der Originalaltäre.",
+            "hu": "Vizsgálja meg a régió spirituális örökségét bemutató gyönyörű vallási festményeket és szobrokat, és vegye alaposan szemügyre az eredeti oltárképek bonyolult famunkáit.",
+            "ro": "Examinați picturile și sculpturile religioase deosebite care detaliază moștenirea spirituală a regiunii și priviți cu atenție prelucrarea complexă a lemnului de pe altare.",
+            "en": "Examine exquisite religious paintings and sculptures detailing the region's spiritual heritage, and look closely at the intricate woodwork on the original altarpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte",
+            "hu": "Művészeti Múzeum",
+            "ro": "Muzeul de Artă",
+            "en": "Museo de Arte"
+          },
+          "coords": [
+            -100.393458,
+            20.590963
+          ],
+          "category": "museum",
+          "arrive_at": "15:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die opulente Barockarchitektur und die umfangreichen Kunstsammlungen in diesem ehemaligen Kloster und halten Sie Ihre Kamera für die atemberaubenden Bögen bereit.",
+            "hu": "Csodálja meg az egykori kolostorban található pazar barokk építészetet és a kiterjedt szépművészeti gyűjteményeket, és készítse elő gépét a lélegzetelállító boltívekhez.",
+            "ro": "Minunați-vă de arhitectura barocă opulentă și de colecțiile de artă găzduite în această fostă mănăstire, păstrând aparatul foto pregătit pentru arcadele uimitoare ale curții.",
+            "en": "Marvel at the opulent Baroque architecture and extensive fine art collections housed within this former monastery, keeping your camera ready for the breathtaking courtyard arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Querétaro",
+            "hu": "Querétaro Katedrálisa",
+            "ro": "Catedrala din Querétaro",
+            "en": "Catedral de Querétaro"
+          },
+          "coords": [
+            -100.39659,
+            20.5913
+          ],
+          "category": "religious",
+          "arrive_at": "17:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Würdigen Sie den Übergang vom barocken zum neoklassizistischen Stil in diesem wichtigen religiösen Zentrum und achten Sie auf das wunderschön geschnitzte Chorgestühl am Hauptaltar.",
+            "hu": "Értékelje a barokktól a neoklasszikus stílusig tartó átmenetet ebben a fontos vallási központban, és keresse meg a gyönyörűen faragott fa kóruspadokat a főoltár közelében.",
+            "ro": "Apreciați tranziția de la stilul baroc la cel neoclasic în acest important centru religios și căutați stranele corului din lemn frumos sculptat de lângă altarul principal.",
+            "en": "Appreciate the transition from Baroque to Neoclassical styles in this important religious center, and look for the beautifully carved wooden choir stalls near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Rosa de Viterbo",
+            "hu": "Santa Rosa de Viterbo",
+            "ro": "Santa Rosa de Viterbo",
+            "en": "Santa Rosa de Viterbo"
+          },
+          "coords": [
+            -100.396585,
+            20.588051
+          ],
+          "category": "religious",
+          "arrive_at": "18:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den extravagant vergoldeten Altären in diesem Meisterwerk des mexikanischen Barocks blenden und besuchen Sie es spät, wenn das goldene Interieur leuchtet.",
+            "hu": "Készüljön fel, hogy elvakítják e remekmű extravagánsan aranyozott oltárképei, és látogasson el a nap végén, amikor a lemenő nap megvilágítja az arany belső tereket.",
+            "ro": "Pregătiți-vă să fiți uimiți de altarele aurite extravagant din interiorul acestei capodopere a barocului, dar vizitați-o târziu când soarele apus iluminează interioarele.",
+            "en": "Prepare to be dazzled by the extravagantly gilded altarpieces inside this masterpiece of Mexican Baroque, visiting late in the day when the fading sun illuminates the gold."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der historischen Atmosphäre des üppigen Jardín Zenea, der beliebten zentralen Plaza von Querétaro.\nBis zum Mittag tauchen Sie in die tiefe koloniale Vergangenheit und die lebendigen zeitgenössischen Künste der majestätischen Museen in der Nähe ein.\nAm Nachmittag bewundern Sie die sakrale Kunst und die neoklassizistische Fassade der beeindruckenden Catedral.\nIhr Abend gipfelt in Santa Rosa de Viterbo, wo die dramatischen mexikanischen Barockinterieurs ein unvergessliches goldenes Finale schaffen.",
+        "hu": "Kezdje a napot a buja Jardín Zenea, Querétaro szeretett központi terének történelmi hangulatában.\nDélre a mély gyarmati múltban és a fenséges közeli múzeumokban szétszórt, élénk kortárs művészetekben találja magát.\nDélután csodálja meg az impozáns querétarói katedrális szakrális művészetét és nagyszerű neoklasszikus homlokzatát.\nAz este a Santa Rosa de Viterboban csúcsosodik ki, ahol a drámai mexikói barokk belső terek felejthetetlen arany befejezést nyújtanak.",
+        "ro": "Începeți-vă ziua respirând atmosfera istorică din luxuriantul Jardín Zenea, iubitului loc central al orașului Querétaro.\nPână la amiază, vă veți trezi cufundat în trecutul colonial profund și în artele contemporane vibrante din muzeele majestuoase din apropiere.\nPe măsură ce după-amiaza se desfășoară, minunați-vă de arta sacră și fațada neoclasică grandioasă a impunătoarei Catedrale.\nSeara dumneavoastră culminează la Santa Rosa de Viterbo, unde interioarele dramatice ale barocului mexican creează un final auriu de neuitat.",
+        "en": "Begin your day breathing in the historic atmosphere of the lush Jardín Zenea, Querétaro’s beloved central plaza.\nBy midday, you will find yourself immersed in the deep colonial past and vibrant contemporary arts spread across the majestic nearby museums.\nAs the afternoon unfolds, marvel at the sacred art and the grand neoclassical facade of the imposing Catedral de Querétaro.\nYour evening culminates at Santa Rosa de Viterbo, where the dramatic Mexican Baroque interiors create an unforgettable golden finale."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antigua Estación del Ferrocarril",
+            "hu": "Régi Vasútállomás",
+            "ro": "Vechea Gară de Tren",
+            "en": "Centro Cultural Antigua Estación del Ferrocarril"
+          },
+          "coords": [
+            -100.396818,
+            20.601228
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem steinernen Bahnhof in das goldene Zeitalter der Eisenbahn ein und prüfen Sie den Plan für kostenlose kulturelle Veranstaltungen in der Wartehalle.",
+            "hu": "Lépjen vissza a vasúti utazás aranykorába ebben a kőpályaudvarban, és ellenőrizze a gyakran a fő váróteremben tartott ingyenes kulturális események menetrendjét.",
+            "ro": "Întoarceți-vă în epoca de aur a călătoriilor feroviare în această gară și verificați programul pentru evenimentele culturale gratuite organizate în sala principală.",
+            "en": "Step back into the golden age of rail travel at this beautifully restored stone train station, and check the schedule for free cultural events often held in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "Museo de la Ciudad"
+          },
+          "coords": [
+            -100.395785,
+            20.593023
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch moderne Ausstellungen in einem historischen Kolonialgebäude und nehmen Sie sich Zeit, um den ruhigen Garten im Innenhof zu genießen.",
+            "hu": "Sétáljon végig a modern kiállítások során egy történelmi gyarmati épületben, és hagyjon extra időt, hogy távozás előtt élvezze a nyugodt udvari kertet.",
+            "ro": "Plimbați-vă printr-o gamă de expoziții moderne în interiorul unei clădiri coloniale istorice, lăsând timp suplimentar pentru a vă bucura de curtea liniștită a grădinii.",
+            "en": "Wander through a diverse array of modern exhibitions inside a historically significant colonial building, leaving extra time to enjoy the tranquil garden courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Querétaro",
+            "hu": "Querétaro Katedrálisa",
+            "ro": "Catedrala din Querétaro",
+            "en": "Catedral de Querétaro"
+          },
+          "coords": [
+            -100.39659,
+            20.5913
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Würdigen Sie den Übergang vom barocken zum neoklassizistischen Stil in diesem wichtigen religiösen Zentrum und achten Sie auf das wunderschön geschnitzte Chorgestühl.",
+            "hu": "Értékelje a barokktól a neoklasszikus stílusig tartó átmenetet ebben a fontos vallási központban, és keresse meg a gyönyörűen faragott fa kóruspadokat a főoltárnál.",
+            "ro": "Apreciați tranziția de la stilul baroc la cel neoclasic în acest important centru religios și căutați stranele corului din lemn frumos sculptat de lângă altar.",
+            "en": "Appreciate the transition from Baroque to Neoclassical styles in this important religious center, and look for the beautifully carved wooden choir stalls near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Calendario",
+            "hu": "Naptármúzeum",
+            "ro": "Muzeul Calendarului",
+            "en": "Museo de Calendario"
+          },
+          "coords": [
+            -100.395568,
+            20.591153
+          ],
+          "category": "museum",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung der Zeitmessung und der mexikanischen Kalenderkunst und verpassen Sie nicht die Dachterrasse für einen Panoramablick.",
+            "hu": "Fedezze fel az időmérés és a mexikói naptárművészet lenyűgöző fejlődését, és ne hagyja ki a tetőteraszt sem, ahonnan ragyogó panoráma nyílik a belvárosra.",
+            "ro": "Descoperiți evoluția fascinantă a măsurării timpului și a artei calendaristice mexicane și nu ratați terasa de pe acoperiș pentru o vedere panoramică a orașului.",
+            "en": "Discover the fascinating evolution of timekeeping and Mexican calendar art in this unique museum, and don't miss the rooftop terrace for a brilliant panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Rosa de Viterbo",
+            "hu": "Santa Rosa de Viterbo",
+            "ro": "Santa Rosa de Viterbo",
+            "en": "Santa Rosa de Viterbo"
+          },
+          "coords": [
+            -100.396585,
+            20.588051
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den vergoldeten Altären in diesem Meisterwerk des Barocks blenden, wenn die tiefe Nachmittagssonne das goldene Interieur erhellt.",
+            "hu": "Készüljön fel, hogy elvakítják a mexikói barokk e remekművének aranyozott oltárképei, amikor a késő délutáni nap megvilágítja az arany belső tereket.",
+            "ro": "Pregătiți-vă să fiți uimiți de altarele aurite din interiorul acestei capodopere a barocului, când soarele de după-amiază târziu iluminează interioarele aurii.",
+            "en": "Prepare to be dazzled by the extravagantly gilded altarpieces inside this masterpiece of Mexican Baroque as the late afternoon sun illuminates the golden interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fuente de los Balones",
+            "hu": "La Fuente de los Balones",
+            "ro": "Fântâna cu Baloane",
+            "en": "La Fuente de los Balones"
+          },
+          "coords": [
+            -100.382093,
+            20.57714
+          ],
+          "category": "historical",
+          "arrive_at": "16:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Brunnen mit seinen kugelförmigen Steinverzierungen und bringen Sie Wasser mit, da es um dieses Denkmal herum kaum Schatten gibt.",
+            "hu": "Csodálja meg ezt a labdákra emlékeztető kőgömbökkel díszített történelmi szökőkutat, és vigyen magával vizet, mivel e műemlék körül nagyon kevés az árnyék.",
+            "ro": "Admirați această fântână istorică ciudată împodobită cu sfere de piatră și aduceți o sticlă de apă, deoarece există foarte puțină umbră în jurul acestui monument.",
+            "en": "Admire this peculiar historical fountain adorned with stone spheres that resemble balls, bringing a bottle of water since there is very little shade around the monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer reibungslosen Fahrt zum wunderschön erhaltenen Bahnhof, einer nostalgischen Verbeugung vor dem goldenen Zeitalter des Reisens.\nMittags radeln Sie zurück in Richtung Stadtzentrum, um moderne Kunstausstellungen und die Pracht der Kathedrale zu erkunden.\nDer Nachmittag bietet eine faszinierende Reise durch die Zeit im Kalendermuseum, bevor Sie spektakuläre Barockarchitektur bewundern.\nBeenden Sie Ihre Fahrt mit einem Ausflug zum ruhigen historischen Brunnen und genießen Sie die angenehme Abendbrise in den Straßen.",
+        "hu": "Kezdje a reggelt egy sima tekeréssel a gyönyörűen megőrzött pályaudvarra, amely nosztalgikus biccentés az utazás aranykora felé.\nDélben térjen vissza a városközpontba, hogy felfedezze a lenyűgöző modern művészeti kiállításokat és a főkatedrális nagyszerűségét.\nA délután lenyűgöző időutazást kínál a naptármúzeumban, mielőtt megcsodálna még egy látványos barokk építészetet.\nZárja a túrát azzal, hogy elkerekezik a csendes történelmi szökőkúthoz, élvezve a kellemes esti szellőt a város utcáin.",
+        "ro": "Începeți-vă dimineața cu o plimbare lină către gara frumos conservată, un semn nostalgic la epoca de aur a călătoriilor.\nAmiaza vă aduce înapoi spre centrul orașului pentru a explora expoziții uimitoare de artă modernă și grandoarea catedralei.\nDupă-amiaza oferă o călătorie fascinantă prin timp la muzeul calendarului înainte de a admira arhitectura barocă spectaculoasă.\nÎncheiați-vă plimbarea pedalând până la fântâna istorică liniștită, bucurându-vă de briza plăcută de seară pe străzile orașului.",
+        "en": "Start your morning with a smooth ride to the beautifully preserved railway station, a nostalgic nod to the golden age of travel.\nMidday brings you back towards the city center to explore striking modern art exhibits and the grandeur of the main cathedral.\nThe afternoon offers a fascinating journey through time at the calendar museum before admiring more spectacular Baroque architecture.\nConclude your ride by pedaling out to the quiet historic fountain, enjoying the pleasant evening breeze along the city streets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 12.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "El Cimatario",
+            "hu": "El Cimatario",
+            "ro": "El Cimatario",
+            "en": "El Cimatario"
+          },
+          "coords": [
+            -100.360711,
+            20.529366
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den rauen Pfaden dieses erloschenen Vulkans, um die heimische Flora zu erleben, aber tragen Sie feste Wanderschuhe für die steinigen Wege.",
+            "hu": "Túrázzon ezen a nemzeti parkká nyilvánított vulkánon az őshonos növényvilág megismeréséhez, de mindenképpen viseljen masszív túrabakancsot a sziklás ösvények miatt.",
+            "ro": "Drumeție pe traseele accidentate ale acestui vulcan stins pentru flora nativă, și purtați bocanci solizi de munte, deoarece cărările pot fi destul de stâncoase.",
+            "en": "Hike through the rugged trails of this extinct volcano turned national park to experience native flora, but wear sturdy hiking boots as the paths can be very rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Andrés Balvanera Martínez",
+            "hu": "Andrés Balvanera Martínez Emlékmű",
+            "ro": "Monumentul Andrés Balvanera Martínez",
+            "en": "Monumento a Andrés Balvanera Martínez"
+          },
+          "coords": [
+            -100.38455,
+            20.574876
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem historischen Denkmal für eine regionale Persönlichkeit Ihren Respekt und lesen Sie die Tafeln, die seine Beiträge detailliert beschreiben.",
+            "hu": "Rója le tiszteletét ennél a történelmi emlékműnél, és szánjon egy rövid pillanatot a táblák elolvasására, amelyek részletezik a régióhoz való hozzájárulását.",
+            "ro": "Prezentați-vă respectul la acest monument istoric dedicat unei personalități regionale, luând un moment pentru a citi plăcile care detaliază contribuțiile sale.",
+            "en": "Pay your respects at this local historical monument dedicated to a notable regional figure, taking a brief moment to read the inscribed plaques detailing his contributions."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla a Maximiliano",
+            "hu": "Miksa-kápolna",
+            "ro": "Capela lui Maximilian",
+            "en": "Capilla a Maximiliano"
+          },
+          "coords": [
+            -100.409575,
+            20.593114
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo Kaiser Maximilian 1867 hingerichtet wurde, und reflektieren Sie über die turbulente Geschichte, während Sie die Hügelumgebung genießen.",
+            "hu": "Álljon pontosan ott, ahol Miksa császárt 1867-ben kivégezték, és gondolkodjon el a viharos történelmen, miközben élvezi a domb meglepően békés környezetét.",
+            "ro": "Stați exact acolo unde a fost executat împăratul Maximilian în 1867, reflectând la istoria turbulentă în timp ce vă bucurați de împrejurimile senine ale dealului.",
+            "en": "Stand exactly where Emperor Maximilian was executed in 1867 at this small memorial, reflecting on Mexico's turbulent history while enjoying the serene hill surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Estación del Ferrocarril",
+            "hu": "Régi Vasútállomás",
+            "ro": "Vechea Gară de Tren",
+            "en": "Centro Cultural Antigua Estación del Ferrocarril"
+          },
+          "coords": [
+            -100.396818,
+            20.601228
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem steinernen Bahnhof in das goldene Zeitalter der Eisenbahn ein und prüfen Sie den Plan für kulturelle Veranstaltungen in der Wartehalle.",
+            "hu": "Lépjen vissza a vasúti utazás aranykorába ebben a felújított kőpályaudvarban, és ellenőrizze a gyakran a fő váróteremben tartott ingyenes kulturális eseményeket.",
+            "ro": "Întoarceți-vă în epoca de aur a călătoriilor feroviare în această gară și verificați programul pentru evenimentele culturale organizate în sala principală.",
+            "en": "Step back into the golden age of rail travel at this restored stone train station, and check the schedule for free cultural events often held in the main waiting hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Querétaro",
+            "hu": "Querétaro Regionális Múzeuma",
+            "ro": "Muzeul Regional din Querétaro",
+            "en": "Museo Regional de Querétaro"
+          },
+          "coords": [
+            -100.391102,
+            20.592443
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähispanische Artefakte und Kolonialgeschichte in diesem ehemaligen Franziskanerkloster und vergessen Sie nicht, den Kreuzgang zu bewundern.",
+            "hu": "Fedezze fel a prehispán műkincseket és a gyarmati történelmet ebben a csodálatos ferences kolostorban, és feltétlenül csodálja meg a lenyűgöző központi kerengőt.",
+            "ro": "Descoperiți artefacte prehispanice și istoria colonială în interiorul acestei foste mănăstiri franciscane, asigurându-vă că admirați uimitorul claustru central.",
+            "en": "Discover pre-Hispanic artifacts and colonial history inside this magnificent former Franciscan convent, making sure to admire the stunning central cloister."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den rauen Hängen des El Cimatario und genießen Sie die Naturlandschaften und die frische Morgenluft des alten Vulkans.\nMittags führt Sie Ihr Roadtrip zu historischen Denkmälern und zu genau dem Hügel, auf dem Kaiser Maximilian sein tragisches Schicksal ereilte.\nAm Nachmittag kehren Sie in den städtischen Kern zurück und parken am alten Bahnhof, um dessen kulturelle Angebote zu erkunden.\nSchließen Sie Ihre Reise im historischen Zentrum am riesigen Regionalmuseum ab und tauchen Sie tief in die reiche regionale Geschichte ein.",
+        "hu": "Vezessen ki korán az El Cimatario zord lejtőire, élvezve az ősi vulkán természeti tájait és friss reggeli levegőjét.\nDélben az útja történelmi emlékművekhez és pontosan arra a dombra vezet, ahol Miksa császár a tragikus sorsára jutott.\nDélután visszatér a városi magba, a régi vasútállomás közelében parkolva, hogy felfedezze kulturális kínálatát.\nZárja az utazást a történelmi központban, a hatalmas regionális múzeumban, elmélyedve a helyi történelem gazdag szövetében.",
+        "ro": "Conduceți devreme către pantele accidentate ale El Cimatario, bucurându-vă de peisajele naturale și de aerul proaspăt de dimineață al vulcanului antic.\nPână la amiază, călătoria vă poartă către monumente istorice și chiar pe dealul unde împăratul Maximilian și-a găsit soarta tragică.\nDupă-amiaza, veți trece înapoi în nucleul urban, parcând lângă vechea gară pentru a-i explora ofertele culturale.\nÎncheiați-vă călătoria în centrul istoric, la masivul muzeu regional, aprofundând istoria bogată a zonei.",
+        "en": "Drive out early to the rugged slopes of El Cimatario, enjoying the natural landscapes and fresh morning air of the ancient volcano.\nBy midday, your road trip takes you to historical monuments and the very hill where Emperor Maximilian met his tragic fate.\nIn the afternoon, you will transition back to the urban core, parking near the old train station to explore its cultural offerings.\nWrap up your journey in the historic center at the massive regional museum, delving deep into the rich tapestry of local history."
+      }
+    }
+  }
+}

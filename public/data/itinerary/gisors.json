@@ -1,0 +1,451 @@
+{
+  "city_id": "gisors",
+  "anchor": {
+    "name": "Gisors",
+    "coords": [
+      1.7764,
+      49.2806
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 1.36,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Gisors (Rathaus)",
+            "hu": "Mairie de Gisors (Városháza)",
+            "ro": "Mairie de Gisors (Primăria)",
+            "en": "Mairie de Gisors (Town Hall)"
+          },
+          "coords": [
+            1.777806,
+            49.278932
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses, die den historischen Charme von Gisors einfängt, und beginnen Sie Ihren Spaziergang von diesem zentralen Platz aus.",
+            "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely tökéletesen tükrözi Gisors történelmi báját, és induljon el egy reggeli sétára a központi térről.",
+            "ro": "Admirați arhitectura superbă a primăriei locale, care surprinde perfect farmecul istoric al orașului Gisors, și începeți plimbarea matinală din piața sa centrală.",
+            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Gervais-Saint-Protais",
+            "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
+            "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
+            "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+          },
+          "coords": [
+            1.775726,
+            49.279319
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gotischen und Renaissance-Stile dieser Stiftskirche, aber kommen Sie frühzeitig, um die Menschenmassen zu meiden und die Glasfenster zu genießen.",
+            "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a lenyűgöző templomban, de érkezzen korán, hogy elkerülje a tömeget és élvezze az üvegablakokat.",
+            "ro": "Minunați-vă de amestecul de stiluri gotic și renascentist în această biserică impresionantă, dar asigurați-vă că ajungeți devreme pentru a admira vitraliile în liniște.",
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument Général de Blanmont",
+            "hu": "General de Blanmont Emlékmű",
+            "ro": "Monumentul Generalului de Blanmont",
+            "en": "General de Blanmont Monument"
+          },
+          "coords": [
+            1.772596,
+            49.280565
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses historischen Denkmals und nehmen Sie sich Zeit für die Gedenktafeln, die seine militärischen Beiträge detailliert beschreiben.",
+            "hu": "Fedezze fel e figyelemre méltó történelmi emlékműhöz fűződő lenyűgöző történetet, és szánjon egy percet az ő katonai érdemeit részletező környező emléktáblák elolvasására.",
+            "ro": "Descoperiți istoria fascinantă legată de acest monument istoric notabil și faceți-vă timp să citiți plăcile din jur care detaliază contribuțiile sale militare semnificative.",
+            "en": "Discover the fascinating history tied to this notable historical monument, and take a moment to read the surrounding plaques that detail his significant military contributions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Gisors",
+            "hu": "Château de Gisors",
+            "ro": "Château de Gisors",
+            "en": "Château de Gisors"
+          },
+          "coords": [
+            1.7745,
+            49.2808
+          ],
+          "category": "fortress",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
+            "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
+            "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leprosorium Saint-Lazare",
+            "hu": "Saint-Lazare Lepratelep",
+            "ro": "Leprozeria Saint-Lazare",
+            "en": "Saint-Lazare Leprosarium"
+          },
+          "coords": [
+            1.7636,
+            49.2796
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
+            "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der majestätischen Mairie, bevor Sie die beeindruckende Architektur der Collégiale bewundern. Die Mittagszeit lädt zu einem Spaziergang zum Denkmal des Generals de Blanmont ein. Der Nachmittag ist dem legendären Château de Gisors mit seinem Panoramablick von der alten Motte gewidmet. Der Abend bricht am geschichtsträchtigen Leprosorium Saint-Lazare entspannt an.",
+        "hu": "A reggel a fenséges Mairie-nél kezdődik, mielőtt megcsodálná a Collégiale lenyűgöző építészetét. A délidő egy sétára csábít de Blanmont tábornok emlékműve felé. A délutánt a legendás Château de Gisors-nak szentelik, ahonnan panorámás kilátás nyílik az ősi dombról. Az este a mélyen történelmi Saint-Lazare lepratelepnél köszönt ránk, lezárva a napot.",
+        "ro": "Dimineața începe la maiestuoasa Mairie, înainte de a admira arhitectura uimitoare a Collégiale. Amiaza vă invită la o plimbare spre monumentul generalului de Blanmont. După-amiaza este dedicată legendarului Château de Gisors, cu vedere panoramică de pe movila sa antică. Seara coboară la leprozeria istorică Saint-Lazare, încheind o zi de neuitat.",
+        "en": "Morning starts at the majestic Mairie, setting a historic tone before admiring the stunning architecture of the Collégiale. Midday invites a stroll towards the monument of General de Blanmont, connecting you to local military history. Afternoon is dedicated to the legendary Château de Gisors, with panoramic views from its ancient motte. Evening falls at the deeply historic Saint-Lazare Leprosarium."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 4.24,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Gisors (Rathaus)",
+            "hu": "Mairie de Gisors (Városháza)",
+            "ro": "Mairie de Gisors (Primăria)",
+            "en": "Mairie de Gisors (Town Hall)"
+          },
+          "coords": [
+            1.777806,
+            49.278932
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses, die den historischen Charme von Gisors einfängt, und beginnen Sie Ihren Spaziergang von diesem zentralen Platz aus.",
+            "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely tökéletesen tükrözi Gisors történelmi báját, és induljon el egy reggeli sétára a központi térről.",
+            "ro": "Admirați arhitectura superbă a primăriei locale, care surprinde perfect farmecul istoric al orașului Gisors, și începeți plimbarea matinală din piața sa centrală.",
+            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Gervais-Saint-Protais",
+            "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
+            "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
+            "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+          },
+          "coords": [
+            1.775726,
+            49.279319
+          ],
+          "category": "landmark",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gotischen und Renaissance-Stile dieser Stiftskirche, aber kommen Sie frühzeitig, um die Menschenmassen zu meiden und die Glasfenster zu genießen.",
+            "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a lenyűgöző templomban, de érkezzen korán, hogy elkerülje a tömeget és élvezze az üvegablakokat.",
+            "ro": "Minunați-vă de amestecul de stiluri gotic și renascentist în această biserică impresionantă, dar asigurați-vă că ajungeți devreme pentru a admira vitraliile în liniște.",
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Gisors",
+            "hu": "Château de Gisors",
+            "ro": "Château de Gisors",
+            "en": "Château de Gisors"
+          },
+          "coords": [
+            1.7745,
+            49.2808
+          ],
+          "category": "fortress",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
+            "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
+            "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leprosorium Saint-Lazare",
+            "hu": "Saint-Lazare Lepratelep",
+            "ro": "Leprozeria Saint-Lazare",
+            "en": "Saint-Lazare Leprosarium"
+          },
+          "coords": [
+            1.7636,
+            49.2796
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
+            "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme de Vaux",
+            "hu": "Ferme de Vaux",
+            "ro": "Ferme de Vaux",
+            "en": "Ferme de Vaux"
+          },
+          "coords": [
+            1.761167,
+            49.268705
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise auf diesem historischen Bauernhof mit erhaltener ländlicher Architektur, und vergessen Sie nicht, festes Schuhwerk für das rustikale Gelände zu tragen.",
+            "hu": "Lépjen vissza az időben ezen a történelmi birtokon, ahol megőrizték a hagyományos vidéki építészetet, és ne felejtsen el kényelmes cipőt húzni a rusztikus terület felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această fermă istorică unde se păstrează arhitectura rurală tradițională și nu uitați să purtați încălțăminte comodă pentru a explora terenul rustic.",
+            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Château",
+            "hu": "Chapelle du Château",
+            "ro": "Chapelle du Château",
+            "en": "Chapelle du Château"
+          },
+          "coords": [
+            1.780016,
+            49.257153
+          ],
+          "category": "religious",
+          "arrive_at": "15:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe in dieser kleinen, aber sehr historischen Kapelle in der Nähe des Schlosses, und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
+            "hu": "Keressen egy pillanatnyi nyugalmat e kicsi, de történelmi kápolnában a kastély területének közelében, és figyelje meg a főbejárat körüli bonyolult kőfaragásokat.",
+            "ro": "Căutați un moment de liniște în această capelă mică, dar cu o istorie profundă, lângă castel, și acordați atenție sculpturilor complicate în piatră din jurul intrării principale.",
+            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt führt Sie an der Mairie vorbei zur atemberaubenden Collégiale. Mittags erkunden Sie das beeindruckende Château de Gisors, ein mittelalterliches Juwel. Das Radeln am Nachmittag führt zum historischen Leprosorium Saint-Lazare und zur rustikalen Ferme de Vaux. Der Abend endet mit einem ruhigen Besuch der Chapelle du Château, während die Sonne untergeht.",
+        "hu": "Egy frissítő reggeli tekerés elvisz a Mairie mellett a lélegzetelállító Collégiale-ig. A délidő a félelmetes Château de Gisors, egy középkori gyöngyszem felfedezésével telik. A délutáni pedálozás a történelmi Saint-Lazare lepratelephez, majd a Ferme de Vaux-hoz vezet. Az este a Chapelle du Château nyugodt meglátogatásával zárul, ahogy a nap lenyugszik a táj felett.",
+        "ro": "O plimbare matinală vă duce pe lângă Mairie spre superba Collégiale, bucurându-vă de aerul curat. Amiaza implică explorarea formidabilului Château de Gisors. După-amiaza cu bicicleta vă conduce la leprozeria istorică Saint-Lazare și la rustica Ferme de Vaux. Seara se încheie cu o vizită liniștită la Chapelle du Château, în timp ce soarele apune peste trasee.",
+        "en": "A brisk morning ride takes you past the Mairie to the breathtaking Collégiale, enjoying the crisp air. Midday involves exploring the formidable Château de Gisors, a medieval gem. Afternoon pedaling leads you to the historic Saint-Lazare Leprosarium and then onto the rustic Ferme de Vaux. Evening concludes with a tranquil visit to the Chapelle du Château, as the sun sets over the scenic trails."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Gisors",
+            "hu": "Château de Gisors",
+            "ro": "Château de Gisors",
+            "en": "Château de Gisors"
+          },
+          "coords": [
+            1.7745,
+            49.2808
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
+            "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
+            "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leprosorium Saint-Lazare",
+            "hu": "Saint-Lazare Lepratelep",
+            "ro": "Leprozeria Saint-Lazare",
+            "en": "Saint-Lazare Leprosarium"
+          },
+          "coords": [
+            1.7636,
+            49.2796
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
+            "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme de Vaux",
+            "hu": "Ferme de Vaux",
+            "ro": "Ferme de Vaux",
+            "en": "Ferme de Vaux"
+          },
+          "coords": [
+            1.761167,
+            49.268705
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise auf diesem historischen Bauernhof mit erhaltener ländlicher Architektur, und vergessen Sie nicht, festes Schuhwerk für das rustikale Gelände zu tragen.",
+            "hu": "Lépjen vissza az időben ezen a történelmi birtokon, ahol megőrizték a hagyományos vidéki építészetet, és ne felejtsen el kényelmes cipőt húzni a rusztikus terület felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această fermă istorică unde se păstrează arhitectura rurală tradițională și nu uitați să purtați încălțăminte comodă pentru a explora terenul rustic.",
+            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Château",
+            "hu": "Chapelle du Château",
+            "ro": "Chapelle du Château",
+            "en": "Chapelle du Château"
+          },
+          "coords": [
+            1.780016,
+            49.257153
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe in dieser kleinen, aber sehr historischen Kapelle in der Nähe des Schlosses, und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
+            "hu": "Keressen egy pillanatnyi nyugalmat e kicsi, de történelmi kápolnában a kastély területének közelében, és figyelje meg a főbejárat körüli bonyolult kőfaragásokat.",
+            "ro": "Căutați un moment de liniște în această capelă mică, dar cu o istorie profundă, lângă castel, și acordați atenție sculpturilor complicate în piatră din jurul intrării principale.",
+            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Hérouval",
+            "hu": "Parc Hérouval",
+            "ro": "Parc Hérouval",
+            "en": "Parc Hérouval"
+          },
+          "coords": [
+            1.787265,
+            49.244314
+          ],
+          "category": "park",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Nachmittag inmitten der Natur in diesem familienfreundlichen Park, und bringen Sie einen Picknickkorb mit, um die weiten Grünflächen zu erleben.",
+            "hu": "Töltsön el egy pihentető délutánt a természet lágy ölén ebben a családbarát parkban, és hozzon magával piknikkosarat és takarót, hogy teljesen kiélvezze a zöldterületeket.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă în mijlocul naturii în acest parc prietenos cu familiile, aducând cu voi un coș de picnic și o pătură pentru spațiile verzi întinse.",
+            "en": "Enjoy a relaxing afternoon surrounded by nature in this family-friendly park, bringing along a picnic basket and a blanket to fully experience the expansive green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gervais-et-Saint-Protais",
+            "hu": "Saint-Gervais-et-Saint-Protais Templom",
+            "ro": "Biserica Saint-Gervais-et-Saint-Protais",
+            "en": "Saint-Gervais-et-Saint-Protais Church"
+          },
+          "coords": [
+            1.755958,
+            49.233942
+          ],
+          "category": "religious",
+          "arrive_at": "15:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren malerischen Ausflug mit dem Besuch dieser ländlichen Kirche, die für ihren ruhigen Charme bekannt ist, und bewundern Sie die jahrhundertealte Handwerkskunst.",
+            "hu": "Zárja festői vidéki kirándulását ennek a nyugodt falusi templomnak a meglátogatásával, és szánjon egy percet az évszázados vallási kézművesség megcsodálására a csendben.",
+            "ro": "Încheiați-vă excursia pitorească vizitând această biserică rurală senină, cunoscută pentru farmecul ei liniștit, luându-vă un moment pentru a aprecia măiestria religioasă antică.",
+            "en": "Conclude your scenic countryside trip by visiting this serene rural church known for its quiet charm, taking a moment to appreciate the centuries-old religious craftsmanship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zum imposanten Château de Gisors, gefolgt vom seltenen Leprosorium Saint-Lazare. Mittags erkunden Sie das ländliche Erbe der Ferme de Vaux und die nahegelegene historische Chapelle du Château. Der Nachmittag bietet Entspannung bei einer Fahrt zum Parc Hérouval. Der Abend endet friedlich an der abgelegenen Kirche Saint-Gervais-et-Saint-Protais.",
+        "hu": "A reggel a tornyosuló Château de Gisors-hoz vezető úttal kezdődik, melyet a ritka Saint-Lazare lepratelep követ. A délidőt a Ferme de Vaux vidéki örökségének és a közeli történelmi kápolna felfedezésével töltjük. A délután a tiszta pihenésé a Parc Hérouval festői utazásával. Az este békés befejezést nyújt a félreeső Saint-Gervais-et-Saint-Protais templomnál.",
+        "ro": "Dimineața începe cu un drum direct spre impunătorul Château de Gisors, urmat de rara leprozerie Saint-Lazare. Amiaza este petrecută explorând moștenirea rurală de la Ferme de Vaux și capela istorică din apropiere. După-amiaza se transformă în relaxare pură la Parc Hérouval. Seara oferă un final pașnic la biserica retrasă Saint-Gervais-et-Saint-Protais.",
+        "en": "Morning begins with a direct drive to the towering Château de Gisors, followed by the rare Saint-Lazare Leprosarium. Midday is spent exploring the preserved rural heritage at Ferme de Vaux and the nearby historic Chapelle du Château. Afternoon shifts to pure relaxation with a scenic drive to Parc Hérouval. Evening provides a peaceful finale at the secluded Saint-Gervais-et-Saint-Protais Church."
+      }
+    }
+  }
+}

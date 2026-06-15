@@ -1,0 +1,497 @@
+{
+  "city_id": "migennes",
+  "anchor": {
+    "name": "Migennes",
+    "coords": [
+      3.5167,
+      47.9647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Laroche-Migennes",
+            "hu": "Laroche-Migennes vasútállomás",
+            "ro": "Gara Laroche-Migennes",
+            "en": "Laroche-Migennes Station"
+          },
+          "coords": [
+            3.513043,
+            47.96103
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die geschäftige Architektur dieses historischen Eisenbahnknotenpunkts, der das Wachstum der Stadt vorantrieb, und besuchen Sie die alten Bahnsteige am Morgen.",
+            "hu": "Figyelje meg ennek a történelmi vasúti csomópontnak a nyüzsgő építészetét, amely fellendítette a város fejlődését, és délelőtt érdemes megnézni a régi peronokat.",
+            "ro": "Observați arhitectura plină de viață a acestui nod feroviar istoric, care a stimulat creșterea orașului, și verificați peroanele vechi în orele dimineții.",
+            "en": "Observe the bustling architecture of this historic railway hub, which spurred the town's growth, and check the vintage platforms during morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabaret L'Escale",
+            "hu": "Cabaret L'Escale",
+            "ro": "Cabaret L'Escale",
+            "en": "Cabaret L'Escale"
+          },
+          "coords": [
+            3.51332,
+            47.962
+          ],
+          "category": "cultural",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie den legendären Veranstaltungsort, in dem einst Johnny Hallyday auftrat, und buchen Sie Tickets im Voraus, um eine lokale Show zu erleben.",
+            "hu": "Lépjen be a legendás kulturális helyszínre, ahol egykor Johnny Hallyday is fellépett, és foglaljon jegyet előre, ha szeretne egy élénk helyi műsort látni.",
+            "ro": "Pășiți în legendarul spațiu cultural unde a concertat cândva Johnny Hallyday și rezervați bilete din timp pentru a prinde un spectacol local vibrant.",
+            "en": "Step into the legendary cultural venue where Johnny Hallyday once performed, and book tickets in advance if you want to catch a vibrant local show."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Krisztus Király-templom",
+            "ro": "Biserica Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            3.513047,
+            47.964876
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Betonarchitektur dieser Kirche aus dem 20. Jahrhundert und spazieren Sie umher, um ihre modernen geometrischen Linien zu schätzen.",
+            "hu": "Csodálja meg ennek a templomnak a 20. századi, lenyűgöző betonépítészetét, és sétálja körbe, hogy értékelje egyedi, modern geometriai vonalait.",
+            "ro": "Admirați arhitectura impresionantă din beton a acestei biserici din secolul XX și plimbați-vă pe afară pentru a aprecia liniile sale geometrice moderne unice.",
+            "en": "Admire the striking 20th-century concrete architecture of this church, and walk around its exterior to appreciate its unique, modern geometric lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pont du tacot",
+            "hu": "Le Pont du tacot",
+            "ro": "Le Pont du tacot",
+            "en": "Le Pont du tacot"
+          },
+          "coords": [
+            3.517765,
+            47.957511
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Überreste der alten Lokalbahnbrücke, die den Fluss Armançon überquert, und kommen Sie früh am Tag für das beste Licht.",
+            "hu": "Fényképezze le a régi helyi vonat Armançon folyón átívelő hídjának maradványait, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Fotografiați rămășițele vechiului pod al trenului local care traversează râul Armançon și vizitați-l devreme pentru cea mai bună lumină pe apă.",
+            "en": "Photograph the remains of the old local train bridge crossing the Armançon river, and visit early in the day for the best light on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Migennes Plage",
+            "hu": "Migennes Plage",
+            "ro": "Migennes Plage",
+            "en": "Migennes Plage"
+          },
+          "coords": [
+            3.502132,
+            47.956135
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses lokalen Sommererholungsortes und bringen Sie ein Picknick mit, um die ruhige Atmosphäre am Fluss zu genießen.",
+            "hu": "Pihenjen ennek a helyi nyári rekreációs helynek a homokos partjain, és hozzon magával egy kis pikniket a békés folyóparti hangulat kiélvezéséhez.",
+            "ro": "Relaxați-vă pe nisipul acestui loc de recreere de vară și aduceți un mic picnic pentru a vă bucura de atmosfera liniștită de pe malul râului.",
+            "en": "Relax on the sandy shores of this local summer recreation spot, and bring a small picnic to enjoy the tranquil riverside atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am belebten Bahnhof Laroche-Migennes, der die tiefen Eisenbahnwurzeln der Stadt widerspiegelt. Mittags tauchen Sie im Cabaret L'Escale in die lokale Popkulturgeschichte ein. Bewundern Sie am Nachmittag die Linien der Église du Christ-Roi und spazieren Sie zum Le Pont du tacot. Der Tag endet entspannt am Migennes Plage.",
+        "hu": "Kezdje a reggelt a forgalmas Laroche-Migennes állomáson, amely a város mély vasúti gyökereit tükrözi. Délben merüljön el a helyi popkultúra történetében a Cabaret L'Escale-ban. Délután csodálja meg az Église du Christ-Roi modern vonalait, és sétáljon el a Le Pont du tacot mellett. A napot a Migennes Plage-en pihenve zárja.",
+        "ro": "Începeți dimineața în aglomerata gară Laroche-Migennes, care reflectă rădăcinile feroviare ale orașului. La prânz, pătrundeți în istoria culturii pop la Cabaret L'Escale. După-amiaza, admirați liniile bisericii Église du Christ-Roi și plimbați-vă pe lângă Le Pont du tacot. Terminați ziua relaxându-vă lângă apă la Migennes Plage.",
+        "en": "Start your morning at the bustling Laroche-Migennes Station, reflecting the town's deep railway roots. Midday finds you diving into local pop-culture history at Cabaret L'Escale. In the afternoon, marvel at the modern lines of Église du Christ-Roi and stroll past Le Pont du tacot. Finish the day relaxing by the water at Migennes Plage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pancrace",
+            "hu": "Szent Pongrác-templom",
+            "ro": "Biserica Saint-Pancrace",
+            "en": "Église Saint-Pancrace"
+          },
+          "coords": [
+            3.526952,
+            47.973794
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Kirche im historischen Herzen des alten Migennes und beachten Sie das charmante, rustikale Mauerwerk, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Fedezze fel ezt az ősi templomot Ó-Migennes történelmi szívében, és vegye szemügyre a bájos, rusztikus kőműves munkát a túra folytatása előtt.",
+            "ro": "Explorați această biserică veche din inima istorică a Vechiului Migennes și observați zidăria rustică fermecătoare înainte de a vă continua turul.",
+            "en": "Explore this ancient church located in the historic heart of Old Migennes, and notice the charming rustic stonework before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Krisztus Király-templom",
+            "ro": "Biserica Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            3.513047,
+            47.964876
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Betonarchitektur dieser Kirche aus dem 20. Jahrhundert und spazieren Sie umher, um ihre modernen geometrischen Linien zu schätzen.",
+            "hu": "Csodálja meg ennek a templomnak a 20. századi, lenyűgöző betonépítészetét, és sétálja körbe, hogy értékelje egyedi, modern geometriai vonalait.",
+            "ro": "Admirați arhitectura impresionantă din beton a acestei biserici din secolul XX și plimbați-vă pe afară pentru a aprecia liniile sale geometrice moderne unice.",
+            "en": "Admire the striking 20th-century concrete architecture of this church, and walk around its exterior to appreciate its unique, modern geometric lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabaret L'Escale",
+            "hu": "Cabaret L'Escale",
+            "ro": "Cabaret L'Escale",
+            "en": "Cabaret L'Escale"
+          },
+          "coords": [
+            3.51332,
+            47.962
+          ],
+          "category": "cultural",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie den legendären Veranstaltungsort, in dem einst Johnny Hallyday auftrat, und buchen Sie Tickets im Voraus, um eine lokale Show zu erleben.",
+            "hu": "Lépjen be a legendás kulturális helyszínre, ahol egykor Johnny Hallyday is fellépett, és foglaljon jegyet előre, ha szeretne egy élénk helyi műsort látni.",
+            "ro": "Pășiți în legendarul spațiu cultural unde a concertat cândva Johnny Hallyday și rezervați bilete din timp pentru a prinde un spectacol local vibrant.",
+            "en": "Step into the legendary cultural venue where Johnny Hallyday once performed, and book tickets in advance if you want to catch a vibrant local show."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Laroche-Migennes",
+            "hu": "Laroche-Migennes vasútállomás",
+            "ro": "Gara Laroche-Migennes",
+            "en": "Laroche-Migennes Station"
+          },
+          "coords": [
+            3.513043,
+            47.96103
+          ],
+          "category": "station",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die geschäftige Architektur dieses historischen Eisenbahnknotenpunkts, der das Wachstum der Stadt vorantrieb, und besuchen Sie die alten Bahnsteige am Morgen.",
+            "hu": "Figyelje meg ennek a történelmi vasúti csomópontnak a nyüzsgő építészetét, amely fellendítette a város fejlődését, és délelőtt érdemes megnézni a régi peronokat.",
+            "ro": "Observați arhitectura plină de viață a acestui nod feroviar istoric, care a stimulat creșterea orașului, și verificați peroanele vechi în orele dimineții.",
+            "en": "Observe the bustling architecture of this historic railway hub, which spurred the town's growth, and check the vintage platforms during morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pont du tacot",
+            "hu": "Le Pont du tacot",
+            "ro": "Le Pont du tacot",
+            "en": "Le Pont du tacot"
+          },
+          "coords": [
+            3.517765,
+            47.957511
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Überreste der alten Lokalbahnbrücke, die den Fluss Armançon überquert, und kommen Sie früh am Tag für das beste Licht.",
+            "hu": "Fényképezze le a régi helyi vonat Armançon folyón átívelő hídjának maradványait, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Fotografiați rămășițele vechiului pod al trenului local care traversează râul Armançon și vizitați-l devreme pentru cea mai bună lumină pe apă.",
+            "en": "Photograph the remains of the old local train bridge crossing the Armançon river, and visit early in the day for the best light on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Cheny",
+            "hu": "Cheny Városháza",
+            "ro": "Primăria din Cheny",
+            "en": "Mairie de Cheny"
+          },
+          "coords": [
+            3.535917,
+            47.954993
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Bürgerarchitektur dieses benachbarte Verwaltungsgebäudes, das ein tolles Fotomotiv für typisch französisches Dorfleben bietet.",
+            "hu": "Tekintse meg ennek a szomszédos közigazgatási épületnek a hagyományos polgári építészetét, amely kiváló fotótémát nyújt a tipikus francia falusi életről.",
+            "ro": "Vizionați arhitectura civică tradițională a acestei clădiri administrative vecine, care oferă o oportunitate excelentă de a fotografia viața tipică dintr-un sat francez.",
+            "en": "View the traditional civic architecture of this neighboring administrative building, which offers a great photo opportunity for typical French village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-aux-Liens",
+            "hu": "Saint-Pierre-aux-Liens templom",
+            "ro": "Biserica Saint-Pierre-aux-Liens",
+            "en": "Église Saint-Pierre-aux-Liens"
+          },
+          "coords": [
+            3.536189,
+            47.955895
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Pfarrkirche in Cheny, um ihr ruhiges Ambiente zu erleben, und bewundern Sie die bescheidenen, aber schönen Buntglasfenster.",
+            "hu": "Lépjen be ebbe a békés chenyi plébániatemplomba, hogy átélje derűs hangulatát, és csodálja meg szerény, de gyönyörű ólomüveg ablakait.",
+            "ro": "Pășiți în această biserică parohială liniștită din Cheny pentru a experimenta ambianța sa senină și admirați vitraliile sale modeste, dar frumoase.",
+            "en": "Step inside this peaceful parish church in Cheny to experience its serene ambiance, and take a moment to admire its modest yet beautiful stained glass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine flotte Fahrt beginnt an der historischen Église Saint-Pancrace, bevor es zur markanten Église du Christ-Roi geht. Gegen Mittag erkunden Sie das Cabaret L'Escale und den Bahnhof. Die nachmittägliche Fahrt führt Sie vorbei am Le Pont du tacot ins benachbarte Cheny und endet mit der ruhigen Église Saint-Pierre-aux-Liens.",
+        "hu": "A kerékpározás a történelmi Église Saint-Pancrace-nál kezdődik, mielőtt az Église du Christ-Roihoz gurulna. Délben fedezze fel a Cabaret L'Escale-t és a vasútállomást. A délutáni túra a Le Pont du tacot mellett a szomszédos Cheny-be vezet, és a csendes Église Saint-Pierre-aux-Liens-nél ér véget.",
+        "ro": "O pedalare energică începe la istorica Église Saint-Pancrace înainte de a coborî spre impresionanta Église du Christ-Roi. Până la prânz, explorați Cabaret L'Escale și gara. Plimbarea de după-amiază vă duce pe lângă Le Pont du tacot în Cheny, încheindu-se la liniștita Église Saint-Pierre-aux-Liens.",
+        "en": "A brisk pedal begins at the historic Église Saint-Pancrace before rolling down to the striking Église du Christ-Roi. By midday, you're exploring Cabaret L'Escale and checking out the local train station. The afternoon ride takes you past Le Pont du tacot into neighboring Cheny, concluding with the tranquil Église Saint-Pierre-aux-Liens."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pancrace",
+            "hu": "Szent Pongrác-templom",
+            "ro": "Biserica Saint-Pancrace",
+            "en": "Église Saint-Pancrace"
+          },
+          "coords": [
+            3.526952,
+            47.973794
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Kirche im historischen Herzen des alten Migennes und beachten Sie das charmante, rustikale Mauerwerk, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Fedezze fel ezt az ősi templomot Ó-Migennes történelmi szívében, és vegye szemügyre a bájos, rusztikus kőműves munkát a túra folytatása előtt.",
+            "ro": "Explorați această biserică veche din inima istorică a Vechiului Migennes și observați zidăria rustică fermecătoare înainte de a vă continua turul.",
+            "en": "Explore this ancient church located in the historic heart of Old Migennes, and notice the charming rustic stonework before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Krisztus Király-templom",
+            "ro": "Biserica Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            3.513047,
+            47.964876
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Betonarchitektur dieser Kirche aus dem 20. Jahrhundert und spazieren Sie umher, um ihre modernen geometrischen Linien zu schätzen.",
+            "hu": "Csodálja meg ennek a templomnak a 20. századi, lenyűgöző betonépítészetét, és sétálja körbe, hogy értékelje egyedi, modern geometriai vonalait.",
+            "ro": "Admirați arhitectura impresionantă din beton a acestei biserici din secolul XX și plimbați-vă pe afară pentru a aprecia liniile sale geometrice moderne unice.",
+            "en": "Admire the striking 20th-century concrete architecture of this church, and walk around its exterior to appreciate its unique, modern geometric lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabaret L'Escale",
+            "hu": "Cabaret L'Escale",
+            "ro": "Cabaret L'Escale",
+            "en": "Cabaret L'Escale"
+          },
+          "coords": [
+            3.51332,
+            47.962
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie den legendären Veranstaltungsort, in dem einst Johnny Hallyday auftrat, und buchen Sie Tickets im Voraus, um eine lokale Show zu erleben.",
+            "hu": "Lépjen be a legendás kulturális helyszínre, ahol egykor Johnny Hallyday is fellépett, és foglaljon jegyet előre, ha szeretne egy élénk helyi műsort látni.",
+            "ro": "Pășiți în legendarul spațiu cultural unde a concertat cândva Johnny Hallyday și rezervați bilete din timp pentru a prinde un spectacol local vibrant.",
+            "en": "Step into the legendary cultural venue where Johnny Hallyday once performed, and book tickets in advance if you want to catch a vibrant local show."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pont du tacot",
+            "hu": "Le Pont du tacot",
+            "ro": "Le Pont du tacot",
+            "en": "Le Pont du tacot"
+          },
+          "coords": [
+            3.517765,
+            47.957511
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Überreste der alten Lokalbahnbrücke, die den Fluss Armançon überquert, und kommen Sie früh am Tag für das beste Licht.",
+            "hu": "Fényképezze le a régi helyi vonat Armançon folyón átívelő hídjának maradványait, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Fotografiați rămășițele vechiului pod al trenului local care traversează râul Armançon și vizitați-l devreme pentru cea mai bună lumină pe apă.",
+            "en": "Photograph the remains of the old local train bridge crossing the Armançon river, and visit early in the day for the best light on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Cheny",
+            "hu": "Cheny Városháza",
+            "ro": "Primăria din Cheny",
+            "en": "Mairie de Cheny"
+          },
+          "coords": [
+            3.535917,
+            47.954993
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Bürgerarchitektur dieses benachbarte Verwaltungsgebäudes, das ein tolles Fotomotiv für typisch französisches Dorfleben bietet.",
+            "hu": "Tekintse meg ennek a szomszédos közigazgatási épületnek a hagyományos polgári építészetét, amely kiváló fotótémát nyújt a tipikus francia falusi életről.",
+            "ro": "Vizionați arhitectura civică tradițională a acestei clădiri administrative vecine, care oferă o oportunitate excelentă de a fotografia viața tipică dintr-un sat francez.",
+            "en": "View the traditional civic architecture of this neighboring administrative building, which offers a great photo opportunity for typical French village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-aux-Liens",
+            "hu": "Saint-Pierre-aux-Liens templom",
+            "ro": "Biserica Saint-Pierre-aux-Liens",
+            "en": "Église Saint-Pierre-aux-Liens"
+          },
+          "coords": [
+            3.536189,
+            47.955895
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Pfarrkirche in Cheny, um ihr ruhiges Ambiente zu erleben, und bewundern Sie die bescheidenen, aber schönen Buntglasfenster.",
+            "hu": "Lépjen be ebbe a békés chenyi plébániatemplomba, hogy átélje derűs hangulatát, és csodálja meg szerény, de gyönyörű ólomüveg ablakait.",
+            "ro": "Pășiți în această biserică parohială liniștită din Cheny pentru a experimenta ambianța sa senină și admirați vitraliile sale modeste, dar frumoase.",
+            "en": "Step inside this peaceful parish church in Cheny to experience its serene ambiance, and take a moment to admire its modest yet beautiful stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Migennes Plage",
+            "hu": "Migennes Plage",
+            "ro": "Migennes Plage",
+            "en": "Migennes Plage"
+          },
+          "coords": [
+            3.502132,
+            47.956135
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses lokalen Sommererholungsortes und bringen Sie ein Picknick mit, um die ruhige Atmosphäre am Fluss zu genießen.",
+            "hu": "Pihenjen ennek a helyi nyári rekreációs helynek a homokos partjain, és hozzon magával egy kis pikniket a békés folyóparti hangulat kiélvezéséhez.",
+            "ro": "Relaxați-vă pe nisipul acestui loc de recreere de vară și aduceți un mic picnic pentru a vă bucura de atmosfera liniștită de pe malul râului.",
+            "en": "Relax on the sandy shores of this local summer recreation spot, and bring a small picnic to enjoy the tranquil riverside atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit dem rustikalen Charme der Église Saint-Pancrace, bevor Sie zur modernen Église du Christ-Roi fahren. Verbringen Sie den Mittag im legendären Cabaret L'Escale. Fahren Sie nachmittags vorbei am Le Pont du tacot nach Cheny, um die Mairie und Kirche zu bewundern. Beenden Sie die Tour an der Migennes Plage.",
+        "hu": "Kezdje az Église Saint-Pancrace rusztikus bájával, majd vezessen a modern Église du Christ-Roihoz. A delet töltse a legendás Cabaret L'Escale-ban. Délután autózzon el a Le Pont du tacot mellett Cheny-be, hogy megcsodálja a városházát és a templomot. Zárja átfogó túráját egy békés estével a Migennes Plage-en.",
+        "ro": "Începeți cu farmecul rustic al Église Saint-Pancrace, apoi conduceți spre moderna Église du Christ-Roi. Petreceți-vă prânzul explorând legendarul Cabaret L'Escale. După-amiaza, treceți pe lângă Le Pont du tacot spre Cheny pentru a admira primăria și biserica. Încheiați turul la apus, la Migennes Plage.",
+        "en": "Begin with the rustic charm of Église Saint-Pancrace before driving to the modern Église du Christ-Roi. Spend your midday delving into the legendary Cabaret L'Escale. In the afternoon, cruise past Le Pont du tacot to Cheny to admire its Mairie and church. Conclude your comprehensive tour with a peaceful evening at Migennes Plage."
+      }
+    }
+  }
+}

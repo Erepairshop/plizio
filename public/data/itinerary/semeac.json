@@ -1,0 +1,474 @@
+{
+  "city_id": "semeac",
+  "anchor": {
+    "name": "Séméac",
+    "coords": [
+      0.1067,
+      43.2281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 4.42,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            0.104639,
+            43.228661
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der ruhigen Atmosphäre und traditionellen Architektur dieser Gemeinde, und achten Sie auf Stille während der morgendlichen Andachten.",
+            "hu": "Kezdje a napot ennek a helyi plébániának a csendes légkörével és hagyományos építészetével, ügyelve a reggeli imák alatti tiszteletteljes csendre.",
+            "ro": "Începeți ziua admirând ambianța liniștită și arhitectura tradițională a acestei parohii locale, având grijă să păstrați liniștea în timpul rugăciunilor matinale.",
+            "en": "Start your day by admiring the tranquil ambiance and traditional architecture of this local parish, remembering to maintain silence during morning prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaric-Kanal",
+            "hu": "Alaric-csatorna",
+            "ro": "Canalul Alaric",
+            "en": "Alaric Canal"
+          },
+          "coords": [
+            0.113773,
+            43.221659
+          ],
+          "category": "historical",
+          "arrive_at": "10:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Folgen Sie dem historischen Wasserlauf, der einst lokale Mühlen antrieb, und tragen Sie bequeme Schuhe, da einige Uferwege leicht uneben und rutschig sein können.",
+            "hu": "Kövesse a történelmi vízfolyást, amely egykor a helyi malmokat hajtotta, és viseljen kényelmes cipőt, mivel a parti sétány néhol egyenetlen lehet a fák gyökerei miatt.",
+            "ro": "Urmați cursul istoric de apă care alimenta cândva morile locale, purtând încălțăminte confortabilă, deoarece unele porțiuni ale cărării de pe mal pot fi denivelate.",
+            "en": "Follow the historical watercourse that once powered local mills, wearing comfortable shoes as some parts of the surrounding path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Bernadette",
+            "hu": "Église Sainte-Bernadette",
+            "ro": "Église Sainte-Bernadette",
+            "en": "Église Sainte-Bernadette"
+          },
+          "coords": [
+            0.0841,
+            43.223481
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses neuere, aber ebenso charmante Heiligtum der Heiligen Bernadette, ein perfekter Ort für eine kurze, besinnliche Pause vor dem Mittagessen.",
+            "hu": "Fedezze fel ezt az újabb, de ugyanolyan bájos, Szent Bernadettnek szentelt szentélyt, amely tökéletes hely egy rövid, elmélyült pihenőre az ebédidő előtt.",
+            "ro": "Explorați acest sanctuar mai recent, dar la fel de fermecător dedicat Sfintei Bernadette, un loc perfect pentru o scurtă pauză de reflecție înainte de prânz.",
+            "en": "Explore this more recent yet equally charming sanctuary dedicated to Saint Bernadette, a perfect spot to take a short, reflective break before your midday meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Bel-Air",
+            "hu": "Parc Bel-Air",
+            "ro": "Parc Bel-Air",
+            "en": "Parc Bel-Air"
+          },
+          "coords": [
+            0.076525,
+            43.222736
+          ],
+          "category": "park",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter dem Blätterdach alter Bäume in diesem gepflegten öffentlichen Park, der sich ideal für ein Mittagspicknick mit frischem Gebäck aus der Region eignet.",
+            "hu": "Pihenjen az idős fák lombkoronája alatt ebben a gondozott parkban, amely ideális egy déli piknikhez, ha hoz magával némi friss helyi péksüteményt.",
+            "ro": "Relaxați-vă sub bolta copacilor bătrâni din acest parc public bine întreținut, ideal pentru un picnic la amiază dacă aduceți produse de patiserie proaspete locale.",
+            "en": "Relax under the canopy of mature trees in this well-maintained public park, ideal for a midday picnic if you bring some fresh pastries from a local bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'aumônerie des lycées",
+            "hu": "Chapelle de l'aumônerie des lycées",
+            "ro": "Chapelle de l'aumônerie des lycées",
+            "en": "Chapelle de l'aumônerie des lycées"
+          },
+          "coords": [
+            0.072895,
+            43.22457
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser bescheidenen Kapelle der Schulgemeinde und genießen Sie ihre ruhige Schlichtheit im sanften Nachmittagslicht in vollen Zügen.",
+            "hu": "Fejezze be sétáját ennél a helyi iskolai közösséget szolgáló szerény kápolnánál, élvezve annak csendes egyszerűségét a délutáni lágy fényben.",
+            "ro": "Încheiați plimbarea la această capelă modestă care deservește comunitatea școlară locală, apreciind simplitatea ei liniștită în lumina blândă a după-amiezii.",
+            "en": "Conclude your walk at this modest chapel serving the local school community, appreciating its quiet simplicity and the gentle late afternoon lighting before departing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen offenbart Séméacs friedlichen Geist, während Sie die historische Gemeinde und den ruhigen Alaric-Kanal erkunden.\nDer Mittag lädt zu einem entspannten Spaziergang zur Sainte-Bernadette ein, wo Sie den Rhythmus der Stadt spüren.\nDer Nachmittag bringt herrliche Entspannung im Schatten der majestätischen Bäume des Parc Bel-Air.\nDer Tag klingt in der Nähe der lokalen Kapelle aus und bietet einen perfekten Abschluss für Ihre Erkundung.",
+        "hu": "A reggel feltárja Séméac békés szellemét, miközben felfedezi a történelmi plébániát és a nyugodt Alaric-csatornát.\nA dél egy kényelmes sétára csábít a Sainte-Bernadette felé, átölelve a város csendesebb ritmusát.\nA délután kellemes pihenést hoz a Parc Bel-Air fenséges fáinak árnyékában, ideális feltöltődést kínálva.\nAz este a helyi kápolna közelében csendesedik el, tökéletes lezárást nyújtva egy szelíd és tartalmas napnak.",
+        "ro": "Dimineața dezvăluie spiritul pașnic al Séméacului în timp ce explorați parohia istorică și seninul Canal Alaric.\nAmiaza vă invită la o plimbare spre Sainte-Bernadette, îmbrățișând ritmurile mai liniștite și relaxate ale orașului.\nDupă-amiaza aduce o binemeritată relaxare sub umbra copacilor magnifici și răcoroși din frumosul Parc Bel-Air.\nSeara se încheie în apropierea capelei locale, oferind un final perfect și reflexiv pentru o zi de neuitat.",
+        "en": "Morning reveals Séméac's peaceful spirit as you explore its historic parish and the serene, flowing waters of the Alaric Canal.\nMidday invites a leisurely stroll toward Sainte-Bernadette, fully embracing the town's quieter, comforting rhythms.\nAfternoon brings deep relaxation under the soothing shade of Parc Bel-Air's magnificent, century-old trees.\nEvening gently winds down near the local chapels, offering a perfect, reflective end to a beautiful walking day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 10.08,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            0.104639,
+            43.228661
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an dieser zentralen Kirche, deren markante Architektur am besten im sanften Morgenlicht zu bewundern ist, bevor die Straßen geschäftiger werden.",
+            "hu": "Kezdje kerékpártúráját ennél a központi templomnál, amelynek lenyűgöző építészete a kora reggeli fényben a legszebb, mielőtt az utcák forgalmasabbá válnának.",
+            "ro": "Începeți turul cu bicicleta la această biserică centrală, a cărei arhitectură izbitoare este cel mai bine admirată în lumina dimineții, înainte ca străzile să se aglomereze.",
+            "en": "Start your cycling tour at this central church, whose striking architecture is best admired in the soft morning light before the surrounding streets get busier."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption",
+            "hu": "Église de l'Assomption",
+            "ro": "Église de l'Assomption",
+            "en": "Église de l'Assomption"
+          },
+          "coords": [
+            0.128633,
+            43.229393
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter in den östlichen Teil der Stadt, um diese historische Stätte zu besuchen; schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern vor dem Eingang ab.",
+            "hu": "Kerékpározzon tovább a város keleti részébe ehhez a történelmi helyszínhez; zárja le biztonságosan kerékpárját a bejárat előtti kijelölt tárolóknál.",
+            "ro": "Mergeți cu bicicleta în partea de est a orașului pentru a vizita acest sit istoric; asigurați-vă că legați bicicleta în siguranță la suporturile desemnate din fața intrării.",
+            "en": "Cycle further into the eastern part of town to visit this historical site; be sure to lock your bike securely at the designated racks right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaric-Kanal",
+            "hu": "Alaric-csatorna",
+            "ro": "Canalul Alaric",
+            "en": "Alaric Canal"
+          },
+          "coords": [
+            0.113773,
+            43.221659
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich entlang der flachen Wege neben dem Kanal und genießen Sie das kühle Wasser, achten Sie jedoch auf Fußgänger, die den gleichen Weg nutzen.",
+            "hu": "Kerékpározzon kényelmesen a csatorna melletti sík utakon, élvezve a víz közelségét, de ügyeljen az azonos útvonalat használó gyalogosokra.",
+            "ro": "Pedalați pe îndelete de-a lungul potecilor plate de lângă canal, bucurându-vă de apa răcoroasă, dar fiți atenți la pietonii care folosesc același traseu.",
+            "en": "Pedal leisurely along the flat paths beside the canal, enjoying the cooling presence of the water, though remain mindful of pedestrians sharing the same route."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Bel-Air",
+            "hu": "Parc Bel-Air",
+            "ro": "Parc Bel-Air",
+            "en": "Parc Bel-Air"
+          },
+          "coords": [
+            0.076525,
+            43.222736
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause im üppigen Grün des Parks, ideal für ein Picknick, bevor Sie am Nachmittag Ihre Radtour durch die Stadt fortsetzen.",
+            "hu": "Tartson egy jól megérdemelt pihenőt a park buja növényzete között, amely ideális egy piknikhez, mielőtt délután folytatná kerékpártúráját a városban.",
+            "ro": "Luați o pauză binemeritată în verdeața luxuriantă a parcului, ideal pentru un picnic înainte de a vă continua turul cu bicicleta prin oraș în cursul după-amiezii.",
+            "en": "Take a well-deserved break in the lush greenery of the park, ideal for a picnic before continuing your afternoon cycling tour across the wider town."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine Paul-Boyrie",
+            "hu": "Piscine Paul-Boyrie",
+            "ro": "Piscine Paul-Boyrie",
+            "en": "Piscine Paul-Boyrie"
+          },
+          "coords": [
+            0.077357,
+            43.220486
+          ],
+          "category": "family",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundlichen Einrichtungen dieses lokalen Schwimmbads, perfekt für eine erfrischende Abkühlung an warmen Sommernachmittagen nach dem Radfahren.",
+            "hu": "Élvezze a helyi uszoda családbarát létesítményeit, amely tökéletes egy frissítő csobbanáshoz a meleg nyári délutánokon a kerékpározás után.",
+            "ro": "Bucurați-vă de facilitățile pentru familii ale acestei piscine locale, perfectă pentru o baie răcoritoare în după-amiezile calde de vară, după ce ați pedalat.",
+            "en": "Enjoy the family-friendly facilities of this local swimming pool, perfect for a refreshing dip on warm summer afternoons after a few hours of cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Échez",
+            "hu": "Az Échez partja",
+            "ro": "Malurile râului Échez",
+            "en": "Banks of the Échez"
+          },
+          "coords": [
+            0.056647,
+            43.247968
+          ],
+          "category": "natural",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.43,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route mit einer landschaftlich reizvollen Fahrt entlang des Flusses, wo Sie absteigen können, um die beruhigenden Geräusche des Wassers zu genießen.",
+            "hu": "Fejezze be útját egy festői tekeréssel a folyó mentén, ahol leszállhat a kerékpárról, hogy teljes mértékben élvezhesse a víz nyugtató hangjait a természetben.",
+            "ro": "Încheiați traseul cu o plimbare pitorească de-a lungul râului, unde puteți descăleca pentru a vă bucura pe deplin de sunetele liniștitoare ale apei curgătoare.",
+            "en": "Conclude your route with a highly scenic ride along the river, where you can easily dismount to fully absorb the soothing sounds of the natural flowing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie die prächtigen Kirchen, während die Straßen noch leer und perfekt zum Radfahren sind.\nZur Mittagszeit folgen Sie dem historischen Alaric-Kanal, dessen Uferwege eine entspannte Fahrt ermöglichen.\nDer Nachmittag bringt Erfrischung im Schwimmbad und eine wohlverdiente Pause im grünen Parc Bel-Air.\nDer Abend wird von einer malerischen Fahrt entlang des Échez gekrönt, die den Ausflug friedlich abschließt.",
+        "hu": "Reggel felfedezheti a csodálatos templomokat, miközben az utcák még üresek és tökéletesek a kerékpározáshoz.\nDélben kövesse a történelmi Alaric-csatornát, amelynek parti útjai kényelmes és pihentető tekerést tesznek lehetővé.\nA délután felfrissülést hoz az uszodában és egy jól megérdemelt pihenőt a zöldellő Parc Bel-Air fái alatt.\nAz estét egy festői tekerés koronázza meg az Échez partján, békésen lezárva ezt az aktív napot.",
+        "ro": "Dimineața explorați bisericile magnifice, în timp ce străzile sunt încă goale și perfecte pentru mersul cu bicicleta.\nLa prânz urmați istoricul Canal Alaric, ale cărui poteci pe mal permit o plimbare relaxată și foarte plăcută.\nDupă-amiaza aduce o înviorare la piscină și o pauză binemeritată în verdele și umbrosul Parc Bel-Air.\nSeara este încununată de o plimbare pitorească de-a lungul râului Échez, încheind excursia într-un mod pașnic.",
+        "en": "Morning sees you exploring magnificent local churches while the streets are still uncrowded and perfect for cycling.\nMidday leads you along the historic Alaric Canal, where the flat bankside paths ensure a truly relaxed ride.\nAfternoon brings active fun at the local swimming pool and a well-deserved rest under the greenery of Parc Bel-Air.\nEvening is crowned by a highly scenic ride along the banks of the Échez, concluding the day peacefully in nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 14.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de l'Assomption",
+            "hu": "Église de l'Assomption",
+            "ro": "Église de l'Assomption",
+            "en": "Église de l'Assomption"
+          },
+          "coords": [
+            0.128633,
+            43.229393
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Osten der Stadt und parken Sie in den umliegenden Nebenstraßen, um dieses schöne Kirchengebäude in Ruhe zu besichtigen.",
+            "hu": "Kezdje a város keleti részén, és parkoljon le a környező mellékutcákban, hogy nyugodtan megtekinthesse ezt a gyönyörű egyházi épületet.",
+            "ro": "Începeți în estul orașului și parcați pe străzile lăturalnice din jur pentru a vizita în liniște această frumoasă clădire a bisericii locale.",
+            "en": "Start in the east of the town and easily park your car on the surrounding side streets to visit this beautiful local church building in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            0.104639,
+            43.228661
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Fahren Sie in das Stadtzentrum, wo Sie die beeindruckende Hauptkirche finden; nutzen Sie die Parkplätze direkt in der Nähe des Haupteingangs.",
+            "hu": "Hajtson a városközpontba, ahol a lenyűgöző főtemplom található; használja a főbejárat közvetlen közelében lévő kényelmes parkolóhelyeket.",
+            "ro": "Conduceți spre centrul orașului, unde veți găsi biserica principală impresionantă; folosiți locurile de parcare aflate chiar lângă intrarea principală.",
+            "en": "Drive into the town center where you'll find the impressive main church; make use of the convenient parking spots located directly near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.099631,
+            43.203787
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.78,
+          "tip_5lang": {
+            "de": "Besuchen Sie als nächstes dieses historische religiöse Wahrzeichen im Süden, wo in der Regel ausreichend kostenfreie Parkplätze für Besucher zur Verfügung stehen.",
+            "hu": "Ezután látogassa meg ezt a déli történelmi vallási nevezetességet, ahol általában bőséges és ingyenes parkolóhely áll a látogatók rendelkezésére.",
+            "ro": "Vizitați apoi acest reper religios istoric din sud, unde, de obicei, există o parcare gratuită și suficientă la dispoziția vizitatorilor.",
+            "en": "Next, visit this historical religious landmark located to the south, where ample free parking is usually readily available for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Orientierungstafel",
+            "hu": "Tájékozódási tábla",
+            "ro": "Masa de orientare",
+            "en": "Tâble d'orientation"
+          },
+          "coords": [
+            0.092019,
+            43.213907
+          ],
+          "category": "natural",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem Aussichtspunkt, der einen großartigen Panoramablick über die Landschaft bietet; bringen Sie eine Kamera für hervorragende Fotos mit.",
+            "hu": "Álljon meg röviden ennél a kilátópontnál, amely nagyszerű panorámát nyújt a tájra; mindenképpen hozzon magával fényképezőgépet a kiváló fotókhoz.",
+            "ro": "Opriți-vă scurt la acest punct de belvedere care oferă o panoramă superbă asupra peisajului; aduceți neapărat un aparat foto pentru fotografii excelente.",
+            "en": "Stop briefly at this viewpoint which provides a sweeping panoramic view over the wider landscape; be sure to bring a camera for excellent photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaric-Kanal",
+            "hu": "Alaric-csatorna",
+            "ro": "Canalul Alaric",
+            "en": "Alaric Canal"
+          },
+          "coords": [
+            0.113773,
+            43.221659
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Erreichen Sie die Kanalufer bequem mit dem Auto, um einen längeren Spaziergang am Wasser zu unternehmen, bevor Sie sich zum Mittagessen begeben.",
+            "hu": "Érje el kényelmesen a csatorna partját autóval, és tegyen egy hosszabb sétát a víz mellett, mielőtt a délutáni ebédet választaná.",
+            "ro": "Ajungeti cu ușurință la malul canalului cu mașina pentru a face o plimbare mai lungă pe malul apei înainte de a vă îndrepta spre masa de prânz.",
+            "en": "Access the canal banks easily by car to enjoy an extended, peaceful walk along the water right before settling down for your afternoon lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Bel-Air",
+            "hu": "Parc Bel-Air",
+            "ro": "Parc Bel-Air",
+            "en": "Parc Bel-Air"
+          },
+          "coords": [
+            0.076525,
+            43.222736
+          ],
+          "category": "park",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Parks und genießen Sie einen entspannten Nachmittag in der Natur; Bänke stehen im gesamten Gelände zur Verfügung.",
+            "hu": "Parkolja le autóját a park közelében, és élvezze a pihentető délutánt a természetben; padok a terület egészén rendelkezésre állnak a kikapcsolódáshoz.",
+            "ro": "Parcați-vă mașina lângă parc și bucurați-vă de o după-amiază relaxantă în natură; băncile sunt disponibile în toată zona pentru confortul dumneavoastră.",
+            "en": "Park your car securely near the park and enjoy a deeply relaxing afternoon surrounded by nature; plenty of benches are available throughout the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Échez",
+            "hu": "Az Échez partja",
+            "ro": "Malurile râului Échez",
+            "en": "Banks of the Échez"
+          },
+          "coords": [
+            0.056647,
+            43.247968
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.22,
+          "tip_5lang": {
+            "de": "Fahren Sie für Ihren letzten Halt zu diesen ruhigen Flussufern, wo die Natur zu einem gemütlichen Spaziergang im späten Nachmittagslicht einlädt.",
+            "hu": "Utolsó megállóként vezessen ezekhez a nyugodt folyópartokhoz, ahol a természet kényelmes sétára csábít a késő délutáni meleg fényekben.",
+            "ro": "Conduceți spre aceste maluri liniștite de râu pentru ultima oprire, unde natura vă invită la o plimbare lentă și plăcută în lumina după-amiezii târzii.",
+            "en": "Drive out to these tranquil riverbanks for your final stop, where untouched nature strongly invites you for a leisurely stroll in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr motorisierter Ausflug beginnt mit dem Besuch der prächtigen Kirchen im Osten und Zentrum, bevor Sie Saint-Pierre erkunden.\nZur Mittagszeit genießen Sie einen atemberaubenden Panoramablick und entspannen am historischen Alaric-Kanal.\nDer Nachmittag wird im wunderschönen Parc Bel-Air verbracht, wo Sie die städtische Natur voll auskosten können.\nDer Tag endet mit einer kurzen Fahrt an die Ufer des Échez, die eine perfekte, ruhige Atmosphäre bieten.",
+        "hu": "Motoros kirándulása a keleti és központi pompás templomok látogatásával kezdődik, mielőtt felfedezné a Saint-Pierre-t.\nDélben élvezze a lélegzetelállító panorámát a tájékozódási táblánál, majd pihenjen a történelmi Alaric-csatornánál.\nA délutánt a gyönyörű Parc Bel-Air-ben tölti, ahol maximálisan kiélvezheti a városi természet nyugalmát.\nA nap egy rövid autóúttal zárul az Échez partjaira, amely tökéletes, csendes légkört biztosít a befejezéshez.",
+        "ro": "Excursia dumneavoastră motorizată începe cu vizitarea magnificelor biserici din est și din centru, înainte de a explora Saint-Pierre.\nLa prânz vă bucurați de o vedere panoramică uluitoare și vă relaxați profund pe malul istoricului Canal Alaric.\nDupă-amiaza este petrecută în frumosul Parc Bel-Air, unde puteți savura din plin liniștea naturii urbane a orașului.\nZiua se încheie cu o scurtă plimbare cu mașina până pe malurile râului Échez, oferind o atmosferă perfectă, liniștită.",
+        "en": "Your driving tour begins by conveniently visiting the magnificent churches in the east and center before exploring Saint-Pierre.\nMidday treats you to breathtaking panoramic views at the orientation table before a relaxing break at the Alaric Canal.\nAfternoon is leisurely spent in the beautifully shaded Parc Bel-Air, where you can fully savor the local urban nature.\nThe day concludes with a short, pleasant drive out to the tranquil banks of the Échez, offering a perfectly quiet atmosphere."
+      }
+    }
+  }
+}

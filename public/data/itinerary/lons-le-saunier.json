@@ -1,0 +1,428 @@
+{
+  "city_id": "lons-le-saunier",
+  "anchor": {
+    "name": "Lons-le-Saunier",
+    "coords": [
+      5.5539,
+      46.6744
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Désiré Church",
+            "hu": "Saint-Désiré Church",
+            "ro": "Saint-Désiré Church",
+            "en": "Saint-Désiré Church"
+          },
+          "coords": [
+            5.5507,
+            46.6719
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite romanische Krypta dieser historischen Kirche, um den frühen lokalen Glauben zu verstehen, am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző román stílusú kriptáját, hogy megértse a korai hitéletet, érdemes kora reggel érkezni a tömeg elkerülése végett.",
+            "ro": "Admirați cripta romanică a acestei biserici istorice pentru a înțelege credința locală timpurie, cel mai bine vizitată în orele liniștite ale dimineții.",
+            "en": "Admire the exquisite Romanesque crypt of this historic church to understand early local faith, best visited in the quiet morning hours before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Sources",
+            "hu": "Les Sources",
+            "ro": "Les Sources",
+            "en": "Les Sources"
+          },
+          "coords": [
+            5.553722,
+            46.668004
+          ],
+          "category": "family",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Quellen, die der Stadt ihren Namen gaben und bringen Sie eine leere Flasche mit, um das frische Thermalwasser selbst zu probieren.",
+            "hu": "Fedezze fel az ősi forrásokat, amelyek a város nevét adták, és hozzon magával egy palackot, hogy megkóstolhassa a történelmi jelentőségű friss termálvizet.",
+            "ro": "Descoperiți izvoarele antice care au dat numele orașului, oferind o perspectivă revigorantă, și aduceți o sticlă pentru a gusta singuri apa termală.",
+            "en": "Discover the ancient springs that gave the town its name, offering a refreshing glimpse into its thermal history, and bring a bottle to taste the water yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes Lédonia",
+            "hu": "Thermes Lédonia",
+            "ro": "Thermes Lédonia",
+            "en": "Thermes Lédonia"
+          },
+          "coords": [
+            5.560554,
+            46.67185
+          ],
+          "category": "family",
+          "arrive_at": "10:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der Architektur der Belle Époque dieses berühmten Thermalbades und buchen Sie vorab eine kurze Wellnessbehandlung für das beste Erlebnis.",
+            "hu": "Pihenjen a híres termálfürdő lenyűgöző Belle Époque építészetében, és foglaljon előre egy rövid wellness-kezelést a tökéletes délelőtti feltöltődés érdekében.",
+            "ro": "Relaxați-vă în arhitectura Belle Époque a acestei renumite băi termale și rezervați-vă în avans un scurt tratament de wellness pentru a vă bucura de ambianță.",
+            "en": "Relax in the grand Belle Époque architecture of this renowned thermal bathhouse, and book a brief wellness treatment in advance to truly soak in the ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa Park (Parc des Bains)",
+            "hu": "Spa Park (Parc des Bains)",
+            "ro": "Spa Park (Parc des Bains)",
+            "en": "Spa Park (Parc des Bains)"
+          },
+          "coords": [
+            5.559548,
+            46.672828
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen, schattigen Alleen dieses weitläufigen Parks, ein perfekter Ort, um nach dem Spaziergang ein leichtes Picknick zu genießen.",
+            "hu": "Sétáljon végig e hatalmas nyilvános park buja, árnyékos sétányain, amely tökéletes hely egy könnyű piknikhez az ősfák alatt a délelőtti séta után.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc public întins, un loc perfect pentru a vă bucura de un picnic ușor sub copacii seculari după plimbare.",
+            "en": "Stroll through the lush, shaded avenues of this expansive public park, a perfect spot to enjoy a light picnic under the ancient trees after a morning of walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Fosse aux lions",
+            "hu": "Fosse aux lions",
+            "ro": "Fosse aux lions",
+            "en": "Fosse aux lions"
+          },
+          "coords": [
+            5.57496,
+            46.673964
+          ],
+          "category": "family",
+          "arrive_at": "13:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige historische Stätte, die einst Wildtiere beherbergte, und fotografieren Sie die architektonischen Relikte in der späten Nachmittagssonne.",
+            "hu": "Fedezze fel ezt az egyedülálló történelmi helyszínt, amely egykor vadon élő állatoknak adott otthont, és fotózza le az építészeti emlékeket a délutáni napfényben.",
+            "ro": "Explorați acest sit istoric unic care odinioară adăpostea animale sălbatice, servind acum ca o relicvă cel mai bine fotografiată în soarele blând al după-amiezii.",
+            "en": "Explore this unique and historic site which once housed local wildlife, now serving as an intriguing architectural relic best photographed in the soft afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der romanischen Krypta der Kirche Saint-Désiré und tauchen Sie in die Geschichte ein. Mittags spazieren Sie zu den historischen Quellen und den majestätischen Thermes Lédonia, die das Spa-Erbe der Stadt betonen. Verbringen Sie den Nachmittag damit, über die schattigen Wege des Kurparks zu schlendern. Beenden Sie Ihren Rundgang an der faszinierenden Fosse aux lions und genießen Sie die friedliche Atmosphäre des späten Nachmittags.",
+        "hu": "Kezdje a reggelt a Saint-Désiré templom ősi román kriptájának felfedezésével, magába szívva a város mély spirituális múltját. A dél az ókori vízforrásokhoz és a fenséges Thermes Lédoniához vezeti Önt, bemutatva a fürdővárosi örökséget. Töltse a délutánt a Gyógyfürdő park árnyas ösvényein barangolva a teljes feltöltődés érdekében. Zárja sétáját a lenyűgöző Fosse aux lions-nál, és élvezze a csendes késő délutáni hangulatot, mielőtt leszállna az est.",
+        "ro": "Începeți-vă dimineața explorând cripta romanică antică a bisericii Saint-Désiré, absorbind istoria spirituală profundă a orașului. La prânz vă îndreptați spre izvoarele istorice de apă și maiestuoasele Thermes Lédonia, evidențiind moștenirea balneară. Petreceți-vă după-amiaza plimbându-vă pe aleile umbrite ale Parcului Balnear pentru o relaxare supremă. Încheiați turul la fascinanta Fosse aux lions, bucurându-vă de atmosfera senină a după-amiezii.",
+        "en": "Start your morning exploring the ancient Romanesque crypt of Saint-Désiré Church, absorbing the deep spiritual history of Lons-le-Saunier. Midday leads you towards the historic water sources and the majestic Thermes Lédonia, highlighting the town's spa heritage. Spend your afternoon wandering the shady pathways of the Spa Park for ultimate relaxation. Conclude your walking tour at the intriguing Fosse aux lions, enjoying the serene late afternoon atmosphere before dusk settles in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Désiré Church",
+            "hu": "Saint-Désiré Church",
+            "ro": "Saint-Désiré Church",
+            "en": "Saint-Désiré Church"
+          },
+          "coords": [
+            5.5507,
+            46.6719
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite romanische Krypta dieser historischen Kirche, um den frühen lokalen Glauben zu verstehen, am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző román stílusú kriptáját, hogy megértse a korai hitéletet, érdemes kora reggel érkezni a tömeg elkerülése végett.",
+            "ro": "Admirați cripta romanică a acestei biserici istorice pentru a înțelege credința locală timpurie, cel mai bine vizitată în orele liniștite ale dimineții.",
+            "en": "Admire the exquisite Romanesque crypt of this historic church to understand early local faith, best visited in the quiet morning hours before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa Park (Parc des Bains)",
+            "hu": "Spa Park (Parc des Bains)",
+            "ro": "Spa Park (Parc des Bains)",
+            "en": "Spa Park (Parc des Bains)"
+          },
+          "coords": [
+            5.559548,
+            46.672828
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen, schattigen Alleen dieses weitläufigen Parks, ein perfekter Ort, um nach dem Spaziergang ein leichtes Picknick zu genießen.",
+            "hu": "Sétáljon végig e hatalmas nyilvános park buja, árnyékos sétányain, amely tökéletes hely egy könnyű piknikhez az ősfák alatt a délelőtti séta után.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc public întins, un loc perfect pentru a vă bucura de un picnic ușor sub copacii seculari după plimbare.",
+            "en": "Stroll through the lush, shaded avenues of this expansive public park, a perfect spot to enjoy a light picnic under the ancient trees after a morning of walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecole Rollet",
+            "hu": "Ecole Rollet",
+            "ro": "Ecole Rollet",
+            "en": "Ecole Rollet"
+          },
+          "coords": [
+            5.572998,
+            46.677243
+          ],
+          "category": "family",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische Fassade dieses traditionellen französischen Schulgebäudes, ein Zeugnis des Bildungserbes, das Sie direkt vom Radweg aus sehen.",
+            "hu": "Tekintse meg ennek a hagyományos francia iskolaépületnek a klasszikus homlokzatát, amely a város oktatási örökségének bizonyítéka, könnyen elérhető a kerékpárútról.",
+            "ro": "Priviți fațada clasică a acestei clădiri școlare tradiționale franceze, o dovadă a patrimoniului educațional al orașului, ușor de observat de pe traseul de biciclete.",
+            "en": "View the classic façade of this traditional French school building, a testament to the town's educational heritage, best observed quickly from your bicycle route."
+          }
+        },
+        {
+          "name": {
+            "de": "Ripley",
+            "hu": "Ripley",
+            "ro": "Ripley",
+            "en": "Ripley"
+          },
+          "coords": [
+            5.569918,
+            46.68014
+          ],
+          "category": "family",
+          "arrive_at": "11:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem charmanten Wahrzeichen der Nachbarschaft vorbei, das das alltägliche Leben zeigt, und machen Sie eine kurze Pause, um Ihre Fahrradgänge zu prüfen.",
+            "hu": "Haladjon el e bájos helyi nevezetesség mellett, amely bemutatja a mindennapi életet Lons-le-Saunier-ben, tartson egy rövid pihenőt a térkép ellenőrzésére.",
+            "ro": "Treceți pe lângă acest reper fermecător de cartier care prezintă viața de zi cu zi, făcând o scurtă pauză pentru a verifica harta și a ajusta vitezele bicicletei.",
+            "en": "Pass by this charming local neighborhood landmark that showcases everyday life in Lons-le-Saunier, taking a short break to check your map and adjust your bike gears."
+          }
+        },
+        {
+          "name": {
+            "de": "Edgar Faure",
+            "hu": "Edgar Faure",
+            "ro": "Edgar Faure",
+            "en": "Edgar Faure"
+          },
+          "coords": [
+            5.565982,
+            46.680846
+          ],
+          "category": "family",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bedeutenden Platz, der nach dem berühmten Staatsmann benannt ist, um die Architektur zu bewundern und Ihr Fahrrad kurz für eine Pause abzustellen.",
+            "hu": "Tartson szünetet ezen a híres államférfiról elnevezett jelentős téren, ahonnan remek kilátás nyílik a környező építészetre, és pihenésképpen parkolja le a kerékpárt.",
+            "ro": "Opriți-vă în această piață importantă numită după celebrul om de stat, oferind vederi minunate asupra arhitecturii, și parcați-vă scurt bicicleta pentru a vă odihni.",
+            "en": "Pause at this significant local square named after the famous statesman, offering great views of the surrounding architecture, and park your bike briefly to rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Solvan",
+            "hu": "Solvan",
+            "ro": "Solvan",
+            "en": "Solvan"
+          },
+          "coords": [
+            5.5623,
+            46.682823
+          ],
+          "category": "family",
+          "arrive_at": "13:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in diesem ruhigen Vorortparkgebiet, das ideal ist, um Ihre Muskeln zu entspannen und eine langsame Fahrt durch das Grün zu genießen.",
+            "hu": "Zárja kerékpártúráját ezen a csendes külvárosi parkterületen, amely ideális az izmok ellazítására és egy lassú, levezető tekerésre a hűsítő zöldövezetben.",
+            "ro": "Încheiați-vă turul cu bicicleta în această zonă liniștită de parc suburban, ideală pentru a vă relaxa mușchii și a vă bucura de o plimbare lentă prin verdeață.",
+            "en": "Conclude your cycling tour in this tranquil suburban park area, ideal for relaxing your muscles and enjoying a slow, reflective cool-down ride through the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Kirche Saint-Désiré, bevor Sie in der frischen Morgenluft zum weitläufigen Kurpark gleiten. Gegen Mittag radeln Sie durch die örtlichen Straßen vorbei an der Ecole Rollet und Ripley und bewundern den architektonischen Charme. Die nachmittägliche Fahrt beinhaltet einen Stopp am Edgar Faure Platz, der hervorragende Aussichten bietet. Lassen Sie die Reise ausklingen, indem Sie nach Solvan fahren, einer ruhigen Gegend, ideal für die abendliche Rast.",
+        "hu": "Indítsa kerékpáros útját a Saint-Désiré templomnál, mielőtt a reggeli friss levegőn a Gyógyfürdő park hatalmas zöldterülete felé gurulna. Dél közeledtével tekerjen végig a helyi utcákon az Ecole Rollet és a Ripley mellett, megcsodálva a mindennapi bájt. A délutáni tekerés egy kényelmes megállót tartalmaz az Edgar Faure téren, amely kiváló kilátást nyújt. Vezesse le az utat egy csendes külvárosi park, a Solvan felé haladva az esti pihenéshez.",
+        "ro": "Începeți-vă călătoria cu bicicleta la Biserica Saint-Désiré înainte de a aluneca spre spațiul verde al Parcului Balnear în aerul proaspăt. Pe măsură ce se apropie amiaza, pedalați pe străzile locale trecând de Ecole Rollet și Ripley, admirând farmecul arhitectural. Plimbarea de după-amiază include o oprire confortabilă în piața Edgar Faure, oferind vederi excelente. Încheiați-vă călătoria pedalând spre Solvan, o zonă liniștită perfectă pentru o odihnă de seară.",
+        "en": "Kick off your cycling journey at Saint-Désiré Church before gliding over to the expansive green space of the Spa Park in the crisp morning air. As midday approaches, pedal through the local streets past Ecole Rollet and Ripley, taking in the everyday architectural charm. The afternoon ride features a comfortable stop at Edgar Faure square, providing excellent viewpoints of the city center. Wind down your trip by pedaling out to Solvan, a peaceful green area perfect for an evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Désiré Church",
+            "hu": "Saint-Désiré Church",
+            "ro": "Saint-Désiré Church",
+            "en": "Saint-Désiré Church"
+          },
+          "coords": [
+            5.5507,
+            46.6719
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite romanische Krypta dieser historischen Kirche, um den frühen lokalen Glauben zu verstehen, am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző román stílusú kriptáját, hogy megértse a korai hitéletet, érdemes kora reggel érkezni a tömeg elkerülése végett.",
+            "ro": "Admirați cripta romanică a acestei biserici istorice pentru a înțelege credința locală timpurie, cel mai bine vizitată în orele liniștite ale dimineții.",
+            "en": "Admire the exquisite Romanesque crypt of this historic church to understand early local faith, best visited in the quiet morning hours before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Solvan",
+            "hu": "Solvan",
+            "ro": "Solvan",
+            "en": "Solvan"
+          },
+          "coords": [
+            5.5623,
+            46.682823
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt hier in diesem ruhigen Vorortparkgebiet, das ideal ist, um Ihre Beine zu strecken und einen langsamen Spaziergang durch das Grün zu genießen.",
+            "hu": "Tegyen egy pihentető sétát ezen a csendes külvárosi parkterületen, amely ideális az izmok ellazítására és egy rövid feltöltődésre a kellemes zöldövezetben.",
+            "ro": "Bucurați-vă de o oprire în această zonă liniștită de parc suburban, ideală pentru a vă întinde picioarele și a vă bucura de o scurtă plimbare prin verdeață.",
+            "en": "Enjoy a brief driving stop at this tranquil suburban park area, ideal for stretching your legs and taking a refreshing, reflective walk through the local greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "425 Offenbourg",
+            "hu": "425 Offenbourg",
+            "ro": "425 Offenbourg",
+            "en": "425 Offenbourg"
+          },
+          "coords": [
+            5.570803,
+            46.678342
+          ],
+          "category": "family",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem symbolischen Ort vorbei, der die Städtepartnerschaft feiert, und suchen Sie nach einem Parkplatz in der Nähe, um ein schnelles Foto zu machen.",
+            "hu": "Haladjon el a város testvérvárosi kapcsolatát ünneplő szimbolikus helyszín mellett, és keressen egy közeli utcai parkolót egy gyors és emlékezetes fénykép elkészítéséhez.",
+            "ro": "Conduceți pe lângă acest sit simbolic care celebrează relația de înfrățire a orașelor și căutați o parcare stradală în apropiere pentru a face o fotografie rapidă.",
+            "en": "Drive by this symbolic site celebrating the town's twin-city relationship, reflecting European unity, and look for nearby street parking to snap a quick photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa Park (Parc des Bains)",
+            "hu": "Spa Park (Parc des Bains)",
+            "ro": "Spa Park (Parc des Bains)",
+            "en": "Spa Park (Parc des Bains)"
+          },
+          "coords": [
+            5.559548,
+            46.672828
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen, schattigen Alleen dieses weitläufigen Parks, ein perfekter Ort, um nach der Fahrt ein leichtes Picknick zu genießen.",
+            "hu": "Sétáljon végig e hatalmas nyilvános park buja, árnyékos sétányain, amely tökéletes hely egy könnyű piknikhez az ősfák alatt a kényelmes autózás után.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc public întins, un loc perfect pentru a vă bucura de un picnic ușor sub copacii seculari după călătoria cu mașina.",
+            "en": "Stroll through the lush, shaded avenues of this expansive public park, a perfect spot to enjoy a light picnic under the ancient trees after your morning drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Lons-le-Saunier Thermal Baths",
+            "hu": "Lons-le-Saunier Thermal Baths",
+            "ro": "Lons-le-Saunier Thermal Baths",
+            "en": "Lons-le-Saunier Thermal Baths"
+          },
+          "coords": [
+            5.612439,
+            46.662807
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem großen modernen Thermalkomplex, der leicht mit dem Auto erreichbar ist und über ausreichend Parkplätze für Nachmittagsbesucher verfügt.",
+            "hu": "Töltődjön fel teljesen ebben a nagy, modern termálkomplexumban, amely könnyen megközelíthető autóval, és bőséges parkolóval rendelkezik a délutáni látogatók számára.",
+            "ro": "Relaxați-vă complet la acest mare complex termal modern, ușor accesibil cu mașina, cu o parcare amplă disponibilă pentru vizitatorii de după-amiază.",
+            "en": "Unwind completely at this large modern thermal complex located further from the center, easily accessible by car with ample parking available for afternoon visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt zentral mit der historischen Kirche Saint-Désiré, bevor Sie nach Norden fahren, um das friedliche Viertel Solvan zu erkunden. Mittags passieren Sie das symbolträchtige Monument 425 Offenbourg, das lokales Leben mit europäischer Geschichte verbindet. Am Nachmittag parken Sie am großen Kurpark für einen erfrischenden Spaziergang. Schließlich machen Sie eine kurze Fahrt zu den großen Thermalbädern für ein entspannendes abendliches Bad.",
+        "hu": "Az autós nap a történelmi Saint-Désiré templomnál kezdődik, mielőtt északra indulna, hogy felfedezze Solvan csendes környékét. Délben elhalad a szimbolikus 425 Offenbourg emlékmű mellett, amely a helyi életet az európai történelemmel ötvözi. Délután parkoljon le a nagyszerű Gyógyfürdő park közelében egy frissítő sétára a fák között. Végül tegyen egy rövid utat a nagy termálfürdőhöz egy alaposan pihentető esti elmerüléshez.",
+        "ro": "Ziua cu mașina începe cu o vizită la Biserica istorică Saint-Désiré înainte de a vă îndrepta spre nord pentru a explora cartierul Solvan. La prânz treceți pe lângă monumentul simbolic 425 Offenbourg, îmbinând istoria europeană. După-amiaza, parcați lângă marele Parc Balnear pentru o plimbare revigorantă printre copacii săi istorici. În cele din urmă, faceți o scurtă călătorie până la marile Băi Termale pentru o baie relaxantă de seară.",
+        "en": "Your driving day begins centrally with a visit to the historic Saint-Désiré Church before heading north to explore the peaceful neighborhood of Solvan. Midday takes you past the symbolic 425 Offenbourg monument, blending local life with European history. In the afternoon, park near the grand Spa Park for a refreshing stroll among its historic trees and statues. Finally, take a short drive to the large Lons-le-Saunier Thermal Baths for a thoroughly relaxing evening soak."
+      }
+    }
+  }
+}

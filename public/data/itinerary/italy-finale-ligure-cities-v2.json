@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-finale-ligure-cities-v2",
+  "anchor": {
+    "name": "Finale Ligure",
+    "coords": [
+      8.3436,
+      44.16952
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Azzurra",
+            "hu": "Bagni Azzurra",
+            "ro": "Bagni Azzurra",
+            "en": "Bagni Azzurra"
+          },
+          "coords": [
+            8.342692,
+            44.167577
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und das ruhige Wasser der Bagni Azzurra, also kommen Sie früh, um sich eine erstklassige Sonnenliege direkt am Ufer zu sichern.",
+            "hu": "Élvezze a Bagni Azzurra aranyhomokos partját és nyugodt vizét, ezért érdemes korán érkezni, hogy a legjobb napágyakat foglalhassa el közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de nisipul auriu și apele calme de la Bagni Azzurra, un loc perfect de relaxare, deci ajungeți devreme pentru un șezlong bun la malul mării.",
+            "en": "Enjoy the golden sands and calm waters of Bagni Azzurra, a perfect spot for morning relaxation, so arrive early to secure a prime sunbed right near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Nautico",
+            "hu": "Bagni Nautico",
+            "ro": "Bagni Nautico",
+            "en": "Bagni Nautico"
+          },
+          "coords": [
+            8.351148,
+            44.169944
+          ],
+          "category": "recreational",
+          "arrive_at": "10:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bagni Nautico bietet hervorragende Annehmlichkeiten und eine familienfreundliche Atmosphäre, bringen Sie also Ihre Schnorchelausrüstung mit für das klare Wasser.",
+            "hu": "A Bagni Nautico kiváló szolgáltatásokat és családbarát légkört kínál, ezért hozzon magával búvárfelszerelést a kristálytiszta tengervíz felfedezéséhez is.",
+            "ro": "Bagni Nautico oferă facilități excelente și o atmosferă prietenoasă cu familiile, așa că aduceți echipamentul de snorkeling pentru a explora apele limpezi.",
+            "en": "Bagni Nautico offers excellent amenities and a family-friendly atmosphere that makes it a local favorite, so bring your snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido",
+            "hu": "Bagni Lido",
+            "ro": "Bagni Lido",
+            "en": "Bagni Lido"
+          },
+          "coords": [
+            8.35453,
+            44.170527
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Küstenatmosphäre in den Bagni Lido mit gepflegten Anlagen, was es ideal macht, um eine Cabana für eine schattige Mittagspause zu mieten.",
+            "hu": "Tapasztalja meg a Bagni Lido élénk tengerparti hangulatát és gyönyörű kilátását, és béreljen egy privát kabint, hogy kényelmesen hűsölhessen a déli hőségben.",
+            "ro": "Experimentați atmosfera vibrantă de coastă la Bagni Lido cu priveliștile sale frumoase, fiind ideal să închiriați o cabină pentru o pauză umbrită la prânz.",
+            "en": "Experience the vibrant coastal vibe at Bagni Lido where well-maintained facilities meet beautiful views, making it ideal to rent a cabana for a shaded midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni River Beach",
+            "hu": "Bagni River Beach",
+            "ro": "Bagni River Beach",
+            "en": "Bagni River Beach"
+          },
+          "coords": [
+            8.357322,
+            44.171601
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bagni River Beach verbindet erfrischende Mittelmeerbrisen mit einem breiten Sandstrand, also holen Sie sich ein kühles Getränk vom Kiosk vor dem Schwimmen.",
+            "hu": "A Bagni River Beach frissítő mediterrán szellővel és széles, érintetlen homokos parttal várja önt, így érdemes a kioszkból egy hideg italt kérni úszás előtt.",
+            "ro": "Bagni River Beach îmbină briza mediteraneană cu o plajă largă de nisip, deci luați o băutură rece și răcoritoare de la chioșc înainte de a face o baie.",
+            "en": "Bagni River Beach blends refreshing Mediterranean breezes with a wide stretch of pristine sand, so grab a refreshing cold drink from the kiosk before taking a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera",
+            "hu": "Spiaggia libera",
+            "ro": "Spiaggia libera",
+            "en": "Spiaggia libera"
+          },
+          "coords": [
+            8.365945,
+            44.173353
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am freien öffentlichen Strand mit unverbautem Panorama der ligurischen Küste, aber bringen Sie unbedingt Ihr eigenes Handtuch und einen Schirm mit.",
+            "hu": "Pihenjen az ingyenes szabadstrandon, ahonnan zavartalan panoráma nyílik a ligur tengerpartra, de ne felejtse el magával hozni saját törölközőjét és napernyőjét.",
+            "ro": "Relaxați-vă pe plaja publică gratuită, unde vă puteți bucura de panorama coastei, dar asigurați-vă că aduceți propriul prosop și o umbrelă pentru umbră.",
+            "en": "Relax on the free public beach where you can enjoy an unobstructed panorama of the Ligurian coast, but be sure to bring your own towel and umbrella for shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie den weichen Sand von Finale Ligure spüren. Die frische ligurische Brise sorgt für einen perfekten Start in den Tag.\n\nWechseln Sie mittags zu den belebteren Stränden. Genießen Sie lokale Snacks, während Sie den beruhigenden Wellen lauschen.\n\nVerbringen Sie den Nachmittag damit, die Küste zu erkunden, mieten Sie ein Board oder sonnen Sie sich einfach.\n\nSuchen Sie sich am Abend ein friedliches Plätzchen für den Sonnenuntergang und beenden Sie den Tag mit einem kühlen Gelato oder einem erfrischenden Getränk am Meer.",
+        "hu": "Kezdje a reggelt Finale Ligure puha homokjával a talpa alatt. A friss ligur szellő tökéletes alaphangot ad az Ön előtt álló pihentető tengerparti napnak.\n\nDélben sétáljon át a nyüzsgő központi strandokra. Szánjon időt a helyi tengeri falatok megkóstolására, miközben a hullámzást hallgatja.\n\nA délutánt töltse a part mentén haladva, béreljen vízibiciklit vagy csak élvezze a kellemes napsütést.\n\nEste keressen egy csendes helyet a lenyűgöző naplemente megtekintéséhez, és zárja a napot egy hűsítő olasz fagylalttal vagy itallal.",
+        "ro": "Începeți dimineața simțind nisipul moale din Finale Ligure. Briza proaspătă oferă tonul perfect pentru o zi relaxantă pe plajele superbe ale coastei.\n\nLa prânz, mergeți spre plajele centrale pline de viață. Savurați gustări locale în timp ce ascultați valurile liniștitoare ale mării.\n\nPetreceți după-amiaza explorând coasta mai departe, poate închiriind o placă sau pur și simplu bucurându-vă de soare.\n\nSeara, găsiți un loc liniștit pentru a privi apusul, încheind această zi perfectă cu o înghețată delicioasă sau o băutură răcoritoare.",
+        "en": "Start your morning feeling the soft sand of Finale Ligure beneath your toes. The fresh Ligurian breeze sets a perfect tone for a relaxing day ahead.\n\nBy midday, transition towards the bustling central beaches. Take time to enjoy local seaside snacks while listening to the soothing waves.\n\nSpend your afternoon exploring slightly further down the coast, perhaps renting a paddleboard or just soaking up the sun.\n\nAs evening approaches, find a peaceful spot to watch the sun dip below the horizon, capping off the day with a cool gelato or a refreshing drink."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Europa",
+            "hu": "Bagni Europa",
+            "ro": "Bagni Europa",
+            "en": "Bagni Europa"
+          },
+          "coords": [
+            8.309261,
+            44.15744
+          ],
+          "category": "recreational",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag an den Bagni Europa, um die weite Küste zu genießen und profitieren Sie von der hervorragenden Kaffeebar am frühen Morgen.",
+            "hu": "Kezdje a kerékpáros napot a Bagni Europánál, hogy kiélvezze a széles partot, és használja ki a kiváló kora reggeli kávézó nyújtotta frissítő lehetőségeket.",
+            "ro": "Începeți ziua de ciclism la Bagni Europa pentru a vă bucura de litoralul vast și profitați de excelentul lor bar de cafea de la primele ore ale dimineții.",
+            "en": "Start your cycling day at Bagni Europa to enjoy the vast sandy shoreline and peaceful western views, taking advantage of their excellent early-morning coffee bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Azzurra",
+            "hu": "Bagni Azzurra",
+            "ro": "Bagni Azzurra",
+            "en": "Bagni Azzurra"
+          },
+          "coords": [
+            8.342692,
+            44.167577
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und das ruhige Wasser der Bagni Azzurra, also kommen Sie früh, um sich eine erstklassige Sonnenliege direkt am Ufer zu sichern.",
+            "hu": "Élvezze a Bagni Azzurra aranyhomokos partját és nyugodt vizét, ezért érdemes korán érkezni, hogy a legjobb napágyakat foglalhassa el közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de nisipul auriu și apele calme de la Bagni Azzurra, un loc perfect de relaxare, deci ajungeți devreme pentru un șezlong bun la malul mării.",
+            "en": "Enjoy the golden sands and calm waters of Bagni Azzurra, a perfect spot for morning relaxation, so arrive early to secure a prime sunbed right near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Vittorio Veneto",
+            "hu": "Bagni Vittorio Veneto",
+            "ro": "Bagni Vittorio Veneto",
+            "en": "Bagni Vittorio Veneto"
+          },
+          "coords": [
+            8.353565,
+            44.170469
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bagni Vittorio Veneto ist bekannt für tadellosen Service und elegante Strandkörbe, also gönnen Sie sich einen frischen Meeresfrüchte-Snack im Restaurant.",
+            "hu": "A Bagni Vittorio Veneto kifogástalan szolgáltatásairól és elegáns napágyairól híres, ezért érdemes megkóstolni a helyi tengeri falatokat a tengerparti éttermükben.",
+            "ro": "Bagni Vittorio Veneto este renumit pentru serviciile impecabile și șezlongurile elegante, așa că savurați o gustare proaspătă din fructe de mare la restaurant.",
+            "en": "Bagni Vittorio Veneto is renowned for its impeccable service and elegant beach chairs, so treat yourself to a fresh local seafood snack at their seaside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Castelletto beach",
+            "hu": "Bagni Castelletto beach",
+            "ro": "Bagni Castelletto beach",
+            "en": "Bagni Castelletto beach"
+          },
+          "coords": [
+            8.35876,
+            44.171878
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vor der atemberaubenden Kulisse der Küstenstadt ist der Strand der Bagni Castelletto ein perfekter Stopp, der sich ideal zum Mieten eines Stand-Up-Paddleboards eignet.",
+            "hu": "A festői kisváros hátterével rendelkező Bagni Castelletto partja tökéletes helyszín a fotózásra, és kiváló lehetőség egy állószörf bérlésére a délután folyamán.",
+            "ro": "Cu un fundal uimitor al orașului de coastă, plaja Bagni Castelletto este un popas pitoresc, fiind locul ideal pentru a închiria un stand-up paddleboard aici.",
+            "en": "Set against a stunning backdrop of the coastal town, Bagni Castelletto beach is a perfect picturesque stop, making it ideal to rent a stand-up paddleboard here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Gabbiano",
+            "hu": "Bagni Gabbiano",
+            "ro": "Bagni Gabbiano",
+            "en": "Bagni Gabbiano"
+          },
+          "coords": [
+            8.363621,
+            44.172961
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Bagni Gabbiano bieten feinen Sand und kristallklares Wasser zum Schwimmen, also bitten Sie das Personal, Ihre Liege für die beste Brise zu positionieren.",
+            "hu": "A Bagni Gabbiano kristálytiszta vizével és finom homokjával ideális az úszáshoz, kérje meg a barátságos személyzetet, hogy a legjobb szélirányba állítsa ágyát.",
+            "ro": "Bagni Gabbiano are nisip curat și ape cristaline ideale pentru înot, așa că rugați personalul prietenos să vă așeze șezlongul pentru a prinde cea mai bună briză.",
+            "en": "Bagni Gabbiano features pristine sand and crystal clear waters ideal for swimming, so ask the friendly staff to help you position your sunbed for the best breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni San Donato",
+            "hu": "Bagni San Donato",
+            "ro": "Bagni San Donato",
+            "en": "Bagni San Donato"
+          },
+          "coords": [
+            8.364714,
+            44.173137
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an den Bagni San Donato mit herrlichem Blick auf die Küste am Abend, wo der Sonnenuntergang mit einem traditionellen italienischen Gelato ein Muss ist.",
+            "hu": "Zárja a túrát a Bagni San Donato csodás esti kilátásaival, ahol a naplemente megtekintése közben egy hagyományos olasz fagylalt elfogyasztása szinte kötelező.",
+            "ro": "Încheiați plimbarea la Bagni San Donato, oferind vederi minunate de seară, unde privitul apusului cu o înghețată italiană tradițională este o experiență de neratat.",
+            "en": "Wrap up your ride at Bagni San Donato, offering lovely evening coastal views and soft sand, where watching the sunset with a traditional Italian gelato is a must."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie den weichen Sand von Finale Ligure spüren. Die frische ligurische Brise sorgt für einen perfekten Start in den Tag.\n\nWechseln Sie mittags zu den belebteren Stränden. Genießen Sie lokale Snacks, während Sie den beruhigenden Wellen lauschen.\n\nVerbringen Sie den Nachmittag damit, die Küste zu erkunden, mieten Sie ein Board oder sonnen Sie sich einfach.\n\nSuchen Sie sich am Abend ein friedliches Plätzchen für den Sonnenuntergang und beenden Sie den Tag mit einem kühlen Gelato oder einem erfrischenden Getränk am Meer.",
+        "hu": "Kezdje a reggelt Finale Ligure puha homokjával a talpa alatt. A friss ligur szellő tökéletes alaphangot ad az Ön előtt álló pihentető tengerparti napnak.\n\nDélben sétáljon át a nyüzsgő központi strandokra. Szánjon időt a helyi tengeri falatok megkóstolására, miközben a hullámzást hallgatja.\n\nA délutánt töltse a part mentén haladva, béreljen vízibiciklit vagy csak élvezze a kellemes napsütést.\n\nEste keressen egy csendes helyet a lenyűgöző naplemente megtekintéséhez, és zárja a napot egy hűsítő olasz fagylalttal vagy itallal.",
+        "ro": "Începeți dimineața simțind nisipul moale din Finale Ligure. Briza proaspătă oferă tonul perfect pentru o zi relaxantă pe plajele superbe ale coastei.\n\nLa prânz, mergeți spre plajele centrale pline de viață. Savurați gustări locale în timp ce ascultați valurile liniștitoare ale mării.\n\nPetreceți după-amiaza explorând coasta mai departe, poate închiriind o placă sau pur și simplu bucurându-vă de soare.\n\nSeara, găsiți un loc liniștit pentru a privi apusul, încheind această zi perfectă cu o înghețată delicioasă sau o băutură răcoritoare.",
+        "en": "Start your morning feeling the soft sand of Finale Ligure beneath your toes. The fresh Ligurian breeze sets a perfect tone for a relaxing day ahead.\n\nBy midday, transition towards the bustling central beaches. Take time to enjoy local seaside snacks while listening to the soothing waves.\n\nSpend your afternoon exploring slightly further down the coast, perhaps renting a paddleboard or just soaking up the sun.\n\nAs evening approaches, find a peaceful spot to watch the sun dip below the horizon, capping off the day with a cool gelato or a refreshing drink."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 10.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Lina",
+            "hu": "Bagni Lina",
+            "ro": "Bagni Lina",
+            "en": "Bagni Lina"
+          },
+          "coords": [
+            8.291253,
+            44.152055
+          ],
+          "category": "recreational",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Etwas abseits im Westen versteckt, bieten die Bagni Lina einen ruhigen Rückzugsort am Meer, der der perfekte Ort ist, um das Auto zu parken und ein gutes Buch zu lesen.",
+            "hu": "A nyugati szakaszon megbújó Bagni Lina nyugodt menedéket nyújt a tömeg elől, így ez a tökéletes hely arra, hogy leparkoljon és elolvasson egy jó könyvet a parton.",
+            "ro": "Ascuns în secțiunea de vest, Bagni Lina oferă o evadare liniștită pe litoral departe de aglomerație, fiind locul perfect pentru a parca mașina și a citi o carte.",
+            "en": "Tucked away in the western stretch, Bagni Lina provides a tranquil seaside escape away from crowds, making it the perfect spot to park your car and read a good book."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Gianno",
+            "hu": "Bagni Gianno",
+            "ro": "Bagni Gianno",
+            "en": "Bagni Gianno"
+          },
+          "coords": [
+            8.294915,
+            44.153548
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Bagni Gianno sind berühmt für ihre sauberen Küsten und die entspannte Atmosphäre, zögern Sie also nicht, mit den Einheimischen eine Runde Beachvolleyball zu spielen.",
+            "hu": "A Bagni Gianno kivételesen tiszta partjáról és nyugodt családi légköréről híres, ezért bátran csatlakozzon a helyiekhez egy barátságos strandröplabda meccsre.",
+            "ro": "Bagni Gianno este faimos pentru țărmurile sale curate și ambianța relaxată, așa că nu ezitați să vă alăturați unui joc de volei pe plajă cu localnicii.",
+            "en": "Bagni Gianno is famous for its exceptionally clean shores and relaxed family ambiance, so don't hesitate to join a quick game of beach volleyball with the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Europa",
+            "hu": "Bagni Europa",
+            "ro": "Bagni Europa",
+            "en": "Bagni Europa"
+          },
+          "coords": [
+            8.309261,
+            44.15744
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag an den Bagni Europa, um die weite Küste zu genießen und profitieren Sie von der hervorragenden Kaffeebar am frühen Morgen.",
+            "hu": "Kezdje a kerékpáros napot a Bagni Europánál, hogy kiélvezze a széles partot, és használja ki a kiváló kora reggeli kávézó nyújtotta frissítő lehetőségeket.",
+            "ro": "Începeți ziua de ciclism la Bagni Europa pentru a vă bucura de litoralul vast și profitați de excelentul lor bar de cafea de la primele ore ale dimineții.",
+            "en": "Start your cycling day at Bagni Europa to enjoy the vast sandy shoreline and peaceful western views, taking advantage of their excellent early-morning coffee bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Boncardo",
+            "hu": "Bagni Boncardo",
+            "ro": "Bagni Boncardo",
+            "en": "Bagni Boncardo"
+          },
+          "coords": [
+            8.352256,
+            44.170186
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Im Zentrum gelegen, verbinden die Bagni Boncardo historischen Charme mit modernem Spaß, also nutzen Sie die hervorragenden Umkleidekabinen vor dem Stadtbummel.",
+            "hu": "A pezsgő központban található Bagni Boncardo a történelmi bájt modern szórakozással ötvözi, így érdemes kihasználni a kiváló öltözőiket városnézés előtt.",
+            "ro": "Situat în centrul plin de viață, Bagni Boncardo îmbină farmecul istoric cu distracția, așa că folosiți vestiarele lor excelente înainte de a merge în oraș.",
+            "en": "Located in the bustling center, Bagni Boncardo pairs historic beachside charm with modern fun, so use their excellent changing facilities before hitting the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Est Finale",
+            "hu": "Bagni Est Finale",
+            "ro": "Bagni Est Finale",
+            "en": "Bagni Est Finale"
+          },
+          "coords": [
+            8.360018,
+            44.172088
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bagni Est Finale ist ein energiegeladener Ort an der ligurischen See, was ihn wunderbar macht, um sich für den Nachmittag ein kleines Tretboot zu mieten.",
+            "hu": "A Bagni Est Finale egy energikus helyszín, ahol a kék tenger mossa a partot, és csodás lehetőséget biztosít arra, hogy egy vízibiciklit béreljenek délutánra.",
+            "ro": "Bagni Est Finale este un loc plin de energie pe litoralul Mării Ligurice, fiind minunat pentru a închiria o mică hidrobicicletă pentru întreaga după-amiază.",
+            "en": "Bagni Est Finale is an energetic spot where the deep blue Ligurian sea crashes against the shore, making it wonderful to rent a small pedal boat for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera",
+            "hu": "Spiaggia libera",
+            "ro": "Spiaggia libera",
+            "en": "Spiaggia libera"
+          },
+          "coords": [
+            8.365945,
+            44.173353
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am freien öffentlichen Strand mit unverbautem Panorama der ligurischen Küste, aber bringen Sie unbedingt Ihr eigenes Handtuch und einen Schirm mit.",
+            "hu": "Pihenjen az ingyenes szabadstrandon, ahonnan zavartalan panoráma nyílik a ligur tengerpartra, de ne felejtse el magával hozni saját törölközőjét és napernyőjét.",
+            "ro": "Relaxați-vă pe plaja publică gratuită, unde vă puteți bucura de panorama coastei, dar asigurați-vă că aduceți propriul prosop și o umbrelă pentru umbră.",
+            "en": "Relax on the free public beach where you can enjoy an unobstructed panorama of the Ligurian coast, but be sure to bring your own towel and umbrella for shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie den weichen Sand von Finale Ligure spüren. Die frische ligurische Brise sorgt für einen perfekten Start in den Tag.\n\nWechseln Sie mittags zu den belebteren Stränden. Genießen Sie lokale Snacks, während Sie den beruhigenden Wellen lauschen.\n\nVerbringen Sie den Nachmittag damit, die Küste zu erkunden, mieten Sie ein Board oder sonnen Sie sich einfach.\n\nSuchen Sie sich am Abend ein friedliches Plätzchen für den Sonnenuntergang und beenden Sie den Tag mit einem kühlen Gelato oder einem erfrischenden Getränk am Meer.",
+        "hu": "Kezdje a reggelt Finale Ligure puha homokjával a talpa alatt. A friss ligur szellő tökéletes alaphangot ad az Ön előtt álló pihentető tengerparti napnak.\n\nDélben sétáljon át a nyüzsgő központi strandokra. Szánjon időt a helyi tengeri falatok megkóstolására, miközben a hullámzást hallgatja.\n\nA délutánt töltse a part mentén haladva, béreljen vízibiciklit vagy csak élvezze a kellemes napsütést.\n\nEste keressen egy csendes helyet a lenyűgöző naplemente megtekintéséhez, és zárja a napot egy hűsítő olasz fagylalttal vagy itallal.",
+        "ro": "Începeți dimineața simțind nisipul moale din Finale Ligure. Briza proaspătă oferă tonul perfect pentru o zi relaxantă pe plajele superbe ale coastei.\n\nLa prânz, mergeți spre plajele centrale pline de viață. Savurați gustări locale în timp ce ascultați valurile liniștitoare ale mării.\n\nPetreceți după-amiaza explorând coasta mai departe, poate închiriind o placă sau pur și simplu bucurându-vă de soare.\n\nSeara, găsiți un loc liniștit pentru a privi apusul, încheind această zi perfectă cu o înghețată delicioasă sau o băutură răcoritoare.",
+        "en": "Start your morning feeling the soft sand of Finale Ligure beneath your toes. The fresh Ligurian breeze sets a perfect tone for a relaxing day ahead.\n\nBy midday, transition towards the bustling central beaches. Take time to enjoy local seaside snacks while listening to the soothing waves.\n\nSpend your afternoon exploring slightly further down the coast, perhaps renting a paddleboard or just soaking up the sun.\n\nAs evening approaches, find a peaceful spot to watch the sun dip below the horizon, capping off the day with a cool gelato or a refreshing drink."
+      }
+    }
+  }
+}

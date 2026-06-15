@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-amposta-cities-v2",
+  "anchor": {
+    "name": "Amposta",
+    "coords": [
+      0.57856,
+      40.70995
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercat Municipal d'Amposta",
+            "hu": "Mercat Municipal d'Amposta",
+            "ro": "Mercat Municipal d'Amposta",
+            "en": "Mercat Municipal d'Amposta"
+          },
+          "coords": [
+            0.578487,
+            40.712307
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit frischen Produkten aus dem Ebro-Delta und kommen Sie früh, um die beste Auswahl an Meeresfrüchten zu finden.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot az Ebro-delta friss termékeivel, és érkezzen korán, hogy a legjobb regionális tengeri herkentyűkből válogathasson.",
+            "ro": "Explorați piața locală vibrantă cu produse proaspete din delta Ebrului și sosiți devreme pentru a găsi cea mai bună selecție de fructe de mare regionale.",
+            "en": "Explore the vibrant local market featuring fresh Ebro delta produce, and be sure to arrive early for the best selection of regional seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Espais de La Lira Ampostina",
+            "hu": "Espais de La Lira Ampostina",
+            "ro": "Espais de La Lira Ampostina",
+            "en": "Espais de La Lira Ampostina"
+          },
+          "coords": [
+            0.577756,
+            40.711107
+          ],
+          "category": "cultural",
+          "arrive_at": "10:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefen musikalischen Wurzeln Ampostas in diesem Zentrum, wo ein Blick auf den Spielplan Sie vielleicht mit einer Aufführung belohnt.",
+            "hu": "Ismerje meg Amposta zenei gyökereit ebben a történelmi központban, ahol az aktuális műsorfüzet áttekintése után akár egy élő előadást is elcsíphet.",
+            "ro": "Descoperiți rădăcinile muzicale din Amposta la acest centru cultural istoric, unde verificarea programului vă poate oferi șansa unui spectacol live.",
+            "en": "Discover Amposta's deep musical roots at this historic cultural center, where checking their schedule might reward you with a live performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lo Pati. Centre d'Art Terres de l'Ebre",
+            "hu": "Lo Pati. Centre d'Art Terres de l'Ebre",
+            "ro": "Lo Pati. Centre d'Art Terres de l'Ebre",
+            "en": "Lo Pati. Centre d'Art Terres de l'Ebre"
+          },
+          "coords": [
+            0.576544,
+            40.7092
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie in diesem modernen Raum zeitgenössische Kunst mit regionalem Bezug und verpassen Sie nicht die temporären Multimedia-Ausstellungen.",
+            "hu": "Csodálja meg a régióhoz kötődő kortárs művészetet ebben a modern térben, és semmiképp ne hagyja ki az izgalmas időszaki multimédiás kiállításokat.",
+            "ro": "Admirați arta contemporană legată de regiunea locală în acest spațiu modern și nu ratați fascinantele expoziții multimedia temporare.",
+            "en": "Admire contemporary art deeply connected to the local region in this modern space, and don't miss their fascinating temporary multimedia exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            0.581296,
+            40.713086
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser Hauptpfarrkirche und treten Sie leise ein, um das friedliche und stimmungsvolle Innere zu schätzen.",
+            "hu": "Csodálja meg a főplébániatemplom gyönyörű építészetét, és lépjen be csendben, hogy megtapasztalja annak békés, igazán hangulatos belső terét.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale principale, având grijă să intrați în liniște pentru a aprecia interiorul său pașnic.",
+            "en": "Marvel at the beautiful architecture of this main parish church, making sure to step inside quietly to appreciate its peaceful, atmospheric interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Amposta",
+            "hu": "Castell d'Amposta",
+            "ro": "Castell d'Amposta",
+            "en": "Castell d'Amposta"
+          },
+          "coords": [
+            0.580636,
+            40.71457
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie mittelalterliche Geschichte in diesen Burgruinen über dem Fluss, wobei festes Schuhwerk bei den unebenen Steinen sehr hilfreich ist.",
+            "hu": "Fedezze fel a középkori történelmet a folyóra néző várromoknál, ahol a kényelmes túracipő viselése sokat segít az egyenetlen köveken való sétálásban.",
+            "ro": "Descoperiți istoria medievală la aceste ruine de castel deasupra râului, unde încălțămintea rezistentă vă va ajuta să pășiți pe pietrele inegale.",
+            "en": "Uncover medieval history at these old castle ruins overlooking the river, where wearing sturdy walking shoes will help you navigate the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Penjat d'Amposta",
+            "hu": "Pont Penjat d'Amposta",
+            "ro": "Pont Penjat d'Amposta",
+            "en": "Pont Penjat d'Amposta"
+          },
+          "coords": [
+            0.581702,
+            40.714876
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Hängebrücke für einen tollen Blick auf den Ebro, aber halten Sie Ihren Hut fest, da es oft ziemlich windig sein kann.",
+            "hu": "Sétáljon át az ikonikus függőhídon az Ebro folyóra nyíló lenyűgöző kilátásért, de vigyázzon a kalapjára, mert a nyílt víz felett gyakran szeles az idő.",
+            "ro": "Traversați acest pod suspendat iconic pentru o priveliște superbă asupra râului Ebro, dar țineți-vă pălăria deoarece poate fi destul de vântos.",
+            "en": "Cross this iconic suspension bridge for stunning views of the Ebro river, but hold onto your hat as it can get quite windy out over the open water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Mercat Municipal, wo die frischen Aromen des Ebro-Deltas erwachen, gefolgt von einer Dosis Musikgeschichte im Zentrum La Lira Ampostina. Am späten Vormittag tauchen Sie im Lo Pati tief in die moderne Kunst der Region ein, die zum Nachdenken anregt. Der Nachmittag steht im Zeichen der Geschichte: Besuchen Sie die Kirche Santa Maria und erkunden Sie die Ruinen des Castell d'Amposta, die majestätisch über den Fluss blicken. Den perfekten Abschluss bildet ein entspannter Spaziergang über die ikonische Hängebrücke, den Pont Penjat.",
+        "hu": "Kezdje a napot a nyüzsgő Mercat Municipal piacán, ahol az Ebro-delta friss ízei fogadják, majd fedezze fel a La Lira Ampostina zenei történelmét. A késő délelőtt folyamán a Lo Pati modern művészeti központjában elmerülhet a helyi kötődésű, kortárs alkotások izgalmas világában. Délután a történelemé a főszerep: látogasson el a Santa Maria templomba, majd barangoljon a folyóra néző Castell d'Amposta várromjainál. A napot a folyó felett átívelő, ikonikus Pont Penjat függőhíd lenyűgöző látványával és frissítő szellőjével zárhatja.",
+        "ro": "Începeți ziua la animata Piață Municipală, unde prind viață aromele deltei Ebrului, urmată de o doză de istorie muzicală la La Lira Ampostina. Către prânz, scufundați-vă în arta contemporană a regiunii la spațiul modern Lo Pati. După-amiaza este dedicată istoriei bogate: vizitați biserica Santa Maria și explorați fascinantele ruine ale Castelului Amposta, care domină malurile râului. Ziua se încheie perfect cu o plimbare peste podul suspendat Pont Penjat, admirând curgerea lină a apei sub cerul serii.",
+        "en": "Start your day at the lively Mercat Municipal, where the fresh flavors of the Ebro Delta come alive, followed by a dose of musical history at La Lira Ampostina. By late morning, immerse yourself in the region's contemporary art scene at the modern Lo Pati center. The afternoon is dedicated to rich history: visit the Santa Maria church and explore the fascinating ruins of Castell d'Amposta overlooking the riverbanks. Cap off your day with a breathtaking stroll across the iconic Pont Penjat suspension bridge as the sun begins to set."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 2.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc dels Xiribecs",
+            "hu": "Parc dels Xiribecs",
+            "ro": "Parc dels Xiribecs",
+            "en": "Parc dels Xiribecs"
+          },
+          "coords": [
+            0.583192,
+            40.70473
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen, grünen Stadtpark, der der perfekte Ort für ein ruhiges Picknick oder zum Spielen für die Kinder ist.",
+            "hu": "Pihenjen meg ebben a tágas és zöld városi parkban, amely tökéletes helyszínt biztosít egy csendes piknikhez vagy a délutáni játékhoz a gyerekeknek.",
+            "ro": "Relaxați-vă în acest parc urban spațios plin de verdeață, fiind locul perfect pentru un picnic liniștit sau pentru ca cei mici să se joace în voie.",
+            "en": "Relax in this spacious urban park filled with greenery, making it the perfect spot to enjoy a quiet picnic or let children play in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Església del Sagrat Cor",
+            "hu": "Església del Sagrat Cor",
+            "ro": "Església del Sagrat Cor",
+            "en": "Església del Sagrat Cor"
+          },
+          "coords": [
+            0.577613,
+            40.706031
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um die ruhigere Seite des spirituellen Lebens zu erleben und ihre elegant schlichte Architektur zu bewundern.",
+            "hu": "Látogasson el ebbe a békés templomba, hogy megtapasztalja a város csendesebb arcát, és csodálja meg annak elegánsan egyszerű, modern építészetét.",
+            "ro": "Vizitați această biserică senină pentru a experimenta latura mai liniștită a vieții spirituale a orașului și admirați arhitectura sa elegantă.",
+            "en": "Visit this serene church to experience the quieter side of the city's spiritual life, and take a moment to admire its elegantly simple architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça de la Festa i la Cultura del Bou",
+            "hu": "Plaça de la Festa i la Cultura del Bou",
+            "ro": "Plaça de la Festa i la Cultura del Bou",
+            "en": "Plaça de la Festa i la Cultura del Bou"
+          },
+          "coords": [
+            0.572067,
+            40.709398
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erfahren Sie auf diesem Platz mehr über die lokalen Stiertraditionen, wo Informationstafeln einzigartige regionale Festlichkeiten näher erläutern.",
+            "hu": "Ismerje meg a helyi bika-hagyományokat ezen a jelentős téren, ahol az információs táblák olvasása során egyedülálló regionális ünnepekről tanulhat.",
+            "ro": "Aflați despre tradițiile locale cu tauri în această piață importantă, unde plăcile informative dezvăluie detalii despre festivitățile regionale unice.",
+            "en": "Learn about local bull traditions at this culturally significant square, where reading the informational plaques reveals unique regional festivities."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Josep",
+            "hu": "Església de Sant Josep",
+            "ro": "Església de Sant Josep",
+            "en": "Església de Sant Josep"
+          },
+          "coords": [
+            0.575532,
+            40.713712
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre Details zu bewundern, und planen Sie Ihren Besuch außerhalb der Gottesdienste für einen ruhigen Blick.",
+            "hu": "Lépjen be ebbe a történelmi templomba, és figyelje meg annak különleges építészeti részleteit egy olyan időpontban, amikor éppen nincs mise.",
+            "ro": "Pășiți în această biserică istorică pentru a observa detaliile arhitecturale, planificându-vă vizita în afara slujbelor pentru o privire liniștită.",
+            "en": "Step inside this historic church to observe its distinct architectural details, planning your visit outside of service times for a closer, quiet look."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercat Municipal d'Amposta",
+            "hu": "Mercat Municipal d'Amposta",
+            "ro": "Mercat Municipal d'Amposta",
+            "en": "Mercat Municipal d'Amposta"
+          },
+          "coords": [
+            0.578487,
+            40.712307
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit frischen Produkten aus dem Ebro-Delta und kommen Sie früh, um die beste Auswahl an Meeresfrüchten zu finden.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot az Ebro-delta friss termékeivel, és érkezzen korán, hogy a legjobb regionális tengeri herkentyűkből válogathasson.",
+            "ro": "Explorați piața locală vibrantă cu produse proaspete din delta Ebrului și sosiți devreme pentru a găsi cea mai bună selecție de fructe de mare regionale.",
+            "en": "Explore the vibrant local market featuring fresh Ebro delta produce, and be sure to arrive early for the best selection of regional seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Amposta",
+            "hu": "Castell d'Amposta",
+            "ro": "Castell d'Amposta",
+            "en": "Castell d'Amposta"
+          },
+          "coords": [
+            0.580636,
+            40.71457
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Entdecken Sie mittelalterliche Geschichte in diesen Burgruinen über dem Fluss, wobei festes Schuhwerk bei den unebenen Steinen sehr hilfreich ist.",
+            "hu": "Fedezze fel a középkori történelmet a folyóra néző várromoknál, ahol a kényelmes túracipő viselése sokat segít az egyenetlen köveken való sétálásban.",
+            "ro": "Descoperiți istoria medievală la aceste ruine de castel deasupra râului, unde încălțămintea rezistentă vă va ajuta să pășiți pe pietrele inegale.",
+            "en": "Uncover medieval history at these old castle ruins overlooking the river, where wearing sturdy walking shoes will help you navigate the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Penjat d'Amposta",
+            "hu": "Pont Penjat d'Amposta",
+            "ro": "Pont Penjat d'Amposta",
+            "en": "Pont Penjat d'Amposta"
+          },
+          "coords": [
+            0.581702,
+            40.714876
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Hängebrücke für einen tollen Blick auf den Ebro, aber halten Sie Ihren Hut fest, da es oft ziemlich windig sein kann.",
+            "hu": "Sétáljon át az ikonikus függőhídon az Ebro folyóra nyíló lenyűgöző kilátásért, de vigyázzon a kalapjára, mert a nyílt víz felett gyakran szeles az idő.",
+            "ro": "Traversați acest pod suspendat iconic pentru o priveliște superbă asupra râului Ebro, dar țineți-vă pălăria deoarece poate fi destul de vântos.",
+            "en": "Cross this iconic suspension bridge for stunning views of the Ebro river, but hold onto your hat as it can get quite windy out over the open water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie entspannt mit dem Fahrrad im grünen Parc dels Xiribecs, bevor Sie zur friedlichen Kirche Sagrat Cor radeln, um die morgendliche Stille zu genießen. Gegen Mittag führt Sie die Route zur Plaça de la Festa und weiter zur Kirche Sant Josep, wo sich lokaler Glaube und spannende Traditionen vereinen. Am Nachmittag stärken Sie sich mit lokalen Eindrücken auf dem Mercat Municipal und radeln dann weiter zu den historischen Überresten des Castell d'Amposta. Der Tag endet auf dem Pont Penjat, von wo aus Sie den herrlichen Blick auf den Ebro genießen.",
+        "hu": "Indítsa a napot egy kellemes kerékpározással a zöldellő Parc dels Xiribecs parkban, majd tekerjen el a csendes Sagrat Cor templomhoz egy kis reggeli elmélkedésre. Délben az útvonal a Plaça de la Festa térhez, majd a Sant Josep templomhoz vezet, ahol a helyi hagyományok és a vallási építészet találkozik. Délután élvezze a Mercat Municipal nyüzsgő hangulatát, majd fedezze fel az egykori dicső Castell d'Amposta várromjait. A kerékpáros túra a fenséges Pont Penjat függőhídnál ér véget, megcsodálva az Ebro folyót.",
+        "ro": "Începeți relaxat pe bicicletă în verdele Parc dels Xiribecs, înainte de a pedala către liniștita biserică Sagrat Cor pentru a savura liniștea dimineții. La prânz, traseul vă poartă spre Plaça de la Festa și mai departe spre biserica Sant Josep, îmbinând arhitectura cu tradițiile locale unice. După-amiaza, absorbiți atmosfera vibrantă de la Mercat Municipal, apoi pedalați spre ruinele istorice ale Castelului Amposta cu vedere la râu. Ziua se termină magistral la podul Pont Penjat, oferind o perspectivă de neuitat asupra râului Ebro.",
+        "en": "Kick off your cycling tour with a relaxing ride through the lush Parc dels Xiribecs, followed by a quiet morning visit to the serene Sagrat Cor church. Midday brings you to the culturally rich Plaça de la Festa and the historical Sant Josep church, blending local traditions with classic architecture. In the afternoon, soak up the vibrant atmosphere of the Mercat Municipal before pedaling to the ancient ruins of Castell d'Amposta. Your ride concludes brilliantly at the Pont Penjat, offering sweeping views of the grand Ebro River."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de la Candela",
+            "hu": "Torre de la Candela",
+            "ro": "Torre de la Candela",
+            "en": "Torre de la Candela"
+          },
+          "coords": [
+            0.59056,
+            40.723042
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten Wachturm, der die Region einst vor Piraten schützte, und besuchen Sie ihn am frühen Morgen für das beste Fotolicht.",
+            "hu": "Csodálja meg ezt az ősi őrtornyot, amely egykor a kalózoktól védte a régiót, és érkezzen kora reggel a legkiválóbb fotózási fényviszonyok érdekében.",
+            "ro": "Admirați acest vechi turn de veghe care apăra cândva regiunea de pirați, cel mai bine vizitat dimineața devreme pentru cea mai bună lumină fotografică.",
+            "en": "Admire this ancient watchtower that once guarded the region against pirates, best visited early in the morning for the most striking photographic light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Penjat d'Amposta",
+            "hu": "Pont Penjat d'Amposta",
+            "ro": "Pont Penjat d'Amposta",
+            "en": "Pont Penjat d'Amposta"
+          },
+          "coords": [
+            0.581702,
+            40.714876
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Hängebrücke für einen tollen Blick auf den Ebro, aber halten Sie Ihren Hut fest, da es oft ziemlich windig sein kann.",
+            "hu": "Sétáljon át az ikonikus függőhídon az Ebro folyóra nyíló lenyűgöző kilátásért, de vigyázzon a kalapjára, mert a nyílt víz felett gyakran szeles az idő.",
+            "ro": "Traversați acest pod suspendat iconic pentru o priveliște superbă asupra râului Ebro, dar țineți-vă pălăria deoarece poate fi destul de vântos.",
+            "en": "Cross this iconic suspension bridge for stunning views of the Ebro river, but hold onto your hat as it can get quite windy out over the open water."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Amposta",
+            "hu": "Castell d'Amposta",
+            "ro": "Castell d'Amposta",
+            "en": "Castell d'Amposta"
+          },
+          "coords": [
+            0.580636,
+            40.71457
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie mittelalterliche Geschichte in diesen Burgruinen über dem Fluss, wobei festes Schuhwerk bei den unebenen Steinen sehr hilfreich ist.",
+            "hu": "Fedezze fel a középkori történelmet a folyóra néző várromoknál, ahol a kényelmes túracipő viselése sokat segít az egyenetlen köveken való sétálásban.",
+            "ro": "Descoperiți istoria medievală la aceste ruine de castel deasupra râului, unde încălțămintea rezistentă vă va ajuta să pășiți pe pietrele inegale.",
+            "en": "Uncover medieval history at these old castle ruins overlooking the river, where wearing sturdy walking shoes will help you navigate the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça de la Pau",
+            "hu": "Plaça de la Pau",
+            "ro": "Plaça de la Pau",
+            "en": "Plaça de la Pau"
+          },
+          "coords": [
+            0.583343,
+            40.712637
+          ],
+          "category": "park",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause auf diesem zentralen Platz, der als lokaler Treffpunkt gilt, und nutzen Sie die Chance für einen Kaffee und zum Beobachten.",
+            "hu": "Tartson egy rövid pihenőt ezen a helyiek találkozóhelyeként ismert központi téren, amely kiváló lehetőséget nyújt egy gyors kávéra és nézelődésre.",
+            "ro": "Faceți o scurtă pauză în această piață centrală, punct de întâlnire pentru localnici, oferind o ocazie excelentă de a savura o cafea și a privi.",
+            "en": "Take a brief rest in this central square known as a meeting point for locals, providing a great opportunity to grab a quick coffee and people-watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercat Municipal d'Amposta",
+            "hu": "Mercat Municipal d'Amposta",
+            "ro": "Mercat Municipal d'Amposta",
+            "en": "Mercat Municipal d'Amposta"
+          },
+          "coords": [
+            0.578487,
+            40.712307
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den lebhaften Markt mit frischen Produkten aus dem Ebro-Delta und kommen Sie früh, um die beste Auswahl an Meeresfrüchten zu finden.",
+            "hu": "Fedezze fel a nyüzsgő helyi piacot az Ebro-delta friss termékeivel, és érkezzen korán, hogy a legjobb regionális tengeri herkentyűkből válogathasson.",
+            "ro": "Explorați piața locală vibrantă cu produse proaspete din delta Ebrului și sosiți devreme pentru a găsi cea mai bună selecție de fructe de mare regionale.",
+            "en": "Explore the vibrant local market featuring fresh Ebro delta produce, and be sure to arrive early for the best selection of regional seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Arxiu Comarcal del Montsià",
+            "hu": "Arxiu Comarcal del Montsià",
+            "ro": "Arxiu Comarcal del Montsià",
+            "en": "Arxiu Comarcal del Montsià"
+          },
+          "coords": [
+            0.571974,
+            40.704905
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte dieses faszinierenden Archivs ein und fragen Sie das freundliche Personal nach den aktuellen Ausstellungen.",
+            "hu": "Merüljön el a régió mély történelmében ebben a lenyűgöző levéltárban, és feltétlenül kérdezze meg a személyzetet az aktuális kiállításokról.",
+            "ro": "Pătrundeți în istoria regională profundă păstrată în această arhivă fascinantă și asigurați-vă că întrebați personalul despre expozițiile actuale.",
+            "en": "Dive into the deep regional history stored within this fascinating local archive, making sure to ask the staff about current historical exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc dels Xiribecs",
+            "hu": "Parc dels Xiribecs",
+            "ro": "Parc dels Xiribecs",
+            "en": "Parc dels Xiribecs"
+          },
+          "coords": [
+            0.583192,
+            40.70473
+          ],
+          "category": "park",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen, grünen Stadtpark, der der perfekte Ort für ein ruhiges Picknick oder zum Spielen für die Kinder ist.",
+            "hu": "Pihenjen meg ebben a tágas és zöld városi parkban, amely tökéletes helyszínt biztosít egy csendes piknikhez vagy a délutáni játékhoz a gyerekeknek.",
+            "ro": "Relaxați-vă în acest parc urban spațios plin de verdeață, fiind locul perfect pentru un picnic liniștit sau pentru ca cei mici să se joace în voie.",
+            "en": "Relax in this spacious urban park filled with greenery, making it the perfect spot to enjoy a quiet picnic or let children play in the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen zum alten Wachturm Torre de la Candela, bevor Sie Ihr Auto nahe dem Pont Penjat parken und die atemberaubende Sicht auf den Fluss bewundern. Gegen Mittag schlendern Sie durch die historischen Ruinen des Castell d'Amposta und machen eine kurze, entspannte Pause auf der belebten Plaça de la Pau. Nachmittags erwartet Sie der Trubel des Mercat Municipal und ein faszinierender Einblick in die Regionalgeschichte im Arxiu Comarcal del Montsià. Beenden Sie diesen erlebnisreichen Tag mit einem gemütlichen Abend im weitläufigen Parc dels Xiribecs.",
+        "hu": "Autózzon el kora reggel a történelmi Torre de la Candela őrtoronyhoz, majd parkoljon le a Pont Penjat közelében, hogy megcsodálja a folyóra nyíló kilátást. Dél körül tegyen egy sétát a Castell d'Amposta ősi várromjai között, majd tartson egy rövid, frissítő pihenőt a nyüzsgő Plaça de la Pau téren. Délután fedezze fel a Mercat Municipal helyi ízeit és színeit, majd merüljön el a régió múltjában az Arxiu Comarcal levéltárában. Ezt a tartalmas napot a tágas Parc dels Xiribecs zöldellő, nyugodt környezetében zárhatja.",
+        "ro": "Conduceți dimineața către vechiul turn de veghe Torre de la Candela, apoi parcați aproape de Pont Penjat pentru a admira panorama grandioasă a râului. În preajma prânzului, explorați ruinele încărcate de istorie ale Castelului Amposta și faceți o scurtă oprire relaxantă în centrala Plaça de la Pau. După-amiaza vă așteaptă atmosfera animată de la Piața Municipală și o lecție fascinantă de istorie la Arhiva Comarcală. Încheiați această zi plină de descoperiri cu o plimbare reconfortantă prin verdele Parc dels Xiribecs.",
+        "en": "Drive out early to the historic Torre de la Candela watchtower before parking near the magnificent Pont Penjat to admire the expansive river views. Around midday, explore the ancient stone ruins of Castell d'Amposta and then take a brief, relaxing break in the bustling Plaça de la Pau. In the afternoon, immerse yourself in local flavors at the Mercat Municipal and delve into deep regional history at the Arxiu Comarcal. Wind down your comprehensive city tour with a peaceful evening walk through the extensive Parc dels Xiribecs."
+      }
+    }
+  }
+}

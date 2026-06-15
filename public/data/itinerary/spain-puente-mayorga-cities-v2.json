@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-puente-mayorga-cities-v2",
+  "anchor": {
+    "name": "Puente Mayorga",
+    "coords": [
+      -5.38608,
+      36.18118
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alcaldía de Puente Mayorga",
+            "hu": "Alcaldía de Puente Mayorga",
+            "ro": "Alcaldía de Puente Mayorga",
+            "en": "Alcaldía de Puente Mayorga"
+          },
+          "coords": [
+            -5.385531,
+            36.181744
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Verwaltungszentrum der Stadt, indem Sie die klassische Architektur bewundern, und probieren Sie einen Espresso in den nahegelegenen Cafés.",
+            "hu": "Fedezze fel a város közigazgatási központját, megcsodálva a klasszikus építészetet, majd igyon egy finom reggeli eszpresszót a közeli, hangulatos helyi kávézókban.",
+            "ro": "Descoperiți centrul administrativ al orașului admirând arhitectura sa clasică și savurați un espresso matinal rapid la cafenelele locale din imediata apropiere.",
+            "en": "Discover the administrative heart of the town by admiring the Alcaldía's classic architecture, and don't miss the nearby local cafes for a quick morning espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Fallecidos por la Explosión",
+            "hu": "Fallecidos por la Explosión",
+            "ro": "Fallecidos por la Explosión",
+            "en": "Fallecidos por la Explosión"
+          },
+          "coords": [
+            -5.388571,
+            36.180669
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal, das die Opfer der Explosion ehrt, und lesen Sie die Tafeln, um die unglaubliche Widerstandsfähigkeit der Gemeinde zu spüren.",
+            "hu": "Álljon meg egy pillanatra ennél az ünnepélyes emlékműnél, amely a robbanás áldozatait tiszteli, és olvassa el az emléktáblákat, hogy megértse a közösség erejét.",
+            "ro": "Opriți-vă la acest memorial istoric solemn care onorează victimele exploziei și citiți plăcile pentru a înțelege pe deplin reziliența profundă a comunității.",
+            "en": "Pause at this solemn historical memorial honoring the victims of the local explosion, and read the plaques to fully grasp the deep resilience of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Puente Mayorga-Campamento",
+            "hu": "Playa de Puente Mayorga-Campamento",
+            "ro": "Playa de Puente Mayorga-Campamento",
+            "en": "Playa de Puente Mayorga-Campamento"
+          },
+          "coords": [
+            -5.382987,
+            36.178207
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem Strand entlang, um die Meeresbrise zu genießen, und packen Sie ein leichtes Picknick ein, während Sie die Schiffe beobachten.",
+            "hu": "Sétáljon végig ezen a pihentető tengerparti szakaszon, élvezze a hűs tengeri szellőt, és vigyen magával egy könnyű pikniket, miközben az öböl hajóit figyeli.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje relaxante pentru a vă bucura de briza mării și luați un picnic ușor pentru a-l savura în timp ce priviți navele din golf.",
+            "en": "Stroll along this relaxing recreational beach area to enjoy the coastal breeze, and pack a light picnic to savor while watching the ships pass in the busy bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Campamento",
+            "hu": "Campamento",
+            "ro": "Campamento",
+            "en": "Campamento"
+          },
+          "coords": [
+            -5.379752,
+            36.180083
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende historische Lager, das die militärische Vergangenheit zeigt, und tragen Sie bequeme Wanderschuhe für das leicht unebene Gelände.",
+            "hu": "Fedezze fel ezt a történelmi táborhelyet, amely bemutatja a katonai múltat, és viseljen kényelmes sétacipőt, mivel a terep ezen a környéken kissé egyenetlen lehet.",
+            "ro": "Explorați această zonă istorică a taberei care prezintă trecutul militar și purtați pantofi confortabili de mers în timp ce navigați pe terenul ușor denivelat.",
+            "en": "Explore this significant historical encampment area that showcases military past, and wear comfortable walking shoes as you navigate the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Misiles Hawk",
+            "hu": "Misiles Hawk",
+            "ro": "Misiles Hawk",
+            "en": "Misiles Hawk"
+          },
+          "coords": [
+            -5.377071,
+            36.1815
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese historischen Raketen aus der Nähe an, um die Verteidigung im Kalten Krieg zu verstehen, und bringen Sie eine Kamera für tolle Kontrastbilder mit.",
+            "hu": "Tekintse meg közelről ezeket a történelmi rakétákat, hogy megértse a hidegháborús védelmet, és hozzon fényképezőgépet, hogy megörökítse az égbolt békés kontrasztját.",
+            "ro": "Vedeți de aproape aceste rachete militare istorice pentru a înțelege apărarea din Războiul Rece și aduceți o cameră pentru a surprinde contrastul cu cerul pașnic.",
+            "en": "View these authentic historic military missiles up close to understand cold war era defenses, and bring a camera to capture the contrast with the peaceful sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Erkundung des Zentrums, bewundern Sie historische Verwaltungsgebäude und lernen Sie die bewegte Vergangenheit durch Denkmäler kennen.\n\nMidday: Wenn die Sonne höher steht, begeben Sie sich an die Küste. Genießen Sie die beruhigende Meeresbrise und den Anblick der Boote, die durch die weite Bucht fahren.\n\nAfternoon: Tauchen Sie tiefer in die faszinierende Militärgeschichte der Region ein. Wandeln Sie zwischen echten Überresten der Verteidigungssysteme aus dem Kalten Krieg.\n\nEvening: Beenden Sie Ihre Reise mit den weiten Ausblicken auf den Sonnenuntergang von den lokalen Aussichtspunkten, die den ruhigen Charme der andalusischen Küstenstadt widerspiegeln.",
+        "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
+        "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
+        "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Romano de Carteia",
+            "hu": "Teatro Romano de Carteia",
+            "ro": "Teatro Romano de Carteia",
+            "en": "Teatro Romano de Carteia"
+          },
+          "coords": [
+            -5.406794,
+            36.185686
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in die Antike und schlendern Sie durch die Ruinen dieses römischen Theaters. Kommen Sie am besten früh, um die große Hitze zu meiden.",
+            "hu": "Lépjen vissza az ókori történelembe ezen a római színház romjain sétálva, és érkezzen korán reggel, hogy elkerülje a rendkívül intenzív, déli andalúziai hőséget.",
+            "ro": "Pășiți în istoria antică plimbându-vă prin ruinele acestui teatru roman și sosiți devreme dimineața pentru a evita căldura andaluză deosebit de intensă la prânz.",
+            "en": "Step back into ancient history by walking through the ruins of this Roman theater, and arrive early in the morning to avoid the intense midday Andalusian heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Bahía",
+            "hu": "Mirador de la Bahía",
+            "ro": "Mirador de la Bahía",
+            "en": "Mirador de la Bahía"
+          },
+          "coords": [
+            -5.407044,
+            36.180996
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht von diesem natürlichen Aussichtspunkt und nehmen Sie ein Fernglas mit, um ferne Schiffe zu sehen.",
+            "hu": "Élvezze az öbölre nyíló lenyűgöző panorámát ebből a természetes kilátóból, és használjon távcsövet, ha a távoli tengeri vagy kikötői tevékenységeket akarja látni.",
+            "ro": "Admirați vederile panoramice uimitoare ale golfului din acest punct de observație natural și folosiți binoclul dacă doriți să observați activitatea maritimă distantă.",
+            "en": "Take in the stunning panoramic views of the bay from this lovely natural viewpoint, and use a pair of binoculars if you want to spot distant maritime activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Fallecidos por la Explosión",
+            "hu": "Fallecidos por la Explosión",
+            "ro": "Fallecidos por la Explosión",
+            "en": "Fallecidos por la Explosión"
+          },
+          "coords": [
+            -5.388571,
+            36.180669
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal, das die Opfer der Explosion ehrt, und lesen Sie die Tafeln, um die unglaubliche Widerstandsfähigkeit der Gemeinde zu spüren.",
+            "hu": "Álljon meg egy pillanatra ennél az ünnepélyes emlékműnél, amely a robbanás áldozatait tiszteli, és olvassa el az emléktáblákat, hogy megértse a közösség erejét.",
+            "ro": "Opriți-vă la acest memorial istoric solemn care onorează victimele exploziei și citiți plăcile pentru a înțelege pe deplin reziliența profundă a comunității.",
+            "en": "Pause at this solemn historical memorial honoring the victims of the local explosion, and read the plaques to fully grasp the deep resilience of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Puente Mayorga-Campamento",
+            "hu": "Playa de Puente Mayorga-Campamento",
+            "ro": "Playa de Puente Mayorga-Campamento",
+            "en": "Playa de Puente Mayorga-Campamento"
+          },
+          "coords": [
+            -5.382987,
+            36.178207
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem Strand entlang, um die Meeresbrise zu genießen, und packen Sie ein leichtes Picknick ein, während Sie die Schiffe beobachten.",
+            "hu": "Sétáljon végig ezen a pihentető tengerparti szakaszon, élvezze a hűs tengeri szellőt, és vigyen magával egy könnyű pikniket, miközben az öböl hajóit figyeli.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje relaxante pentru a vă bucura de briza mării și luați un picnic ușor pentru a-l savura în timp ce priviți navele din golf.",
+            "en": "Stroll along this relaxing recreational beach area to enjoy the coastal breeze, and pack a light picnic to savor while watching the ships pass in the busy bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Campamento",
+            "hu": "Campamento",
+            "ro": "Campamento",
+            "en": "Campamento"
+          },
+          "coords": [
+            -5.379752,
+            36.180083
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende historische Lager, das die militärische Vergangenheit zeigt, und tragen Sie bequeme Wanderschuhe für das leicht unebene Gelände.",
+            "hu": "Fedezze fel ezt a történelmi táborhelyet, amely bemutatja a katonai múltat, és viseljen kényelmes sétacipőt, mivel a terep ezen a környéken kissé egyenetlen lehet.",
+            "ro": "Explorați această zonă istorică a taberei care prezintă trecutul militar și purtați pantofi confortabili de mers în timp ce navigați pe terenul ușor denivelat.",
+            "en": "Explore this significant historical encampment area that showcases military past, and wear comfortable walking shoes as you navigate the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Misiles Hawk",
+            "hu": "Misiles Hawk",
+            "ro": "Misiles Hawk",
+            "en": "Misiles Hawk"
+          },
+          "coords": [
+            -5.377071,
+            36.1815
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese historischen Raketen aus der Nähe an, um die Verteidigung im Kalten Krieg zu verstehen, und bringen Sie eine Kamera für tolle Kontrastbilder mit.",
+            "hu": "Tekintse meg közelről ezeket a történelmi rakétákat, hogy megértse a hidegháborús védelmet, és hozzon fényképezőgépet, hogy megörökítse az égbolt békés kontrasztját.",
+            "ro": "Vedeți de aproape aceste rachete militare istorice pentru a înțelege apărarea din Războiul Rece și aduceți o cameră pentru a surprinde contrastul cu cerul pașnic.",
+            "en": "View these authentic historic military missiles up close to understand cold war era defenses, and bring a camera to capture the contrast with the peaceful sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Rocamar",
+            "hu": "Mirador Rocamar",
+            "ro": "Mirador Rocamar",
+            "en": "Mirador Rocamar"
+          },
+          "coords": [
+            -5.370006,
+            36.168883
+          ],
+          "category": "natural",
+          "arrive_at": "16:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem Aussichtspunkt am Rande der Stadt für einen Sonnenuntergang und bringen Sie eine leichte Jacke mit, da die Abendbrise kühl wird.",
+            "hu": "Pihenjen meg ezen a festői tengerparti kilátóponton a békés naplemente idején, és hozzon magával egy könnyű kabátot, mivel az esti tengeri szellő hűvös lehet.",
+            "ro": "Relaxați-vă la acest punct de belvedere pitoresc pentru un apus de soare pașnic și aduceți o jachetă ușoară, deoarece briza mării de seară poate deveni rece.",
+            "en": "Relax at this scenic coastal viewpoint at the edge of the town for a peaceful sunset, and bring a light jacket as the evening sea breeze can get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Erkundung des Zentrums, bewundern Sie historische Verwaltungsgebäude und lernen Sie die bewegte Vergangenheit durch Denkmäler kennen.\n\nMidday: Wenn die Sonne höher steht, begeben Sie sich an die Küste. Genießen Sie die beruhigende Meeresbrise und den Anblick der Boote, die durch die weite Bucht fahren.\n\nAfternoon: Tauchen Sie tiefer in die faszinierende Militärgeschichte der Region ein. Wandeln Sie zwischen echten Überresten der Verteidigungssysteme aus dem Kalten Krieg.\n\nEvening: Beenden Sie Ihre Reise mit den weiten Ausblicken auf den Sonnenuntergang von den lokalen Aussichtspunkten, die den ruhigen Charme der andalusischen Küstenstadt widerspiegeln.",
+        "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
+        "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
+        "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 5.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Yacimiento Arqueologico Romano Carteia",
+            "hu": "Yacimiento Arqueologico Romano Carteia",
+            "ro": "Yacimiento Arqueologico Romano Carteia",
+            "en": "Yacimiento Arqueologico Romano Carteia"
+          },
+          "coords": [
+            -5.409216,
+            36.185094
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die archäologischen Ruinen von Carteia ein, um den alten Handel zu entdecken, und engagieren Sie am Eingang einen lokalen Führer für mehr Kontext.",
+            "hu": "Merüljön el Carteia hatalmas régészeti romjaiban az ókori kereskedelem felfedezéséhez, és fogadjon fel egy helyi idegenvezetőt a bejáratnál a gazdagabb élményért.",
+            "ro": "Cufundați-vă în ruinele arheologice extinse din Carteia pentru a descoperi comerțul antic și angajați un ghid local la intrare pentru un context mult mai bogat.",
+            "en": "Immerse yourself in the extensive archaeological ruins of Carteia to discover ancient trade, and hire a local guide at the entrance for richer context and facts."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano de Carteia",
+            "hu": "Teatro Romano de Carteia",
+            "ro": "Teatro Romano de Carteia",
+            "en": "Teatro Romano de Carteia"
+          },
+          "coords": [
+            -5.406794,
+            36.185686
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in die Antike und schlendern Sie durch die Ruinen dieses römischen Theaters. Kommen Sie am besten früh, um die große Hitze zu meiden.",
+            "hu": "Lépjen vissza az ókori történelembe ezen a római színház romjain sétálva, és érkezzen korán reggel, hogy elkerülje a rendkívül intenzív, déli andalúziai hőséget.",
+            "ro": "Pășiți în istoria antică plimbându-vă prin ruinele acestui teatru roman și sosiți devreme dimineața pentru a evita căldura andaluză deosebit de intensă la prânz.",
+            "en": "Step back into ancient history by walking through the ruins of this Roman theater, and arrive early in the morning to avoid the intense midday Andalusian heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Bahía",
+            "hu": "Mirador de la Bahía",
+            "ro": "Mirador de la Bahía",
+            "en": "Mirador de la Bahía"
+          },
+          "coords": [
+            -5.407044,
+            36.180996
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht von diesem natürlichen Aussichtspunkt und nehmen Sie ein Fernglas mit, um ferne Schiffe zu sehen.",
+            "hu": "Élvezze az öbölre nyíló lenyűgöző panorámát ebből a természetes kilátóból, és használjon távcsövet, ha a távoli tengeri vagy kikötői tevékenységeket akarja látni.",
+            "ro": "Admirați vederile panoramice uimitoare ale golfului din acest punct de observație natural și folosiți binoclul dacă doriți să observați activitatea maritimă distantă.",
+            "en": "Take in the stunning panoramic views of the bay from this lovely natural viewpoint, and use a pair of binoculars if you want to spot distant maritime activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcaldía de Puente Mayorga",
+            "hu": "Alcaldía de Puente Mayorga",
+            "ro": "Alcaldía de Puente Mayorga",
+            "en": "Alcaldía de Puente Mayorga"
+          },
+          "coords": [
+            -5.385531,
+            36.181744
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Verwaltungszentrum der Stadt, indem Sie die klassische Architektur bewundern, und probieren Sie einen Espresso in den nahegelegenen Cafés.",
+            "hu": "Fedezze fel a város közigazgatási központját, megcsodálva a klasszikus építészetet, majd igyon egy finom reggeli eszpresszót a közeli, hangulatos helyi kávézókban.",
+            "ro": "Descoperiți centrul administrativ al orașului admirând arhitectura sa clasică și savurați un espresso matinal rapid la cafenelele locale din imediata apropiere.",
+            "en": "Discover the administrative heart of the town by admiring the Alcaldía's classic architecture, and don't miss the nearby local cafes for a quick morning espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Puente Mayorga-Campamento",
+            "hu": "Playa de Puente Mayorga-Campamento",
+            "ro": "Playa de Puente Mayorga-Campamento",
+            "en": "Playa de Puente Mayorga-Campamento"
+          },
+          "coords": [
+            -5.382987,
+            36.178207
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem Strand entlang, um die Meeresbrise zu genießen, und packen Sie ein leichtes Picknick ein, während Sie die Schiffe beobachten.",
+            "hu": "Sétáljon végig ezen a pihentető tengerparti szakaszon, élvezze a hűs tengeri szellőt, és vigyen magával egy könnyű pikniket, miközben az öböl hajóit figyeli.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje relaxante pentru a vă bucura de briza mării și luați un picnic ușor pentru a-l savura în timp ce priviți navele din golf.",
+            "en": "Stroll along this relaxing recreational beach area to enjoy the coastal breeze, and pack a light picnic to savor while watching the ships pass in the busy bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Misiles Hawk",
+            "hu": "Misiles Hawk",
+            "ro": "Misiles Hawk",
+            "en": "Misiles Hawk"
+          },
+          "coords": [
+            -5.377071,
+            36.1815
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese historischen Raketen aus der Nähe an, um die Verteidigung im Kalten Krieg zu verstehen, und bringen Sie eine Kamera für tolle Kontrastbilder mit.",
+            "hu": "Tekintse meg közelről ezeket a történelmi rakétákat, hogy megértse a hidegháborús védelmet, és hozzon fényképezőgépet, hogy megörökítse az égbolt békés kontrasztját.",
+            "ro": "Vedeți de aproape aceste rachete militare istorice pentru a înțelege apărarea din Războiul Rece și aduceți o cameră pentru a surprinde contrastul cu cerul pașnic.",
+            "en": "View these authentic historic military missiles up close to understand cold war era defenses, and bring a camera to capture the contrast with the peaceful sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Rocamar",
+            "hu": "Mirador Rocamar",
+            "ro": "Mirador Rocamar",
+            "en": "Mirador Rocamar"
+          },
+          "coords": [
+            -5.370006,
+            36.168883
+          ],
+          "category": "natural",
+          "arrive_at": "16:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem Aussichtspunkt am Rande der Stadt für einen Sonnenuntergang und bringen Sie eine leichte Jacke mit, da die Abendbrise kühl wird.",
+            "hu": "Pihenjen meg ezen a festői tengerparti kilátóponton a békés naplemente idején, és hozzon magával egy könnyű kabátot, mivel az esti tengeri szellő hűvös lehet.",
+            "ro": "Relaxați-vă la acest punct de belvedere pitoresc pentru un apus de soare pașnic și aduceți o jachetă ușoară, deoarece briza mării de seară poate deveni rece.",
+            "en": "Relax at this scenic coastal viewpoint at the edge of the town for a peaceful sunset, and bring a light jacket as the evening sea breeze can get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalet Villa María Luisa",
+            "hu": "Chalet Villa María Luisa",
+            "ro": "Chalet Villa María Luisa",
+            "en": "Chalet Villa María Luisa"
+          },
+          "coords": [
+            -5.366875,
+            36.168049
+          ],
+          "category": "historical",
+          "arrive_at": "16:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz dieser historischen Strandvilla und nehmen Sie sich Zeit, um durch die ruhigen Wohnstraßen der Umgebung zu schlendern.",
+            "hu": "Csodálja meg e történelmi tengerparti villa jellegzetes, elegáns építészetét, és szánjon időt arra, hogy tegyen egy lassú sétát a csendes lakóutcák környékén.",
+            "ro": "Admirați eleganța arhitecturală distinctă a acestei vile istorice de la malul mării și faceți o plimbare liniștită pe străzile rezidențiale pentru a simți atmosfera.",
+            "en": "Admire the distinct architectural elegance of this historical seaside villa, and take time to stroll around the quiet residential streets to appreciate the vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Erkundung des Zentrums, bewundern Sie historische Verwaltungsgebäude und lernen Sie die bewegte Vergangenheit durch Denkmäler kennen.\n\nMidday: Wenn die Sonne höher steht, begeben Sie sich an die Küste. Genießen Sie die beruhigende Meeresbrise und den Anblick der Boote, die durch die weite Bucht fahren.\n\nAfternoon: Tauchen Sie tiefer in die faszinierende Militärgeschichte der Region ein. Wandeln Sie zwischen echten Überresten der Verteidigungssysteme aus dem Kalten Krieg.\n\nEvening: Beenden Sie Ihre Reise mit den weiten Ausblicken auf den Sonnenuntergang von den lokalen Aussichtspunkten, die den ruhigen Charme der andalusischen Küstenstadt widerspiegeln.",
+        "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
+        "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
+        "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      }
+    }
+  }
+}

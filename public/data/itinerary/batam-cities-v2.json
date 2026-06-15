@@ -1,0 +1,497 @@
+{
+  "city_id": "batam-cities-v2",
+  "anchor": {
+    "name": "Batam",
+    "coords": [
+      104.03,
+      1.0456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:41",
+      "total_km": 2.74,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Attawwabin",
+            "hu": "Masjid Attawwabin",
+            "ro": "Masjid Attawwabin",
+            "en": "Masjid Attawwabin"
+          },
+          "coords": [
+            104.018221,
+            1.067833
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser lokalen Moschee und denken Sie an bescheidene Kleidung, bevor Sie die friedliche Atmosphäre der Gebetshallen genießen.",
+            "hu": "Csodálja meg ennek a helyi mecsetnek az építészeti részleteit, és ne feledjen szerényen öltözködni, mielőtt átadná magát az imatermek békés atmoszférájának.",
+            "ro": "Admirați detaliile arhitecturale frumoase ale acestei moschei locale și amintiți-vă să vă îmbrăcați modest înainte de a vă bucura de atmosfera pașnică a sălilor de rugăciune.",
+            "en": "Admire the beautiful architectural details of this local mosque, and remember to dress modestly before enjoying the peaceful atmosphere of its quiet prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Huda",
+            "hu": "Masjid Nurul Huda",
+            "ro": "Masjid Nurul Huda",
+            "en": "Masjid Nurul Huda"
+          },
+          "coords": [
+            104.016677,
+            1.064869
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für das markante Minarett dieses Gemeindezentrums und besuchen Sie es außerhalb der Hauptgebetszeiten, um den Innenhof ruhiger zu erkunden.",
+            "hu": "Szánjon egy percet a közösségi központ lenyűgöző minaretjének megtekintésére, és próbáljon a fő imaidőkön kívül érkezni, hogy könnyebben felfedezhesse az udvart.",
+            "ro": "Faceți-vă timp să apreciați minaretul impresionant al acestui centru comunitar și încercați să vizitați în afara orelor principale de rugăciune pentru a explora curtea.",
+            "en": "Take a moment to appreciate the striking minaret of this community hub, and try visiting outside of main prayer times to explore the courtyard with greater ease."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Islam",
+            "hu": "Masjid Nurul Islam",
+            "ro": "Masjid Nurul Islam",
+            "en": "Masjid Nurul Islam"
+          },
+          "coords": [
+            104.025195,
+            1.066012
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erleben Sie die einladende spirituelle Atmosphäre dieser großen Moschee, aber denken Sie daran, Ihre Schuhe im markierten Eingangsbereich auszuziehen, bevor Sie eintreten.",
+            "hu": "Tapasztalja meg ennek a nagy szomszédsági mecsetnek a hívogató szellemi hangulatát, de mindenképpen vegye le a cipőjét a kijelölt bejárati területen, mielőtt belépne.",
+            "ro": "Experimentați ambianța spirituală primitoare a acestei mari moschei de cartier, dar asigurați-vă că vă scoateți pantofii în zona de intrare desemnată înainte de a păși.",
+            "en": "Experience the welcoming spiritual ambiance of this large neighborhood mosque, but make sure to remove your shoes at the designated entrance area before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Mk Kng",
+            "hu": "Gereja Mk Kng",
+            "ro": "Gereja Mk Kng",
+            "en": "Gereja Mk Kng"
+          },
+          "coords": [
+            104.026653,
+            1.056492
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige christliche Gemeinde in dieser einladenden Kirche und prüfen Sie den Zeitplan im Voraus, wenn Sie respektvoll an einem Gottesdienst teilnehmen möchten.",
+            "hu": "Fedezze fel az élénk helyi keresztény közösséget ebben a barátságos templomban, és érdemes előre ellenőrizni a menetrendjüket, ha szeretne megtekinteni egy istentiszteletet.",
+            "ro": "Descoperiți comunitatea creștină locală vibrantă la această biserică primitoare și verificați programul în prealabil dacă doriți să observați politicos o slujbă tradițională.",
+            "en": "Discover the vibrant local Christian community at this welcoming church, and consider checking their schedule in advance if you wish to politely observe a traditional service."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Iman",
+            "hu": "Masjid Nurul Iman",
+            "ro": "Masjid Nurul Iman",
+            "en": "Masjid Nurul Iman"
+          },
+          "coords": [
+            104.029816,
+            1.056491
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Design und die ruhige Umgebung dieses zentralen islamischen Gotteshauses und achten Sie darauf, die Stille der betenden Gläubigen zu respektieren.",
+            "hu": "Fedezze fel ennek a központi iszlám istentiszteleti helynek az elegáns kialakítását és nyugodt környezetét, szem előtt tartva, hogy tisztelje az éppen imádkozók csendjét.",
+            "ro": "Explorați designul elegant și împrejurimile liniștite ale acestui lăcaș de cult islamic central, având grijă să respectați liniștea celor care se roagă în acest moment.",
+            "en": "Explore the elegant design and tranquil surroundings of this central Islamic place of worship, keeping in mind to respect the silence of those who are currently praying."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise durch Batam mit einer Erkundung der ruhigen nördlichen Vororte, wo elegante Moscheen als Ankerpunkte der Gemeinde dienen.\n\nWenn der Tag wärmer wird, navigieren Sie durch lebhafte Wohnstraßen und beobachten Sie die harmonische Mischung islamischer und christlicher Gotteshäuser.\n\nAm Nachmittag wechseln Sie zwischen verschiedenen Vierteln, um größere religiöse Zentren zu entdecken, die jeweils einzigartige Baustile bieten.\n\nBeenden Sie Ihre Erkundung mit einem nachdenklichen Moment in der Nähe des Stadtzentrums und würdigen Sie Batams vielfältiges und einladendes spirituelles Erbe.",
+        "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
+        "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
+        "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 4.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Geraja Yehuwa",
+            "hu": "Geraja Yehuwa",
+            "ro": "Geraja Yehuwa",
+            "en": "Geraja Yehuwa"
+          },
+          "coords": [
+            104.05252,
+            1.04473
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die einfache, aber tiefgründige Architektur dieses Gemeindegebäudes und kommen Sie an Wochentagen vormittags, um in Ruhe ungestörte Fotos zu machen.",
+            "hu": "Figyelje meg ennek a helyi gyülekezeti épületnek az egyszerű, mégis mélyreható építészetét, és látogasson el hétköznap délelőtt, hogy csendesebb fotózási lehetőséget kapjon.",
+            "ro": "Observați arhitectura simplă, dar profundă a acestei clădiri a congregației locale și vizitați-o în diminețile din timpul săptămânii pentru a avea șansa de a face fotografii.",
+            "en": "Observe the simple yet profound architecture of this local congregation building, and visit during weekday mornings for a quieter opportunity to take photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Ash Sirath",
+            "hu": "Masjid Ash Sirath",
+            "ro": "Masjid Ash Sirath",
+            "en": "Masjid Ash Sirath"
+          },
+          "coords": [
+            104.04795,
+            1.04432
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die makellosen weißen Fassaden und komplexen Muster dieser modernen Moschee und bringen Sie ein Weitwinkelobjektiv mit, um die Proportionen ganz einzufangen.",
+            "hu": "Élvezze a modern mecset érintetlen fehér homlokzatát és bonyolult geometriai mintáit, és hozzon nagylátószögű objektívet, hogy teljesen megörökítse a külső arányokat.",
+            "ro": "Bucurați-vă de fațadele albe imaculate și modelele geometrice complexe ale acestei moschei moderne și aduceți un obiectiv cu unghi larg pentru a surprinde proporțiile.",
+            "en": "Enjoy the pristine white facades and intricate geometric patterns of this modern mosque, and bring a wide-angle lens to fully capture the beautiful exterior proportions."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jabal Nur",
+            "hu": "Masjid Jabal Nur",
+            "ro": "Masjid Jabal Nur",
+            "en": "Masjid Jabal Nur"
+          },
+          "coords": [
+            104.04259,
+            1.04911
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das atemberaubende natürliche Licht, das durch die Fenster dieses Heiligtums fällt, und tragen Sie bequeme Schuhe, da Sie sie oft an- und ausziehen werden.",
+            "hu": "Legyen tanúja annak, ahogy a lenyűgöző természetes fény átszűrődik ennek a dombtetőn lévő szentélynek az ablakain, és ügyeljen a könnyen levehető lábbeli viselésére.",
+            "ro": "Priviți lumina naturală uimitoare care se filtrează prin ferestrele acestui sanctuar de pe deal, având grijă să purtați încălțăminte ușor de scos, deoarece vă veți descălța.",
+            "en": "Witness the stunning natural light filtering through the windows of this hilltop sanctuary, taking care to wear easily removable footwear since you will be stepping in and out."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Iman",
+            "hu": "Masjid Nurul Iman",
+            "ro": "Masjid Nurul Iman",
+            "en": "Masjid Nurul Iman"
+          },
+          "coords": [
+            104.029816,
+            1.056491
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Design und die ruhige Umgebung dieses zentralen islamischen Gotteshauses und achten Sie darauf, die Stille der betenden Gläubigen zu respektieren.",
+            "hu": "Fedezze fel ennek a központi iszlám istentiszteleti helynek az elegáns kialakítását és nyugodt környezetét, szem előtt tartva, hogy tisztelje az éppen imádkozók csendjét.",
+            "ro": "Explorați designul elegant și împrejurimile liniștite ale acestui lăcaș de cult islamic central, având grijă să respectați liniștea celor care se roagă în acest moment.",
+            "en": "Explore the elegant design and tranquil surroundings of this central Islamic place of worship, keeping in mind to respect the silence of those who are currently praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Mk Kng",
+            "hu": "Gereja Mk Kng",
+            "ro": "Gereja Mk Kng",
+            "en": "Gereja Mk Kng"
+          },
+          "coords": [
+            104.026653,
+            1.056492
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige christliche Gemeinde in dieser einladenden Kirche und prüfen Sie den Zeitplan im Voraus, wenn Sie respektvoll an einem Gottesdienst teilnehmen möchten.",
+            "hu": "Fedezze fel az élénk helyi keresztény közösséget ebben a barátságos templomban, és érdemes előre ellenőrizni a menetrendjüket, ha szeretne megtekinteni egy istentiszteletet.",
+            "ro": "Descoperiți comunitatea creștină locală vibrantă la această biserică primitoare și verificați programul în prealabil dacă doriți să observați politicos o slujbă tradițională.",
+            "en": "Discover the vibrant local Christian community at this welcoming church, and consider checking their schedule in advance if you wish to politely observe a traditional service."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Islam",
+            "hu": "Masjid Nurul Islam",
+            "ro": "Masjid Nurul Islam",
+            "en": "Masjid Nurul Islam"
+          },
+          "coords": [
+            104.025195,
+            1.066012
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Erleben Sie die einladende spirituelle Atmosphäre dieser großen Moschee, aber denken Sie daran, Ihre Schuhe im markierten Eingangsbereich auszuziehen, bevor Sie eintreten.",
+            "hu": "Tapasztalja meg ennek a nagy szomszédsági mecsetnek a hívogató szellemi hangulatát, de mindenképpen vegye le a cipőjét a kijelölt bejárati területen, mielőtt belépne.",
+            "ro": "Experimentați ambianța spirituală primitoare a acestei mari moschei de cartier, dar asigurați-vă că vă scoateți pantofii în zona de intrare desemnată înainte de a păși.",
+            "en": "Experience the welcoming spiritual ambiance of this large neighborhood mosque, but make sure to remove your shoes at the designated entrance area before stepping inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise durch Batam mit einer Erkundung der ruhigen nördlichen Vororte, wo elegante Moscheen als Ankerpunkte der Gemeinde dienen.\n\nWenn der Tag wärmer wird, navigieren Sie durch lebhafte Wohnstraßen und beobachten Sie die harmonische Mischung islamischer und christlicher Gotteshäuser.\n\nAm Nachmittag wechseln Sie zwischen verschiedenen Vierteln, um größere religiöse Zentren zu entdecken, die jeweils einzigartige Baustile bieten.\n\nBeenden Sie Ihre Erkundung mit einem nachdenklichen Moment in der Nähe des Stadtzentrums und würdigen Sie Batams vielfältiges und einladendes spirituelles Erbe.",
+        "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
+        "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
+        "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 8.49,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Irsadul Ikhlas",
+            "hu": "Masjid Irsadul Ikhlas",
+            "ro": "Masjid Irsadul Ikhlas",
+            "en": "Masjid Irsadul Ikhlas"
+          },
+          "coords": [
+            104.0045,
+            1.04525
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser Säule der Gemeinde mit ihrer markanten Kuppel und achten Sie darauf, die freundlichen Einheimischen zu grüßen, die sich oft am Eingang versammeln.",
+            "hu": "Kezdje utazását ennél a közösségi alapillérnél, annak jellegzetes kupolájával, és ne felejtse el üdvözölni a barátságos helyieket, akik gyakran összegyűlnek a bejáratnál.",
+            "ro": "Începeți călătoria la acest pilon comunitar de bază cu domul său distinctiv și asigurați-vă că salutați localnicii prietenoși care se adună adesea în zona de la intrare.",
+            "en": "Start your journey at this foundational community pillar with its distinctive dome, and make sure to greet the friendly locals who often gather around the entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Attawwabin",
+            "hu": "Masjid Attawwabin",
+            "ro": "Masjid Attawwabin",
+            "en": "Masjid Attawwabin"
+          },
+          "coords": [
+            104.018221,
+            1.067833
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser lokalen Moschee und denken Sie an bescheidene Kleidung, bevor Sie die friedliche Atmosphäre der Gebetshallen genießen.",
+            "hu": "Csodálja meg ennek a helyi mecsetnek az építészeti részleteit, és ne feledjen szerényen öltözködni, mielőtt átadná magát az imatermek békés atmoszférájának.",
+            "ro": "Admirați detaliile arhitecturale frumoase ale acestei moschei locale și amintiți-vă să vă îmbrăcați modest înainte de a vă bucura de atmosfera pașnică a sălilor de rugăciune.",
+            "en": "Admire the beautiful architectural details of this local mosque, and remember to dress modestly before enjoying the peaceful atmosphere of its quiet prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Huda",
+            "hu": "Masjid Nurul Huda",
+            "ro": "Masjid Nurul Huda",
+            "en": "Masjid Nurul Huda"
+          },
+          "coords": [
+            104.016677,
+            1.064869
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für das markante Minarett dieses Gemeindezentrums und besuchen Sie es außerhalb der Hauptgebetszeiten, um den Innenhof ruhiger zu erkunden.",
+            "hu": "Szánjon egy percet a közösségi központ lenyűgöző minaretjének megtekintésére, és próbáljon a fő imaidőkön kívül érkezni, hogy könnyebben felfedezhesse az udvart.",
+            "ro": "Faceți-vă timp să apreciați minaretul impresionant al acestui centru comunitar și încercați să vizitați în afara orelor principale de rugăciune pentru a explora curtea.",
+            "en": "Take a moment to appreciate the striking minaret of this community hub, and try visiting outside of main prayer times to explore the courtyard with greater ease."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Islam",
+            "hu": "Masjid Nurul Islam",
+            "ro": "Masjid Nurul Islam",
+            "en": "Masjid Nurul Islam"
+          },
+          "coords": [
+            104.025195,
+            1.066012
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erleben Sie die einladende spirituelle Atmosphäre dieser großen Moschee, aber denken Sie daran, Ihre Schuhe im markierten Eingangsbereich auszuziehen, bevor Sie eintreten.",
+            "hu": "Tapasztalja meg ennek a nagy szomszédsági mecsetnek a hívogató szellemi hangulatát, de mindenképpen vegye le a cipőjét a kijelölt bejárati területen, mielőtt belépne.",
+            "ro": "Experimentați ambianța spirituală primitoare a acestei mari moschei de cartier, dar asigurați-vă că vă scoateți pantofii în zona de intrare desemnată înainte de a păși.",
+            "en": "Experience the welcoming spiritual ambiance of this large neighborhood mosque, but make sure to remove your shoes at the designated entrance area before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Mk Kng",
+            "hu": "Gereja Mk Kng",
+            "ro": "Gereja Mk Kng",
+            "en": "Gereja Mk Kng"
+          },
+          "coords": [
+            104.026653,
+            1.056492
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige christliche Gemeinde in dieser einladenden Kirche und prüfen Sie den Zeitplan im Voraus, wenn Sie respektvoll an einem Gottesdienst teilnehmen möchten.",
+            "hu": "Fedezze fel az élénk helyi keresztény közösséget ebben a barátságos templomban, és érdemes előre ellenőrizni a menetrendjüket, ha szeretne megtekinteni egy istentiszteletet.",
+            "ro": "Descoperiți comunitatea creștină locală vibrantă la această biserică primitoare și verificați programul în prealabil dacă doriți să observați politicos o slujbă tradițională.",
+            "en": "Discover the vibrant local Christian community at this welcoming church, and consider checking their schedule in advance if you wish to politely observe a traditional service."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jabal Nur",
+            "hu": "Masjid Jabal Nur",
+            "ro": "Masjid Jabal Nur",
+            "en": "Masjid Jabal Nur"
+          },
+          "coords": [
+            104.04259,
+            1.04911
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie das atemberaubende natürliche Licht, das durch die Fenster dieses Heiligtums fällt, und tragen Sie bequeme Schuhe, da Sie sie oft an- und ausziehen werden.",
+            "hu": "Legyen tanúja annak, ahogy a lenyűgöző természetes fény átszűrődik ennek a dombtetőn lévő szentélynek az ablakain, és ügyeljen a könnyen levehető lábbeli viselésére.",
+            "ro": "Priviți lumina naturală uimitoare care se filtrează prin ferestrele acestui sanctuar de pe deal, având grijă să purtați încălțăminte ușor de scos, deoarece vă veți descălța.",
+            "en": "Witness the stunning natural light filtering through the windows of this hilltop sanctuary, taking care to wear easily removable footwear since you will be stepping in and out."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Ash Sirath",
+            "hu": "Masjid Ash Sirath",
+            "ro": "Masjid Ash Sirath",
+            "en": "Masjid Ash Sirath"
+          },
+          "coords": [
+            104.04795,
+            1.04432
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die makellosen weißen Fassaden und komplexen Muster dieser modernen Moschee und bringen Sie ein Weitwinkelobjektiv mit, um die Proportionen ganz einzufangen.",
+            "hu": "Élvezze a modern mecset érintetlen fehér homlokzatát és bonyolult geometriai mintáit, és hozzon nagylátószögű objektívet, hogy teljesen megörökítse a külső arányokat.",
+            "ro": "Bucurați-vă de fațadele albe imaculate și modelele geometrice complexe ale acestei moschei moderne și aduceți un obiectiv cu unghi larg pentru a surprinde proporțiile.",
+            "en": "Enjoy the pristine white facades and intricate geometric patterns of this modern mosque, and bring a wide-angle lens to fully capture the beautiful exterior proportions."
+          }
+        },
+        {
+          "name": {
+            "de": "Geraja Yehuwa",
+            "hu": "Geraja Yehuwa",
+            "ro": "Geraja Yehuwa",
+            "en": "Geraja Yehuwa"
+          },
+          "coords": [
+            104.05252,
+            1.04473
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die einfache, aber tiefgründige Architektur dieses Gemeindegebäudes und kommen Sie an Wochentagen vormittags, um in Ruhe ungestörte Fotos zu machen.",
+            "hu": "Figyelje meg ennek a helyi gyülekezeti épületnek az egyszerű, mégis mélyreható építészetét, és látogasson el hétköznap délelőtt, hogy csendesebb fotózási lehetőséget kapjon.",
+            "ro": "Observați arhitectura simplă, dar profundă a acestei clădiri a congregației locale și vizitați-o în diminețile din timpul săptămânii pentru a avea șansa de a face fotografii.",
+            "en": "Observe the simple yet profound architecture of this local congregation building, and visit during weekday mornings for a quieter opportunity to take photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise durch Batam mit einer Erkundung der ruhigen nördlichen Vororte, wo elegante Moscheen als Ankerpunkte der Gemeinde dienen.\n\nWenn der Tag wärmer wird, navigieren Sie durch lebhafte Wohnstraßen und beobachten Sie die harmonische Mischung islamischer und christlicher Gotteshäuser.\n\nAm Nachmittag wechseln Sie zwischen verschiedenen Vierteln, um größere religiöse Zentren zu entdecken, die jeweils einzigartige Baustile bieten.\n\nBeenden Sie Ihre Erkundung mit einem nachdenklichen Moment in der Nähe des Stadtzentrums und würdigen Sie Batams vielfältiges und einladendes spirituelles Erbe.",
+        "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
+        "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
+        "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      }
+    }
+  }
+}

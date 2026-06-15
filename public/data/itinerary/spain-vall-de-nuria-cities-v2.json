@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-vall-de-nuria-cities-v2",
+  "anchor": {
+    "name": "Vall de Núria",
+    "coords": [
+      2.15417,
+      42.39556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 4.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Gil",
+            "hu": "Sant Gil",
+            "ro": "Sant Gil",
+            "en": "Sant Gil"
+          },
+          "coords": [
+            2.152257,
+            42.395874
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bescheidene Einsiedelei Sant Gil, wo die Legende des Tals begann, und läuten Sie die ikonische Glocke für etwas Glück.",
+            "hu": "Fedezze fel a szerény Sant Gil remetelakot, ahol a völgy legendája kezdődött, és kongassa meg az ikonikus harangot a jó szerencse érdekében.",
+            "ro": "Descoperiți schitul umil Sant Gil, unde a început legenda văii, și nu uitați să trageți legendarul clopot pentru a atrage norocul.",
+            "en": "Discover the humble hermitage of Sant Gil where the legend of the valley began, and take a moment to ring the iconic bell for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mare de Déu de Núria",
+            "hu": "Mare de Déu de Núria Bazilika",
+            "ro": "Bazilica Mare de Déu de Núria",
+            "en": "Basilica of the Mare de Déu of Núria"
+          },
+          "coords": [
+            2.153434,
+            42.397218
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spirituelle Erbe in der Basilika mit ihrer romanischen Schnitzerei, aber ziehen Sie sich warm an, da es drinnen recht kühl ist.",
+            "hu": "Csodálja meg a Bazilika mély spirituális örökségét és a román kori faragványokat, de öltözzön melegen, mert a belső tér meglehetősen hűvös.",
+            "ro": "Admirați moștenirea spirituală din interiorul Bazilicii, care adăpostește sculpturi romanice, dar îmbrăcați-vă gros deoarece interiorul este răcoros.",
+            "en": "Marvel at the profound spiritual heritage inside the Basilica, housing the revered Romanesque carving, but dress warmly as the interior can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Núria",
+            "hu": "Núria Kilátó",
+            "ro": "Punct de belvedere Núria",
+            "en": "Núria Viewpoint"
+          },
+          "coords": [
+            2.153451,
+            42.392352
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das gesamte Heiligtum von diesem Aussichtspunkt und kommen Sie früh, um tolle Landschaftsfotos zu machen.",
+            "hu": "Élvezze az egész szentély medencéjére nyíló panorámát ebből a kilátóból, és érkezzen korán, hogy a legjobb helyet szerezze meg a fotózáshoz.",
+            "ro": "Bucurați-vă de vederea panoramică asupra întregului sanctuar din acest punct de belvedere și ajungeți devreme pentru cele mai bune fotografii.",
+            "en": "Absorb the sweeping panoramic views of the entire sanctuary basin from this vantage point, arriving early to secure the best spot for landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferdeschwanz-Wasserfall",
+            "hu": "Lófarok-vízesés",
+            "ro": "Cascada Coada Calului",
+            "en": "Horsetail Waterfall"
+          },
+          "coords": [
+            2.160131,
+            42.380571
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem tosenden Wasser dieses herrlichen Wasserfalls, der über die Felsen stürzt, und tragen Sie festes Schuhwerk für den rutschigen Weg.",
+            "hu": "Hallgassa a csodálatos vízesés zuhogó vizét, ahogy a sziklákon lezúdul, és viseljen masszív lábbelit a kissé csúszós megközelítési útvonal miatt.",
+            "ro": "Ascultați apele învolburate ale acestei cascade magnifice în timp ce se prăvălesc peste stânci și purtați încălțăminte robustă pentru abordarea alunecoasă.",
+            "en": "Listen to the roaring waters of this magnificent horsetail waterfall as it cascades down the rocks, and wear sturdy footwear for the slightly slippery approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Adlergipfel (Pic de l'Àliga)",
+            "hu": "Sas-csúcs (Pic de l'Àliga)",
+            "ro": "Vârful Vulturului (Pic de l'Àliga)",
+            "en": "Eagle Peak (Pic de l'Àliga)"
+          },
+          "coords": [
+            2.166192,
+            42.396644
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Bezwingen Sie den beeindruckenden Adlergipfel für eine atemberaubende Alpenkulisse und bringen Sie ausreichend Wasser sowie winddichte Kleidung mit.",
+            "hu": "Hódítsa meg a lenyűgöző Sas-csúcsot a lélegzetelállító alpesi tájért, és feltétlenül vigyen magával elegendő vizet és szélálló ruházatot a mászáshoz.",
+            "ro": "Cuceriți impresionantul Vârf al Vulturului pentru peisaje alpine uluitoare, asigurându-vă că aveți apă suficientă și îmbrăcăminte rezistentă la vânt.",
+            "en": "Conquer the impressive peak of the Eagle to witness breathtaking alpine scenery, ensuring you bring sufficient water and windproof clothing for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap de Porc",
+            "hu": "Cap de Porc",
+            "ro": "Cap de Porc",
+            "en": "Cap de Porc"
+          },
+          "coords": [
+            2.159147,
+            42.402638
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die raue Natur dieser markanten Felsformation und halten Sie Ausschau nach den flinken Pyrenäen-Gämsen, die hier oft umherstreifen.",
+            "hu": "Sétáljon végig ennek a jellegzetes sziklaalakzatnak a zord természeti szépségein, és figyelje a közelben kóborló fürge pireneusi zergéket.",
+            "ro": "Plimbați-vă prin frumusețea naturală accidentată a acestei formațiuni stâncoase și fiți atenți la caprele negre pireneene care rătăcesc prin apropiere.",
+            "en": "Stroll through the rugged natural beauty of this distinctive crag formation, keeping a watchful eye out for the nimble Pyrenean chamois wandering nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig am heiligen Sant Gil und geht nahtlos in die beeindruckende Basilika über.\n\nMittags steht die Natur im Fokus, mit weiten Ausblicken vom Mirador de Núria und dem tosenden Salt de la Cua de Cavall.\n\nDer Nachmittag ist der Bezwingung des majestätischen Pic de l'Àliga gewidmet.\n\nDer Abend bricht ruhig an, während Sie am Cap de Porc Ihre Bergtour feierlich abschließen.",
+        "hu": "A reggel békésen indul a szent Sant Gilnél, majd zökkenőmentesen halad a lenyűgöző Bazilikához.\n\nA dél a természeté, ahol élvezheti a Mirador de Núria panorámáját és a Salt de la Cua de Cavall vízesést.\n\nA délutánt a fenséges Pic de l'Àliga meghódításának szenteljük.\n\nAz este nyugodtan ereszkedik le, miközben a Cap de Porc-nál végleg befejezi a felejthetetlen hegyi túrát.",
+        "ro": "Dimineața aduce un început senin la sfântul Sant Gil, trecând lin spre impresionanta Bazilică.\n\nMiezul zilei se îndreaptă spre natură, lăsându-vă să absorbiți panoramele de la Mirador de Núria și cascada Salt de la Cua de Cavall.\n\nDupă-amiaza este dedicată cuceririi maiestuosului Pic de l'Àliga.\n\nSeara coboară calm la Cap de Porc, unde vă veți încheia această explorare montană.",
+        "en": "Morning brings a serene start at the sacred Sant Gil, moving seamlessly into the awe-inspiring Basilica.\n\nMidday shifts towards nature, letting you soak in the sweeping vistas from Mirador de Núria before marveling at the cascading Salt de la Cua de Cavall.\n\nThe afternoon is dedicated to conquering the majestic Pic de l'Àliga.\n\nEvening descends calmly as you conclude your scenic exploration at Cap de Porc."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:51",
+      "total_km": 6.59,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Mare de Déu de Núria",
+            "hu": "Mare de Déu de Núria Bazilika",
+            "ro": "Bazilica Mare de Déu de Núria",
+            "en": "Basilica of the Mare de Déu of Núria"
+          },
+          "coords": [
+            2.153434,
+            42.397218
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spirituelle Erbe in der Basilika mit ihrer romanischen Schnitzerei, aber ziehen Sie sich warm an, da es drinnen recht kühl ist.",
+            "hu": "Csodálja meg a Bazilika mély spirituális örökségét és a román kori faragványokat, de öltözzön melegen, mert a belső tér meglehetősen hűvös.",
+            "ro": "Admirați moștenirea spirituală din interiorul Bazilicii, care adăpostește sculpturi romanice, dar îmbrăcați-vă gros deoarece interiorul este răcoros.",
+            "en": "Marvel at the profound spiritual heritage inside the Basilica, housing the revered Romanesque carving, but dress warmly as the interior can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Gil",
+            "hu": "Sant Gil",
+            "ro": "Sant Gil",
+            "en": "Sant Gil"
+          },
+          "coords": [
+            2.152257,
+            42.395874
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bescheidene Einsiedelei Sant Gil, wo die Legende des Tals begann, und läuten Sie die ikonische Glocke für etwas Glück.",
+            "hu": "Fedezze fel a szerény Sant Gil remetelakot, ahol a völgy legendája kezdődött, és kongassa meg az ikonikus harangot a jó szerencse érdekében.",
+            "ro": "Descoperiți schitul umil Sant Gil, unde a început legenda văii, și nu uitați să trageți legendarul clopot pentru a atrage norocul.",
+            "en": "Discover the humble hermitage of Sant Gil where the legend of the valley began, and take a moment to ring the iconic bell for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Núria",
+            "hu": "Núria Kilátó",
+            "ro": "Punct de belvedere Núria",
+            "en": "Núria Viewpoint"
+          },
+          "coords": [
+            2.153451,
+            42.392352
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das gesamte Heiligtum von diesem Aussichtspunkt und kommen Sie früh, um tolle Landschaftsfotos zu machen.",
+            "hu": "Élvezze az egész szentély medencéjére nyíló panorámát ebből a kilátóból, és érkezzen korán, hogy a legjobb helyet szerezze meg a fotózáshoz.",
+            "ro": "Bucurați-vă de vederea panoramică asupra întregului sanctuar din acest punct de belvedere și ajungeți devreme pentru cele mai bune fotografii.",
+            "en": "Absorb the sweeping panoramic views of the entire sanctuary basin from this vantage point, arriving early to secure the best spot for landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferdeschwanz-Wasserfall",
+            "hu": "Lófarok-vízesés",
+            "ro": "Cascada Coada Calului",
+            "en": "Horsetail Waterfall"
+          },
+          "coords": [
+            2.160131,
+            42.380571
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem tosenden Wasser dieses herrlichen Wasserfalls, der über die Felsen stürzt, und tragen Sie festes Schuhwerk für den rutschigen Weg.",
+            "hu": "Hallgassa a csodálatos vízesés zuhogó vizét, ahogy a sziklákon lezúdul, és viseljen masszív lábbelit a kissé csúszós megközelítési útvonal miatt.",
+            "ro": "Ascultați apele învolburate ale acestei cascade magnifice în timp ce se prăvălesc peste stânci și purtați încălțăminte robustă pentru abordarea alunecoasă.",
+            "en": "Listen to the roaring waters of this magnificent horsetail waterfall as it cascades down the rocks, and wear sturdy footwear for the slightly slippery approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Salt del Sastre",
+            "hu": "Salt del Sastre Kilátó",
+            "ro": "Punct de belvedere Salt del Sastre",
+            "en": "Salt del Sastre Viewpoint"
+          },
+          "coords": [
+            2.161682,
+            42.374695
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Betrachten Sie den dramatischen Sturz des Sastre-Wasserfalls von hier aus und verwenden Sie einen Polfilter, um die lebhaften Wasserfarben einzufangen.",
+            "hu": "Tekintse meg a Sastre vízesés drámai zuhatagát erről a dedikált kilátóról, és használjon polárszűrőt a fényképezőgépén a vibráló vízszínek megörökítéséhez.",
+            "ro": "Priviți căderea dramatică a cascadei Sastre de la acest punct de belvedere, folosind un filtru de polarizare pentru a surprinde nuanțele vibrante ale apei.",
+            "en": "Behold the dramatic plunge of the Sastre waterfall from this dedicated viewpoint, using a polarizing filter on your camera to capture the vibrant water hues."
+          }
+        },
+        {
+          "name": {
+            "de": "Adlergipfel (Pic de l'Àliga)",
+            "hu": "Sas-csúcs (Pic de l'Àliga)",
+            "ro": "Vârful Vulturului (Pic de l'Àliga)",
+            "en": "Eagle Peak (Pic de l'Àliga)"
+          },
+          "coords": [
+            2.166192,
+            42.396644
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.46,
+          "tip_5lang": {
+            "de": "Bezwingen Sie den beeindruckenden Adlergipfel für eine atemberaubende Alpenkulisse und bringen Sie ausreichend Wasser sowie winddichte Kleidung mit.",
+            "hu": "Hódítsa meg a lenyűgöző Sas-csúcsot a lélegzetelállító alpesi tájért, és feltétlenül vigyen magával elegendő vizet és szélálló ruházatot a mászáshoz.",
+            "ro": "Cuceriți impresionantul Vârf al Vulturului pentru peisaje alpine uluitoare, asigurându-vă că aveți apă suficientă și îmbrăcăminte rezistentă la vânt.",
+            "en": "Conquer the impressive peak of the Eagle to witness breathtaking alpine scenery, ensuring you bring sufficient water and windproof clothing for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Fontnegra",
+            "hu": "Puig de Fontnegra",
+            "ro": "Puig de Fontnegra",
+            "en": "Puig de Fontnegra"
+          },
+          "coords": [
+            2.18179,
+            42.403161
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den imposanten Höhen von Fontnegra für ein erhabenes Naturerlebnis und navigieren Sie vorsichtig mit zuverlässigen Trekkingstöcken.",
+            "hu": "Túrázzon fel a Fontnegra impozáns magasságaiba egy fenséges vadonbeli élményért, és óvatosan navigáljon a sziklás ösvényeken túrabotok segítségével.",
+            "ro": "Urcați pe înălțimile impunătoare din Fontnegra pentru o experiență sălbatică sublimă, navigând cu grijă pe traseele stâncoase folosind bețe de trekking.",
+            "en": "Trek up to the imposing heights of Fontnegra for a sublime wilderness experience, carefully navigating the rocky trails using a pair of reliable trekking poles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der großen Basilika und besuchen Sie anschließend Sant Gil.\n\nDie mittägliche Radtour führt zum Mirador de Núria und dem tosenden Salt de la Cua de Cavall.\n\nDer Nachmittag lädt zu einer anspruchsvollen Fahrt am Mirador del Salt del Sastre vorbei bis zum Pic de l'Àliga ein.\n\nDer Abend belohnt Sie mit den atemberaubenden Höhen und der Stille des Puig de Fontnegra.",
+        "hu": "Kezdje a kerékpározást a nagy Bazilikánál, majd látogasson el Sant Gilhez.\n\nA déli tekerés a gyönyörű Mirador de Núria-hoz és a mennydörgő Salt de la Cua de Cavall-hoz vezet.\n\nA délután kihívást jelentő utat kínál a Mirador del Salt del Sastre mellett a Pic de l'Àligáig.\n\nAz este Puig de Fontnegra lélegzetelállító magasságaival és nyugalmával jutalmaz.",
+        "ro": "Începeți plimbarea la măreața Bazilică, apoi vizitați Sant Gil.\n\nPedalarea de la prânz vă duce la Mirador de Núria și la zgomotoasa Salt de la Cua de Cavall.\n\nDupă-amiaza vă invită la o plimbare provocatoare pe lângă Mirador del Salt del Sastre până la Pic de l'Àliga.\n\nSeara vă răsplătește cu înălțimile uluitoare și liniștea de la Puig de Fontnegra.",
+        "en": "Begin your ride at the grand Basilica, taking time to absorb its history before visiting Sant Gil.\n\nMidday pedaling leads to the beautiful Mirador de Núria and the thundering Salt de la Cua de Cavall.\n\nThe afternoon invites a challenging ride past Mirador del Salt del Sastre up to Pic de l'Àliga.\n\nEvening rewards you with the breathtaking heights and serene silence of Puig de Fontnegra."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:13",
+      "total_km": 9.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Gil",
+            "hu": "Sant Gil",
+            "ro": "Sant Gil",
+            "en": "Sant Gil"
+          },
+          "coords": [
+            2.152257,
+            42.395874
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bescheidene Einsiedelei Sant Gil, wo die Legende des Tals begann, und läuten Sie die ikonische Glocke für etwas Glück.",
+            "hu": "Fedezze fel a szerény Sant Gil remetelakot, ahol a völgy legendája kezdődött, és kongassa meg az ikonikus harangot a jó szerencse érdekében.",
+            "ro": "Descoperiți schitul umil Sant Gil, unde a început legenda văii, și nu uitați să trageți legendarul clopot pentru a atrage norocul.",
+            "en": "Discover the humble hermitage of Sant Gil where the legend of the valley began, and take a moment to ring the iconic bell for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Mare de Déu de Núria",
+            "hu": "Mare de Déu de Núria Bazilika",
+            "ro": "Bazilica Mare de Déu de Núria",
+            "en": "Basilica of the Mare de Déu of Núria"
+          },
+          "coords": [
+            2.153434,
+            42.397218
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spirituelle Erbe in der Basilika mit ihrer romanischen Schnitzerei, aber ziehen Sie sich warm an, da es drinnen recht kühl ist.",
+            "hu": "Csodálja meg a Bazilika mély spirituális örökségét és a román kori faragványokat, de öltözzön melegen, mert a belső tér meglehetősen hűvös.",
+            "ro": "Admirați moștenirea spirituală din interiorul Bazilicii, care adăpostește sculpturi romanice, dar îmbrăcați-vă gros deoarece interiorul este răcoros.",
+            "en": "Marvel at the profound spiritual heritage inside the Basilica, housing the revered Romanesque carving, but dress warmly as the interior can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Salt del Sastre",
+            "hu": "Salt del Sastre Kilátó",
+            "ro": "Punct de belvedere Salt del Sastre",
+            "en": "Salt del Sastre Viewpoint"
+          },
+          "coords": [
+            2.161682,
+            42.374695
+          ],
+          "category": "natural",
+          "arrive_at": "10:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.59,
+          "tip_5lang": {
+            "de": "Betrachten Sie den dramatischen Sturz des Sastre-Wasserfalls von hier aus und verwenden Sie einen Polfilter, um die lebhaften Wasserfarben einzufangen.",
+            "hu": "Tekintse meg a Sastre vízesés drámai zuhatagát erről a dedikált kilátóról, és használjon polárszűrőt a fényképezőgépén a vibráló vízszínek megörökítéséhez.",
+            "ro": "Priviți căderea dramatică a cascadei Sastre de la acest punct de belvedere, folosind un filtru de polarizare pentru a surprinde nuanțele vibrante ale apei.",
+            "en": "Behold the dramatic plunge of the Sastre waterfall from this dedicated viewpoint, using a polarizing filter on your camera to capture the vibrant water hues."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Fontnegra",
+            "hu": "Puig de Fontnegra",
+            "ro": "Puig de Fontnegra",
+            "en": "Puig de Fontnegra"
+          },
+          "coords": [
+            2.18179,
+            42.403161
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.56,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den imposanten Höhen von Fontnegra für ein erhabenes Naturerlebnis und navigieren Sie vorsichtig mit zuverlässigen Trekkingstöcken.",
+            "hu": "Túrázzon fel a Fontnegra impozáns magasságaiba egy fenséges vadonbeli élményért, és óvatosan navigáljon a sziklás ösvényeken túrabotok segítségével.",
+            "ro": "Urcați pe înălțimile impunătoare din Fontnegra pentru o experiență sălbatică sublimă, navigând cu grijă pe traseele stâncoase folosind bețe de trekking.",
+            "en": "Trek up to the imposing heights of Fontnegra for a sublime wilderness experience, carefully navigating the rocky trails using a pair of reliable trekking poles."
+          }
+        },
+        {
+          "name": {
+            "de": "Cim del Ras",
+            "hu": "Cim del Ras",
+            "ro": "Cim del Ras",
+            "en": "Cim del Ras"
+          },
+          "coords": [
+            2.180025,
+            42.390544
+          ],
+          "category": "natural",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Erreichen Sie das Hochplateau Cim del Ras, um ungestörte Himmelsausblicke zu genießen, und machen Sie eine Pause für ein Lunchpaket in der völligen Stille.",
+            "hu": "Érje el a Cim del Ras magaslati fennsíkját a zavartalan kilátásért, és szánjon egy percet a pihenésre, miközben elfogyasztja a csomagolt ebédjét a csendben.",
+            "ro": "Ajungeți pe platoul înalt Cim del Ras pentru a aprecia priveliștile neobstrucționate, luându-vă un moment pentru a vă bucura de un prânz în liniște.",
+            "en": "Reach the elevated plateau of Cim del Ras to appreciate unhindered skyward vistas, taking a moment to rest and enjoy a packed lunch amidst the serene silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap de Porc",
+            "hu": "Cap de Porc",
+            "ro": "Cap de Porc",
+            "en": "Cap de Porc"
+          },
+          "coords": [
+            2.159147,
+            42.402638
+          ],
+          "category": "natural",
+          "arrive_at": "12:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.18,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die raue Natur dieser markanten Felsformation und halten Sie Ausschau nach den flinken Pyrenäen-Gämsen, die hier oft umherstreifen.",
+            "hu": "Sétáljon végig ennek a jellegzetes sziklaalakzatnak a zord természeti szépségein, és figyelje a közelben kóborló fürge pireneusi zergéket.",
+            "ro": "Plimbați-vă prin frumusețea naturală accidentată a acestei formațiuni stâncoase și fiți atenți la caprele negre pireneene care rătăcesc prin apropiere.",
+            "en": "Stroll through the rugged natural beauty of this distinctive crag formation, keeping a watchful eye out for the nimble Pyrenean chamois wandering nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Motor nahe Sant Gil und der großen Basilika für einen kulturellen Morgen.\n\nMittags fahren Sie zu den tosenden Wassern des Mirador del Salt del Sastre und genießen die raue Landschaft.\n\nNachmittagsaufstiege bringen Sie in die Nähe der Höhen des Puig de Fontnegra und Cim del Ras.\n\nBeenden Sie Ihre Tour, wenn sich die Abendschatten über das Cap de Porc legen.",
+        "hu": "Indítsa el autóját Sant Gil és a nagy Bazilika közelében egy kulturális reggelhez.\n\nDélben vezessen a Mirador del Salt del Sastre vízesése felé, és gyönyörködjön a zord tájban.\n\nA délutáni emelkedők a Puig de Fontnegra és a Cim del Ras magaslataihoz visznek.\n\nFejezze be a vezetést, ahogy az esti árnyékok ráereszkednek a Cap de Porc-ra.",
+        "ro": "Porniți motorul lângă Sant Gil și măreața Bazilică pentru o dimineață culturală.\n\nPână la prânz, conduceți spre cascadele vizibile de la Mirador del Salt del Sastre.\n\nAscensiunile de după-amiază vă aduc aproape de înălțimile sublime de la Puig de Fontnegra și Cim del Ras.\n\nÎncheiați-vă turul auto pe măsură ce umbrele serii se întind peste Cap de Porc.",
+        "en": "Start your engine near Sant Gil and the grand Basilica for a cultural morning dip.\n\nBy midday, drive toward the cascading waters visible from Mirador del Salt del Sastre, embracing the rugged landscape.\n\nAfternoon ascents bring you near the sublime heights of Puig de Fontnegra and Cim del Ras.\n\nConclude your driving tour as evening shadows stretch over Cap de Porc."
+      }
+    }
+  }
+}

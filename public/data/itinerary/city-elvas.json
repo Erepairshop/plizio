@@ -1,0 +1,451 @@
+{
+  "city_id": "city-elvas",
+  "anchor": {
+    "name": "Elvas",
+    "coords": [
+      -7.163,
+      38.8816
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 1.41,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fernandina-Mauer",
+            "hu": "Fernandina-fal",
+            "ro": "Zidul Fernandina",
+            "en": "Fernandina Wall"
+          },
+          "coords": [
+            -7.159408,
+            38.879199
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesen alten Festungsmauern aus dem 14. Jahrhundert entlang und tragen Sie unbedingt feste Schuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Sétáljon végig a 14. századi várfalakon, hogy megértse Elvas középkori kiterjedését, de mindenképpen kényelmes és strapabíró cipőt viseljen a köveken.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri vechi din secolul al XIV-lea și purtați neapărat încălțăminte robustă pentru potecile pavate inegale din zonă.",
+            "en": "Walk along these ancient 14th-century defensive walls to fully grasp the medieval scale of Elvas, and be sure to wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Fotomuseum João Carpinteiro",
+            "hu": "João Carpinteiro Városi Fotómúzeum",
+            "ro": "Muzeul Municipal de Fotografie João Carpinteiro",
+            "en": "João Carpinteiro Municipal Photography Museum"
+          },
+          "coords": [
+            -7.161425,
+            38.878961
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende alte Kameras und historische Fotos der Region, aber vergessen Sie nicht, nach der versteckten Dunkelkammer-Ausstellung zu fragen.",
+            "hu": "Fedezze fel a régi fényképezőgépeket és a régió történelmi fotóit, de ne felejtse el megkérdezni a kurátort a múzeum rejtett sötétszoba-kiállításáról.",
+            "ro": "Descoperiți aparate foto de epocă și fotografii istorice ale regiunii, dar nu uitați să întrebați curatorul prietenos despre expoziția secretă de aici.",
+            "en": "Discover fascinating vintage cameras and historical photos of the region, but remember to ask the friendly curator about the hidden darkroom exhibit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst von Elvas",
+            "hu": "Elvasi Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană din Elvas",
+            "en": "Elvas Contemporary Art Museum"
+          },
+          "coords": [
+            -7.164617,
+            38.879723
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne portugiesische Kunst in diesem ehemaligen Krankenhaus und prüfen Sie das Programm rechtzeitig auf temporäre Nachmittagsausstellungen.",
+            "hu": "Csodálja meg a modern portugál művészeti gyűjteményt ebben az egykori kórházépületben, és érdemes előre ellenőrizni az időszaki délutáni kiállításokat.",
+            "ro": "Admirați o colecție remarcabilă de artă portugheză modernă în acest fost spital, dar verificați programul zilnic pentru expozițiile temporare de după-amiază.",
+            "en": "Admire a remarkable collection of modern Portuguese art housed in this former hospital building, checking their daily schedule for temporary afternoon exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauern aus dem 17. Jahrhundert",
+            "hu": "17. századi városfalak",
+            "ro": "Zidurile din secolul al XVII-lea",
+            "en": "17th-century Walls"
+          },
+          "coords": [
+            -7.168861,
+            38.880832
+          ],
+          "category": "castle",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erleben Sie die Pracht der sternförmigen Befestigungsanlagen aus dem 17. Jahrhundert, die sich am besten im warmen Licht vor dem Sonnenuntergang fotografieren lassen.",
+            "hu": "Tapasztalja meg a 17. századi csillag alakú erődítmények nagyszerűségét, amelyeket a legkiválóbban a naplemente előtti aranyórában lehet a legjobban lefotózni.",
+            "ro": "Experimentați grandoarea fortificațiilor în formă de stea din secolul al XVII-lea, care sunt cel mai bine fotografiate în lumina caldă de dinaintea apusului.",
+            "en": "Experience the incredible grandeur of the 17th-century star-shaped fortifications, which are best photographed in the warm golden hour light before sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster São Francisco von Elvas",
+            "hu": "Elvasi São Francisco Kolostor",
+            "ro": "Mănăstirea São Francisco din Elvas",
+            "en": "Convent of São Francisco of Elvas"
+          },
+          "coords": [
+            -7.175088,
+            38.879318
+          ],
+          "category": "religious",
+          "arrive_at": "15:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche religiöse Stätte mit ihrer reichen Geschichte und schönen Fliesen und bewahren Sie ein ruhiges Auftreten aus Respekt.",
+            "hu": "Fedezze fel ezt a békés vallási helyszínt, gazdag történelmével és gyönyörű csempéivel, miközben csendes tisztelettel adózik a nyugodt, csendes légkörnek.",
+            "ro": "Explorați acest sit religios pașnic, cu o istorie bogată și plăci ceramice frumoase, păstrând o atitudine liniștită din respect pentru atmosfera de aici.",
+            "en": "Explore this peaceful religious site with its rich history and beautiful painted tiles, maintaining a quiet demeanor out of respect for its serene atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt einen leichten Aufstieg zur Fernandina-Mauer, wo Elvas sein mittelalterliches Layout enthüllt. Die Mittagszeit ist der lokalen Fotografiegeschichte gewidmet. Der Nachmittag erkundet faszinierende moderne Kunst und die berühmten sternförmigen Mauern der Stadt. Der Abend bietet schließlich einen sehr ruhigen und besinnlichen Rückzugsort in der Nähe des historischen Klosters.",
+        "hu": "A reggel enyhe emelkedővel indul a történelmi Fernandina-falhoz, ahol Elvas felfedi középkori alaprajzát. A dél környéke a helyi fotótörténeté. A délután a modern művészetet és a hatalmas csillag alakú falakat fedezi fel. Az este végül egy igazán csendes és megnyugtató elvonulást kínál a lenyűgöző történelmi kolostor közelében a teljes nyugalom jegyében.",
+        "ro": "Dimineața aduce o urcare ușoară spre Zidul Fernandina, unde Elvas își dezvăluie structura medievală. La prânz explorăm istoria artei fotografice locale. După-amiaza este dedicată artei moderne portugheze și zidurilor vaste în formă de stea. Seara oferă o retragere deosebit de liniștită și relaxantă lângă Mănăstirea istorică, perfectă pentru meditație.",
+        "en": "Morning brings a gentle climb to the Fernandina Wall, where Elvas unveils its medieval layout. Midday moves toward local arts and photographic history. The afternoon explores modern Portuguese art and the vast star-shaped walls that protect the city. Evening offers a very quiet and reflective retreat near the historic Convent, ending the walking tour peacefully."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 3.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort São Domingos",
+            "hu": "São Domingos Erőd",
+            "ro": "Fortul São Domingos",
+            "en": "São Domingos Fort"
+          },
+          "coords": [
+            -7.176941,
+            38.877663
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses kleine, aber strategisch enorm wichtige Verteidigungsfort bietet eine einzigartige Perspektive auf die militärische Vergangenheit von Elvas.",
+            "hu": "Ez a kicsi, de stratégiailag kulcsfontosságú erődítmény teljesen egyedi betekintést nyújt Elvas katonai múltjába, ezért keresse meg az őrposztokat.",
+            "ro": "Acest mic fort defensiv, dar crucial din punct de vedere strategic, oferă o perspectivă complet unică asupra trecutului militar; căutați posturile de pază.",
+            "en": "This small yet strategically crucial defensive fort offers a completely unique perspective on Elvas’s military past, so look for the preserved sentry posts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster São Francisco von Elvas",
+            "hu": "Elvasi São Francisco Kolostor",
+            "ro": "Mănăstirea São Francisco din Elvas",
+            "en": "Convent of São Francisco of Elvas"
+          },
+          "coords": [
+            -7.175088,
+            38.879318
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche religiöse Stätte mit ihrer reichen Geschichte und schönen Fliesen und bewahren Sie ein ruhiges Auftreten aus Respekt.",
+            "hu": "Fedezze fel ezt a békés vallási helyszínt, gazdag történelmével és gyönyörű csempéivel, miközben csendes tisztelettel adózik a nyugodt légkörnek.",
+            "ro": "Explorați acest sit religios pașnic, cu o istorie bogată și plăci ceramice frumoase, păstrând o atitudine liniștită din respect pentru atmosferă.",
+            "en": "Explore this peaceful religious site with its rich history and beautiful painted tiles, maintaining a quiet demeanor out of respect for its serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauern aus dem 17. Jahrhundert",
+            "hu": "17. századi városfalak",
+            "ro": "Zidurile din secolul al XVII-lea",
+            "en": "17th-century Walls"
+          },
+          "coords": [
+            -7.168861,
+            38.880832
+          ],
+          "category": "castle",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erleben Sie die Pracht der sternförmigen Befestigungsanlagen aus dem 17. Jahrhundert, die sich am besten im warmen Licht der goldenen Stunde fotografieren lassen.",
+            "hu": "Tapasztalja meg a 17. századi csillag alakú erődítmények nagyszerűségét, amelyeket a legkiválóbban a naplemente előtti aranyórában lehet lefotózni.",
+            "ro": "Experimentați grandoarea fortificațiilor în formă de stea din secolul al XVII-lea, care sunt cel mai bine fotografiate în lumina caldă dinaintea apusului.",
+            "en": "Experience the incredible grandeur of the 17th-century star-shaped fortifications, which are best photographed in the warm golden hour light before sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernandina-Mauer",
+            "hu": "Fernandina-fal",
+            "ro": "Zidul Fernandina",
+            "en": "Fernandina Wall"
+          },
+          "coords": [
+            -7.159408,
+            38.879199
+          ],
+          "category": "castle",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesen alten Festungsmauern aus dem 14. Jahrhundert entlang und tragen Sie unbedingt feste Schuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Sétáljon végig a 14. századi várfalakon, hogy megértse Elvas középkori kiterjedését, de mindenképpen kényelmes és strapabíró cipőt viseljen.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri vechi din secolul al XIV-lea și purtați neapărat încălțăminte robustă pentru potecile pavate inegale din oraș.",
+            "en": "Walk along these ancient 14th-century defensive walls to fully grasp the medieval scale of Elvas, and be sure to wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort São Mamede",
+            "hu": "São Mamede Erőd",
+            "ro": "Fortul São Mamede",
+            "en": "São Mamede Fort"
+          },
+          "coords": [
+            -7.154855,
+            38.87117
+          ],
+          "category": "fortress",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Verteidigungsanlage ein, um brillante Militärarchitektur zu sehen, aber achten Sie auf die extrem steilen Steinstufen.",
+            "hu": "Lépjen be ebbe a történelmi védelmi építménybe a katonai építészet megismeréséhez, de legyen nagyon óvatos a felfelé vezető meredek kőlépcsőkön.",
+            "ro": "Pășiți în această structură defensivă istorică pentru a vedea arhitectura militară, dar aveți mare grijă la treptele abrupte de piatră care duc spre vârf.",
+            "en": "Step inside this historic defensive structure to witness brilliant military architecture, but be extremely careful on the steep stone steps leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort São Pedro",
+            "hu": "São Pedro Erőd",
+            "ro": "Fortul São Pedro",
+            "en": "São Pedro Fort"
+          },
+          "coords": [
+            -7.165345,
+            38.871806
+          ],
+          "category": "fortress",
+          "arrive_at": "15:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Ein weiteres wichtiges Puzzleteil des riesigen Verteidigungsnetzwerks, das die Südflanke schützte; lesen Sie unbedingt die Informationstafel am Eingang.",
+            "hu": "A város kiterjedt védelmi hálózatának egy újabb alapvető eleme, amely a déli szárnyat védte, érdemes elolvasni a bejáratnál lévő tájékoztató táblát.",
+            "ro": "O altă piesă esențială a rețelei defensive a orașului care proteja flancul sudic; cel mai bine este să citiți placa informativă utilă de la intrare.",
+            "en": "Another absolutely essential piece of the city's vast defensive network that protected the southern flank, best paired with a quick read of its entry plaque."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Radtour am Fortim de São Domingos in der frischen Morgenluft. Gegen Mittag radeln Sie vorbei am schönen Kloster tief in die Befestigungsanlagen. Das nachmittägliche Treten bringt Sie zu den alten Mauern und den beeindruckenden südlichen Festungen. Der Abend endet schließlich sehr friedlich und entspannt am historischen São Pedro.",
+        "hu": "Kezdje kerékpártúráját a Fortim de São Domingosnál a friss reggeli levegőn. Dél körül tekerjen el a kolostor mellett, és merüljön el a nagyszerű erődítményekben. A délutáni pedálozás a régi falakhoz és a déli erődökhöz viszi a látogatót. Az este békésen ér véget a történelmi São Pedro erőd környékén, ahol megpihenhet a fárasztó út után.",
+        "ro": "Începeți turul cu bicicleta la Fortim de São Domingos în aerul proaspăt al dimineții. În jurul prânzului, treceți pe lângă mănăstire și marile ziduri. Pedalarea de după-amiază vă duce la vechile ziduri Fernandina și la forturile sudice uimitoare. Seara se încheie deosebit de liniștit și relaxant la faimosul fort istoric São Pedro.",
+        "en": "Kick off your cycling tour at Fortim de São Domingos in the fresh morning air. Around noon, ride past the convent and dive into the majestic 17th-century fortifications. Afternoon pedaling takes you to the old Fernandina walls and the impressive southern forts. Evening ends very peacefully at São Pedro, concluding an active and highly rewarding day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 4.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mauern aus dem 17. Jahrhundert",
+            "hu": "17. századi városfalak",
+            "ro": "Zidurile din secolul al XVII-lea",
+            "en": "17th-century Walls"
+          },
+          "coords": [
+            -7.168861,
+            38.880832
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Pracht der sternförmigen Befestigungsanlagen aus dem 17. Jahrhundert, die sich am besten im warmen Licht der goldenen Stunde fotografieren lassen.",
+            "hu": "Tapasztalja meg a 17. századi csillag alakú erődítmények nagyszerűségét, amelyeket a legkiválóbban a naplemente előtti aranyórában lehet lefotózni.",
+            "ro": "Experimentați grandoarea fortificațiilor în formă de stea din secolul al XVII-lea, care sunt cel mai bine fotografiate în lumina caldă dinaintea apusului.",
+            "en": "Experience the incredible grandeur of the 17th-century star-shaped fortifications, which are best photographed in the warm golden hour light before sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort São Domingos",
+            "hu": "São Domingos Erőd",
+            "ro": "Fortul São Domingos",
+            "en": "São Domingos Fort"
+          },
+          "coords": [
+            -7.176941,
+            38.877663
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Dieses kleine, aber strategisch enorm wichtige Verteidigungsfort bietet eine einzigartige Perspektive auf die militärische Vergangenheit von Elvas.",
+            "hu": "Ez a kicsi, de stratégiailag kulcsfontosságú erődítmény teljesen egyedi betekintést nyújt Elvas katonai múltjába, ezért keresse meg az őrposztokat.",
+            "ro": "Acest mic fort defensiv, dar crucial din punct de vedere strategic, oferă o perspectivă complet unică asupra trecutului militar; căutați posturile de pază.",
+            "en": "This small yet strategically crucial defensive fort offers a completely unique perspective on Elvas’s military past, so look for the preserved sentry posts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort São Pedro",
+            "hu": "São Pedro Erőd",
+            "ro": "Fortul São Pedro",
+            "en": "São Pedro Fort"
+          },
+          "coords": [
+            -7.165345,
+            38.871806
+          ],
+          "category": "fortress",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Ein weiteres wichtiges Puzzleteil des riesigen Verteidigungsnetzwerks, das die Südflanke schützte; lesen Sie unbedingt die Informationstafel am Eingang.",
+            "hu": "A város kiterjedt védelmi hálózatának egy újabb alapvető eleme, amely a déli szárnyat védte, érdemes elolvasni a bejáratnál lévő tájékoztató táblát.",
+            "ro": "O altă piesă esențială a rețelei defensive a orașului care proteja flancul sudic; cel mai bine este să citiți placa informativă utilă de la intrare.",
+            "en": "Another absolutely essential piece of the city's vast defensive network that protected the southern flank, best paired with a quick read of its entry plaque."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad José Vicente Abreu",
+            "hu": "José Vicente Abreu Uszoda",
+            "ro": "Piscina José Vicente Abreu",
+            "en": "José Vicente Abreu Swimming Pool"
+          },
+          "coords": [
+            -7.16795,
+            38.875068
+          ],
+          "category": "park",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit Ihrer Familie in diesem angenehmen lokalen Schwimmbad ab, packen Sie reichlich Sonnencreme ein und genießen Sie die Pause.",
+            "hu": "Hűtse le magát családjával ebben a kellemes helyi uszodakomplexumban, csomagoljon sok naptejet, és élvezze a frissítő déli szünetet a medencében.",
+            "ro": "Răcoriți-vă împreună cu familia la acest complex local de piscine plăcut, luând cu dumneavoastră multă cremă de soare și bucurându-vă de o pauză.",
+            "en": "Cool off with your whole family at this incredibly pleasant local swimming pool complex, packing plenty of sunscreen and enjoying a refreshing midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort São Mamede",
+            "hu": "São Mamede Erőd",
+            "ro": "Fortul São Mamede",
+            "en": "São Mamede Fort"
+          },
+          "coords": [
+            -7.154855,
+            38.87117
+          ],
+          "category": "fortress",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.21,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Verteidigungsanlage ein, um brillante Militärarchitektur zu sehen, aber achten Sie auf die extrem steilen Steinstufen.",
+            "hu": "Lépjen be ebbe a történelmi védelmi építménybe a katonai építészet megismeréséhez, de legyen nagyon óvatos a felfelé vezető meredek kőlépcsőkön.",
+            "ro": "Pășiți în această structură defensivă istorică pentru a vedea arhitectura militară, dar aveți mare grijă la treptele abrupte de piatră care duc spre vârf.",
+            "en": "Step inside this historic defensive structure to witness brilliant military architecture, but be extremely careful on the steep stone steps leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst von Elvas",
+            "hu": "Elvasi Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană din Elvas",
+            "en": "Elvas Contemporary Art Museum"
+          },
+          "coords": [
+            -7.164617,
+            38.879723
+          ],
+          "category": "museum",
+          "arrive_at": "15:57",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne portugiesische Kunst in diesem ehemaligen Krankenhaus und prüfen Sie das Programm rechtzeitig auf temporäre Nachmittagsausstellungen.",
+            "hu": "Csodálja meg a modern portugál művészeti gyűjteményt ebben az egykori kórházépületben, és érdemes előre ellenőrizni az időszaki délutáni kiállításokat.",
+            "ro": "Admirați o colecție remarcabilă de artă portugheză modernă în acest fost spital, dar verificați programul zilnic pentru expozițiile temporare de după-amiază.",
+            "en": "Admire a remarkable collection of modern Portuguese art housed in this former hospital building, checking their daily schedule for temporary afternoon exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt an den großen Mauern, bevor Sie zügig zum Fort São Domingos fahren. Die Mittagszeit ist wirklich perfekt, um sich am Familienpool abzukühlen. Der Nachmittag enthüllt beeindruckende weitere Militärgeschichte im spektakulären São Mamede. Der Abend endet elegant und inspirierend im Museum für zeitgenössische Kunst in der Stadt.",
+        "hu": "Az autózás a nagyszerű 17. századi falaknál kezdődik, majd a stratégiai São Domingos erőd felé veszi az irányt. A dél tökéletes a medencénél való hűsölésre. A délután további izgalmas katonai történelmet tár fel a masszív São Mamede erődítményben. Az este végül a város kiváló kortárs művészeti múzeumában ér véget kulturális feltöltődéssel.",
+        "ro": "Plimbarea cu mașina începe la zidurile grandioase înainte de a ajunge rapid la fortul strategic São Domingos. Prânzul este absolut perfect pentru a vă răcori la piscina locală. După-amiaza descoperă mai multă istorie militară fascinantă la impresionantul fort São Mamede. Seara se încheie cultural la muzeul de artă contemporană din centrul orașului.",
+        "en": "Your drive begins at the grand 17th-century walls before hopping directly to the strategic São Domingos fort. Midday is perfect for visiting the southern forts and cooling off at the family pool. The afternoon uncovers more incredible military history at São Mamede. Evening concludes wonderfully at the contemporary art museum, full of inspiration."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-pinhel-cities-v2",
+  "anchor": {
+    "name": "Pinhel",
+    "coords": [
+      -7.0667,
+      40.7667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Santo António",
+            "hu": "Igreja de Santo António",
+            "ro": "Igreja de Santo António",
+            "en": "Igreja de Santo António"
+          },
+          "coords": [
+            -7.060328,
+            40.771779
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Azulejos dieser ruhigen Kirche, ein wahres Zeugnis des lokalen Glaubens, und kommen Sie früh wegen der Mittagssonne.",
+            "hu": "Csodálja meg a csendes templomot díszítő gyönyörű csempéket, a helyi hit tanúbizonyságát, és látogasson ide korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați azulejurile rafinate care decorează această biserică liniștită, o dovadă a credinței locale, și vizitați-o devreme pentru a evita soarele de prânz.",
+            "en": "Admire the exquisite azulejos decorating this quiet church, a true testament to local faith, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Academia de Música de Pinhel",
+            "hu": "Academia de Música de Pinhel",
+            "ro": "Academia de Música de Pinhel",
+            "en": "Academia de Música de Pinhel"
+          },
+          "coords": [
+            -7.062506,
+            40.77265
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den lebendigen kulturellen Herzschlag von Pinhel in dieser Musikakademie, aber prüfen Sie vorab den Plan auf spontane Aufführungen.",
+            "hu": "Tapasztalja meg Pinhel pezsgő kulturális életét ebben a zeneakadémiában, de érdemes előre tájékozódni a rögtönzött nyilvános előadások idejéről.",
+            "ro": "Experimentați ritmul cultural din Pinhel în această academie de muzică, dar verificați programul în prealabil pentru spectacole publice improvizate.",
+            "en": "Experience the vibrant cultural heartbeat of Pinhel in this lively music academy, but check their schedule beforehand for impromptu public performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Cine-Teatro de Pinhel",
+            "hu": "Cine-Teatro de Pinhel",
+            "ro": "Cine-Teatro de Pinhel",
+            "en": "Cine-Teatro de Pinhel"
+          },
+          "coords": [
+            -7.062653,
+            40.77469
+          ],
+          "category": "cultural",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen architektonischen Linien dieses Unterhaltungszentrums und versuchen Sie, eine Wochenend-Matinee mit Einheimischen zu erleben.",
+            "hu": "Csodálja meg e helyi szórakoztató központ modern építészeti vonalait, és próbáljon elcsípni egy hétvégi matinét, hogy elvegyüljön a barátságos helyiekkel.",
+            "ro": "Minunați-vă de liniile arhitecturale moderne ale acestui centru de divertisment și încercați să prindeți o matineu de weekend pentru a socializa cu localnicii.",
+            "en": "Marvel at the modern architectural lines of this local entertainment hub, and try to catch a weekend matinee to mingle with the friendly townspeople."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Helena e António Seixas",
+            "hu": "Casa Museu Helena e António Seixas",
+            "ro": "Casa Museu Helena e António Seixas",
+            "en": "Casa Museu Helena e António Seixas"
+          },
+          "coords": [
+            -7.063865,
+            40.775424
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses schön erhaltene Haus, um reiche Familiengeschichten zu entdecken, und achten Sie auf die antiken Möbel im lichtdurchfluteten Obergeschoss.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött házba, fedezze fel a családtörténetet, és figyelje meg a korabeli bútorokat a napfényes emeleti részen.",
+            "ro": "Pășiți în această casă frumos conservată pentru a descoperi istorii de familie și concentrați-vă pe mobilierul de epocă de la etajul superior luminat de soare.",
+            "en": "Step into this beautifully preserved house to discover rich family histories, and focus on the intricate period furniture on the sunlit upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Pinhel",
+            "hu": "Museu Municipal de Pinhel",
+            "ro": "Museu Municipal de Pinhel",
+            "en": "Museu Municipal de Pinhel"
+          },
+          "coords": [
+            -7.062619,
+            40.77574
+          ],
+          "category": "museum",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Artefakte zu den historischen Wurzeln der Region und fragen Sie das Personal nach den prähistorischen Fundstücken.",
+            "hu": "Fedezze fel a régió mély történelmi gyökereit nyomon követő lenyűgöző tárgyakat, és kérdezze a hozzáértő személyzetet a kiállított őskori leletekről.",
+            "ro": "Explorați artefacte fascinante care urmăresc rădăcinile istorice ale regiunii și întrebați personalul despre descoperirile preistorice expuse.",
+            "en": "Explore fascinating artifacts tracing the region's deep historical roots, and ask the knowledgeable staff about the prehistoric discoveries on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Pinhel",
+            "hu": "Castelo de Pinhel",
+            "ro": "Castelo de Pinhel",
+            "en": "Castelo de Pinhel"
+          },
+          "coords": [
+            -7.061484,
+            40.776896
+          ],
+          "category": "castle",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die mittelalterlichen Mauern für einen weiten Panoramablick auf die Landschaft, aber bringen Sie eine Jacke mit, da es oben sehr windig wird.",
+            "hu": "Mássza meg az impozáns középkori falakat a környező vidékre nyíló pazar kilátásért, de hozzon egy könnyű kabátot, mert a csúcson gyakran szeles az idő.",
+            "ro": "Urcați pe zidurile medievale impunătoare pentru o vedere panoramică asupra peisajului și aduceți o jachetă ușoară, deoarece sus bate vântul puternic.",
+            "en": "Climb the imposing medieval walls for sweeping panoramic views of the surrounding countryside, bringing a light jacket as it gets windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Trindade",
+            "hu": "Igreja da Trindade",
+            "ro": "Igreja da Trindade",
+            "en": "Igreja da Trindade"
+          },
+          "coords": [
+            -7.060921,
+            40.779172
+          ],
+          "category": "historical",
+          "arrive_at": "16:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieser historischen Kirche, die seit Jahrhunderten das Zentrum bildet, und bewundern Sie den geschnitzten Holzaltar.",
+            "hu": "Csodálja meg e történelmi templom finom kőfaragásait, amely évszázadok óta a közösség horgonya, és szánjon időt a faragott faoltár megtekintésére is.",
+            "ro": "Minunați-vă de detaliile din piatră ale acestei biserici istorice ce a ancorat comunitatea, luându-vă timp pentru a admira altarul din lemn sculptat.",
+            "en": "Marvel at the delicate stonework of this historic church that has anchored the community for centuries, taking time to admire the carved wooden altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang an der ruhigen Igreja de Santo António und tauchen Sie in den Rhythmus der Musikakademie ein. Der Mittag bringt künstlerische Entdeckungen im Cine-Teatro und intime Geschichten im Casa Museu. Ihr Nachmittag ist der Vergangenheit gewidmet, mit den Ausstellungen des Stadtmuseums und dem Aufstieg zum ikonischen Schloss. Beenden Sie den Abend an der historischen Igreja da Trindade.",
+        "hu": "Kezdje sétáját a békés Igreja de Santo António templomnál, majd merüljön el a zeneakadémia kulturális ritmusában. A délben művészeti felfedezések várják a Cine-Teatroban és meghitt történetek a Casa Museuban. A délután a múlté: tekintse meg a Városi Múzeum gazdag kiállításait, mielőtt felmászna az ikonikus várba. Az estét a történelmi Igreja da Trindade templomnál zárhatja az alkonyatban.",
+        "ro": "Începeți plimbarea la senina Igreja de Santo António, apoi scufundați-vă în ritmul cultural de la academia de muzică. La prânz, descoperiți arta la Cine-Teatro și poveștile din Casa Museu. După-amiaza este dedicată trecutului, explorând exponatele bogate ale Muzeului Municipal înainte de a urca la Castelul emblematic. Încheiați seara la istorica Igreja da Trindade, admirând apusul.",
+        "en": "Begin your walking tour at the serene Igreja de Santo António, then immerse yourself in the cultural rhythm at the local music academy. Midday unfolds with artistic discoveries at the Cine-Teatro and intimate stories inside the Casa Museu Helena e António Seixas. Your afternoon is dedicated to the past, exploring the rich exhibits of the Municipal Museum before climbing the iconic Castle. Conclude your evening at the historic Igreja da Trindade, watching the twilight settle."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 1.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -7.064955,
+            40.772578
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im glitzernden Wasser des örtlichen Pools ab, einem perfekten Familienrückzugsort, aber kommen Sie vor dem Mittagessen für einen Liegestuhl.",
+            "hu": "Hűtse le magát a zöldövezettel körülvett helyi medence csillogó vizében, amely tökéletes a családoknak, de érkezzen ebéd előtt, hogy biztosan kapjon napágyat.",
+            "ro": "Răcoriți-vă în apele strălucitoare ale piscinei locale, o retragere perfectă pentru familie, dar ajungeți înainte de prânz pentru a prinde un șezlong.",
+            "en": "Cool off in the sparkling waters of the local pool surrounded by green spaces, a perfect family retreat, but arrive before lunch to secure a lounge chair."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Metello de Nápoles",
+            "hu": "Casa Metello de Nápoles",
+            "ro": "Casa Metello de Nápoles",
+            "en": "Casa Metello de Nápoles"
+          },
+          "coords": [
+            -7.066577,
+            40.775666
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Fassade dieser edlen Residenz, die eine vergangene Ära des Luxus widerspiegelt, und machen Sie Fotos vom ruhigen Platz gegenüber.",
+            "hu": "Csodálja meg e nemesi rezidencia grandiózus homlokzatát, amely letűnt korok luxusát idézi, és készítsen remek fotókat a közvetlenül szemben lévő csendes térről.",
+            "ro": "Apreciați fațada grandioasă a acestei reședințe nobile care evocă o epocă apusă de lux, surprinzând fotografii din piața liniștită situată chiar vizavi.",
+            "en": "Appreciate the grand facade of this elegant noble residence that echoes a bygone era of luxury, capturing photos from the quiet square just opposite."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Helena e António Seixas",
+            "hu": "Casa Museu Helena e António Seixas",
+            "ro": "Casa Museu Helena e António Seixas",
+            "en": "Casa Museu Helena e António Seixas"
+          },
+          "coords": [
+            -7.063865,
+            40.775424
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses schön erhaltene Haus, um reiche Familiengeschichten zu entdecken, und achten Sie auf die antiken Möbel im lichtdurchfluteten Obergeschoss.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött házba, fedezze fel a családtörténetet, és figyelje meg a korabeli bútorokat a napfényes emeleti részen.",
+            "ro": "Pășiți în această casă frumos conservată pentru a descoperi istorii de familie și concentrați-vă pe mobilierul de epocă de la etajul superior luminat de soare.",
+            "en": "Step into this beautifully preserved house to discover rich family histories, and focus on the intricate period furniture on the sunlit upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Pinhel",
+            "hu": "Museu Municipal de Pinhel",
+            "ro": "Museu Municipal de Pinhel",
+            "en": "Museu Municipal de Pinhel"
+          },
+          "coords": [
+            -7.062619,
+            40.77574
+          ],
+          "category": "museum",
+          "arrive_at": "13:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Artefakte zu den historischen Wurzeln der Region und fragen Sie das Personal nach den prähistorischen Fundstücken.",
+            "hu": "Fedezze fel a régió mély történelmi gyökereit nyomon követő lenyűgöző tárgyakat, és kérdezze a hozzáértő személyzetet a kiállított őskori leletekről.",
+            "ro": "Explorați artefacte fascinante care urmăresc rădăcinile istorice ale regiunii și întrebați personalul despre descoperirile preistorice expuse.",
+            "en": "Explore fascinating artifacts tracing the region's deep historical roots, and ask the knowledgeable staff about the prehistoric discoveries on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Pinhel",
+            "hu": "Castelo de Pinhel",
+            "ro": "Castelo de Pinhel",
+            "en": "Castelo de Pinhel"
+          },
+          "coords": [
+            -7.061484,
+            40.776896
+          ],
+          "category": "castle",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die mittelalterlichen Mauern für einen weiten Panoramablick auf die Landschaft, aber bringen Sie eine Jacke mit, da es oben sehr windig wird.",
+            "hu": "Mássza meg az impozáns középkori falakat a környező vidékre nyíló pazar kilátásért, de hozzon egy könnyű kabátot, mert a csúcson gyakran szeles az idő.",
+            "ro": "Urcați pe zidurile medievale impunătoare pentru o vedere panoramică asupra peisajului și aduceți o jachetă ușoară, deoarece sus bate vântul puternic.",
+            "en": "Climb the imposing medieval walls for sweeping panoramic views of the surrounding countryside, bringing a light jacket as it gets windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Trindade",
+            "hu": "Igreja da Trindade",
+            "ro": "Igreja da Trindade",
+            "en": "Igreja da Trindade"
+          },
+          "coords": [
+            -7.060921,
+            40.779172
+          ],
+          "category": "historical",
+          "arrive_at": "16:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieser historischen Kirche, die seit Jahrhunderten das Zentrum bildet, und bewundern Sie den geschnitzten Holzaltar.",
+            "hu": "Csodálja meg e történelmi templom finom kőfaragásait, amely évszázadok óta a közösség horgonya, és szánjon időt a faragott faoltár megtekintésére is.",
+            "ro": "Minunați-vă de detaliile din piatră ale acestei biserici istorice ce a ancorat comunitatea, luându-vă timp pentru a admira altarul din lemn sculptat.",
+            "en": "Marvel at the delicate stonework of this historic church that has anchored the community for centuries, taking time to admire the carved wooden altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem erfrischenden Morgen im Piscina Municipal und radeln Sie dann zur prächtigen Casa Metello de Nápoles. Der Mittag führt Sie durch die faszinierenden Räume des Casa Museu. Setzen Sie Ihre Nachmittagsfahrt zum Stadtmuseum fort und bestaunen Sie antike Artefakte, bevor Sie das Schloss erobern. Beenden Sie Ihre Radtour an der Igreja da Trindade, während die Sonne untergeht.",
+        "hu": "Kezdje egy frissítő reggellel a Városi Uszodában, majd tekerjen a grandiózus Casa Metello de Nápoles felé. A dél a Casa Museu lenyűgöző szobáin vezet keresztül, bepillantást engedve a történelmi mindennapokba. Folytassa délutáni útját a Városi Múzeumhoz, majd hódítsa meg a Várat. Kerékpáros utazását a naplementében az Igreja da Trindade templomnál fejezheti be egy csendes pihenővel.",
+        "ro": "Începeți dimineața la Piscina Municipal, bucurându-vă de atmosfera vibrantă înainte de a pedala spre grandioasa Casa Metello de Nápoles. Prânzul vă poartă prin camerele captivante de la Casa Museu. Continuați-vă plimbarea de după-amiază spre Muzeul Municipal și minunați-vă de artefactele antice înainte de a cuceri Castelul. Încheiați-vă călătoria pe două roți la Igreja da Trindade.",
+        "en": "Start with a refreshing morning at the Piscina Municipal, enjoying the vibrant family atmosphere before pedaling towards the grand Casa Metello de Nápoles. Midday takes you through the captivating rooms of the Casa Museu Helena e António Seixas, offering a glimpse into historic daily life. Continue your afternoon ride to the Municipal Museum and marvel at ancient artifacts before conquering the Castle. End your cycling journey at Igreja da Trindade as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja da Trindade",
+            "hu": "Igreja da Trindade",
+            "ro": "Igreja da Trindade",
+            "en": "Igreja da Trindade"
+          },
+          "coords": [
+            -7.060921,
+            40.779172
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieser historischen Kirche, die seit Jahrhunderten das Zentrum bildet, und bewundern Sie den geschnitzten Holzaltar.",
+            "hu": "Csodálja meg e történelmi templom finom kőfaragásait, amely évszázadok óta a közösség horgonya, és szánjon időt a faragott faoltár megtekintésére is.",
+            "ro": "Minunați-vă de detaliile din piatră ale acestei biserici istorice ce a ancorat comunitatea, luându-vă timp pentru a admira altarul din lemn sculptat.",
+            "en": "Marvel at the delicate stonework of this historic church that has anchored the community for centuries, taking time to admire the carved wooden altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Pinhel",
+            "hu": "Castelo de Pinhel",
+            "ro": "Castelo de Pinhel",
+            "en": "Castelo de Pinhel"
+          },
+          "coords": [
+            -7.061484,
+            40.776896
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die mittelalterlichen Mauern für einen weiten Panoramablick auf die Landschaft, aber bringen Sie eine Jacke mit, da es oben sehr windig wird.",
+            "hu": "Mássza meg az impozáns középkori falakat a környező vidékre nyíló pazar kilátásért, de hozzon egy könnyű kabátot, mert a csúcson gyakran szeles az idő.",
+            "ro": "Urcați pe zidurile medievale impunătoare pentru o vedere panoramică asupra peisajului și aduceți o jachetă ușoară, deoarece sus bate vântul puternic.",
+            "en": "Climb the imposing medieval walls for sweeping panoramic views of the surrounding countryside, bringing a light jacket as it gets windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Metello de Nápoles",
+            "hu": "Casa Metello de Nápoles",
+            "ro": "Casa Metello de Nápoles",
+            "en": "Casa Metello de Nápoles"
+          },
+          "coords": [
+            -7.066577,
+            40.775666
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Fassade dieser edlen Residenz, die eine vergangene Ära des Luxus widerspiegelt, und machen Sie Fotos vom ruhigen Platz gegenüber.",
+            "hu": "Csodálja meg e nemesi rezidencia grandiózus homlokzatát, amely letűnt korok luxusát idézi, és készítsen remek fotókat a közvetlenül szemben lévő csendes térről.",
+            "ro": "Apreciați fațada grandioasă a acestei reședințe nobile care evocă o epocă apusă de lux, surprinzând fotografii din piața liniștită situată chiar vizavi.",
+            "en": "Appreciate the grand facade of this elegant noble residence that echoes a bygone era of luxury, capturing photos from the quiet square just opposite."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Helena e António Seixas",
+            "hu": "Casa Museu Helena e António Seixas",
+            "ro": "Casa Museu Helena e António Seixas",
+            "en": "Casa Museu Helena e António Seixas"
+          },
+          "coords": [
+            -7.063865,
+            40.775424
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses schön erhaltene Haus, um reiche Familiengeschichten zu entdecken, und achten Sie auf die antiken Möbel im lichtdurchfluteten Obergeschoss.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött házba, fedezze fel a családtörténetet, és figyelje meg a korabeli bútorokat a napfényes emeleti részen.",
+            "ro": "Pășiți în această casă frumos conservată pentru a descoperi istorii de familie și concentrați-vă pe mobilierul de epocă de la etajul superior luminat de soare.",
+            "en": "Step into this beautifully preserved house to discover rich family histories, and focus on the intricate period furniture on the sunlit upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santo António",
+            "hu": "Igreja de Santo António",
+            "ro": "Igreja de Santo António",
+            "en": "Igreja de Santo António"
+          },
+          "coords": [
+            -7.060328,
+            40.771779
+          ],
+          "category": "religious",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Azulejos dieser ruhigen Kirche, ein wahres Zeugnis des lokalen Glaubens, und kommen Sie früh wegen der Mittagssonne.",
+            "hu": "Csodálja meg a csendes templomot díszítő gyönyörű csempéket, a helyi hit tanúbizonyságát, és látogasson ide korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați azulejurile rafinate care decorează această biserică liniștită, o dovadă a credinței locale, și vizitați-o devreme pentru a evita soarele de prânz.",
+            "en": "Admire the exquisite azulejos decorating this quiet church, a true testament to local faith, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -7.064955,
+            40.772578
+          ],
+          "category": "family",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im glitzernden Wasser des örtlichen Pools ab, einem perfekten Familienrückzugsort, aber kommen Sie vor dem Mittagessen für einen Liegestuhl.",
+            "hu": "Hűtse le magát a zöldövezettel körülvett helyi medence csillogó vizében, amely tökéletes a családoknak, de érkezzen ebéd előtt, hogy biztosan kapjon napágyat.",
+            "ro": "Răcoriți-vă în apele strălucitoare ale piscinei locale, o retragere perfectă pentru familie, dar ajungeți înainte de prânz pentru a prinde un șezlong.",
+            "en": "Cool off in the sparkling waters of the local pool surrounded by green spaces, a perfect family retreat, but arrive before lunch to secure a lounge chair."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Igreja da Trindade, um Ihren Morgen in historischer Architektur zu beginnen. Die Reise führt weiter zum beeindruckenden Castelo de Pinhel, gefolgt von einem Stopp an der Casa Metello de Nápoles. Verbringen Sie den Nachmittag mit den faszinierenden Sammlungen im Casa Museu, bevor Sie zur Igreja de Santo António fahren. Entspannen Sie sich abends gemütlich am Piscina Municipal.",
+        "hu": "Autózzon a történelmi Igreja da Trindade templomhoz, hogy a reggelt az évszázados építészet ölelésében kezdje. Utazása a lenyűgöző Castelo de Pinhelhez vezet, majd délben megcsodálhatja a Casa Metello de Nápoles eleganciáját. Töltse a délutánt a Casa Museu gyűjteményeinek felfedezésével, mielőtt a békés Igreja de Santo António felé venné az irányt. Végül pihenjen meg a Városi Uszodánál.",
+        "ro": "Conduceți spre istorica Igreja da Trindade pentru a vă începe dimineața înconjurat de o arhitectură senină. Călătoria continuă spre formidabilul Castelo de Pinhel, urmat de o oprire la prânz pentru a admira eleganța Casei Metello de Nápoles. Petreceți după-amiaza explorând colecțiile de la Casa Museu, înainte de a merge la Igreja de Santo António. Seara, relaxați-vă la Piscina Municipal.",
+        "en": "Drive to the historic Igreja da Trindade to start your morning enveloped in centuries of serene architecture and faith. Your journey continues to the formidable Castelo de Pinhel, followed by a midday stop to admire the elegance of Casa Metello de Nápoles. Spend the afternoon exploring the fascinating collections at the Casa Museu before heading to the peaceful Igreja de Santo António. Finally, unwind at the Piscina Municipal, enjoying a relaxing twilight dip."
+      }
+    }
+  }
+}

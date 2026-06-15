@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-barri-del-remei-castell-cities-v2",
+  "anchor": {
+    "name": "Barri del Remei-Castell",
+    "coords": [
+      2.33946,
+      41.49836
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ca l'Estartús",
+            "hu": "Ca l'Estartús",
+            "ro": "Ca l'Estartús",
+            "en": "Ca l'Estartús"
+          },
+          "coords": [
+            2.323899,
+            41.497669
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses historischen Anwesens, das die landwirtschaftliche Vergangenheit der Region widerspiegelt, und fotografieren Sie die Details im Morgenlicht.",
+            "hu": "Csodálja meg e történelmi birtok lenyűgöző homlokzatát, amely a régió mezőgazdasági múltját tükrözi, és mindenképpen fotózza le az egyedi építészeti részleteket a reggeli fényben.",
+            "ro": "Admirați fațada impresionantă a acestei moșii istorice care reflectă trecutul agricol al regiunii și nu uitați să fotografiați detaliile sale arhitecturale distincte în lumina dimineții.",
+            "en": "Admire the striking facade of this historic estate that reflects the region's agricultural past, and remember to photograph its distinct architectural details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ca l'Americano",
+            "hu": "Ca l'Americano",
+            "ro": "Ca l'Americano",
+            "en": "Ca l'Americano"
+          },
+          "coords": [
+            2.322917,
+            41.498528
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Residenz, die von heimkehrenden Auswanderern erbaut wurde, und achten Sie auf die kolonial inspirierten dekorativen Elemente an den Außenbalkonen.",
+            "hu": "Fedezze fel ezt a hazatérő emigránsok által épített lenyűgöző történelmi rezidenciát, és szánjon egy percet a külső erkélyek gyarmati ihletésű díszítőelemeinek megfigyelésére.",
+            "ro": "Explorați această reședință istorică fascinantă construită de emigranții întorși și observați elementele decorative de inspirație colonială de pe balcoanele exterioare.",
+            "en": "Explore this fascinating historic residence built by returning emigrants, and take a moment to notice the colonial-inspired decorative elements on the exterior balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Cal Llibreter",
+            "hu": "Cal Llibreter",
+            "ro": "Cal Llibreter",
+            "en": "Cal Llibreter"
+          },
+          "coords": [
+            2.321394,
+            41.498005
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe in den Mauern dieses traditionellen katalanischen Hauses und betrachten Sie das erhaltene Mauerwerk, das jahrhundertelange Handwerkskunst zeigt.",
+            "hu": "Fedezze fel a hagyományos katalán ház falaiban rejlő gazdag örökséget, és nézze meg közelebbről a megőrzött kőfalakat, amelyek évszázados helyi kézművességet emelnek ki.",
+            "ro": "Descoperiți moștenirea bogată ascunsă în pereții acestei case tradiționale catalane și priviți cu atenție zidăria conservată care evidențiază secole de măiestrie locală.",
+            "en": "Discover the rich heritage embedded in the walls of this traditional Catalan house, and look closely at the preserved stonework that highlights centuries of local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Llaurador de Dalt",
+            "hu": "Can Llaurador de Dalt",
+            "ro": "Can Llaurador de Dalt",
+            "en": "Can Llaurador de Dalt"
+          },
+          "coords": [
+            2.318344,
+            41.500318
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem typischen ländlichen Bauernhaus, das das historische Alltagsleben veranschaulicht, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Lépjen vissza az időben ezen a jellegzetes vidéki parasztházon, amely a történelmi mindennapokat mutatja be, és viseljen kényelmes cipőt a birtok körüli egyenetlen ösvényeken.",
+            "ro": "Întoarceți-vă în timp la această fermă rurală tipică ce ilustrează viața de zi cu zi istorică și purtați încălțăminte confortabilă pentru a parcurge potecile ușor denivelate.",
+            "en": "Step back in time at this quintessential rural farmhouse that illustrates historic daily life, and wear comfortable shoes to navigate the somewhat uneven pathways around the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Nova",
+            "hu": "Torre Nova",
+            "ro": "Torre Nova",
+            "en": "Torre Nova"
+          },
+          "coords": [
+            2.318337,
+            41.501761
+          ],
+          "category": "historical",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Struktur dieses bemerkenswerten historischen Turms, der als Wohn- und Verteidigungsanlage diente, und suchen Sie nach seinen ursprünglichen Merkmalen.",
+            "hu": "Figyelje meg ennek a figyelemre méltó, lakó- és védelmi célokat egyaránt szolgáló történelmi toronynak a fenséges szerkezetét, és próbálja megkeresni eredeti védelmi elemeit.",
+            "ro": "Observați structura maiestuoasă a acestui turn istoric remarcabil care a servit atât ca locuință cât și pentru apărare și încercați să identificați rămășițele elementelor sale defensive.",
+            "en": "Observe the majestic structure of this notable historical tower which served both residential and defensive purposes, and try to spot the remnants of its original defensive features."
+          }
+        },
+        {
+          "name": {
+            "de": "Ca l'Antiga",
+            "hu": "Ca l'Antiga",
+            "ro": "Ca l'Antiga",
+            "en": "Ca l'Antiga"
+          },
+          "coords": [
+            2.324039,
+            41.501949
+          ],
+          "category": "historical",
+          "arrive_at": "16:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem wunderschön erhaltenen alten Anwesen, um die tiefen Wurzeln der Gegend zu verstehen, und genießen Sie die ruhige Atmosphäre der Nachbarschaft.",
+            "hu": "Fejezze be sétáját ezen a gyönyörűen megőrzött ősi birtokon, hogy megértse a környék mély gyökereit, és élvezze a környező történelmi negyed nyugodt atmoszféráját.",
+            "ro": "Încheiați-vă turul pietonal la această proprietate antică frumos conservată pentru a înțelege rădăcinile zonei și bucurați-vă de atmosfera liniștită a cartierului istoric.",
+            "en": "Conclude your walking tour at this beautifully preserved ancient property to grasp the area's deep roots, and enjoy the tranquil atmosphere of the surrounding historic neighborhood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im Morgenlicht und erkunden die Fassaden von Ca l'Estartús und Ca l'Americano. Mittags bieten Cal Llibreter und Can Llaurador de Dalt einen tiefen Einblick in das ländliche und handwerkliche Erbe. Der Nachmittag ermöglicht einen gemütlichen Besuch der majestätischen Torre Nova, wo die Geschichte noch immer lebendig ist. Wenn der Abend naht, rundet die ruhige Aura von Ca l'Antiga unseren Tag ab.",
+        "hu": "Sétánkat a reggeli fényben kezdjük, felfedezve a Ca l'Estartús és a Ca l'Americano homlokzatait. Délben a Cal Llibreter és a Can Llaurador de Dalt nyújt mélyebb betekintést a régió vidéki örökségébe. A délután lehetőséget ad a fenséges Torre Nova nyugodt meglátogatására, ahol a történelem megelevenedik. Végül, ahogy közeledik az este, a Ca l'Antiga nyugodt aurája zárja a napot ebben a negyedben.",
+        "ro": "Începem plimbarea în lumina dimineții, explorând fațadele Ca l'Estartús și Ca l'Americano. La prânz, Cal Llibreter și Can Llaurador de Dalt oferă o privire profundă asupra moștenirii rurale și artizanale. După-amiaza permite o vizită relaxantă la maiestuoasa Torre Nova, unde istoria rămâne vie. În cele din urmă, pe măsură ce se apropie seara, aura liniștită de la Ca l'Antiga ne încheie ziua în acest cartier frumos.",
+        "en": "We start our walking journey in the morning light, exploring the facades of Ca l'Estartús and Ca l'Americano to feel the heartbeat of Catalonia’s past. By midday, Cal Llibreter and Can Llaurador de Dalt offer a deeper glimpse into the region's rural and artisanal heritage. The afternoon allows for an unhurried visit to the majestic Torre Nova, where history stands tall. Finally, as evening nears, the tranquil aura of Ca l'Antiga wraps up our day in this beautifully preserved neighborhood."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cal Llibreter",
+            "hu": "Cal Llibreter",
+            "ro": "Cal Llibreter",
+            "en": "Cal Llibreter"
+          },
+          "coords": [
+            2.321394,
+            41.498005
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe in den Mauern dieses traditionellen katalanischen Hauses und betrachten Sie das erhaltene Mauerwerk, das jahrhundertelange Handwerkskunst zeigt.",
+            "hu": "Fedezze fel a hagyományos katalán ház falaiban rejlő gazdag örökséget, és nézze meg közelebbről a megőrzött kőfalakat, amelyek évszázados helyi kézművességet emelnek ki.",
+            "ro": "Descoperiți moștenirea bogată ascunsă în pereții acestei case tradiționale catalane și priviți cu atenție zidăria conservată care evidențiază secole de măiestrie locală.",
+            "en": "Discover the rich heritage embedded in the walls of this traditional Catalan house, and look closely at the preserved stonework that highlights centuries of local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Nova",
+            "hu": "Torre Nova",
+            "ro": "Torre Nova",
+            "en": "Torre Nova"
+          },
+          "coords": [
+            2.318337,
+            41.501761
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Struktur dieses bemerkenswerten historischen Turms, der als Wohn- und Verteidigungsanlage diente, und suchen Sie nach seinen ursprünglichen Merkmalen.",
+            "hu": "Figyelje meg ennek a figyelemre méltó, lakó- és védelmi célokat egyaránt szolgáló történelmi toronynak a fenséges szerkezetét, és próbálja megkeresni eredeti védelmi elemeit.",
+            "ro": "Observați structura maiestuoasă a acestui turn istoric remarcabil care a servit atât ca locuință cât și pentru apărare și încercați să identificați rămășițele elementelor sale defensive.",
+            "en": "Observe the majestic structure of this notable historical tower which served both residential and defensive purposes, and try to spot the remnants of its original defensive features."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Wertheim",
+            "hu": "Can Wertheim",
+            "ro": "Can Wertheim",
+            "en": "Can Wertheim"
+          },
+          "coords": [
+            2.319791,
+            41.502494
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante historische Herrenhaus, das für seine architektonische Verschmelzung bekannt ist, und nutzen Sie den schattigen Innenhof für eine kurze Pause.",
+            "hu": "Látogasson el ebbe az egyedülálló építészeti fúziójáról ismert elegáns történelmi kastélyba, és használja ki az árnyékos udvart egy rövid pihenőre a kerékpározás folytatása előtt.",
+            "ro": "Vizitați acest conac istoric elegant cunoscut pentru fuziunea sa arhitecturală unică și profitați de curtea umbrită pentru o scurtă pauză înainte de a continua plimbarea.",
+            "en": "Visit this elegant historic manor known for its unique architectural fusion, and take advantage of the shaded courtyard to take a brief rest before continuing your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Mora",
+            "hu": "Can Mora",
+            "ro": "Can Mora",
+            "en": "Can Mora"
+          },
+          "coords": [
+            2.318125,
+            41.504705
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Design dieses markanten regionalen Gebäudes, das den lokalen Reichtum vergangener Epochen zeigt, und parken Sie Ihr Fahrrad sicher an den vorgesehenen Ständern.",
+            "hu": "Csodálja meg ennek a kiemelkedő regionális épületnek a dizájnját, amely az elmúlt korszakok helyi gazdagságát mutatja be, és parkolja le kerékpárját biztonságosan a kijelölt tárolóknál.",
+            "ro": "Admirați designul distins al acestei clădiri regionale proeminente care prezintă bogăția locală din epocile trecute și parcați-vă bicicleta în siguranță la suporturile desemnate din apropiere.",
+            "en": "Marvel at the distinguished design of this prominent regional building which showcases local wealth from past eras, and park your bike securely at the designated racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Premià de Dalt",
+            "hu": "Museu de Premià de Dalt",
+            "ro": "Museu de Premià de Dalt",
+            "en": "Museu de Premià de Dalt"
+          },
+          "coords": [
+            2.346692,
+            41.504939
+          ],
+          "category": "museum",
+          "arrive_at": "14:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein, indem Sie die vielfältigen Artefakte dieses faszinierenden Museums erkunden, und schnappen Sie sich einen Audioguide an der Rezeption.",
+            "hu": "Merüljön el a helyi történelemben a lenyűgöző múzeumban található változatos műtárgyak felfedezésével, és kérjen egy audioguide-ot a recepción, hogy teljes mértékben értékelni tudja a kiállításokat.",
+            "ro": "Cufundați-vă în istoria locală explorând diversele artefacte din acest muzeu captivant și luați un ghid audio de la recepție pentru a aprecia pe deplin expozițiile.",
+            "en": "Immerse yourself in the local history by exploring the diverse artifacts held in this engaging museum, and grab an audio guide at the reception to fully appreciate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag entspannt am Cal Llibreter und lernen Sie den historischen Charme der Stadt kennen. Mittags fahren Sie zur Torre Nova und zum atemberaubenden Can Wertheim. Die Nachmittagsfahrt führt Sie zum Can Mora, das regionale architektonische Brillanz zeigt. Sie beenden die Tour am frühen Abend im Museu de Premià de Dalt und tauchen in die lokale Überlieferung ein, bevor Sie zurückfahren.",
+        "hu": "Kezdje a kerékpáros napot a Cal Llibreter-nél, megismerkedve a város történelmi varázsával. Dél körül tekerjen át a Torre Nova és a lenyűgöző Can Wertheim felé, élvezve a lágy szellőt. A délutáni túra a Can Mora-hoz visz, bemutatva a regionális építészeti ragyogást. A túrát kora este a Museu de Premià de Dalt múzeumban fejezi be, elmerülve a helyi mondavilágban.",
+        "ro": "Începeți-vă ziua de ciclism la Cal Llibreter, familiarizându-vă cu farmecul istoric al orașului. În jurul prânzului, pedalați spre Torre Nova și uimitorul Can Wertheim, simțind briza ușoară. Plimbarea de după-amiază vă duce la Can Mora, prezentând strălucirea arhitecturală regională. Veți încheia turul la începutul serii la Museu de Premià de Dalt, cufundându-vă în tradiția locală.",
+        "en": "Kick off your cycling day smoothly at Cal Llibreter, getting acquainted with the historical charm of the town. Around noon, ride over to Torre Nova and the stunning Can Wertheim, feeling the gentle breeze between stops. The afternoon ride takes you up to Can Mora, showcasing regional architectural brilliance. You will cap off the tour by early evening at the Museu de Premià de Dalt, immersing yourself in the local lore before heading back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Can Guarino",
+            "hu": "Can Guarino",
+            "ro": "Can Guarino",
+            "en": "Can Guarino"
+          },
+          "coords": [
+            2.320491,
+            41.482771
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre historische Fahrt an diesem beeindruckenden Anwesen, das den Charme Kataloniens des 19. Jahrhunderts verkörpert, und kommen Sie früh, um einen Parkplatz zu finden.",
+            "hu": "Kezdje történelmi útját ezen a lenyűgöző birtokon, amely tökéletesen magában foglalja a 19. századi Katalónia varázsát, és érkezzen korán, hogy jó parkolóhelyet találjon az utcán.",
+            "ro": "Începeți plimbarea istorică la această moșie impresionantă care rezumă perfect farmecul Cataloniei secolului al XIX-lea și ajungeți devreme pentru a găsi un loc de parcare pe stradă.",
+            "en": "Start your historical drive at this impressive estate that perfectly encapsulates the charm of 19th-century Catalonia, and arrive early to secure a good parking spot on the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Cots",
+            "hu": "Can Cots",
+            "ro": "Can Cots",
+            "en": "Can Cots"
+          },
+          "coords": [
+            2.320392,
+            41.484016
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikale Schönheit und das traditionelle Mauerwerk dieses historischen Gehöfts und gehen Sie langsam darum herum, um den mediterranen Baustil zu bewundern.",
+            "hu": "Tekintse meg ennek a történelmi tanyának a rusztikus szépségét és hagyományos falazatát, és sétáljon lassan a kerülete körül, hogy teljes mértékben értékelje a klasszikus mediterrán stílust.",
+            "ro": "Descoperiți frumusețea rustică și zidăria tradițională a acestei gospodării istorice și plimbați-vă încet pe perimetrul său pentru a aprecia pe deplin stilul arhitectural mediteranean.",
+            "en": "Check out the rustic beauty and traditional masonry of this historic homestead, and walk slowly around its perimeter to fully appreciate the classic Mediterranean architectural style."
+          }
+        },
+        {
+          "name": {
+            "de": "Cal Llibreter",
+            "hu": "Cal Llibreter",
+            "ro": "Cal Llibreter",
+            "en": "Cal Llibreter"
+          },
+          "coords": [
+            2.321394,
+            41.498005
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe in den Mauern dieses traditionellen katalanischen Hauses und betrachten Sie das erhaltene Mauerwerk, das jahrhundertelange Handwerkskunst zeigt.",
+            "hu": "Fedezze fel a hagyományos katalán ház falaiban rejlő gazdag örökséget, és nézze meg közelebbről a megőrzött kőfalakat, amelyek évszázados helyi kézművességet emelnek ki.",
+            "ro": "Descoperiți moștenirea bogată ascunsă în pereții acestei case tradiționale catalane și priviți cu atenție zidăria conservată care evidențiază secole de măiestrie locală.",
+            "en": "Discover the rich heritage embedded in the walls of this traditional Catalan house, and look closely at the preserved stonework that highlights centuries of local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Premià de Dalt",
+            "hu": "Museu de Premià de Dalt",
+            "ro": "Museu de Premià de Dalt",
+            "en": "Museu de Premià de Dalt"
+          },
+          "coords": [
+            2.346692,
+            41.504939
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein, indem Sie die vielfältigen Artefakte dieses faszinierenden Museums erkunden, und schnappen Sie sich einen Audioguide an der Rezeption.",
+            "hu": "Merüljön el a helyi történelemben a lenyűgöző múzeumban található változatos műtárgyak felfedezésével, és kérjen egy audioguide-ot a recepción, hogy teljes mértékben értékelni tudja a kiállításokat.",
+            "ro": "Cufundați-vă în istoria locală explorând diversele artefacte din acest muzeu captivant și luați un ghid audio de la recepție pentru a aprecia pe deplin expozițiile.",
+            "en": "Immerse yourself in the local history by exploring the diverse artifacts held in this engaging museum, and grab an audio guide at the reception to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Estampació Tèxtil",
+            "hu": "Museu de l'Estampació Tèxtil",
+            "ro": "Museu de l'Estampació Tèxtil",
+            "en": "Museu de l'Estampació Tèxtil"
+          },
+          "coords": [
+            2.352584,
+            41.488815
+          ],
+          "category": "museum",
+          "arrive_at": "15:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag, indem Sie in diesem einzigartigen Textildruckmuseum etwas über die industrielle Vergangenheit der Region erfahren, und achten Sie auf Vorführungen des traditionellen Stofffärbens.",
+            "hu": "Zárja a napot a régió gazdag ipari múltjának megismerésével ebben az egyedülálló textilnyomtató múzeumban, és ellenőrizze a hagyományos szövetfestés élő bemutatóinak menetrendjét.",
+            "ro": "Încheiați ziua învățând despre trecutul industrial bogat al regiunii la acest muzeu unic de imprimare textilă și verificați programul pentru demonstrații live de vopsire tradițională a țesăturilor.",
+            "en": "Conclude your day learning about the region's rich industrial past at this unique textile printing museum, and check the schedule for live demonstrations of traditional fabric dyeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im rustikalen Can Guarino und genießen Sie die ruhige Morgenstimmung dieses großen Anwesens. Gegen Mittag machen Sie einen kurzen Sprung zum Can Cots und Cal Llibreter. Am Nachmittag fahren Sie gemütlich zum Museu de Premià de Dalt für eine spannende Portion Kultur. Beenden Sie Ihren Roadtrip bei Einbruch der Dämmerung im Museu de l'Estampació Tèxtil.",
+        "hu": "Kezdje autós útvonalát a rusztikus Can Guarino-nál, befogadva e nagyszerű birtok békés reggeli hangulatát. Délben tegyen egy rövid ugrást a Can Cots és a Cal Llibreter felé. Délután kényelmesen utazzon el a Museu de Premià de Dalt múzeumba egy kis kultúráért. Zárja átfogó autós utazását alkonyatkor a Museu de l'Estampació Tèxtil-ben, megcsodálva az ipari sikereket.",
+        "ro": "Începeți itinerariul cu mașina la rusticul Can Guarino, bucurându-vă de vibrațiile senine ale dimineții de la această moșie grandioasă. La prânz faceți o scurtă călătorie către Can Cots și Cal Llibreter. După-amiaza, conduceți ușor spre Museu de Premià de Dalt pentru o doză captivantă de cultură. Încheiați-vă excursia rutieră la lăsarea serii la Museu de l'Estampació Tèxtil, admirând triumfurile industriale.",
+        "en": "Begin your driving itinerary at the rustic Can Guarino, taking in the serene morning vibes of this grand estate. Transition into midday with a short hop to Can Cots and Cal Llibreter, where history echoes in the stone walls. In the afternoon, cruise easily to the Museu de Premià de Dalt for an engaging dose of culture. Conclude your comprehensive road trip as dusk approaches at the Museu de l'Estampació Tèxtil, marveling at the region's industrial triumphs."
+      }
+    }
+  }
+}

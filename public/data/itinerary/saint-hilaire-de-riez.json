@@ -1,0 +1,520 @@
+{
+  "city_id": "saint-hilaire-de-riez",
+  "anchor": {
+    "name": "Saint-Hilaire-de-Riez",
+    "coords": [
+      -1.9456,
+      46.7211
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hilaire Church",
+            "hu": "Saint-Hilaire Church",
+            "ro": "Saint-Hilaire Church",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.94592,
+            46.720319
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieser historischen Kirche und werfen Sie einen Blick auf das örtliche schwarze Brett für kommende Märkte.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű építészetét és békés hangulatát, és mindenképpen nézze meg a kinti hirdetőtáblát a közelgő közösségi események és piacok miatt.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică a acestei biserici istorice și nu uitați să verificați avizierul local de afară pentru viitoarele evenimente și piețe.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of this historic church, and be sure to check the local notice board outside for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Salt Marshes of Vie",
+            "hu": "Salt Marshes of Vie",
+            "ro": "Salt Marshes of Vie",
+            "en": "Salt Marshes of Vie"
+          },
+          "coords": [
+            -1.939232,
+            46.719746
+          ],
+          "category": "natural",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden traditionellen Salzgewinnungsmethoden in diesen weitläufigen Sumpfgebieten und bringen Sie ein gutes Fernglas mit, um Vögel zu beobachten.",
+            "hu": "Fedezze fel az ezen a kiterjedt mocsárvidéken alkalmazott hagyományos sóbetakarítási módszereket, és hozzon magával egy jó távcsövet a változatos helyi madárfajok megfigyeléséhez.",
+            "ro": "Descoperiți metodele tradiționale de recoltare a sării în aceste mlaștini întinse și aduceți un binoclu bun pentru a observa diversele specii de păsări locale din zonă.",
+            "en": "Discover the fascinating traditional salt harvesting methods used in these sprawling marshes, and bring a good pair of binoculars to observe the diverse local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Riez",
+            "hu": "Riez",
+            "ro": "Riez",
+            "en": "Riez"
+          },
+          "coords": [
+            -1.983103,
+            46.720392
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen malerischen Küstenabschnitt entlang, um die frische Meeresluft einzuatmen, und besuchen Sie ihn am frühen Nachmittag für das perfekte Picknick am Wasser.",
+            "hu": "Sétáljon végig ezen a szép tengerparti szakaszon, hogy belélegezze a friss tengeri levegőt, és látogasson el kora délután, hogy megtalálja a legjobb helyeket egy pihentető piknikhez.",
+            "ro": "Plimbați-vă de-a lungul acestei frumoase porțiuni de coastă pentru a respira aerul proaspăt și vizitați devreme după-amiaza pentru a găsi cele mai bune locuri pentru un picnic.",
+            "en": "Stroll along this lovely coastal stretch to breathe in the fresh sea air, and visit early in the afternoon to find the best spots for a relaxing picnic by the refreshing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande plage de Sion",
+            "hu": "Grande plage de Sion",
+            "ro": "Grande plage de Sion",
+            "en": "Grande plage de Sion"
+          },
+          "coords": [
+            -1.979713,
+            46.714931
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten goldenen Sand, der sich perfekt zum Sonnenbaden eignet, aber denken Sie daran, Ihren eigenen Sonnenschutz mitzubringen, da die Schattenplätze begrenzt sind.",
+            "hu": "Élvezze a hatalmas aranyhomokos partot, amely tökéletes napozáshoz és családi játékokhoz, de ne felejtsen el saját napernyőt hozni, mivel a nyílt parton kevés az árnyék.",
+            "ro": "Bucurați-vă de nisipul auriu perfect pentru plajă și jocuri în familie, dar nu uitați să vă aduceți propria umbrelă, deoarece facilitățile sunt limitate pe țărmul deschis.",
+            "en": "Enjoy the expansive golden sands perfect for sunbathing and family games, but remember to bring your own shade as there are limited facilities directly on the open shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Cinq Pineaux",
+            "hu": "Les Cinq Pineaux",
+            "ro": "Les Cinq Pineaux",
+            "en": "Les Cinq Pineaux"
+          },
+          "coords": [
+            -1.976691,
+            46.705233
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese fünf markanten Felsen im Ozean und planen Sie Ihren Besuch genau zum Sonnenuntergang, um atemberaubende Fotomotive an der rauen Küste zu erhalten.",
+            "hu": "Csodálja meg ezt az öt ikonikus sziklát, amelyek büszkén állnak az óceánban, és időzítse látogatását pontosan naplementekor, hogy lélegzetelállító fotókat készíthessen a parton.",
+            "ro": "Admirați aceste cinci stânci emblematice din ocean și programați-vă vizita exact la apusul soarelui pentru oportunități uluitoare de fotografie de-a lungul coastei stâncoase.",
+            "en": "Marvel at these five iconic rocks standing proudly in the ocean, and time your visit precisely with the sunset for breathtaking photography opportunities along the rugged coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im ruhigen Zentrum an der Kirche von Saint-Hilaire, gefolgt von einem kurzen Spaziergang zu den faszinierenden Salzgärten. Am Mittag wandern wir gemütlich zur Küste nach Riez für eine erfrischende Pause. Der Nachmittag wird am weitläufigen Strand Grande plage de Sion verbracht, ideal zum Entspannen. Schließlich endet der Tag bei den beeindruckenden Les Cinq Pineaux, wo Sie einen herrlichen Sonnenuntergang an der wilden Küste erleben können.",
+        "hu": "A nap a nyugodt központban, a Saint-Hilaire templomnál kezdődik, majd egy rövid sétával a lenyűgöző sólepárlókhoz indulunk. Délben a tengerpartra, Riez környékére sétálunk egy frissítő pihenőre. A délutánt a hatalmas Grande plage de Sion tengerpartján töltjük, amely ideális a kikapcsolódásra. Végül a nap a lenyűgöző Les Cinq Pineaux szikláinál ér véget, ahol gyönyörű naplementét csodálhatunk meg a vadregényes parton.",
+        "ro": "Ziua începe în centrul liniștit la Biserica Saint-Hilaire, urmată de o scurtă plimbare către fascinantele mlaștini de sare. La prânz, ne îndreptăm spre coasta din Riez pentru o pauză răcoritoare. După-amiaza este petrecută pe întinsa plajă Grande plage de Sion, ideală pentru relaxare sub razele soarelui. În cele din urmă, ziua se încheie la impresionantele stânci Les Cinq Pineaux, unde puteți asista la un apus de soare magnific.",
+        "en": "The day begins in the quiet center at the Saint-Hilaire Church, followed by a short walk to the fascinating local salt marshes. At midday, we wander leisurely towards the coast at Riez for a refreshing coastal break. The afternoon is spent on the expansive Grande plage de Sion, perfect for deep relaxation. Finally, the day concludes at the impressive Les Cinq Pineaux, where you can witness a magnificent sunset along the rugged shoreline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 11.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hilaire Church",
+            "hu": "Saint-Hilaire Church",
+            "ro": "Saint-Hilaire Church",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.94592,
+            46.720319
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieser historischen Kirche und werfen Sie einen Blick auf das örtliche schwarze Brett für kommende Märkte.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű építészetét és békés hangulatát, és mindenképpen nézze meg a kinti hirdetőtáblát a közelgő közösségi események és piacok miatt.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică a acestei biserici istorice și nu uitați să verificați avizierul local de afară pentru viitoarele evenimente și piețe.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of this historic church, and be sure to check the local notice board outside for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Salt Marshes of Vie",
+            "hu": "Salt Marshes of Vie",
+            "ro": "Salt Marshes of Vie",
+            "en": "Salt Marshes of Vie"
+          },
+          "coords": [
+            -1.939232,
+            46.719746
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden traditionellen Salzgewinnungsmethoden in diesen weitläufigen Sumpfgebieten und bringen Sie ein gutes Fernglas mit, um Vögel zu beobachten.",
+            "hu": "Fedezze fel az ezen a kiterjedt mocsárvidéken alkalmazott hagyományos sóbetakarítási módszereket, és hozzon magával egy jó távcsövet a változatos helyi madárfajok megfigyeléséhez.",
+            "ro": "Descoperiți metodele tradiționale de recoltare a sării în aceste mlaștini întinse și aduceți un binoclu bun pentru a observa diversele specii de păsări locale din zonă.",
+            "en": "Discover the fascinating traditional salt harvesting methods used in these sprawling marshes, and bring a good pair of binoculars to observe the diverse local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourrine du Bois Juquaud Museum",
+            "hu": "Bourrine du Bois Juquaud Museum",
+            "ro": "Bourrine du Bois Juquaud Museum",
+            "en": "Bourrine du Bois Juquaud Museum"
+          },
+          "coords": [
+            -1.952257,
+            46.754777
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem authentischen reetgedeckten Häuschen einen Schritt in die Vergangenheit und nehmen Sie an der Führung teil, um die historischen Werkzeuge kennenzulernen.",
+            "hu": "Lépjen vissza az időben ebben az autentikus nádfedeles házban, és vegyen részt a vezetett túrán, hogy teljes mértékben értékelni tudja a régió zseniális történelmi eszközeit.",
+            "ro": "Întoarceți-vă în timp în această căsuță tradițională autentică cu acoperiș de stuf și faceți turul ghidat pentru a aprecia pe deplin uneltele ingenioase și obiceiurile locale.",
+            "en": "Step back in time inside this authentic traditional thatched cottage, and take the guided tour to fully appreciate the ingenious tools and historic local customs of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Dino's Park",
+            "hu": "Dino's Park",
+            "ro": "Dino's Park",
+            "en": "Dino's Park"
+          },
+          "coords": [
+            -1.973771,
+            46.732322
+          ],
+          "category": "family",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Begeistern Sie die Familie mit beeindruckenden animatronischen Dinosauriern im Wald und kommen Sie gleich zur Öffnungszeit, um lange Schlangen bei den Attraktionen zu vermeiden.",
+            "hu": "Nyűgözze le az egész családot az erdőben elrejtett lenyűgöző animatronikus dinoszauruszokkal, és érkezzen rögtön nyitásra, hogy elkerülje a leghosszabb sorokat a játékoknál.",
+            "ro": "Încântați întreaga familie cu dinozauri animatronici impresionanți ascunși în pădure și ajungeți chiar la ora deschiderii pentru a evita cele mai lungi cozi la atracții.",
+            "en": "Thrill the whole family with impressive animatronic dinosaurs hidden in the forest, and arrive right at opening time to avoid the longest queues for the interactive attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "La Parée Préneau",
+            "hu": "La Parée Préneau",
+            "ro": "La Parée Préneau",
+            "en": "La Parée Préneau"
+          },
+          "coords": [
+            -1.993153,
+            46.728232
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den duftenden Pinien an diesem Sandstrand und mieten Sie sich in der Nähe ein Fahrrad, um das weitreichende Netz an malerischen Küstenwegen zu erkunden.",
+            "hu": "Pihenjen az illatos fenyőfák alatt, amelyek gyönyörűen szegélyezik ezt a homokos partot, és béreljen egy kerékpárt a közelben a festői parti ösvények kiterjedt hálózatának felfedezéséhez.",
+            "ro": "Relaxați-vă sub pinii parfumați care mărginesc această coastă de nisip și luați în considerare închirierea unei biciclete în apropiere pentru a explora traseele pitorești.",
+            "en": "Relax under the fragrant pine trees that beautifully line this sandy shore, and consider renting a bicycle nearby to easily explore the extensive network of scenic coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande plage de Sion",
+            "hu": "Grande plage de Sion",
+            "ro": "Grande plage de Sion",
+            "en": "Grande plage de Sion"
+          },
+          "coords": [
+            -1.979713,
+            46.714931
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten goldenen Sand, der sich perfekt zum Sonnenbaden eignet, aber denken Sie daran, Ihren eigenen Sonnenschutz mitzubringen, da die Schattenplätze begrenzt sind.",
+            "hu": "Élvezze a hatalmas aranyhomokos partot, amely tökéletes napozáshoz és családi játékokhoz, de ne felejtsen el saját napernyőt hozni, mivel a nyílt parton kevés az árnyék.",
+            "ro": "Bucurați-vă de nisipul auriu perfect pentru plajă și jocuri în familie, dar nu uitați să vă aduceți propria umbrelă, deoarece facilitățile sunt limitate pe țărmul deschis.",
+            "en": "Enjoy the expansive golden sands perfect for sunbathing and family games, but remember to bring your own shade as there are limited facilities directly on the open shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Cinq Pineaux",
+            "hu": "Les Cinq Pineaux",
+            "ro": "Les Cinq Pineaux",
+            "en": "Les Cinq Pineaux"
+          },
+          "coords": [
+            -1.976691,
+            46.705233
+          ],
+          "category": "natural",
+          "arrive_at": "17:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese fünf markanten Felsen im Ozean und planen Sie Ihren Besuch genau zum Sonnenuntergang, um atemberaubende Fotomotive an der rauen Küste zu erhalten.",
+            "hu": "Csodálja meg ezt az öt ikonikus sziklát, amelyek büszkén állnak az óceánban, és időzítse látogatását pontosan naplementekor, hogy lélegzetelállító fotókat készíthessen a parton.",
+            "ro": "Admirați aceste cinci stânci emblematice din ocean și programați-vă vizita exact la apusul soarelui pentru oportunități uluitoare de fotografie de-a lungul coastei stâncoase.",
+            "en": "Marvel at these five iconic rocks standing proudly in the ocean, and time your visit precisely with the sunset for breathtaking photography opportunities along the rugged coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der charmanten Kirche und radeln Sie zu den historischen Salzgärten, bevor Sie zum Bourrine du Bois Juquaud Museum fahren. Mittags bietet der Dino's Park ein spannendes Erlebnis für die ganze Familie. Der Nachmittag führt uns zum malerischen Strand La Parée Préneau und zur weitläufigen Grande plage de Sion. Am Abend genießen wir die erfrischende Meeresbrise und den malerischen Sonnenuntergang bei den berühmten Felsformationen Les Cinq Pineaux.",
+        "hu": "Kezdje a napot a hangulatos templomnál, és tekerjen a történelmi sólepárlókhoz, majd látogasson el a Bourrine du Bois Juquaud Múzeumba. Délben a Dino's Park izgalmas élményt kínál az egész család számára. A délután a festői La Parée Préneau partjához és a hatalmas Grande plage de Sionhoz vezet minket. Este élvezzük a frissítő tengeri szellőt és a festői naplementét a híres Les Cinq Pineaux sziklaalakzatoknál a parton.",
+        "ro": "Începeți la biserica fermecătoare și pedalați către salinele istorice înainte de a merge la Muzeul Bourrine du Bois Juquaud. La prânz, Dino's Park oferă o experiență captivantă pentru întreaga familie. După-amiaza ne duce la pitoreasca plajă La Parée Préneau și la întinsa Grande plage de Sion. Seara, ne bucurăm de briza răcoroasă a mării și de un apus de soare pitoresc la faimoasele formațiuni stâncoase Les Cinq Pineaux.",
+        "en": "Start at the charming church and cycle to the historic salt marshes before heading to the fascinating Bourrine du Bois Juquaud Museum. At midday, Dino's Park offers a thrilling experience right in the forest. The afternoon leads us to the scenic La Parée Préneau beach and the expansive Grande plage de Sion. In the evening, we enjoy the refreshing sea breeze and a picturesque ocean sunset at the famous Les Cinq Pineaux rock formations."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:22",
+      "total_km": 24.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hilaire Church",
+            "hu": "Saint-Hilaire Church",
+            "ro": "Saint-Hilaire Church",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.94592,
+            46.720319
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieser historischen Kirche und werfen Sie einen Blick auf das örtliche schwarze Brett für kommende Märkte.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű építészetét és békés hangulatát, és mindenképpen nézze meg a kinti hirdetőtáblát a közelgő közösségi események és piacok miatt.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică a acestei biserici istorice și nu uitați să verificați avizierul local de afară pentru viitoarele evenimente și piețe.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of this historic church, and be sure to check the local notice board outside for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Salt Marshes of Vie",
+            "hu": "Salt Marshes of Vie",
+            "ro": "Salt Marshes of Vie",
+            "en": "Salt Marshes of Vie"
+          },
+          "coords": [
+            -1.939232,
+            46.719746
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden traditionellen Salzgewinnungsmethoden in diesen weitläufigen Sumpfgebieten und bringen Sie ein gutes Fernglas mit, um Vögel zu beobachten.",
+            "hu": "Fedezze fel az ezen a kiterjedt mocsárvidéken alkalmazott hagyományos sóbetakarítási módszereket, és hozzon magával egy jó távcsövet a változatos helyi madárfajok megfigyeléséhez.",
+            "ro": "Descoperiți metodele tradiționale de recoltare a sării în aceste mlaștini întinse și aduceți un binoclu bun pentru a observa diversele specii de păsări locale din zonă.",
+            "en": "Discover the fascinating traditional salt harvesting methods used in these sprawling marshes, and bring a good pair of binoculars to observe the diverse local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourrine du Bois Juquaud Museum",
+            "hu": "Bourrine du Bois Juquaud Museum",
+            "ro": "Bourrine du Bois Juquaud Museum",
+            "en": "Bourrine du Bois Juquaud Museum"
+          },
+          "coords": [
+            -1.952257,
+            46.754777
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem authentischen reetgedeckten Häuschen einen Schritt in die Vergangenheit und nehmen Sie an der Führung teil, um die historischen Werkzeuge kennenzulernen.",
+            "hu": "Lépjen vissza az időben ebben az autentikus nádfedeles házban, és vegyen részt a vezetett túrán, hogy teljes mértékben értékelni tudja a régió zseniális történelmi eszközeit.",
+            "ro": "Întoarceți-vă în timp în această căsuță tradițională autentică cu acoperiș de stuf și faceți turul ghidat pentru a aprecia pe deplin uneltele ingenioase și obiceiurile locale.",
+            "en": "Step back in time inside this authentic traditional thatched cottage, and take the guided tour to fully appreciate the ingenious tools and historic local customs of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Demoiselles Beach",
+            "hu": "Demoiselles Beach",
+            "ro": "Demoiselles Beach",
+            "en": "Demoiselles Beach"
+          },
+          "coords": [
+            -2.05378,
+            46.77152
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die hervorragenden Wellen an diesem sehr beliebten Surfspot und buchen Sie Ihre Surfstunde in der Hochsaison im Voraus, um sich einen Platz bei einem Lehrer zu sichern.",
+            "hu": "Használja ki a kiváló hullámokat ezen a rendkívül népszerű szörfös helyen, és főszezonban előre foglalja le a szörfórát, hogy biztosítsa a helyét egy képzett oktatónál.",
+            "ro": "Profitați de valurile excelente la acest loc popular de surfing și rezervați-vă lecția de surf în avans în timpul sezonului de vârf pentru a vă asigura un loc cu un instructor.",
+            "en": "Take advantage of the excellent waves at this highly popular surfing spot, and book your surf lesson in advance during peak season to secure a spot with a certified instructor."
+          }
+        },
+        {
+          "name": {
+            "de": "Dino's Park",
+            "hu": "Dino's Park",
+            "ro": "Dino's Park",
+            "en": "Dino's Park"
+          },
+          "coords": [
+            -1.973771,
+            46.732322
+          ],
+          "category": "family",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Begeistern Sie die Familie mit beeindruckenden animatronischen Dinosauriern im Wald und kommen Sie gleich zur Öffnungszeit, um lange Schlangen bei den Attraktionen zu vermeiden.",
+            "hu": "Nyűgözze le az egész családot az erdőben elrejtett lenyűgöző animatronikus dinoszauruszokkal, és érkezzen rögtön nyitásra, hogy elkerülje a leghosszabb sorokat a játékoknál.",
+            "ro": "Încântați întreaga familie cu dinozauri animatronici impresionanți ascunși în pădure și ajungeți chiar la ora deschiderii pentru a evita cele mai lungi cozi la atracții.",
+            "en": "Thrill the whole family with impressive animatronic dinosaurs hidden in the forest, and arrive right at opening time to avoid the longest queues for the interactive attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "La Parée Préneau",
+            "hu": "La Parée Préneau",
+            "ro": "La Parée Préneau",
+            "en": "La Parée Préneau"
+          },
+          "coords": [
+            -1.993153,
+            46.728232
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den duftenden Pinien an diesem Sandstrand und mieten Sie sich in der Nähe ein Fahrrad, um das weitreichende Netz an malerischen Küstenwegen zu erkunden.",
+            "hu": "Pihenjen az illatos fenyőfák alatt, amelyek gyönyörűen szegélyezik ezt a homokos partot, és béreljen egy kerékpárt a közelben a festői parti ösvények kiterjedt hálózatának felfedezéséhez.",
+            "ro": "Relaxați-vă sub pinii parfumați care mărginesc această coastă de nisip și luați în considerare închirierea unei biciclete în apropiere pentru a explora traseele pitorești.",
+            "en": "Relax under the fragrant pine trees that beautifully line this sandy shore, and consider renting a bicycle nearby to easily explore the extensive network of scenic coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande plage de Sion",
+            "hu": "Grande plage de Sion",
+            "ro": "Grande plage de Sion",
+            "en": "Grande plage de Sion"
+          },
+          "coords": [
+            -1.979713,
+            46.714931
+          ],
+          "category": "recreational",
+          "arrive_at": "17:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten goldenen Sand, der sich perfekt zum Sonnenbaden eignet, aber denken Sie daran, Ihren eigenen Sonnenschutz mitzubringen, da die Schattenplätze begrenzt sind.",
+            "hu": "Élvezze a hatalmas aranyhomokos partot, amely tökéletes napozáshoz és családi játékokhoz, de ne felejtsen el saját napernyőt hozni, mivel a nyílt parton kevés az árnyék.",
+            "ro": "Bucurați-vă de nisipul auriu perfect pentru plajă și jocuri în familie, dar nu uitați să vă aduceți propria umbrelă, deoarece facilitățile sunt limitate pe țărmul deschis.",
+            "en": "Enjoy the expansive golden sands perfect for sunbathing and family games, but remember to bring your own shade as there are limited facilities directly on the open shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Cinq Pineaux",
+            "hu": "Les Cinq Pineaux",
+            "ro": "Les Cinq Pineaux",
+            "en": "Les Cinq Pineaux"
+          },
+          "coords": [
+            -1.976691,
+            46.705233
+          ],
+          "category": "natural",
+          "arrive_at": "18:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese fünf markanten Felsen im Ozean und planen Sie Ihren Besuch genau zum Sonnenuntergang, um atemberaubende Fotomotive an der rauen Küste zu erhalten.",
+            "hu": "Csodálja meg ezt az öt ikonikus sziklát, amelyek büszkén állnak az óceánban, és időzítse látogatását pontosan naplementekor, hogy lélegzetelállító fotókat készíthessen a parton.",
+            "ro": "Admirați aceste cinci stânci emblematice din ocean și programați-vă vizita exact la apusul soarelui pentru oportunități uluitoare de fotografie de-a lungul coastei stâncoase.",
+            "en": "Marvel at these five iconic rocks standing proudly in the ocean, and time your visit precisely with the sunset for breathtaking photography opportunities along the rugged coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrt beginnt an der Kirche Saint-Hilaire und führt uns schnell zu den faszinierenden Salzgärten und dem historischen Museum Bourrine. Mittags fahren wir zum beliebten Strand Demoiselles und erleben danach spannende Abenteuer im Dino's Park. Der entspannte Nachmittag bietet malerische Stopps an der La Parée Préneau und am Strand von Sion. Der Tag endet spektakulär mit einem unvergesslichen Sonnenuntergang bei den Felsen Les Cinq Pineaux am Ozean.",
+        "hu": "Utazásunk a Saint-Hilaire templomnál kezdődik, ahonnan gyorsan eljutunk a lenyűgöző sólepárlókhoz és a történelmi Bourrine múzeumhoz. Délben a népszerű Demoiselles strandra hajtunk, majd izgalmas kalandokat élünk át a Dino's Parkban. A nyugodt délután festői megállókat kínál a La Parée Préneau és a Sion strandon. A nap látványosan ér véget egy felejthetetlen naplementével az óceánparti Les Cinq Pineaux szikláinál.",
+        "ro": "Călătoria noastră începe la Biserica Saint-Hilaire, ducându-ne rapid la mlaștinile de sare și la muzeul istoric Bourrine. La prânz, conducem spre plaja populară Demoiselles și experimentăm aventuri palpitante la Dino's Park. După-amiaza relaxantă oferă opriri pitorești la La Parée Préneau și la plaja din Sion. Ziua se încheie spectaculos cu un apus de soare de neuitat la uimitoarele stânci oceanice Les Cinq Pineaux.",
+        "en": "Our drive begins at the Saint-Hilaire Church, quickly taking us to the fascinating salt marshes and the historic Bourrine museum. At midday, we drive to the popular Demoiselles Beach and then experience thrilling adventures at Dino's Park. The relaxing afternoon features scenic coastal stops at La Parée Préneau and Sion beach. The day concludes spectacularly with an unforgettable ocean sunset at the stunning Les Cinq Pineaux rocks."
+      }
+    }
+  }
+}

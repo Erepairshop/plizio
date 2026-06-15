@@ -1,0 +1,520 @@
+{
+  "city_id": "greece--cities-v2",
+  "anchor": {
+    "name": "Ολυμπιάδα",
+    "coords": [
+      23.78321,
+      40.59144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 1.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Blick auf die Marina",
+            "hu": "Kikötő kilátása",
+            "ro": "Vedere spre port",
+            "en": "View of Marina of Olympiada"
+          },
+          "coords": [
+            23.789533,
+            40.590989
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sanft schaukelnden Boote in der malerischen Marina von Olympiada und machen Sie Fotos des kristallklaren Wassers vom Pier aus.",
+            "hu": "Csodálja meg a festői Olympiada kikötőjében ringatózó hajókat, és szánjon egy percet arra, hogy a mólóról fotózza a kristálytiszta vizet.",
+            "ro": "Admirați bărcile legănându-se ușor în portul pitoresc din Olympiada și faceți câteva fotografii apei cristaline direct de pe debarcader.",
+            "en": "Admire the boats gently bobbing in the scenic marina of Olympiada, and take a moment to snap photos of the crystal-clear water from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Sukia",
+            "hu": "Sukia",
+            "ro": "Sukia",
+            "en": "Sukia"
+          },
+          "coords": [
+            23.791373,
+            40.591214
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der friedlichen natürlichen Umgebung von Sukia, einem idealen Ort für eine Pause, und bringen Sie einen kleinen Snack mit.",
+            "hu": "Pihenjen meg Sukia békés természeti környezetében, amely ideális a nyugodt kikapcsolódáshoz, és vigyen magával némi harapnivalót az útra.",
+            "ro": "Relaxați-vă în împrejurimile naturale pașnice din Sukia, un loc ideal pentru o pauză, și nu uitați să aduceți o gustare ușoară la mare.",
+            "en": "Relax in the peaceful natural surroundings of Sukia, an ideal spot for a quiet break, and remember to bring a light snack to enjoy by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaisches Tor",
+            "hu": "Archaikus kapu",
+            "ro": "Poarta Arhaică",
+            "en": "Archaic Gate"
+          },
+          "coords": [
+            23.795016,
+            40.592184
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Reisen Sie am beeindruckenden archaischen Tor der antiken Stadtbefestigung in die Vergangenheit und lesen Sie die informativen Tafeln vor Ort.",
+            "hu": "Lépjen vissza az időben az ősi városfalak lenyűgöző archaikus kapujánál, és olvassa el a kihelyezett táblákat a történelem megismeréséhez.",
+            "ro": "Întoarceți-vă în timp la impresionanta Poartă Arhaică a fortificațiilor antice și citiți plăcuțele informative pentru a înțelege istoria.",
+            "en": "Step back in time at the impressive Archaic Gate of the ancient city fortifications, and read the informative plaques to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Stagira",
+            "hu": "Ókori Sztagira",
+            "ro": "Stagira antică",
+            "en": "Ancient Stagira"
+          },
+          "coords": [
+            23.796033,
+            40.591739
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen von Stagira, dem berühmten Geburtsort von Aristoteles, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel Sztagira ősi romjait, Arisztotelész híres szülőhelyét, és viseljen kényelmes, zárt cipőt a régészeti terület egyenetlen talaján.",
+            "ro": "Explorați ruinele antice din Stagira, faimosul loc de naștere al lui Aristotel, și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the ancient ruins of Stagira, the renowned birthplace of philosopher Aristotle, and wear sturdy shoes for the uneven archaeological paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kephalas",
+            "hu": "Kephalas",
+            "ro": "Kephalas",
+            "en": "Kephalas"
+          },
+          "coords": [
+            23.794851,
+            40.588469
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in Kephalas, einem malerischen Erholungsort am Wasser, und kommen Sie am frühen Nachmittag an, um sich einen schönen Platz zu sichern.",
+            "hu": "Kapcsolódjon ki Kephalas festői, vízparti pihenőhelyén, és érkezzen kora délután, hogy biztosan találjon egy kényelmes helyet a lazításhoz.",
+            "ro": "Relaxați-vă la Kephalas, un loc de agrement pitoresc lângă apă, și ajungeți devreme după-amiaza pentru a vă asigura un loc confortabil de odihnă.",
+            "en": "Unwind at Kephalas, a picturesque recreational spot near the water, and arrive early in the afternoon to secure a comfortable spot for relaxing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Jachthafen und genießen Sie die ruhige Küstenbrise.\n\nErkunden Sie mittags die antiken Ruinen von Stagira und die historischen Tore.\n\nAm Nachmittag begeben Sie sich an die ruhigen Küstenorte zur puren Entspannung.\n\nLassen Sie den Abend an den wunderschönen Stränden ausklingen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a kikötőben, élvezve a csendes parti szellőt és a látványt.\n\nDélben fedezze fel Sztagira ősi romjait és a történelmi kapukat.\n\nDélután induljon a nyugodt tengerparti helyek felé, és pihenjen egy jót a homokban.\n\nEste zárja a napot a közeli gyönyörű strandokon, és gyönyörködjön a naplementében.",
+        "ro": "Începeți dimineața la portul de agrement, bucurându-vă de briza calmă a coastei.\n\nLa prânz, explorați ruinele antice din Stagira și porțile sale istorice.\n\nDupă-amiaza, îndreptați-vă spre locurile de coastă liniștite pentru a vă relaxa.\n\nÎncheiați seara pe plajele frumoase din apropiere, admirând apusul superb.",
+        "en": "Start your morning at the marina, enjoying the calm coastal breeze.\n\nBy midday, explore the ancient ruins of Stagira and its historic gates.\n\nIn the afternoon, head towards the tranquil coastal spots for some relaxation.\n\nConclude your evening at the beautiful nearby beaches, watching the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tsiphliki",
+            "hu": "Tsiphliki",
+            "ro": "Tsiphliki",
+            "en": "Tsiphliki"
+          },
+          "coords": [
+            23.781071,
+            40.600011
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit des Küstenabschnitts von Tsiphliki, ideal für Naturliebhaber, und bringen Sie Ihr eigenes Trinkwasser mit.",
+            "hu": "Élvezze Tsiphliki tengerparti szakaszának érintetlen természeti szépségét, és vigyen magával saját ivóvizet, mivel a környéken kevés az üzlet.",
+            "ro": "Bucurați-vă de frumusețea naturală curată a coastei Tsiphliki, perfectă pentru iubitorii de natură, și aduceți propria apă de băut la pachet.",
+            "en": "Enjoy the pristine natural beauty of Tsiphliki's coastal stretch, perfect for nature lovers, and bring your own drinking water as facilities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Marina",
+            "hu": "Kikötő kilátása",
+            "ro": "Vedere spre port",
+            "en": "View of Marina of Olympiada"
+          },
+          "coords": [
+            23.789533,
+            40.590989
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sanft schaukelnden Boote in der malerischen Marina von Olympiada und machen Sie Fotos des kristallklaren Wassers vom Pier aus.",
+            "hu": "Csodálja meg a festői Olympiada kikötőjében ringatózó hajókat, és szánjon egy percet arra, hogy a mólóról fotózza a kristálytiszta vizet.",
+            "ro": "Admirați bărcile legănându-se ușor în portul pitoresc din Olympiada și faceți câteva fotografii apei cristaline direct de pe debarcader.",
+            "en": "Admire the boats gently bobbing in the scenic marina of Olympiada, and take a moment to snap photos of the crystal-clear water from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaisches Tor",
+            "hu": "Archaikus kapu",
+            "ro": "Poarta Arhaică",
+            "en": "Archaic Gate"
+          },
+          "coords": [
+            23.795016,
+            40.592184
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reisen Sie am beeindruckenden archaischen Tor der antiken Stadtbefestigung in die Vergangenheit und lesen Sie die informativen Tafeln vor Ort.",
+            "hu": "Lépjen vissza az időben az ősi városfalak lenyűgöző archaikus kapujánál, és olvassa el a kihelyezett táblákat a történelem megismeréséhez.",
+            "ro": "Întoarceți-vă în timp la impresionanta Poartă Arhaică a fortificațiilor antice și citiți plăcuțele informative pentru a înțelege istoria.",
+            "en": "Step back in time at the impressive Archaic Gate of the ancient city fortifications, and read the informative plaques to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Stagira",
+            "hu": "Ókori Sztagira",
+            "ro": "Stagira antică",
+            "en": "Ancient Stagira"
+          },
+          "coords": [
+            23.796033,
+            40.591739
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen von Stagira, dem berühmten Geburtsort von Aristoteles, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel Sztagira ősi romjait, Arisztotelész híres szülőhelyét, és viseljen kényelmes, zárt cipőt a régészeti terület egyenetlen talaján.",
+            "ro": "Explorați ruinele antice din Stagira, faimosul loc de naștere al lui Aristotel, și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the ancient ruins of Stagira, the renowned birthplace of philosopher Aristotle, and wear sturdy shoes for the uneven archaeological paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammos",
+            "hu": "Ammos",
+            "ro": "Ammos",
+            "en": "Ammos"
+          },
+          "coords": [
+            23.796303,
+            40.586008
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den weichen Sand des Strandes Ammos, ein Paradies für Sonnenbader, und mieten Sie in den Sommermonaten früh einen Schirm.",
+            "hu": "Süllyessze lábujjait az Ammos strand puha homokjába, amely egy igazi paradicsom, és a nyári csúcsidőszakban béreljen napernyőt már korán reggel.",
+            "ro": "Scufundați-vă degetele în nisipul fin al plajei Ammos, un adevărat paradis pentru plajă, și închiriați o umbrelă devreme în lunile de vară.",
+            "en": "Sink your toes into the soft sands of Ammos beach, a true paradise for sunbathers, and rent an umbrella early during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Totos",
+            "hu": "Totos",
+            "ro": "Totos",
+            "en": "Totos"
+          },
+          "coords": [
+            23.800884,
+            40.582342
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im kristallklaren Wasser von Totos und packen Sie Badeschuhe ein, um bequem über die Kieselsteine zu laufen.",
+            "hu": "Vegyen egy frissítő fürdőt Totos kristálytiszta vizében, ezen a szép tengerparti menedéken, és csomagoljon vízicipőt a kavicsok miatt.",
+            "ro": "Faceți o baie răcoritoare în apele cristaline din Totos, o retragere minunată pe litoral, și împachetați pantofi de apă pentru pietricele.",
+            "en": "Take a refreshing dip in the crystal-clear waters of Totos, a lovely seaside retreat, and pack water shoes to comfortably navigate the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Vina",
+            "hu": "Vina strand",
+            "ro": "Plaja Vina",
+            "en": "Vina beach"
+          },
+          "coords": [
+            23.801579,
+            40.58144
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre des Strandes Vina mit seinem atemberaubenden Küstenblick und bleiben Sie bis zum späten Nachmittag für den Sonnenuntergang.",
+            "hu": "Fürdőzzön a Vina strand békés atmoszférájában, amely lenyűgöző tengerparti kilátást nyújt, és maradjon késő délutánig a varázslatos naplementéért.",
+            "ro": "Bucurați-vă de atmosfera senină a plajei Vina, oferind vederi uimitoare la coastă, și stați până târziu pentru a asista la un apus fascinant.",
+            "en": "Bask in the serene atmosphere of Vina beach, offering stunning coastline views, and stay until late afternoon to witness a mesmerizing sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit einer erfrischenden Radtour an den nördlichen Stränden.\n\nFahren Sie mittags zum historischen Herzen des antiken Stagira und den Ruinen.\n\nVerbringen Sie den Nachmittag damit, zu den südlichen Küstenabschnitten zu radeln.\n\nBeenden Sie Ihren aktiven Tag entspannt im weichen Sand des Strandes Vina.",
+        "hu": "Indítsa a reggelt egy frissítő kerékpározással az északi strandok mentén.\n\nDélben tekerjen el az ókori Sztagira történelmi központjába és romjaihoz.\n\nA délutánt töltse azzal, hogy a déli partszakaszok és öblök felé pedáloz.\n\nZárja aktív napját a Vina strand puha homokján pihenve, miközben lemegy a nap.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă cu bicicleta pe plajele nordice.\n\nLa prânz, pedalați spre inima istorică a orașului antic Stagira și ruinele sale.\n\nPetreceți după-amiaza pedalând spre porțiunile de coastă și golfurile din sud.\n\nÎncheiați ziua activă relaxându-vă pe nisipul fin al plajei Vina.",
+        "en": "Kick off the morning with a refreshing bike ride along the northern beaches.\n\nAround midday, cycle to the historic heart of ancient Stagira and its ruins.\n\nSpend your afternoon pedaling down to the southern coastal stretches and bays.\n\nEnd your active day relaxing on the soft sands of Vina beach as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 4.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Khruse ammoudia",
+            "hu": "Khruse ammoudia",
+            "ro": "Khruse ammoudia",
+            "en": "Khruse ammoudia"
+          },
+          "coords": [
+            23.780654,
+            40.609487
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die goldenen Ufer von Khruse ammoudia mit seinen unberührten Gewässern und legen Sie Ihr Handtuch früh aus, um Massen zu vermeiden.",
+            "hu": "Fedezze fel Khruse ammoudia aranyló partjait, amely híres érintetlen vizeiről, és terítse ki törölközőjét korán, hogy elkerülje a déli tömeget.",
+            "ro": "Descoperiți țărmurile aurii din Khruse ammoudia, cunoscute pentru apele imaculate, și așezați-vă prosopul devreme pentru a evita aglomerația.",
+            "en": "Discover the golden shores of Khruse ammoudia, widely known for its pristine waters, and lay out your towel early to avoid the midday beach crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsiphliki",
+            "hu": "Tsiphliki",
+            "ro": "Tsiphliki",
+            "en": "Tsiphliki"
+          },
+          "coords": [
+            23.781071,
+            40.600011
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit des Küstenabschnitts von Tsiphliki, ideal für Naturliebhaber, und bringen Sie Ihr eigenes Trinkwasser mit.",
+            "hu": "Élvezze Tsiphliki tengerparti szakaszának érintetlen természeti szépségét, és vigyen magával saját ivóvizet, mivel a környéken kevés az üzlet.",
+            "ro": "Bucurați-vă de frumusețea naturală curată a coastei Tsiphliki, perfectă pentru iubitorii de natură, și aduceți propria apă de băut la pachet.",
+            "en": "Enjoy the pristine natural beauty of Tsiphliki's coastal stretch, perfect for nature lovers, and bring your own drinking water as facilities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Marina",
+            "hu": "Kikötő kilátása",
+            "ro": "Vedere spre port",
+            "en": "View of Marina of Olympiada"
+          },
+          "coords": [
+            23.789533,
+            40.590989
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sanft schaukelnden Boote in der malerischen Marina von Olympiada und machen Sie Fotos des kristallklaren Wassers vom Pier aus.",
+            "hu": "Csodálja meg a festői Olympiada kikötőjében ringatózó hajókat, és szánjon egy percet arra, hogy a mólóról fotózza a kristálytiszta vizet.",
+            "ro": "Admirați bărcile legănându-se ușor în portul pitoresc din Olympiada și faceți câteva fotografii apei cristaline direct de pe debarcader.",
+            "en": "Admire the boats gently bobbing in the scenic marina of Olympiada, and take a moment to snap photos of the crystal-clear water from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaisches Tor",
+            "hu": "Archaikus kapu",
+            "ro": "Poarta Arhaică",
+            "en": "Archaic Gate"
+          },
+          "coords": [
+            23.795016,
+            40.592184
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reisen Sie am beeindruckenden archaischen Tor der antiken Stadtbefestigung in die Vergangenheit und lesen Sie die informativen Tafeln vor Ort.",
+            "hu": "Lépjen vissza az időben az ősi városfalak lenyűgöző archaikus kapujánál, és olvassa el a kihelyezett táblákat a történelem megismeréséhez.",
+            "ro": "Întoarceți-vă în timp la impresionanta Poartă Arhaică a fortificațiilor antice și citiți plăcuțele informative pentru a înțelege istoria.",
+            "en": "Step back in time at the impressive Archaic Gate of the ancient city fortifications, and read the informative plaques to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Stagira",
+            "hu": "Ókori Sztagira",
+            "ro": "Stagira antică",
+            "en": "Ancient Stagira"
+          },
+          "coords": [
+            23.796033,
+            40.591739
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen von Stagira, dem berühmten Geburtsort von Aristoteles, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel Sztagira ősi romjait, Arisztotelész híres szülőhelyét, és viseljen kényelmes, zárt cipőt a régészeti terület egyenetlen talaján.",
+            "ro": "Explorați ruinele antice din Stagira, faimosul loc de naștere al lui Aristotel, și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the ancient ruins of Stagira, the renowned birthplace of philosopher Aristotle, and wear sturdy shoes for the uneven archaeological paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammos",
+            "hu": "Ammos",
+            "ro": "Ammos",
+            "en": "Ammos"
+          },
+          "coords": [
+            23.796303,
+            40.586008
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den weichen Sand des Strandes Ammos, ein Paradies für Sonnenbader, und mieten Sie in den Sommermonaten früh einen Schirm.",
+            "hu": "Süllyessze lábujjait az Ammos strand puha homokjába, amely egy igazi paradicsom, és a nyári csúcsidőszakban béreljen napernyőt már korán reggel.",
+            "ro": "Scufundați-vă degetele în nisipul fin al plajei Ammos, un adevărat paradis pentru plajă, și închiriați o umbrelă devreme în lunile de vară.",
+            "en": "Sink your toes into the soft sands of Ammos beach, a true paradise for sunbathers, and rent an umbrella early during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Balkonaki",
+            "hu": "Balkonaki",
+            "ro": "Balkonaki",
+            "en": "Balkonaki"
+          },
+          "coords": [
+            23.802379,
+            40.58023
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie den einzigartigen Charme von Balkonaki, perfekt für einen ruhigen Nachmittag, und bringen Sie eine Kamera für die Panoramablicke mit.",
+            "hu": "Tapasztalja meg Balkonaki egyedi tengerparti varázsát, amely tökéletes egy békés délutáni pihenéshez, és vigyen fényképezőgépet a panorámákhoz.",
+            "ro": "Experimentați farmecul unic de coastă din Balkonaki, perfect pentru o după-amiază pașnică, și aduceți o cameră pentru vederile panoramice.",
+            "en": "Experience the unique coastal charm of Balkonaki, perfect for a peaceful afternoon retreat, and bring a camera to capture the panoramic sea vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Borias Limani",
+            "hu": "Borias Limani",
+            "ro": "Borias Limani",
+            "en": "Borias Limani"
+          },
+          "coords": [
+            23.808576,
+            40.579977
+          ],
+          "category": "recreational",
+          "arrive_at": "17:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe von Borias Limani, der südlichsten Bucht auf Ihrer Route, und machen Sie vor der Heimreise einen sanften Spaziergang am Wasser.",
+            "hu": "Szívja magába Borias Limani, a déli öböl nyugalmát, és tegyen egy kellemes sétát a víz partján, mielőtt elindulna hazafelé.",
+            "ro": "Bucurați-vă de liniștea din Borias Limani, cel mai sudic golf de pe ruta dvs., și faceți o plimbare ușoară de-a lungul apei înainte de a pleca.",
+            "en": "Soak in the tranquility of Borias Limani, the southernmost bay on your route, and take a gentle stroll along the water's edge before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den nördlichen Buchten, um den Morgen mit Meerblick zu beginnen.\n\nFahren Sie mittags zu den archäologischen Wundern des antiken Stagira.\n\nAm Nachmittag cruisen Sie an der Südküste entlang, um versteckte Buchten zu finden.\n\nBeenden Sie Ihren Roadtrip am Borias Limani und genießen Sie den ruhigen Abend.",
+        "hu": "Autózzon el az északi öblökbe, hogy a reggelt romlatlan tengeri kilátással kezdje.\n\nDél körül vezessen lefelé az ókori Sztagira régészeti csodáihoz.\n\nDélután autózzon végig a déli partvonalon, hogy felfedezze a rejtett öblöket.\n\nFejezze be a festői autós utat a Borias Limani partján, élvezve az estét.",
+        "ro": "Conduceți spre golfurile nordice pentru a începe dimineața cu vederi la mare.\n\nLa prânz, conduceți spre minunile arheologice ale orașului antic Stagira.\n\nDupă-amiaza, mergeți de-a lungul coastei de sud pentru a descoperi golfuri ascunse.\n\nTerminați călătoria pitorească la Borias Limani, bucurându-vă de o seară liniștită.",
+        "en": "Drive to the far northern bays to start your morning with unspoiled sea views.\n\nBy midday, drive down to the archaeological wonders of ancient Stagira.\n\nIn the afternoon, cruise along the southern coastline to discover hidden coves.\n\nFinish your scenic road trip at Borias Limani, enjoying the peaceful evening."
+      }
+    }
+  }
+}

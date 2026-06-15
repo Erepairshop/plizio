@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-llanca-cities-v2",
+  "anchor": {
+    "name": "Llançà",
+    "coords": [
+      3.15213,
+      42.36241
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Vicenç",
+            "hu": "Sant Vicenç-templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            3.15163,
+            42.363029
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bezaubernde historische Kirche im Herzen der Altstadt als ruhigen Tagesbeginn, aber denken Sie an angemessene Kleidung für einen Besuch im Inneren.",
+            "hu": "Csodálja meg ezt a bájos történelmi templomot az óváros szívében, és induljon békésen a nap, de ne feledjen szerényen öltözni, ha be is szeretne menni.",
+            "ro": "Admirați această biserică istorică fermecătoare din inima orașului vechi, dar amintiți-vă să vă îmbrăcați decent dacă intenționați să aruncați o privire înăuntru.",
+            "en": "Admire this charming historic church at the heart of the old town, a peaceful start to the day, but remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Església del Port",
+            "hu": "Kikötői templom",
+            "ro": "Biserica din Port",
+            "en": "Church of the Port"
+          },
+          "coords": [
+            3.15832,
+            42.368521
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese maritime Kirche, die die tiefe Verbundenheit der Stadt mit dem Meer widerspiegelt, und verbinden Sie dies mit einem Spaziergang rund um den Hafen.",
+            "hu": "Látogassa meg ezt a tengerészeti templomot, amely a város tengerhez fűződő mély kapcsolatát tükrözi, és kösse össze a közeli kikötő körüli sétával a legjobb élményért.",
+            "ro": "Vizitați această biserică maritimă care reflectă legătura profundă a orașului cu marea și combinați-o cu o plimbare prin zona portului din apropiere.",
+            "en": "Visit this maritime church that reflects the town's deep connection to the sea, and combine it with a walk around the nearby harbor area for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Port",
+            "hu": "Platja del Port",
+            "ro": "Platja del Port",
+            "en": "Platja del Port"
+          },
+          "coords": [
+            3.160354,
+            42.371525
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Sandstrand dieses lebhaften Hafenstrands und beobachten Sie die Fischerboote; bringen Sie ein Handtuch mit und genießen Sie die Atmosphäre.",
+            "hu": "Pihenjen ennek a nyüzsgő kikötői strandnak a homokján, ahol megfigyelheti az érkező halászhajókat, ezért hozzon magával törölközőt és élvezze a helyi hangulatot.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje vibrante din port unde puteți urmări bărcile de pescari, așa că aduceți un prosop și bucurați-vă de atmosfera locală plină de viață.",
+            "en": "Relax on the sand of this vibrant port beach where you can watch fishing boats arrive, so bring a towel and enjoy the lively local atmosphere by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castellar",
+            "hu": "Mirador del Castellar",
+            "ro": "Mirador del Castellar",
+            "en": "Mirador del Castellar"
+          },
+          "coords": [
+            3.16475,
+            42.37258
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese kleine Felseninsel für spektakuläre Panoramablicke über den Hafen und die Küste, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel erre a kis sziklaszigetre a kikötőre és a partra nyíló látványos panorámáért, és feltétlenül viseljen masszív cipőt, mivel az ösvény egyenetlen lehet.",
+            "ro": "Urcați pe această mică insulă stâncoasă pentru vederi panoramice spectaculoase asupra portului și coastei și asigurați-vă că purtați încălțăminte confortabilă.",
+            "en": "Climb this small rocky islet for spectacular panoramic views over the harbor and coastline, and make sure to wear sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Farella",
+            "hu": "Platja de la Farella",
+            "ro": "Platja de la Farella",
+            "en": "Platja de la Farella"
+          },
+          "coords": [
+            3.163347,
+            42.365014
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten Strand, der für sein klares Wasser bekannt ist – ein perfekter Ort zum Schnorcheln, also vergessen Sie Ihre Schwimmbrille nicht.",
+            "hu": "Kapcsolódjon ki ezen a védett strandon, amely tiszta vizéről ismert, így tökéletes hely a sznorkelezéshez, ezért ne felejtse otthon az úszószemüvegét.",
+            "ro": "Relaxați-vă la această plajă adăpostită, cunoscută pentru apele sale limpezi, fiind un loc perfect pentru snorkeling, așa că nu uitați ochelarii de înot.",
+            "en": "Unwind at this sheltered beach known for its clear waters and natural surroundings, making it a perfect spot for snorkeling, so don't forget your swimming goggles."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Cau del Llop",
+            "hu": "Platja del Cau del Llop",
+            "ro": "Platja del Cau del Llop",
+            "en": "Platja del Cau del Llop"
+          },
+          "coords": [
+            3.162754,
+            42.360848
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den dunkleren Sand und die ruhigen Wellen an diesem schönen Wohnstrand, der weniger überlaufen ist, aber wenig Schatten bietet – Sonnencreme nicht vergessen.",
+            "hu": "Élvezze a sötétebb homokot és a csendes hullámokat ezen a gyönyörű lakossági strandon, amely kevésbé zsúfolt, de kevés árnyékot kínál, ezért hozzon sok naptejet.",
+            "ro": "Bucurați-vă de nisipul mai închis la culoare și de valurile liniștite de la această plajă frumoasă, care este mai puțin aglomerată, dar oferă puțină umbră.",
+            "en": "Enjoy the darker sands and tranquil waves at this beautiful residential beach, which is less crowded but offers little shade, so bring plenty of sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen im historischen Herzen von Llançà, erkunden die Altstadt und die wunderschöne Església de Sant Vicenç, bevor wir in Richtung der kühlen Meeresbrise spazieren.\nMittag: Im Hafenviertel angekommen, besuchen wir die maritime Kirche und schlendern am lebhaften Platja del Port entlang, um die mediterrane Sonne zu genießen.\nNachmittag: Ein sanfter Spaziergang führt uns zum spektakulären Mirador del Castellar mit Panoramablick aufs Meer, gefolgt von einer Pause am Platja de la Farella.\nAbend: Wir beenden unsere Küstenpromenade am Platja del Cau del Llop und genießen das ruhige Rauschen der Wellen, während das Licht über der zerklüfteten Küste weicher wird.",
+        "hu": "Délelőtt: Llançà történelmi szívében kezdünk, felfedezzük az óvárost és a gyönyörű Església de Sant Vicenç-t, mielőtt a tengeri szellő felé vennénk az irányt.\nDél: A kikötő környékére érve meglátogatjuk a tengerészeti templomot, és végigsétálunk a nyüzsgő Platja del Port-on, élvezve a mediterrán napsütést.\nDélután: Egy könnyű séta elvezet a látványos Mirador del Castellarhoz, amely panorámás kilátást nyújt a tengerre, majd a Platja de la Farella strandon pihenünk.\nEste: Tengerparti sétánkat a Platja del Cau del Llopnál fejezzük be, ahol élvezhetjük a hullámok csendes morajlását, ahogy a fény egyre lágyabbá válik a partvidéken.",
+        "ro": "Dimineața: Începem în inima istorică a orașului Llançà, explorând orașul vechi și frumoasa Església de Sant Vicenç înainte de a ne îndrepta spre briza coastei.\nPrânz: Ajungând în zona portului, vizităm biserica maritimă și ne plimbăm de-a lungul vibrantei Platja del Port, bucurându-ne de soarele mediteranean.\nDupă-amiaza: O scurtă plimbare ne duce la spectaculosul Mirador del Castellar, oferind vederi panoramice, urmată de o pauză relaxantă la Platja de la Farella.\nSeara: Ne încheiem promenada la Platja del Cau del Llop, bucurându-ne de sunetul liniștit al valurilor pe măsură ce lumina se înmoaie peste coasta stâncoasă.",
+        "en": "Morning: We start in the historic heart of Llançà, exploring the old town and the beautiful Església de Sant Vicenç before heading towards the coastal breeze.\nMidday: Reaching the port area, we visit the maritime church and stroll along the lively Platja del Port, soaking in the Mediterranean sun and watching the boats.\nAfternoon: A gentle walk takes us to the spectacular Mirador del Castellar, offering panoramic sea views, followed by a relaxing pause at Platja de la Farella.\nEvening: We conclude our coastal promenade at Platja del Cau del Llop, enjoying the tranquil sound of the waves as the afternoon light softens over the rugged coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Vicenç",
+            "hu": "Sant Vicenç-templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            3.15163,
+            42.363029
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bezaubernde historische Kirche im Herzen der Altstadt als ruhigen Tagesbeginn, aber denken Sie an angemessene Kleidung für einen Besuch im Inneren.",
+            "hu": "Csodálja meg ezt a bájos történelmi templomot az óváros szívében, és induljon békésen a nap, de ne feledjen szerényen öltözni, ha be is szeretne menni.",
+            "ro": "Admirați această biserică istorică fermecătoare din inima orașului vechi, dar amintiți-vă să vă îmbrăcați decent dacă intenționați să aruncați o privire înăuntru.",
+            "en": "Admire this charming historic church at the heart of the old town, a peaceful start to the day, but remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Església del Port",
+            "hu": "Kikötői templom",
+            "ro": "Biserica din Port",
+            "en": "Church of the Port"
+          },
+          "coords": [
+            3.15832,
+            42.368521
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese maritime Kirche, die die tiefe Verbundenheit der Stadt mit dem Meer widerspiegelt, und verbinden Sie dies mit einem Spaziergang rund um den Hafen.",
+            "hu": "Látogassa meg ezt a tengerészeti templomot, amely a város tengerhez fűződő mély kapcsolatát tükrözi, és kösse össze a közeli kikötő körüli sétával a legjobb élményért.",
+            "ro": "Vizitați această biserică maritimă care reflectă legătura profundă a orașului cu marea și combinați-o cu o plimbare prin zona portului din apropiere.",
+            "en": "Visit this maritime church that reflects the town's deep connection to the sea, and combine it with a walk around the nearby harbor area for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castellar",
+            "hu": "Mirador del Castellar",
+            "ro": "Mirador del Castellar",
+            "en": "Mirador del Castellar"
+          },
+          "coords": [
+            3.16475,
+            42.37258
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese kleine Felseninsel für spektakuläre Panoramablicke über den Hafen und die Küste, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel erre a kis sziklaszigetre a kikötőre és a partra nyíló látványos panorámáért, és feltétlenül viseljen masszív cipőt, mivel az ösvény egyenetlen lehet.",
+            "ro": "Urcați pe această mică insulă stâncoasă pentru vederi panoramice spectaculoase asupra portului și coastei și asigurați-vă că purtați încălțăminte confortabilă.",
+            "en": "Climb this small rocky islet for spectacular panoramic views over the harbor and coastline, and make sure to wear sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Titarolites",
+            "hu": "Platja de les Titarolites",
+            "ro": "Platja de les Titarolites",
+            "en": "Platja de les Titarolites"
+          },
+          "coords": [
+            3.16443,
+            42.365608
+          ],
+          "category": "recreational",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese intime Felsenbucht am Küstenweg mit kristallklarem Wasser für ein ruhiges Bad, wobei hier Badeschuhe sehr empfehlenswert sind.",
+            "hu": "Fedezze fel ezt a part menti ösvényen megbúvó intim sziklás öblöt, amely kristálytiszta vizével tökéletes egy csendes csobbanásra, bár a vízi cipő erősen ajánlott.",
+            "ro": "Descoperiți acest golf stâncos intim ascuns de-a lungul traseului de coastă, cu apă cristalină perfectă pentru o baie liniștită, deși pantofii de apă sunt recomandați.",
+            "en": "Discover this intimate rocky cove hidden along the coastal trail, offering crystal-clear water perfect for a quiet dip, though water shoes are highly recommended here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Cau del Llop",
+            "hu": "Platja del Cau del Llop",
+            "ro": "Platja del Cau del Llop",
+            "en": "Platja del Cau del Llop"
+          },
+          "coords": [
+            3.162754,
+            42.360848
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den dunkleren Sand und die ruhigen Wellen an diesem schönen Wohnstrand, der weniger überlaufen ist, aber wenig Schatten bietet – Sonnencreme nicht vergessen.",
+            "hu": "Élvezze a sötétebb homokot és a csendes hullámokat ezen a gyönyörű lakossági strandon, amely kevésbé zsúfolt, de kevés árnyékot kínál, ezért hozzon sok naptejet.",
+            "ro": "Bucurați-vă de nisipul mai închis la culoare și de valurile liniștite de la această plajă frumoasă, care este mai puțin aglomerată, dar oferă puțină umbră.",
+            "en": "Enjoy the darker sands and tranquil waves at this beautiful residential beach, which is less crowded but offers little shade, so bring plenty of sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'en Belleu",
+            "hu": "Platja d'en Belleu",
+            "ro": "Platja d'en Belleu",
+            "en": "Platja d'en Belleu"
+          },
+          "coords": [
+            3.184449,
+            42.350325
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen ruhigen Naturstrand weiter unten an der Küste für einen friedlichen Rückzugsort, aber bringen Sie eigene Getränke und Snacks mit.",
+            "hu": "Meneküljön el erre a békés, természetes strandra a part mentén egy nyugodt elvonuláshoz, de vegye figyelembe, hogy a felszereltség korlátozott, ezért hozzon rágcsálnivalót.",
+            "ro": "Evadați la această plajă naturală și senină mai jos pe coastă pentru o retragere pașnică, dar fiți conștienți că facilitățile sunt limitate, așa că aduceți gustări.",
+            "en": "Escape to this serene, natural beach further down the coast for a peaceful retreat, but be aware that facilities are limited so bring your own drinks and snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Radtour an der historischen Església de Sant Vicenç im Stadtzentrum und radeln Sie dann gemütlich in das pulsierende Hafenviertel.\nMittag: Nach der Besichtigung der Hafenkirche radeln Sie zum Mirador del Castellar für atemberaubende Meerblicke, bevor Sie am Platja de les Titarolites anhalten.\nNachmittag: Fahren Sie weiter auf den malerischen Küstenwegen und genießen Sie die frische Meeresbrise, bis Sie den Platja del Cau del Llop erreichen.\nAbend: Eine letzte längere Fahrt bringt Sie zum abgelegenen Platja d'en Belleu, der perfekte Ort, um die Beine auszuruhen und einen friedlichen Sonnenuntergang zu genießen.",
+        "hu": "Délelőtt: Kezdje kerékpártúráját a történelmi Església de Sant Vicenç-nél a városközpontban, majd tekerjen kényelmesen Llançà nyüzsgő kikötői negyedébe.\nDél: A kikötői templom megtekintése után tekerjen a Mirador del Castellarhoz a lélegzetelállító kilátásért, mielőtt megállna a Platja de les Titarolites-nél.\nDélután: Haladjon tovább dél felé a festői tengerparti ösvényeken, élvezve a friss szellőt, amíg el nem éri a Platja del Cau del Llop strandot egy gyors csobbanásra.\nEste: Egy utolsó hosszabb út elviszi a félreeső Platja d'en Belleu-hoz, amely tökéletes hely a lábak pihentetésére és egy békés tengerparti naplemente élvezetére.",
+        "ro": "Dimineața: Începeți turul cu bicicleta la istorica Església de Sant Vicenç din centrul orașului, apoi pedalați lin spre cartierul vibrant al portului.\nPrânz: După ce vedeți biserica portului, mergeți la Mirador del Castellar pentru vederi uluitoare ale Mediteranei înainte de a vă opri la Platja de les Titarolites.\nDupă-amiaza: Continuați să mergeți spre sud de-a lungul potecilor de coastă, bucurându-vă de briza mării pe măsură ce ajungeți la pitorescul Platja del Cau del Llop.\nSeara: O ultimă plimbare vă aduce la plaja izolată Platja d'en Belleu, locul perfect pentru a vă odihni picioarele și a vă bucura de un apus de soare pașnic.",
+        "en": "Morning: Kick off your cycling tour at the historic Església de Sant Vicenç in the town center, then pedal smoothly towards the vibrant port district of Llançà.\nMidday: After seeing the port's church, cycle to the Mirador del Castellar for breathtaking views of the Mediterranean before stopping at Platja de les Titarolites.\nAfternoon: Continue riding south along the scenic coastal paths, enjoying the fresh sea breeze as you reach the picturesque Platja del Cau del Llop for a quick dip.\nEvening: A final longer ride brings you to the secluded Platja d'en Belleu, the perfect spot to rest your legs and enjoy a peaceful coastal sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:52",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puig de la Folguera",
+            "hu": "Puig de la Folguera",
+            "ro": "Puig de la Folguera",
+            "en": "Puig de la Folguera"
+          },
+          "coords": [
+            3.136024,
+            42.369003
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitreichende Aussicht von diesem Hügel im Landesinneren, der eine breitere Perspektive auf die Region bietet, und packen Sie eine Windjacke ein.",
+            "hu": "Gyönyörködjön a lenyűgöző kilátásban erről a szárazföldi dombról, amely szélesebb perspektívát nyújt a régióra, és vigyen magával széldzsekit, mert a csúcson szellős lehet.",
+            "ro": "Bucurați-vă de priveliștile magnifice de pe acest deal care oferă o perspectivă mai largă asupra regiunii și luați o jachetă de vânt, deoarece poate fi răcoare.",
+            "en": "Take in the magnificent sweeping vistas from this inland hill that provides a broader perspective of the region, and carry a windbreaker as it can get breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Vicenç",
+            "hu": "Sant Vicenç-templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            3.15163,
+            42.363029
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese bezaubernde historische Kirche im Herzen der Altstadt als ruhigen Tagesbeginn, aber denken Sie an angemessene Kleidung für einen Besuch im Inneren.",
+            "hu": "Csodálja meg ezt a bájos történelmi templomot az óváros szívében, és induljon békésen a nap, de ne feledjen szerényen öltözni, ha be is szeretne menni.",
+            "ro": "Admirați această biserică istorică fermecătoare din inima orașului vechi, dar amintiți-vă să vă îmbrăcați decent dacă intenționați să aruncați o privire înăuntru.",
+            "en": "Admire this charming historic church at the heart of the old town, a peaceful start to the day, but remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Castellar",
+            "hu": "Mirador del Castellar",
+            "ro": "Mirador del Castellar",
+            "en": "Mirador del Castellar"
+          },
+          "coords": [
+            3.16475,
+            42.37258
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese kleine Felseninsel für spektakuläre Panoramablicke über den Hafen und die Küste, aber tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Másszon fel erre a kis sziklaszigetre a kikötőre és a partra nyíló látványos panorámáért, és feltétlenül viseljen masszív cipőt, mivel az ösvény egyenetlen lehet.",
+            "ro": "Urcați pe această mică insulă stâncoasă pentru vederi panoramice spectaculoase asupra portului și coastei și asigurați-vă că purtați încălțăminte confortabilă.",
+            "en": "Climb this small rocky islet for spectacular panoramic views over the harbor and coastline, and make sure to wear sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Farella",
+            "hu": "Platja de la Farella",
+            "ro": "Platja de la Farella",
+            "en": "Platja de la Farella"
+          },
+          "coords": [
+            3.163347,
+            42.365014
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten Strand, der für sein klares Wasser bekannt ist – ein perfekter Ort zum Schnorcheln, also vergessen Sie Ihre Schwimmbrille nicht.",
+            "hu": "Kapcsolódjon ki ezen a védett strandon, amely tiszta vizéről ismert, így tökéletes hely a sznorkelezéshez, ezért ne felejtse otthon az úszószemüvegét.",
+            "ro": "Relaxați-vă la această plajă adăpostită, cunoscută pentru apele sale limpezi, fiind un loc perfect pentru snorkeling, așa că nu uitați ochelarii de înot.",
+            "en": "Unwind at this sheltered beach known for its clear waters and natural surroundings, making it a perfect spot for snorkeling, so don't forget your swimming goggles."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'en Belleu",
+            "hu": "Platja d'en Belleu",
+            "ro": "Platja d'en Belleu",
+            "en": "Platja d'en Belleu"
+          },
+          "coords": [
+            3.184449,
+            42.350325
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen ruhigen Naturstrand weiter unten an der Küste für einen friedlichen Rückzugsort, aber bringen Sie eigene Getränke und Snacks mit.",
+            "hu": "Meneküljön el erre a békés, természetes strandra a part mentén egy nyugodt elvonuláshoz, de vegye figyelembe, hogy a felszereltség korlátozott, ezért hozzon rágcsálnivalót.",
+            "ro": "Evadați la această plajă naturală și senină mai jos pe coastă pentru o retragere pașnică, dar fiți conștienți că facilitățile sunt limitate, așa că aduceți gustări.",
+            "en": "Escape to this serene, natural beach further down the coast for a peaceful retreat, but be aware that facilities are limited so bring your own drinks and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de la Borda",
+            "hu": "Puig de la Borda",
+            "ro": "Puig de la Borda",
+            "en": "Puig de la Borda"
+          },
+          "coords": [
+            3.161875,
+            42.348991
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wandern oder fahren Sie zu diesem südlichen Gipfel für einen unvergleichlichen Blick auf den Sonnenuntergang über dem Mittelmeer, und bringen Sie eine Kamera mit.",
+            "hu": "Túrázzon vagy vezessen fel erre a déli csúcsra, ahonnan páratlan kilátás nyílik a Földközi-tenger feletti naplementére, és győződjön meg róla, hogy a kamerája fel van töltve.",
+            "ro": "Urcați sau conduceți până la acest vârf sudic pentru o vedere de neegalat a apusului peste Marea Mediterană, asigurându-vă că aparatul foto este complet încărcat.",
+            "en": "Hike or drive up to this southern peak for an unparalleled view of the sunset over the Mediterranean, making sure your camera is fully charged for the spectacular light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zum Puig de la Folguera hinauf für einen ersten weiten Blick auf die Region, bevor Sie im Zentrum die historische Església de Sant Vicenç bewundern.\nMittag: Navigieren Sie in Richtung Hafen und parken Sie in der Nähe des Mirador del Castellar, um das Küstenpanorama zu genießen, und fahren Sie dann zum Platja de la Farella.\nNachmittag: Fahren Sie weiter entlang der rauen Costa Brava in Richtung Süden zum ruhigen Platja d'en Belleu, einem hervorragenden Ort, um den Massen zu entfliehen.\nAbend: Beenden Sie Ihre Autotour, indem Sie landeinwärts zum Puig de la Borda fahren, der am Ende des Tages einen herrlichen letzten Aussichtspunkt auf die Landschaft bietet.",
+        "hu": "Délelőtt: Vezessen fel a Puig de la Folguerához, ahonnan elsöprő kilátás nyílik a régióra, mielőtt leereszkedne a városközpontba a történelmi Església de Sant Vicenç-hez.\nDél: Navigáljon a kikötő felé, és parkoljon le a Mirador del Castellar közelében a tengerparti panorámáért, majd vezessen el a Platja de la Farella strandhoz pihenni.\nDélután: Haladjon tovább dél felé a zord Costa Braván a csendes Platja d'en Belleu-hoz, amely kiváló hely arra, hogy elmeneküljön a tömeg elől és élvezze a vizet.\nEste: Zárja autós túráját a szárazföld belseje felé a Puig de la Bordához, amely csodálatos utolsó kilátópontot kínál a tájra a nap lezárásaként.",
+        "ro": "Dimineața: Conduceți până la Puig de la Folguera pentru o primă vedere panoramică asupra regiunii înainte de a coborî în centru pentru a admira istorica Església de Sant Vicenç.\nPrânz: Navigați spre port și parcați lângă Mirador del Castellar pentru a vă bucura de panorama de coastă, apoi conduceți până la Platja de la Farella pentru relaxare pe plajă.\nDupă-amiaza: Continuați să conduceți spre sud de-a lungul Costa Brava pentru a ajunge la liniștitul Platja d'en Belleu, un loc excelent pentru a scăpa de aglomerație.\nSeara: Încheiați-vă turul conducând spre interior până la Puig de la Borda, oferind un ultim punct de observație magnific al peisajului la sfârșitul zilei.",
+        "en": "Morning: Drive up to Puig de la Folguera for an initial sweeping view of the region before heading down to the town center to admire the historic Església de Sant Vicenç.\nMidday: Navigate towards the port and park near Mirador del Castellar to enjoy the coastal panorama, then drive to Platja de la Farella for some beachside relaxation.\nAfternoon: Continue driving south along the rugged Costa Brava to reach the tranquil Platja d'en Belleu, an excellent spot to escape the crowds and enjoy the water.\nEvening: Conclude your driving tour by heading inland to Puig de la Borda, offering a magnificent final viewpoint of the landscape as the day draws to a close."
+      }
+    }
+  }
+}

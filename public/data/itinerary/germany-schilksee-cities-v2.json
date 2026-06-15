@@ -1,0 +1,451 @@
+{
+  "city_id": "germany-schilksee-cities-v2",
+  "anchor": {
+    "name": "Schilksee",
+    "coords": [
+      10.17033,
+      54.42105
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:33",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dietrich-Bonhoeffer-Kirche",
+            "hu": "Dietrich-Bonhoeffer-Kirche",
+            "ro": "Biserica Dietrich-Bonhoeffer",
+            "en": "Dietrich Bonhoeffer Church"
+          },
+          "coords": [
+            10.17337,
+            54.421142
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte und moderne Architektur dieser Kirche und nehmen Sie sich morgens einen Moment der Stille für innere Einkehr.",
+            "hu": "Csodálja meg a templom letisztult és modern építészetét, és szánjon egy kis időt a csendes reggeli elmélkedésre ezen a nyugodt helyen.",
+            "ro": "Admirați arhitectura simplă și modernă a acestei biserici și rezervați-vă un moment de liniște dimineața pentru reculegere interioară.",
+            "en": "Admire the simple and modern architecture of this church, taking a moment of silence in the morning for peaceful inner reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Schilkseer Strand",
+            "hu": "Schilksee Strand",
+            "ro": "Plaja Schilksee",
+            "en": "Schilksee Beach"
+          },
+          "coords": [
+            10.176827,
+            54.421842
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Ostseeluft am Sandstrand, aber packen Sie unbedingt einen Windbrecher ein, da es hier oft sehr böig werden kann.",
+            "hu": "Élvezze a friss balti-tengeri levegőt a homokos strandon, de mindenképpen vigyen magával széldzsekit, mert itt gyakran fújhat erős szél.",
+            "ro": "Bucurați-vă de aerul proaspăt al Mării Baltice pe plaja de nisip, dar asigurați-vă că aveți o jachetă de vânt, deoarece poate fi destul de rafale.",
+            "en": "Enjoy the fresh Baltic Sea air on the sandy beach, but be sure to pack a windbreaker as it can often get quite gusty in this coastal area."
+          }
+        },
+        {
+          "name": {
+            "de": "Haukie",
+            "hu": "Haukie",
+            "ro": "Haukie",
+            "en": "Haukie"
+          },
+          "coords": [
+            10.167371,
+            54.429234
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf diese lokale Hafenlandmarke, die maritime Atmosphäre versprüht, und machen Sie hier am besten ein tolles Erinnerungsfoto.",
+            "hu": "Vessen egy pillantást erre a helyi kikötői nevezetességre, amely tengeri hangulatot áraszt, és készítsen itt egy nagyszerű emlékfotót utazásáról.",
+            "ro": "Aruncați o privire la acest reper portuar local, care emană o atmosferă maritimă, și faceți aici o fotografie grozavă ca suvenir al călătoriei.",
+            "en": "Take a look at this local harbor landmark, which exudes a charming maritime atmosphere, and snap a great souvenir photo here to remember your trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Olympisches Feuer von 1972",
+            "hu": "1972-es Olimpiai Láng Emlékmű",
+            "ro": "Focul Olimpic din 1972",
+            "en": "1972 Olympic Fire Monument"
+          },
+          "coords": [
+            10.170162,
+            54.430082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie ein Stück Sportgeschichte an diesem Denkmal der Segelolympiade und lesen Sie die Informationstafeln, um mehr über das Ereignis zu erfahren.",
+            "hu": "Éljen át egy darab sporttörténelmet a vitorlás olimpia ezen emlékművénél, és olvassa el az információs táblákat, hogy többet megtudjon az eseményről.",
+            "ro": "Experimentați o parte din istoria sportului la acest monument al Jocurilor Olimpice de navigație și citiți panourile informative pentru a afla mai multe.",
+            "en": "Experience a piece of sporting history at this sailing Olympics monument, and be sure to read the information boards to learn more about the historic event."
+          }
+        },
+        {
+          "name": {
+            "de": "Strander Katamaransegler e.V. Katamaranstrand",
+            "hu": "Strander Katamarán Vitorlás Klub Strandja",
+            "ro": "Plaja de Catamarane Strander Katamaransegler",
+            "en": "Strander Catamaran Sailing Club Beach"
+          },
+          "coords": [
+            10.168532,
+            54.433088
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die rasanten Katamarane vom Strand aus und suchen Sie sich rechtzeitig einen bequemen Platz auf dem Sand, um das Treiben zu genießen.",
+            "hu": "Figyelje meg a gyors katamaránokat a strandról, és találjon időben egy kényelmes helyet a homokban, hogy élvezhesse a vízparti sürgést-forgást.",
+            "ro": "Urmăriți dinspre plajă catamaranele rapide și găsiți din timp un loc confortabil pe nisip pentru a vă bucura de agitația fascinantă a portului.",
+            "en": "Watch the fast-paced catamarans from the beach, and make sure to find a comfortable spot on the sand early to fully enjoy the bustling waterfront activity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang beginnt an der modernen Dietrich-Bonhoeffer-Kirche, wo Sie sich besinnen können. Anschließend laufen Sie hinunter zum Schilkseer Strand für frische Ostseeluft. Gegen Mittag spazieren Sie entlang der Promenade zum Hafen, passieren die Landmarke Haukie und stehen am historischen Monument des Olympischen Feuers von 1972. Den Nachmittag lassen Sie bei den rasanten Seglern am Katamaranstrand entspannt ausklingen.",
+        "hu": "A séta a modern Dietrich-Bonhoeffer templomnál kezdődik, ahol elmélyülhet. Ezután sétáljon le a Schilksee strandra a friss balti-tengeri levegőért. Délben sétáljon a sétányon a kikötő felé, haladjon el a Haukie nevezetesség mellett, és nézze meg az 1972-es olimpiai láng történelmi emlékművét. A délutánt a katamarán strandon lévő gyors vitorlások megfigyelésével zárhatja le.",
+        "ro": "Plimbarea începe la biserica modernă Dietrich-Bonhoeffer, unde puteți reflecta în liniște. Apoi coborâți spre plaja Schilksee pentru aerul proaspăt. La amiază, plimbați-vă de-a lungul promenadei spre port, treceți de reperul Haukie și admirați monumentul istoric al Focului Olimpic din 1972. Încheiați după-amiaza relaxându-vă și privind velierele rapide de pe plaja de catamarane.",
+        "en": "The walk begins at the modern Dietrich Bonhoeffer Church, offering a moment of peace. Next, head down to Schilksee Beach for fresh Baltic air. Around midday, stroll along the promenade towards the harbor, passing the Haukie landmark and the historic 1972 Olympic Fire monument. End your afternoon relaxing by the catamaran beach, watching the fast-paced sailors navigate the coastal waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Eckhof",
+            "hu": "Eckhof Udvarház",
+            "ro": "Conacul Eckhof",
+            "en": "Eckhof Manor House"
+          },
+          "coords": [
+            10.152793,
+            54.43534
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Gutsarchitektur abseits des Trubels, aber parken Sie Ihr Fahrrad nur an den ausgewiesenen Stellen, um die Wege freizuhalten.",
+            "hu": "Csodálja meg a történelmi birtok építészetét a nyüzsgéstől távol, de a kerékpárt csak a kijelölt helyeken hagyja, hogy a sétautak szabadok maradjanak.",
+            "ro": "Admirați arhitectura istorică a conacului departe de agitație, dar asigurați-vă că parcați bicicleta doar în locurile desemnate pentru a menține căile libere.",
+            "en": "Marvel at the historical manor architecture away from the hustle, but make sure to park your bike only in designated areas to keep the pathways clear."
+          }
+        },
+        {
+          "name": {
+            "de": "Strander Katamaransegler e.V. Katamaranstrand",
+            "hu": "Strander Katamarán Vitorlás Klub Strandja",
+            "ro": "Plaja de Catamarane Strander Katamaransegler",
+            "en": "Strander Catamaran Sailing Club Beach"
+          },
+          "coords": [
+            10.168532,
+            54.433088
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Legen Sie eine sportliche Pause ein und schauen Sie den Katamaranen zu, jedoch sollten Sie den Sandstrand nicht direkt mit dem Rad befahren.",
+            "hu": "Tartson egy sportos szünetet, és nézze a katamaránokat, azonban ügyeljen arra, hogy ne hajtson rá közvetlenül a homokos strandra a kerékpárral.",
+            "ro": "Luați o pauză sportivă și priviți catamaranele, însă asigurați-vă că nu mergeți cu bicicleta direct pe plaja de nisip pentru a proteja natura.",
+            "en": "Take a sporty break to watch the nimble catamarans, but please be mindful not to ride your bicycle directly onto the soft sandy beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Olympisches Feuer von 1972",
+            "hu": "1972-es Olimpiai Láng Emlékmű",
+            "ro": "Focul Olimpic din 1972",
+            "en": "1972 Olympic Fire Monument"
+          },
+          "coords": [
+            10.170162,
+            54.430082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erinnern Sie sich an das Großereignis am Olympiahafen und nutzen Sie die nahegelegenen Bänke für eine kurze, entspannte Pause mit Blick aufs Wasser.",
+            "hu": "Emlékezzen a nagy eseményre az olimpiai kikötőnél, és használja a közeli padokat egy rövid, pihentető szünetre a gyönyörű vízre nézve.",
+            "ro": "Amintiți-vă de evenimentul major la portul olimpic și folosiți băncile din apropiere pentru o scurtă pauză relaxantă, cu vedere minunată spre apă.",
+            "en": "Remember the grand event at the Olympic harbor, and take advantage of the nearby benches for a short, relaxing break with excellent water views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schilkseer Strand",
+            "hu": "Schilksee Strand",
+            "ro": "Plaja Schilksee",
+            "en": "Schilksee Beach"
+          },
+          "coords": [
+            10.176827,
+            54.421842
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad am gut ausgebauten Promenadenweg stehen und gehen Sie ans Wasser, um sich die Füße abzukühlen und Muscheln zu sammeln.",
+            "hu": "Hagyja a kerékpárt a jól kiépített sétányon, és menjen a vízhez, hogy lehűtse a lábát, és gyönyörű kagylókat gyűjtsön a puha tengerparti homokban.",
+            "ro": "Lăsați bicicleta pe promenada bine întreținută și mergeți la apă pentru a vă răcori picioarele și a colecta scoici de pe plaja frumoasă.",
+            "en": "Leave your bike along the well-maintained promenade path and walk down to the water to cool your feet and collect shells on the beautiful sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Dietrich-Bonhoeffer-Kirche",
+            "hu": "Dietrich-Bonhoeffer-Kirche",
+            "ro": "Biserica Dietrich-Bonhoeffer",
+            "en": "Dietrich Bonhoeffer Church"
+          },
+          "coords": [
+            10.17337,
+            54.421142
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Gelegenheit für eine ruhige Pause im Inneren und beachten Sie die Öffnungszeiten, die oft an den Aushängen im Vorhof stehen.",
+            "hu": "Használja ki a lehetőséget egy csendes pihenőre bent, és vegye figyelembe a nyitvatartási időt, amely gyakran a hirdetőtáblákon van kifüggesztve.",
+            "ro": "Profitați de ocazie pentru o pauză liniștită în interior și verificați orele de deschidere care sunt adesea afișate pe panourile din curte.",
+            "en": "Take the opportunity for a quiet break inside, and be sure to check the opening hours which are often posted on the notice boards in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK Strand Falkenstein",
+            "hu": "Falkenstein Nudista Strand",
+            "ro": "Plaja de Nudiști Falkenstein",
+            "en": "Falkenstein Nudist Beach"
+          },
+          "coords": [
+            10.185978,
+            54.413686
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zum abgelegeneren Strandabschnitt für Freikörperkultur und respektieren Sie die örtlichen Baderegeln in diesem speziellen Naturabschnitt.",
+            "hu": "Kerékpározzon el a félreesőbb, nudisták számára kijelölt strandszakaszhoz, és kérjük, tartsa tiszteletben a helyi fürdőzési szabályokat ezen a természeti területen.",
+            "ro": "Bicicliți până la secțiunea de plajă mai retrasă pentru nudiști și vă rugăm să respectați regulile locale de scăldat din această zonă naturală protejată.",
+            "en": "Cycle to the more secluded nudist beach section, and please ensure you respect the local bathing rules and privacy in this specific natural area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet beim historischen Herrenhaus Eckhof im Landesinneren. Von dort radeln Sie zügig an die Küste zum Katamaranstrand, wo das maritime Flair lockt. Vorbei am geschichtsträchtigen Olympischen Feuer geht es entlang der Küstenpromenade zum breiten Schilkseer Strand. Nach einem spirituellen Halt an der Bonhoeffer-Kirche beenden Sie den Tag entspannt am weitläufigen Strand Falkenstein südlich des Zentrums.",
+        "hu": "Kerékpártúrája a történelmi Eckhof udvarháztól indul a szárazföld belsejében. Innen gyorsan a partra teker a katamarán strandhoz, ahol tengeri hangulat várja. A történelmi olimpiai láng mellett elhaladva a parti sétányon a széles Schilksee strandhoz jut. A Bonhoeffer templomnál tartott spirituális megálló után a napot lazítva fejezi be a központtól délre fekvő Falkenstein strandon.",
+        "ro": "Turul dumneavoastră cu bicicleta începe de la istoricul Conac Eckhof din interior. De acolo, pedalați rapid spre coastă până la plaja de catamarane, cu flerul său maritim. Trecând pe lângă Focul Olimpic, mergeți de-a lungul promenadei până la plaja largă Schilksee. După o oprire spirituală la Biserica Bonhoeffer, vă încheiați ziua relaxându-vă pe vasta plajă Falkenstein din sud.",
+        "en": "Your bike tour starts at the historic Eckhof Manor inland. From there, cycle quickly to the coast to the catamaran beach, enjoying the maritime flair. Passing the historic Olympic Fire, you ride along the coastal promenade to the wide Schilksee Beach. After a spiritual stop at the Bonhoeffer Church, end your day relaxing at the expansive Falkenstein Beach south of the center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Eckhof",
+            "hu": "Eckhof Udvarház",
+            "ro": "Conacul Eckhof",
+            "en": "Eckhof Manor House"
+          },
+          "coords": [
+            10.152793,
+            54.43534
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Herrenhaus im ruhigen Umland und parken Sie am Straßenrand, da direkte Besucherparkplätze auf dem Hof begrenzt sind.",
+            "hu": "Fedezze fel a csodálatos udvarházat a csendes vidéken, és parkoljon az út szélén, mivel a közvetlen látogatói parkolóhelyek száma az udvaron korlátozott.",
+            "ro": "Explorați magnificul conac din mediul rural liniștit și parcați pe marginea drumului, deoarece locurile de parcare pentru vizitatori în curte sunt limitate.",
+            "en": "Explore the magnificent manor house in the quiet countryside, and park on the roadside as direct visitor parking spots in the courtyard are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Olympisches Feuer von 1972",
+            "hu": "1972-es Olimpiai Láng Emlékmű",
+            "ro": "Focul Olimpic din 1972",
+            "en": "1972 Olympic Fire Monument"
+          },
+          "coords": [
+            10.170162,
+            54.430082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Großparkplatz am Olympiazentrum, um dieses Monument aus nächster Nähe zu betrachten und die Hafenstimmung voll aufzusaugen.",
+            "hu": "Használja az Olimpiai Központ nagy parkolóját, hogy testközelből is megnézze ezt az emlékművet, és magába szívja a különleges kikötői hangulatot.",
+            "ro": "Folosiți parcarea mare de la Centrul Olimpic pentru a privi de aproape acest monument și a vă bucura din plin de atmosfera vibrantă a portului.",
+            "en": "Use the large parking lot at the Olympic Center to get a close look at this monument and fully soak up the vibrant and historic harbor atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Haukie",
+            "hu": "Haukie",
+            "ro": "Haukie",
+            "en": "Haukie"
+          },
+          "coords": [
+            10.167371,
+            54.429234
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie das kurze Stück vom Parkplatz zu diesem nautischen Detail und werfen Sie einen Blick auf die ankernden Yachten nebenan.",
+            "hu": "Sétáljon el a parkolóból ehhez a tengerészeti részlethez, és vessen egy pillantást a közvetlenül mellette horgonyzó gyönyörű jachtokra is a vízen.",
+            "ro": "Plimbați-vă de la parcare până la acest detaliu nautic și aruncați o privire la iahturile frumos ancorate aflate imediat lângă acest punct de interes.",
+            "en": "Stroll the short distance from the parking lot to this nautical detail, and be sure to take a look at the beautiful yachts anchored right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Dietrich-Bonhoeffer-Kirche",
+            "hu": "Dietrich-Bonhoeffer-Kirche",
+            "ro": "Biserica Dietrich-Bonhoeffer",
+            "en": "Dietrich Bonhoeffer Church"
+          },
+          "coords": [
+            10.17337,
+            54.421142
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück in den südlichen Ortsteil zur Kirche und parken Sie achtsam in den angrenzenden Wohnstraßen, um niemanden zu behindern.",
+            "hu": "Vezessen egy rövid szakaszt a déli kerületbe a templomhoz, és parkoljon óvatosan a szomszédos lakóutcákban, hogy ne akadályozza a forgalmat.",
+            "ro": "Conduceți pe o distanță scurtă până la biserica din cartierul sudic și parcați cu atenție pe străzile rezidențiale alăturate pentru a nu bloca drumul.",
+            "en": "Drive a short distance to the church in the southern district, and park carefully on the adjacent residential streets to avoid blocking any traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schilkseer Strand",
+            "hu": "Schilksee Strand",
+            "ro": "Plaja Schilksee",
+            "en": "Schilksee Beach"
+          },
+          "coords": [
+            10.176827,
+            54.421842
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kirche hinunter an den Hauptstrand und mieten Sie sich für maximalen Komfort bei sonnigem Wetter frühzeitig einen Strandkorb.",
+            "hu": "Sétáljon le a templomtól a fő strandra, és a maximális kényelem érdekében napos időben béreljen időben egy hagyományos strandkosarat a homokban.",
+            "ro": "Mergeți de la biserică până la plaja principală și închiriați din timp un scaun de plajă acoperit pentru confort maxim pe vreme însorită de vară.",
+            "en": "Walk down from the church to the main beach, and rent a traditional hooded beach chair early for maximum comfort during sunny weather conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand Falckenstein",
+            "hu": "Falckenstein Kutyás Strand",
+            "ro": "Plaja pentru Câini Falckenstein",
+            "en": "Falckenstein Dog Beach"
+          },
+          "coords": [
+            10.188597,
+            54.410799
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zum Abschluss fahren Sie in den Süden zu diesem belebten Strandabschnitt, wo Sie das bunte Treiben der Vierbeiner am Wasser bestens beobachten können.",
+            "hu": "Végül vezessen délre ehhez a nyüzsgő strandszakaszhoz, ahol remekül megfigyelheti a négylábú barátok vidám játékát a hűsítő tengervízben.",
+            "ro": "La final, conduceți spre sud către această secțiune plină de viață, unde puteți urmări cu ușurință agitația veselă a prietenilor cu patru picioare la apă.",
+            "en": "Finally, drive south to this lively beach section, where you can perfectly watch the colorful and joyful activity of four-legged friends in the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie am Morgen bequem das Herrenhaus Eckhof im grünen Umland. Anschließend steuern Sie das Olympiazentrum an, wo Sie die historischen Monumente wie das Olympische Feuer bestaunen. Am Mittag besuchen Sie die moderne Dietrich-Bonhoeffer-Kirche und entspannen danach ausgiebig am Schilkseer Sandstrand. Am späten Nachmittag fahren Sie gemütlich nach Falckenstein, um die entspannte Atmosphäre am Hundestrand zu genießen.",
+        "hu": "Autóval reggel kényelmesen elérheti az Eckhof udvarházat a zöldövezetben. Ezután az Olimpiai Központ felé veszi az irányt, ahol történelmi emlékműveket csodálhat meg. Délben meglátogatja a modern Bonhoeffer templomot, majd pihen a Schilksee homokos strandján. Késő délután kényelmesen átvezet Falckensteinbe, hogy élvezze a kutyás strand vidám hangulatát.",
+        "ro": "Dimineața ajungeți ușor cu mașina la Conacul Eckhof în zona verde. Apoi vă îndreptați spre Centrul Olimpic, unde puteți admira monumente istorice precum Focul Olimpic. La prânz, vizitați Biserica Bonhoeffer și vă relaxați pe plaja cu nisip Schilksee. După-amiaza târziu, conduceți liniștit spre Falckenstein pentru a vă bucura de atmosfera de la plaja pentru câini.",
+        "en": "By car, comfortably reach the Eckhof Manor in the green surroundings this morning. Next, head to the Olympic Center to marvel at historic monuments like the Olympic Fire. At midday, visit the modern Bonhoeffer Church and then relax extensively on Schilksee's sandy beach. Late afternoon, take a leisurely drive to Falckenstein to enjoy the vibrant atmosphere at the dog beach."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "sweden-gustavsberg-cities-v2",
+  "anchor": {
+    "name": "Gustavsberg",
+    "coords": [
+      18.37302,
+      59.32067
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 1.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gustavsberg 38:1",
+            "hu": "Gustavsberg 38:1",
+            "ro": "Gustavsberg 38:1",
+            "en": "Gustavsberg 38:1"
+          },
+          "coords": [
+            18.361703,
+            59.319786
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese frühe Siedlungsstruktur, die die industrielle Vergangenheit der Stadt beleuchtet, und lesen Sie die lokalen Informationstafeln, bevor Sie weitergehen.",
+            "hu": "Fedezze fel ezt a korai településszerkezetet, amely a város ipari múltját részletezi, és mindenképpen olvassa el a helyi örökségvédelmi táblákat a kikötő előtt.",
+            "ro": "Descoperiți această structură timpurie care detaliază trecutul industrial al orașului și asigurați-vă că citiți panourile informative locale înainte de a continua.",
+            "en": "Discover this early settlement structure detailing the town's industrial past, and be sure to read the localized heritage markers before proceeding to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Farstaviken",
+            "hu": "Farstaviken",
+            "ro": "Farstaviken",
+            "en": "Farstaviken"
+          },
+          "coords": [
+            18.36012,
+            59.322923
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht, die einst als wichtiger Schifffahrtsweg für Porzellan diente, und machen Sie ein Foto von der westlichen Aussichtsplattform.",
+            "hu": "Élvezze a panorámás öböl kilátását, amely egykor a porcelán elengedhetetlen szállítási útvonala volt, és készítsen egy gyors fotót a nyugati kilátóteraszról.",
+            "ro": "Admirați vederea panoramică a golfului care a servit cândva drept rută pentru porțelan și faceți o fotografie de pe platforma de observație din partea de vest.",
+            "en": "Take in the panoramic bay views that once served as the crucial shipping channel for porcelain, and grab a quick photo from the western observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Tegelbruk",
+            "hu": "Tegelbruk",
+            "ro": "Tegelbruk",
+            "en": "Tegelbruk"
+          },
+          "coords": [
+            18.364028,
+            59.324739
+          ],
+          "category": "historical",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Ziegelei, die die lokale Architektur prägte, aber achten Sie auf Ihre Schritte rund um die unebenen historischen Fundamentruinen.",
+            "hu": "Fedezze fel a régi téglagyár maradványait, amely a helyi építészetet formálta, de ügyeljen a lépéseire az egyenetlen történelmi alapromok körül sétálva.",
+            "ro": "Explorați rămășițele vechii fabrici de cărămidă care a modelat arhitectura locală, dar fiți atenți la pașii dumneavoastră în jurul ruinelor istorice inegale.",
+            "en": "Explore the remnants of the old brickyard that shaped the local architecture, but watch your step around the uneven historical foundational ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Badplats Kalsongberget",
+            "hu": "Badplats Kalsongberget",
+            "ro": "Badplats Kalsongberget",
+            "en": "Badplats Kalsongberget"
+          },
+          "coords": [
+            18.364596,
+            59.326553
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lokalen Badeplatz mit wunderschönen Felsvorsprüngen und bringen Sie ein kleines Handtuch mit, wenn Sie Ihre Füße ins Wasser tauchen möchten.",
+            "hu": "Pihenjen ezen a helyi fürdőhelyen, amely gyönyörű sziklás kiemelkedésekkel rendelkezik, és hozzon magával egy kis törölközőt, ha a hűsítő vízbe lógatná a lábát.",
+            "ro": "Relaxați-vă la acest loc de înot local cu aflorimente stâncoase frumoase și aduceți un prosop mic dacă intenționați să vă scufundați picioarele în apele răcoritoare.",
+            "en": "Relax at this local swimming spot featuring beautiful rocky outcrops, and bring a small towel if you plan to dip your feet in the refreshing Baltic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustavsberg 76",
+            "hu": "Gustavsberg 76",
+            "ro": "Gustavsberg 76",
+            "en": "Gustavsberg 76"
+          },
+          "coords": [
+            18.367983,
+            59.330861
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser bedeutenden historischen Stätte, die das klassische schwedische Erbe widerspiegelt und deren Nachmittagslicht perfekt für Fotos ist.",
+            "hu": "Fejezze be sétáját ennél a jelentős történelmi helynél, amely a klasszikus svéd vidéki örökséget tükrözi, és ahol a délutáni fények tökéletesek az építészeti fotózáshoz.",
+            "ro": "Încheiați plimbarea la acest sit istoric semnificativ care reflectă patrimoniul rural suedez clasic, unde lumina după-amiezii este perfectă pentru fotografia de arhitectură.",
+            "en": "Conclude your walk at this significant historical site reflecting classic rural Swedish heritage, where the afternoon lighting is perfect for architectural photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Herzen von Gustavsberg, wo die frühen Siedlungen Geschichten aus einer industriellen Vergangenheit flüstern. Die Mittagszeit bringt Sie näher ans Wasser, entlang der malerischen Ufer des Farstaviken und des Erbes der Ziegelei. Der Nachmittag lädt zu einer gemütlichen Pause am örtlichen Felsenstrand ein, der Geschichte mit natürlicher Ruhe verbindet. Der Abend endet an klassischen Holzdenkmälern und hinterlässt bleibende Erinnerungen.",
+        "hu": "A reggel Gustavsberg történelmi szívében kezdődik, ahol a korai települések egy ipari múlt meséit suttogják. A délidő közelebb hozza Önt a vízhez, követve Farstaviken festői partjait és a téglagyár tartós örökségét. A délután kellemes pihenésre csábít a helyi sziklás strandon, egyensúlyba hozva a történelmet a természet nyugalmával. Az este a klasszikus fa örökségi helyszíneken ér véget, maradandó emlékeket hagyva a szigettenger varázslatos karakteréről.",
+        "ro": "Dimineața începe în inima istorică a Gustavsberg, unde așezările timpurii șoptesc povești despre un trecut industrial. Amiaza vă aduce mai aproape de apă, urmărind țărmurile pitorești ale Farstaviken și moștenirea durabilă a fabricii de cărămidă. După-amiaza invită la o pauză relaxantă pe plaja stâncoasă locală, echilibrând istoria cu seninătatea naturală. Seara se încheie la siturile clasice din lemn, lăsându-vă cu amintiri de neuitat despre caracterul fermecător al arhipelagului.",
+        "en": "Morning begins in the historic heart of Gustavsberg, where the early settlements whisper tales of an industrial past. Midday brings you closer to the water, tracing the picturesque shores of Farstaviken and the enduring legacy of the brickyard. Afternoon invites a leisurely pause at the local rocky beach, balancing history with natural serenity. Evening concludes at classic wooden heritage sites, leaving you with lasting memories of the archipelago's charming character."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 6.43,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Farstabron",
+            "hu": "Farstabron",
+            "ro": "Farstabron",
+            "en": "Farstabron"
+          },
+          "coords": [
+            18.347183,
+            59.320445
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit der Überquerung dieser strategischen Brücke, die einen weiten Blick bietet, und achten Sie darauf, aus Sicherheitsgründen auf dem Radweg zu bleiben.",
+            "hu": "Kezdje kerékpártúráját ezen a stratégiai hídon átkelve, amely széles kilátást nyújt a szigettengerre, és ügyeljen arra, hogy a kijelölt kerékpársávban maradjon a biztonságért.",
+            "ro": "Începeți turul cu bicicleta traversând acest pod strategic care oferă vederi ample asupra arhipelagului, asigurându-vă că rămâneți pe pista de biciclete desemnată pentru siguranță.",
+            "en": "Start your bike tour by crossing this strategic bridge offering sweeping views of the archipelago, making sure to stay in the designated cycle lane for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Farstaviken",
+            "hu": "Farstaviken",
+            "ro": "Farstaviken",
+            "en": "Farstaviken"
+          },
+          "coords": [
+            18.36012,
+            59.322923
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht, die einst als wichtiger Schifffahrtsweg für Porzellan diente, und machen Sie ein Foto von der westlichen Aussichtsplattform.",
+            "hu": "Élvezze a panorámás öböl kilátását, amely egykor a porcelán elengedhetetlen szállítási útvonala volt, és készítsen egy gyors fotót a nyugati kilátóteraszról.",
+            "ro": "Admirați vederea panoramică a golfului care a servit cândva drept rută pentru porțelan și faceți o fotografie de pe platforma de observație din partea de vest.",
+            "en": "Take in the panoramic bay views that once served as the crucial shipping channel for porcelain, and grab a quick photo from the western observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustavsberg 38:1",
+            "hu": "Gustavsberg 38:1",
+            "ro": "Gustavsberg 38:1",
+            "en": "Gustavsberg 38:1"
+          },
+          "coords": [
+            18.361703,
+            59.319786
+          ],
+          "category": "historical",
+          "arrive_at": "10:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese frühe Siedlungsstruktur, die die industrielle Vergangenheit der Stadt beleuchtet, und lesen Sie die lokalen Informationstafeln, bevor Sie weitergehen.",
+            "hu": "Fedezze fel ezt a korai településszerkezetet, amely a város ipari múltját részletezi, és mindenképpen olvassa el a helyi örökségvédelmi táblákat a kikötő előtt.",
+            "ro": "Descoperiți această structură timpurie care detaliază trecutul industrial al orașului și asigurați-vă că citiți panourile informative locale înainte de a continua.",
+            "en": "Discover this early settlement structure detailing the town's industrial past, and be sure to read the localized heritage markers before proceeding to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Artipelag",
+            "hu": "Artipelag",
+            "ro": "Artipelag",
+            "en": "Artipelag"
+          },
+          "coords": [
+            18.346647,
+            59.306632
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in zeitgenössische Kunst von Weltklasse, die nahtlos in den Kiefernwald integriert ist, und buchen Sie Ihre Tickets im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el a fenyőerdőbe zökkenőmentesen integrálódó, világszínvonalú kortárs művészetben, és foglalja le a kiállításra szóló jegyét előre az interneten, hogy elkerülje a sorban állást.",
+            "ro": "Cufundați-vă în arta contemporană de clasă mondială integrată perfect în pădurea de pini și rezervați biletele de expoziție online în avans pentru a evita cozile de la intrare.",
+            "en": "Immerse yourself in world-class contemporary art seamlessly integrated into the pine forest, and book your exhibition tickets online in advance to skip the queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustavsbergbadet",
+            "hu": "Gustavsbergbadet",
+            "ro": "Gustavsbergbadet",
+            "en": "Gustavsbergbadet"
+          },
+          "coords": [
+            18.397998,
+            59.326982
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.64,
+          "tip_5lang": {
+            "de": "Genießen Sie nach einem langen Radtag ein belebendes Bad in dieser modernen Freizeiteinrichtung, aber denken Sie daran, ordnungsgemäße Badebekleidung mitzubringen.",
+            "hu": "Élvezze a frissítő úszást ebben a modern fedett rekreációs létesítményben egy hosszú kerékpáros nap után, de ne felejtsen el megfelelő fürdőruhát vagy úszónadrágot csomagolni.",
+            "ro": "Bucurați-vă de o baie revitalizantă la această facilitate modernă de agrement după o zi lungă de ciclism, dar nu uitați să împachetați un costum de baie corespunzător.",
+            "en": "Enjoy a revitalizing swim at this modern indoor recreational facility after a long day of cycling, but remember to pack a one-piece or proper swim trunks as required."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer erfrischenden Brise, während Sie die majestätische Farstabron überqueren und die Bucht begrüßen. Gegen Mittag tauchen Sie tief in die Industriegeschichte der Stadt ein. Der Nachmittag erstreckt sich auf eine inspirierende Reise zum Artipelag, wo Weltklasse-Kunst auf dichte Kiefernwälder trifft. Der Abend belohnt Ihren aktiven Tag mit einem wohlverdienten, beruhigenden Besuch in den modernen Innenbädern.",
+        "hu": "Kezdje a reggelt frissítő szellővel, miközben átkel a fenséges Farstabron hídon, üdvözölve az öblöt. Délre elmélyed a város mély ipari történelmében, és megcsodálja a festői Farstaviken kikötőt. A délután egy inspiráló utazássá nyúlik az Artipelag felé, ahol a művészet sűrű fenyőerdőkkel találkozik. Az este egy jól megérdemelt, megnyugtató látogatással jutalmazza aktív napját a modern fedett fürdőben, mielőtt hazatérne.",
+        "ro": "Începeți dimineața cu o briză răcoritoare în timp ce traversați maiestuosul Farstabron, salutând golful. Până la amiază, vă aprofundați în istoria industrială a orașului și admirați pitorescul port Farstaviken. După-amiaza se transformă într-o călătorie plină de inspirație la Artipelag, unde arta întâlnește pădurile dese de pini. Seara vă răsplătește ziua activă cu o vizită binemeritată și liniștitoare la băile interioare moderne înainte de a pleca.",
+        "en": "Kick off the morning with a refreshing breeze as you cross the majestic Farstabron, greeting the bay. By midday, you're delving into the town's profound industrial history and admiring the scenic Farstaviken harbor. Afternoon stretches into an inspiring journey to Artipelag, where world-class art meets dense pine forests. Evening rewards your active day with a well-deserved, soothing visit to the modern indoor baths before heading home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 6.79,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Velamsundsbadet",
+            "hu": "Velamsundsbadet",
+            "ro": "Velamsundsbadet",
+            "en": "Velamsundsbadet"
+          },
+          "coords": [
+            18.326768,
+            59.345152
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Morgenluft an diesem ruhigen Strand im Naturschutzgebiet ein und parken Sie an Sommerwochenenden auf dem oberen Parkplatz, wenn es schnell voll wird.",
+            "hu": "Szívja magába a friss reggeli levegőt ezen a nyugodt természetvédelmi strandon, és nyári hétvégéken parkoljon a felső parkolóban, amikor a part hamar megtelik látogatókkal.",
+            "ro": "Respirați aerul proaspăt al dimineții la această plajă liniștită dintr-o rezervație naturală și parcați în lotul superior în weekendurile de vară, când țărmul se umple rapid.",
+            "en": "Breathe in the fresh morning air at this tranquil nature reserve beach, and park in the upper lot during summer weekends when the shoreline fills up quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustavsberg 72",
+            "hu": "Gustavsberg 72",
+            "ro": "Gustavsberg 72",
+            "en": "Gustavsberg 72"
+          },
+          "coords": [
+            18.363989,
+            59.331919
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.54,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die gut erhaltenen strukturellen Details dieses historischen Viertels und halten Sie Ihre Kamera bereit, um die authentischen Holzfassaden entlang der Straße zu fotografieren.",
+            "hu": "Vizsgálja meg e történelmi negyed jól megőrzött szerkezeti részleteit, és tartsa készenlétben a fényképezőgépét, hogy megörökítse a főút mentén lévő autentikus fa homlokzatokat.",
+            "ro": "Investigați detaliile structurale bine conservate ale acestui cartier istoric și țineți camera pregătită pentru a surprinde fațadele autentice din lemn de-a lungul drumului principal.",
+            "en": "Investigate the well-preserved structural details of this historical district, and keep your camera ready to capture the authentic wooden facades along the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Tegelbruk",
+            "hu": "Tegelbruk",
+            "ro": "Tegelbruk",
+            "en": "Tegelbruk"
+          },
+          "coords": [
+            18.364028,
+            59.324739
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Ziegelei, die die lokale Architektur prägte, aber achten Sie auf Ihre Schritte rund um die unebenen historischen Fundamentruinen.",
+            "hu": "Fedezze fel a régi téglagyár maradványait, amely a helyi építészetet formálta, de ügyeljen a lépéseire az egyenetlen történelmi alapromok körül sétálva.",
+            "ro": "Explorați rămășițele vechii fabrici de cărămidă care a modelat arhitectura locală, dar fiți atenți la pașii dumneavoastră în jurul ruinelor istorice inegale.",
+            "en": "Explore the remnants of the old brickyard that shaped the local architecture, but watch your step around the uneven historical foundational ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Lilla Kårnäs gård",
+            "hu": "Lilla Kårnäs gård",
+            "ro": "Lilla Kårnäs gård",
+            "en": "Lilla Kårnäs gård"
+          },
+          "coords": [
+            18.353539,
+            59.300689
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Herrenhausarchitektur dieses historischen Anwesens und respektieren Sie die privaten Grenzen, während Sie das elegante Äußere betrachten.",
+            "hu": "Csodálja meg e történelmi birtok hagyományos kúriaépítészetét, és tartsa tiszteletben a magánterület határait, miközben a kijelölt útról szemléli az elegáns külsőt.",
+            "ro": "Admirați arhitectura tradițională de conac a acestei moșii istorice și respectați granițele private în timp ce priviți exteriorul elegant de pe calea special amenajată.",
+            "en": "Admire the traditional manor architecture of this historic estate, and respect the private boundaries while viewing the elegant exterior from the designated path."
+          }
+        },
+        {
+          "name": {
+            "de": "Artipelag",
+            "hu": "Artipelag",
+            "ro": "Artipelag",
+            "en": "Artipelag"
+          },
+          "coords": [
+            18.346647,
+            59.306632
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in zeitgenössische Kunst von Weltklasse, die nahtlos in den Kiefernwald integriert ist, und buchen Sie Ihre Tickets im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el a fenyőerdőbe zökkenőmentesen integrálódó, világszínvonalú kortárs művészetben, és foglalja le a kiállításra szóló jegyét előre az interneten, hogy elkerülje a sorban állást.",
+            "ro": "Cufundați-vă în arta contemporană de clasă mondială integrată perfect în pădurea de pini și rezervați biletele de expoziție online în avans pentru a evita cozile de la intrare.",
+            "en": "Immerse yourself in world-class contemporary art seamlessly integrated into the pine forest, and book your exhibition tickets online in advance to skip the queue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am ruhigen Velamsundsbadet, wo Sie die unberührte Luft der Schären einatmen. Wenn der Mittag näher rückt, navigieren Sie durch die nördlichen historischen Viertel. Der Nachmittag nimmt eine königliche Wendung, während Sie an klassischen Anwesen wie Lilla Kårnäs gård vorbeifahren. Der Abend bricht am Artipelag herein und bietet eine spektakuläre Verschmelzung von hochmoderner zeitgenössischer Kultur und tiefer nordischer Natur.",
+        "hu": "Autós utazása a nyugodt Velamsundsbadetnél kezdődik, ahol belélegezheti az érintetlen szigettenger levegőjét. A dél közeledtével az északi történelmi negyedeken keresztül navigál. A délután fenséges fordulatot vesz, amint elhalad a klasszikus birtokok, például a Lilla Kårnäs gård mellett. Az este az Artipelagnál köszönt be, amely az élvonalbeli kortárs kultúra és a mély északi természet látványos fúzióját nyújtja.",
+        "ro": "Conducerea începe la liniștitul Velamsundsbadet, respirând aerul curat al arhipelagului. Pe măsură ce se apropie amiaza, navigați prin cartierele istorice din nord. După-amiaza ia o turnură regală în timp ce treceți pe lângă moșii clasice precum Lilla Kårnäs gård. Seara coboară la Artipelag, oferind o fuziune spectaculoasă a culturii contemporane de ultimă oră și a naturii nordice profunde.",
+        "en": "Your drive begins at the tranquil Velamsundsbadet, breathing in the pristine archipelago air. As midday approaches, navigate through the northern historical quarters, witnessing the town's meticulously preserved brick and wood structures. The afternoon takes a regal turn as you cruise past classic estates like Lilla Kårnäs gård. Evening descends at Artipelag, providing a spectacular fusion of cutting-edge contemporary culture and deep Nordic nature."
+      }
+    }
+  }
+}

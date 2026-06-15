@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-medina-del-campo-cities-v2",
+  "anchor": {
+    "name": "Medina del Campo",
+    "coords": [
+      -4.915187,
+      41.307578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Isabella die Katholische",
+            "hu": "Kasztíliai Izabella",
+            "ro": "Isabela Catolica",
+            "en": "Isabella the Catholic"
+          },
+          "coords": [
+            -4.914916,
+            41.308729
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses markante Bronzemonument der mächtigen Königin Isabella und achten Sie auf die feinen Details ihrer Krone, bevor Sie den Platz erkunden.",
+            "hu": "Csodálja meg ezt a hatalmas Izabella királynőnek emléket állító lenyűgöző bronz emlékművet, és figyelje meg a koronája finom részleteit a tér felfedezése előtt.",
+            "ro": "Admirați acest monument impresionant de bronz care o comemorează pe puternica regină Isabela și observați detaliile fine ale coroanei sale înainte de a explora piața.",
+            "en": "Admire this striking bronze monument commemorating the powerful Queen Isabella, and take a moment to notice the fine details of her crown before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Testamentario",
+            "hu": "Palacio Testamentario",
+            "ro": "Palacio Testamentario",
+            "en": "Palacio Testamentario"
+          },
+          "coords": [
+            -4.916227,
+            41.308092
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie die Räume, in denen Isabella ihr letztes Testament verfasste, und holen Sie sich am Eingang einen Audioguide, um die Bedeutung dieser Residenz zu erfassen.",
+            "hu": "Lépjen be azokba a szobákba, ahol Izabella megírta híres végrendeletét, és kérjen egy audioguide-ot a bejáratnál, hogy teljesen megértse e királyi rezidencia jelentőségét.",
+            "ro": "Pășiți în camerele unde Isabela și-a redactat celebrul testament și luați un ghid audio de la intrare pentru a înțelege pe deplin importanța acestei reședințe regale.",
+            "en": "Step inside the very rooms where Isabella drafted her famous last will, and grab an audio guide at the entrance to fully grasp the significance of this royal residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle San Juan de la Cruz",
+            "hu": "Keresztes Szent János kápolna",
+            "ro": "Capela San Juan de la Cruz",
+            "en": "Capilla de San Juan de la Cruz"
+          },
+          "coords": [
+            -4.91725,
+            41.308724
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die Stille dieser historischen Kapelle, die dem mystischen Dichter gewidmet ist, und suchen Sie nach dem wunderschön erhaltenen hölzernen Altarbild in der Ecke.",
+            "hu": "Tapasztalja meg a misztikus költőnek szentelt kápolna csendjét, és keresse meg a sarokban elrejtett, gyönyörűen megőrzött fából készült oltárképet.",
+            "ro": "Experimentați tăcerea senină a acestei capele istorice dedicate poetului mistic și căutați retablul din lemn frumos conservat, ascuns într-un colț liniștit.",
+            "en": "Experience the serene silence of this historic chapel dedicated to the mystic poet, and look for the beautifully preserved wooden altarpiece hidden in the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Fleischereien (Reales Carnicerías)",
+            "hu": "Királyi Húspiac (Reales Carnicerías)",
+            "ro": "Măcelăriile Regale (Reales Carnicerías)",
+            "en": "Reales Carnicerías"
+          },
+          "coords": [
+            -4.913495,
+            41.310306
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den ältesten erhaltenen Fleischmarkt Spaniens, der noch in Betrieb ist, und kaufen Sie unbedingt einige lokale Wurstwaren direkt bei den Händlern.",
+            "hu": "Sétáljon végig Spanyolország legrégebbi máig működő húspiacán, és mindenképpen vásároljon helyi érlelt húsokat vagy sajtot közvetlenül az árusoktól.",
+            "ro": "Plimbați-vă prin cea mai veche piață de carne din Spania, încă funcțională, și asigurați-vă că cumpărați mezeluri locale sau brânză direct de la vânzători.",
+            "en": "Wander through the oldest preserved meat market in Spain, which still operates today, and be sure to buy some local cured meats or cheese directly from the vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "San Miguel templom",
+            "ro": "Biserica San Miguel",
+            "en": "Iglesia de San Miguel"
+          },
+          "coords": [
+            -4.91364,
+            41.311538
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser robusten Kirche und achten Sie beim Näherkommen auf den markanten Übergang von der Gotik zur Renaissance.",
+            "hu": "Csodálja meg e masszív templom lenyűgöző építészetét, és közeledve vegye észre a gótikus stílusból a reneszánszba való feltűnő átmenetet a főhomlokzaton.",
+            "ro": "Minunați-vă de arhitectura impresionantă a acestei biserici robuste, remarcând tranziția uimitoare de la stilul gotic la cel renascentist pe fațada sa principală.",
+            "en": "Marvel at the impressive architecture of this robust church, noting the striking transition from Gothic to Renaissance styles on its main facade as you approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg La Mota",
+            "hu": "La Mota kastély",
+            "ro": "Castelul La Mota",
+            "en": "Castle of La Mota"
+          },
+          "coords": [
+            -4.908542,
+            41.309007
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massive Festung mit ihrem tiefen Burggraben, aber buchen Sie die Führung durch den Turm unbedingt im Voraus, um den besten Blick auf die Stadt zu genießen.",
+            "hu": "Fedezze fel a masszív vöröstéglás erődöt mély várárkával, de a legjobb városi panoráma érdekében mindenképpen foglaljon előre vezetett toronytúrát.",
+            "ro": "Explorați fortăreața masivă din cărămidă roșie cu șanțul ei adânc, dar asigurați-vă că rezervați din timp turul ghidat al turnului pentru cele mai bune priveliști ale orașului.",
+            "en": "Explore the massive red-brick fortress with its deep moat and underground galleries, but make sure to book the guided tower tour in advance for the best city views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der berühmten Statue von Isabella der Katholischen und stimmt königlich auf den Spaziergang ein. Mittags locken der Palacio Testamentario und die friedliche Kapelle San Juan. Nachmittags spazieren Sie zum historischen Fleischmarkt Reales Carnicerías und zur Kirche San Miguel. Abends krönt die majestätische Burg La Mota den Tag, während die Sonne untergeht.",
+        "hu": "A reggel Kasztíliai Izabella ikonikus szobránál kezdődik, királyi hangulatot adva a sétának. A dél a Palacio Testamentario és a békés San Juan kápolna felfedezésével telik. Délután a Reales Carnicerías történelmi húspiaca és a San Miguel templom várja. Az este a lenyűgöző La Mota kastélynál éri el csúcspontját, amikor a lemenő nap megvilágítja vörös téglafalait.",
+        "ro": "Dimineața începe la emblematica statuie a Isabelei Catolica, oferind un ton regal plimbării. La prânz, vizitați Palacio Testamentario și liniștita Capelă San Juan de la Cruz. După-amiaza aduce o plimbare spre piața istorică Reales Carnicerías și superba biserică San Miguel. Seara culminează la magnificul Castel La Mota, exact când soarele apune peste zidurile sale masive de cărămidă.",
+        "en": "Morning begins at the iconic statue of Isabella the Catholic, setting a royal tone for your walk. Midday invites you into the Palacio Testamentario and the peaceful Capilla de San Juan de la Cruz. Afternoon brings a stroll to the historic meat market of Reales Carnicerías and San Miguel. Evening culminates at the magnificent Castle of La Mota as the sun sets over its red brick walls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Santa María Magdalena",
+            "hu": "Santa María Magdalena Kolostor",
+            "ro": "Mănăstirea Santa María Magdalena",
+            "en": "Convento de Santa María Magdalena"
+          },
+          "coords": [
+            -4.91908,
+            41.310863
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Schönheit dieses Augustinerklosters und schauen Sie, ob die Nonnen am hölzernen Drehkreuz am Eingang ihre traditionellen, handgemachten Süßigkeiten verkaufen.",
+            "hu": "Fedezze fel ezen Ágoston-rendi kolostor nyugodt szépségét, és nézze meg, árulnak-e az apácák hagyományos, kézzel készített édességeket a bejárat melletti fatárcsánál.",
+            "ro": "Descoperiți frumusețea liniștită a acestei mănăstiri augustiniene și vedeți dacă călugărițele vând dulciuri tradiționale făcute manual la turnichetul de lemn de la intrare.",
+            "en": "Discover the tranquil beauty of this Augustinian convent, and see if the nuns are selling their traditional handmade sweets at the wooden turnstile near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa María la Real",
+            "hu": "Santa María la Real Kolostor",
+            "ro": "Mănăstirea Santa María la Real",
+            "en": "Convento de Santa María la Real"
+          },
+          "coords": [
+            -4.92317,
+            41.311321
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen, um das Äußere dieses wichtigen religiösen Zentrums zu bewundern, das eine entscheidende Rolle im spirituellen Leben des alten Königshofs spielte.",
+            "hu": "Parkolja le kerékpárját, hogy megcsodálja ennek a fontos vallási központnak a szigorú külsejét, amely döntő szerepet játszott az ősi királyi udvar szellemi életében.",
+            "ro": "Parcați bicicleta afară pentru a admira exteriorul auster al acestui important centru religios, care a jucat un rol crucial în viața spirituală a vechii curți regale.",
+            "en": "Park your bike outside to admire the austere exterior of this important religious center, which played a crucial role in the spiritual life of the ancient royal court."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Quintanilla",
+            "hu": "Palacio de los Quintanilla",
+            "ro": "Palacio de los Quintanilla",
+            "en": "Palacio de los Quintanilla"
+          },
+          "coords": [
+            -4.918924,
+            41.309227
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schauen Sie sich das in den Stein gehauene Wappen dieses Adelshauses genau an und bemerken Sie den eleganten Innenhof, der durch die Haupttore blitzt, wenn Sie vorbeifahren.",
+            "hu": "Nézze meg alaposan a nemesi kúria kövébe vésett címert, és áthaladva figyelje meg az elegáns belső udvart, amely a főkapukon keresztül is megmutatkozik.",
+            "ro": "Priviți cu atenție stema sculptată în piatra acestui conac nobil și observați curtea elegantă care se întrezărește prin porțile principale pe măsură ce treceți.",
+            "en": "Look closely at the coat of arms carved into the stone of this noble mansion, and notice the elegant courtyard peeking through the main gates as you pass by."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Testamentario",
+            "hu": "Palacio Testamentario",
+            "ro": "Palacio Testamentario",
+            "en": "Palacio Testamentario"
+          },
+          "coords": [
+            -4.916227,
+            41.308092
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Hauptplatz gut ab und betreten Sie die königlichen Gemächer der Königin Isabella, wobei Sie besonders auf die interaktive Karte achten sollten.",
+            "hu": "Zárja le biztonságosan a kerékpárját a főtéren, és lépjen be a királyi kamarákba, ahol Izabella királynő utolsó napjait élte, különös figyelmet fordítva az interaktív térképre.",
+            "ro": "Legați-vă bicicleta în siguranță în piața principală și pășiți în camerele regale unde regina Isabela și-a trăit ultimele zile, acordând o atenție deosebită hărții interactive.",
+            "en": "Lock your bike securely in the main square and step into the royal chambers where Queen Isabella lived her final days, paying special attention to the interactive map."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg La Mota",
+            "hu": "La Mota kastély",
+            "ro": "Castelul La Mota",
+            "en": "Castle of La Mota"
+          },
+          "coords": [
+            -4.908542,
+            41.309007
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad den letzten Anstieg hinauf, um diese spektakuläre Festung zu erreichen, und nutzen Sie die breiten Wege für eine tolle Fahrt um die massiven Mauern.",
+            "hu": "Tolja fel kerékpárját az utolsó enyhe emelkedőn, hogy elérje ezt a látványos erődöt, és használja a széles utakat egy kiváló körbetekeréshez a hatalmas falak mentén.",
+            "ro": "Împingeți bicicleta pe ultima pantă pentru a ajunge la această fortăreață spectaculoasă și folosiți potecile late pentru un tur complet în jurul zidurilor sale masive.",
+            "en": "Push your bike up the final gentle incline to reach this spectacular fortress, and use the wide perimeter paths for an excellent 360-degree cycle around the massive walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorrömische Ruinen",
+            "hu": "Római kor előtti romok",
+            "ro": "Ruinele preromane",
+            "en": "Ruinas prerromanas"
+          },
+          "coords": [
+            -4.909698,
+            41.309964
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Überreste der frühesten Siedlungen der Region und bringen Sie Wasser mit, da diese offene archäologische Stätte am Nachmittag kaum Schatten bietet.",
+            "hu": "Sétáljon végig a régió legkorábbi településeinek maradványain, és hozzon magával vizet, mivel ez a nyitott régészeti lelőhely délután kevés árnyékot kínál a nap ellen.",
+            "ro": "Plimbați-vă prin rămășițele primelor așezări din regiune, aducând o sticlă de apă, deoarece acest sit arheologic deschis oferă puțină umbră în timpul după-amiezii.",
+            "en": "Wander through the remnants of the earliest settlements in the region, bringing a water bottle since this open archaeological site has little shade during the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt an den Klöstern Santa María Magdalena und Santa María la Real. Mittags radeln Sie vorbei am Palacio de los Quintanilla zum königlichen Palacio Testamentario. Nachmittags führt die Tour hinauf zur hoch aufragenden Burg La Mota mit weitem Blick. Abends klingt der Tag in den vorrömischen Ruinen aus, wo Sie die alten Wurzeln der Stadt spüren können.",
+        "hu": "A reggeli kerékpározás a Santa María Magdalena és a Santa María la Real kolostoroknál indul. Délben a grandiózus Palacio de los Quintanilla és a királyi Palacio Testamentario felé veszi az irányt. Délután a magasba törő La Mota kastélyhoz teker, ahonnan csodás kilátás nyílik. Az este a római kor előtti romoknál ér véget, tökéletes alkalmat adva a város ősi gyökereinek elmélkedésére.",
+        "ro": "Dimineața pe bicicletă începe la Mănăstirea Santa María Magdalena și istorica Santa María la Real. La prânz, treceți pe lângă Palacio de los Quintanilla spre regalul Palacio Testamentario. După-amiaza pedalați până la impunătorul Castel La Mota pentru priveliști panoramice deosebite. Seara se încheie perfect printre ruinele preromane, reflectând la originile străvechi ale orașului.",
+        "en": "Morning rides kick off at the Convent of Santa María Magdalena and the historic Santa María la Real. Midday takes you past the grand Palacio de los Quintanilla to the regal Palacio Testamentario. Afternoon pedaling leads you up to the towering Castle of La Mota for sweeping views. Evening winds down perfectly among the preroman ruins, reflecting on the ancient roots of Medina del Campo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nekropole von La Golosa",
+            "hu": "La Golosa nekropolisz",
+            "ro": "Necropola La Golosa",
+            "en": "Necrópolis de La Golosa"
+          },
+          "coords": [
+            -4.920527,
+            41.290381
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt, indem Sie an dieser Begräbnisstätte alte Geschichte entdecken; tragen Sie feste Schuhe, da das Gelände um die Ausgrabungen uneben sein kann.",
+            "hu": "Kezdje autózását a helyi történelem felfedezésével ezen az izgalmas temetkezési helyen, és viseljen masszív cipőt, mivel az ásatások körüli terep meglehetősen egyenetlen.",
+            "ro": "Începeți-vă traseul descoperind istoria antică locală la acest sit funerar fascinant și purtați încălțăminte robustă, deoarece terenul din jurul excavațiilor poate fi accidentat.",
+            "en": "Start your drive by uncovering ancient local history at this fascinating burial site, and wear sturdy walking shoes as the terrain around the excavations can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Auditorium",
+            "hu": "Városi Auditórium",
+            "ro": "Auditoriul Municipal",
+            "en": "Auditorio Municipal"
+          },
+          "coords": [
+            -4.914661,
+            41.306242
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den modernen Kontrast dieses Kulturzentrums zur alten Architektur der Stadt und prüfen Sie die Anschlagtafel auf kostenlose lokale Veranstaltungen des Tages.",
+            "hu": "Értékelje e kulturális központ modern kontrasztját a város ősi építészetével szemben, és ellenőrizze a kinti hirdetőtáblán, nincsenek-e ingyenes helyi események aznap.",
+            "ro": "Apreciați contrastul modern al acestui centru cultural în raport cu arhitectura veche a orașului și verificați avizierul exterior pentru eventuale evenimente locale gratuite.",
+            "en": "Appreciate the modern contrast of this cultural hub against the city's ancient architecture, and check the notice board outside for any free local events happening that day."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg La Mota",
+            "hu": "La Mota kastély",
+            "ro": "Castelul La Mota",
+            "en": "Castle of La Mota"
+          },
+          "coords": [
+            -4.908542,
+            41.309007
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie bequem auf dem kostenlosen Parkplatz am Besucherzentrum und steigen Sie zu den Artilleriebatterien hinauf, um zu sehen, wie diese Festung die Krone verteidigte.",
+            "hu": "Parkoljon kényelmesen az ingyenes parkolóban a látogatóközpont közelében, és másszon fel a tüzérségi ütegekhez, hogy lássa, hogyan védte e hatalmas téglaerőd a koronát.",
+            "ro": "Parcați convenabil în parcarea gratuită de lângă centrul de vizitatori și urcați la bateriile de artilerie pentru a vedea cum această fortăreață de cărămidă a apărat coroana.",
+            "en": "Park conveniently in the free lot near the visitor center, and climb up to the artillery batteries to see how this colossal brick fortress defended the Castilian crown."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santo Tomás",
+            "hu": "Santo Tomás templom",
+            "ro": "Biserica Santo Tomás",
+            "en": "Iglesia de Santo Tomás"
+          },
+          "coords": [
+            -4.912964,
+            41.317228
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt nach Norden, um dieses weniger bekannte Juwel zu finden, und betrachten Sie das Mauerwerk am Turm, das den Mudéjar-Stil perfekt veranschaulicht.",
+            "hu": "Tegyen egy rövid autózást északra, hogy megtalálja ezt a rejtett gyöngyszemet, és figyelje meg a torony bonyolult téglamunkáját, amely tökéletesen példázza a mudéjar stílust.",
+            "ro": "Conduceți scurt spre nord pentru a găsi această bijuterie mai puțin cunoscută și observați lucrătura complexă din cărămidă de pe turnul său, ce exemplifică stilul Mudéjar.",
+            "en": "Take a short drive north to find this lesser-known gem, and spend a moment observing the intricate brickwork on its tower, which perfectly exemplifies the Mudéjar style."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Blanca",
+            "hu": "La Casa Blanca",
+            "ro": "La Casa Blanca",
+            "en": "La Casa Blanca"
+          },
+          "coords": [
+            -4.938019,
+            41.319106
+          ],
+          "category": "castle",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser wunderschön isolierten Renaissance-Villa in den offenen Feldern und fahren Sie langsam auf dem Feldweg, um Ihr Auto vor Steinen zu schützen.",
+            "hu": "Fejezze be túráját ezen a gyönyörűen elszigetelt, nyílt mezőkön álló reneszánsz villánál, lassan haladva a földúton, hogy megvédje autóját a felverődő kövektől.",
+            "ro": "Terminați-vă turul la această frumoasă vilă renascentistă izolată în mijlocul câmpurilor deschise, conducând încet pe drumul de acces pentru a vă proteja mașina de pietre.",
+            "en": "Finish your tour at this beautifully isolated Renaissance villa standing amidst open fields, driving slowly on the dirt access road to protect your car from loose stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt führt zur Nekropole von La Golosa, wo Sie alte Grabstätten entdecken. Mittags geht es in Richtung des Auditorio Municipal und dann zur monumentalen Burg La Mota. Nachmittags fahren Sie nach Norden, um die historische Kirche Santo Tomás zu besichtigen. Abends erkunden Sie das abgelegene Gelände von La Casa Blanca, einer atemberaubenden Renaissance-Villa.",
+        "hu": "A reggeli autózás a La Golosa lenyűgöző nekropoliszához visz, feltárva az ősi temetkezési helyeket. Délben az Auditorio Municipal környékét érinti, majd a monumentális La Mota kastélyhoz ér. Délután egy festői északi autózás során felfedezi a történelmi Santo Tomás templomot. Az estét a La Casa Blanca, egy lenyűgöző reneszánsz villa eldugott területének bebarangolásával töltheti.",
+        "ro": "Conducând dimineața ajungeți la fascinanta Necropolă La Golosa, descoperind situri funerare antice. La prânz vă îndreptați spre zona Auditorio Municipal înainte de a ajunge la monumentalul Castel La Mota. După-amiaza oferă un traseu pitoresc spre nord pentru a explora istorica Iglesia de Santo Tomás. Seara o petreceți explorând domeniul retras de la La Casa Blanca, o vilă renascentistă.",
+        "en": "Morning driving brings you to the fascinating Necropolis of La Golosa, uncovering ancient burial sites. Midday shifts towards the Auditorio Municipal area before arriving at the monumental Castle of La Mota. Afternoon offers a scenic drive north to explore the historic Iglesia de Santo Tomás. Evening is spent wandering the secluded grounds of La Casa Blanca, a stunning Renaissance villa."
+      }
+    }
+  }
+}

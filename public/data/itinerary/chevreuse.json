@@ -1,0 +1,474 @@
+{
+  "city_id": "chevreuse",
+  "anchor": {
+    "name": "Chevreuse",
+    "coords": [
+      2.0383,
+      48.7075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Bannières",
+            "hu": "Maison des Bannières",
+            "ro": "Maison des Bannières",
+            "en": "Maison des Bannières"
+          },
+          "coords": [
+            2.039785,
+            48.708723
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Hauses, das die reiche Vergangenheit von Chevreuse repräsentiert, und bringen Sie ein Weitwinkelobjektiv für das perfekte Fassadenfoto mit.",
+            "hu": "Csodálja meg e történelmi ház középkori építészetét, amely Chevreuse gazdag múltját képviseli, és hozzon magával széles látószögű lencsét a tökéletes homlokzati fotóhoz.",
+            "ro": "Admirați arhitectura medievală a acestei case istorice, care reprezintă trecutul bogat al orașului Chevreuse, și aduceți un obiectiv superangular pentru o fotografie perfectă.",
+            "en": "Admire the medieval architecture of this historic house, representing Chevreuse's rich past, and bring a wide-angle lens for the perfect facade shot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Martin-Kirche",
+            "hu": "Szent Márton templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.039748,
+            48.708281
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die wunderschönen Buntglasfenster dieser historischen Kirche und ruhen Sie sich einen Moment in den stillen Bänken aus.",
+            "hu": "Fedezze fel e történelmi templom békés atmoszféráját és gyönyörű ólomüveg ablakait, és pihenjen egy pillanatot a csendes padokban, mielőtt továbbindulna.",
+            "ro": "Descoperiți atmosfera senină și vitraliile frumoase ale acestei biserici istorice și luați-vă un moment de odihnă în băncile liniștite înainte de a continua.",
+            "en": "Discover the serene atmosphere and beautiful stained glass windows of this historic church, and take a moment to rest in the quiet pews before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Petits Ponts",
+            "hu": "Promenade des Petits Ponts",
+            "ro": "Promenade des Petits Ponts",
+            "en": "Promenade des Petits Ponts"
+          },
+          "coords": [
+            2.040316,
+            48.706056
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser malerischen Wasserstraße mit charmanten Brücken und alten Gerbereien und tragen Sie bequeme Schuhe für die Kopfsteinpflasterwege.",
+            "hu": "Sétáljon végig ezen a festői vízi úton, amelyet bájos hidak és régi cserzőműhelyek szegélyeznek, és feltétlenül viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul acestui curs de apă pitoresc mărginit de poduri fermecătoare și tăbăcării vechi, asigurându-vă că purtați încălțăminte confortabilă.",
+            "en": "Stroll along this picturesque waterway lined with charming bridges and ancient tanneries, making sure to wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Méridon",
+            "hu": "Méridon kastély",
+            "ro": "Castelul Méridon",
+            "en": "Château de Méridon"
+          },
+          "coords": [
+            2.033067,
+            48.692625
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Anlagen dieses Schlosses aus dem 19. Jahrhundert mitten im Wald und packen Sie einen leichten Snack ein, um ihn beim Betrachten der Architektur zu genießen.",
+            "hu": "Fedezze fel az erdőben megbúvó, 19. századi kastély fenséges területét, és csomagoljon egy kis rágcsálnivalót, amit az elegáns építészet megcsodálása közben elfogyaszthat.",
+            "ro": "Explorați terenurile măiestuoase ale acestui castel din secolul al XIX-lea ascuns în pădure și luați o gustare ușoară pentru a o savura în timp ce priviți arhitectura elegantă.",
+            "en": "Explore the majestic grounds of this 19th-century castle nestled in the forest, and pack a light snack to enjoy while gazing at the elegant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            2.018065,
+            48.687464
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Dorfkirche, um ihr bescheidenes, authentisches lokales Erbe zu würdigen, und prüfen Sie das schwarze Brett auf anstehende Veranstaltungen.",
+            "hu": "Látogassa meg ezt a bájos falusi templomot, hogy megcsodálja szerény, hiteles helyi örökségét, és ellenőrizze a kinti hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Vizitați această biserică fermecătoare de sat pentru a aprecia moștenirea sa locală modestă și autentică și verificați avizierul de afară pentru evenimentele viitoare.",
+            "en": "Visit this charming village church to appreciate its modest, authentic local heritage, and check the notice board outside for upcoming community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Chevreuse beginnt im historischen Zentrum, wo mittelalterliche Fassaden und charmante Kirchen auf Sie warten. Tauchen Sie in die reiche Geschichte ein. Der Mittag lädt zu einem herrlichen Spaziergang entlang der romantischen kleinen Brücken über die Yvette ein. Am Nachmittag schlendern Sie in Richtung Stadtrand zu einem majestätischen Schloss am Waldrand. Der Abend endet mit einem ruhigen Moment in einer malerischen Dorfkirche und rundet Ihre Reise ab.",
+        "hu": "A reggel Chevreuse történelmi központjában indul, ahol középkori homlokzatok és bájos templomok várják. Könnyedén elmerülhet a gazdag helyi történelemben. A dél meginvitálja egy kellemes sétára az Yvette folyó romantikus kis hídjai mentén. A délután folyamán a külváros felé haladva egy lenyűgöző, erdővel övezett kastélyt fedezhet fel. Az este egy csendes falu templomában zárul, amely tökéletesen keretbe foglalja a gyalogos túrát.",
+        "ro": "Dimineața în Chevreuse începe în centrul istoric, unde fațadele medievale și bisericile fermecătoare vă întâmpină. Vă veți cufunda ușor în istoria locală. Miezul zilei vă invită la o plimbare încântătoare de-a lungul micilor poduri romantice peste râul Yvette. După-amiaza se îndreaptă spre periferie, îndreptându-vă spre un castel magnific înconjurat de pădure. Seara se încheie cu un moment de reflecție la o biserică pitorească de sat, completând călătoria.",
+        "en": "Morning in Chevreuse starts in the historic center, where medieval facades and charming churches greet you. You will easily immerse yourself in the rich local history. Midday invites you for a delightful stroll along the romantic little bridges over the Yvette river. The afternoon shifts toward the outskirts as you wander toward a magnificent forest-bound castle. Evening concludes with a final moment of reflection at a quaint village church, rounding out your walking journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Bannières",
+            "hu": "Maison des Bannières",
+            "ro": "Maison des Bannières",
+            "en": "Maison des Bannières"
+          },
+          "coords": [
+            2.039785,
+            48.708723
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Hauses, das die reiche Vergangenheit von Chevreuse repräsentiert, und bringen Sie ein Weitwinkelobjektiv für das perfekte Fassadenfoto mit.",
+            "hu": "Csodálja meg e történelmi ház középkori építészetét, amely Chevreuse gazdag múltját képviseli, és hozzon magával széles látószögű lencsét a tökéletes homlokzati fotóhoz.",
+            "ro": "Admirați arhitectura medievală a acestei case istorice, care reprezintă trecutul bogat al orașului Chevreuse, și aduceți un obiectiv superangular pentru o fotografie perfectă.",
+            "en": "Admire the medieval architecture of this historic house, representing Chevreuse's rich past, and bring a wide-angle lens for the perfect facade shot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Martin-Kirche",
+            "hu": "Szent Márton templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.039748,
+            48.708281
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die wunderschönen Buntglasfenster dieser historischen Kirche und ruhen Sie sich einen Moment in den stillen Bänken aus.",
+            "hu": "Fedezze fel e történelmi templom békés atmoszféráját és gyönyörű ólomüveg ablakait, és pihenjen egy pillanatot a csendes padokban, mielőtt továbbindulna.",
+            "ro": "Descoperiți atmosfera senină și vitraliile frumoase ale acestei biserici istorice și luați-vă un moment de odihnă în băncile liniștite înainte de a continua.",
+            "en": "Discover the serene atmosphere and beautiful stained glass windows of this historic church, and take a moment to rest in the quiet pews before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Petits Ponts",
+            "hu": "Promenade des Petits Ponts",
+            "ro": "Promenade des Petits Ponts",
+            "en": "Promenade des Petits Ponts"
+          },
+          "coords": [
+            2.040316,
+            48.706056
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser malerischen Wasserstraße mit charmanten Brücken und alten Gerbereien und tragen Sie bequeme Schuhe für die Kopfsteinpflasterwege.",
+            "hu": "Sétáljon végig ezen a festői vízi úton, amelyet bájos hidak és régi cserzőműhelyek szegélyeznek, és feltétlenül viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul acestui curs de apă pitoresc mărginit de poduri fermecătoare și tăbăcării vechi, asigurându-vă că purtați încălțăminte confortabilă.",
+            "en": "Stroll along this picturesque waterway lined with charming bridges and ancient tanneries, making sure to wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Méridon",
+            "hu": "Méridon kastély",
+            "ro": "Castelul Méridon",
+            "en": "Château de Méridon"
+          },
+          "coords": [
+            2.033067,
+            48.692625
+          ],
+          "category": "castle",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Anlagen dieses Schlosses aus dem 19. Jahrhundert mitten im Wald und packen Sie einen leichten Snack ein, um ihn beim Betrachten der Architektur zu genießen.",
+            "hu": "Fedezze fel az erdőben megbúvó, 19. századi kastély fenséges területét, és csomagoljon egy kis rágcsálnivalót, amit az elegáns építészet megcsodálása közben elfogyaszthat.",
+            "ro": "Explorați terenurile măiestuoase ale acestui castel din secolul al XIX-lea ascuns în pădure și luați o gustare ușoară pentru a o savura în timp ce priviți arhitectura elegantă.",
+            "en": "Explore the majestic grounds of this 19th-century castle nestled in the forest, and pack a light snack to enjoy while gazing at the elegant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-l'Évangéliste",
+            "hu": "János evangélista templom",
+            "ro": "Biserica Saint-Jean-l'Évangéliste",
+            "en": "Église Saint-Jean-l'Évangéliste"
+          },
+          "coords": [
+            2.049474,
+            48.682656
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses friedliche Heiligtum, um seine gut erhaltenen Artefakte zu betrachten, und denken Sie daran, Ihre Stimme zu senken, um die Ruhe zu respektieren.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, hogy megtekintse jól megőrzött leleteit, és ne felejtse el lehalkítani a hangját, hogy tiszteletben tartsa a nyugodt környezetet.",
+            "ro": "Pășiți în interiorul acestui sanctuar religios pașnic pentru a vedea artefactele sale bine conservate și amintiți-vă să păstrați liniștea pentru a respecta mediul.",
+            "en": "Step inside this peaceful religious sanctuary to view its well-preserved artifacts, and remember to keep your voice down to respect the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de l'Assomption",
+            "hu": "Nagyboldogasszony-kápolna",
+            "ro": "Capela Notre-Dame de l'Assomption",
+            "en": "Chapelle Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            2.050969,
+            48.727982
+          ],
+          "category": "religious",
+          "arrive_at": "15:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Fassade dieser ländlichen Kapelle, die einen Einblick in die lokale Frömmigkeit bietet, und versuchen Sie, morgens für das beste Licht zu kommen.",
+            "hu": "Csodálja meg e vidéki kápolna festői homlokzatát, amely bepillantást enged a helyi áhítatba, és próbáljon meg reggel érkezni a legjobb természetes megvilágítás érdekében.",
+            "ro": "Admirați fațada pitorească a acestei capele rurale care oferă o privire în devotamentul local și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire the quaint facade of this rural chapel which offers a glimpse into local devotion, and try to visit in the morning for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt mit der Erkundung der ältesten Gebäude und zentralen religiösen Wahrzeichen der Stadt. Bis zum Mittag gleiten Sie entlang malerischer Wasserwege und charmanter kleiner Brücken für eine entspannte Pause. Am Nachmittag radeln Sie weiter ins Tal, um majestätische Schlossanlagen zu entdecken. Der Abend rundet Ihr Fahrradabenteuer ab, während Sie an ländlichen Kapellen am friedlichen Stadtrand vorbeifahren.",
+        "hu": "A reggeli kerékpározás a város legrégebbi építményeinek és központi vallási nevezetességeinek felfedezésével indul. Délben suhanjon végig a festői vízi utakon és a bájos kis hidakon egy tökéletes pihenéshez. Délután kikerékpározhat a tágasabb völgybe, hogy felfedezze a fenséges kastélyparkokat. Az este lezárja a kerékpáros kalandot, ahogy elsuhan a békés külváros vidéki kápolnái mellett.",
+        "ro": "Plimbarea de dimineață începe prin explorarea celor mai vechi structuri și repere religioase centrale ale orașului. Până la prânz, alunecați de-a lungul căilor pitorești de apă și a podurilor fermecătoare pentru o pauză relaxantă perfectă. După-amiaza, veți pedala spre valea mai largă pentru a descoperi terenurile unui castel majestuos. Seara vă încheie aventura pe bicicletă în timp ce treceți pe lângă capele rurale de la periferia pașnică.",
+        "en": "Your morning ride kicks off by exploring the oldest structures and central religious landmarks of the town. Cycling allows you to absorb the history quickly. By midday, glide along the scenic waterway paths and charming little bridges for a perfect relaxing break. In the afternoon, you will pedal out into the wider valley to discover majestic castle grounds. Evening wraps up your cycling adventure as you breeze past rural chapels on the peaceful outskirts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 11.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Priorat Saint-Benoît",
+            "hu": "Szent Benedek perjel",
+            "ro": "Mănăstirea Saint-Benoît",
+            "en": "Prieuré Saint-Benoît"
+          },
+          "coords": [
+            2.017947,
+            48.727267
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Stille dieses historischen Priorats vor einer üppigen Kulisse und schlendern Sie durch die angrenzenden Gärten, um sich völlig zu entspannen.",
+            "hu": "Tapasztalja meg e történelmi perjel mélységes csendjét a buja háttér előtt, és barangoljon a szomszédos kertekben, hogy teljesen kikapcsolódjon.",
+            "ro": "Experimentați tăcerea profundă a acestei mănăstiri istorice cu un fundal luxuriant și plimbați-vă prin grădinile adiacente pentru a vă relaxa complet.",
+            "en": "Experience the profound silence of this historic priory set against a lush backdrop, and wander through the adjacent gardens to fully unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de l'Assomption",
+            "hu": "Nagyboldogasszony-kápolna",
+            "ro": "Capela Notre-Dame de l'Assomption",
+            "en": "Chapelle Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            2.050969,
+            48.727982
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Fassade dieser ländlichen Kapelle, die einen Einblick in die lokale Frömmigkeit bietet, und versuchen Sie, morgens für das beste Licht zu kommen.",
+            "hu": "Csodálja meg e vidéki kápolna festői homlokzatát, amely bepillantást enged a helyi áhítatba, és próbáljon meg reggel érkezni a legjobb természetes megvilágítás érdekében.",
+            "ro": "Admirați fațada pitorească a acestei capele rurale care oferă o privire în devotamentul local și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire the quaint facade of this rural chapel which offers a glimpse into local devotion, and try to visit in the morning for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Bannières",
+            "hu": "Maison des Bannières",
+            "ro": "Maison des Bannières",
+            "en": "Maison des Bannières"
+          },
+          "coords": [
+            2.039785,
+            48.708723
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Hauses, das die reiche Vergangenheit von Chevreuse repräsentiert, und bringen Sie ein Weitwinkelobjektiv für das perfekte Fassadenfoto mit.",
+            "hu": "Csodálja meg e történelmi ház középkori építészetét, amely Chevreuse gazdag múltját képviseli, és hozzon magával széles látószögű lencsét a tökéletes homlokzati fotóhoz.",
+            "ro": "Admirați arhitectura medievală a acestei case istorice, care reprezintă trecutul bogat al orașului Chevreuse, și aduceți un obiectiv superangular pentru o fotografie perfectă.",
+            "en": "Admire the medieval architecture of this historic house, representing Chevreuse's rich past, and bring a wide-angle lens for the perfect facade shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Petits Ponts",
+            "hu": "Promenade des Petits Ponts",
+            "ro": "Promenade des Petits Ponts",
+            "en": "Promenade des Petits Ponts"
+          },
+          "coords": [
+            2.040316,
+            48.706056
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser malerischen Wasserstraße mit charmanten Brücken und alten Gerbereien und tragen Sie bequeme Schuhe für die Kopfsteinpflasterwege.",
+            "hu": "Sétáljon végig ezen a festői vízi úton, amelyet bájos hidak és régi cserzőműhelyek szegélyeznek, és feltétlenül viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul acestui curs de apă pitoresc mărginit de poduri fermecătoare și tăbăcării vechi, asigurându-vă că purtați încălțăminte confortabilă.",
+            "en": "Stroll along this picturesque waterway lined with charming bridges and ancient tanneries, making sure to wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Méridon",
+            "hu": "Méridon kastély",
+            "ro": "Castelul Méridon",
+            "en": "Château de Méridon"
+          },
+          "coords": [
+            2.033067,
+            48.692625
+          ],
+          "category": "castle",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Anlagen dieses Schlosses aus dem 19. Jahrhundert mitten im Wald und packen Sie einen leichten Snack ein, um ihn beim Betrachten der Architektur zu genießen.",
+            "hu": "Fedezze fel az erdőben megbúvó, 19. századi kastély fenséges területét, és csomagoljon egy kis rágcsálnivalót, amit az elegáns építészet megcsodálása közben elfogyaszthat.",
+            "ro": "Explorați terenurile măiestuoase ale acestui castel din secolul al XIX-lea ascuns în pădure și luați o gustare ușoară pentru a o savura în timp ce priviți arhitectura elegantă.",
+            "en": "Explore the majestic grounds of this 19th-century castle nestled in the forest, and pack a light snack to enjoy while gazing at the elegant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-l'Évangéliste",
+            "hu": "János evangélista templom",
+            "ro": "Biserica Saint-Jean-l'Évangéliste",
+            "en": "Église Saint-Jean-l'Évangéliste"
+          },
+          "coords": [
+            2.049474,
+            48.682656
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses friedliche Heiligtum, um seine gut erhaltenen Artefakte zu betrachten, und denken Sie daran, Ihre Stimme zu senken, um die Ruhe zu respektieren.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, hogy megtekintse jól megőrzött leleteit, és ne felejtse el lehalkítani a hangját, hogy tiszteletben tartsa a nyugodt környezetet.",
+            "ro": "Pășiți în interiorul acestui sanctuar religios pașnic pentru a vedea artefactele sale bine conservate și amintiți-vă să păstrați liniștea pentru a respecta mediul.",
+            "en": "Step inside this peaceful religious sanctuary to view its well-preserved artifacts, and remember to keep your voice down to respect the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            2.018065,
+            48.687464
+          ],
+          "category": "religious",
+          "arrive_at": "15:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Dorfkirche, um ihr bescheidenes, authentisches lokales Erbe zu würdigen, und prüfen Sie das schwarze Brett auf anstehende Veranstaltungen.",
+            "hu": "Látogassa meg ezt a bájos falusi templomot, hogy megcsodálja szerény, hiteles helyi örökségét, és ellenőrizze a kinti hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Vizitați această biserică fermecătoare de sat pentru a aprecia moștenirea sa locală modestă și autentică și verificați avizierul de afară pentru evenimentele viitoare.",
+            "en": "Visit this charming village church to appreciate its modest, authentic local heritage, and check the notice board outside for upcoming community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an den ruhigen nördlichen Heiligtümern, bevor Sie in die Hauptstadt fahren. Am Mittag können Sie in der Nähe des historischen Kerns parken, um durch die alten Straßen und über die berühmten kleinen Brücken zu schlendern. Nach dem Mittagessen machen Sie eine kurze Fahrt in das Waldgebiet mit einem großen Schloss. Der Abend endet mit Besuchen der malerischen südlichen Kirchen, die einen ruhigen Abschluss bieten.",
+        "hu": "Kezdje autós túráját a csendes északi szentélyeknél, majd induljon a városközpont felé. A déli szakaszban parkoljon le a történelmi mag közelében, és sétáljon a régi utcákon és a híres kis hidakon. Ebéd után tegyen egy rövid utat az erdős területre, ahol egy hatalmas kastély található. Az este a különös déli templomok látogatásával zárul, amely békés befejezést kínál motoros utazásának.",
+        "ro": "Începeți turul cu mașina la sanctuarele liniștite din nord, înainte de a vă îndrepta spre orașul principal. Segmentul de la prânz vă permite să parcați lângă centrul istoric pentru a vă plimba pe străzile vechi și pe celebrele mici poduri. După prânz, faceți o scurtă călătorie spre zona împădurită frumoasă, care prezintă un castel măreț. Seara se încheie cu vizite la bisericile pitorești din sud, oferind un sfârșit liniștit călătoriei dvs. motorizate.",
+        "en": "Start your driving tour at the quiet northern sanctuaries, getting a peaceful start to the day before heading into the main town. The midday segment lets you park near the historic core to wander the old streets and the famous little bridges. After lunch, take a quick drive to the beautiful forested area featuring a grand castle and wide landscapes. Evening concludes with visits to the quaint southern churches, offering a serene end to your motorized journey."
+      }
+    }
+  }
+}

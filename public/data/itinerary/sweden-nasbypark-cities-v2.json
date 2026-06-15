@@ -1,0 +1,497 @@
+{
+  "city_id": "sweden-nasbypark-cities-v2",
+  "anchor": {
+    "name": "Näsbypark",
+    "coords": [
+      18.08851,
+      59.42936
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Näsbyparks kyrka",
+            "hu": "Näsbyparks kyrka",
+            "ro": "Näsbyparks kyrka",
+            "en": "Näsbyparks kyrka"
+          },
+          "coords": [
+            18.095723,
+            59.429996
+          ],
+          "category": "religious",
+          "arrive_at": "09:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser lebendigen Kirche und betrachten Sie die markanten Fenster, bevor Sie einen ruhigen Platz im Sitzbereich finden.",
+            "hu": "Csodálja meg ennek a vibráló helyi templomnak a modern építészetét, és figyelje meg a jellegzetes ablakokat, mielőtt csendes helyet talál a padokon.",
+            "ro": "Admirați arhitectura modernă a acestei biserici locale vibrante, observând ferestrele sale distinctive înainte de a găsi un loc liniștit în zona adiacentă.",
+            "en": "Admire the modern architecture of this vibrant local church, observing its distinctive windows before finding a quiet spot in the adjacent seating area."
+          }
+        },
+        {
+          "name": {
+            "de": "Samspel",
+            "hu": "Samspel",
+            "ro": "Samspel",
+            "en": "Samspel"
+          },
+          "coords": [
+            18.085487,
+            59.434032
+          ],
+          "category": "historical",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende historische Denkmal, das lokale Einheit symbolisiert, und machen Sie ein wunderschönes Foto aus dem südlichen Blickwinkel.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző történelmi emlékművet, amely a helyi egységet szimbolizálja, és készítsen egy gyönyörű fényképet a déli szemszögből.",
+            "ro": "Examinați acest monument istoric captivant care simbolizează unitatea locală, observând măiestria detaliată înainte de a face o fotografie din unghiul sudic.",
+            "en": "Examine this captivating historical monument that symbolizes local unity, noting its detailed craftsmanship before snapping a photo from the southern angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsby slott",
+            "hu": "Näsby slott",
+            "ro": "Näsby slott",
+            "en": "Näsby slott"
+          },
+          "coords": [
+            18.086628,
+            59.424168
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten Säle dieses wunderschön restaurierten Herrenhauses voller Geschichte und nehmen Sie sich Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Fedezze fel ennek a gyönyörűen felújított, gazdag történelemmel rendelkező kúriának az elegáns termeit, és szánjon időt egy pihentető sétára a kertekben.",
+            "ro": "Explorați sălile elegante ale acestui conac frumos restaurat, cu o istorie bogată, făcându-vă timp pentru o plimbare relaxantă prin grădinile impecabile.",
+            "en": "Explore the elegant halls of this beautifully restored manor house with its rich history, taking time to enjoy a relaxing walk through the pristine gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsaängsbadet",
+            "hu": "Näsaängsbadet",
+            "ro": "Näsaängsbadet",
+            "en": "Näsaängsbadet"
+          },
+          "coords": [
+            18.104889,
+            59.425933
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an diesem charmanten Küstenort mit Blick auf die Bucht ein und denken Sie an ein leichtes Handtuch für den Sandstrand.",
+            "hu": "Lélegezze be a friss tengeri levegőt ezen a bájos parti menedékhelyen, és ne felejtsen el egy könnyű törölközőt vinni, amire leülhet a homokos parton.",
+            "ro": "Respirați aerul proaspăt al mării în această fermecătoare retragere de coastă cu vedere la golf, amintindu-vă să împachetați un prosop ușor pentru plajă.",
+            "en": "Breathe in the fresh sea air at this charming coastal retreat overlooking the bay, remembering to pack a light towel to sit on the sandy shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Svalnäs gravfält",
+            "hu": "Svalnäs gravfält",
+            "ro": "Svalnäs gravfält",
+            "en": "Svalnäs gravfält"
+          },
+          "coords": [
+            18.087779,
+            59.414762
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem antiken Wikingergrab in einem ruhigen Wald und halten Sie Ausschau nach informativen Tafeln an den größeren Hügeln.",
+            "hu": "Lépjen vissza az időben ezen a nyugodt erdőben fészkelő ősi viking temetkezési helyen, és tartsa nyitva a szemét a nagyobb halmokat jelző táblákra.",
+            "ro": "Întoarceți-vă în timp la acest vechi cimitir viking cuibărit într-o pădure senină, căutând plăcile informative care marchează movilele mai mari.",
+            "en": "Step back in time at this ancient Viking burial ground nestled in a serene forest, keeping an eye out for informative plaques marking the larger mounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der lokalen architektonischen und historischen Höhepunkte in der klaren Küstenluft.\n\nGegen Mittag tauchen Sie in das reiche Erbe der Region ein und nehmen sich Zeit, die modernen und klassischen Bauwerke zu bewundern.\n\nVerbringen Sie den Nachmittag entspannt am ruhigen Wasser und schlendern Sie durch die eleganten Gärten und Küstenwege.\n\nBeenden Sie Ihren Tag mit einem Besuch antiker Gräber oder moderner Gemeindewunder und lassen Sie den sanften Sonnenuntergang Ihr Abenteuer abrunden.",
+        "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
+        "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
+        "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grindtorpskyrkan",
+            "hu": "Grindtorpskyrkan",
+            "ro": "Grindtorpskyrkan",
+            "en": "Grindtorpskyrkan"
+          },
+          "coords": [
+            18.072546,
+            59.441626
+          ],
+          "category": "religious",
+          "arrive_at": "09:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser einzigartig geschwungenen modernen Kirche und besuchen Sie sie tagsüber, um das natürliche Licht zu bewundern.",
+            "hu": "Tapasztalja meg ennek az egyedülállóan ívelt modern templomnak a békés hangulatát, érdemes nappal látogatni, hogy értékelni tudja a természetes megvilágítást.",
+            "ro": "Experimentați atmosfera pașnică a acestei biserici moderne cu structură curbată unică, vizitând-o în timpul zilei pentru a aprecia iluminatul natural.",
+            "en": "Experience the peaceful atmosphere of this uniquely curved modern church structure, making sure to visit during daytime to appreciate the natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Täby kommunhus",
+            "hu": "Täby kommunhus",
+            "ro": "Täby kommunhus",
+            "en": "Täby kommunhus"
+          },
+          "coords": [
+            18.067047,
+            59.443826
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das administrative Herz der Gemeinde in diesem markanten Gebäude und werfen Sie einen Blick in das Foyer, wo oft lokale Kunst gezeigt wird.",
+            "hu": "Fedezze fel az önkormányzat adminisztratív központját ebben a jellegzetes épületben, és nézze meg a közösségi előcsarnokot, ahol helyi művészeti kiállítások vannak.",
+            "ro": "Descoperiți inima administrativă a municipalității în această clădire emblematică, aruncând o privire în holul public care găzduiește adesea expoziții de artă.",
+            "en": "Discover the administrative heart of the municipality in this landmark building, checking out the public foyer which often features local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Samspel",
+            "hu": "Samspel",
+            "ro": "Samspel",
+            "en": "Samspel"
+          },
+          "coords": [
+            18.085487,
+            59.434032
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende historische Denkmal, das lokale Einheit symbolisiert, und machen Sie ein wunderschönes Foto aus dem südlichen Blickwinkel.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző történelmi emlékművet, amely a helyi egységet szimbolizálja, és készítsen egy gyönyörű fényképet a déli szemszögből.",
+            "ro": "Examinați acest monument istoric captivant care simbolizează unitatea locală, observând măiestria detaliată înainte de a face o fotografie din unghiul sudic.",
+            "en": "Examine this captivating historical monument that symbolizes local unity, noting its detailed craftsmanship before snapping a photo from the southern angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsby slott",
+            "hu": "Näsby slott",
+            "ro": "Näsby slott",
+            "en": "Näsby slott"
+          },
+          "coords": [
+            18.086628,
+            59.424168
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten Säle dieses wunderschön restaurierten Herrenhauses voller Geschichte und nehmen Sie sich Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Fedezze fel ennek a gyönyörűen felújított, gazdag történelemmel rendelkező kúriának az elegáns termeit, és szánjon időt egy pihentető sétára a kertekben.",
+            "ro": "Explorați sălile elegante ale acestui conac frumos restaurat, cu o istorie bogată, făcându-vă timp pentru o plimbare relaxantă prin grădinile impecabile.",
+            "en": "Explore the elegant halls of this beautifully restored manor house with its rich history, taking time to enjoy a relaxing walk through the pristine gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Svalnäs gravfält",
+            "hu": "Svalnäs gravfält",
+            "ro": "Svalnäs gravfält",
+            "en": "Svalnäs gravfält"
+          },
+          "coords": [
+            18.087779,
+            59.414762
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem antiken Wikingergrab in einem ruhigen Wald und halten Sie Ausschau nach informativen Tafeln an den größeren Hügeln.",
+            "hu": "Lépjen vissza az időben ezen a nyugodt erdőben fészkelő ősi viking temetkezési helyen, és tartsa nyitva a szemét a nagyobb halmokat jelző táblákra.",
+            "ro": "Întoarceți-vă în timp la acest vechi cimitir viking cuibărit într-o pădure senină, căutând plăcile informative care marchează movilele mai mari.",
+            "en": "Step back in time at this ancient Viking burial ground nestled in a serene forest, keeping an eye out for informative plaques marking the larger mounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Altorps kapell",
+            "hu": "Altorps kapell",
+            "ro": "Altorps kapell",
+            "en": "Altorps kapell"
+          },
+          "coords": [
+            18.077496,
+            59.407832
+          ],
+          "category": "religious",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser bescheidenen und spirituellen Waldkapelle und kommen Sie früh, um die umliegende unberührte Natur in völliger Stille zu genießen.",
+            "hu": "Találjon nyugalmat ebben a szerény, ám mélyen spirituális erdei kápolnában, és érkezzen korán, hogy teljes csendben élvezze az érintetlen természetet.",
+            "ro": "Găsiți liniște la această capelă de pădure modestă, dar profund spirituală, sosind devreme pentru a vă bucura de natura imaculată în tăcere completă.",
+            "en": "Find tranquility at this modest yet deeply spiritual woodland chapel, arriving early to enjoy the surrounding pristine nature in complete silence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der lokalen architektonischen und historischen Höhepunkte in der klaren Küstenluft.\n\nGegen Mittag tauchen Sie in das reiche Erbe der Region ein und nehmen sich Zeit, die modernen und klassischen Bauwerke zu bewundern.\n\nVerbringen Sie den Nachmittag entspannt am ruhigen Wasser und schlendern Sie durch die eleganten Gärten und Küstenwege.\n\nBeenden Sie Ihren Tag mit einem Besuch antiker Gräber oder moderner Gemeindewunder und lassen Sie den sanften Sonnenuntergang Ihr Abenteuer abrunden.",
+        "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
+        "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
+        "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:52",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tibble Teater",
+            "hu": "Tibble Teater",
+            "ro": "Tibble Teater",
+            "en": "Tibble Teater"
+          },
+          "coords": [
+            18.06619,
+            59.442624
+          ],
+          "category": "cultural",
+          "arrive_at": "09:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem lebhaften Theater und prüfen Sie vorab online den Spielplan, um sich rechtzeitig ein passendes Abendticket zu sichern.",
+            "hu": "Élvezze a kulturális előadásokat ebben a nyüzsgő helyi színházban, és érdemes online előre ellenőrizni a műsort az esti jegyek biztosítása érdekében.",
+            "ro": "Bucurați-vă de un spectacol cultural vibrant în acest teatru local aglomerat, verificând programul online pentru a vă asigura un bilet de seară.",
+            "en": "Enjoy a vibrant cultural performance or admire the architecture of this bustling local theater, checking the local schedule online to secure an evening ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Täby kommunhus",
+            "hu": "Täby kommunhus",
+            "ro": "Täby kommunhus",
+            "en": "Täby kommunhus"
+          },
+          "coords": [
+            18.067047,
+            59.443826
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das administrative Herz der Gemeinde in diesem markanten Gebäude und werfen Sie einen Blick in das Foyer, wo oft lokale Kunst gezeigt wird.",
+            "hu": "Fedezze fel az önkormányzat adminisztratív központját ebben a jellegzetes épületben, és nézze meg a közösségi előcsarnokot, ahol helyi művészeti kiállítások vannak.",
+            "ro": "Descoperiți inima administrativă a municipalității în această clădire emblematică, aruncând o privire în holul public care găzduiește adesea expoziții de artă.",
+            "en": "Discover the administrative heart of the municipality in this landmark building, checking out the public foyer which often features local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Grindtorpskyrkan",
+            "hu": "Grindtorpskyrkan",
+            "ro": "Grindtorpskyrkan",
+            "en": "Grindtorpskyrkan"
+          },
+          "coords": [
+            18.072546,
+            59.441626
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser einzigartig geschwungenen modernen Kirche und besuchen Sie sie tagsüber, um das natürliche Licht zu bewundern.",
+            "hu": "Tapasztalja meg ennek az egyedülállóan ívelt modern templomnak a békés hangulatát, érdemes nappal látogatni, hogy értékelni tudja a természetes megvilágítást.",
+            "ro": "Experimentați atmosfera pașnică a acestei biserici moderne cu structură curbată unică, vizitând-o în timpul zilei pentru a aprecia iluminatul natural.",
+            "en": "Experience the peaceful atmosphere of this uniquely curved modern church structure, making sure to visit during daytime to appreciate the natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Samspel",
+            "hu": "Samspel",
+            "ro": "Samspel",
+            "en": "Samspel"
+          },
+          "coords": [
+            18.085487,
+            59.434032
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende historische Denkmal, das lokale Einheit symbolisiert, und machen Sie ein wunderschönes Foto aus dem südlichen Blickwinkel.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző történelmi emlékművet, amely a helyi egységet szimbolizálja, és készítsen egy gyönyörű fényképet a déli szemszögből.",
+            "ro": "Examinați acest monument istoric captivant care simbolizează unitatea locală, observând măiestria detaliată înainte de a face o fotografie din unghiul sudic.",
+            "en": "Examine this captivating historical monument that symbolizes local unity, noting its detailed craftsmanship before snapping a photo from the southern angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsbyparks kyrka",
+            "hu": "Näsbyparks kyrka",
+            "ro": "Näsbyparks kyrka",
+            "en": "Näsbyparks kyrka"
+          },
+          "coords": [
+            18.095723,
+            59.429996
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser lebendigen Kirche und betrachten Sie die markanten Fenster, bevor Sie einen ruhigen Platz im Sitzbereich finden.",
+            "hu": "Csodálja meg ennek a vibráló helyi templomnak a modern építészetét, és figyelje meg a jellegzetes ablakokat, mielőtt csendes helyet talál a padokon.",
+            "ro": "Admirați arhitectura modernă a acestei biserici locale vibrante, observând ferestrele sale distinctive înainte de a găsi un loc liniștit în zona adiacentă.",
+            "en": "Admire the modern architecture of this vibrant local church, observing its distinctive windows before finding a quiet spot in the adjacent seating area."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsaängsbadet",
+            "hu": "Näsaängsbadet",
+            "ro": "Näsaängsbadet",
+            "en": "Näsaängsbadet"
+          },
+          "coords": [
+            18.104889,
+            59.425933
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an diesem charmanten Küstenort mit Blick auf die Bucht ein und denken Sie an ein leichtes Handtuch für den Sandstrand.",
+            "hu": "Lélegezze be a friss tengeri levegőt ezen a bájos parti menedékhelyen, és ne felejtsen el egy könnyű törölközőt vinni, amire leülhet a homokos parton.",
+            "ro": "Respirați aerul proaspăt al mării în această fermecătoare retragere de coastă cu vedere la golf, amintindu-vă să împachetați un prosop ușor pentru plajă.",
+            "en": "Breathe in the fresh sea air at this charming coastal retreat overlooking the bay, remembering to pack a light towel to sit on the sandy shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsby slott",
+            "hu": "Näsby slott",
+            "ro": "Näsby slott",
+            "en": "Näsby slott"
+          },
+          "coords": [
+            18.086628,
+            59.424168
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten Säle dieses wunderschön restaurierten Herrenhauses voller Geschichte und nehmen Sie sich Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Fedezze fel ennek a gyönyörűen felújított, gazdag történelemmel rendelkező kúriának az elegáns termeit, és szánjon időt egy pihentető sétára a kertekben.",
+            "ro": "Explorați sălile elegante ale acestui conac frumos restaurat, cu o istorie bogată, făcându-vă timp pentru o plimbare relaxantă prin grădinile impecabile.",
+            "en": "Explore the elegant halls of this beautifully restored manor house with its rich history, taking time to enjoy a relaxing walk through the pristine gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Svalnäs gravfält",
+            "hu": "Svalnäs gravfält",
+            "ro": "Svalnäs gravfält",
+            "en": "Svalnäs gravfält"
+          },
+          "coords": [
+            18.087779,
+            59.414762
+          ],
+          "category": "historical",
+          "arrive_at": "17:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem antiken Wikingergrab in einem ruhigen Wald und halten Sie Ausschau nach informativen Tafeln an den größeren Hügeln.",
+            "hu": "Lépjen vissza az időben ezen a nyugodt erdőben fészkelő ősi viking temetkezési helyen, és tartsa nyitva a szemét a nagyobb halmokat jelző táblákra.",
+            "ro": "Întoarceți-vă în timp la acest vechi cimitir viking cuibărit într-o pădure senină, căutând plăcile informative care marchează movilele mai mari.",
+            "en": "Step back in time at this ancient Viking burial ground nestled in a serene forest, keeping an eye out for informative plaques marking the larger mounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der lokalen architektonischen und historischen Höhepunkte in der klaren Küstenluft.\n\nGegen Mittag tauchen Sie in das reiche Erbe der Region ein und nehmen sich Zeit, die modernen und klassischen Bauwerke zu bewundern.\n\nVerbringen Sie den Nachmittag entspannt am ruhigen Wasser und schlendern Sie durch die eleganten Gärten und Küstenwege.\n\nBeenden Sie Ihren Tag mit einem Besuch antiker Gräber oder moderner Gemeindewunder und lassen Sie den sanften Sonnenuntergang Ihr Abenteuer abrunden.",
+        "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
+        "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
+        "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      }
+    }
+  }
+}

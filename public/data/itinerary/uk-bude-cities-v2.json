@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-bude-cities-v2",
+  "anchor": {
+    "name": "Bude",
+    "coords": [
+      -4.542,
+      50.824
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bude Canal",
+            "hu": "Bude Canal",
+            "ro": "Bude Canal",
+            "en": "Bude Canal"
+          },
+          "coords": [
+            -4.5479,
+            50.8275
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wasserweg aus dem 19. Jahrhundert, der das Meer mit Cornwall verbindet, und holen Sie sich einen Kaffee für den malerischen Leinpfad.",
+            "hu": "Fedezze fel a tengert a vidéki Cornwallal összekötő, 19. századi csatornát, és igyon egy kávét a közelben, mielőtt végigsétál a festői vontatóúton.",
+            "ro": "Explorați această cale navigabilă istorică din secolul al XIX-lea, și savurați o cafea la o cafenea din apropiere înainte de a vă plimba pe poteca pitorească.",
+            "en": "Explore this historic 19th-century waterway connecting the sea to rural Cornwall, and grab a coffee at a nearby cafe before walking the scenic towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Bude Light",
+            "hu": "Bude Light",
+            "ro": "Bude Light",
+            "en": "Bude Light"
+          },
+          "coords": [
+            -4.54763,
+            50.828547
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses moderne Denkmal, das die maritime Geschichte der Stadt ehrt, und machen Sie ein schnelles Foto der markanten kegelförmigen Struktur.",
+            "hu": "Csodálja meg a város tengerészeti történelmét ünneplő modern emlékművet, és készítsen egy gyors fotót az egyedi, kúp alakú építményről a reggeli égbolt előtt.",
+            "ro": "Admirați acest monument civic modern ce onorează istoria maritimă a orașului, și faceți o fotografie rapidă a structurii sale conice sub cerul dimineții.",
+            "en": "Admire this modern civic monument honoring the town's maritime history, and take a quick photo of its unique conical structure against the morning sky."
+          }
+        },
+        {
+          "name": {
+            "de": "The Castle Bude",
+            "hu": "The Castle Bude",
+            "ro": "The Castle Bude",
+            "en": "The Castle Bude"
+          },
+          "coords": [
+            -4.548681,
+            50.829059
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Budes faszinierendes Erbe in diesem auf Sand gebauten viktorianischen Haus und besuchen Sie die Galerie für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel Bude lenyűgöző helyi örökségét ebben a homokra épült viktoriánus házban, és feltétlenül tekintse meg a galériát a változó művészeti kiállításokért.",
+            "ro": "Descoperiți moștenirea locală fascinantă în această casă victoriană construită pe nisip, și nu ratați galeria de artă pentru expozițiile sale temporare.",
+            "en": "Discover Bude’s fascinating local heritage inside this Victorian home built on sand, and be sure to check the gallery space for rotating art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Summerleaze Beach",
+            "hu": "Summerleaze Beach",
+            "ro": "Summerleaze Beach",
+            "en": "Summerleaze Beach"
+          },
+          "coords": [
+            -4.552677,
+            50.830933
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten, goldenen Sandstrand, der ideal für Familien ist, und prüfen Sie die Gezeiten, um die nahen Felsenbecken zu erkunden.",
+            "hu": "Pihenjen ezen a családok számára is tökéletes, széles, aranyhomokos strandon, és ellenőrizze az árapályt, ha a közeli sziklamedencéket is szeretné felfedezni.",
+            "ro": "Relaxați-vă pe această plajă largă cu nisip auriu, perfectă pentru familii, și verificați fluxul dacă intenționați să explorați bazinele stâncoase.",
+            "en": "Relax on this wide, golden sandy beach perfect for families, and check the tide times carefully if you plan to explore the extensive rock pools nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bude Sea Pool",
+            "hu": "Bude Sea Pool",
+            "ro": "Bude Sea Pool",
+            "en": "Bude Sea Pool"
+          },
+          "coords": [
+            -4.55381,
+            50.8326
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie sicher in diesem teilweise natürlichen Gezeitenbecken aus den 1930er Jahren, aber bringen Sie einen Neoprenanzug mit, da das Wasser frisch ist.",
+            "hu": "Ússzon biztonságosan ebben az 1930-as évekbeli, sziklákba vájt részben természetes medencében, de hozzon neoprénruhát, mert a víz egész évben hűvös marad.",
+            "ro": "Înotați în siguranță în această piscină parțial naturală din anii 1930 printre stânci, dar aduceți un costum de neopren deoarece apa din Cornwall e rece.",
+            "en": "Swim safely in this iconic 1930s partially natural tidal pool set among the rocks, but bring a wetsuit as the Cornish water remains bracing year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Compass Point",
+            "hu": "Compass Point",
+            "ro": "Compass Point",
+            "en": "Compass Point"
+          },
+          "coords": [
+            -4.557872,
+            50.828574
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem historischen achteckigen Sturmturm und tragen Sie winddichte Kleidung für den Klippenweg.",
+            "hu": "Élvezze a zord partvonal lélegzetelállító panorámáját ebből a történelmi, nyolcszögletű vihartoronyból, és viseljen szélálló ruházatot a szeles sziklasétához.",
+            "ro": "Bucurați-vă de priveliști panoramice uimitoare ale coastei de la acest turn octogonal istoric, și purtați haine rezistente la vânt pentru plimbarea pe stânci.",
+            "en": "Enjoy breathtaking panoramic views of the rugged coastline from this historic octagonal storm tower, and wear windproof clothing for the breezy cliff walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang entlang des historischen Bude-Kanals, wo Sie die ruhige Atmosphäre genießen. Danach bewundern Sie das Bude Light und erkunden die lokalen Ausstellungen im The Castle Bude.\nAnschließend führt der Weg zum goldenen Sand des Summerleaze Beach. Hier können Sie sich entspannen, die Wellen beobachten und die erfrischende Meeresbrise an einem sonnigen Nachmittag in vollen Zügen genießen.\nNehmen Sie ein Bad oder bewundern Sie den genialen Bude Sea Pool, ein wahres Wunderwerk. Das Salzwasserbecken bietet ein einzigartiges, sicheres Schwimmerlebnis direkt am Rande des Atlantiks.\nBeenden Sie den Tag mit einem malerischen Spaziergang zum Compass Point. Der Panoramablick auf den Sonnenuntergang vom ikonischen Sturmturm macht diesen Abend an der kornischen Küste unvergesslich.",
+        "hu": "A reggel egy kellemes sétával indul a történelmi Bude-csatorna mentén, ahol magába szívhatja a vízpart békés hangulatát. Ezután megcsodálhatja a Bude Light emlékművet, majd felfedezheti a The Castle Bude kiállításait.\nKésőbb az útvonal a Summerleaze Beach aranyhomokos partjára vezet. Itt nyugodtan pihenhet, nézheti a hullámokat, és élvezheti a frissítő óceáni szellőt a kora délutáni napsütésben.\nEzt követően mártózzon meg vagy csak csodálja meg a zseniális Bude Sea Poolt. A tengerparti sziklákba vájt sós vizű medence egyedülálló, biztonságos fürdőzési élményt nyújt az Atlanti-óceán partján.\nZárja a napot egy sétával a Compass Point felé. Az ikonikus vihartoronyból nyíló panorámás naplemente felejthetetlen esti élményt nyújt a korni partok felett.",
+        "ro": "Dimineața începe cu o plimbare relaxantă de-a lungul canalului istoric Bude, bucurându-vă de atmosfera pașnică. Apoi veți admira monumentul Bude Light înainte de a explora expozițiile bogate de la The Castle Bude.\nMai târziu, itinerariul vă conduce către nisipurile aurii ale plajei Summerleaze. Aici vă puteți relaxa, urmări valurile și vă puteți bucura de briza revigorantă a oceanului într-o după-amiază însorită.\nApoi, faceți o baie sau pur și simplu admirați ingenioasa Bude Sea Pool, o minune a ingineriei de coastă. Piscina cu apă sărată oferă o experiență unică și sigură chiar la marginea Atlanticului.\nÎncheiați ziua cu o plimbare pitorească până la Compass Point. Priveliștile panoramice la apus de la iconicul turn de furtună oferă o seară cu adevărat de neuitat pe coasta din Cornwall.",
+        "en": "Morning begins with a gentle stroll along the historic Bude Canal, soaking in the serene waterfront atmosphere. You'll then admire the distinct Bude Light monument before heading to The Castle Bude to explore its rich local exhibitions.\nAfterwards, the itinerary leads you down to the golden expanse of Summerleaze Beach. Here, you can relax, watch the waves, and enjoy the refreshing ocean breeze on a sunny afternoon.\nNext, take a dip or simply admire the ingenious Bude Sea Pool, a true marvel of coastal engineering. The saltwater pool provides a unique, safe swimming experience right at the edge of the Atlantic.\nConclude your day with a scenic walk up to Compass Point. The panoramic sunset views from the iconic storm tower make for a truly unforgettable evening looking out over the Cornish coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bude Marshes",
+            "hu": "Bude Marshes",
+            "ro": "Bude Marshes",
+            "en": "Bude Marshes"
+          },
+          "coords": [
+            -4.545812,
+            50.823355
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses ruhige Naturschutzgebiet, um verschiedene Vogelarten zu beobachten, und bringen Sie ein Fernglas für die beste Aussicht mit.",
+            "hu": "Sétáljon végig ezen a csendes helyi természetvédelmi területen különféle madárfajokat megfigyelve, és hozzon magával távcsövet a legjobb élmény érdekében.",
+            "ro": "Plimbați-vă prin această rezervație naturală liniștită pentru a vedea diverse specii de păsări, și aduceți un binoclu pentru o experiență de neuitat.",
+            "en": "Stroll through this tranquil local nature reserve to spot diverse bird species, and bring a pair of binoculars for the best wildlife viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bude Canal",
+            "hu": "Bude Canal",
+            "ro": "Bude Canal",
+            "en": "Bude Canal"
+          },
+          "coords": [
+            -4.5479,
+            50.8275
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wasserweg aus dem 19. Jahrhundert, der das Meer mit Cornwall verbindet, und holen Sie sich einen Kaffee für den malerischen Leinpfad.",
+            "hu": "Fedezze fel a tengert a vidéki Cornwallal összekötő, 19. századi csatornát, és igyon egy kávét a közelben, mielőtt végigsétál a festői vontatóúton.",
+            "ro": "Explorați această cale navigabilă istorică din secolul al XIX-lea, și savurați o cafea la o cafenea din apropiere înainte de a vă plimba pe poteca pitorească.",
+            "en": "Explore this historic 19th-century waterway connecting the sea to rural Cornwall, and grab a coffee at a nearby cafe before walking the scenic towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "The Castle Bude",
+            "hu": "The Castle Bude",
+            "ro": "The Castle Bude",
+            "en": "The Castle Bude"
+          },
+          "coords": [
+            -4.548681,
+            50.829059
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Budes faszinierendes Erbe in diesem auf Sand gebauten viktorianischen Haus und besuchen Sie die Galerie für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel Bude lenyűgöző helyi örökségét ebben a homokra épült viktoriánus házban, és feltétlenül tekintse meg a galériát a változó művészeti kiállításokért.",
+            "ro": "Descoperiți moștenirea locală fascinantă în această casă victoriană construită pe nisip, și nu ratați galeria de artă pentru expozițiile sale temporare.",
+            "en": "Discover Bude’s fascinating local heritage inside this Victorian home built on sand, and be sure to check the gallery space for rotating art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bude Sea Pool",
+            "hu": "Bude Sea Pool",
+            "ro": "Bude Sea Pool",
+            "en": "Bude Sea Pool"
+          },
+          "coords": [
+            -4.55381,
+            50.8326
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie sicher in diesem teilweise natürlichen Gezeitenbecken aus den 1930er Jahren, aber bringen Sie einen Neoprenanzug mit, da das Wasser frisch ist.",
+            "hu": "Ússzon biztonságosan ebben az 1930-as évekbeli, sziklákba vájt részben természetes medencében, de hozzon neoprénruhát, mert a víz egész évben hűvös marad.",
+            "ro": "Înotați în siguranță în această piscină parțial naturală din anii 1930 printre stânci, dar aduceți un costum de neopren deoarece apa din Cornwall e rece.",
+            "en": "Swim safely in this iconic 1930s partially natural tidal pool set among the rocks, but bring a wetsuit as the Cornish water remains bracing year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Crooklets Beach",
+            "hu": "Crooklets Beach",
+            "ro": "Crooklets Beach",
+            "en": "Crooklets Beach"
+          },
+          "coords": [
+            -4.553989,
+            50.834539
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie Surfer, die die Wellen an diesem Strand bezwingen, und holen Sie sich danach einen herzhaften Snack im nahegelegenen Strandcafé zum Aufwärmen.",
+            "hu": "Nézze meg a tehetséges helyi szörfösöket ezen a népszerű strandon, majd melegedjen fel egy kiadós harapnivalóval a közeli, hangulatos tengerparti kávézóban.",
+            "ro": "Priviți surferii talentați înfruntând valurile la această plajă populară, și luați o gustare consistentă la cafeneaua din apropiere pentru a vă încălzi.",
+            "en": "Watch talented local surfers tackle the powerful waves at this popular beach, and grab a hearty snack at the nearby beachside cafe to warm up afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Northcott Mouth beach",
+            "hu": "Northcott Mouth beach",
+            "ro": "Northcott Mouth beach",
+            "en": "Northcott Mouth beach"
+          },
+          "coords": [
+            -4.555924,
+            50.848264
+          ],
+          "category": "recreational",
+          "arrive_at": "16:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser rauen Bucht mit dramatischen Klippen und suchen Sie nach Schiffswrackteilen, die nur bei extremer Ebbe sichtbar sind.",
+            "hu": "Meneküljön el a tömeg elől ezen a drámai sziklákkal övezett kavicsos és homokos öbölben, és keresse meg a csak erős apálykor látható hajóroncs-maradványokat.",
+            "ro": "Evadați de aglomerație la acest golf pitoresc înconjurat de stânci abrupte, și căutați epava vizibilă doar în timpul refluxurilor extrem de scăzute.",
+            "en": "Escape the crowds at this rugged pebble and sand cove backed by dramatic cliffs, and search for the shipwreck remnants visible only during extreme low tides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt in den friedlichen Bude Marshes mit tollen Tierbeobachtungen. Von dort radeln Sie entlang des flachen Leinpfades des historischen Bude-Kanals und genießen die maritime Atmosphäre.\nGegen Mittag parken Sie Ihr Fahrrad, um in die faszinierende Geschichte im The Castle Bude einzutauchen. Nach der Geschichte können Sie einen schnellen Snack mit Blick auf die wunderschöne Küste genießen.\nAm Nachmittag fahren Sie die Küste entlang, um den ikonischen Bude Sea Pool zu bewundern. Die Fahrt geht weiter zum Crooklets Beach, der bei Surfern für seine Wellen und lebhafte Stimmung berühmt ist.\nBeenden Sie Ihren aktiven Tag, indem Sie nach Norden zum rauen Northcott Mouth Beach radeln. Die dramatischen Klippen und Kieselstrände bieten eine spektakuläre Kulisse, um den Tag ausklingen zu lassen.",
+        "hu": "Kerékpáros kalandja a békés Bude-mocsaraknál kezdődik, amely kiváló lehetőséget nyújt a vadvilág megfigyelésére. Innen tekerjen a történelmi Bude-csatorna mentén, és élvezze a tengeri hangulatot.\nDél közeledtével parkolja le kerékpárját, és merüljön el a The Castle Bude lenyűgöző örökségében. Miután betelt a történelemmel, kapjon be egy gyors falatot a gyönyörű partra néző éttermek egyikében.\nDélután tekerjen a part mentén, és csodálja meg az ikonikus Bude Sea Poolt. Az út a Crooklets Beach felé folytatódik, amely híres a szörfösök körében kiváló hullámairól és élénk hangulatáról.\nZárja aktív napját úgy, hogy északra teker a zord Northcott Mouth strandhoz. A drámai sziklák és a kavicsos partok látványos és csendes hátteret biztosítanak egy csodálatos nap lezárásához.",
+        "ro": "Aventura pe bicicletă începe în liniștitele Bude Marshes, oferind oportunități excelente de observare a faunei. De acolo, pedalați pe traseul plat al canalului istoric Bude, absorbind atmosfera maritimă.\nPe la prânz, parcați bicicleta pentru a descoperi moștenirea fascinantă de la The Castle Bude. După porția de istorie, luați o gustare rapidă admirând coasta superbă din apropiere.\nDupă-amiaza, mergeți pe coastă pentru a admira iconica Bude Sea Pool. Călătoria continuă spre Crooklets Beach, faimoasă printre surferi pentru valurile sale excelente și atmosfera plină de viață.\nÎncheiați ziua activă pedalând spre nord către plaja stâncoasă Northcott Mouth. Stâncile dramatice și țărmurile cu pietriș oferă un decor spectaculos pentru a reflecta la o zi minunată.",
+        "en": "Your cycling adventure kicks off in the peaceful Bude Marshes, offering excellent wildlife spotting opportunities. From there, pedal along the flat towpath of the historic Bude Canal, soaking in the maritime ambiance.\nAs midday approaches, park your bike to delve into the fascinating heritage displays at The Castle Bude. Once you've had your fill of history, grab a quick bite overlooking the beautiful coast nearby.\nIn the afternoon, ride along the coastline to marvel at the iconic Bude Sea Pool. The journey continues to Crooklets Beach, famous among surfers for its excellent waves and lively seaside atmosphere.\nFinish your active day by cycling north to the rugged Northcott Mouth beach. The dramatic cliffs and pebble shores provide a spectacular and quiet backdrop to reflect on a wonderful day out."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 9.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Widemouth Bay",
+            "hu": "Widemouth Bay",
+            "ro": "Widemouth Bay",
+            "en": "Widemouth Bay"
+          },
+          "coords": [
+            -4.553704,
+            50.791939
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie zwei Meilen weiten Sand und faszinierende Felsformationen, ideal für erfahrene Surfer und Familien, die wunderschöne Sonnenuntergänge suchen.",
+            "hu": "Tapasztalja meg a végtelen homok és lenyűgöző sziklaalakzatok látványát, amely ideális a tapasztalt szörfösök és a gyönyörű naplementét kereső családok számára.",
+            "ro": "Experimentați plaja vastă cu nisip și formațiuni stâncoase fascinante, ideală pentru surferi experimentați și familii în căutarea unor apusuri superbe.",
+            "en": "Experience two miles of sweeping sand and fascinating rock formations, making it ideal for both seasoned surfers and families seeking beautiful sunsets."
+          }
+        },
+        {
+          "name": {
+            "de": "Compass Point",
+            "hu": "Compass Point",
+            "ro": "Compass Point",
+            "en": "Compass Point"
+          },
+          "coords": [
+            -4.557872,
+            50.828574
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem historischen achteckigen Sturmturm und tragen Sie winddichte Kleidung für den Klippenweg.",
+            "hu": "Élvezze a zord partvonal lélegzetelállító panorámáját ebből a történelmi, nyolcszögletű vihartoronyból, és viseljen szélálló ruházatot a szeles sziklasétához.",
+            "ro": "Bucurați-vă de priveliști panoramice uimitoare ale coastei de la acest turn octogonal istoric, și purtați haine rezistente la vânt pentru plimbarea pe stânci.",
+            "en": "Enjoy breathtaking panoramic views of the rugged coastline from this historic octagonal storm tower, and wear windproof clothing for the breezy cliff walk."
+          }
+        },
+        {
+          "name": {
+            "de": "The Castle Bude",
+            "hu": "The Castle Bude",
+            "ro": "The Castle Bude",
+            "en": "The Castle Bude"
+          },
+          "coords": [
+            -4.548681,
+            50.829059
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Budes faszinierendes Erbe in diesem auf Sand gebauten viktorianischen Haus und besuchen Sie die Galerie für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel Bude lenyűgöző helyi örökségét ebben a homokra épült viktoriánus házban, és feltétlenül tekintse meg a galériát a változó művészeti kiállításokért.",
+            "ro": "Descoperiți moștenirea locală fascinantă în această casă victoriană construită pe nisip, și nu ratați galeria de artă pentru expozițiile sale temporare.",
+            "en": "Discover Bude’s fascinating local heritage inside this Victorian home built on sand, and be sure to check the gallery space for rotating art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bude Canal",
+            "hu": "Bude Canal",
+            "ro": "Bude Canal",
+            "en": "Bude Canal"
+          },
+          "coords": [
+            -4.5479,
+            50.8275
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wasserweg aus dem 19. Jahrhundert, der das Meer mit Cornwall verbindet, und holen Sie sich einen Kaffee für den malerischen Leinpfad.",
+            "hu": "Fedezze fel a tengert a vidéki Cornwallal összekötő, 19. századi csatornát, és igyon egy kávét a közelben, mielőtt végigsétál a festői vontatóúton.",
+            "ro": "Explorați această cale navigabilă istorică din secolul al XIX-lea, și savurați o cafea la o cafenea din apropiere înainte de a vă plimba pe poteca pitorească.",
+            "en": "Explore this historic 19th-century waterway connecting the sea to rural Cornwall, and grab a coffee at a nearby cafe before walking the scenic towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandy Mouth Beach",
+            "hu": "Sandy Mouth Beach",
+            "ro": "Sandy Mouth Beach",
+            "en": "Sandy Mouth Beach"
+          },
+          "coords": [
+            -4.556822,
+            50.861431
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem spektakulären, unberührten National Trust-Strand mit Wasserfällen, aber achten Sie auf den steilen Zugangsweg hinunter zur Küste.",
+            "hu": "Túrázzon le ehhez a látványos és érintetlen, vízesésekkel díszített National Trust strandhoz, de ügyeljen a meredek lejárati útra, ami a partra vezet.",
+            "ro": "Coborâți spre această plajă spectaculoasă National Trust decorată cu cascade, dar fiți atenți la poteca abruptă de acces care duce spre malul mării.",
+            "en": "Hike down to this spectacular and pristine National Trust beach adorned with waterfalls, but be mindful of the steep access path leading to the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem Besuch der weitläufigen Widemouth Bay, wo lange Sandstrände auf Wellen treffen. Die Morgenluft und der atemberaubende Horizont sind der perfekte Start in den Tag.\nFahren Sie dann zum Compass Point, um den weiten Blick auf die raue Küste zu genießen. Parken Sie danach in der Stadt und besuchen Sie The Castle Bude, um die reiche Geschichte der Gegend zu entdecken.\nVerbringen Sie den frühen Nachmittag am historischen Bude-Kanal. Die Gegend ist voller charmanter Cafés und traditioneller Boote und bietet eine entspannte Umgebung für eine schöne Mittagspause.\nBeenden Sie den Tag mit einer kurzen Fahrt nach Norden zum Sandy Mouth Beach. Umrahmt von majestätischen Klippen und Wasserfällen ist dies ein spektakulärer Ort, um den Sonnenuntergang zu beobachten.",
+        "hu": "Kezdje autós túráját a hatalmas Widemouth Bay partján, ahol a hosszú homokos partszakasz találkozik a hullámokkal. A friss reggeli levegő és a horizont tökéletes kezdete a napnak.\nEzután vezessen a Compass Pointhoz, hogy megtapasztalja a partvidék lenyűgöző panorámáját. Ezután parkoljon le a városban, és irány a The Castle Bude, hogy felfedezze a környék gazdag történelmét.\nA kora délutánt töltse a történelmi Bude-csatorna környékének felfedezésével. A terület tele van hangulatos kávézókkal és hagyományos hajókkal, ami pihentető környezetet kínál a déli szünethez.\nZárja a napot egy rövid festői autózással északra a Sandy Mouth strandhoz. Fenséges sziklák és vízesések övezik, ami valóban látványos hely a tengerbe bukó naplemente megtekintéséhez.",
+        "ro": "Începeți turul cu mașina vizitând plaja vastă Widemouth Bay, unde nisipul se întâlnește cu valurile dramatice. Aerul dimineții și orizontul uimitor creează un început perfect pentru ziua dumneavoastră.\nApoi, conduceți până la Compass Point pentru a experimenta priveliști largi ale întregii coaste abrupte. După aceea, parcați în oraș și vizitați The Castle Bude pentru a descoperi istoria bogată a zonei.\nPetreceți prima parte a după-amiezii plimbându-vă pe lângă canalul istoric Bude. Zona este plină de cafenele fermecătoare și bărci tradiționale, oferind un mediu relaxant pentru pauza de prânz.\nÎncheiați ziua cu o scurtă călătorie pitorească spre nord până la Sandy Mouth Beach. Înconjurată de stânci maiestuoase și cascade, este un loc spectaculos pentru a privi apusul la orizont.",
+        "en": "Start your driving tour with a visit to the expansive Widemouth Bay, where long stretches of sand meet dramatic rolling waves. The morning air and breathtaking horizon create a perfect start to your day.\nNext, drive up to Compass Point to experience sweeping views of the entire rugged coastline. Afterwards, park in town and head into The Castle Bude to uncover the area's rich history and Victorian charm.\nSpend your early afternoon wandering nearby around the historic Bude Canal. The area is filled with charming cafes and traditional Cornish boats, offering a relaxed environment for a midday break.\nEnd the day with a short scenic drive north to Sandy Mouth Beach. Framed by majestic cliffs and cascading waterfalls, it's a truly spectacular spot to watch the sun dip below the ocean horizon."
+      }
+    }
+  }
+}

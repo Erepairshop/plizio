@@ -1,0 +1,497 @@
+{
+  "city_id": "france-kerroc-h-cities-v2",
+  "anchor": {
+    "name": "Kerroc'h",
+    "coords": [
+      -3.45561,
+      47.70284
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 4.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de Kerroc'h",
+            "hu": "Menhir de Kerroc'h",
+            "ro": "Menhir de Kerroc'h",
+            "en": "Menhir de Kerroc'h"
+          },
+          "coords": [
+            -3.459553,
+            47.705741
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen beeindruckenden Menhir, der von der antiken Besiedlung zeugt, und achten Sie auf die Moosmuster, die seine Oberfläche schmücken.",
+            "hu": "Csodálja meg ezt az ősi kőoszlopot, amely a régi idők tanúja, és figyelje meg a felületét borító egyedi, természetes mohamintákat a fotózáshoz.",
+            "ro": "Admirați acest menhir impresionant care mărturisește așezările antice și observați modelele de mușchi care îi decorează suprafața pentru o poză unică.",
+            "en": "Admire this impressive menhir that bears witness to ancient settlements, and look closely at the unique moss patterns decorating its weathered surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Ar Roc'h",
+            "hu": "Ar Roc'h",
+            "ro": "Ar Roc'h",
+            "en": "Ar Roc'h"
+          },
+          "coords": [
+            -3.455477,
+            47.710614
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Stätte mit ihren rauen Steinstrukturen und tragen Sie feste Schuhe, um sicher auf dem Gelände zu gehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi helyszínt, amelynek durva kőszerkezetei vannak, és viseljen stabil cipőt a terület biztonságos bejárásához.",
+            "ro": "Explorați acest sit istoric fascinant cu structurile sale brute din piatră și purtați încălțăminte robustă pentru a merge în siguranță pe terenul denivelat.",
+            "en": "Explore this fascinating historical site with its rugged stone structures, and be sure to wear sturdy shoes to safely walk across the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Caudric",
+            "hu": "Caudric",
+            "ro": "Caudric",
+            "en": "Caudric"
+          },
+          "coords": [
+            -3.44857,
+            47.704108
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgenen historischen Details von Caudric und nehmen Sie sich Zeit, die friedliche Atmosphäre abseits der Menschenmassen zu genießen.",
+            "hu": "Fedezze fel Caudric rejtett történelmi részleteit, és szánjon időt a békés, tömegtől távoli atmoszféra élvezetére egy csendes délutáni séta során.",
+            "ro": "Descoperiți detaliile istorice ascunse ale zonei Caudric și faceți-vă timp pentru a vă bucura de atmosfera liniștită și relaxantă, departe de aglomerație.",
+            "en": "Discover the hidden historical details of Caudric, taking your time to fully enjoy the peaceful and relaxing atmosphere away from the busy tourist spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pérello",
+            "hu": "Plage du Pérello",
+            "ro": "Plage du Pérello",
+            "en": "Plage du Pérello"
+          },
+          "coords": [
+            -3.444652,
+            47.699515
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand mit feinem Sand und klarem Wasser, vergessen Sie nicht, ein Handtuch für eine kurze Pause mitzubringen.",
+            "hu": "Pihenjen ezen a festői strandon, ahol finom homok és tiszta víz várja, és ne felejtsen el törölközőt hozni egy rövid, frissítő megálláshoz a parton.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip fin și apă limpede; nu uitați să aduceți un prosop pentru o scurtă pauză de revigorare pe malul mării.",
+            "en": "Relax on this picturesque beach featuring fine sand and clear water, and do not forget to bring a towel for a short, refreshing break along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Fort du Talut",
+            "hu": "Menhir du Fort du Talut",
+            "ro": "Menhir du Fort du Talut",
+            "en": "Menhir du Fort du Talut"
+          },
+          "coords": [
+            -3.450364,
+            47.696986
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Staunen Sie über diesen massiven Menhir in der Nähe der Küste, der einen schönen Kontrast zum blauen Ozean bietet, ideal für Panoramabilder bei Tageslicht.",
+            "hu": "Csodálja meg ezt a masszív, partközeli menhirt, amely gyönyörű kontrasztot alkot a kék óceánnal, és ideális helyszín csodálatos panorámafotók készítéséhez.",
+            "ro": "Minunați-vă de acest menhir masiv din apropierea coastei, care oferă un contrast superb cu oceanul albastru, ideal pentru fotografii panoramice spectaculoase.",
+            "en": "Marvel at this massive menhir located near the coast, providing a beautiful contrast with the blue ocean that is absolutely ideal for panoramic daylight photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de la Garde",
+            "hu": "Chapelle Notre-Dame de la Garde",
+            "ro": "Chapelle Notre-Dame de la Garde",
+            "en": "Chapelle Notre-Dame de la Garde"
+          },
+          "coords": [
+            -3.432189,
+            47.703222
+          ],
+          "category": "religious",
+          "arrive_at": "16:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kapelle, die den Seeleuten gewidmet ist, und genießen Sie die Stille im Inneren, während Sie die maritimen Details suchen.",
+            "hu": "Látogassa meg ezt a bájos, tengerészeknek szentelt kápolnát, élvezze a belső csendet, és figyelje meg a falakat díszítő apró tengerészeti részleteket.",
+            "ro": "Vizitați această capelă fermecătoare dedicată marinarilor și bucurați-vă de liniștea interioară, căutând micile detalii maritime care îi decorează pereții.",
+            "en": "Visit this charming chapel dedicated to local sailors, enjoying the quiet interior while looking closely for the delicate maritime details on its walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Kerroc'h mit einer Zeitreise am beeindruckenden Menhir de Kerroc'h. Die kühle Morgenbrise begleitet Sie dann zur historischen Stätte Ar Roc'h, wo alte Steine Geschichten erzählen.\n\nAm Mittag wandern Sie weiter nach Caudric, um in die tiefere Vergangenheit der Region einzutauchen. Die Wege sind hier ruhig und bieten die perfekte Kulisse für eine entspannte Pause.\n\nDer Nachmittag bringt Sie zur Plage du Pérello. Genießen Sie das Rauschen der Wellen, bevor Sie den Menhir du Fort du Talut erreichen, der majestätisch in Küstennähe thront.\n\nZum Abschluss dieses wunderbaren Tages besuchen Sie die Chapelle Notre-Dame de la Garde. In der sanften Abendsonne strahlt dieser Ort des Glaubens eine ganz besondere, friedliche Atmosphäre aus.",
+        "hu": "Kezdje a napot Kerroc'h-ban egy időutazással a lenyűgöző Menhir de Kerroc'h-nál. A hűvös reggeli szellő ezután az Ar Roc'h történelmi helyszínéhez kíséri, ahol az ősi kövek mesélnek.\n\nDélben sétáljon tovább Caudric felé, hogy elmerüljön a régió mélyebb múltjában. Az itteni ösvények csendesek és tökéletes hátteret biztosítanak egy pihentető, elmélyült sétához a természetben.\n\nA délután a Plage du Pérello partjára vezeti. Élvezze a hullámok zúgását, mielőtt elérné a part közelében fenségesen magasodó Menhir du Fort du Talut ősi kőoszlopát.\n\nE csodálatos nap lezárásaként látogasson el a Chapelle Notre-Dame de la Garde kápolnába. A lemenő nap lágy fényében ez a hitnek szentelt hely különleges, békés atmoszférát sugároz mindenki számára.",
+        "ro": "Începeți ziua în Kerroc'h cu o călătorie în timp la impresionantul Menhir de Kerroc'h. Briza răcoroasă a dimineții vă însoțește apoi spre situl istoric Ar Roc'h, unde pietrele vechi spun povești.\n\nLa prânz, mergeți spre Caudric pentru a vă scufunda în trecutul mai profund al regiunii. Potecile de aici sunt liniștite și oferă un cadru perfect pentru o plimbare relaxantă și contemplativă.\n\nDupă-amiaza vă poartă spre Plage du Pérello. Bucurați-vă de sunetul valurilor înainte de a ajunge la Menhir du Fort du Talut, care se înalță maiestuos în apropierea coastei stâncoase.\n\nPentru a încheia această zi minunată, vizitați Chapelle Notre-Dame de la Garde. În lumina blândă a soarelui de seară, acest lăcaș de cult emană o atmosferă cu totul specială și pașnică.",
+        "en": "Start your day in Kerroc'h with a journey back in time at the impressive Menhir de Kerroc'h. The cool morning breeze then accompanies you to the historical site of Ar Roc'h, where ancient stones tell stories.\n\nAt midday, walk further to Caudric to delve into the deeper past of the region. The paths here are quiet and provide the perfect backdrop for a relaxing, contemplative pause.\n\nThe afternoon takes you to Plage du Pérello. Enjoy the soothing sound of the waves before reaching the Menhir du Fort du Talut, which stands majestically just a short distance from the coastline.\n\nTo conclude this wonderful day, visit the charming Chapelle Notre-Dame de la Garde. In the soft evening sun, this place of faith radiates a very special, profoundly peaceful atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 6.44,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Léonard",
+            "hu": "Chapelle Saint-Léonard",
+            "ro": "Chapelle Saint-Léonard",
+            "en": "Chapelle Saint-Léonard"
+          },
+          "coords": [
+            -3.464195,
+            47.720993
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in dieser abgelegenen Kapelle und achten Sie auf die traditionelle bretonische Architektur, die das Gebäude prägt.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat ebben a félreeső kápolnában, és figyelje meg a hagyományos breton építészetet, amely olyan jellegzetessé teszi.",
+            "ro": "Experimentați liniștea spirituală în această capelă izolată și observați arhitectura tradițională bretonă care face ca această clădire să fie atât de unică.",
+            "en": "Experience the profound spiritual tranquility in this secluded chapel, and note the traditional Breton architecture that makes the simple building so unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Courégant",
+            "hu": "Menhir de Courégant",
+            "ro": "Menhir de Courégant",
+            "en": "Menhir de Courégant"
+          },
+          "coords": [
+            -3.469074,
+            47.714385
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten Megalithen, der stolz in der Landschaft steht, und berühren Sie die kalten Steine, um die Geschichte der Region zu spüren.",
+            "hu": "Vizsgálja meg ezt a tájban büszkén álló ősi megalitot, és érintse meg a hideg köveket, hogy érezze a régió gazdag és titokzatos történelmének jelenlétét.",
+            "ro": "Examinați acest megalit antic care stă mândru în peisaj și atingeți pietrele reci pentru a simți istoria bogată și misterioasă a acestei regiuni speciale.",
+            "en": "Examine this ancient megalith standing proudly in the landscape, touching the cold stones to truly feel the rich and mysterious history of this coastal region."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortin de Kerloës",
+            "hu": "Fortin de Kerloës",
+            "ro": "Fortin de Kerloës",
+            "en": "Fortin de Kerloës"
+          },
+          "coords": [
+            -3.446638,
+            47.712774
+          ],
+          "category": "fortress",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser kleinen Küstenfestung, die einst vor Piraten schützte, und genießen Sie den weiten Blick auf das offene Meer davor.",
+            "hu": "Fedezze fel ennek a kis part menti erődítménynek a romjait, amely egykor a kalózok ellen védett, és élvezze a nyílt tengerre nyíló széles, lenyűgöző kilátást.",
+            "ro": "Explorați rămășițele acestei mici fortărețe de coastă, care oferea protecție împotriva piraților, și bucurați-vă de priveliștea largă și liberă spre ocean.",
+            "en": "Explore the sturdy remains of this small coastal fortress once used for defense, and enjoy the wide, sweeping views out over the open Atlantic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kerroc'h",
+            "hu": "Menhir de Kerroc'h",
+            "ro": "Menhir de Kerroc'h",
+            "en": "Menhir de Kerroc'h"
+          },
+          "coords": [
+            -3.459553,
+            47.705741
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen beeindruckenden Menhir, der von der antiken Besiedlung zeugt, und achten Sie auf die Moosmuster, die seine Oberfläche schmücken.",
+            "hu": "Csodálja meg ezt az ősi kőoszlopot, amely a régi idők tanúja, és figyelje meg a felületét borító egyedi, természetes mohamintákat a fotózáshoz.",
+            "ro": "Admirați acest menhir impresionant care mărturisește așezările antice și observați modelele de mușchi care îi decorează suprafața pentru o poză unică.",
+            "en": "Admire this impressive menhir that bears witness to ancient settlements, and look closely at the unique moss patterns decorating its weathered surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Fort du Talut",
+            "hu": "Menhir du Fort du Talut",
+            "ro": "Menhir du Fort du Talut",
+            "en": "Menhir du Fort du Talut"
+          },
+          "coords": [
+            -3.450364,
+            47.696986
+          ],
+          "category": "historical",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Staunen Sie über diesen massiven Menhir in der Nähe der Küste, der einen schönen Kontrast zum blauen Ozean bietet, ideal für Panoramabilder bei Tageslicht.",
+            "hu": "Csodálja meg ezt a masszív, partközeli menhirt, amely gyönyörű kontrasztot alkot a kék óceánnal, és ideális helyszín csodálatos panorámafotók készítéséhez.",
+            "ro": "Minunați-vă de acest menhir masiv din apropierea coastei, care oferă un contrast superb cu oceanul albastru, ideal pentru fotografii panoramice spectaculoase.",
+            "en": "Marvel at this massive menhir located near the coast, providing a beautiful contrast with the blue ocean that is absolutely ideal for panoramic daylight photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de la Garde",
+            "hu": "Chapelle Notre-Dame de la Garde",
+            "ro": "Chapelle Notre-Dame de la Garde",
+            "en": "Chapelle Notre-Dame de la Garde"
+          },
+          "coords": [
+            -3.432189,
+            47.703222
+          ],
+          "category": "religious",
+          "arrive_at": "15:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kapelle, die den Seeleuten gewidmet ist, und genießen Sie die Stille im Inneren, während Sie die maritimen Details suchen.",
+            "hu": "Látogassa meg ezt a bájos, tengerészeknek szentelt kápolnát, élvezze a belső csendet, és figyelje meg a falakat díszítő apró tengerészeti részleteket.",
+            "ro": "Vizitați această capelă fermecătoare dedicată marinarilor și bucurați-vă de liniștea interioară, căutând micile detalii maritime care îi decorează pereții.",
+            "en": "Visit this charming chapel dedicated to local sailors, enjoying the quiet interior while looking closely for the delicate maritime details on its walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der friedlichen Chapelle Saint-Léonard im Norden. Die frische Luft macht Sie munter für die kurze Fahrt zum massiven Menhir de Courégant in der Nähe.\n\nZur Mittagszeit radeln Sie zum Fortin de Kerloës, wo Sie die Aussicht genießen und sich vorstellen können, wie Wächter einst das Meer beobachteten. Anschließend geht es zum Menhir de Kerroc'h.\n\nAm Nachmittag spüren Sie den Wind im Gesicht, während Sie zum Menhir du Fort du Talut fahren. Die Küstenwege sind ideal, um die raue bretonische Landschaft vom Sattel aus zu erleben.\n\nDer Abend führt Sie zur Chapelle Notre-Dame de la Garde. Lehnen Sie Ihr Fahrrad an, atmen Sie tief durch und lassen Sie die Erlebnisse des Tages in der ruhigen Dämmerung nachklingen.",
+        "hu": "Kerékpáros kalandja az északi, békés Chapelle Saint-Léonard kápolnánál kezdődik. A friss levegő felfrissíti a közeli, hatalmas Menhir de Courégant-hoz vezető rövid út során a reggeli órákban.\n\nDélben tekerjen el a Fortin de Kerloës-hoz, ahol élvezheti a kilátást, majd folytassa útját a Menhir de Kerroc'h felé, miközben a part menti táj varázslatos látványa kíséri utazását.\n\nDélután érezze a szelet az arcán, miközben a Menhir du Fort du Talut felé tart. A tengerparti ösvények ideálisak arra, hogy a nyeregből fedezze fel a nyers breton táj lenyűgöző szépségét.\n\nAz este a Chapelle Notre-Dame de la Garde kápolnához vezeti. Támassza le kerékpárját, vegyen egy mély lélegzetet, és hagyja, hogy a nap élményei a csendes szürkületben lecsengjenek.",
+        "ro": "Aventura pe bicicletă începe la liniștita Chapelle Saint-Léonard din nord. Aerul proaspăt vă înviorează pentru scurta plimbare spre masivul Menhir de Courégant din apropiere, în lumina dimineții.\n\nLa prânz, pedalați spre Fortin de Kerloës, unde vă puteți bucura de priveliște înainte de a continua spre Menhir de Kerroc'h, traversând peisaje costiere minunate și pline de istorie.\n\nDupă-amiaza, simțiți vântul în față în timp ce mergeți spre Menhir du Fort du Talut. Traseele de coastă sunt ideale pentru a experimenta peisajul breton aspru și frumos direct din șa.\n\nSeara vă duce la Chapelle Notre-Dame de la Garde. Sprijiniți-vă bicicleta, respirați adânc și lăsați experiențele acestei zile active să răsune în liniștea plăcută a amurgului.",
+        "en": "Your cycling adventure begins at the peaceful Chapelle Saint-Léonard in the north. The fresh air invigorates you for the short ride to the massive Menhir de Courégant nearby in the morning light.\n\nAt midday, pedal to the Fortin de Kerloës, where you can enjoy the sweeping views before continuing to the Menhir de Kerroc'h, passing through lovely coastal scenery along the way.\n\nIn the afternoon, feel the wind on your face as you ride towards the Menhir du Fort du Talut. The coastal trails are ideal for experiencing the rugged Breton landscape right from your saddle.\n\nThe evening leads you to the Chapelle Notre-Dame de la Garde. Lean your bike against a wall, take a deep breath, and let the active day's experiences linger in the quiet, calming twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tuchenn Pol",
+            "hu": "Tuchenn Pol",
+            "ro": "Tuchenn Pol",
+            "en": "Tuchenn Pol"
+          },
+          "coords": [
+            -3.478286,
+            47.718514
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diese bedeutende archäologische Stätte und lesen Sie die Informationstafeln, um mehr über die alten Bestattungsrituale zu erfahren.",
+            "hu": "Sétáljon körbe ezen a jelentős régészeti lelőhelyen, és olvassa el az információs táblákat, hogy többet tudjon meg az ősi temetkezési rituálékról itt.",
+            "ro": "Plimbați-vă prin acest important sit arheologic și citiți panourile informative pentru a înțelege mai bine vechile ritualuri funerare din zonă.",
+            "en": "Walk mindfully around this significant archaeological site, taking time to read the informative plaques to better understand ancient local burial rituals."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Courégant",
+            "hu": "Menhir de Courégant",
+            "ro": "Menhir de Courégant",
+            "en": "Menhir de Courégant"
+          },
+          "coords": [
+            -3.469074,
+            47.714385
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten Megalithen, der stolz in der Landschaft steht, und berühren Sie die kalten Steine, um die Geschichte der Region zu spüren.",
+            "hu": "Vizsgálja meg ezt a tájban büszkén álló ősi megalitot, és érintse meg a hideg köveket, hogy érezze a régió gazdag és titokzatos történelmének jelenlétét.",
+            "ro": "Examinați acest megalit antic care stă mândru în peisaj și atingeți pietrele reci pentru a simți istoria bogată și misterioasă a acestei regiuni speciale.",
+            "en": "Examine this ancient megalith standing proudly in the landscape, touching the cold stones to truly feel the rich and mysterious history of this coastal region."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Léonard",
+            "hu": "Chapelle Saint-Léonard",
+            "ro": "Chapelle Saint-Léonard",
+            "en": "Chapelle Saint-Léonard"
+          },
+          "coords": [
+            -3.464195,
+            47.720993
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in dieser abgelegenen Kapelle und achten Sie auf die traditionelle bretonische Architektur, die das Gebäude prägt.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat ebben a félreeső kápolnában, és figyelje meg a hagyományos breton építészetet, amely olyan jellegzetessé teszi.",
+            "ro": "Experimentați liniștea spirituală în această capelă izolată și observați arhitectura tradițională bretonă care face ca această clădire să fie atât de unică.",
+            "en": "Experience the profound spiritual tranquility in this secluded chapel, and note the traditional Breton architecture that makes the simple building so unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortin de Kerloës",
+            "hu": "Fortin de Kerloës",
+            "ro": "Fortin de Kerloës",
+            "en": "Fortin de Kerloës"
+          },
+          "coords": [
+            -3.446638,
+            47.712774
+          ],
+          "category": "fortress",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.59,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser kleinen Küstenfestung, die einst vor Piraten schützte, und genießen Sie den weiten Blick auf das offene Meer davor.",
+            "hu": "Fedezze fel ennek a kis part menti erődítménynek a romjait, amely egykor a kalózok ellen védett, és élvezze a nyílt tengerre nyíló széles, lenyűgöző kilátást.",
+            "ro": "Explorați rămășițele acestei mici fortărețe de coastă, care oferea protecție împotriva piraților, și bucurați-vă de priveliștea largă și liberă spre ocean.",
+            "en": "Explore the sturdy remains of this small coastal fortress once used for defense, and enjoy the wide, sweeping views out over the open Atlantic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Ar Roc'h",
+            "hu": "Ar Roc'h",
+            "ro": "Ar Roc'h",
+            "en": "Ar Roc'h"
+          },
+          "coords": [
+            -3.455477,
+            47.710614
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Stätte mit ihren rauen Steinstrukturen und tragen Sie feste Schuhe, um sicher auf dem Gelände zu gehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi helyszínt, amelynek durva kőszerkezetei vannak, és viseljen stabil cipőt a terület biztonságos bejárásához.",
+            "ro": "Explorați acest sit istoric fascinant cu structurile sale brute din piatră și purtați încălțăminte robustă pentru a merge în siguranță pe terenul denivelat.",
+            "en": "Explore this fascinating historical site with its rugged stone structures, and be sure to wear sturdy shoes to safely walk across the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pérello",
+            "hu": "Plage du Pérello",
+            "ro": "Plage du Pérello",
+            "en": "Plage du Pérello"
+          },
+          "coords": [
+            -3.444652,
+            47.699515
+          ],
+          "category": "recreational",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand mit feinem Sand und klarem Wasser, vergessen Sie nicht, ein Handtuch für eine kurze Pause mitzubringen.",
+            "hu": "Pihenjen ezen a festői strandon, ahol finom homok és tiszta víz várja, és ne felejtsen el törölközőt hozni egy rövid, frissítő megálláshoz a parton.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip fin și apă limpede; nu uitați să aduceți un prosop pentru o scurtă pauză de revigorare pe malul mării.",
+            "en": "Relax on this picturesque beach featuring fine sand and clear water, and do not forget to bring a towel for a short, refreshing break along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de la Garde",
+            "hu": "Chapelle Notre-Dame de la Garde",
+            "ro": "Chapelle Notre-Dame de la Garde",
+            "en": "Chapelle Notre-Dame de la Garde"
+          },
+          "coords": [
+            -3.432189,
+            47.703222
+          ],
+          "category": "religious",
+          "arrive_at": "16:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kapelle, die den Seeleuten gewidmet ist, und genießen Sie die Stille im Inneren, während Sie die maritimen Details suchen.",
+            "hu": "Látogassa meg ezt a bájos, tengerészeknek szentelt kápolnát, élvezze a belső csendet, és figyelje meg a falakat díszítő apró tengerészeti részleteket.",
+            "ro": "Vizitați această capelă fermecătoare dedicată marinarilor și bucurați-vă de liniștea interioară, căutând micile detalii maritime care îi decorează pereții.",
+            "en": "Visit this charming chapel dedicated to local sailors, enjoying the quiet interior while looking closely for the delicate maritime details on its walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit einer bequemen Fahrt zum antiken Tuchenn Pol, wo Sie die Geschichte auf sich wirken lassen. Danach fahren Sie weiter zum majestätischen Menhir de Courégant.\n\nGegen Mittag besuchen Sie die ruhige Chapelle Saint-Léonard und steuern dann das Fortin de Kerloës an. Mit dem Auto lassen sich diese unterschiedlichen historischen Orte flexibel und entspannt erkunden.\n\nAm Nachmittag führt die Route über Ar Roc'h zur Plage du Pérello. Parken Sie Ihr Auto in der Nähe und genießen Sie einen langen Spaziergang am Strand, um die salzige Meeresluft einzuatmen.\n\nDen perfekten Abschluss bildet die Chapelle Notre-Dame de la Garde. In der Abendstille können Sie hier noch einmal die maritimen Eindrücke der Region Kerroc'h auf sich wirken lassen.",
+        "hu": "A nap egy kényelmes utazással indul az ősi Tuchenn Pol felé, ahol a történelem magával ragadja. Ezt követően vezessen tovább a közeli, fenséges Menhir de Courégant lenyűgöző kőoszlopához.\n\nDélben látogassa meg a csendes Chapelle Saint-Léonard kápolnát, majd vegye az irányt a Fortin de Kerloës felé. Autóval rugalmasan és kényelmesen fedezheti fel ezeket a történelmi helyszíneket.\n\nDélután az útvonal az Ar Roc'h-on keresztül a Plage du Pérello strandhoz vezet. Parkolja le autóját, és tegyen egy hosszú sétát a parton, hogy mélyen belélegezze a sós tengeri levegőt.\n\nA tökéletes befejezést a Chapelle Notre-Dame de la Garde jelenti. Az esti csendben itt még egyszer, utoljára átadhatja magát Kerroc'h régió varázslatos, tengeri hangulatának és békéjének.",
+        "ro": "Ziua începe cu un drum confortabil spre anticul Tuchenn Pol, unde lăsați istoria să vă captiveze. Apoi, conduceți mai departe către maiestuosul Menhir de Courégant pentru a admira grandoarea sa.\n\nÎn jurul prânzului, vizitați liniștita Chapelle Saint-Léonard și îndreptați-vă spre Fortin de Kerloës. Cu mașina, aceste locuri istorice diverse pot fi explorate flexibil, într-un ritm foarte relaxat.\n\nDupă-amiaza, traseul trece prin Ar Roc'h spre Plage du Pérello. Parcați mașina în apropiere și bucurați-vă de o plimbare lungă pe plajă pentru a respira aerul sărat și proaspăt al mării.\n\nFinalul perfect este la Chapelle Notre-Dame de la Garde. În liniștea serii, puteți lăsa din nou impresiile maritime ale frumoasei regiuni Kerroc'h să vă învăluie într-o atmosferă de pace.",
+        "en": "The day starts with a comfortable drive to the ancient Tuchenn Pol, where you can let history captivate you. Afterward, drive on to see the majestic Menhir de Courégant in all its striking glory.\n\nAround midday, visit the quiet Chapelle Saint-Léonard and then head for the Fortin de Kerloës. Traveling by car allows you to explore these distinct historical locations flexibly and comfortably.\n\nIn the afternoon, the route leads past Ar Roc'h directly to Plage du Pérello. Park your car nearby and enjoy a long, relaxing walk on the beach to deeply breathe in the fresh, salty sea air.\n\nThe perfect conclusion is found at the Chapelle Notre-Dame de la Garde. In the absolute quiet of the evening, you can once again let the rich maritime impressions of the Kerroc'h region sink in."
+      }
+    }
+  }
+}

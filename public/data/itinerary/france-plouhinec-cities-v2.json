@@ -1,0 +1,566 @@
+{
+  "city_id": "france-plouhinec-cities-v2",
+  "anchor": {
+    "name": "Plouhinec",
+    "coords": [
+      -3.2189,
+      47.6526
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 4.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Guénin",
+            "hu": "Église Saint-Guénin",
+            "ro": "Église Saint-Guénin",
+            "en": "Église Saint-Guénin"
+          },
+          "coords": [
+            -3.22114,
+            47.670226
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche und prüfen Sie das schwarze Brett auf aktuelle Termine für Chorkonzerte.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű építészetét, és ne felejtse el megnézni a helyi kóruskoncertek menetrendjét.",
+            "ro": "Admirați arhitectura acestei biserici istorice și nu uitați să verificați panoul informativ pentru programul concertelor corale.",
+            "en": "Admire the beautiful architecture of this historic church and remember to check the notice board for local choir concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Rhun",
+            "hu": "Menhir de Rhun",
+            "ro": "Menhir de Rhun",
+            "en": "Menhir de Rhun"
+          },
+          "coords": [
+            -3.222153,
+            47.667159
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem hochragenden Monolithen, um seine wahre Größe zu erfassen, und tragen Sie festes Schuhwerk für den Boden.",
+            "hu": "Álljon e hatalmas ősi monolit mellé, hogy megértse valódi méretét, és viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Stați lângă acest monolit antic pentru a-i înțelege scara și purtați încălțăminte rezistentă, deoarece terenul este denivelat.",
+            "en": "Stand beside this towering ancient monolith to grasp its true scale, and wear sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Gardien des Parcs",
+            "hu": "Maison du Gardien des Parcs",
+            "ro": "Maison du Gardien des Parcs",
+            "en": "Maison du Gardien des Parcs"
+          },
+          "coords": [
+            -3.212523,
+            47.665541
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie das gut erhaltene Wächterhaus für das lokale Erbe und achten Sie auf die kleinen Informationstafeln am Eingang.",
+            "hu": "Fedezze fel a jól megőrzött gondnoki házat a helyi örökség megismeréséhez, és keresse a bejárat melletti információs táblákat.",
+            "ro": "Explorați casa gardianului pentru a înțelege patrimoniul local și căutați micile plăcuțe informative de lângă intrare.",
+            "en": "Explore the well-preserved guardian's house to understand local heritage, and look for the small informational plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Table d'orientation",
+            "hu": "Table d'orientation",
+            "ro": "Table d'orientation",
+            "en": "Table d'orientation"
+          },
+          "coords": [
+            -3.209087,
+            47.666713
+          ],
+          "category": "natural",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste und bringen Sie ein Fernglas mit, um an klaren Tagen ferne Inseln zu entdecken.",
+            "hu": "Élvezze a panorámás tengerparti kilátást erről a magaslati pontról, és hozzon távcsövet a távoli szigetek megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică a coastei din acest loc înalt și aduceți binoclul pentru a zări insulele îndepărtate.",
+            "en": "Take in the panoramic coastal views from this elevated spot, and bring binoculars to spot distant islands on a clear afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Thoniers",
+            "hu": "Musée des Thoniers",
+            "ro": "Musée des Thoniers",
+            "en": "Musée des Thoniers"
+          },
+          "coords": [
+            -3.205966,
+            47.660553
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des lokalen Thunfischfangs und fragen Sie die Führer nach den traditionellen Bootsbautechniken.",
+            "hu": "Fedezze fel a helyi tonhalhalászat lenyűgöző történetét, és kérdezze meg a vezetőket a hagyományos hajóépítési technikákról.",
+            "ro": "Descoperiți istoria fascinantă a pescuitului de ton și asigurați-vă că întrebați ghizii despre tehnicile tradiționale de construcție.",
+            "en": "Discover the fascinating history of local tuna fishing, and make sure to ask the guides about the traditional boat building techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Flots",
+            "hu": "Église Notre-Dame-des-Flots",
+            "ro": "Église Notre-Dame-des-Flots",
+            "en": "Église Notre-Dame-des-Flots"
+          },
+          "coords": [
+            -3.201022,
+            47.65723
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die maritimen Details in dieser Küstenkirche und nehmen Sie sich Zeit, die Ehrungen für verlorene Seeleute zu lesen.",
+            "hu": "Vegye észre a tengerészeti témájú részleteket a templomban, és szánjon egy percet az elveszett tengerészek előtti tiszteletadásra.",
+            "ro": "Observați detaliile cu tematică maritimă din biserică și alocați-vă un moment pentru a citi omagiile aduse marinarilor pierduți.",
+            "en": "Notice the unique maritime-themed details inside this coastal church, and take a moment to read the moving tributes to lost sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kervégan",
+            "hu": "Plage de Kervégan",
+            "ro": "Plage de Kervégan",
+            "en": "Plage de Kervégan"
+          },
+          "coords": [
+            -3.229438,
+            47.653543
+          ],
+          "category": "recreational",
+          "arrive_at": "16:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Strand, aber schwimmen Sie nur in den markierten Zonen wegen der starken Strömungen.",
+            "hu": "Pihenjen ennek a hatalmas strandnak a puha homokján, de mindig a kijelölt zónákban ússzon az olykor erős áramlatok miatt.",
+            "ro": "Relaxați-vă pe nisipul moale al acestei plaje, dar înotați mereu în zonele desemnate, deoarece curenții pot fi uneori puternici.",
+            "en": "Relax on the soft sands of this expansive beach, but always swim in the designated zones as local currents can sometimes be strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen erkundet das Herz von Plouhinec mit seiner historischen Kirche und alten Menhiren. Mittags spazieren Sie durch Kulturparks mit Panoramablick auf die Küste. Der Nachmittag taucht im Thunfischmuseum in die lokale Seefahrtsgeschichte ein. Der Abend endet mit einem erholsamen Spaziergang am Strand von Kervégan.",
+        "hu": "A délelőtt Plouhinec szívét fedezi fel a történelmi templommal és az ősi menhirekkel. Délben az örökségvédelmi parkokon keresztül halad, panorámás kilátással a partra. A délután a helyi tengerészeti történelembe nyújt betekintést. Az estét egy pihentető séta zárja a gyönyörű Kervégan strandon.",
+        "ro": "Dimineața explorează inima orașului Plouhinec, cu biserica sa istorică și pietrele antice. La amiază vă plimbați prin parcuri de patrimoniu cu vederi panoramice la coastă. După-amiaza vă scufundă în istoria maritimă locală la muzeul tonului. Seara se încheie cu o plimbare relaxantă pe plaja Kervégan.",
+        "en": "Morning explores the heart of Plouhinec with its historic church and ancient standing stones. Midday takes you through heritage parks with panoramic views of the coast. Afternoon dives into local maritime history at the tuna museum and maritime church. Evening concludes with a relaxing stroll on the beautiful Kervégan beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Kerminihy",
+            "hu": "Plage de Kerminihy",
+            "ro": "Plage de Kerminihy",
+            "en": "Plage de Kerminihy"
+          },
+          "coords": [
+            -3.204848,
+            47.639437
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Schönheit dieses Naturstrandes und denken Sie daran, dass Teile davon FKK-freundlich sind.",
+            "hu": "Élvezze e természetes strand szépségét, és ne feledje, hogy egyes részei naturistabarátok, ezért válassza meg a helyét ennek megfelelően.",
+            "ro": "Bucurați-vă de frumusețea acestei plaje naturale și rețineți că unele părți sunt dedicate nudiștilor, deci alegeți cu atenție.",
+            "en": "Enjoy the untamed beauty of this natural beach, and remember that parts of it are naturist-friendly so choose your spot accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Saint-Germain",
+            "hu": "Menhir de Saint-Germain",
+            "ro": "Menhir de Saint-Germain",
+            "en": "Menhir de Saint-Germain"
+          },
+          "coords": [
+            -3.187334,
+            47.648522
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses prähistorische Denkmal und versuchen Sie, während der goldenen Stunde für fantastische Fotos hier zu sein.",
+            "hu": "Csodálja meg ezt az elrejtett történelem előtti emlékművet, és látogassa meg az aranyórában a drámai fotós fényekért.",
+            "ro": "Minunați-vă de acest monument preistoric ascuns și încercați să vizitați la ora de aur pentru o iluminare fotografică dramatică.",
+            "en": "Marvel at this striking prehistoric monument hidden in plain sight, and try visiting during golden hour for dramatic photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Flots",
+            "hu": "Église Notre-Dame-des-Flots",
+            "ro": "Église Notre-Dame-des-Flots",
+            "en": "Église Notre-Dame-des-Flots"
+          },
+          "coords": [
+            -3.201022,
+            47.65723
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die maritimen Details in dieser Küstenkirche und nehmen Sie sich Zeit, die Ehrungen für verlorene Seeleute zu lesen.",
+            "hu": "Vegye észre a tengerészeti témájú részleteket a templomban, és szánjon egy percet az elveszett tengerészek előtti tiszteletadásra.",
+            "ro": "Observați detaliile cu tematică maritimă din biserică și alocați-vă un moment pentru a citi omagiile aduse marinarilor pierduți.",
+            "en": "Notice the unique maritime-themed details inside this coastal church, and take a moment to read the moving tributes to lost sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Thoniers",
+            "hu": "Musée des Thoniers",
+            "ro": "Musée des Thoniers",
+            "en": "Musée des Thoniers"
+          },
+          "coords": [
+            -3.205966,
+            47.660553
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des lokalen Thunfischfangs und fragen Sie die Führer nach den traditionellen Bootsbautechniken.",
+            "hu": "Fedezze fel a helyi tonhalhalászat lenyűgöző történetét, és kérdezze meg a vezetőket a hagyományos hajóépítési technikákról.",
+            "ro": "Descoperiți istoria fascinantă a pescuitului de ton și asigurați-vă că întrebați ghizii despre tehnicile tradiționale de construcție.",
+            "en": "Discover the fascinating history of local tuna fishing, and make sure to ask the guides about the traditional boat building techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Table d'orientation",
+            "hu": "Table d'orientation",
+            "ro": "Table d'orientation",
+            "en": "Table d'orientation"
+          },
+          "coords": [
+            -3.209087,
+            47.666713
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste und bringen Sie ein Fernglas mit, um an klaren Tagen ferne Inseln zu entdecken.",
+            "hu": "Élvezze a panorámás tengerparti kilátást erről a magaslati pontról, és hozzon távcsövet a távoli szigetek megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică a coastei din acest loc înalt și aduceți binoclul pentru a zări insulele îndepărtate.",
+            "en": "Take in the panoramic coastal views from this elevated spot, and bring binoculars to spot distant islands on a clear afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin du Bignac",
+            "hu": "Moulin du Bignac",
+            "ro": "Moulin du Bignac",
+            "en": "Moulin du Bignac"
+          },
+          "coords": [
+            -3.191865,
+            47.663301
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese charmante alte Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit und achten Sie auf den Weg.",
+            "hu": "Készítsen egy fotót erről a bájos régi szélmalomról, amely a régió múltját őrzi, és ügyeljen a lépéseire a köves ösvényen.",
+            "ro": "Fotografiați această veche moară de vânt fermecătoare care atestă trecutul agricol al regiunii și aveți grijă la pași pe potecă.",
+            "en": "Snap a photo of this charming old windmill that stands as a testament to the region's agricultural past, and watch your step on the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kervégan",
+            "hu": "Plage de Kervégan",
+            "ro": "Plage de Kervégan",
+            "en": "Plage de Kervégan"
+          },
+          "coords": [
+            -3.229438,
+            47.653543
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Strand, aber schwimmen Sie nur in den markierten Zonen wegen der starken Strömungen.",
+            "hu": "Pihenjen ennek a hatalmas strandnak a puha homokján, de mindig a kijelölt zónákban ússzon az olykor erős áramlatok miatt.",
+            "ro": "Relaxați-vă pe nisipul moale al acestei plaje, dar înotați mereu în zonele desemnate, deoarece curenții pot fi uneori puternici.",
+            "en": "Relax on the soft sands of this expansive beach, but always swim in the designated zones as local currents can sometimes be strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer erfrischenden Fahrt zum Strand von Kerminihy und alten Megalithen. Mittags verbindet sich maritimes Erbe mit den Ausstellungen im Thoniers-Museum. Der Nachmittag bietet malerische Aussichtspunkte und einen Blick auf die alte Mühle. Der Abend klingt gemütlich am Strand von Kervégan aus.",
+        "hu": "A reggel egy frissítő tekeréssel indul a Kerminihy strandra és az ősi megalitokhoz. A dél a tengerészeti örökséget ötvözi a Thoniers múzeum kiállításaival. A délután festői kilátókat és a régi malom gyors megtekintését kínálja. Az este kényelmesen, a part mentén, a Kervégan strandon ér véget.",
+        "ro": "Dimineața începe cu o plimbare revigorantă la plaja Kerminihy și o vizită la megaliți. La amiază combină moștenirea maritimă cu expozițiile de la muzeul Thoniers. După-amiaza oferă opriri pitorești și o privire asupra vechii mori. Seara se încheie confortabil de-a lungul coastei, la plaja Kervégan.",
+        "en": "Morning begins with a refreshing ride to Kerminihy beach and a visit to ancient megaliths. Midday combines spiritual maritime heritage with exhibits at the Thoniers museum. Afternoon offers scenic viewpoint stops and a quick look at the old mill. Evening winds down comfortably along the coast at Kervégan beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 7.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Guénin",
+            "hu": "Église Saint-Guénin",
+            "ro": "Église Saint-Guénin",
+            "en": "Église Saint-Guénin"
+          },
+          "coords": [
+            -3.22114,
+            47.670226
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche und prüfen Sie das schwarze Brett auf aktuelle Termine für Chorkonzerte.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű építészetét, és ne felejtse el megnézni a helyi kóruskoncertek menetrendjét.",
+            "ro": "Admirați arhitectura acestei biserici istorice și nu uitați să verificați panoul informativ pentru programul concertelor corale.",
+            "en": "Admire the beautiful architecture of this historic church and remember to check the notice board for local choir concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Rhun",
+            "hu": "Menhir de Rhun",
+            "ro": "Menhir de Rhun",
+            "en": "Menhir de Rhun"
+          },
+          "coords": [
+            -3.222153,
+            47.667159
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem hochragenden Monolithen, um seine wahre Größe zu erfassen, und tragen Sie festes Schuhwerk für den Boden.",
+            "hu": "Álljon e hatalmas ősi monolit mellé, hogy megértse valódi méretét, és viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Stați lângă acest monolit antic pentru a-i înțelege scara și purtați încălțăminte rezistentă, deoarece terenul este denivelat.",
+            "en": "Stand beside this towering ancient monolith to grasp its true scale, and wear sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Gardien des Parcs",
+            "hu": "Maison du Gardien des Parcs",
+            "ro": "Maison du Gardien des Parcs",
+            "en": "Maison du Gardien des Parcs"
+          },
+          "coords": [
+            -3.212523,
+            47.665541
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie das gut erhaltene Wächterhaus für das lokale Erbe und achten Sie auf die kleinen Informationstafeln am Eingang.",
+            "hu": "Fedezze fel a jól megőrzött gondnoki házat a helyi örökség megismeréséhez, és keresse a bejárat melletti információs táblákat.",
+            "ro": "Explorați casa gardianului pentru a înțelege patrimoniul local și căutați micile plăcuțe informative de lângă intrare.",
+            "en": "Explore the well-preserved guardian's house to understand local heritage, and look for the small informational plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin du Bignac",
+            "hu": "Moulin du Bignac",
+            "ro": "Moulin du Bignac",
+            "en": "Moulin du Bignac"
+          },
+          "coords": [
+            -3.191865,
+            47.663301
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese charmante alte Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit und achten Sie auf den Weg.",
+            "hu": "Készítsen egy fotót erről a bájos régi szélmalomról, amely a régió múltját őrzi, és ügyeljen a lépéseire a köves ösvényen.",
+            "ro": "Fotografiați această veche moară de vânt fermecătoare care atestă trecutul agricol al regiunii și aveți grijă la pași pe potecă.",
+            "en": "Snap a photo of this charming old windmill that stands as a testament to the region's agricultural past, and watch your step on the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Thoniers",
+            "hu": "Musée des Thoniers",
+            "ro": "Musée des Thoniers",
+            "en": "Musée des Thoniers"
+          },
+          "coords": [
+            -3.205966,
+            47.660553
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des lokalen Thunfischfangs und fragen Sie die Führer nach den traditionellen Bootsbautechniken.",
+            "hu": "Fedezze fel a helyi tonhalhalászat lenyűgöző történetét, és kérdezze meg a vezetőket a hagyományos hajóépítési technikákról.",
+            "ro": "Descoperiți istoria fascinantă a pescuitului de ton și asigurați-vă că întrebați ghizii despre tehnicile tradiționale de construcție.",
+            "en": "Discover the fascinating history of local tuna fishing, and make sure to ask the guides about the traditional boat building techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Flots",
+            "hu": "Église Notre-Dame-des-Flots",
+            "ro": "Église Notre-Dame-des-Flots",
+            "en": "Église Notre-Dame-des-Flots"
+          },
+          "coords": [
+            -3.201022,
+            47.65723
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die maritimen Details in dieser Küstenkirche und nehmen Sie sich Zeit, die Ehrungen für verlorene Seeleute zu lesen.",
+            "hu": "Vegye észre a tengerészeti témájú részleteket a templomban, és szánjon egy percet az elveszett tengerészek előtti tiszteletadásra.",
+            "ro": "Observați detaliile cu tematică maritimă din biserică și alocați-vă un moment pentru a citi omagiile aduse marinarilor pierduți.",
+            "en": "Notice the unique maritime-themed details inside this coastal church, and take a moment to read the moving tributes to lost sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Saint-Germain",
+            "hu": "Menhir de Saint-Germain",
+            "ro": "Menhir de Saint-Germain",
+            "en": "Menhir de Saint-Germain"
+          },
+          "coords": [
+            -3.187334,
+            47.648522
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses prähistorische Denkmal und versuchen Sie, während der goldenen Stunde für fantastische Fotos hier zu sein.",
+            "hu": "Csodálja meg ezt az elrejtett történelem előtti emlékművet, és látogassa meg az aranyórában a drámai fotós fényekért.",
+            "ro": "Minunați-vă de acest monument preistoric ascuns și încercați să vizitați la ora de aur pentru o iluminare fotografică dramatică.",
+            "en": "Marvel at this striking prehistoric monument hidden in plain sight, and try visiting during golden hour for dramatic photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerminihy",
+            "hu": "Plage de Kerminihy",
+            "ro": "Plage de Kerminihy",
+            "en": "Plage de Kerminihy"
+          },
+          "coords": [
+            -3.204848,
+            47.639437
+          ],
+          "category": "recreational",
+          "arrive_at": "16:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Schönheit dieses Naturstrandes und denken Sie daran, dass Teile davon FKK-freundlich sind.",
+            "hu": "Élvezze e természetes strand szépségét, és ne feledje, hogy egyes részei naturistabarátok, ezért válassza meg a helyét ennek megfelelően.",
+            "ro": "Bucurați-vă de frumusețea acestei plaje naturale și rețineți că unele părți sunt dedicate nudiștilor, deci alegeți cu atenție.",
+            "en": "Enjoy the untamed beauty of this natural beach, and remember that parts of it are naturist-friendly so choose your spot accordingly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen konzentriert sich auf Plouhinecs historischen Kern mit der Hauptkirche und dem beeindruckenden Menhir. Mittags verbinden sich das Wächterhaus und eine Windmühle mit maritimer Geschichte. Nachmittags erkunden Sie die maritime Kirche. Der Abend endet perfekt mit einem ruhigen Sonnenuntergang in Kerminihy.",
+        "hu": "A reggel Plouhinec történelmi központjára összpontosít, a főtemplommal és a menhirrel. A dél a gondnok házát és egy ikonikus szélmalmot köt össze a tengerészeti történelemmel. A délután a tengerészeti templomot fedezi fel a Saint-Germain kő előtt. Az este tökéletesen zárul egy nyugodt naplementével Kerminihyben.",
+        "ro": "Dimineața se concentrează pe nucleul istoric, cu biserica principală și impresionantul menhir. Amiaza conectează casa gardianului și o moară de vânt cu istoria maritimă. După-amiaza explorează biserica maritimă înainte de a conduce la piatra Saint-Germain. Seara se termină perfect cu un apus senin la Kerminihy.",
+        "en": "Morning focuses on Plouhinec's historic core, featuring the main church and impressive menhir. Midday connects the guardian's house and an iconic windmill with maritime history. Afternoon explores the maritime church before driving to the Saint-Germain stone. Evening ends perfectly with a serene sunset at Kerminihy."
+      }
+    }
+  }
+}

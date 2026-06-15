@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-port-talbot",
+  "anchor": {
+    "name": "Port Talbot",
+    "coords": [
+      -3.7648,
+      51.5981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Talbot Parkway",
+            "hu": "Port Talbot Parkway",
+            "ro": "Port Talbot Parkway",
+            "en": "Port Talbot Parkway"
+          },
+          "coords": [
+            -3.781,
+            51.592
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem modernen Verkehrsknotenpunkt mit exzellenten Verbindungen nach ganz Wales und holen Sie sich rasch einen Kaffee.",
+            "hu": "Kezdje útját ezen a modern vasútállomáson, amely remek walesi kapcsolatokkal rendelkezik, és igyon egy gyors kávét indulás előtt.",
+            "ro": "Începeți călătoria în acest nod feroviar modern cu conexiuni excelente în toată Țara Galilor și luați o cafea rapidă înainte de a explora orașul.",
+            "en": "Start your journey at this modern rail hub, which offers great connections across Wales, and grab a quick coffee before heading out to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Prinzessin Royal Theater",
+            "hu": "Princess Royal Színház",
+            "ro": "Teatrul Princess Royal",
+            "en": "Princess Royal Theatre"
+          },
+          "coords": [
+            -3.7837,
+            51.5977
+          ],
+          "category": "cultural",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur an diesem lebendigen Veranstaltungsort im Zentrum und fragen Sie an der Abendkasse nach Last-Minute-Tickets.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a nyüzsgő belvárosi színházban, és mindenképpen érdeklődjön a jegypénztárnál az utolsó pillanatos esti jegyekről.",
+            "ro": "Descoperiți cultura locală la această sală de spectacole vibrantă din centrul orașului și verificați la casa de bilete dacă mai sunt locuri pentru diseară.",
+            "en": "Discover local culture at this vibrant performing arts venue in the town centre, and be sure to check the box office for last-minute evening tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquasplash Spielpool",
+            "hu": "Aquasplash Játszómedence",
+            "ro": "Aquasplash Piscină",
+            "en": "Aquasplash Play Pool"
+          },
+          "coords": [
+            -3.819297,
+            51.595169
+          ],
+          "category": "family",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem interaktiven Wasserpark direkt am Meer Spaß haben, aber packen Sie zusätzliche Handtücher ein, da es sehr nass wird.",
+            "hu": "Hagyja, hogy a család élvezze ezt a szórakoztató, interaktív víziparkot közvetlenül a tengerparton, de ne felejtsen el extra törölközőket csomagolni.",
+            "ro": "Bucurați-vă de acest parc acvatic interactiv și distractiv situat chiar pe faleză, dar asigurați-vă că aduceți prosoape suplimentare pentru copii.",
+            "en": "Let the family enjoy this fun, interactive water park situated right on the seafront, but remember to pack extra towels as it can get quite splashy."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberavon Strand",
+            "hu": "Aberavon Strand",
+            "ro": "Plaja Aberavon",
+            "en": "Aberavon Beach"
+          },
+          "coords": [
+            -3.815509,
+            51.592658
+          ],
+          "category": "natural",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie einen der längsten Sandstrände von Wales entlang, genießen Sie den Blick auf die Swansea Bay und gönnen Sie sich ein Eis an der Promenade.",
+            "hu": "Sétáljon Wales egyik leghosszabb homokos strandján, élvezze a Swansea-öbölre nyíló lenyűgöző kilátást, és vegyen egy fagyit a sétányon sétálva.",
+            "ro": "Plimbați-vă pe una dintre cele mai lungi plaje de nisip din Țara Galilor, admirați golful Swansea și cumpărați o înghețată de la un vânzător local.",
+            "en": "Stroll along one of Wales' longest sandy beaches to take in spectacular views of Swansea Bay, and grab an ice cream from a nearby promenade vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Works Stausee",
+            "hu": "Works Víztározó",
+            "ro": "Lacul Works",
+            "en": "Works Reservoir"
+          },
+          "coords": [
+            -3.773374,
+            51.563443
+          ],
+          "category": "natural",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang um dieses friedliche Gewässer nahe dem industriellen Zentrum und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Tegyen egy békés sétát ez a nyugodt víztömeg körül, amely az ipari szív közelében található, és viseljen kényelmes cipőt az egyenetlen ösvényeken.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui lac pitoresc situat aproape de inima industrială a orașului, purtând încălțăminte comodă pentru poteci.",
+            "en": "Take a peaceful walk around this tranquil body of water situated close to the industrial heart, wearing comfortable shoes to navigate the rough paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am geschäftigen Port Talbot Parkway und genießen Sie die einladende Atmosphäre der Stadt.\n\nZur Mittagszeit lockt die lokale Kunstszene im Princess Royal Theatre.\n\nAm Nachmittag erwartet Sie Familienspaß im Aquasplash Play Pool, gefolgt von einem Spaziergang am Aberavon Beach.\n\nLassen Sie den Abend mit einem ruhigen Spaziergang rund um das friedliche Works Reservoir ausklingen.",
+        "hu": "Kezdje a reggelt a nyüzsgő Port Talbot Parkway-en, beszívva a város vendégszerető hangulatát.\n\nDélben fedezze fel a helyi művészeti életet a Princess Royal Színházban.\n\nDélután élvezze a családi szórakozást az Aquasplash Play Poolban, majd egy szellős sétát az Aberavon strandon.\n\nZárja az estét egy csendes, elmélkedő sétával a meglepően békés Works Reservoir víztározó körül.",
+        "ro": "Începeți dimineața la aglomerata gară Port Talbot Parkway, simțind atmosfera primitoare a orașului.\n\nLa prânz, sunteți invitați să explorați scena artistică la Teatrul Princess Royal.\n\nDupă-amiaza, bucurați-vă de distracție în familie la Aquasplash Play Pool, urmată de o plimbare pe plaja Aberavon.\n\nÎncheiați seara cu o plimbare senină și reflexivă în jurul liniștitului lac Works Reservoir.",
+        "en": "Begin your morning at the bustling Port Talbot Parkway, soaking in the town's welcoming vibe.\n\nMidday invites you to explore the local arts scene at the Princess Royal Theatre.\n\nIn the afternoon, enjoy family fun at Aquasplash Play Pool followed by a breezy walk on Aberavon Beach.\n\nConclude your evening with a serene, reflective stroll around the surprisingly peaceful Works Reservoir."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Talbot Parkway",
+            "hu": "Port Talbot Parkway",
+            "ro": "Port Talbot Parkway",
+            "en": "Port Talbot Parkway"
+          },
+          "coords": [
+            -3.781,
+            51.592
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem modernen Verkehrsknotenpunkt mit exzellenten Verbindungen nach ganz Wales und holen Sie sich rasch einen Kaffee.",
+            "hu": "Kezdje útját ezen a modern vasútállomáson, amely remek walesi kapcsolatokkal rendelkezik, és igyon egy gyors kávét indulás előtt.",
+            "ro": "Începeți călătoria în acest nod feroviar modern cu conexiuni excelente în toată Țara Galilor și luați o cafea rapidă înainte de a explora orașul.",
+            "en": "Start your journey at this modern rail hub, which offers great connections across Wales, and grab a quick coffee before heading out to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Brombil Stausee",
+            "hu": "Brombil Víztározó",
+            "ro": "Lacul Brombil",
+            "en": "Brombil Reservoir"
+          },
+          "coords": [
+            -3.735838,
+            51.577242
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem versteckten türkisfarbenen Juwel in den Hügeln für atemberaubende Fotos, aber tragen Sie feste Stiefel für den steilen Aufstieg.",
+            "hu": "Túrázzon fel ehhez a hegyekben megbúvó, türkizkék ékszerdobozhoz lenyűgöző fotókért, bár erős bakancsot érdemes viselni a meredek emelkedő miatt.",
+            "ro": "Urcați către această bijuterie turcoaz ascunsă în dealuri pentru fotografii uluitoare, dar purtați bocanci solizi deoarece urcușul este foarte abrupt.",
+            "en": "Hike up to this hidden turquoise gem nestled in the hills for breathtaking photos, though you should wear sturdy boots as the ascent is notably steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Margam Schloss",
+            "hu": "Margam Kastély",
+            "ro": "Castelul Margam",
+            "en": "Margam Castle"
+          },
+          "coords": [
+            -3.73079,
+            51.562204
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende Herrenhaus im Tudor-Gothic-Stil inmitten einer wunderschönen Anlage und nehmen Sie an einer Führung teil.",
+            "hu": "Fedezze fel ezt a lenyűgöző, 19. századi Tudor-gótikus kastélyt a gyönyörűen parkosított területen, és csatlakozzon egy izgalmas vezetett túrához.",
+            "ro": "Explorați acest conac impresionant în stil gotic Tudor din secolul al XIX-lea și alăturați-vă unui tur ghidat pentru a-i afla istoria fascinantă.",
+            "en": "Explore this impressive 19th-century Tudor Gothic mansion set within beautifully landscaped grounds, and join a guided tour to learn its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Orangerie",
+            "hu": "Az Orangerie",
+            "ro": "Oranjeria",
+            "en": "The Orangery"
+          },
+          "coords": [
+            -3.73134,
+            51.562239
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der längsten Orangerie in Wales, die für Zitrusbäume gebaut wurde, und entspannen Sie auf den saftigen Rasenflächen.",
+            "hu": "Csodálja meg Wales leghosszabb, citrusfák számára épült orangerie-jének elegáns építészetét, és pihenjen egyet a környező buja zöld pázsiton.",
+            "ro": "Admirați arhitectura elegantă a celei mai lungi oranjerii din Țara Galilor, construită pentru citrice, și relaxați-vă pe peluzele luxuriante din jur.",
+            "en": "Admire the elegant architecture of the longest orangery in Wales, built to house citrus trees, and enjoy a quiet moment on the surrounding lush lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Tata Stahlwerke",
+            "hu": "Tata Acélművek",
+            "ro": "Oțelăria Tata",
+            "en": "Tata Steelworks"
+          },
+          "coords": [
+            -3.759405,
+            51.56797
+          ],
+          "category": "civic",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe eines der größten Stahlwerke Europas von einem sicheren Aussichtspunkt und erleben Sie die Industriegeschichte der Stadt.",
+            "hu": "Csodálja meg Európa egyik legnagyobb acélgyárának méreteit egy biztonságos kilátópontról, megfigyelve az ipari örökséget, amely formálta a várost.",
+            "ro": "Minunați-vă de dimensiunea uneia dintre cele mai mari oțelării din Europa dintr-un punct de observație sigur și descoperiți patrimoniul industrial.",
+            "en": "Marvel at the sheer scale of one of Europe's largest steel plants from a safe vantage point, observing the industrial heritage that shaped Port Talbot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberavon Strand",
+            "hu": "Aberavon Strand",
+            "ro": "Plaja Aberavon",
+            "en": "Aberavon Beach"
+          },
+          "coords": [
+            -3.815509,
+            51.592658
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie einen der längsten Sandstrände von Wales entlang, genießen Sie den Blick auf die Swansea Bay und gönnen Sie sich ein Eis an der Promenade.",
+            "hu": "Sétáljon Wales egyik leghosszabb homokos strandján, élvezze a Swansea-öbölre nyíló lenyűgöző kilátást, és vegyen egy fagyit a sétányon sétálva.",
+            "ro": "Plimbați-vă pe una dintre cele mai lungi plaje de nisip din Țara Galilor, admirați golful Swansea și cumpărați o înghețată de la un vânzător local.",
+            "en": "Stroll along one of Wales' longest sandy beaches to take in spectacular views of Swansea Bay, and grab an ice cream from a nearby promenade vendor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Fahrradtag am Bahnhof, bevor Sie den anspruchsvollen Weg zum atemberaubenden Brombil Reservoir meistern.\n\nMittags radeln Sie zum historischen Margam Estate, um das Schloss und die elegante Orangerie zu erkunden.\n\nDie Nachmittagsfahrt führt Sie vorbei an den monumentalen Tata Steelworks, einem Zeugnis der Industriegeschichte.\n\nBeenden Sie Ihre Tour mit einer abendlichen Fahrt am Aberavon Beach und genießen Sie den Sonnenuntergang.",
+        "hu": "Indítsa kerékpáros napját az állomáson, majd küzdje le az emelkedőt a lenyűgöző Brombil víztározóhoz.\n\nDélben tekerjen be a történelmi Margam Birtokra, felfedezve a lenyűgöző kastélyt és az elegáns Orangerie-t.\n\nA délutáni tekerés elviszi a monumentális Tata acélművek mellett, amely a környék ipari magjának igazi bizonyítéka.\n\nZárja utazását egy esti kerékpározással az Aberavon strandon, figyelve a naplementét a Swansea-öböl felett.",
+        "ro": "Începeți ziua de ciclism la gară înainte de a urca panta spre uimitorul lac de acumulare Brombil.\n\nLa prânz, pedalați spre istorica moșie Margam, explorând atât marele Castel, cât și eleganta Oranjerie.\n\nPlimbarea de după-amiază vă duce pe lângă monumentala oțelărie Tata, un adevărat testament al industriei locale.\n\nÎncheiați-vă călătoria cu o plimbare de seară de-a lungul plajei Aberavon, privind apusul peste golful Swansea.",
+        "en": "Kick off your cycling day at the station before tackling the uphill path to the stunning Brombil Reservoir.\n\nBy midday, cruise into the historic Margam Estate, exploring both the grand Castle and the elegant Orangery.\n\nAfternoon riding takes you past the monumental Tata Steelworks, a true testament to the area's industrial core.\n\nEnd your journey with an evening ride along Aberavon Beach, watching the sunset over Swansea Bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 17.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pen-y-Castell Eisenzeithügelfestung",
+            "hu": "Pen-y-Castell Vaskori Erőd",
+            "ro": "Fortăreața Pen-y-Castell",
+            "en": "Pen-y-Castell Iron Age Hill Fort"
+          },
+          "coords": [
+            -3.751058,
+            51.611501
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser eisenzeitlichen Hügelfestung hinauf, um die ferne Vergangenheit von Wales zu entdecken, und bringen Sie Wasser mit.",
+            "hu": "Másszon fel e vaskori hegyi erődítmény ősi romjaihoz, hogy felfedezze Wales távoli múltját, és hozzon magával vizet a panorámás völgyi kilátáshoz.",
+            "ro": "Urcați spre ruinele antice ale acestei fortărețe din Epoca Fierului pentru a descoperi trecutul îndepărtat, luând apă și un aparat foto cu dumneavoastră.",
+            "en": "Climb up to the ancient ruins of this Iron Age hill fort to uncover Wales' distant past, bringing water and a camera for the panoramic valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Afan Waldpark",
+            "hu": "Afan Erdőpark",
+            "ro": "Parcul Forestier Afan",
+            "en": "Afan Forest Park"
+          },
+          "coords": [
+            -3.732758,
+            51.632803
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Weltklasse-Mountainbike-Strecken und ruhige Waldspaziergänge ein, aber besorgen Sie sich vorher eine Wanderkarte im Besucherzentrum.",
+            "hu": "Merüljön el a világszínvonalú hegyikerékpár-pályákban és a nyugodt erdei sétákban, miután beszerzett egy térképet a helyi látogatóközpontból.",
+            "ro": "Bucurați-vă de traseele de mountain bike de talie mondială și plimbările liniștite prin pădure, solicitând o hartă de la centrul de vizitatori anterior.",
+            "en": "Immerse yourself in world-class mountain biking trails and serene woodland walks, making sure to grab a trail map from the visitor centre beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Margam Landschaftspark",
+            "hu": "Margam Vidéki Park",
+            "ro": "Parcul Margam",
+            "en": "Margam Country Park"
+          },
+          "coords": [
+            -3.72556,
+            51.5628
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie Stunden damit, durch weitläufige Parkanlagen mit historischen Hirschherden zu wandern, und packen Sie ein Picknick für den See ein.",
+            "hu": "Töltsön órákat a kiterjedt parkok bebarangolásával, amelyeket történelmi szarvascsordák népesítenek be, és pakoljon egy finom pikniket a tó partjára.",
+            "ro": "Petreceți ore întregi rătăcind prin parcurile vaste populate de turme istorice de cerbi și pregătiți un picnic delicios pe care să-l savurați lângă lac.",
+            "en": "Spend hours wandering through extensive parklands populated by historic deer herds, and pack a lovely picnic to enjoy beside the tranquil lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Margam Schloss",
+            "hu": "Margam Kastély",
+            "ro": "Castelul Margam",
+            "en": "Margam Castle"
+          },
+          "coords": [
+            -3.73079,
+            51.562204
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende Herrenhaus im Tudor-Gothic-Stil inmitten einer wunderschönen Anlage und nehmen Sie an einer Führung teil.",
+            "hu": "Fedezze fel ezt a lenyűgöző, 19. századi Tudor-gótikus kastélyt a gyönyörűen parkosított területen, és csatlakozzon egy izgalmas vezetett túrához.",
+            "ro": "Explorați acest conac impresionant în stil gotic Tudor din secolul al XIX-lea și alăturați-vă unui tur ghidat pentru a-i afla istoria fascinantă.",
+            "en": "Explore this impressive 19th-century Tudor Gothic mansion set within beautifully landscaped grounds, and join a guided tour to learn its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Tata Stahlwerke",
+            "hu": "Tata Acélművek",
+            "ro": "Oțelăria Tata",
+            "en": "Tata Steelworks"
+          },
+          "coords": [
+            -3.759405,
+            51.56797
+          ],
+          "category": "civic",
+          "arrive_at": "14:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe eines der größten Stahlwerke Europas von einem sicheren Aussichtspunkt und erleben Sie die Industriegeschichte der Stadt.",
+            "hu": "Csodálja meg Európa egyik legnagyobb acélgyárának méreteit egy biztonságos kilátópontról, megfigyelve az ipari örökséget, amely formálta a várost.",
+            "ro": "Minunați-vă de dimensiunea uneia dintre cele mai mari oțelării din Europa dintr-un punct de observație sigur și descoperiți patrimoniul industrial.",
+            "en": "Marvel at the sheer scale of one of Europe's largest steel plants from a safe vantage point, observing the industrial heritage that shaped Port Talbot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberavon Strand",
+            "hu": "Aberavon Strand",
+            "ro": "Plaja Aberavon",
+            "en": "Aberavon Beach"
+          },
+          "coords": [
+            -3.815509,
+            51.592658
+          ],
+          "category": "natural",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie einen der längsten Sandstrände von Wales entlang, genießen Sie den Blick auf die Swansea Bay und gönnen Sie sich ein Eis an der Promenade.",
+            "hu": "Sétáljon Wales egyik leghosszabb homokos strandján, élvezze a Swansea-öbölre nyíló lenyűgöző kilátást, és vegyen egy fagyit a sétányon sétálva.",
+            "ro": "Plimbați-vă pe una dintre cele mai lungi plaje de nisip din Țara Galilor, admirați golful Swansea și cumpărați o înghețată de la un vânzător local.",
+            "en": "Stroll along one of Wales' longest sandy beaches to take in spectacular views of Swansea Bay, and grab an ice cream from a nearby promenade vendor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt im Norden an der alten Hügelfestung Pen-y-Castell, die weite Panoramen bietet.\n\nMittags tauchen Sie in die üppigen Wälder des Afan Forest Parks ein, bevor Sie nach Süden zum Margam Country Park fahren.\n\nDen Nachmittag verbringen Sie damit, Margam Castle zu bewundern und an den riesigen Stahlwerken vorbeizufahren.\n\nIhr Tag endet am Sandstrand von Aberavon Beach, wo die abendliche Flut einen perfekten, entspannten Abschluss bietet.",
+        "hu": "Kezdje festői autózását északon, az ősi Pen-y-Castell hegyi erődítménynél, amely lenyűgöző völgyi panorámát kínál.\n\nDélben az Afan Erdőpark buja erdeiben találja magát, mielőtt dél felé indulna a Margam Vidéki Parkba.\n\nA délutánt a Margam Kastély gótikus építészetének megcsodálásával és a kolosszális acélművek melletti autózással tölti.\n\nA nap az Aberavon strand homokján ér véget, ahol az esti dagály tökéletes, pihentető befejezést nyújt.",
+        "ro": "Începeți-vă plimbarea pitorească spre nord la antica fortăreață Pen-y-Castell, oferind panorame largi ale văii.\n\nLa prânz, pătrundeți în pădurile luxuriante ale Parcului Forestier Afan înainte de a vă îndrepta spre Parcul Margam.\n\nDupă-amiaza este petrecută admirând arhitectura castelului Margam și trecând pe lângă colosala oțelărie locală.\n\nZiua se încheie pe nisipurile plajei Aberavon, unde valurile de seară oferă un final perfect și relaxant.",
+        "en": "Start your scenic drive up north at the ancient Pen-y-Castell hill fort, offering sweeping valley panoramas.\n\nMidday finds you delving into the lush woodlands of Afan Forest Park before heading south to Margam Country Park.\n\nThe afternoon is spent admiring the Gothic architecture of Margam Castle and driving past the colossal steelworks.\n\nYour day concludes on the sands of Aberavon Beach, where the evening tide provides a perfect, relaxing finish."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "istres",
+  "anchor": {
+    "name": "Istres",
+    "coords": [
+      4.9889,
+      43.5142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 1.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oppidum du Castellan",
+            "hu": "Oppidum du Castellan",
+            "ro": "Oppidum du Castellan",
+            "en": "Oppidum du Castellan"
+          },
+          "coords": [
+            4.98796,
+            43.5127
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Hügelruinen für einen Panoramablick; tragen Sie festes Schuhwerk, da der felsige Weg nach oben ziemlich uneben sein kann.",
+            "hu": "Fedezze fel ezeket az ősi romokat a panoráma és a történelem miatt; viseljen kényelmes cipőt, mivel a köves ösvény meglehetősen meredek és egyenetlen.",
+            "ro": "Explorați aceste ruine antice pentru priveliști panoramice și istorie profundă; purtați încălțăminte robustă, deoarece poteca stâncoasă este abruptă.",
+            "en": "Explore these ancient hill ruins for panoramic views and deep history; wear sturdy shoes as the rocky path up the hill can be quite uneven and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame-de-Beauvoir",
+            "hu": "Church of Notre-Dame-de-Beauvoir",
+            "ro": "Church of Notre-Dame-de-Beauvoir",
+            "en": "Church of Notre-Dame-de-Beauvoir"
+          },
+          "coords": [
+            4.988483,
+            43.513771
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser Hügelkirche und kommen Sie am besten früh morgens, um die friedliche Atmosphäre in Ruhe zu genießen.",
+            "hu": "Csodálja meg e dombtetőn álló templom gyönyörű román kori építészetét, és érkezzen korán, hogy elkerülje a tömeget a békés környezetben.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici pe deal și veniți dimineața devreme pentru a vă bucura de atmosfera pașnică fără aglomerație.",
+            "en": "Admire the beautiful Romanesque architecture of this hilltop church, and try to visit early in the day to enjoy the peaceful atmosphere without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre de l'Olivier",
+            "hu": "Theatre de l'Olivier",
+            "ro": "Theatre de l'Olivier",
+            "en": "Theatre de l'Olivier"
+          },
+          "coords": [
+            4.987852,
+            43.515363
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die moderne Fassade dieses Kulturzentrums und prüfen Sie das Programm vorab online, um vielleicht eine Abendvorstellung zu besuchen.",
+            "hu": "Értékelje e központi kulturális csomópont modern homlokzatát; érdemes előre megnézni az online műsort, hátha elcsíphet egy esti előadást itt.",
+            "ro": "Apreciați fațada modernă a acestui centru cultural central; verificați programul online în prealabil pentru a prinde o reprezentație de seară.",
+            "en": "Appreciate the modern facade of this central cultural hub; check their current program online beforehand to see if you can catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sulpice",
+            "hu": "Chapelle Saint-Sulpice",
+            "ro": "Chapelle Saint-Sulpice",
+            "en": "Chapelle Saint-Sulpice"
+          },
+          "coords": [
+            4.986458,
+            43.516825
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese bezaubernde Kapelle aus dem 11. Jahrhundert beherbergt oft Kunstausstellungen, werfen Sie einen Blick hinein für Geschichte und moderne Werke.",
+            "hu": "Ez a bájos, 11. századi kápolna gyakran ad otthont helyi művészeti kiállításoknak, így a történelem és a kortárs művek egyszerre csodálhatók meg itt.",
+            "ro": "Această capelă fermecătoare din secolul 11 găzduiește adesea expoziții de artă locale, așa că intrați pentru a vedea atât istorie, cât și artă.",
+            "en": "This charmingly preserved 11th-century chapel often hosts intimate local art exhibitions, so step inside to see both history and contemporary works."
+          }
+        },
+        {
+          "name": {
+            "de": "Art Zoo",
+            "hu": "Art Zoo",
+            "ro": "Art Zoo",
+            "en": "Art Zoo"
+          },
+          "coords": [
+            4.987789,
+            43.516695
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die skurrilen und bunten Tierskulpturen, die fantastische Fotomotive bieten; bringen Sie am besten eine Kamera mit Weitwinkelobjektiv mit.",
+            "hu": "Csodálja meg a mókás és színes állatszobrokat, amelyek remek fotótémát nyújtanak; érdemes nagylátószögű lencsével felszerelt fényképezőgépet hozni.",
+            "ro": "Minunați-vă de sculpturile colorate și excentrice de animale, perfecte pentru poze; aduceți o cameră foto cu un obiectiv cu unghi larg.",
+            "en": "Marvel at the quirky and colorful animal sculptures scattered around, making it a fantastic photo opportunity—bring a camera with a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaur'Istres",
+            "hu": "Dinosaur'Istres",
+            "ro": "Dinosaur'Istres",
+            "en": "Dinosaur'Istres"
+          },
+          "coords": [
+            4.990673,
+            43.517965
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen lebensgroßen Dinosauriermodellen im Kiefernwald; schnappen Sie sich am Eingang eine Karte, um den T-Rex nicht zu verpassen.",
+            "hu": "Sétáljon az életnagyságú dinoszaurusz modellek között a fenyőerdőben; kérjen ingyenes térképet a bejáratnál, hogy ne maradjon le a T-Rexről sem.",
+            "ro": "Plimbați-vă printre modelele impresionante de dinozauri din pădurea de pini; luați o hartă gratuită de la intrare pentru a nu rata faimosul T-Rex.",
+            "en": "Walk among impressive life-sized dinosaur models hidden in a pine forest; grab a free map at the entrance to ensure you don't miss the T-Rex display."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jet d'eau",
+            "hu": "Le Jet d'eau",
+            "ro": "Le Jet d'eau",
+            "en": "Le Jet d'eau"
+          },
+          "coords": [
+            4.987202,
+            43.519918
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie diese hoch aufragende Wasserfontäne auf dem See und stellen Sie sich etwas gegen den Wind, um vom Nachmittagsnebel nicht nass zu werden.",
+            "hu": "Tekintse meg a tavon hihetetlen magasságokba lövellő szökőkutat, és álljon a széllel szemben, hogy elkerülje a délutáni frissítő vízpermetet.",
+            "ro": "Priviți fântâna arteziană impresionantă de pe lac și stați ușor contra vântului pentru a evita să fiți stropit de ceața fină de apă.",
+            "en": "Witness this towering water fountain that reaches incredible heights on the lake, and stand slightly upwind to avoid getting sprayed by the afternoon mist."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am alten Oppidum du Castellan, wo Sie die historischen Wurzeln von Istres erkunden, gefolgt von der Kirche Notre-Dame-de-Beauvoir. Mittags spazieren Sie am kulturellen Theatre de l'Olivier und der charmanten Chapelle Saint-Sulpice vorbei. Nachmittags locken der skurrile Art Zoo und die lebensgroßen Figuren im Dinosaur'Istres. Der Abend endet friedlich am spektakulären Springbrunnen Le Jet d'eau.",
+        "hu": "A reggel az ősi Oppidum du Castellan felfedezésével indul, majd a Notre-Dame-de-Beauvoir templom nyújt csendes pihenőt. Délben a Theatre de l'Olivier és a bájos Chapelle Saint-Sulpice kulturális értékeit csodálhatja meg. Délután a különleges Art Zoo és a Dinosaur'Istres életnagyságú dinoszauruszai várják a látogatókat. Az este a tavon lévő látványos Le Jet d'eau szökőkútnál zárul békés hangulatban.",
+        "ro": "Dimineața începe la vechiul Oppidum du Castellan, explorând istoria din Istres, urmată de o vizită liniștită la Biserica Notre-Dame-de-Beauvoir. La amiază, treceți pe lângă Teatrul de l'Olivier și fermecătoarea Capelă Saint-Sulpice. După-amiaza vă aduce la ineditul Art Zoo și printre dinozaurii în mărime naturală de la Dinosaur'Istres. Seara se încheie liniștit lângă spectaculosul Le Jet d'eau de pe lac.",
+        "en": "Morning starts at the ancient Oppidum du Castellan, exploring the historic roots of Istres before a quiet visit to the Church of Notre-Dame-de-Beauvoir. Midday brings you past the cultural Theatre de l'Olivier and the charming Chapelle Saint-Sulpice in the town center. In the afternoon, enjoy the whimsical Art Zoo and discover life-sized dinosaurs hidden at Dinosaur'Istres. The evening concludes peacefully by the spectacular Le Jet d'eau on the lake."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de Jeux du Près Castel",
+            "hu": "Aire de Jeux du Près Castel",
+            "ro": "Aire de Jeux du Près Castel",
+            "en": "Aire de Jeux du Près Castel"
+          },
+          "coords": [
+            4.980415,
+            43.503778
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem familienfreundlichen Park mit viel Schatten und packen Sie ein kleines Picknick ein, um es auf dem Gras zu genießen.",
+            "hu": "Pihenjen ebben a tágas, családbarát parkban, ahol sok az árnyék; hozzon magával egy kis pikniket, amit a füvön ülve fogyaszthat el a délelőtt folyamán.",
+            "ro": "Relaxați-vă în acest parc spațios și umbrit pentru familii și pregătiți un mic picnic de care să vă bucurați pe iarbă în timpul pauzei de dimineață.",
+            "en": "Relax in this spacious family-friendly park featuring plenty of shade, and pack a small picnic to enjoy on the grass while taking a morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon de Grignan",
+            "hu": "Pavillon de Grignan",
+            "ro": "Pavillon de Grignan",
+            "en": "Pavillon de Grignan"
+          },
+          "coords": [
+            4.982929,
+            43.515454
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Anwesen aus dem 17. Jahrhundert mit seiner klassischen Architektur; schlendern Sie durch die gepflegten, kostenlosen Gärten.",
+            "hu": "Látogasson el ebbe az elegáns 17. századi birtokba a klasszikus francia építészetért; sétáljon végig a gondozott kertjén, amely teljesen ingyenes.",
+            "ro": "Vizitați acest domeniu elegant din secolul 17 pentru arhitectura clasică franceză; plimbați-vă prin grădinile sale îngrijite care au intrare gratuită.",
+            "en": "Visit this elegant 17th-century estate to appreciate classical French architecture; walk around its manicured gardens which are completely free to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame-de-Beauvoir",
+            "hu": "Church of Notre-Dame-de-Beauvoir",
+            "ro": "Church of Notre-Dame-de-Beauvoir",
+            "en": "Church of Notre-Dame-de-Beauvoir"
+          },
+          "coords": [
+            4.988483,
+            43.513771
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser Hügelkirche und kommen Sie am besten früh morgens, um die friedliche Atmosphäre in Ruhe zu genießen.",
+            "hu": "Csodálja meg e dombtetőn álló templom gyönyörű román kori építészetét, és érkezzen korán, hogy elkerülje a tömeget a békés környezetben.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici pe deal și veniți dimineața devreme pentru a vă bucura de atmosfera pașnică fără aglomerație.",
+            "en": "Admire the beautiful Romanesque architecture of this hilltop church, and try to visit early in the day to enjoy the peaceful atmosphere without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaur'Istres",
+            "hu": "Dinosaur'Istres",
+            "ro": "Dinosaur'Istres",
+            "en": "Dinosaur'Istres"
+          },
+          "coords": [
+            4.990673,
+            43.517965
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen lebensgroßen Dinosauriermodellen im Kiefernwald; schnappen Sie sich am Eingang eine Karte, um den T-Rex nicht zu verpassen.",
+            "hu": "Sétáljon az életnagyságú dinoszaurusz modellek között a fenyőerdőben; kérjen ingyenes térképet a bejáratnál, hogy ne maradjon le a T-Rexről sem.",
+            "ro": "Plimbați-vă printre modelele impresionante de dinozauri din pădurea de pini; luați o hartă gratuită de la intrare pentru a nu rata faimosul T-Rex.",
+            "en": "Walk among impressive life-sized dinosaur models hidden in a pine forest; grab a free map at the entrance to ensure you don't miss the T-Rex display."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de l'Olivier",
+            "hu": "Étang de l'Olivier",
+            "ro": "Étang de l'Olivier",
+            "en": "Étang de l'Olivier"
+          },
+          "coords": [
+            4.990556,
+            43.525556
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen See mit seinen malerischen Wegen und mieten Sie ein kleines Tretboot, um das ruhige Wasser in Ihrem Tempo zu erkunden.",
+            "hu": "Sétáljon egyet e nagy, nyugodt tó körül a festői ösvényeken, és béreljen vizibiciklit, ha a saját tempójában szeretné felfedezni a békés vizeket.",
+            "ro": "Plimbați-vă în jurul acestui lac mare și liniștit și închiriați o hidrobicicletă dacă doriți să explorați apele calme în propriul ritm.",
+            "en": "Stroll around this large, tranquil lake bordered by scenic walkways, and rent a small pedalo if you want to explore the calm waters at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Romaniquette",
+            "hu": "Plage de la Romaniquette",
+            "ro": "Plage de la Romaniquette",
+            "en": "Plage de la Romaniquette"
+          },
+          "coords": [
+            5.000221,
+            43.510028
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie eine sonnige Pause an diesem kleinen Sandstrand am Etang de Berre; bringen Sie ein Handtuch mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze a napsütést ezen a kis homokos strandon az Etang de Berre partján; hozzon saját törölközőt és rágcsálnivalót, mivel kevés a szolgáltatás.",
+            "ro": "Bucurați-vă de o pauză însorită pe această mică plajă cu nisip; aduceți propriul prosop și gustări, deoarece facilitățile pot fi destul de limitate.",
+            "en": "Enjoy a sunny break on this pleasant little sandy beach by the Etang de Berre; bring your own beach towel and snacks as facilities can be quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im grünen Aire de Jeux du Près Castel, bevor Sie zum eleganten Pavillon de Grignan radeln. Mittags erreichen Sie die Altstadt und bewundern die Kirche Notre-Dame-de-Beauvoir. Der Nachmittag bietet eine Fahrt durch den einzigartigen Park Dinosaur'Istres und entlang der malerischen Ufer des Étang de l'Olivier. Lassen Sie den Tag entspannt am Wasser am Plage de la Romaniquette ausklingen.",
+        "hu": "Kezdje a biciklis napot a zöldellő Aire de Jeux du Près Castel parkban, majd tekerjen fel az elegáns Pavillon de Grignan-hoz. Délben érkezzen az óvárosba, és csodálja meg a Notre-Dame-de-Beauvoir templomot. A délután során tekerjen át a Dinosaur'Istres parkon és az Étang de l'Olivier festői partjain. A nap a Plage de la Romaniquette vízparti pihenőjével ér véget.",
+        "ro": "Începeți ziua de ciclism la verdele Aire de Jeux du Près Castel, înainte de a pedala spre elegantul Pavillon de Grignan. La amiază, ajungeți în orașul vechi pentru a admira Biserica Notre-Dame-de-Beauvoir. După-amiaza vă oferă o plimbare prin parcul Dinosaur'Istres și pe malurile pitorești ale Étang de l'Olivier. Ziua se încheie relaxant pe plaja Plage de la Romaniquette.",
+        "en": "Kick off your cycling day at the green Aire de Jeux du Près Castel before pedaling up to the elegant Pavillon de Grignan. By midday, roll into the old town to admire the architecture of the Church of Notre-Dame-de-Beauvoir. The afternoon offers a ride through the unique park of Dinosaur'Istres and around the scenic shores of Étang de l'Olivier. Your day winds down relaxing by the water at Plage de la Romaniquette."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 9.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Port des Heures Claires",
+            "hu": "Port des Heures Claires",
+            "ro": "Port des Heures Claires",
+            "en": "Port des Heures Claires"
+          },
+          "coords": [
+            4.999048,
+            43.496964
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote in diesem malerischen Yachthafen und trinken Sie einen Kaffee in einem nahegelegenen Café am Wasser, um die Aussicht zu genießen.",
+            "hu": "Figyelje a ringatózó csónakokat ebben a hangulatos kikötőben, és igyon egy kávét egy közeli vízparti kávézóban, hogy kiélvezze a csodás kilátást.",
+            "ro": "Priviți bărcile locale în acest port pitoresc care reflectă atmosfera nautică și savurați o cafea la o cafenea pe malul apei pentru a admira priveliștea.",
+            "en": "Watch the local boats bob in this quaint marina that reflects the region's nautical vibe, and grab a coffee at a nearby waterside cafe to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Magic Mirrors",
+            "hu": "Magic Mirrors",
+            "ro": "Magic Mirrors",
+            "en": "Magic Mirrors"
+          },
+          "coords": [
+            4.996424,
+            43.499678
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen runden Veranstaltungsraum aus Holz und Spiegeln, und prüfen Sie lokale Programme, um ihn wunderschön von innen beleuchtet zu sehen.",
+            "hu": "Lépjen be ebbe a fából és tükrökből épült, egyedi, kör alakú rendezvénytérbe; érdemes megnézni egy esti programon, amikor gyönyörűen ki van világítva.",
+            "ro": "Intrați în acest spațiu rotund unic construit din lemn și oglinzi, dar verificați lista de evenimente locale pentru a-l vedea frumos iluminat în interior.",
+            "en": "Step into this unique circular event space constructed from wood and mirrors, but be sure to check local event listings to see it beautifully lit up inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Romaniquette",
+            "hu": "Plage de la Romaniquette",
+            "ro": "Plage de la Romaniquette",
+            "en": "Plage de la Romaniquette"
+          },
+          "coords": [
+            5.000221,
+            43.510028
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine sonnige Pause an diesem kleinen Sandstrand am Etang de Berre; bringen Sie ein Handtuch mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze a napsütést ezen a kis homokos strandon az Etang de Berre partján; hozzon saját törölközőt és rágcsálnivalót, mivel kevés a szolgáltatás.",
+            "ro": "Bucurați-vă de o pauză însorită pe această mică plajă cu nisip; aduceți propriul prosop și gustări, deoarece facilitățile pot fi destul de limitate.",
+            "en": "Enjoy a sunny break on this pleasant little sandy beach by the Etang de Berre; bring your own beach towel and snacks as facilities can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum du Castellan",
+            "hu": "Oppidum du Castellan",
+            "ro": "Oppidum du Castellan",
+            "en": "Oppidum du Castellan"
+          },
+          "coords": [
+            4.98796,
+            43.5127
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Hügelruinen für einen Panoramablick; tragen Sie festes Schuhwerk, da der felsige Weg nach oben ziemlich uneben sein kann.",
+            "hu": "Fedezze fel ezeket az ősi romokat a panoráma és a történelem miatt; viseljen kényelmes cipőt, mivel a köves ösvény meglehetősen meredek és egyenetlen.",
+            "ro": "Explorați aceste ruine antice pentru priveliști panoramice și istorie profundă; purtați încălțăminte robustă, deoarece poteca stâncoasă este abruptă.",
+            "en": "Explore these ancient hill ruins for panoramic views and deep history; wear sturdy shoes as the rocky path up the hill can be quite uneven and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon de Grignan",
+            "hu": "Pavillon de Grignan",
+            "ro": "Pavillon de Grignan",
+            "en": "Pavillon de Grignan"
+          },
+          "coords": [
+            4.982929,
+            43.515454
+          ],
+          "category": "cultural",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Anwesen aus dem 17. Jahrhundert mit seiner klassischen Architektur; schlendern Sie durch die gepflegten, kostenlosen Gärten.",
+            "hu": "Látogasson el ebbe az elegáns 17. századi birtokba a klasszikus francia építészetért; sétáljon végig a gondozott kertjén, amely teljesen ingyenes.",
+            "ro": "Vizitați acest domeniu elegant din secolul 17 pentru arhitectura clasică franceză; plimbați-vă prin grădinile sale îngrijite care au intrare gratuită.",
+            "en": "Visit this elegant 17th-century estate to appreciate classical French architecture; walk around its manicured gardens which are completely free to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de l'Olivier",
+            "hu": "Étang de l'Olivier",
+            "ro": "Étang de l'Olivier",
+            "en": "Étang de l'Olivier"
+          },
+          "coords": [
+            4.990556,
+            43.525556
+          ],
+          "category": "natural",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen See mit seinen malerischen Wegen und mieten Sie ein kleines Tretboot, um das ruhige Wasser in Ihrem Tempo zu erkunden.",
+            "hu": "Sétáljon egyet e nagy, nyugodt tó körül a festői ösvényeken, és béreljen vizibiciklit, ha a saját tempójában szeretné felfedezni a békés vizeket.",
+            "ro": "Plimbați-vă în jurul acestui lac mare și liniștit și închiriați o hidrobicicletă dacă doriți să explorați apele calme în propriul ritm.",
+            "en": "Stroll around this large, tranquil lake bordered by scenic walkways, and rent a small pedalo if you want to explore the calm waters at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Istres-Le Tubé Air Base",
+            "hu": "Istres-Le Tubé Air Base",
+            "ro": "Istres-Le Tubé Air Base",
+            "en": "Istres-Le Tubé Air Base"
+          },
+          "coords": [
+            4.941667,
+            43.524444
+          ],
+          "category": "civic",
+          "arrive_at": "15:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erhaschen Sie einen Blick auf die französische Luftfahrtgeschichte am Rande dieses massiven Flugplatzes; halten Sie sicher an ausgewiesenen Aussichtspunkten.",
+            "hu": "Nyerjen bepillantást a francia repülés történetébe a hatalmas repülőtér pereméről; húzódjon le biztonságosan a kijelölt kilátópontoknál a kerítésen kívül.",
+            "ro": "Aruncați o privire la istoria aviației franceze la perimetrul acestui aerodrom masiv; trageți pe dreapta în siguranță la punctele de belvedere desemnate.",
+            "en": "Get a glimpse of France's rich aviation history at the perimeter of this massive airfield; pull over safely at designated viewpoints outside the fence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am lebhaften Port des Heures Claires und besuchen Sie die modernen Magic Mirrors. Mittags machen Sie eine sonnige Pause am Plage de la Romaniquette, bevor Sie hinauf zum Oppidum du Castellan fahren. Nachmittags locken der Pavillon de Grignan und eine malerische Fahrt um den Étang de l'Olivier. Beenden Sie den Tag mit einem Blick auf die beeindruckende Istres-Le Tubé Air Base.",
+        "hu": "Autós túráját a nyüzsgő Port des Heures Claires-nél kezdje, majd nézze meg a közeli Magic Mirrors épületét. Délben pihenjen a Plage de la Romaniquette napos partján, mielőtt felhajtana az Oppidum du Castellan történelmi magaslatára. Délután látogasson el a Pavillon de Grignan-hoz és autózzon egyet az Étang de l'Olivier körül. Zárásként tekintse meg távolról az Istres-Le Tubé légitámaszpontot.",
+        "ro": "Începeți turul cu mașina la portul plin de viață Port des Heures Claires și vizitați modernul Magic Mirrors. La amiază, luați o pauză însorită la Plage de la Romaniquette, înainte de a urca spre Oppidum du Castellan. După-amiaza, explorați culturalul Pavillon de Grignan și conduceți în jurul lacului Étang de l'Olivier. Terminați cu o privire spre impresionanta bază aeriană Istres-Le Tubé.",
+        "en": "Start your driving tour at the bustling Port des Heures Claires and check out the modern Magic Mirrors nearby. Midday allows for a sunny break at Plage de la Romaniquette before driving up to the historic heights of Oppidum du Castellan. In the afternoon, visit the culturally rich Pavillon de Grignan and take a scenic drive around Étang de l'Olivier. Finish with a view of the impressive Istres-Le Tubé Air Base from a safe distance."
+      }
+    }
+  }
+}

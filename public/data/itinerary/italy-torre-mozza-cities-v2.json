@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-torre-mozza-cities-v2",
+  "anchor": {
+    "name": "Torre Mozza",
+    "coords": [
+      18.1632,
+      39.86017
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Mozza",
+            "hu": "Torre Mozza",
+            "ro": "Torre Mozza",
+            "en": "Torre Mozza"
+          },
+          "coords": [
+            18.164809,
+            39.858232
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Küstenwachturm aus dem 16. Jahrhundert, der der Stadt ihren Namen gibt, und kommen Sie früh, um die Steinfassade im Morgenlicht zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi őrtornyot, amely a város nevét adta, és érkezzen korán, hogy a reggeli fényben fürdő kőhomlokzatot zavartalanul lefotózhassa.",
+            "ro": "Admirați turnul de veghe de coastă din secolul al XVI-lea care dă numele orașului și ajungeți devreme pentru a fotografia fațada de piatră în lumina dimineții.",
+            "en": "Admire the striking 16th-century coastal watchtower that gives the town its name, and arrive early to photograph its stone facade bathed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Sol",
+            "hu": "Playa del Sol",
+            "ro": "Playa del Sol",
+            "en": "Playa del Sol"
+          },
+          "coords": [
+            18.163423,
+            39.858846
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses beliebten Strandclubs, in dem Sie in den Hochsommermonaten unbedingt im Voraus eine Liege mieten sollten.",
+            "hu": "Pihenjen ennek a népszerű strandklubnak a finom aranyhomokján, ahol a nyári főszezonban mindenképpen érdemes előre napágyat bérelnie.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestui club de plajă popular, unde cu siguranță ar trebui să închiriați un șezlong în avans în lunile de vară de vârf.",
+            "en": "Relax on the fine golden sand of this popular beach club, where you should definitely rent a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mania",
+            "hu": "Lido Mania",
+            "ro": "Lido Mania",
+            "en": "Lido Mania"
+          },
+          "coords": [
+            18.162149,
+            39.859211
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre und das klare, flache Wasser, das sich perfekt zum Schwimmen eignet, aber denken Sie daran, Bargeld für den kleinen Kiosk am Meer mitzubringen.",
+            "hu": "Élvezze a nyüzsgő hangulatot és az úszásra kiválóan alkalmas, tiszta, sekély vizet, de ne felejtsen el készpénzt hozni a tengerparti kisbódéba.",
+            "ro": "Experimentați atmosfera plină de viață și apele limpezi, puțin adânci, perfecte pentru înot, dar nu uitați să aduceți numerar pentru chioșcul mic de la malul mării.",
+            "en": "Experience the lively atmosphere and clear shallow waters perfect for swimming, but remember to bring cash for the small seaside kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia d'oro",
+            "hu": "Baia d'oro",
+            "ro": "Baia d'oro",
+            "en": "Baia d'oro"
+          },
+          "coords": [
+            18.159426,
+            39.859795
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das unberührte ionische Wasser an dieser 'Goldenen Bucht' und packen Sie eine Schnorchelmaske ein, um die Meeresbewohner in der Nähe der felsigen Ränder zu erkunden.",
+            "hu": "Élvezze az érintetlen jón-tengeri vizeket ezen az 'Arany-öblön', és mindenképpen pakoljon be egy búvármaszkot, hogy felfedezze a sziklás szélek tengeri élővilágát.",
+            "ro": "Bucurați-vă de apele ionice curate din acest 'Golf de Aur', asigurându-vă că împachetați o mască de snorkeling pentru a explora viața marină de lângă marginile stâncoase.",
+            "en": "Enjoy the pristine Ionian waters at this 'Golden Bay', making sure to pack a snorkeling mask to explore the vibrant marine life near the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale Litorale di Ugento",
+            "hu": "Parco Naturale Regionale Litorale di Ugento",
+            "ro": "Parco Naturale Regionale Litorale di Ugento",
+            "en": "Parco Naturale Regionale Litorale di Ugento"
+          },
+          "coords": [
+            18.164382,
+            39.873767
+          ],
+          "category": "natural",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte mediterrane Macchia und die Pinienwälder dieses geschützten Naturschutzgebiets und halten Sie auf den Wegen Ausschau nach einheimischen Zugvögeln.",
+            "hu": "Túrázzon a védett természetvédelmi terület békés mediterrán cserjésein és fenyőerdein keresztül, és séta közben tartsa nyitva a szemét a helyi vándormadarak után.",
+            "ro": "Faceți o drumeție prin tufișurile mediteraneene și pădurile de pini din această rezervație naturală protejată, fiind atenți la păsările migratoare locale de-a lungul traseelor.",
+            "en": "Hike through the serene Mediterranean scrublands and pine forests of this protected nature reserve, keeping an eye out for local migratory birds along the trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am historischen Torre Mozza, einem alten Wehrturm, der stolz am Meer steht. Nachdem Sie dieses architektonische Juwel erkundet haben, begeben Sie sich an den einladenden Sandstrand von Playa del Sol, um sich früh zu entspannen.\nWenn der Tag wärmer wird, machen Sie sich auf den Weg zum Lido Mania, einem belebten Ort, der sich perfekt für ein erfrischendes Bad im Ionischen Meer eignet. Das kristallklare Wasser bietet eine idyllische Kulisse.\nAm Nachmittag geht die Reise entlang der Küste weiter zur Baia d'oro. Diese malerische Bucht bietet eine ruhige Atmosphäre, in der Sie sich vollkommen entspannen und die unberührte Küstenschönheit des Salento genießen können.\nBeenden Sie Ihren Rundgang mit einer friedlichen Wanderung in den Parco Naturale Regionale Litorale di Ugento. Die ruhigen Pinienwälder und die mediterrane Macchia bieten einen ruhigen Abendrückzugsort.",
+        "hu": "A reggel a történelmi Torre Mozza-nál kezdődik, egy ősi védelmi toronynál, amely büszkén áll a tenger mellett. Ezen építészeti gyöngyszem felfedezése után a Playa del Sol hívogató homokjára vált, egy kis korai pihenésre.\nAhogy a nap felmelegszik, a Lido Mania felé veszi az irányt, amely tökéletes egy frissítő csobbanásra a Jón-tengerben. A sekély, kristálytiszta vizek idilli déli környezetet biztosítanak az úszáshoz és a napozáshoz.\nDélután az utazás a part mentén folytatódik a Baia d'oro felé. Ez a festői öböl nyugodt légkört kínál, lehetővé téve, hogy teljesen ellazuljon, miközben élvezi a Salento régió érintetlen tengerparti szépségét.\nZárja a gyalogtúrát egy békés túrával a Parco Naturale Regionale Litorale di Ugento területére. A békés fenyőerdők és a mediterrán cserjések csendes esti menedéket kínálnak az érintetlen természetben.",
+        "ro": "Dimineața începe la istoricul Torre Mozza, un vechi turn de apărare care se înalță mândru lângă mare. După ce veți explora această bijuterie arhitecturală, veți trece la nisipurile îmbietoare ale Playa del Sol pentru o relaxare timpurie.\nPe măsură ce ziua se încălzește, vă veți îndrepta spre Lido Mania, un loc plin de viață, perfect pentru o baie răcoritoare în Marea Ionică. Apele cristaline de aici oferă un cadru idilic pentru înot și plajă.\nDupă-amiaza, călătoria continuă de-a lungul coastei spre Baia d'oro. Acest golf pitoresc oferă o atmosferă liniștită, permițându-vă să vă relaxați complet, bucurându-vă de frumusețea coastei din Salento.\nÎncheiați turul pietonal cu o drumeție pașnică în Parco Naturale Regionale Litorale di Ugento. Pădurile liniștite de pini și tufișurile mediteraneene oferă o retragere liniștită seara.",
+        "en": "Your morning begins at the historic Torre Mozza, an ancient defensive tower standing proudly by the sea. After exploring this architectural gem, you will transition to the inviting sands of Playa del Sol for some early relaxation.\nAs the day warms up, you will make your way to Lido Mania, a bustling spot perfect for a refreshing dip in the Ionian Sea. The shallow, crystal-clear waters here provide an idyllic midday setting for swimming and sunbathing.\nIn the afternoon, the journey continues along the shore to Baia d'oro. This picturesque bay offers a tranquil atmosphere, allowing you to fully unwind while enjoying the pristine coastal beauty of the Salento region.\nConclude your walking tour with a peaceful hike into the Parco Naturale Regionale Litorale di Ugento. The serene pine forests and Mediterranean scrubland offer a quiet evening retreat amidst untouched natural splendor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Mozza",
+            "hu": "Torre Mozza",
+            "ro": "Torre Mozza",
+            "en": "Torre Mozza"
+          },
+          "coords": [
+            18.164809,
+            39.858232
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Küstenwachturm aus dem 16. Jahrhundert, der der Stadt ihren Namen gibt, und kommen Sie früh, um die Steinfassade im Morgenlicht zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi őrtornyot, amely a város nevét adta, és érkezzen korán, hogy a reggeli fényben fürdő kőhomlokzatot zavartalanul lefotózhassa.",
+            "ro": "Admirați turnul de veghe de coastă din secolul al XVI-lea care dă numele orașului și ajungeți devreme pentru a fotografia fațada de piatră în lumina dimineții.",
+            "en": "Admire the striking 16th-century coastal watchtower that gives the town its name, and arrive early to photograph its stone facade bathed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Playa Blanca",
+            "hu": "Lido Playa Blanca",
+            "ro": "Lido Playa Blanca",
+            "en": "Lido Playa Blanca"
+          },
+          "coords": [
+            18.178707,
+            39.850768
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem strahlend weißen Sandstrand, wo es ein absolutes Muss ist, einen erfrischenden lokalen Eiskaffee an der Strandbar zu probieren.",
+            "hu": "Szívja magába a napsugarakat ezen a ragyogóan fehér homokos partszakaszon, ahol a helyi frissítő jegeskávé megkóstolása a strandbárban kötelező program.",
+            "ro": "Bucurați-vă de soare pe această porțiune de nisip alb strălucitor, unde este obligatoriu să încercați o cafea cu gheață locală revigorantă la barul de pe plajă.",
+            "en": "Soak up the sun at this brilliantly white sandy stretch, where trying a refreshing local iced coffee at the beach bar is an absolute must."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravezzo Beach",
+            "hu": "Ravezzo Beach",
+            "ro": "Ravezzo Beach",
+            "en": "Ravezzo Beach"
+          },
+          "coords": [
+            18.181556,
+            39.850458
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigeren, malerischen Küstenabschnitt, der sich ideal für ungestörte Entspannung eignet, und bringen Sie Ihren eigenen Sonnenschirm mit, da natürlicher Schatten hier selten ist.",
+            "hu": "Fedezze fel a partvonal ezen csendesebb, festői szakaszát, amely ideális a zavartalan pihenéshez, és hozzon magával napernyőt, mivel a természetes árnyék itt meglehetősen ritka.",
+            "ro": "Descoperiți această felie de coastă mai liniștită și pitorească, ideală pentru o relaxare neîntreruptă, și aduceți-vă propria umbrelă, deoarece umbra naturală este destul de rară aici.",
+            "en": "Discover this quieter, scenic slice of the coast ideal for uninterrupted relaxation, and bring your own umbrella as natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "La Giurlita",
+            "hu": "La Giurlita",
+            "ro": "La Giurlita",
+            "en": "La Giurlita"
+          },
+          "coords": [
+            18.15798,
+            39.86029
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dem weitläufigen Strand entlang, der für sein familienfreundliches, flaches Wasser bekannt ist, und nehmen Sie sich einen Moment Zeit, um Muscheln zu sammeln.",
+            "hu": "Sétáljon végig a családbarát sekély vizeiről ismert kiterjedt tengerparton, és szánjon egy percet arra, hogy összegyűjtse az árapályvonal mentén szétszórt egyedi kagylókat.",
+            "ro": "Plimbați-vă de-a lungul plajei extinse, cunoscută pentru apele sale de mică adâncime, ideale pentru familii, și alocați-vă un moment pentru a aduna câteva scoici netede.",
+            "en": "Walk along the extensive beachfront known for its family-friendly shallow waters, and take a moment to collect some of the uniquely smooth seashells scattered along the tide line."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Pineta",
+            "hu": "Lido Pineta",
+            "ro": "Lido Pineta",
+            "en": "Lido Pineta"
+          },
+          "coords": [
+            18.146698,
+            39.864118
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige Kombination aus einem unberührten Strand und einem duftenden Pinienwald, der in den heißesten Stunden des Tages einen perfekten natürlichen Rückzugsort bietet.",
+            "hu": "Élvezze az érintetlen strand és az illatos fenyőerdő egyedi kombinációját, amely tökéletes természetes menedéket kínál a nap legforróbb óráiban.",
+            "ro": "Bucurați-vă de combinația unică dintre o plajă virgină și o pădure parfumată de pini, oferind o retragere naturală perfectă în timpul celor mai fierbinți ore ale zilei.",
+            "en": "Enjoy the unique combination of a pristine beach backed by a fragrant pine forest, offering a perfect natural retreat during the hottest hours of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale Litorale di Ugento",
+            "hu": "Parco Naturale Regionale Litorale di Ugento",
+            "ro": "Parco Naturale Regionale Litorale di Ugento",
+            "en": "Parco Naturale Regionale Litorale di Ugento"
+          },
+          "coords": [
+            18.164382,
+            39.873767
+          ],
+          "category": "natural",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte mediterrane Macchia und die Pinienwälder dieses geschützten Naturschutzgebiets und halten Sie auf den Wegen Ausschau nach einheimischen Zugvögeln.",
+            "hu": "Túrázzon a védett természetvédelmi terület békés mediterrán cserjésein és fenyőerdein keresztül, és séta közben tartsa nyitva a szemét a helyi vándormadarak után.",
+            "ro": "Faceți o drumeție prin tufișurile mediteraneene și pădurile de pini din această rezervație naturală protejată, fiind atenți la păsările migratoare locale de-a lungul traseelor.",
+            "en": "Hike through the serene Mediterranean scrublands and pine forests of this protected nature reserve, keeping an eye out for local migratory birds along the trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am legendären Torre Mozza und erkunden Sie seine bewegte Vergangenheit. Von dort aus führt Sie eine luftige Fahrt nach Süden zu den atemberaubenden weißen Sandstränden des Lido Playa Blanca.\nRadeln Sie mittags die kurze Strecke zum Ravezzo Beach, wo die sanften Wellen des Ionischen Meeres zur Abkühlung einladen. Genießen Sie eine gemütliche Pause im Sand, während Sie die leuchtend blauen Farbtöne des Wassers bewundern.\nWenn der Nachmittag näher rückt, führt Ihre Route nach Norden in Richtung La Giurlita und dann zum Lido Pineta. Die Landschaft wechselt allmählich von offenen Stränden zu schattigen Pinienwäldern und bietet eine erfrischende Abwechslung.\nLassen Sie den Tag mit einer Radtour in den Parco Naturale Regionale Litorale di Ugento ausklingen. Die unbefestigten Wege und die reiche Artenvielfalt sorgen für eine magische Abendfahrt mitten in der Natur.",
+        "hu": "Kezdje kerékpáros kalandját az ikonikus Torre Mozza-nál, és fedezze fel történelmi múltját. Innen egy kellemes tengerparti tekerés viszi délre, a Lido Playa Blanca lenyűgöző fehér homokjához.\nDélben pedálozzon el a rövid távolságra lévő Ravezzo Beach-re, ahol a Jón-tenger lágy hullámai hívogatják egy frissítő fürdőzésre. Élvezze a kényelmes pihenést a homokon, miközben gyönyörködik a víz kék árnyalataiban.\nAhogy közeledik a délután, az útvonal észak felé, a La Giurlita, majd a Lido Pineta felé veszi az irányt. A táj fokozatosan nyitott strandokból illatos fenyőfákkal árnyékolt területekké változik, ami üdítő változatosságot kínál.\nZárja a napot egy kerékpározással a Parco Naturale Regionale Litorale di Ugento területén. A burkolatlan ösvények és a gazdag biológiai sokféleség varázslatos esti tekerést biztosítanak a védett természetben.",
+        "ro": "Începeți aventura pe bicicletă la faimosul Torre Mozza, explorând trecutul său plin de istorie. De acolo, o plimbare plăcută vă duce spre sud, spre nisipurile albe uimitoare din Lido Playa Blanca.\nLa prânz, pedalați pe distanța scurtă până la Ravezzo Beach, unde valurile blânde ale Mării Ionice vă invită să vă răcoriți. Bucurați-vă de o odihnă plăcută pe nisip în timp ce admirați nuanțele de albastru ale apei.\nPe măsură ce se apropie după-amiaza, traseul dumneavoastră se îndreaptă spre nord spre La Giurlita și apoi spre Lido Pineta. Peisajul se schimbă treptat de la plaje deschise la zone umbrite de pini aromatici.\nÎncheiați ziua cu bicicleta în Parco Naturale Regionale Litorale di Ugento. Traseele neasfaltate și biodiversitatea bogată fac o plimbare magică seara, complet scufundată în frumusețea ecologică a regiunii.",
+        "en": "Kick off your cycling adventure at the iconic Torre Mozza, exploring its storied past before the coastal heat sets in. From there, a breezy ride takes you southward to the stunning white sands of Lido Playa Blanca.\nBy midday, pedal the short distance to Ravezzo Beach, where the gentle waves of the Ionian Sea invite you to cool off. Enjoy a leisurely rest on the sand as you take in the vibrant blue hues of the surrounding water.\nAs the afternoon approaches, your route heads north towards La Giurlita and then to Lido Pineta. The landscape gradually shifts from open beachfronts to areas shaded by aromatic pine trees, offering a refreshing change of pace.\nWrap up the day by cycling into the Parco Naturale Regionale Litorale di Ugento. The unpaved trails and rich biodiversity make for a magical evening ride, completely immersed in the region's protected ecological beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Mozza",
+            "hu": "Torre Mozza",
+            "ro": "Torre Mozza",
+            "en": "Torre Mozza"
+          },
+          "coords": [
+            18.164809,
+            39.858232
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Küstenwachturm aus dem 16. Jahrhundert, der der Stadt ihren Namen gibt, und kommen Sie früh, um die Steinfassade im Morgenlicht zu fotografieren.",
+            "hu": "Csodálja meg a 16. századi őrtornyot, amely a város nevét adta, és érkezzen korán, hogy a reggeli fényben fürdő kőhomlokzatot zavartalanul lefotózhassa.",
+            "ro": "Admirați turnul de veghe de coastă din secolul al XVI-lea care dă numele orașului și ajungeți devreme pentru a fotografia fațada de piatră în lumina dimineții.",
+            "en": "Admire the striking 16th-century coastal watchtower that gives the town its name, and arrive early to photograph its stone facade bathed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Nereide",
+            "hu": "Lido Nereide",
+            "ro": "Lido Nereide",
+            "en": "Lido Nereide"
+          },
+          "coords": [
+            18.176739,
+            39.851108
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem gut ausgestatteten Strandbad, das für seinen exzellenten Service am Strand bekannt ist, und kommen Sie vor dem Vormittag an, um sich einen Platz direkt am Wasser zu sichern.",
+            "hu": "Kapcsolódjon ki ebben a kiváló tengerparti szolgáltatásairól ismert, jól felszerelt strandfürdőben, és érkezzen még délelőtt, hogy közvetlenül a vízparton biztosítson helyet.",
+            "ro": "Relaxați-vă la acest ștrand bine echipat, cunoscut pentru serviciile excelente de pe plajă, și ajungeți înainte de mijlocul dimineții pentru a vă asigura un loc chiar pe malul apei.",
+            "en": "Unwind at this well-equipped lido known for its excellent beachfront service, and arrive before mid-morning to secure a spot right by the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Balelido",
+            "hu": "Balelido",
+            "ro": "Balelido",
+            "en": "Balelido"
+          },
+          "coords": [
+            18.155933,
+            39.860989
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Ionische Meer von diesem schicken Strandresort aus, wo die Anmietung einer privaten Cabana den ultimativen Luxus an der Küste des Salento bietet.",
+            "hu": "Gyönyörködjön a Jón-tengerre nyíló panorámában ebből az elegáns tengerparti üdülőövezetből, ahol egy privát kabana bérlése a tökéletes salentói luxust kínálja.",
+            "ro": "Bucurați-vă de vederile panoramice ale Mării Ionice din această zonă elegantă de stațiune pe plajă, unde închirierea unei cabane private oferă luxul suprem pe coasta Salento.",
+            "en": "Take in the panoramic views of the Ionian Sea from this chic beach resort area, where renting a private cabana offers the ultimate Salento coastal luxury."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Pineta",
+            "hu": "Lido Pineta",
+            "ro": "Lido Pineta",
+            "en": "Lido Pineta"
+          },
+          "coords": [
+            18.146698,
+            39.864118
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige Kombination aus einem unberührten Strand und einem duftenden Pinienwald, der in den heißesten Stunden des Tages einen perfekten natürlichen Rückzugsort bietet.",
+            "hu": "Élvezze az érintetlen strand és az illatos fenyőerdő egyedi kombinációját, amely tökéletes természetes menedéket kínál a nap legforróbb óráiban.",
+            "ro": "Bucurați-vă de combinația unică dintre o plajă virgină și o pădure parfumată de pini, oferind o retragere naturală perfectă în timpul celor mai fierbinți ore ale zilei.",
+            "en": "Enjoy the unique combination of a pristine beach backed by a fragrant pine forest, offering a perfect natural retreat during the hottest hours of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson Club Apulia",
+            "hu": "Robinson Club Apulia",
+            "ro": "Robinson Club Apulia",
+            "en": "Robinson Club Apulia"
+          },
+          "coords": [
+            18.145705,
+            39.865062
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreichen Freizeiteinrichtungen dieses prominenten Küstenresorts, das als hervorragender Ausgangspunkt für Wanderungen in das angrenzende Naturschutzgebiet Ugento dient.",
+            "hu": "Csodálja meg e kiemelkedő tengerparti üdülőhely kiterjedt szabadidős létesítményeit, amely nagyszerű kiindulópontként szolgál a szomszédos Ugento természetvédelmi területre induló sétákhoz.",
+            "ro": "Admirați facilitățile de agrement extinse ale acestei stațiuni de coastă proeminente, care servește drept un excelent punct de plecare pentru plimbări în rezervația naturală Ugento adiacentă.",
+            "en": "Marvel at the extensive leisure facilities of this prominent coastal resort, which serves as a great starting point for walks into the adjacent Ugento natural reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale Litorale di Ugento",
+            "hu": "Parco Naturale Regionale Litorale di Ugento",
+            "ro": "Parco Naturale Regionale Litorale di Ugento",
+            "en": "Parco Naturale Regionale Litorale di Ugento"
+          },
+          "coords": [
+            18.164382,
+            39.873767
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte mediterrane Macchia und die Pinienwälder dieses geschützten Naturschutzgebiets und halten Sie auf den Wegen Ausschau nach einheimischen Zugvögeln.",
+            "hu": "Túrázzon a védett természetvédelmi terület békés mediterrán cserjésein és fenyőerdein keresztül, és séta közben tartsa nyitva a szemét a helyi vándormadarak után.",
+            "ro": "Faceți o drumeție prin tufișurile mediteraneene și pădurile de pini din această rezervație naturală protejată, fiind atenți la păsările migratoare locale de-a lungul traseelor.",
+            "en": "Hike through the serene Mediterranean scrublands and pine forests of this protected nature reserve, keeping an eye out for local migratory birds along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Costa del Salento Village",
+            "hu": "Costa del Salento Village",
+            "ro": "Costa del Salento Village",
+            "en": "Costa del Salento Village"
+          },
+          "coords": [
+            18.175021,
+            39.851033
+          ],
+          "category": "recreational",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in der Nähe dieses pulsierenden Dorfgebiets ausklingen, genießen Sie die sanfte Meeresbrise und planen Sie einen Spaziergang bei Sonnenuntergang am nahe gelegenen Sandstrand.",
+            "hu": "Zárja a napot ez a nyüzsgő falusi terület közelében, élvezze a lágy tengeri szellőt, és tervezzen egy naplemente körüli sétát a közeli homokos partvidéken.",
+            "ro": "Încheiați-vă ziua în apropierea acestei zone de sat vibrante, bucurându-vă de briza blândă a mării și planificând o plimbare la apus de soare de-a lungul coastei cu nisip din apropiere.",
+            "en": "End your day near this vibrant village area, enjoying the gentle sea breeze and planning a sunset stroll along the nearby stretch of sandy coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am historischen Torre Mozza und nehmen Sie die reiche maritime Geschichte dieses ikonischen Wachturms in sich auf. Eine kurze Fahrt bringt Sie dann zum Lido Nereide, wo Sie einen hochwertigen Strandaufenthalt genießen können.\nFahren Sie zur Mittagszeit die Küste hinauf zu den stilvollen Ufern von Balelido. Hier bietet das kristallklare ionische Wasser eine unwiderstehliche Gelegenheit für ein erfrischendes Bad, begleitet von hervorragenden Resort-Annehmlichkeiten.\nVerbringen Sie Ihren Nachmittag weiter nördlich im Lido Pineta und im nahe gelegenen Robinson Club Apulia. Der Kontrast der tiefgrünen Kiefern zum hellen Küstensand schafft eine beeindruckende und zutiefst entspannende Umgebung.\nBeenden Sie Ihren malerischen Roadtrip mit einem Besuch des geschützten Parco Naturale Regionale Litorale di Ugento, bevor Sie eine abendliche Fahrt zum lebhaften Costa del Salento Village unternehmen, um den Tag perfekt ausklingen zu lassen.",
+        "hu": "Kezdje autós túráját a történelmi Torre Mozza-nál, és szívja magába ezen ikonikus salentói őrtorony gazdag tengerészeti történelmét. Egy rövid út után a Lido Nereide-hez ér, ahol könnyedén leparkolhat és élvezheti a kiváló tengerparti szolgáltatásokat.\nDélben navigáljon a part mentén Balelido elegáns partjaihoz. Itt a kristálytiszta jón-tengeri vizek ellenállhatatlan lehetőséget kínálnak egy frissítő fürdőzésre, kiváló helyi üdülőhelyi felszereltséggel kísérve.\nTöltse a délutánt északabbra, a Lido Pineta és a közeli Robinson Club Apulia felfedezésével. A sötétzöld fenyőfák és a világos tengerparti homok kontrasztja lenyűgöző és mélyen pihentető környezetet teremt.\nZárja festői autós utazását a védett Parco Naturale Regionale Litorale di Ugento meglátogatásával, mielőtt egy esti naplemente autózást tenne az élettel teli Costa del Salento Village felé a tökéletes befejezésért.",
+        "ro": "Începeți turul cu mașina la istoricul Torre Mozza, absorbind istoria maritimă bogată a acestui turn emblematic din Salento. O scurtă călătorie vă aduce apoi la Lido Nereide, unde puteți parca cu ușurință și vă puteți bucura de o experiență de plajă de înaltă calitate.\nPentru prânz, navigați pe coastă spre țărmurile elegante din Balelido. Aici, apele ionice cristaline prezintă o oportunitate irezistibilă pentru o baie răcoritoare, însoțită de facilități excelente ale stațiunii locale.\nPetreceți-vă după-amiaza explorând mai la nord la Lido Pineta și Clubul Robinson Apulia din apropiere. Contrastul pinilor de un verde închis pe nisipul luminos al coastei creează un mediu frapant și profund relaxant.\nÎncheiați-vă călătoria pitorească vizitând Parco Naturale Regionale Litorale di Ugento, înainte de a face o plimbare la apusul soarelui spre satul plin de viață Costa del Salento pentru un sfârșit perfect de zi.",
+        "en": "Begin your driving tour at the historic Torre Mozza, absorbing the rich maritime history of this iconic Salento watchtower. A short drive then brings you to Lido Nereide, where you can easily park and enjoy a high-quality beachfront experience.\nFor midday, navigate up the coast to the stylish shores of Balelido. Here, the crystalline Ionian waters present an irresistible opportunity for a refreshing swim, accompanied by excellent local resort amenities.\nSpend your afternoon exploring further north at Lido Pineta and the nearby Robinson Club Apulia. The contrast of the deep green pine trees against the bright coastal sand creates a striking and deeply relaxing environment for your coastal drive.\nConclude your scenic road trip by visiting the protected Parco Naturale Regionale Litorale di Ugento, before taking an evening sunset drive down to the lively Costa del Salento Village for a perfect end to the day."
+      }
+    }
+  }
+}

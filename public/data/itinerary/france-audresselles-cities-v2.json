@@ -1,0 +1,474 @@
+{
+  "city_id": "france-audresselles-cities-v2",
+  "anchor": {
+    "name": "Audresselles",
+    "coords": [
+      1.59573,
+      50.82418
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.600755,
+            50.824209
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Küstenkirche, ein Symbol des lokalen Erbes, und kommen Sie früh morgens für die besten Fotobedingungen.",
+            "hu": "Csodálja meg e tengerparti templom masszív építészetét, a helyi örökség szimbólumát, és érkezzen kora reggel a legnyugodtabb fotózási körülményekért.",
+            "ro": "Admirați arhitectura robustă a acestei biserici de coastă, un simbol al patrimoniului local, și veniți dimineața devreme pentru cele mai bune condiții foto.",
+            "en": "Admire the robust architecture of this coastal church, a symbol of local heritage, and visit early in the morning for the most serene photography conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Audresselles",
+            "hu": "Audresselles strand",
+            "ro": "Plaja din Audresselles",
+            "en": "Audresselles Beach"
+          },
+          "coords": [
+            1.59333,
+            50.820613
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit seinen traditionellen Flobart-Booten, aber tragen Sie festes Schuhwerk, um sicher am steinigen Ufer zu gehen.",
+            "hu": "Pihenjen ezen a hagyományos flobart csónakjairól ismert, festői kavicsos strandon, de viseljen erős túracipőt a sziklás partvonal biztonságos felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, renumită pentru bărcile tradiționale flobart, dar purtați încălțăminte robustă pentru a merge în siguranță.",
+            "en": "Relax on this picturesque pebble beach known for its traditional flobart boats, but be sure to wear sturdy walking shoes to navigate the rocky shoreline safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Zweiten Weltkriegs",
+            "hu": "Második Világháborús Múzeum",
+            "ro": "Muzeul Celui de-al Doilea Război Mondial",
+            "en": "World War II Museum"
+          },
+          "coords": [
+            1.606142,
+            50.813137
+          ],
+          "category": "museum",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine umfangreiche Sammlung authentischer Kriegsartefakte in diesem Museum und kaufen Sie im Sommer Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az autentikus háborús leletek kiterjedt gyűjteményét ebben a magával ragadó múzeumban, és nyáron vegye meg a jegyet online a sorban állás elkerülésére.",
+            "ro": "Descoperiți o colecție vastă de artefacte autentice de război în acest muzeu captivant și cumpărați biletele online vara pentru a evita cozile lungi la intrare.",
+            "en": "Discover an extensive collection of authentic wartime artifacts in this immersive museum, and buy your tickets online during summer to avoid long entrance queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Church of Saint-Michel"
+          },
+          "coords": [
+            1.608213,
+            50.809435
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese historische Stätte, um die feinen Buntglasfenster zu bewundern, und verbinden Sie den Besuch mit einem ruhigen Spaziergang durch die Gassen.",
+            "hu": "Lépjen be ebbe a történelmi vallási épületbe, hogy megcsodálja bonyolult ólomüveg ablakait, és kösse össze látogatását egy csendes délutáni sétával a közeli sikátorokban.",
+            "ro": "Pășiți în acest lăcaș de cult istoric pentru a admira vitraliile sale complicate și combinați vizita cu o plimbare liniștită de după-amiază prin aleile din apropiere.",
+            "en": "Step inside this historic religious site to appreciate its intricate stained glass, and combine your visit with a quiet afternoon walk through the nearby alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Mahon",
+            "hu": "Fort Mahon",
+            "ro": "Fort Mahon",
+            "en": "Fort Mahon"
+          },
+          "coords": [
+            1.600523,
+            50.805395
+          ],
+          "category": "castle",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die strategischen Befestigungsanlagen, die einst die Küste bewachten, und bringen Sie eine Windjacke mit, da die Meeresbrise hier ziemlich stark sein kann.",
+            "hu": "Fedezze fel a tengerpartot egykor védő stratégiai erődítményeket, és hozzon magával széldzsekit, mivel a történelmi falak körül a parti szellő meglehetősen erős lehet.",
+            "ro": "Explorați fortificațiile strategice de la malul mării care păzeau cândva coasta și luați o jachetă de vânt, deoarece briza oceanului în jurul zidurilor este puternică.",
+            "en": "Explore the strategic seaside fortifications that once guarded the coast, and bring a windbreaker as the coastal breezes around the historic walls can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Kirche Saint-Jean-Baptiste, bevor Sie zu den Kieselsteinen des Strandes von Audresselles aufbrechen. Mittags lockt die tiefe Geschichte im Museum des Zweiten Weltkriegs. Verbringen Sie Ihren Nachmittag mit einem Spaziergang zur charmanten Kirche Saint-Michel. Beenden Sie Ihren Ausflug bei den Küstenverteidigungen von Fort Mahon, während die Sonne langsam ins Meer sinkt.",
+        "hu": "Kezdje a reggelt a helyi templom felfedezésével, mielőtt az Audresselles kavicsos partjaira indulna. A dél telve lesz a második világháborús múzeum mélyreható történelmével. Töltse a délutánt a bájos Szent Mihály-templom felé sétálva. Zárja a napot a Fort Mahon part menti védműveinek felfedezésével, miközben az esti nap lenyugszik a tenger felett.",
+        "ro": "Începeți dimineața explorând biserica locală, înainte de a vă îndrepta spre țărmurile cu pietriș ale Plajei Audresselles. Amiaza vă invită să descoperiți istoria profundă a Muzeului Celui de-al Doilea Război Mondial. Petreceți după-amiaza rătăcind spre fermecătoarea Biserică Saint-Michel. Încheiați-vă ziua explorând apărarea de coastă a Fortului Mahon la apus.",
+        "en": "Start your morning exploring the resilient Church of Saint-Jean-Baptiste before heading to the pebble shores of Audresselles Beach. Midday invites you to dive into the profound history of the World War II Museum. Spend your afternoon wandering to the charming Church of Saint-Michel. Conclude your day trip by exploring the coastal defenses of Fort Mahon as the evening sun sets over the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.600755,
+            50.824209
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Küstenkirche, ein Symbol des lokalen Erbes, und kommen Sie früh morgens für die besten Fotobedingungen.",
+            "hu": "Csodálja meg e tengerparti templom masszív építészetét, a helyi örökség szimbólumát, és érkezzen kora reggel a legnyugodtabb fotózási körülményekért.",
+            "ro": "Admirați arhitectura robustă a acestei biserici de coastă, un simbol al patrimoniului local, și veniți dimineața devreme pentru cele mai bune condiții foto.",
+            "en": "Admire the robust architecture of this coastal church, a symbol of local heritage, and visit early in the morning for the most serene photography conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Audresselles",
+            "hu": "Audresselles strand",
+            "ro": "Plaja din Audresselles",
+            "en": "Audresselles Beach"
+          },
+          "coords": [
+            1.59333,
+            50.820613
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit seinen traditionellen Flobart-Booten, aber tragen Sie festes Schuhwerk, um sicher am steinigen Ufer zu gehen.",
+            "hu": "Pihenjen ezen a hagyományos flobart csónakjairól ismert, festői kavicsos strandon, de viseljen erős túracipőt a sziklás partvonal biztonságos felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, renumită pentru bărcile tradiționale flobart, dar purtați încălțăminte robustă pentru a merge în siguranță.",
+            "en": "Relax on this picturesque pebble beach known for its traditional flobart boats, but be sure to wear sturdy walking shoes to navigate the rocky shoreline safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Zweiten Weltkriegs",
+            "hu": "Második Világháborús Múzeum",
+            "ro": "Muzeul Celui de-al Doilea Război Mondial",
+            "en": "World War II Museum"
+          },
+          "coords": [
+            1.606142,
+            50.813137
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine umfangreiche Sammlung authentischer Kriegsartefakte in diesem Museum und kaufen Sie im Sommer Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az autentikus háborús leletek kiterjedt gyűjteményét ebben a magával ragadó múzeumban, és nyáron vegye meg a jegyet online a sorban állás elkerülésére.",
+            "ro": "Descoperiți o colecție vastă de artefacte autentice de război în acest muzeu captivant și cumpărați biletele online vara pentru a evita cozile lungi la intrare.",
+            "en": "Discover an extensive collection of authentic wartime artifacts in this immersive museum, and buy your tickets online during summer to avoid long entrance queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Church of Saint-Michel"
+          },
+          "coords": [
+            1.608213,
+            50.809435
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese historische Stätte, um die feinen Buntglasfenster zu bewundern, und verbinden Sie den Besuch mit einem ruhigen Spaziergang durch die Gassen.",
+            "hu": "Lépjen be ebbe a történelmi vallási épületbe, hogy megcsodálja bonyolult ólomüveg ablakait, és kösse össze látogatását egy csendes délutáni sétával a közeli sikátorokban.",
+            "ro": "Pășiți în acest lăcaș de cult istoric pentru a admira vitraliile sale complicate și combinați vizita cu o plimbare liniștită de după-amiază prin aleile din apropiere.",
+            "en": "Step inside this historic religious site to appreciate its intricate stained glass, and combine your visit with a quiet afternoon walk through the nearby alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Mahon",
+            "hu": "Fort Mahon",
+            "ro": "Fort Mahon",
+            "en": "Fort Mahon"
+          },
+          "coords": [
+            1.600523,
+            50.805395
+          ],
+          "category": "castle",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die strategischen Befestigungsanlagen, die einst die Küste bewachten, und bringen Sie eine Windjacke mit, da die Meeresbrise hier ziemlich stark sein kann.",
+            "hu": "Fedezze fel a tengerpartot egykor védő stratégiai erődítményeket, és hozzon magával széldzsekit, mivel a történelmi falak körül a parti szellő meglehetősen erős lehet.",
+            "ro": "Explorați fortificațiile strategice de la malul mării care păzeau cândva coasta și luați o jachetă de vânt, deoarece briza oceanului în jurul zidurilor este puternică.",
+            "en": "Explore the strategic seaside fortifications that once guarded the coast, and bring a windbreaker as the coastal breezes around the historic walls can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie Todt - Kasematte 4",
+            "hu": "Todt Üteg - 4. Kazamata",
+            "ro": "Bateria Todt - Cazemata 4",
+            "en": "Todt Battery - Casemate 4"
+          },
+          "coords": [
+            1.594434,
+            50.83961
+          ],
+          "category": "landmark",
+          "arrive_at": "15:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die kolossalen Betonüberreste dieses Weltkriegsbunkers, eine Mahnung der Geschichte, und achten Sie auf das unebene Gelände rund um die Ruine.",
+            "hu": "Vizsgálja meg e második világháborús bunker kolosszális betonmaradványait, és ügyeljen a lépéseire a romokat körülvevő meglehetősen egyenetlen terepen haladva.",
+            "ro": "Inspectați rămășițele colosale de beton ale acestui buncăr din Al Doilea Război Mondial și fiți atenți la pași pe terenul neregulat care înconjoară aceste ruine.",
+            "en": "Inspect the colossal concrete remains of this WWII bunker structure, a stark reminder of history, and watch your step on the uneven terrain surrounding the ruin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Ortskirche und fahren Sie zum malerischen Hauptstrand. Mittags radeln Sie zum weitläufigen Weltkriegsmuseum für eine Reise in die Vergangenheit. Ihre Nachmittagsfahrt verbindet die Kirche Saint-Michel mit der Küstenfestung Fort Mahon. Beenden Sie den Tag, indem Sie nach Norden zu den massiven Ruinen von Casemate 4 radeln.",
+        "hu": "Kezdje kerékpártúráját a történelmi helyi templomnál, majd tekerjen le a festői fő strandhoz. Délre kerékpározzon a második világháborús múzeumhoz egy múltbéli utazásra. A délutáni út összeköti a békés Szent Mihály-templomot a Fort Mahon tengerparti erődjével. Zárja az aktív napot északra pedálozva a Casemate 4 hatalmas romjaihoz.",
+        "ro": "Începeți turul cu bicicleta la biserica istorică, apoi mergeți pe plaja principală. Până la amiază, pedalați spre Muzeul Războiului pentru o călătorie în trecut. Plimbarea de după-amiază leagă pașnica biserică Saint-Michel de fortăreața Fort Mahon. Încheiați-vă ziua activă pedalând spre nord către ruinele imense ale Casematei 4.",
+        "en": "Kick off your cycling tour at the historic local church, then ride down to the picturesque main beach. By midday, cycle towards the expansive World War II Museum for a journey into the past. Your afternoon ride connects the peaceful Church of Saint-Michel with the striking coastal fortress of Fort Mahon. Wrap up your active day by pedaling north to the immense ruins of Casemate 4."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Batterie Todt - Kasematte 4",
+            "hu": "Todt Üteg - 4. Kazamata",
+            "ro": "Bateria Todt - Cazemata 4",
+            "en": "Todt Battery - Casemate 4"
+          },
+          "coords": [
+            1.594434,
+            50.83961
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die kolossalen Betonüberreste dieses Weltkriegsbunkers, eine Mahnung der Geschichte, und achten Sie auf das unebene Gelände rund um die Ruine.",
+            "hu": "Vizsgálja meg e második világháborús bunker kolosszális betonmaradványait, és ügyeljen a lépéseire a romokat körülvevő meglehetősen egyenetlen terepen haladva.",
+            "ro": "Inspectați rămășițele colosale de beton ale acestui buncăr din Al Doilea Război Mondial și fiți atenți la pași pe terenul neregulat care înconjoară aceste ruine.",
+            "en": "Inspect the colossal concrete remains of this WWII bunker structure, a stark reminder of history, and watch your step on the uneven terrain surrounding the ruin."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Batterie Todt",
+            "hu": "Todt Üteg Múzeum",
+            "ro": "Muzeul Bateriei Todt",
+            "en": "Todt Battery Museum"
+          },
+          "coords": [
+            1.600419,
+            50.844269
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem riesigen Blockhaus tief in die Technik des Atlantikwalls ein und planen Sie mindestens zwei Stunden für die schweren Artillerie-Exponate ein.",
+            "hu": "Merüljön el az Atlanti Fal mérnöki munkájában ebben a hatalmas bunkerben, és szánjon legalább két órát a nehéztüzérségi kiállítások teljes körű megtekintésére.",
+            "ro": "Aprofundați ingineria Zidului Atlanticului în interiorul acestui bloc masiv și alocați cel puțin două ore pentru a aprecia pe deplin exponatele de artilerie grea.",
+            "en": "Dive deep into the engineering of the Atlantic Wall inside this massive blockhouse, and allocate at least two hours to fully appreciate the heavy artillery exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.600755,
+            50.824209
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Küstenkirche, ein Symbol des lokalen Erbes, und kommen Sie früh morgens für die besten Fotobedingungen.",
+            "hu": "Csodálja meg e tengerparti templom masszív építészetét, a helyi örökség szimbólumát, és érkezzen kora reggel a legnyugodtabb fotózási körülményekért.",
+            "ro": "Admirați arhitectura robustă a acestei biserici de coastă, un simbol al patrimoniului local, și veniți dimineața devreme pentru cele mai bune condiții foto.",
+            "en": "Admire the robust architecture of this coastal church, a symbol of local heritage, and visit early in the morning for the most serene photography conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Audresselles",
+            "hu": "Audresselles strand",
+            "ro": "Plaja din Audresselles",
+            "en": "Audresselles Beach"
+          },
+          "coords": [
+            1.59333,
+            50.820613
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit seinen traditionellen Flobart-Booten, aber tragen Sie festes Schuhwerk, um sicher am steinigen Ufer zu gehen.",
+            "hu": "Pihenjen ezen a hagyományos flobart csónakjairól ismert, festői kavicsos strandon, de viseljen erős túracipőt a sziklás partvonal biztonságos felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, renumită pentru bărcile tradiționale flobart, dar purtați încălțăminte robustă pentru a merge în siguranță.",
+            "en": "Relax on this picturesque pebble beach known for its traditional flobart boats, but be sure to wear sturdy walking shoes to navigate the rocky shoreline safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Zweiten Weltkriegs",
+            "hu": "Második Világháborús Múzeum",
+            "ro": "Muzeul Celui de-al Doilea Război Mondial",
+            "en": "World War II Museum"
+          },
+          "coords": [
+            1.606142,
+            50.813137
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine umfangreiche Sammlung authentischer Kriegsartefakte in diesem Museum und kaufen Sie im Sommer Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az autentikus háborús leletek kiterjedt gyűjteményét ebben a magával ragadó múzeumban, és nyáron vegye meg a jegyet online a sorban állás elkerülésére.",
+            "ro": "Descoperiți o colecție vastă de artefacte autentice de război în acest muzeu captivant și cumpărați biletele online vara pentru a evita cozile lungi la intrare.",
+            "en": "Discover an extensive collection of authentic wartime artifacts in this immersive museum, and buy your tickets online during summer to avoid long entrance queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Church of Saint-Michel"
+          },
+          "coords": [
+            1.608213,
+            50.809435
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese historische Stätte, um die feinen Buntglasfenster zu bewundern, und verbinden Sie den Besuch mit einem ruhigen Spaziergang durch die Gassen.",
+            "hu": "Lépjen be ebbe a történelmi vallási épületbe, hogy megcsodálja bonyolult ólomüveg ablakait, és kösse össze látogatását egy csendes délutáni sétával a közeli sikátorokban.",
+            "ro": "Pășiți în acest lăcaș de cult istoric pentru a admira vitraliile sale complicate și combinați vizita cu o plimbare liniștită de după-amiază prin aleile din apropiere.",
+            "en": "Step inside this historic religious site to appreciate its intricate stained glass, and combine your visit with a quiet afternoon walk through the nearby alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Mahon",
+            "hu": "Fort Mahon",
+            "ro": "Fort Mahon",
+            "en": "Fort Mahon"
+          },
+          "coords": [
+            1.600523,
+            50.805395
+          ],
+          "category": "castle",
+          "arrive_at": "15:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die strategischen Befestigungsanlagen, die einst die Küste bewachten, und bringen Sie eine Windjacke mit, da die Meeresbrise hier ziemlich stark sein kann.",
+            "hu": "Fedezze fel a tengerpartot egykor védő stratégiai erődítményeket, és hozzon magával széldzsekit, mivel a történelmi falak körül a parti szellő meglehetősen erős lehet.",
+            "ro": "Explorați fortificațiile strategice de la malul mării care păzeau cândva coasta și luați o jachetă de vânt, deoarece briza oceanului în jurul zidurilor este puternică.",
+            "en": "Explore the strategic seaside fortifications that once guarded the coast, and bring a windbreaker as the coastal breezes around the historic walls can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Casemate 4 und den faszinierenden Ausstellungen des Museum der Batterie Todt. Mittags fahren Sie ins Dorfzentrum, um die Kirche und den Kieselstrand zu bewundern. Erkunden Sie am Nachmittag die Sammlungen des Weltkriegsmuseums und nahegelegene religiöse Stätten. Die Dämmerung bietet eine atemberaubende Kulisse für den letzten Stopp in Fort Mahon.",
+        "hu": "Autós túrája a hatalmas Casemate 4-nél és a Todt Üteg Múzeum kiállításainál kezdődik. Délben festői út vezet a falu központjába a templom és a strand megcsodálásához. Délután fedezze fel a háborús múzeum kiterjedt gyűjteményeit és a közeli vallási helyszíneket. Az alkonyat lenyűgöző hátteret biztosít az utolsó állomáshoz, a Fort Mahonhoz.",
+        "ro": "Turul cu mașina începe la Casemata 4 și exponatele fascinante ale Muzeului Bateriei Todt. Amiaza oferă o plimbare spre centrul satului pentru a admira biserica și plaja cu pietriș. După-amiază, explorați colecțiile de la Muzeul Războiului și lăcașurile de cult din apropiere. Amurgul oferă un fundal uimitor pentru ultima oprire la Fort Mahon.",
+        "en": "Your driving tour begins with the colossal Casemate 4 and the fascinating exhibits of the Todt Battery Museum. Midday offers a scenic drive to the village center to admire the local church and the pebble beach. In the afternoon, explore the extensive collections at the World War II Museum and nearby religious sites. Twilight provides a stunning backdrop for your final stop at Fort Mahon."
+      }
+    }
+  }
+}

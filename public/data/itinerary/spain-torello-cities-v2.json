@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-torello-cities-v2",
+  "anchor": {
+    "name": "Torelló",
+    "coords": [
+      2.263345,
+      42.046915
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:36",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Feliu",
+            "hu": "Sant Feliu",
+            "ro": "Sant Feliu",
+            "en": "Sant Feliu"
+          },
+          "coords": [
+            2.263107,
+            42.046903
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente dieser zentralen Kirche, das historische Herz von Torelló, und werfen Sie einen Blick auf das Schwarze Brett für Chorauftritte.",
+            "hu": "Csodálja meg e központi templom barokk jegyeit, Torelló történelmi szívét, és feltétlenül nézze meg a hirdetőtáblát a helyi kórusok fellépései miatt.",
+            "ro": "Admirați trăsăturile baroce ale acestei biserici centrale, inima istorică a orașului Torelló, și nu uitați să verificați avizierul pentru spectacolele corurilor locale.",
+            "en": "Admire the baroque features of this central church, the historic heart of Torelló, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Cirvianum",
+            "hu": "Teatre Cirvianum",
+            "ro": "Teatre Cirvianum",
+            "en": "Teatre Cirvianum"
+          },
+          "coords": [
+            2.264078,
+            42.047269
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre dieses legendären Theaters mit seiner markanten Fassade und versuchen Sie, einen Blick in das Foyer zu werfen.",
+            "hu": "Élvezze a kulturális hangulatot ebben az ikonikus helyi színházban, és próbáljon meg bekukkantani az előcsarnokba, hogy átérezze a közösség történelmét.",
+            "ro": "Bucurați-vă de atmosfera culturală a acestui teatru local iconic cu fațada sa impresionantă și încercați să aruncați o privire în foaierul plin de istorie.",
+            "en": "Enjoy the cultural vibe of this iconic local theater with its striking facade, and try to peek inside the foyer to appreciate its vibrant community history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de Rocaprevera",
+            "hu": "Mare de Déu de Rocaprevera",
+            "ro": "Mare de Déu de Rocaprevera",
+            "en": "Mare de Déu de Rocaprevera"
+          },
+          "coords": [
+            2.259994,
+            42.041988
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem ruhigen Heiligtum auf dem Hügel, das tiefe spirituelle Bedeutung bietet, und bringen Sie eine Kamera für die atemberaubenden Details mit.",
+            "hu": "Sétáljon fel ehhez a nyugodt hegytetőn lévő szentélyhez, amely mély spirituális békét kínál, és hozzon fényképezőgépet a lenyűgöző építészeti részletekhez.",
+            "ro": "Urcați la acest sanctuar liniștit de pe deal, care oferă o pace spirituală profundă, și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Walk up to this serene hilltop sanctuary offering profound spiritual peace, and bring a camera to capture the stunning architectural details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de les Tres Creus",
+            "hu": "Puig de les Tres Creus",
+            "ro": "Puig de les Tres Creus",
+            "en": "Puig de les Tres Creus"
+          },
+          "coords": [
+            2.25817,
+            42.041012
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Region Osona von diesem natürlichen Aussichtspunkt, wobei bequeme Schuhe für den felsigen Aufstieg sehr zu empfehlen sind.",
+            "hu": "Szívja magába az Osona régió panorámáját ebből a természetes kilátópontból, ahol kényelmes cipő viselése erősen ajánlott a sziklás emelkedőhöz.",
+            "ro": "Admirați vederea panoramică a regiunii Osona de pe acest punct de belvedere natural, unde purtarea pantofilor comozi este recomandată pentru urcușul stâncos.",
+            "en": "Soak in the panoramic views of the Osona region from this natural vantage point, where wearing comfortable shoes is highly recommended for the rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "la Sagrada Família",
+            "hu": "la Sagrada Família",
+            "ro": "la Sagrada Família",
+            "en": "la Sagrada Família"
+          },
+          "coords": [
+            2.254884,
+            42.061208
+          ],
+          "category": "religious",
+          "arrive_at": "12:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde religiöse Stätte, die den tief verwurzelten Glauben der Gemeinde widerspiegelt, und treten Sie leise auf, um die Gebete zu respektieren.",
+            "hu": "Fedezze fel ezt a bájos vallási helyszínt, amely a helyi közösség mélyen gyökerező hitét tükrözi, és lépjen halkan, hogy tiszteletben tartsa a magánimákat.",
+            "ro": "Explorați acest sit religios fermecător care reflectă credința comunității locale și pășiți încet pentru a respecta rugăciunile private frecvente.",
+            "en": "Explore this charming religious site that reflects the deep-rooted faith of the local community, and step quietly to respect the frequent private prayers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des Herzens von Torelló an der historischen Kirche Sant Feliu. Bewundern Sie die kulturelle Präsenz des Teatre Cirvianum, bevor Sie hinaufsteigen. Der Nachmittag führt Sie zum ruhigen Heiligtum Mare de Déu de Rocaprevera und zur atemberaubenden Aussicht vom Puig de les Tres Creus. Beenden Sie Ihren Tag mit den nördlichen Sehenswürdigkeiten.",
+        "hu": "Kezdje a napot Torelló szívének felfedezésével a történelmi Sant Feliu templomnál. Ezután csodálja meg a Teatre Cirvianum kulturális jelenlétét, mielőtt felkapaszkodna a külvárosok felé. A délután a Mare de Déu de Rocaprevera szentélyhez és a Puig de les Tres Creus lenyűgöző kilátásához vezet. Fejezze be a napot az északi vallási nevezetességek felfedezésével.",
+        "ro": "Începeți-vă ziua explorând inima orașului Torelló la biserica istorică Sant Feliu. Apoi, admirați prezența culturală a Teatre Cirvianum înainte de a urca spre periferia pitorească. După-amiaza vă duce la sanctuarul liniștit Mare de Déu de Rocaprevera și la priveliștile uimitoare de pe Puig de les Tres Creus. Încheiați-vă ziua descoperind reperele religioase din nord.",
+        "en": "Begin your day exploring the heart of Torelló at the historic Sant Feliu church. Next, admire the cultural presence of the Teatre Cirvianum before ascending towards the scenic outskirts. The afternoon takes you to the serene Mare de Déu de Rocaprevera sanctuary and the stunning views from Puig de les Tres Creus. Conclude your day discovering the northern religious landmarks."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Feliu",
+            "hu": "Sant Feliu",
+            "ro": "Sant Feliu",
+            "en": "Sant Feliu"
+          },
+          "coords": [
+            2.263107,
+            42.046903
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente dieser zentralen Kirche, das historische Herz von Torelló, und werfen Sie einen Blick auf das Schwarze Brett für Chorauftritte.",
+            "hu": "Csodálja meg e központi templom barokk jegyeit, Torelló történelmi szívét, és feltétlenül nézze meg a hirdetőtáblát a helyi kórusok fellépései miatt.",
+            "ro": "Admirați trăsăturile baroce ale acestei biserici centrale, inima istorică a orașului Torelló, și nu uitați să verificați avizierul pentru spectacolele corurilor locale.",
+            "en": "Admire the baroque features of this central church, the historic heart of Torelló, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Cirvianum",
+            "hu": "Teatre Cirvianum",
+            "ro": "Teatre Cirvianum",
+            "en": "Teatre Cirvianum"
+          },
+          "coords": [
+            2.264078,
+            42.047269
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre dieses legendären Theaters mit seiner markanten Fassade und versuchen Sie, einen Blick in das Foyer zu werfen.",
+            "hu": "Élvezze a kulturális hangulatot ebben az ikonikus helyi színházban, és próbáljon meg bekukkantani az előcsarnokba, hogy átérezze a közösség történelmét.",
+            "ro": "Bucurați-vă de atmosfera culturală a acestui teatru local iconic cu fațada sa impresionantă și încercați să aruncați o privire în foaierul plin de istorie.",
+            "en": "Enjoy the cultural vibe of this iconic local theater with its striking facade, and try to peek inside the foyer to appreciate its vibrant community history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de Rocaprevera",
+            "hu": "Mare de Déu de Rocaprevera",
+            "ro": "Mare de Déu de Rocaprevera",
+            "en": "Mare de Déu de Rocaprevera"
+          },
+          "coords": [
+            2.259994,
+            42.041988
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem ruhigen Heiligtum auf dem Hügel, das tiefe spirituelle Bedeutung bietet, und bringen Sie eine Kamera für die atemberaubenden Details mit.",
+            "hu": "Sétáljon fel ehhez a nyugodt hegytetőn lévő szentélyhez, amely mély spirituális békét kínál, és hozzon fényképezőgépet a lenyűgöző építészeti részletekhez.",
+            "ro": "Urcați la acest sanctuar liniștit de pe deal, care oferă o pace spirituală profundă, și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Walk up to this serene hilltop sanctuary offering profound spiritual peace, and bring a camera to capture the stunning architectural details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de les Tres Creus",
+            "hu": "Puig de les Tres Creus",
+            "ro": "Puig de les Tres Creus",
+            "en": "Puig de les Tres Creus"
+          },
+          "coords": [
+            2.25817,
+            42.041012
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Region Osona von diesem natürlichen Aussichtspunkt, wobei bequeme Schuhe für den felsigen Aufstieg sehr zu empfehlen sind.",
+            "hu": "Szívja magába az Osona régió panorámáját ebből a természetes kilátópontból, ahol kényelmes cipő viselése erősen ajánlott a sziklás emelkedőhöz.",
+            "ro": "Admirați vederea panoramică a regiunii Osona de pe acest punct de belvedere natural, unde purtarea pantofilor comozi este recomandată pentru urcușul stâncos.",
+            "en": "Soak in the panoramic views of the Osona region from this natural vantage point, where wearing comfortable shoes is highly recommended for the rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Coure",
+            "hu": "Museu del Coure",
+            "ro": "Museu del Coure",
+            "en": "Museu del Coure"
+          },
+          "coords": [
+            2.237892,
+            42.037121
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Kupfermuseum in das industrielle Erbe ein und nehmen Sie sich Zeit für die interaktiven Metallbearbeitungs-Vorführungen.",
+            "hu": "Merüljön el az ipari örökségben ebben a lenyűgöző rézmúzeumban, és szánjon időt az interaktív fémmegmunkálási bemutatók megtekintésére, ha vannak ilyenek.",
+            "ro": "Pătrundeți în moștenirea industrială la acest fascinant muzeu al cuprului, făcându-vă timp să urmăriți demonstrațiile interactive de prelucrare a metalelor.",
+            "en": "Dive into the industrial heritage at this fascinating copper museum, taking time to watch the interactive metalworking demonstrations if available."
+          }
+        },
+        {
+          "name": {
+            "de": "la Sagrada Família",
+            "hu": "la Sagrada Família",
+            "ro": "la Sagrada Família",
+            "en": "la Sagrada Família"
+          },
+          "coords": [
+            2.254884,
+            42.061208
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde religiöse Stätte, die den tief verwurzelten Glauben der Gemeinde widerspiegelt, und treten Sie leise auf, um die Gebete zu respektieren.",
+            "hu": "Fedezze fel ezt a bájos vallási helyszínt, amely a helyi közösség mélyen gyökerező hitét tükrözi, és lépjen halkan, hogy tiszteletben tartsa a magánimákat.",
+            "ro": "Explorați acest sit religios fermecător care reflectă credința comunității locale și pășiți încet pentru a respecta rugăciunile private frecvente.",
+            "en": "Explore this charming religious site that reflects the deep-rooted faith of the local community, and step quietly to respect the frequent private prayers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des Herzens von Torelló an der historischen Kirche Sant Feliu. Bewundern Sie die kulturelle Präsenz des Teatre Cirvianum, bevor Sie hinaufsteigen. Der Nachmittag führt Sie zum ruhigen Heiligtum Mare de Déu de Rocaprevera und zur atemberaubenden Aussicht vom Puig de les Tres Creus. Beenden Sie Ihren Tag mit den nördlichen Sehenswürdigkeiten.",
+        "hu": "Kezdje a napot Torelló szívének felfedezésével a történelmi Sant Feliu templomnál. Ezután csodálja meg a Teatre Cirvianum kulturális jelenlétét, mielőtt felkapaszkodna a külvárosok felé. A délután a Mare de Déu de Rocaprevera szentélyhez és a Puig de les Tres Creus lenyűgöző kilátásához vezet. Fejezze be a napot az északi vallási nevezetességek felfedezésével.",
+        "ro": "Începeți-vă ziua explorând inima orașului Torelló la biserica istorică Sant Feliu. Apoi, admirați prezența culturală a Teatre Cirvianum înainte de a urca spre periferia pitorească. După-amiaza vă duce la sanctuarul liniștit Mare de Déu de Rocaprevera și la priveliștile uimitoare de pe Puig de les Tres Creus. Încheiați-vă ziua descoperind reperele religioase din nord.",
+        "en": "Begin your day exploring the heart of Torelló at the historic Sant Feliu church. Next, admire the cultural presence of the Teatre Cirvianum before ascending towards the scenic outskirts. The afternoon takes you to the serene Mare de Déu de Rocaprevera sanctuary and the stunning views from Puig de les Tres Creus. Conclude your day discovering the northern religious landmarks."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu del Coure",
+            "hu": "Museu del Coure",
+            "ro": "Museu del Coure",
+            "en": "Museu del Coure"
+          },
+          "coords": [
+            2.237892,
+            42.037121
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Kupfermuseum in das industrielle Erbe ein und nehmen Sie sich Zeit für die interaktiven Metallbearbeitungs-Vorführungen.",
+            "hu": "Merüljön el az ipari örökségben ebben a lenyűgöző rézmúzeumban, és szánjon időt az interaktív fémmegmunkálási bemutatók megtekintésére, ha vannak ilyenek.",
+            "ro": "Pătrundeți în moștenirea industrială la acest fascinant muzeu al cuprului, făcându-vă timp să urmăriți demonstrațiile interactive de prelucrare a metalelor.",
+            "en": "Dive into the industrial heritage at this fascinating copper museum, taking time to watch the interactive metalworking demonstrations if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de les Tres Creus",
+            "hu": "Puig de les Tres Creus",
+            "ro": "Puig de les Tres Creus",
+            "en": "Puig de les Tres Creus"
+          },
+          "coords": [
+            2.25817,
+            42.041012
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Region Osona von diesem natürlichen Aussichtspunkt, wobei bequeme Schuhe für den felsigen Aufstieg sehr zu empfehlen sind.",
+            "hu": "Szívja magába az Osona régió panorámáját ebből a természetes kilátópontból, ahol kényelmes cipő viselése erősen ajánlott a sziklás emelkedőhöz.",
+            "ro": "Admirați vederea panoramică a regiunii Osona de pe acest punct de belvedere natural, unde purtarea pantofilor comozi este recomandată pentru urcușul stâncos.",
+            "en": "Soak in the panoramic views of the Osona region from this natural vantage point, where wearing comfortable shoes is highly recommended for the rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de Rocaprevera",
+            "hu": "Mare de Déu de Rocaprevera",
+            "ro": "Mare de Déu de Rocaprevera",
+            "en": "Mare de Déu de Rocaprevera"
+          },
+          "coords": [
+            2.259994,
+            42.041988
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem ruhigen Heiligtum auf dem Hügel, das tiefe spirituelle Bedeutung bietet, und bringen Sie eine Kamera für die atemberaubenden Details mit.",
+            "hu": "Sétáljon fel ehhez a nyugodt hegytetőn lévő szentélyhez, amely mély spirituális békét kínál, és hozzon fényképezőgépet a lenyűgöző építészeti részletekhez.",
+            "ro": "Urcați la acest sanctuar liniștit de pe deal, care oferă o pace spirituală profundă, și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Walk up to this serene hilltop sanctuary offering profound spiritual peace, and bring a camera to capture the stunning architectural details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Feliu",
+            "hu": "Sant Feliu",
+            "ro": "Sant Feliu",
+            "en": "Sant Feliu"
+          },
+          "coords": [
+            2.263107,
+            42.046903
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente dieser zentralen Kirche, das historische Herz von Torelló, und werfen Sie einen Blick auf das Schwarze Brett für Chorauftritte.",
+            "hu": "Csodálja meg e központi templom barokk jegyeit, Torelló történelmi szívét, és feltétlenül nézze meg a hirdetőtáblát a helyi kórusok fellépései miatt.",
+            "ro": "Admirați trăsăturile baroce ale acestei biserici centrale, inima istorică a orașului Torelló, și nu uitați să verificați avizierul pentru spectacolele corurilor locale.",
+            "en": "Admire the baroque features of this central church, the historic heart of Torelló, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Cirvianum",
+            "hu": "Teatre Cirvianum",
+            "ro": "Teatre Cirvianum",
+            "en": "Teatre Cirvianum"
+          },
+          "coords": [
+            2.264078,
+            42.047269
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre dieses legendären Theaters mit seiner markanten Fassade und versuchen Sie, einen Blick in das Foyer zu werfen.",
+            "hu": "Élvezze a kulturális hangulatot ebben az ikonikus helyi színházban, és próbáljon meg bekukkantani az előcsarnokba, hogy átérezze a közösség történelmét.",
+            "ro": "Bucurați-vă de atmosfera culturală a acestui teatru local iconic cu fațada sa impresionantă și încercați să aruncați o privire în foaierul plin de istorie.",
+            "en": "Enjoy the cultural vibe of this iconic local theater with its striking facade, and try to peek inside the foyer to appreciate its vibrant community history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Vicenç",
+            "hu": "Sant Vicenç",
+            "ro": "Sant Vicenç",
+            "en": "Sant Vicenç"
+          },
+          "coords": [
+            2.273884,
+            42.061654
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Pfarrkirche, um ihre traditionellen katalanischen architektonischen Linien zu bewundern, und spazieren Sie durch den ruhigen Außenhof.",
+            "hu": "Látogasson el ebbe a plébániatemplomba, hogy megcsodálja a hagyományos katalán építészeti vonalakat, és sétáljon egyet a békés külső udvaron a csendes elmélkedésért.",
+            "ro": "Vizitați această biserică parohială pentru a admira liniile sale arhitecturale tradiționale catalane și plimbați-vă prin curtea exterioară pentru un moment liniștit.",
+            "en": "Visit this parish church to admire its traditional Catalan architectural lines, and walk around the peaceful exterior courtyard for a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "la Sagrada Família",
+            "hu": "la Sagrada Família",
+            "ro": "la Sagrada Família",
+            "en": "la Sagrada Família"
+          },
+          "coords": [
+            2.254884,
+            42.061208
+          ],
+          "category": "religious",
+          "arrive_at": "14:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde religiöse Stätte, die den tief verwurzelten Glauben der Gemeinde widerspiegelt, und treten Sie leise auf, um die Gebete zu respektieren.",
+            "hu": "Fedezze fel ezt a bájos vallási helyszínt, amely a helyi közösség mélyen gyökerező hitét tükrözi, és lépjen halkan, hogy tiszteletben tartsa a magánimákat.",
+            "ro": "Explorați acest sit religios fermecător care reflectă credința comunității locale și pășiți încet pentru a respecta rugăciunile private frecvente.",
+            "en": "Explore this charming religious site that reflects the deep-rooted faith of the local community, and step quietly to respect the frequent private prayers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des Herzens von Torelló an der historischen Kirche Sant Feliu. Bewundern Sie die kulturelle Präsenz des Teatre Cirvianum, bevor Sie hinaufsteigen. Der Nachmittag führt Sie zum ruhigen Heiligtum Mare de Déu de Rocaprevera und zur atemberaubenden Aussicht vom Puig de les Tres Creus. Beenden Sie Ihren Tag mit den nördlichen Sehenswürdigkeiten.",
+        "hu": "Kezdje a napot Torelló szívének felfedezésével a történelmi Sant Feliu templomnál. Ezután csodálja meg a Teatre Cirvianum kulturális jelenlétét, mielőtt felkapaszkodna a külvárosok felé. A délután a Mare de Déu de Rocaprevera szentélyhez és a Puig de les Tres Creus lenyűgöző kilátásához vezet. Fejezze be a napot az északi vallási nevezetességek felfedezésével.",
+        "ro": "Începeți-vă ziua explorând inima orașului Torelló la biserica istorică Sant Feliu. Apoi, admirați prezența culturală a Teatre Cirvianum înainte de a urca spre periferia pitorească. După-amiaza vă duce la sanctuarul liniștit Mare de Déu de Rocaprevera și la priveliștile uimitoare de pe Puig de les Tres Creus. Încheiați-vă ziua descoperind reperele religioase din nord.",
+        "en": "Begin your day exploring the heart of Torelló at the historic Sant Feliu church. Next, admire the cultural presence of the Teatre Cirvianum before ascending towards the scenic outskirts. The afternoon takes you to the serene Mare de Déu de Rocaprevera sanctuary and the stunning views from Puig de les Tres Creus. Conclude your day discovering the northern religious landmarks."
+      }
+    }
+  }
+}

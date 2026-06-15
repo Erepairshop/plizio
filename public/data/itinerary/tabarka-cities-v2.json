@@ -1,0 +1,566 @@
+{
+  "city_id": "tabarka-cities-v2",
+  "anchor": {
+    "name": "Tabarka",
+    "coords": [
+      8.7516,
+      36.9538
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cello-Denkmal",
+            "hu": "Cselló emlékmű",
+            "ro": "Monumentul Violoncelului",
+            "en": "Cello Monument"
+          },
+          "coords": [
+            8.75548,
+            36.957557
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Cello-Denkmal, das Tabarkas Jazz-Erbe feiert, und fotografieren Sie es am besten sicher von der Fußgängerzone aus ohne störenden Verkehr.",
+            "hu": "Csodálja meg a cselló emlékművet, amely Tabarka gazdag jazz zenei örökségét hirdeti, és a biztonságos sétálóutcáról készítse el a legjobb fényképeket.",
+            "ro": "Admirați monumentul violoncelului ce onorează moștenirea de jazz a Tabarkăi și asigurați-vă că faceți o fotografie din zona pietonală pentru siguranță.",
+            "en": "Admire the beautiful Cello Monument that celebrates Tabarka's rich jazz heritage, and snap a quick photo from the pedestrian zone to avoid street traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater La Basilique",
+            "hu": "La Basilique római színház",
+            "ro": "Teatrul Roman La Basilique",
+            "en": "La Basilique Roman Theatre"
+          },
+          "coords": [
+            8.755044,
+            36.956084
+          ],
+          "category": "cultural",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen der Basilika, eine faszinierende römische Stätte, und besuchen Sie sie früh am Tag, wenn das Licht die Steine erstrahlen lässt.",
+            "hu": "Fedezze fel a lenyűgöző római kori bazilika ősi romjait, és látogasson el ide a reggeli órákban, amikor a meleg fények gyönyörűen megvilágítják a köveket.",
+            "ro": "Explorați ruinele antice ale Basilicii, un sit roman impresionant, vizitându-l dimineața devreme, când lumina blândă evidențiază detaliile pietrelor.",
+            "en": "Explore the ancient ruins of La Basilique, an evocative Roman-era site, making sure to visit early in the day when the warm lighting highlights the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Korallenbaum-Denkmal",
+            "hu": "Korallfa emlékmű",
+            "ro": "Monumentul Copacului de Corali",
+            "en": "Coral Tree Monument"
+          },
+          "coords": [
+            8.757449,
+            36.956845
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Korallenbaum-Denkmal, eine Hommage an die historische Korallentaucherei der Stadt, und achten Sie auf die Details der metallenen Zweige.",
+            "hu": "Tekintse meg a Korallfa emlékművet, amely a város történelmi korallbúvár-iparának állít emléket, és figyelje meg a fémágak bonyolult részletkidolgozását.",
+            "ro": "Admirați Monumentul Copacului de Corali, un omagiu adus industriei istorice de scufundări după corali, și observați detaliile complicate ale ramurilor.",
+            "en": "Marvel at the Coral Tree Monument, a striking tribute to the town's historical coral diving industry, and notice the intricate details on its metal branches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bejiya-Strand",
+            "hu": "Bejiya strand",
+            "ro": "Plaja Bejiya",
+            "en": "Bejiya Beach"
+          },
+          "coords": [
+            8.758035,
+            36.959651
+          ],
+          "category": "recreational",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Bejiya-Strand mit seinem goldenen Sand und dem klaren Meerwasser, und bringen Sie ein eigenes Handtuch mit, da es kaum Verleihstationen gibt.",
+            "hu": "Pihenjen a Bejiya strandon, amely aranyhomokjáról és tiszta vizéről ismert, de hozzon magával saját törölközőt, mivel a helyi kölcsönzők ritkák lehetnek.",
+            "ro": "Relaxați-vă pe plaja Bejiya, cunoscută pentru nisipul auriu și apele clare, dar aduceți propriul prosop, deoarece facilitățile de închiriere sunt rare.",
+            "en": "Relax at Bejiya Beach, known for its golden sands and clear Mediterranean waters, and bring your own beach towel as local rental facilities can be scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Genuesische Festung von Tabarka",
+            "hu": "Tabarka genovai erődje",
+            "ro": "Fortul Genovez din Tabarka",
+            "en": "Genoese Fort of Tabarka"
+          },
+          "coords": [
+            8.758652,
+            36.965213
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie zur beeindruckenden genuesischen Festung hinauf, um den Panoramablick zu genießen, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel a szigeten található lenyűgöző genovai erődbe a csodálatos tengerparti kilátásért, de feltétlenül viseljen masszív, kényelmes sétacipőt a köveken.",
+            "ro": "Urcați la impresionantul Fort Genovez pentru vederi panoramice ale coastei, dar purtați neapărat încălțăminte confortabilă pentru aleile pietruite denivelate.",
+            "en": "Climb to the impressive Genoese Fort on the island for sweeping panoramic views of the coast, but wear sturdy walking shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabarka-Theater",
+            "hu": "Tabarka Színház",
+            "ro": "Teatrul Tabarka",
+            "en": "Tabarka Theatre"
+          },
+          "coords": [
+            8.749507,
+            36.960015
+          ],
+          "category": "cultural",
+          "arrive_at": "14:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Tabarka-Theater, einer schönen Freiluftbühne am Meer, und informieren Sie sich vorab über abendliche musikalische Darbietungen.",
+            "hu": "Fejezze be a kulturális túrát a tengerre néző, gyönyörűen kialakított szabadtéri Tabarka Színháznál, és érdemes megnézni az esti zenei előadások műsorát.",
+            "ro": "Încheiați turul cultural la Teatrul Tabarka, o locație în aer liber cu vedere la mare, și verificați programul local pentru spectacole muzicale de seară.",
+            "en": "End your cultural tour at the Tabarka Theatre, a beautifully designed outdoor venue facing the sea, and check local listings for evening musical performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang durch Tabarka, erkunden Sie die Jazz-Denkmäler und die antiken Ruinen der Basilika. Mittags bewundern Sie das Korallenbaum-Denkmal und entspannen sich anschließend am goldenen Sandstrand von Bejiya. Am Nachmittag steigen Sie zur majestätischen genuesischen Festung auf, die einen weiten Meerblick und reiche Geschichte bietet. Beenden Sie den Tag am Tabarka-Theater, einem perfekten Ort für die abendliche Küstenatmosphäre.",
+        "hu": "Kezdje a reggelt egy nyugodt sétával Tabarka szívében, fedezze fel a jazz témájú emlékműveket és a lenyűgöző bazilika ősi romjait. Délben csodálja meg a Korallfa emlékművet, majd tartson egy pihentető szünetet a Bejiya strand homokján. Délután másszon fel a fenséges genovai erődbe, amely pazar tengeri kilátást és gazdag történelmet kínál. Zárja a napot a Tabarka Színház felé sétálva, amely tökéletes helyszín a partvidéki esti hangulat élvezetéhez.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă prin inima Tabarkăi, explorând monumentele de jazz și ruinele istorice ale Basilicii. La prânz admirați Monumentul Copacului de Corali înainte de a lua o pauză binemeritată pe nisipul plajei Bejiya. După-amiaza, urcați la maiestuosul Fort Genovez, care oferă vederi panoramice și o istorie bogată. Încheiați ziua plimbându-vă spre Teatrul Tabarka, un loc perfect pentru a vă bucura de atmosfera de seară a coastei.",
+        "en": "Start your morning with a relaxed stroll through the heart of Tabarka, exploring its famous jazz-themed monuments and the historical ruins of La Basilique. Midday brings you to the lively center, admiring the Coral Tree Monument before taking a leisurely break on the sands of Bejiya Beach. In the afternoon, ascend to the majestic Genoese Fort, offering sweeping sea views and rich history. Conclude your day walking towards the Tabarka Theatre, a perfect spot to enjoy the evening coastal ambiance."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saxophon",
+            "hu": "Szaxofon",
+            "ro": "Saxofon",
+            "en": "Saxophone"
+          },
+          "coords": [
+            8.772685,
+            36.950005
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die hoch aufragende Saxophon-Skulptur, die Tabarka als Jazz-Zentrum bestätigt, und machen Sie hier einen kurzen Stopp auf Ihrer landschaftlichen Fahrt.",
+            "hu": "Fedezze fel a hatalmas Szaxofon szobrot, amely tovább erősíti Tabarka nyüzsgő jazz központjának hírnevét, kiváló fotópontot nyújtva az utazás során.",
+            "ro": "Descoperiți sculptura falnică a saxofonului care consolidează statutul Tabarkăi de centru al jazz-ului, un popas perfect în timpul plimbării dumneavoastră.",
+            "en": "Discover the towering Saxophone sculpture that further cements Tabarka as a vibrant jazz hub, positioned perfectly for a quick stop during your scenic drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankerdenkmal",
+            "hu": "Horgony emlékmű",
+            "ro": "Monumentul Ancorei",
+            "en": "Anchor Monument"
+          },
+          "coords": [
+            8.760044,
+            36.951973
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie am Ankerdenkmal, das Tabarkas tiefe Verbindung zum Meer symbolisiert, und nutzen Sie die angrenzende Promenade für einen luftigen Spaziergang.",
+            "hu": "Álljon meg a Horgony emlékműnél, amely Tabarka és a tenger mély kapcsolatát szimbolizálja, majd sétáljon egyet a hűsítő szellőben a közeli sétányon.",
+            "ro": "Opriți-vă la Monumentul Ancorei, un simbol maritim al conexiunii Tabarkăi cu marea, și folosiți promenada adiacentă pentru o plimbare relaxantă pe coastă.",
+            "en": "Stop by the Anchor Monument, a maritime landmark symbolizing Tabarka's deep connection to the sea, and use the adjacent promenade for a breezy coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Korallenbaum-Denkmal",
+            "hu": "Korallfa emlékmű",
+            "ro": "Monumentul Copacului de Corali",
+            "en": "Coral Tree Monument"
+          },
+          "coords": [
+            8.757449,
+            36.956845
+          ],
+          "category": "historical",
+          "arrive_at": "09:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Korallenbaum-Denkmal, eine Hommage an die historische Korallentaucherei der Stadt, und achten Sie auf die Details der metallenen Zweige.",
+            "hu": "Tekintse meg a Korallfa emlékművet, amely a város történelmi korallbúvár-iparának állít emléket, és figyelje meg a fémágak bonyolult részletkidolgozását.",
+            "ro": "Admirați Monumentul Copacului de Corali, un omagiu adus industriei istorice de scufundări după corali, și observați detaliile complicate ale ramurilor.",
+            "en": "Marvel at the Coral Tree Monument, a striking tribute to the town's historical coral diving industry, and notice the intricate details on its metal branches."
+          }
+        },
+        {
+          "name": {
+            "de": "Cello-Denkmal",
+            "hu": "Cselló emlékmű",
+            "ro": "Monumentul Violoncelului",
+            "en": "Cello Monument"
+          },
+          "coords": [
+            8.75548,
+            36.957557
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Cello-Denkmal, das Tabarkas Jazz-Erbe feiert, und fotografieren Sie es am besten sicher von der Fußgängerzone aus ohne störenden Verkehr.",
+            "hu": "Csodálja meg a cselló emlékművet, amely Tabarka gazdag jazz zenei örökségét hirdeti, és a biztonságos sétálóutcáról készítse el a legjobb fényképeket.",
+            "ro": "Admirați monumentul violoncelului ce onorează moștenirea de jazz a Tabarkăi și asigurați-vă că faceți o fotografie din zona pietonală pentru siguranță.",
+            "en": "Admire the beautiful Cello Monument that celebrates Tabarka's rich jazz heritage, and snap a quick photo from the pedestrian zone to avoid street traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater La Basilique",
+            "hu": "La Basilique római színház",
+            "ro": "Teatrul Roman La Basilique",
+            "en": "La Basilique Roman Theatre"
+          },
+          "coords": [
+            8.755044,
+            36.956084
+          ],
+          "category": "cultural",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen der Basilika, eine faszinierende römische Stätte, und besuchen Sie sie früh am Tag, wenn das Licht die Steine erstrahlen lässt.",
+            "hu": "Fedezze fel a lenyűgöző római kori bazilika ősi romjait, és látogasson el ide a reggeli órákban, amikor a meleg fények gyönyörűen megvilágítják a köveket.",
+            "ro": "Explorați ruinele antice ale Basilicii, un sit roman impresionant, vizitându-l dimineața devreme, când lumina blândă evidențiază detaliile pietrelor.",
+            "en": "Explore the ancient ruins of La Basilique, an evocative Roman-era site, making sure to visit early in the day when the warm lighting highlights the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Bejiya-Strand",
+            "hu": "Bejiya strand",
+            "ro": "Plaja Bejiya",
+            "en": "Bejiya Beach"
+          },
+          "coords": [
+            8.758035,
+            36.959651
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Bejiya-Strand mit seinem goldenen Sand und dem klaren Meerwasser, und bringen Sie ein eigenes Handtuch mit, da es kaum Verleihstationen gibt.",
+            "hu": "Pihenjen a Bejiya strandon, amely aranyhomokjáról és tiszta vizéről ismert, de hozzon magával saját törölközőt, mivel a helyi kölcsönzők ritkák lehetnek.",
+            "ro": "Relaxați-vă pe plaja Bejiya, cunoscută pentru nisipul auriu și apele clare, dar aduceți propriul prosop, deoarece facilitățile de închiriere sunt rare.",
+            "en": "Relax at Bejiya Beach, known for its golden sands and clear Mediterranean waters, and bring your own beach towel as local rental facilities can be scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Genuesische Festung von Tabarka",
+            "hu": "Tabarka genovai erődje",
+            "ro": "Fortul Genovez din Tabarka",
+            "en": "Genoese Fort of Tabarka"
+          },
+          "coords": [
+            8.758652,
+            36.965213
+          ],
+          "category": "castle",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie zur beeindruckenden genuesischen Festung hinauf, um den Panoramablick zu genießen, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel a szigeten található lenyűgöző genovai erődbe a csodálatos tengerparti kilátásért, de feltétlenül viseljen masszív, kényelmes sétacipőt a köveken.",
+            "ro": "Urcați la impresionantul Fort Genovez pentru vederi panoramice ale coastei, dar purtați neapărat încălțăminte confortabilă pentru aleile pietruite denivelate.",
+            "en": "Climb to the impressive Genoese Fort on the island for sweeping panoramic views of the coast, but wear sturdy walking shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabarka-Theater",
+            "hu": "Tabarka Színház",
+            "ro": "Teatrul Tabarka",
+            "en": "Tabarka Theatre"
+          },
+          "coords": [
+            8.749507,
+            36.960015
+          ],
+          "category": "cultural",
+          "arrive_at": "14:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Tabarka-Theater, einer schönen Freiluftbühne am Meer, und informieren Sie sich vorab über abendliche musikalische Darbietungen.",
+            "hu": "Fejezze be a kulturális túrát a tengerre néző, gyönyörűen kialakított szabadtéri Tabarka Színháznál, és érdemes megnézni az esti zenei előadások műsorát.",
+            "ro": "Încheiați turul cultural la Teatrul Tabarka, o locație în aer liber cu vedere la mare, și verificați programul local pentru spectacole muzicale de seară.",
+            "en": "End your cultural tour at the Tabarka Theatre, a beautifully designed outdoor venue facing the sea, and check local listings for evening musical performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt auf malerischen Küstenwegen mit Stopps an den berühmten Saxophon- und Ankerdenkmälern. Mittags fahren Sie tiefer in die Stadt, um die Korallenbaum- und Cello-Denkmäler sowie das römische Theater zu besichtigen. Am Nachmittag radeln Sie für eine Pause zum Bejiya-Strand und fahren dann weiter zur beeindruckenden genuesischen Festung. Beenden Sie Ihre Radtour am Tabarka-Theater und genießen Sie den herrlichen Sonnenuntergang über dem glitzernden Wasser.",
+        "hu": "Kerékpáros kalandja a festői parti utakon kezdődik, ahol a város örökségét kiemelő Szaxofon és Horgony emlékműveknél áll meg először. A nap közepén a városközpont felé veszi az irányt a Korallfa és a Cselló emlékművek, majd a Római Színház felfedezésére. A délutáni tekerés a Bejiya strandra vezet egy kis pihenőre, mielőtt felkerekezne a genovai erődbe. Zárja a túrát a Tabarka Színháznál, ahol a lenyűgöző naplemente látványában gyönyörködhet.",
+        "ro": "Aventura pe bicicletă începe pe potecile pitorești de coastă, oprindu-vă la monumentele Saxofon și Ancoră care evidențiază moștenirea orașului. La prânz pedalați spre centrul orașului pentru a aprecia monumentele Copacul de Corali și Violoncel, explorând apoi Teatrul Roman. După-amiaza vă aduce o pauză pe plaja Bejiya înainte de a urca spre impresionantul Fort Genovez. Încheiați turul la Teatrul Tabarka, bucurându-vă de priveliștile asfințitului peste apa mării.",
+        "en": "Your biking adventure begins along the scenic coastal paths, stopping first at the iconic Saxophone and Anchor monuments that highlight the city's heritage. Midday takes you deeper into the city to appreciate the Coral Tree and Cello monuments, followed by an exploration of the Roman Theatre. Afternoon riding leads you to a relaxing break at Bejiya Beach before pedaling up towards the impressive Genoese Fort. End your cycling journey at the Tabarka Theatre, enjoying the sunset views over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 4.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tabarka-Theater",
+            "hu": "Tabarka Színház",
+            "ro": "Teatrul Tabarka",
+            "en": "Tabarka Theatre"
+          },
+          "coords": [
+            8.749507,
+            36.960015
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Tabarka-Theater, einer schönen Freiluftbühne am Meer, und informieren Sie sich vorab über abendliche musikalische Darbietungen.",
+            "hu": "Fejezze be a kulturális túrát a tengerre néző, gyönyörűen kialakított szabadtéri Tabarka Színháznál, és érdemes megnézni az esti zenei előadások műsorát.",
+            "ro": "Încheiați turul cultural la Teatrul Tabarka, o locație în aer liber cu vedere la mare, și verificați programul local pentru spectacole muzicale de seară.",
+            "en": "End your cultural tour at the Tabarka Theatre, a beautifully designed outdoor venue facing the sea, and check local listings for evening musical performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Cello-Denkmal",
+            "hu": "Cselló emlékmű",
+            "ro": "Monumentul Violoncelului",
+            "en": "Cello Monument"
+          },
+          "coords": [
+            8.75548,
+            36.957557
+          ],
+          "category": "historical",
+          "arrive_at": "10:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Cello-Denkmal, das Tabarkas Jazz-Erbe feiert, und fotografieren Sie es am besten sicher von der Fußgängerzone aus ohne störenden Verkehr.",
+            "hu": "Csodálja meg a cselló emlékművet, amely Tabarka gazdag jazz zenei örökségét hirdeti, és a biztonságos sétálóutcáról készítse el a legjobb fényképeket.",
+            "ro": "Admirați monumentul violoncelului ce onorează moștenirea de jazz a Tabarkăi și asigurați-vă că faceți o fotografie din zona pietonală pentru siguranță.",
+            "en": "Admire the beautiful Cello Monument that celebrates Tabarka's rich jazz heritage, and snap a quick photo from the pedestrian zone to avoid street traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater La Basilique",
+            "hu": "La Basilique római színház",
+            "ro": "Teatrul Roman La Basilique",
+            "en": "La Basilique Roman Theatre"
+          },
+          "coords": [
+            8.755044,
+            36.956084
+          ],
+          "category": "cultural",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen der Basilika, eine faszinierende römische Stätte, und besuchen Sie sie früh am Tag, wenn das Licht die Steine erstrahlen lässt.",
+            "hu": "Fedezze fel a lenyűgöző római kori bazilika ősi romjait, és látogasson el ide a reggeli órákban, amikor a meleg fények gyönyörűen megvilágítják a köveket.",
+            "ro": "Explorați ruinele antice ale Basilicii, un sit roman impresionant, vizitându-l dimineața devreme, când lumina blândă evidențiază detaliile pietrelor.",
+            "en": "Explore the ancient ruins of La Basilique, an evocative Roman-era site, making sure to visit early in the day when the warm lighting highlights the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Korallenbaum-Denkmal",
+            "hu": "Korallfa emlékmű",
+            "ro": "Monumentul Copacului de Corali",
+            "en": "Coral Tree Monument"
+          },
+          "coords": [
+            8.757449,
+            36.956845
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Korallenbaum-Denkmal, eine Hommage an die historische Korallentaucherei der Stadt, und achten Sie auf die Details der metallenen Zweige.",
+            "hu": "Tekintse meg a Korallfa emlékművet, amely a város történelmi korallbúvár-iparának állít emléket, és figyelje meg a fémágak bonyolult részletkidolgozását.",
+            "ro": "Admirați Monumentul Copacului de Corali, un omagiu adus industriei istorice de scufundări după corali, și observați detaliile complicate ale ramurilor.",
+            "en": "Marvel at the Coral Tree Monument, a striking tribute to the town's historical coral diving industry, and notice the intricate details on its metal branches."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankerdenkmal",
+            "hu": "Horgony emlékmű",
+            "ro": "Monumentul Ancorei",
+            "en": "Anchor Monument"
+          },
+          "coords": [
+            8.760044,
+            36.951973
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie am Ankerdenkmal, das Tabarkas tiefe Verbindung zum Meer symbolisiert, und nutzen Sie die angrenzende Promenade für einen luftigen Spaziergang.",
+            "hu": "Álljon meg a Horgony emlékműnél, amely Tabarka és a tenger mély kapcsolatát szimbolizálja, majd sétáljon egyet a hűsítő szellőben a közeli sétányon.",
+            "ro": "Opriți-vă la Monumentul Ancorei, un simbol maritim al conexiunii Tabarkăi cu marea, și folosiți promenada adiacentă pentru o plimbare relaxantă pe coastă.",
+            "en": "Stop by the Anchor Monument, a maritime landmark symbolizing Tabarka's deep connection to the sea, and use the adjacent promenade for a breezy coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Saxophon",
+            "hu": "Szaxofon",
+            "ro": "Saxofon",
+            "en": "Saxophone"
+          },
+          "coords": [
+            8.772685,
+            36.950005
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die hoch aufragende Saxophon-Skulptur, die Tabarka als Jazz-Zentrum bestätigt, und machen Sie hier einen kurzen Stopp auf Ihrer landschaftlichen Fahrt.",
+            "hu": "Fedezze fel a hatalmas Szaxofon szobrot, amely tovább erősíti Tabarka nyüzsgő jazz központjának hírnevét, kiváló fotópontot nyújtva az utazás során.",
+            "ro": "Descoperiți sculptura falnică a saxofonului care consolidează statutul Tabarkăi de centru al jazz-ului, un popas perfect în timpul plimbării dumneavoastră.",
+            "en": "Discover the towering Saxophone sculpture that further cements Tabarka as a vibrant jazz hub, positioned perfectly for a quick stop during your scenic drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bejiya-Strand",
+            "hu": "Bejiya strand",
+            "ro": "Plaja Bejiya",
+            "en": "Bejiya Beach"
+          },
+          "coords": [
+            8.758035,
+            36.959651
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Bejiya-Strand mit seinem goldenen Sand und dem klaren Meerwasser, und bringen Sie ein eigenes Handtuch mit, da es kaum Verleihstationen gibt.",
+            "hu": "Pihenjen a Bejiya strandon, amely aranyhomokjáról és tiszta vizéről ismert, de hozzon magával saját törölközőt, mivel a helyi kölcsönzők ritkák lehetnek.",
+            "ro": "Relaxați-vă pe plaja Bejiya, cunoscută pentru nisipul auriu și apele clare, dar aduceți propriul prosop, deoarece facilitățile de închiriere sunt rare.",
+            "en": "Relax at Bejiya Beach, known for its golden sands and clear Mediterranean waters, and bring your own beach towel as local rental facilities can be scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Genuesische Festung von Tabarka",
+            "hu": "Tabarka genovai erődje",
+            "ro": "Fortul Genovez din Tabarka",
+            "en": "Genoese Fort of Tabarka"
+          },
+          "coords": [
+            8.758652,
+            36.965213
+          ],
+          "category": "castle",
+          "arrive_at": "14:33",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie zur beeindruckenden genuesischen Festung hinauf, um den Panoramablick zu genießen, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel a szigeten található lenyűgöző genovai erődbe a csodálatos tengerparti kilátásért, de feltétlenül viseljen masszív, kényelmes sétacipőt a köveken.",
+            "ro": "Urcați la impresionantul Fort Genovez pentru vederi panoramice ale coastei, dar purtați neapărat încălțăminte confortabilă pentru aleile pietruite denivelate.",
+            "en": "Climb to the impressive Genoese Fort on the island for sweeping panoramic views of the coast, but wear sturdy walking shoes for the uneven cobblestone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem großen Besuch des Tabarka-Theaters und einem kurzen Stopp am Cello-Denkmal, während Sie die offenen Küstenstraßen genießen. Mittags schlendern Sie durch die Ruinen der Basilika und fahren bequem zu den anderen Denkmälern. Ihr Nachmittag ist für eine friedliche Pause an den ruhigen Gewässern des Bejiya-Strands reserviert. Gegen Abend fahren Sie zur genuesischen Festung hinauf, um einen atemberaubenden Sonnenuntergang über dem Mittelmeer zu erleben.",
+        "hu": "Kezdje az autós túrát a Tabarka Színház meglátogatásával és egy rövid megállóval a Cselló emlékműnél, élvezve a nyitott tengerparti utakat. Délben barangoljon a bazilika romjai között, majd kényelmesen utazzon tovább a Korallfa, a Horgony és a Szaxofon emlékművekhez. A délutánt a Bejiya strand békés vize melletti pihenésre szánja. Az este közeledtével vezessen fel a fenséges genovai erődbe, hogy megcsodálhasson egy lélegzetelállító panorámás naplementét a Földközi-tenger felett.",
+        "ro": "Începeți turul auto cu o vizită la Teatrul Tabarka și o scurtă oprire la Monumentul Violoncel, apreciind drumurile libere de coastă. La prânz plimbați-vă prin ruinele Basilicii și conduceți ușor între monumentele Copacul de Corali, Ancoră și Saxofon. După-amiaza este rezervată pentru o pauză liniștită la apele calme ale plajei Bejiya. Pe măsură ce se lasă seara, conduceți până la Fortul Genovez pentru a asista la un apus panoramic uimitor peste Marea Mediterană.",
+        "en": "Start your driving tour with a grand visit to the Tabarka Theatre and a quick stop at the nearby Cello Monument, appreciating the open coastal roads. By midday, wander through the ruins of La Basilique and easily hop between the Coral Tree, Anchor, and Saxophone monuments. Your afternoon is reserved for a peaceful break by the calm waters of Bejiya Beach. As evening approaches, drive up to the majestic Genoese Fort to witness a breathtaking panoramic sunset over the Mediterranean Sea."
+      }
+    }
+  }
+}

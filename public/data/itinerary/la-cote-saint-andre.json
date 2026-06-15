@@ -1,0 +1,428 @@
+{
+  "city_id": "la-cote-saint-andre",
+  "anchor": {
+    "name": "La Côte-Saint-André",
+    "coords": [
+      5.2606,
+      45.3936
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 1.23,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue von Hector Berlioz",
+            "hu": "Hector Berlioz szobra",
+            "ro": "Statuia lui Hector Berlioz",
+            "en": "Statue of Hector Berlioz"
+          },
+          "coords": [
+            5.259924,
+            45.391916
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Statue des berühmten lokalen Komponisten im Zentrum und lesen Sie die Gedenktafel über sein musikalisches Erbe.",
+            "hu": "Csodálja meg a híres helyi zeneszerző lenyűgöző szobrát a városközpontban, és mindenképpen olvassa el a zenei örökségét bemutató emléktáblát.",
+            "ro": "Admirați statuia impresionantă a renumitului compozitor local din centrul orașului și nu uitați să citiți placa ce detaliază moștenirea sa muzicală.",
+            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Hector Berlioz Museum",
+            "hu": "Hector Berlioz Múzeum",
+            "ro": "Muzeul Hector Berlioz",
+            "en": "Hector Berlioz Museum"
+          },
+          "coords": [
+            5.261221,
+            45.393356
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
+            "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Saint-André templom",
+            "ro": "Biserica Saint-André",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            5.258045,
+            45.39469
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die romanische Architektur und die ruhige Atmosphäre dieser alten Kirche, aber denken Sie daran, während der Gebetszeiten leise zu sein.",
+            "hu": "Csodálja meg ezen ősi templom gyönyörű román stílusú építészetét és békés hangulatát, figyelve arra, hogy csendben maradjon a helyi imaórák alatt.",
+            "ro": "Admirați arhitectura romanică și atmosfera senină a acestei biserici vechi, amintindu-vă să păstrați liniștea în timpul orelor de rugăciune locale.",
+            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Likörmuseum Cherry Rocher",
+            "hu": "Cherry Rocher Likőrmúzeum",
+            "ro": "Muzeul Lichiorului Cherry Rocher",
+            "en": "Cherry Rocher Liqueur Museum"
+          },
+          "coords": [
+            5.265429,
+            45.393045
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Likörherstellung ein und genießen Sie unbedingt die Verkostung am Ende der Tour.",
+            "hu": "Merüljön el a hagyományos likőrkészítés lenyűgöző történetében ebben az egyedülálló múzeumban, és a végén mindenképp vegyen részt a kóstolón.",
+            "ro": "Pătrundeți în istoria fascinantă a fabricării lichiorului tradițional la acest muzeu unic și asigurați-vă că vă bucurați de degustarea de la final.",
+            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Camille",
+            "hu": "Saint-Camille templom",
+            "ro": "Biserica Saint-Camille",
+            "en": "Saint-Camille Church"
+          },
+          "coords": [
+            5.267545,
+            45.393577
+          ],
+          "category": "religious",
+          "arrive_at": "13:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser charmanten, weniger bekannten Kirche und bewundern Sie die bescheidenen, aber schönen Buntglasfenster.",
+            "hu": "Töltsön el egy békés pillanatot ebben a bájos, kevésbé ismert templomban, hogy megcsodálja szerény ólomüveg ablakait egy csendes délutáni pihenőn.",
+            "ro": "Petreceți un moment de liniște în această biserică fermecătoare, mai puțin cunoscută, pentru a aprecia vitraliile sale modeste într-o după-amiază.",
+            "en": "Take a peaceful moment in this charming lesser-known church to appreciate its modest stained glass windows, ideal for a quiet afternoon retreat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Hommage an Hector Berlioz, gefolgt von einer Erkundung seines Geburtshauses. Mittags bietet die alte Kirche Saint-André eine friedliche Pause vor einem kulturellen Genuss. Der Nachmittag widmet sich der süßen Geschichte der Liköre bei Cherry Rocher. Der Tag endet mit einer ruhigen Besinnung in der nahegelegenen Église Saint-Camille.",
+        "hu": "A reggel Hector Berlioz tiszteletével kezdődik, megcsodálva központi szobrát és szülőházát. A dél körül egy békés pihenő következik a történelmi Saint-André templomnál. A délután a helyi likőrök édes történetébe enged betekintést a Cherry Rocher múzeumban. A napot a közeli Église Saint-Camille békés, elmélyült hangulata zárja le.",
+        "ro": "Dimineața începe cu un omagiu adus lui Hector Berlioz, explorând statuia sa și casa natală. La prânz, veți găsi un refugiu liniștit la istorica Biserică Saint-André. După-amiaza face tranziția către istoria dulce a lichiorurilor locale la Cherry Rocher. Ziua se încheie cu o reflecție senină la Église Saint-Camille, aflată în apropiere.",
+        "en": "Morning begins with a tribute to Hector Berlioz, admiring his central statue before exploring his birth home. Midday offers a peaceful interlude at the historic Saint-André Church, followed by an appetizing cultural dive. Afternoon transitions into the sweet history of local liqueurs at Cherry Rocher. The day concludes with serene reflection at the nearby Église Saint-Camille."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 2.66,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Saint-André templom",
+            "ro": "Biserica Saint-André",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            5.258045,
+            45.39469
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die romanische Architektur und die ruhige Atmosphäre dieser alten Kirche, aber denken Sie daran, während der Gebetszeiten leise zu sein.",
+            "hu": "Csodálja meg ezen ősi templom gyönyörű román stílusú építészetét és békés hangulatát, figyelve arra, hogy csendben maradjon a helyi imaórák alatt.",
+            "ro": "Admirați arhitectura romanică și atmosfera senină a acestei biserici vechi, amintindu-vă să păstrați liniștea în timpul orelor de rugăciune locale.",
+            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Hector Berlioz Museum",
+            "hu": "Hector Berlioz Múzeum",
+            "ro": "Muzeul Hector Berlioz",
+            "en": "Hector Berlioz Museum"
+          },
+          "coords": [
+            5.261221,
+            45.393356
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
+            "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Likörmuseum Cherry Rocher",
+            "hu": "Cherry Rocher Likőrmúzeum",
+            "ro": "Muzeul Lichiorului Cherry Rocher",
+            "en": "Cherry Rocher Liqueur Museum"
+          },
+          "coords": [
+            5.265429,
+            45.393045
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Likörherstellung ein und genießen Sie unbedingt die Verkostung am Ende der Tour.",
+            "hu": "Merüljön el a hagyományos likőrkészítés lenyűgöző történetében ebben az egyedülálló múzeumban, és a végén mindenképp vegyen részt a kóstolón.",
+            "ro": "Pătrundeți în istoria fascinantă a fabricării lichiorului tradițional la acest muzeu unic și asigurați-vă că vă bucurați de degustarea de la final.",
+            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine des Croisettes",
+            "hu": "Domaine des Croisettes",
+            "ro": "Domaine des Croisettes",
+            "en": "Domaine des Croisettes"
+          },
+          "coords": [
+            5.270061,
+            45.392455
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die eleganten Anlagen dieses wunderschönen Anwesens und bringen Sie Ihre Kamera für atemberaubende Architekturaufnahmen mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű birtokon, hogy megtapasztalja a helyi történelmet, és hozzon magával fényképezőgépet a lenyűgöző építészeti fotókhoz.",
+            "ro": "Plimbați-vă pe domeniul elegant al acestei frumoase proprietăți pentru a simți istoria locală și aduceți-vă aparatul pentru fotografii uimitoare.",
+            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Orientierungstafel",
+            "hu": "Panoráma kilátó",
+            "ro": "Punct de belvedere",
+            "en": "Panoramic Viewpoint"
+          },
+          "coords": [
+            5.253717,
+            45.402315
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem Aussichtspunkt für atemberaubende Ausblicke über das Tal und versuchen Sie, an klaren Tagen die fernen Alpengipfel zu erspähen.",
+            "hu": "Kerékpározzon fel ehhez a panorámás kilátóhoz, ahonnan lélegzetelállító kilátás nyílik a völgyre, és tiszta időben próbálja megkeresni az Alpokat.",
+            "ro": "Pedalați până la acest punct de belvedere pentru o panoramă uluitoare a văii și încercați să zăriți vârfurile alpine îndepărtate într-o zi senină.",
+            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Kirche Saint-André, bevor Sie zum nahegelegenen Berlioz-Museum fahren. Mittags locken süße Aromen im Likörmuseum Cherry Rocher. Am Nachmittag fahren Sie am malerischen Domaine des Croisettes vorbei und bewundern die historische Eleganz. Der Abend belohnt Sie mit einem Panoramablick ins Tal am Table d'orientation.",
+        "hu": "Kezdje kerékpáros túráját a Saint-André templomnál, mielőtt átgurulna a Berlioz Múzeumba. Délben édes illatok csábítják a Cherry Rocher likőrmúzeumba. Délután tekerjen el a festői Domaine des Croisettes mellett, megörökítve annak eleganciáját. Az este a völgyre nyíló lenyűgöző panorámával jutalmazza meg a Table d'orientation kilátójánál.",
+        "ro": "Începeți călătoria cu bicicleta la Biserica Saint-André, înainte de a pedala spre Muzeul Berlioz. La prânz, aromele dulci vă vor atrage la muzeul de lichior Cherry Rocher. După-amiaza, pedalați pe lângă domeniul pitoresc Croisettes pentru eleganța sa istorică. Seara vă recompensează cu un apus panoramic peste vale la Table d'orientation.",
+        "en": "Start your cycling journey at the architectural gem of Saint-André Church before riding to the nearby Berlioz Museum. By midday, sweet aromas will tempt you at the Cherry Rocher liqueur museum. In the afternoon, ride past the scenic Domaine des Croisettes, capturing its historical elegance. Your evening rewards you with a panoramic valley sunset at the Table d'orientation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Michel",
+            "hu": "Saint-Michel kápolna",
+            "ro": "Capela Saint-Michel",
+            "en": "Saint-Michel Chapel"
+          },
+          "coords": [
+            5.232735,
+            45.396901
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische, etwas außerhalb gelegene Kapelle wegen ihres historischen Charmes und parken Sie in der Nähe, um die Ruhe zu wahren.",
+            "hu": "Látogasson el ebbe a városon kívül található festői kápolnába, és parkoljon le egy rövid sétára, hogy tiszteletben tartsa a nyugodt környezetet.",
+            "ro": "Vizitați această capelă pitorească situată puțin în afara orașului pentru farmecul ei istoric, parcând la o scurtă plimbare pentru a păstra liniștea.",
+            "en": "Visit this quaint chapel situated slightly out of town to enjoy its historic charm, parking just a short walk away to respect the tranquil setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Hector Berlioz",
+            "hu": "Hector Berlioz szobra",
+            "ro": "Statuia lui Hector Berlioz",
+            "en": "Statue of Hector Berlioz"
+          },
+          "coords": [
+            5.259924,
+            45.391916
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Statue des berühmten lokalen Komponisten im Zentrum und lesen Sie die Gedenktafel über sein musikalisches Erbe.",
+            "hu": "Csodálja meg a híres helyi zeneszerző lenyűgöző szobrát a városközpontban, és mindenképpen olvassa el a zenei örökségét bemutató emléktáblát.",
+            "ro": "Admirați statuia impresionantă a renumitului compozitor local din centrul orașului și nu uitați să citiți placa ce detaliază moștenirea sa muzicală.",
+            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Hector Berlioz Museum",
+            "hu": "Hector Berlioz Múzeum",
+            "ro": "Muzeul Hector Berlioz",
+            "en": "Hector Berlioz Museum"
+          },
+          "coords": [
+            5.261221,
+            45.393356
+          ],
+          "category": "museum",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
+            "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine des Croisettes",
+            "hu": "Domaine des Croisettes",
+            "ro": "Domaine des Croisettes",
+            "en": "Domaine des Croisettes"
+          },
+          "coords": [
+            5.270061,
+            45.392455
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die eleganten Anlagen dieses wunderschönen Anwesens und bringen Sie Ihre Kamera für atemberaubende Architekturaufnahmen mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű birtokon, hogy megtapasztalja a helyi történelmet, és hozzon magával fényképezőgépet a lenyűgöző építészeti fotókhoz.",
+            "ro": "Plimbați-vă pe domeniul elegant al acestei frumoase proprietăți pentru a simți istoria locală și aduceți-vă aparatul pentru fotografii uimitoare.",
+            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            5.288996,
+            45.395909
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser historischen Landkirche, um das klassische Mauerwerk der Region zu bewundern, da der Innenraum oft nur am Wochenende geöffnet ist.",
+            "hu": "Vezessen el ehhez a történelmi vidéki templomhoz, hogy megcsodálja klasszikus falazatát, de vegye figyelembe, hogy belül gyakran csak hétvégén nyitott.",
+            "ro": "Conduceți până la această biserică rurală istorică pentru a-i admira zidăria clasică, amintindu-vă că interiorul este adesea deschis doar în weekend.",
+            "en": "Drive to this historic rural church to admire its classic regional masonry, keeping in mind that the interior is often only open during weekend mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Orientierungstafel",
+            "hu": "Panoráma kilátó",
+            "ro": "Punct de belvedere",
+            "en": "Panoramic Viewpoint"
+          },
+          "coords": [
+            5.253717,
+            45.402315
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.84,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem Aussichtspunkt für atemberaubende Ausblicke über das Tal und versuchen Sie, an klaren Tagen die fernen Alpengipfel zu erspähen.",
+            "hu": "Kerékpározzon fel ehhez a panorámás kilátóhoz, ahonnan lélegzetelállító kilátás nyílik a völgyre, és tiszta időben próbálja megkeresni az Alpokat.",
+            "ro": "Pedalați până la acest punct de belvedere pentru o panoramă uluitoare a văii și încercați să zăriți vârfurile alpine îndepărtate într-o zi senină.",
+            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der abgelegenen Kapelle Saint-Michel und führt Sie dann ins Zentrum, um Hector Berlioz zu ehren. Mittags besuchen Sie sein Geburtshaus und das atemberaubende Domaine des Croisettes. Den Nachmittag verbringen Sie mit ländlichem Erbe an der Église Saint-Maurice. Beenden Sie Ihren Roadtrip mit einem weiten Blick vom Table d'orientation.",
+        "hu": "Az autózás az eldugott Chapelle Saint-Michel-nél indul, majd a belvárosba vezet, ahol tiszteleghet Hector Berlioz előtt. Délben a szülőház és a lenyűgöző Domaine des Croisettes nyújt egy kis pompát. A délutánt a vidéki örökség felfedezésével töltheti a Saint-Maurice templomnál. Zárja az autós utat a Table d'orientation panorámájával.",
+        "ro": "Călătoria auto începe la retrasă Chapelle Saint-Michel, stabilind un ton liniștit înainte de a intra în oraș pentru a-l onora pe Berlioz. La prânz, vizitați casa copilăriei sale și uimitorul Domeniu Croisettes. După-amiaza este dedicată descoperirii moștenirii rurale la Église Saint-Maurice. Încheiați călătoria cu o panoramă vastă de la Table d'orientation.",
+        "en": "Your drive begins at the secluded Chapelle Saint-Michel, setting a tranquil tone before heading into town to honor Hector Berlioz. Midday brings you to his childhood home and the stunning Domaine des Croisettes for a dose of grandeur. The afternoon is spent discovering rural heritage at Église Saint-Maurice. Conclude your road trip with sweeping views from the Table d'orientation."
+      }
+    }
+  }
+}

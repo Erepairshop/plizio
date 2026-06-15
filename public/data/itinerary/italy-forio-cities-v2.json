@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-forio-cities-v2",
+  "anchor": {
+    "name": "Forio",
+    "coords": [
+      13.85814,
+      40.73684
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 1.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Sprint",
+            "hu": "Parco Sprint",
+            "ro": "Parco Sprint",
+            "en": "Parco Sprint"
+          },
+          "coords": [
+            13.857888,
+            40.736234
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem lebhaften Park mitten im Zentrum und genießen Sie die grüne Oase; denken Sie daran, eine Flasche Wasser mitzubringen.",
+            "hu": "Pihenjen meg ebben a központi, élénk parkban, élvezve a frissítő zöldövezetet, de mindenképpen hozzon magával elég ivóvizet a kényelemhez.",
+            "ro": "Relaxați-vă în acest parc plin de viață situat central, bucurându-vă de spațiul verde răcoritor și nu uitați să luați o sticlă cu apă.",
+            "en": "Relax in this lively park located right in the center, enjoying the refreshing green space and remembering to pack some water for your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Madre di Forio",
+            "hu": "Chiesa Madre di Forio",
+            "ro": "Chiesa Madre di Forio",
+            "en": "Chiesa Madre di Forio"
+          },
+          "coords": [
+            13.859333,
+            40.733538
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser Hauptkirche und ihre tiefe lokale Geschichte, während Sie während der Messe auf Ruhe achten.",
+            "hu": "Csodálja meg e központi főtemplom lenyűgöző építészetét és mély történelmét, de ügyeljen arra, hogy halkan beszéljen a misék ideje alatt.",
+            "ro": "Admirați arhitectura rafinată a acestei biserici principale, apreciind istoria sa locală profundă în timp ce păstrați liniștea în timpul slujbei.",
+            "en": "Admire the exquisite architecture of this central mother church, appreciating its deep local history while keeping your voice down during mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Annozero2.0 - Unterirdische Kunstgalerie",
+            "hu": "Annozero2.0 - Földalatti Galéria",
+            "ro": "Annozero2.0 - Galerie de Artă Subterană",
+            "en": "Annozero2.0 - Underground Art Gallery"
+          },
+          "coords": [
+            13.858674,
+            40.734925
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie einzigartige zeitgenössische Kunst in diesem faszinierenden unterirdischen Raum und prüfen Sie vorab den Ausstellungsplan.",
+            "hu": "Fedezzen fel egyedi kortárs helyi műalkotásokat ebben a lenyűgöző földalatti galériában, és érdemes előre ellenőrizni az időszaki tárlatokat.",
+            "ro": "Descoperiți piese de artă contemporană unice în acest spațiu subteran fascinant și verificați programul în avans pentru expoziții speciale.",
+            "en": "Discover unique contemporary local art pieces in this fascinating underground space, and check their schedule in advance for special exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Torone",
+            "hu": "Torre Torone",
+            "ro": "Torre Torone",
+            "en": "Torre Torone"
+          },
+          "coords": [
+            13.859056,
+            40.731817
+          ],
+          "category": "landmark",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Turm, der einst die Küste schützte, und erklimmen Sie die Stufen vorsichtig für einen tollen Ausblick.",
+            "hu": "Fedezze fel ezt az egykor a partot védő, impozáns történelmi tornyot, melynek lépcsőit óvatosan megmászva csodás kilátásban lesz része.",
+            "ro": "Explorați acest turn istoric impunător care a protejat odată coasta, urcând treptele cu grijă pentru a vă bucura de o vedere impresionantă.",
+            "en": "Explore this imposing historic tower that once protected the coast, climbing its steps carefully to enjoy a small but stunning aerial view."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria del Soccorso",
+            "hu": "Santa Maria del Soccorso",
+            "ro": "Santa Maria del Soccorso",
+            "en": "Santa Maria del Soccorso"
+          },
+          "coords": [
+            13.854457,
+            40.737102
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese ikonische weiße Kirche direkt an der Klippe und planen Sie Ihren Besuch zum Sonnenuntergang für unvergessliche Fotos.",
+            "hu": "Csodálja meg a szikla szélén álló ikonikus fehér templomot, és időzítse látogatását naplementére az igazán felejthetetlen fotók kedvéért.",
+            "ro": "Admirați această biserică albă iconică cocoțată pe stâncă și planificați-vă vizita la apus pentru a surprinde fotografii cu adevărat de neuitat.",
+            "en": "Marvel at this iconic white church perched perfectly on the cliff, and plan your visit for sunset to capture truly unforgettable photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang im Parco Sprint, bevor Sie die beeindruckende Chiesa Madre besuchen.\n\nTauchen Sie im Annozero2.0 in die Kultur ein und erkunden Sie zeitgenössische unterirdische Kunst mitten im Zentrum.\n\nAm Nachmittag können Sie den historischen Torre Torone erklimmen und die schöne Aussicht auf das Dorf genießen.\n\nBeenden Sie die Tour an der Santa Maria del Soccorso, einer weißen Klippenkirche mit spektakulärem Sonnenuntergang.",
+        "hu": "Kezdje a napot egy pihentető sétával a Parco Sprintben, majd irány a lenyűgöző Chiesa Madre di Forio.\n\nDélben merüljön el a helyi kultúrában az Annozero2.0 földalatti kortárs művészeti galériájának felfedezésével.\n\nDélután mássza meg a történelmi Torre Torone épületét, hogy megcsodálhassa a falura nyíló csodás kilátást.\n\nZárja a napot a sziklára épült Santa Maria del Soccorso fehér templománál egy látványos naplementével.",
+        "ro": "Începeți ziua cu o plimbare relaxantă în Parco Sprint înainte de a vă îndrepta spre impresionanta Chiesa Madre.\n\nLa prânz, explorați cultura locală la Annozero2.0, descoperind arta contemporană subterană chiar în centru.\n\nDupă-amiaza, urcați pe istoricul Torre Torone pentru a admira priveliștile minunate asupra satului.\n\nÎncheiați turul la Santa Maria del Soccorso, o biserică albă pe stâncă ce oferă un apus de soare spectaculos.",
+        "en": "Start your day with a relaxing stroll in Parco Sprint before heading to the impressive Chiesa Madre di Forio.\n\nDive into local culture at Annozero2.0, exploring the underground contemporary art hidden right in the center.\n\nAfternoon brings a climb up the historic Torre Torone to imagine its past defenses and enjoy lovely village views.\n\nConclude at Santa Maria del Soccorso, a stunning white cliffside church offering the most spectacular sunset scenery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 2.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia della Chiaia",
+            "hu": "Spiaggia della Chiaia",
+            "ro": "Spiaggia della Chiaia",
+            "en": "Spiaggia della Chiaia"
+          },
+          "coords": [
+            13.864521,
+            40.741834
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache Wasser dieses weitläufigen Sandstrandes für Familien; kommen Sie früh, um eine bequeme Sonnenliege zu sichern.",
+            "hu": "Élvezze e széles homokos strand sekély vizét, mely ideális családoknak; érkezzen korán, hogy biztosítson magának egy kényelmes napágyat.",
+            "ro": "Bucurați-vă de apele puțin adânci ale acestei plaje întinse cu nisip, perfectă pentru familii, și ajungeți devreme pentru un șezlong confortabil.",
+            "en": "Enjoy the shallow waters of this expansive sandy beach perfect for families, making sure to arrive early to secure a comfortable sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Sprint",
+            "hu": "Parco Sprint",
+            "ro": "Parco Sprint",
+            "en": "Parco Sprint"
+          },
+          "coords": [
+            13.857888,
+            40.736234
+          ],
+          "category": "recreational",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem lebhaften Park mitten im Zentrum und genießen Sie die grüne Oase; denken Sie daran, eine Flasche Wasser mitzubringen.",
+            "hu": "Pihenjen meg ebben a központi, élénk parkban, élvezve a frissítő zöldövezetet, de mindenképpen hozzon magával elég ivóvizet a kényelemhez.",
+            "ro": "Relaxați-vă în acest parc plin de viață situat central, bucurându-vă de spațiul verde răcoritor și nu uitați să luați o sticlă cu apă.",
+            "en": "Relax in this lively park located right in the center, enjoying the refreshing green space and remembering to pack some water for your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Madre di Forio",
+            "hu": "Chiesa Madre di Forio",
+            "ro": "Chiesa Madre di Forio",
+            "en": "Chiesa Madre di Forio"
+          },
+          "coords": [
+            13.859333,
+            40.733538
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser Hauptkirche und ihre tiefe lokale Geschichte, während Sie während der Messe auf Ruhe achten.",
+            "hu": "Csodálja meg e központi főtemplom lenyűgöző építészetét és mély történelmét, de ügyeljen arra, hogy halkan beszéljen a misék ideje alatt.",
+            "ro": "Admirați arhitectura rafinată a acestei biserici principale, apreciind istoria sa locală profundă în timp ce păstrați liniștea în timpul slujbei.",
+            "en": "Admire the exquisite architecture of this central mother church, appreciating its deep local history while keeping your voice down during mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavaskulptur",
+            "hu": "Lávaszobor",
+            "ro": "Sculptura din Lavă",
+            "en": "Lavasculpture"
+          },
+          "coords": [
+            13.857514,
+            40.729826
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese natürliche Felsformation, die zu einer Skulptur wurde, und machen Sie auf dem Weg nach Süden einen schnellen Fotostopp.",
+            "hu": "Nézze meg ezt a feltűnő szoborrá formált, természetes sziklaalakzatot, és álljon meg egy gyors fotó erejéig, miközben dél felé halad.",
+            "ro": "Vedeți această formațiune stâncoasă transformată creativ într-o sculptură izbitoare și opriți-vă pentru o fotografie rapidă în drum spre sud.",
+            "en": "See this natural rock formation creatively transformed into a striking sculpture, stopping by on your way south to snap a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini Ravino, Tropischer Garten",
+            "hu": "Giardini Ravino Trópusi Kert",
+            "ro": "Giardini Ravino, Grădină Tropicală",
+            "en": "Giardini Ravino, Tropical Garden"
+          },
+          "coords": [
+            13.865727,
+            40.727153
+          ],
+          "category": "park",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eine exotische Sammlung seltener Kakteen und genießen Sie anschließend einen erfrischenden Kaktus-Cocktail im Café.",
+            "hu": "Sétáljon ritka kaktuszok és pozsgások hihetetlen egzotikus gyűjteményében, és feltétlenül kóstolja meg a kert kávézójának kaktuszos koktélját.",
+            "ro": "Plimbați-vă printr-o colecție exotică incredibilă de cactuși rari și savurați un cocktail răcoritor de cactus la cafeneaua din grădină.",
+            "en": "Wander through an incredible exotic collection of rare cacti and succulents, and grab a refreshing cactus cocktail at the garden's cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Cava dell'isola",
+            "hu": "Cava dell'isola",
+            "ro": "Cava dell'isola",
+            "en": "Cava dell'isola"
+          },
+          "coords": [
+            13.859645,
+            40.726068
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem kostenlosen, jugendlichen Strand mit herrlich klarem Wasser; denken Sie daran, dass es hier keinen Liegenverleih gibt.",
+            "hu": "Kapcsolódjon ki ezen a teljesen ingyenes, fiatalos strandon a kristálytiszta vízben, de ne feledje, hogy itt nem lehet napágyat bérelni.",
+            "ro": "Relaxați-vă la această plajă gratuită și plină de tineret, cu ape cristaline, ținând cont că aici nu există închirieri de șezlonguri.",
+            "en": "Unwind at this completely free, vibrant youth-friendly beach with gorgeous pristine waters, remembering there are no sunbed rentals here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zur Spiaggia della Chiaia für eine erfrischende Meeresbrise und fahren Sie dann zum belebten Parco Sprint.\n\nMittags passieren Sie die historische Chiesa Madre und die kuriose Lavaskulptur, während Sie weiter in Richtung Süden treten.\n\nMachen Sie am Nachmittag eine Pause im Giardini Ravino, um riesige exotische Kakteen und tropische Flora zu bewundern.\n\nBeenden Sie Ihre Fahrt am späten Nachmittag in der entspannten, jugendlichen Atmosphäre der Cava dell'isola, während die Sonne tiefer steht.",
+        "hu": "Kerékpározzon el reggel a Spiaggia della Chiaia partra a frissítő tengeri szellőért, majd tekerjen tovább az élénk Parco Sprint felé.\n\nDélben haladjon el a történelmi Chiesa Madre és a különös Lávaszobor mellett, ahogy dél felé folytatja útját a part mentén.\n\nDélután tartson pihenőt a Giardini Ravino trópusi kertjében, ahol megcsodálhatja az óriáskaktuszok és egzotikus növények lenyűgöző gyűjteményét.\n\nZárja a kerékpártúrát a fiatalos és laza hangulatú Cava dell'isola strandon, miközben a késő délutáni nap kellemesen lecsendesedik.",
+        "ro": "Pedalați dimineața spre Spiaggia della Chiaia pentru o briză răcoritoare, apoi mergeți către animatul Parco Sprint central.\n\nLa prânz, treceți pe lângă istorica Chiesa Madre și curioasa Sculptură din Lavă, în timp ce coborâți spre sud de-a lungul coastei.\n\nDupă-amiaza, faceți o pauză la Giardini Ravino pentru a admira o colecție incredibilă de cactuși exotici și floră tropicală.\n\nÎncheiați-vă călătoria la Cava dell'isola, bucurându-vă de o atmosferă relaxată și tinerescă pe plajă pe măsură ce soarele de după-amiază se domolește.",
+        "en": "Cycle to Spiaggia della Chiaia for a refreshing morning breeze, then ride towards the lively central greenery of Parco Sprint.\n\nPass by the historic Chiesa Madre di Forio and the curious Lavasculpture as you pedal continuously southward along the lovely coast.\n\nTake a break at Giardini Ravino to admire an incredible collection of giant exotic cacti and uniquely beautiful tropical flora.\n\nEnd your ride at Cava dell'isola, enjoying a youthful and relaxed beach vibe as the late afternoon sun begins to gracefully cool down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:40",
+      "total_km": 7.04,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere San Josemaría Escrivá",
+            "hu": "Belvedere San Josemaría Escrivá",
+            "ro": "Belvedere San Josemaría Escrivá",
+            "en": "Belvedere San Josemaría Escrivá"
+          },
+          "coords": [
+            13.867936,
+            40.753363
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem erhöhten Punkt den Panoramablick auf das blaue Meer und bringen Sie ein Fernglas mit, um Segelboote zu erspähen.",
+            "hu": "Élvezze az azúrkék tengerre nyíló széles panorámát erről a magaslati pontról, és hozzon magával távcsövet az elhaladó vitorlások megfigyeléséhez.",
+            "ro": "Admirați priveliștile panoramice ample asupra mării albastre din acest punct înalt, aducând un binoclu pentru a observa bărcile cu pânze.",
+            "en": "Take in sweeping panoramic views of the brilliant blue sea from this elevated spot, bringing binoculars to spot passing sailing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere I Pizzi",
+            "hu": "Belvedere I Pizzi",
+            "ro": "Belvedere I Pizzi",
+            "en": "Belvedere I Pizzi"
+          },
+          "coords": [
+            13.872367,
+            40.75325
+          ],
+          "category": "natural",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erleben Sie an diesem Aussichtspunkt eine ruhigere, raue Perspektive der Küste, die Sie am besten in der kühlen Morgenluft besuchen.",
+            "hu": "Tapasztalja meg a gyönyörű partvonal egy csendesebb, vadabb arcát erről a kilátóból, melyet a hűvös reggeli levegőn a legjobb meglátogatni.",
+            "ro": "Experimentați o perspectivă mai liniștită și stâncoasă a coastei de la acest punct de belvedere, vizitat cel mai bine în aerul răcoros al dimineții.",
+            "en": "Experience a quieter, rugged perspective of the beautiful coastline from this secondary viewpoint, best visited during the cool morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Citara",
+            "hu": "Spiaggia di Citara",
+            "ro": "Spiaggia di Citara",
+            "en": "Spiaggia di Citara"
+          },
+          "coords": [
+            13.861232,
+            40.717522
+          ],
+          "category": "recreational",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.07,
+          "tip_5lang": {
+            "de": "Sonnen Sie sich an diesem beliebten Strand mit therapeutischer Wirkung und kommen Sie früh, um einen Platz nahe der Thermalbäder zu finden.",
+            "hu": "Sütkérezzen a meleg mediterrán napon ezen a népszerű, terápiás jellegű strandon, és érkezzen korán, hogy helyet kapjon a termálfürdők közelében.",
+            "ro": "Bucurați-vă de soarele cald mediteranean la această plajă terapeutică foarte populară, ajungând devreme lângă celebrele băi termale.",
+            "en": "Bask in the warm Mediterranean sun at this very popular therapeutic beach area, arriving early to grab a spot near the famous thermal baths."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini Ravino, Tropischer Garten",
+            "hu": "Giardini Ravino Trópusi Kert",
+            "ro": "Giardini Ravino, Grădină Tropicală",
+            "en": "Giardini Ravino, Tropical Garden"
+          },
+          "coords": [
+            13.865727,
+            40.727153
+          ],
+          "category": "park",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eine exotische Sammlung seltener Kakteen und genießen Sie anschließend einen erfrischenden Kaktus-Cocktail im Café.",
+            "hu": "Sétáljon ritka kaktuszok és pozsgások hihetetlen egzotikus gyűjteményében, és feltétlenül kóstolja meg a kert kávézójának kaktuszos koktélját.",
+            "ro": "Plimbați-vă printr-o colecție exotică incredibilă de cactuși rari și savurați un cocktail răcoritor de cactus la cafeneaua din grădină.",
+            "en": "Wander through an incredible exotic collection of rare cacti and succulents, and grab a refreshing cactus cocktail at the garden's cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria del Soccorso",
+            "hu": "Santa Maria del Soccorso",
+            "ro": "Santa Maria del Soccorso",
+            "en": "Santa Maria del Soccorso"
+          },
+          "coords": [
+            13.854457,
+            40.737102
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese ikonische weiße Kirche direkt an der Klippe und planen Sie Ihren Besuch zum Sonnenuntergang für unvergessliche Fotos.",
+            "hu": "Csodálja meg a szikla szélén álló ikonikus fehér templomot, és időzítse látogatását naplementére az igazán felejthetetlen fotók kedvéért.",
+            "ro": "Admirați această biserică albă iconică cocoțată pe stâncă și planificați-vă vizita la apus pentru a surprinde fotografii cu adevărat de neuitat.",
+            "en": "Marvel at this iconic white church perched perfectly on the cliff, and plan your visit for sunset to capture truly unforgettable photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den nördlichen Aussichtspunkten; starten Sie am San Josemaría Escrivá und I Pizzi für atemberaubende Panoramen.\n\nFahren Sie mittags nach Süden zur weitläufigen Spiaggia di Citara, die für ihr kristallklares Wasser neben den Thermalbädern bekannt ist.\n\nErkunden Sie am Nachmittag die botanischen Wunder des Giardini Ravino und spazieren Sie zwischen massiven Sukkulenten und seltenen Pflanzen.\n\nFahren Sie zurück zur ikonischen Santa Maria del Soccorso, um vor dem Abschluss Ihrer Reise einen majestätischen Sonnenuntergang zu erleben.",
+        "hu": "Vezessen reggel az északi kilátókhoz; kezdje a San Josemaría Escrivá és I Pizzi pontoknál a lélegzetelállító reggeli panorámákért.\n\nDélben haladjon dél felé a tágas Spiaggia di Citara strandra, mely a híres termálkertek melletti kristálytiszta vizéről ismert.\n\nDélután fedezze fel a Giardini Ravino botanikai csodáit, sétáljon a hatalmas pozsgások és egyedi, egzotikus növényfajok között.\n\nVezessen vissza az ikonikus Santa Maria del Soccorso templomhoz egy fenséges tengeri naplementére, mielőtt befejezné a kirándulást.",
+        "ro": "Conduceți dimineața spre punctele de belvedere nordice, începând cu San Josemaría Escrivá și I Pizzi pentru panorame matinale superbe.\n\nLa prânz, îndreptați-vă spre sud la spațioasa Spiaggia di Citara, renumită pentru apele sale cristaline adiacente grădinilor termale.\n\nDupă-amiaza, explorați minunile botanice din Giardini Ravino, plimbându-vă printre suculentele masive și speciile unice de plante.\n\nConduceți înapoi la iconica biserică Santa Maria del Soccorso pentru un apus de soare maiestuos deasupra mării, încheind astfel excursia.",
+        "en": "Drive to the northern belvederes, starting at San Josemaría Escrivá and the rugged I Pizzi for absolutely breathtaking morning panoramas.\n\nHead south to the spacious Spiaggia di Citara, renowned for its crystal waters immediately adjacent to the island's famous thermal gardens.\n\nExplore the botanical wonders of Giardini Ravino, taking time to slowly stroll among massive succulents and uniquely curated plant species.\n\nDrive back to the iconic cliffside Santa Maria del Soccorso for a majestically beautiful sunset over the sea before concluding your trip."
+      }
+    }
+  }
+}

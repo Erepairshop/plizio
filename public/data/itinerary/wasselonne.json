@@ -1,0 +1,520 @@
+{
+  "city_id": "wasselonne",
+  "anchor": {
+    "name": "Wasselonne",
+    "coords": [
+      7.4481,
+      48.6372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 2.78,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            7.447278,
+            48.636997
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser örtlichen Kirche und genießen Sie die friedliche Atmosphäre, am besten früh morgens.",
+            "hu": "Csodálja meg a helyi templom gyönyörű építészetét és élvezze annak békés hangulatát, lehetőleg korán érkezve a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale și bucurați-vă de atmosfera sa pașnică, vizitând ideal dimineața devreme.",
+            "en": "Admire the beautiful architecture of this local church and enjoy its peaceful atmosphere, preferably visiting early to avoid any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Bosco",
+            "hu": "Église Saint-Jean-Bosco",
+            "ro": "Église Saint-Jean-Bosco",
+            "en": "Église Saint-Jean-Bosco"
+          },
+          "coords": [
+            7.444343,
+            48.637412
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die feinen Details dieser Kultstätte und bringen Sie eine Kamera mit, um das atemberaubende Licht einzufangen.",
+            "hu": "Szánjon egy kis időt a vallási hely finom részleteinek felfedezésére, és hozzon magával fényképezőgépet a lenyűgöző fényviszonyok megörökítéséhez.",
+            "ro": "Faceți-vă timp să explorați detaliile complicate ale acestui lăcaș de cult, aducând o cameră pentru a surprinde iluminatul interior.",
+            "en": "Take a moment to explore the intricate details of this religious site, bringing a camera to capture the stunning interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Wasselonne",
+            "hu": "Château de Wasselonne",
+            "ro": "Château de Wasselonne",
+            "en": "Château de Wasselonne"
+          },
+          "coords": [
+            7.446014,
+            48.637756
+          ],
+          "category": "castle",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, welche die Skyline prägt, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a város látképét uraló történelmi kastély maradványait, és viseljen kényelmes cipőt a kissé egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric care domină orizontul orașului, purtând încălțăminte confortabilă pentru terenul ușor accidentat.",
+            "en": "Explore the remnants of this historic castle that dominates the town's skyline, wearing comfortable shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Ronde",
+            "hu": "Tour Ronde",
+            "ro": "Tour Ronde",
+            "en": "Tour Ronde"
+          },
+          "coords": [
+            7.445709,
+            48.638776
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen beeindruckenden runden Turm der mittelalterlichen Verteidigung und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Figyelje meg ezt a lenyűgöző kerek tornyot, amely bepillantást enged a középkori védelembe, és olvassa el a közeli tájékoztató táblákat.",
+            "ro": "Observați acest turn rotund impresionant care oferă o perspectivă asupra apărării medievale și citiți plăcile informative din apropiere.",
+            "en": "Climb or observe this impressive round tower that offers a glimpse into medieval defense strategies, and read the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Papeterie Pasquay",
+            "hu": "Papeterie Pasquay",
+            "ro": "Papeterie Pasquay",
+            "en": "Papeterie Pasquay"
+          },
+          "coords": [
+            7.4228,
+            48.6324
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser ehemaligen Papiermühle und fragen Sie nach Führungen, um die Geschichte zu verstehen.",
+            "hu": "Fedezze fel a lenyűgöző ipari örökséget ebben az egykori papírmalomban, és érdeklődjön a helyiektől az esetleges idegenvezetésekről.",
+            "ro": "Descoperiți moștenirea industrială fascinantă la această fostă fabrică de hârtie, întrebând localnicii despre tururi ghidate disponibile.",
+            "en": "Discover the fascinating industrial heritage at this former paper mill, asking the locals about guided tours to fully understand its history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Wasselonne mit der Erkundung der Friedensstätten Église Saint-Laurent und Église Saint-Jean-Bosco.\n\nGegen Mittag tauchen Sie am imposanten Château de Wasselonne in die feudale Vergangenheit der Stadt ein.\n\nDer Nachmittag widmet sich den mittelalterlichen Festungsanlagen mit einem genauen Blick auf die Tour Ronde.\n\nIhr Tag endet mit einem Spaziergang zur historischen Papeterie Pasquay, die Industriegeschichte mit abendlicher Ruhe verbindet.",
+        "hu": "A délelőtt Wasselonne szívében indul, a békés Église Saint-Laurent és az Église Saint-Jean-Bosco felfedezésével.\n\nDélben a város feudális múltjába merülhet a lenyűgöző Château de Wasselonne területén.\n\nA délután a középkori erődítményeknek van szentelve, közelebbről megvizsgálva a kerek Tour Ronde-ot.\n\nA nap a történelmi Papeterie Pasquay felé tett festői sétával zárul, ötvözve az ipartörténetet az esti nyugalommal.",
+        "ro": "Dimineața începe în inima orașului Wasselonne, explorând liniștitele Église Saint-Laurent și Église Saint-Jean-Bosco.\n\nLa prânz, vă veți scufunda în trecutul feudal al orașului la impunătorul Château de Wasselonne.\n\nDupă-amiaza este dedicată fortificațiilor medievale, cu o privire atentă la Tour Ronde.\n\nZiua se încheie cu o plimbare pitorească spre istorica Papeterie Pasquay, îmbinând istoria industrială cu liniștea serii.",
+        "en": "Your morning starts in the heart of Wasselonne, exploring the peaceful Église Saint-Laurent and Église Saint-Jean-Bosco.\n\nAround midday, you will delve into the town's feudal past at the imposing Château de Wasselonne.\n\nThe afternoon is dedicated to medieval fortifications with a close look at the Tour Ronde.\n\nYour day concludes with a scenic walk towards the historical Papeterie Pasquay, blending industrial history with the evening calm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Oswald",
+            "hu": "Église Saint-Oswald",
+            "ro": "Église Saint-Oswald",
+            "en": "Église Saint-Oswald"
+          },
+          "coords": [
+            7.409317,
+            48.644937
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Architektur dieser Kirche außerhalb des Zentrums und nutzen Sie die ruhigen Straßen für eine entspannte Fahrt.",
+            "hu": "Csodálja meg e sűrű központon kívül eső templom egyedi építészetét, kihasználva a csendes utakat a kényelmes kerékpározáshoz.",
+            "ro": "Minunați-vă de arhitectura unică a acestei biserici situate în afara centrului dens, profitând de drumurile liniștite pentru ciclism ușor.",
+            "en": "Marvel at the unique architecture of this church situated outside the dense center, taking advantage of the quiet roads for easy cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne gare Papiermuehle",
+            "hu": "Ancienne gare Papiermuehle",
+            "ro": "Ancienne gare Papiermuehle",
+            "en": "Ancienne gare Papiermuehle"
+          },
+          "coords": [
+            7.419659,
+            48.632509
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Pausieren Sie an diesem historischen ehemaligen Bahnhof, um seinen Charme zu genießen, und trinken Sie einen Schluck Wasser auf Ihrer Fahrt.",
+            "hu": "Tartsanak pihenőt ezen a történelmi, egykori vasútállomáson, hogy élvezzék a báját, és hozzanak vizet egy gyors felfrissüléshez a túra során.",
+            "ro": "Faceți o pauză la această fostă gară istorică pentru a aprecia farmecul ei, aducând apă pentru o oprire rapidă de revigorare în plimbarea dvs.",
+            "en": "Pause at this historic former train station to appreciate its enduring charm, bringing some water for a quick refreshment stop on your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Papeterie Pasquay",
+            "hu": "Papeterie Pasquay",
+            "ro": "Papeterie Pasquay",
+            "en": "Papeterie Pasquay"
+          },
+          "coords": [
+            7.4228,
+            48.6324
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser ehemaligen Papiermühle und fragen Sie nach Führungen, um die Geschichte zu verstehen.",
+            "hu": "Fedezze fel a lenyűgöző ipari örökséget ebben az egykori papírmalomban, és érdeklődjön a helyiektől az esetleges idegenvezetésekről.",
+            "ro": "Descoperiți moștenirea industrială fascinantă la această fostă fabrică de hârtie, întrebând localnicii despre tururi ghidate disponibile.",
+            "en": "Discover the fascinating industrial heritage at this former paper mill, asking the locals about guided tours to fully understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Ronde",
+            "hu": "Tour Ronde",
+            "ro": "Tour Ronde",
+            "en": "Tour Ronde"
+          },
+          "coords": [
+            7.445709,
+            48.638776
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen beeindruckenden runden Turm der mittelalterlichen Verteidigung und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Figyelje meg ezt a lenyűgöző kerek tornyot, amely bepillantást enged a középkori védelembe, és olvassa el a közeli tájékoztató táblákat.",
+            "ro": "Observați acest turn rotund impresionant care oferă o perspectivă asupra apărării medievale și citiți plăcile informative din apropiere.",
+            "en": "Climb or observe this impressive round tower that offers a glimpse into medieval defense strategies, and read the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Wasselonne",
+            "hu": "Château de Wasselonne",
+            "ro": "Château de Wasselonne",
+            "en": "Château de Wasselonne"
+          },
+          "coords": [
+            7.446014,
+            48.637756
+          ],
+          "category": "castle",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, welche die Skyline prägt, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a város látképét uraló történelmi kastély maradványait, és viseljen kényelmes cipőt a kissé egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric care domină orizontul orașului, purtând încălțăminte confortabilă pentru terenul ușor accidentat.",
+            "en": "Explore the remnants of this historic castle that dominates the town's skyline, wearing comfortable shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            7.447278,
+            48.636997
+          ],
+          "category": "religious",
+          "arrive_at": "14:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser örtlichen Kirche und genießen Sie die friedliche Atmosphäre, am besten früh morgens.",
+            "hu": "Csodálja meg a helyi templom gyönyörű építészetét és élvezze annak békés hangulatát, lehetőleg korán érkezve a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale și bucurați-vă de atmosfera sa pașnică, vizitând ideal dimineața devreme.",
+            "en": "Admire the beautiful architecture of this local church and enjoy its peaceful atmosphere, preferably visiting early to avoid any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de l'ancien château",
+            "hu": "Site de l'ancien château",
+            "ro": "Site de l'ancien château",
+            "en": "Site de l'ancien château"
+          },
+          "coords": [
+            7.465881,
+            48.617165
+          ],
+          "category": "castle",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Ruinen dieser alten Burgstätte und schließen Sie Ihr Fahrrad sicher ab, bevor Sie fotografieren.",
+            "hu": "Sétáljon az ősi kastély hangulatos romjai között, és biztonságosan zárja le a kerékpárját, mielőtt letérne az útról fényképezni.",
+            "ro": "Plimbați-vă printre ruinele evocatoare ale acestui vechi sit de castel, blocându-vă bicicleta în siguranță înainte de a face fotografii.",
+            "en": "Wander around the evocative ruins of this ancient castle site, locking your bike securely before stepping off the path to take photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der ruhigen Atmosphäre der Église Saint-Oswald und fahren Sie zur malerischen Ancienne gare Papiermuehle.\n\nGegen Mittag radeln Sie zu den industriellen Wahrzeichen und halten an der bekannten Papeterie Pasquay.\n\nAm Nachmittag kehren Sie in den historischen Kern zurück, um die Tour Ronde und das Château de Wasselonne zu bestaunen.\n\nDer Abend lädt zu einer längeren Fahrt nach Süden zum Site de l'ancien château ein und rundet den Tag mit herrlichen Ausblicken ab.",
+        "hu": "Kezdje kerékpáros napját az Église Saint-Oswald nyugodt hangulatával, majd tekerjen a festői Ancienne gare Papiermuehle felé.\n\nDél közeledtével az ipari műemlékek felé veszi az irányt, megállva a híres Papeterie Pasquay-nél.\n\nDélután térjen vissza a történelmi magba, hogy megcsodálja a Tour Ronde-ot és a Château de Wasselonne-t.\n\nAz este egy hosszabb délre tartó útra hívja az ancien château helyszínéhez, gyönyörű örökségi kilátással zárva a napot.",
+        "ro": "Începeți ziua de ciclism cu ambianța calmă de la Église Saint-Oswald, urmată de o plimbare către pitoreasca Ancienne gare Papiermuehle.\n\nPe măsură ce se apropie prânzul, veți pedala spre reperele industriale, oprindu-vă la renumita Papeterie Pasquay.\n\nDupă-amiaza, întoarceți-vă în nucleul istoric pentru a admira Tour Ronde și Château de Wasselonne.\n\nSeara vă invită la o plimbare mai lungă spre sud, la Site de l'ancien château, încheind ziua cu priveliști superbe.",
+        "en": "Kick off your cycling day with the calm ambiance of Église Saint-Oswald, followed by a ride to the scenic Ancienne gare Papiermuehle.\n\nAs midday approaches, you'll cycle towards the industrial landmarks, stopping at the renowned Papeterie Pasquay.\n\nIn the afternoon, head back to the historical core to marvel at the Tour Ronde and the Château de Wasselonne.\n\nThe evening invites you for a longer ride southward to the Site de l'ancien château, wrapping up your day with beautiful heritage views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Oswald",
+            "hu": "Église Saint-Oswald",
+            "ro": "Église Saint-Oswald",
+            "en": "Église Saint-Oswald"
+          },
+          "coords": [
+            7.409317,
+            48.644937
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Architektur dieser Kirche außerhalb des Zentrums und nutzen Sie die ruhigen Straßen für eine entspannte Fahrt.",
+            "hu": "Csodálja meg e sűrű központon kívül eső templom egyedi építészetét, kihasználva a csendes utakat a kényelmes kerékpározáshoz.",
+            "ro": "Minunați-vă de arhitectura unică a acestei biserici situate în afara centrului dens, profitând de drumurile liniștite pentru ciclism ușor.",
+            "en": "Marvel at the unique architecture of this church situated outside the dense center, taking advantage of the quiet roads for easy cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Papeterie Pasquay",
+            "hu": "Papeterie Pasquay",
+            "ro": "Papeterie Pasquay",
+            "en": "Papeterie Pasquay"
+          },
+          "coords": [
+            7.4228,
+            48.6324
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser ehemaligen Papiermühle und fragen Sie nach Führungen, um die Geschichte zu verstehen.",
+            "hu": "Fedezze fel a lenyűgöző ipari örökséget ebben az egykori papírmalomban, és érdeklődjön a helyiektől az esetleges idegenvezetésekről.",
+            "ro": "Descoperiți moștenirea industrială fascinantă la această fostă fabrică de hârtie, întrebând localnicii despre tururi ghidate disponibile.",
+            "en": "Discover the fascinating industrial heritage at this former paper mill, asking the locals about guided tours to fully understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne gare Papiermuehle",
+            "hu": "Ancienne gare Papiermuehle",
+            "ro": "Ancienne gare Papiermuehle",
+            "en": "Ancienne gare Papiermuehle"
+          },
+          "coords": [
+            7.419659,
+            48.632509
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Pausieren Sie an diesem historischen ehemaligen Bahnhof, um seinen Charme zu genießen, und trinken Sie einen Schluck Wasser auf Ihrer Fahrt.",
+            "hu": "Tartsanak pihenőt ezen a történelmi, egykori vasútállomáson, hogy élvezzék a báját, és hozzanak vizet egy gyors felfrissüléshez a túra során.",
+            "ro": "Faceți o pauză la această fostă gară istorică pentru a aprecia farmecul ei, aducând apă pentru o oprire rapidă de revigorare în plimbarea dvs.",
+            "en": "Pause at this historic former train station to appreciate its enduring charm, bringing some water for a quick refreshment stop on your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Wasselonne",
+            "hu": "Château de Wasselonne",
+            "ro": "Château de Wasselonne",
+            "en": "Château de Wasselonne"
+          },
+          "coords": [
+            7.446014,
+            48.637756
+          ],
+          "category": "castle",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, welche die Skyline prägt, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a város látképét uraló történelmi kastély maradványait, és viseljen kényelmes cipőt a kissé egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric care domină orizontul orașului, purtând încălțăminte confortabilă pentru terenul ușor accidentat.",
+            "en": "Explore the remnants of this historic castle that dominates the town's skyline, wearing comfortable shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Ronde",
+            "hu": "Tour Ronde",
+            "ro": "Tour Ronde",
+            "en": "Tour Ronde"
+          },
+          "coords": [
+            7.445709,
+            48.638776
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen beeindruckenden runden Turm der mittelalterlichen Verteidigung und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Figyelje meg ezt a lenyűgöző kerek tornyot, amely bepillantást enged a középkori védelembe, és olvassa el a közeli tájékoztató táblákat.",
+            "ro": "Observați acest turn rotund impresionant care oferă o perspectivă asupra apărării medievale și citiți plăcile informative din apropiere.",
+            "en": "Climb or observe this impressive round tower that offers a glimpse into medieval defense strategies, and read the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            7.447278,
+            48.636997
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser örtlichen Kirche und genießen Sie die friedliche Atmosphäre, am besten früh morgens.",
+            "hu": "Csodálja meg a helyi templom gyönyörű építészetét és élvezze annak békés hangulatát, lehetőleg korán érkezve a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale și bucurați-vă de atmosfera sa pașnică, vizitând ideal dimineața devreme.",
+            "en": "Admire the beautiful architecture of this local church and enjoy its peaceful atmosphere, preferably visiting early to avoid any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            7.464866,
+            48.617075
+          ],
+          "category": "religious",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kultstätte, die durch ihre strukturelle Einfachheit besticht, und parken Sie in der Nähe, um sie leicht zu erreichen.",
+            "hu": "Látogasson el erre a bájos vallási helyszínre, amely szerkezeti egyszerűségével tűnik ki, és parkoljon a közelben a könnyű megközelítéshez.",
+            "ro": "Vizitați acest lăcaș de cult fermecător, care se remarcă prin simplitatea sa structurală, parcând în apropiere pentru un acces ușor.",
+            "en": "Visit this charming religious site that stands out for its structural simplicity, parking nearby to easily access both the church and chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de l'ancien château",
+            "hu": "Site de l'ancien château",
+            "ro": "Site de l'ancien château",
+            "en": "Site de l'ancien château"
+          },
+          "coords": [
+            7.465881,
+            48.617165
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Ruinen dieser alten Burgstätte und schließen Sie Ihr Fahrrad sicher ab, bevor Sie fotografieren.",
+            "hu": "Sétáljon az ősi kastély hangulatos romjai között, és biztonságosan zárja le a kerékpárját, mielőtt letérne az útról fényképezni.",
+            "ro": "Plimbați-vă printre ruinele evocatoare ale acestui vechi sit de castel, blocându-vă bicicleta în siguranță înainte de a face fotografii.",
+            "en": "Wander around the evocative ruins of this ancient castle site, locking your bike securely before stepping off the path to take photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der friedlichen Église Saint-Oswald und erkunden Sie die industrielle Vergangenheit der Papeterie Pasquay.\n\nMittags fahren Sie an der Ancienne gare Papiermuehle vorbei zum imposanten Château de Wasselonne.\n\nVerbringen Sie Ihren Nachmittag im historischen Stadtzentrum und entdecken Sie die Tour Ronde und die Église Saint-Laurent.\n\nWenn die Sonne untergeht, fahren Sie zu den südlichen Grenzen, um die Église Saint-Étienne und das Site de l'ancien château zu bewundern.",
+        "hu": "Kezdje autós túráját a békés Église Saint-Oswald templomnál, majd hajtson el a Papeterie Pasquay gazdag ipari múltjának felfedezésére.\n\nA délután az Ancienne gare Papiermuehle mellett az impozáns Château de Wasselonne felé viszi az utazót.\n\nDélután navigáljon a történelmi városközpontban, fedezze fel a Tour Ronde-ot és az Église Saint-Laurent templomot.\n\nNaplementekor vezessen a déli határokhoz, hogy megcsodálja az Église Saint-Étienne-t és az ősi kastély területét.",
+        "ro": "Începeți turul cu mașina la liniștita Église Saint-Oswald, apoi conduceți pentru a explora trecutul industrial bogat al Papeterie Pasquay.\n\nPrânzul vă poartă pe lângă Ancienne gare Papiermuehle spre impunătorul Château de Wasselonne.\n\nPetreceți după-amiaza navigând prin centrul istoric, descoperind Tour Ronde și Église Saint-Laurent.\n\nLa apusul soarelui, conduceți spre limitele sudice pentru a admira Église Saint-Étienne și Site de l'ancien château.",
+        "en": "Start your driving tour at the peaceful Église Saint-Oswald, then cruise over to explore the rich industrial past of Papeterie Pasquay.\n\nMidday takes you past the Ancienne gare Papiermuehle towards the imposing Château de Wasselonne.\n\nSpend your afternoon navigating the historic city center, discovering the Tour Ronde and Église Saint-Laurent.\n\nAs the sun sets, drive to the southern limits to admire the Église Saint-Étienne and the rustic Site de l'ancien château."
+      }
+    }
+  }
+}

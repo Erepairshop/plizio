@@ -1,0 +1,497 @@
+{
+  "city_id": "aulnoye-aymeries",
+  "anchor": {
+    "name": "Aulnoye-Aymeries",
+    "coords": [
+      3.8356,
+      50.2047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:04",
+      "total_km": 3.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Aulnoye-Aymeries",
+            "hu": "Aulnoye-Aymeries vasútállomás",
+            "ro": "Gara Aulnoye-Aymeries",
+            "en": "Aulnoye-Aymeries Station"
+          },
+          "coords": [
+            3.849086,
+            50.198344
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses wichtigen Eisenbahnknotenpunkts und prüfen Sie die lokalen Transitkarten zur Orientierung für den Tag.",
+            "hu": "Csodálja meg ennek a kulcsfontosságú vasúti csomópontnak a jellegzetes építészetét, miközben a helyi közlekedési térképek segítségével tájékozódik.",
+            "ro": "Admirați arhitectura distinctivă a acestui nod feroviar cheie în timp ce verificați hărțile locale de tranzit pentru a vă orienta pentru ziua de azi.",
+            "en": "Admire the distinctive architecture of this key railway hub while checking the local transit maps to help orient yourself for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Raphaël Kirche",
+            "hu": "Saint-Raphaël templom",
+            "ro": "Biserica Saint-Raphaël",
+            "en": "Saint-Raphaël Church"
+          },
+          "coords": [
+            3.848744,
+            50.196039
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beachten Sie die friedliche Atmosphäre und die eleganten Glasfenster dieser lokalen Kirche für einen Moment der ruhigen Reflexion vor dem Stadtspaziergang.",
+            "hu": "Figyelje meg a helyi templom békés hangulatát és elegáns ólomüveg ablakait, tartva egy pillanatnyi csendes elmélkedést a városi séta megkezdése előtt.",
+            "ro": "Observați ambianța pașnică și vitraliile elegante ale acestei biserici locale, luându-vă un moment de reflecție liniștită înainte de a începe plimbarea.",
+            "en": "Notice the peaceful ambiance and elegant stained glass of this local church, taking a moment of quiet reflection before starting the city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Léo-Ferré",
+            "hu": "Salle Léo-Ferré",
+            "ro": "Salle Léo-Ferré",
+            "en": "Salle Léo-Ferré"
+          },
+          "coords": [
+            3.836323,
+            50.20372
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum für Kunst und Gemeinschaftsveranstaltungen und achten Sie auf saisonale Ausstellungen im Hauptfoyer.",
+            "hu": "Fedezze fel ezt a művészeteknek és közösségi eseményeknek szentelt nyüzsgő kulturális teret, figyelve a fő előcsarnokban rendezett szezonális kiállításokra.",
+            "ro": "Explorați acest spațiu cultural vibrant dedicat artelor și evenimentelor comunitare, fiind atenți la expozițiile sezoniere găzduite în holul principal.",
+            "en": "Explore this vibrant cultural space dedicated to the arts and community events, keeping an eye out for seasonal exhibits hosted in the main lobby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            3.832344,
+            50.199873
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um den wunderschön erhaltenen Altar dieser historischen Stätte zu sehen, und nähern Sie sich leise, da die Akustik jedes Geräusch verstärkt.",
+            "hu": "Lépjen be, hogy megtekintse ennek a történelmi vallási helynek a gyönyörűen megőrzött oltárát, halkan közelítve, mivel az akusztika minden hangot felerősít.",
+            "ro": "Pășiți înăuntru pentru a vedea altarul frumos conservat al acestui sit istoric, apropiindu-vă încet deoarece acustica interioară amplifică fiecare sunet.",
+            "en": "Step inside to view the beautifully preserved altar of this historic religious site, approaching softly as the interior acoustics amplify every sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            3.814762,
+            50.202428
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Beobachten Sie den markanten Glockenturm und das robuste Mauerwerk dieses Wahrzeichens und bringen Sie eine Kamera für das warme Nachmittagslicht mit.",
+            "hu": "Figyelje meg a nevezetesség feltűnő harangtornyát és robusztus kőfalait, fényképezőgépet hozva a nyugati homlokzatot érő meleg délutáni fény megörökítéséhez.",
+            "ro": "Observați turnul clopotniță impresionant și zidăria robustă a acestui punct de reper, aducând un aparat foto pentru a surprinde lumina caldă a după-amiezii.",
+            "en": "Observe the striking bell tower and robust stonework of this landmark, bringing a camera to capture the warm afternoon light hitting the western facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Bahnhof und führt rasch zur ruhigen Saint-Raphaël-Kirche zur Kontemplation. Am Mittag erreichen Sie die Salle Léo-Ferré, den lebendigen Kern der lokalen Kultur. Nachmittags bewundern Sie die Architektur der Église Saint-Martin, bevor Sie Ihren Spaziergang bei Annäherung des Abends an der Église Saint-Michel beenden.",
+        "hu": "A reggel a történelmi vasútállomáson kezdődik, ahonnan a békés Saint-Raphaël templomba vezet az út egy kis elmélkedésre. A délben eléri a Salle Léo-Ferré-t, a helyi kultúra nyüzsgő központját. Délután csodálja meg a Saint-Martin templom építészetét, majd fejezze be sétáját a Saint-Michel templomnál, ahogy az este közeledik.",
+        "ro": "Dimineața începe la gara istorică, mergând spre senina Biserică Saint-Raphaël pentru contemplare. La prânz ajungeți la Salle Léo-Ferré, nucleul vibrant al culturii locale. După-amiaza, admirați arhitectura Bisericii Saint-Martin, înainte de a vă încheia plimbarea plină de satisfacții la Biserica Saint-Michel pe măsură ce se apropie seara.",
+        "en": "Morning begins at the historic railway station, moving swiftly to the serene Saint-Raphaël Church for contemplation. Midday brings you to Salle Léo-Ferré, the vibrant core of local culture. In the afternoon, marvel at the architecture of Église Saint-Martin before concluding your enriching walk at Église Saint-Michel as the evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 8.43,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Aulnoye-Aymeries",
+            "hu": "Aulnoye-Aymeries vasútállomás",
+            "ro": "Gara Aulnoye-Aymeries",
+            "en": "Aulnoye-Aymeries Station"
+          },
+          "coords": [
+            3.849086,
+            50.198344
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag an diesem historischen Bahnhofstor und prüfen Sie den Reifendruck auf dem glatten umliegenden Straßenbelag, bevor Sie losfahren.",
+            "hu": "Kezdje kerékpáros napját ezen a történelmi vasúti kapunál, indulás előtt ellenőrizve a gumiabroncsok nyomását a sima környező burkolaton.",
+            "ro": "Începeți ziua de ciclism la această poartă feroviară istorică, verificând presiunea anvelopelor pe pavajul neted din jur înainte de a pleca la drum.",
+            "en": "Start your cycling day at this historic railway gateway, checking your bike's tire pressure on the smooth surrounding pavement before riding out."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Joseph",
+            "hu": "Saint-Joseph kápolna",
+            "ro": "Capela Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            3.864181,
+            50.214839
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische Kapelle in der Stadt und nutzen Sie die stabilen Zäune in der Nähe, um Ihr Fahrrad während des Besuchs zu sichern.",
+            "hu": "Fedezze fel ezt a városban megbúvó festői kis kápolnát, a közeli erős kerítéseket használva a kerékpár ideiglenes rögzítésére a látogatás idejére.",
+            "ro": "Descoperiți această capelă pitorească ascunsă în oraș, folosind gardurile robuste din apropiere pentru a vă asigura temporar bicicleta în timpul vizitei.",
+            "en": "Discover this quaint and picturesque chapel tucked away in the city, using the sturdy fences nearby to temporarily secure your bicycle while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de Quartes",
+            "hu": "Notre-Dame de Quartes",
+            "ro": "Notre-Dame de Quartes",
+            "en": "Église Notre-Dame de Quartes"
+          },
+          "coords": [
+            3.8485,
+            50.227352
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Bewundern Sie den traditionellen Charme dieses nördlichen Pfarrbezirks und machen Sie eine kurze, erfrischende Wasserpause im schattigen Innenhof.",
+            "hu": "Csodálja meg ennek az északi plébániának a hagyományos varázsát és bonyolult kőmunkáit, tartva egy gyors vízivós szünetet az árnyékos udvaron.",
+            "ro": "Admirați farmecul tradițional și zidăria complexă a acestei parohii nordice, luând o pauză rapidă de hidratare în curtea umbrită din exterior.",
+            "en": "Admire the traditional charm and intricate stonework of this northern parish, taking a quick, refreshing water break in the shaded courtyard outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Léo-Ferré",
+            "hu": "Salle Léo-Ferré",
+            "ro": "Salle Léo-Ferré",
+            "en": "Salle Léo-Ferré"
+          },
+          "coords": [
+            3.836323,
+            50.20372
+          ],
+          "category": "cultural",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.75,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem dynamischen Kulturort in die lokale Kunstszene ein und nutzen Sie die ausgewiesenen Fahrradständer direkt am Haupteingang.",
+            "hu": "Merüljön el a helyi művészeti életben ezen a dinamikus kulturális helyszínen, könnyen megtalálva a kijelölt kerékpártárolókat a főbejárat közelében.",
+            "ro": "Cufundați-vă în scena artistică locală la acest loc cultural dinamic, observând ușor rastelele de biciclete desemnate chiar lângă intrarea principală.",
+            "en": "Immerse yourself in the local arts scene at this dynamic cultural venue, easily spotting the designated bicycle racks right near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            3.832344,
+            50.199873
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die feierliche Atmosphäre von Saint-Martin und achten Sie darauf, Ihr Fahrrad auf den schmalen Fußgängerwegen in der Nähe zu schieben.",
+            "hu": "Élvezze a Saint-Martin ünnepélyes légkörét és történelmi jelentőségét, ügyelve arra, hogy a közeli szűk sétányokon tolja a kerékpárját.",
+            "ro": "Bucurați-vă de atmosfera solemnă a Bisericii Saint-Martin, asigurându-vă că vă împingeți bicicleta de-a lungul aleilor pietonale înguste din apropiere.",
+            "en": "Enjoy the solemn atmosphere and historic significance of Saint-Martin, making sure to walk your bike along the narrow pedestrian pathways nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            3.814762,
+            50.202428
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die starken architektonischen Linien von Saint-Michel am Ende Ihrer Fahrt und fangen Sie die schönen Nachmittagsreflexionen ein.",
+            "hu": "Csodálja meg a Saint-Michel erős építészeti vonalait a túra végén, megörökítve a homlokzatán megcsillanó gyönyörű késő délutáni fényeket.",
+            "ro": "Admirați liniile arhitecturale puternice ale Bisericii Saint-Michel la finalul plimbării, surprinzând frumoasele reflexii ale după-amiezii pe fațada sa.",
+            "en": "Marvel at the strong architectural lines of Saint-Michel as you end your ride, capturing the beautiful late afternoon reflections on its facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Hauptbahnhof in den Morgen und fahren Sie zur charmanten Chapelle Saint-Joseph. Der Mittag lädt zu einer Fahrt nach Norden zur Notre-Dame de Quartes ein, bevor Sie zum Kulturzentrum Salle Léo-Ferré rollen. Die Nachmittagsbrise trägt Sie an der Église Saint-Martin vorbei, bis Sie einen schönen Abend an der Église Saint-Michel verbringen.",
+        "hu": "Kerekezzen a reggelbe a központi pályaudvarról indulva, egészen a bájos Chapelle Saint-Joseph felé. A dél egy északi útra hív a Notre-Dame de Quartes-hoz, mielőtt a Salle Léo-Ferré kulturális központjába gurulna. A délutáni szellő elsodorja a Saint-Martin templom mellett, és egy gyönyörű esti pihenéssel zárul a Saint-Michel templomnál.",
+        "ro": "Pedalați în dimineață pornind de la gara centrală, îndreptându-vă spre fermecătoarea Capelă Saint-Joseph. Prânzul vă invită la o plimbare spre nord până la Notre-Dame de Quartes înainte de a coborî la Salle Léo-Ferré. Briza după-amiezii vă poartă pe lângă Biserica Saint-Martin, culminând cu o seară frumoasă la Biserica Saint-Michel.",
+        "en": "Pedal into the morning starting from the central station, making your way to the charming Chapelle Saint-Joseph. Midday invites a ride north to Notre-Dame de Quartes before rolling down to the cultural hub of Salle Léo-Ferré. The afternoon breeze carries you past Église Saint-Martin, culminating in a beautiful evening rest at Église Saint-Michel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.04,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame de Quartes",
+            "hu": "Notre-Dame de Quartes",
+            "ro": "Notre-Dame de Quartes",
+            "en": "Église Notre-Dame de Quartes"
+          },
+          "coords": [
+            3.8485,
+            50.227352
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie die Autotour an dieser friedlichen nördlichen Kirche und nutzen Sie die reichlichen Straßenparkplätze in der Nähe für einen entspannten Start.",
+            "hu": "Kezdje az autós túrát ennél a békés északi templomnál, kihasználva a közeli bőséges utcai parkolási lehetőségeket a reggeli felfedezéshez.",
+            "ro": "Începeți turul cu mașina la această biserică nordică liniștită, folosind parcarea stradală amplă din apropiere pentru o explorare matinală relaxantă.",
+            "en": "Begin the driving tour at this peaceful northern church, utilizing the ample street parking nearby to ease into your morning exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Joseph",
+            "hu": "Saint-Joseph kápolna",
+            "ro": "Capela Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            3.864181,
+            50.214839
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten kleinen Kapelle für einen kurzen Einblick in die lokale Geschichte und fahren Sie sicher in die angrenzende Haltebucht.",
+            "hu": "Álljon meg ennél a bájos kis kápolnánál a helyi vallástörténet rövid megtekintésére, biztonságosan beállva a szomszédos öbölbe fényképezni.",
+            "ro": "Opriți la această capelă fermecătoare pentru o privire asupra istoriei religioase locale, trăgând în siguranță pe refugiul adiacent pentru a face fotografii.",
+            "en": "Stop by this charming small chapel for a quick glimpse into local religious history, pulling safely into the adjacent lay-by to take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Aulnoye-Aymeries",
+            "hu": "Aulnoye-Aymeries vasútállomás",
+            "ro": "Gara Aulnoye-Aymeries",
+            "en": "Aulnoye-Aymeries Station"
+          },
+          "coords": [
+            3.849086,
+            50.198344
+          ],
+          "category": "station",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die geschäftige Atmosphäre des Hauptbahnhofs und nutzen Sie die Kurzzeitparkzonen, wenn Sie nur einen kurzen architektonischen Blick planen.",
+            "hu": "Tapasztalja meg a központi vasútállomás nyüzsgő légkörét, a rövid távú parkolókat használva, ha csak egy gyors építészeti pillantást tervez.",
+            "ro": "Experimentați atmosfera plină de viață a gării centrale, folosind zonele de oprire pe termen scurt dacă plănuiți doar o scurtă privire arhitecturală.",
+            "en": "Experience the bustling atmosphere of the central railway station, using the short-term drop-off zones if you only plan a brief architectural look."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Léo-Ferré",
+            "hu": "Salle Léo-Ferré",
+            "ro": "Salle Léo-Ferré",
+            "en": "Salle Léo-Ferré"
+          },
+          "coords": [
+            3.836323,
+            50.20372
+          ],
+          "category": "cultural",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Genießen Sie Kultur und Kunst an diesem lebendigen lokalen Ort, der praktischerweise einen eigenen Parkplatz nur einen kurzen Spaziergang entfernt bietet.",
+            "hu": "Élvezze a kultúra és a művészet robbanását ezen a nyüzsgő helyi helyszínen, amely kényelmesen, az ajtóktól rövid sétára lévő saját parkolóval rendelkezik.",
+            "ro": "Bucurați-vă de o explozie de cultură și artă în acest loc local vibrant, care dispune de o parcare dedicată la doar o scurtă plimbare de uși.",
+            "en": "Enjoy a burst of culture and art at this vibrant local venue, which conveniently features a dedicated parking lot just a short walk from the doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            3.832344,
+            50.199873
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die komplizierten Details im Inneren von Saint-Martin und denken Sie daran, die Ruhezonen in diesem dicht bebauten historischen Viertel zu respektieren.",
+            "hu": "Csodálja meg a Saint-Martin bonyolult belső részleteit, emlékezve arra, hogy tiszteletben tartsa a csendes zónákat ebben a sűrűn beépített történelmi negyedben.",
+            "ro": "Admirați detaliile interioare complicate ale Bisericii Saint-Martin, amintindu-vă să respectați zonele de liniște din acest cartier istoric dens construit.",
+            "en": "Marvel at the intricate interior details of Saint-Martin, remembering to respect the quiet zones in this densely built historic neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            3.814762,
+            50.202428
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante Struktur von Saint-Michel während Ihrer Fahrt und parken Sie etwas weiter die Straße hinunter, um das Gebäude ganz zu erfassen.",
+            "hu": "Csodálja meg a Saint-Michel impozáns szerkezetét a délutáni vezetés során, egy kicsit lejjebb parkolva, hogy az egész épületet lencsevégre kaphassa.",
+            "ro": "Observați structura impunătoare a Bisericii Saint-Michel în timpul plimbării, parcând puțin mai jos pe stradă pentru a surprinde întreaga elevație.",
+            "en": "Take in the imposing structure of Saint-Michel during your afternoon drive, parking slightly down the street to capture the full elevation on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Saulve",
+            "hu": "Saint-Saulve templom",
+            "ro": "Biserica Saint-Saulve",
+            "en": "Église Saint-Saulve"
+          },
+          "coords": [
+            3.829188,
+            50.178587
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.83,
+          "tip_5lang": {
+            "de": "Fahren Sie in Richtung der südlichen Grenzen, um diese wunderschön erhaltene Kirche zu besuchen, und genießen Sie die ruhigen Vorstadtstraßen zum Hauptplatz.",
+            "hu": "Vezessen a déli határok felé, hogy meglátogassa ezt a gyönyörűen megőrzött templomot, élvezve a csendes külvárosi utakat, amelyek a főtérre vezetnek.",
+            "ro": "Conduceți spre limitele sudice pentru a vizita această biserică frumos conservată, bucurându-vă de drumurile suburbane mai liniștite care duc spre piața principală.",
+            "en": "Drive towards the southern limits to visit this beautifully preserved church, enjoying the quieter suburban roads that lead directly to the main plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Bras mort de Leval",
+            "hu": "Bras mort de Leval",
+            "ro": "Bras mort de Leval",
+            "en": "Bras mort de Leval"
+          },
+          "coords": [
+            3.822939,
+            50.179531
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in der Natur an diesem ruhigen Altwassersee und lassen Sie Ihr Auto am nahen Wanderweg stehen, um einen entspannten Spaziergang am Wasser zu genießen.",
+            "hu": "Zárja a napot a természetben ennél a nyugodt holtág-tónál, az autóját a közeli ösvényen hagyva, hogy teljes mértékben élvezhesse a pihentető alkonyati sétát a víz mentén.",
+            "ro": "Încheiați ziua în natură la acest lac liniștit, lăsând mașina la punctul de pornire a traseului din apropiere pentru a vă bucura din plin de o plimbare relaxantă la apus de-a lungul apei.",
+            "en": "Conclude your day out in nature at this tranquil oxbow lake, leaving your car at the nearby trailhead to fully enjoy a relaxing dusk stroll along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre motorisierte Reise beginnt in den ruhigen nördlichen Außenbezirken an der Notre-Dame de Quartes, bevor Sie zur Chapelle Saint-Joseph fahren. Navigieren Sie am Mittag durch das geschäftige Zentrum am Bahnhof vorbei zur Salle Léo-Ferré. Der Nachmittag bietet eine reibungslose Fahrt zu den wichtigsten Innenstadtkirchen und endet mit einem friedlichen Abend im Naturreservat Bras mort de Leval.",
+        "hu": "A motorizált utazás a nyugodt északi külvárosban kezdődik a Notre-Dame de Quartes-nál, majd a Chapelle Saint-Joseph felé folytatódik. Délben navigáljon át a nyüzsgő központon az állomás mellett, és merüljön el a művészetekben a Salle Léo-Ferré-nél. A délután sima vezetést kínál a jelentős belvárosi templomok érintésével, majd egy békés esti kikapcsolódással zárul a Bras mort de Leval természetes menedékében.",
+        "ro": "Călătoria dumneavoastră motorizată începe la periferia nordică liniștită, la Notre-Dame de Quartes, înainte de a coborî spre Capela istorică Saint-Joseph. La prânz, navigați prin centrul plin de viață pe lângă gară și cufundați-vă în artă la Salle Léo-Ferré. După-amiaza oferă o plimbare lină pe la principalele biserici din centrul orașului, încheindu-se cu o evadare pașnică de seară în sanctuarul natural Bras mort de Leval.",
+        "en": "Your motorized journey begins in the tranquil northern outskirts at Notre-Dame de Quartes before cruising down to the historic Chapelle Saint-Joseph. By midday, navigate through the bustling center past the station and immerse yourself in art at Salle Léo-Ferré. The afternoon offers a smooth drive hitting the major inner-city churches, ending with a peaceful evening escape to the natural sanctuary of Bras mort de Leval."
+      }
+    }
+  }
+}

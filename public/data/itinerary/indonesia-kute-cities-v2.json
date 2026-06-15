@@ -1,0 +1,520 @@
+{
+  "city_id": "indonesia-kute-cities-v2",
+  "anchor": {
+    "name": "Kute (Lombok)",
+    "coords": [
+      116.27667,
+      -8.89189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kuta Beach",
+            "hu": "Kuta Beach",
+            "ro": "Plaja Kuta",
+            "en": "Kuta Beach"
+          },
+          "coords": [
+            116.283173,
+            -8.894662
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und die Surfkultur, aber mieten Sie Ihr Brett früh, um die besten Morgenwellen vor dem großen Ansturm zu erwischen.",
+            "hu": "Élvezze a fehér homokot és a szörfkultúrát, de bérelje ki a deszkáját korán, hogy elcsípje a legjobb reggeli hullámokat a tömeg megérkezése előtt.",
+            "ro": "Bucurați-vă de nisipul alb și de cultura surfingului, dar închiriați o placă devreme pentru a prinde cele mai bune valuri matinale înainte de aglomerație.",
+            "en": "Enjoy the iconic white sands and vibrant surf culture, but remember to rent your board early to catch the best morning waves before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandalika Beach Club",
+            "hu": "Mandalika Beach Club",
+            "ro": "Mandalika Beach Club",
+            "en": "Mandalika Beach Club"
+          },
+          "coords": [
+            116.291735,
+            -8.896428
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entspannen Sie mit einem tropischen Drink am Pool und vergessen Sie nicht, während der Nachmittagsspitze rechtzeitig eine Cabana zu reservieren.",
+            "hu": "Pihenjen egy trópusi itallal a kristálytiszta medence partján, és ne felejtsen el előre cabanát foglalni a forgalmas délutáni órákra.",
+            "ro": "Relaxați-vă cu o băutură tropicală la piscină și nu uitați să rezervați o cabină din timp pentru orele aglomerate de după-amiază.",
+            "en": "Relax with a refreshing tropical drink by the pristine pool, and don't forget to book a cabana in advance during the peak afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Benjon",
+            "hu": "Gunung Benjon",
+            "ro": "Gunung Benjon",
+            "en": "Gunung Benjon"
+          },
+          "coords": [
+            116.2922,
+            -8.899624
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Hügel für einen Panoramablick auf die Bucht und tragen Sie festes Schuhwerk, da der Weg oben uneben und felsig sein kann.",
+            "hu": "Mássza meg ezt a lankás dombot a lenyűgöző panorámáért, és viseljen zárt cipőt, mivel az ösvény a csúcs közelében sziklás és egyenetlen.",
+            "ro": "Urcați pe acest deal pentru o panoramă spectaculoasă a golfului și purtați încălțăminte solidă, deoarece poteca este stâncoasă spre vârf.",
+            "en": "Climb this gentle hill for a spectacular panoramic view of the bay, and wear sturdy shoes as the path can be uneven and rocky near the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Paramount Lombok",
+            "hu": "Paramount Lombok",
+            "ro": "Paramount Lombok",
+            "en": "Paramount Lombok"
+          },
+          "coords": [
+            116.29522,
+            -8.899381
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie erstklassige Freizeiteinrichtungen in diesem Resort und prüfen Sie den Tagesplan, um an den exklusiven Wellness-Kursen teilzunehmen.",
+            "hu": "Fedezze fel a lenyűgöző üdülőhely prémium szolgáltatásait, de érdemes megnézni a napi beosztást, hogy részt vehessen az exkluzív wellness órákon.",
+            "ro": "Descoperiți facilitățile de agrement ale acestui complex de lux și verificați programul zilnic pentru a participa la cursurile exclusive de wellness.",
+            "en": "Discover world-class leisure facilities at this expansive resort property, but check their daily schedule to join the exclusive wellness classes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bukit Tanakbeak",
+            "hu": "Bukit Tanakbeak",
+            "ro": "Bukit Tanakbeak",
+            "en": "Bukit Tanakbeak"
+          },
+          "coords": [
+            116.294857,
+            -8.903257
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Meeresbrise von diesem Aussichtspunkt und bringen Sie Ihre Kamera für atemberaubende Fotos des Indischen Ozeans mit.",
+            "hu": "Élvezze a csendes tengerparti szellőt erről a magaslati pontról, és hozza magával a fényképezőgépét az Indiai-óceán lenyűgöző megörökítéséhez.",
+            "ro": "Admirați briza oceanului din acest punct de observație și aduceți aparatul foto pentru cadre spectaculoase și neobstrucționate ale Oceanului Indian.",
+            "en": "Take in the serene coastal breeze from this elevated vantage point, and bring your camera for stunning, unobstructed shots of the Indian Ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Princess Mandalika",
+            "hu": "Princess Mandalika",
+            "ro": "Prințesa Mandalika",
+            "en": "Princess Mandalika"
+          },
+          "coords": [
+            116.297941,
+            -8.906242
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die legendäre Prinzessin, die sich für den Frieden opferte, und besuchen Sie das Denkmal bei Sonnenuntergang für magisches Licht.",
+            "hu": "Ismerje meg a békéért feláldozott helyi hercegnő legendáját, és látogassa meg az emlékművet naplementekor a legvarázslatosabb fényviszonyokért.",
+            "ro": "Aflați legenda prințesei locale care s-a sacrificat pentru pace și vizitați monumentul la apus pentru a vă bucura de cea mai magică lumină.",
+            "en": "Learn about the legendary local princess who sacrificed herself for peace, and visit the nearby monument at sunset for the most magical lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am berühmten Kuta Beach, wo die Meeresluft belebt. Danach entspannen wir uns im luxuriösen Mandalika Beach Club. Der Nachmittag bringt einen sanften Aufstieg auf den Gunung Benjon für herrliche Küstenblicke. Der Abend endet kulturell reich beim Princess Mandalika Denkmal, nachdem wir den Sonnenuntergang vom Bukit Tanakbeak genossen haben.",
+        "hu": "A reggel a híres Kuta Beach homokján indul, ahol a friss óceáni levegő pezsdítő. A nap közepén a Mandalika Beach Club luxusa nyújt tökéletes pihenést. Délután felkapaszkodunk a Gunung Benjon kilátópontjához a káprázatos panorámáért. Az estét a Bukit Tanakbeak naplementéje után a Princess Mandalika emlékművének kulturális gazdagsága zárja.",
+        "ro": "Dimineața începe la faimoasa plajă Kuta, unde aerul oceanic este revigorant. Trecem apoi la luxosul Mandalika Beach Club pentru relaxare. După-amiaza aduce o urcare ușoară pe Gunung Benjon pentru vederi panoramice ale coastei. Seara se încheie la monumentul Princess Mandalika, după un apus spectaculos privit de pe Bukit Tanakbeak.",
+        "en": "Morning starts at the famous Kuta Beach, where the ocean air invigorates. We then transition to the luxurious Mandalika Beach Club for midday relaxation. Afternoon brings a gentle ascent up Gunung Benjon and Paramount Lombok for panoramic coastal views. The evening concludes with cultural richness at the Princess Mandalika monument after a sunset gaze from Bukit Tanakbeak."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gunung Dundang",
+            "hu": "Gunung Dundang",
+            "ro": "Gunung Dundang",
+            "en": "Gunung Dundang"
+          },
+          "coords": [
+            116.2687,
+            -8.9009
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer mit einer Wanderung auf diesen Gipfel für Küstenblicke und bringen Sie viel Wasser mit, da der Weg kaum Schatten bietet.",
+            "hu": "Kezdje kalandját ennek a hegynek a megmászásával a lélegzetelállító kilátásért, és vigyen elegendő vizet, mert az ösvényen kevés az árnyék.",
+            "ro": "Începeți aventura urcând acest vârf pentru vederi de coastă uimitoare și luați multă apă, deoarece traseul oferă foarte puțină umbră.",
+            "en": "Start your adventure with a hike up this rugged peak for breathtaking coastal views, and bring plenty of water as the trail offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuta Beach",
+            "hu": "Kuta Beach",
+            "ro": "Plaja Kuta",
+            "en": "Kuta Beach"
+          },
+          "coords": [
+            116.283173,
+            -8.894662
+          ],
+          "category": "recreational",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und die Surfkultur, aber mieten Sie Ihr Brett früh, um die besten Morgenwellen vor dem großen Ansturm zu erwischen.",
+            "hu": "Élvezze a fehér homokot és a szörfkultúrát, de bérelje ki a deszkáját korán, hogy elcsípje a legjobb reggeli hullámokat a tömeg megérkezése előtt.",
+            "ro": "Bucurați-vă de nisipul alb și de cultura surfingului, dar închiriați o placă devreme pentru a prinde cele mai bune valuri matinale înainte de aglomerație.",
+            "en": "Enjoy the iconic white sands and vibrant surf culture, but remember to rent your board early to catch the best morning waves before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandalika Beach Club",
+            "hu": "Mandalika Beach Club",
+            "ro": "Mandalika Beach Club",
+            "en": "Mandalika Beach Club"
+          },
+          "coords": [
+            116.291735,
+            -8.896428
+          ],
+          "category": "recreational",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entspannen Sie mit einem tropischen Drink am Pool und vergessen Sie nicht, während der Nachmittagsspitze rechtzeitig eine Cabana zu reservieren.",
+            "hu": "Pihenjen egy trópusi itallal a kristálytiszta medence partján, és ne felejtsen el előre cabanát foglalni a forgalmas délutáni órákra.",
+            "ro": "Relaxați-vă cu o băutură tropicală la piscină și nu uitați să rezervați o cabină din timp pentru orele aglomerate de după-amiază.",
+            "en": "Relax with a refreshing tropical drink by the pristine pool, and don't forget to book a cabana in advance during the peak afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Benjon",
+            "hu": "Gunung Benjon",
+            "ro": "Gunung Benjon",
+            "en": "Gunung Benjon"
+          },
+          "coords": [
+            116.2922,
+            -8.899624
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Hügel für einen Panoramablick auf die Bucht und tragen Sie festes Schuhwerk, da der Weg oben uneben und felsig sein kann.",
+            "hu": "Mássza meg ezt a lankás dombot a lenyűgöző panorámáért, és viseljen zárt cipőt, mivel az ösvény a csúcs közelében sziklás és egyenetlen.",
+            "ro": "Urcați pe acest deal pentru o panoramă spectaculoasă a golfului și purtați încălțăminte solidă, deoarece poteca este stâncoasă spre vârf.",
+            "en": "Climb this gentle hill for a spectacular panoramic view of the bay, and wear sturdy shoes as the path can be uneven and rocky near the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Bukit Tanakbeak",
+            "hu": "Bukit Tanakbeak",
+            "ro": "Bukit Tanakbeak",
+            "en": "Bukit Tanakbeak"
+          },
+          "coords": [
+            116.294857,
+            -8.903257
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Meeresbrise von diesem Aussichtspunkt und bringen Sie Ihre Kamera für atemberaubende Fotos des Indischen Ozeans mit.",
+            "hu": "Élvezze a csendes tengerparti szellőt erről a magaslati pontról, és hozza magával a fényképezőgépét az Indiai-óceán lenyűgöző megörökítéséhez.",
+            "ro": "Admirați briza oceanului din acest punct de observație și aduceți aparatul foto pentru cadre spectaculoase și neobstrucționate ale Oceanului Indian.",
+            "en": "Take in the serene coastal breeze from this elevated vantage point, and bring your camera for stunning, unobstructed shots of the Indian Ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Novotel Kuta",
+            "hu": "Novotel Kuta",
+            "ro": "Novotel Kuta",
+            "en": "Novotel Kuta"
+          },
+          "coords": [
+            116.297404,
+            -8.903337
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Sasak-Architektur kombiniert mit Luxus und probieren Sie die lokalen Spezialitäten im fantastischen Restaurant.",
+            "hu": "Csodálja meg a hagyományos Sasak építészetet luxus kivitelben, és kóstolja meg a helyi ételkülönlegességeket a szálloda fantasztikus éttermében.",
+            "ro": "Admirați arhitectura tradițională Sasak îmbinată cu luxul modern și gustați specialitățile culinare locale în restaurantul lor fantastic.",
+            "en": "Experience traditional Sasak-inspired architecture mixed with modern luxury, and try the local culinary specialties at their fantastic restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Princess Mandalika",
+            "hu": "Princess Mandalika",
+            "ro": "Prințesa Mandalika",
+            "en": "Princess Mandalika"
+          },
+          "coords": [
+            116.297941,
+            -8.906242
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die legendäre Prinzessin, die sich für den Frieden opferte, und besuchen Sie das Denkmal bei Sonnenuntergang für magisches Licht.",
+            "hu": "Ismerje meg a békéért feláldozott helyi hercegnő legendáját, és látogassa meg az emlékművet naplementekor a legvarázslatosabb fényviszonyokért.",
+            "ro": "Aflați legenda prințesei locale care s-a sacrificat pentru pace și vizitați monumentul la apus pentru a vă bucura de cea mai magică lumină.",
+            "en": "Learn about the legendary local princess who sacrificed herself for peace, and visit the nearby monument at sunset for the most magical lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unsere Tour am Gunung Dundang und fangen die ersten Sonnenstrahlen ein. Weiter östlich bietet Kuta Beach eine lebhafte Küstenflucht am Vormittag. Der Nachmittag mischt Entspannung im Beach Club mit den schönen Aussichten am Gunung Benjon. Schließlich radeln wir am Novotel vorbei, um in die Legende der Prinzessin Mandalika einzutauchen.",
+        "hu": "Utunkat a Gunung Dundangnál kezdjük, elcsípve a kora reggeli napsugarakat a dombokon. Kelet felé tekerve a Kuta Beach kínál vibráló délelőtti felfrissülést. A délután a strandklub és a dombvidéki kilátópontok harmonikus keveréke. Végül eltekerünk a Novotel mellett, és a Princess Mandalika legendájának felfedezésével zárjuk a napot.",
+        "ro": "Începem traseul la Gunung Dundang, prinzând primele raze de soare peste dealuri. Pedalând spre est, plaja Kuta oferă o evadare vibrantă dimineața. După-amiaza îmbină relaxarea la Mandalika Beach Club cu priveliștile de la Gunung Benjon. În final, trecem pe lângă Novotel și ne încheiem ziua explorând legenda Prințesei Mandalika.",
+        "en": "We kick off our ride at Gunung Dundang, catching early sunrays over the hills. Pedaling east, Kuta Beach offers a vibrant mid-morning coastal escape. The afternoon is a mix of leisure at Mandalika Beach Club and scenic stops at Gunung Benjon and Bukit Tanakbeak. Finally, we cycle past Novotel to end our journey delving into the Princess Mandalika legend."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gunung Terangga",
+            "hu": "Gunung Terangga",
+            "ro": "Gunung Terangga",
+            "en": "Gunung Terangga"
+          },
+          "coords": [
+            116.2516,
+            -8.8954
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatische, unberührte Landschaft von dieser natürlichen Erhebung und halten Sie Ausschau nach einheimischen Vögeln.",
+            "hu": "Csodálja meg a drámai, érintetlen tájat erről a természetes magaslatról, és figyelje meg a területre gyakran látogató őshonos madarakat.",
+            "ro": "Admirați peisajul dramatic și neatins de pe această înălțime naturală și fiți atenți la păsările native care vizitează frecvent zona.",
+            "en": "Marvel at the dramatic, unspoiled landscape from this natural elevation, and keep an eye out for native birds that frequently visit the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumur Cave",
+            "hu": "Sumur barlang",
+            "ro": "Peștera Sumur",
+            "en": "Sumur Cave"
+          },
+          "coords": [
+            116.252716,
+            -8.889562
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden geologischen Formationen in dieser Höhle, aber bringen Sie eine starke Taschenlampe für den unebenen Boden mit.",
+            "hu": "Fedezze fel a sötét barlangban rejlő lenyűgöző geológiai képződményeket, de mindenképpen vigyen magával erős zseblámpát a biztonságos közlekedéshez.",
+            "ro": "Explorați formațiunile geologice fascinante ascunse în această peșteră, dar asigurați-vă că aveți o lanternă puternică pentru podeaua denivelată.",
+            "en": "Explore the fascinating geological formations hidden within this dark cavern, but make sure you have a strong flashlight to navigate the uneven floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mystical neverland Bat cave",
+            "hu": "Mystical neverland Bat cave",
+            "ro": "Peștera Mistică a Liliecilor",
+            "en": "Mystical neverland Bat cave"
+          },
+          "coords": [
+            116.254769,
+            -8.88967
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von Fledermäusen an der Kalksteindecke und bedecken Sie eventuell Ihre Nase, wenn Sie empfindlich auf Naturgerüche reagieren.",
+            "hu": "Figyelje meg az ősi mészkő mennyezetről lógó denevérek ezreit, és érdemes eltakarni az orrát, ha érzékeny az erős, természetes szagokra.",
+            "ro": "Priviți miile de lilieci atârnând de tavanul antic de calcar și acoperiți-vă nasul dacă sunteți sensibil la mirosurile naturale puternice.",
+            "en": "Witness thousands of bats hanging from the ancient limestone ceiling, and consider covering your nose if you are sensitive to the strong natural odors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuta Beach",
+            "hu": "Kuta Beach",
+            "ro": "Plaja Kuta",
+            "en": "Kuta Beach"
+          },
+          "coords": [
+            116.283173,
+            -8.894662
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.12,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und die Surfkultur, aber mieten Sie Ihr Brett früh, um die besten Morgenwellen vor dem großen Ansturm zu erwischen.",
+            "hu": "Élvezze a fehér homokot és a szörfkultúrát, de bérelje ki a deszkáját korán, hogy elcsípje a legjobb reggeli hullámokat a tömeg megérkezése előtt.",
+            "ro": "Bucurați-vă de nisipul alb și de cultura surfingului, dar închiriați o placă devreme pentru a prinde cele mai bune valuri matinale înainte de aglomerație.",
+            "en": "Enjoy the iconic white sands and vibrant surf culture, but remember to rent your board early to catch the best morning waves before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Benjon",
+            "hu": "Gunung Benjon",
+            "ro": "Gunung Benjon",
+            "en": "Gunung Benjon"
+          },
+          "coords": [
+            116.2922,
+            -8.899624
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Hügel für einen Panoramablick auf die Bucht und tragen Sie festes Schuhwerk, da der Weg oben uneben und felsig sein kann.",
+            "hu": "Mássza meg ezt a lankás dombot a lenyűgöző panorámáért, és viseljen zárt cipőt, mivel az ösvény a csúcs közelében sziklás és egyenetlen.",
+            "ro": "Urcați pe acest deal pentru o panoramă spectaculoasă a golfului și purtați încălțăminte solidă, deoarece poteca este stâncoasă spre vârf.",
+            "en": "Climb this gentle hill for a spectacular panoramic view of the bay, and wear sturdy shoes as the path can be uneven and rocky near the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Novotel Kuta",
+            "hu": "Novotel Kuta",
+            "ro": "Novotel Kuta",
+            "en": "Novotel Kuta"
+          },
+          "coords": [
+            116.297404,
+            -8.903337
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Sasak-Architektur kombiniert mit Luxus und probieren Sie die lokalen Spezialitäten im fantastischen Restaurant.",
+            "hu": "Csodálja meg a hagyományos Sasak építészetet luxus kivitelben, és kóstolja meg a helyi ételkülönlegességeket a szálloda fantasztikus éttermében.",
+            "ro": "Admirați arhitectura tradițională Sasak îmbinată cu luxul modern și gustați specialitățile culinare locale în restaurantul lor fantastic.",
+            "en": "Experience traditional Sasak-inspired architecture mixed with modern luxury, and try the local culinary specialties at their fantastic restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Princess Mandalika",
+            "hu": "Princess Mandalika",
+            "ro": "Prințesa Mandalika",
+            "en": "Princess Mandalika"
+          },
+          "coords": [
+            116.297941,
+            -8.906242
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die legendäre Prinzessin, die sich für den Frieden opferte, und besuchen Sie das Denkmal bei Sonnenuntergang für magisches Licht.",
+            "hu": "Ismerje meg a békéért feláldozott helyi hercegnő legendáját, és látogassa meg az emlékművet naplementekor a legvarázslatosabb fényviszonyokért.",
+            "ro": "Aflați legenda prințesei locale care s-a sacrificat pentru pace și vizitați monumentul la apus pentru a vă bucura de cea mai magică lumină.",
+            "en": "Learn about the legendary local princess who sacrificed herself for peace, and visit the nearby monument at sunset for the most magical lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrt in den wilderen Westen zum Gunung Terangga bietet dramatische Morgenszenen. Danach erkunden wir die Sumur-Höhle und die mystische Fledermaushöhle. Die Mittagshitze verbringen wir an den lebhaften Ufern des Kuta Beach. Die Nachmittagshöhen am Gunung Benjon weichen einem eleganten Abend rund um das Novotel und Princess Mandalika.",
+        "hu": "A vadabb nyugati részre autózva a Gunung Terangga drámai reggeli látványt nyújt. Ezután felfedezzük a Sumur barlang és a misztikus denevérbarlang titkait. Keletre visszatérve a déli hőséget a Kuta Beach pezsgő partján vészeljük át. A Gunung Benjon magaslatait követően az estét a Novotel eleganciája és a Princess Mandalika emlékműve koronázza meg.",
+        "ro": "Conducând spre vestul sălbatic, Gunung Terangga oferă un peisaj matinal dramatic. Explorăm apoi secretele Peșterii Sumur și Peșterii Liliecilor. Întorcându-ne în est, căldura amiezii este petrecută relaxant la Kuta Beach. Înălțimile de la Gunung Benjon fac loc unei seri elegante în jurul Novotel și a sitului Princess Mandalika.",
+        "en": "Driving out to the wilder west, Gunung Terangga provides dramatic morning scenery. Next, we explore the deep secrets of Sumur Cave and the Mystical Bat Cave. Returning east, the midday heat is spent unwinding at Kuta Beach's lively shores. Afternoon heights at Gunung Benjon give way to an elegant evening around Novotel and the revered Princess Mandalika site."
+      }
+    }
+  }
+}

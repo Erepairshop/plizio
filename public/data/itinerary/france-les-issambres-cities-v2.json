@@ -1,0 +1,451 @@
+{
+  "city_id": "france-les-issambres-cities-v2",
+  "anchor": {
+    "name": "Les Issambres",
+    "coords": [
+      6.71252,
+      43.34697
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage des Gireliers",
+            "hu": "Plage des Gireliers",
+            "ro": "Plage des Gireliers",
+            "en": "Plage des Gireliers"
+          },
+          "coords": [
+            6.702896,
+            43.344302
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen dieses Sandstrandes, der sich perfekt für ein morgendliches Bad eignet, bringen Sie also früh ein Handtuch mit.",
+            "hu": "Élvezze e homokos part finom hullámait, amely tökéletes egy reggeli frissítő csobbanáshoz, ezért érkezzen korán a legjobb helyekért.",
+            "ro": "Bucurați-vă de valurile blânde ale acestei plaje cu nisip, perfectă pentru o baie de dimineață, așa că aduceți-vă prosopul devreme pentru cel mai bun loc.",
+            "en": "Enjoy the gentle waves of this sandy beach, perfect for a refreshing morning dip, so bring your towel early to secure the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Pinède",
+            "hu": "Plage de la Pinède",
+            "ro": "Plage de la Pinède",
+            "en": "Plage de la Pinède"
+          },
+          "coords": [
+            6.712016,
+            43.345307
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten der Pinien an diesem wunderschönen Küstenstreifen und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Pihenjen a gyönyörű partszakaszt szegélyező fenyők árnyékában, és ne felejtse el elhozni a sznorkelfelszerelését a kristálytiszta vízhez.",
+            "ro": "Relaxați-vă la umbra pinilor care mărginesc această frumoasă zonă de coastă și nu uitați echipamentul de snorkeling pentru apele clare.",
+            "en": "Relax under the shade of the pine trees lining this beautiful coastal stretch, and don't forget your snorkeling gear for the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Robert Manuel",
+            "hu": "Espace Robert Manuel",
+            "ro": "Espace Robert Manuel",
+            "en": "Espace Robert Manuel"
+          },
+          "coords": [
+            6.711876,
+            43.347401
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur und Aufführungen an diesem lebendigen Gemeindezentrum, also schauen Sie vorab online nach dem Programm.",
+            "hu": "Fedezze fel a helyi kultúrát és az előadásokat ebben a nyüzsgő közösségi térben, így érdemes előre ellenőrizni a délutáni programokat online.",
+            "ro": "Descoperiți cultura locală la acest centru comunitar vibrant, așa că verificați programul online în avans pentru a prinde un spectacol.",
+            "en": "Discover local culture and performances at this vibrant community hub, so check the schedule online in advance to catch an afternoon show."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+          },
+          "coords": [
+            6.712668,
+            43.351152
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser charmanten Küstenkapelle, wo ein Moment der ruhigen Besinnung für alle Besucher sehr empfohlen wird.",
+            "hu": "Csodálja meg e hangulatos tengerparti kápolna békés építészetét, ahol minden látogató számára erősen ajánlott egy pillanatnyi csendes elmélkedés.",
+            "ro": "Admirați arhitectura pașnică a acestei capele de coastă, unde se recomandă un moment de reflecție liniștită pentru toți vizitatorii.",
+            "en": "Admire the peaceful architecture of this charming coastal chapel, where taking a moment of quiet reflection is highly recommended for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage calanque de Tardieu",
+            "hu": "Plage calanque de Tardieu",
+            "ro": "Plage calanque de Tardieu",
+            "en": "Plage calanque de Tardieu"
+          },
+          "coords": [
+            6.713909,
+            43.350027
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die versteckten Buchten dieser atemberaubenden Calanque, was feste Wanderschuhe vor dem Schwimmen zu einem Muss macht.",
+            "hu": "Fedezze fel e lenyűgöző öböl rejtett sziklás részeit, amihez kényelmes cipő javasolt, mielőtt letelepedne egy délutáni hűsítő úszáshoz.",
+            "ro": "Explorați golfurile ascunse și stâncile acestei calanque uimitoare, așa că purtați încălțăminte rezistentă înainte de a înota.",
+            "en": "Explore the hidden coves and rugged rocks of this stunning calanque, making sturdy walking shoes a must before settling down for a swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Besuch der Plage des Gireliers, wo Sie die sanften Mittelmeerwellen begrüßen. Gegen Mittag schlendern wir zur Plage de la Pinède, um im Schatten der duftenden Pinien zu entspannen, bevor wir im Espace Robert Manuel in die lokale Kultur eintauchen. Der Nachmittag bietet einen Moment der Ruhe in der Chapelle Sainte-Thérèse. Wir beenden unsere Tour an der Plage calanque de Tardieu.",
+        "hu": "A reggel a Plage des Gireliers frissítő meglátogatásával kezdődik, ahol a Földközi-tenger lágy hullámai fogadják. Ahogy közeledik a dél, átsétálunk a Plage de la Pinède felé, hogy az illatos fenyők árnyékában pihenjünk, majd elmerüljünk a helyi kultúrában az Espace Robert Manuelben. A délután a Chapelle Sainte-Thérèse kápolnájában kínál nyugalmat. Sétánkat a Plage calanque de Tardieu sziklás öbleinél fejezzük be.",
+        "ro": "Dimineața începe cu o vizită revigorantă la Plage des Gireliers, unde vă întâmpină valurile blânde ale Mediteranei. Pe măsură ce se apropie prânzul, ne plimbăm spre Plage de la Pinède, găsind umbră sub pinii parfumați înainte de a explora cultura la Espace Robert Manuel. După-amiaza oferă un moment de liniște la Chapelle Sainte-Thérèse. Ne încheiem turul la Plage calanque de Tardieu, relaxându-ne lângă golfurile stâncoase.",
+        "en": "Morning begins with a refreshing visit to Plage des Gireliers, where the gentle Mediterranean waves greet you. As midday approaches, we stroll to Plage de la Pinède, finding shade under the fragrant pine trees before delving into local culture at Espace Robert Manuel. The afternoon offers a moment of serenity at the Chapelle Sainte-Thérèse, standing peacefully near the coast. We conclude our walking tour at Plage calanque de Tardieu, relaxing by the rocky coves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port des Issambres",
+            "hu": "Port des Issambres",
+            "ro": "Port des Issambres",
+            "en": "Port des Issambres"
+          },
+          "coords": [
+            6.686566,
+            43.341222
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Jachthafen entlang, um die Boote zu bewundern, und holen Sie sich einen frischen Kaffee an einem nahegelegenen Kiosk.",
+            "hu": "Sétáljon végig a nyüzsgő kikötőben, csodálja meg a csónakokat, és vegyen egy friss kávét a közeli pavilonban, hogy jól induljon a napja.",
+            "ro": "Plimbați-vă de-a lungul portului plin de viață pentru a admira bărcile și luați o cafea proaspătă la un chioșc pentru a începe ziua bine.",
+            "en": "Stroll along the bustling marina to admire the docked boats, and consider grabbing a fresh coffee at a nearby kiosk to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage San Peïre",
+            "hu": "Plage San Peïre",
+            "ro": "Plage San Peïre",
+            "en": "Plage San Peïre"
+          },
+          "coords": [
+            6.693586,
+            43.341383
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem breiten und familienfreundlichen Strand direkt im Zentrum, aber kommen Sie früh, um eine bequeme Sonnenliege zu mieten.",
+            "hu": "Kapcsolódjon ki ezen a széles és családbarát központi strandon, de érkezzen a csúcsidő előtt, ha kényelmes napágyat szeretne bérelni.",
+            "ro": "Relaxați-vă pe această plajă largă și prietenoasă cu familiile din centru, asigurându-vă că ajungeți devreme pentru a închiria un șezlong.",
+            "en": "Unwind at this wide and family-friendly beach right in the center, ensuring you arrive before peak hours to rent a comfortable sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Gireliers",
+            "hu": "Plage des Gireliers",
+            "ro": "Plage des Gireliers",
+            "en": "Plage des Gireliers"
+          },
+          "coords": [
+            6.702896,
+            43.344302
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen dieses Sandstrandes, der sich perfekt für ein morgendliches Bad eignet, bringen Sie also früh ein Handtuch mit.",
+            "hu": "Élvezze e homokos part finom hullámait, amely tökéletes egy reggeli frissítő csobbanáshoz, ezért érkezzen korán a legjobb helyekért.",
+            "ro": "Bucurați-vă de valurile blânde ale acestei plaje cu nisip, perfectă pentru o baie de dimineață, așa că aduceți-vă prosopul devreme pentru cel mai bun loc.",
+            "en": "Enjoy the gentle waves of this sandy beach, perfect for a refreshing morning dip, so bring your towel early to secure the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Robert Manuel",
+            "hu": "Espace Robert Manuel",
+            "ro": "Espace Robert Manuel",
+            "en": "Espace Robert Manuel"
+          },
+          "coords": [
+            6.711876,
+            43.347401
+          ],
+          "category": "cultural",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur und Aufführungen an diesem lebendigen Gemeindezentrum, also schauen Sie vorab online nach dem Programm.",
+            "hu": "Fedezze fel a helyi kultúrát és az előadásokat ebben a nyüzsgő közösségi térben, így érdemes előre ellenőrizni a délutáni programokat online.",
+            "ro": "Descoperiți cultura locală la acest centru comunitar vibrant, așa că verificați programul online în avans pentru a prinde un spectacol.",
+            "en": "Discover local culture and performances at this vibrant community hub, so check the schedule online in advance to catch an afternoon show."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+          },
+          "coords": [
+            6.712668,
+            43.351152
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser charmanten Küstenkapelle, wo ein Moment der ruhigen Besinnung für alle Besucher sehr empfohlen wird.",
+            "hu": "Csodálja meg e hangulatos tengerparti kápolna békés építészetét, ahol minden látogató számára erősen ajánlott egy pillanatnyi csendes elmélkedés.",
+            "ro": "Admirați arhitectura pașnică a acestei capele de coastă, unde se recomandă un moment de reflecție liniștită pentru toți vizitatorii.",
+            "en": "Admire the peaceful architecture of this charming coastal chapel, where taking a moment of quiet reflection is highly recommended for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Vivier Maritime gallo-romain",
+            "hu": "Vivier Maritime gallo-romain",
+            "ro": "Vivier Maritime gallo-romain",
+            "en": "Vivier Maritime gallo-romain"
+          },
+          "coords": [
+            6.718908,
+            43.358016
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Überreste der römischen Fischteiche, die bei Ebbe gut vom Küstenweg aus zu sehen sind.",
+            "hu": "Lépjen vissza az időben ezen ókori római halastavak romjainak felfedezésével, amelyek apálykor nagyszerűen láthatók a parti sétányról.",
+            "ro": "Pășiți înapoi în timp explorând rămășițele acestor vechi iazuri romane de pești, ușor de văzut de pe calea de coastă la reflux.",
+            "en": "Step back in time by exploring the remains of these ancient Roman fish ponds, easily viewed from the coastal path at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am geschäftigen Port des Issambres und genießen Sie die maritime Energie. Mittags fahren wir zur Plage San Peïre und zur Plage des Gireliers für sonnenverwöhnte Entspannung am Ufer. Am Nachmittag tauchen wir im Espace Robert Manuel in die regionale Kunst ein und bewundern die Chapelle Sainte-Thérèse. Der Tag endet mit einem faszinierenden Stopp am antiken Vivier Maritime gallo-romain.",
+        "hu": "Kezdje kerékpártúráját a nyüzsgő Port des Issambres-ban, magába szívva az élénk tengeri energiát. Délben zökkenőmentesen tekerünk át a Plage San Peïre és a Plage des Gireliers felé, hogy élvezzük a napsütést. Délután a regionális művészetekben merülünk el az Espace Robert Manuelnél, majd élvezzük a Chapelle Sainte-Thérèse békéjét. A napot a Vivier Maritime gallo-romain ókori római romjainak felfedezésével zárjuk.",
+        "ro": "Începeți călătoria cu bicicleta la aglomeratul Port des Issambres, asimilând energia maritimă. Prânzul ne duce către Plage San Peïre și Plage des Gireliers pentru relaxare însorită. După-amiaza, ne cufundăm în artele regionale la Espace Robert Manuel și ne bucurăm de harul liniștit al Chapelle Sainte-Thérèse. Ziua se încheie cu o oprire istorică fascinantă la vechiul Vivier Maritime gallo-romain.",
+        "en": "Kick off your cycling journey at the bustling Port des Issambres, taking in the vibrant maritime energy. Midday takes us seamlessly to Plage San Peïre and Plage des Gireliers for sun-soaked relaxation along the shore. In the afternoon, we dive into regional arts at Espace Robert Manuel and enjoy the quiet grace of Chapelle Sainte-Thérèse. The day concludes with a fascinating historical stop at the ancient Vivier Maritime gallo-romain."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vivier Maritime gallo-romain",
+            "hu": "Vivier Maritime gallo-romain",
+            "ro": "Vivier Maritime gallo-romain",
+            "en": "Vivier Maritime gallo-romain"
+          },
+          "coords": [
+            6.718908,
+            43.358016
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Überreste der römischen Fischteiche, die bei Ebbe gut vom Küstenweg aus zu sehen sind.",
+            "hu": "Lépjen vissza az időben ezen ókori római halastavak romjainak felfedezésével, amelyek apálykor nagyszerűen láthatók a parti sétányról.",
+            "ro": "Pășiți înapoi în timp explorând rămășițele acestor vechi iazuri romane de pești, ușor de văzut de pe calea de coastă la reflux.",
+            "en": "Step back in time by exploring the remains of these ancient Roman fish ponds, easily viewed from the coastal path at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Tonic",
+            "hu": "Port Tonic",
+            "ro": "Port Tonic",
+            "en": "Port Tonic"
+          },
+          "coords": [
+            6.71626,
+            43.356109
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die maritime Atmosphäre an diesem kleineren, malerischen Dock und bringen Sie Ihre Kamera für die bunten Fischerboote mit.",
+            "hu": "Figyelje meg a helyi tengeri hangulatot ezen a kisebb, festői kikötőn, és hozza magával fényképezőgépét a színes halászhajók megörökítéséhez.",
+            "ro": "Observați atmosfera maritimă la acest doc mic și pitoresc, aducându-vă camera foto pentru a surprinde navele de pescuit colorate.",
+            "en": "Observe the local maritime atmosphere at this smaller, picturesque dock, bringing your camera along to capture the colorful fishing vessels."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+            "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+          },
+          "coords": [
+            6.712668,
+            43.351152
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser charmanten Küstenkapelle, wo ein Moment der ruhigen Besinnung für alle Besucher sehr empfohlen wird.",
+            "hu": "Csodálja meg e hangulatos tengerparti kápolna békés építészetét, ahol minden látogató számára erősen ajánlott egy pillanatnyi csendes elmélkedés.",
+            "ro": "Admirați arhitectura pașnică a acestei capele de coastă, unde se recomandă un moment de reflecție liniștită pentru toți vizitatorii.",
+            "en": "Admire the peaceful architecture of this charming coastal chapel, where taking a moment of quiet reflection is highly recommended for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Robert Manuel",
+            "hu": "Espace Robert Manuel",
+            "ro": "Espace Robert Manuel",
+            "en": "Espace Robert Manuel"
+          },
+          "coords": [
+            6.711876,
+            43.347401
+          ],
+          "category": "cultural",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur und Aufführungen an diesem lebendigen Gemeindezentrum, also schauen Sie vorab online nach dem Programm.",
+            "hu": "Fedezze fel a helyi kultúrát és az előadásokat ebben a nyüzsgő közösségi térben, így érdemes előre ellenőrizni a délutáni programokat online.",
+            "ro": "Descoperiți cultura locală la acest centru comunitar vibrant, așa că verificați programul online în avans pentru a prinde un spectacol.",
+            "en": "Discover local culture and performances at this vibrant community hub, so check the schedule online in advance to catch an afternoon show."
+          }
+        },
+        {
+          "name": {
+            "de": "Port des Issambres",
+            "hu": "Port des Issambres",
+            "ro": "Port des Issambres",
+            "en": "Port des Issambres"
+          },
+          "coords": [
+            6.686566,
+            43.341222
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Jachthafen entlang, um die Boote zu bewundern, und holen Sie sich einen frischen Kaffee an einem nahegelegenen Kiosk.",
+            "hu": "Sétáljon végig a nyüzsgő kikötőben, csodálja meg a csónakokat, és vegyen egy friss kávét a közeli pavilonban, hogy jól induljon a napja.",
+            "ro": "Plimbați-vă de-a lungul portului plin de viață pentru a admira bărcile și luați o cafea proaspătă la un chioșc pentru a începe ziua bine.",
+            "en": "Stroll along the bustling marina to admire the docked boats, and consider grabbing a fresh coffee at a nearby kiosk to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Garonnette",
+            "hu": "Plage de la Garonnette",
+            "ro": "Plage de la Garonnette",
+            "en": "Plage de la Garonnette"
+          },
+          "coords": [
+            6.682659,
+            43.341197
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem ausgedehnten goldenen Sandstrand und bleiben Sie bis zum Sonnenuntergang für ein atemberaubendes Erlebnis.",
+            "hu": "Zárja a napját ezen a tágas, aranyszínű homokos szakaszon, és maradjon naplementéig egy igazán lélegzetelállító és pihentető élményért.",
+            "ro": "Încheiați ziua pe această întindere vastă de nisip auriu, stând până la apus pentru o experiență de amurg cu adevărat uluitoare.",
+            "en": "End your day at this expansive stretch of golden sand, staying until sunset for a truly breathtaking and relaxing twilight experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere malerische Fahrt beginnt im Osten mit den beeindruckenden Ruinen des Vivier Maritime gallo-romain. Mittags erreichen wir die pittoresken Docks von Port Tonic, gefolgt von einer ruhigen Pause an der Chapelle Sainte-Thérèse. Der Nachmittag geht weiter mit kulturellen Entdeckungen im Espace Robert Manuel und am Port des Issambres. Schließlich parken wir nahe der Plage de la Garonnette für den Sonnenuntergang.",
+        "hu": "Festői autózásunk keleten, a Vivier Maritime gallo-romain lenyűgöző romjainál kezdődik, visszalépve az ókorba. Délben a Port Tonic festői dokkjaihoz érünk, amelyet a Chapelle Sainte-Thérèse derűs nyugalma követ. A délután kulturális felfedezésekkel folytatódik az Espace Robert Manuelnél és a Port des Issambres-nél. Végül a Plage de la Garonnette közelében parkolunk le, hogy megnézzük a naplementét.",
+        "ro": "Călătoria noastră scenică începe în est cu ruinele impresionante ale Vivier Maritime gallo-romain. Prânzul ne aduce la docurile pitorești de la Port Tonic, urmat de o pauză senină la Chapelle Sainte-Thérèse. După-amiaza continuă cu descoperiri culturale la Espace Robert Manuel și o oprire la Port des Issambres. În cele din urmă, parcăm lângă Plage de la Garonnette pentru a privi apusul soarelui.",
+        "en": "Our scenic drive starts in the east with the impressive ruins of the Vivier Maritime gallo-romain, stepping back into ancient times. Midday brings us to the picturesque docks of Port Tonic, followed by a serene pause at the Chapelle Sainte-Thérèse. The afternoon continues with cultural discoveries at Espace Robert Manuel and a brief stop at Port des Issambres. Finally, we park near Plage de la Garonnette to watch the sunset."
+      }
+    }
+  }
+}

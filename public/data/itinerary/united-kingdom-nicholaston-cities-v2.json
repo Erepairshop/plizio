@@ -1,0 +1,497 @@
+{
+  "city_id": "united-kingdom-nicholaston-cities-v2",
+  "anchor": {
+    "name": "Nicholaston",
+    "coords": [
+      -4.13892,
+      51.57543
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cefn Bryn",
+            "hu": "Cefn Bryn",
+            "ro": "Cefn Bryn",
+            "en": "Cefn Bryn"
+          },
+          "coords": [
+            -4.140225,
+            51.580026
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen majestätischen Sandsteinrücken, der als Rückgrat von Gower bekannt ist und wo wilde Ponys weiden, und tragen Sie feste Schuhe für die unebenen Heidepfade.",
+            "hu": "Fedezze fel ezt a fenséges homokkő gerincet, amely Gower gerinceként ismert és vad pónik legelnek rajta, de a kavicsos ösvényekhez mindenképpen viseljen túrabakancsot.",
+            "ro": "Explorați această creastă maiestuoasă de gresie, cunoscută ca coloana vertebrală a peninsulei Gower, și purtați bocanci solizi pentru potecile denivelate de pe mlaștini.",
+            "en": "Explore this majestic sandstone ridge known as the backbone of Gower, where wild ponies roam freely, and wear sturdy boots for the uneven heathland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Tor Bay",
+            "hu": "Tor Bay",
+            "ro": "Tor Bay",
+            "en": "Tor Bay"
+          },
+          "coords": [
+            -4.125133,
+            51.569454
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten Sandstrand, der atemberaubende Ausblicke auf die Küste bietet, aber prüfen Sie unbedingt die Gezeiten, bevor Sie ans Wasser gehen.",
+            "hu": "Pihenjen ezen a védett, homokos partszakaszon, amely lélegzetelállító kilátást nyújt a tengerpartra, de vízreállás előtt mindenképpen ellenőrizze az árapály idejét.",
+            "ro": "Relaxați-vă la această semilună de nisip adăpostită, care oferă vederi uluitoare ale coastei, dar verificați cu atenție orele mareei înainte de a coborî spre apă.",
+            "en": "Relax at this sheltered, sandy crescent which offers breathtaking views of the coastline, but check the tide times carefully before heading down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+          },
+          "coords": [
+            -4.120342,
+            51.572777
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser neolithischen Grabkammer inmitten der Dünen und nähern Sie sich leise, um die tiefgründige historische Atmosphäre zu spüren.",
+            "hu": "Fedezze fel a dűnék között megbúvó neolitikus temetkezési kamra lenyűgöző maradványait, és csendben közeledjen, hogy átérezhesse a mély történelmi atmoszférát.",
+            "ro": "Descoperiți rămășițele fascinante ale acestei camere funerare neolitice ascunse printre dune și apropiați-vă în liniște pentru a aprecia atmosfera istorică profundă.",
+            "en": "Discover the fascinating remnants of this Neolithic burial chamber hidden among the dunes, and approach quietly to appreciate the profound historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Three Cliffs Bay",
+            "hu": "Three Cliffs Bay",
+            "ro": "Three Cliffs Bay",
+            "en": "Three Cliffs Bay"
+          },
+          "coords": [
+            -4.112765,
+            51.571589
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Trio aus Kalksteinklippen, das dramatisch aus dem Meer ragt, und nutzen Sie die Trittsteine über den Fluss bei Ebbe mit großer Vorsicht.",
+            "hu": "Csodálja meg a tengerből drámaian kiemelkedő ikonikus mészkősziklát, és apály idején óvatosan használja a folyón átvezető ugróköveket.",
+            "ro": "Admirați trio-ul iconic de stânci de calcar care se ridică dramatic din mare și folosiți cu grijă pietrele de trecere peste râu în timpul mareei scăzute.",
+            "en": "Admire the iconic trio of limestone cliffs rising dramatically from the sea, and use the stepping stones across the river stream carefully at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Pobbles Beach",
+            "hu": "Pobbles Beach",
+            "ro": "Pobbles Beach",
+            "en": "Pobbles Beach"
+          },
+          "coords": [
+            -4.107778,
+            51.568438
+          ],
+          "category": "landmark",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser wunderschönen, abgelegenen Bucht, die von dramatischen Kalksteinklippen umgeben ist, und bringen Sie Ihre eigenen Snacks mit.",
+            "hu": "Zárja a napot ebben a gyönyörű, eldugott, drámai mészkősziklákkal körülvett öbölben, de hozzon magával rágcsálnivalót, mivel a közelben nincsenek büfék.",
+            "ro": "Încheiați ziua în acest golf frumos și izolat, îmbrățișat de stânci dramatice de calcar, aducând propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "End your day at this beautifully secluded cove embraced by dramatic limestone cliffs, bringing your own snacks as there are no nearby facilities available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer erfrischenden Wanderung auf den Cefn Bryn, die weite Ausblicke über die Halbinsel bietet. Später steigen Sie zur Küste ab, um die Schönheit der Tor Bay zu erleben. Nach einer Mittagspause tauchen Sie in die antiken Echos der Penmaen Burrows ein. Der Nachmittag entfaltet sich an der ikonischen Three Cliffs Bay, wo das Meer durch Kalksteinbögen rauscht. Ihr Abenteuer endet friedlich am abgelegenen Pobbles Beach, ideal für eine abendliche Rast.",
+        "hu": "A reggel egy frissítő túrával kezdődik a Cefn Bryn hegygerincen, ahonnan pazar kilátás nyílik a félszigetre. Később a tengerpart felé ereszkedve élvezheti a Tor Bay nyugodt szépségét. A déli pihenő után merüljön el a Penmaen Burrows ősi világában. A délután az ikonikus Three Cliffs Baynél teljesedik ki, ahol a mészkőíveken áttörő tengert csodálhatja. Gyalogos kalandja békésen zárul a mindentől elzárt Pobbles Beach homokján, amely tökéletes esti menedék.",
+        "ro": "Dimineața începe cu o drumeție revigorantă pe Cefn Bryn, oferind priveliști vaste. Mai târziu, coborâți spre coastă pentru a experimenta frumusețea liniștită a Tor Bay. După o pauză de prânz, scufundați-vă în ecourile antice ale Penmaen Burrows. După-amiaza se desfășoară spectaculos la emblematica Three Cliffs Bay, unde marea trece prin arcele de calcar. Aventura se încheie pașnic pe plaja retrasă Pobbles, un refugiu perfect pentru o seară de relaxare liniștită la ocean.",
+        "en": "Morning begins with a refreshing hike up Cefn Bryn, offering vast vistas across the peninsula. Later, you descend toward the coast to experience the tranquil beauty of Tor Bay. After a midday break, immerse yourself in the ancient echoes of Penmaen Burrows. The afternoon unfolds spectacularly at the iconic Three Cliffs Bay, where you can watch the sea rush through the limestone arches. Your walking adventure concludes peacefully at the secluded Pobbles Beach, perfect for an evening rest."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:31",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc le Breos Chambered Tomb",
+            "hu": "Parc le Breos Chambered Tomb",
+            "ro": "Parc le Breos Chambered Tomb",
+            "en": "Parc le Breos Chambered Tomb"
+          },
+          "coords": [
+            -4.112704,
+            51.588375
+          ],
+          "category": "historical",
+          "arrive_at": "09:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bemerkenswerte prähistorische Grabgalerie in einem bewaldeten Tal und bringen Sie eine kleine Taschenlampe mit, um die alten Steinstrukturen zu betrachten.",
+            "hu": "Lépjen be ebbe a figyelemre méltó, erdős völgyben megbúvó történelem előtti temetkezési galériába, és hozzon magával zseblámpát az ősi kőszerkezetek vizsgálatához.",
+            "ro": "Pășiți în această remarcabilă galerie funerară preistorică cuibărită într-o vale împădurită și aduceți o lanternă mică pentru a inspecta îndeaproape structurile antice de piatră.",
+            "en": "Step inside this remarkable prehistoric burial gallery nestled in a wooded valley, and bring a small flashlight to inspect the ancient stone structures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathole Cave",
+            "hu": "Cathole Cave",
+            "ro": "Cathole Cave",
+            "en": "Cathole Cave"
+          },
+          "coords": [
+            -4.11239,
+            51.589899
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese tiefe Kalksteinhöhle, die für ihre eiszeitlichen archäologischen Funde bekannt ist, aber achten Sie auf den steilen, rutschigen Weg zum Eingang.",
+            "hu": "Vizsgálja meg ezt a jégkorszaki régészeti leleteiről ismert mély mészkőbarlangot, de nagyon ügyeljen a lépéseire a bejárathoz vezető meredek és csúszós ösvényen.",
+            "ro": "Investigați această cavernă adâncă de calcar cunoscută pentru descoperirile arheologice din Epoca de Gheață, dar fiți atenți la poteca abruptă și alunecoasă spre intrare.",
+            "en": "Investigate this deep limestone cavern known for its Ice Age archaeological findings, but watch your footing on the steep, slippery path leading to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cefn Bryn",
+            "hu": "Cefn Bryn",
+            "ro": "Cefn Bryn",
+            "en": "Cefn Bryn"
+          },
+          "coords": [
+            -4.140225,
+            51.580026
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen majestätischen Sandsteinrücken, der als Rückgrat von Gower bekannt ist und wo wilde Ponys weiden, und tragen Sie feste Schuhe für die unebenen Heidepfade.",
+            "hu": "Fedezze fel ezt a fenséges homokkő gerincet, amely Gower gerinceként ismert és vad pónik legelnek rajta, de a kavicsos ösvényekhez mindenképpen viseljen túrabakancsot.",
+            "ro": "Explorați această creastă maiestuoasă de gresie, cunoscută ca coloana vertebrală a peninsulei Gower, și purtați bocanci solizi pentru potecile denivelate de pe mlaștini.",
+            "en": "Explore this majestic sandstone ridge known as the backbone of Gower, where wild ponies roam freely, and wear sturdy boots for the uneven heathland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+            "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+          },
+          "coords": [
+            -4.120342,
+            51.572777
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser neolithischen Grabkammer inmitten der Dünen und nähern Sie sich leise, um die tiefgründige historische Atmosphäre zu spüren.",
+            "hu": "Fedezze fel a dűnék között megbúvó neolitikus temetkezési kamra lenyűgöző maradványait, és csendben közeledjen, hogy átérezhesse a mély történelmi atmoszférát.",
+            "ro": "Descoperiți rămășițele fascinante ale acestei camere funerare neolitice ascunse printre dune și apropiați-vă în liniște pentru a aprecia atmosfera istorică profundă.",
+            "en": "Discover the fascinating remnants of this Neolithic burial chamber hidden among the dunes, and approach quietly to appreciate the profound historical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Three Cliffs Bay",
+            "hu": "Three Cliffs Bay",
+            "ro": "Three Cliffs Bay",
+            "en": "Three Cliffs Bay"
+          },
+          "coords": [
+            -4.112765,
+            51.571589
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Trio aus Kalksteinklippen, das dramatisch aus dem Meer ragt, und nutzen Sie die Trittsteine über den Fluss bei Ebbe mit großer Vorsicht.",
+            "hu": "Csodálja meg a tengerből drámaian kiemelkedő ikonikus mészkősziklát, és apály idején óvatosan használja a folyón átvezető ugróköveket.",
+            "ro": "Admirați trio-ul iconic de stânci de calcar care se ridică dramatic din mare și folosiți cu grijă pietrele de trecere peste râu în timpul mareei scăzute.",
+            "en": "Admire the iconic trio of limestone cliffs rising dramatically from the sea, and use the stepping stones across the river stream carefully at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "High Pennard Camp",
+            "hu": "High Pennard Camp",
+            "ro": "High Pennard Camp",
+            "en": "High Pennard Camp"
+          },
+          "coords": [
+            -4.116609,
+            51.572087
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie die rauen Klippen, um diese alte eisenzeitliche Landzungenfestung zu finden, und bringen Sie ein Fernglas mit, um tauchende Seevögel zu beobachten.",
+            "hu": "Keljen át a zord sziklákon, hogy megtalálja ezt az ősi vaskori hegyfok erődöt, és hozzon távcsövet, hogy megfigyelhesse a meredek part mentén bukó tengeri madarakat.",
+            "ro": "Traversați stâncile abrupte pentru a găsi acest vechi fort de promontoriu din Epoca Fierului, aducând binoclul pentru a observa păsările marine pe coastă.",
+            "en": "Traverse the rugged cliffs to find this ancient Iron Age promontory fort, bringing binoculars to spot seabirds diving along the precipitous coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Pobbles Beach",
+            "hu": "Pobbles Beach",
+            "ro": "Pobbles Beach",
+            "en": "Pobbles Beach"
+          },
+          "coords": [
+            -4.107778,
+            51.568438
+          ],
+          "category": "landmark",
+          "arrive_at": "17:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser wunderschönen, abgelegenen Bucht, die von dramatischen Kalksteinklippen umgeben ist, und bringen Sie Ihre eigenen Snacks mit.",
+            "hu": "Zárja a napot ebben a gyönyörű, eldugott, drámai mészkősziklákkal körülvett öbölben, de hozzon magával rágcsálnivalót, mivel a közelben nincsenek büfék.",
+            "ro": "Încheiați ziua în acest golf frumos și izolat, îmbrățișat de stânci dramatice de calcar, aducând propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "End your day at this beautifully secluded cove embraced by dramatic limestone cliffs, bringing your own snacks as there are no nearby facilities available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am mysteriösen Parc le Breos Tomb, versteckt in einem üppigen Tal. Ein kurzes Stück weiter wartet die tiefe Cathole Cave auf Ihre morgendliche Erkundung. Mittags fahren Sie auf den Cefn Bryn für weite Panoramen und weiter zu den Penmaen Burrows. Der Nachmittag führt Sie zur großartigen Three Cliffs Bay und den Ruinen des High Pennard Camp. Schließlich endet Ihre Reise am Pobbles Beach, wo die Meereswellen Ihre müden Beine sanft beruhigen.",
+        "hu": "A kerékpártúra a titokzatos Parc le Breos sírkamrával indul egy buja völgyben. Rövid tekeréssel a történelmi Cathole Cave barlangot fedezheti fel a délelőtt folyamán. Délben a Cefn Bryn gerincre érve lenyűgöző panoráma fogadja, mielőtt a Penmaen Burrows felé indul. A délután a csodás Three Cliffs Bayt és a High Pennard Camp távoli romjait tartogatja. Végül a Pobbles Beach tengerpartján pihenhet meg, ahol a hullámok morajlása nyugtatja meg az elfáradt lábakat.",
+        "ro": "Turul cu bicicleta începe la mormântul Parc le Breos, ascuns într-o vale luxuriantă. O scurtă pedalare vă duce la peștera istorică Cathole Cave. La prânz, urcați pe Cefn Bryn pentru a vă bucura de panorame ample ale peninsulei înainte de a continua spre Penmaen Burrows. După-amiaza vă aduce la magnifica Three Cliffs Bay și la ruinele izolate de la High Pennard Camp. În cele din urmă, încheiați călătoria pe plaja Pobbles, lăsând valurile să vă relaxeze.",
+        "en": "Your cycling tour starts with the mysterious Parc le Breos Tomb, hidden within a lush valley. A short pedal takes you to the deep, historical Cathole Cave for a morning exploration. At midday, ride up to Cefn Bryn to enjoy sweeping panoramas of Gower before continuing to Penmaen Burrows. The afternoon brings you to the magnificent Three Cliffs Bay and the remote ruins of High Pennard Camp. Finally, end your journey at Pobbles Beach, letting the ocean waves soothe your tired legs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cefn Bryn",
+            "hu": "Cefn Bryn",
+            "ro": "Cefn Bryn",
+            "en": "Cefn Bryn"
+          },
+          "coords": [
+            -4.140225,
+            51.580026
+          ],
+          "category": "natural",
+          "arrive_at": "09:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen majestätischen Sandsteinrücken, der als Rückgrat von Gower bekannt ist und wo wilde Ponys weiden, und tragen Sie feste Schuhe für die unebenen Heidepfade.",
+            "hu": "Fedezze fel ezt a fenséges homokkő gerincet, amely Gower gerinceként ismert és vad pónik legelnek rajta, de a kavicsos ösvényekhez mindenképpen viseljen túrabakancsot.",
+            "ro": "Explorați această creastă maiestuoasă de gresie, cunoscută ca coloana vertebrală a peninsulei Gower, și purtați bocanci solizi pentru potecile denivelate de pe mlaștini.",
+            "en": "Explore this majestic sandstone ridge known as the backbone of Gower, where wild ponies roam freely, and wear sturdy boots for the uneven heathland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc le Breos Chambered Tomb",
+            "hu": "Parc le Breos Chambered Tomb",
+            "ro": "Parc le Breos Chambered Tomb",
+            "en": "Parc le Breos Chambered Tomb"
+          },
+          "coords": [
+            -4.112704,
+            51.588375
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bemerkenswerte prähistorische Grabgalerie in einem bewaldeten Tal und bringen Sie eine kleine Taschenlampe mit, um die alten Steinstrukturen zu betrachten.",
+            "hu": "Lépjen be ebbe a figyelemre méltó, erdős völgyben megbúvó történelem előtti temetkezési galériába, és hozzon magával zseblámpát az ősi kőszerkezetek vizsgálatához.",
+            "ro": "Pășiți în această remarcabilă galerie funerară preistorică cuibărită într-o vale împădurită și aduceți o lanternă mică pentru a inspecta îndeaproape structurile antice de piatră.",
+            "en": "Step inside this remarkable prehistoric burial gallery nestled in a wooded valley, and bring a small flashlight to inspect the ancient stone structures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathole Cave",
+            "hu": "Cathole Cave",
+            "ro": "Cathole Cave",
+            "en": "Cathole Cave"
+          },
+          "coords": [
+            -4.11239,
+            51.589899
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese tiefe Kalksteinhöhle, die für ihre eiszeitlichen archäologischen Funde bekannt ist, aber achten Sie auf den steilen, rutschigen Weg zum Eingang.",
+            "hu": "Vizsgálja meg ezt a jégkorszaki régészeti leleteiről ismert mély mészkőbarlangot, de nagyon ügyeljen a lépéseire a bejárathoz vezető meredek és csúszós ösvényen.",
+            "ro": "Investigați această cavernă adâncă de calcar cunoscută pentru descoperirile arheologice din Epoca de Gheață, dar fiți atenți la poteca abruptă și alunecoasă spre intrare.",
+            "en": "Investigate this deep limestone cavern known for its Ice Age archaeological findings, but watch your footing on the steep, slippery path leading to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tor Bay",
+            "hu": "Tor Bay",
+            "ro": "Tor Bay",
+            "en": "Tor Bay"
+          },
+          "coords": [
+            -4.125133,
+            51.569454
+          ],
+          "category": "landmark",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten Sandstrand, der atemberaubende Ausblicke auf die Küste bietet, aber prüfen Sie unbedingt die Gezeiten, bevor Sie ans Wasser gehen.",
+            "hu": "Pihenjen ezen a védett, homokos partszakaszon, amely lélegzetelállító kilátást nyújt a tengerpartra, de vízreállás előtt mindenképpen ellenőrizze az árapály idejét.",
+            "ro": "Relaxați-vă la această semilună de nisip adăpostită, care oferă vederi uluitoare ale coastei, dar verificați cu atenție orele mareei înainte de a coborî spre apă.",
+            "en": "Relax at this sheltered, sandy crescent which offers breathtaking views of the coastline, but check the tide times carefully before heading down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Three Cliffs Corner",
+            "hu": "Three Cliffs Corner",
+            "ro": "Three Cliffs Corner",
+            "en": "Three Cliffs Corner"
+          },
+          "coords": [
+            -4.104641,
+            51.568898
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem fantastischen Aussichtspunkt mit weitem Panoramablick auf die Bucht und planen Sie Ihre Ankunft zur goldenen Stunde für spektakuläre Fotos.",
+            "hu": "Álljon meg ennél a fantasztikus kilátópontnál, amely lenyűgöző panorámát nyújt az öbölre, és időzítse érkezését az aranyórára a valóban látványos fotókért.",
+            "ro": "Opriți-vă la acest punct de observație fantastic care oferă panorame ample ale golfului și încercați să ajungeți în ora de aur pentru oportunități fotografice spectaculoase.",
+            "en": "Pause at this fantastic vantage point offering sweeping panoramas of the bay, and aim to arrive during golden hour for truly spectacular photography opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromen",
+            "hu": "Cromen",
+            "ro": "Cromen",
+            "en": "Cromen"
+          },
+          "coords": [
+            -4.109396,
+            51.570297
+          ],
+          "category": "natural",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen markanten natürlichen Bogen, der von unerbittlichen Meereswellen geformt wurde, und navigieren Sie vorsichtig am felsigen Ufer entlang.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes boltívet, amelyet a könyörtelen tengeri hullámok vájtak ki, és óvatosan haladjon az egyenetlen sziklás parton a megtekintéshez.",
+            "ro": "Descoperiți acest arc natural impresionant sculptat de valurile neobosite ale mării și navigați cu grijă pe țărmul stâncos pentru a aprecia formațiunea geologică.",
+            "en": "Discover this striking natural arch carved by relentless sea waves, and carefully navigate the uneven rocky shore to appreciate its unique geological formation."
+          }
+        },
+        {
+          "name": {
+            "de": "Pobbles Beach",
+            "hu": "Pobbles Beach",
+            "ro": "Pobbles Beach",
+            "en": "Pobbles Beach"
+          },
+          "coords": [
+            -4.107778,
+            51.568438
+          ],
+          "category": "landmark",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser wunderschönen, abgelegenen Bucht, die von dramatischen Kalksteinklippen umgeben ist, und bringen Sie Ihre eigenen Snacks mit.",
+            "hu": "Zárja a napot ebben a gyönyörű, eldugott, drámai mészkősziklákkal körülvett öbölben, de hozzon magával rágcsálnivalót, mivel a közelben nincsenek büfék.",
+            "ro": "Încheiați ziua în acest golf frumos și izolat, îmbrățișat de stânci dramatice de calcar, aducând propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "End your day at this beautifully secluded cove embraced by dramatic limestone cliffs, bringing your own snacks as there are no nearby facilities available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour auf dem Cefn Bryn und beobachten Sie den morgendlichen Nebel über Gower. Fahren Sie in das bewaldete Tal, um die alten Steine von Parc le Breos und die Cathole Cave zu erkunden. Mittags lockt ein sonniger Küstenhalt in der weiten Tor Bay. Bewundern Sie am Nachmittag die Aussicht vom Three Cliffs Corner und die Felsformationen von Cromen. Beenden Sie Ihren Roadtrip mit einem ruhigen Spaziergang bei Sonnenuntergang am Pobbles Beach.",
+        "hu": "Autós túrája a Cefn Bryn tetején kezdődik, ahonnan a Gower félsziget reggeli párás látványát élvezheti. Ereszkedjen le az erdős völgybe a Parc le Breos és a Cathole Cave ősi köveihez. Délben egy napfényes tengerparti megálló várja a tágas Tor Bay partján. Délután csodálja meg a Three Cliffs Corner lenyűgöző kilátását és a Cromen természetes sziklaképződményeit. Látványos autós utazását egy csendes naplemente-sétával zárhatja a Pobbles Beach homokján.",
+        "ro": "Începeți turul auto pe Cefn Bryn pentru a asista la ceața dimineții ridicându-se de pe peninsula Gower. Conduceți în valea împădurită pentru a explora pietrele antice de la Parc le Breos și Cathole Cave. Prânzul cere o oprire de coastă însorită la Tor Bay. După-amiaza, minunați-vă de priveliștile uluitoare de la Three Cliffs Corner și de formațiunile stâncoase naturale Cromen. Încheiați călătoria cu o plimbare liniștită la apus pe plaja Pobbles.",
+        "en": "Start your driving tour atop Cefn Bryn to witness morning mist rolling off the majestic Gower peninsula. Drive down to the wooded valley to explore the ancient stones of Parc le Breos and nearby Cathole Cave. Midday calls for a sunny coastal stop at the expansive Tor Bay. In the afternoon, marvel at the breathtaking vistas from Three Cliffs Corner and the natural rock formations of Cromen. Conclude your spectacular road trip with a quiet sunset stroll on Pobbles Beach."
+      }
+    }
+  }
+}

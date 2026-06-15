@@ -1,0 +1,520 @@
+{
+  "city_id": "mandeure",
+  "anchor": {
+    "name": "Mandeure",
+    "coords": [
+      6.8056,
+      47.4511
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mandeure Town Hall",
+            "hu": "Mandeure Town Hall",
+            "ro": "Mandeure Town Hall",
+            "en": "Mandeure Town Hall"
+          },
+          "coords": [
+            6.809367,
+            47.450219
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses, dem politischen Herzstück von Mandeure, und beginnen Sie Ihren Tag entspannt auf dem Vorplatz.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, Mandeure politikai szívét, és kezdje a napot egy pihentető sétával a tágas előtérben.",
+            "ro": "Admirați arhitectura elegantă a primăriei, inima politică a orașului Mandeure, și începeți-vă ziua liniștit pe esplanada spațioasă din față.",
+            "en": "Admire the elegant architecture of the town hall, the political heart of Mandeure, and start your day smoothly on the spacious front square."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin Church",
+            "ro": "Saint-Martin Church",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.807692,
+            47.452756
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre der Saint-Martin-Kirche, eines spirituellen Zentrums der Stadt, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel a Saint-Martin templom békés atmoszféráját, a város egyik szellemi központját, és figyelje meg a csodálatos ólomüveg ablakokat.",
+            "ro": "Descoperiți atmosfera liniștită a Bisericii Saint-Martin, un centru spiritual al orașului, și acordați o atenție deosebită vitraliilor colorate.",
+            "en": "Discover the peaceful atmosphere of Saint-Martin Church, a spiritual center of the town, and pay special attention to the colorful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre antique de Mandeure",
+            "hu": "Théâtre antique de Mandeure",
+            "ro": "Théâtre antique de Mandeure",
+            "en": "Théâtre antique de Mandeure"
+          },
+          "coords": [
+            6.796537,
+            47.449003
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eines der größten antiken Theater Galliens, ein echtes römisches Meisterwerk, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Csodálja meg Gallia egyik legnagyobb ókori színházát, egy igazi római mesterművet, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Admirați unul dintre cele mai mari teatre antice din Galia, o capodoperă romană, și purtați încălțăminte comodă pentru treptele inegale de piatră.",
+            "en": "Marvel at one of the largest ancient theaters in Gaul, a true Roman masterpiece, and wear comfortable shoes for navigating the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Symphorien",
+            "hu": "Chapelle Saint-Symphorien",
+            "ro": "Chapelle Saint-Symphorien",
+            "en": "Chapelle Saint-Symphorien"
+          },
+          "coords": [
+            6.799986,
+            47.458734
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle mit ihrer tiefen regionalen Geschichte und genießen Sie die absolute Stille im umliegenden, friedlichen Park.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely mély regionális történelemmel bír, és élvezze az abszolút csendet a környező békés parkban.",
+            "ro": "Vizitați această capelă fermecătoare cu o profundă istorie regională și bucurați-vă de liniștea absolută din micul parc pașnic din împrejurimi.",
+            "en": "Visit this charming little chapel with its deep regional history, and enjoy the absolute silence in the surrounding peaceful park setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bains de Courcelles",
+            "hu": "Bains de Courcelles",
+            "ro": "Bains de Courcelles",
+            "en": "Bains de Courcelles"
+          },
+          "coords": [
+            6.817004,
+            47.446404
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der antiken römischen Thermen, die den römischen Luxus zeigen, und lesen Sie die informativen Schautafeln vor Ort.",
+            "hu": "Fedezze fel az ókori római termálfürdők lenyűgöző maradványait, amelyek a római luxust mutatják be, és olvassa el az információs táblákat a helyszínen.",
+            "ro": "Explorați ruinele fascinante ale băilor termale antice, care ilustrează luxul roman, și citiți panourile informative detaliate de la fața locului.",
+            "en": "Explore the fascinating remains of the ancient Roman baths, showcasing Roman luxury, and make sure to read the detailed informative panels on site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag am Rathaus, bevor Sie zur Saint-Martin-Kirche spazieren. Die ruhigen Straßen wecken die Stadt behutsam.\n\nDas Highlight erwartet Sie im antiken Theater, wo Sie tief in die römische Geschichte eintauchen. Die Größe der Anlage ist schlichtweg beeindruckend.\n\nEin ruhiger Spaziergang zur Chapelle Saint-Symphorien bietet Ihnen einen Moment der inneren Einkehr und Besinnung inmitten der Natur.\n\nLassen Sie den Tag bei den faszinierenden Bains de Courcelles ausklingen, wo das Echo der Antike in der goldenen Abenddämmerung verweilt.",
+        "hu": "Kezdje a napot a Városházánál, majd sétáljon el a Saint-Martin templomhoz. A csendes utcák finoman ébresztik a várost.\n\nA csúcspont az ókori színházban várja, ahol mélyen elmerülhet a római történelemben. A létesítmény hatalmas mérete egyszerűen lenyűgöző.\n\nEgy csendes séta a Chapelle Saint-Symphorien felé a belső elmélyülés és a természet közelségének csodálatos pillanatát kínálja.\n\nZárja a napot a lenyűgöző Bains de Courcelles-nél, ahol az ókor visszhangja ott időz az aranyszínű alkonyatban és békés nyugalmat áraszt.",
+        "ro": "Începeți-vă ziua la Primărie înainte de a vă plimba spre Biserica Saint-Martin. Străzile liniștite trezesc ușor orașul.\n\nPunctul culminant vă așteaptă la teatrul antic, unde vă cufundați în istoria romană. Dimensiunea sitului este pur și simplu impresionantă.\n\nO plimbare liniștită spre Chapelle Saint-Symphorien vă oferă un moment de reflecție interioară în mijlocul unei naturi extrem de pașnice.\n\nÎncheiați ziua la fascinantele Bains de Courcelles, unde ecoul antichității persistă subtil în amurgul auriu și aduce o pace profundă.",
+        "en": "Start your day at the Town Hall before walking over to Saint-Martin Church. The quiet streets gently awaken the historic town.\n\nThe highlight awaits at the ancient theater, where you dive deep into Roman history. The massive scale of the site is simply impressive.\n\nA quiet walk towards Chapelle Saint-Symphorien offers you a beautiful moment of inner reflection surrounded by peaceful nature.\n\nEnd your day at the fascinating Bains de Courcelles, where the echo of antiquity lingers gently in the beautiful golden dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mandeure Town Hall",
+            "hu": "Mandeure Town Hall",
+            "ro": "Mandeure Town Hall",
+            "en": "Mandeure Town Hall"
+          },
+          "coords": [
+            6.809367,
+            47.450219
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses, dem politischen Herzstück von Mandeure, und beginnen Sie Ihren Tag entspannt auf dem Vorplatz.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, Mandeure politikai szívét, és kezdje a napot egy pihentető sétával a tágas előtérben.",
+            "ro": "Admirați arhitectura elegantă a primăriei, inima politică a orașului Mandeure, și începeți-vă ziua liniștit pe esplanada spațioasă din față.",
+            "en": "Admire the elegant architecture of the town hall, the political heart of Mandeure, and start your day smoothly on the spacious front square."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin Church",
+            "ro": "Saint-Martin Church",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.807692,
+            47.452756
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre der Saint-Martin-Kirche, eines spirituellen Zentrums der Stadt, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel a Saint-Martin templom békés atmoszféráját, a város egyik szellemi központját, és figyelje meg a csodálatos ólomüveg ablakokat.",
+            "ro": "Descoperiți atmosfera liniștită a Bisericii Saint-Martin, un centru spiritual al orașului, și acordați o atenție deosebită vitraliilor colorate.",
+            "en": "Discover the peaceful atmosphere of Saint-Martin Church, a spiritual center of the town, and pay special attention to the colorful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Symphorien",
+            "hu": "Chapelle Saint-Symphorien",
+            "ro": "Chapelle Saint-Symphorien",
+            "en": "Chapelle Saint-Symphorien"
+          },
+          "coords": [
+            6.799986,
+            47.458734
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle mit ihrer tiefen regionalen Geschichte und genießen Sie die absolute Stille im umliegenden, friedlichen Park.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely mély regionális történelemmel bír, és élvezze az abszolút csendet a környező békés parkban.",
+            "ro": "Vizitați această capelă fermecătoare cu o profundă istorie regională și bucurați-vă de liniștea absolută din micul parc pașnic din împrejurimi.",
+            "en": "Visit this charming little chapel with its deep regional history, and enjoy the absolute silence in the surrounding peaceful park setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre antique de Mandeure",
+            "hu": "Théâtre antique de Mandeure",
+            "ro": "Théâtre antique de Mandeure",
+            "en": "Théâtre antique de Mandeure"
+          },
+          "coords": [
+            6.796537,
+            47.449003
+          ],
+          "category": "landmark",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eines der größten antiken Theater Galliens, ein echtes römisches Meisterwerk, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Csodálja meg Gallia egyik legnagyobb ókori színházát, egy igazi római mesterművet, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Admirați unul dintre cele mai mari teatre antice din Galia, o capodoperă romană, și purtați încălțăminte comodă pentru treptele inegale de piatră.",
+            "en": "Marvel at one of the largest ancient theaters in Gaul, a true Roman masterpiece, and wear comfortable shoes for navigating the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            6.787034,
+            47.436917
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese geschichtsträchtige Kirche mit ihrer klassischen Fassade und nutzen Sie das wunderbare Licht am Vormittag für tolle Fotografien.",
+            "hu": "Csodálja meg ezt a történelmi templomot a klasszikus homlokzatával, és használja ki a délelőtti csodálatos fényviszonyokat a tökéletes fotókhoz.",
+            "ro": "Admirați această biserică plină de istorie, cu fațada sa clasică, și profitați de lumina minunată a dimineții pentru a face fotografii excelente.",
+            "en": "Admire this deeply historic church with its classic facade, and take advantage of the wonderful morning light for some truly great photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bains de Courcelles",
+            "hu": "Bains de Courcelles",
+            "ro": "Bains de Courcelles",
+            "en": "Bains de Courcelles"
+          },
+          "coords": [
+            6.817004,
+            47.446404
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der antiken römischen Thermen, die den römischen Luxus zeigen, und lesen Sie die informativen Schautafeln vor Ort.",
+            "hu": "Fedezze fel az ókori római termálfürdők lenyűgöző maradványait, amelyek a római luxust mutatják be, és olvassa el az információs táblákat a helyszínen.",
+            "ro": "Explorați ruinele fascinante ale băilor termale antice, care ilustrează luxul roman, și citiți panourile informative detaliate de la fața locului.",
+            "en": "Explore the fascinating remains of the ancient Roman baths, showcasing Roman luxury, and make sure to read the detailed informative panels on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre culturel polyvalent",
+            "hu": "Centre culturel polyvalent",
+            "ro": "Centre culturel polyvalent",
+            "en": "Centre culturel polyvalent"
+          },
+          "coords": [
+            6.819563,
+            47.444535
+          ],
+          "category": "cultural",
+          "arrive_at": "14:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das moderne kulturelle Leben von Mandeure ein, bewundern Sie lokale Kunstausstellungen und prüfen Sie vorab den aktuellen Veranstaltungsplan.",
+            "hu": "Merüljön el Mandeure modern kulturális életében, csodálja meg a helyi művészeti kiállításokat, és előre ellenőrizze az aktuális eseménynaptárt.",
+            "ro": "Cufundați-vă în viața culturală modernă din Mandeure, admirați expozițiile de artă locală și verificați în prealabil programul evenimentelor actuale.",
+            "en": "Immerse yourself in the modern cultural life of Mandeure, admire local art exhibitions, and check the current event schedule online beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom lebhaften Rathaus zur historischen Saint-Martin-Kirche und genießen Sie die kühle Morgenluft auf den kurzen Wegen.\n\nDer Weg führt Sie zur Chapelle Saint-Symphorien und weiter zum imposanten antiken Theater, einer perfekten Route durch Epochen.\n\nNach dem Besuch der Église Saint-Pierre et Saint-Paul radeln Sie entspannt zu den römischen Ruinen der Bains de Courcelles.\n\nDas moderne Centre culturel polyvalent bildet einen schönen kulturellen Abschluss Ihrer Fahrradtour durch das historische Mandeure.",
+        "hu": "Kerékpározzon az élettel teli Városházától a történelmi Saint-Martin templomhoz, élvezve a friss reggeli levegőt a rövid utakon.\n\nAz út a Chapelle Saint-Symphorien-hez és az impozáns ókori színházhoz vezet, amely egy tökéletes történelmi időutazás.\n\nAz Église Saint-Pierre et Saint-Paul megtekintése után kényelmesen elkarikázik a Bains de Courcelles római romjaihoz egy rövid pihenőre.\n\nA modern Centre culturel polyvalent gyönyörű kulturális befejezése a történelmi Mandeure-ben tett izgalmas kerékpártúrának.",
+        "ro": "Pedalați de la Primărie spre istorica Biserică Saint-Martin, bucurându-vă de aerul răcoros al dimineții pe traseele scurte.\n\nTraseul vă duce la Chapelle Saint-Symphorien și apoi la impunătorul teatru antic, o rută perfectă prin epoci și istorii diverse.\n\nDupă vizitarea Église Saint-Pierre et Saint-Paul, pedalați relaxat spre ruinele romane de la Bains de Courcelles.\n\nModernul Centre culturel polyvalent reprezintă un final cultural frumos al turului dumneavoastră cu bicicleta prin Mandeure.",
+        "en": "Cycle from the lively Town Hall to the historic Saint-Martin Church, enjoying the crisp morning air along the short, easy routes.\n\nThe path leads you to Chapelle Saint-Symphorien and onward to the imposing ancient theater, a perfect route through various eras.\n\nAfter visiting the Église Saint-Pierre et Saint-Paul, enjoy a relaxed ride to the Roman ruins of the Bains de Courcelles.\n\nThe modern Centre culturel polyvalent provides a beautiful cultural conclusion to your cycling tour through historic Mandeure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 16.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mandeure Town Hall",
+            "hu": "Mandeure Town Hall",
+            "ro": "Mandeure Town Hall",
+            "en": "Mandeure Town Hall"
+          },
+          "coords": [
+            6.809367,
+            47.450219
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses, dem politischen Herzstück von Mandeure, und beginnen Sie Ihren Tag entspannt auf dem Vorplatz.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, Mandeure politikai szívét, és kezdje a napot egy pihentető sétával a tágas előtérben.",
+            "ro": "Admirați arhitectura elegantă a primăriei, inima politică a orașului Mandeure, și începeți-vă ziua liniștit pe esplanada spațioasă din față.",
+            "en": "Admire the elegant architecture of the town hall, the political heart of Mandeure, and start your day smoothly on the spacious front square."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre antique de Mandeure",
+            "hu": "Théâtre antique de Mandeure",
+            "ro": "Théâtre antique de Mandeure",
+            "en": "Théâtre antique de Mandeure"
+          },
+          "coords": [
+            6.796537,
+            47.449003
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eines der größten antiken Theater Galliens, ein echtes römisches Meisterwerk, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Csodálja meg Gallia egyik legnagyobb ókori színházát, egy igazi római mesterművet, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Admirați unul dintre cele mai mari teatre antice din Galia, o capodoperă romană, și purtați încălțăminte comodă pentru treptele inegale de piatră.",
+            "en": "Marvel at one of the largest ancient theaters in Gaul, a true Roman masterpiece, and wear comfortable shoes for navigating the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de Mandeure",
+            "hu": "Belvédère de Mandeure",
+            "ro": "Belvédère de Mandeure",
+            "en": "Belvédère de Mandeure"
+          },
+          "coords": [
+            6.795728,
+            47.430803
+          ],
+          "category": "natural",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama vom Belvédère über das weite Tal des Doubs, und nehmen Sie unbedingt ein Fernglas für die besten Details mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a Belvédère-ről a tágas Doubs-völgyre, és feltétlenül vigyen magával egy távcsövet a legapróbb részletekért.",
+            "ro": "Bucurați-vă de panorama uluitoare de la Belvédère asupra văii râului Doubs și aduceți neapărat un binoclu pentru a observa cele mai fine detalii.",
+            "en": "Enjoy the breathtaking panorama from the Belvédère overlooking the vast Doubs valley, and be sure to bring binoculars for the best visual details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            6.787034,
+            47.436917
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese geschichtsträchtige Kirche mit ihrer klassischen Fassade und nutzen Sie das wunderbare Licht am Vormittag für tolle Fotografien.",
+            "hu": "Csodálja meg ezt a történelmi templomot a klasszikus homlokzatával, és használja ki a délelőtti csodálatos fényviszonyokat a tökéletes fotókhoz.",
+            "ro": "Admirați această biserică plină de istorie, cu fațada sa clasică, și profitați de lumina minunată a dimineții pentru a face fotografii excelente.",
+            "en": "Admire this deeply historic church with its classic facade, and take advantage of the wonderful morning light for some truly great photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Symphorien",
+            "hu": "Chapelle Saint-Symphorien",
+            "ro": "Chapelle Saint-Symphorien",
+            "en": "Chapelle Saint-Symphorien"
+          },
+          "coords": [
+            6.799986,
+            47.458734
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle mit ihrer tiefen regionalen Geschichte und genießen Sie die absolute Stille im umliegenden, friedlichen Park.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely mély regionális történelemmel bír, és élvezze az abszolút csendet a környező békés parkban.",
+            "ro": "Vizitați această capelă fermecătoare cu o profundă istorie regională și bucurați-vă de liniștea absolută din micul parc pașnic din împrejurimi.",
+            "en": "Visit this charming little chapel with its deep regional history, and enjoy the absolute silence in the surrounding peaceful park setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Banks of the Doubs",
+            "hu": "Banks of the Doubs",
+            "ro": "Banks of the Doubs",
+            "en": "Banks of the Doubs"
+          },
+          "coords": [
+            6.803658,
+            47.494879
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der malerischen Ufer des Doubs, um die üppige Natur zu genießen, und packen Sie ein leichtes Picknick für eine entspannte Pause ein.",
+            "hu": "Sétáljon végig a festői Doubs folyó partján, élvezze a buja természetet, és csomagoljon egy könnyű pikniket egy pihentető ebédszünethez a szabadban.",
+            "ro": "Plimbați-vă de-a lungul malurilor pitorești ale râului Doubs pentru a savura natura luxuriantă și pregătiți un picnic ușor pentru o pauză relaxantă.",
+            "en": "Stroll along the picturesque banks of the Doubs river to soak in the lush nature, and pack a light picnic for a relaxing outdoor break in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bains de Courcelles",
+            "hu": "Bains de Courcelles",
+            "ro": "Bains de Courcelles",
+            "en": "Bains de Courcelles"
+          },
+          "coords": [
+            6.817004,
+            47.446404
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der antiken römischen Thermen, die den römischen Luxus zeigen, und lesen Sie die informativen Schautafeln vor Ort.",
+            "hu": "Fedezze fel az ókori római termálfürdők lenyűgöző maradványait, amelyek a római luxust mutatják be, és olvassa el az információs táblákat a helyszínen.",
+            "ro": "Explorați ruinele fascinante ale băilor termale antice, care ilustrează luxul roman, și citiți panourile informative detaliate de la fața locului.",
+            "en": "Explore the fascinating remains of the ancient Roman baths, showcasing Roman luxury, and make sure to read the detailed informative panels on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre culturel polyvalent",
+            "hu": "Centre culturel polyvalent",
+            "ro": "Centre culturel polyvalent",
+            "en": "Centre culturel polyvalent"
+          },
+          "coords": [
+            6.819563,
+            47.444535
+          ],
+          "category": "cultural",
+          "arrive_at": "15:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das moderne kulturelle Leben von Mandeure ein, bewundern Sie lokale Kunstausstellungen und prüfen Sie vorab den aktuellen Veranstaltungsplan.",
+            "hu": "Merüljön el Mandeure modern kulturális életében, csodálja meg a helyi művészeti kiállításokat, és előre ellenőrizze az aktuális eseménynaptárt.",
+            "ro": "Cufundați-vă în viața culturală modernă din Mandeure, admirați expozițiile de artă locală și verificați în prealabil programul evenimentelor actuale.",
+            "en": "Immerse yourself in the modern cultural life of Mandeure, admire local art exhibitions, and check the current event schedule online beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto fahren Sie bequem vom Rathaus direkt zum antiken Theater, um das riesige Monument in der morgendlichen Stille zu bewundern.\n\nDer Belvédère bietet fantastische Aussichten, bevor Sie historische Kirchen besichtigen und eine kurze Fahrt zur Chapelle unternehmen.\n\nEine Fahrt an die Ufer des Doubs bringt erfrischende Natur, gefolgt von einer spannenden Entdeckungsreise bei den Bains de Courcelles.\n\nDer Tag endet entspannt am Kulturzentrum, wo Ausstellungen und lokale Veranstaltungen das reiche Erbe der Region modern aufgreifen.",
+        "hu": "Autóval kényelmesen eljut a Városházától az ókori színházhoz, hogy a reggeli csendben megcsodálja ezt a hatalmas és lenyűgöző műemléket.\n\nA Belvédère fantasztikus kilátást kínál, mielőtt meglátogatja a történelmi templomokat és egy rövid utazást tesz a kápolnához.\n\nA Doubs partjára tett utazás frissítő természetet hoz, amelyet egy izgalmas felfedezőút követ a Bains de Courcelles lenyűgöző romjainál.\n\nA nap kényelmesen ér véget a kulturális központban, ahol kiállítások és helyi események modern formában mutatják be a régió örökségét.",
+        "ro": "Conduceți confortabil de la Primărie la teatrul antic pentru a admira imensul monument în liniștea profundă a dimineții.\n\nBelvédère oferă priveliști fantastice înainte de a vizita bisericile istorice și de a face o scurtă plimbare cu mașina până la capelă.\n\nO plimbare pe malurile râului Doubs aduce natură revigorantă, urmată de o explorare interesantă la Bains de Courcelles.\n\nZiua se încheie relaxant la centrul cultural, unde expozițiile reflectă modern moștenirea istorică bogată a întregii regiuni.",
+        "en": "Drive comfortably from the Town Hall straight to the ancient theater to admire the massive monument in the quiet morning light.\n\nThe Belvédère offers fantastic views before you visit historic churches and take a short drive over to the charming local chapel.\n\nA drive to the banks of the Doubs brings refreshing nature, followed by an exciting exploration at the ancient Bains de Courcelles.\n\nThe day ends in a relaxed way at the cultural center, where local exhibitions playfully modernize the rich historical heritage of the region."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-barfleur-cities-v2",
+  "anchor": {
+    "name": "Barfleur",
+    "coords": [
+      -1.26443,
+      49.67068
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de la Bretonne",
+            "hu": "Chapelle de la Bretonne",
+            "ro": "Chapelle de la Bretonne",
+            "en": "Chapelle de la Bretonne"
+          },
+          "coords": [
+            -1.261453,
+            49.667388
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese maritime Kapelle, um die Votivschiffe zu Ehren verlorener Seeleute zu bewundern, und kommen Sie früh am Morgen für das beste Licht zum Fotografieren.",
+            "hu": "Fedezze fel ezt a bájos tengerészeti kápolnát, hogy megcsodálja az elveszett tengerészeket tisztelő fogadalmi hajókat, és látogasson el kora reggel a legjobb fotókért.",
+            "ro": "Explorați această capelă maritimă pentru a admira navele votive ce onorează marinarii pierduți și încercați să o vizitați dimineața devreme, când lumina este perfectă.",
+            "en": "Explore this charming maritime chapel to admire its votive ships honoring lost sailors, and try to visit early in the morning when the light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Art’Mâteur",
+            "hu": "Art’Mâteur",
+            "ro": "Art’Mâteur",
+            "en": "Art’Mâteur"
+          },
+          "coords": [
+            -1.266199,
+            49.66955
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale maritime Kunst in dieser einzigartigen Galerie voller Treibholz-Kreationen und kaufen Sie vielleicht ein kleines, handgefertigtes Souvenir für zu Hause.",
+            "hu": "Fedezze fel a helyi tengerészeti művészetet ebben a galériában, ahol bonyolult uszadékfa alkotásokat láthat, és esetleg vásárolhat egy kis, kézzel készített szuvenírt.",
+            "ro": "Descoperiți arta maritimă locală în această galerie unică, unde veți vedea creații complexe din lemn adus de ape, și cumpărați un mic suvenir lucrat manual pentru acasă.",
+            "en": "Discover local maritime artistry at this unique gallery, where you can see intricate driftwood creations and perhaps purchase a small, handcrafted souvenir for your home."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Atelier de Barfleur",
+            "hu": "Musée Atelier de Barfleur",
+            "ro": "Musée Atelier de Barfleur",
+            "en": "Musée Atelier de Barfleur"
+          },
+          "coords": [
+            -1.264332,
+            49.671841
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Barfleurs nautische Geschichte anhand faszinierender Modelle ein und vergessen Sie nicht, sich die mittelalterliche Töpfersammlung im obersten Stockwerk anzusehen.",
+            "hu": "Merüljön el Barfleur gazdag tengerészeti történelmében a lenyűgöző modelleken keresztül, és ne felejtse el megnézni a középkori kerámiagyűjteményt a legfelső emeleten.",
+            "ro": "Cufundați-vă în istoria nautică a Barfleurului prin modele fascinante și nu uitați să examinați colecția de ceramică medievală expusă la ultimul etaj al muzeului local.",
+            "en": "Immerse yourself in Barfleur's rich nautical history through fascinating models and exhibits, and don't forget to check out the medieval pottery collection on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -1.259988,
+            49.672712
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur dieser Kirche aus dem 17. Jahrhundert und achten Sie besonders auf die wunderschönen Buntglasfenster mit maritimen Szenen.",
+            "hu": "Csodálja meg ennek a 17. századi templomnak az erődítményszerű építészetét, de szenteljen különös figyelmet a történelmi tengeri jeleneteket ábrázoló ólomüveg ablakoknak.",
+            "ro": "Admirați arhitectura ca de fortăreață a acestei biserici din secolul al XVII-lea și acordați atenție specială vitraliilor superbe ce ilustrează scene istorice navale.",
+            "en": "Admire the fortress-like architecture of this 17th-century church, but pay special attention to the beautifully crafted stained glass windows depicting historical naval scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Sambière",
+            "hu": "Plage de la Sambière",
+            "ro": "Plage de la Sambière",
+            "en": "Plage de la Sambière"
+          },
+          "coords": [
+            -1.255449,
+            49.665535
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses ruhigen Strandes und lauschen Sie den Wellen, aber denken Sie an eine Windjacke, da die Meeresbrise überraschend kühl werden kann.",
+            "hu": "Pihenjen e békés strand érintetlen homokján, élvezve a hullámok hangját, és ne felejtsen el széldzsekit csomagolni, mert a tengerparti szellő meglepően hűvös tud lenni.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje liniștite ascultând valurile și nu uitați să luați o jachetă, deoarece briza de pe coastă poate deveni surprinzător de rece.",
+            "en": "Relax on the pristine sands of this serene beach while enjoying the sound of the waves, and remember to pack a windbreaker as the coastal breeze can get surprisingly chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Stadtrundgang mit einem friedlichen Besuch der Chapelle de la Bretonne.\n\nTauchen Sie am Vormittag bei Art’Mâteur in die lokale Kunst ein und erkunden Sie das Musée Atelier.\n\nNach dem Mittagessen können Sie die imposante Église Saint-Nicolas bewundern.\n\nLassen Sie Ihren Tag mit einem entspannten Nachmittag am malerischen Plage de la Sambière ausklingen.",
+        "hu": "Kezdje Barfleur-i sétáját egy békés látogatással a Chapelle de la Bretonne-ban.\n\nDélelőtt merüljön el a helyi művészetben az Art’Mâteur galériában, és fedezze fel a Musée Atelier kiállításait.\n\nEgy kiadós ebéd után csodálja meg az impozáns Église Saint-Nicolas-t.\n\nZárja a napot egy pihentető délutánnal a festői Plage de la Sambière homokos partján.",
+        "ro": "Începeți turul pietonal din Barfleur cu o vizită liniștită la Chapelle de la Bretonne.\n\nLa mijlocul dimineții, descoperiți arta locală la Art’Mâteur și vizitați Musée Atelier.\n\nDupă un prânz delicios, admirați impunătoarea Église Saint-Nicolas.\n\nÎncheiați-vă ziua cu o după-amiază relaxantă pe plaja pitorească Plage de la Sambière din apropiere.",
+        "en": "Start your Barfleur walking tour with a peaceful visit to the Chapelle de la Bretonne.\n\nBy mid-morning, immerse yourself in local art at Art’Mâteur and discover the region's rich heritage at the Musée Atelier de Barfleur.\n\nAfter a satisfying lunch, admire the imposing Église Saint-Nicolas.\n\nEnd your day with a relaxing afternoon at the scenic Plage de la Sambière."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.269686,
+            49.654405
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese imposante ländliche Kirche, um die gewölbte Holzdecke zu bewundern, und schauen Sie sich die kunstvoll geschnitzten Kapitelle an den Steinpfeilern an.",
+            "hu": "Lépjen be ebbe az impozáns vidéki templomba, hogy értékelje boltozatos famennyezetét, és nézze meg közelebbről a hajót szegélyező kőoszlopok bonyolultan faragott oszlopfőit.",
+            "ro": "Intrați în această biserică rurală impunătoare pentru a aprecia tavanul boltit din lemn și examinați cu atenție capitelurile sculptate complex de pe stâlpii din piatră.",
+            "en": "Step inside this imposing rural church to appreciate its vaulted wooden ceiling, and look closely at the intricately carved capitals on the stone pillars lining the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Montfarville",
+            "hu": "Manoir de Montfarville",
+            "ro": "Manoir de Montfarville",
+            "en": "Manoir de Montfarville"
+          },
+          "coords": [
+            -1.253094,
+            49.656225
+          ],
+          "category": "castle",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Äußere dieses historischen normannischen Herrenhauses, aber denken Sie daran, dass es sich um Privatbesitz handelt, also nur von der Straße aus bewundern.",
+            "hu": "Tekintse meg ennek a történelmi normann udvarháznak az elegáns külsejét, bár tartsa szem előtt, hogy magántulajdon, így csak az útról csodálhatja meg az építészetet.",
+            "ro": "Priviți exteriorul elegant al acestui conac istoric normand ce exemplifică arhitectura nobilă, deși rețineți că este proprietate privată, deci admirați-l doar de la drum.",
+            "en": "View the elegant exterior of this historic Norman manor house which exemplifies local noble architecture, though keep in mind it is private property so admire from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Sambière",
+            "hu": "Plage de la Sambière",
+            "ro": "Plage de la Sambière",
+            "en": "Plage de la Sambière"
+          },
+          "coords": [
+            -1.255449,
+            49.665535
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses ruhigen Strandes und lauschen Sie den Wellen, aber denken Sie an eine Windjacke, da die Meeresbrise überraschend kühl werden kann.",
+            "hu": "Pihenjen e békés strand érintetlen homokján, élvezve a hullámok hangját, és ne felejtsen el széldzsekit csomagolni, mert a tengerparti szellő meglepően hűvös tud lenni.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje liniștite ascultând valurile și nu uitați să luați o jachetă, deoarece briza de pe coastă poate deveni surprinzător de rece.",
+            "en": "Relax on the pristine sands of this serene beach while enjoying the sound of the waves, and remember to pack a windbreaker as the coastal breeze can get surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -1.259988,
+            49.672712
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur dieser Kirche aus dem 17. Jahrhundert und achten Sie besonders auf die wunderschönen Buntglasfenster mit maritimen Szenen.",
+            "hu": "Csodálja meg ennek a 17. századi templomnak az erődítményszerű építészetét, de szenteljen különös figyelmet a történelmi tengeri jeleneteket ábrázoló ólomüveg ablakoknak.",
+            "ro": "Admirați arhitectura ca de fortăreață a acestei biserici din secolul al XVII-lea și acordați atenție specială vitraliilor superbe ce ilustrează scene istorice navale.",
+            "en": "Admire the fortress-like architecture of this 17th-century church, but pay special attention to the beautifully crafted stained glass windows depicting historical naval scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Atelier de Barfleur",
+            "hu": "Musée Atelier de Barfleur",
+            "ro": "Musée Atelier de Barfleur",
+            "en": "Musée Atelier de Barfleur"
+          },
+          "coords": [
+            -1.264332,
+            49.671841
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Barfleurs nautische Geschichte anhand faszinierender Modelle ein und vergessen Sie nicht, sich die mittelalterliche Töpfersammlung im obersten Stockwerk anzusehen.",
+            "hu": "Merüljön el Barfleur gazdag tengerészeti történelmében a lenyűgöző modelleken keresztül, és ne felejtse el megnézni a középkori kerámiagyűjteményt a legfelső emeleten.",
+            "ro": "Cufundați-vă în istoria nautică a Barfleurului prin modele fascinante și nu uitați să examinați colecția de ceramică medievală expusă la ultimul etaj al muzeului local.",
+            "en": "Immerse yourself in Barfleur's rich nautical history through fascinating models and exhibits, and don't forget to check out the medieval pottery collection on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Grabec",
+            "hu": "Moulin de Grabec",
+            "ro": "Moulin de Grabec",
+            "en": "Moulin de Grabec"
+          },
+          "coords": [
+            -1.272486,
+            49.678873
+          ],
+          "category": "landmark",
+          "arrive_at": "15:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu dieser markanten Steinmühle, um den Panoramablick auf die raue Küste zu genießen, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Tegyen egy rövid sétát ehhez az ikonikus kő szélmalomhoz, hogy élvezze a zord partvonalra nyíló panorámát, és viseljen masszív cipőt, mivel az ösvény kissé egyenetlen.",
+            "ro": "Faceți o scurtă plimbare până la această moară de vânt emblematică din piatră pentru vederi panoramice ale coastei și purtați încălțăminte rezistentă pe poteca denivelată.",
+            "en": "Take a short walk out to this iconic stone windmill to enjoy sweeping panoramic views of the rugged coastline, and wear sturdy shoes as the path can be slightly uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie nach Montfarville zur wunderschönen Église Notre-Dame und zum historischen Manoir.\n\nGenießen Sie die Meeresbrise auf dem Weg zum Plage de la Sambière.\n\nFahren Sie zurück ins Zentrum zur Église Saint-Nicolas und verbringen Sie Zeit im Musée Atelier.\n\nSchließen Sie Ihre Tour mit einer Fahrt zur ikonischen Mühle Moulin de Grabec ab.",
+        "hu": "Tekerjen el Montfarville-be a gyönyörű Église Notre-Dame és a történelmi udvarház megtekintéséhez.\n\nÉlvezze a tengeri szellőt, miközben a Plage de la Sambière felé tart.\n\nTérjen vissza Barfleurba az Église Saint-Nicolas és a Musée Atelier meglátogatásához.\n\nFejezze be útját az ikonikus Moulin de Grabec szélmalomhoz vezető kerékpározással.",
+        "ro": "Pedalați spre Montfarville pentru a vedea Église Notre-Dame și conacul istoric local.\n\nBucurați-vă de briza mării în timp ce vă îndreptați spre Plage de la Sambière.\n\nÎntoarceți-vă în centrul Barfleurului pentru a vizita Église Saint-Nicolas și Musée Atelier.\n\nÎncheiați-vă turul cu o scurtă plimbare pitorească până la emblematica moară Moulin de Grabec.",
+        "en": "Pedal out to Montfarville to see the beautiful Église Notre-Dame and the historic Manoir before cycling towards the coast.\n\nEnjoy the sea breeze as you head to Plage de la Sambière.\n\nRide back into Barfleur to visit the central Église Saint-Nicolas and spend time at the Musée Atelier.\n\nComplete your journey with a scenic ride out to the iconic Moulin de Grabec."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.282681,
+            49.686163
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den beeindruckenden Glockenturm dieser Küstenkirche, der einst als Wachturm diente, und spazieren Sie über den Friedhof mit historischen Gräbern am Meer.",
+            "hu": "Csodálja meg ennek a part menti templomnak a lenyűgöző harangtornyát, amely egykor őrtoronyként szolgált, és sétáljon végig a nyílt óceánra néző történelmi sírok között.",
+            "ro": "Admirați clopotnița impresionantă a acestei biserici de coastă care a servit cândva drept turn de veghe și plimbați-vă printre mormintele istorice orientate spre ocean.",
+            "en": "Marvel at the impressive bell tower of this coastal church that once served as a watchtower, and walk around the graveyard to find historic tombs facing the open ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Grabec",
+            "hu": "Moulin de Grabec",
+            "ro": "Moulin de Grabec",
+            "en": "Moulin de Grabec"
+          },
+          "coords": [
+            -1.272486,
+            49.678873
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu dieser markanten Steinmühle, um den Panoramablick auf die raue Küste zu genießen, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Tegyen egy rövid sétát ehhez az ikonikus kő szélmalomhoz, hogy élvezze a zord partvonalra nyíló panorámát, és viseljen masszív cipőt, mivel az ösvény kissé egyenetlen.",
+            "ro": "Faceți o scurtă plimbare până la această moară de vânt emblematică din piatră pentru vederi panoramice ale coastei și purtați încălțăminte rezistentă pe poteca denivelată.",
+            "en": "Take a short walk out to this iconic stone windmill to enjoy sweeping panoramic views of the rugged coastline, and wear sturdy shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Atelier de Barfleur",
+            "hu": "Musée Atelier de Barfleur",
+            "ro": "Musée Atelier de Barfleur",
+            "en": "Musée Atelier de Barfleur"
+          },
+          "coords": [
+            -1.264332,
+            49.671841
+          ],
+          "category": "museum",
+          "arrive_at": "10:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Barfleurs nautische Geschichte anhand faszinierender Modelle ein und vergessen Sie nicht, sich die mittelalterliche Töpfersammlung im obersten Stockwerk anzusehen.",
+            "hu": "Merüljön el Barfleur gazdag tengerészeti történelmében a lenyűgöző modelleken keresztül, és ne felejtse el megnézni a középkori kerámiagyűjteményt a legfelső emeleten.",
+            "ro": "Cufundați-vă în istoria nautică a Barfleurului prin modele fascinante și nu uitați să examinați colecția de ceramică medievală expusă la ultimul etaj al muzeului local.",
+            "en": "Immerse yourself in Barfleur's rich nautical history through fascinating models and exhibits, and don't forget to check out the medieval pottery collection on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -1.259988,
+            49.672712
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur dieser Kirche aus dem 17. Jahrhundert und achten Sie besonders auf die wunderschönen Buntglasfenster mit maritimen Szenen.",
+            "hu": "Csodálja meg ennek a 17. századi templomnak az erődítményszerű építészetét, de szenteljen különös figyelmet a történelmi tengeri jeleneteket ábrázoló ólomüveg ablakoknak.",
+            "ro": "Admirați arhitectura ca de fortăreață a acestei biserici din secolul al XVII-lea și acordați atenție specială vitraliilor superbe ce ilustrează scene istorice navale.",
+            "en": "Admire the fortress-like architecture of this 17th-century church, but pay special attention to the beautifully crafted stained glass windows depicting historical naval scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Sambière",
+            "hu": "Plage de la Sambière",
+            "ro": "Plage de la Sambière",
+            "en": "Plage de la Sambière"
+          },
+          "coords": [
+            -1.255449,
+            49.665535
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses ruhigen Strandes und lauschen Sie den Wellen, aber denken Sie an eine Windjacke, da die Meeresbrise überraschend kühl werden kann.",
+            "hu": "Pihenjen e békés strand érintetlen homokján, élvezve a hullámok hangját, és ne felejtsen el széldzsekit csomagolni, mert a tengerparti szellő meglepően hűvös tud lenni.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje liniștite ascultând valurile și nu uitați să luați o jachetă, deoarece briza de pe coastă poate deveni surprinzător de rece.",
+            "en": "Relax on the pristine sands of this serene beach while enjoying the sound of the waves, and remember to pack a windbreaker as the coastal breeze can get surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Montfarville",
+            "hu": "Manoir de Montfarville",
+            "ro": "Manoir de Montfarville",
+            "en": "Manoir de Montfarville"
+          },
+          "coords": [
+            -1.253094,
+            49.656225
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Äußere dieses historischen normannischen Herrenhauses, aber denken Sie daran, dass es sich um Privatbesitz handelt, also nur von der Straße aus bewundern.",
+            "hu": "Tekintse meg ennek a történelmi normann udvarháznak az elegáns külsejét, bár tartsa szem előtt, hogy magántulajdon, így csak az útról csodálhatja meg az építészetet.",
+            "ro": "Priviți exteriorul elegant al acestui conac istoric normand ce exemplifică arhitectura nobilă, deși rețineți că este proprietate privată, deci admirați-l doar de la drum.",
+            "en": "View the elegant exterior of this historic Norman manor house which exemplifies local noble architecture, though keep in mind it is private property so admire from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.269686,
+            49.654405
+          ],
+          "category": "religious",
+          "arrive_at": "15:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese imposante ländliche Kirche, um die gewölbte Holzdecke zu bewundern, und schauen Sie sich die kunstvoll geschnitzten Kapitelle an den Steinpfeilern an.",
+            "hu": "Lépjen be ebbe az impozáns vidéki templomba, hogy értékelje boltozatos famennyezetét, és nézze meg közelebbről a hajót szegélyező kőoszlopok bonyolultan faragott oszlopfőit.",
+            "ro": "Intrați în această biserică rurală impunătoare pentru a aprecia tavanul boltit din lemn și examinați cu atenție capitelurile sculptate complex de pe stâlpii din piatră.",
+            "en": "Step inside this imposing rural church to appreciate its vaulted wooden ceiling, and look closely at the intricately carved capitals on the stone pillars lining the nave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der historischen Église Saint-Pierre mit einem Abstecher zum Moulin de Grabec.\n\nFahren Sie nach Barfleur, um im Musée Atelier und der Église Saint-Nicolas in die Geschichte einzutauchen.\n\nMachen Sie eine erholsame Küstenpause am malerischen Plage de la Sambière.\n\nFahren Sie nach Montfarville, um das klassische Manoir und die wunderschöne Église Notre-Dame zu besichtigen.",
+        "hu": "Kezdje autós túráját a történelmi Église Saint-Pierre-nél, egy gyors megállóval a Moulin de Grabec szélmalomnál.\n\nHajtson be Barfleurba a Musée Atelier és az Église Saint-Nicolas felfedezéséhez.\n\nTartson egy pihentető tengerparti szünetet a nyugodt Plage de la Sambière-en.\n\nUtazzon el Montfarville-be, hogy megcsodálja a Manoir és az Église Notre-Dame klasszikus normann építészetét.",
+        "ro": "Începeți turul auto la istorica Église Saint-Pierre și faceți o oprire la pitoreasca moară Moulin de Grabec.\n\nConduceți în Barfleur pentru a explora Musée Atelier și biserica Église Saint-Nicolas.\n\nLuați o pauză relaxantă pe plaja curată Plage de la Sambière.\n\nMergeți la Montfarville pentru a aprecia arhitectura normandă clasică a conacului și a bisericii Église Notre-Dame.",
+        "en": "Begin your driving tour at the historic Église Saint-Pierre before making a quick scenic stop at the nearby Moulin de Grabec.\n\nHead into Barfleur for a deep dive into local history at the Musée Atelier and a visit to Église Saint-Nicolas.\n\nTake a relaxing coastal break at Plage de la Sambière.\n\nDrive out to Montfarville to appreciate the classic Norman architecture of the Manoir and Église Notre-Dame."
+      }
+    }
+  }
+}

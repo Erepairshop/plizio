@@ -1,0 +1,497 @@
+{
+  "city_id": "france-le-croisic-cities-v2",
+  "anchor": {
+    "name": "Le Croisic",
+    "coords": [
+      -2.50944,
+      47.2934
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Galerie Patrick Hugonnot",
+            "hu": "Galerie Patrick Hugonnot",
+            "ro": "Galerie Patrick Hugonnot",
+            "en": "Galerie Patrick Hugonnot"
+          },
+          "coords": [
+            -2.50978,
+            47.293604
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische Kunstwerke, die die Seele der Region widerspiegeln, und kommen Sie früh, um die Ausstellungen ruhig zu genießen.",
+            "hu": "Csodálja meg a régió lelkét tükröző kortárs művészeti alkotásokat, és érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Admirați operele de artă contemporană care reflectă spiritul regiunii și ajungeți devreme pentru a vă bucura de expoziții fără aglomerație.",
+            "en": "Admire contemporary art pieces that reflect the region's soul, and arrive early to enjoy the exhibits without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Pitié",
+            "hu": "Église Notre-Dame de Pitié",
+            "ro": "Église Notre-Dame de Pitié",
+            "en": "Église Notre-Dame de Pitié"
+          },
+          "coords": [
+            -2.513432,
+            47.294483
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die flamboyante gotische Architektur dieser maritimen Kirche und achten Sie auf Ankündigungen lokaler Chorauftritte.",
+            "hu": "Csodálja meg ennek a tengerészeti templomnak a lángoló gótikus építészetét, és keresse a helyi kórusok fellépéseiről szóló hirdetéseket.",
+            "ro": "Minunați-vă de arhitectura gotică flamboaiantă a acestei biserici maritime și verificați panoul pentru spectacolele corului local.",
+            "en": "Marvel at the flamboyant Gothic architecture of this maritime church, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Chapleau",
+            "hu": "Galerie Chapleau",
+            "ro": "Galerie Chapleau",
+            "en": "Galerie Chapleau"
+          },
+          "coords": [
+            -2.513521,
+            47.293472
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie exquisite lokale Gemälde in einem historischen Gebäude und nehmen Sie sich Zeit, den Kurator nach den Künstlern zu fragen.",
+            "hu": "Fedezzen fel gyönyörű helyi festményeket egy történelmi épületben, és bátran kérdezze meg a kurátort a kiállított művészekről.",
+            "ro": "Descoperiți picturi locale rafinate găzduite într-o clădire istorică și întrebați curatorul despre artiștii expuși în galerie.",
+            "en": "Discover exquisite local paintings housed in a historic building, and take a moment to ask the curator about the featured artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère Yves Chelet",
+            "hu": "Belvédère Yves Chelet",
+            "ro": "Belvédère Yves Chelet",
+            "en": "Belvédère Yves Chelet"
+          },
+          "coords": [
+            -2.507505,
+            47.2909
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem natürlichen Aussichtspunkt den weiten Blick auf die raue Küste und bringen Sie eine Windjacke gegen die Brise mit.",
+            "hu": "Élvezze a zord partvonalra nyíló pazar kilátást ebből a természetes nézőpontból, de hozzon magával széldzsekit az erős szél miatt.",
+            "ro": "Bucurați-vă de priveliștile ample ale coastei stâncoase din acest punct de observație natural și aduceți o jachetă pentru vântul puternic.",
+            "en": "Take in the sweeping views of the rugged coastline from this natural vantage point, and bring a windbreaker as the breeze can be strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Crucifix",
+            "hu": "Chapelle du Crucifix",
+            "ro": "Chapelle du Crucifix",
+            "en": "Chapelle du Crucifix"
+          },
+          "coords": [
+            -2.505394,
+            47.284011
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ruhigen, historischen Charme dieser malerischen Kapelle und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Fedezze fel e festői kápolna békés és történelmi varázsát, és látogasson el ide késő délután a legszebb aranyórás fényekért.",
+            "ro": "Explorați farmecul liniștit și istoric al acestei capele pitorești și vizitați-o spre seară pentru a prinde lumina magică a apusului.",
+            "en": "Explore the serene and historic charm of this quaint chapel, and visit during the late afternoon for the most beautiful golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Le Croisic, indem Sie das künstlerische Erbe in den lokalen Galerien erkunden. Schlendern Sie mittags durch die Straßen, um die Architektur der historischen Kirche zu bewundern. Verbringen Sie den Nachmittag mit einem friedlichen Panoramablick vom Aussichtspunkt. Beenden Sie Ihre Tour mit einem ruhigen Abendspaziergang zur historischen Kapelle.",
+        "hu": "Kezdje a reggelt Le Croisic szívében, felfedezve a helyi galériák művészeti örökségét és kiállításait. Délben sétáljon végig a központi utcákon, hogy megcsodálja a történelmi templom lenyűgöző építészetét. A délutánt töltse egy békés panorámás kilátóhelyen, ahonnan csodás táj tárul a szeme elé. Sétáját egy csendes esti látogatással zárja a félreeső történelmi kápolnánál.",
+        "ro": "Începeți dimineața în inima orașului Le Croisic, explorând moștenirea artistică în galeriile locale. La prânz, plimbați-vă pe străzile centrale pentru a admira arhitectura complicată a bisericii istorice. Petreceți după-amiaza bucurându-vă de o vedere panoramică liniștită de la belvedere. Încheiați turul pietonal cu o plimbare liniștită de seară către capela istorică izolată.",
+        "en": "Begin your morning in the heart of Le Croisic by exploring its artistic heritage at local galleries. Midday, wander through the central streets to admire the intricate architecture of the historic church. Spend your afternoon enjoying a peaceful panoramic view from the belvedere overlooking the landscape. Conclude your walking tour with a quiet evening stroll to the secluded historic chapel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du patrimoine croisicais",
+            "hu": "Maison du patrimoine croisicais",
+            "ro": "Maison du patrimoine croisicais",
+            "en": "Maison du patrimoine croisicais"
+          },
+          "coords": [
+            -2.518313,
+            47.289342
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die maritime Geschichte der Halbinsel ein und schnappen Sie sich am Eingang eine kostenlose Karte für Ihre Radtour.",
+            "hu": "Merüljön el a félsziget gazdag tengerészeti történelmében, és vigyen magával egy ingyenes térképet a bejárattól a kerékpártúrához.",
+            "ro": "Pătrundeți în istoria maritimă a peninsulei aici și luați o hartă gratuită de la intrare pentru a vă ghida traseul cu bicicleta.",
+            "en": "Delve into the rich maritime history of the peninsula here, and grab a free map at the entrance to help navigate your bike route."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Bauvran",
+            "hu": "Moulin de Bauvran",
+            "ro": "Moulin de Bauvran",
+            "en": "Moulin de Bauvran"
+          },
+          "coords": [
+            -2.517933,
+            47.285544
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese traditionelle Windmühle, die von der landwirtschaftlichen Vergangenheit zeugt, und parken Sie Ihr Rad vorsichtig.",
+            "hu": "Fényképezze le ezt a hagyományos szélmalmot, amely a mezőgazdasági múlt büszke tanúja, és óvatosan parkolja le kerékpárját a közelben.",
+            "ro": "Fotografiați această moară de vânt tradițională care mărturisește trecutul agricol și parcați-vă cu atenție bicicleta în apropiere.",
+            "en": "Photograph this traditional windmill which stands as a proud testament to the agricultural past, and carefully park your bike nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Pierre Longue",
+            "hu": "Menhir Pierre Longue",
+            "ro": "Menhir Pierre Longue",
+            "en": "Menhir Pierre Longue"
+          },
+          "coords": [
+            -2.530776,
+            47.287414
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem alten Megalithen direkt an der Felsküste und berühren Sie den rauen Stein, während Sie auf Unebenheiten achten.",
+            "hu": "Álljon meg ezen ősi megalit mellett a sziklás parton, és érintse meg az érdes követ, de ügyeljen az egyenetlen talajra sétálás közben.",
+            "ro": "Stați lângă acest megalit antic chiar pe coasta stâncoasă și atingeți piatra aspră, având grijă la terenul neregulat din jur.",
+            "en": "Stand beside this ancient megalith right on the rocky coast, and touch the coarse stone while watching out for uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de l'Ours",
+            "hu": "Rocher de l'Ours",
+            "ro": "Rocher de l'Ours",
+            "en": "Rocher de l'Ours"
+          },
+          "coords": [
+            -2.536387,
+            47.288506
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bärenähnliche Form dieses Felsens und bleiben Sie sicher auf dem markierten Weg, um das Ökosystem zu schützen.",
+            "hu": "Fedezze fel ezen a tengerparti sziklaképződményen a medvére emlékeztető formákat, és maradjon a kijelölt ösvényen a biztonsága érdekében.",
+            "ro": "Observați forma de urs a acestei formațiuni stâncoase și rămâneți pe traseul marcat pentru a proteja ecosistemul fragil al falezei.",
+            "en": "Spot the bear-like shape of this coastal rock formation, and stay securely on the marked trail to protect the fragile cliffside ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Kervaudu",
+            "hu": "Manoir de Kervaudu",
+            "ro": "Manoir de Kervaudu",
+            "en": "Manoir de Kervaudu"
+          },
+          "coords": [
+            -2.526232,
+            47.296433
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen bretonischen Herrenhauses von außen, da es privat und nicht zugänglich ist.",
+            "hu": "Csodálja meg kívülről ennek a történelmi breton kúriának a klasszikus építészetét, mivel ez egy magánrezidencia, nem látogatható.",
+            "ro": "Admirați din exterior arhitectura clasică a acestui conac istoric breton, deoarece este o reședință privată și nu poate fi vizitată.",
+            "en": "Admire the classical architecture of this historic Breton manor house from the exterior, as it is a private residence not fully open to tours."
+          }
+        },
+        {
+          "name": {
+            "de": "3 Requins d'Australie",
+            "hu": "3 Requins d'Australie",
+            "ro": "3 Requins d'Australie",
+            "en": "3 Requins d'Australie"
+          },
+          "coords": [
+            -2.524491,
+            47.299419
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beobachten Sie das faszinierende Meeresleben in dieser Aquarienzone und buchen Sie Ihre Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Élvezze a lenyűgöző tengeri élőlények megfigyelését ebben az akvárium zónában, és foglalja le jegyét online, hogy elkerülje a sorban állást.",
+            "ro": "Bucurați-vă de observarea vieții marine în această zonă vastă de acvariu și rezervați-vă biletele online pentru a evita cozile lungi.",
+            "en": "Enjoy observing the fascinating marine life in this expansive aquarium zone, and book your tickets online to skip the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Vincent de Paul",
+            "hu": "Chapelle Saint-Vincent de Paul",
+            "ro": "Chapelle Saint-Vincent de Paul",
+            "en": "Chapelle Saint-Vincent de Paul"
+          },
+          "coords": [
+            -2.512234,
+            47.303957
+          ],
+          "category": "religious",
+          "arrive_at": "15:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Einsamkeit dieser einfachen religiösen Stätte und denken Sie daran, Ihre Stimme aus Respekt zu senken.",
+            "hu": "Élje át ezen egyszerű vallási helyszín csendes nyugalmát, és ne felejtse el lehalkítani a hangját, amikor belép a tisztelet jeléül.",
+            "ro": "Experimentați solitudinea liniștită a acestui sit religios simplu și nu uitați să coborâți vocea din respect atunci când pășiți înăuntru.",
+            "en": "Experience the quiet solitude of this simple religious site, and remember to lower your voice out of respect when stepping inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer, indem Sie im Heimatmuseum mehr über das reiche Erbe der Stadt erfahren. Mittags fahren Sie an einer alten Windmühle und einem mystischen alten Menhir voller keltischer Geschichte vorbei. Fahren Sie nachmittags an der wilden Küste entlang zum Bärenfelsen. Beenden Sie den Tag mit einem Besuch des spannenden Ozeanariums und einer nördlichen Kapelle.",
+        "hu": "Kezdje kerékpáros kalandját a helyi örökségvédelmi házban, ahol megismerheti a város gazdag múltját. Délben tekerjen el egy régi szélmalom és egy kelta történelemmel átitatott ősi menhír mellett. Délután a vad partvonal mentén haladva nézze meg a híres Medve-sziklát és egy történelmi kúriát. A napot az izgalmas óceanárium környékén és egy északi kápolnánál zárja.",
+        "ro": "Începeți aventura pe bicicletă descoperind moștenirea bogată a orașului la casa de patrimoniu local. La prânz, treceți pe lângă o veche moară de vânt și un menhir mistic plin de istorie celtică. După-amiaza, mergeți de-a lungul coastei sălbatice pentru a vedea celebra Stâncă a Ursului. Încheiați ziua vizitând zona captivantă a oceanariului și o capelă fermecătoare din nord.",
+        "en": "Kick off your cycling adventure by learning about the town's rich heritage at the local heritage house. Midday takes you past an old windmill and a mystical ancient menhir steeped in Celtic history. In the afternoon, ride along the wild coast to see the famous Bear Rock and a historic manor. Wrap up your day visiting the exciting oceanarium area and a charming northern chapel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sunrise",
+            "hu": "Sunrise",
+            "ro": "Sunrise",
+            "en": "Sunrise"
+          },
+          "coords": [
+            -2.508559,
+            47.307248
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie sich der Himmel über dem Meer färbt, und parken Sie verantwortungsbewusst, um den frühen Verkehr nicht zu blockieren.",
+            "hu": "Figyelje meg, hogyan öltözik vibráló színekbe az ég az óceán felett, és parkoljon szabályosan, hogy ne akadályozza a kora reggeli forgalmat.",
+            "ro": "Urmăriți cum cerul se transformă cu culori vibrante deasupra oceanului și parcați responsabil pentru a nu bloca traficul matinal.",
+            "en": "Watch the sky transform with vibrant colors over the ocean, and park responsibly in designated spots to avoid blocking early morning traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "3 Requins d'Australie",
+            "hu": "3 Requins d'Australie",
+            "ro": "3 Requins d'Australie",
+            "en": "3 Requins d'Australie"
+          },
+          "coords": [
+            -2.524491,
+            47.299419
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Anmut dieser unglaublichen Haie und überprüfen Sie den täglichen Fütterungsplan, um das Hauptereignis nicht zu verpassen.",
+            "hu": "Csodálja meg ezen hihetetlen ausztrál cápák kecsességét, és ellenőrizze a napi etetési menetrendet, hogy ne maradjon le a fő eseményről.",
+            "ro": "Minunați-vă de grația acestor incredibili rechini australieni și verificați programul zilnic de hrănire pentru a nu rata evenimentul.",
+            "en": "Marvel at the grace of these incredible Australian sharks, and check the daily feeding schedule to ensure you do not miss the main event."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Kervaudu",
+            "hu": "Manoir de Kervaudu",
+            "ro": "Manoir de Kervaudu",
+            "en": "Manoir de Kervaudu"
+          },
+          "coords": [
+            -2.526232,
+            47.296433
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Fotostopp an diesem eleganten architektonischen Juwel, aber schalten Sie den Motor aus, um Emissionen zu reduzieren.",
+            "hu": "Élvezze a gyors fotózást ennél az elegáns építészeti gyöngyszemnél, de állítsa le a motort a várakozás alatt a zaj és a károsanyag csökkentése érdekében.",
+            "ro": "Bucurați-vă de o oprire rapidă pentru fotografii la această bijuterie arhitecturală, dar opriți motorul pentru a reduce zgomotul și emisiile.",
+            "en": "Enjoy a quick photo stop at this elegant architectural gem, but keep your engine off while waiting to reduce unnecessary noise and emissions."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de l'Ours",
+            "hu": "Rocher de l'Ours",
+            "ro": "Rocher de l'Ours",
+            "en": "Rocher de l'Ours"
+          },
+          "coords": [
+            -2.536387,
+            47.288506
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die raue Schönheit dieser Felsskulptur und nutzen Sie die nahe gelegenen Parkbuchten, anstatt auf der engen Straße zu halten.",
+            "hu": "Csodálja meg ennek a híres természeti kőszobornak a zord szépségét, és használja a közeli parkolókat, ahelyett, hogy a szűk úton állna meg.",
+            "ro": "Minunați-vă de frumusețea aspră a acestei sculpturi în stâncă și folosiți parcările din apropiere, în loc să opriți direct pe drumul îngust.",
+            "en": "Marvel at the rugged beauty of this famous natural rock sculpture, and use the nearby parking pullouts rather than stopping directly on the narrow road."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Pierre Longue",
+            "hu": "Menhir Pierre Longue",
+            "ro": "Menhir Pierre Longue",
+            "en": "Menhir Pierre Longue"
+          },
+          "coords": [
+            -2.530776,
+            47.287414
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spüren Sie die mysteriöse alte Energie dieses Steins und tragen Sie feste Schuhe, da der Weg vom Parkplatz sehr steinig ist.",
+            "hu": "Érezze ezen állókőből sugárzó titokzatos, ősi energiát, és viseljen masszív cipőt, mivel a parkolóból vezető út meglehetősen sziklás.",
+            "ro": "Simțiți energia antică misterioasă radiind din această piatră verticală și purtați pantofi rezistenți, deoarece calea este destul de stâncoasă.",
+            "en": "Feel the mysterious ancient energy radiating from this standing stone, and wear sturdy shoes as the path from the parking area is quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Bauvran",
+            "hu": "Moulin de Bauvran",
+            "ro": "Moulin de Bauvran",
+            "en": "Moulin de Bauvran"
+          },
+          "coords": [
+            -2.517933,
+            47.285544
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Silhouette dieser ikonischen Windmühle und nutzen Sie die ruhige Umgebung für ein perfektes Postkartenfoto.",
+            "hu": "Csodálja meg ennek az ikonikus szélmalomnak a történelmi sziluettjét, és használja ki a csendes környezetet egy tökéletes képeslapfotó elkészítéséhez.",
+            "ro": "Priviți silueta istorică a acestei mori de vânt emblematice de coastă și profitați de împrejurimile liniștite pentru a face o fotografie perfectă.",
+            "en": "Gaze at the historic silhouette of this iconic coastal windmill, and take advantage of the quiet surroundings to snap a perfect postcard photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Saint-Michel",
+            "hu": "Plage Saint-Michel",
+            "ro": "Plage Saint-Michel",
+            "en": "Plage Saint-Michel"
+          },
+          "coords": [
+            -2.481847,
+            47.273412
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weichen Sand und bringen Sie einen kleinen Müllsack mit, um diesen wunderschönen Strand unberührt zu erhalten.",
+            "hu": "Pihenjen a puha homokban a ritmikus óceáni hullámokat hallgatva, és hozzon egy kis szemeteszsákot, hogy segítsen tisztán tartani ezt a gyönyörű strandot.",
+            "ro": "Relaxați-vă pe nisipul fin ascultând valurile ritmice ale oceanului și aduceți un mic sac de gunoi pentru a ajuta la păstrarea plajei curate.",
+            "en": "Unwind on the soft sand while listening to the rhythmic ocean waves, and bring a small trash bag to help keep this beautiful beach pristine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem spektakulären Sonnenaufgang an der Küste. Mittags erkunden Sie die Meereswunder im Aquariumbereich und ein großes historisches Herrenhaus. Ihre Nachmittagsfahrt folgt der malerischen wilden Küste, um dramatische Naturfelsen und alte stehende Steine zu entdecken. Entspannen Sie sich schließlich am Strand, wenn der Abend über den majestätischen Atlantik hereinbricht.",
+        "hu": "Kezdje autós túráját egy látványos tengerparti napfelkeltével, amely megadja az alaphangot a naphoz. Délben fedezze fel a tengeri csodákat az akvárium területén, majd egy közeli történelmi kúriát. A délutáni vezetés a festői vad parton halad végig, lenyűgöző sziklákkal és ősi menhírekkel. Végül pihenjen a tágas strandon, miközben az este leereszkedik a fenséges Atlanti-óceánra.",
+        "ro": "Începeți turul cu mașina cu un răsărit spectaculos pe coastă pentru a stabili atmosfera zilei. La prânz, explorați minunile marine la acvariu și un mare conac istoric din apropiere. Conducerea de după-amiază urmează coasta pitorească sălbatică pentru a întâlni stânci naturale și pietre antice. În cele din urmă, relaxați-vă pe plaja întinsă în timp ce seara coboară peste maiestuosul ocean.",
+        "en": "Start your driving tour with a spectacular coastal sunrise to set the tone for the day. Midday, explore the marine wonders at the aquarium area and a grand historical manor nearby. Your afternoon drive follows the scenic wild coast to encounter dramatic natural rocks and ancient standing stones. Finally, relax at the sprawling beach as evening descends over the majestic Atlantic ocean."
+      }
+    }
+  }
+}

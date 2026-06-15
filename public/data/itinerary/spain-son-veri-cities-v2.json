@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-son-veri-cities-v2",
+  "anchor": {
+    "name": "Son Verí",
+    "coords": [
+      2.74916,
+      39.49772
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Es Calonet des Fornàs",
+            "hu": "Es Calonet des Fornàs",
+            "ro": "Es Calonet des Fornàs",
+            "en": "Es Calonet des Fornàs"
+          },
+          "coords": [
+            2.745232,
+            39.496536
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser versteckten, felsigen Bucht, wo das frühe Morgenlicht perfekte Fotomotive bietet, bevor die Massen ankommen.",
+            "hu": "Kezdje a napját ezen a rejtett, sziklás öbölben, ahol a kora reggeli fény tökéletes fotózási lehetőségeket kínál, mielőtt megérkezik a tömeg.",
+            "ro": "Începeți ziua în acest golf ascuns și stâncos, unde lumina dimineții devreme oferă oportunități perfecte de fotografie înainte de aglomerație.",
+            "en": "Start your day at this hidden, rocky cove where early morning light creates perfect photo opportunities before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Caló de Sant Antoni",
+            "hu": "Caló de Sant Antoni",
+            "ro": "Caló de Sant Antoni",
+            "en": "Caló de Sant Antoni"
+          },
+          "coords": [
+            2.74791,
+            39.498674
+          ],
+          "category": "recreational",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses charmanten Yachthafens, beobachten Sie die Boote und trinken Sie vielleicht einen schnellen Espresso.",
+            "hu": "Élvezze a békés sétát e bájos kikötő környékén, figyelje a csónakok ringatózását, és esetleg igyon meg egy gyors eszpresszót a közelben.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestui port fermecător, urmărind legănarea bărcilor și savurând un espresso rapid în apropiere.",
+            "en": "Enjoy a peaceful stroll along this charming marina area, watching the gentle bobbing of boats and perhaps grabbing a quick espresso nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de s'Arenal de Llucmajor",
+            "hu": "Platja de s'Arenal de Llucmajor",
+            "ro": "Platja de s'Arenal de Llucmajor",
+            "en": "Platja de s'Arenal de Llucmajor"
+          },
+          "coords": [
+            2.750374,
+            39.502365
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Sandstränden dieses lebhaften Strandes, aber seien Sie früh dort, um sich einen erstklassigen Platz zu sichern.",
+            "hu": "Pihenjen ennek a nyüzsgő strandnak a tágas homokos partjain, de érkezzen korán, hogy biztosítson magának egy kiváló helyet a hűsítő víz közelében.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase extinse ale acestei plaje pline de viață, dar asigurați-vă că ajungeți devreme pentru a prinde un loc excelent.",
+            "en": "Relax on the expansive sandy shores of this lively beach, but be sure to arrive early to secure a prime spot near the refreshing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Coves de Son Verí de Baix",
+            "hu": "Coves de Son Verí de Baix",
+            "ro": "Coves de Son Verí de Baix",
+            "en": "Coves de Son Verí de Baix"
+          },
+          "coords": [
+            2.755392,
+            39.495278
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden historischen Höhlen in der Wohngegend und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu meistern.",
+            "hu": "Fedezze fel a lakóövezetben megbúvó lenyűgöző történelmi barlangokat, és viseljen masszív cipőt az egyenetlen terepen való biztonságos járáshoz.",
+            "ro": "Explorați peșterile istorice fascinante ascunse în zona rezidențială, purtând încălțăminte robustă pentru a naviga confortabil pe terenul denivelat.",
+            "en": "Explore the fascinating historical caves tucked into the residential area, wearing sturdy shoes to comfortably navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "punta de s'Arenal",
+            "hu": "punta de s'Arenal",
+            "ro": "punta de s'Arenal",
+            "en": "punta de s'Arenal"
+          },
+          "coords": [
+            2.738415,
+            39.49269
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem wunderschönen Naturpunkt, wo Sie auf den Felsen sitzen und den Panoramablick auf die Küste genießen können.",
+            "hu": "Fejezze be sétáját ezen a gyönyörű természeti ponton, ahol a sziklákon ülve élvezheti a Földközi-tenger partvidékének panorámáját.",
+            "ro": "Încheiați plimbarea în acest punct natural frumos, unde vă puteți așeza pe stânci și admira vederile panoramice ale coastei mediteraneene.",
+            "en": "Conclude your walk at this beautiful natural point, where you can sit on the rocks and enjoy panoramic views of the Mediterranean coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung ruhiger Buchten und Yachthäfen, während das Mittelmeer erwacht.\n\nAm Mittag lädt der goldene Sand dazu ein, sich zu entspannen und die warme spanische Sonne zu genießen.\n\nAm Nachmittag reisen Sie in die Vergangenheit und entdecken versteckte historische Höhlen.\n\nWenn der Abend naht, bietet ein Küstenaussichtspunkt den perfekten Ort, um den Sonnenuntergang zu beobachten.",
+        "hu": "A reggel a csendes öblök és kikötők felfedezésével kezdődik, figyelve az ébredező Földközi-tengert.\n\nDélben az aranyhomok pihenésre és a meleg spanyol napsütés élvezetére hív.\n\nDélután tegyen egy lépést a múltba, és fedezze fel a modern utcák között megbúvó történelmi barlangokat.\n\nAz este közeledtével egy tengerparti kilátó tökéletes helyet kínál a horizont alá bukó nap megfigyelésére.",
+        "ro": "Dimineața începe cu explorarea golfurilor și porturilor liniștite, privind cum se trezește Marea Mediterană.\n\nLa prânz, nisipurile aurii vă invită să vă relaxați și să vă bucurați de soarele cald spaniol.\n\nDupă-amiaza, faceți un pas înapoi în timp descoperind peșteri istorice ascunse printre străzile moderne.\n\nSpre seară, un punct de observație pe coastă oferă locul perfect pentru apus.",
+        "en": "The morning begins by exploring the quiet coves and marinas, watching the Mediterranean wake up.\n\nBy midday, the golden sands invite you to relax and soak up the warm Spanish sun.\n\nIn the afternoon, step back in time as you discover hidden historical caves nestled among modern streets.\n\nAs evening approaches, a coastal viewpoint offers the perfect spot to watch the sun dip below the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caló de ses Lleonardes",
+            "hu": "Caló de ses Lleonardes",
+            "ro": "Caló de ses Lleonardes",
+            "en": "Caló de ses Lleonardes"
+          },
+          "coords": [
+            2.735801,
+            39.484588
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Sonnenaufgang zu diesem abgelegenen Badeplatz und packen Sie ein leichtes Handtuch für ein erfrischendes morgendliches Bad ein.",
+            "hu": "Biciklizzen le ehhez az eldugott fürdőhelyhez rögtön napkeltekor, és vigyen magával egy könnyű törölközőt egy frissítő reggeli csobbanáshoz.",
+            "ro": "Mergeți cu bicicleta spre acest loc de înot retras chiar la răsărit, aducând un prosop ușor pentru o baie matinală revigorantă în apele limpezi.",
+            "en": "Cycle down to this secluded swimming spot right as the sun rises, packing a lightweight towel for a refreshing morning dip in the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Mosques",
+            "hu": "Cala Mosques",
+            "ro": "Cala Mosques",
+            "en": "Cala Mosques"
+          },
+          "coords": [
+            2.736924,
+            39.486948
+          ],
+          "category": "recreational",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser unberührten Bucht und schließen Sie Ihr Fahrrad sicher ab, während Sie die raue, malerische Küste erkunden.",
+            "hu": "Tartson egy rövid szünetet ebben az érintetlen öbölben, biztonságosan lezárva kerékpárját a közelben, miközben gyalog fedezi fel a zord partvidéket.",
+            "ro": "Faceți o scurtă pauză în acest golf imaculat, asigurându-vă bine bicicleta în apropiere, în timp ce explorați pe jos linia de coastă pitorească.",
+            "en": "Take a short break at this pristine bay, locking your bike securely nearby while you explore the rugged, picturesque coastline on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "punta de s'Arenal",
+            "hu": "punta de s'Arenal",
+            "ro": "punta de s'Arenal",
+            "en": "punta de s'Arenal"
+          },
+          "coords": [
+            2.738415,
+            39.49269
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem markanten Aussichtspunkt an, um die Meeresbrise zu spüren und einige Fotos von dem weiten Ozean entlang des Radwegs zu machen.",
+            "hu": "Álljon meg ezen a kiemelkedő kilátóponton, hogy érezze a tengeri szellőt, és készítsen néhány fotót a kerékpárút mentén elterülő hatalmas óceánról.",
+            "ro": "Opriți-vă la acest punct de vedere proeminent pentru a simți briza mării și a face câteva fotografii cu vastul ocean întins de-a lungul pistei.",
+            "en": "Pause at this prominent viewpoint to feel the sea breeze and snap some photos of the vast ocean spread out before you along the bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de s'Arenal",
+            "hu": "Platja de s'Arenal",
+            "ro": "Platja de s'Arenal",
+            "en": "Platja de s'Arenal"
+          },
+          "coords": [
+            2.746732,
+            39.513234
+          ],
+          "category": "recreational",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der belebten Promenade hinter dem weitläufigen Strand und halten Sie für ein erfrischendes Eis an einem der vielen Kioske.",
+            "hu": "Tekerjen végig a tágas strand mögötti nyüzsgő sétányon, és álljon meg egy frissítő fagylaltra vagy hideg italra a sok élénk kioszk egyikénél.",
+            "ro": "Plimbați-vă pe promenada animată din spatele plajei extinse, oprindu-vă pentru un gelato răcoritor sau o băutură rece la unul dintre chioșcuri.",
+            "en": "Ride along the bustling promenade backing the expansive beach, stopping for a refreshing gelato or cold drink at one of the many lively kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "La Porciúncula",
+            "hu": "La Porciúncula",
+            "ro": "La Porciúncula",
+            "en": "La Porciúncula"
+          },
+          "coords": [
+            2.750442,
+            39.519444
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Treten Sie von der Küste weg, um die markante kreisförmige moderne Kirche zu bewundern und ihre prächtigen Buntglasfenster auf sich wirken zu lassen.",
+            "hu": "Lépjen el a parttól, hogy megcsodálja a feltűnő, kör alakú modern templomot, szánva egy percet a csodálatos ólomüveg ablakainak értékelésére.",
+            "ro": "Îndepărtați-vă de coastă pentru a admira biserica modernă circulară izbitoare, făcându-vă un moment pentru a aprecia vitraliile sale magnifice.",
+            "en": "Step away from the coast to admire the striking circular modern church, taking a moment to appreciate its magnificent stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Forestal park",
+            "hu": "Forestal park",
+            "ro": "Forestal park",
+            "en": "Forestal park"
+          },
+          "coords": [
+            2.751531,
+            39.518928
+          ],
+          "category": "landmark",
+          "arrive_at": "13:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren aktiven Tag in diesem Abenteuerpark zwischen den Bäumen und ziehen Sie sich bequeme Sportkleidung für das Klettern an.",
+            "hu": "Fejezze be aktív napját ebben a fák közötti kalandparkban, és váltson kényelmes sportruházatra a drótkötélpályákhoz és a mászási kihívásokhoz.",
+            "ro": "Încheiați ziua activă la acest parc de aventuri printre copaci, îmbrăcându-vă în haine sport confortabile pentru tiroliană și trasee de alpinism.",
+            "en": "Finish your active day at this adventure park among the trees, changing into comfortable athletic wear for zip-lining and climbing challenges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden Fahrt zu unberührten südlichen Buchten in den ruhigen Morgenstunden.\n\nFahren Sie entlang der spektakulären Küste und halten Sie an Aussichtspunkten für Erinnerungsfotos.\n\nEine lebhafte Strandpromenade bietet den perfekten Mittagsstopp mit zahlreichen Erfrischungen.\n\nBeenden Sie den Tag im Landesinneren und mischen Sie moderne Architektur mit Parkabenteuern.",
+        "hu": "Kezdje a napot egy frissítő tekeréssel az érintetlen déli öblökhöz, kihasználva a csendes reggeli órákat.\n\nFolytassa útját a látványos partvidéken, megállva a panorámás kilátóknál a táj megörökítésére.\n\nEgy nyüzsgő tengerparti sétány tökéletes déli pihenőt kínál számtalan frissítő lehetőséggel.\n\nFejezze be a napot a szárazföld belsejében, ötvözve a modern építészetet a parki kalandokkal.",
+        "ro": "Începeți cu o plimbare revigorantă către golfurile sudice imaculate, profitând de orele liniștite ale dimineții.\n\nContinuați de-a lungul coastei spectaculoase, oprindu-vă la puncte panoramice pentru a surprinde peisajul.\n\nO promenadă animată pe plajă oferă locul perfect de odihnă la prânz, cu nenumărate opțiuni de răcorire.\n\nÎncheiați ziua în interior, amestecând arhitectura modernă cu aventurile din parc.",
+        "en": "Start with a refreshing ride to pristine southern bays, taking advantage of the quiet morning hours.\n\nContinue along the spectacular coastline, pausing at panoramic viewpoints to capture the scenery.\n\nA lively beach promenade provides the perfect midday rest stop with countless refreshment options.\n\nFinish the day inland, mixing striking modern architecture with high-flying park adventures."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aqualand",
+            "hu": "Aqualand",
+            "ro": "Aqualand",
+            "en": "Aqualand"
+          },
+          "coords": [
+            2.760499,
+            39.495709
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto frühzeitig an diesem riesigen Wasserpark, um den Warteschlangen auszuweichen, und sichern Sie sich sofort ein Schließfach.",
+            "hu": "Parkoljon le korán ennél a hatalmas víziparknál, hogy elkerülje a sorokat, és azonnal béreljen egy szekrényt az izgalmas csúszdák élvezetéhez.",
+            "ro": "Parcați mașina devreme la acest parc acvatic masiv pentru a evita cozile, asigurând imediat un dulap pentru a vă bucura de atracțiile palpitante.",
+            "en": "Park your car early at this massive water park to beat the queues, securing a locker immediately so you can enjoy the thrilling rides stress-free."
+          }
+        },
+        {
+          "name": {
+            "de": "es Molí des Guix",
+            "hu": "es Molí des Guix",
+            "ro": "es Molí des Guix",
+            "en": "es Molí des Guix"
+          },
+          "coords": [
+            2.77246,
+            39.504021
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Windmühlenrest und parken Sie kurz, um die in der Stadtlandschaft erhaltene traditionelle mallorquinische Architektur zu bewundern.",
+            "hu": "Vezessen el ehhez a történelmi szélmalom-maradványhoz, és parkoljon le röviden, hogy megcsodálja a városképben megőrzött hagyományos mallorcai építészetet.",
+            "ro": "Conduceți până la această rămășiță de moară de vânt istorică, parcând scurt pentru a admira arhitectura tradițională din peisajul urban.",
+            "en": "Drive over to this historic windmill remnant, parking briefly to admire the traditional Mallorcan architecture preserved in the urban landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "es Castellet",
+            "hu": "es Castellet",
+            "ro": "es Castellet",
+            "en": "es Castellet"
+          },
+          "coords": [
+            2.760135,
+            39.503931
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch die ruhigen Straßen, um dieses faszinierende historische Bauwerk zu finden, und bringen Sie einen Reiseführer zum besseren Verständnis mit.",
+            "hu": "Navigáljon a csendes utcákon, hogy megtalálja ezt az izgalmas történelmi építményt, és vigyen magával egy útikönyvet a jobb megértés érdekében.",
+            "ro": "Navigați pe străzile liniștite pentru a găsi această structură istorică intrigantă, aducând un ghid pentru a-i înțelege mai bine semnificația locală.",
+            "en": "Navigate the quiet streets to find this intriguing historical structure, bringing a guidebook or app to understand its local significance better."
+          }
+        },
+        {
+          "name": {
+            "de": "Coves de Son Verí de Baix",
+            "hu": "Coves de Son Verí de Baix",
+            "ro": "Coves de Son Verí de Baix",
+            "en": "Coves de Son Verí de Baix"
+          },
+          "coords": [
+            2.755392,
+            39.495278
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die bequemen Parkplätze an der Straße in der Nähe, um diese faszinierenden Höhlen zu erkunden, und stellen Sie sicher, dass Ihr Handy voll aufgeladen ist.",
+            "hu": "Használja a közeli kényelmes utcai parkolót e lenyűgöző helyi barlangok felfedezéséhez, és ügyeljen arra, hogy telefonja teljesen fel legyen töltve.",
+            "ro": "Folosiți parcarea stradală convenabilă din apropiere pentru a explora aceste peșteri fascinante, asigurându-vă că telefonul este complet încărcat pentru lanternă.",
+            "en": "Utilize the convenient street parking nearby to explore these fascinating local caves, making sure your phone is fully charged to use as a flashlight."
+          }
+        },
+        {
+          "name": {
+            "de": "La Porciúncula",
+            "hu": "La Porciúncula",
+            "ro": "La Porciúncula",
+            "en": "La Porciúncula"
+          },
+          "coords": [
+            2.750442,
+            39.519444
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt nach Norden zu dieser spektakulären Glaskirche und denken Sie daran, sich bescheiden zu kleiden und die ruhige Atmosphäre zu respektieren.",
+            "hu": "Tegyen egy rövid utat északra ehhez a látványos üvegtemplomhoz, és ne felejtsen el szerényen öltözni, tiszteletben tartva a csendes légkört a látogatás során.",
+            "ro": "Faceți o scurtă călătorie spre nord către această spectaculoasă biserică de sticlă, amintindu-vă să vă îmbrăcați modest și să respectați atmosfera liniștită.",
+            "en": "Take a short drive north to this spectacular glass church, remembering to dress modestly and respect the quiet atmosphere during your visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Forestal park",
+            "hu": "Forestal park",
+            "ro": "Forestal park",
+            "en": "Forestal park"
+          },
+          "coords": [
+            2.751531,
+            39.518928
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip in diesem aufregenden Outdoor-Abenteuerpark und reservieren Sie Ihre Tickets vorab online, um den Eintritt zu garantieren.",
+            "hu": "Fejezze be autós utazását ebben az izgalmas szabadtéri kalandparkban, és foglalja le jegyeit előre online, hogy garantálja a belépést a mászópályákra.",
+            "ro": "Completați călătoria cu mașina la acest parc palpitant de aventură în aer liber, rezervând biletele online în avans pentru a garanta intrarea la cursuri.",
+            "en": "Complete your road trip at this thrilling outdoor adventure park, reserving your tickets online in advance to guarantee entry for the climbing courses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre motorisierte Reise beginnt mit aufregendem Wasserspaß, bevor die Mittagshitze ihren Höhepunkt erreicht.\n\nWechseln Sie die Gänge und erkunden Sie das Erbe der Region an erhaltenen Windmühlen und historischen Stätten.\n\nAm Nachmittag steigen Sie in faszinierende unterirdische Höhlen hinab, die sich direkt in den Wohnvierteln befinden.\n\nBeenden Sie die Tour an einer leuchtenden Glaskirche und einem Waldpark.",
+        "hu": "Motorizált utazása izgalmas vízi kalandokkal indul, mielőtt a déli hőség eléri tetőpontját.\n\nVáltson sebességet, és fedezze fel a régió örökségét a megőrzött szélmalmoknál és történelmi épületeknél.\n\nA délután folyamán ereszkedjen le a lenyűgöző földalatti barlangokba, amelyek a helyi negyedekben találhatók.\n\nZárja az élénk túrát egy ragyogó üvegtemplom megcsodálásával és egy erdei kalandparkkal.",
+        "ro": "Călătoria motorizată începe cu senzații tari acvatice înainte ca căldura amiezii să atingă cote maxime.\n\nSchimbați viteza pentru a urmări moștenirea regiunii, oprindu-vă la mori de vânt conservate și structuri istorice.\n\nDupă-amiaza coborâți în peșteri subterane fascinante situate chiar în cartierele locale.\n\nÎncheiați turul vibrant admirând o biserică luminoasă din sticlă și un parc forestier cu trasee aeriene.",
+        "en": "Your motorized journey kicks off with exciting aquatic thrills before the midday heat reaches its peak.\n\nShift gears to trace the region's heritage, stopping at preserved windmills and historical structures.\n\nMid-afternoon brings a descent into fascinating subterranean caves located right within the local neighborhoods.\n\nConclude the vibrant tour by admiring a glowing glass church and tackling an aerial forest park."
+      }
+    }
+  }
+}

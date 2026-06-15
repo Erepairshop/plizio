@@ -1,0 +1,474 @@
+{
+  "city_id": "xalapa-cities-v2",
+  "anchor": {
+    "name": "Xalapa",
+    "coords": [
+      -96.9281,
+      19.5437
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 1.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción de Xalapa",
+            "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+            "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+            "en": "Catedral de la Inmaculada Concepción de Xalapa"
+          },
+          "coords": [
+            -96.922996,
+            19.52777
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Kathedrale und besuchen Sie am besten eine morgendliche Messe, um die friedliche Atmosphäre voll auszukosten.",
+            "hu": "Csodálja meg a történelmi katedrális lenyűgöző homlokzatát, és érdemes a kora reggeli mise idején betérni, hogy teljes mértékben átérezze a békés hangulatot.",
+            "ro": "Admirați fațada impresionantă a acestei catedrale istorice și luați în considerare să intrați în timpul slujbei de dimineață pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Admire the striking facade of this historic cathedral, and consider stepping inside during early morning mass to fully appreciate the peaceful, echoing ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Juanote",
+            "hu": "Juanote",
+            "ro": "Juanote",
+            "en": "Juanote"
+          },
+          "coords": [
+            -96.92184,
+            19.527413
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um das Erbe dieser geliebten lokalen Persönlichkeit mit einem Foto zu würdigen, was Ihnen das kulturelle Herz von Xalapa näherbringt.",
+            "hu": "Szánjon egy pillanatot e szeretett helyi alak örökségének tiszteletére egy fotó erejéig, amely tökéletes hely Xalapa kulturális ritmusának megragadására.",
+            "ro": "Luați-vă un moment pentru a onora moștenirea acestei figuri locale îndrăgite făcând o fotografie lângă monumentul său, un loc perfect pentru a simți pulsul cultural din Xalapa.",
+            "en": "Take a moment to honor the legacy of this beloved local figure by capturing a photo near his monument, a perfect spot to grasp the cultural heartbeat of Xalapa."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Audiovisual de Historia Natural",
+            "hu": "Museo Audiovisual de Historia Natural",
+            "ro": "Museo Audiovisual de Historia Natural",
+            "en": "Museo Audiovisual de Historia Natural"
+          },
+          "coords": [
+            -96.923078,
+            19.52885
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive audiovisuelle Exponate in die reiche Naturgeschichte ein und tragen Sie bequeme Schuhe, da Sie sicher alles ausgiebig betrachten möchten.",
+            "hu": "Merüljön el a régió gazdag természettörténetében az interaktív audiovizuális kiállításokon, és viseljen kényelmes cipőt, mert mindent látni akar majd.",
+            "ro": "Explorați bogata istorie naturală a regiunii prin expoziții audiovizuale interactive și asigurați-vă că purtați încălțăminte confortabilă, deoarece veți dori să vedeți totul.",
+            "en": "Dive into the rich natural history of the region through interactive audiovisual exhibits, and be sure to wear comfortable shoes as you will want to stand and watch everything."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Xalapa",
+            "hu": "Museo Casa de Xalapa",
+            "ro": "Museo Casa de Xalapa",
+            "en": "Museo Casa de Xalapa"
+          },
+          "coords": [
+            -96.924271,
+            19.526295
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem wunderschön erhaltenen Hausmuseum eine Reise in die Vergangenheit und fragen Sie die Führer unbedingt nach den kolonialen Architekturdetails.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött házmúzeumban, hogy megismerje a helyi gyarmati életet, és feltétlenül kérdezze meg az idegenvezetőket az építészeti részletekről.",
+            "ro": "Întoarceți-vă în timp în acest muzeu frumos conservat pentru a afla despre viața colonială locală, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
+            "en": "Step back in time in this beautifully preserved house museum to learn about local colonial life, making sure to ask the docents about the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Las Cuatro Virtudes",
+            "hu": "Las Cuatro Virtudes",
+            "ro": "Las Cuatro Virtudes",
+            "en": "Las Cuatro Virtudes"
+          },
+          "coords": [
+            -96.923154,
+            19.526188
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betrachten Sie die komplizierten Details dieser allegorischen Skulpturen, die wesentliche menschliche Werte darstellen, am besten im weichen Licht des späten Nachmittags.",
+            "hu": "Figyelje meg ezeknek az alapvető emberi értékeket képviselő allegorikus szobroknak a bonyolult részleteit, amelyek a késő délutáni lágy fényben mutatnak a legjobban.",
+            "ro": "Observați detaliile complicate ale acestor sculpturi alegorice care reprezintă valorile umane esențiale, cel mai bine vizualizate în lumina blândă a după-amiezii târzii.",
+            "en": "Observe the intricate details of these allegorical sculptures that represent essential human values, best viewed in the soft light of the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Galería de Arte Contemporáneo de Xalapa",
+            "hu": "Galería de Arte Contemporáneo de Xalapa",
+            "ro": "Galería de Arte Contemporáneo de Xalapa",
+            "en": "Galería de Arte Contemporáneo de Xalapa"
+          },
+          "coords": [
+            -96.915313,
+            19.529408
+          ],
+          "category": "museum",
+          "arrive_at": "16:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung moderner mexikanischer Kunst in dieser dynamischen Galerie, wo Sie hervorragend den Druck eines lokalen Künstlers erwerben können.",
+            "hu": "Zárja a napot a kortárs mexikói művészet felfedezésével ebben a dinamikus galériában, ahol egy helyi művész nyomatának megvásárlása egyedi szuvenírt jelenthet.",
+            "ro": "Încheiați-vă ziua explorând arta mexicană contemporană în această galerie dinamică, unde achiziționarea unei tipărituri de la un artist local reprezintă un suvenir unic.",
+            "en": "Finish your day exploring cutting-edge contemporary Mexican art in this dynamic gallery, where picking up a local artist's print makes for a unique souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum von Xalapa und genießen Sie die Pracht der herrlichen Kathedrale am belebten Platz. \n\n Erkunden Sie mittags ikonische historische Wahrzeichen wie Juanote und entdecken Sie die vielfältigen Ökosysteme im Naturhistorischen Museum. \n\n Der Nachmittag ist der kolonialen Architektur und der allegorischen Kunst gewidmet, die Xalapas historische Tiefe offenbaren. \n\n Beenden Sie Ihren Spaziergang in einer modernen Kunstgalerie, in der die kreative Ader Mexikos unter dem Abendhimmel lebendig wird.",
+        "hu": "Kezdje a reggelt Xalapa történelmi központjában, gyönyörködjön a lenyűgöző katedrálisban és a nyüzsgő téren. \n\n Délben fedezzen fel olyan ikonikus történelmi nevezetességeket, mint a Juanote, és merüljön el a régió ökoszisztémáiban a Természettudományi Múzeumban. \n\n A délutánt a gyarmati építészetnek és az allegorikus művészetnek szenteljük, amely feltárja Xalapa történelmi mélységeit. \n\n Zárja gyalogtúráját egy kortárs művészeti galériában, ahol a modern Mexikó kreatív lüktetése kel életre az esti égbolt alatt.",
+        "ro": "Începeți-vă dimineața în centrul istoric al orașului Xalapa, bucurându-vă de grandoarea Catedralei magnifice și a pieței pline de viață. \n\n Explorați la prânz repere istorice iconice precum Juanote și scufundați-vă în ecosistemele diverse ale regiunii la Muzeul de Istorie Naturală. \n\n După-amiaza este dedicată arhitecturii coloniale și artei alegorice, dezvăluind profunzimea istorică a orașului Xalapa. \n\n Încheiați turul de plimbare la o galerie de artă contemporană, unde pulsul creativ al Mexicului modern prinde viață.",
+        "en": "Begin your morning in the historic core of Xalapa, soaking in the grandeur of the magnificent Cathedral and its surrounding bustling plaza. \n\n Transition towards midday by exploring iconic historical landmarks like Juanote and delving into the region's diverse ecosystems at the Natural History Museum. \n\n Your afternoon is dedicated to colonial architecture and allegorical art, revealing Xalapa's artistic and historical depth. \n\n Conclude your walking tour at a contemporary art gallery, where the creative pulse of modern Mexico comes alive under the evening sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 5.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Ecológico Macuiltépetl",
+            "hu": "Parque Ecológico Macuiltépetl",
+            "ro": "Parque Ecológico Macuiltépetl",
+            "en": "Parque Ecológico Macuiltépetl"
+          },
+          "coords": [
+            -96.920078,
+            19.547747
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie die Pfade dieses Vulkankegels hinauf, um einen weiten Panoramablick auf die Stadt zu genießen, und bringen Sie ausreichend Wasser sowie eine Kamera mit.",
+            "hu": "Túrázzon fel ennek a vulkáni kúpnak az ösvényein, ahonnan pazar panoráma nyílik a városra, és vigyen magával bőségesen vizet, illetve fényképezőgépet a csúcshoz.",
+            "ro": "Urcați pe potecile acestui con vulcanic pentru a avea o vedere panoramică asupra orașului, aducând multă apă și un aparat foto pentru perspectiva impresionantă de pe vârf.",
+            "en": "Hike up the paths of this volcanic cone for sweeping panoramic views of the city, bringing plenty of water and a camera for the stunning summit perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Antropología de Xalapa",
+            "hu": "Museo de Antropología de Xalapa",
+            "ro": "Museo de Antropología de Xalapa",
+            "en": "Museo de Antropología de Xalapa"
+          },
+          "coords": [
+            -96.931192,
+            19.550511
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossalen Olmeken-Köpfe in Mexikos zweitwichtigstem archäologischen Museum, wo eine Führung tief in die mesoamerikanische Geschichte blicken lässt.",
+            "hu": "Csodálja meg a kolosszális olmék fejeket Mexikó második legfontosabb régészeti múzeumában, ahol erősen ajánlott egy vezetett túra a mezoamerikai történelem felfedezéséhez.",
+            "ro": "Minunați-vă de capetele colosale olmece în al doilea cel mai important muzeu arheologic din Mexic, recomandând cu tărie un tur ghidat pentru a descoperi istoria mezoamericană.",
+            "en": "Marvel at the colossal Olmec heads in Mexico's second most important archaeological museum, highly recommending a guided tour to uncover the deep Mesoamerican history."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción de Xalapa",
+            "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+            "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+            "en": "Catedral de la Inmaculada Concepción de Xalapa"
+          },
+          "coords": [
+            -96.922996,
+            19.52777
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Kathedrale und besuchen Sie am besten eine morgendliche Messe, um die friedliche Atmosphäre voll auszukosten.",
+            "hu": "Csodálja meg a történelmi katedrális lenyűgöző homlokzatát, és érdemes a kora reggeli mise idején betérni, hogy teljes mértékben átérezze a békés hangulatot.",
+            "ro": "Admirați fațada impresionantă a acestei catedrale istorice și luați în considerare să intrați în timpul slujbei de dimineață pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Admire the striking facade of this historic cathedral, and consider stepping inside during early morning mass to fully appreciate the peaceful, echoing ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Las Cuatro Virtudes",
+            "hu": "Las Cuatro Virtudes",
+            "ro": "Las Cuatro Virtudes",
+            "en": "Las Cuatro Virtudes"
+          },
+          "coords": [
+            -96.923154,
+            19.526188
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betrachten Sie die komplizierten Details dieser allegorischen Skulpturen, die wesentliche menschliche Werte darstellen, am besten im weichen Licht des späten Nachmittags.",
+            "hu": "Figyelje meg ezeknek az alapvető emberi értékeket képviselő allegorikus szobroknak a bonyolult részleteit, amelyek a késő délutáni lágy fényben mutatnak a legjobban.",
+            "ro": "Observați detaliile complicate ale acestor sculpturi alegorice care reprezintă valorile umane esențiale, cel mai bine vizualizate în lumina blândă a după-amiezii târzii.",
+            "en": "Observe the intricate details of these allegorical sculptures that represent essential human values, best viewed in the soft light of the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Galería Ramón Alva de la Canal",
+            "hu": "Galería Ramón Alva de la Canal",
+            "ro": "Galería Ramón Alva de la Canal",
+            "en": "Galería Ramón Alva de la Canal"
+          },
+          "coords": [
+            -96.918255,
+            19.527864
+          ],
+          "category": "museum",
+          "arrive_at": "15:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die zum Nachdenken anregenden wechselnden Ausstellungen an und nehmen Sie sich einen Moment Zeit, um die moderne Architektur des Gebäudes zu würdigen.",
+            "hu": "Tekintse meg az ebben a kulturális központban helyet kapó elgondolkodtató, időszaki kiállításokat, és szánjon egy pillanatot magának az épület modern építészetének értékelésére.",
+            "ro": "Vizitați expozițiile rotative care stârnesc gândirea găzduite în acest centru cultural, luându-vă un moment pentru a aprecia arhitectura modernă izbitoare a clădirii.",
+            "en": "Check out the thought-provoking rotating exhibitions housed within this cultural center, taking a moment to appreciate the striking modern architecture of the venue itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Doña Falla Museo de la Música Veracruzana",
+            "hu": "Casa Doña Falla Museo de la Música Veracruzana",
+            "ro": "Casa Doña Falla Museo de la Música Veracruzana",
+            "en": "Casa Doña Falla Museo de la Música Veracruzana"
+          },
+          "coords": [
+            -96.916015,
+            19.52285
+          ],
+          "category": "museum",
+          "arrive_at": "16:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die rhythmische Geschichte des musikalischen Erbes von Veracruz ein und verpassen Sie nicht die interaktiven Stationen mit traditionellen Son Jarocho-Aufnahmen.",
+            "hu": "Merüljön el Veracruz zenei örökségének ritmusos történetében, és ne hagyja ki az interaktív kijelzőket, ahol hagyományos son jarocho felvételeket hallgathat.",
+            "ro": "Cufundați-vă în istoria ritmică a moștenirii muzicale din Veracruz și nu ratați afișajele interactive unde puteți asculta înregistrări tradiționale de son jarocho.",
+            "en": "Immerse yourself in the rhythmic history of Veracruz's musical heritage, and don't miss the interactive displays where you can listen to traditional son jarocho recordings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour inmitten üppiger Natur im ökologischen Park der Stadt und atmen Sie die frische Bergluft von Xalapa ein. \n\n Fahren Sie mittags zum spektakulären Anthropologischen Museum, das einige der wichtigsten antiken Artefakte des Landes beherbergt. \n\n Am Nachmittag radeln Sie zurück in die historische Innenstadt, um die große Kathedrale und die historischen Denkmäler entlang der Straßen zu bewundern. \n\n Runden Sie Ihren aktiven Tag ab, indem Sie das musikalische Erbe und die lokale Kunstszene in den Kulturzentren erkunden.",
+        "hu": "Kezdje kerékpártúráját a buja természettel körülvett ökológiai parkban, belélegezve Xalapa friss hegyi levegőjét. \n\n Délben tekerjen el a látványos Antropológiai Múzeumba, amely az ország legmélyebb ókori műtárgyainak ad otthont. \n\n Délután utazzon vissza a történelmi belvárosba, hogy megcsodálja a nagy katedrálist és az utcákon elszórtan található történelmi emlékműveket. \n\n Zárja aktív napját a város híres kulturális központjaiban, felfedezve a vibráló zenei örökséget és a dinamikus helyi művészeti színteret.",
+        "ro": "Începeți turul cu bicicleta înconjurat de natura luxuriantă a parcului ecologic, respirând aerul proaspăt de munte din Xalapa. \n\n La prânz, mergeți spre spectaculosul Muzeu de Antropologie, care găzduiește unele dintre cele mai profunde artefacte antice din țară. \n\n După-amiaza, mergeți în centrul istoric pentru a admira Catedrala măreață și monumentele istorice presărate de-a lungul străzilor. \n\n Încheiați-vă ziua activă explorând moștenirea muzicală și scena de artă locală din centrele culturale celebre ale orașului.",
+        "en": "Start your bike tour surrounded by lush nature at the city's iconic ecological park, breathing in the fresh mountain air of Xalapa. \n\n Coast your way towards midday by visiting the spectacular Anthropology Museum, home to some of the most profound ancient artifacts in the country. \n\n In the afternoon, ride back into the historic downtown to admire the grand Cathedral and spot nearby historical monuments dotted along the streets. \n\n Wrap up your active day exploring the vibrant musical heritage and dynamic local art scenes in the city's celebrated cultural centers."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 16.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Antropología de Xalapa",
+            "hu": "Museo de Antropología de Xalapa",
+            "ro": "Museo de Antropología de Xalapa",
+            "en": "Museo de Antropología de Xalapa"
+          },
+          "coords": [
+            -96.931192,
+            19.550511
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossalen Olmeken-Köpfe in Mexikos zweitwichtigstem archäologischen Museum, wo eine Führung tief in die mesoamerikanische Geschichte blicken lässt.",
+            "hu": "Csodálja meg a kolosszális olmék fejeket Mexikó második legfontosabb régészeti múzeumában, ahol erősen ajánlott egy vezetett túra a mezoamerikai történelem felfedezéséhez.",
+            "ro": "Minunați-vă de capetele colosale olmece în al doilea cel mai important muzeu arheologic din Mexic, recomandând cu tărie un tur ghidat pentru a descoperi istoria mezoamericană.",
+            "en": "Marvel at the colossal Olmec heads in Mexico's second most important archaeological museum, highly recommending a guided tour to uncover the deep Mesoamerican history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Macuiltépetl",
+            "hu": "Parque Ecológico Macuiltépetl",
+            "ro": "Parque Ecológico Macuiltépetl",
+            "en": "Parque Ecológico Macuiltépetl"
+          },
+          "coords": [
+            -96.920078,
+            19.547747
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie die Pfade dieses Vulkankegels hinauf, um einen weiten Panoramablick auf die Stadt zu genießen, und bringen Sie ausreichend Wasser sowie eine Kamera mit.",
+            "hu": "Túrázzon fel ennek a vulkáni kúpnak az ösvényein, ahonnan pazar panoráma nyílik a városra, és vigyen magával bőségesen vizet, illetve fényképezőgépet a csúcshoz.",
+            "ro": "Urcați pe potecile acestui con vulcanic pentru a avea o vedere panoramică asupra orașului, aducând multă apă și un aparat foto pentru perspectiva impresionantă de pe vârf.",
+            "en": "Hike up the paths of this volcanic cone for sweeping panoramic views of the city, bringing plenty of water and a camera for the stunning summit perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción de Xalapa",
+            "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+            "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+            "en": "Catedral de la Inmaculada Concepción de Xalapa"
+          },
+          "coords": [
+            -96.922996,
+            19.52777
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser historischen Kathedrale und besuchen Sie am besten eine morgendliche Messe, um die friedliche Atmosphäre voll auszukosten.",
+            "hu": "Csodálja meg a történelmi katedrális lenyűgöző homlokzatát, és érdemes a kora reggeli mise idején betérni, hogy teljes mértékben átérezze a békés hangulatot.",
+            "ro": "Admirați fațada impresionantă a acestei catedrale istorice și luați în considerare să intrați în timpul slujbei de dimineață pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Admire the striking facade of this historic cathedral, and consider stepping inside during early morning mass to fully appreciate the peaceful, echoing ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Xalapa",
+            "hu": "Museo Casa de Xalapa",
+            "ro": "Museo Casa de Xalapa",
+            "en": "Museo Casa de Xalapa"
+          },
+          "coords": [
+            -96.924271,
+            19.526295
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem wunderschön erhaltenen Hausmuseum eine Reise in die Vergangenheit und fragen Sie die Führer unbedingt nach den kolonialen Architekturdetails.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött házmúzeumban, hogy megismerje a helyi gyarmati életet, és feltétlenül kérdezze meg az idegenvezetőket az építészeti részletekről.",
+            "ro": "Întoarceți-vă în timp în acest muzeu frumos conservat pentru a afla despre viața colonială locală, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
+            "en": "Step back in time in this beautifully preserved house museum to learn about local colonial life, making sure to ask the docents about the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Flavia Galería",
+            "hu": "Flavia Galería",
+            "ro": "Flavia Galería",
+            "en": "Flavia Galería"
+          },
+          "coords": [
+            -96.917777,
+            19.524874
+          ],
+          "category": "museum",
+          "arrive_at": "15:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie innovatives lokales Design und zeitgenössische Kunstwerke in diesem lebendigen Raum, der auch ein ausgezeichnetes Café für eine inspirierende Espressopause bietet.",
+            "hu": "Fedezze fel az innovatív helyi dizájnt és kortárs műalkotásokat ebben a nyüzsgő térben, amely egy kiváló kávézóval is rendelkezik egy gyors, inspiráló eszpresszó szünethez.",
+            "ro": "Descoperiți designul local inovator și lucrările de artă contemporană în acest spațiu vibrant, care are, de asemenea, o cafenea excelentă perfectă pentru o pauză rapidă de espresso.",
+            "en": "Discover innovative local design and contemporary artwork in this vibrant, modern space, which also features an excellent café perfect for a quick, inspiring espresso break."
+          }
+        },
+        {
+          "name": {
+            "de": "Dhammavihāra",
+            "hu": "Dhammavihāra",
+            "ro": "Dhammavihāra",
+            "en": "Dhammavihāra"
+          },
+          "coords": [
+            -96.956091,
+            19.625596
+          ],
+          "category": "religious",
+          "arrive_at": "17:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 11.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Stadttrubel in diesem abgelegenen buddhistischen Kloster, wobei Sie sich bescheiden kleiden und die stillen Meditationsbereiche während Ihres Besuchs respektieren sollten.",
+            "hu": "Meneküljön el a város zajától, és találja meg a belső békét ebben az eldugott buddhista kolostorban, ne feledjen szerényen öltözni és tiszteletben tartani a csendes meditációs területeket.",
+            "ro": "Scăpați de agitația orașului și găsiți pacea interioară la acest mănăstire budistă retrasă, amintindu-vă să vă îmbrăcați modest și să respectați zonele de meditație tăcută.",
+            "en": "Escape the city buzz and find inner peace at this secluded Buddhist monastery, remembering to dress modestly and respect the silent meditation areas during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am atemberaubenden Anthropologischen Museum und tauchen Sie sofort in Mexikos tiefe antike Wurzeln ein. \n\n Gegen Mittag unternehmen Sie eine malerische Fahrt zum ökologischen Park für eine kurze Naturpause, bevor Sie ins historische Zentrum fahren. \n\n Der Nachmittag bietet einen reibungslosen Übergang durch die lokale Geschichte und Ästhetik, während Sie zwischen Galerien und Museen wechseln. \n\n Schließen Sie mit einer ruhigen Fahrt zu einem abgelegenen Kloster ab, das einen friedlichen Abschluss Ihrer Erkundung bietet.",
+        "hu": "Kezdje autós túráját a lélegzetelállító Antropológiai Múzeumban, és azonnal merüljön el Mexikó mély ókori gyökereiben. \n\n Délben tegyen egy festői utat az ökológiai parkba egy gyors természeti szünetre, mielőtt Xalapa történelmi központjába hajtana. \n\n A délután zökkenőmentes átmenetet kínál a helyi történelem és a kortárs esztétika között, miközben a galériák és múzeumok között ingázik. \n\n Zárja a napot egy békés autózással a város szélén található eldugott kolostorba, amely nyugodt befejezést nyújt a kiterjedt városi felfedezésnek.",
+        "ro": "Începeți turul cu mașina la impresionantul Muzeu de Antropologie, scufundându-vă imediat în rădăcinile antice profunde ale Mexicului. \n\n La prânz, faceți o plimbare pitorească până la parcul ecologic pentru o scurtă pauză în natură, înainte de a coborî în centrul istoric. \n\n După-amiaza oferă o tranziție lină prin istoria locală și estetica contemporană, în timp ce vă deplasați între galerii și muzee. \n\n Încheiați cu o plimbare liniștită către o mănăstire retrasă, oferind un final senin explorării urbane extinse.",
+        "en": "Launch your driving tour at the breathtaking Anthropology Museum, delving immediately into Mexico's profound ancient roots. \n\n By midday, take a scenic drive over to the ecological park for a quick nature break before cruising down to the bustling heart of Xalapa's historic center. \n\n The afternoon offers a smooth transition through local history and contemporary aesthetics as you hop between specialized galleries and museums. \n\n Conclude with a peaceful drive to a secluded monastery on the city's outskirts, providing a serene finish to your extensive urban exploration."
+      }
+    }
+  }
+}

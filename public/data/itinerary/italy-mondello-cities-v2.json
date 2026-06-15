@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-mondello-cities-v2",
+  "anchor": {
+    "name": "Mondello",
+    "coords": [
+      13.32455,
+      38.20621
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maria Santissima Assunta",
+            "hu": "Maria Santissima Assunta",
+            "ro": "Maria Santissima Assunta",
+            "en": "Maria Santissima Assunta"
+          },
+          "coords": [
+            13.330841,
+            38.19544
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche früh, um ihre Architektur im ruhigen Morgenlicht zu bewundern, und kleiden Sie sich aus Respekt vor lokalen Bräuchen angemessen.",
+            "hu": "Látogassa meg ezt a békés templomot korán, hogy megcsodálja építészetét a csendes reggeli fényben, és öltözzön szerényen a helyi szokások tiszteletben tartásával.",
+            "ro": "Vizitați această biserică liniștită devreme pentru a-i admira arhitectura în lumina blândă a dimineții și îmbrăcați-vă decent din respect pentru obiceiurile locale.",
+            "en": "Visit this peaceful church early to admire its architecture in the quiet morning light, and dress modestly out of respect for local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondello",
+            "hu": "Mondello",
+            "ro": "Mondello",
+            "en": "Mondello"
+          },
+          "coords": [
+            13.329005,
+            38.200577
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den berühmten weißen Sand und am kristallklaren Wasser des Strandes von Mondello entlang und holen Sie sich einen schnellen Espresso an einem Kiosk.",
+            "hu": "Sétáljon végig a Mondello strand híres fehér homokján és kristálytiszta vize mentén, és igyon egy gyors eszpresszót egy tengerparti kioszkban, hogy energiát gyűjtsön.",
+            "ro": "Plimbați-vă de-a lungul celebrului nisip alb și a apelor cristaline ale plajei Mondello și luați un espresso rapid la un chioșc de pe malul mării.",
+            "en": "Stroll along the famous white sands and crystalline waters of Mondello beach, and grab a quick espresso at a seaside kiosk to fuel your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Vito Zappallà",
+            "hu": "Teatro Vito Zappallà",
+            "ro": "Teatro Vito Zappallà",
+            "en": "Teatro Vito Zappallà"
+          },
+          "coords": [
+            13.322939,
+            38.200253
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überprüfen Sie das lokale Programm auf Abendvorstellungen in diesem Freilufttheater, aber auch tagsüber ist es wegen seiner kulturellen Bedeutung sehenswert.",
+            "hu": "Ellenőrizze a helyi műsort az esti szabadtéri előadásokhoz, de nappal is érdemes megnézni kulturális jelentősége miatt.",
+            "ro": "Verificați programul local pentru spectacolele de seară de la acest teatru în aer liber, dar chiar și ziua merită văzut pentru importanța sa culturală.",
+            "en": "Check the local schedule for evening performances at this open-air venue, but even during the day, it is worth seeing for its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fossa del Gallo",
+            "hu": "Fossa del Gallo",
+            "ro": "Fossa del Gallo",
+            "en": "Fossa del Gallo"
+          },
+          "coords": [
+            13.322688,
+            38.2143
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bringen Sie festes Schuhwerk mit, um dieses raue Küstenwahrzeichen zu erkunden, das fantastische Fotomotive abseits der großen Touristenmassen bietet.",
+            "hu": "Hozzon magával erős cipőt ennek a zord tengerparti nevezetességnek a felfedezéséhez, amely fantasztikus fotózási lehetőségeket kínál távol a turisták tömegétől.",
+            "ro": "Aduceți încălțăminte rezistentă pentru a explora acest reper de coastă accidentat, care oferă oportunități fantastice de fotografiere departe de aglomerație.",
+            "en": "Bring sturdy shoes to explore this rugged coastal landmark, which offers fantastic photo opportunities away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Orientata Capo Gallo",
+            "hu": "Riserva Naturale Orientata Capo Gallo",
+            "ro": "Riserva Naturale Orientata Capo Gallo",
+            "en": "Riserva Naturale Orientata Capo Gallo"
+          },
+          "coords": [
+            13.303042,
+            38.209804
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Packen Sie ausreichend Wasser und Sonnencreme für eine Wanderung durch dieses atemberaubende Naturschutzgebiet ein, wo steile Klippen direkt ins blaue Meer fallen.",
+            "hu": "Csomagoljon sok vizet és naptejet egy túrához ebben a lenyűgöző természetvédelmi területen, ahol a drámai sziklák egyenesen a kék tengerbe szakadnak.",
+            "ro": "Luați multă apă și cremă de protecție solară pentru o drumeție prin această rezervație naturală uimitoare, unde stâncile dramatice coboară direct în marea albastră.",
+            "en": "Pack plenty of water and sunscreen for a hike through this stunning nature reserve, where the dramatic cliffs drop directly into the vibrant blue sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des Südens von Mondello, bewundern Sie die örtliche Kirche und spazieren Sie den Sandstrand entlang. Mittags tauchen Sie im Freilufttheater in die Kultur ein. Ihr Nachmittag besteht aus einem malerischen Spaziergang nach Norden zur felsigen Küste. Beenden Sie den Tag, indem Sie in die unberührte Wildnis des Reservats Capo Gallo eintauchen.",
+        "hu": "Kezdje a reggelt Mondello déli részének felfedezésével, csodálja meg a helyi templomot, és sétáljon a homokos tengerparton. Délben merüljön el a helyi kultúrában a szabadtéri színháznál. A délután egy festői sétából áll észak felé a sziklás partig. Fejezze be a napot azzal, hogy elmerül a Capo Gallo természetvédelmi terület érintetlen vadonjában, élvezve a természet nyugalmát.",
+        "ro": "Începeți dimineața explorând partea de sud din Mondello, admirând biserica locală și plimbându-vă pe plaja cu nisip. La prânz, aprofundați cultura la teatrul în aer liber și luați prânzul. După-amiaza constă într-o plimbare pitorească spre nord, pe coasta stâncoasă de la Fossa del Gallo. Încheiați ziua scufundându-vă în sălbăticia neatinsă a rezervației naturale Capo Gallo.",
+        "en": "Start your morning exploring the southern side of Mondello, admiring the local church and strolling along the sandy beach. By midday, delve into local culture at the open-air theater and grab a seaside lunch. Your afternoon consists of a scenic walk north to the rocky coast of Fossa del Gallo. Conclude the day immersing yourself in the untouched wilderness of the Capo Gallo reserve."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Vito Zappallà",
+            "hu": "Teatro Vito Zappallà",
+            "ro": "Teatro Vito Zappallà",
+            "en": "Teatro Vito Zappallà"
+          },
+          "coords": [
+            13.322939,
+            38.200253
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie das lokale Programm auf Abendvorstellungen in diesem Freilufttheater, aber auch tagsüber ist es wegen seiner kulturellen Bedeutung sehenswert.",
+            "hu": "Ellenőrizze a helyi műsort az esti szabadtéri előadásokhoz, de nappal is érdemes megnézni kulturális jelentősége miatt.",
+            "ro": "Verificați programul local pentru spectacolele de seară de la acest teatru în aer liber, dar chiar și ziua merită văzut pentru importanța sa culturală.",
+            "en": "Check the local schedule for evening performances at this open-air venue, but even during the day, it is worth seeing for its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondello",
+            "hu": "Mondello",
+            "ro": "Mondello",
+            "en": "Mondello"
+          },
+          "coords": [
+            13.329005,
+            38.200577
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den berühmten weißen Sand und am kristallklaren Wasser des Strandes von Mondello entlang und holen Sie sich einen schnellen Espresso an einem Kiosk.",
+            "hu": "Sétáljon végig a Mondello strand híres fehér homokján és kristálytiszta vize mentén, és igyon egy gyors eszpresszót egy tengerparti kioszkban, hogy energiát gyűjtsön.",
+            "ro": "Plimbați-vă de-a lungul celebrului nisip alb și a apelor cristaline ale plajei Mondello și luați un espresso rapid la un chioșc de pe malul mării.",
+            "en": "Stroll along the famous white sands and crystalline waters of Mondello beach, and grab a quick espresso at a seaside kiosk to fuel your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Fossa del Gallo",
+            "hu": "Fossa del Gallo",
+            "ro": "Fossa del Gallo",
+            "en": "Fossa del Gallo"
+          },
+          "coords": [
+            13.322688,
+            38.2143
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bringen Sie festes Schuhwerk mit, um dieses raue Küstenwahrzeichen zu erkunden, das fantastische Fotomotive abseits der großen Touristenmassen bietet.",
+            "hu": "Hozzon magával erős cipőt ennek a zord tengerparti nevezetességnek a felfedezéséhez, amely fantasztikus fotózási lehetőségeket kínál távol a turisták tömegétől.",
+            "ro": "Aduceți încălțăminte rezistentă pentru a explora acest reper de coastă accidentat, care oferă oportunități fantastice de fotografiere departe de aglomerație.",
+            "en": "Bring sturdy shoes to explore this rugged coastal landmark, which offers fantastic photo opportunities away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Amari",
+            "hu": "Torre Amari",
+            "ro": "Torre Amari",
+            "en": "Torre Amari"
+          },
+          "coords": [
+            13.30293,
+            38.217683
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die stabilen Mauern dieses historischen Verteidigungsturms und achten Sie auf die Informationstafeln, die seine Rolle beim Küstenschutz erklären.",
+            "hu": "Vizsgálja meg e történelmi védelmi torony erős falait, és keresse meg a tájékoztató táblákat, amelyek elmagyarázzák a partvonal védelmében betöltött szerepét.",
+            "ro": "Examinați zidurile solide ale acestui turn defensiv istoric și căutați panourile informative care explică rolul său în protejarea coastei.",
+            "en": "Examine the sturdy walls of this historical defensive tower, and look for the interpretive panels that explain its role in protecting the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Capo Gallo",
+            "hu": "Faro di Capo Gallo",
+            "ro": "Faro di Capo Gallo",
+            "en": "Faro di Capo Gallo"
+          },
+          "coords": [
+            13.316651,
+            38.223503
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Leuchtturm hinauf, um den weiten Blick auf das Meer zu genießen, und planen Sie Ihren Besuch für den späten Nachmittag.",
+            "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz a lenyűgöző tengeri kilátásért, és időzítse látogatását a késő délutánra, amikor aranyfény fürdeti a zord partot.",
+            "ro": "Urcați până la acest far iconic pentru vederi maritime panoramice și planificați-vă vizita pentru după-amiaza târziu, când lumina aurie scaldă coasta accidentată.",
+            "en": "Hike up to this iconic lighthouse for sweeping maritime views, and time your visit for the late afternoon when the golden light bathes the rugged coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama",
+            "hu": "Panorama",
+            "ro": "Panorama",
+            "en": "Panorama"
+          },
+          "coords": [
+            13.307482,
+            38.219243
+          ],
+          "category": "natural",
+          "arrive_at": "14:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem atemberaubenden natürlichen Aussichtspunkt an, um Panoramaaufnahmen des Golfs zu machen, und stellen Sie sicher, dass Ihre Kamera genügend Speicherplatz hat.",
+            "hu": "Álljon meg ezen a lélegzetelállító természetes kilátóponton, hogy panorámaképeket készítsen az öbölről, ügyelve arra, hogy legyen elég hely a fényképezőgépén.",
+            "ro": "Opriți-vă la acest punct de belvedere natural uluitor pentru a face fotografii panoramice ale golfului, asigurându-vă că aveți suficient spațiu pe cameră.",
+            "en": "Stop at this breathtaking natural viewpoint to take panoramic shots of the gulf, making sure you have enough space on your camera for the scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit kulturellen Einblicken im Theater, bevor Sie den lebhaften Strand von Mondello entlangfahren. Gegen Mittag radeln Sie nach Norden, um die raue Küste bei Fossa del Gallo zu entdecken. Der Nachmittag führt Sie weiter zum historischen Torre Amari und dem ikonischen Leuchtturm. Beenden Sie Ihren aktiven Tag an einem atemberaubenden Aussichtspunkt über den Golf.",
+        "hu": "Kerékpáros utazása a színház kulturális látnivalóival kezdődik, majd végigteker a nyüzsgő Mondello strandon. Dél körül pedálozzon észak felé, hogy felfedezze a zord partvonalat a Fossa del Gallónál. A délután továbbviszi a történelmi Torre Amarihoz és az ikonikus világítótoronyhoz. Zárja aktív napját egy lenyűgöző panorámás kilátóponton, ahonnan kilátás nyílik az egész öbölre.",
+        "ro": "Călătoria cu bicicleta începe cu informații culturale la teatru, înainte de a pedala de-a lungul plajei vibrante Mondello. Pe la prânz, mergeți spre nord pentru a descoperi coasta la Fossa del Gallo. După-amiaza vă duce mai departe către istoricul Torre Amari și farul iconic. Încheiați ziua activă la un punct de belvedere panoramic uimitor cu vedere la întregul golf superb.",
+        "en": "Your cycling journey begins with cultural insights at the Teatro Vito Zappallà before cruising along the vibrant Mondello beach. Around midday, pedal northwards to discover the rugged coastline at Fossa del Gallo. The afternoon takes you further out to the historical Torre Amari and the iconic Faro. End your active day at a stunning panoramic viewpoint overlooking the entire beautiful gulf."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maria Santissima Assunta",
+            "hu": "Maria Santissima Assunta",
+            "ro": "Maria Santissima Assunta",
+            "en": "Maria Santissima Assunta"
+          },
+          "coords": [
+            13.330841,
+            38.19544
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche früh, um ihre Architektur im ruhigen Morgenlicht zu bewundern, und kleiden Sie sich aus Respekt vor lokalen Bräuchen angemessen.",
+            "hu": "Látogassa meg ezt a békés templomot korán, hogy megcsodálja építészetét a csendes reggeli fényben, és öltözzön szerényen a helyi szokások tiszteletben tartásával.",
+            "ro": "Vizitați această biserică liniștită devreme pentru a-i admira arhitectura în lumina blândă a dimineții și îmbrăcați-vă decent din respect pentru obiceiurile locale.",
+            "en": "Visit this peaceful church early to admire its architecture in the quiet morning light, and dress modestly out of respect for local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondello",
+            "hu": "Mondello",
+            "ro": "Mondello",
+            "en": "Mondello"
+          },
+          "coords": [
+            13.329005,
+            38.200577
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den berühmten weißen Sand und am kristallklaren Wasser des Strandes von Mondello entlang und holen Sie sich einen schnellen Espresso an einem Kiosk.",
+            "hu": "Sétáljon végig a Mondello strand híres fehér homokján és kristálytiszta vize mentén, és igyon egy gyors eszpresszót egy tengerparti kioszkban, hogy energiát gyűjtsön.",
+            "ro": "Plimbați-vă de-a lungul celebrului nisip alb și a apelor cristaline ale plajei Mondello și luați un espresso rapid la un chioșc de pe malul mării.",
+            "en": "Stroll along the famous white sands and crystalline waters of Mondello beach, and grab a quick espresso at a seaside kiosk to fuel your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Orientata Capo Gallo",
+            "hu": "Riserva Naturale Orientata Capo Gallo",
+            "ro": "Riserva Naturale Orientata Capo Gallo",
+            "en": "Riserva Naturale Orientata Capo Gallo"
+          },
+          "coords": [
+            13.303042,
+            38.209804
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Packen Sie ausreichend Wasser und Sonnencreme für eine Wanderung durch dieses atemberaubende Naturschutzgebiet ein, wo steile Klippen direkt ins blaue Meer fallen.",
+            "hu": "Csomagoljon sok vizet és naptejet egy túrához ebben a lenyűgöző természetvédelmi területen, ahol a drámai sziklák egyenesen a kék tengerbe szakadnak.",
+            "ro": "Luați multă apă și cremă de protecție solară pentru o drumeție prin această rezervație naturală uimitoare, unde stâncile dramatice coboară direct în marea albastră.",
+            "en": "Pack plenty of water and sunscreen for a hike through this stunning nature reserve, where the dramatic cliffs drop directly into the vibrant blue sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Amari",
+            "hu": "Torre Amari",
+            "ro": "Torre Amari",
+            "en": "Torre Amari"
+          },
+          "coords": [
+            13.30293,
+            38.217683
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die stabilen Mauern dieses historischen Verteidigungsturms und achten Sie auf die Informationstafeln, die seine Rolle beim Küstenschutz erklären.",
+            "hu": "Vizsgálja meg e történelmi védelmi torony erős falait, és keresse meg a tájékoztató táblákat, amelyek elmagyarázzák a partvonal védelmében betöltött szerepét.",
+            "ro": "Examinați zidurile solide ale acestui turn defensiv istoric și căutați panourile informative care explică rolul său în protejarea coastei.",
+            "en": "Examine the sturdy walls of this historical defensive tower, and look for the interpretive panels that explain its role in protecting the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama",
+            "hu": "Panorama",
+            "ro": "Panorama",
+            "en": "Panorama"
+          },
+          "coords": [
+            13.307482,
+            38.219243
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem atemberaubenden natürlichen Aussichtspunkt an, um Panoramaaufnahmen des Golfs zu machen, und stellen Sie sicher, dass Ihre Kamera genügend Speicherplatz hat.",
+            "hu": "Álljon meg ezen a lélegzetelállító természetes kilátóponton, hogy panorámaképeket készítsen az öbölről, ügyelve arra, hogy legyen elég hely a fényképezőgépén.",
+            "ro": "Opriți-vă la acest punct de belvedere natural uluitor pentru a face fotografii panoramice ale golfului, asigurându-vă că aveți suficient spațiu pe cameră.",
+            "en": "Stop at this breathtaking natural viewpoint to take panoramic shots of the gulf, making sure you have enough space on your camera for the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Capo Gallo",
+            "hu": "Faro di Capo Gallo",
+            "ro": "Faro di Capo Gallo",
+            "en": "Faro di Capo Gallo"
+          },
+          "coords": [
+            13.316651,
+            38.223503
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Leuchtturm hinauf, um den weiten Blick auf das Meer zu genießen, und planen Sie Ihren Besuch für den späten Nachmittag.",
+            "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz a lenyűgöző tengeri kilátásért, és időzítse látogatását a késő délutánra, amikor aranyfény fürdeti a zord partot.",
+            "ro": "Urcați până la acest far iconic pentru vederi maritime panoramice și planificați-vă vizita pentru după-amiaza târziu, când lumina aurie scaldă coasta accidentată.",
+            "en": "Hike up to this iconic lighthouse for sweeping maritime views, and time your visit for the late afternoon when the golden light bathes the rugged coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem Besuch der friedlichen Kirche Assunta und einem Spaziergang am legendären Strand von Mondello. Mittags fahren Sie in Richtung des Reservats Capo Gallo für einen Naturspaziergang. Verbringen Sie Ihren Nachmittag damit, den historischen Torre Amari zu erkunden und die weite Aussicht von einem Küstenpanorama zu genießen. Erreichen Sie schließlich den Leuchtturm.",
+        "hu": "Kezdje autós túráját a békés Assunta templom meglátogatásával és egy frissítő sétával Mondello ikonikus strandján. Délben tegyen egy festői utazást a Capo Gallo rezervátum felé egy természetjárásra. Töltse a délutánt a történelmi Torre Amari felfedezésével és a tengerparti panoráma nyújtotta széles kilátással. Végül érje el a Capo Gallo világítótornyot egy fenséges naplementéért.",
+        "ro": "Începeți turul cu mașina vizitând biserica pașnică Assunta și făcând o plimbare răcoritoare pe plaja iconică Mondello. Prânzul aduce o plimbare pitorească spre rezervația Capo Gallo pentru o plimbare în natură. Petreceți-vă după-amiaza explorând istoricul Torre Amari și bucurându-vă de priveliști ample dintr-o panoramă a coastei. În cele din urmă, ajungeți la far pentru apus.",
+        "en": "Kick off your driving tour by visiting the peaceful Assunta church and taking a refreshing walk on Mondello's iconic beach. Midday brings a scenic drive towards the Capo Gallo reserve for an immersive nature walk. Spend your afternoon exploring the historical Torre Amari and taking in sweeping views from a coastal panorama. Finally, reach the Capo Gallo lighthouse for a majestic sunset."
+      }
+    }
+  }
+}

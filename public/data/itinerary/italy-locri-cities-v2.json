@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-locri-cities-v2",
+  "anchor": {
+    "name": "Locri",
+    "coords": [
+      16.26551,
+      38.23854
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria del Mastro",
+            "hu": "Cattedrale di Santa Maria del Mastro",
+            "ro": "Cattedrale di Santa Maria del Mastro",
+            "en": "Cattedrale di Santa Maria del Mastro"
+          },
+          "coords": [
+            16.260909,
+            38.236538
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses wichtigen religiösen Zentrums und prüfen Sie das schwarze Brett auf lokale Choraufführungen.",
+            "hu": "Csodálja meg e fontos vallási központ feltűnő építészetét, és mindenképpen ellenőrizze a faliújságon a helyi kórusok fellépéseinek időpontjait.",
+            "ro": "Admirați arhitectura remarcabilă a acestui centru religios vital și asigurați-vă că verificați avizierul pentru programul corurilor locale.",
+            "en": "Admire the striking architecture of this vital religious centerpiece, and be sure to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Ara Patria",
+            "hu": "Ara Patria",
+            "ro": "Ara Patria",
+            "en": "Ara Patria"
+          },
+          "coords": [
+            16.264552,
+            38.236438
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Halten Sie inne an diesem feierlichen Denkmal für die Gefallenen, das am besten im sanften Morgenlicht für ruhige Besinnung und Fotos besucht wird.",
+            "hu": "Gondolkozzon el ezen az elesetteknek szentelt ünnepélyes történelmi emlékművön, amelyet a legjobb a lágy reggeli fényben felkeresni fotózáshoz.",
+            "ro": "Reflectați la acest monument istoric solemn dedicat celor căzuți, cel mai bine vizitat în lumina blândă a dimineții pentru o contemplare liniștită.",
+            "en": "Reflect at this solemn historical monument dedicated to the fallen, best visited in the soft morning light for quiet contemplation and photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Territorio",
+            "hu": "Museo del Territorio",
+            "ro": "Museo del Territorio",
+            "en": "Museo del Territorio"
+          },
+          "coords": [
+            16.266561,
+            38.236212
+          ],
+          "category": "museum",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende regionale Artefakte, die Locris antike Ursprünge enthüllen, aber bringen Sie eine leichte Jacke mit, da die Räume klimatisiert sind.",
+            "hu": "Fedezze fel a Locri ősi eredetét bemutató lenyűgöző regionális leleteket, de hozzon magával egy könnyű kabátot, mivel a kiállítótermek erősen légkondicionáltak.",
+            "ro": "Explorați artefactele regionale fascinante care dezvăluie originile antice ale orașului Locri, dar luați o jachetă ușoară deoarece sălile sunt foarte climatizate.",
+            "en": "Explore fascinating regional artifacts that reveal Locri’s ancient origins, but remember to bring a light jacket as the exhibition rooms are heavily air-conditioned."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai 5 martiri di Gerace",
+            "hu": "Monumento ai 5 martiri di Gerace",
+            "ro": "Monumento ai 5 martiri di Gerace",
+            "en": "Monumento ai 5 martiri di Gerace"
+          },
+          "coords": [
+            16.265634,
+            38.234543
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden Tribut an lokale Freiheitskämpfer Ihren Respekt und lesen Sie die eingravierten Namen, bevor Sie zur Küstenpromenade weitergehen.",
+            "hu": "Rójja le tiszteletét a helyi szabadságharcosok előtt ezen a megható emlékművön, és szánjon egy percet a nevek elolvasására, mielőtt a tengerparti sétány felé indulna.",
+            "ro": "Aduceți un omagiu la acest tribut emoționant adus luptătorilor locali pentru libertate și citiți numele inscripționate înainte de a continua spre promenada de coastă.",
+            "en": "Pay your respects at this poignant tribute to local freedom fighters, and take a moment to read the inscribed names before continuing towards the coastal promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Scialai",
+            "hu": "Scialai",
+            "ro": "Scialai",
+            "en": "Scialai"
+          },
+          "coords": [
+            16.269221,
+            38.235964
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lebhaften Ort am Meer, wo sich Einheimische nachmittags treffen, und probieren Sie den charakteristischen Zitrus-Spritz zur Erfrischung.",
+            "hu": "Kapcsolódjon ki ezen a nyüzsgő tengerparti helyen, ahol a helyiek délutánonként összegyűlnek, és kóstolja meg a jellegzetes citrusos fröccsüket egy séta után.",
+            "ro": "Relaxați-vă în acest loc vibrant de la malul mării unde localnicii se adună după-amiaza și încercați spritz-ul lor cu citrice pentru a vă răcori după o plimbare.",
+            "en": "Unwind at this vibrant seaside spot where locals gather for afternoon refreshments, and try their signature citrus spritz to cool down after a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "La Playa",
+            "hu": "La Playa",
+            "ro": "La Playa",
+            "en": "La Playa"
+          },
+          "coords": [
+            16.268247,
+            38.234835
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sandstrände und sanften Wellen in diesem beliebten Strandclub und kommen Sie am frühen Nachmittag, um sich eine Sonnenliege am Wasser zu sichern.",
+            "hu": "Élvezze a homokos partot és a lágy hullámokat ebben a népszerű strandklubban, és érkezzen kora délután, hogy biztosítson egy kényelmes napágyat a víz közelében.",
+            "ro": "Bucurați-vă de țărmurile de nisip și valurile blânde la acest club de plajă popular, ajungând puțin mai devreme pentru a obține un șezlong confortabil lângă apă.",
+            "en": "Enjoy the sandy shores and gentle waves at this popular beach club, arriving a bit earlier in the afternoon to secure a comfortable sunbed near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im spirituellen Herzen von Locri an der majestätischen Kathedrale, gefolgt von einem feierlichen Moment am Ara Patria Denkmal.\n\nDer Mittag ist der Entdeckung der antiken Wurzeln der Region im Museo del Territorio gewidmet.\n\nAm Nachmittag erweisen Sie am Märtyrerdenkmal die Ehre, bevor Sie zur lebhaften Küstenszene bei Scialai schlendern.\n\nWenn der Abend hereinbricht, entspannen Sie im goldenen Sand von La Playa und lassen Sie die sanften Wellen des Ionischen Meeres Ihre Sorgen wegspülen.",
+        "hu": "Kezdje a reggelt Locri spirituális szívében, a fenséges katedrálisnál, majd egy ünnepélyes pillanattal az Ara Patria emlékműnél.\n\nA dél az ókori gyökerek felfedezésének van szentelve a Museo del Territorio-ban.\n\nDélután rójja le tiszteletét a vértanúk emlékművénél, mielőtt a Scialai nyüzsgő tengerparti életébe csöppenne.\n\nAhogy leszáll az este, kapcsolódjon ki a La Playa arany homokján, és hagyja, hogy a Jón-tenger lágy hullámai elmossák gondjait.",
+        "ro": "Începeți dimineața în inima spirituală din Locri la maiestuoasa Catedrală, urmată de un moment solemn la monumentul Ara Patria.\n\nAmiaza este dedicată descoperirii rădăcinilor antice ale regiunii la Museo del Territorio.\n\nDupă-amiaza, aduceți un omagiu la monumentul martirilor înainte de a vă plimba spre scena de coastă vibrantă de la Scialai.\n\nPe măsură ce se lasă seara, relaxați-vă pe nisipurile aurii de la La Playa, lăsând valurile blânde ale Mării Ionice să vă spele grijile.",
+        "en": "Begin your morning in the spiritual heart of Locri at the majestic Cathedral, followed by a solemn moment at the Ara Patria monument.\n\nMidday is dedicated to uncovering the ancient Greek and Roman roots of the region at the Museo del Territorio.\n\nIn the afternoon, pay tribute at the martyrs' monument before strolling towards the vibrant coastal scene at Scialai.\n\nAs evening falls, unwind on the golden sands of La Playa, letting the gentle Ionian waves wash your cares away."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.77,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Territorio",
+            "hu": "Museo del Territorio",
+            "ro": "Museo del Territorio",
+            "en": "Museo del Territorio"
+          },
+          "coords": [
+            16.266561,
+            38.236212
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende regionale Artefakte, die Locris antike Ursprünge enthüllen, aber bringen Sie eine leichte Jacke mit, da die Räume klimatisiert sind.",
+            "hu": "Fedezze fel a Locri ősi eredetét bemutató lenyűgöző regionális leleteket, de hozzon magával egy könnyű kabátot, mivel a kiállítótermek erősen légkondicionáltak.",
+            "ro": "Explorați artefactele regionale fascinante care dezvăluie originile antice ale orașului Locri, dar luați o jachetă ușoară deoarece sălile sunt foarte climatizate.",
+            "en": "Explore fascinating regional artifacts that reveal Locri’s ancient origins, but remember to bring a light jacket as the exhibition rooms are heavily air-conditioned."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal theater",
+            "hu": "Municipal theater",
+            "ro": "Municipal theater",
+            "en": "Municipal theater"
+          },
+          "coords": [
+            16.271948,
+            38.241351
+          ],
+          "category": "cultural",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des kulturellen Herzens der Stadt und werfen Sie einen Blick durch die Haupttüren in das wunderschöne Foyer, falls geöffnet.",
+            "hu": "Csodálja meg a város kulturális központjának elegáns homlokzatát, és pillantson be a főajtókon keresztül, hogy megcsodálhassa a gyönyörű előcsarnokot, ha nyitva van.",
+            "ro": "Admirați fațada elegantă a inimii culturale a orașului și priviți prin ușile principale pentru a prinde o privire a frumosului foaier dacă acesta este deschis.",
+            "en": "Admire the elegant facade of the town's cultural heart, and peek through the main doors to catch a glimpse of the beautiful foyer if it happens to be open."
+          }
+        },
+        {
+          "name": {
+            "de": "East Coast Windsurfing",
+            "hu": "East Coast Windsurfing",
+            "ro": "East Coast Windsurfing",
+            "en": "East Coast Windsurfing"
+          },
+          "coords": [
+            16.272811,
+            38.239621
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie spannende Wassersportarten oder mieten Sie selbst ein Brett an diesem aktiven Strand und fragen Sie die freundlichen Lehrer nach den Windverhältnissen.",
+            "hu": "Nézzen izgalmas vízisportokat, vagy béreljen saját deszkát ezen az aktív partszakaszon, és mindenképpen kérdezze meg a barátságos oktatókat a napi szélviszonyokról.",
+            "ro": "Urmăriți sporturi nautice palpitante sau închiriați o placă la acest centru activ, asigurându-vă că întrebați instructorii prietenoși despre curenții de vânt.",
+            "en": "Watch thrilling watersports or rent a board yourself at this active beach hub, making sure to ask the friendly instructors about the daily wind patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Mister Pub Beach",
+            "hu": "Mister Pub Beach",
+            "ro": "Mister Pub Beach",
+            "en": "Mister Pub Beach"
+          },
+          "coords": [
+            16.270706,
+            38.237405
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit einem lässigen Snack und einem kalten Getränk direkt im Sand und schnappen Sie sich einen Tisch unter dem schattigen Vordach.",
+            "hu": "Pihenjen egy laza harapnivalóval és hideg itallal közvetlenül a homokban, és foglaljon asztalt az árnyékos lombkorona alatt, hogy elkerülje az erős délutáni napot.",
+            "ro": "Relaxați-vă cu o gustare casual și o băutură rece direct pe nisip și alegeți o masă sub copertina umbrită pentru a scăpa de soarele puternic al după-amiezii.",
+            "en": "Relax with a casual bite and cold beverage right on the sand, and grab a table under the shaded canopy to escape the peak afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai 5 martiri di Gerace",
+            "hu": "Monumento ai 5 martiri di Gerace",
+            "ro": "Monumento ai 5 martiri di Gerace",
+            "en": "Monumento ai 5 martiri di Gerace"
+          },
+          "coords": [
+            16.265634,
+            38.234543
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden Tribut an lokale Freiheitskämpfer Ihren Respekt und lesen Sie die eingravierten Namen, bevor Sie zur Küstenpromenade weitergehen.",
+            "hu": "Rójja le tiszteletét a helyi szabadságharcosok előtt ezen a megható emlékművön, és szánjon egy percet a nevek elolvasására, mielőtt a tengerparti sétány felé indulna.",
+            "ro": "Aduceți un omagiu la acest tribut emoționant adus luptătorilor locali pentru libertate și citiți numele inscripționate înainte de a continua spre promenada de coastă.",
+            "en": "Pay your respects at this poignant tribute to local freedom fighters, and take a moment to read the inscribed names before continuing towards the coastal promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti del Mare",
+            "hu": "Monumento ai Caduti del Mare",
+            "ro": "Monumento ai Caduti del Mare",
+            "en": "Monumento ai Caduti del Mare"
+          },
+          "coords": [
+            16.264562,
+            38.231418
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Ehren Sie die Erinnerung an die auf See Gebliebenen an diesem berührenden Denkmal, einem perfekten Ort, um innezuhalten und den weiten Blick auf das Ionische Meer zu genießen.",
+            "hu": "Tisztelegjen a tengeren elveszettek emléke előtt ennél a megható emlékműnél, amely tökéletes hely arra, hogy megálljon és élvezze a Jón-tenger lenyűgöző kilátását.",
+            "ro": "Onorați amintirea celor pierduți pe mare la acest memorial emoționant, un loc perfect pentru a vă opri și a aprecia priveliștile panoramice ale Mării Ionice.",
+            "en": "Honor the memory of those lost at sea at this touching memorial, a perfect spot to pause and appreciate the sweeping views of the Ionian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Ultima Spiaggia",
+            "hu": "Ultima Spiaggia",
+            "ro": "Ultima Spiaggia",
+            "en": "Ultima Spiaggia"
+          },
+          "coords": [
+            16.260325,
+            38.226938
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise in diesem entspannten südlichen Strandclub, wo Sie ein Paddleboard für ein friedliches abendliches Gleiten an der Küste mieten können.",
+            "hu": "Zárja tengerparti utazását ebben a nyugodt déli strandklubban, ahol evezős deszkát bérelhet egy békés esti sikláshoz a nyugodt tengerpart mentén.",
+            "ro": "Încheiați călătoria dvs. de coastă la acest club de plajă relaxat din sud, unde puteți închiria un paddleboard pentru o plimbare pașnică de seară de-a lungul coastei.",
+            "en": "Conclude your coastal journey at this relaxed southern beach club, where you can rent a paddleboard for a peaceful evening glide along the serene coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einer historischen Reise im örtlichen Museum, bevor Sie die Fassade des Stadttheaters bewundern.\n\nDer Mittag bringt Sie zur lebhaften Küste beim East Coast Windsurfing, gepaart mit einem entspannten Mittagessen am Strand im Mister Pub Beach.\n\nIhre Nachmittagsfahrt führt vorbei an bewegenden lokalen Denkmälern.\n\nBeenden Sie Ihren energiegeladenen Tag mit einer Abkühlung und Entspannung im ruhigen Club Ultima Spiaggia bei Sonnenuntergang.",
+        "hu": "Kezdje a kerékpártúrát egy történelmi utazással a helyi múzeumban, mielőtt megcsodálná a Városi Színház homlokzatát.\n\nA dél a nyüzsgő tengerparthoz vezet az East Coast Windsurfingnél, amely tökéletesen párosul egy könnyű tengerparti ebéddel a Mister Pub Beach-en.\n\nDélutáni útja megható helyi emlékművek mellett halad el.\n\nFejezze be energikus napját hűsöléssel és pihenéssel a nyugodt Ultima Spiaggia klubban, ahogy a nap lenyugszik.",
+        "ro": "Începeți traseul de ciclism cu o călătorie istorică la muzeul local înainte de a admira fațada teatrului municipal.\n\nAmiaza vă aduce pe țărmul plin de viață la East Coast Windsurfing, perfect asociat cu un prânz casual pe plajă la Mister Pub Beach.\n\nCălătoria de după-amiază trece pe lângă monumente locale emoționante.\n\nTerminați ziua plină de energie răcorindu-vă și relaxându-vă la clubul liniștit Ultima Spiaggia în timp ce soarele apune.",
+        "en": "Start your cycling route with an immersive historical journey at the local museum before admiring the facade of the Municipal theater.\n\nMidday brings you to the lively shoreline at East Coast Windsurfing, perfectly paired with a casual beachside lunch at Mister Pub Beach.\n\nYour afternoon ride glides past moving local monuments honoring martyrs and those lost at sea.\n\nFinish your energetic day by cooling off and relaxing at the serene Ultima Spiaggia club as the sun goes down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 5.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria del Mastro",
+            "hu": "Cattedrale di Santa Maria del Mastro",
+            "ro": "Cattedrale di Santa Maria del Mastro",
+            "en": "Cattedrale di Santa Maria del Mastro"
+          },
+          "coords": [
+            16.260909,
+            38.236538
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses wichtigen religiösen Zentrums und prüfen Sie das schwarze Brett auf lokale Choraufführungen.",
+            "hu": "Csodálja meg e fontos vallási központ feltűnő építészetét, és mindenképpen ellenőrizze a faliújságon a helyi kórusok fellépéseinek időpontjait.",
+            "ro": "Admirați arhitectura remarcabilă a acestui centru religios vital și asigurați-vă că verificați avizierul pentru programul corurilor locale.",
+            "en": "Admire the striking architecture of this vital religious centerpiece, and be sure to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Territorio",
+            "hu": "Museo del Territorio",
+            "ro": "Museo del Territorio",
+            "en": "Museo del Territorio"
+          },
+          "coords": [
+            16.266561,
+            38.236212
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende regionale Artefakte, die Locris antike Ursprünge enthüllen, aber bringen Sie eine leichte Jacke mit, da die Räume klimatisiert sind.",
+            "hu": "Fedezze fel a Locri ősi eredetét bemutató lenyűgöző regionális leleteket, de hozzon magával egy könnyű kabátot, mivel a kiállítótermek erősen légkondicionáltak.",
+            "ro": "Explorați artefactele regionale fascinante care dezvăluie originile antice ale orașului Locri, dar luați o jachetă ușoară deoarece sălile sunt foarte climatizate.",
+            "en": "Explore fascinating regional artifacts that reveal Locri’s ancient origins, but remember to bring a light jacket as the exhibition rooms are heavily air-conditioned."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal theater",
+            "hu": "Municipal theater",
+            "ro": "Municipal theater",
+            "en": "Municipal theater"
+          },
+          "coords": [
+            16.271948,
+            38.241351
+          ],
+          "category": "cultural",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des kulturellen Herzens der Stadt und werfen Sie einen Blick durch die Haupttüren in das wunderschöne Foyer, falls geöffnet.",
+            "hu": "Csodálja meg a város kulturális központjának elegáns homlokzatát, és pillantson be a főajtókon keresztül, hogy megcsodálhassa a gyönyörű előcsarnokot, ha nyitva van.",
+            "ro": "Admirați fațada elegantă a inimii culturale a orașului și priviți prin ușile principale pentru a prinde o privire a frumosului foaier dacă acesta este deschis.",
+            "en": "Admire the elegant facade of the town's cultural heart, and peek through the main doors to catch a glimpse of the beautiful foyer if it happens to be open."
+          }
+        },
+        {
+          "name": {
+            "de": "La Capannina",
+            "hu": "La Capannina",
+            "ro": "La Capannina",
+            "en": "La Capannina"
+          },
+          "coords": [
+            16.274999,
+            38.242036
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich authentische kalabrische Meeresfrüchtegerichte direkt am Wasser und fragen Sie den Kellner nach dem frischen Fang des Tages statt nach der Speisekarte.",
+            "hu": "Kényeztesse magát autentikus calabriai tengeri ételekkel közvetlenül a vízparton, és mindenképpen kérdezze meg a pincért a napi friss fogásról az állandó étlap helyett.",
+            "ro": "Răsfățați-vă cu preparate autentice din fructe de mare calabreze chiar lângă apă și asigurați-vă că întrebați ospătarul despre captura proaspătă a zilei.",
+            "en": "Indulge in authentic Calabrian seafood dishes right by the water, and be sure to ask the waiter for the fresh catch of the day rather than the regular menu."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hotel President",
+            "hu": "Grand Hotel President",
+            "ro": "Grand Hotel President",
+            "en": "Grand Hotel President"
+          },
+          "coords": [
+            16.284144,
+            38.254117
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Hauch von lokalem Luxus bei einem Besuch der gepflegten Anlagen dieses markanten Hotels und machen Sie eine Pause auf der Terrassenlounge für einen Nachmittagskaffee.",
+            "hu": "Tapasztalja meg a helyi luxus egy csipetnyi részét e kiemelkedő szálloda gondozott területének meglátogatásával, és fontolja meg, hogy megáll a teraszukon egy délutáni kávéra.",
+            "ro": "Experimentați o notă de lux local vizitând terenurile îngrijite ale acestui hotel proeminent și luați în considerare o oprire la lounge-ul terasei pentru o cafea de după-amiază.",
+            "en": "Experience a touch of local luxury by visiting the manicured grounds of this prominent hotel, and consider stopping at their terrace lounge for an afternoon coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Tropea",
+            "hu": "Lido Tropea",
+            "ro": "Lido Tropea",
+            "en": "Lido Tropea"
+          },
+          "coords": [
+            16.266384,
+            38.233011
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.81,
+          "tip_5lang": {
+            "de": "Genießen Sie das Ambiente am späten Nachmittag an diesem einladenden Strandabschnitt, der sich perfekt für einen gemütlichen Spaziergang eignet, wenn es abkühlt.",
+            "hu": "Szívja magába a késő délutáni hangulatot ezen a hívogató partszakaszon, amely tökéletesen alkalmas egy kényelmes sétára, ahogy a nap kezd lehűlni.",
+            "ro": "Bucurați-vă de ambianța de la sfârșitul după-amiezii pe această porțiune primitoare de plajă, perfect potrivită pentru o plimbare relaxantă pe măsură ce se răcorește.",
+            "en": "Soak in the late afternoon ambiance at this welcoming stretch of beach, perfectly suited for a leisurely stroll as the day begins to cool down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im historischen Zentrum mit Besuchen der markanten Kathedrale und des facettenreichen Museo del Territorio.\n\nFahren Sie gegen Mittag am eleganten Stadttheater vorbei und sichern Sie sich ein wunderbares Essen am Meer in La Capannina.\n\nVerbringen Sie einen luxuriösen Nachmittag auf dem wunderschön gepflegten Gelände des Grand Hotel President.\n\nParken Sie schließlich in der Nähe des Lido Tropea, um einen herrlichen Küstenspaziergang und einen friedlichen Abend am Meer zu genießen.",
+        "hu": "Utazása a történelmi központban kezdődik a lenyűgöző katedrális és a műtárgyakban gazdag Museo del Territorio meglátogatásával.\n\nDélre haladjon el az elegáns Városi Színház mellett, és fogyasszon el egy csodálatos tengerparti ebédet a La Capanninában.\n\nTöltsön el egy fényűző délutánt a Grand Hotel President gyönyörűen gondozott területének felfedezésével.\n\nVégül parkoljon le a Lido Tropea közelében, hogy élvezze a gyönyörű tengerparti sétát és egy békés estét a tenger mellett.",
+        "ro": "Călătoria dvs. începe în centrul istoric cu vizite la impresionanta Catedrală și bogatul Museo del Territorio.\n\nPână la amiază, treceți pe lângă elegantul teatru municipal și bucurați-vă de o minunată masă la malul mării la La Capannina.\n\nPetreceți o după-amiază luxoasă explorând terenurile frumos îngrijite ale Grand Hotel President.\n\nÎn cele din urmă, parcați lângă Lido Tropea pentru a vă bucura de o plimbare superbă pe coastă și o seară liniștită la malul mării.",
+        "en": "Your drive begins in the historic center with visits to the striking Cathedral and the artifact-rich Museo del Territorio.\n\nBy midday, cruise past the elegant Municipal theater and secure a wonderful seaside meal at La Capannina.\n\nSpend a luxurious afternoon exploring the beautifully manicured grounds of the Grand Hotel President just north of town.\n\nFinally, park near Lido Tropea to enjoy a beautiful coastal walk and a peaceful evening by the sea."
+      }
+    }
+  }
+}

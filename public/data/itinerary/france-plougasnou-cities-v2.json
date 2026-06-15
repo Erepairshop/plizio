@@ -1,0 +1,566 @@
+{
+  "city_id": "france-plougasnou-cities-v2",
+  "anchor": {
+    "name": "Plougasnou",
+    "coords": [
+      -3.79223,
+      48.69591
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -3.792064,
+            48.696194
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser alten Steinkirche und gönnen Sie sich drinnen einen ruhigen Moment, am besten im morgendlichen Licht.",
+            "hu": "Csodálja meg ezen ősi kőtemplom lenyűgöző építészetét, és töltsön el egy csendes pillanatot bent, lehetőleg a reggeli fények idején.",
+            "ro": "Admirați arhitectura remarcabilă a acestei vechi biserici din piatră, bucurându-vă de un moment de liniște în interior, ideal în lumina dimineții.",
+            "en": "Admire the striking architecture of this ancient stone church before taking a quiet moment inside, and try to visit when the morning light highlights the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Les vieilles soupapes",
+            "hu": "Les vieilles soupapes",
+            "ro": "Les vieilles soupapes",
+            "en": "Les vieilles soupapes"
+          },
+          "coords": [
+            -3.785163,
+            48.692203
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kuriose Museum für historische Maschinen und Landwirtschaft und fragen Sie die leidenschaftlichen Helfer nach den funktionierenden Traktoren.",
+            "hu": "Fedezze fel ezt a régi gépeknek szentelt, különleges múzeumot, és feltétlenül kérdezze meg a lelkes helyi önkénteseket a működő traktorokról.",
+            "ro": "Explorați acest muzeu inedit dedicat mașinăriilor de epocă și istoriei rurale, neuitând să-i întrebați pe voluntarii pasionați despre tractoarele funcționale.",
+            "en": "Explore this quirky museum dedicated to vintage machinery and rural history, making sure to ask the passionate local volunteers about the working tractors."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison des Peintres",
+            "hu": "La Maison des Peintres",
+            "ro": "La Maison des Peintres",
+            "en": "La Maison des Peintres"
+          },
+          "coords": [
+            -3.772695,
+            48.692948
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunstgeschichte in dieser charmanten ehemaligen Künstlerresidenz, wobei Sie vorab den Zeitplan der saisonalen Ausstellungen prüfen sollten.",
+            "hu": "Ismerje meg a regionális művészettörténetet ebben a bájos egykori művészlakásban, és látogatás előtt érdemes ellenőrizni a szezonális kiállítások rendjét.",
+            "ro": "Descoperiți istoria artei regionale în această fostă reședință fermecătoare de artiști și verificați programul expozițiilor sezoniere înainte de a o vizita.",
+            "en": "Discover regional art history in this charming former artists' residence, and be sure to check the seasonal exhibit schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -3.772987,
+            48.694268
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die schöne bretonische Handwerkskunst dieser historischen Kirche am besten an einem ruhigen Wochentagnachmittag.",
+            "hu": "Élvezze e történelmi templom békés hangulatát és gyönyörű breton kézműves részleteit, amelyeket leginkább egy csendes hétköznap délután lehet értékelni.",
+            "ro": "Lăsați-vă învăluit de atmosfera senină și de măiestria bretonă a acestei biserici istorice, cel mai bine apreciate într-o după-amiază liniștită de zi lucrătoare.",
+            "en": "Take in the serene atmosphere and beautiful Breton craftsmanship of this historic church, which is best appreciated during a quiet weekday afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Troan Bihan",
+            "hu": "Menhir de Troan Bihan",
+            "ro": "Menhir de Troan Bihan",
+            "en": "Menhir de Troan Bihan"
+          },
+          "coords": [
+            -3.815578,
+            48.69607
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem uralten Menhir, um die prähistorische Bretagne zu spüren, und tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Álljon meg ezen ősi megalitikus kőoszlop mellett, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen stabil cipőt a masszív terep miatt.",
+            "ro": "Stați lângă acest menhir antic pentru a simți conexiunea cu Bretania preistorică, purtând încălțăminte rezistentă deoarece terenul din jur poate fi accidentat.",
+            "en": "Stand beside this ancient megalithic standing stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Tromelin",
+            "hu": "Manoir de Tromelin",
+            "ro": "Manoir de Tromelin",
+            "en": "Manoir de Tromelin"
+          },
+          "coords": [
+            -3.819256,
+            48.699261
+          ],
+          "category": "castle",
+          "arrive_at": "16:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhaften Merkmale dieses typisch bretonischen Herrenhauses von außen, da es sich um ein Privatgrundstück mit eingeschränktem Zugang handelt.",
+            "hu": "Csodálja meg kívülről ennek a jellegzetes breton udvarháznak az erődített vonásait, szem előtt tartva, hogy ez egy korlátozottan látogatható magánterület.",
+            "ro": "Admirați de afară detaliile fortificate ale acestui conac breton autentic, ținând cont de faptul că este o proprietate privată cu acces limitat.",
+            "en": "Marvel at the fortified features of this quintessential Breton manor house from the outside, keeping in mind that it is a private property with restricted access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Plougasnou und bewundern Sie die Église Saint-Pierre. Die morgendliche Luft sorgt für einen friedlichen Start Ihres Rundgangs.\n\nWandern Sie weiter zum kuriosen Museum Les vieilles soupapes, bevor Sie das künstlerische Erbe im charmanten La Maison des Peintres entdecken.\n\nNach der inspirierenden Kunst machen Sie Halt an der Église Saint-Jean-Baptiste und spazieren dann aufs Land zum uralten Menhir de Troan Bihan.\n\nBeenden Sie Ihren Tag am beeindruckenden Manoir de Tromelin. Die untergehende Sonne taucht das bretonische Mauerwerk in ein goldenes Licht.",
+        "hu": "Kezdje a napot Plougasnou központjában, és csodálja meg a lenyűgöző Église Saint-Pierre-t. A reggeli levegő békés alaphangot ad a gyalogos kalandnak.\n\nSétáljon át az érdekes Les vieilles soupapes múzeumhoz, ahol régi gépeket fedezhet fel, mielőtt átadná magát a La Maison des Peintres művészeti örökségének.\n\nA művészeti élmény után álljon meg az Église Saint-Jean-Baptiste templomnál, majd tegyen egy lendületes sétát a vidékre az ősi Menhir de Troan Bihan felé.\n\nZárja a napot a félelmetes Manoir de Tromelin udvarháznál. A lemenő nap aranyló fénye tökéletes befejezése ennek a tartalmas sétának.",
+        "ro": "Începeți ziua în centrul localității Plougasnou, admirând impresionanta Église Saint-Pierre. Aerul proaspăt de dimineață creează o atmosferă liniștită pentru plimbare.\n\nContinuați spre fascinantul muzeu Les vieilles soupapes pentru a descoperi farmecul vintage, înainte de a explora patrimoniul artistic de la La Maison des Peintres.\n\nDupă o vizită plină de inspirație, opriți-vă la Église Saint-Jean-Baptiste, apoi bucurați-vă de o drumeție în natură către anticul Menhir de Troan Bihan.\n\nÎncheiați-vă ziua la formidabilul Manoir de Tromelin. Soarele la apus aruncă o strălucire aurie pe zidăria bretonă, finalizând perfect plimbarea.",
+        "en": "Start your day in the center of Plougasnou, admiring the striking Église Saint-Pierre. The morning air sets a tranquil tone for your walking adventure.\n\nNext, wander towards the intriguing Les vieilles soupapes museum, discovering vintage charm before moving on to the artistic legacy at La Maison des Peintres.\n\nAfter an inspiring art visit, pause at Église Saint-Jean-Baptiste, then enjoy a brisk walk into the countryside to encounter the ancient Menhir de Troan Bihan.\n\nConclude your day at the formidable Manoir de Tromelin. The setting sun casts a golden glow on the Breton stonework, making for a perfect end to your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "La Maison des Peintres",
+            "hu": "La Maison des Peintres",
+            "ro": "La Maison des Peintres",
+            "en": "La Maison des Peintres"
+          },
+          "coords": [
+            -3.772695,
+            48.692948
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunstgeschichte in dieser charmanten ehemaligen Künstlerresidenz, wobei Sie vorab den Zeitplan der saisonalen Ausstellungen prüfen sollten.",
+            "hu": "Ismerje meg a regionális művészettörténetet ebben a bájos egykori művészlakásban, és látogatás előtt érdemes ellenőrizni a szezonális kiállítások rendjét.",
+            "ro": "Descoperiți istoria artei regionale în această fostă reședință fermecătoare de artiști și verificați programul expozițiilor sezoniere înainte de a o vizita.",
+            "en": "Discover regional art history in this charming former artists' residence, and be sure to check the seasonal exhibit schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -3.772987,
+            48.694268
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die schöne bretonische Handwerkskunst dieser historischen Kirche am besten an einem ruhigen Wochentagnachmittag.",
+            "hu": "Élvezze e történelmi templom békés hangulatát és gyönyörű breton kézműves részleteit, amelyeket leginkább egy csendes hétköznap délután lehet értékelni.",
+            "ro": "Lăsați-vă învăluit de atmosfera senină și de măiestria bretonă a acestei biserici istorice, cel mai bine apreciate într-o după-amiază liniștită de zi lucrătoare.",
+            "en": "Take in the serene atmosphere and beautiful Breton craftsmanship of this historic church, which is best appreciated during a quiet weekday afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Les vieilles soupapes",
+            "hu": "Les vieilles soupapes",
+            "ro": "Les vieilles soupapes",
+            "en": "Les vieilles soupapes"
+          },
+          "coords": [
+            -3.785163,
+            48.692203
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kuriose Museum für historische Maschinen und Landwirtschaft und fragen Sie die leidenschaftlichen Helfer nach den funktionierenden Traktoren.",
+            "hu": "Fedezze fel ezt a régi gépeknek szentelt, különleges múzeumot, és feltétlenül kérdezze meg a lelkes helyi önkénteseket a működő traktorokról.",
+            "ro": "Explorați acest muzeu inedit dedicat mașinăriilor de epocă și istoriei rurale, neuitând să-i întrebați pe voluntarii pasionați despre tractoarele funcționale.",
+            "en": "Explore this quirky museum dedicated to vintage machinery and rural history, making sure to ask the passionate local volunteers about the working tractors."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -3.792064,
+            48.696194
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser alten Steinkirche und gönnen Sie sich drinnen einen ruhigen Moment, am besten im morgendlichen Licht.",
+            "hu": "Csodálja meg ezen ősi kőtemplom lenyűgöző építészetét, és töltsön el egy csendes pillanatot bent, lehetőleg a reggeli fények idején.",
+            "ro": "Admirați arhitectura remarcabilă a acestei vechi biserici din piatră, bucurându-vă de un moment de liniște în interior, ideal în lumina dimineții.",
+            "en": "Admire the striking architecture of this ancient stone church before taking a quiet moment inside, and try to visit when the morning light highlights the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Troan Bihan",
+            "hu": "Menhir de Troan Bihan",
+            "ro": "Menhir de Troan Bihan",
+            "en": "Menhir de Troan Bihan"
+          },
+          "coords": [
+            -3.815578,
+            48.69607
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem uralten Menhir, um die prähistorische Bretagne zu spüren, und tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Álljon meg ezen ősi megalitikus kőoszlop mellett, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen stabil cipőt a masszív terep miatt.",
+            "ro": "Stați lângă acest menhir antic pentru a simți conexiunea cu Bretania preistorică, purtând încălțăminte rezistentă deoarece terenul din jur poate fi accidentat.",
+            "en": "Stand beside this ancient megalithic standing stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Tromelin",
+            "hu": "Manoir de Tromelin",
+            "ro": "Manoir de Tromelin",
+            "en": "Manoir de Tromelin"
+          },
+          "coords": [
+            -3.819256,
+            48.699261
+          ],
+          "category": "castle",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhaften Merkmale dieses typisch bretonischen Herrenhauses von außen, da es sich um ein Privatgrundstück mit eingeschränktem Zugang handelt.",
+            "hu": "Csodálja meg kívülről ennek a jellegzetes breton udvarháznak az erődített vonásait, szem előtt tartva, hogy ez egy korlátozottan látogatható magánterület.",
+            "ro": "Admirați de afară detaliile fortificate ale acestui conac breton autentic, ținând cont de faptul că este o proprietate privată cu acces limitat.",
+            "en": "Marvel at the fortified features of this quintessential Breton manor house from the outside, keeping in mind that it is a private property with restricted access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lourdes",
+            "hu": "Chapelle Notre-Dame-de-Lourdes",
+            "ro": "Chapelle Notre-Dame-de-Lourdes",
+            "en": "Chapelle Notre-Dame-de-Lourdes"
+          },
+          "coords": [
+            -3.811597,
+            48.710557
+          ],
+          "category": "religious",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Küstenkapelle wegen ihres maritimen Charmes und fotografieren Sie sie am besten vor der dramatischen Kulisse des Ozeans.",
+            "hu": "Látogasson el ebbe a festői tengerparti kápolnába tengerészeti bája miatt, és készítsen tökéletes fotókat a drámai óceáni háttérrel.",
+            "ro": "Vizitați această capelă de coastă pitorească pentru farmecul său maritim și istoria spirituală, încadrându-vă perfect fotografiile cu fundalul dramatic al oceanului.",
+            "en": "Visit this picturesque coastal chapel for its maritime charm and spiritual history, framing your photos perfectly against the dramatic ocean backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande plage de Primel-Tregastel",
+            "hu": "Grande plage de Primel-Tregastel",
+            "ro": "Grande plage de Primel-Tregastel",
+            "en": "Grande plage de Primel-Tregastel"
+          },
+          "coords": [
+            -3.810165,
+            48.712569
+          ],
+          "category": "recreational",
+          "arrive_at": "17:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen goldenen Sand dieses schönen Strandes und packen Sie eine Windjacke ein, um die frische Meeresbrise genießen zu können.",
+            "hu": "Pihenjen ezen a gyönyörű helyi strand széles, aranyhomokos partján, és ne felejtsen el széldzsekit hozni a friss tengeri szellő miatt.",
+            "ro": "Relaxați-vă pe nisipul auriu și întins al acestei plaje locale superbe, fără a uita să luați o jachetă de vânt pentru a vă bucura de briza mării.",
+            "en": "Relax on the expansive golden sands of this beautiful local beach, and don't forget to pack a windbreaker to comfortably enjoy the fresh coastal breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit lokaler Kultur im La Maison des Peintres. Die frische Morgenbrise ist perfekt für die Fahrt zur nahe gelegenen Église Saint-Jean-Baptiste.\n\nRadeln Sie zum Museum Les vieilles soupapes, um in die landwirtschaftliche Vergangenheit einzutauchen, gefolgt von einer entspannten Fahrt zur Église Saint-Pierre.\n\nDie Nachmittagsroute führt Sie aufs Land, wo der hoch aufragende Menhir de Troan Bihan und das imposante Manoir de Tromelin als Zeugen der Geschichte stehen.\n\nBeenden Sie den Tag an der Küste. Die malerische Chapelle Notre-Dame-de-Lourdes und der weite Strand von Primel-Tregastel bieten atemberaubende Ausblicke.",
+        "hu": "Kerékpártúrája egy adag helyi kultúrával indul a La Maison des Peintres-nél. A hűvös reggeli szellő tökéletes kísérő a közeli Église Saint-Jean-Baptiste felé.\n\nTekerjen át a Les vieilles soupapes múzeumhoz, hogy elmerüljön a régió mezőgazdasági múltjában, majd térjen vissza a központba az Église Saint-Pierre templomhoz.\n\nA délutáni útvonal a vidékre vezet, ahol a magasba törő Menhir de Troan Bihan és az impozáns Manoir de Tromelin állnak a történelem néma tanúiként.\n\nFejezze be a napot a tengerparton. A festői Chapelle Notre-Dame-de-Lourdes és a Grande plage de Primel-Tregastel lenyűgöző naplementés kilátást nyújtanak.",
+        "ro": "Turul pe bicicletă începe cu o doză de cultură locală la La Maison des Peintres. Briza dimineții este perfectă pentru a pedala spre Église Saint-Jean-Baptiste.\n\nPedalați spre Les vieilles soupapes pentru a descoperi trecutul agricol al regiunii, urmat de o plimbare plăcută spre centrul orașului la Église Saint-Pierre.\n\nTraseul de după-amiază vă duce în mediul rural, unde impunătorul Menhir de Troan Bihan și masivul Manoir de Tromelin stau ca martori tăcuți ai istoriei.\n\nTerminați ziua pe coastă. Pitoreasca Chapelle Notre-Dame-de-Lourdes și întinsa Grande plage de Primel-Tregastel oferă o priveliște uimitoare la apus.",
+        "en": "Your cycling tour kicks off with a dose of local culture at La Maison des Peintres. The crisp morning breeze is perfect as you ride to the nearby Église Saint-Jean-Baptiste.\n\nPedal over to Les vieilles soupapes to dive into the region's agricultural past, followed by a pleasant ride back to the town center to admire Église Saint-Pierre.\n\nThe afternoon route takes you into the countryside, where the towering Menhir de Troan Bihan stands as a silent witness to history, just before the imposing Manoir de Tromelin.\n\nFinish your day by the coast. The picturesque Chapelle Notre-Dame-de-Lourdes and the expansive Grande plage de Primel-Tregastel offer stunning sunset views over the ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -3.772987,
+            48.694268
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die schöne bretonische Handwerkskunst dieser historischen Kirche am besten an einem ruhigen Wochentagnachmittag.",
+            "hu": "Élvezze e történelmi templom békés hangulatát és gyönyörű breton kézműves részleteit, amelyeket leginkább egy csendes hétköznap délután lehet értékelni.",
+            "ro": "Lăsați-vă învăluit de atmosfera senină și de măiestria bretonă a acestei biserici istorice, cel mai bine apreciate într-o după-amiază liniștită de zi lucrătoare.",
+            "en": "Take in the serene atmosphere and beautiful Breton craftsmanship of this historic church, which is best appreciated during a quiet weekday afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison des Peintres",
+            "hu": "La Maison des Peintres",
+            "ro": "La Maison des Peintres",
+            "en": "La Maison des Peintres"
+          },
+          "coords": [
+            -3.772695,
+            48.692948
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunstgeschichte in dieser charmanten ehemaligen Künstlerresidenz, wobei Sie vorab den Zeitplan der saisonalen Ausstellungen prüfen sollten.",
+            "hu": "Ismerje meg a regionális művészettörténetet ebben a bájos egykori művészlakásban, és látogatás előtt érdemes ellenőrizni a szezonális kiállítások rendjét.",
+            "ro": "Descoperiți istoria artei regionale în această fostă reședință fermecătoare de artiști și verificați programul expozițiilor sezoniere înainte de a o vizita.",
+            "en": "Discover regional art history in this charming former artists' residence, and be sure to check the seasonal exhibit schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Les vieilles soupapes",
+            "hu": "Les vieilles soupapes",
+            "ro": "Les vieilles soupapes",
+            "en": "Les vieilles soupapes"
+          },
+          "coords": [
+            -3.785163,
+            48.692203
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kuriose Museum für historische Maschinen und Landwirtschaft und fragen Sie die leidenschaftlichen Helfer nach den funktionierenden Traktoren.",
+            "hu": "Fedezze fel ezt a régi gépeknek szentelt, különleges múzeumot, és feltétlenül kérdezze meg a lelkes helyi önkénteseket a működő traktorokról.",
+            "ro": "Explorați acest muzeu inedit dedicat mașinăriilor de epocă și istoriei rurale, neuitând să-i întrebați pe voluntarii pasionați despre tractoarele funcționale.",
+            "en": "Explore this quirky museum dedicated to vintage machinery and rural history, making sure to ask the passionate local volunteers about the working tractors."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -3.792064,
+            48.696194
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser alten Steinkirche und gönnen Sie sich drinnen einen ruhigen Moment, am besten im morgendlichen Licht.",
+            "hu": "Csodálja meg ezen ősi kőtemplom lenyűgöző építészetét, és töltsön el egy csendes pillanatot bent, lehetőleg a reggeli fények idején.",
+            "ro": "Admirați arhitectura remarcabilă a acestei vechi biserici din piatră, bucurându-vă de un moment de liniște în interior, ideal în lumina dimineții.",
+            "en": "Admire the striking architecture of this ancient stone church before taking a quiet moment inside, and try to visit when the morning light highlights the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Troan Bihan",
+            "hu": "Menhir de Troan Bihan",
+            "ro": "Menhir de Troan Bihan",
+            "en": "Menhir de Troan Bihan"
+          },
+          "coords": [
+            -3.815578,
+            48.69607
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem uralten Menhir, um die prähistorische Bretagne zu spüren, und tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Álljon meg ezen ősi megalitikus kőoszlop mellett, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen stabil cipőt a masszív terep miatt.",
+            "ro": "Stați lângă acest menhir antic pentru a simți conexiunea cu Bretania preistorică, purtând încălțăminte rezistentă deoarece terenul din jur poate fi accidentat.",
+            "en": "Stand beside this ancient megalithic standing stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Tromelin",
+            "hu": "Manoir de Tromelin",
+            "ro": "Manoir de Tromelin",
+            "en": "Manoir de Tromelin"
+          },
+          "coords": [
+            -3.819256,
+            48.699261
+          ],
+          "category": "castle",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhaften Merkmale dieses typisch bretonischen Herrenhauses von außen, da es sich um ein Privatgrundstück mit eingeschränktem Zugang handelt.",
+            "hu": "Csodálja meg kívülről ennek a jellegzetes breton udvarháznak az erődített vonásait, szem előtt tartva, hogy ez egy korlátozottan látogatható magánterület.",
+            "ro": "Admirați de afară detaliile fortificate ale acestui conac breton autentic, ținând cont de faptul că este o proprietate privată cu acces limitat.",
+            "en": "Marvel at the fortified features of this quintessential Breton manor house from the outside, keeping in mind that it is a private property with restricted access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lourdes",
+            "hu": "Chapelle Notre-Dame-de-Lourdes",
+            "ro": "Chapelle Notre-Dame-de-Lourdes",
+            "en": "Chapelle Notre-Dame-de-Lourdes"
+          },
+          "coords": [
+            -3.811597,
+            48.710557
+          ],
+          "category": "religious",
+          "arrive_at": "16:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Küstenkapelle wegen ihres maritimen Charmes und fotografieren Sie sie am besten vor der dramatischen Kulisse des Ozeans.",
+            "hu": "Látogasson el ebbe a festői tengerparti kápolnába tengerészeti bája miatt, és készítsen tökéletes fotókat a drámai óceáni háttérrel.",
+            "ro": "Vizitați această capelă de coastă pitorească pentru farmecul său maritim și istoria spirituală, încadrându-vă perfect fotografiile cu fundalul dramatic al oceanului.",
+            "en": "Visit this picturesque coastal chapel for its maritime charm and spiritual history, framing your photos perfectly against the dramatic ocean backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande plage de Primel-Tregastel",
+            "hu": "Grande plage de Primel-Tregastel",
+            "ro": "Grande plage de Primel-Tregastel",
+            "en": "Grande plage de Primel-Tregastel"
+          },
+          "coords": [
+            -3.810165,
+            48.712569
+          ],
+          "category": "recreational",
+          "arrive_at": "17:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen goldenen Sand dieses schönen Strandes und packen Sie eine Windjacke ein, um die frische Meeresbrise genießen zu können.",
+            "hu": "Pihenjen ezen a gyönyörű helyi strand széles, aranyhomokos partján, és ne felejtsen el széldzsekit hozni a friss tengeri szellő miatt.",
+            "ro": "Relaxați-vă pe nisipul auriu și întins al acestei plaje locale superbe, fără a uita să luați o jachetă de vânt pentru a vă bucura de briza mării.",
+            "en": "Relax on the expansive golden sands of this beautiful local beach, and don't forget to pack a windbreaker to comfortably enjoy the fresh coastal breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am östlichen Rand bei der Église Saint-Jean-Baptiste, gefolgt von einem inspirierenden Morgen im charmanten La Maison des Peintres.\n\nEine kurze Fahrt bringt Sie zu den faszinierenden Les vieilles soupapes, einer wahren Zeitreise, bevor Sie ins Zentrum fahren, um die Église Saint-Pierre zu besuchen.\n\nFahren Sie aufs Land, um den prähistorischen Menhir de Troan Bihan zu bestaunen und setzen Sie die historische Reise zum wehrhaften Manoir de Tromelin fort.\n\nIhr Roadtrip endet spektakulär an der Nordküste. Nach einem ruhigen Halt an der Chapelle Notre-Dame-de-Lourdes entspannen Sie am Strand von Primel-Tregastel.",
+        "hu": "Kezdje az utazást a keleti peremvidéken az Église Saint-Jean-Baptiste-nál, majd töltsön egy inspiráló délelőttöt a bájos La Maison des Peintres falai között.\n\nEgy rövid autózás elviszi a lenyűgöző Les vieilles soupapes-hoz, amely egy igazi időutazás, mielőtt Plougasnou szívébe indulna az Église Saint-Pierre-hez.\n\nVezessen ki a környező mezőkre, hogy megcsodálja a történelem előtti Menhir de Troan Bihan-t, majd folytassa történelmi útját a robusztus Manoir de Tromelin felé.\n\nAutós túrája látványosan ér véget az északi parton. A Chapelle Notre-Dame-de-Lourdes nyugodt atmoszférája után pihenjen meg Primel-Tregastel homokos strandján.",
+        "ro": "Începeți traseul explorând periferia estică la Église Saint-Jean-Baptiste, urmată de o dimineață plină de inspirație la fermecătoarea La Maison des Peintres.\n\nO scurtă călătorie vă aduce la fascinantul muzeu Les vieilles soupapes, o adevărată întoarcere în timp, înainte de a vizita Église Saint-Pierre în centru.\n\nConduceți spre câmpurile înconjurătoare pentru a admira preistoricul Menhir de Troan Bihan, continuând călătoria istorică spre robustul Manoir de Tromelin.\n\nCălătoria se încheie spectaculos pe coasta de nord. După o oprire senină la Chapelle Notre-Dame-de-Lourdes, relaxați-vă pe plaja din Primel-Tregastel.",
+        "en": "Begin your drive exploring the eastern outskirts at Église Saint-Jean-Baptiste, followed by an inspiring morning at the charming La Maison des Peintres.\n\nA short drive brings you to the fascinating Les vieilles soupapes, a true step back in time, before heading to the heart of Plougasnou to visit Église Saint-Pierre.\n\nDrive out to the surrounding fields to marvel at the prehistoric Menhir de Troan Bihan, seamlessly continuing your historic journey to the robust Manoir de Tromelin.\n\nYour road trip ends spectacularly on the northern coast. After a serene stop at Chapelle Notre-Dame-de-Lourdes, unwind on the golden sands of Grande plage de Primel-Tregastel."
+      }
+    }
+  }
+}

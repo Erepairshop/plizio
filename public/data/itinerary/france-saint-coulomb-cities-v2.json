@@ -1,0 +1,497 @@
+{
+  "city_id": "france-saint-coulomb-cities-v2",
+  "anchor": {
+    "name": "Saint-Coulomb",
+    "coords": [
+      -1.91141,
+      48.67552
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Colomban",
+            "hu": "Église Saint-Colomban",
+            "ro": "Église Saint-Colomban",
+            "en": "Église Saint-Colomban"
+          },
+          "coords": [
+            -1.910714,
+            48.675384
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser charmanten Granitkirche und bewundern Sie die traditionelle bretonische Architektur, bevor Sie drinnen im Kirchenschiff einen ruhigen Moment genießen.",
+            "hu": "Kezdje a napját ennél a bájos gránittemplomnál, és csodálja meg a hagyományos breton építészetet, mielőtt odabent a csendes hajóban egy békés pillanatot eltöltene.",
+            "ro": "Începeți ziua la această fermecătoare biserică din granit, admirând arhitectura sa tradițională bretonă înainte de a vă bucura de un moment de liniște în naos.",
+            "en": "Begin your day at this charming granite church, admiring its traditional Breton architecture before taking a quiet moment to reflect inside its peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Phare",
+            "hu": "Le Phare",
+            "ro": "Le Phare",
+            "en": "Le Phare"
+          },
+          "coords": [
+            -1.91086,
+            48.681081
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen intimen Kulturraum, in dem häufig lokale Ausstellungen stattfinden, und erhalten Sie einen großartigen Einblick in das zeitgenössische Kunstleben.",
+            "hu": "Fedezze fel ezt a meghitt kulturális teret, amely gyakran ad otthont helyi kiállításoknak, nagyszerű bepillantást nyújtva Saint-Coulomb mai és kortárs művészeti életébe.",
+            "ro": "Explorați acest spațiu cultural intim care găzduiește frecvent expoziții locale, oferind o perspectivă excelentă asupra vieții artistice contemporane din Saint-Coulomb.",
+            "en": "Explore this intimate cultural space that frequently hosts local exhibitions, offering a great glimpse into the contemporary artistic life of Saint-Coulomb during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière la Motte-Aux-Chauffs",
+            "hu": "Malouinière la Motte-Aux-Chauffs",
+            "ro": "Malouinière la Motte-Aux-Chauffs",
+            "en": "Malouinière la Motte-Aux-Chauffs"
+          },
+          "coords": [
+            -1.907343,
+            48.684672
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Freibeuter bei einem Besuch dieser eleganten Malouinière, wo eine Führung faszinierende maritime Geschichten der gesamten Region offenbart.",
+            "hu": "Fedezze fel a kalózok történetét, meglátogatva ezt az elegáns, 18. századi malouinière-t, ahol egy vezetett túra során lenyűgöző regionális tengeri történetek tárulnak fel.",
+            "ro": "Descoperiți istoria corsarilor vizitând această malouinière elegantă din secolul al XVIII-lea, unde un tur ghidat vă va dezvălui povești maritime regionale fascinante.",
+            "en": "Discover the history of the privateers by visiting this elegant 18th-century malouinière, where taking a guided tour reveals fascinating maritime tales of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Guesclin",
+            "hu": "Plage du Guesclin",
+            "ro": "Plage du Guesclin",
+            "en": "Plage du Guesclin"
+          },
+          "coords": [
+            -1.898515,
+            48.69211
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses historischen Strandes und vergessen Sie Ihre Kamera nicht, um das malerische Fort du Guesclin zu fotografieren.",
+            "hu": "Pihenjen ennek a történelmi strandnak a finom aranyhomokján, és feltétlenül hozzon magával fényképezőgépet, hogy megörökítse a közeli szigeten található Fort du Guesclin-t.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje istorice, asigurându-vă că aduceți aparatul foto pentru a surprinde pitorescul Fort du Guesclin de pe insulița din apropiere.",
+            "en": "Relax on the fine golden sands of this stunning historic beach, making sure to bring your camera to capture the picturesque Fort du Guesclin situated on the nearby islet."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière de la Ville-Bague",
+            "hu": "Malouinière de la Ville-Bague",
+            "ro": "Malouinière de la Ville-Bague",
+            "en": "Malouinière de la Ville-Bague"
+          },
+          "coords": [
+            -1.922047,
+            48.679622
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem prächtigen Korsarengut, wo Sie durch die wunderschön gepflegten französischen Gärten schlendern können, um den Tag ausklingen zu lassen.",
+            "hu": "Fejezze be sétáját ennél a csodálatos kalózkúriánál, ahol végigsétálhat a gyönyörűen gondozott francia kerteken, hogy igazán békésen és nyugodtan zárja ezt a hosszú délutánt.",
+            "ro": "Încheiați-vă plimbarea la acest magnific conac de corsari, unde vă puteți plimba prin grădinile sale franceze frumos îngrijite pentru un final de după-amiază cu adevărat liniștit.",
+            "en": "Conclude your walk at this magnificent privateer's mansion, where you can stroll through its beautifully manicured French gardens for a truly peaceful end to the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Saint-Coulomb, wo Sie das lokale religiöse Erbe und den künstlerischen Puls entdecken. Am Mittag tauchen Sie bei einem Besuch einer klassischen Malouinière in die Ära der Freibeuter ein. Der Nachmittag führt Sie an die atemberaubende Smaragdküste, um an goldenen Stränden zu entspannen. Schließlich beenden Sie den Tag mit der Erkundung eines weiteren prächtigen Herrenhauses.",
+        "hu": "Reggele Saint-Coulomb szívében indul, felfedezve a helyi vallási örökséget és a művészeti lüktetést. Délben egy klasszikus malouinière meglátogatásával visszaléphet a kalózok korszakába. A délután a lélegzetelállító Smaragd-part felé viszi, ahol az aranyhomokos strandon pihenhet. Végül a napot egy másik, pompás kertekkel rendelkező kúria felfedezésével zárja.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Saint-Coulomb, descoperind moștenirea religioasă locală și pulsul artistic. La prânz, vă veți întoarce în era corsarilor printr-o vizită la o malouinière clasică. După-amiaza vă poartă spre uluitoarea Coastă de Smarald pentru a vă relaxa pe nisipul auriu. În cele din urmă, veți încheia ziua explorând un alt conac magnific cu grădini splendide.",
+        "en": "Your morning starts in the heart of Saint-Coulomb, discovering the local religious heritage and artistic pulse. By midday, you will step back into the era of the privateers with a visit to a classic malouinière. The afternoon takes you towards the breathtaking Emerald Coast to relax on golden sands. Finally, you will conclude the day exploring another magnificent mansion with splendid gardens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Colomban",
+            "hu": "Église Saint-Colomban",
+            "ro": "Église Saint-Colomban",
+            "en": "Église Saint-Colomban"
+          },
+          "coords": [
+            -1.910714,
+            48.675384
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser charmanten Granitkirche und bewundern Sie die traditionelle bretonische Architektur, bevor Sie drinnen im Kirchenschiff einen ruhigen Moment genießen.",
+            "hu": "Kezdje a napját ennél a bájos gránittemplomnál, és csodálja meg a hagyományos breton építészetet, mielőtt odabent a csendes hajóban egy békés pillanatot eltöltene.",
+            "ro": "Începeți ziua la această fermecătoare biserică din granit, admirând arhitectura sa tradițională bretonă înainte de a vă bucura de un moment de liniște în naos.",
+            "en": "Begin your day at this charming granite church, admiring its traditional Breton architecture before taking a quiet moment to reflect inside its peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fosse Hingant",
+            "hu": "La Fosse Hingant",
+            "ro": "La Fosse Hingant",
+            "en": "La Fosse Hingant"
+          },
+          "coords": [
+            -1.924129,
+            48.67269
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem historischen Herrenhaus, um seine robuste Architektur zu bewundern, und nehmen Sie sich Zeit für einen Spaziergang um das perfekte ländliche Anwesen.",
+            "hu": "Kerekezzen el ehhez a történelmi udvarházhoz, hogy megcsodálja robusztus építészetét, és szánjon időt a külső körbesétálására, amely a vidéki breton örökséget testesíti meg.",
+            "ro": "Pedați până la acest conac istoric pentru a-i aprecia arhitectura robustă, luându-vă timp să vă plimbați prin exteriorul care întruchipează perfect moștenirea rurală bretonă.",
+            "en": "Pedal to this historic manor house to appreciate its robust architecture, taking time to carefully walk around the exterior which perfectly embodies the rural Breton heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière de la Ville-Bague",
+            "hu": "Malouinière de la Ville-Bague",
+            "ro": "Malouinière de la Ville-Bague",
+            "en": "Malouinière de la Ville-Bague"
+          },
+          "coords": [
+            -1.922047,
+            48.679622
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem prächtigen Korsarengut, wo Sie durch die wunderschön gepflegten französischen Gärten schlendern können, um den Tag ausklingen zu lassen.",
+            "hu": "Fejezze be sétáját ennél a csodálatos kalózkúriánál, ahol végigsétálhat a gyönyörűen gondozott francia kerteken, hogy igazán békésen és nyugodtan zárja ezt a hosszú délutánt.",
+            "ro": "Încheiați-vă plimbarea la acest magnific conac de corsari, unde vă puteți plimba prin grădinile sale franceze frumos îngrijite pentru un final de după-amiază cu adevărat liniștit.",
+            "en": "Conclude your walk at this magnificent privateer's mansion, where you can stroll through its beautifully manicured French gardens for a truly peaceful end to the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Port",
+            "hu": "Plage du Port",
+            "ro": "Plage du Port",
+            "en": "Plage du Port"
+          },
+          "coords": [
+            -1.929845,
+            48.693447
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser idyllischen Bucht, um die frische Meeresbrise zu genießen, und erkunden Sie bei Ebbe die faszinierenden Felsenpools entlang der zerklüfteten Felsenküste.",
+            "hu": "Álljon meg ennél az idillikus öbölnél, élvezze a tengeri szellőt, és ha apály van, fedezze fel a zord partvonal mentén szétszórtan található lenyűgöző kis sziklamedencéket.",
+            "ro": "Opriți-vă la acest golf idilic pentru a vă bucura de briza mării și, dacă fluxul este scăzut, explorați bazinele stâncoase fascinante de-a lungul coastei abrupte a zonei.",
+            "en": "Stop by this idyllic cove to enjoy the refreshing sea breeze, and if the tide is completely low, explore the fascinating rock pools scattered along the area's rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Guesclin",
+            "hu": "Plage du Guesclin",
+            "ro": "Plage du Guesclin",
+            "en": "Plage du Guesclin"
+          },
+          "coords": [
+            -1.898515,
+            48.69211
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses historischen Strandes und vergessen Sie Ihre Kamera nicht, um das malerische Fort du Guesclin zu fotografieren.",
+            "hu": "Pihenjen ennek a történelmi strandnak a finom aranyhomokján, és feltétlenül hozzon magával fényképezőgépet, hogy megörökítse a közeli szigeten található Fort du Guesclin-t.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje istorice, asigurându-vă că aduceți aparatul foto pentru a surprinde pitorescul Fort du Guesclin de pe insulița din apropiere.",
+            "en": "Relax on the fine golden sands of this stunning historic beach, making sure to bring your camera to capture the picturesque Fort du Guesclin situated on the nearby islet."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière la Motte-Aux-Chauffs",
+            "hu": "Malouinière la Motte-Aux-Chauffs",
+            "ro": "Malouinière la Motte-Aux-Chauffs",
+            "en": "Malouinière la Motte-Aux-Chauffs"
+          },
+          "coords": [
+            -1.907343,
+            48.684672
+          ],
+          "category": "historical",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Freibeuter bei einem Besuch dieser eleganten Malouinière, wo eine Führung faszinierende maritime Geschichten der gesamten Region offenbart.",
+            "hu": "Fedezze fel a kalózok történetét, meglátogatva ezt az elegáns, 18. századi malouinière-t, ahol egy vezetett túra során lenyűgöző regionális tengeri történetek tárulnak fel.",
+            "ro": "Descoperiți istoria corsarilor vizitând această malouinière elegantă din secolul al XVIII-lea, unde un tur ghidat vă va dezvălui povești maritime regionale fascinante.",
+            "en": "Discover the history of the privateers by visiting this elegant 18th-century malouinière, where taking a guided tour reveals fascinating maritime tales of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Phare",
+            "hu": "Le Phare",
+            "ro": "Le Phare",
+            "en": "Le Phare"
+          },
+          "coords": [
+            -1.91086,
+            48.681081
+          ],
+          "category": "cultural",
+          "arrive_at": "17:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen intimen Kulturraum, in dem häufig lokale Ausstellungen stattfinden, und erhalten Sie einen großartigen Einblick in das zeitgenössische Kunstleben.",
+            "hu": "Fedezze fel ezt a meghitt kulturális teret, amely gyakran ad otthont helyi kiállításoknak, nagyszerű bepillantást nyújtva Saint-Coulomb mai és kortárs művészeti életébe.",
+            "ro": "Explorați acest spațiu cultural intim care găzduiește frecvent expoziții locale, oferind o perspectivă excelentă asupra vieții artistice contemporane din Saint-Coulomb.",
+            "en": "Explore this intimate cultural space that frequently hosts local exhibitions, offering a great glimpse into the contemporary artistic life of Saint-Coulomb during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Dorfzentrum, bevor Sie aufbrechen, um die robuste Architektur nahegelegener historischer Herrenhäuser zu entdecken. Die Fahrt am Mittag führt Sie zu einem atemberaubenden Freibeuteranwesen inmitten ruhiger Natur. Am Nachmittag kühlen Sie sich bei der Erkundung idyllischer Küstenbuchten und weitläufiger Strände ab. Der Abend endet zurück in der Stadt mit einer letzten Portion lokaler Kultur.",
+        "hu": "Kezdje kerékpáros kalandját a falu központjában, mielőtt nekivágna a közeli történelmi udvarházak robusztus építészetének felfedezésének. A déli utazás egy lenyűgöző kalózbirtokhoz vezeti, amelyet nyugodt növényzet vesz körül. Délután hűsöljön az idillikus tengerparti öblök és a kiterjedt strandok felfedezésével. Az este a városban ér véget egy utolsó adag helyi kultúrával és örökséggel.",
+        "ro": "Începeți aventura pe bicicletă în centrul satului înainte de a porni să descoperiți arhitectura robustă a conacelor istorice din apropiere. Cursa de la prânz vă va ghida către o proprietate uimitoare de corsari, înconjurată de verdeață senină. După-amiaza, răcoriți-vă explorând golfuri de coastă idilice și plaje întinse. Seara se încheie înapoi în oraș cu o ultimă doză de cultură și moștenire locală.",
+        "en": "Kick off your cycling adventure in the village center before heading out to uncover the robust architecture of nearby historic manors. The midday ride will guide you to a stunning privateer estate surrounded by serene greenery. In the afternoon, cool off by exploring idyllic coastal coves and expansive beaches. The evening concludes back in town with a final dose of local culture and heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Colomban",
+            "hu": "Église Saint-Colomban",
+            "ro": "Église Saint-Colomban",
+            "en": "Église Saint-Colomban"
+          },
+          "coords": [
+            -1.910714,
+            48.675384
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser charmanten Granitkirche und bewundern Sie die traditionelle bretonische Architektur, bevor Sie drinnen im Kirchenschiff einen ruhigen Moment genießen.",
+            "hu": "Kezdje a napját ennél a bájos gránittemplomnál, és csodálja meg a hagyományos breton építészetet, mielőtt odabent a csendes hajóban egy békés pillanatot eltöltene.",
+            "ro": "Începeți ziua la această fermecătoare biserică din granit, admirând arhitectura sa tradițională bretonă înainte de a vă bucura de un moment de liniște în naos.",
+            "en": "Begin your day at this charming granite church, admiring its traditional Breton architecture before taking a quiet moment to reflect inside its peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de la Masse",
+            "hu": "Moulin de la Masse",
+            "ro": "Moulin de la Masse",
+            "en": "Moulin de la Masse"
+          },
+          "coords": [
+            -1.940554,
+            48.665291
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an dieser traditionellen Windmühle, einem hervorragenden Beispiel lokaler Agrargeschichte, die ein einzigartiges Fotomotiv vor dem Himmel bietet.",
+            "hu": "Tegyen egy rövid kitérőt ehhez a hagyományos szélmalomhoz, amely az agrártörténet kiváló példája, és egyedülálló fotózási lehetőséget kínál a hatalmas vidéki égbolt hátterével.",
+            "ro": "Faceți o scurtă oprire la această moară de vânt tradițională, un exemplu de istorie agricolă ce oferă o oportunitate foto unică pe fundalul cerului vast și rural al regiunii.",
+            "en": "Make a quick stop at this traditional windmill, an excellent example of local agricultural history that provides a unique photo opportunity against the vast countryside sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière de La Mettrie-aux-Louëts",
+            "hu": "Malouinière de La Mettrie-aux-Louëts",
+            "ro": "Malouinière de La Mettrie-aux-Louëts",
+            "en": "Malouinière de La Mettrie-aux-Louëts"
+          },
+          "coords": [
+            -1.929518,
+            48.668557
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses leicht versteckte historische Juwel, um in die reiche Vergangenheit der Region einzutauchen, und prüfen Sie unbedingt vorab die örtlichen Öffnungszeiten.",
+            "hu": "Látogasson el ehhez a kissé rejtett történelmi gyöngyszemhez, hogy elmerüljön a régió gazdag múltjában, és mindenképpen ellenőrizze a helyi nyitvatartást a teljes túra előtt.",
+            "ro": "Vizitați această bijuterie istorică ascunsă pentru a pătrunde în trecutul bogat al regiunii, asigurându-vă că verificați orele de deschidere locale înainte de turul complet.",
+            "en": "Visit this slightly hidden historical gem to dive deeper into the region's wealthy past, making sure to check local opening times before properly planning your complete tour."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fosse Hingant",
+            "hu": "La Fosse Hingant",
+            "ro": "La Fosse Hingant",
+            "en": "La Fosse Hingant"
+          },
+          "coords": [
+            -1.924129,
+            48.67269
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem historischen Herrenhaus, um seine robuste Architektur zu bewundern, und nehmen Sie sich Zeit für einen Spaziergang um das perfekte ländliche Anwesen.",
+            "hu": "Kerekezzen el ehhez a történelmi udvarházhoz, hogy megcsodálja robusztus építészetét, és szánjon időt a külső körbesétálására, amely a vidéki breton örökséget testesíti meg.",
+            "ro": "Pedați până la acest conac istoric pentru a-i aprecia arhitectura robustă, luându-vă timp să vă plimbați prin exteriorul care întruchipează perfect moștenirea rurală bretonă.",
+            "en": "Pedal to this historic manor house to appreciate its robust architecture, taking time to carefully walk around the exterior which perfectly embodies the rural Breton heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Malouinière de la Ville-Bague",
+            "hu": "Malouinière de la Ville-Bague",
+            "ro": "Malouinière de la Ville-Bague",
+            "en": "Malouinière de la Ville-Bague"
+          },
+          "coords": [
+            -1.922047,
+            48.679622
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem prächtigen Korsarengut, wo Sie durch die wunderschön gepflegten französischen Gärten schlendern können, um den Tag ausklingen zu lassen.",
+            "hu": "Fejezze be sétáját ennél a csodálatos kalózkúriánál, ahol végigsétálhat a gyönyörűen gondozott francia kerteken, hogy igazán békésen és nyugodtan zárja ezt a hosszú délutánt.",
+            "ro": "Încheiați-vă plimbarea la acest magnific conac de corsari, unde vă puteți plimba prin grădinile sale franceze frumos îngrijite pentru un final de după-amiază cu adevărat liniștit.",
+            "en": "Conclude your walk at this magnificent privateer's mansion, where you can stroll through its beautifully manicured French gardens for a truly peaceful end to the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Port",
+            "hu": "Plage du Port",
+            "ro": "Plage du Port",
+            "en": "Plage du Port"
+          },
+          "coords": [
+            -1.929845,
+            48.693447
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser idyllischen Bucht, um die frische Meeresbrise zu genießen, und erkunden Sie bei Ebbe die faszinierenden Felsenpools entlang der zerklüfteten Felsenküste.",
+            "hu": "Álljon meg ennél az idillikus öbölnél, élvezze a tengeri szellőt, és ha apály van, fedezze fel a zord partvonal mentén szétszórtan található lenyűgöző kis sziklamedencéket.",
+            "ro": "Opriți-vă la acest golf idilic pentru a vă bucura de briza mării și, dacă fluxul este scăzut, explorați bazinele stâncoase fascinante de-a lungul coastei abrupte a zonei.",
+            "en": "Stop by this idyllic cove to enjoy the refreshing sea breeze, and if the tide is completely low, explore the fascinating rock pools scattered along the area's rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Guesclin",
+            "hu": "Plage du Guesclin",
+            "ro": "Plage du Guesclin",
+            "en": "Plage du Guesclin"
+          },
+          "coords": [
+            -1.898515,
+            48.69211
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses historischen Strandes und vergessen Sie Ihre Kamera nicht, um das malerische Fort du Guesclin zu fotografieren.",
+            "hu": "Pihenjen ennek a történelmi strandnak a finom aranyhomokján, és feltétlenül hozzon magával fényképezőgépet, hogy megörökítse a közeli szigeten található Fort du Guesclin-t.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje istorice, asigurându-vă că aduceți aparatul foto pentru a surprinde pitorescul Fort du Guesclin de pe insulița din apropiere.",
+            "en": "Relax on the fine golden sands of this stunning historic beach, making sure to bring your camera to capture the picturesque Fort du Guesclin situated on the nearby islet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit einem kurzen Halt an der zentralen Kirche und einer historischen Windmühle etwas außerhalb der Stadt. Der Mittag ist der Entdeckung der reichen maritimen Geschichte gewidmet, indem Sie zwischen mehreren gut erhaltenen Freibeutervillen hin und her fahren. Im Laufe des Nachmittags fahren Sie in Richtung Küste, um die raue Schönheit einsamer Häfen zu erleben. Die Reise endet am ikonischen Strand von Guesclin.",
+        "hu": "Autós túrája egy gyors megállóval kezdődik a központi templomnál és egy történelmi szélmalomnál a város szélén. A dél a gazdag tengeri történelem feltárásának van szentelve, több jól megőrzött kalózkúria meglátogatásával. Ahogy a délután halad, a part felé vezet, hogy megtapasztalja az eldugott kikötők zord szépségét. Az utazás egy festői tengerparti naplementével zárul az ikonikus Plage du Guesclin-nél.",
+        "ro": "Turul cu mașina începe cu o scurtă oprire la biserica centrală și o moară de vânt istorică chiar în afara orașului. Prânzul este dedicat descoperirii bogatei istorii maritime, făcând opriri între mai multe conace de corsari bine conservate. Pe măsură ce după-amiaza avansează, veți conduce spre coastă pentru a experimenta frumusețea accidentată a porturilor izolate. Călătoria se termină la emblematica Plage du Guesclin.",
+        "en": "Your driving tour begins with a quick stop at the central church and a historic windmill just outside town. Midday is dedicated to unearthing the rich maritime history by hopping between several well-preserved privateer mansions. As the afternoon progresses, you will drive towards the coast to experience the rugged beauty of secluded ports. The journey finishes with a scenic coastal sunset at the iconic Plage du Guesclin."
+      }
+    }
+  }
+}

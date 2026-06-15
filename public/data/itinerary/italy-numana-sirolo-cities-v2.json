@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-numana-sirolo-cities-v2",
+  "anchor": {
+    "name": "Numana Sirolo",
+    "coords": [
+      13.616019,
+      43.526019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Urbani",
+            "hu": "Spiaggia Urbani",
+            "ro": "Spiaggia Urbani",
+            "en": "Spiaggia Urbani"
+          },
+          "coords": [
+            13.623615,
+            43.523261
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen sichelförmigen Strand, der von Klippen umgeben ist und ideal zum Schwimmen ist, aber kommen Sie früh, um einen Platz zu finden.",
+            "hu": "Fedezze fel ezt a sziklákkal körülvett, félhold alakú strandot, amely tökéletes úszáshoz, de érkezzen korán, hogy jó helyet találjon a kavicsokon.",
+            "ro": "Descoperiți această plajă în formă de semilună înconjurată de stânci, perfectă pentru înot, dar ajungeți devreme pentru a prinde un loc pe pietriș.",
+            "en": "Discover this crescent-shaped beach surrounded by lush cliffs, a perfect spot for swimming, but arrive early to secure a good spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden Gigli",
+            "hu": "Eden Gigli",
+            "ro": "Eden Gigli",
+            "en": "Eden Gigli"
+          },
+          "coords": [
+            13.62395,
+            43.515655
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gut ausgestatteten Strand mit Blick auf den Monte Conero und mieten Sie eine Sonnenliege für maximalen Komfort am Nachmittag.",
+            "hu": "Pihenjen ezen a jól felszerelt strandon, ahonnan lenyűgöző kilátás nyílik a Monte Coneróra, és béreljen napágyat a maximális délutáni kényelemért.",
+            "ro": "Relaxați-vă la această plajă bine dotată cu vedere la Muntele Conero și închiriați un șezlong pentru confort maxim în timpul după-amiezii.",
+            "en": "Relax at this well-equipped beach establishment offering stunning views of Mount Conero, and consider renting a sunbed for maximum afternoon comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "La Spiaggiola",
+            "hu": "La Spiaggiola",
+            "ro": "La Spiaggiola",
+            "en": "La Spiaggiola"
+          },
+          "coords": [
+            13.624518,
+            43.512609
+          ],
+          "category": "recreational",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser dieser geschützten Bucht, die ideal für Familien ist, und essen Sie in einem nahegelegenen Strandrestaurant.",
+            "hu": "Élvezze a védett öböl nyugodt, sekély vizét, amely ideális családok számára, és egyen egy gyors tengeri ebédet a közeli tengerparti étteremben.",
+            "ro": "Bucurați-vă de apele calme ale acestui golf protejat, ideal pentru familii, și luați un prânz rapid cu fructe de mare la restaurantul din apropiere.",
+            "en": "Enjoy the calm, shallow waters of this sheltered cove which is ideal for families, and grab a quick seafood lunch at the nearby beachside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorriso",
+            "hu": "Sorriso",
+            "ro": "Sorriso",
+            "en": "Sorriso"
+          },
+          "coords": [
+            13.622967,
+            43.50786
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses dynamischen Sandstrandes, an dem Sie ganz einfach Wassersportgeräte für einen actionreichen Tag mieten können.",
+            "hu": "Tapasztalja meg ennek a barátságos hangulatú, nyüzsgő homokos partszakasznak az atmoszféráját, ahol könnyedén bérelhet vízi sporteszközöket a napra.",
+            "ro": "Experimentați atmosfera plină de viață a acestei fâșii de nisip cunoscute pentru vibrația sa prietenoasă, de unde puteți închiria echipament nautic.",
+            "en": "Experience the lively atmosphere of this vibrant sandy stretch known for its friendly vibe, where you can easily rent water sports gear for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Marino",
+            "hu": "Da Marino",
+            "ro": "Da Marino",
+            "en": "Da Marino"
+          },
+          "coords": [
+            13.622272,
+            43.506676
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem klassischen italienischen Strandbad mit tollen Einrichtungen und lokalen Snacks, der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Kapcsolódjon ki ebben a klasszikus olasz strandfürdőben, amely kiváló felszereltséggel és helyi harapnivalókkal várja a strandolós nap tökéletes zárásaként.",
+            "ro": "Relaxați-vă la acest lido italian clasic cu facilități impecabile și gustări locale, locul perfect pentru a vă încheia ziua petrecută la plajă.",
+            "en": "Unwind at this classic Italian lido featuring pristine facilities and great local snacks, making it the perfect spot to end your long beach-hopping day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Spiaggia Urbani, wo Sie die rauen Klippen bewundern, bevor Sie zum Eden Gigli spazieren. Am Mittag erreichen Sie die geschützte Bucht La Spiaggiola, perfekt für ein erfrischendes Bad. Der Nachmittag führt Sie weiter nach Süden, um das lebhafte Ambiente von Sorriso zu genießen. Wenn der Abend naht, beenden Sie Ihren Spaziergang am Da Marino bei einem Sonnenuntergang.",
+        "hu": "A reggel a Spiaggia Urbaninál kezdődik, megcsodálva a sziklákat, majd átsétál az Eden Giglihez. A dél a védett La Spiaggiola öbölben találja, amely tökéletes egy frissítő úszáshoz és egy tengerparti ebédhez. A délután dél felé folytatódik a Sorriso élénk hangulatával. Ahogy közeledik az este, fejezze be sétáját a Da Marino strandon, élvezve a gyönyörű parti naplementét.",
+        "ro": "Dimineața începe la Spiaggia Urbani, admirând stâncile accidentate, înainte de a merge la Eden Gigli. La prânz vă aflați la protejata La Spiaggiola, perfectă pentru o baie răcoroasă și un prânz la malul mării. După-amiaza continuă spre sud, unde vă bucurați de ambianța de la Sorriso. Seara, încheiați plimbarea la Da Marino cu o vedere minunată a apusului de soare pe coastă.",
+        "en": "Morning begins at Spiaggia Urbani, taking in the rugged cliffs before strolling over to Eden Gigli's comfortable loungers. Midday finds you at the sheltered La Spiaggiola, perfect for a refreshing swim and a relaxing seaside lunch. The afternoon continues southwards as you soak up the lively ambiance of Sorriso. As evening approaches, end your walk at Da Marino with a coastal sunset view."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia dei Sassi Neri",
+            "hu": "Spiaggia dei Sassi Neri",
+            "ro": "Spiaggia dei Sassi Neri",
+            "en": "Spiaggia dei Sassi Neri"
+          },
+          "coords": [
+            13.620854,
+            43.531418
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schwarzen Felsen, die mit der azurblauen Adria kontrastieren, ein wilder Küstenabschnitt, an dem Wasserschuhe sehr zu empfehlen sind.",
+            "hu": "Csodálja meg az azúrkék Adriai-tengerrel kontrasztos sötét sziklákat; ez egy vadabb partszakasz, ahol az erős vízicipő viselése kifejezetten ajánlott.",
+            "ro": "Admirați stâncile negre care contrastează cu Marea Adriatică azurie, o porțiune de coastă mai sălbatică unde încălțămintea de apă este recomandată.",
+            "en": "Marvel at the dramatic black rocks contrasting with the azure Adriatic Sea, a wilder stretch of coast where sturdy water shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Urbani",
+            "hu": "Spiaggia Urbani",
+            "ro": "Spiaggia Urbani",
+            "en": "Spiaggia Urbani"
+          },
+          "coords": [
+            13.623615,
+            43.523261
+          ],
+          "category": "recreational",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen sichelförmigen Strand, der von Klippen umgeben ist und ideal zum Schwimmen ist, aber kommen Sie früh, um einen Platz zu finden.",
+            "hu": "Fedezze fel ezt a sziklákkal körülvett, félhold alakú strandot, amely tökéletes úszáshoz, de érkezzen korán, hogy jó helyet találjon a kavicsokon.",
+            "ro": "Descoperiți această plajă în formă de semilună înconjurată de stânci, perfectă pentru înot, dar ajungeți devreme pentru a prinde un loc pe pietriș.",
+            "en": "Discover this crescent-shaped beach surrounded by lush cliffs, a perfect spot for swimming, but arrive early to secure a good spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "La Spiaggiola",
+            "hu": "La Spiaggiola",
+            "ro": "La Spiaggiola",
+            "en": "La Spiaggiola"
+          },
+          "coords": [
+            13.624518,
+            43.512609
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser dieser geschützten Bucht, die ideal für Familien ist, und essen Sie in einem nahegelegenen Strandrestaurant.",
+            "hu": "Élvezze a védett öböl nyugodt, sekély vizét, amely ideális családok számára, és egyen egy gyors tengeri ebédet a közeli tengerparti étteremben.",
+            "ro": "Bucurați-vă de apele calme ale acestui golf protejat, ideal pentru familii, și luați un prânz rapid cu fructe de mare la restaurantul din apropiere.",
+            "en": "Enjoy the calm, shallow waters of this sheltered cove which is ideal for families, and grab a quick seafood lunch at the nearby beachside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cavalluccio di Mare",
+            "hu": "Cavalluccio di Mare",
+            "ro": "Cavalluccio di Mare",
+            "en": "Cavalluccio di Mare"
+          },
+          "coords": [
+            13.622264,
+            43.503994
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem einladenden Ort, der für seinen hervorragenden Service bekannt ist, und probieren Sie einen Spritz an der Strandbar.",
+            "hu": "Szívja magába a napsugarakat ezen a kiváló szolgáltatásairól ismert barátságos helyen, és kóstolja meg a frissítő helyi spritzet a tengerparti bárban.",
+            "ro": "Bucurați-vă de soare în acest loc primitor faimos pentru serviciile sale excelente și încercați un spritz local răcoritor la barul de pe plajă.",
+            "en": "Soak up the sun at this welcoming spot famous for its excellent service and colorful umbrellas, and try the refreshing local spritz at the beach bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellariva",
+            "hu": "Bellariva",
+            "ro": "Bellariva",
+            "en": "Bellariva"
+          },
+          "coords": [
+            13.622834,
+            43.50234
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang an diesem weitläufigen Sandstrand, eine ausgezeichnete Wahl für ein ruhiges Lesen abseits der Sommermassen.",
+            "hu": "Tegyen egy kellemes sétát ezen a tágas és tiszta homokos strandon, amely kiváló választás egy csendes délutáni olvasáshoz a nyári tömegtől távol.",
+            "ro": "Faceți o plimbare ușoară de-a lungul acestei plaje spațioase cu nisip, o alegere excelentă pentru o lectură liniștită după-amiaza, departe de aglomerație.",
+            "en": "Take a gentle stroll along this spacious and immaculate sandy beach, an excellent choice for a quiet afternoon read away from the main summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Florida",
+            "hu": "Florida",
+            "ro": "Florida",
+            "en": "Florida"
+          },
+          "coords": [
+            13.623241,
+            43.501409
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem Strand mit atemberaubendem Sonnenuntergang und einem fantastischen abendlichen Aperitivo direkt auf dem warmen Sand.",
+            "hu": "Fejezze be kerékpártúráját ezen a tengerparton, amely lélegzetelállító naplementét és fantasztikus esti aperitivót kínál közvetlenül a meleg homokon.",
+            "ro": "Încheiați turul pe bicicletă la această plajă vibrantă care oferă apusuri uluitoare și un aperitiv fantastic de seară direct pe nisipul cald și auriu.",
+            "en": "End your cycling tour at this vibrant beachfront offering breathtaking sunset views and a fantastic evening aperitivo directly on the warm golden sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am dramatischen Strand der Sassi Neri und fahren Sie zur ikonischen Bucht der Spiaggia Urbani. Mittags radeln Sie zur Bucht La Spiaggiola, gefolgt von den Ufern des Cavalluccio di Mare. Verbringen Sie den späten Nachmittag an den weiten Stränden von Bellariva. Der Tag endet friedlich mit Getränken zum Sonnenuntergang am herrlichen Strand von Florida.",
+        "hu": "Kezdje útját a drámai Spiaggia dei Sassi Neri strandon, majd tekerjen a Spiaggia Urbani öbléhez. Délben a csendes La Spiaggiola öböl felé vegye az irányt ebédelni, amit a Cavalluccio di Mare színes partja követ. A késő délutánt a Bellariva széles homokján cirkálva töltheti. A nap kecsesen zárul egy naplementés itallal a Florida strand kényelmes és barátságos homokján.",
+        "ro": "Începeți plimbarea la plaja dramatică Sassi Neri, coborând mai târziu spre golful Spiaggia Urbani. La prânz, pedalați către golful liniștit La Spiaggiola pentru prânz, urmat de Cavalluccio di Mare. Petreceți după-amiaza târziu pe nisipurile de la Bellariva. Ziua se încheie elegant cu băuturi la apusul soarelui pe plaja relaxantă Florida.",
+        "en": "Kick off your ride at the dramatic Spiaggia dei Sassi Neri, descending later to the iconic crescent of Spiaggia Urbani. By midday, pedal to the tranquil cove of La Spiaggiola for lunch, followed by the colorful shorelines of Cavalluccio di Mare. Spend the late afternoon cruising along the wide sands of Bellariva. The day gracefully concludes with sunset drinks at Florida beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia delle Velare",
+            "hu": "Spiaggia delle Velare",
+            "ro": "Spiaggia delle Velare",
+            "en": "Spiaggia delle Velare"
+          },
+          "coords": [
+            13.627658,
+            43.543706
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Felsformationen der Zwei Schwestern von dieser einsamen Bucht aus, die am besten früh mit dem Boot erreichbar ist.",
+            "hu": "Csodálja meg az ikonikus Két Nővér sziklákat ebből az érintetlen, eldugott öbölből, amelyet a turisták elkerülése végett a legjobb hajóval megközelíteni.",
+            "ro": "Admirați stâncile iconice Cele Două Surori din acest golf izolat, cel mai bine accesat devreme cu barca pentru a evita afluxul de turiști de la prânz.",
+            "en": "Admire the iconic Two Sisters sea stacks from this pristine, secluded cove, which is best accessed early by boat to avoid the midday tourist influx."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia dei Sassi Neri",
+            "hu": "Spiaggia dei Sassi Neri",
+            "ro": "Spiaggia dei Sassi Neri",
+            "en": "Spiaggia dei Sassi Neri"
+          },
+          "coords": [
+            13.620854,
+            43.531418
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schwarzen Felsen, die mit der azurblauen Adria kontrastieren, ein wilder Küstenabschnitt, an dem Wasserschuhe sehr zu empfehlen sind.",
+            "hu": "Csodálja meg az azúrkék Adriai-tengerrel kontrasztos sötét sziklákat; ez egy vadabb partszakasz, ahol az erős vízicipő viselése kifejezetten ajánlott.",
+            "ro": "Admirați stâncile negre care contrastează cu Marea Adriatică azurie, o porțiune de coastă mai sălbatică unde încălțămintea de apă este recomandată.",
+            "en": "Marvel at the dramatic black rocks contrasting with the azure Adriatic Sea, a wilder stretch of coast where sturdy water shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "La Spiaggiola",
+            "hu": "La Spiaggiola",
+            "ro": "La Spiaggiola",
+            "en": "La Spiaggiola"
+          },
+          "coords": [
+            13.624518,
+            43.512609
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser dieser geschützten Bucht, die ideal für Familien ist, und essen Sie in einem nahegelegenen Strandrestaurant.",
+            "hu": "Élvezze a védett öböl nyugodt, sekély vizét, amely ideális családok számára, és egyen egy gyors tengeri ebédet a közeli tengerparti étteremben.",
+            "ro": "Bucurați-vă de apele calme ale acestui golf protejat, ideal pentru familii, și luați un prânz rapid cu fructe de mare la restaurantul din apropiere.",
+            "en": "Enjoy the calm, shallow waters of this sheltered cove which is ideal for families, and grab a quick seafood lunch at the nearby beachside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Eugenio",
+            "hu": "Eugenio",
+            "ro": "Eugenio",
+            "en": "Eugenio"
+          },
+          "coords": [
+            13.622316,
+            43.505535
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unbeschwerten Ort, an dem sich Familien zu Strandspielen treffen, und vergessen Sie nicht, Sonnencreme für den Nachmittag einzupacken.",
+            "hu": "Kapcsolódjon ki ezen a laza tengerparti helyen, ahol a családok strandjátékokat játszanak, és ne felejtsen el naptejet csomagolni az erős délutáni nap miatt.",
+            "ro": "Relaxați-vă în acest loc unde familiile se adună pentru jocuri pe plajă și nu uitați să luați cremă de soare, deoarece soarele după-amiezii este puternic.",
+            "en": "Chill out at this easy-going seaside spot where families gather for beach games, and don't forget to pack some sunscreen as the afternoon sun is strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Parasols",
+            "hu": "Parasols",
+            "ro": "Parasols",
+            "en": "Parasols"
+          },
+          "coords": [
+            13.624949,
+            43.497762
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter den bunten Sonnenschirmen an diesem ordentlich organisierten Strandabschnitt, der ein fotogenes und komfortables Sommer-Setup bietet.",
+            "hu": "Pihenjen a névadó színes napernyők alatt ezen a szépen rendezett strandszakaszon, amely rendkívül fotogén és tökéletesen kényelmes nyári környezetet kínál.",
+            "ro": "Relaxați-vă sub umbrelele colorate de la această secțiune de plajă îngrijită, care oferă un cadru de vară foarte fotogenic și perfect confortabil.",
+            "en": "Lounge under the namesake colorful parasols at this neatly organized beach section, offering a highly photogenic and perfectly comfortable summer setup."
+          }
+        },
+        {
+          "name": {
+            "de": "Donatella",
+            "hu": "Donatella",
+            "ro": "Donatella",
+            "en": "Donatella"
+          },
+          "coords": [
+            13.626347,
+            43.496259
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem ruhigen südlichen Abschnitt mit sanfter Meeresbrise, ideal für einen romantischen Spaziergang vor dem Abendessen.",
+            "hu": "Fejezze be az autózást ezen a csendes déli szakaszon, ahol a tengeri szellő tökéletes egy romantikus esti sétához a numanai vacsora előtt.",
+            "ro": "Încheiați plimbarea cu mașina la această porțiune sudică liniștită, perfectă pentru o plimbare romantică la amurg înainte de cină în Numana.",
+            "en": "Conclude your drive at this quiet southern stretch offering a serene coastal breeze, perfect for a romantic twilight walk before dinner in Numana."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zur Spiaggia delle Velare und dann zur wilden Schönheit der Spiaggia dei Sassi Neri. Ihr Mittagsstopp ist La Spiaggiola, wo flaches Wasser vor dem Mittagessen zur Abkühlung einlädt. Fahren Sie dann nach Süden zum Eugenio und den bunten Parasols. Beenden Sie Ihren Roadtrip entlang der Küste bei Donatella, während die Dämmerung den Himmel in warme Farben taucht.",
+        "hu": "Autózzon korán a csodálatos Spiaggia delle Velare felé, majd induljon a Spiaggia dei Sassi Neri érintetlen partjaihoz. A déli megállója a La Spiaggiola, ahol a sekély víz hűsölésre csábít. Később vezessen délre az Eugenio és a színes Parasols strandok felé, hogy átélje a klasszikus strandélményt. Fejezze be a parti utazást a Donatella strandon, miközben bealkonyul.",
+        "ro": "Conduceți devreme spre superba Spiaggia delle Velare, apoi îndreptați-vă spre frumusețea de la Sassi Neri. Oprirea de prânz este La Spiaggiola, unde apele puțin adânci vă invită să vă răcoriți. Mai târziu, mergeți spre sud la Eugenio și la vibrantele Parasols pentru o relaxare clasică. Completați-vă excursia cu mașina la Donatella pe măsură ce amurgul colorează cerul.",
+        "en": "Drive to the magnificent Spiaggia delle Velare early, then head to the untamed beauty of Spiaggia dei Sassi Neri. Your midday stop is La Spiaggiola, where shallow waters invite you to cool off before a hearty lunch. Later, drive south to Eugenio and the vibrant Parasols for classic Italian lido relaxation. Complete your coastal road trip at Donatella as twilight colors the sky."
+      }
+    }
+  }
+}

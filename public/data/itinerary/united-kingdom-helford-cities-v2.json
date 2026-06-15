@@ -1,0 +1,428 @@
+{
+  "city_id": "united-kingdom-helford-cities-v2",
+  "anchor": {
+    "name": "Helford",
+    "coords": [
+      -5.13697,
+      50.09314
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Penarvon Cove",
+            "hu": "Penarvon Cove",
+            "ro": "Penarvon Cove",
+            "en": "Penarvon Cove"
+          },
+          "coords": [
+            -5.138335,
+            50.094439
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen Wellen in dieser versteckten Bucht, ideal zum Steinehüpfen, aber prüfen Sie unbedingt die Gezeiten, bevor Sie zu weit hinausgehen.",
+            "hu": "Élvezze a békés hullámokat ezen a rejtett öblön, amely tökéletes kacsázáshoz, de ne felejtse el ellenőrizni az árapályt, mielőtt túl messzire merészkedne.",
+            "ro": "Bucurați-vă de valurile liniștite din acest golf ascuns, perfect pentru a arunca pietre, dar verificați mereu programul mareelor înainte de a vă aventura prea departe.",
+            "en": "Enjoy the peaceful ripples at this hidden cove, perfect for skipping stones, but remember to check the tide schedules before venturing out too far."
+          }
+        },
+        {
+          "name": {
+            "de": "The Bar",
+            "hu": "The Bar",
+            "ro": "The Bar",
+            "en": "The Bar"
+          },
+          "coords": [
+            -5.135117,
+            50.099941
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen faszinierenden Sand- und Kiesstreifen, um die lokale Vogelwelt zu bewundern, und tragen Sie dabei wasserfestes Schuhwerk.",
+            "hu": "Sétáljon végig ezen a lenyűgöző árapályos homokos és kavicsos szakaszon, hogy megcsodálja a helyi madárvilágot, és viseljen vízálló lábbelit a kényelemért.",
+            "ro": "Plimbați-vă de-a lungul acestei fascinante porțiuni de nisip și pietriș pentru a admira păsările locale, purtând încălțăminte impermeabilă pentru confort.",
+            "en": "Stroll across this fascinating tidal sand and shingle stretch to admire local birdlife, wearing waterproof footwear to keep your feet dry during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Passage Cove",
+            "hu": "Passage Cove",
+            "ro": "Passage Cove",
+            "en": "Passage Cove"
+          },
+          "coords": [
+            -5.128837,
+            50.099937
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die maritime Geschichte an diesem alten Fährübergang mit herrlicher Aussicht, ein großartiger Ort für ein kurzes Picknick in der Meeresbrise.",
+            "hu": "Ismerje meg a tengerészeti történelmet ennél az ősi kompkikötőnél, amely nagyszerű kilátást nyújt, és kiváló helyszín egy rövid tengerparti piknikhez.",
+            "ro": "Descoperiți istoria maritimă la acest vechi punct de trecere cu feribotul ce oferă priveliști superbe, fiind un loc excelent pentru un scurt picnic.",
+            "en": "Take in the maritime history at this ancient ferry crossing point which offers superb views, making it a great spot for a brief picnic in the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Trebah",
+            "hu": "Trebah",
+            "ro": "Trebah",
+            "en": "Trebah"
+          },
+          "coords": [
+            -5.121949,
+            50.100993
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses schönen Erholungsgebiets am Rande des üppigen Grüns und bringen Sie unbedingt eine Kamera für tolle Fotos mit.",
+            "hu": "Pihenjen meg a nyugodt vizek partján ebben a gyönyörű, buja zöldnövényzettel határos rekreációs övezetben, és feltétlenül hozzon magával fényképezőgépet.",
+            "ro": "Relaxați-vă pe malul apelor liniștite din această frumoasă zonă de agrement mărginită de vegetație luxuriantă și nu uitați să aduceți un aparat foto.",
+            "en": "Relax by the tranquil waters of this beautiful recreational area that perfectly borders the lush greenery, and be sure to bring a camera for stunning shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Trebah Garden",
+            "hu": "Trebah Garden",
+            "ro": "Trebah Garden",
+            "en": "Trebah Garden"
+          },
+          "coords": [
+            -5.122339,
+            50.103704
+          ],
+          "category": "park",
+          "arrive_at": "13:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in diesem spektakulär üppigen subtropischen Schluchtgarten mit exotischen Blüten und tragen Sie bequeme Schuhe für die steilen Wege.",
+            "hu": "Vesszen el ebben a lenyűgözően buja, egzotikus virágokkal teli szubtrópusi szurdokkertben, és viseljen kényelmes cipőt a meredek, kanyargós ösvényeken.",
+            "ro": "Pierdeți-vă în această spectaculoasă grădină subtropicală dintr-un defileu plin de flori exotice și purtați încălțăminte comodă pentru potecile abrupte.",
+            "en": "Lose yourself in this spectacularly lush subtropical ravine garden filled with exotic blooms, and wear comfortable walking shoes for the steep winding paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang zur Penarvon Cove und spüren Sie die sanfte Meeresbrise. Gegen Mittag folgen Sie dem Gezeitensand über The Bar zur Passage Cove. Am Nachmittag wechseln Sie zum üppigen Grün des Erholungsgebiets Trebah. Beenden Sie Ihren Tag mit der Erkundung des atemberaubenden Trebah Garden und seiner subtropischen Wunder.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Penarvon-öbölhöz, érezve a lágy tengeri szellőt. Dél közeledtével kövesse az árapályos homokot a The Bar-on keresztül a Passage Cove felé. Délután sétáljon át a Trebah rekreációs övezet buja zöldjébe. Zárja a napot a lélegzetelállító Trebah Kert és annak szubtrópusi csodáinak felfedezésével a kora esti órákban.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă spre Penarvon Cove, simțind briza blândă. Spre prânz, urmați nisipurile mareelor peste The Bar până la Passage Cove, admirând farmecul nautic. După-amiaza, treceți spre verdeața luxuriantă a zonei de agrement Trebah. Încheiați ziua explorând grădina uluitoare Trebah și minunatele sale specii de plante subtropicale.",
+        "en": "Begin your morning with a refreshing stroll down to Penarvon Cove, feeling the soft sea breeze. As midday approaches, follow the tidal sands across The Bar to Passage Cove, soaking in the nautical charm. In the afternoon, transition towards the lush greenery of the Trebah recreational area. Conclude your day exploring the breathtaking Trebah Garden and its subtropical wonders."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kestle Barton",
+            "hu": "Kestle Barton",
+            "ro": "Kestle Barton",
+            "en": "Kestle Barton"
+          },
+          "coords": [
+            -5.141473,
+            50.086529
+          ],
+          "category": "museum",
+          "arrive_at": "09:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische kornische Kunst in dieser wunderschön restaurierten alten Bauernhofgalerie und prüfen Sie den Veranstaltungskalender.",
+            "hu": "Fedezze fel a kortárs cornwalli művészetet ebben a gyönyörűen felújított ősi farmgalériában, és érdemes előre ellenőrizni a különleges szezonális kiállításokat.",
+            "ro": "Descoperiți arta contemporană cornish în această veche fermă superb restaurată și verificați calendarul lor pentru expozițiile sezoniere speciale.",
+            "en": "Discover contemporary Cornish art in this beautifully restored ancient farmstead gallery, and check their event calendar for special seasonal exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "St Manaccus & St Dunstan",
+            "hu": "St Manaccus & St Dunstan",
+            "ro": "St Manaccus & St Dunstan",
+            "en": "St Manaccus & St Dunstan"
+          },
+          "coords": [
+            -5.127064,
+            50.083219
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche historische Architektur dieser malerischen Pfarrkirche und nehmen Sie sich einen Moment Zeit für die wundervolle Akustik im Inneren.",
+            "hu": "Csodálja meg ennek a festői plébániatemplomnak a békés történelmi építészetét, és szánjon egy percet arra, hogy élvezze a régi padok csodálatos akusztikáját.",
+            "ro": "Admirați arhitectura istorică pașnică a acestei biserici parohiale pitorești, luându-vă un moment pentru a aprecia acustica minunată a locului sacru.",
+            "en": "Admire the peaceful historic architecture of this quaint parish church, taking a moment to sit quietly in the ancient pews to appreciate the lovely acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Bosahan Cove",
+            "hu": "Bosahan Cove",
+            "ro": "Bosahan Cove",
+            "en": "Bosahan Cove"
+          },
+          "coords": [
+            -5.114387,
+            50.094829
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Finden Sie ein abgelegenes Paradies an dieser baumgesäumten Sandbucht mit kristallklarem Wasser, das absolut perfekt für ein erfrischendes wildes Schwimmen ist.",
+            "hu": "Találjon egy eldugott paradicsomot ebben a fákkal szegélyezett, kristálytiszta vizű homokos öbölben, amely tökéletes egy frissítő, bár hideg vadúszáshoz.",
+            "ro": "Găsiți un paradis retras în acest golf nisipos mărginit de copaci, cu ape cristaline, fiind perfect pentru o înotare revigorantă, dar destul de rece.",
+            "en": "Find a secluded paradise at this tree-fringed sandy inlet with crystal clear water, making it absolutely perfect for a refreshing but chilly wild swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Passage Cove",
+            "hu": "Passage Cove",
+            "ro": "Passage Cove",
+            "en": "Passage Cove"
+          },
+          "coords": [
+            -5.128837,
+            50.099937
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die maritime Geschichte an diesem alten Fährübergang mit herrlicher Aussicht, ein großartiger Ort für ein kurzes Picknick in der Meeresbrise.",
+            "hu": "Ismerje meg a tengerészeti történelmet ennél az ősi kompkikötőnél, amely nagyszerű kilátást nyújt, és kiváló helyszín egy rövid tengerparti piknikhez.",
+            "ro": "Descoperiți istoria maritimă la acest vechi punct de trecere cu feribotul ce oferă priveliști superbe, fiind un loc excelent pentru un scurt picnic.",
+            "en": "Take in the maritime history at this ancient ferry crossing point which offers superb views, making it a great spot for a brief picnic in the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "The Bar",
+            "hu": "The Bar",
+            "ro": "The Bar",
+            "en": "The Bar"
+          },
+          "coords": [
+            -5.135117,
+            50.099941
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen faszinierenden Sand- und Kiesstreifen, um die lokale Vogelwelt zu bewundern, und tragen Sie dabei wasserfestes Schuhwerk.",
+            "hu": "Sétáljon végig ezen a lenyűgöző árapályos homokos és kavicsos szakaszon, hogy megcsodálja a helyi madárvilágot, és viseljen vízálló lábbelit a kényelemért.",
+            "ro": "Plimbați-vă de-a lungul acestei fascinante porțiuni de nisip și pietriș pentru a admira păsările locale, purtând încălțăminte impermeabilă pentru confort.",
+            "en": "Stroll across this fascinating tidal sand and shingle stretch to admire local birdlife, wearing waterproof footwear to keep your feet dry during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Penarvon Cove",
+            "hu": "Penarvon Cove",
+            "ro": "Penarvon Cove",
+            "en": "Penarvon Cove"
+          },
+          "coords": [
+            -5.138335,
+            50.094439
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen Wellen in dieser versteckten Bucht, ideal zum Steinehüpfen, aber prüfen Sie unbedingt die Gezeiten, bevor Sie zu weit hinausgehen.",
+            "hu": "Élvezze a békés hullámokat ezen a rejtett öblön, amely tökéletes kacsázáshoz, de ne felejtse el ellenőrizni az árapályt, mielőtt túl messzire merészkedne.",
+            "ro": "Bucurați-vă de valurile liniștite din acest golf ascuns, perfect pentru a arunca pietre, dar verificați mereu programul mareelor înainte de a vă aventura prea departe.",
+            "en": "Enjoy the peaceful ripples at this hidden cove, perfect for skipping stones, but remember to check the tide schedules before venturing out too far."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum kulturellen Zentrum Kestle Barton und genießen Sie die inspirierenden ländlichen Kunstausstellungen. Fahren Sie weiter zur friedlichen Kirche St. Manaccus für eine ruhige Mittagsreflexion. Verbringen Sie den Nachmittag damit, zwischen den Buchten Bosahan und Passage zu pendeln. Wenn die Sonne sinkt, radeln Sie vorbei an The Bar zur Penarvon Cove.",
+        "hu": "Kerékpározzon ki korán a Kestle Barton kulturális központjához, elmerülve az inspiráló vidéki művészeti kiállításokban. Tekerjen tovább a békés St Manaccus templomhoz egy csendes déli elmélkedésre. Töltse a délutánt a part mentén, a Bosahan és a Passage öblök között. Ahogy a nap lemegy, kerékpározzon el a The Bar mellett, és fejezze be útját a Penarvon-öbölben.",
+        "ro": "Pedalați devreme spre centrul cultural Kestle Barton, bucurându-vă de expozițiile de artă rurală. Continuați spre pașnica biserică St Manaccus pentru o reflecție liniștită la prânz. Petreceți după-amiaza sărind de la un golf la altul, între Bosahan și Passage. Pe măsură ce soarele coboară, pedalați pe lângă The Bar și terminați relaxant la Penarvon Cove.",
+        "en": "Cycle out early to the cultural hub of Kestle Barton, soaking in the inspiring rural art exhibits. Ride on to the peaceful St Manaccus & St Dunstan for a quiet midday reflection. Spend your afternoon coastal hopping between the pristine Bosahan and Passage Coves. As the sun begins to lower, cycle past The Bar and finish with a relaxing stop at Penarvon Cove."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 6.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Trebah Manor Gardens",
+            "hu": "Trebah Manor Gardens",
+            "ro": "Trebah Manor Gardens",
+            "en": "Trebah Manor Gardens"
+          },
+          "coords": [
+            -5.122177,
+            50.105741
+          ],
+          "category": "landmark",
+          "arrive_at": "09:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige, geschichtsträchtige Anwesen voller saisonaler Farben und seltener Pflanzen, und holen Sie sich am Eingang eine praktische Karte.",
+            "hu": "Fedezze fel a pompás műemléki birtok szezonális színekben pompázó és ritka növényfajokat rejtő parkját, és kérjen egy praktikus térképet a bejáratnál.",
+            "ro": "Explorați domeniul magnific de patrimoniu plin de culori sezoniere și specii de plante unice și luați o hartă utilă de la intrare pentru a vă orienta.",
+            "en": "Explore the magnificent heritage estate grounds bursting with seasonal colors and unique plant species, and grab a handy map from the entrance to navigate it all."
+          }
+        },
+        {
+          "name": {
+            "de": "Maze View",
+            "hu": "Maze View",
+            "ro": "Maze View",
+            "en": "Maze View"
+          },
+          "coords": [
+            -5.116424,
+            50.106805
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über die kunstvoll gestalteten Hecken und das Flusstal, die beste Kulisse für ein perfektes Landschaftsfoto.",
+            "hu": "Gyönyörködjön a bonyolult tervezésű sövényekre és a folyóvölgyre nyíló lélegzetelállító panorámában, amely a legjobb festői hátteret nyújtja egy tökéletes fotóhoz.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra gardurilor vii și a văii râului, care oferă cel mai bun decor scenic pentru o fotografie perfectă.",
+            "en": "Take in the breathtaking panoramic vistas over the intricately designed hedgerows and river valley, providing the best scenic backdrop for a perfect photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Durgan",
+            "hu": "Durgan",
+            "ro": "Durgan",
+            "en": "Durgan"
+          },
+          "coords": [
+            -5.115595,
+            50.103627
+          ],
+          "category": "recreational",
+          "arrive_at": "11:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses bezaubernde, unberührte Fischerdorf direkt am ruhigen Flussufer und respektieren Sie die Anwohner, indem Sie auf den Wegen bleiben.",
+            "hu": "Sétáljon végig ezen a bájos, érintetlen halászfalun a békés folyóparton, és tartsa tiszteletben a helyi lakosokat azáltal, hogy a kijelölt ösvényeken marad.",
+            "ro": "Plimbați-vă prin acest fermecător cătun de pescari, așezat chiar pe malul liniștit al râului, și respectați localnicii rămânând doar pe potecile marcate.",
+            "en": "Wander through this charming, unspoil fishing hamlet nestled right on the serene riverbank, and respect the local residents by sticking to the marked paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Trebah Garden",
+            "hu": "Trebah Garden",
+            "ro": "Trebah Garden",
+            "en": "Trebah Garden"
+          },
+          "coords": [
+            -5.122339,
+            50.103704
+          ],
+          "category": "park",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in diesem spektakulär üppigen subtropischen Schluchtgarten mit exotischen Blüten und tragen Sie bequeme Schuhe für die steilen Wege.",
+            "hu": "Vesszen el ebben a lenyűgözően buja, egzotikus virágokkal teli szubtrópusi szurdokkertben, és viseljen kényelmes cipőt a meredek, kanyargós ösvényeken.",
+            "ro": "Pierdeți-vă în această spectaculoasă grădină subtropicală dintr-un defileu plin de flori exotice și purtați încălțăminte comodă pentru potecile abrupte.",
+            "en": "Lose yourself in this spectacularly lush subtropical ravine garden filled with exotic blooms, and wear comfortable walking shoes for the steep winding paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kestle Barton",
+            "hu": "Kestle Barton",
+            "ro": "Kestle Barton",
+            "en": "Kestle Barton"
+          },
+          "coords": [
+            -5.141473,
+            50.086529
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische kornische Kunst in dieser wunderschön restaurierten alten Bauernhofgalerie und prüfen Sie den Veranstaltungskalender.",
+            "hu": "Fedezze fel a kortárs cornwalli művészetet ebben a gyönyörűen felújított ősi farmgalériában, és érdemes előre ellenőrizni a különleges szezonális kiállításokat.",
+            "ro": "Descoperiți arta contemporană cornish în această veche fermă superb restaurată și verificați calendarul lor pentru expozițiile sezoniere speciale.",
+            "en": "Discover contemporary Cornish art in this beautifully restored ancient farmstead gallery, and check their event calendar for special seasonal exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie direkt zu den großartigen Trebah Manor Gardens, um den Morgen inmitten atemberaubender Blumenpracht zu verbringen. Mittags machen Sie einen kurzen Halt am Maze View, bevor Sie nach Durgan hinunterfahren. Verbringen Sie einen üppigen Nachmittag in den Tälern des Trebah Garden. Beenden Sie den Tag in den historischen und künstlerischen Tiefen von Kestle Barton.",
+        "hu": "Vezessen egyenesen a pompás Trebah Manor Gardensbe, hogy a reggelt a lenyűgöző virágkompozíciók között töltse. Délben tartson egy gyors pihenőt a Maze View-nál, mielőtt Durgan festői falujába indulna. Töltsön el egy buja délutánt a Trebah Garden mély szubtrópusi völgyeiben bolyongva. Zárja az autós utazást a Kestle Barton történelmi és művészeti mélységeinek felfedezésével.",
+        "ro": "Conduceți direct la grandioasa Trebah Manor Gardens pentru a vă petrece dimineața printre expoziții florale uimitoare. La prânz, faceți o scurtă oprire la Maze View înainte de a coborî spre satul Durgan. Petreceți o după-amiază luxuriantă rătăcind prin văile subtropicale din Trebah Garden. Încheiați excursia cu mașina explorând profunzimile istorice de la Kestle Barton.",
+        "en": "Drive straight to the grand Trebah Manor Gardens to spend your morning amidst stunning floral displays. By midday, make a quick stop at Maze View before heading down to the quaint village vibe of Durgan. Spend a lush afternoon wandering the deep subtropical valleys of Trebah Garden. Wrap up your vehicular day trip exploring the historical and artistic depths of Kestle Barton."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-mino-cities-v2",
+  "anchor": {
+    "name": "Miño",
+    "coords": [
+      -8.17926,
+      43.35787
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro dos Mouros",
+            "hu": "Castro dos Mouros",
+            "ro": "Castro dos Mouros",
+            "en": "Castro dos Mouros"
+          },
+          "coords": [
+            -8.178318,
+            43.367525
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen von Castro dos Mouros, um Galiciens keltische Vergangenheit zu entdecken, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Castro dos Mouros ősi romjait, hogy megismerje Galicia kelta múltját, és viseljen masszív cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele antice din Castro dos Mouros pentru a descoperi trecutul celtic al Galiției și purtați încălțăminte rezistentă pe terenul istoric accidentat.",
+            "en": "Explore the ancient ruins of Castro dos Mouros to uncover Galicia's Celtic past, and wear sturdy shoes for navigating the uneven historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xián de Carantoña",
+            "hu": "Igrexa de San Xián de Carantoña",
+            "ro": "Igrexa de San Xián de Carantoña",
+            "en": "Igrexa de San Xián de Carantoña"
+          },
+          "coords": [
+            -8.167225,
+            43.367257
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen romanischen Merkmale dieser historischen Kirche, und beachten Sie, dass die Besuchszeiten oft auf die Messe beschränkt sind.",
+            "hu": "Csodálja meg e történelmi templom hagyományos román kori jegyeit, amely a közösség központja, de tartsa szem előtt a korlátozott látogatási időt.",
+            "ro": "Admirați trăsăturile romanice ale acestei biserici istorice care ancorează comunitatea locală, ținând cont că orele de vizitare sunt adesea limitate.",
+            "en": "Admire the traditional Romanesque features of this historic church that anchors the local community, keeping in mind that visiting hours are often limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Andrade",
+            "hu": "Castro de Andrade",
+            "ro": "Castro de Andrade",
+            "en": "Castro de Andrade"
+          },
+          "coords": [
+            -8.165562,
+            43.373622
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die strategischen Überreste von Castro de Andrade für einen weiten Blick über die Täler und bringen Sie eine Windjacke für die oft windige Hügelkuppe mit.",
+            "hu": "Látogasson el a Castro de Andrade stratégiai maradványaihoz a völgyekre nyíló pazar kilátásért, és hozzon széldzsekit a dombtetőn gyakori szél miatt.",
+            "ro": "Vizitați vestigiile strategice de la Castro de Andrade pentru priveliști panoramice asupra văilor, aducând o jachetă deoarece pe deal poate bate vântul tare.",
+            "en": "Visit the strategic remains of Castro de Andrade for sweeping views of the surrounding valleys, bringing a windbreaker since the hilltop can get breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa da Fraga",
+            "hu": "Mámoa da Fraga",
+            "ro": "Mámoa da Fraga",
+            "en": "Mámoa da Fraga"
+          },
+          "coords": [
+            -8.187695,
+            43.37599
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Mámoa da Fraga in die Vorgeschichte ein und bleiben Sie auf den markierten Wegen, um das empfindliche Megalithgrab zu schützen.",
+            "hu": "Merüljön el a történelem előtti időkben a Mámoa da Fraga ősi megalitikus sírhalomnál, és maradjon a kijelölt ösvényeken a törékeny műemlék védelme érdekében.",
+            "ro": "Pătrundeți în preistorie la Mámoa da Fraga, un vechi tumul megalitic, și rămâneți pe potecile marcate pentru a ajuta la conservarea acestui monument fragil.",
+            "en": "Delve into prehistoric times at Mámoa da Fraga, an ancient megalithic burial mound, and stay on marked paths to help preserve this fragile monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Santa María",
+            "hu": "Castro de Santa María",
+            "ro": "Castro de Santa María",
+            "en": "Castro de Santa María"
+          },
+          "coords": [
+            -8.191928,
+            43.363609
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die befestigte Siedlung Castro de Santa María, die einst die Küste bewachte, und bringen Sie eine Kamera für den atemberaubenden Horizont mit.",
+            "hu": "Fedezze fel a partot egykor őrző Castro de Santa María erődített települését, és hozzon fényképezőgépet a lenyűgöző tengerparti horizont megörökítéséhez.",
+            "ro": "Descoperiți așezarea fortificată Castro de Santa María care păzea odată coasta, aducând un aparat foto pentru a surprinde orizonturile de coastă uimitoare.",
+            "en": "Discover the fortified settlement of Castro de Santa María that once guarded the coast, bringing a camera to capture the stunning coastal horizons."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de San Paio",
+            "hu": "Pazo de San Paio",
+            "ro": "Pazo de San Paio",
+            "en": "Pazo de San Paio"
+          },
+          "coords": [
+            -8.198731,
+            43.358546
+          ],
+          "category": "castle",
+          "arrive_at": "16:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aristokratische Architektur des Pazo de San Paio, eines gut erhaltenen galizischen Herrenhauses, und prüfen Sie vorab die raren Öffnungszeiten.",
+            "hu": "Csodálja meg a Pazo de San Paio arisztokratikus építészetét, egy jól karbantartott galíciai udvarházat, és tájékozódjon előre a ritka nyílt napokról.",
+            "ro": "Minunați-vă de arhitectura aristocratică a Pazo de San Paio, un conac galician bine conservat, verificând în prealabil zilele rare când interiorul este deschis.",
+            "en": "Marvel at the aristocratic architecture of Pazo de San Paio, a well-preserved Galician manor, checking ahead for the rare days when the interior is open."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem keltischen Erbe am Castro dos Mouros und der frischen Meeresbrise. Ein schöner Spaziergang führt Sie zur historischen Kirche von Carantoña.\n\nMittags wandern Sie zu den Höhen des Castro de Andrade. Danach bietet die Mámoa da Fraga tiefe Einblicke in die Geheimnisse der Region, umgeben von üppigem galizischem Grün.\n\nDer Nachmittag entfaltet sich am Castro de Santa María mit spektakulären Aussichten. Genießen Sie die moderate Wanderung hinab ins Tal zu den großen Anwesen der Umgebung.\n\nBeenden Sie den Tag am Pazo de San Paio. Seine aristokratischen Steine leuchten im Abendlicht und bieten einen perfekten, ruhigen Abschluss Ihrer historischen Wandertour.",
+        "hu": "Kezdje a reggelt a kelta örökség felfedezésével a Castro dos Mourosnál, miközben élvezi a friss tengeri szellőt. Egy kellemes séta elvezeti az ősi Carantoña templomhoz.\n\nDélben túrázzon fel a Castro de Andrade lenyűgöző magaslataira. Nem sokkal ezután a Mámoa da Fraga történelem előtti titkai várják, a buja galíciai zöldellő táj ölelésében.\n\nA délutánt a Castro de Santa María parti gerinceinél töltheti, amely látványos kilátást kínál. Élvezze a könnyű ereszkedést a völgy impozáns birtokai felé.\n\nZárja a napot a Pazo de San Paionál. Az arisztokratikus kövek csodálatosan ragyognak az esti fényben, tökéletes és nyugodt befejezést nyújtva a történelmi sétának.",
+        "ro": "Începeți dimineața explorând moștenirea celtică de la Castro dos Mouros, simțind briza proaspătă a mării. O plimbare plăcută vă duce la biserica istorică din Carantoña.\n\nLa prânz, urcați pentru a explora înălțimile de la Castro de Andrade. Apoi, Mámoa da Fraga oferă o scufundare profundă în misterele antice, înconjurată de verdeața luxuriantă din Galiția.\n\nDupă-amiaza se desfășoară la Castro de Santa María, oferind puncte de belvedere spectaculoase. Bucurați-vă de drumeția moderată în timp ce coborâți spre conacele văii.\n\nÎncheiați ziua la Pazo de San Paio. Pietrele sale aristocratice strălucesc frumos în lumina serii, oferind un final perfect și liniștit turului dumneavoastră istoric pe jos.",
+        "en": "Start your morning immersing yourself in the ancient Celtic heritage at Castro dos Mouros, feeling the crisp coastal breeze. A pleasant walk takes you to the historic Igrexa de San Xián de Carantoña.\n\nBy midday, hike upwards to explore the commanding heights of Castro de Andrade. Soon after, the prehistoric Mámoa da Fraga offers a deep dive into the region's ancient mysteries, surrounded by green.\n\nThe afternoon unfolds along the coastal ridges at Castro de Santa María, offering spectacular vantage points. Enjoy the moderate trek as you begin descending towards the valley's grand estates.\n\nConclude the day at Pazo de San Paio. Its aristocratic stones glow beautifully in the evening light, providing a perfect, tranquil finale to your historical walking tour through Miño's hidden past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro dos Mouros",
+            "hu": "Castro dos Mouros",
+            "ro": "Castro dos Mouros",
+            "en": "Castro dos Mouros"
+          },
+          "coords": [
+            -8.178318,
+            43.367525
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen von Castro dos Mouros, um Galiciens keltische Vergangenheit zu entdecken, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Castro dos Mouros ősi romjait, hogy megismerje Galicia kelta múltját, és viseljen masszív cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele antice din Castro dos Mouros pentru a descoperi trecutul celtic al Galiției și purtați încălțăminte rezistentă pe terenul istoric accidentat.",
+            "en": "Explore the ancient ruins of Castro dos Mouros to uncover Galicia's Celtic past, and wear sturdy shoes for navigating the uneven historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xián de Carantoña",
+            "hu": "Igrexa de San Xián de Carantoña",
+            "ro": "Igrexa de San Xián de Carantoña",
+            "en": "Igrexa de San Xián de Carantoña"
+          },
+          "coords": [
+            -8.167225,
+            43.367257
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen romanischen Merkmale dieser historischen Kirche, und beachten Sie, dass die Besuchszeiten oft auf die Messe beschränkt sind.",
+            "hu": "Csodálja meg e történelmi templom hagyományos román kori jegyeit, amely a közösség központja, de tartsa szem előtt a korlátozott látogatási időt.",
+            "ro": "Admirați trăsăturile romanice ale acestei biserici istorice care ancorează comunitatea locală, ținând cont că orele de vizitare sunt adesea limitate.",
+            "en": "Admire the traditional Romanesque features of this historic church that anchors the local community, keeping in mind that visiting hours are often limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Andrade",
+            "hu": "Castro de Andrade",
+            "ro": "Castro de Andrade",
+            "en": "Castro de Andrade"
+          },
+          "coords": [
+            -8.165562,
+            43.373622
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die strategischen Überreste von Castro de Andrade für einen weiten Blick über die Täler und bringen Sie eine Windjacke für die oft windige Hügelkuppe mit.",
+            "hu": "Látogasson el a Castro de Andrade stratégiai maradványaihoz a völgyekre nyíló pazar kilátásért, és hozzon széldzsekit a dombtetőn gyakori szél miatt.",
+            "ro": "Vizitați vestigiile strategice de la Castro de Andrade pentru priveliști panoramice asupra văilor, aducând o jachetă deoarece pe deal poate bate vântul tare.",
+            "en": "Visit the strategic remains of Castro de Andrade for sweeping views of the surrounding valleys, bringing a windbreaker since the hilltop can get breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa da Fraga",
+            "hu": "Mámoa da Fraga",
+            "ro": "Mámoa da Fraga",
+            "en": "Mámoa da Fraga"
+          },
+          "coords": [
+            -8.187695,
+            43.37599
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Mámoa da Fraga in die Vorgeschichte ein und bleiben Sie auf den markierten Wegen, um das empfindliche Megalithgrab zu schützen.",
+            "hu": "Merüljön el a történelem előtti időkben a Mámoa da Fraga ősi megalitikus sírhalomnál, és maradjon a kijelölt ösvényeken a törékeny műemlék védelme érdekében.",
+            "ro": "Pătrundeți în preistorie la Mámoa da Fraga, un vechi tumul megalitic, și rămâneți pe potecile marcate pentru a ajuta la conservarea acestui monument fragil.",
+            "en": "Delve into prehistoric times at Mámoa da Fraga, an ancient megalithic burial mound, and stay on marked paths to help preserve this fragile monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Santa María",
+            "hu": "Castro de Santa María",
+            "ro": "Castro de Santa María",
+            "en": "Castro de Santa María"
+          },
+          "coords": [
+            -8.191928,
+            43.363609
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die befestigte Siedlung Castro de Santa María, die einst die Küste bewachte, und bringen Sie eine Kamera für den atemberaubenden Horizont mit.",
+            "hu": "Fedezze fel a partot egykor őrző Castro de Santa María erődített települését, és hozzon fényképezőgépet a lenyűgöző tengerparti horizont megörökítéséhez.",
+            "ro": "Descoperiți așezarea fortificată Castro de Santa María care păzea odată coasta, aducând un aparat foto pentru a surprinde orizonturile de coastă uimitoare.",
+            "en": "Discover the fortified settlement of Castro de Santa María that once guarded the coast, bringing a camera to capture the stunning coastal horizons."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de San Paio",
+            "hu": "Pazo de San Paio",
+            "ro": "Pazo de San Paio",
+            "en": "Pazo de San Paio"
+          },
+          "coords": [
+            -8.198731,
+            43.358546
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aristokratische Architektur des Pazo de San Paio, eines gut erhaltenen galizischen Herrenhauses, und prüfen Sie vorab die raren Öffnungszeiten.",
+            "hu": "Csodálja meg a Pazo de San Paio arisztokratikus építészetét, egy jól karbantartott galíciai udvarházat, és tájékozódjon előre a ritka nyílt napokról.",
+            "ro": "Minunați-vă de arhitectura aristocratică a Pazo de San Paio, un conac galician bine conservat, verificând în prealabil zilele rare când interiorul este deschis.",
+            "en": "Marvel at the aristocratic architecture of Pazo de San Paio, a well-preserved Galician manor, checking ahead for the rare days when the interior is open."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Bañobre",
+            "hu": "Pazo de Bañobre",
+            "ro": "Pazo de Bañobre",
+            "en": "Pazo de Bañobre"
+          },
+          "coords": [
+            -8.199337,
+            43.357142
+          ],
+          "category": "castle",
+          "arrive_at": "16:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den beeindruckenden Mauern des Pazo de Bañobre vorbei, einem Beispiel ländlicher Adelsarchitektur, und genießen Sie die friedliche Natur.",
+            "hu": "Sétáljon el a Pazo de Bañobre impozáns falai mellett, amely a vidéki nemesi építészet kiváló példája, és élvezze a békés környező vidéket.",
+            "ro": "Plimbați-vă pe lângă zidurile formidabile ale Pazo de Bañobre, un exemplu excelent de arhitectură nobiliară rurală, bucurându-vă de mediul rural liniștit.",
+            "en": "Stroll past the formidable walls of Pazo de Bañobre, an excellent example of rural nobility architecture, enjoying the peaceful surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour durch Miños alte Wurzeln am Castro dos Mouros. Die frische Morgenluft ist perfekt, während Sie zügig zur ruhigen Steinfassade der Kirche von Carantoña radeln.\n\nDer Mittag bringt einen moderaten Anstieg zum Castro de Andrade, der Sie mit Panoramablicken belohnt. Danach rollen Sie bequem zu den faszinierenden prähistorischen Grabstätten der Mámoa da Fraga hinüber.\n\nVerbringen Sie den Nachmittag damit, die alten Küstenverteidigungen am Castro de Santa María abzufahren. Die landschaftlich reizvolle Radstrecke bietet wunderbare Ausblicke, bevor es talwärts geht.\n\nWenn der Abend naht, erkunden Sie die edlen Anwesen Pazo de San Paio und Pazo de Bañobre. Diese majestätischen Herrenhäuser wirken in der Dämmerung besonders aristokratisch und reizvoll.",
+        "hu": "Kezdje a biciklis utazást Miño ősi gyökereinél a Castro dos Mourosnál. A friss reggeli levegő tökéletes, miközben gyorsan teker az ősi Carantoña templom békés kőhomlokzata felé.\n\nA dél egy közepesen nehéz emelkedőt hoz a Castro de Andrade felé, amely panorámás kilátással jutalmazza. Ezután könnyedén elgurulhat a Mámoa da Fraga lenyűgöző történelem előtti temetkezési helyéhez.\n\nTöltse a délutánt az ősi partvédelmi vonalak követésével a Castro de Santa Maríanál. A festői kerékpáros útvonal csodálatos parti kilátást nyújt, mielőtt leereszkedne a völgy udvarházaihoz.\n\nAz este közeledtével fedezze fel a Pazo de San Paio és a Pazo de Bañobre nemesi birtokait. Ezek a fenséges udvarházak különösen lenyűgözőek alkonyatkor, elegáns lezárást adva a napnak.",
+        "ro": "Începeți călătoria cu bicicleta prin rădăcinile antice din Miño la Castro dos Mouros. Aerul proaspăt al dimineții este perfect în timp ce pedalați spre fațada senină a bisericii din Carantoña.\n\nPrânzul aduce o urcare moderată spre Castro de Andrade, recompensându-vă cu priveliști panoramice. Apoi, veți coborî ușor către fascinantele locuri de înmormântare preistorice de la Mámoa da Fraga.\n\nPetreceți-vă după-amiaza urmărind vechile apărări de coastă la Castro de Santa María. Traseul pitoresc de ciclism oferă imagini minunate înainte de a coborî spre conacele din regiune.\n\nPe măsură ce se apropie seara, explorați domeniile nobile Pazo de San Paio și Pazo de Bañobre. Aceste conace majestuoase arată deosebit de izbitor la amurg, terminând bucla cu farmec aristocratic.",
+        "en": "Kick off your cycling journey through Miño's ancient roots at Castro dos Mouros. The fresh morning air is perfect as you pedal swiftly towards the serene stone facade of Igrexa de San Xián de Carantoña.\n\nMidday brings a moderately challenging climb to Castro de Andrade, rewarding you with panoramic valley views. You'll then easily coast over to the fascinating prehistoric burial grounds of Mámoa da Fraga.\n\nSpend your afternoon tracing the ancient coastal defenses at Castro de Santa María. The scenic cycling route here provides wonderful coastal glimpses before winding down towards the region's manors.\n\nAs evening approaches, explore the noble estates of Pazo de San Paio and Pazo de Bañobre. These majestic manors look particularly striking at dusk, finishing your cycling loop with aristocratic charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 8.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Tomé de Bemantes",
+            "hu": "Igrexa de San Tomé de Bemantes",
+            "ro": "Igrexa de San Tomé de Bemantes",
+            "en": "Igrexa de San Tomé de Bemantes"
+          },
+          "coords": [
+            -8.173183,
+            43.339301
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schätzen Sie die ruhige Spiritualität der Igrexa de San Tomé de Bemantes, einer ländlichen Kirche, und ruhen Sie sich einen Moment auf den Steinbänken aus.",
+            "hu": "Értékelje az Igrexa de San Tomé de Bemantes csendes lelkiségét, egy hangulatos vidéki templomot, és pihenjen meg egy pillanatra a kinti kőpadokon.",
+            "ro": "Apreciați spiritualitatea liniștită a Bisericii San Tomé de Bemantes, o biserică rurală fermecătoare, luând un moment de odihnă pe băncile de piatră de afară.",
+            "en": "Appreciate the quiet spirituality of Igrexa de San Tomé de Bemantes, a charming rural church, taking a moment to rest on the stone benches outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Bañobre",
+            "hu": "Pazo de Bañobre",
+            "ro": "Pazo de Bañobre",
+            "en": "Pazo de Bañobre"
+          },
+          "coords": [
+            -8.199337,
+            43.357142
+          ],
+          "category": "castle",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den beeindruckenden Mauern des Pazo de Bañobre vorbei, einem Beispiel ländlicher Adelsarchitektur, und genießen Sie die friedliche Natur.",
+            "hu": "Sétáljon el a Pazo de Bañobre impozáns falai mellett, amely a vidéki nemesi építészet kiváló példája, és élvezze a békés környező vidéket.",
+            "ro": "Plimbați-vă pe lângă zidurile formidabile ale Pazo de Bañobre, un exemplu excelent de arhitectură nobiliară rurală, bucurându-vă de mediul rural liniștit.",
+            "en": "Stroll past the formidable walls of Pazo de Bañobre, an excellent example of rural nobility architecture, enjoying the peaceful surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de San Paio",
+            "hu": "Pazo de San Paio",
+            "ro": "Pazo de San Paio",
+            "en": "Pazo de San Paio"
+          },
+          "coords": [
+            -8.198731,
+            43.358546
+          ],
+          "category": "castle",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aristokratische Architektur des Pazo de San Paio, eines gut erhaltenen galizischen Herrenhauses, und prüfen Sie vorab die raren Öffnungszeiten.",
+            "hu": "Csodálja meg a Pazo de San Paio arisztokratikus építészetét, egy jól karbantartott galíciai udvarházat, és tájékozódjon előre a ritka nyílt napokról.",
+            "ro": "Minunați-vă de arhitectura aristocratică a Pazo de San Paio, un conac galician bine conservat, verificând în prealabil zilele rare când interiorul este deschis.",
+            "en": "Marvel at the aristocratic architecture of Pazo de San Paio, a well-preserved Galician manor, checking ahead for the rare days when the interior is open."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Santa María",
+            "hu": "Castro de Santa María",
+            "ro": "Castro de Santa María",
+            "en": "Castro de Santa María"
+          },
+          "coords": [
+            -8.191928,
+            43.363609
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die befestigte Siedlung Castro de Santa María, die einst die Küste bewachte, und bringen Sie eine Kamera für den atemberaubenden Horizont mit.",
+            "hu": "Fedezze fel a partot egykor őrző Castro de Santa María erődített települését, és hozzon fényképezőgépet a lenyűgöző tengerparti horizont megörökítéséhez.",
+            "ro": "Descoperiți așezarea fortificată Castro de Santa María care păzea odată coasta, aducând un aparat foto pentru a surprinde orizonturile de coastă uimitoare.",
+            "en": "Discover the fortified settlement of Castro de Santa María that once guarded the coast, bringing a camera to capture the stunning coastal horizons."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa da Fraga",
+            "hu": "Mámoa da Fraga",
+            "ro": "Mámoa da Fraga",
+            "en": "Mámoa da Fraga"
+          },
+          "coords": [
+            -8.187695,
+            43.37599
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Mámoa da Fraga in die Vorgeschichte ein und bleiben Sie auf den markierten Wegen, um das empfindliche Megalithgrab zu schützen.",
+            "hu": "Merüljön el a történelem előtti időkben a Mámoa da Fraga ősi megalitikus sírhalomnál, és maradjon a kijelölt ösvényeken a törékeny műemlék védelme érdekében.",
+            "ro": "Pătrundeți în preistorie la Mámoa da Fraga, un vechi tumul megalitic, și rămâneți pe potecile marcate pentru a ajuta la conservarea acestui monument fragil.",
+            "en": "Delve into prehistoric times at Mámoa da Fraga, an ancient megalithic burial mound, and stay on marked paths to help preserve this fragile monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Andrade",
+            "hu": "Castro de Andrade",
+            "ro": "Castro de Andrade",
+            "en": "Castro de Andrade"
+          },
+          "coords": [
+            -8.165562,
+            43.373622
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die strategischen Überreste von Castro de Andrade für einen weiten Blick über die Täler und bringen Sie eine Windjacke für die oft windige Hügelkuppe mit.",
+            "hu": "Látogasson el a Castro de Andrade stratégiai maradványaihoz a völgyekre nyíló pazar kilátásért, és hozzon széldzsekit a dombtetőn gyakori szél miatt.",
+            "ro": "Vizitați vestigiile strategice de la Castro de Andrade pentru priveliști panoramice asupra văilor, aducând o jachetă deoarece pe deal poate bate vântul tare.",
+            "en": "Visit the strategic remains of Castro de Andrade for sweeping views of the surrounding valleys, bringing a windbreaker since the hilltop can get breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xián de Carantoña",
+            "hu": "Igrexa de San Xián de Carantoña",
+            "ro": "Igrexa de San Xián de Carantoña",
+            "en": "Igrexa de San Xián de Carantoña"
+          },
+          "coords": [
+            -8.167225,
+            43.367257
+          ],
+          "category": "religious",
+          "arrive_at": "16:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen romanischen Merkmale dieser historischen Kirche, und beachten Sie, dass die Besuchszeiten oft auf die Messe beschränkt sind.",
+            "hu": "Csodálja meg e történelmi templom hagyományos román kori jegyeit, amely a közösség központja, de tartsa szem előtt a korlátozott látogatási időt.",
+            "ro": "Admirați trăsăturile romanice ale acestei biserici istorice care ancorează comunitatea locală, ținând cont că orele de vizitare sunt adesea limitate.",
+            "en": "Admire the traditional Romanesque features of this historic church that anchors the local community, keeping in mind that visiting hours are often limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro dos Mouros",
+            "hu": "Castro dos Mouros",
+            "ro": "Castro dos Mouros",
+            "en": "Castro dos Mouros"
+          },
+          "coords": [
+            -8.178318,
+            43.367525
+          ],
+          "category": "historical",
+          "arrive_at": "16:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen von Castro dos Mouros, um Galiciens keltische Vergangenheit zu entdecken, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Castro dos Mouros ősi romjait, hogy megismerje Galicia kelta múltját, és viseljen masszív cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele antice din Castro dos Mouros pentru a descoperi trecutul celtic al Galiției și purtați încălțăminte rezistentă pe terenul istoric accidentat.",
+            "en": "Explore the ancient ruins of Castro dos Mouros to uncover Galicia's Celtic past, and wear sturdy shoes for navigating the uneven historic terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am ruhigen südlichen Rand bei der Kirche von Bemantes. Von dort aus navigieren Sie bequem zu den majestätischen ländlichen Herrenhäusern, beginnend mit dem Pazo de Bañobre.\n\nDer Mittag geht weiter mit einer kurzen Fahrt zum Pazo de San Paio, gefolgt von einer Erkundung der Küstenbefestigungen am Castro de Santa María, wobei Sie die Flexibilität Ihres Autos genießen.\n\nFahren Sie am Nachmittag landeinwärts, um Galiciens prähistorische und keltische Wurzeln bei der Mámoa da Fraga und den Ruinen des Castro de Andrade zu entdecken und dabei Zeit und Energie zu sparen.\n\nBeenden Sie Ihren Roadtrip mit einem Besuch der charmanten Kirche von Carantoña und dem nahegelegenen Castro dos Mouros. Das Abendlicht wirft lange Schatten auf die Steine und beendet den Tag perfekt.",
+        "hu": "Kezdje a festői autózást a békés déli külvárosban, a Bemantes templomnál. Innen könnyedén elnavigálhat a fenséges vidéki udvarházakhoz, kezdve a lenyűgöző Pazo de Bañobrével.\n\nA dél egy rövid utazással folytatódik az arisztokratikus Pazo de San Paiohoz, amelyet a Castro de Santa María parti erődítményeinek felfedezése követ, kihasználva az autó nyújtotta rugalmasságot.\n\nDélután vezessen a szárazföld belseje felé, hogy felfedezze Galicia történelem előtti és kelta gyökereit a Mámoa da Fraga és a Castro de Andrade romjainál, jelentős időt és energiát megtakarítva.\n\nFejezze be autós túráját a bájos Carantoña templom és a közeli Castro dos Mouros meglátogatásával. Az esti fény hosszú árnyékokat vet ezekre az ősi kövekre, tökéletesen zárva a napot.",
+        "ro": "Începeți traseul pitoresc la marginea liniștită de sud, la Biserica din Bemantes. De acolo, navigați ușor către conacele rurale majestuoase, începând cu formidabilul Pazo de Bañobre.\n\nPrânzul continuă cu un scurt drum spre aristocraticul Pazo de San Paio, urmat de o explorare a fortificațiilor de coastă de la Castro de Santa María, bucurându-vă de flexibilitatea vehiculului.\n\nConduceți spre interior în timpul după-amiezii pentru a descoperi rădăcinile preistorice și celtice ale Galiției la Mámoa da Fraga și ruinele impunătoare de la Castro de Andrade, economisind timp.\n\nÎncheiați-vă călătoria cu o vizită la fermecătoarea biserică din Carantoña și la Castro dos Mouros din apropiere. Lumina serii aruncă umbre lungi peste pietrele antice, încheind ziua perfect.",
+        "en": "Begin your scenic drive in the peaceful southern outskirts at Igrexa de San Tomé de Bemantes. From there, easily navigate to the majestic rural manors, starting with the formidable Pazo de Bañobre.\n\nMidday continues with a short drive to the aristocratic Pazo de San Paio, followed by an exploration of the coastal fortifications at Castro de Santa María, enjoying the flexibility your vehicle provides.\n\nDrive inland during the afternoon to discover Galicia's prehistoric and Celtic roots at Mámoa da Fraga and the commanding hilltop ruins of Castro de Andrade, saving significant time and energy.\n\nConclude your road trip with a visit to the charming Igrexa de San Xián de Carantoña and the nearby Castro dos Mouros. The evening light casts long shadows over these ancient stones, ending the day perfectly."
+      }
+    }
+  }
+}

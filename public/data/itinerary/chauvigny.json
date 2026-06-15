@@ -1,0 +1,474 @@
+{
+  "city_id": "chauvigny",
+  "anchor": {
+    "name": "Chauvigny",
+    "coords": [
+      0.6467,
+      46.5686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 0.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            0.644267,
+            46.569763
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses und spüren Sie den lokalen Bürgerstolz, aber prüfen Sie die Öffnungszeiten für Ausstellungen im Inneren.",
+            "hu": "Csodálja meg a történelmi városháza klasszikus építészetét, és érezze át a helyi polgári büszkeséget, de ellenőrizze a nyitvatartást, ha a belső kiállításokat is látná.",
+            "ro": "Admirați arhitectura clasică a acestei primării istorice pentru a simți mândria civică locală, dar verificați orarul de funcționare dacă doriți să vizitați expozițiile din interior.",
+            "en": "Admire the classic architecture of this historic town hall and feel the local civic pride, but check the opening hours if you want to see the interior exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            0.645435,
+            46.569115
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende romanische Kirche, die für ihre kunstvoll geformten Kapitelle bekannt ist, und kommen Sie früh, um das schöne Licht der Glasfenster einzufangen.",
+            "hu": "Fedezze fel ezt a lélegzetelállító román stílusú templomot, amely híres faragott oszlopfőiről, és érkezzen kora reggel, hogy megcsodálhassa az ablakokon beszűrődő fényjátékot.",
+            "ro": "Explorați această uimitoare biserică romanică faimoasă pentru capitelurile sale sculptate și sosiți dimineața devreme pentru a surprinde lumina filtrată prin vitraliile spectaculoase.",
+            "en": "Explore this breathtaking Romanesque church renowned for its intricately sculpted capitals, and arrive early morning to capture the beautiful light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkstraditionen und Archäologie",
+            "hu": "Néphagyományok és Régészeti Múzeum",
+            "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+            "en": "Museum of Popular Traditions and Archaeology"
+          },
+          "coords": [
+            0.648105,
+            46.570594
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende archäologische Funde und ländliche Traditionen in die Vergangenheit von Chauvigny ein und beginnen Sie im Erdgeschoss für den besten Überblick.",
+            "hu": "Merüljön el Chauvigny múltjában a lenyűgöző régészeti leletek és vidéki hagyományok révén, és kezdje a látogatást a földszinten, hogy jobban követhesse a történelmi idősíkot.",
+            "ro": "Pătrundeți în trecutul orașului Chauvigny prin artefacte arheologice și tradiții rurale fascinante și începeți vizita la parter pentru a urmări mai bine cronologia istorică.",
+            "en": "Dive into Chauvigny's past through fascinating archaeological artifacts and rural traditions, and start your visit on the ground floor to better follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Harcourt",
+            "hu": "Harcourt-kastély",
+            "ro": "Castelul Harcourt",
+            "en": "Harcourt Castle"
+          },
+          "coords": [
+            0.64918,
+            46.568996
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die beeindruckenden Ruinen dieser mittelalterlichen Festung, die einst die Stadt bewachte, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a középkori várost egykor őrző lenyűgöző erődítmény romjai között, és viseljen kényelmes, strapabíró cipőt, mivel az egyenetlen kőösvények meglehetősen kihívást jelentenek.",
+            "ro": "Plimbați-vă printre ruinele impresionante ale acestei fortărețe medievale ce păzea odinioară orașul și purtați încălțăminte robustă, deoarece aleile din piatră sunt neregulate.",
+            "en": "Wander around the impressive ruins of this medieval fortress that once guarded the medieval city, and wear sturdy shoes as the uneven stone pathways can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesen des Himmels",
+            "hu": "Az Ég Óriásai",
+            "ro": "Uriașii Cerului",
+            "en": "The Giants of the Sky"
+          },
+          "coords": [
+            0.649062,
+            46.56899
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der spektakulären Freiflug-Vogelshow in den Burgruinen der Bischöfe begeistern und sichern Sie sich Ihre Plätze mindestens zwanzig Minuten vor Beginn.",
+            "hu": "Hagyja magát elvarázsolni a látványos szabadon repülő madárshow-val a Püspöki Palota romjai között, és foglalja el a helyét legalább húsz perccel az előadás kezdete előtt.",
+            "ro": "Lăsați-vă uimit de spectacolul impresionant cu păsări de pradă în zbor liber din ruinele Castelului Episcopilor și asigurați-vă un loc cu cel puțin douăzeci de minute înainte.",
+            "en": "Be amazed by the spectacular free-flight bird show set within the evocative ruins of the Bishops' Castle, and secure your seats at least twenty minutes before the performance begins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit historischen Wundern in der Oberstadt, wo Sie alte Kirchen und Wahrzeichen erkunden. Tauchen Sie mittags in mittelalterliche Ruinen und archäologische Schätze ein. Der Nachmittag bietet eine aufregende Vogelshow in der spektakulären Kulisse alter Festungen. Beenden Sie den Tag in Chauvigny mit einem gemütlichen Spaziergang durch die kopfsteingepflasterten Gassen.",
+        "hu": "A reggel a felsőváros történelmi csodáival, ősi templomok és nevezetességek felfedezésével indul. Délben merüljön el a középkori romok és régészeti kincsek világában. A délután izgalmas madárshow-t kínál egy ősi erődítmény lenyűgöző díszletei között. Zárja ezt az élénk chauvigny-i napot egy kellemes esti sétával a macskaköves hangulatos utcákon.",
+        "ro": "Dimineața începe cu minuni istorice în orașul de sus, explorând biserici vechi și repere civice. La prânz, scufundați-vă în ruine medievale și comori arheologice. După-amiaza oferă un spectacol palpitant cu păsări printre zidurile fortărețelor ancestrale. Încheiați ziua în vibrantul Chauvigny cu o plimbare relaxantă de seară pe străduțele pietruite.",
+        "en": "Morning begins with historic marvels in the upper town, exploring ancient churches and civic landmarks. By midday, immerse yourself in medieval ruins and archaeological treasures. The afternoon offers a thrilling bird show set against the spectacular backdrop of ancient fortress walls. Conclude your vibrant Chauvigny day with a leisurely evening stroll through the cobbled streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chauvigny Draisinenbahn",
+            "hu": "Chauvigny Hajtány",
+            "ro": "Drezina Chauvigny",
+            "en": "Chauvigny Rail-bike"
+          },
+          "coords": [
+            0.635757,
+            46.570281
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Fahrt auf der Draisinenbahn entlang der malerischen ehemaligen Eisenbahnstrecken und bringen Sie ausreichend Wasser und Sonnencreme mit.",
+            "hu": "Élvezze a szórakoztató és aktív utazást a hajtányon a festői egykori vasútvonalakon, és mindenképpen vigyen magával elegendő vizet és naptejet a naposabb szakaszokra.",
+            "ro": "Bucurați-vă de o cursă distractivă cu drezina pe pedale de-a lungul vechilor linii de cale ferată și asigurați-vă că aveți la voi multă apă și cremă de protecție solară.",
+            "en": "Enjoy a fun and active ride on a pedal-powered rail bike along the picturesque former railway lines, and make sure to bring plenty of water and some sunscreen for the sunny stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            0.644267,
+            46.569763
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses und spüren Sie den lokalen Bürgerstolz, aber prüfen Sie die Öffnungszeiten für Ausstellungen im Inneren.",
+            "hu": "Csodálja meg a történelmi városháza klasszikus építészetét, és érezze át a helyi polgári büszkeséget, de ellenőrizze a nyitvatartást, ha a belső kiállításokat is látná.",
+            "ro": "Admirați arhitectura clasică a acestei primării istorice pentru a simți mândria civică locală, dar verificați orarul de funcționare dacă doriți să vizitați expozițiile din interior.",
+            "en": "Admire the classic architecture of this historic town hall and feel the local civic pride, but check the opening hours if you want to see the interior exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            0.645435,
+            46.569115
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende romanische Kirche, die für ihre kunstvoll geformten Kapitelle bekannt ist, und kommen Sie früh, um das schöne Licht der Glasfenster einzufangen.",
+            "hu": "Fedezze fel ezt a lélegzetelállító román stílusú templomot, amely híres faragott oszlopfőiről, és érkezzen kora reggel, hogy megcsodálhassa az ablakokon beszűrődő fényjátékot.",
+            "ro": "Explorați această uimitoare biserică romanică faimoasă pentru capitelurile sale sculptate și sosiți dimineața devreme pentru a surprinde lumina filtrată prin vitraliile spectaculoase.",
+            "en": "Explore this breathtaking Romanesque church renowned for its intricately sculpted capitals, and arrive early morning to capture the beautiful light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Harcourt",
+            "hu": "Harcourt-kastély",
+            "ro": "Castelul Harcourt",
+            "en": "Harcourt Castle"
+          },
+          "coords": [
+            0.64918,
+            46.568996
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die beeindruckenden Ruinen dieser mittelalterlichen Festung, die einst die Stadt bewachte, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a középkori várost egykor őrző lenyűgöző erődítmény romjai között, és viseljen kényelmes, strapabíró cipőt, mivel az egyenetlen kőösvények meglehetősen kihívást jelentenek.",
+            "ro": "Plimbați-vă printre ruinele impresionante ale acestei fortărețe medievale ce păzea odinioară orașul și purtați încălțăminte robustă, deoarece aleile din piatră sunt neregulate.",
+            "en": "Wander around the impressive ruins of this medieval fortress that once guarded the medieval city, and wear sturdy shoes as the uneven stone pathways can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkstraditionen und Archäologie",
+            "hu": "Néphagyományok és Régészeti Múzeum",
+            "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+            "en": "Museum of Popular Traditions and Archaeology"
+          },
+          "coords": [
+            0.648105,
+            46.570594
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende archäologische Funde und ländliche Traditionen in die Vergangenheit von Chauvigny ein und beginnen Sie im Erdgeschoss für den besten Überblick.",
+            "hu": "Merüljön el Chauvigny múltjában a lenyűgöző régészeti leletek és vidéki hagyományok révén, és kezdje a látogatást a földszinten, hogy jobban követhesse a történelmi idősíkot.",
+            "ro": "Pătrundeți în trecutul orașului Chauvigny prin artefacte arheologice și tradiții rurale fascinante și începeți vizita la parter pentru a urmări mai bine cronologia istorică.",
+            "en": "Dive into Chauvigny's past through fascinating archaeological artifacts and rural traditions, and start your visit on the ground floor to better follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad",
+            "hu": "Uszoda",
+            "ro": "Piscina",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            0.666939,
+            46.573409
+          ],
+          "category": "family",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem einladenden und familienfreundlichen örtlichen Schwimmbad ab und überprüfen Sie den Tagesplan für spezielle Bahnenzeiten oder Kinderaktivitäten.",
+            "hu": "Hűsöljön és kapcsolódjon ki ebben a barátságos, családok számára is tökéletes helyi uszodában, és ellenőrizze a napi menetrendet a sávos úszások vagy gyermekprogramok miatt.",
+            "ro": "Răcoriți-vă și relaxați-vă la această piscină locală primitoare, ideală pentru familii, și verificați programul zilnic pentru înot pe culoare sau activități pentru copii.",
+            "en": "Cool off and relax at this welcoming local swimming pool which is perfect for families, and check the daily schedule for dedicated lane swimming or fun children's activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie sportlich auf den Schienen der malerischen Draisinenbahn. Fahren Sie zur Mittagszeit ins historische Zentrum, wo romanische Kirchen und faszinierende Burgruinen auf Ihre Erkundung warten. Tauchen Sie in das archäologische Erbe der Region ein, bevor Sie den Tag mit einem erfrischenden Bad im örtlichen Schwimmbad ausklingen lassen.",
+        "hu": "Kezdje a napot sportosan a festői hajtánypályán pedálozva. Délben tekerjen be a történelmi központba, ahol román stílusú templomok és lenyűgöző várromok várják, hogy felfedezze őket. Merüljön el a régió régészeti örökségében, mielőtt a napot egy frissítő úszással zárná a helyi uszodában.",
+        "ro": "Începeți activ pe șinele pitoreștii drezine. La prânz, pedalați spre centrul istoric unde biserici romanice și ruine fascinante de castel vă așteaptă explorarea. Aprofundați moștenirea arheologică a regiunii, înainte de a încheia ziua cu o baie revigorantă la piscina primitoare a orașului.",
+        "en": "Start actively by pedaling along the tracks of the picturesque rail-bike. By midday, cycle into the historic center where Romanesque churches and fascinating castle ruins await your exploration. Delve into the region's archaeological heritage before concluding the day with a refreshing swim at the local pool."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 4.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-les-Églises",
+            "hu": "Saint-Pierre-les-Églises templom",
+            "ro": "Biserica Saint-Pierre-les-Églises",
+            "en": "Saint-Pierre-les-Églises Church"
+          },
+          "coords": [
+            0.634949,
+            46.554469
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese uralte, stimmungsvolle Kirche, die für ihre außergewöhnlichen karolingischen Fresken berühmt ist, und fragen Sie das Tourismusbüro nach einer Führung.",
+            "hu": "Fedezze fel ezt az ősi és rendkívül hangulatos templomot, amely a különleges karoling freskóiról híres, és kérjen kulcsos tárlatvezetést a helyi turisztikai irodától, ha zárva van.",
+            "ro": "Descoperiți această biserică veche și plină de atmosferă, celebră pentru frescele sale carolingiene, și cereți un tur cu ghid de la oficiul de turism dacă o găsiți închisă.",
+            "en": "Discover this ancient and deeply atmospheric church famous for its extraordinary Carolingian frescoes, and ask the local tourist office for a guided key-tour if it is locked."
+          }
+        },
+        {
+          "name": {
+            "de": "Chauvigny Draisinenbahn",
+            "hu": "Chauvigny Hajtány",
+            "ro": "Drezina Chauvigny",
+            "en": "Chauvigny Rail-bike"
+          },
+          "coords": [
+            0.635757,
+            46.570281
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Fahrt auf der Draisinenbahn entlang der malerischen ehemaligen Eisenbahnstrecken und bringen Sie ausreichend Wasser und Sonnencreme mit.",
+            "hu": "Élvezze a szórakoztató és aktív utazást a hajtányon a festői egykori vasútvonalakon, és mindenképpen vigyen magával elegendő vizet és naptejet a naposabb szakaszokra.",
+            "ro": "Bucurați-vă de o cursă distractivă cu drezina pe pedale de-a lungul vechilor linii de cale ferată și asigurați-vă că aveți la voi multă apă și cremă de protecție solară.",
+            "en": "Enjoy a fun and active ride on a pedal-powered rail bike along the picturesque former railway lines, and make sure to bring plenty of water and some sunscreen for the sunny stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            0.645435,
+            46.569115
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende romanische Kirche, die für ihre kunstvoll geformten Kapitelle bekannt ist, und kommen Sie früh, um das schöne Licht der Glasfenster einzufangen.",
+            "hu": "Fedezze fel ezt a lélegzetelállító román stílusú templomot, amely híres faragott oszlopfőiről, és érkezzen kora reggel, hogy megcsodálhassa az ablakokon beszűrődő fényjátékot.",
+            "ro": "Explorați această uimitoare biserică romanică faimoasă pentru capitelurile sale sculptate și sosiți dimineața devreme pentru a surprinde lumina filtrată prin vitraliile spectaculoase.",
+            "en": "Explore this breathtaking Romanesque church renowned for its intricately sculpted capitals, and arrive early morning to capture the beautiful light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Harcourt",
+            "hu": "Harcourt-kastély",
+            "ro": "Castelul Harcourt",
+            "en": "Harcourt Castle"
+          },
+          "coords": [
+            0.64918,
+            46.568996
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die beeindruckenden Ruinen dieser mittelalterlichen Festung, die einst die Stadt bewachte, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a középkori várost egykor őrző lenyűgöző erődítmény romjai között, és viseljen kényelmes, strapabíró cipőt, mivel az egyenetlen kőösvények meglehetősen kihívást jelentenek.",
+            "ro": "Plimbați-vă printre ruinele impresionante ale acestei fortărețe medievale ce păzea odinioară orașul și purtați încălțăminte robustă, deoarece aleile din piatră sunt neregulate.",
+            "en": "Wander around the impressive ruins of this medieval fortress that once guarded the medieval city, and wear sturdy shoes as the uneven stone pathways can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesen des Himmels",
+            "hu": "Az Ég Óriásai",
+            "ro": "Uriașii Cerului",
+            "en": "The Giants of the Sky"
+          },
+          "coords": [
+            0.649062,
+            46.56899
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der spektakulären Freiflug-Vogelshow in den Burgruinen der Bischöfe begeistern und sichern Sie sich Ihre Plätze mindestens zwanzig Minuten vor Beginn.",
+            "hu": "Hagyja magát elvarázsolni a látványos szabadon repülő madárshow-val a Püspöki Palota romjai között, és foglalja el a helyét legalább húsz perccel az előadás kezdete előtt.",
+            "ro": "Lăsați-vă uimit de spectacolul impresionant cu păsări de pradă în zbor liber din ruinele Castelului Episcopilor și asigurați-vă un loc cu cel puțin douăzeci de minute înainte.",
+            "en": "Be amazed by the spectacular free-flight bird show set within the evocative ruins of the Bishops' Castle, and secure your seats at least twenty minutes before the performance begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkstraditionen und Archäologie",
+            "hu": "Néphagyományok és Régészeti Múzeum",
+            "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+            "en": "Museum of Popular Traditions and Archaeology"
+          },
+          "coords": [
+            0.648105,
+            46.570594
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende archäologische Funde und ländliche Traditionen in die Vergangenheit von Chauvigny ein und beginnen Sie im Erdgeschoss für den besten Überblick.",
+            "hu": "Merüljön el Chauvigny múltjában a lenyűgöző régészeti leletek és vidéki hagyományok révén, és kezdje a látogatást a földszinten, hogy jobban követhesse a történelmi idősíkot.",
+            "ro": "Pătrundeți în trecutul orașului Chauvigny prin artefacte arheologice și tradiții rurale fascinante și începeți vizita la parter pentru a urmări mai bine cronologia istorică.",
+            "en": "Dive into Chauvigny's past through fascinating archaeological artifacts and rural traditions, and start your visit on the ground floor to better follow the historical timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad",
+            "hu": "Uszoda",
+            "ro": "Piscina",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            0.666939,
+            46.573409
+          ],
+          "category": "family",
+          "arrive_at": "16:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem einladenden und familienfreundlichen örtlichen Schwimmbad ab und überprüfen Sie den Tagesplan für spezielle Bahnenzeiten oder Kinderaktivitäten.",
+            "hu": "Hűsöljön és kapcsolódjon ki ebben a barátságos, családok számára is tökéletes helyi uszodában, és ellenőrizze a napi menetrendet a sávos úszások vagy gyermekprogramok miatt.",
+            "ro": "Răcoriți-vă și relaxați-vă la această piscină locală primitoare, ideală pentru familii, și verificați programul zilnic pentru înot pe culoare sau activități pentru copii.",
+            "en": "Cool off and relax at this welcoming local swimming pool which is perfect for families, and check the daily schedule for dedicated lane swimming or fun children's activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie ruhig bei uralten Kirchen, bevor Sie mit dem Auto zur actionreichen Draisinenbahn fahren. Tauchen Sie mittags im charmanten Oberstadt-Viertel in römische und mittelalterliche Geschichte ein. Der Nachmittag verspricht majestätische Vögel und archäologische Wunder, gefolgt von einem entspannten Tagesausklang im einladenden Familienpool.",
+        "hu": "Kezdjen nyugodtan az ősi templomoknál, mielőtt kocsival az akciódús hajtánypályára hajtana. Délben a varázslatos felsővárosban merülhet el a római és középkori történelemben. A délután fenséges madarakat és régészeti csodákat ígér, majd a napot egy kellemes csobbanással zárhatja a családbarát uszodában.",
+        "ro": "Începeți liniștit la biserici ancestrale, apoi conduceți spre plina de acțiune drezină pe șine. La prânz, aprofundați istoria romanică și medievală în fermecătorul oraș de sus. După-amiaza promite păsări maiestuoase și minuni arheologice, urmate de o seară relaxantă la primitoarea piscină pentru familii.",
+        "en": "Start peacefully at ancient churches before driving to the action-packed rail-bike tracks. At midday, dive into Romanesque and medieval history in the charming upper town. The afternoon promises majestic birds and archaeological wonders, followed by a relaxing end to the day at the welcoming family pool."
+      }
+    }
+  }
+}

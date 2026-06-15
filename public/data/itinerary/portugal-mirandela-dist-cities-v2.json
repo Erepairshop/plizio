@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-mirandela-dist-cities-v2",
+  "anchor": {
+    "name": "Carrazeda de Ansiães",
+    "coords": [
+      -7.3,
+      41.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "CICA - Ansiães Castle Interpretive Center",
+            "hu": "CICA - Ansiães Castle Interpretive Center",
+            "ro": "CICA - Ansiães Castle Interpretive Center",
+            "en": "CICA - Ansiães Castle Interpretive Center"
+          },
+          "coords": [
+            -7.300426,
+            41.245296
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche mittelalterliche Geschichte der Region in diesem modernen Zentrum und holen Sie sich eine kostenlose Karte für die Burgruine.",
+            "hu": "Fedezze fel a régió gazdag középkori történelmét ebben a modern látogatóközpontban, és ne felejtsen el ingyenes térképet kérni a várromokhoz.",
+            "ro": "Descoperiți istoria medievală bogată a regiunii la acest centru modern de interpretare și luați o hartă gratuită de la recepție pentru ruinele castelului.",
+            "en": "Discover the rich medieval history of the region at this modern interpretive center before exploring the castle ruins, and grab a free map at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Moínho de Vento",
+            "hu": "Moínho de Vento",
+            "ro": "Moínho de Vento",
+            "en": "Moínho de Vento"
+          },
+          "coords": [
+            -7.297604,
+            41.24749
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese traditionelle Steinwindmühle, die Einblicke in historische landwirtschaftliche Praktiken bietet, und genießen Sie den Panoramablick.",
+            "hu": "Csodálja meg ezt a hagyományos kő szélmalmot, amely bepillantást enged a történelmi mezőgazdaságba, és élvezze a fennsíkra nyíló panorámát.",
+            "ro": "Admirați această moară de vânt tradițională din piatră, care oferă o privire în practicile agricole istorice, și surprindeți vederile panoramice.",
+            "en": "Admire this traditional stone windmill which offers a glimpse into historical agricultural practices, and capture the panoramic views of the plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscinas Municipais de Carrazeda de Ansiães",
+            "hu": "Piscinas Municipais de Carrazeda de Ansiães",
+            "ro": "Piscinas Municipais de Carrazeda de Ansiães",
+            "en": "Piscinas Municipais de Carrazeda de Ansiães"
+          },
+          "coords": [
+            -7.305514,
+            41.245284
+          ],
+          "category": "family",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen gepflegten, familienfreundlichen städtischen Schwimmbädern und bringen Sie etwas Bargeld für den kleinen Erfrischungskiosk mit.",
+            "hu": "Pihenjen és frissüljön fel ezekben a családbarát városi medencékben, és vigyen magával egy kis készpénzt a helyszíni frissítő pavilonhoz.",
+            "ro": "Relaxați-vă la aceste piscine municipale bine întreținute, perfecte pentru familii, și aduceți niște numerar pentru micul chioșc cu răcoritoare.",
+            "en": "Relax and cool off at these well-maintained municipal pools perfect for families, and bring some cash for the small on-site refreshment kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Anta da Samotinha",
+            "hu": "Anta da Samotinha",
+            "ro": "Anta da Samotinha",
+            "en": "Anta da Samotinha"
+          },
+          "coords": [
+            -7.312108,
+            41.25042
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem gut erhaltenen Megalithgrab in die prähistorische Zeit ein, aber tragen Sie festes Schuhwerk, da der Weg dorthin uneben sein kann.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ennél a jól megőrzött megalitikus dolmennél, de viseljen masszív cipőt, mivel a környező ösvény egyenetlen lehet.",
+            "ro": "Întoarceți-vă în timp la acest dolmen megalitic bine conservat, dar purtați încălțăminte rezistentă, deoarece poteca înconjurătoare poate fi accidentată.",
+            "en": "Step back into prehistoric times at this well-preserved megalithic dolmen, but wear sturdy shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento aos Resineiros",
+            "hu": "Monumento aos Resineiros",
+            "ro": "Monumento aos Resineiros",
+            "en": "Monumento aos Resineiros"
+          },
+          "coords": [
+            -7.324086,
+            41.258053
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem einzigartigen Denkmal für die hart arbeitenden Harzzapfer der Region Ihren Respekt und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Tisztelegjen a régió szorgalmas gyantagyűjtőinek szentelt egyedülálló emlékműnél, és olvassa el a közelben található tájékoztató táblákat.",
+            "ro": "Aduceți un omagiu la acest monument unic dedicat muncitorilor care extrăgeau rășină în regiune și citiți plăcile informative din apropiere.",
+            "en": "Pay your respects at this unique monument dedicated to the hard-working resin tappers of the region, and read the informative plaques nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im CICA und erfahren Sie alles über die lokale Geschichte. Mittags erkunden Sie die traditionelle Steinwindmühle. Der Nachmittag lädt zum Entspannen in den städtischen Schwimmbädern ein. Beenden Sie den Tag bei den prähistorischen Stätten und Denkmälern.",
+        "hu": "Kezdje a napot a CICA központban, és ismerje meg a helyi történelmet. Délben fedezze fel a hagyományos kő szélmalmot. A délután pihenésre csábít a városi medencékben. Zárja a napot a történelem előtti helyszínek és emlékművek megtekintésével.",
+        "ro": "Începeți ziua la CICA pentru a învăța despre istoria locală. La prânz, explorați moara de vânt tradițională din piatră. După-amiaza vă invită să vă relaxați la piscinele municipale. Încheiați ziua admirând siturile preistorice și monumentele.",
+        "en": "Start your day at the CICA to learn about the local medieval history. By midday, explore the traditional stone windmill. The afternoon invites you to relax at the municipal swimming pools. Conclude your walk by discovering the prehistoric sites and local monuments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anta de Zedes",
+            "hu": "Anta de Zedes",
+            "ro": "Anta de Zedes",
+            "en": "Anta de Zedes"
+          },
+          "coords": [
+            -7.293542,
+            41.27577
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der bedeutendsten Megalithdenkmäler des Bezirks mit seinen geschnitzten Säulen und kommen Sie früh, um die Mittagshitze zu vermeiden.",
+            "hu": "Fedezze fel a kerület egyik legjelentősebb, faragott oszlopairól ismert megalitikus emlékművét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Explorați unul dintre cele mai importante monumente megalitice din district, cunoscut pentru stâlpii săi sculptați, și vizitați devreme pentru a evita căldura.",
+            "en": "Explore one of the most significant megalithic monuments in the district, known for its carved pillars, and visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Marizes",
+            "hu": "Solar dos Marizes",
+            "ro": "Solar dos Marizes",
+            "en": "Solar dos Marizes"
+          },
+          "coords": [
+            -7.327847,
+            41.259551
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Architektur dieses klassischen portugiesischen Herrenhauses und beachten Sie das kunstvolle Wappen über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a klasszikus portugál udvarháznak az impozáns építészetét, és figyelje meg a főbejárat felett kifaragott bonyolult címert.",
+            "ro": "Admirați arhitectura impunătoare a acestui conac clasic portughez și observați stema complicată sculptată deasupra intrării principale.",
+            "en": "Marvel at the imposing architecture of this classic Portuguese manor house, and notice the intricate coat of arms carved above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento aos Resineiros",
+            "hu": "Monumento aos Resineiros",
+            "ro": "Monumento aos Resineiros",
+            "en": "Monumento aos Resineiros"
+          },
+          "coords": [
+            -7.324086,
+            41.258053
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem einzigartigen Denkmal für die hart arbeitenden Harzzapfer der Region Ihren Respekt und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Tisztelegjen a régió szorgalmas gyantagyűjtőinek szentelt egyedülálló emlékműnél, és olvassa el a közelben található tájékoztató táblákat.",
+            "ro": "Aduceți un omagiu la acest monument unic dedicat muncitorilor care extrăgeau rășină în regiune și citiți plăcile informative din apropiere.",
+            "en": "Pay your respects at this unique monument dedicated to the hard-working resin tappers of the region, and read the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Anta da Samotinha",
+            "hu": "Anta da Samotinha",
+            "ro": "Anta da Samotinha",
+            "en": "Anta da Samotinha"
+          },
+          "coords": [
+            -7.312108,
+            41.25042
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem gut erhaltenen Megalithgrab in die prähistorische Zeit ein, aber tragen Sie festes Schuhwerk, da der Weg dorthin uneben sein kann.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ennél a jól megőrzött megalitikus dolmennél, de viseljen masszív cipőt, mivel a környező ösvény egyenetlen lehet.",
+            "ro": "Întoarceți-vă în timp la acest dolmen megalitic bine conservat, dar purtați încălțăminte rezistentă, deoarece poteca înconjurătoare poate fi accidentată.",
+            "en": "Step back into prehistoric times at this well-preserved megalithic dolmen, but wear sturdy shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "CICA - Ansiães Castle Interpretive Center",
+            "hu": "CICA - Ansiães Castle Interpretive Center",
+            "ro": "CICA - Ansiães Castle Interpretive Center",
+            "en": "CICA - Ansiães Castle Interpretive Center"
+          },
+          "coords": [
+            -7.300426,
+            41.245296
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche mittelalterliche Geschichte der Region in diesem modernen Zentrum und holen Sie sich eine kostenlose Karte für die Burgruine.",
+            "hu": "Fedezze fel a régió gazdag középkori történelmét ebben a modern látogatóközpontban, és ne felejtsen el ingyenes térképet kérni a várromokhoz.",
+            "ro": "Descoperiți istoria medievală bogată a regiunii la acest centru modern de interpretare și luați o hartă gratuită de la recepție pentru ruinele castelului.",
+            "en": "Discover the rich medieval history of the region at this modern interpretive center before exploring the castle ruins, and grab a free map at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+          },
+          "coords": [
+            -7.320906,
+            41.238909
+          ],
+          "category": "museum",
+          "arrive_at": "16:53",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem faszinierenden Museum alles über das traditionelle Handwerk der Dachziegelherstellung und bitten Sie um eine Vorführung der Tonformung.",
+            "hu": "Ismerje meg a tetőcserép-készítés hagyományos mesterségét ebben a lenyűgöző múzeumban, és kérjen bemutatót a vezetőtől az agyagformázási folyamatról.",
+            "ro": "Învățați despre meșteșugul tradițional al fabricării țiglelor la acest muzeu fascinant și cereți ghidului o demonstrație a procesului de modelare a argilei.",
+            "en": "Learn about the traditional craft of roof tile making at this fascinating museum, and ask the guide for a demonstration of the clay molding process."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum beeindruckenden Anta de Zedes, bevor die Hitze einsetzt. Gegen Mittag erreichen Sie das stattliche Herrenhaus Solar dos Marizes. Nachmittags besuchen Sie historische Megalithgräber und das CICA-Zentrum. Der Abend endet faszinierend im Ziegelmuseum.",
+        "hu": "Reggel kerékpározzon el a lenyűgöző Anta de Zedes-hez még a hőség beállta előtt. Dél körül érje el a Solar dos Marizes impozáns udvarházát. Délután látogasson el a történelmi megalitikus sírokhoz és a CICA központhoz. Az estét a cserépmúzeumban zárja.",
+        "ro": "Pedalați dimineața către impresionanta Anta de Zedes înainte de căldura amiezii. În jurul prânzului ajungeți la impunătorul conac Solar dos Marizes. După-amiaza vizitați dolmenele istorice și centrul CICA. Seara se încheie fascinant la muzeul țiglelor.",
+        "en": "Cycle in the morning to the impressive Anta de Zedes before the midday heat. By noon, reach the stately Solar dos Marizes manor house. The afternoon is spent visiting historic megalithic tombs and the CICA center. Your evening concludes fascinatingly at the tile museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:04",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anta de Zedes",
+            "hu": "Anta de Zedes",
+            "ro": "Anta de Zedes",
+            "en": "Anta de Zedes"
+          },
+          "coords": [
+            -7.293542,
+            41.27577
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der bedeutendsten Megalithdenkmäler des Bezirks mit seinen geschnitzten Säulen und kommen Sie früh, um die Mittagshitze zu vermeiden.",
+            "hu": "Fedezze fel a kerület egyik legjelentősebb, faragott oszlopairól ismert megalitikus emlékművét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Explorați unul dintre cele mai importante monumente megalitice din district, cunoscut pentru stâlpii săi sculptați, și vizitați devreme pentru a evita căldura.",
+            "en": "Explore one of the most significant megalithic monuments in the district, known for its carved pillars, and visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Marizes",
+            "hu": "Solar dos Marizes",
+            "ro": "Solar dos Marizes",
+            "en": "Solar dos Marizes"
+          },
+          "coords": [
+            -7.327847,
+            41.259551
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Architektur dieses klassischen portugiesischen Herrenhauses und beachten Sie das kunstvolle Wappen über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a klasszikus portugál udvarháznak az impozáns építészetét, és figyelje meg a főbejárat felett kifaragott bonyolult címert.",
+            "ro": "Admirați arhitectura impunătoare a acestui conac clasic portughez și observați stema complicată sculptată deasupra intrării principale.",
+            "en": "Marvel at the imposing architecture of this classic Portuguese manor house, and notice the intricate coat of arms carved above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento aos Resineiros",
+            "hu": "Monumento aos Resineiros",
+            "ro": "Monumento aos Resineiros",
+            "en": "Monumento aos Resineiros"
+          },
+          "coords": [
+            -7.324086,
+            41.258053
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem einzigartigen Denkmal für die hart arbeitenden Harzzapfer der Region Ihren Respekt und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Tisztelegjen a régió szorgalmas gyantagyűjtőinek szentelt egyedülálló emlékműnél, és olvassa el a közelben található tájékoztató táblákat.",
+            "ro": "Aduceți un omagiu la acest monument unic dedicat muncitorilor care extrăgeau rășină în regiune și citiți plăcile informative din apropiere.",
+            "en": "Pay your respects at this unique monument dedicated to the hard-working resin tappers of the region, and read the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Anta da Samotinha",
+            "hu": "Anta da Samotinha",
+            "ro": "Anta da Samotinha",
+            "en": "Anta da Samotinha"
+          },
+          "coords": [
+            -7.312108,
+            41.25042
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem gut erhaltenen Megalithgrab in die prähistorische Zeit ein, aber tragen Sie festes Schuhwerk, da der Weg dorthin uneben sein kann.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ennél a jól megőrzött megalitikus dolmennél, de viseljen masszív cipőt, mivel a környező ösvény egyenetlen lehet.",
+            "ro": "Întoarceți-vă în timp la acest dolmen megalitic bine conservat, dar purtați încălțăminte rezistentă, deoarece poteca înconjurătoare poate fi accidentată.",
+            "en": "Step back into prehistoric times at this well-preserved megalithic dolmen, but wear sturdy shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "CICA - Ansiães Castle Interpretive Center",
+            "hu": "CICA - Ansiães Castle Interpretive Center",
+            "ro": "CICA - Ansiães Castle Interpretive Center",
+            "en": "CICA - Ansiães Castle Interpretive Center"
+          },
+          "coords": [
+            -7.300426,
+            41.245296
+          ],
+          "category": "museum",
+          "arrive_at": "13:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche mittelalterliche Geschichte der Region in diesem modernen Zentrum und holen Sie sich eine kostenlose Karte für die Burgruine.",
+            "hu": "Fedezze fel a régió gazdag középkori történelmét ebben a modern látogatóközpontban, és ne felejtsen el ingyenes térképet kérni a várromokhoz.",
+            "ro": "Descoperiți istoria medievală bogată a regiunii la acest centru modern de interpretare și luați o hartă gratuită de la recepție pentru ruinele castelului.",
+            "en": "Discover the rich medieval history of the region at this modern interpretive center before exploring the castle ruins, and grab a free map at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+            "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+          },
+          "coords": [
+            -7.320906,
+            41.238909
+          ],
+          "category": "museum",
+          "arrive_at": "15:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem faszinierenden Museum alles über das traditionelle Handwerk der Dachziegelherstellung und bitten Sie um eine Vorführung der Tonformung.",
+            "hu": "Ismerje meg a tetőcserép-készítés hagyományos mesterségét ebben a lenyűgöző múzeumban, és kérjen bemutatót a vezetőtől az agyagformázási folyamatról.",
+            "ro": "Învățați despre meșteșugul tradițional al fabricării țiglelor la acest muzeu fascinant și cereți ghidului o demonstrație a procesului de modelare a argilei.",
+            "en": "Learn about the traditional craft of roof tile making at this fascinating museum, and ask the guide for a demonstration of the clay molding process."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscinas municipais descobertas",
+            "hu": "Piscinas municipais descobertas",
+            "ro": "Piscinas municipais descobertas",
+            "en": "Piscinas municipais descobertas"
+          },
+          "coords": [
+            -7.280775,
+            41.23046
+          ],
+          "category": "family",
+          "arrive_at": "17:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem erfrischenden Bad in diesen von Natur umgebenen Außenpools und nutzen Sie die schattigen Picknickplätze für einen entspannten Abend.",
+            "hu": "Zárja a napot egy frissítő úszással ezekben a természet lágy ölén fekvő szabadtéri medencékben, és használja ki az árnyékos piknikezőhelyeket.",
+            "ro": "Încheiați-vă ziua cu o baie răcoritoare în aceste piscine în aer liber, profitând de zonele de picnic umbrite pentru o seară cu adevărat relaxantă.",
+            "en": "End your day with a refreshing swim in these outdoor pools surrounded by nature, taking advantage of the shaded picnic areas for a relaxed evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am prähistorischen Anta de Zedes in der kühlen Morgenluft. Fahren Sie mittags zu eleganten Herrenhäusern und historischen Denkmälern. Der Nachmittag ist geprägt von Museumsbesuchen, die das lokale Handwerk und die Geschichte beleuchten. Abends entspannen Sie in den Freibädern.",
+        "hu": "Kezdje autós utazását a történelem előtti Anta de Zedes-nél a hűvös reggeli levegőben. Délben vezessen elegáns udvarházakhoz és történelmi emlékművekhez. A délutánt a helyi kézművességet és történelmet bemutató múzeumlátogatások határozzák meg. Este pihenjen a szabadtéri medencékben.",
+        "ro": "Începeți călătoria cu mașina la situl preistoric Anta de Zedes în aerul răcoros al dimineții. La prânz, conduceți către conace elegante și monumente istorice. După-amiaza este dedicată vizitelor la muzee despre meșteșugurile locale. Seara, relaxați-vă la piscinele în aer liber.",
+        "en": "Start your drive at the prehistoric Anta de Zedes in the cool morning air. By midday, drive to elegant manor houses and historical monuments. The afternoon is filled with museum visits highlighting local crafts and history. Unwind in the evening at the open-air swimming pools."
+      }
+    }
+  }
+}

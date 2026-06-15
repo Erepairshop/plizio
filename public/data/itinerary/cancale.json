@@ -1,0 +1,405 @@
+{
+  "city_id": "cancale",
+  "anchor": {
+    "name": "Cancale",
+    "coords": [
+      -1.8519,
+      48.6767
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 1.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Méen Kirche",
+            "hu": "Saint-Méen Templom",
+            "ro": "Biserica Saint-Méen",
+            "en": "Saint-Méen Church"
+          },
+          "coords": [
+            -1.8507,
+            48.6755
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche zu Ehren der Seeleute und verpassen Sie nicht das kleine Museum zur maritimen Geschichte im Obergeschoss.",
+            "hu": "Csodálja meg ennek a tengerészeket tisztelő történelmi templomnak az építészetét, és ne hagyja ki az emeleti, helyi tengerészeti történelmet bemutató kis múzeumot.",
+            "ro": "Admirați arhitectura acestei biserici istorice dedicate marinarilor și nu ratați micul muzeu maritim local aflat la etaj, plin de exponate fascinante.",
+            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der populären Künste und Traditionen",
+            "hu": "Népművészeti és Hagyományok Múzeuma",
+            "ro": "Muzeul de Arte și Tradiții Populare",
+            "en": "Museum of Popular Arts and Traditions"
+          },
+          "coords": [
+            -1.850315,
+            48.677182
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche bretonische Erbe in diesem Museum und achten Sie auf die wechselnden Ausstellungen mit einzigartigem regionalen Kunsthandwerk.",
+            "hu": "Fedezze fel a gazdag breton örökséget ebben a múzeumban, és mindenképpen nézze meg az egyedi regionális kézműves termékeket bemutató időszaki kiállításokat.",
+            "ro": "Explorați bogata moștenire bretonă în acest muzeu fascinant și asigurați-vă că verificați expozițiile temporare pentru a vedea meșteșuguri regionale unice.",
+            "en": "Explore the rich Breton heritage and daily life of the past in this museum, and be sure to check the temporary exhibitions for unique regional crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Austernmarkt",
+            "hu": "Osztrigapiac",
+            "ro": "Piața de Stridii",
+            "en": "Oyster Market"
+          },
+          "coords": [
+            -1.851314,
+            48.670769
+          ],
+          "category": "culinary",
+          "arrive_at": "11:44",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Probieren Sie die weltberühmten, frisch geernteten Cancale-Austern direkt am Wasser und werfen Sie die leeren Schalen wie die Einheimischen an den Strand.",
+            "hu": "Kóstolja meg a világhírű, frissen szüretelt osztrigát közvetlenül a vízparton, és ne felejtse el az üres kagylókat a helyiekhez hasonlóan a partra dobni.",
+            "ro": "Gustați stridiile de Cancale proaspăt recoltate pe malul apei și amintiți-vă să aruncați cochiliile goale direct pe plajă, așa cum fac și localnicii.",
+            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de la Houle",
+            "hu": "Port de la Houle",
+            "ro": "Port de la Houle",
+            "en": "Port de la Houle"
+          },
+          "coords": [
+            -1.855577,
+            48.670575
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Hafen mit seinen Fischerbooten und gemütlichen Cafés und machen Sie bei Ebbe ein perfektes Foto vom nördlichen Pier.",
+            "hu": "Sétáljon végig ezen a hagyományos halászhajókkal és kávézókkal teli nyüzsgő kikötőn, és készítsen egy tökéletes tengerparti képet az északi mólóról.",
+            "ro": "Plimbați-vă de-a lungul acestui port plin de bărci tradiționale și cafenele și faceți o fotografie perfectă de pe digul nordic la reflux.",
+            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Cancale",
+            "hu": "Plage de Cancale",
+            "ro": "Plaja Cancale",
+            "en": "Plage de Cancale"
+          },
+          "coords": [
+            -1.857367,
+            48.669435
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem Sandstrand mit herrlichem Blick auf die Bucht und tragen Sie feste Schuhe, um die felsigen Gezeitentümpel zu erkunden.",
+            "hu": "Pihenjen ezen a hatalmas homokos strandon, ahonnan csodálatos kilátás nyílik az öbölre, és viseljen erős cipőt a sziklás árapály-medencék felfedezéséhez.",
+            "ro": "Relaxați-vă pe această plajă spațioasă cu vedere spre golf și purtați încălțăminte solidă pentru a explora piscinele naturale formate de maree printre stânci.",
+            "en": "Relax on this expansive sandy beach offering wonderful views of the bay of Mont Saint-Michel, and wear sturdy shoes for exploring the rocky tide pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie im Herzen von Cancale und erkunden Sie die reiche maritime Geschichte an der örtlichen Kirche und im Heimatmuseum.\n\nMittag: Gehen Sie hinunter zum Wasser, um den berühmten Freiluft-Austernmarkt direkt am Meer zu erleben.\n\nNachmittag: Schlendern Sie durch Port de la Houle und genießen Sie die lebhafte Atmosphäre der traditionellen Boote.\n\nAbend: Entspannen Sie an der Plage de Cancale und genießen Sie den wunderschönen Blick auf den fernen Mont Saint-Michel.",
+        "hu": "Reggel: Kezdjen Cancale szívében, felfedezve a gazdag tengerészeti történelmet a helyi templomban és a múzeumban.\n\nDél: Menjen le a vízpartra, hogy megtapasztalja a híres szabadtéri osztrigapiacot közvetlenül a tenger mellett.\n\nDélután: Sétáljon végig a Port de la Houle-on, élvezve a vibráló hangulatot és a színes, hagyományos csónakokat.\n\nEste: Pihenjen a Plage de Cancale-on, ahogy az árapály visszahúzódik a távoli Mont Saint-Michel látványával.",
+        "ro": "Dimineața: Începeți în inima orașului Cancale, explorând istoria sa maritimă bogată la biserica locală și la muzeul de patrimoniu.\n\nPrânz: Coborâți spre malul apei pentru a experimenta faimoasa piață de stridii în aer liber chiar lângă mare.\n\nDupă-amiază: Plimbați-vă prin Port de la Houle, bucurându-vă de atmosfera vibrantă a ambarcațiunilor tradiționale colorate.\n\nSeara: Relaxați-vă pe Plage de Cancale, admirând priveliștile îndepărtate superbe spre legendarul Mont Saint-Michel.",
+        "en": "Morning: Start in the heart of Cancale, exploring its rich maritime history at the local church and the heritage museum.\n\nMidday: Head down towards the waterfront to experience the famous open-air oyster market right by the sea.\n\nAfternoon: Stroll through Port de la Houle, enjoying the vibrant atmosphere and the colorful traditional boats.\n\nEvening: Relax on Plage de Cancale as the tide recedes, soaking in the beautiful views of the distant Mont Saint-Michel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 7.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de la Houle",
+            "hu": "Port de la Houle",
+            "ro": "Port de la Houle",
+            "en": "Port de la Houle"
+          },
+          "coords": [
+            -1.855577,
+            48.670575
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Hafen mit seinen Fischerbooten und gemütlichen Cafés und machen Sie bei Ebbe ein perfektes Foto vom nördlichen Pier.",
+            "hu": "Sétáljon végig ezen a hagyományos halászhajókkal és kávézókkal teli nyüzsgő kikötőn, és készítsen egy tökéletes tengerparti képet az északi mólóról.",
+            "ro": "Plimbați-vă de-a lungul acestui port plin de bărci tradiționale și cafenele și faceți o fotografie perfectă de pe digul nordic la reflux.",
+            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Méen Kirche",
+            "hu": "Saint-Méen Templom",
+            "ro": "Biserica Saint-Méen",
+            "en": "Saint-Méen Church"
+          },
+          "coords": [
+            -1.8507,
+            48.6755
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche zu Ehren der Seeleute und verpassen Sie nicht das kleine Museum zur maritimen Geschichte im Obergeschoss.",
+            "hu": "Csodálja meg ennek a tengerészeket tisztelő történelmi templomnak az építészetét, és ne hagyja ki az emeleti, helyi tengerészeti történelmet bemutató kis múzeumot.",
+            "ro": "Admirați arhitectura acestei biserici istorice dedicate marinarilor și nu ratați micul muzeu maritim local aflat la etaj, plin de exponate fascinante.",
+            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Picain",
+            "hu": "Plage de Port Picain",
+            "ro": "Plaja Port Picain",
+            "en": "Plage de Port Picain"
+          },
+          "coords": [
+            -1.848645,
+            48.694821
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das sich perfekt für einen ruhigen Spaziergang eignet, aber achten Sie auf den steilen Abstieg zum Wasser.",
+            "hu": "Fedezze fel ezt a meredek sziklákkal körülvett, rejtett tengerparti gyöngyszemet, de ügyeljen a lépteire, amikor leereszkedik a meredek ösvényen a vízhez.",
+            "ro": "Descoperiți această bijuterie ascunsă de coastă, perfectă pentru o plimbare liniștită, dar fiți atenți pe coborârea abruptă care vă duce direct la malul apei.",
+            "en": "Discover this hidden coastal gem surrounded by steep cliffs, perfect for a peaceful afternoon walk, but watch your step on the steep descent to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Grouin",
+            "hu": "Pointe du Grouin",
+            "ro": "Pointe du Grouin",
+            "en": "Pointe du Grouin"
+          },
+          "coords": [
+            -1.844167,
+            48.712222
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den Panoramablick, wo das smaragdgrüne Meer auf raue Klippen trifft, und bringen Sie winddichte Kleidung mit, da die Brise hier stark ist.",
+            "hu": "Csodálja meg a drámai panorámát, ahol a smaragdzöld tenger a sziklákkal találkozik, és hozzon szélálló ruházatot, mivel itt a szellő folyamatosan erős.",
+            "ro": "Admirați vederile panoramice dramatice unde marea se întâlnește cu stâncile și luați o haină rezistentă la vânt, deoarece briza este constant puternică aici.",
+            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Verger",
+            "hu": "Plage du Verger",
+            "ro": "Plaja Verger",
+            "en": "Plage du Verger"
+          },
+          "coords": [
+            -1.876231,
+            48.696367
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.94,
+          "tip_5lang": {
+            "de": "Genießen Sie den von wilden Dünen gesäumten Sandstrand und kommen Sie am besten früh morgens an, um problemlos einen der nahegelegenen Parkplätze zu finden.",
+            "hu": "Élvezze a vad dűnékkel szegélyezett érintetlen homokos strandot, és érkezzen kora reggel, hogy könnyen biztosítson egy közeli parkolóhelyet magának.",
+            "ro": "Bucurați-vă de o plajă curată mărginită de dune sălbatice și ajungeți devreme dimineața pentru a găsi cu ușurință un loc de parcare convenabil în apropiere.",
+            "en": "Enjoy a pristine sandy beach bordered by wild dunes and fragrant coastal flora, and arrive early in the morning to easily secure a nearby parking spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Fahrt am Hafen und genießen Sie die morgendliche Meeresbrise, bevor Sie zur historischen Kirche radeln.\n\nMittag: Radeln Sie auf den malerischen Küstenwegen nach Norden, um die dramatische und einsame Plage de Port Picain zu entdecken.\n\nNachmittag: Erreichen Sie die majestätische Pointe du Grouin, wo steile Klippen in das smaragdgrüne Wasser abfallen.\n\nAbend: Beenden Sie Ihren Tag an der Plage du Verger und genießen Sie die goldene Stunde über den sanften Dünen.",
+        "hu": "Reggel: Kezdje a kerékpározást a nyüzsgő kikötőben, magába szívva a tengeri levegőt, majd tekerjen a történelmi templomhoz.\n\nDél: Haladjon észak felé a festői tengerparti utakon, és fedezze fel a meredek, eldugott Port Picain strandot.\n\nDélután: Érje el a fenséges Pointe du Grouin-t, ahol zord sziklák zuhannak a smaragdzöld tengerbe.\n\nEste: Fejezze be a napot a Plage du Verger dűnéi mögött, élvezve a naplemente ragyogó, aranyló fényeit a homokon.",
+        "ro": "Dimineața: Începeți cursa în portul animat, savurând briza mării înainte de a pedala spre biserica istorică pentru o scurtă vizită.\n\nPrânz: Mergeți spre nord de-a lungul traseelor pitorești de coastă pentru a descoperi ascunsa Plage de Port Picain.\n\nDupă-amiază: Ajungeți la maiestuoasa Pointe du Grouin, cu stâncile sale abrupte care cad în apele de smarald.\n\nSeara: Încheiați ziua de ciclism la Plage du Verger, bucurându-vă de ora de aur peste nisipurile sale mărginite de dune.",
+        "en": "Morning: Kick off your ride at the bustling port, taking in the morning sea breeze before pedaling to the historic church.\n\nMidday: Cycle northwards along the scenic coastal paths to discover the dramatic and secluded Plage de Port Picain.\n\nAfternoon: Reach the majestic Pointe du Grouin, where rugged cliffs drop into emerald waters.\n\nEvening: Finish your cycling day at Plage du Verger, enjoying the golden hour over its tranquil, dune-backed sands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 13.79,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Austernmarkt",
+            "hu": "Osztrigapiac",
+            "ro": "Piața de Stridii",
+            "en": "Oyster Market"
+          },
+          "coords": [
+            -1.851314,
+            48.670769
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die weltberühmten, frisch geernteten Cancale-Austern direkt am Wasser und werfen Sie die leeren Schalen wie die Einheimischen an den Strand.",
+            "hu": "Kóstolja meg a világhírű, frissen szüretelt osztrigát közvetlenül a vízparton, és ne felejtse el az üres kagylókat a helyiekhez hasonlóan a partra dobni.",
+            "ro": "Gustați stridiile de Cancale proaspăt recoltate pe malul apei și amintiți-vă să aruncați cochiliile goale direct pe plajă, așa cum fac și localnicii.",
+            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Grouin",
+            "hu": "Pointe du Grouin",
+            "ro": "Pointe du Grouin",
+            "en": "Pointe du Grouin"
+          },
+          "coords": [
+            -1.844167,
+            48.712222
+          ],
+          "category": "natural",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.63,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den Panoramablick, wo das smaragdgrüne Meer auf raue Klippen trifft, und bringen Sie winddichte Kleidung mit, da die Brise hier stark ist.",
+            "hu": "Csodálja meg a drámai panorámát, ahol a smaragdzöld tenger a sziklákkal találkozik, és hozzon szélálló ruházatot, mivel itt a szellő folyamatosan erős.",
+            "ro": "Admirați vederile panoramice dramatice unde marea se întâlnește cu stâncile și luați o haină rezistentă la vânt, deoarece briza este constant puternică aici.",
+            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Guesclin",
+            "hu": "Plage du Guesclin",
+            "ro": "Plaja Guesclin",
+            "en": "Plage du Guesclin"
+          },
+          "coords": [
+            -1.899616,
+            48.692597
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem Strand gegenüber der malerischen Festungsinsel und prüfen Sie die Gezeitentabellen, wenn Sie zu den Ruinen hinüberlaufen möchten.",
+            "hu": "Sétáljon ezen a történelmi homokszakaszon a festői erőd-szigettel szemben, és figyelje meg jól az árapály-táblázatokat, ha át akar gyalogolni a romokhoz.",
+            "ro": "Plimbați-vă pe această plajă orientată spre o insulă fortificată pitorească și verificați graficul mareelor dacă plănuiți să mergeți pe jos până la ruine.",
+            "en": "Walk on this historic stretch of sand facing a picturesque fort island, and check the tidal charts carefully if you plan to walk across to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Touesse",
+            "hu": "Plage de la Touesse",
+            "ro": "Plaja Touesse",
+            "en": "Plage de la Touesse"
+          },
+          "coords": [
+            -1.923222,
+            48.692889
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weniger überlaufenen Sandbucht und bringen Sie Ihren eigenen Proviant mit, da es hier keinerlei gastronomische Einrichtungen gibt.",
+            "hu": "Pihenjen egy kevésbé zsúfolt homokos öbölben, amelyet a helyiek naplemente-piknikekre használnak, és hozzon saját enni-innivalót a hiányzó létesítmények miatt.",
+            "ro": "Relaxați-vă într-un golf nisipos, preferat de localnici pentru picnicuri la apus, și aduceți propriile provizii, deoarece nu există facilități pe mal.",
+            "en": "Relax on a less crowded, wide sandy bay favoured by locals for sunset picnics, and bring your own provisions as there are no facilities on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Havre",
+            "hu": "Plage du Havre",
+            "ro": "Plaja Havre",
+            "en": "Plage du Havre"
+          },
+          "coords": [
+            -1.957816,
+            48.68102
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.82,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an diesem ruhigen Naturhafen, wo sanfte Wellen an die Küste schlagen und ein perfektes Flachwassergebiet für kleine Kinder bieten.",
+            "hu": "Kapcsolódjon ki ezen a nyugodt, természetes menedékhelyen, ahol a szelíd hullámok nyaldossák a partot, biztonságos úszóhelyet nyújtva a kisgyermekes családoknak.",
+            "ro": "Relaxați-vă în acest refugiu natural liniștit, unde valurile blânde se sparg de țărm, oferind un loc de înot sigur și puțin adânc pentru familiile cu copii.",
+            "en": "Unwind at this tranquil natural haven where gentle waves lap against the shore, providing a perfect and safe shallow swimming spot for young families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie in der Nähe des Austernmarktes für eine kurze Verkostung am Meer, bevor Sie die malerischen Straßen erkunden.\n\nMittag: Fahren Sie zur Pointe du Grouin, um atemberaubende, windgepeitschte Küstenpanoramen des Nordens zu erleben.\n\nNachmittag: Fahren Sie entspannt entlang der westlichen Strände und erkunden Sie die historische Sandfläche der Plage du Guesclin.\n\nAbend: Beenden Sie Ihren Roadtrip zwischen der Plage de la Touesse und der friedlichen Plage du Havre bei Sonnenuntergang.",
+        "hu": "Reggel: Indítsa el a motort az osztrigapiac közelében egy gyors tengerparti kóstolóra, mielőtt nekivág a festői utaknak.\n\nDél: Hajtson fel a Pointe du Grouin-hoz, ahonnan lélegzetelállító, szélfújta panoráma nyílik az északi partra.\n\nDélután: Utazzon kényelmesen a nyugati strandok mentén, megállva a Plage du Guesclin történelmi homokjánál.\n\nEste: Fejezze be autós túráját a Plage de la Touesse és a békés Plage du Havre között a nyugtató naplementekor.",
+        "ro": "Dimineața: Porniți motorul lângă faimoasa piață de stridii pentru o degustare pe malul mării înainte de a porni la drum.\n\nPrânz: Conduceți până la Pointe du Grouin pentru panorame uluitoare și bătute de vânt ale coastei de nord.\n\nDupă-amiază: Mergeți liniștit de-a lungul plajelor vestice, explorând nisipurile istorice de la Plage du Guesclin.\n\nSeara: Încheiați excursia pitorească între Plage de la Touesse și liniștita Plage du Havre, exact la apus.",
+        "en": "Morning: Start your engine near the famous oyster market for a quick seaside tasting before hitting the scenic roads.\n\nMidday: Drive up to Pointe du Grouin for breathtaking, windswept panoramas of the northern coastline.\n\nAfternoon: Cruise along the western beaches, stopping to explore the historic sands of Plage du Guesclin.\n\nEvening: Conclude your road trip hopping between Plage de la Touesse and the calm Plage du Havre as the sun sets."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "gomez-palacio-cities-v2",
+  "anchor": {
+    "name": "Gómez Palacio",
+    "coords": [
+      -103.4988,
+      25.5681
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Quiosco de la Plaza",
+            "hu": "Quiosco de la Plaza",
+            "ro": "Quiosco de la Plaza",
+            "en": "Quiosco de la Plaza"
+          },
+          "coords": [
+            -103.499754,
+            25.56811
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am zentralen Pavillon, um die lebendige Atmosphäre zu genießen; holen Sie sich am besten frühzeitig einen Kaffee bei den umliegenden Ständen.",
+            "hu": "Kezdje a napot a központi pavilonnál, ahol megérezheti a város lüktetését; érdemes korán érkezni és hozni egy kávét a közeli árusoktól.",
+            "ro": "Începeți ziua la chioșcul central pentru a simți pulsul orașului; asigurați-vă că luați o cafea de la vânzătorii din apropiere înainte de a vă așeza.",
+            "en": "Start your day at the central kiosk to feel the city's lively pulse; be sure to grab a quick coffee from the nearby vendors early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Xiximes, A. C.",
+            "hu": "Xiximes, A. C.",
+            "ro": "Xiximes, A. C.",
+            "en": "Xiximes, A. C."
+          },
+          "coords": [
+            -103.498208,
+            25.569879
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und kulturelle Artefakte in diesem Museum; nehmen Sie sich Zeit für die detaillierten Informationstafeln.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és kulturális leleteket ebben a múzeumban; szánjon időt a részletes információs táblák elolvasására.",
+            "ro": "Descoperiți istoria locală fascinantă și artefactele culturale în acest muzeu; luați-vă timp pentru a citi cu atenție panourile informative detaliate.",
+            "en": "Discover fascinating local history and cultural artifacts in this museum; take your time to carefully read through the detailed informational plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Artes \"Casa Faya\"",
+            "hu": "Centro de Artes \"Casa Faya\"",
+            "ro": "Centro de Artes \"Casa Faya\"",
+            "en": "Centro de Artes \"Casa Faya\""
+          },
+          "coords": [
+            -103.497791,
+            25.566073
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die Kunstausstellungen; prüfen Sie den Zeitplan am Eingang, um keine temporären Galerien zu verpassen.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a művészeti kiállításokat; ellenőrizze a bejáratnál a menetrendet, hogy ne maradjon le az időszaki galériákról.",
+            "ro": "Admirați arhitectura impresionantă și expozițiile de artă; verificați programul de la intrare pentru a nu rata galeriile temporare speciale.",
+            "en": "Admire the striking architecture and art exhibitions; check the schedule at the entrance so you do not miss any special temporary galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto de la Revolución",
+            "hu": "Recinto de la Revolución",
+            "ro": "Recinto de la Revolución",
+            "en": "Recinto de la Revolución"
+          },
+          "coords": [
+            -103.496945,
+            25.561584
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lernen Sie die entscheidende Rolle der Region während der mexikanischen Revolution kennen; fragen Sie das Personal nach Hintergrundgeschichten zu den Exponaten.",
+            "hu": "Ismerje meg a régió döntő szerepét a mexikói forradalom során; kérdezze meg a személyzetet a kiállított tárgyak mögötti izgalmas történetekről.",
+            "ro": "Aflați despre rolul crucial al regiunii în timpul Revoluției Mexicane; întrebați personalul despre poveștile de fundal captivante ale exponatelor.",
+            "en": "Learn about the region's crucial role during the Mexican Revolution; ask the staff about the captivating background stories behind the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro ‘Güicho’ Cisneros",
+            "hu": "Foro ‘Güicho’ Cisneros",
+            "ro": "Foro ‘Güicho’ Cisneros",
+            "en": "Foro ‘Güicho’ Cisneros"
+          },
+          "coords": [
+            -103.492217,
+            25.565371
+          ],
+          "category": "cultural",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem lebendigen Forum hautnah; setzen Sie sich auf die Stufen und lassen Sie das nachmittägliche Treiben auf sich wirken.",
+            "hu": "Tapasztalja meg testközelből a helyi kultúrát ebben a nyüzsgő fórumban; üljön le a lépcsőkre, és élvezze a késő délutáni forgatagot.",
+            "ro": "Experimentați cultura locală îndeaproape în acest forum plin de viață; așezați-vă pe trepte și bucurați-vă de agitația de la sfârșitul după-amiezii.",
+            "en": "Experience local culture up close in this lively forum; find a seat on the steps and simply enjoy the bustling late afternoon atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Gómez Palacio beginnt am ruhigen Quiosco de la Plaza, wo die Stadt langsam erwacht. Von dort geht es in die faszinierende Welt des Xiximes, A. C., um tiefer in die kulturellen Wurzeln einzutauchen.\n\nZur Mittagszeit lockt das Casa Faya mit seiner grandiosen Architektur und inspirierenden Kunstwerken. Die kurzen Wege in der Innenstadt machen den Wechsel zwischen den Sehenswürdigkeiten angenehm und einfach.\n\nDer Nachmittag ist ganz der Geschichte gewidmet. Im Recinto de la Revolución werden die dramatischen Ereignisse der mexikanischen Revolution auf spannende Weise lebendig.\n\nDen perfekten Abschluss dieses fußläufigen Abenteuers bietet das Foro ‘Güicho’ Cisneros. Hier kann man das lokale Leben beobachten und den Tag in entspannter, kultureller Atmosphäre ausklingen lassen.",
+        "hu": "A Gómez Palacio-i séta a nyugodt Quiosco de la Plaza-nál kezdődik, ahol a város lassan ébredezik. Innen a Xiximes, A. C. lenyűgöző világába lépünk, hogy jobban megismerjük a kulturális gyökereket.\n\nDélben a Casa Faya nagyszerű építészete és inspiráló művészeti alkotásai vonzzák a látogatókat. A belváros rövid távolságai kényelmessé teszik a látnivalók közötti sétát.\n\nA délután a történelemé. A Recinto de la Revolución falai között izgalmas formában elevenednek meg a mexikói forradalom drámai eseményei.\n\nEnnek a gyalogos kalandnak a tökéletes lezárását a Foro ‘Güicho’ Cisneros nyújtja. Itt megfigyelhetjük a helyi életet, és nyugodt, kulturális légkörben fejezhetjük be a napot.",
+        "ro": "O plimbare prin Gómez Palacio începe la liniștitul Quiosco de la Plaza, unde orașul se trezește încet. De acolo, pășim în lumea fascinantă a Xiximes, A. C. pentru a explora rădăcinile culturale.\n\nLa amiază, Casa Faya atrage cu arhitectura sa măreață și lucrările de artă inspiratoare. Distanțele scurte din centrul orașului fac plimbarea între obiective foarte plăcută.\n\nDupă-amiaza este dedicată istoriei. În Recinto de la Revolución, evenimentele dramatice ale Revoluției Mexicane prind viață într-un mod captivant.\n\nFinalul perfect al acestei aventuri pietonale este oferit de Foro ‘Güicho’ Cisneros. Aici poți observa viața locală și poți încheia ziua într-o atmosferă culturală relaxată.",
+        "en": "A walk through Gómez Palacio begins at the tranquil Quiosco de la Plaza as the city gently awakens. From there, we step into the fascinating world of Xiximes, A. C. to dive deeper into the area's cultural roots.\n\nBy midday, Casa Faya beckons with its grand architecture and inspiring artwork. The short distances in the downtown area make navigating between these sights extremely pleasant.\n\nThe afternoon is fully dedicated to history. At the Recinto de la Revolución, the dramatic events of the Mexican Revolution are brought to life in an engaging and memorable way.\n\nThe perfect conclusion to this walking adventure is found at the Foro ‘Güicho’ Cisneros. Here, you can people-watch and wind down your day in a relaxed, culturally vibrant atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Quiosco del Parque",
+            "hu": "Quiosco del Parque",
+            "ro": "Quiosco del Parque",
+            "en": "Quiosco del Parque"
+          },
+          "coords": [
+            -103.503316,
+            25.563871
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour entspannt in diesem grünen Park und nutzen Sie die Morgenluft für ein paar schöne Aufnahmen des Pavillons.",
+            "hu": "Kezdje kerékpártúráját nyugodtan ebben a zöld parkban, és használja ki a reggeli levegőt, hogy szép fotókat készítsen a pavilonról.",
+            "ro": "Începeți-vă plimbarea cu bicicleta relaxat în acest parc verde și profitați de aerul dimineții pentru a face câteva fotografii frumoase cu chioșcul.",
+            "en": "Start your bike tour relaxed in this green park, taking advantage of the crisp morning air to snap some beautiful photos of the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Gral. J. Agustín Castro",
+            "hu": "Gral. J. Agustín Castro",
+            "ro": "Gral. J. Agustín Castro",
+            "en": "Gral. J. Agustín Castro"
+          },
+          "coords": [
+            -103.503825,
+            25.564973
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem Denkmal, um einen wichtigen lokalen General zu ehren; perfekt für einen schnellen Fotostopp.",
+            "hu": "Tegyen egy rövid megállót ennél az emlékműnél, hogy tisztelegjen egy fontos helyi tábornok előtt; tökéletes egy gyors fotózáshoz.",
+            "ro": "Faceți o scurtă oprire la acest monument pentru a onora un important general local; perfect pentru o sesiune foto rapidă.",
+            "en": "Make a brief stop at this monument honoring an important local general; it is a perfect spot for a quick, meaningful photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiosco de la Plaza",
+            "hu": "Quiosco de la Plaza",
+            "ro": "Quiosco de la Plaza",
+            "en": "Quiosco de la Plaza"
+          },
+          "coords": [
+            -103.499754,
+            25.56811
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie ins Zentrum zu diesem zweiten charmanten Pavillon und beobachten Sie die Einheimischen bei ihrem morgendlichen Treiben.",
+            "hu": "Kerékpározzon be a központba ehhez a második bájos pavilonhoz, és figyelje meg a helyiek reggeli tevékenységét.",
+            "ro": "Pedalați spre centru către acest al doilea chioșc fermecător și observați localnicii în rutina lor de dimineață.",
+            "en": "Cycle into the center to this second charming kiosk, taking a moment to sit and observe the locals going about their morning routines."
+          }
+        },
+        {
+          "name": {
+            "de": "Placa Bicentenario de la Independencia",
+            "hu": "Placa Bicentenario de la Independencia",
+            "ro": "Placa Bicentenario de la Independencia",
+            "en": "Placa Bicentenario de la Independencia"
+          },
+          "coords": [
+            -103.496655,
+            25.570104
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine kleine Plakette mit großer Bedeutung; lesen Sie die Inschrift, um sich an den zweihundertsten Jahrestag der Unabhängigkeit zu erinnern.",
+            "hu": "Egy kis emléktábla nagy jelentőséggel; olvassa el a feliratot, hogy megemlékezzen a függetlenség kétszázadik évfordulójáról.",
+            "ro": "O mică placă cu mare însemnătate; citiți inscripția pentru a vă aminti de bicentenarul independenței naționale.",
+            "en": "A small plaque holding massive significance; pause to read the inscription commemorating the bicentennial of national independence."
+          }
+        },
+        {
+          "name": {
+            "de": "Xiximes, A. C.",
+            "hu": "Xiximes, A. C.",
+            "ro": "Xiximes, A. C.",
+            "en": "Xiximes, A. C."
+          },
+          "coords": [
+            -103.498208,
+            25.569879
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab und tauchen Sie ein in die tiefgreifende indigene Geschichte der Region, die hier exzellent aufbereitet ist.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a régió mélyreható őslakos történelmében, amelyet itt kiválóan bemutatnak.",
+            "ro": "Parcați-vă bicicleta în siguranță și pătrundeți în istoria indigenă profundă a regiunii, excelent prezentată aici.",
+            "en": "Lock your bike securely outside and dive into the region's profound indigenous history, which is excellently curated in this space."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Artes \"Casa Faya\"",
+            "hu": "Centro de Artes \"Casa Faya\"",
+            "ro": "Centro de Artes \"Casa Faya\"",
+            "en": "Centro de Artes \"Casa Faya\""
+          },
+          "coords": [
+            -103.497791,
+            25.566073
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich kurz im Innenhof dieses Kunstzentrums, bevor Sie die faszinierenden zeitgenössischen Werke der lokalen Künstler erkunden.",
+            "hu": "Frissüljön fel egy kicsit a művészeti központ udvarán, mielőtt felfedezné a helyi művészek lenyűgöző kortárs alkotásait.",
+            "ro": "Răcoriți-vă scurt în curtea acestui centru de artă înainte de a explora fascinantele lucrări contemporane ale artiștilor locali.",
+            "en": "Take a moment to refresh in the courtyard of this arts center before exploring the fascinating contemporary works by local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Dolores del Río",
+            "hu": "Teatro Dolores del Río",
+            "ro": "Teatro Dolores del Río",
+            "en": "Teatro Dolores del Río"
+          },
+          "coords": [
+            -103.500652,
+            25.551193
+          ],
+          "category": "cultural",
+          "arrive_at": "15:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour an diesem prächtigen Theater; schauen Sie unbedingt auf den Spielplan, vielleicht findet noch eine Abendvorstellung statt.",
+            "hu": "Fejezze be a túrát ennél a pompás színháznál; mindenképpen nézze meg a műsort, hátha lesz egy esti előadás.",
+            "ro": "Încheiați turul la acest teatru magnific; asigurați-vă că verificați programul, poate prindeți un spectacol de seară.",
+            "en": "Finish your tour at this magnificent theater; be sure to check the schedule to see if you can catch a captivating evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag auf zwei Rädern beginnt entspannt im Grün des Quiosco del Parque, wo Sie sich aufwärmen. Schon bald passieren Sie Monumente wie den Gral. J. Agustín Castro, die an heldenhafte Taten erinnern.\n\nGegen Mittag führt die Route in den städtischen Trubel rund um den Quiosco de la Plaza und vorbei an der geschichtsträchtigen Unabhängigkeits-Plakette. Das Fahrrad gibt Ihnen die Flexibilität, das Tempo selbst zu bestimmen.\n\nAm Nachmittag steht Kultur auf dem Programm, mit tiefen Einblicken in die regionale Vergangenheit im Xiximes und kunstvollen Ausstellungen im Casa Faya.\n\nEine längere, abschließende Fahrt bringt Sie in den Süden zum Teatro Dolores del Río. Dieser kulturelle Höhepunkt bildet den perfekten Abschluss für einen aktiven Tag in Gómez Palacio.",
+        "hu": "A kétkeréken töltött nap lazán indul a Quiosco del Parque zöldjében, ahol bemelegíthet. Hamarosan olyan műemlékeket érint, mint a Gral. J. Agustín Castro, melyek hősies tettekre emlékeztetnek.\n\nDélben az útvonal a városi nyüzsgésbe vezet a Quiosco de la Plaza környékén, elhaladva a történelmi függetlenségi emléktábla mellett. A kerékpár megadja a rugalmasságot a tempó megválasztásához.\n\nDélután a kultúráé a főszerep, mély betekintéssel a regionális múltba a Xiximes-ben, és művészeti kiállításokkal a Casa Fayában.\n\nEgy hosszabb, záró kerékpározás délre visz a Teatro Dolores del Río-hoz. Ez a kulturális csúcspont tökéletes lezárása egy aktív napnak Gómez Palacióban.",
+        "ro": "Ziua pe două roți începe relaxat în verdeața de la Quiosco del Parque, unde vă încălziți. În scurt timp, veți trece pe lângă monumente precum Gral. J. Agustín Castro, amintind de fapte eroice.\n\nLa amiază, traseul duce în agitația urbană din jurul Quiosco de la Plaza și pe lângă placa istorică a independenței. Bicicleta vă oferă flexibilitatea de a vă alege propriul ritm.\n\nDupă-amiaza, cultura este în program, cu o privire profundă asupra trecutului regional la Xiximes și expoziții de artă la Casa Faya.\n\nO plimbare mai lungă de final vă aduce în sud, la Teatro Dolores del Río. Acest punct culminant cultural este finalul perfect pentru o zi activă în Gómez Palacio.",
+        "en": "Your day on two wheels begins relaxed amidst the greenery of the Quiosco del Parque, warming up for the ride. Soon, you will glide past monuments like Gral. J. Agustín Castro, whispering tales of heroism.\n\nBy midday, the route takes you into the urban bustle around the Quiosco de la Plaza and past the historic independence plaque. Biking grants you the perfect flexibility to set your own pace.\n\nThe afternoon puts culture in the spotlight, offering deep dives into the regional past at Xiximes and exploring contemporary art exhibitions at Casa Faya.\n\nA longer final ride brings you south to the striking Teatro Dolores del Río. This elegant cultural highlight serves as the ultimate finale to an active day exploring Gómez Palacio."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Acertijo Museo Interactivo Laguna Durango",
+            "hu": "El Acertijo Museo Interactivo Laguna Durango",
+            "ro": "El Acertijo Museo Interactivo Laguna Durango",
+            "en": "El Acertijo Museo Interactivo Laguna Durango"
+          },
+          "coords": [
+            -103.494227,
+            25.573814
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiges interaktives Museum für Technik und Wissenschaft; nutzen Sie die frühen Morgenstunden, um alle Stationen in Ruhe ausprobieren zu können.",
+            "hu": "Egy nagyszerű interaktív technológiai és tudományos múzeum; használja ki a kora reggeli órákat, hogy nyugodtan kipróbálhasson minden állomást.",
+            "ro": "Un muzeu interactiv excelent de tehnologie și știință; folosiți orele dimineții devreme pentru a încerca toate stațiile în liniște.",
+            "en": "An excellent interactive museum for technology and science; take advantage of the early morning hours to try all the stations without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Jabonera",
+            "hu": "Antigua Jabonera",
+            "ro": "Antigua Jabonera",
+            "en": "Antigua Jabonera"
+          },
+          "coords": [
+            -103.495483,
+            25.574294
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Seifenfabrik, die nun ein Zeugnis der Industriegeschichte ist; achten Sie auf die restaurierten Originalmaschinen.",
+            "hu": "Fedezze fel ezt a régi szappangyárat, amely ma már az ipartörténet bizonyítéka; figyeljen a felújított eredeti gépekre.",
+            "ro": "Explorați această veche fabrică de săpun, acum o mărturie a istoriei industriale; fiți atenți la mașinăriile originale restaurate.",
+            "en": "Explore this old soap factory, now a living testament to industrial history; keep an eye out for the beautifully restored original machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Artes \"Casa Faya\"",
+            "hu": "Centro de Artes \"Casa Faya\"",
+            "ro": "Centro de Artes \"Casa Faya\"",
+            "en": "Centro de Artes \"Casa Faya\""
+          },
+          "coords": [
+            -103.497791,
+            25.566073
+          ],
+          "category": "museum",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in den Seitenstraßen, um diese wunderschöne Kunsteinrichtung zu besuchen und die wechselnden Ausstellungen zu genießen.",
+            "hu": "Parkoljon le a mellékutcákban, hogy meglátogassa ezt a gyönyörű művészeti létesítményt, és élvezze a változó kiállításokat.",
+            "ro": "Parcați pe străzile laterale pentru a vizita această frumoasă instituție de artă și pentru a vă bucura de expozițiile în continuă schimbare.",
+            "en": "Find parking in the adjacent side streets to visit this stunning art institution and fully enjoy its constantly changing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto de la Revolución",
+            "hu": "Recinto de la Revolución",
+            "ro": "Recinto de la Revolución",
+            "en": "Recinto de la Revolución"
+          },
+          "coords": [
+            -103.496945,
+            25.561584
+          ],
+          "category": "museum",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die mexikanische Revolution; das Parken ist hier oft einfach, sodass Sie direkt ins historische Geschehen eintauchen können.",
+            "hu": "Mélyítse el tudását a mexikói forradalomról; a parkolás itt gyakran egyszerű, így egyből belevetheti magát a történelmi eseményekbe.",
+            "ro": "Aprofundați-vă cunoștințele despre Revoluția Mexicană; parcarea este adesea ușoară aici, permițându-vă să intrați direct în evenimentele istorice.",
+            "en": "Deepen your knowledge of the Mexican Revolution; parking here is usually easy, allowing you to dive straight into the historical narrative."
+          }
+        },
+        {
+          "name": {
+            "de": "Gral. Guadalupe Victoria",
+            "hu": "Gral. Guadalupe Victoria",
+            "ro": "Gral. Guadalupe Victoria",
+            "en": "Gral. Guadalupe Victoria"
+          },
+          "coords": [
+            -103.489643,
+            25.55257
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp am Denkmal für den ersten Präsidenten Mexikos; ideal für ein schnelles Foto, bevor die Sonne tiefer sinkt.",
+            "hu": "Egy rövid megálló Mexikó első elnökének emlékművénél; ideális egy gyors fotózáshoz, mielőtt lemenne a nap.",
+            "ro": "O scurtă oprire la monumentul dedicat primului președinte al Mexicului; ideal pentru o fotografie rapidă înainte ca soarele să apună.",
+            "en": "Take a brief stop at the monument dedicated to Mexico's first president; it is ideal for a quick photo before the sun starts setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Eiffel",
+            "hu": "Torre Eiffel",
+            "ro": "Torre Eiffel",
+            "en": "Torre Eiffel"
+          },
+          "coords": [
+            -103.479045,
+            25.549856
+          ],
+          "category": "historical",
+          "arrive_at": "16:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Staunen Sie über diese kuriose mexikanische Replik des Pariser Wahrzeichens; kommen Sie in der späten Nachmittagssonne für das beste Fotolicht.",
+            "hu": "Csodálkozzon rá a párizsi nevezetesség e különös mexikói másolatára; érkezzen a késő délutáni napsütésben a legjobb fényképekhez.",
+            "ro": "Minunați-vă de această curioasă replică mexicană a reperului parizian; vizitați în soarele după-amiezii târzii pentru cea mai bună lumină foto.",
+            "en": "Marvel at this curious Mexican replica of the Parisian landmark; arrive during the late afternoon sun to capture the absolute best lighting for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag im Auto ermöglicht es Ihnen, die äußeren Highlights der Stadt bequem zu erreichen. Am Morgen begeistert das El Acertijo Museum mit interaktiver Wissenschaft, gefolgt von der industriellen Nostalgie der Antigua Jabonera.\n\nZur Mittagszeit navigieren Sie komfortabel in das historische Herz der Stadt. Das Casa Faya lockt mit Kunst, und die Fahrt dorthin bietet erste Eindrücke der städtischen Architektur.\n\nDer Nachmittag steht im Zeichen der Revolution. Nach dem Besuch des Recinto de la Revolución bringt Sie das Auto zügig zu den weiteren historischen Denkmälern der Stadt, wie dem des Gral. Guadalupe Victoria.\n\nDer Abend schließt mit einer Besonderheit: der mexikanischen Torre Eiffel. Die bequeme Anreise mit dem Auto macht diesen surrealen Anblick bei Sonnenuntergang zum krönenden Abschluss.",
+        "hu": "Az autóval töltött nap lehetővé teszi, hogy kényelmesen elérje a város külső látnivalóit. Reggel az El Acertijo Múzeum nyűgöz le interaktív tudományával, majd az Antigua Jabonera ipari nosztalgiája következik.\n\nDélben kényelmesen navigálhat a város történelmi szívébe. A Casa Faya művészettel vonz, és az odavezető út megmutatja a városi építészet első benyomásait.\n\nA délután a forradalom jegyében telik. A Recinto de la Revolución meglátogatása után az autó gyorsan elviszi a város többi történelmi műemlékéhez, mint például a Gral. Guadalupe Victoriához.\n\nAz estét egy különlegesség zárja: a mexikói Torre Eiffel. Az autós megközelítés kényelmessé teszi, hogy ezt a szürreális látványt naplementekor élvezhesse a nap megkoronázásaként.",
+        "ro": "Ziua cu mașina vă permite să ajungeți confortabil la punctele de atracție periferice ale orașului. Dimineața, Muzeul El Acertijo încântă cu știința interactivă, urmat de nostalgia industrială a Antigua Jabonera.\n\nLa amiază, navigați confortabil către inima istorică a orașului. Casa Faya atrage cu arta sa, iar drumul până acolo oferă primele impresii ale arhitecturii urbane.\n\nDupă-amiaza stă sub semnul revoluției. După vizitarea Recinto de la Revolución, mașina vă duce rapid către alte monumente istorice ale orașului, cum ar fi cel al Gral. Guadalupe Victoria.\n\nSeara se încheie cu o particularitate: Torre Eiffel mexican. Sosirea confortabilă cu mașina face din această priveliște suprarealistă la apus încununarea perfectă a zilei.",
+        "en": "Traveling by car allows you to comfortably reach the city's outlying highlights. The morning impresses with interactive science at the El Acertijo Museum, seamlessly followed by the industrial nostalgia of the Antigua Jabonera.\n\nBy midday, you will easily navigate into the historic heart of the city. Casa Faya draws you in with its art, and the short drive provides a pleasant introduction to the local urban architecture.\n\nThe afternoon is entirely dedicated to the revolution. After delving into history at the Recinto de la Revolución, your vehicle quickly transports you to other key monuments, like that of Gral. Guadalupe Victoria.\n\nThe evening concludes with a true novelty: the Mexican Torre Eiffel. Arriving by car makes witnessing this surreal structure at sunset a completely hassle-free and memorable finale."
+      }
+    }
+  }
+}

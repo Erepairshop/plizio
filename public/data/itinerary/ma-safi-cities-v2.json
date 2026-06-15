@@ -1,0 +1,520 @@
+{
+  "city_id": "ma-safi-cities-v2",
+  "anchor": {
+    "name": "Safi",
+    "coords": [
+      -9.2372,
+      32.2994
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:33",
+      "total_km": 1.17,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arts City",
+            "hu": "Művészetek Városa (Arts City)",
+            "ro": "Arts City",
+            "en": "Arts City"
+          },
+          "coords": [
+            -9.237094,
+            32.296623
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie hier lokale Keramik und moderne Kunstwerke; sich Zeit für Safis reiches handwerkliches Erbe zu nehmen, macht den Besuch besonders lohnend.",
+            "hu": "Csodálja meg a helyi kerámiákat és modern művészeti kiállításokat itt; hagyjon időt Szafi gazdag kézműves örökségének megismerésére az élményért.",
+            "ro": "Admirați ceramica locală și expozițiile de artă modernă de aici; alocarea timpului pentru a înțelege bogata moștenire artizanală a orașului Safi merită.",
+            "en": "Admire local ceramics and modern art displays here; taking your time to understand Safi's rich artisanal heritage makes the visit highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Agro (Tor von Agrou)",
+            "hu": "Bab Agro kapu",
+            "ro": "Poarta Bab Agro",
+            "en": "Bab Agro (Gate of Agrou)"
+          },
+          "coords": [
+            -9.23817,
+            32.298588
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieses Tor bietet einen massiven steinernen Eingang zur alten Medina; treten Sie etwas vom Hauptweg zurück, um seine imposante Größe optimal zu fotografieren.",
+            "hu": "Ez a kapu masszív kőbejáratot biztosít az ókori medinába; lépjen egy kicsit hátrébb a főúttól, hogy fotóin igazán megragadja annak lenyűgöző méreteit.",
+            "ro": "Această poartă oferă o intrare masivă din piatră în vechea medină; faceți un pas înapoi de la poteca principală pentru a-i surprinde amploarea în fotografii.",
+            "en": "This gate provides a massive stone entry to the old medina; step back slightly from the main path to capture its imposing scale in your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Shaaba",
+            "hu": "Bab Shaaba",
+            "ro": "Bab Shaaba",
+            "en": "Bab Shaaba"
+          },
+          "coords": [
+            -9.239828,
+            32.299824
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen architektonischen Details dieses historischen Portals; ein Besuch früh am Tag ermöglicht es Ihnen, es ohne den Markttumult zu sehen.",
+            "hu": "Figyelje meg a történelmi portál bonyolult építészeti részleteit; ha kora reggel érkezik, a nyüzsgő piaci tömeg nélkül is kényelmesen szemügyre veheti.",
+            "ro": "Observați detaliile arhitecturale complicate ale acestui portal istoric; o vizită dimineața devreme vă permite să îl admirați fără aglomerația din piață.",
+            "en": "Notice the intricate architectural details on this historic portal; visiting early in the day allows you to observe it without the bustling market crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesische Kathedrale",
+            "hu": "Portugál Katedrális",
+            "ro": "Catedrala Portugheză",
+            "en": "Cathédrale Portugaise"
+          },
+          "coords": [
+            -9.2416,
+            32.298507
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die unvollendeten Bögen dieser einzigartigen portugiesischen Ruine; der Blick durch die verbliebenen Gewölbe in den Himmel ist atemberaubend.",
+            "hu": "Csodálja meg ennek az egyedülálló, tizenhatodik századi portugál romnak a befejezetlen boltíveit; a megmaradt boltozaton keresztüli égre nézni lélegzetelállító.",
+            "ro": "Admirați arcadele neterminate ale acestei ruine portugheze unice din secolul al șaisprezecelea; privirea cerului prin bolta rămasă este de-a dreptul uluitoare.",
+            "en": "Marvel at the unfinished arches of this unique sixteenth-century Portuguese ruin; looking up at the sky through the remaining vaulting is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Alkhadid",
+            "hu": "Bab Alkhadid",
+            "ro": "Bab Alkhadid",
+            "en": "Bab Alkhadid"
+          },
+          "coords": [
+            -9.241816,
+            32.297582
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses eiserne Tor diente als wichtige Verteidigungsanlage; achten Sie auf die alten Scharniere und Metallarbeiten, die Jahrhunderte überdauert haben.",
+            "hu": "Ez a masszív vaskapu létfontosságú védelmi építményként szolgált; nézze meg alaposan az ősi zsanérokat és fémmunkákat, amelyek évszázadokat éltek túl.",
+            "ro": "Această poartă robustă a servit ca structură defensivă vitală; priviți cu atenție balamalele antice și feroneria care au rezistat atâtor secole de istorie.",
+            "en": "This sturdy iron gate served as a vital defensive structure; look closely at the ancient hinges and metalwork that have withstood centuries of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Almaesara",
+            "hu": "Bab Almaesara",
+            "ro": "Bab Almaesara",
+            "en": "Bab Almaesara"
+          },
+          "coords": [
+            -9.243071,
+            32.298821
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weniger bekannten Teil der historischen Mauern; wenn Sie langsam hindurchgehen, können Sie die traditionelle Handwerkskunst würdigen.",
+            "hu": "Fedezze fel a történelmi falak ezen kevésbé ismert szakaszát; ha lassan sétál át az átjárón, teljesen értékelni tudja a hagyományos kézművesség szépségét.",
+            "ro": "Explorați această secțiune mai puțin cunoscută a zidurilor istorice; o plimbare lentă prin pasajul său vă permite să apreciați pe deplin măiestria tradițională.",
+            "en": "Explore this lesser-known section of the historic walls; walking slowly through its passage lets you fully appreciate the traditional craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Qasr al-Bahr (Meeresburg)",
+            "hu": "Qasr al-Bahr (Tengeri kastély)",
+            "ro": "Qasr al-Bahr (Castelul Mării)",
+            "en": "Qasr al-Bahr, or the Sea Castle"
+          },
+          "coords": [
+            -9.244062,
+            32.297155
+          ],
+          "category": "castle",
+          "arrive_at": "17:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese Festung am Meer verfügt über mächtige Bronzekanonen; bringen Sie eine leichte Jacke mit, da der Wind vom Ozean auch im Sommer recht kühl sein kann.",
+            "hu": "Ez a tengerparti erődítmény hatalmas bronzágyúkkal büszkélkedhet; hozzon magával egy könnyű kabátot, mert az óceáni szél nyáron is meglepően hűvös lehet.",
+            "ro": "Această fortăreață de la malul mării deține tunuri puternice; aduceți o jachetă ușoară, deoarece vântul de pe ocean poate fi surprinzător de rece vara.",
+            "en": "This seaside fortress features powerful bronze cannons; bring a light jacket as the wind whipping off the ocean can be surprisingly brisk even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur in der Arts City, bevor es zum historischen Bab Agro geht. Mittags bewundern Sie Bab Shaaba und die beeindruckende portugiesische Kathedrale. Am Nachmittag erkunden Sie die alten Tore Bab Alkhadid und Bab Almaesara. Der Abend endet mit einem fantastischen Sonnenuntergang am majestätischen Qasr al-Bahr, was diesen historischen Spaziergang perfekt abrundet.",
+        "hu": "A reggel kulturális elmerüléssel kezdődik az Arts Cityben, majd a történelmi Bab Agro felé vesszük az irányt. Délben a Bab Shaaba és a figyelemre méltó Portugál Katedrális vár ránk. Délután felfedezzük a Bab Alkhadid és az ősi Bab Almaesara kapukat. Az este egy lenyűgöző naplementével érkezik a fenséges Qasr al-Bahr kastélynál, tökéletesen lezárva ezt a történelmi sétát.",
+        "ro": "Dimineața începe cu o incursiune culturală la Arts City, înainte de a vă îndrepta spre istorica Bab Agro. La prânz admirați Bab Shaaba și impresionanta Catedrală Portugheză. După-amiaza o veți petrece explorând porțile antice Bab Alkhadid și Bab Almaesara. Seara se încheie cu un apus spectaculos la mărețul Qasr al-Bahr, încununând o plimbare istorică perfectă.",
+        "en": "Morning starts with cultural immersion at the Arts City before heading to the historic Bab Agro. Midday is spent marveling at Bab Shaaba and the remarkable Cathédrale Portugaise. In the afternoon, you will explore Bab Alkhadid and the ancient Bab Almaesara gates. Evening arrives with a stunning sunset view at the majestic Qasr al-Bahr, rounding off a perfect historical walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 3.69,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tajine-Denkmal",
+            "hu": "Tajine emlékmű",
+            "ro": "Monumentul Tajine",
+            "en": "Tajine"
+          },
+          "coords": [
+            -9.233904,
+            32.294873
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die riesige Tajine, die den Ruhm der städtischen Töpferei feiert; wenn Sie nahe am Sockel stehen, erhalten Sie die beste Fotoperspektive.",
+            "hu": "Tekintse meg a város fazekashírnevét ünneplő óriási tajine-t; ha a talapzat közelében áll, akkor kapja a legjobb perspektívát egy igazán emlékezetes fotóhoz.",
+            "ro": "Priviți tajina uriașă care celebrează faima ceramicii din oraș; statul aproape de bază vă oferă cea mai bună perspectivă pentru o fotografie memorabilă.",
+            "en": "Behold the giant tajine that celebrates the city's pottery fame; standing near the base gives you the best perspective for a truly memorable photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts City",
+            "hu": "Művészetek Városa (Arts City)",
+            "ro": "Arts City",
+            "en": "Arts City"
+          },
+          "coords": [
+            -9.237094,
+            32.296623
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie hier lokale Keramik und moderne Kunstwerke; sich Zeit für Safis reiches handwerkliches Erbe zu nehmen, macht den Besuch besonders lohnend.",
+            "hu": "Csodálja meg a helyi kerámiákat és modern művészeti kiállításokat itt; hagyjon időt Szafi gazdag kézműves örökségének megismerésére az élményért.",
+            "ro": "Admirați ceramica locală și expozițiile de artă modernă de aici; alocarea timpului pentru a înțelege bogata moștenire artizanală a orașului Safi merită.",
+            "en": "Admire local ceramics and modern art displays here; taking your time to understand Safi's rich artisanal heritage makes the visit highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Agro (Tor von Agrou)",
+            "hu": "Bab Agro kapu",
+            "ro": "Poarta Bab Agro",
+            "en": "Bab Agro (Gate of Agrou)"
+          },
+          "coords": [
+            -9.23817,
+            32.298588
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieses Tor bietet einen massiven steinernen Eingang zur alten Medina; treten Sie etwas vom Hauptweg zurück, um seine imposante Größe optimal zu fotografieren.",
+            "hu": "Ez a kapu masszív kőbejáratot biztosít az ókori medinába; lépjen egy kicsit hátrébb a főúttól, hogy fotóin igazán megragadja annak lenyűgöző méreteit.",
+            "ro": "Această poartă oferă o intrare masivă din piatră în vechea medină; faceți un pas înapoi de la poteca principală pentru a-i surprinde amploarea în fotografii.",
+            "en": "This gate provides a massive stone entry to the old medina; step back slightly from the main path to capture its imposing scale in your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesische Kathedrale",
+            "hu": "Portugál Katedrális",
+            "ro": "Catedrala Portugheză",
+            "en": "Cathédrale Portugaise"
+          },
+          "coords": [
+            -9.2416,
+            32.298507
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die unvollendeten Bögen dieser einzigartigen portugiesischen Ruine; der Blick durch die verbliebenen Gewölbe in den Himmel ist atemberaubend.",
+            "hu": "Csodálja meg ennek az egyedülálló, tizenhatodik századi portugál romnak a befejezetlen boltíveit; a megmaradt boltozaton keresztüli égre nézni lélegzetelállító.",
+            "ro": "Admirați arcadele neterminate ale acestei ruine portugheze unice din secolul al șaisprezecelea; privirea cerului prin bolta rămasă este de-a dreptul uluitoare.",
+            "en": "Marvel at the unfinished arches of this unique sixteenth-century Portuguese ruin; looking up at the sky through the remaining vaulting is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El Jdid (Neues Tor)",
+            "hu": "Bab El Jdid (Új kapu)",
+            "ro": "Bab El Jdid (Poarta Nouă)",
+            "en": "New Gate, or Bab El Jdid"
+          },
+          "coords": [
+            -9.240549,
+            32.297637
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Treten Sie durch dieses neuere Tor, das die Altstadt mit der Neustadt verbindet; die Stände in der Umgebung nach lokalen Snacks abzusuchen, lohnt sich.",
+            "hu": "Lépjen át ezen az újabb történelmi portálon, amely összeköti az óvárost az újjal; a környező bódék kínálatának felfedezése még élvezetesebbé teszi a látogatást.",
+            "ro": "Pășiți prin acest portal istoric mai nou, care leagă orașul vechi de cel nou; verificarea tarabelor din jur pentru gustări locale face vizita și mai bună.",
+            "en": "Step through this newer historical portal that connects the old and new town; checking the surrounding stalls for local snacks makes the visit even better."
+          }
+        },
+        {
+          "name": {
+            "de": "Qasr al-Bahr (Meeresburg)",
+            "hu": "Qasr al-Bahr (Tengeri kastély)",
+            "ro": "Qasr al-Bahr (Castelul Mării)",
+            "en": "Qasr al-Bahr, or the Sea Castle"
+          },
+          "coords": [
+            -9.244062,
+            32.297155
+          ],
+          "category": "castle",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Diese Festung am Meer verfügt über mächtige Bronzekanonen; bringen Sie eine leichte Jacke mit, da der Wind vom Ozean auch im Sommer recht kühl sein kann.",
+            "hu": "Ez a tengerparti erődítmény hatalmas bronzágyúkkal büszkélkedhet; hozzon magával egy könnyű kabátot, mert az óceáni szél nyáron is meglepően hűvös lehet.",
+            "ro": "Această fortăreață de la malul mării deține tunuri puternice; aduceți o jachetă ușoară, deoarece vântul de pe ocean poate fi surprinzător de rece vara.",
+            "en": "This seaside fortress features powerful bronze cannons; bring a light jacket as the wind whipping off the ocean can be surprisingly brisk even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Safi (Stadtstrand)",
+            "hu": "Szafi tengerpart (Plage de Safi)",
+            "ro": "Plaja din Safi",
+            "en": "Plage de Safi"
+          },
+          "coords": [
+            -9.251881,
+            32.316777
+          ],
+          "category": "recreational",
+          "arrive_at": "16:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Stadtstrand; die Schuhe auszuziehen, um barfuß am Ufer entlang zu spazieren, ist die perfekte Erholung.",
+            "hu": "Pihenjen ezen a tágas, élénk hangulatáról híres városi strandon; a cipő levétele és a mezítlábas séta a part mentén tökéletes módja a kikapcsolódásnak.",
+            "ro": "Relaxați-vă pe această plajă urbană întinsă, faimoasă pentru atmosfera sa; descălțarea pentru a vă plimba desculț de-a lungul țărmului este relaxarea perfectă.",
+            "en": "Relax on this expansive city beach famous for its lively atmosphere; taking off your shoes to walk barefoot along the shoreline is the perfect unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am massiven Tajine-Denkmal, gefolgt von einem kulturellen Besuch in der Arts City. Mittags radeln Sie durch die alten Stadttore von Bab Agro zur einzigartigen portugiesischen Kathedrale. Am Nachmittag fahren Sie zum Bab El Jdid und zur Festung Qasr al-Bahr. Der Abend bringt eine entspannte Fahrt an der Küste zum Plage de Safi, wo eine sanfte Meeresbrise auf Sie wartet.",
+        "hu": "A reggel a hatalmas Tajine emlékműnél indul, majd kulturális látogatást teszünk az Arts Cityben. Délben a régi városkapukon keresztül pedálozva érjük el a különleges Portugál Katedrálist. A délutáni tekerés a Bab El Jdidhez és a Qasr al-Bahr erődhöz vezet. Az este nyugtató parti biciklizést hoz a Plage de Safi homokjához, ahol kellemes óceáni szellő fogad.",
+        "ro": "Dimineața debutează la uriașul monument Tajine, urmat de o vizită culturală la Arts City. La prânz pedalați prin vechile porți de la Bab Agro către unica Catedrală Portugheză. După-amiaza vă poartă spre Bab El Jdid și formidabila fortăreață Qasr al-Bahr. Seara aduce o cursă relaxantă pe coastă până la Plage de Safi, unde vă așteaptă briza proaspătă a oceanului.",
+        "en": "Morning kicks off at the massive Tajine monument, followed by a cultural visit to Arts City. Midday takes you pedaling through the old city gates of Bab Agro to the unique Cathédrale Portugaise. Afternoon riding leads to Bab El Jdid and the formidable Qasr al-Bahr fortress. Evening brings a relaxing coastal cycle to Plage de Safi, where the gentle ocean breeze awaits you."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tajine-Denkmal",
+            "hu": "Tajine emlékmű",
+            "ro": "Monumentul Tajine",
+            "en": "Tajine"
+          },
+          "coords": [
+            -9.233904,
+            32.294873
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die riesige Tajine, die den Ruhm der städtischen Töpferei feiert; wenn Sie nahe am Sockel stehen, erhalten Sie die beste Fotoperspektive.",
+            "hu": "Tekintse meg a város fazekashírnevét ünneplő óriási tajine-t; ha a talapzat közelében áll, akkor kapja a legjobb perspektívát egy igazán emlékezetes fotóhoz.",
+            "ro": "Priviți tajina uriașă care celebrează faima ceramicii din oraș; statul aproape de bază vă oferă cea mai bună perspectivă pentru o fotografie memorabilă.",
+            "en": "Behold the giant tajine that celebrates the city's pottery fame; standing near the base gives you the best perspective for a truly memorable photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts City",
+            "hu": "Művészetek Városa (Arts City)",
+            "ro": "Arts City",
+            "en": "Arts City"
+          },
+          "coords": [
+            -9.237094,
+            32.296623
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie hier lokale Keramik und moderne Kunstwerke; sich Zeit für Safis reiches handwerkliches Erbe zu nehmen, macht den Besuch besonders lohnend.",
+            "hu": "Csodálja meg a helyi kerámiákat és modern művészeti kiállításokat itt; hagyjon időt Szafi gazdag kézműves örökségének megismerésére az élményért.",
+            "ro": "Admirați ceramica locală și expozițiile de artă modernă de aici; alocarea timpului pentru a înțelege bogata moștenire artizanală a orașului Safi merită.",
+            "en": "Admire local ceramics and modern art displays here; taking your time to understand Safi's rich artisanal heritage makes the visit highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Shaaba",
+            "hu": "Bab Shaaba",
+            "ro": "Bab Shaaba",
+            "en": "Bab Shaaba"
+          },
+          "coords": [
+            -9.239828,
+            32.299824
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen architektonischen Details dieses historischen Portals; ein Besuch früh am Tag ermöglicht es Ihnen, es ohne den Markttumult zu sehen.",
+            "hu": "Figyelje meg a történelmi portál bonyolult építészeti részleteit; ha kora reggel érkezik, a nyüzsgő piaci tömeg nélkül is kényelmesen szemügyre veheti.",
+            "ro": "Observați detaliile arhitecturale complicate ale acestui portal istoric; o vizită dimineața devreme vă permite să îl admirați fără aglomerația din piață.",
+            "en": "Notice the intricate architectural details on this historic portal; visiting early in the day allows you to observe it without the bustling market crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesische Kathedrale",
+            "hu": "Portugál Katedrális",
+            "ro": "Catedrala Portugheză",
+            "en": "Cathédrale Portugaise"
+          },
+          "coords": [
+            -9.2416,
+            32.298507
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die unvollendeten Bögen dieser einzigartigen portugiesischen Ruine; der Blick durch die verbliebenen Gewölbe in den Himmel ist atemberaubend.",
+            "hu": "Csodálja meg ennek az egyedülálló, tizenhatodik századi portugál romnak a befejezetlen boltíveit; a megmaradt boltozaton keresztüli égre nézni lélegzetelállító.",
+            "ro": "Admirați arcadele neterminate ale acestei ruine portugheze unice din secolul al șaisprezecelea; privirea cerului prin bolta rămasă este de-a dreptul uluitoare.",
+            "en": "Marvel at the unfinished arches of this unique sixteenth-century Portuguese ruin; looking up at the sky through the remaining vaulting is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Qasr al-Bahr (Meeresburg)",
+            "hu": "Qasr al-Bahr (Tengeri kastély)",
+            "ro": "Qasr al-Bahr (Castelul Mării)",
+            "en": "Qasr al-Bahr, or the Sea Castle"
+          },
+          "coords": [
+            -9.244062,
+            32.297155
+          ],
+          "category": "castle",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Diese Festung am Meer verfügt über mächtige Bronzekanonen; bringen Sie eine leichte Jacke mit, da der Wind vom Ozean auch im Sommer recht kühl sein kann.",
+            "hu": "Ez a tengerparti erődítmény hatalmas bronzágyúkkal büszkélkedhet; hozzon magával egy könnyű kabátot, mert az óceáni szél nyáron is meglepően hűvös lehet.",
+            "ro": "Această fortăreață de la malul mării deține tunuri puternice; aduceți o jachetă ușoară, deoarece vântul de pe ocean poate fi surprinzător de rece vara.",
+            "en": "This seaside fortress features powerful bronze cannons; bring a light jacket as the wind whipping off the ocean can be surprisingly brisk even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Safi (Stadtstrand)",
+            "hu": "Szafi tengerpart (Plage de Safi)",
+            "ro": "Plaja din Safi",
+            "en": "Plage de Safi"
+          },
+          "coords": [
+            -9.251881,
+            32.316777
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Stadtstrand; die Schuhe auszuziehen, um barfuß am Ufer entlang zu spazieren, ist die perfekte Erholung.",
+            "hu": "Pihenjen ezen a tágas, élénk hangulatáról híres városi strandon; a cipő levétele és a mezítlábas séta a part mentén tökéletes módja a kikapcsolódásnak.",
+            "ro": "Relaxați-vă pe această plajă urbană întinsă, faimoasă pentru atmosfera sa; descălțarea pentru a vă plimba desculț de-a lungul țărmului este relaxarea perfectă.",
+            "en": "Relax on this expansive city beach famous for its lively atmosphere; taking off your shoes to walk barefoot along the shoreline is the perfect unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt am Wahrzeichen Tajine, bevor Sie nahe der Arts City parken, um Kunst zu genießen. Mittags stehen kurze Fahrten zwischen dem Bab Shaaba und der portugiesischen Kathedrale an. Die Erkundung am Nachmittag wird von der majestätischen Festung Qasr al-Bahr dominiert. Den Abend verbringen Sie am besten am Plage de Safi, um einen entspannten Sonnenuntergang zu genießen.",
+        "hu": "A reggeli vezetés az ikonikus Tajine emlékműnél kezdődik, majd az Arts City közelében parkolunk le a helyi művészet élvezetéhez. A dél rövid utakat kínál a lenyűgöző Bab Shaaba és a történelmi Portugál Katedrális között. A délutáni felfedezést az óceánra néző fenséges Qasr al-Bahr erőd uralja. Az estét a Plage de Safi mellett parkolva érdemes tölteni, élvezve a gyönyörű naplementét.",
+        "ro": "Călătoria de dimineață începe la iconicul monument Tajine, parcând apoi lângă Arts City pentru artă locală. Prânzul aduce scurte deplasări între impresionanta Bab Shaaba și istorica Catedrală Portugheză. Explorarea de după-amiază este dominată de maiestuoasa fortăreață Qasr al-Bahr, orientată spre ocean. Seara este petrecută perfect la Plage de Safi, admirând un apus relaxant pe țărm.",
+        "en": "Morning driving starts at the iconic Tajine landmark before parking near Arts City to enjoy local art. Midday brings short trips between the impressive Bab Shaaba and the historic Cathédrale Portugaise. Afternoon exploration is dominated by the majestic ocean-facing Qasr al-Bahr fortress. Evening is perfectly spent parking near Plage de Safi to enjoy a relaxing sunset by the beautiful shore."
+      }
+    }
+  }
+}

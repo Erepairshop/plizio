@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-loano-cities-v2",
+  "anchor": {
+    "name": "Loano",
+    "coords": [
+      8.25996,
+      44.12884
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:14",
+      "total_km": 1.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa natale di Rosa Raimondi",
+            "hu": "Casa natale di Rosa Raimondi",
+            "ro": "Casa natale di Rosa Raimondi",
+            "en": "Casa natale di Rosa Raimondi"
+          },
+          "coords": [
+            8.260067,
+            44.127475
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Geburtshaus von Rosa Raimondi, um sich mit dem lokalen Erbe zu verbinden, und kommen Sie früh, um die friedliche Morgenatmosphäre im Viertel zu genießen.",
+            "hu": "Fedezze fel Rosa Raimondi szülőházát, hogy megismerje a helyi örökséget, és érkezzen korán, hogy élvezze a környék békés reggeli hangulatát.",
+            "ro": "Explorați locul de naștere al Rosei Raimondi pentru a vă conecta cu moștenirea locală și ajungeți devreme pentru a vă bucura de atmosfera pașnică de dimineață.",
+            "en": "Explore the birthplace of Rosa Raimondi to connect with local heritage, and arrive early to enjoy the peaceful morning atmosphere in the neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            8.262087,
+            44.128202
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche maritime Geschichte von Loano ein und fragen Sie das Museumspersonal unbedingt nach den historischen Handelsrouten der Stadt.",
+            "hu": "Merüljön el Loano gazdag tengerészeti történelmében a lenyűgöző kiállításokon keresztül, és kérdezze meg a személyzetet a város történelmi kereskedelmi útvonalairól.",
+            "ro": "Scufundați-vă în bogata istorie maritimă din Loano prin exponate fascinante și nu uitați să întrebați personalul muzeului despre rutele comerciale istorice ale orașului.",
+            "en": "Dive into Loano's rich maritime history through fascinating exhibits, and be sure to ask the museum staff about the town's historical trade routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Caduti del mare",
+            "hu": "Caduti del mare",
+            "ro": "Caduti del mare",
+            "en": "Caduti del mare"
+          },
+          "coords": [
+            8.264183,
+            44.127845
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen historischen Denkmal für die gefallenen Seeleute Ihren Respekt und nehmen Sie sich einen Moment Zeit zum Nachdenken in der Küstenbrise.",
+            "hu": "Tisztelegjen az elesett tengerészeknek szentelt ünnepélyes történelmi emlékműnél, és szánjon egy percet az elmélkedésre, miközben élvezi a közeli parti szellőt.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn dedicat marinarilor căzuți și luați-vă un moment pentru a reflecta în timp ce vă bucurați de briza de coastă.",
+            "en": "Pay your respects at this solemn historical monument dedicated to fallen sailors, and take a moment to reflect while enjoying the nearby coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Parrocchiale Santa Maria Immacolata",
+            "hu": "Chiesa Parrocchiale Santa Maria Immacolata",
+            "ro": "Chiesa Parrocchiale Santa Maria Immacolata",
+            "en": "Chiesa Parrocchiale Santa Maria Immacolata"
+          },
+          "coords": [
+            8.255038,
+            44.126091
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne religiöse Architektur dieser Pfarrkirche, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg e plébániatemplom gyönyörű vallási építészetét, de ne felejtsen el szerényen öltözni és halkan beszélni, miközben bent barangol.",
+            "ro": "Admirați frumoasa arhitectură religioasă a acestei biserici parohiale, dar amintiți-vă să vă îmbrăcați decent și să vorbiți încet în timp ce o vizitați.",
+            "en": "Admire the beautiful religious architecture of this parish church, but remember to dress modestly and speak softly while wandering inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Locomotiva FTN 9",
+            "hu": "Locomotiva FTN 9",
+            "ro": "Locomotiva FTN 9",
+            "en": "Locomotiva FTN 9"
+          },
+          "coords": [
+            8.25507,
+            44.122463
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser klassischen Lokomotive, die als Zeugnis der industriellen Vergangenheit der Region steht, und sehen Sie sich die Details aus der Nähe an.",
+            "hu": "Készítsen egy fotót erről a klasszikus mozdonyról, amely a régió ipari múltjának tanúja, és nézze meg testközelből a mechanikai részleteket.",
+            "ro": "Faceți o fotografie cu această locomotivă clasică, care stă mărturie trecutului industrial al regiunii, și observați îndeaproape detaliile sale mecanice.",
+            "en": "Snap a photo of this classic locomotive that stands as a testament to the region's industrial past, and check out the mechanical details up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der faszinierenden historischen Wurzeln von Loano. Mittags besuchen Sie die lebhaften lokalen Museen und Kulturstätten. Am Nachmittag machen Sie einen gemütlichen Spaziergang durch die charmanten Straßen und bewundern die Architektur. Beenden Sie Ihren Tag entspannt in der Nähe des Wassers.",
+        "hu": "Kezdje a reggelt Loano lenyűgöző történelmi gyökereinek felfedezésével. A délidő elhozza Önt a nyüzsgő helyi múzeumokhoz és kulturális helyszínekhez. Délután tegyen egy kellemes sétát a hangulatos utcákon, és csodálja meg az építészetet. Zárja a napot pihenéssel a vízpart közelében, miközben a nap lenyugszik.",
+        "ro": "Începeți dimineața explorând fascinantele rădăcini istorice ale orașului Loano. La amiază vizitați muzeele locale și site-urile culturale vibrante. După-amiaza, faceți o plimbare relaxantă pe străzile fermecătoare și admirați arhitectura. Încheiați-vă ziua relaxându-vă în apropierea apei la apus.",
+        "en": "Start your morning exploring the fascinating historical roots of Loano. Midday brings you to the vibrant local museums and cultural sites. In the afternoon, take a leisurely stroll through the charming streets and admire the architecture. End your day relaxing near the waterfront as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:06",
+      "total_km": 2.43,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte romano sul Nimbalto",
+            "hu": "Ponte romano sul Nimbalto",
+            "ro": "Ponte romano sul Nimbalto",
+            "en": "Ponte romano sul Nimbalto"
+          },
+          "coords": [
+            8.256721,
+            44.131733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese antike römische Brücke, um die Ingenieurskunst der Vergangenheit zu spüren, und tragen Sie flache Schuhe, um die unebenen Steine sicher zu begehen.",
+            "hu": "Keljen át ezen az ősi római hídon, hogy átérezze a múlt mérnöki munkáját, és viseljen lapos cipőt a történelmi köveken való biztonságos közlekedéshez.",
+            "ro": "Traversați acest antic pod roman pentru a simți ingineria trecutului și purtați pantofi cu talpă plată pentru a păși în siguranță pe pietrele istorice inegale.",
+            "en": "Cross this ancient Roman bridge to feel the enduring engineering of the past, and wear flat shoes to navigate the uneven historic stones safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Monte Carmelo",
+            "hu": "Santuario Monte Carmelo",
+            "ro": "Santuario Monte Carmelo",
+            "en": "Santuario Monte Carmelo"
+          },
+          "coords": [
+            8.25897,
+            44.133328
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieses hochgelegenen Heiligtums und nutzen Sie den malerischen Aussichtspunkt für weitreichende Fotos der umliegenden Landschaft.",
+            "hu": "Tapasztalja meg e magaslati szentély mély nyugalmát, és használja ki a festői kilátópontot a környező táj lenyűgöző fényképeinek elkészítéséhez.",
+            "ro": "Experimentați liniștea profundă a acestui sanctuar elevat și profitați de punctul de observație pitoresc pentru fotografii panoramice ale peisajului înconjurător.",
+            "en": "Experience the profound tranquility of this elevated sanctuary, and take advantage of the scenic vantage point for sweeping photographs of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Muro di San Sebastiano",
+            "hu": "Muro di San Sebastiano",
+            "ro": "Muro di San Sebastiano",
+            "en": "Muro di San Sebastiano"
+          },
+          "coords": [
+            8.259829,
+            44.138948
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die historischen Linien dieser alten Schutzmauer, die die Stadt bewachte, und halten Sie Ausschau nach kleinen Informationstafeln über ihren Bau.",
+            "hu": "Kövesse nyomon ennek a várost védő régi falnak a történelmi vonalait, és figyeljen a megépítését részletező apró információs táblákra.",
+            "ro": "Urmăriți liniile istorice ale acestui vechi zid de protecție care a păzit orașul și căutați micile plăcuțe informative care detaliază construcția sa.",
+            "en": "Trace the historical lines of this old protective wall that guarded the city, and keep an eye out for small informational plaques detailing its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Chiesa di Sant'Agostino",
+            "ro": "Chiesa di Sant'Agostino",
+            "en": "Chiesa di Sant'Agostino"
+          },
+          "coords": [
+            8.257754,
+            44.130316
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kirche ein, um ihre zeitlose Kunst zu schätzen, und planen Sie Ihren Besuch außerhalb der Messezeiten für eine ruhige Führung.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy értékelje annak időtlen művészetét, és tervezze látogatását a miséken kívüli időpontra a csendes túra érdekében.",
+            "ro": "Intrați în această biserică istorică pentru a-i aprecia arta atemporală și planificați-vă vizita în afara orelor de liturghie pentru un tur liniștit.",
+            "en": "Step into this historic church to appreciate its timeless artistry and serene ambiance, and plan your visit outside of mass times for a quiet tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Comunali Medusa",
+            "hu": "Bagni Comunali Medusa",
+            "ro": "Bagni Comunali Medusa",
+            "en": "Bagni Comunali Medusa"
+          },
+          "coords": [
+            8.258909,
+            44.124904
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen historischen städtischen Bädern, wo die Küstenatmosphäre perfekt für eine kurze Pause ist, und denken Sie an Sonnencreme für den Nachmittag.",
+            "hu": "Pihenjen ezekben a történelmi városi fürdőkben, ahol a parti hangulat tökéletes egy rövid pihenéshez, és ne felejtsen el naptejet csomagolni egy napos délutánra.",
+            "ro": "Relaxați-vă la aceste băi municipale istorice, unde atmosfera de coastă este perfectă pentru o scurtă odihnă, și nu uitați să împachetați cremă de protecție solară.",
+            "en": "Relax at these historic municipal baths where the coastal vibe is perfect for a short rest, and remember to pack sunscreen for a sunny afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Überquerung alter Brücken und der Bewunderung historischer Wahrzeichen in Loano. Mittags folgt eine anspruchsvolle, aber lohnende Fahrt zu den hochgelegenen Heiligtümern. Am Nachmittag radeln Sie entlang der alten Stadtmauern und entdecken verborgene religiöse Juwelen. Beenden Sie Ihren aktiven Tag mit einer wohlverdienten Pause in den städtischen Bädern.",
+        "hu": "Kezdje a kerékpáros napot ősi hidak átkelésével és a Loano környékén található történelmi nevezetességek megcsodálásával. A délidő egy kihívást jelentő, de hálás utat kínál a magasan fekvő szentélyekhez. Délután tekerjen végig a régi városfalakon, és fedezzen fel rejtett vallási gyöngyszemeket. Fejezze be aktív napját egy jól megérdemelt pihenéssel a pezsgő városi fürdőkben.",
+        "ro": "Începeți ziua de ciclism traversând poduri antice și admirând reperele istorice din jurul orașului Loano. La amiază vă așteaptă o plimbare provocatoare, dar plină de satisfacții, până la sanctuarele elevate. După-amiaza, pedalați de-a lungul vechilor ziduri ale orașului și descoperiți comori religioase ascunse. Încheiați-vă ziua activă cu o binemeritată odihnă la băile municipale.",
+        "en": "Start your cycling day by crossing ancient bridges and admiring the historical landmarks scattered around Loano. Midday brings a challenging but rewarding ride up to the serene elevated sanctuaries. In the afternoon, pedal along the old city walls and discover hidden religious gems. Finish your active day with a well-deserved rest at the vibrant municipal baths."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuario Monte Carmelo",
+            "hu": "Santuario Monte Carmelo",
+            "ro": "Santuario Monte Carmelo",
+            "en": "Santuario Monte Carmelo"
+          },
+          "coords": [
+            8.25897,
+            44.133328
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieses hochgelegenen Heiligtums und nutzen Sie den malerischen Aussichtspunkt für weitreichende Fotos der umliegenden Landschaft.",
+            "hu": "Tapasztalja meg e magaslati szentély mély nyugalmát, és használja ki a festői kilátópontot a környező táj lenyűgöző fényképeinek elkészítéséhez.",
+            "ro": "Experimentați liniștea profundă a acestui sanctuar elevat și profitați de punctul de observație pitoresc pentru fotografii panoramice ale peisajului înconjurător.",
+            "en": "Experience the profound tranquility of this elevated sanctuary, and take advantage of the scenic vantage point for sweeping photographs of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Muro di San Sebastiano",
+            "hu": "Muro di San Sebastiano",
+            "ro": "Muro di San Sebastiano",
+            "en": "Muro di San Sebastiano"
+          },
+          "coords": [
+            8.259829,
+            44.138948
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die historischen Linien dieser alten Schutzmauer, die die Stadt bewachte, und halten Sie Ausschau nach kleinen Informationstafeln über ihren Bau.",
+            "hu": "Kövesse nyomon ennek a várost védő régi falnak a történelmi vonalait, és figyeljen a megépítését részletező apró információs táblákra.",
+            "ro": "Urmăriți liniile istorice ale acestui vechi zid de protecție care a păzit orașul și căutați micile plăcuțe informative care detaliază construcția sa.",
+            "en": "Trace the historical lines of this old protective wall that guarded the city, and keep an eye out for small informational plaques detailing its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte romano sul Nimbalto",
+            "hu": "Ponte romano sul Nimbalto",
+            "ro": "Ponte romano sul Nimbalto",
+            "en": "Ponte romano sul Nimbalto"
+          },
+          "coords": [
+            8.256721,
+            44.131733
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese antike römische Brücke, um die Ingenieurskunst der Vergangenheit zu spüren, und tragen Sie flache Schuhe, um die unebenen Steine sicher zu begehen.",
+            "hu": "Keljen át ezen az ősi római hídon, hogy átérezze a múlt mérnöki munkáját, és viseljen lapos cipőt a történelmi köveken való biztonságos közlekedéshez.",
+            "ro": "Traversați acest antic pod roman pentru a simți ingineria trecutului și purtați pantofi cu talpă plată pentru a păși în siguranță pe pietrele istorice inegale.",
+            "en": "Cross this ancient Roman bridge to feel the enduring engineering of the past, and wear flat shoes to navigate the uneven historic stones safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            8.262087,
+            44.128202
+          ],
+          "category": "museum",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche maritime Geschichte von Loano ein und fragen Sie das Museumspersonal unbedingt nach den historischen Handelsrouten der Stadt.",
+            "hu": "Merüljön el Loano gazdag tengerészeti történelmében a lenyűgöző kiállításokon keresztül, és kérdezze meg a személyzetet a város történelmi kereskedelmi útvonalairól.",
+            "ro": "Scufundați-vă în bogata istorie maritimă din Loano prin exponate fascinante și nu uitați să întrebați personalul muzeului despre rutele comerciale istorice ale orașului.",
+            "en": "Dive into Loano's rich maritime history through fascinating exhibits, and be sure to ask the museum staff about the town's historical trade routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Miramare",
+            "hu": "Bagni Miramare",
+            "ro": "Bagni Miramare",
+            "en": "Bagni Miramare"
+          },
+          "coords": [
+            8.263002,
+            44.128179
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Aussicht auf das Meer von diesem beliebten Erholungsort aus und mieten Sie einen Liegestuhl, um die mediterrane Atmosphäre in vollen Zügen zu genießen.",
+            "hu": "Élvezze a frissítő tengeri kilátást erről a népszerű tengerparti pihenőhelyről, és fontolja meg egy nyugágy bérlését, hogy teljesen elmerüljön a mediterrán hangulatban.",
+            "ro": "Bucurați-vă de vederea răcoritoare la mare de la acest loc de recreere popular și luați în considerare închirierea unui șezlong pentru a savura pe deplin atmosfera mediteraneană.",
+            "en": "Enjoy the refreshing sea views from this popular recreational spot along the coast, and consider renting a lounge chair to fully soak in the Mediterranean atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit dem Besuch der atemberaubenden Heiligtümer am Hang mit weitem Blick auf die Küste. Mittags fahren Sie durch das historische Zentrum, um die Überreste der alten Schutzmauern aufzuspüren. Am Nachmittag parken Sie in der Nähe der faszinierenden Schifffahrtsmuseen, um in das lokale Erbe einzutauchen. Beenden Sie Ihre landschaftlich reizvolle Fahrt mit einem entspannenden Sonnenuntergang am Meer.",
+        "hu": "Kezdje autós túráját a lenyűgöző hegyoldali szentélyek meglátogatásával, amelyekből pazar kilátás nyílik a partvidékre. A délidő a történelmi központba vezeti, hogy felfedezze a régi védőfalak maradványait. Délután parkoljon le a lenyűgöző tengerészeti múzeumok közelében, és merüljön el a helyi örökségben. Fejezze be a festői utazást egy pihentető naplementével a gyönyörű tengerparton.",
+        "ro": "Începeți turul cu mașina vizitând sanctuarele uimitoare de pe deal, cu vederi panoramice ale coastei. La amiază treceți prin centrul istoric pentru a descoperi rămășițele vechilor ziduri de protecție. După-amiaza, parcați lângă muzeele maritime fascinante pentru o scufundare în moștenirea locală. Încheiați-vă plimbarea pitorească cu un apus de soare relaxant lângă mare.",
+        "en": "Begin your driving tour by visiting the stunning hillside sanctuaries with sweeping views of the coastline. Midday takes you through the historical center to trace the remnants of the old protective walls. In the afternoon, park near the fascinating maritime museums for a deep dive into local heritage. End your scenic drive with a relaxing sunset moment by the beautiful sea."
+      }
+    }
+  }
+}

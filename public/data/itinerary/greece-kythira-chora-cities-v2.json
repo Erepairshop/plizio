@@ -1,0 +1,543 @@
+{
+  "city_id": "greece-kythira-chora-cities-v2",
+  "anchor": {
+    "name": "Kythira (Chora)",
+    "coords": [
+      22.987903,
+      36.149669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kythera",
+            "hu": "Kythera",
+            "ro": "Kythera",
+            "en": "Kythera"
+          },
+          "coords": [
+            22.98728,
+            36.149759
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Gassen der Hauptstadt Kythiras mit ihrer Architektur und achten Sie auf bequemes Schuhwerk für das viele Kopfsteinpflaster.",
+            "hu": "Fedezze fel Kythira fővárosának festői, történelmi építészettel teli utcáit, és mindenképpen viseljen kényelmes cipőt a sok macskaköves sétához.",
+            "ro": "Explorați străzile pitorești ale capitalei din Kythira, pline de arhitectură istorică, și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the picturesque streets of Kythira's capital with its historical architecture, and make sure to wear comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Christ Pantokratora",
+            "hu": "Church of Christ Pantokratora",
+            "ro": "Church of Christ Pantokratora",
+            "en": "Church of Christ Pantokratora"
+          },
+          "coords": [
+            22.991505,
+            36.145986
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken dieser historischen byzantinischen Kirche und denken Sie daran, beim Betreten angemessene Kleidung zu tragen.",
+            "hu": "Csodálja meg e történelmi bizánci templom lenyűgöző freskóit, és ne feledjen az alkalomhoz illő, vállakat takaró ruházatot viselni a belépéskor.",
+            "ro": "Admirați frescele impresionante ale acestei biserici bizantine istorice și amintiți-vă să purtați o ținută decentă care acoperă umerii la intrare.",
+            "en": "Admire the impressive frescoes of this historical Byzantine church, and remember to wear modest clothing that covers your shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John on the cliff",
+            "hu": "Saint John on the cliff",
+            "ro": "Saint John on the cliff",
+            "en": "Saint John on the cliff"
+          },
+          "coords": [
+            23.000676,
+            36.148087
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von dieser in den Felsen gebauten Kirche und nehmen Sie unbedingt eine Kamera für die spektakulären Fotos mit.",
+            "hu": "Élvezze a sziklába épített templomból nyíló lélegzetelállító kilátást, és mindenképpen vigyen magával fényképezőgépet a látványos panorámafotókhoz.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de la această biserică construită în stâncă și asigurați-vă că aduceți un aparat foto pentru cadre spectaculoase.",
+            "en": "Enjoy the breathtaking views from this unique church built into the cliffside, and make sure to bring a camera for the spectacular panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeidoros Theatre- Gallery- Bistro",
+            "hu": "Zeidoros Theatre- Gallery- Bistro",
+            "ro": "Zeidoros Theatre- Gallery- Bistro",
+            "en": "Zeidoros Theatre- Gallery- Bistro"
+          },
+          "coords": [
+            22.999512,
+            36.145703
+          ],
+          "category": "museum",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser kulturellen Oase lokale Kunst und Veranstaltungen; prüfen Sie vorab den Spielplan, um eventuell ein Live-Event mitzuerleben.",
+            "hu": "Fedezze fel a helyi művészetet ebben a kulturális oázisban; érdemes előre ellenőrizni a programot, hogy részt vehessen egy élő eseményen is.",
+            "ro": "Descoperiți arta și evenimentele locale în această oază culturală; verificați programul în avans pentru a prinde un spectacol live sau o expoziție.",
+            "en": "Discover local art and events in this vibrant cultural oasis; check their schedule in advance to possibly catch a live performance during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapsali",
+            "hu": "Kapsali",
+            "ro": "Kapsali",
+            "en": "Kapsali"
+          },
+          "coords": [
+            23.000343,
+            36.144629
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den herrlichen Zwillingsstränden von Kapsali und mieten Sie sich frühzeitig eine Liege, um den besten Platz am kristallklaren Wasser zu sichern.",
+            "hu": "Pihenjen Kapsali gyönyörű ikerstrandjain, és béreljen napágyat minél korábban, hogy a legjobb helyet biztosítsa magának a kristálytiszta víz mellett.",
+            "ro": "Relaxați-vă pe superbele plaje gemene din Kapsali și închiriați un șezlong din timp pentru a vă asigura cel mai bun loc lângă apa cristalină.",
+            "en": "Relax on the beautiful twin beaches of Kapsali, and rent a sunbed early in the day to secure the best spot right by the crystal-clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Sparaggario",
+            "hu": "Paralia Sparaggario",
+            "ro": "Paralia Sparaggario",
+            "en": "Paralia Sparaggario"
+          },
+          "coords": [
+            22.995105,
+            36.144012
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte, idyllische Bucht für ein ruhiges Badeerlebnis und packen Sie Schnorchelausrüstung ein, um die bunte Unterwasserwelt zu sehen.",
+            "hu": "Látogasson el ebbe a rejtett, idilli öbölbe egy csendes fürdőzésre, és hozzon magával búvárfelszerelést, hogy megfigyelhesse a színes víz alatti világot.",
+            "ro": "Vizitați acest golf ascuns și idilic pentru o experiență de înot liniștită și aduceți echipament de snorkeling pentru a vedea viața marină colorată.",
+            "en": "Visit this hidden, idyllic bay for a peaceful swimming experience, and pack some snorkeling gear to observe the colorful underwater marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie in der Hauptstadt Kythiras und schlendern Sie zu den byzantinischen Kirchen.\nZur Mittagszeit lockt das Museum mit Kunst, die Einblick in die Inselkultur bietet.\nAm Nachmittag spazieren Sie nach Kapsali, um das klare Wasser der Zwillingsstrände zu genießen.\nLassen Sie den Tag in der Bucht von Sparaggario bei einem malerischen Sonnenuntergang ausklingen.",
+        "hu": "Kezdje Kythira bájos fővárosában, és sétáljon a történelmi bizánci templomokhoz.\nDélben a kis múzeum várja a helyi alkotásokkal, bemutatva a sziget kultúráját.\nDélután sétáljon le Kapsaliba, és élvezze a tengert az ikonikus ikerstrandok egyikén.\nA napot a Sparaggario nyugodt öblében zárja, ahol távol a tömegtől gyönyörködhet a naplementében.",
+        "ro": "Începeți în capitala din Kythira și plimbați-vă către bisericile istorice bizantine.\nLa prânz, muzeul vă atrage cu artă locală, oferind o perspectivă asupra culturii insulei.\nDupă-amiaza, coborâți spre Kapsali pentru a vă bucura de apa cristalină de la plajele gemene.\nÎncheiați ziua în golful Sparaggario, experimentând un apus pitoresc, departe de agitație.",
+        "en": "Start in the charming capital of Kythira, strolling towards the impressive Byzantine churches.\nAt midday, the small museum beckons with local art, offering insight into the island's culture.\nIn the afternoon, walk down to Kapsali to enjoy the crystal-clear waters of its famous twin beaches.\nEnd your day in Sparaggario bay, experiencing a picturesque sunset far from the crowds."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Roller \"Olga\"",
+            "hu": "Roller \"Olga\"",
+            "ro": "Roller \"Olga\"",
+            "en": "Roller \"Olga\""
+          },
+          "coords": [
+            22.983953,
+            36.152323
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses interessante industrielle Relikt aus der Nähe und nutzen Sie das sanfte Morgenlicht für besonders stimmungsvolle Fotografien.",
+            "hu": "Tekintse meg közelről ezt az érdekes ipari emléket, és használja ki a lágy reggeli fényeket, hogy különösen hangulatos fényképeket készíthessen.",
+            "ro": "Analizați îndeaproape această relicvă industrială interesantă și profitați de lumina blândă a dimineții pentru a face fotografii deosebit de atmosferice.",
+            "en": "Take a close look at this interesting industrial relic, and take advantage of the soft morning light to capture particularly atmospheric photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kythera",
+            "hu": "Kythera",
+            "ro": "Kythera",
+            "en": "Kythera"
+          },
+          "coords": [
+            22.98728,
+            36.149759
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Gassen der Hauptstadt Kythiras mit ihrer Architektur und achten Sie auf bequemes Schuhwerk für das viele Kopfsteinpflaster.",
+            "hu": "Fedezze fel Kythira fővárosának festői, történelmi építészettel teli utcáit, és mindenképpen viseljen kényelmes cipőt a sok macskaköves sétához.",
+            "ro": "Explorați străzile pitorești ale capitalei din Kythira, pline de arhitectură istorică, și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the picturesque streets of Kythira's capital with its historical architecture, and make sure to wear comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Christ Pantokratora",
+            "hu": "Church of Christ Pantokratora",
+            "ro": "Church of Christ Pantokratora",
+            "en": "Church of Christ Pantokratora"
+          },
+          "coords": [
+            22.991505,
+            36.145986
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken dieser historischen byzantinischen Kirche und denken Sie daran, beim Betreten angemessene Kleidung zu tragen.",
+            "hu": "Csodálja meg e történelmi bizánci templom lenyűgöző freskóit, és ne feledjen az alkalomhoz illő, vállakat takaró ruházatot viselni a belépéskor.",
+            "ro": "Admirați frescele impresionante ale acestei biserici bizantine istorice și amintiți-vă să purtați o ținută decentă care acoperă umerii la intrare.",
+            "en": "Admire the impressive frescoes of this historical Byzantine church, and remember to wear modest clothing that covers your shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Sparaggario",
+            "hu": "Paralia Sparaggario",
+            "ro": "Paralia Sparaggario",
+            "en": "Paralia Sparaggario"
+          },
+          "coords": [
+            22.995105,
+            36.144012
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte, idyllische Bucht für ein ruhiges Badeerlebnis und packen Sie Schnorchelausrüstung ein, um die bunte Unterwasserwelt zu sehen.",
+            "hu": "Látogasson el ebbe a rejtett, idilli öbölbe egy csendes fürdőzésre, és hozzon magával búvárfelszerelést, hogy megfigyelhesse a színes víz alatti világot.",
+            "ro": "Vizitați acest golf ascuns și idilic pentru o experiență de înot liniștită și aduceți echipament de snorkeling pentru a vedea viața marină colorată.",
+            "en": "Visit this hidden, idyllic bay for a peaceful swimming experience, and pack some snorkeling gear to observe the colorful underwater marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Kapsaliou",
+            "hu": "Pharos Kapsaliou",
+            "ro": "Pharos Kapsaliou",
+            "en": "Pharos Kapsaliou"
+          },
+          "coords": [
+            23.000142,
+            36.142614
+          ],
+          "category": "landmark",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum markanten Leuchtturm, der stolz über die Küste wacht, und bleiben Sie auf den sicheren, markierten Wegen entlang der Klippe.",
+            "hu": "Sétáljon el a tengerpartra büszkén vigyázó, jellegzetes világítótoronyhoz, de a saját biztonsága érdekében maradjon a kijelölt utakon a sziklák mentén.",
+            "ro": "Plimbați-vă până la farul impresionant care veghează asupra coastei și rămâneți pe potecile sigure și marcate de-a lungul marginii stâncoase.",
+            "en": "Walk up to the striking lighthouse that proudly watches over the coast, and be sure to stay on the safe, marked paths along the rocky cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapsali",
+            "hu": "Kapsali",
+            "ro": "Kapsali",
+            "en": "Kapsali"
+          },
+          "coords": [
+            23.000343,
+            36.144629
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den herrlichen Zwillingsstränden von Kapsali und mieten Sie sich frühzeitig eine Liege, um den besten Platz am kristallklaren Wasser zu sichern.",
+            "hu": "Pihenjen Kapsali gyönyörű ikerstrandjain, és béreljen napágyat minél korábban, hogy a legjobb helyet biztosítsa magának a kristálytiszta víz mellett.",
+            "ro": "Relaxați-vă pe superbele plaje gemene din Kapsali și închiriați un șezlong din timp pentru a vă asigura cel mai bun loc lângă apa cristalină.",
+            "en": "Relax on the beautiful twin beaches of Kapsali, and rent a sunbed early in the day to secure the best spot right by the crystal-clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Mulos Apokleistra",
+            "hu": "Mulos Apokleistra",
+            "ro": "Mulos Apokleistra",
+            "en": "Mulos Apokleistra"
+          },
+          "coords": [
+            23.008495,
+            36.13782
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Windmühle und tragen Sie festes Schuhwerk, da der Zugangsweg recht steinig und uneben sein kann.",
+            "hu": "Fedezze fel ennek a régi szélmalomnak a lenyűgöző romjait, és viseljen masszív cipőt, mivel a megközelítési útvonal meglehetősen köves és egyenetlen.",
+            "ro": "Explorați ruinele fascinante ale acestei vechi mori de vânt și purtați încălțăminte solidă, deoarece traseul de acces poate fi destul de stâncos.",
+            "en": "Explore the fascinating ruins of this old windmill, and be sure to wear sturdy footwear as the approach path can be quite rocky and uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den historischen Wahrzeichen von Chora und erkunden Sie die verwinkelten Gassen.\nGegen Mittag radeln Sie zu den malerischen Kirchen und machen Halt am Strand von Sparaggario.\nDer Nachmittag steht ganz im Zeichen der Küste: Besuchen Sie den Leuchtturm und baden Sie im Wasser von Kapsali.\nZum Abschluss fahren Sie zur alten Windmühle und bewundern den goldenen Abendhimmel.",
+        "hu": "Kezdje kerékpártúráját Chora történelmi nevezetességeinél, és fedezze fel a kanyargós utcákat.\nDél körül kerekezzen el a hangulatos templomokhoz, majd pihenjen meg a Sparaggario strandon.\nA délután a tengerpartról szól: látogasson el a világítótoronyhoz, majd fürödjön Kapsali hívogató vizében.\nA túra zárásaként tekerjen a régi szélmalomhoz, ahonnan megcsodálhatja a csillogó tengert.",
+        "ro": "Începeți turul cu bicicleta la reperele istorice din Chora, explorând străduțele întortocheate.\nÎn jurul prânzului, pedalați către bisericile pitorești și faceți o oprire la plaja relaxantă Sparaggario.\nDupă-amiaza este dedicată coastei: vizitați farul și înotați în apele răcoroase din Kapsali.\nLa sfârșitul turului, mergeți spre vechea moară de vânt pentru a admira cerul auriu de seară.",
+        "en": "Start your bike tour at the historical landmarks of Chora, exploring the winding streets.\nAround midday, cycle to the picturesque churches and make a relaxing stop at Sparaggario beach.\nThe afternoon is all about the coast: visit the lighthouse and swim in the inviting waters of Kapsali.\nFinish your tour at the old windmill, admiring the golden evening sky over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 6.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ormos Phelote",
+            "hu": "Ormos Phelote",
+            "ro": "Ormos Phelote",
+            "en": "Ormos Phelote"
+          },
+          "coords": [
+            22.963819,
+            36.151758
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Schönheit dieser abgelegenen Bucht im Westen und fahren Sie vorsichtig, da die engen Küstenstraßen anspruchsvoll sind.",
+            "hu": "Csodálja meg e nyugati, eldugott öböl érintetlen szépségét, és vezessen nagyon óvatosan, mivel a szűk tengerparti utak meglehetősen kihívást jelentenek.",
+            "ro": "Admirați frumusețea neatinsă a acestui golf vestic izolat și conduceți cu prudență, deoarece drumurile înguste de coastă pot fi destul de dificile.",
+            "en": "Admire the untouched beauty of this secluded western bay, and drive with great caution as the narrow coastal roads can be quite challenging to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Phelote",
+            "hu": "Phelote",
+            "ro": "Phelote",
+            "en": "Phelote"
+          },
+          "coords": [
+            22.963806,
+            36.154538
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem ruhigen Strandabschnitt und bringen Sie unbedingt eigenes Wasser und Snacks mit, da es keine Kioske gibt.",
+            "hu": "Élvezze a nyugodt légkört ezen a csendes partszakaszon, és mindenképpen hozzon magával vizet és rágcsálnivalót, mivel itt nincsenek büfék vagy boltok.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această porțiune liniștită de plajă și asigurați-vă că aduceți apă și gustări, deoarece nu există magazine.",
+            "en": "Enjoy the relaxed atmosphere at this quiet stretch of beach, and make sure to bring your own water and snacks as there are no nearby kiosks or shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kythera",
+            "hu": "Kythera",
+            "ro": "Kythera",
+            "en": "Kythera"
+          },
+          "coords": [
+            22.98728,
+            36.149759
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Gassen der Hauptstadt Kythiras mit ihrer Architektur und achten Sie auf bequemes Schuhwerk für das viele Kopfsteinpflaster.",
+            "hu": "Fedezze fel Kythira fővárosának festői, történelmi építészettel teli utcáit, és mindenképpen viseljen kényelmes cipőt a sok macskaköves sétához.",
+            "ro": "Explorați străzile pitorești ale capitalei din Kythira, pline de arhitectură istorică, și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the picturesque streets of Kythira's capital with its historical architecture, and make sure to wear comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John on the cliff",
+            "hu": "Saint John on the cliff",
+            "ro": "Saint John on the cliff",
+            "en": "Saint John on the cliff"
+          },
+          "coords": [
+            23.000676,
+            36.148087
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von dieser in den Felsen gebauten Kirche und nehmen Sie unbedingt eine Kamera für die spektakulären Fotos mit.",
+            "hu": "Élvezze a sziklába épített templomból nyíló lélegzetelállító kilátást, és mindenképpen vigyen magával fényképezőgépet a látványos panorámafotókhoz.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de la această biserică construită în stâncă și asigurați-vă că aduceți un aparat foto pentru cadre spectaculoase.",
+            "en": "Enjoy the breathtaking views from this unique church built into the cliffside, and make sure to bring a camera for the spectacular panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeidoros Theatre- Gallery- Bistro",
+            "hu": "Zeidoros Theatre- Gallery- Bistro",
+            "ro": "Zeidoros Theatre- Gallery- Bistro",
+            "en": "Zeidoros Theatre- Gallery- Bistro"
+          },
+          "coords": [
+            22.999512,
+            36.145703
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser kulturellen Oase lokale Kunst und Veranstaltungen; prüfen Sie vorab den Spielplan, um eventuell ein Live-Event mitzuerleben.",
+            "hu": "Fedezze fel a helyi művészetet ebben a kulturális oázisban; érdemes előre ellenőrizni a programot, hogy részt vehessen egy élő eseményen is.",
+            "ro": "Descoperiți arta și evenimentele locale în această oază culturală; verificați programul în avans pentru a prinde un spectacol live sau o expoziție.",
+            "en": "Discover local art and events in this vibrant cultural oasis; check their schedule in advance to possibly catch a live performance during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapsali piso gialos",
+            "hu": "Kapsali piso gialos",
+            "ro": "Kapsali piso gialos",
+            "en": "Kapsali piso gialos"
+          },
+          "coords": [
+            23.004451,
+            36.142845
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigere Rückseite von Kapsali für einen entspannten Nachmittag und mieten Sie sich ein Tretboot, um die Küste vom Wasser aus zu sehen.",
+            "hu": "Fedezze fel Kapsali csendesebb hátsó részét egy pihentető délutánhoz, és béreljen vízibiciklit, hogy a tengerről is megcsodálhassa a lenyűgöző partot.",
+            "ro": "Descoperiți partea din spate mai liniștită a golfului Kapsali pentru o după-amiază relaxantă și închiriați o hidrobicicletă pentru a vedea coasta de pe mare.",
+            "en": "Discover the quieter back side of Kapsali for a relaxing afternoon, and rent a pedal boat to admire the stunning coastline directly from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mulos Apokleistra",
+            "hu": "Mulos Apokleistra",
+            "ro": "Mulos Apokleistra",
+            "en": "Mulos Apokleistra"
+          },
+          "coords": [
+            23.008495,
+            36.13782
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Windmühle und tragen Sie festes Schuhwerk, da der Zugangsweg recht steinig und uneben sein kann.",
+            "hu": "Fedezze fel ennek a régi szélmalomnak a lenyűgöző romjait, és viseljen masszív cipőt, mivel a megközelítési útvonal meglehetősen köves és egyenetlen.",
+            "ro": "Explorați ruinele fascinante ale acestei vechi mori de vânt și purtați încălțăminte solidă, deoarece traseul de acces poate fi destul de stâncos.",
+            "en": "Explore the fascinating ruins of this old windmill, and be sure to wear sturdy footwear as the approach path can be quite rocky and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Orm Kapsaliou",
+            "hu": "Orm Kapsaliou",
+            "ro": "Orm Kapsaliou",
+            "en": "Orm Kapsaliou"
+          },
+          "coords": [
+            22.996829,
+            36.138556
+          ],
+          "category": "landmark",
+          "arrive_at": "16:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einem Blick auf die beleuchtete Bucht von Kapsali ausklingen und reservieren Sie rechtzeitig einen Tisch in einer der Küstentavernen.",
+            "hu": "Zárja a napot a kivilágított Kapsali-öböl festői látványával, és időben foglaljon asztalt a part menti hangulatos tavernák egyikében a vacsorához.",
+            "ro": "Încheiați ziua cu o priveliște asupra golfului Kapsali iluminat noaptea și rezervați o masă din timp la una dintre tavernele primitoare de pe coastă.",
+            "en": "End your day with a view of the beautifully illuminated Kapsali bay, and be sure to reserve a table early at one of the welcoming coastal tavernas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Westküste, wo Sie die natürliche Schönheit von Ormos Phelote in Ruhe auf sich wirken lassen.\nAm Mittag fahren Sie nach Chora, bewundern die Architektur und besuchen die faszinierende Felsenkirche.\nDer Nachmittag bringt Sie nach Kapsali, wo Kunstgalerien und entspannte Badestunden warten.\nDen Abend verbringen Sie an der historischen Windmühle beim Abendessen.",
+        "hu": "Autós túrája a nyugati parton kezdődik, ahol magába szívhatja a lenyűgöző Ormos Phelote természetes szépségét.\nDélben hajtson fel Chorába, csodálja meg a főváros építészetét, és látogasson el a sziklába épült templomhoz.\nA délután Kapsaliba vezeti, ahol művészeti galériák és pihentető fürdőzés várja.\nAz estét a szélmalomnál tölti, majd élvezheti a csodás kilátást vacsora közben.",
+        "ro": "Turul cu mașina începe pe coasta de vest, unde puteți absorbi frumusețea naturală uimitoare de la Ormos Phelote.\nLa prânz, conduceți până în Chora, admirați arhitectura și vizitați biserica sculptată în stâncă.\nDupă-amiaza vă duce în Kapsali, unde vă așteaptă galerii de artă și înot relaxant.\nPetreceți seara la moara de vânt istorică, înainte de a vă bucura de cină cu vedere.",
+        "en": "Begin on the wild western coast, peacefully absorbing the stunning natural beauty of Ormos Phelote.\nAt midday, drive up to Chora to admire its architecture and visit the fascinating cliff church.\nThe afternoon brings you to Kapsali for intriguing art galleries and relaxing swimming.\nSpend your evening at the historical windmill, enjoying dinner with a view of Kapsali bay."
+      }
+    }
+  }
+}

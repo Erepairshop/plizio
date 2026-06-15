@@ -1,0 +1,405 @@
+{
+  "city_id": "cosne-cours-sur-loire",
+  "anchor": {
+    "name": "Cosne-Cours-sur-Loire",
+    "coords": [
+      2.925,
+      47.4103
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            2.92523,
+            47.410787
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und betrachten Sie die Buntglasfenster im Licht der Morgensonne.",
+            "hu": "Csodálja meg e történelmi templom gótikus építészetét, és szánjon egy pillanatot az ólomüveg ablakokra, amikor a reggeli napfény rájuk esik.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice, luându-vă un moment pentru vitralii când soarele dimineții bate în ele.",
+            "en": "Admire the striking gothic architecture of this historic church, taking a moment to view the stained glass windows when the morning sun hits them."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Loire",
+            "hu": "Musée de la Loire",
+            "ro": "Musée de la Loire",
+            "en": "Musée de la Loire"
+          },
+          "coords": [
+            2.92343,
+            47.41032
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Flusses und des lokalen Handwerks, aber beginnen Sie im Obergeschoss, um Schulgruppen am Nachmittag zu meiden.",
+            "hu": "Fedezze fel a folyó és a helyi mesterségek lenyűgöző történetét, de kezdje a felső emeleten, hogy elkerülje a délutáni iskolás csoportokat.",
+            "ro": "Descoperiți istoria fascinantă a fluviului și a meșteșugurilor locale, dar începeți la etajul superior pentru a evita grupurile școlare după-amiaza.",
+            "en": "Discover the fascinating history of the river and local crafts, but start on the upper floor to avoid the afternoon school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Agnan Church",
+            "hu": "Saint-Agnan Church",
+            "ro": "Saint-Agnan Church",
+            "en": "Saint-Agnan Church"
+          },
+          "coords": [
+            2.923954,
+            47.409378
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese ruhige Pfarrkirche beeindruckt mit schönen romanischen Elementen, treten Sie also leise ein, um die bemerkenswerte Akustik zu genießen.",
+            "hu": "Ez a békés plébániatemplom gyönyörű román kori elemekkel büszkélkedhet, így csendben lépjen be, hogy értékelje a figyelemre méltó akusztikát.",
+            "ro": "Această biserică parohială liniștită se mândrește cu elemente romanice frumoase, deci intrați în liniște pentru a aprecia acustica remarcabilă.",
+            "en": "This serene parish church boasts beautiful Romanesque elements, so quietly step inside to appreciate the remarkable acoustics and stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Aignan",
+            "hu": "Église Saint-Aignan",
+            "ro": "Église Saint-Aignan",
+            "en": "Église Saint-Aignan"
+          },
+          "coords": [
+            2.923051,
+            47.408853
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre kirchenhistorische Reise hier fort und achten Sie besonders auf die detaillierten Steinmetzarbeiten an der Fassade dieses Gebäudes.",
+            "hu": "Folytassa templomtörténeti utazását itt, és fordítson különös figyelmet ezen épület homlokzatán lévő részletes kőfaragványokra.",
+            "ro": "Continuați-vă călătoria istorică bisericească aici și acordați o atenție deosebită sculpturilor detaliate în piatră de pe fațada acestei clădiri.",
+            "en": "Continue your religious history journey here, paying special attention to the detailed stone masonry gracing the facade of this quiet church."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'Immaculée Conception",
+            "hu": "Chapelle de l'Immaculée Conception",
+            "ro": "Chapelle de l'Immaculée Conception",
+            "en": "Chapelle de l'Immaculée Conception"
+          },
+          "coords": [
+            2.928484,
+            47.397809
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante kleine Kapelle etwas abseits des Zentrums und machen Sie eine friedliche Pause in ihrem bescheidenen, spirituellen Inneren.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát kissé távolabb a központtól, és tartson egy békés szünetet szerényen díszített, de spirituális belső terében.",
+            "ro": "Explorați această capelă fermecătoare situată puțin departe de centru, luând o pauză liniștită în interiorul său modest, dar profund spiritual.",
+            "en": "Explore this charming small chapel nestled slightly away from the center, taking a peaceful break in its modestly decorated but spiritual interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der wunderschönen historischen Kirchen und des lebendigen Flussmuseums direkt im Zentrum.\nGenießen Sie eine entspannte Mittagspause, schlendern Sie zwischen lokalen Sehenswürdigkeiten oder besuchen Sie die nahe gelegenen Parks.\nVerbringen Sie Ihren Nachmittag damit, die historischen Schlösser oder charmanten Kapellen etwas außerhalb des Stadtzentrums zu entdecken.\nLassen Sie den Abend bei einem friedlichen Spaziergang in der Dämmerung nahe der Flussufer ausklingen und genießen Sie die reiche Geschichte.",
+        "hu": "Kezdje a reggelt a gyönyörű történelmi templomok és az élettel teli folyóparti múzeum felfedezésével Cosne-Cours-sur-Loire szívében.\nÉlvezze a nyugodt déli pihenőt, sétáljon a helyi látnivalók között, vagy élvezze a szabadtéri tereket és parkokat.\nTöltse a délutánt azzal, hogy ellátogat a csodálatos kastélyokhoz vagy a belvároson kívül található hangulatos kápolnákhoz.\nZárja az estét egy békés alkonyati sétával a folyóparton, elmélkedve a régió gazdag középkori és kulturális örökségén.",
+        "ro": "Începeți dimineața explorând frumoasele biserici istorice și muzeul vibrant de pe malul râului chiar în inima orașului Cosne-Cours-sur-Loire.\nBucurați-vă de o pauză relaxantă la prânz, plimbându-vă printre atracțiile locale sau bucurându-vă de parcurile din apropiere.\nPetreceți-vă după-amiaza aventurându-vă spre castelele istorice magnifice sau capelele fermecătoare situate chiar în afara centrului.\nÎncheiați seara cu o plimbare liniștită la amurg pe malul râului, reflectând la bogata moștenire medievală a regiunii.",
+        "en": "Start your morning exploring the beautiful historic churches and the vibrant riverside museum right in the heart of Cosne-Cours-sur-Loire.\nEnjoy a relaxed midday break wandering between local sights or enjoying outdoor spaces and nearby parks.\nSpend your afternoon venturing towards the magnificent historic castles or charming chapels located just outside the main downtown area.\nWind down the evening with a peaceful twilight stroll near the riverbanks, reflecting on the region's rich medieval and cultural heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Loire",
+            "hu": "Musée de la Loire",
+            "ro": "Musée de la Loire",
+            "en": "Musée de la Loire"
+          },
+          "coords": [
+            2.92343,
+            47.41032
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Flusses und des lokalen Handwerks, aber beginnen Sie im Obergeschoss, um Schulgruppen am Nachmittag zu meiden.",
+            "hu": "Fedezze fel a folyó és a helyi mesterségek lenyűgöző történetét, de kezdje a felső emeleten, hogy elkerülje a délutáni iskolás csoportokat.",
+            "ro": "Descoperiți istoria fascinantă a fluviului și a meșteșugurilor locale, dar începeți la etajul superior pentru a evita grupurile școlare după-amiaza.",
+            "en": "Discover the fascinating history of the river and local crafts, but start on the upper floor to avoid the afternoon school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            2.92523,
+            47.410787
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und betrachten Sie die Buntglasfenster im Licht der Morgensonne.",
+            "hu": "Csodálja meg e történelmi templom gótikus építészetét, és szánjon egy pillanatot az ólomüveg ablakokra, amikor a reggeli napfény rájuk esik.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice, luându-vă un moment pentru vitralii când soarele dimineții bate în ele.",
+            "en": "Admire the striking gothic architecture of this historic church, taking a moment to view the stained glass windows when the morning sun hits them."
+          }
+        },
+        {
+          "name": {
+            "de": "Ô parc",
+            "hu": "Ô parc",
+            "ro": "Ô parc",
+            "en": "Ô parc"
+          },
+          "coords": [
+            2.916657,
+            47.409979
+          ],
+          "category": "family",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie die ganze Familie in diesem lebhaften Freizeitpark mit vielen Outdoor-Aktivitäten entspannen und bringen Sie Snacks für ein gemütliches Picknick mit.",
+            "hu": "Hagyja, hogy az egész család kikapcsolódjon ebben a szabadtéri tevékenységekkel teli, élénk szabadidőparkban, és hozzon rágcsálnivalót egy laza piknikhez.",
+            "ro": "Lăsați întreaga familie să se relaxeze în acest parc de agrement plin de activități în aer liber și aduceți gustări pentru un picnic relaxat la umbră.",
+            "en": "Let the whole family unwind at this lively leisure park filled with outdoor activities, and bring some snacks to enjoy a relaxed picnic by the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Aignan",
+            "hu": "Église Saint-Aignan",
+            "ro": "Église Saint-Aignan",
+            "en": "Église Saint-Aignan"
+          },
+          "coords": [
+            2.923051,
+            47.408853
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese ruhige Pfarrkirche beeindruckt mit schönen romanischen Elementen, treten Sie also leise ein, um die bemerkenswerte Akustik zu genießen.",
+            "hu": "Ez a békés plébániatemplom gyönyörű román kori elemekkel büszkélkedhet, így csendben lépjen be, hogy értékelje a figyelemre méltó akusztikát.",
+            "ro": "Această biserică parohială liniștită se mândrește cu elemente romanice frumoase, deci intrați în liniște pentru a aprecia acustica remarcabilă.",
+            "en": "This serene parish church boasts beautiful Romanesque elements, so quietly step inside to appreciate the remarkable acoustics and stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Pezeau",
+            "hu": "Château du Pezeau",
+            "ro": "Château du Pezeau",
+            "en": "Château du Pezeau"
+          },
+          "coords": [
+            2.898558,
+            47.425249
+          ],
+          "category": "castle",
+          "arrive_at": "13:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses ländlichen Schlosses, aber prüfen Sie unbedingt die saisonalen Öffnungszeiten, da der private Zugang variiert.",
+            "hu": "Csodálja meg e vidéki kastély elegáns homlokzatát, de feltétlenül ellenőrizze a szezonális nyitvatartást, mivel a privát hozzáférés néha korlátozott.",
+            "ro": "Admirați fațada elegantă a acestui castel de la țară, asigurându-vă că verificați orele de deschidere sezoniere, deoarece accesul privat poate fi limitat.",
+            "en": "Take in the elegant facade of this countryside castle, making sure to check the seasonal opening hours as private access can sometimes be restricted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der wunderschönen historischen Kirchen und des lebendigen Flussmuseums direkt im Zentrum.\nGenießen Sie eine entspannte Mittagspause, schlendern Sie zwischen lokalen Sehenswürdigkeiten oder besuchen Sie die nahe gelegenen Parks.\nVerbringen Sie Ihren Nachmittag damit, die historischen Schlösser oder charmanten Kapellen etwas außerhalb des Stadtzentrums zu entdecken.\nLassen Sie den Abend bei einem friedlichen Spaziergang in der Dämmerung nahe der Flussufer ausklingen und genießen Sie die reiche Geschichte.",
+        "hu": "Kezdje a reggelt a gyönyörű történelmi templomok és az élettel teli folyóparti múzeum felfedezésével Cosne-Cours-sur-Loire szívében.\nÉlvezze a nyugodt déli pihenőt, sétáljon a helyi látnivalók között, vagy élvezze a szabadtéri tereket és parkokat.\nTöltse a délutánt azzal, hogy ellátogat a csodálatos kastélyokhoz vagy a belvároson kívül található hangulatos kápolnákhoz.\nZárja az estét egy békés alkonyati sétával a folyóparton, elmélkedve a régió gazdag középkori és kulturális örökségén.",
+        "ro": "Începeți dimineața explorând frumoasele biserici istorice și muzeul vibrant de pe malul râului chiar în inima orașului Cosne-Cours-sur-Loire.\nBucurați-vă de o pauză relaxantă la prânz, plimbându-vă printre atracțiile locale sau bucurându-vă de parcurile din apropiere.\nPetreceți-vă după-amiaza aventurându-vă spre castelele istorice magnifice sau capelele fermecătoare situate chiar în afara centrului.\nÎncheiați seara cu o plimbare liniștită la amurg pe malul râului, reflectând la bogata moștenire medievală a regiunii.",
+        "en": "Start your morning exploring the beautiful historic churches and the vibrant riverside museum right in the heart of Cosne-Cours-sur-Loire.\nEnjoy a relaxed midday break wandering between local sights or enjoying outdoor spaces and nearby parks.\nSpend your afternoon venturing towards the magnificent historic castles or charming chapels located just outside the main downtown area.\nWind down the evening with a peaceful twilight stroll near the riverbanks, reflecting on the region's rich medieval and cultural heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Loire",
+            "hu": "Musée de la Loire",
+            "ro": "Musée de la Loire",
+            "en": "Musée de la Loire"
+          },
+          "coords": [
+            2.92343,
+            47.41032
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Flusses und des lokalen Handwerks, aber beginnen Sie im Obergeschoss, um Schulgruppen am Nachmittag zu meiden.",
+            "hu": "Fedezze fel a folyó és a helyi mesterségek lenyűgöző történetét, de kezdje a felső emeleten, hogy elkerülje a délutáni iskolás csoportokat.",
+            "ro": "Descoperiți istoria fascinantă a fluviului și a meșteșugurilor locale, dar începeți la etajul superior pentru a evita grupurile școlare după-amiaza.",
+            "en": "Discover the fascinating history of the river and local crafts, but start on the upper floor to avoid the afternoon school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Agnan Church",
+            "hu": "Saint-Agnan Church",
+            "ro": "Saint-Agnan Church",
+            "en": "Saint-Agnan Church"
+          },
+          "coords": [
+            2.923954,
+            47.409378
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese ruhige Pfarrkirche beeindruckt mit schönen romanischen Elementen, treten Sie also leise ein, um die bemerkenswerte Akustik zu genießen.",
+            "hu": "Ez a békés plébániatemplom gyönyörű román kori elemekkel büszkélkedhet, így csendben lépjen be, hogy értékelje a figyelemre méltó akusztikát.",
+            "ro": "Această biserică parohială liniștită se mândrește cu elemente romanice frumoase, deci intrați în liniște pentru a aprecia acustica remarcabilă.",
+            "en": "This serene parish church boasts beautiful Romanesque elements, so quietly step inside to appreciate the remarkable acoustics and stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Buranlure",
+            "hu": "Château de Buranlure",
+            "ro": "Château de Buranlure",
+            "en": "Château de Buranlure"
+          },
+          "coords": [
+            2.887651,
+            47.410551
+          ],
+          "category": "castle",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser gut erhaltenen mittelalterlichen Festung und tragen Sie feste Schuhe für den Spaziergang über die authentischen Höfe.",
+            "hu": "Lépjen vissza az időben ennél a jól megőrzött középkori erődnél, és viseljen kényelmes cipőt az egyenetlen történelmi udvarokon való sétához.",
+            "ro": "Întoarceți-vă în timp la această fortăreață medievală bine conservată și purtați pantofi rezistenți pentru a vă plimba prin curțile sale istorice.",
+            "en": "Step back in time at this well-preserved medieval fortress, and wear sturdy shoes for walking around its authentic, uneven historical courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Pezeau",
+            "hu": "Château du Pezeau",
+            "ro": "Château du Pezeau",
+            "en": "Château du Pezeau"
+          },
+          "coords": [
+            2.898558,
+            47.425249
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses ländlichen Schlosses, aber prüfen Sie unbedingt die saisonalen Öffnungszeiten, da der private Zugang variiert.",
+            "hu": "Csodálja meg e vidéki kastély elegáns homlokzatát, de feltétlenül ellenőrizze a szezonális nyitvatartást, mivel a privát hozzáférés néha korlátozott.",
+            "ro": "Admirați fațada elegantă a acestui castel de la țară, asigurându-vă că verificați orele de deschidere sezoniere, deoarece accesul privat poate fi limitat.",
+            "en": "Take in the elegant facade of this countryside castle, making sure to check the seasonal opening hours as private access can sometimes be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'Immaculée Conception",
+            "hu": "Chapelle de l'Immaculée Conception",
+            "ro": "Chapelle de l'Immaculée Conception",
+            "en": "Chapelle de l'Immaculée Conception"
+          },
+          "coords": [
+            2.928484,
+            47.397809
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante kleine Kapelle etwas abseits des Zentrums und machen Sie eine friedliche Pause in ihrem bescheidenen, spirituellen Inneren.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát kissé távolabb a központtól, és tartson egy békés szünetet szerényen díszített, de spirituális belső terében.",
+            "ro": "Explorați această capelă fermecătoare situată puțin departe de centru, luând o pauză liniștită în interiorul său modest, dar profund spiritual.",
+            "en": "Explore this charming small chapel nestled slightly away from the center, taking a peaceful break in its modestly decorated but spiritual interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der wunderschönen historischen Kirchen und des lebendigen Flussmuseums direkt im Zentrum.\nGenießen Sie eine entspannte Mittagspause, schlendern Sie zwischen lokalen Sehenswürdigkeiten oder besuchen Sie die nahe gelegenen Parks.\nVerbringen Sie Ihren Nachmittag damit, die historischen Schlösser oder charmanten Kapellen etwas außerhalb des Stadtzentrums zu entdecken.\nLassen Sie den Abend bei einem friedlichen Spaziergang in der Dämmerung nahe der Flussufer ausklingen und genießen Sie die reiche Geschichte.",
+        "hu": "Kezdje a reggelt a gyönyörű történelmi templomok és az élettel teli folyóparti múzeum felfedezésével Cosne-Cours-sur-Loire szívében.\nÉlvezze a nyugodt déli pihenőt, sétáljon a helyi látnivalók között, vagy élvezze a szabadtéri tereket és parkokat.\nTöltse a délutánt azzal, hogy ellátogat a csodálatos kastélyokhoz vagy a belvároson kívül található hangulatos kápolnákhoz.\nZárja az estét egy békés alkonyati sétával a folyóparton, elmélkedve a régió gazdag középkori és kulturális örökségén.",
+        "ro": "Începeți dimineața explorând frumoasele biserici istorice și muzeul vibrant de pe malul râului chiar în inima orașului Cosne-Cours-sur-Loire.\nBucurați-vă de o pauză relaxantă la prânz, plimbându-vă printre atracțiile locale sau bucurându-vă de parcurile din apropiere.\nPetreceți-vă după-amiaza aventurându-vă spre castelele istorice magnifice sau capelele fermecătoare situate chiar în afara centrului.\nÎncheiați seara cu o plimbare liniștită la amurg pe malul râului, reflectând la bogata moștenire medievală a regiunii.",
+        "en": "Start your morning exploring the beautiful historic churches and the vibrant riverside museum right in the heart of Cosne-Cours-sur-Loire.\nEnjoy a relaxed midday break wandering between local sights or enjoying outdoor spaces and nearby parks.\nSpend your afternoon venturing towards the magnificent historic castles or charming chapels located just outside the main downtown area.\nWind down the evening with a peaceful twilight stroll near the riverbanks, reflecting on the region's rich medieval and cultural heritage."
+      }
+    }
+  }
+}

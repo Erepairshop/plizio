@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-suances-cities-v2",
+  "anchor": {
+    "name": "Suances",
+    "coords": [
+      -4.04157,
+      43.42601
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Viewpoint of Suances",
+            "de": "Viewpoint of Suances",
+            "hu": "Viewpoint of Suances",
+            "ro": "Viewpoint of Suances"
+          },
+          "coords": [
+            -4.040075,
+            43.427037
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy a sweeping overview of the Ria de San Martín from this elevated spot, and try to visit early in the morning for the clearest photos before the coastal haze rolls in.",
+            "de": "Genießen Sie den weiten Blick auf die Ria de San Martín von diesem Aussichtspunkt und kommen Sie am besten früh morgens für klare Fotos ohne den üblichen Küstennebel.",
+            "hu": "Élvezze a San Martín-torkolatra nyíló panorámát erről a magaslati pontról, és érkezzen kora reggel, hogy a part menti pára felszállása előtt készíthessen tiszta fotókat.",
+            "ro": "Bucurați-vă de o panoramă largă asupra estuarului San Martín de pe acest punct înalt și veniți dimineața devreme pentru cele mai clare fotografii, înainte de ceața de coastă."
+          }
+        },
+        {
+          "name": {
+            "en": "Mirador de La Cuba",
+            "de": "Mirador de La Cuba",
+            "hu": "Mirador de La Cuba",
+            "ro": "Mirador de La Cuba"
+          },
+          "coords": [
+            -4.037225,
+            43.424144
+          ],
+          "category": "natural",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Take in spectacular views where the river meets the sea, but be mindful of the strong sea breeze that often sweeps across this exposed observation deck during the afternoon.",
+            "de": "Bewundern Sie die spektakuläre Aussicht, wo der Fluss ins Meer mündet, aber achten Sie auf die steife Meeresbrise, die nachmittags oft über diese freie Plattform weht.",
+            "hu": "Csodálja meg a látványt, ahogy a folyó a tengerbe ömlik, de készüljön fel az erős tengeri szélre, amely délutánonként gyakran végigsöpör ezen a nyitott kilátóteraszon.",
+            "ro": "Admirați priveliștile spectaculoase unde râul întâlnește marea, dar fiți atenți la briza puternică ce străbate adesea această platformă de observație expusă după-amiaza."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de la Ribera",
+            "de": "Playa de la Ribera",
+            "hu": "Playa de la Ribera",
+            "ro": "Playa de la Ribera"
+          },
+          "coords": [
+            -4.035679,
+            43.431814
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "en": "This calm, sheltered beach is perfect for a relaxing stroll along the river estuary, so wear comfortable sandals that easily slip off to feel the soft sand beneath your feet.",
+            "de": "Dieser ruhige, geschützte Strand eignet sich perfekt für einen Spaziergang an der Flussmündung, tragen Sie also bequeme Sandalen, um schnell den weichen Sand zu spüren.",
+            "hu": "Ez a nyugodt, védett strand tökéletes egy pihentető sétához a folyótorkolat mentén, ezért viseljen könnyen levehető szandált, hogy érezhesse a puha homokot a talpa alatt.",
+            "ro": "Această plajă calmă și adăpostită este perfectă pentru o plimbare relaxantă de-a lungul estuarului, așa că purtați sandale ușor de scos pentru a simți nisipul fin."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de la Concha",
+            "de": "Playa de la Concha",
+            "hu": "Playa de la Concha",
+            "ro": "Playa de la Concha"
+          },
+          "coords": [
+            -4.040931,
+            43.435205
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "en": "Experience the vast, golden sands of Suances' largest beach, where laying out your towel near the eastern breakwater guarantees slightly warmer and less turbulent swimming conditions.",
+            "de": "Erleben Sie den weiten, goldenen Sand von Suances' größtem Strand, wo das Ausbreiten Ihres Handtuchs nahe dem östlichen Wellenbrecher ruhigeres Schwimmen garantiert.",
+            "hu": "Tapasztalja meg Suances legnagyobb strandjának aranyhomokját, ahol a keleti hullámtörő közelében leterített törölköző nyugodtabb és melegebb fürdőzési feltételeket biztosít.",
+            "ro": "Experimentați nisipul auriu și vast al celei mai mari plaje din Suances, unde așezarea prosopului lângă digul estic vă garantează ape mai calme și mai calde pentru înot."
+          }
+        },
+        {
+          "name": {
+            "en": "Mirador de La Coteruca",
+            "de": "Mirador de La Coteruca",
+            "hu": "Mirador de La Coteruca",
+            "ro": "Mirador de La Coteruca"
+          },
+          "coords": [
+            -4.046625,
+            43.437211
+          ],
+          "category": "natural",
+          "arrive_at": "13:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "en": "This lesser-known balcony offers a brilliant vantage point over the bay, and bringing a small pair of binoculars will help you spot local seabirds nesting in the distant cliffs.",
+            "de": "Dieser weniger bekannte Balkon bietet einen tollen Blick über die Bucht; bringen Sie ein kleines Fernglas mit, um lokale Seevögel in den fernen Klippen zu beobachten.",
+            "hu": "Ez a kevésbé ismert erkély kiváló kilátást nyújt az öbölre, és ha hoz egy kis távcsövet, megfigyelheti a távoli sziklákon fészkelő helyi tengeri madarakat.",
+            "ro": "Acest balcon mai puțin cunoscut oferă o perspectivă superbă asupra golfului; aduceți un mic binoclu pentru a observa păsările marine locale care cuibăresc pe stânci."
+          }
+        },
+        {
+          "name": {
+            "en": "Castillo de Florencio Ceruti",
+            "de": "Castillo de Florencio Ceruti",
+            "hu": "Castillo de Florencio Ceruti",
+            "ro": "Castillo de Florencio Ceruti"
+          },
+          "coords": [
+            -4.045598,
+            43.438619
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "en": "Discover this striking historical mansion that dominates the coastal skyline, though since it is privately owned, your best photo opportunities will be from the public pathway outside.",
+            "de": "Entdecken Sie dieses markante historische Herrenhaus, das die Küste dominiert; da es in Privatbesitz ist, gelingen die besten Fotos vom öffentlichen Weg davor.",
+            "hu": "Fedezze fel ezt a partvidéket uraló, lenyűgöző történelmi kúriát, bár mivel magántulajdonban van, a legjobb fotókat a kinti nyilvános ösvényről készítheti róla.",
+            "ro": "Descoperiți acest conac istoric impresionant care domină coasta, deși fiind proprietate privată, cele mai bune oportunități foto le veți avea de pe aleea publică."
+          }
+        },
+        {
+          "name": {
+            "en": "Faro de Suances",
+            "de": "Faro de Suances",
+            "hu": "Faro de Suances",
+            "ro": "Faro de Suances"
+          },
+          "coords": [
+            -4.043187,
+            43.442012
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "en": "Stand beside the iconic white lighthouse guiding ships into the estuary, and make sure to wear a windbreaker as the weather at this headland can change rapidly without any warning.",
+            "de": "Stehen Sie neben dem weißen Leuchtturm, der Schiffe ins Mündungsgebiet führt, und tragen Sie unbedingt eine Windjacke, da das Wetter an dieser Landzunge schnell umschlagen kann.",
+            "hu": "Álljon a torkolatba hajózókat irányító ikonikus fehér világítótorony mellé, és mindenképpen viseljen széldzsekit, mivel az időjárás ezen a hegyfokon nagyon gyorsan változhat.",
+            "ro": "Stați lângă farul alb iconic ce ghidează navele în estuar și purtați neapărat o jachetă de vânt, deoarece vremea pe acest promontoriu se poate schimba extrem de rapid."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Start your walking tour admiring the tranquil estuary from high vantage points, breathing in the fresh Cantabrian air as you overlook the charming coastal landscape. Midday: Transition to the town's lively sandy shores, sinking your feet into the golden beaches of Ribera and Concha while soaking up the coastal sunshine. Afternoon: Ascend slightly for a spectacular elevated view at La Coteruca before approaching the commanding silhouette of the old Ceruti castle against the sky. Evening: Conclude your foot journey at the iconic Suances Lighthouse, taking in a gorgeous sunset that paints the horizon over the vast, shimmering Atlantic waters.",
+        "de": "Morning: Beginnen Sie Ihre Tour mit Blick auf die ruhige Flussmündung von oben und atmen Sie die frische kantabrische Luft ein, während Sie die Küstenlandschaft überblicken. Midday: Wechseln Sie zu den lebhaften Sandstränden der Stadt und spüren Sie die goldenen Ufer von Ribera und Concha unter den Füßen im strahlenden Sonnenschein. Afternoon: Steigen Sie leicht an für den spektakulären Blick von La Coteruca, bevor Sie die beeindruckende Silhouette der alten Burg Ceruti am Himmel erreichen. Evening: Beenden Sie Ihre Wanderung am ikonischen Leuchtturm von Suances und genießen Sie einen herrlichen Sonnenuntergang, der den Horizont über dem weiten Atlantik malt.",
+        "hu": "Morning: Kezdje sétáját a nyugodt torkolat megcsodálásával a magaslati pontokról, és lélegezze be a friss kantábriai levegőt, miközben végigtekint a tengerparti tájon. Midday: Térjen át a város nyüzsgő homokos partjaira, süllyessze lábát a Ribera és a Concha aranyszínű strandjaiba, miközben élvezi a tengerparti napsütést. Afternoon: Emelkedjen fel kissé a La Coteruca látványos kilátásáért, mielőtt megközelítené a régi Ceruti kastély tekintélyes sziluettjét, amely az égre rajzolódik. Evening: Zárja gyalogos útját az ikonikus suancesi világítótoronynál, és gyönyörködjön a lenyűgöző naplementében, amely befest a horizontot az Atlanti-óceán felett.",
+        "ro": "Morning: Începeți turul admirând estuarul liniștit din punctele de belvedere înalte, respirând aerul proaspăt cantabric în timp ce contemplați peisajul de coastă fermecător. Midday: Treceți la țărmurile nisipoase animate ale orașului, scufundându-vă picioarele în plajele aurii Ribera și Concha, în timp ce vă bucurați de soarele coastei. Afternoon: Urcați ușor pentru o vedere spectaculoasă la La Coteruca, înainte de a vă apropia de silueta impunătoare a vechiului castel Ceruti profilat pe cer. Evening: Încheiați călătoria pe jos la iconicul far din Suances, savurând un apus superb care colorează orizontul peste apele vaste și strălucitoare ale Atlanticului."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Monasterio de Santo Domingo de la Barquera",
+            "de": "Monasterio de Santo Domingo de la Barquera",
+            "hu": "Monasterio de Santo Domingo de la Barquera",
+            "ro": "Monasterio de Santo Domingo de la Barquera"
+          },
+          "coords": [
+            -4.034623,
+            43.413543
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Delve into local heritage at this ancient monastery near the riverbanks, where respecting the quiet atmosphere by silencing your phone allows for a truly peaceful reflection.",
+            "de": "Tauchen Sie in diesem alten Kloster nahe dem Flussufer in die Geschichte ein; respektieren Sie die ruhige Atmosphäre und schalten Sie Ihr Telefon stumm für friedliche Besinnung.",
+            "hu": "Merüljön el a helyi örökségben ebben az ősi, folyóparti kolostorban, ahol a telefon lenémításával és a csend tiszteletben tartásával igazán békésen elmélyedhet.",
+            "ro": "Aprofundați moștenirea locală la această mănăstire veche de lângă râu, unde respectarea atmosferei liniștite, trecând telefonul pe silențios, permite o reflecție pașnică."
+          }
+        },
+        {
+          "name": {
+            "en": "Mirador Curva El Río",
+            "de": "Mirador Curva El Río",
+            "hu": "Mirador Curva El Río",
+            "ro": "Mirador Curva El Río"
+          },
+          "coords": [
+            -4.039315,
+            43.414837
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Observe the fascinating tidal changes from this scenic bend in the river, but park your bike carefully away from the muddy banks to prevent it from slipping during high tide.",
+            "de": "Beobachten Sie die faszinierenden Gezeitenwechsel von dieser Flussschleife aus, aber parken Sie Ihr Fahrrad sicher abseits der schlammigen Ufer, um ein Abrutschen zu verhindern.",
+            "hu": "Figyelje meg a lenyűgöző árapály-változásokat erről a festői folyókanyarulatról, de kerékpárját óvatosan, az iszapos partoktól távol parkolja le, hogy ne csússzon meg.",
+            "ro": "Observați schimbările fascinante ale mareei de la această curbură pitorească a râului, dar parcați bicicleta departe de malurile noroioase pentru a preveni alunecarea ei."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de la Ribera",
+            "de": "Playa de la Ribera",
+            "hu": "Playa de la Ribera",
+            "ro": "Playa de la Ribera"
+          },
+          "coords": [
+            -4.035679,
+            43.431814
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "en": "This calm, sheltered beach is perfect for a relaxing stroll along the river estuary, so wear comfortable sandals that easily slip off to feel the soft sand beneath your feet.",
+            "de": "Dieser ruhige, geschützte Strand eignet sich perfekt für einen Spaziergang an der Flussmündung, tragen Sie also bequeme Sandalen, um schnell den weichen Sand zu spüren.",
+            "hu": "Ez a nyugodt, védett strand tökéletes egy pihentető sétához a folyótorkolat mentén, ezért viseljen könnyen levehető szandált, hogy érezhesse a puha homokot a talpa alatt.",
+            "ro": "Această plajă calmă și adăpostită este perfectă pentru o plimbare relaxantă de-a lungul estuarului, așa că purtați sandale ușor de scos pentru a simți nisipul fin."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de la Concha",
+            "de": "Playa de la Concha",
+            "hu": "Playa de la Concha",
+            "ro": "Playa de la Concha"
+          },
+          "coords": [
+            -4.040931,
+            43.435205
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "en": "Experience the vast, golden sands of Suances' largest beach, where laying out your towel near the eastern breakwater guarantees slightly warmer and less turbulent swimming conditions.",
+            "de": "Erleben Sie den weiten, goldenen Sand von Suances' größtem Strand, wo das Ausbreiten Ihres Handtuchs nahe dem östlichen Wellenbrecher ruhigeres Schwimmen garantiert.",
+            "hu": "Tapasztalja meg Suances legnagyobb strandjának aranyhomokját, ahol a keleti hullámtörő közelében leterített törölköző nyugodtabb és melegebb fürdőzési feltételeket biztosít.",
+            "ro": "Experimentați nisipul auriu și vast al celei mai mari plaje din Suances, unde așezarea prosopului lângă digul estic vă garantează ape mai calme și mai calde pentru înot."
+          }
+        },
+        {
+          "name": {
+            "en": "Faro de Suances",
+            "de": "Faro de Suances",
+            "hu": "Faro de Suances",
+            "ro": "Faro de Suances"
+          },
+          "coords": [
+            -4.043187,
+            43.442012
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "en": "Stand beside the iconic white lighthouse guiding ships into the estuary, and make sure to wear a windbreaker as the weather at this headland can change rapidly without any warning.",
+            "de": "Stehen Sie neben dem weißen Leuchtturm, der Schiffe ins Mündungsgebiet führt, und tragen Sie unbedingt eine Windjacke, da das Wetter an dieser Landzunge schnell umschlagen kann.",
+            "hu": "Álljon a torkolatba hajózókat irányító ikonikus fehér világítótorony mellé, és mindenképpen viseljen széldzsekit, mivel az időjárás ezen a hegyfokon nagyon gyorsan változhat.",
+            "ro": "Stați lângă farul alb iconic ce ghidează navele în estuar și purtați neapărat o jachetă de vânt, deoarece vremea pe acest promontoriu se poate schimba extrem de rapid."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de los Locos",
+            "de": "Playa de los Locos",
+            "hu": "Playa de los Locos",
+            "ro": "Playa de los Locos"
+          },
+          "coords": [
+            -4.047177,
+            43.438501
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Watch the surfers conquer impressive waves at this renowned beach beneath dramatic cliffs, and navigate the steep staircase access with care, especially if the steps are damp.",
+            "de": "Beobachten Sie die Surfer an diesem berühmten Strand unter dramatischen Klippen und begehen Sie die steile Zugangstreppe mit Vorsicht, besonders wenn die Stufen feucht sind.",
+            "hu": "Figyelje a hullámlovasokat ezen a drámai sziklák alatti híres strandon, és óvatosan ereszkedjen le a meredek lépcsőn, különösen akkor, ha a fokok nedvesek és csúszósak.",
+            "ro": "Priviți surferii cucerind valuri impresionante la această plajă renumită sub stânci și coborâți cu atenție scările abrupte de acces, mai ales dacă treptele sunt umede."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Kickstart your cycling route at the ancient monastery, diving into the town's rich historical roots before pedaling along the scenic curves of the local riverbank. Midday: Cycle down to the sheltered waters of the central beaches, where the wide promenades offer a brilliant stretch to ride while admiring the relaxed seaside atmosphere. Afternoon: Navigate your way out towards the rugged headlands, pausing at the iconic lighthouse to appreciate the unyielding power of the ocean crashing against the rocky shores. Evening: Finish up with a mesmerizing descent to Playa de los Locos, an atmospheric surfer's paradise where the dusk casts dramatic shadows on the towering coastal cliffs.",
+        "de": "Morning: Beginnen Sie Ihre Radroute am alten Kloster, tauchen Sie in die historischen Wurzeln der Stadt ein und radeln Sie dann entlang der malerischen Kurven des Flussufers. Midday: Radeln Sie hinunter zu den geschützten Gewässern der zentralen Strände, wo die breiten Promenaden eine tolle Strecke bieten, um die entspannte Atmosphäre zu genießen. Afternoon: Navigieren Sie zu den rauen Landzungen und halten Sie am berühmten Leuchtturm, um die unerbittliche Kraft des Ozeans zu bewundern, der an die Felsen kracht. Evening: Beenden Sie die Tour mit einer Fahrt zur Playa de los Locos, einem stimmungsvollen Surferparadies, wo die Abenddämmerung dramatische Schatten auf die hohen Klippen wirft.",
+        "hu": "Morning: Indítsa kerékpártúráját az ősi kolostornál, elmerülve a város gazdag történelmi gyökereiben, mielőtt a helyi folyópart festői kanyarulatai mentén pedálozna. Midday: Tekerjen le a központi strandok védett vizeihez, ahol a széles sétányok kiváló szakaszt kínálnak a tengerparti atmoszféra megcsodálásához menet közben. Afternoon: Keresse meg útját a zord hegyfokok felé, megállva az ikonikus világítótoronynál, hogy értékelje a sziklás partoknak csapódó óceán megállíthatatlan erejét. Evening: Zárja a napot egy varázslatos ereszkedéssel a Playa de los Locosra, a szörfösök paradicsomába, ahol az alkony drámai árnyékokat vet a magas parti sziklákra.",
+        "ro": "Morning: Începeți traseul de ciclism la vechea mănăstire, aprofundând rădăcinile istorice ale orașului înainte de a pedala de-a lungul curbelor pitorești ale malului râului. Midday: Ciclism spre apele adăpostite ale plajelor centrale, unde promenadele largi oferă o întindere excelentă pentru a pedala admirând atmosfera relaxată de la malul mării. Afternoon: Navigați spre promontoriile stâncoase, oprindu-vă la farul iconic pentru a aprecia puterea neînduplecată a oceanului care se izbește de țărmurile de piatră. Evening: Încheiați cu o coborâre fascinantă spre Playa de los Locos, un paradis al surferilor unde amurgul aruncă umbre dramatice pe stâncile înalte ale coastei."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Monasterio de Santo Domingo de la Barquera",
+            "de": "Monasterio de Santo Domingo de la Barquera",
+            "hu": "Monasterio de Santo Domingo de la Barquera",
+            "ro": "Monasterio de Santo Domingo de la Barquera"
+          },
+          "coords": [
+            -4.034623,
+            43.413543
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Delve into local heritage at this ancient monastery near the riverbanks, where respecting the quiet atmosphere by silencing your phone allows for a truly peaceful reflection.",
+            "de": "Tauchen Sie in diesem alten Kloster nahe dem Flussufer in die Geschichte ein; respektieren Sie die ruhige Atmosphäre und schalten Sie Ihr Telefon stumm für friedliche Besinnung.",
+            "hu": "Merüljön el a helyi örökségben ebben az ősi, folyóparti kolostorban, ahol a telefon lenémításával és a csend tiszteletben tartásával igazán békésen elmélyedhet.",
+            "ro": "Aprofundați moștenirea locală la această mănăstire veche de lângă râu, unde respectarea atmosferei liniștite, trecând telefonul pe silențios, permite o reflecție pașnică."
+          }
+        },
+        {
+          "name": {
+            "en": "Viewpoint of Suances",
+            "de": "Viewpoint of Suances",
+            "hu": "Viewpoint of Suances",
+            "ro": "Viewpoint of Suances"
+          },
+          "coords": [
+            -4.040075,
+            43.427037
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "en": "Enjoy a sweeping overview of the Ria de San Martín from this elevated spot, and try to visit early in the morning for the clearest photos before the coastal haze rolls in.",
+            "de": "Genießen Sie den weiten Blick auf die Ria de San Martín von diesem Aussichtspunkt und kommen Sie am besten früh morgens für klare Fotos ohne den üblichen Küstennebel.",
+            "hu": "Élvezze a San Martín-torkolatra nyíló panorámát erről a magaslati pontról, és érkezzen kora reggel, hogy a part menti pára felszállása előtt készíthessen tiszta fotókat.",
+            "ro": "Bucurați-vă de o panoramă largă asupra estuarului San Martín de pe acest punct înalt și veniți dimineața devreme pentru cele mai clare fotografii, înainte de ceața de coastă."
+          }
+        },
+        {
+          "name": {
+            "en": "Faro de Suances",
+            "de": "Faro de Suances",
+            "hu": "Faro de Suances",
+            "ro": "Faro de Suances"
+          },
+          "coords": [
+            -4.043187,
+            43.442012
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "en": "Stand beside the iconic white lighthouse guiding ships into the estuary, and make sure to wear a windbreaker as the weather at this headland can change rapidly without any warning.",
+            "de": "Stehen Sie neben dem weißen Leuchtturm, der Schiffe ins Mündungsgebiet führt, und tragen Sie unbedingt eine Windjacke, da das Wetter an dieser Landzunge schnell umschlagen kann.",
+            "hu": "Álljon a torkolatba hajózókat irányító ikonikus fehér világítótorony mellé, és mindenképpen viseljen széldzsekit, mivel az időjárás ezen a hegyfokon nagyon gyorsan változhat.",
+            "ro": "Stați lângă farul alb iconic ce ghidează navele în estuar și purtați neapărat o jachetă de vânt, deoarece vremea pe acest promontoriu se poate schimba extrem de rapid."
+          }
+        },
+        {
+          "name": {
+            "en": "Castillo de Florencio Ceruti",
+            "de": "Castillo de Florencio Ceruti",
+            "hu": "Castillo de Florencio Ceruti",
+            "ro": "Castillo de Florencio Ceruti"
+          },
+          "coords": [
+            -4.045598,
+            43.438619
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "en": "Discover this striking historical mansion that dominates the coastal skyline, though since it is privately owned, your best photo opportunities will be from the public pathway outside.",
+            "de": "Entdecken Sie dieses markante historische Herrenhaus, das die Küste dominiert; da es in Privatbesitz ist, gelingen die besten Fotos vom öffentlichen Weg davor.",
+            "hu": "Fedezze fel ezt a partvidéket uraló, lenyűgöző történelmi kúriát, bár mivel magántulajdonban van, a legjobb fotókat a kinti nyilvános ösvényről készítheti róla.",
+            "ro": "Descoperiți acest conac istoric impresionant care domină coasta, deși fiind proprietate privată, cele mai bune oportunități foto le veți avea de pe aleea publică."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de los Locos",
+            "de": "Playa de los Locos",
+            "hu": "Playa de los Locos",
+            "ro": "Playa de los Locos"
+          },
+          "coords": [
+            -4.047177,
+            43.438501
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "en": "Watch the surfers conquer impressive waves at this renowned beach beneath dramatic cliffs, and navigate the steep staircase access with care, especially if the steps are damp.",
+            "de": "Beobachten Sie die Surfer an diesem berühmten Strand unter dramatischen Klippen und begehen Sie die steile Zugangstreppe mit Vorsicht, besonders wenn die Stufen feucht sind.",
+            "hu": "Figyelje a hullámlovasokat ezen a drámai sziklák alatti híres strandon, és óvatosan ereszkedjen le a meredek lépcsőn, különösen akkor, ha a fokok nedvesek és csúszósak.",
+            "ro": "Priviți surferii cucerind valuri impresionante la această plajă renumită sub stânci și coborâți cu atenție scările abrupte de acces, mai ales dacă treptele sunt umede."
+          }
+        },
+        {
+          "name": {
+            "en": "Mirador de Sopico",
+            "de": "Mirador de Sopico",
+            "hu": "Mirador de Sopico",
+            "ro": "Mirador de Sopico"
+          },
+          "coords": [
+            -4.054563,
+            43.433245
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "en": "Capture panoramic views of the rugged coastline from this serene clifftop outlook, holding tightly to your belongings to avoid losing anything to the persistent ocean gusts.",
+            "de": "Fotografieren Sie den Panoramablick auf die raue Küste von diesem ruhigen Klippenaussichtspunkt und halten Sie Ihre Sachen gut fest, um sie nicht an Meeresböen zu verlieren.",
+            "hu": "Készítsen panorámaképeket a zord partvonalról erről a csendes sziklaormi kilátóból, és tartsa erősen az értékeit, hogy elkerülje a kitartó óceáni széllökések okozta veszteségeket.",
+            "ro": "Capturați vederi panoramice ale coastei stâncoase de pe acest punct de belvedere liniștit și țineți bine lucrurile personale pentru a nu le pierde în rafalele oceanului."
+          }
+        },
+        {
+          "name": {
+            "en": "Playa de la Tablía",
+            "de": "Playa de la Tablía",
+            "hu": "Playa de la Tablía",
+            "ro": "Playa de la Tablía"
+          },
+          "coords": [
+            -4.055266,
+            43.434285
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Escape the crowds at this dramatic, untamed beach framed by high rock formations, making sure to check the local tide tables beforehand so you don't get trapped by rising waters.",
+            "de": "Entfliehen Sie den Massen an diesem wilden, von hohen Felsen umrahmten Strand; prüfen Sie vorher die Gezeitentabellen, um nicht von steigendem Wasser eingeschlossen zu werden.",
+            "hu": "Meneküljön el a tömeg elől ezen a magas sziklákkal övezett vad strandon, de mindenképpen ellenőrizze az árapály-táblázatot, nehogy a emelkedő víz csapdába ejtse.",
+            "ro": "Scăpați de aglomerație la această plajă sălbatică încadrată de stânci înalte, asigurându-vă că verificați tabelele de maree înainte pentru a nu fi blocați de apele în creștere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Embark on your drive starting at the tranquil inland monastery before heading into town to grasp the stunning overall scale of the estuary from a central overlook. Midday: Cruise gracefully to the prominent coastal lighthouse and nearby castle, witnessing the seamless blend of rugged architectural heritage and powerful maritime beauty. Afternoon: Relocate to the famous surfer's cove to feel the coastal energy, then drive further out along the winding cliffside roads for breathtaking untouched scenery. Evening: Conclude your road trip at the remote and wild Playa de la Tablía, breathing in the pure ocean spray as the last light of the day fades over the dramatic Cantabrian rock formations.",
+        "de": "Morning: Beginnen Sie Ihre Fahrt am ruhigen Kloster im Landesinneren, bevor Sie in die Stadt fahren, um die beeindruckende Größe der Flussmündung von einem Aussichtspunkt zu sehen. Midday: Fahren Sie elegant zum markanten Küstenleuchtturm und der nahen Burg und erleben Sie die nahtlose Mischung aus robustem architektonischem Erbe und maritimer Schönheit. Afternoon: Fahren Sie zur berühmten Surferbucht, um die Küstenenergie zu spüren, und dann weiter auf den kurvigen Klippenstraßen für atemberaubende, unberührte Naturkulissen. Evening: Beenden Sie Ihren Roadtrip an der wilden Playa de la Tablía und atmen Sie die reine Meeresgischt ein, wenn das letzte Licht des Tages über den dramatischen Felsen schwindet.",
+        "hu": "Morning: Kezdje autós útját a csendes szárazföldi kolostornál, mielőtt a városba hajtana, hogy egy központi kilátóból megértse a torkolat lenyűgöző és gigantikus méreteit. Midday: Guruljon el a kiemelkedő tengerparti világítótoronyhoz és a közeli kastélyhoz, tanúbizonyságul a robusztus építészeti örökség és a tengeri szépség tökéletes összhangjának. Afternoon: Látogasson el a híres szörfös öbölbe a partvidék energiájának átéléséhez, majd hajtson tovább a kanyargós sziklafalak mentén az érintetlen, lélegzetelállító tájakért. Evening: Zárja autós kirándulását a távoli és vad Playa de la Tablía strandon, tiszta óceáni permetet lélegezve be, ahogy az utolsó fények elhalványulnak a sziklák felett.",
+        "ro": "Morning: Porniți la drum de la mănăstirea liniștită din interior, înainte de a merge în oraș pentru a cuprinde scara uimitoare a estuarului de la un punct de belvedere central. Midday: Conduceți grațios către farul de coastă proeminent și castelul din apropiere, martori ai amestecului perfect dintre moștenirea arhitecturală robustă și frumusețea maritimă. Afternoon: Mutați-vă la faimosul golf al surferilor pentru a simți energia coastei, apoi conduceți mai departe pe drumurile șerpuite de pe stânci pentru peisaje naturale uluitoare. Evening: Încheiați călătoria cu mașina la sălbatica și îndepărtata Playa de la Tablía, respirând spray-ul pur al oceanului pe măsură ce ultima lumină se stinge peste stânci."
+      }
+    }
+  }
+}

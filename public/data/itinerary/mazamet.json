@@ -1,0 +1,474 @@
+{
+  "city_id": "mazamet",
+  "anchor": {
+    "name": "Mazamet",
+    "coords": [
+      2.3733,
+      43.4917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spielplatz Tourniquet",
+            "hu": "Tourniquet Park",
+            "ro": "Parcul Tourniquet",
+            "en": "Tourniquet Park"
+          },
+          "coords": [
+            2.384378,
+            43.505569
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem tollen Familienspielbereich Energie abbauen, der den Eltern viele sichere, schattige Plätze zum Ausruhen bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a családi játszótéren, amely sok biztonságos, árnyékos helyet kínál a szülők pihenéséhez.",
+            "ro": "Lăsați copiii să-și consume energia în acest spațiu de joacă interactiv, care oferă părinților numeroase locuri sigure și umbrite pentru a se odihni.",
+            "en": "Let the kids burn off energy at this engaging family play area, which offers plenty of safe, shaded spots for parents to rest and watch them."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            2.375535,
+            43.489089
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
+            "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
+            "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Mémoires",
+            "hu": "Maison des Mémoires",
+            "ro": "Maison des Mémoires",
+            "en": "Maison des Mémoires"
+          },
+          "coords": [
+            2.373739,
+            43.490424
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
+            "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
+            "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle de Mazamet",
+            "hu": "Passerelle de Mazamet",
+            "ro": "Pasarela din Mazamet",
+            "en": "Passerelle de Mazamet"
+          },
+          "coords": [
+            2.377778,
+            43.477778
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
+            "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
+            "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Village médiéval d'Hautpoul",
+            "hu": "Hautpoul Középkori Falu",
+            "ro": "Satul Medieval Hautpoul",
+            "en": "Hautpoul Medieval Village"
+          },
+          "coords": [
+            2.378625,
+            43.475279
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
+            "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
+            "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der zentralen Parks und der Kirche Saint-Sauveur, was eine friedliche Stimmung schafft.\n\nAm Mittag tauchen Sie im Maison des Mémoires tief in die industrielle Vergangenheit ein.\n\nDer Nachmittag ist für einen aufregenden Spaziergang über die spektakuläre Passerelle de Mazamet reserviert.\n\nGegen Abend reisen Sie in den mittelalterlichen Ruinen von Hautpoul in die Vergangenheit zurück und genießen den Sonnenuntergang über dem Tal.",
+        "hu": "Kezdje a reggelt a központi parkok és a csodálatos Église Saint-Sauveur felfedezésével.\n\nDélben a Maison des Mémoires múzeumban elmerülhet a régió izgalmas ipari múltjában.\n\nA délutánt a látványos Passerelle de Mazamet függőhíd izgalmas átszelésére tartogattuk.\n\nAhogy közeledik az este, sétáljon vissza az időben Hautpoul középkori romjai között, és élvezze a völgy felett lemenő nap gyönyörű látványát.",
+        "ro": "Începeți dimineața explorând parcurile centrale și frumoasa Église Saint-Sauveur pentru un început pașnic.\n\nLa prânz, aprofundați trecutul industrial al regiunii vizitând Maison des Mémoires.\n\nDupă-amiaza este rezervată pentru o plimbare captivantă pe spectaculoasa Passerelle de Mazamet.\n\nOdată cu lăsarea serii, călătoriți înapoi în timp printre ruinele medievale din Hautpoul, admirând un apus de soare superb deasupra întregii văi.",
+        "en": "Start your morning exploring the central parks and the beautiful Église Saint-Sauveur, setting a peaceful tone for the day.\n\nMidday brings a deep dive into the region's industrial past at the Maison des Mémoires before heading south.\n\nThe afternoon is reserved for a thrilling walk across the spectacular Passerelle de Mazamet suspended bridge.\n\nAs evening approaches, step back in time wandering through the medieval ruins of Hautpoul, enjoying sunset views over the valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 14.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Mémoires",
+            "hu": "Maison des Mémoires",
+            "ro": "Maison des Mémoires",
+            "en": "Maison des Mémoires"
+          },
+          "coords": [
+            2.373739,
+            43.490424
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
+            "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
+            "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            2.375535,
+            43.489089
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
+            "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
+            "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle de Mazamet",
+            "hu": "Passerelle de Mazamet",
+            "ro": "Pasarela din Mazamet",
+            "en": "Passerelle de Mazamet"
+          },
+          "coords": [
+            2.377778,
+            43.477778
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
+            "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
+            "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Village médiéval d'Hautpoul",
+            "hu": "Hautpoul Középkori Falu",
+            "ro": "Satul Medieval Hautpoul",
+            "en": "Hautpoul Medieval Village"
+          },
+          "coords": [
+            2.378625,
+            43.475279
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
+            "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
+            "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Montagnès",
+            "hu": "Lac des Montagnès",
+            "ro": "Lac des Montagnès",
+            "en": "Lac des Montagnès"
+          },
+          "coords": [
+            2.340556,
+            43.462222
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Bergsee inmitten dichter Wälder, ideal für ein erfrischendes Bad im Sommer oder ein friedliches Picknick am Ufer.",
+            "hu": "Pihenjen meg a sűrű erdőkkel körülvett békés hegyi tó partján, amely tökéletes egy frissítő nyári úszáshoz vagy egy nyugodt, árnyékos piknikhez.",
+            "ro": "Relaxați-vă la acest lac montan liniștit înconjurat de păduri dese, perfect pentru o baie răcoroasă de vară sau un picnic pașnic pe malul umbrit.",
+            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrolienne",
+            "hu": "Tyrolienne Kalandpark",
+            "ro": "Tiroliana Tyrolienne",
+            "en": "Tyrolienne Zipline"
+          },
+          "coords": [
+            2.404073,
+            43.50466
+          ],
+          "category": "family",
+          "arrive_at": "16:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinstoß auf diesem aufregenden Seilrutschen-Abenteuerparcours, aber buchen Sie in den Sommermonaten Tickets im Voraus.",
+            "hu": "Tapasztalja meg az adrenalint ezen az izgalmas drótkötélpályás kalandparkban, de a nyári csúcsidőszakban mindenképpen foglalja le előre a jegyeket.",
+            "ro": "Experimentați o doză de adrenalină pe acest traseu de tiroliană captivant, dar asigurați-vă că rezervați biletele în avans în lunile aglomerate de vară.",
+            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Zentrum und entdecken Sie im Museum und in der Kirche die lokale Geschichte.\n\nGegen Mittag radeln Sie zur atemberaubenden Passerelle und erkunden den mittelalterlichen Charme von Hautpoul.\n\nAm Nachmittag führt Sie eine malerische Fahrt zum Lac des Montagnès für eine erfrischende Pause am Wasser.\n\nBeenden Sie Ihren aktiven Tag mit einer rasanten Fahrt auf der Tyrolienne, während der Abend lange Schatten wirft.",
+        "hu": "Kezdje a kerékpártúrát a belvárosban, felfedezve a múzeumot és a templomot, mielőtt a dombok felé venné az irányt.\n\nDélben tekerjen fel a lélegzetelállító Passerelle-hez, és barangoljon Hautpoul ódon utcáin.\n\nDélután egy festői út visz a Lac des Montagnès-hez egy frissítő tóparti pihenőre.\n\nZárja ezt az aktív napot a Tyrolienne kalandpályáján, miközben az esti naplemente hosszú árnyékokat vet az erdőre.",
+        "ro": "Începeți turul cu bicicleta în centru, descoperind istoria locală la muzeu și la biserică, înainte de a pedala spre dealuri.\n\nLa prânz, urcați spre uluitoarea Passerelle și explorați farmecul medieval din Hautpoul.\n\nDupă-amiaza, o plimbare pitorească vă duce la Lac des Montagnès pentru o pauză relaxantă lângă apă.\n\nÎncheiați ziua zburând pe Tyrolienne, în timp ce soarele apune și aruncă umbre lungi peste coroanele copacilor.",
+        "en": "Kick off your cycling tour in the city center, discovering local history at the museum and the imposing church before riding towards the hills.\n\nAround midday, pedal up to the breathtaking Passerelle and explore the medieval charm of Hautpoul.\n\nIn the afternoon, a scenic ride takes you to Lac des Montagnès for a refreshing break by the water.\n\nEnd your active day flying down the Tyrolienne as the evening casts long shadows over the beautiful trees."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 31.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Mémoires",
+            "hu": "Maison des Mémoires",
+            "ro": "Maison des Mémoires",
+            "en": "Maison des Mémoires"
+          },
+          "coords": [
+            2.373739,
+            43.490424
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
+            "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
+            "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            2.375535,
+            43.489089
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
+            "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
+            "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle de Mazamet",
+            "hu": "Passerelle de Mazamet",
+            "ro": "Pasarela din Mazamet",
+            "en": "Passerelle de Mazamet"
+          },
+          "coords": [
+            2.377778,
+            43.477778
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
+            "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
+            "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Village médiéval d'Hautpoul",
+            "hu": "Hautpoul Középkori Falu",
+            "ro": "Satul Medieval Hautpoul",
+            "en": "Hautpoul Medieval Village"
+          },
+          "coords": [
+            2.378625,
+            43.475279
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
+            "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
+            "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Montagnès",
+            "hu": "Lac des Montagnès",
+            "ro": "Lac des Montagnès",
+            "en": "Lac des Montagnès"
+          },
+          "coords": [
+            2.340556,
+            43.462222
+          ],
+          "category": "natural",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Bergsee inmitten dichter Wälder, ideal für ein erfrischendes Bad im Sommer oder ein friedliches Picknick am Ufer.",
+            "hu": "Pihenjen meg a sűrű erdőkkel körülvett békés hegyi tó partján, amely tökéletes egy frissítő nyári úszáshoz vagy egy nyugodt, árnyékos piknikhez.",
+            "ro": "Relaxați-vă la acest lac montan liniștit înconjurat de păduri dese, perfect pentru o baie răcoroasă de vară sau un picnic pașnic pe malul umbrit.",
+            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne Noire",
+            "hu": "Montagne Noire",
+            "ro": "Montagne Noire",
+            "en": "Montagne Noire"
+          },
+          "coords": [
+            2.462778,
+            43.424444
+          ],
+          "category": "natural",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Fahren Sie in diesen herrlichen, dunklen bewaldeten Gebirgszug hinauf und bringen Sie eine warme Jacke mit, da die Temperaturen am Gipfel sinken.",
+            "hu": "Autózzon fel ehhez a sötét erdőkkel borított hegységhez a lélegzetelállító kilátásért, és hozzon meleg kabátot, mert a csúcson hűvösebb az idő.",
+            "ro": "Conduceți spre această zonă montană împădurită magnifică pentru vederi panoramice uluitoare și aduceți o jachetă caldă deoarece la vârf este mai frig.",
+            "en": "Drive up to this magnificent dark forested mountain range for breathtaking panoramic views, and bring a warm jacket as temperatures drop at the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyrolienne",
+            "hu": "Tyrolienne Kalandpark",
+            "ro": "Tiroliana Tyrolienne",
+            "en": "Tyrolienne Zipline"
+          },
+          "coords": [
+            2.404073,
+            43.50466
+          ],
+          "category": "family",
+          "arrive_at": "17:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinstoß auf diesem aufregenden Seilrutschen-Abenteuerparcours, aber buchen Sie in den Sommermonaten Tickets im Voraus.",
+            "hu": "Tapasztalja meg az adrenalint ezen az izgalmas drótkötélpályás kalandparkban, de a nyári csúcsidőszakban mindenképpen foglalja le előre a jegyeket.",
+            "ro": "Experimentați o doză de adrenalină pe acest traseu de tiroliană captivant, dar asigurați-vă că rezervați biletele în avans în lunile aglomerate de vară.",
+            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt im kulturellen Herzen von Mazamet mit dem Museum und der Kirche, bevor Sie hinauf zur beeindruckenden Hängebrücke fahren.\n\nDer Mittag ist perfekt, um durch Hautpoul zu schlendern und am malerischen Lac des Montagnès zu Mittag zu essen.\n\nAm Nachmittag fahren Sie tief in die Montagne Noire für absolut atemberaubende Panoramablicke über die Region.\n\nBeenden Sie den Tag mit einer adrenalingeladenen Seilrutschenfahrt auf der Tyrolienne, genau dann, wenn der Abend hereinbricht.",
+        "hu": "Autós túrája Mazamet kulturális szívében indul a múzeum és a templom felfedezésével, majd a lenyűgöző függőhíd felé veszi az irányt.\n\nA dél kiválóan alkalmas Hautpoul macskakövein való sétára és egy tóparti ebédre a Lac des Montagnès-nél.\n\nDélután egy festői autózás vár a Montagne Noire sötét erdeiben a páratlanul szép panorámáért.\n\nZárja a napot egy adrenalindús drótkötélpályás csúszással a Tyrolienne-en, pont a kora esti órákban.",
+        "ro": "Excursia auto începe în inima culturală din Mazamet, vizitând muzeul și biserica înainte de a conduce spre pasarela suspendată.\n\nPrânzul este perfect pentru a explora Hautpoul și a savura o masă relaxantă la Lac des Montagnès.\n\nDupă-amiaza include o plimbare pitorească spre Montagne Noire pentru vederi panoramice absolut excepționale.\n\nÎncheiați ziua cu o experiență plină de adrenalină pe tiroliană, chiar la lăsarea serii, pentru amintiri de neuitat.",
+        "en": "Your road trip begins with Mazamet's cultural heart, exploring the museum and church before driving up to the stunning suspended footbridge.\n\nMidday is perfect for wandering the cobblestones of Hautpoul and then enjoying a lakeside lunch at Lac des Montagnès.\n\nThe afternoon features a scenic drive deep into the pristine Montagne Noire for expansive panoramic views.\n\nFinish the day with an adrenaline-pumping zipline ride at Tyrolienne just as the beautiful evening falls."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "portugal-foz-do-arelho-cities-v2",
+  "anchor": {
+    "name": "Foz do Arelho",
+    "coords": [
+      -9.21739,
+      39.43296
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacete Conde de Almeida Araújo",
+            "hu": "Palacete Conde de Almeida Araújo",
+            "ro": "Palacete Conde de Almeida Araújo",
+            "en": "Palacete Conde de Almeida Araújo"
+          },
+          "coords": [
+            -9.226238,
+            39.431276
+          ],
+          "category": "historical",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes, der einen Einblick in die aristokratische Vergangenheit der Region bietet, aber denken Sie daran, ihn respektvoll von außen zu betrachten, da er sich in Privatbesitz befindet.",
+            "hu": "Csodálja meg e történelmi palota építészetét, amely bepillantást enged a régió arisztokrata múltjába, de ne feledje, hogy magántulajdon lévén csak kívülről, tisztelettudóan érdemes megtekinteni.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric care oferă o privire în trecutul aristocratic al regiunii, dar amintiți-vă să-l priviți cu respect din exterior, fiind o proprietate privată.",
+            "en": "Admire the exquisite architecture of this historic palacete, which offers a glimpse into the region's aristocratic past, but remember to view it respectfully from the outside as it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Foz do Arelho-Lagoa",
+            "hu": "Praia da Foz do Arelho-Lagoa",
+            "ro": "Praia da Foz do Arelho-Lagoa",
+            "en": "Praia da Foz do Arelho-Lagoa"
+          },
+          "coords": [
+            -9.224274,
+            39.429015
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern der Lagune, die aufgrund ihrer sanften Gewässer perfekt für Familien und Stand-Up-Paddling ist, und kommen Sie frühzeitig, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen a lagúna nyugodt partján, amely csendes vizének köszönhetően tökéletes családok és evezősök számára, és érkezzen korán, hogy jó helyet találjon közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe malurile calme ale lagunei, ideală pentru familii și paddleboarding datorită apelor blânde, și ajungeți devreme pentru a vă asigura un loc bun lângă apă.",
+            "en": "Relax on the calm shores of the lagoon, perfect for families and paddleboarding due to its gentle waters, and arrive early to secure a good spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Rolotes",
+            "hu": "Praia das Rolotes",
+            "ro": "Praia das Rolotes",
+            "en": "Praia das Rolotes"
+          },
+          "coords": [
+            -9.220134,
+            39.427721
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein abgeschiedeneres Stranderlebnis abseits der großen Menschenmengen, ideal für einen ruhigen Spaziergang im Sand, aber bringen Sie eigenes Wasser und Snacks mit, da die Einrichtungen hier begrenzt sind.",
+            "hu": "Élvezze a félreesőbb strandélményt a tömegtől távol, amely ideális egy csendes sétához a homokban, de hozzon magával vizet és harapnivalót, mivel az itteni szolgáltatások korlátozottak.",
+            "ro": "Bucurați-vă de o experiență mai retrasă pe plajă departe de mulțimile principale, ideală pentru o plimbare liniștită, dar aduceți propriile gustări și apă, deoarece facilitățile sunt limitate aici.",
+            "en": "Enjoy a more secluded beach experience away from the main crowds, ideal for a quiet stroll along the sand, but bring your own water and snacks as facilities here are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Penedo Furado",
+            "hu": "Penedo Furado",
+            "ro": "Penedo Furado",
+            "en": "Penedo Furado"
+          },
+          "coords": [
+            -9.212053,
+            39.427322
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese markante natürliche Felsformation, die sich majestätisch von der Landschaft abhebt, und besuchen Sie sie während der goldenen Stunde für das dramatischste Licht und wunderschöne Schatten.",
+            "hu": "Fotózza le ezt a lenyűgöző természetes sziklaformációt, amely fenségesen kiemelkedik a tájból, és látogassa meg az aranyórában a legdrámaibb fényviszonyok és gyönyörű árnyékok érdekében.",
+            "ro": "Fotografiați această formațiune stâncoasă naturală impresionantă care se evidențiază în peisaj și vizitați-o în timpul orei de aur pentru cea mai dramatică lumină și umbre superbe.",
+            "en": "Photograph this striking natural rock formation that stands out majestically against the landscape, and visit during golden hour for the most dramatic lighting and beautiful shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Penedo Furado",
+            "hu": "Praia do Penedo Furado",
+            "ro": "Praia do Penedo Furado",
+            "en": "Praia do Penedo Furado"
+          },
+          "coords": [
+            -9.209312,
+            39.423702
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das für seine einzigartige felsige Küste bekannt ist und exzellente Kulissen für Naturfotografie bietet, achten Sie jedoch beim Gehen auf unebene Steine.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, amely különleges sziklás partvonaláról ismert és kiváló hátteret nyújt a természetfotózáshoz, de sétálás közben ügyeljen az egyenetlen kövekre.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, cunoscută pentru țărmul său stâncos unic, ideală pentru fotografia de natură, dar fiți atenți la pietrele inegale când vă plimbați.",
+            "en": "Discover this hidden coastal gem known for its unique rock-studded shoreline, providing excellent backdrops for nature photography, just be cautious of uneven rocks when walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie in der Nähe des Ankers mit Blick auf den Palacete Conde de Almeida Araújo und begeben Sie sich dann an den Rand der malerischen Praia da Foz do Arelho-Lagoa.\n\nGenießen Sie die ruhigen Gewässer der Lagune, bevor Sie in Richtung Praia das Rolotes wandern, um einen ruhigeren und intimeren Sandstrand zu finden.\n\nErkunden Sie die faszinierenden natürlichen Formen des Penedo Furado und spazieren Sie entlang der felsigen Kanten, die die lokale Landschaft prägen.\n\nLassen Sie sich an der Praia do Penedo Furado nieder, einem perfekten Rückzugsort an der Küste, um zu entspannen und den Sonnenuntergang über den tosenden Atlantikwellen zu beobachten.",
+        "hu": "Kezdje a horgonypont közelében a nagyszerű Palacete Conde de Almeida Araújo megtekintésével, majd haladjon tovább a festői Praia da Foz do Arelho-Lagoa partjára.\n\nÉlvezze a lagúna nyugodt vizét, mielőtt a Praia das Rolotes felé venné az irányt egy csendesebb, intimebb homokos partszakaszért.\n\nFedezze fel a Penedo Furado lenyűgöző természetes formáit, sétáljon végig a helyi tájat meghatározó sziklás peremeken.\n\nTelepedjen le a Praia do Penedo Furado partján, amely tökéletes menedék a pihenésre és a naplemente megfigyelésére a morajló atlanti hullámok felett.",
+        "ro": "Începeți aproape de ancoră cu o vedere a grandiosului Palacete Conde de Almeida Araújo, apoi îndreptați-vă spre marginea pitoreștii Praia da Foz do Arelho-Lagoa.\n\nBucurați-vă de apele liniștite ale lagunei înainte de a vă îndrepta spre Praia das Rolotes pentru o porțiune de nisip mai liniștită și intimă.\n\nExplorați formele naturale fascinante de la Penedo Furado, plimbându-vă de-a lungul marginilor stâncoase care definesc peisajul local.\n\nAșezați-vă la Praia do Penedo Furado, un refugiu de coastă perfect pentru a vă relaxa și a privi apusul reflectându-se peste valurile atlantice puternice.",
+        "en": "Start near the anchor with a view of the grand Palacete Conde de Almeida Araújo, then make your way to the edge of the scenic Praia da Foz do Arelho-Lagoa.\n\nEnjoy the tranquil waters of the lagoon before heading down towards Praia das Rolotes for a quieter, more intimate stretch of sand.\n\nExplore the fascinating natural shapes of Penedo Furado, walking along the rocky edges that define the local landscape.\n\nSettle at Praia do Penedo Furado, a perfect coastal retreat to relax and watch the sunset reflect over the crashing Atlantic waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prainha",
+            "hu": "Prainha",
+            "ro": "Prainha",
+            "en": "Prainha"
+          },
+          "coords": [
+            -9.223691,
+            39.440453
+          ],
+          "category": "recreational",
+          "arrive_at": "09:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem kleinen, malerischen Strandbereich, wo das Meer auf die Flussmündung trifft und eine ruhige Umgebung bietet, obwohl die Parkplätze in der Hochsaison schnell voll sind.",
+            "hu": "Kezdje a reggelt ezen a kis, festői strandon, ahol a tenger találkozik a tölcsértorkolattal, nyugodt környezetet teremtve, bár a parkolóhelyek főszezonban gyorsan betelhetnek.",
+            "ro": "Începeți dimineața la această plajă mică și pitorească, unde marea întâlnește estuarul, oferind un mediu senin, deși locurile de parcare se pot ocupa rapid în sezonul de vârf.",
+            "en": "Start your morning at this small, picturesque beach area where the sea meets the estuary, providing a serene environment, though parking can fill up quickly in peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Foz do Arelho-Mar",
+            "hu": "Praia da Foz do Arelho-Mar",
+            "ro": "Praia da Foz do Arelho-Mar",
+            "en": "Praia da Foz do Arelho-Mar"
+          },
+          "coords": [
+            -9.230329,
+            39.43125
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Kraft des Atlantischen Ozeans an diesem weitläufigen Strand, der bei Surfern und Wellenliebhabern beliebt ist, schwimmen Sie jedoch immer in ausgewiesenen Bereichen, da die Strömungen stark sein können.",
+            "hu": "Érezze az Atlanti-óceán erejét ezen a hatalmas, szörfösök által kedvelt strandon, de mindig csak a kijelölt helyeken fürödjön, mivel az áramlatok itt váratlanul erősek lehetnek.",
+            "ro": "Simțiți puterea Oceanului Atlantic pe această plajă imensă preferată de surferi, dar înotați întotdeauna în zonele desemnate, deoarece curenții pot fi surprinzător de puternici aici.",
+            "en": "Feel the power of the Atlantic Ocean at this expansive beach favored by surfers and wave enthusiasts, but always swim in designated areas as the currents here can be unexpectedly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacete Conde de Almeida Araújo",
+            "hu": "Palacete Conde de Almeida Araújo",
+            "ro": "Palacete Conde de Almeida Araújo",
+            "en": "Palacete Conde de Almeida Araújo"
+          },
+          "coords": [
+            -9.226238,
+            39.431276
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes, der einen Einblick in die aristokratische Vergangenheit der Region bietet, aber denken Sie daran, ihn respektvoll von außen zu betrachten, da er sich in Privatbesitz befindet.",
+            "hu": "Csodálja meg e történelmi palota építészetét, amely bepillantást enged a régió arisztokrata múltjába, de ne feledje, hogy magántulajdon lévén csak kívülről, tisztelettudóan érdemes megtekinteni.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric care oferă o privire în trecutul aristocratic al regiunii, dar amintiți-vă să-l priviți cu respect din exterior, fiind o proprietate privată.",
+            "en": "Admire the exquisite architecture of this historic palacete, which offers a glimpse into the region's aristocratic past, but remember to view it respectfully from the outside as it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Foz do Arelho-Lagoa",
+            "hu": "Praia da Foz do Arelho-Lagoa",
+            "ro": "Praia da Foz do Arelho-Lagoa",
+            "en": "Praia da Foz do Arelho-Lagoa"
+          },
+          "coords": [
+            -9.224274,
+            39.429015
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern der Lagune, die aufgrund ihrer sanften Gewässer perfekt für Familien und Stand-Up-Paddling ist, und kommen Sie frühzeitig, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen a lagúna nyugodt partján, amely csendes vizének köszönhetően tökéletes családok és evezősök számára, és érkezzen korán, hogy jó helyet találjon közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe malurile calme ale lagunei, ideală pentru familii și paddleboarding datorită apelor blânde, și ajungeți devreme pentru a vă asigura un loc bun lângă apă.",
+            "en": "Relax on the calm shores of the lagoon, perfect for families and paddleboarding due to its gentle waters, and arrive early to secure a good spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Rolotes",
+            "hu": "Praia das Rolotes",
+            "ro": "Praia das Rolotes",
+            "en": "Praia das Rolotes"
+          },
+          "coords": [
+            -9.220134,
+            39.427721
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein abgeschiedeneres Stranderlebnis abseits der großen Menschenmengen, ideal für einen ruhigen Spaziergang im Sand, aber bringen Sie eigenes Wasser und Snacks mit, da die Einrichtungen hier begrenzt sind.",
+            "hu": "Élvezze a félreesőbb strandélményt a tömegtől távol, amely ideális egy csendes sétához a homokban, de hozzon magával vizet és harapnivalót, mivel az itteni szolgáltatások korlátozottak.",
+            "ro": "Bucurați-vă de o experiență mai retrasă pe plajă departe de mulțimile principale, ideală pentru o plimbare liniștită, dar aduceți propriile gustări și apă, deoarece facilitățile sunt limitate aici.",
+            "en": "Enjoy a more secluded beach experience away from the main crowds, ideal for a quiet stroll along the sand, but bring your own water and snacks as facilities here are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Penedo Furado",
+            "hu": "Penedo Furado",
+            "ro": "Penedo Furado",
+            "en": "Penedo Furado"
+          },
+          "coords": [
+            -9.212053,
+            39.427322
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese markante natürliche Felsformation, die sich majestätisch von der Landschaft abhebt, und besuchen Sie sie während der goldenen Stunde für das dramatischste Licht und wunderschöne Schatten.",
+            "hu": "Fotózza le ezt a lenyűgöző természetes sziklaformációt, amely fenségesen kiemelkedik a tájból, és látogassa meg az aranyórában a legdrámaibb fényviszonyok és gyönyörű árnyékok érdekében.",
+            "ro": "Fotografiați această formațiune stâncoasă naturală impresionantă care se evidențiază în peisaj și vizitați-o în timpul orei de aur pentru cea mai dramatică lumină și umbre superbe.",
+            "en": "Photograph this striking natural rock formation that stands out majestically against the landscape, and visit during golden hour for the most dramatic lighting and beautiful shadows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der kleinen Bucht Prainha hinunter zum weitläufigen Surfspot an der Praia da Foz do Arelho-Mar.\n\nFahren Sie ins Landesinnere, um den historischen Palacete zu sehen, gefolgt von einer entspannenden Pause an den ruhigen Ufern der Lagoa.\n\nFahren Sie am Wasser entlang hinunter zur Praia das Rolotes und dann weiter zum markanten Wahrzeichen Penedo Furado.\n\nBeenden Sie Ihre Fahrt, indem Sie das Abendlicht an der felsigen Küste in der Nähe des Penedo beobachten und die frische Meeresbrise spüren.",
+        "hu": "Kerékpározzon el a kis Prainha öböltől a Praia da Foz do Arelho-Mar hatalmas szörfös partszakaszáig.\n\nTekerjen a szárazföld belseje felé a történelmi palotához, majd tartson egy pihentető szünetet a Lagoa csendes partjainál.\n\nBringázzon a vízpart mentén a Praia das Rolotes felé, majd egészen a lenyűgöző Penedo Furado nevezetességig.\n\nFejezze be a túrát az esti fények megfigyelésével a Penedo közeli sziklás partvonalról, érezve a friss óceáni szellőt.",
+        "ro": "Mergeți cu bicicleta de la mica zonă Prainha până la plaja extinsă pentru surf Praia da Foz do Arelho-Mar.\n\nPedalați spre interior pentru a vedea istoricul Palacete, urmat de o pauză relaxantă pe țărmurile calme ale lagunei.\n\nMergeți pe marginea apei până la Praia das Rolotes, apoi spre impresionantul punct de reper Penedo Furado.\n\nÎncheiați-vă plimbarea privind strălucirea serii de pe coasta stâncoasă de lângă Penedo, simțind briza proaspătă a oceanului.",
+        "en": "Cycle from the small cove of Prainha down to the expansive surf spot at Praia da Foz do Arelho-Mar.\n\nPedal inland to see the historic Palacete, followed by a relaxing break along the calm shores of the Lagoa.\n\nRide along the water's edge down to Praia das Rolotes, then onto the striking Penedo Furado landmark.\n\nFinish your ride watching the evening glow from the rocky coastline near the Penedo, feeling the fresh ocean breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 10.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacete Conde de Almeida Araújo",
+            "hu": "Palacete Conde de Almeida Araújo",
+            "ro": "Palacete Conde de Almeida Araújo",
+            "en": "Palacete Conde de Almeida Araújo"
+          },
+          "coords": [
+            -9.226238,
+            39.431276
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes, der einen Einblick in die aristokratische Vergangenheit der Region bietet, aber denken Sie daran, ihn respektvoll von außen zu betrachten, da er sich in Privatbesitz befindet.",
+            "hu": "Csodálja meg e történelmi palota építészetét, amely bepillantást enged a régió arisztokrata múltjába, de ne feledje, hogy magántulajdon lévén csak kívülről, tisztelettudóan érdemes megtekinteni.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric care oferă o privire în trecutul aristocratic al regiunii, dar amintiți-vă să-l priviți cu respect din exterior, fiind o proprietate privată.",
+            "en": "Admire the exquisite architecture of this historic palacete, which offers a glimpse into the region's aristocratic past, but remember to view it respectfully from the outside as it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Foz do Arelho-Mar",
+            "hu": "Praia da Foz do Arelho-Mar",
+            "ro": "Praia da Foz do Arelho-Mar",
+            "en": "Praia da Foz do Arelho-Mar"
+          },
+          "coords": [
+            -9.230329,
+            39.43125
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spüren Sie die Kraft des Atlantischen Ozeans an diesem weitläufigen Strand, der bei Surfern und Wellenliebhabern beliebt ist, schwimmen Sie jedoch immer in ausgewiesenen Bereichen, da die Strömungen stark sein können.",
+            "hu": "Érezze az Atlanti-óceán erejét ezen a hatalmas, szörfösök által kedvelt strandon, de mindig csak a kijelölt helyeken fürödjön, mivel az áramlatok itt váratlanul erősek lehetnek.",
+            "ro": "Simțiți puterea Oceanului Atlantic pe această plajă imensă preferată de surferi, dar înotați întotdeauna în zonele desemnate, deoarece curenții pot fi surprinzător de puternici aici.",
+            "en": "Feel the power of the Atlantic Ocean at this expansive beach favored by surfers and wave enthusiasts, but always swim in designated areas as the currents here can be unexpectedly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Gronho",
+            "hu": "Miradouro do Gronho",
+            "ro": "Miradouro do Gronho",
+            "en": "Miradouro do Gronho"
+          },
+          "coords": [
+            -9.240231,
+            39.425251
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Lagune von Obidos, die sich vom Aussichtspunkt zum Meer erstreckt, und bringen Sie ein Fernglas mit, um die vorbeiziehenden Vögel zu beobachten.",
+            "hu": "Élvezze az Óbidos-lagúnára nyíló lélegzetelállító panorámát ebből a magasan fekvő kilátóból, és hozzon magával távcsövet a területen átvonuló helyi madárvilág megfigyeléséhez.",
+            "ro": "Admirați vederile panoramice uluitoare ale lagunei Obidos de la acest punct de belvedere înalt și aduceți un binoclu pentru a observa păsările locale care migrează prin zonă.",
+            "en": "Take in breathtaking panoramic views of the Obidos Lagoon stretching out towards the sea from this elevated vantage point, and bring binoculars to spot local birdlife migrating through the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Bom Sucesso",
+            "hu": "Praia do Bom Sucesso",
+            "ro": "Praia do Bom Sucesso",
+            "en": "Praia do Bom Sucesso"
+          },
+          "coords": [
+            -9.2325,
+            39.42495
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses weitläufigen Sandstreifens, der die Lagune vom Meer trennt und sich perfekt zum Muschelsuchen eignet, und verwenden Sie reichlich Sonnencreme, da es kaum natürlichen Schatten gibt.",
+            "hu": "Sétáljon végig ezen a hosszan elnyúló homokos partszakaszon, amely elválasztja a lagúnát a tengertől, és használjon sok naptejet, mivel nagyon kevés a természetes árnyék.",
+            "ro": "Plimbați-vă de-a lungul acestei fâșii lungi de nisip care separă laguna de mare, ideală pentru căutarea scoicilor, și folosiți multă cremă de protecție solară, deoarece există foarte puțină umbră naturală.",
+            "en": "Stroll along this expansive sandy stretch that separates the lagoon from the sea, perfect for beachcombing, and use plenty of sunscreen as there is very little natural shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Tramagueira",
+            "hu": "Praia da Tramagueira",
+            "ro": "Praia da Tramagueira",
+            "en": "Praia da Tramagueira"
+          },
+          "coords": [
+            -9.243428,
+            39.423199
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem friedlichen Ort, während Sie den dynamischen Gezeitenwechsel über den Sandbänken beobachten, und halten Sie eine Windjacke bereit, da die Küstenbrisen nachmittags oft zunehmen.",
+            "hu": "Zárja a napot ezen a békés helyen, figyelve a homokpadokon dinamikusan változó árapályt, és tartson kéznél egy széldzsekit, mivel a parti szél késő délután gyakran megerősödik.",
+            "ro": "Încheiați ziua în acest loc liniștit privind schimbarea dinamică a mareei peste bancurile de nisip și aveți la îndemână o jachetă de vânt, deoarece briza se intensifică adesea după-amiaza.",
+            "en": "End your day at this peaceful spot watching the tide change dynamically across the sandbanks, and have a windbreaker handy as the coastal breezes often pick up in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum wunderschönen Palacete Conde de Almeida Araújo, um die lokale Geschichte zu würdigen, und dann direkt zur riesigen Praia da Foz do Arelho-Mar.\n\nMachen Sie eine malerische Fahrt über die Region zur Südseite der Lagune und erreichen Sie den Miradouro do Gronho für einen Panoramablick.\n\nFahren Sie hinab zur Praia do Bom Sucesso und erkunden Sie die lange Sandbank, die das ruhige Lagunenwasser vor dem offenen Ozean schützt.\n\nBeenden Sie Ihre Autotour an der Praia da Tramagueira und genießen Sie die friedliche Atmosphäre und die wunderschönen Küstenfarben zum Tagesausklang.",
+        "hu": "Vezessen a gyönyörű Palacete Conde de Almeida Araújohoz, hogy megismerje a helyi történelmet, majd irány a hatalmas Praia da Foz do Arelho-Mar.\n\nTegyen egy festői autózást a régión keresztül a lagúna déli oldalára, majd érkezzen meg a Miradouro do Gronho panorámás kilátójához.\n\nEreszkedjen le a Praia do Bom Sucesso partjára, felfedezve azt a hosszú homokpadot, amely megvédi a nyugodt lagúnát a nyílt óceántól.\n\nZárja autós túráját a Praia da Tramagueira partján, élvezve a békés atmoszférát és a gyönyörű parti színeket a nap végén.",
+        "ro": "Conduceți la frumosul Palacete Conde de Almeida Araújo pentru a aprecia istoria locală, apoi mergeți direct la vasta Praia da Foz do Arelho-Mar.\n\nFaceți o plimbare pitorească prin regiune spre partea de sud a lagunei, ajungând la Miradouro do Gronho pentru vederi panoramice.\n\nCoborâți la Praia do Bom Sucesso, explorând bancul lung de nisip care protejează apele liniștite ale lagunei de oceanul deschis.\n\nÎncheiați turul cu mașina la Praia da Tramagueira, bucurându-vă de atmosfera liniștită și de culorile frumoase ale coastei la finalul zilei.",
+        "en": "Drive to the beautiful Palacete Conde de Almeida Araújo to appreciate local history, then head straight to the vast Praia da Foz do Arelho-Mar.\n\nTake a scenic drive across the region to the southern side of the lagoon, arriving at Miradouro do Gronho for panoramic views.\n\nDescend to Praia do Bom Sucesso, exploring the long sandy spit that protects the calm lagoon waters from the open ocean.\n\nEnd your driving tour at Praia da Tramagueira, enjoying the peaceful atmosphere and beautiful coastal colors as the day concludes."
+      }
+    }
+  }
+}

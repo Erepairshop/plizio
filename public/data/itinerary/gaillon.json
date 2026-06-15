@@ -1,0 +1,520 @@
+{
+  "city_id": "gaillon",
+  "anchor": {
+    "name": "Gaillon",
+    "coords": [
+      1.3358,
+      49.1603
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Ouen",
+            "hu": "Saint-Ouen templom",
+            "ro": "Biserica Saint-Ouen",
+            "en": "Saint-Ouen Church"
+          },
+          "coords": [
+            1.331232,
+            49.160576
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser historischen Kirche und versuchen Sie, sie im Morgenlicht für atemberaubende Glasmalereireflexionen zu besuchen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű építészetét, és próbálja meg a reggeli fényekben meglátogatni a lenyűgöző üvegablakok miatt.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici istorice și încercați să o vizitați în lumina dimineții pentru reflexiile uimitoare ale vitraliilor.",
+            "en": "Admire the beautiful architecture of this historic church and try to visit during the morning light for stunning stained glass reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gaillon",
+            "hu": "Gaillon kastély",
+            "ro": "Castelul Gaillon",
+            "en": "Gaillon Castle"
+          },
+          "coords": [
+            1.329996,
+            49.161133
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erste in Frankreich erbaute Renaissanceschloss und tragen Sie bequeme Schuhe, um durch die weitläufigen, wunderschön restaurierten Gärten zu spazieren.",
+            "hu": "Fedezze fel Franciaország elsőként épült reneszánsz kastélyát, és viseljen kényelmes cipőt a tágas, gyönyörűen felújított kertek bejárásához.",
+            "ro": "Explorați primul castel renascentist construit în Franța și purtați pantofi confortabili pentru a vă plimba prin grădinile sale întinse, frumos restaurate.",
+            "en": "Explore the first Renaissance castle built in France and wear comfortable shoes to walk through its expansive, beautifully restored gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Atelier",
+            "hu": "L'Atelier",
+            "ro": "L'Atelier",
+            "en": "L'Atelier"
+          },
+          "coords": [
+            1.332199,
+            49.161864
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale künstlerische Erbe in diesem Kulturzentrum und prüfen Sie vorab den Zeitplan für aktuelle temporäre Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészeti örökséget ebben a kulturális központban, és mindenképpen ellenőrizze előre a programot az aktuális időszaki kiállítások miatt.",
+            "ro": "Descoperiți moștenirea artistică locală la acest centru cultural, asigurându-vă că verificați programul în avans pentru expozițiile temporare în curs.",
+            "en": "Discover local artistic heritage at this cultural hub, making sure to check their schedule in advance for any ongoing temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Courtmoulin",
+            "hu": "Courtmoulin kastély",
+            "ro": "Castelul Courtmoulin",
+            "en": "Courtmoulin Castle"
+          },
+          "coords": [
+            1.318157,
+            49.161177
+          ],
+          "category": "castle",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte dieses weniger bekannten Schlosses ein und bringen Sie eine Kamera mit, um die malerischen Spiegelungen im Wasser einzufangen.",
+            "hu": "Merüljön el ennek a kevésbé ismert kastélybirtoknak a lenyűgöző történetében, és hozzon magával fényképezőgépet a környező vizek festői tükröződéseinek megörökítéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a acestui domeniu de castel mai puțin cunoscut și aduceți un aparat foto pentru a surprinde reflexiile pitorești din apele înconjurătoare.",
+            "en": "Delve into the fascinating history of this lesser-known castle estate and bring a camera to capture the picturesque reflections in its surrounding waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel von Saint-Aubin-sur-Gaillon",
+            "hu": "Saint-Aubin-sur-Gaillon temploma",
+            "ro": "Templul din Saint-Aubin-sur-Gaillon",
+            "en": "Temple of Saint-Aubin-sur-Gaillon"
+          },
+          "coords": [
+            1.324334,
+            49.148073
+          ],
+          "category": "historical",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses historischen Tempels und packen Sie vielleicht ein kleines Picknick ein, um es in der ruhigen Umgebung zu genießen.",
+            "hu": "Tapasztalja meg ennek a történelmi templomnak a nyugodt atmoszféráját, és érdemes egy kis piknikkel készülni a közeli csendes területen.",
+            "ro": "Experimentați atmosfera senină a acestui templu istoric și luați în considerare să pregătiți un mic picnic pentru a vă bucura în zona liniștită din apropiere.",
+            "en": "Experience the serene atmosphere of this historical temple, and consider packing a small picnic to enjoy in the quiet area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.328399,
+            49.147257
+          ],
+          "category": "religious",
+          "arrive_at": "16:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Details dieser schönen lokalen Kirche und nehmen Sie sich einen Moment Zeit, um in den Bänken die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ennek a gyönyörű helyi templomnak a bonyolult részleteit, és üljön le egy pillanatra a padokra, hogy teljes mértékben értékelje a békés hangulatot.",
+            "ro": "Minunați-vă de detaliile complicate ale acestei frumoase biserici locale și luați-vă un moment pentru a sta liniștit în bănci pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Marvel at the intricate details of this beautiful local church, and take a moment to sit quietly in the pews to fully appreciate its peaceful ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des spirituellen Herzens von Gaillon. Spazieren Sie zum ikonischen Renaissanceschloss und entdecken Sie seine reiche königliche Geschichte. Verbringen Sie den Nachmittag damit, zum charmanten Anwesen Courtmoulin und zum historischen Tempel zu wandern. Schließen Sie mit einem friedlichen Abendbesuch der wunderschönen Kirche Saint-Aubin ab.",
+        "hu": "Kezdje a napot Gaillon spirituális szívének felfedezésével, magába szívva a reggeli hangulatot. Sétáljon el az ikonikus reneszánsz kastélyhoz, és fedezze fel gazdag királyi történelmét. Töltse a délutánt a bájos Courtmoulin birtok és a történelmi templom bejárásával. Zárja a napot a gyönyörű Saint-Aubin templom békés esti meglátogatásával.",
+        "ro": "Începeți-vă ziua explorând inima spirituală a Gaillonului, absorbind atmosfera dimineții. Plimbați-vă până la castelul renascentist iconic și descoperiți istoria sa regală. Petreceți-vă după-amiaza plimbându-vă spre fermecătorul domeniu Courtmoulin și templul istoric. Încheiați cu o vizită pașnică de seară la frumoasa biserică Saint-Aubin.",
+        "en": "Begin your day exploring the spiritual heart of Gaillon, soaking in the morning atmosphere. Stroll to the iconic Renaissance castle and discover its rich royal history. Spend your afternoon wandering to the charming Courtmoulin estate and the historical temple. Conclude with a peaceful evening visit to the beautiful Saint-Aubin church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Gaillon",
+            "hu": "Gaillon kastély",
+            "ro": "Castelul Gaillon",
+            "en": "Gaillon Castle"
+          },
+          "coords": [
+            1.329996,
+            49.161133
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erste in Frankreich erbaute Renaissanceschloss und tragen Sie bequeme Schuhe, um durch die weitläufigen, wunderschön restaurierten Gärten zu spazieren.",
+            "hu": "Fedezze fel Franciaország elsőként épült reneszánsz kastélyát, és viseljen kényelmes cipőt a tágas, gyönyörűen felújított kertek bejárásához.",
+            "ro": "Explorați primul castel renascentist construit în Franța și purtați pantofi confortabili pentru a vă plimba prin grădinile sale întinse, frumos restaurate.",
+            "en": "Explore the first Renaissance castle built in France and wear comfortable shoes to walk through its expansive, beautifully restored gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Kartause von Gaillon",
+            "hu": "Egykori gailloni karthauzi kolostor",
+            "ro": "Fosta Mănăstire Gaillon",
+            "en": "Former Charterhouse of Gaillon"
+          },
+          "coords": [
+            1.352109,
+            49.174831
+          ],
+          "category": "monastic",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche klösterliche Geschichte dieser weitläufigen ehemaligen Kartause und tragen Sie festes Schuhwerk, um das riesige Gelände bequem zu erkunden.",
+            "hu": "Fedezze fel ennek a kiterjedt egykori karthauzi kolostornak a gazdag történelmét, és viseljen masszív sétálócipőt a hatalmas történelmi terület kényelmes bejárásához.",
+            "ro": "Descoperiți istoria monahală bogată a acestei foste mănăstiri întinse și purtați pantofi de mers rezistenți pentru a naviga confortabil pe vastele sale terenuri istorice.",
+            "en": "Uncover the rich monastic history of this sprawling former charterhouse and wear sturdy walking shoes to comfortably navigate its vast historic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Couvicourt",
+            "hu": "Couvicourt kastély",
+            "ro": "Castelul Couvicourt",
+            "en": "Couvicourt Castle"
+          },
+          "coords": [
+            1.357949,
+            49.14825
+          ],
+          "category": "castle",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur dieses eleganten ländlichen Schlosses und besuchen Sie es am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Csodálja meg ennek az elegáns vidéki kastélynak a klasszikus francia építészetét, és próbálja meg késő délután meglátogatni, hogy a legjobb természetes fény érje a homlokzatot.",
+            "ro": "Admirați arhitectura clasică franceză a acestui castel rural elegant și încercați să-l vizitați după-amiaza târziu pentru cea mai bună lumină naturală pe fațada sa.",
+            "en": "Admire the classic French architecture of this elegant rural castle and try to visit during the late afternoon for the best natural lighting on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Brulé",
+            "hu": "Moulin Brulé",
+            "ro": "Moulin Brulé",
+            "en": "Moulin Brulé"
+          },
+          "coords": [
+            1.353787,
+            49.143723
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die charmanten Überreste dieser historischen Mühle auf dem Land und halten Sie Ausschau nach der lokalen Tierwelt entlang der nahegelegenen Wasserläufe.",
+            "hu": "Fedezze fel ennek a vidéken megbúvó történelmi malomnak a bájos maradványait, és tartsa nyitva a szemét a közeli vízfolyások mentén élő helyi vadvilág miatt.",
+            "ro": "Explorați rămășițele fermecătoare ale acestei mori istorice cuibărite în mediul rural și fiți atenți la fauna locală de-a lungul cursurilor de apă din apropiere.",
+            "en": "Explore the charming remnants of this historic mill nestled in the countryside, and keep an eye out for local wildlife along the nearby water streams."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Jeufosse",
+            "hu": "Jeufosse kastély",
+            "ro": "Castelul Jeufosse",
+            "en": "Jeufosse Castle"
+          },
+          "coords": [
+            1.347286,
+            49.148586
+          ],
+          "category": "castle",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die herrliche Aussicht von diesem höher gelegenen Schlossanwesen und vergessen Sie nicht, ein Fernglas einzupacken, um die weiten Panoramalandschaften zu bewundern.",
+            "hu": "Gyönyörködjön a csodálatos kilátásban ebből a magaslaton fekvő kastélyból, és ne felejtsen el távcsövet vinni a kiterjedt panorámás tájak megcsodálásához.",
+            "ro": "Bucurați-vă de priveliștile magnifice de pe această proprietate de castel ridicată și nu uitați să împachetați un binoclu pentru a vă bucura de peisajele panoramice ample.",
+            "en": "Take in the magnificent views from this elevated castle property, and don't forget to pack a pair of binoculars to enjoy the sweeping panoramic landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.328399,
+            49.147257
+          ],
+          "category": "religious",
+          "arrive_at": "16:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Details dieser schönen lokalen Kirche und nehmen Sie sich einen Moment Zeit, um in den Bänken die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ennek a gyönyörű helyi templomnak a bonyolult részleteit, és üljön le egy pillanatra a padokra, hogy teljes mértékben értékelje a békés hangulatot.",
+            "ro": "Minunați-vă de detaliile complicate ale acestei frumoase biserici locale și luați-vă un moment pentru a sta liniștit în bănci pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Marvel at the intricate details of this beautiful local church, and take a moment to sit quietly in the pews to fully appreciate its peaceful ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am berühmten Château de Gaillon und bestaunen Sie dessen Architektur. Fahren Sie durch die malerische Landschaft zur beeindruckenden ehemaligen Kartause. Radeln Sie am Nachmittag nach Süden, um wunderschöne ländliche Schlösser und die historische Moulin Brulé zu entdecken. Beenden Sie den Tag in der ruhigen Atmosphäre von Saint-Aubin.",
+        "hu": "Kezdje kerékpáros kalandját a híres Gaillon-kastélynál, megcsodálva annak nagyszerű építészetét. Tekerjen át a festői vidéken a lenyűgöző egykori karthauzi kolostorhoz. Délután kerekezzen dél felé, hogy felfedezze a gyönyörű vidéki kastélyokat és a történelmi Moulin Brulét. Fejezze be aktív napját a Saint-Aubin nyugodt hangulatában.",
+        "ro": "Începeți-vă aventura cu bicicleta la faimosul Château de Gaillon, admirând arhitectura sa. Mergeți prin peisajul pitoresc până la impresionanta fostă mănăstire. După-amiaza, pedalați spre sud pentru a descoperi frumoase castele rurale și moara istorică Moulin Brulé. Încheiați-vă ziua activă absorbind ambianța liniștită a lui Saint-Aubin.",
+        "en": "Start your cycling adventure at the famous Château de Gaillon, marvelling at its grand architecture. Ride through the scenic countryside to the impressive former Charterhouse. In the afternoon, pedal south to discover beautiful rural castles and the historic Moulin Brulé. End your active day absorbing the tranquil ambiance of Saint-Aubin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:18",
+      "total_km": 7.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ehemalige Kartause von Gaillon",
+            "hu": "Egykori gailloni karthauzi kolostor",
+            "ro": "Fosta Mănăstire Gaillon",
+            "en": "Former Charterhouse of Gaillon"
+          },
+          "coords": [
+            1.352109,
+            49.174831
+          ],
+          "category": "monastic",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche klösterliche Geschichte dieser weitläufigen ehemaligen Kartause und tragen Sie festes Schuhwerk, um das riesige Gelände bequem zu erkunden.",
+            "hu": "Fedezze fel ennek a kiterjedt egykori karthauzi kolostornak a gazdag történelmét, és viseljen masszív sétálócipőt a hatalmas történelmi terület kényelmes bejárásához.",
+            "ro": "Descoperiți istoria monahală bogată a acestei foste mănăstiri întinse și purtați pantofi de mers rezistenți pentru a naviga confortabil pe vastele sale terenuri istorice.",
+            "en": "Uncover the rich monastic history of this sprawling former charterhouse and wear sturdy walking shoes to comfortably navigate its vast historic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gaillon",
+            "hu": "Gaillon kastély",
+            "ro": "Castelul Gaillon",
+            "en": "Gaillon Castle"
+          },
+          "coords": [
+            1.329996,
+            49.161133
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erste in Frankreich erbaute Renaissanceschloss und tragen Sie bequeme Schuhe, um durch die weitläufigen, wunderschön restaurierten Gärten zu spazieren.",
+            "hu": "Fedezze fel Franciaország elsőként épült reneszánsz kastélyát, és viseljen kényelmes cipőt a tágas, gyönyörűen felújított kertek bejárásához.",
+            "ro": "Explorați primul castel renascentist construit în Franța și purtați pantofi confortabili pentru a vă plimba prin grădinile sale întinse, frumos restaurate.",
+            "en": "Explore the first Renaissance castle built in France and wear comfortable shoes to walk through its expansive, beautifully restored gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Atelier",
+            "hu": "L'Atelier",
+            "ro": "L'Atelier",
+            "en": "L'Atelier"
+          },
+          "coords": [
+            1.332199,
+            49.161864
+          ],
+          "category": "cultural",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale künstlerische Erbe in diesem Kulturzentrum und prüfen Sie vorab den Zeitplan für aktuelle temporäre Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészeti örökséget ebben a kulturális központban, és mindenképpen ellenőrizze előre a programot az aktuális időszaki kiállítások miatt.",
+            "ro": "Descoperiți moștenirea artistică locală la acest centru cultural, asigurându-vă că verificați programul în avans pentru expozițiile temporare în curs.",
+            "en": "Discover local artistic heritage at this cultural hub, making sure to check their schedule in advance for any ongoing temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Courtmoulin",
+            "hu": "Courtmoulin kastély",
+            "ro": "Castelul Courtmoulin",
+            "en": "Courtmoulin Castle"
+          },
+          "coords": [
+            1.318157,
+            49.161177
+          ],
+          "category": "castle",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte dieses weniger bekannten Schlosses ein und bringen Sie eine Kamera mit, um die malerischen Spiegelungen im Wasser einzufangen.",
+            "hu": "Merüljön el ennek a kevésbé ismert kastélybirtoknak a lenyűgöző történetében, és hozzon magával fényképezőgépet a környező vizek festői tükröződéseinek megörökítéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a acestui domeniu de castel mai puțin cunoscut și aduceți un aparat foto pentru a surprinde reflexiile pitorești din apele înconjurătoare.",
+            "en": "Delve into the fascinating history of this lesser-known castle estate and bring a camera to capture the picturesque reflections in its surrounding waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel von Saint-Aubin-sur-Gaillon",
+            "hu": "Saint-Aubin-sur-Gaillon temploma",
+            "ro": "Templul din Saint-Aubin-sur-Gaillon",
+            "en": "Temple of Saint-Aubin-sur-Gaillon"
+          },
+          "coords": [
+            1.324334,
+            49.148073
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses historischen Tempels und packen Sie vielleicht ein kleines Picknick ein, um es in der ruhigen Umgebung zu genießen.",
+            "hu": "Tapasztalja meg ennek a történelmi templomnak a nyugodt atmoszféráját, és érdemes egy kis piknikkel készülni a közeli csendes területen.",
+            "ro": "Experimentați atmosfera senină a acestui templu istoric și luați în considerare să pregătiți un mic picnic pentru a vă bucura în zona liniștită din apropiere.",
+            "en": "Experience the serene atmosphere of this historical temple, and consider packing a small picnic to enjoy in the quiet area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.328399,
+            49.147257
+          ],
+          "category": "religious",
+          "arrive_at": "16:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Details dieser schönen lokalen Kirche und nehmen Sie sich einen Moment Zeit, um in den Bänken die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ennek a gyönyörű helyi templomnak a bonyolult részleteit, és üljön le egy pillanatra a padokra, hogy teljes mértékben értékelje a békés hangulatot.",
+            "ro": "Minunați-vă de detaliile complicate ale acestei frumoase biserici locale și luați-vă un moment pentru a sta liniștit în bănci pentru a aprecia pe deplin ambianța pașnică.",
+            "en": "Marvel at the intricate details of this beautiful local church, and take a moment to sit quietly in the pews to fully appreciate its peaceful ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Jeufosse",
+            "hu": "Jeufosse kastély",
+            "ro": "Castelul Jeufosse",
+            "en": "Jeufosse Castle"
+          },
+          "coords": [
+            1.347286,
+            49.148586
+          ],
+          "category": "castle",
+          "arrive_at": "17:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die herrliche Aussicht von diesem höher gelegenen Schlossanwesen und vergessen Sie nicht, ein Fernglas einzupacken, um die weiten Panoramalandschaften zu bewundern.",
+            "hu": "Gyönyörködjön a csodálatos kilátásban ebből a magaslaton fekvő kastélyból, és ne felejtsen el távcsövet vinni a kiterjedt panorámás tájak megcsodálásához.",
+            "ro": "Bucurați-vă de priveliștile magnifice de pe această proprietate de castel ridicată și nu uitați să împachetați un binoclu pentru a vă bucura de peisajele panoramice ample.",
+            "en": "Take in the magnificent views from this elevated castle property, and don't forget to pack a pair of binoculars to enjoy the sweeping panoramic landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Couvicourt",
+            "hu": "Couvicourt kastély",
+            "ro": "Castelul Couvicourt",
+            "en": "Couvicourt Castle"
+          },
+          "coords": [
+            1.357949,
+            49.14825
+          ],
+          "category": "castle",
+          "arrive_at": "18:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur dieses eleganten ländlichen Schlosses und besuchen Sie es am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Csodálja meg ennek az elegáns vidéki kastélynak a klasszikus francia építészetét, és próbálja meg késő délután meglátogatni, hogy a legjobb természetes fény érje a homlokzatot.",
+            "ro": "Admirați arhitectura clasică franceză a acestui castel rural elegant și încercați să-l vizitați după-amiaza târziu pentru cea mai bună lumină naturală pe fațada sa.",
+            "en": "Admire the classic French architecture of this elegant rural castle and try to visit during the late afternoon for the best natural lighting on its facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur prächtigen Kartause von Gaillon, um Ihre umfassende regionale Tour zu beginnen. Fahren Sie ins Stadtzentrum, um das Hauptschloss zu bewundern und das kulturelle Atelier zu besuchen. Verbringen Sie den Nachmittag damit, zwischen den malerischen historischen Anwesen der Landschaft umherzufahren. Schließen Sie Ihre Reise mit dem eleganten Charme von Couvicourt ab.",
+        "hu": "Vezessen el a csodálatos karthauzi kolostorhoz, hogy megkezdje átfogó regionális túráját. Irány a városközpont, hogy megcsodálja a fő kastélyt és meglátogassa a kulturális Ateliert. Töltse a délutánt a tájon elszórt festői történelmi birtokok közötti autózással. Zárja kiterjedt utazását Couvicourt elegáns vidéki bájával.",
+        "ro": "Conduceți până la magnifica mănăstire Gaillon pentru a începe turul regional cuprinzător. Mergeți în centrul orașului pentru a admira castelul principal și a vizita Atelierul cultural. Petreceți-vă după-amiaza conducând între moșiile istorice pitorești presărate peisaj. Încheiați călătoria dumneavoastră extinsă cu farmecul rural elegant al Couvicourt.",
+        "en": "Drive to the magnificent Charterhouse of Gaillon to start your comprehensive regional tour. Head into the town center to admire the iconic main castle and visit the cultural Atelier. Spend your afternoon driving between picturesque historical estates dotted across the landscape. Conclude your extensive journey with the elegant rural charm of Couvicourt."
+      }
+    }
+  }
+}

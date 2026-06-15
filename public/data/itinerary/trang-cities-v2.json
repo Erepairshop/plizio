@@ -1,0 +1,497 @@
+{
+  "city_id": "trang-cities-v2",
+  "anchor": {
+    "name": "Trang",
+    "coords": [
+      99.612,
+      7.558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:04",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dugong Circle",
+            "hu": "Dugong körforgalom",
+            "ro": "Sensul Giratoriu Dugong",
+            "en": "Dugong Circle"
+          },
+          "coords": [
+            99.611926,
+            7.560102
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ikonischen Kreisverkehr, der Trangs maritimes Erbe feiert, wo Sie früh ein Foto ohne viel Verkehr machen sollten.",
+            "hu": "Kezdje a napot ennél az ikonikus körforgalomnál, amely Trang tengeri örökségét ünnepli, és készítsen egy fotót, mielőtt a forgalom megnövekszik.",
+            "ro": "Începeți ziua la acest sens giratoriu emblematic ce celebrează moștenirea marină a orașului Trang, unde e bine să faceți poze devreme, fără trafic.",
+            "en": "Start your day at this iconic roundabout celebrating Trang's marine heritage, where you should snap a quick photo before traffic builds up."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm Trang",
+            "hu": "Trang Óratorony",
+            "ro": "Turnul cu Ceas Trang",
+            "en": "Trang Clock Tower"
+          },
+          "coords": [
+            99.609891,
+            7.556765
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Details dieses historischen Uhrenturms im Stadtzentrum und achten Sie auf die abendliche Beleuchtung, falls Sie später vorbeikommen.",
+            "hu": "Csodálja meg a városközpontot meghatározó történelmi óratorony bonyolult részleteit, és figyelje meg az esti fényeket, ha később erre jár.",
+            "ro": "Admirați detaliile complicate ale acestui turn cu ceas istoric din centrul orașului și fiți atenți la luminile de seară dacă treceți mai târziu.",
+            "en": "Admire the intricate details of this historic timekeeper that anchors the city center, and watch for the evening lights if you pass by later."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Trang",
+            "hu": "Trangi Templom",
+            "ro": "Biserica din Trang",
+            "en": "Trang Church"
+          },
+          "coords": [
+            99.60486,
+            7.559329
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses christlichen Wahrzeichens und bedecken Sie aus Respekt Schultern und Knie beim Eintreten.",
+            "hu": "Fedezze fel ennek a helyi keresztény nevezetességnek a békés hangulatát, ügyelve arra, hogy a tisztelet jeléül fedett vállal és térddel lépjen be.",
+            "ro": "Descoperiți ambianța pașnică a acestui reper creștin local, acoperindu-vă umerii și genunchii în semn de respect la intrare.",
+            "en": "Discover the peaceful ambiance of this local Christian landmark, keeping your shoulders and knees covered as a sign of respect when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pao Kong Shrine",
+            "hu": "Pao Kong Shrine",
+            "ro": "Pao Kong Shrine",
+            "en": "Pao Kong Shrine"
+          },
+          "coords": [
+            99.601643,
+            7.555949
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem kunstvollen Schrein in das sino-thailändische Erbe ein und betrachten Sie die feinen Drachenmotive an den Säulen.",
+            "hu": "Merüljön el a kínai-thai örökségben ennél a díszes szentélynél, időt szánva a tartóoszlopok finom sárkánymotívumainak megfigyelésére.",
+            "ro": "Lăsați-vă captivat de moștenirea sino-thailandeză la acest altar ornamentat, alocând timp pentru a observa motivele delicate cu dragoni de pe stâlpi.",
+            "en": "Immerse yourself in the vibrant Sino-Thai heritage at this ornate shrine, taking time to observe the delicate dragon motifs on the pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de Noapte",
+            "en": "Nightmarket"
+          },
+          "coords": [
+            99.604732,
+            7.554936
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie hier die lebhafte lokale Gastronomieszene, wo Sie unbedingt das berühmte geröstete Schweinefleisch an einem der zentralen Stände probieren müssen.",
+            "hu": "Tapasztalja meg a nyüzsgő helyi gasztronómiát ezen a piacon, ahol mindenképpen meg kell kóstolnia a híres trangi sült sertéshúst egy központi standnál.",
+            "ro": "Experimentați scena culinară locală plină de viață aici, unde trebuie neapărat să gustați faimosul porc prăjit de Trang de la una dintre tarabele centrale.",
+            "en": "Experience the bustling local food scene here, where you must definitely try the famous Trang roast pork from one of the central stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am berühmten Dugong Circle, bevor ein kurzer Spaziergang zum historischen Uhrenturm führt, dem Herzschlag von Trang. Am Mittag tauchen wir in der Kirche von Trang in das vielfältige spirituelle Erbe der Stadt ein. Der Nachmittag widmet sich den chinesischen Wurzeln mit einem Besuch des Pao Kong Schreins. Abends bietet der belebte Nachtmarkt ein unvergessliches Angebot an Streetfood.",
+        "hu": "A reggel az ikonikus Dugong-körforgalomnál indul, majd egy rövid séta elvezet a történelmi óratoronyhoz, Trang lüktető szívéhez. Délben a Trangi templomnál elmerülünk a város sokszínű spirituális örökségében. A délután a kínai gyökereké, melyet a Pao Kong szentély felkeresése fémjelez. Kora este a nyüzsgő éjszakai piac a helyi utcai ételek felejthetetlen kavalkádjával várja.",
+        "ro": "Dimineața începe la faimosul Sens Giratoriu Dugong înainte ca o scurtă plimbare să ne ducă la Turnul cu Ceas, inima orașului Trang. Până la prânz, explorăm moștenirea spirituală diversă la Biserica din Trang. După-amiaza se îndreaptă spre rădăcinile chinezești printr-o vizită la Altarul Pao Kong. Odată cu lăsarea serii, Piața de Noapte oferă o gamă de neuitat de mâncăruri stradale locale.",
+        "en": "Morning begins at the iconic Dugong Circle before a short stroll takes us to the historic Clock Tower, the heartbeat of Trang. By midday, we dive into the city's diverse spiritual heritage at the Trang Church. The afternoon shifts toward Chinese ancestry with a visit to the Pao Kong Shrine. As evening falls, the bustling Nightmarket offers an unforgettable array of local street food."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dugong Circle",
+            "hu": "Dugong körforgalom",
+            "ro": "Sensul Giratoriu Dugong",
+            "en": "Dugong Circle"
+          },
+          "coords": [
+            99.611926,
+            7.560102
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ikonischen Kreisverkehr, der Trangs maritimes Erbe feiert, wo Sie früh ein Foto ohne viel Verkehr machen sollten.",
+            "hu": "Kezdje a napot ennél az ikonikus körforgalomnál, amely Trang tengeri örökségét ünnepli, és készítsen egy fotót, mielőtt a forgalom megnövekszik.",
+            "ro": "Începeți ziua la acest sens giratoriu emblematic ce celebrează moștenirea marină a orașului Trang, unde e bine să faceți poze devreme, fără trafic.",
+            "en": "Start your day at this iconic roundabout celebrating Trang's marine heritage, where you should snap a quick photo before traffic builds up."
+          }
+        },
+        {
+          "name": {
+            "de": "Tha Kong Yea Shrine",
+            "hu": "Tha Kong Yea Shrine",
+            "ro": "Tha Kong Yea Shrine",
+            "en": "Tha Kong Yea Shrine"
+          },
+          "coords": [
+            99.615517,
+            7.566219
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige spirituelle Stätte mit ihrer markanten roten Architektur und bringen Sie eine kleine Fruchtgabe für ein authentisches Erlebnis mit.",
+            "hu": "Látogasson el erre a feltűnő vörös építészetéről ismert fontos spirituális helyre, és hozzon magával egy kis gyümölcsöt a valóban hiteles élményért.",
+            "ro": "Vizitați acest important sit spiritual cunoscut pentru arhitectura sa roșie izbitoare, aducând o mică ofrandă de fructe pentru o experiență autentică.",
+            "en": "Visit this important spiritual site known for its striking red architecture, bringing a small fruit offering for a truly authentic local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "3/2 Galerie",
+            "hu": "3/2 Galéria",
+            "ro": "Galeria 3/2",
+            "en": "3/2 Gallery"
+          },
+          "coords": [
+            99.622483,
+            7.565744
+          ],
+          "category": "museum",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische thailändische Kunst in diesem kreativen Raum und fragen Sie an der Rezeption nach den kommenden Wochenend-Workshops.",
+            "hu": "Fedezze fel a kortárs thai művészetet ebben az egyedi kreatív térben, és érdeklődjön a recepción a közelgő hétvégi workshopokról.",
+            "ro": "Explorați expozițiile de artă contemporană thailandeză în acest spațiu creativ unic și întrebați la recepție despre atelierele din weekendurile viitoare.",
+            "en": "Explore contemporary Thai art exhibits in this unique creative space, and check their front desk for details on upcoming weekend workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm Trang",
+            "hu": "Trang Óratorony",
+            "ro": "Turnul cu Ceas Trang",
+            "en": "Trang Clock Tower"
+          },
+          "coords": [
+            99.609891,
+            7.556765
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Details dieses historischen Uhrenturms im Stadtzentrum und achten Sie auf die abendliche Beleuchtung, falls Sie später vorbeikommen.",
+            "hu": "Csodálja meg a városközpontot meghatározó történelmi óratorony bonyolult részleteit, és figyelje meg az esti fényeket, ha később erre jár.",
+            "ro": "Admirați detaliile complicate ale acestui turn cu ceas istoric din centrul orașului și fiți atenți la luminile de seară dacă treceți mai târziu.",
+            "en": "Admire the intricate details of this historic timekeeper that anchors the city center, and watch for the evening lights if you pass by later."
+          }
+        },
+        {
+          "name": {
+            "de": "Chao Pho Men Ram Shrine",
+            "hu": "Chao Pho Men Ram Shrine",
+            "ro": "Chao Pho Men Ram Shrine",
+            "en": "Chao Pho Men Ram Shrine"
+          },
+          "coords": [
+            99.611845,
+            7.55377
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ruhig gelegenen Schrein im Viertel inne und bewundern Sie die wunderschön geschnitzten Holzaltäre in der Haupthalle.",
+            "hu": "Tartson egy kis szünetet ennél a csendesen megbúvó környékbeli szentélynél, megfigyelve a főcsarnok gyönyörűen faragott faoltárait.",
+            "ro": "Faceți o pauză de reflecție la acest altar de cartier retras, observând altarele din lemn frumos sculptate din sala principală.",
+            "en": "Pause for reflection at this quietly tucked away neighborhood shrine, noting the beautifully carved wooden altars in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cinta Garden",
+            "hu": "Cinta Garden",
+            "ro": "Cinta Garden",
+            "en": "Cinta Garden"
+          },
+          "coords": [
+            99.619548,
+            7.557981
+          ],
+          "category": "cultural",
+          "arrive_at": "14:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser charmanten urbanen Oase und holen Sie sich einen Eiskaffee aus dem nahegelegenen Café für eine Pause auf der Bank.",
+            "hu": "Pihenjen meg ebben a bájos, parkosított városi oázisban, és vegyen egy frissítő jegeskávét a közeli kávézóban, amit egy árnyékos padon fogyaszthat el.",
+            "ro": "Relaxați-vă în această oază urbană amenajată cu farmec, luând o cafea cu gheață de la o cafenea din apropiere pentru a o savura pe o bancă la umbră.",
+            "en": "Relax in this charmingly landscaped urban oasis, picking up a refreshing iced coffee from the nearby cafe to enjoy on a shaded bench."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln vom Dugong Circle los und fahren zum kunstvollen Tha Kong Yea Schrein, um die morgendliche Ruhe zu genießen. Der Mittag ist perfekt für zeitgenössische Ausstellungen in der 3/2 Gallery. Am Nachmittag fahren wir am Uhrenturm vorbei zum Chao Pho Men Ram Schrein. Wir beenden unseren Radtag entspannt im malerischen Cinta Garden.",
+        "hu": "A Dugong-körforgalomtól indulva gyorsan áttekerünk a Tha Kong Yea szentélyhez a reggeli nyugalomért. A délidő tökéletes a 3/2 Galéria kortárs kiállításainak felfedezésére. Délután az ikonikus óratorony mellett elhaladva a Chao Pho Men Ram szentélynél tartunk egy kis pihenőt. A kerékpáros napot a festői Cinta Gardenben fejezzük be.",
+        "ro": "Începem să pedalăm de la Sensul Giratoriu Dugong, îndreptându-ne rapid spre Altarul Tha Kong Yea pentru liniștea dimineții. Prânzul este perfect pentru a explora expozițiile contemporane de la Galeria 3/2. După-amiaza, trecem cu bicicleta pe lângă Turnul cu Ceas spre Altarul Chao Pho Men Ram. Ne încheiem ziua de ciclism relaxându-ne în Grădina Cinta.",
+        "en": "We start cycling from the Dugong Circle, quickly pedaling to the intricate Tha Kong Yea Shrine to soak in the morning tranquility. Midday is perfect for exploring contemporary local exhibits at the 3/2 Gallery. In the afternoon, we ride past the iconic Clock Tower towards the Chao Pho Men Ram Shrine for a quiet moment. We conclude our cycling day unwinding at the picturesque Cinta Garden."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dugong Circle",
+            "hu": "Dugong körforgalom",
+            "ro": "Sensul Giratoriu Dugong",
+            "en": "Dugong Circle"
+          },
+          "coords": [
+            99.611926,
+            7.560102
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ikonischen Kreisverkehr, der Trangs maritimes Erbe feiert, wo Sie früh ein Foto ohne viel Verkehr machen sollten.",
+            "hu": "Kezdje a napot ennél az ikonikus körforgalomnál, amely Trang tengeri örökségét ünnepli, és készítsen egy fotót, mielőtt a forgalom megnövekszik.",
+            "ro": "Începeți ziua la acest sens giratoriu emblematic ce celebrează moștenirea marină a orașului Trang, unde e bine să faceți poze devreme, fără trafic.",
+            "en": "Start your day at this iconic roundabout celebrating Trang's marine heritage, where you should snap a quick photo before traffic builds up."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Kut",
+            "hu": "Wat Kut",
+            "ro": "Wat Kut",
+            "en": "Wat Kut"
+          },
+          "coords": [
+            99.609756,
+            7.570794
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen traditionellen thailändischen Tempel mit ruhigen Meditationsplätzen und ziehen Sie Ihre Schuhe aus, bevor Sie das Heiligtum betreten.",
+            "hu": "Lépjen be ebbe a hagyományos thai buddhista templomba, amely nyugodt meditációs helyeket kínál, és feltétlenül vegye le a cipőjét a szentélybe lépés előtt.",
+            "ro": "Pășiți în acest templu budist tradițional thailandez cu locuri senine de meditație, având grijă să vă descălțați înainte de a intra în sanctuarul principal.",
+            "en": "Step into this traditional Thai Buddhist temple offering serene meditation spots, taking care to slip off your shoes before entering the main sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Tha Kong Yea Shrine",
+            "hu": "Tha Kong Yea Shrine",
+            "ro": "Tha Kong Yea Shrine",
+            "en": "Tha Kong Yea Shrine"
+          },
+          "coords": [
+            99.615517,
+            7.566219
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige spirituelle Stätte mit ihrer markanten roten Architektur und bringen Sie eine kleine Fruchtgabe für ein authentisches Erlebnis mit.",
+            "hu": "Látogasson el erre a feltűnő vörös építészetéről ismert fontos spirituális helyre, és hozzon magával egy kis gyümölcsöt a valóban hiteles élményért.",
+            "ro": "Vizitați acest important sit spiritual cunoscut pentru arhitectura sa roșie izbitoare, aducând o mică ofrandă de fructe pentru o experiență autentică.",
+            "en": "Visit this important spiritual site known for its striking red architecture, bringing a small fruit offering for a truly authentic local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "3/2 Galerie",
+            "hu": "3/2 Galéria",
+            "ro": "Galeria 3/2",
+            "en": "3/2 Gallery"
+          },
+          "coords": [
+            99.622483,
+            7.565744
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische thailändische Kunst in diesem kreativen Raum und fragen Sie an der Rezeption nach den kommenden Wochenend-Workshops.",
+            "hu": "Fedezze fel a kortárs thai művészetet ebben az egyedi kreatív térben, és érdeklődjön a recepción a közelgő hétvégi workshopokról.",
+            "ro": "Explorați expozițiile de artă contemporană thailandeză în acest spațiu creativ unic și întrebați la recepție despre atelierele din weekendurile viitoare.",
+            "en": "Explore contemporary Thai art exhibits in this unique creative space, and check their front desk for details on upcoming weekend workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm Trang",
+            "hu": "Trang Óratorony",
+            "ro": "Turnul cu Ceas Trang",
+            "en": "Trang Clock Tower"
+          },
+          "coords": [
+            99.609891,
+            7.556765
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feinen Details dieses historischen Uhrenturms im Stadtzentrum und achten Sie auf die abendliche Beleuchtung, falls Sie später vorbeikommen.",
+            "hu": "Csodálja meg a városközpontot meghatározó történelmi óratorony bonyolult részleteit, és figyelje meg az esti fényeket, ha később erre jár.",
+            "ro": "Admirați detaliile complicate ale acestui turn cu ceas istoric din centrul orașului și fiți atenți la luminile de seară dacă treceți mai târziu.",
+            "en": "Admire the intricate details of this historic timekeeper that anchors the city center, and watch for the evening lights if you pass by later."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Trang",
+            "hu": "Trangi Templom",
+            "ro": "Biserica din Trang",
+            "en": "Trang Church"
+          },
+          "coords": [
+            99.60486,
+            7.559329
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses christlichen Wahrzeichens und bedecken Sie aus Respekt Schultern und Knie beim Eintreten.",
+            "hu": "Fedezze fel ennek a helyi keresztény nevezetességnek a békés hangulatát, ügyelve arra, hogy a tisztelet jeléül fedett vállal és térddel lépjen be.",
+            "ro": "Descoperiți ambianța pașnică a acestui reper creștin local, acoperindu-vă umerii și genunchii în semn de respect la intrare.",
+            "en": "Discover the peaceful ambiance of this local Christian landmark, keeping your shoulders and knees covered as a sign of respect when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pao Kong Shrine",
+            "hu": "Pao Kong Shrine",
+            "ro": "Pao Kong Shrine",
+            "en": "Pao Kong Shrine"
+          },
+          "coords": [
+            99.601643,
+            7.555949
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem kunstvollen Schrein in das sino-thailändische Erbe ein und betrachten Sie die feinen Drachenmotive an den Säulen.",
+            "hu": "Merüljön el a kínai-thai örökségben ennél a díszes szentélynél, időt szánva a tartóoszlopok finom sárkánymotívumainak megfigyelésére.",
+            "ro": "Lăsați-vă captivat de moștenirea sino-thailandeză la acest altar ornamentat, alocând timp pentru a observa motivele delicate cu dragoni de pe stâlpi.",
+            "en": "Immerse yourself in the vibrant Sino-Thai heritage at this ornate shrine, taking time to observe the delicate dragon motifs on the pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Cinta Garden",
+            "hu": "Cinta Garden",
+            "ro": "Cinta Garden",
+            "en": "Cinta Garden"
+          },
+          "coords": [
+            99.619548,
+            7.557981
+          ],
+          "category": "cultural",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser charmanten urbanen Oase und holen Sie sich einen Eiskaffee aus dem nahegelegenen Café für eine Pause auf der Bank.",
+            "hu": "Pihenjen meg ebben a bájos, parkosított városi oázisban, és vegyen egy frissítő jegeskávét a közeli kávézóban, amit egy árnyékos padon fogyaszthat el.",
+            "ro": "Relaxați-vă în această oază urbană amenajată cu farmec, luând o cafea cu gheață de la o cafenea din apropiere pentru a o savura pe o bancă la umbră.",
+            "en": "Relax in this charmingly landscaped urban oasis, picking up a refreshing iced coffee from the nearby cafe to enjoy on a shaded bench."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ausgehend vom Dugong Circle erreichen wir am Morgen bequem das kunstvolle Wat Kut und den Tha Kong Yea Schrein. Wenn es wärmer wird, bietet die klimatisierte 3/2 Gallery kulturelle Abkühlung. Nachmittags fahren wir am Uhrenturm vorbei, um die Kirche von Trang und den Pao Kong Schrein zu erkunden. Die Fahrt endet perfekt mit einem abendlichen Spaziergang im Cinta Garden.",
+        "hu": "A Dugong-körforgalomtól elindulva a friss reggeli levegőn könnyedén elérjük a Wat Kut és a Tha Kong Yea szentélyt. Ahogy melegszik az idő, a 3/2 Galéria légkondicionált terei nyújtanak kulturális feltöltődést. Ebéd után az óratorony, majd a Trangi templom és a Pao Kong szentély következik. Az autós túra esti sétával zárul a Cinta Gardenben.",
+        "ro": "Plecând de la Sensul Giratoriu Dugong, accesăm ușor Wat Kut și Altarul Tha Kong Yea în aerul proaspăt al dimineții. Pe măsură ce ziua se încălzește, Galeria 3/2 ne oferă o imersiune culturală răcoroasă. După-amiaza, trecem pe lângă Turnul cu Ceas și explorăm Biserica din Trang și Altarul Pao Kong. Excursia auto se încheie perfect cu o plimbare în Grădina Cinta.",
+        "en": "Driving out from Dugong Circle, we easily access the ornate Wat Kut and Tha Kong Yea Shrine in the crisp morning air. As the day warms up, the air-conditioned spaces of the 3/2 Gallery provide cultural immersion. Post-lunch, we drive by the central Clock Tower and explore both the Trang Church and Pao Kong Shrine. The road trip perfectly wraps up with an evening stroll and drinks at Cinta Garden."
+      }
+    }
+  }
+}

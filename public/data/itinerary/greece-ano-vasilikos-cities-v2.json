@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-ano-vasilikos-cities-v2",
+  "anchor": {
+    "name": "Ano Vasilikos",
+    "coords": [
+      20.96871,
+      37.73249
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Zoro",
+            "hu": "Porto Zoro",
+            "ro": "Porto Zoro",
+            "en": "Porto Zoro"
+          },
+          "coords": [
+            20.960642,
+            37.739774
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartigen Felsformationen am Ende des Strandes für ein malerisches Bad, aber denken Sie an Badeschuhe für den leicht felsigen Einstieg.",
+            "hu": "Élvezze a part végén található egyedi sziklaalakzatokat egy festői úszás során, de ne felejtsen el vízi cipőt hozni a kissé köves vízbejutás megkönnyítésére.",
+            "ro": "Bucurați-vă de formațiunile stâncoase unice de la capătul plajei pentru o înotare pitorească, dar amintiți-vă să aduceți pantofi de apă pentru o intrare sigură.",
+            "en": "Enjoy the unique rock formations at the end of the beach for a scenic swim, but remember to bring water shoes to navigate the slightly rocky entrance safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Banana Beach",
+            "hu": "Banana Beach",
+            "ro": "Banana Beach",
+            "en": "Banana Beach"
+          },
+          "coords": [
+            20.976471,
+            37.733479
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Dieser lebhafte Küstenabschnitt bietet kristallklares, flaches Wasser zum Entspannen; kommen Sie früh, um eine bequeme Sonnenliege vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Ez a nyüzsgő partszakasz kristálytiszta, sekély vizével ideális a pihenéshez, ezért érkezzen korán, hogy még a délutáni tömeg előtt kényelmes napágyat szerezzen.",
+            "ro": "Această fâșie vibrantă oferă ape cristaline și puțin adânci, ideale pentru relaxare, așa că ajungeți devreme pentru a prinde un șezlong confortabil înainte de aglomerație.",
+            "en": "This vibrant stretch offers crystal-clear shallow waters ideal for relaxing, so arrive early to secure a comfortable sunbed before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaka/Peribolakia",
+            "hu": "Plaka/Peribolakia",
+            "ro": "Plaka/Peribolakia",
+            "en": "Plaka/Peribolakia"
+          },
+          "coords": [
+            20.987076,
+            37.729878
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige natürliche Schönheit dieses stillen Küstenstreifens abseits der belebten Resorts und packen Sie ein Picknick ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Csodálja meg a nyüzsgő üdülőhelyektől távol eső csendes partszakasz békés természeti szépségét, és csomagoljon be egy kis pikniket, mivel a környékbeli szolgáltatások korlátozottak.",
+            "ro": "Admirați frumusețea naturală senină a acestui loc de coastă liniștit, departe de stațiunile aglomerate, și pregătiți un mic picnic, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Take in the serene natural beauty of this quiet coastal spot away from the bustling resorts, and pack a light picnic since nearby amenities are fairly limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas Strand",
+            "hu": "St. Nicholas strand",
+            "ro": "Plaja St. Nicholas",
+            "en": "St. Nicholas Beach"
+          },
+          "coords": [
+            20.989705,
+            37.727568
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die hervorragenden Wassersportmöglichkeiten dieses Sandparadieses und verpassen Sie nicht die Chance, am klaren, sanften Küstenrand zu schnorcheln.",
+            "hu": "Vesse bele magát a kiváló vízisport-lehetőségekbe ezen a homokos paradicsomon, és ne hagyja ki a sznorkelezést a tiszta, lankás part menti vizekben.",
+            "ro": "Pătrundeți în oportunitățile excelente de sporturi nautice de pe acest paradis de nisip și nu ratați șansa de a face snorkeling în jurul marginii de coastă limpezi.",
+            "en": "Dive into the excellent water sports opportunities available at this sandy paradise, and don't miss the chance to try snorkeling around the clear, gentle coastal edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauratzes",
+            "hu": "Mauratzes",
+            "ro": "Mauratzes",
+            "en": "Mauratzes"
+          },
+          "coords": [
+            20.987761,
+            37.7211
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie den rauen Charme dieses weniger bekannten Abschnitts für einen friedlichen Rückzugsort, wobei der unbefestigte Zugang robustes und bequemes Schuhwerk erfordert.",
+            "hu": "Tapasztalja meg ennek a kevésbé ismert szakasznak a zord varázsát egy békés elvonuláshoz, és tartsa szem előtt, hogy a burkolatlan megközelítéshez kényelmes cipő szükséges.",
+            "ro": "Experimentați farmecul aspru al acestei zone mai puțin cunoscute pentru o retragere liniștită, ținând cont că accesul neasfaltat necesită încălțăminte robustă și confortabilă.",
+            "en": "Experience the rugged charm of this lesser-known stretch for a peaceful retreat, keeping in mind that the unpaved approach requires sturdy and comfortable footwear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Besuch am Porto Zoro, wo spektakuläre Felsen auf das klare Ionische Meer treffen. Das ruhige Wasser weckt Ihre Sinne für den Tag.\n\nMittags schlendern wir zum berühmten Banana Beach. Die lebhafte Atmosphäre fängt den Sommer auf der griechischen Insel perfekt ein, mit viel Sonnenschein und Küstencharme.\n\nAm Nachmittag wandern wir weiter nach Osten zu den ruhigeren Stränden Plaka und Peribolakia. Hier können Sie wunderbar entspannen und dem beruhigenden Rauschen der Wellen lauschen.\n\nDer Abend nähert sich am St. Nicholas Beach, bevor wir den Sonnenuntergang über der rauen Landschaft von Mauratzes beobachten und diesen herrlichen Küstentag ausklingen lassen.",
+        "hu": "A reggel egy frissítő látogatással indul Porto Zorovál, ahol látványos sziklaalakzatok találkoznak a tiszta Jón-tengerrel. A nyugodt víz tökéletes a nap indításához.\n\nDélben a híres Banana Beach felé sétálunk. Az itteni pezsgő hangulat tökéletesen megragadja a görög szigetek nyári hangulatát, rengeteg napsütéssel és bájjal.\n\nDélután kelet felé, a csendesebb Plaka és Peribolakia strandok felé vesszük az irányt. Ezek a nyugodt szakaszok kiváló lehetőséget nyújtanak a csendes elmélkedésre a tengerparton.\n\nAz este a St. Nicholas strandnál közeleg, végül a naplementét Mauratzes zord és autentikus tájain csodálhatjuk meg, ami tökéletes befejezése a tengerparti sétának.",
+        "ro": "Dimineața începe cu o vizită revigorantă la Porto Zoro, unde formațiunile stâncoase spectaculoase întâlnesc Marea Ionică. Apele calme ale dimineții sunt perfecte pentru a vă trezi simțurile.\n\nLa amiază ne plimbăm spre renumita plajă Banana Beach. Atmosfera vibrantă de aici surprinde perfect spiritul verii pe o insulă grecească, cu mult soare și farmec de coastă.\n\nDupă-amiaza, mergem mai departe spre est, spre Plaka și Peribolakia. Aceste zone cu nisip mai liniștite oferă un contrast fantastic, permițând o relaxare pașnică pe plajă.\n\nSeara se apropie în timp ce vizităm plaja St. Nicholas, înainte de a privi apusul soarelui peste peisajul autentic din Mauratzes, încheind o frumoasă zi de coastă pe jos.",
+        "en": "Morning starts with a refreshing visit to Porto Zoro, where spectacular rock formations meet the crystal-clear Ionian Sea. The calm morning waters are perfect for a gentle swim to awaken your senses.\n\nMidday takes us strolling towards the renowned Banana Beach. The vibrant atmosphere here perfectly captures the Greek island summer spirit, with plenty of sunshine and coastal charm to enjoy.\n\nIn the afternoon, we walk further east to Plaka and Peribolakia. These quieter sandy stretches offer a fantastic contrast, allowing for peaceful reflection while listening to the soothing waves.\n\nEvening approaches as we visit St. Nicholas Beach, before finally watching the sun lower over the rugged, authentic landscape of Mauratzes, concluding a beautiful coastal day on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Meeresschildkröten-Ausstellung",
+            "hu": "Tengeriteknős-kiállítás",
+            "ro": "Expoziția Țestoaselor Marine",
+            "en": "Sea Turtle Exibition"
+          },
+          "coords": [
+            20.945823,
+            37.729964
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierenden Schutzbemühungen für die gefährdeten Unechten Karettschildkröten; beachten Sie die interaktiven Displays, die für jedes Alter toll sind.",
+            "hu": "Ismerje meg a veszélyeztetett álcserepesteknősök lenyűgöző védelmi erőfeszítéseit, és mindenképpen tekintse meg a minden korosztály számára nagyszerű interaktív kiállításokat.",
+            "ro": "Aflați despre eforturile fascinante de conservare a țestoaselor Caretta-Caretta pe cale de dispariție și asigurați-vă că vizitați ecranele interactive excelente pentru toate vârstele.",
+            "en": "Learn about the fascinating conservation efforts for the endangered Caretta-Caretta turtles, and be sure to check the interactive displays which are great for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Zoro",
+            "hu": "Porto Zoro",
+            "ro": "Porto Zoro",
+            "en": "Porto Zoro"
+          },
+          "coords": [
+            20.960642,
+            37.739774
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartigen Felsformationen am Ende des Strandes für ein malerisches Bad, aber denken Sie an Badeschuhe für den leicht felsigen Einstieg.",
+            "hu": "Élvezze a part végén található egyedi sziklaalakzatokat egy festői úszás során, de ne felejtsen el vízi cipőt hozni a kissé köves vízbejutás megkönnyítésére.",
+            "ro": "Bucurați-vă de formațiunile stâncoase unice de la capătul plajei pentru o înotare pitorească, dar amintiți-vă să aduceți pantofi de apă pentru o intrare sigură.",
+            "en": "Enjoy the unique rock formations at the end of the beach for a scenic swim, but remember to bring water shoes to navigate the slightly rocky entrance safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Banana Beach",
+            "hu": "Banana Beach",
+            "ro": "Banana Beach",
+            "en": "Banana Beach"
+          },
+          "coords": [
+            20.976471,
+            37.733479
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Dieser lebhafte Küstenabschnitt bietet kristallklares, flaches Wasser zum Entspannen; kommen Sie früh, um eine bequeme Sonnenliege vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Ez a nyüzsgő partszakasz kristálytiszta, sekély vizével ideális a pihenéshez, ezért érkezzen korán, hogy még a délutáni tömeg előtt kényelmes napágyat szerezzen.",
+            "ro": "Această fâșie vibrantă oferă ape cristaline și puțin adânci, ideale pentru relaxare, așa că ajungeți devreme pentru a prinde un șezlong confortabil înainte de aglomerație.",
+            "en": "This vibrant stretch offers crystal-clear shallow waters ideal for relaxing, so arrive early to secure a comfortable sunbed before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaka/Peribolakia",
+            "hu": "Plaka/Peribolakia",
+            "ro": "Plaka/Peribolakia",
+            "en": "Plaka/Peribolakia"
+          },
+          "coords": [
+            20.987076,
+            37.729878
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige natürliche Schönheit dieses stillen Küstenstreifens abseits der belebten Resorts und packen Sie ein Picknick ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Csodálja meg a nyüzsgő üdülőhelyektől távol eső csendes partszakasz békés természeti szépségét, és csomagoljon be egy kis pikniket, mivel a környékbeli szolgáltatások korlátozottak.",
+            "ro": "Admirați frumusețea naturală senină a acestui loc de coastă liniștit, departe de stațiunile aglomerate, și pregătiți un mic picnic, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Take in the serene natural beauty of this quiet coastal spot away from the bustling resorts, and pack a light picnic since nearby amenities are fairly limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas Strand",
+            "hu": "St. Nicholas strand",
+            "ro": "Plaja St. Nicholas",
+            "en": "St. Nicholas Beach"
+          },
+          "coords": [
+            20.989705,
+            37.727568
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die hervorragenden Wassersportmöglichkeiten dieses Sandparadieses und verpassen Sie nicht die Chance, am klaren, sanften Küstenrand zu schnorcheln.",
+            "hu": "Vesse bele magát a kiváló vízisport-lehetőségekbe ezen a homokos paradicsomon, és ne hagyja ki a sznorkelezést a tiszta, lankás part menti vizekben.",
+            "ro": "Pătrundeți în oportunitățile excelente de sporturi nautice de pe acest paradis de nisip și nu ratați șansa de a face snorkeling în jurul marginii de coastă limpezi.",
+            "en": "Dive into the excellent water sports opportunities available at this sandy paradise, and don't miss the chance to try snorkeling around the clear, gentle coastal edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauratzes",
+            "hu": "Mauratzes",
+            "ro": "Mauratzes",
+            "en": "Mauratzes"
+          },
+          "coords": [
+            20.987761,
+            37.7211
+          ],
+          "category": "recreational",
+          "arrive_at": "16:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie den rauen Charme dieses weniger bekannten Abschnitts für einen friedlichen Rückzugsort, wobei der unbefestigte Zugang robustes und bequemes Schuhwerk erfordert.",
+            "hu": "Tapasztalja meg ennek a kevésbé ismert szakasznak a zord varázsát egy békés elvonuláshoz, és tartsa szem előtt, hogy a burkolatlan megközelítéshez kényelmes cipő szükséges.",
+            "ro": "Experimentați farmecul aspru al acestei zone mai puțin cunoscute pentru o retragere liniștită, ținând cont că accesul neasfaltat necesită încălțăminte robustă și confortabilă.",
+            "en": "Experience the rugged charm of this lesser-known stretch for a peaceful retreat, keeping in mind that the unpaved approach requires sturdy and comfortable footwear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Meeresschildkröten-Ausstellung mit Einblicken in den lokalen Naturschutz. Ein inspirierender Start, bevor es auf die malerischen Küstenstraßen geht.\n\nMittags radeln wir nach Porto Zoro für ein wohlverdientes Bad. Danach bietet der lebhafte Banana Beach den perfekten Ort, um Energie zu tanken und die Sonne zu genießen.\n\nAm Nachmittag führt die Radtour weiter nach Osten zu Plaka und Peribolakia. Die sanfte Meeresbrise macht das Radfahren hier zu einem wahren Vergnügen entlang der Küste.\n\nDer Abend beginnt am St. Nicholas Beach, gefolgt von einer letzten, ruhigen Fahrt nach Mauratzes, wo die raue Küstenlinie im schwindenden Licht golden erstrahlt.",
+        "hu": "A reggel a Tengeriteknős-kiállításon indul, elmerülve a helyi természetvédelmi erőfeszítésekben. Inspiráló kezdet, mielőtt nekivágnánk a festői tengerparti utaknak.\n\nDélben Porto Zoro felé tekerünk egy jól megérdemelt fürdőzésre. Ezt követően a Banana Beach nyüzsgő partjai tökéletes helyszínt kínálnak a feltöltődésre.\n\nDélután a kerékpártúra kelet felé folytatódik Plaka és Peribolakia irányába. A lágy tengeri szellő és a csendes partszakaszok nyugalmában öröm itt tekerni.\n\nAz este a St. Nicholas strandnál köszönt ránk, végül egy utolsó, békés pedálozás vár ránk Mauratzes felé, ahol a zord partvonal aranyba borul a lemenő nap fényében.",
+        "ro": "Dimineața începe la Expoziția Țestoaselor Marine, unde aflăm despre conservarea locală. Este un start plin de inspirație înainte de a porni pe drumurile pitorești de coastă.\n\nLa amiază, pedalăm spre Porto Zoro pentru o baie binemeritată. După aceea, țărmurile pline de viață ale plajei Banana Beach oferă un loc perfect pentru a vă reîncărca.\n\nDupă-amiaza, plimbarea cu bicicleta continuă spre est către Plaka și Peribolakia. Briza blândă a mării face din ciclism aici o bucurie, potrivindu-se cu liniștea acestor locuri.\n\nSeara se instalează la St. Nicholas Beach, urmată de o ultimă pedalare senină spre Mauratzes, unde coasta aspră capătă nuanțe aurii în lumina apusului.",
+        "en": "Morning kicks off at the Sea Turtle Exhibition, diving deep into local conservation efforts for the Caretta-Caretta. It’s an inspiring start before hitting the scenic coastal roads.\n\nMidday, we cycle down to Porto Zoro for a well-deserved swim near the striking coastal rocks. Following that, the lively shores of Banana Beach offer a perfect place to recharge.\n\nIn the afternoon, the bike ride continues eastwards to Plaka and Peribolakia. The gentle sea breeze makes cycling here a joy, matching the tranquility of these quieter stretches.\n\nEvening sets in at St. Nicholas Beach with its water sports buzz, followed by a final, serene pedal to Mauratzes, where the rugged coastline turns golden in the fading light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Agnadi",
+            "hu": "Agnadi",
+            "ro": "Agnadi",
+            "en": "Agnadi"
+          },
+          "coords": [
+            20.947056,
+            37.745304
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an diesem malerischen natürlichen Aussichtspunkt mit weitem Blick auf das Ionische Meer, der perfekte Ort für frühe Urlaubsfotos.",
+            "hu": "Élvezze a nyugodt pillanatot ezen a festői természeti kilátóponton, amely széles kilátást nyújt a Jón-tengerre, így tökéletes helyszín a legjobb nyaralási fotók elkészítéséhez.",
+            "ro": "Bucurați-vă de un moment liniștit la acest punct de belvedere natural pitoresc, care oferă vederi ample asupra Mării Ionice, fiind locul perfect pentru a surprinde cele mai bune fotografii.",
+            "en": "Enjoy a tranquil moment at this scenic natural overlook offering sweeping views of the Ionian Sea, making it the perfect spot to capture your best holiday photographs early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Kaminia",
+            "hu": "Porto Kaminia",
+            "ro": "Porto Kaminia",
+            "en": "Porto Kaminia"
+          },
+          "coords": [
+            20.953812,
+            37.743223
+          ],
+          "category": "recreational",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen Sandstränden mit flachem Wasser, perfekt für Familien, und holen Sie sich ein erfrischendes lokales Getränk von der nahegelegenen Strandbar.",
+            "hu": "Pihenjen a puha homokos parton, amelynek sekély vize tökéletes a családok számára, és igyon egy frissítő helyi italt a közeli strandbárban a meleg mediterrán napsütésben.",
+            "ro": "Relaxați-vă pe țărmurile cu nisip fin și ape puțin adânci perfecte pentru familii, și savurați o băutură locală răcoritoare de la barul din apropiere sub soarele cald mediteranean.",
+            "en": "Relax on the soft sandy shores with shallow waters perfect for families, and grab a refreshing local drink from the nearby beach bar while soaking up the warm Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourdere",
+            "hu": "Bourdere",
+            "ro": "Bourdere",
+            "en": "Bourdere"
+          },
+          "coords": [
+            20.956309,
+            37.742123
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das ungestörtes Sonnenbaden abseits der Massen verspricht, aber bringen Sie einen Schirm mit, da natürlicher Schatten hier sehr selten ist.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, amely békés napozást ígér távol a tömegtől, bár érdemes saját napernyőt hozni, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă care promite o baie de soare senină departe de mulțimi, deși ar trebui să aduceți propria umbrelă, deoarece umbra naturală este destul de rară.",
+            "en": "Discover this hidden coastal gem that promises serene sunbathing away from the crowds, though you should bring your own umbrella as natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresschildkröten-Ausstellung",
+            "hu": "Tengeriteknős-kiállítás",
+            "ro": "Expoziția Țestoaselor Marine",
+            "en": "Sea Turtle Exibition"
+          },
+          "coords": [
+            20.945823,
+            37.729964
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierenden Schutzbemühungen für die gefährdeten Unechten Karettschildkröten; beachten Sie die interaktiven Displays, die für jedes Alter toll sind.",
+            "hu": "Ismerje meg a veszélyeztetett álcserepesteknősök lenyűgöző védelmi erőfeszítéseit, és mindenképpen tekintse meg a minden korosztály számára nagyszerű interaktív kiállításokat.",
+            "ro": "Aflați despre eforturile fascinante de conservare a țestoaselor Caretta-Caretta pe cale de dispariție și asigurați-vă că vizitați ecranele interactive excelente pentru toate vârstele.",
+            "en": "Learn about the fascinating conservation efforts for the endangered Caretta-Caretta turtles, and be sure to check the interactive displays which are great for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Zoro",
+            "hu": "Porto Zoro",
+            "ro": "Porto Zoro",
+            "en": "Porto Zoro"
+          },
+          "coords": [
+            20.960642,
+            37.739774
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartigen Felsformationen am Ende des Strandes für ein malerisches Bad, aber denken Sie an Badeschuhe für den leicht felsigen Einstieg.",
+            "hu": "Élvezze a part végén található egyedi sziklaalakzatokat egy festői úszás során, de ne felejtsen el vízi cipőt hozni a kissé köves vízbejutás megkönnyítésére.",
+            "ro": "Bucurați-vă de formațiunile stâncoase unice de la capătul plajei pentru o înotare pitorească, dar amintiți-vă să aduceți pantofi de apă pentru o intrare sigură.",
+            "en": "Enjoy the unique rock formations at the end of the beach for a scenic swim, but remember to bring water shoes to navigate the slightly rocky entrance safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Banana Beach",
+            "hu": "Banana Beach",
+            "ro": "Banana Beach",
+            "en": "Banana Beach"
+          },
+          "coords": [
+            20.976471,
+            37.733479
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Dieser lebhafte Küstenabschnitt bietet kristallklares, flaches Wasser zum Entspannen; kommen Sie früh, um eine bequeme Sonnenliege vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Ez a nyüzsgő partszakasz kristálytiszta, sekély vizével ideális a pihenéshez, ezért érkezzen korán, hogy még a délutáni tömeg előtt kényelmes napágyat szerezzen.",
+            "ro": "Această fâșie vibrantă oferă ape cristaline și puțin adânci, ideale pentru relaxare, așa că ajungeți devreme pentru a prinde un șezlong confortabil înainte de aglomerație.",
+            "en": "This vibrant stretch offers crystal-clear shallow waters ideal for relaxing, so arrive early to secure a comfortable sunbed before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas Strand",
+            "hu": "St. Nicholas strand",
+            "ro": "Plaja St. Nicholas",
+            "en": "St. Nicholas Beach"
+          },
+          "coords": [
+            20.989705,
+            37.727568
+          ],
+          "category": "recreational",
+          "arrive_at": "16:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die hervorragenden Wassersportmöglichkeiten dieses Sandparadieses und verpassen Sie nicht die Chance, am klaren, sanften Küstenrand zu schnorcheln.",
+            "hu": "Vesse bele magát a kiváló vízisport-lehetőségekbe ezen a homokos paradicsomon, és ne hagyja ki a sznorkelezést a tiszta, lankás part menti vizekben.",
+            "ro": "Pătrundeți în oportunitățile excelente de sporturi nautice de pe acest paradis de nisip și nu ratați șansa de a face snorkeling în jurul marginii de coastă limpezi.",
+            "en": "Dive into the excellent water sports opportunities available at this sandy paradise, and don't miss the chance to try snorkeling around the clear, gentle coastal edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt mit dem weiten Blick vom Aussichtspunkt Agnadi, gefolgt von einem entspannten Halt am familienfreundlichen, flachen Wasser von Porto Kaminia.\n\nMittags entdecken wir den verborgenen Charme von Bourdere, bevor wir zur informativen Meeresschildkröten-Ausstellung fahren, die unserem Tag ökologisches Wissen verleiht.\n\nAm Nachmittag führt die Route an der Küste entlang nach Porto Zoro und zum lebhaften Banana Beach. Mit dem Auto ist der Wechsel zwischen diesen Buchten mühelos.\n\nDer Abend wird in der lebhaften Atmosphäre des St. Nicholas Beach verbracht. Die Dämmerungsfarben über dem Ionischen Meer bieten das perfekte Ende unseres Roadtrips.",
+        "hu": "A reggeli autózás az Agnadi természetes kilátópontjánál kezdődik, melyet egy pihentető megálló követ Porto Kaminia családbarát, sekély vizeinél.\n\nA déli felfedezés során rátalálunk Bourdere rejtett bájára, majd a Tengeriteknős-kiállítás felé vesszük az irányt, amely ökológiai ismeretekkel gazdagítja a napot.\n\nDélután az utazás a part mentén folytatódik Porto Zoro és a nyüzsgő Banana Beach felé. Autóval könnyedén ugrálhatunk ezek között a csodálatos tengerparti pontok között.\n\nAz estét a St. Nicholas strand nyüzsgő hangulatában töltjük. A Jón-tengeren tükröződő alkonyati színek tökéletes befejezést nyújtanak ennek a tengerparti autós túrának.",
+        "ro": "Plimbarea de dimineață începe cu priveliști ample la punctul de belvedere Agnadi, urmată de o oprire relaxantă la apele puțin adânci ale Porto Kaminia.\n\nExplorarea de la amiază dezvăluie farmecul ascuns din Bourdere înainte de a conduce la Expoziția Țestoaselor Marine, adăugând o notă de învățare ecologică zilei noastre.\n\nDupă-amiaza, călătoria urmează coasta spre Porto Zoro și apoi spre vibranta plajă Banana Beach. Cu mașina, trecerea între aceste locuri distincte este fără efort.\n\nSeara este petrecută bucurându-ne de atmosfera plină de viață la St. Nicholas Beach. Culorile amurgului reflectate pe Marea Ionică oferă un final perfect călătoriei noastre.",
+        "en": "Morning driving begins with sweeping views at the Agnadi natural overlook, followed by a relaxing stop at the family-friendly, shallow waters of Porto Kaminia.\n\nMidday exploration uncovers the hidden charm of Bourdere before we drive to the informative Sea Turtle Exhibition, adding a touch of cultural and ecological learning to our day.\n\nIn the afternoon, the journey hugs the coast towards Porto Zoro and then the vibrant Banana Beach. Having a car makes hopping between these distinct coastal spots effortless.\n\nEvening is spent enjoying the lively atmosphere at St. Nicholas Beach. Watching the twilight colors reflect on the Ionian Sea offers a perfect end to our coastal road trip."
+      }
+    }
+  }
+}

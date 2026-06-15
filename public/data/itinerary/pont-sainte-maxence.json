@@ -1,0 +1,451 @@
+{
+  "city_id": "pont-sainte-maxence",
+  "anchor": {
+    "name": "Pont-Sainte-Maxence",
+    "coords": [
+      2.6036,
+      49.3011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Maxence Church",
+            "hu": "Sainte-Maxence Church",
+            "ro": "Sainte-Maxence Church",
+            "en": "Sainte-Maxence Church"
+          },
+          "coords": [
+            2.604584,
+            49.301248
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie auf die bunten Glasfenster, aber kommen Sie früh, um Menschenmengen zu meiden.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét és az aprólékos ólomüveg ablakokat, de érkezzen korán, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici centrale și căutați vitraliile complexe, dar sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the striking gothic architecture of this central church and look for its intricate stained glass details, but arrive early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye royale du Moncel",
+            "hu": "Abbaye royale du Moncel",
+            "ro": "Abbaye royale du Moncel",
+            "en": "Abbaye royale du Moncel"
+          },
+          "coords": [
+            2.614899,
+            49.302353
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Anlagen und mittelalterlichen Säle der königlichen Abtei und tragen Sie bequeme Schuhe für die unebenen historischen Steinwege.",
+            "hu": "Fedezze fel a királyi apátság hatalmas területét és középkori termeit, de mindenképpen kényelmes cipőt viseljen az egyenetlen, ősi kövekkel kirakott utakon.",
+            "ro": "Explorați domeniul vast și sălile medievale ale acestei abații regale, asigurându-vă că purtați încălțăminte comodă pentru aleile vechi de piatră denivelate.",
+            "en": "Explore the sprawling grounds and preserved medieval halls of this royal abbey, making sure to wear comfortable walking shoes for the uneven ancient stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gervais",
+            "hu": "Église Saint-Gervais",
+            "ro": "Église Saint-Gervais",
+            "en": "Église Saint-Gervais"
+          },
+          "coords": [
+            2.639958,
+            49.299649
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um ihre historische Atmosphäre zu genießen, und bringen Sie eine Kamera mit, um die charmante traditionelle Fassade festzuhalten.",
+            "hu": "Lépjen be ebbe a csendes helyi templomba, hogy átérezze annak történelmi hangulatát, és hozzon magával fényképezőgépet a bájos hagyományos homlokzat megörökítéséhez.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a-i aprecia ambianța istorică și luați un aparat foto pentru a surprinde fațada sa tradițională fermecătoare.",
+            "en": "Step inside this tranquil local church to appreciate its quiet historical ambiance, and consider bringing a camera to capture the charming traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Lucien",
+            "hu": "Église Saint-Lucien",
+            "ro": "Église Saint-Lucien",
+            "en": "Église Saint-Lucien"
+          },
+          "coords": [
+            2.622128,
+            49.315949
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit dieses älteren Heiligtums, wobei zu beachten ist, dass es nur unregelmäßig öffnet und oft das Äußere das Highlight ist.",
+            "hu": "Fedezze fel ennek a régi szentélynek a nyugodt szépségét a környéken, de vegye figyelembe, hogy ritkán van nyitva, így főként a külseje nyújt igazi élményt.",
+            "ro": "Descoperiți frumusețea senină a acestui vechi sanctuar ascuns în cartier, notând că se deschide sporadic, așa că exteriorul rămâne atracția principală.",
+            "en": "Discover the serene beauty of this older sanctuary tucked away in the neighborhood, noting that it opens sporadically so viewing the exterior is the main highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            2.600125,
+            49.316485
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Juwel, um sein robustes Design zu betrachten, und ruhen Sie sich nach der Erkundung in den nahegelegenen schattigen Bereichen aus.",
+            "hu": "Látogassa meg ezt a történelmi építészeti gyöngyszemet a masszív szerkezete miatt, és pihenjen meg a közeli árnyékos helyeken, miután körbejárta az épületet.",
+            "ro": "Vizitați această bijuterie arhitecturală istorică pentru designul său robust și odihniți-vă în zonele umbrite din apropiere după ce ați explorat perimetrul.",
+            "en": "Visit this historic architectural gem to observe its robust structural design, and take a moment to rest in the nearby shaded spots after exploring its perimeter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit der gotischen Schönheit der Kirche Sainte-Maxence direkt im Zentrum. Danach geht es nahtlos zur Pracht der nahegelegenen königlichen Abtei über.\nDer Mittag widmet sich den ruhigeren, historischen Wegen. Der Spaziergang zur Église Saint-Gervais bietet charmante Einblicke in die lokalen Straßen fernab des Trubels.\nAm Nachmittag führt der Weg zur Église Saint-Lucien. Dieses verborgene Juwel offenbart das tief verwurzelte architektonische Erbe der Stadt in einer heiteren Atmosphäre.\nIhre Tour endet an der Église Saint-Georges im späten Nachmittagslicht. Ein perfekter und stimmungsvoller Abschluss für diesen sehr historischen und kulturellen Spaziergang.",
+        "hu": "A délelőtt a központi Sainte-Maxence templom gótikus szépségével indul. A helyi történelem megismerése után könnyedén átsétálhat a közeli, lenyűgöző királyi apátságba.\nA délben a csendesebb, történelmi vallási utakat fedezzük fel. Az Église Saint-Gervais felé vezető séta bájos bepillantást enged a fő turistaáramlástól távolabb eső utcákba.\nDélután a séta az Église Saint-Lucien felé folytatódik. Ez a rejtett gyöngyszem nyugodt atmoszférával mutatja be a város mélyen gyökerező építészeti örökségét.\nUtazása az Église Saint-Georges-nál ér véget, ahogy a késő délutáni nap hosszú árnyékokat vet a kövekre. Ez a tökéletes befejezése egy mélyen történelmi gyalogtúrának.",
+        "ro": "Dimineața începe cu frumusețea gotică a Bisericii Sainte-Maxence chiar în centru. După ce asimilați istoria locală, veți trece ușor la măreția abației regale din apropiere.\nMiezul zilei este dedicat străbaterii căilor religioase istorice mai liniștite. Mersul spre Église Saint-Gervais oferă o vedere fermecătoare a străzilor locale departe de agitație.\nDupă-amiaza, plimbarea continuă spre Église Saint-Lucien. Această bijuterie ascunsă dezvăluie moștenirea arhitecturală adânc înrădăcinată a orașului, oferind o atmosferă senină.\nCălătoria se încheie la Église Saint-Georges în lumina târzie a după-amiezii. Este finalul perfect pentru un tur de mers pe jos profund istoric și plin de descoperiri.",
+        "en": "Your morning starts with the gothic beauty of Sainte-Maxence Church right in the center. After soaking in the local history, you will easily transition to the grandeur of the nearby royal abbey.\nMidday is dedicated to tracing the quieter, historic religious paths. Walking toward Église Saint-Gervais provides a charming view of local streets away from the main tourist flow.\nIn the afternoon, the walk continues to Église Saint-Lucien. This hidden gem reveals the deeply rooted architectural heritage of the town, offering a serene atmosphere.\nYour journey concludes at Église Saint-Georges as the late afternoon sun casts long shadows over the stonework. It is the perfect end to a deeply historical walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Maxence Church",
+            "hu": "Sainte-Maxence Church",
+            "ro": "Sainte-Maxence Church",
+            "en": "Sainte-Maxence Church"
+          },
+          "coords": [
+            2.604584,
+            49.301248
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie auf die bunten Glasfenster, aber kommen Sie früh, um Menschenmengen zu meiden.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét és az aprólékos ólomüveg ablakokat, de érkezzen korán, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici centrale și căutați vitraliile complexe, dar sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the striking gothic architecture of this central church and look for its intricate stained glass details, but arrive early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye royale du Moncel",
+            "hu": "Abbaye royale du Moncel",
+            "ro": "Abbaye royale du Moncel",
+            "en": "Abbaye royale du Moncel"
+          },
+          "coords": [
+            2.614899,
+            49.302353
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Anlagen und mittelalterlichen Säle der königlichen Abtei und tragen Sie bequeme Schuhe für die unebenen historischen Steinwege.",
+            "hu": "Fedezze fel a királyi apátság hatalmas területét és középkori termeit, de mindenképpen kényelmes cipőt viseljen az egyenetlen, ősi kövekkel kirakott utakon.",
+            "ro": "Explorați domeniul vast și sălile medievale ale acestei abații regale, asigurându-vă că purtați încălțăminte comodă pentru aleile vechi de piatră denivelate.",
+            "en": "Explore the sprawling grounds and preserved medieval halls of this royal abbey, making sure to wear comfortable walking shoes for the uneven ancient stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gervais",
+            "hu": "Église Saint-Gervais",
+            "ro": "Église Saint-Gervais",
+            "en": "Église Saint-Gervais"
+          },
+          "coords": [
+            2.639958,
+            49.299649
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um ihre historische Atmosphäre zu genießen, und bringen Sie eine Kamera mit, um die charmante traditionelle Fassade festzuhalten.",
+            "hu": "Lépjen be ebbe a csendes helyi templomba, hogy átérezze annak történelmi hangulatát, és hozzon magával fényképezőgépet a bájos hagyományos homlokzat megörökítéséhez.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a-i aprecia ambianța istorică și luați un aparat foto pentru a surprinde fațada sa tradițională fermecătoare.",
+            "en": "Step inside this tranquil local church to appreciate its quiet historical ambiance, and consider bringing a camera to capture the charming traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Lucien",
+            "hu": "Église Saint-Lucien",
+            "ro": "Église Saint-Lucien",
+            "en": "Église Saint-Lucien"
+          },
+          "coords": [
+            2.622128,
+            49.315949
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit dieses älteren Heiligtums, wobei zu beachten ist, dass es nur unregelmäßig öffnet und oft das Äußere das Highlight ist.",
+            "hu": "Fedezze fel ennek a régi szentélynek a nyugodt szépségét a környéken, de vegye figyelembe, hogy ritkán van nyitva, így főként a külseje nyújt igazi élményt.",
+            "ro": "Descoperiți frumusețea senină a acestui vechi sanctuar ascuns în cartier, notând că se deschide sporadic, așa că exteriorul rămâne atracția principală.",
+            "en": "Discover the serene beauty of this older sanctuary tucked away in the neighborhood, noting that it opens sporadically so viewing the exterior is the main highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            2.600125,
+            49.316485
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Juwel, um sein robustes Design zu betrachten, und ruhen Sie sich nach der Erkundung in den nahegelegenen schattigen Bereichen aus.",
+            "hu": "Látogassa meg ezt a történelmi építészeti gyöngyszemet a masszív szerkezete miatt, és pihenjen meg a közeli árnyékos helyeken, miután körbejárta az épületet.",
+            "ro": "Vizitați această bijuterie arhitecturală istorică pentru designul său robust și odihniți-vă în zonele umbrite din apropiere după ce ați explorat perimetrul.",
+            "en": "Visit this historic architectural gem to observe its robust structural design, and take a moment to rest in the nearby shaded spots after exploring its perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Beaurepaire",
+            "hu": "Château de Beaurepaire",
+            "ro": "Château de Beaurepaire",
+            "en": "Château de Beaurepaire"
+          },
+          "coords": [
+            2.564897,
+            49.298168
+          ],
+          "category": "castle",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Eleganz dieses beeindruckenden Schlosses, auch wenn viele der umliegenden privaten Flächen am besten durch das Haupttor sichtbar sind.",
+            "hu": "Csodálja meg e lenyűgöző kastélybirtok klasszikus eleganciáját, de ne feledje, hogy a környező magánterületek leginkább a külső kapuk felől tekinthetők meg.",
+            "ro": "Minunați-vă de eleganța clasică a acestui castel impresionant, deși rețineți că o mare parte din domeniul privat înconjurător se vede cel mai bine de la porți.",
+            "en": "Marvel at the classical elegance of this impressive castle estate, though keep in mind that much of the surrounding private land is best viewed from the outer gates."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit der atemberaubenden Kirche Sainte-Maxence. Eine kurze Fahrt bringt Sie dann zum weitläufigen Gelände der königlichen Abtei.\nGegen Mittag radeln Sie auf malerischen Routen zur Église Saint-Gervais und Église Saint-Lucien. Das Fahrrad bietet das perfekte Tempo, um die ruhigen Vorstadtstraßen zu genießen.\nDer Nachmittag bietet eine angenehme Fahrt zur Église Saint-Georges. Hier können Sie sich am historischen Mauerwerk ausruhen, bevor die längste Etappe beginnt.\nIhr Tag endet mit einer erfrischenden Fahrt zum Château de Beaurepaire. Die majestätische klassische Architektur ist ein lohnendes und schönes Finale für diesen Ausflug.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Sainte-Maxence templomnál. Egy nagyon rövid út után a királyi apátság kiterjedt területére érkezik, amely remek indítása a napnak.\nA dél közeledtével festői utakon teker az Église Saint-Gervais és az Église Saint-Lucien felé. A kerékpározás tökéletes tempót biztosít a csendes utcák élvezetéhez.\nA délután egy kellemes utat kínál az Église Saint-Georges felé. Itt megpihenhet a történelmi épületek között, mielőtt felkészülne a túra leghosszabb kerékpáros szakaszára.\nA nap a Château de Beaurepaire felé vezető frissítő tekeréssel zárul. A fenséges klasszikus építészet igazán jutalmazó finálét nyújt, mielőtt visszaindulna.",
+        "ro": "Începeți aventura cu bicicleta la impresionanta Biserică Sainte-Maxence. O plimbare scurtă vă duce apoi pe domeniul vast al abației regale pentru un start perfect de zi.\nSpre prânz, veți pedala pe rute pitorești către Église Saint-Gervais și Église Saint-Lucien. Ciclismul oferă ritmul ideal pentru a vă bucura de străzile liniștite.\nDupă-amiaza oferă o cursă plăcută spre Église Saint-Georges. Aici vă puteți odihni admirând piatra istorică înainte de a vă pregăti pentru cea mai lungă etapă a traseului.\nZiua se încheie cu o plimbare revigorantă până la Château de Beaurepaire. Arhitectura clasică maiestuoasă reprezintă un final plin de satisfacții înainte de a vă întoarce.",
+        "en": "Begin your biking adventure with the stunning Sainte-Maxence Church. A very short ride then brings you to the expansive grounds of the Abbaye royale du Moncel to start the day right.\nAs midday approaches, you will pedal through the scenic routes to Église Saint-Gervais and Église Saint-Lucien. Cycling gives you the perfect pace to enjoy these quiet suburban streets.\nThe afternoon offers a pleasant ride to Église Saint-Georges. Here, you can rest and enjoy the historical stonework before preparing for the longest leg of your cycle journey.\nYour day wraps up with an invigorating ride out to Château de Beaurepaire. The majestic classical architecture provides a rewarding finale before heading back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 20.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Maxence Church",
+            "hu": "Sainte-Maxence Church",
+            "ro": "Sainte-Maxence Church",
+            "en": "Sainte-Maxence Church"
+          },
+          "coords": [
+            2.604584,
+            49.301248
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie auf die bunten Glasfenster, aber kommen Sie früh, um Menschenmengen zu meiden.",
+            "hu": "Csodálja meg a központi templom gótikus építészetét és az aprólékos ólomüveg ablakokat, de érkezzen korán, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici centrale și căutați vitraliile complexe, dar sosiți devreme pentru a evita aglomerația.",
+            "en": "Admire the striking gothic architecture of this central church and look for its intricate stained glass details, but arrive early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye royale du Moncel",
+            "hu": "Abbaye royale du Moncel",
+            "ro": "Abbaye royale du Moncel",
+            "en": "Abbaye royale du Moncel"
+          },
+          "coords": [
+            2.614899,
+            49.302353
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Anlagen und mittelalterlichen Säle der königlichen Abtei und tragen Sie bequeme Schuhe für die unebenen historischen Steinwege.",
+            "hu": "Fedezze fel a királyi apátság hatalmas területét és középkori termeit, de mindenképpen kényelmes cipőt viseljen az egyenetlen, ősi kövekkel kirakott utakon.",
+            "ro": "Explorați domeniul vast și sălile medievale ale acestei abații regale, asigurându-vă că purtați încălțăminte comodă pentru aleile vechi de piatră denivelate.",
+            "en": "Explore the sprawling grounds and preserved medieval halls of this royal abbey, making sure to wear comfortable walking shoes for the uneven ancient stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Beaurepaire",
+            "hu": "Château de Beaurepaire",
+            "ro": "Château de Beaurepaire",
+            "en": "Château de Beaurepaire"
+          },
+          "coords": [
+            2.564897,
+            49.298168
+          ],
+          "category": "castle",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Eleganz dieses beeindruckenden Schlosses, auch wenn viele der umliegenden privaten Flächen am besten durch das Haupttor sichtbar sind.",
+            "hu": "Csodálja meg e lenyűgöző kastélybirtok klasszikus eleganciáját, de ne feledje, hogy a környező magánterületek leginkább a külső kapuk felől tekinthetők meg.",
+            "ro": "Minunați-vă de eleganța clasică a acestui castel impresionant, deși rețineți că o mare parte din domeniul privat înconjurător se vede cel mai bine de la porți.",
+            "en": "Marvel at the classical elegance of this impressive castle estate, though keep in mind that much of the surrounding private land is best viewed from the outer gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Town Hall",
+            "hu": "Town Hall",
+            "ro": "Town Hall",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.517614,
+            49.274259
+          ],
+          "category": "civic",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Gehen Sie an diesem eleganten Bürgerhaus und Verwaltungszentrum vorbei, das sich hervorragend als zentraler und leicht erkennbarer Treffpunkt für Ihre Gruppe eignet.",
+            "hu": "Sétáljon el az adminisztratív központként működő elegáns polgármesteri hivatal mellett, és használja ezt a központi helyet kényelmes találkozási pontként.",
+            "ro": "Treceți pe lângă această clădire civică elegantă, centrul administrativ local, și folosiți acest punct central ca reper convenabil pentru întâlnirea cu grupul.",
+            "en": "Pass by this elegant civic building serving as the local administrative center, and use this central spot as a convenient landmark for meeting up with your group."
+          }
+        },
+        {
+          "name": {
+            "de": "Halatte Forest",
+            "hu": "Halatte Forest",
+            "ro": "Halatte Forest",
+            "en": "Halatte Forest"
+          },
+          "coords": [
+            2.57097,
+            49.24585
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Naturspaziergang unter den alten Bäumen dieses großen Waldes, packen Sie Wasser ein und bleiben Sie stets auf den markierten Wegen.",
+            "hu": "Tegyen egy frissítő természetjárást a hatalmas erdő ősi fái között, csomagoljon egy üveg vizet, és kövesse a jól jelzett ösvényeket a biztonságos túrázásért.",
+            "ro": "Faceți o plimbare revigorantă în natură printre copacii seculari ai acestei păduri vaste, luând o sticlă cu apă și urmând traseele marcate pentru a rămâne în siguranță.",
+            "en": "Take a refreshing nature walk among the ancient trees of this vast forest, packing a water bottle and following the well-marked trails to stay safely on the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gervais",
+            "hu": "Église Saint-Gervais",
+            "ro": "Église Saint-Gervais",
+            "en": "Église Saint-Gervais"
+          },
+          "coords": [
+            2.639958,
+            49.299649
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um ihre historische Atmosphäre zu genießen, und bringen Sie eine Kamera mit, um die charmante traditionelle Fassade festzuhalten.",
+            "hu": "Lépjen be ebbe a csendes helyi templomba, hogy átérezze annak történelmi hangulatát, és hozzon magával fényképezőgépet a bájos hagyományos homlokzat megörökítéséhez.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a-i aprecia ambianța istorică și luați un aparat foto pentru a surprinde fațada sa tradițională fermecătoare.",
+            "en": "Step inside this tranquil local church to appreciate its quiet historical ambiance, and consider bringing a camera to capture the charming traditional facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt im Zentrum an der Kirche Sainte-Maxence. Von dort ist es eine sehr kurze Fahrt zur prächtigen königlichen Abtei, um deren reiche Geschichte zu erkunden.\nMittags fahren Sie zum beeindruckenden Château de Beaurepaire. Nach der Besichtigung bringt Sie eine kurze Fahrt zum Rathaus, um die lokale Architektur zu bewundern.\nDer Nachmittag widmet sich der Natur mit einer Fahrt nach Süden zum Wald von Halatte. Hier können Sie sich die Beine vertreten und die Ruhe in den dichten Wäldern genießen.\nZum Abschluss fahren Sie an den Stadtrand, um die Église Saint-Gervais zu besuchen. Dieser ruhige Halt balanciert die Mischung aus Natur und Architektur perfekt aus.",
+        "hu": "Autós túrája a városközpontban kezdődik a Sainte-Maxence templomnál. Innen egy nagyon rövid út vezet a csodálatos királyi apátsághoz, ahol felfedezheti a gazdag történelmet.\nDélben a lenyűgöző Château de Beaurepaire felé veszi az irányt. A birtok megtekintése után egy rövid út a városházához, ahol megcsodálhatja a helyi építészetet.\nA délután a természeti szépségekről szól egy délre tartó autózással a Halatte erdőbe. Itt kinyújtózhat, és élvezheti a sűrű, ősi erdők nyújtotta békés menedéket.\nA nap zárásaként visszavezet a város szélére, hogy meglátogassa az Église Saint-Gervais-t. Ez a csendes megálló gyönyörűen egyensúlyozza a természet és az építészet keverékét.",
+        "ro": "Călătoria auto începe în centrul orașului la Biserica Sainte-Maxence. De acolo, e un drum foarte scurt până la magnifica abație regală pentru a-i explora istoria bogată.\nPrânzul vă poartă către impresionantul Château de Beaurepaire. După vizionarea domeniului, o scurtă plimbare până la Primărie vă permite să apreciați arhitectura civică locală.\nDupă-amiaza se îndreaptă spre frumusețea naturală, mergând spre sud spre Pădurea Halatte. Aici vă puteți întinde picioarele și vă puteți bucura de o evadare pașnică în codru.\nÎncheind ziua, veți conduce înapoi spre marginea orașului pentru a vizita Église Saint-Gervais. Această oprire liniștită echilibrează perfect amestecul de natură și arhitectură.",
+        "en": "Your road trip starts at the town's center with Sainte-Maxence Church. From there, it is a very brief drive to the magnificent Abbaye royale du Moncel to explore its rich history.\nMidday takes you out to the impressive Château de Beaurepaire. After viewing the estate, a short drive to the Town Hall lets you appreciate the local civic architecture.\nThe afternoon shifts to natural beauty with a drive south to the Halatte Forest. Here, you can stretch your legs and enjoy a peaceful escape into the dense, ancient woodlands.\nConcluding your day, you will drive back towards the town edges to visit Église Saint-Gervais. This quiet stop beautifully balances the day's mix of nature and architecture."
+      }
+    }
+  }
+}

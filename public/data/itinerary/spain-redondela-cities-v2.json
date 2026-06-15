@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-redondela-cities-v2",
+  "anchor": {
+    "name": "Redondela",
+    "coords": [
+      -8.61458,
+      42.27789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 0.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo de Petán",
+            "hu": "Pazo de Petán",
+            "ro": "Pazo de Petán",
+            "en": "Pazo de Petán"
+          },
+          "coords": [
+            -8.60926,
+            42.281025
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Herrenhauses und achten Sie auf die steinernen Wappen, um mehr über die adlige Vergangenheit der Region zu erfahren.",
+            "hu": "Csodálja meg a történelmi udvarház elegáns építészetét, és figyelje meg a kőből faragott címereket, amelyek a régió nemesi múltjáról mesélnek.",
+            "ro": "Admirați arhitectura elegantă a acestui conac istoric și observați blazoanele din piatră pentru a descoperi trecutul nobiliar al regiunii.",
+            "en": "Admire the elegant architecture of this historic manor house and look out for the stone coats of arms to learn about the region's noble past."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Alfóndega",
+            "hu": "Casa da Alfóndega",
+            "ro": "Casa da Alfóndega",
+            "en": "Casa da Alfóndega"
+          },
+          "coords": [
+            -8.608354,
+            42.282476
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bemerkenswerte historische Gebäude, das einst als Markthalle diente, und machen Sie Fotos von den traditionellen galizischen Balkonen.",
+            "hu": "Fedezze fel ezt a figyelemre méltó történelmi épületet, amely egykor vásárcsarnokként működött, és fényképezze le a hagyományos galíciai erkélyeket.",
+            "ro": "Explorați această clădire istorică remarcabilă, fostă hală a pieței, și faceți fotografii cu balcoanele tradiționale din Galicia.",
+            "en": "Explore this remarkable historic building, once a market hall, and snap photos of the traditional Galician balconies adorning its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santiago de Redondela",
+            "hu": "Igrexa de Santiago de Redondela",
+            "ro": "Igrexa de Santiago de Redondela",
+            "en": "Igrexa de Santiago de Redondela"
+          },
+          "coords": [
+            -8.607325,
+            42.283183
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, um die beeindruckenden Altäre zu sehen, und besuchen Sie sie am besten am frühen Vormittag, wenn das Licht durch die Fenster fällt.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a lenyűgöző oltárokat, és érkezzen kora délelőtt, amikor a fény gyönyörűen átszűrődik az ablakokon.",
+            "ro": "Intrați în această biserică liniștită pentru a vedea altarele impresionante și vizitați-o de preferință dimineața devreme, când lumina pătrunde prin ferestre.",
+            "en": "Step inside this peaceful church to view its impressive altars, and try to visit in the early morning when the light streams beautifully through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Redondela",
+            "hu": "Concello de Redondela",
+            "ro": "Concello de Redondela",
+            "en": "Concello de Redondela"
+          },
+          "coords": [
+            -8.609061,
+            42.283691
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie das imposante Rathausgebäude als Zentrum des städtischen Lebens und nutzen Sie die umliegenden Cafés für eine kurze Pause.",
+            "hu": "Tekintse meg a lenyűgöző városháza épületét, amely a városi élet központja, és használja ki a környező kávézókat egy rövid pihenőre.",
+            "ro": "Priviți impunătoarea clădire a primăriei, centrul vieții urbane, și profitați de cafenelele din jur pentru o scurtă pauză relaxantă.",
+            "en": "View the imposing town hall building, the center of civic life, and take advantage of the surrounding cafes for a quick, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio Multiusos da Xunqueira",
+            "hu": "Edificio Multiusos da Xunqueira",
+            "ro": "Edificio Multiusos da Xunqueira",
+            "en": "Edificio Multiusos da Xunqueira"
+          },
+          "coords": [
+            -8.610012,
+            42.282892
+          ],
+          "category": "cultural",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, das oft lokale Kunstausstellungen beherbergt, und prüfen Sie vorab den Veranstaltungsplan für besondere Events.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, amely gyakran ad otthont helyi művészeti kiállításoknak, és ellenőrizze előre a programnaptárt.",
+            "ro": "Vizitați acest centru cultural modern care găzduiește frecvent expoziții de artă locală și verificați programul evenimentelor în avans.",
+            "en": "Visit this modern cultural center, which frequently hosts local art exhibitions, and check their event schedule beforehand to catch special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Massiel",
+            "hu": "Casa Massiel",
+            "ro": "Casa Massiel",
+            "en": "Casa Massiel"
+          },
+          "coords": [
+            -8.612508,
+            42.283418
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Fassade dieses historischen Hauses, das ein großartiges Beispiel für die lokale Baukunst ist, und achten Sie auf die feinen Steinarbeiten.",
+            "hu": "Fedezze fel ennek a történelmi háznak a bájos homlokzatát, amely a helyi építészet remek példája, és figyelje meg a finom kőfaragásokat.",
+            "ro": "Descoperiți fațada fermecătoare a acestei case istorice, un exemplu excelent de arhitectură locală, și observați detaliile fine din piatră.",
+            "en": "Discover the charming facade of this historic house, a prime example of local architecture, and pay attention to the intricate stonework details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Redondela am Pazo de Petán und tauchen Sie in die adlige Vergangenheit ein. Der Vormittag führt Sie zur Casa da Alfóndega und der wunderschönen Igrexa de Santiago. Nachmittags erkunden Sie das kulturelle Leben im Edificio Multiusos da Xunqueira und bewundern die Casa Massiel. Der Abend lädt zu einem entspannten Ausklang in den Gassen ein.",
+        "hu": "Kezdje a napot Redondela történelmi szívében a Pazo de Petánnál, elmerülve a nemesi múltban. A délelőtt a Casa da Alfóndega és a gyönyörű Igrexa de Santiago felé vezet. Délután fedezze fel a kulturális életet az Edificio Multiusos da Xunqueirában, majd csodálja meg a Casa Massielt. Az este egy pihentető lezárásra hívogat a város hangulatos utcácskáin.",
+        "ro": "Începeți ziua în inima istorică a Redondelei la Pazo de Petán, cufundându-vă în trecutul nobiliar. Dimineața vă poartă spre Casa da Alfóndega și frumoasa Igrexa de Santiago. După-amiaza explorați viața culturală la Edificio Multiusos da Xunqueira și admirați Casa Massiel. Seara vă invită la o încheiere relaxantă pe străduțele fermecătoare ale orașului.",
+        "en": "Start your day in the historic heart of Redondela at Pazo de Petán, immersing yourself in the noble past. The morning leads you to Casa da Alfóndega and the beautiful Igrexa de Santiago. In the afternoon, explore the cultural life at Edificio Multiusos da Xunqueira and admire Casa Massiel. The evening invites you to a relaxing conclusion in the town's charming alleyways."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 3.68,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo do Pousadouro",
+            "hu": "Pazo do Pousadouro",
+            "ro": "Pazo do Pousadouro",
+            "en": "Pazo do Pousadouro"
+          },
+          "coords": [
+            -8.601541,
+            42.285587
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses prächtige historische Anwesen, um die galizische Landhausarchitektur zu bewundern, und bringen Sie eine Kamera für die schönen Gärten mit.",
+            "hu": "Sétáljon körbe ezen a pompás történelmi birtokon, hogy megcsodálja a galíciai vidéki építészetet, és hozzon magával fényképezőgépet a gyönyörű kertekhez.",
+            "ro": "Plimbați-vă în jurul acestei proprietăți istorice magnifice pentru a admira arhitectura rurală galiciană și aduceți un aparat foto pentru grădinile frumoase.",
+            "en": "Stroll around this magnificent historic estate to admire the Galician rural architecture, and be sure to bring a camera for the beautiful surrounding gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Torres Agrelo",
+            "hu": "Pazo de Torres Agrelo",
+            "ro": "Pazo de Torres Agrelo",
+            "en": "Pazo de Torres Agrelo"
+          },
+          "coords": [
+            -8.600542,
+            42.291849
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Anblick dieses eleganten Herrenhauses, das oft für Feierlichkeiten genutzt wird, und respektieren Sie die Privatsphäre, falls Veranstaltungen stattfinden.",
+            "hu": "Élvezze ennek az elegáns kúriának a látványát, amelyet gyakran használnak ünnepségekre, és tartsa tiszteletben a magánéletet, ha éppen rendezvény zajlik.",
+            "ro": "Bucurați-vă de priveliștea acestui conac elegant, adesea folosit pentru festivități, și respectați intimitatea în cazul în care au loc evenimente.",
+            "en": "Enjoy the sight of this elegant manor, frequently used for celebrations, and be mindful of privacy if private events are taking place during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santiago de Redondela",
+            "hu": "Igrexa de Santiago de Redondela",
+            "ro": "Igrexa de Santiago de Redondela",
+            "en": "Igrexa de Santiago de Redondela"
+          },
+          "coords": [
+            -8.607325,
+            42.283183
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, um die beeindruckenden Altäre zu sehen, und besuchen Sie sie am besten am frühen Vormittag, wenn das Licht durch die Fenster fällt.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a lenyűgöző oltárokat, és érkezzen kora délelőtt, amikor a fény gyönyörűen átszűrődik az ablakokon.",
+            "ro": "Intrați în această biserică liniștită pentru a vedea altarele impresionante și vizitați-o de preferință dimineața devreme, când lumina pătrunde prin ferestre.",
+            "en": "Step inside this peaceful church to view its impressive altars, and try to visit in the early morning when the light streams beautifully through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio Multiusos da Xunqueira",
+            "hu": "Edificio Multiusos da Xunqueira",
+            "ro": "Edificio Multiusos da Xunqueira",
+            "en": "Edificio Multiusos da Xunqueira"
+          },
+          "coords": [
+            -8.610012,
+            42.282892
+          ],
+          "category": "cultural",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, das oft lokale Kunstausstellungen beherbergt, und prüfen Sie vorab den Veranstaltungsplan für besondere Events.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, amely gyakran ad otthont helyi művészeti kiállításoknak, és ellenőrizze előre a programnaptárt.",
+            "ro": "Vizitați acest centru cultural modern care găzduiește frecvent expoziții de artă locală și verificați programul evenimentelor în avans.",
+            "en": "Visit this modern cultural center, which frequently hosts local art exhibitions, and check their event schedule beforehand to catch special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Massiel",
+            "hu": "Casa Massiel",
+            "ro": "Casa Massiel",
+            "en": "Casa Massiel"
+          },
+          "coords": [
+            -8.612508,
+            42.283418
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Fassade dieses historischen Hauses, das ein großartiges Beispiel für die lokale Baukunst ist, und achten Sie auf die feinen Steinarbeiten.",
+            "hu": "Fedezze fel ennek a történelmi háznak a bájos homlokzatát, amely a helyi építészet remek példája, és figyelje meg a finom kőfaragásokat.",
+            "ro": "Descoperiți fațada fermecătoare a acestei case istorice, un exemplu excelent de arhitectură locală, și observați detaliile fine din piatră.",
+            "en": "Discover the charming facade of this historic house, a prime example of local architecture, and pay attention to the intricate stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "A Praia Vella",
+            "hu": "A Praia Vella",
+            "ro": "A Praia Vella",
+            "en": "A Praia Vella"
+          },
+          "coords": [
+            -8.617549,
+            42.292604
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten kleinen Strandabschnitt, ideal für einen ruhigen Spaziergang am Wasser, und tragen Sie bequeme Schuhe für den Sand.",
+            "hu": "Pihenjen ezen a hangulatos kis partszakaszon, amely ideális egy csendes sétához a vízparton, és viseljen kényelmes cipőt a homokos részhez.",
+            "ro": "Relaxați-vă pe această mică și fermecătoare porțiune de plajă, ideală pentru o plimbare liniștită pe malul apei, și purtați încălțăminte confortabilă.",
+            "en": "Relax on this charming small stretch of beach, ideal for a quiet stroll by the water, and wear comfortable shoes suitable for walking on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Castañal",
+            "hu": "Praia do Castañal",
+            "ro": "Praia do Castañal",
+            "en": "Praia do Castañal"
+          },
+          "coords": [
+            -8.615036,
+            42.29512
+          ],
+          "category": "recreational",
+          "arrive_at": "17:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen weitläufigen Erholungsbereich für ein Picknick mit Aussicht, und kommen Sie am späten Nachmittag, um die sanfte Brise zu genießen.",
+            "hu": "Használja ki ezt a tágas rekreációs területet egy panorámás piknikre, és érkezzen késő délután, hogy élvezhesse a lágy szellőt a vízparton.",
+            "ro": "Profitați de această zonă de recreere spațioasă pentru un picnic cu vedere și veniți după-amiaza târziu pentru a vă bucura de briza blândă.",
+            "en": "Take advantage of this spacious recreational area for a scenic picnic, and arrive in the late afternoon to enjoy the gentle sea breeze along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am prachtvollen Pazo do Pousadouro und genießen Sie die ländliche Atmosphäre. Gegen Mittag radeln Sie ins Zentrum zur Igrexa de Santiago und entdecken lokale Kultur. Der Nachmittag bringt Sie zur Casa Massiel, bevor Sie die frische Meeresbrise am A Praia Vella spüren. Lassen Sie den Tag entspannt am Praia do Castañal ausklingen, während die Sonne langsam untergeht.",
+        "hu": "Kezdje kerékpártúráját a pompás Pazo do Pousadourónál, és élvezze a vidéki hangulatot. Dél körül kerekezzen a központba, az Igrexa de Santiago felé. A délután a Casa Massielhez vezet, mielőtt megérezné a friss tengeri szellőt az A Praia Vellánál. Zárja a napot lazán a Praia do Castañalon, miközben a nap lassan lenyugszik a horizonton.",
+        "ro": "Începeți turul cu bicicleta la magnificul Pazo do Pousadouro și bucurați-vă de atmosfera rurală. Spre prânz pedalați în centru la Igrexa de Santiago. După-amiaza vă poartă la Casa Massiel, înainte de a simți briza proaspătă a mării la A Praia Vella. Încheiați ziua relaxat la Praia do Castañal, în timp ce soarele apune încet peste peisajul liniștit.",
+        "en": "Start your bike tour at the magnificent Pazo do Pousadouro, enjoying the rural atmosphere. Around noon, cycle into the center to the Igrexa de Santiago. The afternoon takes you to Casa Massiel before feeling the fresh sea breeze at A Praia Vella. End the day smoothly at Praia do Castañal, relaxing by the water as the sun slowly sets over the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 5.96,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Petróglifo de Chan da Cruz",
+            "hu": "Petróglifo de Chan da Cruz",
+            "ro": "Petróglifo de Chan da Cruz",
+            "en": "Petróglifo de Chan da Cruz"
+          },
+          "coords": [
+            -8.637714,
+            42.268168
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden prähistorischen Felsritzungen, die einen Blick in die tiefe Vergangenheit bieten, und besuchen Sie sie bei schrägem Sonnenlicht für beste Sichtbarkeit.",
+            "hu": "Fedezze fel ezeket a lenyűgöző őskori sziklarajzokat, amelyek bepillantást engednek a régmúltba, és látogassa meg őket súrlófényben a legjobb láthatóság érdekében.",
+            "ro": "Descoperiți aceste fascinante gravuri rupestre preistorice care oferă o privire în trecutul îndepărtat și vizitați-le sub lumina oblică a soarelui pentru o vizibilitate maximă.",
+            "en": "Discover these fascinating prehistoric rock carvings offering a glimpse into the deep past, and visit them in slanting sunlight for the best visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa do Rei",
+            "hu": "Mámoa do Rei",
+            "ro": "Mámoa do Rei",
+            "en": "Mámoa do Rei"
+          },
+          "coords": [
+            -8.636522,
+            42.264443
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Grabstätte, die von der frühen Besiedlung Galiziens zeugt, und bleiben Sie auf den markierten Wegen, um das Denkmal zu schützen.",
+            "hu": "Fedezze fel ezt az ősi temetkezési helyet, amely Galícia korai betelepüléséről tanúskodik, és maradjon a kijelölt ösvényeken az emlékmű védelme érdekében.",
+            "ro": "Explorați acest vechi sit funerar care atestă așezarea timpurie a Galiciei și rămâneți pe potecile marcate pentru a proteja monumentul istoric.",
+            "en": "Explore this ancient burial site that bears witness to the early settlement of Galicia, and stay on the marked paths to help protect the historical monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Negros",
+            "hu": "Castro de Negros",
+            "ro": "Castro de Negros",
+            "en": "Castro de Negros"
+          },
+          "coords": [
+            -8.625201,
+            42.264474
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser eisenzeitlichen Festung, um die strategische Lage zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Sétáljon át ennek a vaskori erődítménynek a maradványain, hogy megértse stratégiai elhelyezkedését, és viseljen zárt cipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă printre rămășițele acestei fortărețe din Epoca Fierului pentru a-i înțelege poziția strategică și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Wander through the remains of this Iron Age hillfort to understand its strategic location, and be sure to wear sturdy footwear for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Torrecedeira",
+            "hu": "Pazo de Torrecedeira",
+            "ro": "Pazo de Torrecedeira",
+            "en": "Pazo de Torrecedeira"
+          },
+          "coords": [
+            -8.627876,
+            42.279186
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die herrschaftliche Architektur dieses historischen Pazo von außen, um die typisch galizische Bauweise zu bewundern, da es oft in Privatbesitz ist.",
+            "hu": "Tekintse meg kívülről ennek a történelmi pazo-nak a fenséges építészetét, hogy megcsodálja a tipikus galíciai stílust, mivel gyakran magántulajdonban van.",
+            "ro": "Priviți arhitectura impunătoare a acestui pazo istoric din exterior pentru a admira stilul tipic galician, deoarece adesea este o proprietate privată.",
+            "en": "View the stately architecture of this historic pazo from the outside to admire the typical Galician style, as it is often maintained as a private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo do Pousadouro",
+            "hu": "Pazo do Pousadouro",
+            "ro": "Pazo do Pousadouro",
+            "en": "Pazo do Pousadouro"
+          },
+          "coords": [
+            -8.601541,
+            42.285587
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses prächtige historische Anwesen, um die galizische Landhausarchitektur zu bewundern, und bringen Sie eine Kamera für die schönen Gärten mit.",
+            "hu": "Sétáljon körbe ezen a pompás történelmi birtokon, hogy megcsodálja a galíciai vidéki építészetet, és hozzon magával fényképezőgépet a gyönyörű kertekhez.",
+            "ro": "Plimbați-vă în jurul acestei proprietăți istorice magnifice pentru a admira arhitectura rurală galiciană și aduceți un aparat foto pentru grădinile frumoase.",
+            "en": "Stroll around this magnificent historic estate to admire the Galician rural architecture, and be sure to bring a camera for the beautiful surrounding gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Torres Agrelo",
+            "hu": "Pazo de Torres Agrelo",
+            "ro": "Pazo de Torres Agrelo",
+            "en": "Pazo de Torres Agrelo"
+          },
+          "coords": [
+            -8.600542,
+            42.291849
+          ],
+          "category": "historical",
+          "arrive_at": "15:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Anblick dieses eleganten Herrenhauses, das oft für Feierlichkeiten genutzt wird, und respektieren Sie die Privatsphäre, falls Veranstaltungen stattfinden.",
+            "hu": "Élvezze ennek az elegáns kúriának a látványát, amelyet gyakran használnak ünnepségekre, és tartsa tiszteletben a magánéletet, ha éppen rendezvény zajlik.",
+            "ro": "Bucurați-vă de priveliștea acestui conac elegant, adesea folosit pentru festivități, și respectați intimitatea în cazul în care au loc evenimente.",
+            "en": "Enjoy the sight of this elegant manor, frequently used for celebrations, and be mindful of privacy if private events are taking place during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer faszinierenden Fahrt in die Vergangenheit bei den Felsritzungen des Petróglifo de Chan da Cruz. Der Vormittag führt Sie weiter zur Mámoa do Rei und dem historischen Castro de Negros. Nachmittags erkunden Sie die majestätische Architektur des Pazo de Torrecedeira und des Pazo do Pousadouro. Der Tag endet elegant am Pazo de Torres Agrelo in einer idyllischen Umgebung.",
+        "hu": "Kezdje a napot egy lenyűgöző utazással a múltba a Petróglifo de Chan da Cruz sziklarajzainál. A délelőtt továbbvezeti a Mámoa do Rei és a történelmi Castro de Negros felé. Délután fedezze fel a Pazo de Torrecedeira és a Pazo do Pousadouro fenséges építészetét. A nap elegánsan ér véget a Pazo de Torres Agrelónál, egy idilli és nyugodt környezetben.",
+        "ro": "Începeți ziua cu o călătorie fascinantă în trecut la gravurile rupestre de la Petróglifo de Chan da Cruz. Dimineața vă conduce mai departe spre Mámoa do Rei și istoricul Castro de Negros. După-amiaza explorați arhitectura maiestuoasă a Pazo de Torrecedeira și Pazo do Pousadouro. Ziua se încheie elegant la Pazo de Torres Agrelo, într-un cadru idilic.",
+        "en": "Start your day with a fascinating drive into the past at the ancient rock carvings of Petróglifo de Chan da Cruz. The morning leads you further to Mámoa do Rei and the historic Castro de Negros. In the afternoon, explore the majestic architecture of Pazo de Torrecedeira and Pazo do Pousadouro. The day ends elegantly at Pazo de Torres Agrelo in an idyllic setting."
+      }
+    }
+  }
+}

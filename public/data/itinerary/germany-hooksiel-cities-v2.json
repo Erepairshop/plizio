@@ -1,0 +1,428 @@
+{
+  "city_id": "germany-hooksiel-cities-v2",
+  "anchor": {
+    "name": "Hooksiel",
+    "coords": [
+      8.0215,
+      53.6309
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gruseleum",
+            "hu": "Gruseleum",
+            "ro": "Gruseleum",
+            "en": "Gruseleum"
+          },
+          "coords": [
+            8.021661,
+            53.631217
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Gruseleum schaurig-schöne Ausstellungsstücke in einer alten Kirche, die lokale Gruselgeschichten lebendig machen, aber buchen Sie Ihr Ticket am besten vorab online.",
+            "hu": "Fedezze fel a Gruseleum hátborzongató kiállításait egy régi templomban, mely életre kelti a helyi legendákat, és érdemes előre online megvenni a belépőt a sorban állás elkerülése végett.",
+            "ro": "Explorați exponatele înfricoșătoare de la Gruseleum, aflate într-o biserică veche ce aduce la viață legendele locale, însă cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the Gruseleum's spooky exhibits housed in an old church that brings local scary legends to life, but be sure to book your ticket online in advance to skip the waiting line."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ansgar Kirche Hooksiel",
+            "hu": "St. Ansgar templom Hooksiel",
+            "ro": "Biserica St. Ansgar Hooksiel",
+            "en": "St. Ansgar Church Hooksiel"
+          },
+          "coords": [
+            8.021176,
+            53.63259
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Backsteinarchitektur der St. Ansgar Kirche, die tiefe Einblicke in die norddeutsche Frömmigkeit bietet, und achten Sie auf die Öffnungszeiten am Vormittag.",
+            "hu": "Csodálja meg a St. Ansgar templom egyszerű téglaépítészetét, amely bemutatja az északnémet vallásosságot, de figyeljen a délelőtti nyitvatartási időkre látogatása megtervezésekor.",
+            "ro": "Admirați arhitectura simplă din cărămidă a bisericii St. Ansgar, care oferă o perspectivă asupra spiritualității nord-germane, și verificați programul de vizitare din timpul dimineții.",
+            "en": "Admire the simple brick architecture of St. Ansgar Church, offering deep insights into North German piety, and make sure to check the specific morning opening hours before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Künstlerhaus Hooksiel",
+            "hu": "Künstlerhaus Hooksiel",
+            "ro": "Künstlerhaus Hooksiel",
+            "en": "Künstlerhaus Hooksiel"
+          },
+          "coords": [
+            8.028059,
+            53.627947
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Lassen Sie sich im Künstlerhaus von wechselnden zeitgenössischen Ausstellungen regionaler Künstler inspirieren und werfen Sie unbedingt auch einen Blick in den charmanten Innenhof.",
+            "hu": "Merítsen ihletet a Künstlerhaus kortárs regionális művészeinek időszaki kiállításaiból, és mindenképpen szánjon egy kis időt a bájos belső udvar alapos megtekintésére is.",
+            "ro": "Inspirați-vă din expozițiile contemporane ale artiștilor regionali la Künstlerhaus și asigurați-vă că aruncați o privire atentă și la curtea interioară plină de un farmec deosebit.",
+            "en": "Get inspired by the rotating contemporary exhibitions of regional artists at the Künstlerhaus, and make absolutely sure to spend a few moments exploring its charming inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Hafenlaterne",
+            "hu": "Történelmi kikötői lámpás",
+            "ro": "Farul istoric din port",
+            "en": "Historic Harbor Lantern"
+          },
+          "coords": [
+            8.028132,
+            53.626722
+          ],
+          "category": "monument",
+          "arrive_at": "13:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Historische Hafenlaterne, ein maritimes Wahrzeichen am alten Hafenbecken, und kommen Sie am besten zur goldenen Stunde für das schönste Licht der ganzen Region.",
+            "hu": "Fényképezze le a régi kikötőmedence tengerészeti nevezetességét, a történelmi kikötői lámpást, és érkezzen az aranyórában, hogy a legszebb fényekben örökíthesse meg az építményt.",
+            "ro": "Fotografiați farul istoric din port, un reper maritim la vechiul bazin portuar, și încercați să veniți în timpul orei de aur pentru a prinde cea mai frumoasă lumină din întreaga regiune.",
+            "en": "Photograph the Historic Harbor Lantern, a maritime landmark by the old harbor basin, and try to time your visit for the golden hour to capture the most beautiful light in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Meerwasser-Hallenwellenbad Hooksiel",
+            "hu": "Tengervizes hullámmedence Hooksiel",
+            "ro": "Piscina interioară cu apă de mare Hooksiel",
+            "en": "Indoor Seawater Wave Pool Hooksiel"
+          },
+          "coords": [
+            8.036116,
+            53.634385
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im warmen Meerwasser-Hallenwellenbad, das auch an kühlen Tagen pures Badevergnügen bietet, und packen Sie sich am besten ein eigenes Handtuch ein, um Gebühren zu sparen.",
+            "hu": "Pihenjen a meleg tengervizes fedett hullámmedencében, amely hűvösebb napokon is fürdőzési élményt nyújt, és hozzon magával saját törölközőt a felesleges kölcsönzési díjak elkerülésére.",
+            "ro": "Relaxați-vă în piscina interioară cu valuri și apă de mare caldă, perfectă și în zilele răcoroase, și aduceți propriul prosop de acasă pentru a economisi taxele de închiriere de la fața locului.",
+            "en": "Relax in the warm indoor seawater wave pool, which offers swimming pleasure even on chilly days, and remember to pack your own towel to avoid any unnecessary on-site rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag in Hooksiel mit einem spannenden Besuch im Gruseleum. Hier tauchen Sie tief in schaurige Legenden ein. Danach bietet die St. Ansgar Kirche einen ruhigen Kontrast.\n\nMittags geht es weiter zum Künstlerhaus. Die inspirierenden Ausstellungen regionaler Künstler wecken die Kreativität, während Sie durch die historischen Räume schlendern.\n\nAm Nachmittag führt der Weg zur Historischen Hafenlaterne am alten Hafenbecken. Dieser charmante Fotostopp ist ein echtes Highlight.\n\nDer Abend klingt entspannt im Meerwasser-Hallenwellenbad aus. Das warme Salzwasser ist der perfekte Abschluss für einen ereignisreichen Tag an der Küste.",
+        "hu": "Kezdje a napot Hooksielben egy izgalmas látogatással a Gruseleumban, ahol elmerülhet a helyi legendákban. Ezután a St. Ansgar templom csendes kontrasztot kínál.\n\nDélben folytassa útját a Künstlerhaus felé. A regionális művészek inspiráló kiállításai felébresztik a kreativitást a történelmi termekben.\n\nDélután az út a régi kikötőmedencénél található történelmi kikötői lámpáshoz vezet. Ez a hangulatos fotómegálló a falu igazi fénypontja.\n\nAz este pihentetően zárul a meleg tengervizes fedett hullámmedencében, amely tökéletes befejezése egy eseménydús tengerparti napnak.",
+        "ro": "Începeți-vă ziua în Hooksiel cu o vizită captivantă la Gruseleum, unde veți explora legende locale. Apoi, biserica St. Ansgar oferă un contrast deosebit de liniștit.\n\nLa prânz, continuați către Künstlerhaus. Expozițiile inspiratoare ale artiștilor regionali vă vor trezi creativitatea în timp ce vă plimbați prin camere.\n\nDupă-amiaza, drumul duce la farul istoric de la vechiul bazin portuar. Această oprire fermecătoare pentru fotografii este un adevărat punct de atracție.\n\nSeara se încheie relaxant la piscina interioară cu valuri și apă de mare, finalul perfect pentru o zi plină pe coasta superbă.",
+        "en": "Start your day in Hooksiel with a thrilling visit to the Gruseleum. Here you dive deep into spooky legends. Afterward, the St. Ansgar Church offers a remarkably peaceful contrast.\n\nAt midday, continue to the Künstlerhaus. The inspiring exhibitions of regional artists will awaken your creativity as you stroll through the historical rooms.\n\nIn the afternoon, the path leads directly to the Historic Harbor Lantern by the old harbor basin. This charming photo stop is a true highlight of the town.\n\nThe evening winds down perfectly at the indoor seawater wave pool. The warm salt water is the ideal conclusion to an eventful day on the beautiful coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche zum Heiligen Kreuz",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            8.006463,
+            53.625908
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Kirche zum Heiligen Kreuz im benachbarten Pakens, um die prächtige Orgel zu sehen, und respektieren Sie die Gottesdienstzeiten bei Ihrer Besuchsplanung.",
+            "hu": "Látogasson el a történelmi Szent Kereszt templomba Pakensben, hogy megnézze a csodás orgonát, és a látogatás megtervezésekor feltétlenül tartsa tiszteletben a helyi istentiszteleti időket.",
+            "ro": "Vizitați biserica istorică a Sfintei Cruci din Pakens pentru a vedea orga sa magnifică și asigurați-vă că respectați cu strictețe orele slujbelor religioase când vă planificați vizita.",
+            "en": "Visit the historic Church of the Holy Cross in neighboring Pakens to see its magnificent organ, and be sure to respect the local service times when planning your architectural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Gruseleum",
+            "hu": "Gruseleum",
+            "ro": "Gruseleum",
+            "en": "Gruseleum"
+          },
+          "coords": [
+            8.021661,
+            53.631217
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Gruseleum schaurig-schöne Ausstellungsstücke in einer alten Kirche, die lokale Gruselgeschichten lebendig machen, aber buchen Sie Ihr Ticket am besten vorab online.",
+            "hu": "Fedezze fel a Gruseleum hátborzongató kiállításait egy régi templomban, mely életre kelti a helyi legendákat, és érdemes előre online megvenni a belépőt a sorban állás elkerülése végett.",
+            "ro": "Explorați exponatele înfricoșătoare de la Gruseleum, aflate într-o biserică veche ce aduce la viață legendele locale, însă cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the Gruseleum's spooky exhibits housed in an old church that brings local scary legends to life, but be sure to book your ticket online in advance to skip the waiting line."
+          }
+        },
+        {
+          "name": {
+            "de": "Künstlerhaus Hooksiel",
+            "hu": "Künstlerhaus Hooksiel",
+            "ro": "Künstlerhaus Hooksiel",
+            "en": "Künstlerhaus Hooksiel"
+          },
+          "coords": [
+            8.028059,
+            53.627947
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Lassen Sie sich im Künstlerhaus von wechselnden zeitgenössischen Ausstellungen regionaler Künstler inspirieren und werfen Sie unbedingt auch einen Blick in den charmanten Innenhof.",
+            "hu": "Merítsen ihletet a Künstlerhaus kortárs regionális művészeinek időszaki kiállításaiból, és mindenképpen szánjon egy kis időt a bájos belső udvar alapos megtekintésére is.",
+            "ro": "Inspirați-vă din expozițiile contemporane ale artiștilor regionali la Künstlerhaus și asigurați-vă că aruncați o privire atentă și la curtea interioară plină de un farmec deosebit.",
+            "en": "Get inspired by the rotating contemporary exhibitions of regional artists at the Künstlerhaus, and make absolutely sure to spend a few moments exploring its charming inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Hafenlaterne",
+            "hu": "Történelmi kikötői lámpás",
+            "ro": "Farul istoric din port",
+            "en": "Historic Harbor Lantern"
+          },
+          "coords": [
+            8.028132,
+            53.626722
+          ],
+          "category": "monument",
+          "arrive_at": "13:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Historische Hafenlaterne, ein maritimes Wahrzeichen am alten Hafenbecken, und kommen Sie am besten zur goldenen Stunde für das schönste Licht der ganzen Region.",
+            "hu": "Fényképezze le a régi kikötőmedence tengerészeti nevezetességét, a történelmi kikötői lámpást, és érkezzen az aranyórában, hogy a legszebb fényekben örökíthesse meg az építményt.",
+            "ro": "Fotografiați farul istoric din port, un reper maritim la vechiul bazin portuar, și încercați să veniți în timpul orei de aur pentru a prinde cea mai frumoasă lumină din întreaga regiune.",
+            "en": "Photograph the Historic Harbor Lantern, a maritime landmark by the old harbor basin, and try to time your visit for the golden hour to capture the most beautiful light in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Hooksiel",
+            "hu": "Marina Hooksiel",
+            "ro": "Marina Hooksiel",
+            "en": "Marina Hooksiel"
+          },
+          "coords": [
+            8.045844,
+            53.635258
+          ],
+          "category": "park",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie gemütlich entlang der Marina Hooksiel, um die vielen Segelboote zu bewundern, und nutzen Sie die Bänke am Wasser für ein kleines Picknick mit Blick auf die Masten.",
+            "hu": "Sétáljon végig kényelmesen a Marina Hooksiel mentén, hogy megcsodálja a sok vitorláshajót, és használja a vízparti padokat egy kellemes kis piknikhez, miközben a ringatózó árbocokat nézi.",
+            "ro": "Plimbați-vă pe îndelete de-a lungul Marina Hooksiel pentru a admira numeroasele bărci cu pânze și folosiți băncile de la marginea apei pentru un mic picnic cu vedere la catarge.",
+            "en": "Take a leisurely stroll along the Marina Hooksiel to admire the many sailboats, and make sure to use the waterfront benches for a relaxing little picnic with a view of the swaying masts."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunde am Naturstrand von Hooksiel",
+            "hu": "Kutyás strand Hooksielben",
+            "ro": "Plaja pentru câini din Hooksiel",
+            "en": "Dog Beach Hooksiel"
+          },
+          "coords": [
+            8.049803,
+            53.64016
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weitläufigen Naturstrand, wo auch Hunde herzlich willkommen sind, und achten Sie auf die Gezeiten, um das Watt bei Ebbe hautnah erkunden zu können.",
+            "hu": "Sétáljon végig a tágas természetes strandon, ahol a kutyákat is szívesen látják, de feltétlenül figyeljen az árapályra, hogy apály idején közvetlen közelről is felfedezhesse a híres iszapmezőket.",
+            "ro": "Plimbați-vă pe plaja naturală spațioasă, unde și câinii sunt bineveniți, și fiți foarte atenți la maree pentru a explora îndeaproape mlaștinile fascinante la reflux.",
+            "en": "Walk along the expansive natural beach where dogs are warmly welcomed, and keep a close eye on the tide schedule so you can safely explore the fascinating mudflats during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Fahrradtag beginnt an der ruhigen Kirche zum Heiligen Kreuz. Nach dieser Besinnung radeln Sie ins Zentrum, um im Gruseleum auf unheimliche Entdeckungstour zu gehen.\n\nGegen Mittag erreichen Sie das Künstlerhaus. Die kreative Atmosphäre in diesem historischen Gebäude lädt zum Verweilen und Staunen ein.\n\nAm Nachmittag führt die Route vorbei an der Historischen Hafenlaterne direkt zur lebhaften Marina Hooksiel, wo zahlreiche Boote auf den sanften Wellen schaukeln.\n\nZum Abschluss radeln Sie zum weitläufigen Naturstrand. Hier können Sie die klare Nordseeluft tief einatmen und den Tag wunderbar ausklingen lassen.",
+        "hu": "A kerékpáros nap a békés Szent Kereszt templomnál kezdődik. Ezt követően tekerjen a központba, hogy felfedezze a Gruseleum hátborzongató és izgalmas kiállításait.\n\nDél körül megérkezik a Künstlerhaus épületéhez. A történelmi épület kreatív légköre hosszabb elidőzésre és csodálkozásra csábít.\n\nDélután az útvonal a Történelmi Kikötői Lámpás mellett a nyüzsgő Marina Hooksiel felé vezet, ahol számos ringatózó hajót figyelhet meg.\n\nVégül tekerjen ki a tágas természetes strandra, ahol mélyeket lélegezhet a tiszta északi-tengeri levegőből, és megpihenhet a nap végén.",
+        "ro": "Ziua de ciclism începe la liniștita Biserică a Sfintei Cruci. După acest moment, pedalați spre centru pentru o explorare înfricoșătoare la faimosul Gruseleum.\n\nÎn jurul prânzului ajungeți la Künstlerhaus. Atmosfera creativă din această clădire istorică vă invită să rămâneți și să vă minunați pur și simplu.\n\nDupă-amiaza, traseul trece pe lângă farul istoric direct către animata Marina Hooksiel, unde numeroase bărci se leagănă pe valurile blânde.\n\nLa final, pedalați spre plaja naturală spațioasă. Aici puteți respira aerul curat al Mării Nordului și puteți încheia ziua într-un mod minunat.",
+        "en": "The cycling day begins at the peaceful Church of the Holy Cross. After this quiet moment, ride to the center to explore the spooky exhibits at the Gruseleum.\n\nAround midday, you will reach the Künstlerhaus. The deeply creative atmosphere in this beautiful historic building invites you to linger and marvel.\n\nIn the afternoon, your route leads past the Historic Harbor Lantern straight to the lively Marina Hooksiel, where boats gently sway on the water.\n\nFinally, pedal to the expansive natural beach. Here you can breathe in the clear North Sea air and let the beautiful day come to a peaceful end."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche zum Heiligen Kreuz",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            8.006463,
+            53.625908
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Kirche zum Heiligen Kreuz im benachbarten Pakens, um die prächtige Orgel zu sehen, und respektieren Sie die Gottesdienstzeiten bei Ihrer Besuchsplanung.",
+            "hu": "Látogasson el a történelmi Szent Kereszt templomba Pakensben, hogy megnézze a csodás orgonát, és a látogatás megtervezésekor feltétlenül tartsa tiszteletben a helyi istentiszteleti időket.",
+            "ro": "Vizitați biserica istorică a Sfintei Cruci din Pakens pentru a vedea orga sa magnifică și asigurați-vă că respectați cu strictețe orele slujbelor religioase când vă planificați vizita.",
+            "en": "Visit the historic Church of the Holy Cross in neighboring Pakens to see its magnificent organ, and be sure to respect the local service times when planning your architectural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Gruseleum",
+            "hu": "Gruseleum",
+            "ro": "Gruseleum",
+            "en": "Gruseleum"
+          },
+          "coords": [
+            8.021661,
+            53.631217
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Gruseleum schaurig-schöne Ausstellungsstücke in einer alten Kirche, die lokale Gruselgeschichten lebendig machen, aber buchen Sie Ihr Ticket am besten vorab online.",
+            "hu": "Fedezze fel a Gruseleum hátborzongató kiállításait egy régi templomban, mely életre kelti a helyi legendákat, és érdemes előre online megvenni a belépőt a sorban állás elkerülése végett.",
+            "ro": "Explorați exponatele înfricoșătoare de la Gruseleum, aflate într-o biserică veche ce aduce la viață legendele locale, însă cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the Gruseleum's spooky exhibits housed in an old church that brings local scary legends to life, but be sure to book your ticket online in advance to skip the waiting line."
+          }
+        },
+        {
+          "name": {
+            "de": "Meerwasser-Hallenwellenbad Hooksiel",
+            "hu": "Tengervizes hullámmedence Hooksiel",
+            "ro": "Piscina interioară cu apă de mare Hooksiel",
+            "en": "Indoor Seawater Wave Pool Hooksiel"
+          },
+          "coords": [
+            8.036116,
+            53.634385
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im warmen Meerwasser-Hallenwellenbad, das auch an kühlen Tagen pures Badevergnügen bietet, und packen Sie sich am besten ein eigenes Handtuch ein, um Gebühren zu sparen.",
+            "hu": "Pihenjen a meleg tengervizes fedett hullámmedencében, amely hűvösebb napokon is fürdőzési élményt nyújt, és hozzon magával saját törölközőt a felesleges kölcsönzési díjak elkerülésére.",
+            "ro": "Relaxați-vă în piscina interioară cu valuri și apă de mare caldă, perfectă și în zilele răcoroase, și aduceți propriul prosop de acasă pentru a economisi taxele de închiriere de la fața locului.",
+            "en": "Relax in the warm indoor seawater wave pool, which offers swimming pleasure even on chilly days, and remember to pack your own towel to avoid any unnecessary on-site rental fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Kap Hooksiel",
+            "hu": "Altes Kap Hooksiel",
+            "ro": "Altes Kap Hooksiel",
+            "en": "Altes Kap Hooksiel"
+          },
+          "coords": [
+            8.041363,
+            53.632398
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Alte Kap, ein bedeutendes historisches Seezeichen für die Schifffahrt, und genießen Sie von hier aus den weiten Blick über die Küstenlandschaft bis hin zum offenen Meer.",
+            "hu": "Fedezze fel az Öreg-fokot, a hajózás fontos történelmi tengeri jelzőtábláját, és élvezze a part menti tájra és a nyílt tengerre nyíló végtelen kilátást egy kis rövid séta keretében.",
+            "ro": "Explorați Altes Kap, un reper maritim istoric deosebit de important pentru navigație, și bucurați-vă de priveliștea vastă asupra peisajului de coastă și a mării deschise de aici.",
+            "en": "Explore the Altes Kap, an important historical maritime navigation mark for shipping, and take some time to enjoy the sweeping views over the coastal landscape toward the open sea from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunde am Naturstrand von Hooksiel",
+            "hu": "Kutyás strand Hooksielben",
+            "ro": "Plaja pentru câini din Hooksiel",
+            "en": "Dog Beach Hooksiel"
+          },
+          "coords": [
+            8.049803,
+            53.64016
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weitläufigen Naturstrand, wo auch Hunde herzlich willkommen sind, und achten Sie auf die Gezeiten, um das Watt bei Ebbe hautnah erkunden zu können.",
+            "hu": "Sétáljon végig a tágas természetes strandon, ahol a kutyákat is szívesen látják, de feltétlenül figyeljen az árapályra, hogy apály idején közvetlen közelről is felfedezhesse a híres iszapmezőket.",
+            "ro": "Plimbați-vă pe plaja naturală spațioasă, unde și câinii sunt bineveniți, și fiți foarte atenți la maree pentru a explora îndeaproape mlaștinile fascinante la reflux.",
+            "en": "Walk along the expansive natural beach where dogs are warmly welcomed, and keep a close eye on the tide schedule so you can safely explore the fascinating mudflats during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie komfortabel bei der Kirche zum Heiligen Kreuz, bevor Sie im Zentrum von Hooksiel das faszinierende Gruseleum besuchen und in die Geschichte eintauchen.\n\nZur Mittagszeit erwartet Sie eine erholsame Pause im Meerwasser-Hallenwellenbad. Die wohligen Temperaturen des Salzwassers bieten Entspannung pur für Körper und Seele.\n\nNachmittags fahren Sie weiter zum Alten Kap Hooksiel. Dieses markante historische Seezeichen bietet eine fantastische Aussicht über die raue Küstenlandschaft der Region.\n\nDen Abend verbringen Sie am weitläufigen Naturstrand. Lassen Sie den Tag bei einem ausgedehnten Spaziergang am Meeressam entspannt Revue passieren.",
+        "hu": "Kényelmes autós túrája a Szent Kereszt templomnál kezdődik, majd Hooksiel központjában látogasson el a lenyűgöző Gruseleumba, és merüljön el a misztikumokban.\n\nEbédidőben pihentető szünet várja a fedett tengervizes hullámmedencében. A kellemes hőmérsékletű sós víz tiszta felüdülést nyújt testnek és léleknek egyaránt.\n\nDélután utazzon tovább az Altes Kap Hooksiel felé. Ez a feltűnő történelmi tengeri tájékozódási pont fantasztikus kilátást nyújt a partmenti tájra.\n\nAz estét a tágas természetes strandon tölti. Zárja le a napot egy hosszú, pihentető tengerparti sétával a hullámok lágy morajlását hallgatva.",
+        "ro": "Începeți confortabil turul cu mașina la Biserica Sfintei Cruci, înainte de a vizita fascinantul Gruseleum în centrul orașului Hooksiel pentru o experiență grozavă.\n\nLa prânz, vă așteaptă o pauză de relaxare la piscina interioară cu apă de mare. Temperaturile plăcute ale apei oferă relaxare pură pentru corp și minte.\n\nDupă-amiaza, conduceți mai departe către Altes Kap Hooksiel. Acest reper istoric maritim remarcabil oferă priveliști fantastice asupra peisajului de coastă accidentat.\n\nSeara o veți petrece pe plaja naturală spațioasă. Încheiați ziua relaxant, cu o plimbare lungă și revigorantă chiar pe țărmul mării liniștitoare.",
+        "en": "Start your comfortable driving tour at the Church of the Holy Cross before heading to the center of Hooksiel to dive deeply into the fascinating Gruseleum.\n\nAt lunchtime, a relaxing break awaits you at the indoor seawater wave pool. The soothing temperatures of the salt water offer pure relaxation for body and soul.\n\nIn the afternoon, drive on to the Altes Kap Hooksiel. This prominent historical maritime navigation mark offers fantastic views over the rugged coastal landscape.\n\nSpend your evening at the expansive natural beach. Reflect on the lovely day with a long, relaxing walk right along the beautiful shoreline."
+      }
+    }
+  }
+}

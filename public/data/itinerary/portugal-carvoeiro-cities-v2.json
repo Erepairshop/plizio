@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-carvoeiro-cities-v2",
+  "anchor": {
+    "name": "Carvoeiro",
+    "coords": [
+      -8.466667,
+      37.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Vale Centianes",
+            "hu": "Praia de Vale Centianes",
+            "ro": "Praia de Vale Centianes",
+            "en": "Praia de Vale Centianes"
+          },
+          "coords": [
+            -8.455947,
+            37.091466
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Praia de Vale Centianes, die für ihre goldenen Klippen bekannt ist, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Kezdje a napot az arany szikláiról ismert Praia de Vale Centianes strandon, és érkezzen korán, hogy biztosítson magának egy jó helyet a tömeg előtt.",
+            "ro": "Începeți ziua la Praia de Vale Centianes, renumită pentru stâncile sale aurii, și ajungeți devreme pentru a prinde un loc bun înainte de aglomerație.",
+            "en": "Start your day at Praia de Vale Centianes, known for its golden cliffs and calm waters, and arrive early to secure a good spot before the crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Carvoeiro",
+            "hu": "Praia do Carvoeiro",
+            "ro": "Praia do Carvoeiro",
+            "en": "Praia do Carvoeiro"
+          },
+          "coords": [
+            -8.472075,
+            37.096175
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der Praia do Carvoeiro, einem lebhaften Stadtstrand, aber achten Sie auf die starke Sonne und tragen Sie nach dem Schwimmen Sonnencreme auf.",
+            "hu": "Pihenjen a fehér házakkal körülvett, nyüzsgő Praia do Carvoeiro strandon, de figyeljen az erős napra, és fürdés után bőségesen használjon naptejet.",
+            "ro": "Relaxați-vă la Praia do Carvoeiro, o plajă urbană vibrantă înconjurată de case albe, dar aveți grijă la soarele puternic și aplicați cremă de protecție.",
+            "en": "Relax at Praia do Carvoeiro, a vibrant town beach surrounded by white houses, but be mindful of the strong sun and apply plenty of sunscreen after swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Paraíso",
+            "hu": "Praia do Paraíso",
+            "ro": "Praia do Paraíso",
+            "en": "Praia do Paraíso"
+          },
+          "coords": [
+            -8.475562,
+            37.096955
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Praia do Paraíso über eine lange Treppe, also tragen Sie bequeme Schuhe, um die felsigen Stufen sicher zu meistern.",
+            "hu": "Fedezze fel a rejtett Praia do Paraíso szépségét egy hosszú, meredek lépcsőn leereszkedve, ezért viseljen kényelmes cipőt a biztonságos közlekedéshez.",
+            "ro": "Descoperiți frumusețea izolată a Praia do Paraíso coborând o scară lungă și abruptă, așadar purtați încălțăminte confortabilă pentru a coborî în siguranță.",
+            "en": "Discover the secluded beauty of Praia do Paraíso by descending a long, steep staircase, so wear comfortable shoes to navigate the rocky steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad",
+            "hu": "Uszoda",
+            "ro": "Piscină",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            -8.47721,
+            37.110583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem lokalen Pool, der eine ruhige Alternative zu den Meereswellen bietet, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a frissítő fürdőzést ebben a helyi medencében, amely békés alternatívát kínál a tengeri hullámokkal szemben, és hozzon magával saját törölközőt.",
+            "ro": "Bucurați-vă de o baie răcoritoare la această piscină locală, care oferă o alternativă liniștită la valurile oceanului, și aduceți-vă propriul prosop.",
+            "en": "Enjoy a refreshing dip at this local swimming pool, which provides a serene alternative to the ocean waves, and bring your own towel as rentals may be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Drops",
+            "hu": "Drops",
+            "ro": "Drops",
+            "en": "Drops"
+          },
+          "coords": [
+            -8.474528,
+            37.138987
+          ],
+          "category": "recreational",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel von Drops, einer beliebten Wasserpark-Attraktion, aber sichern Sie Ihre Sachen in einem Schließfach, bevor Sie ganz nass werden.",
+            "hu": "Tapasztalja meg a Drops izgalmát, egy népszerű víziparki attrakciót, de zárja be az értékeit egy szekrénybe, mielőtt teljesen elázna a nagy csobbanásban.",
+            "ro": "Experimentați senzațiile tari de la Drops, o atracție acvatică populară, dar asigurați-vă lucrurile într-un dulap înainte de a vă uda complet.",
+            "en": "Experience the thrill of Drops, a popular water park feature with exciting splashes, but secure your belongings in a locker before getting entirely soaked."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an der atemberaubenden Küste der Algarve und erkunden Sie goldene Klippen und Strände.\nWenn die Sonne höher steigt, spazieren Sie über die lebhaften Strandwege von Carvoeiro und genießen Sie den Charme.\nAm Nachmittag wechseln Sie vom salzigen Ozean zu Süßwasserpools und aufregenden Wasserpark-Attraktionen.\nBeenden Sie Ihren Tag voller Wasserspaß und Entspannung und lassen Sie die spektakulären Ausblicke Revue passieren.",
+        "hu": "Kezdje kalandját a lenyűgöző algarvei partvonal mentén, fedezze fel az aranyos sziklákat és a gyönyörű homokos partokat.\nAhogy a nap egyre magasabbra hág, sétáljon Carvoeiro nyüzsgő tengerparti ösvényein, és élvezze a part menti varázslatot.\nDélután váltson a sós óceánról édesvizű medencékre és izgalmas víziparki attrakciókra, amelyek felpörgetik.\nZárja ezt a vízi szórakozással és pihenéssel teli napot a látványos csúszdák és a tengerparti kilátás emlékével.",
+        "ro": "Începeți aventura de-a lungul coastei uimitoare a Algarve, explorând stâncile aurii și plajele cu nisip fin.\nPe măsură ce soarele urcă, plimbați-vă pe cărările vibrante din Carvoeiro și bucurați-vă de farmecul litoralului.\nDupă-amiaza, treceți de la oceanul sărat la piscinele cu apă dulce și la atracțiile palpitante din parcul acvatic.\nÎncheiați-vă ziua plină de distracție acvatică, reflectând la toboganele spectaculoase și la priveliștile de coastă.",
+        "en": "Begin your adventure along the stunning Algarve coastline, exploring golden cliffs and beautiful sandy shores.\nAs the sun climbs higher, move through Carvoeiro's vibrant beach paths and enjoy the coastal charm.\nIn the afternoon, transition from the salty ocean to freshwater pools and thrilling water park attractions.\nWrap up your day full of aquatic fun and relaxation, reflecting on the spectacular slides and coastal views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Vale Centianes",
+            "hu": "Praia de Vale Centianes",
+            "ro": "Praia de Vale Centianes",
+            "en": "Praia de Vale Centianes"
+          },
+          "coords": [
+            -8.455947,
+            37.091466
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Praia de Vale Centianes, die für ihre goldenen Klippen bekannt ist, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Kezdje a napot az arany szikláiról ismert Praia de Vale Centianes strandon, és érkezzen korán, hogy biztosítson magának egy jó helyet a tömeg előtt.",
+            "ro": "Începeți ziua la Praia de Vale Centianes, renumită pentru stâncile sale aurii, și ajungeți devreme pentru a prinde un loc bun înainte de aglomerație.",
+            "en": "Start your day at Praia de Vale Centianes, known for its golden cliffs and calm waters, and arrive early to secure a good spot before the crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Carvoeiro",
+            "hu": "Praia do Carvoeiro",
+            "ro": "Praia do Carvoeiro",
+            "en": "Praia do Carvoeiro"
+          },
+          "coords": [
+            -8.472075,
+            37.096175
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der Praia do Carvoeiro, einem lebhaften Stadtstrand, aber achten Sie auf die starke Sonne und tragen Sie nach dem Schwimmen Sonnencreme auf.",
+            "hu": "Pihenjen a fehér házakkal körülvett, nyüzsgő Praia do Carvoeiro strandon, de figyeljen az erős napra, és fürdés után bőségesen használjon naptejet.",
+            "ro": "Relaxați-vă la Praia do Carvoeiro, o plajă urbană vibrantă înconjurată de case albe, dar aveți grijă la soarele puternic și aplicați cremă de protecție.",
+            "en": "Relax at Praia do Carvoeiro, a vibrant town beach surrounded by white houses, but be mindful of the strong sun and apply plenty of sunscreen after swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Paraíso",
+            "hu": "Praia do Paraíso",
+            "ro": "Praia do Paraíso",
+            "en": "Praia do Paraíso"
+          },
+          "coords": [
+            -8.475562,
+            37.096955
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Praia do Paraíso über eine lange Treppe, also tragen Sie bequeme Schuhe, um die felsigen Stufen sicher zu meistern.",
+            "hu": "Fedezze fel a rejtett Praia do Paraíso szépségét egy hosszú, meredek lépcsőn leereszkedve, ezért viseljen kényelmes cipőt a biztonságos közlekedéshez.",
+            "ro": "Descoperiți frumusețea izolată a Praia do Paraíso coborând o scară lungă și abruptă, așadar purtați încălțăminte confortabilă pentru a coborî în siguranță.",
+            "en": "Discover the secluded beauty of Praia do Paraíso by descending a long, steep staircase, so wear comfortable shoes to navigate the rocky steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad",
+            "hu": "Uszoda",
+            "ro": "Piscină",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            -8.47721,
+            37.110583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem lokalen Pool, der eine ruhige Alternative zu den Meereswellen bietet, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a frissítő fürdőzést ebben a helyi medencében, amely békés alternatívát kínál a tengeri hullámokkal szemben, és hozzon magával saját törölközőt.",
+            "ro": "Bucurați-vă de o baie răcoritoare la această piscină locală, care oferă o alternativă liniștită la valurile oceanului, și aduceți-vă propriul prosop.",
+            "en": "Enjoy a refreshing dip at this local swimming pool, which provides a serene alternative to the ocean waves, and bring your own towel as rentals may be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Big Fall",
+            "hu": "Big Fall",
+            "ro": "Big Fall",
+            "en": "Big Fall"
+          },
+          "coords": [
+            -8.47658,
+            37.139404
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich beim Big Fall für einen unvergesslichen Adrenalinschub hinab und kreuzen Sie die Arme über der Brust, um die beste Haltung zu bewahren.",
+            "hu": "Zúduljon le a Big Fall csúszdán egy felejthetetlen adrenalinlöketért, és a meredek ereszkedés során fonja keresztbe a karját a mellkasán a biztonságért.",
+            "ro": "Coborâți pe Big Fall pentru o doză de adrenalină de neuitat și încrucișați-vă brațele pe piept pentru a menține cea mai bună postură în timpul coborârii.",
+            "en": "Plunge down the Big Fall for an adrenaline rush you will not forget, and cross your arms over your chest to maintain the best posture during the steep descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Tornado",
+            "hu": "Tornado",
+            "ro": "Tornado",
+            "en": "Tornado"
+          },
+          "coords": [
+            -8.475603,
+            37.139953
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Drehen Sie sich durch den riesigen Trichter der Tornado-Wasserrutsche und halten Sie sich gut an den Griffen Ihres Rafts fest, um das Gleichgewicht zu halten.",
+            "hu": "Pörögjön végig a Tornado vízicsúszda óriási tölcsérén, és kapaszkodjon erősen a tutaj fogantyúiba, hogy egyensúlyban maradjon a vad kanyarok során.",
+            "ro": "Rotiți-vă prin pâlnia uriașă a toboganului Tornado și țineți-vă bine de mânerele plutei pentru a vă echilibra prin virajele extrem de sălbatice.",
+            "en": "Spin through the giant funnel of the Tornado water slide for dizzying fun, and hold on tight to your raft handles to balance yourself through the wild turns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an der atemberaubenden Küste der Algarve und erkunden Sie goldene Klippen und Strände.\nWenn die Sonne höher steigt, spazieren Sie über die lebhaften Strandwege von Carvoeiro und genießen Sie den Charme.\nAm Nachmittag wechseln Sie vom salzigen Ozean zu Süßwasserpools und aufregenden Wasserpark-Attraktionen.\nBeenden Sie Ihren Tag voller Wasserspaß und Entspannung und lassen Sie die spektakulären Ausblicke Revue passieren.",
+        "hu": "Kezdje kalandját a lenyűgöző algarvei partvonal mentén, fedezze fel az aranyos sziklákat és a gyönyörű homokos partokat.\nAhogy a nap egyre magasabbra hág, sétáljon Carvoeiro nyüzsgő tengerparti ösvényein, és élvezze a part menti varázslatot.\nDélután váltson a sós óceánról édesvizű medencékre és izgalmas víziparki attrakciókra, amelyek felpörgetik.\nZárja ezt a vízi szórakozással és pihenéssel teli napot a látványos csúszdák és a tengerparti kilátás emlékével.",
+        "ro": "Începeți aventura de-a lungul coastei uimitoare a Algarve, explorând stâncile aurii și plajele cu nisip fin.\nPe măsură ce soarele urcă, plimbați-vă pe cărările vibrante din Carvoeiro și bucurați-vă de farmecul litoralului.\nDupă-amiaza, treceți de la oceanul sărat la piscinele cu apă dulce și la atracțiile palpitante din parcul acvatic.\nÎncheiați-vă ziua plină de distracție acvatică, reflectând la toboganele spectaculoase și la priveliștile de coastă.",
+        "en": "Begin your adventure along the stunning Algarve coastline, exploring golden cliffs and beautiful sandy shores.\nAs the sun climbs higher, move through Carvoeiro's vibrant beach paths and enjoy the coastal charm.\nIn the afternoon, transition from the salty ocean to freshwater pools and thrilling water park attractions.\nWrap up your day full of aquatic fun and relaxation, reflecting on the spectacular slides and coastal views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:59",
+      "total_km": 7.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Vale Centianes",
+            "hu": "Praia de Vale Centianes",
+            "ro": "Praia de Vale Centianes",
+            "en": "Praia de Vale Centianes"
+          },
+          "coords": [
+            -8.455947,
+            37.091466
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Praia de Vale Centianes, die für ihre goldenen Klippen bekannt ist, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Kezdje a napot az arany szikláiról ismert Praia de Vale Centianes strandon, és érkezzen korán, hogy biztosítson magának egy jó helyet a tömeg előtt.",
+            "ro": "Începeți ziua la Praia de Vale Centianes, renumită pentru stâncile sale aurii, și ajungeți devreme pentru a prinde un loc bun înainte de aglomerație.",
+            "en": "Start your day at Praia de Vale Centianes, known for its golden cliffs and calm waters, and arrive early to secure a good spot before the crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Carvoeiro",
+            "hu": "Praia do Carvoeiro",
+            "ro": "Praia do Carvoeiro",
+            "en": "Praia do Carvoeiro"
+          },
+          "coords": [
+            -8.472075,
+            37.096175
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der Praia do Carvoeiro, einem lebhaften Stadtstrand, aber achten Sie auf die starke Sonne und tragen Sie nach dem Schwimmen Sonnencreme auf.",
+            "hu": "Pihenjen a fehér házakkal körülvett, nyüzsgő Praia do Carvoeiro strandon, de figyeljen az erős napra, és fürdés után bőségesen használjon naptejet.",
+            "ro": "Relaxați-vă la Praia do Carvoeiro, o plajă urbană vibrantă înconjurată de case albe, dar aveți grijă la soarele puternic și aplicați cremă de protecție.",
+            "en": "Relax at Praia do Carvoeiro, a vibrant town beach surrounded by white houses, but be mindful of the strong sun and apply plenty of sunscreen after swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Paraíso",
+            "hu": "Praia do Paraíso",
+            "ro": "Praia do Paraíso",
+            "en": "Praia do Paraíso"
+          },
+          "coords": [
+            -8.475562,
+            37.096955
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Praia do Paraíso über eine lange Treppe, also tragen Sie bequeme Schuhe, um die felsigen Stufen sicher zu meistern.",
+            "hu": "Fedezze fel a rejtett Praia do Paraíso szépségét egy hosszú, meredek lépcsőn leereszkedve, ezért viseljen kényelmes cipőt a biztonságos közlekedéshez.",
+            "ro": "Descoperiți frumusețea izolată a Praia do Paraíso coborând o scară lungă și abruptă, așadar purtați încălțăminte confortabilă pentru a coborî în siguranță.",
+            "en": "Discover the secluded beauty of Praia do Paraíso by descending a long, steep staircase, so wear comfortable shoes to navigate the rocky steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad",
+            "hu": "Uszoda",
+            "ro": "Piscină",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            -8.47721,
+            37.110583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem lokalen Pool, der eine ruhige Alternative zu den Meereswellen bietet, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a frissítő fürdőzést ebben a helyi medencében, amely békés alternatívát kínál a tengeri hullámokkal szemben, és hozzon magával saját törölközőt.",
+            "ro": "Bucurați-vă de o baie răcoritoare la această piscină locală, care oferă o alternativă liniștită la valurile oceanului, și aduceți-vă propriul prosop.",
+            "en": "Enjoy a refreshing dip at this local swimming pool, which provides a serene alternative to the ocean waves, and bring your own towel as rentals may be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Drops",
+            "hu": "Drops",
+            "ro": "Drops",
+            "en": "Drops"
+          },
+          "coords": [
+            -8.474528,
+            37.138987
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel von Drops, einer beliebten Wasserpark-Attraktion, aber sichern Sie Ihre Sachen in einem Schließfach, bevor Sie ganz nass werden.",
+            "hu": "Tapasztalja meg a Drops izgalmát, egy népszerű víziparki attrakciót, de zárja be az értékeit egy szekrénybe, mielőtt teljesen elázna a nagy csobbanásban.",
+            "ro": "Experimentați senzațiile tari de la Drops, o atracție acvatică populară, dar asigurați-vă lucrurile într-un dulap înainte de a vă uda complet.",
+            "en": "Experience the thrill of Drops, a popular water park feature with exciting splashes, but secure your belongings in a locker before getting entirely soaked."
+          }
+        },
+        {
+          "name": {
+            "de": "Big Fall",
+            "hu": "Big Fall",
+            "ro": "Big Fall",
+            "en": "Big Fall"
+          },
+          "coords": [
+            -8.47658,
+            37.139404
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich beim Big Fall für einen unvergesslichen Adrenalinschub hinab und kreuzen Sie die Arme über der Brust, um die beste Haltung zu bewahren.",
+            "hu": "Zúduljon le a Big Fall csúszdán egy felejthetetlen adrenalinlöketért, és a meredek ereszkedés során fonja keresztbe a karját a mellkasán a biztonságért.",
+            "ro": "Coborâți pe Big Fall pentru o doză de adrenalină de neuitat și încrucișați-vă brațele pe piept pentru a menține cea mai bună postură în timpul coborârii.",
+            "en": "Plunge down the Big Fall for an adrenaline rush you will not forget, and cross your arms over your chest to maintain the best posture during the steep descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Tornado",
+            "hu": "Tornado",
+            "ro": "Tornado",
+            "en": "Tornado"
+          },
+          "coords": [
+            -8.475603,
+            37.139953
+          ],
+          "category": "recreational",
+          "arrive_at": "16:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Drehen Sie sich durch den riesigen Trichter der Tornado-Wasserrutsche und halten Sie sich gut an den Griffen Ihres Rafts fest, um das Gleichgewicht zu halten.",
+            "hu": "Pörögjön végig a Tornado vízicsúszda óriási tölcsérén, és kapaszkodjon erősen a tutaj fogantyúiba, hogy egyensúlyban maradjon a vad kanyarok során.",
+            "ro": "Rotiți-vă prin pâlnia uriașă a toboganului Tornado și țineți-vă bine de mânerele plutei pentru a vă echilibra prin virajele extrem de sălbatice.",
+            "en": "Spin through the giant funnel of the Tornado water slide for dizzying fun, and hold on tight to your raft handles to balance yourself through the wild turns."
+          }
+        },
+        {
+          "name": {
+            "de": "The Big Wave",
+            "hu": "The Big Wave",
+            "ro": "The Big Wave",
+            "en": "The Big Wave"
+          },
+          "coords": [
+            -8.475535,
+            37.140911
+          ],
+          "category": "recreational",
+          "arrive_at": "17:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bezwingen Sie The Big Wave, eine ikonische Rutsche, die eine riesige Meereswelle simuliert, und fahren Sie am späten Nachmittag, wenn die Schlangen kürzer sind.",
+            "hu": "Hódítsa meg a The Big Wave csúszdát, amely egy hatalmas óceáni hullámot szimulál, és időzítse a csúszást a késő délutánra, amikor a hosszú sorok már enyhülnek.",
+            "ro": "Cuceriți The Big Wave, un tobogan iconic ce simulează o undă masivă a oceanului, și dați-vă după-amiaza târziu, când cozile cele mai lungi se mai reduc.",
+            "en": "Conquer The Big Wave, an iconic slide that simulates a massive ocean swell, and time your ride for the late afternoon when the longest queues finally subside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer an der atemberaubenden Küste der Algarve und erkunden Sie goldene Klippen und Strände.\nWenn die Sonne höher steigt, spazieren Sie über die lebhaften Strandwege von Carvoeiro und genießen Sie den Charme.\nAm Nachmittag wechseln Sie vom salzigen Ozean zu Süßwasserpools und aufregenden Wasserpark-Attraktionen.\nBeenden Sie Ihren Tag voller Wasserspaß und Entspannung und lassen Sie die spektakulären Ausblicke Revue passieren.",
+        "hu": "Kezdje kalandját a lenyűgöző algarvei partvonal mentén, fedezze fel az aranyos sziklákat és a gyönyörű homokos partokat.\nAhogy a nap egyre magasabbra hág, sétáljon Carvoeiro nyüzsgő tengerparti ösvényein, és élvezze a part menti varázslatot.\nDélután váltson a sós óceánról édesvizű medencékre és izgalmas víziparki attrakciókra, amelyek felpörgetik.\nZárja ezt a vízi szórakozással és pihenéssel teli napot a látványos csúszdák és a tengerparti kilátás emlékével.",
+        "ro": "Începeți aventura de-a lungul coastei uimitoare a Algarve, explorând stâncile aurii și plajele cu nisip fin.\nPe măsură ce soarele urcă, plimbați-vă pe cărările vibrante din Carvoeiro și bucurați-vă de farmecul litoralului.\nDupă-amiaza, treceți de la oceanul sărat la piscinele cu apă dulce și la atracțiile palpitante din parcul acvatic.\nÎncheiați-vă ziua plină de distracție acvatică, reflectând la toboganele spectaculoase și la priveliștile de coastă.",
+        "en": "Begin your adventure along the stunning Algarve coastline, exploring golden cliffs and beautiful sandy shores.\nAs the sun climbs higher, move through Carvoeiro's vibrant beach paths and enjoy the coastal charm.\nIn the afternoon, transition from the salty ocean to freshwater pools and thrilling water park attractions.\nWrap up your day full of aquatic fun and relaxation, reflecting on the spectacular slides and coastal views."
+      }
+    }
+  }
+}

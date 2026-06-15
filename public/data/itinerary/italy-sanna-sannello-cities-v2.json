@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-sanna-sannello-cities-v2",
+  "anchor": {
+    "name": "Sanna Sannello",
+    "coords": [
+      17.1384,
+      39.05112
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Garden",
+            "hu": "Garden",
+            "ro": "Garden",
+            "en": "Garden"
+          },
+          "coords": [
+            17.139074,
+            39.054209
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Morgenspaziergang durch diese wunderschön gepflegte Grünanlage und vergessen Sie nicht, eine kleine Decke für ein Picknick einzupacken.",
+            "hu": "Élvezze a pihentető reggeli sétát ezen a gyönyörűen karbantartott zöldterületen, és ne felejtsen el magával hozni egy kis takarót egy gyors piknikhez a füvön.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de dimineață prin acest spațiu verde frumos întreținut și nu uitați să luați o pătură mică pentru un picnic rapid pe iarbă.",
+            "en": "Enjoy a relaxing morning stroll through this beautifully maintained green space, and don't forget to pack a small blanket for a quick picnic on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leonardo",
+            "hu": "San Leonardo",
+            "ro": "San Leonardo",
+            "en": "San Leonardo"
+          },
+          "coords": [
+            17.137872,
+            39.055463
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser reizvolle Erholungsort bietet eine perfekte Mischung aus Meerblick und entspannter Atmosphäre, kommen Sie also früh, um sich den besten Platz zu sichern.",
+            "hu": "Ez az elragadó rekreációs hely a tengeri kilátás és a nyugodt légkör tökéletes keverékét kínálja, ezért érkezzen korán, hogy biztosítsa a legjobb helyet.",
+            "ro": "Acest loc de agrement încântător oferă un amestec perfect de vedere la mare și atmosferă relaxată, deci ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "This delightful recreational spot offers a perfect blend of sea views and relaxed atmosphere, so arrive early to secure the best spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Palace Beach Resort",
+            "hu": "Palace Beach Resort",
+            "ro": "Palace Beach Resort",
+            "en": "Palace Beach Resort"
+          },
+          "coords": [
+            17.142201,
+            39.050511
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie gehobene Entspannung an der Küste mit unberührten Sandstränden und buchen Sie in den Sommermonaten im Voraus eine Sonnenliege für Ihren Komfort.",
+            "hu": "Tapasztalja meg az exkluzív tengerparti pihenést az érintetlen homokos szakaszokon, és a nyári hónapokban érdemes előre napágyat foglalnia a kényelme érdekében.",
+            "ro": "Experimentați relaxarea de lux pe coastă, cu întinderi de nisip imaculat, și luați în considerare rezervarea unui șezlong în avans în timpul lunilor aglomerate.",
+            "en": "Experience upscale coastal relaxation with pristine sandy stretches, and consider booking a sunbed in advance during the busy summer months to guarantee your comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido degli Scogli",
+            "hu": "Lido degli Scogli",
+            "ro": "Lido degli Scogli",
+            "en": "Lido degli Scogli"
+          },
+          "coords": [
+            17.145595,
+            39.048014
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartigen Felsformationen, die diesem Strand seinen Namen geben, und tragen Sie feste Wasserschuhe, um die unebene Küste bequem zu erkunden.",
+            "hu": "Csodálja meg az egyedi sziklaképződményeket, amelyekről ez a strand a nevét kapta, miközben erős vízi cipőt visel, hogy kényelmesen mozoghasson az egyenetlen parton.",
+            "ro": "Admirați formațiunile stâncoase unice care dau numele acestei plaje, în timp ce purtați încălțăminte de apă rezistentă pentru a naviga confortabil țărmul denivelat.",
+            "en": "Marvel at the unique rock formations that give this beach its name, while wearing sturdy water shoes to comfortably navigate the slightly uneven shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Azzurro",
+            "hu": "Lido Azzurro",
+            "ro": "Lido Azzurro",
+            "en": "Lido Azzurro"
+          },
+          "coords": [
+            17.146399,
+            39.046746
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das einladende azurblaue Wasser ein, das sich perfekt zum Schwimmen eignet, aber bringen Sie Ihre eigene Schnorchelausrüstung mit, um die Unterwasserwelt zu genießen.",
+            "hu": "Merüljön el a hívogató, úszásra tökéletes azúrkék vizekben, de mindenképpen hozzon magával saját búvárfelszerelést, hogy teljes mértékben élvezhesse a tengeri élővilágot.",
+            "ro": "Scufundați-vă în apele azurii primitoare, perfecte pentru înot, dar asigurați-vă că aduceți propriul echipament de snorkeling pentru a aprecia viața marină locală.",
+            "en": "Dive into the inviting azure waters that are perfect for swimming, but make sure to bring your own snorkeling gear to fully appreciate the local marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare Sport",
+            "hu": "Mare Sport",
+            "ro": "Mare Sport",
+            "en": "Mare Sport"
+          },
+          "coords": [
+            17.147876,
+            39.044904
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit aufregenden Wassersportarten oder beobachten Sie einfach die aktive Atmosphäre und prüfen Sie den örtlichen Verleih auf freie Paddleboards.",
+            "hu": "Fejezze be a napot izgalmas vízi sportokkal vagy egyszerűen az aktív hangulat figyelésével, és mindenképpen érdeklődjön a helyi kölcsönzőben a szabad evezős deszkákról.",
+            "ro": "Încheiați ziua cu sporturi nautice captivante sau pur și simplu privind atmosfera activă și asigurați-vă că verificați magazinul local pentru închirierea de paddleboard-uri.",
+            "en": "End your day with exciting water sports or simply watching the active vibe, and be sure to check the local rental shop for the latest paddleboard availability."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang durch den ruhigen Garten von Sanna Sannello und die Wege von San Leonardo. Die Meeresbrise macht es herrlich.\n\nAm Mittag erreichen Sie das luxuriöse Palace Beach Resort. Hier laden die warme Sonne und der makellose Sand zu einer perfekten Pause am Wasser ein.\n\nDer Nachmittag führt Sie an der Küste entlang, um Lido degli Scogli und Lido Azzurro zu entdecken. Diese Ufer bieten markante Felsformationen und azurblaues Wasser.\n\nBeenden Sie Ihren aktiven Tag im Mare Sport. Die lebhafte Abendatmosphäre ist ideal, um den Sonnenuntergang zu beobachten und Ihr Abenteuer ausklingen zu lassen.",
+        "hu": "Kezdje a reggelt egy frissítő sétával Sanna Sannello békés kertjében és San Leonardo ösvényein. A lágy tengerparti szellő igazán elragadóvá teszi a kora reggeli sétát.\n\nDélre eléri a fényűző Palace Beach Resortot. Itt a meleg napsütés és az érintetlen homok tökéletes meghívást kínál a pihenésre és a feltöltődésre a vízparton.\n\nA délután a zord partvonal mentén halad, ahol felfedezheti a Lido degli Scogli-t és a Lido Azzurro-t. Ezek a partok lenyűgöző sziklaalakzatokat és vizet kínálnak.\n\nZárja aktív napját a Mare Sportban. Az itteni élénk esti hangulat ideális a naplemente megtekintéséhez, miközben visszagondol a gyönyörű tengerparti kalandra.",
+        "ro": "Începeți dimineața cu o plimbare răcoritoare prin grădina senină din Sanna Sannello și potecile din San Leonardo. Briza blândă a coastei face plimbarea foarte plăcută.\n\nLa amiază, veți ajunge la luxosul Palace Beach Resort. Aici, soarele cald și nisipul curat oferă o invitație perfectă la odihnă și relaxare lângă apă.\n\nDupă-amiaza vă duce de-a lungul coastei accidentate pentru a descoperi Lido degli Scogli și Lido Azzurro. Aceste țărmuri prezintă formațiuni stâncoase uimitoare.\n\nÎncheiați-vă ziua activă la Mare Sport. Atmosfera vibrantă de seară este ideală pentru a privi apusul soarelui în timp ce reflectați la frumoasa aventură.",
+        "en": "Start your morning with a refreshing stroll through Sanna Sannello's serene garden and the recreational paths of San Leonardo. The gentle coastal breeze makes the early walk truly delightful.\n\nBy midday, you will reach the luxurious Palace Beach Resort. Here, the warm sun and pristine sand offer a perfect invitation to rest and recharge near the water.\n\nThe afternoon takes you along the rugged coastline to discover Lido degli Scogli and Lido Azzurro. These iconic shores present striking rock formations and inviting azure waters.\n\nConclude your active day at Mare Sport. The vibrant evening atmosphere here is ideal for watching the sunset while reflecting on your beautiful coastal walking adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palace Beach Resort",
+            "hu": "Palace Beach Resort",
+            "ro": "Palace Beach Resort",
+            "en": "Palace Beach Resort"
+          },
+          "coords": [
+            17.142201,
+            39.050511
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie gehobene Entspannung an der Küste mit unberührten Sandstränden und buchen Sie in den Sommermonaten im Voraus eine Sonnenliege für Ihren Komfort.",
+            "hu": "Tapasztalja meg az exkluzív tengerparti pihenést az érintetlen homokos szakaszokon, és a nyári hónapokban érdemes előre napágyat foglalnia a kényelme érdekében.",
+            "ro": "Experimentați relaxarea de lux pe coastă, cu întinderi de nisip imaculat, și luați în considerare rezervarea unui șezlong în avans în timpul lunilor aglomerate.",
+            "en": "Experience upscale coastal relaxation with pristine sandy stretches, and consider booking a sunbed in advance during the busy summer months to guarantee your comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare Sport",
+            "hu": "Mare Sport",
+            "ro": "Mare Sport",
+            "en": "Mare Sport"
+          },
+          "coords": [
+            17.147876,
+            39.044904
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit aufregenden Wassersportarten oder beobachten Sie einfach die aktive Atmosphäre und prüfen Sie den örtlichen Verleih auf freie Paddleboards.",
+            "hu": "Fejezze be a napot izgalmas vízi sportokkal vagy egyszerűen az aktív hangulat figyelésével, és mindenképpen érdeklődjön a helyi kölcsönzőben a szabad evezős deszkákról.",
+            "ro": "Încheiați ziua cu sporturi nautice captivante sau pur și simplu privind atmosfera activă și asigurați-vă că verificați magazinul local pentru închirierea de paddleboard-uri.",
+            "en": "End your day with exciting water sports or simply watching the active vibe, and be sure to check the local rental shop for the latest paddleboard availability."
+          }
+        },
+        {
+          "name": {
+            "de": "\"La Ronde\"",
+            "hu": "\"La Ronde\"",
+            "ro": "\"La Ronde\"",
+            "en": "\"La Ronde\""
+          },
+          "coords": [
+            17.150307,
+            39.044094
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause an diesem beliebten Küstentreffpunkt mit seiner lebhaften Atmosphäre und holen Sie sich ein erfrischendes lokales Getränk vom nahegelegenen Kiosk.",
+            "hu": "Tartson egy jól megérdemelt szünetet ezen a népszerű tengerparti szórakozóhelyen, amely élénk hangulatot áraszt, és kérjen egy frissítő helyi italt a közeli kioszkból.",
+            "ro": "Luați o pauză binemeritată la acest loc popular de pe coastă, cu o atmosferă vibrantă, și cumpărați o băutură locală răcoritoare de la chioșcul din apropiere.",
+            "en": "Take a well-deserved break at this popular coastal hangout which features a vibrant atmosphere, and grab a refreshing local beverage from the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Rossa",
+            "hu": "Casa Rossa",
+            "ro": "Casa Rossa",
+            "en": "Casa Rossa"
+          },
+          "coords": [
+            17.153011,
+            39.042925
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses ikonische rote Gebäude dient als großartiger visueller Orientierungspunkt entlang Ihrer Radroute und bietet eine hervorragende Kulisse für ein schnelles Foto.",
+            "hu": "Ez az ikonikus piros építmény nagyszerű vizuális tájékozódási pontként szolgál a kerékpáros útvonalon, így kiváló hátteret biztosít egy gyors és emlékezetes fotóhoz.",
+            "ro": "Această structură roșie iconică servește ca un punct de reper vizual excelent de-a lungul traseului de ciclism, fiind un fundal excelent pentru o fotografie memorabilă.",
+            "en": "This iconic red structure serves as a great visual landmark along your cycling route, making it an excellent backdrop for a quick and memorable photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo di Capo Donato",
+            "hu": "Pozzo di Capo Donato",
+            "ro": "Pozzo di Capo Donato",
+            "en": "Pozzo di Capo Donato"
+          },
+          "coords": [
+            17.154009,
+            39.042836
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Brunnen, der die Genialität der antiken lokalen Ingenieurskunst offenbart, und gehen Sie vorsichtig, da die Steine rutschig sein können.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kutat, amely az ősi helyi mérnöki tudást tárja elénk, és lépkedjen óvatosan, mivel a környező kövek meglehetősen csúszósak lehetnek.",
+            "ro": "Explorați această fântână istorică fascinantă care dezvăluie ingeniozitatea ingineriei locale antice și pășiți cu grijă, deoarece pietrele pot fi destul de alunecoase.",
+            "en": "Explore this fascinating historical well that reveals the ingenuity of ancient local engineering, and tread carefully as the surrounding stones can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "hu": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "ro": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "en": "Museo Geo-Paleontologico di Vrica-Stuni"
+          },
+          "coords": [
+            17.157522,
+            39.039554
+          ],
+          "category": "museum",
+          "arrive_at": "15:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch spannende Ausstellungen in die tiefe geologische Geschichte der Region ein, aber planen Sie mindestens zwei Stunden ein, um die Fossilien zu bewundern.",
+            "hu": "Merüljön el a régió mély geológiai történelmében a magával ragadó kiállításokon keresztül, de ne felejtsen el legalább két órát szánni az összetett fosszília-bemutatókra.",
+            "ro": "Pătrundeți în istoria geologică profundă a regiunii prin expoziții captivante, dar amintiți-vă să alocați cel puțin două ore pentru a absorbi corect afișajele complexe.",
+            "en": "Delve into the deep geological history of the region through engaging exhibits, but remember to allocate at least two hours to properly absorb the complex fossil displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am wunderschönen Palace Beach Resort und genießen Sie die frische Morgenluft, bevor Sie nach Süden radeln.\n\nGegen Mittag erreichen Sie das lebhafte \"La Ronde\" und die ikonische Casa Rossa. Die malerischen Küstenstraßen bieten eine herrliche Fahrt.\n\nAm Nachmittag reisen Sie am Pozzo di Capo Donato in die Vergangenheit. Dieser historische Brunnen zeigt perfekt die antike Ingenieurskunst.\n\nBeenden Sie Ihre Reise im Geo-Paläontologischen Museum. Es ist ein faszinierendes und lehrreiches Ende eines aktiven Tages auf zwei Rädern.",
+        "hu": "Kezdje kerékpártúráját a gyönyörű Palace Beach Resortban, élvezve a friss reggeli levegőt, mielőtt dél felé pedálozna.\n\nDélben eléri a nyüzsgő \"La Ronde\"-t és az ikonikus Casa Rossát. A festői tengerparti utak sima és hihetetlenül látványos utazást kínálnak.\n\nDélután lépjen vissza az időben a Pozzo di Capo Donato-nál. Ez a történelmi kút tökéletesen bemutatja az ősi mérnöki tudományt.\n\nFejezze be utazását a Geo-Paleontológiai Múzeumban. Ez egy lenyűgöző és tanulságos befejezése az aktív, két keréken töltött napnak.",
+        "ro": "Începeți-vă turul cu bicicleta la frumosul Palace Beach Resort, bucurându-vă de aerul proaspăt al dimineții înainte de a pedala spre sud.\n\nAmiaza vă aduce la vibranta \"La Ronde\" și iconica Casa Rossa. Drumurile pitorești de coastă oferă o plimbare lină și incredibil de frumoasă.\n\nDupă-amiaza, faceți un pas înapoi în timp la Pozzo di Capo Donato. Această fântână istorică prezintă perfect ingineria antică ascunsă.\n\nTerminați călătoria scufundându-vă în istorie la Muzeul Geo-Paleontologic. Este un sfârșit fascinant și educativ pentru o zi de explorare.",
+        "en": "Kick off your cycling tour at the beautiful Palace Beach Resort, enjoying the fresh morning air before pedaling southwards to the lively Mare Sport area.\n\nMidday brings you to the vibrant \"La Ronde\" and the iconic Casa Rossa. The scenic coastal roads offer a smooth and incredibly picturesque ride.\n\nIn the afternoon, step back in time at the Pozzo di Capo Donato. This historical well perfectly showcases the ancient engineering hidden along your cycling route.\n\nFinish your journey diving into deep history at the Geo-Paleontological Museum. It is a fascinating and educational end to a day of active exploration on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cimitero monumentale di Crotone",
+            "hu": "Cimitero monumentale di Crotone",
+            "ro": "Cimitero monumentale di Crotone",
+            "en": "Cimitero monumentale di Crotone"
+          },
+          "coords": [
+            17.129728,
+            39.065334
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer stillen Ehrung auf diesem monumentalen Friedhof, der reich an Skulpturenkunst ist, und bewundern Sie respektvoll die kunstvollen Marmorgrabsteine.",
+            "hu": "Kezdje a napot tiszteletadással ezen a szobrászati művészetekben gazdag monumentális temetőben, és őrizzen meg csendes viselkedést a bonyolult márvány sírkövek megfigyelése közben.",
+            "ro": "Începeți-vă ziua aducând un omagiu la acest mare cimitir monumental bogat în artă sculpturală și păstrați o atitudine liniștită în timp ce observați pietrele funerare din marmură.",
+            "en": "Begin your day paying respects at this grand monumental cemetery rich in sculptural art, and maintain a quiet demeanor while observing the intricate marble tombstones."
+          }
+        },
+        {
+          "name": {
+            "de": "Necropoli Greca",
+            "hu": "Necropoli Greca",
+            "ro": "Necropoli Greca",
+            "en": "Necropoli Greca"
+          },
+          "coords": [
+            17.129894,
+            39.06363
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Grabstätten, die die Geschichte der griechischen Zivilisation in Italien erzählen, und engagieren Sie einen lokalen Führer für die bedeutsamen Ruinen.",
+            "hu": "Fedezze fel az ősi temetkezési helyeket, amelyek a görög civilizáció olaszországi történetét mesélik el, és érdemes helyi vezetőt fogadni a jelentős romok teljes értelmezéséhez.",
+            "ro": "Descoperiți vechile cimitire care spun povestea civilizației grecești în Italia și luați în considerare angajarea unui ghid local pentru a interpreta pe deplin ruinele semnificative.",
+            "en": "Discover the ancient burial grounds that tell the story of Greek civilization in Italy, and consider hiring a local guide to fully interpret the sparse but significant ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leonardo",
+            "hu": "San Leonardo",
+            "ro": "San Leonardo",
+            "en": "San Leonardo"
+          },
+          "coords": [
+            17.137872,
+            39.055463
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser reizvolle Erholungsort bietet eine perfekte Mischung aus Meerblick und entspannter Atmosphäre, kommen Sie also früh, um sich den besten Platz zu sichern.",
+            "hu": "Ez az elragadó rekreációs hely a tengeri kilátás és a nyugodt légkör tökéletes keverékét kínálja, ezért érkezzen korán, hogy biztosítsa a legjobb helyet.",
+            "ro": "Acest loc de agrement încântător oferă un amestec perfect de vedere la mare și atmosferă relaxată, deci ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "This delightful recreational spot offers a perfect blend of sea views and relaxed atmosphere, so arrive early to secure the best spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kika",
+            "hu": "Kika",
+            "ro": "Kika",
+            "en": "Kika"
+          },
+          "coords": [
+            17.151839,
+            39.043406
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem modernen Freizeitziel, das für sein stilvolles Ambiente bekannt ist, und machen Sie hier Ihre perfekte Mittagspause auf Ihrer Autotour.",
+            "hu": "Pihenjen ezen a stílusos hangulatáról ismert kortárs szabadidős célponton, amely tökéletes déli megállóhely egy könnyű ebédhez, mielőtt folytatná az autós túrát.",
+            "ro": "Relaxați-vă la această destinație de agrement contemporană cunoscută pentru ambianța sa elegantă, fiind oprirea perfectă la amiază pentru a lua un prânz ușor înainte de a continua.",
+            "en": "Relax at this contemporary leisure destination known for its stylish ambiance, making it the perfect midday stop to grab a light lunch before continuing your driving tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo di Capo Donato",
+            "hu": "Pozzo di Capo Donato",
+            "ro": "Pozzo di Capo Donato",
+            "en": "Pozzo di Capo Donato"
+          },
+          "coords": [
+            17.154009,
+            39.042836
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Brunnen, der die Genialität der antiken lokalen Ingenieurskunst offenbart, und gehen Sie vorsichtig, da die Steine rutschig sein können.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kutat, amely az ősi helyi mérnöki tudást tárja elénk, és lépkedjen óvatosan, mivel a környező kövek meglehetősen csúszósak lehetnek.",
+            "ro": "Explorați această fântână istorică fascinantă care dezvăluie ingeniozitatea ingineriei locale antice și pășiți cu grijă, deoarece pietrele pot fi destul de alunecoase.",
+            "en": "Explore this fascinating historical well that reveals the ingenuity of ancient local engineering, and tread carefully as the surrounding stones can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "hu": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "ro": "Museo Geo-Paleontologico di Vrica-Stuni",
+            "en": "Museo Geo-Paleontologico di Vrica-Stuni"
+          },
+          "coords": [
+            17.157522,
+            39.039554
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch spannende Ausstellungen in die tiefe geologische Geschichte der Region ein, aber planen Sie mindestens zwei Stunden ein, um die Fossilien zu bewundern.",
+            "hu": "Merüljön el a régió mély geológiai történelmében a magával ragadó kiállításokon keresztül, de ne felejtsen el legalább két órát szánni az összetett fosszília-bemutatókra.",
+            "ro": "Pătrundeți în istoria geologică profundă a regiunii prin expoziții captivante, dar amintiți-vă să alocați cel puțin două ore pentru a absorbi corect afișajele complexe.",
+            "en": "Delve into the deep geological history of the region through engaging exhibits, but remember to allocate at least two hours to properly absorb the complex fossil displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantis",
+            "hu": "Atlantis",
+            "ro": "Atlantis",
+            "en": "Atlantis"
+          },
+          "coords": [
+            17.159826,
+            39.039332
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem legendären Küstenresort, wo der Spaß bis in den Abend andauert, und stellen Sie sich auf lebhaftes Publikum ein, das den Sonnenuntergang genießt.",
+            "hu": "Zárja utazását ezen a legendás tengerparti üdülőhelyen, ahol a szórakozás estébe nyúlóan folytatódik, és készüljön fel a nyüzsgő tömegre, akik a tengerparti naplementét élvezik.",
+            "ro": "Încheiați-vă călătoria în această stațiune de coastă legendară, unde distracția continuă până seara, și fiți pregătiți pentru mulțimile pline de viață care se bucură de apusul mării.",
+            "en": "Conclude your trip at this legendary coastal resort area where the fun continues into the evening, and be prepared for lively crowds looking to enjoy the sunset by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem Besuch des großen Cimitero monumentale und der antiken griechischen Nekropole im ruhigen Morgenlicht.\n\nFahren Sie gegen Mittag an die Küste, um die entspannte Atmosphäre von San Leonardo zu genießen, und machen Sie eine Pause in der Kika Lounge.\n\nIhre Nachmittagsfahrt führt Sie zum faszinierenden Pozzo di Capo Donato und zu den umfangreichen Ausstellungen des Geo-Paläontologischen Museums.\n\nWenn der Abend hereinbricht, parken Sie am legendären Atlantis Resort. Die energiegeladene Atmosphäre ist der perfekte Abschluss Ihres Roadtrips.",
+        "hu": "Kezdje autós túráját a hatalmas Cimitero monumentale és az ókori görög nekropolisz megtekintésével. A reggeli fény tiszteletteljes hangulatot teremt.\n\nDélben vezessen délre a part felé, hogy élvezze a San Leonardo nyugodt légkörét, és tartson egy frissítő szünetet a stílusos Kika lounge-ban.\n\nA délutáni vezetés a lenyűgöző Pozzo di Capo Donato-hoz és a Geo-Paleontológiai Múzeum kiterjedt kiállításaihoz viszi Önt a mély történelembe.\n\nAhogy leszáll az este, parkoljon le a legendás Atlantis üdülőhelyen. Az energikus légkör tökéletes hátteret biztosít a tengerparti utazás megünnepléséhez.",
+        "ro": "Începeți traseul auto vizitând marele Cimitero monumentale și vechea Necropolă grecească. Lumina dimineții creează o atmosferă plină de respect.\n\nConduceți spre sud spre coastă la amiază pentru a vă bucura de ambianța relaxată din San Leonardo și faceți o pauză la lounge-ul elegant Kika.\n\nDrumul de după-amiază vă duce la fascinantul Pozzo di Capo Donato și la expozițiile vaste ale Muzeului Geo-Paleontologic.\n\nOdată cu lăsarea serii, parcați mașina la legendara stațiune Atlantis. Atmosfera plină de energie este fundalul perfect pentru a sărbători finalul.",
+        "en": "Start your driving route by paying respects at the grand Cimitero monumentale and the ancient Greek Necropolis. The morning light sets a reverent tone for these historic sites.\n\nDrive south towards the coast by midday to enjoy the relaxed ambiance of San Leonardo and grab a refreshing break at the stylish Kika lounge.\n\nYour afternoon drive takes you to the fascinating Pozzo di Capo Donato and the extensive exhibits of the Geo-Paleontological Museum, exploring deep history.\n\nAs evening falls, park your car at the legendary Atlantis resort. The energetic atmosphere is the perfect backdrop to celebrate the conclusion of your coastal road trip."
+      }
+    }
+  }
+}

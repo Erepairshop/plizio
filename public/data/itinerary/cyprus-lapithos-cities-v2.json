@@ -1,0 +1,497 @@
+{
+  "city_id": "cyprus-lapithos-cities-v2",
+  "anchor": {
+    "name": "Lapithos",
+    "coords": [
+      33.17228,
+      35.33873
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Flaggen",
+            "hu": "Zászlók",
+            "ro": "Steaguri",
+            "en": "Flags"
+          },
+          "coords": [
+            33.162108,
+            35.336938
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von der markanten Flaggenanlage und bringen Sie unbedingt genug Wasser mit, da das Gebiet der Morgensonne ausgesetzt ist.",
+            "hu": "Élvezze a tengerparti síkságra nyíló panorámát a kiemelkedő zászlókból álló emlékműnél, de feltétlenül hozzon magával vizet, mivel a terület nagyon napos.",
+            "ro": "Bucurați-vă de vederea panoramică asupra câmpiei de coastă de la monumentul cu steaguri, având grijă să aduceți apă suficientă, deoarece zona este expusă soarelui.",
+            "en": "Enjoy panoramic views of the coastal plains from the prominent flag display, making sure to bring plenty of water as the area is quite exposed to the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapta Baspinar Parkuru Wanderweg",
+            "hu": "Lapta Baspinar Parkuru túraútvonal",
+            "ro": "Traseul de drumeție Lapta Baspinar Parkuru",
+            "en": "Lapta Baspinar Parkuru hiking trail"
+          },
+          "coords": [
+            33.165698,
+            35.332835
+          ],
+          "category": "natural",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die üppigen Ausläufer des Kyrenia-Gebirges, um die lokale Flora zu entdecken, und achten Sie dabei auf den losen Schotter beim etwas steileren Abstieg.",
+            "hu": "Túrázzon a keríniai hegyek lábánál, hogy felfedezze a helyi növényvilágot, miközben ügyeljen a meredekebb lejtőkön lévő laza kavicsokra és csúszós szakaszokra.",
+            "ro": "Faceți drumeții prin poalele verzi ale munților Kyrenia pentru a descoperi flora locală, fiind atenți la pietrișul alunecos pe cărările de coborâre mai abrupte.",
+            "en": "Hike through the lush foothills of the Kyrenia mountains to discover rich local flora, keeping an eye out for loose gravel on the slightly steeper descent paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Katzouris",
+            "hu": "Katzouris",
+            "ro": "Katzouris",
+            "en": "Katzouris"
+          },
+          "coords": [
+            33.152187,
+            35.338196
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen von Katzouris, um die traditionelle Architektur der Region kennenzulernen, und kommen Sie früh am Tag, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel Katzouris történelmi romjait, hogy megismerje a régió hagyományos építészeti módszereit, és érkezzen korán a békés hangulat teljes kiélvezéséhez.",
+            "ro": "Explorați ruinele istorice din Katzouris pentru a descoperi metodele arhitecturale tradiționale, ajungând devreme pentru a vă bucura din plin de atmosfera pașnică.",
+            "en": "Explore the historic ruins of Katzouris to uncover the traditional architectural methods of the region, arriving early in the day to fully appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrysi tou Barba",
+            "hu": "Vrysi tou Barba",
+            "ro": "Vrysi tou Barba",
+            "en": "Vrysi tou Barba"
+          },
+          "coords": [
+            33.161084,
+            35.349979
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Wasserquelle, die historisch die Landwirtschaft versorgte, und ruhen Sie sich kurz im Schatten der Bäume aus, bevor Sie das Dorf weiter erkunden.",
+            "hu": "Látogasson el ehhez az ősi vízforráshoz, amely egykor a helyi mezőgazdaságot táplálta, és pihenjen meg az árnyékot adó fák alatt, mielőtt tovább indulna a faluba.",
+            "ro": "Vizitați acest izvor antic care a susținut istoric agricultura locală, luând o pauză la umbra copacilor înainte de a vă continua explorarea prin acest sat pitoresc.",
+            "en": "Visit this ancient water source that historically sustained local agriculture, taking a moment to rest under the shaded trees before continuing your village exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapta Küstenbrücke",
+            "hu": "Lapta tengerparti híd",
+            "ro": "Podul de coastă Lapta",
+            "en": "Lapta Coastal Walkway - bridge"
+          },
+          "coords": [
+            33.155604,
+            35.354796
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang auf dieser malerischen Küstenbrücke mit herrlichem Mittelmeerblick, der sich ideal für Fotos in der goldenen Stunde ohne schweres Gerät eignet.",
+            "hu": "Zárja a sétát ezen a festői tengerparti hídon, amely lenyűgöző kilátást nyújt a tengerre, és a naplemente tökéletes fényviszonyokat biztosít a csodás fényképekhez.",
+            "ro": "Încheiați plimbarea pe acest pod de coastă pitoresc, care oferă vederi uimitoare la Marea Mediterană, cronometrat perfect pentru fotografii spectaculoase la apus.",
+            "en": "Conclude your walk on this picturesque coastal bridge offering stunning Mediterranean vistas, perfectly timed for golden hour photos without needing heavy camera gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Aufstieg zum Aussichtspunkt der Flaggen für frische Luft. Mittags folgt eine aktive Wanderung über den Parkuru-Pfad hinab zum historischen Katzouris. Am Nachmittag entdecken Sie das alte Wassersystem von Vrysi tou Barba. Der Abend endet entspannt auf der Lapta-Küstenbrücke am Mittelmeer im Sonnenuntergang.",
+        "hu": "A reggel a hegyek lábánál kezdődik, a friss levegőn a zászlós kilátónál. A délben aktív túra veszi kezdetét a parkuru ösvényen a történelmi Katzouris felé. Délután felfedezi a Vrysi tou Barba ősi vízrendszerét. Az estét a Lapta tengerparti sétány hídján, a Földközi-tenger felett átívelő pihentető naplemente séta zárja.",
+        "ro": "Dimineața începe urcând spre punctul de belvedere al steagurilor pentru aer proaspăt. La amiază, se transformă într-o drumeție activă pe traseul parkuru către istoricul Katzouris. După-amiaza, descoperiți sistemul antic de apă la Vrysi tou Barba. Seara se încheie cu o plimbare relaxantă la apus de soare pe podul pietonal de pe coastă din Lapta.",
+        "en": "Morning begins by heading into the foothills towards the flag viewpoint for fresh air. Midday shifts into an active hike down the parkuru trail leading to historic Katzouris. In the afternoon, you uncover the ancient water system at Vrysi tou Barba. Evening wraps up with a relaxing sunset stroll over the Lapta Coastal Walkway bridge by the Mediterranean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Katzouris",
+            "hu": "Katzouris",
+            "ro": "Katzouris",
+            "en": "Katzouris"
+          },
+          "coords": [
+            33.152187,
+            35.338196
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen von Katzouris, um die traditionelle Architektur der Region kennenzulernen, und kommen Sie früh am Tag, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel Katzouris történelmi romjait, hogy megismerje a régió hagyományos építészeti módszereit, és érkezzen korán a békés hangulat teljes kiélvezéséhez.",
+            "ro": "Explorați ruinele istorice din Katzouris pentru a descoperi metodele arhitecturale tradiționale, ajungând devreme pentru a vă bucura din plin de atmosfera pașnică.",
+            "en": "Explore the historic ruins of Katzouris to uncover the traditional architectural methods of the region, arriving early in the day to fully appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrysi tou Barba",
+            "hu": "Vrysi tou Barba",
+            "ro": "Vrysi tou Barba",
+            "en": "Vrysi tou Barba"
+          },
+          "coords": [
+            33.161084,
+            35.349979
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Wasserquelle, die historisch die Landwirtschaft versorgte, und ruhen Sie sich kurz im Schatten der Bäume aus, bevor Sie das Dorf weiter erkunden.",
+            "hu": "Látogasson el ehhez az ősi vízforráshoz, amely egykor a helyi mezőgazdaságot táplálta, és pihenjen meg az árnyékot adó fák alatt, mielőtt tovább indulna a faluba.",
+            "ro": "Vizitați acest izvor antic care a susținut istoric agricultura locală, luând o pauză la umbra copacilor înainte de a vă continua explorarea prin acest sat pitoresc.",
+            "en": "Visit this ancient water source that historically sustained local agriculture, taking a moment to rest under the shaded trees before continuing your village exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapta Küstenbrücke",
+            "hu": "Lapta tengerparti híd",
+            "ro": "Podul de coastă Lapta",
+            "en": "Lapta Coastal Walkway - bridge"
+          },
+          "coords": [
+            33.155604,
+            35.354796
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang auf dieser malerischen Küstenbrücke mit herrlichem Mittelmeerblick, der sich ideal für Fotos in der goldenen Stunde ohne schweres Gerät eignet.",
+            "hu": "Zárja a sétát ezen a festői tengerparti hídon, amely lenyűgöző kilátást nyújt a tengerre, és a naplemente tökéletes fényviszonyokat biztosít a csodás fényképekhez.",
+            "ro": "Încheiați plimbarea pe acest pod de coastă pitoresc, care oferă vederi uimitoare la Marea Mediterană, cronometrat perfect pentru fotografii spectaculoase la apus.",
+            "en": "Conclude your walk on this picturesque coastal bridge offering stunning Mediterranean vistas, perfectly timed for golden hour photos without needing heavy camera gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Sotira",
+            "hu": "Sotira",
+            "ro": "Sotira",
+            "en": "Sotira"
+          },
+          "coords": [
+            33.178603,
+            35.348778
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die verwitterten Überreste von Sotira, die frühe zypriotische Siedlungen zeigen, und tragen Sie festes Schuhwerk, da der Boden um die Stätte uneben ist.",
+            "hu": "Csodálja meg Sotira omladozó maradványait, amelyek a korai ciprusi településeket mutatják be, és viseljen masszív lábbelit, mivel a romok körüli talaj egyenetlen lehet.",
+            "ro": "Admirați rămășițele din Sotira care evidențiază așezările cipriote timpurii, purtând încălțăminte robustă, deoarece terenul din jurul sitului poate fi destul de accidentat.",
+            "en": "Marvel at the weathered remains of Sotira that highlight early Cypriot settlements, wearing sturdy footwear as the ground surrounding the site can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Acheiropoietos",
+            "hu": "Acheiropoietos kolostor",
+            "ro": "Mănăstirea Acheiropoietos",
+            "en": "Acheiropoietos Monastery"
+          },
+          "coords": [
+            33.190863,
+            35.35321
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende byzantinische Architektur dieses Küstenklosters von außen und respektieren Sie die Absperrungen, da das Innere oft geschlossen ist.",
+            "hu": "Csodálja meg ennek a tengerparti kolostornak a lenyűgöző bizánci építészetét kívülről, tiszteletben tartva a korlátokat, mivel a belső tér többnyire nem látogatható.",
+            "ro": "Admirați arhitectura bizantină impresionantă a acestei mănăstiri de coastă de la exterior, respectând barierele, deoarece interiorul nu este în general deschis publicului.",
+            "en": "Admire the impressive Byzantine architecture of this coastal monastery from the outside, respecting the physical barriers as the interior is generally not open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayios Evlavios",
+            "hu": "Ayios Evlavios",
+            "ro": "Ayios Evlavios",
+            "en": "Ayios Evlavios"
+          },
+          "coords": [
+            33.191381,
+            35.354225
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, aber historisch bedeutsame religiöse Ruine in Ufernähe und beachten Sie, wie sich der verwitterte Stein in die raue Küstenlandschaft einfügt.",
+            "hu": "Fedezze fel ezt a kicsi, de történelmileg jelentős vallási romot a partvonal közelében, megfigyelve, hogyan olvad bele a viharvert kő a környező sziklás terepbe.",
+            "ro": "Descoperiți această ruină religioasă mică, dar semnificativă istoric din apropierea țărmului, observând modul în care piatra uzată se îmbină cu terenul de coastă stâncos.",
+            "en": "Discover this small but historically significant religious ruin near the shoreline, noting how the weathered stone seamlessly blends into the surrounding rugged coastal terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung der alten Steinruinen von Katzouris in den Hügeln. Fahren Sie bergab zum Schatten von Vrysi tou Barba und erreichen Sie mittags die Küstenpromenade. Nachmittags geht es weiter nach Osten, um die historischen Schichten von Sotira zu entdecken. Am Abend beenden Sie die Tour am majestätischen Kloster Acheiropoietos.",
+        "hu": "Kezdje a kerékpáros napot a dombok között megbúvó Katzouris régi kőromjainak felfedezésével. Guruljon le a Vrysi tou Barba árnyékába, mielőtt délre elérné a tengerparti sétányt. A délutáni tekerés kelet felé visz, hogy felfedezze Sotira történelmi rétegeit. Ahogy közeledik az este, fejezze be az utat a fenséges Acheiropoietos kolostornál.",
+        "ro": "Începeți ziua de ciclism explorând ruinele vechi din piatră de la Katzouris, cuibărite în dealuri. Continuați coborârea spre umbra Vrysi tou Barba înainte de a atinge promenada de coastă la amiază. Pedalarea de după-amiază vă duce spre est pentru a explora Sotira. Pe măsură ce se apropie seara, încheiați plimbarea la maiestuoasa Mănăstire Acheiropoietos.",
+        "en": "Start your cycling day exploring the old stone ruins of Katzouris nestled in the hills. Continue riding downhill to the shade of Vrysi tou Barba before touching the coastal walkway by midday. Afternoon pedaling takes you east to explore the historic layers of Sotira. As evening approaches, conclude your ride at the majestic Acheiropoietos Monastery and nearby religious ruins."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 9.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Selvili Tepe",
+            "hu": "Selvili Tepe",
+            "ro": "Selvili Tepe",
+            "en": "Selvili Tepe"
+          },
+          "coords": [
+            33.162091,
+            35.319205
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum höchsten Gipfel des Kyrenia-Gebirges für atemberaubende Panoramablicke auf die Insel und stellen Sie sicher, dass Ihre Bremsen für die Abfahrt gut sind.",
+            "hu": "Autózzon fel a keríniai hegység legmagasabb csúcsára a lélegzetelállító szigeti panorámáért, de győződjön meg róla, hogy a fékek jó állapotban vannak a meredek ereszkedéshez.",
+            "ro": "Conduceți până pe cel mai înalt vârf din lanțul Kyrenia pentru vederi panoramice uimitoare ale insulei, asigurându-vă că frânele vehiculului funcționează perfect la coborâre.",
+            "en": "Drive up to the highest peak in the Kyrenia range to experience breathtaking panoramic island views, ensuring your vehicle's brakes are in good condition for the steep descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Flaggen",
+            "hu": "Zászlók",
+            "ro": "Steaguri",
+            "en": "Flags"
+          },
+          "coords": [
+            33.162108,
+            35.336938
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von der markanten Flaggenanlage und bringen Sie unbedingt genug Wasser mit, da das Gebiet der Morgensonne ausgesetzt ist.",
+            "hu": "Élvezze a tengerparti síkságra nyíló panorámát a kiemelkedő zászlókból álló emlékműnél, de feltétlenül hozzon magával vizet, mivel a terület nagyon napos.",
+            "ro": "Bucurați-vă de vederea panoramică asupra câmpiei de coastă de la monumentul cu steaguri, având grijă să aduceți apă suficientă, deoarece zona este expusă soarelui.",
+            "en": "Enjoy panoramic views of the coastal plains from the prominent flag display, making sure to bring plenty of water as the area is quite exposed to the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cengiz abi",
+            "hu": "Cengiz abi",
+            "ro": "Cengiz abi",
+            "en": "Cengiz abi"
+          },
+          "coords": [
+            33.194654,
+            35.335841
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Punkt, um die jüngere lokale Geschichte besser zu verstehen, und sprechen Sie leise mit Einheimischen, die vielleicht Geschichten teilen.",
+            "hu": "Álljon meg e történelmi jelentőségű helynél, hogy jobban megértse a közelmúlt helyi történelmét, és beszélgessen a helyiekkel, akik lenyűgöző történeteket oszthatnak meg.",
+            "ro": "Opriți-vă la acest punct istoric de interes pentru a înțelege mai bine istoria locală recentă, vorbind încet cu localnicii care ar putea împărtăși povești comunitare.",
+            "en": "Stop by this historic point of interest to gain a deeper understanding of recent local history, talking softly with locals who might share fascinating untold community stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Book Crossing",
+            "hu": "Book Crossing",
+            "ro": "Book Crossing",
+            "en": "Book Crossing"
+          },
+          "coords": [
+            33.196843,
+            35.343957
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauschen Sie an diesem malerischen Bücherstand ein altes Buch aus, um sich mit der lokalen Kultur zu verbinden, und denken Sie daran, einen eigenen Roman beizusteuern.",
+            "hu": "Cseréljen el egy régi könyvet ezen a furcsa közösségi könyvesponton, hogy kapcsolódjon a helyi kultúrához, és ne felejtsen el saját könyvet is hozni a gyűjteménybe.",
+            "ro": "Schimbați o carte veche la acest stand de cărți comunitar pitoresc pentru a vă conecta cu cultura locală, amintindu-vă să aduceți un roman propriu pentru a contribui.",
+            "en": "Exchange an old read at this quaint community bookstand to connect with the local culture, remembering to bring a spare novel of your own to contribute to the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Glass gaff",
+            "hu": "Glass gaff",
+            "ro": "Glass gaff",
+            "en": "Glass gaff"
+          },
+          "coords": [
+            33.196074,
+            35.340023
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die architektonischen Besonderheiten dieses lokalen Wahrzeichens und fangen Sie seine ungewöhnlichen reflektierenden Oberflächen in der Mittagssonne ein.",
+            "hu": "Vizsgálja meg ennek a modern helyi nevezetességnek az egyedi építészeti furcsaságait, és mindenképpen örökítse meg szokatlan fényvisszaverő felületeit a déli napsütésben.",
+            "ro": "Examinați ciudățeniile arhitecturale unice ale acestui reper local modern, asigurându-vă că îi surprindeți suprafețele reflectorizante neobișnuite în soarele de la amiază.",
+            "en": "Examine the unique architectural quirks of this modern local landmark as you pass by, making sure to capture its unusual reflective surfaces during the bright midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Acheiropoietos",
+            "hu": "Acheiropoietos kolostor",
+            "ro": "Mănăstirea Acheiropoietos",
+            "en": "Acheiropoietos Monastery"
+          },
+          "coords": [
+            33.190863,
+            35.35321
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende byzantinische Architektur dieses Küstenklosters von außen und respektieren Sie die Absperrungen, da das Innere oft geschlossen ist.",
+            "hu": "Csodálja meg ennek a tengerparti kolostornak a lenyűgöző bizánci építészetét kívülről, tiszteletben tartva a korlátokat, mivel a belső tér többnyire nem látogatható.",
+            "ro": "Admirați arhitectura bizantină impresionantă a acestei mănăstiri de coastă de la exterior, respectând barierele, deoarece interiorul nu este în general deschis publicului.",
+            "en": "Admire the impressive Byzantine architecture of this coastal monastery from the outside, respecting the physical barriers as the interior is generally not open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayios Evlavios",
+            "hu": "Ayios Evlavios",
+            "ro": "Ayios Evlavios",
+            "en": "Ayios Evlavios"
+          },
+          "coords": [
+            33.191381,
+            35.354225
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, aber historisch bedeutsame religiöse Ruine in Ufernähe und beachten Sie, wie sich der verwitterte Stein in die raue Küstenlandschaft einfügt.",
+            "hu": "Fedezze fel ezt a kicsi, de történelmileg jelentős vallási romot a partvonal közelében, megfigyelve, hogyan olvad bele a viharvert kő a környező sziklás terepbe.",
+            "ro": "Descoperiți această ruină religioasă mică, dar semnificativă istoric din apropierea țărmului, observând modul în care piatra uzată se îmbină cu terenul de coastă stâncos.",
+            "en": "Discover this small but historically significant religious ruin near the shoreline, noting how the weathered stone seamlessly blends into the surrounding rugged coastal terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Sotira",
+            "hu": "Sotira",
+            "ro": "Sotira",
+            "en": "Sotira"
+          },
+          "coords": [
+            33.178603,
+            35.348778
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die verwitterten Überreste von Sotira, die frühe zypriotische Siedlungen zeigen, und tragen Sie festes Schuhwerk, da der Boden um die Stätte uneben ist.",
+            "hu": "Csodálja meg Sotira omladozó maradványait, amelyek a korai ciprusi településeket mutatják be, és viseljen masszív lábbelit, mivel a romok körüli talaj egyenetlen lehet.",
+            "ro": "Admirați rămășițele din Sotira care evidențiază așezările cipriote timpurii, purtând încălțăminte robustă, deoarece terenul din jurul sitului poate fi destul de accidentat.",
+            "en": "Marvel at the weathered remains of Sotira that highlight early Cypriot settlements, wearing sturdy footwear as the ground surrounding the site can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einer Fahrt nach Selvili Tepe auf dem beeindruckenden Bergrücken der Insel. Fahren Sie zu den Flaggen und tauchen Sie vor dem Mittagessen bei Cengiz abi in die lokale Geschichte ein. Der Nachmittag ist skurrilen Stopps wie dem Book Crossing und Glass Gaff gewidmet. Abends fahren Sie an die Küste, um Sotira und Acheiropoietos zu sehen.",
+        "hu": "Az autós túra a Selvili Tepe csúcsra való felhajtással kezdődik a sziget lenyűgöző hegygerincén. Ereszkedjen le a zászlókhoz, és ebéd előtt merüljön el a helyi történelemben a Cengiz abinál. A délutánt olyan különleges megállóknak szenteli, mint a Book Crossing és a Glass gaff. Az este a tengerpartra viszi, hogy megcsodálja Sotira és az Acheiropoietos sziluettjét.",
+        "ro": "Excursia auto începe cu un drum spre Selvili Tepe, aflat pe creasta montană impresionantă a insulei. Coborâți spre steaguri și pătrundeți în istoria locală la Cengiz abi înainte de prânz. După-amiaza este dedicată unor opriri inedite precum Book Crossing și Glass gaff. Seara vă duce pe coastă pentru a admira siluetele dramatice de la Sotira și Acheiropoietos.",
+        "en": "Your road trip begins with a drive to Selvili Tepe, standing atop the island's impressive mountain ridge. Descend towards the flags and delve into the local history at Cengiz abi before lunch. The afternoon is dedicated to quirky stops like the Book Crossing and Glass gaff in the main district. Evening takes you to the coast to witness the dramatic silhouettes of Sotira and Acheiropoietos."
+      }
+    }
+  }
+}

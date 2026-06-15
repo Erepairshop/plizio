@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-la-cala-del-moral-cities-v2",
+  "anchor": {
+    "name": "La Cala del Moral",
+    "coords": [
+      -4.30893,
+      36.71834
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo sobre las rocas",
+            "hu": "Paseo sobre las rocas",
+            "ro": "Paseo sobre las rocas",
+            "en": "Paseo sobre las rocas"
+          },
+          "coords": [
+            -4.296106,
+            36.712847
+          ],
+          "category": "park",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Klippen, um die atemberaubende Aussicht auf das Mittelmeer zu genießen, und tragen Sie bequeme Schuhe für die felsigen Wege.",
+            "hu": "Sétáljon végig a sziklákon, hogy élvezze a Földközi-tenger lélegzetelállító kilátását, és viseljen kényelmes cipőt a tengerparti sziklás utakon.",
+            "ro": "Plimbați-vă pe stânci pentru a vă bucura de priveliștile uluitoare ale Mării Mediterane și purtați încălțăminte confortabilă pentru traseele stâncoase.",
+            "en": "Walk along the cliffs to enjoy the breathtaking Mediterranean views, and wear comfortable shoes to safely navigate the rocky pathways by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva del Tesoro",
+            "hu": "Cueva del Tesoro",
+            "ro": "Cueva del Tesoro",
+            "en": "Cueva del Tesoro"
+          },
+          "coords": [
+            -4.297588,
+            36.71976
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Unterwasserhöhle mit ihren faszinierenden Kalksteinformationen und denken Sie daran, Ihre Tickets im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt az egyedülálló víz alatti barlangot a lenyűgöző mészkőképződményekért, és ne felejtse el előre lefoglalni a jegyeket a belépéshez.",
+            "ro": "Explorați această peșteră subacvatică unică pentru a admira formațiunile sale fascinante de calcar și amintiți-vă să vă rezervați biletele în avans.",
+            "en": "Explore this unique underwater cave to admire its fascinating limestone formations, and remember to book your tickets in advance to guarantee entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Almazara",
+            "hu": "Almazara",
+            "ro": "Almazara",
+            "en": "Almazara"
+          },
+          "coords": [
+            -4.292302,
+            36.719095
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese traditionelle Olivenmühle, um die alten Produktionsprozesse kennenzulernen, und nehmen Sie an einer lokalen Verkostung teil.",
+            "hu": "Látogasson el ebbe a hagyományos olajbogyó-malomba a régi termelési folyamatok megismeréséhez, és vegyen részt egy helyi kóstolón, ha lehetséges.",
+            "ro": "Vizitați această moară tradițională de ulei de măsline pentru a învăța despre procesele vechi de producție și participați la o degustare locală.",
+            "en": "Visit this traditional olive oil mill to learn about the ancient production processes, and try to participate in a local tasting session if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Fuerte de Bezmiliana",
+            "hu": "Casa Fuerte de Bezmiliana",
+            "ro": "Casa Fuerte de Bezmiliana",
+            "en": "Casa Fuerte de Bezmiliana"
+          },
+          "coords": [
+            -4.278995,
+            36.714947
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieser Militärfestung aus dem 18. Jahrhundert und überprüfen Sie das Programm für aktuelle Kunstausstellungen im Inneren.",
+            "hu": "Fedezze fel a tengerpartot védő 18. századi katonai erőd történetét, és ellenőrizze az odabent zajló művészeti kiállítások aktuális programját.",
+            "ro": "Descoperiți istoria acestei fortărețe militare din secolul al XVIII-lea și verificați programul pentru expozițiile de artă în curs de desfășurare.",
+            "en": "Discover the history of this 18th-century military fortress which protected the coast, and check the schedule for ongoing art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Victoria",
+            "hu": "Playa Victoria",
+            "ro": "Playa Victoria",
+            "en": "Playa Victoria"
+          },
+          "coords": [
+            -4.268331,
+            36.712225
+          ],
+          "category": "park",
+          "arrive_at": "15:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am warmen Sand dieses familienfreundlichen Strandes, um die spanische Sonne zu genießen, und bringen Sie Ihren eigenen Sonnenschirm mit.",
+            "hu": "Pihenjen ennek a családbarát strandnak a meleg homokján a spanyol napfényben, és hozzon magával saját napernyőt, mivel a természetes árnyék kevés.",
+            "ro": "Relaxați-vă pe nisipul cald al acestei plaje prietenoase cu familiile și aduceți-vă propria umbrelă, deoarece umbra naturală poate fi destul de limitată.",
+            "en": "Relax on the warm sands of this family-friendly beach to soak up the Spanish sun, and bring your own umbrella as natural shade can be quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Wanderabenteuer mit einem Spaziergang entlang des Paseo sobre las rocas und genießen Sie die Aussicht. Im Laufe des Morgens tauchen Sie in die mystische Cueva del Tesoro ein. Mittags laden die lokalen Traditionen in der Almazara zur Erkundung ein. Am Nachmittag entdecken Sie die Geschichte in der Casa Fuerte de Bezmiliana. Beenden Sie den Tag entspannt an der Playa Victoria.",
+        "hu": "Kezdje a gyalogos kalandot egy sétával a lélegzetelállító Paseo sobre las rocas mentén, élvezve a parti kilátást. Később merüljön el a titokzatos Cueva del Tesoro barlangban. Délben fedezze fel a helyi hagyományokat az Almazarában. Délután ismerje meg a Casa Fuerte de Bezmiliana katonai történetét. Zárja a napot egy kellemes pihenéssel a homokos Playa Victoria tengerpartján.",
+        "ro": "Începeți-vă aventura la pas plimbându-vă pe uluitorul Paseo sobre las rocas, admirând priveliștile coastei. Pe măsură ce dimineața avansează, coborâți în mistica Cueva del Tesoro. La prânz, descoperiți tradițiile locale de la Almazara. După-amiaza, explorați istoria fascinantă la Casa Fuerte de Bezmiliana. Încheiați-vă ziua relaxându-vă pe nisipurile calde de la Playa Victoria.",
+        "en": "Begin your walking adventure by strolling along the breathtaking Paseo sobre las rocas, taking in the serene coastal views. As the morning progresses, delve into the mystical Cueva del Tesoro, a true geological wonder. Midday invites you to explore the local traditions at Almazara. In the afternoon, discover history at the Casa Fuerte de Bezmiliana. Conclude your day relaxing at Playa Victoria."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo sobre las rocas",
+            "hu": "Paseo sobre las rocas",
+            "ro": "Paseo sobre las rocas",
+            "en": "Paseo sobre las rocas"
+          },
+          "coords": [
+            -4.296106,
+            36.712847
+          ],
+          "category": "park",
+          "arrive_at": "09:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Klippen, um die atemberaubende Aussicht auf das Mittelmeer zu genießen, und tragen Sie bequeme Schuhe für die felsigen Wege.",
+            "hu": "Sétáljon végig a sziklákon, hogy élvezze a Földközi-tenger lélegzetelállító kilátását, és viseljen kényelmes cipőt a tengerparti sziklás utakon.",
+            "ro": "Plimbați-vă pe stânci pentru a vă bucura de priveliștile uluitoare ale Mării Mediterane și purtați încălțăminte confortabilă pentru traseele stâncoase.",
+            "en": "Walk along the cliffs to enjoy the breathtaking Mediterranean views, and wear comfortable shoes to safely navigate the rocky pathways by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva del Tesoro",
+            "hu": "Cueva del Tesoro",
+            "ro": "Cueva del Tesoro",
+            "en": "Cueva del Tesoro"
+          },
+          "coords": [
+            -4.297588,
+            36.71976
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Unterwasserhöhle mit ihren faszinierenden Kalksteinformationen und denken Sie daran, Ihre Tickets im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt az egyedülálló víz alatti barlangot a lenyűgöző mészkőképződményekért, és ne felejtse el előre lefoglalni a jegyeket a belépéshez.",
+            "ro": "Explorați această peșteră subacvatică unică pentru a admira formațiunile sale fascinante de calcar și amintiți-vă să vă rezervați biletele în avans.",
+            "en": "Explore this unique underwater cave to admire its fascinating limestone formations, and remember to book your tickets in advance to guarantee entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Fuerte de Bezmiliana",
+            "hu": "Casa Fuerte de Bezmiliana",
+            "ro": "Casa Fuerte de Bezmiliana",
+            "en": "Casa Fuerte de Bezmiliana"
+          },
+          "coords": [
+            -4.278995,
+            36.714947
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieser Militärfestung aus dem 18. Jahrhundert und überprüfen Sie das Programm für aktuelle Kunstausstellungen im Inneren.",
+            "hu": "Fedezze fel a tengerpartot védő 18. századi katonai erőd történetét, és ellenőrizze az odabent zajló művészeti kiállítások aktuális programját.",
+            "ro": "Descoperiți istoria acestei fortărețe militare din secolul al XVIII-lea și verificați programul pentru expozițiile de artă în curs de desfășurare.",
+            "en": "Discover the history of this 18th-century military fortress which protected the coast, and check the schedule for ongoing art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Victoria",
+            "hu": "Playa Victoria",
+            "ro": "Playa Victoria",
+            "en": "Playa Victoria"
+          },
+          "coords": [
+            -4.268331,
+            36.712225
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am warmen Sand dieses familienfreundlichen Strandes, um die spanische Sonne zu genießen, und bringen Sie Ihren eigenen Sonnenschirm mit.",
+            "hu": "Pihenjen ennek a családbarát strandnak a meleg homokján a spanyol napfényben, és hozzon magával saját napernyőt, mivel a természetes árnyék kevés.",
+            "ro": "Relaxați-vă pe nisipul cald al acestei plaje prietenoase cu familiile și aduceți-vă propria umbrelă, deoarece umbra naturală poate fi destul de limitată.",
+            "en": "Relax on the warm sands of this family-friendly beach to soak up the Spanish sun, and bring your own umbrella as natural shade can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana Antiopa",
+            "hu": "Villa romana Antiopa",
+            "ro": "Villa romana Antiopa",
+            "en": "Villa romana Antiopa"
+          },
+          "coords": [
+            -4.258709,
+            36.71207
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unglaublich gut erhaltenen Mosaike dieser antiken römischen Villa und nehmen Sie sich Zeit für die informativen Tafeln zur Geschichte.",
+            "hu": "Csodálja meg ennek az ókori római villának a hihetetlenül jól megőrzött mozaikjait, és szánjon időt a történetét bemutató tájékoztató táblák elolvasására.",
+            "ro": "Admirați mozaicurile incredibil de bine conservate ale acestei vile romane antice și acordați-vă timp pentru a citi panourile informative detaliate.",
+            "en": "Admire the incredibly well-preserved mosaics of this ancient Roman villa, and take your time reading the informative panels to grasp its historical value."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinas Termas Romanas",
+            "hu": "Ruinas Termas Romanas",
+            "ro": "Ruinas Termas Romanas",
+            "en": "Ruinas Termas Romanas"
+          },
+          "coords": [
+            -4.256799,
+            36.712182
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich bei diesen antiken römischen Thermalbadruinen in die Vergangenheit zurück und tragen Sie eine Sonnenbrille wegen der starken Sonne.",
+            "hu": "Lépjen vissza az időben ezeknél az ókori római termálfürdő-romoknál, és viseljen napszemüveget, mivel a terület teljesen ki van téve a napfénynek.",
+            "ro": "Întoarceți-vă în timp la aceste ruine antice ale băilor termale romane și purtați ochelari de soare, deoarece situl este complet expus la soare.",
+            "en": "Step back in time at these ancient Roman thermal bath ruins to understand daily life, and wear sunglasses as the site is fully exposed to the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vigía Benagalbón",
+            "hu": "Torre Vigía Benagalbón",
+            "ro": "Torre Vigía Benagalbón",
+            "en": "Torre Vigía Benagalbón"
+          },
+          "coords": [
+            -4.254962,
+            36.712223
+          ],
+          "category": "monument",
+          "arrive_at": "17:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen historischen Küstenwachturm, der zur Verteidigung gegen Piraten diente, und nutzen Sie den Aussichtspunkt für tolle Fotos.",
+            "hu": "Vizsgálja meg ezt a kalóztámadások ellen épült történelmi parti őrtornyot, és használja a kilátót, hogy nagyszerű panorámaképeket készítsen a partról.",
+            "ro": "Examinați acest turn istoric de veghe de pe coastă construit împotriva piraților și folosiți punctul de belvedere pentru a face fotografii panoramice.",
+            "en": "Examine this historic coastal watchtower built to defend against pirate attacks, and use the viewpoint to snap some great panoramic photos of the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Paseo sobre las rocas, bevor Sie zur faszinierenden Cueva del Tesoro radeln. Mittags erreichen Sie die imposante Casa Fuerte de Bezmiliana. Am Nachmittag machen Sie eine erfrischende Pause an der Playa Victoria und bewundern die Mosaike der Villa romana Antiopa. Beenden Sie die Reise bei den antiken Ruinas Termas Romanas und dem historischen Wachturm.",
+        "hu": "Kezdje a kerékpártúrát a festői Paseo sobre las rocasnál, majd tekerjen a lenyűgöző Cueva del Tesoro felé. Délben a helyi történelemmel átitatott Casa Fuerte de Bezmiliana várja. Délután tartson egy frissítő szünetet a Playa Victorián, majd csodálja meg a Villa romana Antiopa mozaikjait. Zárja az utat az ókori Ruinas Termas Romanas és a parti őrtorony felfedezésével.",
+        "ro": "Începeți turul cu bicicleta la pitorescul Paseo sobre las rocas înainte de a pedala spre Cueva del Tesoro. Prânzul vă aduce la impunătoarea Casa Fuerte de Bezmiliana, plină de istorie. După-amiaza, faceți o pauză la Playa Victoria și admirați mozaicurile vilei romane Antiopa. Încheiați călătoria explorând anticele Ruinas Termas Romanas și turnul de veghe istoric.",
+        "en": "Kick off your biking tour at the scenic Paseo sobre las rocas before pedaling towards the fascinating Cueva del Tesoro. Midday brings you to the imposing Casa Fuerte de Bezmiliana, steeped in local history. In the afternoon, take a refreshing break at Playa Victoria and then marvel at the mosaics of Villa romana Antiopa. End your journey exploring the ancient Ruinas Termas Romanas and watchtower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Ribeiro",
+            "hu": "Piscina Ribeiro",
+            "ro": "Piscina Ribeiro",
+            "en": "Piscina Ribeiro"
+          },
+          "coords": [
+            -4.300394,
+            36.73165
+          ],
+          "category": "park",
+          "arrive_at": "09:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Schwimmen in diesem beliebten Freibad und kommen Sie früh, um sich eine Liege zu sichern.",
+            "hu": "Kezdje a reggelt egy frissítő úszással ebben a népszerű szabadidős medencében, és érkezzen korán, hogy biztosítson magának egy kényelmes napozóágyat.",
+            "ro": "Începeți-vă dimineața cu o înot revigorant în această piscină de agrement populară și ajungeți devreme pentru a vă asigura un șezlong confortabil.",
+            "en": "Start your morning with a refreshing swim in this popular recreational pool facility, and arrive early to secure a comfortable spot on a sun lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva del Tesoro",
+            "hu": "Cueva del Tesoro",
+            "ro": "Cueva del Tesoro",
+            "en": "Cueva del Tesoro"
+          },
+          "coords": [
+            -4.297588,
+            36.71976
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Unterwasserhöhle mit ihren faszinierenden Kalksteinformationen und denken Sie daran, Ihre Tickets im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt az egyedülálló víz alatti barlangot a lenyűgöző mészkőképződményekért, és ne felejtse el előre lefoglalni a jegyeket a belépéshez.",
+            "ro": "Explorați această peșteră subacvatică unică pentru a admira formațiunile sale fascinante de calcar și amintiți-vă să vă rezervați biletele în avans.",
+            "en": "Explore this unique underwater cave to admire its fascinating limestone formations, and remember to book your tickets in advance to guarantee entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Fuerte de Bezmiliana",
+            "hu": "Casa Fuerte de Bezmiliana",
+            "ro": "Casa Fuerte de Bezmiliana",
+            "en": "Casa Fuerte de Bezmiliana"
+          },
+          "coords": [
+            -4.278995,
+            36.714947
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieser Militärfestung aus dem 18. Jahrhundert und überprüfen Sie das Programm für aktuelle Kunstausstellungen im Inneren.",
+            "hu": "Fedezze fel a tengerpartot védő 18. századi katonai erőd történetét, és ellenőrizze az odabent zajló művészeti kiállítások aktuális programját.",
+            "ro": "Descoperiți istoria acestei fortărețe militare din secolul al XVIII-lea și verificați programul pentru expozițiile de artă în curs de desfășurare.",
+            "en": "Discover the history of this 18th-century military fortress which protected the coast, and check the schedule for ongoing art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Victoria",
+            "hu": "Playa Victoria",
+            "ro": "Playa Victoria",
+            "en": "Playa Victoria"
+          },
+          "coords": [
+            -4.268331,
+            36.712225
+          ],
+          "category": "park",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am warmen Sand dieses familienfreundlichen Strandes, um die spanische Sonne zu genießen, und bringen Sie Ihren eigenen Sonnenschirm mit.",
+            "hu": "Pihenjen ennek a családbarát strandnak a meleg homokján a spanyol napfényben, és hozzon magával saját napernyőt, mivel a természetes árnyék kevés.",
+            "ro": "Relaxați-vă pe nisipul cald al acestei plaje prietenoase cu familiile și aduceți-vă propria umbrelă, deoarece umbra naturală poate fi destul de limitată.",
+            "en": "Relax on the warm sands of this family-friendly beach to soak up the Spanish sun, and bring your own umbrella as natural shade can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana Antiopa",
+            "hu": "Villa romana Antiopa",
+            "ro": "Villa romana Antiopa",
+            "en": "Villa romana Antiopa"
+          },
+          "coords": [
+            -4.258709,
+            36.71207
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unglaublich gut erhaltenen Mosaike dieser antiken römischen Villa und nehmen Sie sich Zeit für die informativen Tafeln zur Geschichte.",
+            "hu": "Csodálja meg ennek az ókori római villának a hihetetlenül jól megőrzött mozaikjait, és szánjon időt a történetét bemutató tájékoztató táblák elolvasására.",
+            "ro": "Admirați mozaicurile incredibil de bine conservate ale acestei vile romane antice și acordați-vă timp pentru a citi panourile informative detaliate.",
+            "en": "Admirați mozaicurile incredibil de bine conservate ale acestei vile romane antice și acordați-vă timp pentru a citi panourile informative detaliate."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vigía Benagalbón",
+            "hu": "Torre Vigía Benagalbón",
+            "ro": "Torre Vigía Benagalbón",
+            "en": "Torre Vigía Benagalbón"
+          },
+          "coords": [
+            -4.254962,
+            36.712223
+          ],
+          "category": "monument",
+          "arrive_at": "15:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen historischen Küstenwachturm, der zur Verteidigung gegen Piraten diente, und nutzen Sie den Aussichtspunkt für tolle Fotos.",
+            "hu": "Vizsgálja meg ezt a kalóztámadások ellen épült történelmi parti őrtornyot, és használja a kilátót, hogy nagyszerű panorámaképeket készítsen a partról.",
+            "ro": "Examinați acest turn istoric de veghe de pe coastă construit împotriva piraților și folosiți punctul de belvedere pentru a face fotografii panoramice.",
+            "en": "Examine this historic coastal watchtower built to defend against pirate attacks, and use the viewpoint to snap some great panoramic photos of the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Los Claros",
+            "hu": "Playa Los Claros",
+            "ro": "Playa Los Claros",
+            "en": "Playa Los Claros"
+          },
+          "coords": [
+            -4.257479,
+            36.71111
+          ],
+          "category": "park",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Spaziergang an den ruhigen Ufern dieses malerischen Strandes und bleiben Sie bis zum spektakulären Sonnenuntergang.",
+            "hu": "Fejezze be a napot egy sétával ennek a festői helyi strandnak a békés partján, és maradjon naplementéig, hogy lássa az élénk tengerparti színeket.",
+            "ro": "Încheiați-vă ziua plimbându-vă pe țărmurile senine ale acestei plaje pitorești și rămâneți până la apus pentru a vedea cerul în culori vibrante.",
+            "en": "End your day strolling along the serene shores of this picturesque local beach, and stay until sunset to witness the sky painting vibrant coastal colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem Bad in der Piscina Ribeiro, gefolgt von einem Besuch der unglaublichen Cueva del Tesoro. Der Mittag ist perfekt, um die Vergangenheit in der Casa Fuerte de Bezmiliana zu entdecken. Verbringen Sie den Nachmittag an der Playa Victoria und bewundern Sie die Villa romana Antiopa. Beenden Sie den Tag am Torre Vigía und der ruhigen Playa Los Claros.",
+        "hu": "Kezdje kényelmes autós útját egy reggeli csobbanással a Piscina Ribeiróban, majd látogasson el a hihetetlen Cueva del Tesoro barlangba. A dél tökéletes a Casa Fuerte de Bezmiliana felfedezésére. Töltse a délutánt a Playa Victorián, majd csodálja meg az ősi Villa romana Antiopát. Fejezze be a napot a történelmi Torre Vigía őrtoronynál és a békés Playa Los Claros strandon.",
+        "ro": "Începeți plimbarea cu mașina cu o baie la Piscina Ribeiro, urmată de o vizită la incredibila Cueva del Tesoro. Prânzul este perfect pentru a descoperi trecutul la Casa Fuerte de Bezmiliana. Petreceți-vă după-amiaza la soare la Playa Victoria, apoi admirați antica Villa romana Antiopa. Finalizați ziua la istoricul Torre Vigía și la liniștita Playa Los Claros.",
+        "en": "Start your comfortable drive with a morning splash at Piscina Ribeiro, followed by a visit to the incredible underground Cueva del Tesoro. Midday is perfect for uncovering the past at the coastal Casa Fuerte de Bezmiliana. Spend your afternoon enjoying the sun at Playa Victoria, then admire the ancient Villa romana Antiopa. Finish the day at the historic Torre Vigía and the tranquil Playa Los Claros."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "lorette",
+  "anchor": {
+    "name": "Lorette",
+    "coords": [
+      4.5811,
+      45.5119
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:22",
+      "total_km": 3.81,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lorette",
+            "hu": "Lorette Vasútállomás",
+            "ro": "Gara din Lorette",
+            "en": "Lorette Train Station"
+          },
+          "coords": [
+            4.576335,
+            45.513371
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof, wo Sie leicht ankommen und sich sofort in das geschäftige Treiben der kleinen Stadt stürzen können.",
+            "hu": "Kezdje a napot ezen a történelmi vasútállomáson, ahová könnyedén megérkezhet, és azonnal elmerülhet a nyüzsgő kisvárosi hangulatban és ritmusban.",
+            "ro": "Începeți ziua la această gară istorică, de unde puteți sosi cu ușurință pentru a vă cufunda imediat în atmosfera vibrantă și ritmul orașului.",
+            "en": "Start your day at this historic railway station, arriving with ease to immediately immerse yourself in the bustling atmosphere and rhythm of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Lorette",
+            "hu": "Lorette Városháza",
+            "ro": "Primăria Lorette",
+            "en": "Lorette Town Hall"
+          },
+          "coords": [
+            4.580696,
+            45.513071
+          ],
+          "category": "civic",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses als Herzstück der Verwaltung, wo Sie auch nach nützlichen kostenlosen Stadtkarten fragen sollten.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely a helyi közigazgatás szíve, és ahová érdemes betérni hasznos ingyenes várostérképekért is.",
+            "ro": "Admirați arhitectura elegantă a primăriei, inima administrației locale, unde este recomandat să intrați pentru a solicita hărți gratuite ale orașului.",
+            "en": "Admire the elegant architecture of the town hall serving as the heart of local administration, where you should pop in to ask for useful free city maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediathek von Lorette",
+            "hu": "Lorette Médiatár",
+            "ro": "Mediateca Lorette",
+            "en": "Lorette Media Library"
+          },
+          "coords": [
+            4.580919,
+            45.511419
+          ],
+          "category": "cultural",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Büchersammlung dieser modernen Bibliothek und nutzen Sie die ruhigen Lesebereiche für eine kleine Pause am Vormittag.",
+            "hu": "Merüljön el ennek a modern könyvtárnak a gazdag gyűjteményében, és használja ki a csendes olvasótereket egy rövid, pihentető délelőtti szünetre.",
+            "ro": "Scufundați-vă în colecția bogată a acestei biblioteci moderne și profitați de spațiile liniștite de lectură pentru o scurtă pauză de dimineață.",
+            "en": "Immerse yourself in the rich collection of this modern library, taking full advantage of the quiet reading areas for a short, relaxing morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            4.583277,
+            45.51298
+          ],
+          "category": "family",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, um exotische Pflanzen zu entdecken, und bringen Sie unbedingt eine Kamera für die lebhaften Blumenbeete mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű botanikus kerten, hogy egzotikus növényeket fedezzen fel, és feltétlenül hozzon magával fényképezőgépet a virágágyásokhoz.",
+            "ro": "Plimbați-vă prin această grădină botanică pentru a descoperi plante exotice și nu uitați să aduceți o cameră foto pentru straturile vibrante de flori.",
+            "en": "Stroll through this beautiful botanical garden to discover exotic plants, and be sure to bring along a camera to capture the vibrantly colored flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserzisterne DECI",
+            "hu": "DECI Víztartály",
+            "ro": "Rezervor de apă DECI",
+            "en": "DECI Water Reservoir"
+          },
+          "coords": [
+            4.61443,
+            45.4965
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.03,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Wassersystem zur Brandbekämpfung und achten Sie dabei auf die umliegende, atemberaubende und unberührte Naturkulisse.",
+            "hu": "Látogassa meg ezt az egyedülálló, a tűzvédelem szempontjából kulcsfontosságú víztartályt, miközben megfigyeli a körülvevő érintetlen természeti tájat.",
+            "ro": "Vizitați acest rezervor de apă unic, esențial pentru siguranța la incendiu, observând în același timp peisajul natural neatins care îl înconjoară.",
+            "en": "Visit this unique water reservoir system crucial for local fire safety, while keeping an eye out for the untouched natural scenery that surrounds it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen wir am Bahnhof von Lorette und tauchen beim eleganten Rathaus in die lokale Verwaltung ein. Gegen Mittag bietet die moderne Mediathek eine inspirierende Pause mit Büchern. Am Nachmittag spazieren wir gemütlich durch den farbenfrohen botanischen Garten. Der Abend klingt mit einer ausgedehnten Wanderung zur historischen Wasserzisterne inmitten ruhiger Natur friedlich aus.",
+        "hu": "Reggel a lorette-i vasútállomásról indulunk, majd az elegáns városházánál elmerülünk a helyi atmoszférában. Délben a modern médiatár inspiráló könyves szünetet kínál. Délután kényelmesen sétálunk a színpompás botanikus kert virágai között. Az este egy kiadós túrával zárul a történelmi víztartályhoz, ahol a nyugodt természet lágy ölén pihenhetjük ki a nap fáradalmait.",
+        "ro": "Dimineața pornim de la gara din Lorette și admirăm arhitectura elegantă a primăriei. La prânz, mediateca modernă ne oferă o pauză inspirată în lumea cărților. După-amiaza ne plimbăm pe îndelete prin grădina botanică plină de flori colorate. Seara se încheie cu o drumeție lungă spre rezerva de apă istorică, unde ne relaxăm în mijlocul naturii liniștite și nealterate.",
+        "en": "We begin our morning at the Lorette train station, moving on to admire the elegant town hall. Midday offers an inspiring break with books at the modern media library. In the afternoon, we take a leisurely stroll through the colorful flowers of the botanical garden. The evening concludes with a long hike to the historic water reservoir, winding down in tranquil natural surroundings."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 16.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lorette",
+            "hu": "Lorette Vasútállomás",
+            "ro": "Gara din Lorette",
+            "en": "Lorette Train Station"
+          },
+          "coords": [
+            4.576335,
+            45.513371
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof, wo Sie leicht ankommen und sich sofort in das geschäftige Treiben der kleinen Stadt stürzen können.",
+            "hu": "Kezdje a napot ezen a történelmi vasútállomáson, ahová könnyedén megérkezhet, és azonnal elmerülhet a nyüzsgő kisvárosi hangulatban és ritmusban.",
+            "ro": "Începeți ziua la această gară istorică, de unde puteți sosi cu ușurință pentru a vă cufunda imediat în atmosfera vibrantă și ritmul orașului.",
+            "en": "Start your day at this historic railway station, arriving with ease to immediately immerse yourself in the bustling atmosphere and rhythm of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Lorette",
+            "hu": "Lorette Városháza",
+            "ro": "Primăria Lorette",
+            "en": "Lorette Town Hall"
+          },
+          "coords": [
+            4.580696,
+            45.513071
+          ],
+          "category": "civic",
+          "arrive_at": "09:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses als Herzstück der Verwaltung, wo Sie auch nach nützlichen kostenlosen Stadtkarten fragen sollten.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely a helyi közigazgatás szíve, és ahová érdemes betérni hasznos ingyenes várostérképekért is.",
+            "ro": "Admirați arhitectura elegantă a primăriei, inima administrației locale, unde este recomandat să intrați pentru a solicita hărți gratuite ale orașului.",
+            "en": "Admire the elegant architecture of the town hall serving as the heart of local administration, where you should pop in to ask for useful free city maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            4.583277,
+            45.51298
+          ],
+          "category": "family",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, um exotische Pflanzen zu entdecken, und bringen Sie unbedingt eine Kamera für die lebhaften Blumenbeete mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű botanikus kerten, hogy egzotikus növényeket fedezzen fel, és feltétlenül hozzon magával fényképezőgépet a virágágyásokhoz.",
+            "ro": "Plimbați-vă prin această grădină botanică pentru a descoperi plante exotice și nu uitați să aduceți o cameră foto pentru straturile vibrante de flori.",
+            "en": "Stroll through this beautiful botanical garden to discover exotic plants, and be sure to bring along a camera to capture the vibrantly colored flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Couzon",
+            "hu": "Couzon Gát",
+            "ro": "Barajul Couzon",
+            "en": "Couzon Dam"
+          },
+          "coords": [
+            4.626356,
+            45.493512
+          ],
+          "category": "natural",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Staunen Sie über die massive Konstruktion dieses historischen Staudamms und wandern Sie entlang des Ufers, um die besten Panoramablicke zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi gátnak a masszív szerkezetét, és túrázzon a part mentén, hogy a legjobb panorámás kilátást élvezhesse a nyugodt vízre.",
+            "ro": "Minunați-vă de construcția masivă a acestui baraj istoric și faceți o drumeție de-a lungul malului pentru a vă bucura de cele mai bune vederi panoramice.",
+            "en": "Marvel at the massive construction of this historic dam and hike along the shore to enjoy the absolute best panoramic views of the tranquil waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            4.623701,
+            45.531747
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die wunderschönen Glasfenster zu betrachten, und besuchen Sie sie am besten nachmittags für gutes Licht.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a gyönyörű ólomüveg ablakokat, és a legszebb fények érdekében érdemes délután érkezni.",
+            "ro": "Pășiți în această biserică pașnică pentru a contempla vitraliile superbe; cel mai bine este să o vizitați la sfârșitul după-amiezii pentru lumina bună.",
+            "en": "Step inside this peaceful church to contemplate the gorgeous stained glass windows, ideally visiting in the late afternoon for the softest sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Gier",
+            "hu": "A Gier partjai",
+            "ro": "Malurile râului Gier",
+            "en": "Banks of the Gier"
+          },
+          "coords": [
+            4.538518,
+            45.486334
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang der grünen Flussufer des Gier, wo Sie hervorragend picknicken und die vielfältige Vogelwelt beobachten können.",
+            "hu": "Élvezze a pihentető sétát a Gier folyó zöldellő partjainál, ahol kiválóan lehet piknikezni és megfigyelni a változatos helyi madárvilágot.",
+            "ro": "Bucurați-vă de o plimbare de-a lungul malurilor verzi ale râului Gier, un loc excelent pentru picnic și pentru a observa viața diversă a păsărilor.",
+            "en": "Enjoy a relaxing stroll along the green banks of the Gier river, an excellent spot for a picnic and for spotting the wonderfully diverse local birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet am Bahnhof, gefolgt von einer schnellen Fahrt zum Rathaus und einem entspannten Halt im botanischen Garten. Mittags radeln wir zum beeindruckenden Staudamm Barrage du Couzon in der Natur. Nachmittags erkunden wir die friedliche Kirche Saint-Jean-Baptiste mit ihren bunten Fenstern. Abends lassen wir die Tour an den grünen Ufern des Gier bei einem idyllischen Picknick ausklingen.",
+        "hu": "A reggel a vasútállomáson indul, majd a városháza és a botanikus kert következik egy kellemes pihenővel. Délben elkerekezünk a lenyűgöző Barrage du Couzon gáthoz, élvezve a természetet. Délután a békés Keresztelő Szent János-templom festett üvegablakait csodáljuk meg. Az estét a Gier folyó zöldellő partjainál zárjuk, ahol egy idilli piknikkel pihenjük ki a bringázást.",
+        "ro": "Dimineața începe la gară, urmată de o scurtă oprire la primărie și o plimbare prin grădina botanică. La prânz pedalăm spre impresionantul baraj Couzon, bucurându-ne de aer liber. După-amiaza explorăm liniștita Biserică Sfântul Ioan Botezătorul cu vitraliile sale. Seara încheiem traseul pe malurile verzi ale râului Gier, perfecte pentru un picnic de neuitat la apus.",
+        "en": "Morning kicks off at the station, followed by the town hall and a relaxing break in the botanical garden. Midday sees us cycling to the impressive Barrage du Couzon dam surrounded by nature. In the afternoon, we explore the peaceful Saint-Jean-Baptiste church and its stained glass. We end the evening on the green banks of the Gier river with a well-deserved, idyllic picnic."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 13.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufer des Gier",
+            "hu": "A Gier partjai",
+            "ro": "Malurile râului Gier",
+            "en": "Banks of the Gier"
+          },
+          "coords": [
+            4.538518,
+            45.486334
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang der grünen Flussufer des Gier, wo Sie hervorragend picknicken und die vielfältige Vogelwelt beobachten können.",
+            "hu": "Élvezze a pihentető sétát a Gier folyó zöldellő partjainál, ahol kiválóan lehet piknikezni és megfigyelni a változatos helyi madárvilágot.",
+            "ro": "Bucurați-vă de o plimbare de-a lungul malurilor verzi ale râului Gier, un loc excelent pentru picnic și pentru a observa viața diversă a păsărilor.",
+            "en": "Enjoy a relaxing stroll along the green banks of the Gier river, an excellent spot for a picnic and for spotting the wonderfully diverse local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Lorette",
+            "hu": "Lorette Vasútállomás",
+            "ro": "Gara din Lorette",
+            "en": "Lorette Train Station"
+          },
+          "coords": [
+            4.576335,
+            45.513371
+          ],
+          "category": "station",
+          "arrive_at": "10:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof, wo Sie leicht ankommen und sich sofort in das geschäftige Treiben der kleinen Stadt stürzen können.",
+            "hu": "Kezdje a napot ezen a történelmi vasútállomáson, ahová könnyedén megérkezhet, és azonnal elmerülhet a nyüzsgő kisvárosi hangulatban és ritmusban.",
+            "ro": "Începeți ziua la această gară istorică, de unde puteți sosi cu ușurință pentru a vă cufunda imediat în atmosfera vibrantă și ritmul orașului.",
+            "en": "Start your day at this historic railway station, arriving with ease to immediately immerse yourself in the bustling atmosphere and rhythm of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            4.583277,
+            45.51298
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, um exotische Pflanzen zu entdecken, und bringen Sie unbedingt eine Kamera für die lebhaften Blumenbeete mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű botanikus kerten, hogy egzotikus növényeket fedezzen fel, és feltétlenül hozzon magával fényképezőgépet a virágágyásokhoz.",
+            "ro": "Plimbați-vă prin această grădină botanică pentru a descoperi plante exotice și nu uitați să aduceți o cameră foto pentru straturile vibrante de flori.",
+            "en": "Stroll through this beautiful botanical garden to discover exotic plants, and be sure to bring along a camera to capture the vibrantly colored flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserzisterne DECI",
+            "hu": "DECI Víztartály",
+            "ro": "Rezervor de apă DECI",
+            "en": "DECI Water Reservoir"
+          },
+          "coords": [
+            4.61443,
+            45.4965
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Wassersystem zur Brandbekämpfung und achten Sie dabei auf die umliegende, atemberaubende und unberührte Naturkulisse.",
+            "hu": "Látogassa meg ezt az egyedülálló, a tűzvédelem szempontjából kulcsfontosságú víztartályt, miközben megfigyeli a körülvevő érintetlen természeti tájat.",
+            "ro": "Vizitați acest rezervor de apă unic, esențial pentru siguranța la incendiu, observând în același timp peisajul natural neatins care îl înconjoară.",
+            "en": "Visit this unique water reservoir system crucial for local fire safety, while keeping an eye out for the untouched natural scenery that surrounds it."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Couzon",
+            "hu": "Couzon Gát",
+            "ro": "Barajul Couzon",
+            "en": "Couzon Dam"
+          },
+          "coords": [
+            4.626356,
+            45.493512
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Staunen Sie über die massive Konstruktion dieses historischen Staudamms und wandern Sie entlang des Ufers, um die besten Panoramablicke zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi gátnak a masszív szerkezetét, és túrázzon a part mentén, hogy a legjobb panorámás kilátást élvezhesse a nyugodt vízre.",
+            "ro": "Minunați-vă de construcția masivă a acestui baraj istoric și faceți o drumeție de-a lungul malului pentru a vă bucura de cele mai bune vederi panoramice.",
+            "en": "Marvel at the massive construction of this historic dam and hike along the shore to enjoy the absolute best panoramic views of the tranquil waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            4.623701,
+            45.531747
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die wunderschönen Glasfenster zu betrachten, und besuchen Sie sie am besten nachmittags für gutes Licht.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a gyönyörű ólomüveg ablakokat, és a legszebb fények érdekében érdemes délután érkezni.",
+            "ro": "Pășiți în această biserică pașnică pentru a contempla vitraliile superbe; cel mai bine este să o vizitați la sfârșitul după-amiezii pentru lumina bună.",
+            "en": "Step inside this peaceful church to contemplate the gorgeous stained glass windows, ideally visiting in the late afternoon for the softest sunlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten früh an den malerischen Ufern des Gier und fahren dann zum belebten Bahnhof von Lorette. Mittags entspannen wir uns im bunten botanischen Garten und besuchen kurz die Wasserzisterne. Der Nachmittag ist für die massiven Strukturen des Staudamms Barrage du Couzon reserviert. Abends besuchen wir die wunderschöne Kirche Saint-Jean-Baptiste, bevor die Fahrt gemütlich endet.",
+        "hu": "Korán a Gier festői partjainál kezdünk, majd a nyüzsgő lorette-i vasútállomáshoz hajtunk. Délben a színpompás botanikus kertben pihenünk, majd megnézzük a helyi víztartályt. A délután a lenyűgöző Barrage du Couzon gát hatalmas építményének felfedezésével telik. Este meglátogatjuk a gyönyörű Keresztelő Szent János-templomot, méltó befejezést adva ennek az autós kirándulásnak.",
+        "ro": "Începem devreme pe malurile pitorești ale râului Gier, conducând apoi spre aglomerata gară din Lorette. La prânz ne relaxăm în grădina botanică și facem o scurtă oprire la rezervorul de apă. După-amiaza este rezervată structurii masive a barajului Barrage du Couzon. Seara vizităm minunata Biserică Sfântul Ioan Botezătorul, oferind un final perfect acestui tur confortabil.",
+        "en": "We start early at the picturesque banks of the Gier, then drive to the bustling Lorette station. Midday brings relaxation in the vibrant botanical garden and a quick look at the local reservoir. The afternoon is dedicated to exploring the massive Barrage du Couzon dam. In the evening, we visit the gorgeous Saint-Jean-Baptiste church, rounding off a highly enjoyable driving tour."
+      }
+    }
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "city_id": "balikesir-cities-v2",
+  "anchor": {
+    "name": "Balıkesir",
+    "coords": [
+      27.8833,
+      39.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zağnos Paşa Moschee",
+            "hu": "Zağnos Paşa mecset",
+            "ro": "Moscheea Zağnos Paşa",
+            "en": "Zağnos Paşa Mosque"
+          },
+          "coords": [
+            27.879983,
+            39.64877
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die größte Moschee der Stadt aus dem Jahr 1461 und achten Sie auf angemessene Kleidung, um die spirituelle Bedeutung zu würdigen.",
+            "hu": "Csodálja meg a város 1461-ben épült legnagyobb mecsetjét, és viseljen visszafogott öltözéket, hogy tiszteletben tartsa történelmi jelentőségét.",
+            "ro": "Admirați cea mai mare moschee din oraș construită în 1461 și adoptați o ținută decentă pentru a respecta importanța sa spirituală și istorică.",
+            "en": "Admire the grandeur of the city's largest mosque, built in 1461, and dress modestly to respect its historical and spiritual significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Fotomuseum Balıkesir",
+            "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+            "ro": "Muzeul Național de Fotografie Balıkesir",
+            "en": "Balıkesir National Photography Museum"
+          },
+          "coords": [
+            27.879264,
+            39.647479
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung historischer Kameras in diesem einzigartigen Fotomuseum und fragen Sie nach temporären Ausstellungen.",
+            "hu": "Fedezze fel a régi fényképezőgépek lenyűgöző gyűjteményét ebben az egyedi múzeumban, és mindenképpen érdeklődjön az időszakos kiállítások felől.",
+            "ro": "Explorați o colecție fascinantă de aparate foto de epocă în acest muzeu unic și asigurați-vă că întrebați personalul despre expozițiile temporare.",
+            "en": "Explore a fascinating collection of vintage cameras in this unique photography museum, and make sure to ask the staff about temporary local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuvâ-yi Milliye Museum Balıkesir",
+            "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+            "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+            "en": "Balıkesir Kuvâ-yi Milliye Museum"
+          },
+          "coords": [
+            27.879574,
+            39.645848
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die Helden des türkischen Befreiungskrieges und achten Sie auf die persönlichen Artefakte im obersten Stock.",
+            "hu": "Ismerje meg a török függetlenségi háború helyi hőseit ebben a múzeumban, különös figyelmet fordítva a felső emeleten található személyes tárgyakra.",
+            "ro": "Aflați despre eroii Războiului de Independență turc în acest muzeu, acordând o atenție deosebită obiectelor personale de la ultimul etaj.",
+            "en": "Learn about the regional heroes of the Turkish War of Independence in this museum, paying close attention to the personal artifacts on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşilli Moschee",
+            "hu": "Yeşilli mecset",
+            "ro": "Moscheea Yeşilli",
+            "en": "Yeşilli Mosque"
+          },
+          "coords": [
+            27.882,
+            39.64729
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die feine Holzarbeit in dieser ruhigen Viertelmoschee, die einen friedlichen Rückzugsort abseits der geschäftigen Hauptstraßen bietet.",
+            "hu": "Figyelje meg a finom fafaragásokat ebben a békés környéki mecsetben, amely csendes menedéket nyújt a város forgalmas főutcáitól távolabb.",
+            "ro": "Observați măiestria în lemn a acestei moschei de cartier, care oferă un refugiu liniștit departe de agitația străzilor principale ale orașului.",
+            "en": "Notice the fine wooden craftsmanship in this serene neighborhood mosque, which offers a quiet retreat away from the bustling main city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Umurbey Moschee",
+            "hu": "Umurbey mecset",
+            "ro": "Moscheea Umurbey",
+            "en": "Umurbey Mosque"
+          },
+          "coords": [
+            27.884567,
+            39.647067
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Moschee mit ihren frühen osmanischen Elementen am besten außerhalb der regulären Gebetszeiten für etwas Ruhe.",
+            "hu": "Látogasson el ehhez a mecsethez a korai oszmán építészeti elemek megfigyeléséhez, ügyelve arra, hogy a napi imaidőkön kívül érkezzen.",
+            "ro": "Vizitați această moschee istorică pentru a observa arhitectura otomană timpurie, asigurându-vă că veniți în afara orelor de rugăciune zilnice.",
+            "en": "Visit this historic mosque to observe early Ottoman architectural elements, ensuring you visit outside of the regular daily prayer times for quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Şeyh Lütfullah Moschee",
+            "hu": "Şeyh Lütfullah mecset",
+            "ro": "Moscheea Şeyh Lütfullah",
+            "en": "Şeyh Lütfullah Mosque"
+          },
+          "coords": [
+            27.886569,
+            39.647893
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses spirituelle Zentrum aus dem 15. Jahrhundert und vergessen Sie nicht, vor dem Betreten des Gebetsraums die Schuhe auszuziehen.",
+            "hu": "Lépjen be ebbe a 15. századi spirituális központba a történelmi légkörért, és ne felejtse el levenni a cipőjét az imaterem bejárata előtt.",
+            "ro": "Pășiți în acest centru spiritual din secolul al XV-lea pentru atmosfera sa istorică, amintindu-vă să vă descălțați înainte de a intra.",
+            "en": "Step inside this 15th-century spiritual center to feel the historic atmosphere, remembering to remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Yıldırım Moschee",
+            "hu": "Yıldırım mecset",
+            "ro": "Moscheea Yıldırım",
+            "en": "Yıldırım Mosque"
+          },
+          "coords": [
+            27.883165,
+            39.650327
+          ],
+          "category": "religious",
+          "arrive_at": "15:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur dieser alten Moschee aus dem späten 14. Jahrhundert und entspannen Sie sich kurz in ihrem schattigen Innenhof.",
+            "hu": "Fedezze fel ezen ősi, 14. század végi mecset építészeti elrendezését, és pihenjen meg egy pillanatra az árnyékos belső udvar nyugalmas kertjében.",
+            "ro": "Descoperiți arhitectura acestei moschei antice de la sfârșitul secolului al XIV-lea, luându-vă un moment de odihnă în curtea sa umbrită și pașnică.",
+            "en": "Discover the late 14th-century architectural layout of this ancient mosque, taking a moment to rest in its peaceful and shaded courtyard garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der monumentalen Zağnos Paşa Camii und tauchen Sie in die Geschichte ein. Danach erkunden Sie das Fotomuseum mit seiner faszinierenden Sammlung historischer Kameras.",
+        "hu": "Kezdje a gyalogtúrát a monumentális Zağnos Paşa mecsetnél, majd merüljön el a város egyedi kulturális örökségében a Nemzeti Fotográfiai Múzeum régi kameráit tanulmányozva.",
+        "ro": "Începeți turul pietonal la monumentala Moschee Zağnos Paşa, apoi explorați moștenirea culturală la Muzeul Național de Fotografie admirând aparate foto de epocă.",
+        "en": "Begin your walking tour at the monumental Zağnos Paşa Camii, soaking in the early history of Balıkesir. Then, dive into the city's unique cultural heritage at the National Photography Museum to see vintage cameras."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kayabey Moschee",
+            "hu": "Kayabey mecset",
+            "ro": "Moscheea Kayabey",
+            "en": "Kayabey Mosque"
+          },
+          "coords": [
+            27.879074,
+            39.652791
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang zu dieser historisch bedeutsamen nördlichen Moschee, wo die ruhigen Straßen einen Einblick in das lokale Leben bieten.",
+            "hu": "Élvezze a kellemes sétát ehhez az északi mecsethez, ahol a környező csendes utcák bepillantást engednek a helyiek mindennapi életébe.",
+            "ro": "Bucurați-vă de o plimbare până la această moschee nordică istorică, unde străzile liniștite din jur oferă o perspectivă asupra vieții locale.",
+            "en": "Enjoy a pleasant walk up to this historically significant northern mosque, where the surrounding quiet streets provide a glimpse into local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Zağnos Paşa Moschee",
+            "hu": "Zağnos Paşa mecset",
+            "ro": "Moscheea Zağnos Paşa",
+            "en": "Zağnos Paşa Mosque"
+          },
+          "coords": [
+            27.879983,
+            39.64877
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die größte Moschee der Stadt aus dem Jahr 1461 und achten Sie auf angemessene Kleidung, um die spirituelle Bedeutung zu würdigen.",
+            "hu": "Csodálja meg a város 1461-ben épült legnagyobb mecsetjét, és viseljen visszafogott öltözéket, hogy tiszteletben tartsa történelmi jelentőségét.",
+            "ro": "Admirați cea mai mare moschee din oraș construită în 1461 și adoptați o ținută decentă pentru a respecta importanța sa spirituală și istorică.",
+            "en": "Admire the grandeur of the city's largest mosque, built in 1461, and dress modestly to respect its historical and spiritual significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Fotomuseum Balıkesir",
+            "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+            "ro": "Muzeul Național de Fotografie Balıkesir",
+            "en": "Balıkesir National Photography Museum"
+          },
+          "coords": [
+            27.879264,
+            39.647479
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung historischer Kameras in diesem einzigartigen Fotomuseum und fragen Sie nach temporären Ausstellungen.",
+            "hu": "Fedezze fel a régi fényképezőgépek lenyűgöző gyűjteményét ebben az egyedi múzeumban, és mindenképpen érdeklődjön az időszakos kiállítások felől.",
+            "ro": "Explorați o colecție fascinantă de aparate foto de epocă în acest muzeu unic și asigurați-vă că întrebați personalul despre expozițiile temporare.",
+            "en": "Explore a fascinating collection of vintage cameras in this unique photography museum, and make sure to ask the staff about temporary local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuvâ-yi Milliye Museum Balıkesir",
+            "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+            "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+            "en": "Balıkesir Kuvâ-yi Milliye Museum"
+          },
+          "coords": [
+            27.879574,
+            39.645848
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die Helden des türkischen Befreiungskrieges und achten Sie auf die persönlichen Artefakte im obersten Stock.",
+            "hu": "Ismerje meg a török függetlenségi háború helyi hőseit ebben a múzeumban, különös figyelmet fordítva a felső emeleten található személyes tárgyakra.",
+            "ro": "Aflați despre eroii Războiului de Independență turc în acest muzeu, acordând o atenție deosebită obiectelor personale de la ultimul etaj.",
+            "en": "Learn about the regional heroes of the Turkish War of Independence in this museum, paying close attention to the personal artifacts on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinkçiler Eski Moschee",
+            "hu": "Dinkçiler Eski mecset",
+            "ro": "Moscheea Dinkçiler Eski",
+            "en": "Dinkçiler Eski Mosque"
+          },
+          "coords": [
+            27.878684,
+            39.642492
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in den authentischen Charme dieser traditionellen Moschee ein, indem Sie sie früh am Tag besuchen, wenn die Gegend friedlich ist.",
+            "hu": "Merüljön el ennek a hagyományos környéki mecsetnek az autentikus varázsában kora reggel, amikor a környék még csendes és békés.",
+            "ro": "Cufundați-vă în farmecul autentic al acestei moschei de cartier vizitând-o la primele ore ale zilei, când zona este foarte calmă și pașnică.",
+            "en": "Immerse yourself in the authentic charm of this traditional neighborhood mosque by visiting early in the day when the area is calm and peaceful."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşilli Moschee",
+            "hu": "Yeşilli mecset",
+            "ro": "Moscheea Yeşilli",
+            "en": "Yeşilli Mosque"
+          },
+          "coords": [
+            27.882,
+            39.64729
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die feine Holzarbeit in dieser ruhigen Viertelmoschee, die einen friedlichen Rückzugsort abseits der geschäftigen Hauptstraßen bietet.",
+            "hu": "Figyelje meg a finom fafaragásokat ebben a békés környéki mecsetben, amely csendes menedéket nyújt a város forgalmas főutcáitól távolabb.",
+            "ro": "Observați măiestria în lemn a acestei moschei de cartier, care oferă un refugiu liniștit departe de agitația străzilor principale ale orașului.",
+            "en": "Notice the fine wooden craftsmanship in this serene neighborhood mosque, which offers a quiet retreat away from the bustling main city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Yıldırım Moschee",
+            "hu": "Yıldırım mecset",
+            "ro": "Moscheea Yıldırım",
+            "en": "Yıldırım Mosque"
+          },
+          "coords": [
+            27.883165,
+            39.650327
+          ],
+          "category": "religious",
+          "arrive_at": "15:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur dieser alten Moschee aus dem späten 14. Jahrhundert und entspannen Sie sich kurz in ihrem schattigen Innenhof.",
+            "hu": "Fedezze fel ezen ősi, 14. század végi mecset építészeti elrendezését, és pihenjen meg egy pillanatra az árnyékos belső udvar nyugalmas kertjében.",
+            "ro": "Descoperiți arhitectura acestei moschei antice de la sfârșitul secolului al XIV-lea, luându-vă un moment de odihnă în curtea sa umbrită și pașnică.",
+            "en": "Discover the late 14th-century architectural layout of this ancient mosque, taking a moment to rest in its peaceful and shaded courtyard garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamidiye Moschee",
+            "hu": "Hamidiye mecset",
+            "ro": "Moscheea Hamidiye",
+            "en": "Hamidiye Mosque"
+          },
+          "coords": [
+            27.88849,
+            39.650593
+          ],
+          "category": "religious",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spätosmanischen Stilmerkmale aus der Zeit von Abdülhamid II. und achten Sie besonders auf die verzierten Details am Haupteingang.",
+            "hu": "Csodálja meg a II. Abdul-Hamid uralkodása alatt bevezetett késő oszmán stílusjegyeket, különös figyelmet fordítva a főbejárat díszítéseire.",
+            "ro": "Admirați caracteristicile stilistice otomane târzii introduse în timpul domniei lui Abdülhamid al II-lea, concentrându-vă pe detaliile ornamentate.",
+            "en": "Admire the late Ottoman stylistic features introduced during the reign of Abdülhamid II, focusing on the ornate detailing around the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Norden an der Kayabey Cami. Radeln Sie nach Süden zur Zağnos Paşa Camii, bevor Sie sich die Kameras im Nationalen Fotomuseum ansehen.",
+        "hu": "Kezdje kerékpártúráját északon, a Kayabey mecsetnél. Tekerjen délre az ikonikus Zağnos Paşa mecsethez, mielőtt megnézné a Nemzeti Fotográfiai Múzeum régi kameráit.",
+        "ro": "Începeți turul cu bicicleta în nord la Moscheea Kayabey. Pedalați spre sud către Moscheea Zağnos Paşa înainte de a vedea camerele vintage la Muzeul Național de Fotografie.",
+        "en": "Start your cycling journey in the northern district at Kayabey Cami, feeling the local morning vibe. Pedal south to the iconic Zağnos Paşa Camii before checking out the vintage cameras at the National Photography Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dinkçiler Eski Moschee",
+            "hu": "Dinkçiler Eski mecset",
+            "ro": "Moscheea Dinkçiler Eski",
+            "en": "Dinkçiler Eski Mosque"
+          },
+          "coords": [
+            27.878684,
+            39.642492
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in den authentischen Charme dieser traditionellen Moschee ein, indem Sie sie früh am Tag besuchen, wenn die Gegend friedlich ist.",
+            "hu": "Merüljön el ennek a hagyományos környéki mecsetnek az autentikus varázsában kora reggel, amikor a környék még csendes és békés.",
+            "ro": "Cufundați-vă în farmecul autentic al acestei moschei de cartier vizitând-o la primele ore ale zilei, când zona este foarte calmă și pașnică.",
+            "en": "Immerse yourself in the authentic charm of this traditional neighborhood mosque by visiting early in the day when the area is calm and peaceful."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuvâ-yi Milliye Museum Balıkesir",
+            "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+            "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+            "en": "Balıkesir Kuvâ-yi Milliye Museum"
+          },
+          "coords": [
+            27.879574,
+            39.645848
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die Helden des türkischen Befreiungskrieges und achten Sie auf die persönlichen Artefakte im obersten Stock.",
+            "hu": "Ismerje meg a török függetlenségi háború helyi hőseit ebben a múzeumban, különös figyelmet fordítva a felső emeleten található személyes tárgyakra.",
+            "ro": "Aflați despre eroii Războiului de Independență turc în acest muzeu, acordând o atenție deosebită obiectelor personale de la ultimul etaj.",
+            "en": "Learn about the regional heroes of the Turkish War of Independence in this museum, paying close attention to the personal artifacts on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Fotomuseum Balıkesir",
+            "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+            "ro": "Muzeul Național de Fotografie Balıkesir",
+            "en": "Balıkesir National Photography Museum"
+          },
+          "coords": [
+            27.879264,
+            39.647479
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung historischer Kameras in diesem einzigartigen Fotomuseum und fragen Sie nach temporären Ausstellungen.",
+            "hu": "Fedezze fel a régi fényképezőgépek lenyűgöző gyűjteményét ebben az egyedi múzeumban, és mindenképpen érdeklődjön az időszakos kiállítások felől.",
+            "ro": "Explorați o colecție fascinantă de aparate foto de epocă în acest muzeu unic și asigurați-vă că întrebați personalul despre expozițiile temporare.",
+            "en": "Explore a fascinating collection of vintage cameras in this unique photography museum, and make sure to ask the staff about temporary local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Zağnos Paşa Moschee",
+            "hu": "Zağnos Paşa mecset",
+            "ro": "Moscheea Zağnos Paşa",
+            "en": "Zağnos Paşa Mosque"
+          },
+          "coords": [
+            27.879983,
+            39.64877
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die größte Moschee der Stadt aus dem Jahr 1461 und achten Sie auf angemessene Kleidung, um die spirituelle Bedeutung zu würdigen.",
+            "hu": "Csodálja meg a város 1461-ben épült legnagyobb mecsetjét, és viseljen visszafogott öltözéket, hogy tiszteletben tartsa történelmi jelentőségét.",
+            "ro": "Admirați cea mai mare moschee din oraș construită în 1461 și adoptați o ținută decentă pentru a respecta importanța sa spirituală și istorică.",
+            "en": "Admire the grandeur of the city's largest mosque, built in 1461, and dress modestly to respect its historical and spiritual significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayabey Moschee",
+            "hu": "Kayabey mecset",
+            "ro": "Moscheea Kayabey",
+            "en": "Kayabey Mosque"
+          },
+          "coords": [
+            27.879074,
+            39.652791
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang zu dieser historisch bedeutsamen nördlichen Moschee, wo die ruhigen Straßen einen Einblick in das lokale Leben bieten.",
+            "hu": "Élvezze a kellemes sétát ehhez az északi mecsethez, ahol a környező csendes utcák bepillantást engednek a helyiek mindennapi életébe.",
+            "ro": "Bucurați-vă de o plimbare până la această moschee nordică istorică, unde străzile liniștite din jur oferă o perspectivă asupra vieții locale.",
+            "en": "Enjoy a pleasant walk up to this historically significant northern mosque, where the surrounding quiet streets provide a glimpse into local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Yıldırım Moschee",
+            "hu": "Yıldırım mecset",
+            "ro": "Moscheea Yıldırım",
+            "en": "Yıldırım Mosque"
+          },
+          "coords": [
+            27.883165,
+            39.650327
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur dieser alten Moschee aus dem späten 14. Jahrhundert und entspannen Sie sich kurz in ihrem schattigen Innenhof.",
+            "hu": "Fedezze fel ezen ősi, 14. század végi mecset építészeti elrendezését, és pihenjen meg egy pillanatra az árnyékos belső udvar nyugalmas kertjében.",
+            "ro": "Descoperiți arhitectura acestei moschei antice de la sfârșitul secolului al XIV-lea, luându-vă un moment de odihnă în curtea sa umbrită și pașnică.",
+            "en": "Discover the late 14th-century architectural layout of this ancient mosque, taking a moment to rest in its peaceful and shaded courtyard garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamidiye Moschee",
+            "hu": "Hamidiye mecset",
+            "ro": "Moscheea Hamidiye",
+            "en": "Hamidiye Mosque"
+          },
+          "coords": [
+            27.88849,
+            39.650593
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spätosmanischen Stilmerkmale aus der Zeit von Abdülhamid II. und achten Sie besonders auf die verzierten Details am Haupteingang.",
+            "hu": "Csodálja meg a II. Abdul-Hamid uralkodása alatt bevezetett késő oszmán stílusjegyeket, különös figyelmet fordítva a főbejárat díszítéseire.",
+            "ro": "Admirați caracteristicile stilistice otomane târzii introduse în timpul domniei lui Abdülhamid al II-lea, concentrându-vă pe detaliile ornamentate.",
+            "en": "Admire the late Ottoman stylistic features introduced during the reign of Abdülhamid II, focusing on the ornate detailing around the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in das südliche Viertel zur traditionellen Dinkçiler Eski Camii und danach zentral zum Kuvâ-yi Milliye Museum für tiefgehende lokale Geschichte.",
+        "hu": "Vezessen a déli negyedbe, hogy felfedezze a Dinkçiler Eski mecsetet, majd menjen a központba a Kuvâ-yi Milliye Múzeumhoz a helyi történelem megismeréséért.",
+        "ro": "Conduceți în cartierul sudic pentru a explora Moscheea Dinkçiler Eski, apoi mergeți central la Muzeul Kuvâ-yi Milliye pentru a înțelege istoria locală.",
+        "en": "Drive to the southern neighborhood to explore the traditional Dinkçiler Eski Camii. Then, head centrally to the Kuvâ-yi Milliye Museum to understand the profound local history of the War of Independence."
+      }
+    }
+  }
+}

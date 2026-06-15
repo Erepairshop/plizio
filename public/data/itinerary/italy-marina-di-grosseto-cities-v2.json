@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-marina-di-grosseto-cities-v2",
+  "anchor": {
+    "name": "Marina di Grosseto",
+    "coords": [
+      10.981,
+      42.71785
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            10.98204,
+            42.718317
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese moderne Kirche, die das spirituelle Zentrum des Ortes bildet, und achten Sie auf die bunten Glasfenster im ruhigen Innenraum.",
+            "hu": "Látogasson el ebbe a modern templomba, amely a város szellemi központja, és figyelje meg a színes üvegablakokat a csendes belső térben.",
+            "ro": "Vizitați această biserică modernă care servește drept centru spiritual al orașului și admirați vitraliile colorate în liniștea interioară.",
+            "en": "Visit this modern church that serves as the spiritual center of the town, and take a moment to admire the colorful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            10.98526,
+            42.719565
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie klassische Jahrmarktfreuden in diesem charmanten Vergnügungspark, der besonders am späten Nachmittag für Familien sehr empfehlenswert ist.",
+            "hu": "Élvezze a klasszikus vidámparki hangulatot ebben a bájos parkban, amely különösen a késő délutáni órákban nyújt remek szórakozást a családoknak.",
+            "ro": "Experimentați bucuriile clasice ale bâlciurilor în acest parc de distracții fermecător, o alegere excelentă pentru familii mai ales spre seară.",
+            "en": "Experience classic fairground fun in this charming amusement park, which is highly recommended for families looking for a lively afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Mio e Tuo",
+            "hu": "Bagno Mio e Tuo",
+            "ro": "Bagno Mio e Tuo",
+            "en": "Bagno Mio e Tuo"
+          },
+          "coords": [
+            10.978117,
+            42.719429
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Strandabschnitt mit hervorragendem Service, wo Sie am besten vorab eine Sonnenliege für den Tag reservieren.",
+            "hu": "Pihenjen ezen a kiváló szolgáltatásokat nyújtó, gondozott strandon, ahol érdemes előre lefoglalni a napágyat a tökéletes kényelem érdekében.",
+            "ro": "Relaxați-vă pe această plajă bine întreținută, cu servicii excelente, unde este indicat să rezervați un șezlong în avans pentru toată ziua.",
+            "en": "Relax at this well-maintained beach club offering excellent services, where you should ideally book a sun lounger in advance for ultimate comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilimento Balneare \"Vigili del Fuoco\"",
+            "hu": "Stabilimento Balneare \"Vigili del Fuoco\"",
+            "ro": "Stabilimento Balneare \"Vigili del Fuoco\"",
+            "en": "Stabilimento Balneare \"Vigili del Fuoco\""
+          },
+          "coords": [
+            10.97459,
+            42.722969
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die sichere und freundliche Atmosphäre dieses familienorientierten Strandes, der mit flachem Wasser und sauberen Duschen punktet.",
+            "hu": "Élvezze a biztonságos és barátságos légkört ezen a családbarát strandon, amely sekély vizével és tiszta zuhanyzóival hódítja meg a látogatókat.",
+            "ro": "Bucurați-vă de atmosfera sigură și prietenoasă a acestei plaje orientate spre familii, care impresionează cu apă puțin adâncă și dușuri curate.",
+            "en": "Enjoy the safe and friendly atmosphere of this family-oriented beach, which impresses with shallow waters and exceptionally clean shower facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Miramare",
+            "hu": "Bagno Miramare",
+            "ro": "Bagno Miramare",
+            "en": "Bagno Miramare"
+          },
+          "coords": [
+            10.973555,
+            42.723881
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem malerischen Strand ausklingen, wo Sie neben feinem Sand auch exzellente lokale Snacks an der Strandbar finden.",
+            "hu": "Zárja a napot ezen a festői strandon, ahol a finom homok mellett kiváló helyi harapnivalókat is megkóstolhat a tengerparti bárban.",
+            "ro": "Încheiați ziua pe această plajă pitorească, unde pe lângă nisipul fin veți găsi și gustări locale excelente la barul de pe litoral.",
+            "en": "End your day at this picturesque beach, where alongside fine sand you can also find excellent local snacks at the convenient beachfront bar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Besuch der modernen Kirche San Rocco im Zentrum. Genießen Sie einen Spaziergang zum Luna Park. Mittags zieht es Sie an die Küste ins Bagno Mio e Tuo für Sonne und Meer. Verbringen Sie den Nachmittag damit, nordwärts zum Vigili del Fuoco zu schlendern. Wenn der Abend naht, entspannen Sie sich im Bagno Miramare bei einem letzten Aperitif.",
+        "hu": "Kezdje a reggelt a központban található modern San Rocco templom csendes látogatásával. Tegyen egy kényelmes sétát a Luna Parkba egy kis családi szórakozásra. Délben a part felé vesszük az irányt a Bagno Mio e Tuo strandra. A délutánt az északi Vigili del Fuoco strandon töltjük. Az este közeledtével lazítson a Bagno Miramare partszakaszán egy utolsó tengerparti aperitif kíséretében.",
+        "ro": "Începeți dimineața cu o vizită liniștită la moderna biserică San Rocco din centru. Bucurați-vă de o plimbare spre Luna Park pentru distracție în familie. La prânz mergeți spre coastă, oprindu-vă la Bagno Mio e Tuo pentru soare. Petreceți după-amiaza deplasându-vă spre nord către Vigili del Fuoco. Spre seară, relaxați-vă la Bagno Miramare cu un ultim aperitiv pe malul mării.",
+        "en": "Start your morning with a quiet visit to the modern San Rocco church in the center. Enjoy a leisurely stroll to the Luna Park for some lighthearted family fun. Midday takes you towards the coastline, settling at Bagno Mio e Tuo for sun and sea. Spend the afternoon beach-hopping northward to Vigili del Fuoco. As evening approaches, relax at Bagno Miramare with a final seaside aperitivo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella del Cristo",
+            "hu": "Cappella del Cristo",
+            "ro": "Cappella del Cristo",
+            "en": "Cappella del Cristo"
+          },
+          "coords": [
+            10.979189,
+            42.737888
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, friedliche Kapelle abseits des Trubels, die sich perfekt für eine kurze spirituelle Pause während Ihrer Radtour eignet.",
+            "hu": "Fedezze fel ezt a kis, békés kápolnát távol a nyüzsgéstől, amely tökéletes helyszín egy rövid szellemi feltöltődésre a kerékpártúra során.",
+            "ro": "Descoperiți această mică capelă pașnică, departe de agitație, perfectă pentru o scurtă pauză spirituală în timpul plimbării dumneavoastră cu bicicleta.",
+            "en": "Discover this small, peaceful chapel away from the hustle and bustle, perfect for a short spiritual break during your scenic cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Residence La Mandorla",
+            "hu": "Residence La Mandorla",
+            "ro": "Residence La Mandorla",
+            "en": "Residence La Mandorla"
+          },
+          "coords": [
+            10.970977,
+            42.735704
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser bekannten Residenz im Pinienwald, die ein guter Orientierungspunkt für den nördlichen Ortsteil ist.",
+            "hu": "Csodálja meg a fenyőerdőben megbúvó ikonikus rezidencia építészetét, amely kiváló tájékozódási pont a település északi részének felfedezéséhez.",
+            "ro": "Admirați arhitectura distinctivă a acestei reședințe cunoscute din pădurea de pini, care servește drept punct de reper excelent pentru partea de nord.",
+            "en": "Admire the distinctive architecture of this well-known residence in the pine forest, which serves as a great landmark for the northern part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fiumara Beach",
+            "hu": "La Fiumara Beach",
+            "ro": "La Fiumara Beach",
+            "en": "La Fiumara Beach"
+          },
+          "coords": [
+            10.963942,
+            42.729909
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erforschen Sie diesen naturbelassenen, wilderen Strandabschnitt im Norden, der ideal für Ruhesuchende ist und wo Sie eigene Getränke mitbringen sollten.",
+            "hu": "Fedezze fel ezt a természetesebb, vadabb északi strandszakaszt, amely ideális a nyugalomra vágyóknak, de érdemes saját frissítőt hozni.",
+            "ro": "Explorați această secțiune de plajă mai sălbatică și naturală din nord, ideală pentru cei care caută liniște, și aduceți-vă propriile băuturi.",
+            "en": "Explore this more natural and wild beach section in the north, ideal for those seeking tranquility, and remember to bring your own refreshments."
+          }
+        },
+        {
+          "name": {
+            "de": "Moby Dick",
+            "hu": "Moby Dick",
+            "ro": "Moby Dick",
+            "en": "Moby Dick"
+          },
+          "coords": [
+            10.968479,
+            42.72743
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden in diesem beliebten Strandbad, das für sein lebhaftes Ambiente und die erfrischenden Cocktails am Nachmittag bekannt ist.",
+            "hu": "Töltsön el néhány pihentető órát ebben a népszerű fürdőben, amely élénk hangulatáról és a délutáni hűsítő koktélokról egyaránt híres.",
+            "ro": "Petreceți ore relaxante în acest complex balnear popular, cunoscut pentru atmosfera sa plină de viață și cocktailurile răcoritoare de după-amiază.",
+            "en": "Spend relaxing hours at this popular beach establishment, well known for its lively ambiance and refreshing afternoon cocktails by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            10.98204,
+            42.718317
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese moderne Kirche, die das spirituelle Zentrum des Ortes bildet, und achten Sie auf die bunten Glasfenster im ruhigen Innenraum.",
+            "hu": "Látogasson el ebbe a modern templomba, amely a város szellemi központja, és figyelje meg a színes üvegablakokat a csendes belső térben.",
+            "ro": "Vizitați această biserică modernă care servește drept centru spiritual al orașului și admirați vitraliile colorate în liniștea interioară.",
+            "en": "Visit this modern church that serves as the spiritual center of the town, and take a moment to admire the colorful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Dolce Vita",
+            "hu": "Bagno Dolce Vita",
+            "ro": "Bagno Dolce Vita",
+            "en": "Bagno Dolce Vita"
+          },
+          "coords": [
+            10.985164,
+            42.710918
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das elegante Flair dieses Strandclubs ein, wo komfortable Liegen und entspannte Musik die perfekte Kulisse für den Sonnenuntergang bilden.",
+            "hu": "Merüljön el ennek az elegáns strandklubnak a hangulatában, ahol a kényelmes napágyak és a nyugtató zene tökéletes hátteret adnak a naplementéhez.",
+            "ro": "Cufundați-vă în atmosfera elegantă a acestui club de plajă, unde șezlongurile confortabile și muzica relaxantă creează cadrul perfect pentru apus.",
+            "en": "Immerse yourself in the elegant flair of this beach club, where comfortable loungers and chill music provide the perfect backdrop for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zur friedlichen Cappella del Cristo in den Pinienwäldern. Fahren Sie an der Residence La Mandorla vorbei zum Naturstrand La Fiumara. Mittags geht es südwärts zum Moby Dick für ein Mittagessen. Der Nachmittag bringt Sie zurück ins Zentrum zu San Rocco. Schließlich radeln Sie zum Bagno Dolce Vita für einen stilvollen Sonnenuntergang und eine sanfte Meeresbrise am Abend.",
+        "hu": "Tekerjen ki korán a fenyvesekben megbúvó, békés Cappella del Cristo kápolnához. Kerekezzen el a Residence La Mandorla mellett a La Fiumara természetes partjai felé. Délben induljon délre a Moby Dick strandhoz egy ebéde. A délután visszaviszi a városközpontba a San Rocco templomhoz. Végül tekerjen a Bagno Dolce Vita strandhoz egy elegáns naplementére és a lágy esti tengerparti szellőre.",
+        "ro": "Pedalați devreme spre liniștita Cappella del Cristo, ascunsă în pini. Treceți pe lângă Residence La Mandorla înainte de a ajunge la La Fiumara. La prânz, coborâți spre sud la Moby Dick pentru un prânz animat. După-amiaza vă aduce înapoi în centru pentru a admira San Rocco. În cele din urmă, pedalați până la Bagno Dolce Vita pentru un apus elegant și o briză blândă de seară.",
+        "en": "Ride out early to the peaceful Cappella del Cristo, hidden in the pines. Cycle past the iconic Residence La Mandorla before hitting the natural shores of La Fiumara Beach. By midday, cruise south to Moby Dick for a lively coastal lunch. The afternoon brings you back to the town center to admire San Rocco. Finally, pedal to Bagno Dolce Vita for a stylish evening sunset and gentle sea breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Residence La Mandorla",
+            "hu": "Residence La Mandorla",
+            "ro": "Residence La Mandorla",
+            "en": "Residence La Mandorla"
+          },
+          "coords": [
+            10.970977,
+            42.735704
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser bekannten Residenz im Pinienwald, die ein guter Orientierungspunkt für den nördlichen Ortsteil ist.",
+            "hu": "Csodálja meg a fenyőerdőben megbúvó ikonikus rezidencia építészetét, amely kiváló tájékozódási pont a település északi részének felfedezéséhez.",
+            "ro": "Admirați arhitectura distinctivă a acestei reședințe cunoscute din pădurea de pini, care servește drept punct de reper excelent pentru partea de nord.",
+            "en": "Admire the distinctive architecture of this well-known residence in the pine forest, which serves as a great landmark for the northern part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "3 Stelle",
+            "hu": "3 Stelle",
+            "ro": "3 Stelle",
+            "en": "3 Stelle"
+          },
+          "coords": [
+            10.967296,
+            42.728353
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Profitieren Sie von der ausgezeichneten Infrastruktur dieses Strandabschnitts, der mit Sportangeboten lockt und ideal für aktive Urlauber ist.",
+            "hu": "Használja ki ennek a strandszakasznak a kiváló infrastruktúráját, amely sportolási lehetőségekkel csábítja az aktív pihenés szerelmeseit.",
+            "ro": "Profitați de infrastructura excelentă a acestei secțiuni de plajă, care atrage cu opțiuni de sport și este ideală pentru turiștii activi.",
+            "en": "Take advantage of the excellent infrastructure at this beach section, which entices with sports facilities and is ideal for active vacationers."
+          }
+        },
+        {
+          "name": {
+            "de": "Moreno Beach",
+            "hu": "Moreno Beach",
+            "ro": "Moreno Beach",
+            "en": "Moreno Beach"
+          },
+          "coords": [
+            10.972176,
+            42.724581
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen lebhaften Strand mit goldenem Sand, der fantastische Wassersportmöglichkeiten bietet und am Vormittag am ruhigsten ist.",
+            "hu": "Látogasson el erre az aranyhomokos, nyüzsgő strandra, amely fantasztikus vízi sportokat kínál, és a délelőtti órákban a legnyugodtabb.",
+            "ro": "Vizitați această plajă vibrantă cu nisip auriu, care oferă oportunități fantastice de sporturi nautice și este cel mai liniștită dimineața.",
+            "en": "Visit this lively beach with golden sand that offers fantastic water sports opportunities and is usually quietest during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            10.98204,
+            42.718317
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese moderne Kirche, die das spirituelle Zentrum des Ortes bildet, und achten Sie auf die bunten Glasfenster im ruhigen Innenraum.",
+            "hu": "Látogasson el ebbe a modern templomba, amely a város szellemi központja, és figyelje meg a színes üvegablakokat a csendes belső térben.",
+            "ro": "Vizitați această biserică modernă care servește drept centru spiritual al orașului și admirați vitraliile colorate în liniștea interioară.",
+            "en": "Visit this modern church that serves as the spiritual center of the town, and take a moment to admire the colorful stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Tropical",
+            "hu": "Bagno Tropical",
+            "ro": "Bagno Tropical",
+            "en": "Bagno Tropical"
+          },
+          "coords": [
+            10.984843,
+            42.711818
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie karibisches Flair an diesem tropisch inspirierten Strand, wo palmengesäumte Schirme und bunte Drinks echtes Urlaubsfeeling garantieren.",
+            "hu": "Élje át a karibi hangulatot ezen a trópusi ihletésű strandon, ahol a pálmafás napernyők és a színes italok igazi nyaralási élményt nyújtanak.",
+            "ro": "Simțiți flerul caraibian pe această plajă cu influențe tropicale, unde umbrelele mărginite de palmieri și băuturile colorate garantează relaxarea.",
+            "en": "Feel the Caribbean flair at this tropically inspired beach, where palm-fringed umbrellas and colorful drinks guarantee a true holiday feeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Granduca",
+            "hu": "Bagno Granduca",
+            "ro": "Bagno Granduca",
+            "en": "Bagno Granduca"
+          },
+          "coords": [
+            10.993495,
+            42.697738
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit und Ruhe dieses südlichen Strandes, der weniger überlaufen ist und herrliche Ausblicke auf die toskanische Küste bietet.",
+            "hu": "Élvezze e déli strand tágasságát és nyugalmát, amely kevésbé zsúfolt, és csodálatos kilátást nyújt a lenyűgöző toszkán tengerpartra.",
+            "ro": "Bucurați-vă de spațiul și liniștea acestei plaje sudice, care este mai puțin aglomerată și oferă vederi magnifice asupra coastei toscane.",
+            "en": "Enjoy the spaciousness and tranquility of this southern beach, which is less crowded and offers magnificent views of the Tuscan coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Norden zur markanten Residence La Mandorla, gefolgt von einem sportlichen Morgen am 3 Stelle Strand. Fahren Sie weiter zum Moreno Beach zur Entspannung. Am Nachmittag parken Sie nahe dem Zentrum, um die ruhige Kirche San Rocco zu besuchen. Fahren Sie südwärts zum Bagno Tropical für eine lebhafte Atmosphäre und beenden Sie den Tag im weitläufigen Bagno Granduca zum Sonnenuntergang.",
+        "hu": "Vezessen északra a Residence La Mandorla megtekintéséhez, majd töltsön egy sportos délelőttöt a 3 Stelle strandon. Folytassa útját a Moreno Beach felé egy kis déli kikapcsolódásra. Délután parkoljon le a központban, és látogassa meg a San Rocco templomot. Induljon délre a Bagno Tropical felé az élénk hangulatért, majd zárja a napot a tágas Bagno Granduca strandon a naplementében.",
+        "ro": "Conduceți spre nord la Residence La Mandorla, urmată de o dimineață sportivă la plaja 3 Stelle. Continuați spre Moreno Beach pentru relaxare la prânz. După-amiaza, parcați aproape de centru pentru a vizita biserica San Rocco. Îndreptați-vă spre sud la Bagno Tropical pentru o atmosferă vibrantă, încheind ziua la spațioasa plajă Bagno Granduca odata cu minunatul apus de soare.",
+        "en": "Drive north to start your day at the striking Residence La Mandorla, followed by a sporty morning at the 3 Stelle beach. Continue along the coast to Moreno Beach for midday relaxation and sunbathing. In the afternoon, park near the center to visit the tranquil San Rocco church. Head south towards Bagno Tropical for a vibrant vibe, ending the day at the expansive Bagno Granduca at sunset."
+      }
+    }
+  }
+}

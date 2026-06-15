@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-casalotti-cities-v2",
+  "anchor": {
+    "name": "Casalotti",
+    "coords": [
+      12.368631,
+      41.915819
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Villa von Casalotti",
+            "hu": "Casalotti római villa",
+            "ro": "Vila Romană din Casalotti",
+            "en": "Roman Villa of Casalotti"
+          },
+          "coords": [
+            12.373538,
+            41.916356
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Ruinen dieser römischen Landvilla, die einen Einblick in die landwirtschaftliche Vergangenheit der Region bieten, aber tragen Sie unbedingt bequeme Schuhe.",
+            "hu": "Csodálja meg a vidéki római villa ősi romjait, amelyek bepillantást engednek a régió mezőgazdasági múltjába, de ne felejtsen el kényelmes cipőt húzni az egyenetlen terep miatt.",
+            "ro": "Admirați ruinele antice ale acestei vile romane rurale care oferă o privire în trecutul agricol al regiunii, dar asigurați-vă că purtați încălțăminte confortabilă pentru teren.",
+            "en": "Admire the ancient ruins of this rural Roman villa that offer a glimpse into the agricultural past of the region, but remember to wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Maria von Nazareth",
+            "hu": "Názáreti Szűz Mária-templom",
+            "ro": "Biserica Sfânta Maria din Nazaret",
+            "en": "Church of Saint Mary of Nazareth"
+          },
+          "coords": [
+            12.379359,
+            41.918247
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Atmosphäre dieser modernen Pfarrkirche, die als spirituelles Zentrum der Gemeinde dient, und kommen Sie am Morgen, um das schöne Licht zu genießen.",
+            "hu": "Fedezze fel ennek a modern plébániatemplomnak a békés hangulatát, amely a közösség spirituális központja, és próbáljon délelőtt érkezni, hogy élvezhesse a gyönyörű fényeket.",
+            "ro": "Explorați atmosfera senină a acestei biserici parohiale moderne, un hub spiritual al comunității, și încercați să vizitați dimineața pentru a vă bucura de lumina frumoasă.",
+            "en": "Explore the serene atmosphere of this modern parish church which serves as a spiritual hub for the community, and try to visit during morning hours to enjoy the beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Gemma Galgani",
+            "hu": "Szent Gemma Galgani-templom",
+            "ro": "Biserica Sfânta Gemma Galgani",
+            "en": "Church of Saint Gemma Galgani"
+          },
+          "coords": [
+            12.367043,
+            41.926696
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende zeitgenössische Architektur dieser Kirche, in der sich die Gemeinde versammelt, und betrachten Sie die detaillierten Buntglasfenster am Hauptaltar.",
+            "hu": "Fedezze fel ennek a helyiek által kedvelt, lenyűgöző kortárs építészetű templomnak a szépségét, és vessen egy pillantást a főoltár melletti részletgazdag ólomüveg ablakokra.",
+            "ro": "Descoperiți arhitectura contemporană impresionantă a acestei biserici unde se adună enoriașii și faceți-vă timp să observați vitraliile detaliate din apropierea altarului principal.",
+            "en": "Discover the striking contemporary architecture of this dedicated church where local parishioners gather, and take a moment to observe the detailed stained glass near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Porcareccia",
+            "hu": "Porcareccia kastélya",
+            "ro": "Castelul din Porcareccia",
+            "en": "Castle of Porcareccia"
+          },
+          "coords": [
+            12.365396,
+            41.92707
+          ],
+          "category": "castle",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Bauernhaus, das das mittelalterliche Landleben widerspiegelt, während Sie auf die privaten Grundstücksgrenzen achten.",
+            "hu": "Lépjen vissza az időben ennél a történelmi erődített parasztháznál, amely a középkori vidéki életet tükrözi, de vigyázzon a közeli magán mezőgazdasági területek határaira.",
+            "ro": "Întoarceți-vă în timp la această fermă fortificată istorică ce reflectă viața medievală campaniene, având grijă să respectați limitele proprietăților agricole private din jur.",
+            "en": "Step back in time at this historic fortified farmhouse structure that reflects the medieval campania life, while staying cautious around the private agricultural boundaries nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturdenkmal Cellulosa-Park",
+            "hu": "Cellulosa Park természeti emlékmű",
+            "ro": "Monumentul Natural Parcul Cellulosa",
+            "en": "Cellulosa Park Natural Monument"
+          },
+          "coords": [
+            12.357598,
+            41.907468
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet, das einst als experimentelles Papieranbaugebiet diente, und bringen Sie Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Sétáljon végig ezen a gyönyörű természetvédelmi területen, amely egykor kísérleti papírtermesztési terület volt, és vigyen magával vizet, mivel a felszereltség itt korlátozott.",
+            "ro": "Plimbați-vă prin această frumoasă rezervație naturală care a servit cândva ca zonă experimentală pentru hârtie și aduceți o sticlă de apă, deoarece facilitățile sunt limitate.",
+            "en": "Wander through this beautiful natural reserve that once served as an experimental paper cultivation area, and bring a small bottle of water as facilities along the trails are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der antiken Wurzeln von Casalotti bei den Ruinen der römischen Villa. Mittags spazieren Sie durch die lokalen Pfarrgemeinden. Am Nachmittag entdecken Sie den rustikalen Charme der Burg Porcareccia. Lassen Sie den Tag mit einer entspannten Wanderung zwischen den Bäumen des Cellulosa-Naturschutzgebiets ausklingen und genießen Sie das Grün.",
+        "hu": "Kezdje a reggelt Casalotti ősi gyökereinek felfedezésével a római villa romjainál. A délben egy békés séta következik a helyi plébániákhoz, megcsodálva a vallási építészetet. Délután fedezze fel a Porcareccia kastély környékének rusztikus varázsát. Zárja a napot egy pihentető túrával a Cellulosa természetvédelmi terület fái között, magába szívva a békés, zöld környezet nyugalmát.",
+        "ro": "Începeți dimineața explorând rădăcinile antice ale zonei Casalotti la ruinele vilei romane. La prânz faceți o plimbare senină prin parohiile locale, admirând arhitectura religioasă. După-amiaza, descoperiți farmecul rustic al zonei castelului Porcareccia. Încheiați ziua cu o drumeție relaxantă printre copacii rezervației naturale Cellulosa, absorbind mediul verde și pașnic.",
+        "en": "Start your morning exploring the ancient roots of Casalotti at the Roman villa ruins. Midday brings a serene stroll through local parishes, admiring contemporary religious architecture. In the afternoon, discover the rustic charm of the Porcareccia castle area. Conclude the day with a relaxing hike among the trees of the Cellulosa nature reserve, soaking in the peaceful green surroundings."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturdenkmal Cellulosa-Park",
+            "hu": "Cellulosa Park természeti emlékmű",
+            "ro": "Monumentul Natural Parcul Cellulosa",
+            "en": "Cellulosa Park Natural Monument"
+          },
+          "coords": [
+            12.357598,
+            41.907468
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet, das einst als experimentelles Papieranbaugebiet diente, und bringen Sie Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Sétáljon végig ezen a gyönyörű természetvédelmi területen, amely egykor kísérleti papírtermesztési terület volt, és vigyen magával vizet, mivel a felszereltség itt korlátozott.",
+            "ro": "Plimbați-vă prin această frumoasă rezervație naturală care a servit cândva ca zonă experimentală pentru hârtie și aduceți o sticlă de apă, deoarece facilitățile sunt limitate.",
+            "en": "Wander through this beautiful natural reserve that once served as an experimental paper cultivation area, and bring a small bottle of water as facilities along the trails are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Markus und Pius X.",
+            "hu": "Szent Márk evangélista és X. Piusz templom",
+            "ro": "Biserica Sfinții Marcu și Pius al X-lea",
+            "en": "Church of Saints Mark and Pius X"
+          },
+          "coords": [
+            12.348783,
+            41.909441
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses religiöse Wahrzeichen des Viertels, das für seine einladende Atmosphäre und sein schlichtes Design bekannt ist, und prüfen Sie vorab die Gottesdienstzeiten.",
+            "hu": "Látogasson el ebbe a barátságos légköréről és egyszerű, elegáns kialakításáról ismert vallási épületbe, de előtte feltétlenül ellenőrizze a helyi misék pontos menetrendjét.",
+            "ro": "Vizitați acest obiectiv religios de cartier, cunoscut pentru atmosfera sa primitoare și designul simplu, având grijă să verificați programul slujbelor înainte de a intra.",
+            "en": "Visit this neighborhood religious landmark known for its welcoming atmosphere and simple, elegant design, making sure to check the local mass schedule before planning your entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa von Casalotti",
+            "hu": "Casalotti római villa",
+            "ro": "Vila Romană din Casalotti",
+            "en": "Roman Villa of Casalotti"
+          },
+          "coords": [
+            12.373538,
+            41.916356
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Ruinen dieser römischen Landvilla, die einen Einblick in die landwirtschaftliche Vergangenheit der Region bieten, aber tragen Sie unbedingt bequeme Schuhe.",
+            "hu": "Csodálja meg a vidéki római villa ősi romjait, amelyek bepillantást engednek a régió mezőgazdasági múltjába, de ne felejtsen el kényelmes cipőt húzni az egyenetlen terep miatt.",
+            "ro": "Admirați ruinele antice ale acestei vile romane rurale care oferă o privire în trecutul agricol al regiunii, dar asigurați-vă că purtați încălțăminte confortabilă pentru teren.",
+            "en": "Admire the ancient ruins of this rural Roman villa that offer a glimpse into the agricultural past of the region, but remember to wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Porcareccia",
+            "hu": "Porcareccia kastélya",
+            "ro": "Castelul din Porcareccia",
+            "en": "Castle of Porcareccia"
+          },
+          "coords": [
+            12.365396,
+            41.92707
+          ],
+          "category": "castle",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Bauernhaus, das das mittelalterliche Landleben widerspiegelt, während Sie auf die privaten Grundstücksgrenzen achten.",
+            "hu": "Lépjen vissza az időben ennél a történelmi erődített parasztháznál, amely a középkori vidéki életet tükrözi, de vigyázzon a közeli magán mezőgazdasági területek határaira.",
+            "ro": "Întoarceți-vă în timp la această fermă fortificată istorică ce reflectă viața medievală campaniene, având grijă să respectați limitele proprietăților agricole private din jur.",
+            "en": "Step back in time at this historic fortified farmhouse structure that reflects the medieval campania life, while staying cautious around the private agricultural boundaries nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Gemma Galgani",
+            "hu": "Szent Gemma Galgani-templom",
+            "ro": "Biserica Sfânta Gemma Galgani",
+            "en": "Church of Saint Gemma Galgani"
+          },
+          "coords": [
+            12.367043,
+            41.926696
+          ],
+          "category": "religious",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende zeitgenössische Architektur dieser Kirche, in der sich die Gemeinde versammelt, und betrachten Sie die detaillierten Buntglasfenster am Hauptaltar.",
+            "hu": "Fedezze fel ennek a helyiek által kedvelt, lenyűgöző kortárs építészetű templomnak a szépségét, és vessen egy pillantást a főoltár melletti részletgazdag ólomüveg ablakokra.",
+            "ro": "Descoperiți arhitectura contemporană impresionantă a acestei biserici unde se adună enoriașii și faceți-vă timp să observați vitraliile detaliate din apropierea altarului principal.",
+            "en": "Discover the striking contemporary architecture of this dedicated church where local parishioners gather, and take a moment to observe the detailed stained glass near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Sofia an der Via Boccea",
+            "hu": "Szent Zsófia a Via Boccea-n",
+            "ro": "Sfânta Sofia pe Via Boccea",
+            "en": "Saint Sophia on Via Boccea"
+          },
+          "coords": [
+            12.397512,
+            41.911695
+          ],
+          "category": "religious",
+          "arrive_at": "15:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen byzantinischen Mosaike dieser ukrainisch-griechisch-katholischen Basilika und denken Sie daran, sich aus Respekt vor dem Ort angemessen zu kleiden.",
+            "hu": "Csodálja meg ennek az ukrán görögkatolikus bazilikának a lélegzetelállító bizánci stílusú mozaikjait, és ügyeljen arra, hogy a hely tiszteletére szerény öltözéket viseljen.",
+            "ro": "Admirați magnificele mozaicuri în stil bizantin ale acestei bazilici greco-catolice ucrainene, care sunt cu adevărat uluitoare, amintindu-vă să vă îmbrăcați cu mare modestie.",
+            "en": "Marvel at the magnificent Byzantine-style mosaics of this Ukrainian Greek Catholic basilica which are truly breathtaking, and remember to dress modestly out of respect for the site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in den üppigen Versuchswäldern des Cellulosa-Parks. Mittags radeln Sie zu den modernen Kirchen des Viertels, bevor Sie in die römische Geschichte eintauchen. Die Nachmittagsfahrt führt Sie vorbei an mittelalterlichen Bauernhäusern und ruhigen Vorstadtstraßen. Beenden Sie den Tag und bestaunen Sie die goldenen Mosaike der majestätischen Basilika Santa Sofia.",
+        "hu": "Kezdje kerékpáros útját a Cellulosa park buja, kísérleti erdejében. Délben tekerjen a környék modern templomai felé, mielőtt elmerülne az ókori római villa történelmében. A délutáni tekerés középkori parasztházak és csendes külvárosi utcák mellett visz el. Zárja aktív napját a fenséges Santa Sofia bazilika arany mozaikjainak megcsodálásával, amelyek igazán egyedi élményt nyújtanak.",
+        "ro": "Începeți călătoria cu bicicleta în pădurile experimentale luxuriante ale parcului Cellulosa. La prânz, pedalați spre bisericile moderne din cartier înainte de a vă scufunda în istoria vilei romane. Plimbarea de după-amiază vă duce pe lângă structuri medievale și străzi liniștite din suburbii. Încheiați-vă ziua activă admirând mozaicurile aurii ale maiestuoasei bazilici Sfânta Sofia.",
+        "en": "Kick off your cycling journey amidst the lush experimental woods of the Cellulosa park. By midday, pedal towards the neighborhood's modern churches before diving into the history of the ancient Roman villa. The afternoon ride takes you past medieval farmhouse structures and quiet suburban streets. End your active day marveling at the golden mosaics of the majestic Santa Sofia basilica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Heiligen Markus und Pius X.",
+            "hu": "Szent Márk evangélista és X. Piusz templom",
+            "ro": "Biserica Sfinții Marcu și Pius al X-lea",
+            "en": "Church of Saints Mark and Pius X"
+          },
+          "coords": [
+            12.348783,
+            41.909441
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses religiöse Wahrzeichen des Viertels, das für seine einladende Atmosphäre und sein schlichtes Design bekannt ist, und prüfen Sie vorab die Gottesdienstzeiten.",
+            "hu": "Látogasson el ebbe a barátságos légköréről és egyszerű, elegáns kialakításáról ismert vallási épületbe, de előtte feltétlenül ellenőrizze a helyi misék pontos menetrendjét.",
+            "ro": "Vizitați acest obiectiv religios de cartier, cunoscut pentru atmosfera sa primitoare și designul simplu, având grijă să verificați programul slujbelor înainte de a intra.",
+            "en": "Visit this neighborhood religious landmark known for its welcoming atmosphere and simple, elegant design, making sure to check the local mass schedule before planning your entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturdenkmal Cellulosa-Park",
+            "hu": "Cellulosa Park természeti emlékmű",
+            "ro": "Monumentul Natural Parcul Cellulosa",
+            "en": "Cellulosa Park Natural Monument"
+          },
+          "coords": [
+            12.357598,
+            41.907468
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet, das einst als experimentelles Papieranbaugebiet diente, und bringen Sie Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Sétáljon végig ezen a gyönyörű természetvédelmi területen, amely egykor kísérleti papírtermesztési terület volt, és vigyen magával vizet, mivel a felszereltség itt korlátozott.",
+            "ro": "Plimbați-vă prin această frumoasă rezervație naturală care a servit cândva ca zonă experimentală pentru hârtie și aduceți o sticlă de apă, deoarece facilitățile sunt limitate.",
+            "en": "Wander through this beautiful natural reserve that once served as an experimental paper cultivation area, and bring a small bottle of water as facilities along the trails are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa von Casalotti",
+            "hu": "Casalotti római villa",
+            "ro": "Vila Romană din Casalotti",
+            "en": "Roman Villa of Casalotti"
+          },
+          "coords": [
+            12.373538,
+            41.916356
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Ruinen dieser römischen Landvilla, die einen Einblick in die landwirtschaftliche Vergangenheit der Region bieten, aber tragen Sie unbedingt bequeme Schuhe.",
+            "hu": "Csodálja meg a vidéki római villa ősi romjait, amelyek bepillantást engednek a régió mezőgazdasági múltjába, de ne felejtsen el kényelmes cipőt húzni az egyenetlen terep miatt.",
+            "ro": "Admirați ruinele antice ale acestei vile romane rurale care oferă o privire în trecutul agricol al regiunii, dar asigurați-vă că purtați încălțăminte confortabilă pentru teren.",
+            "en": "Admire the ancient ruins of this rural Roman villa that offer a glimpse into the agricultural past of the region, but remember to wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Porcareccia",
+            "hu": "Porcareccia kastélya",
+            "ro": "Castelul din Porcareccia",
+            "en": "Castle of Porcareccia"
+          },
+          "coords": [
+            12.365396,
+            41.92707
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Bauernhaus, das das mittelalterliche Landleben widerspiegelt, während Sie auf die privaten Grundstücksgrenzen achten.",
+            "hu": "Lépjen vissza az időben ennél a történelmi erődített parasztháznál, amely a középkori vidéki életet tükrözi, de vigyázzon a közeli magán mezőgazdasági területek határaira.",
+            "ro": "Întoarceți-vă în timp la această fermă fortificată istorică ce reflectă viața medievală campaniene, având grijă să respectați limitele proprietăților agricole private din jur.",
+            "en": "Step back in time at this historic fortified farmhouse structure that reflects the medieval campania life, while staying cautious around the private agricultural boundaries nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Gemma Galgani",
+            "hu": "Szent Gemma Galgani-templom",
+            "ro": "Biserica Sfânta Gemma Galgani",
+            "en": "Church of Saint Gemma Galgani"
+          },
+          "coords": [
+            12.367043,
+            41.926696
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende zeitgenössische Architektur dieser Kirche, in der sich die Gemeinde versammelt, und betrachten Sie die detaillierten Buntglasfenster am Hauptaltar.",
+            "hu": "Fedezze fel ennek a helyiek által kedvelt, lenyűgöző kortárs építészetű templomnak a szépségét, és vessen egy pillantást a főoltár melletti részletgazdag ólomüveg ablakokra.",
+            "ro": "Descoperiți arhitectura contemporană impresionantă a acestei biserici unde se adună enoriașii și faceți-vă timp să observați vitraliile detaliate din apropierea altarului principal.",
+            "en": "Discover the striking contemporary architecture of this dedicated church where local parishioners gather, and take a moment to observe the detailed stained glass near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Sofia an der Via Boccea",
+            "hu": "Szent Zsófia a Via Boccea-n",
+            "ro": "Sfânta Sofia pe Via Boccea",
+            "en": "Saint Sophia on Via Boccea"
+          },
+          "coords": [
+            12.397512,
+            41.911695
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen byzantinischen Mosaike dieser ukrainisch-griechisch-katholischen Basilika und denken Sie daran, sich aus Respekt vor dem Ort angemessen zu kleiden.",
+            "hu": "Csodálja meg ennek az ukrán görögkatolikus bazilikának a lélegzetelállító bizánci stílusú mozaikjait, és ügyeljen arra, hogy a hely tiszteletére szerény öltözéket viseljen.",
+            "ro": "Admirați magnificele mozaicuri în stil bizantin ale acestei bazilici greco-catolice ucrainene, care sunt cu adevărat uluitoare, amintindu-vă să vă îmbrăcați cu mare modestie.",
+            "en": "Marvel at the magnificent Byzantine-style mosaics of this Ukrainian Greek Catholic basilica which are truly breathtaking, and remember to dress modestly out of respect for the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Montespaccato",
+            "hu": "Montespaccato Kulturális Központ",
+            "ro": "Centrul Cultural Montespaccato",
+            "en": "Montespaccato Cultural Center"
+          },
+          "coords": [
+            12.393272,
+            41.906787
+          ],
+          "category": "cultural",
+          "arrive_at": "15:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kunst und Geschichte in diesem dynamischen Kulturzentrum, in dem häufig Veranstaltungen stattfinden, und prüfen Sie das schwarze Brett auf aktuelle Ausstellungen.",
+            "hu": "Ismerkedjen meg a helyi művészettel és történelemmel ebben a dinamikus kulturális központban, és ellenőrizze a hirdetőtáblájukat a ma megrendezésre kerülő időszaki kiállításokért.",
+            "ro": "Interacționați cu arta și istoria locală la acest centru cultural dinamic care găzduiește frecvent evenimente și verificați avizierul pentru a vedea expozițiile temporare de azi.",
+            "en": "Engage with local art and history at this dynamic cultural center which frequently hosts community events, and check their notice board for any temporary exhibitions happening today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit den einladenden Sehenswürdigkeiten des lokalen Gemeindelebens. Der späte Vormittag bietet einen wunderbaren Kontrast zwischen üppigen Parklandschaften und antiken archäologischen Ruinen. Fahren Sie nach dem Mittagessen zum historischen Schlossgelände und besichtigen Sie die ukrainische Basilika. Beenden Sie Ihre Tour mit der lokalen Kunst im Kulturzentrum.",
+        "hu": "Autós túrája a helyi egyházközségi élet barátságos látnivalóival kezdődik. A késő délelőtt csodálatos kontrasztot kínál a buja parkok és az ősi régészeti romok között. Ebéd után tegyen egy gyors utat a történelmi kastélyhoz, mielőtt meglátogatná a lenyűgöző ukrán bazilikát. Zárja átfogó túráját azáltal, hogy megismerkedik a helyi művészetekkel a dinamikus közösségi kulturális központban.",
+        "ro": "Turul auto începe cu atracțiile primitoare ale vieții parohiale din cartier. Dimineața târziu oferă un contrast minunat între parcurile luxuriante și ruinele arheologice antice. După prânz, conduceți spre zona castelului istoric înainte de a vizita uimitoarea bazilică ucraineană. Încheiați-vă turul cuprinzător interacționând cu artele locale la hub-ul cultural plin de diversitate.",
+        "en": "Your driving tour begins with the welcoming sights of local neighborhood parish life. Late morning offers a wonderful contrast between lush experimental parklands and ancient archaeological ruins. After lunch, take a quick drive to the historic castle grounds before visiting the stunning Ukrainian basilica. Conclude your comprehensive tour by engaging with local arts at the cultural hub."
+      }
+    }
+  }
+}

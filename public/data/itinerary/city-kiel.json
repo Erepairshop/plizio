@@ -1,0 +1,451 @@
+{
+  "city_id": "city-kiel",
+  "anchor": {
+    "name": "Kiel",
+    "coords": [
+      10.1228,
+      54.3233
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kieler Rathaus",
+            "hu": "Kieli Városháza",
+            "ro": "Primăria Kiel",
+            "en": "Kiel City Hall"
+          },
+          "coords": [
+            10.132472,
+            54.322444
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
+            "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
+            "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaikirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nikolai Church"
+          },
+          "coords": [
+            10.140175,
+            54.322816
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie Kiels ältestes Gebäude mit seinem gotischen Innenraum und verpassen Sie nicht die berühmte Bronzeskulptur Geistkämpfer am Eingang.",
+            "hu": "Fedezze fel Kiel legrégebbi épületének gótikus belső terét, és ne hagyja ki a főbejáratnál található híres Geistkämpfer bronzszobrot.",
+            "ro": "Explorați cea mai veche clădire din Kiel pentru interiorul său gotic și nu ratați faimoasa sculptură Geistkämpfer de la intrarea principală.",
+            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            10.143675,
+            54.322747
+          ],
+          "category": "museums",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
+            "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
+            "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Kieler Schloss",
+            "hu": "Kieli Kastély",
+            "ro": "Castelul Kiel",
+            "en": "Kiel Castle"
+          },
+          "coords": [
+            10.1434,
+            54.3242
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Besuchen Sie den erhaltenen Flügel dieses historischen Schlosses und spazieren Sie für eine ruhige Pause durch den friedlichen Innenhof.",
+            "hu": "Látogasson el a hercegek egykori kastélyának megmaradt szárnyába, és sétáljon egyet a csendes belső udvarban, ha egy kis nyugalomra vágyik.",
+            "ro": "Vizitați aripa rămasă a acestui castel istoric și plimbați-vă prin curtea interioară liniștită pentru o pauză relaxantă de la agitația orașului.",
+            "en": "Visit the remaining wing of this historic castle, and walk around the quiet inner courtyard for a peaceful break from the bustling city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle zu Kiel",
+            "hu": "Kieli Műcsarnok",
+            "ro": "Galeria de Artă Kiel",
+            "en": "Kunsthalle zu Kiel"
+          },
+          "coords": [
+            10.146111,
+            54.328611
+          ],
+          "category": "museums",
+          "arrive_at": "14:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in eine bemerkenswerte Sammlung europäischer Kunst und schauen Sie sich unbedingt die Antikensammlung im Erdgeschoss an.",
+            "hu": "Merüljön el az európai művészet lenyűgöző gyűjteményében, és feltétlenül tekintse meg a csodálatos antik szoborcsarnokot a földszinten.",
+            "ro": "Cufundați-vă într-o colecție de artă europeană și asigurați-vă că vizitați uluitoarea sală de sculpturi antice situată chiar la parter.",
+            "en": "Immerse yourself in a remarkable collection of European art, and be sure to check out the stunning antique sculpture hall on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Kiel",
+            "hu": "Kieli Akvárium",
+            "ro": "Acvariul Kiel",
+            "en": "Aquarium Kiel"
+          },
+          "coords": [
+            10.148361,
+            54.329972
+          ],
+          "category": "museums",
+          "arrive_at": "16:16",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
+            "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
+            "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am ikonischen Kieler Rathaus und bewundern Sie den Turm, bevor Sie zur historischen Nikolaikirche gehen.\n\nMittag: Tauchen Sie im Schifffahrtsmuseum in die Marinegeschichte ein und ruhen Sie sich dann am Kieler Schloss aus.\n\nNachmittag: Erkunden Sie europäische Meisterwerke in der Kunsthalle.\n\nAbend: Schließen Sie Ihren Spaziergang mit dem Ostseeleben im Aquarium Kiel ab.",
+        "hu": "Reggel: Kezdje az ikonikus kieli városházánál, majd induljon a történelmi Szent Miklós-templom felé.\n\nDélben: Merüljön el a történelemben a Tengerészeti Múzeumban, majd pihenjen meg a Kieli Kastélynál.\n\nDélután: Fedezze fel az európai remekműveket a Kunsthalle épületében.\n\nEste: A sétát a Balti-tenger élővilágának felfedezésével zárhatja az Akváriumban.",
+        "ro": "Dimineața: Începeți la emblematica Primărie, admirând turnul înainte de a vă îndrepta spre biserica Sf. Nicolae.\n\nPrânz: Pătrundeți în istoria navală la Muzeul Maritim, apoi odihniți-vă la rămășițele Castelului Kiel.\n\nDupă-amiază: Explorați capodoperele europene la Galeria de Artă Kunsthalle.\n\nSeara: Încheiați plimbarea cu viața Mării Baltice la Acvariul Kiel, pe măsură ce se lasă amurgul.",
+        "en": "Morning: Begin at the iconic Kiel City Hall, admiring its tower before heading to the historic St. Nikolai Church.\n\nMidday: Dive into naval history at the Maritime Museum, then rest at Kiel Castle's peaceful remains.\n\nAfternoon: Explore beautiful European art masterpieces at the Kunsthalle.\n\nEvening: Conclude your walk with Baltic Sea life at Aquarium Kiel as twilight settles over the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kieler Rathaus",
+            "hu": "Kieli Városháza",
+            "ro": "Primăria Kiel",
+            "en": "Kiel City Hall"
+          },
+          "coords": [
+            10.132472,
+            54.322444
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
+            "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
+            "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaikirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nikolai Church"
+          },
+          "coords": [
+            10.140175,
+            54.322816
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie Kiels ältestes Gebäude mit seinem gotischen Innenraum und verpassen Sie nicht die berühmte Bronzeskulptur Geistkämpfer am Eingang.",
+            "hu": "Fedezze fel Kiel legrégebbi épületének gótikus belső terét, és ne hagyja ki a főbejáratnál található híres Geistkämpfer bronzszobrot.",
+            "ro": "Explorați cea mai veche clădire din Kiel pentru interiorul său gotic și nu ratați faimoasa sculptură Geistkämpfer de la intrarea principală.",
+            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            10.143675,
+            54.322747
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
+            "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
+            "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Kiel",
+            "hu": "Kieli Akvárium",
+            "ro": "Acvariul Kiel",
+            "en": "Aquarium Kiel"
+          },
+          "coords": [
+            10.148361,
+            54.329972
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
+            "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
+            "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiellinie",
+            "hu": "Kiellinie Sétány",
+            "ro": "Promenada Kiellinie",
+            "en": "Kiellinie Promenade"
+          },
+          "coords": [
+            10.153642,
+            54.334555
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie die Uferpromenade entlang, um den Hafen zu genießen, und holen Sie sich ein Fischbrötchen von einem der lokalen Verkäufer am Ufer.",
+            "hu": "Sétáljon végig a vízparti sétányon, élvezze a kikötőre nyíló kilátást, és kóstoljon meg egy friss halas szendvicset a part menti árusoknál.",
+            "ro": "Plimbați-vă de-a lungul promenadei de la malul mării pentru a vă bucura de port și luați un sandviș cu pește de la vânzătorii locali.",
+            "en": "Stroll along the waterfront promenade to enjoy harbor views, and grab a freshly made fish sandwich from one of the many local vendors dotting the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            10.11719,
+            54.347463
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "16:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese Oase mit exotischen Pflanzenarten und tragen Sie bequeme Schuhe, um die weitläufigen Arboretumwege zu erkunden.",
+            "hu": "Barangoljon a lenyűgöző üvegházakat felvonultató oázisban, és viseljen kényelmes cipőt a hatalmas arborétumi ösvények bejárásához.",
+            "ro": "Plimbați-vă prin această oază verde care găzduiește plante exotice și purtați pantofi confortabili pentru a explora aleile arboretumului.",
+            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie vom Rathaus ins Herz der Altstadt und halten Sie an der historischen Nikolaikirche.\n\nMittag: Fahren Sie am Wasser entlang zum Schifffahrtsmuseum und dann zum Aquarium Kiel.\n\nNachmittag: Genießen Sie eine luftige Fahrt an der Küste entlang der berühmten Kiellinie mit Blick auf den Hafen.\n\nAbend: Entfliehen Sie zum Botanischen Garten und entspannen Sie sich zwischen den Pflanzen.",
+        "hu": "Reggel: Kerékpározzon a fenséges Városházától az óváros szívébe, és álljon meg a Szent Miklós-templomnál.\n\nDélben: Tekerjen a víz mentén a Tengerészeti Múzeumhoz, majd az Akváriumhoz.\n\nDélután: Élvezze a tengerparti utat a híres Kiellinie sétányon, és csodálja meg a kikötőt.\n\nEste: Meneküljön el a Botanikus Kertbe, és pihenjen az egzotikus növények között, ahogy a nap véget ér.",
+        "ro": "Dimineața: Pedalați de la măreața Primărie în inima orașului vechi, oprindu-vă la biserica istorică Sf. Nicolae.\n\nPrânz: Mergeți de-a lungul apei până la Muzeul Maritim, apoi la Acvariu.\n\nDupă-amiază: Bucurați-vă de o plimbare de-a lungul Promenadei Kiellinie, admirând portul.\n\nSeara: Evadați în Grădina Botanică, relaxându-vă printre plantele exotice la finalul zilei.",
+        "en": "Morning: Cycle from the majestic City Hall into the heart of the old town, stopping at the historic St. Nikolai Church.\n\nMidday: Ride along the water to the Maritime Museum, then pedal to Aquarium Kiel, balancing history with science.\n\nAfternoon: Enjoy a breezy coastal ride along the famous Kiellinie Promenade, taking in harbor views.\n\nEvening: Escape to the Botanical Garden to unwind among exotic plants."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 9.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            10.11719,
+            54.347463
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese Oase mit exotischen Pflanzenarten und tragen Sie bequeme Schuhe, um die weitläufigen Arboretumwege zu erkunden.",
+            "hu": "Barangoljon a lenyűgöző üvegházakat felvonultató oázisban, és viseljen kényelmes cipőt a hatalmas arborétumi ösvények bejárásához.",
+            "ro": "Plimbați-vă prin această oază verde care găzduiește plante exotice și purtați pantofi confortabili pentru a explora aleile arboretumului.",
+            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kieler Rathaus",
+            "hu": "Kieli Városháza",
+            "ro": "Primăria Kiel",
+            "en": "Kiel City Hall"
+          },
+          "coords": [
+            10.132472,
+            54.322444
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
+            "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
+            "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            10.143675,
+            54.322747
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
+            "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
+            "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Kiel",
+            "hu": "Kieli Akvárium",
+            "ro": "Acvariul Kiel",
+            "en": "Aquarium Kiel"
+          },
+          "coords": [
+            10.148361,
+            54.329972
+          ],
+          "category": "museums",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
+            "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
+            "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kieler Förde",
+            "hu": "Kieli-öböl",
+            "ro": "Fjordul Kiel",
+            "en": "Kiel Fjord"
+          },
+          "coords": [
+            10.173056,
+            54.367778
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürliche Schönheit dieses Meeresarms und buchen Sie eine Fährfahrt, um die Meeresbrise und den Schiffsverkehr hautnah zu erleben.",
+            "hu": "Csodálja meg a Balti-tengerbe vezető öböl szépségét, és érdemes egy kompjáratot foglalni, hogy testközelből élvezze a hajóforgalmat.",
+            "ro": "Admirați frumusețea acestui golf lung și îngust și luați în considerare rezervarea unei plimbări cu feribotul pentru a experimenta briza coastei.",
+            "en": "Marvel at the spectacular natural beauty of this long inlet, and consider booking a short ferry ride to experience the coastal breeze and maritime traffic up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag zwischen den üppigen Gewächshäusern des Botanischen Gartens.\n\nMittag: Fahren Sie in die Innenstadt, um das hoch aufragende Rathaus zu bewundern, bevor Sie im Schifffahrtsmuseum Marinegeschichte entdecken.\n\nNachmittag: Besuchen Sie das Aquarium Kiel für ein spannendes Meeresabenteuer.\n\nAbend: Fahren Sie zur Kieler Förde und beobachten Sie die einlaufenden Schiffe im Sonnenuntergang.",
+        "hu": "Reggel: Kezdje a napot a kiterjedt Botanikus Kert buja üvegházai között.\n\nDélben: Vezessen a belvárosba, csodálja meg a tornyosuló Városházát, majd fedezze fel a Tengerészeti Múzeum hajózási történelmét.\n\nDélután: Ugorjon át a Kieli Akváriumba egy tengeri kalandra.\n\nEste: Vezessen a fenséges Kieli-öbölhöz, és nézze meg, ahogy a hajók befutnak a lenyűgöző naplemente hátterében.",
+        "ro": "Dimineața: Începeți ziua printre serele luxuriante ale vastei Grădini Botanice.\n\nPrânz: Mergeți în centru pentru a admira Primăria înainte de a descoperi istoria nautică la Muzeul Maritim.\n\nDupă-amiază: Vizitați Acvariul pentru o aventură marină fascinantă.\n\nSeara: Conduceți către maiestuosul Fjord Kiel, urmărind navele cum sosesc pe fundalul unui apus spectaculos pe apă.",
+        "en": "Morning: Drive out to start your day amidst the lush greenhouses of the expansive Botanical Garden.\n\nMidday: Head into the city center to admire the towering City Hall before discovering nautical history at the Maritime Museum.\n\nAfternoon: Hop over to Aquarium Kiel for a fun marine adventure.\n\nEvening: Finally, drive to the majestic Kiel Fjord, watching the ships roll in against a spectacular sunset sky."
+      }
+    }
+  }
+}

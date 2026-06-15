@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-fano-cities-v2",
+  "anchor": {
+    "name": "Fano",
+    "coords": [
+      13.01466,
+      43.84242
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 1.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-kapu",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            13.014499,
+            43.843079
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das monumentale römische Stadttor, das Wahrzeichen von Fano, und fotografieren Sie es am besten im weichen Morgenlicht ohne Menschenmassen.",
+            "hu": "Csodálja meg a monumentális római kaput, Fano szimbólumát, és készítsen fotókat kora reggel, hogy elkerülje a tömeget és élvezze a lágy fényeket.",
+            "ro": "Admirați poarta romană monumentală, simbolul orașului Fano, și fotografiați-o dimineața devreme pentru a prinde lumina caldă fără aglomerație.",
+            "en": "Marvel at the monumental Roman gateway, a symbol of Fano, and snap your photos early to capture the warm morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria Assunta",
+            "hu": "Santa Maria Assunta katedrális",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            13.015636,
+            43.84345
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese majestätische Kathedrale, um die wunderschön mit Fresken bemalten Kapellen zu entdecken, und denken Sie an angemessene Kleidung.",
+            "hu": "Lépjen be ebbe a fenséges katedrálisba, és fedezze fel a gyönyörű freskókkal díszített kápolnákat, de ne felejtse el eltakarni a vállait belépés előtt.",
+            "ro": "Pășiți în această catedrală maiestuoasă pentru a descoperi capelele frumos pictate și asigurați-vă că aveți umerii acoperiți la intrare.",
+            "en": "Step inside this majestic cathedral to discover its beautifully frescoed chapels, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Malatestiano",
+            "hu": "Palazzo Malatestiano",
+            "ro": "Palazzo Malatestiano",
+            "en": "Palazzo Malatestiano"
+          },
+          "coords": [
+            13.017965,
+            43.844278
+          ],
+          "category": "castle",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sitz der Familie Malatesta, der heute ein Museum ist, und bewundern Sie den atemberaubenden Renaissance-Hof von der oberen Loggia.",
+            "hu": "Fedezze fel a Malatesta család egykori székhelyét, amely ma múzeumként működik, és szánjon időt a lenyűgöző reneszánsz udvar megcsodálására a felső loggiáról.",
+            "ro": "Explorați sediul istoric al familiei Malatesta, acum muzeu, și acordați-vă timp pentru a admira uimitoarea curte renascentistă de pe loggia superioară.",
+            "en": "Explore the historic seat of the Malatesta family, now a museum, and take time to admire the stunning Renaissance courtyard from the upper loggia."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pietro in Valle",
+            "hu": "San Pietro in Valle templom",
+            "ro": "Biserica San Pietro in Valle",
+            "en": "Chiesa di San Pietro in Valle"
+          },
+          "coords": [
+            13.019849,
+            43.843975
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die atemberaubende barocke Innenausstattung dieser oft übersehenen Kirche und achten Sie besonders auf die kunstvollen Stuckverzierungen.",
+            "hu": "Tapasztalja meg a gyakran rejtve maradó templom lélegzetelállító barokk belső terét, és figyelje meg közelebbről a bonyolult stukkódíszítéseket.",
+            "ro": "Experimentați interioarele baroce uluitoare ale acestei biserici adesea trecute cu vederea și priviți îndeaproape decorațiunile elaborate din stuc.",
+            "en": "Experience the breathtaking Baroque interiors of this church, often hidden from standard tours, and look closely at the elaborate stucco decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Nuova",
+            "hu": "Santa Maria Nuova templom",
+            "ro": "Biserica Santa Maria Nuova",
+            "en": "Chiesa di Santa Maria Nuova"
+          },
+          "coords": [
+            13.016981,
+            43.842279
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Kirche, um kostbare Altäre aus der Renaissance zu bewundern, und genießen Sie einen Moment der Stille im Kirchenschiff.",
+            "hu": "Látogasson el ebbe a nyugodt templomba, hogy megcsodálja az értékes reneszánsz oltárképeket, és üljön le a csendes hajóban egy kis elmélkedésre.",
+            "ro": "Vizitați această biserică liniștită pentru a admira altarele prețioase renascentiste și așezați-vă în nava tăcută pentru un moment de reflecție pașnică.",
+            "en": "Visit this tranquil church to admire precious Renaissance altarpieces, and sit in the quiet nave for a moment of peaceful reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Paterniano",
+            "hu": "San Paterniano bazilika",
+            "ro": "Bazilica San Paterniano",
+            "en": "Basilica di San Paterniano"
+          },
+          "coords": [
+            13.020577,
+            43.841286
+          ],
+          "category": "religious",
+          "arrive_at": "14:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in dieser beeindruckenden Basilika, die dem Schutzpatron der Stadt gewidmet ist, und spazieren Sie durch den ruhigen angrenzenden Kreuzgang.",
+            "hu": "Zárja látogatását ebben a város védőszentjének szentelt lenyűgöző bazilikában, és semmiképp se hagyja ki a szomszédos, békés kerengő felfedezését.",
+            "ro": "Încheiați vizita la această bazilică impresionantă dedicată sfântului patron al orașului și nu ratați explorarea claustrelor liniștite adiacente.",
+            "en": "Conclude your visit at this impressive basilica dedicated to the city's patron saint, and don't miss exploring the serene adjacent cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung von Fano beginnt am beeindruckenden Augustusbogen und führt Sie direkt in die reiche römische Geschichte der Stadt. Am Vormittag schlendern Sie durch malerische Gassen, um die majestätische Kathedrale und den prächtigen Palazzo Malatestiano zu besichtigen. Der Nachmittag steht ganz im Zeichen faszinierender barocker und barocker Kunst in den verborgenen Kirchen der Altstadt. Zum Abschluss bietet die Basilika San Paterniano einen ruhigen Ort zur Reflexion, bevor der Abend sanft hereinbricht.",
+        "hu": "Fano felfedezése a lenyűgöző Augustus-kapunál kezdődik, amely rögtön a város gazdag római történelmébe repíti. Délelőtt a festői utcákon sétálva meglátogatja a fenséges katedrálist és a pompás Palazzo Malatestianót. A délután az óváros rejtett templomainak, köztük a lenyűgöző barokk kincseknek a felfedezésével telik. Végül a San Paterniano-bazilika békés környezetében zárja a napot, mielőtt a csendes este ráborulna a városra.",
+        "ro": "Explorarea orașului Fano începe la impresionantul Arc al lui Augustus, care vă introduce direct în bogata sa istorie romană. Dimineața, vă veți plimba pe străduțele pitorești pentru a vizita catedrala maiestuoasă și splendidul Palazzo Malatestiano. După-amiaza este dedicată descoperirii bisericilor ascunse ale orașului vechi, pline de artă barocă și renascentistă fascinantă. În cele din urmă, Bazilica San Paterniano oferă un loc liniștit pentru reflecție la lăsarea serii.",
+        "en": "Your exploration of Fano begins at the impressive Arch of Augustus, immediately immersing you in the city's rich Roman history. During the morning, you will stroll through picturesque streets to visit the majestic cathedral and the splendid Palazzo Malatestiano. The afternoon is dedicated to uncovering the fascinating Baroque and Renaissance art hidden within the old town's tranquil churches. Finally, the Basilica of San Paterniano provides a peaceful setting for reflection as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-kapu",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            13.014499,
+            43.843079
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das monumentale römische Stadttor, das Wahrzeichen von Fano, und fotografieren Sie es am besten im weichen Morgenlicht ohne Menschenmassen.",
+            "hu": "Csodálja meg a monumentális római kaput, Fano szimbólumát, és készítsen fotókat kora reggel, hogy elkerülje a tömeget és élvezze a lágy fényeket.",
+            "ro": "Admirați poarta romană monumentală, simbolul orașului Fano, și fotografiați-o dimineața devreme pentru a prinde lumina caldă fără aglomerație.",
+            "en": "Marvel at the monumental Roman gateway, a symbol of Fano, and snap your photos early to capture the warm morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta della Mandria",
+            "hu": "Porta della Mandria",
+            "ro": "Porta della Mandria",
+            "en": "Porta della Mandria"
+          },
+          "coords": [
+            13.012922,
+            43.844918
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses imposante historische Stadttor, das einst Fano bewachte, und beachten Sie das robuste mittelalterliche Mauerwerk, das Jahrhunderte überdauert hat.",
+            "hu": "Sétáljon át ezen az impozáns történelmi városkapun, amely egykor Fanót őrizte, és vegye szemügyre az évszázadokat túlélt masszív középkori kőfalakat.",
+            "ro": "Treceți prin această poartă istorică impunătoare care păzea cândva Fano și observați zidăria medievală robustă care a supraviețuit secolelor.",
+            "en": "Walk through this imposing historic city gate that once guarded Fano, and notice the robust medieval stonework that has survived for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Malatestiana",
+            "hu": "Rocca Malatestiana",
+            "ro": "Rocca Malatestiana",
+            "en": "Rocca Malatestiana"
+          },
+          "coords": [
+            13.015018,
+            43.847337
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Militärarchitektur dieser Festung und erklimmen Sie die Wälle für einen weiten Blick über die Altstadt und die nahe Küste.",
+            "hu": "Fedezze fel ennek az erődnek a félelmetes katonai építészetét, és másszon fel a bástyákra, ahonnan pazar kilátás nyílik az óvárosra és a közeli partvonalra.",
+            "ro": "Descoperiți formidabila arhitectură militară a acestei fortărețe și urcați pe metereze pentru vederi panoramice ale orașului vechi și ale coastei din apropiere.",
+            "en": "Discover the formidable military architecture of this fortress, and climb the ramparts for sweeping views of both the old town and the nearby coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Fano",
+            "hu": "Fano világítótornya",
+            "ro": "Farul din Fano",
+            "en": "Faro di Fano"
+          },
+          "coords": [
+            13.015422,
+            43.85104
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zum Leuchtturm der Stadt für eine frische Meeresbrise und fotografieren Sie die maritime Seite dieser alten Römerstadt.",
+            "hu": "Tegyen egy rövid kitérőt a város világítótornyához egy kis friss tengeri szellőért, amely ideális helyszín az ókori római város tengerparti arcának megörökítésére.",
+            "ro": "Faceți un scurt ocol la farul orașului pentru o briză proaspătă de mare, oferind un loc ideal pentru a fotografia latura maritimă a acestui vechi oraș roman.",
+            "en": "Take a short detour to the city's lighthouse for a fresh sea breeze, offering an ideal spot to photograph the maritime side of this ancient Roman town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Malatestiano",
+            "hu": "Palazzo Malatestiano",
+            "ro": "Palazzo Malatestiano",
+            "en": "Palazzo Malatestiano"
+          },
+          "coords": [
+            13.017965,
+            43.844278
+          ],
+          "category": "castle",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sitz der Familie Malatesta, der heute ein Museum ist, und bewundern Sie den atemberaubenden Renaissance-Hof von der oberen Loggia.",
+            "hu": "Fedezze fel a Malatesta család egykori székhelyét, amely ma múzeumként működik, és szánjon időt a lenyűgöző reneszánsz udvar megcsodálására a felső loggiáról.",
+            "ro": "Explorați sediul istoric al familiei Malatesta, acum muzeu, și acordați-vă timp pentru a admira uimitoarea curte renascentistă de pe loggia superioară.",
+            "en": "Explore the historic seat of the Malatesta family, now a museum, and take time to admire the stunning Renaissance courtyard from the upper loggia."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Sangallo",
+            "hu": "Sangallo-bástya",
+            "ro": "Bastionul Sangallo",
+            "en": "Bastione del Sangallo"
+          },
+          "coords": [
+            13.023456,
+            43.842561
+          ],
+          "category": "castle",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven Verteidigungsmauern dieser imposanten Bastion, wo man sich die intensiven historischen Schlachten zur Verteidigung der Stadt gut vorstellen kann.",
+            "hu": "Csodálja meg ennek az impozáns bástyának a masszív védőfalait, ahol könnyedén elképzelheti azokat a heves történelmi csatákat, amelyek egykor a várost védték.",
+            "ro": "Admirați zidurile de apărare robuste ale acestui bastion impunător, unde vă puteți imagina cu ușurință bătăliile istorice intense care au protejat cândva orașul.",
+            "en": "Marvel at the robust defense walls of this imposing bastion, where you can easily imagine the intense historical battles that once protected the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Paterniano",
+            "hu": "San Paterniano bazilika",
+            "ro": "Bazilica San Paterniano",
+            "en": "Basilica di San Paterniano"
+          },
+          "coords": [
+            13.020577,
+            43.841286
+          ],
+          "category": "religious",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in dieser beeindruckenden Basilika, die dem Schutzpatron der Stadt gewidmet ist, und spazieren Sie durch den ruhigen angrenzenden Kreuzgang.",
+            "hu": "Zárja látogatását ebben a város védőszentjének szentelt lenyűgöző bazilikában, és semmiképp se hagyja ki a szomszédos, békés kerengő felfedezését.",
+            "ro": "Încheiați vizita la această bazilică impresionantă dedicată sfântului patron al orașului și nu ratați explorarea claustrelor liniștite adiacente.",
+            "en": "Conclude your visit at this impressive basilica dedicated to the city's patron saint, and don't miss exploring the serene adjacent cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf dem Fahrrad können Sie die weitläufigeren Sehenswürdigkeiten von Fano mühelos verbinden, beginnend mit den antiken römischen Befestigungsanlagen. Nach dem Augustusbogen radeln Sie zur historischen Porta della Mandria und weiter zur mächtigen Rocca Malatestiana. Die Mittagszeit verbringen Sie am Hafen beim Leuchtturm, gefolgt von einer entspannten Fahrt zum Palazzo Malatestiano. Der Nachmittag endet an den beeindruckenden Festungsmauern des Bastione del Sangallo und der schönen Basilika.",
+        "hu": "Biciklivel könnyedén összekötheti Fano távolabbi látnivalóit, kezdve az ősi római erődítményekkel. Az Augustus-kapu után a történelmi Porta della Mandriához, majd a hatalmas Rocca Malatestianához teker. A délidőt a kikötőben, a világítótoronynál töltheti, majd egy pihentető kerékpározás következik a Palazzo Malatestianóhoz. A délután a Bastione del Sangallo lenyűgöző falainál és a gyönyörű bazilikánál ér véget.",
+        "ro": "Pe bicicletă, puteți conecta fără efort atracțiile mai răspândite din Fano, începând cu fortificațiile romane antice. După Arcul lui Augustus, veți pedala spre istorica Porta della Mandria și spre masiva Rocca Malatestiana. Veți petrece prânzul lângă port la far, urmat de o plimbare relaxantă spre Palazzo Malatestiano. După-amiaza se încheie la zidurile impresionante ale Bastione del Sangallo și la frumoasa bazilică.",
+        "en": "On a bike, you can effortlessly connect Fano's more spread-out attractions, starting with the ancient Roman fortifications. After the Arch of Augustus, you will pedal to the historic Porta della Mandria and the massive Rocca Malatestiana. You will spend midday near the harbor by the lighthouse, followed by a relaxing ride to Palazzo Malatestiano. The afternoon concludes at the impressive walls of Bastione del Sangallo and the beautiful basilica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca Malatestiana",
+            "hu": "Rocca Malatestiana",
+            "ro": "Rocca Malatestiana",
+            "en": "Rocca Malatestiana"
+          },
+          "coords": [
+            13.015018,
+            43.847337
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Militärarchitektur dieser Festung und erklimmen Sie die Wälle für einen weiten Blick über die Altstadt und die nahe Küste.",
+            "hu": "Fedezze fel ennek az erődnek a félelmetes katonai építészetét, és másszon fel a bástyákra, ahonnan pazar kilátás nyílik az óvárosra és a közeli partvonalra.",
+            "ro": "Descoperiți formidabila arhitectură militară a acestei fortărețe și urcați pe metereze pentru vederi panoramice ale orașului vechi și ale coastei din apropiere.",
+            "en": "Discover the formidable military architecture of this fortress, and climb the ramparts for sweeping views of both the old town and the nearby coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Fano",
+            "hu": "Fano világítótornya",
+            "ro": "Farul din Fano",
+            "en": "Faro di Fano"
+          },
+          "coords": [
+            13.015422,
+            43.85104
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zum Leuchtturm der Stadt für eine frische Meeresbrise und fotografieren Sie die maritime Seite dieser alten Römerstadt.",
+            "hu": "Tegyen egy rövid kitérőt a város világítótornyához egy kis friss tengeri szellőért, amely ideális helyszín az ókori római város tengerparti arcának megörökítésére.",
+            "ro": "Faceți un scurt ocol la farul orașului pentru o briză proaspătă de mare, oferind un loc ideal pentru a fotografia latura maritimă a acestui vechi oraș roman.",
+            "en": "Take a short detour to the city's lighthouse for a fresh sea breeze, offering an ideal spot to photograph the maritime side of this ancient Roman town."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustusbogen",
+            "hu": "Augustus-kapu",
+            "ro": "Arcul lui Augustus",
+            "en": "Arch of Augustus"
+          },
+          "coords": [
+            13.014499,
+            43.843079
+          ],
+          "category": "fortress",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das monumentale römische Stadttor, das Wahrzeichen von Fano, und fotografieren Sie es am besten im weichen Morgenlicht ohne Menschenmassen.",
+            "hu": "Csodálja meg a monumentális római kaput, Fano szimbólumát, és készítsen fotókat kora reggel, hogy elkerülje a tömeget és élvezze a lágy fényeket.",
+            "ro": "Admirați poarta romană monumentală, simbolul orașului Fano, și fotografiați-o dimineața devreme pentru a prinde lumina caldă fără aglomerație.",
+            "en": "Marvel at the monumental Roman gateway, a symbol of Fano, and snap your photos early to capture the warm morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria Assunta",
+            "hu": "Santa Maria Assunta katedrális",
+            "ro": "Catedrala Santa Maria Assunta",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            13.015636,
+            43.84345
+          ],
+          "category": "religious",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese majestätische Kathedrale, um die wunderschön mit Fresken bemalten Kapellen zu entdecken, und denken Sie an angemessene Kleidung.",
+            "hu": "Lépjen be ebbe a fenséges katedrálisba, és fedezze fel a gyönyörű freskókkal díszített kápolnákat, de ne felejtse el eltakarni a vállait belépés előtt.",
+            "ro": "Pășiți în această catedrală maiestuoasă pentru a descoperi capelele frumos pictate și asigurați-vă că aveți umerii acoperiți la intrare.",
+            "en": "Step inside this majestic cathedral to discover its beautifully frescoed chapels, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Malatestiano",
+            "hu": "Palazzo Malatestiano",
+            "ro": "Palazzo Malatestiano",
+            "en": "Palazzo Malatestiano"
+          },
+          "coords": [
+            13.017965,
+            43.844278
+          ],
+          "category": "castle",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sitz der Familie Malatesta, der heute ein Museum ist, und bewundern Sie den atemberaubenden Renaissance-Hof von der oberen Loggia.",
+            "hu": "Fedezze fel a Malatesta család egykori székhelyét, amely ma múzeumként működik, és szánjon időt a lenyűgöző reneszánsz udvar megcsodálására a felső loggiáról.",
+            "ro": "Explorați sediul istoric al familiei Malatesta, acum muzeu, și acordați-vă timp pentru a admira uimitoarea curte renascentistă de pe loggia superioară.",
+            "en": "Explore the historic seat of the Malatesta family, now a museum, and take time to admire the stunning Renaissance courtyard from the upper loggia."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Sangallo",
+            "hu": "Sangallo-bástya",
+            "ro": "Bastionul Sangallo",
+            "en": "Bastione del Sangallo"
+          },
+          "coords": [
+            13.023456,
+            43.842561
+          ],
+          "category": "castle",
+          "arrive_at": "14:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven Verteidigungsmauern dieser imposanten Bastion, wo man sich die intensiven historischen Schlachten zur Verteidigung der Stadt gut vorstellen kann.",
+            "hu": "Csodálja meg ennek az impozáns bástyának a masszív védőfalait, ahol könnyedén elképzelheti azokat a heves történelmi csatákat, amelyek egykor a várost védték.",
+            "ro": "Admirați zidurile de apărare robuste ale acestui bastion impunător, unde vă puteți imagina cu ușurință bătăliile istorice intense care au protejat cândva orașul.",
+            "en": "Marvel at the robust defense walls of this imposing bastion, where you can easily imagine the intense historical battles that once protected the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Fano bequem, indem Sie zunächst am Rand der Altstadt parken, um die mächtige Rocca Malatestiana zu besichtigen. Ein kurzer Halt am Hafen beim Leuchtturm bringt frische Meeresluft, bevor Sie sich dem antiken Augustusbogen widmen. Das Zentrum mit seiner Kathedrale und dem Palazzo Malatestiano lässt sich wunderbar fußläufig in einem Cluster erkunden. Am Nachmittag bietet das wuchtige Bastione del Sangallo einen perfekten historischen Abschluss Ihrer Reise.",
+        "hu": "Autóval kényelmesen felfedezheti Fanót: először az óváros szélén parkolva látogassa meg a hatalmas Rocca Malatestianát. Egy rövid megálló a kikötőben a világítótoronynál friss tengeri levegőt hoz, mielőtt a római Augustus-kapuhoz hajtana. A központ a katedrálissal és a Palazzo Malatestianóval könnyedén bejárható egy rövid sétával. Délután a masszív Bastione del Sangallo tökéletes történelmi befejezést kínál utazásának.",
+        "ro": "Cu mașina, veți explora Fano confortabil, parcând mai întâi la marginea orașului vechi pentru a vizita impunătoarea Rocca Malatestiana. O scurtă oprire în port, la far, aduce aer proaspăt de mare înainte de a vă îndrepta spre Arcul lui Augustus. Centrul, cu catedrala sa și Palazzo Malatestiano, poate fi explorat minunat pe jos într-un singur grup. După-amiaza, masivul Bastione del Sangallo oferă un final istoric perfect călătoriei dumneavoastră.",
+        "en": "By car, you will explore Fano comfortably, parking first at the edge of the old town to visit the imposing Rocca Malatestiana. A short stop at the harbor by the lighthouse brings fresh sea air before you head to the ancient Arch of Augustus. The center, featuring the cathedral and Palazzo Malatestiano, is wonderfully explored on foot in a single cluster. In the afternoon, the massive Bastione del Sangallo offers a perfect historical conclusion to your journey."
+      }
+    }
+  }
+}

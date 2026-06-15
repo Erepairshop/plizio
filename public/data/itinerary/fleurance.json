@@ -1,0 +1,451 @@
+{
+  "city_id": "fleurance",
+  "anchor": {
+    "name": "Fleurance",
+    "coords": [
+      0.6636,
+      43.8494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:42",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fleurance Town Hall",
+            "hu": "Fleurance Town Hall",
+            "ro": "Fleurance Town Hall",
+            "en": "Fleurance Town Hall"
+          },
+          "coords": [
+            0.663153,
+            43.849427
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
+            "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Méridional",
+            "hu": "Le Méridional",
+            "ro": "Le Méridional",
+            "en": "Le Méridional"
+          },
+          "coords": [
+            0.661976,
+            43.850147
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur an diesem einladenden Treffpunkt, bei dem es sich empfiehlt, vor dem Besuch den aktuellen Ausstellungsplan zu prüfen.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a barátságos közösségi térben, ahol mindenképpen érdemes előzetesen tájékozódni az aktuális kiállítások menetrendjéről.",
+            "ro": "Descoperiți cultura locală la acest centru comunitar primitor, unde se recomandă să verificați programul expozițiilor actuale înainte de a merge.",
+            "en": "Discover local culture and events at this welcoming community hub, where checking the current exhibition schedule before visiting is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent Church",
+            "hu": "Saint-Laurent Church",
+            "ro": "Saint-Laurent Church",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            0.664627,
+            43.849742
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
+            "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
+            "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple Protestant de Fleurance",
+            "hu": "Temple Protestant de Fleurance",
+            "ro": "Temple Protestant de Fleurance",
+            "en": "Temple Protestant de Fleurance"
+          },
+          "coords": [
+            0.664672,
+            43.847398
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieses protestantischen Tempels als wichtiges Zeugnis lokaler Geschichte, und nehmen Sie sich Zeit für stille Reflexion.",
+            "hu": "Tapasztalja meg ennek a protestáns templomnak a békés hangulatát, amely a helyi vallástörténet része, és szánjon egy percet az elmélyülésre a csendes belső térben.",
+            "ro": "Experimentați atmosfera senină a acestui templu protestant, o parte importantă a istoriei locale, și luați-vă un moment de reflecție în interiorul său liniștit.",
+            "en": "Experience the serene atmosphere of this Protestant temple, an important piece of local religious history, and take a moment to reflect in its quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            0.684513,
+            43.85552
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
+            "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen der Bastide an der historischen Markthalle und gehen Sie dann kurz zum Le Méridional. Mittags erreichen Sie die imposante Kirche Saint-Laurent mit ihren gotischen Linien. Nach dem Mittagessen schlendern Sie für einen ruhigen Moment zum Temple Protestant. Beenden Sie Ihren gemütlichen Spaziergang am späten Nachmittag an der idyllischen Église Saint-André.",
+        "hu": "Kezdje a reggelt a városka szívében, a városháza épületének megcsodálásával, majd sétáljon át a Le Méridionalba. Délben a lenyűgöző, gótikus Saint-Laurent templom várja Önt. Ebéd után tegyen egy rövid sétát a protestáns templomhoz, ahol csendes elmélkedésre nyílik alkalom. A napot a késő délutáni órákban a bájos Église Saint-André felfedezésével és megnyugtató sétával zárhatja.",
+        "ro": "Începeți dimineața în inima orașului, admirând detaliile Primăriei înainte de a merge la Le Méridional. La prânz veți ajunge la biserica Saint-Laurent, dominând orizontul cu stilul său gotic. După prânz, plimbați-vă către Templul Protestant pentru un moment de liniște și reflexie. Încheiați-vă plimbarea relaxantă la frumoasa Église Saint-André în orele târzii ale după-amiezii.",
+        "en": "Begin your morning in the heart of the bastide, admiring the architectural details of the Town Hall before a short walk to Le Méridional. Midday brings you to the imposing Saint-Laurent Church, its Southern Gothic lines dominating the skyline. After lunch, stroll over to the Temple Protestant for a quiet moment of reflection. Conclude your leisurely walk at Église Saint-André in the late afternoon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fleurance Town Hall",
+            "hu": "Fleurance Town Hall",
+            "ro": "Fleurance Town Hall",
+            "en": "Fleurance Town Hall"
+          },
+          "coords": [
+            0.663153,
+            43.849427
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
+            "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent Church",
+            "hu": "Saint-Laurent Church",
+            "ro": "Saint-Laurent Church",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            0.664627,
+            43.849742
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
+            "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
+            "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            0.684513,
+            43.85552
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
+            "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Anciens Combattants pour la Liberté",
+            "hu": "Musée des Anciens Combattants pour la Liberté",
+            "ro": "Musée des Anciens Combattants pour la Liberté",
+            "en": "Musée des Anciens Combattants pour la Liberté"
+          },
+          "coords": [
+            0.697441,
+            43.841908
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die nachdenklich stimmenden Ausstellungen zu Ehren der Freiheitskämpfer, und fragen Sie das Personal unbedingt nach persönlichen Geschichten.",
+            "hu": "Fedezze fel a szabadságharcosoknak szentelt elgondolkodtató kiállításokat, és feltétlenül kérdezze meg az önkénteseket a tárgyak mögött rejlő személyes történetekről.",
+            "ro": "Explorați expozițiile dedicate veteranilor libertății și asigurați-vă că întrebați personalul voluntar despre poveștile personale din spatele artefactelor expuse.",
+            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bosc",
+            "hu": "Château du Bosc",
+            "ro": "Château du Bosc",
+            "en": "Château du Bosc"
+          },
+          "coords": [
+            0.645224,
+            43.868531
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die eleganten Anlagen dieses historischen Schlosses mit gut erhaltener Fassade, und tragen Sie bequeme Schuhe für die Erkundung des Anwesens.",
+            "hu": "Sétáljon végig ennek a történelmi kastélynak az elegáns kertjén, csodálja meg a homlokzatot, és viseljen kényelmes cipőt a birtok felfedezéséhez.",
+            "ro": "Plimbați-vă prin domeniul elegant al acestui castel istoric, remarcând fațada frumos conservată, și purtați încălțăminte comodă pentru explorarea proprietății.",
+            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Trois Vallées",
+            "hu": "Lac des Trois Vallées",
+            "ro": "Lac des Trois Vallées",
+            "en": "Lac des Trois Vallées"
+          },
+          "coords": [
+            0.648685,
+            43.915038
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen See, der ideal für Aktivitäten im Freien ist, und bringen Sie ein Picknick mit, das Sie am Nachmittag am Ufer genießen können.",
+            "hu": "Pihenjen e festői természetes tó partján, amely tökéletes szabadtéri programokhoz, és vigyen magával piknikkosarat, hogy a füves parton fogyassza el ebédjét.",
+            "ro": "Relaxați-vă la acest lac pitoresc, perfect pentru activități în aer liber, și luați un picnic pentru a vă bucura de el pe malurile înverzite după-amiaza.",
+            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour zentral am Rathaus und der nahen Kirche Saint-Laurent. Mittags radeln Sie zur Église Saint-André und genießen die ländliche Ruhe außerhalb des Zentrums. Der Nachmittag bietet eine malerische Fahrt zum Veteranenmuseum und zum wunderschönen Château du Bosc. Lassen Sie den Abend am friedlichen Ufer des Lac des Trois Vallées entspannt ausklingen.",
+        "hu": "Kezdje a kerékpáros napot a központban a városházánál és a közeli templomnál. Délre tekerjen ki az Église Saint-André-hoz, és szívja magába a nyugodt vidéki hangulatot. A délután egy hosszabb, festői utat kínál a veteránok múzeumához és a gyönyörű Château du Bosc kastélyhoz. Este pedig kapcsolódjon ki és pihenjen meg a Lac des Trois Vallées csendes vizének partján.",
+        "ro": "Începeți ziua de ciclism central, la Primărie și biserica Saint-Laurent din apropiere. La prânz, pedalați spre Église Saint-André și bucurați-vă de atmosfera rurală. După-amiaza vă oferă o plimbare pitorească către muzeul veteranilor și frumosul Château du Bosc. Seara, relaxați-vă în tihnă pe malurile liniștite ale lacului natural Lac des Trois Vallées.",
+        "en": "Start your cycling day centrally at the Town Hall and the nearby Saint-Laurent Church. By midday, pedal out to Église Saint-André and absorb the tranquil rural atmosphere just outside the center. The afternoon offers a longer, scenic ride to the poignant veterans' museum and the beautiful Château du Bosc. Wind down in the evening by the peaceful waters of Lac des Trois Vallées."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 18.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fleurance Town Hall",
+            "hu": "Fleurance Town Hall",
+            "ro": "Fleurance Town Hall",
+            "en": "Fleurance Town Hall"
+          },
+          "coords": [
+            0.663153,
+            43.849427
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
+            "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent Church",
+            "hu": "Saint-Laurent Church",
+            "ro": "Saint-Laurent Church",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            0.664627,
+            43.849742
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
+            "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
+            "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bosc",
+            "hu": "Château du Bosc",
+            "ro": "Château du Bosc",
+            "en": "Château du Bosc"
+          },
+          "coords": [
+            0.645224,
+            43.868531
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die eleganten Anlagen dieses historischen Schlosses mit gut erhaltener Fassade, und tragen Sie bequeme Schuhe für die Erkundung des Anwesens.",
+            "hu": "Sétáljon végig ennek a történelmi kastélynak az elegáns kertjén, csodálja meg a homlokzatot, és viseljen kényelmes cipőt a birtok felfedezéséhez.",
+            "ro": "Plimbați-vă prin domeniul elegant al acestui castel istoric, remarcând fațada frumos conservată, și purtați încălțăminte comodă pentru explorarea proprietății.",
+            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Trois Vallées",
+            "hu": "Lac des Trois Vallées",
+            "ro": "Lac des Trois Vallées",
+            "en": "Lac des Trois Vallées"
+          },
+          "coords": [
+            0.648685,
+            43.915038
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen See, der ideal für Aktivitäten im Freien ist, und bringen Sie ein Picknick mit, das Sie am Nachmittag am Ufer genießen können.",
+            "hu": "Pihenjen e festői természetes tó partján, amely tökéletes szabadtéri programokhoz, és vigyen magával piknikkosarat, hogy a füves parton fogyassza el ebédjét.",
+            "ro": "Relaxați-vă la acest lac pitoresc, perfect pentru activități în aer liber, și luați un picnic pentru a vă bucura de el pe malurile înverzite după-amiaza.",
+            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Anciens Combattants pour la Liberté",
+            "hu": "Musée des Anciens Combattants pour la Liberté",
+            "ro": "Musée des Anciens Combattants pour la Liberté",
+            "en": "Musée des Anciens Combattants pour la Liberté"
+          },
+          "coords": [
+            0.697441,
+            43.841908
+          ],
+          "category": "museum",
+          "arrive_at": "13:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die nachdenklich stimmenden Ausstellungen zu Ehren der Freiheitskämpfer, und fragen Sie das Personal unbedingt nach persönlichen Geschichten.",
+            "hu": "Fedezze fel a szabadságharcosoknak szentelt elgondolkodtató kiállításokat, és feltétlenül kérdezze meg az önkénteseket a tárgyak mögött rejlő személyes történetekről.",
+            "ro": "Explorați expozițiile dedicate veteranilor libertății și asigurați-vă că întrebați personalul voluntar despre poveștile personale din spatele artefactelor expuse.",
+            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            0.684513,
+            43.85552
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
+            "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im historischen Zentrum mit dem Rathaus und der Kirche Saint-Laurent. Mittags fahren Sie zum eleganten Château du Bosc und zum malerischen Lac des Trois Vallées. Verbringen Sie den Nachmittag mit tiefen Einblicken in die Geschichte im Veteranenmuseum, bevor Sie den Tag mit einem letzten, friedlichen Halt an der Église Saint-André langsam ausklingen lassen.",
+        "hu": "Az autós túra a történelmi központban indul a városházával és a Saint-Laurent templommal. Délben egy rövid úttal a Château du Bosc elegáns birtokára és a festői tóhoz érkezik. A délutánt a veteránok múzeumában található történelmi emlékek felfedezésével töltheti, majd a naplementéhez közeledve egy utolsó, békés megállót tehet a hangulatos Église Saint-André-nál.",
+        "ro": "Excursia cu mașina începe în centrul istoric, explorând Primăria și biserica Saint-Laurent. La prânz, un scurt drum vă duce la domeniul elegant al Château du Bosc și la pitorescul lac. Petreceți după-amiaza descoperind istoria la muzeul veteranilor, urmată de o ultimă oprire plină de pace la Église Saint-André, în timp ce ziua dumneavoastră se apropie încet de sfârșit.",
+        "en": "Your drive begins in the historic bastide center, exploring the Town Hall and Saint-Laurent Church before the crowds arrive. Midday takes you on a short drive to the elegant grounds of Château du Bosc and the serene Lac des Trois Vallées. Spend your afternoon diving into history at the veterans' museum, followed by a final, peaceful stop at Église Saint-André as the day winds to a close."
+      }
+    }
+  }
+}

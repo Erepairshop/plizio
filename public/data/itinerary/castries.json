@@ -1,0 +1,520 @@
+{
+  "city_id": "castries",
+  "anchor": {
+    "name": "Castries",
+    "coords": [
+      3.9814,
+      43.6789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Étienne Church",
+            "hu": "Saint-Étienne Church",
+            "ro": "Saint-Étienne Church",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            3.986052,
+            43.678218
+          ],
+          "category": "religious",
+          "arrive_at": "09:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Wurzeln dieser historischen Kirche, die das spirituelle Leben prägte, und kommen Sie morgens für die schönsten Glasfenster-Reflexionen.",
+            "hu": "Csodálja meg a falu spirituális életét meghatározó történelmi templom román stílusú gyökereit, és látogasson el ide reggel a legszebb üvegablak-fényjátékokért.",
+            "ro": "Admirați rădăcinile romanice ale acestei biserici istorice care a ancorat viața spirituală și veniți dimineața pentru cele mai frumoase reflexii ale vitraliilor.",
+            "en": "Admire the Romanesque roots of this historic church that anchored the village's spiritual life, and visit during morning light for the best stained-glass reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Castle",
+            "hu": "Castries Castle",
+            "ro": "Castries Castle",
+            "en": "Castries Castle"
+          },
+          "coords": [
+            3.986931,
+            43.677342
+          ],
+          "category": "fortress",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur des 'Kleinen Versailles des Languedoc' und seine formellen Gärten; tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel Languedoc 'Kis Versailles'-ának elegáns építészetét és mértani kertjeit, de viseljen kényelmes cipőt a kiterjedt, gondozott birtok bejárásához.",
+            "ro": "Explorați arhitectura elegantă a 'Micului Versailles din Languedoc' și grădinile sale, purtând încălțăminte comodă pentru a străbate domeniul vast și îngrijit.",
+            "en": "Explore the elegant architecture of the 'Little Versailles of Languedoc' and its formal gardens, wearing comfortable shoes to walk the extensive manicured grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne carrière du Colombier",
+            "hu": "Ancienne carrière du Colombier",
+            "ro": "Ancienne carrière du Colombier",
+            "en": "Ancienne carrière du Colombier"
+          },
+          "coords": [
+            3.991007,
+            43.682906
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den alten Steinbruch, der das Baumaterial für lokale Monumente lieferte, und achten Sie auf Ihre Schritte auf den unebenen, felsigen Wegen hier.",
+            "hu": "Fedezze fel a lenyűgöző egykori kőfejtőt, amely a helyi műemlékek építőanyagát adta, és ügyeljen a lépéseire a helyszínt körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Descoperiți vechea carieră de piatră care a furnizat materialul pentru monumentele locale și fiți atenți la pași pe potecile stâncoase și denivelate din jur.",
+            "en": "Discover the impressive old stone quarry that provided the building blocks for local monuments, and watch your step on the uneven, rocky trails surrounding the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Aqueduct",
+            "hu": "Castries Aqueduct",
+            "ro": "Castries Aqueduct",
+            "en": "Castries Aqueduct"
+          },
+          "coords": [
+            3.982427,
+            43.687447
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses monumentale Bauwerk von Riquet zur Wasserversorgung des Schlosses, und bringen Sie ein Weitwinkelobjektiv für die langen Bogenreihen mit.",
+            "hu": "Csodálja meg Riquet monumentális mérnöki alkotását, mely a kastély vízellátását biztosította, és hozzon nagylátószögű objektívet az ívek megörökítéséhez.",
+            "ro": "Minunați-vă de această operă inginerească a lui Riquet pentru alimentarea castelului și aduceți un obiectiv grandangular pentru a surprinde arcele întinse.",
+            "en": "Marvel at this monumental feat of engineering designed by Riquet to supply the castle with water, bringing a wide-angle lens to capture the arches stretching far."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Verdure",
+            "hu": "Théâtre de Verdure",
+            "ro": "Théâtre de Verdure",
+            "en": "Théâtre de Verdure"
+          },
+          "coords": [
+            3.993701,
+            43.694883
+          ],
+          "category": "cultural",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem charmanten Freilufttheater inmitten üppigen Grüns und packen Sie ein kleines Picknick ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Pihenjen meg ebben a buja zöldben megbúvó bájos szabadtéri színházban, és csomagoljon egy könnyű pikniket a békés hangulat élvezetéhez a rendezvények előtt.",
+            "ro": "Relaxați-vă în acest teatru fermecător în aer liber, cuibărit în verdeață luxuriantă, și aduceți un picnic ușor pentru a savura atmosfera pașnică de aici.",
+            "en": "Relax in this charming open-air theater space nestled within lush greenery, packing a light picnic to enjoy the peaceful atmosphere before any events begin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Castries, von der Saint-Étienne Kirche bis zum prächtigen Schloss. Mittags geht es zur Ancienne carrière du Colombier, um den Ursprung des lokalen Steins zu sehen. Am Nachmittag folgen Sie den monumentalen Bögen des Aquädukts durch die Landschaft. Beenden Sie den Spaziergang entspannt im üppigen Freilufttheater Théâtre de Verdure.",
+        "hu": "Kezdje a reggelt Castries történelmi szívében, a Saint-Étienne templomtól a pompás kastélyig. Délben a Colombier egykori kőfejtőjéhez látogat, ahol a helyi kő eredetét láthatja. Délután kövesse a lenyűgöző vízvezeték íveit a tájon keresztül. Sétáját a buja, zöldellő Théâtre de Verdure szabadtéri színházában pihenve zárhatja.",
+        "ro": "Începeți dimineața în inima istorică din Castries, de la Biserica Saint-Étienne la magnificul Castel. La prânz, vizitați fosta carieră Colombier pentru a vedea originea pietrei locale. După-amiaza, urmați arcadele monumentale ale Apeductului prin peisaj. Încheiați plimbarea relaxându-vă la fermecătorul teatru în aer liber Théâtre de Verdure.",
+        "en": "Start your morning exploring the historic heart of Castries, from the grand Saint-Étienne Church to the magnificent Castries Castle. Midday takes you out to the Ancienne carrière du Colombier to see the origins of local stone. In the afternoon, follow the monumental arches of the Aqueduct stretching across the landscape. Conclude your walk relaxing at the lush, open-air Théâtre de Verdure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 10.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel des Bannières (Commanderie Templière)",
+            "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+            "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+            "en": "Saint-Michel des Bannières (Commanderie Templière)"
+          },
+          "coords": [
+            3.953383,
+            43.684174
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das mittelalterliche Erbe der Tempelritter in dieser alten Komturei; prüfen Sie die lokalen Zeiten, da der Innenzugang manchmal eingeschränkt ist.",
+            "hu": "Fedezze fel a templomos lovagok lenyűgöző középkori örökségét ebben az ősi parancsnokságban, de ellenőrizze a nyitvatartást, mert a belső tér néha zárva tart.",
+            "ro": "Descoperiți moștenirea medievală a Cavalerilor Templieri la această veche comanderie, dar verificați programul, deoarece accesul în interior poate fi limitat.",
+            "en": "Uncover the fascinating medieval legacy of the Knights Templar at this ancient commandery, checking local schedules as interior access can sometimes be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Aqueduct",
+            "hu": "Castries Aqueduct",
+            "ro": "Castries Aqueduct",
+            "en": "Castries Aqueduct"
+          },
+          "coords": [
+            3.982427,
+            43.687447
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses monumentale Bauwerk von Riquet zur Wasserversorgung des Schlosses, und bringen Sie ein Weitwinkelobjektiv für die langen Bogenreihen mit.",
+            "hu": "Csodálja meg Riquet monumentális mérnöki alkotását, mely a kastély vízellátását biztosította, és hozzon nagylátószögű objektívet az ívek megörökítéséhez.",
+            "ro": "Minunați-vă de această operă inginerească a lui Riquet pentru alimentarea castelului și aduceți un obiectiv grandangular pentru a surprinde arcele întinse.",
+            "en": "Marvel at this monumental feat of engineering designed by Riquet to supply the castle with water, bringing a wide-angle lens to capture the arches stretching far."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Church",
+            "hu": "Saint-Étienne Church",
+            "ro": "Saint-Étienne Church",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            3.986052,
+            43.678218
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Wurzeln dieser historischen Kirche, die das spirituelle Leben prägte, und kommen Sie morgens für die schönsten Glasfenster-Reflexionen.",
+            "hu": "Csodálja meg a falu spirituális életét meghatározó történelmi templom román stílusú gyökereit, és látogasson el ide reggel a legszebb üvegablak-fényjátékokért.",
+            "ro": "Admirați rădăcinile romanice ale acestei biserici istorice care a ancorat viața spirituală și veniți dimineața pentru cele mai frumoase reflexii ale vitraliilor.",
+            "en": "Admire the Romanesque roots of this historic church that anchored the village's spiritual life, and visit during morning light for the best stained-glass reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Castle",
+            "hu": "Castries Castle",
+            "ro": "Castries Castle",
+            "en": "Castries Castle"
+          },
+          "coords": [
+            3.986931,
+            43.677342
+          ],
+          "category": "fortress",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur des 'Kleinen Versailles des Languedoc' und seine formellen Gärten; tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel Languedoc 'Kis Versailles'-ának elegáns építészetét és mértani kertjeit, de viseljen kényelmes cipőt a kiterjedt, gondozott birtok bejárásához.",
+            "ro": "Explorați arhitectura elegantă a 'Micului Versailles din Languedoc' și grădinile sale, purtând încălțăminte comodă pentru a străbate domeniul vast și îngrijit.",
+            "en": "Explore the elegant architecture of the 'Little Versailles of Languedoc' and its formal gardens, wearing comfortable shoes to walk the extensive manicured grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne carrière du Colombier",
+            "hu": "Ancienne carrière du Colombier",
+            "ro": "Ancienne carrière du Colombier",
+            "en": "Ancienne carrière du Colombier"
+          },
+          "coords": [
+            3.991007,
+            43.682906
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den alten Steinbruch, der das Baumaterial für lokale Monumente lieferte, und achten Sie auf Ihre Schritte auf den unebenen, felsigen Wegen hier.",
+            "hu": "Fedezze fel a lenyűgöző egykori kőfejtőt, amely a helyi műemlékek építőanyagát adta, és ügyeljen a lépéseire a helyszínt körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Descoperiți vechea carieră de piatră care a furnizat materialul pentru monumentele locale și fiți atenți la pași pe potecile stâncoase și denivelate din jur.",
+            "en": "Discover the impressive old stone quarry that provided the building blocks for local monuments, and watch your step on the uneven, rocky trails surrounding the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin",
+            "hu": "Moulin",
+            "ro": "Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            4.012544,
+            43.690885
+          ],
+          "category": "historical",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste der historischen Mühle, die die landwirtschaftliche Vergangenheit zeigt; ein toller Ort für Radpausen und rustikale Landschaftsfotos.",
+            "hu": "Látogasson el a régió mezőgazdasági múltját idéző történelmi malom romjaihoz, amely nagyszerű helyszín kerékpáros pihenőkhöz és rusztikus tájképek készítéséhez.",
+            "ro": "Vizitați ruinele morii istorice care subliniază trecutul agricol al regiunii, un loc excelent pentru pauze de ciclism și pentru a face fotografii rustice.",
+            "en": "Visit the remnants of the historic mill that highlights the region's agricultural past, a great spot for cycling breaks and snapping rustic countryside photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermitage de Saint-Léonard",
+            "hu": "Ermitage de Saint-Léonard",
+            "ro": "Ermitage de Saint-Léonard",
+            "en": "Ermitage de Saint-Léonard"
+          },
+          "coords": [
+            4.014201,
+            43.688918
+          ],
+          "category": "religious",
+          "arrive_at": "17:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieser abgelegenen religiösen Einsiedelei in der Natur und bewahren Sie beim Erkunden des heiligen Geländes eine respektvolle Stille.",
+            "hu": "Tapasztalja meg a természetben megbúvó elszigetelt remeteség mélységes nyugalmát, és tartson tiszteletteljes csendet a szent terület bejárása során.",
+            "ro": "Experimentați liniștea profundă a acestui schit religios izolat în natură și păstrați o tăcere respectuoasă în timp ce explorați aceste locuri sacre deosebite.",
+            "en": "Experience the profound tranquility of this secluded religious hermitage tucked away in nature, maintaining a respectful silence while exploring the sacred grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in den Außenbezirken bei der Templerkomturei, bevor Sie zum Aquädukt fahren. Mittags rollen Sie ins Zentrum, um die Kirche und das prächtige Schloss zu bewundern. Die Nachmittagsfahrt führt Sie vorbei an den alten Steinbrüchen zur rustikalen Mühle. Beenden Sie den aktiven Tag in der ruhigen Einsiedelei von Saint-Léonard in der Abenddämmerung.",
+        "hu": "Kezdje kerékpártúráját a külvárosban a templomos parancsnokságnál, majd tekerjen a vízvezetékhez. Délben guruljon be a központba, hogy megcsodálja a történelmi templomot és a kastélyt. A délutáni tekerés a régi kőfejtők mellett a rusztikus malomhoz vezet. Zárja aktív napját a csendes Saint-Léonard remeteségnél az esti napfényben.",
+        "ro": "Începeți turul cu bicicleta la comanderia templieră, înainte de a merge la marele Apeduct. La prânz, ajungeți în centru pentru a admira biserica și magnificul castel. Plimbarea de după-amiază vă duce pe lângă vechile cariere până la moara rustică. Încheiați ziua activă la seninul schit Saint-Léonard pe măsură ce soarele coboară.",
+        "en": "Kick off your cycling tour in the outskirts at the Templar commandery before heading to the sweeping Aqueduct. By midday, roll into the village center to admire the historic church and the magnificent \"Little Versailles\" castle. Afternoon riding takes you past the old quarries to the rustic Moulin. Finish your active day at the serene Ermitage de Saint-Léonard as the sun lowers."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:35",
+      "total_km": 13.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel des Bannières (Commanderie Templière)",
+            "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+            "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+            "en": "Saint-Michel des Bannières (Commanderie Templière)"
+          },
+          "coords": [
+            3.953383,
+            43.684174
+          ],
+          "category": "historical",
+          "arrive_at": "09:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das mittelalterliche Erbe der Tempelritter in dieser alten Komturei; prüfen Sie die lokalen Zeiten, da der Innenzugang manchmal eingeschränkt ist.",
+            "hu": "Fedezze fel a templomos lovagok lenyűgöző középkori örökségét ebben az ősi parancsnokságban, de ellenőrizze a nyitvatartást, mert a belső tér néha zárva tart.",
+            "ro": "Descoperiți moștenirea medievală a Cavalerilor Templieri la această veche comanderie, dar verificați programul, deoarece accesul în interior poate fi limitat.",
+            "en": "Uncover the fascinating medieval legacy of the Knights Templar at this ancient commandery, checking local schedules as interior access can sometimes be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Aqueduct",
+            "hu": "Castries Aqueduct",
+            "ro": "Castries Aqueduct",
+            "en": "Castries Aqueduct"
+          },
+          "coords": [
+            3.982427,
+            43.687447
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses monumentale Bauwerk von Riquet zur Wasserversorgung des Schlosses, und bringen Sie ein Weitwinkelobjektiv für die langen Bogenreihen mit.",
+            "hu": "Csodálja meg Riquet monumentális mérnöki alkotását, mely a kastély vízellátását biztosította, és hozzon nagylátószögű objektívet az ívek megörökítéséhez.",
+            "ro": "Minunați-vă de această operă inginerească a lui Riquet pentru alimentarea castelului și aduceți un obiectiv grandangular pentru a surprinde arcele întinse.",
+            "en": "Marvel at this monumental feat of engineering designed by Riquet to supply the castle with water, bringing a wide-angle lens to capture the arches stretching far."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Verdure",
+            "hu": "Théâtre de Verdure",
+            "ro": "Théâtre de Verdure",
+            "en": "Théâtre de Verdure"
+          },
+          "coords": [
+            3.993701,
+            43.694883
+          ],
+          "category": "cultural",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem charmanten Freilufttheater inmitten üppigen Grüns und packen Sie ein kleines Picknick ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Pihenjen meg ebben a buja zöldben megbúvó bájos szabadtéri színházban, és csomagoljon egy könnyű pikniket a békés hangulat élvezetéhez a rendezvények előtt.",
+            "ro": "Relaxați-vă în acest teatru fermecător în aer liber, cuibărit în verdeață luxuriantă, și aduceți un picnic ușor pentru a savura atmosfera pașnică de aici.",
+            "en": "Relax in this charming open-air theater space nestled within lush greenery, packing a light picnic to enjoy the peaceful atmosphere before any events begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin",
+            "hu": "Moulin",
+            "ro": "Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            4.012544,
+            43.690885
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste der historischen Mühle, die die landwirtschaftliche Vergangenheit zeigt; ein toller Ort für Radpausen und rustikale Landschaftsfotos.",
+            "hu": "Látogasson el a régió mezőgazdasági múltját idéző történelmi malom romjaihoz, amely nagyszerű helyszín kerékpáros pihenőkhöz és rusztikus tájképek készítéséhez.",
+            "ro": "Vizitați ruinele morii istorice care subliniază trecutul agricol al regiunii, un loc excelent pentru pauze de ciclism și pentru a face fotografii rustice.",
+            "en": "Visit the remnants of the historic mill that highlights the region's agricultural past, a great spot for cycling breaks and snapping rustic countryside photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermitage de Saint-Léonard",
+            "hu": "Ermitage de Saint-Léonard",
+            "ro": "Ermitage de Saint-Léonard",
+            "en": "Ermitage de Saint-Léonard"
+          },
+          "coords": [
+            4.014201,
+            43.688918
+          ],
+          "category": "religious",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieser abgelegenen religiösen Einsiedelei in der Natur und bewahren Sie beim Erkunden des heiligen Geländes eine respektvolle Stille.",
+            "hu": "Tapasztalja meg a természetben megbúvó elszigetelt remeteség mélységes nyugalmát, és tartson tiszteletteljes csendet a szent terület bejárása során.",
+            "ro": "Experimentați liniștea profundă a acestui schit religios izolat în natură și păstrați o tăcere respectuoasă în timp ce explorați aceste locuri sacre deosebite.",
+            "en": "Experience the profound tranquility of this secluded religious hermitage tucked away in nature, maintaining a respectful silence while exploring the sacred grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne carrière du Colombier",
+            "hu": "Ancienne carrière du Colombier",
+            "ro": "Ancienne carrière du Colombier",
+            "en": "Ancienne carrière du Colombier"
+          },
+          "coords": [
+            3.991007,
+            43.682906
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den alten Steinbruch, der das Baumaterial für lokale Monumente lieferte, und achten Sie auf Ihre Schritte auf den unebenen, felsigen Wegen hier.",
+            "hu": "Fedezze fel a lenyűgöző egykori kőfejtőt, amely a helyi műemlékek építőanyagát adta, és ügyeljen a lépéseire a helyszínt körülvevő egyenetlen, sziklás ösvényeken.",
+            "ro": "Descoperiți vechea carieră de piatră care a furnizat materialul pentru monumentele locale și fiți atenți la pași pe potecile stâncoase și denivelate din jur.",
+            "en": "Discover the impressive old stone quarry that provided the building blocks for local monuments, and watch your step on the uneven, rocky trails surrounding the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Church",
+            "hu": "Saint-Étienne Church",
+            "ro": "Saint-Étienne Church",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            3.986052,
+            43.678218
+          ],
+          "category": "religious",
+          "arrive_at": "17:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Wurzeln dieser historischen Kirche, die das spirituelle Leben prägte, und kommen Sie morgens für die schönsten Glasfenster-Reflexionen.",
+            "hu": "Csodálja meg a falu spirituális életét meghatározó történelmi templom román stílusú gyökereit, és látogasson el ide reggel a legszebb üvegablak-fényjátékokért.",
+            "ro": "Admirați rădăcinile romanice ale acestei biserici istorice care a ancorat viața spirituală și veniți dimineața pentru cele mai frumoase reflexii ale vitraliilor.",
+            "en": "Admire the Romanesque roots of this historic church that anchored the village's spiritual life, and visit during morning light for the best stained-glass reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Castries Castle",
+            "hu": "Castries Castle",
+            "ro": "Castries Castle",
+            "en": "Castries Castle"
+          },
+          "coords": [
+            3.986931,
+            43.677342
+          ],
+          "category": "fortress",
+          "arrive_at": "17:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur des 'Kleinen Versailles des Languedoc' und seine formellen Gärten; tragen Sie bequeme Schuhe für das weitläufige Gelände.",
+            "hu": "Fedezze fel Languedoc 'Kis Versailles'-ának elegáns építészetét és mértani kertjeit, de viseljen kényelmes cipőt a kiterjedt, gondozott birtok bejárásához.",
+            "ro": "Explorați arhitectura elegantă a 'Micului Versailles din Languedoc' și grădinile sale, purtând încălțăminte comodă pentru a străbate domeniul vast și îngrijit.",
+            "en": "Explore the elegant architecture of the 'Little Versailles of Languedoc' and its formal gardens, wearing comfortable shoes to walk the extensive manicured grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur mittelalterlichen Templerstätte und zum monumentalen Aquädukt. Mittags erreichen Sie das kulturelle Théâtre de Verdure und die charmante Mühle. Verbringen Sie den Nachmittag mit der Entdeckung der Einsiedelei und der rauen Steinbrüche. Gegen Abend kehren Sie ins Dorfzentrum zurück für die Kirche und ein großes Finale am Schloss in der Dämmerung.",
+        "hu": "Autózzon el kényelmesen a templomos helyszínhez és a vízvezetékhez a délelőtt folyamán. Délben a kulturális Théâtre de Verdure és a malom várja. Töltse a délutánt az eldugott remeteség és a helyi kőfejtők felfedezésével. Kora este térjen vissza a falu központjába a látványos templomhoz, majd zárja a napot a fenséges Castries kastélynál.",
+        "ro": "Conduceți dimineața către situl medieval templier și monumentalul Apeduct. La prânz vizitați culturalul Théâtre de Verdure și fermecătoarea moară. Petreceți după-amiaza descoperind schitul ascuns și carierele locale accidentate. Spre seară, întoarceți-vă în centrul satului pentru biserica impresionantă și un final grandios la Castel.",
+        "en": "Drive smoothly to the distant medieval Templar site and the monumental Aqueduct in the morning. Midday brings you to the cultural Théâtre de Verdure and the charming Moulin. Spend the afternoon uncovering the hidden Ermitage and the rugged local quarries. As evening approaches, return to the village core for the striking church and a grand finale at the Castries Castle at dusk."
+      }
+    }
+  }
+}

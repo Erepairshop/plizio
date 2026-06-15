@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-l-aquila-cities-v2",
+  "anchor": {
+    "name": "L'Aquila",
+    "coords": [
+      13.391992,
+      42.354008
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 1.97,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Pascali",
+            "hu": "Palazzo Pascali",
+            "ro": "Palazzo Pascali",
+            "en": "Palazzo Pascali"
+          },
+          "coords": [
+            13.392099,
+            42.354478
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die restaurierte Fassade dieses Adelspalastes, ein Symbol lokaler Widerstandskraft, und achten Sie auf die morgens oft geöffneten Hoftore.",
+            "hu": "Csodálja meg e nemesi palota helyreállított homlokzatát, a helyi ellenállás szimbólumát, és mindenképpen kukkantson be a délelőtt gyakran nyitott udvari kapukon.",
+            "ro": "Admirați fațada restaurată a acestui palat nobil, un simbol al rezistenței locale, și asigurați-vă că verificați porțile curții care sunt adesea deschise dimineața.",
+            "en": "Admire the restored facade of this noble palace, a symbol of local resilience, and be sure to check the courtyard gates which are often open in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Branconio",
+            "hu": "Palazzo Branconio",
+            "ro": "Palazzo Branconio",
+            "en": "Palazzo Branconio"
+          },
+          "coords": [
+            13.396606,
+            42.354073
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aufwendigen Steinarbeiten dieser historischen Residenz, die Renaissance-Eleganz widerspiegeln, und halten Sie die Kamera für die Details über dem Eingang bereit.",
+            "hu": "Gyönyörködjön e reneszánsz eleganciát tükröző történelmi rezidencia bonyolult kőfaragásaiban, és tartsa készenlétben a fényképezőgépét a bejárat feletti részletekhez.",
+            "ro": "Minunați-vă de lucrările complicate în piatră ale acestei reședințe istorice ce reflectă eleganța renascentistă, și țineți aparatul foto pregătit pentru detaliile de la intrare.",
+            "en": "Marvel at the intricate stonework of this historical residence reflecting Renaissance elegance, but keep your camera ready for the stunning architectural details above the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Quinzi",
+            "hu": "Palazzo Quinzi",
+            "ro": "Palazzo Quinzi",
+            "en": "Palazzo Quinzi"
+          },
+          "coords": [
+            13.397436,
+            42.35204
+          ],
+          "category": "castle",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Äußere dieses wunderschön rekonstruierten Barockpalastes mit seinen eleganten Gesimsen und betrachten Sie ihn am besten von der gegenüberliegenden Ecke.",
+            "hu": "Fedezze fel e gyönyörűen újjáépített barokk palota impozáns külsejét és elegáns párkányait, majd a legjobb perspektíva érdekében próbálja meg a szemközti sarokból is megtekinteni.",
+            "ro": "Explorați exteriorul grandios al acestui palat baroc frumos reconstruit, remarcând cornișele sale elegante, și încercați să-l priviți din colțul opus pentru o perspectivă bună.",
+            "en": "Explore the grand exterior of this beautifully reconstructed baroque palace, noting its elegant cornices, and try viewing it from the opposite corner for the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "MAXXI L'Aquila",
+            "hu": "MAXXI L'Aquila",
+            "ro": "MAXXI L'Aquila",
+            "en": "MAXXI L'Aquila"
+          },
+          "coords": [
+            13.399795,
+            42.352967
+          ],
+          "category": "museum",
+          "arrive_at": "13:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses brillante Museum für zeitgenössische Kunst in einem restaurierten Palazzo, um Alt und Neu zu erleben, und kaufen Sie Tickets online, um Schlangen zu umgehen.",
+            "hu": "Lépjen be ebbe a felújított palotában helyet kapott kortárs művészeti múzeumba, hogy átélje a régi és új kontrasztját, és váltson jegyet online a hétvégi sorok elkerüléséhez.",
+            "ro": "Pășiți în acest muzeu de artă contemporană găzduit într-un palat restaurat pentru a experimenta contrastul dintre vechi și nou, și luați biletele online pentru a evita cozile.",
+            "en": "Step inside this brilliant contemporary art museum housed in a restored palazzo to experience the contrast of old and new, and grab your tickets online to skip the weekend queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Arcivescovile",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Palazzo Arcivescovile"
+          },
+          "coords": [
+            13.396495,
+            42.349024
+          ],
+          "category": "castle",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die feierliche Architektur des Erzbischöflichen Palastes und betrachten Sie die Gedenktafeln an den Wänden, um seine Geschichte zu verstehen.",
+            "hu": "Szánjon egy percet az érseki palota ünnepélyes építészetének értékelésére, és nézze meg alaposan a falakon lévő emléktáblákat, hogy jobban megértse a hely történelmi múltját.",
+            "ro": "Acordați-vă un moment pentru a aprecia arhitectura solemnă a Palatului Arhiepiscopal, și priviți cu atenție plăcile comemorative de pe pereți pentru a înțelege mai bine istoria.",
+            "en": "Take a moment to appreciate the solemn architecture of the Archbishop's Palace, a key religious center, and look closely at the memorial plaques on the walls to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "MUNDA - Museo Nazionale d’Abruzzo",
+            "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+            "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+            "en": "MUNDA - Museo Nazionale d’Abruzzo"
+          },
+          "coords": [
+            13.38879,
+            42.350333
+          ],
+          "category": "museum",
+          "arrive_at": "16:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung regionaler Artefakte und sakraler Kunst in diesem Nationalmuseum und planen Sie mindestens zwei Stunden ein.",
+            "hu": "Fedezzen fel egy hihetetlen regionális és szakrális művészeti gyűjteményt ebben a nemzeti múzeumban, és szánjon rá legalább két órát a lenyűgöző középkori faszobrok miatt.",
+            "ro": "Descoperiți o colecție incredibilă de artefacte regionale și artă sacră în acest muzeu național, și alocați cel puțin două ore aici, deoarece sculpturile medievale sunt captivante.",
+            "en": "Discover an incredible collection of regional artifacts and sacred art in this national museum, and allocate at least two hours here as the medieval wooden sculptures are truly captivating."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der widerstandsfähigen Palazzi, beginnend mit Pascali und Branconio. Mittags erreichen Sie den Palazzo Quinzi und die zeitgenössischen Sammlungen im MAXXI. Am Nachmittag spazieren Sie in Richtung der spirituellen Bedeutung des Erzbischöflichen Palastes. Schließen Sie den Tag mit einem tiefen Einblick in das Erbe im MUNDA ab.",
+        "hu": "Kezdje a reggelt Észak-L'Aquila ellenálló palotáinak megcsodálásával, a Pascalival és a Branconióval. A dél a pompás Palazzo Quinzihez és a MAXXI kortárs gyűjteményeihez vezet. Délután sétáljon dél felé, az Érseki Palota spirituális vonzereje felé. Zárja a napot a régió gazdag örökségének elmélyült megismerésével a lenyűgöző MUNDA múzeumban.",
+        "ro": "Începeți dimineața admirând palatele rezistente din nordul orașului L'Aquila, cu Pascali și Branconio. Amiaza vă aduce la grandiosul Palazzo Quinzi și la colecțiile contemporane de la MAXXI. După-amiaza, plimbați-vă spre sud, spre gravitatea spirituală a Palatului Arhiepiscopal. Încheiați-vă ziua explorând profund patrimoniul regiunii la uimitorul muzeu MUNDA.",
+        "en": "Begin your morning admiring the resilient palazzos of northern L'Aquila, starting with Pascali and Branconio. Midday brings you to the grand Palazzo Quinzi and the striking contemporary collections at MAXXI. In the afternoon, stroll south towards the spiritual gravity of the Archbishop's Palace. Conclude your day delving deep into the region's heritage at the MUNDA museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Pascali",
+            "hu": "Palazzo Pascali",
+            "ro": "Palazzo Pascali",
+            "en": "Palazzo Pascali"
+          },
+          "coords": [
+            13.392099,
+            42.354478
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die restaurierte Fassade dieses Adelspalastes, ein Symbol lokaler Widerstandskraft, und achten Sie auf die morgens oft geöffneten Hoftore.",
+            "hu": "Csodálja meg e nemesi palota helyreállított homlokzatát, a helyi ellenállás szimbólumát, és mindenképpen kukkantson be a délelőtt gyakran nyitott udvari kapukon.",
+            "ro": "Admirați fațada restaurată a acestui palat nobil, un simbol al rezistenței locale, și asigurați-vă că verificați porțile curții care sunt adesea deschise dimineața.",
+            "en": "Admire the restored facade of this noble palace, a symbol of local resilience, and be sure to check the courtyard gates which are often open in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "MAXXI L'Aquila",
+            "hu": "MAXXI L'Aquila",
+            "ro": "MAXXI L'Aquila",
+            "en": "MAXXI L'Aquila"
+          },
+          "coords": [
+            13.399795,
+            42.352967
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses brillante Museum für zeitgenössische Kunst in einem restaurierten Palazzo, um Alt und Neu zu erleben, und kaufen Sie Tickets online, um Schlangen zu umgehen.",
+            "hu": "Lépjen be ebbe a felújított palotában helyet kapott kortárs művészeti múzeumba, hogy átélje a régi és új kontrasztját, és váltson jegyet online a hétvégi sorok elkerüléséhez.",
+            "ro": "Pășiți în acest muzeu de artă contemporană găzduit într-un palat restaurat pentru a experimenta contrastul dintre vechi și nou, și luați biletele online pentru a evita cozile.",
+            "en": "Step inside this brilliant contemporary art museum housed in a restored palazzo to experience the contrast of old and new, and grab your tickets online to skip the weekend queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Carli",
+            "hu": "Palazzo Carli",
+            "ro": "Palazzo Carli",
+            "en": "Palazzo Carli"
+          },
+          "coords": [
+            13.396233,
+            42.352172
+          ],
+          "category": "castle",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Innenhofarkaden dieses historischen Universitätspalastes und werfen Sie einen Blick durch das Hauptportal auf mögliche Studentenausstellungen.",
+            "hu": "Vegye észre ennek az egyetemhez kötődő történelmi palotának a lenyűgöző udvari árkádjait, és próbáljon bekukkantani a főportálon, ahol gyakran tartanak kiállításokat.",
+            "ro": "Observați arcadele impresionante din curtea acestui palat istoric legat de universitate, și încercați să aruncați o privire pe portalul principal, la expozițiile de interior.",
+            "en": "Notice the impressive courtyard arcades of this university-related historic palace, and try peeking inside the main portal as the interior often features student exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Betti",
+            "hu": "Palazzo Betti",
+            "ro": "Palazzo Betti",
+            "en": "Palazzo Betti"
+          },
+          "coords": [
+            13.399189,
+            42.348624
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem stattlichen Gebäude, um seine klassischen Linien im Stadtzentrum zu betrachten, und bemerken Sie die kunstvollen Fensterrahmen, die die Beben überstanden haben.",
+            "hu": "Álljon meg ennél a fenséges épületnél, hogy megfigyelje klasszikus vonalait, és vegye észre a bonyolult ablakkereteket, amelyek csodával határos módon túlélték a földrengéseket.",
+            "ro": "Opriți-vă la această clădire impunătoare pentru a observa liniile sale clasice, și remarcați cadrele complexe ale ferestrelor care au supraviețuit cutremurelor devastatoare.",
+            "en": "Stop by this stately building to observe its classic lines and historical significance in the city center, and notice the intricate window frames that survived the earthquakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dell'ex GIL",
+            "hu": "Palazzo dell'ex GIL",
+            "ro": "Palazzo dell'ex GIL",
+            "en": "Palazzo dell'ex GIL"
+          },
+          "coords": [
+            13.397895,
+            42.344352
+          ],
+          "category": "castle",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die strenge rationalistische Architektur dieses Gebäudes aus der faschistischen Ära und gehen Sie um den Umfang herum, um seine geometrischen Formen zu würdigen.",
+            "hu": "Vizsgálja meg ennek az egykori fasiszta korszakbeli épületnek a szigorú racionalista építészetét, és sétálja körbe, hogy teljes mértékben értékelni tudja geometriai formáit.",
+            "ro": "Examinați arhitectura raționalistă austeră a acestei foste clădiri din era fascistă și plimbați-vă pe perimetru pentru a aprecia pe deplin formele sale geometrice deosebit de rigide.",
+            "en": "Examine the stark rationalist architecture of this former fascist-era building offering a different historical layer, and walk around the perimeter to appreciate its geometric forms."
+          }
+        },
+        {
+          "name": {
+            "de": "MUNDA - Museo Nazionale d’Abruzzo",
+            "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+            "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+            "en": "MUNDA - Museo Nazionale d’Abruzzo"
+          },
+          "coords": [
+            13.38879,
+            42.350333
+          ],
+          "category": "museum",
+          "arrive_at": "16:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung regionaler Artefakte und sakraler Kunst in diesem Nationalmuseum und planen Sie mindestens zwei Stunden ein.",
+            "hu": "Fedezzen fel egy hihetetlen regionális és szakrális művészeti gyűjteményt ebben a nemzeti múzeumban, és szánjon rá legalább két órát a lenyűgöző középkori faszobrok miatt.",
+            "ro": "Descoperiți o colecție incredibilă de artefacte regionale și artă sacră în acest muzeu național, și alocați cel puțin două ore aici, deoarece sculpturile medievale sunt captivante.",
+            "en": "Discover an incredible collection of regional artifacts and sacred art in this national museum, and allocate at least two hours here as the medieval wooden sculptures are truly captivating."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rollen Sie in den Morgen und erkunden Sie den restaurierten Palazzo Pascali, bevor Sie zum innovativen MAXXI fahren. Mittags führt Sie die Fahrt zum akademischen Charme des Palazzo Carli. Nachmittags radeln Sie zum beeindruckenden Palazzo Betti und den rationalistischen Linien des ex GIL. Der Abend beginnt mit den reichen kulturellen Artefakten im faszinierenden MUNDA.",
+        "hu": "Induljon a reggel a gyönyörűen felújított Palazzo Pascali felfedezésével, majd tekerjen az innovatív MAXXI felé. Délben a történelmi központon keresztül a Palazzo Carli akadémiai bájához vezet az útja. A délutáni pedálozás a Palazzo Bettihez és az ex GIL racionalista vonalaihoz visz. Az este a MUNDA múzeum gazdag kulturális tárgyainak megismerésével köszönt be.",
+        "ro": "Porniți în dimineața explorând frumosul Palazzo Pascali restaurat înainte de a pedala spre inovatorul MAXXI. La amiază, plimbarea vă poartă spre farmecul academic al Palatului Carli. Pedalarea de după-amiază vă duce la impresionantul Palazzo Betti și la liniile raționaliste ale fostului GIL. Seara sosește în timp ce absorbiți bogatele artefacte culturale la muzeul MUNDA.",
+        "en": "Roll into the morning exploring the beautifully restored Palazzo Pascali before riding to the innovative MAXXI. Midday riding takes you through the historical center to discover Palazzo Carli's academic charm. Afternoon pedaling leads you to the impressive Palazzo Betti and the rationalist lines of the ex GIL. Evening arrives as you absorb the rich cultural artifacts at MUNDA."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "MUNDA - Museo Nazionale d’Abruzzo",
+            "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+            "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+            "en": "MUNDA - Museo Nazionale d’Abruzzo"
+          },
+          "coords": [
+            13.38879,
+            42.350333
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung regionaler Artefakte und sakraler Kunst in diesem Nationalmuseum und planen Sie mindestens zwei Stunden ein.",
+            "hu": "Fedezzen fel egy hihetetlen regionális és szakrális művészeti gyűjteményt ebben a nemzeti múzeumban, és szánjon rá legalább két órát a lenyűgöző középkori faszobrok miatt.",
+            "ro": "Descoperiți o colecție incredibilă de artefacte regionale și artă sacră în acest muzeu național, și alocați cel puțin două ore aici, deoarece sculpturile medievale sunt captivante.",
+            "en": "Discover an incredible collection of regional artifacts and sacred art in this national museum, and allocate at least two hours here as the medieval wooden sculptures are truly captivating."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dell'ex GIL",
+            "hu": "Palazzo dell'ex GIL",
+            "ro": "Palazzo dell'ex GIL",
+            "en": "Palazzo dell'ex GIL"
+          },
+          "coords": [
+            13.397895,
+            42.344352
+          ],
+          "category": "castle",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die strenge rationalistische Architektur dieses Gebäudes aus der faschistischen Ära und gehen Sie um den Umfang herum, um seine geometrischen Formen zu würdigen.",
+            "hu": "Vizsgálja meg ennek az egykori fasiszta korszakbeli épületnek a szigorú racionalista építészetét, és sétálja körbe, hogy teljes mértékben értékelni tudja geometriai formáit.",
+            "ro": "Examinați arhitectura raționalistă austeră a acestei foste clădiri din era fascistă și plimbați-vă pe perimetru pentru a aprecia pe deplin formele sale geometrice deosebit de rigide.",
+            "en": "Examine the stark rationalist architecture of this former fascist-era building offering a different historical layer, and walk around the perimeter to appreciate its geometric forms."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Arcivescovile",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Palazzo Arcivescovile"
+          },
+          "coords": [
+            13.396495,
+            42.349024
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die feierliche Architektur des Erzbischöflichen Palastes und betrachten Sie die Gedenktafeln an den Wänden, um seine Geschichte zu verstehen.",
+            "hu": "Szánjon egy percet az érseki palota ünnepélyes építészetének értékelésére, és nézze meg alaposan a falakon lévő emléktáblákat, hogy jobban megértse a hely történelmi múltját.",
+            "ro": "Acordați-vă un moment pentru a aprecia arhitectura solemnă a Palatului Arhiepiscopal, și priviți cu atenție plăcile comemorative de pe pereți pentru a înțelege mai bine istoria.",
+            "en": "Take a moment to appreciate the solemn architecture of the Archbishop's Palace, a key religious center, and look closely at the memorial plaques on the walls to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Lucentini Bonanni",
+            "hu": "Palazzo Lucentini Bonanni",
+            "ro": "Palazzo Lucentini Bonanni",
+            "en": "Palazzo Lucentini Bonanni"
+          },
+          "coords": [
+            13.401175,
+            42.353014
+          ],
+          "category": "castle",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zur eleganten Fassade dieses aristokratischen Palastes an einer belebten Piazza und machen Sie eine Pause auf einer Bank, um die Atmosphäre zu genießen.",
+            "hu": "Tekintsen fel ennek a nyüzsgő téren található arisztokratikus palotának az elegáns homlokzatára, és tartson egy rövid pihenőt a közeli padok egyikén, a helyi hangulat miatt.",
+            "ro": "Priviți fațada elegantă a acestui palat aristocratic situat într-o piață plină de viață, și luați o scurtă pauză pe una dintre băncile din apropiere pentru a absorbi atmosfera locală.",
+            "en": "Look up at the elegant facade of this aristocratic palace situated in a lively piazza, and take a quick break on one of the nearby benches to soak in the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "MAXXI L'Aquila",
+            "hu": "MAXXI L'Aquila",
+            "ro": "MAXXI L'Aquila",
+            "en": "MAXXI L'Aquila"
+          },
+          "coords": [
+            13.399795,
+            42.352967
+          ],
+          "category": "museum",
+          "arrive_at": "15:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses brillante Museum für zeitgenössische Kunst in einem restaurierten Palazzo, um Alt und Neu zu erleben, und kaufen Sie Tickets online, um Schlangen zu umgehen.",
+            "hu": "Lépjen be ebbe a felújított palotában helyet kapott kortárs művészeti múzeumba, hogy átélje a régi és új kontrasztját, és váltson jegyet online a hétvégi sorok elkerüléséhez.",
+            "ro": "Pășiți în acest muzeu de artă contemporană găzduit într-un palat restaurat pentru a experimenta contrastul dintre vechi și nou, și luați biletele online pentru a evita cozile.",
+            "en": "Step inside this brilliant contemporary art museum housed in a restored palazzo to experience the contrast of old and new, and grab your tickets online to skip the weekend queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Fahrt zum MUNDA, um in die tiefgründige Geschichte der Abruzzen einzutauchen. Fahren Sie mittags zur rationalistischen Architektur des Palazzo dell'ex GIL und zum Erzbischöflichen Palast. Navigieren Sie nachmittags zum Palazzo Lucentini Bonanni. Beenden Sie den Tag mit der Erkundung der modernen Kunstszene, die im fantastischen MAXXI untergebracht ist.",
+        "hu": "Kezdje a reggelt egy könnyű autózással a MUNDA felé, elmerülve Abruzzo régió mélyreható történelmében. Délben hajtson a Palazzo dell'ex GIL racionalista építészetéhez és a történelmi Érseki Palotához. Délután a város szélén navigálva csodálja meg a Palazzo Lucentini Bonannit. Fejezze be a napot a MAXXI lenyűgöző, élénk modern művészeti kiállításainak felfedezésével.",
+        "ro": "Începeți dimineața cu un drum ușor spre MUNDA, cufundându-vă în istoria profundă a regiunii Abruzzo. Până la amiază, conduceți către arhitectura raționalistă a Palazzo dell'ex GIL și spre Palatul Arhiepiscopal. După-amiaza, navigați pe marginea orașului pentru a admira Palazzo Lucentini Bonanni. Terminați ziua explorând scenele vibrante de artă modernă găzduite la muzeul MAXXI.",
+        "en": "Start the morning with an easy drive to MUNDA, immersing yourself in the profound history of the Abruzzo region. By midday, drive up to the rationalist architecture of Palazzo dell'ex GIL and the historic Archbishop's Palace. In the afternoon, navigate the city edge to admire Palazzo Lucentini Bonanni. Finish the day exploring the vibrant modern art scenes housed at MAXXI."
+      }
+    }
+  }
+}

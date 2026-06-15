@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-cubelles-cities-v2",
+  "anchor": {
+    "name": "Cubelles",
+    "coords": [
+      1.67305,
+      41.20834
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Cubelles",
+            "hu": "Ajuntament de Cubelles",
+            "ro": "Ajuntament de Cubelles",
+            "en": "Ajuntament de Cubelles"
+          },
+          "coords": [
+            1.672575,
+            41.207512
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des Rathauses von Cubelles, einem historischen Zentrum des lokalen Lebens, und achten Sie auf Aushänge zu kostenlosen Sommerveranstaltungen.",
+            "hu": "Csodálja meg Cubelles városházájának bájos építészetét, a helyi élet történelmi központját, és figyelje a hirdetőtáblákat az ingyenes nyári kulturális eseményekért.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei din Cubelles, un centru istoric al vieții locale, și verificați avizierul pentru evenimente culturale gratuite de vară.",
+            "en": "Admire the charming architecture of Cubelles' town hall, a historical hub of local life, and check the bulletin board for free summer cultural events nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Travé",
+            "hu": "Can Travé",
+            "ro": "Can Travé",
+            "en": "Can Travé"
+          },
+          "coords": [
+            1.675023,
+            41.208746
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende klassizistische Fassade und die üppigen Gärten dieses einzigartigen Museumshauses und bringen Sie ein Weitwinkelobjektiv für die Statuen mit.",
+            "hu": "Fedezze fel ezen egyedülálló múzeumház lenyűgöző klasszicista homlokzatát és buja kertjeit, és mindenképpen hozzon nagylátószögű objektívet a mitológiai szobrokhoz.",
+            "ro": "Explorați fațada clasică fascinantă și grădinile luxuriante ale acestei case-muzeu unice, aducând un obiectiv cu unghi larg pentru a surprinde statuile mitologice.",
+            "en": "Explore the fascinating classical facade and lush gardens of this unique museum-house, bringing a wide-angle lens to capture the mythological statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument Charlie Rivel",
+            "hu": "Monument Charlie Rivel",
+            "ro": "Monument Charlie Rivel",
+            "en": "Monument Charlie Rivel"
+          },
+          "coords": [
+            1.676966,
+            41.201739
+          ],
+          "category": "historical",
+          "arrive_at": "12:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem legendären katalanischen Clown an diesem Denkmal die Ehre, idealerweise während der goldenen Stunde für wunderschöne Fotos mit malerischer Kulisse.",
+            "hu": "Tisztelegjen a legendás katalán bohóc előtt ennél az emlékműnél, ideális esetben az aranyórában érkezve, hogy gyönyörű fotókat készíthessen a festői háttérrel.",
+            "ro": "Aduceți un omagiu legendarului clovn catalan la acest monument dedicat, vizitând ideal în timpul orei de aur pentru fotografii superbe cu fundal pitoresc.",
+            "en": "Pay homage to the legendary Catalan clown at this dedicated monument, ideally visiting during golden hour for beautiful photos against the scenic backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Mota de Sant Pere",
+            "hu": "Platja de la Mota de Sant Pere",
+            "ro": "Platja de la Mota de Sant Pere",
+            "en": "Platja de la Mota de Sant Pere"
+          },
+          "coords": [
+            1.663481,
+            41.196987
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weitläufigen goldenen Sand dieses wunderschönen Mittelmeerstrandes und denken Sie an Sonnencreme, da Schatten hier eher begrenzt ist.",
+            "hu": "Pihenjen ennek a gyönyörű mediterrán strandnak a hatalmas aranyhomokján, és ne felejtsen el naptejet és vizet csomagolni, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse ale acestei frumoase plaje mediteraneene și nu uitați să luați cremă de soare, deoarece umbra este destul de limitată.",
+            "en": "Relax on the expansive golden sands of this beautiful Mediterranean beach, and remember to pack plenty of sunscreen and water as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Edifici Etna",
+            "hu": "Piscina Edifici Etna",
+            "ro": "Piscina Edifici Etna",
+            "en": "Piscina Edifici Etna"
+          },
+          "coords": [
+            1.646905,
+            41.197012
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach der Erkundung der Küste in diesem erfrischenden Schwimmbadkomplex ab, bringen Sie Ihr Handtuch mit und buchen Sie Tickets vorab online.",
+            "hu": "Hűtse le magát ebben a frissítő szabadidős medencekomplexumban a part felfedezése után, hozzon saját törölközőt, és foglaljon belépőjegyet előre online.",
+            "ro": "Răcoriți-vă în acest complex de piscine revigorant după ce ați explorat coasta, aducând propriul prosop și rezervând biletele de intrare online în avans.",
+            "en": "Cool off in this refreshing recreational pool complex after exploring the coast, bringing your own towel and booking entry tickets online in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der lebhaften historischen Atmosphäre am ikonischen Rathaus. Mittags erreichen Sie Can Travé, wo klassische Architektur einen kulturellen Rückzugsort bietet. Nachmittags zollen Sie der lokalen Clowngeschichte Tribut, bevor Sie zu den goldenen Sandstränden spazieren. Der Abend klingt an einem entspannenden Pool aus, um das mediterrane Salz abzuwaschen.",
+        "hu": "Kezdje a reggelt a nyüzsgő történelmi atmoszféra befogadásával az ikonikus városházánál. A délben Can Travé-hoz ér, ahol a klasszikus építészet és a kertek kulturált menedéket nyújtanak. Délután tisztelegjen a helyi bohóctörténelem előtt, mielőtt a végtelen aranyhomokos strandra sétálna. Az est egy helyi medencénél ér véget, lemosva a mediterrán sót.",
+        "ro": "Începeți dimineața absorbind atmosfera istorică plină de viață la iconica Primărie. La prânz ajungeți la Can Travé, unde arhitectura clasică oferă un refugiu cultural. După-amiaza, aduceți un omagiu istoriei locale a clovnilor, înainte de a vă plimba spre nisipurile aurii vaste. Seara se încheie la o piscină locală relaxantă, spălând sarea mediteraneană.",
+        "en": "Start your morning absorbing the lively historical atmosphere at the iconic Ajuntament. Midday brings you to Can Travé, where classical architecture and hidden gardens offer a cultured retreat. In the afternoon, pay your respects to local clown history before strolling to the vast golden sands of Platja de la Mota. Evening wraps up at a relaxing local pool, washing off the Mediterranean salt."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Cubelles",
+            "hu": "Ajuntament de Cubelles",
+            "ro": "Ajuntament de Cubelles",
+            "en": "Ajuntament de Cubelles"
+          },
+          "coords": [
+            1.672575,
+            41.207512
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des Rathauses von Cubelles, einem historischen Zentrum des lokalen Lebens, und achten Sie auf Aushänge zu kostenlosen Sommerveranstaltungen.",
+            "hu": "Csodálja meg Cubelles városházájának bájos építészetét, a helyi élet történelmi központját, és figyelje a hirdetőtáblákat az ingyenes nyári kulturális eseményekért.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei din Cubelles, un centru istoric al vieții locale, și verificați avizierul pentru evenimente culturale gratuite de vară.",
+            "en": "Admire the charming architecture of Cubelles' town hall, a historical hub of local life, and check the bulletin board for free summer cultural events nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Travé",
+            "hu": "Can Travé",
+            "ro": "Can Travé",
+            "en": "Can Travé"
+          },
+          "coords": [
+            1.675023,
+            41.208746
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende klassizistische Fassade und die üppigen Gärten dieses einzigartigen Museumshauses und bringen Sie ein Weitwinkelobjektiv für die Statuen mit.",
+            "hu": "Fedezze fel ezen egyedülálló múzeumház lenyűgöző klasszicista homlokzatát és buja kertjeit, és mindenképpen hozzon nagylátószögű objektívet a mitológiai szobrokhoz.",
+            "ro": "Explorați fațada clasică fascinantă și grădinile luxuriante ale acestei case-muzeu unice, aducând un obiectiv cu unghi larg pentru a surprinde statuile mitologice.",
+            "en": "Explore the fascinating classical facade and lush gardens of this unique museum-house, bringing a wide-angle lens to capture the mythological statues."
+          }
+        },
+        {
+          "name": {
+            "de": "barraca de pedra seca 1172",
+            "hu": "barraca de pedra seca 1172",
+            "ro": "barraca de pedra seca 1172",
+            "en": "barraca de pedra seca 1172"
+          },
+          "coords": [
+            1.646163,
+            41.209384
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rustikalen Charme der traditionellen Trockenmauernhütten alter Bauern und tragen Sie festes Schuhwerk für die leicht unebenen Wege dorthin.",
+            "hu": "Fedezze fel az ősi gazdák által használt hagyományos szárazkő kunyhók rusztikus varázsát, és viseljen masszív cipőt a kissé egyenetlen megközelítési utakon.",
+            "ro": "Descoperiți farmecul rustic al colibelor tradiționale din piatră seacă folosite de fermieri antici, purtând încălțăminte robustă pentru potecile ușor inegale.",
+            "en": "Discover the rustic charm of traditional dry stone huts used by ancient farmers, wearing sturdy shoes for the slightly uneven pathways leading up to them."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona de bany adaptada a persones majors",
+            "hu": "Zona de bany adaptada a persones majors",
+            "ro": "Zona de bany adaptada a persones majors",
+            "en": "Zona de bany adaptada a persones majors"
+          },
+          "coords": [
+            1.633508,
+            41.192323
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen gut zugänglichen und friedlichen Küstenabschnitt, der für Komfort konzipiert wurde und perfekt ist, um sicher in die sanften Wellen zu waten.",
+            "hu": "Élvezze ezt a rendkívül akadálymentes és békés, kényelemre tervezett parti fürdőhelyet, amely tökéletes arra, hogy biztonságosan megmártózzon a lágy hullámokban.",
+            "ro": "Bucurați-vă de o zonă de înot de coastă foarte accesibilă și liniștită, perfectă pentru a intra în siguranță în valurile blânde ale Mării Mediterane.",
+            "en": "Enjoy a highly accessible and peaceful coastal swimming area designed for comfort, making it a perfect spot to wade safely into the gentle Mediterranean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Mota de Sant Pere",
+            "hu": "Platja de la Mota de Sant Pere",
+            "ro": "Platja de la Mota de Sant Pere",
+            "en": "Platja de la Mota de Sant Pere"
+          },
+          "coords": [
+            1.663481,
+            41.196987
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weitläufigen goldenen Sand dieses wunderschönen Mittelmeerstrandes und denken Sie an Sonnencreme, da Schatten hier eher begrenzt ist.",
+            "hu": "Pihenjen ennek a gyönyörű mediterrán strandnak a hatalmas aranyhomokján, és ne felejtsen el naptejet és vizet csomagolni, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse ale acestei frumoase plaje mediteraneene și nu uitați să luați cremă de soare, deoarece umbra este destul de limitată.",
+            "en": "Relax on the expansive golden sands of this beautiful Mediterranean beach, and remember to pack plenty of sunscreen and water as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument Charlie Rivel",
+            "hu": "Monument Charlie Rivel",
+            "ro": "Monument Charlie Rivel",
+            "en": "Monument Charlie Rivel"
+          },
+          "coords": [
+            1.676966,
+            41.201739
+          ],
+          "category": "historical",
+          "arrive_at": "16:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem legendären katalanischen Clown an diesem Denkmal die Ehre, idealerweise während der goldenen Stunde für wunderschöne Fotos mit malerischer Kulisse.",
+            "hu": "Tisztelegjen a legendás katalán bohóc előtt ennél az emlékműnél, ideális esetben az aranyórában érkezve, hogy gyönyörű fotókat készíthessen a festői háttérrel.",
+            "ro": "Aduceți un omagiu legendarului clovn catalan la acest monument dedicat, vizitând ideal în timpul orei de aur pentru fotografii superbe cu fundal pitoresc.",
+            "en": "Pay homage to the legendary Catalan clown at this dedicated monument, ideally visiting during golden hour for beautiful photos against the scenic backdrop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt anmutig im historischen Stadtzentrum und führt vom Rathausplatz zu einem prächtigen klassischen Herrenhaus. Mittags radeln Sie ins Landesinnere, um alte Trockenmauernhütten zu entdecken. Am Nachmittag wechseln Sie zu den sanften Meeresbrisen und breiten Sandstränden. Beenden Sie den Abend mit einem inspirierenden Stopp zum Sonnenuntergang am Charlie Rivel Denkmal.",
+        "hu": "A reggel kecsesen indul a történelmi városközpontban, a tértől egy klasszikus kúriáig tekerve. A déli túra a szárazföld belsejébe vezet, hogy felfedezze a rusztikus ősi szárazkő kunyhókat. Délutánra váltson a lágy tengeri szellőre és a széles homokos partokra egy kis pihenésért. Zárja az estét egy inspiráló naplementével a Charlie Rivel emlékműnél.",
+        "ro": "Dimineața începe grațios în centrul istoric, pedalând de la primărie spre un conac clasic grandios. La prânz mergeți spre interior pentru a descoperi colibe rustice antice din piatră seacă. Până după-amiază, treceți la briza blândă a mării și țărmurile largi de nisip pentru relaxare. Încheiați seara cu o oprire inspirată la apus la monumentul Charlie Rivel.",
+        "en": "Your morning kicks off gracefully in the historical town center, pedaling from the civic square to a grand classical mansion. Midday riding takes you inland to discover rustic ancient dry stone huts. By afternoon, transition to the gentle sea breezes and wide sandy shorelines for some well-deserved relaxation. Conclude the evening with an inspiring sunset stop at the Charlie Rivel monument."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "VG-003 Mulassa de pedra seca",
+            "hu": "VG-003 Mulassa de pedra seca",
+            "ro": "VG-003 Mulassa de pedra seca",
+            "en": "VG-003 Mulassa de pedra seca"
+          },
+          "coords": [
+            1.689541,
+            41.221782
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser beeindruckenden Trockenmauerstruktur, die alte ländliche Handwerkskunst zeigt, und achten Sie auf lokale Vögel, die in den Spalten nisten.",
+            "hu": "Túrázzon el ehhez az ősi vidéki kézművességet bemutató, lenyűgöző szárazkő építményhez, és figyelje a helyi madarakat, amelyek gyakran fészkelnek a résekben.",
+            "ro": "Faceți o drumeție la această structură impresionantă de piatră seacă, căutând păsările locale care cuibăresc adesea în crăpăturile pietrelor tradiționale.",
+            "en": "Hike to this impressive dry stone structure showcasing ancient rural craftsmanship, keeping an eye out for local birds that often nest in the crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "el Juí del Moro",
+            "hu": "el Juí del Moro",
+            "ro": "el Juí del Moro",
+            "en": "el Juí del Moro"
+          },
+          "coords": [
+            1.68261,
+            41.221939
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses malerische Naturschutzgebiet mit einer fantastischen Perspektive über die Landschaft, ideal für ein friedliches Picknick unter den Bäumen.",
+            "hu": "Sétáljon át ezen a festői természeti területen, amely fantasztikus kilátást nyújt a tájra, ideális egy békés délelőtti piknikhez a fák árnyékában.",
+            "ro": "Plimbați-vă prin această zonă naturală pitorească, care oferă o perspectivă înaltă fantastică asupra peisajului, ideală pentru un picnic liniștit sub copaci.",
+            "en": "Stroll through this scenic natural area offering a fantastic elevated perspective over the landscape, ideal for a peaceful mid-morning picnic under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Barraca del Juí del Moro 4 - 1142",
+            "hu": "Barraca del Juí del Moro 4 - 1142",
+            "ro": "Barraca del Juí del Moro 4 - 1142",
+            "en": "Barraca del Juí del Moro 4 - 1142"
+          },
+          "coords": [
+            1.679496,
+            41.224334
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die komplexe Konstruktion dieses historischen landwirtschaftlichen Unterstands und treten Sie kurz ein, um die natürliche Kühlung zu spüren.",
+            "hu": "Vizsgálja meg közelebbről ennek a történelmi mezőgazdasági menedéknek a bonyolult felépítését, és lépjen be röviden, hogy érezze a természetes hűsítő hatást.",
+            "ro": "Examinați de aproape construcția complexă a acestui adăpost agricol istoric, pășind scurt înăuntru pentru a simți cum răcorește natural aerul fierbinte de vară.",
+            "en": "Examine the intricate construction of this historical agricultural shelter up close, stepping inside briefly to feel how it naturally cools the hot summer air."
+          }
+        },
+        {
+          "name": {
+            "de": "barraca de pedra seca 1176",
+            "hu": "barraca de pedra seca 1176",
+            "ro": "barraca de pedra seca 1176",
+            "en": "barraca de pedra seca 1176"
+          },
+          "coords": [
+            1.650693,
+            41.214677
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese hervorragend erhaltene, in den Feldern versteckte Trockenmauerstruktur und bringen Sie ein GPS mit, da die Wegmarkierungen spärlich sind.",
+            "hu": "Csodálja meg ezt a mezőkön megbúvó, kiválóan karbantartott szárazkő építményt, és hozzon magával GPS-t, mivel a turistajelzések errefelé meglehetősen ritkák.",
+            "ro": "Minunați-vă de această structură de piatră seacă excelent conservată ascunsă pe câmpuri, aducând o aplicație GPS, deoarece marcajele de traseu pot fi rare.",
+            "en": "Marvel at this excellently preserved dry stone structure hidden in the fields, bringing a compass or GPS app since trail markers here can be sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Travé",
+            "hu": "Can Travé",
+            "ro": "Can Travé",
+            "en": "Can Travé"
+          },
+          "coords": [
+            1.675023,
+            41.208746
+          ],
+          "category": "museum",
+          "arrive_at": "14:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende klassizistische Fassade und die üppigen Gärten dieses einzigartigen Museumshauses und bringen Sie ein Weitwinkelobjektiv für die Statuen mit.",
+            "hu": "Fedezze fel ezen egyedülálló múzeumház lenyűgöző klasszicista homlokzatát és buja kertjeit, és mindenképpen hozzon nagylátószögű objektívet a mitológiai szobrokhoz.",
+            "ro": "Explorați fațada clasică fascinantă și grădinile luxuriante ale acestei case-muzeu unice, aducând un obiectiv cu unghi larg pentru a surprinde statuile mitologice.",
+            "en": "Explore the fascinating classical facade and lush gardens of this unique museum-house, bringing a wide-angle lens to capture the mythological statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Cubelles",
+            "hu": "Ajuntament de Cubelles",
+            "ro": "Ajuntament de Cubelles",
+            "en": "Ajuntament de Cubelles"
+          },
+          "coords": [
+            1.672575,
+            41.207512
+          ],
+          "category": "historical",
+          "arrive_at": "16:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des Rathauses von Cubelles, einem historischen Zentrum des lokalen Lebens, und achten Sie auf Aushänge zu kostenlosen Sommerveranstaltungen.",
+            "hu": "Csodálja meg Cubelles városházájának bájos építészetét, a helyi élet történelmi központját, és figyelje a hirdetőtáblákat az ingyenes nyári kulturális eseményekért.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei din Cubelles, un centru istoric al vieții locale, și verificați avizierul pentru evenimente culturale gratuite de vară.",
+            "en": "Admire the charming architecture of Cubelles' town hall, a historical hub of local life, and check the bulletin board for free summer cultural events nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Mota de Sant Pere",
+            "hu": "Platja de la Mota de Sant Pere",
+            "ro": "Platja de la Mota de Sant Pere",
+            "en": "Platja de la Mota de Sant Pere"
+          },
+          "coords": [
+            1.663481,
+            41.196987
+          ],
+          "category": "recreational",
+          "arrive_at": "18:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weitläufigen goldenen Sand dieses wunderschönen Mittelmeerstrandes und denken Sie an Sonnencreme, da Schatten hier eher begrenzt ist.",
+            "hu": "Pihenjen ennek a gyönyörű mediterrán strandnak a hatalmas aranyhomokján, és ne felejtsen el naptejet és vizet csomagolni, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse ale acestei frumoase plaje mediteraneene și nu uitați să luați cremă de soare, deoarece umbra este destul de limitată.",
+            "en": "Relax on the expansive golden sands of this beautiful Mediterranean beach, and remember to pack plenty of sunscreen and water as shade is quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in den üppigen nördlichen Außenbezirken, wo Sie alte Steinstrukturen in den Hügeln erkunden. Mittags verlagert sich der Fokus auf weite Naturpanoramen und landwirtschaftliche Hütten. Nachmittags kehren Sie für eine Mischung aus Museen und Geschichte ins Zentrum von Cubelles zurück. Der Abend endet herrlich mit einem lebhaften Sonnenuntergang am weitläufigen Küstenstrand.",
+        "hu": "Az utazás az északi peremvidéken indul, a dombok között megbúvó ősi kőépítmények felfedezésével. Délben a tágas természeti panorámák, majd a mezőgazdasági kunyhók kerülnek előtérbe. Délután térjen vissza Cubelles szívébe a múzeumok és a történelem keverékéért. Az este dicsőségesen zárul egy vibráló naplementével a kiterjedt tengerparton.",
+        "ro": "Plimbarea începe la periferia nordică luxuriantă, explorând structuri antice de piatră ascunse printre dealuri. Prânzul se mută spre panorame naturale ample, înainte de a coborî la colibele agricole interioare. După-amiaza, reveniți în inima orașului Cubelles pentru o combinație de muzee și istorie. Seara se încheie glorios cu un apus vibrant de-a lungul plajei extinse.",
+        "en": "Your drive begins in the lush northern outskirts, exploring ancient stone structures hidden among the hills. Midday shifts toward sweeping natural panoramas before winding down to the fascinating inland agricultural huts. In the afternoon, return to the heart of Cubelles for a mix of museums and civic history. Evening concludes gloriously with a vibrant sunset along the expansive coastal beach."
+      }
+    }
+  }
+}

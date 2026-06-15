@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-northam",
+  "anchor": {
+    "name": "Northam",
+    "coords": [
+      -4.2104,
+      51.0393
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:01",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Northam Bibliothek",
+            "hu": "Northam Könyvtár",
+            "ro": "Biblioteca Northam",
+            "en": "Northam Library"
+          },
+          "coords": [
+            -4.213926,
+            51.038561
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den lokalgeschichtlichen Sammlungen dieses ruhigen Gemeindezentrums, bevor Sie hinausgehen, und werfen Sie einen Blick auf das schwarze Brett.",
+            "hu": "Böngéssze át a helytörténeti gyűjteményeket ebben a csendes közösségi központban, mielőtt továbbindulna, és vessen egy pillantást a hirdetőtáblára is.",
+            "ro": "Răsfoiți colecțiile de istorie locală în acest centru civic liniștit înainte de a ieși, aruncând o privire pe avizier pentru evenimentele comunității de astăzi.",
+            "en": "Browse the local history collections in this quiet civic hub before stepping out, keeping an eye on their noticeboard for community events today."
+          }
+        },
+        {
+          "name": {
+            "de": "Northam Kriegerdenkmal",
+            "hu": "Northam Háborús Emlékmű",
+            "ro": "Monumentul Eroilor Northam",
+            "en": "Northam War Memorial"
+          },
+          "coords": [
+            -4.214323,
+            51.037168
+          ],
+          "category": "civic",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal zu Ehren der gefallenen Helden des Dorfes inne und lesen Sie die detaillierten Inschriften auf dem Steinsockel.",
+            "hu": "Álljon meg egy pillanatra tisztelegni a falu elesett hősei előtt ennél az ünnepélyes emlékműnél, és feltétlenül olvassa el a kőtalapzaton lévő feliratokat.",
+            "ro": "Opriți-vă pentru a reflecta la acest monument solemn care onorează eroii căzuți ai satului, asigurându-vă că citiți inscripțiile detaliate de pe baza de piatră.",
+            "en": "Pause to reflect at this solemn monument honoring the village's fallen heroes, making sure to read the detailed inscriptions on its stone base."
+          }
+        },
+        {
+          "name": {
+            "de": "St Margaret's Kirche",
+            "hu": "Szent Margit templom",
+            "ro": "Biserica Sf. Margareta",
+            "en": "St Margaret's Church"
+          },
+          "coords": [
+            -4.214077,
+            51.040233
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die alte Architektur dieser historischen Kirche und beachten Sie den markanten Turm.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és ősi építészetét, figyelve a kiemelkedő toronyra, amely régóta irányítja a tengerészeket.",
+            "ro": "Admirați vitraliile frumoase și arhitectura antică a acestei biserici istorice, remarcând turnul proeminent care a ghidat marinarii de secole.",
+            "en": "Admire the beautiful stained glass and ancient architecture of this historic church, noting the prominent tower that has guided sailors for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Westward Ho! Strand",
+            "hu": "Westward Ho! Strand",
+            "ro": "Plaja Westward Ho!",
+            "en": "Westward Ho! Beach"
+          },
+          "coords": [
+            -4.229496,
+            51.0413
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weiten goldenen Sand dieses berühmten Strandes, aber prüfen Sie vorher immer die Gezeiten, um die breite Küstenlinie sicher zu genießen.",
+            "hu": "Sétáljon végig e híres strand hatalmas, aranyszínű homokján, de előtte mindig ellenőrizze az árapály idejét, hogy biztonságosan élvezhesse a széles partot.",
+            "ro": "Plimbați-vă de-a lungul vastei întinderi de nisip auriu la această plajă faimoasă, dar verificați întotdeauna orele mareelor în prealabil pentru a vă bucura în siguranță.",
+            "en": "Stroll along the vast expanse of golden sands at this famous beach, but always check the tide times beforehand to safely enjoy the wide shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Pebble Ridge",
+            "hu": "Pebble Ridge",
+            "ro": "Pebble Ridge",
+            "en": "Pebble Ridge"
+          },
+          "coords": [
+            -4.235226,
+            51.043262
+          ],
+          "category": "natural",
+          "arrive_at": "12:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einzigartige geologische Formation riesiger, glatter Steine, die die Burrows schützen, und tragen Sie feste Wanderschuhe für den Untergrund.",
+            "hu": "Figyelje meg a homokdűnéket védő hatalmas, sima kövek egyedülálló geológiai képződményét, és viseljen masszív túracipőt az egyenetlen felületen való járáshoz.",
+            "ro": "Observați formațiunea geologică unică de pietre masive netede care protejează dunele, purtând bocanci de drumeție rezistenți pentru a naviga în siguranță.",
+            "en": "Observe the unique geological formation of massive smooth stones that protect the burrows, wearing sturdy walking boots to safely navigate the uneven surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem ruhigen Eintauchen in die Stadtgeschichte an der Bibliothek und dem Kriegerdenkmal, bevor Sie die alte St. Margaret's Church erkunden. Mittags geht es in Richtung Küste, hinab zu den weiten Stränden von Westward Ho!. Den Nachmittag verbringen Sie mit einem Spaziergang entlang des markanten Pebble Ridge. Der Abend bringt einen ruhigen Sonnenuntergang am Meer.",
+        "hu": "A reggel a helyi történelem csendes elmerülésével kezdődik a könyvtárnál és a háborús emlékműnél, mielőtt felfedezné a Szent Margit-templomot. A dél a part felé visz, lassan leereszkedve a Westward Ho! hatalmas homokjához. A délutánt a lenyűgöző Pebble Ridge mentén sétálva tölti, élvezve az óceáni szellőt. Az este békés tengerparti naplementét hoz.",
+        "ro": "Dimineața începe cu o imersiune liniștită în istoria civică la biblioteca locală și monumentul eroilor, înainte de a explora Biserica Sf. Margareta. Amiaza vă duce spre coastă, coborând încet spre nisipurile vaste de la Westward Ho!. După-amiaza este petrecută plimbându-vă de-a lungul impresionantului Pebble Ridge. Seara aduce un apus liniștit la malul mării.",
+        "en": "Morning begins with a quiet immersion into civic history at the local library and war memorial, before exploring the ancient grounds of St Margaret's Church. Midday takes you towards the coast, descending slowly towards the expansive sands of Westward Ho! Beach. The afternoon is spent walking along the striking Pebble Ridge, enjoying the ocean breeze. Evening brings a peaceful seaside sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturreservat Kenwith Valley",
+            "hu": "Kenwith Valley Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Valea Kenwith",
+            "en": "Kenwith Valley Nature Reserve"
+          },
+          "coords": [
+            -4.217144,
+            51.023506
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche morgendliche Fahrt durch vielfältige Lebensräume, beobachten Sie die heimische Vogelwelt und bringen Sie ein Fernglas mit.",
+            "hu": "Élvezze a békés reggeli tekerést a változatos élőhelyeken, figyelje meg a helyi madárvilágot, és hozzon magával távcsövet a tó madarainak megtekintéséhez.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită prin habitate diverse observând păsările locale și aduceți un binoclu pentru a privi mai de aproape păsările de pe lac.",
+            "en": "Enjoy a peaceful morning ride through diverse habitats spotting local birdlife, and bring binoculars to get a closer look at the waterfowl on the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "St Margaret's Kirche",
+            "hu": "Szent Margit templom",
+            "ro": "Biserica Sf. Margareta",
+            "en": "St Margaret's Church"
+          },
+          "coords": [
+            -4.214077,
+            51.040233
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Steigen Sie ab, um das alte Kirchengelände zu erkunden, beachten Sie den markanten Turm, und parken Sie Ihr Fahrrad sicher am Haupttor.",
+            "hu": "Szálljon le, hogy felfedezze az ősi templomkert területét, figyelve az égboltot uraló tornyot, és parkolja le kerékpárját biztonságosan a főkapuknál.",
+            "ro": "Descălecați pentru a explora terenurile antice ale bisericii, remarcând turnul izbitor care domină orizontul și parcați-vă bicicleta la porțile principale.",
+            "en": "Dismount to explore the ancient church grounds, noting the striking tower that dominates the skyline, and park your bike securely by the main gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Northam Burrows",
+            "hu": "Northam Burrows",
+            "ro": "Northam Burrows",
+            "en": "Northam Burrows"
+          },
+          "coords": [
+            -4.208105,
+            51.051073
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch dieses Salzwiesen- und Dünensystem, um die raue Küstenschönheit zu schätzen, und bleiben Sie auf den markierten Wegen zum Schutz der Natur.",
+            "hu": "Kerékpározzon keresztül ezen a hihetetlen sós mocsár- és dűnerendszeren, a kijelölt utakon maradva a törékeny ökoszisztéma védelme érdekében.",
+            "ro": "Ciclism prin acest sistem incredibil de mlaștini sărate și dune pentru a aprecia frumusețea aspră, rămânând pe potecile desemnate pentru a proteja ecosistemul.",
+            "en": "Cycle through this incredible salt marsh and dune system to appreciate the rugged coastal beauty, sticking to the designated paths to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal North Devon Golf Club",
+            "hu": "Royal North Devon Golf Club",
+            "ro": "Royal North Devon Golf Club",
+            "en": "Royal North Devon Golf Club"
+          },
+          "coords": [
+            -4.226,
+            51.046
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in der Nähe des ältesten Golfplatzes Englands, um die Spieler zu beobachten, und bestellen Sie ein erfrischendes Getränk im Küstencafé.",
+            "hu": "Tartson egy kis szünetet Anglia legrégebbi golfpályája közelében, hogy megnézze a játékosokat, és rendeljen egy frissítő italt a közeli kávézóban.",
+            "ro": "Faceți o pauză lângă cel mai vechi teren de golf din Anglia pentru a urmări jucătorii pe teren, comandând o băutură răcoritoare la cafeneaua din apropiere.",
+            "en": "Take a break near the oldest golf course in England to watch the players on the links, ordering a refreshing drink at the nearby coastal cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Pebble Ridge",
+            "hu": "Pebble Ridge",
+            "ro": "Pebble Ridge",
+            "en": "Pebble Ridge"
+          },
+          "coords": [
+            -4.235226,
+            51.043262
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad entlang der beeindruckenden natürlichen Barriere aus großen runden Steinen und seien Sie vorsichtig, da diese bei Nässe rutschig sind.",
+            "hu": "Tolja végig kerékpárját a nagy kerek kövekből álló lenyűgöző természetes gáton, óvatosan lépkedve, mivel a kavicsok nedvesen csúszósak lehetnek.",
+            "ro": "Plimbați-vă bicicleta de-a lungul barierei naturale impresionante de pietre mari, fiind precauți deoarece pietricelele pot fi alunecoase când sunt umede.",
+            "en": "Walk your bike along the impressive natural barrier of large rounded stones, being cautious as the pebbles can be surprisingly slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Westward Ho! Strand",
+            "hu": "Westward Ho! Strand",
+            "ro": "Plaja Westward Ho!",
+            "en": "Westward Ho! Beach"
+          },
+          "coords": [
+            -4.229496,
+            51.0413
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt mit einem Spaziergang am Sandstrand, schließen Sie Ihr Fahrrad an der Promenade ab, bevor Sie für den Sonnenuntergang ans Wasser gehen.",
+            "hu": "Fejezze be az utat egy sétával a homokos strandon, zárja le kerékpárját a sétányon lévő tárolóknál, mielőtt lemenne a vízhez egy pihentető naplementére.",
+            "ro": "Încheiați-vă plimbarea cu o plimbare pe plaja vastă cu nisip, blocându-vă bicicleta la promenadă înainte de a coborî la apă pentru a viziona apusul.",
+            "en": "End your ride with a walk on the expansive sandy beach, locking your bike at the promenade racks before heading down to the water for a relaxing sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradtag beginnt mit der Vogelbeobachtung im ruhigen Kenwith Valley Nature Reserve, gefolgt von einem Stopp an der St. Margaret's Church. Gegen Mittag radeln Sie durch die Salzwiesen der Northam Burrows. Am Nachmittag passieren Sie den historischen Golfclub und den riesigen Pebble Ridge. Ihre Reise endet mit einem entspannten Abend am Westward Ho! Strand.",
+        "hu": "A kerékpáros nap a madármegfigyeléssel kezdődik a békés Kenwith Valley Természetvédelmi Területen, amelyet egy kulturális megálló követ a Szent Margit templomnál. Délre a Northam Burrows mocsarain keresztül halad. Délután elhalad a történelmi golfklub és a hatalmas Pebble Ridge mellett. Utazása egy pihentető estével zárul a Westward Ho! strandon.",
+        "ro": "Ziua de ciclism începe cu observarea păsărilor la liniștita Rezervație Valea Kenwith, urmată de o oprire culturală la Biserica Sf. Margareta. Până la prânz, veți merge prin mlaștinile sărate din Northam Burrows. După-amiaza, treceți pe lângă clubul de golf istoric și imensul Pebble Ridge. Călătoria se încheie cu o seară relaxantă la plaja Westward Ho!",
+        "en": "Your cycling day starts with birdwatching at the peaceful Kenwith Valley Nature Reserve, followed by a cultural stop at St Margaret's Church. By midday, you'll be riding through the stunning salt marshes of Northam Burrows. In the afternoon, you pass the historic Royal North Devon Golf Club and the immense Pebble Ridge. Your journey concludes with a relaxing evening at Westward Ho! Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Appledore Quay",
+            "hu": "Appledore Quay",
+            "ro": "Appledore Quay",
+            "en": "Appledore Quay"
+          },
+          "coords": [
+            -4.193129,
+            51.051438
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der charmanten, historischen Uferpromenade voller bunter Fischerhäuschen entlang und holen Sie sich ein Gebäck in einer örtlichen Bäckerei.",
+            "hu": "Sétáljon végig a bájos, színes halászkunyhókkal teli történelmi vízparton, és vegyen egy frissen sült péksüteményt, miközben élvezi a torkolatra nyíló kilátást.",
+            "ro": "Plimbați-vă de-a lungul fermecătoarei faleză istorice, plină de căsuțe colorate, și luați o patiserie proaspătă de la o brutărie pentru a vă bucura de priveliște.",
+            "en": "Walk along the charming, historic waterfront filled with colorful fishing cottages, and grab a freshly baked pastry from a local bakery to enjoy the estuary views."
+          }
+        },
+        {
+          "name": {
+            "de": "West Appledore",
+            "hu": "West Appledore",
+            "ro": "West Appledore",
+            "en": "West Appledore"
+          },
+          "coords": [
+            -4.193229,
+            51.05664
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigere Seite des Dorfes mit ihren verwinkelten Gassen und halten Sie Ihre Kamera bereit für unerwartete, malerische Ausblicke.",
+            "hu": "Fedezze fel a falu csendesebb oldalát a kanyargós, szűk utcáival, tartsa készenlétben a fényképezőgépét, hogy megörökítse a festői kilátást.",
+            "ro": "Explorați partea mai liniștită a satului cu străzile sale înguste, ținând aparatul foto pregătit pentru priveliști neașteptate între clădirile istorice.",
+            "en": "Explore the quieter side of the village with its winding narrow streets, keeping your camera ready for unexpected, picturesque views between the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Instow Strand",
+            "hu": "Instow Strand",
+            "ro": "Plaja Instow",
+            "en": "Instow Beach"
+          },
+          "coords": [
+            -4.180465,
+            51.056094
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem schönen Sandstreifen über die Torridge-Mündung und suchen Sie sich frühzeitig einen Parkplatz, da es in der Hochsaison voll werden kann.",
+            "hu": "Tekintsen át a Torridge torkolatán erről a szép homokos szakaszról, és keressen egy jó parkolóhelyet korán, mivel a főszezonban itt nagy a nyüzsgés.",
+            "ro": "Priviți peste estuarul Torridge de pe această frumoasă fâșie de nisip, găsind un loc de parcare devreme, deoarece devine aglomerat în perioadele de vârf.",
+            "en": "Look across the Torridge estuary from this lovely sandy stretch, finding a good parking spot early as it gets busy during peak holiday seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Northam Burrows",
+            "hu": "Northam Burrows",
+            "ro": "Northam Burrows",
+            "en": "Northam Burrows"
+          },
+          "coords": [
+            -4.208105,
+            51.051073
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam über die Mautstraße zu den weiten Gemeindeländereien und halten Sie am Zentrum, um mehr über die reiche Weidegeschichte zu erfahren.",
+            "hu": "Hajtson lassan végig a fizetős úton, hogy elérje a hatalmas közös földeket, és álljon meg a látogatóközpontban a vadvilág megismeréséhez.",
+            "ro": "Conduceți încet pe drumul cu plată pentru a accesa vastele terenuri comunale, oprindu-vă la centrul de vizitatori pentru a afla despre istoria bogată a zonei.",
+            "en": "Drive slowly through the toll road to access the vast common lands, pausing at the visitor center to learn about the area's rich grazing history and unique wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Northam Strand",
+            "hu": "Northam Strand",
+            "ro": "Plaja Northam",
+            "en": "Northam Beach"
+          },
+          "coords": [
+            -4.224394,
+            51.053678
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie einen Spaziergang an diesem ruhigen Strandabschnitt. Bringen Sie eine Windjacke für die frischen Küstenbrisen mit.",
+            "hu": "Parkoljon le a közelben, és élvezze a csendes sétát a partvonal e kevésbé zsúfolt szakaszán, hozzon magával széldzsekit a hűvös parti szellő ellen.",
+            "ro": "Parcați în apropiere și bucurați-vă de o plimbare liniștită pe această secțiune mai puțin aglomerată a coastei, aducând un paravânt pentru briza puternică.",
+            "en": "Park nearby and enjoy a quiet stroll on this less crowded section of the shoreline, bringing a windbreaker as the coastal breezes can be quite brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pebble Ridge",
+            "hu": "Pebble Ridge",
+            "ro": "Pebble Ridge",
+            "en": "Pebble Ridge"
+          },
+          "coords": [
+            -4.235226,
+            51.043262
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe der Kieselbank, die die Küste verteidigt, und seien Sie vorsichtig, wenn Sie auf den losen Steinen laufen.",
+            "hu": "Csodálja meg a partvonalat védő kavicspad hatalmas méreteit, vigyázva, amikor a laza köveken sétál, amelyek könnyen elmozdulnak a súlya alatt.",
+            "ro": "Minunați-vă de scara uriașă a bancului de pietriș care apără coasta, având grijă atunci când mergeți pe pietrele libere care se deplasează sub greutate.",
+            "en": "Marvel at the sheer scale of the pebble bank defending the coastline, taking care when walking on the loose stones which shift under your weight."
+          }
+        },
+        {
+          "name": {
+            "de": "Westward Ho! Strand",
+            "hu": "Westward Ho! Strand",
+            "ro": "Plaja Westward Ho!",
+            "en": "Westward Ho! Beach"
+          },
+          "coords": [
+            -4.229496,
+            51.0413
+          ],
+          "category": "natural",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenfahrt an diesem berühmten Surfspot, sichern Sie sich einen Parkplatz, bevor Sie ein herzhaftes Abendessen in einem Pub genießen.",
+            "hu": "Fejezze be tengerparti útját ezen az ikonikus szörfözőhelyen, biztosítva egy helyet a fő parkolóban, mielőtt elfogyasztana egy kiadós vacsorát a kocsmában.",
+            "ro": "Încheiați-vă drumul pe coastă la acest loc iconic de surfing, asigurându-vă un loc în parcarea principală înainte de a vă bucura de o cină consistentă.",
+            "en": "Finish your coastal drive at this iconic surfing spot, securing a spot in the main car park before enjoying a hearty seaside dinner at a local pub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine malerische Fahrt beginnt am historischen Appledore Quay, wo Sie bunte Straßen erkunden und die Aussicht vom Instow Beach genießen. Mittags fahren Sie in die weiten Dünenlandschaften der Northam Burrows. Nachmittags parken Sie beim Northam Beach und bestaunen die Steine des Pebble Ridge. Am Abend genießen Sie die lebhafte Surfatmosphäre in Westward Ho!",
+        "hu": "A festői utazás a történelmi Appledore Quay-nél kezdődik, színes utcákat fedezve fel, majd élvezve a kilátást az Instow Beachről. Délben a Northam Burrows hatalmas dűnetájaira vezet az út. Délután a Northam Beachnél parkol, és megcsodálja a Pebble Ridge hatalmas köveit. Ahogy leszáll az est, élvezze az élénk hangulatot a Westward Ho! partján.",
+        "ro": "O plimbare pitorească începe la istoricul Appledore Quay, explorând străzile colorate înainte de a prinde priveliștile de pe plaja Instow. Amiaza vă conduce în peisajele de dune din Northam Burrows. După-amiaza, veți parca lângă plaja Northam și vă veți minuna de Pebble Ridge. Odată cu lăsarea serii, bucurați-vă de atmosfera de la Westward Ho!",
+        "en": "A scenic drive begins at the historic Appledore Quay, exploring colorful streets before catching estuary views from Instow Beach. Midday leads you into the expansive dune landscapes of Northam Burrows. During the afternoon, you'll park near Northam Beach and marvel at the massive stones of Pebble Ridge. As evening falls, enjoy the lively surfing atmosphere and a seaside meal at Westward Ho!"
+      }
+    }
+  }
+}

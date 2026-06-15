@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-santa-caterina-cities-v2",
+  "anchor": {
+    "name": "Santa Caterina",
+    "coords": [
+      17.98411,
+      40.14101
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 1.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggetta Santa Caterina",
+            "hu": "Spiaggetta Santa Caterina",
+            "ro": "Spiaggetta Santa Caterina",
+            "en": "Spiaggetta Santa Caterina"
+          },
+          "coords": [
+            17.985622,
+            40.139676
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen hier, um das ruhigste Wasser zu genießen, aber bringen Sie unbedingt Badeschuhe mit.",
+            "hu": "Kezdje itt a reggelt, hogy élvezhesse a legnyugodtabb vizet, de mindenképp hozzon magával vízicipőt a kavicsok miatt.",
+            "ro": "Începeți dimineața aici pentru a vă bucura de apele liniștite, dar aduceți încălțăminte de apă pentru pietriș.",
+            "en": "Start your morning here to enjoy the calmest waters, but bring water shoes as the entry is quite pebbly."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Caterina Beach",
+            "hu": "Santa Caterina Beach",
+            "ro": "Santa Caterina Beach",
+            "en": "Santa Caterina Beach"
+          },
+          "coords": [
+            17.987099,
+            40.140544
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Dieser zentrale Strand ist schnell voll, sichern Sie sich also frühzeitig einen Platz für die tolle Atmosphäre.",
+            "hu": "Ez a központi strand gyorsan megtelik, ezért foglaljon helyet korán, hogy élvezhesse a helyi hangulatot.",
+            "ro": "Această plajă centrală se aglomerează repede, deci asigurați-vă un loc devreme pentru a vă bucura de atmosferă.",
+            "en": "This central beach gets busy quickly, so secure your spot early to enjoy the vibrant local atmosphere safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta di Capelvenere",
+            "hu": "Grotta di Capelvenere",
+            "ro": "Grotta di Capelvenere",
+            "en": "Grotta di Capelvenere"
+          },
+          "coords": [
+            17.979058,
+            40.142442
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese atemberaubende Meereshöhle vom Küstenpfad aus und halten Sie Abstand von den Rändern.",
+            "hu": "Csodálja meg ezt a lenyűgöző tengeri barlangot az ösvényről, és tartson biztonságos távolságot a csúszós peremtől.",
+            "ro": "Admirați această uimitoare peșteră marină de pe poteca de coastă, păstrând o distanță sigură de marginile alunecoase.",
+            "en": "Admire this stunning natural sea cave from the coastal path, keeping a safe distance from the slippery edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dell'Alto",
+            "hu": "Torre dell'Alto",
+            "ro": "Torre dell'Alto",
+            "en": "Torre dell'Alto"
+          },
+          "coords": [
+            17.976889,
+            40.142931
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Wachturm hinauf für die besten Fotos, aber tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Másszon fel ehhez a történelmi őrtoronyhoz a legjobb fotókért, de viseljen erős cipőt a meredek emelkedőhöz.",
+            "ro": "Urcați la acest turn de veghe istoric pentru cele mai bune poze, dar purtați încălțăminte solidă pentru urcuș.",
+            "en": "Climb up to this historic watchtower for the best panoramic photos, but wear sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Selvaggio",
+            "hu": "Spiaggia di Porto Selvaggio",
+            "ro": "Spiaggia di Porto Selvaggio",
+            "en": "Spiaggia di Porto Selvaggio"
+          },
+          "coords": [
+            17.974785,
+            40.148071
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Naturschutzgebiet, wo der Pinienwald auf das Meer trifft, und packen Sie ein Picknick ein.",
+            "hu": "Pihenjen ebben az érintetlen természetvédelmi területen, és csomagoljon pikniket a délutáni tengerparti lazításhoz.",
+            "ro": "Relaxați-vă în această rezervație virgină, unde pădurea de pini întâlnește marea, și luați un picnic pentru prânz.",
+            "en": "Relax in this pristine nature reserve, where the pine forest meets the sea, and pack a picnic for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Gaia",
+            "hu": "Grotta Gaia",
+            "ro": "Grotta Gaia",
+            "en": "Grotta Gaia"
+          },
+          "coords": [
+            17.974089,
+            40.146805
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem versteckten Naturjuwel, das sich perfekt für eine ruhige Reflexion eignet.",
+            "hu": "Fejezze be sétáját ennél a rejtett természeti kincsnél, amely tökéletes a csendes elmélkedésre a tenger mellett.",
+            "ro": "Încheiați plimbarea la această bijuterie naturală ascunsă, perfectă pentru relaxare, deși înotul necesită prudență.",
+            "en": "Conclude your walk at this hidden natural gem, perfect for quiet reflection, though swimming here requires caution."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der charmanten Spiaggetta, wo Sie die sanfte Mittelmeerbrise spüren können. Mittags führt ein Spaziergang nach Norden durch üppige Natur zur Grotta di Capelvenere. Der Nachmittag belohnt Sie mit den herrlichen Ausblicken vom Torre dell'Alto auf das Meer. Der Abend bricht über der Grotta Gaia herein und bietet einen ruhigen Sonnenuntergang.",
+        "hu": "A reggel a hangulatos Spiaggettán indul, ahol azonnal megérint a lágy mediterrán szellő. Délben egy északi séta a buja természeten át a Grotta di Capelvenere felé vezet. A délután a Torre dell'Alto lenyűgöző kilátásával és a Porto Selvaggio tiszta vizeivel jutalmaz. Az este a Grotta Gaia közelében köszönt ránk, csendes naplementét kínálva.",
+        "ro": "Dimineața începe la fermecătoarea Spiaggetta, simțind briza blândă și caldă a Mediteranei. Până la prânz, o plimbare spre nord vă poartă prin natura luxuriantă până la Grotta di Capelvenere. După-amiaza vă răsplătește cu priveliștile emblematice de la Torre dell'Alto spre apă. Seara se lasă peste Grotta Gaia, oferind un apus de soare liniștit pe mal.",
+        "en": "Morning begins at the charming Spiaggetta, feeling the gentle Mediterranean breeze. By midday, a stroll north takes you through lush nature to Grotta di Capelvenere. The afternoon rewards you with the iconic Torre dell'Alto views and pristine Porto Selvaggio waters. Evening falls over Grotta Gaia, offering a tranquil sunset by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Caterina Beach",
+            "hu": "Santa Caterina Beach",
+            "ro": "Santa Caterina Beach",
+            "en": "Santa Caterina Beach"
+          },
+          "coords": [
+            17.987099,
+            40.140544
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser zentrale Strand ist schnell voll, sichern Sie sich also frühzeitig einen Platz für die tolle Atmosphäre.",
+            "hu": "Ez a központi strand gyorsan megtelik, ezért foglaljon helyet korán, hogy élvezhesse a helyi hangulatot.",
+            "ro": "Această plajă centrală se aglomerează repede, deci asigurați-vă un loc devreme pentru a vă bucura de atmosferă.",
+            "en": "This central beach gets busy quickly, so secure your spot early to enjoy the vibrant local atmosphere safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Beija-Flor",
+            "hu": "Lido Beija-Flor",
+            "ro": "Lido Beija-Flor",
+            "en": "Lido Beija-Flor"
+          },
+          "coords": [
+            17.984413,
+            40.13972
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in diesem eleganten Strandclub, aber buchen Sie Ihre Sonnenliege am besten vorab online.",
+            "hu": "Tartson szünetet ebben a stílusos strandklubban, de a napozóágyat érdemes előre, online lefoglalni a szezonban.",
+            "ro": "Faceți o pauză la acest club de plajă elegant, dar rezervați-vă șezlongul online în avans pentru siguranță.",
+            "en": "Take a break at this stylish beach club to enjoy local refreshments, booking your sunbed online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta dell'Aspide",
+            "hu": "Punta dell'Aspide",
+            "ro": "Punta dell'Aspide",
+            "en": "Punta dell'Aspide"
+          },
+          "coords": [
+            17.988471,
+            40.134565
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Radeln Sie an diesem rauen historischen Punkt vorbei, um den weiten Meerblick und die Informationstafeln zu genießen.",
+            "hu": "Tekerjen el e zord történelmi pont mellett a lenyűgöző kilátásért, és álljon meg elolvasni a tájékoztatókat.",
+            "ro": "Pedați pe lângă acest punct istoric accidentat pentru vederi la mare, oprindu-vă scurt pentru a citi plăcuțele.",
+            "en": "Cycle past this rugged historical point to enjoy sweeping sea views, stopping briefly to read the local placards."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Santa Maria al Bagno",
+            "hu": "Spiaggia di Santa Maria al Bagno",
+            "ro": "Spiaggia di Santa Maria al Bagno",
+            "en": "Spiaggia di Santa Maria al Bagno"
+          },
+          "coords": [
+            17.995844,
+            40.130674
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich im klaren, flachen Wasser dieser Sandbucht, die unglaublich familienfreundlich und sicher ist.",
+            "hu": "Frissüljön fel ennek a homokos öbölnek a tiszta, sekély vizében, amely hihetetlenül családbarát és biztonságos.",
+            "ro": "Răcoriți-vă în apele limpezi și puțin adânci ale acestui golf de nisip, care este incredibil de prietenos.",
+            "en": "Refresh yourself in the clear, shallow waters of this sandy bay, which is incredibly family-friendly and safe."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Acquario del Salento",
+            "hu": "Museo Acquario del Salento",
+            "ro": "Museo Acquario del Salento",
+            "en": "Museo Acquario del Salento"
+          },
+          "coords": [
+            17.9969,
+            40.128303
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die lokale Meeresbiodiversität; ein großartiger Halt, achten Sie jedoch auf die Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi tengeri biodiverzitást; nagyszerű oktatási állomás, de ellenőrizze a délutáni nyitvatartást.",
+            "ro": "Descoperiți biodiversitatea marină locală în interior, o oprire grozavă, dar verificați programul de după-amiază.",
+            "en": "Discover local marine biodiversity indoors, a great educational stop, and remember to check their afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Quattro Colonne",
+            "hu": "Quattro Colonne",
+            "ro": "Quattro Colonne",
+            "en": "Quattro Colonne"
+          },
+          "coords": [
+            17.997119,
+            40.125134
+          ],
+          "category": "landmark",
+          "arrive_at": "15:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad an diesen vier ikonischen Säulen einer unvollendeten Festung für spektakuläre Fotos.",
+            "hu": "Parkolja le kerékpárját egy befejezetlen erőd négy ikonikus oszlopánál a látványos aranyórás fényképezéshez.",
+            "ro": "Parcați bicicleta lângă acești patru piloni iconici ai unei fortărețe neterminate pentru fotografii spectaculoase.",
+            "en": "Park your bike by these four iconic pillars of an unfinished fortress for spectacular golden hour photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Strand von Santa Caterina und genießen Sie den Radweg entlang der Küste nach Süden. Mittags fahren Sie an der historischen Punta dell'Aspide vorbei zum lebhaften Strand. Nach dem Mittagessen tauchen Sie im Museo Acquario del Salento in die Meeresbiologie ein. Die Radtour endet malerisch bei den alten Türmen der Quattro Colonne.",
+        "hu": "Induljon a Santa Caterina strandról, élvezve a déli irányba tartó, tengerparti kerékpárutat. Délben a történelmi Punta dell'Aspide mellett halad el a nyüzsgő Santa Maria al Bagno felé. Ebéd után a Museo Acquario del Salento tengerbiológiai kincseit fedezheti fel. A tekerés a Quattro Colonne ősi tornyainak lenyűgöző látványával zárul a nap végén.",
+        "ro": "Porniți de la Plaja Santa Caterina, bucurându-vă de pista de biciclete de coastă spre sud. La prânz veți trece de istorica Punta dell'Aspide spre nisipurile vii din Santa Maria al Bagno. După prânz, aprofundați biologia marină la faimosul Museo Acquario del Salento. Plimbarea se încheie frumos lângă turnurile antice de la Quattro Colonne.",
+        "en": "Set off from Santa Caterina Beach, enjoying the coastal cycling path towards the south. Midday brings you past the historic Punta dell'Aspide to the lively sands of Santa Maria al Bagno. After lunch, delve into marine biology at the renowned Museo Acquario del Salento. The ride concludes gracefully by the ancient towers of Quattro Colonne."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 3.93,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cava Chianconi",
+            "hu": "Cava Chianconi",
+            "ro": "Cava Chianconi",
+            "en": "Cava Chianconi"
+          },
+          "coords": [
+            17.970065,
+            40.148722
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieses alten Kalksteinbruchs und parken Sie auf dem oberen Parkplatz.",
+            "hu": "Fedezze fel ennek a régi mészkőbányának a lenyűgöző maradványait, és feltétlenül a kijelölt felső parkolót használja.",
+            "ro": "Explorați rămășițele fascinante ale acestei vechi cariere, asigurându-vă că parcați în lotul superior desemnat.",
+            "en": "Explore the fascinating remnants of this old limestone quarry, making sure to park at the designated upper lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Carcara",
+            "hu": "Carcara",
+            "ro": "Carcara",
+            "en": "Carcara"
+          },
+          "coords": [
+            17.971425,
+            40.149843
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an dieser historischen Stätte und achten Sie auf die sehr unebenen und steinigen Wege.",
+            "hu": "Lépjen vissza az időben ezen a történelmi helyszínen, és közben ügyeljen a meglehetősen egyenetlen, sziklás utakra.",
+            "ro": "Întoarceți-vă în timp la acest sit istoric care dezvăluie industria locală, fiind atenți la potecile stâncoase.",
+            "en": "Step back in time at this historical site which reveals local industry, keeping an eye out for uneven rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Selvaggio",
+            "hu": "Spiaggia di Porto Selvaggio",
+            "ro": "Spiaggia di Porto Selvaggio",
+            "en": "Spiaggia di Porto Selvaggio"
+          },
+          "coords": [
+            17.974785,
+            40.148071
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Naturschutzgebiet, wo der Pinienwald auf das Meer trifft, und packen Sie ein Picknick ein.",
+            "hu": "Pihenjen ebben az érintetlen természetvédelmi területen, és csomagoljon pikniket a délutáni tengerparti lazításhoz.",
+            "ro": "Relaxați-vă în această rezervație virgină, unde pădurea de pini întâlnește marea, și luați un picnic pentru prânz.",
+            "en": "Relax in this pristine nature reserve, where the pine forest meets the sea, and pack a picnic for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dell'Alto",
+            "hu": "Torre dell'Alto",
+            "ro": "Torre dell'Alto",
+            "en": "Torre dell'Alto"
+          },
+          "coords": [
+            17.976889,
+            40.142931
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Wachturm hinauf für die besten Fotos, aber tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Másszon fel ehhez a történelmi őrtoronyhoz a legjobb fotókért, de viseljen erős cipőt a meredek emelkedőhöz.",
+            "ro": "Urcați la acest turn de veghe istoric pentru cele mai bune poze, dar purtați încălțăminte solidă pentru urcuș.",
+            "en": "Climb up to this historic watchtower for the best panoramic photos, but wear sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Caterina Beach",
+            "hu": "Santa Caterina Beach",
+            "ro": "Santa Caterina Beach",
+            "en": "Santa Caterina Beach"
+          },
+          "coords": [
+            17.987099,
+            40.140544
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieser zentrale Strand ist schnell voll, sichern Sie sich also frühzeitig einen Platz für die tolle Atmosphäre.",
+            "hu": "Ez a központi strand gyorsan megtelik, ezért foglaljon helyet korán, hogy élvezhesse a helyi hangulatot.",
+            "ro": "Această plajă centrală se aglomerează repede, deci asigurați-vă un loc devreme pentru a vă bucura de atmosferă.",
+            "en": "This central beach gets busy quickly, so secure your spot early to enjoy the vibrant local atmosphere safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Quattro Colonne",
+            "hu": "Quattro Colonne",
+            "ro": "Quattro Colonne",
+            "en": "Quattro Colonne"
+          },
+          "coords": [
+            17.997119,
+            40.125134
+          ],
+          "category": "landmark",
+          "arrive_at": "14:26",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.92,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad an diesen vier ikonischen Säulen einer unvollendeten Festung für spektakuläre Fotos.",
+            "hu": "Parkolja le kerékpárját egy befejezetlen erőd négy ikonikus oszlopánál a látványos aranyórás fényképezéshez.",
+            "ro": "Parcați bicicleta lângă acești patru piloni iconici ai unei fortărețe neterminate pentru fotografii spectaculoase.",
+            "en": "Park your bike by these four iconic pillars of an unfinished fortress for spectacular golden hour photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der historischen Cava Chianconi und entdecken Sie alte Wurzeln. Mittags geht es weiter zum herrlichen Küstenreservat mit dem berühmten Torre dell'Alto. Der Nachmittag bietet eine entspannte Strandpause direkt im Herzen von Santa Caterina. Beenden Sie Ihre epische Fahrt, wenn die Sonne brillant hinter Quattro Colonne untergeht.",
+        "hu": "Kezdje autós túráját a történelmi Cava Chianconinál, felfedezve az ősi kőfejtő gyökereit. A dél már a csodálatos partvidéken éri, a Torre dell'Alto és a Porto Selvaggio közelében. A délután pihentető tengerparti szünetet kínál egyenesen Santa Caterina szívében. Zárja le az epikus utazást, miközben a nap ragyogóan lenyugszik a Quattro Colonne mögött.",
+        "ro": "Începeți turul cu mașina la istorica Cava Chianconi, descoperind rădăcinile vechii cariere. La prânz ajungeți la magnifica rezervație de coastă, cu Torre dell'Alto și Porto Selvaggio. După-amiaza oferă o pauză relaxantă la plajă, chiar în inima stațiunii Santa Caterina. Încheiați călătoria epică în timp ce soarele apune uimitor în spatele Quattro Colonne.",
+        "en": "Start your driving tour at the historic Cava Chianconi, uncovering the ancient quarry roots. Midday transitions to the magnificent coastal reserve, featuring Torre dell'Alto and Porto Selvaggio. The afternoon offers a relaxing beach break right in the heart of Santa Caterina. Conclude your epic drive as the sun sets brilliantly behind Quattro Colonne."
+      }
+    }
+  }
+}

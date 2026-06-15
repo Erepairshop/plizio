@@ -1,0 +1,474 @@
+{
+  "city_id": "france-saint-jacut-de-la-mer-cities-v2",
+  "anchor": {
+    "name": "Saint-Jacut-de-la-Mer",
+    "coords": [
+      -2.1876,
+      48.60161
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 2.87,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre Culturel de la Presqu'île",
+            "hu": "Centre Culturel de la Presqu'île",
+            "ro": "Centre Culturel de la Presqu'île",
+            "en": "Centre Culturel de la Presqu'île"
+          },
+          "coords": [
+            -2.189503,
+            48.602034
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Kunst in diesem Zentrum und prüfen Sie das Veranstaltungsprogramm für Abendkonzerte.",
+            "hu": "Ismerje meg a tengerészeti történelmet és a helyi művészetet ebben a központban, és indulás előtt pillantson rá az esti koncertek listájára.",
+            "ro": "Descoperiți istoria maritimă și arta locală în acest centru cultural și verificați panoul de evenimente pentru concertele de seară înainte de a pleca.",
+            "en": "Discover the rich maritime history and local art in this central hub, and check their event board for evening concerts before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -2.188207,
+            48.601422
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Küstenkirche und nehmen Sie sich einen Moment Zeit für die Buntglasfenster, die das Morgenlicht sanft filtern.",
+            "hu": "Csodálja meg e tengerparti templom lenyűgöző építészetét, és szánjon egy percet az ólomüveg ablakokon átszűrődő lágy reggeli fény élvezetére.",
+            "ro": "Admirați arhitectura acestei biserici de coastă, alocându-vă un moment pentru a aprecia vitraliile care filtrează blând lumina dimineții.",
+            "en": "Admire the striking architecture of this coastal church, taking a moment to appreciate the stained glass windows that softly filter the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Abbaye",
+            "hu": "L'Abbaye",
+            "ro": "L'Abbaye",
+            "en": "L'Abbaye"
+          },
+          "coords": [
+            -2.190826,
+            48.602891
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Gelände dieser historischen Abtei mit Blick aufs Meer und bringen Sie eine Kamera für die gepflegten Meditationsgärten mit.",
+            "hu": "Fedezze fel a tengerre néző történelmi apátság nyugodt területét, és hozzon magával fényképezőgépet a tökéletesen gondozott kertek megörökítéséhez.",
+            "ro": "Explorați domeniul liniștit al acestei abații istorice cu vedere la mare și aduceți o cameră pentru a fotografia grădinile perfect îngrijite.",
+            "en": "Explore the tranquil grounds of this historic abbey overlooking the sea, and bring a camera to capture the perfectly manicured meditative gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Rougeret",
+            "hu": "Plage du Rougeret",
+            "ro": "Plage du Rougeret",
+            "en": "Plage du Rougeret"
+          },
+          "coords": [
+            -2.18741,
+            48.606603
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses windgeschützten Strandes und prüfen Sie die Gezeiten, wenn Sie zu den nahegelegenen Inseln laufen möchten.",
+            "hu": "Pihenjen ezen a szélvédett, úszásra kiváló strandon, de mindenképpen ellenőrizze az árapály idejét, ha a közeli szigetekre szeretne átsétálni.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, dar verificați orarul mareelor dacă plănuiți să vă plimbați spre insulele din apropiere.",
+            "en": "Relax on the fine sands of this sheltered beach ideal for swimming, but be sure to check the tide times if you plan to walk to the nearby islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Chevet",
+            "hu": "Pointe du Chevet",
+            "ro": "Pointe du Chevet",
+            "en": "Pointe du Chevet"
+          },
+          "coords": [
+            -2.195506,
+            48.610246
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Wandern Sie zur Nordspitze der Halbinsel für atemberaubende Ozeanpanoramen und tragen Sie festes Schuhwerk für die felsigen Pfade an den Klippen.",
+            "hu": "Sétáljon el a félsziget északi csücskébe a lenyűgöző óceáni panorámáért, és viseljen masszív cipőt a sziklafal melletti köves ösvények miatt.",
+            "ro": "Mergeți până în extremitatea nordică pentru panorame oceanice impresionante, purtând încălțăminte rezistentă pe cărările stâncoase de pe stânci.",
+            "en": "Hike to the northernmost tip of the peninsula for sweeping ocean panoramas, wearing sturdy shoes to navigate the rocky pathways near the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Béchet",
+            "hu": "Plage du Béchet",
+            "ro": "Plage du Béchet",
+            "en": "Plage du Béchet"
+          },
+          "coords": [
+            -2.194671,
+            48.598609
+          ],
+          "category": "recreational",
+          "arrive_at": "16:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem familienfreundlichen Strand, wo bunte Boote bei Ebbe im Sand ruhen und ein perfektes Motiv für Sonnenuntergangsfotos bieten.",
+            "hu": "Zárja a napot ezen a családbarát strandon, ahol a színes csónakok apálykor a homokban pihennek, tökéletes előteret nyújtva a naplementés fotókhoz.",
+            "ro": "Încheiați ziua pe această plajă, unde bărcile colorate se odihnesc pe nisip la reflux, oferind un prim-plan perfect pentru pozele la apus.",
+            "en": "End your day at this family-friendly beach where colourful boats rest on the sand at low tide, providing a perfect foreground for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im kulturellen und historischen Herzen der Halbinsel. Schlendern Sie durch ruhige Straßen, besuchen Sie die wunderschöne örtliche Kirche und genießen Sie die friedliche Atmosphäre der historischen Abtei.\nMidday: Wenn die Sonne höher steht, machen Sie sich auf den Weg zu den nördlichen Stränden. Spüren Sie den feinen Sand und tauchen Sie vielleicht in das erfrischende Wasser ein, um einen klassischen Nachmittag am Meer zu genießen.\nAfternoon: Die Reise geht weiter zur Nordspitze der Halbinsel. Die dramatischen Klippen und der weite Blick über den Ozean bieten spektakuläre Aussichten. Hier zeigt sich die raue Schönheit der Natur vor der Kulisse des smaragdgrünen Meeres.\nEvening: Lassen Sie Ihre Reise an den geschützten Buchten ausklingen. Die zurückweichende Flut legt weite Sandflächen frei und schafft eine ruhige Umgebung, die perfekt ist, um die Spiegelung der Sonnenuntergangsfarben am Ufer zu beobachten.",
+        "hu": "Morning: Kezdje a napot a félsziget kulturális és történelmi szívében. Sétáljon a csendes utcákon, látogasson el a gyönyörű helyi templomba, és élvezze a történelmi apátság békés hangulatát, ahogy a tengeri köd lassan felszáll.\nMidday: Ahogy a nap egyre magasabbra hág, vegye az irányt az északi strandok felé. Érezze a finom homokot a lábujjai között, és talán mártózzon meg a hűsítő vízben, élvezve a klasszikus tengerparti délutánt és a hullámok ritmusát.\nAfternoon: Az utazás a félsziget legészakibb csücskéhez folytatódik. A drámai sziklás partok és a lenyűgöző óceáni panoráma látványos élményt nyújtanak. A természet nyers szépsége itt teljes pompájában mutatkozik meg a smaragd tenger előtt.\nEvening: Zárja utazását a védett öblök vagy a déli strandok mentén. A visszahúzódó ár hatalmas homokos területeket tár fel, nyugodt környezetet teremtve, amely tökéletes a nedves parton tükröződő naplemente színeinek megcsodálásához.",
+        "ro": "Morning: Începeți ziua explorând inima culturală și istorică a peninsulei. Plimbați-vă pe străzile liniștite, vizitați frumoasa biserică locală și bucurați-vă de atmosfera senină a abației istorice, pe măsură ce ceața mării se ridică.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre plajele din nord. Simțiți nisipul fin și poate faceți o baie în apele răcoroase, bucurându-vă de o după-amiază clasică pe litoral, unde valurile ritmice dictează un ritm relaxant.\nAfternoon: Călătoria continuă spre extremitatea nordică a peninsulei. Stâncile abrupte și panoramele oceanice vaste oferă priveliști spectaculoase. Aici, frumusețea brută a naturii este expusă în totalitate pe fundalul mării de smarald.\nEvening: Încheiați-vă călătoria de-a lungul golfurilor adăpostite. Mareea care se retrage dezvăluie întinderi vaste de nisip, creând un mediu liniștit, perfect pentru a privi culorile apusului reflectându-se frumos pe țărmul umed.",
+        "en": "Morning: Start your day exploring the cultural and historic heart of the peninsula. Wander through quiet streets, visit the beautiful local church, and take in the serene atmosphere of the historic abbey grounds as the sea mist lifts.\nMidday: As the sun climbs, head towards the northern beaches. Feel the fine sand between your toes and perhaps dip into the refreshing waters, enjoying a classic seaside afternoon where the rhythmic waves set a deeply relaxing pace.\nAfternoon: The journey continues to the peninsula's northernmost tip. The dramatic rocky cliffs and sweeping ocean panoramas offer spectacular sights. Here, nature's raw beauty is on full display against the backdrop of the emerald sea.\nEvening: Conclude your trip along the sheltered bays or southern beaches. The retreating tide reveals vast expanses of sand, creating a tranquil environment perfect for watching the sunset colors reflect beautifully on the wet shores."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 5.39,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -2.188207,
+            48.601422
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Küstenkirche und nehmen Sie sich einen Moment Zeit für die Buntglasfenster, die das Morgenlicht sanft filtern.",
+            "hu": "Csodálja meg e tengerparti templom lenyűgöző építészetét, és szánjon egy percet az ólomüveg ablakokon átszűrődő lágy reggeli fény élvezetére.",
+            "ro": "Admirați arhitectura acestei biserici de coastă, alocându-vă un moment pentru a aprecia vitraliile care filtrează blând lumina dimineții.",
+            "en": "Admire the striking architecture of this coastal church, taking a moment to appreciate the stained glass windows that softly filter the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Abbaye",
+            "hu": "L'Abbaye",
+            "ro": "L'Abbaye",
+            "en": "L'Abbaye"
+          },
+          "coords": [
+            -2.190826,
+            48.602891
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Gelände dieser historischen Abtei mit Blick aufs Meer und bringen Sie eine Kamera für die gepflegten Meditationsgärten mit.",
+            "hu": "Fedezze fel a tengerre néző történelmi apátság nyugodt területét, és hozzon magával fényképezőgépet a tökéletesen gondozott kertek megörökítéséhez.",
+            "ro": "Explorați domeniul liniștit al acestei abații istorice cu vedere la mare și aduceți o cameră pentru a fotografia grădinile perfect îngrijite.",
+            "en": "Explore the tranquil grounds of this historic abbey overlooking the sea, and bring a camera to capture the perfectly manicured meditative gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Chevet",
+            "hu": "Pointe du Chevet",
+            "ro": "Pointe du Chevet",
+            "en": "Pointe du Chevet"
+          },
+          "coords": [
+            -2.195506,
+            48.610246
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Wandern Sie zur Nordspitze der Halbinsel für atemberaubende Ozeanpanoramen und tragen Sie festes Schuhwerk für die felsigen Pfade an den Klippen.",
+            "hu": "Sétáljon el a félsziget északi csücskébe a lenyűgöző óceáni panorámáért, és viseljen masszív cipőt a sziklafal melletti köves ösvények miatt.",
+            "ro": "Mergeți până în extremitatea nordică pentru panorame oceanice impresionante, purtând încălțăminte rezistentă pe cărările stâncoase de pe stânci.",
+            "en": "Hike to the northernmost tip of the peninsula for sweeping ocean panoramas, wearing sturdy shoes to navigate the rocky pathways near the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Banche",
+            "hu": "Plage de la Banche",
+            "ro": "Plage de la Banche",
+            "en": "Plage de la Banche"
+          },
+          "coords": [
+            -2.193141,
+            48.592926
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem weitläufigen Oststrand mit klarem Wasser und packen Sie ein leichtes Picknick für die Aussicht nach Lancieux ein.",
+            "hu": "Élvezze a napsütést ezen a tiszta vizéről ismert tágas keleti strandon, és hozzon egy könnyű pikniket, hogy megcsodálja a Lancieux felé nyíló kilátást.",
+            "ro": "Bucurați-vă de soare pe această plajă estică întinsă, aducând un mic dejun pentru a admira priveliștile spectaculoase spre golful Lancieux.",
+            "en": "Soak up the sun on this expansive eastern beach known for its clear waters, packing a light picnic to enjoy the spectacular views towards Lancieux."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de l'Arguenon",
+            "hu": "Baie de l'Arguenon",
+            "ro": "Baie de l'Arguenon",
+            "en": "Baie de l'Arguenon"
+          },
+          "coords": [
+            -2.20333,
+            48.593719
+          ],
+          "category": "landmark",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Beobachten Sie die dramatischen Gezeitenwechsel in dieser Bucht und halten Sie ein Fernglas bereit, um die verschiedenen Vogelarten zu entdecken.",
+            "hu": "Figyelje meg a drámai árapály-változásokat ebben a gyönyörű öbölben, és tartsa kéznél a távcsövét a sekély vízben gázoló madárfajok miatt.",
+            "ro": "Priviți schimbările dramatice ale mareei în acest golf magnific și păstrați binoclul la îndemână pentru a observa diversele specii de păsări.",
+            "en": "Watch the dramatic tidal shifts in this magnificent bay, and keep your binoculars handy to spot the diverse bird species wading in the shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Châtelet",
+            "hu": "Plage du Châtelet",
+            "ro": "Plage du Châtelet",
+            "en": "Plage du Châtelet"
+          },
+          "coords": [
+            -2.183189,
+            48.598102
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein ruhiges Plätzchen in dieser versteckten Sandbucht und bringen Sie ein gutes Buch mit, um beim sanften Rauschen der Wellen zu entspannen.",
+            "hu": "Keressen egy csendes helyet ezen a kissé eldugott homokos öbölben, és hozzon egy jó könyvet, hogy a hullámok lágy morajlása mellett kapcsolódjon ki.",
+            "ro": "Găsiți un loc liniștit în acest golf ascuns și aduceți o carte bună pentru a vă relaxa ascultând sunetul blând al valurilor care se sparg.",
+            "en": "Find a quiet spot on this charming, slightly hidden sandy cove, bringing a good book to unwind to the gentle sound of the lapping waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im kulturellen und historischen Herzen der Halbinsel. Schlendern Sie durch ruhige Straßen, besuchen Sie die wunderschöne örtliche Kirche und genießen Sie die friedliche Atmosphäre der historischen Abtei.\nMidday: Wenn die Sonne höher steht, machen Sie sich auf den Weg zu den nördlichen Stränden. Spüren Sie den feinen Sand und tauchen Sie vielleicht in das erfrischende Wasser ein, um einen klassischen Nachmittag am Meer zu genießen.\nAfternoon: Die Reise geht weiter zur Nordspitze der Halbinsel. Die dramatischen Klippen und der weite Blick über den Ozean bieten spektakuläre Aussichten. Hier zeigt sich die raue Schönheit der Natur vor der Kulisse des smaragdgrünen Meeres.\nEvening: Lassen Sie Ihre Reise an den geschützten Buchten ausklingen. Die zurückweichende Flut legt weite Sandflächen frei und schafft eine ruhige Umgebung, die perfekt ist, um die Spiegelung der Sonnenuntergangsfarben am Ufer zu beobachten.",
+        "hu": "Morning: Kezdje a napot a félsziget kulturális és történelmi szívében. Sétáljon a csendes utcákon, látogasson el a gyönyörű helyi templomba, és élvezze a történelmi apátság békés hangulatát, ahogy a tengeri köd lassan felszáll.\nMidday: Ahogy a nap egyre magasabbra hág, vegye az irányt az északi strandok felé. Érezze a finom homokot a lábujjai között, és talán mártózzon meg a hűsítő vízben, élvezve a klasszikus tengerparti délutánt és a hullámok ritmusát.\nAfternoon: Az utazás a félsziget legészakibb csücskéhez folytatódik. A drámai sziklás partok és a lenyűgöző óceáni panoráma látványos élményt nyújtanak. A természet nyers szépsége itt teljes pompájában mutatkozik meg a smaragd tenger előtt.\nEvening: Zárja utazását a védett öblök vagy a déli strandok mentén. A visszahúzódó ár hatalmas homokos területeket tár fel, nyugodt környezetet teremtve, amely tökéletes a nedves parton tükröződő naplemente színeinek megcsodálásához.",
+        "ro": "Morning: Începeți ziua explorând inima culturală și istorică a peninsulei. Plimbați-vă pe străzile liniștite, vizitați frumoasa biserică locală și bucurați-vă de atmosfera senină a abației istorice, pe măsură ce ceața mării se ridică.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre plajele din nord. Simțiți nisipul fin și poate faceți o baie în apele răcoroase, bucurându-vă de o după-amiază clasică pe litoral, unde valurile ritmice dictează un ritm relaxant.\nAfternoon: Călătoria continuă spre extremitatea nordică a peninsulei. Stâncile abrupte și panoramele oceanice vaste oferă priveliști spectaculoase. Aici, frumusețea brută a naturii este expusă în totalitate pe fundalul mării de smarald.\nEvening: Încheiați-vă călătoria de-a lungul golfurilor adăpostite. Mareea care se retrage dezvăluie întinderi vaste de nisip, creând un mediu liniștit, perfect pentru a privi culorile apusului reflectându-se frumos pe țărmul umed.",
+        "en": "Morning: Start your day exploring the cultural and historic heart of the peninsula. Wander through quiet streets, visit the beautiful local church, and take in the serene atmosphere of the historic abbey grounds as the sea mist lifts.\nMidday: As the sun climbs, head towards the northern beaches. Feel the fine sand between your toes and perhaps dip into the refreshing waters, enjoying a classic seaside afternoon where the rhythmic waves set a deeply relaxing pace.\nAfternoon: The journey continues to the peninsula's northernmost tip. The dramatic rocky cliffs and sweeping ocean panoramas offer spectacular sights. Here, nature's raw beauty is on full display against the backdrop of the emerald sea.\nEvening: Conclude your trip along the sheltered bays or southern beaches. The retreating tide reveals vast expanses of sand, creating a tranquil environment perfect for watching the sunset colors reflect beautifully on the wet shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Abbaye",
+            "hu": "L'Abbaye",
+            "ro": "L'Abbaye",
+            "en": "L'Abbaye"
+          },
+          "coords": [
+            -2.190826,
+            48.602891
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Gelände dieser historischen Abtei mit Blick aufs Meer und bringen Sie eine Kamera für die gepflegten Meditationsgärten mit.",
+            "hu": "Fedezze fel a tengerre néző történelmi apátság nyugodt területét, és hozzon magával fényképezőgépet a tökéletesen gondozott kertek megörökítéséhez.",
+            "ro": "Explorați domeniul liniștit al acestei abații istorice cu vedere la mare și aduceți o cameră pentru a fotografia grădinile perfect îngrijite.",
+            "en": "Explore the tranquil grounds of this historic abbey overlooking the sea, and bring a camera to capture the perfectly manicured meditative gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Chevet",
+            "hu": "Pointe du Chevet",
+            "ro": "Pointe du Chevet",
+            "en": "Pointe du Chevet"
+          },
+          "coords": [
+            -2.195506,
+            48.610246
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Wandern Sie zur Nordspitze der Halbinsel für atemberaubende Ozeanpanoramen und tragen Sie festes Schuhwerk für die felsigen Pfade an den Klippen.",
+            "hu": "Sétáljon el a félsziget északi csücskébe a lenyűgöző óceáni panorámáért, és viseljen masszív cipőt a sziklafal melletti köves ösvények miatt.",
+            "ro": "Mergeți până în extremitatea nordică pentru panorame oceanice impresionante, purtând încălțăminte rezistentă pe cărările stâncoase de pe stânci.",
+            "en": "Hike to the northernmost tip of the peninsula for sweeping ocean panoramas, wearing sturdy shoes to navigate the rocky pathways near the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Rougeret",
+            "hu": "Plage du Rougeret",
+            "ro": "Plage du Rougeret",
+            "en": "Plage du Rougeret"
+          },
+          "coords": [
+            -2.18741,
+            48.606603
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses windgeschützten Strandes und prüfen Sie die Gezeiten, wenn Sie zu den nahegelegenen Inseln laufen möchten.",
+            "hu": "Pihenjen ezen a szélvédett, úszásra kiváló strandon, de mindenképpen ellenőrizze az árapály idejét, ha a közeli szigetekre szeretne átsétálni.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, dar verificați orarul mareelor dacă plănuiți să vă plimbați spre insulele din apropiere.",
+            "en": "Relax on the fine sands of this sheltered beach ideal for swimming, but be sure to check the tide times if you plan to walk to the nearby islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Pissote",
+            "hu": "Plage de la Pissote",
+            "ro": "Plage de la Pissote",
+            "en": "Plage de la Pissote"
+          },
+          "coords": [
+            -2.184555,
+            48.595518
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen Strand, der über einen steilen Pfad erreichbar ist, und nehmen Sie nur das Nötigste mit für den einfacheren Rückweg.",
+            "hu": "Fedezze fel ezt az eldugott, sziklák övezte strandot, és csak a legszükségesebbeket vigye magával, hogy a meredek ösvényen könnyebb legyen a visszajutás.",
+            "ro": "Descoperiți această plajă retrasă, accesibilă pe o potecă abruptă, asigurându-vă că luați doar esențialul pentru a face urcușul mult mai ușor.",
+            "en": "Discover this secluded, cliff-backed beach accessible via a steep path, ensuring you carry only essentials to make the climb back up much easier."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Ruet",
+            "hu": "Plage du Ruet",
+            "ro": "Plage du Ruet",
+            "en": "Plage du Ruet"
+          },
+          "coords": [
+            -2.199535,
+            48.585258
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen Küstenabschnitt abseits des Trubels, der sich bei ablaufendem Wasser perfekt zum Muschelsammeln anbietet.",
+            "hu": "Sétáljon végig ezen a fő turistaközpontoktól távol eső békés partszakaszon, amely apály idején tökéletes helyszín a tengeri kagylók gyűjtésére.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste pașnice, departe de zonele aglomerate, un loc perfect pentru culesul scoicilor în timpul refluxului.",
+            "en": "Stroll along this peaceful stretch of coastline away from the main tourist hubs, perfect for shell collecting during the receding low tides."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de l'Arguenon",
+            "hu": "Baie de l'Arguenon",
+            "ro": "Baie de l'Arguenon",
+            "en": "Baie de l'Arguenon"
+          },
+          "coords": [
+            -2.20333,
+            48.593719
+          ],
+          "category": "landmark",
+          "arrive_at": "15:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die dramatischen Gezeitenwechsel in dieser Bucht und halten Sie ein Fernglas bereit, um die verschiedenen Vogelarten zu entdecken.",
+            "hu": "Figyelje meg a drámai árapály-változásokat ebben a gyönyörű öbölben, és tartsa kéznél a távcsövét a sekély vízben gázoló madárfajok miatt.",
+            "ro": "Priviți schimbările dramatice ale mareei în acest golf magnific și păstrați binoclul la îndemână pentru a observa diversele specii de păsări.",
+            "en": "Watch the dramatic tidal shifts in this magnificent bay, and keep your binoculars handy to spot the diverse bird species wading in the shallows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im kulturellen und historischen Herzen der Halbinsel. Schlendern Sie durch ruhige Straßen, besuchen Sie die wunderschöne örtliche Kirche und genießen Sie die friedliche Atmosphäre der historischen Abtei.\nMidday: Wenn die Sonne höher steht, machen Sie sich auf den Weg zu den nördlichen Stränden. Spüren Sie den feinen Sand und tauchen Sie vielleicht in das erfrischende Wasser ein, um einen klassischen Nachmittag am Meer zu genießen.\nAfternoon: Die Reise geht weiter zur Nordspitze der Halbinsel. Die dramatischen Klippen und der weite Blick über den Ozean bieten spektakuläre Aussichten. Hier zeigt sich die raue Schönheit der Natur vor der Kulisse des smaragdgrünen Meeres.\nEvening: Lassen Sie Ihre Reise an den geschützten Buchten ausklingen. Die zurückweichende Flut legt weite Sandflächen frei und schafft eine ruhige Umgebung, die perfekt ist, um die Spiegelung der Sonnenuntergangsfarben am Ufer zu beobachten.",
+        "hu": "Morning: Kezdje a napot a félsziget kulturális és történelmi szívében. Sétáljon a csendes utcákon, látogasson el a gyönyörű helyi templomba, és élvezze a történelmi apátság békés hangulatát, ahogy a tengeri köd lassan felszáll.\nMidday: Ahogy a nap egyre magasabbra hág, vegye az irányt az északi strandok felé. Érezze a finom homokot a lábujjai között, és talán mártózzon meg a hűsítő vízben, élvezve a klasszikus tengerparti délutánt és a hullámok ritmusát.\nAfternoon: Az utazás a félsziget legészakibb csücskéhez folytatódik. A drámai sziklás partok és a lenyűgöző óceáni panoráma látványos élményt nyújtanak. A természet nyers szépsége itt teljes pompájában mutatkozik meg a smaragd tenger előtt.\nEvening: Zárja utazását a védett öblök vagy a déli strandok mentén. A visszahúzódó ár hatalmas homokos területeket tár fel, nyugodt környezetet teremtve, amely tökéletes a nedves parton tükröződő naplemente színeinek megcsodálásához.",
+        "ro": "Morning: Începeți ziua explorând inima culturală și istorică a peninsulei. Plimbați-vă pe străzile liniștite, vizitați frumoasa biserică locală și bucurați-vă de atmosfera senină a abației istorice, pe măsură ce ceața mării se ridică.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre plajele din nord. Simțiți nisipul fin și poate faceți o baie în apele răcoroase, bucurându-vă de o după-amiază clasică pe litoral, unde valurile ritmice dictează un ritm relaxant.\nAfternoon: Călătoria continuă spre extremitatea nordică a peninsulei. Stâncile abrupte și panoramele oceanice vaste oferă priveliști spectaculoase. Aici, frumusețea brută a naturii este expusă în totalitate pe fundalul mării de smarald.\nEvening: Încheiați-vă călătoria de-a lungul golfurilor adăpostite. Mareea care se retrage dezvăluie întinderi vaste de nisip, creând un mediu liniștit, perfect pentru a privi culorile apusului reflectându-se frumos pe țărmul umed.",
+        "en": "Morning: Start your day exploring the cultural and historic heart of the peninsula. Wander through quiet streets, visit the beautiful local church, and take in the serene atmosphere of the historic abbey grounds as the sea mist lifts.\nMidday: As the sun climbs, head towards the northern beaches. Feel the fine sand between your toes and perhaps dip into the refreshing waters, enjoying a classic seaside afternoon where the rhythmic waves set a deeply relaxing pace.\nAfternoon: The journey continues to the peninsula's northernmost tip. The dramatic rocky cliffs and sweeping ocean panoramas offer spectacular sights. Here, nature's raw beauty is on full display against the backdrop of the emerald sea.\nEvening: Conclude your trip along the sheltered bays or southern beaches. The retreating tide reveals vast expanses of sand, creating a tranquil environment perfect for watching the sunset colors reflect beautifully on the wet shores."
+      }
+    }
+  }
+}

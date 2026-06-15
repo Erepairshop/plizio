@@ -1,0 +1,520 @@
+{
+  "city_id": "saint-cyprien",
+  "anchor": {
+    "name": "Saint-Cyprien",
+    "coords": [
+      3.0064,
+      42.6181
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Collections de Saint-Cyprien",
+            "hu": "Les Collections de Saint-Cyprien",
+            "ro": "Les Collections de Saint-Cyprien",
+            "en": "Les Collections de Saint-Cyprien"
+          },
+          "coords": [
+            3.003279,
+            42.617694
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bemerkenswerte regionale Kunst und die historischen Archive, die in diesem charmanten Museum untergebracht sind, und kommen Sie am besten gleich zur Öffnungszeit, um dem großen Besucheransturm zu entgehen.",
+            "hu": "Csodálja meg a régió figyelemre méltó művészeti és történelmi archívumát ebben a bájos múzeumban, és érkezzen rögtön nyitásra, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați arta regională remarcabilă și arhivele istorice găzduite în acest muzeu fermecător, ajungând chiar la ora deschiderii pentru a evita cele mai mari aglomerații de turiști.",
+            "en": "Admire the remarkable regional art and historical archives housed in this charming museum, arriving right at opening time to beat the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Saint-Cyprien",
+            "hu": "Saint-Cyprien Plébániatemplom",
+            "ro": "Biserica Parohială Saint-Cyprien",
+            "en": "Saint-Cyprien Parish Church"
+          },
+          "coords": [
+            3.004373,
+            42.617648
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Steinbögen und die ruhige Atmosphäre dieses lokalen Gemeindezentrums und nehmen Sie sich abseits der belebten Straßen einen Moment Zeit für stille Reflexion.",
+            "hu": "Figyelje meg ennek a helyi plébániatemplomnak a lenyűgöző kőárkádjait és békés hangulatát, szakítva egy percet a csendes elmélkedésre a forgalmas utcáktól távol.",
+            "ro": "Observați arcadele impresionante din piatră și atmosfera senină a acestei biserici parohiale locale, luându-vă un moment pentru a sta în liniște și a reflecta departe de străzile aglomerate.",
+            "en": "Notice the impressive stone arches and serene atmosphere of this local parish center, taking a moment to sit quietly and reflect away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Saint-Cyprien",
+            "hu": "Saint-Cyprien Lagúna",
+            "ro": "Laguna Saint-Cyprien",
+            "en": "Saint-Cyprien Lagoon"
+          },
+          "coords": [
+            3.004373,
+            42.617648
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche lokale Vogelwelt in diesem empfindlichen Feuchtgebietsökosystem und bringen Sie ein Fernglas mit, um von den ausgewiesenen Wanderwegen am Ufer die beste Sicht zu haben.",
+            "hu": "Figyelje meg a gazdag helyi madárvilágot, amely ebben a törékeny vizes élőhelyi ökoszisztémában virágzik, és hozzon magával távcsövet a legjobb kilátás érdekében a kijelölt sétányokról.",
+            "ro": "Observați bogata faună aviară locală care prosperă în acest ecosistem umed fragil, aducând un binoclu pentru cele mai bune priveliști de pe potecile de plimbare desemnate pe margine.",
+            "en": "Observe the rich local birdlife thriving in this fragile wetland ecosystem, bringing binoculars for the best views from the designated walking paths along the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Saint-Cyprien",
+            "hu": "Saint-Cyprien Kikötője",
+            "ro": "Portul Saint-Cyprien",
+            "en": "Port of Saint-Cyprien"
+          },
+          "coords": [
+            3.030185,
+            42.61371
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den eleganten Yachten vorbei, die im drittgrößten Yachthafen Europas vor Anker liegen, und halten Sie Ausschau nach einem Café am Wasser, um einen erfrischenden Nachmittagskaffee zu genießen.",
+            "hu": "Sétáljon el Európa harmadik legnagyobb jachtkikötőjében horgonyzó elegáns jachtok mellett, és keressen egy vízparti kávézót egy frissítő délutáni kávéhoz.",
+            "ro": "Plimbați-vă pe lângă iahturile elegante ancorate în al treilea port de agrement ca mărime din Europa, căutând o cafenea pe malul apei pentru a savura o cafea răcoritoare de după-amiază.",
+            "en": "Stroll past the elegant yachts anchored at the third largest marina in Europe, keeping an eye out for a waterside café to enjoy a refreshing afternoon coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Capellans",
+            "hu": "Capellans Botanikus Kert",
+            "ro": "Grădina Botanică Capellans",
+            "en": "Capellans Botanical Garden"
+          },
+          "coords": [
+            3.027547,
+            42.60635
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen exotischen Bäumen und freilaufenden Pfauen in diesem üppigen Stadtpark und tragen Sie bequeme Schuhe, um die ausgedehnten, schattigen Wege vollständig zu erkunden.",
+            "hu": "Pihenjen az egzotikus fák és a szabadon kószáló pávák között ebben a buja városi parkban, kényelmes cipőt viselve, hogy teljesen felfedezhesse a kiterjedt, árnyékos ösvényeket.",
+            "ro": "Relaxați-vă printre copacii exotici și păunii rătăcitori din acest parc municipal luxuriant, purtând pantofi confortabili pentru a explora pe deplin potecile extinse umbrite.",
+            "en": "Relax among the exotic trees and wandering peacocks in this lush municipal park, wearing comfortable shoes to fully explore the extensive shaded pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand de la Lagune",
+            "hu": "La Lagune Strand",
+            "ro": "Plaja de la Lagune",
+            "en": "Plage de la Lagune"
+          },
+          "coords": [
+            3.040878,
+            42.609913
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie Ihre Zehen in das warme Wasser des Mittelmeers an diesem weitläufigen Sandstrand und sichern Sie sich einen Platz in der Nähe der Rettungsschwimmerstation für ein sicheres und entspanntes Nachmittagsschwimmen.",
+            "hu": "Mártsa bele a lábujjait a meleg Földközi-tengerbe ezen a tágas homokos strandon, és foglaljon helyet a vízimentők állomása közelében egy biztonságos és pihentető délutáni úszáshoz.",
+            "ro": "Înmuiați-vă degetele de la picioare în apele calde ale Mediteranei la această plajă spațioasă cu nisip, asigurându-vă un loc lângă stația salvamarilor pentru o înot de după-amiază sigur și relaxant.",
+            "en": "Dip your toes in the warm Mediterranean waters at this spacious sandy beach, securing a spot near the lifeguard station for a safe and relaxing afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Entdeckung des kulturellen Herzschlags von Saint-Cyprien und tauchen Sie ein in die Kunstsammlungen sowie die friedliche Atmosphäre der Gemeinde. Wenn der Mittag näher rückt, folgen Sie dem Wasser zum geschäftigen Hafen, einem Zentrum maritimer Aktivitäten. Der Nachmittag bietet eine friedliche Flucht in üppige botanische Gärten und an sandige Küstenstreifen. Beenden Sie den Tag an den ruhigen Mittelmeerwellen in goldenem Licht.",
+        "hu": "Kezdje a reggelt Saint-Cyprien kulturális lüktetésének felfedezésével, magába szívva a művészeti gyűjteményeket és a békés plébániai légkört. Ahogy közeledik a dél, kövesse a vizet a nyüzsgő kikötő felé, amely a tengeri tevékenységek központja. A délután békés kikapcsolódást kínál a buja botanikus kertek és a homokos tengerpartok között. Zárja a napot a csendes mediterrán hullámok és az aranyórai fények ölelésében.",
+        "ro": "Începeți-vă dimineața descoperind ritmul cultural din Saint-Cyprien, absorbind colecțiile sale artistice și atmosfera pașnică a parohiei. Pe măsură ce se apropie prânzul, urmați apa spre portul plin de viață, un centru vibrant al activității maritime. După-amiaza oferă o evadare senină printre grădinile botanice luxuriante și țărmurile nisipoase de coastă. Încheiați ziua îmbrățișând valurile liniștite ale Mediteranei și nuanțele aurii.",
+        "en": "Begin your morning discovering the cultural heartbeat of Saint-Cyprien, absorbing its rich artistic collections and peaceful parish atmosphere. As midday approaches, follow the water towards the bustling port, a vibrant hub of maritime activity. The afternoon offers a serene escape among lush botanical gardens and sandy coastal shores. End your day embracing the tranquil Mediterranean waves and golden hour hues."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Collections de Saint-Cyprien",
+            "hu": "Les Collections de Saint-Cyprien",
+            "ro": "Les Collections de Saint-Cyprien",
+            "en": "Les Collections de Saint-Cyprien"
+          },
+          "coords": [
+            3.003279,
+            42.617694
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bemerkenswerte regionale Kunst und die historischen Archive, die in diesem charmanten Museum untergebracht sind, und kommen Sie am besten gleich zur Öffnungszeit, um dem großen Besucheransturm zu entgehen.",
+            "hu": "Csodálja meg a régió figyelemre méltó művészeti és történelmi archívumát ebben a bájos múzeumban, és érkezzen rögtön nyitásra, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați arta regională remarcabilă și arhivele istorice găzduite în acest muzeu fermecător, ajungând chiar la ora deschiderii pentru a evita cele mai mari aglomerații de turiști.",
+            "en": "Admire the remarkable regional art and historical archives housed in this charming museum, arriving right at opening time to beat the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Saint-Cyprien",
+            "hu": "Saint-Cyprien Lagúna",
+            "ro": "Laguna Saint-Cyprien",
+            "en": "Saint-Cyprien Lagoon"
+          },
+          "coords": [
+            3.004373,
+            42.617648
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche lokale Vogelwelt in diesem empfindlichen Feuchtgebietsökosystem und bringen Sie ein Fernglas mit, um von den ausgewiesenen Wanderwegen am Ufer die beste Sicht zu haben.",
+            "hu": "Figyelje meg a gazdag helyi madárvilágot, amely ebben a törékeny vizes élőhelyi ökoszisztémában virágzik, és hozzon magával távcsövet a legjobb kilátás érdekében a kijelölt sétányokról.",
+            "ro": "Observați bogata faună aviară locală care prosperă în acest ecosistem umed fragil, aducând un binoclu pentru cele mai bune priveliști de pe potecile de plimbare desemnate pe margine.",
+            "en": "Observe the rich local birdlife thriving in this fragile wetland ecosystem, bringing binoculars for the best views from the designated walking paths along the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Saint-Cyprien",
+            "hu": "Saint-Cyprien Kikötője",
+            "ro": "Portul Saint-Cyprien",
+            "en": "Port of Saint-Cyprien"
+          },
+          "coords": [
+            3.030185,
+            42.61371
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den eleganten Yachten vorbei, die im drittgrößten Yachthafen Europas vor Anker liegen, und halten Sie Ausschau nach einem Café am Wasser, um einen erfrischenden Snack zu genießen.",
+            "hu": "Sétáljon el Európa harmadik legnagyobb jachtkikötőjében horgonyzó elegáns jachtok mellett, és keressen egy vízparti kávézót egy frissítő falatozáshoz.",
+            "ro": "Plimbați-vă pe lângă iahturile elegante ancorate în al treilea port de agrement ca mărime din Europa, căutând o cafenea pe malul apei pentru a savura o gustare răcoritoare.",
+            "en": "Stroll past the elegant yachts anchored at the third largest marina in Europe, keeping an eye out for a waterside café to enjoy a refreshing mid-day snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Capellans",
+            "hu": "Capellans Botanikus Kert",
+            "ro": "Grădina Botanică Capellans",
+            "en": "Capellans Botanical Garden"
+          },
+          "coords": [
+            3.027547,
+            42.60635
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen exotischen Bäumen und freilaufenden Pfauen in diesem üppigen Stadtpark und parken Sie Ihr Fahrrad sicher am Eingang, um die Fußwege zu erkunden.",
+            "hu": "Pihenjen az egzotikus fák és a szabadon kószáló pávák között ebben a buja városi parkban, és parkolja le biztonságosan a kerékpárját a bejáratnál a gyalogutak felfedezéséhez.",
+            "ro": "Relaxați-vă printre copacii exotici și păunii rătăcitori din acest parc municipal luxuriant, parcându-vă bicicleta în siguranță la intrare pentru a explora potecile pietonale.",
+            "en": "Relax among the exotic trees and wandering peacocks in this lush municipal park, securely parking your bike at the entrance to explore the footpaths."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand du Pont Tournant",
+            "hu": "Pont Tournant Strand",
+            "ro": "Plaja du Pont Tournant",
+            "en": "Plage du Pont Tournant"
+          },
+          "coords": [
+            3.04037,
+            42.613991
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses zentralen, familienfreundlichen Küstenabschnitts und mieten Sie am Nachmittag eine Sonnenliege für eine komfortable Ruhepause.",
+            "hu": "Élvezze ennek a központi, családbarát partszakasznak az élénk hangulatát, és béreljen napozóágyat a délutáni kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestei zone de coastă centrale, potrivită pentru familii, închiriind un șezlong după-amiaza pentru o pauză confortabilă.",
+            "en": "Enjoy the lively atmosphere of this central, family-friendly coastal stretch, renting a sunbed in the afternoon for a comfortable rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand de l'Art",
+            "hu": "L'Art Strand",
+            "ro": "Plaja de l'Art",
+            "en": "Plage de l'Art"
+          },
+          "coords": [
+            3.035892,
+            42.631904
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Küste von diesem malerischen Nordstrand aus und radeln Sie gemütlich an der Strandpromenade entlang.",
+            "hu": "Gyönyörködjön a tágas tengerparti kilátásban erről a festői északi strandról, és kerekezzen kényelmesen a tengerparti sétányon.",
+            "ro": "Admirați priveliștile ample ale coastei de pe această plajă pitorească din nord, pedalând pe îndelete de-a lungul promenadei de pe malul mării.",
+            "en": "Take in the expansive coastal views from this picturesque northern beach, cycling leisurely along the seafront promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Nord",
+            "hu": "Északi Strand",
+            "ro": "Plaja de Nord",
+            "en": "Plage Nord"
+          },
+          "coords": [
+            3.035106,
+            42.637856
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die erfrischende Meeresbrise an den ruhigeren nördlichen Grenzen des Ferienorts und finden Sie ein abgelegenes Plätzchen für eine Entspannung am späten Nachmittag fernab des Trubels.",
+            "hu": "Érezze a frissítő tengeri szellőt az üdülőhely csendesebb északi határainál, és keressen egy eldugott helyet a késő délutáni pihenéshez a nyüzsgő központtól távol.",
+            "ro": "Simțiți briza răcoroasă a mării de-a lungul limitelor nordice mai liniștite ale stațiunii, găsind un loc retras pentru relaxare la sfârșitul după-amiezii, departe de centrul aglomerat.",
+            "en": "Feel the refreshing sea breeze along the quieter northern limits of the resort, finding a secluded spot for late afternoon relaxation away from the bustling center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Entdeckung des kulturellen Herzschlags von Saint-Cyprien und tauchen Sie ein in die Kunstsammlungen. Wenn der Mittag näher rückt, folgen Sie dem Wasser zum geschäftigen Hafen, einem Zentrum maritimer Aktivitäten. Der Nachmittag bietet eine Radtour in üppige botanische Gärten und weiter zu den herrlichen nördlichen Stränden. Beenden Sie den Tag an den ruhigen Mittelmeerwellen in friedlicher Atmosphäre.",
+        "hu": "Kezdje a reggelt Saint-Cyprien kulturális lüktetésének felfedezésével, magába szívva a művészeti gyűjteményeket. Ahogy közeledik a dél, kövesse a vizet a nyüzsgő kikötő felé kerékpárral. A délután egy kellemes tekerést kínál a buja botanikus kertekhez és tovább a csodálatos északi strandokhoz. Zárja a napot a csendes mediterrán hullámok ölelésében, békés hangulatban.",
+        "ro": "Începeți-vă dimineața descoperind ritmul cultural din Saint-Cyprien, absorbind colecțiile sale artistice. Pe măsură ce se apropie prânzul, urmați apa spre portul plin de viață pe bicicletă. După-amiaza oferă o plimbare plăcută spre grădinile botanice luxuriante și mai departe către plajele superbe din nord. Încheiați ziua îmbrățișând valurile liniștite ale Mediteranei într-o atmosferă liniștită.",
+        "en": "Begin your morning discovering the cultural heartbeat of Saint-Cyprien, absorbing its rich artistic collections before cycling to the lagoon. As midday approaches, follow the water towards the bustling port, a vibrant hub of maritime activity. The afternoon offers a two-wheeled journey to lush botanical gardens and further up to the magnificent northern beaches. End your day embracing the tranquil Mediterranean waves in peace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Saint-Cyprien",
+            "hu": "Saint-Cyprien Plébániatemplom",
+            "ro": "Biserica Parohială Saint-Cyprien",
+            "en": "Saint-Cyprien Parish Church"
+          },
+          "coords": [
+            3.004373,
+            42.617648
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Steinbögen und die ruhige Atmosphäre dieses lokalen Gemeindezentrums und parken Sie Ihr Auto in den nahegelegenen Seitenstraßen für einen unkomplizierten Start in den Tag.",
+            "hu": "Figyelje meg ennek a helyi plébániatemplomnak a lenyűgöző kőárkádjait és békés hangulatát, és parkoljon le a közeli mellékutcákban a nap zökkenőmentes kezdéséhez.",
+            "ro": "Observați arcadele impresionante din piatră și atmosfera senină a acestei biserici parohiale locale, parcându-vă mașina pe străzile laterale din apropiere pentru un început de zi fără probleme.",
+            "en": "Notice the impressive stone arches and serene atmosphere of this local parish center, parking your car in the nearby side streets for an easy start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Collections de Saint-Cyprien",
+            "hu": "Les Collections de Saint-Cyprien",
+            "ro": "Les Collections de Saint-Cyprien",
+            "en": "Les Collections de Saint-Cyprien"
+          },
+          "coords": [
+            3.003279,
+            42.617694
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bemerkenswerte regionale Kunst und die historischen Archive, die in diesem charmanten Museum untergebracht sind, da es nur einen kurzen Fußweg von der Kirche entfernt ist.",
+            "hu": "Csodálja meg a régió figyelemre méltó művészeti és történelmi archívumát ebben a bájos múzeumban, mivel ez csak egy rövid sétára van a templomtól.",
+            "ro": "Admirați arta regională remarcabilă și arhivele istorice găzduite în acest muzeu fermecător, fiind situat la o scurtă plimbare de la biserică.",
+            "en": "Admire the remarkable regional art and historical archives housed in this charming museum, taking advantage of its short walking distance from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Capellans",
+            "hu": "Capellans Botanikus Kert",
+            "ro": "Grădina Botanică Capellans",
+            "en": "Capellans Botanical Garden"
+          },
+          "coords": [
+            3.027547,
+            42.60635
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen exotischen Bäumen und freilaufenden Pfauen in diesem üppigen Stadtpark und nutzen Sie den eigenen Besucherparkplatz für bequemen Zugang.",
+            "hu": "Pihenjen az egzotikus fák és a szabadon kószáló pávák között ebben a buja városi parkban, és használja a saját látogatói parkolót a kényelmes bejutáshoz.",
+            "ro": "Relaxați-vă printre copacii exotici și păunii rătăcitori din acest parc municipal luxuriant, folosind parcarea dedicată vizitatorilor pentru un acces ușor.",
+            "en": "Relax among the exotic trees and wandering peacocks in this lush municipal park, utilizing the dedicated visitor parking lot for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Saint-Cyprien",
+            "hu": "Saint-Cyprien Kikötője",
+            "ro": "Portul Saint-Cyprien",
+            "en": "Port of Saint-Cyprien"
+          },
+          "coords": [
+            3.030185,
+            42.61371
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den eleganten Yachten vorbei, die im drittgrößten Yachthafen Europas vor Anker liegen, und parken Sie in der Nähe des Hafengebiets, um ein tolles Mittagessen mit Blick auf das Wasser zu genießen.",
+            "hu": "Sétáljon el Európa harmadik legnagyobb jachtkikötőjében horgonyzó elegáns jachtok mellett, és parkoljon a kikötő közelében, hogy egy remek ebédet fogyasszon el a vízre néző kilátással.",
+            "ro": "Plimbați-vă pe lângă iahturile elegante ancorate în al treilea port de agrement ca mărime din Europa, parcând lângă zona portuară pentru a savura un prânz excelent cu vedere la apă.",
+            "en": "Stroll past the elegant yachts anchored at the third largest marina in Europe, parking near the docklands to enjoy a great waterside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Sud",
+            "hu": "Déli Strand",
+            "ro": "Plaja de Sud",
+            "en": "Plage Sud"
+          },
+          "coords": [
+            3.043054,
+            42.599971
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weiten goldenen Sand nahe dem südlichen Yachthafen und nutzen Sie die nahe gelegenen Strandkioske für ein kaltes Getränk unter der heißen Sonne.",
+            "hu": "Kapcsolódjon ki a déli jachtkikötő közelében elterülő hatalmas aranyszínű homokon, és használja ki a közeli strandkioszkokat egy hideg italhoz a forró nap alatt.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse din apropierea portului de agrement sudic, profitând de chioșcurile de pe plajă din apropiere pentru o băutură rece sub soarele fierbinte.",
+            "en": "Unwind on the expansive golden sands near the southern marina, taking advantage of the nearby beachside kiosks for a cold drink under the hot sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturiststrand du Bocal du Tech",
+            "hu": "Bocal du Tech Naturista Strand",
+            "ro": "Plaja naturistă du Bocal du Tech",
+            "en": "Plage naturiste du Bocal du Tech"
+          },
+          "coords": [
+            3.044297,
+            42.593043
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Respektieren Sie die lokalen Gepflogenheiten an diesem ruhigen FKK-Abschnitt nahe der Flussmündung und bringen Sie ein eigenes Handtuch sowie ausreichend Sonnencreme für ein natürlich befreiendes Erlebnis mit.",
+            "hu": "Tartsa tiszteletben a helyi szokásokat ezen a csendes naturista szakaszon a folyótorkolat közelében, és hozzon magával saját törölközőt és bőséges naptejet egy természetesen felszabadító élményhez.",
+            "ro": "Respectați obiceiurile locale pe această întindere naturistă senină de lângă gura râului, aducând propriul prosop și multă cremă de soare pentru o experiență naturală eliberatoare.",
+            "en": "Respect the local customs at this serene naturist stretch near the river mouth, bringing your own towel and plenty of sunscreen for a naturally freeing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Argelès-sur-Mer",
+            "hu": "Argelès-sur-Mer Strandja",
+            "ro": "Plaja d'Argelès-sur-Mer",
+            "en": "Plage d'Argelès-sur-Mer"
+          },
+          "coords": [
+            3.046892,
+            42.566445
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Küstenreise vor der dramatischen Kulisse der Pyrenäen ab, die an diesem berühmten Ferienortstreifen auf das Meer treffen, und erkunden Sie die Uferpromenade bei Sonnenuntergang.",
+            "hu": "Fejezze be tengerparti utazását a tengerrel találkozó Pireneusok drámai hátterével ezen a híres üdülőhelyen, és sétáljon végig a vízparti sétányon naplemente közben.",
+            "ro": "Încheiați-vă călătoria pe coastă cu fundalul dramatic al Pirineilor întâlnindu-se cu marea pe această faimoasă fâșie de stațiune, explorând promenada de pe malul apei pe măsură ce soarele apune.",
+            "en": "Wrap up your coastal journey with the dramatic backdrop of the Pyrenees meeting the sea at this famous resort strip, checking out the waterfront promenade as the sun goes down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Saint-Cyprien und besichtigen Sie die ruhige Pfarrkirche sowie das historische Museum. Setzen Sie Ihre Fahrt zu den üppigen Botanischen Gärten fort, bevor Sie ein lebhaftes Mittagessen am Hafen genießen. Der Nachmittag steht ganz im Zeichen des Strand-Hoppings in Richtung Süden, wo Sie unberührte Sandstrände erleben. Beenden Sie Ihr Fahrabenteuer an der Grenze zu Argelès-sur-Mer, wo die Pyrenäen auf das Meer treffen.",
+        "hu": "Kezdje a reggelt Saint-Cyprien szívében, a békés plébániatemplom és a történelmi múzeum megtekintésével. Folytassa útját autóval a buja botanikus kertekhez, majd élvezze a nyüzsgő kikötői ebédet. A délután a strandok felfedezéséről szól dél felé haladva, megtapasztalva az érintetlen homokos partokat. Fejezze be autós kalandját Argelès-sur-Mer határánál, ahol a Pireneusok hegyei találkoznak a tengerrel.",
+        "ro": "Începeți-vă dimineața în inima orașului Saint-Cyprien, vizitând biserica parohială liniștită și muzeul istoric. Continuați-vă călătoria cu mașina către grădinile botanice luxuriante, urmată de un prânz plin de viață în port. După-amiaza este dedicată explorării plajelor îndreptându-vă spre sud, experimentând nisipuri imaculate. Încheiați-vă aventura cu mașina la granița cu Argelès-sur-Mer, unde Munții Pirinei întâlnesc marea.",
+        "en": "Begin your morning in the heart of Saint-Cyprien, visiting the tranquil parish church and historic museum. Continue your drive to the lush Botanical Gardens before a lively harbor-side lunch. The afternoon is all about beach hopping downwards to the south, experiencing pristine stretches of sand. Conclude your driving adventure on the border of Argelès-sur-Mer, where the Pyrenees mountains dramatically meet the sea."
+      }
+    }
+  }
+}

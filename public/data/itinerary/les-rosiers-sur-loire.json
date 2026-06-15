@@ -1,0 +1,474 @@
+{
+  "city_id": "les-rosiers-sur-loire",
+  "anchor": {
+    "name": "Les Rosiers-sur-Loire",
+    "coords": [
+      -0.2253,
+      47.3514
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.225407,
+            47.350623
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
+            "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle Basses-Terres",
+            "hu": "Basses-Terres szélmalom",
+            "ro": "Moara de vânt Basses-Terres",
+            "en": "Moulin à vent des Basses-Terres"
+          },
+          "coords": [
+            -0.213168,
+            47.350214
+          ],
+          "category": "landmark",
+          "arrive_at": "10:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Windmühle, die Einblicke in die landwirtschaftliche Vergangenheit bietet, und machen Sie Fotos vom malerischen Weg.",
+            "hu": "Fedezze fel ezt a történelmi szélmalmot, amely bepillantást enged a régió múltjába, és mindenképpen készítsen fotókat a festői ösvényről.",
+            "ro": "Explorați această moară de vânt istorică ce oferă o privire în trecutul agricol și asigurați-vă că faceți poze de pe cărarea pitorească din jur.",
+            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Gennes",
+            "hu": "Gennes Városháza",
+            "ro": "Primăria din Gennes",
+            "en": "Mairie déléguée de Gennes"
+          },
+          "coords": [
+            -0.23231,
+            47.340912
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie das lokale Verwaltungserbe an diesem historischen Rathausgebäude und halten Sie kurz an, um die Schilder am Eingang zu lesen.",
+            "hu": "Figyelje meg a helyi közigazgatási örökséget ennél a történelmi városházánál, és álljon meg röviden elolvasni a főbejáratnál lévő táblákat.",
+            "ro": "Observați moștenirea administrativă locală la această primărie istorică, oprindu-vă scurt pentru a citi plăcile informative de la intrarea principală.",
+            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Galloromanisches Amphitheater",
+            "hu": "Gall-római amfiteátrum",
+            "ro": "Amfiteatrul galo-roman",
+            "en": "Amphithéatre gallo-romain"
+          },
+          "coords": [
+            -0.238633,
+            47.335151
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
+            "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
+            "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+          }
+        },
+        {
+          "name": {
+            "de": "Hinkelstein von Bois-Gilbert",
+            "hu": "Bois-Gilbert menhir",
+            "ro": "Menhirul din Bois-Gilbert",
+            "en": "Menhir du Bois-Gilbert"
+          },
+          "coords": [
+            -0.24848,
+            47.344889
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten Hinkelstein in den Wäldern, ein Zeugnis prähistorischen Lebens, und bringen Sie in den Sommermonaten Insektenspray mit.",
+            "hu": "Csodálja meg ezt az erdőben megbúvó ősi állókövet, amely a történelem előtti élet tanúja, és nyáron feltétlenül vigyen magával rovarriasztót.",
+            "ro": "Minunați-vă de această piatră verticală străveche ascunsă în pădure și aduceți spray împotriva insectelor dacă vizitați în lunile calde de vară.",
+            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Fluss bei der Kirche Notre-Dame. Danach spazieren Sie gemütlich zur historischen Windmühle. Nach einer Mittagspause beim Rathaus tauchen Sie in die römische Geschichte ein. Beenden Sie den Nachmittag am mysteriösen Hinkelstein im Wald.",
+        "hu": "Kezdje a reggelt a folyó közelében, a gyönyörű Notre-Dame templomnál. Ezután tegyen egy kellemes sétát kelet felé a történelmi szélmalomhoz. A városháza körüli déli pihenő után merüljön el a római történelemben. Zárja a délutánt az erdőben a titokzatos menhirnél.",
+        "ro": "Începeți dimineața lângă râu la frumoasa biserică Notre-Dame. Apoi, faceți o plimbare spre est pentru a descoperi moara de vânt. După o pauză la prânz lângă primărie, pătrundeți în istoria romană. Încheiați după-amiaza în pădure la misteriosul menhir preistoric.",
+        "en": "Start your morning near the river at the beautiful Notre-Dame Church. Then, enjoy a pleasant walk east to discover the historical windmill. After a midday break near the Mairie, immerse yourself in Roman history. End your afternoon in the woods at the mysterious Menhir."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Gervais",
+            "hu": "Saint-Gervais templom",
+            "ro": "Biserica Saint-Gervais",
+            "en": "Église Saint-Gervais-et-Saint-Protais"
+          },
+          "coords": [
+            -0.258803,
+            47.357958
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche, die für ihre friedliche Atmosphäre bekannt ist, und betreten Sie sie am besten im Morgenlicht.",
+            "hu": "Látogasson el ebbe a bájos történelmi templomba, amely békés hangulatáról ismert, és lépjen be, amikor a reggeli fények a legszebbek.",
+            "ro": "Vizitați această biserică istorică fermecătoare cunoscută pentru atmosfera sa pașnică și asigurați-vă că intrați atunci când lumina dimineții este optimă.",
+            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Hinkelstein von Bois-Gilbert",
+            "hu": "Bois-Gilbert menhir",
+            "ro": "Menhirul din Bois-Gilbert",
+            "en": "Menhir du Bois-Gilbert"
+          },
+          "coords": [
+            -0.24848,
+            47.344889
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten Hinkelstein in den Wäldern, ein Zeugnis prähistorischen Lebens, und bringen Sie in den Sommermonaten Insektenspray mit.",
+            "hu": "Csodálja meg ezt az erdőben megbúvó ősi állókövet, amely a történelem előtti élet tanúja, és nyáron feltétlenül vigyen magával rovarriasztót.",
+            "ro": "Minunați-vă de această piatră verticală străveche ascunsă în pădure și aduceți spray împotriva insectelor dacă vizitați în lunile calde de vară.",
+            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen La Pagerie",
+            "hu": "La Pagerie dolmen",
+            "ro": "Dolmenul La Pagerie",
+            "en": "Pierre couverte la Pagerie"
+          },
+          "coords": [
+            -0.256323,
+            47.339393
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bemerkenswerten Dolmen, der als uralte Grabstätte diente, und seien Sie vorsichtig, da das umliegende Gelände recht uneben ist.",
+            "hu": "Fedezze fel ezt a figyelemre méltó dolment, amely ősi temetkezési helyként szolgált, és óvatosan sétáljon körülötte a meglehetősen egyenetlen terepen.",
+            "ro": "Descoperiți acest dolmen remarcabil care a servit ca loc de înmormântare antic și aveți grijă când mergeți, deoarece terenul este destul de accidentat.",
+            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged."
+          }
+        },
+        {
+          "name": {
+            "de": "Galloromanisches Amphitheater",
+            "hu": "Gall-római amfiteátrum",
+            "ro": "Amfiteatrul galo-roman",
+            "en": "Amphithéatre gallo-romain"
+          },
+          "coords": [
+            -0.238633,
+            47.335151
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
+            "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
+            "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Gennes",
+            "hu": "Gennes Városháza",
+            "ro": "Primăria din Gennes",
+            "en": "Mairie déléguée de Gennes"
+          },
+          "coords": [
+            -0.23231,
+            47.340912
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie das lokale Verwaltungserbe an diesem historischen Rathausgebäude und halten Sie kurz an, um die Schilder am Eingang zu lesen.",
+            "hu": "Figyelje meg a helyi közigazgatási örökséget ennél a történelmi városházánál, és álljon meg röviden elolvasni a főbejáratnál lévő táblákat.",
+            "ro": "Observați moștenirea administrativă locală la această primărie istorică, oprindu-vă scurt pentru a citi plăcile informative de la intrarea principală.",
+            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.225407,
+            47.350623
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
+            "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle Basses-Terres",
+            "hu": "Basses-Terres szélmalom",
+            "ro": "Moara de vânt Basses-Terres",
+            "en": "Moulin à vent des Basses-Terres"
+          },
+          "coords": [
+            -0.213168,
+            47.350214
+          ],
+          "category": "landmark",
+          "arrive_at": "15:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Windmühle, die Einblicke in die landwirtschaftliche Vergangenheit bietet, und machen Sie Fotos vom malerischen Weg.",
+            "hu": "Fedezze fel ezt a történelmi szélmalmot, amely bepillantást enged a régió múltjába, és mindenképpen készítsen fotókat a festői ösvényről.",
+            "ro": "Explorați această moară de vânt istorică ce oferă o privire în trecutul agricol și asigurați-vă că faceți poze de pe cărarea pitorească din jur.",
+            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in der frischen Morgenluft von der historischen Kirche Saint-Gervais los. Fahren Sie durch die malerische Landschaft zu den uralten Hinkelsteinen und einem Dolmen. Am Mittag erkunden Sie die Ruinen des galloromanischen Amphitheaters. Lassen Sie den Tag ausklingen, während Sie zurück zum Fluss und zur Windmühle rollen.",
+        "hu": "Tekerjen el a történelmi Saint-Gervais templomtól a friss reggeli levegőn. Kerékpározzon a festői vidéken, hogy felfedezze az ősi állóköveket és egy dolment. Délben fedezze fel a gall-római amfiteátrum romjait. Zárja a napot azzal, hogy visszagurul a folyóhoz és a szélmalomhoz.",
+        "ro": "Porniți de la biserica istorică Saint-Gervais în aerul proaspăt al dimineții. Pedalați prin peisajul rural pitoresc pentru a descoperi pietre antice și un dolmen. La prânz, explorați ruinele grandiosului amfiteatru galo-roman. Încheiați ziua mergând înapoi spre râu și moara de vânt.",
+        "en": "Pedal off from the historic Saint-Gervais church in the fresh morning air. Cycle through the scenic countryside to discover ancient standing stones and a dolmen. By midday, explore the grand Gallo-Roman amphitheater ruins. Wrap up the day rolling back toward the river and windmill."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 10.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.225407,
+            47.350623
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
+            "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gervais",
+            "hu": "Saint-Gervais templom",
+            "ro": "Biserica Saint-Gervais",
+            "en": "Église Saint-Gervais-et-Saint-Protais"
+          },
+          "coords": [
+            -0.258803,
+            47.357958
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche, die für ihre friedliche Atmosphäre bekannt ist, und betreten Sie sie am besten im Morgenlicht.",
+            "hu": "Látogasson el ebbe a bájos történelmi templomba, amely békés hangulatáról ismert, és lépjen be, amikor a reggeli fények a legszebbek.",
+            "ro": "Vizitați această biserică istorică fermecătoare cunoscută pentru atmosfera sa pașnică și asigurați-vă că intrați atunci când lumina dimineții este optimă.",
+            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen La Pagerie",
+            "hu": "La Pagerie dolmen",
+            "ro": "Dolmenul La Pagerie",
+            "en": "Pierre couverte la Pagerie"
+          },
+          "coords": [
+            -0.256323,
+            47.339393
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bemerkenswerten Dolmen, der als uralte Grabstätte diente, und seien Sie vorsichtig, da das umliegende Gelände recht uneben ist.",
+            "hu": "Fedezze fel ezt a figyelemre méltó dolment, amely ősi temetkezési helyként szolgált, és óvatosan sétáljon körülötte a meglehetősen egyenetlen terepen.",
+            "ro": "Descoperiți acest dolmen remarcabil care a servit ca loc de înmormântare antic și aveți grijă când mergeți, deoarece terenul este destul de accidentat.",
+            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged."
+          }
+        },
+        {
+          "name": {
+            "de": "Galloromanisches Amphitheater",
+            "hu": "Gall-római amfiteátrum",
+            "ro": "Amfiteatrul galo-roman",
+            "en": "Amphithéatre gallo-romain"
+          },
+          "coords": [
+            -0.238633,
+            47.335151
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
+            "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
+            "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Joreau",
+            "hu": "Joreau természetvédelmi terület",
+            "ro": "Rezervația naturală Joreau",
+            "en": "Réserve naturelle des étang et boisements de Joreau"
+          },
+          "coords": [
+            -0.222814,
+            47.325269
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch dieses geschützte Naturschutzgebiet voller Wildtiere und halten Sie Ihr Fernglas bereit, um seltene Vögel zu sehen.",
+            "hu": "Élvezze a békés sétát ebben a védett természetvédelmi területben, és tartsa kéznél távcsövét, hogy megfigyelhesse a ritka helyi madárfajokat.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin această rezervație naturală protejată și țineți binoclul la îndemână pentru a observa păsările locale rare.",
+            "en": "Enjoy a peaceful walk through this protected nature reserve full of diverse wildlife, and keep your binoculars handy to spot the rare local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Cunault",
+            "hu": "Cunault kastélya",
+            "ro": "Castelul din Cunault",
+            "en": "Château de Cunault"
+          },
+          "coords": [
+            -0.201333,
+            47.330534
+          ],
+          "category": "castle",
+          "arrive_at": "14:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses prächtige Schloss mit seiner atemberaubenden Architektur und nehmen Sie sich Zeit für einen Spaziergang durch die schönen Gärten.",
+            "hu": "Járja be ezt a csodálatos kastélyt, amely lenyűgöző építészettel büszkélkedhet, és szánjon extra időt a gyönyörűen gondozott kertek felfedezésére is.",
+            "ro": "Vizitați acest castel magnific ce prezintă o arhitectură uimitoare și alocați timp suplimentar pentru a vă plimba prin grădinile sale frumos îngrijite.",
+            "en": "Tour this magnificent castle featuring stunning architecture and rich history, and allocate extra time to wander through its beautifully manicured gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie durch das malerische Loiretal und starten Sie an der zentralen Kirche Notre-Dame. Navigieren Sie bequem zwischen alten Ruinen und beeindruckenden Hinkelsteinen. Genießen Sie am Nachmittag einen Spaziergang im schönen Naturschutzgebiet Joreau. Beenden Sie Ihre Autotour am prächtigen Schloss Cunault.",
+        "hu": "Vezessen a festői Loire-völgyben, a központi Notre-Dame templomtól indulva. Könnyedén navigáljon az ősi romok és a lenyűgöző állókövek között. Délután tegyen egy pihentető sétát a gyönyörű Joreau természetvédelmi területen. Zárja autós túráját a grandiózus Cunault kastélynál.",
+        "ro": "Conduceți prin pitoreasca Valea Loarei, pornind de la biserica centrală Notre-Dame. Navigați ușor între ruinele antice și pietrele preistorice impresionante. După-amiaza, faceți o plimbare relaxantă în frumoasa rezervație naturală Joreau. Încheiați-vă turul la grandiosul Castel Cunault.",
+        "en": "Drive through the scenic Loire Valley starting at the central Notre-Dame Church. Easily navigate between ancient ruins and impressive standing stones. In the afternoon, take a relaxing walk in the beautiful Joreau nature reserve. Conclude your driving tour at the grand Château de Cunault."
+      }
+    }
+  }
+}

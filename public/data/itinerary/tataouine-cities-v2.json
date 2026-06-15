@@ -1,0 +1,428 @@
+{
+  "city_id": "tataouine-cities-v2",
+  "anchor": {
+    "name": "Tataouine",
+    "coords": [
+      10.4517,
+      32.9296
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ksar Dagaghra",
+            "hu": "Ksar Dagaghra",
+            "ro": "Ksar Dagaghra",
+            "en": "Ksar Dagaghra"
+          },
+          "coords": [
+            10.441976,
+            32.921228
+          ],
+          "category": "castle",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Anlage dieses alten Ksar, der fürs Überleben in der Wüste wichtig war, und tragen Sie feste Schuhe.",
+            "hu": "Csodálja meg ennek az ősi ksar-nak az elrendezését, amely létfontosságú volt a sivatagban, és viseljen masszív cipőt.",
+            "ro": "Admirați structura acestui vechi ksar, esențial pentru supraviețuirea în deșert, și purtați încălțăminte robustă aici.",
+            "en": "Admire the fortress layout of this ancient ksar, essential for desert survival, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mguebla ruines",
+            "hu": "Mguebla ruines",
+            "ro": "Mguebla ruines",
+            "en": "Mguebla ruines"
+          },
+          "coords": [
+            10.419616,
+            32.921547
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese stimmungsvollen Ruinen vergangener Siedlungen und bringen Sie extra Wasser mit, da es keinen Schatten gibt.",
+            "hu": "Fedezze fel ezeket a hangulatos romokat, amelyek egykori településekről mesélnek, és hozzon extra vizet, mert nincs árnyék.",
+            "ro": "Explorați aceste ruine evocatoare care spun povești ale așezărilor trecute, aducând apă în plus deoarece umbra este rară.",
+            "en": "Explore these evocative ruins that tell tales of past settlements, bringing extra water as there is little shade around."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaur",
+            "hu": "Dinosaur",
+            "ro": "Dinosaur",
+            "en": "Dinosaur"
+          },
+          "coords": [
+            10.422137,
+            32.92117
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die faszinierenden geologischen Formationen aus der Dinosaurierzeit und machen Sie Fotos im frühen Nachmittagslicht.",
+            "hu": "Nézze meg az ősi dinoszauruszokhoz kötődő lenyűgöző geológiai képződményeket, és fotózzon a kora délutáni fényekben.",
+            "ro": "Vedeți formațiunile geologice fascinante asociate cu vechii dinozauri, profitând de lumina perfectă de la începutul după-amiezii.",
+            "en": "See the fascinating natural geological formations associated with ancient dinosaurs, taking photos early in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "ruines d'un village",
+            "hu": "ruines d'un village",
+            "ro": "ruines d'un village",
+            "en": "ruines d'un village"
+          },
+          "coords": [
+            10.404491,
+            32.883375
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 68,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste dieses verlassenen Dorfes, um das alte Leben zu verstehen, und achten Sie auf unebene Wege.",
+            "hu": "Sétáljon végig az elhagyott falu maradványain a hagyományos élet megismeréséhez, óvatosan lépkedve az egyenetlen ösvényeken.",
+            "ro": "Plimbați-vă printre rămășițele satului abandonat pentru a înțelege viața tradițională, pășind cu grijă pe potecile stâncoase.",
+            "en": "Walk through the remnants of this abandoned village to understand traditional life, treading carefully on uneven loose paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksar ruines",
+            "hu": "Ksar ruines",
+            "ro": "Ksar ruines",
+            "en": "Ksar ruines"
+          },
+          "coords": [
+            10.40445,
+            32.879664
+          ],
+          "category": "historical",
+          "arrive_at": "16:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Größe dieser weitläufigen historischen Ruinen vom Hügel aus, perfekt für den Abschluss bei Sonnenuntergang.",
+            "hu": "Fedezze fel a kiterjedt történelmi romok hatalmas méretét a dombtetőről, amely tökéletes helyszín a naplemente megtekintéséhez.",
+            "ro": "Descoperiți scara vastă a acestor ruine istorice extinse de pe vârful dealului, locul ideal pentru a încheia ziua la apus.",
+            "en": "Discover the vast scale of these sprawling historical ruins from the hilltop, perfect for concluding the day at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung des alten Ksar Dagaghra und der tiefen Festungsgeschichte. Mittags führt der Weg nach Westen zu den Mguebla-Ruinen und der faszinierenden Dinosaurier-Stätte. Der Nachmittag bietet eine malerische Wanderung zu den tieferen Talruinen. Der Abend endet an den Ksar-Ruinen mit einem tollen Panorama im Sonnenuntergang.",
+        "hu": "A reggel az ősi Ksar Dagaghra erődítésének felfedezésével és a helyi történelem megismerésével indul. A dél a Mguebla romokhoz és az érdekes dinoszaurusz lelethez vezet. Délután egy festői séta vár a mélyebben fekvő völgy romjai felé. Az este a lenyűgöző Ksar romjainál zárul, ahonnan tökéletes kilátás nyílik a naplementére.",
+        "ro": "Dimineața începe cu explorarea vechiului Ksar Dagaghra și a istoriei fortificațiilor locale. La prânz vă îndreptați spre vest spre ruinele Mguebla și fascinantul sit cu dinozauri. După-amiaza aduce o drumeție pitorească spre ruinele din vale. Seara se încheie la ruinele Ksar, oferind o panoramă perfectă la apus de soare.",
+        "en": "Morning begins exploring the ancient Ksar Dagaghra and soaking up the deep history of local fortification. Midday takes you westward to the Mguebla ruins and the fascinating Dinosaur sight. Afternoon involves a scenic hike towards the deeper valley ruins. Evening concludes at the sweeping Ksar ruins, offering a perfect sunset panorama."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 9.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gatoufa ruines",
+            "hu": "Gatoufa ruines",
+            "ro": "Gatoufa ruines",
+            "en": "Gatoufa ruines"
+          },
+          "coords": [
+            10.485621,
+            32.898696
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die verwitterten Mauern von Gatoufa in der Landschaft, ein toller erster Halt, um die Fahrräder zu testen.",
+            "hu": "Nézze meg a tájban elszigetelten álló Gatoufa kopott falait, ami remek első megálló a kerékpáros felszerelés tesztelésére.",
+            "ro": "Observați zidurile erodate de la Gatoufa care stau izolate în peisaj, o primă oprire perfectă pentru a verifica bicicletele.",
+            "en": "Check out the weathered walls of Gatoufa that stand isolated in the landscape, a great first stop to test your biking gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Gattoufa Jedida ruines 04",
+            "hu": "Gattoufa Jedida ruines 04",
+            "ro": "Gattoufa Jedida ruines 04",
+            "en": "Gattoufa Jedida ruines 04"
+          },
+          "coords": [
+            10.520101,
+            32.898815
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Entwicklung dieser neueren Ruinen und schließen Sie Ihr Rad sicher ab vor dem Rundgang.",
+            "hu": "Csodálja meg az építészeti fejlődést ezekben az újabb romokban, és biztonságosan zárja le a kerékpárját a séta előtt.",
+            "ro": "Admirați evoluția arhitecturală continuă în aceste ruine mai noi, asigurând bicicleta înainte de a explora perimetrul.",
+            "en": "Marvel at the continued architectural evolution in these newer ruins, locking your bike securely before walking around."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksar Jelidat",
+            "hu": "Ksar Jelidat",
+            "ro": "Ksar Jelidat",
+            "en": "Ksar Jelidat"
+          },
+          "coords": [
+            10.525244,
+            32.897902
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Kornkammern (Ghorfas) für wichtige Ernten und treten Sie ein, um die kühle Temperatur zu spüren.",
+            "hu": "Vizsgálja meg a létfontosságú termények tárolására használt magtárakat, és lépjen be, hogy érezze a kellemes hűvöset.",
+            "ro": "Examinați celulele de grânar folosite pentru depozitarea recoltelor vitale, intrând pentru a aprecia temperatura răcoroasă.",
+            "en": "Examine the granary cells (ghorfas) used for storing vital crops, stepping inside to appreciate the cool temperature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksar Ouled Boujlida",
+            "hu": "Ksar Ouled Boujlida",
+            "ro": "Ksar Ouled Boujlida",
+            "en": "Ksar Ouled Boujlida (Ksar Abdallah)"
+          },
+          "coords": [
+            10.524582,
+            32.902521
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die feine Handwerkskunst der Bogentüren in diesem Ksar, eine exzellente Kulisse für unvergessliche Fotos.",
+            "hu": "Figyelje meg az íves ajtónyílások finom kidolgozását ebben a ksar-ban, amely kiváló hátteret biztosít a fotózáshoz.",
+            "ro": "Observați măiestria ușilor arcuite din acest ksar, un fundal excelent pentru fotografii de călătorie memorabile astăzi.",
+            "en": "Notice the fine craftsmanship of the arched doorways in this ksar, an excellent backdrop for memorable travel photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksar Ouled Abdelouahed",
+            "hu": "Ksar Ouled Abdelouahed",
+            "ro": "Ksar Ouled Abdelouahed",
+            "en": "Ksar Ouled Abdelouahed"
+          },
+          "coords": [
+            10.523687,
+            32.904066
+          ],
+          "category": "historical",
+          "arrive_at": "15:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem stimmungsvollen Bauwerk, während die Sonne sinkt, und ruhen Sie sich auf den Steinen aus.",
+            "hu": "Fejezze be a túrát ennél a hangulatos építménynél a lemenő napfényben, és szánjon időt a pihenésre az ősi köveken.",
+            "ro": "Încheiați cursa la această structură plină de atmosferă la lăsarea soarelui, odihnindu-vă picioarele pe pietrele antice.",
+            "en": "End your ride at this atmospheric structure as the sun drops lower, taking time to rest your legs on the ancient stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag in Richtung Osten zu den Gatoufa-Ruinen und genießen Sie die Wüstenlandschaft. Mittags erreichen Sie die komplexen Strukturen von Gattoufa Jedida. Den Nachmittag verbringen Sie in der Nähe der Ksar Jelidat und Boujlida, alten Speicherburgen. Der Abend klingt am Ouled Abdelouahed in der goldenen Stunde aus.",
+        "hu": "Kezdje a kerékpáros napot a keleti Gatoufa romok felé tartva, élvezve a sivatagi tájat. Délben Gattoufa Jedida bonyolult szerkezeteit csodálhatja meg. A délutánt a jól megőrzött ksarkok, köztük a Ksar Jelidat és Boujlida felfedezésével tölti. Az este Ouled Abdelouahednél ér véget, ahol az aranyóra csodásan megvilágítja az ősi falakat.",
+        "ro": "Începeți ziua de ciclism pedalând spre est către ruinele Gatoufa, bucurându-vă de peisajele deșertice. Prânzul vă aduce la structurile complexe din Gattoufa Jedida. După-amiaza este petrecută explorând ksar-urile bine conservate, cum ar fi Ksar Jelidat. Seara se încheie la Ouled Abdelouahed, cu zidurile luminate în nuanțe aurii.",
+        "en": "Start your cycling day riding east to Gatoufa ruins, enjoying the open desert landscapes. Midday brings you to the intricate structures of Gattoufa Jedida. Afternoon is spent navigating the cluster of well-preserved ksours like Ksar Jelidat and Boujlida. Evening wraps up at Ouled Abdelouahed, where the golden hour illuminates ancient walls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 26.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ksar Ech Chehbane",
+            "hu": "Ksar Ech Chehbane",
+            "ro": "Ksar Ech Chehbane",
+            "en": "Ksar Ech Chehbane (Tlalet)"
+          },
+          "coords": [
+            10.384232,
+            32.98378
+          ],
+          "category": "historical",
+          "arrive_at": "09:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen gut versteckten Ksar, der viel Ruhe bietet, und parken Sie am Hauptweg, um lockeren Sand zu meiden.",
+            "hu": "Fedezze fel ezt a jól elrejtett ksar-t, amely kivételes nyugalmat kínál, és parkoljon a főúton a laza homok elkerülésére.",
+            "ro": "Explorați acest ksar bine ascuns care oferă o liniște excepțională, parcând lângă drumul principal pentru a evita nisipul.",
+            "en": "Explore this well-hidden ksar that offers exceptional tranquility, parking near the main access path to avoid loose sand."
+          }
+        },
+        {
+          "name": {
+            "de": "ruines",
+            "hu": "ruines",
+            "ro": "ruines",
+            "en": "ruines"
+          },
+          "coords": [
+            10.380916,
+            32.972997
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese unbenannten, aber historisch reichen Überreste und achten Sie auf die verstreuten niedrigen Steine.",
+            "hu": "Sétáljon ezen névtelen, de történelmileg gazdag alapzatok között, és ügyeljen a lépteire az elszórtan heverő kövek miatt.",
+            "ro": "Plimbați-vă printre aceste rămășițe istorice bogate, fiind atenți la pașii dumneavoastră printre pietrele împrăștiate jos.",
+            "en": "Wander among these unnamed but historically rich foundational remains, watching your step among the low scattered stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Bir Essmar ruines",
+            "hu": "Bir Essmar ruines",
+            "ro": "Bir Essmar ruines",
+            "en": "Bir Essmar ruines"
+          },
+          "coords": [
+            10.377448,
+            32.94634
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Layout dieser verfallenen Siedlung, die einst florierte, und nehmen Sie sich Zeit für Infotafeln.",
+            "hu": "Figyelje meg ennek az egykor virágzó településnek az elrendezését, és szánjon egy percet az információs táblák elolvasására.",
+            "ro": "Observați dispunerea acestei așezări ruinate care a prosperat odată aici, alocând timp pentru a citi orice panou informativ.",
+            "en": "Observe the layout of this ruined settlement that once thrived here, taking a moment to read any informational markers."
+          }
+        },
+        {
+          "name": {
+            "de": "Djebel Smira ruines",
+            "hu": "Djebel Smira ruines",
+            "ro": "Djebel Smira ruines",
+            "en": "Djebel Smira ruines"
+          },
+          "coords": [
+            10.387306,
+            32.893092
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Steigen Sie leicht den Hügel hinauf, um diese Ruinen am Wüstenhorizont zu sehen, und tragen Sie eine Sonnenbrille.",
+            "hu": "Másszon fel egy kicsit a dombra, hogy a sivatagi horizont előtt lássa a romokat, és viseljen napszemüveget az erős fény ellen.",
+            "ro": "Urcați ușor pe deal pentru a vedea aceste ruine la orizontul deșertului, purtând ochelari de soare împotriva luminii intense.",
+            "en": "Climb slightly up the hill to view these ruins against the desert horizon, wearing sunglasses to combat the intense glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksar ruines",
+            "hu": "Ksar ruines",
+            "ro": "Ksar ruines",
+            "en": "Ksar ruines"
+          },
+          "coords": [
+            10.40445,
+            32.879664
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mehrstöckige Struktur dieses großen Ksar ein und nutzen Sie ein Weitwinkelobjektiv für das volle Ausmaß.",
+            "hu": "Merüljön el ennek a jelentős romos ksar-nak a többszintes szerkezetében, és használjon nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Aprofundați structura pe mai multe niveluri a acestui ksar ruinat important, folosind un obiectiv superangular pentru detalii.",
+            "en": "Delve into the complex multi-level structure of this major ruined ksar, using a wide-angle lens to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaur",
+            "hu": "Dinosaur",
+            "ro": "Dinosaur",
+            "en": "Dinosaur"
+          },
+          "coords": [
+            10.422137,
+            32.92117
+          ],
+          "category": "natural",
+          "arrive_at": "16:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Stehen Sie neben den natürlichen Formationen, die an prähistorische Riesen erinnern, und machen Sie einen leichten Spaziergang.",
+            "hu": "Álljon meg a történelem előtti óriásokra emlékeztető természetes formációk mellett, és zárja a napot egy könnyű sétával.",
+            "ro": "Stați lângă formațiunile naturale ce amintesc de giganții preistorici, încheind ziua cu o plimbare ușoară în jurul sitului.",
+            "en": "Stand beside the natural formations reminiscent of prehistoric giants, concluding the day with an easy walk around the site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Norden zum abgelegenen Ksar Ech Chehbane für einen ruhigen Morgen zwischen alten Steinen. Mittags erkunden Sie die verstreuten historischen Überreste bei Bir Essmar. Der Nachmittag führt nach Süden zu den Djebel Smira Ruinen, reich an Kulturerbe. Der Abend endet am geologischen Dinosaurier-Standort mit einem tollen Sonnenuntergang.",
+        "hu": "Autózzon északra a távoli Ksar Ech Chehbane felé egy békés, ősi kövek közötti reggelért. Délben a Bir Essmar környéki szétszórt történelmi maradványokat fedezheti fel. Délután a Djebel Smira és a kulturálisan gazdag Ksar romok felé halad délre. Az este a különleges geológiai dinoszaurusz lelőhely meglátogatásával zárul naplemente alatt.",
+        "ro": "Conduceți spre nord până la izolatul Ksar Ech Chehbane pentru o dimineață liniștită printre pietre antice. La prânz explorați vestigiile istorice împrăștiate de lângă Bir Essmar. După-amiaza călătoriți spre sud către Djebel Smira și ruinele bogate din zonă. Seara se încheie la situl natural cu dinozauri, perfect pentru un apus de neuitat.",
+        "en": "Drive north to the remote Ksar Ech Chehbane for a peaceful morning among ancient stones. Midday explores the scattered historical remains near Bir Essmar. Afternoon journeys south toward Djebel Smira and the impressive Ksar ruins, rich in cultural heritage. Evening concludes with a visit to the Dinosaur natural site for a unique geological sunset."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "norway-a-cities-v2",
+  "anchor": {
+    "name": "Å",
+    "coords": [
+      12.984044,
+      67.879616
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Norsk Fiskeværsmuseum",
+            "hu": "Norsk Fiskeværsmuseum",
+            "ro": "Norsk Fiskeværsmuseum",
+            "en": "Norsk Fiskeværsmuseum"
+          },
+          "coords": [
+            12.982061,
+            67.881374
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Dorfleben in diesem Freilichtmuseum mit authentischen Fischerhütten aus dem 19. Jahrhundert, und tragen Sie feste Schuhe für die Holzstege.",
+            "hu": "Fedezze fel a hagyományos falusi életet ebben a 19. századi halászkunyhókat megőrző szabadtéri múzeumban, és mindenképpen viseljen kényelmes cipőt az egyenetlen fapadlókon.",
+            "ro": "Descoperiți viața tradițională în acest muzeu în aer liber care păstrează colibe autentice de pescari din secolul al XIX-lea și purtați încălțăminte comodă pe docurile din lemn.",
+            "en": "Discover traditional village life in this open-air museum preserving authentic 19th-century fishermen's cabins, and be sure to wear sturdy shoes for the uneven wooden docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cod liver oil factory museum",
+            "hu": "Cod liver oil factory museum",
+            "ro": "Cod liver oil factory museum",
+            "en": "Cod liver oil factory museum"
+          },
+          "coords": [
+            12.983442,
+            67.881182
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.06,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die historische Bedeutung der Lebertranproduktion anhand originaler Pressmaschinen, aber stellen Sie sich auf den unverwechselbaren, strengen Fischgeruch ein.",
+            "hu": "Ismerje meg a csukamájolaj-gyártás történelmi jelentőségét az eredeti présgépek megtekintésével, de készüljön fel az épületben még mindig érezhető jellegzetes halillatra.",
+            "ro": "Aflați despre importanța istorică a producției de ulei de ficat de cod prin mașinile originale de presare expuse, deși ar trebui să vă pregătiți pentru mirosul puternic de pește.",
+            "en": "Learn about the historical importance of cod liver oil production with original pressing machinery on display, though you should prepare for the distinct lingering fishy aroma."
+          }
+        },
+        {
+          "name": {
+            "de": "Lofoten Stockfish Museum",
+            "hu": "Lofoten Stockfish Museum",
+            "ro": "Lofoten Stockfish Museum",
+            "en": "Lofoten Stockfish Museum"
+          },
+          "coords": [
+            12.984149,
+            67.88227
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie den faszinierenden, jahrhundertealten Prozess der Stockfischtrocknung, und bitten Sie den leidenschaftlichen Besitzer um eine persönliche Demonstration der Sortierung.",
+            "hu": "Fedezze fel a helyi kereskedelmet formáló, évszázados halfeldolgozási és szárítási folyamatot, és kérje meg a szenvedélyes tulajdonost egy személyes minősítési bemutatóra.",
+            "ro": "Explorați procesul fascinant și vechi de secole al uscării peștelui care a modelat comerțul local și rugați proprietarul pasionat să vă demonstreze tehnicile de sortare.",
+            "en": "Explore the fascinating centuries-old process of drying fish which shaped local commerce, and ask the passionate owner for a personal demonstration of the grading techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Tindstinden",
+            "hu": "Tindstinden",
+            "ro": "Tindstinden",
+            "en": "Tindstinden"
+          },
+          "coords": [
+            12.985391,
+            67.887988
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen zugänglichen Gipfel für atemberaubende Panoramablicke über die dramatischen Fjorde, aber packen Sie eine Windjacke ein, da es oben recht kühl wird.",
+            "hu": "Mássza meg ezt a könnyen megközelíthető csúcsot a drámai fjordokra nyíló lélegzetelállító panorámáért, de hozzon széldzsekit, mivel a part menti szél a tetőn nagyon hűvös lehet.",
+            "ro": "Urcați pe acest vârf accesibil pentru vederi panoramice uluitoare asupra fiordurilor dramatice din jur, dar luați o geacă de vânt deoarece briza devine destul de rece sus.",
+            "en": "Hike this accessible peak for breathtaking panoramic views over the surrounding dramatic fjords, but pack a windbreaker as the coastal breezes become quite chilly at the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tind",
+            "hu": "Tind",
+            "ro": "Tind",
+            "en": "Tind"
+          },
+          "coords": [
+            12.998881,
+            67.885764
+          ],
+          "category": "landmark",
+          "arrive_at": "15:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses außergewöhnlich erhaltene Fischerdorf mit seinen klassischen roten Rorbuer-Hütten, und machen Sie Ihre besten Fotos während der weichen Nachmittagssonne.",
+            "hu": "Sétáljon végig ezen a kivételesen megőrzött történelmi halászfalun a klasszikus piros rorbuer kunyhókkal, és készítse el legjobb fényképeit a lágy délutáni aranyórában.",
+            "ro": "Plimbați-vă prin acest cătun pescăresc istoric excepțional conservat cu cabane clasice roșii rorbuer și surprindeți cele mai bune fotografii în timpul orei de aur de după-amiază.",
+            "en": "Stroll through this exceptionally preserved historical fishing hamlet showcasing classic red rorbuer cabins, and capture your best photographs during the soft afternoon golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen und tauchen Sie in das reiche Erbe von Å ein. Die örtlichen Freilichtmuseen erwecken die raue, aber faszinierende Realität der historischen Küstenfischerei zum Leben.\n\nGegen Mittag wechseln Sie von den historischen Ausstellungen zu den einzigartigen Lebertran- und Stockfischmuseen, um das wirtschaftliche Rückgrat der Lofoten-Inseln besser zu verstehen.\n\nLassen Sie am Nachmittag die dramatische arktische Landschaft in den Mittelpunkt rücken, während Sie die schroffen Gipfel erwandern. Die Aussichtspunkte bieten unvergleichliche Fjordpanoramen.\n\nBeenden Sie den Abend mit einem Spaziergang durch wunderschön erhaltene architektonische Wahrzeichen und blicken Sie auf einen Tag zurück, an dem norwegische Natur und Geschichte verschmelzen.",
+        "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
+        "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
+        "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Norsk Fiskeværsmuseum",
+            "hu": "Norsk Fiskeværsmuseum",
+            "ro": "Norsk Fiskeværsmuseum",
+            "en": "Norsk Fiskeværsmuseum"
+          },
+          "coords": [
+            12.982061,
+            67.881374
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Dorfleben in diesem Freilichtmuseum mit authentischen Fischerhütten aus dem 19. Jahrhundert, und tragen Sie feste Schuhe für die Holzstege.",
+            "hu": "Fedezze fel a hagyományos falusi életet ebben a 19. századi halászkunyhókat megőrző szabadtéri múzeumban, és mindenképpen viseljen kényelmes cipőt az egyenetlen fapadlókon.",
+            "ro": "Descoperiți viața tradițională în acest muzeu în aer liber care păstrează colibe autentice de pescari din secolul al XIX-lea și purtați încălțăminte comodă pe docurile din lemn.",
+            "en": "Discover traditional village life in this open-air museum preserving authentic 19th-century fishermen's cabins, and be sure to wear sturdy shoes for the uneven wooden docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lofoten Stockfish Museum",
+            "hu": "Lofoten Stockfish Museum",
+            "ro": "Lofoten Stockfish Museum",
+            "en": "Lofoten Stockfish Museum"
+          },
+          "coords": [
+            12.984149,
+            67.88227
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie den faszinierenden, jahrhundertealten Prozess der Stockfischtrocknung, und bitten Sie den leidenschaftlichen Besitzer um eine persönliche Demonstration der Sortierung.",
+            "hu": "Fedezze fel a helyi kereskedelmet formáló, évszázados halfeldolgozási és szárítási folyamatot, és kérje meg a szenvedélyes tulajdonost egy személyes minősítési bemutatóra.",
+            "ro": "Explorați procesul fascinant și vechi de secole al uscării peștelui care a modelat comerțul local și rugați proprietarul pasionat să vă demonstreze tehnicile de sortare.",
+            "en": "Explore the fascinating centuries-old process of drying fish which shaped local commerce, and ask the passionate owner for a personal demonstration of the grading techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Tindstinden",
+            "hu": "Tindstinden",
+            "ro": "Tindstinden",
+            "en": "Tindstinden"
+          },
+          "coords": [
+            12.985391,
+            67.887988
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen zugänglichen Gipfel für atemberaubende Panoramablicke über die dramatischen Fjorde, aber packen Sie eine Windjacke ein, da es oben recht kühl wird.",
+            "hu": "Mássza meg ezt a könnyen megközelíthető csúcsot a drámai fjordokra nyíló lélegzetelállító panorámáért, de hozzon széldzsekit, mivel a part menti szél a tetőn nagyon hűvös lehet.",
+            "ro": "Urcați pe acest vârf accesibil pentru vederi panoramice uluitoare asupra fiordurilor dramatice din jur, dar luați o geacă de vânt deoarece briza devine destul de rece sus.",
+            "en": "Hike this accessible peak for breathtaking panoramic views over the surrounding dramatic fjords, but pack a windbreaker as the coastal breezes become quite chilly at the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sørvågen",
+            "hu": "Sørvågen",
+            "ro": "Sørvågen",
+            "en": "Sørvågen"
+          },
+          "coords": [
+            13.03016,
+            67.889001
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen malerischen Naturhafen, der von steilen, sich im Wasser spiegelnden Bergen umgeben ist, und bringen Sie eigene Snacks mit, da die Gastronomie begrenzt ist.",
+            "hu": "Barangolja be ezt a meredek hegyekkel körülvett, a vízben tökéletesen tükröződő festői természetes kikötőt, és hozzon magával rágcsálnivalót, mivel az étkezési lehetőségek ritkák.",
+            "ro": "Plimbați-vă în jurul acestui port natural pitoresc înconjurat de munți abrupți care se reflectă în apă și aduceți-vă propriile gustări deoarece opțiunile de luat masa sunt rare.",
+            "en": "Wander around this picturesque natural harbor surrounded by steep mountains that perfectly reflect in the water, and bring your own snacks as local dining options are quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Norsk Telemuseum Sørvågen",
+            "hu": "Norsk Telemuseum Sørvågen",
+            "ro": "Norsk Telemuseum Sørvågen",
+            "en": "Norsk Telemuseum Sørvågen"
+          },
+          "coords": [
+            13.025253,
+            67.890994
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die überraschende technologische Geschichte von Norwegens erster drahtloser Telegrafenstation, und nehmen Sie sich Zeit für die interaktiven Kommunikationsausstellungen.",
+            "hu": "Fedezze fel Norvégia első vezeték nélküli távíróállomásának meglepő technológiai történetét itt, és szánjon időt a part menti kommunikációt bemutató interaktív kiállításokra.",
+            "ro": "Descoperiți istoria tehnologică surprinzătoare a primei stații de telegraf fără fir din Norvegia aici și alocați-vă timp pentru a citi expozițiile interactive despre comunicații.",
+            "en": "Discover the surprising technological history of Norway's first wireless telegraph station here, and take time to read the interactive exhibits explaining coastal communications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen und tauchen Sie in das reiche Erbe von Å ein. Die örtlichen Freilichtmuseen erwecken die raue, aber faszinierende Realität der historischen Küstenfischerei zum Leben.\n\nGegen Mittag wechseln Sie von den historischen Ausstellungen zu den einzigartigen Lebertran- und Stockfischmuseen, um das wirtschaftliche Rückgrat der Lofoten-Inseln besser zu verstehen.\n\nLassen Sie am Nachmittag die dramatische arktische Landschaft in den Mittelpunkt rücken, während Sie die schroffen Gipfel erwandern. Die Aussichtspunkte bieten unvergleichliche Fjordpanoramen.\n\nBeenden Sie den Abend mit einem Spaziergang durch wunderschön erhaltene architektonische Wahrzeichen und blicken Sie auf einen Tag zurück, an dem norwegische Natur und Geschichte verschmelzen.",
+        "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
+        "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
+        "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Norsk Fiskeværsmuseum",
+            "hu": "Norsk Fiskeværsmuseum",
+            "ro": "Norsk Fiskeværsmuseum",
+            "en": "Norsk Fiskeværsmuseum"
+          },
+          "coords": [
+            12.982061,
+            67.881374
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Dorfleben in diesem Freilichtmuseum mit authentischen Fischerhütten aus dem 19. Jahrhundert, und tragen Sie feste Schuhe für die Holzstege.",
+            "hu": "Fedezze fel a hagyományos falusi életet ebben a 19. századi halászkunyhókat megőrző szabadtéri múzeumban, és mindenképpen viseljen kényelmes cipőt az egyenetlen fapadlókon.",
+            "ro": "Descoperiți viața tradițională în acest muzeu în aer liber care păstrează colibe autentice de pescari din secolul al XIX-lea și purtați încălțăminte comodă pe docurile din lemn.",
+            "en": "Discover traditional village life in this open-air museum preserving authentic 19th-century fishermen's cabins, and be sure to wear sturdy shoes for the uneven wooden docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lofoten Stockfish Museum",
+            "hu": "Lofoten Stockfish Museum",
+            "ro": "Lofoten Stockfish Museum",
+            "en": "Lofoten Stockfish Museum"
+          },
+          "coords": [
+            12.984149,
+            67.88227
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie den faszinierenden, jahrhundertealten Prozess der Stockfischtrocknung, und bitten Sie den leidenschaftlichen Besitzer um eine persönliche Demonstration der Sortierung.",
+            "hu": "Fedezze fel a helyi kereskedelmet formáló, évszázados halfeldolgozási és szárítási folyamatot, és kérje meg a szenvedélyes tulajdonost egy személyes minősítési bemutatóra.",
+            "ro": "Explorați procesul fascinant și vechi de secole al uscării peștelui care a modelat comerțul local și rugați proprietarul pasionat să vă demonstreze tehnicile de sortare.",
+            "en": "Explore the fascinating centuries-old process of drying fish which shaped local commerce, and ask the passionate owner for a personal demonstration of the grading techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinddalstinden",
+            "hu": "Tinddalstinden",
+            "ro": "Tinddalstinden",
+            "en": "Tinddalstinden"
+          },
+          "coords": [
+            12.965326,
+            67.892345
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Fordern Sie sich mit einer steilen Wanderung auf diesen schroffen Berg heraus, der unvergleichliche Inselblicke bietet, und bringen Sie unbedingt Wanderstöcke für den losen Schotter mit.",
+            "hu": "Tegye próbára magát egy meredek túrával ezen a zord hegyen, amely páratlan kilátást nyújt a szigetvilágra, és mindenképpen hozzon túrabotot a laza kavicsos terep leküzdéséhez.",
+            "ro": "Provocați-vă cu o drumeție abruptă pe acest munte accidentat care oferă vederi de neegalat asupra arhipelagului și aduceți neapărat bețe de drumeție pentru a naviga pietrișul liber.",
+            "en": "Challenge yourself with a steep yet rewarding hike up this rugged mountain offering unparalleled archipelago views, and definitely bring hiking poles to navigate the loose gravel."
+          }
+        },
+        {
+          "name": {
+            "de": "Sørvågen",
+            "hu": "Sørvågen",
+            "ro": "Sørvågen",
+            "en": "Sørvågen"
+          },
+          "coords": [
+            13.03016,
+            67.889001
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.74,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen malerischen Naturhafen, der von steilen, sich im Wasser spiegelnden Bergen umgeben ist, und bringen Sie eigene Snacks mit, da die Gastronomie begrenzt ist.",
+            "hu": "Barangolja be ezt a meredek hegyekkel körülvett, a vízben tökéletesen tükröződő festői természetes kikötőt, és hozzon magával rágcsálnivalót, mivel az étkezési lehetőségek ritkák.",
+            "ro": "Plimbați-vă în jurul acestui port natural pitoresc înconjurat de munți abrupți care se reflectă în apă și aduceți-vă propriile gustări deoarece opțiunile de luat masa sunt rare.",
+            "en": "Wander around this picturesque natural harbor surrounded by steep mountains that perfectly reflect in the water, and bring your own snacks as local dining options are quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Norsk Telemuseum Sørvågen",
+            "hu": "Norsk Telemuseum Sørvågen",
+            "ro": "Norsk Telemuseum Sørvågen",
+            "en": "Norsk Telemuseum Sørvågen"
+          },
+          "coords": [
+            13.025253,
+            67.890994
+          ],
+          "category": "museum",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die überraschende technologische Geschichte von Norwegens erster drahtloser Telegrafenstation, und nehmen Sie sich Zeit für die interaktiven Kommunikationsausstellungen.",
+            "hu": "Fedezze fel Norvégia első vezeték nélküli távíróállomásának meglepő technológiai történetét itt, és szánjon időt a part menti kommunikációt bemutató interaktív kiállításokra.",
+            "ro": "Descoperiți istoria tehnologică surprinzătoare a primei stații de telegraf fără fir din Norvegia aici și alocați-vă timp pentru a citi expozițiile interactive despre comunicații.",
+            "en": "Discover the surprising technological history of Norway's first wireless telegraph station here, and take time to read the interactive exhibits explaining coastal communications."
+          }
+        },
+        {
+          "name": {
+            "de": "Andstabben",
+            "hu": "Andstabben",
+            "ro": "Andstabben",
+            "en": "Andstabben"
+          },
+          "coords": [
+            12.947381,
+            67.876897
+          ],
+          "category": "natural",
+          "arrive_at": "16:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die einsame Schönheit dieser majestätischen Naturformation abseits der Touristenmassen, und planen Sie Ihren Besuch für den späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze e fenséges természeti képződmény magányos szépségét távol a fő turistatömegtől, és időzítse látogatását késő délutánra, amikor a sziklafalat gyönyörűen megvilágítja a nap.",
+            "ro": "Bucurați-vă de frumusețea solitară a acestei formațiuni naturale maiestuoase departe de aglomerație și planificați-vă vizita pentru sfârșitul după-amiezii când stânca este luminată.",
+            "en": "Enjoy the solitary beauty of this majestic natural formation away from the main tourist crowds, and plan your visit for late afternoon when the rocky face is beautifully illuminated."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen und tauchen Sie in das reiche Erbe von Å ein. Die örtlichen Freilichtmuseen erwecken die raue, aber faszinierende Realität der historischen Küstenfischerei zum Leben.\n\nGegen Mittag wechseln Sie von den historischen Ausstellungen zu den einzigartigen Lebertran- und Stockfischmuseen, um das wirtschaftliche Rückgrat der Lofoten-Inseln besser zu verstehen.\n\nLassen Sie am Nachmittag die dramatische arktische Landschaft in den Mittelpunkt rücken, während Sie die schroffen Gipfel erwandern. Die Aussichtspunkte bieten unvergleichliche Fjordpanoramen.\n\nBeenden Sie den Abend mit einem Spaziergang durch wunderschön erhaltene architektonische Wahrzeichen und blicken Sie auf einen Tag zurück, an dem norwegische Natur und Geschichte verschmelzen.",
+        "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
+        "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
+        "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      }
+    }
+  }
+}

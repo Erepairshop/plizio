@@ -1,0 +1,474 @@
+{
+  "city_id": "sweden-solna-cities-v2",
+  "anchor": {
+    "name": "Solna",
+    "coords": [
+      18,
+      59.36
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "U 121",
+            "hu": "U 121 rúnakő",
+            "ro": "Piatra runică U 121",
+            "en": "U 121 Runestone"
+          },
+          "coords": [
+            18.01937,
+            59.366354
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen Runenstein aus der Wikingerzeit, um die lokale Geschichte zu entdecken, und kommen Sie früh, wenn das Licht die Schnitzereien hervorhebt.",
+            "hu": "Fedezze fel a helyi történelmet ezen a viking kori rúnakövön, és érkezzen kora reggel, amikor az alacsony szögben beeső fény tökéletesen kiemeli a faragásokat.",
+            "ro": "Examinați această piatră runică din epoca vikingă pentru a descoperi istoria locală și veniți dimineața devreme, când lumina scoate în evidență sculpturile.",
+            "en": "Examine this ancient Viking-age runestone to uncover local history, and visit early in the morning when the low light perfectly highlights the intricate carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmetterlingshaus Haga Ocean",
+            "hu": "Pillangóház Haga Ocean",
+            "ro": "Casa Fluturilor Haga Ocean",
+            "en": "Butterfly House Haga Ocean"
+          },
+          "coords": [
+            18.030607,
+            59.366082
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tropische Wärme ein, um Schmetterlinge und Haie zu sehen; sparen Sie sich Zeit am Eingang, indem Sie Ihre Tickets vorab online reservieren.",
+            "hu": "Merüljön el a trópusi melegben, csodálja meg a szabadon repkedő pillangókat és cápákat, és spóroljon időt a bejáratnál azzal, hogy előre online foglal jegyet.",
+            "ro": "Cufundați-vă în căldura tropicală pentru a vedea fluturi zburând liberi și rechini, economisind timp la intrare dacă vă rezervați biletele online în avans.",
+            "en": "Immerse yourself in the tropical warmth to see free-flying butterflies and majestic sharks, saving time at the entrance by booking your tickets online beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Haga Parkmuseum",
+            "hu": "Haga Parkmúzeum",
+            "ro": "Haga Parkmuseum",
+            "en": "Haga Parkmuseum"
+          },
+          "coords": [
+            18.030463,
+            59.364473
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie anhand detaillierter Exponate mehr über die landschaftliche Gestaltung des königlichen Parks und achten Sie auf die aufschlussreichen Modelle.",
+            "hu": "Ismerje meg a királyi park látványos tájépítészeti terveit a részletes kiállításokon keresztül, és fordítson külön figyelmet a lenyűgöző makettekre.",
+            "ro": "Aflați despre designul peisagistic al parcului regal prin expoziții detaliate, acordând o atenție deosebită modelelor la scară uimitoare de la etajul principal.",
+            "en": "Learn about the visionary landscape design of this royal park through detailed exhibits, ensuring you spend time examining the intricate scale models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Haga-Palastes",
+            "hu": "Haga-palota romjai",
+            "ro": "Ruinele Palatului Haga",
+            "en": "Haga Palace Ruins"
+          },
+          "coords": [
+            18.035809,
+            59.364511
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die faszinierenden Fundamente des unvollendeten großen Palastes, aber tragen Sie bequeme Schuhe, da das Gelände sehr uneben sein kann.",
+            "hu": "Sétáljon végig a befejezetlen nagy palota lenyűgöző alapjain, és viseljen kényelmes, stabil cipőt, mivel a terep meglehetősen egyenetlen lehet ezen a részen.",
+            "ro": "Plimbați-vă printre fundațiile fascinante ale marelui palat neterminat, purtând încălțăminte confortabilă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Wander through the massive foundations of Gustav III's unfinished grand palace, wearing sturdy walking shoes to safely navigate the surrounding uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Prinz Gustafs Monument",
+            "hu": "Gusztáv herceg emlékműve",
+            "ro": "Monumentul Prințului Gustaf",
+            "en": "Prins Gustafs monument"
+          },
+          "coords": [
+            18.039671,
+            59.36581
+          ],
+          "category": "monument",
+          "arrive_at": "15:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Legen Sie eine kurze Pause an dieser eleganten Hommage an einen beliebten Prinzen ein und machen Sie ein ruhiges Foto, eingerahmt von alten Bäumen.",
+            "hu": "Tartson egy rövid pihenőt ezen az elegáns emlékművön, amely egy szeretett svéd hercegnek állít emléket, és készítsen egy békés fotót az ősi fák ölelésében.",
+            "ro": "Faceți o scurtă pauză la acest omagiu elegant adus unui prinț iubit, surprinzând o fotografie senină, încadrată de copacii bătrâni din jur.",
+            "en": "Pause briefly at this elegant tribute to a beloved Swedish prince, capturing a beautifully serene photograph naturally framed by the surrounding ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustav III. Pavillon",
+            "hu": "III. Gusztáv pavilonja",
+            "ro": "Pavilionul lui Gustav al III-lea",
+            "en": "Gustav III:s paviljong"
+          },
+          "coords": [
+            18.039127,
+            59.362618
+          ],
+          "category": "castle",
+          "arrive_at": "15:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie eines der besten Beispiele neoklassizistischer Inneneinrichtung in Europa, aber nehmen Sie an einer Führung teil, da kein freier Zutritt möglich ist.",
+            "hu": "Csodálja meg Európa egyik legszebb neoklasszikus belsőépítészeti példáját, de mindenképp csatlakozzon egy vezetett túrához, mivel az önálló bejárás nem engedélyezett.",
+            "ro": "Admirați unul dintre cele mai bune exemple de design interior neoclasic din Europa, alăturându-vă unui tur ghidat, deoarece explorarea independentă nu este permisă.",
+            "en": "Admire one of Europe's absolute finest examples of neoclassical interior design, but ensure you join a guided tour as independent wandering is strictly prohibited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Wikingergeschichte am Runenstein U121, bevor Sie die tropische Wärme des Schmetterlingshauses genießen. Der Mittag ist den königlichen Landschaftsgeheimnissen im Haga Parkmuseum gewidmet. Am Nachmittag schlendern Sie durch die stimmungsvollen Ruinen des Haga-Palastes. Beenden Sie den Tag stilvoll mit der Erkundung des eleganten Pavillons von Gustav III.",
+        "hu": "Kezdje a reggelt a viking történelem felfedezésével az U121-es rúnakőnél, majd merüljön el a Pillangóház trópusi melegében. A délidőt a Haga Parkmúzeum királyi tájépítészeti titkainak megismerésével töltheti. Délután barangoljon a Haga-palota lenyűgöző romjai között és pihenjen meg Gusztáv herceg emlékművénél. Zárja az elegáns napot III. Gusztáv pompás pavilonjának megtekintésével.",
+        "ro": "Începeți dimineața explorând istoria vikingilor la piatra runică U121, apoi bucurați-vă de căldura tropicală a Casei Fluturilor. Amiaza este dedicată descoperirii secretelor peisagistice regale la Haga Parkmuseum. După-amiaza, plimbați-vă printre ruinele evocatoare ale Palatului Haga și admirați monumentul Prințului Gustaf. Încheiați ziua explorând magnificul Pavilion al lui Gustav al III-lea.",
+        "en": "Start your morning delving into Viking history at the U121 runestone, then transition into the lush warmth of the Butterfly House. Midday is spent uncovering royal landscape secrets at the Haga Parkmuseum. In the afternoon, wander through the evocative Haga Palace Ruins and pause at Prins Gustafs monument. Conclude your elegant day exploring the magnificent Gustav III's Pavilion."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:26",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kungshögen",
+            "hu": "Kungshögen sírhalmok",
+            "ro": "Kungshögen",
+            "en": "Kungshögen"
+          },
+          "coords": [
+            18.009234,
+            59.382552
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesen beeindruckenden eisenzeitlichen Grabhügeln, um die antike Bedeutung der Region zu spüren, und parken Sie Ihr Fahrrad sicher am Fuße.",
+            "hu": "Tekerjen el ezekhez a lenyűgöző vaskori sírhalmokhoz, hogy megértse a régió ősi jelentőségét, és hagyja biztonságosan a kerékpárját a domb lábánál.",
+            "ro": "Mergeți la aceste impresionante movile funerare din Epoca Fierului pentru a înțelege importanța antică a regiunii, parcând bicicleta la bază.",
+            "en": "Ride to these impressive Iron Age burial mounds to grasp the region's ancient significance, parking your bike safely at the base before hiking up to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Mellanjärva Gräberfeld",
+            "hu": "Mellanjärva temető",
+            "ro": "Cimitirul Mellanjärva",
+            "en": "Mellanjärva gravfält"
+          },
+          "coords": [
+            18.011726,
+            59.38257
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Friedhofslandschaft zu Fuß und bleiben Sie auf den markierten Wegen, um die empfindlichen archäologischen Überreste zu schützen.",
+            "hu": "Fedezze fel ezt a kiterjedt történelmi temetőt gyalogosan, és maradjon a kijelölt ösvényeken, hogy megvédje az érzékeny archaikus régészeti leleteket.",
+            "ro": "Explorați pe jos acest cimitir istoric întins, rămânând pe traseele marcate pentru a proteja delicatele vestigii arheologice din zonă.",
+            "en": "Explore this sprawling historical cemetery landscape on foot, making sure to stay strictly on the marked trails to protect the delicate archaeological remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Olle Olsson Hagalund-Museum",
+            "hu": "Olle Olsson Hagalund-múzeum",
+            "ro": "Muzeul Olle Olsson Hagalund",
+            "en": "Olle Olsson Hagalund-museet"
+          },
+          "coords": [
+            18.016045,
+            59.361024
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Treten Sie in die farbenfrohe Welt eines berühmten lokalen Künstlers in seinem Haus ein, aber prüfen Sie vorab die Wochenendöffnungszeiten online.",
+            "hu": "Lépjen be egy híres helyi művész színes, szeszélyes világába a megőrzött otthonában, de indulás előtt mindenképpen ellenőrizze a hétvégi nyitvatartást.",
+            "ro": "Pășiți în lumea colorată a unui celebru artist local în casa sa conservată, verificând din timp programul de funcționare din weekend pe internet.",
+            "en": "Step into the intensely colorful, whimsical world of a famous local artist in his preserved home, checking weekend opening hours online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haga Parkmuseum",
+            "hu": "Haga Parkmúzeum",
+            "ro": "Haga Parkmuseum",
+            "en": "Haga Parkmuseum"
+          },
+          "coords": [
+            18.030463,
+            59.364473
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause, um die Geschichte von Schwedens Landschaftspark zu erfahren, der bequem an den malerischen Radwegen am Ufer liegt.",
+            "hu": "Tartson egy kis szünetet, hogy megismerje Svédország első számú tájparkjának történetét, amely kényelmesen fekszik a festői vízparti kerékpárutak mentén.",
+            "ro": "Faceți o pauză pentru a afla istoria primului parc peisagistic din Suedia, situat convenabil lângă traseele pitorești de ciclism de pe malul apei.",
+            "en": "Take a fascinating break to learn the history of Sweden's premier landscape park, conveniently located near scenic waterfront cycling paths for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Huvudsta Strandbad",
+            "hu": "Huvudsta strandbad",
+            "ro": "Plaja Huvudsta",
+            "en": "Huvudsta strandbad"
+          },
+          "coords": [
+            17.990457,
+            59.3454
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich bei einem erfrischenden Bad oder einer Pause am grasbewachsenen Ufer ab und nutzen Sie die öffentlichen Einrichtungen und das nahe Café.",
+            "hu": "Hűtse le magát egy frissítő délutáni úszással vagy egy pihentető szünettel a füves parton, kihasználva a nyilvános mosdókat és a közeli kávézó kínálatát.",
+            "ro": "Răcoriți-vă cu o baie de după-amiază sau cu o pauză relaxantă pe malul înierbat, profitând de facilitățile publice excelente și de cafeneaua din apropiere.",
+            "en": "Cool off with a refreshing afternoon swim or a relaxing break on the grassy banks, making full use of the clean public amenities and the convenient nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Marabouparken Kunsthalle",
+            "hu": "Marabouparken műcsarnok",
+            "ro": "Galeria de artă Marabouparken",
+            "en": "Marabouparken konsthall"
+          },
+          "coords": [
+            17.957309,
+            59.364309
+          ],
+          "category": "museum",
+          "arrive_at": "17:16",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem Skulpturenpark und der Galerie für zeitgenössische Kunst; sichern Sie Ihr Fahrrad am Café für eine wohlverdiente Pause.",
+            "hu": "Zárja a túrát ebben a lenyűgöző szoborparkban és kortárs művészeti galériában, rögzítve kerékpárját a kávézó közelében egy jól megérdemelt finomságért.",
+            "ro": "Încheiați plimbarea la acest parc de sculpturi uimitor și galerie de artă contemporană, asigurându-vă bicicleta lângă cafenea pentru o tratație binemeritată.",
+            "en": "Conclude your ride at this stunning sculpture park and contemporary art gallery, securely locking your bike near the café to enjoy a well-deserved sweet treat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt an den monumentalen eisenzeitlichen Grabhügeln von Kungshögen und Mellanjärva. Bis zum Mittag führt Sie die Fahrt zum farbenfrohen Olle Olsson Museum und dem aufschlussreichen Haga Parkmuseum. Der Nachmittag bietet eine erfrischende Pause am Huvudsta Strandbad. Schließlich lassen Sie den Abend inmitten der zeitgenössischen Kunst und Skulpturen des Marabouparken ausklingen.",
+        "hu": "Kerékpártúrája Kungshögen és Mellanjärva lenyűgöző vaskori sírhalmainál indul. Délben dél felé pedálozva a színes Olle Olsson Múzeum és az informatív Haga Parkmúzeum várja. A délután frissítő vízparti pihenést kínál a Huvudsta strandbadnál. Végül az estéje a Marabouparken kortárs művészeti kiállításai és gyönyörű szobrai között, egy kellemes kávézóban csendesedik el.",
+        "ro": "Plimbarea cu bicicleta începe la movilele funerare din Epoca Fierului de la Kungshögen și Mellanjärva. La prânz, pedalând spre sud, ajungeți la coloratul muzeu Olle Olsson și la Haga Parkmuseum. După-amiaza vă oferă o pauză răcoroasă pe malul apei, la Huvudsta strandbad. În cele din urmă, seara se încheie printre arta contemporană și sculpturile superbe din Marabouparken.",
+        "en": "Your ride begins at the monumental Iron Age burial mounds of Kungshögen and Mellanjärva. By midday, pedaling south takes you to the colorful Olle Olsson Hagalund-museet and the insightful Haga Parkmuseum. The afternoon offers a refreshing waterfront break at Huvudsta strandbad. Finally, your evening winds down among the contemporary art and beautiful sculptures of Marabouparken."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ulvsunda",
+            "hu": "Ulvsunda kastély",
+            "ro": "Castelul Ulvsunda",
+            "en": "Ulvsunda Slott"
+          },
+          "coords": [
+            17.964409,
+            59.340986
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem majestätischen Schloss aus dem 17. Jahrhundert und genießen Sie einen Morgenkaffee in seinen gut erhaltenen Gärten.",
+            "hu": "Kezdje az autós túrát ennél a fenséges 17. századi kastélynál, és élvezze a reggeli kávét a gyönyörűen karbantartott és békés történelmi kertekben.",
+            "ro": "Începeți turul cu mașina la acest castel maiestuos din secolul al XVII-lea, bucurându-vă de o cafea de dimineață în grădinile sale frumos conservate.",
+            "en": "Begin your driving tour at this majestic 17th-century castle turned hotel, taking the time to enjoy a peaceful morning coffee in its beautifully preserved gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwedisches VVS-Museum",
+            "hu": "Svéd VVS-múzeum",
+            "ro": "Muzeul Suedez VVS",
+            "en": "Sveriges VVS-museum"
+          },
+          "coords": [
+            17.957782,
+            59.357124
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende, skurrile Geschichte der Sanitäranlagen, die sich in einem Gebiet mit einfachen Parkmöglichkeiten am Wochenende befindet.",
+            "hu": "Fedezze fel a vízvezetékek és szaniterek lenyűgöző, mókás történetét ebben a különleges múzeumban, amely hétvégén könnyen elérhető utcai parkolókkal rendelkezik.",
+            "ro": "Descoperiți istoria fascinantă și ciudată a instalațiilor sanitare suedeze, situată într-o zonă cu parcare stradală ușoară pe timpul weekendului.",
+            "en": "Discover the surprisingly fascinating and quirky history of plumbing and sanitation in Sweden, located in an area with very easy street parking on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Sundbybergs Museum",
+            "hu": "Sundbybergs múzeum",
+            "ro": "Muzeul Sundbybergs",
+            "en": "Sundbybergs museum"
+          },
+          "coords": [
+            17.962829,
+            59.364734
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lokale Erbe dieser lebendigen Gemeinde ein und verbinden Sie Ihren Besuch mit einem kurzen Spaziergang durch das nahe Stadtzentrum.",
+            "hu": "Merüljön el ennek a vibráló szomszédos településnek a helyi örökségében, és kösse össze a látogatást egy rövid, pihentető sétával a közeli városközpontban.",
+            "ro": "Pătrundeți în patrimoniul local al acestui municipiu vibrant, combinând vizita cu o scurtă plimbare relaxantă prin centrul orașului din apropiere.",
+            "en": "Dive deep into the local heritage of this vibrant neighboring municipality, easily combining your visit with a short, pleasant walk through the nearby town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Marabouparken Kunsthalle",
+            "hu": "Marabouparken műcsarnok",
+            "ro": "Galeria de artă Marabouparken",
+            "en": "Marabouparken konsthall"
+          },
+          "coords": [
+            17.957309,
+            59.364309
+          ],
+          "category": "museum",
+          "arrive_at": "13:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie erstklassige zeitgenössische Kunst und Skulpturen im Freien und nutzen Sie den speziellen Besucherparkplatz direkt vor den Toren.",
+            "hu": "Értékelje a világszínvonalú kortárs művészetet és a szabadtéri szobrokat, kihasználva a közvetlenül a kapukon kívül található, látogatók számára fenntartott parkolót.",
+            "ro": "Apreciați arta contemporană de clasă mondială și sculpturile în aer liber, profitând de parcarea dedicată vizitatorilor aflată chiar în fața porților.",
+            "en": "Appreciate world-class contemporary art and outdoor sculptures, taking full advantage of the dedicated visitor parking lot conveniently located right outside the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Kungshögen",
+            "hu": "Kungshögen",
+            "ro": "Kungshögen",
+            "en": "Kungshögen"
+          },
+          "coords": [
+            18.009234,
+            59.382552
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Fahren Sie in den Norden, um diese monumentalen eisenzeitlichen Gräber zu erkunden, die eine ruhige, besinnliche Atmosphäre abseits der Stadt bieten.",
+            "hu": "Hajtson északra, hogy felfedezze ezeket a monumentális vaskori sírokat, amelyek csendes, elmélkedésre alkalmas légkört kínálnak, távol a nyüzsgő várostól.",
+            "ro": "Conduceți spre marginile nordice pentru a explora aceste morminte monumentale din Epoca Fierului, oferind o atmosferă liniștită, departe de agitația orașului.",
+            "en": "Drive up to the northern fringes to explore these monumental Iron Age graves, offering a quiet, contemplative atmosphere completely away from the city buzz."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmetterlingshaus Haga Ocean",
+            "hu": "Pillangóház Haga Ocean",
+            "ro": "Casa Fluturilor Haga Ocean",
+            "en": "Butterfly House Haga Ocean"
+          },
+          "coords": [
+            18.030607,
+            59.366082
+          ],
+          "category": "museum",
+          "arrive_at": "17:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in üppigen tropischen Gewächshäusern und Aquarien und nutzen Sie den großen Parkplatz direkt am Haupteingang des Parks.",
+            "hu": "Fejezze be a napját buja trópusi üvegházak és akváriumok felfedezésével, használva a park főbejárata mellett található tágas, kényelmes parkolót.",
+            "ro": "Terminați ziua explorând sere tropicale luxuriante și acvarii, folosind parcarea spațioasă situată chiar lângă intrarea principală a parcului.",
+            "en": "Finish your day exploring lush tropical greenhouses and spectacular aquariums, utilizing the spacious parking area located right by the main park entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am historischen Ulvsunda Slott, bevor Sie das überraschend faszinierende schwedische Sanitär-Museum besuchen. Mittags tauchen Sie im Sundbybergs Museum und im Marabouparken in die lokale Kultur ein. Fahren Sie am späten Nachmittag nach Norden zu den alten Grabhügeln von Kungshögen. Der Tag endet mit exotischer Fauna im wunderschönen Schmetterlingshaus.",
+        "hu": "Autós túráját a történelmi Ulvsunda kastélynál kezdi, mielőtt a meglepően lenyűgöző svéd vízvezeték-múzeumba indulna. A délidő helyi kulturális élményeket hoz a Sundbybergs múzeumban és a Marabouparken buja művészeti tereiben. Késő délután hajtson északra, hogy felfedezze az ősi Kungshögen halmokat. A napot a Pillangóház egzotikus vízi és légi élővilágának megcsodálásával zárhatja.",
+        "ro": "Începeți traseul auto la istoricul Ulvsunda Slott, înainte de a vizita surprinzătorul muzeu suedez al instalațiilor sanitare. Amiaza aduce imersiune culturală la muzeul Sundbybergs și în spațiile artistice din Marabouparken. După-amiaza târziu, conduceți spre nord pentru a explora vechile movile Kungshögen. Ziua se termină cu viața exotică și acvatică fascinantă de la Casa Fluturilor.",
+        "en": "Kick off your driving route at the historic Ulvsunda Slott before heading to the surprisingly fascinating Sveriges VVS-museum. Midday brings local cultural immersion at Sundbybergs museum and the lush art spaces of Marabouparken. In the late afternoon, drive north to experience the ancient Kungshögen mounds. Your day finishes with the exotic aquatic and aerial life at the Butterfly House."
+      }
+    }
+  }
+}

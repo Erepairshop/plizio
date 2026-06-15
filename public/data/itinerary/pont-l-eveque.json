@@ -1,0 +1,451 @@
+{
+  "city_id": "pont-l-eveque",
+  "anchor": {
+    "name": "Pont-l'Évêque",
+    "coords": [
+      0.1839,
+      49.2856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Dominicaines",
+            "hu": "Les Dominicaines",
+            "ro": "Les Dominicaines",
+            "en": "Les Dominicaines"
+          },
+          "coords": [
+            0.18273,
+            49.285328
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kulturellen Ausstellungen in diesem ehemaligen Kloster und achten Sie auf die historischen Holzarbeiten, indem Sie die detaillierten Informationsbroschüren am Eingang nutzen.",
+            "hu": "Fedezze fel az egykori kolostor kulturális kiállításait, és figyelje meg a történelmi famunkákat, miután felvette a bejáratnál található részletes információs füzeteket.",
+            "ro": "Explorați expozițiile culturale din această fostă mănăstire și admirați structurile din lemn istoric, asigurându-vă că luați broșura informativă detaliată chiar de la intrare.",
+            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.185003,
+            49.28651
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Melaine",
+            "hu": "Église Saint-Melaine",
+            "ro": "Église Saint-Melaine",
+            "en": "Église Saint-Melaine"
+          },
+          "coords": [
+            0.18952,
+            49.291926
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese charmante Steinkirche bietet einen ruhigen Rückzugsort in der malerischen Landschaft; tragen Sie bequeme Schuhe, da die umliegenden Wege leicht uneben und rustikal sein können.",
+            "hu": "Ez a bájos kőtemplom békés menedéket nyújt a festői tájon; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és rusztikusak lehetnek.",
+            "ro": "Această biserică fermecătoare din piatră oferă un refugiu liniștit în peisajul pitoresc; purtați încălțăminte comodă deoarece cărările din jur pot fi ușor denivelate.",
+            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of Pont-l'Évêque",
+            "hu": "Lake of Pont-l'Évêque",
+            "ro": "Lake of Pont-l'Évêque",
+            "en": "Lake of Pont-l'Évêque"
+          },
+          "coords": [
+            0.186816,
+            49.285339
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses wunderschönen Sees, der ideal für Spaziergänge ist, und bringen Sie eine Kamera mit, um die malerischen Spiegelungen des Himmels auf dem Wasser einzufangen.",
+            "hu": "Élvezze a gyönyörű tó békés atmoszféráját, amely ideális egy frissítő sétához, és hozzon magával fényképezőgépet, hogy megörökítse az égbolt festői tükröződését a vízen.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui lac superb, ideal pentru o plimbare relaxantă, și aduceți o cameră foto pentru a surprinde reflexiile pitorești ale cerului pe apă.",
+            "en": "Enjoy the peaceful atmosphere of this beautiful lake which is ideal for a refreshing stroll, and bring a camera to capture the picturesque reflections of the sky on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisir du Lac",
+            "hu": "Base de Loisir du Lac",
+            "ro": "Base de Loisir du Lac",
+            "en": "Base de Loisir du Lac"
+          },
+          "coords": [
+            0.202852,
+            49.274743
+          ],
+          "category": "family",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
+            "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
+            "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die Kultur im Les Dominicaines. Anschließend bewundern Sie die gotische Architektur der nahegelegenen Saint-Michel Church. Mittags spazieren Sie zur Église Saint-Melaine, um die ruhige Umgebung zu genießen. Der Nachmittag endet entspannt am Lake of Pont-l'Évêque und im riesigen Freizeitpark, wo Sie die Natur auskosten können.",
+        "hu": "Kezdje a napot a helyi kultúra felfedezésével a Les Dominicaines-ben. Ezután csodálja meg a közeli Saint-Michel Church lenyűgöző gótikus építészetét. Délben sétáljon el a békés Église Saint-Melaine felé egy kis elmélyülésre. A délutánt a csodálatos Lake of Pont-l'Évêque és a mellette lévő hatalmas szabadidőpark partján töltheti, maximálisan kiélvezve a természet közelségét.",
+        "ro": "Începeți-vă ziua explorând bogăția culturală la Les Dominicaines. Apoi, admirați arhitectura gotică uluitoare a bisericii Saint-Michel din apropiere. La prânz, plimbați-vă spre liniștita Église Saint-Melaine pentru câteva momente de reflecție. După-amiaza se încheie relaxant la Lake of Pont-l'Évêque și în vastul parc de agrement, unde vă puteți bucura din plin de natură.",
+        "en": "Start your day by delving into the local culture and art at Les Dominicaines. Afterwards, admire the impressive Gothic architecture of the nearby Saint-Michel Church. At midday, take a relaxing stroll to the peaceful Église Saint-Melaine. Your afternoon will be perfectly spent by the scenic Lake of Pont-l'Évêque and its expansive leisure park, truly embracing the outdoors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Dominicaines",
+            "hu": "Les Dominicaines",
+            "ro": "Les Dominicaines",
+            "en": "Les Dominicaines"
+          },
+          "coords": [
+            0.18273,
+            49.285328
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kulturellen Ausstellungen in diesem ehemaligen Kloster und achten Sie auf die historischen Holzarbeiten, indem Sie die detaillierten Informationsbroschüren am Eingang nutzen.",
+            "hu": "Fedezze fel az egykori kolostor kulturális kiállításait, és figyelje meg a történelmi famunkákat, miután felvette a bejáratnál található részletes információs füzeteket.",
+            "ro": "Explorați expozițiile culturale din această fostă mănăstire și admirați structurile din lemn istoric, asigurându-vă că luați broșura informativă detaliată chiar de la intrare.",
+            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.185003,
+            49.28651
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Melaine",
+            "hu": "Église Saint-Melaine",
+            "ro": "Église Saint-Melaine",
+            "en": "Église Saint-Melaine"
+          },
+          "coords": [
+            0.18952,
+            49.291926
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese charmante Steinkirche bietet einen ruhigen Rückzugsort in der malerischen Landschaft; tragen Sie bequeme Schuhe, da die umliegenden Wege leicht uneben und rustikal sein können.",
+            "hu": "Ez a bájos kőtemplom békés menedéket nyújt a festői tájon; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és rusztikusak lehetnek.",
+            "ro": "Această biserică fermecătoare din piatră oferă un refugiu liniștit în peisajul pitoresc; purtați încălțăminte comodă deoarece cărările din jur pot fi ușor denivelate.",
+            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.171682,
+            49.301452
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Bedeutung dieser alten Kirche mit ihrem charakteristischen normannischen Baustil und achten Sie auf die fein gearbeiteten Details am Eingangsportal.",
+            "hu": "Fedezze fel ennek az ősi templomnak a történelmi jelentőségét és jellegzetes normann építészeti stílusát, miközben különös figyelmet fordít a bejárati portál finoman kidolgozott részleteire.",
+            "ro": "Explorați importanța istorică a acestei vechi biserici cu stilul ei arhitectural normand caracteristic și acordați atenție detaliilor fin lucrate ale portalului de la intrare.",
+            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisir du Lac",
+            "hu": "Base de Loisir du Lac",
+            "ro": "Base de Loisir du Lac",
+            "en": "Base de Loisir du Lac"
+          },
+          "coords": [
+            0.202852,
+            49.274743
+          ],
+          "category": "family",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
+            "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
+            "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de l'Aumône",
+            "hu": "Manoir de l'Aumône",
+            "ro": "Manoir de l'Aumône",
+            "en": "Manoir de l'Aumône"
+          },
+          "coords": [
+            0.161761,
+            49.266861
+          ],
+          "category": "castle",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Herrenhaus, das ein faszinierendes Beispiel lokaler Adelsgeschichte darstellt, und spazieren Sie unbedingt auch durch die angrenzenden, gepflegten historischen Gärten.",
+            "hu": "Látogasson el ebbe az elegáns udvarházba, amely a helyi nemesi történelem lenyűgöző példája, és feltétlenül tegyen egy sétát a szomszédos, gondozott történelmi kertekben is.",
+            "ro": "Vizitați acest conac elegant, un exemplu fascinant al istoriei nobiliare locale, și asigurați-vă că faceți o plimbare și prin grădinile istorice adiacente, foarte bine îngrijite.",
+            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im historischen Herzen bei Les Dominicaines und fahren Sie weiter zur beeindruckenden Saint-Michel Church. Mittags radeln Sie zur ruhigen Église Saint-Melaine und zur charmanten Église Saint-Pierre. Der Nachmittag bietet eine aktive Erholung am Freizeitpark am See. Beenden Sie den Tag stilvoll mit einem Besuch des herrlichen Manoir de l'Aumône.",
+        "hu": "Kezdje kerékpártúráját a történelmi központban a Les Dominicaines-nél, majd pedálozzon a Saint-Michel Church felé. Délben látogassa meg a csendes Église Saint-Melaine-t és az Église Saint-Pierre-t. A délután aktív pihenést kínál a tóparti Base de Loisir du Lac szabadidőparkban. A napot végül az elegáns és történelmi Manoir de l'Aumône kastély lenyűgöző látványával zárhatja.",
+        "ro": "Începeți turul cu bicicleta în inima istorică la Les Dominicaines și continuați spre impunătoarea biserică Saint-Michel. La prânz, pedalați spre liniștitele biserici Saint-Melaine și Saint-Pierre. După-amiaza vă așteaptă cu recreere activă la parcul de agrement de lângă lac. Încheiați-vă ziua cu stil, vizitând splendidul Manac de l'Aumône încărcat de istorie.",
+        "en": "Kick off your cycling tour in the historic heart at Les Dominicaines before riding to the grand Saint-Michel Church. Midday takes you past the serene Église Saint-Melaine and the ancient Église Saint-Pierre. The afternoon is dedicated to active recreation at the lakeside leisure park. Conclude your rewarding day with a visit to the historic and elegant Manoir de l'Aumône."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 14.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.185003,
+            49.28651
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            0.212498,
+            49.300279
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Pfarrkirche am Rande der Stadt, die für ihren schlichten, aber eleganten Glockenturm bekannt ist, und parken Sie sicher auf dem kleinen Platz gleich nebenan.",
+            "hu": "Fedezze fel ezt a város szélén található bájos plébániatemplomot, amely egyszerű, de elegáns harangtornyáról ismert, és parkoljon kényelmesen a közvetlenül mellette lévő kis téren.",
+            "ro": "Descoperiți această fermecătoare biserică parohială de la periferia orașului, renumită pentru turnul său simplu, dar elegant, și parcați ușor în mica piațetă situată chiar alături.",
+            "en": "Discover this charming parish church on the outskirts of town, known for its simple yet elegant bell tower, and park conveniently in the small square located right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.171682,
+            49.301452
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Bedeutung dieser alten Kirche mit ihrem charakteristischen normannischen Baustil und achten Sie auf die fein gearbeiteten Details am Eingangsportal.",
+            "hu": "Fedezze fel ennek az ősi templomnak a történelmi jelentőségét és jellegzetes normann építészeti stílusát, miközben különös figyelmet fordít a bejárati portál finoman kidolgozott részleteire.",
+            "ro": "Explorați importanța istorică a acestei vechi biserici cu stilul ei arhitectural normand caracteristic și acordați atenție detaliilor fin lucrate ale portalului de la intrare.",
+            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de l'Aumône",
+            "hu": "Manoir de l'Aumône",
+            "ro": "Manoir de l'Aumône",
+            "en": "Manoir de l'Aumône"
+          },
+          "coords": [
+            0.161761,
+            49.266861
+          ],
+          "category": "castle",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Herrenhaus, das ein faszinierendes Beispiel lokaler Adelsgeschichte darstellt, und spazieren Sie unbedingt auch durch die angrenzenden, gepflegten historischen Gärten.",
+            "hu": "Látogasson el ebbe az elegáns udvarházba, amely a helyi nemesi történelem lenyűgöző példája, és feltétlenül tegyen egy sétát a szomszédos, gondozott történelmi kertekben is.",
+            "ro": "Vizitați acest conac elegant, un exemplu fascinant al istoriei nobiliare locale, și asigurați-vă că faceți o plimbare și prin grădinile istorice adiacente, foarte bine îngrijite.",
+            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            0.151924,
+            49.274337
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese kleine, idyllisch gelegene Kirche besticht durch ihre traditionelle Fachwerkstruktur; nehmen Sie sich Zeit für einen ruhigen Moment im Inneren, bevor Sie Ihre Fahrt fortsetzen.",
+            "hu": "Ez a kis, idilli környezetben fekvő templom lenyűgöző a hagyományos favázas szerkezetével; szánjon időt egy csendes pillanatra odabent, mielőtt folytatná útját.",
+            "ro": "Această mică biserică, situată idilic, impresionează prin structura sa tradițională cu grinzi de lemn; luați-vă un moment de liniște în interior înainte de a vă continua drumul.",
+            "en": "This small, idyllically situated church impresses with its traditional half-timbered structure; take time for a quiet moment inside before continuing on your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisir du Lac",
+            "hu": "Base de Loisir du Lac",
+            "ro": "Base de Loisir du Lac",
+            "en": "Base de Loisir du Lac"
+          },
+          "coords": [
+            0.202852,
+            49.274743
+          ],
+          "category": "family",
+          "arrive_at": "13:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
+            "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
+            "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Zentrum an der Saint-Michel Church und bewundern Sie die morgendliche Atmosphäre. Setzen Sie die Tour zu den charmanten Église Saint-Martin und Église Saint-Pierre fort. Mittags führt Sie der Weg zum beeindruckenden Manoir de l'Aumône und zur idyllischen Église Saint-Étienne. Der Nachmittag bietet dann vollkommene Entspannung am großen Freizeitpark.",
+        "hu": "Autós túráját a központban, a Saint-Michel Church megtekintésével indítsa, élvezve a reggeli nyugodt atmoszférát. Ezt követően látogasson el a bájos Église Saint-Martin és Église Saint-Pierre templomokhoz. Délben a lenyűgöző Manoir de l'Aumône és az idilli Église Saint-Étienne várja Önt. A délután hátralévő részében pedig a hatalmas tóparti szabadidőparkban pihenhet.",
+        "ro": "Începeți călătoria cu mașina în centru la biserica Saint-Michel pentru a savura atmosfera dimineții. Continuați explorarea cu fermecătoarele biserici Saint-Martin și Saint-Pierre. La prânz, traseul vă poartă către impresionantul Manoir de l'Aumône și idilica biserică Saint-Étienne. După-amiaza se va încheia cu relaxare totală la parcul de agrement amplu de pe malul lacului.",
+        "en": "Begin your driving tour in the town center at Saint-Michel Church, absorbing the crisp morning atmosphere. Continue your journey to the charming Église Saint-Martin and Église Saint-Pierre. Midday brings you to the impressive Manoir de l'Aumône and the idyllic Église Saint-Étienne. Your afternoon will be spent unwinding completely at the spacious lakeside leisure park."
+      }
+    }
+  }
+}

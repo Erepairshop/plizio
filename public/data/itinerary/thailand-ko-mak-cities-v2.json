@@ -1,0 +1,451 @@
+{
+  "city_id": "thailand-ko-mak-cities-v2",
+  "anchor": {
+    "name": "Ko Mak",
+    "coords": [
+      102.478889,
+      11.818611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Kratueng",
+            "hu": "Ao Kratueng",
+            "ro": "Ao Kratueng",
+            "en": "Ao Kratueng"
+          },
+          "coords": [
+            102.45747,
+            11.813499
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen südwestlichen Strand, der für seinen feinen weißen Sand und das seichte Wasser bekannt ist, und bringen Sie Insektenschutz gegen Sandmücken mit.",
+            "hu": "Sétáljon ezen a csendes délnyugati strandon, amely finom fehér homokjáról és sekély vizéről híres, és ne felejtsen el szúnyogriasztót hozni a homoki legyek ellen.",
+            "ro": "Plimbați-vă pe această plajă liniștită din sud-vest, renumită pentru nisipul fin și apele puțin adânci, aducând cu dumneavoastră un repelent pentru a ține la distanță insectele.",
+            "en": "Stroll along this quiet southwestern beach renowned for its powdery white sand and shallow waters, keeping an eye out for sandflies by bringing organic repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Suan Yai",
+            "hu": "Ao Suan Yai",
+            "ro": "Ao Suan Yai",
+            "en": "Ao Suan Yai"
+          },
+          "coords": [
+            102.466399,
+            11.826777
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.76,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Nachbarinseln von dieser weitläufigen Bucht aus, wo Sie am besten früh ein Kajak mieten, um die Küste in Ruhe zu erkunden.",
+            "hu": "Csodálja meg a szomszédos szigetekre nyíló lenyűgöző kilátást ebből az öbölből, ahol érdemes korán kajakot bérelni a partvidék nyugodt felfedezéséhez.",
+            "ro": "Admirați vederea panoramică asupra insulelor vecine din acest golf vast, unde închirierea unui caiac dimineața vă garantează cea mai liniștită explorare a coastei.",
+            "en": "Admire the sweeping views of neighboring islands from this expansive northwestern bay, where renting a kayak early ensures the best tranquil exploration of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Koh Kham",
+            "hu": "Koh Kham",
+            "ro": "Koh Kham",
+            "en": "Koh Kham"
+          },
+          "coords": [
+            102.460067,
+            11.834378
+          ],
+          "category": "landmark",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante Vulkaninsel mit ihren schwarzen Felsen und weißem Sand, die Sie bei Flut mit einer kurzen Bootsfahrt vom Suan Yai Strand aus erreichen.",
+            "hu": "Látogasson el erre a lenyűgöző vulkanikus szigetre, amelynek fekete sziklái csodás kontrasztot alkotnak a fehér homokkal, és amelyet dagálykor rövid hajóúttal érhet el.",
+            "ro": "Vizitați această insulă vulcanică impresionantă, cu stânci negre și nisip alb, accesibilă printr-o scurtă plimbare cu barca de la plaja Suan Yai în timpul fluxului.",
+            "en": "Visit this striking volcanic island featuring dramatic black rocks against white sand, accessible via a short boat ride from Suan Yai beach during high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "private island with entry fee. 200THB",
+            "hu": "private island with entry fee. 200THB",
+            "ro": "private island with entry fee. 200THB",
+            "en": "private island with entry fee. 200THB"
+          },
+          "coords": [
+            102.460078,
+            11.835385
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Zahlen Sie die Eintrittsgebühr von 200 THB, um das sorgfältig gepflegte Privatgelände zu erkunden, und tauschen Sie Ihr Ticket gegen ein kostenloses Erfrischungsgetränk ein.",
+            "hu": "Fizesse be a 200 THB belépőt, hogy felfedezze a kis sziget gondosan karbantartott magánterületét, majd váltsa be jegyét egy hűsítő ingyenes italra a kioszkban.",
+            "ro": "Plătiți taxa de 200 THB pentru a explora domeniul privat meticulos întreținut al acestei insulițe, schimbând biletul pentru o băutură răcoritoare gratuită la chioșc.",
+            "en": "Pay the 200THB entry fee to explore the meticulously maintained private grounds of this small islet, redeeming your ticket for a refreshing complimentary drink at the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Ta Long",
+            "hu": "Ao Ta Long",
+            "ro": "Ao Ta Long",
+            "en": "Ao Ta Long"
+          },
+          "coords": [
+            102.481643,
+            11.830143
+          ],
+          "category": "landmark",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten, wenig besuchten Nordstrand mit außergewöhnlicher Privatsphäre und ruhigem Wasser, was ihn zum idealen Ort für ein ruhiges Buch macht.",
+            "hu": "Pihenjen ezen az érintetlen, ritkán látogatott északi strandon, amely kivételes magányt és nyugodt vizet kínál, ideális helyet biztosítva egy csendes délutáni olvasáshoz.",
+            "ro": "Relaxați-vă pe această plajă nordică curată și mai puțin vizitată, care oferă intimitate și ape calme, fiind locul ideal pentru a citi o carte într-o după-amiază liniștită.",
+            "en": "Relax on this pristine, less-visited northern beach offering exceptional privacy and calm waters, making it an ideal spot to spread a towel and enjoy a quiet afternoon read."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des feinen Sandes und der ruhigen Atmosphäre der südwestlichen Strände. Mittags geht es mit dem Boot zu faszinierenden vorgelagerten Inseln mit Vulkangestein und tropischen Gärten. Am Nachmittag genießen Sie exklusive Ausblicke und Schnorchelmöglichkeiten zwischen Korallenfragmenten. Beenden Sie den Abend an einer nördlichen Bucht bei sanften Wellen.",
+        "hu": "Kezdje a reggelt a délnyugati strandok finom homokjának és békés légkörének felfedezésével. Délben hajózzon át a környező kis szigetekre, ahol vulkanikus kőzetek és privát trópusi kertek várják. Délután élvezze az exkluzív kilátást és a sznorkelezési lehetőségeket a koralltöredékek között. Zárja az estét egy érintetlen északi öbölben, ahogy az ég színei megváltoznak a békés hullámok felett.",
+        "ro": "Începeți dimineața explorând nisipul fin și atmosfera serenă a plajelor din sud-vest. La prânz, o scurtă plimbare cu barca vă duce pe insulițe fascinante cu roci vulcanice și grădini tropicale private. După-amiaza, bucurați-vă de priveliști exclusive și oportunități de snorkeling printre fragmente de corali. Încheiați seara într-un golf nordic curat, admirând cerul colorat deasupra apelor.",
+        "en": "Start your morning exploring the powdery sands and serene atmosphere of the southwestern beaches. Midday brings a boat hop to fascinating offshore islets showcasing volcanic rocks and private tropical gardens. In the afternoon, enjoy exclusive vistas and snorkeling opportunities among coral fragments. Conclude your evening at a pristine northern bay, watching the sky change colors over tranquil waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Nid",
+            "hu": "Ao Nid",
+            "ro": "Ao Nid",
+            "en": "Ao Nid"
+          },
+          "coords": [
+            102.488394,
+            11.804266
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lebhaften Hauptpier und das örtliche Dorf, wo die Fischer ihren täglichen Fang einbringen, was die perfekte Gelegenheit bietet, frische Meeresfrüchte zu kaufen.",
+            "hu": "Fedezze fel a sziget nyüzsgő fő mólóját és a helyi falu központját, ahová a halászok behozzák napi zsákmányukat, így közvetlenül a forrásból vásárolhat friss tengeri herkenytűket.",
+            "ro": "Descoperiți debarcaderul principal plin de viață unde pescarii își aduc prada zilnică, oferindu-vă ocazia perfectă de a cumpăra fructe de mare proaspete direct de la sursă.",
+            "en": "Discover the island's bustling main pier and local village hub where fishermen bring in their daily catch, offering the perfect chance to buy fresh seafood directly from the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohmak Temple",
+            "hu": "Kohmak Temple",
+            "ro": "Kohmak Temple",
+            "en": "Kohmak Temple"
+          },
+          "coords": [
+            102.484999,
+            11.807101
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Betreten Sie die friedliche Atmosphäre des buddhistischen Haupttempels der Insel, um lokale spirituelle Praktiken zu beobachten, wobei Sie auf bescheidene Kleidung achten sollten.",
+            "hu": "Lépjen be a sziget fő buddhista templomának nyugodt légkörébe, hogy megfigyelje a helyi spirituális hagyományokat, de ne felejtsen el szerényen felöltözni és cipőt húzni.",
+            "ro": "Pășiți în atmosfera senină a templului budist principal al insulei pentru a observa practicile spirituale locale, amintindu-vă să vă îmbrăcați decent și să vă descălțați.",
+            "en": "Step into the serene atmosphere of the island's primary Buddhist temple to observe local spiritual practices, remembering to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kratueng",
+            "hu": "Ao Kratueng",
+            "ro": "Ao Kratueng",
+            "en": "Ao Kratueng"
+          },
+          "coords": [
+            102.45747,
+            11.813499
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.08,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen südwestlichen Strand, der für seinen feinen weißen Sand und das seichte Wasser bekannt ist, und bringen Sie Insektenschutz gegen Sandmücken mit.",
+            "hu": "Sétáljon ezen a csendes délnyugati strandon, amely finom fehér homokjáról és sekély vizéről híres, és ne felejtsen el szúnyogriasztót hozni a homoki legyek ellen.",
+            "ro": "Plimbați-vă pe această plajă liniștită din sud-vest, renumită pentru nisipul fin și apele puțin adânci, aducând cu dumneavoastră un repelent pentru a ține la distanță insectele.",
+            "en": "Stroll along this quiet southwestern beach renowned for its powdery white sand and shallow waters, keeping an eye out for sandflies by bringing organic repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Suan Yai",
+            "hu": "Ao Suan Yai",
+            "ro": "Ao Suan Yai",
+            "en": "Ao Suan Yai"
+          },
+          "coords": [
+            102.466399,
+            11.826777
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.76,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Nachbarinseln von dieser weitläufigen Bucht aus, wo Sie am besten früh ein Kajak mieten, um die Küste in Ruhe zu erkunden.",
+            "hu": "Csodálja meg a szomszédos szigetekre nyíló lenyűgöző kilátást ebből az öbölből, ahol érdemes korán kajakot bérelni a partvidék nyugodt felfedezéséhez.",
+            "ro": "Admirați vederea panoramică asupra insulelor vecine din acest golf vast, unde închirierea unui caiac dimineața vă garantează cea mai liniștită explorare a coastei.",
+            "en": "Admire the sweeping views of neighboring islands from this expansive northwestern bay, where renting a kayak early ensures the best tranquil exploration of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Koh Kham",
+            "hu": "Koh Kham",
+            "ro": "Koh Kham",
+            "en": "Koh Kham"
+          },
+          "coords": [
+            102.460067,
+            11.834378
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante Vulkaninsel mit ihren schwarzen Felsen und weißem Sand, die Sie bei Flut mit einer kurzen Bootsfahrt vom Suan Yai Strand aus erreichen.",
+            "hu": "Látogasson el erre a lenyűgöző vulkanikus szigetre, amelynek fekete sziklái csodás kontrasztot alkotnak a fehér homokkal, és amelyet dagálykor rövid hajóúttal érhet el.",
+            "ro": "Vizitați această insulă vulcanică impresionantă, cu stânci negre și nisip alb, accesibilă printr-o scurtă plimbare cu barca de la plaja Suan Yai în timpul fluxului.",
+            "en": "Visit this striking volcanic island featuring dramatic black rocks against white sand, accessible via a short boat ride from Suan Yai beach during high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Pier at Cinnamon Art Resort and Spa",
+            "hu": "Pier at Cinnamon Art Resort and Spa",
+            "ro": "Pier at Cinnamon Art Resort and Spa",
+            "en": "Pier at Cinnamon Art Resort and Spa"
+          },
+          "coords": [
+            102.502503,
+            11.828748
+          ],
+          "category": "natural",
+          "arrive_at": "15:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.67,
+          "tip_5lang": {
+            "de": "Spazieren Sie den extrem langen Holzsteg entlang, der sich über das türkisfarbene Wasser erstreckt und eine atemberaubende Kulisse für einen unvergesslichen Sonnenuntergang bietet.",
+            "hu": "Sétáljon végig a kristálytiszta, türkizkék víz fölé nyúló kivételesen hosszú fa stégen, amely lenyűgöző és rendkívül fotogén hátteret biztosít egy naplemente körüli sétához.",
+            "ro": "Plimbați-vă pe debarcaderul din lemn excepțional de lung care se întinde deasupra apelor turcoaz, oferind un fundal uluitor și extrem de fotogenic pentru un apus de neuitat.",
+            "en": "Walk along the exceptionally long wooden pier stretching out over the clear turquoise waters, providing a breathtaking and highly photogenic backdrop for a stunning sunset walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom belebten Hauptpier der Insel los, erleben Sie die lokale Fischerkultur und halten Sie am zentralen Tempel. Gegen Mittag führt Ihre Fahrt zu weitläufigen westlichen Buchten mit Schatten spendenden Palmen. Der Nachmittag geht weiter mit einem Abstecher auf See, bevor Sie in den ruhigen Osten fahren. Der Abend erwartet Sie auf einem langen Holzsteg über türkisfarbenem Wasser.",
+        "hu": "Reggel induljon el a sziget nyüzsgő mólójától, szívja magába a helyi halászati kultúrát, és álljon meg a központi templomnál. Délben az út tágas nyugati öblökhöz vezet, ahol a pálmafák tökéletes árnyékot adnak. Délután lehetősége van egy tengeri kirándulásra, mielőtt a csendesebb keleti részek felé pedálozna. Az estét egy türkizkék víz fölé nyúló, hosszú fa stégen sétálva fejezheti be.",
+        "ro": "Pedalați dimineața departe de debarcaderul principal al insulei, asimilând cultura pescărească locală și oprindu-vă la templul central. La prânz, traseul vă duce spre golfuri vestice vaste, unde palmierii oferă umbră perfectă. După-amiaza continuă cu o excursie opțională în larg înainte de a pedala spre estul liniștit. Seara sosește pe un lung debarcader din lemn care se întinde în apele turcoaz.",
+        "en": "Pedal away in the morning from the island's bustling main pier, soaking in the local fishing culture and stopping by the central temple. By midday, your ride takes you to expansive western bays where towering palms offer perfect shade for a rest. The afternoon continues with an optional offshore excursion before biking toward the remote eastern corners. Evening arrives on a long wooden pier extending into turquoise waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kohmak Temple",
+            "hu": "Kohmak Temple",
+            "ro": "Kohmak Temple",
+            "en": "Kohmak Temple"
+          },
+          "coords": [
+            102.484999,
+            11.807101
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die friedliche Atmosphäre des buddhistischen Haupttempels der Insel, um lokale spirituelle Praktiken zu beobachten, wobei Sie auf bescheidene Kleidung achten sollten.",
+            "hu": "Lépjen be a sziget fő buddhista templomának nyugodt légkörébe, hogy megfigyelje a helyi spirituális hagyományokat, de ne felejtsen el szerényen felöltözni és cipőt húzni.",
+            "ro": "Pășiți în atmosfera senină a templului budist principal al insulei pentru a observa practicile spirituale locale, amintindu-vă să vă îmbrăcați decent și să vă descălțați.",
+            "en": "Step into the serene atmosphere of the island's primary Buddhist temple to observe local spiritual practices, remembering to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Nid",
+            "hu": "Ao Nid",
+            "ro": "Ao Nid",
+            "en": "Ao Nid"
+          },
+          "coords": [
+            102.488394,
+            11.804266
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lebhaften Hauptpier und das örtliche Dorf, wo die Fischer ihren täglichen Fang einbringen, was die perfekte Gelegenheit bietet, frische Meeresfrüchte zu kaufen.",
+            "hu": "Fedezze fel a sziget nyüzsgő fő mólóját és a helyi falu központját, ahová a halászok behozzák napi zsákmányukat, így közvetlenül a forrásból vásárolhat friss tengeri herkenytűket.",
+            "ro": "Descoperiți debarcaderul principal plin de viață unde pescarii își aduc prada zilnică, oferindu-vă ocazia perfectă de a cumpăra fructe de mare proaspete direct de la sursă.",
+            "en": "Discover the island's bustling main pier and local village hub where fishermen bring in their daily catch, offering the perfect chance to buy fresh seafood directly from the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Pai",
+            "hu": "Ao Pai",
+            "ro": "Ao Pai",
+            "en": "Ao Pai"
+          },
+          "coords": [
+            102.499894,
+            11.81353
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese raue, versteckte östliche Bucht, die für ihre roten Felsufer bekannt ist, und tragen Sie unbedingt festes Schuhwerk für das unebene Küstenterrain.",
+            "hu": "Fedezze fel ezt a zord és eldugott keleti öblöt, amely vörös sziklás partjairól ismert, és mindenképpen viseljen masszív cipőt az egyenetlen tengerparti terep bejárásához.",
+            "ro": "Explorați acest golf estic ascuns și accidentat, renumit pentru țărmurile sale stâncoase roșii, purtând încălțăminte rezistentă pentru a naviga pe terenul de coastă denivelat.",
+            "en": "Explore this rugged and hidden eastern bay known for its red rocky shorelines and secluded atmosphere, taking care to wear sturdy shoes for navigating the uneven coastal terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pier at Cinnamon Art Resort and Spa",
+            "hu": "Pier at Cinnamon Art Resort and Spa",
+            "ro": "Pier at Cinnamon Art Resort and Spa",
+            "en": "Pier at Cinnamon Art Resort and Spa"
+          },
+          "coords": [
+            102.502503,
+            11.828748
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Spazieren Sie den extrem langen Holzsteg entlang, der sich über das türkisfarbene Wasser erstreckt und eine atemberaubende Kulisse für einen unvergesslichen Sonnenuntergang bietet.",
+            "hu": "Sétáljon végig a kristálytiszta, türkizkék víz fölé nyúló kivételesen hosszú fa stégen, amely lenyűgöző és rendkívül fotogén hátteret biztosít egy naplemente körüli sétához.",
+            "ro": "Plimbați-vă pe debarcaderul din lemn excepțional de lung care se întinde deasupra apelor turcoaz, oferind un fundal uluitor și extrem de fotogenic pentru un apus de neuitat.",
+            "en": "Walk along the exceptionally long wooden pier stretching out over the clear turquoise waters, providing a breathtaking and highly photogenic backdrop for a stunning sunset walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Ta Long",
+            "hu": "Ao Ta Long",
+            "ro": "Ao Ta Long",
+            "en": "Ao Ta Long"
+          },
+          "coords": [
+            102.481643,
+            11.830143
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten, wenig besuchten Nordstrand mit außergewöhnlicher Privatsphäre und ruhigem Wasser, was ihn zum idealen Ort für ein ruhiges Buch macht.",
+            "hu": "Pihenjen ezen az érintetlen, ritkán látogatott északi strandon, amely kivételes magányt és nyugodt vizet kínál, ideális helyet biztosítva egy csendes délutáni olvasáshoz.",
+            "ro": "Relaxați-vă pe această plajă nordică curată și mai puțin vizitată, care oferă intimitate și ape calme, fiind locul ideal pentru a citi o carte într-o după-amiază liniștită.",
+            "en": "Relax on this pristine, less-visited northern beach offering exceptional privacy and calm waters, making it an ideal spot to spread a towel and enjoy a quiet afternoon read."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Suan Yai",
+            "hu": "Ao Suan Yai",
+            "ro": "Ao Suan Yai",
+            "en": "Ao Suan Yai"
+          },
+          "coords": [
+            102.466399,
+            11.826777
+          ],
+          "category": "landmark",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Nachbarinseln von dieser weitläufigen Bucht aus, wo Sie am besten früh ein Kajak mieten, um die Küste in Ruhe zu erkunden.",
+            "hu": "Csodálja meg a szomszédos szigetekre nyíló lenyűgöző kilátást ebből az öbölből, ahol érdemes korán kajakot bérelni a partvidék nyugodt felfedezéséhez.",
+            "ro": "Admirați vederea panoramică asupra insulelor vecine din acest golf vast, unde închirierea unui caiac dimineața vă garantează cea mai liniștită explorare a coastei.",
+            "en": "Admire the sweeping views of neighboring islands from this expansive northwestern bay, where renting a kayak early ensures the best tranquil exploration of the coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Inselrundfahrt im kulturellen Zentrum, indem Sie den Haupttempel besuchen und das dörfliche Leben beobachten. Zur Mittagszeit navigieren Sie über Sandwege zur rauen Ostküste und zu atemberaubenden Piers. Der Nachmittag bietet eine gemütliche Fahrt zur Westseite mit endlosen weißen Sandstränden und vorgelagerten Inseln. Lassen Sie den Tag bei einem spektakulären Sonnenuntergang an der Bucht ausklingen.",
+        "hu": "Kezdje a szigeti autózást a kulturális központban, látogassa meg a fő templomot és figyelje meg a falu mindennapi életét. Dél közeledtével haladjon a homokos utakon a zord keleti partvonal és a lenyűgöző mólók felé. A délután laza gurulást kínál a nyugati oldalra, ahol hosszú, fehér homokos szakaszok várják. Zárja a napot egy látványos tengerparti naplemente megtekintésével a békés öbölből.",
+        "ro": "Începeți plimbarea prin insulă din inima culturală, vizitând templul principal și observând viața zilnică a satului. Spre prânz, navigați pe drumurile nisipoase către țărmul estic accidentat și debarcadere uluitoare. După-amiaza oferă o croazieră relaxantă spre vest, dezvăluind întinderi de nisip alb și insule offshore. Încheiați ziua admirând un apus de soare spectaculos de pe o plajă superbă.",
+        "en": "Kick off your island drive at the cultural heart by visiting the main temple and observing daily village life. As midday approaches, navigate the sandy tracks to the rugged eastern shoreline and breathtaking resort piers. The afternoon offers a smooth cruise across to the western side, revealing long stretches of white sand and offshore islands. Wind down your day soaking in a spectacular coastal sunset from the bay."
+      }
+    }
+  }
+}

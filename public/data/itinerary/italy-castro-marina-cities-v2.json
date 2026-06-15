@@ -1,0 +1,422 @@
+{
+  "city_id": "italy-castro-marina-cities-v2",
+  "anchor": {
+    "name": "Castro Marina",
+    "coords": [
+      18.42238,
+      40.00003
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido La Sorgente",
+            "hu": "Lido La Sorgente",
+            "ro": "Lido La Sorgente",
+            "en": "Lido La Sorgente"
+          },
+          "coords": [
+            18.42349,
+            40.000582
+          ],
+          "category": "recreational",
+          "arrive_at": "09:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            18.426993,
+            40.005518
+          ],
+          "category": "castle",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Küstenfestung mit weitem Meerblick und tragen Sie unbedingt bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az impozáns tengerparti erődöt, ahonnan lenyűgöző kilátás nyílik, és viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă cu vedere panoramică la mare și asigurați-vă că purtați încălțăminte comodă pentru aleile din piatră.",
+            "en": "Explore this commanding coastal fortress with sweeping sea views, and make sure to wear comfortable walking shoes for the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Castro",
+            "hu": "Municipio di Castro",
+            "ro": "Municipio di Castro",
+            "en": "Municipio di Castro"
+          },
+          "coords": [
+            18.425489,
+            40.00826
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des örtlichen Rathauses und besuchen Sie die nahegelegenen Cafés für einen authentischen Espresso.",
+            "hu": "Csodálja meg a helyi városháza épületének történelmi építészetét, és térjen be a közeli kávézókba egy autentikus eszpresszóra a folytatás előtt.",
+            "ro": "Admirați arhitectura istorică a primăriei locale și opriți-vă la cafenelele din apropiere pentru a savura un espresso autentic înainte de a continua.",
+            "en": "Admire the historic architecture of the local town hall building, and stop by the nearby cafes to grab an authentic espresso before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Capanne",
+            "hu": "Torre Capanne",
+            "ro": "Torre Capanne",
+            "en": "Torre Capanne"
+          },
+          "coords": [
+            18.428254,
+            40.00407
+          ],
+          "category": "natural",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem alten, von Natur umgebenen Wachturm, aber bringen Sie viel Wasser mit, da die Wege mittags kaum Schatten bieten.",
+            "hu": "Túrázzon fel ehhez a természet által körülölelt ősi őrtoronyhoz, de vigyen magával sok vizet, mivel az ösvények délben alig adnak árnyékot.",
+            "ro": "Urcați la acest vechi turn de veghe înconjurat de natură, dar aduceți multă apă, deoarece traseele oferă foarte puțină umbră la prânz.",
+            "en": "Hike up to this ancient defensive watchtower surrounded by nature, but bring plenty of water as the trails offer very little shade at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Zinzulusa",
+            "hu": "Grotta Zinzulusa",
+            "ro": "Grotta Zinzulusa",
+            "en": "Grotta Zinzulusa"
+          },
+          "coords": [
+            18.43121,
+            40.011916
+          ],
+          "category": "natural",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie atemberaubende Stalaktiten in dieser dramatischen Meereshöhle und buchen Sie vorab eine Bootstour, da die Plätze schnell belegt sind.",
+            "hu": "Fedezzen fel lenyűgöző cseppköveket ebben a drámai tengeri barlangban, és foglaljon előre csónaktúrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți stalactite uimitoare în această peșteră marină dramatică și rezervați un tur cu barca din timp, deoarece locurile se ocupă rapid.",
+            "en": "Discover stunning stalactites inside this dramatic sea cave, and book a guided boat tour in advance as spots fill up incredibly fast in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Küstenatmosphäre am kristallklaren Wasser der örtlichen Strände. Steigen Sie mittags zur majestätischen aragonesischen Burg auf, um in die reiche Geschichte einzutauchen. Spazieren Sie später an den historischen Gemeindegebäuden vorbei zu den alten Küstenwachtürmen. Beenden Sie Ihren Tag mit der Erkundung der dramatischen Tiefen der Zinzulusa-Meereshöhle.",
+        "hu": "Kezdje a reggelt a tengerparti hangulat élvezetével a helyi strandok kristálytiszta vizénél. Délben másszon fel a fenséges Aragóniai kastélyhoz, hogy elmerüljön az erődítmények gazdag történelmében. Később sétáljon el a történelmi önkormányzati épületek mellett az ősi őrtornyok felé. Zárja a napot a drámai Zinzulusa tengeri barlang mélységeinek felfedezésével.",
+        "ro": "Începeți dimineața bucurându-vă de atmosfera de coastă lângă apele limpezi ale plajelor locale. La prânz, urcați la maiestuosul Castel Aragonez pentru a vă scufunda în istoria bogată a fortificațiilor din Castro. Mai târziu, plimbați-vă pe lângă clădirile municipale istorice către vechile turnuri de veghe. Încheiați ziua explorând adâncurile dramatice ale peșterii marine Zinzulusa.",
+        "en": "Start your morning by soaking up the coastal atmosphere near the crystal-clear waters of the local beaches. In the midday sun, ascend to the majestic Aragonese Castle to dive into the rich history of Castro's fortifications. Later, stroll past the historic municipal buildings and climb towards the ancient coastal watchtowers. Conclude your day exploring the dramatic depths of the Zinzulusa sea cave."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Capo Lupo",
+            "hu": "Torre Capo Lupo",
+            "ro": "Torre Capo Lupo",
+            "en": "Torre Capo Lupo"
+          },
+          "coords": [
+            18.408314,
+            39.985664
+          ],
+          "category": "historical",
+          "arrive_at": "09:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieses historischen Wachturms und achten Sie auf den felsigen Weg, um die besten Panoramabilder des südlichen Meeres zu machen.",
+            "hu": "Csodálja meg ennek a történelmi őrtoronynak a romjait, de vigyázzon a sziklás megközelítésnél, hogy a legjobb panorámaképeket készíthesse.",
+            "ro": "Minunați-vă de ruinele acestui turn de veghe istoric și aveți grijă pe poteca stâncoasă pentru a obține cele mai bune fotografii panoramice.",
+            "en": "Marvel at the ruins of this historic coastal watchtower, taking care on the rocky approach to get the best panoramic photos of the southern sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala dell'Acquaviva",
+            "hu": "Cala dell'Acquaviva",
+            "ro": "Cala dell'Acquaviva",
+            "en": "Cala dell'Acquaviva"
+          },
+          "coords": [
+            18.413927,
+            39.991502
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dieser malerischen, fjordähnlichen Bucht mit kühlem Quellwasser und kommen Sie früh, um den nachmittäglichen Massen zu entgehen.",
+            "hu": "Ússzon ebben a festői, fjordhoz hasonló öbölben, amely hűvös forrásvizeiről ismert, és érkezzen kora reggel, hogy elkerülje a tömeget.",
+            "ro": "Înotați în acest golf pitoresc ca un fiord, renumit pentru izvoarele sale reci, ajungând dis-de-dimineață pentru a evita mulțimile de turiști.",
+            "en": "Swim in this picturesque, fjord-like inlet known for its cool spring waters, arriving early morning to avoid the massive afternoon tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Promontorio Peppe Ozza",
+            "hu": "Promontorio Peppe Ozza",
+            "ro": "Promontorio Peppe Ozza",
+            "en": "Promontorio Peppe Ozza"
+          },
+          "coords": [
+            18.413779,
+            39.997
+          ],
+          "category": "natural",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Küstenlandschaft von diesem markanten Aussichtspunkt und nutzen Sie ein Weitwinkelobjektiv für weite Meeresblicke.",
+            "hu": "Gyönyörködjön a lélegzetelállító tengerparti tájban erről a kiemelkedő természetes kilátópontról, és használjon nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Admirați peisajul de coastă uluitor de la acest punct de belvedere proeminent și folosiți un obiectiv cu unghi larg pentru a surprinde marea.",
+            "en": "Take in the breathtaking coastal landscape from this prominent natural viewpoint, and use a wide-angle lens to capture the vast expanse of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Diso",
+            "hu": "Torre di Diso",
+            "ro": "Torre di Diso",
+            "en": "Torre di Diso"
+          },
+          "coords": [
+            18.4177,
+            39.997261
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen teilweise zerstörten mittelalterlichen Wachturm voller lokaler Legenden und verbinden Sie dies mit einem Spaziergang durch die Olivenhaine.",
+            "hu": "Látogassa meg ezt a helyi legendákkal övezett középkori őrtoronyromot, és kösse össze a megállót egy csendes sétával az olajfaligetekben.",
+            "ro": "Vizitați acest turn de veghe medieval ruinat, plin de legende locale, combinând oprirea cu o plimbare liniștită printre plantațiile de măslini.",
+            "en": "Visit this partially ruined medieval watchtower steeped in local legend, pairing your stop with a quiet walk along the surrounding olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            18.426993,
+            40.005518
+          ],
+          "category": "castle",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Küstenfestung mit weitem Meerblick und tragen Sie unbedingt bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az impozáns tengerparti erődöt, ahonnan lenyűgöző kilátás nyílik, és viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă cu vedere panoramică la mare și asigurați-vă că purtați încălțăminte comodă pentru aleile din piatră.",
+            "en": "Explore this commanding coastal fortress with sweeping sea views, and make sure to wear comfortable walking shoes for the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Zinzulusa",
+            "hu": "Grotta Zinzulusa",
+            "ro": "Grotta Zinzulusa",
+            "en": "Grotta Zinzulusa"
+          },
+          "coords": [
+            18.43121,
+            40.011916
+          ],
+          "category": "natural",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie atemberaubende Stalaktiten in dieser dramatischen Meereshöhle und buchen Sie vorab eine Bootstour, da die Plätze schnell belegt sind.",
+            "hu": "Fedezzen fel lenyűgöző cseppköveket ebben a drámai tengeri barlangban, és foglaljon előre csónaktúrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți stalactite uimitoare în această peșteră marină dramatică și rezervați un tur cu barca din timp, deoarece locurile se ocupă rapid.",
+            "en": "Discover stunning stalactites inside this dramatic sea cave, and book a guided boat tour in advance as spots fill up incredibly fast in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt in Richtung Süden, um abgelegene mittelalterliche Wachtürme zu entdecken. Radeln Sie mittags zu einem malerischen Fjord für eine erfrischende Pause. Am Nachmittag schlängeln Sie sich landeinwärts zu legendären Ruinen, bevor Sie an der imposanten Stadtburg ankommen. Beenden Sie die Route, indem Sie bei Sonnenuntergang zu den berühmten Meereshöhlen radeln.",
+        "hu": "Kezdje az utat dél felé tartva, hogy felfedezze a sziklás partot őrző eldugott középkori őrtornyokat. Délben tekerjen egy festői fjordhoz egy frissítő pihenőre, majd csodálja meg a tengerparti fokokat. Délután kanyarodjon a szárazföld felé a legendás romokhoz, majd érkezzen meg a városi kastélyhoz. Zárja az utat a naplementében az ikonikus tengeri barlangokhoz pedálozva.",
+        "ro": "Începeți plimbarea spre sud pentru a descoperi turnuri de veghe medievale izolate care păzesc țărmul stâncos. La prânz, pedalați către un fiord pitoresc pentru o pauză răcoritoare. După-amiaza, îndreptați-vă spre interior spre ruinele legendare înainte de a ajunge la impunătorul castel al orașului. Încheiați traseul mergând cu bicicleta la faimoasele peșteri marine la apus.",
+        "en": "Kick off your ride heading south to discover secluded medieval watchtowers guarding the rocky shoreline. By midday, pedal to a picturesque fjord for a refreshing break in natural spring waters and take in the prominent coastal capes. In the afternoon, wind your way inland towards legendary ruins before arriving at the imposing town castle. Finish the route cycling to the iconic sea caves at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala dell'Acquaviva",
+            "hu": "Cala dell'Acquaviva",
+            "ro": "Cala dell'Acquaviva",
+            "en": "Cala dell'Acquaviva"
+          },
+          "coords": [
+            18.413927,
+            39.991502
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dieser malerischen, fjordähnlichen Bucht mit kühlem Quellwasser und kommen Sie früh, um den nachmittäglichen Massen zu entgehen.",
+            "hu": "Ússzon ebben a festői, fjordhoz hasonló öbölben, amely hűvös forrásvizeiről ismert, és érkezzen kora reggel, hogy elkerülje a tömeget.",
+            "ro": "Înotați în acest golf pitoresc ca un fiord, renumit pentru izvoarele sale reci, ajungând dis-de-dimineață pentru a evita mulțimile de turiști.",
+            "en": "Swim in this picturesque, fjord-like inlet known for its cool spring waters, arriving early morning to avoid the massive afternoon tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            18.426993,
+            40.005518
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Küstenfestung mit weitem Meerblick und tragen Sie unbedingt bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az impozáns tengerparti erődöt, ahonnan lenyűgöző kilátás nyílik, és viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă cu vedere panoramică la mare și asigurați-vă că purtați încălțăminte comodă pentru aleile din piatră.",
+            "en": "Explore this commanding coastal fortress with sweeping sea views, and make sure to wear comfortable walking shoes for the uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Zinzulusa",
+            "hu": "Grotta Zinzulusa",
+            "ro": "Grotta Zinzulusa",
+            "en": "Grotta Zinzulusa"
+          },
+          "coords": [
+            18.43121,
+            40.011916
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie atemberaubende Stalaktiten in dieser dramatischen Meereshöhle und buchen Sie vorab eine Bootstour, da die Plätze schnell belegt sind.",
+            "hu": "Fedezzen fel lenyűgöző cseppköveket ebben a drámai tengeri barlangban, és foglaljon előre csónaktúrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți stalactite uimitoare în această peșteră marină dramatică și rezervați un tur cu barca din timp, deoarece locurile se ocupă rapid.",
+            "en": "Discover stunning stalactites inside this dramatic sea cave, and book a guided boat tour in advance as spots fill up incredibly fast in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Romanelli",
+            "hu": "Grotta Romanelli",
+            "ro": "Grotta Romanelli",
+            "en": "Grotta Romanelli"
+          },
+          "coords": [
+            18.433309,
+            40.016182
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die prähistorische Bedeutung dieser paläolithischen Höhle aus der Ferne, da der Zugang zum Schutz der antiken Artefakte beschränkt ist.",
+            "hu": "Tekintse meg távolról ennek a paleolit barlangnak a történelem előtti jelentőségét, mivel a belépés a leletek védelme érdekében korlátozott.",
+            "ro": "Priviți de la distanță importanța preistorică a acestei peșteri paleolitice, deoarece accesul este restricționat pentru a proteja artefactele antice.",
+            "en": "View the prehistoric significance of this paleolithic cave from a distance, as access is restricted to preserve the ancient artifacts inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale Costa Otranto",
+            "hu": "Parco Naturale Regionale Costa Otranto",
+            "ro": "Parco Naturale Regionale Costa Otranto",
+            "en": "Parco Naturale Regionale Costa Otranto"
+          },
+          "coords": [
+            18.43742,
+            39.995541
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen Regionalpark mit Klippen und Wäldern und bringen Sie ein Fernglas mit, um seltene Zugvögel zu beobachten.",
+            "hu": "Sétáljon végig ezen a sziklákat és erdőket ötvöző kiterjedt parkon, és vigyen magával távcsövet a ritka vonuló mediterrán madarak megfigyeléséhez.",
+            "ro": "Plimbați-vă prin acest parc vast cu stânci abrupte și păduri dese, aducând un binoclu pentru a observa păsările migratoare mediteraneene rare.",
+            "en": "Wander through this expansive regional park blending rugged cliffs and lush woodlands, carrying binoculars to spot rare migrating Mediterranean birds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um das kühle, ruhige Wasser eines versteckten Fjords zu genießen. Mittags fahren Sie in das historische Zentrum, um eine mittelalterliche Küstenfestung mit herrlichem Panorama zu erkunden. Verbringen Sie Ihren Nachmittag mit der Entdeckung der berühmten paläolithischen Meereshöhlen. Beenden Sie die Fahrt mit einem friedlichen Spaziergang durch den weitläufigen Naturpark.",
+        "hu": "Induljon korán, hogy élvezze egy rejtett fjord hűvös, nyugodt vizeit a tömegek érkezése előtt. Délben menjen a magaslaton fekvő történelmi központba, és fedezzen fel egy középkori tengerparti erődöt. A délutánt a part mentén szétszórt híres paleolit és drámai tengeri barlangok felfedezésével töltse. Zárja az utazást egy békés sétával a hatalmas regionális natúrparkban.",
+        "ro": "Conduceți devreme pentru a vă bucura de apele liniștite ale unui fiord ascuns înainte de sosirea mulțimilor. La prânz, mergeți în centrul istoric ridicat pentru a explora o fortăreață medievală. Petreceți după-amiaza descoperind faimoasele peșteri marine paleolitice și dramatice împrăștiate de-a lungul coastei. Încheiați cu o plimbare liniștită prin vastul parc natural regional.",
+        "en": "Drive out early to enjoy the cool, tranquil waters of a hidden fjord before the crowds arrive. By midday, head to the elevated historic center to explore a medieval coastal fortress offering sweeping panoramas. Spend your afternoon discovering the region's famous paleolithic and dramatic sea caves scattered along the coast. Conclude the drive with a peaceful walk through the vast regional nature park."
+      }
+    }
+  }
+}

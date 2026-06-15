@@ -1,0 +1,543 @@
+{
+  "city_id": "songkhla-cities-v2",
+  "anchor": {
+    "name": "Songkhla",
+    "coords": [
+      100.595,
+      7.202
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Songkhla Altstadt",
+            "hu": "Songkhla Óvárosa",
+            "ro": "Orașul Vechi Songkhla",
+            "en": "Songkhla Old Town"
+          },
+          "coords": [
+            100.589874,
+            7.195362
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernde Altstadt von Songkhla mit ihrer sino-portugiesischen Architektur und achten Sie auf die versteckte Straßenkunst in den Gassen.",
+            "hu": "Sétáljon végig az elbűvölő óvároson, hogy megcsodálja a kínai-portugál építészetet, és mindenképpen keresse meg a szűk sikátorokban megbúvó utcai művészetet.",
+            "ro": "Plimbați-vă prin fermecătorul Oraș Vechi pentru a admira arhitectura chino-portugheză și asigurați-vă că explorați arta stradală vibrantă ascunsă pe aleile înguste.",
+            "en": "Stroll through the charming Songkhla Old Town to admire Sino-Portuguese architecture, and be sure to look for the vibrant street art hidden in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Nakhon Nai Museum",
+            "hu": "Nakhon Nai Múzeum",
+            "ro": "Muzeul Nakhon Nai",
+            "en": "Nakhon Nai Museum"
+          },
+          "coords": [
+            100.589121,
+            7.197218
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Nakhon Nai Museum, um das traditionelle thailändisch-chinesische Erbe in einem Holzhaus zu erkunden, und kommen Sie früh, um der Hitze zu entgehen.",
+            "hu": "Lépjen be a Nakhon Nai Múzeumba, hogy felfedezze a thai-kínai örökséget egy gyönyörűen megőrzött faházban, és érkezzen korán a délutáni hőség elkerülése végett.",
+            "ro": "Pășiți în Muzeul Nakhon Nai pentru a explora moștenirea tradițională într-o casă de lemn frumos conservată, ajungând devreme pentru a evita căldura de după-amiază.",
+            "en": "Step into the Nakhon Nai Museum to explore traditional Thai-Chinese heritage inside an beautifully preserved wooden house, arriving early to avoid the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Yang Thong",
+            "hu": "Wat Yang Thong",
+            "ro": "Wat Yang Thong",
+            "en": "Wat Yang Thong"
+          },
+          "coords": [
+            100.589799,
+            7.198281
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wat Yang Thong, um die ruhige Atmosphäre dieses historischen Tempels zu genießen, und denken Sie daran, sich bescheiden zu kleiden und Schuhe auszuziehen.",
+            "hu": "Látogasson el a Wat Yang Thongba, hogy megtapasztalja a történelmi templom nyugalmát, emlékezve arra, hogy szerényen öltözködjön és vegye le a cipőjét belépés előtt.",
+            "ro": "Vizitați Wat Yang Thong pentru a simți atmosfera senină a acestui templu budist istoric, amintindu-vă să vă îmbrăcați modest și să vă scoateți încălțămintea la intrare.",
+            "en": "Visit Wat Yang Thong to experience the serene atmosphere of a historic Buddhist temple, remembering to dress modestly and remove your shoes before entering the hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Songkhla",
+            "hu": "Songkhla Nemzeti Múzeum",
+            "ro": "Muzeul Național Songkhla",
+            "en": "Songkhla National Museum"
+          },
+          "coords": [
+            100.588944,
+            7.202397
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Nationalmuseum Songkhla in einer ehemaligen Villa Jahrhunderte regionaler Geschichte, wo die prähistorische Artefaktsammlung ein absolutes Muss ist.",
+            "hu": "Fedezze fel a régió történelmét a Songkhla Nemzeti Múzeum lenyűgöző egykori kastélyában, ahol a történelem előtti leletek gyűjteménye egyenesen kihagyhatatlan.",
+            "ro": "Descoperiți istoria regională la Muzeul Național Songkhla, găzduit într-un fost conac impresionant, unde colecția de artefacte preistorice este o vizită obligatorie.",
+            "en": "Discover centuries of regional history at the Songkhla National Museum, housed in a striking former mansion, where the prehistoric artifact collection is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Tangkuan Leuchtturm",
+            "hu": "Khao Tangkuan Világítótorony",
+            "ro": "Farul Khao Tangkuan",
+            "en": "Khao Tangkuan Lighthouse"
+          },
+          "coords": [
+            100.589312,
+            7.210439
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Standseilbahn zum Khao Tangkuan Leuchtturm für einen Panoramablick auf die Küste und passen Sie bei den frechen Affen gut auf Ihre Habseligkeiten auf.",
+            "hu": "Menjen fel a siklóval a Khao Tangkuan világítótoronyhoz, ahonnan lenyűgöző kilátás nyílik a partra, de tartsa szemmel a holmiját a környéken élő pimasz majmok miatt.",
+            "ro": "Luați funicularul până la farul Khao Tangkuan pentru vederi panoramice uimitoare ale coastei, având grijă la bunurile dumneavoastră din cauza maimuțelor îndrăznețe.",
+            "en": "Take the funicular up to the Khao Tangkuan Lighthouse for sweeping panoramic views of the city and coast, keeping a close eye on your belongings around the cheeky monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Samila Beach",
+            "hu": "Samila Strand",
+            "ro": "Plaja Samila",
+            "en": "Samila Beach"
+          },
+          "coords": [
+            100.600798,
+            7.206642
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Samila Beach nahe der berühmten Goldenen Meerjungfrau, die sich im weichen Nachmittagslicht am besten fotografieren lässt.",
+            "hu": "Pihenjen a Samila strand aranyhomokján az ikonikus Arany Sellő szobor közelében, amelyet a késő délutáni lágy fényben lehet a legszebben lencsevégre kapni.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la plaja Samila lângă statuia iconică a Sirenei de Aur, care este cel mai bine fotografiată în lumina blândă a după-amiezii târzii.",
+            "en": "Relax on the golden sands of Samila Beach to enjoy the sea breeze near the iconic Golden Mermaid statue, best photographed during the softer light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der charmanten Altstadt von Songkhla mit ihren sino-portugiesischen Straßen, gefolgt von tiefen Einblicken in die thailändisch-chinesische Geschichte im Nakhon Nai Museum.\nZur Mittagszeit finden Sie im friedlichen Wat Yang Thong einen Moment der Ruhe, bevor Sie in die weitläufigen historischen Galerien des Nationalmuseums eintauchen.\nAm Nachmittag geht es hinauf zum Khao Tangkuan Leuchtturm, der atemberaubende Panoramablicke über die malerische Halbinsel und Küste bietet.\nDer Abend klingt am Samila Beach aus, wo Sie die berühmte Goldene Meerjungfrau besuchen und die frische Meeresbrise bei Sonnenuntergang genießen können.",
+        "hu": "A reggel a sino-portugál építészetű óváros felfedezésével indul, majd a Nakhon Nai Múzeum gazdag thai-kínai történelme nyújt izgalmas kulturális betekintést.\nDélben a békés Wat Yang Thong templom lelki megnyugvást kínál, mielőtt elmerülne a Songkhla Nemzeti Múzeum lenyűgöző és kiterjedt kiállításaiban.\nDélután észak felé vesszük az irányt, hogy a Khao Tangkuan világítótoronyból megcsodáljuk a dús zöld félszigetre nyíló lenyűgöző panorámát.\nAz estét a Samila strandon zárjuk, ahol a hűsítő tengeri szellő kíséretében nézheti meg a híres Arany Sellő szobrát a lemenő nap fényében.",
+        "ro": "Dimineața începe cu explorarea Orașului Vechi cu străzile sale chino-portugheze, urmată de o vizită la Muzeul Nakhon Nai pentru o doză bogată de istorie.\nLa prânz, vizitați Wat Yang Thong pentru o pauză spirituală liniștită, înainte de a explora galeriile extinse ale Muzeului Național Songkhla.\nDupă-amiaza, îndreptați-vă spre nord pentru a vă bucura de vederi panoramice uimitoare de la Farul Khao Tangkuan peste peninsula verde.\nSeara se încheie pe plaja Samila, relaxându-vă pe nisip lângă faimoasa statuie a Sirenei de Aur, mângâiați de briza răcoroasă a mării.",
+        "en": "The morning begins with an exploration of Songkhla Old Town's Sino-Portuguese streets, followed by a fascinating historical deep dive at the Nakhon Nai Museum.\nMidday brings a moment of serene spiritual reflection at Wat Yang Thong before spending time in the extensive and captivating galleries of the National Museum.\nIn the afternoon, head upwards to the Khao Tangkuan Lighthouse to take in breathtaking sweeping views across the lush green peninsula and shimmering sea.\nConclude the evening relaxing on the golden sands of Samila Beach, catching the sea breeze by the iconic Golden Mermaid statue as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Songkhla Altstadt",
+            "hu": "Songkhla Óvárosa",
+            "ro": "Orașul Vechi Songkhla",
+            "en": "Songkhla Old Town"
+          },
+          "coords": [
+            100.589874,
+            7.195362
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernde Altstadt von Songkhla mit ihrer sino-portugiesischen Architektur und achten Sie auf die versteckte Straßenkunst in den Gassen.",
+            "hu": "Sétáljon végig az elbűvölő óvároson, hogy megcsodálja a kínai-portugál építészetet, és mindenképpen keresse meg a szűk sikátorokban megbúvó utcai művészetet.",
+            "ro": "Plimbați-vă prin fermecătorul Oraș Vechi pentru a admira arhitectura chino-portugheză și asigurați-vă că explorați arta stradală vibrantă ascunsă pe aleile înguste.",
+            "en": "Stroll through the charming Songkhla Old Town to admire Sino-Portuguese architecture, and be sure to look for the vibrant street art hidden in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Yang Thong",
+            "hu": "Wat Yang Thong",
+            "ro": "Wat Yang Thong",
+            "en": "Wat Yang Thong"
+          },
+          "coords": [
+            100.589799,
+            7.198281
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wat Yang Thong, um die ruhige Atmosphäre dieses historischen Tempels zu genießen, und denken Sie daran, sich bescheiden zu kleiden und Schuhe auszuziehen.",
+            "hu": "Látogasson el a Wat Yang Thongba, hogy megtapasztalja a történelmi templom nyugalmát, emlékezve arra, hogy szerényen öltözködjön és vegye le a cipőjét belépés előtt.",
+            "ro": "Vizitați Wat Yang Thong pentru a simți atmosfera senină a acestui templu budist istoric, amintindu-vă să vă îmbrăcați modest și să vă scoateți încălțămintea la intrare.",
+            "en": "Visit Wat Yang Thong to experience the serene atmosphere of a historic Buddhist temple, remembering to dress modestly and remove your shoes before entering the hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Songkhla",
+            "hu": "Songkhla Nemzeti Múzeum",
+            "ro": "Muzeul Național Songkhla",
+            "en": "Songkhla National Museum"
+          },
+          "coords": [
+            100.588944,
+            7.202397
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Nationalmuseum Songkhla in einer ehemaligen Villa Jahrhunderte regionaler Geschichte, wo die prähistorische Artefaktsammlung ein absolutes Muss ist.",
+            "hu": "Fedezze fel a régió történelmét a Songkhla Nemzeti Múzeum lenyűgöző egykori kastélyában, ahol a történelem előtti leletek gyűjteménye egyenesen kihagyhatatlan.",
+            "ro": "Descoperiți istoria regională la Muzeul Național Songkhla, găzduit într-un fost conac impresionant, unde colecția de artefacte preistorice este o vizită obligatorie.",
+            "en": "Discover centuries of regional history at the Songkhla National Museum, housed in a striking former mansion, where the prehistoric artifact collection is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaloem Thong Songkhla Theater",
+            "hu": "Chaloem Thong Songkhla Színház",
+            "ro": "Teatrul Chaloem Thong Songkhla",
+            "en": "Chaloem Thong Songkhla Theater"
+          },
+          "coords": [
+            100.593388,
+            7.201508
+          ],
+          "category": "cultural",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturelle Bedeutung des Chaloem Thong Songkhla Theaters, einem architektonischen Juwel, und prüfen Sie lokale Programme auf traditionelle Shows.",
+            "hu": "Csodálja meg a Chaloem Thong Színház kulturális jelentőségét és építészeti szépségét, és érdemes megnézni a helyi műsorfüzetet az esetleges hagyományos előadásokért.",
+            "ro": "Admirați importanța culturală a Teatrului Chaloem Thong, o bijuterie arhitecturală a orașului, și verificați programele locale pentru spectacole tradiționale thailandeze.",
+            "en": "Admire the cultural significance of the Chaloem Thong Songkhla Theater, an architectural gem of the city, and check local listings to see if any traditional shows are on."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Noi Palast",
+            "hu": "Khao Noi Palota",
+            "ro": "Palatul Khao Noi",
+            "en": "Khao Noi Palace"
+          },
+          "coords": [
+            100.593307,
+            7.208628
+          ],
+          "category": "landmark",
+          "arrive_at": "13:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das Gelände des Khao Noi Palastes, um seine königliche Geschichte zu schätzen, und packen Sie Wasser ein, da die Parkwege recht warm werden können.",
+            "hu": "Sétáljon a Khao Noi Palota területén, hogy értékelje annak királyi történelmét, és vigyen magával egy üveg vizet, mivel a környező park ösvényei meglehetősen melegek.",
+            "ro": "Plimbați-vă pe terenurile Palatului Khao Noi pentru a-i aprecia istoria regală, luând o sticlă de apă deoarece potecile parcului înconjurător pot fi destul de calde.",
+            "en": "Wander the grounds of Khao Noi Palace to appreciate its royal history and elegant design, packing a bottle of water as the surrounding park paths can be quite warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlangenskulptur",
+            "hu": "A kígyó szobra",
+            "ro": "Sculptura șarpelui",
+            "en": "The sculpture of serpent"
+          },
+          "coords": [
+            100.588474,
+            7.212529
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Skulptur der Großen Schlange Naga, die die Verbindung der Stadt zum Wasser symbolisiert, und stellen Sie sich für das beste Foto an die Küstenlinie.",
+            "hu": "Csodálja meg a Nagy Kígyó Naga szobrát, amely a város vízhez fűződő kapcsolatát jelképezi, és álljon a partvonalhoz a legdrámaibb fotó elkészítéséhez.",
+            "ro": "Minunați-vă de sculptura Marelui Șarpe Naga, care simbolizează legătura orașului cu apa, și poziționați-vă lângă țărm pentru cea mai spectaculoasă și dramatică fotografie.",
+            "en": "Marvel at the intricate sculpture of the Great Serpent Naga, symbolizing the city's connection to water, and position yourself by the shoreline for the most dramatic shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Samila Beach",
+            "hu": "Samila Strand",
+            "ro": "Plaja Samila",
+            "en": "Samila Beach"
+          },
+          "coords": [
+            100.600798,
+            7.206642
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Samila Beach nahe der berühmten Goldenen Meerjungfrau, die sich im weichen Nachmittagslicht am besten fotografieren lässt.",
+            "hu": "Pihenjen a Samila strand aranyhomokján az ikonikus Arany Sellő szobor közelében, amelyet a késő délutáni lágy fényben lehet a legszebben lencsevégre kapni.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la plaja Samila lângă statuia iconică a Sirenei de Aur, care este cel mai bine fotografiată în lumina blândă a după-amiezii târzii.",
+            "en": "Relax on the golden sands of Samila Beach to enjoy the sea breeze near the iconic Golden Mermaid statue, best photographed during the softer light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad geht es entspannt durch die engen Gassen der historischen Altstadt, gefolgt von einem ruhigen spirituellen Zwischenstopp im Wat Yang Thong.\nZur Mittagszeit steht ein tiefer Einblick in die regionale Geschichte im Nationalmuseum an, bevor Sie am imposanten Chaloem Thong Theater vorbeiradeln.\nAm Nachmittag führt die Route hinauf zum Khao Noi Palast und weiter an die Küste, wo die imposante Naga-Schlangenskulptur das Meer überblickt.\nLassen Sie den Tag schließlich am Samila Beach ausklingen, wo Sie sich im Sand entspannen und die angenehme Brise nach einem aktiven Tag genießen können.",
+        "hu": "A napot egy kellemes kerékpározással kezdjük az Óváros történelmi negyedében, majd egy rövid spirituális pihenőt tartunk a Wat Yang Thong templomnál.\nDélben a Nemzeti Múzeumban mélyülhet el a történelemben, ezt követően pedig eltekerünk a lenyűgöző klasszikus Chaloem Thong Színház mellett.\nDélután egy kisebb emelkedő vezet a Khao Noi Palotához, majd a part mentén megcsodálhatja a víz hatalmát jelképező Nagy Naga Kígyó szobrát.\nAz este közeledtével guruljon le a Samila strandra, ahol a hűs homokon pihenve élvezheti a tengerparti nyugalmat és az aranyló naplementét.",
+        "ro": "Dimineața aduce o plimbare cu bicicleta prin Orașul Vechi istoric, urmată de o oprire pașnică pentru reflecție la templul Wat Yang Thong.\nLa prânz, aprofundați istoria la Muzeul Național și apoi faceți un mic ocol pentru a admira frumoasa arhitectură a Teatrului Chaloem Thong.\nDupă-amiaza pedalați spre Palatul Khao Noi pentru o doză de istorie regală și admirați impresionanta sculptură a Marelui Șarpe Naga de pe coastă.\nSeara, coborâți spre plaja Samila pentru a vă relaxa pe nisipurile sale aurii, bucurându-vă de briza mării pe măsură ce căldura zilei dispare ușor.",
+        "en": "Start the day pedaling smoothly through the historic Old Town alleys, stopping briefly for a moment of peace at the serene Wat Yang Thong temple.\nMidday invites a deep dive into the region's past at the National Museum, followed by a quick scenic ride past the classic Chaloem Thong Theater.\nIn the afternoon, head slightly uphill to explore the Khao Noi Palace grounds and marvel at the striking Great Serpent Naga sculpture near the coastline.\nCruise down to Samila Beach in the evening, unwinding on the soft sands to enjoy the sunset and cooling sea breeze after an active day out."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 3.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Nakhon Nai Museum",
+            "hu": "Nakhon Nai Múzeum",
+            "ro": "Muzeul Nakhon Nai",
+            "en": "Nakhon Nai Museum"
+          },
+          "coords": [
+            100.589121,
+            7.197218
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Nakhon Nai Museum, um das traditionelle thailändisch-chinesische Erbe in einem Holzhaus zu erkunden, und kommen Sie früh, um der Hitze zu entgehen.",
+            "hu": "Lépjen be a Nakhon Nai Múzeumba, hogy felfedezze a thai-kínai örökséget egy gyönyörűen megőrzött faházban, és érkezzen korán a délutáni hőség elkerülése végett.",
+            "ro": "Pășiți în Muzeul Nakhon Nai pentru a explora moștenirea tradițională într-o casă de lemn frumos conservată, ajungând devreme pentru a evita căldura de după-amiază.",
+            "en": "Step into the Nakhon Nai Museum to explore traditional Thai-Chinese heritage inside an beautifully preserved wooden house, arriving early to avoid the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Songkhla Altstadt",
+            "hu": "Songkhla Óvárosa",
+            "ro": "Orașul Vechi Songkhla",
+            "en": "Songkhla Old Town"
+          },
+          "coords": [
+            100.589874,
+            7.195362
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernde Altstadt von Songkhla mit ihrer sino-portugiesischen Architektur und achten Sie auf die versteckte Straßenkunst in den Gassen.",
+            "hu": "Sétáljon végig az elbűvölő óvároson, hogy megcsodálja a kínai-portugál építészetet, és mindenképpen keresse meg a szűk sikátorokban megbúvó utcai művészetet.",
+            "ro": "Plimbați-vă prin fermecătorul Oraș Vechi pentru a admira arhitectura chino-portugheză și asigurați-vă că explorați arta stradală vibrantă ascunsă pe aleile înguste.",
+            "en": "Stroll through the charming Songkhla Old Town to admire Sino-Portuguese architecture, and be sure to look for the vibrant street art hidden in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Yang Thong",
+            "hu": "Wat Yang Thong",
+            "ro": "Wat Yang Thong",
+            "en": "Wat Yang Thong"
+          },
+          "coords": [
+            100.589799,
+            7.198281
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wat Yang Thong, um die ruhige Atmosphäre dieses historischen Tempels zu genießen, und denken Sie daran, sich bescheiden zu kleiden und Schuhe auszuziehen.",
+            "hu": "Látogasson el a Wat Yang Thongba, hogy megtapasztalja a történelmi templom nyugalmát, emlékezve arra, hogy szerényen öltözködjön és vegye le a cipőjét belépés előtt.",
+            "ro": "Vizitați Wat Yang Thong pentru a simți atmosfera senină a acestui templu budist istoric, amintindu-vă să vă îmbrăcați modest și să vă scoateți încălțămintea la intrare.",
+            "en": "Visit Wat Yang Thong to experience the serene atmosphere of a historic Buddhist temple, remembering to dress modestly and remove your shoes before entering the hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Songkhla",
+            "hu": "Songkhla Nemzeti Múzeum",
+            "ro": "Muzeul Național Songkhla",
+            "en": "Songkhla National Museum"
+          },
+          "coords": [
+            100.588944,
+            7.202397
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Nationalmuseum Songkhla in einer ehemaligen Villa Jahrhunderte regionaler Geschichte, wo die prähistorische Artefaktsammlung ein absolutes Muss ist.",
+            "hu": "Fedezze fel a régió történelmét a Songkhla Nemzeti Múzeum lenyűgöző egykori kastélyában, ahol a történelem előtti leletek gyűjteménye egyenesen kihagyhatatlan.",
+            "ro": "Descoperiți istoria regională la Muzeul Național Songkhla, găzduit într-un fost conac impresionant, unde colecția de artefacte preistorice este o vizită obligatorie.",
+            "en": "Discover centuries of regional history at the Songkhla National Museum, housed in a striking former mansion, where the prehistoric artifact collection is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Tangkuan Leuchtturm",
+            "hu": "Khao Tangkuan Világítótorony",
+            "ro": "Farul Khao Tangkuan",
+            "en": "Khao Tangkuan Lighthouse"
+          },
+          "coords": [
+            100.589312,
+            7.210439
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Standseilbahn zum Khao Tangkuan Leuchtturm für einen Panoramablick auf die Küste und passen Sie bei den frechen Affen gut auf Ihre Habseligkeiten auf.",
+            "hu": "Menjen fel a siklóval a Khao Tangkuan világítótoronyhoz, ahonnan lenyűgöző kilátás nyílik a partra, de tartsa szemmel a holmiját a környéken élő pimasz majmok miatt.",
+            "ro": "Luați funicularul până la farul Khao Tangkuan pentru vederi panoramice uimitoare ale coastei, având grijă la bunurile dumneavoastră din cauza maimuțelor îndrăznețe.",
+            "en": "Take the funicular up to the Khao Tangkuan Lighthouse for sweeping panoramic views of the city and coast, keeping a close eye on your belongings around the cheeky monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlangenskulptur",
+            "hu": "A kígyó szobra",
+            "ro": "Sculptura șarpelui",
+            "en": "The sculpture of serpent"
+          },
+          "coords": [
+            100.588474,
+            7.212529
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Skulptur der Großen Schlange Naga, die die Verbindung der Stadt zum Wasser symbolisiert, und stellen Sie sich für das beste Foto an die Küstenlinie.",
+            "hu": "Csodálja meg a Nagy Kígyó Naga szobrát, amely a város vízhez fűződő kapcsolatát jelképezi, és álljon a partvonalhoz a legdrámaibb fotó elkészítéséhez.",
+            "ro": "Minunați-vă de sculptura Marelui Șarpe Naga, care simbolizează legătura orașului cu apa, și poziționați-vă lângă țărm pentru cea mai spectaculoasă și dramatică fotografie.",
+            "en": "Marvel at the intricate sculpture of the Great Serpent Naga, symbolizing the city's connection to water, and position yourself by the shoreline for the most dramatic shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Noi Palast",
+            "hu": "Khao Noi Palota",
+            "ro": "Palatul Khao Noi",
+            "en": "Khao Noi Palace"
+          },
+          "coords": [
+            100.593307,
+            7.208628
+          ],
+          "category": "landmark",
+          "arrive_at": "14:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das Gelände des Khao Noi Palastes, um seine königliche Geschichte zu schätzen, und packen Sie Wasser ein, da die Parkwege recht warm werden können.",
+            "hu": "Sétáljon a Khao Noi Palota területén, hogy értékelje annak királyi történelmét, és vigyen magával egy üveg vizet, mivel a környező park ösvényei meglehetősen melegek.",
+            "ro": "Plimbați-vă pe terenurile Palatului Khao Noi pentru a-i aprecia istoria regală, luând o sticlă de apă deoarece potecile parcului înconjurător pot fi destul de calde.",
+            "en": "Wander the grounds of Khao Noi Palace to appreciate its royal history and elegant design, packing a bottle of water as the surrounding park paths can be quite warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Samila Beach",
+            "hu": "Samila Strand",
+            "ro": "Plaja Samila",
+            "en": "Samila Beach"
+          },
+          "coords": [
+            100.600798,
+            7.206642
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Samila Beach nahe der berühmten Goldenen Meerjungfrau, die sich im weichen Nachmittagslicht am besten fotografieren lässt.",
+            "hu": "Pihenjen a Samila strand aranyhomokján az ikonikus Arany Sellő szobor közelében, amelyet a késő délutáni lágy fényben lehet a legszebben lencsevégre kapni.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la plaja Samila lângă statuia iconică a Sirenei de Aur, care este cel mai bine fotografiată în lumina blândă a după-amiezii târzii.",
+            "en": "Relax on the golden sands of Samila Beach to enjoy the sea breeze near the iconic Golden Mermaid statue, best photographed during the softer light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem das Nakhon Nai Museum, gefolgt von einem kurzen Rundgang durch die historische Altstadt von Songkhla.\nZur Mittagszeit bietet der Wat Yang Thong eine Oase der Ruhe, bevor Sie in das majestätische Nationalmuseum fahren, um mehr über die Region zu erfahren.\nDer Nachmittag führt Sie hinauf zum Khao Tangkuan Leuchtturm und zur imposanten Naga-Schlange, mit einem Abstecher zum Khao Noi Palast.\nAm frühen Abend parken Sie nahe dem Samila Beach, um den ereignisreichen Tag bei einem gemütlichen Spaziergang am Meer ausklingen zu lassen.",
+        "hu": "Autóval kényelmesen megközelítheti a Nakhon Nai Múzeumot, majd tehet egy rövid, de annál látványosabb sétát Songkhla óvárosában.\nDélben a Wat Yang Thong templom nyújt lelki békét, majd a fenséges Nemzeti Múzeum felé vesszük az irányt a térség történetének felfedezésére.\nDélután felhajtunk a Khao Tangkuan világítótoronyhoz, készítünk pár képet a Naga Kígyó szobráról, és megnézzük a Khao Noi Palotát.\nKora este parkoljon le a Samila strand közelében, hogy egy kellemes tengerparti sétával zárja ezt a tartalmas és csodás utazást.",
+        "ro": "Un drum scurt cu mașina vă duce la Muzeul Nakhon Nai, urmat de o scurtă plimbare prin străzile istorice vibrante ale Orașului Vechi.\nLa prânz, vizitați Wat Yang Thong pentru un moment de liniște, continuând apoi spre mărețul Muzeu Național Songkhla pentru context istoric.\nDupă-amiaza, conduceți până la Farul Khao Tangkuan și fotografiați impresionantul Șarpe Naga, oprindu-vă și la elegantul Palat Khao Noi.\nSeara, parcați aproape de plaja Samila pentru a vă bucura de o plimbare relaxantă pe coastă, încheind frumos călătoria dumneavoastră.",
+        "en": "A comfortable morning drive takes you to the Nakhon Nai Museum, followed by a brief walking tour through the vibrant historical alleys of the Old Town.\nMidday includes a peaceful stop at Wat Yang Thong, then continuing onward to the majestic Songkhla National Museum for rich cultural context.\nIn the afternoon, drive up to the Khao Tangkuan Lighthouse, snap photos of the imposing Naga Serpent, and visit the elegant Khao Noi Palace.\nPark near Samila Beach in the early evening for a leisurely coastal stroll, watching the waves roll in as the perfect end to your journey."
+      }
+    }
+  }
+}

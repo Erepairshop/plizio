@@ -1,0 +1,474 @@
+{
+  "city_id": "la-roche-sur-yon",
+  "anchor": {
+    "name": "La Roche-sur-Yon",
+    "coords": [
+      -1.4278,
+      46.6697
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Napoléon",
+            "hu": "Place Napoléon",
+            "ro": "Place Napoléon",
+            "en": "Place Napoléon"
+          },
+          "coords": [
+            -1.42664,
+            46.6706
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
+            "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
+            "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Napoleon Statue",
+            "hu": "Napóleon szobra",
+            "ro": "Statuia lui Napoleon",
+            "en": "Napoleon Statue"
+          },
+          "coords": [
+            -1.426699,
+            46.670602
+          ],
+          "category": "monument",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Reiterstatue des Stadtgründers und achten Sie auf die Inschriften am Sockel, die die geometrische Planung der Stadt erklären.",
+            "hu": "Csodálja meg a városalapító lovasszobrát, és figyelje meg a talapzaton lévő feliratokat, amelyek a város szigorú geometriai tervezését magyarázzák.",
+            "ro": "Admirați statuia ecvestră a fondatorului orașului și priviți inscripțiile de pe soclu care explică planificarea geometrică unică a acestei așezări.",
+            "en": "Admire this equestrian statue of the city's founder, and check the inscriptions on the pedestal that explain the strict geometric layout of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cyel",
+            "hu": "Le Cyel",
+            "ro": "Le Cyel",
+            "en": "Le Cyel"
+          },
+          "coords": [
+            -1.431258,
+            46.670328
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst in diesem modernen Kulturzentrum, wo Sie am Informationsschalter kostenlose Broschüren zu aktuellen Ausstellungen finden.",
+            "hu": "Fedezze fel a kortárs művészetet ebben a modern kulturális központban, ahol az információs pultnál ingyenes brosúrákat talál az aktuális kiállításokról.",
+            "ro": "Descoperiți arta contemporană în acest centru cultural modern, unde puteți găsi broșuri gratuite despre expozițiile curente la biroul de informații.",
+            "en": "Discover contemporary art in this modern cultural center, where you can pick up free brochures about current exhibitions at the main information desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            -1.432859,
+            46.677342
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende romanisch-byzantinische Bauwerk und achten Sie auf das farbenfrohe Licht, das morgens durch die Buntglasfenster fällt.",
+            "hu": "Látogassa meg ezt a lenyűgöző román-bizánci épületet, és figyelje meg a színes fényt, amely a délelőtti órákban átszűrődik a gyönyörű ólomüveg ablakokon.",
+            "ro": "Vizitați acest edificiu impresionant în stil romano-bizantin și observați lumina colorată care pătrunde prin vitralii în timpul orelor dimineții.",
+            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Gueffier",
+            "hu": "Maison Gueffier",
+            "ro": "Maison Gueffier",
+            "en": "Maison Gueffier"
+          },
+          "coords": [
+            -1.43025,
+            46.66903
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die literarischen Ausstellungen in diesem historischen Gebäude und nutzen Sie den ruhigen Innenhof für eine kurze Pause abseits des Trubels.",
+            "hu": "Fedezze fel az irodalmi kiállításokat ebben a történelmi épületben, és használja ki a csendes belső udvart egy rövid pihenőre a város zajától távol.",
+            "ro": "Explorați expozițiile literare din această clădire istorică și profitați de curtea interioară liniștită pentru o scurtă pauză departe de agitația străzii.",
+            "en": "Explore the literary exhibitions housed in this historic building, and take advantage of the quiet inner courtyard for a short, peaceful resting break."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras de la Vendée",
+            "hu": "Haras de la Vendée",
+            "ro": "Haras de la Vendée",
+            "en": "Haras de la Vendée"
+          },
+          "coords": [
+            -1.42694,
+            46.664
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
+            "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
+            "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Compagnons",
+            "hu": "Jardin des Compagnons",
+            "ro": "Jardin des Compagnons",
+            "en": "Jardin des Compagnons"
+          },
+          "coords": [
+            -1.421769,
+            46.670109
+          ],
+          "category": "natural",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen liebevoll gepflegten Garten, der sich perfekt für ein entspanntes Picknick mit lokalen Spezialitäten vom nahen Markt eignet.",
+            "hu": "Sétáljon végig ezen a gondosan karbantartott kerten, amely tökéletes helyszín egy pihentető piknikhez a helyi piacról származó friss finomságokkal.",
+            "ro": "Plimbați-vă prin această grădină frumos îngrijită, ideală pentru un picnic relaxant cu produse locale proaspete cumpărate de la piața din apropiere.",
+            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der belebten Place Napoléon und bewundern Sie die mechanischen Tiere, bevor Sie das kulturelle Zentrum Le Cyel erkunden. Mittags spazieren Sie zur markanten Église du Sacré-Cœur und entdecken die Ausstellungen in der Maison Gueffier. Am Nachmittag tauchen Sie in die Reitgeschichte des Haras de la Vendée ein. Beenden Sie den Tag entspannt im Jardin des Compagnons.",
+        "hu": "Kezdje a napot a nyüzsgő Place Napoléon téren a mechanikus állatokkal, majd fedezze fel a Le Cyel kulturális központot. Délben sétáljon el a lenyűgöző Église du Sacré-Cœur templomhoz, és nézze meg a Maison Gueffier kiállításait. Délután merüljön el a lovaglás történetében a Haras de la Vendée ménesbirtokon. A napot a békés Jardin des Compagnons parkban zárja egy kellemes sétával.",
+        "ro": "Începeți ziua în vibranta Place Napoléon admirând animalele mecanice, apoi explorați centrul cultural Le Cyel. La prânz, vizitați impresionanta Église du Sacré-Cœur și expozițiile de la Maison Gueffier. După-amiaza, descoperiți tradiția ecvestră la Haras de la Vendée. Încheiați ziua cu o plimbare relaxantă în frumoasele grădini de la Jardin des Compagnons, bucurându-vă de liniște.",
+        "en": "Start your day at the vibrant Place Napoléon to admire the mechanical animals, then explore the cultural hub of Le Cyel. Midday, walk up to the striking Église du Sacré-Cœur and check out the local exhibits at Maison Gueffier. In the afternoon, discover equestrian history at the beautiful Haras de la Vendée. End your day relaxing in the peaceful greenery of Jardin des Compagnons."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Napoléon",
+            "hu": "Place Napoléon",
+            "ro": "Place Napoléon",
+            "en": "Place Napoléon"
+          },
+          "coords": [
+            -1.42664,
+            46.6706
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
+            "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
+            "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            -1.432859,
+            46.677342
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende romanisch-byzantinische Bauwerk und achten Sie auf das farbenfrohe Licht, das morgens durch die Buntglasfenster fällt.",
+            "hu": "Látogassa meg ezt a lenyűgöző román-bizánci épületet, és figyelje meg a színes fényt, amely a délelőtti órákban átszűrődik a gyönyörű ólomüveg ablakokon.",
+            "ro": "Vizitați acest edificiu impresionant în stil romano-bizantin și observați lumina colorată care pătrunde prin vitralii în timpul orelor dimineții.",
+            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrage du Moulin Papon",
+            "hu": "Barrage du Moulin Papon",
+            "ro": "Barrage du Moulin Papon",
+            "en": "Barrage du Moulin Papon"
+          },
+          "coords": [
+            -1.421591,
+            46.689973
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad entlang des malerischen Stausees und nutzen Sie die gut ausgebauten Uferwege, um die reiche Vogelwelt in aller Ruhe zu beobachten.",
+            "hu": "Kerékpározzon a festői víztározó mentén, és használja a jól kiépített parti utakat, hogy nyugodtan megfigyelhesse a gazdag madárvilágot a természetben.",
+            "ro": "Pedalați de-a lungul lacului de acumulare pitoresc și folosiți potecile bine întreținute pentru a observa în liniște bogata faună de păsări din zonă.",
+            "en": "Cycle along the picturesque reservoir and use the well-maintained waterside paths to easily observe the rich birdlife in a wonderfully tranquil setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Gare de La Roche-sur-Yon",
+            "hu": "Gare de La Roche-sur-Yon",
+            "ro": "Gare de La Roche-sur-Yon",
+            "en": "Gare de La Roche-sur-Yon"
+          },
+          "coords": [
+            -1.435604,
+            46.672601
+          ],
+          "category": "station",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische Bahnhofsarchitektur, die den Fortschritt des 19. Jahrhunderts symbolisiert; sichere Fahrradstellplätze finden Sie direkt am Eingang.",
+            "hu": "Tekintse meg a klasszikus vasútállomás építészetét, amely a 19. századi fejlődést szimbolizálja; biztonságos kerékpártárolókat talál közvetlenül a bejáratnál.",
+            "ro": "Admirați arhitectura clasică a gării, simbol al progresului secolului al XIX-lea; veți găsi parcări sigure pentru biciclete chiar lângă intrarea principală.",
+            "en": "Admire the classic railway station architecture symbolizing 19th-century progress; you can find secure bicycle parking racks located right by the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras de la Vendée",
+            "hu": "Haras de la Vendée",
+            "ro": "Haras de la Vendée",
+            "en": "Haras de la Vendée"
+          },
+          "coords": [
+            -1.42694,
+            46.664
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
+            "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
+            "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Compagnons",
+            "hu": "Jardin des Compagnons",
+            "ro": "Jardin des Compagnons",
+            "en": "Jardin des Compagnons"
+          },
+          "coords": [
+            -1.421769,
+            46.670109
+          ],
+          "category": "natural",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen liebevoll gepflegten Garten, der sich perfekt für ein entspanntes Picknick mit lokalen Spezialitäten vom nahen Markt eignet.",
+            "hu": "Sétáljon végig ezen a gondosan karbantartott kerten, amely tökéletes helyszín egy pihentető piknikhez a helyi piacról származó friss finomságokkal.",
+            "ro": "Plimbați-vă prin această grădină frumos îngrijită, ideală pentru un picnic relaxant cu produse locale proaspete cumpărate de la piața din apropiere.",
+            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom zentralen Place Napoléon zur markanten Église du Sacré-Cœur. Verlassen Sie dann das Zentrum, um die Natur am Barrage du Moulin Papon zu genießen, wo breite Wege ideale Bedingungen bieten. Kehren Sie über die historische Gare de La Roche-sur-Yon in die Stadt zurück. Am Nachmittag besuchen Sie das Gestüt Haras de la Vendée, bevor Sie im Jardin des Compagnons ausspannen.",
+        "hu": "Kerékpározzon a központi Place Napoléonról a lenyűgöző Église du Sacré-Cœur templomhoz. Hagyja el a központot, és élvezze a természetet a Barrage du Moulin Papon gátnál, ahol széles utak várják. Térjen vissza a történelmi Gare de La Roche-sur-Yon érintésével. Délután látogasson el a Haras de la Vendée ménesbirtokra, majd lazítson a Jardin des Compagnons park fái alatt.",
+        "ro": "Pedalați din centrul Place Napoléon spre impresionanta Église du Sacré-Cœur. Ieșiți din oraș pentru a vă bucura de natura de la Barrage du Moulin Papon, ideală pentru bicicliști. Întoarceți-vă trecând pe la istorica Gare de La Roche-sur-Yon. După-amiaza, vizitați herghelia Haras de la Vendée, înainte de a vă relaxa în frumosul parc Jardin des Compagnons la finalul zilei.",
+        "en": "Cycle from the central Place Napoléon to the striking Église du Sacré-Cœur. Leave the bustling center to enjoy the scenic nature paths at Barrage du Moulin Papon. Return to the city via the historic architecture of Gare de La Roche-sur-Yon. In the afternoon, visit the elegant Haras de la Vendée stud farm, before winding down in the tranquil Jardin des Compagnons."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 19.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Napoléon",
+            "hu": "Place Napoléon",
+            "ro": "Place Napoléon",
+            "en": "Place Napoléon"
+          },
+          "coords": [
+            -1.42664,
+            46.6706
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
+            "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
+            "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras de la Vendée",
+            "hu": "Haras de la Vendée",
+            "ro": "Haras de la Vendée",
+            "en": "Haras de la Vendée"
+          },
+          "coords": [
+            -1.42694,
+            46.664
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
+            "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
+            "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye des Fontenelles",
+            "hu": "Abbaye des Fontenelles",
+            "ro": "Abbaye des Fontenelles",
+            "en": "Abbaye des Fontenelles"
+          },
+          "coords": [
+            -1.486545,
+            46.664279
+          ],
+          "category": "monastic",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Abtei; parken Sie am Rande des Geländes und tragen Sie festes Schuhwerk für unebene Böden.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a hangulatos romjait; parkoljon a terület szélén, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei vechi abații; parcați la marginea sitului și purtați încălțăminte adecvată pentru terenul denivelat.",
+            "en": "Explore the atmospheric ruins of this ancient abbey; park your car at the edge of the site and make sure to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrière des Clouzeaux",
+            "hu": "Carrière des Clouzeaux",
+            "ro": "Carrière des Clouzeaux",
+            "en": "Carrière des Clouzeaux"
+          },
+          "coords": [
+            -1.516722,
+            46.628544
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Ausblick auf diesen überfluteten Steinbruch; der Aussichtspunkt ist vom Parkplatz in wenigen Minuten über einen flachen Weg erreichbar.",
+            "hu": "Élvezze a kilátást az elárasztott kőbányára; a kilátópont a parkolóból néhány perc alatt elérhető egy lapos, könnyen járható gyalogúton.",
+            "ro": "Bucurați-vă de priveliștea acestei cariere inundate; punctul de belvedere este accesibil din parcare în câteva minute pe o potecă plană și ușoară.",
+            "en": "Enjoy the striking view of this flooded quarry; the main observation point is easily accessible from the parking area via a short, flat walking path."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Rambourg",
+            "hu": "Moulin de Rambourg",
+            "ro": "Moulin de Rambourg",
+            "en": "Moulin de Rambourg"
+          },
+          "coords": [
+            -1.394244,
+            46.606229
+          ],
+          "category": "museum",
+          "arrive_at": "13:33",
+          "stay_min": 130,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Wassermühle am Fluss; der kleine Schotterparkplatz füllt sich schnell, daher ist ein Besuch am Nachmittag ideal.",
+            "hu": "Látogasson el ehhez a bájos folyóparti vízimalomhoz; a kis kavicsos parkoló gyorsan megtelik, így a délutáni látogatás a legideálisabb választás.",
+            "ro": "Vizitați această moară de apă fermecătoare; mica parcare cu pietriș se umple rapid, așa că o vizită târziu după-amiaza este cea mai bună opțiune.",
+            "en": "Visit this charming riverside watermill; the small gravel parking lot fills up quickly during peak hours, so a late afternoon visit is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Place Napoléon, bevor Sie schnell zum Haras de la Vendée fahren, um das Reit-Erbe zu sehen. Danach verlassen Sie die Stadtmauern und fahren zur ruhigen Abbaye des Fontenelles. Die Carrière des Clouzeaux bietet faszinierende Natur und geologische Einblicke. Den krönenden Abschluss bildet die Fahrt zum Moulin de Rambourg, wo Sie alte Mühlentechnik am Flussufer erleben.",
+        "hu": "Kezdjen a Place Napoléon téren, majd vezessen a Haras de la Vendée ménesbirtokhoz. Ezt követően hagyja el a várost, és látogasson el a békés Abbaye des Fontenelles apátsághoz. A Carrière des Clouzeaux kőfejtő lenyűgöző természetet és geológiai betekintést nyújt. Végül vezessen el a Moulin de Rambourg malomhoz, ahol régi vízimalom-technológiát láthat a folyóparton.",
+        "ro": "Începeți la Place Napoléon, apoi conduceți scurt spre Haras de la Vendée pentru moștenirea ecvestră. Părăsiți orașul pentru liniștea de la Abbaye des Fontenelles. Carrière des Clouzeaux vă oferă peisaje naturale și perspective geologice fascinante. Încheiați ziua conducând spre pitorescul Moulin de Rambourg, pentru a descoperi tehnologia vechilor mori pe malul râului.",
+        "en": "Start at Place Napoléon before a quick drive to Haras de la Vendée to see the equestrian heritage. Head outside the city limits to the serene ruins of Abbaye des Fontenelles. Next, Carrière des Clouzeaux offers striking natural scenery and geological insights. Conclude your driving tour at the historic Moulin de Rambourg, exploring antique milling technology by the river."
+      }
+    }
+  }
+}

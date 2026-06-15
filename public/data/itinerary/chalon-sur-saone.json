@@ -1,0 +1,474 @@
+{
+  "city_id": "chalon-sur-saone",
+  "anchor": {
+    "name": "Chalon-sur-Saône",
+    "coords": [
+      4.8539,
+      46.7811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 1.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Vincent",
+            "hu": "Place Saint-Vincent",
+            "ro": "Place Saint-Vincent",
+            "en": "Place Saint-Vincent"
+          },
+          "coords": [
+            4.8488,
+            46.7791
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser an diesem historischen Platz, der den mittelalterlichen Charme widerspiegelt, und trinken Sie einen Kaffee in einem der Eckcafés.",
+            "hu": "Csodálja meg a fagerendás házakat ezen a történelmi téren, amely tükrözi a város középkori báját, és igyon egy kávét az egyik sarki kávézóban a hangulatért.",
+            "ro": "Admirați casele cu bârne de lemn din această piață istorică ce reflectă farmecul medieval al orașului și savurați o cafea la una dintre terasele de pe colț.",
+            "en": "Admire the half-timbered houses around this historic square which reflects the city's medieval charm, and grab a coffee at a corner café to people-watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Vincent",
+            "hu": "Saint-Vincent Katedrális",
+            "ro": "Catedrala Saint-Vincent",
+            "en": "Saint-Vincent Cathedral"
+          },
+          "coords": [
+            4.859061,
+            46.782489
+          ],
+          "category": "religious",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende religiöse Bauwerk, das Jahrhunderte architektonischer Entwicklung zeigt, und achten Sie auf die modernen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási épületet, amely évszázadok építészeti fejlődését mutatja be, és mindenképpen vegye szemügyre a modern ólomüveg ablakokat.",
+            "ro": "Explorați acest edificiu religios impresionant care prezintă secole de evoluție arhitecturală și asigurați-vă că observați frumoasele vitralii moderne.",
+            "en": "Explore this stunning religious edifice showcasing centuries of architectural evolution, and make sure to observe the beautiful modern stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour du Doyenné",
+            "hu": "Tour du Doyenné",
+            "ro": "Tour du Doyenné",
+            "en": "Tour du Doyenné"
+          },
+          "coords": [
+            4.857218,
+            46.779188
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in diesem bemerkenswerten historischen Turm in die Vergangenheit zurück, und tragen Sie bequeme Schuhe für die umliegenden Pflasterwege.",
+            "hu": "Lépjen vissza az időben ennél a figyelemre méltó történelmi toronynál, és viseljen kényelmes cipőt a környező macskaköves ösvényeken való sétához.",
+            "ro": "Întoarceți-vă în timp la acest remarcabil turn istoric care stă mărturie trecutului și purtați încălțăminte confortabilă pentru a străbate cărările pietruite.",
+            "en": "Step back in time at this remarkable historical tower standing as a testament to the past, and wear comfortable shoes for navigating the surrounding cobbled paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicéphore Niépce Museum",
+            "hu": "Nicéphore Niépce Múzeum",
+            "ro": "Muzeul Nicéphore Niépce",
+            "en": "Nicéphore Niépce Museum"
+          },
+          "coords": [
+            4.8556,
+            46.78025
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ursprünge der Fotografie in diesem dem Erfinder gewidmeten Museum, und beginnen Sie im Erdgeschoss, um der Chronologie zu folgen.",
+            "hu": "Fedezze fel a fotózás lenyűgöző eredetét ebben a feltalálónak szentelt múzeumban, és kezdje a látogatást a földszinten a kronologikus kiállítások követéséhez.",
+            "ro": "Descoperiți originile fascinante ale fotografiei în acest muzeu dedicat inventatorului său și începeți vizita la parter pentru a urmări exponatele cronologic.",
+            "en": "Discover the fascinating origins of photography at this museum dedicated to its inventor, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent-Brücke",
+            "hu": "Saint-Laurent híd",
+            "ro": "Podul Saint-Laurent",
+            "en": "Saint-Laurent Bridge"
+          },
+          "coords": [
+            4.85832,
+            46.780953
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische historische Brücke mit herrlichem Blick auf die Saône, und halten Sie am mittleren Aussichtspunkt für die besten Panoramafotos.",
+            "hu": "Keljen át ezen az ikonikus történelmi hídon, amely csodálatos kilátást nyújt a Saône folyóra, és álljon meg a középső kilátópontnál a legjobb panorámaképekért.",
+            "ro": "Traversați acest pod istoric emblematic care oferă vederi splendide asupra râului Saône și opriți-vă la punctul de observație din mijloc pentru cele mai bune poze.",
+            "en": "Cross this iconic historical bridge offering splendid views over the Saône river, and stop at the middle observation point for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent-Insel",
+            "hu": "Saint-Laurent sziget",
+            "ro": "Insula Saint-Laurent",
+            "en": "Saint-Laurent Island"
+          },
+          "coords": [
+            4.861497,
+            46.779621
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese charmante Insel voller historischer Überreste und lebhafter lokaler Lokale, und reservieren Sie einen Tisch im Voraus am Flussufer.",
+            "hu": "Sétáljon ezen a bájos szigeten, amely tele van történelmi emlékekkel és nyüzsgő helyi éttermekkel, és foglaljon asztalt előre, ha a folyóparton szeretne vacsorázni.",
+            "ro": "Plimbați-vă pe această insulă fermecătoare plină de vestigii istorice și restaurante locale animate și rezervați o masă în avans dacă doriți să cinați pe malul râului.",
+            "en": "Stroll around this charming island filled with historic remnants and bustling local eateries, and book a table in advance if you plan to dine along the lively riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Place Saint-Vincent, um die alte Atmosphäre aufzusaugen, gefolgt von der majestätischen Kathedrale Saint-Vincent. Mittags erreichen Sie den historischen Tour du Doyenné. Tauchen Sie nachmittags im Nicéphore Niépce Museum in die Ursprünge der Bilder ein. Abends überqueren Sie die Saint-Laurent-Brücke und beenden Ihre Tour auf der lebhaften Saint-Laurent-Insel.",
+        "hu": "A reggel a Place Saint-Vincent-en indul, majd elsétálunk a fenséges Saint-Vincent Katedrálishoz. A dél a történelmi Tour du Doyenné árnyékában telik. Délután merüljön el a képi alkotás eredetében a Nicéphore Niépce Múzeumban. Ahogy közeledik az este, keljen át a Saint-Laurent hídon, és fejezze be gyalogos túráját a nyüzsgő Saint-Laurent sziget felfedezésével.",
+        "ro": "Dimineața începe în Place Saint-Vincent pentru a absorbi atmosfera, urmată de o scurtă plimbare la măreața Catedrală Saint-Vincent. Amiaza vă aduce la Tour du Doyenné. După-amiază, pătrundeți în originile imagisticii la Muzeul Nicéphore Niépce. Când se lasă seara, traversați Podul Saint-Laurent și încheiați plimbarea explorând vibranta Insulă Saint-Laurent.",
+        "en": "Morning begins at Place Saint-Vincent to absorb the old-world atmosphere before a short walk to the majestic Saint-Vincent Cathedral. Midday brings you to Tour du Doyenné's historic shadows. In the afternoon, dive into the origins of imagery at the Nicéphore Niépce Museum. As evening nears, cross the Saint-Laurent Bridge and end your walking journey exploring the vibrant Saint-Laurent Island."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vivant-Denon Museum",
+            "hu": "Vivant-Denon Múzeum",
+            "ro": "Muzeul Vivant-Denon",
+            "en": "Vivant-Denon Museum"
+          },
+          "coords": [
+            4.852293,
+            46.780947
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem bereichernden Museum in die lokale Geschichte und die schönen Künste ein, und nehmen Sie sich Zeit für die römischen Antiken im Untergeschoss.",
+            "hu": "Merüljön el a helyi történelemben és a szépművészetekben ebben a gazdag múzeumban, és szánjon extra időt a figyelemre méltó római kori régiségekre az alsó szinten.",
+            "ro": "Cufundați-vă în istoria locală și artele frumoase la acest muzeu îmbogățitor și alocați timp suplimentar pentru remarcabila colecție de antichități romane de la parter.",
+            "en": "Immerse yourself in local history and fine arts at this enriching museum, and allocate extra time for the remarkable Roman antiquities collection on the lower level."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicéphore Niépce Museum",
+            "hu": "Nicéphore Niépce Múzeum",
+            "ro": "Muzeul Nicéphore Niépce",
+            "en": "Nicéphore Niépce Museum"
+          },
+          "coords": [
+            4.8556,
+            46.78025
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ursprünge der Fotografie in diesem dem Erfinder gewidmeten Museum, und beginnen Sie im Erdgeschoss, um der Chronologie zu folgen.",
+            "hu": "Fedezze fel a fotózás lenyűgöző eredetét ebben a feltalálónak szentelt múzeumban, és kezdje a látogatást a földszinten a kronologikus kiállítások követéséhez.",
+            "ro": "Descoperiți originile fascinante ale fotografiei în acest muzeu dedicat inventatorului său și începeți vizita la parter pentru a urmări exponatele cronologic.",
+            "en": "Discover the fascinating origins of photography at this museum dedicated to its inventor, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Vincent",
+            "hu": "Saint-Vincent Katedrális",
+            "ro": "Catedrala Saint-Vincent",
+            "en": "Saint-Vincent Cathedral"
+          },
+          "coords": [
+            4.859061,
+            46.782489
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende religiöse Bauwerk, das Jahrhunderte architektonischer Entwicklung zeigt, und achten Sie auf die modernen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási épületet, amely évszázadok építészeti fejlődését mutatja be, és mindenképpen vegye szemügyre a modern ólomüveg ablakokat.",
+            "ro": "Explorați acest edificiu religios impresionant care prezintă secole de evoluție arhitecturală și asigurați-vă că observați frumoasele vitralii moderne.",
+            "en": "Explore this stunning religious edifice showcasing centuries of architectural evolution, and make sure to observe the beautiful modern stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Vins",
+            "hu": "Maison des Vins",
+            "ro": "Maison des Vins",
+            "en": "Maison des Vins"
+          },
+          "coords": [
+            4.862515,
+            46.784474
+          ],
+          "category": "culinary",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Probieren Sie die exquisiten lokalen Weine der Region an diesem kulinarischen Hotspot, und fragen Sie die Sommeliers nach Empfehlungen, bevor Sie Flaschen kaufen.",
+            "hu": "Kóstolja meg a régió kiváló helyi borait ezen a kulináris központon, és kérjen a hozzáértő sommelier-ktől párosítási javaslatokat, mielőtt megvásárolná a kedvenceit.",
+            "ro": "Degustați vinurile locale rafinate ale regiunii la acest punct de atracție culinară și cereți sugestii somelierilor înainte de a vă achiziționa sticlele preferate.",
+            "en": "Taste the exquisite local wines of the region at this culinary hotspot, and ask the knowledgeable sommeliers for pairing suggestions before purchasing your favorite bottles."
+          }
+        },
+        {
+          "name": {
+            "de": "Georges Nouelle Park",
+            "hu": "Georges Nouelle Park",
+            "ro": "Parcul Georges Nouelle",
+            "en": "Georges Nouelle Park"
+          },
+          "coords": [
+            4.862121,
+            46.785123
+          ],
+          "category": "natural",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem üppigen Naturraum, der einen perfekten grünen Rückzugsort in der Stadt bietet, und nutzen Sie die schattigen Bänke am botanischen Bereich.",
+            "hu": "Pihenjen ebben a buja természeti térben, amely tökéletes zöld menedéket nyújt a városban, és használja ki a botanikus rész melletti árnyékos padokat egy kis szünetre.",
+            "ro": "Relaxați-vă în acest spațiu natural luxuriant care oferă un refugiu verde perfect în oraș și profitați de băncile umbrite de lângă secțiunea botanică pentru o pauză.",
+            "en": "Relax in this lush natural space providing a perfect green retreat in the city, and take advantage of the shaded benches near the botanical section for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent-Insel",
+            "hu": "Saint-Laurent sziget",
+            "ro": "Insula Saint-Laurent",
+            "en": "Saint-Laurent Island"
+          },
+          "coords": [
+            4.861497,
+            46.779621
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese charmante Insel voller historischer Überreste und lebhafter lokaler Lokale, und reservieren Sie einen Tisch im Voraus am Flussufer.",
+            "hu": "Sétáljon ezen a bájos szigeten, amely tele van történelmi emlékekkel és nyüzsgő helyi éttermekkel, és foglaljon asztalt előre, ha a folyóparton szeretne vacsorázni.",
+            "ro": "Plimbați-vă pe această insulă fermecătoare plină de vestigii istorice și restaurante locale animate și rezervați o masă în avans dacă doriți să cinați pe malul râului.",
+            "en": "Stroll around this charming island filled with historic remnants and bustling local eateries, and book a table in advance if you plan to dine along the lively riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit Kunst und Geschichte im Vivant-Denon Museum. Mittags radeln Sie zum Nicéphore Niépce Museum, um fotografische Wunder zu sehen. Der Nachmittag führt an der Kathedrale Saint-Vincent vorbei zum Maison des Vins. Lassen Sie den Tag im weitläufigen Georges Nouelle Park ausklingen, bevor Sie den Sonnenuntergang auf der Insel Saint-Laurent genießen.",
+        "hu": "A kerékpáros nap a Vivant-Denon Múzeumban kezdődik helyi művészettel. Délben egy rövid tekeréssel érje el a Nicéphore Niépce Múzeumot. A délután folyamán elhalad a Saint-Vincent Katedrális mellett, majd a Maison des Vins-ben kóstolót tart. Fejezze be a napot a Georges Nouelle Park zöldjében pihenve, mielőtt megnézi a naplementét a Saint-Laurent szigeten.",
+        "ro": "Ziua de ciclism începe cu artă locală la Muzeul Vivant-Denon. Până la prânz, pedalați spre Muzeul Nicéphore Niépce pentru minuni fotografice. După-amiaza trece lin pe lângă Catedrala Saint-Vincent și spre Maison des Vins pentru o degustare. Încheiați ziua relaxându-vă în verdeața Parcului Georges Nouelle, înainte de a vedea apusul pe Insula Saint-Laurent.",
+        "en": "Your cycling day starts with local art and history at the Vivant-Denon Museum. By midday, pedal a short distance to the Nicéphore Niépce Museum for photographic wonders. The afternoon rolls smoothly past the Saint-Vincent Cathedral and into the Maison des Vins for a tasting. End the day unwinding in the green expanse of Georges Nouelle Park before sunset on Saint-Laurent Island."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 2.18,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Obélisque du Canal du Centre",
+            "hu": "Canal du Centre Obeliszk",
+            "ro": "Obeliscul Canal du Centre",
+            "en": "Obélisque du Canal du Centre"
+          },
+          "coords": [
+            4.852774,
+            46.784447
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses markante historische Denkmal zur Erinnerung an den Bau des Kanals, und lesen Sie die informativen Tafeln, um seine regionale Bedeutung zu verstehen.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi emlékművet, amely a csatorna mérnöki bravúrjának állít emléket, és olvassa el a táblákat a regionális jelentőség megértéséhez.",
+            "ro": "Admirați acest monument istoric impresionant care comemorează realizarea inginerească a canalului și citiți plăcuțele informative pentru a-i înțelege importanța.",
+            "en": "Admire this striking historical monument commemorating the engineering feat of the canal, and read the informative plaques to fully understand its regional significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Vivant-Denon Museum",
+            "hu": "Vivant-Denon Múzeum",
+            "ro": "Muzeul Vivant-Denon",
+            "en": "Vivant-Denon Museum"
+          },
+          "coords": [
+            4.852293,
+            46.780947
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem bereichernden Museum in die lokale Geschichte und die schönen Künste ein, und nehmen Sie sich Zeit für die römischen Antiken im Untergeschoss.",
+            "hu": "Merüljön el a helyi történelemben és a szépművészetekben ebben a gazdag múzeumban, és szánjon extra időt a figyelemre méltó római kori régiségekre az alsó szinten.",
+            "ro": "Cufundați-vă în istoria locală și artele frumoase la acest muzeu îmbogățitor și alocați timp suplimentar pentru remarcabila colecție de antichități romane de la parter.",
+            "en": "Immerse yourself in local history and fine arts at this enriching museum, and allocate extra time for the remarkable Roman antiquities collection on the lower level."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace des Arts",
+            "hu": "Espace des Arts",
+            "ro": "Espace des Arts",
+            "en": "Espace des Arts"
+          },
+          "coords": [
+            4.8488,
+            46.7791
+          ],
+          "category": "cultural",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erleben Sie den zeitgenössischen kulturellen Herzschlag der Stadt in diesem modernen Kunstzentrum, und informieren Sie sich vorab online über Ausstellungen im Foyer.",
+            "hu": "Tapasztalja meg a város kortárs kulturális lüktetését ezen a modern művészeti helyszínen, és ellenőrizze előre a menetrendet egy ingyenes előcsarnoki kiállításért.",
+            "ro": "Experimentați pulsul cultural contemporan al orașului la această locație de artă modernă și verificați programul online în avans pentru o expoziție gratuită în hol.",
+            "en": "Experience the contemporary cultural heartbeat of the city at this modern arts venue, and check the current schedule online beforehand to catch a free lobby exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicéphore Niépce Museum",
+            "hu": "Nicéphore Niépce Múzeum",
+            "ro": "Muzeul Nicéphore Niépce",
+            "en": "Nicéphore Niépce Museum"
+          },
+          "coords": [
+            4.8556,
+            46.78025
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ursprünge der Fotografie in diesem dem Erfinder gewidmeten Museum, und beginnen Sie im Erdgeschoss, um der Chronologie zu folgen.",
+            "hu": "Fedezze fel a fotózás lenyűgöző eredetét ebben a feltalálónak szentelt múzeumban, és kezdje a látogatást a földszinten a kronologikus kiállítások követéséhez.",
+            "ro": "Descoperiți originile fascinante ale fotografiei în acest muzeu dedicat inventatorului său și începeți vizita la parter pentru a urmări exponatele cronologic.",
+            "en": "Discover the fascinating origins of photography at this museum dedicated to its inventor, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Hôpital",
+            "hu": "Ancien Hôpital",
+            "ro": "Ancien Hôpital",
+            "en": "Ancien Hôpital"
+          },
+          "coords": [
+            4.857218,
+            46.779188
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das tiefgreifende historische Erbe dieser alten Krankenhausarchitektur, und richten Sie Ihr Augenmerk auf den erhaltenen Apothekenraum für einzigartige Einblicke.",
+            "hu": "Csodálja meg ennek az ősi kórházi építészetnek a mély történelmi örökségét, és fókuszáljon a megőrzött patikaszobára az egyedülálló orvostörténeti betekintésért.",
+            "ro": "Minunați-vă de moștenirea istorică profundă a arhitecturii acestui vechi spital și concentrați-vă atenția asupra camerei apotecare conservate pentru o perspectivă unică.",
+            "en": "Marvel at the profound historical legacy of this ancient hospital architecture, and focus your attention on the preserved apothecary room for a unique medical history insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Georges Nouelle Park",
+            "hu": "Georges Nouelle Park",
+            "ro": "Parcul Georges Nouelle",
+            "en": "Georges Nouelle Park"
+          },
+          "coords": [
+            4.862121,
+            46.785123
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem üppigen Naturraum, der einen perfekten grünen Rückzugsort in der Stadt bietet, und nutzen Sie die schattigen Bänke am botanischen Bereich.",
+            "hu": "Pihenjen ebben a buja természeti térben, amely tökéletes zöld menedéket nyújt a városban, és használja ki a botanikus rész melletti árnyékos padokat egy kis szünetre.",
+            "ro": "Relaxați-vă în acest spațiu natural luxuriant care oferă un refugiu verde perfect în oraș și profitați de băncile umbrite de lângă secțiunea botanică pentru o pauză.",
+            "en": "Relax in this lush natural space providing a perfect green retreat in the city, and take advantage of the shaded benches near the botanical section for a quiet break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Obélisque du Canal du Centre und wechseln Sie schnell zu den klassischen Sammlungen des Vivant-Denon Museums. Die Mittagszeit ist für das Espace des Arts reserviert. Parken Sie nachmittags am Nicéphore Niépce Museum und spazieren Sie zum Ancien Hôpital. Ihre Route endet bequem und entspannt mit einem Abend im üppigen Georges Nouelle Park.",
+        "hu": "Kezdje a festői autózást a Canal du Centre obeliszkjénél, majd haladjon tovább a Vivant-Denon Múzeum gyűjteményei felé. A dél a kultúráé az Espace des Arts-ban. Délután parkoljon le a Nicéphore Niépce Múzeum közelében, majd sétáljon az Ancien Hôpital felé. Az útvonal kényelmesen zárul, miközben egy pihentető estét tölt a buja Georges Nouelle Parkban.",
+        "ro": "Începeți condusul la Obélisque du Canal du Centre, trecând rapid la colecțiile clasice de la Muzeul Vivant-Denon. Amiaza este rezervată pentru Espace des Arts. După-amiază, parcați lângă Muzeul Nicéphore Niépce și plimbați-vă spre Ancien Hôpital. Traseul se încheie confortabil cu o seară relaxantă în Parcul Georges Nouelle.",
+        "en": "Start your scenic drive at the Obélisque du Canal du Centre, moving quickly to the classic collections of the Vivant-Denon Museum. Midday is reserved for cultural vibes at Espace des Arts. In the afternoon, park near the Nicéphore Niépce Museum, then wander towards the Ancien Hôpital. Your route wraps up comfortably as you spend a relaxing evening in the lush Georges Nouelle Park."
+      }
+    }
+  }
+}

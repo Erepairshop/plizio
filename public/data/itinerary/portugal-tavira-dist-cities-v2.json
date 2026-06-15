@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-tavira-dist-cities-v2",
+  "anchor": {
+    "name": "Vila Real de Santo António",
+    "coords": [
+      -7.4167,
+      37.2
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Cine Cardenio",
+            "hu": "Teatro Cine Cardenio",
+            "ro": "Teatro Cine Cardenio",
+            "en": "Teatro Cine Cardenio"
+          },
+          "coords": [
+            -7.408194,
+            37.211957
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Theaters, das ein kulturelles Zentrum ist; prüfen Sie das Programm im Voraus, um eine einzigartige regionale Aufführung zu sehen.",
+            "hu": "Csodálja meg e történelmi színház gyönyörű építészetét, amely máig kulturális központ; nézze meg előre a helyi műsort, hogy elcsípjen egy egyedi regionális előadást.",
+            "ro": "Admirați arhitectura acestui teatru istoric care rămâne un hub cultural; verificați din timp programul pentru a prinde o reprezentație regională absolut unică.",
+            "en": "Admire the beautiful architecture of this historic theater that remains a cultural hub; check the local evening schedule in advance to catch a unique regional performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtarchiv",
+            "hu": "Városi Levéltár",
+            "ro": "Arhiva Municipală",
+            "en": "Arquivo Municipal"
+          },
+          "coords": [
+            -7.414021,
+            37.193034
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Dokumente über den Wiederaufbau der Stadt im 18. Jahrhundert; kommen Sie direkt nach der Öffnung, um die ruhigen Lesesäle ungestört zu erkunden.",
+            "hu": "Fedezze fel a város 18. századi újjáépítését bemutató lenyűgöző dokumentumokat; érkezzen rögtön nyitás után, hogy a csendes olvasótermeket tömeg nélkül, nyugodtan böngészhesse.",
+            "ro": "Descoperiți documente fascinante care detaliază reconstrucția orașului din secolul al XVIII-lea; vizitați imediat după deschidere pentru a explora sălile de lectură în liniște.",
+            "en": "Discover fascinating documents detailing the 18th-century reconstruction of the city; visit right after opening hours to explore the quiet reading rooms without any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Vila Real de Santo António",
+            "hu": "Vila Real de Santo António világítótornya",
+            "ro": "Farul din Vila Real de Santo António",
+            "en": "Farol de Vila Real de Santo António"
+          },
+          "coords": [
+            -7.416313,
+            37.186768
+          ],
+          "category": "landmark",
+          "arrive_at": "12:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Struktur dieses 46 Meter hohen Leuchtturms; bringen Sie ein Weitwinkelobjektiv mit, um die markante weiß-rot gestreifte Fassade perfekt zu fotografieren.",
+            "hu": "Csodálja meg ennek a 46 méter magas hengeres világítótoronynak a lenyűgöző szerkezetét; hozzon magával nagylátószögű lencsét, hogy a legjobb fotót készítse a piros-fehér homlokzatról.",
+            "ro": "Admirați structura impresionantă a acestui far cilindric înalt de 46 de metri; folosiți un obiectiv cu unghi larg pentru a obține cea mai bună fotografie a fațadei sale în dungi.",
+            "en": "Take in the impressive structure of this towering 46-meter cylindrical lighthouse; grab a wide-angle lens for the best photo of the striking white and red-striped facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Santo António",
+            "hu": "Santo António strand",
+            "ro": "Plaja Santo António",
+            "en": "Praia de Santo António"
+          },
+          "coords": [
+            -7.416825,
+            37.172232
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weiten goldenen Sand dieses schönen Strandes; mieten Sie frühzeitig eine Sonnenliege, da die besten Plätze am Wasser im Sommer sehr schnell belegt sind.",
+            "hu": "Pihenjen ennek a gyönyörű, nyugodt strandnak a tágas, aranyhomokos partján; béreljen napágyat korán, mivel a vízhez közeli legjobb helyek nyáron nagyon gyorsan betelnek.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse ale acestei plaje frumoase; închiriați un șezlong devreme, deoarece cele mai bune locuri de lângă apă se ocupă rapid în timpul verii.",
+            "en": "Relax on the expansive golden sands of this beautiful, tranquil beach; rent a small sunbed early in the day as the best spots near the water filling up quickly during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Caramelo Strand",
+            "hu": "Caramelo strand",
+            "ro": "Plaja Caramelo",
+            "en": "Caramelo Beach"
+          },
+          "coords": [
+            -7.42241,
+            37.173589
+          ],
+          "category": "family",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie sicheres Schwimmen an diesem familienfreundlichen Küstenabschnitt; bringen Sie Ihren eigenen Schirm und Wasser mit, da die örtlichen Schattenplätze sehr begrenzt sind.",
+            "hu": "Élvezze a biztonságos úszást és a puha dűnéket ezen a családbarát partszakaszon; hozzon saját napernyőt és sok vizet, mivel az árnyékos helyek meglehetősen korlátozottak.",
+            "ro": "Bucurați-vă de înot în siguranță la această porțiune de coastă potrivită pentru familii; aduceți-vă propria umbrelă și apă, deoarece facilitățile locale de umbră sunt destul de limitate.",
+            "en": "Enjoy safe swimming and soft dunes at this family-friendly stretch of coastline; bring your own umbrella and plenty of water as local shade facilities are somewhat limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Erkunden Sie den kulturellen Charme des historischen Theaters.\n\nMittag: Entdecken Sie die städtebauliche Planung des 18. Jahrhunderts im Stadtarchiv.\n\nNachmittag: Genießen Sie einen Spaziergang nach Süden und fotografieren Sie den ikonischen Leuchtturm.\n\nAbend: Entspannen Sie am goldenen Sandstrand und beobachten Sie einen ruhigen Sonnenuntergang über dem Atlantik.",
+        "hu": "Reggel: Fedezze fel a történelmi színház kulturális báját.\n\nDélben: Ismerje meg a 18. századi várostervezést a városi levéltár lenyűgöző dokumentumaiból.\n\nDélután: Élvezze a kellemes déli sétát, megállva lefotózni az ikonikus tengerparti világítótornyot.\n\nEste: Pihenjen az aranyhomokos strandon, és figyelje a békés naplementét a hatalmas Atlanti-óceán felett.",
+        "ro": "Dimineața: Explorați farmecul cultural al teatrului istoric.\n\nAmiază: Descoperiți planificarea urbană din secolul al XVIII-lea la arhivele municipale.\n\nDupă-amiază: Bucurați-vă de o plimbare relaxantă spre sud, fotografiind farul iconic de coastă.\n\nSeara: Relaxați-vă pe nisipurile aurii ale plajelor, urmărind un apus liniștit peste oceanul Atlantic.",
+        "en": "Morning: Explore the cultural charm of the historic local theater.\n\nMidday: Discover the 18th-century urban grid planning preserved inside the municipal archives.\n\nAfternoon: Enjoy a leisurely southbound stroll, stopping to photograph the iconic coastal lighthouse.\n\nEvening: Relax on the golden sands of the local beaches, watching a peaceful sunset over the vast Atlantic ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung São Sebastião",
+            "hu": "Szent Sebestyén erőd",
+            "ro": "Fortăreața Sfântul Sebastian",
+            "en": "Saint Sebastian Fortress"
+          },
+          "coords": [
+            -7.443117,
+            37.216147
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen mittelalterlichen Mauern mit Blick über Spanien und Portugal; tragen Sie feste Schuhe, um sicher über die unebenen Steinwege der Festung zu gehen.",
+            "hu": "Fedezze fel a jól karbantartott középkori falakat, amelyek stratégiai kilátást nyújtanak a határon; viseljen kényelmes cipőt, hogy biztonságosan navigáljon az egyenetlen kőutakon.",
+            "ro": "Explorați zidurile medievale bine conservate care oferă priveliști strategice asupra Spaniei și Portugaliei; purtați încălțăminte confortabilă pentru a naviga pe potecile de piatră.",
+            "en": "Explore the well-preserved medieval walls offering strategic views over Spain and Portugal; wear sturdy walking shoes to safely navigate the uneven stone paths along the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater von Santo António",
+            "hu": "Santo António amfiteátruma",
+            "ro": "Amfiteatrul din Santo António",
+            "en": "Anfiteatro do Revelim de Santo António"
+          },
+          "coords": [
+            -7.440024,
+            37.216414
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die unglaubliche Akustik an diesem bezaubernden Freiluftort; kommen Sie am späten Nachmittag, um das goldene Licht einzufangen, das magisch über die Bühne fällt.",
+            "hu": "Tapasztalja meg a hihetetlen akusztikát és a festői kilátást ezen a hangulatos szabadtéri helyszínen; látogasson el késő délután, hogy elcsípje a színpadra vetülő aranyórás fényeket.",
+            "ro": "Experimentați acustica incredibilă și priveliștile pitorești la acest loc fermecător în aer liber; vizitați după-amiaza târziu pentru a surprinde lumina de aur deasupra scenei.",
+            "en": "Experience incredible acoustics and scenic hill views at this charming open-air venue; visit during the late afternoon to capture the golden hour light cascading over the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet der Salzwiesen",
+            "hu": "Sós Mocsarak Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Mlaștinile",
+            "en": "Castro Marim and Vila Real de Santo António Marsh Natural Reserve"
+          },
+          "coords": [
+            -7.444782,
+            37.208927
+          ],
+          "category": "natural",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch Salinen, um leuchtende Flamingos und eine vielfältige Vogelwelt zu entdecken; packen Sie ein Fernglas ein, um die Tiere aus sicherer Entfernung zu beobachten.",
+            "hu": "Sétáljon át a nyugodt sólepárlókon, ahol flamingókat és változatos madárvilágot láthat; vigyen magával egy megbízható távcsövet, hogy biztonságos távolságból figyelhesse a vadon élő állatokat.",
+            "ro": "Plimbați-vă prin saline pentru a observa flamingo și o faună diversă; împachetați o pereche fiabilă de binocluri pentru a observa de la distanță animalele sălbatice sensibile.",
+            "en": "Wander through serene salt pans to spot vibrant flamingos and diverse wetland birdlife; pack a reliable pair of binoculars to observe the sensitive wildlife from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtarchiv",
+            "hu": "Városi Levéltár",
+            "ro": "Arhiva Municipală",
+            "en": "Arquivo Municipal"
+          },
+          "coords": [
+            -7.414021,
+            37.193034
+          ],
+          "category": "museum",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Dokumente über den Wiederaufbau der Stadt im 18. Jahrhundert; kommen Sie direkt nach der Öffnung, um die ruhigen Lesesäle ungestört zu erkunden.",
+            "hu": "Fedezze fel a város 18. századi újjáépítését bemutató lenyűgöző dokumentumokat; érkezzen rögtön nyitás után, hogy a csendes olvasótermeket tömeg nélkül, nyugodtan böngészhesse.",
+            "ro": "Descoperiți documente fascinante care detaliază reconstrucția orașului din secolul al XVIII-lea; vizitați imediat după deschidere pentru a explora sălile de lectură în liniște.",
+            "en": "Discover fascinating documents detailing the 18th-century reconstruction of the city; visit right after opening hours to explore the quiet reading rooms without any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Vila Real de Santo António",
+            "hu": "Vila Real de Santo António világítótornya",
+            "ro": "Farul din Vila Real de Santo António",
+            "en": "Farol de Vila Real de Santo António"
+          },
+          "coords": [
+            -7.416313,
+            37.186768
+          ],
+          "category": "landmark",
+          "arrive_at": "14:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Struktur dieses 46 Meter hohen Leuchtturms; bringen Sie ein Weitwinkelobjektiv mit, um die markante weiß-rot gestreifte Fassade perfekt zu fotografieren.",
+            "hu": "Csodálja meg ennek a 46 méter magas hengeres világítótoronynak a lenyűgöző szerkezetét; hozzon magával nagylátószögű lencsét, hogy a legjobb fotót készítse a piros-fehér homlokzatról.",
+            "ro": "Admirați structura impresionantă a acestui far cilindric înalt de 46 de metri; folosiți un obiectiv cu unghi larg pentru a obține cea mai bună fotografie a fațadei sale în dungi.",
+            "en": "Take in the impressive structure of this towering 46-meter cylindrical lighthouse; grab a wide-angle lens for the best photo of the striking white and red-striped facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Santo António",
+            "hu": "Santo António strand",
+            "ro": "Plaja Santo António",
+            "en": "Praia de Santo António"
+          },
+          "coords": [
+            -7.416825,
+            37.172232
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weiten goldenen Sand dieses schönen Strandes; mieten Sie frühzeitig eine Sonnenliege, da die besten Plätze am Wasser im Sommer sehr schnell belegt sind.",
+            "hu": "Pihenjen ennek a gyönyörű, nyugodt strandnak a tágas, aranyhomokos partján; béreljen napágyat korán, mivel a vízhez közeli legjobb helyek nyáron nagyon gyorsan betelnek.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse ale acestei plaje frumoase; închiriați un șezlong devreme, deoarece cele mai bune locuri de lângă apă se ocupă rapid în timpul verii.",
+            "en": "Relax on the expansive golden sands of this beautiful, tranquil beach; rent a small sunbed early in the day as the best spots near the water filling up quickly during summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zur Festung Castro Marim für einen Panoramablick auf die Grenze.\n\nMittag: Fahren Sie zum Amphitheater und beobachten Sie Wildtiere in den Salzwiesen.\n\nNachmittag: Fahren Sie ins historische Zentrum zum Stadtarchiv und zum Leuchtturm.\n\nAbend: Spüren Sie die Meeresbrise und entspannen Sie sich völlig an den weiten, ruhigen Stränden.",
+        "hu": "Reggel: Tekerjen fel a Castro Marim erődbe, ahonnan panorámás kilátás nyílik a határra.\n\nDélben: Biciklizzen az amfiteátrumhoz és figyelje meg a vadvilágot a sós mocsarakban.\n\nDélután: Látogasson el a történelmi központba, a városi levéltárhoz és a világítótoronyhoz.\n\nEste: Érezze az óceáni szellőt, miközben teljesen kikapcsolódik a tágas tengerparton.",
+        "ro": "Dimineața: Pedalați până la fortăreața Castro Marim pentru vederi panoramice.\n\nAmiază: Mergeți spre amfiteatru și observați fauna sălbatică în mlaștinile sărate.\n\nDupă-amiază: Ajungeți în centrul istoric pentru a vizita arhivele și faimosul far.\n\nSeara: Simțiți briza oceanului în timp ce vă relaxați complet pe plaja vastă și liniștită.",
+        "en": "Morning: Pedal up to the medieval Castro Marim fortress for panoramic border views.\n\nMidday: Cycle to the scenic amphitheater and spot wildlife in the natural salt marshes.\n\nAfternoon: Ride into the historical center to visit the municipal archives and lighthouse.\n\nEvening: Feel the ocean breeze as you unwind completely on the vast, tranquil beach shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 11.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ökomuseum Molino Mareal El Pintado",
+            "hu": "Molino Mareal El Pintado Ökomúzeum",
+            "ro": "Ecomuzeul Molino Mareal El Pintado",
+            "en": "Ecomuseo Molino Mareal El Pintado"
+          },
+          "coords": [
+            -7.390365,
+            37.211533
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem einzigartigen Museum mehr über traditionelles, von Gezeiten angetriebenes Mahlen; besuchen Sie es bei Flut, um zu verstehen, wie die Wasserkanäle funktionieren.",
+            "hu": "Ismerje meg a hagyományos tengeri árapály hajtotta gabonaőrlést ebben az egyedi múzeumban; időzítse látogatását dagályra, hogy teljes mértékben megértse a vízcsatornák működését.",
+            "ro": "Aflați despre măcinarea tradițională alimentată de mareele oceanului la acest muzeu unic; combinați-vă vizita cu un program de maree înaltă pentru a vedea cum funcționează.",
+            "en": "Learn about traditional flour milling powered by the ocean tides at this unique museum; combine your visit with a high-tide schedule to fully grasp how the water channels operate."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast des Markgrafen von Ayamonte",
+            "hu": "Ayamonte Márkijának Palotája",
+            "ro": "Palatul Marchizului de Ayamonte",
+            "en": "Palacio del Marqués de Ayamonte"
+          },
+          "coords": [
+            -7.407245,
+            37.217742
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Pracht und die historischen Artefakte in diesem majestätischen Palast; gehen Sie langsam durch die Innenhöfe, um die komplizierten Fliesendetails zu würdigen.",
+            "hu": "Csodálja meg a fenséges regionális palotában őrzött történelmi műtárgyakat és az épület nagyságát; sétáljon végig lassan a belső udvarokon, hogy értékelje a finom csempézést.",
+            "ro": "Minunați-vă de artefactele istorice găzduite în acest palat maiestuos; plimbați-vă încet prin curțile interioare pentru a aprecia pe deplin detaliile complicate ale faianței.",
+            "en": "Marvel at the grandeur and historic artifacts housed within this majestic regional palace; walk through the inner courtyards slowly to fully appreciate the intricate tilework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung São Sebastião",
+            "hu": "Szent Sebestyén erőd",
+            "ro": "Fortăreața Sfântul Sebastian",
+            "en": "Saint Sebastian Fortress"
+          },
+          "coords": [
+            -7.443117,
+            37.216147
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen mittelalterlichen Mauern mit Blick über Spanien und Portugal; tragen Sie feste Schuhe, um sicher über die unebenen Steinwege der Festung zu gehen.",
+            "hu": "Fedezze fel a jól karbantartott középkori falakat, amelyek stratégiai kilátást nyújtanak a határon; viseljen kényelmes cipőt, hogy biztonságosan navigáljon az egyenetlen kőutakon.",
+            "ro": "Explorați zidurile medievale bine conservate care oferă priveliști strategice asupra Spaniei și Portugaliei; purtați încălțăminte confortabilă pentru a naviga pe potecile de piatră.",
+            "en": "Explore the well-preserved medieval walls offering strategic views over Spain and Portugal; wear sturdy walking shoes to safely navigate the uneven stone paths along the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet der Salzwiesen",
+            "hu": "Sós Mocsarak Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Mlaștinile",
+            "en": "Castro Marim and Vila Real de Santo António Marsh Natural Reserve"
+          },
+          "coords": [
+            -7.444782,
+            37.208927
+          ],
+          "category": "natural",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch Salinen, um leuchtende Flamingos und eine vielfältige Vogelwelt zu entdecken; packen Sie ein Fernglas ein, um die Tiere aus sicherer Entfernung zu beobachten.",
+            "hu": "Sétáljon át a nyugodt sólepárlókon, ahol flamingókat és változatos madárvilágot láthat; vigyen magával egy megbízható távcsövet, hogy biztonságos távolságból figyelhesse a vadon élő állatokat.",
+            "ro": "Plimbați-vă prin saline pentru a observa flamingo și o faună diversă; împachetați o pereche fiabilă de binocluri pentru a observa de la distanță animalele sălbatice sensibile.",
+            "en": "Wander through serene salt pans to spot vibrant flamingos and diverse wetland birdlife; pack a reliable pair of binoculars to observe the sensitive wildlife from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtarchiv",
+            "hu": "Városi Levéltár",
+            "ro": "Arhiva Municipală",
+            "en": "Arquivo Municipal"
+          },
+          "coords": [
+            -7.414021,
+            37.193034
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Dokumente über den Wiederaufbau der Stadt im 18. Jahrhundert; kommen Sie direkt nach der Öffnung, um die ruhigen Lesesäle ungestört zu erkunden.",
+            "hu": "Fedezze fel a város 18. századi újjáépítését bemutató lenyűgöző dokumentumokat; érkezzen rögtön nyitás után, hogy a csendes olvasótermeket tömeg nélkül, nyugodtan böngészhesse.",
+            "ro": "Descoperiți documente fascinante care detaliază reconstrucția orașului din secolul al XVIII-lea; vizitați imediat după deschidere pentru a explora sălile de lectură în liniște.",
+            "en": "Discover fascinating documents detailing the 18th-century reconstruction of the city; visit right after opening hours to explore the quiet reading rooms without any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Vila Real de Santo António",
+            "hu": "Vila Real de Santo António világítótornya",
+            "ro": "Farul din Vila Real de Santo António",
+            "en": "Farol de Vila Real de Santo António"
+          },
+          "coords": [
+            -7.416313,
+            37.186768
+          ],
+          "category": "landmark",
+          "arrive_at": "16:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Struktur dieses 46 Meter hohen Leuchtturms; bringen Sie ein Weitwinkelobjektiv mit, um die markante weiß-rot gestreifte Fassade perfekt zu fotografieren.",
+            "hu": "Csodálja meg ennek a 46 méter magas hengeres világítótoronynak a lenyűgöző szerkezetét; hozzon magával nagylátószögű lencsét, hogy a legjobb fotót készítse a piros-fehér homlokzatról.",
+            "ro": "Admirați structura impresionantă a acestui far cilindric înalt de 46 de metri; folosiți un obiectiv cu unghi larg pentru a obține cea mai bună fotografie a fațadei sale în dungi.",
+            "en": "Take in the impressive structure of this towering 46-meter cylindrical lighthouse; grab a wide-angle lens for the best photo of the striking white and red-striped facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand San Bruno",
+            "hu": "San Bruno strand",
+            "ro": "Plaja San Bruno",
+            "en": "Playa de San Bruno"
+          },
+          "coords": [
+            -7.392818,
+            37.17634
+          ],
+          "category": "recreational",
+          "arrive_at": "17:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem unberührten Strand, der einen friedlichen Rückzugsort bietet; packen Sie eine leichte Jacke ein, da die Atlantikbrise die Luft nach Sonnenuntergang schnell abkühlt.",
+            "hu": "Fejezze be a napot ezen az érintetlen strandon, amely békés menedéket kínál távol a tömegtől; hozzon könnyű kabátot, mivel az atlanti szellő naplemente után gyorsan lehűti a levegőt.",
+            "ro": "Încheiați-vă ziua pe această plajă virgină care oferă o retragere liniștită departe de mulțimi; împachetați o jachetă ușoară, deoarece briza atlantică poate răcori aerul după apus.",
+            "en": "End your day at this unspoiled beach offering a peaceful retreat away from the crowds; pack a light jacket as the Atlantic breeze can quickly cool the air down after sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zum Ökomuseum, um die Geschichte der Gezeitenmühlen zu erleben.\n\nMittag: Überqueren Sie Grenzen zum Palast in Ayamonte und zur Festung Castro Marim.\n\nNachmittag: Durchqueren Sie die Salzwiesen hinab zum Stadtarchiv und dem Leuchtturm.\n\nAbend: Beenden Sie Ihren Roadtrip entspannt am Strand San Bruno nahe der Flussmündung.",
+        "hu": "Reggel: Autózzon el az ökomúzeumhoz, hogy megismerje az árapály-malmok történetét.\n\nDélben: Lépje át a határt az ayamontei palotához és a Castro Marim-i erődhöz.\n\nDélután: Szeli át a természetes mocsarakat a városi levéltár és a tengerparti világítótorony felé.\n\nEste: Zárja az utazást pihenéssel a San Bruno strandon, közel a folyótorkolathoz.",
+        "ro": "Dimineața: Conduceți la ecomuzeu pentru a descoperi istoria unică a morilor de maree.\n\nAmiază: Treceți granițele către palatul din Ayamonte și fortăreața Castro Marim.\n\nDupă-amiază: Traversați mlaștinile spre arhivele orașului și farul impresionant de coastă.\n\nSeara: Încheiați-vă călătoria relaxându-vă pe plaja San Bruno de lângă estuar.",
+        "en": "Morning: Drive out to experience the unique tidal mill history at the local ecomuseum.\n\nMidday: Cross borders to admire the grand Ayamonte palace and Castro Marim fortress.\n\nAfternoon: Traverse the natural marshlands down to the city archives and coastal lighthouse.\n\nEvening: End your scenic road trip relaxing at San Bruno beach near the river mouth."
+      }
+    }
+  }
+}

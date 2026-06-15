@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-valle-gran-rey-cities-v2",
+  "anchor": {
+    "name": "Valle Gran Rey",
+    "coords": [
+      -17.32098,
+      28.11585
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de la curva del Queso",
+            "hu": "Mirador de la curva del Queso",
+            "ro": "Mirador de la curva del Queso",
+            "en": "Mirador de la curva del Queso"
+          },
+          "coords": [
+            -17.321188,
+            28.114951
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen ersten Blick über das tiefe Tal, der die terrassierte Landschaft einfängt, aber seien Sie vorsichtig an der Kante.",
+            "hu": "Élvezze az első fantasztikus kilátást a mély völgyre, amely megmutatja a teraszos tájat, de a kilátó szélénél ügyeljen a biztonságos távolságra.",
+            "ro": "Bucurați-vă de prima vedere fantastică asupra văii, care surprinde perfect peisajul terasat, dar fiți foarte atenți la marginea platformei.",
+            "en": "Enjoy the fantastic first view over the deep valley that captures the terraced landscape, but make sure to mind your step near the viewing edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador César Manrique",
+            "hu": "Mirador César Manrique",
+            "ro": "Mirador César Manrique",
+            "en": "Mirador César Manrique"
+          },
+          "coords": [
+            -17.315689,
+            28.119233
+          ],
+          "category": "natural",
+          "arrive_at": "09:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Verbindung von Kunst und Natur an diesem Ort und nutzen Sie die Morgenstunden für die besten Lichtverhältnisse für Fotos.",
+            "hu": "Csodálja meg a művészet és a természet kapcsolatát ezen a ponton, és használja ki a reggeli órák tökéletes fényviszonyait a fotózáshoz.",
+            "ro": "Admirați armonia dintre artă și natură la acest punct de belvedere și profitați de orele dimineții pentru a prinde cele mai bune condiții de lumină.",
+            "en": "Admire the harmonious blend of art and nature at this iconic viewpoint, and take advantage of the morning hours to get the absolute best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Valle Gran Rey View",
+            "hu": "Valle Gran Rey View",
+            "ro": "Valle Gran Rey View",
+            "en": "Valle Gran Rey View"
+          },
+          "coords": [
+            -17.311807,
+            28.105395
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Dieser weniger bekannte Aussichtspunkt bietet einen authentischen Panoramablick, packen Sie also ein Fernglas ein, um Bergdörfer zu erkennen.",
+            "hu": "Ez a kevésbé ismert kilátó autentikus panorámát kínál a festői völgyre, ezért mindenképpen hozzon magával távcsövet a falvak megfigyeléséhez.",
+            "ro": "Acest punct de belvedere mai puțin cunoscut oferă o panoramă autentică asupra văii, așa că aduceți un binoclu pentru a observa satele de munte.",
+            "en": "This lesser-known viewpoint provides an authentic panoramic view over the picturesque valley, so be sure to pack a pair of handy binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Ermita de Gerián",
+            "hu": "Plaza de la Ermita de Gerián",
+            "ro": "Plaza de la Ermita de Gerián",
+            "en": "Plaza de la Ermita de Gerián"
+          },
+          "coords": [
+            -17.310385,
+            28.101419
+          ],
+          "category": "landmark",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem charmanten historischen Platz und machen Sie eine wohlverdiente Pause im Schatten der alten kanarischen Palmen.",
+            "hu": "Pihenjen meg ezen a bájos történelmi téren a kis kápolna mellett, és tartson egy hűsítő szünetet az ősi kanári pálmafák kellemes árnyékában.",
+            "ro": "Relaxați-vă în această piațetă istorică fermecătoare de lângă mica capelă și luați o pauză binemeritată la umbra bătrânilor palmieri canarieni.",
+            "en": "Relax at this charming historical square next to the small chapel, and take a well-deserved break in the pleasant shade of ancient Canarian palms."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Mérica",
+            "hu": "Casa de la Mérica",
+            "ro": "Casa de la Mérica",
+            "en": "Casa de la Mérica"
+          },
+          "coords": [
+            -17.33676,
+            28.107617
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur dieses historischen Gebäudes und achten Sie besonders auf die kunstvoll geschnitzten Holzbalkone.",
+            "hu": "Fedezze fel ennek a történelmi épületnek a hagyományos kanári építészetét, és figyeljen a mesterien faragott, gyönyörű faerkélyekre a homlokzaton.",
+            "ro": "Descoperiți arhitectura tradițională canariană a acestei clădiri istorice și acordați o atenție deosebită balcoanelor din lemn frumos sculptate.",
+            "en": "Discover the traditional Canarian architecture of this historical building, and pay special attention to the beautifully carved wooden balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum «La Alameda»",
+            "hu": "Múzeum «La Alameda»",
+            "ro": "Muzeul «La Alameda»",
+            "en": "Museum «La Alameda»"
+          },
+          "coords": [
+            -17.333709,
+            28.097494
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Kulturgeschichte der Insel ein und betrachten Sie lokale Artefakte, für die Sie sich mindestens eine Stunde Zeit nehmen sollten.",
+            "hu": "Merüljön el a sziget gazdag kultúrtörténetében a lenyűgöző műtárgyak megtekintésével, amelyre érdemes legalább egy teljes órát rászánni a napból.",
+            "ro": "Pătrundeți în istoria culturală bogată a insulei admirând artefactele locale fascinante, pentru care ar trebui să vă rezervați cel puțin o oră.",
+            "en": "Immerse yourself in the island's rich cultural history by admiring local artifacts, and be sure to set aside at least a full hour to explore properly."
+          }
+        },
+        {
+          "name": {
+            "de": "Riscos de La Mérica",
+            "hu": "Riscos de La Mérica",
+            "ro": "Riscos de La Mérica",
+            "en": "Riscos de La Mérica"
+          },
+          "coords": [
+            -17.340858,
+            28.10325
+          ],
+          "category": "natural",
+          "arrive_at": "15:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem atemberaubenden Blick auf diese Klippen, aber tragen Sie festes Schuhwerk, da die Wege recht uneben sind.",
+            "hu": "Fejezze be a sétát a lenyűgöző sziklákra nyíló kilátással, de mindenképpen viseljen erős cipőt, mert az itteni ösvények meglehetősen egyenetlenek.",
+            "ro": "Încheiați plimbarea cu o priveliște uluitoare asupra acestor stânci masive, dar asigurați-vă că purtați încălțăminte robustă, deoarece potecile sunt denivelate.",
+            "en": "Finish your walk with a breathtaking view of these impressive cliffs, but make absolutely sure to wear sturdy walking shoes for the uneven coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an den Aussichtspunkten über dem Valle Gran Rey und atmen Sie die frische Bergluft.\n\nEntdecken Sie am Mittag alte Kapellen und charmante Plätze mit viel Geschichte.\n\nAm Nachmittag führt der Weg zur Inselkultur in Museen und traditionellen Häusern.\n\nDer Tag endet an massiven Klippen im warmen, goldenen Licht der untergehenden Abendsonne.",
+        "hu": "Kezdje a túrát a Valle Gran Rey feletti kilátóknál, és szívja magába a friss hegyi levegőt.\n\nDélben fedezzen fel ősi kápolnákat és bájos, történelemmel teli tereket.\n\nDélután az út a sziget kultúrájához, izgalmas múzeumokhoz és hagyományos házakhoz vezet.\n\nA nap a hatalmas szikláknál ér véget, a lemenő nap meleg, aranyló fényében fürdőzve.",
+        "ro": "Începeți la punctele de belvedere deasupra Valle Gran Rey și respirați aerul de munte.\n\nLa prânz, descoperiți capele vechi și piețe pline de farmec și istorie bogată.\n\nDupă-amiaza, drumul duce spre cultura insulei, în muzee și case tradiționale vechi.\n\nZiua se încheie la stâncile masive, luminate cald și auriu de soarele minunat de la apus.",
+        "en": "Start at the beautiful viewpoints above Valle Gran Rey and breathe the fresh mountain air.\n\nAt midday, deeply discover ancient chapels and charming squares full of local history.\n\nIn the afternoon, the path leads to island culture in local museums and traditional houses.\n\nThe day ends at the massive coastal cliffs bathed in the warm, golden light of the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Ermita del Santo",
+            "hu": "Mirador Ermita del Santo",
+            "ro": "Mirador Ermita del Santo",
+            "en": "Mirador Ermita del Santo"
+          },
+          "coords": [
+            -17.323479,
+            28.132036
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe an diesem abgelegenen Aussichtspunkt, bevor Sie in die Pedale treten, und prüfen Sie Ihre Bremsen für die anstehenden Abfahrten.",
+            "hu": "Élvezze a fenséges nyugalmat ezen a kilátóponton az indulás előtt, és mindenképpen ellenőrizze a kerékpár fékjeit a közelgő, meredek lejtők miatt.",
+            "ro": "Bucurați-vă de liniștea sublimă de la acest punct de belvedere izolat și verificați neapărat frânele bicicletei pentru coborârile abrupte care urmează.",
+            "en": "Enjoy the sublime tranquility at this secluded viewpoint before hitting the pedals, and double-check your bicycle brakes for the steep descents."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Retama",
+            "hu": "Mirador de la Retama",
+            "ro": "Mirador de la Retama",
+            "en": "Mirador de la Retama"
+          },
+          "coords": [
+            -17.32176,
+            28.126164
+          ],
+          "category": "natural",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Punkt an, um die terrassierten Hänge zu bewundern, und bleiben Sie hydriert, da der Radweg hier leider sehr wenig Schatten bietet.",
+            "hu": "Álljon meg ezen a látványos ponton megcsodálni a teraszos hegyoldalakat, és ügyeljen a bőséges folyadékfogyasztásra a kevés árnyékot adó szakaszon.",
+            "ro": "Opriți-vă în acest loc spectaculos pentru a admira pantele terasate și asigurați-vă că sunteți bine hidratat, deoarece traseul nu oferă prea multă umbră.",
+            "en": "Stop at this spectacular spot to admire the terraced hillsides, and make sure to stay well-hydrated as the cycling path offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la curva del Queso",
+            "hu": "Mirador de la curva del Queso",
+            "ro": "Mirador de la curva del Queso",
+            "en": "Mirador de la curva del Queso"
+          },
+          "coords": [
+            -17.321188,
+            28.114951
+          ],
+          "category": "natural",
+          "arrive_at": "10:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den majestätischen Blick über das weite Tal und nutzen Sie den kleinen Parkplatz hier als sicheren Ort, um Ihr Fahrrad kurz abzustellen.",
+            "hu": "Élvezze a völgyre nyíló fenséges kilátást, amely bemutatja a tájat, és használja az itteni kis parkolót biztonságos helyként a kerékpár rögzítéséhez.",
+            "ro": "Bucurați-vă de vederea maiestuoasă asupra văii și folosiți parcarea de aici ca un loc sigur pentru a lăsa bicicleta încuiată pentru o scurtă perioadă.",
+            "en": "Enjoy the majestic view over the valley that captures the lush landscape, and use the parking area here as a safe spot to briefly lock up your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador César Manrique",
+            "hu": "Mirador César Manrique",
+            "ro": "Mirador César Manrique",
+            "en": "Mirador César Manrique"
+          },
+          "coords": [
+            -17.315689,
+            28.119233
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese architektonische Meisterleistung und nehmen Sie Ihr robustes Fahrradschloss mit, da dieser Ort oft von anderen Reisenden besucht wird.",
+            "hu": "Csodálja meg az építészeti remekművet, és feltétlenül használjon jó minőségű kerékpárzárat, mivel ezt a helyet nagyon gyakran sok utazó látogatja.",
+            "ro": "Admirați capodopera arhitecturală de la acest punct de belvedere și folosiți un antifurt de calitate, deoarece locul este des aglomerat de călători.",
+            "en": "Admire the architectural masterpiece at this iconic viewpoint, and bring a sturdy bicycle lock since this location is frequented by many travelers."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tranquilla",
+            "hu": "La Tranquilla",
+            "ro": "La Tranquilla",
+            "en": "La Tranquilla"
+          },
+          "coords": [
+            -17.297239,
+            28.123134
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in dieser natürlichen Umgebung nach der langen Fahrt, aber achten Sie darauf, Wertsachen in Ihren Fahrradtaschen nie allein zu lassen.",
+            "hu": "Frissüljön fel ebben a gyönyörű környezetben a kerékpározás után, de nagyon ügyeljen arra, hogy értékeit soha ne hagyja őrizetlenül a táskákban.",
+            "ro": "Răcoriți-vă în acest mediu natural superb după plimbarea cu bicicleta, dar aveți mare grijă să nu lăsați obiecte de valoare nesupravegheate în genți.",
+            "en": "Refresh yourself in this beautiful natural setting after your scenic ride, but pay close attention to never leaving valuables unattended in saddlebags."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum «La Alameda»",
+            "hu": "Múzeum «La Alameda»",
+            "ro": "Muzeul «La Alameda»",
+            "en": "Museum «La Alameda»"
+          },
+          "coords": [
+            -17.333709,
+            28.097494
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie lokale Artefakte, während Ihr Fahrrad sicher und gut verschlossen im ausgewiesenen Bereich direkt vor dem Museumseingang steht.",
+            "hu": "Merüljön el a sziget kultúrtörténetében, miközben kerékpárja biztonságosan, lezárva várja a múzeum bejárata előtti kijelölt kerékpártároló területen.",
+            "ro": "Pătrundeți în istoria culturală admirând artefactele, în timp ce bicicleta dumneavoastră se odihnește în siguranță în zona amenajată din fața muzeului.",
+            "en": "Immerse yourself in the island's rich cultural history while ensuring your bicycle is securely locked in the designated area near the museum entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Ermita del Santo. Die Abfahrten bieten Blicke auf terrassierte Hänge.\n\nWeitere Aussichtspunkte laden mittags zu kurzen, fantastischen Fotostopps ein.\n\nDer Nachmittag bringt herrliche Entspannung und ein Picknick in einer Oase der Natur.\n\nEin Museumsbesuch rundet die Tour ab, bevor die abendliche Ruhe des Tals langsam einkehrt.",
+        "hu": "Kezdjen az Ermita del Santónál. A lejtők fantasztikus kilátást nyújtanak a teraszos hegyekre.\n\nDélben további kilátók csábítanak rövid, de annál látványosabb fotószünetekre.\n\nA délután kellemes kikapcsolódást és egy finom pikniket hoz egy zöldellő oázisban.\n\nEgy múzeumlátogatás zárja a túrát, mielőtt lassan leszállna a völgy nyugodt, esti békéje.",
+        "ro": "Începeți la Ermita del Santo. Coborârile oferă vederi ample spre pantele terasate.\n\nLa prânz, alte puncte de belvedere invită la scurte și fantastice opriri pentru poze.\n\nDupă-amiaza aduce relaxare excelentă și un picnic delicios într-o oază de natură.\n\nO vizită la muzeu încheie traseul, înainte ca liniștea serii să se aștearnă peste vale.",
+        "en": "Start at the remote Ermita del Santo. The steep descents offer views of terraced slopes.\n\nAt midday, several more beautiful viewpoints invite you for fantastic short photo stops.\n\nThe afternoon brings great relaxation and a lovely picnic in a lush natural oasis.\n\nA museum visit perfectly rounds off the tour before the valley's evening calm slowly settles in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 12.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Heredia",
+            "hu": "Playa de Heredia",
+            "ro": "Playa de Heredia",
+            "en": "Playa de Heredia"
+          },
+          "coords": [
+            -17.342636,
+            28.126531
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Roadtrip an diesem ruhigen Strand, an dem sich früh morgens oft problemlos die besten und vor allem kostenlosen Parkplätze finden lassen.",
+            "hu": "Kezdje a körutazást ezen a csendes tengerparton, ahol a reggeli órákban még nagyon könnyen találhat ingyenes és kényelmes parkolóhelyeket az autójának.",
+            "ro": "Începeți excursia pe această plajă liniștită, unde dis de dimineață puteți găsi adesea foarte ușor cele mai bune locuri de parcare complet gratuite.",
+            "en": "Start your epic road trip at this quiet coastal stretch, where early mornings often offer the absolute best and completely free parking spaces available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Ermita del Santo",
+            "hu": "Mirador Ermita del Santo",
+            "ro": "Mirador Ermita del Santo",
+            "en": "Mirador Ermita del Santo"
+          },
+          "coords": [
+            -17.323479,
+            28.132036
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der kleinen Kapelle für die Aussicht, aber fahren Sie auf den kurvigen, schmalen Zufahrtsstraßen hoch oben äußerst rücksichtsvoll.",
+            "hu": "Parkoljon le a kis kápolna közelében a kilátásért, de a keskeny és kanyargós bekötőutakon felfelé mindenképpen nagyon óvatosan és lassan vezessen.",
+            "ro": "Parcați lângă mica capelă pentru priveliștea de sus, dar conduceți cu extrem de multă prudență și atenție pe drumurile de acces înguste și șerpuite.",
+            "en": "Park near the small chapel to fully enjoy the high-altitude view, but make absolutely sure to drive with extreme caution on the narrow access roads."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tranquilla",
+            "hu": "La Tranquilla",
+            "ro": "La Tranquilla",
+            "en": "La Tranquilla"
+          },
+          "coords": [
+            -17.297239,
+            28.123134
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Diese friedliche natürliche Oase eignet sich hervorragend für ein Picknick, bringen Sie also Proviant mit, den Sie problemlos im Kofferraum lagern können.",
+            "hu": "Ez a békés természeti oázis tökéletes egy piknikhez, ezért feltétlenül hozzon magával élelmet, amelyet könnyedén tárolhat az autó tágas csomagtartójában.",
+            "ro": "Această oază naturală pașnică este perfectă pentru un picnic, așa că aduceți provizii delicioase pe care le puteți depozita ușor în portbagajul mașinii.",
+            "en": "This peaceful natural oasis is perfectly suited for a picnic, so be sure to bring along some provisions that you can easily store in your car's trunk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador César Manrique",
+            "hu": "Mirador César Manrique",
+            "ro": "Mirador César Manrique",
+            "en": "Mirador César Manrique"
+          },
+          "coords": [
+            -17.315689,
+            28.119233
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Halten Sie am Meisterwerk von Manrique an, das atemberaubende Ausblicke bietet, und nutzen Sie den offiziellen Parkplatz, um Strafzettel zu vermeiden.",
+            "hu": "Álljon meg Manrique építészeti remekművénél a lenyűgöző kilátásért, és mindenképpen használja a hivatalos parkolót, hogy elkerülje a rendőri büntetéseket.",
+            "ro": "Opriți-vă la capodopera arhitecturală a lui Manrique pentru vederi uimitoare și folosiți exclusiv parcarea oficială amenajată pentru a evita amenzile.",
+            "en": "Stop at Manrique's architectural masterpiece for stunning valley views, and make absolutely sure to use the official parking area to avoid getting tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Ermita de Gerián",
+            "hu": "Plaza de la Ermita de Gerián",
+            "ro": "Plaza de la Ermita de Gerián",
+            "en": "Plaza de la Ermita de Gerián"
+          },
+          "coords": [
+            -17.310385,
+            28.101419
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ländliche Ruhe dieses Platzes, der ideal für einen kurzen Stopp ist, bevor die heiße Sonne das Innere Ihres Mietwagens zu sehr aufheizt.",
+            "hu": "Tapasztalja meg ennek a történelmi térnek a nyugalmát, amely ideális egy rövid megállóra, mielőtt a nap túlságosan felmelegítené a leparkolt autót.",
+            "ro": "Experimentați liniștea rurală a acestei piețe, ideală pentru o scurtă oprire înainte ca soarele fierbinte să încălzească prea tare interiorul mașinii.",
+            "en": "Experience the rural tranquility of this historic square, making it an ideal short stop before the hot sun starts to intensely heat up your rental car."
+          }
+        },
+        {
+          "name": {
+            "de": "Valle Gran Rey View",
+            "hu": "Valle Gran Rey View",
+            "ro": "Valle Gran Rey View",
+            "en": "Valle Gran Rey View"
+          },
+          "coords": [
+            -17.311807,
+            28.105395
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Aussichtspunkt bietet eine raue Perspektive auf das weite Tal, daher lohnt es sich, den Motor kurz abzustellen und das tiefe Panorama zu genießen.",
+            "hu": "Ez a kilátó egy nyersebb perspektívát kínál a széles völgyre, így érdemes itt még egyszer teljesen leállítani a motort, és nyugodtan élvezni a panorámát.",
+            "ro": "Acest punct oferă o perspectivă mai brută asupra văii, așa că merită cu siguranță să opriți complet motorul aici pentru a vă bucura de marea panoramă.",
+            "en": "This scenic viewpoint offers a completely different, rugged perspective of the wide valley, making it well worth turning off your engine to soak it in."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Mérica",
+            "hu": "Casa de la Mérica",
+            "ro": "Casa de la Mérica",
+            "en": "Casa de la Mérica"
+          },
+          "coords": [
+            -17.33676,
+            28.107617
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende Haus und erfahren Sie mehr über lokale Geschichte, während Sie sicher auf den nahegelegenen Straßenplätzen parken.",
+            "hu": "Látogasson el ehhez a lenyűgöző házhoz, hogy megismerje a történelmet, miközben autóját biztonságosan parkolhatja a közeli utcai parkolóhelyek egyikén.",
+            "ro": "Vizitați această casă istorică impresionantă pentru a afla istoria locală, în timp ce vă lăsați mașina în siguranță pe locurile de pe străzile vecine.",
+            "en": "Visit this impressive historical house to deeply explore local history, all while safely leaving your car in one of the convenient street parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Riscos de La Mérica",
+            "hu": "Riscos de La Mérica",
+            "ro": "Riscos de La Mérica",
+            "en": "Riscos de La Mérica"
+          },
+          "coords": [
+            -17.340858,
+            28.10325
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die steilen Klippen, wo das Licht der untergehenden Sonne die Landschaft golden färbt, ideal für einen finalen, kurzen Fotostopp am Wagen.",
+            "hu": "Csodálja meg a meredek sziklákat, ahol a lemenő nap fénye arany színekbe öltözteti a lenyűgöző tájat, ami tökéletes lehetőséget nyújt egy fotózáshoz.",
+            "ro": "Admirați stâncile abrupte unde lumina soarelui la apus îmbracă peisajul în culori aurii spectaculoase, creând cadrul perfect pentru o ultimă oprire.",
+            "en": "Admire the incredibly steep cliffs where the warm light of the setting sun bathes the landscape in golden colors, making it the perfect final photo stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Roadtrip startet ruhig am dunklen Strand. Dann cruisen Sie bequem bergauf.\n\nMittags genießen Sie beeindruckende Panoramen und die architektonischen Highlights.\n\nNachmittags geht es zu versteckten historischen Schätzen und dem lokalen Museum.\n\nIm warmen Spätnachmittagslicht bewundern Sie die Klippen, bis die Sonne im Meer versinkt.",
+        "hu": "Az utazás nyugodtan indul a tengerparton. Aztán kényelmesen kocsikázzon fel a hegyre.\n\nDélben élvezze a lenyűgöző panorámákat és az egyedi, varázslatos építészeti csodákat.\n\nDélután rejtett történelmi kincsekhez és a helyi kulturális múzeumhoz vezet az út.\n\nA meleg fényben megcsodálhatja a sziklákat, mielőtt a nap végleg a végtelen óceánba bukik.",
+        "ro": "Călătoria începe liniștit pe plajă. Apoi urcați confortabil cu mașina pe munte.\n\nLa prânz vă bucurați de panorame uluitoare și de reperele arhitecturale excepționale.\n\nDupă-amiaza vizitați comori istorice ascunse și interesantul muzeu cultural local.\n\nÎn lumina caldă a serii, admirați stâncile abrupte înainte ca soarele să dispară în ocean.",
+        "en": "The road trip starts quietly at the dark beach. Then comfortably cruise up the mountain.\n\nAt midday, enjoy stunning panoramas and exceptionally beautiful architectural highlights.\n\nIn the afternoon, head directly to hidden historical treasures and the local museum.\n\nIn the warm late light, admire the steep cliffs right before the sun sets into the ocean."
+      }
+    }
+  }
+}

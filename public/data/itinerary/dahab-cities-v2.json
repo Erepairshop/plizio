@@ -1,0 +1,497 @@
+{
+  "city_id": "dahab-cities-v2",
+  "anchor": {
+    "name": "Dahab",
+    "coords": [
+      34.5134,
+      28.5013
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 2.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freitagsmarkt",
+            "hu": "Pénteki piac",
+            "ro": "Piața de vineri",
+            "en": "Friday market"
+          },
+          "coords": [
+            34.51964,
+            28.506214
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokales Kunsthandwerk und frische Produkte auf diesem lebhaften Freitagsmarkt, der Dahabs Kultur authentisch zeigt, also kommen Sie früh für die besten Souvenirs.",
+            "hu": "Fedezze fel a helyi kézműves termékeket ezen a nyüzsgő pénteki piacon, amely bemutatja Dahab kultúráját, ezért érkezzen korán a legjobb kézműves ajándékokért.",
+            "ro": "Descoperiți meșteșugurile locale la această piață vibrantă de vineri, care oferă un gust autentic al culturii din Dahab, așa că veniți devreme pentru cele mai bune suveniruri.",
+            "en": "Discover local crafts and fresh produce at this vibrant Friday market, offering a true taste of Dahab's culture, so arrive early to find the best handmade souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Eel Garden",
+            "hu": "Angolna Kert",
+            "ro": "Grădina Anghilelor",
+            "en": "Eel Garden"
+          },
+          "coords": [
+            34.521232,
+            28.505349
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sandigen Hänge, wo Röhrenaale aus dem Meeresboden ragen, aber bringen Sie unbedingt eine Schnorchelmaske mit und nähern Sie sich langsam.",
+            "hu": "Csodálja meg a homokos lejtőket, ahol tengeri angolnák bújnak ki a tengerfenékből ezen az egyedülálló helyen, de ne felejtsen el búvármaszkot hozni és lassan közeledni.",
+            "ro": "Admirați pantele de nisip unde anghilele de grădină ies din fundul mării în acest loc unic, dar nu uitați masca de snorkeling și apropiați-vă încet pentru a nu le speria.",
+            "en": "Marvel at the sandy slopes where garden eels poke from the seabed in this unique dive site, but remember to bring a snorkel mask and approach slowly so they don't hide."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Light House"
+          },
+          "coords": [
+            34.520695,
+            28.498431
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erleben Sie eines der berühmtesten Riffe Dahabs, das direkt vom Ufer aus zugänglich ist und sich perfekt für Anfänger eignet, also leihen Sie sich Ausrüstung und tauchen Sie ein.",
+            "hu": "Tapasztalja meg Dahab egyik leghíresebb, közvetlenül a partról megközelíthető zátonyát, amely kiváló a kezdőknek, ezért béreljen felszerelést a közelben és merüljön egyet.",
+            "ro": "Experimentați unul dintre cele mai faimoase recife din Dahab, accesibil direct de pe mal, excelent pentru începători, așa că închiriați echipament și scufundați-vă.",
+            "en": "Experience one of Dahab's most famous reefs directly accessible from the shore, providing excellent beginner-friendly diving, so rent some gear nearby and jump right in."
+          }
+        },
+        {
+          "name": {
+            "de": "Nabatäischer Hafen",
+            "hu": "Nabateus kikötő",
+            "ro": "Portul Nabateean",
+            "en": "Nabataens Port"
+          },
+          "coords": [
+            34.517183,
+            28.494112
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen nabatäischen Handelspostens, der einst wichtige Seewege verband, und tragen Sie festes Schuhwerk für das steinige Gelände.",
+            "hu": "Fedezze fel ennek a történelmi nabateus kereskedelmi állomásnak a romjait, amely egykor fontos tengeri útvonalakat kötött össze, és viseljen zárt cipőt a sziklás terepen.",
+            "ro": "Explorați ruinele acestui avanpost comercial istoric nabatean care conecta rute maritime vitale, și purtați încălțăminte solidă pentru a merge în siguranță pe terenul stâncos.",
+            "en": "Explore the ancient ruins of this historical Nabataean trading outpost that once connected vital sea routes, and wear sturdy shoes to safely walk across the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Hoda Moschee",
+            "hu": "Al Hoda Mecset",
+            "ro": "Moscheea Al Hoda",
+            "en": "Al Hoda Mosque"
+          },
+          "coords": [
+            34.513835,
+            28.49418
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die friedliche Atmosphäre dieser markanten lokalen Moschee im Herzen von Dahab, wobei Sie darauf achten sollten, sich dezent zu kleiden.",
+            "hu": "Csodálja meg Dahab szívében található mecset gyönyörű építészetét és békés hangulatát, ügyelve arra, hogy szerényen, fedett vállal és térddel lépjen be a területre.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică a acestei moschei locale din inima orașului Dahab, asigurându-vă că vă îmbrăcați modest, cu umerii și genunchii acoperiți.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of this prominent local mosque in the heart of Dahab, ensuring you dress modestly with shoulders and knees covered."
+          }
+        },
+        {
+          "name": {
+            "de": "Christina Beach",
+            "hu": "Christina Beach",
+            "ro": "Christina Beach",
+            "en": "Christina Beach"
+          },
+          "coords": [
+            34.51599,
+            28.489726
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem einladenden Strand, einem perfekten Ort zum Abschalten am Roten Meer, und bringen Sie ein gutes Buch sowie reichlich Sonnencreme für den Nachmittag mit.",
+            "hu": "Pihenjen ennek a hívogató strandnak a puha homokján, amely tökéletes hely a Vörös-tenger melletti feltöltődésre, és hozzon magával egy jó könyvet, valamint naptejet.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje primitoare, un loc perfect pentru odihnă la Marea Roșie, și aduceți o carte bună împreună cu multă cremă de protecție solară.",
+            "en": "Relax on the soft sands of this inviting beach, a perfect spot for unwinding by the Red Sea, and bring a good book along with plenty of sunscreen for a restful afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Dahab, von lebhaften Märkten bis zu beeindruckenden Moscheen. Am Mittag geht es zu den Küstenwundern, wo Sie kristallklares Wasser und einzigartige Unterwasserlandschaften genießen. Entdecken Sie am Nachmittag die historischen Ruinen, die diese Region geprägt haben. Lassen Sie den Abend bei einem friedlichen Sonnenuntergangsspaziergang an den sanften Sandstränden und der ruhigen Brise des Roten Meeres ausklingen.",
+        "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
+        "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:33",
+      "total_km": 4.21,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Große Moschee",
+            "hu": "Nagymecset",
+            "ro": "Marea Moschee",
+            "en": "Big Mosque"
+          },
+          "coords": [
+            34.514446,
+            28.511354
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Atmosphäre und das markante Minarett der Großen Moschee, die ein zentraler Treffpunkt ist, den Sie am besten von außen fotografieren.",
+            "hu": "Élvezze a Nagymecset spirituális hangulatát és feltűnő minaretjét, amely közösségi központként szolgál, és amelyet a legjobb kívülről megtekinteni, ha nem imára érkezik.",
+            "ro": "Bucurați-vă de ambianța spirituală și de minaretul impresionant al Marii Moschei, un centru comunitar central, cel mai bine admirat de afară dacă nu participați la slujbe.",
+            "en": "Take in the spiritual ambiance and striking minaret of the Big Mosque which serves as a central community hub, best viewed from outside unless visiting for prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Freitagsmarkt",
+            "hu": "Pénteki piac",
+            "ro": "Piața de vineri",
+            "en": "Friday market"
+          },
+          "coords": [
+            34.51964,
+            28.506214
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokales Kunsthandwerk und frische Produkte auf diesem lebhaften Freitagsmarkt, der Dahabs Kultur authentisch zeigt, also kommen Sie früh für die besten Souvenirs.",
+            "hu": "Fedezze fel a helyi kézműves termékeket ezen a nyüzsgő pénteki piacon, amely bemutatja Dahab kultúráját, ezért érkezzen korán a legjobb kézműves ajándékokért.",
+            "ro": "Descoperiți meșteșugurile locale la această piață vibrantă de vineri, care oferă un gust autentic al culturii din Dahab, așa că veniți devreme pentru cele mai bune suveniruri.",
+            "en": "Discover local crafts and fresh produce at this vibrant Friday market, offering a true taste of Dahab's culture, so arrive early to find the best handmade souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Eel Garden",
+            "hu": "Angolna Kert",
+            "ro": "Grădina Anghilelor",
+            "en": "Eel Garden"
+          },
+          "coords": [
+            34.521232,
+            28.505349
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sandigen Hänge, wo Röhrenaale aus dem Meeresboden ragen, aber bringen Sie unbedingt eine Schnorchelmaske mit und nähern Sie sich langsam.",
+            "hu": "Csodálja meg a homokos lejtőket, ahol tengeri angolnák bújnak ki a tengerfenékből ezen az egyedülálló helyen, de ne felejtsen el búvármaszkot hozni és lassan közeledni.",
+            "ro": "Admirați pantele de nisip unde anghilele de grădină ies din fundul mării în acest loc unic, dar nu uitați masca de snorkeling și apropiați-vă încet pentru a nu le speria.",
+            "en": "Marvel at the sandy slopes where garden eels poke from the seabed in this unique dive site, but remember to bring a snorkel mask and approach slowly so they don't hide."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Light House"
+          },
+          "coords": [
+            34.520695,
+            28.498431
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erleben Sie eines der berühmtesten Riffe Dahabs, das direkt vom Ufer aus zugänglich ist und sich perfekt für Anfänger eignet, also leihen Sie sich Ausrüstung und tauchen Sie ein.",
+            "hu": "Tapasztalja meg Dahab egyik leghíresebb, közvetlenül a partról megközelíthető zátonyát, amely kiváló a kezdőknek, ezért béreljen felszerelést a közelben és merüljön egyet.",
+            "ro": "Experimentați unul dintre cele mai faimoase recife din Dahab, accesibil direct de pe mal, excelent pentru începători, așa că închiriați echipament și scufundați-vă.",
+            "en": "Experience one of Dahab's most famous reefs directly accessible from the shore, providing excellent beginner-friendly diving, so rent some gear nearby and jump right in."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagona",
+            "hu": "Lagona",
+            "ro": "Lagona",
+            "en": "Lagona"
+          },
+          "coords": [
+            34.512184,
+            28.479837
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den flachen, türkisfarbenen Gewässern dieser unberührten Lagune, die perfekte Bedingungen zum Windsurfen bietet, also buchen Sie eine Anfängerstunde.",
+            "hu": "Kapcsolódjon ki ennek az érintetlen természetes lagúnának a sekély, türkizkék vizében, amely ideális a szörfözéshez, ezért érdemes egy kezdő órát vennie a látogatás során.",
+            "ro": "Relaxați-vă în apele turcoaz și puțin adânci ale acestei lagune naturale, care oferă condiții perfecte pentru windsurfing, așa că luați o lecție pentru începători.",
+            "en": "Unwind in the shallow, turquoise waters of this pristine natural lagoon offering perfect conditions for windsurfing, so consider taking a beginner's lesson during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Inseln",
+            "hu": "A Szigetek",
+            "ro": "Insulele",
+            "en": "The Islands"
+          },
+          "coords": [
+            34.513246,
+            28.47723
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in ein faszinierendes Unterwasserlabyrinth voller bunter Korallen und tropischer Fische ein, aber stellen Sie sicher, dass ein lokaler Guide Sie sicher führt.",
+            "hu": "Merüljön el a trópusi halaktól nyüzsgő, élénk korallképződmények lenyűgöző víz alatti útvesztőjében, de mindenképpen helyi vezetővel menjen a bonyolult útvonalakon.",
+            "ro": "Scufundați-vă într-un labirint subacvatic fascinant de corali plini de pești tropicali, dar asigurați-vă că mergeți cu un ghid local pentru a naviga în siguranță pe trasee.",
+            "en": "Dive into a mesmerizing underwater maze of vibrant coral formations teeming with tropical fish, but ensure you dive with a local guide to navigate the complex pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Dahab, von lebhaften Märkten bis zu beeindruckenden Moscheen. Am Mittag geht es zu den Küstenwundern, wo Sie kristallklares Wasser und einzigartige Unterwasserlandschaften genießen. Entdecken Sie am Nachmittag die historischen Ruinen, die diese Region geprägt haben. Lassen Sie den Abend bei einem friedlichen Sonnenuntergangsspaziergang an den sanften Sandstränden und der ruhigen Brise des Roten Meeres ausklingen.",
+        "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
+        "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 6.24,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotte",
+            "hu": "Barlang",
+            "ro": "Grota",
+            "en": "grotto"
+          },
+          "coords": [
+            34.49401,
+            28.513348
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgene Schönheit dieser felsigen Enklave, die kühlen Schatten und atemberaubende Ausblicke bietet, ideal für großartige Panoramafotos der Gegend.",
+            "hu": "Fedezze fel ennek a hűvös árnyékot és lenyűgöző kilátást nyújtó sziklás enklávénak a rejtett szépségét, amely nagyszerű hely panorámafotók készítésére a hegyekről.",
+            "ro": "Descoperiți frumusețea ascunsă a acestei enclave stâncoase care oferă umbră răcoroasă și vederi uimitoare, fiind un loc minunat pentru a face câteva fotografii panoramice.",
+            "en": "Discover the hidden beauty of this rocky enclave offering cool shade and stunning views of the surrounding mountains, making it a great place to snap some panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Canyon",
+            "hu": "Canyon",
+            "ro": "Canyon",
+            "en": "Canyon"
+          },
+          "coords": [
+            34.504304,
+            28.518671
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese beeindruckende geologische Spalte mit ihren tiefen, engen und farbenfrohen Passagen, aber bringen Sie unbedingt viel Wasser und robuste Schuhe mit.",
+            "hu": "Túrázzon keresztül ezen a lenyűgöző geológiai hasadékon, melynek mély és szűk, színes ásványi anyagokkal díszített járatait csodálhatja meg, de vigyen sok vizet.",
+            "ro": "Străbateți această fisură geologică impresionantă, cu pasajele sale adânci și înguste colorate de minerale, dar asigurați-vă că aveți apă din belșug și bocanci rezistenți.",
+            "en": "Trek through this awe-inspiring geological fissure with its deep, narrow passages colored by mineral deposits, but be sure to bring plenty of water and wear rugged boots."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee",
+            "hu": "Nagymecset",
+            "ro": "Marea Moschee",
+            "en": "Big Mosque"
+          },
+          "coords": [
+            34.514446,
+            28.511354
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Atmosphäre und das markante Minarett der Großen Moschee, die ein zentraler Treffpunkt ist, den Sie am besten von außen fotografieren.",
+            "hu": "Élvezze a Nagymecset spirituális hangulatát és feltűnő minaretjét, amely közösségi központként szolgál, és amelyet a legjobb kívülről megtekinteni, ha nem imára érkezik.",
+            "ro": "Bucurați-vă de ambianța spirituală și de minaretul impresionant al Marii Moschei, un centru comunitar central, cel mai bine admirat de afară dacă nu participați la slujbe.",
+            "en": "Take in the spiritual ambiance and striking minaret of the Big Mosque which serves as a central community hub, best viewed from outside unless visiting for prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Nabatäischer Hafen",
+            "hu": "Nabateus kikötő",
+            "ro": "Portul Nabateean",
+            "en": "Nabataens Port"
+          },
+          "coords": [
+            34.517183,
+            28.494112
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen nabatäischen Handelspostens, der einst wichtige Seewege verband, und tragen Sie festes Schuhwerk für das steinige Gelände.",
+            "hu": "Fedezze fel ennek a történelmi nabateus kereskedelmi állomásnak a romjait, amely egykor fontos tengeri útvonalakat kötött össze, és viseljen zárt cipőt a sziklás terepen.",
+            "ro": "Explorați ruinele acestui avanpost comercial istoric nabatean care conecta rute maritime vitale, și purtați încălțăminte solidă pentru a merge în siguranță pe terenul stâncos.",
+            "en": "Explore the ancient ruins of this historical Nabataean trading outpost that once connected vital sea routes, and wear sturdy shoes to safely walk across the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Christina Beach",
+            "hu": "Christina Beach",
+            "ro": "Christina Beach",
+            "en": "Christina Beach"
+          },
+          "coords": [
+            34.51599,
+            28.489726
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem einladenden Strand, einem perfekten Ort zum Abschalten am Roten Meer, und bringen Sie ein gutes Buch sowie reichlich Sonnencreme für den Nachmittag mit.",
+            "hu": "Pihenjen ennek a hívogató strandnak a puha homokján, amely tökéletes hely a Vörös-tenger melletti feltöltődésre, és hozzon magával egy jó könyvet, valamint naptejet.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje primitoare, un loc perfect pentru odihnă la Marea Roșie, și aduceți o carte bună împreună cu multă cremă de protecție solară.",
+            "en": "Relax on the soft sands of this inviting beach, a perfect spot for unwinding by the Red Sea, and bring a good book along with plenty of sunscreen for a restful afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagona",
+            "hu": "Lagona",
+            "ro": "Lagona",
+            "en": "Lagona"
+          },
+          "coords": [
+            34.512184,
+            28.479837
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den flachen, türkisfarbenen Gewässern dieser unberührten Lagune, die perfekte Bedingungen zum Windsurfen bietet, also buchen Sie eine Anfängerstunde.",
+            "hu": "Kapcsolódjon ki ennek az érintetlen természetes lagúnának a sekély, türkizkék vizében, amely ideális a szörfözéshez, ezért érdemes egy kezdő órát vennie a látogatás során.",
+            "ro": "Relaxați-vă în apele turcoaz și puțin adânci ale acestei lagune naturale, care oferă condiții perfecte pentru windsurfing, așa că luați o lecție pentru începători.",
+            "en": "Unwind in the shallow, turquoise waters of this pristine natural lagoon offering perfect conditions for windsurfing, so consider taking a beginner's lesson during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Inseln",
+            "hu": "A Szigetek",
+            "ro": "Insulele",
+            "en": "The Islands"
+          },
+          "coords": [
+            34.513246,
+            28.47723
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in ein faszinierendes Unterwasserlabyrinth voller bunter Korallen und tropischer Fische ein, aber stellen Sie sicher, dass ein lokaler Guide Sie sicher führt.",
+            "hu": "Merüljön el a trópusi halaktól nyüzsgő, élénk korallképződmények lenyűgöző víz alatti útvesztőjében, de mindenképpen helyi vezetővel menjen a bonyolult útvonalakon.",
+            "ro": "Scufundați-vă într-un labirint subacvatic fascinant de corali plini de pești tropicali, dar asigurați-vă că mergeți cu un ghid local pentru a naviga în siguranță pe trasee.",
+            "en": "Dive into a mesmerizing underwater maze of vibrant coral formations teeming with tropical fish, but ensure you dive with a local guide to navigate the complex pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Dahab, von lebhaften Märkten bis zu beeindruckenden Moscheen. Am Mittag geht es zu den Küstenwundern, wo Sie kristallklares Wasser und einzigartige Unterwasserlandschaften genießen. Entdecken Sie am Nachmittag die historischen Ruinen, die diese Region geprägt haben. Lassen Sie den Abend bei einem friedlichen Sonnenuntergangsspaziergang an den sanften Sandstränden und der ruhigen Brise des Roten Meeres ausklingen.",
+        "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
+        "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      }
+    }
+  }
+}

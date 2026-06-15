@@ -1,0 +1,428 @@
+{
+  "city_id": "corbie",
+  "anchor": {
+    "name": "Corbie",
+    "coords": [
+      2.5072,
+      49.9089
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:49",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Corbie",
+            "hu": "Corbie Városháza",
+            "ro": "Primăria Corbie",
+            "en": "Corbie Town Hall"
+          },
+          "coords": [
+            2.513452,
+            49.909656
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
+            "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
+            "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Saint-Pierre",
+            "hu": "Saint-Pierre Apátság",
+            "ro": "Abația Saint-Pierre",
+            "en": "Abbey of Saint-Pierre"
+          },
+          "coords": [
+            2.510179,
+            49.908931
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
+            "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Mathieu",
+            "hu": "Saint-Mathieu Templom",
+            "ro": "Biserica Saint-Mathieu",
+            "en": "Church of Saint-Mathieu"
+          },
+          "coords": [
+            2.502542,
+            49.900585
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser charmanten lokalen Kirche, die einen perfekten Moment der stillen Reflexion abseits der Hauptstraßen bietet.",
+            "hu": "Fedezze fel ennek a bájos helyi templomnak a nyugodt hangulatát, amely tökéletes pillanatot kínál a csendes elmélkedésre a forgalmas főutcáktól távol.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici locale fermecătoare, care oferă un moment perfect de reflecție liniștită departe de străzile principale.",
+            "en": "Discover the serene atmosphere of this charming local church, which offers a perfect moment of quiet reflection away from the busy main streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption Templom",
+            "ro": "Biserica Notre-Dame de l'Assomption",
+            "en": "Church of Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            2.491769,
+            49.913227
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die kunstvollen Buntglasfenster dieser Pfarrkirche zu würdigen, und bringen Sie eine kleine Spende mit, wenn Sie eine Kerze anzünden möchten.",
+            "hu": "Szánjon időt e plébániatemplom bonyolult ólomüveg ablakainak megtekintésére, és hozzon aprópénzt, ha szeretne egy fogadalmi gyertyát gyújtani.",
+            "ro": "Alocați-vă timp pentru a aprecia vitraliile detaliate ale acestei biserici parohiale și aduceți o mică donație dacă doriți să aprindeți o lumânare.",
+            "en": "Take time to appreciate the intricate stained glass windows of this parish church, and bring a small donation if you wish to light a votive candle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Colombe",
+            "hu": "Sainte-Colombe Templom",
+            "ro": "Biserica Sainte-Colombe",
+            "en": "Church of Sainte-Colombe"
+          },
+          "coords": [
+            2.481344,
+            49.903439
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den schlichteren, rustikalen Charme dieser historischen Kultstätte und denken Sie daran, dass die Öffnungszeiten in der Nebensaison unregelmäßig sein können.",
+            "hu": "Fedezze fel ennek a történelmi istentiszteleti helynek az egyszerűbb, rusztikus varázsát, de tartsa szem előtt, hogy a nyitvatartása szezonon kívül rendszertelen lehet.",
+            "ro": "Explorați farmecul rustic și mai simplu al acestui lăcaș de cult istoric, ținând cont de faptul că orele de deschidere pot fi neregulate în extrasezon.",
+            "en": "Explore the simpler, rustic charm of this historical place of worship, keeping in mind that its opening hours can be irregular during the off-season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Corbie, wo das historische Rathaus und die beeindruckende Abtei den perfekten Auftakt für einen entspannten Spaziergang durch die Stadt bieten. Gegen Mittag schlendern Sie durch die ruhigen Straßen und bewundern die charmante Architektur der Église Saint-Mathieu, bevor Sie eine kleine Pause in einem der lokalen Cafés einlegen. Am Nachmittag führt Sie Ihr Weg zur majestätischen Church of Notre-Dame de l'Assomption, deren kunstvolle Details und ruhige Atmosphäre zum Verweilen einladen. Lassen Sie den Tag mit einem entspannten Besuch der rustikalen Église Sainte-Colombe ausklingen, während die Nachmittagssonne die historischen Fassaden in ein warmes, goldenes Licht taucht.",
+        "hu": "Kezdje a reggelt Corbie szívében, ahol a történelmi városháza és a lenyűgöző apátság tökéletes kiindulópontot nyújt egy nyugodt városi sétához. Délben sétáljon végig a csendes utcákon, és csodálja meg az Église Saint-Mathieu bájos építészetét, mielőtt egy rövid pihenőt tartana egy helyi kávézóban. Délután az útja a fenséges Church of Notre-Dame de l'Assomption felé vezet, melynek művészi részletei és békés légköre lenyűgözi a látogatókat. Fejezze be a napot a rusztikus Église Sainte-Colombe pihentető látogatásával, miközben a délutáni nap meleg, arany fénybe vonja a történelmi homlokzatokat.",
+        "ro": "Începeți dimineața în inima orașului Corbie, unde primăria istorică și impresionanta abație oferă un punct de plecare perfect pentru o plimbare relaxantă. La prânz, plimbați-vă pe străzile liniștite și admirați arhitectura fermecătoare a Église Saint-Mathieu înainte de a face o scurtă pauză la o cafenea locală. După-amiaza, drumul vă va duce la maiestuoasa biserică Notre-Dame de l'Assomption, ale cărei detalii ornamentate și atmosferă pașnică vă invită să zăboviți. Încheiați ziua cu o vizită relaxantă la biserica rustică Sainte-Colombe, în timp ce soarele după-amiezii scaldă fațadele istorice într-o lumină aurie și caldă.",
+        "en": "Start your morning in the heart of Corbie, where the historic town hall and the impressive abbey provide the perfect starting point for a relaxing walk. At midday, stroll through the quiet streets and admire the charming architecture of Église Saint-Mathieu before taking a short break at a local café. In the afternoon, your path leads to the majestic Church of Notre-Dame de l'Assomption, whose ornate details and peaceful atmosphere invite you to linger. End the day with a relaxing visit to the rustic Église Sainte-Colombe as the afternoon sun bathes the historical facades in a warm, golden light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Corbie",
+            "hu": "Corbie Városháza",
+            "ro": "Primăria Corbie",
+            "en": "Corbie Town Hall"
+          },
+          "coords": [
+            2.513452,
+            49.909656
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
+            "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
+            "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Saint-Pierre",
+            "hu": "Saint-Pierre Apátság",
+            "ro": "Abația Saint-Pierre",
+            "en": "Abbey of Saint-Pierre"
+          },
+          "coords": [
+            2.510179,
+            49.908931
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
+            "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Church of Saint-Nicolas"
+          },
+          "coords": [
+            2.530143,
+            49.906227
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Steinmetzarbeiten dieser malerischen Viertelkirche und prüfen Sie das Anschlagbrett auf Informationen zu kommenden Gemeindeveranstaltungen.",
+            "hu": "Csodálja meg ennek a furcsa környékbeli templomnak a gyönyörű kőfaragásait, és nézze meg a kinti hirdetőtáblát a közelgő közösségi eseményekről.",
+            "ro": "Admirați frumoasele sculpturi în piatră ale acestei biserici pitorești de cartier și verificați panoul exterior pentru informații despre evenimentele comunitare viitoare.",
+            "en": "Admire the beautiful stone carvings of this quaint neighborhood church, and check the notice board outside for information on upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Somme-Kanal",
+            "hu": "Somme-csatorna",
+            "ro": "Canalul Somme",
+            "en": "Somme Canal"
+          },
+          "coords": [
+            2.544649,
+            49.92009
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang oder ein ruhiges Picknick an den malerischen Ufern des Kanals und tragen Sie bequeme Schuhe für die unbefestigten Wege.",
+            "hu": "Élvezze a pihentető sétát vagy egy csendes pikniket a csatorna festői partjain, és viseljen kényelmes sétacipőt a burkolatlan tanösvények miatt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă sau de un picnic liniștit pe malurile pitorești ale canalului și purtați pantofi confortabili pentru potecile neasfaltate.",
+            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Germain-l'Auxerrois",
+            "hu": "Saint-Germain-l'Auxerrois Templom",
+            "ro": "Biserica Saint-Germain-l'Auxerrois",
+            "en": "Church of Saint-Germain-l'Auxerrois"
+          },
+          "coords": [
+            2.54658,
+            49.915036
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verlassen Sie die ausgetretenen Pfade, um dieses architektonische Juwel zu finden, aber seien Sie auf begrenzte Parkmöglichkeiten in der Umgebung vorbereitet.",
+            "hu": "Térjen le a kitaposott ösvényről, hogy megtalálja ezt a rejtett építészeti gyöngyszemet, de készüljön fel a korlátozott parkolási lehetőségekre a közvetlen közelben.",
+            "ro": "Abateți-vă de la traseul turistic pentru a găsi această bijuterie arhitecturală ascunsă, dar fiți pregătiți pentru opțiuni limitate de parcare în zona imediată.",
+            "en": "Step off the beaten path to find this hidden architectural gem, but be prepared for limited parking options in the immediate surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast Templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Church of Saint-Vaast"
+          },
+          "coords": [
+            2.512389,
+            49.934983
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Stille und das historische Ambiente dieses ländlichen Heiligtums und bringen Sie eine Jacke mit, da der Innenraum ganzjährig kühl bleibt.",
+            "hu": "Tapasztalja meg ennek a vidéki szentélynek a mély csendjét és történelmi hangulatát, és feltétlenül hozzon magával könnyű kabátot, mivel a belső tér hűvös.",
+            "ro": "Experimentați tăcerea profundă și ambianța istorică a acestui sanctuar rural, asigurându-vă că aduceți o jachetă, deoarece interiorul rămâne răcoros tot anul.",
+            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour am zentralen Rathaus und der angrenzenden Abteikirche, bevor Sie sich auf ruhigen Wegen zur charmanten Église Saint-Nicolas begeben. Mittags lockt der friedliche Somme-Kanal mit seinen idyllischen Uferwegen, wo Sie bei einem Picknick neue Energie für die weitere Fahrt sammeln können. Am Nachmittag radeln Sie gemütlich zur verborgenen Église Saint-Germain-l'Auxerrois, die abseits der Hauptverkehrsstraßen eine wunderbare Ruhe ausstrahlt. Der Tag endet mit einer malerischen Fahrt zur ländlichen Église Saint-Vaast, wo Sie die landschaftliche Schönheit der Region im weichen Licht genießen können.",
+        "hu": "Kezdje a kerékpártúrát a központi városházánál és a szomszédos apátságnál, mielőtt csendes utakon a bájos Église Saint-Nicolas felé venné az irányt. Délben a békés Somme-csatorna hívogat idilli parti sétányaival, ahol egy piknik keretében új energiát gyűjthet a további útra. Délután kényelmesen eltekerhet a rejtett Église Saint-Germain-l'Auxerrois-hoz, amely a főútvonalaktól távol csodálatos nyugalmat sugároz. A nap egy festői utazással zárul a vidéki Église Saint-Vaast felé, ahol a lágy délutáni fényben élvezheti a régió festői szépségét.",
+        "ro": "Începeți turul cu bicicleta la primăria centrală și la abația adiacentă înainte de a porni pe cărări liniștite către fermecătoarea Église Saint-Nicolas. La prânz, canalul pașnic Somme vă atrage cu potecile sale idilice de pe mal, unde vă puteți reîncărca energia cu un picnic. După-amiaza, pedalați în ritm lejer până la biserica ascunsă Saint-Germain-l'Auxerrois, care emană o liniște minunată departe de agitație. Ziua se încheie cu o plimbare pitorească către biserica rurală Saint-Vaast, unde vă puteți bucura de frumusețea peisajului în lumina caldă a după-amiezii.",
+        "en": "Start your bike tour at the central town hall and the adjacent abbey before heading along quiet paths to the charming Église Saint-Nicolas. At midday, the peaceful Somme Canal beckons with its idyllic bankside trails, where you can recharge your energy with a delightful picnic. In the afternoon, you casually cycle to the hidden Église Saint-Germain-l'Auxerrois, which exudes a wonderful tranquility away from the main roads. The day concludes with a scenic ride to the rural Église Saint-Vaast, allowing you to enjoy the region's natural beauty in the soft afternoon light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 8.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Militärfriedhof Villers-Bretonneux",
+            "hu": "Villers-Bretonneux Katonai Temető",
+            "ro": "Cimitirul Militar Villers-Bretonneux",
+            "en": "Villers-Bretonneux Military Cemetery"
+          },
+          "coords": [
+            2.512064,
+            49.886825
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser feierlichen und wunderschön gepflegten Gedenkstätte Ihren Respekt und nehmen Sie sich Zeit, die ergreifenden Inschriften zu lesen.",
+            "hu": "Rója le tiszteletét ezen az ünnepélyes és gyönyörűen karbantartott emlékhelyen, és szánjon időt az elesett katonáknak szentelt megrendítő feliratok elolvasására.",
+            "ro": "Aduceți un omagiu la acest loc memorial solemn și frumos întreținut și luați-vă timp pentru a citi inscripțiile emoționante dedicate soldaților căzuți.",
+            "en": "Pay your respects at this solemn and beautifully maintained memorial site, and take time to read the poignant inscriptions dedicated to the fallen soldiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Corbie",
+            "hu": "Corbie Városháza",
+            "ro": "Primăria Corbie",
+            "en": "Corbie Town Hall"
+          },
+          "coords": [
+            2.513452,
+            49.909656
+          ],
+          "category": "civic",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
+            "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
+            "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Saint-Pierre",
+            "hu": "Saint-Pierre Apátság",
+            "ro": "Abația Saint-Pierre",
+            "en": "Abbey of Saint-Pierre"
+          },
+          "coords": [
+            2.510179,
+            49.908931
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
+            "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Somme-Kanal",
+            "hu": "Somme-csatorna",
+            "ro": "Canalul Somme",
+            "en": "Somme Canal"
+          },
+          "coords": [
+            2.544649,
+            49.92009
+          ],
+          "category": "natural",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang oder ein ruhiges Picknick an den malerischen Ufern des Kanals und tragen Sie bequeme Schuhe für die unbefestigten Wege.",
+            "hu": "Élvezze a pihentető sétát vagy egy csendes pikniket a csatorna festői partjain, és viseljen kényelmes sétacipőt a burkolatlan tanösvények miatt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă sau de un picnic liniștit pe malurile pitorești ale canalului și purtați pantofi confortabili pentru potecile neasfaltate.",
+            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast Templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Church of Saint-Vaast"
+          },
+          "coords": [
+            2.512389,
+            49.934983
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Stille und das historische Ambiente dieses ländlichen Heiligtums und bringen Sie eine Jacke mit, da der Innenraum ganzjährig kühl bleibt.",
+            "hu": "Tapasztalja meg ennek a vidéki szentélynek a mély csendjét és történelmi hangulatát, és feltétlenül hozzon magával könnyű kabátot, mivel a belső tér hűvös.",
+            "ro": "Experimentați tăcerea profundă și ambianța istorică a acestui sanctuar rural, asigurându-vă că aduceți o jachetă, deoarece interiorul rămâne răcoros tot anul.",
+            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem bewegenden Besuch des Militärfriedhofs von Villers-Bretonneux, einem Ort der stillen Besinnung und der tiefen historischen Bedeutung. Gegen Mittag fahren Sie in das Zentrum von Corbie, um das prächtige Rathaus und die hochaufragende Abteikirche zu besichtigen, die das Stadtbild dominieren. Der Nachmittag bietet eine willkommene Abwechslung mit einem Ausflug zum idyllischen Somme-Kanal, wo Sie die herrliche Natur und die frische Luft genießen können. Den Abschluss Ihrer Fahrt bildet die friedliche Église Saint-Vaast, die in den Nachmittagsstunden eine besonders mystische und beruhigende Atmosphäre versprüht.",
+        "hu": "Kezdje a napot a Villers-Bretonneux-i katonai temető megható látogatásával, amely a csendes elmélkedés és a mély történelmi jelentőség helyszíne. Délben vezessen Corbie központjába, hogy megtekintse a pompás városházát és az eget verő apátságot, amelyek uralják a városképet. A délután kellemes kikapcsolódást kínál egy kirándulással az idilli Somme-csatornához, ahol élvezheti a gyönyörű természetet és a friss levegőt. Az utazás fénypontja a békés Église Saint-Vaast lesz, amely a korai délutáni órákban különösen misztikus és megnyugtató hangulatot áraszt.",
+        "ro": "Începeți ziua cu o vizită emoționantă la cimitirul militar din Villers-Bretonneux, un loc de reflecție tăcută și de profundă semnificație istorică. La prânz, conduceți spre centrul orașului Corbie pentru a vedea primăria magnifică și biserica impunătoare care domină peisajul urban. După-amiaza oferă o schimbare binevenită de ritm cu o excursie la idilicul Canal Somme, unde vă puteți bucura de natura frumoasă și aerul proaspăt. Călătoria dumneavoastră se încheie la pașnica Église Saint-Vaast, care emană o atmosferă deosebit de mistică și liniștitoare în lumina după-amiezii.",
+        "en": "Begin the day with a moving visit to the Villers-Bretonneux Military Cemetery, a place of quiet reflection and deep historical significance. Around midday, drive into the center of Corbie to see the magnificent town hall and the towering abbey church that dominate the cityscape. The afternoon offers a welcome change of pace with an excursion to the idyllic Somme Canal, where you can enjoy the beautiful nature and fresh air. Your journey concludes at the peaceful Église Saint-Vaast, which exudes a particularly mystical and calming atmosphere in the early afternoon."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-bormio-cities-v2",
+  "anchor": {
+    "name": "Bormio",
+    "coords": [
+      10.37008,
+      46.46717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santo Spirito",
+            "hu": "Chiesa di Santo Spirito",
+            "ro": "Chiesa di Santo Spirito",
+            "en": "Chiesa di Santo Spirito"
+          },
+          "coords": [
+            10.371917,
+            46.466968
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterlichen Fresken dieser Kirche, die Bormios spirituelle Vergangenheit einfängt, aber kommen Sie früh, da das Morgenlicht die Kunst am besten erhellt.",
+            "hu": "Csodálja meg a történelmi templom középkori freskóit, amelyek Bormio múltját tükrözik, de érkezzen korán, mert a reggeli fény világítja meg a legjobban az ősi művészetet.",
+            "ro": "Admirați frescele medievale din această biserică istorică, ce surprinde trecutul spiritual al orașului, dar veniți devreme deoarece lumina dimineții luminează cel mai bine arta.",
+            "en": "Admire the medieval frescoes in this historic church, which perfectly captures Bormio's spiritual past, but come early as the morning light illuminates the ancient art best."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Alberti",
+            "hu": "Torre Alberti",
+            "ro": "Torre Alberti",
+            "en": "Torre Alberti"
+          },
+          "coords": [
+            10.375946,
+            46.467141
+          ],
+          "category": "tower",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem imposanten Steinturm aus dem 13. Jahrhundert hinauf und versuchen Sie, die subtilen architektonischen Veränderungen der verschiedenen Renovierungen zu erkennen.",
+            "hu": "Nézzen fel erre a 13. századi impozáns kőtoronyra, amely egykor fontos személyiségeknek adott otthont, és próbálja meg észrevenni a különböző felújítások építészeti nyomait.",
+            "ro": "Priviți în sus la acest turn impunător din piatră din secolul al XIII-lea și încercați să observați schimbările arhitecturale subtile rezultate în urma diferitelor renovări.",
+            "en": "Look up at this imposing 13th-century stone tower that once housed royals and important figures, and try to spot the subtle architectural changes from its various renovations."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Bormio",
+            "hu": "Bormio Városháza",
+            "ro": "Primăria Bormio",
+            "en": "Municipio di Bormio"
+          },
+          "coords": [
+            10.376211,
+            46.469356
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Rathaus, dessen schöne Holzbalkone und Zifferblatt die Geschichte der Alpen erzählen, und prüfen Sie das Schwarze Brett auf abendliche Veranstaltungen.",
+            "hu": "Fedezze fel a történelmi városházát, melynek gyönyörű fa erkélyei és óralapja az alpesi kormányzásról mesél, és nézze meg a hirdetőtáblát az esti helyi eseményekért.",
+            "ro": "Explorați primăria istorică ale cărei balcoane frumoase din lemn spun povestea guvernării alpine și verificați panoul de anunțuri pentru evenimentele locale de seară.",
+            "en": "Explore the historic town hall whose beautiful wooden balconies and clock face tell the story of Alpine governance, and check the notice board for local evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Gervasio e Protasio",
+            "hu": "Santi Gervasio e Protasio templom",
+            "ro": "Biserica Sfinților Gervasio și Protasio",
+            "en": "Chiesa dei Santi Gervasio e Protasio"
+          },
+          "coords": [
+            10.377943,
+            46.467547
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die verzierten Holzaltäre und weitläufigen Gewölbedecken zu bewundern, und halten Sie Ausschau nach der historischen Orgel auf dem großen oberen Balkon.",
+            "hu": "Lépjen be, hogy megcsodálja a díszes faoltárokat és a hatalmas boltozatos mennyezetet, és mindenképpen figyelje meg a nagyszerű felső erkélyen található történelmi orgonát.",
+            "ro": "Pășiți înăuntru pentru a admira altarele ornamentate din lemn și tavanele boltite, fiind atenți la orga istorică situată pe balconul superior grandios.",
+            "en": "Step inside to marvel at the ornate wooden altars and expansive vaulted ceilings, keeping an eye out for the historic organ located on the grand upper balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di Combo",
+            "hu": "Ponte di Combo",
+            "ro": "Ponte di Combo",
+            "en": "Ponte di Combo"
+          },
+          "coords": [
+            10.379435,
+            46.466529
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Steinbogenbrücke über den Fluss Frodolfo, um alte Handelswege zu verstehen, und halten Sie in der Mitte für einen malerischen Blick auf die Berge.",
+            "hu": "Keljen át ezen az ikonikus kőíves hídon a Frodolfo folyó felett, hogy megértse az ősi kereskedelmi útvonalakat, és álljon meg a közepén a hegyek festői látványáért.",
+            "ro": "Traversați acest pod emblematic din piatră peste râul Frodolfo pentru a înțelege vechile rute comerciale, oprindu-vă în centru pentru o vedere pitorească a vârfurilor.",
+            "en": "Cross this iconic stone arch bridge spanning the Frodolfo river to understand ancient trade routes, pausing at the center for a picturesque view of the surrounding peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mineralogico Naturalistico Valli di Bormio",
+            "hu": "Bormio Völgyeinek Ásványtani Múzeuma",
+            "ro": "Muzeul Mineralogic Bormio",
+            "en": "Museo Mineralogico Naturalistico Valli di Bormio"
+          },
+          "coords": [
+            10.370132,
+            46.474436
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine umfangreiche Sammlung seltener alpiner Kristalle, die den geologischen Reichtum der Alpen zeigt, und fragen Sie nach den fluoreszierenden Mineralien im hinteren Teil.",
+            "hu": "Fedezze fel a ritka alpesi kristályok kiterjedt gyűjteményét, amely bemutatja az Alpok geológiai gazdagságát, és kérdezze a személyzetet a hátul lévő fluoreszkáló ásványokról.",
+            "ro": "Descoperiți o colecție vastă de cristale alpine rare care dezvăluie bogăția geologică a Alpilor și întrebați personalul despre mineralele fluorescente expuse în spate.",
+            "en": "Discover an extensive collection of rare alpine crystals that reveal the geological richness of the Alps, asking the staff about the fluorescent minerals display in the back."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino Botanico Alpino \"Rezia\"",
+            "hu": "Rezia Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină Rezia",
+            "en": "Giardino Botanico Alpino \"Rezia\""
+          },
+          "coords": [
+            10.371662,
+            46.476257
+          ],
+          "category": "park",
+          "arrive_at": "14:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen hochgelegenen botanischen Garten, um widerstandsfähige Alpenflora aus der ganzen Welt zu sehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ezen a magasan fekvő botanikus kerten, hogy ellenálló alpesi növényeket láthasson a világ minden tájáról, és viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă prin această grădină botanică de mare altitudine pentru a vedea flora alpină rezilientă din întreaga lume și purtați încălțăminte confortabilă pentru potecile inegale din piatră.",
+            "en": "Wander through this high-altitude botanical garden to see resilient Alpine flora from across the world, making sure to wear comfortable shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bormio Terme",
+            "hu": "Bormio Terme",
+            "ro": "Bormio Terme",
+            "en": "Bormio Terme"
+          },
+          "coords": [
+            10.369233,
+            46.469972
+          ],
+          "category": "recreational",
+          "arrive_at": "16:19",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln in den modernen Thermalbecken mit herrlichem Panoramablick auf die Berge, aber bringen Sie ein eigenes Handtuch und eine Badekappe mit.",
+            "hu": "Lazítsa el izmait a modern termálmedencékben, amelyek lenyűgöző panorámát nyújtanak a hegyekre, de hozzon magával saját törölközőt és úszósapkát a bérleti díjak elkerülése végett.",
+            "ro": "Relaxați-vă mușchii în piscinele termale moderne care oferă vederi panoramice uimitoare ale munților, dar amintiți-vă să aduceți propriul prosop și cască de înot.",
+            "en": "Relax your muscles in the modern thermal pools offering stunning panoramic views of the mountains, but remember to bring your own towel and swim cap to avoid rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch Bormios historisches Zentrum und bewundern Sie alte Kirchen und imposante Steintürme, die jahrhundertealte Geheimnisse bergen.\n\nGegen Mittag erkunden Sie das geschäftige Herz der Stadt am historischen Rathaus und überqueren malerische Flüsse, die das charmante Stadtbild prägen.\n\nAm Nachmittag können Sie im Mineralienmuseum und im Botanischen Garten die Naturwunder der Alpen entdecken und mehr über die einzigartige alpine Umgebung erfahren.\n\nWenn der Abend naht, können Sie in den berühmten Thermalbädern entspannen und die herrliche Aussicht auf die Berge genießen.",
+        "hu": "Kezdje a reggelt egy sétával Bormio történelmi központjában, csodálja meg az ősi templomokat és az évszázados titkokat őrző impozáns kőtornyokat.\n\nDél körül fedezze fel a város nyüzsgő szívét a történelmi városházánál, és keljen át a bájos városképet meghatározó festői folyókon.\n\nDélután fedezze fel az Alpok természeti csodáit az Ásványtani Múzeumban és a Botanikus Kertben, és tudjon meg többet az egyedülálló alpesi környezetről.\n\nAz est közeledtével lazítson a híres termálfürdőkben, és élvezze a lenyűgöző hegyi kilátást, miközben kipiheni a nap fáradalmait.",
+        "ro": "Începeți dimineața cu o plimbare prin centrul istoric al orașului Bormio, admirând biserici antice și turnuri impunătoare din piatră care dețin secrete de secole.\n\nÎn jurul prânzului, explorați inima plină de viață a orașului la primăria istorică și traversați râurile pitorești care definesc peisajul urban fermecător.\n\nDupă-amiaza, descoperiți minunile naturale ale Alpilor la muzeul de minerale și grădina botanică, aflând mai multe despre mediul alpin unic.\n\nOdată cu lăsarea serii, relaxați-vă în faimoasele băi termale și bucurați-vă de priveliștile magnifice ale munților în timp ce vă odihniți după o zi plină.",
+        "en": "Start your morning strolling through Bormio's historical center, admiring ancient churches and imposing stone towers that hold centuries of well-preserved alpine secrets.\n\nAround midday, explore the bustling heart of the town near the historic town hall, crossing picturesque river bridges that define the charming local streetscape.\n\nIn the afternoon, dive into the natural wonders of the Alps at the mineral museum and botanical garden, discovering the unique environmental treasures of the region.\n\nAs evening approaches, unwind completely in the famous local thermal baths, soaking in restorative waters while enjoying magnificent panoramic views of the surrounding mountains."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte di Combo",
+            "hu": "Ponte di Combo",
+            "ro": "Ponte di Combo",
+            "en": "Ponte di Combo"
+          },
+          "coords": [
+            10.379435,
+            46.466529
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische Steinbogenbrücke über den Fluss Frodolfo, um alte Handelswege zu verstehen, und halten Sie in der Mitte für einen malerischen Blick auf die Berge.",
+            "hu": "Keljen át ezen az ikonikus kőíves hídon a Frodolfo folyó felett, hogy megértse az ősi kereskedelmi útvonalakat, és álljon meg a közepén a hegyek festői látványáért.",
+            "ro": "Traversați acest pod emblematic din piatră peste râul Frodolfo pentru a înțelege vechile rute comerciale, oprindu-vă în centru pentru o vedere pitorească a vârfurilor.",
+            "en": "Cross this iconic stone arch bridge spanning the Frodolfo river to understand ancient trade routes, pausing at the center for a picturesque view of the surrounding peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Gervasio e Protasio",
+            "hu": "Santi Gervasio e Protasio templom",
+            "ro": "Biserica Sfinților Gervasio și Protasio",
+            "en": "Chiesa dei Santi Gervasio e Protasio"
+          },
+          "coords": [
+            10.377943,
+            46.467547
+          ],
+          "category": "religious",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die verzierten Holzaltäre und weitläufigen Gewölbedecken zu bewundern, und halten Sie Ausschau nach der historischen Orgel auf dem großen oberen Balkon.",
+            "hu": "Lépjen be, hogy megcsodálja a díszes faoltárokat és a hatalmas boltozatos mennyezetet, és mindenképpen figyelje meg a nagyszerű felső erkélyen található történelmi orgonát.",
+            "ro": "Pășiți înăuntru pentru a admira altarele ornamentate din lemn și tavanele boltite, fiind atenți la orga istorică situată pe balconul superior grandios.",
+            "en": "Step inside to marvel at the ornate wooden altars and expansive vaulted ceilings, keeping an eye out for the historic organ located on the grand upper balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Bormio",
+            "hu": "Bormio Városháza",
+            "ro": "Primăria Bormio",
+            "en": "Municipio di Bormio"
+          },
+          "coords": [
+            10.376211,
+            46.469356
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Rathaus, dessen schöne Holzbalkone und Zifferblatt die Geschichte der Alpen erzählen, und prüfen Sie das Schwarze Brett auf abendliche Veranstaltungen.",
+            "hu": "Fedezze fel a történelmi városházát, melynek gyönyörű fa erkélyei és óralapja az alpesi kormányzásról mesél, és nézze meg a hirdetőtáblát az esti helyi eseményekért.",
+            "ro": "Explorați primăria istorică ale cărei balcoane frumoase din lemn spun povestea guvernării alpine și verificați panoul de anunțuri pentru evenimentele locale de seară.",
+            "en": "Explore the historic town hall whose beautiful wooden balconies and clock face tell the story of Alpine governance, and check the notice board for local evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mineralogico Naturalistico Valli di Bormio",
+            "hu": "Bormio Völgyeinek Ásványtani Múzeuma",
+            "ro": "Muzeul Mineralogic Bormio",
+            "en": "Museo Mineralogico Naturalistico Valli di Bormio"
+          },
+          "coords": [
+            10.370132,
+            46.474436
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine umfangreiche Sammlung seltener alpiner Kristalle, die den geologischen Reichtum der Alpen zeigt, und fragen Sie nach den fluoreszierenden Mineralien im hinteren Teil.",
+            "hu": "Fedezze fel a ritka alpesi kristályok kiterjedt gyűjteményét, amely bemutatja az Alpok geológiai gazdagságát, és kérdezze a személyzetet a hátul lévő fluoreszkáló ásványokról.",
+            "ro": "Descoperiți o colecție vastă de cristale alpine rare care dezvăluie bogăția geologică a Alpilor și întrebați personalul despre mineralele fluorescente expuse în spate.",
+            "en": "Discover an extensive collection of rare alpine crystals that reveal the geological richness of the Alps, asking the staff about the fluorescent minerals display in the back."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino Botanico Alpino \"Rezia\"",
+            "hu": "Rezia Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină Rezia",
+            "en": "Giardino Botanico Alpino \"Rezia\""
+          },
+          "coords": [
+            10.371662,
+            46.476257
+          ],
+          "category": "park",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen hochgelegenen botanischen Garten, um widerstandsfähige Alpenflora aus der ganzen Welt zu sehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ezen a magasan fekvő botanikus kerten, hogy ellenálló alpesi növényeket láthasson a világ minden tájáról, és viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă prin această grădină botanică de mare altitudine pentru a vedea flora alpină rezilientă din întreaga lume și purtați încălțăminte confortabilă pentru potecile inegale din piatră.",
+            "en": "Wander through this high-altitude botanical garden to see resilient Alpine flora from across the world, making sure to wear comfortable shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Nuovi",
+            "hu": "Bagni Nuovi",
+            "ro": "Bagni Nuovi",
+            "en": "Bagni Nuovi"
+          },
+          "coords": [
+            10.360504,
+            46.486115
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diese großen Thermalbäder aus dem 19. Jahrhundert ein, die von Natur umgeben sind, und buchen Sie Ihren Eintritt im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el ezekben a nagy, 19. századi, természettel körülvett termálfürdőkben, és foglalja le előre a belépőjét online, hogy elkerülje a várakozást.",
+            "ro": "Cufundați-vă în aceste mari băi termale din secolul al XIX-lea, înconjurate de natură, și rezervați-vă intrarea online în avans pentru a evita cozile.",
+            "en": "Immerse yourself in these grand 19th-century thermal baths with outdoor pools surrounded by nature, booking your entrance online in advance to skip the frequent queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni romani",
+            "hu": "Bagni romani",
+            "ro": "Bagni romani",
+            "en": "Bagni romani"
+          },
+          "coords": [
+            10.36023,
+            46.492146
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie historische Entspannung in diesen antiken römischen Höhlenbädern, die direkt in den Felsen gehauen wurden, und gehen Sie vorsichtig auf den rutschigen Steinböden.",
+            "hu": "Tapasztalja meg a történelmi pihenést ezekben az egyenesen a sziklába vájt ókori római barlangfürdőkben, és lépkedjen óvatosan a csúszós kőpadlón.",
+            "ro": "Experimentați relaxarea istorică în aceste băi romane antice sculptate direct în stâncă, pășind cu grijă deoarece podele din piatră pot fi alunecoase.",
+            "en": "Experience the ultimate historical relaxation in these ancient Roman cavern baths carved directly into the mountain rock, stepping carefully as the stone floors can be slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an der historischen Steinbrücke, spüren Sie die morgendliche Brise und radeln Sie gemütlich durch die alten Straßen der Stadt.\n\nGegen Mittag erkunden Sie die kulturellen Highlights des Zentrums, schlendern durch Museen und wunderschöne alte Kirchen im geschäftigen Herzen von Bormio.\n\nAm Nachmittag radeln Sie etwas bergauf zu den berühmten Alpenparks und Thermalgebieten, wo die Luft frischer und die Aussicht auf die Täler atemberaubend wird.\n\nLassen Sie den Tag mit tiefer Entspannung in den historischen römischen Bädern außerhalb der Stadt ausklingen und genießen Sie die ruhige Atmosphäre in der Natur.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi kőhídnál, érezze a reggeli szellőt, és kerekezzen kényelmesen a város régi utcáin át, megcsodálva a kilátást.\n\nDél körül fedezze fel a központ kulturális látnivalóit, tegyen egy kört a múzeumok és gyönyörű régi templomok között Bormio nyüzsgő szívében.\n\nDélután tekerjen kissé felfelé a híres alpesi parkok és termálvidékek felé, ahol a levegő frissebbé válik, a kilátás a völgyekre pedig lélegzetelállító.\n\nFejezze be a napot mély ellazulással a városon kívüli történelmi római fürdőkben, és élvezze a természet nyugodt, csendes légkörét.",
+        "ro": "Începeți aventura pe bicicletă la podul istoric de piatră, simțind briza dimineții și pedalând pe îndelete pe străzile vechi ale orașului.\n\nÎn jurul prânzului, explorați atracțiile culturale din centru, plimbându-vă prin muzee și biserici vechi frumoase în inima plină de viață a orașului Bormio.\n\nDupă-amiaza, pedalați ușor în urcare către faimoasele parcuri alpine și zone termale, unde aerul devine mai proaspăt, iar vederea asupra văilor este uimitoare.\n\nÎncheiați ziua cu o relaxare profundă în băile romane istorice din afara orașului, bucurându-vă de atmosfera liniștită a naturii și apusul blând.",
+        "en": "Begin your cycling adventure at the historic stone bridge, feeling the crisp morning breeze as you pedal leisurely through the ancient, charming streets of the town.\n\nAround midday, explore the cultural highlights of the center, cycling between insightful museums and beautiful old churches right in the bustling heart of Bormio.\n\nIn the afternoon, ride gently uphill towards the famous alpine parks and thermal districts, where the air grows fresher and the valley views become breathtaking.\n\nConclude your active day with deep historical relaxation in the ancient Roman baths situated outside town, soaking in the tranquil natural atmosphere as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 9.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte \"Venini\"",
+            "hu": "Venini Erőd",
+            "ro": "Fortăreața Venini",
+            "en": "Forte \"Venini\""
+          },
+          "coords": [
+            10.339349,
+            46.468409
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene Festung aus dem Ersten Weltkrieg, um die alpine Militärgeschichte zu verstehen, und bringen Sie eine warme Jacke für die kühlen Gänge mit.",
+            "hu": "Fedezze fel ezt a jól megőrzött első világháborús erődöt, hogy megértse az alpesi hadtörténetet, és hozzon magával meleg kabátot a hűvös folyosók miatt.",
+            "ro": "Explorați această fortăreață bine conservată din Primul Război Mondial pentru a înțelege istoria militară alpină și aduceți o jachetă caldă pentru coridoarele răcoroase.",
+            "en": "Explore this well-preserved World War I fortress to understand the strategic military history of the alpine borders, bringing a warm jacket since the internal corridors remain quite cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni romani",
+            "hu": "Bagni romani",
+            "ro": "Bagni romani",
+            "en": "Bagni romani"
+          },
+          "coords": [
+            10.36023,
+            46.492146
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erleben Sie historische Entspannung in diesen antiken römischen Höhlenbädern, die direkt in den Felsen gehauen wurden, und gehen Sie vorsichtig auf den rutschigen Steinböden.",
+            "hu": "Tapasztalja meg a történelmi pihenést ezekben az egyenesen a sziklába vájt ókori római barlangfürdőkben, és lépkedjen óvatosan a csúszós kőpadlón.",
+            "ro": "Experimentați relaxarea istorică în aceste băi romane antice sculptate direct în stâncă, pășind cu grijă deoarece podele din piatră pot fi alunecoase.",
+            "en": "Experience the ultimate historical relaxation in these ancient Roman cavern baths carved directly into the mountain rock, stepping carefully as the stone floors can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Nuovi",
+            "hu": "Bagni Nuovi",
+            "ro": "Bagni Nuovi",
+            "en": "Bagni Nuovi"
+          },
+          "coords": [
+            10.360504,
+            46.486115
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diese großen Thermalbäder aus dem 19. Jahrhundert ein, die von Natur umgeben sind, und buchen Sie Ihren Eintritt im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el ezekben a nagy, 19. századi, természettel körülvett termálfürdőkben, és foglalja le előre a belépőjét online, hogy elkerülje a várakozást.",
+            "ro": "Cufundați-vă în aceste mari băi termale din secolul al XIX-lea, înconjurate de natură, și rezervați-vă intrarea online în avans pentru a evita cozile.",
+            "en": "Immerse yourself in these grand 19th-century thermal baths with outdoor pools surrounded by nature, booking your entrance online in advance to skip the frequent queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino Botanico Alpino \"Rezia\"",
+            "hu": "Rezia Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină Rezia",
+            "en": "Giardino Botanico Alpino \"Rezia\""
+          },
+          "coords": [
+            10.371662,
+            46.476257
+          ],
+          "category": "park",
+          "arrive_at": "14:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen hochgelegenen botanischen Garten, um widerstandsfähige Alpenflora aus der ganzen Welt zu sehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon végig ezen a magasan fekvő botanikus kerten, hogy ellenálló alpesi növényeket láthasson a világ minden tájáról, és viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă prin această grădină botanică de mare altitudine pentru a vedea flora alpină rezilientă din întreaga lume și purtați încălțăminte confortabilă pentru potecile inegale din piatră.",
+            "en": "Wander through this high-altitude botanical garden to see resilient Alpine flora from across the world, making sure to wear comfortable shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Gervasio e Protasio",
+            "hu": "Santi Gervasio e Protasio templom",
+            "ro": "Biserica Sfinților Gervasio și Protasio",
+            "en": "Chiesa dei Santi Gervasio e Protasio"
+          },
+          "coords": [
+            10.377943,
+            46.467547
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die verzierten Holzaltäre und weitläufigen Gewölbedecken zu bewundern, und halten Sie Ausschau nach der historischen Orgel auf dem großen oberen Balkon.",
+            "hu": "Lépjen be, hogy megcsodálja a díszes faoltárokat és a hatalmas boltozatos mennyezetet, és mindenképpen figyelje meg a nagyszerű felső erkélyen található történelmi orgonát.",
+            "ro": "Pășiți înăuntru pentru a admira altarele ornamentate din lemn și tavanele boltite, fiind atenți la orga istorică situată pe balconul superior grandios.",
+            "en": "Step inside to marvel at the ornate wooden altars and expansive vaulted ceilings, keeping an eye out for the historic organ located on the grand upper balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Gesa Rota",
+            "hu": "Gesa Rota",
+            "ro": "Gesa Rota",
+            "en": "Gesa Rota"
+          },
+          "coords": [
+            10.380743,
+            46.468687
+          ],
+          "category": "natural",
+          "arrive_at": "16:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese stimmungsvollen Kirchenruinen, die einen friedlichen Rückzugsort bieten, und bringen Sie Ihre Kamera mit, um die dramatische Bergkulisse einzufangen.",
+            "hu": "Látogasson el ezekhez a hangulatos templomromokhoz, amelyek békés menedéket nyújtanak, és hozza magával fényképezőgépét, hogy megörökítse a drámai hegyi hátteret.",
+            "ro": "Vizitați aceste ruine de biserică pline de atmosferă care oferă un refugiu pașnic și aduceți-vă aparatul foto pentru a surprinde fundalul montan dramatic.",
+            "en": "Visit these evocative church ruins that offer a peaceful retreat and a glimpse into medieval valley life, bringing your camera to capture the dramatic mountain backdrop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur beeindruckenden Festung außerhalb der Stadt, wo Sie die strategische Militärgeschichte in der frischen Alpenluft greifen können.\n\nGegen Mittag steuern Sie die weltberühmten Thermalbäder an, parken bequem und tauchen ein in jahrhundertealte römische Traditionen und Heilwasser.\n\nAm Nachmittag fahren Sie zurück in die Stadt, um die grüne Oase des Botanischen Gartens und den historischen Charme des zentralen Platzes zu erleben.\n\nLassen Sie den Tag mit einer kurzen Fahrt zu ruhigen Ruinen am Rande von Bormio ausklingen, die eine perfekte Kulisse für abendliche Fotos bieten.",
+        "hu": "Vessen egy pillantást az erődítményre a városon kívül a reggeli órákban, ahol a stratégiai hadtörténelem szinte tapintható a friss alpesi levegőn.\n\nDél körül vegye az irányt a világhírű termálfürdők felé, parkoljon le kényelmesen, és merüljön el az évszázados római hagyományokban és gyógyvizekben.\n\nDélután hajtson vissza a városba, hogy megtapasztalja a botanikus kert zöld oázisát és a központi tér történelmi báját, kulturális látnivalóit.\n\nZárja a napot egy rövid autóúttal a Bormio szélén található csendes romokhoz, amelyek tökéletes hátteret nyújtanak az esti fotózáshoz.",
+        "ro": "Conduceți spre fortăreața impresionantă din afara orașului dimineața, unde istoria militară strategică este palpabilă în aerul alpin curat.\n\nÎn jurul prânzului, îndreptați-vă spre faimoasele băi termale, parcând convenabil și scufundându-vă în secole de tradiții romane și ape vindecătoare.\n\nDupă-amiaza, întoarceți-vă în oraș pentru a experimenta oaza verde a grădinii botanice și farmecul istoric al pieței centrale.\n\nÎncheiați ziua cu o scurtă plimbare cu mașina către ruinele liniștite de la marginea orașului Bormio, oferind un fundal perfect pentru fotografiile de seară.",
+        "en": "Drive to the impressive fortress situated just outside town in the morning, where strategic military history comes alive in the crisp, refreshing alpine air.\n\nAround midday, navigate towards the world-renowned thermal bath complexes, parking easily to soak up centuries of Roman traditions and healing thermal waters.\n\nIn the afternoon, cruise back into the heart of Bormio to discover the vibrant green oasis of the botanical garden and the historical charm of the central churches.\n\nCap off your driving tour with a very short trip to the evocative medieval ruins at the edge of town, providing an absolutely perfect dramatic backdrop for evening photography."
+      }
+    }
+  }
+}

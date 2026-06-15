@@ -1,0 +1,451 @@
+{
+  "city_id": "france-la-tranche-sur-mer-cities-v2",
+  "anchor": {
+    "name": "La Tranche-sur-Mer",
+    "coords": [
+      -1.43805,
+      46.34401
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas",
+            "hu": "Saint-Nicolas",
+            "ro": "Saint-Nicolas",
+            "en": "Saint-Nicolas"
+          },
+          "coords": [
+            -1.438055,
+            46.343282
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
+            "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pôle Culturel Les Floralies",
+            "hu": "Pôle Culturel Les Floralies",
+            "ro": "Pôle Culturel Les Floralies",
+            "en": "Pôle Culturel Les Floralies"
+          },
+          "coords": [
+            -1.44898,
+            46.347055
+          ],
+          "category": "cultural",
+          "arrive_at": "10:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Kulturveranstaltungen und Ausstellungen an diesem lebendigen Treffpunkt, und prüfen Sie vorab das Programm für besondere Aufführungen.",
+            "hu": "Fedezze fel a helyi kulturális eseményeket és kiállításokat ebben a nyüzsgő közösségi térben, de előtte mindenképp ellenőrizze az előadások menetrendjét.",
+            "ro": "Explorați evenimentele culturale și expozițiile locale la acest centru comunitar vibrant, asigurându-vă că verificați programul pentru spectacole speciale.",
+            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Génerelles",
+            "hu": "Les Génerelles",
+            "ro": "Les Génerelles",
+            "en": "Les Génerelles"
+          },
+          "coords": [
+            -1.442638,
+            46.340471
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang entlang dieses unberührten Küstenabschnitts und bringen Sie eine leichte Jacke mit, da die Meeresbrise frisch sein kann.",
+            "hu": "Tegyen egy frissítő sétát ezen az érintetlen partvidéken, és hozzon magával egy könnyű kabátot, mivel az óceáni szellő meglepően hűvös lehet.",
+            "ro": "Faceți o plimbare revigorantă de-a lungul acestei coaste imaculate de agrement, aducând o jachetă ușoară, deoarece briza oceanului poate fi răcoroasă.",
+            "en": "Take a refreshing walk along this pristine recreational stretch of coast, bringing a light jacket as the ocean breeze can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -1.433751,
+            46.342187
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand des Hauptstrandes der Stadt und kommen Sie früh, um einen guten Platz zu sichern, bevor die Menschenmengen eintreffen.",
+            "hu": "Pihenjen a város fő strandjának aranyhomokján, és érkezzen korán, hogy jó helyet biztosítson magának, mielőtt a déli napfény előcsalogatja a tömeget.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei principale, sosind devreme pentru a vă asigura un loc bun înainte ca soarele amiezii să aducă mulțimile.",
+            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grière",
+            "hu": "Plage de la Grière",
+            "ro": "Plage de la Grière",
+            "en": "Plage de la Grière"
+          },
+          "coords": [
+            -1.422012,
+            46.345838
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen Oststrand, wo das ruhigere Wasser perfekt für ein spätes Nachmittagsschwimmen und den Sonnenuntergang ist.",
+            "hu": "Zárja a napot ezen a tágas keleti strandon, ahol a nyugodtabb vizek tökéletesek egy késő délutáni úszáshoz és a gyönyörű naplemente megfigyeléséhez.",
+            "ro": "Încheiați-vă ziua pe această plajă estică întinsă, unde apele mai calme sunt perfecte pentru o baie de după-amiază și pentru a observa apusul.",
+            "en": "Conclude your day at this expansive eastern beach where the calmer waters are perfect for a late afternoon swim and observing the beautiful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der ruhigen Atmosphäre der Kirche Saint-Nicolas direkt im Zentrum. Wenn das Dorf erwacht, können Sie die klassische französische Küstenatmosphäre in sich aufnehmen.\n\nGehen Sie zum Pôle Culturel Les Floralies, um in Kunst und Kultur einzutauchen. Danach zieht es Sie näher ans Wasser bei Les Génerelles, um die erfrischende Meeresbrise zu genießen.\n\nVerbringen Sie einen herrlichen Nachmittag an dem weiten Sandstrand von Grande Plage. Das rhythmische Rauschen der Wellen bildet die perfekte Kulisse für Ihre Entspannung.\n\nBeenden Sie Ihren Rundgang am Plage de la Grière, wenn das Nachmittagslicht weicher wird. Genießen Sie eine friedliche Abenddämmerung und blicken Sie auf einen wunderschönen Tag zurück.",
+        "hu": "Kezdje a reggelt a Saint-Nicolas templom csendes spirituális hangulatával a központban. Ahogy a falu felébred, szívja magába a klasszikus francia tengerparti városok egyedi atmoszféráját.\n\nSétáljon át a Pôle Culturel Les Floralies felé, hogy elmerüljön a helyi kultúrában. Ezután menjen közelebb a vízhez a Les Génerelles-nél, hogy élvezze a frissítő óceáni szellőt.\n\nTöltsön el egy csodálatos délutánt a Grande Plage hatalmas homokos partszakaszán. A hullámok ritmikus hangja tökéletes hátteret biztosít a teljes kikapcsolódáshoz és pihenéshez.\n\nZárja gyalogos túráját a Plage de la Grière-en, miközben a délutáni fények lágyabbá válnak. Élvezze a békés tengerparti szürkületet, visszagondolva a csodás napra.",
+        "ro": "Începeți dimineața cu ambianța spirituală liniștită a bisericii Saint-Nicolas din centru. Pe măsură ce satul se trezește, savurați atmosfera clasică a unui oraș de coastă francez.\n\nÎndreptați-vă spre Pôle Culturel Les Floralies pentru a vă scufunda în arta locală. Apoi, mergeți mai aproape de apă la Les Génerelles pentru a prinde briza revigorantă a oceanului.\n\nPetreceți o după-amiază glorioasă la soare pe plaja vastă de nisip Grande Plage. Sunetul ritmic al valurilor creează un fundal perfect pentru o relaxare completă.\n\nÎncheiați turul la Plage de la Grière pe măsură ce lumina se înmoaie. Bucurați-vă de un amurg pașnic la malul mării, reflectând la o zi frumoasă petrecută pe coasta Vendée.",
+        "en": "Start your morning with the quiet spiritual ambiance of Saint-Nicolas church right in the center. As the village awakens, take your time absorbing the classic French coastal town atmosphere.\n\nTransition towards the Pôle Culturel Les Floralies to immerse yourself in local arts and culture. Afterwards, head closer to the water at Les Génerelles to catch the refreshing ocean breeze.\n\nSpend a glorious afternoon soaking up the sun on the vast sandy expanse of Grande Plage. The rhythmic sound of the waves creates a perfect backdrop for ultimate relaxation.\n\nConclude your walking tour at Plage de la Grière as the late afternoon light softens. Enjoy a peaceful seaside twilight, reflecting on a beautiful day spent on the Vendée coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare du Grouin du Cou",
+            "hu": "Phare du Grouin du Cou",
+            "ro": "Phare du Grouin du Cou",
+            "en": "Phare du Grouin du Cou"
+          },
+          "coords": [
+            -1.463628,
+            46.344542
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke vom Fuß dieses historischen Leuchtturms, den Sie idealerweise bei Ebbe besuchen, um die Felsen zu erkunden.",
+            "hu": "Örökítse meg a lenyűgöző panorámát a történelmi világítótorony lábától, amelyet ideális apálykor meglátogatni, hogy felfedezze a környező sziklákat.",
+            "ro": "Surprindeți vederi panoramice uimitoare de la baza acestui far istoric, vizitând ideal la mareea joasă pentru a explora stâncile înconjurătoare.",
+            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Phare",
+            "hu": "Le Phare",
+            "ro": "Le Phare",
+            "en": "Le Phare"
+          },
+          "coords": [
+            -1.46526,
+            46.343371
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerischen Freizeitflächen rund um den Leuchtturm und packen Sie ein kleines Picknick ein, um die maritime Atmosphäre zu kosten.",
+            "hu": "Élvezze a világítótornyot körülvevő festői rekreációs területet, és vigyen magával egy kis pikniket, hogy kiélvezze a sós levegőt és a tengeri hangulatot.",
+            "ro": "Bucurați-vă de zonele de agrement pitorești din jurul farului, pregătind un mic picnic pentru a savura aerul sărat și atmosfera maritimă dramatică.",
+            "en": "Enjoy the scenic recreational grounds surrounding the lighthouse, packing a small picnic to savor the salty air and dramatic maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas",
+            "hu": "Saint-Nicolas",
+            "ro": "Saint-Nicolas",
+            "en": "Saint-Nicolas"
+          },
+          "coords": [
+            -1.438055,
+            46.343282
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
+            "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -1.433751,
+            46.342187
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand des Hauptstrandes der Stadt und kommen Sie früh, um einen guten Platz zu sichern, bevor die Menschenmengen eintreffen.",
+            "hu": "Pihenjen a város fő strandjának aranyhomokján, és érkezzen korán, hogy jó helyet biztosítson magának, mielőtt a déli napfény előcsalogatja a tömeget.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei principale, sosind devreme pentru a vă asigura un loc bun înainte ca soarele amiezii să aducă mulțimile.",
+            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Grière-Plage",
+            "hu": "Chapelle de la Grière-Plage",
+            "ro": "Chapelle de la Grière-Plage",
+            "en": "Chapelle de la Grière-Plage"
+          },
+          "coords": [
+            -1.409476,
+            46.348106
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Halten Sie für einen Moment der Besinnung an dieser bescheidenen Strandkapelle, einem versteckten Juwel, das sich zwischen den Pinienbäumen verbirgt.",
+            "hu": "Tartson egy pillanatnyi elmélkedést ezen a szerény tengerparti kápolnánál, amely egy fenyőfák között megbúvó, jellegzetes regionális bájt sugárzó rejtett gyöngyszem.",
+            "ro": "Faceți o pauză de reflecție la această capelă modestă de la malul mării, o bijuterie ascunsă fermecătoare, cuibărită printre pini.",
+            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Atlantique",
+            "hu": "Plage de l'Atlantique",
+            "ro": "Plage de l'Atlantique",
+            "en": "Plage de l'Atlantique"
+          },
+          "coords": [
+            -1.410354,
+            46.343932
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die rohe Kraft des Atlantiks an diesem dynamischen Küstenabschnitt, perfekt für einen belebenden Nachmittagsspaziergang an den Wellen.",
+            "hu": "Tapasztalja meg az Atlanti-óceán nyers erejét ezen a dinamikus partvidéken, amely tökéletes egy frissítő késő délutáni sétához a hullámok mentén.",
+            "ro": "Experimentați puterea brută a Atlanticului pe această coastă dinamică, perfectă pentru o plimbare revigorantă de după-amiază târziu de-a lungul valurilor.",
+            "en": "Experience the raw power of the Atlantic at this dynamic stretch of coastline, perfect for an invigorating late-afternoon stroll along the crashing waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie an den westlichen Rand zum Wahrzeichen Phare du Grouin du Cou. Die frische Meeresluft rund um den Leuchtturm sorgt für einen belebenden Start in Ihre Tour.\n\nFahren Sie zurück ins Zentrum, um die Kirche Saint-Nicolas zu bewundern, und radeln Sie dann hinunter zur Grande Plage für eine wohlverdiente Pause an der lebhaften Küste.\n\nFolgen Sie den Küstenwegen nach Osten zur bezaubernden Chapelle de la Grière-Plage, einem wunderbaren Ort zwischen Pinien, der sich für eine ruhige Pause anbietet.\n\nBeenden Sie Ihr Fahrradabenteuer am Plage de l'Atlantique. Die brechenden Wellen und die weite Aussicht bieten eine spektakuläre Kulisse, während der Tag sich dem Ende neigt.",
+        "hu": "Tekerjen ki a nyugati peremre, hogy megnézze az ikonikus Phare du Grouin du Cou világítótornyot. A friss óceáni levegő élénkítő alaphangot ad a kerékpártúrának.\n\nKerékpározzon vissza a város szívébe, csodálja meg a Saint-Nicolas templomot, majd guruljon le a Grande Plage-ra egy megérdemelt pihenőre a nyüzsgő főparton.\n\nNavigáljon a part menti utakon kelet felé a bájos Chapelle de la Grière-Plage-hoz. Ez a fenyők között megbúvó csodás hely tökéletes egy kis békés kikapcsolódáshoz.\n\nFejezze be kerékpáros kalandját a Plage de l'Atlantique-on. A becsapódó hullámok és a tágas kilátás látványos, drámai hátteret biztosít a nap lezárásához.",
+        "ro": "Pedalați până la marginea vestică pentru a vedea faimosul Phare du Grouin du Cou. Aerul proaspăt al oceanului din jurul farului oferă un ton revigorant pentru plimbare.\n\nÎntoarceți-vă în inima orașului pentru a admira biserica Saint-Nicolas, apoi coborâți la Grande Plage pentru o pauză bine meritată de-a lungul coastei principale.\n\nNavigați pe potecile de coastă spre est până la fermecătoarea Chapelle de la Grière-Plage, un loc minunat, cuibărit lângă pini, unde vă puteți bucura de liniște.\n\nTerminați aventura cu bicicleta la Plage de l'Atlantique. Valurile care se sparg și vederile expansive oferă un decor spectaculos pe măsură ce ziua se apropie de sfârșit.",
+        "en": "Pedal out to the western edge to see the iconic Phare du Grouin du Cou. The fresh ocean air around the lighthouse area sets a brisk and invigorating tone for your ride.\n\nCycle back into the heart of town to admire Saint-Nicolas church, then ride down to Grande Plage for a well-deserved break along the vibrant main shoreline.\n\nNavigate the coastal paths eastward towards the charming Chapelle de la Grière-Plage, a wonderful spot nestled near the pines where you can enjoy some peaceful downtime.\n\nFinish your cycling adventure at Plage de l'Atlantique. The crashing waves and expansive views provide a spectacular and dramatic setting as your day winds to a close."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de la Terrière",
+            "hu": "Chapelle de la Terrière",
+            "ro": "Chapelle de la Terrière",
+            "en": "Chapelle de la Terrière"
+          },
+          "coords": [
+            -1.455735,
+            46.360981
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser historischen Nordkapelle, beachten Sie die traditionelle Architektur und genießen Sie das friedliche ländliche Ambiente.",
+            "hu": "Kezdje utazását ennél az északi kápolnánál, figyelje meg hagyományos építészetét, és élvezze a békés vidéki hangulatot, mielőtt a partra indulna.",
+            "ro": "Începeți călătoria la această capelă istorică nordică, observând arhitectura sa tradițională și bucurându-vă de ambianța rurală pașnică.",
+            "en": "Start your journey at this historic northern chapel, noting its traditional architecture and enjoying the peaceful rural ambiance before heading to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Grouin du Cou",
+            "hu": "Phare du Grouin du Cou",
+            "ro": "Phare du Grouin du Cou",
+            "en": "Phare du Grouin du Cou"
+          },
+          "coords": [
+            -1.463628,
+            46.344542
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke vom Fuß dieses historischen Leuchtturms, den Sie idealerweise bei Ebbe besuchen, um die Felsen zu erkunden.",
+            "hu": "Örökítse meg a lenyűgöző panorámát a történelmi világítótorony lábától, amelyet ideális apálykor meglátogatni, hogy felfedezze a környező sziklákat.",
+            "ro": "Surprindeți vederi panoramice uimitoare de la baza acestui far istoric, vizitând ideal la mareea joasă pentru a explora stâncile înconjurătoare.",
+            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Pôle Culturel Les Floralies",
+            "hu": "Pôle Culturel Les Floralies",
+            "ro": "Pôle Culturel Les Floralies",
+            "en": "Pôle Culturel Les Floralies"
+          },
+          "coords": [
+            -1.44898,
+            46.347055
+          ],
+          "category": "cultural",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Kulturveranstaltungen und Ausstellungen an diesem lebendigen Treffpunkt, und prüfen Sie vorab das Programm für besondere Aufführungen.",
+            "hu": "Fedezze fel a helyi kulturális eseményeket és kiállításokat ebben a nyüzsgő közösségi térben, de előtte mindenképp ellenőrizze az előadások menetrendjét.",
+            "ro": "Explorați evenimentele culturale și expozițiile locale la acest centru comunitar vibrant, asigurându-vă că verificați programul pentru spectacole speciale.",
+            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas",
+            "hu": "Saint-Nicolas",
+            "ro": "Saint-Nicolas",
+            "en": "Saint-Nicolas"
+          },
+          "coords": [
+            -1.438055,
+            46.343282
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
+            "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Grière-Plage",
+            "hu": "Chapelle de la Grière-Plage",
+            "ro": "Chapelle de la Grière-Plage",
+            "en": "Chapelle de la Grière-Plage"
+          },
+          "coords": [
+            -1.409476,
+            46.348106
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Halten Sie für einen Moment der Besinnung an dieser bescheidenen Strandkapelle, einem versteckten Juwel, das sich zwischen den Pinienbäumen verbirgt.",
+            "hu": "Tartson egy pillanatnyi elmélkedést ezen a szerény tengerparti kápolnánál, amely egy fenyőfák között megbúvó, jellegzetes regionális bájt sugárzó rejtett gyöngyszem.",
+            "ro": "Faceți o pauză de reflecție la această capelă modestă de la malul mării, o bijuterie ascunsă fermecătoare, cuibărită printre pini.",
+            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Clémenceau",
+            "hu": "Plage Clémenceau",
+            "ro": "Plage Clémenceau",
+            "en": "Plage Clémenceau"
+          },
+          "coords": [
+            -1.412703,
+            46.345184
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten und etwas ruhigeren Strand, einer ausgezeichneten Wahl für einen friedlichen Nachmittag oder zum Sandburgenbauen.",
+            "hu": "Kapcsolódjon ki ezen az érintetlen és kissé csendesebb strandon, amely kiváló választás egy békés délutáni olvasáshoz vagy homokvár építéshez.",
+            "ro": "Relaxați-vă pe această plajă imaculată și mai liniștită, o alegere excelentă pentru o după-amiază pașnică de lectură sau pentru a construi castele de nisip.",
+            "en": "Unwind at this pristine and slightly quieter beach, an excellent choice for a peaceful afternoon reading session or building sandcastles with family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Norden zur traditionellen Chapelle de la Terrière. Danach geht es zum westlichsten Punkt der Stadt, um den beeindruckenden Phare du Grouin du Cou zu betrachten.\n\nParken Sie im Zentrum, um Kunst im Pôle Culturel Les Floralies zu erleben. Ein kurzer Stopp an der zentralen Kirche Saint-Nicolas bietet einen schönen architektonischen Kontrast.\n\nFahren Sie ostwärts zur ruhigen Chapelle de la Grière-Plage. Mit dem Auto können Sie bequem zwischen diesen kulturellen und religiösen Sehenswürdigkeiten wechseln.\n\nBeenden Sie Ihre malerische Fahrt an der Plage Clémenceau. Dieser ruhigere Strandabschnitt ist der perfekte Ort, um abzuschalten und den Abendhimmel über dem Wasser zu beobachten.",
+        "hu": "Vezessen kissé északra, hogy meglátogassa a hagyományos Chapelle de la Terrière-t. Ezután irány a város legnyugatibb pontja, hogy megcsodálja a Phare du Grouin du Cou-t.\n\nParkoljon le a központban, és ismerkedjen a helyi művészetekkel a Pôle Culturel Les Floralies-ben. A központi Saint-Nicolas templomnál tett rövid megálló szép kontrasztot nyújt.\n\nVezessen kelet felé a csendes Chapelle de la Grière-Plage-hoz. Az autó kényelme lehetővé teszi, hogy könnyedén ugráljon a kulturális és vallási nevezetességek között.\n\nZárja a festői parti autózást a Plage Clémenceau-nál. Ez a csendesebb homokos rész tökéletes hely a parkolásra, a lazításra és az esti égbolt átalakulásának megfigyelésére.",
+        "ro": "Conduceți ușor spre nord pentru a vizita tradiționala Chapelle de la Terrière. Apoi, mergeți la punctul extrem vestic al orașului pentru a privi impresionantul Phare du Grouin du Cou.\n\nParcați în centru pentru a interacționa cu artele locale la Pôle Culturel Les Floralies. O scurtă oprire la biserica centrală Saint-Nicolas oferă un frumos contrast arhitectural.\n\nConduceți spre est până la liniștita Chapelle de la Grière-Plage. Comoditatea unei mașini vă permite să treceți ușor între aceste repere culturale și religioase distincte.\n\nÎncheiați-vă plimbarea la Plage Clémenceau. Această porțiune mai liniștită de nisip este locul perfect pentru a vă relaxa și a privi cerul serii transformându-se deasupra apei.",
+        "en": "Drive slightly north to visit the traditional Chapelle de la Terrière. Afterwards, head to the extreme western point of the town to gaze upon the striking Phare du Grouin du Cou.\n\nPark near the center to engage with local arts at Pôle Culturel Les Floralies. A brief stop at the central Saint-Nicolas church offers a beautiful contrast of local architecture.\n\nDrive eastward to the tranquil Chapelle de la Grière-Plage. The convenience of a car allows you to easily hop between these distinct cultural and religious landmarks.\n\nEnd your scenic coastal drive at Plage Clémenceau. This quieter stretch of sand is the perfect place to park, unwind, and watch the evening sky transform over the water."
+      }
+    }
+  }
+}

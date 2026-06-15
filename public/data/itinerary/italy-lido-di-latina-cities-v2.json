@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-lido-di-latina-cities-v2",
+  "anchor": {
+    "name": "Lido di Latina",
+    "coords": [
+      12.84346,
+      41.41634
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 0.68,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Blanco Beach",
+            "hu": "Blanco Beach",
+            "ro": "Blanco Beach",
+            "en": "Blanco Beach"
+          },
+          "coords": [
+            12.844594,
+            41.414426
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Blanco Beach, einem erstklassigen Ort zum Sonnenbaden, der das Herz von Lido di Latina ausmacht; kommen Sie früh für die besten Liegen.",
+            "hu": "Élvezze a Blanco Beach pezsgő hangulatát, amely egy kiváló napozóhely és tökéletesen tükrözi Lido di Latina lényegét; érkezzen korán a legjobb tengerparti nyugágyakért.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Blanco Beach, un loc excelent pentru plajă care surprinde esența din Lido di Latina; sosiți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the lively atmosphere of Blanco Beach, a prime spot for sunbathing that captures the essence of Lido di Latina; arrive early to secure the best front-row loungers by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Totem",
+            "hu": "Totem",
+            "ro": "Totem",
+            "en": "Totem"
+          },
+          "coords": [
+            12.846098,
+            41.41385
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die entspannte Atmosphäre am Totem, einem charmanten Strandabschnitt mit goldenem Sand; bringen Sie einen eigenen Schirm mit, wenn Sie dem Trubel etwas entfliehen möchten.",
+            "hu": "Fedezze fel a Totem nyugodt hangulatát, ahol a finom aranyhomok és a lágy hullámok találkoznak; hozzon magával saját napernyőt, ha a tömegtől kissé távolabb szeretne pihenni.",
+            "ro": "Descoperiți vibrația relaxată de la Totem, o fâșie de plajă fermecătoare cu nisip auriu; aduceți-vă propria umbrelă dacă preferați să vă așezați mai departe de aglomerație.",
+            "en": "Discover the relaxed vibe at Totem, a charming recreational stretch where the golden sands meet gentle waves; bring your own beach umbrella if you prefer setting up away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Amarylli",
+            "hu": "Amarylli",
+            "ro": "Amarylli",
+            "en": "Amarylli"
+          },
+          "coords": [
+            12.847512,
+            41.413617
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der schönen Küste von Amarylli entlang, wo familienfreundliche Anlagen locken; besuchen Sie unbedingt die lokale Snackbar, um sich mit kalten Getränken zu erfrischen.",
+            "hu": "Sétáljon végig az Amarylli gyönyörű partján, ahol a családbarát szolgáltatások tökéletes menedéket nyújtanak; keresse fel a helyi büfét a hűsítő italokért a legnagyobb melegben.",
+            "ro": "Plimbați-vă de-a lungul coastei frumoase de la Amarylli, unde facilitățile prietenoase cu familiile oferă un refugiu perfect; verificați barul local pentru băuturi reci răcoritoare.",
+            "en": "Stroll along the beautiful shore at Amarylli, where family-friendly facilities make it a perfect daytime retreat; check the local snack bar for refreshing cold drinks during the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Nolivè",
+            "hu": "Lido Nolivè",
+            "ro": "Lido Nolivè",
+            "en": "Lido Nolivè"
+          },
+          "coords": [
+            12.848429,
+            41.413432
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Genießen Sie die mediterrane Sonne im Lido Nolivè, einem einladenden Küstenabschnitt, der für sein sauberes Wasser bekannt ist; vergessen Sie nicht, ausreichend Sonnencreme einzupacken.",
+            "hu": "Szívja magába a mediterrán napsütést a Lido Nolivè tiszta vizéről ismert, hívogató partszakaszán; ne felejtsen el bőségesen naptejet csomagolni, hogy egész nap védve legyen a naptól.",
+            "ro": "Bucurați-vă de soarele mediteranean la Lido Nolivè, o porțiune primitoare a coastei cunoscută pentru apele curate; nu uitați să împachetați multă cremă de protecție solară pentru zi.",
+            "en": "Soak up the Mediterranean sun at Lido Nolivè, an inviting section of the coast known for its clean waters; remember to pack plenty of sunscreen to protect yourself throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropicana",
+            "hu": "Tropicana",
+            "ro": "Tropicana",
+            "en": "Tropicana"
+          },
+          "coords": [
+            12.850286,
+            41.412979
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandkultur im Tropicana, das mit gepflegten Anlagen und fröhlichem Ambiente punktet; bringen Sie ein gutes Buch für entspannte Stunden unter der Sonne mit.",
+            "hu": "Tapasztalja meg a pezsgő tengerparti kultúrát a Tropicana strandján, amely jól karbantartott szolgáltatásokat kínál; hozzon egy jó könyvet, amit a melengető napfényben olvashat.",
+            "ro": "Experimentați cultura vibrantă a mării la Tropicana, care oferă facilități bine întreținute și un mediu vesel; aduceți o carte bună de citit în timp ce vă relaxați sub soarele cald.",
+            "en": "Experience the vibrant seaside culture at Tropicana, featuring well-maintained amenities and a joyful environment; bring a good book to read while you lounge under the warming sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Sandalo",
+            "hu": "Lido del Sandalo",
+            "ro": "Lido del Sandalo",
+            "en": "Lido del Sandalo"
+          },
+          "coords": [
+            12.852371,
+            41.412407
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Strandtag im Lido del Sandalo ausklingen und genießen Sie den ruhigen Sonnenuntergang über dem Meer; bleiben Sie etwas länger, um das Licht der goldenen Stunde zu sehen.",
+            "hu": "Zárja tengerparti napját a Lido del Sandalo finom homokján, élvezve a Tirrén-tenger felett nyugvó nap látványát; maradjon egy kicsit tovább, hogy megcsodálja az aranyóra fényeit.",
+            "ro": "Încheiați ziua de plajă la Lido del Sandalo, bucurându-vă de apusul senin peste Marea Tireniană; rămâneți puțin mai mult pentru a vedea cum cerul își schimbă culorile în ora de aur.",
+            "en": "Conclude your beach day at Lido del Sandalo, enjoying the serene sunset views over the Tyrrhenian Sea; stay a little longer to witness the sky change colors during the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im weichen Sand des Blanco Beach und genießen Sie die kühle Meeresbrise. Spazieren Sie langsam an der Küste entlang und erleben Sie die entspannte Atmosphäre bei Totem und Amarylli. Genießen Sie die warme Sonne im Lido Nolivè und die fröhliche Strandkultur im Tropicana. Beenden Sie Ihren Spaziergang am Lido del Sandalo mit Blick auf den traumhaften Sonnenuntergang.",
+        "hu": "Kezdje a napot a Blanco Beach puha homokján, élvezve a frissítő tengerparti szellőt. Sétáljon lassan a part mentén, befogadva a Totem és a közeli Amarylli nyüzsgő hangulatát. Élvezze a mediterrán napsütést a Lido Nolivè-n és a Tropicana szórakoztató fürdőkultúráját. Fejezze be pihentető sétáját a Lido del Sandalo strandon, csodálva a naplemente lenyűgöző színeit a víz felett.",
+        "ro": "Începeți ziua pe nisipul fin de la Blanco Beach, bucurându-vă de briza răcoroasă a mării. Plimbați-vă încet de-a lungul țărmului, admirând atmosfera vibrantă de la Totem și Amarylli. Bucurați-vă de soarele mediteranean la Lido Nolivè și de cultura distractivă de pe litoral la Tropicana. Încheiați plimbarea relaxantă la Lido del Sandalo, privind culorile uimitoare ale apusului de soare.",
+        "en": "Start your day with the soft sands of Blanco Beach, enjoying the refreshing coastal breeze. Move slowly along the shore, taking in the vibrant atmosphere at Totem and the nearby Amarylli. Soak up the Mediterranean sun at Lido Nolivè and experience the fun seaside culture at Tropicana. Finish your relaxing walk at Lido del Sandalo, watching the stunning colors of the sunset over the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte di Passo Genovese",
+            "hu": "Ponte di Passo Genovese",
+            "ro": "Ponte di Passo Genovese",
+            "en": "Ponte di Passo Genovese"
+          },
+          "coords": [
+            12.814213,
+            41.414912
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Ponte di Passo Genovese, einer faszinierenden Brücke aus alter Zeit; nehmen Sie Ihre Kamera für großartige Aufnahmen der Struktur mit.",
+            "hu": "Csodálja meg a Ponte di Passo Genovese történelmi építészetét, amely a korai partvidéki mérnöki munkákról mesél; feltétlenül hozza magával a fényképezőgépét a lenyűgöző felvételekhez.",
+            "ro": "Admirați arhitectura istorică a Ponte di Passo Genovese, un pod fascinant care spune povestea ingineriei de coastă timpurii; luați-vă aparatul foto pentru fotografii grozave ale structurii.",
+            "en": "Admire the historic architecture of Ponte di Passo Genovese, a fascinating bridge that tells the story of early coastal engineering; take your camera for great shots of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Boca Chica",
+            "hu": "Boca Chica",
+            "ro": "Boca Chica",
+            "en": "Boca Chica"
+          },
+          "coords": [
+            12.822434,
+            41.415652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Boca Chica, einem charmanten Strand, der lebhafte Aktivitäten und ruhige Ufer perfekt in Einklang bringt; holen Sie sich ein schnelles Eis an den nahegelegenen Ständen.",
+            "hu": "Pihenjen a Boca Chica strandon, amely tökéletesen egyensúlyozza a nyüzsgő programokat és a nyugodt partokat; vegyen egy gyors fagylaltot a közeli bódékban az azonnali felfrissülésért.",
+            "ro": "Relaxați-vă la Boca Chica, un loc fermecător pe plajă care echilibrează perfect activitățile pline de viață și țărmurile liniștite; luați o înghețată de la tarabele din apropiere pentru a vă răcori.",
+            "en": "Relax at Boca Chica, a charming local beach spot that perfectly balances lively activities and tranquil shorelines; grab a quick gelato from the nearby stalls to cool down instantly."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilimento balneare Aeronautica Militare",
+            "hu": "Stabilimento balneare Aeronautica Militare",
+            "ro": "Stabilimento balneare Aeronautica Militare",
+            "en": "Stabilimento balneare Aeronautica Militare"
+          },
+          "coords": [
+            12.82606,
+            41.415917
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Strandclub der Aeronautica Militare, der für seine gut organisierte Anlage bekannt ist; werfen Sie einen Blick auf die kleinen Ausstellungen, falls diese geöffnet sind.",
+            "hu": "Látogasson el az Aeronautica Militare strandklubba, amely jól szervezett elrendezéséről és az olasz légierő örökségéről ismert; tekintse meg a helyszíni kiállításokat, ha nyitva vannak.",
+            "ro": "Vizitați clubul de plajă Aeronautica Militare, cunoscut pentru aspectul său organizat și legătura cu patrimoniul forțelor aeriene italiene; verificați expozițiile de la fața locului dacă sunt deschise publicului.",
+            "en": "Visit the Aeronautica Militare beach club, known for its organized layout and connection to Italy's air force heritage; check out the on-site displays if they are open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Cancun",
+            "hu": "Cancun",
+            "ro": "Cancun",
+            "en": "Cancun"
+          },
+          "coords": [
+            12.832596,
+            41.415967
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die spaßige Umgebung des Cancun Strandes ein, ein Favorit bei jungen Reisenden für energiegeladene Vibes; machen Sie bei einem Beachvolleyballspiel mit, um Locals zu treffen.",
+            "hu": "Merüljön el a Cancun strand szórakoztató környezetében, amely a fiatal utazók kedvence az energikus hangulat miatt; csatlakozzon egy strandröplabda meccshez, hogy megismerje a helyieket.",
+            "ro": "Cufundați-vă în mediul distractiv al plajei Cancun, favorita printre tinerii călători care caută vibrații energice pe litoral; alăturați-vă unui joc de volei pe plajă pentru a întâlni localnicii.",
+            "en": "Immerse yourself in the fun environment of Cancun beach, a favorite among young travelers looking for energetic seaside vibes; join a game of beach volleyball to meet the friendly locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Blanco Beach",
+            "hu": "Blanco Beach",
+            "ro": "Blanco Beach",
+            "en": "Blanco Beach"
+          },
+          "coords": [
+            12.844594,
+            41.414426
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Blanco Beach, einem erstklassigen Ort zum Sonnenbaden, der das Herz von Lido di Latina ausmacht; kommen Sie früh für die besten Liegen.",
+            "hu": "Élvezze a Blanco Beach pezsgő hangulatát, amely egy kiváló napozóhely és tökéletesen tükrözi Lido di Latina lényegét; érkezzen korán a legjobb tengerparti nyugágyakért.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Blanco Beach, un loc excelent pentru plajă care surprinde esența din Lido di Latina; sosiți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the lively atmosphere of Blanco Beach, a prime spot for sunbathing that captures the essence of Lido di Latina; arrive early to secure the best front-row loungers by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropicana",
+            "hu": "Tropicana",
+            "ro": "Tropicana",
+            "en": "Tropicana"
+          },
+          "coords": [
+            12.850286,
+            41.412979
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandkultur im Tropicana, das mit gepflegten Anlagen und fröhlichem Ambiente punktet; bringen Sie ein gutes Buch für entspannte Stunden unter der Sonne mit.",
+            "hu": "Tapasztalja meg a pezsgő tengerparti kultúrát a Tropicana strandján, amely jól karbantartott szolgáltatásokat kínál; hozzon egy jó könyvet, amit a melengető napfényben olvashat.",
+            "ro": "Experimentați cultura vibrantă a mării la Tropicana, care oferă facilități bine întreținute și un mediu vesel; aduceți o carte bună de citit în timp ce vă relaxați sub soarele cald.",
+            "en": "Experience the vibrant seaside culture at Tropicana, featuring well-maintained amenities and a joyful environment; bring a good book to read while you lounge under the warming sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zur historischen Brücke Ponte di Passo Genovese, um die frühe Küstentechnik zu bewundern. Fahren Sie gemütlich die Küste entlang zum Boca Chica und dem Aeronautica Militare Strandclub. Genießen Sie die hohe Energie am Cancun Strand und fahren Sie weiter zum beliebten Blanco Beach. Entspannen Sie Ihre Beine im Tropicana und lassen Sie den Tag am Meer gemütlich und friedlich ausklingen.",
+        "hu": "Kerekezzen el a történelmi Ponte di Passo Genovese hídhoz, hogy megcsodálja a régi partvidéki építészetet. Tekerjen kényelmesen a part mentén a Boca Chica és az Aeronautica Militare strandklub felé. Tartsa magasan az energiaszintet a Cancun strandon, majd folytassa útját a népszerű Blanco Beach felé. Pihentesse meg lábait a Tropicana strandon, hagyva, hogy a lágy esti hullámok lezárják a napot.",
+        "ro": "Pedați până la istoricul Ponte di Passo Genovese pentru a admira fascinanta inginerie timpurie de coastă. Mergeți confortabil de-a lungul coastei spre Boca Chica și clubul de plajă Aeronautica Militare. Păstrați energia ridicată la plaja Cancun și continuați spre îndrăgita Blanco Beach. Odihniți-vă picioarele la Tropicana, lăsând valurile blânde ale serii să încheie plimbarea dumneavoastră activă.",
+        "en": "Pedal over to the historic Ponte di Passo Genovese to admire fascinating early coastal engineering. Ride comfortably along the coast to Boca Chica and the distinct Aeronautica Militare beach club. Keep the energy high at Cancun beach and continue your breezy journey to the well-loved Blanco Beach. Rest your legs at Tropicana, letting the gentle evening waves conclude your active outdoor ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.92,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sacratissimo Cuore di Gesù",
+            "hu": "Sacratissimo Cuore di Gesù",
+            "ro": "Sacratissimo Cuore di Gesù",
+            "en": "Sacratissimo Cuore di Gesù"
+          },
+          "coords": [
+            12.820323,
+            41.429119
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie Frieden im Sacratissimo Cuore di Gesù, einer eleganten Kirche mit modernem italienischem Design; senken Sie respektvoll die Stimme und bedecken Sie beim Betreten die Schultern.",
+            "hu": "Találjon békére a Sacratissimo Cuore di Gesù templomban, amely a modern olasz egyházi dizájnt mutatja be; tiszteletteljesen halkítsa le a hangját, és belépéskor fedje be a vállait.",
+            "ro": "Găsiți pacea la Sacratissimo Cuore di Gesù, o biserică elegantă care prezintă un design religios italian modern; coborâți respectuos vocea și asigurați-vă că umerii sunt acoperiți la intrare.",
+            "en": "Find peace at Sacratissimo Cuore di Gesù, an elegant religious site showcasing modern Italian church design; respectfully lower your voice and ensure your shoulders are covered upon entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Procoio",
+            "hu": "Procoio",
+            "ro": "Procoio",
+            "en": "Procoio"
+          },
+          "coords": [
+            12.818126,
+            41.425037
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Reisen Sie im Procoio-Museum in die Vergangenheit, um die landwirtschaftliche Geschichte der Region zu entdecken; planen Sie mindestens eine Stunde ein, um die ländlichen Exponate zu sehen.",
+            "hu": "Lépjen vissza az időben a Procoio múzeumban, felfedezve a régió mezőgazdasági múltját és egyedi történelmét; szánjon legalább egy órát arra, hogy teljes mértékben értékelje a kiállításokat.",
+            "ro": "Întoarceți-vă în timp la muzeul Procoio, descoperind trecutul agricol al regiunii și istoria unică a coastei; alocați cel puțin o oră pentru a aprecia pe deplin exponatele rurale variate.",
+            "en": "Step back in time at the Procoio museum, uncovering the region's agricultural past and unique coastal history; allocate at least an hour to fully appreciate the varied rural exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di Passo Genovese",
+            "hu": "Ponte di Passo Genovese",
+            "ro": "Ponte di Passo Genovese",
+            "en": "Ponte di Passo Genovese"
+          },
+          "coords": [
+            12.814213,
+            41.414912
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Ponte di Passo Genovese, einer faszinierenden Brücke aus alter Zeit; nehmen Sie Ihre Kamera für großartige Aufnahmen der Struktur mit.",
+            "hu": "Csodálja meg a Ponte di Passo Genovese történelmi építészetét, amely a korai partvidéki mérnöki munkákról mesél; feltétlenül hozza magával a fényképezőgépét a lenyűgöző felvételekhez.",
+            "ro": "Admirați arhitectura istorică a Ponte di Passo Genovese, un pod fascinant care spune povestea ingineriei de coastă timpurii; luați-vă aparatul foto pentru fotografii grozave ale structurii.",
+            "en": "Admire the historic architecture of Ponte di Passo Genovese, a fascinating bridge that tells the story of early coastal engineering; take your camera for great shots of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Tortuga Beach",
+            "hu": "Tortuga Beach",
+            "ro": "Tortuga Beach",
+            "en": "Tortuga Beach"
+          },
+          "coords": [
+            12.82982,
+            41.415529
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Erleben Sie den lebhaften Geist von Tortuga Beach, der hervorragende Sandqualität und eine einladende Atmosphäre bietet; mieten Sie ein Paddleboard, um das ruhige Wasser zu erkunden.",
+            "hu": "Tapasztalja meg a Tortuga Beach pezsgő szellemét, amely kiváló minőségű homokot és barátságos légkört kínál; béreljen egy SUP deszkát a kioszkban a nyugodt vizek felfedezéséhez.",
+            "ro": "Experimentați spiritul plin de viață de la Tortuga Beach, oferind o calitate excelentă a nisipului și o atmosferă primitoare; închiriați o placă cu vâsle pentru a explora apele calme.",
+            "en": "Experience the lively spirit of Tortuga Beach, offering excellent sand quality and a very welcoming atmosphere for all ages; rent a paddleboard from the kiosk to explore the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Sandalo",
+            "hu": "Lido del Sandalo",
+            "ro": "Lido del Sandalo",
+            "en": "Lido del Sandalo"
+          },
+          "coords": [
+            12.852371,
+            41.412407
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Strandtag im Lido del Sandalo ausklingen und genießen Sie den ruhigen Sonnenuntergang über dem Meer; bleiben Sie etwas länger, um das Licht der goldenen Stunde zu sehen.",
+            "hu": "Zárja tengerparti napját a Lido del Sandalo finom homokján, élvezve a Tirrén-tenger felett nyugvó nap látványát; maradjon egy kicsit tovább, hogy megcsodálja az aranyóra fényeit.",
+            "ro": "Încheiați ziua de plajă la Lido del Sandalo, bucurându-vă de apusul senin peste Marea Tireniană; rămâneți puțin mai mult pentru a vedea cum cerul își schimbă culorile în ora de aur.",
+            "en": "Conclude your beach day at Lido del Sandalo, enjoying the serene sunset views over the Tyrrhenian Sea; stay a little longer to witness the sky change colors during the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Landesinnere zum eleganten Sacratissimo Cuore di Gesù für einen friedlichen Start. Entdecken Sie die regionale Geschichte im Procoio-Museum und besuchen Sie die historische Brücke. Fahren Sie zurück ans Meer, um den feinen Sand und den lebhaften Geist von Tortuga Beach zu genießen. Machen Sie eine kurze Fahrt zum Lido del Sandalo und beobachten Sie den herrlichen Sonnenuntergang.",
+        "hu": "Vezessen a szárazföld belsejébe az elegáns Sacratissimo Cuore di Gesù templomhoz egy békés kezdésért. Fedezze fel a régió történelmét a Procoio múzeumban, majd látogassa meg a történelmi hidat. Irány vissza a tengerhez, hogy élvezze a Tortuga Beach finom homokját és igazán pezsgő hangulatát. Tegyen egy rövid utat a part mentén a Lido del Sandalo strandhoz, és nézze meg a dicsőséges naplementét.",
+        "ro": "Conduceți spre interior la elegantul Sacratissimo Cuore di Gesù, începând ziua cu o reflecție liniștită. Descoperiți istoria agricolă la muzeul Procoio și vizitați frumosul pod istoric din apropiere. Întoarceți-vă la mare pentru a vă bucura de nisipul fin și de spiritul vibrant de la Tortuga Beach. Faceți o scurtă plimbare cu mașina pe coastă până la Lido del Sandalo, urmărind un apus glorios.",
+        "en": "Drive inland to the elegant Sacratissimo Cuore di Gesù, starting the day with peaceful reflection. Discover the region's agricultural history at the Procoio museum and visit the historic bridge nearby. Head back towards the sea to enjoy the fine sands and vibrant, welcoming spirit of Tortuga Beach. Take a short drive down the scenic coast to Lido del Sandalo, watching a glorious seaside sunset."
+      }
+    }
+  }
+}

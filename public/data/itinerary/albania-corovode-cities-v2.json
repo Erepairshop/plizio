@@ -1,0 +1,405 @@
+{
+  "city_id": "albania-corovode-cities-v2",
+  "anchor": {
+    "name": "Çorovodë",
+    "coords": [
+      20.2272,
+      40.5042
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            20.225908,
+            40.502654
+          ],
+          "category": "museum",
+          "arrive_at": "09:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche Erbe der Region anhand faszinierender lokaler Artefakte und fragen Sie das freundliche Personal unbedingt nach geführten Touren am frühen Tag.",
+            "hu": "Fedezze fel a régió gazdag örökségét a lenyűgöző helyi leleteken keresztül, és mindenképpen érdeklődjön a barátságos személyzetnél a kora reggeli tárlatvezetésekről.",
+            "ro": "Explorați moștenirea bogată a regiunii prin artefacte locale fascinante și asigurați-vă că întrebați personalul amabil despre tururile ghidate disponibile devreme.",
+            "en": "Explore the region's rich heritage through fascinating local artifacts, and be sure to ask the friendly staff about guided tours available early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Varishtit",
+            "hu": "Varishtit strand",
+            "ro": "Plaja Varishtit",
+            "en": "Varishtit Beach"
+          },
+          "coords": [
+            20.22603,
+            40.49978
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser beliebte Ort am Flussufer eignet sich perfekt für eine kurze Pause, bei der Sie dem Rauschen des Wassers lauschen können; bringen Sie bequeme Schuhe für die Kieselsteine mit.",
+            "hu": "Ez a népszerű folyóparti hely tökéletes egy rövid pihenőre, ahol élvezheti a csobogó víz hangját; hozzon kényelmes cipőt az egyenetlen kavicsok miatt.",
+            "ro": "Acest loc popular de pe malul râului este perfect pentru o scurtă pauză în care vă puteți bucura de sunetul apei curgătoare; aduceți pantofi comozi pentru pietricelele inegale.",
+            "en": "This popular riverside spot is perfect for a quick break where you can enjoy the sound of the flowing water; bring comfortable shoes for the uneven pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Die Balkone",
+            "hu": "Balkonok strand",
+            "ro": "Plaja Balcoanele",
+            "en": "The Balconies Beach"
+          },
+          "coords": [
+            20.227199,
+            40.496176
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht auf den Canyon von diesen natürlichen Balkonen aus und halten Sie Ihre Kamera bereit, um die atemberaubende Flussschlucht einzufangen.",
+            "hu": "Csodálja meg a lenyűgöző kanyonra nyíló kilátást ezekről a természetes erkélyekről, kiváló hely a fotózáshoz, így tartsa készenlétben a fényképezőgépét.",
+            "ro": "Admirați priveliștile uimitoare ale canionului de pe aceste balcoane naturale, un loc minunat pentru fotografie, așa că pregătiți camera pentru a surprinde defileul râului.",
+            "en": "Admire the stunning canyon views from these natural balconies, a great place for photography so have your camera ready to capture the breathtaking river gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Deutsche Brücke",
+            "hu": "Német híd strand",
+            "ro": "Plaja Podul German",
+            "en": "German Bridge Beach"
+          },
+          "coords": [
+            20.226102,
+            40.495064
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Überbleibsel in der Nähe des Wassers, das eine friedliche Atmosphäre und eine großartige Gelegenheit bietet, den Fluss zu überqueren.",
+            "hu": "Fedezze fel ezt a történelmi maradványt a víz közelében, amely békés légkört és kiváló lehetőséget kínál a folyón való átkelésre a helyi madárvilág megfigyelése közben.",
+            "ro": "Descoperiți această rămășiță istorică lângă apă, care oferă o atmosferă liniștită și o oportunitate excelentă de a traversa râul, în timp ce fiți cu ochii pe păsările locale.",
+            "en": "Discover this historic remnant near the water, offering a peaceful atmosphere and a great opportunity to cross the river while keeping an eye out for local birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pllakat",
+            "hu": "Pllakat strand",
+            "ro": "Plaja Pllakat",
+            "en": "Pllakat Beach"
+          },
+          "coords": [
+            20.225345,
+            40.492766
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Nachmittag auf diesen einzigartigen flachen Steinriesen am Fluss ausklingen und bringen Sie eine leichte Jacke mit, da es im Tal gegen Sonnenuntergang kühler werden kann.",
+            "hu": "Zárja a délutánt pihenéssel ezeken az egyedülálló, lapos sziklaképződményeken a folyó mellett, és hozzon egy könnyű kabátot, mert a völgy naplemente felé jelentősen lehűlhet.",
+            "ro": "Încheiați-vă după-amiaza relaxându-vă pe aceste formațiuni unice de piatră plată de lângă râu, aducând o jachetă ușoară deoarece valea se poate răci semnificativ spre apus.",
+            "en": "End your afternoon by relaxing on these unique flat stone formations by the river, bringing a light jacket as the valley can cool down significantly towards sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die reiche Kulturgeschichte von Skrapar im örtlichen Museum in sich aufzunehmen.\n\nZur Mittagszeit können Sie einen gemütlichen Spaziergang zum Fluss machen und sich am malerischen Plazhi i Varishtit entspannen.\n\nAm Nachmittag können Sie die steilen Canyonwände bestaunen und die historischen Brücken am Wasser überqueren.\n\nLassen Sie den Tag auf den flachen Flusssteinen ausklingen, während die Sonne über dem wunderschönen Osumi-Flusstal untergeht.",
+        "hu": "Kezdje a reggelt azzal, hogy magába szívja Skrapar gazdag kulturális történelmét a helyi múzeumban.\n\nDélben tegyen egy kényelmes sétát a folyóhoz, és pihenjen a festői Varishtit strandon.\n\nDélután csodálja meg a kanyon meredek falait, és keljen át a vízparti történelmi hidakon.\n\nFejezze be a napot a lapos folyami köveken pihenve, miközben a nap lenyugszik a gyönyörű Osumi folyó völgye felett.",
+        "ro": "Începeți-vă dimineața absorbind istoria culturală bogată a Skrapar-ului la muzeul local.\n\nLa amiază, faceți o plimbare liniștită până la râu, relaxându-vă la pitoreasca Plazhi i Varishtit.\n\nDupă-amiaza, minunați-vă de pereții abrupți ai canionului și traversați podurile istorice de-a lungul apei.\n\nTerminați-vă ziua relaxându-vă pe pietrele plate ale râului, în timp ce soarele apune peste frumoasa vale a râului Osumi.",
+        "en": "Start your morning absorbing the rich cultural history of Skrapar at the local museum.\n\nBy midday, take a leisurely stroll down to the river, relaxing at the scenic Plazhi i Varishtit.\n\nIn the afternoon, marvel at the steep canyon walls and cross the historic bridges along the waterside.\n\nFinish your day unwinding on the flat river stones as the sun sets over the beautiful Osumi river valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Großes Gras-Reservoir",
+            "hu": "Nagy Fű-víztározó",
+            "ro": "Rezervorul Iarba Mare",
+            "en": "Big Grass Reservoir"
+          },
+          "coords": [
+            20.237888,
+            40.506971
+          ],
+          "category": "natural",
+          "arrive_at": "09:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ruhigen Stausee hinauf, um morgens Spiegelungen auf dem Wasser zu genießen; packen Sie einen kleinen Snack ein, da es um dieses natürliche Becken herum keine Einrichtungen gibt.",
+            "hu": "Kerékpározzon fel ehhez a csendes víztározóhoz, hogy élvezze a reggeli tükröződéseket a vízen; csomagoljon be egy kis harapnivalót, mivel nincsenek létesítmények e természetes medence körül.",
+            "ro": "Pedalați până la acest rezervor liniștit pentru a vă bucura de reflexiile matinale pe apă, luând la pachet o gustare ușoară, deoarece nu există facilități în jurul acestui bazin natural.",
+            "en": "Cycle up to this tranquil reservoir to enjoy morning reflections on the water, packing a light snack since there are no facilities around this natural basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            20.225908,
+            40.502654
+          ],
+          "category": "museum",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher in der Nähe des Eingangs ab, bevor Sie hineingehen, um die faszinierenden traditionellen Trachten und Artefakte zu entdecken, die die lokale albanische Geschichte beleuchten.",
+            "hu": "Zárja le biztonságosan a kerékpárját a bejárat közelében, mielőtt bemenne felfedezni a lenyűgöző hagyományos viseleteket és tárgyakat, amelyek a helyi albán történelmet mutatják be.",
+            "ro": "Legați-vă bicicleta în siguranță lângă intrare înainte de a intra pentru a descoperi costumele tradiționale fascinante și artefactele care scot în evidență istoria locală albaneză.",
+            "en": "Lock your bike securely near the entrance before heading inside to discover the fascinating traditional costumes and artifacts that highlight local Albanian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Varishtit",
+            "hu": "Varishtit strand",
+            "ro": "Plaja Varishtit",
+            "en": "Varishtit Beach"
+          },
+          "coords": [
+            20.22603,
+            40.49978
+          ],
+          "category": "recreational",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an diesem angenehmen Flussstrand aus, an dem sich die Einheimischen treffen; achten Sie jedoch auf die rutschigen Steine, wenn Sie Ihre Füße ins kühle Wasser tauchen.",
+            "hu": "Pihentesse meg lábát ezen a kellemes folyóparti strandon, ahol a helyiek összegyűlnek, de vigyázzon a csúszós kövekre, ha úgy dönt, hogy belemártja a lábát a hűvös vízbe.",
+            "ro": "Odihniți-vă picioarele la această plajă plăcută de pe malul râului, unde se adună localnicii, dar fiți atenți la pietrele alunecoase dacă vă decideți să vă scufundați picioarele în apa rece.",
+            "en": "Rest your legs at this pleasant riverside beach where locals gather, but be cautious of the slippery stones if you decide to dip your feet into the cool water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand der Furt",
+            "hu": "Gázló strand",
+            "ro": "Plaja Vadului",
+            "en": "Ford Beach"
+          },
+          "coords": [
+            20.226255,
+            40.489559
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Folgen Sie dem sanften Weg zu diesem tiefer gelegenen Flussabschnitt, einem idealen ruhigen Ort, um Ihre Wasserflasche aufzufüllen und das ruhige Ambiente abseits des Stadtzentrums zu genießen.",
+            "hu": "Kövesse a szelíd ösvényt ehhez az alsó folyószakaszhoz, amely ideális nyugodt hely a vizespalack újratöltéséhez és a városközponttól távol eső csendes hangulat élvezetéhez.",
+            "ro": "Urmați poteca lină până la această secțiune inferioară a râului, un loc liniștit ideal pentru a vă reumple sticla de apă și a vă bucura de ambianța senină departe de centrul orașului.",
+            "en": "Follow the gentle path to this lower river section, an ideal tranquil spot to refill your water bottle and enjoy the serene ambiance away from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Skrapar",
+            "hu": "Skrapar Vára",
+            "ro": "Castelul Skrapar",
+            "en": "Skrapar Castle"
+          },
+          "coords": [
+            20.207101,
+            40.496468
+          ],
+          "category": "castle",
+          "arrive_at": "14:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie sich der Herausforderung der bergauf führenden Fahrt zu den Burgruinen, wo Sie ein Panoramablick auf das gesamte Tal für den steilen letzten Aufstieg mit dem Fahrrad belohnt.",
+            "hu": "Tegye próbára magát az emelkedős kerékpározással a várromokhoz, ahol az egész völgyre nyíló panoráma várja, ami kárpótolja a meredek végső kerékpáros szakaszért.",
+            "ro": "Provocați-vă cu plimbarea în urcare până la ruinele castelului, unde vă așteaptă vederi panoramice ale întregii văi, răsplătindu-vă pentru ascensiunea finală abruptă cu bicicleta.",
+            "en": "Challenge yourself with the uphill ride to the castle ruins where panoramic views of the entire valley await, rewarding you for the steep final biking ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einer erfrischenden morgendlichen Fahrt hinauf zum friedlichen örtlichen Stausee.\n\nMittags kehren Sie in die Stadt zurück, um im Museum in die Kultur einzutauchen und eine Mittagspause am Flussufer einzulegen.\n\nAm Nachmittag erkunden Sie versteckte Flussstrände, wo Sie sich abkühlen und das ruhige Wasser genießen können.\n\nBeenden Sie Ihr Abenteuer mit dem Aufstieg zu den alten Ruinen der Burg Skrapar für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a kerékpártúrát egy frissítő reggeli túrával fel a békés helyi víztározóhoz.\n\nA déli órák visszaviszik a városba egy kulturális elmélyülésre a múzeumban és egy folyóparti ebédszünetre.\n\nA délután folyamán rejtett folyami strandokat fedezhet fel, ahol lehűlhet és élvezheti a nyugodt vizet.\n\nKalandját a Skrapar vár ősi romjaihoz való feljutással fejezze be egy felejthetetlen naplementés panorámáért.",
+        "ro": "Începeți-vă turul cu bicicleta cu o plimbare matinală revigorantă până la liniștitul rezervor local.\n\nAmiaza vă aduce înapoi în oraș pentru o imersiune culturală la muzeu și o pauză de prânz pe malul râului.\n\nDupă-amiaza implică explorarea plajelor ascunse ale râului, unde vă puteți răcori și vă puteți bucura de apele calme.\n\nÎncheiați-vă aventura urcând la ruinele antice ale Castelului Skrapar pentru o vedere de neuitat la apus.",
+        "en": "Kick off your cycling tour with a refreshing morning ride up to the peaceful local reservoir.\n\nMidday brings you back to town for a cultural immersion at the museum and a riverside lunch break.\n\nThe afternoon involves exploring hidden river beaches where you can cool off and enjoy the calm waters.\n\nConclude your adventure by ascending to the ancient Skrapar Castle ruins for an unforgettable sunset view."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidárium",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            20.208815,
+            40.526809
+          ],
+          "category": "historical",
+          "arrive_at": "09:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem imposanten historischen Denkmal, um seine Bedeutung für die lokale Geschichte zu verstehen und nutzen Sie den großzügigen Parkplatz für frühe Fotos.",
+            "hu": "Hajtson fel ehhez az impozáns történelmi emlékműhöz, hogy megértse a helyi történelemben betöltött jelentőségét, és használja ki a tágas parkolót a korai fotók készítéséhez.",
+            "ro": "Conduceți până la acest monument istoric impunător pentru a-i înțelege semnificația în istoria locală, profitând de zona de parcare spațioasă pentru a face câteva fotografii devreme.",
+            "en": "Drive up to this imposing historical monument to grasp its significance in local history, taking advantage of the spacious parking area to capture some early photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Gras-Reservoir",
+            "hu": "Nagy Fű-víztározó",
+            "ro": "Rezervorul Iarba Mare",
+            "en": "Big Grass Reservoir"
+          },
+          "coords": [
+            20.237888,
+            40.506971
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine landschaftlich reizvolle Fahrt zu diesem großen Stausee, einem wunderschönen Ort für einen kurzen Spaziergang in der Natur; achten Sie nur auf die schmalen Feldwege.",
+            "hu": "Élvezze a festői utazást ehhez a nagy víztározóhoz, amely egy gyönyörű hely egy rövid sétához a természetben; csak ügyeljen a partra vezető szűk földutakra.",
+            "ro": "Bucurați-vă de o plimbare pitorească până la acest rezervor mare, un loc frumos pentru o scurtă plimbare în natură; fiți atenți doar la drumurile înguste de pământ care duc spre țărm.",
+            "en": "Enjoy a scenic drive to this large reservoir, a beautiful spot for a short nature walk; just be mindful of the narrow dirt roads leading up to the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul Istoric",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            20.225908,
+            40.502654
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Suchen Sie sich einen Parkplatz in der Nähe und tauchen Sie in die faszinierende Vergangenheit der Stadt ein. Die ethnografischen Ausstellungen bieten tiefe Einblicke in die Kultur.",
+            "hu": "Keressen utcai parkolóhelyet a közelben, és merüljön el a város lenyűgöző múltjában, megjegyezve, hogy a néprajzi kiállítások mély betekintést nyújtanak a Skrapar régió kultúrájába.",
+            "ro": "Găsiți parcare stradală în apropiere și pătrundeți în trecutul captivant al orașului, observând că expozițiile etnografice oferă o perspectivă profundă asupra culturii.",
+            "en": "Find street parking nearby and delve into the town's captivating past, noting that the ethnographic displays offer deep insights into the Skrapar region's culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Skrapar",
+            "hu": "Skrapar Vára",
+            "ro": "Castelul Skrapar",
+            "en": "Skrapar Castle"
+          },
+          "coords": [
+            20.207101,
+            40.496468
+          ],
+          "category": "castle",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie auf der kurvenreichen Straße zu diesen alten Festungsanlagen hinauf, um ein atemberaubendes Talpanorama zu erleben; tragen Sie festes Schuhwerk.",
+            "hu": "Navigáljon a kanyargós úton fel ezekhez az ősi erődítményekhez, hogy lélegzetelállító völgyi panorámát tapasztaljon, viseljen erős cipőt a burkolatlan romterület felfedezéséhez.",
+            "ro": "Navigați pe drumul șerpuit până la aceste fortificații antice pentru a experimenta panorame uluitoare ale văii, purtând pantofi rezistenți pentru a explora situl neasfaltat.",
+            "en": "Navigate the winding road up to these ancient fortifications to experience breathtaking valley panoramas, wearing sturdy shoes to explore the unpaved ruin site."
+          }
+        },
+        {
+          "name": {
+            "de": "Abgelegener Stausee",
+            "hu": "Távoli Víztározó",
+            "ro": "Rezervorul Îndepărtat",
+            "en": "Remote Reservoir"
+          },
+          "coords": [
+            20.145141,
+            40.486366
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem abgelegenen und ruhigen Stausee, wo Sie absolute Stille erleben können; stellen Sie sicher, dass Ihr Fahrzeug vollgetankt ist.",
+            "hu": "Zárja az utazást ennél a távoli és csendes víztározónál, ahol a végső nyugalmat tapasztalhatja meg; győződjön meg róla, hogy a járműve fel van tankolva, mivel a visszaút hosszú.",
+            "ro": "Încheiați-vă plimbarea la acest rezervor îndepărtat și liniștit, unde puteți experimenta seninătatea supremă; asigurați-vă că vehiculul dumneavoastră este alimentat.",
+            "en": "Conclude your drive at this remote and quiet reservoir where you can experience ultimate serenity; make sure your vehicle is fueled up as the return journey is lengthy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrabenteuer mit der Erkundung des hoch aufragenden historischen Denkmals etwas außerhalb des Stadtzentrums.\n\nZur Mittagszeit wechseln Sie von den ruhigen Aussichten auf den Stausee zu einem tiefen Einblick in das lokale Erbe im Museum.\n\nVerbringen Sie Ihren Nachmittag damit, hinauf zur majestätischen Burg Skrapar zu navigieren, die unvergleichliche Ausblicke auf die Region bietet.\n\nBeenden Sie den Tag mit einer friedlichen Fahrt in der Dämmerung zu einem weit entfernten natürlichen Stausee, der komplett von Natur umgeben ist.",
+        "hu": "Kezdje a vezetési kalandot a városközponton kívül található, tornyosuló történelmi emlékmű felfedezésével.\n\nDélben váltson a nyugodt víztározó látványáról a helyi örökség mélyebb megismerésére a múzeumban.\n\nTöltse a délutánt azzal, hogy felnavigál a fenséges Skrapar várhoz, amely páratlan kilátást kínál a régióra.\n\nFejezze be a napot egy békés alkonyati autózással egy távoli természetes víztározóhoz, amelyet teljesen körülvesz a természet.",
+        "ro": "Începeți-vă aventura la volan explorând monumentul istoric impunător chiar în afara centrului orașului.\n\nLa amiază, faceți tranziția de la priveliștile liniștite ale rezervorului la o scufundare profundă în moștenirea locală la muzeu.\n\nPetreceți-vă după-amiaza navigând până la maiestuosul Castel Skrapar, care oferă priveliști de neegalat ale regiunii.\n\nTerminați-vă ziua cu o plimbare liniștită la crepuscul către un rezervor natural îndepărtat, complet înconjurat de natură.",
+        "en": "Begin your driving adventure by exploring the towering historical monument just outside the town center.\n\nBy midday, transition from the tranquil reservoir views to a deep dive into local heritage at the museum.\n\nSpend your afternoon navigating up to the majestic Skrapar Castle, offering unparalleled vistas of the region.\n\nFinish the day with a peaceful twilight drive to a distant natural reservoir, completely surrounded by nature."
+      }
+    }
+  }
+}

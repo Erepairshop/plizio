@@ -1,0 +1,474 @@
+{
+  "city_id": "th-phuket",
+  "anchor": {
+    "name": "Phuket",
+    "coords": [
+      98.3923,
+      7.8804
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Surin Circle",
+            "hu": "Surin Circle",
+            "ro": "Surin Circle",
+            "en": "Surin Circle"
+          },
+          "coords": [
+            98.392219,
+            7.880413
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Surin Circle, einem belebten Verkehrsknotenpunkt mit historischem Glockenturm, und achten Sie beim Überqueren auf den dichten Rollerverkehr.",
+            "hu": "Kezdje a túrát a Surin Circle nyüzsgő körforgalmánál, melynek óratornya ikonikus látványosság, és mindig nagyon óvatosan keljen át a sűrű forgalmon.",
+            "ro": "Începeți la Surin Circle, un sens giratoriu vibrant cu un turn cu ceas emblematic, și asigurați-vă că traversați cu mare atenție traficul aglomerat.",
+            "en": "Start at Surin Circle, a bustling roundabout anchored by a historic clock tower, and always make sure to cross the busy streets with extreme caution."
+          }
+        },
+        {
+          "name": {
+            "de": "Thavorn Phuket Museum",
+            "hu": "Thavorn Phuket Museum",
+            "ro": "Thavorn Phuket Museum",
+            "en": "Thavorn Phuket Museum"
+          },
+          "coords": [
+            98.390248,
+            7.882919
+          ],
+          "category": "museum",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Thavorn Phuket Museum faszinierende Antiquitäten aus der Zinnbergbau-Ära und nehmen Sie sich Zeit für die kuriosen Alltagsgegenstände.",
+            "hu": "Fedezze fel a Thavorn Phuket Múzeum lenyűgöző ónbányászati korszakból származó régiségeit, és szánjon időt a különleges mindennapi tárgyak megtekintésére.",
+            "ro": "Descoperiți antichități fascinante din era exploatării staniului la Muzeul Thavorn Phuket și alocați-vă timp pentru a studia obiectele de zi cu zi.",
+            "en": "Discover fascinating antiques from the tin-mining era at the Thavorn Phuket Museum, and take your time examining the quirky everyday historical objects."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Trickeye Museum",
+            "hu": "Phuket Trickeye Museum",
+            "ro": "Phuket Trickeye Museum",
+            "en": "Phuket Trickeye Museum"
+          },
+          "coords": [
+            98.392607,
+            7.883384
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Trickeye Museum in interaktive 3D-Gemälde ein, die optische Täuschungen erzeugen, und bringen Sie eine gute Kamera für lustige Fotos mit.",
+            "hu": "Merüljön el a Trickeye Múzeum interaktív 3D-s festményeiben, amelyek optikai illúziókat keltenek, és mindenképpen hozzon magával egy jó fényképezőgépet.",
+            "ro": "Pătrundeți în picturile 3D interactive de la Trickeye Museum, care creează iluzii optice, și asigurați-vă că aduceți un aparat foto bun pentru poze.",
+            "en": "Immerse yourself in the interactive 3D paintings at the Trickeye Museum that create optical illusions, and make sure to bring a good camera for fun photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chinpracha House",
+            "hu": "Chinpracha House",
+            "ro": "Chinpracha House",
+            "en": "Chinpracha House"
+          },
+          "coords": [
+            98.38394,
+            7.885778
+          ],
+          "category": "museum",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sino-portugiesische Architektur des Chinpracha House, einer eleganten historischen Villa, und achten Sie auf die italienischen Bodenfliesen.",
+            "hu": "Csodálja meg a Chinpracha Ház kínai-portugál építészetét, amely egy elegáns történelmi villa, és figyeljen a gyönyörű, eredeti olasz padlólapokra.",
+            "ro": "Admirați arhitectura chino-portugheză de la Chinpracha House, o vilă istorică elegantă, și acordați o atenție deosebită plăcilor originale italiene.",
+            "en": "Admire the Sino-Portuguese architecture of Chinpracha House, an elegant historical mansion, and pay close attention to the original Italian floor tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkey Feeding Point",
+            "hu": "Monkey Feeding Point",
+            "ro": "Monkey Feeding Point",
+            "en": "Monkey Feeding Point"
+          },
+          "coords": [
+            98.379509,
+            7.893805
+          ],
+          "category": "landmark",
+          "arrive_at": "15:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie am Monkey Feeding Point die frechen Makaken in ihrer natürlichen Umgebung, aber halten Sie Ihre Wertsachen sicher verschlossen.",
+            "hu": "Figyelje meg a szemtelen makákókat természetes környezetükben a Monkey Feeding Point területén, de mindenképpen tartsa biztonságban az értékeit.",
+            "ro": "Observați macacii obraznici în mediul lor natural la Monkey Feeding Point, dar asigurați-vă că țineți toate obiectele de valoare și mâncarea bine ascunse.",
+            "en": "Observe the cheeky macaques in their natural environment at the Monkey Feeding Point, but make sure to keep your valuables and food securely hidden."
+          }
+        },
+        {
+          "name": {
+            "de": "Toh Sae Hill Viewpoint",
+            "hu": "Toh Sae Hill Viewpoint",
+            "ro": "Toh Sae Hill Viewpoint",
+            "en": "Toh Sae Hill Viewpoint"
+          },
+          "coords": [
+            98.395087,
+            7.896472
+          ],
+          "category": "natural",
+          "arrive_at": "15:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Toh Sae Hill Viewpoint aus einen atemberaubenden Panoramablick über ganz Phuket, besonders im warmen Licht des späten Nachmittags.",
+            "hu": "Élvezze a Toh Sae Hill kilátópontról nyíló lélegzetelállító panorámát egész Phuketre, különösen a késő délutáni órák meleg, aranyló fényeiben.",
+            "ro": "Bucurați-vă de o panoramă uluitoare asupra întregului Phuket de la Toh Sae Hill Viewpoint, în special în lumina caldă a soarelui de la sfârșitul după-amiezii.",
+            "en": "Enjoy a breathtaking panoramic view of all of Phuket from the Toh Sae Hill Viewpoint, especially beautiful during the warm light of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten wir am Surin Circle und entdecken die Geschichte im Thavorn und Trickeye Museum.\n\nMittags bewundern wir die sino-portugiesische Architektur des Chinpracha House.\n\nNachmittags beobachten wir wilde Affen am Monkey Feeding Point.\n\nAbends genießen wir den herrlichen Sonnenuntergang vom Toh Sae Hill Viewpoint aus.",
+        "hu": "Reggel a Surin Circle-nél kezdünk, majd a Thavorn és Trickeye múzeumokban folytatjuk.\n\nDélben megcsodáljuk a Chinpracha Ház kínai-portugál építészetét.\n\nDélután vadon élő majmokat figyelünk meg a Monkey Feeding Point-nál.\n\nEste a Toh Sae Hill kilátóból gyönyörködünk a fantasztikus naplementében.",
+        "ro": "Dimineața începem la Surin Circle și descoperim istoria la muzeele Thavorn și Trickeye.\n\nLa prânz admirăm arhitectura chino-portugheză a Chinpracha House.\n\nDupă-amiaza observăm maimuțele sălbatice la Monkey Feeding Point.\n\nSeara ne bucurăm de apusul magnific de la Toh Sae Hill Viewpoint.",
+        "en": "We start the morning at Surin Circle, exploring the Thavorn and Trickeye museums.\n\nAt midday, we admire the Sino-Portuguese architecture of Chinpracha House.\n\nThe afternoon is spent observing wild monkeys at the Monkey Feeding Point.\n\nWe conclude the evening with a beautiful sunset at Toh Sae Hill Viewpoint."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Surin Circle",
+            "hu": "Surin Circle",
+            "ro": "Surin Circle",
+            "en": "Surin Circle"
+          },
+          "coords": [
+            98.392219,
+            7.880413
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Surin Circle, einem belebten Verkehrsknotenpunkt mit historischem Glockenturm, und achten Sie beim Überqueren auf den dichten Rollerverkehr.",
+            "hu": "Kezdje a túrát a Surin Circle nyüzsgő körforgalmánál, melynek óratornya ikonikus látványosság, és mindig nagyon óvatosan keljen át a sűrű forgalmon.",
+            "ro": "Începeți la Surin Circle, un sens giratoriu vibrant cu un turn cu ceas emblematic, și asigurați-vă că traversați cu mare atenție traficul aglomerat.",
+            "en": "Start at Surin Circle, a bustling roundabout anchored by a historic clock tower, and always make sure to cross the busy streets with extreme caution."
+          }
+        },
+        {
+          "name": {
+            "de": "Chinpracha House",
+            "hu": "Chinpracha House",
+            "ro": "Chinpracha House",
+            "en": "Chinpracha House"
+          },
+          "coords": [
+            98.38394,
+            7.885778
+          ],
+          "category": "museum",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sino-portugiesische Architektur des Chinpracha House, einer eleganten historischen Villa, und achten Sie auf die italienischen Bodenfliesen.",
+            "hu": "Csodálja meg a Chinpracha Ház kínai-portugál építészetét, amely egy elegáns történelmi villa, és figyeljen a gyönyörű, eredeti olasz padlólapokra.",
+            "ro": "Admirați arhitectura chino-portugheză de la Chinpracha House, o vilă istorică elegantă, și acordați o atenție deosebită plăcilor originale italiene.",
+            "en": "Admire the Sino-Portuguese architecture of Chinpracha House, an elegant historical mansion, and pay close attention to the original Italian floor tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Aphrodite Cabaret Show",
+            "hu": "Aphrodite Cabaret Show",
+            "ro": "Aphrodite Cabaret Show",
+            "en": "Aphrodite Cabaret Show"
+          },
+          "coords": [
+            98.367182,
+            7.903515
+          ],
+          "category": "cultural",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die glitzernden Kostüme der Darsteller bei der Aphrodite Cabaret Show, die thailändische Kultur zelebriert, und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Csodálja meg a fellépők csillogó jelmezeit az Aphrodite Cabaret Show-n, amely a thai kultúrát ünnepli, és mindenképpen foglalja le a jegyeit jó előre.",
+            "ro": "Admirați costumele strălucitoare ale artiștilor la Aphrodite Cabaret Show, care celebrează cultura thailandeză, și asigurați-vă că rezervați biletele în avans.",
+            "en": "Admire the glittering costumes of the performers at the Aphrodite Cabaret Show, which celebrates Thai culture, and make sure to book your tickets well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkey Feeding Point",
+            "hu": "Monkey Feeding Point",
+            "ro": "Monkey Feeding Point",
+            "en": "Monkey Feeding Point"
+          },
+          "coords": [
+            98.379509,
+            7.893805
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie am Monkey Feeding Point die frechen Makaken in ihrer natürlichen Umgebung, aber halten Sie Ihre Wertsachen sicher verschlossen.",
+            "hu": "Figyelje meg a szemtelen makákókat természetes környezetükben a Monkey Feeding Point területén, de mindenképpen tartsa biztonságban az értékeit.",
+            "ro": "Observați macacii obraznici în mediul lor natural la Monkey Feeding Point, dar asigurați-vă că țineți toate obiectele de valoare și mâncarea bine ascunse.",
+            "en": "Observe the cheeky macaques in their natural environment at the Monkey Feeding Point, but make sure to keep your valuables and food securely hidden."
+          }
+        },
+        {
+          "name": {
+            "de": "Toh Sae Hill Viewpoint",
+            "hu": "Toh Sae Hill Viewpoint",
+            "ro": "Toh Sae Hill Viewpoint",
+            "en": "Toh Sae Hill Viewpoint"
+          },
+          "coords": [
+            98.395087,
+            7.896472
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Toh Sae Hill Viewpoint aus einen atemberaubenden Panoramablick über ganz Phuket, besonders im warmen Licht des späten Nachmittags.",
+            "hu": "Élvezze a Toh Sae Hill kilátópontról nyíló lélegzetelállító panorámát egész Phuketre, különösen a késő délutáni órák meleg, aranyló fényeiben.",
+            "ro": "Bucurați-vă de o panoramă uluitoare asupra întregului Phuket de la Toh Sae Hill Viewpoint, în special în lumina caldă a soarelui de la sfârșitul după-amiezii.",
+            "en": "Enjoy a breathtaking panoramic view of all of Phuket from the Toh Sae Hill Viewpoint, especially beautiful during the warm light of the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Koh Sirey",
+            "hu": "Wat Koh Sirey",
+            "ro": "Wat Koh Sirey",
+            "en": "Wat Koh Sirey"
+          },
+          "coords": [
+            98.425939,
+            7.880111
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie Wat Koh Sirey auf einem Hügel mit einem großen liegenden Buddha und kleiden Sie sich respektvoll mit bedeckten Schultern und Knien.",
+            "hu": "Látogasson el a hegytetőn álló Wat Koh Sirey templomba, ahol egy hatalmas fekvő Buddha található, és ügyeljen a vállakat és térdeket takaró, tiszteletteljes öltözködésre.",
+            "ro": "Vizitați Wat Koh Sirey pe un deal cu un mare Buddha înclinat și asigurați-vă că vă îmbrăcați respectuos, cu umerii și genunchii acoperiți în mod adecvat.",
+            "en": "Visit Wat Koh Sirey atop a hill featuring a large reclining Buddha, and ensure you dress respectfully with your shoulders and knees completely covered."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln wir vom Surin Circle zum historischen Chinpracha House.\n\nMittags erreichen wir das eindrucksvolle Theater der Aphrodite Cabaret Show.\n\nNachmittags fahren wir zum Monkey Feeding Point und erklimmen den Toh Sae Hill Viewpoint.\n\nAbends entspannen wir am ruhigen Wat Koh Sirey.",
+        "hu": "Reggel a Surin Circle-től a történelmi Chinpracha Házhoz tekerünk.\n\nDélben elérjük az Aphrodite Cabaret Show lenyűgöző színházát.\n\nDélután a Monkey Feeding Point-hoz hajtunk, majd felmászunk a Toh Sae Hill kilátóhoz.\n\nEste a békés Wat Koh Sirey templomnál pihenjük ki a napot.",
+        "ro": "Dimineața pedalăm de la Surin Circle până la istorica Chinpracha House.\n\nLa prânz ajungem la teatrul impresionant al Aphrodite Cabaret Show.\n\nDupă-amiaza mergem la Monkey Feeding Point și urcăm la Toh Sae Hill Viewpoint.\n\nSeara ne relaxăm la templul liniștit Wat Koh Sirey.",
+        "en": "We cycle from Surin Circle to the historic Chinpracha House in the morning.\n\nBy midday, we reach the impressive Aphrodite Cabaret Show theater.\n\nIn the afternoon, we head to the Monkey Feeding Point and climb to Toh Sae Hill Viewpoint.\n\nThe evening concludes relaxing at peaceful Wat Koh Sirey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 15.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tin Mining Monument",
+            "hu": "Tin Mining Monument",
+            "ro": "Tin Mining Monument",
+            "en": "Tin Mining Monument"
+          },
+          "coords": [
+            98.396002,
+            7.868483
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Tin Mining Monument erinnert an die industrielle Blütezeit Phukets; betrachten Sie die einzigartige Struktur, die an einen riesigen Bohrer erinnert, aus der Nähe.",
+            "hu": "A Tin Mining Monument Phuket ipari virágkorának állít emléket; mindenképpen nézze meg közelebbről a hatalmas fúróra emlékeztető különleges és monumentális szerkezetet.",
+            "ro": "Monumentul Exploatării Staniului amintește de apogeul industrial din Phuket; priviți de aproape structura unică care se aseamănă vizual cu un burghiu gigantic.",
+            "en": "The Tin Mining Monument commemorates Phuket's industrial heyday; make sure to look closely at the unique structure that strongly resembles a gigantic drill bit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalerm Phra Kiat Park",
+            "hu": "Chalerm Phra Kiat Park",
+            "ro": "Chalerm Phra Kiat Park",
+            "en": "Chalerm Phra Kiat Park"
+          },
+          "coords": [
+            98.374658,
+            7.875352
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie im gepflegten Chalerm Phra Kiat Park am malerischen See und besuchen Sie den Park in den frühen Morgenstunden, um der Mittagshitze zu entgehen.",
+            "hu": "Pihenjen a gondozott Chalerm Phra Kiat Park festői tava mellett, és érdemes a kora reggeli órákban idelátogatni, hogy elkerülje a tikkasztó déli hőséget.",
+            "ro": "Relaxați-vă în bine întreținutul Parc Chalerm Phra Kiat lângă lacul pitoresc și încercați să vizitați la primele ore ale dimineții pentru a evita căldura amiezii.",
+            "en": "Relax in the well-kept Chalerm Phra Kiat Park by the picturesque lake, and try to visit during the cooler morning hours to comfortably avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chinpracha House",
+            "hu": "Chinpracha House",
+            "ro": "Chinpracha House",
+            "en": "Chinpracha House"
+          },
+          "coords": [
+            98.38394,
+            7.885778
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sino-portugiesische Architektur des Chinpracha House, einer eleganten historischen Villa, und achten Sie auf die italienischen Bodenfliesen.",
+            "hu": "Csodálja meg a Chinpracha Ház kínai-portugál építészetét, amely egy elegáns történelmi villa, és figyeljen a gyönyörű, eredeti olasz padlólapokra.",
+            "ro": "Admirați arhitectura chino-portugheză de la Chinpracha House, o vilă istorică elegantă, și acordați o atenție deosebită plăcilor originale italiene.",
+            "en": "Admire the Sino-Portuguese architecture of Chinpracha House, an elegant historical mansion, and pay close attention to the original Italian floor tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Mining Museum",
+            "hu": "Phuket Mining Museum",
+            "ro": "Phuket Mining Museum",
+            "en": "Phuket Mining Museum"
+          },
+          "coords": [
+            98.349483,
+            7.933283
+          ],
+          "category": "museum",
+          "arrive_at": "13:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Phuket Mining Museum alles über die harte Arbeit der Zinnminenarbeiter und bewundern Sie die detailreichen Dioramen, die die Geschichte lebendig machen.",
+            "hu": "Tudjon meg mindent az ónbányászok kemény munkájáról a Phuket Mining Múzeumban, és csodálja meg a részletgazdag diorámákat, amelyek életre keltik a történelmet.",
+            "ro": "Aflați totul despre munca grea a minerilor de staniu la Muzeul Mineritului din Phuket și admirați dioramele detaliate care aduc cu adevărat istoria la viață.",
+            "en": "Learn all about the hard work of the tin miners at the Phuket Mining Museum, and admire the highly detailed dioramas that truly bring the local history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Siam Niramit Show",
+            "hu": "Siam Niramit Show",
+            "ro": "Siam Niramit Show",
+            "en": "Siam Niramit Show"
+          },
+          "coords": [
+            98.377023,
+            7.931336
+          ],
+          "category": "cultural",
+          "arrive_at": "15:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erleben Sie bei der Siam Niramit Show thailändische Geschichte mit spektakulären Effekten und kommen Sie frühzeitig, um das traditionelle Dorf vor der Show zu besichtigen.",
+            "hu": "Élje át a thai történelmet látványos effektekkel a Siam Niramit Show-n, és érkezzen korán, hogy az előadás előtt még legyen ideje felfedezni a hagyományos falut.",
+            "ro": "Experimentați istoria thailandeză cu efecte spectaculoase la Siam Niramit Show și ajungeți devreme pentru a explora satul tradițional amenajat înainte de spectacol.",
+            "en": "Experience Thai history with spectacular stage effects at the Siam Niramit Show, and arrive early to explore the beautifully recreated traditional village beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Sapam Temple",
+            "hu": "Sapam Temple",
+            "ro": "Sapam Temple",
+            "en": "Sapam Temple"
+          },
+          "coords": [
+            98.39632,
+            7.93741
+          ],
+          "category": "religious",
+          "arrive_at": "17:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der farbenfrohe chinesische Sapam Temple beeindruckt mit kunstvollen Drachenschnitzereien; respektieren Sie die Betenden und verhalten Sie sich im Tempel ruhig.",
+            "hu": "A színpompás kínai Sapam Templom művészi sárkányfaragásaival lenyűgöző; tisztelje az imádkozókat, és mindig viselkedjen halkan és visszafogottan a szentélyben.",
+            "ro": "Templul chinezesc colorat Sapam impresionează prin sculpturi elaborate de dragoni; respectați credincioșii care se roagă și păstrați o atitudine tăcută în templu.",
+            "en": "The colorful Chinese Sapam Temple impresses with elaborate dragon carvings; always respect the worshippers and maintain a quiet, reverent demeanor inside the temple."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt startet am Tin Mining Monument, gefolgt von einer Pause im Chalerm Phra Kiat Park.\n\nMittags besuchen wir das Chinpracha House und das Phuket Mining Museum.\n\nNachmittags tauchen wir bei der Siam Niramit Show in die thailändische Kultur ein.\n\nAbends lassen wir den Tag am bunten Sapam Temple ausklingen.",
+        "hu": "A túra a Tin Mining Monumentnél indul, majd a Chalerm Phra Kiat Parkban pihenünk.\n\nDélben a Chinpracha Házat és a Phuket Mining Múzeumot látogatjuk meg.\n\nDélután a Siam Niramit Show-n a thai kultúrában merülünk el.\n\nEste a színes Sapam Templomnál zárjuk a tartalmas napot.",
+        "ro": "Conducem de la Monumentul Mineritului și facem o pauză în Parcul Chalerm Phra Kiat.\n\nLa prânz vizităm Chinpracha House și Muzeul Mineritului din Phuket.\n\nDupă-amiaza ne cufundăm în cultura thailandeză la Siam Niramit Show.\n\nSeara încheiem ziua la coloratul Templu Sapam.",
+        "en": "The drive starts at the Tin Mining Monument, followed by a break at Chalerm Phra Kiat Park.\n\nAt midday, we visit Chinpracha House and the Phuket Mining Museum.\n\nIn the afternoon, we immerse ourselves in Thai culture at the Siam Niramit Show.\n\nThe evening ends at the colorful Sapam Temple."
+      }
+    }
+  }
+}

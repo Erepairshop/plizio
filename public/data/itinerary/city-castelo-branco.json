@@ -1,0 +1,543 @@
+{
+  "city_id": "city-castelo-branco",
+  "anchor": {
+    "name": "Castelo Branco",
+    "coords": [
+      -7.49,
+      39.8222
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 1.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Castelo Branco",
+            "hu": "Câmara Municipal de Castelo Branco",
+            "ro": "Câmara Municipal de Castelo Branco",
+            "en": "Câmara Municipal de Castelo Branco"
+          },
+          "coords": [
+            -7.49303,
+            39.822717
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses, das den administrativen Kern der Stadt bildet, und machen Sie ein kurzes Foto der Fassade, bevor Sie den Platz betreten.",
+            "hu": "Csodálja meg ennek a történelmi városházának az elegáns építészetét, amely a város közigazgatási központja, és készítsen egy gyors fotót a homlokzatáról, mielőtt kilépne a központi térre.",
+            "ro": "Admirați arhitectura elegantă a acestei clădiri municipale istorice, centrul administrativ al orașului, și faceți o fotografie rapidă a fațadei sale înainte de a păși în piața centrală.",
+            "en": "Admire the elegant architecture of this historic municipal building which anchors the city's administrative core, and grab a quick photo of its facade before stepping into the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Cargaleiro",
+            "hu": "Museu Cargaleiro",
+            "ro": "Museu Cargaleiro",
+            "en": "Museu Cargaleiro"
+          },
+          "coords": [
+            -7.494729,
+            39.825279
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die lebhafte Sammlung zeitgenössischer Kunst und Keramik von Manuel Cargaleiro und achten Sie besonders auf seine charakteristischen geometrischen Fliesen.",
+            "hu": "Fedezze fel Manuel Cargaleiro kortárs művészeti és kerámiagyűjteményét, különös figyelmet fordítva jellegzetes geometriai csempéire, amelyek gyönyörűen ötvözik a modern és hagyományos stílusokat.",
+            "ro": "Explorați colecția vibrantă de artă contemporană și ceramică a lui Manuel Cargaleiro, fiind atenți la plăcile sale geometrice caracteristice care îmbină frumos stilurile moderne și tradiționale.",
+            "en": "Explore the vibrant contemporary art and ceramics collection of Manuel Cargaleiro housed here, keeping an eye out for his signature geometric tiles that beautifully bridge modern and traditional styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa do Arco do Bispo",
+            "hu": "Casa do Arco do Bispo",
+            "ro": "Casa do Arco do Bispo",
+            "en": "Casa do Arco do Bispo"
+          },
+          "coords": [
+            -7.49346,
+            39.825578
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Treten Sie unter die historischen Bögen dieser ehemaligen Bischofsresidenz, um mehr über die Kirchengeschichte der Region zu erfahren, und achten Sie auf die fein geschnitzten Steindetails.",
+            "hu": "Lépjen be az egykori püspöki rezidencia történelmi boltívei alá, hogy megismerje a régió egyházi történelmét, és keresse meg a főbejárat feletti gyönyörűen faragott kő részleteket.",
+            "ro": "Pășiți sub arcadele istorice ale acestei foste reședințe episcopale pentru a afla istoria ecleziastică a regiunii și căutați detaliile din piatră frumos sculptate deasupra intrării principale.",
+            "en": "Step under the historic archways of this former bishop's residence to learn about the region's ecclesiastical history, and look for the beautifully carved stone details above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Castelo Branco",
+            "hu": "Castelo de Castelo Branco",
+            "ro": "Castelo de Castelo Branco",
+            "en": "Castelo de Castelo Branco"
+          },
+          "coords": [
+            -7.496537,
+            39.825536
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Templerburg hinauf, um einen weiten Panoramablick über die Stadt zu genießen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Másszon fel a középkori templomos vár romjaihoz, ahonnan pazar panoráma nyílik a városra és a síkságra, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval templier pentru vederi panoramice ample asupra orașului și câmpiilor, asigurându-vă că purtați încălțăminte confortabilă pentru cărările pietruite inegale.",
+            "en": "Climb to the ruins of this medieval templar castle for sweeping panoramic views over the city and plains, making sure to wear comfortable shoes to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Memória da Presença Judaica em Castelo Branco",
+            "hu": "Casa da Memória da Presença Judaica em Castelo Branco",
+            "ro": "Casa da Memória da Presença Judaica em Castelo Branco",
+            "en": "Casa da Memória da Presença Judaica em Castelo Branco"
+          },
+          "coords": [
+            -7.492902,
+            39.827135
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie das tiefgreifende Erbe und die verborgenen Geschichten der lokalen jüdischen Gemeinde in diesem ergreifenden Museum und nehmen Sie sich Zeit für die persönlichen Geschichten im Obergeschoss.",
+            "hu": "Fedezze fel a helyi zsidó közösség mély örökségét és rejtett történelmét ebben a megrendítő múzeumban, és szánjon időt a felső szinten kiállított részletes személyes történetek elolvasására.",
+            "ro": "Descoperiți moștenirea profundă și istoriile ascunse ale comunității evreiești locale în acest muzeu emoționant și rezervați-vă timp pentru a citi poveștile personale detaliate expuse la etaj.",
+            "en": "Discover the profound legacy and hidden histories of the local Jewish community in this poignant museum, and take time to read the detailed personal stories exhibited on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Francisco Tavares Proença Júnior",
+            "hu": "Museu Francisco Tavares Proença Júnior",
+            "ro": "Museu Francisco Tavares Proença Júnior",
+            "en": "Museu Francisco Tavares Proença Júnior"
+          },
+          "coords": [
+            -7.494233,
+            39.828233
+          ],
+          "category": "museum",
+          "arrive_at": "17:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären, handgestickten Seidentagesdecken aus Castelo Branco in diesem ehemaligen Bischofspalast und besuchen Sie auch die archäologischen Wechselausstellungen.",
+            "hu": "Csodálja meg a látványos, kézzel hímzett selyem ágytakarókat ebben az egykori püspöki palotában, és ne felejtse el megtekinteni az oldalsó szárnyakban található időszakos régészeti kiállításokat.",
+            "ro": "Minunați-vă de spectaculoasele cuverturi din mătase brodate manual din Castelo Branco găzduite în acest fost palat episcopal și nu uitați să verificați expozițiile arheologice temporare.",
+            "en": "Marvel at the spectacular, hand-embroidered Castelo Branco silk bedspreads housed in this former episcopal palace, and remember to check the temporary archaeological exhibits in the side wings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im historischen Herzen mit dem markanten Rathaus und tauchen Sie dann noch vor dem Mittag in die bunten modernen Kunstsammlungen im Cargaleiro-Museum ein.\nNach der Erkundung der alten Bischofsresidenz steigen Sie zur Burgruine auf, um bei einem tollen Blick über die Ebenen zu Mittag zu essen.\nDer Nachmittag offenbart das verborgene Erbe der Stadt beim Besuch des jüdischen Gedenkhauses und deckt Jahrhunderte verflochtener Kulturen auf.\nBeenden Sie Ihren Rundgang mit den exquisiten traditionellen Stickereien im Tavares Proença Museum, während die Dämmerung über die Plätze hereinbricht.",
+        "hu": "Kezdje a történelmi szívben a városházával, majd még dél előtt merüljön el a Cargaleiro múzeum színes modern művészeti gyűjteményeiben.\nA volt püspöki rezidencia boltíveinek felfedezése után felmászik a középkori várromhoz, hogy ebéd közben élvezze a síkságra nyíló kilátást.\nA délután felfedi a város rejtett örökségét, miközben meglátogatja a zsidó emlékházat, feltárva az évszázados összefonódó kultúrákat.\nZárja történelmi sétáját a Tavares Proença múzeum hagyományos hímzéseinek megcsodálásával, miközben az alkonyat leszáll a terekre.",
+        "ro": "Începeți în inima istorică cu primăria impresionantă, apoi explorați colecțiile de artă modernă colorată de la muzeul Cargaleiro înainte de prânz.\nDupă ce ați explorat arcadele fostei reședințe episcopale, urcați spre ruinele castelului pentru un prânz cu vedere peste câmpiile Beira Baixa.\nDupă-amiaza dezvăluie moștenirea ascunsă a orașului vizitând casa memorială evreiască, descoperind secole de culturi împletite și povești emoționante.\nÎncheiați turul pietonal admirând broderiile tradiționale rafinate la muzeul Tavares Proença în timp ce crepusculul se așterne elegant peste piețe.",
+        "en": "Start at the historic heart with the striking town hall, then dive straight into the colorful modern art collections at the Cargaleiro museum before noon.\nAfter exploring the archways of the former bishop's home, you'll climb toward the medieval castle ruins where you can enjoy lunch with a view over the expansive Beira Baixa plains.\nThe afternoon reveals the city's hidden heritage as you visit the Jewish memorial house, uncovering centuries of intertwined cultures and poignant stories passed down locally.\nConclude your rich historical walking tour admiring the exquisite traditional embroideries at the Tavares Proença museum as twilight settles elegantly across the city's cobblestone squares."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:37",
+      "total_km": 2.62,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fábrica da Criatividade",
+            "hu": "Fábrica da Criatividade",
+            "ro": "Fábrica da Criatividade",
+            "en": "Fábrica da Criatividade"
+          },
+          "coords": [
+            -7.483074,
+            39.824342
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturzentrum in die lokale Innovation ein und prüfen Sie bei Ihrer Ankunft das Tagesprogramm, um Live-Workshops oder Pop-up-Galerien nicht zu verpassen.",
+            "hu": "Merüljön el a helyi innovációban ebben a modern művészeteknek szentelt kulturális központban, és érkezéskor ellenőrizze a napi programot, hogy részt vehessen az élő workshopokon.",
+            "ro": "Lăsați-vă captivat de inovația locală în acest centru cultural dedicat artelor moderne și verificați programul zilnic la sosire pentru a prinde ateliere live sau galerii temporare.",
+            "en": "Immerse yourself in local innovation at this cultural hub dedicated to modern arts and creative industries, checking their daily schedule upon arrival to catch live workshops or pop-up galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Cultura Contemporânea de Castelo Branco",
+            "hu": "Centro de Cultura Contemporânea de Castelo Branco",
+            "ro": "Centro de Cultura Contemporânea de Castelo Branco",
+            "en": "Centro de Cultura Contemporânea de Castelo Branco"
+          },
+          "coords": [
+            -7.490171,
+            39.823326
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Erleben Sie avantgardistische Ausstellungen in einem markanten modernen Gebäude und gehen Sie auf die Außenterrasse, um eine einzigartige Perspektive auf die Umgebung zu genießen.",
+            "hu": "Tapasztalja meg az avantgárd kiállításokat egy feltűnően modern építészeti térben, amely kontrasztban áll a történelmi várossal, és menjen fel a teraszra egy egyedi kilátásért.",
+            "ro": "Experimentați expoziții avangardiste într-un spațiu arhitectural modern uimitor și urcați pe terasa în aer liber pentru o perspectivă unică asupra zonei înconjurătoare.",
+            "en": "Experience avant-garde exhibitions in a strikingly modern architectural space that contrasts with the historic city, and head up to the outdoor terrace for a unique perspective of the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Castelo Branco",
+            "hu": "Câmara Municipal de Castelo Branco",
+            "ro": "Câmara Municipal de Castelo Branco",
+            "en": "Câmara Municipal de Castelo Branco"
+          },
+          "coords": [
+            -7.49303,
+            39.822717
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses, das den administrativen Kern der Stadt bildet, und machen Sie ein kurzes Foto der Fassade, bevor Sie den Platz betreten.",
+            "hu": "Csodálja meg ennek a történelmi városházának az elegáns építészetét, amely a város közigazgatási központja, és készítsen egy gyors fotót a homlokzatáról, mielőtt kilépne a központi térre.",
+            "ro": "Admirați arhitectura elegantă a acestei clădiri municipale istorice, centrul administrativ al orașului, și faceți o fotografie rapidă a fațadei sale înainte de a păși în piața centrală.",
+            "en": "Admire the elegant architecture of this historic municipal building which anchors the city's administrative core, and grab a quick photo of its facade before stepping into the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Cargaleiro",
+            "hu": "Museu Cargaleiro",
+            "ro": "Museu Cargaleiro",
+            "en": "Museu Cargaleiro"
+          },
+          "coords": [
+            -7.494729,
+            39.825279
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die lebhafte Sammlung zeitgenössischer Kunst und Keramik von Manuel Cargaleiro und achten Sie besonders auf seine charakteristischen geometrischen Fliesen.",
+            "hu": "Fedezze fel Manuel Cargaleiro kortárs művészeti és kerámiagyűjteményét, különös figyelmet fordítva jellegzetes geometriai csempéire, amelyek gyönyörűen ötvözik a modern és hagyományos stílusokat.",
+            "ro": "Explorați colecția vibrantă de artă contemporană și ceramică a lui Manuel Cargaleiro, fiind atenți la plăcile sale geometrice caracteristice care îmbină frumos stilurile moderne și tradiționale.",
+            "en": "Explore the vibrant contemporary art and ceramics collection of Manuel Cargaleiro housed here, keeping an eye out for his signature geometric tiles that beautifully bridge modern and traditional styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Castelo Branco",
+            "hu": "Castelo de Castelo Branco",
+            "ro": "Castelo de Castelo Branco",
+            "en": "Castelo de Castelo Branco"
+          },
+          "coords": [
+            -7.496537,
+            39.825536
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Templerburg hinauf, um einen weiten Panoramablick über die Stadt zu genießen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Másszon fel a középkori templomos vár romjaihoz, ahonnan pazar panoráma nyílik a városra és a síkságra, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval templier pentru vederi panoramice ample asupra orașului și câmpiilor, asigurându-vă că purtați încălțăminte confortabilă pentru cărările pietruite inegale.",
+            "en": "Climb to the ruins of this medieval templar castle for sweeping panoramic views over the city and plains, making sure to wear comfortable shoes to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento da Graça Museu de Arte Sacra",
+            "hu": "Convento da Graça Museu de Arte Sacra",
+            "ro": "Convento da Graça Museu de Arte Sacra",
+            "en": "Convento da Graça Museu de Arte Sacra"
+          },
+          "coords": [
+            -7.494409,
+            39.829373
+          ],
+          "category": "religious",
+          "arrive_at": "17:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen religiösen Artefakte und beeindruckenden Altarbilder in diesem ruhigen Klostermuseum und sitzen Sie für ein paar Minuten der friedlichen Reflexion im Kreuzgang.",
+            "hu": "Tekintse meg a bonyolult vallási tárgyakat és lenyűgöző oltárképeket ebben a nyugodt kolostormúzeumban, és üljön le csendben a kerengőben néhány perc békés elmélkedésre.",
+            "ro": "Inspectați artefactele religioase complicate și altarele uimitoare păstrate în acest muzeu monastic liniștit și așezați-vă în tăcere în curtea interioară pentru câteva minute de reflecție.",
+            "en": "Inspect the intricate religious artifacts and stunning altarpieces preserved within this serene convent museum, and sit quietly in the cloisters for a few minutes of peaceful reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigos Palheiros",
+            "hu": "Antigos Palheiros",
+            "ro": "Antigos Palheiros",
+            "en": "Antigos Palheiros"
+          },
+          "coords": [
+            -7.485134,
+            39.828224
+          ],
+          "category": "historical",
+          "arrive_at": "17:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesen traditionellen alten Scheunen vorbei, die die landwirtschaftlichen Wurzeln der Region widerspiegeln, und beachten Sie ihre rustikale Steinkonstruktion, die den Jahrhunderten getrotzt hat.",
+            "hu": "Sétáljon el e hagyományos régi pajták mellett, amelyek a régió mezőgazdasági gyökereit tükrözik, és figyelje meg rusztikus kőszerkezetüket, amely kiállta az évszázadok próbáját.",
+            "ro": "Plimbați-vă pe lângă aceste vechi hambare tradiționale care reflectă rădăcinile agricole ale regiunii, remarcând construcția lor rustică din piatră care a rezistat trecerii secolelor.",
+            "en": "Walk past these traditional old barns which reflect the enduring agricultural roots of the region, noting their rustic stone construction that has withstood the test of passing centuries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit lokaler Kreativität in der Kulturfabrik und radeln Sie zum Zentrum für zeitgenössische Kultur für avantgardistische Installationen.\nRadeln Sie bequem zum administrativen Hauptplatz, um das Rathaus zu sehen, gefolgt von der leuchtenden Keramik im nahegelegenen Cargaleiro-Museum.\nSchalten Sie in den historischen Gang und radeln Sie zu den Burgruinen hinauf, um danach die sakrale Kunst im Kloster Graça zu entdecken.\nIhre Fahrt endet beim rustikalen Charme der alten Scheunen, einer ruhigen Reflexion der landwirtschaftlichen Vergangenheit im Abendlicht.",
+        "hu": "Kezdje a helyi kreativitással a kulturális gyárban, majd kerékpározzon a kortárs kulturális központhoz az inspiráló avantgárd installációkért.\nKerékpározzon a fő közigazgatási térre a városházához, majd élvezze a közeli Cargaleiro múzeum káprázatos kerámiáit és élénk színeit.\nVáltson történelmi fokozatba, és tekerjen fel a várromhoz, majd ereszkedjen le, hogy felfedezze a Graça kolostorban őrzött vallási művészetet.\nUtazása a régi pajták rusztikus bája között ér véget, amely a régió mezőgazdasági múltjának csendes tükörképe a lemenő nap fényében.",
+        "ro": "Începeți cu creativitatea locală la fabrica culturală, pedalând spre centrul de cultură contemporană pentru instalații de avangardă inspirate.\nPedalați spre piața administrativă pentru a vedea primăria, urmată de ceramica orbitoare și culorile strălucitoare din muzeul Cargaleiro din apropiere.\nTreceți într-o etapă istorică pedalând spre ruinele castelului, coborând apoi pentru a descoperi arta religioasă din Mănăstirea Graça.\nCălătoria se încheie printre farmecul rustic al vechilor hambare, o reflecție tăcută a trecutului agricol scăldat în lumina aurie a serii.",
+        "en": "Kick off with a dose of local creativity at the cultural factory, riding smoothly to the sleek contemporary culture center to witness avant-garde installations that inspire.\nPedal easily to the main administrative square to view the town hall, immediately followed by the dazzling ceramics and bright colors waiting inside the nearby Cargaleiro museum.\nShift into a historical gear as you bike up to the imposing castle ruins, descending shortly after to discover the tranquil religious art preserved gracefully within the Graça Convent.\nYour ride ends among the rustic charm of the old traditional barns, a quiet reflection of the region's agricultural past bathed in the golden, fading light of the early evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 3.67,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirante da Raia",
+            "hu": "Mirante da Raia",
+            "ro": "Mirante da Raia",
+            "en": "Mirante da Raia"
+          },
+          "coords": [
+            -7.492903,
+            39.810778
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Sightseeing mit einem weiten Blick auf die Grenzregion von diesem erhöhten Aussichtspunkt und bringen Sie ein Zoomobjektiv mit, um die fernen Hügel perfekt einzufangen.",
+            "hu": "Kezdje városnézését erről a magaslati pontról a határ felé nyíló pazar kilátással, és hozzon magával teleobjektívet, hogy tökéletesen megörökíthesse a távoli dombokat.",
+            "ro": "Începeți turul cu o priveliște amplă spre zonele de graniță din acest punct de observație înalt și aduceți un teleobiectiv pentru a surprinde perfect dealurile ondulate și așezările îndepărtate.",
+            "en": "Start your sightseeing with a sweeping view towards the borderlines from this elevated vantage point, bringing a zoom lens to capture the rolling hills and distant settlements perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirante da Senhora de Mércoles",
+            "hu": "Mirante da Senhora de Mércoles",
+            "ro": "Mirante da Senhora de Mércoles",
+            "en": "Mirante da Senhora de Mércoles"
+          },
+          "coords": [
+            -7.492701,
+            39.812525
+          ],
+          "category": "natural",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem malerischen Aussichtspunkt, der der lokalen Schutzpatronin gewidmet ist, und nutzen Sie den perfekten Ort, um tief durchzuatmen.",
+            "hu": "Élvezze a nyugodt légkört ezen a helyi védőszentnek szentelt festői kilátónál, amely tökéletes, csendes helyet kínál a pihenésre és egy mély lélegzetvételre a friss vidéki levegőből.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest punct de observație pitoresc dedicat patroanei locale, care oferă un loc perfect și tăcut pentru a vă relaxa și a respira aerul proaspăt de țară.",
+            "en": "Enjoy the tranquil atmosphere at this scenic overlook dedicated to the local patroness, which offers a perfect quiet spot to relax and take a few deep breaths of fresh countryside air."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirante de Castelo Branco",
+            "hu": "Mirante de Castelo Branco",
+            "ro": "Mirante de Castelo Branco",
+            "en": "Mirante de Castelo Branco"
+          },
+          "coords": [
+            -7.493528,
+            39.815089
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie von dieser günstig gelegenen Terrasse auf die weitläufige Stadtlandschaft, ein idealer Ort, um sich geografisch zu orientieren, bevor Sie in die engen Gassen eintauchen.",
+            "hu": "Tekintsen le az elterülő városi tájra erről a kényelmesen elhelyezkedő teraszról, amely ideális hely a tájékozódásra, mielőtt belevetné magát a belváros szűk utcáiba.",
+            "ro": "Priviți peisajul urban extins de pe această terasă convenabil amplasată, un loc ideal pentru a vă orienta geografic înainte de a vă scufunda în străduțele înguste ale centrului orașului.",
+            "en": "Look out over the sprawling urban landscape from this conveniently located terrace, which is an ideal spot to orient yourself geographically before diving into the city center's narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Associação Cultural E Desportiva Carapalha",
+            "hu": "Associação Cultural E Desportiva Carapalha",
+            "ro": "Associação Cultural E Desportiva Carapalha",
+            "en": "Associação Cultural E Desportiva Carapalha"
+          },
+          "coords": [
+            -7.483386,
+            39.81534
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich mit dem Alltagsrhythmus von Castelo Branco in diesem lebendigen Gemeindezentrum und überprüfen Sie die Informationstafeln auf spontane kulturelle Veranstaltungen oder Sportspiele.",
+            "hu": "Kapcsolódjon be Castelo Branco mindennapi ritmusába ennek az élénk közösségi egyesületnek a meglátogatásával, és ellenőrizze a hirdetőtáblákat az esetleges spontán kulturális eseményekért.",
+            "ro": "Conectați-vă cu ritmul cotidian din Castelo Branco vizitând acest centru comunitar plin de viață și verificați avizierele pentru eventuale evenimente culturale sau meciuri sportive spontane astăzi.",
+            "en": "Connect with the everyday rhythm of Castelo Branco by visiting this lively community association hub, and check their notice boards for any impromptu cultural events or sports matches happening today."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Cultura Contemporânea de Castelo Branco",
+            "hu": "Centro de Cultura Contemporânea de Castelo Branco",
+            "ro": "Centro de Cultura Contemporânea de Castelo Branco",
+            "en": "Centro de Cultura Contemporânea de Castelo Branco"
+          },
+          "coords": [
+            -7.490171,
+            39.823326
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Erleben Sie avantgardistische Ausstellungen in einem markanten modernen Gebäude und gehen Sie auf die Außenterrasse, um eine einzigartige Perspektive auf die Umgebung zu genießen.",
+            "hu": "Tapasztalja meg az avantgárd kiállításokat egy feltűnően modern építészeti térben, amely kontrasztban áll a történelmi várossal, és menjen fel a teraszra egy egyedi kilátásért.",
+            "ro": "Experimentați expoziții avangardiste într-un spațiu arhitectural modern uimitor și urcați pe terasa în aer liber pentru o perspectivă unică asupra zonei înconjurătoare.",
+            "en": "Experience avant-garde exhibitions in a strikingly modern architectural space that contrasts with the historic city, and head up to the outdoor terrace for a unique perspective of the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Francisco Tavares Proença Júnior",
+            "hu": "Museu Francisco Tavares Proença Júnior",
+            "ro": "Museu Francisco Tavares Proença Júnior",
+            "en": "Museu Francisco Tavares Proença Júnior"
+          },
+          "coords": [
+            -7.494233,
+            39.828233
+          ],
+          "category": "museum",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären, handgestickten Seidentagesdecken aus Castelo Branco in diesem ehemaligen Bischofspalast und besuchen Sie auch die archäologischen Wechselausstellungen.",
+            "hu": "Csodálja meg a látványos, kézzel hímzett selyem ágytakarókat ebben az egykori püspöki palotában, és ne felejtse el megtekinteni az oldalsó szárnyakban található időszakos régészeti kiállításokat.",
+            "ro": "Minunați-vă de spectaculoasele cuverturi din mătase brodate manual din Castelo Branco găzduite în acest fost palat episcopal și nu uitați să verificați expozițiile arheologice temporare.",
+            "en": "Marvel at the spectacular, hand-embroidered Castelo Branco silk bedspreads housed in this former episcopal palace, and remember to check the temporary archaeological exhibits in the side wings."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento da Graça Museu de Arte Sacra",
+            "hu": "Convento da Graça Museu de Arte Sacra",
+            "ro": "Convento da Graça Museu de Arte Sacra",
+            "en": "Convento da Graça Museu de Arte Sacra"
+          },
+          "coords": [
+            -7.494409,
+            39.829373
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen religiösen Artefakte und beeindruckenden Altarbilder in diesem ruhigen Klostermuseum und sitzen Sie für ein paar Minuten der friedlichen Reflexion im Kreuzgang.",
+            "hu": "Tekintse meg a bonyolult vallási tárgyakat és lenyűgöző oltárképeket ebben a nyugodt kolostormúzeumban, és üljön le csendben a kerengőben néhány perc békés elmélkedésre.",
+            "ro": "Inspectați artefactele religioase complicate și altarele uimitoare păstrate în acest muzeu monastic liniștit și așezați-vă în tăcere în curtea interioară pentru câteva minute de reflecție.",
+            "en": "Inspect the intricate religious artifacts and stunning altarpieces preserved within this serene convent museum, and sit quietly in the cloisters for a few minutes of peaceful reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Castelo Branco",
+            "hu": "Castelo de Castelo Branco",
+            "ro": "Castelo de Castelo Branco",
+            "en": "Castelo de Castelo Branco"
+          },
+          "coords": [
+            -7.496537,
+            39.825536
+          ],
+          "category": "historical",
+          "arrive_at": "16:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Templerburg hinauf, um einen weiten Panoramablick über die Stadt zu genießen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Másszon fel a középkori templomos vár romjaihoz, ahonnan pazar panoráma nyílik a városra és a síkságra, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval templier pentru vederi panoramice ample asupra orașului și câmpiilor, asigurându-vă că purtați încălțăminte confortabilă pentru cărările pietruite inegale.",
+            "en": "Climb to the ruins of this medieval templar castle for sweeping panoramic views over the city and plains, making sure to wear comfortable shoes to navigate the uneven stone paths safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie an den Rand der Stadt und wechseln Sie zwischen drei Aussichtspunkten, um herrliche morgendliche Ausblicke bis zur Grenze einzufangen.\nParken Sie in der Nähe des Kulturvereins Carapalha, um das Gemeindeleben zu spüren, bevor Sie in das moderne Zentrum der zeitgenössischen Kultur fahren.\nFahren Sie zurück ins historische Viertel, um die berühmten Seidenstickereien im Tavares Proença Museum und das ruhige Kloster Graça zu bewundern.\nFahren Sie zum höchsten Punkt der Stadt, um den Sonnenuntergang von der Templerburgruine zu beobachten, gekrönt von funkelnden Stadtlichtern.",
+        "hu": "Autózzon a város szélére, és látogasson el három különböző kilátóhoz, hogy megörökítse a portugál síkságok határig nyúló reggeli panorámáját.\nParkoljon a pezsgő Carapalha kulturális egyesület közelében egy kis közösségi életért, mielőtt a modern kortárs kulturális központot fedezné fel.\nTérjen vissza a történelmi negyedbe, és csodálja meg a híres selyemhímzéseket a Tavares Proença múzeumban, majd a nyugodt Graça kolostort.\nHajtson fel a város csúcsára, és nézze a naplementét a templomos vár romjaitól, felejthetetlen panorámával zárva autós túráját.",
+        "ro": "Conduceți la marginea orașului, trecând între trei puncte de observație pentru a capta priveliști matinale ample ale câmpiilor până la graniță.\nParcați lângă asociația culturală vibrantă Carapalha pentru a simți viața comunitară înainte de a explora centrul modern de cultură contemporană.\nÎntoarceți-vă spre cartierul istoric pentru a admira celebrele mătăsuri brodate la muzeul Tavares Proença, apoi vizitați liniștita Mănăstire Graça.\nConduceți la apogeul orașului pentru a privi apusul de la ruinele castelului templier, încheind turul motorizat cu o panoramă de neuitat.",
+        "en": "Drive out to the city's scenic edge, hopping effortlessly between three distinct viewpoints to capture sweeping morning vistas of the Portuguese plains right up to the border.\nPark near the vibrant Carapalha cultural association for a taste of daily community life before driving into the modern heart to explore the vast, striking contemporary culture center.\nHead back toward the historic district to admire the famous hand-embroidered silks at the Tavares Proença museum, then briefly visit the serene Graça Convent just up the street.\nDrive to the peak of the city to watch the sunset from the commanding Templar castle ruins, concluding your motorized tour with an unforgettable panorama as city lights begin to flicker."
+      }
+    }
+  }
+}

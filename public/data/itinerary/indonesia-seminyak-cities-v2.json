@@ -1,0 +1,428 @@
+{
+  "city_id": "indonesia-seminyak-cities-v2",
+  "anchor": {
+    "name": "Seminyak",
+    "coords": [
+      115.165833,
+      -8.690556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Desa Adat Legian",
+            "hu": "Pasar Desa Adat Legian",
+            "ro": "Pasar Desa Adat Legian",
+            "en": "Pasar Desa Adat Legian"
+          },
+          "coords": [
+            115.171913,
+            -8.698321
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf dem Pasar Desa Adat Legian in die pulsierende lokale Kultur ein, einem Markt für frische Produkte und Kunsthandwerk, den Sie am besten früh morgens besuchen.",
+            "hu": "Merüljön el a vibráló helyi kultúrában a Pasar Desa Adat Legian piacon, ahol friss termékeket és kézműves árukat talál, de érdemes minél korábban érkezni a legjobb kínálatért.",
+            "ro": "Descoperiți cultura locală vibrantă la Pasar Desa Adat Legian, o piață autentică plină de produse proaspete și meșteșuguri, cel mai bine de vizitat dimineața devreme.",
+            "en": "Dive into the vibrant local culture at Pasar Desa Adat Legian, an authentic market bursting with fresh produce and crafts, best visited early for the freshest morning yields."
+          }
+        },
+        {
+          "name": {
+            "de": "Rynok",
+            "hu": "Rynok",
+            "ro": "Rynok",
+            "en": "Rynok"
+          },
+          "coords": [
+            115.173986,
+            -8.698419
+          ],
+          "category": "cultural",
+          "arrive_at": "10:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie Rynok, einen wichtigen Kulturort, der das lokale Handelserbe widerspiegelt und handgefertigte Waren bietet, und bringen Sie für einfache Verhandlungen Bargeld mit.",
+            "hu": "Fedezze fel Rynok kulturális helyszínét, amely a helyi kereskedelmi örökséget tükrözi egyedi kézműves termékeivel, így érdemes némi készpénzt hozni az egyszerűbb alkudozáshoz.",
+            "ro": "Explorați Rynok, un loc cultural esențial care reflectă moștenirea comercială prin bunuri unice lucrate manual, așa că aduceți numerar mărunt pentru negocieri mai ușoare.",
+            "en": "Explore Rynok, an essential cultural spot reflecting local trading heritage where you can find unique handmade goods, so bring some small cash for easier bargaining deals."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyaman Gallery",
+            "hu": "Nyaman Gallery",
+            "ro": "Nyaman Gallery",
+            "en": "Nyaman Gallery"
+          },
+          "coords": [
+            115.16685,
+            -8.684515
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische Kunst in der Nyaman Gallery, einem wunderschön kuratierten modernen Raum, wo es ratsam ist, sich Zeit für die wechselnden Ausstellungen zu nehmen.",
+            "hu": "Csodálja meg a kortárs indonéz művészetet a Nyaman Gallery modern és gyönyörűen rendezett terében, ahol érdemes elegendő időt szánni a lenyűgöző és folyton változó kiállításokra.",
+            "ro": "Admirați arta contemporană la Nyaman Gallery, un spațiu modern frumos amenajat, unde este recomandat să vă faceți timp pentru a aprecia expozițiile captivante în schimbare.",
+            "en": "Admire contemporary Indonesian and international art at Nyaman Gallery, a beautifully curated modern space where taking your time to appreciate the changing exhibits is advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Kenny Furniture",
+            "hu": "Kenny Furniture",
+            "ro": "Kenny Furniture",
+            "en": "Kenny Furniture"
+          },
+          "coords": [
+            115.164424,
+            -8.68087
+          ],
+          "category": "cultural",
+          "arrive_at": "13:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie bei Kenny Furniture die exquisite lokale Handwerkskunst mit traditionellen Holzarbeiten, wobei Sie unbedingt nach den maßgeschneiderten Versandoptionen fragen sollten.",
+            "hu": "Fedezze fel a kiváló helyi kézművességet a Kenny Furniture üzletében, amely hagyományos famunkákat mutat be, és érdemes érdeklődni a nemzetközi szállítási lehetőségekről is.",
+            "ro": "Descoperiți măiestria locală rafinată la Kenny Furniture, care prezintă prelucrarea tradițională a lemnului, și nu ezitați să vă interesați de expedierea internațională.",
+            "en": "Discover exquisite local craftsmanship at Kenny Furniture, showcasing traditional woodwork and culturally significant design, while noting their bespoke international shipping."
+          }
+        },
+        {
+          "name": {
+            "de": "Axioo",
+            "hu": "Axioo",
+            "ro": "Axioo",
+            "en": "Axioo"
+          },
+          "coords": [
+            115.164423,
+            -8.679693
+          ],
+          "category": "cultural",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang bei Axioo, einem Kreativstudio, das Balis künstlerische Seele in Fotografie und Design einfängt und ideal für ein visuelles Souvenir ist.",
+            "hu": "Zárja sétáját az Axioo kreatív stúdiójában, amely gyönyörűen megörökíti Bali művészi lelkét fotókon keresztül, ami tökéletes helyszín egy egyedi vizuális emléktárgy beszerzésére.",
+            "ro": "Încheiați plimbarea la Axioo, un studio creativ care surprinde sufletul artistic al insulei Bali prin fotografie și design, fiind ideal pentru a alege un suvenir vizual inedit.",
+            "en": "Conclude your walk at Axioo, a creative studio that beautifully captures Bali's artistic soul through photography and design, perfect for picking up a unique visual souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in Seminyak auf dem lebhaften Pasar Desa Adat Legian. Mittags tauchen Sie im Rynok in das lokale Handelserbe ein und besuchen die inspirierende Nyaman Gallery. Am Nachmittag bewundern Sie die traditionelle Holzkunst bei Kenny Furniture. Der Abend klingt im Axioo aus, einem Kreativstudio, das die künstlerische Essenz der Insel perfekt einfängt.",
+        "hu": "Kezdje Seminyak-i sétáját a nyüzsgő Pasar Desa Adat Legian piacon, egy igazi autentikus élménnyel. Délben a Rynok helyi kereskedelmi szívén keresztül a Nyaman Gallery inspiráló tereibe érkezik. Délután csodálja meg a hagyományos famunkákat a Kenny Furniture üzletében. Az este az Axioo kreatív stúdiójában köszönt be, amely tökéletesen megörökíti a sziget művészi lényegét.",
+        "ro": "Începeți plimbarea din Seminyak la piața plină de viață Pasar Desa Adat Legian. La prânz, treceți prin inima comercială de la Rynok și ajungeți în spațiile inspirate ale Nyaman Gallery. Pe măsură ce se lasă după-amiaza, admirați obiectele tradiționale din lemn la Kenny Furniture. Seara cade frumos la Axioo, un studio creativ care surprinde perfect esența artistică a insulei.",
+        "en": "Begin your Seminyak stroll at the lively Pasar Desa Adat Legian, an authentic morning experience. Midday brings you through the local trading heart of Rynok and into the inspiring spaces of Nyaman Gallery. As afternoon settles, admire traditional woodcraft at Kenny Furniture. Evening falls beautifully at Axioo, a creative studio capturing the island's artistic essence perfectly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Taman Bali Market",
+            "hu": "Taman Bali Market",
+            "ro": "Taman Bali Market",
+            "en": "Taman Bali Market"
+          },
+          "coords": [
+            115.165631,
+            -8.672233
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am Taman Bali Market, einem lebhaften Zentrum des lokalen Lebens mit authentischen Snacks, wo Sie traditionelle Süßigkeiten frühzeitig probieren sollten.",
+            "hu": "Kezdje biciklitúráját a Taman Bali Market nyüzsgő központjában, ahol bepillanthat a helyiek mindennapjaiba, és feltétlenül kóstolja meg a hagyományos édességeket még délelőtt.",
+            "ro": "Începeți turul cu bicicleta la Taman Bali Market, un centru energic al vieții locale cu gustări autentice, unde trebuie să gustați dulciurile tradiționale înainte să se epuizeze.",
+            "en": "Start your bike tour at Taman Bali Market, an energetic hub of daily local life offering authentic snacks, so be sure to try the traditional sweets early before they sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Artissimo Gallery",
+            "hu": "Artissimo Gallery",
+            "ro": "Artissimo Gallery",
+            "en": "Artissimo Gallery"
+          },
+          "coords": [
+            115.164488,
+            -8.671991
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Artissimo Gallery, um eine intime Sammlung raffinierter asiatischer Kunstwerke zu erkunden, und denken Sie daran, die ruhige Atmosphäre in den Sälen zu respektieren.",
+            "hu": "Tekerjen át az Artissimo Gallery galériába, hogy felfedezzen egy meghitt ázsiai művészeti gyűjteményt, miközben ügyel arra, hogy csendben tiszteletben tartsa a termek nyugalmát.",
+            "ro": "Pedalați spre Artissimo Gallery pentru a explora o colecție intimă de opere de artă asiatice rafinate, amintindu-vă să respectați liniștea și atmosfera liniștită din interior.",
+            "en": "Pedal over to Artissimo Gallery to explore an intimate collection of refined Asian artworks and classical pieces, remembering to respect the tranquil atmosphere inside the halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikat",
+            "hu": "Ikat",
+            "ro": "Ikat",
+            "en": "Ikat"
+          },
+          "coords": [
+            115.16462,
+            -8.675549
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ikat-Museum die komplexe Welt der traditionellen indonesischen Weberei, wo Sie die atemberaubenden Textilmuster genau betrachten sollten, um die Details zu sehen.",
+            "hu": "Ismerje meg a hagyományos indonéz szövés bonyolult világát az Ikat múzeumban, ahol érdemes közelről megvizsgálni a lenyűgöző textilmintákat a részletek teljes megértéséhez.",
+            "ro": "Descoperiți lumea complexă a țesutului tradițional indonezian la muzeul Ikat, unde ar trebui să priviți îndeaproape modelele textile uimitoare pentru a aprecia fiecare detaliu.",
+            "en": "Uncover the intricate world of traditional Indonesian weaving at the Ikat museum, where you should look closely at the stunning textile patterns to fully appreciate the detail."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Petitenget",
+            "hu": "Pura Petitenget",
+            "ro": "Pura Petitenget",
+            "en": "Pura Petitenget"
+          },
+          "coords": [
+            115.152672,
+            -8.682086
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den heiligen Meerestempel Pura Petitenget, der für das balinesische spirituelle Leben wichtig ist, und tragen Sie einen Sarong, um das Tempelgelände zu betreten.",
+            "hu": "Látogasson el a szent Pura Petitenget tengeri templomba, amely kulcsfontosságú a balinéz spirituális életben, és a belépéshez feltétlenül viseljen szarongot a tisztelet jeléül.",
+            "ro": "Vizitați sacrul Pura Petitenget, un templu maritim istoric esențial pentru viața spirituală balineză, și asigurați-vă că purtați un sarong pentru a intra respectuos în incintă.",
+            "en": "Visit the sacred Pura Petitenget, a historic sea temple crucial to Balinese spiritual life, and ensure you wear a sarong and sash to respectfully enter the holy temple grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "sea vu play",
+            "hu": "sea vu play",
+            "ro": "sea vu play",
+            "en": "sea vu play"
+          },
+          "coords": [
+            115.152864,
+            -8.680534
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im nautisch inspirierten sea vu play, einem farbenfrohen Wahrzeichen in Strandnähe, das sich ideal für ein erfrischendes tropisches Kaltgetränk anbietet.",
+            "hu": "Pihenjen a tengerészeti témájú sea vu play színes létesítményében, amely a part közelében ideális helyszín egy hűsítő trópusi italra.",
+            "ro": "Relaxați-vă la sea vu play, un reper colorat cu tematică nautică situat perfect lângă plajă, care devine locul ideal pentru a savura o băutură tropicală rece și răcoritoare.",
+            "en": "Relax at the nautically themed sea vu play, a quirky and colorful landmark perfectly positioned near the beach, making it an ideal spot to grab a refreshing tropical cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayu aya",
+            "hu": "Kayu aya",
+            "ro": "Kayu aya",
+            "en": "Kayu aya"
+          },
+          "coords": [
+            115.156267,
+            -8.685884
+          ],
+          "category": "cultural",
+          "arrive_at": "15:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an der lebhaften Straße Kayu aya mit ihrer eklektischen Mischung aus Boutiquen, wo Sie Ihr Fahrrad sicher anschließen sollten, um entspannt zu flanieren.",
+            "hu": "Fejezze be útját a pezsgő Kayu aya sétányán, amely butikjairól és kulturális energiájáról ismert, így érdemes biztonságosan lezárni a kerékpárt egy kényelmes sétához.",
+            "ro": "Încheiați-vă turul pe strada vibrantă Kayu aya, cunoscută pentru mixul său de buticuri și energie culturală, unde legarea în siguranță a bicicletei vă permite să vă plimbați.",
+            "en": "Finish along the vibrant stretch of Kayu aya, known for its eclectic mix of boutiques and cultural energy, where locking your bike securely allows you to easily stroll around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radroute am Taman Bali Market und genießen Sie die morgendliche Energie. Mittags laden die Artissimo Gallery mit asiatischer Kunst und die Textilien im Ikat-Museum ein. Am Nachmittag radeln Sie zum heiligen Meerestempel Pura Petitenget. Lassen Sie den aktiven Tag am Strand bei sea vu play ausklingen, gefolgt von einem Bummel entlang der lebhaften Straße Kayu aya.",
+        "hu": "Indítsa kerékpártúráját a Taman Bali Market piacán, magába szívva az élénk reggeli hangulatot. Délben az Artissimo Gallery kifinomult ázsiai művészete és az Ikat bonyolult textíliái várják. Délután tekerjen a szent Pura Petitenget tengerparti templom felé. Zárja aktív napját a tengerparti sea vu play pihentető közegében, majd tegyen egy kellemes sétát a pezsgő Kayu aya mentén.",
+        "ro": "Începeți traseul cu bicicleta la Taman Bali Market, bucurându-vă de vibrațiile energice ale dimineții. La prânz, explorați arta asiatică de la Artissimo Gallery și textilele de la Ikat. După-amiaza, pedalați spre templul sacru Pura Petitenget de la malul mării. Încheiați-vă ziua activă relaxându-vă la sea vu play, urmat de o plimbare plăcută pe strada plină de viață Kayu aya.",
+        "en": "Kick off your cycling route at Taman Bali Market, soaking in the energetic morning vibes. Midday invites you to explore the refined Asian art at Artissimo Gallery and the intricate textiles of Ikat. In the afternoon, ride towards the sacred seaside grounds of Pura Petitenget. Finish your active day relaxing near the beach at sea vu play, followed by a stroll along vibrant Kayu aya."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zahara Urban Farm",
+            "hu": "Zahara Urban Farm",
+            "ro": "Zahara Urban Farm",
+            "en": "Zahara Urban Farm"
+          },
+          "coords": [
+            115.178945,
+            -8.667011
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip auf der Zahara Urban Farm, einer grünen Oase der nachhaltigen städtischen Landwirtschaft, wo eine Gartenführung die ökologischen Methoden erklärt.",
+            "hu": "Kezdje autós útját a Zahara Urban Farm zöld oázisában, amely a fenntartható városi mezőgazdaságot mutatja be, és érdemes részt venni egy vezetett kerti túrán a módszerekért.",
+            "ro": "Începeți excursia cu mașina la Zahara Urban Farm, o oază verde reconfortantă de agricultură durabilă, unde un tur ghidat al grădinii vă va explica minunatele metode ecologice.",
+            "en": "Begin your road trip at Zahara Urban Farm, a refreshing green oasis showcasing sustainable agriculture in the city, where joining a guided garden tour explains the eco methods."
+          }
+        },
+        {
+          "name": {
+            "de": "Adventure scuba diving",
+            "hu": "Adventure scuba diving",
+            "ro": "Adventure scuba diving",
+            "en": "Adventure scuba diving"
+          },
+          "coords": [
+            115.171337,
+            -8.68127
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.79,
+          "tip_5lang": {
+            "de": "Besuchen Sie Adventure scuba diving, um mehr über Balis Unterwasserwelt zu erfahren, und achten Sie darauf, Ihre zukünftigen Ausflüge direkt am Schalter im Voraus zu buchen.",
+            "hu": "Látogasson el az Adventure scuba diving központba, hogy megismerje Bali tengeri élővilágát, és feltétlenül foglalja le jövőbeli vízi kirándulásait közvetlenül az ügyfélszolgálaton.",
+            "ro": "Mergeți la Adventure scuba diving pentru a afla despre viața marină din Bali, asigurându-vă că rezervați viitoarele excursii acvatice minunate direct la biroul principal.",
+            "en": "Head to Adventure scuba diving to learn about Bali's magnificent marine life and diving opportunities, making sure to book your future aquatic excursions directly at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyaman Gallery",
+            "hu": "Nyaman Gallery",
+            "ro": "Nyaman Gallery",
+            "en": "Nyaman Gallery"
+          },
+          "coords": [
+            115.16685,
+            -8.684515
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie die renommierte Nyaman Gallery mit außergewöhnlicher zeitgenössischer Kunst, und nehmen Sie sich Zeit für die vielfältigen Techniken.",
+            "hu": "Parkoljon le a közelben, és fedezze fel a rangos Nyaman Gallery lenyűgöző kortárs művészeti alkotásait, miközben elegendő időt szán a változatos alkotói technikák megfigyelésére.",
+            "ro": "Parcați în apropiere și explorați prestigioasa Nyaman Gallery, care oferă artă contemporană excepțională, așa că faceți-vă timp pentru a examina tehnicile artistice diverse.",
+            "en": "Park nearby and explore the prestigious Nyaman Gallery, offering exceptional local and international contemporary art pieces, so take your time examining the diverse techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Petitenget",
+            "hu": "Pura Petitenget",
+            "ro": "Pura Petitenget",
+            "en": "Pura Petitenget"
+          },
+          "coords": [
+            115.152672,
+            -8.682086
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.58,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Pura Petitenget, einem alten Meerestempel voller balinesischer Mythologie, und respektieren Sie die lokalen Bräuche, indem Sie angemessene Tempelkleidung tragen.",
+            "hu": "Vezessen a csodálatos Pura Petitenget tengerparti templomhoz, amely a balinéz mitológiából merít, de a belépés előtt feltétlenül vegyen fel megfelelő és tiszteletteljes öltözéket.",
+            "ro": "Conduceți până la magnificul Pura Petitenget, un vechi templu maritim plin de mitologie balineză, dar respectați obiceiurile locale purtând o ținută adecvată înainte de a intra.",
+            "en": "Drive to the magnificent Pura Petitenget, an ancient seaside temple steeped in Balinese mythology, but respect local customs by wearing proper temple attire before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Batubelig Beach",
+            "hu": "Batubelig Beach",
+            "ro": "Batubelig Beach",
+            "en": "Batubelig Beach"
+          },
+          "coords": [
+            115.144854,
+            -8.673337
+          ],
+          "category": "landmark",
+          "arrive_at": "13:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Batubelig Beach, einem weniger überlaufenen Sandstrand, der sich perfekt für Sonnenuntergänge eignet, wo frühes Erscheinen einen tollen Platz sichert.",
+            "hu": "Fejezze be autózását a Batubelig Beach lenyűgöző homokos partján, amely kevésbé zsúfolt és tökéletes naplementéhez, de érdemes korábban érkezni a legjobb kilátást nyújtó helyért.",
+            "ro": "Încheiați la Batubelig Beach, o întindere de nisip mai puțin aglomerată, perfectă pentru apusuri de soare, unde dacă ajungeți puțin mai devreme vă garantați un loc minunat.",
+            "en": "Conclude your drive at Batubelig Beach, a less crowded and stunning stretch of sand perfect for sunset views, where arriving a bit earlier guarantees a great spot on the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt auf der erfrischenden Zahara Urban Farm und erkunden Sie grüne Initiativen. Mittags entdecken Sie Wasserabenteuer im Tauchzentrum und Kunstwerke in der Nyaman Gallery. Am Nachmittag erreichen Sie den legendären Pura Petitenget, um seine spirituelle Geschichte zu erleben. Schließen Sie mit einer Fahrt zum Batubelig Beach ab, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje autós túráját a frissítő Zahara Urban Farm zöldellő területén, és fedezze fel az ökológiai kezdeményezéseket. Délben vízi kalandok várják a búvárközpontban, majd a Nyaman Gallery lenyűgöző műalkotásai. Késő délután érkezzen meg az ikonikus Pura Petitenget templomhoz. Zárja a napot egy varázslatos autózással a Batubelig Beach homokos partjára egy tökéletes naplementéért.",
+        "ro": "Începeți turul cu mașina la revigoranta Zahara Urban Farm, explorând inițiativele verzi. La prânz veți descoperi aventuri acvatice la centrul de scufundări și opere de artă prestigioase la Nyaman Gallery. După-amiaza, ajungeți la emblematicul Pura Petitenget pentru a-i absorbi istoria spirituală. Încheiați cu o seară superbă la Batubelig Beach pentru un apus de soare perfect.",
+        "en": "Start your driving tour at the refreshing Zahara Urban Farm, exploring the green initiatives. Midday leads you to discover aquatic adventures at the diving center and the prestigious artworks inside Nyaman Gallery. By mid-afternoon, arrive at the iconic Pura Petitenget to absorb its spiritual history. Conclude with a stunning twilight drive to Batubelig Beach for a perfect sunset."
+      }
+    }
+  }
+}

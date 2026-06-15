@@ -1,0 +1,474 @@
+{
+  "city_id": "erquinghem-lys",
+  "anchor": {
+    "name": "Erquinghem-Lys",
+    "coords": [
+      2.8475,
+      50.6756
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Agoralys",
+            "hu": "Agoralys Kulturális Központ",
+            "ro": "Centrul Cultural Agoralys",
+            "en": "Agoralys Cultural Center"
+          },
+          "coords": [
+            2.844601,
+            50.676328
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lebendige lokale Kunst in diesem modernen Kulturzentrum, das die regionale Kreativität wunderbar hervorhebt; prüfen Sie den Zeitplan für morgendliche Ausstellungen.",
+            "hu": "Fedezze fel a vibráló helyi művészeteket ebben a modern kulturális központban, amely bemutatja a regionális kreativitást; érkezzen korán a reggeli kiállítások megtekintéséhez.",
+            "ro": "Descoperiți arta locală vibrantă la acest centru cultural modern care evidențiază frumos creativitatea regională; verificați programul pentru expozițiile de dimineață devreme.",
+            "en": "Discover vibrant local arts at this modern cultural hub which beautifully highlights regional creativity; check their schedule for morning exhibitions before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.84601,
+            50.679023
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die als Symbol für die Widerstandskraft der Stadt steht; treten Sie ein, um die Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, amely a város rugalmasságának szimbóluma; lépjen be, hogy megnézze az ólomüveg ablakokat a déli napfényben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, un simbol al rezilienței orașului; intrați pentru a aprecia vitraliile luminate de soarele puternic al amiezii.",
+            "en": "Admire the striking architecture of this historic church that stands as a symbol of the town's resilience; step inside to appreciate the stained glass when the midday sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "Motte féodale",
+            "hu": "Motte féodale",
+            "ro": "Motte féodale",
+            "en": "Motte féodale"
+          },
+          "coords": [
+            2.847462,
+            50.680691
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieses mittelalterlichen Hügels, der einen Einblick in frühe Verteidigungsanlagen bietet; tragen Sie feste Schuhe für den rutschigen Weg.",
+            "hu": "Fedezze fel ennek a középkori dombnak az ősi maradványait, amely bepillantást enged a korai védelmi építményekbe; viseljen erős cipőt, mert a füves ösvény csúszós lehet.",
+            "ro": "Explorați rămășițele antice ale acestei movile medievale care oferă o privire asupra structurilor defensive timpurii; purtați încălțăminte robustă deoarece cărarea alunecă.",
+            "en": "Explore the ancient remnants of this medieval mound that offers a glimpse into early defensive structures; wear sturdy walking shoes as the grassy path can get quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Lys",
+            "hu": "Lys folyó partja",
+            "ro": "Malurile râului Lys",
+            "en": "Lys River Banks"
+          },
+          "coords": [
+            2.853199,
+            50.676201
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen ruhigen Flussufern mit üppiger Landschaft, die Generationen inspirierte; packen Sie ein Picknick ein, um es auf den Holzbänken zu genießen.",
+            "hu": "Pihenjen ezeken a nyugodt folyópartokon, amelyeknek buja tája generációkat ihletett meg; hozzon magával egy könnyű pikniket, amelyet a vízparton szétszórt fapadokon fogyaszthat.",
+            "ro": "Relaxați-vă de-a lungul acestor maluri liniștite ale râului, cu peisaje luxuriante care au inspirat generații; pregătiți un picnic ușor pentru a-l savura pe băncile de lemn.",
+            "en": "Relax along these tranquil riverbanks featuring lush scenery that inspired generations; pack a light picnic to enjoy on the wooden benches scattered along the water's calming edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Salve Regina",
+            "hu": "Salve Regina",
+            "ro": "Salve Regina",
+            "en": "Salve Regina"
+          },
+          "coords": [
+            2.8452,
+            50.671417
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ruhigen lokalen Wahrzeichen, das das tiefe spirituelle Erbe der Gemeinde widerspiegelt; besuchen Sie es am späten Nachmittag für eine ruhigere Atmosphäre.",
+            "hu": "Álljon meg ennél a nyugodt helyi nevezetességnél, amely a közösség mély spirituális örökségét tükrözi; látogasson el ide késő délután egy csendesebb, elmélkedésre alkalmas légkörért.",
+            "ro": "Opriți-vă la acest reper local senin care reflectă moștenirea spirituală profundă a comunității; vizitați după-amiaza târziu pentru o atmosferă mai liniștită, de contemplare.",
+            "en": "Pause at this serene local landmark reflecting the deep spiritual heritage of the community; visit during the late afternoon for a quieter atmosphere perfect for contemplation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Kulturzentrum Agoralys, gefolgt von der historischen Église Saint-Martin.\n\nMittags erkunden Sie die mittelalterlichen Überreste der nahegelegenen Motte féodale.\n\nAm Nachmittag schlendern Sie gemütlich an den Ufern der Lys entlang.\n\nDer Abend endet mit ruhiger Besinnung am friedlichen Denkmal Salve Regina.",
+        "hu": "A reggel a nyüzsgő Agoralys Kulturális Központban kezdődik, majd a történelmi Église Saint-Martin következik.\n\nDélben fedezze fel a közeli Motte féodale középkori maradványait.\n\nDélután tegyen egy kellemes sétát, és pihenjen a festői Lys folyó partján.\n\nAz estét a csendes Salve Regina emlékműnél tartott nyugodt elmélkedés zárja.",
+        "ro": "Dimineața începe la vibrantul Centru Cultural Agoralys, urmat de istorica Église Saint-Martin.\n\nLa amiază, explorați rămășițele medievale de la Motte féodale din apropiere.\n\nDupă-amiaza, faceți o plimbare ușoară pentru a vă relaxa de-a lungul malurilor pitorești ale râului Lys.\n\nSeara se încheie cu o reflecție liniștită la Salve Regina.",
+        "en": "Morning begins at the vibrant Agoralys Cultural Center, followed by the historic Église Saint-Martin.\n\nMidday, explore the medieval remnants of the Motte féodale nearby.\n\nIn the afternoon, take a gentle stroll to relax along the scenic Lys River Banks.\n\nEvening concludes with quiet reflection at the serene Salve Regina monument."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 4.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Erquinghem-Lys",
+            "hu": "Erquinghem-Lys Városháza",
+            "ro": "Primăria Erquinghem-Lys",
+            "en": "Erquinghem-Lys Town Hall"
+          },
+          "coords": [
+            2.819794,
+            50.675931
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des bürgerlichen Herzens der Stadt, die die lokale Architektur verankert; machen Sie morgens die besten Fotos vom Platz gegenüber.",
+            "hu": "Figyelje meg a város polgári szívének elegáns homlokzatát, amely gyönyörűen rögzíti a helyi építészetet; készítse a legjobb fotókat az utca túloldalán lévő térről.",
+            "ro": "Observați fațada elegantă a inimii civice a orașului, care ancorează frumos arhitectura locală; faceți cele mai bune fotografii din piața de peste drum dimineața.",
+            "en": "Observe the elegant facade of the civic heart of the town which beautifully anchors the local architecture; capture the best photos from the square across the street in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Agoralys",
+            "hu": "Agoralys Kulturális Központ",
+            "ro": "Centrul Cultural Agoralys",
+            "en": "Agoralys Cultural Center"
+          },
+          "coords": [
+            2.844601,
+            50.676328
+          ],
+          "category": "cultural",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie lebendige lokale Kunst in diesem modernen Kulturzentrum, das die regionale Kreativität wunderbar hervorhebt; prüfen Sie den Zeitplan für morgendliche Ausstellungen.",
+            "hu": "Fedezze fel a vibráló helyi művészeteket ebben a modern kulturális központban, amely bemutatja a regionális kreativitást; érkezzen korán a reggeli kiállítások megtekintéséhez.",
+            "ro": "Descoperiți arta locală vibrantă la acest centru cultural modern care evidențiază frumos creativitatea regională; verificați programul pentru expozițiile de dimineață devreme.",
+            "en": "Discover vibrant local arts at this modern cultural hub which beautifully highlights regional creativity; check their schedule for morning exhibitions before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.84601,
+            50.679023
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die als Symbol für die Widerstandskraft der Stadt steht; treten Sie ein, um die Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, amely a város rugalmasságának szimbóluma; lépjen be, hogy megnézze az ólomüveg ablakokat a déli napfényben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, un simbol al rezilienței orașului; intrați pentru a aprecia vitraliile luminate de soarele puternic al amiezii.",
+            "en": "Admire the striking architecture of this historic church that stands as a symbol of the town's resilience; step inside to appreciate the stained glass when the midday sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "Motte féodale",
+            "hu": "Motte féodale",
+            "ro": "Motte féodale",
+            "en": "Motte féodale"
+          },
+          "coords": [
+            2.847462,
+            50.680691
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieses mittelalterlichen Hügels, der einen Einblick in frühe Verteidigungsanlagen bietet; tragen Sie feste Schuhe für den rutschigen Weg.",
+            "hu": "Fedezze fel ennek a középkori dombnak az ősi maradványait, amely bepillantást enged a korai védelmi építményekbe; viseljen erős cipőt, mert a füves ösvény csúszós lehet.",
+            "ro": "Explorați rămășițele antice ale acestei movile medievale care oferă o privire asupra structurilor defensive timpurii; purtați încălțăminte robustă deoarece cărarea alunecă.",
+            "en": "Explore the ancient remnants of this medieval mound that offers a glimpse into early defensive structures; wear sturdy walking shoes as the grassy path can get quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Lys",
+            "hu": "Lys folyó partja",
+            "ro": "Malurile râului Lys",
+            "en": "Lys River Banks"
+          },
+          "coords": [
+            2.853199,
+            50.676201
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen ruhigen Flussufern mit üppiger Landschaft, die Generationen inspirierte; packen Sie ein Picknick ein, um es auf den Holzbänken zu genießen.",
+            "hu": "Pihenjen ezeken a nyugodt folyópartokon, amelyeknek buja tája generációkat ihletett meg; hozzon magával egy könnyű pikniket, amelyet a vízparton szétszórt fapadokon fogyaszthat.",
+            "ro": "Relaxați-vă de-a lungul acestor maluri liniștite ale râului, cu peisaje luxuriante care au inspirat generații; pregătiți un picnic ușor pentru a-l savura pe băncile de lemn.",
+            "en": "Relax along these tranquil riverbanks featuring lush scenery that inspired generations; pack a light picnic to enjoy on the wooden benches scattered along the water's calming edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des 7 Douleurs",
+            "hu": "Notre-Dame des 7 Douleurs",
+            "ro": "Notre-Dame des 7 Douleurs",
+            "en": "Notre-Dame des 7 Douleurs"
+          },
+          "coords": [
+            2.864658,
+            50.663426
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ergreifende Denkmal, das abseits der ausgetretenen Pfade eine tiefgreifende historische Bedeutung bietet; nähern Sie sich leise und lesen Sie die Informationstafel.",
+            "hu": "Látogassa meg ezt a megható emlékművet, amely mély történelmi jelentőséggel bír a járatlan utakon; közelítse meg csendben, és olvassa el a helyi fontosságát részletező táblát.",
+            "ro": "Vizitați acest reper memorial emoționant care oferă o semnificație istorică profundă în afara drumurilor bătătorite; apropiați-vă în liniște și citiți placa informativă detaliată.",
+            "en": "Visit this poignant memorial landmark offering profound historical significance off the beaten path; approach quietly and read the informational plaque detailing its local importance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am eleganten Rathaus, bevor Sie zum Kulturzentrum Agoralys und zur Église Saint-Martin radeln.\n\nMittags spazieren Sie über das mittelalterliche Gelände der Motte féodale.\n\nDer Nachmittag bringt eine malerische Fahrt an den ruhigen Ufern der Lys.\n\nDer Abend endet mit einer friedlichen Fahrt zur Notre-Dame des 7 Douleurs.",
+        "hu": "A reggel az elegáns Városházánál indul, majd az Agoralys Kulturális Központhoz és az Église Saint-Martinhez tekerünk.\n\nDélben álljon meg egy sétára a Motte féodale középkori területén.\n\nA délután egy festői kerékpározást tartogat a nyugodt Lys folyó partján.\n\nAz este egy békés dél felé tartó utazással zárul a Notre-Dame des 7 Douleurs felé.",
+        "ro": "Dimineața începe la eleganta Primărie, înainte de a pedala spre Centrul Cultural Agoralys și Église Saint-Martin.\n\nLa amiază, opriți-vă la terenurile medievale de la Motte féodale.\n\nDupă-amiaza aduce o plimbare pitorească de-a lungul malurilor liniștite ale râului Lys.\n\nSeara se termină cu o plimbare pașnică spre Notre-Dame des 7 Douleurs.",
+        "en": "Morning kicks off at the elegant Town Hall before riding to the Agoralys Cultural Center and Église Saint-Martin.\n\nMidday, pause to walk the medieval grounds of the Motte féodale.\n\nAfternoon brings a scenic cycle along the tranquil Lys River Banks.\n\nEvening finishes with a peaceful ride south to the poignant Notre-Dame des 7 Douleurs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 5.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame du Joyel",
+            "hu": "Église Notre-Dame du Joyel",
+            "ro": "Église Notre-Dame du Joyel",
+            "en": "Église Notre-Dame du Joyel"
+          },
+          "coords": [
+            2.833425,
+            50.65195
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zarten Steindetails dieser friedlichen Kirche in einem ruhigeren Teil der Stadt; besuchen Sie eine Morgenmesse oder sitzen Sie einfach in den Kirchenbänken.",
+            "hu": "Csodálja meg ennek a békés templomnak a finom kőrészleteit, amely a város egy csendesebb részén található; vegyen részt a reggeli misén, vagy csak élvezze a derűs teret.",
+            "ro": "Minunați-vă de detaliile delicate din piatră ale acestei biserici pașnice situate într-o zonă mai liniștită a orașului; participați la o slujbă de dimineață pentru o experiență senină.",
+            "en": "Marvel at the delicate stone details of this peaceful church located in a quieter section of town; attend a morning mass or simply sit in the pews to experience its serene acoustic space."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des 7 Douleurs",
+            "hu": "Notre-Dame des 7 Douleurs",
+            "ro": "Notre-Dame des 7 Douleurs",
+            "en": "Notre-Dame des 7 Douleurs"
+          },
+          "coords": [
+            2.864658,
+            50.663426
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ergreifende Denkmal, das abseits der ausgetretenen Pfade eine tiefgreifende historische Bedeutung bietet; nähern Sie sich leise und lesen Sie die Informationstafel.",
+            "hu": "Látogassa meg ezt a megható emlékművet, amely mély történelmi jelentőséggel bír a járatlan utakon; közelítse meg csendben, és olvassa el a helyi fontosságát részletező táblát.",
+            "ro": "Vizitați acest reper memorial emoționant care oferă o semnificație istorică profundă în afara drumurilor bătătorite; apropiați-vă în liniște și citiți placa informativă detaliată.",
+            "en": "Visit this poignant memorial landmark offering profound historical significance off the beaten path; approach quietly and read the informational plaque detailing its local importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Salve Regina",
+            "hu": "Salve Regina",
+            "ro": "Salve Regina",
+            "en": "Salve Regina"
+          },
+          "coords": [
+            2.8452,
+            50.671417
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ruhigen lokalen Wahrzeichen, das das tiefe spirituelle Erbe der Gemeinde widerspiegelt; besuchen Sie es am späten Nachmittag für eine ruhigere Atmosphäre.",
+            "hu": "Álljon meg ennél a nyugodt helyi nevezetességnél, amely a közösség mély spirituális örökségét tükrözi; látogasson el ide késő délután egy csendesebb, elmélkedésre alkalmas légkörért.",
+            "ro": "Opriți-vă la acest reper local senin care reflectă moștenirea spirituală profundă a comunității; vizitați după-amiaza târziu pentru o atmosferă mai liniștită, de contemplare.",
+            "en": "Pause at this serene local landmark reflecting the deep spiritual heritage of the community; visit during the late afternoon for a quieter atmosphere perfect for contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Agoralys",
+            "hu": "Agoralys Kulturális Központ",
+            "ro": "Centrul Cultural Agoralys",
+            "en": "Agoralys Cultural Center"
+          },
+          "coords": [
+            2.844601,
+            50.676328
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie lebendige lokale Kunst in diesem modernen Kulturzentrum, das die regionale Kreativität wunderbar hervorhebt; prüfen Sie den Zeitplan für morgendliche Ausstellungen.",
+            "hu": "Fedezze fel a vibráló helyi művészeteket ebben a modern kulturális központban, amely bemutatja a regionális kreativitást; érkezzen korán a reggeli kiállítások megtekintéséhez.",
+            "ro": "Descoperiți arta locală vibrantă la acest centru cultural modern care evidențiază frumos creativitatea regională; verificați programul pentru expozițiile de dimineață devreme.",
+            "en": "Discover vibrant local arts at this modern cultural hub which beautifully highlights regional creativity; check their schedule for morning exhibitions before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Motte féodale",
+            "hu": "Motte féodale",
+            "ro": "Motte féodale",
+            "en": "Motte féodale"
+          },
+          "coords": [
+            2.847462,
+            50.680691
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieses mittelalterlichen Hügels, der einen Einblick in frühe Verteidigungsanlagen bietet; tragen Sie feste Schuhe für den rutschigen Weg.",
+            "hu": "Fedezze fel ennek a középkori dombnak az ősi maradványait, amely bepillantást enged a korai védelmi építményekbe; viseljen erős cipőt, mert a füves ösvény csúszós lehet.",
+            "ro": "Explorați rămășițele antice ale acestei movile medievale care oferă o privire asupra structurilor defensive timpurii; purtați încălțăminte robustă deoarece cărarea alunecă.",
+            "en": "Explore the ancient remnants of this medieval mound that offers a glimpse into early defensive structures; wear sturdy walking shoes as the grassy path can get quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.84601,
+            50.679023
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die als Symbol für die Widerstandskraft der Stadt steht; treten Sie ein, um die Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, amely a város rugalmasságának szimbóluma; lépjen be, hogy megnézze az ólomüveg ablakokat a déli napfényben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, un simbol al rezilienței orașului; intrați pentru a aprecia vitraliile luminate de soarele puternic al amiezii.",
+            "en": "Admire the striking architecture of this historic church that stands as a symbol of the town's resilience; step inside to appreciate the stained glass when the midday sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Lys",
+            "hu": "Lys folyó partja",
+            "ro": "Malurile râului Lys",
+            "en": "Lys River Banks"
+          },
+          "coords": [
+            2.853199,
+            50.676201
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen ruhigen Flussufern mit üppiger Landschaft, die Generationen inspirierte; packen Sie ein Picknick ein, um es auf den Holzbänken zu genießen.",
+            "hu": "Pihenjen ezeken a nyugodt folyópartokon, amelyeknek buja tája generációkat ihletett meg; hozzon magával egy könnyű pikniket, amelyet a vízparton szétszórt fapadokon fogyaszthat.",
+            "ro": "Relaxați-vă de-a lungul acestor maluri liniștite ale râului, cu peisaje luxuriante care au inspirat generații; pregătiți un picnic ușor pentru a-l savura pe băncile de lemn.",
+            "en": "Relax along these tranquil riverbanks featuring lush scenery that inspired generations; pack a light picnic to enjoy on the wooden benches scattered along the water's calming edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Süden an der friedlichen Église Notre-Dame du Joyel und führt zur Notre-Dame des 7 Douleurs.\n\nMittags sehen Sie Salve Regina und lebendige Kunst im Agoralys Kulturzentrum.\n\nDer Nachmittag erkundet die Motte féodale und die Église Saint-Martin.\n\nDer Abend endet mit einem entspannten Halt an den schönen Ufern der Lys.",
+        "hu": "A reggel délen, a békés Église Notre-Dame du Joyel-nél kezdődik, majd a Notre-Dame des 7 Douleurs felé halad.\n\nDélben a Salve Regina és az Agoralys Kulturális Központ művészete várja.\n\nDélután fedezze fel a történelmi Motte féodale-t és az Église Saint-Martint.\n\nAz estét a gyönyörű Lys folyó partján tett pihentető megálló zárja.",
+        "ro": "Dimineața începe în sud la pașnica Église Notre-Dame du Joyel, trecând la memorialul Notre-Dame des 7 Douleurs.\n\nAmiaza prezintă Salve Regina și arte la Centrul Cultural Agoralys.\n\nDupă-amiaza explorează istorica Motte féodale și Église Saint-Martin.\n\nSeara se încheie cu o oprire relaxantă la frumoasele maluri ale râului Lys.",
+        "en": "Morning starts south at the peaceful Église Notre-Dame du Joyel, moving to the memorial Notre-Dame des 7 Douleurs.\n\nMidday features Salve Regina and vibrant arts at Agoralys Cultural Center.\n\nAfternoon explores the historic Motte féodale and resilient Église Saint-Martin.\n\nEvening concludes with a relaxing stop at the beautiful Lys River Banks."
+      }
+    }
+  }
+}

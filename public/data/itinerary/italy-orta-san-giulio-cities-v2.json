@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-orta-san-giulio-cities-v2",
+  "anchor": {
+    "name": "Orta San Giulio",
+    "coords": [
+      8.41437,
+      45.79727
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 1.51,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Palazzo Comunale",
+            "ro": "Palazzo Comunale",
+            "en": "Palazzo Comunale"
+          },
+          "coords": [
+            8.40526,
+            45.799847
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fresken dieses Palastes im Zentrum und kommen Sie früh, um das weiche Morgenlicht für perfekte Fotos auf der Piazza zu nutzen.",
+            "hu": "Csodálja meg a központi palota történelmi freskóit, és érkezzen korán, hogy a reggeli fényben tökéletes fotókat készíthessen a főtéren.",
+            "ro": "Admirați frescele istorice ale acestui palat central și sosiți devreme pentru a profita de lumina blândă a dimineții pentru fotografii perfecte în piață.",
+            "en": "Admire the historic frescoes of this central palace and arrive early to take advantage of the soft morning light for perfect photos in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gemelli",
+            "hu": "Palazzo Gemelli",
+            "ro": "Palazzo Gemelli",
+            "en": "Palazzo Gemelli"
+          },
+          "coords": [
+            8.407121,
+            45.798308
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie die symmetrische Architektur dieses Gebäudes aus dem 16. Jahrhundert, das am besten von der angrenzenden ruhigen Gasse aus zu bewundern ist.",
+            "hu": "Figyelje meg a 16. századi épület szimmetrikus építészetét, amelyet a legjobban a szomszédos, csendes kis utcácskából lehet megcsodálni.",
+            "ro": "Observați arhitectura simetrică a acestei clădiri din secolul al XVI-lea, cel mai bine admirată de pe aleea liniștită adiacentă pentru a evita mulțimile.",
+            "en": "Observe the symmetrical architecture of this 16th-century building, which is best admired from the adjacent quiet alley to avoid the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sacro Monte di Orta",
+            "hu": "Sacro Monte di Orta",
+            "ro": "Sacro Monte di Orta",
+            "en": "Sacro Monte di Orta"
+          },
+          "coords": [
+            8.410617,
+            45.796822
+          ],
+          "category": "natural",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die 20 Kapellen, die dem Leben des Heiligen Franziskus gewidmet sind, und tragen Sie bequeme Schuhe für die unebenen Waldwege des Hügels.",
+            "hu": "Fedezze fel a Szent Ferenc életét bemutató húsz kápolnát, és viseljen kényelmes cipőt a domb egyenetlen, erdei ösvényein való sétáláshoz.",
+            "ro": "Descoperiți cele 20 de capele dedicate vieții Sfântului Francisc și purtați încălțăminte confortabilă pentru potecile de pădure denivelate ale dealului.",
+            "en": "Discover the 20 chapels dedicated to the life of Saint Francis, and make sure to wear comfortable shoes for the uneven forest paths along the hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Speciale del Sacro Monte di Orta",
+            "hu": "Riserva Naturale Speciale del Sacro Monte di Orta",
+            "ro": "Riserva Naturale Speciale del Sacro Monte di Orta",
+            "en": "Riserva Naturale Speciale del Sacro Monte di Orta"
+          },
+          "coords": [
+            8.410996,
+            45.797733
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Natur und den atemberaubenden Seeblick in diesem Reservat, ideal für eine kurze Pause mit einem mitgebrachten kleinen Snack.",
+            "hu": "Élvezze a békés természetet és a lenyűgöző tóparti kilátást ebben a rezervátumban, amely ideális egy rövid pihenőre egy magával hozott kis uzsonnával.",
+            "ro": "Bucurați-vă de natura pașnică și de priveliștile uimitoare ale lacului în această rezervație, ideală pentru o scurtă pauză cu o mică gustare adusă de acasă.",
+            "en": "Enjoy the peaceful nature and stunning lake views in this reserve, which is the perfect spot for a short resting break with a small packed snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia Mater Ecclesiae",
+            "hu": "Abbazia Mater Ecclesiae",
+            "ro": "Abbazia Mater Ecclesiae",
+            "en": "Abbazia Mater Ecclesiae"
+          },
+          "coords": [
+            8.399798,
+            45.796213
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser Abtei auf der Insel San Giulio, und denken Sie an respektvolle Kleidung für den Eintritt in das Kirchengebäude.",
+            "hu": "Tapasztalja meg a San Giulio szigetén lévő apátság spirituális nyugalmát, és ne feledkezzen meg a tiszteletteljes öltözködésről a templomlátogatáshoz.",
+            "ro": "Experimentați liniștea spirituală a acestei abații de pe insula San Giulio și amintiți-vă să aveți o ținută respectuoasă pentru intrarea în clădirea bisericii.",
+            "en": "Experience the spiritual tranquility of this abbey on San Giulio Island, and remember to wear respectful clothing to cover your shoulders before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen erkundet das historische Zentrum von Orta San Giulio. Mittags steigen Sie zu den ruhigen Hängen des Sacro Monte hinauf. Den Nachmittag verbringen Sie mit der friedlichen Natur des Reservats. Der Abend endet mit einem spirituellen Besuch der Inselabtei.",
+        "hu": "A délelőtt Orta San Giulio történelmi központjának felfedezésével telik. Délben felsétálunk a Sacro Monte csendes lejtőire. A délutánt a természetvédelmi terület nyugalmának élvezetével töltjük. Az este a szigeti apátság spirituális meglátogatásával zárul.",
+        "ro": "Dimineața explorează centrul istoric al orașului Orta San Giulio. La prânz urcați pe pantele liniștite ale Sacro Monte. După-amiaza este petrecută bucurându-vă de rezervația naturală. Seara se încheie cu o vizită spirituală la abația de pe insulă.",
+        "en": "Morning explores the historic center of Orta San Giulio. Midday takes you up the serene slopes of the Sacro Monte. Afternoon is spent enjoying the natural reserve's tranquility. Evening concludes with a spiritual visit to the island's magnificent abbey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 6.44,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ecomuseo del Lago d'Orta e Mottarone",
+            "hu": "Ecomuseo del Lago d'Orta e Mottarone",
+            "ro": "Ecomuseo del Lago d'Orta e Mottarone",
+            "en": "Ecomuseo del Lago d'Orta e Mottarone"
+          },
+          "coords": [
+            8.408768,
+            45.817827
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die reiche Industriegeschichte der Region kennen und fragen Sie am Eingang nach der englischen Broschüre für detailliertere Erklärungen.",
+            "hu": "Ismerje meg a régió gazdag ipartörténetét, és a bejáratnál feltétlenül kérje az angol nyelvű füzetet a részletesebb kiállítási magyarázatokért.",
+            "ro": "Aflați despre istoria industrială bogată a regiunii și asigurați-vă că cereți broșura în engleză la intrare pentru explicații mai detaliate.",
+            "en": "Learn about the region's rich industrial history and make sure to ask for the English brochure at the entrance for more detailed exhibit explanations."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dell'arte della tornitura del legno",
+            "hu": "Museo dell'arte della tornitura del legno",
+            "ro": "Museo dell'arte della tornitura del legno",
+            "en": "Museo dell'arte della tornitura del legno"
+          },
+          "coords": [
+            8.410238,
+            45.816922
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unglaubliche lokale Handwerkskunst der Holzdrechslerei; kaufen Sie hier auch authentische, handgefertigte Souvenirs für Ihre Familie.",
+            "hu": "Csodálja meg a fatervezés hihetetlen helyi mesterségbeli tudását; vásároljon itt autentikus, kézzel készített szuveníreket a családjának és barátainak.",
+            "ro": "Admirați incredibila măiestrie locală a strunjirii lemnului și cumpărați de aici suveniruri autentice, lucrate manual, pentru cei dragi de acasă.",
+            "en": "Admire the incredible local craftsmanship of woodturning, and consider buying authentic, handmade wooden souvenirs here to take back home to your family."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Sperati",
+            "hu": "Palazzo Sperati",
+            "ro": "Palazzo Sperati",
+            "en": "Palazzo Sperati"
+          },
+          "coords": [
+            8.430346,
+            45.802209
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.26,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die elegante Fassade dieses historischen Palastes in Miasino und stellen Sie Ihr Fahrrad sicher am kleinen Brunnenplatz nebenan ab.",
+            "hu": "Tekintse meg a történelmi palota elegáns homlokzatát Miasinóban, és parkolja le kerékpárját biztonságosan a mellette lévő kis szökőkutas téren.",
+            "ro": "Vizitați fațada elegantă a acestui palat istoric din Miasino și parcați-vă bicicleta în siguranță în mica piațetă cu fântână de alături.",
+            "en": "View the elegant facade of this historic palace in Miasino, and conveniently park your bicycle securely at the small fountain square situated right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gemelli",
+            "hu": "Palazzo Gemelli",
+            "ro": "Palazzo Gemelli",
+            "en": "Palazzo Gemelli"
+          },
+          "coords": [
+            8.407121,
+            45.798308
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Ein weiterer prachtvoller Palast, der die lokale Machtgeschichte zeigt; achten Sie auf die aufwendigen Details rund um die großen Hauptfenster.",
+            "hu": "Egy újabb pompás palota, amely a helyi hatalom történetét mutatja be; figyelje meg a hatalmas főablakok körüli bonyolult, faragott részleteket.",
+            "ro": "Un alt palat magnific care arată istoria puterii locale; acordați o atenție deosebită detaliilor complicate sculptate în jurul ferestrelor principale mari.",
+            "en": "Another magnificent palace showcasing the local history of power; pay close attention to the intricate carved details surrounding the large main windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Fondazione Calderara",
+            "hu": "Museo Fondazione Calderara",
+            "ro": "Museo Fondazione Calderara",
+            "en": "Museo Fondazione Calderara"
+          },
+          "coords": [
+            8.429336,
+            45.786142
+          ],
+          "category": "museum",
+          "arrive_at": "15:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst in einem Gebäude aus dem 17. Jahrhundert und überprüfen Sie die saisonalen Öffnungszeiten vor Ihrem Besuch online.",
+            "hu": "Fedezzen fel kortárs művészeti alkotásokat egy 17. századi épületben, és látogatás előtt mindenképpen ellenőrizze az aktuális nyitvatartási időt online.",
+            "ro": "Descoperiți arta contemporană într-o clădire din secolul al XVII-lea și verificați online orele de deschidere sezoniere înainte de a vă planifica vizita aici.",
+            "en": "Discover contemporary art housed within a beautiful 17th-century building, and always check the seasonal opening hours online before planning your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem industriellen Erbe in Pettenasco. Mittags bewundern Sie die lokale Holzdrechslerkunst. Der Nachmittag bietet eine Fahrt zu Miasinos Palästen. Der Abend schließt mit zeitgenössischer Kunst in der Calderara Stiftung.",
+        "hu": "A délelőtt Pettenasco ipari örökségével indul. Délben a helyi fatervező mesterséget csodálhatja meg. A délután festői kerékpározást kínál Miasino palotái felé. Az este kortárs művészettel zárul a Calderara Alapítványnál.",
+        "ro": "Dimineața începe cu moștenirea industrială din jurul Pettenasco. La prânz admirați măiestria locală în lemn. După-amiaza este o plimbare pitorească spre palatele din Miasino. Seara se încheie cu artă contemporană la Fundația Calderara.",
+        "en": "Morning starts with the industrial heritage around Pettenasco. Midday involves admiring local woodturning craftsmanship. Afternoon is a scenic ride towards Miasino's historic palaces. Evening wraps up with contemporary art at the Calderara Foundation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 6.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Pella",
+            "hu": "Municipio di Pella",
+            "ro": "Municipio di Pella",
+            "en": "Municipio di Pella"
+          },
+          "coords": [
+            8.383101,
+            45.797059
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie auf der westlichen Seeseite mit einem fantastischen Blick auf die Insel; parken Sie am Rande des Dorfes, um enge Gassen zu meiden.",
+            "hu": "Kezdje a tó nyugati oldalán a szigetre nyíló fantasztikus kilátással; parkoljon a falu szélén, hogy elkerülje a szűk, egyirányú utcákat.",
+            "ro": "Începeți pe partea vestică a lacului cu vederi fantastice spre insulă; parcați la marginea satului pentru a evita străzile înguste și aglomerate.",
+            "en": "Start on the western side of the lake for fantastic views of the island; park your car on the edge of the village to avoid navigating the extremely narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Parrocchiale di Sant'Albino",
+            "hu": "Chiesa Parrocchiale di Sant'Albino",
+            "ro": "Chiesa Parrocchiale di Sant'Albino",
+            "en": "Chiesa Parrocchiale di Sant'Albino"
+          },
+          "coords": [
+            8.384742,
+            45.801364
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser Dorfkirche in Pella, ein perfekter Ort für einen kurzen, besinnlichen Moment abseits des Haupttouristenstroms.",
+            "hu": "Élvezze ennek a pellai falusi templomnak a nyugodt légkörét, amely tökéletes hely egy rövid, elmélkedő pillanatra, távol a fő turistáktól.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei biserici de sat din Pella, un loc perfect pentru un scurt moment de reflecție departe de mulțimea de turiști.",
+            "en": "Enjoy the peaceful atmosphere of this village church in Pella, which offers a perfect place for a short, reflective moment away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Filiberto",
+            "hu": "Chiesa di San Filiberto",
+            "ro": "Chiesa di San Filiberto",
+            "en": "Chiesa di San Filiberto"
+          },
+          "coords": [
+            8.382686,
+            45.793661
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Diese älteste Kirche am Seeufer fasziniert mit ihrem romanischen Turm; besuchen Sie den dazugehörigen Friedhof für einen Hauch lokaler Geschichte.",
+            "hu": "Ez a legrégebbi tóparti templom lenyűgözi román stílusú tornyával; látogassa meg a hozzá tartozó temetőt egy kis helyi történelmi áttekintésért.",
+            "ro": "Această cea mai veche biserică de pe malul lacului fascinează cu turnul său romanic; vizitați cimitirul atașat pentru o notă de istorie locală profundă.",
+            "en": "This oldest lakeside church fascinates with its beautiful Romanesque tower; be sure to visit the attached cemetery for a deep touch of profound local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Bettoja",
+            "hu": "Palazzo Bettoja",
+            "ro": "Palazzo Bettoja",
+            "en": "Palazzo Bettoja"
+          },
+          "coords": [
+            8.399644,
+            45.779554
+          ],
+          "category": "castle",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stattliche Architektur dieses historischen Anwesens von außen, da es in Privatbesitz ist und nicht immer vollständig zugänglich bleibt.",
+            "hu": "Csodálja meg a történelmi birtok impozáns építészetét kívülről, mivel magántulajdonban van, és nem mindig látogatható teljesen a turisták számára.",
+            "ro": "Admirați arhitectura impunătoare a acestei proprietăți istorice din exterior, deoarece este deținută privat și nu este întotdeauna complet accesibilă.",
+            "en": "Admire the stately architecture of this historic estate from the outside, as it is privately owned and therefore not always fully accessible to tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Ameno",
+            "hu": "Municipio di Ameno",
+            "ro": "Municipio di Ameno",
+            "en": "Municipio di Ameno"
+          },
+          "coords": [
+            8.439482,
+            45.788755
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.26,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in Ameno und spazieren Sie durch den Park des Rathauses, der einen wunderbaren Abschluss mit Blick in die grüne Hügellandschaft bietet.",
+            "hu": "Fejezze be túráját Amenóban, és sétáljon végig a városháza parkján, amely csodálatos befejezést nyújt a zöldellő dombokra nyíló kilátással.",
+            "ro": "Încheiați-vă turul în Ameno și plimbați-vă prin parcul primăriei, care oferă un final minunat cu vedere la peisajul pitoresc al dealurilor verzi.",
+            "en": "Finish your tour in Ameno and stroll through the beautiful park of the town hall, which offers a wonderful conclusion with views of the green hilly landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in Pella mit spektakulärem Blick auf das Westufer. Mittags erkunden Sie die ältesten Kirchen am See. Nachmittags fahren Sie nach Süden an prächtigen historischen Anwesen vorbei. Der Abend endet friedlich im hügeligen Ameno.",
+        "hu": "A délelőtt Pellában kezdődik a nyugati part látványos kilátásaival. Délben a tóparti ősi templomokat fedezzük fel. Délután dél felé autózunk lenyűgöző történelmi birtokok mellett. Az este békésen ér véget a dombos Amenóban.",
+        "ro": "Dimineața începe în Pella cu vederi spectaculoase ale țărmului vestic. La prânz explorați cele mai vechi biserici de pe lac. După-amiaza conduceți spre sud pe lângă proprietăți istorice mărețe. Seara se termină pașnic în delurosul sat Ameno.",
+        "en": "Morning begins in Pella with spectacular views of the lake's western shore. Midday is spent exploring ancient lakeside churches. Afternoon takes you driving south past grand historic estates. Evening ends in the tranquil, hilly village of Ameno."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "ussel",
+  "anchor": {
+    "name": "Ussel",
+    "coords": [
+      2.3092,
+      45.5481
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 2.02,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.309058,
+            45.547026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Holzschnitzereien im Kirchenschiff und achten Sie auf die Öffnungszeiten, um die Morgenruhe voll auszukosten.",
+            "hu": "Csodálja meg a hajó kiváló fafaragásait, és figyeljen a nyitvatartási időkre, hogy teljes mértékben kiélvezhesse a reggeli nyugalmat.",
+            "ro": "Admirați sculpturile deosebite în lemn din naos și verificați programul de deschidere pentru a vă bucura pe deplin de liniștea dimineții.",
+            "en": "Admire the exquisite wood carvings in the nave and check the opening hours beforehand to fully enjoy the morning tranquility inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Pays d'Ussel",
+            "hu": "Ussel Vidékének Múzeuma",
+            "ro": "Muzeul Ținutului Ussel",
+            "en": "Ussel Country Museum"
+          },
+          "coords": [
+            2.307489,
+            45.54696
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Geschichte anhand faszinierender Wandteppiche und lassen Sie Ihre großen Taschen in der Garderobe am Eingang.",
+            "hu": "Fedezze fel a helyi történelmet a lenyűgöző falikárpitokon keresztül, és a kényelem érdekében hagyja nagyobb táskáit a bejárati ruhatárban.",
+            "ro": "Descoperiți istoria locală prin tapiseriile fascinante expuse și lăsați bagajele mari la garderoba de la intrare pentru o vizită relaxantă.",
+            "en": "Discover rich local history through fascinating tapestries and leave your large bags at the entrance cloakroom for a more comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents",
+            "hu": "Bűnbánók Kápolnája",
+            "ro": "Capela Penitenților",
+            "en": "Chapel of the Penitents"
+          },
+          "coords": [
+            2.309992,
+            45.544726
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende Altarbild dieser historischen Kapelle, deren bescheidene Größe einen kurzen, aber lohnenden Besuch garantiert.",
+            "hu": "Tekintse meg ennek a történelmi kápolnának a lenyűgöző oltárképét, amelynek szerény mérete rövid, de annál tartalmasabb látogatást garantál.",
+            "ro": "Contemplați altarul impresionant al acestei capele istorice, a cărei dimensiune modestă garantează o vizită scurtă, dar extrem de valoroasă.",
+            "en": "Contemplate the impressive altarpiece of this historic chapel, whose modest size guarantees a short but highly rewarding and peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Diège",
+            "hu": "Diège Kastély",
+            "ro": "Castelul de la Diège",
+            "en": "Diège Castle"
+          },
+          "coords": [
+            2.300622,
+            45.543959
+          ],
+          "category": "castle",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieses Schlosses und tragen Sie feste Schuhe, da die unebenen Wege um das Anwesen rutschig sein können.",
+            "hu": "Fedezze fel e kastély jó állapotban fennmaradt romjait, és viseljen masszív cipőt, mivel a birtok körüli egyenetlen ösvények csúszósak lehetnek.",
+            "ro": "Explorați ruinele bine conservate ale acestui castel și purtați încălțăminte robustă, deoarece cărările denivelate din jur pot fi alunecoase.",
+            "en": "Explore the well-preserved ruins of this local castle and wear sturdy shoes, as the uneven paths surrounding the estate can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Chabanne",
+            "hu": "Chabanne-i Miasszonyunk",
+            "ro": "Notre-Dame de la Chabanne",
+            "en": "Our Lady of the Chabanne"
+          },
+          "coords": [
+            2.31021,
+            45.541623
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser charmanten Kultstätte und nehmen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
+            "hu": "Élvezze ennek a bájos kegyhelynek a békés hangulatát, és hozzon magával fényképezőgépet, hogy megörökítse a festői, zöldellő környezetet.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui lăcaș de cult fermecător și aduceți o cameră foto pentru a surprinde împrejurimile pitorești.",
+            "en": "Enjoy the peaceful atmosphere of this charming place of worship and bring a camera to capture the beautifully picturesque surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Ussel an der Église Saint-Martin. Danach tauchen Sie im Musée du Pays d'Ussel in die lokale Kultur ein. Der Nachmittag führt Sie zur Chapelle des Pénitents und zum historischen Château de la Diège. Beenden Sie den Tag an der friedlichen Notre-Dame de la Chabanne.",
+        "hu": "Kezdje sétáját Ussel szívében, a Saint-Martin templomnál. Ezután merüljön el a helyi kultúrában a Musée du Pays d'Ussel kiállításain. A délután folyamán látogassa meg a Chapelle des Pénitents-t és a történelmi Château de la Diège-t. Fejezze be a napot a békés Notre-Dame de la Chabanne-nál.",
+        "ro": "Începeți plimbarea în inima orașului Ussel la Biserica Saint-Martin. Apoi, scufundați-vă în cultura locală la Musée du Pays d'Ussel. După-amiaza vă poartă la Chapelle des Pénitents și la istoricul Château de la Diège. Încheiați ziua la liniștita Notre-Dame de la Chabanne.",
+        "en": "Start your walking tour in the heart of Ussel at the Église Saint-Martin. Afterwards, immerse yourself in local culture at the Musée du Pays d'Ussel. The afternoon takes you to the Chapelle des Pénitents and the historic Château de la Diège. End your day at the peaceful Notre-Dame de la Chabanne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 7.37,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.309058,
+            45.547026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Holzschnitzereien im Kirchenschiff und achten Sie auf die Öffnungszeiten, um die Morgenruhe voll auszukosten.",
+            "hu": "Csodálja meg a hajó kiváló fafaragásait, és figyeljen a nyitvatartási időkre, hogy teljes mértékben kiélvezhesse a reggeli nyugalmat.",
+            "ro": "Admirați sculpturile deosebite în lemn din naos și verificați programul de deschidere pentru a vă bucura pe deplin de liniștea dimineții.",
+            "en": "Admire the exquisite wood carvings in the nave and check the opening hours beforehand to fully enjoy the morning tranquility inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Pays d'Ussel",
+            "hu": "Ussel Vidékének Múzeuma",
+            "ro": "Muzeul Ținutului Ussel",
+            "en": "Ussel Country Museum"
+          },
+          "coords": [
+            2.307489,
+            45.54696
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Geschichte anhand faszinierender Wandteppiche und lassen Sie Ihre großen Taschen in der Garderobe am Eingang.",
+            "hu": "Fedezze fel a helyi történelmet a lenyűgöző falikárpitokon keresztül, és a kényelem érdekében hagyja nagyobb táskáit a bejárati ruhatárban.",
+            "ro": "Descoperiți istoria locală prin tapiseriile fascinante expuse și lăsați bagajele mari la garderoba de la intrare pentru o vizită relaxantă.",
+            "en": "Discover rich local history through fascinating tapestries and leave your large bags at the entrance cloakroom for a more comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Borde",
+            "hu": "Borde Kastély",
+            "ro": "Castelul Borde",
+            "en": "Borde Castle"
+          },
+          "coords": [
+            2.307998,
+            45.558184
+          ],
+          "category": "castle",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Architektur dieses eleganten Schlosses und erkundigen Sie sich nach saisonalen Führungen durch die Außenanlagen.",
+            "hu": "Csodálja meg ezen elegáns kastély klasszikus építészetét, és érdeklődjön a külső területeket érintő szezonális, vezetett túrák időpontjairól.",
+            "ro": "Admirați arhitectura clasică a acestui castel elegant și interesați-vă de tururile ghidate sezoniere disponibile pentru curțile exterioare.",
+            "en": "Marvel at the classical architecture of this elegant castle and inquire about seasonal guided tours exploring the beautiful exterior grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Theil",
+            "hu": "Theil Kastély",
+            "ro": "Castelul Theil",
+            "en": "Theil Castle"
+          },
+          "coords": [
+            2.325925,
+            45.559638
+          ],
+          "category": "castle",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die herrschaftlichen Gärten dieses wunderschönen Anwesens und planen Sie etwas mehr Zeit ein, um die Natur zu genießen.",
+            "hu": "Sétáljon végig e csodálatos birtok pompás kertjein, és tervezzen egy kis extra időt, hogy kényelmesen élvezhesse a természet közelségét.",
+            "ro": "Plimbați-vă prin grădinile impunătoare ale acestui domeniu frumos și planificați puțin timp suplimentar pentru a vă bucura de natură în tihnă.",
+            "en": "Stroll through the stately gardens of this beautiful estate and plan a little extra time to comfortably enjoy the serene natural environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents",
+            "hu": "Bűnbánók Kápolnája",
+            "ro": "Capela Penitenților",
+            "en": "Chapel of the Penitents"
+          },
+          "coords": [
+            2.309992,
+            45.544726
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende Altarbild dieser historischen Kapelle, deren bescheidene Größe einen kurzen, aber lohnenden Besuch garantiert.",
+            "hu": "Tekintse meg ennek a történelmi kápolnának a lenyűgöző oltárképét, amelynek szerény mérete rövid, de annál tartalmasabb látogatást garantál.",
+            "ro": "Contemplați altarul impresionant al acestei capele istorice, a cărei dimensiune modestă garantează o vizită scurtă, dar extrem de valoroasă.",
+            "en": "Contemplate the impressive altarpiece of this historic chapel, whose modest size guarantees a short but highly rewarding and peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Chabanne",
+            "hu": "Chabanne-i Miasszonyunk",
+            "ro": "Notre-Dame de la Chabanne",
+            "en": "Our Lady of the Chabanne"
+          },
+          "coords": [
+            2.31021,
+            45.541623
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser charmanten Kultstätte und nehmen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
+            "hu": "Élvezze ennek a bájos kegyhelynek a békés hangulatát, és hozzon magával fényképezőgépet, hogy megörökítse a festői, zöldellő környezetet.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui lăcaș de cult fermecător și aduceți o cameră foto pentru a surprinde împrejurimile pitorești.",
+            "en": "Enjoy the peaceful atmosphere of this charming place of worship and bring a camera to capture the beautifully picturesque surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum dit du Camp de César",
+            "hu": "César Tábora Oppidum",
+            "ro": "Oppidum Camp de César",
+            "en": "Oppidum of Caesar's Camp"
+          },
+          "coords": [
+            2.305363,
+            45.522604
+          ],
+          "category": "historical",
+          "arrive_at": "16:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Erdwerke dieser gallorömischen Stätte und bringen Sie etwas Wasser mit, da der lange Anstieg recht anstrengend ist.",
+            "hu": "Fedezze fel ennek a gall-római helyszínnek az ősi földsáncait, és hozzon magával vizet, mivel a hosszú emelkedő meglehetősen fárasztó lehet.",
+            "ro": "Descoperiți fortificațiile antice ale acestui sit galo-roman și aduceți puțină apă, deoarece urcușul prelungit poate fi destul de solicitant.",
+            "en": "Discover the ancient earthworks of this Gallo-Roman site and bring some water with you, as the long hike upwards can be quite physically demanding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch Ussel, beginnend im historischen Zentrum. Besuchen Sie die Kirche und das Museum, bevor Sie nach Norden zum Château de la Borde und Château du Theil aufbrechen. Am Nachmittag geht es in den Süden zu versteckten Kapellen. Der Tag endet spektakulär beim antiken Oppidum dit du Camp de César.",
+        "hu": "Kerekezzen végig Ussel városán a történelmi központból indulva. Látogassa meg a templomot és a múzeumot, mielőtt észak felé venné az irányt a kastélyokhoz. Délután induljon délre az eldugott kápolnák felfedezésére. A nap a látványos és ókori Oppidum dit du Camp de César felfedezésével zárul.",
+        "ro": "Pedalați prin Ussel, începând din centrul istoric. Vizitați biserica și muzeul înainte de a vă îndrepta spre nord către castele. După-amiaza coborâți spre sud pentru a descoperi capele ascunse. Ziua se încheie spectaculos la anticul Oppidum dit du Camp de César, o mărturie a istoriei îndepărtate.",
+        "en": "Cycle through Ussel, starting in the historic town center. Visit the church and museum before heading north to explore the elegant local castles. In the afternoon, ride south to discover hidden chapels. The day ends spectacularly at the ancient and fascinating Oppidum dit du Camp de César."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Borde",
+            "hu": "Borde Kastély",
+            "ro": "Castelul Borde",
+            "en": "Borde Castle"
+          },
+          "coords": [
+            2.307998,
+            45.558184
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Architektur dieses eleganten Schlosses und erkundigen Sie sich nach saisonalen Führungen durch die Außenanlagen.",
+            "hu": "Csodálja meg ezen elegáns kastély klasszikus építészetét, és érdeklődjön a külső területeket érintő szezonális, vezetett túrák időpontjairól.",
+            "ro": "Admirați arhitectura clasică a acestui castel elegant și interesați-vă de tururile ghidate sezoniere disponibile pentru curțile exterioare.",
+            "en": "Marvel at the classical architecture of this elegant castle and inquire about seasonal guided tours exploring the beautiful exterior grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Theil",
+            "hu": "Theil Kastély",
+            "ro": "Castelul Theil",
+            "en": "Theil Castle"
+          },
+          "coords": [
+            2.325925,
+            45.559638
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die herrschaftlichen Gärten dieses wunderschönen Anwesens und planen Sie etwas mehr Zeit ein, um die Natur zu genießen.",
+            "hu": "Sétáljon végig e csodálatos birtok pompás kertjein, és tervezzen egy kis extra időt, hogy kényelmesen élvezhesse a természet közelségét.",
+            "ro": "Plimbați-vă prin grădinile impunătoare ale acestui domeniu frumos și planificați puțin timp suplimentar pentru a vă bucura de natură în tihnă.",
+            "en": "Stroll through the stately gardens of this beautiful estate and plan a little extra time to comfortably enjoy the serene natural environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.309058,
+            45.547026
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Holzschnitzereien im Kirchenschiff und achten Sie auf die Öffnungszeiten, um die Morgenruhe voll auszukosten.",
+            "hu": "Csodálja meg a hajó kiváló fafaragásait, és figyeljen a nyitvatartási időkre, hogy teljes mértékben kiélvezhesse a reggeli nyugalmat.",
+            "ro": "Admirați sculpturile deosebite în lemn din naos și verificați programul de deschidere pentru a vă bucura pe deplin de liniștea dimineții.",
+            "en": "Admire the exquisite wood carvings in the nave and check the opening hours beforehand to fully enjoy the morning tranquility inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Pays d'Ussel",
+            "hu": "Ussel Vidékének Múzeuma",
+            "ro": "Muzeul Ținutului Ussel",
+            "en": "Ussel Country Museum"
+          },
+          "coords": [
+            2.307489,
+            45.54696
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Geschichte anhand faszinierender Wandteppiche und lassen Sie Ihre großen Taschen in der Garderobe am Eingang.",
+            "hu": "Fedezze fel a helyi történelmet a lenyűgöző falikárpitokon keresztül, és a kényelem érdekében hagyja nagyobb táskáit a bejárati ruhatárban.",
+            "ro": "Descoperiți istoria locală prin tapiseriile fascinante expuse și lăsați bagajele mari la garderoba de la intrare pentru o vizită relaxantă.",
+            "en": "Discover rich local history through fascinating tapestries and leave your large bags at the entrance cloakroom for a more comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Diège",
+            "hu": "Diège Kastély",
+            "ro": "Castelul de la Diège",
+            "en": "Diège Castle"
+          },
+          "coords": [
+            2.300622,
+            45.543959
+          ],
+          "category": "castle",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieses Schlosses und tragen Sie feste Schuhe, da die unebenen Wege um das Anwesen rutschig sein können.",
+            "hu": "Fedezze fel e kastély jó állapotban fennmaradt romjait, és viseljen masszív cipőt, mivel a birtok körüli egyenetlen ösvények csúszósak lehetnek.",
+            "ro": "Explorați ruinele bine conservate ale acestui castel și purtați încălțăminte robustă, deoarece cărările denivelate din jur pot fi alunecoase.",
+            "en": "Explore the well-preserved ruins of this local castle and wear sturdy shoes, as the uneven paths surrounding the estate can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Chabanne",
+            "hu": "Chabanne-i Miasszonyunk",
+            "ro": "Notre-Dame de la Chabanne",
+            "en": "Our Lady of the Chabanne"
+          },
+          "coords": [
+            2.31021,
+            45.541623
+          ],
+          "category": "religious",
+          "arrive_at": "15:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser charmanten Kultstätte und nehmen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
+            "hu": "Élvezze ennek a bájos kegyhelynek a békés hangulatát, és hozzon magával fényképezőgépet, hogy megörökítse a festői, zöldellő környezetet.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui lăcaș de cult fermecător și aduceți o cameră foto pentru a surprinde împrejurimile pitorești.",
+            "en": "Enjoy the peaceful atmosphere of this charming place of worship and bring a camera to capture the beautifully picturesque surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum dit du Camp de César",
+            "hu": "César Tábora Oppidum",
+            "ro": "Oppidum Camp de César",
+            "en": "Oppidum of Caesar's Camp"
+          },
+          "coords": [
+            2.305363,
+            45.522604
+          ],
+          "category": "historical",
+          "arrive_at": "16:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Erdwerke dieser gallorömischen Stätte und bringen Sie etwas Wasser mit, da der lange Anstieg recht anstrengend ist.",
+            "hu": "Fedezze fel ennek a gall-római helyszínnek az ősi földsáncait, és hozzon magával vizet, mivel a hosszú emelkedő meglehetősen fárasztó lehet.",
+            "ro": "Descoperiți fortificațiile antice ale acestui sit galo-roman și aduceți puțină apă, deoarece urcușul prelungit poate fi destul de solicitant.",
+            "en": "Discover the ancient earthworks of this Gallo-Roman site and bring some water with you, as the long hike upwards can be quite physically demanding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrt rund um Ussel ermöglicht es Ihnen, alle Schätze der Region zu sehen. Starten Sie bei den nördlichen Schlössern Borde und Theil. Mittags erkunden Sie die Altstadt mit Kirche und Museum. Fahren Sie nachmittags zum Château de la Diège und beenden Sie die Tour an den gallorömischen Ruinen im Süden.",
+        "hu": "Egy autós túra Ussel körül lehetővé teszi a régió minden kincsének felfedezését. Kezdje az északi Borde és Theil kastélyoknál. Délben fedezze fel az óvárost, a templomot és a múzeumot. Délután utazzon el a Château de la Diège-hez, majd fejezze be a túrát a déli gall-római romoknál.",
+        "ro": "O plimbare cu mașina în jurul Ussel vă permite să vedeți toate comorile regiunii. Începeți la castelele nordice Borde și Theil. La prânz, explorați orașul vechi, biserica și muzeul. Conduceți după-amiaza la Château de la Diège și încheiați turul la ruinele galo-romane din sudul orașului.",
+        "en": "A scenic drive around Ussel allows you to see all the region's hidden treasures. Start at the northern Borde and Theil castles. At midday, explore the old town's church and museum. Drive to Château de la Diège in the afternoon and finish the tour at the Gallo-Roman ruins in the deep south."
+      }
+    }
+  }
+}

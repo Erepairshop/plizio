@@ -1,0 +1,520 @@
+{
+  "city_id": "france-la-grandville-cities-v2",
+  "anchor": {
+    "name": "La Grandville",
+    "coords": [
+      -2.64086,
+      48.5193
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Bonabry",
+            "hu": "Château de Bonabry",
+            "ro": "Château de Bonabry",
+            "en": "Château de Bonabry"
+          },
+          "coords": [
+            -2.651552,
+            48.520063
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Granville",
+            "hu": "Plage de la Granville",
+            "ro": "Plage de la Granville",
+            "en": "Plage de la Granville"
+          },
+          "coords": [
+            -2.641401,
+            48.524346
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die beruhigende Meeresbrise an diesem schönen örtlichen Strand und bringen Sie unbedingt bequeme Schuhe für einen entspannten Spaziergang mit.",
+            "hu": "Élvezze a megnyugtató óceáni szellőt ezen a kedves helyi strandon, és feltétlenül hozzon kényelmes cipőt egy pihentető tengerparti sétához.",
+            "ro": "Bucurați-vă de briza liniștitoare a oceanului pe această plajă locală minunată, asigurându-vă că aveți încălțăminte comodă pentru o plimbare relaxantă.",
+            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse de Morieux",
+            "hu": "Anse de Morieux",
+            "ro": "Anse de Morieux",
+            "en": "Anse de Morieux"
+          },
+          "coords": [
+            -2.644773,
+            48.530108
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht von diesem natürlichen Wahrzeichen aus und bringen Sie eine Kamera mit, um das tolle Licht einzufangen.",
+            "hu": "Gyönyörködjön a tengeröböl panorámájában ebből a természeti látványosságból, és hozzon magával fényképezőgépet a lenyűgöző fények megörökítéséhez.",
+            "ro": "Admirați vederea panoramică a golfului de la acest punct de reper natural, aducând un aparat foto pentru a surprinde lumina spectaculoasă a coastei.",
+            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bon Abri",
+            "hu": "Plage de Bon Abri",
+            "ro": "Plage de Bon Abri",
+            "en": "Plage de Bon Abri"
+          },
+          "coords": [
+            -2.652107,
+            48.525808
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem friedlichen Sand dieses geschützten Strandes, der ein perfekter Ort ist, um fernab der Massen ein Picknick zu genießen.",
+            "hu": "Pihenjen meg ennek a védett strandnak a békés homokján, amely tökéletes hely arra, hogy megálljon és megegye a csomagolt ebédjét a tömegtől távol.",
+            "ro": "Relaxați-vă pe nisipul liniștit al acestei plaje adăpostite, care este un loc perfect pentru a face o pauză și a lua un prânz la pachet, departe de aglomerație.",
+            "en": "Relax on the peaceful sands of this sheltered beach, which is a perfect spot to pause and eat a packed lunch away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lermot",
+            "hu": "Plage de Lermot",
+            "ro": "Plage de Lermot",
+            "en": "Plage de Lermot"
+          },
+          "coords": [
+            -2.661932,
+            48.530945
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem malerischen Ort die wildere Seite der bretonischen Küste und achten Sie auf die wechselnden Gezeiten, bevor Sie am Wasser spazieren.",
+            "hu": "Fedezze fel a breton tengerpart vadabb oldalát ezen a festői helyen, és figyeljen a változó árapályra, mielőtt a víz közelében sétálna.",
+            "ro": "Descoperiți latura mai sălbatică a coastei bretone în acest loc pitoresc, fiind atenți la schimbările mareelor înainte de a vă plimba pe mal.",
+            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.668588,
+            48.514068
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
+            "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
+            "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am beeindruckenden Château de Bonabry, gefolgt von der frischen Meeresbrise am Plage de la Granville. Mittags spazieren Sie an der malerischen Anse de Morieux vorbei zum Plage de Bon Abri. Den Nachmittag verbringen Sie entspannt am Plage de Lermot. Der Tag endet friedlich in der Église Saint-Jean-Baptiste.",
+        "hu": "A reggel a fenséges Château de Bonabry felfedezésével kezdődik, majd a Plage de la Granville friss levegőjével folytatódik. Délben elsétál az Anse de Morieux mellett a békés Plage de Bon Abri strandhoz. A délutánt a Plage de Lermot partján tölti. A nap az Église Saint-Jean-Baptiste templomában zárul.",
+        "ro": "Dimineața începe cu grandiosul Château de Bonabry, urmată de aer curat la Plage de la Granville. La prânz, treceți pe lângă pitoreasca Anse de Morieux spre Plage de Bon Abri. După-amiaza este petrecută pe nisipul plajei Lermot. Ziua se încheie liniștit în biserica Saint-Jean-Baptiste.",
+        "en": "Morning begins with a walk around the grand Château de Bonabry, followed by fresh air at Plage de la Granville. Midday takes you past the scenic Anse de Morieux to a quiet picnic at Plage de Bon Abri. Afternoon is spent beachcombing at Plage de Lermot. The day concludes with peaceful reflections inside the Église Saint-Jean-Baptiste."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.668588,
+            48.514068
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
+            "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
+            "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bonabry",
+            "hu": "Château de Bonabry",
+            "ro": "Château de Bonabry",
+            "en": "Château de Bonabry"
+          },
+          "coords": [
+            -2.651552,
+            48.520063
+          ],
+          "category": "castle",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Granville",
+            "hu": "Plage de la Granville",
+            "ro": "Plage de la Granville",
+            "en": "Plage de la Granville"
+          },
+          "coords": [
+            -2.641401,
+            48.524346
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die beruhigende Meeresbrise an diesem schönen örtlichen Strand und bringen Sie unbedingt bequeme Schuhe für einen entspannten Spaziergang mit.",
+            "hu": "Élvezze a megnyugtató óceáni szellőt ezen a kedves helyi strandon, és feltétlenül hozzon kényelmes cipőt egy pihentető tengerparti sétához.",
+            "ro": "Bucurați-vă de briza liniștitoare a oceanului pe această plajă locală minunată, asigurându-vă că aveți încălțăminte comodă pentru o plimbare relaxantă.",
+            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Maurice",
+            "hu": "Chapelle Saint-Maurice",
+            "ro": "Chapelle Saint-Maurice",
+            "en": "Chapelle Saint-Maurice"
+          },
+          "coords": [
+            -2.633353,
+            48.529778
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkapelle, die das tiefe lokale maritime Erbe widerspiegelt, und treten Sie leise ein, um die Atmosphäre zu genießen.",
+            "hu": "Látogasson el ebbe a bájos tengerparti kápolnába, amely a helyi tengerészeti örökséget tükrözi, és lépjen be csendben az intim hangulatért.",
+            "ro": "Vizitați această capelă de coastă fermecătoare care reflectă moștenirea maritimă locală, pășind ușor înăuntru pentru a-i aprecia atmosfera intimă.",
+            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gobrien",
+            "hu": "Église Saint-Gobrien",
+            "ro": "Église Saint-Gobrien",
+            "en": "Église Saint-Gobrien"
+          },
+          "coords": [
+            -2.60955,
+            48.522546
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ländliche Heiligtum ein, um die traditionelle bretonische religiöse Architektur zu erleben und auf die Steinarmaturen zu achten.",
+            "hu": "Lépjen be ebbe a vidéki szentélybe, hogy megtapasztalja a hagyományos breton vallási építészetet, és figyeljen a történelmi kőberendezésekre.",
+            "ro": "Intrați în acest sanctuar rural pentru a experimenta arhitectura religioasă tradițională bretonă, căutând cu atenție elementele istorice din piatră.",
+            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Carquitté",
+            "hu": "Menhir de Carquitté",
+            "ro": "Menhir de Carquitté",
+            "en": "Menhir de Carquitté"
+          },
+          "coords": [
+            -2.630079,
+            48.506945
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem alten megalithischen Stein, um sich mit der prähistorischen Bretagne zu verbinden, und tragen Sie feste Schuhe für den unebenen Boden.",
+            "hu": "Álljon e mellé az ősi megalitikus kő mellé, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Stați lângă această piatră megalitică antică pentru a vă conecta cu Bretania preistorică, purtând încălțăminte robustă, deoarece terenul poate fi neregulat.",
+            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an der Église Saint-Jean-Baptiste und radeln Sie dann zum Château de Bonabry. Die Mittagsetappe führt Sie zur Plage de la Granville und zur Chapelle Saint-Maurice. Nachmittags geht es landeinwärts zur Église Saint-Gobrien. Die Tour endet am uralten Menhir de Carquitté in der späten Nachmittagssonne.",
+        "hu": "Kezdje kerékpáros napját az Église Saint-Jean-Baptiste templomnál, majd tekerjen el a pompás Château de Bonabry-hoz. A déli utazás a tengerparton át a Plage de la Granville-hez és a Chapelle Saint-Maurice-hoz vezet. Délután induljon a szárazföld felé az Église Saint-Gobrien-hez. Az út a Menhir de Carquitté mellett ér véget.",
+        "ro": "Începeți ziua de ciclism la biserica Saint-Jean-Baptiste, apoi pedalați spre magnificul Château de Bonabry. La prânz mergeți pe coastă spre Plage de la Granville și Chapelle Saint-Maurice. După-amiaza, îndreptați-vă spre interior, la biserica Saint-Gobrien. Călătoria se termină la anticul Menhir de Carquitté.",
+        "en": "Start your cycling day exploring the historic Église Saint-Jean-Baptiste, then pedal to the magnificent Château de Bonabry. Midday rides take you along the coast to Plage de la Granville and the charming Chapelle Saint-Maurice. In the afternoon, head inland to Église Saint-Gobrien. The journey finishes beside the ancient Menhir de Carquitté."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 10.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de Carquitté",
+            "hu": "Menhir de Carquitté",
+            "ro": "Menhir de Carquitté",
+            "en": "Menhir de Carquitté"
+          },
+          "coords": [
+            -2.630079,
+            48.506945
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem alten megalithischen Stein, um sich mit der prähistorischen Bretagne zu verbinden, und tragen Sie feste Schuhe für den unebenen Boden.",
+            "hu": "Álljon e mellé az ősi megalitikus kő mellé, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Stați lângă această piatră megalitică antică pentru a vă conecta cu Bretania preistorică, purtând încălțăminte robustă, deoarece terenul poate fi neregulat.",
+            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Chapelle Saint-Laurent",
+            "ro": "Chapelle Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            -2.61718,
+            48.503621
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche ländliche Umgebung dieser historischen Kapelle und kommen Sie früh, um den Morgennebel um die Steinmauern zu erleben.",
+            "hu": "Élvezze a történelmi kápolna békés vidéki környezetét, és érkezzen korán, hogy megtapasztalja a kőfalakat gyakran körülvevő reggeli ködöt.",
+            "ro": "Bucurați-vă de cadrul rural liniștit al acestei capele istorice, ajungând devreme pentru a experimenta ceața matinală din jurul zidurilor de piatră.",
+            "en": "Enjoy the peaceful countryside setting of this historic chapel, arriving early to experience the morning mist that often surrounds the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gobrien",
+            "hu": "Église Saint-Gobrien",
+            "ro": "Église Saint-Gobrien",
+            "en": "Église Saint-Gobrien"
+          },
+          "coords": [
+            -2.60955,
+            48.522546
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ländliche Heiligtum ein, um die traditionelle bretonische religiöse Architektur zu erleben und auf die Steinarmaturen zu achten.",
+            "hu": "Lépjen be ebbe a vidéki szentélybe, hogy megtapasztalja a hagyományos breton vallási építészetet, és figyeljen a történelmi kőberendezésekre.",
+            "ro": "Intrați în acest sanctuar rural pentru a experimenta arhitectura religioasă tradițională bretonă, căutând cu atenție elementele istorice din piatră.",
+            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Maurice",
+            "hu": "Chapelle Saint-Maurice",
+            "ro": "Chapelle Saint-Maurice",
+            "en": "Chapelle Saint-Maurice"
+          },
+          "coords": [
+            -2.633353,
+            48.529778
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkapelle, die das tiefe lokale maritime Erbe widerspiegelt, und treten Sie leise ein, um die Atmosphäre zu genießen.",
+            "hu": "Látogasson el ebbe a bájos tengerparti kápolnába, amely a helyi tengerészeti örökséget tükrözi, és lépjen be csendben az intim hangulatért.",
+            "ro": "Vizitați această capelă de coastă fermecătoare care reflectă moștenirea maritimă locală, pășind ușor înăuntru pentru a-i aprecia atmosfera intimă.",
+            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse de Morieux",
+            "hu": "Anse de Morieux",
+            "ro": "Anse de Morieux",
+            "en": "Anse de Morieux"
+          },
+          "coords": [
+            -2.644773,
+            48.530108
+          ],
+          "category": "landmark",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht von diesem natürlichen Wahrzeichen aus und bringen Sie eine Kamera mit, um das tolle Licht einzufangen.",
+            "hu": "Gyönyörködjön a tengeröböl panorámájában ebből a természeti látványosságból, és hozzon magával fényképezőgépet a lenyűgöző fények megörökítéséhez.",
+            "ro": "Admirați vederea panoramică a golfului de la acest punct de reper natural, aducând un aparat foto pentru a surprinde lumina spectaculoasă a coastei.",
+            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lermot",
+            "hu": "Plage de Lermot",
+            "ro": "Plage de Lermot",
+            "en": "Plage de Lermot"
+          },
+          "coords": [
+            -2.661932,
+            48.530945
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem malerischen Ort die wildere Seite der bretonischen Küste und achten Sie auf die wechselnden Gezeiten, bevor Sie am Wasser spazieren.",
+            "hu": "Fedezze fel a breton tengerpart vadabb oldalát ezen a festői helyen, és figyeljen a változó árapályra, mielőtt a víz közelében sétálna.",
+            "ro": "Descoperiți latura mai sălbatică a coastei bretone în acest loc pitoresc, fiind atenți la schimbările mareelor înainte de a vă plimba pe mal.",
+            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.668588,
+            48.514068
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
+            "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
+            "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bonabry",
+            "hu": "Château de Bonabry",
+            "ro": "Château de Bonabry",
+            "en": "Château de Bonabry"
+          },
+          "coords": [
+            -2.651552,
+            48.520063
+          ],
+          "category": "castle",
+          "arrive_at": "15:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum prähistorischen Menhir de Carquitté und weiter zur ländlichen Chapelle Saint-Laurent. Mittags erkunden Sie die Église Saint-Gobrien und die Chapelle Saint-Maurice. Nachmittags genießen Sie die Aussicht an der Anse de Morieux und entspannen am Plage de Lermot. Beenden Sie den Tag am Château de Bonabry.",
+        "hu": "Autózzon kora reggel a történelem előtti Menhir de Carquitté-hez, majd a Chapelle Saint-Laurent-hez. A déli felfedezés az Église Saint-Gobrien-t és a tengerparti Chapelle Saint-Maurice-t érinti. A délután csúcspontjai az Anse de Morieux és a Plage de Lermot. A napot a fenséges Château de Bonabry-nál zárja.",
+        "ro": "Conduceți devreme spre preistoricul Menhir de Carquitté, continuând spre Chapelle Saint-Laurent. La prânz explorați biserica Saint-Gobrien și Chapelle Saint-Maurice. Punctele forte ale după-amiezii includ Anse de Morieux și relaxarea la Plage de Lermot. Încheiați ziua la grandiosul Château de Bonabry.",
+        "en": "Drive early to the prehistoric Menhir de Carquitté, continuing to the rural Chapelle Saint-Laurent. Midday exploration covers Église Saint-Gobrien and the coastal Chapelle Saint-Maurice. Afternoon highlights include breathtaking views at Anse de Morieux and relaxing at Plage de Lermot. End the day at Église Saint-Jean-Baptiste and the grand Château de Bonabry."
+      }
+    }
+  }
+}

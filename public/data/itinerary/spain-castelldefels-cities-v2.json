@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-castelldefels-cities-v2",
+  "anchor": {
+    "name": "Castelldefels",
+    "coords": [
+      1.98242,
+      41.2861
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 1.71,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre d'en Climent Savall",
+            "hu": "Torre d'en Climent Savall",
+            "ro": "Torre d'en Climent Savall",
+            "en": "Torre d'en Climent Savall"
+          },
+          "coords": [
+            1.981425,
+            41.282507
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten Wehrturm, der zur Entdeckung von Piraten erbaut wurde, und achten Sie auf das massive Mauerwerk vor dem Stadtbummel.",
+            "hu": "Csodálja meg ezt a kalózok ellen épült védőtornyot, és figyelje meg robusztus kőfalait, mielőtt elindulna a nyüzsgő városközpont irányába.",
+            "ro": "Admirați acest turn defensiv construit pentru a observa pirații și remarcați zidăria sa robustă înainte de a vă îndrepta spre centrul animat.",
+            "en": "Admire this well-preserved defensive tower built to spot pirates, and notice its robust stonework before heading towards the vibrant town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Plaza Castelldefels",
+            "hu": "Teatre Plaza Castelldefels",
+            "ro": "Teatre Plaza Castelldefels",
+            "en": "Teatre Plaza Castelldefels"
+          },
+          "coords": [
+            1.97937,
+            41.27917
+          ],
+          "category": "cultural",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur in diesem modernen Theater und werfen Sie einen Blick auf die aktuellen Veranstaltungsplakate im Eingangsbereich.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a modern színházban, ahol érdemes megnézni az aktuális események plakátjait a főbejárat közelében.",
+            "ro": "Descoperiți cultura locală la acest teatru modern, unde ar trebui să verificați afișele evenimentelor recente pentru a vedea ce se joacă.",
+            "en": "Catch a glimpse of local culture at this modern theatre venue, where you should check the latest event posters to see what is currently playing."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Castelldefels",
+            "hu": "Santa Maria de Castelldefels",
+            "ro": "Santa Maria de Castelldefels",
+            "en": "Santa Maria de Castelldefels"
+          },
+          "coords": [
+            1.97674,
+            41.280774
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche mit atemberaubenden Wandmalereien von Josep Serrasanta, aber denken Sie an leises Sprechen im Gottesdienst.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, mely Josep Serrasanta lenyűgöző falképeit rejti, de ügyeljen a csendre a szertartások alatt.",
+            "ro": "Pășiți în această biserică istorică cu picturi murale uimitoare de Josep Serrasanta, dar nu uitați să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this beautiful historic church featuring stunning murals by Josep Serrasanta, but remember to keep your voice down during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Can Gomar",
+            "hu": "Torre de Can Gomar",
+            "ro": "Torre de Can Gomar",
+            "en": "Torre de Can Gomar"
+          },
+          "coords": [
+            1.978845,
+            41.283183
+          ],
+          "category": "tower",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen weiteren Teil der mittelalterlichen Stadtverteidigung direkt neben dem Kulturzentrum, ein perfektes Motiv für ein schnelles Foto.",
+            "hu": "Fedezzen fel egy újabb darabot a középkori védelmi rendszerből a kulturális központ mellett, amely tökéletes hátteret nyújt egy gyors fotóhoz.",
+            "ro": "Descoperiți o altă piesă a sistemului de apărare medieval chiar lângă centrul cultural, oferind un fundal perfect pentru o fotografie rapidă.",
+            "en": "Discover another piece of the city's medieval defense system right next to the cultural center, offering a perfect backdrop for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Castelldefels",
+            "hu": "Castell de Castelldefels",
+            "ro": "Castell de Castelldefels",
+            "en": "Castell de Castelldefels"
+          },
+          "coords": [
+            1.978276,
+            41.28429
+          ],
+          "category": "castle",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische Burg, welche die Skyline dominiert, und spazieren Sie auf den restaurierten Festungsmauern für den besten Blick.",
+            "hu": "Fedezze fel a látképet uraló fenséges hegytetői kastélyt, és sétáljon végig a felújított bástyákon, ahonnan a legjobb panoráma nyílik a tájra.",
+            "ro": "Explorați castelul maiestuos de pe deal care domină orizontul și asigurați-vă că vă plimbați pe meterezele restaurate pentru o vedere panoramică.",
+            "en": "Explore the majestic hilltop castle that dominates the skyline, and make sure to walk along the restored ramparts for the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Can Valls de la Muntanyeta",
+            "hu": "Torre de Can Valls de la Muntanyeta",
+            "ro": "Torre de Can Valls de la Muntanyeta",
+            "en": "Torre de Can Valls de la Muntanyeta"
+          },
+          "coords": [
+            1.974062,
+            41.280074
+          ],
+          "category": "tower",
+          "arrive_at": "13:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem alten Turm in einem üppigen Park, wo Sie auf einer Bank die friedliche mediterrane Brise genießen können.",
+            "hu": "Fejezze be a sétát ennél az ősi toronynál egy zöldellő parkban, ahol megpihenhet egy padon és élvezheti a békés mediterrán tengeri szellőt.",
+            "ro": "Încheiați plimbarea la acest turn antic situat într-un parc luxuriant, unde vă puteți relaxa pe o bancă și vă puteți bucura de briza mediteraneană.",
+            "en": "End your stroll at this ancient tower situated in a lush park, where you can relax on a nearby bench and enjoy the peaceful Mediterranean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang zu mittelalterlichen Wachtürmen wie Climent Savall. Mittags besuchen Sie das Teatre Plaza und die historische Kirche Santa Maria. Der Nachmittag ist der majestätischen Burg auf dem Hügel gewidmet. Der Abend klingt gemütlich am ruhigen Turm Torre de Can Valls de la Muntanyeta im Park aus.",
+        "hu": "A reggel egy kellemes sétával indul az olyan középkori őrtornyoknál, mint a Climent Savall. Délben a Teatre Plaza és a történelmi Santa Maria templom várja. A délután a hegytetőn álló fenséges Castelldefels kastélyé. Az este békésen zárul a Torre de Can Valls de la Muntanyeta csendes parkjában, a fák hűvös árnyékában.",
+        "ro": "Dimineața începe cu o plimbare ușoară explorând turnuri de veghe medievale. La prânz, vizitați Teatre Plaza și biserica istorică Santa Maria. După-amiaza este dedicată maiestuosului Castell de Castelldefels de pe deal. Seara se încheie liniștit la serenul Torre de Can Valls de la Muntanyeta, într-un parc frumos.",
+        "en": "Morning begins with a gentle stroll exploring medieval watchtowers like Climent Savall. By midday, you are visiting the Teatre Plaza and the historic Santa Maria church. The afternoon is dedicated to the majestic Castell de Castelldefels on its hilltop. Evening winds down gracefully at the serene Torre de Can Valls de la Muntanyeta in the park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 6.24,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Castelldefels",
+            "hu": "Castell de Castelldefels",
+            "ro": "Castell de Castelldefels",
+            "en": "Castell de Castelldefels"
+          },
+          "coords": [
+            1.978276,
+            41.28429
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an der ikonischen Burg und nutzen Sie das sanfte Morgenlicht, um atemberaubende Fotos der imposanten Steinmauern zu machen.",
+            "hu": "Kezdje a kerékpártúrát az ikonikus hegytetői kastélynál, és használja ki a lágy reggeli fényeket a lenyűgöző kőfalak fényképezéséhez.",
+            "ro": "Începeți traseul cu bicicleta la castelul emblematic de pe deal, profitând de lumina blândă a dimineții pentru a fotografia zidurile de piatră.",
+            "en": "Start your cycling journey at the iconic hilltop castle, utilizing the gentle morning light to capture stunning photos of its imposing stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó d'en Vinader",
+            "hu": "Turó d'en Vinader",
+            "ro": "Turó d'en Vinader",
+            "en": "Turó d'en Vinader"
+          },
+          "coords": [
+            1.968278,
+            41.293034
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ruhigen Naturhügel mit tollen Wanderwegen und denken Sie an ausreichend Wasser, da die Mittelmeersonne sehr heiß wird.",
+            "hu": "Kerekezzen fel erre a békés természetes dombra, mely kiváló túraútvonalakat kínál, és vigyen magával elég vizet a meleg mediterrán napsütésben.",
+            "ro": "Pedalați până la acest deal natural liniștit care oferă trasee excelente și nu uitați să luați apă, deoarece soarele mediteranean devine fierbinte.",
+            "en": "Cycle up to this serene natural hill offering excellent hiking trails, and remember to carry enough water as the Mediterranean sun gets quite hot."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó del Gall",
+            "hu": "Turó del Gall",
+            "ro": "Turó del Gall",
+            "en": "Turó del Gall"
+          },
+          "coords": [
+            1.959803,
+            41.288095
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Pausieren Sie an diesem markanten Gipfel im Garraf-Massiv für atemberaubende Ausblicke auf die Küste und nutzen Sie den niedrigsten Gang des Rads.",
+            "hu": "Tartson pihenőt a Garraf-hegység ezen kiemelkedő csúcsán a lélegzetelállító tengerparti kilátásért, és használja a legkisebb sebességfokozatot.",
+            "ro": "Faceți o pauză pe acest vârf proeminent pentru vederi uluitoare asupra coastei, folosind cea mai mică treaptă a bicicletei pentru urcarea finală.",
+            "en": "Pause at this prominent peak in the Garraf massif for breathtaking views over the coast, using your bike's lowest gear for the steep final climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Poliesportiu Municipal de Can Roca",
+            "hu": "Poliesportiu Municipal de Can Roca",
+            "ro": "Poliesportiu Municipal de Can Roca",
+            "en": "Poliesportiu Municipal de Can Roca"
+          },
+          "coords": [
+            1.970432,
+            41.282283
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an diesem modernen Sportkomplex aus und füllen Sie Ihre Wasserflaschen auf, bevor Sie zu den Küstengebieten weiterfahren.",
+            "hu": "Pihentesse lábait e modern sportkomplexum mellett, és töltse újra kulacsát a nyilvános kutaknál, mielőtt a part menti rekreációs zónák felé indul.",
+            "ro": "Odihniți-vă picioarele la acest complex sportiv modern și reumpleți sticlele cu apă la fântânile publice înainte de a merge spre zonele de coastă.",
+            "en": "Rest your legs by this modern sports complex and refill your water bottles at the public fountains before heading towards the coastal recreation areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Olimpic Cable Park",
+            "hu": "Olimpic Cable Park",
+            "ro": "Olimpic Cable Park",
+            "en": "Olimpic Cable Park"
+          },
+          "coords": [
+            1.991961,
+            41.27246
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.11,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Wakeboarder bei ihren spektakulären Tricks und holen Sie sich vielleicht einen schnellen Snack auf der nahegelegenen Terrasse.",
+            "hu": "Nézze meg a wakeboardosok látványos trükkjeit ebben a vízi központban, és esetleg egyen egy gyors energiát adó harapnivalót a közeli kávézóban.",
+            "ro": "Urmăriți sportivii executând trucuri spectaculoase la acest centru acvatic și luați o gustare energizantă de la terasa cafenelei din apropiere.",
+            "en": "Watch the wakeboarders performing spectacular tricks at this aquatic center, and maybe grab a quick energy snack from the nearby café terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "piscine de pepe",
+            "hu": "piscine de pepe",
+            "ro": "piscine de pepe",
+            "en": "piscine de pepe"
+          },
+          "coords": [
+            2.003315,
+            41.271991
+          ],
+          "category": "recreational",
+          "arrive_at": "15:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren aktiven Tag in diesem einladenden Freibad, wo ein erfrischendes Bad die perfekte Belohnung nach stundenlangem Radfahren ist.",
+            "hu": "Zárja aktív napját ebben a hívogató medencés rekreációs övezetben, ahol egy frissítő csobbanás a tökéletes jutalom a sok kerékpározás után.",
+            "ro": "Încheiați ziua activă relaxându-vă la această piscină recreativă, unde o baie răcoritoare este recompensa perfectă după ore de pedalat.",
+            "en": "Conclude your active day relaxing by this inviting recreational pool area, where a refreshing dip is the perfect reward after hours of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag an der Burg, bevor Sie in die Weiten des Turó d'en Vinader fahren. Mittags radeln Sie über den rauen Turó del Gall und an Sportplätzen vorbei. Der Nachmittag bringt Sie zur lebhaften Uferpromenade und zum Olimpic Cable Park. Schließen Sie den Tag entspannt am Pool des lokalen Freizeitzentrums ab.",
+        "hu": "Kezdje a kerékpározást a parancsoló kastélynál, majd vegye az irányt a Turó d'en Vinader felé. A déli tekerés a vadregényes Turó del Gall és a helyi sportpályák mellett vezet el. A délután a nyüzsgő vízpartra és az Olimpic Cable Parkba hívja. Zárja a kalandos napot a helyi rekreációs központ medencéje mellett pihenve.",
+        "ro": "Începeți ziua de ciclism la castelul impunător înainte de a explora Turó d'en Vinader. La prânz, pedalați peste Turó del Gall și pe lângă terenurile de sport. După-amiaza vă îndreptați spre faleza vibrantă și Olimpic Cable Park. Încheiați ziua plină de aventuri relaxându-vă la piscina centrului local de recreere.",
+        "en": "Kick off your cycling day at the commanding Castell before heading into the natural expanses of Turó d'en Vinader. Midday rides take you over the rugged Turó del Gall and past local sports fields. Your afternoon shifts to the vibrant waterfront and Olimpic Cable Park. Conclude the adventurous day relaxing poolside at the local recreation center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cova del Rinoceront",
+            "hu": "Cova del Rinoceront",
+            "ro": "Cova del Rinoceront",
+            "en": "Cova del Rinoceront"
+          },
+          "coords": [
+            1.960845,
+            41.273604
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip mit der Entdeckung dieser faszinierenden archäologischen Stätte; tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Kezdje autós túráját ezen a lenyűgöző pleisztocén faunát bemutató régészeti lelőhelyen, de viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Începeți excursia descoperind acest sit arheologic fascinant cu faună din Pleistocen, dar purtați încălțăminte robustă, deoarece terenul este accidentat.",
+            "en": "Begin your road trip discovering this fascinating archaeological site detailing Pleistocene fauna, but wear sturdy shoes as the terrain is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Barona",
+            "hu": "Torre Barona",
+            "ro": "Torre Barona",
+            "en": "Torre Barona"
+          },
+          "coords": [
+            1.96252,
+            41.269563
+          ],
+          "category": "tower",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Küstenverteidigungsturm, der einen herrlichen Blick auf das Mittelmeer bietet, und parken Sie direkt unter der Aussichtsplattform.",
+            "hu": "Vezessen fel ehhez a part menti védőtoronyhoz, amely csodálatos kilátást nyújt a Földközi-tengerre, és parkoljon közvetlenül a kilátóterasz alatt.",
+            "ro": "Conduceți până la acest turn de apărare care oferă vederi magnifice la Marea Mediterană, parcând chiar sub puntea principală de observație.",
+            "en": "Drive up to this coastal defense tower which provides magnificent sweeping views of the Mediterranean, parking just below the main observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó del Fanxó",
+            "hu": "Turó del Fanxó",
+            "ro": "Turó del Fanxó",
+            "en": "Turó del Fanxó"
+          },
+          "coords": [
+            1.954075,
+            41.284075
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.76,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante natürliche Erhebung und halten Sie Ihre Kamera bereit für die einheimischen Vögel, die über den Pinien kreisen.",
+            "hu": "Fedezze fel ezt a városi hálózattal kontrasztot alkotó természeti magaslatot, és tartsa készenlétben a fényképezőgépét a fenyők felett repdeső madarakhoz.",
+            "ro": "Explorați această elevație naturală proeminentă și pregătiți camera pentru a fotografia păsările native care zboară pe deasupra pinilor.",
+            "en": "Explore this prominent natural elevation that contrasts with the urban grid, keeping your camera ready for the native birds hovering over the pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Castelldefels",
+            "hu": "Castell de Castelldefels",
+            "ro": "Castell de Castelldefels",
+            "en": "Castell de Castelldefels"
+          },
+          "coords": [
+            1.978276,
+            41.28429
+          ],
+          "category": "castle",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.03,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Besucherparkplatz, um den mittelalterlichen Charme der Hauptfestung zu erleben, ohne sich um die engen Straßen zu sorgen.",
+            "hu": "Parkoljon a kijelölt látogatói területen, hogy teljesen átélhesse a főerőd középkori varázsát anélkül, hogy aggódnia kellene a szűk utcák miatt.",
+            "ro": "Parcați în zona desemnată vizitatorilor pentru a experimenta pe deplin farmecul medieval al cetății fără a vă face griji pentru străzile înguste.",
+            "en": "Park at the designated visitor area to fully experience the medieval charm of the city's main fortress without worrying about narrow downtown streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Olimpic Cable Park",
+            "hu": "Olimpic Cable Park",
+            "ro": "Olimpic Cable Park",
+            "en": "Olimpic Cable Park"
+          },
+          "coords": [
+            1.991961,
+            41.27246
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Lassen Sie die Fahrt an diesem Wassersportkomplex ausklingen und genießen Sie einen bunten Sonnenuntergang bei einem kühlen Drink an der Bar.",
+            "hu": "Zárja a vezetést ebben az élénk vízisport-komplexumban, ahol egy hideg ital mellett élvezheti a part menti színpompás naplementét a bárban.",
+            "ro": "Încheiați călătoria la acest complex de sporturi acvatice unde vă puteți bucura de un apus colorat în timp ce savurați o băutură rece la bar.",
+            "en": "Wrap up the drive at this lively watersports complex where you can enjoy a colorful coastal sunset while sipping a cold drink at the waterfront bar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt mit prähistorischen Wundern an der Cova del Rinoceront. Mittags genießen Sie das Küstenpanorama der Torre Barona und den Turó del Fanxó. Der Nachmittag ist der historischen Burg im Zentrum gewidmet. Beenden Sie Ihren Roadtrip mit einem spektakulären Sonnenuntergang am lebhaften Wassersportpark.",
+        "hu": "A festői autózás a Cova del Rinoceront őskori csodáival kezdődik. Délre már a Torre Barona tengerparti panorámájában gyönyörködhet, és bejárhatja a Turó del Fanxó ösvényeit. A délután központjában a város szívében álló történelmi kastély áll. Zárja az autós túrát egy látványos naplementével a nyüzsgő vízisport-parkban.",
+        "ro": "Călătoria panoramică începe cu minunile preistorice de la Cova del Rinoceront. La prânz, admirați panoramele de la Torre Barona și explorați Turó del Fanxó. După-amiaza este axată pe castelul istoric chiar din inima orașului. Încheiați excursia rutieră cu priveliști spectaculoase la apus la parcul acvatic.",
+        "en": "Your scenic drive starts with prehistoric wonders at the Cova del Rinoceront. By midday, you are taking in coastal panoramas from Torre Barona and exploring the trails of Turó del Fanxó. The afternoon anchors around the historic Castell right in the heart of town. End your road trip with spectacular sunset views at the lively cable park."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "uk-rhyl-cities-v2",
+  "anchor": {
+    "name": "Rhyl",
+    "coords": [
+      -3.4802,
+      53.3212
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 1.77,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rhyl Town Hall",
+            "hu": "Rhyl Town Hall",
+            "ro": "Rhyl Town Hall",
+            "en": "Rhyl Town Hall"
+          },
+          "coords": [
+            -3.491481,
+            53.319811
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianische Architektur dieses bürgerlichen Zentrums der Stadt und kommen Sie früh, um Fotos ohne starken Verkehr zu machen.",
+            "hu": "Csodálja meg a várost meghatározó civil központ viktoriánus építészetét, és érkezzen korán, hogy mentes maradjon a nagy forgalomtól a fotózás során.",
+            "ro": "Admirați arhitectura victoriană a acestui centru civic care ancorează orașul și vizitați-l devreme pentru a face fotografii fără traficul aglomerat.",
+            "en": "Admire the Victorian architecture of this civic hub that anchors the town, and visit early in the day to capture photos without heavy street traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Webbers Amusements",
+            "hu": "Webbers Amusements",
+            "ro": "Webbers Amusements",
+            "en": "Webbers Amusements"
+          },
+          "coords": [
+            -3.489396,
+            53.319985
+          ],
+          "category": "family",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Tauchen Sie in nostalgische Küstenatmosphäre mit tollen Retro-Arcade-Spielen ein und bringen Sie genügend Kleingeld für die Münzschiebeautomaten mit.",
+            "hu": "Lépjen be a tengerparti nosztalgia világába a klasszikus játéktermi gépekkel, és feltétlenül hozzon aprót a pénzbedobós játékgépek kipróbálásához.",
+            "ro": "Pășiți în nostalgia litoralului cu o selecție de jocuri arcade retro și asigurați-vă că aduceți mărunt pentru a încerca clasicele jocuri cu monede.",
+            "en": "Step into classic seaside nostalgia with a fantastic selection of retro arcade games, and make sure to bring plenty of change to try the penny falls."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Harkers Amusements",
+            "hu": "Les Harkers Amusements",
+            "ro": "Les Harkers Amusements",
+            "en": "Les Harkers Amusements"
+          },
+          "coords": [
+            -3.493988,
+            53.32107
+          ],
+          "category": "family",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erleben Sie Familienspaß in dieser lebhaften Spielhalle mit Greifautomaten, wo der Kauf eines Token-Pakets das beste Preis-Leistungs-Verhältnis bietet.",
+            "hu": "Merüljön el a családi szórakozásban a modern és klasszikus játékokat kínáló teremben, ahol a zsetoncsomag megvásárlása éri meg a legjobban az árát.",
+            "ro": "Bucurați-vă de distracție în familie la această sală de jocuri plină de viață, unde cumpărarea unui pachet de jetoane oferă cea mai bună valoare.",
+            "en": "Dive into family fun at this lively arcade featuring modern games and classic claw machines, where buying a token bundle offers the best value for money."
+          }
+        },
+        {
+          "name": {
+            "de": "SC2 Waterpark",
+            "hu": "SC2 Waterpark",
+            "ro": "SC2 Waterpark",
+            "en": "SC2 Waterpark"
+          },
+          "coords": [
+            -3.496508,
+            53.320677
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Planschen Sie durch aufregende Rutschen in diesem modernen Wasserpark und buchen Sie Ihr Zeitfenster im Sommer im Voraus, um lange Schlangen zu meiden.",
+            "hu": "Csobbanjon a modern vízipark izgalmas csúszdáin és medencéiben, de nyáron feltétlenül foglaljon előre időpontot, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bălăciți-vă pe toboganele captivante ale acestui parc acvatic modern și rezervați-vă biletul din timp vara pentru a evita statul la cozi uriașe.",
+            "en": "Splash through exhilarating flumes and outdoor pools at this modern waterpark, and book your time slot in advance during summer to skip the long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Sky Tower",
+            "hu": "Rhyl Sky Tower",
+            "ro": "Rhyl Sky Tower",
+            "en": "Rhyl Sky Tower"
+          },
+          "coords": [
+            -3.495883,
+            53.321277
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Blicken Sie auf dieses hoch aufragende Wahrzeichen der Küste von Rhyl und betrachten Sie es von der nahen Promenade aus für die besten Fotomotive.",
+            "hu": "Tekintsen fel erre a tengerparti nevezetességre, amely uralja Rhyl látképét, és a legjobb fotók elkészítéséhez álljon a szomszédos sétány területére.",
+            "ro": "Priviți acest reper de coastă impunător care domină orizontul din Rhyl și fotografiați-l de pe promenada adiacentă pentru cele mai bune unghiuri.",
+            "en": "Look up at this towering coastal landmark which dominates the Rhyl skyline, and view it from the adjacent promenade for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Drift Park",
+            "hu": "Drift Park",
+            "ro": "Drift Park",
+            "en": "Drift Park"
+          },
+          "coords": [
+            -3.498426,
+            53.319564
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den kreativen Wasserspielen dieses Parks am Meer und holen Sie sich beim Spazierengehen einen schnellen Kaffee am Kiosk.",
+            "hu": "Pihenjen a tengerparti park kreatív vízjegyei és gondozott zöldterületei mellett, és a séta közben vegyen egy gyors kávét a közeli pavilonok egyikében.",
+            "ro": "Relaxați-vă la elementele de apă și spațiile verzi ale acestui parc de la malul mării și luați o cafea de la chioșcurile din apropiere când vă plimbați.",
+            "en": "Relax by the creative water features and manicured green spaces of this seafront park, and grab a quick coffee from nearby kiosks while you stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Sands",
+            "hu": "Rhyl Sands",
+            "ro": "Rhyl Sands",
+            "en": "Rhyl Sands"
+          },
+          "coords": [
+            -3.489709,
+            53.324717
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang am weiten Sandstrand mit Blick auf die Irische See und prüfen Sie die Gezeiten, um genug Ufer zu haben.",
+            "hu": "Élvezze a kényelmes sétát a hatalmas homokos strandon az Ír-tengerre nézve, és ellenőrizze az árapály idejét, hogy elegendő partszakasz álljon rendelkezésre.",
+            "ro": "Bucurați-vă de o plimbare pe întinderea vastă de nisip cu vedere la Marea Irlandeză și verificați orele mareei pentru a avea o plajă suficientă.",
+            "en": "Enjoy a leisurely walk along the vast stretch of sandy beach looking out to the Irish Sea, and check the tide times to ensure you have plenty of shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem traditionellen Charme der nordwalisischen Küste. Erkunden Sie klassische Architektur und wunderschöne Gärten, bevor Sie zu den Unterhaltungsvierteln aufbrechen. Die Morgenluft bringt den frischen Duft der Irischen See mit sich, während die Stadt erwacht.\n\nGegen Mittag tauchen Sie ins Herz des familiären Küstenspaßes ein. Spielen Sie Retro-Arcade-Spiele, lauschen Sie dem Klirren von Münzen und genießen Sie das fröhliche Treiben der Urlauber. Die Hauptstraße strotzt vor Energie und bietet einen herrlichen Nostalgietrip.\n\nVerbringen Sie den Nachmittag mit groß angelegten Freizeitvergnügen. Ob Sie in modernen Wasserrutschen hinabsausen oder zum berühmten Himmelsturm hinaufblicken, diese Zeit steht ganz im Zeichen von aktiver Erholung und herrlichen Ausblicken auf die weite Küste.\n\nAm Abend finden Sie Ruhe an den weiten Sandstränden oder am historischen Meeressee. Die untergehende Sonne taucht das Wasser in ein goldenes Licht und sorgt für einen friedlichen Abschluss eines lebhaften Tages, begleitet vom sanften Rauschen der Wellen.",
+        "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
+        "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
+        "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.04,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rhyl Botanical Gardens",
+            "hu": "Rhyl Botanical Gardens",
+            "ro": "Rhyl Botanical Gardens",
+            "en": "Rhyl Botanical Gardens"
+          },
+          "coords": [
+            -3.48601,
+            53.323358
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch gepflegte Blumenbeete in diesem historischen Garten und nutzen Sie die hauseigenen Tennisplätze, wenn Sie aktiv bleiben möchten.",
+            "hu": "Sétáljon át a történelmi kert gondosan ápolt virágágyásain és békés ösvényein, és használja a helyszíni teniszpályákat, ha aktív szeretne maradni.",
+            "ro": "Plimbați-vă prin straturile de flori îngrijite ale acestei grădini istorice și folosiți terenurile de tenis de la fața locului dacă doriți să fiți activ.",
+            "en": "Wander through carefully tended flowerbeds and peaceful pathways in this historic garden, and use the onsite tennis courts if you want to stay active."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Pavilion Theatre",
+            "hu": "Rhyl Pavilion Theatre",
+            "ro": "Rhyl Pavilion Theatre",
+            "en": "Rhyl Pavilion Theatre"
+          },
+          "coords": [
+            -3.483991,
+            53.32628
+          ],
+          "category": "cultural",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz der Stadt mit seinen vielfältigen Aufführungen und prüfen Sie die Abendkasse frühzeitig, um Tickets zu ergattern.",
+            "hu": "Csodálja meg a város vibráló kulturális szívét, amely különféle előadásoknak ad otthont, és nézze meg a jegypénztárat, hogy elcsípjen egy esti műsort.",
+            "ro": "Admirați inima culturală vibrantă a orașului și verificați devreme casa de bilete pentru a prinde locuri la un spectacol interesant de seară.",
+            "en": "Admire the vibrant cultural heart of the town hosting diverse performances, and check the box office early to snag tickets for an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Promenade",
+            "hu": "Rhyl Promenade",
+            "ro": "Rhyl Promenade",
+            "en": "Rhyl Promenade"
+          },
+          "coords": [
+            -3.473863,
+            53.328972
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Tour entlang dieses weitläufigen, gepflasterten Küstenwegs und mieten Sie ein Familienfahrrad für mühelose Erkundungen.",
+            "hu": "Tegyen egy frissítő utat ezen a kiterjedt, part menti kövezett sétányon, és béreljen egy családi kerékpárt, hogy könnyedén felfedezze a teljes hosszát.",
+            "ro": "Faceți o plimbare revigorantă de-a lungul acestei promenade pavate expansive și închiriați o bicicletă de familie pentru a o explora fără efort.",
+            "en": "Take a refreshing journey along this expansive paved walkway bordering the coastline, and rent a family bike to explore its full length effortlessly."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Sands",
+            "hu": "Rhyl Sands",
+            "ro": "Rhyl Sands",
+            "en": "Rhyl Sands"
+          },
+          "coords": [
+            -3.489709,
+            53.324717
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang am weiten Sandstrand mit Blick auf die Irische See und prüfen Sie die Gezeiten, um genug Ufer zu haben.",
+            "hu": "Élvezze a kényelmes sétát a hatalmas homokos strandon az Ír-tengerre nézve, és ellenőrizze az árapály idejét, hogy elegendő partszakasz álljon rendelkezésre.",
+            "ro": "Bucurați-vă de o plimbare pe întinderea vastă de nisip cu vedere la Marea Irlandeză și verificați orele mareei pentru a avea o plajă suficientă.",
+            "en": "Enjoy a leisurely walk along the vast stretch of sandy beach looking out to the Irish Sea, and check the tide times to ensure you have plenty of shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Sky Tower",
+            "hu": "Rhyl Sky Tower",
+            "ro": "Rhyl Sky Tower",
+            "en": "Rhyl Sky Tower"
+          },
+          "coords": [
+            -3.495883,
+            53.321277
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Blicken Sie auf dieses hoch aufragende Wahrzeichen der Küste von Rhyl und betrachten Sie es von der nahen Promenade aus für die besten Fotomotive.",
+            "hu": "Tekintsen fel erre a tengerparti nevezetességre, amely uralja Rhyl látképét, és a legjobb fotók elkészítéséhez álljon a szomszédos sétány területére.",
+            "ro": "Priviți acest reper de coastă impunător care domină orizontul din Rhyl și fotografiați-l de pe promenada adiacentă pentru cele mai bune unghiuri.",
+            "en": "Look up at this towering coastal landmark which dominates the Rhyl skyline, and view it from the adjacent promenade for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "SC2 Waterpark",
+            "hu": "SC2 Waterpark",
+            "ro": "SC2 Waterpark",
+            "en": "SC2 Waterpark"
+          },
+          "coords": [
+            -3.496508,
+            53.320677
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Planschen Sie durch aufregende Rutschen in diesem modernen Wasserpark und buchen Sie Ihr Zeitfenster im Sommer im Voraus, um lange Schlangen zu meiden.",
+            "hu": "Csobbanjon a modern vízipark izgalmas csúszdáin és medencéiben, de nyáron feltétlenül foglaljon előre időpontot, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bălăciți-vă pe toboganele captivante ale acestui parc acvatic modern și rezervați-vă biletul din timp vara pentru a evita statul la cozi uriașe.",
+            "en": "Splash through exhilarating flumes and outdoor pools at this modern waterpark, and book your time slot in advance during summer to skip the long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Marine Lake",
+            "hu": "Rhyl Marine Lake",
+            "ro": "Rhyl Marine Lake",
+            "en": "Rhyl Marine Lake"
+          },
+          "coords": [
+            -3.503399,
+            53.31123
+          ],
+          "category": "recreational",
+          "arrive_at": "16:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen künstlichen Salzwassersee, ideal zum Krabbenfischen, und gehen Sie den Rundweg, um lokale Wasservögel zu sichten.",
+            "hu": "Fedezze fel ezt a rákászáshoz ideális sós vizű tavat, és sétáljon végig a kerületi ösvényen, hogy békésen megfigyelhesse a helyi vízimadarakat.",
+            "ro": "Descoperiți acest lac artificial cu apă sărată ideal pentru prins crabi și mergeți pe aleea perimetrală pentru a observa în pace păsările acvatice.",
+            "en": "Discover this unique artificial salt-water lake ideal for sailing and crabbing, and walk the perimeter path to spot diverse local waterfowl in peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem traditionellen Charme der nordwalisischen Küste. Erkunden Sie klassische Architektur und wunderschöne Gärten, bevor Sie zu den Unterhaltungsvierteln aufbrechen. Die Morgenluft bringt den frischen Duft der Irischen See mit sich, während die Stadt erwacht.\n\nGegen Mittag tauchen Sie ins Herz des familiären Küstenspaßes ein. Spielen Sie Retro-Arcade-Spiele, lauschen Sie dem Klirren von Münzen und genießen Sie das fröhliche Treiben der Urlauber. Die Hauptstraße strotzt vor Energie und bietet einen herrlichen Nostalgietrip.\n\nVerbringen Sie den Nachmittag mit groß angelegten Freizeitvergnügen. Ob Sie in modernen Wasserrutschen hinabsausen oder zum berühmten Himmelsturm hinaufblicken, diese Zeit steht ganz im Zeichen von aktiver Erholung und herrlichen Ausblicken auf die weite Küste.\n\nAm Abend finden Sie Ruhe an den weiten Sandstränden oder am historischen Meeressee. Die untergehende Sonne taucht das Wasser in ein goldenes Licht und sorgt für einen friedlichen Abschluss eines lebhaften Tages, begleitet vom sanften Rauschen der Wellen.",
+        "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
+        "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
+        "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 3.34,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rhyl Promenade",
+            "hu": "Rhyl Promenade",
+            "ro": "Rhyl Promenade",
+            "en": "Rhyl Promenade"
+          },
+          "coords": [
+            -3.473863,
+            53.328972
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Tour entlang dieses weitläufigen, gepflasterten Küstenwegs und mieten Sie ein Familienfahrrad für mühelose Erkundungen.",
+            "hu": "Tegyen egy frissítő utat ezen a kiterjedt, part menti kövezett sétányon, és béreljen egy családi kerékpárt, hogy könnyedén felfedezze a teljes hosszát.",
+            "ro": "Faceți o plimbare revigorantă de-a lungul acestei promenade pavate expansive și închiriați o bicicletă de familie pentru a o explora fără efort.",
+            "en": "Take a refreshing journey along this expansive paved walkway bordering the coastline, and rent a family bike to explore its full length effortlessly."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Pavilion Theatre",
+            "hu": "Rhyl Pavilion Theatre",
+            "ro": "Rhyl Pavilion Theatre",
+            "en": "Rhyl Pavilion Theatre"
+          },
+          "coords": [
+            -3.483991,
+            53.32628
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz der Stadt mit seinen vielfältigen Aufführungen und prüfen Sie die Abendkasse frühzeitig, um Tickets zu ergattern.",
+            "hu": "Csodálja meg a város vibráló kulturális szívét, amely különféle előadásoknak ad otthont, és nézze meg a jegypénztárat, hogy elcsípjen egy esti műsort.",
+            "ro": "Admirați inima culturală vibrantă a orașului și verificați devreme casa de bilete pentru a prinde locuri la un spectacol interesant de seară.",
+            "en": "Admire the vibrant cultural heart of the town hosting diverse performances, and check the box office early to snag tickets for an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Sky Tower",
+            "hu": "Rhyl Sky Tower",
+            "ro": "Rhyl Sky Tower",
+            "en": "Rhyl Sky Tower"
+          },
+          "coords": [
+            -3.495883,
+            53.321277
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Blicken Sie auf dieses hoch aufragende Wahrzeichen der Küste von Rhyl und betrachten Sie es von der nahen Promenade aus für die besten Fotomotive.",
+            "hu": "Tekintsen fel erre a tengerparti nevezetességre, amely uralja Rhyl látképét, és a legjobb fotók elkészítéséhez álljon a szomszédos sétány területére.",
+            "ro": "Priviți acest reper de coastă impunător care domină orizontul din Rhyl și fotografiați-l de pe promenada adiacentă pentru cele mai bune unghiuri.",
+            "en": "Look up at this towering coastal landmark which dominates the Rhyl skyline, and view it from the adjacent promenade for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Town Hall",
+            "hu": "Rhyl Town Hall",
+            "ro": "Rhyl Town Hall",
+            "en": "Rhyl Town Hall"
+          },
+          "coords": [
+            -3.491481,
+            53.319811
+          ],
+          "category": "civic",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianische Architektur dieses bürgerlichen Zentrums der Stadt und kommen Sie früh, um Fotos ohne starken Verkehr zu machen.",
+            "hu": "Csodálja meg a várost meghatározó civil központ viktoriánus építészetét, és érkezzen korán, hogy mentes maradjon a nagy forgalomtól a fotózás során.",
+            "ro": "Admirați arhitectura victoriană a acestui centru civic care ancorează orașul și vizitați-l devreme pentru a face fotografii fără traficul aglomerat.",
+            "en": "Admire the Victorian architecture of this civic hub that anchors the town, and visit early in the day to capture photos without heavy street traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Miniature Railway",
+            "hu": "Rhyl Miniature Railway",
+            "ro": "Rhyl Miniature Railway",
+            "en": "Rhyl Miniature Railway"
+          },
+          "coords": [
+            -3.5033,
+            53.3138
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der ältesten Miniaturbahn Großbritanniens um den malerischen See und sitzen Sie in den offenen Waggons, um die Küstenbrise zu spüren.",
+            "hu": "Utazzon az Egyesült Királyság legrégebbi kisvasútján a festői tengeri tó körül, és üljön a nyitott kocsikba, hogy élvezze a lágy tengerparti szellőt.",
+            "ro": "Mergeți cu cea mai veche cale ferată în miniatură din UK în jurul lacului pitoresc și stați în vagoanele deschise pentru a simți briza de coastă.",
+            "en": "Ride the oldest miniature railway in the UK around the picturesque marine lake, and sit in the open-air carriages to enjoy the gentle coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhyl Marine Lake",
+            "hu": "Rhyl Marine Lake",
+            "ro": "Rhyl Marine Lake",
+            "en": "Rhyl Marine Lake"
+          },
+          "coords": [
+            -3.503399,
+            53.31123
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen künstlichen Salzwassersee, ideal zum Krabbenfischen, und gehen Sie den Rundweg, um lokale Wasservögel zu sichten.",
+            "hu": "Fedezze fel ezt a rákászáshoz ideális sós vizű tavat, és sétáljon végig a kerületi ösvényen, hogy békésen megfigyelhesse a helyi vízimadarakat.",
+            "ro": "Descoperiți acest lac artificial cu apă sărată ideal pentru prins crabi și mergeți pe aleea perimetrală pentru a observa în pace păsările acvatice.",
+            "en": "Discover this unique artificial salt-water lake ideal for sailing and crabbing, and walk the perimeter path to spot diverse local waterfowl in peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem traditionellen Charme der nordwalisischen Küste. Erkunden Sie klassische Architektur und wunderschöne Gärten, bevor Sie zu den Unterhaltungsvierteln aufbrechen. Die Morgenluft bringt den frischen Duft der Irischen See mit sich, während die Stadt erwacht.\n\nGegen Mittag tauchen Sie ins Herz des familiären Küstenspaßes ein. Spielen Sie Retro-Arcade-Spiele, lauschen Sie dem Klirren von Münzen und genießen Sie das fröhliche Treiben der Urlauber. Die Hauptstraße strotzt vor Energie und bietet einen herrlichen Nostalgietrip.\n\nVerbringen Sie den Nachmittag mit groß angelegten Freizeitvergnügen. Ob Sie in modernen Wasserrutschen hinabsausen oder zum berühmten Himmelsturm hinaufblicken, diese Zeit steht ganz im Zeichen von aktiver Erholung und herrlichen Ausblicken auf die weite Küste.\n\nAm Abend finden Sie Ruhe an den weiten Sandstränden oder am historischen Meeressee. Die untergehende Sonne taucht das Wasser in ein goldenes Licht und sorgt für einen friedlichen Abschluss eines lebhaften Tages, begleitet vom sanften Rauschen der Wellen.",
+        "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
+        "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
+        "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      }
+    }
+  }
+}

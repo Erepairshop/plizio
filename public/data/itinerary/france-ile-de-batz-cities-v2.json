@@ -1,0 +1,428 @@
+{
+  "city_id": "france-ile-de-batz-cities-v2",
+  "anchor": {
+    "name": "Île-de-Batz",
+    "coords": [
+      -4.01311,
+      48.74465
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 1.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Bon-Secours",
+            "hu": "Église Notre-Dame-du-Bon-Secours",
+            "ro": "Église Notre-Dame-du-Bon-Secours",
+            "en": "Église Notre-Dame-du-Bon-Secours"
+          },
+          "coords": [
+            -4.009574,
+            48.744246
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die maritime Architektur der Kirche, die tief mit der Seefahrtsgeschichte verbunden ist, und achten Sie auf die Votivschiffe im Inneren.",
+            "hu": "Csodálja meg a templom tengerészeti építészetét, amely a helyi tengerészmúlthoz kötődik, és figyelje meg a mennyezetről lógó fogadalmi hajókat.",
+            "ro": "Admirați arhitectura maritimă a bisericii, profund legată de istoria locală, și căutați navele votive suspendate în timpul vizitei de dimineață.",
+            "en": "Admire the church's maritime architecture deeply tied to the island's seafaring history, and be sure to look up to see the hanging votive ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kreach ar Bolloch (A)",
+            "hu": "Menhir de Kreach ar Bolloch (A)",
+            "ro": "Menhir de Kreach ar Bolloch (A)",
+            "en": "Menhir de Kreach ar Bolloch (A)"
+          },
+          "coords": [
+            -3.999269,
+            48.742435
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden prähistorischen Monolithen, der von der keltischen Vergangenheit zeugt, und tragen Sie feste Schuhe für den Weg.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti monolitot, amely a kelta múltat őrzi, és viseljen kényelmes cipőt a mezőn való átkeléshez.",
+            "ro": "Descoperiți acest monolit preistoric fascinant care stă mărturie trecutului celtic și purtați încălțăminte adecvată pentru poteca ușor accidentată.",
+            "en": "Discover this fascinating prehistoric monolith that stands as a testament to Celtic history, and wear sturdy shoes for the slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            -3.993296,
+            48.741937
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Besuchen Sie die romantischen Ruinen dieser halbbegrabenen Kapelle, um die rohe Küstennatur zu spüren, und kommen Sie bei Ebbe für die besten Fotos.",
+            "hu": "Látogasson el a félig eltemetett kápolna romantikus romjaihoz, és érkezzen apálykor, hogy a legjobb fényképeket készíthesse a partvonalon.",
+            "ro": "Vizitați ruinele romantice ale acestei capele semi-îngropate în nisip și planificați-vă sosirea la reflux pentru cele mai dramatice fotografii.",
+            "en": "Visit the romantic ruins of this semi-buried sandy chapel to feel the raw coastal nature, and try to arrive during low tide for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Georges Delaselle",
+            "hu": "Jardin Georges Delaselle",
+            "ro": "Jardin Georges Delaselle",
+            "en": "Jardin Georges Delaselle"
+          },
+          "coords": [
+            -3.99267,
+            48.739201
+          ],
+          "category": "park",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese exotische botanische Oase mit seltenen Palmen und nehmen Sie sich genügend Zeit, um das Mikroklima der Insel zu erleben.",
+            "hu": "Sétáljon végig ezen a ritka pálmákkal teli egzotikus botanikus kerten, és szánjon rá elég időt, hogy megértse a sziget különleges mikroklímáját.",
+            "ro": "Plimbați-vă prin această oază botanică exotică plină de palmieri rari și alocați-vă suficient timp pentru a experimenta microclimatul insulei.",
+            "en": "Stroll through this exotic botanical oasis filled with rare palm trees, and allow yourself plenty of time to fully experience the unique microclimate."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie du C'hleger",
+            "hu": "Batterie du C'hleger",
+            "ro": "Batterie du C'hleger",
+            "en": "Batterie du C'hleger"
+          },
+          "coords": [
+            -3.992729,
+            48.737554
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Küstenbatterie mit weitem Blick aufs Meer, und bringen Sie eine Windjacke für die frische Brise mit.",
+            "hu": "Fedezze fel a történelmi partvédelmi üteg maradványait, ahonnan nyílt kilátás nyílik a tengerre, és hozzon magával széldzsekit a tengeri szél miatt.",
+            "ro": "Explorați rămășițele acestei baterii de coastă istorice ce oferă vederi ample asupra oceanului și aduceți o jachetă de vânt pentru briza rece.",
+            "en": "Explore the remains of this historic coastal battery offering expansive sea views, and bring a windbreaker to stay comfortable in the ocean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden wir den östlichen Teil der Insel, angefangen im belebten Dorfzentrum bis hin zu alten Monolithen. Die Mittagszeit führt uns zur romantischen, halb verborgenen Kapelle. Nachmittags entspannen wir im herrlichen botanischen Garten, einer exotischen Oase. Wir beenden den Spaziergang an der historischen Küstenbatterie.",
+        "hu": "Reggel a sziget keleti részét fedezzük fel, a pezsgő faluközponttól az ősi monolitokig haladva. A déli órák elvezetnek a romantikus, félig rejtett kápolnához. Délután a csodálatos botanikus kert egzotikus oázisában pihenünk. Sétánkat a történelmi partvédelmi ütegnél, a tenger morajlását hallgatva fejezzük be.",
+        "ro": "Dimineața explorăm partea estică a insulei, pornind din centrul satului până la monoliți antici. Orele prânzului ne aduc la capela romantică, parțial ascunsă. După-amiaza ne relaxăm în superba grădină botanică, o adevărată oază exotică. Plimbarea se încheie la bateria istorică de coastă, privind marea.",
+        "en": "In the morning, we explore the eastern part of the island, starting from the village center towards ancient monoliths. Midday brings us to the romantic, semi-hidden chapel by the sea. In the afternoon, we relax in the gorgeous botanical garden, an exotic oasis. We finish our walk at the historic coastal battery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de l'île de Batz",
+            "hu": "Phare de l'île de Batz",
+            "ro": "Phare de l'île de Batz",
+            "en": "Phare de l'île de Batz"
+          },
+          "coords": [
+            -4.026907,
+            48.745322
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen dieses ikonischen Leuchtturms hinauf, um ein spektakuläres Panorama zu genießen, aber seien Sie bereit für einen steilen Aufstieg.",
+            "hu": "Mássza meg ennek az ikonikus világítótoronynak a lépcsőit a látványos panorámáért, de készüljön fel a meredek és kihívást jelentő fizikai feljutásra.",
+            "ro": "Urcați treptele acestui far iconic pentru a vă bucura de o panoramă spectaculoasă, dar fiți pregătiți fizic pentru o ascensiune destul de abruptă.",
+            "en": "Climb the steps of this iconic lighthouse to enjoy a spectacular panoramic view of the island, but be physically prepared for a rather steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Soude",
+            "hu": "Four à Soude",
+            "ro": "Four à Soude",
+            "en": "Four à Soude"
+          },
+          "coords": [
+            -4.030629,
+            48.742727
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese traditionellen Algenöfen, die einst das wirtschaftliche Rückgrat bildeten, und spazieren Sie den Küstenweg entlang dorthin.",
+            "hu": "Tekintse meg ezeket a hagyományos hínárkemencéket, amelyek egykor a sziget gazdaságát adták, és sétáljon el hozzájuk a festői part menti ösvényen.",
+            "ro": "Observați aceste cuptoare tradiționale de alge care formau odată baza economiei locale și ajungeți la ele plimbându-vă pe cărarea de pe coastă.",
+            "en": "Observe these traditional seaweed ovens that once formed the local economic backbone, and reach them by walking along the scenic coastal pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Fort",
+            "hu": "Ruines du Fort",
+            "ro": "Ruines du Fort",
+            "en": "Ruines du Fort"
+          },
+          "coords": [
+            -4.034586,
+            48.74172
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die verwitterten Ruinen der Festung, die vor Piraten schützte, und achten Sie auf die wilden Blumen, die zwischen den Steinen wachsen.",
+            "hu": "Sétáljon végig az erőd romjain, amely egykor a kalózoktól védett, és figyelje meg a kövek között növő gyönyörű, vadon nyíló parti virágokat.",
+            "ro": "Plimbați-vă printre ruinele fortului vechi care proteja insula de pirați și admirați florile sălbatice reziliente care cresc printre pietre.",
+            "en": "Wander through the weathered ruins of the fort that once protected against pirates, and look out for the resilient wildflowers growing between stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Beg Séac'h",
+            "hu": "Fort de Beg Séac'h",
+            "ro": "Fort de Beg Séac'h",
+            "en": "Fort de Beg Séac'h"
+          },
+          "coords": [
+            -4.039982,
+            48.745806
+          ],
+          "category": "castle",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene militärische Befestigung an der Westspitze der Insel und bringen Sie ein Fernglas mit, um Seevögel zu beobachten.",
+            "hu": "Fedezze fel ezt a távoli katonai erődítményt a sziget nyugati csücskén, és hozzon magával távcsövet a part menti tengeri madarak megfigyeléséhez.",
+            "ro": "Descoperiți această fortificație militară izolată din extremitatea vestică a insulei și aduceți un binoclu pentru a observa păsările marine.",
+            "en": "Discover this remote military fortification located on the western tip of the island, and bring a pair of binoculars to observe the local seabirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Trou du Serpent",
+            "hu": "Le Trou du Serpent",
+            "ro": "Le Trou du Serpent",
+            "en": "Le Trou du Serpent"
+          },
+          "coords": [
+            -4.038274,
+            48.747039
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Suchen Sie nach diesem faszinierenden Felsspalt, in den der Legende nach ein Drache geworfen wurde, und seien Sie an den Klippen besonders vorsichtig.",
+            "hu": "Keresse meg ezt a lenyűgöző sziklahasadékot, ahová a legenda szerint egy sárkányt dobtak, és legyen nagyon óvatos a meredek sziklák pereménél.",
+            "ro": "Căutați această crevasă stâncoasă fascinantă unde legenda spune că a fost aruncat un dragon și fiți extrem de precauți la marginea stâncilor.",
+            "en": "Look for this fascinating rocky crevice where legend says a dragon was thrown, and be extremely careful when walking near the unstable cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt sportlich mit dem Leuchtturm und führt weiter zu traditionellen Algenöfen. Mittags radeln wir zu den wilden Ruinen der alten Festung. Am Nachmittag erkunden wir das abgelegene Fort an der Westspitze der Insel. Wir beenden die Tour am dramatischen Aussichtspunkt des Trou du Serpent am späten Nachmittag.",
+        "hu": "A délelőtt sportosan indul a világítótoronnyal, majd a hagyományos hínárkemencék felé tekerünk. Délben a régi erőd vadregényes romjaihoz érünk. Délután a sziget nyugati csücskén fekvő elszigetelt katonai erődítményt fedezzük fel. A kerékpártúrát a Trou du Serpent drámai kilátópontjánál fejezzük be.",
+        "ro": "Dimineața începe sportiv cu vizita la far și continuă spre cuptoarele tradiționale de alge. La prânz pedalăm spre ruinele sălbatice ale vechiului fort. După-amiaza explorăm fortificația izolată din vestul insulei. Încheiem turul la punctul de belvedere dramatic de la Trou du Serpent.",
+        "en": "The morning starts actively with the lighthouse and continues to traditional seaweed ovens. At midday, we cycle to the wild ruins of the old fort. In the afternoon, we explore the remote fortification at the western tip of the island. We end the cycling tour at the dramatic viewpoint of Trou du Serpent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.98,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin Georges Delaselle",
+            "hu": "Jardin Georges Delaselle",
+            "ro": "Jardin Georges Delaselle",
+            "en": "Jardin Georges Delaselle"
+          },
+          "coords": [
+            -3.99267,
+            48.739201
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese exotische botanische Oase mit seltenen Palmen und nehmen Sie sich genügend Zeit, um das Mikroklima der Insel zu erleben.",
+            "hu": "Sétáljon végig ezen a ritka pálmákkal teli egzotikus botanikus kerten, és szánjon rá elég időt, hogy megértse a sziget különleges mikroklímáját.",
+            "ro": "Plimbați-vă prin această oază botanică exotică plină de palmieri rari și alocați-vă suficient timp pentru a experimenta microclimatul insulei.",
+            "en": "Stroll through this exotic botanical oasis filled with rare palm trees, and allow yourself plenty of time to fully experience the unique microclimate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Bon-Secours",
+            "hu": "Église Notre-Dame-du-Bon-Secours",
+            "ro": "Église Notre-Dame-du-Bon-Secours",
+            "en": "Église Notre-Dame-du-Bon-Secours"
+          },
+          "coords": [
+            -4.009574,
+            48.744246
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die maritime Architektur der Kirche, die tief mit der Seefahrtsgeschichte verbunden ist, und achten Sie auf die Votivschiffe im Inneren.",
+            "hu": "Csodálja meg a templom tengerészeti építészetét, amely a helyi tengerészmúlthoz kötődik, és figyelje meg a mennyezetről lógó fogadalmi hajókat.",
+            "ro": "Admirați arhitectura maritimă a bisericii, profund legată de istoria locală, și căutați navele votive suspendate în timpul vizitei de dimineață.",
+            "en": "Admire the church's maritime architecture deeply tied to the island's seafaring history, and be sure to look up to see the hanging votive ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de l'île de Batz",
+            "hu": "Phare de l'île de Batz",
+            "ro": "Phare de l'île de Batz",
+            "en": "Phare de l'île de Batz"
+          },
+          "coords": [
+            -4.026907,
+            48.745322
+          ],
+          "category": "natural",
+          "arrive_at": "11:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen dieses ikonischen Leuchtturms hinauf, um ein spektakuläres Panorama zu genießen, aber seien Sie bereit für einen steilen Aufstieg.",
+            "hu": "Mássza meg ennek az ikonikus világítótoronynak a lépcsőit a látványos panorámáért, de készüljön fel a meredek és kihívást jelentő fizikai feljutásra.",
+            "ro": "Urcați treptele acestui far iconic pentru a vă bucura de o panoramă spectaculoasă, dar fiți pregătiți fizic pentru o ascensiune destul de abruptă.",
+            "en": "Climb the steps of this iconic lighthouse to enjoy a spectacular panoramic view of the island, but be physically prepared for a rather steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Porz ar Roc'h",
+            "hu": "Menhir de Porz ar Roc'h",
+            "ro": "Menhir de Porz ar Roc'h",
+            "en": "Menhir de Porz ar Roc'h"
+          },
+          "coords": [
+            -4.028566,
+            48.748198
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen antiken stehenden Stein vor der Meereskulisse und planen Sie Ihren Besuch am späten Nachmittag für weicheres Sonnenlicht.",
+            "hu": "Csodálja meg ezt az ősi állókövet a lenyűgöző tengeri háttérrel, és időzítse a látogatást késő délutánra a lágyabb, melegebb napfény érdekében.",
+            "ro": "Admirați această piatră antică înălțată pe fundalul mării și planificați-vă vizita după-amiaza târziu pentru a beneficia de o lumină mai blândă.",
+            "en": "Admire this ancient standing stone set against a dramatic marine backdrop, and plan your visit for the late afternoon to catch the softer sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Abris de Goémoniers",
+            "hu": "Abris de Goémoniers",
+            "ro": "Abris de Goémoniers",
+            "en": "Abris de Goémoniers"
+          },
+          "coords": [
+            -4.028017,
+            48.753319
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die alten steinernen Schutzhütten der Algensammler und stellen Sie sich das harte Leben der Arbeiter an der windigen Küste vor.",
+            "hu": "Tekintse meg a hínárgyűjtők régi kőmenedékeit, és képzelje el a munkások kemény életét a szélfútta partokon, de ne térjen le a kijelölt útról.",
+            "ro": "Vizitați vechile adăposturi de piatră ale culegătorilor de alge și imaginați-vă viața dură a muncitorilor pe această coastă mereu bătută de vânt.",
+            "en": "Visit the old stone shelters of the seaweed gatherers and imagine the hard life of the workers on this windy coast while staying on marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Roc'h",
+            "hu": "Le Roc'h",
+            "ro": "Le Roc'h",
+            "en": "Le Roc'h"
+          },
+          "coords": [
+            -4.028781,
+            48.749103
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Klettern Sie auf diesen natürlichen Felsvorsprung, um den Tag mit einem Blick über die Insel zu beenden, und bleiben Sie, bis die Sonne untergeht.",
+            "hu": "Másszon fel erre a természetes sziklakiszögellésre, hogy a szigetre nyíló kilátással zárja a napot, és maradjon ott, amíg a nap le nem nyugszik.",
+            "ro": "Urcați pe acest promontoriu stâncos natural pentru a încheia ziua cu o priveliște superbă asupra insulei și rămâneți aici până la apusul soarelui.",
+            "en": "Climb onto this natural rocky outcropping to end your day with a beautiful view over the entire island, and stay a while to watch the sun go down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Rundfahrt bietet den perfekten Überblick: Am Morgen starten wir im botanischen Garten, gefolgt von der Kirche. Mittags erreichen wir den berühmten Leuchtturm und den nahegelegenen Monolithen. Am Nachmittag besichtigen wir die historischen Schutzhütten im Norden. Der Tag endet ruhig am spektakulären Felsen Le Roc'h.",
+        "hu": "Az autós túra tökéletes áttekintést nyújt: reggel a botanikus kertben kezdünk, majd a templomot nézzük meg. Délben elérjük a híres világítótornyot és a közeli monolitot. Délután az északi parton található történelmi menedékhelyeket látogatjuk meg. A nap békésen zárul a látványos Le Roc'h sziklánál.",
+        "ro": "Un tur motorizat oferă o perspectivă amplă: dimineața începem la grădina botanică, urmată de biserică. La prânz ajungem la faimosul far și la monolitul din apropiere. După-amiaza vizităm adăposturile istorice de pe coasta nordică. Ziua se încheie liniștit la stânca spectaculoasă Le Roc'h.",
+        "en": "A motorized tour offers a perfect overview: in the morning we start at the botanical garden, followed by the church. At midday, we reach the famous lighthouse and nearby monolith. In the afternoon, we visit the historical seaweed shelters in the north. The day ends peacefully at the spectacular Le Roc'h rock."
+      }
+    }
+  }
+}

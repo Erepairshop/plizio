@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-tortoli-cities-v2",
+  "anchor": {
+    "name": "Tortolì",
+    "coords": [
+      9.65916,
+      39.9266
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo dei Conti Quigini-Puliga",
+            "hu": "Palazzo dei Conti Quigini-Puliga",
+            "ro": "Palazzo dei Conti Quigini-Puliga",
+            "en": "Palazzo dei Conti Quigini-Puliga"
+          },
+          "coords": [
+            9.658233,
+            39.927837
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Palastes, der vom örtlichen Adel zeugt, und achten Sie genau auf die feinen Details über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi palotának az elegáns építészetét, amely a helyi nemesség bizonyítéka, és figyelje meg a főbejárat feletti finom részleteket.",
+            "ro": "Admirați arhitectura elegantă a acestui palat istoric, o mărturie a nobilimii locale, și priviți îndeaproape detaliile rafinate de deasupra intrării principale.",
+            "en": "Admire the elegant architecture of this historic palace, a testament to local nobility, and look closely at the intricate details above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Andrea Apostolo",
+            "hu": "Sant'Andrea Apostolo",
+            "ro": "Sant'Andrea Apostolo",
+            "en": "Sant'Andrea Apostolo"
+          },
+          "coords": [
+            9.658139,
+            39.924955
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre ruhige Atmosphäre und das atemberaubende Altarbild zu bewundern, aber denken Sie an bescheidene Kleidung.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy értékelje nyugodt légkörét és lenyűgöző oltárképét, de ne feledjen visszafogott ruházatot viselni a belépés előtt.",
+            "ro": "Pășiți în această biserică frumoasă pentru a aprecia atmosfera ei senină și altarul uimitor, dar amintiți-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Step inside this beautiful church to appreciate its serene atmosphere and stunning altarpiece, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro San Francesco",
+            "hu": "Teatro San Francesco",
+            "ro": "Teatro San Francesco",
+            "en": "Teatro San Francesco"
+          },
+          "coords": [
+            9.654959,
+            39.926957
+          ],
+          "category": "cultural",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das lokale Programm, um zu sehen, ob während Ihres Besuchs Aufführungen in diesem lebendigen Kulturzentrum stattfinden.",
+            "hu": "Ellenőrizze a helyi műsort, hogy kiderüljön, vannak-e előadások vagy kiállítások ebben a pezsgő kulturális központban a látogatása során.",
+            "ro": "Verificați programul local pentru a vedea dacă au loc spectacole sau expoziții în acest centru cultural vibrant în timpul vizitei dumneavoastră.",
+            "en": "Check the local schedule to see if any performances or exhibitions are taking place in this vibrant cultural hub during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Giganti is Murdegus",
+            "hu": "Tomba di Giganti is Murdegus",
+            "ro": "Tomba di Giganti is Murdegus",
+            "en": "Tomba di Giganti is Murdegus"
+          },
+          "coords": [
+            9.654314,
+            39.934678
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten megalithischen Gräber, die einen faszinierenden Einblick in die Nuraghenkultur bieten, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ezeket az ősi megalitikus sírokat, amelyek lenyűgöző bepillantást nyújtanak a nuragh civilizációba, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați aceste morminte megalitice antice care oferă o privire fascinantă asupra civilizației nuragice și purtați încălțăminte robustă pentru cărările accidentate.",
+            "en": "Explore these ancient megalithic graves that offer a fascinating glimpse into the Nuragic civilization, and wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Costa Arangiu",
+            "hu": "Nuraghe Costa Arangiu",
+            "ro": "Nuraghe Costa Arangiu",
+            "en": "Nuraghe Costa Arangiu"
+          },
+          "coords": [
+            9.641709,
+            39.927365
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden steinernen Überreste dieser alten Verteidigungsanlage, am besten am frühen Morgen, um die Mittagshitze zu vermeiden.",
+            "hu": "Fedezze fel ennek az ősi védelmi építménynek a lenyűgöző kőmaradványait, és ideális esetben érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Descoperiți resturile impresionante de piatră ale acestei vechi structuri defensive, fiind ideal să o vizitați devreme pentru a evita căldura amiezii.",
+            "en": "Discover the impressive stone remains of this ancient defensive structure, ideally visiting early to avoid the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum, wo Sie das Erbe des lokalen Adels entdecken und die friedliche Atmosphäre der Hauptkirche genießen. Mittags geht es in das kulturelle Zentrum der Stadt. Der Nachmittag führt Sie etwas weiter hinaus, um antike megalithische Strukturen zu erkunden. Der Abend endet mit einem entspannten Spaziergang in der Nähe der archäologischen Überreste.",
+        "hu": "A reggel a történelmi központban indul, feltárva a helyi nemesség örökségét és élvezve a főtemplom békés hangulatát. A dél felé közeledve a város kulturális szívébe ér, majd a délután során ősi megalitikus építményeket fedezhet fel. Az estét a régészeti emlékek közelében tett pihentető séta zárja.",
+        "ro": "Dimineața începe în centrul istoric, descoperind moștenirea nobilimii locale și bucurându-vă de atmosfera pașnică a bisericii principale. La prânz ajungeți în inima culturală a orașului, iar după-amiaza vă duce puțin mai departe pentru a explora structuri megalitice antice. Seara se încheie cu o plimbare relaxantă lângă rămășițele arheologice.",
+        "en": "Morning starts in the historic center, uncovering the legacy of the local nobility and enjoying the peaceful atmosphere of the main church. Midday leads you towards the cultural heart of the town, offering insights into its artistic side. Afternoon takes you slightly further out to explore ancient megalithic structures. Evening wraps up with a relaxing stroll near the archaeological remains."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo dei Conti Quigini-Puliga",
+            "hu": "Palazzo dei Conti Quigini-Puliga",
+            "ro": "Palazzo dei Conti Quigini-Puliga",
+            "en": "Palazzo dei Conti Quigini-Puliga"
+          },
+          "coords": [
+            9.658233,
+            39.927837
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Palastes, der vom örtlichen Adel zeugt, und achten Sie genau auf die feinen Details über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi palotának az elegáns építészetét, amely a helyi nemesség bizonyítéka, és figyelje meg a főbejárat feletti finom részleteket.",
+            "ro": "Admirați arhitectura elegantă a acestui palat istoric, o mărturie a nobilimii locale, și priviți îndeaproape detaliile rafinate de deasupra intrării principale.",
+            "en": "Admire the elegant architecture of this historic palace, a testament to local nobility, and look closely at the intricate details above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Andrea Apostolo",
+            "hu": "Sant'Andrea Apostolo",
+            "ro": "Sant'Andrea Apostolo",
+            "en": "Sant'Andrea Apostolo"
+          },
+          "coords": [
+            9.658139,
+            39.924955
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre ruhige Atmosphäre und das atemberaubende Altarbild zu bewundern, aber denken Sie an bescheidene Kleidung.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy értékelje nyugodt légkörét és lenyűgöző oltárképét, de ne feledjen visszafogott ruházatot viselni a belépés előtt.",
+            "ro": "Pășiți în această biserică frumoasă pentru a aprecia atmosfera ei senină și altarul uimitor, dar amintiți-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Step inside this beautiful church to appreciate its serene atmosphere and stunning altarpiece, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Santa Giusta",
+            "hu": "Nuraghe Santa Giusta",
+            "ro": "Nuraghe Santa Giusta",
+            "en": "Nuraghe Santa Giusta"
+          },
+          "coords": [
+            9.656274,
+            39.912612
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Umweg, um die Ruinen dieses alten Turms zu untersuchen, der als stummer Zeuge der prähistorischen Vergangenheit der Insel steht.",
+            "hu": "Tegyen egy rövid kitérőt, hogy megvizsgálja ennek az ősi toronynak a romjait, amely a sziget történelem előtti múltjának néma tanújaként áll.",
+            "ro": "Faceți un scurt ocol pentru a examina ruinele acestui turn antic, care stă ca un martor tăcut al trecutului preistoric al insulei.",
+            "en": "Take a short detour to examine the ruins of this ancient tower, which stands as a silent witness to the island's prehistoric past."
+          }
+        },
+        {
+          "name": {
+            "de": "Circolo megalitico",
+            "hu": "Circolo megalitico",
+            "ro": "Circolo megalitico",
+            "en": "Circolo megalitico"
+          },
+          "coords": [
+            9.668748,
+            39.91303
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den mysteriösen stehenden Steinen dieses Megalithkreises und bringen Sie eine Kamera mit, um die mystische Atmosphäre einzufangen.",
+            "hu": "Sétáljon e megalitikus kör rejtélyes állókövei között, és hozzon magával egy fényképezőgépet, hogy megörökítse a hely misztikus hangulatát.",
+            "ro": "Plimbați-vă printre pietrele misterioase ale acestui cerc megalitic și aduceți o cameră pentru a surprinde atmosfera mistică a sitului.",
+            "en": "Walk among the mysterious standing stones of this megalithic circle, and bring a camera to capture the mystical atmosphere of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir",
+            "hu": "Menhir",
+            "ro": "Menhir",
+            "en": "Menhir"
+          },
+          "coords": [
+            9.668698,
+            39.911174
+          ],
+          "category": "landmark",
+          "arrive_at": "11:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stellen Sie sich neben diesen hoch aufragenden prähistorischen Monolithen, um seine Größe zu würdigen und über die unglaubliche Mühe nachzudenken, die für seine Errichtung nötig war.",
+            "hu": "Álljon e tornyosuló történelem előtti monolit mellé, hogy értékelje a méretét, elgondolkodva azon a hihetetlen erőfeszítésen, amely a felállításához kellett évezredekkel ezelőtt.",
+            "ro": "Stați lângă acest monolit preistoric impunător pentru a-i aprecia dimensiunea, reflectând la efortul incredibil necesar pentru a-l ridica cu mii de ani în urmă.",
+            "en": "Stand next to this towering prehistoric monolith to appreciate its scale, reflecting on the incredible effort required to erect it thousands of years ago."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Orrì",
+            "hu": "Lido di Orrì",
+            "ro": "Lido di Orrì",
+            "en": "Lido di Orrì"
+          },
+          "coords": [
+            9.681784,
+            39.899985
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen weißen Sand dieses weitläufigen Strandes, wo Sie sich in den geschäftigen Sommermonaten frühzeitig einen Sonnenschirm mieten sollten.",
+            "hu": "Pihenjen ennek a kiterjedt és gyönyörű strandnak a finom fehér homokján, ahol a forgalmas nyári hónapokban érdemes korán napernyőt bérelnie.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje vaste și frumoase, unde ar trebui să închiriați o umbrelă devreme în lunile aglomerate de vară.",
+            "en": "Relax on the fine white sands of this expansive and beautiful beach, where you should rent an umbrella early during the busy summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung der eleganten historischen Paläste und der zentralen Kirche von Tortolì. Mittags radeln Sie hinaus, um die verstreuten nuraghischen und megalithischen Stätten zu entdecken. Der Nachmittag lädt zum Entspannen ein, während Sie zur wunderschönen Küste fahren. Genießen Sie den Abend am Meer an den Sandstränden.",
+        "hu": "Kezdje a kerékpáros napot Tortolì elegáns történelmi palotáinak és központi templomának felfedezésével. Délben tekerjen tovább a tájon elszórt nuragh és megalitikus helyszínek felé. A délután pihenésre csábít, miközben a gyönyörű partvidék felé kerekezik. Élvezze az estét a tengerparton, figyelve a hosszú árnyékokat a homokos partokon.",
+        "ro": "Începeți ziua de ciclism explorând palatele istorice elegante și biserica centrală din Tortolì. La prânz, pedalați pentru a descoperi siturile nuragice și megalitice împrăștiate în peisaj. După-amiaza vă invită să vă relaxați în timp ce mergeți spre frumoasa coastă. Bucurați-vă de seară la malul mării, urmărind cum soarele aruncă umbre lungi pe plajă.",
+        "en": "Start your cycling day exploring the elegant historical palaces and the central church of Tortolì. By midday, pedal out to discover the scattered Nuragic and megalithic sites dotting the landscape. The afternoon invites you to relax as you cycle towards the beautiful coastline. Enjoy the evening by the sea, watching the sun cast long shadows over the sandy shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tomba di Giganti is Murdegus",
+            "hu": "Tomba di Giganti is Murdegus",
+            "ro": "Tomba di Giganti is Murdegus",
+            "en": "Tomba di Giganti is Murdegus"
+          },
+          "coords": [
+            9.654314,
+            39.934678
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten megalithischen Gräber, die einen faszinierenden Einblick in die Nuraghenkultur bieten, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ezeket az ősi megalitikus sírokat, amelyek lenyűgöző bepillantást nyújtanak a nuragh civilizációba, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați aceste morminte megalitice antice care oferă o privire fascinantă asupra civilizației nuragice și purtați încălțăminte robustă pentru cărările accidentate.",
+            "en": "Explore these ancient megalithic graves that offer a fascinating glimpse into the Nuragic civilization, and wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Costa Arangiu",
+            "hu": "Nuraghe Costa Arangiu",
+            "ro": "Nuraghe Costa Arangiu",
+            "en": "Nuraghe Costa Arangiu"
+          },
+          "coords": [
+            9.641709,
+            39.927365
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden steinernen Überreste dieser alten Verteidigungsanlage, am besten am frühen Morgen, um die Mittagshitze zu vermeiden.",
+            "hu": "Fedezze fel ennek az ősi védelmi építménynek a lenyűgöző kőmaradványait, és ideális esetben érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Descoperiți resturile impresionante de piatră ale acestei vechi structuri defensive, fiind ideal să o vizitați devreme pentru a evita căldura amiezii.",
+            "en": "Discover the impressive stone remains of this ancient defensive structure, ideally visiting early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Conti Quigini-Puliga",
+            "hu": "Palazzo dei Conti Quigini-Puliga",
+            "ro": "Palazzo dei Conti Quigini-Puliga",
+            "en": "Palazzo dei Conti Quigini-Puliga"
+          },
+          "coords": [
+            9.658233,
+            39.927837
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Palastes, der vom örtlichen Adel zeugt, und achten Sie genau auf die feinen Details über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi palotának az elegáns építészetét, amely a helyi nemesség bizonyítéka, és figyelje meg a főbejárat feletti finom részleteket.",
+            "ro": "Admirați arhitectura elegantă a acestui palat istoric, o mărturie a nobilimii locale, și priviți îndeaproape detaliile rafinate de deasupra intrării principale.",
+            "en": "Admire the elegant architecture of this historic palace, a testament to local nobility, and look closely at the intricate details above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Andrea Apostolo",
+            "hu": "Sant'Andrea Apostolo",
+            "ro": "Sant'Andrea Apostolo",
+            "en": "Sant'Andrea Apostolo"
+          },
+          "coords": [
+            9.658139,
+            39.924955
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre ruhige Atmosphäre und das atemberaubende Altarbild zu bewundern, aber denken Sie an bescheidene Kleidung.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy értékelje nyugodt légkörét és lenyűgöző oltárképét, de ne feledjen visszafogott ruházatot viselni a belépés előtt.",
+            "ro": "Pășiți în această biserică frumoasă pentru a aprecia atmosfera ei senină și altarul uimitor, dar amintiți-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Step inside this beautiful church to appreciate its serene atmosphere and stunning altarpiece, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Circolo megalitico",
+            "hu": "Circolo megalitico",
+            "ro": "Circolo megalitico",
+            "en": "Circolo megalitico"
+          },
+          "coords": [
+            9.668748,
+            39.91303
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den mysteriösen stehenden Steinen dieses Megalithkreises und bringen Sie eine Kamera mit, um die mystische Atmosphäre einzufangen.",
+            "hu": "Sétáljon e megalitikus kör rejtélyes állókövei között, és hozzon magával egy fényképezőgépet, hogy megörökítse a hely misztikus hangulatát.",
+            "ro": "Plimbați-vă printre pietrele misterioase ale acestui cerc megalitic și aduceți o cameră pentru a surprinde atmosfera mistică a sitului.",
+            "en": "Walk among the mysterious standing stones of this megalithic circle, and bring a camera to capture the mystical atmosphere of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Orrì",
+            "hu": "Lido di Orrì",
+            "ro": "Lido di Orrì",
+            "en": "Lido di Orrì"
+          },
+          "coords": [
+            9.681784,
+            39.899985
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen weißen Sand dieses weitläufigen Strandes, wo Sie sich in den geschäftigen Sommermonaten frühzeitig einen Sonnenschirm mieten sollten.",
+            "hu": "Pihenjen ennek a kiterjedt és gyönyörű strandnak a finom fehér homokján, ahol a forgalmas nyári hónapokban érdemes korán napernyőt bérelnie.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje vaste și frumoase, unde ar trebui să închiriați o umbrelă devreme în lunile aglomerate de vară.",
+            "en": "Relax on the fine white sands of this expansive and beautiful beach, where you should rent an umbrella early during the busy summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zu den beeindruckenden alten Gräbern und Verteidigungstürmen, die die prähistorische Bedeutung der Region prägen. Später parken Sie im Zentrum, um die historischen Paläste und die Kirche zu bewundern. Setzen Sie nach dem Mittagessen Ihre Fahrt zu den Steinen fort. Verbringen Sie schließlich einen entspannten Abend an den atemberaubenden Stränden der Küste.",
+        "hu": "Először hajtson el a lenyűgöző ősi sírokhoz és védelmi tornyokhoz, amelyek meghatározzák a régió történelem előtti jelentőségét. Később parkoljon le a központban, hogy megcsodálja a palotákat és a főtemplomot. Egy gyors ebéd után folytassa útját a rejtélyes állókövek felé. Végül töltsön el egy hosszú, ráérős estét a tengerpart lenyűgöző strandjain.",
+        "ro": "Conduceți mai întâi spre mormintele antice și turnurile defensive care definesc importanța preistorică a regiunii. Mai târziu, parcați în centru pentru a admira palatele istorice și biserica. După prânz, continuați călătoria pitorească către pietrele enigmatice. În cele din urmă, petreceți o seară lungă și relaxantă pe plajele uimitoare ale coastei.",
+        "en": "Drive first to the impressive ancient tombs and defensive towers that define the region's prehistoric importance. Later, park in the center to admire the historic palaces and the main church. After a quick lunch, continue your scenic drive to the enigmatic standing stones. Finally, spend a long, leisurely evening relaxing on the stunning beaches of the coast."
+      }
+    }
+  }
+}

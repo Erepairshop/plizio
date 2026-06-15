@@ -1,0 +1,520 @@
+{
+  "city_id": "pont-de-roide-vermondans",
+  "anchor": {
+    "name": "Pont-de-Roide-Vermondans",
+    "coords": [
+      6.77,
+      47.3847
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            6.769852,
+            47.383594
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche, und versuchen Sie für die besten Fotos das Morgenlicht zu nutzen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés hangulatát, és a legjobb belső fotók érdekében próbáljon a reggeli fényben érkezni.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici istorice, și încercați să o vizitați în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this historic church, and try to visit during morning light for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Roches",
+            "hu": "Fort des Roches",
+            "ro": "Fort des Roches",
+            "en": "Fort des Roches"
+          },
+          "coords": [
+            6.77916,
+            47.3736
+          ],
+          "category": "fortress",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser strategischen Festung aus dem 19. Jahrhundert mit Panoramablick über das Tal, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a völgyre panorámás kilátást nyújtó, 19. századi stratégiai erőd romjait, de mindenképpen viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați rămășițele acestei fortărețe strategice din secolul al XIX-lea care oferă vederi panoramice, dar asigurați-vă că purtați încălțăminte robustă.",
+            "en": "Explore the remnants of this strategic 19th-century fortress offering panoramic views over the valley, but be sure to wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle du Crêt des Roches",
+            "hu": "Réserve naturelle du Crêt des Roches",
+            "ro": "Réserve naturelle du Crêt des Roches",
+            "en": "Réserve naturelle du Crêt des Roches"
+          },
+          "coords": [
+            6.780728,
+            47.373067
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und die atemberaubenden Kalksteinklippen in diesem Naturschutzgebiet, und halten Sie mit dem Fernglas nach seltenen Vögeln Ausschau.",
+            "hu": "Fedezze fel a helyi biológiai sokféleséget és a lenyűgöző mészkősziklákat ebben a természetvédelmi területben, és tartsa nyitva a szemét a ritka madarakra.",
+            "ro": "Descoperiți biodiversitatea locală și stâncile uimitoare de calcar din această rezervație, și fiți cu ochii în patru după păsări rare cu binoclul.",
+            "en": "Discover rich local biodiversity and stunning limestone cliffs in this protected nature reserve, keeping a lookout for rare birds with your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Echeroux",
+            "hu": "Mont Echeroux",
+            "ro": "Mont Echeroux",
+            "en": "Mont Echeroux"
+          },
+          "coords": [
+            6.78472,
+            47.362229
+          ],
+          "category": "landmark",
+          "arrive_at": "13:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem markanten Wahrzeichen hinauf, um die weite Aussicht auf die Region Doubs zu genießen, und bringen Sie eine Windjacke für den Gipfel mit.",
+            "hu": "Másszon fel erre a kiemelkedő természeti nevezetességre, hogy élvezze a Doubs régió pazar kilátását, és hozzon magával széldzsekit az olykor szeles csúcsra.",
+            "ro": "Urcați la acest reper natural proeminent pentru a experimenta vederi ample asupra regiunii Doubs și aduceți o jachetă de vânt pentru vârful adesea răcoros.",
+            "en": "Climb up to this prominent natural landmark to experience sweeping vistas of the Doubs region, and bring a windbreaker as the peak gets surprisingly breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tour Carrée",
+            "hu": "La Tour Carrée",
+            "ro": "La Tour Carrée",
+            "en": "La Tour Carrée"
+          },
+          "coords": [
+            6.795655,
+            47.365993
+          ],
+          "category": "castle",
+          "arrive_at": "13:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem markanten quadratischen Burgturm in die mittelalterliche Vergangenheit ein, und prüfen Sie vor dem Aufstieg die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el a régió középkori múltjában ennél a lenyűgöző, négyzet alakú várkastély-toronynál, és ellenőrizze a szezonális nyitvatartást a látogatás előtt.",
+            "ro": "Pătrundeți în trecutul medieval al regiunii la acest turn de castel impresionant, asigurându-vă că verificați programul de funcționare sezonier înainte.",
+            "en": "Delve into the region's medieval past at this striking square castle tower, making sure to check the seasonal opening hours before you plan your ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem atemberaubenden Inneren der Église de la Nativité und genießen Sie die friedliche Atmosphäre. Mittags steigen Sie zum beeindruckenden Fort des Roches hinauf. Der Nachmittag ist dem Naturschutzgebiet Crêt des Roches und dem Mont Echeroux gewidmet, wo Sie die Bergluft atmen. Beenden Sie den Tag mit der Erkundung des mittelalterlichen La Tour Carrée bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az Église de la Nativité lenyűgöző belső terével és békés hangulatával. A délben a lenyűgöző Fort des Roches várja, feltárva a katonai történelmet és a pazar kilátást. A délután a Crêt des Roches természetvédelmi terület és a Mont Echeroux felfedezéséről szól a friss hegyi levegőn. Zárja a napot a középkori La Tour Carrée felfedezésével a lemenő nap fényében.",
+        "ro": "Începeți dimineața cu interiorul uimitor al Église de la Nativité, absorbind atmosfera sa senină. La prânz urcați la formidabilul Fort des Roches, descoperind istoria militară. După-amiaza este dedicată rezervației naturale Crêt des Roches și Mont Echeroux, respirând aerul curat de munte. Încheiați ziua explorând medievala La Tour Carrée în timp ce soarele apune peste vale.",
+        "en": "Start your morning with the stunning interior of the Église de la Nativité, soaking in its serene atmosphere. Midday takes you up to the formidable Fort des Roches, unveiling military history and vast valley views. The afternoon is dedicated to the Crêt des Roches nature reserve and Mont Echeroux, breathing in the fresh mountain air. Conclude your day exploring the medieval La Tour Carrée as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Terrain de Pétanque",
+            "hu": "Terrain de Pétanque",
+            "ro": "Terrain de Pétanque",
+            "en": "Terrain de Pétanque"
+          },
+          "coords": [
+            6.759528,
+            47.390242
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mischen Sie sich auf diesem traditionellen Bouleplatz unter die freundlichen Einheimischen, und bitten Sie die Spieler ruhig um eine kurze Einführung in die Regeln.",
+            "hu": "Vegyüljön el a barátságos helyiekkel ezen a hagyományos pétanque pályán, és nyugodtan kérjen a játékosoktól egy rövid bevezetést a szabályokba.",
+            "ro": "Interacționați cu localnicii prietenoși pe acest teren de petanque tradițional și nu ezitați să le cereți jucătorilor o scurtă introducere în regulile jocului.",
+            "en": "Mingle with friendly locals at this traditional pétanque court set in a lively neighborhood, and feel free to ask the players for a quick introduction to the rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            6.756687,
+            47.388908
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der stillen Reflexion in dieser reizvollen kleinen Kapelle, die sich perfekt für einen kurzen morgendlichen Abstecher abseits der Massen eignet.",
+            "hu": "Élvezze a csendes elmélkedés pillanatát ebben a bájos, meghitt hangulatú kis kápolnában, amely tökéletes egy rövid, tömegtől mentes reggeli kitérőhöz.",
+            "ro": "Bucurați-vă de un moment de liniște la această mică și fermecătoare capelă cunoscută pentru cadrul său intim, perfectă pentru un scurt ocol matinal fără aglomerație.",
+            "en": "Enjoy a moment of quiet reflection at this charming small chapel known for its intimate setting, perfectly suited for a brief morning detour away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            6.769852,
+            47.383594
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche, und versuchen Sie für die besten Fotos das Morgenlicht zu nutzen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés hangulatát, és a legjobb belső fotók érdekében próbáljon a reggeli fényben érkezni.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici istorice, și încercați să o vizitați în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this historic church, and try to visit during morning light for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Roches",
+            "hu": "Fort des Roches",
+            "ro": "Fort des Roches",
+            "en": "Fort des Roches"
+          },
+          "coords": [
+            6.77916,
+            47.3736
+          ],
+          "category": "fortress",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser strategischen Festung aus dem 19. Jahrhundert mit Panoramablick über das Tal, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a völgyre panorámás kilátást nyújtó, 19. századi stratégiai erőd romjait, de mindenképpen viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați rămășițele acestei fortărețe strategice din secolul al XIX-lea care oferă vederi panoramice, dar asigurați-vă că purtați încălțăminte robustă.",
+            "en": "Explore the remnants of this strategic 19th-century fortress offering panoramic views over the valley, but be sure to wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle du Crêt des Roches",
+            "hu": "Réserve naturelle du Crêt des Roches",
+            "ro": "Réserve naturelle du Crêt des Roches",
+            "en": "Réserve naturelle du Crêt des Roches"
+          },
+          "coords": [
+            6.780728,
+            47.373067
+          ],
+          "category": "natural",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und die atemberaubenden Kalksteinklippen in diesem Naturschutzgebiet, und halten Sie mit dem Fernglas nach seltenen Vögeln Ausschau.",
+            "hu": "Fedezze fel a helyi biológiai sokféleséget és a lenyűgöző mészkősziklákat ebben a természetvédelmi területben, és tartsa nyitva a szemét a ritka madarakra.",
+            "ro": "Descoperiți biodiversitatea locală și stâncile uimitoare de calcar din această rezervație, și fiți cu ochii în patru după păsări rare cu binoclul.",
+            "en": "Discover rich local biodiversity and stunning limestone cliffs in this protected nature reserve, keeping a lookout for rare birds with your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie des Saussis",
+            "hu": "Batterie des Saussis",
+            "ro": "Batterie des Saussis",
+            "en": "Batterie des Saussis"
+          },
+          "coords": [
+            6.776406,
+            47.362251
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese verborgene historische Artilleriebatterie, die einst die Grenze verteidigte, und packen Sie eine Taschenlampe ein, um sicher in die Bunker zu blicken.",
+            "hu": "Vizsgálja meg ezt az elrejtett történelmi tüzérségi üteget, amely egykor a francia határt védte, és hozzon elemlámpát a sötétebb betonbunkerek biztonságos felfedezéséhez.",
+            "ro": "Cercetați această baterie de artilerie istorică ascunsă care apăra granița, aducând o lanternă pentru a privi în siguranță în buncărele întunecate.",
+            "en": "Investigate this hidden historical artillery battery that once defended the French border, packing a flashlight to safely peer into the darker, unlit concrete bunkers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Radtour beginnt am belebten Pétanque-Platz, gefolgt von der Chapelle Sainte-Anne und der majestätischen Église de la Nativité. Gegen Mittag radeln Sie bergauf zum Fort des Roches. Der Nachmittag bringt eine erfrischende Fahrt entlang des Reservats Crêt des Roches und seiner Kalksteinlandschaften. Der Abend bricht herein, während Sie die geheimnisvolle Batterie des Saussis erkunden.",
+        "hu": "A reggeli tekerés a nyüzsgő Pétanque pályán kezdődik, mielőtt élvezné a Chapelle Sainte-Anne és az Église de la Nativité szépségét. Délre felkerékpározik a drámai Fort des Roches erődítményhez. A délután frissítő utat kínál a Crêt des Roches rezervátum mészkő tájain. Az este beköszönt, ahogy felfedezi a titokzatos Batterie des Saussis történelmi katonai helyszínét.",
+        "ro": "Pedalarea de dimineață începe la terenul de Pétanque înainte de a vă bucura de Chapelle Sainte-Anne și de maiestuoasa Église de la Nativité. La prânz veți urca spre impresionantul Fort des Roches. După-amiaza aduce o plimbare revigorantă de-a lungul rezervației Crêt des Roches, admirând calcarul accidentat. Seara se lasă în timp ce investigați misterioasa Batterie des Saussis.",
+        "en": "Morning pedals begin at the lively Pétanque court before enjoying the quiet beauty of Chapelle Sainte-Anne and the majestic Église de la Nativité. By midday, you'll cycle uphill to the dramatic Fort des Roches. Afternoon brings a refreshing ride along the Crêt des Roches reserve, absorbing the rugged limestone landscapes. Evening descends as you investigate the mysterious Batterie des Saussis."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 7.75,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Chambabon",
+            "hu": "Chambabon",
+            "ro": "Chambabon",
+            "en": "Chambabon"
+          },
+          "coords": [
+            6.780084,
+            47.39377
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefen historischen Wurzeln dieser bemerkenswerten architektonischen Stätte, und nehmen Sie sich Zeit, um das Gelände für die besten Fotowinkel zu umrunden.",
+            "hu": "Fedezze fel a város örökségét jelölő, figyelemre méltó építészeti helyszín mély történelmi gyökereit, és szánjon időt a legjobb fotós szögek megtalálására a kerület mentén.",
+            "ro": "Descoperiți rădăcinile istorice profunde ale acestui sit arhitectural notabil care marchează patrimoniul, făcând o plimbare pe perimetru pentru cele mai bune unghiuri.",
+            "en": "Discover the deep historical roots of this notable architectural site marking the town's heritage, taking time to walk around its perimeter for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrain de Pétanque",
+            "hu": "Terrain de Pétanque",
+            "ro": "Terrain de Pétanque",
+            "en": "Terrain de Pétanque"
+          },
+          "coords": [
+            6.759528,
+            47.390242
+          ],
+          "category": "family",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Mischen Sie sich auf diesem traditionellen Bouleplatz unter die freundlichen Einheimischen, und bitten Sie die Spieler ruhig um eine kurze Einführung in die Regeln.",
+            "hu": "Vegyüljön el a barátságos helyiekkel ezen a hagyományos pétanque pályán, és nyugodtan kérjen a játékosoktól egy rövid bevezetést a szabályokba.",
+            "ro": "Interacționați cu localnicii prietenoși pe acest teren de petanque tradițional și nu ezitați să le cereți jucătorilor o scurtă introducere în regulile jocului.",
+            "en": "Mingle with friendly locals at this traditional pétanque court set in a lively neighborhood, and feel free to ask the players for a quick introduction to the rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            6.756687,
+            47.388908
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der stillen Reflexion in dieser reizvollen kleinen Kapelle, die sich perfekt für einen kurzen morgendlichen Abstecher abseits der Massen eignet.",
+            "hu": "Élvezze a csendes elmélkedés pillanatát ebben a bájos, meghitt hangulatú kis kápolnában, amely tökéletes egy rövid, tömegtől mentes reggeli kitérőhöz.",
+            "ro": "Bucurați-vă de un moment de liniște la această mică și fermecătoare capelă cunoscută pentru cadrul său intim, perfectă pentru un scurt ocol matinal fără aglomerație.",
+            "en": "Enjoy a moment of quiet reflection at this charming small chapel known for its intimate setting, perfectly suited for a brief morning detour away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            6.769852,
+            47.383594
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche, und versuchen Sie für die besten Fotos das Morgenlicht zu nutzen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés hangulatát, és a legjobb belső fotók érdekében próbáljon a reggeli fényben érkezni.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici istorice, și încercați să o vizitați în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this historic church, and try to visit during morning light for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Roches",
+            "hu": "Fort des Roches",
+            "ro": "Fort des Roches",
+            "en": "Fort des Roches"
+          },
+          "coords": [
+            6.77916,
+            47.3736
+          ],
+          "category": "fortress",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser strategischen Festung aus dem 19. Jahrhundert mit Panoramablick über das Tal, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a völgyre panorámás kilátást nyújtó, 19. századi stratégiai erőd romjait, de mindenképpen viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați rămășițele acestei fortărețe strategice din secolul al XIX-lea care oferă vederi panoramice, dar asigurați-vă că purtați încălțăminte robustă.",
+            "en": "Explore the remnants of this strategic 19th-century fortress offering panoramic views over the valley, but be sure to wear sturdy shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle du Crêt des Roches",
+            "hu": "Réserve naturelle du Crêt des Roches",
+            "ro": "Réserve naturelle du Crêt des Roches",
+            "en": "Réserve naturelle du Crêt des Roches"
+          },
+          "coords": [
+            6.780728,
+            47.373067
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und die atemberaubenden Kalksteinklippen in diesem Naturschutzgebiet, und halten Sie mit dem Fernglas nach seltenen Vögeln Ausschau.",
+            "hu": "Fedezze fel a helyi biológiai sokféleséget és a lenyűgöző mészkősziklákat ebben a természetvédelmi területben, és tartsa nyitva a szemét a ritka madarakra.",
+            "ro": "Descoperiți biodiversitatea locală și stâncile uimitoare de calcar din această rezervație, și fiți cu ochii în patru după păsări rare cu binoclul.",
+            "en": "Discover rich local biodiversity and stunning limestone cliffs in this protected nature reserve, keeping a lookout for rare birds with your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Echeroux",
+            "hu": "Mont Echeroux",
+            "ro": "Mont Echeroux",
+            "en": "Mont Echeroux"
+          },
+          "coords": [
+            6.78472,
+            47.362229
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem markanten Wahrzeichen hinauf, um die weite Aussicht auf die Region Doubs zu genießen, und bringen Sie eine Windjacke für den Gipfel mit.",
+            "hu": "Másszon fel erre a kiemelkedő természeti nevezetességre, hogy élvezze a Doubs régió pazar kilátását, és hozzon magával széldzsekit az olykor szeles csúcsra.",
+            "ro": "Urcați la acest reper natural proeminent pentru a experimenta vederi ample asupra regiunii Doubs și aduceți o jachetă de vânt pentru vârful adesea răcoros.",
+            "en": "Climb up to this prominent natural landmark to experience sweeping vistas of the Doubs region, and bring a windbreaker as the peak gets surprisingly breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie des Saussis",
+            "hu": "Batterie des Saussis",
+            "ro": "Batterie des Saussis",
+            "en": "Batterie des Saussis"
+          },
+          "coords": [
+            6.776406,
+            47.362251
+          ],
+          "category": "historical",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese verborgene historische Artilleriebatterie, die einst die Grenze verteidigte, und packen Sie eine Taschenlampe ein, um sicher in die Bunker zu blicken.",
+            "hu": "Vizsgálja meg ezt az elrejtett történelmi tüzérségi üteget, amely egykor a francia határt védte, és hozzon elemlámpát a sötétebb betonbunkerek biztonságos felfedezéséhez.",
+            "ro": "Cercetați această baterie de artilerie istorică ascunsă care apăra granița, aducând o lanternă pentru a privi în siguranță în buncărele întunecate.",
+            "en": "Investigate this hidden historical artillery battery that once defended the French border, packing a flashlight to safely peer into the darker, unlit concrete bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tour Carrée",
+            "hu": "La Tour Carrée",
+            "ro": "La Tour Carrée",
+            "en": "La Tour Carrée"
+          },
+          "coords": [
+            6.795655,
+            47.365993
+          ],
+          "category": "castle",
+          "arrive_at": "16:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem markanten quadratischen Burgturm in die mittelalterliche Vergangenheit ein, und prüfen Sie vor dem Aufstieg die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el a régió középkori múltjában ennél a lenyűgöző, négyzet alakú várkastély-toronynál, és ellenőrizze a szezonális nyitvatartást a látogatás előtt.",
+            "ro": "Pătrundeți în trecutul medieval al regiunii la acest turn de castel impresionant, asigurându-vă că verificați programul de funcționare sezonier înainte.",
+            "en": "Delve into the region's medieval past at this striking square castle tower, making sure to check the seasonal opening hours before you plan your ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre ausgedehnte Autotour beginnt am historischen Chambabon und führt nahtlos zum Pétanque-Platz, der ruhigen Kapelle und der zentralen Kirche. Der Mittag widmet sich dem militärischen Erbe des Fort des Roches, gefolgt von Naturspaziergängen am Crêt des Roches und Mont Echeroux. Die Abendschatten ergänzen die alten Steine der Batterie des Saussis und des La Tour Carrée.",
+        "hu": "A kiterjedt autós túra a történelmi Chambabonnál indul, zökkenőmentesen haladva a Pétanque pályához, a csendes kápolnához és a központi templomhoz. A dél átvált a Fort des Roches katonai örökségére, majd délutáni séták következnek a Crêt des Roches és a Mont Echeroux hegyein. Az esti árnyékok tökéletesen kiegészítik a Batterie des Saussis és a La Tour Carrée ősi köveit.",
+        "ro": "Turul extins cu mașina începe cu istoricul Chambabon, continuând cu terenul de petanque, capela liniștită și biserica centrală. Prânzul face trecerea către patrimoniul militar de la Fort des Roches, urmat de plimbări în natură la Crêt des Roches și Mont Echeroux după-amiază. Umbrele serii completează perfect pietrele antice de la Batterie des Saussis și La Tour Carrée.",
+        "en": "Your extensive driving tour opens with the historic Chambabon, flowing seamlessly into visits at the lively Pétanque court, the quiet Chapelle Sainte-Anne, and the central church. Midday transitions to military heritage at Fort des Roches, followed by nature walks at Crêt des Roches and Mont Echeroux in the afternoon. Evening shadows perfectly complement the ancient stones of Batterie des Saussis and La Tour Carrée."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "pouzauges",
+  "anchor": {
+    "name": "Pouzauges",
+    "coords": [
+      -0.8372,
+      46.7822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -0.836242,
+            46.783394
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, das spirituelle Zentrum der Stadt, und kommen Sie früh, um die morgendliche Akustik zu erleben.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú építészetét, a város szellemi központját, és érkezzen korán, hogy megtapasztalja annak békés reggeli akusztikáját.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice, inima spirituală a orașului, și sosiți devreme pentru a experimenta acustica sa liniștită de dimineață.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, which forms the spiritual heart of the town, and arrive early to experience its peaceful morning acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+            "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+            "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+            "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+          },
+          "coords": [
+            -0.838319,
+            46.784262
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten mittelalterlichen Fresken im Inneren dieser charmanten alten Kirche, und bringen Sie eine Taschenlampe mit, um die Kunstwerke richtig zu beleuchten.",
+            "hu": "Csodálja meg az ősi középkori freskókat ebben a hangulatos régi templomban, és feltétlenül vigyen magával egy kis zseblámpát, hogy megfelelően megvilágítsa a műalkotásokat.",
+            "ro": "Minunați-vă de frescele medievale antice păstrate în interiorul acestei biserici vechi fermecătoare și aduceți o mică lanternă pentru a ilumina corect operele de artă.",
+            "en": "Marvel at the ancient medieval frescoes preserved inside this charming old church, and be sure to bring a small flashlight to properly illuminate the detailed wall artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Pouzauges",
+            "hu": "Pouzauges kastély",
+            "ro": "Castelul Pouzauges",
+            "en": "Pouzauges Castle"
+          },
+          "coords": [
+            -0.839722,
+            46.7853
+          ],
+          "category": "fortress",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Donjon dieser Festung aus dem 11. Jahrhundert mit weitem Blick auf die Heckenlandschaft, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel e 11. századi erődítmény zord öregtornyát, ahonnan pazar kilátás nyílik a tájra, és viseljen masszív sétacipőt a biztonságos közlekedéshez a kőutakon.",
+            "ro": "Explorați donjonul acestei fortărețe din secolul al XI-lea cu vedere panoramică la peisaj și purtați pantofi rezistenți pentru a naviga pe cărările inegale de piatră.",
+            "en": "Explore the rugged donjon of this 11th-century fortress offering sweeping views of the bocage, and wear sturdy walking shoes to safely navigate the uneven medieval stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilrutsche Tyrolienne",
+            "hu": "Tyrolienne drótkötélpálya",
+            "ro": "Tiroliana Tyrolienne",
+            "en": "Zipline Tyrolienne"
+          },
+          "coords": [
+            -0.841801,
+            46.788495
+          ],
+          "category": "family",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spüren Sie den Adrenalinschub auf dieser familienfreundlichen Seilrutsche über dem Wald, aber denken Sie daran, Ihre Tickets in der Hochsaison im Sommer im Voraus zu buchen.",
+            "hu": "Érezze az adrenalin löketet ezen a családbarát drótkötélpályán az erdő felett, de ne felejtse el előre lefoglalni jegyét a nyári turisztikai csúcsszezonok idején.",
+            "ro": "Simțiți adrenalina pe această tiroliană de familie suspendată deasupra pădurii, dar nu uitați să vă rezervați biletele în avans în timpul vârfurilor de sezon de vară.",
+            "en": "Feel the rush of adrenaline on this family-friendly zipline suspended above the woodland canopy, but remember to book your tickets in advance during peak summer seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois de la Folie",
+            "hu": "Bois de la Folie",
+            "ro": "Bois de la Folie",
+            "en": "Bois de la Folie"
+          },
+          "coords": [
+            -0.841081,
+            46.789969
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses ruhige Waldgebiet, um seine lokale Biodiversität zu entdecken, und packen Sie Insektenschutzmittel ein, um einen angenehmen Nachmittag zu haben.",
+            "hu": "Sétáljon végig ezen a nyugodt erdei szentélyen, hogy felfedezze annak gazdag helyi biológiai sokféleségét, és vigyen magával rovarriasztót a fák alatti kényelmes sétához.",
+            "ro": "Plimbați-vă prin acest sanctuar împădurit liniștit pentru a descoperi biodiversitatea locală și luați cu voi repelent pentru insecte pentru a asigura o plimbare plăcută.",
+            "en": "Wander through this tranquil wooded sanctuary to discover its rich local biodiversity, and pack some insect repellent to ensure a comfortable afternoon walking beneath trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der historischen Kirche Saint-Jacques, um die ruhige Dorfatmosphäre aufzunehmen.\n\nMittags erreichen Sie die imposanten Ruinen des Château de Pouzauges mit ihrer historischen Kulisse.\n\nAm Nachmittag sorgt die Seilrutsche Tyrolienne für Familienspaß.\n\nBeenden Sie den Tag mit einem friedlichen Spaziergang durch das Laub des Waldes Bois de la Folie.",
+        "hu": "Kezdje a reggelt a történelmi Saint-Jacques templomnál, élvezve a nyugodt falusi hangulatot a szűk utcákon.\n\nDélben elérkezik a Château de Pouzauges lenyűgöző romjaihoz, amelyek középkori hátteret kínálnak.\n\nDélután élvezze a családi izgalmakat a Tyrolienne drótkötélpályán.\n\nZárja a napot egy békés alkonyati sétával a Bois de la Folie buja lombkoronája alatt.",
+        "ro": "Începeți dimineața la biserica istorică Saint-Jacques, bucurându-vă de atmosfera senină a satului vechi.\n\nLa amiază ajungeți la ruinele impunătoare ale Château de Pouzauges, care oferă un fundal medieval uimitor.\n\nDupă-amiaza, bucurați-vă de senzații tari în familie la tiroliană.\n\nÎncheiați ziua cu o plimbare liniștită de seară prin coronamentul luxuriant al Bois de la Folie.",
+        "en": "Start your morning at the historic Saint-Jacques Church, soaking in the serene village atmosphere before wandering the lanes.\n\nMidday brings you to the imposing ruins of Château de Pouzauges, offering a stunning medieval backdrop.\n\nIn the afternoon, enjoy family thrills at the Tyrolienne zipline.\n\nConclude your day with a peaceful twilight stroll through the lush canopy of Bois de la Folie."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "See der Espérance",
+            "hu": "Espérance tó",
+            "ro": "Lacul Espérance",
+            "en": "Lake of Espérance"
+          },
+          "coords": [
+            -0.853356,
+            46.779634
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am schimmernden Wasser dieses malerischen Sees, ideal für ein Picknick, und kommen Sie vor dem Mittagessen, um sich einen schattigen Tisch zu sichern.",
+            "hu": "Pihenjen a festői tó csillogó vize mellett, amely ideális egy gyors piknikhez, és próbáljon ebéd előtt érkezni, hogy biztosítson magának egy árnyékos asztalt a part mentén.",
+            "ro": "Relaxați-vă lângă apele strălucitoare ale acestui lac pitoresc, ideal pentru un picnic, și încercați să ajungeți înainte de prânz pentru a ocupa o masă umbrită.",
+            "en": "Relax by the shimmering waters of this picturesque lake ideal for a quick picnic or swim, and try arriving before lunch to secure one of the few shaded tables along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen Terrier Marteau",
+            "hu": "Terrier Marteau szélmalmok",
+            "ro": "Morile de vânt Terrier Marteau",
+            "en": "Terrier Marteau Windmills"
+          },
+          "coords": [
+            -0.850097,
+            46.791951
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Mechanik dieser traditionellen Zwillingswindmühlen auf einem Hügel, und prüfen Sie den Betriebsplan online, da Innenführungen begrenzt sind.",
+            "hu": "Fedezze fel ezen festői dombon magasodó hagyományos ikerszélmalmok lenyűgöző mechanikáját, és ellenőrizze a működési rendjüket online, mivel a belső vezetések ritkák.",
+            "ro": "Descoperiți mecanica fascinantă a acestor mori de vânt tradiționale gemene de pe un deal pitoresc și verificați programul online, deoarece tururile la interior sunt limitate.",
+            "en": "Discover the fascinating mechanics of these twin traditional windmills perched on a scenic hill, and check their operational schedule online as guided interior tours are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois de la Folie",
+            "hu": "Bois de la Folie",
+            "ro": "Bois de la Folie",
+            "en": "Bois de la Folie"
+          },
+          "coords": [
+            -0.841081,
+            46.789969
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses ruhige Waldgebiet, um seine lokale Biodiversität zu entdecken, und packen Sie Insektenschutzmittel ein, um einen angenehmen Nachmittag zu haben.",
+            "hu": "Sétáljon végig ezen a nyugodt erdei szentélyen, hogy felfedezze annak gazdag helyi biológiai sokféleségét, és vigyen magával rovarriasztót a fák alatti kényelmes sétához.",
+            "ro": "Plimbați-vă prin acest sanctuar împădurit liniștit pentru a descoperi biodiversitatea locală și luați cu voi repelent pentru insecte pentru a asigura o plimbare plăcută.",
+            "en": "Wander through this tranquil wooded sanctuary to discover its rich local biodiversity, and pack some insect repellent to ensure a comfortable afternoon walking beneath trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Pouzauges",
+            "hu": "Pouzauges kastély",
+            "ro": "Castelul Pouzauges",
+            "en": "Pouzauges Castle"
+          },
+          "coords": [
+            -0.839722,
+            46.7853
+          ],
+          "category": "fortress",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Donjon dieser Festung aus dem 11. Jahrhundert mit weitem Blick auf die Heckenlandschaft, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel e 11. századi erődítmény zord öregtornyát, ahonnan pazar kilátás nyílik a tájra, és viseljen masszív sétacipőt a biztonságos közlekedéshez a kőutakon.",
+            "ro": "Explorați donjonul acestei fortărețe din secolul al XI-lea cu vedere panoramică la peisaj și purtați pantofi rezistenți pentru a naviga pe cărările inegale de piatră.",
+            "en": "Explore the rugged donjon of this 11th-century fortress offering sweeping views of the bocage, and wear sturdy walking shoes to safely navigate the uneven medieval stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+            "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+            "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+            "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+          },
+          "coords": [
+            -0.838319,
+            46.784262
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten mittelalterlichen Fresken im Inneren dieser charmanten alten Kirche, und bringen Sie eine Taschenlampe mit, um die Kunstwerke richtig zu beleuchten.",
+            "hu": "Csodálja meg az ősi középkori freskókat ebben a hangulatos régi templomban, és feltétlenül vigyen magával egy kis zseblámpát, hogy megfelelően megvilágítsa a műalkotásokat.",
+            "ro": "Minunați-vă de frescele medievale antice păstrate în interiorul acestei biserici vechi fermecătoare și aduceți o mică lanternă pentru a ilumina corect operele de artă.",
+            "en": "Marvel at the ancient medieval frescoes preserved inside this charming old church, and be sure to bring a small flashlight to properly illuminate the detailed wall artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -0.836242,
+            46.783394
+          ],
+          "category": "religious",
+          "arrive_at": "15:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, das spirituelle Zentrum der Stadt, und kommen Sie früh, um die morgendliche Akustik zu erleben.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú építészetét, a város szellemi központját, és érkezzen korán, hogy megtapasztalja annak békés reggeli akusztikáját.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice, inima spirituală a orașului, și sosiți devreme pentru a experimenta acustica sa liniștită de dimineață.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, which forms the spiritual heart of the town, and arrive early to experience its peaceful morning acoustics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt mit einer kühlen Morgenfahrt zu den Ufern des Lac de l'Espérance.\n\nMittags fahren Sie bergauf zu den ikonischen Windmühlen Moulins du Terrier Marteau.\n\nVerbringen Sie einen üppigen Nachmittag auf den Naturwegen rund um den Bois de la Folie.\n\nWenn der Abend naht, radeln Sie am mächtigen Château de Pouzauges vorbei zur Kirche.",
+        "hu": "Kerékpáros kalandja egy friss reggeli utazással kezdődik a Lac de l'Espérance frissítő partjaihoz.\n\nDélben hegynek fel indul a híres Moulins du Terrier Marteau szélmalmai felé.\n\nTöltsön egy buja délutánt a Bois de la Folie körüli erdei ösvények felfedezésével.\n\nAhogy közeledik az este, tekerjen el a hatalmas Château de Pouzauges mellett a templomok felé.",
+        "ro": "Aventura pe bicicletă începe cu o plimbare revigorantă de dimineață până la țărmurile Lac de l'Espérance.\n\nLa amiază urcați spre emblematicele mori de vânt Moulins du Terrier Marteau.\n\nPetreceți o după-amiază luxuriantă explorând traseele naturale din jurul Bois de la Folie.\n\nPe măsură ce se lasă seara, pedalați pe lângă mărețul Château de Pouzauges spre oraș.",
+        "en": "Your cycling adventure starts with a crisp morning ride to the refreshing shores of Lac de l'Espérance.\n\nMidday takes you uphill to the iconic windmills of Moulins du Terrier Marteau.\n\nSpend a lush afternoon exploring the woodland trails around Bois de la Folie.\n\nAs evening approaches, pedal past the mighty Château de Pouzauges and finish at the village churches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gipfel Le Puy Crapaud",
+            "hu": "Le Puy Crapaud csúcs",
+            "ro": "Vârful Le Puy Crapaud",
+            "en": "Le Puy Crapaud Peak"
+          },
+          "coords": [
+            -0.81222,
+            46.7775
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den höchsten Gipfel der Vendée für eine unvergessliche Panoramalandschaft, und bringen Sie eine Windjacke mit, da die Aussichtsplattform oft windig ist.",
+            "hu": "Másszon fel a Vendée régió legmagasabb csúcsára egy felejthetetlen panorámáért, és hozzon magával széldzsekit, mivel a nyitott kilátóteraszon hihetetlenül szeles az időjárás.",
+            "ro": "Urcați pe cel mai înalt vârf din regiunea Vendée pentru un peisaj panoramic de neuitat și aduceți o jachetă de vânt, deoarece platforma de observație este vântoasă.",
+            "en": "Climb to the highest peak in the Vendée region to enjoy an unforgettable panoramic landscape, and bring a windbreaker jacket since the exposed observation deck gets very breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -0.836242,
+            46.783394
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, das spirituelle Zentrum der Stadt, und kommen Sie früh, um die morgendliche Akustik zu erleben.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú építészetét, a város szellemi központját, és érkezzen korán, hogy megtapasztalja annak békés reggeli akusztikáját.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice, inima spirituală a orașului, și sosiți devreme pentru a experimenta acustica sa liniștită de dimineață.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church, which forms the spiritual heart of the town, and arrive early to experience its peaceful morning acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Pouzauges",
+            "hu": "Pouzauges kastély",
+            "ro": "Castelul Pouzauges",
+            "en": "Pouzauges Castle"
+          },
+          "coords": [
+            -0.839722,
+            46.7853
+          ],
+          "category": "fortress",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Donjon dieser Festung aus dem 11. Jahrhundert mit weitem Blick auf die Heckenlandschaft, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel e 11. századi erődítmény zord öregtornyát, ahonnan pazar kilátás nyílik a tájra, és viseljen masszív sétacipőt a biztonságos közlekedéshez a kőutakon.",
+            "ro": "Explorați donjonul acestei fortărețe din secolul al XI-lea cu vedere panoramică la peisaj și purtați pantofi rezistenți pentru a naviga pe cărările inegale de piatră.",
+            "en": "Explore the rugged donjon of this 11th-century fortress offering sweeping views of the bocage, and wear sturdy walking shoes to safely navigate the uneven medieval stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen Terrier Marteau",
+            "hu": "Terrier Marteau szélmalmok",
+            "ro": "Morile de vânt Terrier Marteau",
+            "en": "Terrier Marteau Windmills"
+          },
+          "coords": [
+            -0.850097,
+            46.791951
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Mechanik dieser traditionellen Zwillingswindmühlen auf einem Hügel, und prüfen Sie den Betriebsplan online, da Innenführungen begrenzt sind.",
+            "hu": "Fedezze fel ezen festői dombon magasodó hagyományos ikerszélmalmok lenyűgöző mechanikáját, és ellenőrizze a működési rendjüket online, mivel a belső vezetések ritkák.",
+            "ro": "Descoperiți mecanica fascinantă a acestor mori de vânt tradiționale gemene de pe un deal pitoresc și verificați programul online, deoarece tururile la interior sunt limitate.",
+            "en": "Discover the fascinating mechanics of these twin traditional windmills perched on a scenic hill, and check their operational schedule online as guided interior tours are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "See der Espérance",
+            "hu": "Espérance tó",
+            "ro": "Lacul Espérance",
+            "en": "Lake of Espérance"
+          },
+          "coords": [
+            -0.853356,
+            46.779634
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am schimmernden Wasser dieses malerischen Sees, ideal für ein Picknick, und kommen Sie vor dem Mittagessen, um sich einen schattigen Tisch zu sichern.",
+            "hu": "Pihenjen a festői tó csillogó vize mellett, amely ideális egy gyors piknikhez, és próbáljon ebéd előtt érkezni, hogy biztosítson magának egy árnyékos asztalt a part mentén.",
+            "ro": "Relaxați-vă lângă apele strălucitoare ale acestui lac pitoresc, ideal pentru un picnic, și încercați să ajungeți înainte de prânz pentru a ocupa o masă umbrită.",
+            "en": "Relax by the shimmering waters of this picturesque lake ideal for a quick picnic or swim, and try arriving before lunch to secure one of the few shaded tables along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit dem Aufstieg zum Le Puy Crapaud für ein atemberaubendes Morgenpanorama über die Region.\n\nMittags fahren Sie ins Stadtzentrum, um die historische Kirche Saint-Jacques und das Burgareal zu sehen.\n\nMachen Sie nachmittags einen kurzen Ausflug zu den traditionellen Mühlen des Terrier Marteau.\n\nBeenden Sie den Tag am Lac de l'Espérance, wo sich die sanfte Dämmerung im ruhigen Wasser spiegelt.",
+        "hu": "Kezdje az utat a Le Puy Crapaud felé egy lélegzetelállító reggeli panorámáért a vendée-i régió felett.\n\nDélben hajtson be a városközpontba, hogy megcsodálja a történelmi Saint-Jacques templomot és a kastélyt.\n\nDélután tegyen egy gyors kirándulást a Moulins du Terrier Marteau örökségi szélmalmaihoz.\n\nZárja a napot a Lac de l'Espérance-nál, figyelve a víz lenyűgöző tükröződését alkonyatkor.",
+        "ro": "Începeți traseul cu mașina urcând spre Le Puy Crapaud pentru o panoramă de dimineață uluitoare asupra regiunii.\n\nLa amiază, conduceți în centrul orașului pentru a admira biserica istorică Saint-Jacques și castelul.\n\nDupă-amiaza, faceți o scurtă călătorie până la morile de patrimoniu Moulins du Terrier Marteau.\n\nÎncheiați-vă ziua la Lac de l'Espérance, privind crepusculul liniștit reflectat pe apa lacului.",
+        "en": "Begin your drive ascending to Le Puy Crapaud for a breathtaking morning panorama over the whole region.\n\nBy midday, cruise into the town center to admire the historic Saint-Jacques Church and the castle.\n\nIn the afternoon, take a quick scenic trip to the heritage windmills of Moulins du Terrier Marteau.\n\nWrap up your daytrip at Lac de l'Espérance, watching the beautiful twilight reflect on the calm water."
+      }
+    }
+  }
+}

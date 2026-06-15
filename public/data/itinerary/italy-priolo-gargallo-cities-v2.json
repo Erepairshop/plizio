@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-priolo-gargallo-cities-v2",
+  "anchor": {
+    "name": "Priolo Gargallo",
+    "coords": [
+      15.18603,
+      37.15793
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 2.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dell'Angelo Custode",
+            "hu": "Chiesa dell'Angelo Custode",
+            "ro": "Chiesa dell'Angelo Custode",
+            "en": "Chiesa dell'Angelo Custode"
+          },
+          "coords": [
+            15.186494,
+            37.158109
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser lokalen Kirche und erkunden Sie das ruhige Innere, während Sie auf detaillierte regionale Kunstwerke achten.",
+            "hu": "Csodálja meg a történelmi helyi templom lenyűgöző homlokzatát, és fedezze fel a csendes belső teret, figyelve a részletes regionális művészeti alkotásokra.",
+            "ro": "Admirați fațada impresionantă a acestei biserici locale istorice, explorând interiorul liniștit în timp ce căutați opere de artă religioasă regională.",
+            "en": "Admire the striking facade of this historic local church, exploring its quiet interior while keeping an eye out for detailed regional religious artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Chiara",
+            "hu": "Chiesa di Santa Chiara",
+            "ro": "Chiesa di Santa Chiara",
+            "en": "Chiesa di Santa Chiara"
+          },
+          "coords": [
+            15.189864,
+            37.157102
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante, der Heiligen Klara gewidmete Heiligtum ein, um die friedliche Atmosphäre zu genießen, idealerweise im frühen Morgenlicht.",
+            "hu": "Lépjen be a Szent Klárának szentelt bájos szentélybe, hogy élvezze a békés légkört, amelyet a legérdemesebb a reggeli fények idején meglátogatni.",
+            "ro": "Pășiți în acest sanctuar fermecător dedicat Sfintei Clara pentru a-i aprecia atmosfera senină, vizitat cel mai bine când lumina dimineții luminează altarul.",
+            "en": "Step inside this charming sanctuary dedicated to Saint Clare to appreciate its serene atmosphere, best visited early when morning light illuminates the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro comunale",
+            "hu": "Teatro comunale",
+            "ro": "Teatro comunale",
+            "en": "Teatro comunale"
+          },
+          "coords": [
+            15.190911,
+            37.156659
+          ],
+          "category": "cultural",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Herz von Priolo Gargallo in diesem Stadttheater, wo Sie ein Blick auf den lokalen Spielplan mit einem besonderen Ereignis belohnen könnte.",
+            "hu": "Fedezze fel Priolo Gargallo kulturális szívét ebben a városi színházban, ahol a helyi műsorfüzet előzetes megtekintése egy különleges eseménnyel jutalmazhat.",
+            "ro": "Descoperiți inima culturală a orașului Priolo Gargallo la acest teatru municipal, unde consultarea prealabilă a programului local vă poate oferi un eveniment special.",
+            "en": "Discover the cultural heart of Priolo Gargallo at this municipal theater, where checking the local schedule beforehand might reward you with a special event."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Focà",
+            "hu": "Basilica di San Focà",
+            "ro": "Basilica di San Focà",
+            "en": "Basilica di San Focà"
+          },
+          "coords": [
+            15.191679,
+            37.150525
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die frühchristliche Geschichte dieser alten Basilika ein, betrachten Sie die Überreste und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Merüljön el a kora keresztény történelemben ezen az ősi bazilikánál a jól megőrzött szerkezeti maradványok vizsgálatával, és viseljen kényelmes cipőt.",
+            "ro": "Pătrundeți în istoria creștină timpurie la această veche bazilică examinând rămășițele structurale bine conservate și purtați încălțăminte confortabilă.",
+            "en": "Delve into early Christian history at this ancient basilica by examining the well-preserved structural remnants, and wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe Operaio",
+            "hu": "Chiesa di San Giuseppe Operaio",
+            "ro": "Chiesa di San Giuseppe Operaio",
+            "en": "Chiesa di San Giuseppe Operaio"
+          },
+          "coords": [
+            15.186118,
+            37.145376
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre spirituelle Reise in dieser modernen Kirche, die dem Heiligen Josef dem Arbeiter gewidmet ist, und nehmen Sie sich einen Moment der Stille.",
+            "hu": "Zárja le spirituális utazását ebben a Munkás Szent Józsefnek szentelt modern templomban, és tartson egy percnyi csendes elmélkedést a terület elhagyása előtt.",
+            "ro": "Încheiați-vă călătoria spirituală la această biserică modernă dedicată Sfântului Iosif Muncitorul, luându-vă un moment de reflecție înainte de a pleca.",
+            "en": "Conclude your spiritual journey at this modern church dedicated to St. Joseph the Worker, taking a moment of quiet reflection before leaving the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt nahe dem Stadtzentrum mit einem Besuch der markanten Chiesa dell'Angelo Custode. Ein kurzer Spaziergang führt Sie zur Chiesa di Santa Chiara, die das spirituelle Erbe der Stadt widerspiegelt. Der Mittag ist dem kulturellen Herzen der Stadt im Teatro comunale gewidmet. Am Nachmittag bringt Sie ein längerer Spaziergang zur historischen Basilica di San Focà, um antike Wurzeln zu entdecken. Der Abend endet ruhig in der modernen Chiesa di San Giuseppe Operaio.",
+        "hu": "A reggel a városközpont közelében kezdődik a lenyűgöző Chiesa dell'Angelo Custode meglátogatásával, békés indítást adva. Egy rövid séta a Chiesa di Santa Chiara felé tovább mélyíti a helyi spirituális élményt. A délidőt a város kulturális szívében, a Teatro comunale épületénél töltjük. Délután egy hosszabb séta a történelmi Basilica di San Focà-hoz vezet, hogy felfedezzük az ősi gyökereket. Az este a modern Chiesa di San Giuseppe Operaio-ban zárul, csendes elmélkedéssel.",
+        "ro": "Dimineața începe în apropierea centrului cu o vizită la impresionanta Chiesa dell'Angelo Custode, oferind un început pașnic. Scurta plimbare spre Chiesa di Santa Chiara vă scufundă și mai mult în patrimoniul spiritual local. Amiaza este dedicată inimii culturale a orașului la Teatro comunale. Odată cu lăsarea după-amiezii, o plimbare mai lungă vă duce la istorica Basilica di San Focà pentru a descoperi rădăcini antice. Seara se încheie la moderna Chiesa di San Giuseppe Operaio.",
+        "en": "Morning begins near the city center with a visit to the striking Chiesa dell'Angelo Custode, offering a peaceful start to the day. The short walk to Chiesa di Santa Chiara further immerses you in the local spiritual heritage. Midday is dedicated to the town's cultural heart at the Teatro comunale, a vibrant hub of local life. As afternoon sets in, a slightly longer stroll takes you to the historic Basilica di San Focà to uncover ancient roots. Evening concludes at the modern Chiesa di San Giuseppe Operaio, perfect for quiet reflection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore",
+            "hu": "Chiesa del Sacro Cuore",
+            "ro": "Chiesa del Sacro Cuore",
+            "en": "Chiesa del Sacro Cuore"
+          },
+          "coords": [
+            15.167758,
+            37.156671
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung in der Herz-Jesu-Kirche, die für ihre einladende Gemeinde bekannt ist, und beachten Sie die elegante Einfachheit ihrer Architektur.",
+            "hu": "Kezdje a felfedezést a Jézus Szíve templomnál, amely barátságos közösségi hangulatáról ismert, és figyelje meg az építészeti vonalainak elegáns egyszerűségét.",
+            "ro": "Începeți explorarea la Biserica Inimii Sacre, cunoscută pentru atmosfera primitoare a comunității, și observați simplitatea elegantă a liniilor sale arhitecturale.",
+            "en": "Start your exploration at the Church of the Sacred Heart, known for its welcoming community vibe, and notice the elegant simplicity of its architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Catacomba Monachella",
+            "hu": "Catacomba Monachella",
+            "ro": "Catacomba Monachella",
+            "en": "Catacomba Monachella"
+          },
+          "coords": [
+            15.176151,
+            37.155255
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden antiken Katakombennetzwerk und bringen Sie eine Jacke mit, da die unterirdischen Gänge kühl bleiben.",
+            "hu": "Lépjen vissza az időben ezen az izgalmas ősi katakombahálózaton belül, és hozzon magával egy könnyű kabátot, mivel a föld alatti átjárók hűvösek maradnak.",
+            "ro": "Întoarceți-vă în timp în această intrigantă rețea antică de catacombe, asigurându-vă că aduceți o jachetă, deoarece pasajele subterane rămân răcoroase.",
+            "en": "Step back in time within this intriguing ancient catacomb network, ensuring you bring a light jacket as the underground passageways remain cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Angelo Custode",
+            "hu": "Chiesa dell'Angelo Custode",
+            "ro": "Chiesa dell'Angelo Custode",
+            "en": "Chiesa dell'Angelo Custode"
+          },
+          "coords": [
+            15.186494,
+            37.158109
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser lokalen Kirche und erkunden Sie das ruhige Innere, während Sie auf detaillierte regionale Kunstwerke achten.",
+            "hu": "Csodálja meg a történelmi helyi templom lenyűgöző homlokzatát, és fedezze fel a csendes belső teret, figyelve a részletes regionális művészeti alkotásokra.",
+            "ro": "Admirați fațada impresionantă a acestei biserici locale istorice, explorând interiorul liniștit în timp ce căutați opere de artă religioasă regională.",
+            "en": "Admire the striking facade of this historic local church, exploring its quiet interior while keeping an eye out for detailed regional religious artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Chiara",
+            "hu": "Chiesa di Santa Chiara",
+            "ro": "Chiesa di Santa Chiara",
+            "en": "Chiesa di Santa Chiara"
+          },
+          "coords": [
+            15.189864,
+            37.157102
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante, der Heiligen Klara gewidmete Heiligtum ein, um die friedliche Atmosphäre zu genießen, idealerweise im frühen Morgenlicht.",
+            "hu": "Lépjen be a Szent Klárának szentelt bájos szentélybe, hogy élvezze a békés légkört, amelyet a legérdemesebb a reggeli fények idején meglátogatni.",
+            "ro": "Pășiți în acest sanctuar fermecător dedicat Sfintei Clara pentru a-i aprecia atmosfera senină, vizitat cel mai bine când lumina dimineții luminează altarul.",
+            "en": "Step inside this charming sanctuary dedicated to Saint Clare to appreciate its serene atmosphere, best visited early when morning light illuminates the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro comunale",
+            "hu": "Teatro comunale",
+            "ro": "Teatro comunale",
+            "en": "Teatro comunale"
+          },
+          "coords": [
+            15.190911,
+            37.156659
+          ],
+          "category": "cultural",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Herz von Priolo Gargallo in diesem Stadttheater, wo Sie ein Blick auf den lokalen Spielplan mit einem besonderen Ereignis belohnen könnte.",
+            "hu": "Fedezze fel Priolo Gargallo kulturális szívét ebben a városi színházban, ahol a helyi műsorfüzet előzetes megtekintése egy különleges eseménnyel jutalmazhat.",
+            "ro": "Descoperiți inima culturală a orașului Priolo Gargallo la acest teatru municipal, unde consultarea prealabilă a programului local vă poate oferi un eveniment special.",
+            "en": "Discover the cultural heart of Priolo Gargallo at this municipal theater, where checking the local schedule beforehand might reward you with a special event."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Focà",
+            "hu": "Basilica di San Focà",
+            "ro": "Basilica di San Focà",
+            "en": "Basilica di San Focà"
+          },
+          "coords": [
+            15.191679,
+            37.150525
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die frühchristliche Geschichte dieser alten Basilika ein, betrachten Sie die Überreste und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Merüljön el a kora keresztény történelemben ezen az ősi bazilikánál a jól megőrzött szerkezeti maradványok vizsgálatával, és viseljen kényelmes cipőt.",
+            "ro": "Pătrundeți în istoria creștină timpurie la această veche bazilică examinând rămășițele structurale bine conservate și purtați încălțăminte confortabilă.",
+            "en": "Delve into early Christian history at this ancient basilica by examining the well-preserved structural remnants, and wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Fico",
+            "hu": "Torre del Fico",
+            "ro": "Torre del Fico",
+            "en": "Torre del Fico"
+          },
+          "coords": [
+            15.200281,
+            37.15864
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt, um diesen markanten Wachturm zu fotografieren, und vergessen Sie nicht, die weiten Ausblicke dahinter mit der Kamera einzufangen.",
+            "hu": "Tartson egy rövid pihenőt, hogy lefotózza ezt a kiemelkedő történelmi őrtornyot, és mindenképpen örökítse meg a mögötte elterülő lenyűgöző kilátást is.",
+            "ro": "Faceți o scurtă oprire pentru a fotografia acest turn proeminent care a servit drept punct de observație istoric, asigurându-vă că surprindeți priveliștile.",
+            "en": "Take a quick stop to photograph this prominent landmark tower which served as a historical watchpoint, making sure to capture the sweeping views behind it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt an der einladenden Chiesa del Sacro Cuore, bevor Sie zu den faszinierenden unterirdischen Gängen der Catacomba Monachella radeln. Mittags erreichen Sie das Zentrum und bewundern die Chiesa dell'Angelo Custode sowie Santa Chiara. Der Nachmittag lädt zu einer Pause im Teatro comunale ein, gefolgt von einer Erkundung der antiken Basilica di San Focà. Gegen Abend bietet eine zügige Fahrt zum Torre del Fico herrliche Ausblicke auf den Sonnenuntergang.",
+        "hu": "A reggeli kerékpározás a barátságos Chiesa del Sacro Cuore templomnál indul, majd a Catacomba Monachella lenyűgöző föld alatti folyosói felé vesszük az irányt. Délben elérjük a nyüzsgő központot, ahol megcsodáljuk az Angelo Custode és a Santa Chiara templomokat. A délután kulturális pihenőre csábít a Teatro comunale épületében, amit a Basilica di San Focà felfedezése követ. Az este közeledtével a Torre del Fico felé tekerünk, hogy élvezzük a gyönyörű naplemente látványát.",
+        "ro": "Plimbarea de dimineață cu bicicleta începe la primitoarea Chiesa del Sacro Cuore, înainte de a pedala spre Catacomba Monachella. Până la prânz, veți ajunge în centrul plin de viață, admirând arhitectura clasică a Chiesa dell'Angelo Custode și Santa Chiara. După-amiaza invită la o pauză culturală la Teatro comunale, urmată de o explorare a anticei Basilica di San Focà. Seara, o cursă rapidă către reperul Torre del Fico oferă priveliști superbe la apus.",
+        "en": "Your morning ride starts at the welcoming Chiesa del Sacro Cuore before cycling towards the fascinating underground passages of Catacomba Monachella. By midday, you'll reach the lively center, admiring the classic architecture of Chiesa dell'Angelo Custode and Santa Chiara. The afternoon invites a cultural pause at the Teatro comunale, followed by an exploration of the ancient Basilica di San Focà. As evening approaches, a brisk ride to the landmark Torre del Fico offers beautiful sunset views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 7.85,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore",
+            "hu": "Chiesa del Sacro Cuore",
+            "ro": "Chiesa del Sacro Cuore",
+            "en": "Chiesa del Sacro Cuore"
+          },
+          "coords": [
+            15.167758,
+            37.156671
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung in der Herz-Jesu-Kirche, die für ihre einladende Gemeinde bekannt ist, und beachten Sie die elegante Einfachheit ihrer Architektur.",
+            "hu": "Kezdje a felfedezést a Jézus Szíve templomnál, amely barátságos közösségi hangulatáról ismert, és figyelje meg az építészeti vonalainak elegáns egyszerűségét.",
+            "ro": "Începeți explorarea la Biserica Inimii Sacre, cunoscută pentru atmosfera primitoare a comunității, și observați simplitatea elegantă a liniilor sale arhitecturale.",
+            "en": "Start your exploration at the Church of the Sacred Heart, known for its welcoming community vibe, and notice the elegant simplicity of its architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Catacomba Monachella",
+            "hu": "Catacomba Monachella",
+            "ro": "Catacomba Monachella",
+            "en": "Catacomba Monachella"
+          },
+          "coords": [
+            15.176151,
+            37.155255
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden antiken Katakombennetzwerk und bringen Sie eine Jacke mit, da die unterirdischen Gänge kühl bleiben.",
+            "hu": "Lépjen vissza az időben ezen az izgalmas ősi katakombahálózaton belül, és hozzon magával egy könnyű kabátot, mivel a föld alatti átjárók hűvösek maradnak.",
+            "ro": "Întoarceți-vă în timp în această intrigantă rețea antică de catacombe, asigurându-vă că aduceți o jachetă, deoarece pasajele subterane rămân răcoroase.",
+            "en": "Step back in time within this intriguing ancient catacomb network, ensuring you bring a light jacket as the underground passageways remain cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Angelo Custode",
+            "hu": "Chiesa dell'Angelo Custode",
+            "ro": "Chiesa dell'Angelo Custode",
+            "en": "Chiesa dell'Angelo Custode"
+          },
+          "coords": [
+            15.186494,
+            37.158109
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser lokalen Kirche und erkunden Sie das ruhige Innere, während Sie auf detaillierte regionale Kunstwerke achten.",
+            "hu": "Csodálja meg a történelmi helyi templom lenyűgöző homlokzatát, és fedezze fel a csendes belső teret, figyelve a részletes regionális művészeti alkotásokra.",
+            "ro": "Admirați fațada impresionantă a acestei biserici locale istorice, explorând interiorul liniștit în timp ce căutați opere de artă religioasă regională.",
+            "en": "Admire the striking facade of this historic local church, exploring its quiet interior while keeping an eye out for detailed regional religious artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro comunale",
+            "hu": "Teatro comunale",
+            "ro": "Teatro comunale",
+            "en": "Teatro comunale"
+          },
+          "coords": [
+            15.190911,
+            37.156659
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Herz von Priolo Gargallo in diesem Stadttheater, wo Sie ein Blick auf den lokalen Spielplan mit einem besonderen Ereignis belohnen könnte.",
+            "hu": "Fedezze fel Priolo Gargallo kulturális szívét ebben a városi színházban, ahol a helyi műsorfüzet előzetes megtekintése egy különleges eseménnyel jutalmazhat.",
+            "ro": "Descoperiți inima culturală a orașului Priolo Gargallo la acest teatru municipal, unde consultarea prealabilă a programului local vă poate oferi un eveniment special.",
+            "en": "Discover the cultural heart of Priolo Gargallo at this municipal theater, where checking the local schedule beforehand might reward you with a special event."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Fico",
+            "hu": "Torre del Fico",
+            "ro": "Torre del Fico",
+            "en": "Torre del Fico"
+          },
+          "coords": [
+            15.200281,
+            37.15864
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt, um diesen markanten Wachturm zu fotografieren, und vergessen Sie nicht, die weiten Ausblicke dahinter mit der Kamera einzufangen.",
+            "hu": "Tartson egy rövid pihenőt, hogy lefotózza ezt a kiemelkedő történelmi őrtornyot, és mindenképpen örökítse meg a mögötte elterülő lenyűgöző kilátást is.",
+            "ro": "Faceți o scurtă oprire pentru a fotografia acest turn proeminent care a servit drept punct de observație istoric, asigurându-vă că surprindeți priveliștile.",
+            "en": "Take a quick stop to photograph this prominent landmark tower which served as a historical watchpoint, making sure to capture the sweeping views behind it."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Focà",
+            "hu": "Basilica di San Focà",
+            "ro": "Basilica di San Focà",
+            "en": "Basilica di San Focà"
+          },
+          "coords": [
+            15.191679,
+            37.150525
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die frühchristliche Geschichte dieser alten Basilika ein, betrachten Sie die Überreste und tragen Sie bequeme Schuhe für den unebenen Boden.",
+            "hu": "Merüljön el a kora keresztény történelemben ezen az ősi bazilikánál a jól megőrzött szerkezeti maradványok vizsgálatával, és viseljen kényelmes cipőt.",
+            "ro": "Pătrundeți în istoria creștină timpurie la această veche bazilică examinând rămășițele structurale bine conservate și purtați încălțăminte confortabilă.",
+            "en": "Delve into early Christian history at this ancient basilica by examining the well-preserved structural remnants, and wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Chiara",
+            "hu": "Chiesa di Santa Chiara",
+            "ro": "Chiesa di Santa Chiara",
+            "en": "Chiesa di Santa Chiara"
+          },
+          "coords": [
+            15.189864,
+            37.157102
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante, der Heiligen Klara gewidmete Heiligtum ein, um die friedliche Atmosphäre zu genießen, idealerweise im frühen Morgenlicht.",
+            "hu": "Lépjen be a Szent Klárának szentelt bájos szentélybe, hogy élvezze a békés légkört, amelyet a legérdemesebb a reggeli fények idején meglátogatni.",
+            "ro": "Pășiți în acest sanctuar fermecător dedicat Sfintei Clara pentru a-i aprecia atmosfera senină, vizitat cel mai bine când lumina dimineții luminează altarul.",
+            "en": "Step inside this charming sanctuary dedicated to Saint Clare to appreciate its serene atmosphere, best visited early when morning light illuminates the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe Operaio",
+            "hu": "Chiesa di San Giuseppe Operaio",
+            "ro": "Chiesa di San Giuseppe Operaio",
+            "en": "Chiesa di San Giuseppe Operaio"
+          },
+          "coords": [
+            15.186118,
+            37.145376
+          ],
+          "category": "religious",
+          "arrive_at": "16:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre spirituelle Reise in dieser modernen Kirche, die dem Heiligen Josef dem Arbeiter gewidmet ist, und nehmen Sie sich einen Moment der Stille.",
+            "hu": "Zárja le spirituális utazását ebben a Munkás Szent Józsefnek szentelt modern templomban, és tartson egy percnyi csendes elmélkedést a terület elhagyása előtt.",
+            "ro": "Încheiați-vă călătoria spirituală la această biserică modernă dedicată Sfântului Iosif Muncitorul, luându-vă un moment de reflecție înainte de a pleca.",
+            "en": "Conclude your spiritual journey at this modern church dedicated to St. Joseph the Worker, taking a moment of quiet reflection before leaving the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Stadtrand bei der Chiesa del Sacro Cuore und erkunden Sie morgens die Geheimnisse der Catacomba Monachella. Der Mittag konzentriert sich auf das Stadtzentrum und verbindet die architektonische Schönheit der Chiesa dell'Angelo Custode mit dem großartigen Teatro comunale. Nachmittags bringt Sie eine kurze Fahrt zum Torre del Fico für Panoramabilder und zur historischen Basilica di San Focà. Beenden Sie Ihre Abendfahrt an der Chiesa di San Giuseppe Operaio.",
+        "hu": "Autós túráját a város szélén, a Chiesa del Sacro Cuore templomnál kezdje, majd délelőtt fedezze fel a Catacomba Monachella titkait. A dél a városközpontra összpontosít, hatékonyan összekapcsolva a Chiesa dell'Angelo Custode és a nagyszerű Teatro comunale építészeti szépségeit. Délután egy rövid autóút a Torre del Fico panorámájához, majd a Basilica di San Focà történelmi romjaihoz vezet. Az esti utazást a békés Chiesa di San Giuseppe Operaio templomnál fejezheti be.",
+        "ro": "Începeți turul cu mașina la periferie, la Chiesa del Sacro Cuore, trecând rapid să descoperiți misterele de la Catacomba Monachella dimineața. Amiaza se concentrează pe centrul orașului, legând eficient frumusețea arhitecturală a Chiesa dell'Angelo Custode și marele Teatro comunale. După-amiaza, un scurt drum vă duce la Torre del Fico pentru fotografii panoramice, urmat imediat de ruinele istorice ale Basilica di San Focà. Încheiați-vă seara cu mașina la Chiesa di San Giuseppe Operaio.",
+        "en": "Start your driving tour on the outskirts at Chiesa del Sacro Cuore, quickly moving on to uncover the mysteries of Catacomba Monachella in the morning. Midday focuses on the town center, efficiently linking the architectural beauty of Chiesa dell'Angelo Custode and the grand Teatro comunale. In the afternoon, a short drive brings you to Torre del Fico for panoramic shots, immediately followed by the historic ruins of Basilica di San Focà. Conclude your evening drive at Chiesa di San Giuseppe Operaio."
+      }
+    }
+  }
+}

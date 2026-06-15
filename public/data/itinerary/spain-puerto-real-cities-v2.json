@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-puerto-real-cities-v2",
+  "anchor": {
+    "name": "Puerto Real",
+    "coords": [
+      -6.19022,
+      36.52869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Teatro Principal",
+            "ro": "Teatro Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -6.192553,
+            36.527116
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
+            "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Media Luneta",
+            "hu": "Mirador Media Luneta",
+            "ro": "Mirador Media Luneta",
+            "en": "Mirador Media Luneta"
+          },
+          "coords": [
+            -6.190385,
+            36.525192
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Bucht von diesem friedlichen Aussichtspunkt und bringen Sie eine Kamera für die fantastischen Lichtverhältnisse am Morgen mit.",
+            "hu": "Élvezze a tágas kilátást az öbölre erről a békés kilátópontról, és mindenképpen hozzon magával fényképezőgépet a fantasztikus reggeli fényviszonyok miatt.",
+            "ro": "Bucurați-vă de vederea panoramică asupra golfului din acest punct de observație liniștit și aduceți o cameră pentru condițiile fantastice de lumină de dimineață.",
+            "en": "Enjoy the sweeping views over the bay from this peaceful viewpoint and bring a camera to capture the fantastic morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasajes 512",
+            "hu": "Pasajes 512",
+            "ro": "Pasajes 512",
+            "en": "Pasajes 512"
+          },
+          "coords": [
+            -6.196697,
+            36.532606
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerischen Gassen, um das authentische Flair der Stadt zu spüren, und tragen Sie bequeme Schuhe für das historische Pflaster.",
+            "hu": "Sétáljon végig ezeken a festői sikátorokon, hogy átérezze a város autentikus hangulatát, és viseljen kényelmes cipőt a történelmi macskaköveken.",
+            "ro": "Plimbați-vă prin aceste alei pitorești pentru a simți atmosfera autentică a orașului și purtați încălțăminte confortabilă pentru pavajul istoric.",
+            "en": "Stroll through these picturesque alleys to feel the authentic atmosphere of the town, and wear comfortable shoes for the historic cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Horno Romano de El Gallinero",
+            "hu": "Horno Romano de El Gallinero",
+            "ro": "Horno Romano de El Gallinero",
+            "en": "Horno Romano de El Gallinero"
+          },
+          "coords": [
+            -6.199737,
+            36.530084
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieses römischen Ofens, der von der antiken Industrieproduktion zeugt, und lesen Sie die informativen Tafeln vor Ort.",
+            "hu": "Fedezze fel ezen római kemence lenyűgöző maradványait, amely az ókori ipari termelésről tanúskodik, és olvassa el a helyszínen található tájékoztató táblákat.",
+            "ro": "Descoperiți rămășițele fascinante ale acestui cuptor roman, care mărturisesc producția industrială antică, și citiți panourile informative de la fața locului.",
+            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj de sol",
+            "hu": "Reloj de sol",
+            "ro": "Reloj de sol",
+            "en": "Reloj de sol"
+          },
+          "coords": [
+            -6.202599,
+            36.529359
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende historische Sonnenuhr aus der Nähe und versuchen Sie, die genaue Zeit anhand der traditionellen Markierungen abzulesen.",
+            "hu": "Nézze meg közelebbről ezt a lenyűgöző történelmi napórát, és próbálja meg leolvasni a pontos időt a hagyományos jelölések alapján.",
+            "ro": "Priviți de aproape acest cadran solar istoric fascinant și încercați să citiți ora exactă pe baza marcajelor tradiționale.",
+            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit Kultur am Teatro Principal. Die Vormittagssonne begleitet Sie zum Mirador Media Luneta mit herrlichem Blick. Entdecken Sie danach die Gassen von Pasajes 512. Ein Hauch von Geschichte erwartet Sie am Horno Romano. Beenden Sie die Tour am historischen Reloj de sol.",
+        "hu": "Kezdje a napot egy kis kultúrával a Teatro Principalnál. A délelőtti napsütés elkíséri a Mirador Media Luneta felé. Ezután fedezze fel a Pasajes 512 sikátorait. A történelem szele érinti meg a Horno Romanónál. Zárja a túrát a történelmi Reloj de sol napóránál.",
+        "ro": "Începeți ziua cu cultură la Teatro Principal. Soarele de dimineață vă însoțește până la Mirador Media Luneta, cu vederi minunate. Descoperiți apoi aleile Pasajes 512. O notă de istorie vă așteaptă la Horno Romano. Încheiați turul la istoricul Reloj de sol.",
+        "en": "Start your day with some culture at the Teatro Principal. The morning sun accompanies you to the Mirador Media Luneta with wonderful views. Then discover the alleys of Pasajes 512. A touch of history awaits you at the Horno Romano. End the tour at the historic Reloj de sol."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Teatro Principal",
+            "ro": "Teatro Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -6.192553,
+            36.527116
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
+            "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Horno Romano de El Gallinero",
+            "hu": "Horno Romano de El Gallinero",
+            "ro": "Horno Romano de El Gallinero",
+            "en": "Horno Romano de El Gallinero"
+          },
+          "coords": [
+            -6.199737,
+            36.530084
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieses römischen Ofens, der von der antiken Industrieproduktion zeugt, und lesen Sie die informativen Tafeln vor Ort.",
+            "hu": "Fedezze fel ezen római kemence lenyűgöző maradványait, amely az ókori ipari termelésről tanúskodik, és olvassa el a helyszínen található tájékoztató táblákat.",
+            "ro": "Descoperiți rămășițele fascinante ale acestui cuptor roman, care mărturisesc producția industrială antică, și citiți panourile informative de la fața locului.",
+            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj de sol",
+            "hu": "Reloj de sol",
+            "ro": "Reloj de sol",
+            "en": "Reloj de sol"
+          },
+          "coords": [
+            -6.202599,
+            36.529359
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende historische Sonnenuhr aus der Nähe und versuchen Sie, die genaue Zeit anhand der traditionellen Markierungen abzulesen.",
+            "hu": "Nézze meg közelebbről ezt a lenyűgöző történelmi napórát, és próbálja meg leolvasni a pontos időt a hagyományos jelölések alapján.",
+            "ro": "Priviți de aproape acest cadran solar istoric fascinant și încercați să citiți ora exactă pe baza marcajelor tradiționale.",
+            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinas fundición",
+            "hu": "Ruinas fundición",
+            "ro": "Ruinas fundición",
+            "en": "Ruinas fundición"
+          },
+          "coords": [
+            -6.212426,
+            36.533735
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser alten Gießerei, die an das industrielle Erbe erinnert, und achten Sie auf die robusten, noch erhaltenen Strukturen.",
+            "hu": "Fedezze fel e régi öntöde maradványait, amely az ipari örökségre emlékeztet, és figyelje meg a ma is álló robusztus szerkezeteket.",
+            "ro": "Explorați rămășițele acestei vechi turnătorii care amintește de moștenirea industrială și acordați atenție structurilor robuste care încă rezistă.",
+            "en": "Explore the remains of this old foundry that recalls the industrial heritage, and pay attention to the robust structures still standing."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinar de la Algaida",
+            "hu": "Pinar de la Algaida",
+            "ro": "Pinar de la Algaida",
+            "en": "Pinar de la Algaida"
+          },
+          "coords": [
+            -6.206574,
+            36.54302
+          ],
+          "category": "natural",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen ruhigen Pinienwald und atmen Sie die frische, nach Harz und Meer duftende Luft tief ein.",
+            "hu": "Élvezze a pihentető sétát ebben a csendes fenyőerdőben, és lélegezze be mélyen a friss, gyanta és tenger illatú levegőt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această pădure de pini liniștită și respirați adânc aerul proaspăt, cu miros de rășină și mare.",
+            "en": "Enjoy a relaxing walk through this quiet pine forest and breathe deeply the fresh air scented with resin and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de La Algaida",
+            "hu": "Mirador de La Algaida",
+            "ro": "Mirador de La Algaida",
+            "en": "Mirador de La Algaida"
+          },
+          "coords": [
+            -6.207616,
+            36.546148
+          ],
+          "category": "natural",
+          "arrive_at": "15:26",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erreichen Sie diesen wunderschönen Aussichtspunkt am Rande des Waldes, der sich perfekt eignet, um die Tierwelt der umliegenden Feuchtgebiete zu beobachten.",
+            "hu": "Érje el ezt a gyönyörű kilátópontot az erdő szélén, amely tökéletes a környező vizes élőhelyek vadvilágának megfigyelésére.",
+            "ro": "Ajungeți la acest frumos punct de observație de la marginea pădurii, care este perfect pentru a observa fauna sălbatică din zonele umede din jur.",
+            "en": "Reach this beautiful viewpoint on the edge of the forest, which is perfect for observing the wildlife of the surrounding wetlands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom charmanten Teatro Principal zum antiken Horno Romano, wo Sie in die Geschichte eintauchen. Nach einem Stopp an der alten Sonnenuhr geht es zu den Ruinen der Gießerei. Entspannen Sie schließlich im grünen Pinar de la Algaida und genießen Sie den weiten Blick vom Mirador.",
+        "hu": "Kerékpározzon a bájos Teatro Principaltól az ókori Horno Romanóig, ahol elmerülhet a történelemben. A régi napóra után az öntöde romjai következnek. Végül pihenjen meg a zöld Pinar de la Algaida fenyvesében, és élvezze a kilátást a Miradorból.",
+        "ro": "Pedalați de la fermecătorul Teatro Principal la anticul Horno Romano, unde vă veți cufunda în istorie. După vechiul cadran solar, îndreptați-vă spre ruinele turnătoriei. La final, relaxați-vă în verdele Pinar de la Algaida și bucurați-vă de priveliștea de la Mirador.",
+        "en": "Cycle from the charming Teatro Principal to the ancient Horno Romano, where you immerse yourself in history. After a stop at the old sundial, head to the ruins of the foundry. Finally, relax in the green Pinar de la Algaida and enjoy the sweeping view from the Mirador."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hacienda San José",
+            "hu": "Hacienda San José",
+            "ro": "Hacienda San José",
+            "en": "Hacienda San José"
+          },
+          "coords": [
+            -6.169859,
+            36.534941
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle andalusische Architektur dieses historischen Anwesens und stellen Sie sich das geschäftige landwirtschaftliche Leben der Vergangenheit vor.",
+            "hu": "Csodálja meg e történelmi birtok hagyományos andalúz építészetét, és képzelje el a múlt nyüzsgő mezőgazdasági életét.",
+            "ro": "Admirați arhitectura tradițională andaluză a acestei proprietăți istorice și imaginați-vă viața agricolă plină de viață din trecut.",
+            "en": "Admire the traditional Andalusian architecture of this historic estate and imagine the bustling agricultural life of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Teatro Principal",
+            "ro": "Teatro Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -6.192553,
+            36.527116
+          ],
+          "category": "cultural",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
+            "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
+            "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de San Pedro y San José",
+            "hu": "Casa de San Pedro y San José",
+            "ro": "Casa de San Pedro y San José",
+            "en": "Casa de San Pedro y San José"
+          },
+          "coords": [
+            -6.207068,
+            36.52052
+          ],
+          "category": "natural",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses abgelegenen Landhauses inmitten der Natur, das einen faszinierenden Einblick in die ländliche Geschichte der Region bietet.",
+            "hu": "Fedezze fel e távoli vidéki ház romjait a természet lágy ölén, amely lenyűgöző bepillantást nyújt a régió vidéki történelmébe.",
+            "ro": "Descoperiți ruinele acestei case de țară izolate în mijlocul naturii, care oferă o perspectivă fascinantă asupra istoriei rurale a regiunii.",
+            "en": "Discover the ruins of this remote country house surrounded by nature, which offers a fascinating insight into the rural history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Conchal",
+            "hu": "Playa del Conchal",
+            "ro": "Playa del Conchal",
+            "en": "Playa del Conchal"
+          },
+          "coords": [
+            -6.21669,
+            36.52925
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen Strandabschnitt entlang und suchen Sie im Sand nach einzigartigen Muscheln, während Sie dem Rauschen der Wellen lauschen.",
+            "hu": "Sétáljon végig ezen a csendes partszakaszon, és keressen egyedi kagylókat a homokban, miközben hallgatja a hullámok zúgását.",
+            "ro": "Plimbați-vă de-a lungul acestei porțiuni liniștite de plajă și căutați scoici unice în nisip, în timp ce ascultați sunetul valurilor.",
+            "en": "Stroll along this quiet stretch of beach and look for unique shells in the sand while listening to the sound of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Ministra",
+            "hu": "Playa de la Ministra",
+            "ro": "Playa de la Ministra",
+            "en": "Playa de la Ministra"
+          },
+          "coords": [
+            -6.232883,
+            36.524899
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem malerischen Naturstrand ausklingen und genießen Sie den atemberaubenden Sonnenuntergang über dem glitzernden Wasser der Bucht.",
+            "hu": "Zárja a napot ezen a festői természetes strandon, és élvezze a lélegzetelállító naplementét az öböl csillogó vize felett.",
+            "ro": "Încheiați ziua pe această plajă naturală pitorească și bucurați-vă de apusul uluitor peste apele strălucitoare ale golfului.",
+            "en": "End the day at this picturesque natural beach and enjoy the breathtaking sunset over the sparkling waters of the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der majestätischen Hacienda San José und führt Sie ins Herz von Puerto Real zum Teatro Principal. Entdecken Sie die ländliche Idylle an der Casa de San Pedro y San José. Die Tour endet entspannt mit Strandspaziergängen an der Playa del Conchal und der Playa de la Ministra.",
+        "hu": "Utazása a fenséges Hacienda San Josénál kezdődik, majd Puerto Real szívébe, a Teatro Principalhoz vezet. Fedezze fel a vidéki idillt a Casa de San Pedro y San Josénál. A túra egy pihentető tengerparti sétával ér véget a Playa del Conchal és a Playa de la Ministra mentén.",
+        "ro": "Călătoria dumneavoastră începe la măreața Hacienda San José și vă duce în inima Puerto Real la Teatro Principal. Descoperiți idila rurală la Casa de San Pedro y San José. Turul se încheie relaxant cu plimbări pe plaja Playa del Conchal și Playa de la Ministra.",
+        "en": "Your drive begins at the majestic Hacienda San José and takes you into the heart of Puerto Real to the Teatro Principal. Discover the rural idyll at the Casa de San Pedro y San José. The tour ends relaxingly with beach walks at Playa del Conchal and Playa de la Ministra."
+      }
+    }
+  }
+}

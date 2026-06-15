@@ -1,0 +1,451 @@
+{
+  "city_id": "dives-sur-mer",
+  "anchor": {
+    "name": "Dives-sur-Mer",
+    "coords": [
+      -0.1011,
+      49.2856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallerie Collignal",
+            "hu": "Gallerie Collignal",
+            "ro": "Gallerie Collignal",
+            "en": "Gallerie Collignal"
+          },
+          "coords": [
+            -0.0968,
+            49.286842
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
+            "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
+            "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa du Temps retrouvé",
+            "hu": "Villa du Temps retrouvé",
+            "ro": "Villa du Temps retrouvé",
+            "en": "Villa du Temps retrouvé"
+          },
+          "coords": [
+            -0.11276,
+            49.29187
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
+            "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
+            "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            -0.117844,
+            49.286564
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Kirche und kommen Sie am frühen Nachmittag, wenn das Sonnenlicht die Buntglasfenster erhellt.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző normann építészetét, és érkezzen kora délután, amikor a napfény csodásan megvilágítja a színes ólomüveg ablakokat.",
+            "ro": "Admirați impresionanta arhitectură normandă a acestei biserici istorice și sosiți la începutul după-amiezii, când lumina soarelui luminează frumos vitraliile.",
+            "en": "Admire the impressive Norman architecture of this historic church, and arrive in the early afternoon when the sunlight beautifully illuminates the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Table d'Orientation",
+            "hu": "Table d'Orientation",
+            "ro": "Table d'Orientation",
+            "en": "Table d'Orientation"
+          },
+          "coords": [
+            -0.128757,
+            49.291654
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
+            "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
+            "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "SimRacing full motion",
+            "hu": "SimRacing full motion",
+            "ro": "SimRacing full motion",
+            "en": "SimRacing full motion"
+          },
+          "coords": [
+            -0.130494,
+            49.286488
+          ],
+          "category": "family",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des virtuellen Motorsports in diesen High-Tech-Simulatoren, wobei es ratsam ist, bequeme Kleidung für dieses actionreiche Familienabenteuer zu tragen.",
+            "hu": "Élje át a virtuális autósport izgalmait ezekben a csúcstechnológiás szimulátorokban, és érdemes kényelmes ruházatot viselni ehhez az akciódús családi kalandhoz.",
+            "ro": "Experimentați fiorul sporturilor cu motor virtuale în aceste simulatoare high-tech, fiind indicat să purtați haine confortabile pentru această aventură de familie.",
+            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen der Stadt mit lokaler Kunst, bevor Sie in Richtung der Küste schlendern. Der Nachmittag bringt Sie in die faszinierende Zeit der Belle Époque. Ein historischer Kirchenbesuch und atemberaubende Ausblicke bereichern den Tag. Den Abschluss bildet ein rasantes virtuelles Erlebnis, das Moderne und Geschichte verbindet.",
+        "hu": "Kezdje sétáját a város szívében a helyi művészetek felfedezésével, majd vegye az irányt a part felé. A délután a Belle Époque lenyűgöző világába kalauzolja el. Egy történelmi templomlátogatás és lélegzetelállító kilátás gazdagítja a napot. A programot egy pörgős virtuális élmény zárja, tökéletesen ötvözve a múltat a modern technológiával.",
+        "ro": "Începeți plimbarea în inima orașului cu arta locală înainte de a vă îndrepta spre coastă. După-amiaza vă poartă în fascinanta eră Belle Époque. O vizită la o biserică istorică și priveliștile uimitoare îmbogățesc ziua. Turul se încheie cu o experiență virtuală rapidă, combinând istoria cu tehnologia de ultimă generație.",
+        "en": "Begin your walk in the heart of the town with local art before strolling towards the coast. The afternoon transports you into the fascinating Belle Époque era. A historical church visit and breathtaking panoramic views enrich the day. Your journey concludes with a fast-paced virtual racing experience, blending modern thrills with local history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Ouen",
+            "hu": "Église Saint-Ouen",
+            "ro": "Église Saint-Ouen",
+            "en": "Église Saint-Ouen"
+          },
+          "coords": [
+            -0.106063,
+            49.267541
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die oft von Besuchern übersehen werden.",
+            "hu": "Fedezze fel e régi templom spirituális nyugalmát, és figyeljen a részletes fafaragásokra, amelyeket a látogatók gyakran hajlamosak figyelmen kívül hagyni.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici vechi și acordați o atenție deosebită sculpturilor în lemn detaliate, care sunt adesea trecute cu vederea.",
+            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallerie Collignal",
+            "hu": "Gallerie Collignal",
+            "ro": "Gallerie Collignal",
+            "en": "Gallerie Collignal"
+          },
+          "coords": [
+            -0.0968,
+            49.286842
+          ],
+          "category": "cultural",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
+            "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
+            "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa du Temps retrouvé",
+            "hu": "Villa du Temps retrouvé",
+            "ro": "Villa du Temps retrouvé",
+            "en": "Villa du Temps retrouvé"
+          },
+          "coords": [
+            -0.11276,
+            49.29187
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
+            "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
+            "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Club Mickey",
+            "hu": "Club Mickey",
+            "ro": "Club Mickey",
+            "en": "Club Mickey"
+          },
+          "coords": [
+            -0.121668,
+            49.293134
+          ],
+          "category": "family",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieser lebhafte Strandclub ist ideal für Kinder mit zahlreichen Aktivitäten, also bringen Sie ausreichend Sonnencreme mit, während die Kleinen den Sandstrand genießen.",
+            "hu": "Ez a nyüzsgő strandklub rengeteg tevékenységgel várja a gyerekeket, ezért hozzon sok naptejet, amíg a legkisebbek a homokos tengerparton játszanak és szórakoznak.",
+            "ro": "Acest club plin de viață pe plajă oferă numeroase activități pentru copii, așa că aduceți multă cremă de protecție solară în timp ce cei mici se bucură de nisip.",
+            "en": "This lively beach club offers numerous activities for children, so bring plenty of sunscreen while the little ones safely enjoy playing on the sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf Miniature de Cabourg",
+            "hu": "Golf Miniature de Cabourg",
+            "ro": "Golf Miniature de Cabourg",
+            "en": "Golf Miniature de Cabourg"
+          },
+          "coords": [
+            -0.112126,
+            49.294662
+          ],
+          "category": "family",
+          "arrive_at": "14:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine unterhaltsame Stunde auf diesem gut gepflegten Minigolfplatz, der am späten Nachmittag weniger überlaufen ist und Spaß für alle Altersgruppen bietet.",
+            "hu": "Töltsön el egy szórakoztató órát ezen a jól karbantartott minigolfpályán, amely késő délután kevésbé zsúfolt, és minden korosztály számára remek kikapcsolódás.",
+            "ro": "Petreceți o oră distractivă pe acest teren de minigolf bine întreținut, care este mai puțin aglomerat după-amiaza târziu și oferă distracție pentru toate vârstele.",
+            "en": "Spend an entertaining hour at this well-maintained miniature golf course, which is less crowded in the late afternoon and provides fun for players of all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Table d'Orientation",
+            "hu": "Table d'Orientation",
+            "ro": "Table d'Orientation",
+            "en": "Table d'Orientation"
+          },
+          "coords": [
+            -0.128757,
+            49.291654
+          ],
+          "category": "natural",
+          "arrive_at": "16:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
+            "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
+            "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet an einer friedlichen historischen Kirche, weit entfernt vom Trubel. Radeln Sie weiter durch die Straßen zu kulturellen Highlights und prächtigen Museen. Am Nachmittag erwarten Sie familienfreundliche Stopps und unterhaltsame Strandaktivitäten. Schließlich belohnt Sie eine kurze Fahrt zur Küste mit einem unvergesslichen Sonnenuntergangspanorama.",
+        "hu": "A kerékpártúra egy békés történelmi templomnál kezdődik, távol a zajtól. Tekerjen tovább az utcákon kulturális látnivalók és csodás múzeumok felé. Délután családbarát megállók és szórakoztató tengerparti tevékenységek várják. Végül egy rövid tekerés a part mentén felejthetetlen naplementés panorámával jutalmazza meg fáradozásait.",
+        "ro": "Turul cu bicicleta începe la o biserică istorică pașnică, departe de agitație. Pedalați prin străzi către atracții culturale și muzee magnifice. După-amiaza vă așteaptă opriri potrivite pentru familii și activități pe plajă. În cele din urmă, o scurtă plimbare vă răsplătește cu o panoramă de neuitat a apusului de soare.",
+        "en": "Your cycling tour starts at a peaceful historic church, far from the bustling crowds. Pedal through the charming streets towards cultural highlights and magnificent museums. In the afternoon, family-friendly stops and fun beach activities await. Finally, a short ride along the coast rewards you with an unforgettable panoramic sunset view."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Ouen",
+            "hu": "Église Saint-Ouen",
+            "ro": "Église Saint-Ouen",
+            "en": "Église Saint-Ouen"
+          },
+          "coords": [
+            -0.106063,
+            49.267541
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die oft von Besuchern übersehen werden.",
+            "hu": "Fedezze fel e régi templom spirituális nyugalmát, és figyeljen a részletes fafaragásokra, amelyeket a látogatók gyakran hajlamosak figyelmen kívül hagyni.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici vechi și acordați o atenție deosebită sculpturilor în lemn detaliate, care sunt adesea trecute cu vederea.",
+            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Normandie Golf",
+            "hu": "Normandie Golf",
+            "ro": "Normandie Golf",
+            "en": "Normandie Golf"
+          },
+          "coords": [
+            -0.074166,
+            49.304665
+          ],
+          "category": "family",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Schlagen Sie auf diesem malerischen Golfplatz ab und reservieren Sie Ihre Abschlagzeit frühzeitig, um die fantastische Aussicht auf die normannische Landschaft zu genießen.",
+            "hu": "Játsszon ezen a festői golfpályán, és foglaljon időpontot jó előre, hogy a játék közben élvezhesse a normandiai vidékre nyíló fantasztikus kilátást.",
+            "ro": "Jucați pe acest teren de golf pitoresc și rezervați-vă ora de start din timp pentru a vă bucura de priveliștile fantastice ale peisajului din Normandia.",
+            "en": "Tee off at this picturesque golf course and be sure to book your tee time well in advance to enjoy the fantastic views of the beautiful Normandy countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallerie Collignal",
+            "hu": "Gallerie Collignal",
+            "ro": "Gallerie Collignal",
+            "en": "Gallerie Collignal"
+          },
+          "coords": [
+            -0.0968,
+            49.286842
+          ],
+          "category": "cultural",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
+            "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
+            "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa du Temps retrouvé",
+            "hu": "Villa du Temps retrouvé",
+            "ro": "Villa du Temps retrouvé",
+            "en": "Villa du Temps retrouvé"
+          },
+          "coords": [
+            -0.11276,
+            49.29187
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
+            "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
+            "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Table d'Orientation",
+            "hu": "Table d'Orientation",
+            "ro": "Table d'Orientation",
+            "en": "Table d'Orientation"
+          },
+          "coords": [
+            -0.128757,
+            49.291654
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
+            "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
+            "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "SimRacing full motion",
+            "hu": "SimRacing full motion",
+            "ro": "SimRacing full motion",
+            "en": "SimRacing full motion"
+          },
+          "coords": [
+            -0.130494,
+            49.286488
+          ],
+          "category": "family",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des virtuellen Motorsports in diesen High-Tech-Simulatoren, wobei es ratsam ist, bequeme Kleidung für dieses actionreiche Familienabenteuer zu tragen.",
+            "hu": "Élje át a virtuális autósport izgalmait ezekben a csúcstechnológiás szimulátorokban, és érdemes kényelmes ruházatot viselni ehhez az akciódús családi kalandhoz.",
+            "ro": "Experimentați fiorul sporturilor cu motor virtuale în aceste simulatoare high-tech, fiind indicat să purtați haine confortabile pentru această aventură de familie.",
+            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt mit spiritueller Ruhe in einer alten Kirche, bevor es ins üppige Grün des Golfplatzes geht. Nach einer kurzen Fahrt erreichen Sie das kulturelle Zentrum und erstklassige Museen. Genießen Sie die atemberaubende Landschaft am Nachmittag von einem wunderschönen Aussichtspunkt. Den Tag runden Sie mit modernem, rasantem Sim-Racing-Spaß ab.",
+        "hu": "Az autós túra spirituális nyugalommal indul egy régi templomban, mielőtt a golfpálya zöldjébe hajtana. Egy rövid út után eléri a kulturális központot és a kiváló múzeumokat. Délután élvezze a lenyűgöző tájat egy csodálatos kilátópontról. A napot modern és izgalmas, csúcstechnológiás szimulátorversenyzéssel zárja.",
+        "ro": "Turul cu mașina începe cu liniște spirituală într-o veche biserică înainte de a merge pe verdele luxuriant al terenului de golf. După un scurt drum ajungeți la centrul cultural și muzee. Bucurați-vă de peisajul uimitor după-amiaza de la un punct de observație frumos. Ziua se încheie cu distracție modernă de curse simulate de mare viteză.",
+        "en": "The driving tour begins with spiritual tranquility at an ancient church before heading to the lush greens of the golf course. A short drive brings you to the cultural center and world-class museums. Enjoy the stunning afternoon scenery from a beautiful vantage point. You will cap off the day with modern, high-speed sim-racing fun."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-gernika-lumo-cities-v2",
+  "anchor": {
+    "name": "Gernika-Lumo",
+    "coords": [
+      -2.681464,
+      43.31452
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 0.78,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gernikako Arbola",
+            "hu": "Gernikako Arbola",
+            "ro": "Gernikako Arbola",
+            "en": "Gernikako Arbola"
+          },
+          "coords": [
+            -2.680011,
+            43.31336
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den berühmten Eichenbaum, ein Symbol der baskischen Freiheiten, und kommen Sie früh, um die morgendliche Stille in Ruhe zu genießen.",
+            "hu": "Látogasson el a híres tölgyfához, a baszk szabadságjogok szimbólumához, és érkezzen korán, hogy élvezze a békés reggeli csendet ezen a helyen.",
+            "ro": "Vizitați faimosul stejar, simbol al libertăților basce, și ajungeți devreme pentru a vă bucura de liniștea dimineții în acest loc istoric.",
+            "en": "Visit the famous oak tree, a symbol of Basque freedoms, and arrive early in the morning to enjoy the quiet and peaceful atmosphere of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Gure Aitaren Etxea",
+            "hu": "Gure Aitaren Etxea",
+            "ro": "Gure Aitaren Etxea",
+            "en": "Gure Aitaren Etxea"
+          },
+          "coords": [
+            -2.680719,
+            43.314741
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese von Eduardo Chillida geschaffene Skulptur des Friedens und betrachten Sie durch das offene Fenster den historischen Baum.",
+            "hu": "Csodálja meg Eduardo Chillida lenyűgöző békeszobrát, és nézzen át a nyitott ablakon, hogy egyenesen a történelmi fára lásson a távolban.",
+            "ro": "Admirați această sculptură a păcii creată de Eduardo Chillida și priviți prin fereastra deschisă direct spre copacul istoric din apropiere.",
+            "en": "Admire this impressive peace sculpture created by Eduardo Chillida and look through the open window to see the historic tree in the distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Paz de Gernika",
+            "hu": "Museo de la Paz de Gernika",
+            "ro": "Museo de la Paz de Gernika",
+            "en": "Museo de la Paz de Gernika"
+          },
+          "coords": [
+            -2.678387,
+            43.315059
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erfahren Sie tiefgreifende Details über die tragische Bombardierung der Stadt; buchen Sie Ihr Ticket online, um Warteschlangen zu vermeiden.",
+            "hu": "Tudjon meg többet a város tragikus múltjáról és bombázásáról; foglalja le jegyét online, hogy elkerülje a hosszú sorban állást a bejáratnál.",
+            "ro": "Aflați mai multe despre bombardamentul tragic al orașului; rezervați-vă biletul online pentru a evita cozile lungi și obositoare la intrare.",
+            "en": "Learn profound details about the tragic bombing of the city; book your ticket online in advance to avoid waiting in long lines at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lizeo Antzokia",
+            "hu": "Lizeo Antzokia",
+            "ro": "Lizeo Antzokia",
+            "en": "Lizeo Antzokia"
+          },
+          "coords": [
+            -2.6768,
+            43.315199
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Dieses historische Theater bietet großartige kulturelle Veranstaltungen; überprüfen Sie den Spielplan am besten online vor Ihrem Besuch.",
+            "hu": "Ez a történelmi színház nagyszerű kulturális eseményeket kínál; látogatás előtt mindenképpen ellenőrizze a pontos műsort az interneten.",
+            "ro": "Acest teatru istoric oferă evenimente culturale deosebite; verificați programul online înainte de vizita dumneavoastră pentru a planifica bine.",
+            "en": "This historic theater offers great cultural events; be sure to check the current schedule online before planning your visit to the venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Astra Kultur Espazioa",
+            "hu": "Astra Kultur Espazioa",
+            "ro": "Astra Kultur Espazioa",
+            "en": "Astra Kultur Espazioa"
+          },
+          "coords": [
+            -2.676769,
+            43.312438
+          ],
+          "category": "cultural",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ehemalige Waffenfabrik, die heute ein lebendiges Kulturzentrum ist, und nehmen Sie an den interaktiven lokalen Workshops teil.",
+            "hu": "Fedezze fel az egykori fegyvergyárat, amely ma kulturális központ, és vegyen részt a helyi interaktív és kreatív közösségi műhelyek egyikén.",
+            "ro": "Explorați fosta fabrică de arme, acum un centru cultural vibrant, și participați activ la atelierele creative organizate de comunitatea locală.",
+            "en": "Explore the former weapons factory, now a vibrant cultural center, and take an active part in one of the engaging local creative workshops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Eichenbaum, der die baskische Freiheit symbolisiert. Mittags bietet das Friedensmuseum tiefgreifende Einblicke in die Vergangenheit. Verbringen Sie den Nachmittag damit, architektonische Meisterwerke und das historische Theater zu erkunden. Beenden Sie den Abend im modernen Kulturzentrum Astra und reflektieren Sie die bemerkenswerte Resilienz der Stadt.",
+        "hu": "Kezdje a reggelt a történelmi tölgyfánál, amely a baszk szabadság szimbóluma. Délben a békemúzeum mély betekintést nyújt a múltba. A délutánt szánja az építészeti remekművek és a történelmi színház felfedezésére. Fejezze be az estét az Astra modern kulturális központban, és elmélkedjen a város figyelemre méltó történelmi rugalmasságán és megújulásán.",
+        "ro": "Începeți dimineața la stejarul istoric care simbolizează libertatea bască. La prânz, muzeul păcii oferă o perspectivă profundă asupra trecutului. Petreceți după-amiaza explorând capodopere arhitecturale și teatrul istoric. Încheiați seara la centrul cultural modern Astra, reflectând asupra rezilienței remarcabile și renașterii acestei frumoase comunități.",
+        "en": "Start your morning at the historic oak tree that symbolizes Basque freedom. Midday brings a deep dive into local history at the renowned peace museum. Spend your afternoon discovering architectural masterpieces and the historic theater. End your evening at the modern Astra cultural center, reflecting on the city's remarkable resilience and continuous rebirth."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 2.46,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Paz de Gernika",
+            "hu": "Museo de la Paz de Gernika",
+            "ro": "Museo de la Paz de Gernika",
+            "en": "Museo de la Paz de Gernika"
+          },
+          "coords": [
+            -2.678387,
+            43.315059
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag hier, um die komplexen historischen Hintergründe der Region zu verstehen; sichern Sie sich Vorverkaufstickets online.",
+            "hu": "Kezdje itt a napot, hogy megértse a régió összetett történelmi hátterét; mindenképpen biztosítsa be előre a jegyeket az interneten keresztül.",
+            "ro": "Începeți ziua aici pentru a înțelege contextul istoric complex al regiunii; asigurați-vă biletele în avans online pentru acces rapid și ușor.",
+            "en": "Start your day here to fully understand the complex historical background of the region; secure your advance tickets online for quick access."
+          }
+        },
+        {
+          "name": {
+            "de": "Gernikako Arbola",
+            "hu": "Gernikako Arbola",
+            "ro": "Gernikako Arbola",
+            "en": "Gernikako Arbola"
+          },
+          "coords": [
+            -2.680011,
+            43.31336
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Lassen Sie das Symbol der baskischen Identität auf sich wirken; ein kurzer Spaziergang durch den anliegenden Park ist sehr empfehlenswert.",
+            "hu": "Hagyja, hogy a baszk identitás szimbóluma hasson önre; egy rövid, frissítő séta a szomszédos zöld parkban mindenképpen nagyon ajánlott.",
+            "ro": "Lăsați simbolul identității basce să vă inspire; o scurtă plimbare relaxantă prin parcul adiacent este cu siguranță foarte recomandată.",
+            "en": "Let the powerful symbol of Basque identity inspire you; a short and refreshing walk through the adjacent green park is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Ana",
+            "hu": "Ermita de Santa Ana",
+            "ro": "Ermita de Santa Ana",
+            "en": "Ermita de Santa Ana"
+          },
+          "coords": [
+            -2.679263,
+            43.321212
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser kleinen Einsiedelei; der Weg hierher bietet tolle Fotomotive der malerischen Landschaft.",
+            "hu": "Élvezze ennek a kis remetelaknak a békés hangulatát; az ide vezető kerékpáros út nagyszerű fotózási lehetőségeket kínál a tájról.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui mic schit; drumul cu bicicleta până aici oferă oportunități excelente pentru fotografii pitorești.",
+            "en": "Enjoy the peaceful atmosphere of this small hermitage; the scenic cycling path leading here offers great photography opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Urdaibaiko Biosfera Erreserba",
+            "hu": "Urdaibaiko Biosfera Erreserba",
+            "ro": "Urdaibaiko Biosfera Erreserba",
+            "en": "Urdaibaiko Biosfera Erreserba"
+          },
+          "coords": [
+            -2.677768,
+            43.329712
+          ],
+          "category": "natural",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Radfahren Sie durch dieses atemberaubende Naturschutzgebiet und bringen Sie unbedingt ein Fernglas für die fantastische Vogelbeobachtung mit.",
+            "hu": "Kerékpározzon ezen a lenyűgöző természetvédelmi területen, és hozzon magával távcsövet a csodálatos madárleshez a vizes élőhelyeken.",
+            "ro": "Plimbați-vă cu bicicleta prin această rezervație naturală uimitoare și aduceți un binoclu pentru observarea excelentă a păsărilor sălbatice.",
+            "en": "Cycle through this stunning nature reserve and be sure to bring along a pair of binoculars for excellent wild birdwatching opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Urdaibai",
+            "hu": "Torre de Urdaibai",
+            "ro": "Torre de Urdaibai",
+            "en": "Torre de Urdaibai"
+          },
+          "coords": [
+            -2.679522,
+            43.327979
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Turm aus dem Mittelalter; der Innenhof ist perfekt für eine kurze und erholsame Pause im Schatten.",
+            "hu": "Látogasson el ehhez a középkori történelmi toronyhoz; a csendes udvar tökéletes egy rövid és pihentető szünet eltöltésére az árnyékban.",
+            "ro": "Vizitați acest turn istoric din Evul Mediu; curtea interioară liniștită este perfectă pentru o scurtă pauză relaxantă la umbra zidurilor.",
+            "en": "Visit this historic tower dating back to the Middle Ages; the quiet courtyard is absolutely perfect for a short and relaxing shaded break."
+          }
+        },
+        {
+          "name": {
+            "de": "San Kristobal",
+            "hu": "San Kristobal",
+            "ro": "San Kristobal",
+            "en": "San Kristobal"
+          },
+          "coords": [
+            -2.681564,
+            43.327674
+          ],
+          "category": "landmark",
+          "arrive_at": "15:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem faszinierenden Wahrzeichen ausklingen, von wo aus Sie einen weiten Blick über die gesamte üppige Region haben.",
+            "hu": "Fejezze be a napot ennél a nevezetességnél, ahonnan csodálatos és széles panorámás kilátás nyílik az egész környező buja zöld régióra.",
+            "ro": "Încheiați ziua la acest punct de reper fascinant, de unde veți avea o priveliște panoramică largă asupra întregii regiuni înconjurătoare.",
+            "en": "End your cycling day at this fascinating landmark, from where you will have a wide panoramic view over the entire surrounding lush region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie die emotional berührende Geschichte im Zentrum der Stadt. Mittags schwingen Sie sich aufs Rad und spüren die historische Energie des Eichenbaums. Der Nachmittag bringt Sie hinaus in die üppige Natur und zu mittelalterlichen Festungen. Genießen Sie den Abend mit einem atemberaubenden Ausblick über das Biosphärenreservat.",
+        "hu": "Reggel fedezze fel a városközpont érzelmileg megható történelmét. Délben pattanjon kerékpárra, és érezze a tölgyfa történelmi energiáját. A délután kiviszi a buja természetbe és a középkori erődítményekhez. Élvezze a kora estét a lélegzetelállító kilátással a széles bioszféra-rezervátum felett.",
+        "ro": "Dimineața explorați istoria emoționantă din centrul orașului. La prânz, urcați pe bicicletă și simțiți energia istorică a stejarului. După-amiaza vă poartă în natura luxuriantă și spre fortărețele medievale. Bucurați-vă de seară cu o priveliște uluitoare asupra vastei rezervații a biosferei.",
+        "en": "In the morning, explore the emotionally touching history in the city center. At midday, hop on your bike and feel the historical energy of the oak tree. The afternoon takes you out into lush nature and towards medieval fortifications. Enjoy the evening with a breathtaking view over the biosphere reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gernikako Arbola",
+            "hu": "Gernikako Arbola",
+            "ro": "Gernikako Arbola",
+            "en": "Gernikako Arbola"
+          },
+          "coords": [
+            -2.680011,
+            43.31336
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Ausflug bei diesem wichtigen historischen Baum; in der Nähe gibt es gute Parkmöglichkeiten für den frühen Morgen.",
+            "hu": "Kezdje kirándulását ennél a fontos történelmi fánál; a közelben jó parkolási lehetőségek találhatók a kora reggeli órákban az autóknak.",
+            "ro": "Începeți excursia la acest copac istoric important; există opțiuni bune de parcare în apropiere pentru orele timpurii ale dimineții.",
+            "en": "Start your excursion at this important historic tree; there are good parking options available nearby during the early hours of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Paz de Gernika",
+            "hu": "Museo de la Paz de Gernika",
+            "ro": "Museo de la Paz de Gernika",
+            "en": "Museo de la Paz de Gernika"
+          },
+          "coords": [
+            -2.678387,
+            43.315059
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die Geschichte der Stadt ein; das Museum ist klimatisiert und bietet eine hervorragend kuratierte Ausstellung.",
+            "hu": "Merüljön el a város történelmében; a múzeum légkondicionált, és kiválóan megtervezett, nagyon elgondolkodtató kiállítást kínál.",
+            "ro": "Pătrundeți în istoria orașului; muzeul este dotat cu aer condiționat și oferă o expoziție excelent curatoriată și profundă.",
+            "en": "Dive deep into the city's history; the museum is air-conditioned and offers an excellently curated and thought-provoking exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Urdaibaiko Biosfera Erreserba",
+            "hu": "Urdaibaiko Biosfera Erreserba",
+            "ro": "Urdaibaiko Biosfera Erreserba",
+            "en": "Urdaibaiko Biosfera Erreserba"
+          },
+          "coords": [
+            -2.677768,
+            43.329712
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Fahren Sie in dieses idyllische Reservat; nutzen Sie die ausgewiesenen Parkplätze, um die empfindliche lokale Tierwelt nicht zu stören.",
+            "hu": "Vezessen ebbe az idilli rezervátumba; használja a kijelölt parkolókat, hogy semmiképp se zavarja meg az érzékeny helyi élővilágot.",
+            "ro": "Conduceți spre această rezervație idilică; utilizați parcările desemnate pentru a nu deranja fauna locală sensibilă și mediul natural.",
+            "en": "Drive to this idyllic nature reserve; be sure to use the designated parking areas to avoid disturbing the sensitive local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Yacimiento romano de Forua",
+            "hu": "Yacimiento romano de Forua",
+            "ro": "Yacimiento romano de Forua",
+            "en": "Yacimiento romano de Forua"
+          },
+          "coords": [
+            -2.674872,
+            43.331839
+          ],
+          "category": "historical",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden römischen Ruinen; tragen Sie bequeme Schuhe, da das Ausgrabungsgelände uneben und steinig sein kann.",
+            "hu": "Fedezze fel a lenyűgöző római romokat; viseljen kényelmes cipőt, mivel az ásatási terület talaja egyenetlen és meglehetősen sziklás lehet.",
+            "ro": "Descoperiți ruinele romane fascinante; purtați pantofi comozi, deoarece terenul de excavare poate fi destul de accidentat și stâncos.",
+            "en": "Discover the fascinating Roman ruins; wear comfortable walking shoes as the excavation site terrain can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourseko Done Martie",
+            "hu": "Tourseko Done Martie",
+            "ro": "Tourseko Done Martie",
+            "en": "Tourseko Done Martie"
+          },
+          "coords": [
+            -2.6743,
+            43.333237
+          ],
+          "category": "religious",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser charmanten Kirche; der kleine Platz direkt davor bietet in der Regel kostenlose Parkmöglichkeiten.",
+            "hu": "Csodálja meg ennek a bájos templomnak az építészetét; a közvetlenül előtte lévő kis téren általában ingyenes parkolási lehetőség is van.",
+            "ro": "Admirați arhitectura acestei biserici fermecătoare; piațeta din fața ei oferă de obicei opțiuni excelente de parcare gratuită.",
+            "en": "Admire the lovely architecture of this charming church; the small square directly in front of it usually offers good free parking options."
+          }
+        },
+        {
+          "name": {
+            "de": "Foruko udaletxea",
+            "hu": "Foruko udaletxea",
+            "ro": "Foruko udaletxea",
+            "en": "Foruko udaletxea"
+          },
+          "coords": [
+            -2.675124,
+            43.334415
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das historische Rathaus von Forua an, dessen traditionelle baskische Bauweise beeindruckend ist, bevor Sie heimfahren.",
+            "hu": "Tekintse meg Forua történelmi városházáját, amelynek hagyományos baszk építészeti stílusa nagyon lenyűgöző, mielőtt hazaindulna.",
+            "ro": "Vedeți primăria istorică din Forua, a cărei construcție tradițională bască este impresionantă, înainte de a vă începe drumul spre casă.",
+            "en": "See the historic town hall of Forua, whose traditional Basque architectural style is truly impressive, right before heading back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag widmet sich den historischen Wurzeln und der Gedenkkultur im Stadtzentrum. Um die Mittagszeit fahren Sie bequem hinaus in die weite Natur des Biosphärenreservats. Der Nachmittag steht ganz im Zeichen der antiken Entdeckungen bei den römischen Ruinen. Ein entspannter Abendbesuch bei historischen Gebäuden in Forua rundet den perfekten Roadtrip ab.",
+        "hu": "A délelőtt a történelmi gyökereknek és a megemlékezés kultúrájának van szentelve a városközpontban. Dél körül kényelmesen kivezet a bioszféra-rezervátum hatalmas természetébe. A délután az ókori felfedezések jegyében telik a római romoknál. A tökéletes autós kirándulást Forua történelmi épületeinek esti megtekintése zárja le.",
+        "ro": "Dimineața este dedicată rădăcinilor istorice și culturii comemorării în centrul orașului. În jurul prânzului, conduceți confortabil în natura vastă a rezervației biosferei. După-amiaza se concentrează pe descoperirile antice la ruinele romane. O vizită relaxantă de seară la clădirile istorice din Forua completează excursia auto perfectă.",
+        "en": "The morning is dedicated to the historical roots and memorial culture in the city center. Around midday, drive comfortably out into the vast nature of the biosphere reserve. The afternoon is all about ancient discoveries at the Roman ruins. A relaxing evening visit to historic buildings in Forua rounds off the perfect road trip."
+      }
+    }
+  }
+}

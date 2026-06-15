@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-miranda-de-ebro-cities-v2",
+  "anchor": {
+    "name": "Miranda de Ebro",
+    "coords": [
+      -2.933333,
+      42.683333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 1.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Miranda de Ebro",
+            "hu": "Castillo de Miranda de Ebro",
+            "ro": "Castillo de Miranda de Ebro",
+            "en": "Castillo de Miranda de Ebro"
+          },
+          "coords": [
+            -2.953372,
+            42.682527
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Überresten dieser mittelalterlichen Festung; tragen Sie feste Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Élvezze a panorámát a középkori erődítmény maradványairól; viseljen kényelmes, masszív cipőt, mivel a romok körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucură-te de vederi panoramice de la rămășițele acestei fortărețe medievale; poartă încălțăminte rezistentă deoarece potecile sunt destul de inegale.",
+            "en": "Enjoy panoramic views from the remains of this medieval fortress; wear sturdy shoes as the pathways around the castle ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Momia el chantre",
+            "hu": "Momia el chantre",
+            "ro": "Momia el chantre",
+            "en": "Momia el chantre"
+          },
+          "coords": [
+            -2.952969,
+            42.683544
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Legende des mumifizierten Kantors in der Kirche; bringen Sie eine kleine Taschenlampe für die schwach beleuchtete Vitrine mit.",
+            "hu": "Fedezze fel a mumifikálódott kántor helyi legendáját a templomban; hozzon egy kis zseblámpát, hogy jól lássa a részleteket a homályosan megvilágított vitrinben.",
+            "ro": "Descoperă fascinanta legendă locală a cantorului mumificat în interiorul bisericii; adu o mică lanternă pentru a vedea detaliile în vitrina slab luminată.",
+            "en": "Discover the fascinating local legend of the mummified cantor inside the church; bring a small flashlight to see the details in the dimly lit display."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia del Espíritu Santo",
+            "hu": "Iglesia del Espíritu Santo",
+            "ro": "Iglesia del Espíritu Santo",
+            "en": "Iglesia del Espíritu Santo"
+          },
+          "coords": [
+            -2.950245,
+            42.684208
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche; besuchen Sie sie in den frühen Morgenstunden, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú építészetét; látogasson el a kora reggeli órákban, hogy teljesen átélje a békés atmoszférát.",
+            "ro": "Admiră frumoasa arhitectură romanică a acestei biserici istorice; vizitează la primele ore ale dimineții pentru a te bucura din plin de atmosfera pașnică.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church; visit during the early morning hours to fully appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "León",
+            "hu": "León",
+            "ro": "León",
+            "en": "León"
+          },
+          "coords": [
+            -2.951173,
+            42.683885
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Ort, der das Erbe der Stadt zeigt; lesen Sie die Informationstafeln und tragen Sie an sonnigen Nachmittagen einen Hut.",
+            "hu": "Fedezze fel ezt a város örökségét bemutató történelmi helyszínt; olvassa el a közeli táblákat, és viseljen kalapot a napos nyári délutánokon.",
+            "ro": "Explorează acest loc istoric care prezintă patrimoniul orașului; verifică plăcile informative din apropiere și poartă o pălărie în după-amiezile însorite.",
+            "en": "Explore this significant historical spot showcasing the city's heritage; check the nearby plaques for context and wear a hat on sunny summer afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Nicolás de Bari",
+            "hu": "Iglesia de San Nicolás de Bari",
+            "ro": "Iglesia de San Nicolás de Bari",
+            "en": "Iglesia de San Nicolás de Bari"
+          },
+          "coords": [
+            -2.946952,
+            42.685085
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den kunstvollen Altaraufsatz in dieser charmanten Kirche; denken Sie daran, Schultern und Knie beim Betreten bedeckt zu halten.",
+            "hu": "Szánjon egy kis időt a bájos templom bonyolult oltárképének megtekintésére; ne feledje, hogy a vállakat és a térdeket tiszteletteljesen el kell takarni.",
+            "ro": "Ia-ți un moment pentru a vedea altarul complex din această biserică fermecătoare; amintește-ți că umerii și genunchii trebuie să fie acoperiți la intrare.",
+            "en": "Take a moment to view the intricate altarpiece inside this charming church; remember that shoulders and knees should be covered respectfully when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "IX Centenario del Fuero de Miranda.",
+            "hu": "IX Centenario del Fuero de Miranda.",
+            "ro": "IX Centenario del Fuero de Miranda.",
+            "en": "IX Centenario del Fuero de Miranda."
+          },
+          "coords": [
+            -2.945995,
+            42.686928
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Gedenken Sie am 900. Jahrestag der Stadtrechte an diesem historischen Denkmal; es ist ein toller Ort für Fotos, also bringen Sie unbedingt Ihre Kamera mit.",
+            "hu": "Emlékezzen meg a városi alapítólevél 900. évfordulójáról ennél az emlékműnél; kiváló fotózási helyszín, ezért mindenképpen hozza magával a fényképezőgépét.",
+            "ro": "Comemorează a 900-a aniversare a chartei orașului la acest monument istoric; este un loc excelent pentru fotografii, așa că nu uita să aduci camera.",
+            "en": "Commemorate the 900th anniversary of the city's charter at this historic monument; it is a great spot for photos, so bring your camera along with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des mittelalterlichen Castillo und der Legende des mumifizierten Kantors. Schlendern Sie mittags durch die historischen Straßen zur ruhigen Iglesia del Espíritu Santo. Ihr Nachmittag konzentriert sich auf das architektonische Erbe rund um San Nicolás de Bari. Lassen Sie den Tag am Denkmal des IX. Centenario ausklingen.",
+        "hu": "Kezdje a reggelt a középkori Castillo és a mumifikálódott kántor lenyűgöző legendájának felfedezésével. Délben sétáljon a történelmi utcákon a békés Iglesia del Espíritu Santo felé. A délután a San Nicolás de Bari körüli gazdag építészeti örökségre összpontosít. Zárja a napot a város alapítását ünneplő IX. Centenario emlékműnél.",
+        "ro": "Începe dimineața explorând Castillo medieval și intriganta legendă a cantorului mumificat. La prânz, rătăcește pe străzile istorice spre liniștita Iglesia del Espíritu Santo. După-amiaza ta se concentrează pe bogatul patrimoniu arhitectural din jurul San Nicolás de Bari. Încheie ziua sărbătorind istoria chartei Mirandei la monumentul IX Centenario.",
+        "en": "Start your morning exploring the medieval Castillo and the intriguing legend of the mummified cantor. By midday, wander through the historic streets towards the serene Iglesia del Espíritu Santo. Your afternoon focuses on the rich architectural heritage around San Nicolás de Bari. Conclude your day celebrating Miranda's charter history at the IX Centenario monument."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.21,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de los Sagrados Corazones",
+            "hu": "Iglesia de los Sagrados Corazones",
+            "ro": "Iglesia de los Sagrados Corazones",
+            "en": "Iglesia de los Sagrados Corazones"
+          },
+          "coords": [
+            -2.952205,
+            42.680413
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die heitere Schönheit dieser zentral gelegenen Kirche; kommen Sie kurz vor Mittag, um die Glocken über den belebten Platz läuten zu hören.",
+            "hu": "Tapasztalja meg ennek a központi fekvésű templomnak a békés szépségét; érkezzen dél előtt, hogy meghallgassa a harangjátékot a nyüzsgő tér felett.",
+            "ro": "Experimentează frumusețea senină a acestei biserici centrale; ajungi chiar înainte de prânz pentru a asculta clopotele sunând clar peste piața vibrantă.",
+            "en": "Experience the serene beauty of this centrally located church; arrive just before midday to listen to the bells ringing clearly across the vibrant square."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Miranda de Ebro",
+            "hu": "Castillo de Miranda de Ebro",
+            "ro": "Castillo de Miranda de Ebro",
+            "en": "Castillo de Miranda de Ebro"
+          },
+          "coords": [
+            -2.953372,
+            42.682527
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Überresten dieser mittelalterlichen Festung; tragen Sie feste Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Élvezze a panorámát a középkori erődítmény maradványairól; viseljen kényelmes, masszív cipőt, mivel a romok körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucură-te de vederi panoramice de la rămășițele acestei fortărețe medievale; poartă încălțăminte rezistentă deoarece potecile sunt destul de inegale.",
+            "en": "Enjoy panoramic views from the remains of this medieval fortress; wear sturdy shoes as the pathways around the castle ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia del Espíritu Santo",
+            "hu": "Iglesia del Espíritu Santo",
+            "ro": "Iglesia del Espíritu Santo",
+            "en": "Iglesia del Espíritu Santo"
+          },
+          "coords": [
+            -2.950245,
+            42.684208
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche; besuchen Sie sie in den frühen Morgenstunden, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú építészetét; látogasson el a kora reggeli órákban, hogy teljesen átélje a békés atmoszférát.",
+            "ro": "Admiră frumoasa arhitectură romanică a acestei biserici istorice; vizitează la primele ore ale dimineții pentru a te bucura din plin de atmosfera pașnică.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church; visit during the early morning hours to fully appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "hu": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "ro": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "en": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro"
+          },
+          "coords": [
+            -2.933917,
+            42.689966
+          ],
+          "category": "museum",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem aufschlussreichen Museum mehr über die düstere Geschichte des Konzentrationslagers; planen Sie mindestens eine Stunde für die Filme ein.",
+            "hu": "Ismerje meg a koncentrációs tábor komor történetét ebben a múzeumban; szánjon legalább egy órát a dokumentumfilmes prezentációk megtekintésére a helyszínen.",
+            "ro": "Află despre istoria sumbră a lagărului de concentrare la acest muzeu; alocă cel puțin o oră pentru a urmări cu atenție toate prezentările documentare.",
+            "en": "Learn about the somber history of the concentration camp at this insightful museum; allocate at least an hour to watch all the documentary presentations."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo de concentración de Miranda de Ebro",
+            "hu": "Campo de concentración de Miranda de Ebro",
+            "ro": "Campo de concentración de Miranda de Ebro",
+            "en": "Campo de concentración de Miranda de Ebro"
+          },
+          "coords": [
+            -2.931394,
+            42.692596
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Gehen Sie über das historische Gelände des ehemaligen Lagers, um seine Vergangenheit zu verstehen; buchen Sie im Voraus eine Führung für mehr Hintergrundwissen.",
+            "hu": "Sétáljon végig az egykori tábor történelmi területén, hogy megértse sötét múltját; az idegenvezetés több mélységet ad, ezért érdemes előre foglalni egyet.",
+            "ro": "Plimbă-te pe terenurile istorice ale fostului lagăr pentru a-i înțelege trecutul; tururile ghidate oferă mai multă profunzime, deci rezervă unul în avans.",
+            "en": "Walk through the historic grounds of the former camp to understand its dark past; guided tours often provide more depth, so book one in advance if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Ángeles",
+            "hu": "Los Ángeles",
+            "ro": "Los Ángeles",
+            "en": "Los Ángeles"
+          },
+          "coords": [
+            -2.927009,
+            42.686265
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Fluss in diesem ruhigen Erholungsgebiet; packen Sie ein paar lokale Snacks für ein Picknick ein und genießen Sie die frische Luft.",
+            "hu": "Pihenjen a folyóparton ezen a békés, kikapcsolódásra tökéletes területen; csomagoljon helyi harapnivalókat egy piknikhez, és élvezze a friss levegőt.",
+            "ro": "Relaxează-te lângă râu în această zonă liniștită perfectă pentru o pauză; pregătește câteva gustări locale pentru un picnic și bucură-te de aerul curat.",
+            "en": "Relax by the river in this peaceful recreational area perfect for a quick break; pack some local snacks for a picnic and enjoy the fresh air near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der wunderschönen Sagrados Corazones, bevor Sie zur Burgruine radeln. Gegen Mittag fahren Sie zur romanischen Architektur der Heilig-Geist-Kirche. Verbringen Sie Ihren Nachmittag mit der tiefgreifenden Geschichte des 20. Jahrhunderts im Interpretationszentrum. Lassen Sie den Tag im Erholungsgebiet Los Ángeles entspannt ausklingen.",
+        "hu": "Indítsa kerékpártúráját a gyönyörű Sagrados Corazones-nél, mielőtt felkerekezne a várromokhoz. Dél körül tekerjen a Szentlélek templom román kori építészete felé. Töltse a délutánt a 20. századi mély történelem felfedezésével a látogatóközpontban és a táborban. Zárja az aktív napot egy pihentető megállóval a Los Ángeles rekreációs területen.",
+        "ro": "Începe turul cu bicicleta la frumoasa Sagrados Corazones înainte de a urca spre ruinele castelului. În jurul prânzului, mergi spre arhitectura romanică a Bisericii Sfântului Duh. Petrece după-amiaza aprofundând istoria secolului XX la centrul de interpretare și lagăr. Încheie ziua activă cu o oprire relaxantă la zona de agrement Los Ángeles.",
+        "en": "Kick off your cycling tour at the beautiful Sagrados Corazones before heading up to the castle ruins. Around noon, ride towards the Romanesque architecture of the Holy Spirit Church. Spend your afternoon delving into the profound 20th-century history at the interpretation center and camp. Wind down the active day with a relaxing stop at Los Ángeles recreation area."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Picota",
+            "hu": "La Picota",
+            "ro": "La Picota",
+            "en": "La Picota"
+          },
+          "coords": [
+            -2.959601,
+            42.680882
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den traditionellen Pranger, der die alte Strafgeschichte der Stadt markiert; er steht im Freien, prüfen Sie also vorab das Wetter.",
+            "hu": "Vizsgálja meg a hagyományos szégyenoszlopot, amely a város ősi büntetéstörténetét jelzi; a szabadban található, ezért indulás előtt ellenőrizze az időjárást.",
+            "ro": "Examinează stâlpul infamiei tradițional care marchează istoria penală a orașului; este situat în aer liber, deci verifică vremea înainte de a-ți planifica vizita.",
+            "en": "Examine the traditional pillory column which marks the ancient penal history of the town; it is located outdoors, so check the weather before you plan to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Miranda de Ebro",
+            "hu": "Castillo de Miranda de Ebro",
+            "ro": "Castillo de Miranda de Ebro",
+            "en": "Castillo de Miranda de Ebro"
+          },
+          "coords": [
+            -2.953372,
+            42.682527
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Überresten dieser mittelalterlichen Festung; tragen Sie feste Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Élvezze a panorámát a középkori erődítmény maradványairól; viseljen kényelmes, masszív cipőt, mivel a romok körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucură-te de vederi panoramice de la rămășițele acestei fortărețe medievale; poartă încălțăminte rezistentă deoarece potecile sunt destul de inegale.",
+            "en": "Enjoy panoramic views from the remains of this medieval fortress; wear sturdy shoes as the pathways around the castle ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Nicolás de Bari",
+            "hu": "Iglesia de San Nicolás de Bari",
+            "ro": "Iglesia de San Nicolás de Bari",
+            "en": "Iglesia de San Nicolás de Bari"
+          },
+          "coords": [
+            -2.946952,
+            42.685085
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den kunstvollen Altaraufsatz in dieser charmanten Kirche; denken Sie daran, Schultern und Knie beim Betreten bedeckt zu halten.",
+            "hu": "Szánjon egy kis időt a bájos templom bonyolult oltárképének megtekintésére; ne feledje, hogy a vállakat és a térdeket tiszteletteljesen el kell takarni.",
+            "ro": "Ia-ți un moment pentru a vedea altarul complex din această biserică fermecătoare; amintește-ți că umerii și genunchii trebuie să fie acoperiți la intrare.",
+            "en": "Take a moment to view the intricate altarpiece inside this charming church; remember that shoulders and knees should be covered respectfully when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "hu": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "ro": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro",
+            "en": "Centro de Interpretación del antiguo Campo de Concentración Miranda de Ebro"
+          },
+          "coords": [
+            -2.933917,
+            42.689966
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem aufschlussreichen Museum mehr über die düstere Geschichte des Konzentrationslagers; planen Sie mindestens eine Stunde für die Filme ein.",
+            "hu": "Ismerje meg a koncentrációs tábor komor történetét ebben a múzeumban; szánjon legalább egy órát a dokumentumfilmes prezentációk megtekintésére a helyszínen.",
+            "ro": "Află despre istoria sumbră a lagărului de concentrare la acest muzeu; alocă cel puțin o oră pentru a urmări cu atenție toate prezentările documentare.",
+            "en": "Learn about the somber history of the concentration camp at this insightful museum; allocate at least an hour to watch all the documentary presentations."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo de concentración de Miranda de Ebro",
+            "hu": "Campo de concentración de Miranda de Ebro",
+            "ro": "Campo de concentración de Miranda de Ebro",
+            "en": "Campo de concentración de Miranda de Ebro"
+          },
+          "coords": [
+            -2.931394,
+            42.692596
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Gehen Sie über das historische Gelände des ehemaligen Lagers, um seine Vergangenheit zu verstehen; buchen Sie im Voraus eine Führung für mehr Hintergrundwissen.",
+            "hu": "Sétáljon végig az egykori tábor történelmi területén, hogy megértse sötét múltját; az idegenvezetés több mélységet ad, ezért érdemes előre foglalni egyet.",
+            "ro": "Plimbă-te pe terenurile istorice ale fostului lagăr pentru a-i înțelege trecutul; tururile ghidate oferă mai multă profunzime, deci rezervă unul în avans.",
+            "en": "Walk through the historic grounds of the former camp to understand its dark past; guided tours often provide more depth, so book one in advance if possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am historischen La Picota, bevor Sie zum alten Castillo mit Blick auf den Fluss fahren. Mittags besuchen Sie die kulturell reiche Kirche San Nicolás de Bari. Der Nachmittag ist der feierlichen Reflexion im Museum und auf dem Gelände des Konzentrationslagers Miranda de Ebro gewidmet. Beenden Sie die Tour mit den historischen Echos der Stadt.",
+        "hu": "A festői autózás a történelmi La Picota-nál kezdődik, mielőtt a folyóra néző ősi Castillo-hoz indulna. Délben a kulturálisan gazdag San Nicolás de Bari templomhoz érkezik. A délután az ünnepélyes elmélkedés jegyében telik a Miranda de Ebro-i koncentrációs tábor múzeumában. Fejezze be az átfogó túrát a város történelmi visszhangjainak felelevenítésével.",
+        "ro": "Călătoria ta panoramică începe la istorica La Picota înainte de a continua spre vechiul Castillo cu vedere la râu. Prânzul te duce la biserica bogată cultural San Nicolás de Bari. După-amiaza trece la reflecție solemnă la muzeul și terenurile lagărului de concentrare Miranda de Ebro. Finalizează turul cuprinzător retrăind ecourile istorice ale orașului.",
+        "en": "Your scenic drive begins at the historic La Picota before proceeding to the ancient Castillo overlooking the river. Midday brings you to the culturally rich San Nicolás de Bari church in the center. The afternoon shifts to solemn reflection at the Miranda de Ebro concentration camp museum and grounds. Finish the comprehensive tour by retracing the historical echoes of the city."
+      }
+    }
+  }
+}

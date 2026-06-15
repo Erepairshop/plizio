@@ -1,0 +1,497 @@
+{
+  "city_id": "lieusaint",
+  "anchor": {
+    "name": "Lieusaint",
+    "coords": [
+      2.5486,
+      48.6322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lieusaint-Kanal",
+            "hu": "Lieusaint-csatorna",
+            "ro": "Canalul Lieusaint",
+            "en": "Lieusaint Canal"
+          },
+          "coords": [
+            2.544803,
+            48.635663
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang am Lieusaint-Kanal, um die lokale Tierwelt zu bewundern, und bringen Sie unbedingt Ihre Kamera für die Spiegelungen im Wasser mit.",
+            "hu": "Élvezze a békés sétát a Lieusaint-csatorna mentén a helyi élővilág megfigyeléséhez, és ne hagyja otthon a fényképezőgépét, hogy megörökítse a reggeli víztükröt.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul Canalului Lieusaint pentru a admira fauna locală și nu uitați aparatul foto pentru a surprinde reflexiile matinale pe apă.",
+            "en": "Enjoy a peaceful stroll along the Lieusaint Canal to admire local wildlife, and be sure to bring your camera for capturing the serene morning reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Haie Blanchard",
+            "hu": "La Haie Blanchard",
+            "ro": "La Haie Blanchard",
+            "en": "La Haie Blanchard"
+          },
+          "coords": [
+            2.551836,
+            48.646719
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das üppige Grün von La Haie Blanchard, einem perfekten Naturrefugium nahe der Stadt, und tragen Sie bequeme Schuhe, um die ruhigen Wege voll auszukosten.",
+            "hu": "Fedezze fel a La Haie Blanchard buja növényzetét, amely tökéletes természeti menedék a város közelében, és viseljen kényelmes cipőt a csendes ösvények bejárásához.",
+            "ro": "Descoperiți verdeața luxuriantă de la La Haie Blanchard, un refugiu natural perfect lângă oraș, și purtați încălțăminte comodă pentru a explora pe îndelete potecile liniștite.",
+            "en": "Discover the lush greenery of La Haie Blanchard, a perfect natural escape right near the city, and wear comfortable walking shoes to fully explore its tranquil pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Koezio",
+            "hu": "Koezio",
+            "ro": "Koezio",
+            "en": "Koezio"
+          },
+          "coords": [
+            2.542162,
+            48.621633
+          ],
+          "category": "family",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fordern Sie sich im Koezio bei interaktiven Teamspielen mit körperlichen und geistigen Aufgaben heraus; buchen Sie Ihre Sitzung am besten vorab für einen reibungslosen Start.",
+            "hu": "Tegye próbára magát a Koezio interaktív csapatjátékaival, amelyek fizikai és szellemi feladatokat ötvöznek, ezért érdemes korán érkezni és előre lefoglalni az időpontot.",
+            "ro": "Provocați-vă la Koezio cu jocuri de echipă interactive care îmbină sarcinile fizice cu cele mentale, așa că cel mai bine este să ajungeți devreme și să rezervați în avans.",
+            "en": "Challenge yourself at Koezio with interactive team games that blend physical and mental tasks, so it is best to arrive early and book your session in advance for a smooth start."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Sénart",
+            "hu": "Carré Sénart",
+            "ro": "Carré Sénart",
+            "en": "Carré Sénart"
+          },
+          "coords": [
+            2.540584,
+            48.616164
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Carré Sénart, um die lebendigen Erholungsräume und die moderne Architektur zu erleben, was es zum idealen Ort für einen schnellen Snack macht.",
+            "hu": "Tartson egy kis szünetet a Carré Sénart-ban, hogy élvezze az élettel teli közösségi tereket és a modern építészetet, ami ideális helyszín egy gyors, frissítő helyi falatozáshoz.",
+            "ro": "Luați o pauză la Carré Sénart pentru a experimenta spațiile sale de recreere și arhitectura modernă, fiind locul ideal pentru a savura o gustare locală rapidă în aer liber.",
+            "en": "Take a break at Carré Sénart to experience its vibrant recreational spaces and modern architecture, making it an ideal spot to grab a quick, refreshing local snack outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Sénart",
+            "hu": "Théâtre de Sénart",
+            "ro": "Théâtre de Sénart",
+            "en": "Théâtre de Sénart"
+          },
+          "coords": [
+            2.539776,
+            48.615394
+          ],
+          "category": "cultural",
+          "arrive_at": "15:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zeitgenössische Design des Théâtre de Sénart, einem kulturellen Zentrum für außergewöhnliche Aufführungen, und prüfen Sie frühzeitig den Spielplan.",
+            "hu": "Csodálja meg a Théâtre de Sénart kortárs dizájnját, amely a kivételes előadások kulturális központja, és időben ellenőrizze a műsort egy esti előadás megtekintéséhez.",
+            "ro": "Admirați designul contemporan al Théâtre de Sénart, un centru cultural pentru spectacole de excepție, și verificați din timp programul casei de bilete pentru o piesă seara.",
+            "en": "Marvel at the contemporary design of the Théâtre de Sénart, a cultural hub for exceptional performances, and check the box office schedule early to catch an evening show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit der Erkundung der ruhigen Wasserwege und Grünflächen im Norden von Lieusaint und atmen Sie die frische Morgenluft ein.\nGegen Mittag verlagert sich Ihr Ausflug zu den dynamischen Freizeitzentren, wo spannende Aktivitäten und moderne Erholungsräume auf Sie warten.\nVerbringen Sie den Nachmittag damit, durch die modernen zentralen Viertel zu schlendern, die Stadtplanung zu bewundern und an den Kanälen zu entspannen.\nBeenden Sie Ihre Reise in der Nähe des kulturellen Herzens der Stadt und lassen Sie die architektonische Brillanz des örtlichen Theaters auf sich wirken.",
+        "hu": "Kezdje a napot Lieusaint északi részének békés vízi útjainak és zöldterületeinek felfedezésével, magába szívva a friss reggeli levegőt.\nAhogy közeledik a dél, térjen át a dinamikus szabadidőközpontok felé, ahol izgalmas tevékenységek és modern kikapcsolódási lehetőségek várják.\nDélután sétáljon végig a központi, modern negyedeken, megcsodálva a várostervezést és megpihenve az integrált csatornák partján.\nZárja utazását a város kulturális szívének közelében, elmerülve a helyi színház építészeti szépségében, mielőtt élvezné a jól megérdemelt esti pihenést.",
+        "ro": "Începeți-vă ziua explorând căile navigabile liniștite și spațiile verzi din partea de nord a Lieusaint, respirând aerul proaspăt al dimineții.\nPe măsură ce se apropie amiaza, îndreptați-vă spre centrele de recreere dinamice, unde vă așteaptă activități captivante și spații moderne de agrement.\nPetreceți-vă după-amiaza plimbându-vă prin districtele centrale moderne, admirând urbanismul și relaxându-vă lângă canalele frumos integrate.\nÎncheiați-vă călătoria aproape de inima culturală a orașului, bucurându-vă de strălucirea arhitecturală a teatrului local înainte de odihna de seară.",
+        "en": "Start your day exploring the tranquil waterways and green spaces in the northern part of Lieusaint, breathing in the fresh morning air.\nAs midday approaches, transition towards the dynamic recreational centers where engaging activities and modern leisure spaces await you.\nSpend your afternoon wandering through the central modern districts, admiring the urban planning and relaxing by the integrated canals.\nConclude your journey near the city's cultural heart, soaking in the architectural brilliance of the local theater before enjoying a well-deserved evening rest."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:41",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "La Haie Blanchard",
+            "hu": "La Haie Blanchard",
+            "ro": "La Haie Blanchard",
+            "en": "La Haie Blanchard"
+          },
+          "coords": [
+            2.551836,
+            48.646719
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das üppige Grün von La Haie Blanchard, einem perfekten Naturrefugium nahe der Stadt, und tragen Sie bequeme Schuhe, um die ruhigen Wege voll auszukosten.",
+            "hu": "Fedezze fel a La Haie Blanchard buja növényzetét, amely tökéletes természeti menedék a város közelében, és viseljen kényelmes cipőt a csendes ösvények bejárásához.",
+            "ro": "Descoperiți verdeața luxuriantă de la La Haie Blanchard, un refugiu natural perfect lângă oraș, și purtați încălțăminte comodă pentru a explora pe îndelete potecile liniștite.",
+            "en": "Discover the lush greenery of La Haie Blanchard, a perfect natural escape right near the city, and wear comfortable walking shoes to fully explore its tranquil pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lieusaint-Kanal",
+            "hu": "Lieusaint-csatorna",
+            "ro": "Canalul Lieusaint",
+            "en": "Lieusaint Canal"
+          },
+          "coords": [
+            2.544803,
+            48.635663
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang am Lieusaint-Kanal, um die lokale Tierwelt zu bewundern, und bringen Sie unbedingt Ihre Kamera für die Spiegelungen im Wasser mit.",
+            "hu": "Élvezze a békés sétát a Lieusaint-csatorna mentén a helyi élővilág megfigyeléséhez, és ne hagyja otthon a fényképezőgépét, hogy megörökítse a reggeli víztükröt.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul Canalului Lieusaint pentru a admira fauna locală și nu uitați aparatul foto pentru a surprinde reflexiile matinale pe apă.",
+            "en": "Enjoy a peaceful stroll along the Lieusaint Canal to admire local wildlife, and be sure to bring your camera for capturing the serene morning reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Koezio",
+            "hu": "Koezio",
+            "ro": "Koezio",
+            "en": "Koezio"
+          },
+          "coords": [
+            2.542162,
+            48.621633
+          ],
+          "category": "family",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fordern Sie sich im Koezio bei interaktiven Teamspielen mit körperlichen und geistigen Aufgaben heraus; buchen Sie Ihre Sitzung am besten vorab für einen reibungslosen Start.",
+            "hu": "Tegye próbára magát a Koezio interaktív csapatjátékaival, amelyek fizikai és szellemi feladatokat ötvöznek, ezért érdemes korán érkezni és előre lefoglalni az időpontot.",
+            "ro": "Provocați-vă la Koezio cu jocuri de echipă interactive care îmbină sarcinile fizice cu cele mentale, așa că cel mai bine este să ajungeți devreme și să rezervați în avans.",
+            "en": "Challenge yourself at Koezio with interactive team games that blend physical and mental tasks, so it is best to arrive early and book your session in advance for a smooth start."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Sénart",
+            "hu": "Carré Sénart",
+            "ro": "Carré Sénart",
+            "en": "Carré Sénart"
+          },
+          "coords": [
+            2.540584,
+            48.616164
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Carré Sénart, um die lebendigen Erholungsräume und die moderne Architektur zu erleben, was es zum idealen Ort für einen schnellen Snack macht.",
+            "hu": "Tartson egy kis szünetet a Carré Sénart-ban, hogy élvezze az élettel teli közösségi tereket és a modern építészetet, ami ideális helyszín egy gyors, frissítő helyi falatozáshoz.",
+            "ro": "Luați o pauză la Carré Sénart pentru a experimenta spațiile sale de recreere și arhitectura modernă, fiind locul ideal pentru a savura o gustare locală rapidă în aer liber.",
+            "en": "Take a break at Carré Sénart to experience its vibrant recreational spaces and modern architecture, making it an ideal spot to grab a quick, refreshing local snack outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de la Ligne d'Eau",
+            "hu": "Canal de la Ligne d'Eau",
+            "ro": "Canal de la Ligne d'Eau",
+            "en": "Canal de la Ligne d'Eau"
+          },
+          "coords": [
+            2.535433,
+            48.61757
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Canal de la Ligne d'Eau, um die wunderschön integrierten städtischen Wasserwege zu schätzen, und suchen Sie sich eine gemütliche Bank an der Kreuzung.",
+            "hu": "Pihenjen meg a Canal de la Ligne d'Eau partján, hogy megcsodálja a szépen integrált városi vízi utakat, és keressen egy hangulatos padot a kereszteződés közelében.",
+            "ro": "Relaxați-vă la Canal de la Ligne d'Eau pentru a aprecia căile navigabile urbane frumos integrate și încercați să găsiți o bancă confortabilă aproape de intersecție.",
+            "en": "Relax by the Canal de la Ligne d'Eau to appreciate its beautifully integrated urban waterways, and try to find a cozy bench near the crossing to simply watch the world go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Fil de l'Eau",
+            "hu": "Canal du Fil de l'Eau",
+            "ro": "Canal du Fil de l'Eau",
+            "en": "Canal du Fil de l'Eau"
+          },
+          "coords": [
+            2.540614,
+            48.613014
+          ],
+          "category": "natural",
+          "arrive_at": "16:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Canal du Fil de l'Eau, um die harmonische Mischung aus Natur und moderner Stadtplanung zu sehen, am besten am späten Nachmittag für weiches Licht.",
+            "hu": "Sétáljon végig a Canal du Fil de l'Eau mentén, hogy tanúja legyen a természet és a modern várostervezés harmóniájának, és látogasson el késő délután a legszebb fényekért.",
+            "ro": "Plimbați-vă pe Canal du Fil de l'Eau pentru a asista la un amestec armonios între natură și urbanism modern și vizitați-l spre seară pentru a prinde cea mai blândă lumină.",
+            "en": "Walk along the Canal du Fil de l'Eau to witness a harmonious blend of nature and modern town planning, and visit during the late afternoon to catch the softest golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Sénart",
+            "hu": "Théâtre de Sénart",
+            "ro": "Théâtre de Sénart",
+            "en": "Théâtre de Sénart"
+          },
+          "coords": [
+            2.539776,
+            48.615394
+          ],
+          "category": "cultural",
+          "arrive_at": "17:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zeitgenössische Design des Théâtre de Sénart, einem kulturellen Zentrum für außergewöhnliche Aufführungen, und prüfen Sie frühzeitig den Spielplan.",
+            "hu": "Csodálja meg a Théâtre de Sénart kortárs dizájnját, amely a kivételes előadások kulturális központja, és időben ellenőrizze a műsort egy esti előadás megtekintéséhez.",
+            "ro": "Admirați designul contemporan al Théâtre de Sénart, un centru cultural pentru spectacole de excepție, și verificați din timp programul casei de bilete pentru o piesă seara.",
+            "en": "Marvel at the contemporary design of the Théâtre de Sénart, a cultural hub for exceptional performances, and check the box office schedule early to catch an evening show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit der Erkundung der ruhigen Wasserwege und Grünflächen im Norden von Lieusaint und atmen Sie die frische Morgenluft ein.\nGegen Mittag verlagert sich Ihr Ausflug zu den dynamischen Freizeitzentren, wo spannende Aktivitäten und moderne Erholungsräume auf Sie warten.\nVerbringen Sie den Nachmittag damit, durch die modernen zentralen Viertel zu schlendern, die Stadtplanung zu bewundern und an den Kanälen zu entspannen.\nBeenden Sie Ihre Reise in der Nähe des kulturellen Herzens der Stadt und lassen Sie die architektonische Brillanz des örtlichen Theaters auf sich wirken.",
+        "hu": "Kezdje a napot Lieusaint északi részének békés vízi útjainak és zöldterületeinek felfedezésével, magába szívva a friss reggeli levegőt.\nAhogy közeledik a dél, térjen át a dinamikus szabadidőközpontok felé, ahol izgalmas tevékenységek és modern kikapcsolódási lehetőségek várják.\nDélután sétáljon végig a központi, modern negyedeken, megcsodálva a várostervezést és megpihenve az integrált csatornák partján.\nZárja utazását a város kulturális szívének közelében, elmerülve a helyi színház építészeti szépségében, mielőtt élvezné a jól megérdemelt esti pihenést.",
+        "ro": "Începeți-vă ziua explorând căile navigabile liniștite și spațiile verzi din partea de nord a Lieusaint, respirând aerul proaspăt al dimineții.\nPe măsură ce se apropie amiaza, îndreptați-vă spre centrele de recreere dinamice, unde vă așteaptă activități captivante și spații moderne de agrement.\nPetreceți-vă după-amiaza plimbându-vă prin districtele centrale moderne, admirând urbanismul și relaxându-vă lângă canalele frumos integrate.\nÎncheiați-vă călătoria aproape de inima culturală a orașului, bucurându-vă de strălucirea arhitecturală a teatrului local înainte de odihna de seară.",
+        "en": "Start your day exploring the tranquil waterways and green spaces in the northern part of Lieusaint, breathing in the fresh morning air.\nAs midday approaches, transition towards the dynamic recreational centers where engaging activities and modern leisure spaces await you.\nSpend your afternoon wandering through the central modern districts, admiring the urban planning and relaxing by the integrated canals.\nConclude your journey near the city's cultural heart, soaking in the architectural brilliance of the local theater before enjoying a well-deserved evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 12.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ru de Balory Park",
+            "hu": "Ru de Balory Park",
+            "ro": "Parcul Ru de Balory",
+            "en": "Ru de Balory Park"
+          },
+          "coords": [
+            2.560006,
+            48.58292
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft im Ru de Balory Park ein, einer weitläufigen Grünanlage, die sich perfekt für die morgendliche Besinnung eignet, und folgen Sie dem Rundweg.",
+            "hu": "Szívja magába a friss levegőt a Ru de Balory Parkban, amely egy hatalmas zöldterület a reggeli elmélkedéshez, és kövesse a fő körkörös ösvényt a legszebb kilátásokért.",
+            "ro": "Respirați aerul proaspăt din Parcul Ru de Balory, o zonă verde extinsă perfectă pentru contemplarea matinală, și urmați traseul circular principal pentru cele mai pitorești priveliști.",
+            "en": "Breathe in the fresh air at Ru de Balory Park, an expansive green area perfect for morning contemplation, and follow the main circular trail for the most scenic viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Fecioarei",
+            "en": "Church of the Nativity of the Virgin"
+          },
+          "coords": [
+            2.493469,
+            48.600206
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Charme der Kirche Mariä Geburt mit ihren filigranen Steinmetzarbeiten und treten Sie respektvoll ein, um die bemerkenswert ruhige Atmosphäre zu erleben.",
+            "hu": "Csodálja meg a Szűz Mária Születése templom történelmi varázsát és finom kőművesmunkáit, majd lépjen be tiszteletteljesen, hogy megtapasztalja annak figyelemre méltó, csendes légkörét.",
+            "ro": "Admirați farmecul istoric al Bisericii Nașterea Fecioarei cu lucrările sale delicate în piatră și pășiți înăuntru cu respect pentru a experimenta atmosfera sa remarcabil de tăcută.",
+            "en": "Admire the historical charm of the Church of the Nativity of the Virgin with its delicate stonework, and step inside respectfully to experience its remarkable, quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Fil de l'Eau",
+            "hu": "Canal du Fil de l'Eau",
+            "ro": "Canal du Fil de l'Eau",
+            "en": "Canal du Fil de l'Eau"
+          },
+          "coords": [
+            2.540614,
+            48.613014
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Canal du Fil de l'Eau, um die harmonische Mischung aus Natur und moderner Stadtplanung zu sehen, am besten am späten Nachmittag für weiches Licht.",
+            "hu": "Sétáljon végig a Canal du Fil de l'Eau mentén, hogy tanúja legyen a természet és a modern várostervezés harmóniájának, és látogasson el késő délután a legszebb fényekért.",
+            "ro": "Plimbați-vă pe Canal du Fil de l'Eau pentru a asista la un amestec armonios între natură și urbanism modern și vizitați-l spre seară pentru a prinde cea mai blândă lumină.",
+            "en": "Walk along the Canal du Fil de l'Eau to witness a harmonious blend of nature and modern town planning, and visit during the late afternoon to catch the softest golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Sénart",
+            "hu": "Carré Sénart",
+            "ro": "Carré Sénart",
+            "en": "Carré Sénart"
+          },
+          "coords": [
+            2.540584,
+            48.616164
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Carré Sénart, um die lebendigen Erholungsräume und die moderne Architektur zu erleben, was es zum idealen Ort für einen schnellen Snack macht.",
+            "hu": "Tartson egy kis szünetet a Carré Sénart-ban, hogy élvezze az élettel teli közösségi tereket és a modern építészetet, ami ideális helyszín egy gyors, frissítő helyi falatozáshoz.",
+            "ro": "Luați o pauză la Carré Sénart pentru a experimenta spațiile sale de recreere și arhitectura modernă, fiind locul ideal pentru a savura o gustare locală rapidă în aer liber.",
+            "en": "Take a break at Carré Sénart to experience its vibrant recreational spaces and modern architecture, making it an ideal spot to grab a quick, refreshing local snack outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Sénart",
+            "hu": "Théâtre de Sénart",
+            "ro": "Théâtre de Sénart",
+            "en": "Théâtre de Sénart"
+          },
+          "coords": [
+            2.539776,
+            48.615394
+          ],
+          "category": "cultural",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zeitgenössische Design des Théâtre de Sénart, einem kulturellen Zentrum für außergewöhnliche Aufführungen, und prüfen Sie frühzeitig den Spielplan.",
+            "hu": "Csodálja meg a Théâtre de Sénart kortárs dizájnját, amely a kivételes előadások kulturális központja, és időben ellenőrizze a műsort egy esti előadás megtekintéséhez.",
+            "ro": "Admirați designul contemporan al Théâtre de Sénart, un centru cultural pentru spectacole de excepție, și verificați din timp programul casei de bilete pentru o piesă seara.",
+            "en": "Marvel at the contemporary design of the Théâtre de Sénart, a cultural hub for exceptional performances, and check the box office schedule early to catch an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Koezio",
+            "hu": "Koezio",
+            "ro": "Koezio",
+            "en": "Koezio"
+          },
+          "coords": [
+            2.542162,
+            48.621633
+          ],
+          "category": "family",
+          "arrive_at": "15:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fordern Sie sich im Koezio bei interaktiven Teamspielen mit körperlichen und geistigen Aufgaben heraus; buchen Sie Ihre Sitzung am besten vorab für einen reibungslosen Start.",
+            "hu": "Tegye próbára magát a Koezio interaktív csapatjátékaival, amelyek fizikai és szellemi feladatokat ötvöznek, ezért érdemes korán érkezni és előre lefoglalni az időpontot.",
+            "ro": "Provocați-vă la Koezio cu jocuri de echipă interactive care îmbină sarcinile fizice cu cele mentale, așa că cel mai bine este să ajungeți devreme și să rezervați în avans.",
+            "en": "Challenge yourself at Koezio with interactive team games that blend physical and mental tasks, so it is best to arrive early and book your session in advance for a smooth start."
+          }
+        },
+        {
+          "name": {
+            "de": "La Haie Blanchard",
+            "hu": "La Haie Blanchard",
+            "ro": "La Haie Blanchard",
+            "en": "La Haie Blanchard"
+          },
+          "coords": [
+            2.551836,
+            48.646719
+          ],
+          "category": "natural",
+          "arrive_at": "17:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das üppige Grün von La Haie Blanchard, einem perfekten Naturrefugium nahe der Stadt, und tragen Sie bequeme Schuhe, um die ruhigen Wege voll auszukosten.",
+            "hu": "Fedezze fel a La Haie Blanchard buja növényzetét, amely tökéletes természeti menedék a város közelében, és viseljen kényelmes cipőt a csendes ösvények bejárásához.",
+            "ro": "Descoperiți verdeața luxuriantă de la La Haie Blanchard, un refugiu natural perfect lângă oraș, și purtați încălțăminte comodă pentru a explora pe îndelete potecile liniștite.",
+            "en": "Discover the lush greenery of La Haie Blanchard, a perfect natural escape right near the city, and wear comfortable walking shoes to fully explore its tranquil pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit der Erkundung der ruhigen Wasserwege und Grünflächen im Norden von Lieusaint und atmen Sie die frische Morgenluft ein.\nGegen Mittag verlagert sich Ihr Ausflug zu den dynamischen Freizeitzentren, wo spannende Aktivitäten und moderne Erholungsräume auf Sie warten.\nVerbringen Sie den Nachmittag damit, durch die modernen zentralen Viertel zu schlendern, die Stadtplanung zu bewundern und an den Kanälen zu entspannen.\nBeenden Sie Ihre Reise in der Nähe des kulturellen Herzens der Stadt und lassen Sie die architektonische Brillanz des örtlichen Theaters auf sich wirken.",
+        "hu": "Kezdje a napot Lieusaint északi részének békés vízi útjainak és zöldterületeinek felfedezésével, magába szívva a friss reggeli levegőt.\nAhogy közeledik a dél, térjen át a dinamikus szabadidőközpontok felé, ahol izgalmas tevékenységek és modern kikapcsolódási lehetőségek várják.\nDélután sétáljon végig a központi, modern negyedeken, megcsodálva a várostervezést és megpihenve az integrált csatornák partján.\nZárja utazását a város kulturális szívének közelében, elmerülve a helyi színház építészeti szépségében, mielőtt élvezné a jól megérdemelt esti pihenést.",
+        "ro": "Începeți-vă ziua explorând căile navigabile liniștite și spațiile verzi din partea de nord a Lieusaint, respirând aerul proaspăt al dimineții.\nPe măsură ce se apropie amiaza, îndreptați-vă spre centrele de recreere dinamice, unde vă așteaptă activități captivante și spații moderne de agrement.\nPetreceți-vă după-amiaza plimbându-vă prin districtele centrale moderne, admirând urbanismul și relaxându-vă lângă canalele frumos integrate.\nÎncheiați-vă călătoria aproape de inima culturală a orașului, bucurându-vă de strălucirea arhitecturală a teatrului local înainte de odihna de seară.",
+        "en": "Start your day exploring the tranquil waterways and green spaces in the northern part of Lieusaint, breathing in the fresh morning air.\nAs midday approaches, transition towards the dynamic recreational centers where engaging activities and modern leisure spaces await you.\nSpend your afternoon wandering through the central modern districts, admiring the urban planning and relaxing by the integrated canals.\nConclude your journey near the city's cultural heart, soaking in the architectural brilliance of the local theater before enjoying a well-deserved evening rest."
+      }
+    }
+  }
+}

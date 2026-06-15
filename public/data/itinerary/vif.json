@@ -1,0 +1,474 @@
+{
+  "city_id": "vif",
+  "anchor": {
+    "name": "Vif",
+    "coords": [
+      5.67,
+      45.0553
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.21,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Vif",
+            "hu": "Vif Városháza",
+            "ro": "Primăria Vif",
+            "en": "Vif Town Hall"
+          },
+          "coords": [
+            5.669268,
+            45.056283
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses von Vif, ein stolzes Symbol der lokalen Stadtgeschichte, und besuchen Sie es morgens, um Menschenmassen zu vermeiden.",
+            "hu": "Csodálja meg a vifi városháza elegáns homlokzatát, a helyi polgári történelem büszke szimbólumát, és a tömeg elkerülése érdekében időzítse látogatását a reggeli órákra.",
+            "ro": "Admirați fațada elegantă a Primăriei din Vif, un simbol mândru al istoriei civice locale, și vizitați-o în orele dimineții pentru a evita aglomerația.",
+            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            5.670645,
+            45.055642
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
+            "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Champollion-Museum",
+            "hu": "Champollion Múzeum",
+            "ro": "Muzeul Champollion",
+            "en": "Champollion Museum"
+          },
+          "coords": [
+            5.669228,
+            45.053375
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
+            "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
+            "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikschule",
+            "hu": "Zeneiskola",
+            "ro": "Școala de muzică",
+            "en": "Music School"
+          },
+          "coords": [
+            5.668689,
+            45.058242
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige lokale Kultur in dieser aktiven Musikschule und schauen Sie am schwarzen Brett nach, ob kostenlose Abendvorstellungen stattfinden.",
+            "hu": "Fedezze fel a pezsgő helyi kultúrát ebben az aktív zeneiskolában, amely a feltörekvő művészek központja, és keresse az ingyenes esti előadásokról szóló hirdetéseket.",
+            "ro": "Descoperiți cultura locală vibrantă la această școală de muzică activă și verificați avizierul pentru a vedea dacă există spectacole gratuite de seară.",
+            "en": "Discover the vibrant local culture at this active music school, a hub for aspiring artists, and check the notice board outside for any free evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pieu",
+            "hu": "Le Pieu",
+            "ro": "Le Pieu",
+            "en": "Le Pieu"
+          },
+          "coords": [
+            5.640776,
+            45.052508
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
+            "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
+            "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum mit dem Rathaus und der friedlichen Kirche Saint-Jean-Baptiste. \nErkunden Sie mittags die erstklassige Geschichte im Champollion-Museum und entdecken Sie die Verbindungen zur Ägyptologie. \nVerbringen Sie den Nachmittag damit, lokale Kultur an der Musikschule zu erleben, bevor Sie etwas weiter wandern. \nBeenden Sie Ihre Tour am Abend mit einer Wanderung zum Le Pieu und genießen Sie den herrlichen Sonnenuntergang über den Alpen.",
+        "hu": "Kezdje a reggelt a történelmi városközpont felfedezésével, megcsodálva a városházát és a békés Keresztelő Szent János templomot. \nDélben merüljön el a világszínvonalú történelemben a Champollion Múzeumban, felfedezve az egyiptológiai kapcsolatokat. \nDélután szívja magába a helyi kultúrát a zeneiskolánál, mielőtt kissé eltávolodna a központtól. \nZárja a sétát egy esti túrával a Le Pieu felé, és gyönyörködjön a Francia-Alpok felett lemenő napban.",
+        "ro": "Începeți dimineața explorând centrul civic istoric, admirând Primăria și biserica senină Saint-Jean-Baptiste. \nLa prânz, pătrundeți în istoria la nivel mondial la Muzeul Champollion, descoperind legăturile surprinzătoare cu egiptologia. \nPetreceți după-amiaza bucurându-vă de cultura locală la școala de muzică înainte de a ieși din centru. \nÎncheiați turul de mers pe jos cu o drumeție de seară spre Le Pieu, bucurându-vă de un apus frumos peste Alpii Francezi.",
+        "en": "Start your morning exploring the historic civic center, marveling at the Town Hall and the serene Saint-Jean-Baptiste Church. \nBy midday, delve into world-class history at the Champollion Museum, discovering the region's surprising links to Egyptology. \nSpend your afternoon soaking up local culture near the music school before heading slightly out of the center. \nConclude your walking tour with an evening hike up to Le Pieu, enjoying a beautiful sunset over the French Alps."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Vif",
+            "hu": "Vif Városháza",
+            "ro": "Primăria Vif",
+            "en": "Vif Town Hall"
+          },
+          "coords": [
+            5.669268,
+            45.056283
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses von Vif, ein stolzes Symbol der lokalen Stadtgeschichte, und besuchen Sie es morgens, um Menschenmassen zu vermeiden.",
+            "hu": "Csodálja meg a vifi városháza elegáns homlokzatát, a helyi polgári történelem büszke szimbólumát, és a tömeg elkerülése érdekében időzítse látogatását a reggeli órákra.",
+            "ro": "Admirați fațada elegantă a Primăriei din Vif, un simbol mândru al istoriei civice locale, și vizitați-o în orele dimineții pentru a evita aglomerația.",
+            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            5.670645,
+            45.055642
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
+            "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Champollion-Museum",
+            "hu": "Champollion Múzeum",
+            "ro": "Muzeul Champollion",
+            "en": "Champollion Museum"
+          },
+          "coords": [
+            5.669228,
+            45.053375
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
+            "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
+            "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pieu",
+            "hu": "Le Pieu",
+            "ro": "Le Pieu",
+            "en": "Le Pieu"
+          },
+          "coords": [
+            5.640776,
+            45.052508
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
+            "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
+            "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Perrins",
+            "hu": "Les Perrins",
+            "ro": "Les Perrins",
+            "en": "Les Perrins"
+          },
+          "coords": [
+            5.640497,
+            45.040495
+          ],
+          "category": "historical",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historische Gegend von Les Perrins, um einen Blick in die ländliche Vergangenheit zu werfen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Barangoljon a Les Perrins történelmi területén, hogy bepillantást nyerjen a régió vidéki múltjába, és hozzon magával nagylátószögű objektívet a táj megörökítéséhez.",
+            "ro": "Plimbați-vă prin zona istorică Les Perrins pentru a vedea trecutul rural al regiunii și aduceți un obiectiv cu unghi larg pentru a surprinde peisajele locale.",
+            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine",
+            "hu": "Romok",
+            "ro": "Ruine",
+            "en": "Ruins"
+          },
+          "coords": [
+            5.69497,
+            45.056339
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden mittelalterlichen Ruinen, die eine greifbare Verbindung zur Vergangenheit bieten, und treten Sie vorsichtig auf, da einige Steine lose sind.",
+            "hu": "Vizsgálja meg ezeket a lenyűgöző középkori romokat, amelyek kézzelfogható kapcsolatot kínálnak a múlttal, és lépkedjen óvatosan, mivel néhány kő laza vagy mohás.",
+            "ro": "Investigați aceste ruine medievale fascinante care oferă o legătură tangibilă cu trecutul și pășiți cu grijă, deoarece unele pietre antice sunt libere sau acoperite de mușchi.",
+            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am Rathaus und der zentralen Kirche in der frischen Alpenluft. \nMittags tauchen Sie im Champollion-Museum in die faszinierenden Ausstellungen im Herzen von Vif ein. \nAm Nachmittag radeln Sie zum Le Pieu und dem historischen Gebiet von Les Perrins, um die weiten Landschaften zu erleben. \nBeenden Sie Ihre Fahrt am Abend bei der fesselnden alten Ruine in der ruhigen Atmosphäre der Dämmerung.",
+        "hu": "A kerékpáros kaland a városházánál és a központi templomnál kezdődik, élvezve a friss alpesi levegőt. \nDélben merüljön el a Vif szívében található Champollion Múzeum lenyűgöző kiállításaiban. \nDélután tekerjen ki a Le Pieu-hez és Les Perrins történelmi területéhez, hogy megtapasztalja a völgy szélesebb tájait. \nFejezze be az utat este a lenyűgöző ősi romok elérésével, a szürkület nyugodt légkörében.",
+        "ro": "Aventura dvs. pe bicicletă începe la Primărie și biserica centrală, bucurându-vă de aerul proaspăt alpin. \nLa prânz, explorați exponatele fascinante ale Muzeului Champollion, situat în inima orașului Vif. \nDupă-amiaza, pedalați spre Le Pieu și zona istorică Les Perrins pentru a vedea peisajele văii. \nÎncheiați călătoria seara ajungând la ruina antică captivantă, înconjurată de atmosfera liniștită a amurgului.",
+        "en": "Your biking adventure begins at the Town Hall and the beautiful central church, enjoying the crisp morning Alpine air. \nMidday brings a deep dive into the fascinating exhibits of the Champollion Museum, perfectly situated in the heart of Vif. \nIn the afternoon, pedal out to Le Pieu and the historical area of Les Perrins to experience the wider valley landscapes. \nFinish your ride in the evening by reaching the captivating ancient Ruine, surrounded by the tranquil atmosphere of twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 14.37,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            5.670645,
+            45.055642
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
+            "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Champollion-Museum",
+            "hu": "Champollion Múzeum",
+            "ro": "Muzeul Champollion",
+            "en": "Champollion Museum"
+          },
+          "coords": [
+            5.669228,
+            45.053375
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
+            "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
+            "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Paul",
+            "hu": "Szent Pál Templom",
+            "ro": "Biserica Saint-Paul",
+            "en": "Saint-Paul Church"
+          },
+          "coords": [
+            5.643123,
+            45.071419
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Schätzen Sie den ruhigen architektonischen Charme der Église Saint-Paul, ein verborgenes Juwel des lokalen Erbes, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
+            "hu": "Értékelje az Église Saint-Paul csendes építészeti varázsát, a helyi vallási örökség rejtett gyöngyszemét, és vigyen magával egy könnyű kabátot a hűvös belső tér miatt.",
+            "ro": "Apreciați farmecul arhitectural liniștit al Bisericii Saint-Paul, o bijuterie ascunsă a patrimoniului religios local, și aduceți o jachetă ușoară pentru interiorul răcoros.",
+            "en": "Appreciate the quiet architectural charm of Église Saint-Paul, a hidden gem of local religious heritage, and bring a light jacket as the stone interior remains quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Perrins",
+            "hu": "Les Perrins",
+            "ro": "Les Perrins",
+            "en": "Les Perrins"
+          },
+          "coords": [
+            5.640497,
+            45.040495
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historische Gegend von Les Perrins, um einen Blick in die ländliche Vergangenheit zu werfen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Barangoljon a Les Perrins történelmi területén, hogy bepillantást nyerjen a régió vidéki múltjába, és hozzon magával nagylátószögű objektívet a táj megörökítéséhez.",
+            "ro": "Plimbați-vă prin zona istorică Les Perrins pentru a vedea trecutul rural al regiunii și aduceți un obiectiv cu unghi larg pentru a surprinde peisajele locale.",
+            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pieu",
+            "hu": "Le Pieu",
+            "ro": "Le Pieu",
+            "en": "Le Pieu"
+          },
+          "coords": [
+            5.640776,
+            45.052508
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
+            "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
+            "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine",
+            "hu": "Romok",
+            "ro": "Ruine",
+            "en": "Ruins"
+          },
+          "coords": [
+            5.69497,
+            45.056339
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden mittelalterlichen Ruinen, die eine greifbare Verbindung zur Vergangenheit bieten, und treten Sie vorsichtig auf, da einige Steine lose sind.",
+            "hu": "Vizsgálja meg ezeket a lenyűgöző középkori romokat, amelyek kézzelfogható kapcsolatot kínálnak a múlttal, és lépkedjen óvatosan, mivel néhány kő laza vagy mohás.",
+            "ro": "Investigați aceste ruine medievale fascinante care oferă o legătură tangibilă cu trecutul și pășiți cu grijă, deoarece unele pietre antice sunt libere sau acoperite de mușchi.",
+            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schneepflug-Wahrzeichen",
+            "hu": "Hókotró Emlékmű",
+            "ro": "Plug de Zăpadă",
+            "en": "Snowplow Landmark"
+          },
+          "coords": [
+            5.705325,
+            45.045158
+          ],
+          "category": "landmark",
+          "arrive_at": "16:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses einzigartige Schneepflug-Wahrzeichen an, das die harte Winterrealität der Region unterstreicht, und parken Sie sicher abseits der Hauptstraße.",
+            "hu": "Tekintse meg ezt az egyedülálló hókotró-emlékművet, amely a régió zord téli valóságát jelképezi, és ügyeljen arra, hogy biztonságosan parkoljon le az út szélén.",
+            "ro": "Vedeți acest plug de zăpadă unic care subliniază realitatea iernilor aspre din regiune, având grijă să parcați în siguranță în afara drumului principal când opriți.",
+            "en": "See this unique snowplow landmark that highlights the region's harsh winter reality, taking care to park safely off the main road when you stop to take photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Autotag mit dem Besuch der Kirche Saint-Jean-Baptiste und des Champollion-Museums, bevor der Andrang beginnt. \nFahren Sie mittags zur ruhigen Église Saint-Paul und den historischen Überresten von Les Perrins auf malerischen Bergstraßen. \nVerbringen Sie den späten Nachmittag mit einer kurzen Wanderung um Le Pieu und erkunden Sie die alte Ruine im Osten. \nWenn der Abend hereinbricht, beenden Sie Ihre Reise am Wahrzeichen Déneigeur und lassen den Tag Revue passieren.",
+        "hu": "Kezdje az autós túrát a Keresztelő Szent János templom és a közeli Champollion Múzeum meglátogatásával a tömeg elkerülése végett. \nDélben vezessen el a békés Église Saint-Paul és Les Perrins történelmi maradványaihoz a festői hegyi utakon. \nA késő délutánt töltse egy rövid túrával a Le Pieu körül, és fedezze fel a keletre fekvő ősi romokat. \nEste zárja utazását az ikonikus hókotró emlékműnél, visszatekintve az alpesi felfedezésekkel teli napra.",
+        "ro": "Începeți ziua de condus vizitând Biserica Saint-Jean-Baptiste și Muzeul Champollion înainte de sosirea aglomerației. \nLa prânz, conduceți spre liniștita Biserică Saint-Paul și rămășițele istorice din Les Perrins pe drumurile montane pitorești. \nPetreceți după-amiaza făcând o scurtă drumeție în jurul Le Pieu și explorând ruina antică din est. \nSpre seară, încheiați-vă călătoria la emblematicul plug de zăpadă, reflectând la o zi plină de descoperiri.",
+        "en": "Kick off your driving day by visiting the central Saint-Jean-Baptiste Church and the nearby Champollion Museum before the crowds arrive. \nBy midday, drive out to the tranquil Église Saint-Paul and the historical remnants of Les Perrins, enjoying the scenic mountain roads. \nSpend the late afternoon taking a short hike around Le Pieu and exploring the sprawling ancient Ruine to the east. \nAs evening falls, wrap up your journey at the iconic Déneigeur landmark, reflecting on a day full of diverse Alpine discoveries."
+      }
+    }
+  }
+}

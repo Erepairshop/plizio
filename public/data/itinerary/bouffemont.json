@@ -1,0 +1,451 @@
+{
+  "city_id": "bouffemont",
+  "anchor": {
+    "name": "Bouffémont",
+    "coords": [
+      2.2992,
+      49.0433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.296047,
+            49.043751
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Kirche Saint-Georges, bevor Sie weiterreisen, und respektieren Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a Szent György-templom gyönyörű építészetét, mielőtt folytatná útját, és ügyeljen a benti csendes atmoszféra tiszteletben tartására.",
+            "ro": "Admirați arhitectura frumoasă a Bisericii Sfântul Gheorghe înainte de a vă continua călătoria și asigurați-vă că respectați atmosfera liniștită.",
+            "en": "Admire the beautiful architecture of Saint-Georges Church before continuing your journey, and make sure to respect the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Polierstein von Sainte-Radegonde",
+            "hu": "Sainte-Radegonde csiszolókő",
+            "ro": "Piatra de șlefuit Sainte-Radegonde",
+            "en": "Polissoir de Sainte-Radegonde"
+          },
+          "coords": [
+            2.286786,
+            49.033107
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden prähistorischen Polierstein im Wald und tragen Sie festes Schuhwerk, um das unebene Gelände zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti csiszolókövet az erdőben, és viseljen masszív túracipőt az egyenetlen terepen való biztonságos mozgáshoz.",
+            "ro": "Descoperiți această fascinantă piatră de șlefuit preistorică ascunsă în pădure și purtați încălțăminte de drumeție rezistentă pentru terenul denivelat.",
+            "en": "Discover this fascinating prehistoric polishing stone nestled in the woods, and wear sturdy walking shoes to navigate the somewhat uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Plumet-Turm",
+            "hu": "Plumet torony",
+            "ro": "Turnul Plumet",
+            "en": "Tour du Plumet"
+          },
+          "coords": [
+            2.279194,
+            49.026226
+          ],
+          "category": "tower",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Genießen Sie einen kurzen Halt an der Tour du Plumet, um sich die mittelalterliche Vergangenheit der Region vorzustellen, und machen Sie ein paar schöne Fotos.",
+            "hu": "Élvezze a rövid megállót a történelmi Tour du Plumet-nél, hogy elképzelje a régió középkori múltját, és szánjon időt néhány festői fotó készítésére.",
+            "ro": "Bucurați-vă de o scurtă oprire la istoricul Tour du Plumet pentru a vă imagina trecutul medieval al regiunii, făcând câteva fotografii pitorești.",
+            "en": "Enjoy a quick stop at the historic Tour du Plumet to imagine the region's medieval past, taking time to capture some scenic photos of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Biologisches Reservat Nid d'Aigle",
+            "hu": "Nid d'Aigle biológiai rezervátum",
+            "ro": "Rezervația Biologică Nid d'Aigle",
+            "en": "Nid d'Aigle Biological Reserve"
+          },
+          "coords": [
+            2.274864,
+            49.03647
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einzigartige lokale Artenvielfalt in diesem friedlichen Schutzgebiet, aber bleiben Sie strikt auf den markierten Wegen.",
+            "hu": "Figyelje meg az egyedülálló helyi biológiai sokféleséget ebben a rezervátumban, de maradjon a kijelölt utakon a törékeny tőzegláp védelme érdekében.",
+            "ro": "Observați biodiversitatea locală unică în această rezervație pașnică, dar rămâneți strict pe potecile marcate pentru a proteja ecosistemul fragil.",
+            "en": "Observe unique local biodiversity in this peaceful biological reserve, but stay strictly on the marked paths to protect the fragile peat bog ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            2.269171,
+            49.054077
+          ],
+          "category": "religious",
+          "arrive_at": "14:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Charme dieses religiösen Wahrzeichens zu schätzen, und prüfen Sie die Anschlagtafel auf Öffnungszeiten.",
+            "hu": "Szánjon egy percet e helyi vallási nevezetesség szerény varázsának értékelésére, és ellenőrizze a plébánia tábláján a szezonális nyitvatartást.",
+            "ro": "Alocați un moment pentru a aprecia farmecul modest al acestui reper religios local, verificând panoul parohiei pentru programul de vizitare sezonier.",
+            "en": "Take a moment to appreciate the modest charm of this local religious landmark, checking the parish board outside for any seasonal opening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang im Herzen von Bouffémont an der friedlichen Kirche Saint-Georges und sorgen so für einen ruhigen Start.\nAm Vormittag widmen wir uns den historischen Wurzeln der Stadt und wandern auf Waldwegen zum alten Polissoir de Sainte-Radegonde.\nNach dem Mittagessen geht die historische Reise zur Tour du Plumet weiter, gefolgt von der Natur in der biologischen Reserve Nid d'Aigle.\nWir beenden unsere Wanderung im Westen an der Église Saint-Nicolas, die einen ruhigen Moment der Reflexion vor der Heimreise bietet.",
+        "hu": "Sétánkat Bouffémont szívében, a békés Szent György-templomnál kezdjük, amely nyugodt alaphangot ad a napnak.\nDélelőtt a város történelmi gyökerei felé vesszük az irányt, erdei ösvényeken haladva, hogy felfedezzük az ősi Polissoir de Sainte-Radegonde-ot.\nEbéd után a történelmi utazás a Tour du Plumet felé folytatódik, majd a Nid d'Aigle biológiai rezervátum természetében merülünk el.\nNyugati irányban a Szent Miklós-templomnál zárjuk a túrát, amely csendes pillanatot nyújt a hazatérés előtt.",
+        "ro": "Începem plimbarea noastră în inima orașului Bouffémont la biserica pașnică Sfântul Gheorghe, stabilind un ton liniștit pentru zi.\nPână la mijlocul dimineții, ne îndreptăm spre rădăcinile istorice, mergând pe poteci de pădure pentru a descoperi vechiul Polissoir de Sainte-Radegonde.\nDupă prânz, călătoria istorică continuă la Tour du Plumet, urmată de o imersiune în natură la rezervația biologică Nid d'Aigle.\nÎncheiem drumeția în vest la Biserica Sfântul Nicolae, oferind un moment liniștit de reflecție înainte de a pleca.",
+        "en": "We start our walk in the heart of Bouffémont at the serene Saint-Georges Church, setting a peaceful tone for the day.\nBy mid-morning, we transition towards the town's historical roots, walking through forested trails to uncover the ancient Polissoir de Sainte-Radegonde.\nAfter lunch, the historical journey continues to the Tour du Plumet, followed by immersing ourselves in nature at the Nid d'Aigle biological reserve.\nWe conclude our day hike in the west at Église Saint-Nicolas, offering a quiet moment of reflection before heading home."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.296047,
+            49.043751
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Kirche Saint-Georges, bevor Sie weiterreisen, und respektieren Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a Szent György-templom gyönyörű építészetét, mielőtt folytatná útját, és ügyeljen a benti csendes atmoszféra tiszteletben tartására.",
+            "ro": "Admirați arhitectura frumoasă a Bisericii Sfântul Gheorghe înainte de a vă continua călătoria și asigurați-vă că respectați atmosfera liniștită.",
+            "en": "Admire the beautiful architecture of Saint-Georges Church before continuing your journey, and make sure to respect the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Martinskirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.299702,
+            49.062689
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese typische Pfarrkirche, um sich mit dem lokalen Erbe zu verbinden; kommen Sie am besten früh, um den Menschenmassen zu entgehen.",
+            "hu": "Látogassa meg ezt a jellegzetes plébániatemplomot, hogy megismerkedjen a helyi örökséggel, de érdemes korán érkezni a tömeg elkerülése érdekében.",
+            "ro": "Vizitați această biserică parohială tipică pentru a vă conecta cu patrimoniul local, deși este bine să sosiți devreme pentru a evita aglomerația.",
+            "en": "Visit this quintessential parish church to connect with the local heritage, though it is best to arrive early in the day to avoid any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiskeller",
+            "hu": "Jégverem",
+            "ro": "Ghețărie",
+            "en": "Ice House"
+          },
+          "coords": [
+            2.298462,
+            49.066142
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem alten Eiskeller mehr über die historische Lebensmittelkonservierung; eine Taschenlampe hilft, die tiefen Details zu erkennen.",
+            "hu": "Ismerje meg a történelmi élelmiszertartósítást ezen a régi jégverem helyszínen, ahová érdemes zseblámpát vinni a mélyebb szerkezeti részletekhez.",
+            "ro": "Învățați despre conservarea istorică a alimentelor la această veche ghețărie, unde o lanternă vă poate ajuta să vedeți detaliile structurale.",
+            "en": "Learn about historical food preservation at this old ice house site, where bringing a flashlight can help you see the deeper structural details clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            2.269171,
+            49.054077
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.53,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Charme dieses religiösen Wahrzeichens zu schätzen, und prüfen Sie die Anschlagtafel auf Öffnungszeiten.",
+            "hu": "Szánjon egy percet e helyi vallási nevezetesség szerény varázsának értékelésére, és ellenőrizze a plébánia tábláján a szezonális nyitvatartást.",
+            "ro": "Alocați un moment pentru a aprecia farmecul modest al acestui reper religios local, verificând panoul parohiei pentru programul de vizitare sezonier.",
+            "en": "Take a moment to appreciate the modest charm of this local religious landmark, checking the parish board outside for any seasonal opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Biologisches Reservat Nid d'Aigle",
+            "hu": "Nid d'Aigle biológiai rezervátum",
+            "ro": "Rezervația Biologică Nid d'Aigle",
+            "en": "Nid d'Aigle Biological Reserve"
+          },
+          "coords": [
+            2.274864,
+            49.03647
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einzigartige lokale Artenvielfalt in diesem friedlichen Schutzgebiet, aber bleiben Sie strikt auf den markierten Wegen.",
+            "hu": "Figyelje meg az egyedülálló helyi biológiai sokféleséget ebben a rezervátumban, de maradjon a kijelölt utakon a törékeny tőzegláp védelme érdekében.",
+            "ro": "Observați biodiversitatea locală unică în această rezervație pașnică, dar rămâneți strict pe potecile marcate pentru a proteja ecosistemul fragil.",
+            "en": "Observe unique local biodiversity in this peaceful biological reserve, but stay strictly on the marked paths to protect the fragile peat bog ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Polierstein von Sainte-Radegonde",
+            "hu": "Sainte-Radegonde csiszolókő",
+            "ro": "Piatra de șlefuit Sainte-Radegonde",
+            "en": "Polissoir de Sainte-Radegonde"
+          },
+          "coords": [
+            2.286786,
+            49.033107
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden prähistorischen Polierstein im Wald und tragen Sie festes Schuhwerk, um das unebene Gelände zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti csiszolókövet az erdőben, és viseljen masszív túracipőt az egyenetlen terepen való biztonságos mozgáshoz.",
+            "ro": "Descoperiți această fascinantă piatră de șlefuit preistorică ascunsă în pădure și purtați încălțăminte de drumeție rezistentă pentru terenul denivelat.",
+            "en": "Discover this fascinating prehistoric polishing stone nestled in the woods, and wear sturdy walking shoes to navigate the somewhat uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt an der Kirche Saint-Georges, wo wir uns aufwärmen und die zentrale architektonische Schönheit der Stadt genießen können.\nWenn wir nach Norden radeln, bringt uns die Route schnell zur Église Saint-Martin und dann zur faszinierenden alten Glacière.\nAm frühen Nachmittag radeln wir nach Westen zur Église Saint-Nicolas und fahren über malerische Straßen, bevor wir zum Schutzgebiet gelangen.\nDie Fahrt endet tief in den bewaldeten Wegen beim alten Polissoir de Sainte-Radegonde, ein perfekter, abgeschiedener Abschluss.",
+        "hu": "Kerékpáros utunk a Szent György-templomnál kezdődik, ahol bemelegítünk, miközben megcsodáljuk a város központi építészeti szépségeit.\nÉszak felé pedálozva az útvonal gyorsan elvisz minket a Szent Márton-templomhoz, majd a régi Glacière lenyűgöző történelmi helyszínéhez.\nKora délután nyugat felé kerékpározunk a Szent Miklós-templomhoz, festői utcákon haladva, mielőtt a biológiai rezervátum felé vennénk az irányt.\nAz utazás az erdős ösvényeken ér véget az ősi Polissoir de Sainte-Radegonde-nál, amely tökéletes befejezése az aktív napnak.",
+        "ro": "Călătoria noastră cu bicicleta începe la Biserica Sf. Gheorghe, permițându-ne să ne încălzim în timp ce admirăm frumusețea arhitecturală centrală.\nPedalând spre nord, traseul ne aduce rapid la Biserica Sfântul Martin și apoi la fascinantul sit istoric al vechii Glacière.\nDupă-amiaza devreme pedalăm spre vest, spre Biserica Sf. Nicolae, parcurgând străzi pitorești înainte de a ne îndrepta spre rezervația biologică.\nPlimbarea se termină adânc în potecile împădurite de la vechiul Polissoir de Sainte-Radegonde, un final perfect și retras al zilei.",
+        "en": "Our cycling journey kicks off at Saint-Georges Church, allowing us to warm up as we take in the town's central architectural beauty.\nPedaling north, the route brings us quickly to Église Saint-Martin and then to the fascinating historical site of the old Glacière.\nEarly afternoon sees us cycling west toward Église Saint-Nicolas, taking scenic residential roads before heading to the biological reserve.\nThe ride finishes deep in the wooded trails by the ancient Polissoir de Sainte-Radegonde, a perfect, secluded end to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 12.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wald von Montmorency",
+            "hu": "Montmorency-erdő",
+            "ro": "Pădurea Montmorency",
+            "en": "Montmorency Forest"
+          },
+          "coords": [
+            2.319635,
+            48.991065
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Naturspaziergang durch diesen weitläufigen Wald und achten Sie dabei auf die heimische Tierwelt.",
+            "hu": "Kezdje a reggelt egy frissítő sétával ezen a kiterjedt erdőn keresztül, figyelemmel kísérve a helyi vadvilágot, miközben a fő ösvényeken marad.",
+            "ro": "Începeți dimineața cu o plimbare revigorantă prin această pădure vastă, fiind atenți la fauna locală, dar rămânând pe traseele principale marcate.",
+            "en": "Start your morning with a refreshing nature walk through this expansive forest, keeping an eye out for local wildlife while sticking to the main trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plumet-Turm",
+            "hu": "Plumet torony",
+            "ro": "Turnul Plumet",
+            "en": "Tour du Plumet"
+          },
+          "coords": [
+            2.279194,
+            49.026226
+          ],
+          "category": "tower",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.88,
+          "tip_5lang": {
+            "de": "Genießen Sie einen kurzen Halt an der Tour du Plumet, um sich die mittelalterliche Vergangenheit der Region vorzustellen, und machen Sie ein paar schöne Fotos.",
+            "hu": "Élvezze a rövid megállót a történelmi Tour du Plumet-nél, hogy elképzelje a régió középkori múltját, és szánjon időt néhány festői fotó készítésére.",
+            "ro": "Bucurați-vă de o scurtă oprire la istoricul Tour du Plumet pentru a vă imagina trecutul medieval al regiunii, făcând câteva fotografii pitorești.",
+            "en": "Enjoy a quick stop at the historic Tour du Plumet to imagine the region's medieval past, taking time to capture some scenic photos of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Polierstein von Sainte-Radegonde",
+            "hu": "Sainte-Radegonde csiszolókő",
+            "ro": "Piatra de șlefuit Sainte-Radegonde",
+            "en": "Polissoir de Sainte-Radegonde"
+          },
+          "coords": [
+            2.286786,
+            49.033107
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden prähistorischen Polierstein im Wald und tragen Sie festes Schuhwerk, um das unebene Gelände zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti csiszolókövet az erdőben, és viseljen masszív túracipőt az egyenetlen terepen való biztonságos mozgáshoz.",
+            "ro": "Descoperiți această fascinantă piatră de șlefuit preistorică ascunsă în pădure și purtați încălțăminte de drumeție rezistentă pentru terenul denivelat.",
+            "en": "Discover this fascinating prehistoric polishing stone nestled in the woods, and wear sturdy walking shoes to navigate the somewhat uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.296047,
+            49.043751
+          ],
+          "category": "religious",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Kirche Saint-Georges, bevor Sie weiterreisen, und respektieren Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a Szent György-templom gyönyörű építészetét, mielőtt folytatná útját, és ügyeljen a benti csendes atmoszféra tiszteletben tartására.",
+            "ro": "Admirați arhitectura frumoasă a Bisericii Sfântul Gheorghe înainte de a vă continua călătoria și asigurați-vă că respectați atmosfera liniștită.",
+            "en": "Admire the beautiful architecture of Saint-Georges Church before continuing your journey, and make sure to respect the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de France",
+            "hu": "Notre-Dame de France",
+            "ro": "Notre-Dame de France",
+            "en": "Notre-Dame de France"
+          },
+          "coords": [
+            2.327644,
+            49.056653
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese markante historische Statue, die die lokale Landschaft dominiert und einen hervorragenden Aussichtspunkt für Panoramabilder bietet.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi szobrot, amely uralja a helyi tájat, és kiváló kilátópontot kínál a lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Admirați această statuie istorică impresionantă care domină peisajul local, oferind un punct de observație excelent pentru fotografii panoramice.",
+            "en": "Admire this striking historical statue that dominates the local landscape, offering an excellent vantage point for capturing sweeping panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiskeller",
+            "hu": "Jégverem",
+            "ro": "Ghețărie",
+            "en": "Ice House"
+          },
+          "coords": [
+            2.298462,
+            49.066142
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.37,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem alten Eiskeller mehr über die historische Lebensmittelkonservierung; eine Taschenlampe hilft, die tiefen Details zu erkennen.",
+            "hu": "Ismerje meg a történelmi élelmiszertartósítást ezen a régi jégverem helyszínen, ahová érdemes zseblámpát vinni a mélyebb szerkezeti részletekhez.",
+            "ro": "Învățați despre conservarea istorică a alimentelor la această veche ghețărie, unde o lanternă vă poate ajuta să vedeți detaliile structurale.",
+            "en": "Learn about historical food preservation at this old ice house site, where bringing a flashlight can help you see the deeper structural details clearly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere motorisierte Tour mit einem erfrischenden morgendlichen Halt im weitläufigen Wald von Montmorency für einen frühen Spaziergang.\nAus den tiefen Wäldern fahren wir zur mittelalterlichen Tour du Plumet und dem nahegelegenen prähistorischen Polierstein.\nMittags fahren wir zurück in Richtung Zentrum zur Kirche Saint-Georges, gefolgt von der majestätischen Statue Notre-Dame de France im Norden.\nUnser Roadtrip endet mit der Erkundung der alten Glacière, einem faszinierenden historischen Relikt, das als perfekter letzter Halt dient.",
+        "hu": "Motoros túránkat egy frissítő reggeli megállóval kezdjük a hatalmas Montmorency-erdőben, amely tökéletes egy korai sétához az indulás előtt.\nA sűrű erdőből a középkori Tour du Plumet és a közeli őskori csiszolókő felé hajtunk, összekapcsolódva az ősi történelemmel.\nDélben visszautazunk a központ felé a Szent György-templomhoz, majd északra a fenséges Notre-Dame de France szoborhoz látogatunk el.\nAutós kirándulásunk a régi Glacière felfedezésével zárul, egy lenyűgöző történelmi ereklyével, amely tökéletes utolsó állomása utunknak.",
+        "ro": "Începem turul nostru motorizat cu o oprire matinală revigorantă la vasta Pădure Montmorency, perfectă pentru o plimbare înainte de a porni.\nDin pădurea deasă, conducem spre medievalul Tour du Plumet și spre piatra de șlefuit preistorică din apropiere, conectându-ne cu istoria.\nLa prânz ne întoarcem spre centru pentru a vedea Biserica Sf. Gheorghe, urmată de maiestuoasa statuie Notre-Dame de France în nord.\nExcursia noastră se încheie cu explorarea vechii Glacière, o relicvă istorică fascinantă care servește ca o oprire finală perfectă.",
+        "en": "We start our motorized tour with a refreshing morning stop at the vast Montmorency Forest, perfect for an early walk before hitting the road.\nFrom the deep woods, we drive to the medieval Tour du Plumet and the nearby prehistoric polishing stone, connecting with ancient history.\nMidday involves driving back towards the center to see Saint-Georges Church, followed by the majestic Notre-Dame de France statue up north.\nOur road trip concludes by exploring the old Glacière, a fascinating historical relic that serves as the perfect final stop for our long itinerary."
+      }
+    }
+  }
+}

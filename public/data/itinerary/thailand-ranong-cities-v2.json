@@ -1,0 +1,520 @@
+{
+  "city_id": "thailand-ranong-cities-v2",
+  "anchor": {
+    "name": "Ranong",
+    "coords": [
+      98.635556,
+      9.966944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rattana Rangsarn Thronsaal",
+            "hu": "Rattana Rangsarn Trónterem",
+            "ro": "Sala Tronului Rattana Rangsarn",
+            "en": "Rattana Rangsarn Throne Hall"
+          },
+          "coords": [
+            98.636355,
+            9.965211
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Teakholzarchitektur dieser königlichen Nachbildung und tragen Sie leicht ausziehbare Schuhe, um den Innenraum bequem zu erkunden.",
+            "hu": "Csodálja meg a királyi palota másolatának kiváló tíkfa építészetét, és mindenképpen viseljen könnyen levehető cipőt a gyönyörű belső tér kényelmes felfedezéséhez.",
+            "ro": "Admirați arhitectura rafinată din lemn de tec a acestei replici regale și purtați încălțăminte ușor de scos pentru a explora confortabil interiorul frumos.",
+            "en": "Admire the exquisite teakwood architecture of this royal replica, and be sure to wear easily removable shoes to explore the beautiful interior comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtsäulen-Schrein",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Sanctuarul Pilonului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.640631,
+            9.962202
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem hochverehrten lokalen Schrein, der die Stadt schützt, Ihren Respekt, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
+            "hu": "Rójja le tiszteletét ennél a várost védő, nagyra becsült helyi szentélynél, de ne felejtsen el szerényen öltözködni és halkan beszélni az imák alatt.",
+            "ro": "Prezentați-vă omagiile la acest altar local venerat care protejează orașul, dar nu uitați să vă îmbrăcați modest și să păstrați liniștea în timpul rugăciunilor.",
+            "en": "Pay your respects at this highly revered local shrine that protects the city, but remember to dress modestly and keep your voice down during prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "San Chao Hai Lam",
+            "hu": "San Chao Hai Lam",
+            "ro": "San Chao Hai Lam",
+            "en": "San Chao Hai Lam"
+          },
+          "coords": [
+            98.63246,
+            9.96052
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften hainanesischen Schrein mit seinen komplizierten Drachenschnitzereien am besten früh am Tag, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt az élénk hainani szentélyt, amely bonyolult sárkányfaragványokat mutat be, és érkezzen korán, hogy teljes mértékben élvezhesse a békés légkört.",
+            "ro": "Explorați acest altar vibrant din Hainan care prezintă sculpturi complicate cu dragoni și vizitați devreme pentru a aprecia pe deplin atmosfera liniștită.",
+            "en": "Explore this vibrant Hainanese shrine showcasing intricate dragon carvings, and visit early in the day to fully appreciate the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Poomchanok Markt",
+            "hu": "Poomchanok Piac",
+            "ro": "Piața Poomchanok",
+            "en": "Poomchanok Market"
+          },
+          "coords": [
+            98.624091,
+            9.959389
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stöbern Sie auf diesem authentischen Gemeinschaftsmarkt durch eine Vielzahl lokaler Produkte und bringen Sie Kleingeld für einfachere Transaktionen mit.",
+            "hu": "Böngésszen a helyi termékek és napi cikkek széles választékában ezen az autentikus közösségi piacon, és hozzon aprópénzt a könnyebb fizetés érdekében.",
+            "ro": "Răsfoiți printr-o mare varietate de produse locale la această piață comunitară autentică și aduceți mărunțiș pentru tranzacții mai ușoare cu vânzătorii.",
+            "en": "Browse through a wide variety of local produce and daily goods at this authentic community market, and bring small change for easier transactions with vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Nacht-Lebensmittelmarkt",
+            "hu": "Éjszakai élelmiszerpiac",
+            "ro": "Piața de noapte cu alimente",
+            "en": "Night food market"
+          },
+          "coords": [
+            98.631827,
+            9.957799
+          ],
+          "category": "cultural",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die geschäftige kulinarische Szene dieses lebendigen Abendmarktes und probieren Sie unbedingt die lokalen südthailändischen Currys.",
+            "hu": "Merüljön el ennek a nyüzsgő esti piacnak a nyüzsgő kulináris világában, és mindenképpen kóstolja meg a helyi dél-thai curryket és a friss tengeri ételeket.",
+            "ro": "Cufundați-vă în scena culinară plină de viață a acestui târg de seară vibrant și asigurați-vă că gustați din curry-ul sudic thailandez și fructele de mare.",
+            "en": "Immerse yourself in the bustling culinary scene of this vibrant evening market, and be sure to try the local southern Thai curries and fresh seafood snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am majestätischen hölzernen Rattana Rangsarn Thronsaal, um königliche Geschichte zu entdecken. Mittags erkunden Sie das spirituelle Herz der Stadt am Stadtsäulenschrein und dem farbenfrohen San Chao Hai Lam. Am Nachmittag erleben Sie das authentische lokale Leben auf dem Poomchanok-Markt. Der Abend endet mit einer kulinarischen Reise auf dem Nachtmarkt.",
+        "hu": "Kezdje a reggelt a fenséges Rattana Rangsarn Trónteremben, ahol felfedezheti a királyi történelmet. Délben a város spirituális központjába, a Városi Oszlopszentélyhez és a színes San Chao Hai Lam-hoz látogat. A délután az autentikus helyi élet felfedezéséről szól a Poomchanok piacon. Az estét a nyüzsgő éjszakai piacon tett fantasztikus kulináris utazással zárhatja.",
+        "ro": "Începeți dimineața la majestuoasa Sală a Tronului Rattana Rangsarn pentru a descoperi istoria regală. La prânz, vizitați inima spirituală a orașului la Sanctuarul Pilonului și coloratul San Chao Hai Lam. După-amiaza vă aduce să descoperiți viața locală la Piața Poomchanok. Seara se încheie cu o fantastică călătorie culinară la piața de noapte plină de viață.",
+        "en": "Begin your morning at the majestic wooden Rattana Rangsarn Throne Hall to discover royal history. Midday takes you through the spiritual heart of the city at the revered City Pillar Shrine and the colorful San Chao Hai Lam. The afternoon involves discovering authentic local life at Poomchanok Market. Your evening concludes with a fantastic culinary journey at the bustling night market."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Suwan Khiri Wihan",
+            "hu": "Wat Suwan Khiri Wihan",
+            "ro": "Wat Suwan Khiri Wihan",
+            "en": "Wat Suwan Khiri Wihan"
+          },
+          "coords": [
+            98.638125,
+            9.979356
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen herrlichen Tempel mit seinem beeindruckenden goldenen Chedi und steigen Sie die Stufen langsam hinauf, um den Panoramablick zu genießen.",
+            "hu": "Látogasson el ebbe a csodálatos templomba az lenyűgöző arany cseki miatt, és mássza meg lassan a lépcsőket, hogy élvezze a környező zöld dombok panorámáját.",
+            "ro": "Vizitați acest templu magnific pentru a vedea impresionanta stupă aurie și urcați încet treptele pentru a vă bucura de vederile panoramice ale dealurilor.",
+            "en": "Visit this magnificent temple to see the impressive golden chedi, and climb the steps slowly to enjoy the panoramic views of the surrounding lush hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Rattana Rangsarn Thronsaal",
+            "hu": "Rattana Rangsarn Trónterem",
+            "ro": "Sala Tronului Rattana Rangsarn",
+            "en": "Rattana Rangsarn Throne Hall"
+          },
+          "coords": [
+            98.636355,
+            9.965211
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Teakholzarchitektur dieser königlichen Nachbildung und tragen Sie leicht ausziehbare Schuhe, um den Innenraum bequem zu erkunden.",
+            "hu": "Csodálja meg a királyi palota másolatának kiváló tíkfa építészetét, és mindenképpen viseljen könnyen levehető cipőt a gyönyörű belső tér kényelmes felfedezéséhez.",
+            "ro": "Admirați arhitectura rafinată din lemn de tec a acestei replici regale și purtați încălțăminte ușor de scos pentru a explora confortabil interiorul frumos.",
+            "en": "Admire the exquisite teakwood architecture of this royal replica, and be sure to wear easily removable shoes to explore the beautiful interior comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtsäulen-Schrein",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Sanctuarul Pilonului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.640631,
+            9.962202
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem hochverehrten lokalen Schrein, der die Stadt schützt, Ihren Respekt, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
+            "hu": "Rójja le tiszteletét ennél a várost védő, nagyra becsült helyi szentélynél, de ne felejtsen el szerényen öltözködni és halkan beszélni az imák alatt.",
+            "ro": "Prezentați-vă omagiile la acest altar local venerat care protejează orașul, dar nu uitați să vă îmbrăcați modest și să păstrați liniștea în timpul rugăciunilor.",
+            "en": "Pay your respects at this highly revered local shrine that protects the city, but remember to dress modestly and keep your voice down during prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Tabotharam",
+            "hu": "Wat Tabotharam",
+            "ro": "Wat Tabotharam",
+            "en": "Wat Tabotharam"
+          },
+          "coords": [
+            98.652582,
+            9.959179
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen friedlichen buddhistischen Tempel, der für seine heißen Quellen bekannt ist, und bringen Sie ein Handtuch mit, um die Füße zu baden.",
+            "hu": "Fedezze fel ezt a meleg vizű forrásairól ismert békés buddhista templomot, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a vízben.",
+            "ro": "Descoperiți acest templu budist pașnic cunoscut pentru izvoarele sale termale și aduceți un prosop mic dacă doriți să vă înmuiați picioarele în apele calde.",
+            "en": "Discover this peaceful Buddhist temple known for its hot springs, and bring a small towel if you wish to soak your feet in the warm, mineral-rich waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Phophuteuteparuk",
+            "hu": "Phophuteuteparuk",
+            "ro": "Phophuteuteparuk",
+            "en": "Phophuteuteparuk"
+          },
+          "coords": [
+            98.651079,
+            9.957513
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an dieser ruhigen religiösen Stätte mit traditionellen Motiven und bringen Sie eine Kamera mit, um die Atmosphäre einzufangen.",
+            "hu": "Szánjon egy percet a gondolkodásra ezen a hagyományos motívumokkal díszített nyugodt vallási helyen, és hozzon fényképezőgépet az autentikus hangulat megörökítéséhez.",
+            "ro": "Faceți-vă timp pentru reflecție la acest site religios senin decorat cu motive tradiționale și aduceți un aparat foto pentru a surprinde ambianța autentică.",
+            "en": "Take a moment to reflect at this serene local religious site adorned with traditional motifs, and bring a camera to capture the authentic spiritual ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "San Chao Hai Lam",
+            "hu": "San Chao Hai Lam",
+            "ro": "San Chao Hai Lam",
+            "en": "San Chao Hai Lam"
+          },
+          "coords": [
+            98.63246,
+            9.96052
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften hainanesischen Schrein mit seinen komplizierten Drachenschnitzereien am besten früh am Tag, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt az élénk hainani szentélyt, amely bonyolult sárkányfaragványokat mutat be, és érkezzen korán, hogy teljes mértékben élvezhesse a békés légkört.",
+            "ro": "Explorați acest altar vibrant din Hainan care prezintă sculpturi complicate cu dragoni și vizitați devreme pentru a aprecia pe deplin atmosfera liniștită.",
+            "en": "Explore this vibrant Hainanese shrine showcasing intricate dragon carvings, and visit early in the day to fully appreciate the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Nacht-Lebensmittelmarkt",
+            "hu": "Éjszakai élelmiszerpiac",
+            "ro": "Piața de noapte cu alimente",
+            "en": "Night food market"
+          },
+          "coords": [
+            98.631827,
+            9.957799
+          ],
+          "category": "cultural",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die geschäftige kulinarische Szene dieses lebendigen Abendmarktes und probieren Sie unbedingt die lokalen südthailändischen Currys.",
+            "hu": "Merüljön el ennek a nyüzsgő esti piacnak a nyüzsgő kulináris világában, és mindenképpen kóstolja meg a helyi dél-thai curryket és a friss tengeri ételeket.",
+            "ro": "Cufundați-vă în scena culinară plină de viață a acestui târg de seară vibrant și asigurați-vă că gustați din curry-ul sudic thailandez și fructele de mare.",
+            "en": "Immerse yourself in the bustling culinary scene of this vibrant evening market, and be sure to try the local southern Thai curries and fresh seafood snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den goldenen Türmen des Wat Suwan Khiri Wihan, bevor Sie zum hölzernen Thronsaal radeln. Mittags besichtigen Sie die zentralen Schreine und die entspannenden heißen Quellen von Wat Tabotharam. Nachmittagsfahrten führen zu ruhigen Tempeln wie Phophuteuteparuk. Der Abend belohnt Ihre Bemühungen mit einem Festmahl auf dem lokalen Nachtmarkt.",
+        "hu": "A reggel a Wat Suwan Khiri Wihan arany tornyaival kezdődik, majd délre biciklizik a fa trónteremhez. A dél magában foglalja a központi szentélyeket és a Wat Tabotharam pihentető melegvizű forrásait. A délutáni utazások nyugodt templomokhoz, például a Phophuteuteparukhoz vezetnek. Az este a híres éjszakai piacon elfogyasztott lakomával jutalmazza meg a kerékpározást.",
+        "ro": "Dimineața începe cu turlele aurii de la Wat Suwan Khiri Wihan înainte de a pedala spre sud către Sala Tronului. La prânz acoperiți altarele centrale și izvoarele termale de la Wat Tabotharam. Plimbările de după-amiază vă ghidează către temple senine precum Phophuteuteparuk. Seara vă răsplătește eforturile de ciclism cu un ospăț la celebra piață de noapte.",
+        "en": "Morning begins with the golden spires of Wat Suwan Khiri Wihan before riding south to the beautiful wooden Throne Hall. Midday covers the central city shrines and the relaxing hot spring grounds of Wat Tabotharam. Afternoon rides guide you to serene temples like Phophuteuteparuk. The evening rewards your cycling efforts with an absolute feast at the famous local night market."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 7.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Suwan Khiri Wihan",
+            "hu": "Wat Suwan Khiri Wihan",
+            "ro": "Wat Suwan Khiri Wihan",
+            "en": "Wat Suwan Khiri Wihan"
+          },
+          "coords": [
+            98.638125,
+            9.979356
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen herrlichen Tempel mit seinem beeindruckenden goldenen Chedi und steigen Sie die Stufen langsam hinauf, um den Panoramablick zu genießen.",
+            "hu": "Látogasson el ebbe a csodálatos templomba az lenyűgöző arany cseki miatt, és mássza meg lassan a lépcsőket, hogy élvezze a környező zöld dombok panorámáját.",
+            "ro": "Vizitați acest templu magnific pentru a vedea impresionanta stupă aurie și urcați încet treptele pentru a vă bucura de vederile panoramice ale dealurilor.",
+            "en": "Visit this magnificent temple to see the impressive golden chedi, and climb the steps slowly to enjoy the panoramic views of the surrounding lush hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Rattana Rangsarn Thronsaal",
+            "hu": "Rattana Rangsarn Trónterem",
+            "ro": "Sala Tronului Rattana Rangsarn",
+            "en": "Rattana Rangsarn Throne Hall"
+          },
+          "coords": [
+            98.636355,
+            9.965211
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Teakholzarchitektur dieser königlichen Nachbildung und tragen Sie leicht ausziehbare Schuhe, um den Innenraum bequem zu erkunden.",
+            "hu": "Csodálja meg a királyi palota másolatának kiváló tíkfa építészetét, és mindenképpen viseljen könnyen levehető cipőt a gyönyörű belső tér kényelmes felfedezéséhez.",
+            "ro": "Admirați arhitectura rafinată din lemn de tec a acestei replici regale și purtați încălțăminte ușor de scos pentru a explora confortabil interiorul frumos.",
+            "en": "Admire the exquisite teakwood architecture of this royal replica, and be sure to wear easily removable shoes to explore the beautiful interior comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtsäulen-Schrein",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Sanctuarul Pilonului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.640631,
+            9.962202
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem hochverehrten lokalen Schrein, der die Stadt schützt, Ihren Respekt, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
+            "hu": "Rójja le tiszteletét ennél a várost védő, nagyra becsült helyi szentélynél, de ne felejtsen el szerényen öltözködni és halkan beszélni az imák alatt.",
+            "ro": "Prezentați-vă omagiile la acest altar local venerat care protejează orașul, dar nu uitați să vă îmbrăcați modest și să păstrați liniștea în timpul rugăciunilor.",
+            "en": "Pay your respects at this highly revered local shrine that protects the city, but remember to dress modestly and keep your voice down during prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Tabotharam",
+            "hu": "Wat Tabotharam",
+            "ro": "Wat Tabotharam",
+            "en": "Wat Tabotharam"
+          },
+          "coords": [
+            98.652582,
+            9.959179
+          ],
+          "category": "landmark",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen friedlichen buddhistischen Tempel, der für seine heißen Quellen bekannt ist, und bringen Sie ein Handtuch mit, um die Füße zu baden.",
+            "hu": "Fedezze fel ezt a meleg vizű forrásairól ismert békés buddhista templomot, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a vízben.",
+            "ro": "Descoperiți acest templu budist pașnic cunoscut pentru izvoarele sale termale și aduceți un prosop mic dacă doriți să vă înmuiați picioarele în apele calde.",
+            "en": "Discover this peaceful Buddhist temple known for its hot springs, and bring a small towel if you wish to soak your feet in the warm, mineral-rich waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Phophuteuteparuk",
+            "hu": "Phophuteuteparuk",
+            "ro": "Phophuteuteparuk",
+            "en": "Phophuteuteparuk"
+          },
+          "coords": [
+            98.651079,
+            9.957513
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an dieser ruhigen religiösen Stätte mit traditionellen Motiven und bringen Sie eine Kamera mit, um die Atmosphäre einzufangen.",
+            "hu": "Szánjon egy percet a gondolkodásra ezen a hagyományos motívumokkal díszített nyugodt vallási helyen, és hozzon fényképezőgépet az autentikus hangulat megörökítéséhez.",
+            "ro": "Faceți-vă timp pentru reflecție la acest site religios senin decorat cu motive tradiționale și aduceți un aparat foto pentru a surprinde ambianța autentică.",
+            "en": "Take a moment to reflect at this serene local religious site adorned with traditional motifs, and bring a camera to capture the authentic spiritual ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Poomchanok Markt",
+            "hu": "Poomchanok Piac",
+            "ro": "Piața Poomchanok",
+            "en": "Poomchanok Market"
+          },
+          "coords": [
+            98.624091,
+            9.959389
+          ],
+          "category": "cultural",
+          "arrive_at": "14:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stöbern Sie auf diesem authentischen Gemeinschaftsmarkt durch eine Vielzahl lokaler Produkte und bringen Sie Kleingeld für einfachere Transaktionen mit.",
+            "hu": "Böngésszen a helyi termékek és napi cikkek széles választékában ezen az autentikus közösségi piacon, és hozzon aprópénzt a könnyebb fizetés érdekében.",
+            "ro": "Răsfoiți printr-o mare varietate de produse locale la această piață comunitară autentică și aduceți mărunțiș pentru tranzacții mai ușoare cu vânzătorii.",
+            "en": "Browse through a wide variety of local produce and daily goods at this authentic community market, and bring small change for easier transactions with vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "San Chao Hai Lam",
+            "hu": "San Chao Hai Lam",
+            "ro": "San Chao Hai Lam",
+            "en": "San Chao Hai Lam"
+          },
+          "coords": [
+            98.63246,
+            9.96052
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften hainanesischen Schrein mit seinen komplizierten Drachenschnitzereien am besten früh am Tag, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt az élénk hainani szentélyt, amely bonyolult sárkányfaragványokat mutat be, és érkezzen korán, hogy teljes mértékben élvezhesse a békés légkört.",
+            "ro": "Explorați acest altar vibrant din Hainan care prezintă sculpturi complicate cu dragoni și vizitați devreme pentru a aprecia pe deplin atmosfera liniștită.",
+            "en": "Explore this vibrant Hainanese shrine showcasing intricate dragon carvings, and visit early in the day to fully appreciate the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Nacht-Lebensmittelmarkt",
+            "hu": "Éjszakai élelmiszerpiac",
+            "ro": "Piața de noapte cu alimente",
+            "en": "Night food market"
+          },
+          "coords": [
+            98.631827,
+            9.957799
+          ],
+          "category": "cultural",
+          "arrive_at": "15:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die geschäftige kulinarische Szene dieses lebendigen Abendmarktes und probieren Sie unbedingt die lokalen südthailändischen Currys.",
+            "hu": "Merüljön el ennek a nyüzsgő esti piacnak a nyüzsgő kulináris világában, és mindenképpen kóstolja meg a helyi dél-thai curryket és a friss tengeri ételeket.",
+            "ro": "Cufundați-vă în scena culinară plină de viață a acestui târg de seară vibrant și asigurați-vă că gustați din curry-ul sudic thailandez și fructele de mare.",
+            "en": "Immerse yourself in the bustling culinary scene of this vibrant evening market, and be sure to try the local southern Thai curries and fresh seafood snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen bietet eine reibungslose Fahrt vom großen Wat Suwan Khiri Wihan zum zentralen Rattana Rangsarn. Die Mittagszeit umfasst Besuche der Stadtsäule und einen Ausflug zu den heißen Quellen von Wat Tabotharam. Der Nachmittag führt durch geschäftige lokale Märkte und hainanesische Kulturerbestätten. Ihr Abend gipfelt in einem lebhaften Abendessen auf dem Nachtmarkt.",
+        "hu": "A reggel zökkenőmentes vezetést kínál a hatalmas Wat Suwan Khiri Wihantól a központi Rattana Rangsarnig. A dél magában foglalja a Városi Oszlop meglátogatását és egy rövid keleti utazást a Wat Tabotharam melegvizű forrásaihoz. A délután folyamán nyüzsgő piacokon és hainani örökségi helyszíneken halad át. Az este a nyüzsgő éjszakai piacon elfogyasztott vacsorával tetőzik.",
+        "ro": "Dimineața vă oferă un drum liniștit de la grandiosul Wat Suwan Khiri Wihan la centrul Rattana Rangsarn. Prânzul cuprinde vizite la Pilonul Orașului și o excursie rapidă spre est până la izvoarele termale Wat Tabotharam. După-amiaza implică condusul înapoi prin piețe locale și locuri de patrimoniu din Hainan. Seara culminează cu o cină vibrantă la piața de noapte.",
+        "en": "Your morning offers a seamless drive from the grand Wat Suwan Khiri Wihan to the central Rattana Rangsarn. Midday encompasses visits to the City Pillar and a quick trip eastward to the hot springs of Wat Tabotharam. The afternoon involves driving back through bustling local markets and Hainanese heritage spots. Your evening culminates in a vibrant dinner at the night food market."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "le-teil",
+  "anchor": {
+    "name": "Le Teil",
+    "coords": [
+      4.6822,
+      44.5453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc du Joncas",
+            "hu": "Parc du Joncas",
+            "ro": "Parc du Joncas",
+            "en": "Parc du Joncas"
+          },
+          "coords": [
+            4.681246,
+            44.552791
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang durch diese grüne Oase, die Kindern einen sicheren Spielplatz bietet, aber bringen Sie eigenes Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Tegyen egy kényelmes sétát ebben a zöld oázisban, amely biztonságos játszóteret kínál a gyerekeknek, de hozzon magával vizet, mivel a felszereltség korlátozott.",
+            "ro": "Faceți o plimbare relaxantă prin această oază verde, ideală pentru copii, dar aduceți-vă propria apă, deoarece facilitățile sunt destul de limitate.",
+            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Teil",
+            "hu": "Pont du Teil",
+            "ro": "Pont du Teil",
+            "en": "Pont du Teil"
+          },
+          "coords": [
+            4.68769,
+            44.55361
+          ],
+          "category": "civic",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Brücke über den Rhein und fotografieren Sie vom Fußgängerweg aus, um die beste Aussicht ohne Verkehr zu genießen.",
+            "hu": "Csodálja meg a hatalmas Rhône-t átívelő híd robusztus építészetét, és mindenképpen a gyalogos sávról fotózzon a legjobb, forgalommentes kilátás érdekében.",
+            "ro": "Admirați arhitectura robustă a acestui pod peste Ron și asigurați-vă că fotografiați de pe calea pietonală pentru cele mai bune unghiuri, departe de trafic.",
+            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Résistance en Ardèche",
+            "hu": "Musée de la Résistance en Ardèche",
+            "ro": "Musée de la Résistance en Ardèche",
+            "en": "Musée de la Résistance en Ardèche"
+          },
+          "coords": [
+            4.679322,
+            44.5446
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
+            "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
+            "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            4.67213,
+            44.542944
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
+            "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
+            "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Ouvrière Lafarge",
+            "hu": "Cité Ouvrière Lafarge",
+            "ro": "Cité Ouvrière Lafarge",
+            "en": "Cité Ouvrière Lafarge"
+          },
+          "coords": [
+            4.689832,
+            44.520983
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Parc du Joncas für einen entspannten Spaziergang und sehen Sie dann den Pont du Teil am Rhein. Mittags tauchen Sie im Widerstandsmuseum in die Geschichte ein. Nachmittags besuchen Sie die historische Église Saint-Étienne, bevor Sie abends das faszinierende industrielle Erbe der Cité Ouvrière Lafarge erkunden.",
+        "hu": "Kezdje a reggelt a Parc du Joncas-ban egy pihentető sétával, majd csodálja meg a Rhône felett átívelő Pont du Teil-t. Délben ismerje meg a helyi ellenállás történetét a múzeumban. Délután látogassa meg a történelmi Église Saint-Étienne templomot, este pedig fedezze fel a Cité Ouvrière Lafarge lenyűgöző ipari örökségét.",
+        "ro": "Începeți dimineața în Parc du Joncas pentru o plimbare relaxantă, urmată de emblematicul Pont du Teil peste Ron. La prânz, aprofundați istoria rezistenței locale la muzeu. După-amiaza vizitați istorica Église Saint-Étienne, înainte de a explora seara fascinanta moștenire industrială a Cité Ouvrière Lafarge.",
+        "en": "Begin your morning at Parc du Joncas for a relaxing stroll, followed by the iconic Pont du Teil overlooking the Rhône. At midday, dive into profound regional history at the resistance museum. The afternoon takes you to the historic Église Saint-Étienne, before an evening walk to explore the fascinating industrial heritage of Cité Ouvrière Lafarge."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont du Teil",
+            "hu": "Pont du Teil",
+            "ro": "Pont du Teil",
+            "en": "Pont du Teil"
+          },
+          "coords": [
+            4.68769,
+            44.55361
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Brücke über den Rhein und fotografieren Sie vom Fußgängerweg aus, um die beste Aussicht ohne Verkehr zu genießen.",
+            "hu": "Csodálja meg a hatalmas Rhône-t átívelő híd robusztus építészetét, és mindenképpen a gyalogos sávról fotózzon a legjobb, forgalommentes kilátás érdekében.",
+            "ro": "Admirați arhitectura robustă a acestui pod peste Ron și asigurați-vă că fotografiați de pe calea pietonală pentru cele mai bune unghiuri, departe de trafic.",
+            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Joncas",
+            "hu": "Parc du Joncas",
+            "ro": "Parc du Joncas",
+            "en": "Parc du Joncas"
+          },
+          "coords": [
+            4.681246,
+            44.552791
+          ],
+          "category": "family",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang durch diese grüne Oase, die Kindern einen sicheren Spielplatz bietet, aber bringen Sie eigenes Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Tegyen egy kényelmes sétát ebben a zöld oázisban, amely biztonságos játszóteret kínál a gyerekeknek, de hozzon magával vizet, mivel a felszereltség korlátozott.",
+            "ro": "Faceți o plimbare relaxantă prin această oază verde, ideală pentru copii, dar aduceți-vă propria apă, deoarece facilitățile sunt destul de limitate.",
+            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Résistance en Ardèche",
+            "hu": "Musée de la Résistance en Ardèche",
+            "ro": "Musée de la Résistance en Ardèche",
+            "en": "Musée de la Résistance en Ardèche"
+          },
+          "coords": [
+            4.679322,
+            44.5446
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
+            "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
+            "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            4.67213,
+            44.542944
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
+            "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
+            "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Ouvrière Lafarge",
+            "hu": "Cité Ouvrière Lafarge",
+            "ro": "Cité Ouvrière Lafarge",
+            "en": "Cité Ouvrière Lafarge"
+          },
+          "coords": [
+            4.689832,
+            44.520983
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Camuse",
+            "hu": "Lac de la Camuse",
+            "ro": "Lac de la Camuse",
+            "en": "Lac de la Camuse"
+          },
+          "coords": [
+            4.694172,
+            44.504419
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur dieses Sees bei einem Picknick und bringen Sie Insektenschutzmittel mit, wenn Sie bis in die späten Nachmittagsstunden bleiben möchten.",
+            "hu": "Élvezze a tó békés természeti környezetét, amely tökéletes egy piknikhez, de hozzon szúnyogriasztót, ha a késő délutáni órákig tervez maradni a vízparton.",
+            "ro": "Bucurați-vă de mediul natural liniștit al acestui lac, perfect pentru un picnic, și aduceți spray contra țânțarilor dacă plănuiți să stați până târziu.",
+            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens am Pont du Teil los und entspannen Sie im Parc du Joncas. Mittags erfahren Sie im Widerstandsmuseum bewegende Kriegsgeschichten. Den Nachmittag verbringen Sie an der Église Saint-Étienne und der Cité Ouvrière Lafarge. Beenden Sie Ihre Tour am ruhigen Lac de la Camuse.",
+        "hu": "Tekerjen ki a Pont du Teil-től, majd pihenjen a Parc du Joncas-ban a délelőtt folyamán. Délben a helyi ellenállási múzeum háborús történeteivel ismerkedhet. Délután csodálja meg az Église Saint-Étienne-t és a Cité Ouvrière Lafarge-t, végül a Lac de la Camuse csendes partján fejezze be a túrát.",
+        "ro": "Pedalați de la Pont du Teil și relaxați-vă dimineața în Parc du Joncas. La prânz, descoperiți povești emoționante de război la muzeul rezistenței. Petreceți după-amiaza la Église Saint-Étienne și Cité Ouvrière Lafarge, încheind ziua pe malul liniștit al Lac de la Camuse.",
+        "en": "Pedal out from Pont du Teil enjoying the morning breeze before relaxing at Parc du Joncas. By noon, delve into moving wartime stories at the local resistance museum. Spend the afternoon admiring Église Saint-Étienne and the unique Cité Ouvrière Lafarge. Conclude your ride at Lac de la Camuse, a perfect spot to unwind and reflect by the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 12.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Résistance en Ardèche",
+            "hu": "Musée de la Résistance en Ardèche",
+            "ro": "Musée de la Résistance en Ardèche",
+            "en": "Musée de la Résistance en Ardèche"
+          },
+          "coords": [
+            4.679322,
+            44.5446
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
+            "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
+            "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            4.67213,
+            44.542944
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
+            "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
+            "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Ouvrière Lafarge",
+            "hu": "Cité Ouvrière Lafarge",
+            "ro": "Cité Ouvrière Lafarge",
+            "en": "Cité Ouvrière Lafarge"
+          },
+          "coords": [
+            4.689832,
+            44.520983
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Camuse",
+            "hu": "Lac de la Camuse",
+            "ro": "Lac de la Camuse",
+            "en": "Lac de la Camuse"
+          },
+          "coords": [
+            4.694172,
+            44.504419
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur dieses Sees bei einem Picknick und bringen Sie Insektenschutzmittel mit, wenn Sie bis in die späten Nachmittagsstunden bleiben möchten.",
+            "hu": "Élvezze a tó békés természeti környezetét, amely tökéletes egy piknikhez, de hozzon szúnyogriasztót, ha a késő délutáni órákig tervez maradni a vízparton.",
+            "ro": "Bucurați-vă de mediul natural liniștit al acestui lac, perfect pentru un picnic, și aduceți spray contra țânțarilor dacă plănuiți să stați până târziu.",
+            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Gournier",
+            "hu": "Lac de Gournier",
+            "ro": "Lac de Gournier",
+            "en": "Lac de Gournier"
+          },
+          "coords": [
+            4.733556,
+            44.532577
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die schönen Spiegelungen auf dem Wasser an diesem abgelegenen Ort und packen Sie eine leichte Jacke ein, da der Wind hier unerwartet auffrischen kann.",
+            "hu": "Gyönyörködjön a víztükör csodás visszatükröződéseiben ezen az eldugott helyen, és hozzon magával egy könnyű kabátot, mert a szél váratlanul felerősödhet a parton.",
+            "ro": "Admirați reflexiile frumoase de pe suprafața apei în acest loc retras și luați o jachetă subțire, deoarece vântul se poate înteți brusc aproape de țărm.",
+            "en": "Take in the beautiful reflections on the water's surface at this secluded spot, and pack a light jacket as the wind can pick up unexpectedly near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Maubec",
+            "hu": "Lac de Maubec",
+            "ro": "Lac de Maubec",
+            "en": "Lac de Maubec"
+          },
+          "coords": [
+            4.765449,
+            44.537346
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen und ruhigen See im Grünen und kommen Sie weit vor Sonnenuntergang an, um die atemberaubenden Farben der goldenen Stunde einzufangen.",
+            "hu": "Pihenjen ezen a buja növényzettel körülvett, tágas és csendes tavon, és érkezzen jóval naplemente előtt, hogy megörökíthesse a lenyűgöző aranyóra színeit.",
+            "ro": "Relaxați-vă la acest lac întins și liniștit, înconjurat de verdeață, și ajungeți mult înainte de apus pentru a surprinde culorile uimitoare ale orei de aur.",
+            "en": "Relax at this expansive and tranquil lake surrounded by lush greenery, and arrive well before sunset to capture the stunning golden hour colors on your camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am Widerstandsmuseum und machen Sie danach einen kurzen Halt an der Église Saint-Étienne. Mittags besichtigen Sie die beeindruckende Cité Ouvrière Lafarge. Der Nachmittag ist der Natur mit dem Lac de la Camuse und Lac de Gournier gewidmet. Beenden Sie Ihren Roadtrip am idyllischen Lac de Maubec.",
+        "hu": "Kezdje a napot az ellenállási múzeumban, majd álljon meg a történelmi Église Saint-Étienne templomnál. Délben fedezze fel a Cité Ouvrière Lafarge lenyűgöző ipartelepét. A délután a természeté, látogasson el a Lac de la Camuse és a Lac de Gournier tavakhoz, majd zárja a napot a festői Lac de Maubec partján.",
+        "ro": "Conduceți spre muzeul rezistenței pentru istorie, urmat de o scurtă oprire la Église Saint-Étienne. La prânz vizitați impresionanta așezare industrială Cité Ouvrière Lafarge. După-amiaza este dedicată naturii la Lac de la Camuse și Lac de Gournier. Încheiați excursia la idilicul Lac de Maubec pentru un apus minunat.",
+        "en": "Drive directly to the resistance museum to start your day with profound history, followed by a quick stop at Église Saint-Étienne. Midday takes you to the impressive industrial settlement of Cité Ouvrière Lafarge. The afternoon is dedicated to nature, visiting Lac de la Camuse and Lac de Gournier. End your road trip at Lac de Maubec for a picturesque sunset."
+      }
+    }
+  }
+}

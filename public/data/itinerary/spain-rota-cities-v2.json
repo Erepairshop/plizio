@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-rota-cities-v2",
+  "anchor": {
+    "name": "Rota",
+    "coords": [
+      -6.35996,
+      36.62286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de la O",
+            "hu": "Parroquia de Nuestra Señora de la O",
+            "ro": "Parroquia de Nuestra Señora de la O",
+            "en": "Parroquia de Nuestra Señora de la O"
+          },
+          "coords": [
+            -6.357511,
+            36.616805
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotisch-renaissance Architektur dieser historischen Kirche, die wunderschöne religiöse Artefakte beherbergt, und denken Sie an angemessene Kleidung beim Eintreten.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gótikus-reneszánsz építészetét, amely gyönyörű vallási műtárgyakat őriz, és ne feledjen visszafogott ruházatot viselni a belépéshez.",
+            "ro": "Admirați arhitectura gotic-renascentistă uimitoare a acestei biserici istorice, care adăpostește artefacte religioase frumoase, și amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Admire the striking Gothic-Renaissance architecture of this historic church, which houses beautiful religious artifacts, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Rompidillo",
+            "hu": "Playa del Rompidillo",
+            "ro": "Playa del Rompidillo",
+            "en": "Playa del Rompidillo"
+          },
+          "coords": [
+            -6.355514,
+            36.620835
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses Stadtstrandes, der für seine lebhafte Promenade und sanften Wellen bekannt ist, und bringen Sie bequeme Wanderschuhe für eine entspannte Erkundung mit.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányáról és finom hullámairól ismert városi strandon, és hozzon magával kényelmes cipőt a tengerparti kikapcsolódáshoz.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje urbane cunoscute pentru promenada sa vibrantă și valurile blânde, aducând pantofi confortabili pentru o explorare relaxată pe litoral.",
+            "en": "Stroll along this urban beach known for its vibrant promenade and gentle waves, bringing comfortable walking shoes for a relaxed seaside exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Chorrillo",
+            "hu": "Playa del Chorrillo",
+            "ro": "Playa del Chorrillo",
+            "en": "Playa del Chorrillo"
+          },
+          "coords": [
+            -6.35317,
+            36.622853
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste an diesem ruhigen Sandstrand, der ideal für Familienausflüge ist, und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Élvezze a panorámás tengerparti kilátást ezen a csendes, családi kirándulásokra ideális homokos partszakaszon, és érkezzen korán, hogy jó helyet találjon a víz közelében.",
+            "ro": "Bucurați-vă de priveliștile panoramice de coastă pe această întindere de nisip liniștită, ideală pentru ieșiri în familie, și ajungeți devreme pentru a vă asigura un loc excelent lângă apă.",
+            "en": "Take in the panoramic coastal views at this peaceful stretch of sand, ideal for family outings, and arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Triunfo de la Virgen del Rosario Coronada",
+            "hu": "Triunfo de la Virgen del Rosario Coronada",
+            "ro": "Triunfo de la Virgen del Rosario Coronada",
+            "en": "Triunfo de la Virgen del Rosario Coronada"
+          },
+          "coords": [
+            -6.355396,
+            36.627293
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante historische Denkmal, das der örtlichen Schutzheiligen gewidmet ist, ein perfekter Ort für einzigartige Fotos im Morgenlicht.",
+            "hu": "Fedezze fel ezt a helyi védőszentnek szentelt elegáns történelmi emlékművet, amely tökéletes helyszín néhány egyedi fotó elkészítéséhez a reggeli fényben.",
+            "ro": "Descoperiți acest monument istoric elegant dedicat sfintei patroane locale, un loc perfect pentru a face câteva fotografii unice în lumina dimineții.",
+            "en": "Discover this elegant historical monument dedicated to the local patron saint, a perfect spot for capturing some unique photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Mayeto",
+            "hu": "Parque El Mayeto",
+            "ro": "Parque El Mayeto",
+            "en": "Parque El Mayeto"
+          },
+          "coords": [
+            -6.363118,
+            36.625727
+          ],
+          "category": "park",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die wunderschön angelegten Wege dieses Stadtparks, der einen erfrischenden Rückzugsort bietet, und bringen Sie einen kleinen Snack für die schattigen Bänke mit.",
+            "hu": "Sétáljon végig ennek a frissítő menedéket nyújtó városi parknak a gyönyörűen parkosított ösvényein, és hozzon magával egy kis nassolnivalót az árnyékos padokra.",
+            "ro": "Plimbați-vă pe aleile frumos amenajate ale acestui parc urban care oferă un refugiu răcoritor și aduceți o mică gustare pentru a o savura pe băncile sale umbrite.",
+            "en": "Walk through the beautifully landscaped paths of this urban park that offers a refreshing retreat, and bring a small snack to enjoy on its shady benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Costilla",
+            "hu": "Playa de la Costilla",
+            "ro": "Playa de la Costilla",
+            "en": "Playa de la Costilla"
+          },
+          "coords": [
+            -6.364306,
+            36.61929
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am beliebtesten Strand der Stadt mit goldenem Sand und hervorragenden Einrichtungen und bleiben Sie bis zum Sonnenuntergang für einen wirklich malerischen Abend.",
+            "hu": "Pihenjen a város legnépszerűbb, aranyhomokos és kiváló felszereltségű strandján, és maradjon naplementéig egy igazán festői esti kilátásért.",
+            "ro": "Relaxați-vă pe cea mai populară plajă a orașului, cu nisip auriu și facilități excelente, rămânând până la apus pentru o priveliște de seară cu adevărat pitorească.",
+            "en": "Unwind on the town's most popular beach boasting golden sands and excellent facilities, staying until sunset for a truly picturesque evening view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens und der Hauptkirche, bevor Sie an den lebhaften Stränden spazieren. Mittags erreichen Sie ruhigere Ufer und ein historisches Denkmal. Wandern Sie am Nachmittag durch den ruhigen Stadtpark. Lassen Sie den Tag am weitläufigen Strand Costilla ausklingen.",
+        "hu": "Kezdje a reggelt a történelmi központ és a fő plébániatemplom felfedezésével, majd sétáljon a nyüzsgő strandokon. Délben csendesebb partokhoz és egy történelmi emlékműhöz ér. Délután tegyen egy sétát a nyugodt városi parkban. Zárja a napot a tágas Costilla strandon pihenve.",
+        "ro": "Începeți dimineața explorând inima istorică și parohia principală, apoi plimbați-vă de-a lungul plajelor animate. La prânz veți ajunge la țărmuri mai liniștite și la un monument istoric. După-amiaza, rătăciți prin parcul urban liniștit. Încheiați-vă ziua relaxându-vă pe întinsa plajă Costilla.",
+        "en": "Start your morning exploring the historic heart and the main parish, then stroll along the bustling beaches. Midday brings you to the calmer shores and a historic triumph monument. In the afternoon, wander through the serene urban park. End your day relaxing on the expansive Costilla beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Pico Barro",
+            "hu": "Mirador Pico Barro",
+            "ro": "Mirador Pico Barro",
+            "en": "Mirador Pico Barro"
+          },
+          "coords": [
+            -6.35027,
+            36.624594
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem erhöhten natürlichen Aussichtspunkt auf die ruhigen Gewässer, der eine friedliche Atmosphäre bietet, die Sie am besten mit einem Fernglas genießen.",
+            "hu": "Tekintsen le a nyugodt vizekre erről a magasan fekvő természetes kilátóról, amely békés atmoszférát biztosít, amit leginkább egy távcsővel élvezhet.",
+            "ro": "Priviți apele liniștite de la acest punct de belvedere natural elevat, care oferă o atmosferă senină de care vă puteți bucura cel mai bine cu un binoclu.",
+            "en": "Gaze out over the tranquil waters from this elevated natural viewpoint, which provides a serene atmosphere best enjoyed with a pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Galeones",
+            "hu": "Playa de Galeones",
+            "ro": "Playa de Galeones",
+            "en": "Playa de Galeones"
+          },
+          "coords": [
+            -6.347157,
+            36.625507
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der ruhigen Küste, an der gelegentlich kleine Boote anlegen, und halten Sie Ihre Kamera bereit, um den maritimen Charme der Bucht einzufangen.",
+            "hu": "Pihenjen a csendes tengerpart mentén, ahol időnként kis csónakok horgonyoznak, és tartsa készenlétben fényképezőgépét az öböl tengeri varázsának megörökítéséhez.",
+            "ro": "Relaxați-vă de-a lungul coastei liniștite unde ocazional acostează bărci mici, păstrând camera pregătită pentru a surprinde farmecul maritim al golfului.",
+            "en": "Relax along the calm coastline where small boats occasionally moor, keeping your camera ready for capturing the maritime charm of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Triunfo de la Virgen del Rosario Coronada",
+            "hu": "Triunfo de la Virgen del Rosario Coronada",
+            "ro": "Triunfo de la Virgen del Rosario Coronada",
+            "en": "Triunfo de la Virgen del Rosario Coronada"
+          },
+          "coords": [
+            -6.355396,
+            36.627293
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante historische Denkmal, das der örtlichen Schutzheiligen gewidmet ist, ein perfekter Ort für einzigartige Fotos im Morgenlicht.",
+            "hu": "Fedezze fel ezt a helyi védőszentnek szentelt elegáns történelmi emlékművet, amely tökéletes helyszín néhány egyedi fotó elkészítéséhez a reggeli fényben.",
+            "ro": "Descoperiți acest monument istoric elegant dedicat sfintei patroane locale, un loc perfect pentru a face câteva fotografii unice în lumina dimineții.",
+            "en": "Discover this elegant historical monument dedicated to the local patron saint, a perfect spot for capturing some unique photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Mayeto",
+            "hu": "Parque El Mayeto",
+            "ro": "Parque El Mayeto",
+            "en": "Parque El Mayeto"
+          },
+          "coords": [
+            -6.363118,
+            36.625727
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die wunderschön angelegten Wege dieses Stadtparks, der einen erfrischenden Rückzugsort bietet, und bringen Sie einen kleinen Snack für die schattigen Bänke mit.",
+            "hu": "Sétáljon végig ennek a frissítő menedéket nyújtó városi parknak a gyönyörűen parkosított ösvényein, és hozzon magával egy kis nassolnivalót az árnyékos padokra.",
+            "ro": "Plimbați-vă pe aleile frumos amenajate ale acestui parc urban care oferă un refugiu răcoritor și aduceți o mică gustare pentru a o savura pe băncile sale umbrite.",
+            "en": "Walk through the beautifully landscaped paths of this urban park that offers a refreshing retreat, and bring a small snack to enjoy on its shady benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Espacio Cultural Hispano Norteamericano de Rota",
+            "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+            "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+            "en": "Espacio Cultural Hispano Norteamericano de Rota"
+          },
+          "coords": [
+            -6.374721,
+            36.626499
+          ],
+          "category": "museum",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die faszinierende gemeinsame Geschichte der lokalen und amerikanischen Kulturen und prüfen Sie vorher den Zeitplan der Sonderausstellungen.",
+            "hu": "Ismerje meg a helyi és az amerikai kultúrák közötti lenyűgöző közös történelmet ebben a múzeumban, és mindenképpen ellenőrizze az időszaki kiállítások menetrendjét előtte.",
+            "ro": "Aflați despre istoria comună fascinantă dintre culturile locale și cele americane în acest muzeu, asigurându-vă că verificați în prealabil programul expozițiilor temporare.",
+            "en": "Learn about the fascinating shared history between local and American cultures in this museum, making sure to check their temporary exhibition schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Pinares de Rota",
+            "hu": "Mirador Pinares de Rota",
+            "ro": "Mirador Pinares de Rota",
+            "en": "Mirador Pinares de Rota"
+          },
+          "coords": [
+            -6.378078,
+            36.626339
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie von diesem malerischen Ort aus weite Ausblicke auf die umliegenden Kiefernwälder und das Meer, perfekt für eine kurze erholsame Pause während Ihrer Reise.",
+            "hu": "Élvezze a környező fenyvesekre és az óceánra nyíló pazar kilátást erről a festői helyről, amely tökéletes egy rövid, frissítő pihenőhöz az utazása során.",
+            "ro": "Experimentați priveliști ample asupra pădurilor de pini din jur și a oceanului de la acest loc pitoresc, perfect pentru o scurtă pauză de refacere în timpul călătoriei.",
+            "en": "Experience sweeping vistas over the surrounding pine forests and ocean from this scenic spot, perfect for a short restorative break during your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am malerischen Aussichtspunkt, bevor Sie zum nahegelegenen Strand radeln, um die frische Meeresluft zu genießen. Gegen Mittag radeln Sie zum historischen Denkmal und dem üppigen Grün des Parks. Ihr Nachmittag ist für das Kulturmuseum reserviert. Zum Abschluss genießen Sie die herrliche Aussicht am Aussichtspunkt im Kiefernwald.",
+        "hu": "Indítsa kerékpártúráját a festői kilátónál, majd tekerjen el a közeli strandra egy kis friss tengeri levegőért. Délben vegye az irányt a történelmi emlékmű és a park buja növényzete felé. A délutánt a helyi történelmet bemutató kulturális múzeumnak szentelje. Zárásként élvezze a lenyűgöző kilátást a fenyves erdő kilátójából.",
+        "ro": "Începeți plimbarea cu bicicleta la punctul de belvedere pitoresc înainte de a pedala spre plaja din apropiere pentru aer proaspăt de mare. În jurul prânzului, mergeți spre monumentul istoric și verdeața luxuriantă a parcului. După-amiaza este rezervată muzeului cultural. Încheiați cu o priveliște uimitoare de la punctul de belvedere din pădurea de pini.",
+        "en": "Kick off your ride at the scenic viewpoint before cycling to the nearby beach for some fresh sea air. Around midday, pedal towards the historical monument and the lush greenery of the park. Your afternoon is reserved for the cultural museum showcasing local history. Wrap up with stunning views at the pine forest viewpoint."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de la O",
+            "hu": "Parroquia de Nuestra Señora de la O",
+            "ro": "Parroquia de Nuestra Señora de la O",
+            "en": "Parroquia de Nuestra Señora de la O"
+          },
+          "coords": [
+            -6.357511,
+            36.616805
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotisch-renaissance Architektur dieser historischen Kirche, die wunderschöne religiöse Artefakte beherbergt, und denken Sie an angemessene Kleidung beim Eintreten.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gótikus-reneszánsz építészetét, amely gyönyörű vallási műtárgyakat őriz, és ne feledjen visszafogott ruházatot viselni a belépéshez.",
+            "ro": "Admirați arhitectura gotic-renascentistă uimitoare a acestei biserici istorice, care adăpostește artefacte religioase frumoase, și amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Admire the striking Gothic-Renaissance architecture of this historic church, which houses beautiful religious artifacts, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Costilla",
+            "hu": "Playa de la Costilla",
+            "ro": "Playa de la Costilla",
+            "en": "Playa de la Costilla"
+          },
+          "coords": [
+            -6.364306,
+            36.61929
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am beliebtesten Strand der Stadt mit goldenem Sand und hervorragenden Einrichtungen und bleiben Sie bis zum Sonnenuntergang für einen wirklich malerischen Abend.",
+            "hu": "Pihenjen a város legnépszerűbb, aranyhomokos és kiváló felszereltségű strandján, és maradjon naplementéig egy igazán festői esti kilátásért.",
+            "ro": "Relaxați-vă pe cea mai populară plajă a orașului, cu nisip auriu și facilități excelente, rămânând până la apus pentru o priveliște de seară cu adevărat pitorească.",
+            "en": "Unwind on the town's most popular beach boasting golden sands and excellent facilities, staying until sunset for a truly picturesque evening view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Mayeto",
+            "hu": "Parque El Mayeto",
+            "ro": "Parque El Mayeto",
+            "en": "Parque El Mayeto"
+          },
+          "coords": [
+            -6.363118,
+            36.625727
+          ],
+          "category": "park",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die wunderschön angelegten Wege dieses Stadtparks, der einen erfrischenden Rückzugsort bietet, und bringen Sie einen kleinen Snack für die schattigen Bänke mit.",
+            "hu": "Sétáljon végig ennek a frissítő menedéket nyújtó városi parknak a gyönyörűen parkosított ösvényein, és hozzon magával egy kis nassolnivalót az árnyékos padokra.",
+            "ro": "Plimbați-vă pe aleile frumos amenajate ale acestui parc urban care oferă un refugiu răcoritor și aduceți o mică gustare pentru a o savura pe băncile sale umbrite.",
+            "en": "Walk through the beautifully landscaped paths of this urban park that offers a refreshing retreat, and bring a small snack to enjoy on its shady benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Espacio Cultural Hispano Norteamericano de Rota",
+            "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+            "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+            "en": "Espacio Cultural Hispano Norteamericano de Rota"
+          },
+          "coords": [
+            -6.374721,
+            36.626499
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die faszinierende gemeinsame Geschichte der lokalen und amerikanischen Kulturen und prüfen Sie vorher den Zeitplan der Sonderausstellungen.",
+            "hu": "Ismerje meg a helyi és az amerikai kultúrák közötti lenyűgöző közös történelmet ebben a múzeumban, és mindenképpen ellenőrizze az időszaki kiállítások menetrendjét előtte.",
+            "ro": "Aflați despre istoria comună fascinantă dintre culturile locale și cele americane în acest muzeu, asigurându-vă că verificați în prealabil programul expozițiilor temporare.",
+            "en": "Learn about the fascinating shared history between local and American cultures in this museum, making sure to check their temporary exhibition schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Pinares de Rota",
+            "hu": "Mirador Pinares de Rota",
+            "ro": "Mirador Pinares de Rota",
+            "en": "Mirador Pinares de Rota"
+          },
+          "coords": [
+            -6.378078,
+            36.626339
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie von diesem malerischen Ort aus weite Ausblicke auf die umliegenden Kiefernwälder und das Meer, perfekt für eine kurze erholsame Pause während Ihrer Reise.",
+            "hu": "Élvezze a környező fenyvesekre és az óceánra nyíló pazar kilátást erről a festői helyről, amely tökéletes egy rövid, frissítő pihenőhöz az utazása során.",
+            "ro": "Experimentați priveliști ample asupra pădurilor de pini din jur și a oceanului de la acest loc pitoresc, perfect pentru o scurtă pauză de refacere în timpul călătoriei.",
+            "en": "Experience sweeping vistas over the surrounding pine forests and ocean from this scenic spot, perfect for a short restorative break during your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Puntalillo",
+            "hu": "Playa de Puntalillo",
+            "ro": "Playa de Puntalillo",
+            "en": "Playa de Puntalillo"
+          },
+          "coords": [
+            -6.375713,
+            36.623884
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte und weniger überlaufene Umgebung dieses wunderschönen Strandes und bringen Sie eigenes Wasser und Sonnenschutz mit, da die Einrichtungen minimal sind.",
+            "hu": "Élvezze ennek a gyönyörű strandnak az érintetlen és kevésbé zsúfolt környezetét, és hozzon magával saját vizet és napvédőt, mivel a felszereltség minimális.",
+            "ro": "Bucurați-vă de mediul curat și mai puțin aglomerat al acestei plaje frumoase, aducându-vă propria apă și protecție solară, deoarece facilitățile sunt minime.",
+            "en": "Enjoy the pristine and less crowded environment of this beautiful beach, bringing your own water and sun protection as facilities are minimal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur historischen Kirche für einen friedlichen Start in den Morgen und dann direkt zum Hauptstrand. Genießen Sie eine Mittagspause bei einem Spaziergang auf den Wegen des zentralen Parks. Der Nachmittag führt Sie zu einer faszinierenden kulturellen Ausstellung. Beenden Sie Ihre Autotour mit der natürlichen Küstenlandschaft an den örtlichen Kiefern-Aussichtspunkten.",
+        "hu": "Vezessen a történelmi plébániához egy békés reggeli kezdésért, majd induljon egyenesen a fő strandra. Élvezze a déli pihenőt a központi park sétányain. A délután egy lenyűgöző közeli kulturális kiállításhoz vezeti. Autós túráját a helyi fenyves kilátóknál és strandoknál található természetes tengerparti táj megcsodálásával fejezze be.",
+        "ro": "Conduceți la parohia istorică pentru un început de dimineață liniștit, apoi mergeți direct la plaja principală. Bucurați-vă de o pauză la prânz plimbându-vă pe aleile parcului central. După-amiaza vă poartă la o expoziție culturală fascinantă. Încheiați-vă turul auto admirând peisajul natural de coastă de la punctele de belvedere cu pini și plajele locale.",
+        "en": "Drive to the historic parish for a peaceful morning start, then head straight to the main beach. Enjoy a midday break strolling through the central park's walking paths. The afternoon takes you to an fascinating cultural exhibition nearby. Finish your driving tour by taking in the natural coastal scenery at the local pine viewpoints and beaches."
+      }
+    }
+  }
+}

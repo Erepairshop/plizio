@@ -1,0 +1,543 @@
+{
+  "city_id": "eu",
+  "anchor": {
+    "name": "Eu",
+    "coords": [
+      1.4197,
+      50.0472
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jesuitenkolleg-Kapelle",
+            "hu": "Jezsuita kollégium kápolnája",
+            "ro": "Capela Colegiului Iezuit",
+            "en": "Jesuit College Chapel"
+          },
+          "coords": [
+            1.420374,
+            50.047124
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser Kapelle aus dem 17. Jahrhundert und besuchen Sie sie am Vormittag, um das beste Licht im Innenraum zu erleben.",
+            "hu": "Csodálja meg a 17. századi kápolna lenyűgöző jezsuita építészetét, és érdemes a délelőtti órákban érkezni, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura rafinată din secolul al XVII-lea a acestei capele iezuite și vizitați-o în orele dimineții pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the exquisite 17th-century architecture of this chapel, a testament to Jesuit influence, and visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame et Saint-Laurent",
+            "hu": "Notre-Dame et Saint-Laurent templom",
+            "ro": "Biserica Notre-Dame și Saint-Laurent",
+            "en": "Église Notre-Dame et Saint-Laurent"
+          },
+          "coords": [
+            1.419527,
+            50.048794
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gotische Stiftskirche, die Ruhestätte der Grafen von Artois, und prüfen Sie vorab unbedingt die Öffnungszeiten der beeindruckenden Krypta.",
+            "hu": "Fedezze fel ezt a lenyűgöző gótikus társaskáptalant, Artois grófjainak nyughelyét, és érkezés előtt feltétlenül ellenőrizze a lenyűgöző kripta nyitvatartását.",
+            "ro": "Explorați această biserică colegială gotică, locul de odihnă al conților de Artois, și verificați neapărat programul de vizitare al criptei înainte de sosire.",
+            "en": "Explore this stunning Gothic collegiate church, resting place of the Counts of Artois, and be sure to check the crypt opening times before your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosstheater von Eu",
+            "hu": "Eu kastélyszínháza",
+            "ro": "Teatrul Castelului din Eu",
+            "en": "Château Theatre of Eu"
+          },
+          "coords": [
+            1.418116,
+            50.048514
+          ],
+          "category": "cultural",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses für König Louis-Philippe erbaute italienische Theater und buchen Sie vorab eine Führung, um auch die Bereiche hinter der Bühne zu sehen.",
+            "hu": "Lépjen be ebbe a Lajos Fülöp királynak épült, olasz stílusú színházba, és foglaljon előre vezetett túrát, hogy a kulisszák mögötti titkokat is felfedezhesse.",
+            "ro": "Pășiți în acest teatru în stil italian construit pentru Regele Louis-Philippe și rezervați un tur ghidat în avans pentru a explora secretele din culise.",
+            "en": "Step into this beautifully preserved 19th-century Italian-style theater built for King Louis-Philippe, and book a guided tour in advance to see backstage."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Eu",
+            "hu": "Château d'Eu",
+            "ro": "Château d'Eu",
+            "en": "Château d'Eu"
+          },
+          "coords": [
+            1.41686,
+            50.0494
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ehemalige königliche Sommerresidenz mit ihren spannenden Exponaten und planen Sie unbedingt etwas mehr Zeit für die gepflegten Gärten ein.",
+            "hu": "Fedezze fel az egykori királyi nyári rezidencia lenyűgöző múzeumi kiállításait, és hagyjon elegendő időt a gondozott francia stílusú kertek bejárására is.",
+            "ro": "Descoperiți fosta reședință regală de vară plină de expoziții fascinante și acordați-vă timp suplimentar pentru o plimbare prin grădinile frumos îngrijite.",
+            "en": "Discover the former royal summer residence filled with fascinating museum exhibits, and allow extra time to stroll through the manicured French-style gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Perspective Guizot",
+            "hu": "Perspective Guizot",
+            "ro": "Perspective Guizot",
+            "en": "Perspective Guizot"
+          },
+          "coords": [
+            1.414397,
+            50.049097
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieser historischen Parkallee mit weitem Blick über das Tal, was sie zum perfekten Ort für ein entspanntes Picknick macht.",
+            "hu": "Élvezze a békés sétát ezen a történelmi parki sétányon, amely pazar kilátást nyújt a völgyre, így tökéletes helyszínt biztosít egy nyugodt déli piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe această alee istorică oferind vederi panoramice asupra văii, locul perfect pentru un picnic relaxant la amiază.",
+            "en": "Enjoy a peaceful walk along this historic park avenue offering sweeping views of the valley, making it the perfect scenic spot for a relaxed midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Glastraditionen",
+            "hu": "Üvegműves Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Sticlei",
+            "en": "Musée des Traditions Vérrières"
+          },
+          "coords": [
+            1.42794,
+            50.054805
+          ],
+          "category": "museum",
+          "arrive_at": "14:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die jahrhundertelange Geschichte der lokalen Glasherstellung ein und versuchen Sie, eine der Live-Vorführungen der Glasbläser nicht zu verpassen.",
+            "hu": "Merüljön el az üveggyártás évszázados helyi történelmében, és mindenképpen próbáljon meg elcsípni egy élő üvegfúvó bemutatót a felejthetetlen élményért.",
+            "ro": "Pătrundeți în istoria locală bogată a fabricării sticlei și încercați să surprindeți una dintre demonstrațiile live de suflare a sticlei pentru o experiență inedită.",
+            "en": "Dive into the rich local history of glassmaking spanning centuries, and try to catch one of the live glassblowing demonstrations for an unforgettable experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt im Zentrum von Eu bei der Jesuitenkapelle und der beeindruckenden Église Notre-Dame. Mittags tauchen Sie im Theater und im prächtigen Château d'Eu in die königliche Geschichte ein. Nachmittags genießen Sie einen ruhigen Spaziergang durch die Perspective Guizot. Beenden werden Sie den Tag mit spannenden Einblicken in die lokale Glasmachertradition der Region.",
+        "hu": "Sétája Eu szívében indul, ahol megcsodálhatja a jezsuita kápolnát és a Notre-Dame templomot. A nap közepén a színház és a fenséges Château d'Eu falai között a királyi történelembe nyerhet bepillantást. Délután a Perspective Guizot sétányán pihenhet meg a természetben. A napot a helyi üvegkészítés gazdag és lenyűgöző örökségének felfedezésével zárja a múzeumban.",
+        "ro": "Turul pietonal începe în inima orașului Eu, explorând Capela Iezuită și impresionanta biserică Notre-Dame. La amiază, pătrundeți în istoria regală vizitând teatrul și mărețul Château d'Eu. După-amiaza vă aduce o plimbare liniștită prin parcul istoric Perspective Guizot. Vă veți încheia ziua descoperind tradiția și moștenirea fascinantă a fabricării sticlei din regiune.",
+        "en": "Your walking tour begins in the heart of Eu with its stunning religious monuments, exploring the Jesuit College Chapel and the impressive Église Notre-Dame. Midday finds you diving into royal history at the beautifully preserved theater and the grand Château d'Eu. In the afternoon, enjoy a tranquil stroll through the Perspective Guizot. You will finish by learning about the local glassmaking heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 2.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Perspective Guizot",
+            "hu": "Perspective Guizot",
+            "ro": "Perspective Guizot",
+            "en": "Perspective Guizot"
+          },
+          "coords": [
+            1.414397,
+            50.049097
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieser historischen Parkallee mit weitem Blick über das Tal, was sie zum perfekten Ort für ein entspanntes Picknick macht.",
+            "hu": "Élvezze a békés sétát ezen a történelmi parki sétányon, amely pazar kilátást nyújt a völgyre, így tökéletes helyszínt biztosít egy nyugodt déli piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe această alee istorică oferind vederi panoramice asupra văii, locul perfect pentru un picnic relaxant la amiază.",
+            "en": "Enjoy a peaceful walk along this historic park avenue offering sweeping views of the valley, making it the perfect scenic spot for a relaxed midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Eu",
+            "hu": "Château d'Eu",
+            "ro": "Château d'Eu",
+            "en": "Château d'Eu"
+          },
+          "coords": [
+            1.41686,
+            50.0494
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ehemalige königliche Sommerresidenz mit ihren spannenden Exponaten und planen Sie unbedingt etwas mehr Zeit für die gepflegten Gärten ein.",
+            "hu": "Fedezze fel az egykori királyi nyári rezidencia lenyűgöző múzeumi kiállításait, és hagyjon elegendő időt a gondozott francia stílusú kertek bejárására is.",
+            "ro": "Descoperiți fosta reședință regală de vară plină de expoziții fascinante și acordați-vă timp suplimentar pentru o plimbare prin grădinile frumos îngrijite.",
+            "en": "Discover the former royal summer residence filled with fascinating museum exhibits, and allow extra time to stroll through the manicured French-style gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosstheater von Eu",
+            "hu": "Eu kastélyszínháza",
+            "ro": "Teatrul Castelului din Eu",
+            "en": "Château Theatre of Eu"
+          },
+          "coords": [
+            1.418116,
+            50.048514
+          ],
+          "category": "cultural",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses für König Louis-Philippe erbaute italienische Theater und buchen Sie vorab eine Führung, um auch die Bereiche hinter der Bühne zu sehen.",
+            "hu": "Lépjen be ebbe a Lajos Fülöp királynak épült, olasz stílusú színházba, és foglaljon előre vezetett túrát, hogy a kulisszák mögötti titkokat is felfedezhesse.",
+            "ro": "Pășiți în acest teatru în stil italian construit pentru Regele Louis-Philippe și rezervați un tur ghidat în avans pentru a explora secretele din culise.",
+            "en": "Step into this beautifully preserved 19th-century Italian-style theater built for King Louis-Philippe, and book a guided tour in advance to see backstage."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame et Saint-Laurent",
+            "hu": "Notre-Dame et Saint-Laurent templom",
+            "ro": "Biserica Notre-Dame și Saint-Laurent",
+            "en": "Église Notre-Dame et Saint-Laurent"
+          },
+          "coords": [
+            1.419527,
+            50.048794
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gotische Stiftskirche, die Ruhestätte der Grafen von Artois, und prüfen Sie vorab unbedingt die Öffnungszeiten der beeindruckenden Krypta.",
+            "hu": "Fedezze fel ezt a lenyűgöző gótikus társaskáptalant, Artois grófjainak nyughelyét, és érkezés előtt feltétlenül ellenőrizze a lenyűgöző kripta nyitvatartását.",
+            "ro": "Explorați această biserică colegială gotică, locul de odihnă al conților de Artois, și verificați neapărat programul de vizitare al criptei înainte de sosire.",
+            "en": "Explore this stunning Gothic collegiate church, resting place of the Counts of Artois, and be sure to check the crypt opening times before your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkolleg-Kapelle",
+            "hu": "Jezsuita kollégium kápolnája",
+            "ro": "Capela Colegiului Iezuit",
+            "en": "Jesuit College Chapel"
+          },
+          "coords": [
+            1.420374,
+            50.047124
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser Kapelle aus dem 17. Jahrhundert und besuchen Sie sie am Vormittag, um das beste Licht im Innenraum zu erleben.",
+            "hu": "Csodálja meg a 17. századi kápolna lenyűgöző jezsuita építészetét, és érdemes a délelőtti órákban érkezni, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura rafinată din secolul al XVII-lea a acestei capele iezuite și vizitați-o în orele dimineții pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the exquisite 17th-century architecture of this chapel, a testament to Jesuit influence, and visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Glastraditionen",
+            "hu": "Üvegműves Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Sticlei",
+            "en": "Musée des Traditions Vérrières"
+          },
+          "coords": [
+            1.42794,
+            50.054805
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die jahrhundertelange Geschichte der lokalen Glasherstellung ein und versuchen Sie, eine der Live-Vorführungen der Glasbläser nicht zu verpassen.",
+            "hu": "Merüljön el az üveggyártás évszázados helyi történelmében, és mindenképpen próbáljon meg elcsípni egy élő üvegfúvó bemutatót a felejthetetlen élményért.",
+            "ro": "Pătrundeți în istoria locală bogată a fabricării sticlei și încercați să surprindeți una dintre demonstrațiile live de suflare a sticlei pentru o experiență inedită.",
+            "en": "Dive into the rich local history of glassmaking spanning centuries, and try to catch one of the live glassblowing demonstrations for an unforgettable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Saint-Laurent kápolna",
+            "ro": "Capela Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            1.429908,
+            50.058565
+          ],
+          "category": "religious",
+          "arrive_at": "16:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, dem Schutzpatron der Glasmacher gewidmete Kapelle auf dem Hügel und tragen Sie festes Schuhwerk für den etwas steilen Aufstieg.",
+            "hu": "Látogasson el erre az üvegkészítők védőszentjének szentelt, dombtetőn álló bájos kápolnára, de mindenképpen vegyen fel kényelmes cipőt a meredek kaptatóhoz.",
+            "ro": "Vizitați această capelă fermecătoare dedicată patronului sticlarilor, situată pe un deal, și purtați încălțăminte confortabilă pentru urcarea ușor abruptă.",
+            "en": "Visit this charming small chapel perched on a hill dedicated to the patron saint of glassmakers, and wear sturdy shoes for the slightly steep uphill approach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer mit einer Fahrt durch die malerische Perspective Guizot, gefolgt von der Eleganz des Château d'Eu. Mittags radeln Sie zum historischen Theater und zur Stiftskirche. Der Nachmittag ist für die Jesuitenkapelle und das Glasmuseum reserviert. Ihr Tag endet mit einer schönen Fahrt hinauf zur bezaubernden Kapelle Saint-Laurent.",
+        "hu": "Kezdje kerékpáros kalandját a festői Perspective Guizot-ban, majd fedezze fel a Château d'Eu királyi eleganciáját. Délben tekerjen a történelmi színházhoz és a magasba törő társaskáptalanhoz. A délutánt a jezsuita kápolna és az üveggyártó múzeum mélyebb megismerésének szentelheti. A nap egy kellemes tekeréssel zárul a hangulatos Saint-Laurent kápolnához.",
+        "ro": "Începeți aventura pe bicicletă cu o plimbare prin pitorescul Perspective Guizot, urmată de eleganța Château d'Eu. La amiază, pedalați spre teatrul istoric și biserica colegială impunătoare. După-amiaza este rezervată Capelei Iezuite și fascinantului muzeu al sticlei. Ziua se încheie cu o scurtă urcare relaxantă spre fermecătoarea capelă Saint-Laurent.",
+        "en": "Start your cycling adventure with a breezy ride through the scenic Perspective Guizot, followed by the royal elegance of the Château d'Eu. By midday, pedal towards the historic theater and the towering collegiate church. The afternoon is reserved for a deeper historical dive at the Jesuit College Chapel and the glassmaking museum. Your day concludes with a ride up to the charming Saint-Laurent chapel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Eu",
+            "hu": "Château d'Eu",
+            "ro": "Château d'Eu",
+            "en": "Château d'Eu"
+          },
+          "coords": [
+            1.41686,
+            50.0494
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ehemalige königliche Sommerresidenz mit ihren spannenden Exponaten und planen Sie unbedingt etwas mehr Zeit für die gepflegten Gärten ein.",
+            "hu": "Fedezze fel az egykori királyi nyári rezidencia lenyűgöző múzeumi kiállításait, és hagyjon elegendő időt a gondozott francia stílusú kertek bejárására is.",
+            "ro": "Descoperiți fosta reședință regală de vară plină de expoziții fascinante și acordați-vă timp suplimentar pentru o plimbare prin grădinile frumos îngrijite.",
+            "en": "Discover the former royal summer residence filled with fascinating museum exhibits, and allow extra time to stroll through the manicured French-style gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Perspective Guizot",
+            "hu": "Perspective Guizot",
+            "ro": "Perspective Guizot",
+            "en": "Perspective Guizot"
+          },
+          "coords": [
+            1.414397,
+            50.049097
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieser historischen Parkallee mit weitem Blick über das Tal, was sie zum perfekten Ort für ein entspanntes Picknick macht.",
+            "hu": "Élvezze a békés sétát ezen a történelmi parki sétányon, amely pazar kilátást nyújt a völgyre, így tökéletes helyszínt biztosít egy nyugodt déli piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe această alee istorică oferind vederi panoramice asupra văii, locul perfect pentru un picnic relaxant la amiază.",
+            "en": "Enjoy a peaceful walk along this historic park avenue offering sweeping views of the valley, making it the perfect scenic spot for a relaxed midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame et Saint-Laurent",
+            "hu": "Notre-Dame et Saint-Laurent templom",
+            "ro": "Biserica Notre-Dame și Saint-Laurent",
+            "en": "Église Notre-Dame et Saint-Laurent"
+          },
+          "coords": [
+            1.419527,
+            50.048794
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gotische Stiftskirche, die Ruhestätte der Grafen von Artois, und prüfen Sie vorab unbedingt die Öffnungszeiten der beeindruckenden Krypta.",
+            "hu": "Fedezze fel ezt a lenyűgöző gótikus társaskáptalant, Artois grófjainak nyughelyét, és érkezés előtt feltétlenül ellenőrizze a lenyűgöző kripta nyitvatartását.",
+            "ro": "Explorați această biserică colegială gotică, locul de odihnă al conților de Artois, și verificați neapărat programul de vizitare al criptei înainte de sosire.",
+            "en": "Explore this stunning Gothic collegiate church, resting place of the Counts of Artois, and be sure to check the crypt opening times before your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkolleg-Kapelle",
+            "hu": "Jezsuita kollégium kápolnája",
+            "ro": "Capela Colegiului Iezuit",
+            "en": "Jesuit College Chapel"
+          },
+          "coords": [
+            1.420374,
+            50.047124
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser Kapelle aus dem 17. Jahrhundert und besuchen Sie sie am Vormittag, um das beste Licht im Innenraum zu erleben.",
+            "hu": "Csodálja meg a 17. századi kápolna lenyűgöző jezsuita építészetét, és érdemes a délelőtti órákban érkezni, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura rafinată din secolul al XVII-lea a acestei capele iezuite și vizitați-o în orele dimineții pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the exquisite 17th-century architecture of this chapel, a testament to Jesuit influence, and visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Glastraditionen",
+            "hu": "Üvegműves Hagyományok Múzeuma",
+            "ro": "Muzeul Tradițiilor Sticlei",
+            "en": "Musée des Traditions Vérrières"
+          },
+          "coords": [
+            1.42794,
+            50.054805
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die jahrhundertelange Geschichte der lokalen Glasherstellung ein und versuchen Sie, eine der Live-Vorführungen der Glasbläser nicht zu verpassen.",
+            "hu": "Merüljön el az üveggyártás évszázados helyi történelmében, és mindenképpen próbáljon meg elcsípni egy élő üvegfúvó bemutatót a felejthetetlen élményért.",
+            "ro": "Pătrundeți în istoria locală bogată a fabricării sticlei și încercați să surprindeți una dintre demonstrațiile live de suflare a sticlei pentru o experiență inedită.",
+            "en": "Dive into the rich local history of glassmaking spanning centuries, and try to catch one of the live glassblowing demonstrations for an unforgettable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Saint-Laurent kápolna",
+            "ro": "Capela Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            1.429908,
+            50.058565
+          ],
+          "category": "religious",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, dem Schutzpatron der Glasmacher gewidmete Kapelle auf dem Hügel und tragen Sie festes Schuhwerk für den etwas steilen Aufstieg.",
+            "hu": "Látogasson el erre az üvegkészítők védőszentjének szentelt, dombtetőn álló bájos kápolnára, de mindenképpen vegyen fel kényelmes cipőt a meredek kaptatóhoz.",
+            "ro": "Vizitați această capelă fermecătoare dedicată patronului sticlarilor, situată pe un deal, și purtați încălțăminte confortabilă pentru urcarea ușor abruptă.",
+            "en": "Visit this charming small chapel perched on a hill dedicated to the patron saint of glassmakers, and wear sturdy shoes for the slightly steep uphill approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Valéry",
+            "hu": "Saint-Valéry templom",
+            "ro": "Biserica Saint-Valéry",
+            "en": "Église Saint-Valéry"
+          },
+          "coords": [
+            1.447088,
+            50.04562
+          ],
+          "category": "religious",
+          "arrive_at": "15:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre dieser Vorstadtkirche, die Sie am besten in den ruhigen, frühen Abendstunden besuchen sollten.",
+            "hu": "Szánjon egy percet e külvárosi templom békés atmoszférájának és történelmi kőfalainak megcsodálására, amelyet a csendes kora esti órákban a legjobb meglátogatni.",
+            "ro": "Acordați-vă un moment pentru a aprecia atmosfera liniștită a acestei biserici suburbane, care este cel mai bine de vizitat în orele tăcute ale serii devreme.",
+            "en": "Take a moment to appreciate the tranquil atmosphere and historical stonework of this suburban church, which is best visited during the quiet early evening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            1.458485,
+            50.04257
+          ],
+          "category": "religious",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser bescheidenen, aber historisch bedeutsamen Kirche am Stadtrand, wo die friedliche Umgebung ein perfektes, besinnliches Finale bietet.",
+            "hu": "Zárja utazását ennél a szerény, mégis történelmileg jelentős külvárosi templomnál, ahol a békés környezet tökéletes lehetőséget nyújt a csendes elmélkedésre.",
+            "ro": "Încheiați-vă călătoria la această biserică modestă, dar semnificativă istoric, unde împrejurimile senine oferă un final perfect și reflectiv pentru ziua dumneavoastră.",
+            "en": "Conclude your journey at this modest yet historically significant church on the outskirts, where the serene surroundings provide a perfect reflective finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am majestätischen Château d'Eu und führt Sie weiter zu den ruhigen Parkanlagen der Perspective Guizot. Mittags besichtigen Sie die architektonischen Wunder der Notre-Dame und der Jesuitenkapelle im Zentrum. Nachmittags entdecken Sie die Glasmacherei im Museum und der nahegelegenen Kapelle. Abends fahren Sie für einen friedlichen Ausklang in die östlichen Vororte.",
+        "hu": "Autós túrája a fenséges Château d'Eu-nál indul, majd a Perspective Guizot békés parki kilátásával folytatódik. Délben a Notre-Dame templom és a jezsuita kápolna építészeti csodáit keresheti fel a központban. A délutánt az üvegkészítés gyökereinek felfedezésével töltheti a múzeumban és a közeli kápolnában. Végül hajtson el a keleti külvárosokba egy nyugodt estéért.",
+        "ro": "Turul cu mașina începe grandios la mărețul Château d'Eu, trecând lin la peisajele parcului Perspective Guizot. La amiază vizitați minunile arhitecturale Notre-Dame și Capela Iezuită din centrul orașului. Petreceți după-amiaza descoperind istoria fabricării sticlei la muzeu și capela din apropiere. La final, conduceți spre periferia estică pentru o seară de o liniște absolută.",
+        "en": "Your driving tour starts grandly at the majestic Château d'Eu, transitioning smoothly to the serene park vistas of Perspective Guizot. Midday takes you to the architectural marvels of the Notre-Dame church and Jesuit College Chapel in the town center. Spend your afternoon discovering the region's glassmaking roots at the museum and nearby chapel. Finally, drive to the eastern outskirts for a peaceful evening."
+      }
+    }
+  }
+}

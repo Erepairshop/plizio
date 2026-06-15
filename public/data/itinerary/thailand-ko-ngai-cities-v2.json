@@ -1,0 +1,451 @@
+{
+  "city_id": "thailand-ko-ngai-cities-v2",
+  "anchor": {
+    "name": "Ko Ngai",
+    "coords": [
+      99.204167,
+      7.411111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Na Ko",
+            "hu": "Ao Na Ko",
+            "ro": "Ao Na Ko",
+            "en": "Ao Na Ko"
+          },
+          "coords": [
+            99.209849,
+            7.414729
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende nördliche Bucht mit ihrem kristallklaren türkisfarbenen Wasser, aber bringen Sie ein leichtes Handtuch mit, da es hier keine Liegen gibt.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizéről és puha homokjáról ismert északi öblöt, de ne felejtsen el törölközőt hozni, mivel itt ritkán találni bérelhető napágyakat.",
+            "ro": "Explorați acest golf nordic uimitor, cunoscut pentru apele sale turcoaz și nisipul fin, dar aduceți un prosop, deoarece șezlongurile sunt destul de rare în această zonă.",
+            "en": "Explore this stunning northern bay known for its crystal-clear turquoise waters and soft sand, but remember to bring a light towel as sunbeds are rarely available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Na Ko Beach",
+            "hu": "Ao Na Ko Beach",
+            "ro": "Ao Na Ko Beach",
+            "en": "Ao Na Ko Beach"
+          },
+          "coords": [
+            99.210118,
+            7.41379
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Küstenabschnitt, wo sanfte Wellen eine beruhigende Atmosphäre schaffen, und packen Sie am besten einige erfrischende Kaltgetränke ein.",
+            "hu": "Pihenjen ezen a festői partszakaszon, ahol a lágyan morajló hullámok nyugtató légkört teremtenek, ezért erősen ajánlott néhány frissítő hideg italt is magával hoznia.",
+            "ro": "Relaxați-vă pe această porțiune de coastă pitorească unde valurile blânde creează o atmosferă liniștitoare, fiind foarte recomandat să aveți la voi câteva băuturi reci.",
+            "en": "Relax on this picturesque stretch of coastline where the gently lapping waves create a soothing atmosphere, making it highly recommended to pack some refreshing cold drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Snorkeling Spot",
+            "hu": "Snorkeling Spot",
+            "ro": "Snorkeling Spot",
+            "en": "Snorkeling Spot"
+          },
+          "coords": [
+            99.212056,
+            7.412734
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Unterwasserwelt mit ihren Korallenriffen und exotischen Fischen ein, aber leihen Sie sich vorher eine gute Schnorchelausrüstung in den Resorts.",
+            "hu": "Merüljön el a színes korallzátonyokkal és egzotikus halakkal teli élénk víz alatti világban, de előtte feltétlenül béreljen minőségi sznorkelfelszerelést a főbb hoteleknél.",
+            "ro": "Scufundați-vă în lumea subacvatică plină de recife de corali și pești exotici, dar asigurați-vă că închiriați echipament de snorkeling de calitate de la stațiunile principale.",
+            "en": "Dive into the vibrant underwater world filled with colorful coral reefs and exotic fish, but ensure you rent high-quality snorkeling gear from the main resorts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Muang Beach",
+            "hu": "Ao Muang Beach",
+            "ro": "Ao Muang Beach",
+            "en": "Ao Muang Beach"
+          },
+          "coords": [
+            99.208474,
+            7.404772
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang an diesem herrlich ruhigen Strand mit Blick auf die fernen Inseln, der sich ideal eignet, um eine Decke für ein Picknick auszubreiten.",
+            "hu": "Sétáljon egyet ezen a gyönyörű, csendes strandon, amely tökéletes keretbe foglalja a távoli szigeteket, és ideális helyszínt biztosít egy kellemes déli piknikhez a parton.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei plaje liniștite cu o vedere perfectă spre insulele îndepărtate, fiind un loc ideal pentru a întinde o pătură pentru un picnic.",
+            "en": "Take a leisurely stroll along this beautifully quiet beach that perfectly frames the distant islands, making it an ideal spot to spread out a blanket for a midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kaun Tong - Paradise Beach",
+            "hu": "Ao Kaun Tong - Paradise Beach",
+            "ro": "Ao Kaun Tong - Paradise Beach",
+            "en": "Ao Kaun Tong - Paradise Beach"
+          },
+          "coords": [
+            99.204605,
+            7.403424
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur und die wiegenden Palmen dieses paradiesischen Küstenabschnitts und besuchen Sie ihn am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg ennek az ikonikus paradicsomi szakasznak az érintetlen környezetét és ringatózó pálmafáit, majd időzítse látogatását késő délutánra a legjobb fotózási fényekért.",
+            "ro": "Admirați natura imaculată și palmierii legănându-se ai acestei plaje paradisiace iconice și încercați să o vizitați la finalul după-amiezii pentru cea mai bună lumină foto.",
+            "en": "Marvel at the pristine environment and swaying palm trees of this iconic paradise stretch, and try to visit in the late afternoon to capture the best natural lighting for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den ruhigen Stränden im Norden, wo die sanften Wellen und der weiche Sand zum Entspannen einladen. Zur Mittagszeit können Sie die farbenfrohen Korallenriffe erkunden und die warme Sonne in einer abgelegenen Bucht genießen. Am Nachmittag führt der Weg zu den südlichen Felsformationen, die atemberaubende Ausblicke auf das klare Wasser bieten. Der Abend klingt an einem friedlichen Strand aus, perfekt für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az északi rész csendes strandjain, ahol a lágy hullámok és a puha homok azonnal ellazítják a testet. Kora délután fedezze fel a színes korallzátonyokat, és élvezze a melengető napsütést egy eldugott kis öbölben. A délután folyamán a déli sziklaalakzatokhoz vezet az út, ahonnan lélegzetelállító kilátás nyílik a kristálytiszta tengerre. Az estét egy békés tengerparton zárhatja, amely ideális helyszín egy lenyűgöző naplemente megtekintéséhez.",
+        "ro": "Începeți dimineața pe plajele liniștite din nord, unde valurile blânde și nisipul fin vă invită la o relaxare profundă. La prânz, explorați recifele colorate de corali și bucurați-vă de soarele cald într-un golf izolat și pitoresc. După-amiaza vă poartă spre formațiunile stâncoase din sud, oferind priveliști spectaculoase asupra apelor limpezi de smarald. Seara se încheie pe o plajă pașnică, un loc absolut perfect pentru a admira un apus de soare de neuitat.",
+        "en": "Start your morning at the tranquil northern beaches, where the gentle waves and soft white sand invite you to completely unwind. By midday, explore the vibrant coral reefs and soak up the warm sunshine in a beautifully secluded cove. The afternoon takes you towards the southern rock formations, offering spectacular panoramic views over the crystal-clear emerald waters. Your evening concludes on a peaceful stretch of shoreline, providing the perfect setting for an unforgettable sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 3.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Na Ko",
+            "hu": "Ao Na Ko",
+            "ro": "Ao Na Ko",
+            "en": "Ao Na Ko"
+          },
+          "coords": [
+            99.209849,
+            7.414729
+          ],
+          "category": "recreational",
+          "arrive_at": "09:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende nördliche Bucht mit ihrem kristallklaren türkisfarbenen Wasser, aber bringen Sie ein leichtes Handtuch mit, da es hier keine Liegen gibt.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizéről és puha homokjáról ismert északi öblöt, de ne felejtsen el törölközőt hozni, mivel itt ritkán találni bérelhető napágyakat.",
+            "ro": "Explorați acest golf nordic uimitor, cunoscut pentru apele sale turcoaz și nisipul fin, dar aduceți un prosop, deoarece șezlongurile sunt destul de rare în această zonă.",
+            "en": "Explore this stunning northern bay known for its crystal-clear turquoise waters and soft sand, but remember to bring a light towel as sunbeds are rarely available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Snorkeling Spot",
+            "hu": "Snorkeling Spot",
+            "ro": "Snorkeling Spot",
+            "en": "Snorkeling Spot"
+          },
+          "coords": [
+            99.212056,
+            7.412734
+          ],
+          "category": "landmark",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Unterwasserwelt mit ihren Korallenriffen und exotischen Fischen ein, aber leihen Sie sich vorher eine gute Schnorchelausrüstung in den Resorts.",
+            "hu": "Merüljön el a színes korallzátonyokkal és egzotikus halakkal teli élénk víz alatti világban, de előtte feltétlenül béreljen minőségi sznorkelfelszerelést a főbb hoteleknél.",
+            "ro": "Scufundați-vă în lumea subacvatică plină de recife de corali și pești exotici, dar asigurați-vă că închiriați echipament de snorkeling de calitate de la stațiunile principale.",
+            "en": "Dive into the vibrant underwater world filled with colorful coral reefs and exotic fish, but ensure you rent high-quality snorkeling gear from the main resorts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "2 Rocks (Dive Site)",
+            "hu": "2 Rocks (Dive Site)",
+            "ro": "2 Rocks (Dive Site)",
+            "en": "2 Rocks (Dive Site)"
+          },
+          "coords": [
+            99.213315,
+            7.402038
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Doppel-Felsformationen, die in das tiefblaue Wasser abfallen, ein fantastischer Ort für erfahrene Taucher, wobei Sie auf Strömungen achten sollten.",
+            "hu": "Fedezze fel a mélykék vízbe ereszkedő lenyűgöző kettős sziklaalakzatokat, amely fantasztikus hely a haladó búvárok számára, bár a tengeri áramlatokra mindig nagyon figyelni kell.",
+            "ro": "Descoperiți formațiunile stâncoase duble care coboară în apa albastră, un loc fantastic pentru scafandrii avansați, deși trebuie să fiți extrem de atenți la curenții oceanici.",
+            "en": "Discover the intriguing dual rock formations descending into the deep blue water, which is a fantastic spot for advanced divers, though you must stay mindful of the ocean currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuan Tong Rock",
+            "hu": "Kuan Tong Rock",
+            "ro": "Kuan Tong Rock",
+            "en": "Kuan Tong Rock"
+          },
+          "coords": [
+            99.216405,
+            7.401291
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses markante Felswahrzeichen, das einen dramatischen Kontrast zur Meereslandschaft bildet, und tragen Sie feste Wasserschuhe, um die flachen Riffkanten zu erkunden.",
+            "hu": "Fotózza le ezt a kiemelkedő sziklás tájékozódási pontot, amely drámai kontrasztot ad a tengerképnek, és viseljen masszív vízi cipőt, ha a sekély zátony szélén szeretne sétálni.",
+            "ro": "Fotografiați acest reper stâncos proeminent care adaugă un contrast dramatic peisajului marin și purtați încălțăminte de apă solidă dacă mergeți de-a lungul marginilor recifului.",
+            "en": "Photograph this prominent rocky landmark that adds dramatic contrast to the seascape, and wear sturdy water shoes if you plan to walk along the shallow reef edges nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kra Yi",
+            "hu": "Ao Kra Yi",
+            "ro": "Ao Kra Yi",
+            "en": "Ao Kra Yi"
+          },
+          "coords": [
+            99.215782,
+            7.40353
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den kleinen Menschenmengen in dieser herrlich abgelegenen Bucht mit unübertroffener Privatsphäre, weshalb es wichtig ist, eigene Snacks und Trinkwasser mitzubringen.",
+            "hu": "Meneküljön el a tömeg elől ebben a gyönyörűen eldugott öbölben, amely páratlan privát szférát kínál, ezért feltétlenül hozzon magával minden szükséges rágcsálnivalót és ivóvizet.",
+            "ro": "Scăpați de aglomerație în acest golf frumos și izolat, care oferă o intimitate de neegalat, fiind absolut esențial să vă aduceți propriile gustări și suficientă apă potabilă.",
+            "en": "Escape the small crowds at this beautifully secluded cove that offers an unmatched sense of privacy, making it absolutely essential to pack all your own snacks and drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Muang Beach",
+            "hu": "Ao Muang Beach",
+            "ro": "Ao Muang Beach",
+            "en": "Ao Muang Beach"
+          },
+          "coords": [
+            99.208474,
+            7.404772
+          ],
+          "category": "recreational",
+          "arrive_at": "14:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang an diesem herrlich ruhigen Strand mit Blick auf die fernen Inseln, der sich ideal eignet, um eine Decke für ein Picknick auszubreiten.",
+            "hu": "Sétáljon egyet ezen a gyönyörű, csendes strandon, amely tökéletes keretbe foglalja a távoli szigeteket, és ideális helyszínt biztosít egy kellemes déli piknikhez a parton.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei plaje liniștite cu o vedere perfectă spre insulele îndepărtate, fiind un loc ideal pentru a întinde o pătură pentru un picnic.",
+            "en": "Take a leisurely stroll along this beautifully quiet beach that perfectly frames the distant islands, making it an ideal spot to spread out a blanket for a midday picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den ruhigen Stränden im Norden, wo die sanften Wellen und der weiche Sand zum Entspannen einladen. Zur Mittagszeit können Sie die farbenfrohen Korallenriffe erkunden und die warme Sonne in einer abgelegenen Bucht genießen. Am Nachmittag führt der Weg zu den südlichen Felsformationen, die atemberaubende Ausblicke auf das klare Wasser bieten. Der Abend klingt an einem friedlichen Strand aus, perfekt für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az északi rész csendes strandjain, ahol a lágy hullámok és a puha homok azonnal ellazítják a testet. Kora délután fedezze fel a színes korallzátonyokat, és élvezze a melengető napsütést egy eldugott kis öbölben. A délután folyamán a déli sziklaalakzatokhoz vezet az út, ahonnan lélegzetelállító kilátás nyílik a kristálytiszta tengerre. Az estét egy békés tengerparton zárhatja, amely ideális helyszín egy lenyűgöző naplemente megtekintéséhez.",
+        "ro": "Începeți dimineața pe plajele liniștite din nord, unde valurile blânde și nisipul fin vă invită la o relaxare profundă. La prânz, explorați recifele colorate de corali și bucurați-vă de soarele cald într-un golf izolat și pitoresc. După-amiaza vă poartă spre formațiunile stâncoase din sud, oferind priveliști spectaculoase asupra apelor limpezi de smarald. Seara se încheie pe o plajă pașnică, un loc absolut perfect pentru a admira un apus de soare de neuitat.",
+        "en": "Start your morning at the tranquil northern beaches, where the gentle waves and soft white sand invite you to completely unwind. By midday, explore the vibrant coral reefs and soak up the warm sunshine in a beautifully secluded cove. The afternoon takes you towards the southern rock formations, offering spectacular panoramic views over the crystal-clear emerald waters. Your evening concludes on a peaceful stretch of shoreline, providing the perfect setting for an unforgettable sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 4.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Na Ko Beach",
+            "hu": "Ao Na Ko Beach",
+            "ro": "Ao Na Ko Beach",
+            "en": "Ao Na Ko Beach"
+          },
+          "coords": [
+            99.210118,
+            7.41379
+          ],
+          "category": "recreational",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Küstenabschnitt, wo sanfte Wellen eine beruhigende Atmosphäre schaffen, und packen Sie am besten einige erfrischende Kaltgetränke ein.",
+            "hu": "Pihenjen ezen a festői partszakaszon, ahol a lágyan morajló hullámok nyugtató légkört teremtenek, ezért erősen ajánlott néhány frissítő hideg italt is magával hoznia.",
+            "ro": "Relaxați-vă pe această porțiune de coastă pitorească unde valurile blânde creează o atmosferă liniștitoare, fiind foarte recomandat să aveți la voi câteva băuturi reci.",
+            "en": "Relax on this picturesque stretch of coastline where the gently lapping waves create a soothing atmosphere, making it highly recommended to pack some refreshing cold drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Snorkeling Spot",
+            "hu": "Snorkeling Spot",
+            "ro": "Snorkeling Spot",
+            "en": "Snorkeling Spot"
+          },
+          "coords": [
+            99.212056,
+            7.412734
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Unterwasserwelt mit ihren Korallenriffen und exotischen Fischen ein, aber leihen Sie sich vorher eine gute Schnorchelausrüstung in den Resorts.",
+            "hu": "Merüljön el a színes korallzátonyokkal és egzotikus halakkal teli élénk víz alatti világban, de előtte feltétlenül béreljen minőségi sznorkelfelszerelést a főbb hoteleknél.",
+            "ro": "Scufundați-vă în lumea subacvatică plină de recife de corali și pești exotici, dar asigurați-vă că închiriați echipament de snorkeling de calitate de la stațiunile principale.",
+            "en": "Dive into the vibrant underwater world filled with colorful coral reefs and exotic fish, but ensure you rent high-quality snorkeling gear from the main resorts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kra Yi",
+            "hu": "Ao Kra Yi",
+            "ro": "Ao Kra Yi",
+            "en": "Ao Kra Yi"
+          },
+          "coords": [
+            99.215782,
+            7.40353
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den kleinen Menschenmengen in dieser herrlich abgelegenen Bucht mit unübertroffener Privatsphäre, weshalb es wichtig ist, eigene Snacks und Trinkwasser mitzubringen.",
+            "hu": "Meneküljön el a tömeg elől ebben a gyönyörűen eldugott öbölben, amely páratlan privát szférát kínál, ezért feltétlenül hozzon magával minden szükséges rágcsálnivalót és ivóvizet.",
+            "ro": "Scăpați de aglomerație în acest golf frumos și izolat, care oferă o intimitate de neegalat, fiind absolut esențial să vă aduceți propriile gustări și suficientă apă potabilă.",
+            "en": "Escape the small crowds at this beautifully secluded cove that offers an unmatched sense of privacy, making it absolutely essential to pack all your own snacks and drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kaun Tong - Paradise Beach",
+            "hu": "Ao Kaun Tong - Paradise Beach",
+            "ro": "Ao Kaun Tong - Paradise Beach",
+            "en": "Ao Kaun Tong - Paradise Beach"
+          },
+          "coords": [
+            99.204605,
+            7.403424
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur und die wiegenden Palmen dieses paradiesischen Küstenabschnitts und besuchen Sie ihn am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg ennek az ikonikus paradicsomi szakasznak az érintetlen környezetét és ringatózó pálmafáit, majd időzítse látogatását késő délutánra a legjobb fotózási fényekért.",
+            "ro": "Admirați natura imaculată și palmierii legănându-se ai acestei plaje paradisiace iconice și încercați să o vizitați la finalul după-amiezii pentru cea mai bună lumină foto.",
+            "en": "Marvel at the pristine environment and swaying palm trees of this iconic paradise stretch, and try to visit in the late afternoon to capture the best natural lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Paradise (Dive Site)",
+            "hu": "Paradise (Dive Site)",
+            "ro": "Paradise (Dive Site)",
+            "en": "Paradise (Dive Site)"
+          },
+          "coords": [
+            99.202072,
+            7.398697
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die atemberaubenden Tiefen dieses berühmten Ortes voller Meereslebewesen ein, aber erkunden Sie das Gebiet zur Sicherheit stets mit einem zertifizierten lokalen Guide.",
+            "hu": "Merüljön el ennek a tengeri élőlényekkel teli híres merülőhelynek a lélegzetelállító mélységeiben, de a biztonság érdekében mindig okleveles helyi vezetővel vágjon neki a túrának.",
+            "ro": "Cufundați-vă în adâncurile uluitoare ale acestui faimos sit marin plin de viață acvatică, dar explorați mereu alături de un ghid local certificat pentru o siguranță deplină.",
+            "en": "Immerse yourself in the breathtaking depths of this famous marine site bustling with aquatic life, but always explore alongside a certified local guide for safety and orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Nui Beach",
+            "hu": "Nui Beach",
+            "ro": "Nui Beach",
+            "en": "Nui Beach"
+          },
+          "coords": [
+            99.198883,
+            7.400583
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem Geheimtipp, der von üppigen grünen Hügeln umgeben ist, und bleiben Sie bis zur Dämmerung, um die kühlende Brise in völliger Ruhe zu genießen.",
+            "hu": "Kapcsolódjon ki ezen a buja zöld dombokkal és érintetlen homokkal körülvett rejtett gyöngyszemen, és érdemes alkonyatig maradni, hogy élvezze a hűsítő szellőt a teljes nyugalomban.",
+            "ro": "Relaxați-vă la această bijuterie ascunsă înconjurată de dealuri verzi și nisipuri imaculate și luați în considerare să rămâneți până la amurg pentru a vă bucura de briza răcoroasă.",
+            "en": "Unwind at this hidden gem surrounded by lush green hills and pristine sands, and consider staying until twilight to enjoy the cooling breeze in absolute natural serenity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den ruhigen Stränden im Norden, wo die sanften Wellen und der weiche Sand zum Entspannen einladen. Zur Mittagszeit können Sie die farbenfrohen Korallenriffe erkunden und die warme Sonne in einer abgelegenen Bucht genießen. Am Nachmittag führt der Weg zu den südlichen Felsformationen, die atemberaubende Ausblicke auf das klare Wasser bieten. Der Abend klingt an einem friedlichen Strand aus, perfekt für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az északi rész csendes strandjain, ahol a lágy hullámok és a puha homok azonnal ellazítják a testet. Kora délután fedezze fel a színes korallzátonyokat, és élvezze a melengető napsütést egy eldugott kis öbölben. A délután folyamán a déli sziklaalakzatokhoz vezet az út, ahonnan lélegzetelállító kilátás nyílik a kristálytiszta tengerre. Az estét egy békés tengerparton zárhatja, amely ideális helyszín egy lenyűgöző naplemente megtekintéséhez.",
+        "ro": "Începeți dimineața pe plajele liniștite din nord, unde valurile blânde și nisipul fin vă invită la o relaxare profundă. La prânz, explorați recifele colorate de corali și bucurați-vă de soarele cald într-un golf izolat și pitoresc. După-amiaza vă poartă spre formațiunile stâncoase din sud, oferind priveliști spectaculoase asupra apelor limpezi de smarald. Seara se încheie pe o plajă pașnică, un loc absolut perfect pentru a admira un apus de soare de neuitat.",
+        "en": "Start your morning at the tranquil northern beaches, where the gentle waves and soft white sand invite you to completely unwind. By midday, explore the vibrant coral reefs and soak up the warm sunshine in a beautifully secluded cove. The afternoon takes you towards the southern rock formations, offering spectacular panoramic views over the crystal-clear emerald waters. Your evening concludes on a peaceful stretch of shoreline, providing the perfect setting for an unforgettable sunset."
+      }
+    }
+  }
+}

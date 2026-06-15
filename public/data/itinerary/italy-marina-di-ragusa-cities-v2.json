@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-di-ragusa-cities-v2",
+  "anchor": {
+    "name": "Marina di Ragusa",
+    "coords": [
+      14.55449,
+      36.78395
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 1.24,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria di Porto Salvo",
+            "hu": "Santa Maria di Porto Salvo",
+            "ro": "Santa Maria di Porto Salvo",
+            "en": "Santa Maria di Porto Salvo"
+          },
+          "coords": [
+            14.553775,
+            36.784292
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser Küstenkirche und prüfen Sie das schwarze Brett für die abendlichen Messen, um einen ruhigen Besuch zu planen.",
+            "hu": "Csodálja meg a tengerparti templom egyszerű, de elegáns építészetét, és ellenőrizze az esti misék időpontját a hirdetőtáblán egy nyugodt látogatáshoz.",
+            "ro": "Admirați arhitectura simplă a acestei biserici de coastă și verificați avizierul pentru orele slujbelor de seară pentru o vizită liniștită.",
+            "en": "Admire the simple yet elegant architecture of this seaside church and check the notice board for local evening mass times to plan a peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Cabrera",
+            "hu": "Torre Cabrera",
+            "ro": "Torre Cabrera",
+            "en": "Torre Cabrera"
+          },
+          "coords": [
+            14.554394,
+            36.782961
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen historischen Wehrturm, der einst den Hafen schützte, und besuchen Sie ihn zur goldenen Stunde, wenn der alte Stein leuchtet.",
+            "hu": "Készítsen egy fotót a történelmi védőtoronyról, amely egykor a kikötőt védte, és látogasson el ide naplemente előtt a legszebb fényekért.",
+            "ro": "Fotografiați acest turn istoric de apărare care proteja odată portul și vizitați-l la ora de aur, când piatra antică strălucește frumos.",
+            "en": "Snap a photo of this historic defense tower which once protected the harbor, and visit during golden hour when the ancient stone glows beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Margarita",
+            "hu": "Lido Margarita",
+            "ro": "Lido Margarita",
+            "en": "Lido Margarita"
+          },
+          "coords": [
+            14.558593,
+            36.781957
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Trinken Sie ein erfrischendes Getränk und genießen Sie die lebhafte Atmosphäre; verpassen Sie nicht die lokalen Meeresfrüchte-Snacks direkt an der Liege.",
+            "hu": "Kortyoljon el egy frissítő italt a strandklub pezsgő hangulatában, és feltétlenül kóstolja meg a napágyánál felszolgált helyi tengeri falatokat.",
+            "ro": "Savurați o băutură răcoritoare în atmosfera animată a clubului și nu ratați gustările excelente din fructe de mare servite direct la șezlong.",
+            "en": "Sip a refreshing drink while enjoying the lively atmosphere of this beach club, and don't miss their excellent local seafood snacks served right at your lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Boga Mare",
+            "hu": "Boga Mare",
+            "ro": "Boga Mare",
+            "en": "Boga Mare"
+          },
+          "coords": [
+            14.563823,
+            36.781225
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses gepflegten Lidos und bringen Sie ein gutes Buch mit, denn die entspannte Atmosphäre ist perfekt zum Abschalten.",
+            "hu": "Ússzon egyet ennek a gyönyörűen karbantartott strandnak a kristálytiszta vizében, és vigyen magával egy jó könyvet a tökéletes kikapcsolódáshoz.",
+            "ro": "Înotați în apele cristaline de la acest lido frumos întreținut și aduceți o carte bună, deoarece atmosfera relaxantă este perfectă pentru odihnă.",
+            "en": "Take a swim in the pristine waters at this beautifully maintained lido, and bring a good book as the relaxing vibe here is perfect for unwinding."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia del Sole",
+            "hu": "Baia del Sole",
+            "ro": "Baia del Sole",
+            "en": "Baia del Sole"
+          },
+          "coords": [
+            14.566313,
+            36.780589
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem familienfreundlichen Küstenort und nutzen Sie die sanften Wellen, die perfekt für ein sicheres nachmittägliches Planschen sind.",
+            "hu": "Pihenjen a tengernél ezen a családbarát partszakaszon, és használja ki a lágy hullámokat, amelyek tökéletesek egy biztonságos délutáni fürdőzéshez.",
+            "ro": "Relaxați-vă la mare în acest loc potrivit pentru familii și profitați de valurile blânde, care sunt perfecte pentru o bălăceală de după-amiază.",
+            "en": "Lounge by the sea at this family-friendly coastal spot, and take advantage of the gentle waves which are perfect for a safe afternoon paddle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen der Gemeinde an der örtlichen Kirche und führt schnell zum historischen Wehrturm. Mittags entspannen Sie in einem lebhaften Strandclub mit kühlen Getränken. Der Nachmittag geht weiter mit erholsamen Momenten am Strand und Schwimmen im kristallklaren Wasser. Der Abend bringt einen friedlichen Abschluss beim Sonnenuntergang an der malerischen Bucht.",
+        "hu": "A reggel a helyi közösség szívében, a templomnál indul, majd a történelmi védőtorony következik. A delet egy pezsgő strandklubban tölthetjük hűsítő italok társaságában. A délután további pihentető tengerparti pillanatokat és kristálytiszta vizes fürdőzést tartogat. Az estét a festői öbölből megcsodált naplemente zárja tökéletes nyugalommal.",
+        "ro": "Dimineața începe în inima comunității la biserica locală, trecând rapid la turnul istoric de apărare. Prânzul este petrecut relaxându-vă la un club de plajă animat. După-amiaza continuă cu mai multe momente liniștite pe plajă și înot în ape limpezi. Seara aduce o încheiere pașnică, privind apusul din golful pitoresc.",
+        "en": "Morning starts at the heart of the community by the elegant local church, quickly moving to the historic defense tower. Midday is spent unwinding at a lively beach club with refreshing drinks. The afternoon continues with more relaxing beachside moments and swimming in pristine waters. The evening brings a peaceful conclusion watching the sunset from the scenic bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 2.01,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido La Ola",
+            "hu": "Lido La Ola",
+            "ro": "Lido La Ola",
+            "en": "Lido La Ola"
+          },
+          "coords": [
+            14.551017,
+            36.782358
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgen in diesem Strandclub und reservieren Sie Ihre Sonnenliegen im Hochsommer im Voraus, um den besten Platz zu sichern.",
+            "hu": "Élvezze a pihentető délelőttöt ebben a népszerű strandklubban, de a főszezonban érdemes előre lefoglalni a napágyakat a legjobb vízparti helyekért.",
+            "ro": "Bucurați-vă de o dimineață relaxantă la acest club de plajă popular și rezervați-vă șezlongurile în avans în plină vară pentru a prinde un loc bun.",
+            "en": "Enjoy a relaxing morning at this popular beach club and reserve your sunbeds in advance during peak summer to secure the best spot by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Porto Salvo",
+            "hu": "Santa Maria di Porto Salvo",
+            "ro": "Santa Maria di Porto Salvo",
+            "en": "Santa Maria di Porto Salvo"
+          },
+          "coords": [
+            14.553775,
+            36.784292
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser Küstenkirche und prüfen Sie das schwarze Brett für die abendlichen Messen, um einen ruhigen Besuch zu planen.",
+            "hu": "Csodálja meg a tengerparti templom egyszerű, de elegáns építészetét, és ellenőrizze az esti misék időpontját a hirdetőtáblán egy nyugodt látogatáshoz.",
+            "ro": "Admirați arhitectura simplă a acestei biserici de coastă și verificați avizierul pentru orele slujbelor de seară pentru o vizită liniștită.",
+            "en": "Admire the simple yet elegant architecture of this seaside church and check the notice board for local evening mass times to plan a peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Cabrera",
+            "hu": "Torre Cabrera",
+            "ro": "Torre Cabrera",
+            "en": "Torre Cabrera"
+          },
+          "coords": [
+            14.554394,
+            36.782961
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen historischen Wehrturm, der einst den Hafen schützte, und besuchen Sie ihn zur goldenen Stunde, wenn der alte Stein leuchtet.",
+            "hu": "Készítsen egy fotót a történelmi védőtoronyról, amely egykor a kikötőt védte, és látogasson el ide naplemente előtt a legszebb fényekért.",
+            "ro": "Fotografiați acest turn istoric de apărare care proteja odată portul și vizitați-l la ora de aur, când piatra antică strălucește frumos.",
+            "en": "Snap a photo of this historic defense tower which once protected the harbor, and visit during golden hour when the ancient stone glows beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Margarita",
+            "hu": "Lido Margarita",
+            "ro": "Lido Margarita",
+            "en": "Lido Margarita"
+          },
+          "coords": [
+            14.558593,
+            36.781957
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Trinken Sie ein erfrischendes Getränk und genießen Sie die lebhafte Atmosphäre; verpassen Sie nicht die lokalen Meeresfrüchte-Snacks direkt an der Liege.",
+            "hu": "Kortyoljon el egy frissítő italt a strandklub pezsgő hangulatában, és feltétlenül kóstolja meg a napágyánál felszolgált helyi tengeri falatokat.",
+            "ro": "Savurați o băutură răcoritoare în atmosfera animată a clubului și nu ratați gustările excelente din fructe de mare servite direct la șezlong.",
+            "en": "Sip a refreshing drink while enjoying the lively atmosphere of this beach club, and don't miss their excellent local seafood snacks served right at your lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Boga Mare",
+            "hu": "Boga Mare",
+            "ro": "Boga Mare",
+            "en": "Boga Mare"
+          },
+          "coords": [
+            14.563823,
+            36.781225
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses gepflegten Lidos und bringen Sie ein gutes Buch mit, denn die entspannte Atmosphäre ist perfekt zum Abschalten.",
+            "hu": "Ússzon egyet ennek a gyönyörűen karbantartott strandnak a kristálytiszta vizében, és vigyen magával egy jó könyvet a tökéletes kikapcsolódáshoz.",
+            "ro": "Înotați în apele cristaline de la acest lido frumos întreținut și aduceți o carte bună, deoarece atmosfera relaxantă este perfectă pentru odihnă.",
+            "en": "Take a swim in the pristine waters at this beautifully maintained lido, and bring a good book as the relaxing vibe here is perfect for unwinding."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia del Sole",
+            "hu": "Baia del Sole",
+            "ro": "Baia del Sole",
+            "en": "Baia del Sole"
+          },
+          "coords": [
+            14.566313,
+            36.780589
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem familienfreundlichen Küstenort und nutzen Sie die sanften Wellen, die perfekt für ein sicheres nachmittägliches Planschen sind.",
+            "hu": "Pihenjen a tengernél ezen a családbarát partszakaszon, és használja ki a lágy hullámokat, amelyek tökéletesek egy biztonságos délutáni fürdőzéshez.",
+            "ro": "Relaxați-vă la mare în acest loc potrivit pentru familii și profitați de valurile blânde, care sunt perfecte pentru o bălăceală de după-amiază.",
+            "en": "Lounge by the sea at this family-friendly coastal spot, and take advantage of the gentle waves which are perfect for a safe afternoon paddle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di divertimento (estivo)",
+            "hu": "Parco di divertimento (estivo)",
+            "ro": "Parco di divertimento (estivo)",
+            "en": "Parco di divertimento (estivo)"
+          },
+          "coords": [
+            14.571392,
+            36.780156
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit etwas Spaß in diesem Sommer-Vergnügungspark und bringen Sie etwas Bargeld für die klassischen Arcade-Spiele und Snacks mit.",
+            "hu": "Zárja a napot egy kis önfeledt szórakozással ebben a nyári vidámparkban, és vigyen magával készpénzt a klasszikus játéktermi gépekhez és rágcsálnivalókhoz.",
+            "ro": "Încheiați-vă ziua cu o distracție relaxantă la acest parc de vară și aduceți bani gheață pentru jocurile arcade clasice și gustările de bâlci.",
+            "en": "End your day with some lighthearted fun at this summer amusement park, and bring some cash for the classic arcade games and fairground snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit Sonne und Meeresbrise an einem beliebten Lido, bevor Sie zum Turm und zur Kirche radeln. Mittags dreht sich alles um Strandhopping entlang der lebhaften Küste. Genießen Sie am Nachmittag einen weiteren Premium-Strandclub zur Abkühlung. Der Abend führt Sie zum Sommer-Vergnügungspark für unbeschwerten Spaß und Fahrgeschäfte.",
+        "hu": "Indítsa a reggelt a tengeri szellővel egy népszerű strandon, mielőtt a város történelmi tornyához és templomához tekerne. A dél a nyüzsgő tengerparti strandok felfedezéséről szól. Délután egy újabb prémium strandklubban hűsölhet a tengerben. Az este a nyári vidámparkba vezeti, ahol gondtalan szórakozás és játékok várják.",
+        "ro": "Începeți dimineața prinzând soarele și briza mării la un lido popular, înainte de a pedala spre turnul și biserica istorică. Prânzul este despre explorarea cluburilor de pe coasta vibrantă. După-amiaza, bucurați-vă de un alt club premium pentru a vă răcori. Seara vă aduce la parcul de distracții de vară pentru relaxare și jocuri.",
+        "en": "Kick off the morning catching the early sun and sea breeze at a popular lido before pedaling towards the town's historic tower and central church. Midday is all about beach-hopping along the vibrant coast. In the afternoon, enjoy another premium beach club to cool off in the sea. Evening brings you to the summer amusement park for lighthearted fun and rides."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.69,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria di Porto Salvo",
+            "hu": "Santa Maria di Porto Salvo",
+            "ro": "Santa Maria di Porto Salvo",
+            "en": "Santa Maria di Porto Salvo"
+          },
+          "coords": [
+            14.553775,
+            36.784292
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser Küstenkirche und prüfen Sie das schwarze Brett für die abendlichen Messen, um einen ruhigen Besuch zu planen.",
+            "hu": "Csodálja meg a tengerparti templom egyszerű, de elegáns építészetét, és ellenőrizze az esti misék időpontját a hirdetőtáblán egy nyugodt látogatáshoz.",
+            "ro": "Admirați arhitectura simplă a acestei biserici de coastă și verificați avizierul pentru orele slujbelor de seară pentru o vizită liniștită.",
+            "en": "Admire the simple yet elegant architecture of this seaside church and check the notice board for local evening mass times to plan a peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Cabrera",
+            "hu": "Torre Cabrera",
+            "ro": "Torre Cabrera",
+            "en": "Torre Cabrera"
+          },
+          "coords": [
+            14.554394,
+            36.782961
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen historischen Wehrturm, der einst den Hafen schützte, und besuchen Sie ihn zur goldenen Stunde, wenn der alte Stein leuchtet.",
+            "hu": "Készítsen egy fotót a történelmi védőtoronyról, amely egykor a kikötőt védte, és látogasson el ide naplemente előtt a legszebb fényekért.",
+            "ro": "Fotografiați acest turn istoric de apărare care proteja odată portul și vizitați-l la ora de aur, când piatra antică strălucește frumos.",
+            "en": "Snap a photo of this historic defense tower which once protected the harbor, and visit during golden hour when the ancient stone glows beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Margarita",
+            "hu": "Lido Margarita",
+            "ro": "Lido Margarita",
+            "en": "Lido Margarita"
+          },
+          "coords": [
+            14.558593,
+            36.781957
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Trinken Sie ein erfrischendes Getränk und genießen Sie die lebhafte Atmosphäre; verpassen Sie nicht die lokalen Meeresfrüchte-Snacks direkt an der Liege.",
+            "hu": "Kortyoljon el egy frissítő italt a strandklub pezsgő hangulatában, és feltétlenül kóstolja meg a napágyánál felszolgált helyi tengeri falatokat.",
+            "ro": "Savurați o băutură răcoritoare în atmosfera animată a clubului și nu ratați gustările excelente din fructe de mare servite direct la șezlong.",
+            "en": "Sip a refreshing drink while enjoying the lively atmosphere of this beach club, and don't miss their excellent local seafood snacks served right at your lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Boga Mare",
+            "hu": "Boga Mare",
+            "ro": "Boga Mare",
+            "en": "Boga Mare"
+          },
+          "coords": [
+            14.563823,
+            36.781225
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses gepflegten Lidos und bringen Sie ein gutes Buch mit, denn die entspannte Atmosphäre ist perfekt zum Abschalten.",
+            "hu": "Ússzon egyet ennek a gyönyörűen karbantartott strandnak a kristálytiszta vizében, és vigyen magával egy jó könyvet a tökéletes kikapcsolódáshoz.",
+            "ro": "Înotați în apele cristaline de la acest lido frumos întreținut și aduceți o carte bună, deoarece atmosfera relaxantă este perfectă pentru odihnă.",
+            "en": "Take a swim in the pristine waters at this beautifully maintained lido, and bring a good book as the relaxing vibe here is perfect for unwinding."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolcevita Beach",
+            "hu": "Dolcevita Beach",
+            "ro": "Dolcevita Beach",
+            "en": "Dolcevita Beach"
+          },
+          "coords": [
+            14.568179,
+            36.780128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das süße Leben in diesem stilvollen Strandclub, wo Sie Premium-Cabanas mieten können, ideal für einen luxuriösen Rückzugsort am Nachmittag.",
+            "hu": "Tapasztalja meg az édes életet ebben a stílusos strandklubban, ahol prémium pavilonokat is bérelhet egy fényűző késő délutáni pihenéshez.",
+            "ro": "Experimentați viața dulce la acest club elegant, unde puteți închiria cabane premium, fiind ideal pentru o retragere luxoasă după-amiaza.",
+            "en": "Experience the sweet life at this stylish beach club where you can rent premium cabanas, making it ideal for a luxurious late afternoon retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di divertimento (estivo)",
+            "hu": "Parco di divertimento (estivo)",
+            "ro": "Parco di divertimento (estivo)",
+            "en": "Parco di divertimento (estivo)"
+          },
+          "coords": [
+            14.571392,
+            36.780156
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit etwas Spaß in diesem Sommer-Vergnügungspark und bringen Sie etwas Bargeld für die klassischen Arcade-Spiele und Snacks mit.",
+            "hu": "Zárja a napot egy kis önfeledt szórakozással ebben a nyári vidámparkban, és vigyen magával készpénzt a klasszikus játéktermi gépekhez és rágcsálnivalókhoz.",
+            "ro": "Încheiați-vă ziua cu o distracție relaxantă la acest parc de vară și aduceți bani gheață pentru jocurile arcade clasice și gustările de bâlci.",
+            "en": "End your day with some lighthearted fun at this summer amusement park, and bring some cash for the classic arcade games and fairground snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer kurzen Fahrt zum zentralen spirituellen Wahrzeichen der Stadt und dem ikonischen Wehrturm. Mittags bleibt viel Zeit zum Entspannen in einem der lebhaften Strandclubs. Der Nachmittag setzt den Küstenrückzug mit gehobener Entspannung fort. Der Abend nähert sich, wenn Sie zum Vergnügungspark für einen nostalgischen Abschluss fahren.",
+        "hu": "A nap egy rövid utazással kezdődik a város központi templomához és az ikonikus védőtoronyhoz. A dél bőséges időt kínál a pihenésre az egyik pezsgő tengerparti klubban. A délután folytatja a tengerparti kikapcsolódást elegáns napozással. Az este közeledtével a helyi vidámpark felé veszi az irányt egy nosztalgikus és vidám befejezésért.",
+        "ro": "Ziua începe cu un scurt drum spre reperul spiritual central al orașului și turnul de apărare. Prânzul oferă timp suficient pentru a vă relaxa la unul dintre cluburile animate de plajă. După-amiaza continuă retragerea pe coastă cu relaxare la standarde înalte. Seara se apropie în timp ce vă îndreptați spre parcul de distracții local pentru un final nostalgic.",
+        "en": "Your day begins with a short drive to the town's central spiritual landmark and the iconic defense tower nearby. Midday offers ample time to relax at one of the lively coastal beach clubs. The afternoon continues the coastal retreat with upscale lounging and calm waves. Evening approaches as you head to the local amusement park for a nostalgic and fun-filled finish."
+      }
+    }
+  }
+}

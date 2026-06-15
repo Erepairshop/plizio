@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-martorell-cities-v2",
+  "anchor": {
+    "name": "Martorell",
+    "coords": [
+      1.93062,
+      41.47402
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:05",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Martorell Town Hall",
+            "hu": "Martorell Town Hall",
+            "ro": "Martorell Town Hall",
+            "en": "Martorell Town Hall"
+          },
+          "coords": [
+            1.930842,
+            41.474317
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, um das bürgerliche Zentrum von Martorell zu verstehen, und achten Sie auf die Aushänge für kommende lokale Veranstaltungen.",
+            "hu": "Csodálja meg a történelmi Városházát, amely Martorell polgári központja, és mindenképpen ellenőrizze a kinti hirdetőtáblákat a közelgő helyi eseményekért.",
+            "ro": "Admirați Primăria istorică pentru a înțelege inima civică a orașului Martorell și nu uitați să verificați panourile exterioare pentru a afla despre evenimentele locale.",
+            "en": "Admire the historic Town Hall to understand the civic heart of Martorell, and be sure to check the notice boards outside for any upcoming local events during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu L'Enrajolada-Santacana",
+            "hu": "Casa Museu L'Enrajolada-Santacana",
+            "ro": "Casa Museu L'Enrajolada-Santacana",
+            "en": "Casa Museu L'Enrajolada-Santacana"
+          },
+          "coords": [
+            1.92853,
+            41.474443
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum, um eine unglaubliche Sammlung katalanischer Keramik zu sehen, aber kommen Sie früh, da die engen Flure später voll werden.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, hogy megtekintse a hihetetlen katalán kerámiagyűjteményt, de érkezzen korán, mivel a szűk folyosók később zsúfoltak lehetnek.",
+            "ro": "Explorați acest muzeu fascinant pentru a vedea o colecție incredibilă de ceramică catalană, dar sosiți devreme, deoarece coridoarele înguste se pot aglomera mai târziu.",
+            "en": "Explore this fascinating museum to witness an incredible collection of Catalan ceramics, but arrive early as the narrow corridors can get crowded later in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "El Foment",
+            "hu": "El Foment",
+            "ro": "El Foment",
+            "en": "El Foment"
+          },
+          "coords": [
+            1.927486,
+            41.474357
+          ],
+          "category": "cultural",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses kulturelle Zentrum, um den lokalen künstlerischen Geist zu erleben, und trinken Sie einen schnellen Kaffee in den nahegelegenen Cafés.",
+            "hu": "Látogasson el ebbe a kulturális központba, hogy megtapasztalja a helyi művészeti életet, és igyon egy gyors kávét a közeli kávézókban, mielőtt továbbindulna.",
+            "ro": "Vizitați acest centru cultural pentru a experimenta spiritul artistic local și viața comunității și savurați o cafea rapidă la cafenelele din apropiere înainte de a pleca.",
+            "en": "Visit this cultural hub to experience the local artistic spirit and community life, and take a moment to enjoy a quick coffee at the nearby cafes before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala d'exposicions Memorial Vicenç Ros",
+            "hu": "Sala d'exposicions Memorial Vicenç Ros",
+            "ro": "Sala d'exposicions Memorial Vicenç Ros",
+            "en": "Sala d'exposicions Memorial Vicenç Ros"
+          },
+          "coords": [
+            1.932562,
+            41.473175
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Ausstellungshalle, um atemberaubende Kunstwerke zu entdecken, und fragen Sie das Personal unbedingt nach der kostenlosen Informationsbroschüre am Eingang.",
+            "hu": "Lépjen be ebbe a kiállítóterembe, hogy lenyűgöző műalkotásokat fedezzen fel, és mindenképpen kérje el a bejáratnál található ingyenes információs füzetet a személyzettől.",
+            "ro": "Pășiți în această sală de expoziții pentru a descoperi opere de artă uimitoare și asigurați-vă că cereți personalului broșura informativă gratuită de lângă intrare.",
+            "en": "Step inside this exhibition hall to discover stunning contemporary and classic artworks, and make sure to ask the staff for the free informational brochure near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Escola municipal d'arts plàstiques Ca l'Oller",
+            "hu": "Escola municipal d'arts plàstiques Ca l'Oller",
+            "ro": "Escola municipal d'arts plàstiques Ca l'Oller",
+            "en": "Escola municipal d'arts plàstiques Ca l'Oller"
+          },
+          "coords": [
+            1.933475,
+            41.474237
+          ],
+          "category": "cultural",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die lebhaften Schülerarbeiten an dieser städtischen Kunstschule, um den kreativen Puls der Stadt zu spüren, und respektieren Sie die Ruhezonen der Klassen.",
+            "hu": "Figyelje meg a diákok élénk alkotásait ebben a városi művészeti iskolában, és tartsa tiszteletben azokat a csendes zónákat, ahol éppen tanítás folyhat.",
+            "ro": "Observați creațiile vibrante ale studenților la această școală municipală de artă pentru a simți pulsul creativ și respectați zonele de liniște unde se pot desfășura cursuri.",
+            "en": "Observe the vibrant student creations at this local municipal art school to feel the town's creative pulse, and respect the quiet zones where classes might be in session."
+          }
+        },
+        {
+          "name": {
+            "de": "Torreta del Clos",
+            "hu": "Torreta del Clos",
+            "ro": "Torreta del Clos",
+            "en": "Torreta del Clos"
+          },
+          "coords": [
+            1.931507,
+            41.470275
+          ],
+          "category": "historical",
+          "arrive_at": "16:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Verteidigungsturm, um die mittelalterliche Architektur der Region zu würdigen, und tragen Sie bequeme Schuhe für die Kopfsteinpflasterstraßen.",
+            "hu": "Tekintsen fel erre a történelmi védőtoronyra, hogy értékelje a régió középkori építészetét, és viseljen kényelmes sétacipőt, mivel a környező utcák macskakövesek.",
+            "ro": "Priviți acest turn istoric de apărare pentru a aprecia arhitectura medievală a regiunii și purtați încălțăminte confortabilă, deoarece străzile din jur sunt pietruite.",
+            "en": "Look up at this historic defensive tower to appreciate the medieval architecture of the region, and wear comfortable walking shoes as the surrounding streets are cobbled."
+          }
+        },
+        {
+          "name": {
+            "de": "Torreta Gramenella",
+            "hu": "Torreta Gramenella",
+            "ro": "Torreta Gramenella",
+            "en": "Torreta Gramenella"
+          },
+          "coords": [
+            1.934174,
+            41.4703
+          ],
+          "category": "historical",
+          "arrive_at": "18:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an diesem gut erhaltenen Turm, um Martorells alte Grenzen zu visualisieren, und machen Sie Ihre besten Fotos im Licht der späten Nachmittagssonne.",
+            "hu": "Fejezze be történelmi túráját ennél a jól karbantartott toronynál, és készítse el a legjobb fotóit a késő délutáni aranyóra lenyűgöző fényében.",
+            "ro": "Încheiați turul istoric la acest turn bine conservat pentru a vizualiza granițele antice ale orașului și surprindeți cele mai bune fotografii în lumina aurie a după-amiezii.",
+            "en": "End your historical tour at this well-preserved tower to visualize Martorell's ancient boundaries, and capture your best photos during the golden hour light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Rathauses und tauchen Sie im Casa Museu in die katalanische Kultur ein.\n\nDer Mittag bietet die Gelegenheit, im El Foment den lokalen Gemeinschaftsgeist zu erleben und in der Sala d'exposicions Kunstwerke zu entdecken.\n\nVerbringen Sie Ihren Nachmittag damit, die kreative Energie der städtischen Kunstschule zu spüren, bevor Sie die imposante Torreta del Clos besuchen.\n\nWenn der Abend hereinbricht, beenden Sie Ihren Tag an der Torreta Gramenella und genießen den goldenen Sonnenuntergang über den alten architektonischen Überresten der Stadt.",
+        "hu": "Kezdje a reggelt a történelmi Városháza felfedezésével és merüljön el a katalán kultúrában a lenyűgöző Casa Museuban.\n\nA dél kínál lehetőséget a helyi közösségi szellem megtapasztalására az El Fomentben és lenyűgöző műalkotások felfedezésére.\n\nTöltse a délutánt a városi művészeti iskola kreatív energiájának érzékelésével, mielőtt meglátogatja az impozáns Torreta del Clos-t.\n\nAhogy leszáll az este, fejezze be a napját a Torreta Gramenella-nál, élvezve a naplementét a város ősi építészeti maradványai felett.",
+        "ro": "Începeți dimineața explorând Primăria istorică și aprofundând cultura catalană la captivantul Casa Museu.\n\nMiezul zilei vă oferă șansa de a experimenta spiritul comunității la El Foment și de a descoperi opere de artă fascinante.\n\nPetreceți-vă după-amiaza simțind energia creativă la școala municipală de artă înainte de a vizita impunătoarea Torreta del Clos.\n\nPe măsură ce se lasă seara, încheiați ziua la Torreta Gramenella, bucurându-vă de apusul de aur peste rămășițele arhitecturale antice ale orașului.",
+        "en": "Start your morning exploring the historic Martorell Town Hall and diving into Catalan culture at the captivating Casa Museu L'Enrajolada-Santacana.\n\nMidday offers a chance to experience local community spirit at El Foment and discover fascinating artworks in the Sala d'exposicions.\n\nSpend your afternoon feeling the creative energy at the municipal art school before visiting the imposing Torreta del Clos.\n\nAs evening falls, conclude your day at Torreta Gramenella, enjoying the golden sunset over the town's ancient architectural remnants."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:59",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+          },
+          "coords": [
+            1.920507,
+            41.484022
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die römischen Wurzeln von Martorell bei der Erkundung dieser archäologischen Ruinen und gehen Sie vorsichtig auf den markierten Wegen, um die Ausgrabungen zu schonen.",
+            "hu": "Fedezze fel Martorell római gyökereit ezeknek a romoknak a feltárásával, és óvatosan lépkedjen a kijelölt földutakon, hogy megőrizze a kényes ásatási területeket.",
+            "ro": "Descoperiți rădăcinile romane ale orașului explorând aceste ruine arheologice și pășiți cu grijă pe potecile de pământ desemnate pentru a proteja siturile delicate de excavare.",
+            "en": "Uncover the Roman roots of Martorell by exploring these archaeological ruins, and tread carefully along the designated dirt paths to preserve the delicate excavation sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu L'Enrajolada-Santacana",
+            "hu": "Casa Museu L'Enrajolada-Santacana",
+            "ro": "Casa Museu L'Enrajolada-Santacana",
+            "en": "Casa Museu L'Enrajolada-Santacana"
+          },
+          "coords": [
+            1.92853,
+            41.474443
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum, um eine unglaubliche Sammlung katalanischer Keramik zu sehen, aber kommen Sie früh, da die engen Flure später voll werden.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, hogy megtekintse a hihetetlen katalán kerámiagyűjteményt, de érkezzen korán, mivel a szűk folyosók később zsúfoltak lehetnek.",
+            "ro": "Explorați acest muzeu fascinant pentru a vedea o colecție incredibilă de ceramică catalană, dar sosiți devreme, deoarece coridoarele înguste se pot aglomera mai târziu.",
+            "en": "Explore this fascinating museum to witness an incredible collection of Catalan ceramics, but arrive early as the narrow corridors can get crowded later in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala d'exposicions Memorial Vicenç Ros",
+            "hu": "Sala d'exposicions Memorial Vicenç Ros",
+            "ro": "Sala d'exposicions Memorial Vicenç Ros",
+            "en": "Sala d'exposicions Memorial Vicenç Ros"
+          },
+          "coords": [
+            1.932562,
+            41.473175
+          ],
+          "category": "museum",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betreten Sie diese Ausstellungshalle, um atemberaubende Kunstwerke zu entdecken, und fragen Sie das Personal unbedingt nach der kostenlosen Informationsbroschüre am Eingang.",
+            "hu": "Lépjen be ebbe a kiállítóterembe, hogy lenyűgöző műalkotásokat fedezzen fel, és mindenképpen kérje el a bejáratnál található ingyenes információs füzetet a személyzettől.",
+            "ro": "Pășiți în această sală de expoziții pentru a descoperi opere de artă uimitoare și asigurați-vă că cereți personalului broșura informativă gratuită de lângă intrare.",
+            "en": "Step inside this exhibition hall to discover stunning contemporary and classic artworks, and make sure to ask the staff for the free informational brochure near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Torreta Gramenella",
+            "hu": "Torreta Gramenella",
+            "ro": "Torreta Gramenella",
+            "en": "Torreta Gramenella"
+          },
+          "coords": [
+            1.934174,
+            41.4703
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen gut erhaltenen Turm, um Martorells alte Grenzen zu visualisieren, und machen Sie Ihre besten Fotos im hellen Tageslicht der frühen Nachmittagsstunden.",
+            "hu": "Látogassa meg ezt a jól karbantartott tornyot, hogy elképzelje Martorell ősi határait, és készítse el a legjobb fotóit a kora délutáni fényben.",
+            "ro": "Vizitați acest turn bine conservat pentru a vizualiza granițele antice ale orașului și surprindeți cele mai bune fotografii în lumina strălucitoare a începutului de după-amiază.",
+            "en": "Visit this well-preserved tower to visualize Martorell's ancient boundaries, and capture your best photos during the bright daylight of the early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rosanes o del Pairet",
+            "hu": "Castell de Rosanes o del Pairet",
+            "ro": "Castell de Rosanes o del Pairet",
+            "en": "Castell de Rosanes o del Pairet"
+          },
+          "coords": [
+            1.930534,
+            41.466641
+          ],
+          "category": "castle",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die sanften Hänge zu dieser alten Burgruine hinauf, um den Panoramablick auf das Tal zu genießen, und bringen Sie eine kleine Flasche Wasser mit.",
+            "hu": "Másszon fel az enyhe lejtőkön ehhez az ősi várromhoz, hogy gyönyörködjön a völgy panorámájában, és hozzon magával egy kis üveg vizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Urcați pantele domoale către această ruină veche a castelului pentru a vă bucura de vederi panoramice ale văii și aduceți o sticlă mică de apă, deoarece nu există facilități în apropiere.",
+            "en": "Climb the gentle slopes to this ancient castle ruin to soak in panoramic views of the valley, and bring a small bottle of water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabana de pedra seca 20904",
+            "hu": "Cabana de pedra seca 20904",
+            "ro": "Cabana de pedra seca 20904",
+            "en": "Cabana de pedra seca 20904"
+          },
+          "coords": [
+            1.92496,
+            41.468035
+          ],
+          "category": "historical",
+          "arrive_at": "16:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese traditionelle Trockenmauerrhütte, um mehr über historische landwirtschaftliche Praktiken in Katalonien zu erfahren, und lehnen Sie sich nicht an die Mauern.",
+            "hu": "Csodálja meg ezt a hagyományos száraz kőkunyhót, hogy megismerje a történelmi katalán mezőgazdaságot, és ne dőljön az ősi kőfalaknak, hogy megóvja azokat.",
+            "ro": "Admirați această colibă tradițională din piatră uscată pentru a afla despre practicile agricole istorice și respectați structura fragilă ne-sprijinindu-vă de pereții vechi.",
+            "en": "Marvel at this traditional dry stone hut to learn about historic agricultural practices in Catalonia, and respect the fragile structure by not leaning on the ancient stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rocafort",
+            "hu": "Castell de Rocafort",
+            "ro": "Castell de Rocafort",
+            "en": "Castell de Rocafort"
+          },
+          "coords": [
+            1.923179,
+            41.465423
+          ],
+          "category": "castle",
+          "arrive_at": "18:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die imposante Präsenz dieser markanten Burg, die einst wichtige Handelsrouten bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a kiemelkedő kastélynak a lenyűgöző jelenlétét, amely egykor a létfontosságú kereskedelmi útvonalakat őrizte, és viseljen masszív lábbelit az egyenetlen terepen.",
+            "ro": "Descoperiți prezența impunătoare a acestui castel care odată păzea rutele comerciale vitale și purtați încălțăminte robustă pentru a naviga pe terenul accidentat din jur.",
+            "en": "Discover the commanding presence of this prominent castle which once guarded the vital trade routes, and wear sturdy footwear to navigate the uneven terrain around the base."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh los, um die römischen Ruinen im Norden zu entdecken, bevor Sie zum Casa Museu zurückkehren.\n\nMittags schlendern Sie durch die inspirierenden Ausstellungen im Memorial Vicenç Ros und bewundern die Torreta Gramenella.\n\nAm Nachmittag fahren Sie in Richtung der südlichen Randgebiete, um die Ruinen des Castell de Rosanes und eine traditionelle Steinhütte zu erkunden.\n\nDer Abend bringt eine malerische Fahrt zum Castell de Rocafort, die Sie mit herrlichen Aussichten in der Dämmerung belohnt.",
+        "hu": "Kerékpározzon ki korán, hogy felfedezze az északi régészeti terület római romjait, majd térjen vissza a bájos Casa Museuba.\n\nDélben sétáljon végig a Memorial Vicenç Ros inspiráló kiállításain, és tegyen egy gyors kört a Torreta Gramenella megcsodálására.\n\nDélután váltson sebességet a déli peremvidék felé, hogy felfedezze a Castell de Rosanes impozáns romjait és egy kőkunyhót.\n\nAz este egy festői utat tartogat a Castell de Rocafort-hoz, amely panorámás kilátással jutalmazza meg.",
+        "ro": "Porniți devreme cu bicicleta pentru a descoperi ruinele romane la situl arheologic înainte de a vă întoarce la fermecătorul Casa Museu.\n\nPână la prânz, plimbați-vă prin expozițiile inspiratoare de la Memorial Vicenç Ros și admirați Torreta Gramenella.\n\nDupă-amiaza, îndreptați-vă spre periferia sudică pentru a explora ruinele impunătoare ale Castell de Rosanes și o colibă tradițională din piatră.\n\nSeara aduce o plimbare pitorească până la Castell de Rocafort, cu vederi panoramice spectaculoase.",
+        "en": "Pedal out early to uncover the ancient Roman ruins at the northern archaeological site before riding back to the charming Casa Museu L'Enrajolada-Santacana.\n\nBy midday, wander through the inspiring exhibitions at Memorial Vicenç Ros and take a quick ride to admire Torreta Gramenella.\n\nIn the afternoon, shift gears towards the southern outskirts to explore the commanding ruins of Castell de Rosanes and a traditional dry stone hut.\n\nEvening brings a scenic ride to Castell de Rocafort, rewarding you with panoramic twilight views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+            "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+          },
+          "coords": [
+            1.920507,
+            41.484022
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die römischen Wurzeln von Martorell bei der Erkundung dieser archäologischen Ruinen und gehen Sie vorsichtig auf den markierten Wegen, um die Ausgrabungen zu schonen.",
+            "hu": "Fedezze fel Martorell római gyökereit ezeknek a romoknak a feltárásával, és óvatosan lépkedjen a kijelölt földutakon, hogy megőrizze a kényes ásatási területeket.",
+            "ro": "Descoperiți rădăcinile romane ale orașului explorând aceste ruine arheologice și pășiți cu grijă pe potecile de pământ desemnate pentru a proteja siturile delicate de excavare.",
+            "en": "Uncover the Roman roots of Martorell by exploring these archaeological ruins, and tread carefully along the designated dirt paths to preserve the delicate excavation sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Martorell Town Hall",
+            "hu": "Martorell Town Hall",
+            "ro": "Martorell Town Hall",
+            "en": "Martorell Town Hall"
+          },
+          "coords": [
+            1.930842,
+            41.474317
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, um das bürgerliche Zentrum von Martorell zu verstehen, und achten Sie auf die Aushänge für kommende lokale Veranstaltungen.",
+            "hu": "Csodálja meg a történelmi Városházát, amely Martorell polgári központja, és mindenképpen ellenőrizze a kinti hirdetőtáblákat a közelgő helyi eseményekért.",
+            "ro": "Admirați Primăria istorică pentru a înțelege inima civică a orașului Martorell și nu uitați să verificați panourile exterioare pentru a afla despre evenimentele locale.",
+            "en": "Admire the historic Town Hall to understand the civic heart of Martorell, and be sure to check the notice boards outside for any upcoming local events during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rosanes o del Pairet",
+            "hu": "Castell de Rosanes o del Pairet",
+            "ro": "Castell de Rosanes o del Pairet",
+            "en": "Castell de Rosanes o del Pairet"
+          },
+          "coords": [
+            1.930534,
+            41.466641
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie die sanften Hänge zu dieser alten Burgruine hinauf, um den Panoramablick auf das Tal zu genießen, und bringen Sie eine kleine Flasche Wasser mit.",
+            "hu": "Másszon fel az enyhe lejtőkön ehhez az ősi várromhoz, hogy gyönyörködjön a völgy panorámájában, és hozzon magával egy kis üveg vizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Urcați pantele domoale către această ruină veche a castelului pentru a vă bucura de vederi panoramice ale văii și aduceți o sticlă mică de apă, deoarece nu există facilități în apropiere.",
+            "en": "Climb the gentle slopes to this ancient castle ruin to soak in panoramic views of the valley, and bring a small bottle of water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Margarida del priorat de Sant Genís de Rocafort",
+            "hu": "Santa Margarida del priorat de Sant Genís de Rocafort",
+            "ro": "Santa Margarida del priorat de Sant Genís de Rocafort",
+            "en": "Santa Margarida del priorat de Sant Genís de Rocafort"
+          },
+          "coords": [
+            1.917063,
+            41.467492
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche historische Priorat, um über die tiefe religiöse Geschichte der Region nachzudenken, und verhalten Sie sich ruhig aus Respekt vor dem Ort.",
+            "hu": "Látogasson el ebbe a békés történelmi perjelségbe, hogy elmélkedjen a terület mély vallási történetén, és viselkedjen csendesen, mivel ez továbbra is a helyi tisztelet helye.",
+            "ro": "Vizitați acest priorat istoric liniștit pentru a reflecta asupra istoriei religioase a zonei și mențineți o atitudine tăcută, deoarece rămâne un loc de reverență locală.",
+            "en": "Visit this peaceful historical priory to reflect on the deep religious history of the area, and maintain a quiet demeanor as it remains a place of local reverence and tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Rocafort",
+            "hu": "Castell de Rocafort",
+            "ro": "Castell de Rocafort",
+            "en": "Castell de Rocafort"
+          },
+          "coords": [
+            1.923179,
+            41.465423
+          ],
+          "category": "castle",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die imposante Präsenz dieser markanten Burg, die einst wichtige Handelsrouten bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a kiemelkedő kastélynak a lenyűgöző jelenlétét, amely egykor a létfontosságú kereskedelmi útvonalakat őrizte, és viseljen masszív lábbelit az egyenetlen terepen.",
+            "ro": "Descoperiți prezența impunătoare a acestui castel care odată păzea rutele comerciale vitale și purtați încălțăminte robustă pentru a naviga pe terenul accidentat din jur.",
+            "en": "Discover the commanding presence of this prominent castle which once guarded the vital trade routes, and wear sturdy footwear to navigate the uneven terrain around the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Mines de Plom la Martollerense",
+            "hu": "Mines de Plom la Martollerense",
+            "ro": "Mines de Plom la Martollerense",
+            "en": "Mines de Plom la Martollerense"
+          },
+          "coords": [
+            1.927142,
+            41.460728
+          ],
+          "category": "historical",
+          "arrive_at": "16:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Außenseite dieser historischen Bleiminen, um die industrielle Entwicklung der Region zu begreifen, und bleiben Sie sicher auf den markierten Wegen.",
+            "hu": "Fedezze fel ezeknek a történelmi ólombányáknak a külsejét, hogy megértse a régió ipari fejlődését, és maradjon biztonságban a kijelölt ösvényeken, távol a meredek lejtőktől.",
+            "ro": "Explorați exteriorul acestor mine istorice de plumb pentru a înțelege evoluția industrială a regiunii și rămâneți în siguranță pe traseele marcate, departe de pantele abrupte.",
+            "en": "Explore the exterior of these historic lead mines to grasp the industrial evolution of the region, and stay safely on the marked trails away from the steep drop-offs."
+          }
+        },
+        {
+          "name": {
+            "de": "Montgoi",
+            "hu": "Montgoi",
+            "ro": "Montgoi",
+            "en": "Montgoi"
+          },
+          "coords": [
+            1.924624,
+            41.457062
+          ],
+          "category": "natural",
+          "arrive_at": "17:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem natürlichen Wahrzeichen, um frische Luft und üppiges Grün zu genießen, und packen Sie ein kleines Picknick ein, um die ruhige Umgebung auszukosten.",
+            "hu": "Pihenjen meg ezen a természetes nevezetességen, élvezze a friss levegőt és a buja növényzetet, és csomagoljon egy kis pikniket, hogy a legtöbbet hozza ki a nyugodt környezetből.",
+            "ro": "Relaxați-vă la acest punct de reper natural pentru a vă bucura de aerul proaspăt și verdeață luxuriantă și împachetați un mic picnic pentru a profita de mediul senin.",
+            "en": "Relax at this natural landmark to enjoy fresh air and lush greenery, and pack a small picnic to make the most of the serene environment at the end of your adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie gleich morgens an den nördlichen Stadtrand, um die archäologischen Ausgrabungen zu erkunden, bevor Sie zum zentralen Rathaus aufbrechen.\n\nGegen Mittag fahren Sie nach Süden, um das mittelalterliche Castell de Rosanes und das Priorat Santa Margarida zu bewundern.\n\nDer Nachmittag lädt zu einer malerischen Fahrt zum Castell de Rocafort und den historischen Bleiminen ein.\n\nBeenden Sie Ihre Autotour im ruhigen Naturgebiet Montgoi und entspannen Sie sich bei Sonnenuntergang.",
+        "hu": "Autózzon a reggeli órákban az északi peremvidékre, hogy felfedezze a gazdag régészeti ásatásokat, majd induljon a központi Városháza felé.\n\nDél körül hajtson dél felé, hogy megcsodálja a középkori Castell de Rosanest és a békés Santa Margarida perjelséget.\n\nA délután festői autózásra hív a Castell de Rocafort és a történelmi ólombányák felé.\n\nFejezze be az autós túrát a nyugodt Montgoi természetvédelmi területen, és lazítson, ahogy a nap lenyugszik a völgy felett.",
+        "ro": "Conduceți la periferia nordică la prima oră pentru a explora excavațiile arheologice înainte de a vă îndrepta spre Primăria centrală.\n\nÎn jurul prânzului, mergeți spre sud pentru a admira Castell de Rosanes medieval și prioratul pașnic Santa Margarida.\n\nDupă-amiaza vă invită la o plimbare pitorească spre Castell de Rocafort și fascinantele mine de plumb.\n\nÎncheiați-vă turul auto în zona naturală liniștită Montgoi, relaxându-vă în timp ce soarele apune peste vale.",
+        "en": "Drive to the northern outskirts first thing in the morning to explore the rich archaeological excavations before heading to the central Town Hall.\n\nAround midday, cruise southward to marvel at the medieval Castell de Rosanes and the deeply peaceful Santa Margarida priory.\n\nThe afternoon invites a scenic drive towards the towering Castell de Rocafort and the fascinating historical lead mines that shaped the area.\n\nConclude your driving tour at the tranquil Montgoi nature area, unwinding as the sun sets over the valley."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "chatelaillon-plage",
+  "anchor": {
+    "name": "Châtelaillon-Plage",
+    "coords": [
+      -1.0881,
+      46.0731
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Madeleine Kirche",
+            "hu": "Sainte-Madeleine templom",
+            "ro": "Biserica Sainte-Madeleine",
+            "en": "Sainte-Madeleine Church"
+          },
+          "coords": [
+            -1.089074,
+            46.071789
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die friedliche Atmosphäre dieser historischen Kirche, aber kleiden Sie sich aus Respekt vor den Gläubigen bescheiden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző freskóit és békés hangulatát, de a helyi hívők iránti tiszteletből ügyeljen a visszafogott öltözködésre.",
+            "ro": "Admirați frescele impresionante și ambianța liniștită a acestei biserici istorice, dar amintiți-vă să vă îmbrăcați decent din respect pentru credincioși.",
+            "en": "Admire the striking frescoes and peaceful ambiance of this historical church, but remember to dress modestly out of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Châtelaillon-Plage",
+            "hu": "Châtelaillon-Plage Kaszinója",
+            "ro": "Cazinoul din Châtelaillon-Plage",
+            "en": "Casino of Châtelaillon-Plage"
+          },
+          "coords": [
+            -1.093514,
+            46.076474
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses Unterhaltungszentrums am Meer mit klassischen Spielen, und bringen Sie unbedingt einen Ausweis für den Zugang mit.",
+            "hu": "Élvezze a tengerparti szórakoztatóközpont pezsgő hangulatát a klasszikus játékokkal, és ne felejtse el magával hozni a személyi igazolványát a belépéshez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui centru de divertisment pe malul mării cu jocuri clasice și asigurați-vă că aduceți un act de identitate.",
+            "en": "Enjoy the lively atmosphere of this seafront entertainment hub featuring classic games, and be sure to bring an ID to access the main gaming floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf",
+            "hu": "Minigolf",
+            "ro": "Mini-golf",
+            "en": "Mini-golf"
+          },
+          "coords": [
+            -1.093409,
+            46.077807
+          ],
+          "category": "family",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannende Pause auf diesem reizvoll angelegten Minigolfplatz, der perfekt für alle Altersgruppen ist, und kommen Sie am besten morgens.",
+            "hu": "Töltsön el egy pihentető szünetet ezen a bájos, minden korosztály számára tökéletes minigolfpályán, és próbáljon meg délelőtt jönni a tömeg elkerülése végett.",
+            "ro": "Faceți o pauză relaxantă la acest teren de mini-golf fermecător amenajat, perfect pentru toate vârstele, și încercați să vizitați dimineața pentru a evita aglomerația.",
+            "en": "Have a relaxing break at this charmingly landscaped mini-golf course perfect for all ages, and try to visit in the morning to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Beauséjour",
+            "hu": "Beauséjour Kulturális Központ",
+            "ro": "Centrul Cultural Beauséjour",
+            "en": "Beauséjour Cultural Center"
+          },
+          "coords": [
+            -1.092996,
+            46.079736
+          ],
+          "category": "cultural",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische Kunstausstellungen und regionale Geschichte in diesem lebendigen Kulturzentrum und prüfen Sie den Plan auf interaktive Workshops.",
+            "hu": "Fedezze fel a kortárs művészeti kiállításokat és a regionális történelmet ebben a kulturális központban, és ellenőrizze a napi programot az interaktív workshopokért.",
+            "ro": "Explorați expozițiile de artă contemporană și istoria regională la acest centru cultural vibrant și verificați programul zilnic pentru ateliere interactive.",
+            "en": "Explore contemporary art exhibitions and regional history at this vibrant cultural hub, and check the daily schedule for unadvertised interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferderennbahn Châtelaillon-La Rochelle",
+            "hu": "Châtelaillon-La Rochelle Lóversenypálya",
+            "ro": "Hipodromul Châtelaillon-La Rochelle",
+            "en": "Châtelaillon-La Rochelle Racecourse"
+          },
+          "coords": [
+            -1.07948,
+            46.0748
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel lokaler Reitsportveranstaltungen auf dieser gepflegten Bahn, wo frühes Erscheinen den besten Platz nahe der Ziellinie garantiert.",
+            "hu": "Tapasztalja meg a helyi lovas események izgalmát ezen a szépen karbantartott pályán, ahol a korai érkezés garantálja a legjobb kilátást a célvonal közelében.",
+            "ro": "Experimentați fiorul evenimentelor ecvestre locale pe această pistă excelent întreținută, unde sosirea devreme garantează cel mai bun loc lângă linia de sosire.",
+            "en": "Experience the thrill of local equestrian events at this beautifully maintained track, where arriving early guarantees the best vantage point near the finish line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der friedlichen Kirche Sainte-Madeleine.\n\nSchlendern Sie dann in Richtung Küste zum ikonischen Casino.\n\nDer Nachmittag bietet Kultur im Zentrum Beauséjour.\n\nBeenden Sie den perfekten Spaziergang mit spannenden Rennen auf der nahen Pferderennbahn.",
+        "hu": "Kezdje a napot a békés Sainte-Madeleine templomban.\n\nEzután sétáljon a part felé, hogy megcsodálja az ikonikus Kaszinót.\n\nA délután kulturális élményeket kínál a Beauséjour Központban.\n\nZárja a tökéletes sétát izgalmas futamokkal a közeli lóversenypályán.",
+        "ro": "Începeți ziua la pașnica biserică Sainte-Madeleine.\n\nApoi plimbați-vă spre coastă la emblematicul cazinou.\n\nDupă-amiaza oferă explorare culturală la Centrul Beauséjour.\n\nÎncheiați plimbarea perfectă cu curse palpitante la hipodromul din apropiere.",
+        "en": "Start the day absorbing the serenity at the Sainte-Madeleine Church.\n\nStroll towards the beautiful coastline to experience the iconic local Casino.\n\nYour afternoon brings engaging cultural exploration at the Beauséjour Center.\n\nConclude the walking tour with thrilling events at the town's beloved racecourse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Beauséjour",
+            "hu": "Beauséjour Kulturális Központ",
+            "ro": "Centrul Cultural Beauséjour",
+            "en": "Beauséjour Cultural Center"
+          },
+          "coords": [
+            -1.092996,
+            46.079736
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische Kunstausstellungen und regionale Geschichte in diesem lebendigen Kulturzentrum und prüfen Sie den Plan auf interaktive Workshops.",
+            "hu": "Fedezze fel a kortárs művészeti kiállításokat és a regionális történelmet ebben a kulturális központban, és ellenőrizze a napi programot az interaktív workshopokért.",
+            "ro": "Explorați expozițiile de artă contemporană și istoria regională la acest centru cultural vibrant și verificați programul zilnic pentru ateliere interactive.",
+            "en": "Explore contemporary art exhibitions and regional history at this vibrant cultural hub, and check the daily schedule for unadvertised interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Madeleine Kirche",
+            "hu": "Sainte-Madeleine templom",
+            "ro": "Biserica Sainte-Madeleine",
+            "en": "Sainte-Madeleine Church"
+          },
+          "coords": [
+            -1.089074,
+            46.071789
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die friedliche Atmosphäre dieser historischen Kirche, aber kleiden Sie sich aus Respekt vor den Gläubigen bescheiden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző freskóit és békés hangulatát, de a helyi hívők iránti tiszteletből ügyeljen a visszafogott öltözködésre.",
+            "ro": "Admirați frescele impresionante și ambianța liniștită a acestei biserici istorice, dar amintiți-vă să vă îmbrăcați decent din respect pentru credincioși.",
+            "en": "Admire the striking frescoes and peaceful ambiance of this historical church, but remember to dress modestly out of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Les Boucholeurs",
+            "hu": "Les Boucholeurs falu",
+            "ro": "Satul Les Boucholeurs",
+            "en": "Les Boucholeurs Village"
+          },
+          "coords": [
+            -1.08359,
+            46.058894
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Entdecken Sie das authentische maritime Erbe dieses traditionellen Austernzuchtdorfes und kommen Sie bei Ebbe, um die Züchter bei der Arbeit zu sehen.",
+            "hu": "Fedezze fel ennek a hagyományos osztrigatenyésztő falunak a hiteles tengerészeti örökségét, és érkezzen apálykor, hogy lássa a dolgozó gazdákat.",
+            "ro": "Descoperiți moștenirea maritimă autentică a acestui sat tradițional de cultivare a stridiilor și vizitați-l la reflux pentru a vedea fermierii la lucru.",
+            "en": "Discover the authentic maritime heritage of this traditional oyster-farming village, and visit during low tide to see the farmers working on the oyster beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa Nuxe",
+            "hu": "Spa Nuxe",
+            "ro": "Spa Nuxe",
+            "en": "Spa Nuxe"
+          },
+          "coords": [
+            -1.087887,
+            46.057852
+          ],
+          "category": "family",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich tiefe Entspannung mit erstklassigen Wellness-Behandlungen in einer ruhigen Umgebung, und buchen Sie weit im Voraus, um Ihren Termin zu sichern.",
+            "hu": "Kényeztesse magát mély relaxációval a prémium wellness kezelésekkel egy nyugodt környezetben, és foglalja le időpontját jó előre a kívánt időpont biztosításához.",
+            "ro": "Răsfățați-vă cu o relaxare profundă cu tratamente de wellness premium într-un cadru senin și rezervați-vă sesiunea cu mult timp înainte pentru a vă asigura locul.",
+            "en": "Treat yourself to profound relaxation with premium wellness treatments in a serene setting, and book your session well in advance to secure your preferred timeslot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaukel am Strand",
+            "hu": "Tengerparti hinta",
+            "ro": "Leagăn pe plajă",
+            "en": "Beach Swing (balançoire)"
+          },
+          "coords": [
+            -1.069285,
+            46.062029
+          ],
+          "category": "family",
+          "arrive_at": "14:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine skurrile Pause am Ufer, um zu schaukeln und die Meeresbrise zu genießen, was einen perfekten, ruhigen Moment für unvergessliche Fotos bietet.",
+            "hu": "Tartson egy szeszélyes szünetet a parton, és hintázzon a frissítő tengeri szellőt élvezve, amely tökéletes, csendes pillanatot nyújt az emlékezetes fotózáshoz.",
+            "ro": "Luați o pauză capricioasă pe mal pentru a vă legăna în timp ce vă bucurați de briza mării, oferind un moment perfect pentru o fotografie de coastă memorabilă.",
+            "en": "Take a whimsical break by the shore to swing while enjoying the refreshing sea breeze, offering a perfect, quiet moment for memorable coastal photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pferderennbahn Châtelaillon-La Rochelle",
+            "hu": "Châtelaillon-La Rochelle Lóversenypálya",
+            "ro": "Hipodromul Châtelaillon-La Rochelle",
+            "en": "Châtelaillon-La Rochelle Racecourse"
+          },
+          "coords": [
+            -1.07948,
+            46.0748
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel lokaler Reitsportveranstaltungen auf dieser gepflegten Bahn, wo frühes Erscheinen den besten Platz nahe der Ziellinie garantiert.",
+            "hu": "Tapasztalja meg a helyi lovas események izgalmát ezen a szépen karbantartott pályán, ahol a korai érkezés garantálja a legjobb kilátást a célvonal közelében.",
+            "ro": "Experimentați fiorul evenimentelor ecvestre locale pe această pistă excelent întreținută, unde sosirea devreme garantează cel mai bun loc lângă linia de sosire.",
+            "en": "Experience the thrill of local equestrian events at this beautifully maintained track, where arriving early guarantees the best vantage point near the finish line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Kulturzentrum Beauséjour zur Kirche im Herzen der Stadt.\n\nFahren Sie weiter in das historische Austerndorf Les Boucholeurs.\n\nEntspannen Sie sich im Spa Nuxe und an der idyllischen Küstenschaukel.\n\nDer späte Nachmittag lockt mit spannenden Rennen auf der Pferderennbahn.",
+        "hu": "Kerékpározzon a Beauséjour központtól a Sainte-Madeleine templomig a város szívében.\n\nFolytassa útját a történelmi Les Boucholeurs osztrigafaluba.\n\nPihenjen a Spa Nuxe-ban és a gyönyörű parti hintánál.\n\nA késő délután a lóversenypálya izgalmas eseményeivel várja önt.",
+        "ro": "Pedalați de la Centrul Cultural Beauséjour la biserică în inima orașului.\n\nContinuați spre satul istoric de stridii Les Boucholeurs.\n\nRelaxați-vă la Spa Nuxe și la pitorescul leagăn de pe coastă.\n\nDupă-amiaza târziu vă cheamă la hipodromul plin de acțiune.",
+        "en": "Bike from the Beauséjour Cultural Center to the historic church in the town's heart.\n\nRide south to discover the rich maritime traditions of Les Boucholeurs.\n\nTake a restorative break at Spa Nuxe and the scenic coastal swing.\n\nEnd your scenic ride at the vibrant local racecourse watching an event."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trop Cool",
+            "hu": "Trop Cool",
+            "ro": "Trop Cool",
+            "en": "Trop Cool"
+          },
+          "coords": [
+            -1.095811,
+            46.102364
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr inneres Kind in diesem familienorientierten Unterhaltungszentrum voller Aktivitäten heraus, und tragen Sie bequeme Schuhe für stundenlangen Spaß.",
+            "hu": "Engedje szabadjára belső gyermekét ebben a tevékenységekkel teli, családcentrikus szórakoztatóközpontban, és viseljen kényelmes cipőt a több órás mókához.",
+            "ro": "Eliberați-vă copilul interior la acest centru de divertisment vibrant orientat spre familie și asigurați-vă că purtați încălțăminte confortabilă pentru distracție.",
+            "en": "Let your inner child out at this vibrant, family-oriented entertainment center filled with activities, and ensure you wear comfortable shoes for hours of fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Beauséjour",
+            "hu": "Beauséjour Kulturális Központ",
+            "ro": "Centrul Cultural Beauséjour",
+            "en": "Beauséjour Cultural Center"
+          },
+          "coords": [
+            -1.092996,
+            46.079736
+          ],
+          "category": "cultural",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische Kunstausstellungen und regionale Geschichte in diesem lebendigen Kulturzentrum und prüfen Sie den Plan auf interaktive Workshops.",
+            "hu": "Fedezze fel a kortárs művészeti kiállításokat és a regionális történelmet ebben a kulturális központban, és ellenőrizze a napi programot az interaktív workshopokért.",
+            "ro": "Explorați expozițiile de artă contemporană și istoria regională la acest centru cultural vibrant și verificați programul zilnic pentru ateliere interactive.",
+            "en": "Explore contemporary art exhibitions and regional history at this vibrant cultural hub, and check the daily schedule for unadvertised interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Châtelaillon-Plage",
+            "hu": "Châtelaillon-Plage Kaszinója",
+            "ro": "Cazinoul din Châtelaillon-Plage",
+            "en": "Casino of Châtelaillon-Plage"
+          },
+          "coords": [
+            -1.093514,
+            46.076474
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses Unterhaltungszentrums am Meer mit klassischen Spielen, und bringen Sie unbedingt einen Ausweis für den Zugang mit.",
+            "hu": "Élvezze a tengerparti szórakoztatóközpont pezsgő hangulatát a klasszikus játékokkal, és ne felejtse el magával hozni a személyi igazolványát a belépéshez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui centru de divertisment pe malul mării cu jocuri clasice și asigurați-vă că aduceți un act de identitate.",
+            "en": "Enjoy the lively atmosphere of this seafront entertainment hub featuring classic games, and be sure to bring an ID to access the main gaming floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Madeleine Kirche",
+            "hu": "Sainte-Madeleine templom",
+            "ro": "Biserica Sainte-Madeleine",
+            "en": "Sainte-Madeleine Church"
+          },
+          "coords": [
+            -1.089074,
+            46.071789
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die friedliche Atmosphäre dieser historischen Kirche, aber kleiden Sie sich aus Respekt vor den Gläubigen bescheiden.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző freskóit és békés hangulatát, de a helyi hívők iránti tiszteletből ügyeljen a visszafogott öltözködésre.",
+            "ro": "Admirați frescele impresionante și ambianța liniștită a acestei biserici istorice, dar amintiți-vă să vă îmbrăcați decent din respect pentru credincioși.",
+            "en": "Admire the striking frescoes and peaceful ambiance of this historical church, but remember to dress modestly out of respect for local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Les Boucholeurs",
+            "hu": "Les Boucholeurs falu",
+            "ro": "Satul Les Boucholeurs",
+            "en": "Les Boucholeurs Village"
+          },
+          "coords": [
+            -1.08359,
+            46.058894
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Entdecken Sie das authentische maritime Erbe dieses traditionellen Austernzuchtdorfes und kommen Sie bei Ebbe, um die Züchter bei der Arbeit zu sehen.",
+            "hu": "Fedezze fel ennek a hagyományos osztrigatenyésztő falunak a hiteles tengerészeti örökségét, és érkezzen apálykor, hogy lássa a dolgozó gazdákat.",
+            "ro": "Descoperiți moștenirea maritimă autentică a acestui sat tradițional de cultivare a stridiilor și vizitați-l la reflux pentru a vedea fermierii la lucru.",
+            "en": "Discover the authentic maritime heritage of this traditional oyster-farming village, and visit during low tide to see the farmers working on the oyster beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa Nuxe",
+            "hu": "Spa Nuxe",
+            "ro": "Spa Nuxe",
+            "en": "Spa Nuxe"
+          },
+          "coords": [
+            -1.087887,
+            46.057852
+          ],
+          "category": "family",
+          "arrive_at": "15:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich tiefe Entspannung mit erstklassigen Wellness-Behandlungen in einer ruhigen Umgebung, und buchen Sie weit im Voraus, um Ihren Termin zu sichern.",
+            "hu": "Kényeztesse magát mély relaxációval a prémium wellness kezelésekkel egy nyugodt környezetben, és foglalja le időpontját jó előre a kívánt időpont biztosításához.",
+            "ro": "Răsfățați-vă cu o relaxare profundă cu tratamente de wellness premium într-un cadru senin și rezervați-vă sesiunea cu mult timp înainte pentru a vă asigura locul.",
+            "en": "Treat yourself to profound relaxation with premium wellness treatments in a serene setting, and book your session well in advance to secure your preferred timeslot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaukel am Strand",
+            "hu": "Tengerparti hinta",
+            "ro": "Leagăn pe plajă",
+            "en": "Beach Swing (balançoire)"
+          },
+          "coords": [
+            -1.069285,
+            46.062029
+          ],
+          "category": "family",
+          "arrive_at": "16:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine skurrile Pause am Ufer, um zu schaukeln und die Meeresbrise zu genießen, was einen perfekten, ruhigen Moment für unvergessliche Fotos bietet.",
+            "hu": "Tartson egy szeszélyes szünetet a parton, és hintázzon a frissítő tengeri szellőt élvezve, amely tökéletes, csendes pillanatot nyújt az emlékezetes fotózáshoz.",
+            "ro": "Luați o pauză capricioasă pe mal pentru a vă legăna în timp ce vă bucurați de briza mării, oferind un moment perfect pentru o fotografie de coastă memorabilă.",
+            "en": "Take a whimsical break by the shore to swing while enjoying the refreshing sea breeze, offering a perfect, quiet moment for memorable coastal photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Unterhaltungszentrum Trop Cool im Norden.\n\nErleben Sie Kultur und maritimen Charme beim Casino und der Kirche.\n\nDer Nachmittag bringt Sie nach Les Boucholeurs und zur Entspannung ins Spa.\n\nEin ruhiger Abend an der Küstenschaukel am Meer beendet den Tag.",
+        "hu": "Kezdje a túrát északon a családbarát Trop Cool szórakoztatóközpontban.\n\nTapasztalja meg a tengeri bájokat a Kaszinónál és a központi templomnál.\n\nA délután elviszi Les Boucholeurs hagyományos falujába és a fürdőbe.\n\nEgy csendes, tengerparti este a hintánál zárja a tökéletes napot.",
+        "ro": "Începeți la nord cu centrul de divertisment Trop Cool plin de activități.\n\nExperimentați farmecul maritim la cazinou și la biserica din centru.\n\nDupă-amiaza vă duce la Les Boucholeurs și la centrul spa relaxant.\n\nO seară liniștită la leagănul de pe coastă încheie ziua perfectă.",
+        "en": "Start your driving tour in the north at the Trop Cool entertainment center.\n\nTake in the coastal charm near the Casino and the historic central church.\n\nYour afternoon drive brings you to the charming Les Boucholeurs and Spa Nuxe.\n\nFinish the day peacefully enjoying the coastal swing by the sea."
+      }
+    }
+  }
+}

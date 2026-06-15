@@ -1,0 +1,428 @@
+{
+  "city_id": "france-les-gets-cities-v2",
+  "anchor": {
+    "name": "Les Gets",
+    "coords": [
+      6.670278,
+      46.158611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Les Gets",
+            "hu": "Les Gets Városháza",
+            "ro": "Primăria Les Gets",
+            "en": "Les Gets Town Hall"
+          },
+          "coords": [
+            6.670048,
+            46.158831
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Holzarchitektur des Rathauses, das den Charme des Dorfes prägt, und besuchen Sie es am besten morgens für schöne Fotos.",
+            "hu": "Csodálja meg a falu arculatát meghatározó hagyományos faépítésű városházát, és érkezzen korán reggel a legjobb fényképek elkészítéséhez.",
+            "ro": "Admirați arhitectura tradițională din lemn a primăriei, care dă farmec satului, și veniți dimineața devreme pentru cele mai bune fotografii luminoase.",
+            "en": "Admire the traditional wooden architecture of the town hall that shapes the village's charm, and arrive early in the morning for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Art'n Chéry",
+            "hu": "Art'n Chéry",
+            "ro": "Art'n Chéry",
+            "en": "Art'n Chéry"
+          },
+          "coords": [
+            6.666591,
+            46.157959
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale und zeitgenössische Kunst in dieser charmanten Galerie, und achten Sie auf die wechselnden Ausstellungen regionaler Künstler.",
+            "hu": "Fedezze fel a helyi és kortárs művészetet ebben a bájos galériában, és figyelje a régiós alkotók rendszeresen változó, lenyűgöző kiállításait.",
+            "ro": "Descoperiți arta locală și contemporană în această galerie fermecătoare și acordați atenție expozițiilor rotative ale artiștilor din regiune.",
+            "en": "Discover local and contemporary art in this charming gallery, and keep an eye out for the regularly changing exhibitions by regional artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für mechanische Musik",
+            "hu": "Mechanikus Zene Múzeuma",
+            "ro": "Muzeul de muzică mecanică",
+            "en": "Mechanical Music Museum"
+          },
+          "coords": [
+            6.672789,
+            46.160879
+          ],
+          "category": "museum",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von einer unglaublichen Sammlung mechanischer Instrumente verzaubern und nehmen Sie unbedingt an einer der geführten musikalischen Vorführungen teil.",
+            "hu": "Hagyja, hogy elvarázsolja a mechanikus hangszerek hihetetlen gyűjteménye, és mindenképpen vegyen részt az egyik izgalmas, vezetett zenei bemutatón.",
+            "ro": "Lăsați-vă fermecați de o colecție incredibilă de instrumente mecanice și asigurați-vă că participați la una dintre demonstrațiile muzicale ghidate.",
+            "en": "Be enchanted by an incredible collection of mechanical instruments, and make absolutely sure to attend one of the guided musical demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Wibit Les Gets",
+            "hu": "Wibit Les Gets",
+            "ro": "Wibit Les Gets",
+            "en": "Wibit Les Gets"
+          },
+          "coords": [
+            6.672189,
+            46.152851
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den aufblasbaren Hindernisparcours auf dem Wasser für puren Sommerspaß, aber reservieren Sie Ihr Zeitfenster unbedingt vorab online.",
+            "hu": "Élvezze a vízen úszó, felfújható akadálypályát a felhőtlen nyári szórakozásért, de a belépéshez foglalja le az időpontot előre az interneten.",
+            "ro": "Bucurați-vă de traseul gonflabil de pe apă pentru distracție estivală, dar rezervați-vă obligatoriu intervalul orar în avans pe internet.",
+            "en": "Enjoy the inflatable obstacle course on the water for pure summer fun, but make sure to reserve your time slot online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Altalumina",
+            "hu": "Altalumina",
+            "ro": "Altalumina",
+            "en": "Altalumina"
+          },
+          "coords": [
+            6.673805,
+            46.15254
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in einen magischen, beleuchteten Abendpfad ein, der die Natur feiert, und tragen Sie bequeme Schuhe für den abendlichen Waldspaziergang.",
+            "hu": "Merüljön el a természetet ünneplő varázslatos, kivilágított ösvényen, és viseljen kényelmes cipőt az esti erdei sétához a tökéletes élményért.",
+            "ro": "Pătrundeți pe un traseu iluminat magic care celebrează natura și purtați încălțăminte confortabilă pentru această plimbare de seară prin pădure.",
+            "en": "Immerse yourself in a magical illuminated trail celebrating nature, and wear comfortable walking shoes for this enchanting evening forest stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch Les Gets beginnt am Morgen mit der Erkundung des historischen Rathauses. Danach geht es weiter zur Art'n Chéry Galerie für einen kulturellen Einblick. Nach dem Mittagessen lassen Sie sich im Museum für mechanische Musik in die Welt der Instrumente entführen. Der Nachmittag endet entspannt und spielerisch am See mit Wibit und Altalumina.",
+        "hu": "Egy kényelmes sétával indítjuk a napot Les Gets történelmi városházájánál. Ezt követően a művészetek kedvelői az Art'n Chéry galériát fedezhetik fel. Ebéd után a mechanikus hangszerek különleges múzeuma vár mindenkit egy varázslatos zenei időutazásra. A délutánt a tónál töltjük, ahol a Wibit vízi kalandpark és az Altalumina fényes élményei nyújtanak tökéletes befejezést.",
+        "ro": "O plimbare relaxantă prin Les Gets începe dimineața cu explorarea primăriei istorice. Apoi vizităm galeria Art'n Chéry pentru o incursiune culturală locală. După prânz, Muzeul de muzică mecanică vă va încânta cu colecția sa sonoră fascinantă. După-amiaza târzie se încheie la lac, bucurându-vă de distracția din parcul acvatic Wibit și atracțiile de la Altalumina.",
+        "en": "A relaxing stroll through Les Gets begins in the morning exploring the historic town hall. Afterwards, we visit the Art'n Chéry gallery for local cultural insights. Following lunch, the mechanical music museum offers a fascinating audible journey back in time. The late afternoon concludes playfully by the lake, enjoying the Wibit water park and the illuminated fun at Altalumina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Les Gets",
+            "hu": "Les Gets Városháza",
+            "ro": "Primăria Les Gets",
+            "en": "Les Gets Town Hall"
+          },
+          "coords": [
+            6.670048,
+            46.158831
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Holzarchitektur des Rathauses, das den Charme des Dorfes prägt, und besuchen Sie es am besten morgens für schöne Fotos.",
+            "hu": "Csodálja meg a falu arculatát meghatározó hagyományos faépítésű városházát, és érkezzen korán reggel a legjobb fényképek elkészítéséhez.",
+            "ro": "Admirați arhitectura tradițională din lemn a primăriei, care dă farmec satului, și veniți dimineața devreme pentru cele mai bune fotografii luminoase.",
+            "en": "Admire the traditional wooden architecture of the town hall that shapes the village's charm, and arrive early in the morning for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für mechanische Musik",
+            "hu": "Mechanikus Zene Múzeuma",
+            "ro": "Muzeul de muzică mecanică",
+            "en": "Mechanical Music Museum"
+          },
+          "coords": [
+            6.672789,
+            46.160879
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von einer unglaublichen Sammlung mechanischer Instrumente verzaubern und nehmen Sie unbedingt an einer der geführten musikalischen Vorführungen teil.",
+            "hu": "Hagyja, hogy elvarázsolja a mechanikus hangszerek hihetetlen gyűjteménye, és mindenképpen vegyen részt az egyik izgalmas, vezetett zenei bemutatón.",
+            "ro": "Lăsați-vă fermecați de o colecție incredibilă de instrumente mecanice și asigurați-vă că participați la una dintre demonstrațiile muzicale ghidate.",
+            "en": "Be enchanted by an incredible collection of mechanical instruments, and make absolutely sure to attend one of the guided musical demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pleney",
+            "hu": "Le Pleney",
+            "ro": "Le Pleney",
+            "en": "Le Pleney"
+          },
+          "coords": [
+            6.692795,
+            46.165621
+          ],
+          "category": "natural",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Pleney aus einen spektakulären Panoramablick auf den Mont Blanc und nutzen Sie die Seilbahn für einen mühelosen Aufstieg zur Spitze.",
+            "hu": "Élvezze a Pleney-ről nyíló látványos panorámát a Mont Blanc-ra, és használja a felvonót a hegycsúcs fáradtságmentes, gyors megközelítéséhez.",
+            "ro": "Bucurați-vă de pe Pleney de o panoramă spectaculoasă asupra Mont Blanc-ului și luați telecabina pentru o urcare fără efort până în vârf.",
+            "en": "Enjoy a spectacular panoramic view of Mont Blanc from Pleney, and use the cable car for an effortless ascent directly to the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wibit Les Gets",
+            "hu": "Wibit Les Gets",
+            "ro": "Wibit Les Gets",
+            "en": "Wibit Les Gets"
+          },
+          "coords": [
+            6.672189,
+            46.152851
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den aufblasbaren Hindernisparcours auf dem Wasser für puren Sommerspaß, aber reservieren Sie Ihr Zeitfenster unbedingt vorab online.",
+            "hu": "Élvezze a vízen úszó, felfújható akadálypályát a felhőtlen nyári szórakozásért, de a belépéshez foglalja le az időpontot előre az interneten.",
+            "ro": "Bucurați-vă de traseul gonflabil de pe apă pentru distracție estivală, dar rezervați-vă obligatoriu intervalul orar în avans pe internet.",
+            "en": "Enjoy the inflatable obstacle course on the water for pure summer fun, but make sure to reserve your time slot online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Luge 4 saisons",
+            "hu": "Luge 4 saisons",
+            "ro": "Luge 4 saisons",
+            "en": "Luge 4 saisons"
+          },
+          "coords": [
+            6.657683,
+            46.148791
+          ],
+          "category": "landmark",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel einer rasanten Abfahrt auf der Sommerrodelbahn und nutzen Sie die Bremshebel, um Ihr eigenes Tempo sicher zu bestimmen.",
+            "hu": "Élje át a négyévszakos bobpálya izgalmas száguldását, és használja a fékkarokat, hogy biztonságosan, a saját tempójában élvezze a lejtőt.",
+            "ro": "Experimentați fiorul unei coborâri rapide pe sania de vară și folosiți manetele de frână pentru a vă controla în siguranță propriul ritm.",
+            "en": "Experience the thrill of a high-speed descent on the four-season alpine coaster, and use the brake levers to safely control your own pace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie das alpine Dorf Les Gets noch intensiver und starten morgens am Rathaus. Nach einem kurzen Stopp im einzigartigen Musikmuseum radeln wir hinauf zum Le Pleney für beeindruckende Ausblicke. Der Nachmittag verspricht Erfrischung am See im Wibit Wasserpark. Den perfekten Abschluss bildet eine rasante und unvergessliche Fahrt auf der Luge 4 saisons.",
+        "hu": "Kerékpárra pattanva még intenzívebben élhetjük át Les Gets alpesi hangulatát, kezdve a városházánál. A páratlan zenei múzeum után feltekerünk a Le Pleney magaslataira, ahonnan csodás panoráma tárul elénk. A délután felfrissülést ígér a tónál található Wibit víziparkban. A napot egy izgalmas és felejthetetlen száguldás zárja a négyévszakos szánkópályán.",
+        "ro": "Pe bicicletă, satul alpin Les Gets se dezvăluie dimineața la primărie și la fascinantul muzeu de muzică. Ne continuăm drumul pedalând spre Le Pleney pentru a admira peisajele montane absolut spectaculoase. După-amiaza promite o împrospătare la lacul unde se află parcul acvatic Wibit. Traseul se încheie perfect cu o cursă plină de adrenalină pe sania de vară Luge 4 saisons.",
+        "en": "By bike, the alpine village of Les Gets is experienced even more intensely, starting morning at the town hall. After the unique mechanical music museum, we pedal up to Le Pleney for spectacular mountain panoramas. The afternoon promises refreshment by the lake at the Wibit water park. A perfect conclusion is provided by a thrilling ride on the Luge 4 saisons alpine coaster."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 13.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mont Chéry",
+            "hu": "Mont Chéry",
+            "ro": "Mont Chéry",
+            "en": "Mont Chéry"
+          },
+          "coords": [
+            6.648013,
+            46.168898
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Mont Chéry für die beste Aussicht auf die französische Alpenkette und bringen Sie warme Kleidung mit, da es windig werden kann.",
+            "hu": "Hódítsa meg a Mont Chéryt a francia Alpok legjobb kilátásáért, és hozzon magával meleg ruhát, mert a csúcson gyakran fúj a szél.",
+            "ro": "Urcați pe Mont Chéry pentru cea mai bună vedere asupra Alpilor Francezi și aduceți haine călduroase, deoarece poate fi destul de vânt pe creastă.",
+            "en": "Ascend Mont Chéry for the absolute best views of the French Alps, and bring warm clothing as it can get quite windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Les Gets",
+            "hu": "Les Gets Városháza",
+            "ro": "Primăria Les Gets",
+            "en": "Les Gets Town Hall"
+          },
+          "coords": [
+            6.670048,
+            46.158831
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Holzarchitektur des Rathauses, das den Charme des Dorfes prägt, und besuchen Sie es am besten morgens für schöne Fotos.",
+            "hu": "Csodálja meg a falu arculatát meghatározó hagyományos faépítésű városházát, és érkezzen korán reggel a legjobb fényképek elkészítéséhez.",
+            "ro": "Admirați arhitectura tradițională din lemn a primăriei, care dă farmec satului, și veniți dimineața devreme pentru cele mai bune fotografii luminoase.",
+            "en": "Admire the traditional wooden architecture of the town hall that shapes the village's charm, and arrive early in the morning for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für mechanische Musik",
+            "hu": "Mechanikus Zene Múzeuma",
+            "ro": "Muzeul de muzică mecanică",
+            "en": "Mechanical Music Museum"
+          },
+          "coords": [
+            6.672789,
+            46.160879
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von einer unglaublichen Sammlung mechanischer Instrumente verzaubern und nehmen Sie unbedingt an einer der geführten musikalischen Vorführungen teil.",
+            "hu": "Hagyja, hogy elvarázsolja a mechanikus hangszerek hihetetlen gyűjteménye, és mindenképpen vegyen részt az egyik izgalmas, vezetett zenei bemutatón.",
+            "ro": "Lăsați-vă fermecați de o colecție incredibilă de instrumente mecanice și asigurați-vă că participați la una dintre demonstrațiile muzicale ghidate.",
+            "en": "Be enchanted by an incredible collection of mechanical instruments, and make absolutely sure to attend one of the guided musical demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinder-Planschbecken",
+            "hu": "Gyermek Pancsolómedence",
+            "ro": "Piscina de mică adâncime",
+            "en": "Children's Paddling Pool"
+          },
+          "coords": [
+            6.704077,
+            46.184539
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder im sicheren Planschbeckenbereich ausgelassen spielen und vergessen Sie nicht, an heißen Tagen reichlich Sonnencreme mitzubringen.",
+            "hu": "Hagyja, hogy a gyerekek önfeledten játsszanak a biztonságos pancsolómedencében, és forró napokon ne felejtsen el bőségesen naptejet hozni.",
+            "ro": "Lăsați copiii să se joace în siguranță în zona piscinei de mică adâncime și nu uitați să aduceți multă cremă solară în zilele foarte fierbinți.",
+            "en": "Let the children play happily in the safe paddling pool area, and don't forget to bring plenty of sunscreen on hot summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Luge 4 saisons",
+            "hu": "Luge 4 saisons",
+            "ro": "Luge 4 saisons",
+            "en": "Luge 4 saisons"
+          },
+          "coords": [
+            6.657683,
+            46.148791
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel einer rasanten Abfahrt auf der Sommerrodelbahn und nutzen Sie die Bremshebel, um Ihr eigenes Tempo sicher zu bestimmen.",
+            "hu": "Élje át a négyévszakos bobpálya izgalmas száguldását, és használja a fékkarokat, hogy biztonságosan, a saját tempójában élvezze a lejtőt.",
+            "ro": "Experimentați fiorul unei coborâri rapide pe sania de vară și folosiți manetele de frână pentru a vă controla în siguranță propriul ritm.",
+            "en": "Experience the thrill of a high-speed descent on the four-season alpine coaster, and use the brake levers to safely control your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Turche",
+            "hu": "Pointe de la Turche",
+            "ro": "Pointe de la Turche",
+            "en": "Pointe de la Turche"
+          },
+          "coords": [
+            6.671883,
+            46.136232
+          ],
+          "category": "natural",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch unberührte Natur zur Pointe de la Turche und packen Sie ein Picknick ein, um die Ruhe fernab der Menschenmassen zu genießen.",
+            "hu": "Túrázzon érintetlen természeti környezetben a Pointe de la Turche felé, és csomagoljon egy pikniket, hogy a tömegtől távol élvezhesse a csendet.",
+            "ro": "Faceți o drumeție prin natura neatinsă până la Pointe de la Turche și luați cu voi un picnic pentru a vă bucura de liniște departe de aglomerație.",
+            "en": "Hike through unspoiled nature towards Pointe de la Turche, and pack a small picnic to enjoy the tranquility far away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine ausgedehnte Autotour beginnt mit atemberaubenden Bergpanoramen am Mont Chéry. Anschließend fahren wir ins Zentrum zum Rathaus und lauschen den Melodien im mechanischen Musikmuseum. Nach einer Pause am charmanten Planschbecken geht es rasant weiter zur alpinen Sommerrodelbahn. Der Tag endet friedlich in der malerischen Natur an der Pointe de la Turche.",
+        "hu": "Egy átfogó autós túra a Mont Chéry lélegzetelállító hegyi panorámájával veszi kezdetét. Ezután a központba hajtunk a városházához, és belehallgatunk a zenei múzeum varázslatos dallamaiba. A pancsoló melletti pihenő után a hegyi bobpálya kínál némi adrenalint. A nap békésen, a Pointe de la Turche festői természeti környezetében zárul.",
+        "ro": "Un tur auto extins începe cu peisaje montane uluitoare la Mont Chéry. Apoi coborâm în centru spre primărie și ne bucurăm de melodiile din muzeul de muzică mecanică. După o pauză la fermecătoarea zonă de recreere, aventura prinde viteză la pista de sanie alpină. Ziua se încheie pașnic în mijlocul naturii pitorești de la Pointe de la Turche.",
+        "en": "An extensive driving tour begins with breathtaking mountain panoramas at Mont Chéry. We then head to the town hall and listen to the magical melodies in the mechanical music museum. After a break at the charming paddling area, the adventure speeds up at the alpine coaster. The day concludes peacefully surrounded by the picturesque nature of Pointe de la Turche."
+      }
+    }
+  }
+}

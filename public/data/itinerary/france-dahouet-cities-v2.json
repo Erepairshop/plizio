@@ -1,0 +1,428 @@
+{
+  "city_id": "france-dahouet-cities-v2",
+  "anchor": {
+    "name": "Dahouët",
+    "coords": [
+      -2.56448,
+      48.57869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Galerie de Dahouët",
+            "hu": "La Galerie de Dahouët",
+            "ro": "La Galerie de Dahouët",
+            "en": "La Galerie de Dahouët"
+          },
+          "coords": [
+            -2.565068,
+            48.578555
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale maritime Geschichte in dieser faszinierenden Galerie, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi tengerészeti történelmet ebben a lenyűgöző galériában, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați istoria maritimă locală în această galerie fascinantă, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Explore local maritime history in this fascinating gallery, but check the opening hours beforehand as they often vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Miniature",
+            "hu": "Port Miniature",
+            "ro": "Port Miniature",
+            "en": "Port Miniature"
+          },
+          "coords": [
+            -2.55913,
+            48.579111
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sorgfältig gefertigten Miniaturboote im ruhigen Hafen und kommen Sie früh am Tag, um den großen Menschenmengen zu entgehen.",
+            "hu": "Csodálja meg az aprólékosan kidolgozott miniatűr hajókat a nyugodt kikötőben, és érkezzen korán, hogy elkerülje a nagy tömeget.",
+            "ro": "Admirați bărcile în miniatură realizate cu meticulozitate în portul liniștit și veniți dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the meticulously crafted miniature boats in the tranquil harbor area, and try visiting early in the day to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "La Mine d'Or",
+            "hu": "La Mine d'Or",
+            "ro": "La Mine d'Or",
+            "en": "La Mine d'Or"
+          },
+          "coords": [
+            -2.569289,
+            48.580043
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses herrlichen Küstenabschnitts mit goldenen Farbtönen und bringen Sie festes Schuhwerk mit.",
+            "hu": "Élvezze a békés sétát ezen az aranyló árnyalatairól ismert csodás partszakaszon, és hozzon magával strapabíró cipőt a sziklás részekhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe această porțiune de coastă cu nuanțe aurii, aducând încălțăminte robustă pentru zonele stâncoase.",
+            "en": "Enjoy a peaceful stroll along this beautiful coastal stretch known for its golden hues, bringing sturdy shoes for the rocky sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Petite Muette",
+            "hu": "Phare de la Petite Muette",
+            "ro": "Phare de la Petite Muette",
+            "en": "Phare de la Petite Muette"
+          },
+          "coords": [
+            -2.57163,
+            48.580371
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean von diesem ikonischen Leuchtfeuer und halten Sie Ihre Kamera für das Nachmittagslicht bereit.",
+            "hu": "Gyönyörködjön a panorámás óceáni kilátásban ebből az ikonikus világítótoronyból, és készítse elő fényképezőgépét a délutáni fényekhez.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de la acest far iconic, pregătind aparatul foto pentru lumina spectaculoasă a după-amiezii.",
+            "en": "Take in panoramic ocean views from this iconic coastal beacon, making sure to have your camera ready for the spectacular afternoon lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse du Pissot",
+            "hu": "Anse du Pissot",
+            "ro": "Anse du Pissot",
+            "en": "Anse du Pissot"
+          },
+          "coords": [
+            -2.566799,
+            48.583084
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der abgelegenen Bucht, die die natürliche Schönheit der Region einfängt, und packen Sie ein leichtes Picknick ein.",
+            "hu": "Pihenjen meg az eldugott kis öbölben, amely tökéletesen tükrözi a régió szépségét, és csomagoljon be egy könnyű pikniket a vízparthoz.",
+            "ro": "Relaxați-vă lângă golful retras care surprinde frumusețea naturală a regiunii și luați un mic picnic pentru o pauză pitorească pe mal.",
+            "en": "Relax by the secluded, charming cove that perfectly captures the region's natural beauty, and pack a light picnic for a scenic waterfront break."
+          }
+        },
+        {
+          "name": {
+            "de": "Corps de Garde",
+            "hu": "Corps de Garde",
+            "ro": "Corps de Garde",
+            "en": "Corps de Garde"
+          },
+          "coords": [
+            -2.569323,
+            48.583445
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Überreste dieses alten Küstenwächterhauses und tragen Sie eine Windjacke, da es an den Klippen windig wird.",
+            "hu": "Fedezze fel ennek az ősi parti őrháznak a történelmi maradványait, és viseljen széldzsekit, mert a szikláknál hihetetlenül szeles az idő.",
+            "ro": "Descoperiți rămășițele istorice ale acestui vechi corp de gardă de coastă și purtați o jachetă, deoarece pe stânci bate mereu vântul.",
+            "en": "Discover the historical remnants of this ancient coastal guardhouse, and wear a windbreaker as the cliffs can get incredibly breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem lokalen Erbe in der charmanten Galerie de Dahouët. \n\nDer Mittag bringt eine skurrile Note im Port Miniature, gefolgt von Küstenentspannung an der La Mine d'Or. \n\nVerbringen Sie den Nachmittag damit, die Aussicht vom Phare de la Petite Muette zu genießen und an der Anse du Pissot zu ruhen. \n\nBeenden Sie den Tag am historischen Corps de Garde im Abendlicht.",
+        "hu": "Kezdje a reggelt a helyi örökség felfedezésével a hangulatos Galerie de Dahouët-ben. \n\nA dél délután egy kis vidámságot hoz a Port Miniature-nél, majd tengerparti pihenés vár a La Mine d'Or-nál. \n\nDélután élvezze a kilátást a Phare de la Petite Muette-ből, és pihenjen az Anse du Pissot öbölben. \n\nZárja a napot a történelmi Corps de Garde megcsodálásával, ahogy a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața explorând moștenirea locală la fermecătoarea Galerie de Dahouët. \n\nLa prânz, descoperiți magia de la Port Miniature, urmată de relaxare de-a lungul coastei la La Mine d'Or. \n\nPetreceți după-amiaza admirând priveliștea de la Phare de la Petite Muette și odihnindu-vă la Anse du Pissot. \n\nÎncheiați ziua explorând istoricul Corps de Garde, în timp ce soarele începe să apună.",
+        "en": "Start your morning immersing in the local heritage at the charming Galerie de Dahouët. \n\nMidday brings a whimsical touch at Port Miniature, followed by coastal relaxation along La Mine d'Or. \n\nSpend your afternoon capturing the views from Phare de la Petite Muette and resting at Anse du Pissot. \n\nConclude the day marveling at the historic Corps de Garde while the sun begins to lower."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port-morvan",
+            "hu": "Port-morvan",
+            "ro": "Port-morvan",
+            "en": "Port-morvan"
+          },
+          "coords": [
+            -2.580087,
+            48.570136
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an dieser intimen Küstenbucht ein, ideal für einen Morgenspaziergang, aber prüfen Sie vorher die Gezeiten.",
+            "hu": "Szívja magába a friss tengeri levegőt ebben a meghitt öbölben, amely tökéletes egy reggeli sétához, de előtte nézze meg az árapályt.",
+            "ro": "Respirați aerul proaspăt de mare în acest golf intim, perfect pentru o plimbare revigorantă, dar verificați înainte programul mareelor.",
+            "en": "Breathe in the fresh sea air at this intimate coastal inlet, perfect for a refreshing morning walk, but check the tide schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "La Galerie de Dahouët",
+            "hu": "La Galerie de Dahouët",
+            "ro": "La Galerie de Dahouët",
+            "en": "La Galerie de Dahouët"
+          },
+          "coords": [
+            -2.565068,
+            48.578555
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale maritime Geschichte in dieser faszinierenden Galerie, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi tengerészeti történelmet ebben a lenyűgöző galériában, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați istoria maritimă locală în această galerie fascinantă, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Explore local maritime history in this fascinating gallery, but check the opening hours beforehand as they often vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Petite Muette",
+            "hu": "Phare de la Petite Muette",
+            "ro": "Phare de la Petite Muette",
+            "en": "Phare de la Petite Muette"
+          },
+          "coords": [
+            -2.57163,
+            48.580371
+          ],
+          "category": "landmark",
+          "arrive_at": "12:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean von diesem ikonischen Leuchtfeuer und halten Sie Ihre Kamera für das Nachmittagslicht bereit.",
+            "hu": "Gyönyörködjön a panorámás óceáni kilátásban ebből az ikonikus világítótoronyból, és készítse elő fényképezőgépét a délutáni fényekhez.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de la acest far iconic, pregătind aparatul foto pentru lumina spectaculoasă a după-amiezii.",
+            "en": "Take in panoramic ocean views from this iconic coastal beacon, making sure to have your camera ready for the spectacular afternoon lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Val André",
+            "hu": "Plage du Val André",
+            "ro": "Plage du Val André",
+            "en": "Plage du Val André"
+          },
+          "coords": [
+            -2.556106,
+            48.590653
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Sandstrand, der von eleganten Villen gesäumt wird, und vergessen Sie auch an bewölkten Tagen die Sonnencreme nicht.",
+            "hu": "Kapcsolódjon ki az elegáns villákkal szegélyezett hatalmas homokos strandon, és borús napokon se felejtse el a naptejet használni.",
+            "ro": "Relaxați-vă pe această plajă imensă cu nisip, flancată de vile elegante, și nu uitați crema de protecție solară nici în zilele înnorate.",
+            "en": "Unwind on this expansive sandy beach flanked by elegant villas, and don't forget your sunscreen even on seemingly overcast days."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame",
+            "hu": "Chapelle Notre-Dame",
+            "ro": "Chapelle Notre-Dame",
+            "en": "Chapelle Notre-Dame"
+          },
+          "coords": [
+            -2.552186,
+            48.590524
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe im Inneren dieser charmanten Kapelle am Meer und denken Sie daran, während Ihres Besuchs respektvoll leise zu sein.",
+            "hu": "Élje át a mély nyugalmat ebben a bájos tengerparti kápolnában, és ne felejtsen el tiszteletteljes csendet tartani a látogatás során.",
+            "ro": "Experimentați liniștea profundă din interiorul acestei capele fermecătoare de la malul mării, păstrând o tăcere respectuoasă în timpul vizitei.",
+            "en": "Experience the profound tranquility inside this charming seaside chapel, remembering to maintain a respectful silence during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am ruhigen Port-morvan für einen erfrischenden Start. \n\nGegen Mittag fahren Sie zum Hafen, um die kulturellen Schätze in der Galerie de Dahouët zu erkunden. \n\nAm Nachmittag machen Sie eine Pause am malerischen Phare de la Petite Muette, bevor Sie zum Strand fahren. \n\nBeenden Sie Ihren aktiven Tag mit einem Moment der Ruhe in der schönen Chapelle Notre-Dame.",
+        "hu": "Kezdje kerékpáros kalandját a nyugodt Port-morvan partján egy frissítő reggeli ébredéssel. \n\nDélben tekerjen a kikötő felé, hogy felfedezze a Galerie de Dahouët kulturális kincseit. \n\nDélután álljon meg a festői Phare de la Petite Muette-nél, mielőtt legurulna a hatalmas Plage du Val André strandhoz. \n\nZárja aktív napját egy békés pillanattal a tengerparti Chapelle Notre-Dame kápolnában.",
+        "ro": "Începeți aventura cu bicicleta la liniștitul Port-morvan pentru un start revigorant pe coastă. \n\nLa prânz, mergeți spre port pentru a explora comorile culturale din cadrul Galerie de Dahouët. \n\nDupă-amiaza, opriți-vă la pitorescul Phare de la Petite Muette înainte de a coborî spre plaja Val André. \n\nÎncheiați-vă ziua activă cu un moment de pace la superba capelă Chapelle Notre-Dame.",
+        "en": "Begin your cycling adventure at the tranquil Port-morvan for a refreshing coastal start. \n\nBy midday, ride towards the bustling port to explore the cultural treasures inside La Galerie de Dahouët. \n\nIn the afternoon, pause at the scenic Phare de la Petite Muette before riding down to the expansive Plage du Val André. \n\nEnd your active day with a moment of peace at the Chapelle Notre-Dame."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "grève du Vauglin",
+            "hu": "grève du Vauglin",
+            "ro": "grève du Vauglin",
+            "en": "grève du Vauglin"
+          },
+          "coords": [
+            -2.588265,
+            48.564999
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie über diesen rauen Kieselstrand, um faszinierende Gezeitentümpel zu beobachten, und tragen Sie feste, wasserdichte Stiefel.",
+            "hu": "Sétáljon végig ezen a zord kavicsos strandon az árapálymedencék megfigyeléséhez, és viseljen vízálló csizmát a csúszós sziklák miatt.",
+            "ro": "Plimbați-vă pe această plajă pietroasă pentru a observa bazinele mareelor, purtând cizme impermeabile pentru a naviga în siguranță pe stânci.",
+            "en": "Wander across this rugged shingle beach to observe fascinating tidal pools, wearing sturdy waterproof boots to navigate the slippery rocks safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-morvan",
+            "hu": "Port-morvan",
+            "ro": "Port-morvan",
+            "en": "Port-morvan"
+          },
+          "coords": [
+            -2.580087,
+            48.570136
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an dieser intimen Küstenbucht ein, ideal für einen Morgenspaziergang, aber prüfen Sie vorher die Gezeiten.",
+            "hu": "Szívja magába a friss tengeri levegőt ebben a meghitt öbölben, amely tökéletes egy reggeli sétához, de előtte nézze meg az árapályt.",
+            "ro": "Respirați aerul proaspăt de mare în acest golf intim, perfect pentru o plimbare revigorantă, dar verificați înainte programul mareelor.",
+            "en": "Breathe in the fresh sea air at this intimate coastal inlet, perfect for a refreshing morning walk, but check the tide schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "La Galerie de Dahouët",
+            "hu": "La Galerie de Dahouët",
+            "ro": "La Galerie de Dahouët",
+            "en": "La Galerie de Dahouët"
+          },
+          "coords": [
+            -2.565068,
+            48.578555
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale maritime Geschichte in dieser faszinierenden Galerie, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi tengerészeti történelmet ebben a lenyűgöző galériában, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați istoria maritimă locală în această galerie fascinantă, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Explore local maritime history in this fascinating gallery, but check the opening hours beforehand as they often vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Val André",
+            "hu": "Plage du Val André",
+            "ro": "Plage du Val André",
+            "en": "Plage du Val André"
+          },
+          "coords": [
+            -2.556106,
+            48.590653
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Sandstrand, der von eleganten Villen gesäumt wird, und vergessen Sie auch an bewölkten Tagen die Sonnencreme nicht.",
+            "hu": "Kapcsolódjon ki az elegáns villákkal szegélyezett hatalmas homokos strandon, és borús napokon se felejtse el a naptejet használni.",
+            "ro": "Relaxați-vă pe această plajă imensă cu nisip, flancată de vile elegante, și nu uitați crema de protecție solară nici în zilele înnorate.",
+            "en": "Unwind on this expansive sandy beach flanked by elegant villas, and don't forget your sunscreen even on seemingly overcast days."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-et-Saint-Paul",
+            "hu": "Église Saint-Pierre-et-Saint-Paul",
+            "ro": "Église Saint-Pierre-et-Saint-Paul",
+            "en": "Église Saint-Pierre-et-Saint-Paul"
+          },
+          "coords": [
+            -2.53604,
+            48.584253
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Pfarrkirche und nehmen Sie sich Zeit, die komplizierten Details ihrer Buntglasfenster zu betrachten.",
+            "hu": "Csodálja meg e történelmi plébániatemplom gyönyörű építészetét, és szánjon egy percet az ólomüveg ablakok lenyűgöző részleteire.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale istorice, luându-vă un moment pentru a aprecia detaliile vitraliilor sale.",
+            "en": "Marvel at the beautiful architecture of this historic parish church, taking a moment to appreciate the intricate details of its stained glass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie frühmorgens zur rauen grève du Vauglin für ein dramatisches Meereserlebnis. \n\nDer Mittag lädt Sie ein, den friedlichen Port-morvan zu erkunden und in der Galerie de Dahouët einzutauchen. \n\nVerbringen Sie den Nachmittag damit, die Sonne am beliebten Plage du Val André zu genießen. \n\nBeenden Sie Ihren Roadtrip mit einem Besuch der markanten Église Saint-Pierre-et-Saint-Paul am Abend.",
+        "hu": "Autózzon el kora reggel a zord grève du Vauglin strandhoz egy drámai tengerparti élményért. \n\nA dél hívogatja a békés Port-morvan felfedezésére és a helyi legendák megismerésére a galériában. \n\nDélután élvezze a napsütést és a puha homokot a népszerű Plage du Val André strandon. \n\nZárja az autós utazást a lenyűgöző Église Saint-Pierre-et-Saint-Paul meglátogatásával az este közeledtével.",
+        "ro": "Conduceți dimineața devreme spre accidentata grève du Vauglin pentru o experiență dramatică la mare. \n\nPrânzul vă invită să explorați pașnicul Port-morvan și să vizitați uimitoarea Galerie de Dahouët. \n\nPetreceți după-amiaza bucurându-vă de soare pe nisipul fin al popularei Plage du Val André. \n\nÎncheiați excursia cu mașina cu o vizită la impresionanta Église Saint-Pierre-et-Saint-Paul la apus.",
+        "en": "Drive to the rugged grève du Vauglin early in the morning for a dramatic seaside experience. \n\nMidday invites you to explore the peaceful Port-morvan and dive into local lore at La Galerie de Dahouët. \n\nSpend your afternoon enjoying the sun and soft sands at the popular Plage du Val André. \n\nConclude your road trip with a visit to the striking Église Saint-Pierre-et-Saint-Paul as evening approaches."
+      }
+    }
+  }
+}

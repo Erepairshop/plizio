@@ -1,0 +1,497 @@
+{
+  "city_id": "orizaba-cities-v2",
+  "anchor": {
+    "name": "Orizaba",
+    "coords": [
+      -97.1008,
+      18.8483
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Memoria Histórica de Orizaba",
+            "hu": "Museo Memoria Histórica de Orizaba",
+            "ro": "Museo Memoria Histórica de Orizaba",
+            "en": "Museo Memoria Histórica de Orizaba"
+          },
+          "coords": [
+            -97.101167,
+            18.847805
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Orizabas reiche Vergangenheit in diesem umfassenden Museum anhand detaillierter Exponate und nehmen Sie sich Zeit für die faszinierenden Tafeln zur frühen Besiedlung.",
+            "hu": "Fedezze fel Orizaba gazdag múltját ebben az átfogó múzeumban, ahol részletes kiállítások mutatják be a város történelmét, és mindenképpen olvassa el az első telepesekről szóló táblákat.",
+            "ro": "Descoperiți trecutul bogat al orașului Orizaba în acest muzeu cuprinzător, unde exponatele detaliate îi conturează istoria; faceți-vă timp să citiți plăcile despre primele așezări.",
+            "en": "Discover Orizaba's rich past in this comprehensive museum, where detailed exhibits chart its historical timeline; take time to read the well-curated plaques on early settlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+            "hu": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+            "ro": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+            "en": "Casa de Cultura del Instituto Tecnológico de Orizaba"
+          },
+          "coords": [
+            -97.100582,
+            18.848755
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokales Talent und akademische Kreativität in diesem Kulturzentrum mit wechselnden Kunstausstellungen; prüfen Sie das Programm nach oft kostenlosen Studentenaufführungen.",
+            "hu": "Csodálja meg a helyi tehetségeket és az akadémiai kreativitást ebben a kulturális központban, ahol érdemes előre tájékozódni a gyakran ingyenes diák-előadásokról és kiállításokról.",
+            "ro": "Apreciați talentul local și creativitatea academică la acest centru cultural ce găzduiește expoziții de artă; verificați programul, deoarece spectacolele studențești sunt deseori gratuite.",
+            "en": "Appreciate local talent and academic creativity at this cultural hub, showcasing rotating art exhibits; check the schedule beforehand as student performances are often free."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ignacio de la Llave",
+            "hu": "Teatro Ignacio de la Llave",
+            "ro": "Teatro Ignacio de la Llave",
+            "en": "Teatro Ignacio de la Llave"
+          },
+          "coords": [
+            -97.10471,
+            18.848376
+          ],
+          "category": "cultural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur dieses historischen Theaters aus dem 19. Jahrhundert, und werfen Sie tagsüber einen Blick hinein, um den opulenten Kronleuchter zu sehen.",
+            "hu": "Csodálja meg a 19. századi történelmi színház neoklasszikus építészetét, amely a helyi művészeti élet központja, és napközben próbáljon meg bekukkantani az impozáns csillárért.",
+            "ro": "Admirați arhitectura neoclasică a acestui teatru istoric din secolul XIX, o piesă de rezistență a artelor locale; încercați să priviți înăuntru ziua pentru a vedea candelabrul opulent.",
+            "en": "Admire the neoclassical architecture of this historic 19th-century theater, a cornerstone of Orizaba's arts scene; try to peek inside during the day to see the opulent chandelier."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Hierro",
+            "hu": "Palacio de Hierro",
+            "ro": "Palacio de Hierro",
+            "en": "Palacio de Hierro"
+          },
+          "coords": [
+            -97.105951,
+            18.849744
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten, von Gustave Eiffel entworfenen Eisenpalast, der einst als Rathaus diente, und genießen Sie eine Pause bei einem Kaffee in den lebhaften Innenhofcafés.",
+            "hu": "Csodálja meg a Gustave Eiffel által tervezett, lenyűgöző vaspalotát, amely egykor városházaként szolgált; élvezze a tökéletes pihenést egy kávéval az élénk belső udvar kávézóinak egyikében.",
+            "ro": "Minunați-vă de acest palat de fier proiectat de Gustave Eiffel, fost sediu municipal; bucurați-vă de o pauză perfectă savurând o cafea în cafenelele vibrante din curtea interioară.",
+            "en": "Marvel at this striking iron palace designed by Gustave Eiffel, which once served as the municipal headquarters; enjoy a coffee in its vibrant courtyard cafes for a perfect break."
+          }
+        },
+        {
+          "name": {
+            "de": "Salón de la Fama",
+            "hu": "Salón de la Fama",
+            "ro": "Salón de la Fama",
+            "en": "Salón de la Fama"
+          },
+          "coords": [
+            -97.107616,
+            18.847084
+          ],
+          "category": "museum",
+          "arrive_at": "14:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Feiern Sie lokale Legenden und Sporthelden in dieser fesselnden Ruhmeshalle, die Orizabas stolzem Erbe huldigt; konzentrieren Sie sich auf die interaktiven Displays für mehr Details.",
+            "hu": "Ünnepelje a helyi legendákat és sporthősöket ebben a lenyűgöző hírességek csarnokában, és érdemes az interaktív kijelzőkre összpontosítani a teljesítményük jobb megértéséhez.",
+            "ro": "Celebrați legendele locale și eroii sportului în această sală a faimei captivantă; concentrați-vă pe ecranele interactive pentru a înțelege pe deplin realizările lor remarcabile.",
+            "en": "Celebrate local legends and sporting heroes at this engaging hall of fame, a tribute to Orizaba's proud heritage; focus on the interactive displays to fully grasp their achievements."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkeys (pass del Rio y reserva animal)",
+            "hu": "Monkeys (pass del Rio y reserva animal)",
+            "ro": "Monkeys (pass del Rio y reserva animal)",
+            "en": "Monkeys (pass del Rio y reserva animal)"
+          },
+          "coords": [
+            -97.107594,
+            18.846042
+          ],
+          "category": "family",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Flussuferweg entlang, um verspielte Affen in ihrem üppigen Lebensraum zu beobachten; bringen Sie ein gutes Zoomobjektiv mit, da sie oft hoch in den Bäumen sitzen.",
+            "hu": "Sétáljon végig a festői folyóparti sétányon, hogy megfigyelhesse ezeket a játékos majmokat buja élőhelyükön, de hozzon magával jó zoomobjektívet, mert gyakran magasan a lombok között bújnak meg.",
+            "ro": "Plimbați-vă pe faleza pitorească a râului pentru a observa aceste maimuțe jucăușe în habitatul lor luxuriant; aduceți un obiectiv cu zoom bun, deoarece adesea stau sus în copaci.",
+            "en": "Stroll along the scenic river walk to observe these playful monkeys in their lush riverside habitat; bring a good zoom lens for photography as they often stay high up in the canopy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in Orizabas Erbe im Historischen Museum und dem lokalen Kulturzentrum. Mittags stehen das atemberaubende Teatro und das markante Eisenwerk des Palacio de Hierro im Fokus. Der Nachmittag ist lokalen Sportlegenden in der Ruhmeshalle gewidmet. Der Tag endet entspannt am Flussufer, wo man die verspielten Affen beobachten kann.",
+        "hu": "A reggel Orizaba örökségének felfedezésével indul a Történeti Múzeumban és a Kulturális Központban. Délben a lenyűgöző színház, majd a Palacio de Hierro ikonikus vasmunkája kerül a középpontba. A délutánt a helyi sporthősöknek szenteljük a Hírességek Csarnokában. A napot egy pihentető esti séta zárja a folyóparton, ahol megfigyelhetjük a játékos majmokat.",
+        "ro": "Dimineața începe cu o incursiune în moștenirea orașului Orizaba la Muzeul Istoric și Centrul Cultural. La prânz, atenția cade pe superbul Teatru Ignacio de la Llave, urmat de iconicul Palacio de Hierro. După-amiaza este dedicată legendelor sportive la Sala Faimei. Ziua se încheie cu o plimbare relaxantă de seară pe malul râului, observând maimuțele jucăușe.",
+        "en": "Morning begins with a deep dive into Orizaba’s heritage at the Historical Museum and local Cultural Center. Midday shines a spotlight on the stunning Teatro Ignacio de la Llave before admiring the iconic ironwork of Palacio de Hierro. Afternoon is dedicated to local sports legends at the Hall of Fame. The day wraps up with a relaxing evening stroll by the river to spot the playful monkeys."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:46",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de Hierro",
+            "hu": "Palacio de Hierro",
+            "ro": "Palacio de Hierro",
+            "en": "Palacio de Hierro"
+          },
+          "coords": [
+            -97.105951,
+            18.849744
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten, von Gustave Eiffel entworfenen Eisenpalast, der einst als Rathaus diente, und genießen Sie eine Pause bei einem Kaffee in den lebhaften Innenhofcafés.",
+            "hu": "Csodálja meg a Gustave Eiffel által tervezett, lenyűgöző vaspalotát, amely egykor városházaként szolgált; élvezze a tökéletes pihenést egy kávéval az élénk belső udvar kávézóinak egyikében.",
+            "ro": "Minunați-vă de acest palat de fier proiectat de Gustave Eiffel, fost sediu municipal; bucurați-vă de o pauză perfectă savurând o cafea în cafenelele vibrante din curtea interioară.",
+            "en": "Marvel at this striking iron palace designed by Gustave Eiffel, which once served as the municipal headquarters; enjoy a coffee in its vibrant courtyard cafes for a perfect break."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ignacio de la Llave",
+            "hu": "Teatro Ignacio de la Llave",
+            "ro": "Teatro Ignacio de la Llave",
+            "en": "Teatro Ignacio de la Llave"
+          },
+          "coords": [
+            -97.10471,
+            18.848376
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur dieses historischen Theaters aus dem 19. Jahrhundert, und werfen Sie tagsüber einen Blick hinein, um den opulenten Kronleuchter zu sehen.",
+            "hu": "Csodálja meg a 19. századi történelmi színház neoklasszikus építészetét, amely a helyi művészeti élet központja, és napközben próbáljon meg bekukkantani az impozáns csillárért.",
+            "ro": "Admirați arhitectura neoclasică a acestui teatru istoric din secolul XIX, o piesă de rezistență a artelor locale; încercați să priviți înăuntru ziua pentru a vedea candelabrul opulent.",
+            "en": "Admire the neoclassical architecture of this historic 19th-century theater, a cornerstone of Orizaba's arts scene; try to peek inside during the day to see the opulent chandelier."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Hotelería Mexicana",
+            "hu": "Museo de la Hotelería Mexicana",
+            "ro": "Museo de la Hotelería Mexicana",
+            "en": "Museo de la Hotelería Mexicana"
+          },
+          "coords": [
+            -97.098654,
+            18.847743
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte der Gastgewerbes in Mexiko in diesem einzigartigen Nischenmuseum; betrachten Sie historische Hotelregister für einen Einblick in den früheren Luxus.",
+            "hu": "Fedezze fel a mexikói vendéglátás lenyűgöző történetét ebben az egyedülálló rétegmúzeumban, és tekintse meg a korabeli szállodai nyilvántartásokat, amelyek a múlt utazási luxusát idézik.",
+            "ro": "Explorați istoria fascinantă a ospitalității mexicane la acest muzeu unic de nișă; analizați registrele hoteliere de epocă pentru o privire asupra luxului din călătoriile de altădată.",
+            "en": "Explore the fascinating history of hospitality in Mexico at this unique niche museum; check out the vintage hotel registers and period furnishings for a glimpse into past travel luxury."
+          }
+        },
+        {
+          "name": {
+            "de": "Polifórum Mier y Pesado",
+            "hu": "Polifórum Mier y Pesado",
+            "ro": "Polifórum Mier y Pesado",
+            "en": "Polifórum Mier y Pesado"
+          },
+          "coords": [
+            -97.089172,
+            18.848324
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen schlossartigen Kulturkomplex inmitten wunderschöner Gärten; besuchen Sie unbedingt die Francisco Gabilondo Soler-Ausstellung des berühmten Komponisten.",
+            "hu": "Sétáljon végig ezen a csodálatos, kastélyszerű kulturális komplexumon, gyönyörű kertekkel övezve, és feltétlenül látogasson el a híres zeneszerzőnek szentelt Francisco Gabilondo Soler kiállításra.",
+            "ro": "Plimbați-vă prin acest complex cultural magnific înconjurat de grădini îngrijite; asigurați-vă că vizitați expoziția Francisco Gabilondo Soler, dedicată celebrului compozitor mexican.",
+            "en": "Wander through this magnificent, castle-like cultural complex surrounded by beautifully manicured gardens; ensure you visit the Francisco Gabilondo Soler exhibit dedicated to the famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Piedra De Xipe",
+            "hu": "Piedra De Xipe",
+            "ro": "Piedra De Xipe",
+            "en": "Piedra De Xipe"
+          },
+          "coords": [
+            -97.08379,
+            18.852451
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähispanische Geheimnisse an diesem monolithischen Stein mit indigenen Motiven; besuchen Sie ihn am späten Nachmittag, um die Details im besten natürlichen Licht zu sehen.",
+            "hu": "Fedezze fel a spanyol hódítás előtti titkokat ennél az ősi kőtömbnél, amelyet lenyűgöző őslakos motívumok díszítenek; látogasson el késő délután, amikor a természetes fény a legszebb.",
+            "ro": "Descoperiți secretele pre-hispanice la această piatră monolitică străveche sculptată cu motive indigene; vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină pe detalii.",
+            "en": "Uncover pre-Hispanic secrets at this ancient monolithic stone carved with fascinating indigenous motifs; visit during the late afternoon for the best natural lighting on the intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros \"La Concordia\"",
+            "hu": "Plaza de Toros \"La Concordia\"",
+            "ro": "Plaza de Toros \"La Concordia\"",
+            "en": "Plaza de Toros \"La Concordia\""
+          },
+          "coords": [
+            -97.087329,
+            18.854854
+          ],
+          "category": "cultural",
+          "arrive_at": "16:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die immense Größe dieser ikonischen Stierkampfarena und modernen Veranstaltungshalle; spazieren Sie am äußeren Rand entlang, um die beeindruckende Architektur zu würdigen.",
+            "hu": "Tapasztalja meg ennek az ikonikus bikaviadal-arénának a hatalmas méreteit, és sétálja körbe a külső kerületét, hogy teljes mértékben értékelni tudja a lenyűgöző építészeti tervezést.",
+            "ro": "Experimentați scara imensă a acestei arene iconice de tauri și evenimente; plimbați-vă pe perimetrul exterior pentru a aprecia pe deplin designul arhitectural impresionant al structurii.",
+            "en": "Experience the immense scale of this iconic bullring and modern event arena, a staple of local entertainment; walk the outer perimeter to fully appreciate the impressive architectural design."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Vegas",
+            "hu": "Casa Vegas",
+            "ro": "Casa Vegas",
+            "en": "Casa Vegas"
+          },
+          "coords": [
+            -97.085674,
+            18.857452
+          ],
+          "category": "cultural",
+          "arrive_at": "18:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein in eine mittelalterliche Fantasiewelt in diesem einzigartig thematisierten Kulturzentrum mit Burgen; kommen Sie früh, um die Atmosphäre vor dem großen Ansturm zu genießen.",
+            "hu": "Lépjen be egy középkori fantáziavilágba ebben az egyedi témájú kulturális központban, ahol kastélyok és tavernák találhatók; érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Pășiți într-o lume fantastică medievală la acest centru cultural tematic unic, cu castele și taverne; ajungeți devreme pentru a vă bucura de atmosferă înainte să se adune mulțimile mari.",
+            "en": "Step into a medieval fantasy world at this uniquely themed cultural center with castles and taverns; arrive early to enjoy the immersive atmosphere before the largest crowds gather."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour beim von Eiffel entworfenen Palacio de Hierro und der Eleganz des Teatro Ignacio de la Llave. Mittags radeln Sie zum einzigartigen Museum der Gastgewerbes und den Schlossanlagen des Polifórums. Nachmittags entdecken Sie die antike Piedra De Xipe und die gewaltige Plaza de Toros. Der Abend wird im mittelalterlichen Ambiente der Casa Vegas verbracht.",
+        "hu": "Kezdje kerékpártúráját az Eiffel által tervezett Palacio de Hierro és a gyönyörű színház megcsodálásával. Délben a lenyűgöző Vendéglátás Múzeuma és a Polifórum palotaszerű kertje várja. Délután felfedezheti az ősi Piedra De Xipe kőtömböt és a hatalmas bikaviadal-arénát. Az estét a középkori hangulatú Casa Vegas egyedülálló varázsa teszi teljessé.",
+        "ro": "Începeți traseul cu bicicleta admirând Palacio de Hierro proiectat de Eiffel și eleganța clasică a teatrului. La prânz pedalați spre Muzeul Ospitalității și grădinile de la Polifórum Mier y Pesado. După-amiaza, descoperiți antica Piedra De Xipe și impresionanta Plaza de Toros. Seara sosește în decorul medieval fascinant al complexului Casa Vegas.",
+        "en": "Start your cycling route marveling at the Eiffel-designed Palacio de Hierro before taking in the classic elegance of Teatro Ignacio de la Llave. Midday rides lead to the unique Mexican Hospitality Museum and the palatial grounds of Polifórum Mier y Pesado. In the afternoon, discover the ancient Piedra De Xipe and the massive Plaza de Toros. Evening arrives at the medieval-themed Casa Vegas."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Vegas",
+            "hu": "Casa Vegas",
+            "ro": "Casa Vegas",
+            "en": "Casa Vegas"
+          },
+          "coords": [
+            -97.085674,
+            18.857452
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie ein in eine mittelalterliche Fantasiewelt in diesem einzigartig thematisierten Kulturzentrum mit Burgen; kommen Sie früh, um die Atmosphäre vor dem großen Ansturm zu genießen.",
+            "hu": "Lépjen be egy középkori fantáziavilágba ebben az egyedi témájú kulturális központban, ahol kastélyok és tavernák találhatók; érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Pășiți într-o lume fantastică medievală la acest centru cultural tematic unic, cu castele și taverne; ajungeți devreme pentru a vă bucura de atmosferă înainte să se adune mulțimile mari.",
+            "en": "Step into a medieval fantasy world at this uniquely themed cultural center with castles and taverns; arrive early to enjoy the immersive atmosphere before the largest crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros \"La Concordia\"",
+            "hu": "Plaza de Toros \"La Concordia\"",
+            "ro": "Plaza de Toros \"La Concordia\"",
+            "en": "Plaza de Toros \"La Concordia\""
+          },
+          "coords": [
+            -97.087329,
+            18.854854
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die immense Größe dieser ikonischen Stierkampfarena und modernen Veranstaltungshalle; spazieren Sie am äußeren Rand entlang, um die beeindruckende Architektur zu würdigen.",
+            "hu": "Tapasztalja meg ennek az ikonikus bikaviadal-arénának a hatalmas méreteit, és sétálja körbe a külső kerületét, hogy teljes mértékben értékelni tudja a lenyűgöző építészeti tervezést.",
+            "ro": "Experimentați scara imensă a acestei arene iconice de tauri și evenimente; plimbați-vă pe perimetrul exterior pentru a aprecia pe deplin designul arhitectural impresionant al structurii.",
+            "en": "Experience the immense scale of this iconic bullring and modern event arena, a staple of local entertainment; walk the outer perimeter to fully appreciate the impressive architectural design."
+          }
+        },
+        {
+          "name": {
+            "de": "Polifórum Mier y Pesado",
+            "hu": "Polifórum Mier y Pesado",
+            "ro": "Polifórum Mier y Pesado",
+            "en": "Polifórum Mier y Pesado"
+          },
+          "coords": [
+            -97.089172,
+            18.848324
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen schlossartigen Kulturkomplex inmitten wunderschöner Gärten; besuchen Sie unbedingt die Francisco Gabilondo Soler-Ausstellung des berühmten Komponisten.",
+            "hu": "Sétáljon végig ezen a csodálatos, kastélyszerű kulturális komplexumon, gyönyörű kertekkel övezve, és feltétlenül látogasson el a híres zeneszerzőnek szentelt Francisco Gabilondo Soler kiállításra.",
+            "ro": "Plimbați-vă prin acest complex cultural magnific înconjurat de grădini îngrijite; asigurați-vă că vizitați expoziția Francisco Gabilondo Soler, dedicată celebrului compozitor mexican.",
+            "en": "Wander through this magnificent, castle-like cultural complex surrounded by beautifully manicured gardens; ensure you visit the Francisco Gabilondo Soler exhibit dedicated to the famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Hierro",
+            "hu": "Palacio de Hierro",
+            "ro": "Palacio de Hierro",
+            "en": "Palacio de Hierro"
+          },
+          "coords": [
+            -97.105951,
+            18.849744
+          ],
+          "category": "castle",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten, von Gustave Eiffel entworfenen Eisenpalast, der einst als Rathaus diente, und genießen Sie eine Pause bei einem Kaffee in den lebhaften Innenhofcafés.",
+            "hu": "Csodálja meg a Gustave Eiffel által tervezett, lenyűgöző vaspalotát, amely egykor városházaként szolgált; élvezze a tökéletes pihenést egy kávéval az élénk belső udvar kávézóinak egyikében.",
+            "ro": "Minunați-vă de acest palat de fier proiectat de Gustave Eiffel, fost sediu municipal; bucurați-vă de o pauză perfectă savurând o cafea în cafenelele vibrante din curtea interioară.",
+            "en": "Marvel at this striking iron palace designed by Gustave Eiffel, which once served as the municipal headquarters; enjoy a coffee in its vibrant courtyard cafes for a perfect break."
+          }
+        },
+        {
+          "name": {
+            "de": "Reserva Animal Leones",
+            "hu": "Reserva Animal Leones",
+            "ro": "Reserva Animal Leones",
+            "en": "Reserva Animal Leones"
+          },
+          "coords": [
+            -97.109987,
+            18.850555
+          ],
+          "category": "family",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie majestätische Großkatzen in einem gepflegten Reservat am Fluss, das sich dem Tierschutz widmet; halten Sie respektvollen Abstand zu den Gehegen, um die Tiere nicht zu stören.",
+            "hu": "Figyelje meg a fenséges nagymacskákat egy gondosan karbantartott folyóparti rezervátumban; tartson tiszteletteljes távolságot a kifutóktól, hogy véletlenül se riassza meg az állatokat.",
+            "ro": "Observați felinele maiestuoase într-o rezervație îngrijită ce promovează conservarea faunei sălbatice; păstrați o distanță respectuoasă față de incinte pentru a nu speria animalele mari.",
+            "en": "Observe majestic big cats in a carefully maintained riverside reserve that champions wildlife conservation; maintain a respectful distance from the enclosures to avoid startling the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Metropolitano",
+            "hu": "Auditorio Metropolitano",
+            "ro": "Auditorio Metropolitano",
+            "en": "Auditorio Metropolitano"
+          },
+          "coords": [
+            -97.111305,
+            18.841633
+          ],
+          "category": "cultural",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem hochmodernen Auditorium, das spektakuläre Aufführungen bietet; prüfen Sie das lokale Programm, um vielleicht abends ein fantastisches Konzert zu erleben.",
+            "hu": "Zárja a napot ebben a legmodernebb nagyvárosi előadóteremben, amely lenyűgöző kulturális előadásoknak ad otthont; érdemes megnézni a programot egy esti koncert erejéig.",
+            "ro": "Încheiați-vă ziua la acest auditorium metropolitan modern, gazda unor spectacole culturale uimitoare; verificați programul local pentru a vedea dacă un concert coincide cu seara dvs.",
+            "en": "Conclude your day at this state-of-the-art metropolitan auditorium, hosting spectacular cultural performances; check local listings to see if a concert aligns with your evening schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit dem mittelalterlichen Zauber der Casa Vegas und der beeindruckenden Plaza de Toros. Mittags erwarten Sie die atemberaubenden Gärten des Polifórums und das historische Zentrum mit dem Palacio de Hierro. Nachmittags beobachten Sie Wildtiere im Löwenreservat. Der Abend klingt elegant in der Nähe des modernen Auditorio Metropolitano aus.",
+        "hu": "A festői autózás a Casa Vegas középkori varázsával és a Plaza de Toros hatalmas épületével indul. Délben a Polifórum lélegzetelállító kertjei és a történelmi központban található Palacio de Hierro nyújt élményt. Délután az oroszlánrezervátum állatvilágának megfigyelésére kerül sor. Az este kellemesen ér véget a modern Auditorio Metropolitano közelében.",
+        "ro": "Călătoria auto începe cu magia medievală de la Casa Vegas și grandoarea arhitecturală a Plaza de Toros. La prânz vă bucurați de grădinile de la Polifórum Mier y Pesado și de istoricul Palacio de Hierro. După-amiaza aduce observarea faunei sălbatice la rezervația de lei. Seara se încheie cu eleganță lângă modernul Auditorio Metropolitano.",
+        "en": "Your scenic drive begins with the medieval magic of Casa Vegas and the architectural scale of the Plaza de Toros. Midday features the breathtaking gardens of Polifórum Mier y Pesado and a visit to the historic downtown to see Palacio de Hierro. Afternoon transitions to wildlife observation at the riverside lion reserve. The evening concludes gracefully near the modern Auditorio Metropolitano."
+      }
+    }
+  }
+}

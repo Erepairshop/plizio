@@ -1,0 +1,497 @@
+{
+  "city_id": "le-rove",
+  "anchor": {
+    "name": "Le Rove",
+    "coords": [
+      5.2503,
+      43.3692
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Calanque de Niolon",
+            "hu": "Calanque de Niolon",
+            "ro": "Calanque de Niolon",
+            "en": "Calanque de Niolon"
+          },
+          "coords": [
+            5.257298,
+            43.339117
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Bucht mit ihrem kleinen Hafen und den bunten Fischerhütten, die Sie am besten in den frühen Morgenstunden ungestört fotografieren.",
+            "hu": "Csodálja meg a festői öblöt apró kikötőjével és színes halászkunyhóival, melyeket a kora reggeli órákban érdemes a leginkább lefotózni a tömeg elkerülése végett.",
+            "ro": "Admirați golful pitoresc cu portul său mic și colibele colorate de pescari, care se fotografiază cel mai bine dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the picturesque cove with its tiny harbor and colorful fishing huts, which are best photographed in the early morning to avoid the incoming crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de la Vesse",
+            "hu": "Calanque de la Vesse",
+            "ro": "Calanque de la Vesse",
+            "en": "Calanque de la Vesse"
+          },
+          "coords": [
+            5.26121,
+            43.34202
+          ],
+          "category": "natural",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden Eisenbahnviadukts, das sich majestätisch über die ruhigen Gewässer dieser versteckten Bucht erhebt, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig a lenyűgöző vasúti viadukt mentén, amely fenségesen ível át e rejtett öböl nyugodt vizein, és feltétlenül hozzon magával strapabíró túracipőt.",
+            "ro": "Plimbați-vă de-a lungul impresionantului viaduct feroviar care se înalță maiestuos deasupra apelor liniștite din acest golf ascuns și nu uitați să purtați încălțăminte adecvată.",
+            "en": "Walk along the impressive railway viaduct that rises majestically above the calm waters of this hidden cove, and make sure to wear sturdy walking shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Figuerolles",
+            "hu": "Fort de Figuerolles",
+            "ro": "Fort de Figuerolles",
+            "en": "Fort de Figuerolles"
+          },
+          "coords": [
+            5.26985,
+            43.3466
+          ],
+          "category": "fortress",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Überreste dieser militärischen Befestigungsanlage, von der aus Sie einen spektakulären Panoramablick auf das Mittelmeer genießen können, wenn Sie dem steilen Pfad folgen.",
+            "hu": "Fedezze fel e katonai erődítmény történelmi maradványait, ahonnan a meredek ösvényen feljutva látványos panoráma nyílik a ragyogó Földközi-tengerre.",
+            "ro": "Explorați rămășițele istorice ale acestei fortificații militare, de unde vă puteți bucura de o vedere panoramică spectaculoasă la Marea Mediterană urmând poteca abruptă.",
+            "en": "Explore the historical remains of this military fortification, where you can enjoy a spectacular panoramic view of the Mediterranean Sea by following the slightly steep coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Batterie",
+            "hu": "Plage de la Batterie",
+            "ro": "Plage de la Batterie",
+            "en": "Plage de la Batterie"
+          },
+          "coords": [
+            5.290776,
+            43.357734
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Kieselstrand, wo Sie die sanfte Meeresbrise spüren können, aber denken Sie daran, Badeschuhe für den steinigen Untergrund einzupacken.",
+            "hu": "Pihenjen ezen a nyugodt kavicsos strandon, ahol élvezheti a lágy tengeri szellőt, de ne felejtsen el vízicipőt csomagolni a sziklás tengerfenék miatt.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, unde puteți simți briza blândă a mării, dar nu uitați să împachetați încălțăminte de apă pentru fundul stâncos.",
+            "en": "Relax on this tranquil pebble beach where you can feel the gentle sea breeze, but remember to pack water shoes for the rocky underwater surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Lave",
+            "hu": "Plage de La Lave",
+            "ro": "Plage de La Lave",
+            "en": "Plage de La Lave"
+          },
+          "coords": [
+            5.294082,
+            43.358594
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Küstenabschnitt ausklingen, der sich ideal für ein erfrischendes Bad eignet, wenn Sie rechtzeitig vor dem Sonnenuntergang eintreffen.",
+            "hu": "Zárja a napot ezen a családbarát partszakaszon, amely ideális egy frissítő fürdőzésre, különösen ha még jóval a lenyűgöző naplemente előtt érkezik meg.",
+            "ro": "Încheiați-vă ziua pe această porțiune de coastă potrivită pentru familii, ideală pentru o baie răcoritoare dacă sosiți cu mult timp înainte de apusul soarelui.",
+            "en": "Wind down your day at this family-friendly stretch of coastline, which is perfectly suited for a refreshing swim if you arrive well before the golden hour sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den kristallklaren Gewässern von Niolon und La Vesse. Nach einem kurzen Marsch erreichen Sie das historische Fort de Figuerolles, wo sich Ihnen atemberaubende Ausblicke auf das Meer eröffnen. Der Nachmittag gehört den entspannten Stränden, an denen das sanfte Rauschen der Wellen dominiert. Den Abend verbringen Sie gemütlich am Ufer und genießen die letzten Sonnenstrahlen.",
+        "hu": "Kezdje a napot Niolon és La Vesse kristálytiszta vizeinél a friss tengeri levegőn. Egy rövid gyaloglás után elérjük a történelmi Fort de Figuerolles erődöt, ahonnan lélegzetelállító kilátás nyílik a tengerre. A délután a pihentető strandoké, ahol a hullámok lágy zúgása dominál. Az estét kényelmesen a parton töltheti, élvezve a nyugtató, meleg napsugarakat.",
+        "ro": "Începeți-vă ziua la apele cristaline din Niolon și La Vesse sub briza mării. După un scurt marș ajungeți la istoricul Fort de Figuerolles, cu vederi uluitoare la mare. După-amiaza este dedicată plajelor relaxante, unde domină zgomotul blând al valurilor. Vă veți petrece seara confortabil pe mal, bucurându-vă de ultimele raze calde ale soarelui apus.",
+        "en": "Begin your day by the crystal-clear waters of Niolon and La Vesse, breathing in the fresh sea air. Following a coastal walk, you will reach the historic Fort de Figuerolles to enjoy breathtaking maritime vistas. Your afternoon is dedicated to the soothing pebble beaches, accompanied by the gentle sound of crashing waves. Conclude your evening relaxing on the serene shoreline as the sun dips below the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 13.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            5.235723,
+            43.382998
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante provenzalische Kapelle inmitten mediterraner Vegetation, die einen Moment der Stille und Besinnlichkeit abseits der belebten Küste bietet.",
+            "hu": "Tekintse meg ezt a bájos provence-i kápolnát a mediterrán növényzet ölelésében, amely a nyüzsgő partvidéktől távol a csend és az elmélyülés tökéletes pillanatát nyújtja.",
+            "ro": "Vizitați această capelă provensală fermecătoare înconjurată de vegetație mediteraneană, care oferă un moment de liniște și contemplare departe de coasta aglomerată.",
+            "en": "Visit this charming Provençal chapel surrounded by Mediterranean vegetation, offering a peaceful moment of silence and contemplation away from the bustling coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunnel du Rove",
+            "hu": "Tunnel du Rove",
+            "ro": "Tunnel du Rove",
+            "en": "Tunnel du Rove"
+          },
+          "coords": [
+            5.22482,
+            43.39955
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den monumentalen Kanaltunnel, ein technisches Meisterwerk seiner Zeit, dessen imposante Eingangsportale am besten von der ausgewiesenen Aussichtsplattform zu sehen sind.",
+            "hu": "Csodálja meg a monumentális csatornaalagutat, amely korának műszaki remekműve volt, és amelynek impozáns bejáratait a legkönnyebben a kijelölt kilátópontról figyelheti meg.",
+            "ro": "Minunați-vă de tunelul monumental al canalului, o capodoperă tehnică a vremii sale, ale cărui portaluri de intrare impunătoare se văd cel mai bine de pe platforma desemnată.",
+            "en": "Marvel at the monumental canal tunnel, an engineering masterpiece of its time, whose imposing entrance portals are best viewed safely from the designated observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de la Campane",
+            "hu": "Oppidum de la Campane",
+            "ro": "Oppidum de la Campane",
+            "en": "Oppidum de la Campane"
+          },
+          "coords": [
+            5.275148,
+            43.389159
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser antiken keltisch-ligurischen Siedlung, bei der eine detaillierte Offline-Karte hilft, da die Wegweiser auf dem Hügel recht spärlich sind.",
+            "hu": "Fedezze fel ezen ősi kelta-ligur település lenyűgöző romjait, de mindenképpen töltsön le egy offline térképet, mivel a dombon található útjelző táblák meglehetősen ritkák.",
+            "ro": "Descoperiți ruinele fascinante ale acestei vechi așezări celto-ligurice, unde o hartă offline detaliată este esențială deoarece indicatoarele de pe deal sunt destul de rare.",
+            "en": "Discover the fascinating ruins of this ancient Celto-Ligurian settlement, where downloading an offline map is highly recommended due to the sparse trail markers on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Figuerolles",
+            "hu": "Fort de Figuerolles",
+            "ro": "Fort de Figuerolles",
+            "en": "Fort de Figuerolles"
+          },
+          "coords": [
+            5.26985,
+            43.3466
+          ],
+          "category": "fortress",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Überreste dieser militärischen Befestigungsanlage, von der aus Sie einen spektakulären Panoramablick auf das Mittelmeer genießen können, wenn Sie dem steilen Pfad folgen.",
+            "hu": "Fedezze fel e katonai erődítmény történelmi maradványait, ahonnan a meredek ösvényen feljutva látványos panoráma nyílik a ragyogó Földközi-tengerre.",
+            "ro": "Explorați rămășițele istorice ale acestei fortificații militare, de unde vă puteți bucura de o vedere panoramică spectaculoasă la Marea Mediterană urmând poteca abruptă.",
+            "en": "Explore the historical remains of this military fortification, where you can enjoy a spectacular panoramic view of the Mediterranean Sea by following the slightly steep coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de la Vesse",
+            "hu": "Calanque de la Vesse",
+            "ro": "Calanque de la Vesse",
+            "en": "Calanque de la Vesse"
+          },
+          "coords": [
+            5.26121,
+            43.34202
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden Eisenbahnviadukts, das sich majestätisch über die ruhigen Gewässer dieser versteckten Bucht erhebt, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig a lenyűgöző vasúti viadukt mentén, amely fenségesen ível át e rejtett öböl nyugodt vizein, és feltétlenül hozzon magával strapabíró túracipőt.",
+            "ro": "Plimbați-vă de-a lungul impresionantului viaduct feroviar care se înalță maiestuos deasupra apelor liniștite din acest golf ascuns și nu uitați să purtați încălțăminte adecvată.",
+            "en": "Walk along the impressive railway viaduct that rises majestically above the calm waters of this hidden cove, and make sure to wear sturdy walking shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de Niolon",
+            "hu": "Calanque de Niolon",
+            "ro": "Calanque de Niolon",
+            "en": "Calanque de Niolon"
+          },
+          "coords": [
+            5.257298,
+            43.339117
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Bucht mit ihrem kleinen Hafen und den bunten Fischerhütten, die Sie am besten in den frühen Morgenstunden ungestört fotografieren.",
+            "hu": "Csodálja meg a festői öblöt apró kikötőjével és színes halászkunyhóival, melyeket a kora reggeli órákban érdemes a leginkább lefotózni a tömeg elkerülése végett.",
+            "ro": "Admirați golful pitoresc cu portul său mic și colibele colorate de pescari, care se fotografiază cel mai bine dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the picturesque cove with its tiny harbor and colorful fishing huts, which are best photographed in the early morning to avoid the incoming crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet im Landesinneren an der malerischen Kapelle Saint-Michel und führt Sie zum beeindruckenden Tunnel du Rove. Mittags erklimmen Sie mit dem Rad die Anhöhen zum Oppidum de la Campane für eine historische Pause. Am Nachmittag rollen Sie bergab zur Küste, um das eindrucksvolle Fort de Figuerolles zu besichtigen. Der Tag endet mit herrlichen Küstenblicken in den Calanques von La Vesse und Niolon.",
+        "hu": "A kerékpártúra a szárazföld belsejében indul a festői Saint-Michel kápolnánál, majd a lenyűgöző Tunnel du Rove felé veszi az irányt. Délben a kerékpárral felkapaszkodunk az Oppidum de la Campane magaslataira egy történelmi szünetre. Délután kényelmesen legurulunk a tengerparthoz, hogy felfedezzük a Fort de Figuerolles-t. A nap a La Vesse és Niolon csodás tengeri panorámájával zárul.",
+        "ro": "Turul cu bicicleta începe spre interior, la pitoreasca capelă Saint-Michel și duce la impresionantul Tunnel du Rove. La prânz veți urca cu bicicleta până la Oppidum de la Campane pentru o pauză istorică. După-amiaza coborâți spre coastă pentru a vizita impresionantul Fort de Figuerolles. Ziua se încheie cu priveliști magnifice la coastă din calancile La Vesse și Niolon.",
+        "en": "Your cycling journey starts inland at the picturesque Saint-Michel Chapel before heading to the impressive Tunnel du Rove engineering marvel. By midday, pedal up towards the Oppidum de la Campane to uncover fascinating ancient ruins. In the afternoon, coast downhill to explore the coastal fortifications of Fort de Figuerolles. The ride gracefully concludes with the stunning sunset views from the calanques of La Vesse and Niolon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 15.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tunnel du Rove",
+            "hu": "Tunnel du Rove",
+            "ro": "Tunnel du Rove",
+            "en": "Tunnel du Rove"
+          },
+          "coords": [
+            5.22482,
+            43.39955
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den monumentalen Kanaltunnel, ein technisches Meisterwerk seiner Zeit, dessen imposante Eingangsportale am besten von der ausgewiesenen Aussichtsplattform zu sehen sind.",
+            "hu": "Csodálja meg a monumentális csatornaalagutat, amely korának műszaki remekműve volt, és amelynek impozáns bejáratait a legkönnyebben a kijelölt kilátópontról figyelheti meg.",
+            "ro": "Minunați-vă de tunelul monumental al canalului, o capodoperă tehnică a vremii sale, ale cărui portaluri de intrare impunătoare se văd cel mai bine de pe platforma desemnată.",
+            "en": "Marvel at the monumental canal tunnel, an engineering masterpiece of its time, whose imposing entrance portals are best viewed safely from the designated observation deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            5.235723,
+            43.382998
+          ],
+          "category": "religious",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante provenzalische Kapelle inmitten mediterraner Vegetation, die einen Moment der Stille und Besinnlichkeit abseits der belebten Küste bietet.",
+            "hu": "Tekintse meg ezt a bájos provence-i kápolnát a mediterrán növényzet ölelésében, amely a nyüzsgő partvidéktől távol a csend és az elmélyülés tökéletes pillanatát nyújtja.",
+            "ro": "Vizitați această capelă provensală fermecătoare înconjurată de vegetație mediteraneană, care oferă un moment de liniște și contemplare departe de coasta aglomerată.",
+            "en": "Visit this charming Provençal chapel surrounded by Mediterranean vegetation, offering a peaceful moment of silence and contemplation away from the bustling coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Oppidum de la Campane",
+            "hu": "Oppidum de la Campane",
+            "ro": "Oppidum de la Campane",
+            "en": "Oppidum de la Campane"
+          },
+          "coords": [
+            5.275148,
+            43.389159
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser antiken keltisch-ligurischen Siedlung, bei der eine detaillierte Offline-Karte hilft, da die Wegweiser auf dem Hügel recht spärlich sind.",
+            "hu": "Fedezze fel ezen ősi kelta-ligur település lenyűgöző romjait, de mindenképpen töltsön le egy offline térképet, mivel a dombon található útjelző táblák meglehetősen ritkák.",
+            "ro": "Descoperiți ruinele fascinante ale acestei vechi așezări celto-ligurice, unde o hartă offline detaliată este esențială deoarece indicatoarele de pe deal sunt destul de rare.",
+            "en": "Discover the fascinating ruins of this ancient Celto-Ligurian settlement, where downloading an offline map is highly recommended due to the sparse trail markers on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Lave",
+            "hu": "Plage de La Lave",
+            "ro": "Plage de La Lave",
+            "en": "Plage de La Lave"
+          },
+          "coords": [
+            5.294082,
+            43.358594
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Küstenabschnitt ausklingen, der sich ideal für ein erfrischendes Bad eignet, wenn Sie rechtzeitig vor dem Sonnenuntergang eintreffen.",
+            "hu": "Zárja a napot ezen a családbarát partszakaszon, amely ideális egy frissítő fürdőzésre, különösen ha még jóval a lenyűgöző naplemente előtt érkezik meg.",
+            "ro": "Încheiați-vă ziua pe această porțiune de coastă potrivită pentru familii, ideală pentru o baie răcoritoare dacă sosiți cu mult timp înainte de apusul soarelui.",
+            "en": "Wind down your day at this family-friendly stretch of coastline, which is perfectly suited for a refreshing swim if you arrive well before the golden hour sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Batterie",
+            "hu": "Plage de la Batterie",
+            "ro": "Plage de la Batterie",
+            "en": "Plage de la Batterie"
+          },
+          "coords": [
+            5.290776,
+            43.357734
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Kieselstrand, wo Sie die sanfte Meeresbrise spüren können, aber denken Sie daran, Badeschuhe für den steinigen Untergrund einzupacken.",
+            "hu": "Pihenjen ezen a nyugodt kavicsos strandon, ahol élvezheti a lágy tengeri szellőt, de ne felejtsen el vízicipőt csomagolni a sziklás tengerfenék miatt.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, unde puteți simți briza blândă a mării, dar nu uitați să împachetați încălțăminte de apă pentru fundul stâncos.",
+            "en": "Relax on this tranquil pebble beach where you can feel the gentle sea breeze, but remember to pack water shoes for the rocky underwater surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Figuerolles",
+            "hu": "Fort de Figuerolles",
+            "ro": "Fort de Figuerolles",
+            "en": "Fort de Figuerolles"
+          },
+          "coords": [
+            5.26985,
+            43.3466
+          ],
+          "category": "fortress",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Überreste dieser militärischen Befestigungsanlage, von der aus Sie einen spektakulären Panoramablick auf das Mittelmeer genießen können, wenn Sie dem steilen Pfad folgen.",
+            "hu": "Fedezze fel e katonai erődítmény történelmi maradványait, ahonnan a meredek ösvényen feljutva látványos panoráma nyílik a ragyogó Földközi-tengerre.",
+            "ro": "Explorați rămășițele istorice ale acestei fortificații militare, de unde vă puteți bucura de o vedere panoramică spectaculoasă la Marea Mediterană urmând poteca abruptă.",
+            "en": "Explore the historical remains of this military fortification, where you can enjoy a spectacular panoramic view of the Mediterranean Sea by following the slightly steep coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de la Vesse",
+            "hu": "Calanque de la Vesse",
+            "ro": "Calanque de la Vesse",
+            "en": "Calanque de la Vesse"
+          },
+          "coords": [
+            5.26121,
+            43.34202
+          ],
+          "category": "natural",
+          "arrive_at": "15:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden Eisenbahnviadukts, das sich majestätisch über die ruhigen Gewässer dieser versteckten Bucht erhebt, und bringen Sie unbedingt festes Schuhwerk mit.",
+            "hu": "Sétáljon végig a lenyűgöző vasúti viadukt mentén, amely fenségesen ível át e rejtett öböl nyugodt vizein, és feltétlenül hozzon magával strapabíró túracipőt.",
+            "ro": "Plimbați-vă de-a lungul impresionantului viaduct feroviar care se înalță maiestuos deasupra apelor liniștite din acest golf ascuns și nu uitați să purtați încălțăminte adecvată.",
+            "en": "Walk along the impressive railway viaduct that rises majestically above the calm waters of this hidden cove, and make sure to wear sturdy walking shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de Niolon",
+            "hu": "Calanque de Niolon",
+            "ro": "Calanque de Niolon",
+            "en": "Calanque de Niolon"
+          },
+          "coords": [
+            5.257298,
+            43.339117
+          ],
+          "category": "natural",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Bucht mit ihrem kleinen Hafen und den bunten Fischerhütten, die Sie am besten in den frühen Morgenstunden ungestört fotografieren.",
+            "hu": "Csodálja meg a festői öblöt apró kikötőjével és színes halászkunyhóival, melyeket a kora reggeli órákban érdemes a leginkább lefotózni a tömeg elkerülése végett.",
+            "ro": "Admirați golful pitoresc cu portul său mic și colibele colorate de pescari, care se fotografiază cel mai bine dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the picturesque cove with its tiny harbor and colorful fishing huts, which are best photographed in the early morning to avoid the incoming crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour verbindet die technischen Wunder des Tunnel du Rove mit der ländlichen Stille der Kapelle Saint-Michel im Norden. Nach einer Fahrt zum Oppidum de la Campane genießen Sie historische Ausblicke über die gesamte Region. Der Nachmittag bietet ausreichend Zeit, um die Strände im Süden bequem mit dem Wagen abzufahren. Schließlich locken die versteckten Calanques am frühen Abend mit einer einzigartigen maritimen Atmosphäre.",
+        "hu": "Autóstúrája a Tunnel du Rove mérnöki csodáit köti össze a Saint-Michel kápolna északi, vidéki nyugalmával. Az Oppidum de la Campane-hoz vezető utazás után történelmi kilátásban lesz része az egész régióra. A délután elegendő időt kínál arra, hogy kényelmesen végigautózzon a déli partvidék gyönyörű strandjain. Végül a rejtett calanque-ok egyedülálló, békés tengeri hangulattal csábítanak kora este.",
+        "ro": "Turul cu mașina combină minunile tehnice ale Tunnel du Rove cu liniștea rurală a Capelei Saint-Michel în nord. După o plimbare spre Oppidum de la Campane, bucurați-vă de vederi istorice asupra întregii regiuni. După-amiaza oferă suficient timp pentru a conduce confortabil de-a lungul plajelor din sud. În cele din urmă, calancile ascunse atrag cu o atmosferă maritimă unică seara devreme.",
+        "en": "This driving tour seamlessly connects the engineering wonder of the Tunnel du Rove with the rustic tranquility of the Saint-Michel Chapel up north. Following a scenic drive to the Oppidum de la Campane, you are treated to sweeping regional views. The afternoon allows plenty of time to comfortably beach-hop along the beautiful southern coastline. Ultimately, the hidden calanques draw you in for a captivating maritime sunset experience."
+      }
+    }
+  }
+}

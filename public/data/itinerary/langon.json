@@ -1,0 +1,428 @@
+{
+  "city_id": "langon",
+  "anchor": {
+    "name": "Langon",
+    "coords": [
+      -0.2494,
+      44.5531
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Church of Saint-Gervais",
+            "hu": "Church of Saint-Gervais",
+            "ro": "Church of Saint-Gervais",
+            "en": "Church of Saint-Gervais"
+          },
+          "coords": [
+            -0.248564,
+            44.556629
+          ],
+          "category": "religious",
+          "arrive_at": "09:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Buntglasfenster dieser zentralen Kirche, die Langons tiefe Geschichte widerspiegeln, und respektieren Sie die Stille.",
+            "hu": "Csodálja meg a központi templom lenyűgöző ólomüveg ablakait, amelyek Langon mély történelmét tükrözik, és ügyeljen a csendre az imaidők alatt.",
+            "ro": "Admirați vitraliile uimitoare ale acestei biserici centrale, care reflectă istoria profundă a Langonului, și amintiți-vă să respectați liniștea slujbelor.",
+            "en": "Admire the stunning stained glass windows of this central church, which reflect Langon's deep history, and remember to respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Vergers",
+            "hu": "Parc des Vergers",
+            "ro": "Parc des Vergers",
+            "en": "Parc des Vergers"
+          },
+          "coords": [
+            -0.240821,
+            44.55589
+          ],
+          "category": "recreational",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Park voller alter Bäume, der eine grüne Oase in der Stadt bietet, also bringen Sie am besten eine Picknickdecke mit.",
+            "hu": "Pihenjen ebben a tágas, öreg fákkal teli parkban, amely zöld szentélyt kínál a városban, ezért hozzon magával pikniktakarót a békés hangulat kiélvezéséhez.",
+            "ro": "Relaxați-vă în acest parc spațios plin de copaci bătrâni, oferind un sanctuar verde în oraș, așa că aduceți o pătură de picnic pentru a vă bucura de el.",
+            "en": "Relax in this spacious park full of old trees, offering a green sanctuary in the city, so bring a picnic blanket to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Toulenne",
+            "hu": "Mairie de Toulenne",
+            "ro": "Mairie de Toulenne",
+            "en": "Mairie de Toulenne"
+          },
+          "coords": [
+            -0.261755,
+            44.558548
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische Architektur des Rathauses, das als stolzes bürgerliches Symbol dient, und fotografieren Sie die Fassade im Morgenlicht.",
+            "hu": "Figyelje meg a városháza klasszikus építészetét, amely büszke polgári szimbólumként szolgál, és próbálja meg lefotózni szimmetrikus homlokzatát reggel.",
+            "ro": "Observați arhitectura clasică a primăriei, care servește ca un mândru simbol civic, și încercați să fotografiați fațada sa simetrică în lumina dimineții.",
+            "en": "Observe the classic architecture of the town hall, which serves as a proud civic symbol, and try to photograph its symmetrical facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Saturnin",
+            "hu": "Église Saint-Saturnin",
+            "ro": "Église Saint-Saturnin",
+            "en": "Église Saint-Saturnin"
+          },
+          "coords": [
+            -0.258542,
+            44.562394
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihre eleganten Details zu bewundern, und werfen Sie einen Blick auf das Schwarze Brett für lokale Veranstaltungen.",
+            "hu": "Látogassa meg ezt a történelmi templomot, hogy értékelje szerény, de elegáns részleteit, és feltétlenül ellenőrizze a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Vizitați această biserică istorică pentru a aprecia detaliile sale modeste, dar elegante, asigurându-vă că verificați panoul pentru evenimente locale.",
+            "en": "Visit this historic church to appreciate its modest yet elegant structural details, making sure to check the notice board for any local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "New Jump",
+            "hu": "New Jump",
+            "ro": "New Jump",
+            "en": "New Jump"
+          },
+          "coords": [
+            -0.265411,
+            44.544313
+          ],
+          "category": "family",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Hüpfen Sie durch diesen riesigen Indoor-Trampolinpark, der perfekt für Familien ist, und kommen Sie am Wochenende früh, um sich einen Platz zu sichern.",
+            "hu": "Ugráljon végig ezen a hatalmas beltéri trambulinparkon, amely tökéletes családi szórakozást nyújt, és érkezzen korán a hétvégén a hely biztosításához.",
+            "ro": "Săriți în acest parc masiv de trambuline interioare, perfect pentru distracția în familie, și ajungeți devreme în weekend pentru a vă asigura un loc.",
+            "en": "Bounce your way through this massive indoor trampoline park, perfect for family fun, and arrive early on weekends to secure your preferred jumping slot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag in Langon mit der Erkundung der wunderschönen Kirche Saint-Gervais und genießen Sie das historische Ambiente der Innenstadt.\nMittag: Genießen Sie einen erfrischenden Spaziergang durch das üppige Grün des Parc des Vergers, ein perfekter Ort, um sich vor der Weiterreise zu entspannen.\nNachmittag: Entdecken Sie das lokale Erbe an der Mairie de Toulenne und der bezaubernden Église Saint-Saturnin, und genießen Sie die ruhige Atmosphäre.\nAbend: Beenden Sie Ihren Rundgang mit etwas aktiven Spaß im New Jump, was eine großartige Möglichkeit bietet, vor dem Abendessen Energie abzubauen.",
+        "hu": "Reggel: Kezdje a napját Langonban a gyönyörű Saint-Gervais templom felfedezésével, miközben elmerül a városközpont történelmi hangulatában.\nDél: Tegyen egy frissítő sétát a Parc des Vergers buja zöldjében, amely tökéletes hely a pihenésre, mielőtt továbbindulna Toulenne felé.\nDélután: Fedezze fel a helyi örökséget a Mairie de Toulenne-nél és a bájos Église Saint-Saturnin-nél, élvezve a kisváros csendes, békés légkörét.\nEste: Zárja a gyalogtúrát egy kis aktív szórakozással a New Jump központban, amely nagyszerű lehetőséget kínál a maradék energia levezetésére.",
+        "ro": "Dimineață: Începeți ziua în Langon explorând frumoasa Biserică Saint-Gervais, absorbind ambianța istorică a centrului orașului în ritmul propriu.\nPrânz: Bucurați-vă de o plimbare revigorantă prin verdeața luxuriantă din Parc des Vergers, un loc perfect pentru relaxare înainte de a continua.\nDupă-amiază: Descoperiți moștenirea locală la Mairie de Toulenne și fermecătoarea Biserică Saint-Saturnin, bucurându-vă de atmosfera liniștită.\nSeară: Încheiați-vă turul pietonal cu puțină distracție activă la New Jump, oferind o modalitate excelentă de a elibera energia rămasă.",
+        "en": "Morning: Start your day in Langon by exploring the beautiful Church of Saint-Gervais, taking in the historical ambiance of the city center.\nMidday: Enjoy a refreshing stroll through the lush greenery of Parc des Vergers, a perfect spot to relax before heading out to Toulenne.\nAfternoon: Discover the local heritage at Mairie de Toulenne and the charming Église Saint-Saturnin, soaking in the quiet atmosphere of the town.\nEvening: Conclude your walking tour with some active fun at New Jump, offering a great way to release remaining energy before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Toulenne",
+            "hu": "Mairie de Toulenne",
+            "ro": "Mairie de Toulenne",
+            "en": "Mairie de Toulenne"
+          },
+          "coords": [
+            -0.261755,
+            44.558548
+          ],
+          "category": "landmark",
+          "arrive_at": "09:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische Architektur des Rathauses, das als stolzes bürgerliches Symbol dient, und fotografieren Sie die Fassade im Morgenlicht.",
+            "hu": "Figyelje meg a városháza klasszikus építészetét, amely büszke polgári szimbólumként szolgál, és próbálja meg lefotózni szimmetrikus homlokzatát reggel.",
+            "ro": "Observați arhitectura clasică a primăriei, care servește ca un mândru simbol civic, și încercați să fotografiați fațada sa simetrică în lumina dimineții.",
+            "en": "Observe the classic architecture of the town hall, which serves as a proud civic symbol, and try to photograph its symmetrical facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Saturnin",
+            "hu": "Église Saint-Saturnin",
+            "ro": "Église Saint-Saturnin",
+            "en": "Église Saint-Saturnin"
+          },
+          "coords": [
+            -0.258542,
+            44.562394
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihre eleganten Details zu bewundern, und werfen Sie einen Blick auf das Schwarze Brett für lokale Veranstaltungen.",
+            "hu": "Látogassa meg ezt a történelmi templomot, hogy értékelje szerény, de elegáns részleteit, és feltétlenül ellenőrizze a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Vizitați această biserică istorică pentru a aprecia detaliile sale modeste, dar elegante, asigurându-vă că verificați panoul pentru evenimente locale.",
+            "en": "Visit this historic church to appreciate its modest yet elegant structural details, making sure to check the notice board for any local community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Saint-Gervais",
+            "hu": "Church of Saint-Gervais",
+            "ro": "Church of Saint-Gervais",
+            "en": "Church of Saint-Gervais"
+          },
+          "coords": [
+            -0.248564,
+            44.556629
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Buntglasfenster dieser zentralen Kirche, die Langons tiefe Geschichte widerspiegeln, und respektieren Sie die Stille.",
+            "hu": "Csodálja meg a központi templom lenyűgöző ólomüveg ablakait, amelyek Langon mély történelmét tükrözik, és ügyeljen a csendre az imaidők alatt.",
+            "ro": "Admirați vitraliile uimitoare ale acestei biserici centrale, care reflectă istoria profundă a Langonului, și amintiți-vă să respectați liniștea slujbelor.",
+            "en": "Admire the stunning stained glass windows of this central church, which reflect Langon's deep history, and remember to respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Vergers",
+            "hu": "Parc des Vergers",
+            "ro": "Parc des Vergers",
+            "en": "Parc des Vergers"
+          },
+          "coords": [
+            -0.240821,
+            44.55589
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Park voller alter Bäume, der eine grüne Oase in der Stadt bietet, also bringen Sie am besten eine Picknickdecke mit.",
+            "hu": "Pihenjen ebben a tágas, öreg fákkal teli parkban, amely zöld szentélyt kínál a városban, ezért hozzon magával pikniktakarót a békés hangulat kiélvezéséhez.",
+            "ro": "Relaxați-vă în acest parc spațios plin de copaci bătrâni, oferind un sanctuar verde în oraș, așa că aduceți o pătură de picnic pentru a vă bucura de el.",
+            "en": "Relax in this spacious park full of old trees, offering a green sanctuary in the city, so bring a picnic blanket to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Saint-Pierre-de-Mons",
+            "hu": "Mairie de Saint-Pierre-de-Mons",
+            "ro": "Mairie de Saint-Pierre-de-Mons",
+            "en": "Mairie de Saint-Pierre-de-Mons"
+          },
+          "coords": [
+            -0.223426,
+            44.551456
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das charmante Rathaus, das von der lokalen Verwaltung zeugt, und erkunden Sie den kleinen Platz direkt vor dem Gebäude.",
+            "hu": "Vessen egy pillantást a helyi közigazgatás bizonyítékaként álló bájos községházára, és fedezze fel a közvetlenül az épület előtt található kis teret.",
+            "ro": "Aruncați o privire la primăria fermecătoare care stă ca o dovadă a administrației locale și explorați mica piațetă aflată chiar în fața clădirii.",
+            "en": "Take a look at the charming village hall standing as a testament to local administration, and explore the small square directly in front of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.227783,
+            44.550793
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das ruhige Innere dieser Pfarrkirche, die wunderschöne Artefakte birgt, und gehen Sie um sie herum, um das alte Mauerwerk zu betrachten.",
+            "hu": "Tapasztalja meg ennek a plébániatemplomnak a nyugodt belső terét, amely gyönyörű műtárgyakat őriz, és sétálja körbe a külsejét az ősi kőműves munkákért.",
+            "ro": "Experimentați interiorul senin al acestei biserici parohiale care deține artefacte frumoase și plimbați-vă pe exterior pentru a vedea zidăria veche.",
+            "en": "Experience the serene interior of this dedicated parish church which holds beautiful artifacts, and walk around its exterior to see the ancient stonework."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Radtour in Richtung Toulenne und bewundern Sie die bürgerliche Schönheit der Mairie und die Ruhe der Église Saint-Saturnin.\nMittag: Radeln Sie zurück ins Zentrum von Langon, um die majestätische Kirche Saint-Gervais zu besuchen und ihre architektonische Pracht zu würdigen.\nNachmittag: Fahren Sie zum weitläufigen Parc des Vergers für eine erholsame Pause, umgeben von hohen Bäumen und den friedlichen Klängen der Natur.\nAbend: Beenden Sie den Ausflug in Saint-Pierre-de-Mons, indem Sie die Mairie und die ruhige Église Saint-Pierre erkunden, wenn die Sonne untergeht.",
+        "hu": "Reggel: Kezdje kerékpáros utazását Toulenne felé, megcsodálva a helyi Mairie polgári szépségét és az Église Saint-Saturnin megnyugtató csendjét.\nDél: Tekerjen vissza Langon szívébe, hogy meglátogassa a fenséges Saint-Gervais templomot, és álljon meg értékelni építészeti nagyszerűségét.\nDélután: Kerékpározzon a kiterjedt Parc des Vergers felé egy pihentető szünetre, amelyet magas fák és a természet békés hangjai vesznek körül.\nEste: Zárja az utat Saint-Pierre-de-Mons-ban, felfedezve a Mairie-t és a nyugodt Église Saint-Pierre-t, ahogy a nap lassan elkezd lenyugodni.",
+        "ro": "Dimineață: Începeți-vă călătoria cu bicicleta spre Toulenne, admirând frumusețea civică a Primăriei locale și calmul Bisericii Saint-Saturnin.\nPrânz: Pedalați înapoi în inima orașului Langon pentru a vizita maiestuoasa Biserică Saint-Gervais, oprindu-vă pentru a aprecia grandoarea ei arhitecturală.\nDupă-amiază: Mergeți spre extinsul Parc des Vergers pentru o pauză relaxantă, înconjurat de copaci înalți și de sunetele pașnice ale naturii locale.\nSeară: Încheiați excursia în Saint-Pierre-de-Mons, explorând Primăria sa și liniștita Biserică Saint-Pierre în timp ce soarele începe încet să apună.",
+        "en": "Morning: Kick off your cycling journey heading towards Toulenne, admiring the civic beauty of its local Mairie and the calm of Église Saint-Saturnin.\nMidday: Pedal back into Langon's heart to visit the majestic Church of Saint-Gervais, pausing to appreciate its architectural grandeur.\nAfternoon: Ride towards the expansive Parc des Vergers for a relaxing break, surrounded by tall trees and the peaceful sounds of nature.\nEvening: Conclude the trip in Saint-Pierre-de-Mons, exploring its Mairie and the tranquil Église Saint-Pierre as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 8.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Church of Saint-Gervais",
+            "hu": "Church of Saint-Gervais",
+            "ro": "Church of Saint-Gervais",
+            "en": "Church of Saint-Gervais"
+          },
+          "coords": [
+            -0.248564,
+            44.556629
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Buntglasfenster dieser zentralen Kirche, die Langons tiefe Geschichte widerspiegeln, und respektieren Sie die Stille.",
+            "hu": "Csodálja meg a központi templom lenyűgöző ólomüveg ablakait, amelyek Langon mély történelmét tükrözik, és ügyeljen a csendre az imaidők alatt.",
+            "ro": "Admirați vitraliile uimitoare ale acestei biserici centrale, care reflectă istoria profundă a Langonului, și amintiți-vă să respectați liniștea slujbelor.",
+            "en": "Admire the stunning stained glass windows of this central church, which reflect Langon's deep history, and remember to respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Vergers",
+            "hu": "Parc des Vergers",
+            "ro": "Parc des Vergers",
+            "en": "Parc des Vergers"
+          },
+          "coords": [
+            -0.240821,
+            44.55589
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Park voller alter Bäume, der eine grüne Oase in der Stadt bietet, also bringen Sie am besten eine Picknickdecke mit.",
+            "hu": "Pihenjen ebben a tágas, öreg fákkal teli parkban, amely zöld szentélyt kínál a városban, ezért hozzon magával pikniktakarót a békés hangulat kiélvezéséhez.",
+            "ro": "Relaxați-vă în acest parc spațios plin de copaci bătrâni, oferind un sanctuar verde în oraș, așa că aduceți o pătură de picnic pentru a vă bucura de el.",
+            "en": "Relax in this spacious park full of old trees, offering a green sanctuary in the city, so bring a picnic blanket to fully enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.227783,
+            44.550793
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das ruhige Innere dieser Pfarrkirche, die wunderschöne Artefakte birgt, und gehen Sie um sie herum, um das alte Mauerwerk zu betrachten.",
+            "hu": "Tapasztalja meg ennek a plébániatemplomnak a nyugodt belső terét, amely gyönyörű műtárgyakat őriz, és sétálja körbe a külsejét az ősi kőműves munkákért.",
+            "ro": "Experimentați interiorul senin al acestei biserici parohiale care deține artefacte frumoase și plimbați-vă pe exterior pentru a vedea zidăria veche.",
+            "en": "Experience the serene interior of this dedicated parish church which holds beautiful artifacts, and walk around its exterior to see the ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Respide",
+            "hu": "Château de Respide",
+            "ro": "Château de Respide",
+            "en": "Château de Respide"
+          },
+          "coords": [
+            -0.225087,
+            44.532975
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses prestigeträchtigen Weinguts von tiefem historischen Wert, und buchen Sie im Voraus eine Verkostungstour.",
+            "hu": "Fedezze fel ennek a rangos borbirtoknak az elegáns területét, amely mély történelmi értéket képvisel, és foglaljon előre egy borkóstoló túrát.",
+            "ro": "Explorați domeniul elegant al acestei moșii viticole prestigioase de valoare istorică profundă și rezervați o degustare în avans pentru a prinde loc.",
+            "en": "Explore the elegant grounds of this prestigious wine estate, knowing it offers deep historical value, and book a tasting tour in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+            "hu": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+            "ro": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+            "en": "Bassin retention eau plateforme compostage Sictom Sud Gironde"
+          },
+          "coords": [
+            -0.273022,
+            44.530834
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses umweltfreundliche Beckengebiet, das modernes Naturmanagement hervorhebt, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon ezen a környezetbarát medenceterületen, amely a modern természetgazdálkodást emeli ki, és viseljen kényelmes cipőt az egyenetlen földutakon.",
+            "ro": "Plimbați-vă în jurul acestei zone ecologice care evidențiază managementul natural modern și purtați pantofi confortabili pentru potecile inegale.",
+            "en": "Wander around this essential eco-friendly basin area that highlights modern natural management, and wear comfortable walking shoes for the uneven dirt paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre malerische Fahrt direkt im Zentrum von Langon an der Kirche Saint-Gervais, gefolgt von einem Spaziergang im Parc des Vergers.\nMittag: Fahren Sie bequem nach Saint-Pierre-de-Mons, wo Sie in der Nähe parken und die historische Bedeutung der Église Saint-Pierre bewundern können.\nNachmittag: Fahren Sie in Richtung des atemberaubenden Château de Respide und tauchen Sie in die reiche Geschichte und wunderschönen Weinlandschaften ein.\nAbend: Beenden Sie Ihre Tour mit einem Besuch des modernen Naturschutzgebiets bei Sictom, das eine einzigartige Perspektive auf Umweltbemühungen bietet.",
+        "hu": "Reggel: Kezdje festői autózását Langon központjában, a Saint-Gervais templomnál, amelyet egy gyors séta követ a gyönyörű Parc des Vergers-ben.\nDél: Vezessen kényelmesen Saint-Pierre-de-Mons felé, ahol a közelben parkolhat, és megcsodálhatja az Église Saint-Pierre történelmi jelentőségét.\nDélután: Autózzon a lenyűgöző Château de Respide felé, elmerülve a régió gazdag történelmében és gyönyörű, gondozott szőlőskertjeinek látványában.\nEste: Zárja autós túráját a Sictom modern természetvédelmi területének meglátogatásával, amely egyedülálló perspektívát nyújt a környezetvédelmi erőfeszítésekre.",
+        "ro": "Dimineață: Începeți plimbarea pitorească chiar în centrul orașului Langon, la Biserica Saint-Gervais, urmată de o scurtă plimbare în frumosul Parc des Vergers.\nPrânz: Conduceți confortabil până la Saint-Pierre-de-Mons, unde puteți parca în apropiere și admira importanța istorică a Bisericii Saint-Pierre.\nDupă-amiază: Îndreptați-vă spre uimitorul Château de Respide, cufundându-vă în istoria bogată și în peisajele frumoase ale podgoriilor din regiune.\nSeară: Terminați turul cu mașina vizitând rezervația naturală modernă de la Sictom, oferind o perspectivă unică asupra eforturilor ecologice actuale.",
+        "en": "Morning: Start your scenic drive right in the center of Langon at the Church of Saint-Gervais, followed by a quick walk in the beautiful Parc des Vergers.\nMidday: Drive comfortably to Saint-Pierre-de-Mons, where you can park nearby and admire the historical and religious significance of Église Saint-Pierre.\nAfternoon: Cruise towards the stunning Château de Respide, immersing yourself in the rich history and beautiful vineyard landscapes of the region.\nEvening: Finish your driving tour by visiting the modern natural reserve area at Sictom, offering a unique perspective on environmental efforts."
+      }
+    }
+  }
+}

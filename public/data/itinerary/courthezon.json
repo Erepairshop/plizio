@@ -1,0 +1,543 @@
+{
+  "city_id": "courthezon",
+  "anchor": {
+    "name": "Courthézon",
+    "coords": [
+      4.8842,
+      44.0875
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 0.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l’Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Tour de l’Horloge"
+          },
+          "coords": [
+            4.884168,
+            44.086901
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses Uhrturms, ein Überbleibsel der alten Stadtmauer, und lesen Sie die umgebenden Tafeln für historischen Kontext.",
+            "hu": "Csodálja meg a középkori óratorony építészetét, a régi városfal maradványát, és feltétlenül olvassa el a környező táblákat a helyi történelmi kontextusért.",
+            "ro": "Admirați arhitectura medievală a acestui turn cu ceas, o rămășiță a vechilor metereze, și citiți plăcile din jur pentru a afla contextul istoric local.",
+            "en": "Admire the medieval architecture of this clock tower, a remnant of the old ramparts, and be sure to check the surrounding plaques for local historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis Templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Saint-Denis Church"
+          },
+          "coords": [
+            4.884458,
+            44.085829
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster zu betrachten, denn das Morgenlicht sorgt hier für die besten farbigen Reflexionen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, és csodálja meg az ólomüveg ablakokat, tartsa szem előtt, hogy a reggeli fény gyönyörű színes tükröződéseket hoz létre.",
+            "ro": "Intrați în această biserică în stil romanic pentru a vedea vitraliile superbe, având în vedere că lumina dimineții creează cele mai bune reflexii colorate.",
+            "en": "Step inside this Romanesque-style church to view its beautiful stained glass windows, keeping in mind that the morning light creates the best colorful reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère",
+            "hu": "Belvédère Kilátó",
+            "ro": "Belvedere",
+            "en": "Belvédère"
+          },
+          "coords": [
+            4.881762,
+            44.087854
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die provenzalischen Dächer und Weinberge, was diesen Aussichtspunkt zum perfekten Ort für Weitwinkel-Landschaftsfotos macht.",
+            "hu": "Élvezze a provence-i háztetőkre és szőlőültetvényekre nyíló panorámát erről a kilátópontról, amely a legalkalmasabb hely a nagylátószögű tájképek készítésére.",
+            "ro": "Bucurați-vă de vederea panoramică asupra acoperișurilor și podgoriilor provensale de la acest punct de belvedere, locul perfect pentru fotografii de peisaj.",
+            "en": "Enjoy panoramic views of the Provencal rooftops and vineyards from this elevated viewpoint, making it the perfect spot for taking wide-angle landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Pierre",
+            "hu": "Saint-Pierre Kápolna",
+            "ro": "Capela Saint-Pierre",
+            "en": "Chapelle Saint-Pierre"
+          },
+          "coords": [
+            4.882261,
+            44.089117
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche kleine Kapelle, die für ihre historische Bedeutung bekannt ist, und sprechen Sie leise, da sie ein Ort der lokalen Besinnung bleibt.",
+            "hu": "Látogassa meg ezt a kis kápolnát, amely történelmi jelentőségéről ismert, és ne feledjen halkan beszélni, mivel ez a helyiek elmélyülésének csendes helyszíne.",
+            "ro": "Vizitați această capelă mică, cunoscută pentru atmosfera sa liniștită și semnificația istorică, amintindu-vă să vorbiți încet, fiind un loc de reflecție.",
+            "en": "Visit this small, serene chapel known for its quiet atmosphere and historical significance, remembering to speak softly as it remains a place of local reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Val-Seille-Gärten",
+            "hu": "Val-Seille Kertek",
+            "ro": "Grădinile Val-Seille",
+            "en": "Val-Seille Gardens"
+          },
+          "coords": [
+            4.884396,
+            44.089702
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese perfekt gepflegten botanischen Gärten mit exotischen Pflanzen, und bringen Sie eine Decke mit, um unter jahrhundertealten Bäumen zu ruhen.",
+            "hu": "Sétáljon végig ezeken a tökéletesen karbantartott botanikus kerteken, és hozzon magával egy kis takarót, ha a százéves fák árnyékában szeretne megpihenni.",
+            "ro": "Plimbați-vă prin aceste grădini botanice impecabil întreținute și aduceți o pătură mică dacă doriți să vă odihniți sub copacii seculari de pe domeniu.",
+            "en": "Stroll through these impeccably maintained botanical gardens to discover exotic plants, and bring a small blanket if you wish to rest under the century-old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Val-Seille",
+            "hu": "Val-Seille Kastély",
+            "ro": "Castelul Val-Seille",
+            "en": "Val-Seille Castle"
+          },
+          "coords": [
+            4.88289,
+            44.09033
+          ],
+          "category": "civic",
+          "arrive_at": "12:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses majestätische städtische Schloss aus dem 19. Jahrhundert, das dem Pariser Rathaus nachempfunden ist, und fragen Sie nach Wechselausstellungen.",
+            "hu": "Fedezze fel ezt a párizsi városházát utánzó, 19. századi kastélyt, és feltétlenül érdeklődjön a helyi személyzettől a földszinten tartott időszaki kiállításokról.",
+            "ro": "Explorați acest castel municipal maiestuos din secolul XIX, care imită Primăria Parisului, și întrebați personalul despre expozițiile temporare de la parter.",
+            "en": "Explore this majestic 19th-century municipal castle which mimics the Paris City Hall, and ask the local staff about the temporary exhibitions held on the ground floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im historischen Herzen von Courthézon am Tour de l'Horloge und der Kirche Saint-Denis. Mittags steigen Sie zum Belvédère hinauf, um die Aussicht auf die Provence zu genießen. Am Nachmittag finden Sie Ruhe in der Kapelle Saint-Pierre. Der Tag endet mit einem Spaziergang durch die üppigen Val-Seille-Gärten und das beeindruckende Schloss Val-Seille.",
+        "hu": "A délelőtt Courthézon történelmi szívében indul, az óratorony és a Saint-Denis templom felfedezésével. Délben a Belvédère-hez érve lenyűgöző provence-i panoráma tárul ön elé. Délután a Chapelle Saint-Pierre csendjében pihenhet meg. A nap a buja Val-Seille kertekben és a lenyűgöző Val-Seille kastélynál tett sétával zárul a kora esti órákban.",
+        "ro": "Dimineața începe în inima istorică a Courthézon-ului, admirând Tour de l'Horloge și Biserica Saint-Denis. La prânz, urcați la Belvédère pentru priveliști uimitoare ale peisajului provensal. După-amiaza vă aduce liniște la Chapelle Saint-Pierre. Ziua se încheie cu o plimbare prin grădinile luxuriante Val-Seille și grandiosul Castel Val-Seille.",
+        "en": "Your morning starts in the historical heart of Courthézon, admiring the Tour de l'Horloge before discovering the stained glass of Saint-Denis Church. Midday takes you up to the Belvédère for stunning views of the surrounding Provencal landscapes. In the afternoon, you will find peace at the Chapelle Saint-Pierre. The day concludes with a leisurely stroll through the lush Val-Seille Gardens and the grand Val-Seille Castle."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "ENS Étang Salé de Courthézon",
+            "hu": "ENS Étang Salé de Courthézon",
+            "ro": "ENS Étang Salé de Courthézon",
+            "en": "ENS Étang Salé de Courthézon"
+          },
+          "coords": [
+            4.867252,
+            44.072411
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige salzhaltige Feuchtgebiet, das viele Vogelarten anzieht, weshalb Ferngläser für die beste Wildtierbeobachtung dringend empfohlen werden.",
+            "hu": "Fedezze fel ezt az egyedülálló sós vizes élőhelyet, amely vonzza a különféle madárfajokat, így a távcső használata erősen ajánlott a legjobb megfigyeléshez.",
+            "ro": "Descoperiți acest mediu umed salin unic care atrage diverse specii de păsări, așa că binoclul este recomandat pentru cea mai bună observare a faunei sălbatice.",
+            "en": "Discover this unique saline wetland environment which attracts diverse bird species, so binoculars are highly recommended for the best wildlife observation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis Templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Saint-Denis Church"
+          },
+          "coords": [
+            4.884458,
+            44.085829
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster zu betrachten, denn das Morgenlicht sorgt hier für die besten farbigen Reflexionen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, és csodálja meg az ólomüveg ablakokat, tartsa szem előtt, hogy a reggeli fény gyönyörű színes tükröződéseket hoz létre.",
+            "ro": "Intrați în această biserică în stil romanic pentru a vedea vitraliile superbe, având în vedere că lumina dimineții creează cele mai bune reflexii colorate.",
+            "en": "Step inside this Romanesque-style church to view its beautiful stained glass windows, keeping in mind that the morning light creates the best colorful reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l’Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Tour de l’Horloge"
+          },
+          "coords": [
+            4.884168,
+            44.086901
+          ],
+          "category": "tower",
+          "arrive_at": "11:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses Uhrturms, ein Überbleibsel der alten Stadtmauer, und lesen Sie die umgebenden Tafeln für historischen Kontext.",
+            "hu": "Csodálja meg a középkori óratorony építészetét, a régi városfal maradványát, és feltétlenül olvassa el a környező táblákat a helyi történelmi kontextusért.",
+            "ro": "Admirați arhitectura medievală a acestui turn cu ceas, o rămășiță a vechilor metereze, și citiți plăcile din jur pentru a afla contextul istoric local.",
+            "en": "Admire the medieval architecture of this clock tower, a remnant of the old ramparts, and be sure to check the surrounding plaques for local historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère",
+            "hu": "Belvédère Kilátó",
+            "ro": "Belvedere",
+            "en": "Belvédère"
+          },
+          "coords": [
+            4.881762,
+            44.087854
+          ],
+          "category": "natural",
+          "arrive_at": "11:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die provenzalischen Dächer und Weinberge, was diesen Aussichtspunkt zum perfekten Ort für Weitwinkel-Landschaftsfotos macht.",
+            "hu": "Élvezze a provence-i háztetőkre és szőlőültetvényekre nyíló panorámát erről a kilátópontról, amely a legalkalmasabb hely a nagylátószögű tájképek készítésére.",
+            "ro": "Bucurați-vă de vederea panoramică asupra acoperișurilor și podgoriilor provensale de la acest punct de belvedere, locul perfect pentru fotografii de peisaj.",
+            "en": "Enjoy panoramic views of the Provencal rooftops and vineyards from this elevated viewpoint, making it the perfect spot for taking wide-angle landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Pierre",
+            "hu": "Saint-Pierre Kápolna",
+            "ro": "Capela Saint-Pierre",
+            "en": "Chapelle Saint-Pierre"
+          },
+          "coords": [
+            4.882261,
+            44.089117
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche kleine Kapelle, die für ihre historische Bedeutung bekannt ist, und sprechen Sie leise, da sie ein Ort der lokalen Besinnung bleibt.",
+            "hu": "Látogassa meg ezt a kis kápolnát, amely történelmi jelentőségéről ismert, és ne feledjen halkan beszélni, mivel ez a helyiek elmélyülésének csendes helyszíne.",
+            "ro": "Vizitați această capelă mică, cunoscută pentru atmosfera sa liniștită și semnificația istorică, amintindu-vă să vorbiți încet, fiind un loc de reflecție.",
+            "en": "Visit this small, serene chapel known for its quiet atmosphere and historical significance, remembering to speak softly as it remains a place of local reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Val-Seille-Gärten",
+            "hu": "Val-Seille Kertek",
+            "ro": "Grădinile Val-Seille",
+            "en": "Val-Seille Gardens"
+          },
+          "coords": [
+            4.884396,
+            44.089702
+          ],
+          "category": "natural",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese perfekt gepflegten botanischen Gärten mit exotischen Pflanzen, und bringen Sie eine Decke mit, um unter jahrhundertealten Bäumen zu ruhen.",
+            "hu": "Sétáljon végig ezeken a tökéletesen karbantartott botanikus kerteken, és hozzon magával egy kis takarót, ha a százéves fák árnyékában szeretne megpihenni.",
+            "ro": "Plimbați-vă prin aceste grădini botanice impecabil întreținute și aduceți o pătură mică dacă doriți să vă odihniți sub copacii seculari de pe domeniu.",
+            "en": "Stroll through these impeccably maintained botanical gardens to discover exotic plants, and bring a small blanket if you wish to rest under the century-old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Val-Seille",
+            "hu": "Val-Seille Kastély",
+            "ro": "Castelul Val-Seille",
+            "en": "Val-Seille Castle"
+          },
+          "coords": [
+            4.88289,
+            44.09033
+          ],
+          "category": "civic",
+          "arrive_at": "13:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses majestätische städtische Schloss aus dem 19. Jahrhundert, das dem Pariser Rathaus nachempfunden ist, und fragen Sie nach Wechselausstellungen.",
+            "hu": "Fedezze fel ezt a párizsi városházát utánzó, 19. századi kastélyt, és feltétlenül érdeklődjön a helyi személyzettől a földszinten tartott időszaki kiállításokról.",
+            "ro": "Explorați acest castel municipal maiestuos din secolul XIX, care imită Primăria Parisului, și întrebați personalul despre expozițiile temporare de la parter.",
+            "en": "Explore this majestic 19th-century municipal castle which mimics the Paris City Hall, and ask the local staff about the temporary exhibitions held on the ground floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zu den Feuchtgebieten des Étang Salé de Courthézon, um die Natur zu genießen. Mittags kehren Sie ins Zentrum zurück und erkunden die Kirche Saint-Denis sowie den ikonischen Uhrturm. Der Nachmittag bietet einen kurzen Halt am Belvédère und der Kapelle Saint-Pierre. Den Abend verbringen Sie schließlich in den Gärten und im Schloss Val-Seille.",
+        "hu": "Kerékpározzon ki az Étang Salé de Courthézon vizes élőhelyére, és kezdje a napot a természet lágy ölén. Délben a központba visszatérve várja a Saint-Denis templom és az ikonikus óratorony. A délután folyamán megáll a Belvédère kilátónál és a Chapelle Saint-Pierre kápolnánál. Az estét a Val-Seille kertekben és a kastély környékén töltheti.",
+        "ro": "Pedalați dimineața spre zonele umede unice de la Étang Salé de Courthézon, înconjurați de natură. Întorcându-vă în centru la prânz, veți explora Biserica Saint-Denis și faimosul turn cu ceas. După-amiaza include o oprire la Belvédère și Chapelle Saint-Pierre. Seara se petrece explorând Grădinile și impresionantul Castel Val-Seille.",
+        "en": "Pedal out to the unique wetlands of Étang Salé de Courthézon to start your morning surrounded by diverse wildlife and nature. Returning to the town center by midday, you will explore the charming Saint-Denis Church and the iconic clock tower. Your afternoon features a quick stop at the Belvédère and Chapelle Saint-Pierre for some reflection. Finally, your evening is spent wandering the Val-Seille Gardens and Castle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 7.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Château Brunnen",
+            "hu": "Place du Château Szökőkút",
+            "ro": "Fântâna Place du Château",
+            "en": "Place du Château Fountain"
+          },
+          "coords": [
+            4.899253,
+            44.041698
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem charmanten historischen Brunnen, der den Platz prägt, und nutzen Sie ihn als erfrischenden Stopp, um an heißen Tagen Ihre Wasserflasche zu füllen.",
+            "hu": "Töltsön el egy kis időt ezen a bájos történelmi szökőkútnál, amely a tér központja, és egy forró napon kiváló megállóhely a kulacsok friss vízzel való feltöltésére.",
+            "ro": "Luați o pauză la această fântână istorică fermecătoare din centrul pieței, oferind o oprire răcoritoare unde vă puteți umple sticla cu apă într-o zi călduroasă.",
+            "en": "Take a moment by this charming historical fountain that anchors the local square, providing a refreshing stop where you can fill up your water bottle on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "ENS Étang Salé de Courthézon",
+            "hu": "ENS Étang Salé de Courthézon",
+            "ro": "ENS Étang Salé de Courthézon",
+            "en": "ENS Étang Salé de Courthézon"
+          },
+          "coords": [
+            4.867252,
+            44.072411
+          ],
+          "category": "landmark",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige salzhaltige Feuchtgebiet, das viele Vogelarten anzieht, weshalb Ferngläser für die beste Wildtierbeobachtung dringend empfohlen werden.",
+            "hu": "Fedezze fel ezt az egyedülálló sós vizes élőhelyet, amely vonzza a különféle madárfajokat, így a távcső használata erősen ajánlott a legjobb megfigyeléshez.",
+            "ro": "Descoperiți acest mediu umed salin unic care atrage diverse specii de păsări, așa că binoclul este recomandat pentru cea mai bună observare a faunei sălbatice.",
+            "en": "Discover this unique saline wetland environment which attracts diverse bird species, so binoculars are highly recommended for the best wildlife observation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis Templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Saint-Denis Church"
+          },
+          "coords": [
+            4.884458,
+            44.085829
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster zu betrachten, denn das Morgenlicht sorgt hier für die besten farbigen Reflexionen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, és csodálja meg az ólomüveg ablakokat, tartsa szem előtt, hogy a reggeli fény gyönyörű színes tükröződéseket hoz létre.",
+            "ro": "Intrați în această biserică în stil romanic pentru a vedea vitraliile superbe, având în vedere că lumina dimineții creează cele mai bune reflexii colorate.",
+            "en": "Step inside this Romanesque-style church to view its beautiful stained glass windows, keeping in mind that the morning light creates the best colorful reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l’Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Tour de l’Horloge"
+          },
+          "coords": [
+            4.884168,
+            44.086901
+          ],
+          "category": "tower",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses Uhrturms, ein Überbleibsel der alten Stadtmauer, und lesen Sie die umgebenden Tafeln für historischen Kontext.",
+            "hu": "Csodálja meg a középkori óratorony építészetét, a régi városfal maradványát, és feltétlenül olvassa el a környező táblákat a helyi történelmi kontextusért.",
+            "ro": "Admirați arhitectura medievală a acestui turn cu ceas, o rămășiță a vechilor metereze, și citiți plăcile din jur pentru a afla contextul istoric local.",
+            "en": "Admire the medieval architecture of this clock tower, a remnant of the old ramparts, and be sure to check the surrounding plaques for local historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère",
+            "hu": "Belvédère Kilátó",
+            "ro": "Belvedere",
+            "en": "Belvédère"
+          },
+          "coords": [
+            4.881762,
+            44.087854
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die provenzalischen Dächer und Weinberge, was diesen Aussichtspunkt zum perfekten Ort für Weitwinkel-Landschaftsfotos macht.",
+            "hu": "Élvezze a provence-i háztetőkre és szőlőültetvényekre nyíló panorámát erről a kilátópontról, amely a legalkalmasabb hely a nagylátószögű tájképek készítésére.",
+            "ro": "Bucurați-vă de vederea panoramică asupra acoperișurilor și podgoriilor provensale de la acest punct de belvedere, locul perfect pentru fotografii de peisaj.",
+            "en": "Enjoy panoramic views of the Provencal rooftops and vineyards from this elevated viewpoint, making it the perfect spot for taking wide-angle landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Pierre",
+            "hu": "Saint-Pierre Kápolna",
+            "ro": "Capela Saint-Pierre",
+            "en": "Chapelle Saint-Pierre"
+          },
+          "coords": [
+            4.882261,
+            44.089117
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche kleine Kapelle, die für ihre historische Bedeutung bekannt ist, und sprechen Sie leise, da sie ein Ort der lokalen Besinnung bleibt.",
+            "hu": "Látogassa meg ezt a kis kápolnát, amely történelmi jelentőségéről ismert, és ne feledjen halkan beszélni, mivel ez a helyiek elmélyülésének csendes helyszíne.",
+            "ro": "Vizitați această capelă mică, cunoscută pentru atmosfera sa liniștită și semnificația istorică, amintindu-vă să vorbiți încet, fiind un loc de reflecție.",
+            "en": "Visit this small, serene chapel known for its quiet atmosphere and historical significance, remembering to speak softly as it remains a place of local reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Val-Seille-Gärten",
+            "hu": "Val-Seille Kertek",
+            "ro": "Grădinile Val-Seille",
+            "en": "Val-Seille Gardens"
+          },
+          "coords": [
+            4.884396,
+            44.089702
+          ],
+          "category": "natural",
+          "arrive_at": "13:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese perfekt gepflegten botanischen Gärten mit exotischen Pflanzen, und bringen Sie eine Decke mit, um unter jahrhundertealten Bäumen zu ruhen.",
+            "hu": "Sétáljon végig ezeken a tökéletesen karbantartott botanikus kerteken, és hozzon magával egy kis takarót, ha a százéves fák árnyékában szeretne megpihenni.",
+            "ro": "Plimbați-vă prin aceste grădini botanice impecabil întreținute și aduceți o pătură mică dacă doriți să vă odihniți sub copacii seculari de pe domeniu.",
+            "en": "Stroll through these impeccably maintained botanical gardens to discover exotic plants, and bring a small blanket if you wish to rest under the century-old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Val-Seille",
+            "hu": "Val-Seille Kastély",
+            "ro": "Castelul Val-Seille",
+            "en": "Val-Seille Castle"
+          },
+          "coords": [
+            4.88289,
+            44.09033
+          ],
+          "category": "civic",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses majestätische städtische Schloss aus dem 19. Jahrhundert, das dem Pariser Rathaus nachempfunden ist, und fragen Sie nach Wechselausstellungen.",
+            "hu": "Fedezze fel ezt a párizsi városházát utánzó, 19. századi kastélyt, és feltétlenül érdeklődjön a helyi személyzettől a földszinten tartott időszaki kiállításokról.",
+            "ro": "Explorați acest castel municipal maiestuos din secolul XIX, care imită Primăria Parisului, și întrebați personalul despre expozițiile temporare de la parter.",
+            "en": "Explore this majestic 19th-century municipal castle which mimics the Paris City Hall, and ask the local staff about the temporary exhibitions held on the ground floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer kurzen Fahrt zum Place du Château Brunnen, gefolgt von Natur am Étang Salé. Mittags parken Sie nahe dem Zentrum, um die Kirche Saint-Denis und den markanten Tour de l'Horloge zu bewundern. Der Nachmittag ist dem Belvédère und der Kapelle Saint-Pierre gewidmet. Ihre Reise endet wunderbar an den Gärten und dem Schloss Val-Seille.",
+        "hu": "A nap a Place du Château szökőkútnál kezdődik, amelyet egy reggeli séta követ az Étang Salé vizes élőhelyén. Délben a központ közelében parkol le, hogy megcsodálja a Saint-Denis templomot és az óratornyot. A délután a lenyűgöző Belvédère kilátóé és a csendes Chapelle Saint-Pierre-é. Az utazás a Val-Seille kertekben és a kastélynál ér véget.",
+        "ro": "Ziua începe cu un drum scurt până la fântâna Place du Château, urmată de o vizită matinală la zonele umede Étang Salé. La prânz parcați aproape de centru pentru a admira Biserica Saint-Denis și Tour de l'Horloge. După-amiaza este dedicată punctului de belvedere Belvédère și Capelei Saint-Pierre. Călătoria se încheie frumos la Grădinile și Castelul Val-Seille.",
+        "en": "Your day begins with a short drive to the Place du Château Fountain, followed by a refreshing morning nature walk at the Étang Salé wetlands. By midday, you park near the center to admire the Saint-Denis Church and the striking Tour de l'Horloge. The afternoon is dedicated to the scenic Belvédère viewpoint and the serene Chapelle Saint-Pierre. Your journey wraps up beautifully at the Val-Seille Gardens and the municipal castle."
+      }
+    }
+  }
+}

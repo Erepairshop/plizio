@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-biscoitos-cities-v2",
+  "anchor": {
+    "name": "Biscoitos",
+    "coords": [
+      -27.25807,
+      38.79254
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sociedade dos Biscoitos",
+            "hu": "Sociedade dos Biscoitos",
+            "ro": "Sociedade dos Biscoitos",
+            "en": "Sociedade dos Biscoitos"
+          },
+          "coords": [
+            -27.257408,
+            38.792702
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie in dieser kulturellen Einrichtung, um lokale Traditionen zu verstehen; achten Sie auf die Aushänge, da oft abendliche Musikveranstaltungen stattfinden.",
+            "hu": "Kezdje a napot ebben a kulturális központban, ahol megismerheti a helyi hagyományokat, és mindenképpen érdeklődjön az esti zenei programok felől.",
+            "ro": "Începeți la această societate culturală pentru a înțelege tradițiile locale; verificați panoul informativ deoarece deseori găzduiesc seri muzicale autentice.",
+            "en": "Start at this cultural society to understand local traditions; be sure to check the bulletin board as they often host authentic evening musical events."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Imaculado Coração de Maria",
+            "hu": "Igreja do Imaculado Coração de Maria",
+            "ro": "Igreja do Imaculado Coração de Maria",
+            "en": "Igreja do Imaculado Coração de Maria"
+          },
+          "coords": [
+            -27.259671,
+            38.793925
+          ],
+          "category": "religious",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche wegen ihrer friedlichen Atmosphäre und der schönen Fassade; kommen Sie am besten morgens, um das sanfte Licht zu fotografieren.",
+            "hu": "Látogasson el ebbe a bájos templomba a békés hangulatért és a szép homlokzatért; érdemes kora délelőtt érkezni, amikor a legszebbek a fények a fotózáshoz.",
+            "ro": "Vizitați această biserică fermecătoare pentru atmosfera ei pașnică și fațada frumoasă; veniți dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Visit this charming church for its peaceful atmosphere and beautiful facade; arrive in the early morning to capture the softest light for your photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Vinho",
+            "hu": "Museu do Vinho",
+            "ro": "Museu do Vinho",
+            "en": "Museu do Vinho"
+          },
+          "coords": [
+            -27.258722,
+            38.792934
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die vulkanische Weinproduktion der Insel und probieren Sie unbedingt den berühmten Verdelho-Wein am Ende der Tour.",
+            "hu": "Fedezze fel a sziget vulkanikus borászatának történetét ebben az egyedi múzeumban, és a túra végén ne hagyja ki a híres helyi Verdelho bor kóstolóját.",
+            "ro": "Explorați istoria viticulturii vulcanice la acest muzeu unic și asigurați-vă că degustați faimosul lor vin Verdelho la sfârșitul turului ghidat.",
+            "en": "Discover the island's volcanic wine production history at this unique museum, and be sure to sample the famous local Verdelho wine at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Pedro",
+            "hu": "Forte de São Pedro",
+            "ro": "Forte de São Pedro",
+            "en": "Forte de São Pedro"
+          },
+          "coords": [
+            -27.259931,
+            38.799695
+          ],
+          "category": "castle",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festung, die einst die Küste schützte; tragen Sie bequeme Schuhe, da die alten Steinwege sehr uneben und rutschig sein können.",
+            "hu": "Fedezze fel ezt a történelmi erődöt, amely egykor a partot védte; viseljen kényelmes cipőt, mivel a régi kőutak nagyon egyenetlenek és csúszósak lehetnek.",
+            "ro": "Explorați această fortăreață istorică ce proteja odinioară coasta; purtați încălțăminte confortabilă, deoarece căile vechi de piatră pot fi destul de denivelate.",
+            "en": "Explore this historical fortress that once protected the rugged coastline; wear comfortable shoes as the old stone pathways can be quite uneven and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Calheta dos Biscoitos",
+            "hu": "Calheta dos Biscoitos",
+            "ro": "Calheta dos Biscoitos",
+            "en": "Calheta dos Biscoitos"
+          },
+          "coords": [
+            -27.257166,
+            38.802852
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen beeindruckenden natürlichen Vulkanpools am Ozean und vergessen Sie nicht Ihr Handtuch sowie Badeschuhe für die scharfen Felsen.",
+            "hu": "Pihenjen ezeknél a lenyűgöző vulkanikus óceáni medencéknél, és ne felejtsen el törölközőt, valamint vízicipőt hozni az éles sziklák miatt.",
+            "ro": "Relaxați-vă la aceste bazine naturale vulcanice de lângă ocean și nu uitați să vă aduceți prosopul și încălțăminte de apă pentru rocile ascuțite.",
+            "en": "Relax at these stunning natural volcanic ocean pools, and don't forget to bring your towel and water shoes to safely navigate the sharp volcanic rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Biscoitos beginnt mit authentischen Einblicken in die lokale Kultur in der Sociedade dos Biscoitos. Danach führt ein kurzer Spaziergang zur ruhigen Kirche.\n\nMittags tauchen Sie tief in die Geschichte der einzigartigen vulkanischen Weinherstellung im Museu do Vinho ein, wo eine kleine Verkostung wartet.\n\nDer Nachmittag ist geprägt von der rauen Küstenarchitektur am Forte de São Pedro, wo Sie die frische Meeresbrise spüren.\n\nZum Abschluss entspannen Sie an den berühmten natürlichen Pools der Calheta dos Biscoitos, ein perfekter Ausklang des Tages.",
+        "hu": "A reggel Biscoitosban a helyi kultúra felfedezésével indul a Sociedade dos Biscoitosban, majd egy rövid sétával eléri a békés templomot.\n\nA déli órákban elmerülhet az egyedülálló vulkanikus borkészítés történetében a Bormúzeumban, ahol kóstoló is várja.\n\nA délután folyamán a Forte de São Pedro zord part menti építészetét és a friss óceáni szelet élvezheti.\n\nA nap végén a Calheta dos Biscoitos híres természetes medencéinél pihenheti ki a séta fáradalmait a lemenő nap fényében.",
+        "ro": "Dimineața în Biscoitos începe cu o perspectivă autentică asupra culturii locale, urmată de o vizită la biserica pașnică din apropiere.\n\nLa prânz, veți explora istoria fascinantă a vinului vulcanic la Muzeul Vinului, completată de o scurtă degustare.\n\nDupă-amiaza vă aduce la fortăreața de coastă São Pedro, unde vă puteți bucura de briza proaspătă a oceanului și de arhitectura veche.\n\nZiua se încheie perfect cu o relaxare binemeritată la faimoasele piscine naturale vulcanice de la Calheta dos Biscoitos.",
+        "en": "Morning in Biscoitos begins with authentic insights into local culture at the Sociedade, followed by a short walk to the peaceful church nearby.\n\nMidday invites you to dive deep into the history of unique volcanic winemaking at the Wine Museum, complete with a tasting.\n\nThe afternoon is characterized by rugged coastal architecture at Forte de São Pedro, where you will feel the fresh ocean breeze.\n\nFinally, unwind at the famous natural pools of Calheta dos Biscoitos, a perfect and refreshing end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja do Imaculado Coração de Maria",
+            "hu": "Igreja do Imaculado Coração de Maria",
+            "ro": "Igreja do Imaculado Coração de Maria",
+            "en": "Igreja do Imaculado Coração de Maria"
+          },
+          "coords": [
+            -27.259671,
+            38.793925
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche wegen ihrer friedlichen Atmosphäre und der schönen Fassade; kommen Sie am besten morgens, um das sanfte Licht zu fotografieren.",
+            "hu": "Látogasson el ebbe a bájos templomba a békés hangulatért és a szép homlokzatért; érdemes kora délelőtt érkezni, amikor a legszebbek a fények a fotózáshoz.",
+            "ro": "Vizitați această biserică fermecătoare pentru atmosfera ei pașnică și fațada frumoasă; veniți dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Visit this charming church for its peaceful atmosphere and beautiful facade; arrive in the early morning to capture the softest light for your photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Vinho",
+            "hu": "Museu do Vinho",
+            "ro": "Museu do Vinho",
+            "en": "Museu do Vinho"
+          },
+          "coords": [
+            -27.258722,
+            38.792934
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die vulkanische Weinproduktion der Insel und probieren Sie unbedingt den berühmten Verdelho-Wein am Ende der Tour.",
+            "hu": "Fedezze fel a sziget vulkanikus borászatának történetét ebben az egyedi múzeumban, és a túra végén ne hagyja ki a híres helyi Verdelho bor kóstolóját.",
+            "ro": "Explorați istoria viticulturii vulcanice la acest muzeu unic și asigurați-vă că degustați faimosul lor vin Verdelho la sfârșitul turului ghidat.",
+            "en": "Discover the island's volcanic wine production history at this unique museum, and be sure to sample the famous local Verdelho wine at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Pedro",
+            "hu": "Forte de São Pedro",
+            "ro": "Forte de São Pedro",
+            "en": "Forte de São Pedro"
+          },
+          "coords": [
+            -27.259931,
+            38.799695
+          ],
+          "category": "castle",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festung, die einst die Küste schützte; tragen Sie bequeme Schuhe, da die alten Steinwege sehr uneben und rutschig sein können.",
+            "hu": "Fedezze fel ezt a történelmi erődöt, amely egykor a partot védte; viseljen kényelmes cipőt, mivel a régi kőutak nagyon egyenetlenek és csúszósak lehetnek.",
+            "ro": "Explorați această fortăreață istorică ce proteja odinioară coasta; purtați încălțăminte confortabilă, deoarece căile vechi de piatră pot fi destul de denivelate.",
+            "en": "Explore this historical fortress that once protected the rugged coastline; wear comfortable shoes as the old stone pathways can be quite uneven and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincheriras Militares",
+            "hu": "Trincheriras Militares",
+            "ro": "Trincheriras Militares",
+            "en": "Trincheriras Militares"
+          },
+          "coords": [
+            -27.246416,
+            38.800272
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese militärischen Gräben als Zeugen der Verteidigungsgeschichte; bleiben Sie auf den markierten Pfaden, um die historische Stätte zu bewahren.",
+            "hu": "Tekintse meg ezeket a katonai lövészárkokat, amelyek a sziget védelmi történelmét őrzik; maradjon a kijelölt ösvényeken a történelmi helyszín védelme érdekében.",
+            "ro": "Observați aceste tranșee militare care stau mărturie istoriei defensive; rămâneți pe cărările marcate pentru a ajuta la conservarea acestui sit istoric.",
+            "en": "Observe these military trenches that stand as a testament to the island's defensive history; stay on the marked paths to help preserve the historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Rua Longa",
+            "hu": "Forte da Rua Longa",
+            "ro": "Forte da Rua Longa",
+            "en": "Forte da Rua Longa"
+          },
+          "coords": [
+            -27.245408,
+            38.79811
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese alten Befestigungsanlagen mit fantastischem Meerblick; bringen Sie eine leichte Jacke mit, da der Wind hier an der Küste stark sein kann.",
+            "hu": "Látogassa meg ezt az ősi erődítményt a fantasztikus óceáni kilátásért; hozzon magával egy vékony kabátot, mert a szél nagyon erős lehet a part mentén.",
+            "ro": "Vizitați această fortificație veche cu vederi fantastice la ocean; aduceți o jachetă ușoară deoarece vântul poate fi destul de puternic de-a lungul coastei.",
+            "en": "Visit this ancient fortification boasting fantastic ocean views; bring a light jacket with you as the wind can be quite strong along this exposed coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Calheta dos Biscoitos",
+            "hu": "Calheta dos Biscoitos",
+            "ro": "Calheta dos Biscoitos",
+            "en": "Calheta dos Biscoitos"
+          },
+          "coords": [
+            -27.257166,
+            38.802852
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen beeindruckenden natürlichen Vulkanpools am Ozean und vergessen Sie nicht Ihr Handtuch sowie Badeschuhe für die scharfen Felsen.",
+            "hu": "Pihenjen ezeknél a lenyűgöző vulkanikus óceáni medencéknél, és ne felejtsen el törölközőt, valamint vízicipőt hozni az éles sziklák miatt.",
+            "ro": "Relaxați-vă la aceste bazine naturale vulcanice de lângă ocean și nu uitați să vă aduceți prosopul și încălțăminte de apă pentru rocile ascuțite.",
+            "en": "Relax at these stunning natural volcanic ocean pools, and don't forget to bring your towel and water shoes to safely navigate the sharp volcanic rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der schönen Kirche, bevor Sie die faszinierende Geschichte der vulkanischen Weinberge im Museu do Vinho kennenlernen.\n\nMittags radeln Sie zur Küste, wo das imposante Forte de São Pedro einen herrlichen Blick über den Atlantik bietet.\n\nDer Nachmittag führt Sie entlang historischer militärischer Gräben zum Forte da Rua Longa, das von der wehrhaften Vergangenheit der Insel erzählt.\n\nDen perfekten Abend verbringen Sie an den natürlichen Vulkanbecken der Calheta dos Biscoitos, ideal für ein erfrischendes Bad.",
+        "hu": "Kezdje kerékpártúráját a gyönyörű templomnál, mielőtt megismerné a vulkanikus szőlőültetvények lenyűgöző történetét a Bormúzeumban.\n\nDélben tekerjen a partra, ahol az impozáns Forte de São Pedro csodálatos kilátást nyújt az Atlanti-óceánra.\n\nA délután folyamán történelmi katonai árkok mentén halad a Forte da Rua Longa felé, amely a sziget védelmi múltját idézi.\n\nA tökéletes estét a Calheta dos Biscoitos természetes vulkanikus medencéinél töltheti el egy frissítő fürdőzéssel.",
+        "ro": "Începeți turul cu bicicleta la frumoasa biserică, înainte de a învăța despre istoria fascinantă a viilor vulcanice la Muzeul Vinului.\n\nLa prânz, pedalați spre coastă, unde impresionantul Forte de São Pedro oferă vederi minunate asupra Atlanticului.\n\nDupă-amiaza vă duce de-a lungul tranșeelor militare istorice către Forte da Rua Longa, amintind de trecutul defensiv.\n\nSeara perfectă se petrece relaxându-vă la bazinele naturale vulcanice de la Calheta dos Biscoitos, ideale pentru o baie revigorantă.",
+        "en": "Start your bike ride at the beautiful church before learning about the fascinating history of volcanic vineyards at the Wine Museum.\n\nAt midday, pedal towards the coast where the imposing Forte de São Pedro offers magnificent views of the Atlantic.\n\nThe afternoon takes you past historic military trenches to Forte da Rua Longa, echoing the island's defensive past.\n\nThe perfect evening is spent relaxing by the natural volcanic pools at Calheta dos Biscoitos, ideal for a refreshing dip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sociedade de São Pedro",
+            "hu": "Sociedade de São Pedro",
+            "ro": "Sociedade de São Pedro",
+            "en": "Sociedade de São Pedro"
+          },
+          "coords": [
+            -27.252914,
+            38.788728
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um das Gemeinschaftsleben der Einheimischen kennenzulernen; schauen Sie sich die traditionellen Architekturdetails an, bevor Sie weiterfahren.",
+            "hu": "Kezdje itt az utat a helyi közösségi élet megismeréséért; figyelje meg az épület hagyományos építészeti részleteit, mielőtt tovább indulna a városba.",
+            "ro": "Începeți aici pentru a obține o perspectivă asupra vieții comunitare locale; observați detaliile arhitecturale tradiționale înainte de a vă continua drumul.",
+            "en": "Start your day here to gain insight into the local community life; observe the traditional architectural details of the building before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Imaculado Coração de Maria",
+            "hu": "Igreja do Imaculado Coração de Maria",
+            "ro": "Igreja do Imaculado Coração de Maria",
+            "en": "Igreja do Imaculado Coração de Maria"
+          },
+          "coords": [
+            -27.259671,
+            38.793925
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche wegen ihrer friedlichen Atmosphäre und der schönen Fassade; kommen Sie am besten morgens, um das sanfte Licht zu fotografieren.",
+            "hu": "Látogasson el ebbe a bájos templomba a békés hangulatért és a szép homlokzatért; érdemes kora délelőtt érkezni, amikor a legszebbek a fények a fotózáshoz.",
+            "ro": "Vizitați această biserică fermecătoare pentru atmosfera ei pașnică și fațada frumoasă; veniți dimineața devreme pentru cea mai bună lumină la fotografii.",
+            "en": "Visit this charming church for its peaceful atmosphere and beautiful facade; arrive in the early morning to capture the softest light for your photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Vinho",
+            "hu": "Museu do Vinho",
+            "ro": "Museu do Vinho",
+            "en": "Museu do Vinho"
+          },
+          "coords": [
+            -27.258722,
+            38.792934
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die vulkanische Weinproduktion der Insel und probieren Sie unbedingt den berühmten Verdelho-Wein am Ende der Tour.",
+            "hu": "Fedezze fel a sziget vulkanikus borászatának történetét ebben az egyedi múzeumban, és a túra végén ne hagyja ki a híres helyi Verdelho bor kóstolóját.",
+            "ro": "Explorați istoria viticulturii vulcanice la acest muzeu unic și asigurați-vă că degustați faimosul lor vin Verdelho la sfârșitul turului ghidat.",
+            "en": "Discover the island's volcanic wine production history at this unique museum, and be sure to sample the famous local Verdelho wine at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Calheta dos Biscoitos",
+            "hu": "Calheta dos Biscoitos",
+            "ro": "Calheta dos Biscoitos",
+            "en": "Calheta dos Biscoitos"
+          },
+          "coords": [
+            -27.257166,
+            38.802852
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen beeindruckenden natürlichen Vulkanpools am Ozean und vergessen Sie nicht Ihr Handtuch sowie Badeschuhe für die scharfen Felsen.",
+            "hu": "Pihenjen ezeknél a lenyűgöző vulkanikus óceáni medencéknél, és ne felejtsen el törölközőt, valamint vízicipőt hozni az éles sziklák miatt.",
+            "ro": "Relaxați-vă la aceste bazine naturale vulcanice de lângă ocean și nu uitați să vă aduceți prosopul și încălțăminte de apă pentru rocile ascuțite.",
+            "en": "Relax at these stunning natural volcanic ocean pools, and don't forget to bring your towel and water shoes to safely navigate the sharp volcanic rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincheriras Militares",
+            "hu": "Trincheriras Militares",
+            "ro": "Trincheriras Militares",
+            "en": "Trincheriras Militares"
+          },
+          "coords": [
+            -27.246416,
+            38.800272
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese militärischen Gräben als Zeugen der Verteidigungsgeschichte; bleiben Sie auf den markierten Pfaden, um die historische Stätte zu bewahren.",
+            "hu": "Tekintse meg ezeket a katonai lövészárkokat, amelyek a sziget védelmi történelmét őrzik; maradjon a kijelölt ösvényeken a történelmi helyszín védelme érdekében.",
+            "ro": "Observați aceste tranșee militare care stau mărturie istoriei defensive; rămâneți pe cărările marcate pentru a ajuta la conservarea acestui sit istoric.",
+            "en": "Observe these military trenches that stand as a testament to the island's defensive history; stay on the marked paths to help preserve the historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Rua Longa",
+            "hu": "Forte da Rua Longa",
+            "ro": "Forte da Rua Longa",
+            "en": "Forte da Rua Longa"
+          },
+          "coords": [
+            -27.245408,
+            38.79811
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese alten Befestigungsanlagen mit fantastischem Meerblick; bringen Sie eine leichte Jacke mit, da der Wind hier an der Küste stark sein kann.",
+            "hu": "Látogassa meg ezt az ősi erődítményt a fantasztikus óceáni kilátásért; hozzon magával egy vékony kabátot, mert a szél nagyon erős lehet a part mentén.",
+            "ro": "Vizitați această fortificație veche cu vederi fantastice la ocean; aduceți o jachetă ușoară deoarece vântul poate fi destul de puternic de-a lungul coastei.",
+            "en": "Visit this ancient fortification boasting fantastic ocean views; bring a light jacket with you as the wind can be quite strong along this exposed coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro dos Moinhos",
+            "hu": "Miradouro dos Moinhos",
+            "ro": "Miradouro dos Moinhos",
+            "en": "Miradouro dos Moinhos"
+          },
+          "coords": [
+            -27.229771,
+            38.790427
+          ],
+          "category": "natural",
+          "arrive_at": "15:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen herrlichen Panoramablick über die Landschaft; es ist der perfekte Ort für ein Picknick am späten Nachmittag.",
+            "hu": "Élvezze a csodálatos panorámát a tájra ebből a kilátóból; ez a tökéletes helyszín egy késő délutáni, pihentető piknikhez a naplemente fényeinél.",
+            "ro": "Bucurați-vă de o vedere panoramică superbă asupra peisajului de la acest punct de belvedere; este locul perfect pentru un picnic relaxant la sfârșitul zilei.",
+            "en": "Enjoy a gorgeous panoramic view over the lush landscape from this viewpoint; it is the perfect spot for a relaxing late afternoon picnic with local snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an der Sociedade de São Pedro, wo Sie in das lokale Gemeinschaftsleben eintauchen und die zentrale Kirche besuchen können.\n\nGegen Mittag fahren Sie zum berühmten Weinmuseum, um die Traditionen der Azoren-Weine in aller Ruhe zu erkunden.\n\nAm Nachmittag locken die Küstenhighlights: Entspannen Sie an der Calheta dos Biscoitos und entdecken Sie die historischen Militäranlagen entlang der schroffen Küste.\n\nDen Tag lassen Sie am Miradouro dos Moinhos ausklingen, wo Sie einen spektakulären Panoramablick im Abendlicht genießen.",
+        "hu": "Az autós túra a Sociedade de São Pedro-nál kezdődik, majd a központi templom meglátogatásával folytatódik a helyi közösség szívében.\n\nDélben elvezet a híres Bormúzeumhoz, ahol kényelmesen felfedezheti az azori borkészítés hagyományait.\n\nA délután a part menti látnivalóké: pihenjen a természetes medencéknél, és fedezze fel a sziklás part katonai erődítményeit.\n\nA napot a Miradouro dos Moinhos kilátónál zárja, ahol lenyűgöző panorámában gyönyörködhet az esti fényekben.",
+        "ro": "Excursia cu mașina începe la Sociedade de São Pedro, continuând cu o vizită la biserica centrală pentru a simți pulsul comunității.\n\nÎn jurul prânzului, conduceți la faimosul Muzeu al Vinului pentru a explora pe îndelete tradițiile viticole azoriene.\n\nDupă-amiaza atrage cu atracții de coastă: relaxați-vă la Calheta dos Biscoitos și descoperiți structurile militare de-a lungul coastei accidentate.\n\nÎncheiați ziua la Miradouro dos Moinhos, savurând o vedere panoramică spectaculoasă în lumina caldă a serii.",
+        "en": "Your road trip begins at the Sociedade de São Pedro, followed by a visit to the central church to experience the heart of the community.\n\nAround midday, drive to the famous Wine Museum to leisurely explore the rich traditions of Azorean winemaking.\n\nThe afternoon calls with coastal highlights: relax at Calheta dos Biscoitos and discover the historical military structures along the rugged shore.\n\nEnd the day at Miradouro dos Moinhos, taking in a spectacular panoramic view in the warm evening light."
+      }
+    }
+  }
+}

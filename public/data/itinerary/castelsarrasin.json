@@ -1,0 +1,405 @@
+{
+  "city_id": "castelsarrasin",
+  "anchor": {
+    "name": "Castelsarrasin",
+    "coords": [
+      1.1069,
+      44.04
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aristide Briand Platz",
+            "hu": "Aristide Briand tér",
+            "ro": "Piața Aristide Briand",
+            "en": "Aristide Briand Square"
+          },
+          "coords": [
+            1.112683,
+            44.039188
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Aristide Briand Platz, einer grünen Oase, die sich ideal für einen Spaziergang eignet, und holen Sie sich einen Kaffee für die schattigen Bänke.",
+            "hu": "Kezdje a napot az Aristide Briand téren, egy zöldellő városi oázisban, amely tökéletes egy sétához, és ne felejtsen el kávét venni a közeli kávézóban az árnyékos padokhoz.",
+            "ro": "Începeți-vă ziua în Piața Aristide Briand, o oază urbană verde perfectă pentru o plimbare și nu uitați să luați o cafea pentru a vă bucura de ea pe băncile umbrite.",
+            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Jacques-Yves Cousteau",
+            "hu": "Jacques-Yves Cousteau kikötő",
+            "ro": "Portul Jacques-Yves Cousteau",
+            "en": "Jacques-Yves Cousteau Port"
+          },
+          "coords": [
+            1.111323,
+            44.040526
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ruhige Wasser am Hafen Jacques-Yves Cousteau, einem reizvollen Yachthafen am Kanal, wo ein Spaziergang entlang des Treidelpfades tolle Fotomotive bietet.",
+            "hu": "Csodálja meg a nyugalmat a Jacques-Yves Cousteau kikötőben, a csatorna menti elragadó jachtkikötőben, ahol a vontatóösvényen sétálva csodálatos fényképeket készíthet.",
+            "ro": "Admirați apele liniștite la Portul Jacques-Yves Cousteau, un port de agrement fermecător, unde o simplă plimbare pe cărarea de pe mal vă va oferi oportunități foto excelente.",
+            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Castelsarrasin",
+            "hu": "Castelsarrasin Városháza",
+            "ro": "Primăria Castelsarrasin",
+            "en": "Castelsarrasin Town Hall"
+          },
+          "coords": [
+            1.109235,
+            44.041408
+          ],
+          "category": "civic",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinarchitektur des Rathauses von Castelsarrasin, ein Symbol des lokalen Bürgerstolzes, und kommen Sie an Wochentagen für mehr Ruhe.",
+            "hu": "Csodálja meg a castelsarrasini Városháza lenyűgöző téglaépítészetét, a helyi polgári büszkeség szimbólumát, és mindenképpen hétköznap délelőtt látogassa meg a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de arhitectura din cărămidă a Primăriei Castelsarrasin, un simbol al mândriei civice, și asigurați-vă că o vizitați în diminețile din timpul săptămânii.",
+            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Saint-Jean",
+            "en": "Saint-Jean Church"
+          },
+          "coords": [
+            1.104521,
+            44.041043
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Saint-Jean Kirche mit ihrem markanten Glockenturm und der friedlichen Atmosphäre, wobei Sie im Inneren auf angemessene Kleidung achten sollten.",
+            "hu": "Fedezze fel a történelmi Szent János-templomot, amely egyedi harangtornyáról és békés hangulatáról ismert, de a belépéshez szerény öltözet és néma csend szükségeltetik.",
+            "ro": "Explorați biserica istorică Saint-Jean, remarcabilă prin turnul său distinct și ambianța liniștită, unde intrarea necesită o ținută decentă și un moment de tăcere respectuoasă.",
+            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sauveur Kirche",
+            "hu": "Saint-Sauveur templom",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Saint-Sauveur Church"
+          },
+          "coords": [
+            1.107478,
+            44.037571
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gotische Eleganz der Saint-Sauveur Kirche mit ihren wunderschönen Buntglasfenstern und fangen Sie das Nachmittagslicht ein, das durch die Scheiben fällt.",
+            "hu": "Fedezze fel a Saint-Sauveur templom gótikus eleganciáját és gyönyörű ólomüveg ablakait, és próbálja meg elcsípni a színes üvegeken átszűrődő délutáni napfényt.",
+            "ro": "Descoperiți eleganța gotică a Bisericii Saint-Sauveur, care adăpostește vitralii frumoase, și încercați să surprindeți lumina soarelui de după-amiază filtrată prin geamuri.",
+            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang über den Aristide Briand Platz. Mittags können Sie die Boote am Hafen Jacques-Yves Cousteau beobachten. Der Nachmittag lädt dazu ein, die historische Architektur des Rathauses und der Kirche Saint-Jean zu bestaunen. Am Abend erstrahlen die gotischen Fassaden der Kirche Saint-Sauveur in warmem Licht.",
+        "hu": "Kezdje a reggelt egy sétával az Aristide Briand téren, élvezve a friss levegőt. Délben nézze meg a hajókat a Jacques-Yves Cousteau kikötőben. A délután folyamán csodálja meg a Városháza és a Szent János-templom történelmi építészetét. Este a Saint-Sauveur templom lenyűgöző gótikus homlokzatai meleg fényben ragyognak.",
+        "ro": "Începeți dimineața plimbându-vă prin Piața Aristide Briand. La prânz, priviți bărcile care trec prin Portul Jacques-Yves Cousteau. După-amiaza vă invită să admirați arhitectura istorică a Primăriei și a Bisericii Saint-Jean. Seara, fațadele gotice uimitoare ale Bisericii Saint-Sauveur strălucesc frumos în lumina caldă.",
+        "en": "Start your morning strolling through Aristide Briand Square, enjoying the fresh air. By midday, watch the boats glide past the Jacques-Yves Cousteau Port. The afternoon invites you to marvel at the historic architecture of the Town Hall and the Saint-Jean Church. In the evening, the stunning Gothic facades of Saint-Sauveur Church glow warmly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 6.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Sauveur Kirche",
+            "hu": "Saint-Sauveur templom",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Saint-Sauveur Church"
+          },
+          "coords": [
+            1.107478,
+            44.037571
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gotische Eleganz der Saint-Sauveur Kirche mit ihren wunderschönen Buntglasfenstern und fangen Sie das Nachmittagslicht ein, das durch die Scheiben fällt.",
+            "hu": "Fedezze fel a Saint-Sauveur templom gótikus eleganciáját és gyönyörű ólomüveg ablakait, és próbálja meg elcsípni a színes üvegeken átszűrődő délutáni napfényt.",
+            "ro": "Descoperiți eleganța gotică a Bisericii Saint-Sauveur, care adăpostește vitralii frumoase, și încercați să surprindeți lumina soarelui de după-amiază filtrată prin geamuri.",
+            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Castelsarrasin",
+            "hu": "Castelsarrasin Városháza",
+            "ro": "Primăria Castelsarrasin",
+            "en": "Castelsarrasin Town Hall"
+          },
+          "coords": [
+            1.109235,
+            44.041408
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinarchitektur des Rathauses von Castelsarrasin, ein Symbol des lokalen Bürgerstolzes, und kommen Sie an Wochentagen für mehr Ruhe.",
+            "hu": "Csodálja meg a castelsarrasini Városháza lenyűgöző téglaépítészetét, a helyi polgári büszkeség szimbólumát, és mindenképpen hétköznap délelőtt látogassa meg a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de arhitectura din cărămidă a Primăriei Castelsarrasin, un simbol al mândriei civice, și asigurați-vă că o vizitați în diminețile din timpul săptămânii.",
+            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Jacques-Yves Cousteau",
+            "hu": "Jacques-Yves Cousteau kikötő",
+            "ro": "Portul Jacques-Yves Cousteau",
+            "en": "Jacques-Yves Cousteau Port"
+          },
+          "coords": [
+            1.111323,
+            44.040526
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ruhige Wasser am Hafen Jacques-Yves Cousteau, einem reizvollen Yachthafen am Kanal, wo ein Spaziergang entlang des Treidelpfades tolle Fotomotive bietet.",
+            "hu": "Csodálja meg a nyugalmat a Jacques-Yves Cousteau kikötőben, a csatorna menti elragadó jachtkikötőben, ahol a vontatóösvényen sétálva csodálatos fényképeket készíthet.",
+            "ro": "Admirați apele liniștite la Portul Jacques-Yves Cousteau, un port de agrement fermecător, unde o simplă plimbare pe cărarea de pe mal vă va oferi oportunități foto excelente.",
+            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Très Cassés",
+            "hu": "Lac des Très Cassés",
+            "ro": "Lac des Très Cassés",
+            "en": "Lac des Très Cassés"
+          },
+          "coords": [
+            1.086386,
+            44.023723
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.73,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Lac des Très Cassés, einem wunderbaren Naturrefugium, wo ein mitgebrachter Picknickkorb ein köstliches Mittagessen im Freien ermöglicht.",
+            "hu": "Pihenjen a békés Lac des Très Cassés tónál, amely egy csodálatos természeti menedékhely, ahol egy piknikkosárral érkezve elragadó szabadtéri ebédélményben lehet része.",
+            "ro": "Relaxați-vă la serena Lac des Très Cassés, un minunat refugiu natural, unde aducerea unui coș de picnic vă permite să vă bucurați de un prânz delicios în aer liber.",
+            "en": "Relax by the serene Lac des Très Cassés, a wonderful natural retreat just outside the center, where bringing a picnic basket allows for a delightful outdoor lunch experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Monestié",
+            "hu": "Lac de Monestié",
+            "ro": "Lac de Monestié",
+            "en": "Lac de Monestié"
+          },
+          "coords": [
+            1.06804,
+            44.050425
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.31,
+          "tip_5lang": {
+            "de": "Finden Sie zurück zur Natur am Lac de Monestié mit seinen malerischen Uferwegen, und bringen Sie ein Fernglas mit, um die heimische Vogelwelt besser beobachten zu können.",
+            "hu": "Kerüljön közelebb a természethez a Lac de Monestié tónál, ahol festői parti ösvények várják, és mindenképpen vigyen magával távcsövet a madarak megfigyeléséhez.",
+            "ro": "Reconectați-vă cu natura la Lac de Monestié, care se mândrește cu poteci pitorești, iar o pereche de binocluri vă va îmbunătăți considerabil observarea păsărilor.",
+            "en": "Reconnect with nature at Lac de Monestié, boasting scenic lakeside paths and local birdlife, so carrying a pair of binoculars will greatly enhance your wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der Erkundung der prächtigen Kirche Saint-Sauveur. Gegen Mittag radeln Sie am Rathaus vorbei zum Hafen Cousteau. Der Nachmittag führt Sie zum malerischen Lac des Très Cassés für eine friedliche Pause. Beenden Sie Ihren aktiven Tag mit einer entspannten Fahrt in den Sonnenuntergang am Lac de Monestié.",
+        "hu": "Indítsa kerékpártúráját a csodálatos Saint-Sauveur templom felfedezésével. Dél körül tekerjen el a grandiózus Városháza mellett a Cousteau kikötőhöz. A délután a festői Lac des Très Cassés tóhoz viszi egy békés pihenőre. Zárja az aktív napot egy pihentető naplementés tekeréssel a Lac de Monestié csendes partjainál.",
+        "ro": "Începeți turul cu bicicleta explorând magnifica Biserică Saint-Sauveur. Pe la prânz, pedalați pe lângă Primărie și luați o gustare la Portul Cousteau. După-amiaza vă duce la pitorescul Lac des Très Cassés pentru o pauză. Încheiați-vă ziua activă cu o plimbare relaxantă la apus de-a lungul malurilor de la Lac de Monestié.",
+        "en": "Kick off your cycling tour by exploring the magnificent Saint-Sauveur Church. Around midday, pedal past the grand Town Hall and grab a quick bite at the Cousteau Port. The afternoon takes you out to the scenic Lac des Très Cassés for a peaceful break. End your active day with a relaxing sunset ride along the quiet shores of Lac de Monestié."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 8.93,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Saint-Jean",
+            "en": "Saint-Jean Church"
+          },
+          "coords": [
+            1.104521,
+            44.041043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Saint-Jean Kirche mit ihrem markanten Glockenturm und der friedlichen Atmosphäre, wobei Sie im Inneren auf angemessene Kleidung achten sollten.",
+            "hu": "Fedezze fel a történelmi Szent János-templomot, amely egyedi harangtornyáról és békés hangulatáról ismert, de a belépéshez szerény öltözet és néma csend szükségeltetik.",
+            "ro": "Explorați biserica istorică Saint-Jean, remarcabilă prin turnul său distinct și ambianța liniștită, unde intrarea necesită o ținută decentă și un moment de tăcere respectuoasă.",
+            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Aristide Briand Platz",
+            "hu": "Aristide Briand tér",
+            "ro": "Piața Aristide Briand",
+            "en": "Aristide Briand Square"
+          },
+          "coords": [
+            1.112683,
+            44.039188
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Aristide Briand Platz, einer grünen Oase, die sich ideal für einen Spaziergang eignet, und holen Sie sich einen Kaffee für die schattigen Bänke.",
+            "hu": "Kezdje a napot az Aristide Briand téren, egy zöldellő városi oázisban, amely tökéletes egy sétához, és ne felejtsen el kávét venni a közeli kávézóban az árnyékos padokhoz.",
+            "ro": "Începeți-vă ziua în Piața Aristide Briand, o oază urbană verde perfectă pentru o plimbare și nu uitați să luați o cafea pentru a vă bucura de ea pe băncile umbrite.",
+            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Fourrières",
+            "hu": "Lac des Fourrières",
+            "ro": "Lac des Fourrières",
+            "en": "Lac des Fourrières"
+          },
+          "coords": [
+            1.161112,
+            44.03919
+          ],
+          "category": "natural",
+          "arrive_at": "10:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.87,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Pause am Lac des Fourrières, der für sein klares Wasser bekannt ist, wobei bequeme Wanderschuhe für die Wege dringend empfohlen werden.",
+            "hu": "Élvezze a békés pihenést a Lac des Fourrières tónál, amely kristálytiszta vizéről és buja növényzetéről ismert, így a kényelmes sétacipő viselete kifejezetten ajánlott.",
+            "ro": "Bucurați-vă de o pauză liniștită la Lac des Fourrières, un loc cu ape limpezi și vegetație luxuriantă, fiind recomandat să purtați pantofi confortabili pentru poteci.",
+            "en": "Enjoy a peaceful break at Lac des Fourrières, known for its pristine waters and lush surroundings, making it highly recommended to wear comfortable walking shoes for the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Malaurens",
+            "hu": "Lac de Malaurens",
+            "ro": "Lac de Malaurens",
+            "en": "Lac de Malaurens"
+          },
+          "coords": [
+            1.162196,
+            44.03583
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Landluft am Lac de Malaurens ein, der fantastische Angelplätze bietet, wobei Insektenschutzmittel für einen angenehmen Aufenthalt am Wasser sorgt.",
+            "hu": "Szívja magába a friss vidéki levegőt a Lac de Malaurens tónál, amely remek horgászhelyeket kínál, és ne felejtsen el szúnyogriasztót használni a tóparti kényelemért.",
+            "ro": "Respirați aerul proaspăt de la Lac de Malaurens, un loc cu locuri fantastice de pescuit, unde un repelent de insecte vă va asigura o ședere confortabilă pe malul apei.",
+            "en": "Breathe in the fresh country air at Lac de Malaurens, offering fantastic fishing spots and shaded groves, where insect repellent will ensure a comfortable stay by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Le petit Saulous",
+            "hu": "Le petit Saulous",
+            "ro": "Le petit Saulous",
+            "en": "Le petit Saulous"
+          },
+          "coords": [
+            1.168356,
+            44.000103
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Seentour am Le petit Saulous, einem intimen Gewässer, aber überprüfen Sie das Wetter, da die unbefestigten Wege bei Regen schnell schlammig werden können.",
+            "hu": "Zárja a tótúrát a Le petit Saulous-nál, egy eldugott, csendes vízfelületnél, de mindig ellenőrizze az időjárást, mivel a földutak könnyen sárossá válhatnak eső után.",
+            "ro": "Încheiați-vă turul la Le petit Saulous, o apă intimă perfectă pentru reflecție, dar verificați condițiile meteo, deoarece potecile de pământ pot deveni noroioase.",
+            "en": "Conclude your lake tour at Le petit Saulous, an intimate and secluded body of water perfect for reflection, but check local weather conditions as the dirt paths can get muddy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der historischen Kirche Saint-Jean, gefolgt von einem Stopp am Aristide Briand Platz. Fahren Sie zum Mittagessen an den unberührten Lac des Fourrières. Verbringen Sie den Nachmittag damit, die üppige Umgebung des Lac de Malaurens zu erkunden. Beenden Sie Ihren Abend am abgeschiedenen See Le petit Saulous.",
+        "hu": "Autós túrája a történelmi Szent János-templomnál kezdődik, amelyet egy rövid megálló követ a központi Aristide Briand téren. Ebédidőben vezessen el a kristálytiszta Lac des Fourrières tóhoz. A délutánt a Lac de Malaurens körüli buja környezet felfedezésével töltheti. Zárja az estét az eldugott Le petit Saulous partjainál.",
+        "ro": "Traseul dvs. cu mașina începe la Biserica istorică Saint-Jean, urmată de o oprire rapidă în Piața Aristide Briand. Pentru prânz, conduceți spre Lac des Fourrières pentru a vă relaxa. Petreceți după-amiaza explorând mediul verde din jurul Lac de Malaurens. Încheiați-vă seara la locul retras Le petit Saulous.",
+        "en": "Your driving route starts right at the historical Saint-Jean Church, followed by a quick stop at the central Aristide Briand Square. For lunch, drive out to the pristine Lac des Fourrières for a relaxing waterside view. Spend the afternoon exploring the lush environments around Lac de Malaurens. Conclude your evening at the secluded Le petit Saulous."
+      }
+    }
+  }
+}

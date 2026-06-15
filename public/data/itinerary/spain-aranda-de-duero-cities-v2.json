@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-aranda-de-duero-cities-v2",
+  "anchor": {
+    "name": "Aranda de Duero",
+    "coords": [
+      -3.689243,
+      41.671551
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa de Aranda",
+            "hu": "Villa de Aranda",
+            "ro": "Villa de Aranda",
+            "en": "Villa de Aranda"
+          },
+          "coords": [
+            -3.688811,
+            41.671448
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum, um die wahre Essenz der Vergangenheit dieser Stadt zu spüren, und tragen Sie unbedingt bequeme Schuhe für das charmante Kopfsteinpflaster.",
+            "hu": "Fedezze fel a történelmi központot, hogy átérezze a város múltjának igazi esszenciáját, és feltétlenül viseljen kényelmes sétacipőt a hangulatos macskaköves utcákon.",
+            "ro": "Explorați centrul istoric pentru a simți adevărata esență a trecutului acestui oraș și purtați neapărat încălțăminte confortabilă pentru străduțele fermecătoare pietruite.",
+            "en": "Explore the historic center to feel the true essence of the city's past, and remember to wear comfortable walking shoes for the charming and uneven cobblestone streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturauditorium",
+            "hu": "Kulturális Auditórium",
+            "ro": "Auditoriul de Cultură",
+            "en": "Auditorio de la Casa de la Cultura"
+          },
+          "coords": [
+            -3.687778,
+            41.671504
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den lokalen Spielplan auf unerwartete Aufführungen, da dieses Zentrum oft kostenlose Veranstaltungen bietet, die unglaubliche regionale Talente präsentieren.",
+            "hu": "Nézze meg a helyi programfüzetet a váratlan előadásokért, mivel ez a kulturális központ gyakran ad otthont ingyenes eseményeknek, ahol regionális tehetségek lépnek fel.",
+            "ro": "Verificați programul local pentru spectacole neașteptate, deoarece acest centru găzduiește adesea evenimente gratuite care prezintă talente regionale incredibile.",
+            "en": "Check the local schedule for unexpected performances, as this cultural hub often hosts fantastic free events showcasing incredibly talented regional artists and musicians."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für traditionelle Spiele",
+            "hu": "Hagyományos Játékok Múzeuma",
+            "ro": "Muzeul de Jocuri Tradiționale",
+            "en": "Museo de Juegos Tradicionales"
+          },
+          "coords": [
+            -3.688285,
+            41.670141
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in traditionelle kastilische Spiele ein und bitten Sie das freundliche Personal um eine praktische Demonstration der ungewöhnlichsten historischen Zeitvertreibe.",
+            "hu": "Merüljön el a hagyományos kasztíliai játékokban, és kérje meg a barátságos személyzetet, hogy mutassák be a legszokatlanabb történelmi időtöltéseket a gyakorlatban is.",
+            "ro": "Cufundați-vă în jocurile tradiționale castiliene, cerând personalului amabil o demonstrație practică a celor mai neobișnuite activități istorice de petrecere a timpului liber.",
+            "en": "Immerse yourself in traditional Castilian games, asking the friendly staff for a hands-on demonstration of the absolute most unusual historical pastimes displayed here."
+          }
+        },
+        {
+          "name": {
+            "de": "Duero-Tor",
+            "hu": "Duero-kapu",
+            "ro": "Poarta Duero",
+            "en": "Puerta del Duero"
+          },
+          "coords": [
+            -3.689814,
+            41.670219
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Überreste der mittelalterlichen Stadtmauer und schießen Sie das perfekte Foto im weichen Nachmittagslicht, bevor Sie zum nahen Fluss hinuntergehen.",
+            "hu": "Csodálja meg a középkori városfal ezen maradványait, és készítse el a tökéletes fotót a lágy délutáni fényben, mielőtt lesétálna a közeli festői folyópartra.",
+            "ro": "Admirați aceste rămășițe ale zidului medieval al orașului, surprinzând fotografia perfectă în lumina blândă a după-amiezii înainte de a vă îndrepta spre râul din apropiere.",
+            "en": "Admire these monumental remnants of the city's medieval wall, capturing the perfect photograph in the soft afternoon light before heading down to the nearby riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Brücke Las Tenerías",
+            "hu": "Las Tenerías Középkori Híd",
+            "ro": "Podul Medieval Las Tenerías",
+            "en": "Puente Medieval de las Tenerías"
+          },
+          "coords": [
+            -3.691381,
+            41.672114
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese alte Brücke für einen herrlichen Blick auf den Duero, und halten Sie Ausschau nach lokalen Wasservögeln, die sich an den grasbewachsenen Ufern ausruhen.",
+            "hu": "Sétáljon át ezen az ősi hídon a Duero folyóra nyíló lenyűgöző kilátásért, és figyelje meg a füves partok mentén pihenő helyi vízimadarakat és az érintetlen természetet.",
+            "ro": "Plimbați-vă pe acest pod vechi pentru o priveliște uimitoare asupra râului Duero, cu ochii în patru după păsările de apă locale care se odihnesc de-a lungul malurilor ierboase.",
+            "en": "Walk across this ancient stone bridge for stunning views of the Duero river, keeping a sharp eye out for lovely local waterbirds resting along the grassy riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der zentralen Villa de Aranda und ihres anliegenden kulturellen Zentrums. Tauchen Sie mittags im einzigartigen Museo de Juegos Tradicionales in die Welt der lokalen Spiele ein. Bewundern Sie am frühen Nachmittag das historische Tor Puerta del Duero. Beenden Sie Ihren wundervollen Tag auf der mittelalterlichen Brücke Puente de las Tenerías.",
+        "hu": "Kezdje a reggelt a központi Villa de Aranda és a szomszédos kulturális központ felfedezésével. Délben merüljön el a hagyományos játékok múzeumában, hogy megismerje a helyi szokásokat. Kora délután csodálja meg a történelmi Puerta del Duero kaput. Zárja csodálatos napját a középkori Tenerías hídon átsétálva, miközben a város nyugovóra tér.",
+        "ro": "Începeți dimineața explorând centrala Villa de Aranda și centrul său cultural. La prânz, descoperiți muzeul unic de jocuri tradiționale pentru a învăța despre obiceiurile locale. La începutul după-amiezii, admirați poarta istorică Puerta del Duero. Încheiați-vă ziua minunată traversând impresionantul pod medieval Puente de las Tenerías.",
+        "en": "Start your morning exploring the central Villa de Aranda and its vibrant cultural hub. By midday, dive into the unique Museo de Juegos Tradicionales to learn about local games. In the early afternoon, marvel at the historic Puerta del Duero gate. End your wonderful day crossing the scenic Puente Medieval de las Tenerías as the afternoon light softens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bogen des ehemaligen Klosters Sancti Spiritus",
+            "hu": "Egykori Sancti Spiritus Kolostor Íve",
+            "ro": "Arcul fostului convent Sancti Spiritus",
+            "en": "Arco del antiguo convento de Sancti Spiritus"
+          },
+          "coords": [
+            -3.687787,
+            41.680384
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die komplizierten Wappenschilder, die in diesen Torbogen gemeißelt sind, ein perfekter Ort, um das religiöse architektonische Erbe der Stadt zu schätzen.",
+            "hu": "Vizsgálja meg a boltívbe faragott bonyolult címereket, amely tökéletes helyszín a város vallási és építészeti örökségének megcsodálására a reggeli nyugalomban.",
+            "ro": "Examinați scuturile heraldice complicate sculptate în acest arc, un loc perfect pentru a aprecia moștenirea arhitecturală religioasă a orașului în liniștea dimineții.",
+            "en": "Examine the intricate heraldic shields carved into this historical archway, a truly perfect quiet spot to appreciate the town's stunning religious architectural legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa de Aranda",
+            "hu": "Villa de Aranda",
+            "ro": "Villa de Aranda",
+            "en": "Villa de Aranda"
+          },
+          "coords": [
+            -3.688811,
+            41.671448
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher in der Nähe des Platzes, um die faszinierenden Gassen dieses historischen Zentrums in einem sehr entspannten Tempo vollständig zu erkunden.",
+            "hu": "Parkolja le kerékpárját biztonságosan a tér közelében, hogy egy kényelmes sétával, nagyon nyugodt tempóban fedezhesse fel a történelmi központ lenyűgöző sikátorait.",
+            "ro": "Parcați bicicleta în siguranță lângă piață pentru a explora pe deplin aleile fascinante ale acestui centru istoric într-un ritm foarte relaxat și fără nicio grabă.",
+            "en": "Park your bicycle securely near the main square to fully explore the fascinating cobblestone alleyways of this historic center at a very relaxed and enjoyable pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Brücke Las Tenerías",
+            "hu": "Las Tenerías Középkori Híd",
+            "ro": "Podul Medieval Las Tenerías",
+            "en": "Puente Medieval de las Tenerías"
+          },
+          "coords": [
+            -3.691381,
+            41.672114
+          ],
+          "category": "landmark",
+          "arrive_at": "11:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad über diese Brücke für spektakuläre Ausblicke auf den Duero und genießen Sie die kühle Brise, die direkt über das fließende Wasser weht.",
+            "hu": "Tolja át kerékpárját ezen a hídon a Dueróra nyíló látványos kilátásért, és élvezze a hűvös szellőt, amely közvetlenül a lassan áramló folyóvizek felett fúj.",
+            "ro": "Împingeți bicicleta peste acest pod pentru vederi spectaculoase asupra râului Duero și bucurați-vă de briza răcoroasă care suflă direct peste apele curgătoare liniștite.",
+            "en": "Dismount and walk your bike across this bridge for spectacular views of the Duero, enjoying the wonderfully cool breeze blowing directly over the flowing river waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Park General Gutiérrez",
+            "hu": "General Gutiérrez Park",
+            "ro": "Parcul General Gutiérrez",
+            "en": "Parque General Gutiérrez"
+          },
+          "coords": [
+            -3.698656,
+            41.660922
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause in dieser weitläufigen Grünanlage und bringen Sie ein kleines Picknick mit, um es im willkommenen Schatten der großen, alten Bäume zu genießen.",
+            "hu": "Tartson egy pihentető szünetet ezen a tágas zöldterületen, és hozzon magával egy kis pikniket, amelyet a hatalmas, öreg fák hűs árnyékában fogyaszthat el kényelmesen.",
+            "ro": "Luați o pauză relaxantă în acest spațiu verde vast, aducând un mic picnic pentru a vă bucura la umbra primitoare a copacilor mari și seculari care împânzesc parcul.",
+            "en": "Take a relaxing break in this expansive green space, bringing a small picnic lunch to enjoy comfortably under the incredibly welcoming shade of the mature, towering trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Aranda",
+            "hu": "Aranda Vasútmúzeum",
+            "ro": "Muzeul Feroviar Aranda",
+            "en": "Museo del Tren de Aranda de Duero"
+          },
+          "coords": [
+            -3.687534,
+            41.655017
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Eisenbahngeschichte der Region in diesem charmanten Museum und treten Sie unbedingt in die wunderschön restaurierten alten Waggons ein.",
+            "hu": "Fedezze fel a régió lenyűgöző vasúti történelmét ebben a bájos múzeumban, és mindenképpen lépjen be a gyönyörűen felújított, régi utaskocsikba egy időutazásra.",
+            "ro": "Descoperiți istoria feroviară fascinantă a regiunii în acest muzeu fermecător, asigurându-vă că pășiți în interiorul vagoanelor de epocă frumos restaurate de aici.",
+            "en": "Discover the absolutely fascinating railway history of the region in this charming museum, making certain to step inside the beautifully restored and preserved vintage cars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am historischen Bogen des alten Klosters und radeln Sie zur charmanten Villa de Aranda. Überqueren Sie mittags die alte mittelalterliche Brücke, um die Aussicht auf den Fluss zu genießen. Verbringen Sie Ihren Nachmittag entspannt im Parque General Gutiérrez. Beenden Sie Ihre Tour im Eisenbahnmuseum.",
+        "hu": "Indítsa kerékpártúráját a történelmi kolostorkapunál, majd tekerjen a hangulatos Villa de Arandához. Délben keljen át az ősi hídon, hogy megcsodálja a folyót. A kora délutánt töltse pihenéssel a Parque General Gutiérrez fáinak árnyékában. Zárja útját a vasúttörténeti múzeumban, felfedezve az ipari múltat.",
+        "ro": "Începeți plimbarea la arcul istoric al fostului convent, apoi pedalați spre fermecătoarea Villa de Aranda. La prânz, traversați vechiul pod medieval pentru priveliști asupra râului. Petreceți după-amiaza relaxându-vă în Parque General Gutiérrez cu un picnic. Încheiați turul la muzeul feroviar industrial.",
+        "en": "Kick off your ride at the historic Arco del antic convento, then cycle down to the charming Villa de Aranda. By midday, cross the ancient Puente Medieval for serene river views. Spend your early afternoon relaxing at Parque General Gutiérrez with a peaceful picnic. Conclude your active tour at the fascinating railway museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Aranda",
+            "hu": "Aranda Vasútmúzeum",
+            "ro": "Muzeul Feroviar Aranda",
+            "en": "Museo del Tren de Aranda de Duero"
+          },
+          "coords": [
+            -3.687534,
+            41.655017
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit viel Platz zum Parken an diesem abgelegenen Museum und erkunden Sie die alten Eisenbahnwaggons, bevor die größeren Reisegruppen ankommen.",
+            "hu": "Kezdje a napot bőséges parkolóhellyel ezen a félreeső múzeumban, és fedezze fel a régi vasúti kocsikat, még mielőtt a nagyobb turistacsoportok megérkeznének ide.",
+            "ro": "Începeți ziua cu spațiu generos de parcare la acest muzeu retras și explorați vagoanele vechi de tren înainte de a sosi grupurile mai mari de turiști zgomotoși.",
+            "en": "Start your day with plenty of convenient parking at this slightly removed museum, exploring the impressive vintage train cars well before the larger tourist groups arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "La Colmena Musical",
+            "hu": "La Colmena Musical",
+            "ro": "La Colmena Musical",
+            "en": "La Colmena Musical"
+          },
+          "coords": [
+            -3.710398,
+            41.656409
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen lebendigen kulturellen Veranstaltungsort, um die lokale Musikszene zu erleben, und schauen Sie sich die Pinnwand für bevorstehende Akustiksessions an.",
+            "hu": "Látogasson el ebbe a nyüzsgő kulturális térbe, hogy megtapasztalja a helyi zenei életet, és böngéssze át a faliújságot a közelgő akusztikus koncertek és események után.",
+            "ro": "Vizitați acest spațiu cultural vibrant pentru a experimenta scena muzicală locală, verificând avizierul lor pentru viitoarele sesiuni acustice sau ateliere creative.",
+            "en": "Visit this remarkably vibrant cultural venue to experience the local music scene, checking their busy notice board for any upcoming acoustic sessions or fun workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Park General Gutiérrez",
+            "hu": "General Gutiérrez Park",
+            "ro": "Parcul General Gutiérrez",
+            "en": "Parque General Gutiérrez"
+          },
+          "coords": [
+            -3.698656,
+            41.660922
+          ],
+          "category": "park",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie entlang des Perimeters und spazieren Sie durch diesen schönen offenen Raum, atmen Sie die frische Luft ein, bevor Sie sich auf den Weg in das belebte Stadtzentrum machen.",
+            "hu": "Parkoljon le a kerület mentén, és sétáljon egyet ezen a gyönyörű nyitott területen, friss levegőt szívva, mielőtt elindulna a forgalmas és nyüzsgő városközpont felé.",
+            "ro": "Parcați de-a lungul perimetrului și plimbați-vă prin acest spațiu deschis frumos, respirând aer proaspăt înainte de a vă îndrepta spre centrul aglomerat al orașului.",
+            "en": "Park easily along the quiet perimeter and stroll through this beautiful open space, breathing in the fresh air before making your way into the much busier city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa de Aranda",
+            "hu": "Villa de Aranda",
+            "ro": "Villa de Aranda",
+            "en": "Villa de Aranda"
+          },
+          "coords": [
+            -3.688811,
+            41.671448
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto auf einem nahegelegenen öffentlichen Parkplatz stehen, da diese historischen Straßen am besten zu Fuß und ohne lästige Verkehrsbedenken genossen werden.",
+            "hu": "Hagyja az autót egy közeli nyilvános parkolóban, mivel ezeket a történelmi utcákat a legjobb gyalogosan, minden forgalmi és navigációs aggodalom nélkül élvezni.",
+            "ro": "Lăsați mașina într-o parcare publică din apropiere, deoarece aceste străzi istorice se bucură cel mai bine pe jos și complet fără nicio grijă legată de traficul local.",
+            "en": "Leave your car securely in a nearby public lot, as these winding historical streets are absolutely best enjoyed on foot and without any frustrating traffic concerns."
+          }
+        },
+        {
+          "name": {
+            "de": "Duero-Tor",
+            "hu": "Duero-kapu",
+            "ro": "Poarta Duero",
+            "en": "Puerta del Duero"
+          },
+          "coords": [
+            -3.689814,
+            41.670219
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Zentrum entfernt markiert dieses Steintor das historische Ende der Stadt; nehmen Sie sich einen Moment Zeit, um seine beeindruckende Struktur zu bewundern.",
+            "hu": "A központtól csak egy rövid sétára található ez a kőkapu, amely a város történelmi végét jelzi; szánjon egy pillanatot lenyűgöző szerkezetének alapos megcsodálására.",
+            "ro": "La doar o scurtă plimbare de centru, această poartă de piatră marchează capătul istoric al orașului; alocați-vă un moment pentru a-i admira structura impresionantă.",
+            "en": "Just a short walk from the center, this sturdy stone gate marks the historical edge of the city; take a quiet moment to admire its truly impressive medieval structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogen des ehemaligen Klosters Sancti Spiritus",
+            "hu": "Egykori Sancti Spiritus Kolostor Íve",
+            "ro": "Arcul fostului convent Sancti Spiritus",
+            "en": "Arco del antiguo convento de Sancti Spiritus"
+          },
+          "coords": [
+            -3.687787,
+            41.680384
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden zu diesem ikonischen Bogen, einem großartigen letzten Stopp, um wunderbare Erinnerungsfotos vor den traditionellen steinernen Stadtwappen zu machen.",
+            "hu": "Vezessen észak felé ehhez az ikonikus boltívhez, amely nagyszerű utolsó megálló csodálatos emlékfotók készítésére a hagyományos kőből faragott városi címerek előtt.",
+            "ro": "Mergeți spre nord către acest arc iconic, o oprire finală excelentă pentru a face fotografii minunate de suvenir în fața stemelor tradiționale ale orașului din piatră.",
+            "en": "Drive north to this iconic historic archway, a genuinely great final stop to snap wonderful souvenir photos right in front of the traditional stone-carved town crests."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung des faszinierenden Eisenbahnmuseums. Fahren Sie dann zur La Colmena Musical, bevor Sie mittags im Parque General Gutiérrez spazieren gehen. Parken Sie nachmittags zentral, um die Villa de Aranda und die Puerta del Duero zu erkunden. Beenden Sie Ihren Roadtrip am Torbogen Sancti Spiritus.",
+        "hu": "Kezdje autós útját a lenyűgöző vasúti múzeumban, megalapozva Aranda történelmét. Irány a La Colmena Musical, majd egy déli séta a Parque General Gutiérrezben. Délután parkoljon le a központban, és fedezze fel a Villa de Arandát és a Puerta del Duerót. Fejezze be a napot az ősi Sancti Spiritus boltívnél.",
+        "ro": "Începeți călătoria explorând fascinantul muzeu feroviar, pregătind terenul pentru istoria bogată. Mergeți la La Colmena Musical înainte de o plimbare la prânz în Parque General Gutiérrez. După-amiaza, parcați central pentru a explora Villa de Aranda și Puerta del Duero. Terminați excursia la vechiul arc Sancti Spiritus.",
+        "en": "Start your drive exploring the fascinating railway museum, setting the stage for Aranda's history. Head to La Colmena Musical before a relaxing midday stroll in Parque General Gutiérrez. In the afternoon, park centrally to explore Villa de Aranda and Puerta del Duero. Finish your road trip at the ancient Sancti Spiritus archway."
+      }
+    }
+  }
+}

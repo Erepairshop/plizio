@@ -1,0 +1,520 @@
+{
+  "city_id": "fegersheim",
+  "anchor": {
+    "name": "Fegersheim",
+    "coords": [
+      7.6803,
+      48.4906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:38",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Fegersheim",
+            "hu": "Fegersheim Városháza",
+            "ro": "Primăria Fegersheim",
+            "en": "Fegersheim Town Hall"
+          },
+          "coords": [
+            7.679437,
+            48.489588
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
+            "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
+            "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mauritius Kirche",
+            "hu": "Szent Móric-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "St. Maurice Church"
+          },
+          "coords": [
+            7.680545,
+            48.48993
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie das historische Kirchenschiff und genießen Sie die spirituelle Stille, ideal für eine kurze Besinnung am Vormittag.",
+            "hu": "Lépjen be a történelmi főhajóba és élvezze a spirituális csendet, amely ideális egy rövid délelőtti elmélkedéshez.",
+            "ro": "Intrați în nava istorică a bisericii și bucurați-vă de liniștea spirituală, ideală pentru o scurtă reflecție de dimineață.",
+            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantische Kapelle",
+            "hu": "Protestáns kápolna",
+            "ro": "Capela protestantă",
+            "en": "Protestant Chapel"
+          },
+          "coords": [
+            7.677995,
+            48.490611
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte Eleganz dieses kleinen Gotteshauses und nutzen Sie das sanfte Licht für ein stimmungsvolles Foto im Inneren.",
+            "hu": "Figyelje meg ennek a kis kápolnának az egyszerű eleganciáját, és használja ki a lágy fényeket egy hangulatos belső fotóhoz.",
+            "ro": "Observați eleganța simplă a acestui mic lăcaș de cult și profitați de lumina blândă pentru a face o fotografie de interior reușită.",
+            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Pankratius Kirche",
+            "hu": "Szent Pongrác-templom",
+            "ro": "Biserica Sfântul Pancrațiu",
+            "en": "Église Saint-Pancrace"
+          },
+          "coords": [
+            7.662299,
+            48.488993
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
+            "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
+            "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Gallus Kirche",
+            "hu": "Szent Gál-templom",
+            "ro": "Biserica Sfântul Gallus",
+            "en": "Église Saint-Gall"
+          },
+          "coords": [
+            7.68088,
+            48.476039
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Spaziergang an diesem charmanten religiösen Ort ausklingen und achten Sie auf die historischen Grabsteine im Außenbereich.",
+            "hu": "Zárja sétáját ezen a hangulatos vallási helyszínen, és figyeljen a külső területen található történelmi sírkövekre is.",
+            "ro": "Încheiați plimbarea în acest loc religios fermecător și acordați atenție pietrelor funerare istorice aflate în zona exterioară.",
+            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Fegersheim mit einem Besuch des Rathauses und der St. Mauritius Kirche.\nGegen Mittag erkunden Sie die schlichte Schönheit der Protestantischen Kapelle, nur wenige Schritte entfernt.\nAm Nachmittag führt Sie ein gemütlicher Spaziergang zur charmanten Église Saint-Pancrace mit ihren Details.\nDer Tag endet besinnlich an der Église Saint-Gall, wo Sie die Ruhe des Ortes auf sich wirken lassen können.",
+        "hu": "Kezdje a napot Fegersheim szívében a városháza és a gyönyörű Szent Móric-templom felfedezésével.\nDél körül tekintse meg a közeli protestáns kápolna egyszerű, de annál lenyűgözőbb szépségét a központban.\nDélután egy kellemes séta vezet a bájos Szent Pongrác-templomhoz, amely egyedi építészeti részleteket rejt.\nA nap a Szent Gál-templomnál ér békés véget, ahol átadhatja magát a történelmi helyszín nyugodt csendjének.",
+        "ro": "Începeți ziua în inima orașului Fegersheim cu o vizită la primărie și la superba Biserică Sfântul Mauriciu.\nSpre prânz, explorați frumusețea simplă a Capelei protestante, aflată la doar câțiva pași de centrul orașului.\nDupă-amiaza, o plimbare plăcută vă va conduce la fermecătoarea Biserică Sfântul Pancrațiu și detaliile sale.\nZiua se încheie liniștit la Biserica Sfântul Gallus, unde vă puteți relaxa în atmosfera pașnică a locului.",
+        "en": "Start your day in the heart of Fegersheim by visiting the historic town hall and the beautiful St. Maurice Church.\nAround midday, explore the simple beauty of the Protestant Chapel, located just a few steps away in the center.\nIn the afternoon, a leisurely stroll leads you to the charming Église Saint-Pancrace with its unique details.\nThe day ends peacefully at Église Saint-Gall, where you can soak in the tranquil atmosphere of the historic site."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 6.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Ulrich Kapelle",
+            "hu": "Szent Ulrik-kápolna",
+            "ro": "Capela Sfântul Ulric",
+            "en": "St. Ulrich Chapel"
+          },
+          "coords": [
+            7.695892,
+            48.494239
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Lage dieser historischen Kapelle am Rande der Stadt, ein perfekter Startpunkt für Ihre entspannte Fahrradtour.",
+            "hu": "Élvezze a történelmi kápolna csendes elhelyezkedését a város szélén, amely tökéletes kiindulópontja a pihentető kerékpártúrának.",
+            "ro": "Bucurați-vă de locația liniștită a acestei capele istorice la marginea orașului, un punct de plecare perfect pentru turul dumneavoastră.",
+            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Fegersheim",
+            "hu": "Fegersheim Városháza",
+            "ro": "Primăria Fegersheim",
+            "en": "Fegersheim Town Hall"
+          },
+          "coords": [
+            7.679437,
+            48.489588
+          ],
+          "category": "civic",
+          "arrive_at": "09:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
+            "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
+            "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantische Kapelle",
+            "hu": "Protestáns kápolna",
+            "ro": "Capela protestantă",
+            "en": "Protestant Chapel"
+          },
+          "coords": [
+            7.677995,
+            48.490611
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte Eleganz dieses kleinen Gotteshauses und nutzen Sie das sanfte Licht für ein stimmungsvolles Foto im Inneren.",
+            "hu": "Figyelje meg ennek a kis kápolnának az egyszerű eleganciáját, és használja ki a lágy fényeket egy hangulatos belső fotóhoz.",
+            "ro": "Observați eleganța simplă a acestui mic lăcaș de cult și profitați de lumina blândă pentru a face o fotografie de interior reușită.",
+            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Pankratius Kirche",
+            "hu": "Szent Pongrác-templom",
+            "ro": "Biserica Sfântul Pancrațiu",
+            "en": "Église Saint-Pancrace"
+          },
+          "coords": [
+            7.662299,
+            48.488993
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
+            "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
+            "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ludan Kapelle",
+            "hu": "Szent Ludan-kápolna",
+            "ro": "Capela Sfântul Ludan",
+            "en": "Chapelle Saint-Ludan"
+          },
+          "coords": [
+            7.665746,
+            48.467923
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses besondere Wahrzeichen und spazieren Sie kurz um die Anlage, um die charakteristische Architektur vollständig zu erfassen.",
+            "hu": "Látogasson el ehhez a különleges nevezetességhez, és sétáljon egyet az épület körül, hogy teljesen befogadja a jellegzetes építészetet.",
+            "ro": "Vizitați acest punct de reper special și faceți o scurtă plimbare în jurul clădirii pentru a admira pe deplin arhitectura sa caracteristică.",
+            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Wendelin Kapelle",
+            "hu": "Szent Wendelin-kápolna",
+            "ro": "Capela Sfântul Wendelin",
+            "en": "Chapelle Saint-Wendelin"
+          },
+          "coords": [
+            7.675954,
+            48.466844
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kleine ländliche Juwel und legen Sie hier eine kurze Trinkpause ein, bevor Sie Ihre Fahrt in die Natur fortsetzen.",
+            "hu": "Fedezze fel ezt a kis vidéki ékszert, és tartson itt egy rövid ivószünetet, mielőtt folytatná útját a természet lágy ölén.",
+            "ro": "Explorați această mică bijuterie rurală și faceți o scurtă pauză de hidratare aici înainte de a vă continua drumul în natură.",
+            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügelgrab (Tumulus)",
+            "hu": "Halomsír (Tumulus)",
+            "ro": "Tumul",
+            "en": "Tumulus"
+          },
+          "coords": [
+            7.690724,
+            48.467661
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses faszinierende prähistorische Denkmal und lesen Sie die Informationstafeln, um mehr über die frühe Besiedlung zu erfahren.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelem előtti emlékművet, és olvassa el a tájékoztató táblákat, hogy többet megtudjon a korai településről.",
+            "ro": "Admirați acest fascinant monument preistoric și citiți panourile informative pentru a afla mai multe despre așezările umane timpurii.",
+            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Rand von Fegersheim an der St. Ulrich Kapelle, bevor Sie ins Zentrum zum Rathaus radeln.\nMittags verbinden Sie Kultur und Bewegung mit Stopps an der Protestantischen Kapelle und der St. Pankratius Kirche.\nAm Nachmittag verlassen Sie den Kern und besuchen die idyllischen Kapellen St. Ludan und St. Wendelin.\nDer Ausflug gipfelt in einem Besuch des prähistorischen Tumulus, wo die faszinierende Geschichte lebendig wird.",
+        "hu": "Induljon Fegersheim széléről, a Szent Ulrik-kápolnától, mielőtt a központba, a városházához kerékpározna.\nDélben ötvözze a kultúrát a mozgással a protestáns kápolna és a Szent Pongrác-templom meglátogatásával.\nDélután hagyja el a központot, és látogasson el az idilli Szent Ludan- és Szent Wendelin-kápolnákhoz a természetben.\nA kirándulás a történelem előtti halomsírnál csúcsosodik ki, ahol a múlt lenyűgöző emlékei elevenednek meg.",
+        "ro": "Începeți la marginea orașului Fegersheim, la Capela Sfântul Ulric, înainte de a pedala spre primăria din centru.\nLa prânz, îmbinați cultura și mișcarea cu opriri la Capela protestantă și la Biserica Sfântul Pancrațiu.\nDupă-amiaza, părăsiți centrul pentru a vizita capelele idilice Sfântul Ludan și Sfântul Wendelin din apropiere.\nExcursia culminează cu o vizită la tumulul preistoric, unde istoria fascinantă a regiunii prinde viață.",
+        "en": "Start on the outskirts of Fegersheim at St. Ulrich Chapel before cycling into the center to see the town hall.\nAt midday, combine culture and exercise with stops at the Protestant Chapel and the lovely Église Saint-Pancrace.\nIn the afternoon, leave the core behind to visit the idyllic Chapelle Saint-Ludan and Chapelle Saint-Wendelin.\nThe excursion culminates in a visit to the prehistoric Tumulus, where the region's fascinating history comes alive."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 8.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hügelgrab (Tumulus)",
+            "hu": "Halomsír (Tumulus)",
+            "ro": "Tumul",
+            "en": "Tumulus"
+          },
+          "coords": [
+            7.690724,
+            48.467661
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses faszinierende prähistorische Denkmal und lesen Sie die Informationstafeln, um mehr über die frühe Besiedlung zu erfahren.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelem előtti emlékművet, és olvassa el a tájékoztató táblákat, hogy többet megtudjon a korai településről.",
+            "ro": "Admirați acest fascinant monument preistoric și citiți panourile informative pentru a afla mai multe despre așezările umane timpurii.",
+            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Wendelin Kapelle",
+            "hu": "Szent Wendelin-kápolna",
+            "ro": "Capela Sfântul Wendelin",
+            "en": "Chapelle Saint-Wendelin"
+          },
+          "coords": [
+            7.675954,
+            48.466844
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kleine ländliche Juwel und legen Sie hier eine kurze Trinkpause ein, bevor Sie Ihre Fahrt in die Natur fortsetzen.",
+            "hu": "Fedezze fel ezt a kis vidéki ékszert, és tartson itt egy rövid ivószünetet, mielőtt folytatná útját a természet lágy ölén.",
+            "ro": "Explorați această mică bijuterie rurală și faceți o scurtă pauză de hidratare aici înainte de a vă continua drumul în natură.",
+            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ludan Kapelle",
+            "hu": "Szent Ludan-kápolna",
+            "ro": "Capela Sfântul Ludan",
+            "en": "Chapelle Saint-Ludan"
+          },
+          "coords": [
+            7.665746,
+            48.467923
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses besondere Wahrzeichen und spazieren Sie kurz um die Anlage, um die charakteristische Architektur vollständig zu erfassen.",
+            "hu": "Látogasson el ehhez a különleges nevezetességhez, és sétáljon egyet az épület körül, hogy teljesen befogadja a jellegzetes építészetet.",
+            "ro": "Vizitați acest punct de reper special și faceți o scurtă plimbare în jurul clădirii pentru a admira pe deplin arhitectura sa caracteristică.",
+            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Gallus Kirche",
+            "hu": "Szent Gál-templom",
+            "ro": "Biserica Sfântul Gallus",
+            "en": "Église Saint-Gall"
+          },
+          "coords": [
+            7.68088,
+            48.476039
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Spaziergang an diesem charmanten religiösen Ort ausklingen und achten Sie auf die historischen Grabsteine im Außenbereich.",
+            "hu": "Zárja sétáját ezen a hangulatos vallási helyszínen, és figyeljen a külső területen található történelmi sírkövekre is.",
+            "ro": "Încheiați plimbarea în acest loc religios fermecător și acordați atenție pietrelor funerare istorice aflate în zona exterioară.",
+            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Pankratius Kirche",
+            "hu": "Szent Pongrác-templom",
+            "ro": "Biserica Sfântul Pancrațiu",
+            "en": "Église Saint-Pancrace"
+          },
+          "coords": [
+            7.662299,
+            48.488993
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
+            "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
+            "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Fegersheim",
+            "hu": "Fegersheim Városháza",
+            "ro": "Primăria Fegersheim",
+            "en": "Fegersheim Town Hall"
+          },
+          "coords": [
+            7.679437,
+            48.489588
+          ],
+          "category": "civic",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
+            "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
+            "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mauritius Kirche",
+            "hu": "Szent Móric-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "St. Maurice Church"
+          },
+          "coords": [
+            7.680545,
+            48.48993
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie das historische Kirchenschiff und genießen Sie die spirituelle Stille, ideal für eine kurze Besinnung am Vormittag.",
+            "hu": "Lépjen be a történelmi főhajóba és élvezze a spirituális csendet, amely ideális egy rövid délelőtti elmélkedéshez.",
+            "ro": "Intrați în nava istorică a bisericii și bucurați-vă de liniștea spirituală, ideală pentru o scurtă reflecție de dimineață.",
+            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ulrich Kapelle",
+            "hu": "Szent Ulrik-kápolna",
+            "ro": "Capela Sfântul Ulric",
+            "en": "St. Ulrich Chapel"
+          },
+          "coords": [
+            7.695892,
+            48.494239
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Lage dieser historischen Kapelle am Rande der Stadt, ein perfekter Startpunkt für Ihre entspannte Fahrradtour.",
+            "hu": "Élvezze a történelmi kápolna csendes elhelyezkedését a város szélén, amely tökéletes kiindulópontja a pihentető kerékpártúrának.",
+            "ro": "Bucurați-vă de locația liniștită a acestei capele istorice la marginea orașului, un punct de plecare perfect pentru turul dumneavoastră.",
+            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am prähistorischen Tumulus und fahren Sie dann zur ländlichen St. Wendelin Kapelle.\nGegen Mittag erkunden Sie das Wahrzeichen Chapelle Saint-Ludan und setzen die Fahrt zur Église Saint-Gall fort.\nNachmittags besuchen Sie die Église Saint-Pancrace und fahren ins Zentrum zum charmanten Rathaus von Fegersheim.\nDer Tag endet an der St. Mauritius Kirche und der St. Ulrich Kapelle, die den historischen Kreis schließen.",
+        "hu": "Kezdje autós túráját a történelem előtti halomsírnál, majd utazzon tovább a vidéki Szent Wendelin-kápolnához.\nDél körül fedezze fel a Szent Ludan-kápolnát, és folytassa útját a lenyűgöző Szent Gál-templom felé.\nDélután látogasson el a Szent Pongrác-templomhoz, majd hajtson be a központba, a fegersheimi városházához.\nA nap a Szent Móric-templomnál és a Szent Ulrik-kápolnánál zárul, amelyek teljessé teszik a történelmi utazást.",
+        "ro": "Începeți excursia cu mașina la tumulul preistoric, apoi mergeți spre capela rurală Sfântul Wendelin din apropiere.\nSpre prânz, explorați Capela Sfântul Ludan și continuați călătoria către impresionanta Biserică Sfântul Gallus.\nDupă-amiaza, vizitați Biserica Sfântul Pancrațiu și mergeți în centrul orașului la primăria din Fegersheim.\nZiua se încheie la Biserica Sfântul Mauriciu și la Capela Sfântul Ulric, care completează perfect circuitul.",
+        "en": "Start your road trip at the prehistoric Tumulus, then drive to the nearby rural Chapelle Saint-Wendelin.\nAround midday, explore Chapelle Saint-Ludan and continue your scenic drive toward the impressive Église Saint-Gall.\nIn the afternoon, visit Église Saint-Pancrace and head into the town center to see the Fegersheim Town Hall.\nThe day ends at St. Maurice Church and St. Ulrich Chapel, which perfectly complete your historical journey."
+      }
+    }
+  }
+}

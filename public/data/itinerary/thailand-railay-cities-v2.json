@@ -1,0 +1,497 @@
+{
+  "city_id": "thailand-railay-cities-v2",
+  "anchor": {
+    "name": "Railay",
+    "coords": [
+      98.83798,
+      8.01127
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 3.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Rai Le",
+            "hu": "Ao Rai Le",
+            "ro": "Ao Rai Le",
+            "en": "Ao Rai Le"
+          },
+          "coords": [
+            98.837316,
+            8.012002
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit Blick auf die majestätischen Karstfelsen und vergessen Sie nicht, frühzeitig Sonnencreme aufzutragen, um einen Sonnenbrand zu vermeiden.",
+            "hu": "Pihenjen a finom homokos strandon, ahonnan fenséges karsztsziklákat láthat, és ne felejtsen el időben naptejjel gondoskodni a védelemről, hogy elkerülje az erős trópusi leégést.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin, admirând stâncile carstice maiestuoase, și nu uitați să aplicați o cremă de protecție solară din timp pentru a evita arsurile solare severe.",
+            "en": "Relax on the fine sandy beach while enjoying stunning views of the majestic karst cliffs, and don't forget to apply sunscreen early to avoid the strong midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Phra Nang Nai Höhle",
+            "hu": "Phra Nang Nai barlang",
+            "ro": "Peștera Phra Nang Nai",
+            "en": "Phra Nang Nai Cave"
+          },
+          "coords": [
+            98.841997,
+            8.013401
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Stalaktiten und glitzernden Felsformationen im kühlen Inneren, aber tragen Sie dabei auf jeden Fall geschlossene und rutschfeste Wanderschuhe.",
+            "hu": "Fedezze fel a lenyűgöző cseppköveket és csillogó sziklaképződményeket a barlang hűvös belsejében, de a biztonság érdekében mindenképpen viseljen zárt és csúszásmentes cipőt.",
+            "ro": "Descoperiți stalactitele impresionante și formațiunile stâncoase sclipitoare în interiorul răcoros al peșterii, dar asigurați-vă că purtați o încălțăminte antiderapantă sigură.",
+            "en": "Discover the impressive stalactites and glittering rock formations inside the naturally cool cave interior, but make sure to wear sturdy, slip-resistant shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Raile Tawan Ok Strand",
+            "hu": "Raile Tawan Ok strand",
+            "ro": "Plaja Raile Tawan Ok",
+            "en": "Raile Tawan Ok Beach"
+          },
+          "coords": [
+            98.841114,
+            8.009188
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Unternehmen Sie einen ruhigen Spaziergang entlang des schlammigen Mangrovenstrandes, der ideal für Naturbeobachtungen ist, und planen Sie den Besuch am besten bei Flut ein.",
+            "hu": "Tegyen egy nyugodt sétát az iszapos mangrovestrandon, amely abszolút ideális a természet megfigyelésére, és a látogatást érdemes a kényelmesen magas dagály idejére időzítenie.",
+            "ro": "Faceți o plimbare liniștită de-a lungul plajei noroioase cu mangrove, absolut ideală pentru observarea naturii, și încercați să vă planificați vizita în timpul fluxului ridicat.",
+            "en": "Take a tranquil walk along the muddy mangrove beach which is absolutely ideal for nature observation, and try to plan your visit here when the tide is comfortably high."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phra Nang",
+            "hu": "Ao Phra Nang",
+            "ro": "Ao Phra Nang",
+            "en": "Ao Phra Nang"
+          },
+          "coords": [
+            98.83817,
+            8.005878
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Genießen Sie das Schwimmen im kristallklaren Wasser und den weichen Sand vor einer traumhaften tropischen Kulisse, und kommen Sie früh, um die besten Schattenplätze zu ergattern.",
+            "hu": "Élvezze az úszást a kristálytiszta vízben és a púderfinomságú homokot a lenyűgöző trópusi díszlet előtt, és érkezzen korán, hogy a legjobb árnyékos helyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de înotul în apa cristalină și de nisipul fin pe un fundal tropical absolut superb și ajungeți devreme pentru a prinde cele mai bune locuri relaxante la umbră.",
+            "en": "Enjoy swimming in the crystal-clear water and relaxing on powdery sand against a stunning tropical backdrop, and arrive early to secure the best spots in the cool shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Phra Nang Schrein",
+            "hu": "Phra Nang szentély",
+            "ro": "Sanctuarul Phra Nang",
+            "en": "Phra Nang Shrine"
+          },
+          "coords": [
+            98.840261,
+            8.004547
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie die große Sammlung an hölzernen Phallus-Symbolen, die von lokalen Fischern als farbenfrohe und einzigartige kulturelle Opfergaben für Fruchtbarkeit hinterlassen wurden.",
+            "hu": "Csodálja meg a halászok által hagyott rengeteg fából készült fallikus szimbólumot, amelyek rendkívül színes és egyedi kulturális felajánlások a termékenység és a biztonság érdekében.",
+            "ro": "Admirați colecția mare de simboluri falice din lemn lăsate de pescarii locali ca ofrande culturale incredibil de unice și colorate pentru fertilitate și călătorii mereu sigure.",
+            "en": "Admire the large collection of wooden phallic symbols left by local fishermen as colorful, incredibly unique cultural offerings meant to ensure fertility and safe journeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Ton Sai Strand",
+            "hu": "Ton Sai strand",
+            "ro": "Plaja Ton Sai",
+            "en": "Ton Sai Beach"
+          },
+          "coords": [
+            98.833768,
+            8.017066
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Beobachten Sie erfahrene Kletterer an den extrem steilen Karstfelsen in einer sehr entspannten, alternativen Atmosphäre und probieren Sie einen erfrischenden Drink in einer Reggae-Bar.",
+            "hu": "Figyelje meg az elképesztően meredek karsztsziklákat meghódító mászókat egy nagyon laza, alternatív hangulatban, és próbáljon ki egy frissítő italt az egyik közeli reggae bárban.",
+            "ro": "Urmăriți alpiniștii experimentați pe stâncile carstice incredibil de abrupte într-o atmosferă foarte relaxată, alternativă, și savurați o băutură răcoritoare la un bar reggae.",
+            "en": "Watch skilled rock climbers tackling the incredibly steep karst cliffs in a very relaxed, alternative atmosphere, and try a refreshing drink at one of the nearby reggae bars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Ao Rai Le Beach, wo das sanfte Morgenlicht die imposanten Kalksteinfelsen erhellt. Die entspannte Stimmung lädt zum Verweilen ein. Gegen Mittag tauchen Sie in die kühle Atmosphäre der Phra Nang Nai Höhle ein und bewundern die Stalaktiten, bevor Sie zum Mangrovenstrand Raile Tawan Ok weiterziehen. Am Nachmittag entspannen Sie am malerischen Ao Phra Nang und besuchen den einzigartigen Phra Nang Schrein mit seinen Opfergaben. Der Abend klingt am Ton Sai Beach bei einem fantastischen Sonnenuntergang aus.",
+        "hu": "Kezdje a napot az Ao Rai Le strandon, ahol a lágy reggeli fény megvilágítja az impozáns mészkősziklákat. Dél körül merüljön el a Phra Nang Nai barlang hűvös atmoszférájában, és csodálja meg a cseppköveket, mielőtt a Raile Tawan Ok mangrovestrand felé indul. Délután pihenjen a festői Ao Phra Nangon, és látogassa meg az egyedülálló Phra Nang szentélyt a különleges felajánlásokkal. Az estét a Ton Sai strandon zárja, miközben egy fantasztikus naplementében gyönyörködik.",
+        "ro": "Începeți ziua la plaja Ao Rai Le, unde lumina blândă a dimineții iluminează stâncile impunătoare de calcar. Spre prânz, pătrundeți în atmosfera răcoroasă a Peșterii Phra Nang Nai pentru a admira stalactitele, înainte de a explora mangrovele de la Raile Tawan Ok. După-amiaza relaxați-vă pe pitorescul Ao Phra Nang și vizitați sanctuarul inedit Phra Nang cu ofrandele sale unice. Seara se încheie pe plaja Ton Sai, admirând un apus de soare fantastic pe fundalul stâncilor.",
+        "en": "Start your day at Ao Rai Le Beach, where the soft morning light illuminates the imposing limestone cliffs, creating a truly magical atmosphere. Around midday, dive into the cool environment of the Phra Nang Nai Cave to admire the stunning stalactites before heading to the Raile Tawan Ok mangroves. In the afternoon, relax at the picturesque Ao Phra Nang and visit the fascinating Phra Nang Shrine with its unique wooden offerings. The evening ends beautifully at Ton Sai Beach with a stunning tropical sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 2.99,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Little Rai Ley East Strand",
+            "hu": "Little Rai Ley East strand",
+            "ro": "Plaja Little Rai Ley East",
+            "en": "Little Rai Ley East Beach"
+          },
+          "coords": [
+            98.848446,
+            8.013201
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den üblichen Touristenmassen an diesem herrlich ruhigen Küstenabschnitt, der perfekt für Morgenspaziergänge ist, und bringen Sie ausreichend Insektenspray mit.",
+            "hu": "Meneküljön el a megszokott turistatömegek elől ezen a csodálatosan csendes partszakaszon, amely tökéletes a reggeli sétákhoz, és mindenképpen hozzon magával jó szúnyogriasztót.",
+            "ro": "Scăpați de aglomerațiile turistice obișnuite pe această porțiune de coastă încântător de liniștită, perfectă pentru plimbări matinale, și aduceți un spray repelent de insecte.",
+            "en": "Escape the usual tourist crowds at this delightfully quiet stretch of coastline that is perfect for morning walks, and be sure to bring insect repellent for the mangroves."
+          }
+        },
+        {
+          "name": {
+            "de": "Phra Nang Nai Höhle",
+            "hu": "Phra Nang Nai barlang",
+            "ro": "Peștera Phra Nang Nai",
+            "en": "Phra Nang Nai Cave"
+          },
+          "coords": [
+            98.841997,
+            8.013401
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Stalaktiten und glitzernden Felsformationen im kühlen Inneren, aber tragen Sie dabei auf jeden Fall geschlossene und rutschfeste Wanderschuhe.",
+            "hu": "Fedezze fel a lenyűgöző cseppköveket és csillogó sziklaképződményeket a barlang hűvös belsejében, de a biztonság érdekében mindenképpen viseljen zárt és csúszásmentes cipőt.",
+            "ro": "Descoperiți stalactitele impresionante și formațiunile stâncoase sclipitoare în interiorul răcoros al peșterii, dar asigurați-vă că purtați o încălțăminte antiderapantă sigură.",
+            "en": "Discover the impressive stalactites and glittering rock formations inside the naturally cool cave interior, but make sure to wear sturdy, slip-resistant shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Tufa Höhle",
+            "hu": "Tufa barlang",
+            "ro": "Peștera Tufa",
+            "en": "Tufa Cave"
+          },
+          "coords": [
+            98.838288,
+            8.017665
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie die auffallend schönen, kalkhaltigen Felsstrukturen abseits der typischen Touristenpfade, und nehmen Sie unbedingt eine gute Taschenlampe für die Erkundung mit.",
+            "hu": "Fedezze fel a feltűnően szép, mészköves sziklastruktúrákat a tipikus turistautakon kissé kívül, és feltétlenül vigyen magával egy jó zseblámpát a biztonságos felfedezéshez.",
+            "ro": "Descoperiți structurile stâncoase calcaroase izbitor de frumoase, situate puțin în afara traseului turistic tipic, și asigurați-vă că aduceți o lanternă bună pentru explorare.",
+            "en": "Discover the strikingly beautiful calcareous rock structures located slightly off the typical tourist path, and be absolutely sure to bring a good flashlight for your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Rai Le",
+            "hu": "Ao Rai Le",
+            "ro": "Ao Rai Le",
+            "en": "Ao Rai Le"
+          },
+          "coords": [
+            98.837316,
+            8.012002
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit Blick auf die majestätischen Karstfelsen und vergessen Sie nicht, frühzeitig Sonnencreme aufzutragen, um einen Sonnenbrand zu vermeiden.",
+            "hu": "Pihenjen a finom homokos strandon, ahonnan fenséges karsztsziklákat láthat, és ne felejtsen el időben naptejjel gondoskodni a védelemről, hogy elkerülje az erős trópusi leégést.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin, admirând stâncile carstice maiestuoase, și nu uitați să aplicați o cremă de protecție solară din timp pentru a evita arsurile solare severe.",
+            "en": "Relax on the fine sandy beach while enjoying stunning views of the majestic karst cliffs, and don't forget to apply sunscreen early to avoid the strong midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Raile Tawan Ok Strand",
+            "hu": "Raile Tawan Ok strand",
+            "ro": "Plaja Raile Tawan Ok",
+            "en": "Raile Tawan Ok Beach"
+          },
+          "coords": [
+            98.841114,
+            8.009188
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Unternehmen Sie einen ruhigen Spaziergang entlang des schlammigen Mangrovenstrandes, der ideal für Naturbeobachtungen ist, und planen Sie den Besuch am besten bei Flut ein.",
+            "hu": "Tegyen egy nyugodt sétát az iszapos mangrovestrandon, amely abszolút ideális a természet megfigyelésére, és a látogatást érdemes a kényelmesen magas dagály idejére időzítenie.",
+            "ro": "Faceți o plimbare liniștită de-a lungul plajei noroioase cu mangrove, absolut ideală pentru observarea naturii, și încercați să vă planificați vizita în timpul fluxului ridicat.",
+            "en": "Take a tranquil walk along the muddy mangrove beach which is absolutely ideal for nature observation, and try to plan your visit here when the tide is comfortably high."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phra Nang",
+            "hu": "Ao Phra Nang",
+            "ro": "Ao Phra Nang",
+            "en": "Ao Phra Nang"
+          },
+          "coords": [
+            98.83817,
+            8.005878
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Genießen Sie das Schwimmen im kristallklaren Wasser und den weichen Sand vor einer traumhaften tropischen Kulisse, und kommen Sie früh, um die besten Schattenplätze zu ergattern.",
+            "hu": "Élvezze az úszást a kristálytiszta vízben és a púderfinomságú homokot a lenyűgöző trópusi díszlet előtt, és érkezzen korán, hogy a legjobb árnyékos helyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de înotul în apa cristalină și de nisipul fin pe un fundal tropical absolut superb și ajungeți devreme pentru a prinde cele mai bune locuri relaxante la umbră.",
+            "en": "Enjoy swimming in the crystal-clear water and relaxing on powdery sand against a stunning tropical backdrop, and arrive early to secure the best spots in the cool shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag startet friedlich am ruhigen Little Rai Ley East Beach, wo die Natur langsam erwacht. Anschließend fahren Sie zur Phra Nang Nai Höhle. Gegen Mittag erkunden Sie die faszinierenden Formationen der Tufa Höhle im kühlen Schatten und radeln weiter zum belebten Ao Rai Le. Der Nachmittag bietet eine malerische Fahrt zum Mangrovenwald am Raile Tawan Ok und mündet in pure Entspannung. Abends genießen Sie den weichen Sand und die spektakuläre Kulisse des Ao Phra Nang Strandes beim Sonnenuntergang.",
+        "hu": "A délelőtt békésen indul a csendes Little Rai Ley East strandon, majd a Phra Nang Nai barlang lenyűgöző formációinak felfedezésével folytatódik. Dél körül bejárja a Tufa barlangot a hűvös árnyékban, majd tovább kerékpározik a nyüzsgő Ao Rai Le felé. A délután festői utazást kínál a Raile Tawan Ok mangrovezdejéhez, amely tiszta kikapcsolódást nyújt. Este élvezheti a puha homokot és az Ao Phra Nang látványos naplementéjét a trópusi tengerparton.",
+        "ro": "Dimineața începe pașnic pe plaja liniștită Little Rai Ley East, explorând apoi formațiunile spectaculoase din Peștera Phra Nang Nai. La prânz explorați structurile fascinante din Peștera Tufa la umbră răcoroasă și pedalați mai departe spre animatul Ao Rai Le. După-amiaza vă oferă o plimbare pitorească spre pădurea de mangrove de la Raile Tawan Ok, perfectă pentru relaxare. Seara bucurați-vă de nisipul fin și de apusul spectaculos pe fundalul tropical de la Ao Phra Nang.",
+        "en": "The morning starts peacefully at the quiet Little Rai Ley East Beach before cycling towards the impressive natural formations of the Phra Nang Nai Cave. Around midday, explore the fascinating rock structures of the Tufa Cave in the cool shade, then ride on to the lively Ao Rai Le. The afternoon offers a highly scenic journey along the mangrove forests at Raile Tawan Ok, perfect for nature lovers. In the evening, soak in the stunning sunset views and soft sands at the iconic Ao Phra Nang beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 4.73,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Khao Ao Nam Mao",
+            "hu": "Khao Ao Nam Mao",
+            "ro": "Khao Ao Nam Mao",
+            "en": "Khao Ao Nam Mao"
+          },
+          "coords": [
+            98.846639,
+            8.034361
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den wahrhaft atemberaubenden Panoramablick auf das ruhige Meer und die aufragenden Kalksteinfelsen, und packen Sie unbedingt viel Wasser für diesen Naturpfad ein.",
+            "hu": "Élvezze a valóban lélegzetelállító panorámát a nyugodt tengerre és a magasodó mészkősziklákra az útvonal mentén, és pakoljon elég vizet ehhez a festői természetjáró ösvényhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice cu adevărat uimitoare asupra mării liniștite și a stâncilor falnice de-a lungul acestui traseu și asigurați-vă că aveți suficientă apă.",
+            "en": "Enjoy the truly breathtaking panoramic views of the calm sea and towering limestone cliffs along this route, and pack plenty of water for navigating the scenic nature trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Ao Nang",
+            "hu": "Khao Ao Nang",
+            "ro": "Khao Ao Nang",
+            "en": "Khao Ao Nang"
+          },
+          "coords": [
+            98.83575,
+            8.026222
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.51,
+          "tip_5lang": {
+            "de": "Unternehmen Sie eine lohnende Wanderung entlang der beeindruckenden Küstenformationen mit weitem Blick auf die Andamanensee und planen Sie ausreichend Zeit für Pausen ein.",
+            "hu": "Tegyen egy hálás túrát a lenyűgöző part menti képződmények mentén, elsöprő kilátással az Andamán-tengerre, és feltétlenül szánjon elegendő időt a pihentető szünetekre.",
+            "ro": "Faceți o drumeție satisfăcătoare de-a lungul formațiunilor de coastă impresionante, cu vederi ample spre Marea Andaman, și asigurați-vă că programați timp pentru pauze relaxante.",
+            "en": "Take a rewarding hike along the impressive coastal formations featuring sweeping views of the Andaman Sea, and make sure to schedule enough time for several relaxing breaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Tufa Höhle",
+            "hu": "Tufa barlang",
+            "ro": "Peștera Tufa",
+            "en": "Tufa Cave"
+          },
+          "coords": [
+            98.838288,
+            8.017665
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Entdecken Sie die auffallend schönen, kalkhaltigen Felsstrukturen abseits der typischen Touristenpfade, und nehmen Sie unbedingt eine gute Taschenlampe für die Erkundung mit.",
+            "hu": "Fedezze fel a feltűnően szép, mészköves sziklastruktúrákat a tipikus turistautakon kissé kívül, és feltétlenül vigyen magával egy jó zseblámpát a biztonságos felfedezéshez.",
+            "ro": "Descoperiți structurile stâncoase calcaroase izbitor de frumoase, situate puțin în afara traseului turistic tipic, și asigurați-vă că aduceți o lanternă bună pentru explorare.",
+            "en": "Discover the strikingly beautiful calcareous rock structures located slightly off the typical tourist path, and be absolutely sure to bring a good flashlight for your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Ton Sai Strand",
+            "hu": "Ton Sai strand",
+            "ro": "Plaja Ton Sai",
+            "en": "Ton Sai Beach"
+          },
+          "coords": [
+            98.833768,
+            8.017066
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie erfahrene Kletterer an den extrem steilen Karstfelsen in einer sehr entspannten, alternativen Atmosphäre und probieren Sie einen erfrischenden Drink in einer Reggae-Bar.",
+            "hu": "Figyelje meg az elképesztően meredek karsztsziklákat meghódító mászókat egy nagyon laza, alternatív hangulatban, és próbáljon ki egy frissítő italt az egyik közeli reggae bárban.",
+            "ro": "Urmăriți alpiniștii experimentați pe stâncile carstice incredibil de abrupte într-o atmosferă foarte relaxată, alternativă, și savurați o băutură răcoritoare la un bar reggae.",
+            "en": "Watch skilled rock climbers tackling the incredibly steep karst cliffs in a very relaxed, alternative atmosphere, and try a refreshing drink at one of the nearby reggae bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Rai Le",
+            "hu": "Ao Rai Le",
+            "ro": "Ao Rai Le",
+            "en": "Ao Rai Le"
+          },
+          "coords": [
+            98.837316,
+            8.012002
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit Blick auf die majestätischen Karstfelsen und vergessen Sie nicht, frühzeitig Sonnencreme aufzutragen, um einen Sonnenbrand zu vermeiden.",
+            "hu": "Pihenjen a finom homokos strandon, ahonnan fenséges karsztsziklákat láthat, és ne felejtsen el időben naptejjel gondoskodni a védelemről, hogy elkerülje az erős trópusi leégést.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin, admirând stâncile carstice maiestuoase, și nu uitați să aplicați o cremă de protecție solară din timp pentru a evita arsurile solare severe.",
+            "en": "Relax on the fine sandy beach while enjoying stunning views of the majestic karst cliffs, and don't forget to apply sunscreen early to avoid the strong midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Raile Tawan Ok Strand",
+            "hu": "Raile Tawan Ok strand",
+            "ro": "Plaja Raile Tawan Ok",
+            "en": "Raile Tawan Ok Beach"
+          },
+          "coords": [
+            98.841114,
+            8.009188
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Unternehmen Sie einen ruhigen Spaziergang entlang des schlammigen Mangrovenstrandes, der ideal für Naturbeobachtungen ist, und planen Sie den Besuch am besten bei Flut ein.",
+            "hu": "Tegyen egy nyugodt sétát az iszapos mangrovestrandon, amely abszolút ideális a természet megfigyelésére, és a látogatást érdemes a kényelmesen magas dagály idejére időzítenie.",
+            "ro": "Faceți o plimbare liniștită de-a lungul plajei noroioase cu mangrove, absolut ideală pentru observarea naturii, și încercați să vă planificați vizita în timpul fluxului ridicat.",
+            "en": "Take a tranquil walk along the muddy mangrove beach which is absolutely ideal for nature observation, and try to plan your visit here when the tide is comfortably high."
+          }
+        },
+        {
+          "name": {
+            "de": "Phra Nang Schrein",
+            "hu": "Phra Nang szentély",
+            "ro": "Sanctuarul Phra Nang",
+            "en": "Phra Nang Shrine"
+          },
+          "coords": [
+            98.840261,
+            8.004547
+          ],
+          "category": "landmark",
+          "arrive_at": "16:01",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bewundern Sie die große Sammlung an hölzernen Phallus-Symbolen, die von lokalen Fischern als farbenfrohe und einzigartige kulturelle Opfergaben für Fruchtbarkeit hinterlassen wurden.",
+            "hu": "Csodálja meg a halászok által hagyott rengeteg fából készült fallikus szimbólumot, amelyek rendkívül színes és egyedi kulturális felajánlások a termékenység és a biztonság érdekében.",
+            "ro": "Admirați colecția mare de simboluri falice din lemn lăsate de pescarii locali ca ofrande culturale incredibil de unice și colorate pentru fertilitate și călătorii mereu sigure.",
+            "en": "Admire the large collection of wooden phallic symbols left by local fishermen as colorful, incredibly unique cultural offerings meant to ensure fertility and safe journeys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag mit der weiten Aussicht vom Khao Ao Nam Mao und genießen die frische Brise. Die Route führt Sie weiter zum spektakulären Khao Ao Nang. Mittags tauchen Sie kurz in die Kühle der Tufa Höhle ein, bevor Sie den lebhaften Ton Sai Beach für ein entspanntes Mittagessen besuchen. Nachmittags erwartet Sie das blaue Wasser am Ao Rai Le und ein entspannter Spaziergang am Raile Tawan Ok. Der Tag endet magisch am Phra Nang Schrein, wo Tradition und ein atemberaubender Strand aufeinandertreffen.",
+        "hu": "A napot a Khao Ao Nam Mao tágas kilátásával kezdi, majd a lenyűgöző Khao Ao Nang sziklaformációihoz vezet az útja. Délben röviden elmerül a Tufa barlang hűvösségében, mielőtt a nyüzsgő Ton Sai strandon ebédelne egy hangulatos helyen. Délután az Ao Rai Le kék vize és egy pihentető séta várja a Raile Tawan Ok strandon. A nap varázslatosan ér véget a Phra Nang szentélynél, ahol a hagyományok és a lélegzetelállító tengerpart találkozik egy lenyűgöző naplementében.",
+        "ro": "Începeți ziua admirând priveliștile largi de la Khao Ao Nam Mao, continuând apoi spre spectaculosul Khao Ao Nang. La prânz vă răcoriți scurt în Peștera Tufa, înainte de a vizita plaja animată Ton Sai pentru un prânz relaxant la malul mării. După-amiaza vă așteaptă apele albastre de la Ao Rai Le și o scurtă plimbare pe Raile Tawan Ok. Ziua se încheie magic la sanctuarul Phra Nang, unde tradițiile locale și o plajă absolut uluitoare creează un apus de soare de neuitat.",
+        "en": "You begin the day with the sweeping panoramic views from Khao Ao Nam Mao before continuing your scenic drive to the spectacular Khao Ao Nang. At midday, briefly cool off in the unique Tufa Cave before heading to the vibrant Ton Sai Beach for a relaxed beachfront lunch. The afternoon brings the crystal-blue waters of Ao Rai Le and a serene walk at Raile Tawan Ok. The day concludes magically at the Phra Nang Shrine, where local tradition and a breathtaking beach landscape perfectly intertwine."
+      }
+    }
+  }
+}

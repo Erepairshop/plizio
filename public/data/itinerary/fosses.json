@@ -1,0 +1,451 @@
+{
+  "city_id": "fosses",
+  "anchor": {
+    "name": "Fosses",
+    "coords": [
+      2.5067,
+      49.0981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:21",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Sainte-Thérèse Church",
+            "de": "Sainte-Thérèse Kirche",
+            "hu": "Sainte-Thérèse templom",
+            "ro": "Biserica Sainte-Thérèse"
+          },
+          "coords": [
+            2.515342,
+            49.098611
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the modernist architectural details of this church, taking note of its subtle stained glass windows before checking the local parish schedule.",
+            "de": "Bewundern Sie die modernen architektonischen Details dieser Kirche und achten Sie auf die Glasfenster, bevor Sie den örtlichen Gemeindeplan prüfen.",
+            "hu": "Csodálja meg e templom modernista építészeti részleteit, különösen a finom ólomüveg ablakokat, mielőtt ellenőrizné a helyi plébánia menetrendjét.",
+            "ro": "Admirați detaliile arhitecturale moderniste ale acestei biserici și vitraliile subtile înainte de a verifica programul parohiei locale pentru vizite."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Étienne Church",
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne"
+          },
+          "coords": [
+            2.488645,
+            49.095449
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "en": "Notice the beautiful stonework of this historic church that stands as a testament to the town's roots, and wear comfortable shoes for the uneven path.",
+            "de": "Beachten Sie das wunderschöne Mauerwerk dieser historischen Kirche, das die Wurzeln der Stadt zeigt, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Figyelje meg ennek a történelmi templomnak a gyönyörű kőfalait, amely a város gyökereit őrzi, és viseljen kényelmes cipőt az egyenetlen ösvény miatt.",
+            "ro": "Observați zidăria frumoasă a acestei biserici istorice care atestă rădăcinile orașului și purtați pantofi comozi pentru aleea ușor denivelată."
+          }
+        },
+        {
+          "name": {
+            "en": "Bellefontaine Castle",
+            "de": "Schloss Bellefontaine",
+            "hu": "Bellefontaine kastély",
+            "ro": "Castelul Bellefontaine"
+          },
+          "coords": [
+            2.468478,
+            49.096967
+          ],
+          "category": "castle",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Explore the impressive estate grounds to appreciate its aristocratic past, ensuring you respect the private residential zones during your photograph stops.",
+            "de": "Erkunden Sie das beeindruckende Gelände, um die aristokratische Vergangenheit zu würdigen, und respektieren Sie dabei die privaten Wohnbereiche.",
+            "hu": "Fedezze fel a lenyűgöző birtokot, hogy értékelje annak arisztokratikus múltját, ügyelve a privát lakóövezetek tiszteletben tartására fényképezéskor.",
+            "ro": "Explorați domeniul impresionant pentru a aprecia trecutul său aristocratic, asigurându-vă că respectați zonele rezidențiale private când faceți poze."
+          }
+        },
+        {
+          "name": {
+            "en": "Bellefontaine Town Hall",
+            "de": "Rathaus Bellefontaine",
+            "hu": "Bellefontaine városháza",
+            "ro": "Primăria Bellefontaine"
+          },
+          "coords": [
+            2.466296,
+            49.097913
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Observe the civic architecture of this historic town hall which anchors the local community, and check the notice board for upcoming weekend events.",
+            "de": "Betrachten Sie die bürgerliche Architektur dieses historischen Rathauses und überprüfen Sie das schwarze Brett auf anstehende Wochenendveranstaltungen.",
+            "hu": "Figyelje meg a helyi közösséget összefogó történelmi városháza építészetét, és nézze meg a hirdetőtáblát a közelgő hétvégi eseményekért.",
+            "ro": "Observați arhitectura civică a acestei primării istorice care adună comunitatea și verificați avizierul pentru evenimentele din weekendul următor."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Nicolas Church",
+            "de": "Saint-Nicolas Kirche",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas"
+          },
+          "coords": [
+            2.466473,
+            49.098823
+          ],
+          "category": "religious",
+          "arrive_at": "13:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Step inside to experience the peaceful ambiance of this traditional parish church, keeping your voice low as it remains a place of active worship.",
+            "de": "Treten Sie ein, um die friedliche Atmosphäre dieser traditionellen Pfarrkirche zu erleben, und sprechen Sie leise, da sie ein aktiver Kultort ist.",
+            "hu": "Lépjen be, hogy megtapasztalja ennek a hagyományos plébániatemplomnak a békés hangulatát, halkan beszélve, mivel ez egy aktív istentiszteleti hely.",
+            "ro": "Pășiți înăuntru pentru a simți ambianța pașnică a acestei biserici tradiționale, vorbind încet deoarece este un lăcaș de cult încă activ."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning begins in the heart of Fosses with its modern church architecture.\n\nBy midday, you'll walk through peaceful paths reaching the historical core of Bellefontaine.\n\nThe afternoon is dedicated to exploring the majestic castle grounds and historical landmarks.\n\nAs evening approaches, the classic lines of Saint-Nicolas provide a serene finish.",
+        "de": "Der Morgen beginnt in Fosses mit moderner Architektur.\n\nMittags spazieren Sie durch ruhige Vorortwege zum Kern von Bellefontaine.\n\nDer Nachmittag ist dem majestätischen Schloss und historischen Wahrzeichen gewidmet.\n\nWenn der Abend naht, bietet Saint-Nicolas einen ruhigen Abschluss.",
+        "hu": "A reggel Fosses szívében indul, a modern építészet jegyében.\n\nDélben békés ösvényeken sétálva éri el Bellefontaine történelmi magját.\n\nA délutánt a fenséges kastély és a helyi nevezetességek felfedezésének szenteljük.\n\nAz este közeledtével a Saint-Nicolas templom nyújt nyugodt befejezést.",
+        "ro": "Dimineața începe în Fosses, admirând arhitectura sa modernă.\n\nLa prânz, vă veți plimba pe poteci liniștite spre nucleul Bellefontaine.\n\nDupă-amiaza este dedicată explorării domeniului castelului și a reperelor istorice.\n\nSpre seară, biserica Saint-Nicolas oferă un final seren și relaxant."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Cartoucherie Museum",
+            "de": "Museum der Kartuscherei",
+            "hu": "Cartoucherie Múzeum",
+            "ro": "Muzeul Cartoucherie"
+          },
+          "coords": [
+            2.544869,
+            49.094176
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Discover the intriguing industrial past of Fosses through the museum's artifact displays, and remember to pick up an audio guide for the best context.",
+            "de": "Entdecken Sie die industrielle Vergangenheit von Fosses durch die Artefakte des Museums und vergessen Sie nicht, sich einen Audioguide auszuleihen.",
+            "hu": "Fedezze fel Fosses izgalmas ipari múltját a múzeum kiállításain keresztül, és ne felejtsen el audioguide-ot kérni a legjobb kontextus érdekében.",
+            "ro": "Descoperiți trecutul industrial intrigant al orașului Fosses prin expozițiile muzeului și nu uitați să luați un ghid audio pentru cel mai bun context."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Martin Church",
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin"
+          },
+          "coords": [
+            2.545723,
+            49.097926
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Admire the robust architectural lines of Saint-Martin which reflect centuries of faith, and visit during morning hours for the best natural lighting.",
+            "de": "Bewundern Sie die robusten Linien von Saint-Martin, die jahrhundertelangen Glauben widerspiegeln, und besuchen Sie sie morgens für bestes Licht.",
+            "hu": "Csodálja meg a Saint-Martin robusztus vonalait, amelyek az évszázados hitet tükrözik, és látogasson el a délelőtti órákban a legjobb fényviszonyokért.",
+            "ro": "Admirați liniile arhitecturale robuste ale bisericii Saint-Martin și vizitați-o în orele dimineții pentru a prinde cea mai bună lumină naturală."
+          }
+        },
+        {
+          "name": {
+            "en": "La Bergerie",
+            "de": "La Bergerie",
+            "hu": "La Bergerie",
+            "ro": "La Bergerie"
+          },
+          "coords": [
+            2.543608,
+            49.097249
+          ],
+          "category": "cultural",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Experience authentic rural heritage at this cultural spot offering unique exhibitions, but check their updated opening hours online before you arrive.",
+            "de": "Erleben Sie authentisches ländliches Erbe an diesem kulturellen Ort mit einzigartigen Ausstellungen, prüfen Sie aber vorher die Öffnungszeiten.",
+            "hu": "Tapasztalja meg az autentikus vidéki örökséget ezen a kulturális helyszínen, de érkezés előtt feltétlenül ellenőrizze az online nyitvatartási időt.",
+            "ro": "Experimentați moștenirea rurală autentică la acest punct cultural cu expoziții unice, dar verificați programul online înainte de a ajunge."
+          }
+        },
+        {
+          "name": {
+            "en": "Sainte-Thérèse Church",
+            "de": "Sainte-Thérèse Kirche",
+            "hu": "Sainte-Thérèse templom",
+            "ro": "Biserica Sainte-Thérèse"
+          },
+          "coords": [
+            2.515342,
+            49.098611
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Admire the modernist architectural details of this church, taking note of its subtle stained glass windows before checking the local parish schedule.",
+            "de": "Bewundern Sie die modernen architektonischen Details dieser Kirche und achten Sie auf die Glasfenster, bevor Sie den örtlichen Gemeindeplan prüfen.",
+            "hu": "Csodálja meg e templom modernista építészeti részleteit, különösen a finom ólomüveg ablakokat, mielőtt ellenőrizné a helyi plébánia menetrendjét.",
+            "ro": "Admirați detaliile arhitecturale moderniste ale acestei biserici și vitraliile subtile înainte de a verifica programul parohiei locale pentru vizite."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Étienne Church",
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne"
+          },
+          "coords": [
+            2.488645,
+            49.095449
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "en": "Notice the beautiful stonework of this historic church that stands as a testament to the town's roots, and wear comfortable shoes for the uneven path.",
+            "de": "Beachten Sie das wunderschöne Mauerwerk dieser historischen Kirche, das die Wurzeln der Stadt zeigt, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Figyelje meg ennek a történelmi templomnak a gyönyörű kőfalait, amely a város gyökereit őrzi, és viseljen kényelmes cipőt az egyenetlen ösvény miatt.",
+            "ro": "Observați zidăria frumoasă a acestei biserici istorice care atestă rădăcinile orașului și purtați pantofi comozi pentru aleea ușor denivelată."
+          }
+        },
+        {
+          "name": {
+            "en": "Bellefontaine Castle",
+            "de": "Schloss Bellefontaine",
+            "hu": "Bellefontaine kastély",
+            "ro": "Castelul Bellefontaine"
+          },
+          "coords": [
+            2.468478,
+            49.096967
+          ],
+          "category": "castle",
+          "arrive_at": "14:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Explore the impressive estate grounds to appreciate its aristocratic past, ensuring you respect the private residential zones during your photograph stops.",
+            "de": "Erkunden Sie das beeindruckende Gelände, um die aristokratische Vergangenheit zu würdigen, und respektieren Sie dabei die privaten Wohnbereiche.",
+            "hu": "Fedezze fel a lenyűgöző birtokot, hogy értékelje annak arisztokratikus múltját, ügyelve a privát lakóövezetek tiszteletben tartására fényképezéskor.",
+            "ro": "Explorați domeniul impresionant pentru a aprecia trecutul său aristocratic, asigurându-vă că respectați zonele rezidențiale private când faceți poze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your tour in Survilliers delving into local industrial history.\n\nMidday brings you past cultural hubs and charming churches on scenic paths.\n\nYour afternoon pedals towards Saint-Étienne, highlighting regional heritage.\n\nEvening concludes near the grand Château de Bellefontaine for reflection.",
+        "de": "Beginnen Sie in Survilliers, um in die lokale Geschichte einzutauchen.\n\nMittags passieren Sie kulturelle Zentren und charmante Kirchen entlang der Wege.\n\nAm Nachmittag radeln Sie zu den alten Strukturen von Saint-Étienne.\n\nDer Abend endet am großen Château de Bellefontaine im Sonnenuntergang.",
+        "hu": "Kezdje a túrát Survilliers-ben az ipari történelem felfedezésével.\n\nDélben kulturális központok és hangulatos templomok mellett halad el.\n\nA délutáni tekerés a Saint-Étienne felé visz, bemutatva a régió örökségét.\n\nAz este a Château de Bellefontaine közelében zárul, amely tökéletes pihenésre.",
+        "ro": "Începeți turul în Survilliers pentru a explora istoria industrială.\n\nLa prânz treceți pe lângă centre culturale și biserici pe traseele pitorești.\n\nDupă-amiaza pedalați spre Saint-Étienne, evidențiind moștenirea regională.\n\nSeara se încheie lângă Château de Bellefontaine, perfect la apus."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 15.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Bellefontaine Town Hall",
+            "de": "Rathaus Bellefontaine",
+            "hu": "Bellefontaine városháza",
+            "ro": "Primăria Bellefontaine"
+          },
+          "coords": [
+            2.466296,
+            49.097913
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Observe the civic architecture of this historic town hall which anchors the local community, and check the notice board for upcoming weekend events.",
+            "de": "Betrachten Sie die bürgerliche Architektur dieses historischen Rathauses und überprüfen Sie das schwarze Brett auf anstehende Wochenendveranstaltungen.",
+            "hu": "Figyelje meg a helyi közösséget összefogó történelmi városháza építészetét, és nézze meg a hirdetőtáblát a közelgő hétvégi eseményekért.",
+            "ro": "Observați arhitectura civică a acestei primării istorice care adună comunitatea și verificați avizierul pentru evenimentele din weekendul următor."
+          }
+        },
+        {
+          "name": {
+            "en": "Bellefontaine Castle",
+            "de": "Schloss Bellefontaine",
+            "hu": "Bellefontaine kastély",
+            "ro": "Castelul Bellefontaine"
+          },
+          "coords": [
+            2.468478,
+            49.096967
+          ],
+          "category": "castle",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Explore the impressive estate grounds to appreciate its aristocratic past, ensuring you respect the private residential zones during your photograph stops.",
+            "de": "Erkunden Sie das beeindruckende Gelände, um die aristokratische Vergangenheit zu würdigen, und respektieren Sie dabei die privaten Wohnbereiche.",
+            "hu": "Fedezze fel a lenyűgöző birtokot, hogy értékelje annak arisztokratikus múltját, ügyelve a privát lakóövezetek tiszteletben tartására fényképezéskor.",
+            "ro": "Explorați domeniul impresionant pentru a aprecia trecutul său aristocratic, asigurându-vă că respectați zonele rezidențiale private când faceți poze."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Étienne Church",
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne"
+          },
+          "coords": [
+            2.488645,
+            49.095449
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Notice the beautiful stonework of this historic church that stands as a testament to the town's roots, and wear comfortable shoes for the uneven path.",
+            "de": "Beachten Sie das wunderschöne Mauerwerk dieser historischen Kirche, das die Wurzeln der Stadt zeigt, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Figyelje meg ennek a történelmi templomnak a gyönyörű kőfalait, amely a város gyökereit őrzi, és viseljen kényelmes cipőt az egyenetlen ösvény miatt.",
+            "ro": "Observați zidăria frumoasă a acestei biserici istorice care atestă rădăcinile orașului și purtați pantofi comozi pentru aleea ușor denivelată."
+          }
+        },
+        {
+          "name": {
+            "en": "Cartoucherie Museum",
+            "de": "Museum der Kartuscherei",
+            "hu": "Cartoucherie Múzeum",
+            "ro": "Muzeul Cartoucherie"
+          },
+          "coords": [
+            2.544869,
+            49.094176
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "en": "Discover the intriguing industrial past of Fosses through the museum's artifact displays, and remember to pick up an audio guide for the best context.",
+            "de": "Entdecken Sie die industrielle Vergangenheit von Fosses durch die Artefakte des Museums und vergessen Sie nicht, sich einen Audioguide auszuleihen.",
+            "hu": "Fedezze fel Fosses izgalmas ipari múltját a múzeum kiállításain keresztül, és ne felejtsen el audioguide-ot kérni a legjobb kontextus érdekében.",
+            "ro": "Descoperiți trecutul industrial intrigant al orașului Fosses prin expozițiile muzeului și nu uitați să luați un ghid audio pentru cel mai bun context."
+          }
+        },
+        {
+          "name": {
+            "en": "La Bergerie",
+            "de": "La Bergerie",
+            "hu": "La Bergerie",
+            "ro": "La Bergerie"
+          },
+          "coords": [
+            2.543608,
+            49.097249
+          ],
+          "category": "cultural",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Experience authentic rural heritage at this cultural spot offering unique exhibitions, but check their updated opening hours online before you arrive.",
+            "de": "Erleben Sie authentisches ländliches Erbe an diesem kulturellen Ort mit einzigartigen Ausstellungen, prüfen Sie aber vorher die Öffnungszeiten.",
+            "hu": "Tapasztalja meg az autentikus vidéki örökséget ezen a kulturális helyszínen, de érkezés előtt feltétlenül ellenőrizze az online nyitvatartási időt.",
+            "ro": "Experimentați moștenirea rurală autentică la acest punct cultural cu expoziții unice, dar verificați programul online înainte de a ajunge."
+          }
+        },
+        {
+          "name": {
+            "en": "Oise-Pays de France Regional Park",
+            "de": "Regionaler Naturpark Oise-Pays de France",
+            "hu": "Oise-Pays de France Regionális Park",
+            "ro": "Parcul Regional Oise-Pays de France"
+          },
+          "coords": [
+            2.56304,
+            49.1838
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.6,
+          "tip_5lang": {
+            "en": "Venture deep into the pristine forest trails to witness the diverse regional flora, making sure to carry enough water and a reliable GPS map device.",
+            "de": "Wagen Sie sich tief in die Waldwege, um die vielfältige Flora zu bewundern, und bringen Sie ausreichend Wasser sowie ein GPS-Gerät mit.",
+            "hu": "Merészkedjen mélyre az érintetlen erdei ösvényeken a változatos flóra felfedezéséhez, és feltétlenül vigyen magával vizet és egy GPS térképet.",
+            "ro": "Aventurați-vă pe potecile forestiere pentru a vedea flora diversă a regiunii, asigurându-vă că aveți apă suficientă și o hartă GPS fiabilă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "The morning drive kicks off exploring Bellefontaine and its majestic château.\n\nMidday takes you to Survilliers for a dive into museum history and culture.\n\nThe afternoon drive connects you to the expansive Regional Park of Oise-Pays.\n\nEvening falls as you enjoy the pristine natural landscapes.",
+        "de": "Die Fahrt beginnt in Bellefontaine mit seinen Wahrzeichen und dem Schloss.\n\nMittags fahren Sie nach Survilliers, um in die Museumsgeschichte einzutauchen.\n\nDie Nachmittagsfahrt verbindet Sie mit dem großen Regionalpark Oise-Pays.\n\nDer Abend bricht herein, während Sie die unberührte Natur genießen.",
+        "hu": "A reggeli autózás Bellefontaine kastélyának és nevezetességeinek megtekintésével indul.\n\nDélben Survilliers-be érünk, hogy elmélyedjünk a múzeumi kultúrában.\n\nA délutáni festői út összeköt az Oise-Pays regionális parkjával.\n\nAz este a lenyűgöző természeti tájak megcsodálásával telik el.",
+        "ro": "Călătoria de dimineață începe explorând Bellefontaine și castelul său.\n\nLa prânz vă îndreptați spre Survilliers pentru o incursiune în istoria locală.\n\nDupă-amiaza aduce un traseu pitoresc spre Parcul Regional Oise-Pays.\n\nSeara se așterne în timp ce vă bucurați de peisajele naturale curate."
+      }
+    }
+  }
+}

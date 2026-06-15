@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-sant-sadurni-d-anoia-cities-v2",
+  "anchor": {
+    "name": "Sant Sadurní d'Anoia",
+    "coords": [
+      1.78519,
+      41.42555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Sadurní",
+            "hu": "Sant Sadurní",
+            "ro": "Sant Sadurní",
+            "en": "Sant Sadurní"
+          },
+          "coords": [
+            1.789847,
+            41.424699
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser zentralen Kirche, dem spirituellen Herzen der Cava-Hauptstadt, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg a cava fővárosának spirituális központjaként ismert templom építészeti részleteit, és érkezzen kora reggel, hogy élvezhesse a csodálatos fényeket.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici centrale, inima spirituală a capitalei Cava, și vizitați-o dimineața devreme pentru a vă bucura de lumina liniștită a soarelui.",
+            "en": "Admire the striking architectural details of this central church, the spiritual heart of the Cava capital, and visit early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Freixenet",
+            "hu": "Freixenet",
+            "ro": "Freixenet",
+            "en": "Freixenet"
+          },
+          "coords": [
+            1.793629,
+            41.420433
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die legendären Weinkeller, in denen weltbekannte Schaumweine hergestellt werden, und buchen Sie Ihre geführte Verkostungstour in der Hochsaison unbedingt im Voraus.",
+            "hu": "Fedezze fel a legendás pincéket, ahol az ikonikus pezsgők készülnek, és a forgalmas nyári szezonban mindenképpen jó előre foglalja le a vezetett borkóstoló túrát.",
+            "ro": "Explorați cramele legendare unde se creează vinuri spumante iconice și asigurați-vă că rezervați din timp turul ghidat de degustare în timpul sezonului aglomerat de vară.",
+            "en": "Explore the legendary cellars where iconic sparkling wines are crafted, and be sure to book your guided tasting tour in advance during the bustling summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Vilarnau",
+            "hu": "Castell de Vilarnau",
+            "ro": "Castell de Vilarnau",
+            "en": "Castell de Vilarnau"
+          },
+          "coords": [
+            1.801403,
+            41.433579
+          ],
+          "category": "castle",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die alten Ruinen dieser mittelalterlichen Burg, um die adelige Geschichte der Region zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Sétáljon a középkori vár ősi romjai között, hogy felfedezze a régió nemesi történelmét, és viseljen kényelmes, masszív cipőt az egyenetlen kőösvények bejárásához.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestui castel medieval pentru a descoperi istoria nobilă a regiunii, purtând încălțăminte rezistentă pentru potecile pietruite denivelate.",
+            "en": "Wander around the ancient ruins of this medieval castle to uncover the region's noble history, wearing sturdy shoes to navigate the uneven stone pathways comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Cal Xurriu",
+            "hu": "Cal Xurriu",
+            "ro": "Cal Xurriu",
+            "en": "Cal Xurriu"
+          },
+          "coords": [
+            1.784797,
+            41.439773
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den traditionellen Charme dieses historischen Landgutes, das das landwirtschaftliche Erbe zeigt, und bringen Sie einen Hut mit, da die Felder wenig Schatten bieten.",
+            "hu": "Fedezze fel a mezőgazdasági örökséget bemutató történelmi vidéki birtok hagyományos varázsát, és hozzon magával kalapot, mivel a környező földeken kevés az árnyék.",
+            "ro": "Descoperiți farmecul tradițional al acestei moșii rurale istorice care prezintă moștenirea agricolă și aduceți o pălărie de soare, deoarece câmpurile din jur oferă puțină umbră.",
+            "en": "Discover the traditional charm of this historical rural estate that showcases agricultural heritage, and bring a wide-brimmed hat as the surrounding fields offer little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pou de gel",
+            "hu": "Pou de gel",
+            "ro": "Pou de gel",
+            "en": "Pou de gel"
+          },
+          "coords": [
+            1.774916,
+            41.441082
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen faszinierenden historischen Eisbrunnen aus vergangenen Jahrhunderten und bringen Sie eine leichte Jacke mit, da die unterirdischen Temperaturen kühl bleiben.",
+            "hu": "Lépjen be ebbe a lenyűgöző történelmi jégkútba, amelyet évszázadokkal ezelőtt tárolásra használtak, és hozzon egy könnyű kabátot, mivel a föld alatti hőmérséklet hűvös marad.",
+            "ro": "Pășiți în acest fascinant puț de gheață istoric folosit cu secole în urmă pentru conservare și aduceți o jachetă ușoară, deoarece temperaturile subterane rămân răcoroase.",
+            "en": "Step inside this fascinating historical ice well used centuries ago for preservation, and bring a light jacket since the subterranean temperatures remain refreshingly cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie im Stadtzentrum, bewundern Sie die schöne Architektur der Hauptkirche und tauchen Sie in den legendären Freixenet-Kellern in die prickelnde Welt des Cava ein.\nMidday: Setzen Sie Ihren Spaziergang nach Norden zum mittelalterlichen Castell de Vilarnau fort, wo Sie eine malerische Mittagspause inmitten alter Steine und sanfter Weinberge genießen können.\nAfternoon: Erkunden Sie die historischen landwirtschaftlichen Wurzeln von Cal Xurriu, genießen Sie die ruhige ländliche Atmosphäre und den weiten Blick über die katalanische Landschaft.\nEvening: Beenden Sie Ihre Tour am faszinierenden Eisbrunnen Pou de gel, genießen Sie die späte Nachmittagssonne, bevor Sie auf ein Glas lokalen Sekt ins Zentrum zurückkehren.",
+        "hu": "Morning: Kezdje a napot a város szívében, csodálja meg a főtemplom építészetét, majd merüljön el a cava pezsgők világában a közeli legendás Freixenet pincészetben.\nMidday: Folytassa sétáját észak felé a középkori Castell de Vilarnau felé, ahol festői ebédszünetet tarthat az ősi kövek és a régió hullámzó szőlőültetvényei között.\nAfternoon: Fedezze fel a történelmi mezőgazdasági gyökereket a Cal Xurriu birtokon, élvezze a békés vidéki hangulatot és a hagyományos katalán gazdaságokra nyíló pazar kilátást.\nEvening: Zárja a sétát a lenyűgöző Pou de gel jégkútnál, élvezze a késő délutáni napsütést, mielőtt visszatérne a központba egy jól megérdemelt pohár helyi pezsgőre.",
+        "ro": "Morning: Începeți ziua în inima orașului, admirând arhitectura frumoasă a bisericii principale, înainte de a pătrunde în lumea spumantelor Cava la cramele legendare Freixenet.\nMidday: Continuați plimbarea spre nord până la medievalul Castell de Vilarnau, unde vă puteți bucura de o pauză pitorească de prânz printre pietrele antice și podgoriile colinare.\nAfternoon: Explorați rădăcinile agricole istorice de la Cal Xurriu, bucurându-vă de atmosfera rurală liniștită și de priveliștile ample asupra peisajelor tradiționale catalane.\nEvening: Încheiați turul la fascinantul puț de gheață Pou de gel, savurând soarele după-amiezii înainte de a vă întoarce în centrul orașului pentru un pahar de vin spumant local.",
+        "en": "Morning: Begin your day at the heart of the town, admiring the beautiful architecture of the main church before delving into the world of Cava at the legendary Freixenet cellars nearby.\nMidday: Continue your walk northwards to the medieval Castell de Vilarnau, where you can enjoy a scenic lunch break amidst the ancient stones and rolling vineyards of the region.\nAfternoon: Explore the historical agricultural roots at Cal Xurriu, taking in the tranquil rural atmosphere and the expansive views over the traditional Catalan farming landscapes.\nEvening: Conclude your walking tour at the fascinating Pou de gel ice well, soaking up the afternoon sun before heading back to the town center for a well-deserved glass of local sparkling wine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Sadurní",
+            "hu": "Sant Sadurní",
+            "ro": "Sant Sadurní",
+            "en": "Sant Sadurní"
+          },
+          "coords": [
+            1.789847,
+            41.424699
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser zentralen Kirche, dem spirituellen Herzen der Cava-Hauptstadt, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg a cava fővárosának spirituális központjaként ismert templom építészeti részleteit, és érkezzen kora reggel, hogy élvezhesse a csodálatos fényeket.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici centrale, inima spirituală a capitalei Cava, și vizitați-o dimineața devreme pentru a vă bucura de lumina liniștită a soarelui.",
+            "en": "Admire the striking architectural details of this central church, the spiritual heart of the Cava capital, and visit early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "barraca de pedra seca 3926",
+            "hu": "barraca de pedra seca 3926",
+            "ro": "barraca de pedra seca 3926",
+            "en": "barraca de pedra seca 3926"
+          },
+          "coords": [
+            1.795792,
+            41.408983
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die raffinierte Trockensteinbauweise dieser ohne Mörtel errichteten Schutzhütte und nehmen Sie sich Zeit, den rustikalen Einfallsreichtum der Bauern zu schätzen.",
+            "hu": "Csodálja meg ennek a habarcs nélkül épült vidéki menedéknek a bonyolult szárazkő szerkezetét, és szánjon egy percet a történelmi mezőgazdasági munkások találékonyságára.",
+            "ro": "Minunați-vă de construcția complexă din piatră seacă a acestui adăpost rural construit fără mortar, apreciind ingeniozitatea rustică a lucrătorilor agricoli de altădată.",
+            "en": "Marvel at the intricate dry stone construction of this rural shelter built without mortar, taking a moment to appreciate the rustic ingenuity of historical agricultural workers."
+          }
+        },
+        {
+          "name": {
+            "de": "la Torrota de Can Llopard",
+            "hu": "la Torrota de Can Llopard",
+            "ro": "la Torrota de Can Llopard",
+            "en": "la Torrota de Can Llopard"
+          },
+          "coords": [
+            1.800846,
+            41.408675
+          ],
+          "category": "castle",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem alten Wehrturmrest hinauf, um einen weiten Blick über die Weinberge zu genießen, und bringen Sie ein Fernglas mit, um ferne Wahrzeichen zu erspähen.",
+            "hu": "Másszon fel ehhez az ősi védelmi toronymaradványhoz, ahonnan pazar kilátás nyílik a szőlőültetvényekre, és hozzon távcsövet a távoli nevezetességek megfigyeléséhez.",
+            "ro": "Urcați la această rămășiță a unui vechi turn defensiv pentru vederi panoramice ale podgoriilor și aduceți un binoclu pentru a observa reperele îndepărtate ale regiunii.",
+            "en": "Climb up to this ancient defensive tower remnant for sweeping views of the vineyards, and bring binoculars to spot distant landmarks across the undulating Catalan countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Freixenet",
+            "hu": "Freixenet",
+            "ro": "Freixenet",
+            "en": "Freixenet"
+          },
+          "coords": [
+            1.793629,
+            41.420433
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die legendären Weinkeller, in denen weltbekannte Schaumweine hergestellt werden, und buchen Sie Ihre geführte Verkostungstour in der Hochsaison unbedingt im Voraus.",
+            "hu": "Fedezze fel a legendás pincéket, ahol az ikonikus pezsgők készülnek, és a forgalmas nyári szezonban mindenképpen jó előre foglalja le a vezetett borkóstoló túrát.",
+            "ro": "Explorați cramele legendare unde se creează vinuri spumante iconice și asigurați-vă că rezervați din timp turul ghidat de degustare în timpul sezonului aglomerat de vară.",
+            "en": "Explore the legendary cellars where iconic sparkling wines are crafted, and be sure to book your guided tasting tour in advance during the bustling summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Vilarnau",
+            "hu": "Castell de Vilarnau",
+            "ro": "Castell de Vilarnau",
+            "en": "Castell de Vilarnau"
+          },
+          "coords": [
+            1.801403,
+            41.433579
+          ],
+          "category": "castle",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die alten Ruinen dieser mittelalterlichen Burg, um die adelige Geschichte der Region zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Sétáljon a középkori vár ősi romjai között, hogy felfedezze a régió nemesi történelmét, és viseljen kényelmes, masszív cipőt az egyenetlen kőösvények bejárásához.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestui castel medieval pentru a descoperi istoria nobilă a regiunii, purtând încălțăminte rezistentă pentru potecile pietruite denivelate.",
+            "en": "Wander around the ancient ruins of this medieval castle to uncover the region's noble history, wearing sturdy shoes to navigate the uneven stone pathways comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "la Miranda d'Espiells",
+            "hu": "la Miranda d'Espiells",
+            "ro": "la Miranda d'Espiells",
+            "en": "la Miranda d'Espiells"
+          },
+          "coords": [
+            1.81039,
+            41.436915
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Holen Sie tief Luft an diesem ruhigen natürlichen Aussichtspunkt inmitten üppiger Vegetation und packen Sie ein kleines Picknick ein, um die majestätischen Panoramen zu genießen.",
+            "hu": "Vegyen egy mély lélegzetet ezen a buja növényzettel körülvett békés természeti kilátóponton, és csomagoljon egy kis pikniket a fenséges panoráma kényelmes élvezetéhez.",
+            "ro": "Respirați adânc la acest punct de belvedere natural liniștit, înconjurat de vegetație luxuriantă, și luați un mic picnic pentru a vă bucura de panoramele cu adevărat maiestuoase.",
+            "en": "Take a deep breath at this serene natural viewpoint surrounded by lush vegetation, and consider packing a small picnic to enjoy while soaking in the majestic panoramic vistas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie von der Kirche nach Süden in die Weinberge, um authentische Trockensteinhütten zu entdecken und spirituelles Erbe mit der landwirtschaftlichen Geschichte zu verbinden.\nMidday: Radeln Sie zu den Ruinen von Torrota de Can Llopard für Panoramablicke und fahren Sie dann in die Stadt, um die weltberühmten Freixenet-Keller zu erkunden.\nAfternoon: Fahren Sie nach Norden zum Castell de Vilarnau und lassen Sie sich vom Fahrrad mühelos an üppigen Weinbergen vorbeiführen, während Sie die mittelalterliche Vergangenheit entdecken.\nEvening: Beenden Sie Ihre Fahrt am ruhigen Aussichtspunkt Miranda d'Espiells, um einen atemberaubenden goldenen Sonnenuntergang über der Penedès-Region zu erleben.",
+        "hu": "Morning: Tekerjen a központi templomtól délre a szőlőültetvények felé, fedezze fel a hiteles szárazkő menedékeket, és ötvözze a spirituális örökséget a régió történelmével.\nMidday: Pedálozzon a Torrota de Can Llopard romjaihoz a panorámáért, majd térjen vissza a városba, hogy felfedezze a világhírű Freixenet pincéket és azok gazdag múltját.\nAfternoon: Induljon északra a Castell de Vilarnau felé, hagyja, hogy kerékpárja könnyedén elvigye a buja szőlőültetvények mellett, miközben felfedezi a terület középkori múltját.\nEvening: Fejezze be útját a békés Miranda d'Espiells kilátónál, gyönyörködjön a Penedès régió felett lemenő aranyló naplementében, mielőtt kényelmesen visszagurulna a városba.",
+        "ro": "Morning: Mergeți de la biserica centrală spre sud în podgorii pentru a descoperi adăposturi autentice din piatră seacă, îmbinând moștenirea spirituală cu istoria agricolă.\nMidday: Pedalați spre ruinele Torrota de Can Llopard pentru priveliști panoramice, apoi întoarceți-vă în oraș pentru a explora faimoasele crame Freixenet și istoria lor bogată.\nAfternoon: Îndreptați-vă spre nord către Castell de Vilarnau, lăsând bicicleta să vă poarte pe lângă podgoriile luxuriante, descoperind trecutul medieval al zonei.\nEvening: Terminați plimbarea la punctul de belvedere Miranda d'Espiells, surprinzând un apus auriu uluitor peste regiunea Penedès înainte de a vă întoarce ușor în oraș.",
+        "en": "Morning: Ride from the central church south into the vineyards to discover authentic dry stone shelters, merging spiritual heritage with the raw agricultural history of the region.\nMidday: Pedal towards the ruins of Torrota de Can Llopard for panoramic vistas, then cycle back towards town to explore the world-renowned Freixenet cellars and their rich history.\nAfternoon: Head north to the Castell de Vilarnau, letting your bike carry you effortlessly past lush vineyards as you uncover more layers of the area's medieval and noble past.\nEvening: Finish your ride at the serene Miranda d'Espiells viewpoint, catching a breathtaking golden sunset over the Penedès region before a gentle coast back into the bustling town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Sadurní",
+            "hu": "Sant Sadurní",
+            "ro": "Sant Sadurní",
+            "en": "Sant Sadurní"
+          },
+          "coords": [
+            1.789847,
+            41.424699
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser zentralen Kirche, dem spirituellen Herzen der Cava-Hauptstadt, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg a cava fővárosának spirituális központjaként ismert templom építészeti részleteit, és érkezzen kora reggel, hogy élvezhesse a csodálatos fényeket.",
+            "ro": "Admirați detaliile arhitecturale ale acestei biserici centrale, inima spirituală a capitalei Cava, și vizitați-o dimineața devreme pentru a vă bucura de lumina liniștită a soarelui.",
+            "en": "Admire the striking architectural details of this central church, the spiritual heart of the Cava capital, and visit early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Freixenet",
+            "hu": "Freixenet",
+            "ro": "Freixenet",
+            "en": "Freixenet"
+          },
+          "coords": [
+            1.793629,
+            41.420433
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die legendären Weinkeller, in denen weltbekannte Schaumweine hergestellt werden, und buchen Sie Ihre geführte Verkostungstour in der Hochsaison unbedingt im Voraus.",
+            "hu": "Fedezze fel a legendás pincéket, ahol az ikonikus pezsgők készülnek, és a forgalmas nyári szezonban mindenképpen jó előre foglalja le a vezetett borkóstoló túrát.",
+            "ro": "Explorați cramele legendare unde se creează vinuri spumante iconice și asigurați-vă că rezervați din timp turul ghidat de degustare în timpul sezonului aglomerat de vară.",
+            "en": "Explore the legendary cellars where iconic sparkling wines are crafted, and be sure to book your guided tasting tour in advance during the bustling summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "barraca de pedra seca 3926",
+            "hu": "barraca de pedra seca 3926",
+            "ro": "barraca de pedra seca 3926",
+            "en": "barraca de pedra seca 3926"
+          },
+          "coords": [
+            1.795792,
+            41.408983
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die raffinierte Trockensteinbauweise dieser ohne Mörtel errichteten Schutzhütte und nehmen Sie sich Zeit, den rustikalen Einfallsreichtum der Bauern zu schätzen.",
+            "hu": "Csodálja meg ennek a habarcs nélkül épült vidéki menedéknek a bonyolult szárazkő szerkezetét, és szánjon egy percet a történelmi mezőgazdasági munkások találékonyságára.",
+            "ro": "Minunați-vă de construcția complexă din piatră seacă a acestui adăpost rural construit fără mortar, apreciind ingeniozitatea rustică a lucrătorilor agricoli de altădată.",
+            "en": "Marvel at the intricate dry stone construction of this rural shelter built without mortar, taking a moment to appreciate the rustic ingenuity of historical agricultural workers."
+          }
+        },
+        {
+          "name": {
+            "de": "la Torrota de Can Llopard",
+            "hu": "la Torrota de Can Llopard",
+            "ro": "la Torrota de Can Llopard",
+            "en": "la Torrota de Can Llopard"
+          },
+          "coords": [
+            1.800846,
+            41.408675
+          ],
+          "category": "castle",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem alten Wehrturmrest hinauf, um einen weiten Blick über die Weinberge zu genießen, und bringen Sie ein Fernglas mit, um ferne Wahrzeichen zu erspähen.",
+            "hu": "Másszon fel ehhez az ősi védelmi toronymaradványhoz, ahonnan pazar kilátás nyílik a szőlőültetvényekre, és hozzon távcsövet a távoli nevezetességek megfigyeléséhez.",
+            "ro": "Urcați la această rămășiță a unui vechi turn defensiv pentru vederi panoramice ale podgoriilor și aduceți un binoclu pentru a observa reperele îndepărtate ale regiunii.",
+            "en": "Climb up to this ancient defensive tower remnant for sweeping views of the vineyards, and bring binoculars to spot distant landmarks across the undulating Catalan countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "la Miranda d'Espiells",
+            "hu": "la Miranda d'Espiells",
+            "ro": "la Miranda d'Espiells",
+            "en": "la Miranda d'Espiells"
+          },
+          "coords": [
+            1.81039,
+            41.436915
+          ],
+          "category": "natural",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Holen Sie tief Luft an diesem ruhigen natürlichen Aussichtspunkt inmitten üppiger Vegetation und packen Sie ein kleines Picknick ein, um die majestätischen Panoramen zu genießen.",
+            "hu": "Vegyen egy mély lélegzetet ezen a buja növényzettel körülvett békés természeti kilátóponton, és csomagoljon egy kis pikniket a fenséges panoráma kényelmes élvezetéhez.",
+            "ro": "Respirați adânc la acest punct de belvedere natural liniștit, înconjurat de vegetație luxuriantă, și luați un mic picnic pentru a vă bucura de panoramele cu adevărat maiestuoase.",
+            "en": "Take a deep breath at this serene natural viewpoint surrounded by lush vegetation, and consider packing a small picnic to enjoy while soaking in the majestic panoramic vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cal Xurriu",
+            "hu": "Cal Xurriu",
+            "ro": "Cal Xurriu",
+            "en": "Cal Xurriu"
+          },
+          "coords": [
+            1.784797,
+            41.439773
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den traditionellen Charme dieses historischen Landgutes, das das landwirtschaftliche Erbe zeigt, und bringen Sie einen Hut mit, da die Felder wenig Schatten bieten.",
+            "hu": "Fedezze fel a mezőgazdasági örökséget bemutató történelmi vidéki birtok hagyományos varázsát, és hozzon magával kalapot, mivel a környező földeken kevés az árnyék.",
+            "ro": "Descoperiți farmecul tradițional al acestei moșii rurale istorice care prezintă moștenirea agricolă și aduceți o pălărie de soare, deoarece câmpurile din jur oferă puțină umbră.",
+            "en": "Discover the traditional charm of this historical rural estate that showcases agricultural heritage, and bring a wide-brimmed hat as the surrounding fields offer little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí de l'Aixartell",
+            "hu": "Molí de l'Aixartell",
+            "ro": "Molí de l'Aixartell",
+            "en": "Molí de l'Aixartell"
+          },
+          "coords": [
+            1.773369,
+            41.441335
+          ],
+          "category": "historical",
+          "arrive_at": "18:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die mechanischen Überreste dieser alten Wassermühle, die einst lokales Getreide verarbeitete, und gehen Sie vorsichtig, da die Uferwege rutschig sein können.",
+            "hu": "Vizsgálja meg ennek a régi vízimalomnak a mechanikai maradványait, amely egykor helyi gabonát őrölt, és sétáljon óvatosan a folyóparton, mivel az ösvények csúszósak lehetnek.",
+            "ro": "Investigați rămășițele mecanice ale acestei vechi mori de apă care procesa cândva cerealele locale, mergând cu atenție pe malul râului, deoarece potecile pot fi alunecoase.",
+            "en": "Investigate the mechanical remnants of this old watermill that once processed local grain, carefully walking along the riverbank as the surrounding paths can be quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie an der zentralen Kirche, bevor Sie zu den großen Freixenet-Kellern fahren, und beginnen Sie den Tag mit beeindruckender Architektur und der Geschichte des Cava.\nMidday: Fahren Sie nach Süden, um die rustikalen Trockensteinhütten und den verfallenen Wehrturm von Torrota de Can Llopard mit seinen spektakulären Panoramen zu erkunden.\nAfternoon: Fahren Sie über malerische Landstraßen zum Aussichtspunkt Miranda d'Espiells und weiter zum historischen Landgut Cal Xurriu, um landwirtschaftliche Traditionen zu entdecken.\nEvening: Beenden Sie Ihren Roadtrip am Fluss bei Molí de l'Aixartell, wo die alten Wassermühlenruinen einen ruhigen und besinnlichen Abschluss eines vielfältigen Tages bieten.",
+        "hu": "Morning: Indítsa a napot a központi templomnál, majd hajtson át a nagyszerű Freixenet pincészetbe, lenyűgöző építészettel és a híres cava pezsgő örökségével kezdve a túrát.\nMidday: Autózzon délre, hogy felfedezze a szárazkő menedékeket és a Torrota de Can Llopard romos védelmi tornyát, ahonnan látványos hegyvidéki panoráma nyílik.\nAfternoon: Cirkáljon a festői utakon a Miranda d'Espiells kilátóhoz, majd vegye az irányt a Cal Xurriu történelmi birtok felé a mezőgazdasági hagyományok megismerésére.\nEvening: Zárja autós kirándulását a folyóparti Molí de l'Aixartell ősi vízimalom romjainál, amely nyugodt és elgondolkodtató befejezést nyújt ennek a változatos napnak.",
+        "ro": "Morning: Porniți de la biserica centrală înainte de a trece ușor la marile crame Freixenet, începând ziua cu o arhitectură impresionantă și moștenirea bogată a vinului Cava.\nMidday: Conduceți spre sud pentru a explora adăposturile din piatră seacă și turnul defensiv ruinat Torrota de Can Llopard, care oferă panorame spectaculoase de pe deal.\nAfternoon: Călătoriți pe drumurile pitorești de țară până la punctul de belvedere Miranda d'Espiells, apoi îndreptați-vă spre moșia istorică Cal Xurriu pentru tradiții agricole.\nEvening: Încheiați călătoria cu mașina lângă râu la Molí de l'Aixartell, unde ruinele vechii mori de apă oferă un sfârșit liniștit și contemplativ pentru o zi diversă.",
+        "en": "Morning: Start your engine at the central church before smoothly transitioning to the grand Freixenet cellars, kicking off your day with impressive architecture and Cava heritage.\nMidday: Drive south to explore the rural ingenuity of dry stone shelters and the ruined defensive tower of Torrota de Can Llopard, offering spectacular hilltop panoramas.\nAfternoon: Cruise along the scenic country roads to the Miranda d'Espiells viewpoint, then weave your way to the historical estate of Cal Xurriu to delve into agricultural traditions.\nEvening: Conclude your road trip by the river at Molí de l'Aixartell, where the ancient watermill ruins provide a tranquil and reflective end to a diverse day of sightseeing."
+      }
+    }
+  }
+}

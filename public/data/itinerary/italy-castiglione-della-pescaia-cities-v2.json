@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-castiglione-della-pescaia-cities-v2",
+  "anchor": {
+    "name": "Castiglione della Pescaia",
+    "coords": [
+      10.87909,
+      42.76393
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria del Giglio",
+            "hu": "Santa Maria del Giglio",
+            "ro": "Santa Maria del Giglio",
+            "en": "Santa Maria del Giglio"
+          },
+          "coords": [
+            10.88082,
+            42.76393
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser alten Kirche und besichtigen Sie die Fresken im Inneren in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg ennek az ősi templomnak a középkori építészetét, és a csendes reggeli órákban feltétlenül nézze meg a belső freskókat.",
+            "ro": "Admirați arhitectura medievală a acestei biserici antice și asigurați-vă că verificați frescele din interior în orele liniștite ale dimineții.",
+            "en": "Admire the medieval architecture of this ancient church, and be sure to check the frescoes inside during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Centurioni",
+            "hu": "Palazzo Centurioni",
+            "ro": "Palazzo Centurioni",
+            "en": "Palazzo Centurioni"
+          },
+          "coords": [
+            10.879869,
+            42.764325
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieser markante historische Palazzo bietet einen Einblick in das lokale Adelsleben. Bringen Sie also eine Kamera mit, um die Steinfassade festzuhalten.",
+            "hu": "Ez a kiemelkedő történelmi palota bepillantást enged a helyi nemesi életbe, ezért hozzon fényképezőgépet, hogy megörökítse lenyűgöző kőhomlokzatát.",
+            "ro": "Acest palazzo istoric remarcabil oferă o privire în viața nobilă locală, așa că aduceți un aparat foto pentru a surprinde detaliile sale de piatră.",
+            "en": "This prominent historical palazzo offers a glimpse into local noble life, so bring a camera to capture its impressive stone facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Lilli",
+            "hu": "Torre Lilli",
+            "ro": "Torre Lilli",
+            "en": "Torre Lilli"
+          },
+          "coords": [
+            10.882607,
+            42.76476
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses alten Verteidigungsturms hinauf, um spektakuläre Ausblicke auf die Küste zu genießen, und tragen Sie bequeme Schuhe.",
+            "hu": "Másszon fel ezen ősi védőtorony közelébe, hogy lenyűgöző tengerparti kilátást élvezzen, de viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Urcați lângă acest turn de apărare antic pentru a vă bucura de vederi spectaculoase asupra coastei, purtând pantofi confortabili pentru drumul pietruit.",
+            "en": "Climb up near this ancient defensive tower to enjoy spectacular coastal views, wearing comfortable shoes to navigate the steep cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Goretti",
+            "hu": "Chiesa di Santa Maria Goretti",
+            "ro": "Chiesa di Santa Maria Goretti",
+            "en": "Chiesa di Santa Maria Goretti"
+          },
+          "coords": [
+            10.883905,
+            42.766529
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante religiöse Stätte, die die moderne Geschichte der Stadt widerspiegelt, und nutzen Sie die ruhige Atmosphäre für eine Rast.",
+            "hu": "Fedezze fel ezt a bájos vallási helyszínt, amely a város modern történelmét tükrözi, és használja ki békés atmoszféráját egy rövid pihenőre.",
+            "ro": "Explorați acest sit religios fermecător care reflectă istoria modernă a orașului, profitând de atmosfera sa liniștită pentru o scurtă odihnă.",
+            "en": "Explore this charming religious site that reflects the modern history of the town, noting its tranquil atmosphere perfect for a brief rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana delle Paduline",
+            "hu": "Villa romana delle Paduline",
+            "ro": "Villa romana delle Paduline",
+            "en": "Villa romana delle Paduline"
+          },
+          "coords": [
+            10.887072,
+            42.765157
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die archäologischen Überreste einer antiken römischen Villa am Meer, aber bleiben Sie auf den markierten Wegen, um Mosaike zu schützen.",
+            "hu": "Sétáljon végig egy ősi római tengerparti villa régészeti maradványain, de maradjon a kijelölt ösvényeken a kényes mozaikok megőrzése érdekében.",
+            "ro": "Plimbați-vă printre rămășițele arheologice ale unei vechi vile romane, dar rămâneți pe căile marcate pentru a proteja mozaicurile delicate.",
+            "en": "Walk through the archaeological remains of an ancient Roman villa by the sea, but stay on the marked pathways to preserve the delicate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno il Faro",
+            "hu": "Bagno il Faro",
+            "ro": "Bagno il Faro",
+            "en": "Bagno il Faro"
+          },
+          "coords": [
+            10.878382,
+            42.761771
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gut ausgestatteten Strand mit goldenem Sand direkt am Meer und mieten Sie frühzeitig eine Sonnenliege für den besten Platz.",
+            "hu": "Pihenjen ezen a jól felszerelt strandon, ahol aranyhomok várja közvetlenül a tenger mellett, és béreljen napágyat korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe această plajă bine echipată, cu nisip auriu, și închiriați un șezlong din timp pentru a vă asigura un loc excelent lângă țărm.",
+            "en": "Relax on this well-equipped beach with golden sands right by the sea, and rent a sunbed early to secure a prime spot near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen enthüllt das historische Herz von Castiglione della Pescaia bei den alten Kirchen. Mittags beeindrucken die markanten mittelalterlichen Türme und edlen Palazzi, die die Küste bewachen. Der Nachmittag widmet sich der antiken römischen Geschichte nur wenige Schritte vom Meer entfernt. Der Abend lädt zu einem entspannten Ende am Bagno il Faro ein.",
+        "hu": "A reggel felfedi Castiglione della Pescaia történelmi szívét az ősi templomok mentén. Délben a partot őrző lenyűgöző középkori tornyok és nemesi paloták kerülnek előtérbe. A délután az ókori római történelemre összpontosít, csak pár lépésre a tengertől. Az este pihentető befejezést kínál a Bagno il Faro homokos partján.",
+        "ro": "Dimineața dezvăluie inima istorică a orașului Castiglione della Pescaia lângă bisericile antice. La amiază ies în evidență turnurile medievale izbitoare și palatele nobile. După-amiaza se concentrează pe istoria antică romană, la doar câțiva pași de mare. Seara invită la un sfârșit relaxant pe țărmul nisipos de la Bagno il Faro.",
+        "en": "Morning reveals the historical heart of Castiglione della Pescaia, walking by its serene ancient churches. Midday features the striking medieval towers and noble palazzos that guard the coast. Afternoon shifts focus to the ancient Roman history just steps from the sea. Evening invites a relaxing end on the sandy shores of Bagno il Faro."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stabilimento Balneare La Valletta",
+            "hu": "Stabilimento Balneare La Valletta",
+            "ro": "Stabilimento Balneare La Valletta",
+            "en": "Stabilimento Balneare La Valletta"
+          },
+          "coords": [
+            10.863537,
+            42.766149
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen und genießen Sie die ruhige Küstenatmosphäre in diesem Strandclub. Bringen Sie Ihr Handtuch mit, falls Sie schwimmen möchten.",
+            "hu": "Kezdje a reggelt a békés tengerparti atmoszféra befogadásával ebben a klasszikus strandklubban, és hozzon saját törölközőt egy gyors úszáshoz.",
+            "ro": "Începeți dimineața absorbind atmosfera senină a coastei la acest club clasic de plajă, aducând propriul prosop dacă intenționați să înotați rapid.",
+            "en": "Start your morning absorbing the serene coastal atmosphere at this classic beach club, bringing your own towel if you plan to swim before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Nettuno",
+            "hu": "Bagno Nettuno",
+            "ro": "Bagno Nettuno",
+            "en": "Bagno Nettuno"
+          },
+          "coords": [
+            10.872883,
+            42.76358
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Stopp an diesem beliebten, familienfreundlichen Strand und nutzen Sie die Kioske in der Nähe für einen schnellen Snack.",
+            "hu": "Élvezze a frissítő megállót ezen a népszerű, családbarát strandon, és használja ki a közeli kioszkokat egy gyors harapnivalóért vagy hideg italért.",
+            "ro": "Bucurați-vă de o oprire revigorantă pe această plajă prietenoasă cu familiile, profitând de chioșcurile locale pentru o gustare rapidă sau o băutură rece.",
+            "en": "Enjoy a refreshing stop at this popular family-friendly beach area, taking advantage of the local kiosks nearby for a quick snack or cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Centurioni",
+            "hu": "Palazzo Centurioni",
+            "ro": "Palazzo Centurioni",
+            "en": "Palazzo Centurioni"
+          },
+          "coords": [
+            10.879869,
+            42.764325
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser markante historische Palazzo bietet einen Einblick in das lokale Adelsleben. Bringen Sie also eine Kamera mit, um die Steinfassade festzuhalten.",
+            "hu": "Ez a kiemelkedő történelmi palota bepillantást enged a helyi nemesi életbe, ezért hozzon fényképezőgépet, hogy megörökítse lenyűgöző kőhomlokzatát.",
+            "ro": "Acest palazzo istoric remarcabil oferă o privire în viața nobilă locală, așa că aduceți un aparat foto pentru a surprinde detaliile sale de piatră.",
+            "en": "This prominent historical palazzo offers a glimpse into local noble life, so bring a camera to capture its impressive stone facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Lilli",
+            "hu": "Torre Lilli",
+            "ro": "Torre Lilli",
+            "en": "Torre Lilli"
+          },
+          "coords": [
+            10.882607,
+            42.76476
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses alten Verteidigungsturms hinauf, um spektakuläre Ausblicke auf die Küste zu genießen, und tragen Sie bequeme Schuhe.",
+            "hu": "Másszon fel ezen ősi védőtorony közelébe, hogy lenyűgöző tengerparti kilátást élvezzen, de viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Urcați lângă acest turn de apărare antic pentru a vă bucura de vederi spectaculoase asupra coastei, purtând pantofi confortabili pentru drumul pietruit.",
+            "en": "Climb up near this ancient defensive tower to enjoy spectacular coastal views, wearing comfortable shoes to navigate the steep cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana delle Paduline",
+            "hu": "Villa romana delle Paduline",
+            "ro": "Villa romana delle Paduline",
+            "en": "Villa romana delle Paduline"
+          },
+          "coords": [
+            10.887072,
+            42.765157
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die archäologischen Überreste einer antiken römischen Villa am Meer, aber bleiben Sie auf den markierten Wegen, um Mosaike zu schützen.",
+            "hu": "Sétáljon végig egy ősi római tengerparti villa régészeti maradványain, de maradjon a kijelölt ösvényeken a kényes mozaikok megőrzése érdekében.",
+            "ro": "Plimbați-vă printre rămășițele arheologice ale unei vechi vile romane, dar rămâneți pe căile marcate pentru a proteja mozaicurile delicate.",
+            "en": "Walk through the archaeological remains of an ancient Roman villa by the sea, but stay on the marked pathways to preserve the delicate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Multimediale della Casa Rossa Ximenes",
+            "hu": "Museo Multimediale della Casa Rossa Ximenes",
+            "ro": "Museo Multimediale della Casa Rossa Ximenes",
+            "en": "Museo Multimediale della Casa Rossa Ximenes"
+          },
+          "coords": [
+            10.901431,
+            42.768734
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die faszinierende ökologische Geschichte der Feuchtgebiete ein und prüfen Sie die Führungen, um die lokale Flora zu verstehen.",
+            "hu": "Merüljön el a helyi vizes élőhelyek lenyűgöző ökológiai történelmében, és érdeklődjön az idegenvezetések felől, hogy megértse a helyi növényvilágot.",
+            "ro": "Scufundați-vă în istoria ecologică fascinantă a zonelor umede locale aici și verificați tururile ghidate programate pentru a înțelege flora.",
+            "en": "Dive into the fascinating ecological history of the local wetlands here, and check the scheduled guided tours to fully understand the local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer frischen Morgenfahrt zu den Stränden im Westen, um Ihre Sinne zu wecken. Mittags fahren Sie hinauf zu den historischen Festungstürmen und eleganten Palazzi. Die Nachmittagsrunde erkundet die faszinierenden archäologischen Überreste römischer Villen. Beenden Sie den Tag bei der interaktiven Casa Rossa.",
+        "hu": "Kezdje egy frissítő reggeli tekeréssel a szellős nyugati strandokhoz, hogy felébressze érzékeit. Délben a történelmi erődítmények és elegáns paloták várják a városközpontban. A délutáni kerékpározás a római villák lenyűgöző régészeti maradványait tárja fel. Zárja a napot az interaktív Casa Rossa meglátogatásával.",
+        "ro": "Începeți cu o plimbare revigorantă de dimineață spre plajele de vest pentru a vă trezi simțurile. Amiaza vă aduce la turnurile cetății istorice și la palatele elegante din centrul orașului. Pedalarea de după-amiază explorează rămășițele arheologice fascinante ale vilelor romane. Încheiați-vă ziua explorând Casa Rossa interactivă.",
+        "en": "Start with a brisk morning ride to the breezy western beaches to awaken your senses. Midday brings you up to the historic fortress towers and elegant palazzos in the town center. The afternoon pedal explores the fascinating archaeological remnants of Roman villas. Conclude your day cycling to the interactive Casa Rossa to explore local wetlands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Arcobaleno",
+            "hu": "Bagno Arcobaleno",
+            "ro": "Bagno Arcobaleno",
+            "en": "Bagno Arcobaleno"
+          },
+          "coords": [
+            10.853394,
+            42.767912
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen Weststrand mit tollen Surfbedingungen, aber beachten Sie, dass die Parkplätze im Sommer schnell voll sind.",
+            "hu": "Kezdje a napot ezen a kiterjedt nyugati strandon, amely nagyszerű szörfözési lehetőségeket kínál, de nyáron a parkolók gyorsan megtelhetnek.",
+            "ro": "Începeți-vă ziua pe această plajă vastă de vest, care oferă condiții excelente de surf, dar rețineți că parcarea se poate umple rapid vara.",
+            "en": "Kick off your day at this expansive western beach offering great surf conditions, but be aware that parking can fill up fast during the peak summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Lilli",
+            "hu": "Torre Lilli",
+            "ro": "Torre Lilli",
+            "en": "Torre Lilli"
+          },
+          "coords": [
+            10.882607,
+            42.76476
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses alten Verteidigungsturms hinauf, um spektakuläre Ausblicke auf die Küste zu genießen, und tragen Sie bequeme Schuhe.",
+            "hu": "Másszon fel ezen ősi védőtorony közelébe, hogy lenyűgöző tengerparti kilátást élvezzen, de viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Urcați lângă acest turn de apărare antic pentru a vă bucura de vederi spectaculoase asupra coastei, purtând pantofi confortabili pentru drumul pietruit.",
+            "en": "Climb up near this ancient defensive tower to enjoy spectacular coastal views, wearing comfortable shoes to navigate the steep cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana delle Paduline",
+            "hu": "Villa romana delle Paduline",
+            "ro": "Villa romana delle Paduline",
+            "en": "Villa romana delle Paduline"
+          },
+          "coords": [
+            10.887072,
+            42.765157
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die archäologischen Überreste einer antiken römischen Villa am Meer, aber bleiben Sie auf den markierten Wegen, um Mosaike zu schützen.",
+            "hu": "Sétáljon végig egy ősi római tengerparti villa régészeti maradványain, de maradjon a kijelölt ösvényeken a kényes mozaikok megőrzése érdekében.",
+            "ro": "Plimbați-vă printre rămășițele arheologice ale unei vechi vile romane, dar rămâneți pe căile marcate pentru a proteja mozaicurile delicate.",
+            "en": "Walk through the archaeological remains of an ancient Roman villa by the sea, but stay on the marked pathways to preserve the delicate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Multimediale della Casa Rossa Ximenes",
+            "hu": "Museo Multimediale della Casa Rossa Ximenes",
+            "ro": "Museo Multimediale della Casa Rossa Ximenes",
+            "en": "Museo Multimediale della Casa Rossa Ximenes"
+          },
+          "coords": [
+            10.901431,
+            42.768734
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die faszinierende ökologische Geschichte der Feuchtgebiete ein und prüfen Sie die Führungen, um die lokale Flora zu verstehen.",
+            "hu": "Merüljön el a helyi vizes élőhelyek lenyűgöző ökológiai történelmében, és érdeklődjön az idegenvezetések felől, hogy megértse a helyi növényvilágot.",
+            "ro": "Scufundați-vă în istoria ecologică fascinantă a zonelor umede locale aici și verificați tururile ghidate programate pentru a înțelege flora.",
+            "en": "Dive into the fascinating ecological history of the local wetlands here, and check the scheduled guided tours to fully understand the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Bau Beach Selene",
+            "hu": "Bau Beach Selene",
+            "ro": "Bau Beach Selene",
+            "en": "Bau Beach Selene"
+          },
+          "coords": [
+            10.895522,
+            42.75803
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieser haustierfreundliche Sandstrand ist perfekt, um fröhlich spielende Hunde zu beobachten, und ideal für Tierliebhaber, die spazieren möchten.",
+            "hu": "Ez az állatbarát homokos partszakasz tökéletes a tengerben játszó boldog kutyák megfigyelésére, így ideális az állatbarátok számára egy sétához.",
+            "ro": "Această întindere de nisip prietenoasă cu animalele de companie este perfectă pentru a observa câinii jucându-se fericiți în valuri, ideală pentru relaxare.",
+            "en": "This pet-friendly stretch of sand is perfect for observing joyful dogs playing in the surf, making it ideal for animal lovers wanting a relaxed walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Delfino",
+            "hu": "Bagno Delfino",
+            "ro": "Bagno Delfino",
+            "en": "Bagno Delfino"
+          },
+          "coords": [
+            10.888384,
+            42.759873
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem lebhaften Strandresort, wenn die Sonne untergeht, und nutzen Sie die Gelegenheit, das goldene Licht auf dem Wasser einzufangen.",
+            "hu": "Zárja tengerparti utazását ebben a nyüzsgő strandüdülőben a naplementekor, és használja ki a lehetőséget, hogy megörökítse a víz arany fényét.",
+            "ro": "Încheiați-vă călătoria pe coastă la acest complex de plajă vibrant în timp ce soarele apune, profitând de oportunitatea de a surprinde lumina aurie pe apă.",
+            "en": "Conclude your coastal journey at this vibrant beach resort as the sun lowers, taking the opportunity to capture the golden hour light on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an den weitläufigen Sandstränden im Westen, ideal für einen friedlichen Morgen. Mittags fahren Sie in den charmanten historischen Kern, um den Lilli-Turm zu bewundern. Der Nachmittag bietet einen faszinierenden Besuch im Naturmuseum Casa Rossa. Der Abend klingt an der Ostküste in den lebhaften Strandclubs aus.",
+        "hu": "Az autózás a nyugati homokos strandoknál kezdődik, amely ideális egy békés reggelhez. Délre érjen el a bájos történelmi maghoz, hogy megcsodálja a Lilli-tornyot és a romokat. A délután lenyűgöző látogatást kínál a Casa Rossa múzeumban. Az este a keleti part mentén, a nyüzsgő és állatbarát strandklubokban ér véget.",
+        "ro": "Plimbarea cu mașina începe pe plajele de vest, ideale pentru o dimineață liniștită. Până la prânz, traversați nucleul istoric fermecător pentru a admira Turnul Lilli. După-amiaza oferă o vizită captivantă la muzeul naturii Casa Rossa. Seara se relaxează de-a lungul coastei de est, la cluburile de plajă vibrante și prietenoase.",
+        "en": "Your drive begins at the expansive western sandy beaches, ideal for a peaceful morning start. By midday, traverse to the charming historic core to admire the commanding Lilli Tower and nearby ruins. The afternoon offers a captivating visit to the Casa Rossa nature museum. Evening winds down along the eastern coast at pet-friendly and vibrant beach clubs."
+      }
+    }
+  }
+}

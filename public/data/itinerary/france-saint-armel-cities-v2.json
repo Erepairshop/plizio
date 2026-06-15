@@ -1,0 +1,474 @@
+{
+  "city_id": "france-saint-armel-cities-v2",
+  "anchor": {
+    "name": "Saint-Armel",
+    "coords": [
+      -2.70998,
+      47.5728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.709455,
+            47.573004
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser Pfarrkirche, einem Eckpfeiler der lokalen Geschichte, und achten Sie auf Chorveranstaltungen vor Ort.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait, amely a helyi történelem sarokköve, és figyelje a kórusok eseményeit.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, o piatră de temelie a istoriei locale, și verificați panoul pentru evenimente corale.",
+            "en": "Admire the beautiful stained glass of this central parish church, a cornerstone of local history, and check the notice board for community choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone de tranquilité",
+            "hu": "Zone de tranquilité",
+            "ro": "Zone de tranquilité",
+            "en": "Zone de tranquilité"
+          },
+          "coords": [
+            -2.722827,
+            47.578524
+          ],
+          "category": "natural",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Naturschutzgebiet mit atemberaubendem Blick auf das Ökosystem des Golfs und bringen Sie ein Fernglas für Vögel mit.",
+            "hu": "Fedezze fel ezt a békés, védett természeti területet, amely lenyűgöző kilátást nyújt az öbölre; hozzon magával távcsövet a vízimadarak megfigyeléséhez.",
+            "ro": "Explorați această zonă naturală protejată pașnică, care oferă vederi uimitoare ale ecosistemului; aduceți binoclul pentru a observa păsările de apă.",
+            "en": "Explore this peaceful protected natural area offering stunning views of the gulf ecosystem; bring binoculars to spot the diverse migratory water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "La paludière du golfe",
+            "hu": "La paludière du golfe",
+            "ro": "La paludière du golfe",
+            "en": "La paludière du golfe"
+          },
+          "coords": [
+            -2.722109,
+            47.567135
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Handwerk der Meersalzgewinnung in diesem interaktiven Ökomuseum und kaufen Sie unbedingt etwas lokales Fleur de Sel als Souvenir.",
+            "hu": "Fedezze fel a tengeri só betakarításának ősi mesterségét ebben az ökomúzeumban, és feltétlenül vásároljon egy kis zacskó helyi fleur de sel-t emlékbe.",
+            "ro": "Descoperiți meșteșugul antic al recoltării sării de mare la acest ecomuzeu și asigurați-vă că achiziționați o pungă de fleur de sel locală ca suvenir.",
+            "en": "Discover the ancient craft of sea salt harvesting at this interactive ecomuseum, and be sure to buy a small bag of local fleur de sel as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lasné",
+            "hu": "Plage de Lasné",
+            "ro": "Plage de Lasné",
+            "en": "Plage de Lasné"
+          },
+          "coords": [
+            -2.727493,
+            47.56633
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, familienfreundlichen Strand mit weichem Sand und ruhigem Wasser, also packen Sie Ihre Lieblingsbadehose ein.",
+            "hu": "Pihenjen ezen az érintetlen, családbarát strandon, amely puha homokjáról és nyugodt vizéről ismert, ezért feltétlenül csomagolja be kedvenc fürdőruháját.",
+            "ro": "Relaxați-vă pe această plajă curată, ideală pentru familii, cunoscută pentru nisipul moale și apele calme, așa că nu uitați să luați costumul de baie.",
+            "en": "Relax on this pristine, family-friendly beach known for its soft sand and calm waters, perfect for an afternoon dip, so pack your favorite swimsuit."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite plage",
+            "hu": "Petite plage",
+            "ro": "Petite plage",
+            "en": "Petite plage"
+          },
+          "coords": [
+            -2.726722,
+            47.56488
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses versteckten Küstenjuwels, das malerische Sonnenuntergänge über dem Wasser bietet, ideal für ein spätes Picknick.",
+            "hu": "Élvezze ennek a rejtett tengerparti gyöngyszemnek a csendes hangulatát, amely festői naplementét kínál a víz felett, ideális egy késő délutáni piknikhez.",
+            "ro": "Bucurați-vă de ambianța liniștită a acestei bijuterii de coastă ascunse, care oferă apusuri de soare pitorești, fiind ideală pentru un picnic de seară.",
+            "en": "Enjoy the quiet ambiance of this hidden coastal gem, offering picturesque sunset views over the water, making it ideal for a late afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Saint-Armel und erkunden Sie die historische Kirche, bevor Sie zu den Küstengebieten aufbrechen. Mittags spazieren Sie durch die ruhigen, geschützten Naturzonen, die ideal zur Vogelbeobachtung sind. Entdecken Sie am Nachmittag die Salzwiesen und lernen Sie das lokale Erbe kennen. Beenden Sie den Tag entspannt an den Sandstränden bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Saint-Armel szívében, fedezze fel történelmi templomát, majd induljon el a festői tengerparti területek felé. Délben a csendes, védett természeti övezeteken halad át, ahol madarakat is megfigyelhet. Délután fedezze fel a sós mocsarakat és az öböl helyi örökségét. Zárja a napot pihenéssel a homokos partokon, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața în inima orașului Saint-Armel, explorând biserica istorică, înainte de a vă îndrepta spre zonele de coastă pitorești. La amiază vă veți plimba prin zonele naturale protejate, perfecte pentru observarea păsărilor. După-amiaza descoperiți mlaștinile sărate și aflați despre moștenirea locală a golfului. Încheiați ziua relaxându-vă pe malurile nisipoase la apus.",
+        "en": "Begin your morning in the heart of Saint-Armel, exploring its historic church before heading out towards the scenic coastal areas. Midday takes you through the tranquil protected natural zones, perfect for spotting local birds. In the afternoon, discover the salt marshes and learn about the local heritage of the gulf. Wrap up your day relaxing on the sandy shores as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.709455,
+            47.573004
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser Pfarrkirche, einem Eckpfeiler der lokalen Geschichte, und achten Sie auf Chorveranstaltungen vor Ort.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait, amely a helyi történelem sarokköve, és figyelje a kórusok eseményeit.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, o piatră de temelie a istoriei locale, și verificați panoul pentru evenimente corale.",
+            "en": "Admire the beautiful stained glass of this central parish church, a cornerstone of local history, and check the notice board for community choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison du Cidre",
+            "hu": "La Maison du Cidre",
+            "ro": "La Maison du Cidre",
+            "en": "La Maison du Cidre"
+          },
+          "coords": [
+            -2.693132,
+            47.582685
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch Ausstellungen mehr über die traditionelle bretonische Cidre-Herstellung und planen Sie Zeit für eine Verkostung der Apfelweine ein.",
+            "hu": "Ismerje meg a hagyományos breton almabor készítését érdekes kiállításokon keresztül, és hagyjon időt egy kóstolóra, hogy megtalálja kedvencét.",
+            "ro": "Aflați despre fabricarea tradițională a cidrului breton prin expoziții captivante și păstrați timp pentru o degustare a recoltelor de mere crocante.",
+            "en": "Learn about traditional Breton cider-making through engaging exhibits, and save time for a tasting session to find your favorite crisp apple vintage."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Vincent",
+            "hu": "Église Saint-Vincent",
+            "ro": "Église Saint-Vincent",
+            "en": "Église Saint-Vincent"
+          },
+          "coords": [
+            -2.704975,
+            47.5857
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Charme und die feinen Steinmetzarbeiten dieser Kirche zu bewundern, die oft kleine Kunstausstellungen beherbergt.",
+            "hu": "Szánjon egy percet ennek a festői, történelmi templomnak az aprólékos kőművesmunkáira, amely gyakran ad otthont kisebb nyári művészeti kiállításoknak.",
+            "ro": "Apreciați farmecul modest și zidăria complexă a acestei biserici istorice pitorești, care găzduiește adesea mici expoziții de artă în timpul verii.",
+            "en": "Take a moment to appreciate the modest charm and intricate stonework of this quaint historical church, which often hosts small summer art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bot-Spernen",
+            "hu": "Château de Bot-Spernen",
+            "ro": "Château de Bot-Spernen",
+            "en": "Château de Bot-Spernen"
+          },
+          "coords": [
+            -2.71926,
+            47.59144
+          ],
+          "category": "castle",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieses Schlosses, um die aristokratische Vergangenheit der Region zu verstehen, aber buchen Sie Touren vorab.",
+            "hu": "Tekintse meg ennek a lenyűgöző kastélynak a homlokzatát, hogy megértse a régió arisztokratikus múltját, de ne feledje, a belső túrákhoz foglalás kell.",
+            "ro": "Admirați fațada impresionantă a acestui castel pentru a înțelege trecutul aristocratic al regiunii, dar rețineți că tururile interioare necesită rezervare.",
+            "en": "View the impressive facade of this grand local chateau to understand the region's aristocratic past, though note that interior tours require booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone de tranquilité",
+            "hu": "Zone de tranquilité",
+            "ro": "Zone de tranquilité",
+            "en": "Zone de tranquilité"
+          },
+          "coords": [
+            -2.722827,
+            47.578524
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Naturschutzgebiet mit atemberaubendem Blick auf das Ökosystem des Golfs und bringen Sie ein Fernglas für Vögel mit.",
+            "hu": "Fedezze fel ezt a békés, védett természeti területet, amely lenyűgöző kilátást nyújt az öbölre; hozzon magával távcsövet a vízimadarak megfigyeléséhez.",
+            "ro": "Explorați această zonă naturală protejată pașnică, care oferă vederi uimitoare ale ecosistemului; aduceți binoclul pentru a observa păsările de apă.",
+            "en": "Explore this peaceful protected natural area offering stunning views of the gulf ecosystem; bring binoculars to spot the diverse migratory water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "La paludière du golfe",
+            "hu": "La paludière du golfe",
+            "ro": "La paludière du golfe",
+            "en": "La paludière du golfe"
+          },
+          "coords": [
+            -2.722109,
+            47.567135
+          ],
+          "category": "museum",
+          "arrive_at": "15:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Handwerk der Meersalzgewinnung in diesem interaktiven Ökomuseum und kaufen Sie unbedingt etwas lokales Fleur de Sel als Souvenir.",
+            "hu": "Fedezze fel a tengeri só betakarításának ősi mesterségét ebben az ökomúzeumban, és feltétlenül vásároljon egy kis zacskó helyi fleur de sel-t emlékbe.",
+            "ro": "Descoperiți meșteșugul antic al recoltării sării de mare la acest ecomuzeu și asigurați-vă că achiziționați o pungă de fleur de sel locală ca suvenir.",
+            "en": "Discover the ancient craft of sea salt harvesting at this interactive ecomuseum, and be sure to buy a small bag of local fleur de sel as a souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der Hauptkirche zum charmanten Cidre-Haus, um die berühmten Apfelkreationen der Region zu probieren. Mittags fahren Sie gemütlich an der Kirche Saint-Vincent und einem historischen Schloss vorbei. Treten Sie am Nachmittag am Golf entlang, um in die natürliche Ruhe der Naturschutzgebiete einzutauchen. Beenden Sie Ihre Tour an den Salinen und entdecken Sie lokale Traditionen.",
+        "hu": "Kerékpározzon el a főtemplomtól a hangulatos Almabor Házhoz, és kóstolja meg a régió híres almás finomságait. Délben kellemes tekerés vár Önre a bájos Saint-Vincent templom és egy történelmi kastély mellett. Délután pedálozzon az öböl mentén, és merüljön el a védett zónák természetes nyugalmában. Fejezze be túráját a sólepárlóknál, felfedezve a helyi hagyományokat.",
+        "ro": "Pedalați de la biserica principală spre fermecătoarea Casă a Cidrului pentru a degusta creațiile celebre din mere ale regiunii. Amiaza aduce o plimbare ușoară pe lângă biserica Saint-Vincent și un castel istoric. După-amiaza, mergeți de-a lungul golfului pentru a vă bucura de liniștea zonelor naturale protejate. Încheiați cursa la saline, descoperind tradițiile locale cu adevărat fascinante.",
+        "en": "Cycle out from the main church towards the delightful Cider House to taste the region's famous apple creations. Midday brings a gentle ride past the charming Saint-Vincent church and a historic chateau setting. In the afternoon, pedal along the gulf to immerse yourself in the natural tranquility of the protected navigation zones. End your ride at the salt pans, discovering local traditions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Vincent",
+            "hu": "Église Saint-Vincent",
+            "ro": "Église Saint-Vincent",
+            "en": "Église Saint-Vincent"
+          },
+          "coords": [
+            -2.704975,
+            47.5857
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Charme und die feinen Steinmetzarbeiten dieser Kirche zu bewundern, die oft kleine Kunstausstellungen beherbergt.",
+            "hu": "Szánjon egy percet ennek a festői, történelmi templomnak az aprólékos kőművesmunkáira, amely gyakran ad otthont kisebb nyári művészeti kiállításoknak.",
+            "ro": "Apreciați farmecul modest și zidăria complexă a acestei biserici istorice pitorești, care găzduiește adesea mici expoziții de artă în timpul verii.",
+            "en": "Take a moment to appreciate the modest charm and intricate stonework of this quaint historical church, which often hosts small summer art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison du Cidre",
+            "hu": "La Maison du Cidre",
+            "ro": "La Maison du Cidre",
+            "en": "La Maison du Cidre"
+          },
+          "coords": [
+            -2.693132,
+            47.582685
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch Ausstellungen mehr über die traditionelle bretonische Cidre-Herstellung und planen Sie Zeit für eine Verkostung der Apfelweine ein.",
+            "hu": "Ismerje meg a hagyományos breton almabor készítését érdekes kiállításokon keresztül, és hagyjon időt egy kóstolóra, hogy megtalálja kedvencét.",
+            "ro": "Aflați despre fabricarea tradițională a cidrului breton prin expoziții captivante și păstrați timp pentru o degustare a recoltelor de mere crocante.",
+            "en": "Learn about traditional Breton cider-making through engaging exhibits, and save time for a tasting session to find your favorite crisp apple vintage."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bot-Spernen",
+            "hu": "Château de Bot-Spernen",
+            "ro": "Château de Bot-Spernen",
+            "en": "Château de Bot-Spernen"
+          },
+          "coords": [
+            -2.71926,
+            47.59144
+          ],
+          "category": "castle",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieses Schlosses, um die aristokratische Vergangenheit der Region zu verstehen, aber buchen Sie Touren vorab.",
+            "hu": "Tekintse meg ennek a lenyűgöző kastélynak a homlokzatát, hogy megértse a régió arisztokratikus múltját, de ne feledje, a belső túrákhoz foglalás kell.",
+            "ro": "Admirați fațada impresionantă a acestui castel pentru a înțelege trecutul aristocratic al regiunii, dar rețineți că tururile interioare necesită rezervare.",
+            "en": "View the impressive facade of this grand local chateau to understand the region's aristocratic past, though note that interior tours require booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.709455,
+            47.573004
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser Pfarrkirche, einem Eckpfeiler der lokalen Geschichte, und achten Sie auf Chorveranstaltungen vor Ort.",
+            "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait, amely a helyi történelem sarokköve, és figyelje a kórusok eseményeit.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, o piatră de temelie a istoriei locale, și verificați panoul pentru evenimente corale.",
+            "en": "Admire the beautiful stained glass of this central parish church, a cornerstone of local history, and check the notice board for community choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "La paludière du golfe",
+            "hu": "La paludière du golfe",
+            "ro": "La paludière du golfe",
+            "en": "La paludière du golfe"
+          },
+          "coords": [
+            -2.722109,
+            47.567135
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Handwerk der Meersalzgewinnung in diesem interaktiven Ökomuseum und kaufen Sie unbedingt etwas lokales Fleur de Sel als Souvenir.",
+            "hu": "Fedezze fel a tengeri só betakarításának ősi mesterségét ebben az ökomúzeumban, és feltétlenül vásároljon egy kis zacskó helyi fleur de sel-t emlékbe.",
+            "ro": "Descoperiți meșteșugul antic al recoltării sării de mare la acest ecomuzeu și asigurați-vă că achiziționați o pungă de fleur de sel locală ca suvenir.",
+            "en": "Discover the ancient craft of sea salt harvesting at this interactive ecomuseum, and be sure to buy a small bag of local fleur de sel as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lasné",
+            "hu": "Plage de Lasné",
+            "ro": "Plage de Lasné",
+            "en": "Plage de Lasné"
+          },
+          "coords": [
+            -2.727493,
+            47.56633
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, familienfreundlichen Strand mit weichem Sand und ruhigem Wasser, also packen Sie Ihre Lieblingsbadehose ein.",
+            "hu": "Pihenjen ezen az érintetlen, családbarát strandon, amely puha homokjáról és nyugodt vizéről ismert, ezért feltétlenül csomagolja be kedvenc fürdőruháját.",
+            "ro": "Relaxați-vă pe această plajă curată, ideală pentru familii, cunoscută pentru nisipul moale și apele calme, așa că nu uitați să luați costumul de baie.",
+            "en": "Relax on this pristine, family-friendly beach known for its soft sand and calm waters, perfect for an afternoon dip, so pack your favorite swimsuit."
+          }
+        },
+        {
+          "name": {
+            "de": "Oh Bonheur des Gosses!",
+            "hu": "Oh Bonheur des Gosses!",
+            "ro": "Oh Bonheur des Gosses!",
+            "en": "Oh Bonheur des Gosses!"
+          },
+          "coords": [
+            -2.701283,
+            47.554369
+          ],
+          "category": "recreational",
+          "arrive_at": "16:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie der Familie einen lustigen Nachmittag in diesem lebhaften Freizeitpark mit vielen Aktivitäten und tragen Sie unbedingt bequeme Schuhe.",
+            "hu": "Lepje meg a családot egy vidám délutánnal ebben az élénk szabadidőparkban, amely tele van szórakoztató programokkal, így viseljen kényelmes cipőt.",
+            "ro": "Oferiți familiei o după-amiază plină de distracție la acest parc de agrement plin de activități și purtați neapărat o pereche de încălțăminte comodă.",
+            "en": "Treat the family to a fun-filled afternoon at this lively recreational park packed with engaging activities, so wear comfortable shoes for running around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Kirche Saint-Vincent, gefolgt von einem leckeren und lehrreichen Halt im Cidre-Haus. Der Mittag bietet historische Architektur in Bot-Spernen und das spirituelle Zentrum von Saint-Armel. Entdecken Sie am Nachmittag die faszinierenden Salzwiesen und den Sandstrand von Lasné. Beenden Sie Ihre Autotour mit familienfreundlicher Erholung im Oh Bonheur des Gosses.",
+        "hu": "Autózzon reggel a Saint-Vincent templomhoz, majd tegyen egy ízletes és tanulságos megállót az Almabor Háznál. A dél a történelmi Bot-Spernen építészetét és Saint-Armel spirituális központját kínálja. Délután fedezze fel a lenyűgöző sós mocsarakat és a Lasné strand homokos partját. Zárja az autós túrát a családbarát kikapcsolódást nyújtó Oh Bonheur des Gosses parkban.",
+        "ro": "Conduceți dimineața către biserica Saint-Vincent, urmată de o oprire gustoasă și educativă la Casa Cidrului. Amiaza oferă arhitectura istorică de la Bot-Spernen și centrul spiritual din Saint-Armel. După-amiaza, explorați mlaștinile sărate fascinante și întinderea de nisip a plajei Lasné. Încheiați turul cu mașina printr-o relaxare pentru întreaga familie la Oh Bonheur des Gosses.",
+        "en": "Drive straight to Saint-Vincent church for a peaceful morning start, followed by an educational and tasty stop at the Cider House. Midday offers historic architecture at Bot-Spernen and the spiritual center of Saint-Armel. In the afternoon, explore the fascinating salt marshes and the sandy stretch of Lasné beach. Conclude your driving tour with family-friendly recreation at Oh Bonheur des Gosses."
+      }
+    }
+  }
+}

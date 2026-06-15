@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-augusta-cities-v2",
+  "anchor": {
+    "name": "Augusta",
+    "coords": [
+      15.21966,
+      37.23694
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Santo Stefano",
+            "hu": "Porta Santo Stefano",
+            "ro": "Porta Santo Stefano",
+            "en": "Porta Santo Stefano"
+          },
+          "coords": [
+            15.220135,
+            37.235754
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spanische Tor als Symbol der Stadtverteidigung und achten Sie auf die Wappensteine im oberen Bereich.",
+            "hu": "Csodálja meg a spanyol kaput, a városvédelem szimbólumát, és figyelje meg a felső részén lévő címereket a fotókhoz.",
+            "ro": "Admirați poarta spaniolă ca simbol al apărării orașului și căutați blazoanele de piatră din partea superioară.",
+            "en": "Admire the Spanish gate as a symbol of the city's defense and look for the stone coats of arms near the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Svevo",
+            "hu": "Castello Svevo",
+            "ro": "Castello Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            15.220762,
+            37.234632
+          ],
+          "category": "landmark",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Festung Friedrichs II., um die reiche Geschichte zu verstehen, und tragen Sie bequeme Schuhe für das Pflaster.",
+            "hu": "Fedezze fel II. Frigyes erődjét a gazdag történelem megértéséhez, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Explorați fortăreața lui Frederic al II-lea pentru a înțelege istoria și purtați încălțăminte confortabilă pentru pietre.",
+            "en": "Explore Frederick II's fortress to grasp the area's rich history, and wear comfortable walking shoes for the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Badiazza",
+            "hu": "Belvedere Badiazza",
+            "ro": "Belvedere Badiazza",
+            "en": "Belvedere Badiazza"
+          },
+          "coords": [
+            15.222655,
+            37.232407
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Blick auf das Meer und den Hafen, kommen Sie am besten mit einer guten Kamera für Landschaftsfotos.",
+            "hu": "Élvezze a tengerre és a kikötőre nyíló fantasztikus kilátást, érdemes jó fényképezőgépet hozni a tájképekhez.",
+            "ro": "Bucurați-vă de vederea fantastică la mare și port; asigurați-vă că aveți aparatul foto pregătit pentru peisaje.",
+            "en": "Enjoy the fantastic views of the sea and harbor from this spot, making sure to bring a good camera for landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Augusta",
+            "hu": "Municipio di Augusta",
+            "ro": "Municipio di Augusta",
+            "en": "Municipio di Augusta"
+          },
+          "coords": [
+            15.220109,
+            37.230305
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Architektur des Rathauses von außen und besuchen Sie ein nahegelegenes Café für einen Espresso.",
+            "hu": "Tekintse meg a városháza fenséges építészetét kívülről, majd térjen be egy közeli kávézóba egy finom eszpresszóra.",
+            "ro": "Priviți arhitectura maiestuoasă a primăriei din exterior și opriți-vă la o cafenea din apropiere pentru un espresso.",
+            "en": "Observe the majestic architecture of the town hall from the outside, and pop into a nearby cafe for a quick espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Andrea Apostolo",
+            "hu": "Chiesa di Sant'Andrea Apostolo",
+            "ro": "Chiesa di Sant'Andrea Apostolo",
+            "en": "Chiesa di Sant'Andrea Apostolo"
+          },
+          "coords": [
+            15.220564,
+            37.228086
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Kirche wegen ihrer schönen Altardetails und respektieren Sie die ruhige Atmosphäre während des Gebets.",
+            "hu": "Látogassa meg ezt a békés templomot a szép oltárrészletekért, és tartsa tiszteletben a csendes légkört.",
+            "ro": "Vizitați această biserică pașnică pentru detaliile frumoase ale altarului și respectați atmosfera liniștită în timpul rugăciunii.",
+            "en": "Visit this peaceful church for its beautiful altar details, and be sure to respect the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ricetta di Malta",
+            "hu": "Ricetta di Malta",
+            "ro": "Ricetta di Malta",
+            "en": "Ricetta di Malta"
+          },
+          "coords": [
+            15.222793,
+            37.224559
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erleben Sie die Spuren der Malteserritter an diesem historischen Ort und fragen Sie Einheimische nach der genauen Öffnungszeit.",
+            "hu": "Fedezze fel a máltai lovagok nyomait ezen a történelmi helyen, de előtte érdeklődjön a helyiektől a nyitvatartásról.",
+            "ro": "Descoperiți urmele cavalerilor de la Malta în acest loc istoric și întrebați localnicii despre programul exact de vizitare.",
+            "en": "Discover the traces of the Knights of Malta at this historic site, and ask locals to confirm the current visiting hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt an der historischen Porta Santo Stefano als Eingangstor zur Altstadt. Danach schlendern wir zum mächtigen Castello Svevo und genießen die Meeresbrise am Belvedere. Mittags bewundern wir das imposante Rathaus, bevor wir uns den spirituellen Stätten widmen. Der Nachmittag endet entspannt bei der Ricetta di Malta.",
+        "hu": "A nap a történelmi Porta Santo Stefano kapunál kezdődik, amely az óvárosba vezet. Ezután a fenséges Castello Svevo várát csodáljuk meg, majd a Belvedere teraszán pihenünk. Délben az impozáns városházát nézzük meg, mielőtt a szakrális helyszíneket járjuk be. A délután a Ricetta di Malta történelmi falai között ér véget békésen.",
+        "ro": "Ziua începe la istorica Porta Santo Stefano, intrarea în orașul vechi. Apoi admirăm maiestuosul Castello Svevo și ne bucurăm de briza mării la Belvedere. La prânz explorăm impunătoarea Primărie, înainte de a vizita lăcașurile spirituale ale orașului. După-amiaza se încheie relaxant la istorica Ricetta di Malta.",
+        "en": "The day starts at the historic Porta Santo Stefano, gateway to the old town. We then explore the mighty Castello Svevo before enjoying the ocean breeze at the Belvedere. At midday, we admire the impressive Town Hall and delve into local spiritual heritage. The afternoon wraps up peacefully at the historic Ricetta di Malta."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Lucia",
+            "hu": "Chiesa di Santa Lucia",
+            "ro": "Chiesa di Santa Lucia",
+            "en": "Chiesa di Santa Lucia"
+          },
+          "coords": [
+            15.220288,
+            37.244547
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese Kirche bietet einen ruhigen Start in den Tag; parken Sie Ihr Fahrrad sicher am Rand des Platzes vor dem Eingang.",
+            "hu": "Ez a templom nyugodt kezdést biztosít a napnak; parkolja le a kerékpárját biztonságosan a bejárat előtti téren.",
+            "ro": "Această biserică oferă un început liniștit de zi; asigurați-vă că parcati bicicleta în siguranță la marginea pieței.",
+            "en": "This church offers a peaceful start to the day; make sure to lock your bike securely at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Santo Stefano",
+            "hu": "Porta Santo Stefano",
+            "ro": "Porta Santo Stefano",
+            "en": "Porta Santo Stefano"
+          },
+          "coords": [
+            15.220135,
+            37.235754
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch dieses historische Tor, um in die Altstadt zu gelangen, und achten Sie auf Fußgänger im Durchgang.",
+            "hu": "Hajtson át ezen a történelmi kapun az óvárosba jutáshoz, és ügyeljen a gyalogosokra a szűk átjáróban.",
+            "ro": "Treceți cu bicicleta prin această poartă istorică pentru a intra în orașul vechi, având grijă la pietonii din pasaj.",
+            "en": "Ride through this historic gateway to enter the old town, but be mindful of pedestrians in the narrow passage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex chiesa di Gesù e Maria",
+            "hu": "Ex chiesa di Gesù e Maria",
+            "ro": "Ex chiesa di Gesù e Maria",
+            "en": "Ex chiesa di Gesù e Maria"
+          },
+          "coords": [
+            15.221251,
+            37.230894
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verblasste Pracht dieser ehemaligen Kirche und nutzen Sie das Morgenlicht für schöne Außenaufnahmen.",
+            "hu": "Csodálja meg ennek az egykori templomnak a megkopott pompáját, és használja ki a reggeli fényeket a fotózáshoz.",
+            "ro": "Admirați splendoarea estompată a acestei foste biserici și profitați de lumina dimineții pentru fotografii exterioare.",
+            "en": "Admire the faded grandeur of this former church, making sure to take advantage of the morning light for exterior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna delle Grazie",
+            "hu": "Chiesa della Madonna delle Grazie",
+            "ro": "Chiesa della Madonna delle Grazie",
+            "en": "Chiesa della Madonna delle Grazie"
+          },
+          "coords": [
+            15.223692,
+            37.229458
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser anmutigen Kirche für einen Moment der Stille und binden Sie Ihr Rad gut am schmiedeeisernen Zaun fest.",
+            "hu": "Álljon meg ennél a bájos templomnál egy pillanatnyi csendre, és kösse a kerékpárját biztonságosan a kovácsoltvas kerítéshez.",
+            "ro": "Opriți-vă la această biserică grațioasă pentru un moment de liniște și legați bicicleta bine de gardul din fier forjat.",
+            "en": "Stop at this graceful church for a moment of quiet, and ensure you tie your bike securely to the wrought-iron fence."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Soccorso",
+            "hu": "Chiesa del Soccorso",
+            "ro": "Chiesa del Soccorso",
+            "en": "Chiesa del Soccorso"
+          },
+          "coords": [
+            15.221486,
+            37.223388
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Kirche bietet interessante lokale Architekturdetails; schauen Sie kurz hinein und nehmen Sie etwas Wasser für die Weiterfahrt mit.",
+            "hu": "A templom érdekes helyi építészeti részleteket rejt; nézzen be röviden, és töltsön friss vizet a továbbútra.",
+            "ro": "Biserica oferă detalii arhitecturale locale interesante; intrați scurt și luați apă proaspătă pentru continuarea drumului.",
+            "en": "The church offers interesting local architectural details; take a quick look inside and grab some water for the ride ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sottufficiali Marina Militare Punta Izzo",
+            "hu": "Lido Sottufficiali Marina Militare Punta Izzo",
+            "ro": "Lido Sottufficiali Marina Militare Punta Izzo",
+            "en": "Lido Sottufficiali Marina Militare Punta Izzo"
+          },
+          "coords": [
+            15.239281,
+            37.236514
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Radtour an diesem Küstenabschnitt und bringen Sie unbedingt ein Handtuch und Sonnencreme mit.",
+            "hu": "Pihenje ki a kerékpártúrát ezen a tengerparti szakaszon, és mindenképpen hozzon magával törölközőt és naptejet.",
+            "ro": "Relaxați-vă după plimbarea cu bicicleta pe această porțiune de coastă; nu uitați să aduceți un prosop și cremă de soare.",
+            "en": "Relax after your cycling tour along this scenic coastal stretch, making sure to bring a towel and plenty of sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln wir zur Chiesa di Santa Lucia und tauchen in die Geschichte der Porta Santo Stefano ein. Danach erkunden wir die ehemalige Kirche Gesù e Maria. Nachmittags fahren wir entspannt zu weiteren kleinen Kirchen und bewundern die Architektur. Zum Abschluss geht es hinaus zum Lido della Marina Militare für einen tollen Blick.",
+        "hu": "Reggel a Chiesa di Santa Lucia felé kerekezünk, majd a Porta Santo Stefano történetébe merülünk. Ezt követően a Gesù e Maria egykori templomát fedezzük fel. Délután lazán pedálozunk további gyönyörű templomokhoz, megcsodálva a helyi építészetet. A napot a tengerparti Lido della Marina Militare kilátásával zárjuk.",
+        "ro": "Dimineața pedalăm spre Chiesa di Santa Lucia și descoperim istoria Porții Santo Stefano. Mai târziu explorăm fosta biserică Gesù e Maria. După-amiaza o petrecem relaxant vizitând alte biserici mici, admirând arhitectura locală inedită. Ziua se încheie la malul mării, la Lido della Marina Militare, cu o priveliște superbă.",
+        "en": "In the morning, we cycle to Chiesa di Santa Lucia and soak up the history of Porta Santo Stefano. Next, we explore the former church of Gesù e Maria. The afternoon features a leisurely ride to charming local churches, admiring the architecture. Finally, we head to the seaside Lido della Marina Militare for great coastal views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 3.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hangar per dirigibili",
+            "hu": "Hangar per dirigibili",
+            "ro": "Hangar per dirigibili",
+            "en": "Hangar per dirigibili"
+          },
+          "coords": [
+            15.199304,
+            37.244562
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses monumentale Bauwerk der Luftfahrtgeschichte ist faszinierend; parken Sie etwas abseits, um das ganze Ausmaß zu fotografieren.",
+            "hu": "A repüléstörténet ezen monumentális építménye lenyűgöző; parkoljon kicsit távolabb, hogy az egészet lefotózhassa.",
+            "ro": "Această structură monumentală a istoriei aviației este fascinantă; parcați puțin mai departe pentru a fotografia întreaga scară.",
+            "en": "This monumental structure of aviation history is fascinating; park a bit further away to photograph its true scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Svevo",
+            "hu": "Castello Svevo",
+            "ro": "Castello Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            15.220762,
+            37.234632
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die alte Stauferburg thront stolz über der Bucht; nutzen Sie den nahegelegenen Parkplatz für eine stressfreie Erkundung.",
+            "hu": "A régi sváb vár büszkén magasodik az öböl fölé; használja a közeli parkolót a stresszmentes felfedezéshez.",
+            "ro": "Vechiul castel șvab tronează mândru deasupra golfului; utilizați parcarea din apropiere pentru o explorare fără stres.",
+            "en": "The old Swabian castle proudly overlooks the bay; use the nearby parking lot for a completely stress-free exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Badiazza",
+            "hu": "Belvedere Badiazza",
+            "ro": "Belvedere Badiazza",
+            "en": "Belvedere Badiazza"
+          },
+          "coords": [
+            15.222655,
+            37.232407
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt hier bietet großartige Küstenpanoramen; stellen Sie das Auto sicher ab und gehen Sie zur Aussichtsplattform.",
+            "hu": "Egy rövid megálló itt nagyszerű parti panorámát kínál; állítsa le biztonságosan az autót, és sétáljon a kilátóhoz.",
+            "ro": "O scurtă oprire aici oferă panorame de coastă grozave; lăsați mașina în siguranță și mergeți la platforma de observare.",
+            "en": "A short stop here offers great coastal panoramas; park the car safely and walk up to the main viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Augusta",
+            "hu": "Municipio di Augusta",
+            "ro": "Municipio di Augusta",
+            "en": "Municipio di Augusta"
+          },
+          "coords": [
+            15.220109,
+            37.230305
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Das Rathauszentrum ist architektonisch reizvoll, aber Parkplätze sind knapp, also versuchen Sie es in den Seitenstraßen.",
+            "hu": "A városháza központja építészetileg vonzó, de a parkolóhely kevés, ezért próbálkozzon a mellékutcákban megállni.",
+            "ro": "Centrul primăriei este atractiv din punct de vedere arhitectural, dar locurile de parcare sunt limitate, căutați pe străzile laterale.",
+            "en": "The town hall center is architecturally appealing, but parking spots are scarce, so try the quieter side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco di Paola",
+            "hu": "Chiesa di San Francesco di Paola",
+            "ro": "Chiesa di San Francesco di Paola",
+            "en": "Chiesa di San Francesco di Paola"
+          },
+          "coords": [
+            15.222836,
+            37.226636
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese klassische italienische Kirche und achten Sie auf die Einbahnstraßen bei der Anfahrt durch das Zentrum.",
+            "hu": "Látogassa meg ezt a klasszikus olasz templomot, és figyeljen az egyirányú utcákra, amikor a központon keresztül érkezik.",
+            "ro": "Vizitați această biserică clasică italiană și aveți grijă la străzile cu sens unic atunci când conduceți prin centru.",
+            "en": "Visit this classic Italian church, paying close attention to the one-way street system when driving through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium comunale Giuseppe Amato",
+            "hu": "Auditorium comunale Giuseppe Amato",
+            "ro": "Auditorium comunale Giuseppe Amato",
+            "en": "Auditorium comunale Giuseppe Amato"
+          },
+          "coords": [
+            15.223008,
+            37.222066
+          ],
+          "category": "cultural",
+          "arrive_at": "14:28",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem Kulturort und prüfen Sie das lokale Programm für mögliche Abendveranstaltungen nach der Tour.",
+            "hu": "Zárja a napot ezen a kulturális helyszínen, és ellenőrizze a helyi programot az esetleges esti rendezvényekért.",
+            "ro": "Încheiați ziua la acest loc cultural și verificați programul local pentru posibile evenimente de seară după tur.",
+            "en": "End the day at this cultural venue, and check the local program board for any potential evening events after your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet spektakulär beim riesigen Luftschiff-Hangar, einem echten Geheimtipp. Danach fahren wir in die Stadt zum Castello Svevo und genießen die Aussicht vom Belvedere. Mittags besichtigen wir das charmante Rathaus und eine der historischen Kirchen. Der Ausflug endet gemütlich mit einem Besuch im lokalen Auditorium.",
+        "hu": "A nap lenyűgözően indul a hatalmas léghajóhangárnál, amely igazi különlegesség. Később a városba autózunk a Castello Svevo várához, és élvezzük a Belvedere panorámáját. Délben a hangulatos városházát és egy régi templomot fedezünk fel. A kirándulás az Auditorium kulturális élményével zárul kellemesen.",
+        "ro": "Ziua începe spectaculos la imensul hangar de dirijabile, o comoară ascunsă. Apoi conducem spre oraș pentru a vedea Castello Svevo și admirăm priveliștea de la Belvedere. La prânz vizităm primăria fermecătoare și o biserică istorică. Excursia se termină cu o vizită culturală relaxantă la Auditoriul local.",
+        "en": "The day kicks off spectacularly at the massive airship hangar, a true hidden gem. We then drive into town for the Castello Svevo and enjoy panoramic views from the Belvedere. At midday, we tour the charming Town Hall and a historic church. The journey concludes with a relaxing cultural visit to the local Auditorium."
+      }
+    }
+  }
+}

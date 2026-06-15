@@ -1,0 +1,428 @@
+{
+  "city_id": "delle",
+  "anchor": {
+    "name": "Delle",
+    "coords": [
+      6.9981,
+      47.5069
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Toronyház",
+            "ro": "Casa cu Turelă",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.998645,
+            47.50641
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
+            "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
+            "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz de l'Egalité",
+            "hu": "Egalité Játszótér",
+            "ro": "Loc de joacă Egalité",
+            "en": "Egalité Playground"
+          },
+          "coords": [
+            7.001283,
+            47.506226
+          ],
+          "category": "family",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannende Pause in diesem familienfreundlichen Park, der Kindern einen tollen Spielplatz und Erwachsenen ein ruhiges Picknick bietet.",
+            "hu": "Tartson egy pihentető szünetet ebben a családbarát parkban, amely remek játékteret kínál a gyerekeknek, a felnőttek pedig élvezhetik a békés piknikezést.",
+            "ro": "Faceți o pauză relaxantă în acest parc pentru familii, care oferă un loc minunat de joacă pentru copii și un spațiu de picnic liniștit pentru adulți.",
+            "en": "Take a relaxing break at this family-friendly park, which offers a great spot for kids to play and adults to enjoy a peaceful picnic under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Delle",
+            "hu": "Delle Városháza",
+            "ro": "Primăria Delle",
+            "en": "Delle Town Hall"
+          },
+          "coords": [
+            7.004781,
+            47.507319
+          ],
+          "category": "civic",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
+            "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
+            "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            7.00161,
+            47.526125
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische religiöse Stätte, um ihre wunderschöne Architektur zu bewundern, und treten Sie leise ein, um die friedliche Atmosphäre zu spüren.",
+            "hu": "Látogasson el ehhez a történelmi vallási helyszínhez, csodálja meg gyönyörű építészetét, és lépjen be csendben, hogy megtapasztalja a békés atmoszférát.",
+            "ro": "Vizitați acest sit religios istoric pentru a-i aprecia arhitectura frumoasă și pășiți înăuntru în liniște pentru a experimenta atmosfera senină și contemplativă.",
+            "en": "Visit this historic religious site to appreciate its beautiful architecture, and step inside quietly to experience the serene, contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Véronique",
+            "hu": "Chapelle Sainte-Véronique",
+            "ro": "Chapelle Sainte-Véronique",
+            "en": "Chapelle Sainte-Véronique"
+          },
+          "coords": [
+            7.005983,
+            47.529299
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bezaubernde, ruhige Kapelle im nördlichen Teil der Stadt, die der perfekte Ort ist, um eine Kerze anzuzünden und den Tag ausklingen zu lassen.",
+            "hu": "Fedezze fel ezt a bájos és csendes kápolnát a város északi részén, amely tökéletes helyszín arra, hogy gyújtson egy gyertyát és elmélkedjen a napjáról.",
+            "ro": "Descoperiți această capelă fermecătoare și liniștită din nordul orașului, locul perfect pentru a aprinde o lumânare și a reflecta asupra zilei dumneavoastră.",
+            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Turmhauses und spüren Sie den mittelalterlichen Puls. Die Mittagszeit lädt zu einem entspannten Spaziergang durch den Familienpark ein. Am Nachmittag entdecken Sie das bürgerliche Zentrum, bevor Sie im Norden die Kirche Saint-André bewundern. Gegen Abend finden Sie Ruhe in der Chapelle Sainte-Véronique.",
+        "hu": "Kezdje a reggelt a történelmi Toronyház felfedezésével, átérezve a város középkori lüktetését. A dél egy pihentető sétára csábít a helyi családi parkban, amely tökéletes egy rövid pihenőre. Délután fedezze fel a polgári központot, mielőtt északra indulna. Ahogy közeledik az este, találjon nyugalmat a Chapelle Sainte-Véronique-nál, lezárva a sétát.",
+        "ro": "Începeți-vă dimineața explorând istorica Casă cu Turelă, simțind pulsul medieval al orașului. Amiaza vă invită la o plimbare relaxată prin parcul local, perfect pentru odihnă. După-amiaza, descoperiți centrul civic înainte de a vă îndrepta spre nord pentru a admira Église Saint-André. Pe măsură ce se apropie seara, găsiți liniștea la Chapelle Sainte-Véronique.",
+        "en": "Start your morning exploring the historic Turret House, feeling the town's medieval pulse. Midday invites a relaxed stroll through the local family park, perfect for a short rest. In the afternoon, discover the civic center before heading north to admire Église Saint-André. As evening approaches, find tranquility at Chapelle Sainte-Véronique, wrapping up a charming walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Toronyház",
+            "ro": "Casa cu Turelă",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.998645,
+            47.50641
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
+            "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
+            "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Delle",
+            "hu": "Delle Városháza",
+            "ro": "Primăria Delle",
+            "en": "Delle Town Hall"
+          },
+          "coords": [
+            7.004781,
+            47.507319
+          ],
+          "category": "civic",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
+            "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
+            "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad Les Hémionées",
+            "hu": "Les Hémionées Uszoda",
+            "ro": "Piscina Les Hémionées",
+            "en": "Les Hémionées Pool"
+          },
+          "coords": [
+            7.011474,
+            47.495964
+          ],
+          "category": "family",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie aktive Freizeit in diesem modernen öffentlichen Schwimmbad und denken Sie daran, Ihren Badeanzug für ein erfrischendes Bad einzupacken.",
+            "hu": "Élvezze az aktív pihenést ebben a modern nyilvános medencében, ezért ne felejtse el magával hozni a fürdőruháját és törölközőjét egy frissítő csobbanáshoz.",
+            "ro": "Bucurați-vă de o relaxare activă la această piscină publică modernă, așa că nu uitați să vă împachetați costumul de baie pentru o baie revigorantă.",
+            "en": "Enjoy some active leisure at this modern public pool, offering a refreshing swim, so remember to pack your swimsuit and a towel for a revitalizing dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Milandre",
+            "hu": "Tour de Milandre",
+            "ro": "Tour de Milandre",
+            "en": "Tour de Milandre"
+          },
+          "coords": [
+            7.015286,
+            47.485491
+          ],
+          "category": "castle",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei diesem beeindruckenden Burgturm und tragen Sie festes Schuhwerk, um die raue, historische Umgebung sicher zu erkunden.",
+            "hu": "Lépjen vissza az időben ennél a lenyűgöző kastélytoronynál, amely évszázadokon át őrizte a régiót, és viseljen masszív cipőt a környék felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la acest turn formidabil de castel care a păzit regiunea timp de secole și purtați încălțăminte rezistentă pentru a-i explora împrejurimile.",
+            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère du Mont Renaud",
+            "hu": "Belvédère du Mont Renaud",
+            "ro": "Belvédère du Mont Renaud",
+            "en": "Belvédère du Mont Renaud"
+          },
+          "coords": [
+            7.034011,
+            47.496645
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem atemberaubenden natürlichen Aussichtspunkt, der einen Panoramablick bietet, den Sie am besten am späten Nachmittag genießen.",
+            "hu": "Zárja utazását ezen a lenyűgöző természetes kilátón, amely panorámás kilátást nyújt a tájra, és amelyet a késő délutáni fényekben a legjobb élvezni.",
+            "ro": "Încheiați-vă călătoria la acest punct de belvedere natural uimitor care oferă priveliști panoramice, cel mai bine savurate cu un aparat foto după-amiaza târziu.",
+            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am historischen Turmhaus und dem belebten Rathaus direkt im Zentrum. Mittags radeln Sie zur Piscine Les Hémionées für eine erfrischende Pause. Die Nachmittagsroute führt Sie weiter nach Süden, um die rauen Ruinen der Tour de Milandre zu erkunden. Beenden Sie Ihren Tag mit einer Fahrt zum Belvédère du Mont Renaud.",
+        "hu": "Indítsa kerékpáros napját a történelmi Toronyháznál és a nyüzsgő Városházánál a központban. Délben tekerjen a Piscine Les Hémionées felé egy frissítő szünetre. A délutáni útvonal délebbre visz, hogy felfedezze a Tour de Milandre vadregényes romjait. Zárja a napot azzal, hogy felteker a Belvédère du Mont Renaud-hoz a lélegzetelállító esti kilátásért.",
+        "ro": "Începeți-vă ziua de ciclism la istorica Casă cu Turelă și la Primăria plină de viață din centru. Până la prânz, pedalați spre Piscine Les Hémionées pentru o pauză. Traseul de după-amiază vă duce mai la sud pentru a explora ruinele aspre ale Tour de Milandre. Încheiați-vă ziua urcând la Belvédère du Mont Renaud pentru priveliști uluitoare de seară.",
+        "en": "Kick off your cycling day at the historic Turret House and the bustling Town Hall right in the center. By midday, pedal towards Piscine Les Hémionées for an invigorating break. The afternoon route takes you further south to explore the rugged ruins of Tour de Milandre. Conclude your day riding up to Belvédère du Mont Renaud for breathtaking evening views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 12.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Delle",
+            "hu": "Delle Városháza",
+            "ro": "Primăria Delle",
+            "en": "Delle Town Hall"
+          },
+          "coords": [
+            7.004781,
+            47.507319
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
+            "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
+            "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Véronique",
+            "hu": "Chapelle Sainte-Véronique",
+            "ro": "Chapelle Sainte-Véronique",
+            "en": "Chapelle Sainte-Véronique"
+          },
+          "coords": [
+            7.005983,
+            47.529299
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese bezaubernde, ruhige Kapelle im nördlichen Teil der Stadt, die der perfekte Ort ist, um eine Kerze anzuzünden und den Tag ausklingen zu lassen.",
+            "hu": "Fedezze fel ezt a bájos és csendes kápolnát a város északi részén, amely tökéletes helyszín arra, hogy gyújtson egy gyertyát és elmélkedjen a napjáról.",
+            "ro": "Descoperiți această capelă fermecătoare și liniștită din nordul orașului, locul perfect pentru a aprinde o lumânare și a reflecta asupra zilei dumneavoastră.",
+            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Toronyház",
+            "ro": "Casa cu Turelă",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.998645,
+            47.50641
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
+            "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
+            "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gérard",
+            "hu": "Église Saint-Gérard",
+            "ro": "Église Saint-Gérard",
+            "en": "Église Saint-Gérard"
+          },
+          "coords": [
+            6.977533,
+            47.487186
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Details dieser malerischen Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die wunderschönen Buntglasfenster zu bewundern.",
+            "hu": "Csodálja meg e festői plébániatemplom különleges építészeti részleteit, és szánjon egy pillanatot a napfényt gyönyörűen megszűrő ólomüveg ablakokra.",
+            "ro": "Minunați-vă de detaliile arhitecturale distincte ale acestei biserici parohiale pitorești și acordați-vă un moment pentru a admira vitraliile sale frumoase.",
+            "en": "Marvel at the distinct architectural details of this quaint parish church, taking a moment to admire the stained glass windows that beautifully filter the sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Milandre",
+            "hu": "Tour de Milandre",
+            "ro": "Tour de Milandre",
+            "en": "Tour de Milandre"
+          },
+          "coords": [
+            7.015286,
+            47.485491
+          ],
+          "category": "castle",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei diesem beeindruckenden Burgturm und tragen Sie festes Schuhwerk, um die raue, historische Umgebung sicher zu erkunden.",
+            "hu": "Lépjen vissza az időben ennél a lenyűgöző kastélytoronynál, amely évszázadokon át őrizte a régiót, és viseljen masszív cipőt a környék felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la acest turn formidabil de castel care a păzit regiunea timp de secole și purtați încălțăminte rezistentă pentru a-i explora împrejurimile.",
+            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère du Mont Renaud",
+            "hu": "Belvédère du Mont Renaud",
+            "ro": "Belvédère du Mont Renaud",
+            "en": "Belvédère du Mont Renaud"
+          },
+          "coords": [
+            7.034011,
+            47.496645
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem atemberaubenden natürlichen Aussichtspunkt, der einen Panoramablick bietet, den Sie am besten am späten Nachmittag genießen.",
+            "hu": "Zárja utazását ezen a lenyűgöző természetes kilátón, amely panorámás kilátást nyújt a tájra, és amelyet a késő délutáni fényekben a legjobb élvezni.",
+            "ro": "Încheiați-vă călătoria la acest punct de belvedere natural uimitor care oferă priveliști panoramice, cel mai bine savurate cu un aparat foto după-amiaza târziu.",
+            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen ins Herz von Delle und halten Sie am Rathaus und der historischen Chapelle Sainte-Véronique. Mittags besuchen Sie das Turmhaus, bevor Sie zur Kirche Saint-Gérard fahren. Verbringen Sie Ihren Nachmittag damit, an der beeindruckenden Tour de Milandre in die Vergangenheit zu reisen. Parken Sie schließlich am Belvédère du Mont Renaud.",
+        "hu": "Autózzon ma reggel Delle szívébe, álljon meg az elegáns Városházánál és a történelmi Chapelle Sainte-Véronique-nál. A dél a középkori Toronyházhoz hozza, mielőtt az Église Saint-Gérard felé venné az irányt. Töltse a délutánt egy időutazással a lenyűgöző Tour de Milandre-nál. Végül parkoljon le a Belvédère du Mont Renaud közelében az esti égboltért.",
+        "ro": "Conduceți în inima orașului Delle în această dimineață, oprindu-vă la eleganta Primărie și la istorica Chapelle Sainte-Véronique. Prânzul vă aduce la medievala Casă cu Turelă. Petreceți-vă după-amiaza întorcându-vă în timp la impresionantul Tour de Milandre. În cele din urmă, parcați lângă Belvédère du Mont Renaud pentru a privi cerul serii.",
+        "en": "Drive into the heart of Delle this morning, stopping at the elegant Town Hall and the historic Chapelle Sainte-Véronique. Midday brings you to the medieval Turret House before heading to Église Saint-Gérard. Spend your afternoon stepping back in time at the impressive Tour de Milandre. Finally, park near the Belvédère du Mont Renaud to watch the evening sky."
+      }
+    }
+  }
+}

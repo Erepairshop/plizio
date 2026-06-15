@@ -1,0 +1,474 @@
+{
+  "city_id": "borkum",
+  "anchor": {
+    "name": "Borkum",
+    "coords": [
+      6.6697,
+      53.5881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Leuchtturm",
+            "hu": "Régi Világítótorony",
+            "ro": "Vechiul Far",
+            "en": "Old Lighthouse"
+          },
+          "coords": [
+            6.67056,
+            53.5878
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ältesten Leuchtturm der Insel, der einst ein Kirchturm war, und achten Sie auf die robusten Ziegelmauern, ideal für erste Fotos.",
+            "hu": "Csodálja meg a sziget legrégebbi világítótornyát, amely egykor templomtorony volt, és figyelje meg a vastag téglafalakat a legjobb fotókért.",
+            "ro": "Admirați cel mai vechi far al insulei, fost turn de biserică, și observați zidurile masive de cărămidă, fiind un loc ideal pentru primele fotografii.",
+            "en": "Admire the island's oldest lighthouse, once a church tower, and notice the sturdy brick walls which make a perfect backdrop for your morning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Dykhus",
+            "hu": "Dykhus Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Dykhus",
+            "en": "Dykhus History Museum"
+          },
+          "coords": [
+            6.67112,
+            53.587451
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende maritime Geschichte Borkums durch die beeindruckenden Walfischskelette, wobei Sie am besten eine Stunde einplanen.",
+            "hu": "Fedezze fel Borkum izgalmas tengerészeti történetét a lenyűgöző bálnacsontvázak révén, és szánjon legalább egy órát a részletes kiállításra.",
+            "ro": "Descoperiți istoria maritimă fascinantă a insulei prin scheletele impresionante de balenă, alocând cel puțin o oră pentru a explora exponatele.",
+            "en": "Discover Borkum's fascinating maritime history through the impressive whale skeletons, making sure to allocate at least an hour to fully enjoy it."
+          }
+        },
+        {
+          "name": {
+            "de": "Neuer Leuchtturm",
+            "hu": "Új Világítótorony",
+            "ro": "Noul Far",
+            "en": "New Lighthouse"
+          },
+          "coords": [
+            6.6621,
+            53.58879
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen des neuen Leuchtturms hinauf, um einen fantastischen Panoramablick über die Nordsee bei klarem Wetter zu genießen.",
+            "hu": "Mássza meg az új világítótorony lépcsőit, hogy fantasztikus panorámát élvezhessen az Északi-tengerre, amit érdemes tiszta időben megtenni.",
+            "ro": "Urcați treptele noului far pentru a vă bucura de o vedere panoramică fantastică asupra Mării Nordului, preferabil într-o zi senină pentru poze clare.",
+            "en": "Climb the steps of the new lighthouse to enjoy a fantastic panoramic view over the North Sea, an activity best done when the weather is clear."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikpavillon",
+            "hu": "Zenei Pavilon",
+            "ro": "Pavilionul de Muzică",
+            "en": "Music Pavilion"
+          },
+          "coords": [
+            6.657253,
+            53.588669
+          ],
+          "category": "square",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lauschen Sie den sanften Klängen der täglichen Kurkonzerte in diesem historischen Pavillon, wo Sie entspannt auf den bereitgestellten Bänken verweilen.",
+            "hu": "Hallgassa meg a napi koncertek lágy dallamait ebben a történelmi pavilonban, ahol kényelmesen megpihenhet az odakészített padokon.",
+            "ro": "Ascultați sunetele plăcute ale concertelor zilnice în acest pavilion istoric, unde vă puteți relaxa confortabil pe băncile din jurul structurii.",
+            "en": "Listen to the gentle sounds of daily spa concerts in this historic pavilion, where you can easily relax on the provided benches to rest your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Bewachter Badestrand",
+            "hu": "Őrzött Strand",
+            "ro": "Plajă Supravegheată",
+            "en": "Guarded Beach"
+          },
+          "coords": [
+            6.656495,
+            53.590553
+          ],
+          "category": "park",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des feinen Sandes am Strand, spüren Sie die Meeresbrise und mieten Sie sich einen typischen Strandkorb zum Entspannen.",
+            "hu": "Sétáljon a finom homokban az őrzött strandon, érezze a friss tengeri szellőt, és béreljen egy tipikus strandkosarat a tökéletes kikapcsolódáshoz.",
+            "ro": "Plimbați-vă pe nisipul fin al plajei supravegheate, simțiți briza proaspătă a mării și închiriați un coș de plajă tipic pentru o relaxare profundă.",
+            "en": "Walk along the fine sand of the guarded beach, feel the fresh sea breeze, and rent a typical beach chair to thoroughly relax by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Seewasserbecken für kleine Seeleute",
+            "hu": "Tengervizes Medence Kis Matrózoknak",
+            "ro": "Bazin cu Apă de Mare",
+            "en": "Seawater Pool for Little Sailors"
+          },
+          "coords": [
+            6.658289,
+            53.586457
+          ],
+          "category": "garden",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem sicheren Becken ausklingen, wo kleine Matrosen gefahrlos im Meerwasser planschen und Sie den Sonnenuntergang sehen.",
+            "hu": "Zárja a napot ennél a biztonságos medencénél, ahol a kis matrózok veszélytelenül pancsolhatnak a tengervízben, miközben ön a naplementét figyeli.",
+            "ro": "Încheiați ziua la acest bazin sigur, unde micii marinari se pot bălăci fără grijă în apa mării în timp ce admirați apusul spectaculos.",
+            "en": "End your day at this safe children's pool, where little sailors can splash around safely in the seawater while you watch the beautiful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt historisch am Alten Leuchtturm und im beeindruckenden Museum Dykhus. Mittags genießen wir die weite Aussicht vom Neuen Leuchtturm und die Musik am Pavillon. Am Nachmittag lockt der feine Sand des bewachten Badestrandes zur Erholung. Den Tag lassen wir dann gemütlich am sicheren Seewasserbecken im Sonnenuntergang ausklingen.",
+        "hu": "A reggelt a történelmi Régi Világítótoronynál és a Dykhus Múzeumnál kezdjük. Délben csodás kilátás nyílik az Új Világítótoronyból, majd zene vár a pavilonnál. Délután az őrzött strand finom homokja csábít pihenésre. A napot végül a tengervizes medence partján zárjuk, ahol békésen figyelhetjük a lenyűgöző naplementét a tenger felett.",
+        "ro": "Dimineața începe istoric la Vechiul Far și impresionantul Muzeu Dykhus. La prânz ne bucurăm de priveliștile vaste de la Noul Far și de muzică la pavilion. După-amiaza, nisipul fin al plajei supravegheate ne invită la relaxare completă. Încheiem ziua liniștit la bazinul cu apă de mare, admirând un apus pitoresc de neuitat.",
+        "en": "The morning starts historically at the Old Lighthouse and the fascinating Dykhus Museum. Midday offers sweeping views from the New Lighthouse and relaxing tunes at the pavilion. In the afternoon, the fine sand of the guarded beach invites total relaxation. We peacefully conclude the day by the seawater pool, watching a memorable sunset unfold."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Borkumer Kleinbahn",
+            "hu": "Borkumi Kisvasút",
+            "ro": "Mocănița din Borkum",
+            "en": "Borkum Light Railway"
+          },
+          "coords": [
+            6.70517,
+            53.57868
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Waggons der historischen Inselbahn und sichern Sie sich ein schönes Fotomotiv direkt an den Gleisanlagen.",
+            "hu": "Csodálja meg a történelmi szigetvasút régi kocsijait, és készítsen egy nagyszerű fényképet közvetlenül a sínek mellett a reggeli fényben.",
+            "ro": "Admirați vagoanele istorice ale trenulețului insular și asigurați-vă că prindeți o fotografie excelentă direct lângă liniile pitorești de cale ferată.",
+            "en": "Admire the historic carriages of the island's light railway and be sure to capture a great photo right next to the charming traditional tracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Südstrand",
+            "hu": "Déli Strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            6.669038,
+            53.576621
+          ],
+          "category": "park",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad bis zur Promenade und genießen Sie das ruhigere Flair dieses Strandabschnitts abseits des großen Trubels.",
+            "hu": "Biciklizzen el a sétányig, és élvezze ennek a partszakasznak a csendesebb hangulatát, távol a nagy tömegtől és a nyüzsgéstől.",
+            "ro": "Mergeți cu bicicleta până la promenadă și bucurați-vă de atmosfera mai liniștită a acestei porțiuni de plajă, departe de agitația mare.",
+            "en": "Ride your bike right up to the promenade and enjoy the quieter atmosphere of this beach section, comfortably away from the biggest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Leuchtturm",
+            "hu": "Régi Világítótorony",
+            "ro": "Vechiul Far",
+            "en": "Old Lighthouse"
+          },
+          "coords": [
+            6.67056,
+            53.5878
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Vorplatz und tauchen Sie in die tiefgreifende Walfänger-Geschichte rund um das massive Backsteinbauwerk ein.",
+            "hu": "Parkolja le kerékpárját a téren, és merüljön el a masszív téglaépületet körülvevő mélyreható bálnavadász-történelemben.",
+            "ro": "Parcați bicicleta în siguranță în piațetă și scufundați-vă în istoria profundă a vânătorilor de balene legată de această clădire masivă.",
+            "en": "Park your bike safely at the square and dive into the profound whaling history surrounding this massive and impressive brick structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Neuer Leuchtturm",
+            "hu": "Új Világítótorony",
+            "ro": "Noul Far",
+            "en": "New Lighthouse"
+          },
+          "coords": [
+            6.6621,
+            53.58879
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 315 Stufen zur Aussichtsplattform, um von oben Ihr nächstes Ziel an der weitläufigen Küstenlinie auszumachen.",
+            "hu": "Mássza meg a 315 lépcsőfokot a kilátóteraszig, hogy felülről felfedezhesse következő úti célját a tágas partvonalon.",
+            "ro": "Urcați cele 315 trepte până la platforma de observare pentru a identifica următoarea destinație pe linia extinsă a coastei.",
+            "en": "Climb the 315 steps to the observation deck to easily spot your next scenic destination along the expansive coastline from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Nordstrand",
+            "hu": "Északi Strand Játszótér",
+            "ro": "Loc de Joacă Plaja de Nord",
+            "en": "North Beach Playground"
+          },
+          "coords": [
+            6.657775,
+            53.591421
+          ],
+          "category": "park",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den weiten Platz für eine kurze Pause im Grünen, während die hervorragend angelegten Spielgeräte eine ideale Abwechslung bieten.",
+            "hu": "Használja ki a tágas teret egy rövid pihenőre a zöldben, miközben a kiválóan kialakított játékok ideális kikapcsolódást nyújtanak.",
+            "ro": "Folosiți spațiul larg pentru o scurtă pauză în natură, în timp ce echipamentele de joacă excelent amenajate oferă o distracție ideală.",
+            "en": "Use the wide space for a short break in the green surroundings while the excellently designed playground equipment provides ideal fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachensport am Strand",
+            "hu": "Sárkányeregető Strand",
+            "ro": "Plaja de Zmeie",
+            "en": "Kite Sports Beach"
+          },
+          "coords": [
+            6.656756,
+            53.593707
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Drachen am Himmel oder probieren Sie es selbst aus, da der stetige Wind hier perfekte Bedingungen garantiert.",
+            "hu": "Figyelje meg a színes sárkányokat az égen, vagy próbálja ki maga is, mivel az egyenletes szél itt tökéletes feltételeket garantál.",
+            "ro": "Priviți zmeiele colorate pe cer sau încercați și dumneavoastră, deoarece vântul constant de aici garantează condiții perfecte de zbor.",
+            "en": "Watch the colorful kites in the sky or try it out yourself, as the steady and reliable wind here guarantees absolutely perfect conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohes Riff",
+            "hu": "Magas Zátony",
+            "ro": "Reciful Înalt",
+            "en": "High Reef"
+          },
+          "coords": [
+            6.645266,
+            53.601047
+          ],
+          "category": "recreational",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie bis zum nördlichsten Punkt und genießen Sie bei Ebbe den Spaziergang auf der riesigen Sandbank, wo oft Robben zu sehen sind.",
+            "hu": "Tekerjen el a legészakibb pontig, és élvezze a sétát apálykor a hatalmas homokpadon, ahol gyakran fókákat is megfigyelhet.",
+            "ro": "Pedalați până la cel mai nordic punct și bucurați-vă de o plimbare la reflux pe uriașul banc de nisip, unde deseori se pot vedea foci.",
+            "en": "Cycle to the northernmost point and enjoy a low-tide walk on the massive sandbank, where you can frequently spot resting seals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt an den Schienen der historischen Inselbahn und führt uns schnell zum entspannten Südstrand. Zur Mittagszeit tauchen wir am Alten und Neuen Leuchtturm in die Inselgeschichte ein. Der Nachmittag wird aktiv: Vom Spielplatz Nordstrand geht es zum bunten Drachensport. Wir beenden die Tour am Hohes Riff, wo die Weite des Meeres atemberaubend ist.",
+        "hu": "Kerékpártúránk a történelmi kisvasút sínjeinél indul, majd a nyugodt Déli Strandhoz vezet. Délben a Régi és Új Világítótoronynál fedezzük fel a sziget múltját. A délután aktív lesz: az Északi Strand játszóterétől a színes sárkányeregetőkig tekerünk. A túrát a Magas Zátonynál zárjuk, ahol a végtelen tenger látványa egyszerűen lélegzetelállító és felejthetetlen.",
+        "ro": "Turul cu bicicleta începe la șinele trenulețului istoric și ne duce rapid la plaja liniștită de sud. La prânz explorăm istoria insulei la Vechiul și Noul Far. După-amiaza devine activă: de la locul de joacă trecem la sporturile cu zmeie colorate. Încheiem turul la Reciful Înalt, unde imensitatea mării deschise este pur și simplu uluitoare și perfectă pentru relaxare.",
+        "en": "Our bike tour begins at the tracks of the historic railway and quickly takes us to the relaxed South Beach. At midday, we dive into island history at the Old and New Lighthouses. The afternoon turns active as we pedal from the playground to the colorful kite sports area. We wrap up at the High Reef, where the endless expanse of the sea is absolutely breathtaking."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jugendbad",
+            "hu": "Ifjúsági Fürdőhely",
+            "ro": "Băile pentru Tineret",
+            "en": "Youth Bathing Area"
+          },
+          "coords": [
+            6.670652,
+            53.604348
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag erfrischt im Norden, wo ausreichend Parkplätze vorhanden sind und der Wellengang ideal für ein morgendliches Bad ist.",
+            "hu": "Kezdje a napot felfrissülve északon, ahol elegendő parkolóhely áll rendelkezésre, és a hullámok ideálisak egy reggeli fürdőzéshez.",
+            "ro": "Începeți ziua revigorați în nord, unde sunt suficiente locuri de parcare, iar valurile sunt pur și simplu ideale pentru o baie matinală.",
+            "en": "Start your day refreshed in the north, where ample parking is available and the ocean waves are absolutely ideal for a morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Dykhus",
+            "hu": "Dykhus Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Dykhus",
+            "en": "Dykhus History Museum"
+          },
+          "coords": [
+            6.67112,
+            53.587451
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Fahren Sie bequem ins Zentrum, um in diesem malerischen Friesenhaus tief in die lokale Seefahrts- und Walfanggeschichte einzutauchen.",
+            "hu": "Kocsikázzon kényelmesen a központba, hogy ebben a festői fríz házban elmerüljön a helyi tengerészeti és bálnavadász történelemben.",
+            "ro": "Conduceți confortabil în centru pentru a vă scufunda în istoria locală a navigației și vânătorii de balene în această casă pitorească.",
+            "en": "Drive comfortably into the center to immerse yourself deeply in the local maritime and whaling history within this picturesque Frisian house."
+          }
+        },
+        {
+          "name": {
+            "de": "Neuer Leuchtturm",
+            "hu": "Új Világítótorony",
+            "ro": "Noul Far",
+            "en": "New Lighthouse"
+          },
+          "coords": [
+            6.6621,
+            53.58879
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Stopp für das obligatorische Foto am majestätischen Turm, der nachts über 20 Seemeilen weit leuchtet.",
+            "hu": "Tegyen egy rövid megállót a kötelező fotóért a fenséges toronynál, amely éjszaka több mint 20 tengeri mérföldre is elvilágít.",
+            "ro": "Faceți o scurtă oprire pentru fotografia obligatorie la turnul maiestuos, care luminează noaptea la peste 20 de mile marine distanță.",
+            "en": "Make a quick stop for the mandatory photo at the majestic tower, which impressively shines over 20 nautical miles away during the night."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglu-Strand",
+            "hu": "Iglu Strand",
+            "ro": "Plaja Iglu",
+            "en": "Igloo Beach"
+          },
+          "coords": [
+            6.656397,
+            53.592025
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto ab und entdecken Sie die charmanten kleinen Strandzelte, die perfekt Schutz vor der stetigen Brise bieten.",
+            "hu": "Parkolja le az autót, és fedezze fel a bájos kis strandsátrakat, amelyek tökéletes védelmet nyújtanak az állandó tengeri szellő ellen.",
+            "ro": "Parcați mașina și descoperiți micile și fermecătoarele corturi de plajă, care oferă o protecție perfectă împotriva brizei constante.",
+            "en": "Park the car and discover the charming little beach tents, which provide absolutely perfect shelter from the constant ocean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Südstrand",
+            "hu": "Déli Strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            6.669038,
+            53.576621
+          ],
+          "category": "park",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Inselausfahrt am ruhigen Südstrand, wo Sie die letzten Sonnenstrahlen bei einem entspannten Strandspaziergang einfangen.",
+            "hu": "Fejezze be szigeti autózását a csendes Déli Strandon, ahol egy pihentető tengerparti séta során befoghatja az utolsó napsugarakat.",
+            "ro": "Încheiați plimbarea pe insulă la plaja liniștită de sud, unde puteți prinde ultimele raze de soare în timpul unei plimbări relaxante.",
+            "en": "End your island drive at the tranquil South Beach, where you can easily catch the last warming rays of sun during a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit dem Auto bequem im Norden am Jugendbad. Gegen Mittag widmen wir uns der Geschichte im Museum Dykhus und dem imposanten Neuen Leuchtturm. Nachmittags geht es an die Küste: Wir entspannen uns zuerst am windgeschützten Iglu-Strand und fahren anschließend weiter zum ruhigen Südstrand, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "A napot kényelmesen, autóval indítjuk északon, az Ifjúsági Fürdőnél. Délben a Dykhus Múzeum történelmének és az Új Világítótoronynak szenteljük időnket. Délután a part felé vesszük az irányt: először a szélvédett Iglu Strandon pihenünk, majd továbbhajtunk a csendes Déli Strandra, hogy nyugalomban zárjuk a szigeti napot.",
+        "ro": "Ziua începe confortabil cu mașina în nord, la Băile pentru Tineret. La prânz ne dedicăm istoriei la Muzeul Dykhus și admirăm Noul Far. După-amiaza mergem pe coastă: ne relaxăm mai întâi la Plaja Iglu, protejată de vânt, și apoi conducem spre Plaja de Sud liniștită pentru a încheia ziua într-o atmosferă de pace totală.",
+        "en": "The day begins comfortably by car in the north at the Youth Bathing Area. Around midday, we delve into history at the Dykhus Museum and admire the New Lighthouse. The afternoon takes us to the coast: we first relax at the wind-sheltered Igloo Beach, then drive onwards to the tranquil South Beach to end our day in absolute serenity."
+      }
+    }
+  }
+}

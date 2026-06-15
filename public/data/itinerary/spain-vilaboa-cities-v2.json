@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-vilaboa-cities-v2",
+  "anchor": {
+    "name": "Vilaboa",
+    "coords": [
+      -8.6525,
+      42.35126
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 2.73,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Martiño de Vilaboa",
+            "hu": "Igrexa de San Martiño de Vilaboa",
+            "ro": "Igrexa de San Martiño de Vilaboa",
+            "en": "Igrexa de San Martiño de Vilaboa"
+          },
+          "coords": [
+            -8.638572,
+            42.35926
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese historische Pfarrkirche besticht durch ihre charmante Architektur; achten Sie besonders auf die feinen Details des Steinmauerwerks im sanften Morgenlicht.",
+            "hu": "Ez a történelmi plébániatemplom lenyűgöző az építészetével; a reggeli fényben érdemes alaposan megfigyelni a kőfalazat finom, hagyományos részleteit a bejáratnál.",
+            "ro": "Această biserică parohială istorică impresionează prin arhitectura sa; acordați o atenție deosebită detaliilor fine ale zidăriei de piatră în lumina dimineții.",
+            "en": "This historical parish church impresses with its charming architecture; be sure to pay special attention to the fine details of the stone masonry in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Canastro do Cura",
+            "hu": "Canastro do Cura",
+            "ro": "Canastro do Cura",
+            "en": "Canastro do Cura"
+          },
+          "coords": [
+            -8.639232,
+            42.360454
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Dieser traditionelle galicische Kornspeicher zeigt die landwirtschaftliche Geschichte; fotografieren Sie ihn am besten von der Südseite, um das beste Licht einzufangen.",
+            "hu": "Ez a hagyományos galíciai magtár a régió mezőgazdasági múltját mutatja be; a legjobb fotókat a déli oldalról készítheti el a tökéletes természetes fényviszonyokhoz.",
+            "ro": "Acest grânar tradițional galician ilustrează istoria agricolă a regiunii; pentru cele mai bune fotografii, așezați-vă pe latura de sud pentru a capta lumina ideală.",
+            "en": "This traditional Galician granary showcases the region's rich agricultural history; try to photograph it from the southern side to capture the best natural lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño das Marés",
+            "hu": "Muíño das Marés",
+            "ro": "Muíño das Marés",
+            "en": "Muíño das Marés"
+          },
+          "coords": [
+            -8.629634,
+            42.35038
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Diese alten Gezeitenmühlen sind ein Wunderwerk der Küstentechnik; überprüfen Sie die Gezeitenzeiten, um sie bei Flut eindrucksvoll in voller Aktion zu erleben.",
+            "hu": "Ezek az ősi árapálymalmok a parti mérnöki munka csodái; mindig ellenőrizze a helyi árapály idejét, hogy dagálykor láthassa a vizet hatalmas erővel átzúdulni rajtuk.",
+            "ro": "Aceste vechi mori de maree reprezintă o minune a ingineriei de coastă; verificați mereu orarul mareelor pentru a le vedea în acțiune spectaculoasă în timpul fluxului.",
+            "en": "These ancient tidal mills stand as a true marvel of traditional coastal engineering; always check the local tide times so you can witness the water rushing through at high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Granxa das Salinas",
+            "hu": "Granxa das Salinas",
+            "ro": "Granxa das Salinas",
+            "en": "Granxa das Salinas"
+          },
+          "coords": [
+            -8.635665,
+            42.349932
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die alten Salzpfannen erzählen die Geschichte einer vergangenen Industrie; tragen Sie unbedingt bequeme Wanderschuhe für die unebenen Pfade rund um die Salzbecken.",
+            "hu": "A régi sólepárlók egy letűnt iparág gazdag történetét mesélik el; mindenképpen viseljen kényelmes túracipőt a sómedencék körüli egyenetlen, kavicsos ösvényeken.",
+            "ro": "Vechile saline spun povestea fascinantă a unei industrii apuse; asigurați-vă că purtați încălțăminte confortabilă pentru traseele denivelate din jurul bazinelor de sare.",
+            "en": "The old salt pans tell the fascinating story of a bygone industry; make sure to wear very comfortable walking shoes for the uneven pathways all around the salt basins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Croa",
+            "hu": "Castro da Croa",
+            "ro": "Castro da Croa",
+            "en": "Castro da Croa"
+          },
+          "coords": [
+            -8.641734,
+            42.344802
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Diese eisenzeitliche Siedlung bietet Einblicke in die Vorgeschichte und belohnt den Aufstieg mit einem wunderbaren Panoramablick; nehmen Sie etwas Wasser für den Weg mit.",
+            "hu": "Ez a vaskori település lenyűgöző bepillantást nyújt az őstörténetbe, a mászást pedig panoráma koronázza meg; mindenképpen vigyen magával elegendő ivóvizet az útra.",
+            "ro": "Această așezare din epoca fierului oferă o privire în preistorie și vă răsplătește urcușul cu o panoramă minunată; nu uitați să luați apă pentru drumeția până sus.",
+            "en": "This Iron Age settlement offers fascinating insights into prehistory and rewards the short climb with a wonderful panoramic view; remember to bring some water for the trek."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der Igrexa de San Martiño und dem nahegelegenen Canastro do Cura. Mittags erreichen Sie die faszinierenden Gezeitenmühlen von Muíño das Marés. Verbringen Sie den Nachmittag damit, die historische Granxa das Salinas an der Küste zu erkunden. Beenden Sie die entspannte Tour mit einem Aufstieg zum Castro da Croa.",
+        "hu": "Sétáját az Igrexa de San Martiño és a közeli Canastro do Cura megtekintésével kezdheti. Délben eléri a Muíño das Marés lenyűgöző árapálymalmait. A délutánt a történelmi Granxa das Salinas felfedezésével töltheti a parti szélben. Zárásként másszon fel az ősi Castro da Croa magaslatára, ahonnan csodálatos panoráma nyílik az egész gyönyörű tájra.",
+        "ro": "Începeți plimbarea admirând biserica San Martiño și Canastro do Cura. La prânz, ajungeți la fascinantele mori de maree Muíño das Marés. Petreceți după-amiaza explorând istorica Granxa das Salinas, bucurându-vă de briza mării. Încheiați cu o urcare spre vechea așezare Castro da Croa pentru a admira priveliștile panoramice superbe de la final.",
+        "en": "Begin your walking tour by admiring the peaceful Igrexa de San Martiño and the nearby Canastro do Cura. Midday brings you to the fascinating tidal mills of Muíño das Marés. Spend your afternoon exploring the historical Granxa das Salinas, taking in the coastal breeze. Conclude with a climb to the ancient Castro da Croa for lovely panoramic views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 4.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Enseada de Vilaboa",
+            "hu": "Enseada de Vilaboa",
+            "ro": "Enseada de Vilaboa",
+            "en": "Enseada de Vilaboa"
+          },
+          "coords": [
+            -8.639787,
+            42.334731
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese ruhige Bucht ist ein wichtiger Lebensraum für viele Seevögel; bringen Sie ein Fernglas mit und genießen Sie das friedliche Wasser in der morgendlichen Stille.",
+            "hu": "Ez a csendes öböl számos költöző tengeri madár fontos élőhelye; hozzon magával távcsövet, és élvezze a nyugodt vizek szépségét a kora reggeli csendes órákban.",
+            "ro": "Golful senin oferă un habitat vital pentru păsările marine migratoare; aduceți binoclul și bucurați-vă de apele liniștite în timpul dimineții răcoroase și calme.",
+            "en": "This serene bay provides a vital habitat for many migratory seabirds; bring some binoculars and enjoy the tranquil waters during the peaceful early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grande da Lamela",
+            "hu": "Casa Grande da Lamela",
+            "ro": "Casa Grande da Lamela",
+            "en": "Casa Grande da Lamela"
+          },
+          "coords": [
+            -8.651581,
+            42.329301
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Dieses historische Herrenhaus besticht durch klassisches galicisches Steinmauerwerk; bewundern Sie die traditionellen Familienwappen an der Fassade von der Hauptstraße aus.",
+            "hu": "Ez a történelmi udvarház klasszikus galíciai kőművesmunkával büszkélkedhet; csodálja meg a homlokzaton lévő hagyományos családi címereket a fő felhajtó útról.",
+            "ro": "Acest conac istoric se mândrește cu o zidărie clasică din piatră galiciană; admirați stemele tradiționale de pe fațadă direct de pe drumul principal de acces.",
+            "en": "This historic manor house boasts classic Galician stonework; make sure to admire the traditional family coats of arms on the main facade from the public access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa Cristina de Cobres",
+            "hu": "Igrexa de Santa Cristina de Cobres",
+            "ro": "Igrexa de Santa Cristina de Cobres",
+            "en": "Igrexa de Santa Cristina de Cobres"
+          },
+          "coords": [
+            -8.647031,
+            42.330652
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Charme dieser Küstenpfarrkirche, die den Einheimischen seit Jahrhunderten dient; treten Sie ein, um einen ruhigen Moment der Besinnung zu genießen.",
+            "hu": "Csodálja meg ennek a parti plébániatemplomnak a csendes báját, amely évszázadok óta szolgálja a helyieket; lépjen be, hogy élvezze a békés elmélkedés nyugodt pillanatát.",
+            "ro": "Admirați farmecul liniștit al acestei biserici parohiale de coastă; pășiți înăuntru pentru a vă bucura de un moment de reflecție pașnică departe de agitația zilnică.",
+            "en": "Admire the quiet charm of this coastal parish church that has served locals for centuries; step inside to enjoy a moment of peaceful reflection away from the main trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Croa",
+            "hu": "Castro da Croa",
+            "ro": "Castro da Croa",
+            "en": "Castro da Croa"
+          },
+          "coords": [
+            -8.641734,
+            42.344802
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Die antike Höhensiedlung belohnt Sie nach einer kurzen Radtour und einem Fußmarsch mit herrlichen Ausblicken; sichern Sie Ihr Fahrrad unten, bevor Sie den Hügel hinaufsteigen.",
+            "hu": "Az ősi hegyi település csodálatos kilátással jutalmazza meg a kerékpározás után; biztonságosan zárja le kerékpárját az ösvény alján, mielőtt elkezdené a gyalogos kaptatót.",
+            "ro": "Așezarea antică vă răsplătește cu priveliști superbe după o plimbare cu bicicleta; asigurați-vă bicicleta jos înainte de a începe urcarea pe deal către ruine.",
+            "en": "The ancient hilltop settlement rewards you with gorgeous views after a quick ride; securely lock your bike at the bottom of the trail before hiking up the grassy hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Granxa das Salinas",
+            "hu": "Granxa das Salinas",
+            "ro": "Granxa das Salinas",
+            "en": "Granxa das Salinas"
+          },
+          "coords": [
+            -8.635665,
+            42.349932
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Salzpfannen, die eine reiche Geschichte der Salzgewinnung verbergen; bleiben Sie auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Fedezze fel a kiterjedt sólepárlókat, amelyek a sókitermelés gazdag történetét rejtik; maradjon a kijelölt ösvényeken, hogy megóvja a környező érzékeny növényzetet.",
+            "ro": "Explorați bazinele de sare întinse care ascund o istorie bogată a extracției de sare; rămâneți pe traseele marcate pentru a proteja flora delicată din zonă.",
+            "en": "Explore the expansive salt pans that conceal a rich history of local salt extraction; please stay on the clearly marked paths to protect the delicate surrounding flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño das Marés",
+            "hu": "Muíño das Marés",
+            "ro": "Muíño das Marés",
+            "en": "Muíño das Marés"
+          },
+          "coords": [
+            -8.629634,
+            42.35038
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Rauschen des Wassers durch diese historischen Mühlen ist faszinierend; parken Sie Ihr Rad in der Nähe und betrachten Sie die steinernen Konstruktionen aus der Nähe.",
+            "hu": "A történelmi malmokon átzúduló víz hangja lenyűgöző élmény; parkolja le kerékpárját a közelben, és vizsgálja meg közelebbről is ezeket a masszív kőépítményeket.",
+            "ro": "Sunetul apei trecând prin aceste mori istorice este fascinant; parcați bicicleta în apropiere și examinați îndeaproape construcțiile din piatră masivă.",
+            "en": "The sound of water rushing through these historic mills is completely fascinating; park your bike nearby and examine the massive stone constructions up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Radtag beginnt friedlich an der Bucht Enseada de Vilaboa. Anschließend radeln Sie zur historischen Casa Grande da Lamela und der charmanten Kirche Santa Cristina. Nachmittags erwartet Sie ein kurzer Aufstieg zum Castro da Croa, gefolgt von einer Erkundung der historischen Salzpfannen Granxa das Salinas und der faszinierenden Gezeitenmühlen.",
+        "hu": "A kerékpáros nap békésen indul az Enseada de Vilaboa öbölben. Ezután tekerjen a történelmi Casa Grande da Lamela és a bájos Santa Cristina templom felé. Délután egy rövid hegymászás várja a Castro da Croa romjaihoz, majd a történelmi Granxa das Salinas sólepárlók és a lenyűgöző árapálymalmok felfedezésével zárhatja az aktív délutánt.",
+        "ro": "Ziua pe bicicletă începe liniștit la golful Enseada de Vilaboa. Pedalați apoi spre conacul istoric Casa Grande da Lamela și fermecătoarea biserică Santa Cristina. După-amiaza vă așteaptă o urcare spre așezarea Castro da Croa, urmată de explorarea vechilor saline Granxa das Salinas și a fascinantelor mori de maree tradiționale.",
+        "en": "Your cycling day starts peacefully at the Enseada de Vilaboa bay. You'll then pedal to the historic Casa Grande da Lamela and the charming Santa Cristina church. The afternoon brings a quick hike up to the Castro da Croa settlement, followed by an exploration of the historic Granxa das Salinas salt pans and the fascinating traditional tidal mills."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cotorredondo Nature Park",
+            "hu": "Cotorredondo Nature Park",
+            "ro": "Cotorredondo Nature Park",
+            "en": "Cotorredondo Nature Park"
+          },
+          "coords": [
+            -8.676148,
+            42.360263
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die üppigen Wanderwege dieses schönen Naturparks; bringen Sie eine leichte Jacke mit, da das dichte Blätterdach des Waldes die Luft merklich abkühlt.",
+            "hu": "Fedezze fel a gyönyörű natúrpark buja ösvényeit, amely védi a helyi biológiai sokféleséget; hozzon könnyű kabátot, mert a sűrű lombkorona kellemesen hűti a levegőt.",
+            "ro": "Explorați traseele luxuriante ale acestui frumos parc natural; aduceți o jachetă ușoară, deoarece coronamentul dens al pădurii răcorește simțitor aerul dimineții.",
+            "en": "Explore the lush trails of this beautiful nature park that protects local biodiversity; be sure to bring a light jacket as the dense forest canopy cools the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Petróglifos de Pepito Meijón",
+            "hu": "Petróglifos de Pepito Meijón",
+            "ro": "Petróglifos de Pepito Meijón",
+            "en": "Petróglifos de Pepito Meijón"
+          },
+          "coords": [
+            -8.67224,
+            42.360967
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Diese antiken Felszeichnungen bieten einen mysteriösen Blick in die Bronzezeit; schauen Sie aus einem niedrigen Winkel, um die erodierten Muster besser zu erkennen.",
+            "hu": "Ezek az ősi sziklarajzok titokzatos bepillantást nyújtanak a bronzkorba; nézze meg őket alacsony szögből, hogy könnyebben észrevegye az erodált körkörös mintákat.",
+            "ro": "Aceste sculpturi antice în stâncă oferă o privire misterioasă în Epoca Bronzului; priviți dintr-un unghi inferior pentru a observa mai bine modelele circulare erodate.",
+            "en": "These ancient rock carvings offer a mysterious glimpse into the Bronze Age; look closely at a low viewing angle to better spot the severely eroded circular patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa de Castiñeiras",
+            "hu": "Mámoa de Castiñeiras",
+            "ro": "Mámoa de Castiñeiras",
+            "en": "Mámoa de Castiñeiras"
+          },
+          "coords": [
+            -8.672403,
+            42.359601
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Dieser Megalithbau spiegelt die frühe Verehrung der Toten wider; gehen Sie vorsichtig auf den Pfaden, um den empfindlichen umgebenden Boden nicht zu beschädigen.",
+            "hu": "Ez a megalitikus sírhalom a halottak korai tiszteletét tükrözi; lépkedjen rendkívül óvatosan az ösvényeken, hogy megóvja az építmény körüli kényes, ősi talajt.",
+            "ro": "Acest tumul megalitic reflectă reverența timpurie pentru morți; pășiți cu mare grijă pe cărări pentru a proteja solul delicat din jurul acestui monument funerar.",
+            "en": "This well-preserved megalithic burial mound reflects early human reverence for the dead; tread carefully on the paths to protect the delicate surrounding ancient soil."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa do Rei",
+            "hu": "Mámoa do Rei",
+            "ro": "Mámoa do Rei",
+            "en": "Mámoa do Rei"
+          },
+          "coords": [
+            -8.672647,
+            42.35832
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Das Königsgrab ist eine der wichtigsten neolithischen Stätten hier; nutzen Sie die bereitgestellten Informationstafeln, um seine historische Bedeutung zu verstehen.",
+            "hu": "A Király Sírja az egyik legfontosabb neolitikus lelőhely ezen a területen; használja a kihelyezett információs táblákat, hogy megértse a hely történelmi jelentőségét.",
+            "ro": "Mormântul Regelui este unul dintre cele mai importante situri neolitice de aici; folosiți panourile informative pentru a înțelege pe deplin importanța sa istorică.",
+            "en": "The King's Mound is one of the most important neolithic sites in this area; be sure to use the provided information panels to fully understand its historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa da Pedra Longa",
+            "hu": "Mámoa da Pedra Longa",
+            "ro": "Mámoa da Pedra Longa",
+            "en": "Mámoa da Pedra Longa"
+          },
+          "coords": [
+            -8.678647,
+            42.358159
+          ],
+          "category": "historical",
+          "arrive_at": "14:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Die langen Steinstrukturen dieses Hügelgrabs sind beeindruckend; fotografieren Sie die Konturen des Grabes am besten, wenn am Nachmittag die tiefere Sonne scheint.",
+            "hu": "Ennek a sírhalomnak a hosszú kőszerkezetei lenyűgözőek; a sír körvonalait a legszebben a délutáni, alacsonyabban járó napfényben tudja lencsevégre kapni.",
+            "ro": "Structurile lungi din piatră ale acestui mormânt sunt impresionante; fotografiați contururile monumentului cel mai bine atunci când soarele coboară după-amiaza.",
+            "en": "The long stone structures of this ancient burial mound are quite impressive; try photographing the tomb's distinct contours when the sun sits lower in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño de Vilaboa",
+            "hu": "Igrexa de San Martiño de Vilaboa",
+            "ro": "Igrexa de San Martiño de Vilaboa",
+            "en": "Igrexa de San Martiño de Vilaboa"
+          },
+          "coords": [
+            -8.638572,
+            42.35926
+          ],
+          "category": "religious",
+          "arrive_at": "15:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.28,
+          "tip_5lang": {
+            "de": "Nach den antiken Gräbern bietet diese charmante Steinkirche eine friedliche Rückkehr in die neuere Geschichte; parken Sie bequem direkt auf dem angrenzenden Platz.",
+            "hu": "Az ősi sírok után ez a bájos kőtemplom békés visszatérést kínál az újabb történelembe; kényelmesen parkolhat autójával közvetlenül a szomszédos kis téren.",
+            "ro": "După mormintele antice, această biserică de piatră oferă o întoarcere pașnică la istoria recentă; parcați confortabil mașina chiar în piațeta adiacentă clădirii.",
+            "en": "After exploring the ancient tombs, this charming stone church offers a peaceful return to more recent history; you can conveniently park right in the adjacent small square."
+          }
+        },
+        {
+          "name": {
+            "de": "Enseada de Vilaboa",
+            "hu": "Enseada de Vilaboa",
+            "ro": "Enseada de Vilaboa",
+            "en": "Enseada de Vilaboa"
+          },
+          "coords": [
+            -8.639787,
+            42.334731
+          ],
+          "category": "landmark",
+          "arrive_at": "16:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser malerischen Bucht; spazieren Sie am Wasser entlang und beobachten Sie die Fischerboote, die langsam in der Abenddämmerung zurückkehren.",
+            "hu": "Fejezze be a napot ennél a festői öbölnél; sétáljon végig a vízparton, és figyelje a halászhajókat, amik lassan, békésen térnek vissza az esti szürkületben.",
+            "ro": "Încheiați-vă ziua la acest golf pitoresc; plimbați-vă pe malul apei și urmăriți bărcile de pescari care se întorc încet și pașnic odată cu lăsarea serii.",
+            "en": "End your busy day of driving at this picturesque bay; take a leisurely stroll along the water's edge and watch the local fishing boats slowly return as dusk approaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour konzentriert sich vormittags auf das westliche Hochland, beginnend im wunderschönen Cotorredondo Nature Park. Danach tauchen Sie tief in die Vorgeschichte ein und besuchen faszinierende Petroglyphen und mehrere beeindruckende Megalithgräber. Nachmittags fahren Sie zurück in Richtung Küste, besuchen eine historische Steinkirche und lassen den Tag entspannt an der Bucht ausklingen.",
+        "hu": "Az autós túra délelőtt a nyugati fennsíkra összpontosít, a gyönyörű Cotorredondo Nature Parkban kezdve. Ezután mélyen elmerül az őstörténetben, megvizsgálva a lenyűgöző sziklarajzokat és a megalitikus sírokat. Délután visszavezet az út a part felé, ahol megtekinthet egy történelmi kőtemplomot, majd a napot a csendes Enseada de Vilaboa öbölnél pihenve fejezheti be a lemenő nap fényében.",
+        "ro": "Turul cu mașina se concentrează dimineața pe zonele înalte vestice, pornind din frumosul Parc Cotorredondo. Apoi, plonjați în preistorie vizitând petroglife fascinante și mai multe morminte megalitice impresionante. După-amiaza, conduceți înapoi spre coastă, opriți la o biserică istorică din piatră și încheiați ziua relaxându-vă lângă apele liniștite ale golfului pitoresc din Vilaboa.",
+        "en": "Your driving tour focuses your morning on the western highlands, starting in the beautiful Cotorredondo Nature Park. You'll then dive deep into prehistory, visiting fascinating petroglyphs and multiple impressive megalithic tombs. In the afternoon, drive back toward the scenic coast, stop at a historical stone church, and end the day relaxing by the tranquil waters of the picturesque bay."
+      }
+    }
+  }
+}

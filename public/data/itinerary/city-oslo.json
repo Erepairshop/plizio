@@ -1,0 +1,474 @@
+{
+  "city_id": "city-oslo",
+  "anchor": {
+    "name": "Oslo",
+    "coords": [
+      10.7522,
+      59.9139
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:19",
+      "total_km": 2.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dronning Sonjas kunststall",
+            "hu": "Dronning Sonjas kunststall",
+            "ro": "Dronning Sonjas kunststall",
+            "en": "Dronning Sonjas kunststall"
+          },
+          "coords": [
+            10.723447,
+            59.916167
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Einstige königliche Ställe mit Kunstausstellungen; buchen Sie Tickets am besten vorab online.",
+            "hu": "Az egykori királyi istállók ma művészeti kiállításoknak adnak otthont, foglaljon jegyet előre online.",
+            "ro": "Fostele grajduri regale găzduiesc acum expoziții de artă; rezervați bilete online din timp.",
+            "en": "Former royal stables now housing art, so book tickets ahead online to skip queues."
+          }
+        },
+        {
+          "name": {
+            "de": "The Ibsen Museum",
+            "hu": "The Ibsen Museum",
+            "ro": "The Ibsen Museum",
+            "en": "The Ibsen Museum"
+          },
+          "coords": [
+            10.727045,
+            59.915031
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die restaurierte Wohnung des Dramatikers und beachten Sie sein authentisches Arbeitszimmer.",
+            "hu": "Fedezze fel a drámaíró felújított lakását, különös tekintettel az eredeti dolgozószobájára.",
+            "ro": "Explorați apartamentul restaurat al dramaturgului, acordând atenție studioului său autentic.",
+            "en": "Explore the playwright's restored apartment, paying close attention to his authentic study."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Cultural History",
+            "hu": "Museum of Cultural History",
+            "ro": "Museum of Cultural History",
+            "en": "Museum of Cultural History"
+          },
+          "coords": [
+            10.734569,
+            59.917038
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie norwegische Artefakte; konzentrieren Sie sich zuerst auf die Wikinger- und Mittelaltersammlung.",
+            "hu": "Fedezze fel a norvég műtárgyakat, de kezdje a viking és középkori gyűjteményekkel.",
+            "ro": "Descoperiți artefacte norvegiene valoroase, dar începeți cu colecțiile vikinge și medievale.",
+            "en": "Discover rich Norwegian artifacts, but focus on the Viking and medieval collections first."
+          }
+        },
+        {
+          "name": {
+            "de": "22. juli-senteret",
+            "hu": "22. juli-senteret",
+            "ro": "22. juli-senteret",
+            "en": "22. juli-senteret"
+          },
+          "coords": [
+            10.74274,
+            59.915948
+          ],
+          "category": "museum",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Ein bewegendes Denkmal der Anschläge von 2011; nehmen Sie sich Zeit für die persönlichen Berichte.",
+            "hu": "A 2011-es támadások megrázó emlékhelye; szánjon időt a személyes beszámolók elolvasására.",
+            "ro": "Un memorial sobru al atacurilor din 2011; alocați-vă timp pentru a citi mărturiile personale.",
+            "en": "A somber memorial and exhibition of the 2011 attacks; take your time to read the personal accounts."
+          }
+        },
+        {
+          "name": {
+            "de": "Norway's Resistance Museum",
+            "hu": "Norway's Resistance Museum",
+            "ro": "Norway's Resistance Museum",
+            "en": "Norway's Resistance Museum"
+          },
+          "coords": [
+            10.735762,
+            59.907803
+          ],
+          "category": "museum",
+          "arrive_at": "16:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "In der Festung gelegen, zeigt es den WWII-Widerstand; bequeme Schuhe sind für das Kopfsteinpflaster ratsam.",
+            "hu": "Az erőd területén bemutatja a II. világháborús ellenállást; a macskakövek miatt kényelmes cipő ajánlott.",
+            "ro": "Situat în fortăreață, prezintă rezistența din Al Doilea Război Mondial; purtați încălțăminte comodă.",
+            "en": "Located in the fortress, it details WWII resistance; good walking shoes help on the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Defence Musuem",
+            "hu": "Defence Musuem",
+            "ro": "Defence Musuem",
+            "en": "Defence Musuem"
+          },
+          "coords": [
+            10.740888,
+            59.904511
+          ],
+          "category": "museum",
+          "arrive_at": "18:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Neben dem Widerstandsmuseum gelegen, verfolgt es die Militärgeschichte von den Wikingern bis heute.",
+            "hu": "Az Ellenállás Múzeuma mellett a hadtörténetet követi nyomon a viking kortól a modern időkig.",
+            "ro": "Lângă Muzeul Rezistenței, urmăriți istoria militară de la vikingi până în epoca modernă.",
+            "en": "Next door to the Resistance Museum, trace military history from Viking times to the modern era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der eleganten Umgebung des königlichen Parks. Mittags tauchen Sie im Stadtzentrum in die Kultur- und Theatergeschichte ein. Der Nachmittag konfrontiert Sie mit der jüngeren Geschichte der Anschläge von 2011. Beenden Sie den Tag auf dem historischen Gelände der Festung Akershus und lassen Sie die jahrhundertealte Militärgeschichte in der Abenddämmerung auf sich wirken.",
+        "hu": "Kezdje a reggelt a királyi park elegáns környezetének felfedezésével. Délben merüljön el Norvégia kulturális és színházi történelmében a belvárosban. A délután szembesíti a 2011-es támadások megrázó közelmúltbeli történelmével. Zárja a napot az Akershus-erőd történelmi területén barangolva, miközben a több évszázados hadtörténet kel életre az alkonyatban.",
+        "ro": "Începeți dimineața explorând împrejurimile elegante ale parcului regal. La prânz, scufundați-vă în istoria culturală și teatrală a Norvegiei în centrul orașului. După-amiaza vă aduce față în față cu istoria recentă a atacurilor din 2011. Încheiați-vă ziua rătăcind prin fortăreața istorică Akershus, asimilând secole de strategie militară odată cu lăsarea serii.",
+        "en": "Start your morning exploring the elegant surroundings of the royal park. By midday, immerse yourself in Norway's cultural and theatrical history in the city center. The afternoon brings you face-to-face with the sobering recent history of the 2011 attacks. End your day wandering the historic grounds of the Akershus Fortress, taking in centuries of military strategy as dusk settles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:01",
+      "total_km": 3.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Astrup Fearnley Museum",
+            "hu": "Astrup Fearnley Museum",
+            "ro": "Astrup Fearnley Museum",
+            "en": "Astrup Fearnley Museum"
+          },
+          "coords": [
+            10.721938,
+            59.906925
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem Holzgebäude; schließen Sie Ihr Fahrrad am nahen Hafen an, bevor Sie eintreten.",
+            "hu": "Modern művészet egy lenyűgöző faépületben; zárja le a biciklijét a közeli kikötőnél, mielőtt belép.",
+            "ro": "Artă modernă într-o clădire impresionantă din lemn; legați-vă bicicleta în portul din apropiere.",
+            "en": "Striking modern art in a stunning wooden building; lock your bike by the nearby harbor before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Nobel Peace Center",
+            "hu": "Nobel Peace Center",
+            "ro": "Nobel Peace Center",
+            "en": "Nobel Peace Center"
+          },
+          "coords": [
+            10.7304,
+            59.911612
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zu Friedensnobelpreisträgern; beachten Sie die Bildschirme für globale Updates.",
+            "hu": "Interaktív kiállítás a békedíjasokról; figyelje a digitális képernyőket a legfrissebb globális hírekért.",
+            "ro": "Expoziții interactive despre laureații Premiului Păcii; verificați ecranele digitale pentru actualizări.",
+            "en": "Interactive exhibits on peace prize laureates; check the digital screens for the latest global updates."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Cultural History",
+            "hu": "Museum of Cultural History",
+            "ro": "Museum of Cultural History",
+            "en": "Museum of Cultural History"
+          },
+          "coords": [
+            10.734569,
+            59.917038
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Ein umfassender Blick in die Vergangenheit; nutzen Sie den kostenlosen Audioguide für die Ausstellungsstücke.",
+            "hu": "Átfogó pillantás a régió múltjára; használja az ingyenes audioguide-ot a kiállítások megértéséhez.",
+            "ro": "O privire cuprinzătoare asupra trecutului regiunii; folosiți ghidul audio gratuit pentru o experiență completă.",
+            "en": "A comprehensive look at the region's past; use the free audio guide to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Jødisk museum",
+            "hu": "Jødisk museum",
+            "ro": "Jødisk museum",
+            "en": "Jødisk museum"
+          },
+          "coords": [
+            10.75542,
+            59.916338
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Juden in Norwegen; beachten Sie die begrenzten Öffnungszeiten.",
+            "hu": "Ismerje meg a norvégiai zsidóság történetét; látogatás előtt ellenőrizze a korlátozott nyitvatartást.",
+            "ro": "Descoperiți istoria evreilor din Norvegia; verificați programul de funcționare restrâns înainte de vizită.",
+            "en": "Discover the history of Jews in Norway; note the restricted opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Interkulturelt museum",
+            "hu": "Interkulturelt museum",
+            "ro": "Interkulturelt museum",
+            "en": "Interkulturelt museum"
+          },
+          "coords": [
+            10.763251,
+            59.913048
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Spiegelt Oslos Einwanderergeschichte wider; klein, also nehmen Sie sich Zeit für Gespräche mit den Kuratoren.",
+            "hu": "Oslo bevándorló történelmét tükrözi; kis múzeum, így bátran beszélgessen a kurátorokkal.",
+            "ro": "Reflectă istoria diversă a imigranților din Oslo; este mic, așa că discutați curajos cu curatorii.",
+            "en": "Reflects Oslo's diverse immigrant history; it's small, so take your time engaging with the curators."
+          }
+        },
+        {
+          "name": {
+            "de": "University Botanical Garden",
+            "hu": "University Botanical Garden",
+            "ro": "University Botanical Garden",
+            "en": "University Botanical Garden"
+          },
+          "coords": [
+            10.769749,
+            59.918366
+          ],
+          "category": "museum",
+          "arrive_at": "17:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Eine friedliche grüne Oase; parken Sie das Fahrrad am Tor und spazieren Sie durch die Gewächshäuser.",
+            "hu": "Békés zöld oázis a városban; tegye le a biciklit a kapunál, és sétáljon végig az illatos üvegházakon.",
+            "ro": "O oază verde liniștită; lăsați bicicleta la poartă și plimbați-vă prin serele aromatice.",
+            "en": "A peaceful green oasis in the city; park your bike at the gate and stroll through the aromatic greenhouses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am Wasser mit moderner Kunst und Hafenblick. Mittags führt der Weg zu den Universitätsgebäuden, um umfangreiche kulturelle Artefakte zu entdecken. Am Nachmittag radeln Sie durch die kulturell vielfältigen östlichen Viertel. Ihre Reise endet in der ruhigen, üppigen Umgebung des botanischen Gartens, perfekt für eine friedliche abendliche Erholung.",
+        "hu": "Útja a vízparton kezdődik, ahol modern művészetet és kikötői kilátást élvezhet. Délben az egyetemi épületek felé halad, hogy kiterjedt kulturális leleteket fedezzen fel. A délután folyamán tekerjen át a kulturálisan sokszínű keleti negyedeken. Utazása a botanikus kert nyugodt, buja környezetében ér véget, amely tökéletes egy békés esti pihenéshez.",
+        "ro": "Plimbarea începe pe faleză, admirând arta modernă și priveliștile portului. La prânz vă îndreptați spre clădirile universității pentru a descoperi artefacte culturale vaste. Pe măsură ce se lasă după-amiaza, pedalați prin cartierele estice diverse cultural. Călătoria se încheie în împrejurimile liniștite și luxuriante ale grădinilor botanice, perfecte pentru o seară de odihnă.",
+        "en": "Your ride begins at the waterfront, taking in striking modern art and harbor views. Midday leads you up toward the university buildings to uncover extensive cultural artifacts. As the afternoon unfolds, pedal through the culturally diverse eastern neighborhoods. Your journey concludes in the tranquil, lush surroundings of the botanical gardens, perfect for a peaceful evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:53",
+      "total_km": 6.01,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oslo City Museum",
+            "hu": "Oslo City Museum",
+            "ro": "Oslo City Museum",
+            "en": "Oslo City Museum"
+          },
+          "coords": [
+            10.703014,
+            59.923918
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Im Gutshaus Frogner gelegen, zeigt es Oslos Wachstum; parken Sie nah und genießen Sie den Vigeland-Park.",
+            "hu": "A Frogner-kúriában bemutatja Oslo fejlődését; parkoljon a közelben, és élvezze a Vigeland-parkot is.",
+            "ro": "Situat în Conacul Frogner, arată evoluția orașului; parcați în apropiere și bucurați-vă de Parcul Vigeland.",
+            "en": "Set in Frogner Manor, it reveals Oslo's growth; park nearby and enjoy the surrounding Vigeland Park too."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronning Sonjas kunststall",
+            "hu": "Dronning Sonjas kunststall",
+            "ro": "Dronning Sonjas kunststall",
+            "en": "Dronning Sonjas kunststall"
+          },
+          "coords": [
+            10.723447,
+            59.916167
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erlesene Kunst in den königlichen Ställen; das Parken an den Straßen rund um den Palast ist oft begrenzt.",
+            "hu": "Gyönyörű művészet a királyi istállókban; ne feledje, hogy a palota közelében az utcai parkolás korlátozott.",
+            "ro": "Artă rafinată în fostele grajduri regale; țineți cont că parcarea pe stradă lângă palat este foarte limitată.",
+            "en": "Exquisite art in the old royal stables; remember that street parking near the palace can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Nobel Peace Center",
+            "hu": "Nobel Peace Center",
+            "ro": "Nobel Peace Center",
+            "en": "Nobel Peace Center"
+          },
+          "coords": [
+            10.7304,
+            59.911612
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Inspirierende Geschichten von Friedensstiftern; nutzen Sie das Parkhaus Aker Brygge für einen leichten Zugang.",
+            "hu": "Béketeremtők inspiráló történetei; használja a közeli Aker Brygge parkolóházat a könnyű hozzáférésért.",
+            "ro": "Povești inspiratoare ale făcătorilor de pace; folosiți parcarea Aker Brygge pentru acces ușor și sigur.",
+            "en": "Inspiring stories of peacekeepers; use the nearby Aker Brygge parking garage for easy and safe access."
+          }
+        },
+        {
+          "name": {
+            "de": "Defence Musuem",
+            "hu": "Defence Musuem",
+            "ro": "Defence Musuem",
+            "en": "Defence Musuem"
+          },
+          "coords": [
+            10.740888,
+            59.904511
+          ],
+          "category": "museum",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Militärgeschichte der Festung; Parkplätze finden Sie direkt vor den Haupttoren von Akershus.",
+            "hu": "Fedezze fel a hadtörténetet az erődben; parkolási lehetőség közvetlenül az Akershus főkapuja előtt van.",
+            "ro": "Explorați istoria militară la fortăreață; parcarea este disponibilă chiar în afara porților principale Akershus.",
+            "en": "Explore military history at the fortress; parking is available just outside the main Akershus gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Ladegården",
+            "hu": "Ladegården",
+            "ro": "Ladegården",
+            "en": "Ladegården"
+          },
+          "coords": [
+            10.767627,
+            59.906189
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Ein mittelalterlicher Bischofssitz in der Altstadt; ideal, um Oslos älteste Steinfundamente zu sehen.",
+            "hu": "Középkori püspöki birtok az óvárosban; remek hely Oslo legkorábbi kőalapjainak megtekintésére.",
+            "ro": "O moșie episcopală medievală în Orașul Vechi; un loc excelent pentru a vedea primele fundații din piatră.",
+            "en": "A medieval bishop's estate in the Old Town; a great spot to see Oslo's earliest stone foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Natural History Museum at the University of Oslo",
+            "hu": "Natural History Museum at the University of Oslo",
+            "ro": "Natural History Museum at the University of Oslo",
+            "en": "Natural History Museum at the University of Oslo"
+          },
+          "coords": [
+            10.771714,
+            59.919783
+          ],
+          "category": "museum",
+          "arrive_at": "17:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Norwegens größte naturhistorische Sammlung; nutzen Sie den ausgewiesenen Parkplatz des Botanischen Gartens.",
+            "hu": "Norvégia legnagyobb természettudományi gyűjteménye; használja a botanikus kert kijelölt parkolóját.",
+            "ro": "Cea mai mare colecție de artefacte naturale din Norvegia; folosiți parcarea desemnată a grădinii botanice.",
+            "en": "Norway's largest collection of natural artifacts; use the botanical garden's designated parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Westen und erkunden Sie die tiefen Wurzeln der Stadtgeschichte im Gutshaus. Mittags fahren Sie zum Hafen und zur Festung für Geschichten über Frieden und Militär. Der Nachmittag führt Sie zu den historischen Ruinen und dem frühen Bistum in der Altstadt. Beenden Sie die Fahrt nahe dem östlichen Campus und bestaunen Sie die großartigen Naturkundesammlungen.",
+        "hu": "Kezdje a napot nyugaton, felfedezve Oslo polgári történelmének mély gyökereit a kúriában. Délben vezessen a kikötő és az erőd felé, hogy megismerje a béke és a hadtörténet történeteit. A délután az óváros történelmi romjaihoz és a korai püspökséghez viszi. Fejezze be az utat a keleti campus közelében, megcsodálva a nemzet legnagyobb természettudományi gyűjteményeit.",
+        "ro": "Începeți ziua în vest, explorând rădăcinile istoriei civice ale orașului Oslo la conac. La prânz, conduceți spre port și fortăreață pentru povești despre pace și istorie militară. După-amiaza vă duce la ruinele istorice și la vechea episcopie din Orașul Vechi. Terminați plimbarea lângă campusul de est, minunându-vă de cele mai mari colecții de istorie naturală ale națiunii.",
+        "en": "Kick off the day in the west, exploring the deep roots of Oslo's civic history at the manor. By midday, drive toward the harbor and the fortress for stories of peace and military might. The afternoon takes you to the historic ruins and early bishopric in the Old Town. Finish the drive near the eastern campus, marveling at the nation's grandest natural history collections."
+      }
+    }
+  }
+}

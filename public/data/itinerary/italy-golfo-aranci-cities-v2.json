@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-golfo-aranci-cities-v2",
+  "anchor": {
+    "name": "Golfo Aranci",
+    "coords": [
+      9.61453,
+      41.00648
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 1.96,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Terza Spiaggia",
+            "hu": "Terza Spiaggia",
+            "ro": "Terza Spiaggia",
+            "en": "Terza Spiaggia"
+          },
+          "coords": [
+            9.612093,
+            41.003566
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit flachem Wasser, ideal für Familien, aber kommen Sie frühzeitig, um sich einen guten Platz nahe dem Zentrum zu sichern.",
+            "hu": "Pihenjen ezen a finom homokos, sekély vizű strandon, de érdemes korán érkeznie, hogy jó helyet találjon a városközpont közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje cu ape cristaline și puțin adânci, dar ajungeți devreme pentru a vă asigura un loc bun aproape de centru.",
+            "en": "Relax on the fine white sand of this accessible beach and enjoy its shallow, crystal-clear waters, but arrive early to secure a good spot near the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Seconda Spiaggia",
+            "hu": "Seconda Spiaggia",
+            "ro": "Seconda Spiaggia",
+            "en": "Seconda Spiaggia"
+          },
+          "coords": [
+            9.616205,
+            41.00296
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in der ruhigen, transparenten Bucht mit lebhafter Atmosphäre und bringen Sie einen kleinen Sonnenschirm für den Schatten am Mittag mit.",
+            "hu": "Ússzon a központi öböl nyugodt, átlátszó vizében, ahol élénk a hangulat, és hozzon magával egy kis napernyőt a déli árnyék biztosításához.",
+            "ro": "Înotați în marea calmă și transparentă a acestui golf central animat și confortabil, având la îndemână o mică umbrelă pentru umbra de la amiază.",
+            "en": "Swim in the calm, transparent sea of this central bay that perfectly balances lively atmosphere and comfort, keeping a small umbrella handy for midday shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Prima Spiaggia",
+            "hu": "Prima Spiaggia",
+            "ro": "Prima Spiaggia",
+            "en": "Prima Spiaggia"
+          },
+          "coords": [
+            9.619576,
+            41.002344
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie das smaragdgrüne Wasser direkt an der Promenade, wo gemütliche Cafés warten, perfekt für eine schnelle Erfrischung und ein leckeres Eis.",
+            "hu": "Csodálja meg a sétány melletti smaragdzöld vizet, ahol helyi kávézók várják, tökéletes helyszín egy gyors csobbanásra és egy finom fagylaltra.",
+            "ro": "Admirați apele de smarald chiar lângă promenadă unde vă așteaptă cafenele, fiind locul ideal pentru o baie rapidă și o pauză binemeritată de înghețată.",
+            "en": "Admire the vibrant emerald waters directly next to the promenade where local cafes await, making it perfect for a quick refreshing dip and an ice cream stop."
+          }
+        },
+        {
+          "name": {
+            "de": "La Sirena",
+            "hu": "La Sirena",
+            "ro": "La Sirena",
+            "en": "La Sirena"
+          },
+          "coords": [
+            9.620988,
+            41.001018
+          ],
+          "category": "historical",
+          "arrive_at": "13:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Sehen Sie zu, wie die bronzene Meerjungfrau zu einem Lied aus dem Wasser taucht, und prüfen Sie vorab den täglichen Zeitplan für diese bezaubernde Show.",
+            "hu": "Nézze meg, ahogy a bronz hableány szobra énekszóra kiemelkedik a vízből, és előre ellenőrizze a napi menetrendet, hogy ne maradjon le a műsorról.",
+            "ro": "Priviți cum statuia de bronz a sirenei iese din apă acompaniată de o melodie și verificați programul zilnic pentru a nu rata această reprezentație unică.",
+            "en": "Hear the iconic bronze mermaid statue emerge from the water to a distinct song, and check the daily schedule so you don't miss her enchanting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "MuMart",
+            "hu": "MuMart",
+            "ro": "MuMart",
+            "en": "MuMart"
+          },
+          "coords": [
+            9.612426,
+            40.999156
+          ],
+          "category": "museum",
+          "arrive_at": "13:33",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über den einzigartigen Unterwasser-Kunstinstallationen mit faszinierenden Skulpturen, also bringen Sie unbedingt Ihre eigene Taucherbrille mit.",
+            "hu": "Sznorkelezzen az egyedülálló víz alatti modern szoborpark felett, és ehhez mindenképpen hozzon magával egy jó minőségű, saját búvármaszkot az élményhez.",
+            "ro": "Faceți snorkeling deasupra instalațiilor de artă subacvatică cu sculpturi moderne, așa că asigurați-vă că aduceți propria mască de scufundări de calitate.",
+            "en": "Snorkel above the unique underwater art installations featuring captivating modern sculptures, so make sure to bring your own high-quality diving mask."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den wunderschönen Stadtstränden und dem weichen Sand der Terza Spiaggia. Mittags locken die lebhaften Strände Prima und Seconda für ein perfektes Bad. Am Nachmittag können Sie die magische Statue La Sirena bewundern. Beenden Sie den Tag beim Schnorcheln über den unglaublichen Unterwasserskulpturen von MuMart.",
+        "hu": "Kezdje a reggelt a városi strandok gyönyörű láncolatával, a Terza Spiaggia puha homokjával. Délben az élettel teli Prima és Seconda strandok várják egy úszásra és ebédre. Délután csodálja meg a vízből kiemelkedő varázslatos La Sirena szobrot. Zárja a napot egy sznorkelezéssel a MuMart hihetetlen víz alatti szobrai felett.",
+        "ro": "Începeți dimineața explorând succesiunea de plaje frumoase ale orașului, simțind nisipul fin al Terza Spiaggia. La amiază vizitați plajele animate Prima și Seconda pentru o baie perfectă. După-amiaza, admirați statuia magică La Sirena ieșind din apă. Încheiați ziua făcând snorkeling deasupra incredibilelor sculpturi subacvatice MuMart.",
+        "en": "Start your morning exploring the beautiful succession of town beaches, feeling the soft sand of Terza Spiaggia. Midday brings you to the lively Prima and Seconda beaches for a perfect swim and lunch. In the afternoon, watch the magical La Sirena statue emerge. End the day snorkeling over the incredible underwater sculptures of MuMart."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 3.03,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pozzo Sacro Milis",
+            "hu": "Pozzo Sacro Milis",
+            "ro": "Pozzo Sacro Milis",
+            "en": "Pozzo Sacro Milis"
+          },
+          "coords": [
+            9.628552,
+            40.99338
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken heiligen Nuraghenbrunnen, um die prähistorischen Wurzeln Sardiniens zu verstehen, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel az ősi nurágh szent kutat Szardínia történetének megismeréséhez, és viseljen zárt cipőt a környező sziklás terep biztonságos bejárásához.",
+            "ro": "Explorați fântâna sacră antică nuragică pentru a înțelege rădăcinile preistorice ale Sardiniei, purtând încălțăminte solidă pentru terenul stâncos.",
+            "en": "Explore the ancient Nuragic sacred well to understand Sardinia's deep prehistoric roots, wearing sturdy shoes to safely navigate the surrounding rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "La Sirena",
+            "hu": "La Sirena",
+            "ro": "La Sirena",
+            "en": "La Sirena"
+          },
+          "coords": [
+            9.620988,
+            41.001018
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie zu, wie die bronzene Meerjungfrau zu einem Lied aus dem Wasser taucht, und prüfen Sie vorab den täglichen Zeitplan für diese bezaubernde Show.",
+            "hu": "Nézze meg, ahogy a bronz hableány szobra énekszóra kiemelkedik a vízből, és előre ellenőrizze a napi menetrendet, hogy ne maradjon le a műsorról.",
+            "ro": "Priviți cum statuia de bronz a sirenei iese din apă acompaniată de o melodie și verificați programul zilnic pentru a nu rata această reprezentație unică.",
+            "en": "Hear the iconic bronze mermaid statue emerge from the water to a distinct song, and check the daily schedule so you don't miss her enchanting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Prima Spiaggia",
+            "hu": "Prima Spiaggia",
+            "ro": "Prima Spiaggia",
+            "en": "Prima Spiaggia"
+          },
+          "coords": [
+            9.619576,
+            41.002344
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie das smaragdgrüne Wasser direkt an der Promenade, wo gemütliche Cafés warten, perfekt für eine schnelle Erfrischung und ein leckeres Eis.",
+            "hu": "Csodálja meg a sétány melletti smaragdzöld vizet, ahol helyi kávézók várják, tökéletes helyszín egy gyors csobbanásra és egy finom fagylaltra.",
+            "ro": "Admirați apele de smarald chiar lângă promenadă unde vă așteaptă cafenele, fiind locul ideal pentru o baie rapidă și o pauză binemeritată de înghețată.",
+            "en": "Admire the vibrant emerald waters directly next to the promenade where local cafes await, making it perfect for a quick refreshing dip and an ice cream stop."
+          }
+        },
+        {
+          "name": {
+            "de": "MuMart",
+            "hu": "MuMart",
+            "ro": "MuMart",
+            "en": "MuMart"
+          },
+          "coords": [
+            9.612426,
+            40.999156
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über den einzigartigen Unterwasser-Kunstinstallationen mit faszinierenden Skulpturen, also bringen Sie unbedingt Ihre eigene Taucherbrille mit.",
+            "hu": "Sznorkelezzen az egyedülálló víz alatti modern szoborpark felett, és ehhez mindenképpen hozzon magával egy jó minőségű, saját búvármaszkot az élményhez.",
+            "ro": "Faceți snorkeling deasupra instalațiilor de artă subacvatică cu sculpturi moderne, așa că asigurați-vă că aduceți propria mască de scufundări de calitate.",
+            "en": "Snorkel above the unique underwater art installations featuring captivating modern sculptures, so make sure to bring your own high-quality diving mask."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Spiaggia",
+            "hu": "Quinta Spiaggia",
+            "ro": "Quinta Spiaggia",
+            "en": "Quinta Spiaggia"
+          },
+          "coords": [
+            9.608127,
+            41.001196
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den flachen Sandboden dieses breiteren, familienfreundlichen Strandes, der viel Platz bietet, ideal um sich den ganzen Nachmittag zu entspannen.",
+            "hu": "Élvezze e szélesebb, családbarát strand sekély homokos alját, amely bőséges helyet kínál a nagy törölközők kiterítéséhez és a délutáni pihenéshez.",
+            "ro": "Bucurați-vă de fundul de nisip puțin adânc al acestei plaje spațioase pentru familii, perfectă pentru a întinde un prosop mare și a vă relaxa toată după-amiaza.",
+            "en": "Enjoy the shallow sandy bottom of this wider, family-friendly beach that offers ample space, perfect for laying out a large towel and relaxing all afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Landesinneren am faszinierenden Pozzo Sacro Milis und tauchen Sie ein in die Geschichte Sardiniens. Fahren Sie zur Küste zur bezaubernden La Sirena und einem erfrischenden Bad an der Prima Spiaggia. Der Nachmittag lädt ein, die versunkene Kunst von MuMart zu entdecken. Beenden Sie die Tour an der Quinta Spiaggia.",
+        "hu": "Kezdje kerékpártúráját a szárazföld belsejében, a lenyűgöző Pozzo Sacro Milisnél, Szardínia ókori történelmében. Tekerjen a part felé a varázslatos La Sirena előadásához és egy frissítő csobbanáshoz a Prima Spiaggián. Délután fedezze fel a MuMart elsüllyedt művészetét. Zárja a napot a tágas Quinta Spiaggia homokján pihenve.",
+        "ro": "Începeți turul cu bicicleta spre interior la fascinantul Pozzo Sacro Milis, descoperind istoria antică a Sardiniei. Pedalați spre coastă pentru a vedea fermecătoarea La Sirena înainte de o baie revigorantă la Prima Spiaggia. După-amiaza vă invită să explorați arta scufundată a MuMart. Încheiați plimbarea pe nisipurile vaste ale Quinta Spiaggia.",
+        "en": "Kick off your cycling tour inland at the fascinating Pozzo Sacro Milis, stepping deep into Sardinia's ancient history. Ride towards the coast to catch the enchanting La Sirena performance before a refreshing midday swim at Prima Spiaggia. The afternoon invites you to discover the sunken art of MuMart. Conclude your ride on the vast sands of Quinta Spiaggia."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Sabina",
+            "hu": "Spiaggia Sabina",
+            "ro": "Spiaggia Sabina",
+            "en": "Spiaggia Sabina"
+          },
+          "coords": [
+            9.585618,
+            41.010455
+          ],
+          "category": "recreational",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in dieser friedlichen Bucht mit feinem Sand und Ruhe, packen Sie jedoch eine kleine Windjacke ein, da die Meeresbrise frisch sein kann.",
+            "hu": "Kezdje a napot ebben az északi csendes öbölben, amely finom homokjáról ismert, de hozzon egy vékony széldzsekit, mert a parti szél olykor hűvös lehet.",
+            "ro": "Începeți ziua în acest golf nordic liniștit, renumit pentru nisipul fin, împachetând o jachetă de vânt deoarece briza de coastă poate fi surprinzător de rece.",
+            "en": "Start your day at this peaceful northern cove known for its fine sand and tranquility, packing a small windbreaker as the coastal breezes can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Bianca",
+            "hu": "Spiaggia Bianca",
+            "ro": "Spiaggia Bianca",
+            "en": "Spiaggia Bianca"
+          },
+          "coords": [
+            9.591775,
+            40.990647
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den strahlend weißen Sand dieses berühmten Strandes und bringen Sie Badeschuhe mit, um die wenigen felsigen Stellen am Rand leicht zu meistern.",
+            "hu": "Csodálja meg a híres strand vakítóan fehér homokját és kék kontrasztjait, és hozzon vízicipőt, hogy könnyedén átsétáljon a szélen lévő sziklás részeken.",
+            "ro": "Admirați nisipul alb strălucitor și contrastele albastre ale acestei plaje faimoase, aducând încălțăminte de apă pentru a naviga ușor pe zonele stâncoase.",
+            "en": "Marvel at the brilliantly white sand and striking blue contrasts of this famous beach, bringing water shoes to easily navigate the few rocky patches at the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Delfino",
+            "hu": "Cala Delfino",
+            "ro": "Cala Delfino",
+            "en": "Cala Delfino"
+          },
+          "coords": [
+            9.597843,
+            40.9914
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die raue Küste von diesem malerischen Felsvorsprung und halten Sie Ihre Kamera auf den unebenen Steinwegen gut fest.",
+            "hu": "Gyönyörködjön a zord partvonal panorámájában erről a festői sziklás kiszögellésről, de tartsa biztonságban a fényképezőgépét az egyenetlen kőösvényeken.",
+            "ro": "Admirați priveliștile panoramice ale coastei de pe acest promontoriu stâncos pitoresc, ținând cureaua camerei în siguranță pe potecile de piatră denivelate.",
+            "en": "Take in the panoramic views of the rugged coastline from this scenic rocky outcrop, keeping your camera strap secure while standing on the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Baia Caddinas",
+            "hu": "Spiaggia di Baia Caddinas",
+            "ro": "Spiaggia di Baia Caddinas",
+            "en": "Spiaggia di Baia Caddinas"
+          },
+          "coords": [
+            9.603903,
+            40.997816
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gut ausgestatteten Sandstrand nahe der Luxusresorts und nutzen Sie die Kioske in der Nähe für ein kaltes Getränk und leichte Snacks.",
+            "hu": "Pihenjen ezen a jól felszerelt homokos partszakaszon a luxus üdülők közelében, és használja ki a közeli büféket egy hideg ital vagy könnyű harapnivaló erejéig.",
+            "ro": "Relaxați-vă pe această plajă bine echipată, situată lângă stațiuni de lux, și profitați de chioșcurile din apropiere pentru o băutură rece și gustări locale.",
+            "en": "Lounge on this well-equipped sandy stretch nestled near luxury resorts, and take advantage of the nearby local kiosks to grab a cold drink and light local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo Sacro Milis",
+            "hu": "Pozzo Sacro Milis",
+            "ro": "Pozzo Sacro Milis",
+            "en": "Pozzo Sacro Milis"
+          },
+          "coords": [
+            9.628552,
+            40.99338
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken heiligen Nuraghenbrunnen, um die prähistorischen Wurzeln Sardiniens zu verstehen, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel az ősi nurágh szent kutat Szardínia történetének megismeréséhez, és viseljen zárt cipőt a környező sziklás terep biztonságos bejárásához.",
+            "ro": "Explorați fântâna sacră antică nuragică pentru a înțelege rădăcinile preistorice ale Sardiniei, purtând încălțăminte solidă pentru terenul stâncos.",
+            "en": "Explore the ancient Nuragic sacred well to understand Sardinia's deep prehistoric roots, wearing sturdy shoes to safely navigate the surrounding rocky terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Spiaggia Sabina für einen ruhigen Morgenspaziergang an den unberührten Ufern. Fahren Sie nach Süden zur berühmten Spiaggia Bianca für ein Badeerlebnis am Mittag und eine tolle Aussicht an der Cala Delfino. Verbringen Sie den Nachmittag entspannt in Baia Caddinas. Beenden Sie diesen Roadtrip mit dem antiken Pozzo Sacro Milis.",
+        "hu": "Vezessen a Spiaggia Sabina felé egy nyugodt reggeli sétára annak érintetlen partjainál. Délben induljon délre a híres Spiaggia Biancához egy fürdőzésre, majd gyönyörködjön a Cala Delfino kilátásában. A délutánt töltse a kényelmes Baia Caddinas strandon. Zárja ezt a festői autós utat a Pozzo Sacro Milis ősi kútjának történelmi kitérőjével.",
+        "ro": "Conduceți până la Spiaggia Sabina pentru o plimbare matinală pe malurile sale imaculate. Mergeți spre sud la faimoasa Spiaggia Bianca pentru o experiență perfectă la amiază și vederi uimitoare la Cala Delfino. Petreceți după-amiaza relaxându-vă la Baia Caddinas. Încheiați călătoria cu o deviere istorică la anticul Pozzo Sacro Milis.",
+        "en": "Drive up to Spiaggia Sabina for a tranquil morning walk along its pristine shores. Head south to the famous Spiaggia Bianca for an iconic midday beach experience and stunning coastline views at Cala Delfino. Spend your afternoon relaxing comfortably at Baia Caddinas. Wrap up this scenic road trip with a historical detour to the ancient Pozzo Sacro Milis."
+      }
+    }
+  }
+}

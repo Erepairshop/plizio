@@ -1,0 +1,451 @@
+{
+  "city_id": "peyrolles-en-provence",
+  "anchor": {
+    "name": "Peyrolles-en-Provence",
+    "coords": [
+      5.585,
+      43.6456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle du Saint-Sépulcre",
+            "hu": "Chapelle du Saint-Sépulcre",
+            "ro": "Chapelle du Saint-Sépulcre",
+            "en": "Chapelle du Saint-Sépulcre"
+          },
+          "coords": [
+            5.5837,
+            43.6461
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kapelle, ein wichtiges lokales Kulturerbe, und kommen Sie früh, um die Fassade ohne Schatten zu fotografieren.",
+            "hu": "Csodálja meg e történelmi kápolna gyönyörű román kori építészetét, amely fontos helyi örökség, és érkezzen korán, hogy árnyékok nélkül fotózhassa le a homlokzatot.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei capele istorice, un important sit de patrimoniu local, și ajungeți devreme pentru a fotografia fațada fără umbre.",
+            "en": "Admire the beautiful Romanesque architecture of this historic chapel, an important local heritage site, and arrive early to photograph the facade without shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            5.582902,
+            43.647694
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Dorfkirche ein, um den kunstvoll gefertigten Altar zu betrachten, und denken Sie daran, während der Gottesdienste leise zu sprechen.",
+            "hu": "Lépjen be ebbe a nyugodt falusi templomba, hogy megfigyelje a finoman kidolgozott oltárt, de ne felejtse el lehalkítani a hangját az istentiszteletek alatt.",
+            "ro": "Pășiți în această biserică de sat liniștită pentru a observa altarul său fin lucrat, reflectând secole de devotament, dar asigurați-vă că păstrați liniștea.",
+            "en": "Step inside this tranquil village church to observe its finely crafted altar, reflecting centuries of devotion, but remember to keep your voice down during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte aux Palmets",
+            "hu": "Grotte aux Palmets",
+            "ro": "Grotte aux Palmets",
+            "en": "Grotte aux Palmets"
+          },
+          "coords": [
+            5.583515,
+            43.648369
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende natürliche Höhlenformation, die einen kühlen Rückzugsort bietet, aber tragen Sie unbedingt festes Schuhwerk für den unebenen Boden.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes barlangot, amely hűvös menedéket nyújt a nyári meleg elől, de mindenképpen viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați această formațiune carstică naturală fascinantă care oferă un refugiu răcoros, dar asigurați-vă că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Explore this fascinating natural cave formation that offers a cool retreat from the summer heat, but be sure to wear sturdy shoes for the uneven, slippery ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peyrolles",
+            "hu": "Château de Peyrolles",
+            "ro": "Château de Peyrolles",
+            "en": "Château de Peyrolles"
+          },
+          "coords": [
+            5.584005,
+            43.648203
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den majestätischen Innenhof dieser historischen Burg, die die Skyline des Dorfes dominiert, und informieren Sie sich vorab über die Führungszeiten.",
+            "hu": "Fedezze fel e történelmi kastély fenséges udvarát és elegáns termeit, amely uralja a falu látképét, és ellenőrizze a helyi táblán a vezetett túrák időpontjait.",
+            "ro": "Descoperiți curtea maiestuoasă a acestui castel istoric care domină orizontul satului și verificați panoul local pentru orele de vizitare cu ghid disponibil.",
+            "en": "Discover the majestic courtyard and elegant chambers of this historical castle which dominates the village skyline, and check the local board for guided tour times."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Peyrolles",
+            "hu": "Lac de Peyrolles",
+            "ro": "Lac de Peyrolles",
+            "en": "Lac de Peyrolles"
+          },
+          "coords": [
+            5.58278,
+            43.65405
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses weitläufigen Sees, ideal für ein Nachmittagspicknick, und bringen Sie Ihr eigenes Strandtuch für die grasbewachsenen Ufer mit.",
+            "hu": "Pihenjen e hatalmas tó nyugodt vizénél, amely tökéletes egy napos délutáni piknikhez, és hozzon magával saját strandtörölközőt a füves partokon való heverészéshez.",
+            "ro": "Relaxați-vă pe malurile apelor liniștite ale acestui lac întins, perfect pentru un picnic, și aduceți propriul prosop de plajă pentru a vă așeza pe iarbă.",
+            "en": "Relax by the calm waters of this expansive lake, perfect for a sunny afternoon picnic with family, and bring your own beach towel to lounge on the grassy banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum von Peyrolles-en-Provence und tauchen Sie in das reiche religiöse Erbe der lokalen Kapellen ein.\n\nMittags entdecken Sie die faszinierende natürliche Grotte und das imposante Schloss, wo sich die Geschichte entfaltet.\n\nDer Nachmittag steht im Zeichen der Entspannung mit einem erfrischenden Spaziergang zum See.\n\nAm Abend genießen Sie die Sonnenuntergangsreflexionen auf dem See und beenden den perfekten Tag zu Fuß.",
+        "hu": "Kezdje a reggelt Peyrolles-en-Provence történelmi központjában, és merüljön el a helyi kápolnák gazdag vallási örökségében.\n\nDélben fedezze fel a lenyűgöző barlangot és a fenséges kastélyt, ahol évszázadok történelme bontakozik ki.\n\nA délután a pihenésé, miközben egy frissítő sétát tesz a szikrázó Lac de Peyrolles felé.\n\nEste élvezze a tó tükrében megcsillanó naplementét, és zárja le ezt a tökéletes gyalogos napot.",
+        "ro": "Începeți dimineața explorând inima istorică din Peyrolles-en-Provence, scufundându-vă în bogatul patrimoniu religios al capelelor locale.\n\nLa prânz veți ajunge la fascinanta grotă și la grandiosul castel, plin de istorie.\n\nDupă-amiaza se transformă în relaxare cu o plimbare revigorantă spre strălucitorul Lac de Peyrolles.\n\nSeara, bucurați-vă de reflexiile apusului pe lac, încheind o zi perfectă de plimbare.",
+        "en": "Start your morning exploring the historic heart of Peyrolles-en-Provence, diving into its rich religious heritage at the local chapels.\n\nMidday brings you to the fascinating natural Grotte and the grand Château, where centuries of history unfold.\n\nThe afternoon shifts to relaxation with a refreshing walk toward the sparkling Lac de Peyrolles.\n\nIn the evening, enjoy the sunset reflections on the lake, concluding a perfect day on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oratoire Notre-Dame",
+            "hu": "Oratoire Notre-Dame",
+            "ro": "Oratoire Notre-Dame",
+            "en": "Oratoire Notre-Dame"
+          },
+          "coords": [
+            5.58187,
+            43.635932
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten Wegschrein, der einen ruhigen Moment der spirituellen Reflexion bietet, und machen Sie ein schnelles Foto seiner Steindetails.",
+            "hu": "Álljon meg ennél a bájos útszéli szentélynél, amely a csendes elmélkedés pillanatát kínálja, és készítsen egy gyors fotót a hagyományos kőből faragott részletekről.",
+            "ro": "Opriți-vă la acest altar fermecător de pe marginea drumului, care oferă un moment de reflecție liniștită, și faceți o fotografie a detaliilor sale din piatră.",
+            "en": "Pause at this charming wayside shrine that offers a quiet moment of spiritual reflection outside the town, and take a quick photo of its traditional stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Saint-Sépulcre",
+            "hu": "Chapelle du Saint-Sépulcre",
+            "ro": "Chapelle du Saint-Sépulcre",
+            "en": "Chapelle du Saint-Sépulcre"
+          },
+          "coords": [
+            5.5837,
+            43.6461
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kapelle, ein wichtiges lokales Kulturerbe, und kommen Sie früh, um die Fassade ohne Schatten zu fotografieren.",
+            "hu": "Csodálja meg e történelmi kápolna gyönyörű román kori építészetét, amely fontos helyi örökség, és érkezzen korán, hogy árnyékok nélkül fotózhassa le a homlokzatot.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei capele istorice, un important sit de patrimoniu local, și ajungeți devreme pentru a fotografia fațada fără umbre.",
+            "en": "Admire the beautiful Romanesque architecture of this historic chapel, an important local heritage site, and arrive early to photograph the facade without shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peyrolles",
+            "hu": "Château de Peyrolles",
+            "ro": "Château de Peyrolles",
+            "en": "Château de Peyrolles"
+          },
+          "coords": [
+            5.584005,
+            43.648203
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den majestätischen Innenhof dieser historischen Burg, die die Skyline des Dorfes dominiert, und informieren Sie sich vorab über die Führungszeiten.",
+            "hu": "Fedezze fel e történelmi kastély fenséges udvarát és elegáns termeit, amely uralja a falu látképét, és ellenőrizze a helyi táblán a vezetett túrák időpontjait.",
+            "ro": "Descoperiți curtea maiestuoasă a acestui castel istoric care domină orizontul satului și verificați panoul local pentru orele de vizitare cu ghid disponibil.",
+            "en": "Discover the majestic courtyard and elegant chambers of this historical castle which dominates the village skyline, and check the local board for guided tour times."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Peyrolles",
+            "hu": "Lac de Peyrolles",
+            "ro": "Lac de Peyrolles",
+            "en": "Lac de Peyrolles"
+          },
+          "coords": [
+            5.58278,
+            43.65405
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses weitläufigen Sees, ideal für ein Nachmittagspicknick, und bringen Sie Ihr eigenes Strandtuch für die grasbewachsenen Ufer mit.",
+            "hu": "Pihenjen e hatalmas tó nyugodt vizénél, amely tökéletes egy napos délutáni piknikhez, és hozzon magával saját strandtörölközőt a füves partokon való heverészéshez.",
+            "ro": "Relaxați-vă pe malurile apelor liniștite ale acestui lac întins, perfect pentru un picnic, și aduceți propriul prosop de plajă pentru a vă așeza pe iarbă.",
+            "en": "Relax by the calm waters of this expansive lake, perfect for a sunny afternoon picnic with family, and bring your own beach towel to lounge on the grassy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de Plantain",
+            "hu": "Plan d'eau de Plantain",
+            "ro": "Plan d'eau de Plantain",
+            "en": "Plan d'eau de Plantain"
+          },
+          "coords": [
+            5.591203,
+            43.655023
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses malerische Gewässer, das die lokale Vogelwelt anzieht und eine ruhige Kulisse bietet, und packen Sie ein Fernglas für die Tierbeobachtung ein.",
+            "hu": "Sétáljon e festői vízfelület körül, amely vonzza a helyi madárvilágot és derűs hátteret biztosít, és csomagoljon be egy távcsövet az optimális vadon élő állatok megfigyeléséhez.",
+            "ro": "Plimbați-vă în jurul acestui corp de apă pitoresc, care atrage păsările locale și oferă un fundal senin, și luați cu voi un binoclu pentru observarea naturii.",
+            "en": "Stroll around this scenic water body that attracts local birdlife and provides a serene backdrop, and pack a pair of binoculars for optimal wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "EXO 13",
+            "hu": "EXO 13",
+            "ro": "EXO 13",
+            "en": "EXO 13"
+          },
+          "coords": [
+            5.589901,
+            43.6526
+          ],
+          "category": "family",
+          "arrive_at": "14:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine adrenalingeladene Session in diesem Wasserpark mit Wakeboarding, und buchen Sie Ihr Zeitfenster vorab online, um die langen Warteschlangen zu umgehen.",
+            "hu": "Élvezze az adrenalindús élményt ebben a népszerű víziparkban, amely kábel-wakeboardozást kínál, és foglalja le az időpontját előre online, hogy elkerülje a sorokat.",
+            "ro": "Bucurați-vă de o sesiune plină de adrenalină la acest parc acvatic popular cu wakeboarding pe cablu și rezervați-vă intervalul orar online pentru a evita cozile lungi.",
+            "en": "Enjoy an adrenaline-filled session at this popular waterpark featuring cable wakeboarding, and book your timeslot online in advance to skip the long waiting queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am ruhigen Oratoire Notre-Dame, bevor Sie zu den historischen Denkmälern des Dorfes radeln.\n\nMittags fahren Sie am imposanten Schloss vorbei hinaus zu den weitläufigen Erholungsgewässern.\n\nDer Nachmittag ist gefüllt mit einer frischen Seebrise, während Sie den Plan d'eau umrunden.\n\nLassen Sie den Abend im lebhaften EXO 13 Park ausklingen und genießen Sie die abendliche Atmosphäre im Freien.",
+        "hu": "Kezdje a kerékpártúrát a csendes Oratoire Notre-Dame-nál, mielőtt a falu történelmi műemlékeihez tekerne.\n\nDélben a magasodó kastély mellett halad el, majd gyorsan kijut a hatalmas tavakhoz.\n\nA délutánt a tóparti szellő tölti ki, miközben a Plan d'eau de Plantain körül kerékpározik.\n\nEste lazítson a nyüzsgő EXO 13 parkban, és élvezze a francia szabadtéri élet élénk alkonyati hangulatát.",
+        "ro": "Începeți turul cu bicicleta la liniștitul Oratoire Notre-Dame, înainte de a pedala către monumentele istorice ale satului.\n\nPrânzul vă poartă pe lângă castelul impunător spre apele de agrement.\n\nDupă-amiaza este plină de briza lacului, în timp ce dați ocol Plan d'eau de Plantain.\n\nRelaxați-vă seara în parcul plin de viață EXO 13, savurând atmosfera vibrantă a amurgului în aer liber din Franța.",
+        "en": "Kick off your cycling tour at the quiet Oratoire Notre-Dame before pedaling up to the village's historic monuments.\n\nMidday takes you past the towering Château and swiftly out to the expansive recreational waters.\n\nThe afternoon is filled with lakeside breezes as you loop around the Plan d'eau de Plantain.\n\nWind down your evening at the lively EXO 13 park, savoring the vibrant twilight atmosphere of the French outdoors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oratoire Notre-Dame",
+            "hu": "Oratoire Notre-Dame",
+            "ro": "Oratoire Notre-Dame",
+            "en": "Oratoire Notre-Dame"
+          },
+          "coords": [
+            5.58187,
+            43.635932
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten Wegschrein, der einen ruhigen Moment der spirituellen Reflexion bietet, und machen Sie ein schnelles Foto seiner Steindetails.",
+            "hu": "Álljon meg ennél a bájos útszéli szentélynél, amely a csendes elmélkedés pillanatát kínálja, és készítsen egy gyors fotót a hagyományos kőből faragott részletekről.",
+            "ro": "Opriți-vă la acest altar fermecător de pe marginea drumului, care oferă un moment de reflecție liniștită, și faceți o fotografie a detaliilor sale din piatră.",
+            "en": "Pause at this charming wayside shrine that offers a quiet moment of spiritual reflection outside the town, and take a quick photo of its traditional stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine vidée",
+            "hu": "Piscine vidée",
+            "ro": "Piscine vidée",
+            "en": "Piscine vidée"
+          },
+          "coords": [
+            5.575948,
+            43.647385
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die ungewöhnliche verlassene Ästhetik dieses entleerten Schwimmbads, das ein skurriles Fotomotiv bildet, und achten Sie beim Umhergehen auf die Betonkanten.",
+            "hu": "Csodálja meg ennek a kiürített úszómedencének a szokatlan, elhagyatott esztétikáját, amely mókás fotóhelyszín, és ügyeljen a betonperemekre, miközben körbesétálja.",
+            "ro": "Minunați-vă de estetica neobișnuită a acestei piscine goale care formează un loc de fotografie ciudat și aveți grijă la marginile din beton în timp ce vă plimbați pe acolo.",
+            "en": "Marvel at the unusual abandoned aesthetic of this emptied swimming pool that forms a quirky photo spot, and be careful of the concrete edges while walking around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peyrolles",
+            "hu": "Château de Peyrolles",
+            "ro": "Château de Peyrolles",
+            "en": "Château de Peyrolles"
+          },
+          "coords": [
+            5.584005,
+            43.648203
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den majestätischen Innenhof dieser historischen Burg, die die Skyline des Dorfes dominiert, und informieren Sie sich vorab über die Führungszeiten.",
+            "hu": "Fedezze fel e történelmi kastély fenséges udvarát és elegáns termeit, amely uralja a falu látképét, és ellenőrizze a helyi táblán a vezetett túrák időpontjait.",
+            "ro": "Descoperiți curtea maiestuoasă a acestui castel istoric care domină orizontul satului și verificați panoul local pentru orele de vizitare cu ghid disponibil.",
+            "en": "Discover the majestic courtyard and elegant chambers of this historical castle which dominates the village skyline, and check the local board for guided tour times."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            5.582902,
+            43.647694
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Dorfkirche ein, um den kunstvoll gefertigten Altar zu betrachten, und denken Sie daran, während der Gottesdienste leise zu sprechen.",
+            "hu": "Lépjen be ebbe a nyugodt falusi templomba, hogy megfigyelje a finoman kidolgozott oltárt, de ne felejtse el lehalkítani a hangját az istentiszteletek alatt.",
+            "ro": "Pășiți în această biserică de sat liniștită pentru a observa altarul său fin lucrat, reflectând secole de devotament, dar asigurați-vă că păstrați liniștea.",
+            "en": "Step inside this tranquil village church to observe its finely crafted altar, reflecting centuries of devotion, but remember to keep your voice down during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Peyrolles",
+            "hu": "Lac de Peyrolles",
+            "ro": "Lac de Peyrolles",
+            "en": "Lac de Peyrolles"
+          },
+          "coords": [
+            5.58278,
+            43.65405
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses weitläufigen Sees, ideal für ein Nachmittagspicknick, und bringen Sie Ihr eigenes Strandtuch für die grasbewachsenen Ufer mit.",
+            "hu": "Pihenjen e hatalmas tó nyugodt vizénél, amely tökéletes egy napos délutáni piknikhez, és hozzon magával saját strandtörölközőt a füves partokon való heverészéshez.",
+            "ro": "Relaxați-vă pe malurile apelor liniștite ale acestui lac întins, perfect pentru un picnic, și aduceți propriul prosop de plajă pentru a vă așeza pe iarbă.",
+            "en": "Relax by the calm waters of this expansive lake, perfect for a sunny afternoon picnic with family, and bring your own beach towel to lounge on the grassy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "EXO 13",
+            "hu": "EXO 13",
+            "ro": "EXO 13",
+            "en": "EXO 13"
+          },
+          "coords": [
+            5.589901,
+            43.6526
+          ],
+          "category": "family",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine adrenalingeladene Session in diesem Wasserpark mit Wakeboarding, und buchen Sie Ihr Zeitfenster vorab online, um die langen Warteschlangen zu umgehen.",
+            "hu": "Élvezze az adrenalindús élményt ebben a népszerű víziparkban, amely kábel-wakeboardozást kínál, és foglalja le az időpontját előre online, hogy elkerülje a sorokat.",
+            "ro": "Bucurați-vă de o sesiune plină de adrenalină la acest parc acvatic popular cu wakeboarding pe cablu și rezervați-vă intervalul orar online pentru a evita cozile lungi.",
+            "en": "Enjoy an adrenaline-filled session at this popular waterpark featuring cable wakeboarding, and book your timeslot online in advance to skip the long waiting queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an den friedlichen südlichen Schreinen, bevor Sie zu den ungewöhnlicheren verlassenen Schwimmbad-Sehenswürdigkeiten des Dorfes fahren.\n\nMittags erreichen Sie die Tore des prächtigen Schlosses und der angrenzenden Kirche.\n\nVerbringen Sie den Nachmittag an den malerischen Seen für eine perfekte Mischung aus Sonne und Freizeit.\n\nWenn der Abend hereinbricht, genießen Sie die Unterhaltung in der Nähe von EXO 13.",
+        "hu": "Az autózás a békés déli szentélyeknél kezdődik, majd a falu szokatlanabb, elhagyatott medencés látnivalói felé veszi az irányt.\n\nDélben a csodálatos kastély és a szomszédos bájos templom kapujához érkezik.\n\nTöltse a délutánt a festői tavaknál a napfény és a szabadidő tökéletes keverékéért.\n\nAhogy leszáll az est, élvezze a vízparti szórakozást az EXO 13 közelében, így kalandosan zárva a túrát.",
+        "ro": "Călătoria cu mașina începe la sanctuarele din sud, înainte de a vă îndrepta spre priveliștea neobișnuită a piscinei abandonate.\n\nLa prânz ajungeți la porțile magnificului castel și ale fermecătoarei biserici.\n\nPetreceți-vă după-amiaza evadând spre lacurile pitorești pentru un amestec perfect de soare și relaxare.\n\nPe măsură ce se lasă seara, bucurați-vă de distracția pe malul apei lângă EXO 13.",
+        "en": "Your drive begins at the peaceful southern shrines before steering towards the village's more unusual abandoned poolside sights.\n\nMidday brings you right to the gates of the magnificent Château and the adjacent charming church.\n\nSpend your afternoon escaping to the scenic lakes for a perfect blend of sun and leisure.\n\nAs evening falls, enjoy the waterside entertainment near EXO 13, bringing an adventurous end to your road trip."
+      }
+    }
+  }
+}

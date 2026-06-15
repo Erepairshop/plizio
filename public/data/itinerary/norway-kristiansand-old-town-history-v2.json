@@ -1,0 +1,474 @@
+{
+  "city_id": "norway-kristiansand-old-town-history-v2",
+  "anchor": {
+    "name": "Kristiansand Old Town",
+    "coords": [
+      7.994,
+      58.146
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kristiansand Kunsthall",
+            "hu": "Kristiansand Műcsarnok",
+            "ro": "Galeria de Artă Kristiansand",
+            "en": "Kristiansand Kunsthall"
+          },
+          "coords": [
+            7.994062,
+            58.145711
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen, die lokale und internationale Trends widerspiegeln; prüfen Sie vorab den Online-Kalender für aktuelle Schauen.",
+            "hu": "Fedezze fel a helyi és nemzetközi trendeket tükröző kortárs művészeti kiállításokat; érdemes előre ellenőrizni az online naptárat az időszakos tárlatokért.",
+            "ro": "Explorați expozițiile de artă contemporană ce reflectă tendințele internaționale; verificați calendarul online pentru a nu rata instalațiile temporare actuale.",
+            "en": "Explore contemporary art exhibitions reflecting local and international trends; checking their calendar online ensures you catch temporary installations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristiansand Theater",
+            "hu": "Kristiansand Színház",
+            "ro": "Teatrul Kristiansand",
+            "en": "Kristiansand teater"
+          },
+          "coords": [
+            7.995597,
+            58.142994
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Theaters; wenn Sie früh ankommen, können Sie die detailreiche Fassade im Tageslicht genießen.",
+            "hu": "Csodálja meg a történelmi színház lenyűgöző építészetét, amely máig kulturális központ; érkezzen korábban, hogy nappali fénynél láthassa a részleteket.",
+            "ro": "Admirați arhitectura impresionantă a acestui teatru istoric și centru cultural; ajungeți mai devreme pentru a aprecia fațada detaliată la lumina zilei.",
+            "en": "Admire the striking architecture of this historic theater that remains a cultural hub; arriving early allows you to appreciate its detailed façade in daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Odderøya Museumshafen",
+            "hu": "Odderøya Múzeumkikötő",
+            "ro": "Portul Muzeu Odderøya",
+            "en": "Odderøya Museumshavn"
+          },
+          "coords": [
+            8.000266,
+            58.140543
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime Geschichte anhand wunderbar erhaltener klassischer Boote; für den Spaziergang am historischen Hafen empfehlen sich bequeme Schuhe.",
+            "hu": "Fedezze fel a tengerészeti történelmet a gyönyörűen megőrzött klasszikus hajókon; a történelmi kikötőben tett sétához kényelmes cipő viselése ajánlott.",
+            "ro": "Descoperiți istoria maritimă prin bărci clasice frumos conservate; purtarea încălțămintei confortabile este recomandată pentru plimbarea prin portul istoric.",
+            "en": "Discover maritime history through beautifully preserved classic boats; wearing comfortable shoes is advised for walking along the charming, historic harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Odderøya Leuchtturm",
+            "hu": "Odderøya Világítótorony",
+            "ro": "Farul Odderøya",
+            "en": "Odderøya Fyr"
+          },
+          "coords": [
+            8.002248,
+            58.131441
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem malerischen Leuchtturm; ein Besuch am späten Nachmittag bietet das dramatischste Licht für Ihre Landschaftsfotos.",
+            "hu": "Élvezze a tengerparti panorámát ebből a festői világítótoronyból; a késő délutáni látogatás nyújtja a legdrámaibb fényeket a tájképfotózáshoz.",
+            "ro": "Bucurați-vă de priveliști panoramice de la acest far pitoresc; vizitarea târziu după-amiaza oferă cea mai dramatică lumină pentru fotografia de peisaj.",
+            "en": "Enjoy panoramic coastal views from this picturesque lighthouse; visiting during late afternoon offers the most dramatic lighting for your landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Christiansholm",
+            "hu": "Christiansholm Erőd",
+            "ro": "Fortăreața Christiansholm",
+            "en": "Christiansholm festning"
+          },
+          "coords": [
+            8.003574,
+            58.144124
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Wällen dieser Festung aus dem 17. Jahrhundert; der Innenhof beherbergt oft Events, achten Sie auf lokale Ankündigungen vor dem Besuch.",
+            "hu": "Sétáljon végig a 17. századi erőd sáncain a tengeri kilátásért; a belső udvar gyakran ad otthont eseményeknek, így érdemes figyelni a helyi híreket.",
+            "ro": "Plimbați-vă pe meterezele acestei fortărețe din secolul șaptesprezece; curtea interioară găzduiește des evenimente, deci verificați anunțurile locale.",
+            "en": "Walk the ramparts of this 17th-century fortress for sea views; the inner courtyard often hosts events, so look for local announcements before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtstrand Bystranda",
+            "hu": "Bystranda Városi Strand",
+            "ro": "Plaja orașului Bystranda",
+            "en": "Bystranda"
+          },
+          "coords": [
+            8.007349,
+            58.146
+          ],
+          "category": "recreational",
+          "arrive_at": "16:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Stadtstrand mit feinem Sand und Palmen; ein kleines Handtuch ist ideal, falls Sie die Füße ins kühle Wasser tauchen wollen.",
+            "hu": "Pihenjen ezen a finom homokjáról és pálmafáiról ismert népszerű városi strandon; hozzon egy kis törölközőt, ha szeretné belemártani a lábát a hűvös vízbe.",
+            "ro": "Relaxați-vă la această plajă populară recunoscută pentru nisipul fin și palmieri; aduceți un prosop mic dacă decideți să vă înmuiați picioarele în apă.",
+            "en": "Relax at this popular city beach known for its fine sand and palm trees; bringing a small towel is perfect if you decide to dip your feet in the cool water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Herzen der Stadt mit inspirierender zeitgenössischer Kunst und betrachten Sie die historische Theaterarchitektur. Mittags schlendern Sie in Richtung Odderøya und tauchen im örtlichen Museumshafen in die faszinierende maritime Geschichte ein. Am Nachmittag belohnt Sie ein Spaziergang zu einem malerischen Leuchtturm mit herrlichem Meerblick. Beenden Sie den Tag auf den Wällen einer Festung aus dem 17. Jahrhundert, bevor Sie am Sandstrand Bystranda entspannen.",
+        "hu": "Kezdje a reggelt a város szívében kortárs művészettel, majd tekintse meg a történelmi színház lenyűgöző építészetét. Délben sétáljon délre, Odderøya szigete felé, és merüljön el a tengerészeti történelemben a múzeumkikötőben. A délután egy festői világítótoronyhoz vezet, ahonnan csodálatos kilátás nyílik a tengerre. Zárja a napot egy 17. századi erőd sáncain sétálva, mielőtt megpihenne a népszerű Bystranda homokos tengerpartján.",
+        "ro": "Începeți dimineața în inima orașului cu artă contemporană, urmată de o privire asupra arhitecturii teatrului istoric. La prânz, plimbați-vă spre insula Odderøya, scufundându-vă în istoria maritimă la portul muzeu. După-amiaza vă recompensează cu o plimbare spre un far pitoresc pentru vederi panoramice ale mării. Încheiați ziua pe meterezele unei fortărețe din secolul al XVII-lea, înainte de a vă relaxa pe nisipul fin al plajei Bystranda.",
+        "en": "Start your morning in the heart of the city with inspiring contemporary art, followed by a look at the striking historic theater architecture. By midday, wander south towards the coastal island of Odderøya, immersing yourself in fascinating maritime history at the local museum harbor. The afternoon rewards you with a scenic stroll to a picturesque lighthouse for sweeping sea views. End your day walking the ramparts of a 17th-century fortress before relaxing on the sandy shores of Bystranda."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:14",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stiftung Arkivet",
+            "hu": "Arkivet Alapítvány",
+            "ro": "Fundația Arkivet",
+            "en": "Stiftelsen Arkivet"
+          },
+          "coords": [
+            7.981537,
+            58.14467
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem eindrucksvollen Museum in Norwegens Weltkriegsgeschichte ein; planen Sie genug Zeit ein, um die persönlichen Geschichten zu lesen.",
+            "hu": "Merüljön el Norvégia világháborús történelmében ebben a mélyreható múzeumban; szánjon elegendő időt a cellákban bemutatott személyes történetek elolvasására.",
+            "ro": "Aprofundați istoria Norvegiei din Al Doilea Război Mondial în acest muzeu; alocați timp suficient pentru a citi poveștile personale expuse în fostele celule.",
+            "en": "Delve into Norway's WWII history in this profound museum and memorial; allocate enough time to read the extensive personal stories displayed in the cells."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristiansand Kunsthall",
+            "hu": "Kristiansand Műcsarnok",
+            "ro": "Galeria de Artă Kristiansand",
+            "en": "Kristiansand Kunsthall"
+          },
+          "coords": [
+            7.994062,
+            58.145711
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen, die lokale und internationale Trends widerspiegeln; prüfen Sie vorab den Online-Kalender für aktuelle Schauen.",
+            "hu": "Fedezze fel a helyi és nemzetközi trendeket tükröző kortárs művészeti kiállításokat; érdemes előre ellenőrizni az online naptárat az időszakos tárlatokért.",
+            "ro": "Explorați expozițiile de artă contemporană ce reflectă tendințele internaționale; verificați calendarul online pentru a nu rata instalațiile temporare actuale.",
+            "en": "Explore contemporary art exhibitions reflecting local and international trends; checking their calendar online ensures you catch temporary installations."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum und Botanischer Garten",
+            "hu": "Természettudományi Múzeum és Botanikus Kert",
+            "ro": "Muzeul de Natură și Grădina Botanică",
+            "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+          },
+          "coords": [
+            8.003637,
+            58.158973
+          ],
+          "category": "museum",
+          "arrive_at": "12:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie vielfältige Pflanzensammlungen und regionale Naturgeschichte; ein Besuch im Botanischen Garten im Frühling oder Sommer garantiert die buntesten Blüten.",
+            "hu": "Fedezze fel a változatos növénygyűjteményeket és a helyi természetrajzot; a botanikus kert tavaszi vagy nyári látogatása biztosítja a legélénkebb virágzást.",
+            "ro": "Explorați colecțiile diverse de plante și istoria naturală regională; vizitați grădina botanică primăvara sau vara pentru a vedea cele mai vibrante flori.",
+            "en": "Explore diverse plant collections and regional natural history; visiting the botanical garden during spring or summer ensures you see the most vibrant blooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuholmen Batterie",
+            "hu": "Kuholmen Üteg",
+            "ro": "Bateria Kuholmen",
+            "en": "Kuholmen batteri"
+          },
+          "coords": [
+            8.016425,
+            58.143234
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die historischen Verteidigungsanlagen mit Blick aufs Wasser; das unebene Gelände erfordert feste Wanderschuhe für eine bequeme Erkundung.",
+            "hu": "Vizsgálja meg a vízre néző történelmi védelmi építményeket; az egyenetlen terep miatt az erős túrabakancs sokkal kényelmesebbé teszi a felfedezést.",
+            "ro": "Examinați structurile defensive istorice cu vedere la apă; terenul accidentat înseamnă că niște ghete de drumeție rezistente vă vor spori considerabil confortul.",
+            "en": "Examine the historical defensive structures overlooking the water; the uneven terrain means sturdy walking boots will make your exploration much more comfortable."
+          }
+        },
+        {
+          "name": {
+            "de": "Galgebergtangen",
+            "hu": "Galgebergtangen",
+            "ro": "Galgebergtangen",
+            "en": "Galgebergtangen"
+          },
+          "coords": [
+            8.019051,
+            58.144195
+          ],
+          "category": "recreational",
+          "arrive_at": "16:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie einen ruhigen Rückzugsort mit herrlichem Blick über die Ostküste; ein leichtes Picknick an einem der malerischen Plätze ist sehr empfehlenswert.",
+            "hu": "Tapasztaljon meg egy nyugodt menedéket gyönyörű kilátással a keleti partvidékre; egy könnyű piknik csomagolása erősen ajánlott a festői helyek egyikén.",
+            "ro": "Experimentați o retragere liniștită cu vederi frumoase asupra coastei de est; un picnic ușor este foarte recomandat pentru a fi savurat în aceste locuri pitorești.",
+            "en": "Experience a tranquil retreat with beautiful views over the eastern coastline; packing a light picnic is highly recommended to enjoy at one of the scenic spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Christiansholm",
+            "hu": "Christiansholm Erőd",
+            "ro": "Fortăreața Christiansholm",
+            "en": "Christiansholm festning"
+          },
+          "coords": [
+            8.003574,
+            58.144124
+          ],
+          "category": "historical",
+          "arrive_at": "17:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Wällen dieser Festung aus dem 17. Jahrhundert; der Innenhof beherbergt oft Events, achten Sie auf lokale Ankündigungen vor dem Besuch.",
+            "hu": "Sétáljon végig a 17. századi erőd sáncain a tengeri kilátásért; a belső udvar gyakran ad otthont eseményeknek, így érdemes figyelni a helyi híreket.",
+            "ro": "Plimbați-vă pe meterezele acestei fortărețe din secolul șaptesprezece; curtea interioară găzduiește des evenimente, deci verificați anunțurile locale.",
+            "en": "Walk the ramparts of this 17th-century fortress for sea views; the inner courtyard often hosts events, so look for local announcements before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie mit einem nachdenklichen Morgen im Weltkriegsdenkmal in die Geschichte, gefolgt von zeitgenössischer Kunst im Zentrum. Gegen Mittag fahren Sie nach Norden, um das üppige Grün und die Naturgeschichte des Botanischen Gartens zu genießen. Eine Nachmittagsbrise begleitet Sie nach Osten zu historischen Küstenbatterien und ruhigen Erholungsgebieten. Ihre Tour endet abends nahe dem Stadtzentrum an den imposanten Mauern der alten Festung.",
+        "hu": "Kerekezzen a történelembe egy elgondolkodtató délelőttel a világháborús emlékműnél, majd térjen vissza a központba egy kis kortárs művészetért. Délben tekerjen északra, hogy élvezze az egyetemi botanikus kert buja növényzetét. A délutáni szellő kelet felé kíséri, ahol történelmi partvédelmi ütegeket és csendes pihenőhelyeket fedezhet fel. Az utazás este a városközpont közelében ér véget, az ősi erőd lenyűgöző falainak felfedezésével.",
+        "ro": "Pășiți în istorie cu o dimineață la memorialul celui de-Al Doilea Război Mondial, urmată de o vizită rapidă în centru pentru artă. La prânz, pedalați spre nord pentru a vă bucura de verdeața luxuriantă și istoria naturală a grădinilor botanice. Briza după-amiezii vă însoțește spre est către bateriile de coastă istorice și locuri liniștite de recreere. Călătoria se încheie seara, explorând zidurile impunătoare ale vechii fortărețe.",
+        "en": "Pedal your way into history with a thought-provoking morning at the WWII memorial, followed by a quick ride back to the center for contemporary art. As midday approaches, cycle north to enjoy the lush greenery and natural history of the university's botanical gardens. The afternoon breeze accompanies you eastward to historic coastal batteries and tranquil recreational spots. Your ride concludes in the evening back near the city center, exploring the imposing walls of the old fortress."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:28",
+      "total_km": 10.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kristiansand Museum",
+            "hu": "Kristiansand Múzeum",
+            "ro": "Muzeul Kristiansand",
+            "en": "Kristiansand museum"
+          },
+          "coords": [
+            8.030896,
+            58.161562
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem Freilichtmuseum mit traditionellen südnorwegischen Häusern in die Vergangenheit; eine Führung bietet tollen architektonischen Kontext.",
+            "hu": "Lépjen vissza az időben a hagyományos dél-norvég házakat bemutató szabadtéri múzeumban; egy vezetett túra nagyszerű kontextust ad az építészetnek.",
+            "ro": "Întoarceți-vă în timp în acest muzeu în aer liber cu case tradiționale norvegiene; alăturarea la un tur ghidat oferă un context excelent pentru arhitectură.",
+            "en": "Step back in time in this open-air museum featuring traditional southern Norwegian houses; joining a guided tour provides excellent context for the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum und Botanischer Garten",
+            "hu": "Természettudományi Múzeum és Botanikus Kert",
+            "ro": "Muzeul de Natură și Grădina Botanică",
+            "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+          },
+          "coords": [
+            8.003637,
+            58.158973
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie vielfältige Pflanzensammlungen und regionale Naturgeschichte; ein Besuch im Botanischen Garten im Frühling oder Sommer garantiert die buntesten Blüten.",
+            "hu": "Fedezze fel a változatos növénygyűjteményeket és a helyi természetrajzot; a botanikus kert tavaszi vagy nyári látogatása biztosítja a legélénkebb virágzást.",
+            "ro": "Explorați colecțiile diverse de plante și istoria naturală regională; vizitați grădina botanică primăvara sau vara pentru a vedea cele mai vibrante flori.",
+            "en": "Explore diverse plant collections and regional natural history; visiting the botanical garden during spring or summer ensures you see the most vibrant blooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftung Arkivet",
+            "hu": "Arkivet Alapítvány",
+            "ro": "Fundația Arkivet",
+            "en": "Stiftelsen Arkivet"
+          },
+          "coords": [
+            7.981537,
+            58.14467
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem eindrucksvollen Museum in Norwegens Weltkriegsgeschichte ein; planen Sie genug Zeit ein, um die persönlichen Geschichten zu lesen.",
+            "hu": "Merüljön el Norvégia világháborús történelmében ebben a mélyreható múzeumban; szánjon elegendő időt a cellákban bemutatott személyes történetek elolvasására.",
+            "ro": "Aprofundați istoria Norvegiei din Al Doilea Război Mondial în acest muzeu; alocați timp suficient pentru a citi poveștile personale expuse în fostele celule.",
+            "en": "Delve into Norway's WWII history in this profound museum and memorial; allocate enough time to read the extensive personal stories displayed in the cells."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtwald Wildtierreservat",
+            "hu": "Városi Erdő Vadvédelmi Terület",
+            "ro": "Rezervația de Faună a Pădurii Municipale",
+            "en": "Kristiansand kommuneskog dyrelivsfredning"
+          },
+          "coords": [
+            7.947532,
+            58.160837
+          ],
+          "category": "park",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch geschützte Wälder, die der heimischen Tierwelt Schutz bieten; wenn Sie leise sind, steigen Ihre Chancen, Vögel und Tiere zu sichten.",
+            "hu": "Túrázzon a védett erdőkben, amelyek a helyi vadvilágnak adnak otthont; a zaj minimálisra csökkentése növeli a madarak és állatok megfigyelésének esélyét.",
+            "ro": "Drumeție prin pădurile protejate ce adăpostesc fauna locală; menținerea liniștii crește considerabil șansele de a observa păsările și animalele native.",
+            "en": "Hike through protected woodlands that shelter diverse local wildlife; keeping noise to a minimum increases your chances of spotting native birds and animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Odderøya Museumshafen",
+            "hu": "Odderøya Múzeumkikötő",
+            "ro": "Portul Muzeu Odderøya",
+            "en": "Odderøya Museumshavn"
+          },
+          "coords": [
+            8.000266,
+            58.140543
+          ],
+          "category": "museum",
+          "arrive_at": "15:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime Geschichte anhand wunderbar erhaltener klassischer Boote; für den Spaziergang am historischen Hafen empfehlen sich bequeme Schuhe.",
+            "hu": "Fedezze fel a tengerészeti történelmet a gyönyörűen megőrzött klasszikus hajókon; a történelmi kikötőben tett sétához kényelmes cipő viselése ajánlott.",
+            "ro": "Descoperiți istoria maritimă prin bărci clasice frumos conservate; purtarea încălțămintei confortabile este recomandată pentru plimbarea prin portul istoric.",
+            "en": "Discover maritime history through beautifully preserved classic boats; wearing comfortable shoes is advised for walking along the charming, historic harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Christiansholm",
+            "hu": "Christiansholm Erőd",
+            "ro": "Fortăreața Christiansholm",
+            "en": "Christiansholm festning"
+          },
+          "coords": [
+            8.003574,
+            58.144124
+          ],
+          "category": "historical",
+          "arrive_at": "17:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Wällen dieser Festung aus dem 17. Jahrhundert; der Innenhof beherbergt oft Events, achten Sie auf lokale Ankündigungen vor dem Besuch.",
+            "hu": "Sétáljon végig a 17. századi erőd sáncain a tengeri kilátásért; a belső udvar gyakran ad otthont eseményeknek, így érdemes figyelni a helyi híreket.",
+            "ro": "Plimbați-vă pe meterezele acestei fortărețe din secolul șaptesprezece; curtea interioară găzduiește des evenimente, deci verificați anunțurile locale.",
+            "en": "Walk the ramparts of this 17th-century fortress for sea views; the inner courtyard often hosts events, so look for local announcements before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt etwas außerhalb mit der Entdeckung traditioneller Architektur im Freilichtmuseum. Mittags fahren Sie zum Botanischen Garten, bevor Sie im Westen tiefe historische Einblicke im Weltkriegsdenkmal gewinnen. Am Nachmittag erkunden Sie weiter westlich einen geschützten Wildtierwald als ruhigen Zufluchtsort. Fahren Sie zurück an die Küste für maritime Geschichte und beenden Sie den Tag an der ikonischen zentralen Festung.",
+        "hu": "Autós túrája kissé a városon kívül indul, ahol hagyományos dél-norvég építészetet fedezhet fel a szabadtéri múzeumban. Délben irány a botanikus kert, majd nyugat felé haladva elmélyedhet a világháborús emlékmű történelmi narratíváiban. A délután továbbvisz egy védett vadaserdőbe, amely nyugodt menedéket kínál. Vezessen vissza a partra, merüljön el a tengerészeti történelemben, majd zárja a napot az ikonikus központi erődnél.",
+        "ro": "Turul auto începe puțin în afara orașului, descoperind arhitectura tradițională norvegiană la muzeul în aer liber. La prânz, vizitați grădinile botanice înainte de a vă îndrepta spre vest la memorialul istoric. După-amiaza vă poartă și mai departe spre o pădure protejată cu animale sălbatice, oferind o evadare senină. Conduceți înapoi spre coastă pentru o incursiune în istoria maritimă, încheind ziua la emblematica fortăreață centrală.",
+        "en": "Your driving tour starts slightly out of town, discovering traditional southern Norwegian architecture at the open-air museum. By midday, make your way to the botanical gardens before heading west to uncover deep historical narratives at the WWII memorial. The afternoon takes you further west to explore a protected wildlife forest, offering a serene escape. Drive back towards the coast for a deep dive into maritime history, wrapping up your day at the iconic central fortress."
+      }
+    }
+  }
+}

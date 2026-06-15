@@ -1,0 +1,497 @@
+{
+  "city_id": "city-aveiro",
+  "anchor": {
+    "name": "Aveiro",
+    "coords": [
+      -8.6538,
+      40.6405
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 1.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Aveirense",
+            "hu": "Teatro Aveirense",
+            "ro": "Teatro Aveirense",
+            "en": "Teatro Aveirense"
+          },
+          "coords": [
+            -8.654082,
+            40.640128
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistische Architektur dieses historischen Theaters, dem kulturellen Herzen von Aveiro, und prüfen Sie vorab den Spielplan für eine mögliche Abendvorstellung.",
+            "hu": "Csodálja meg e történelmi színház modernista építészetét, amely Aveiro kulturális szíve, és előre nézze meg a műsort, hátha elcsíp egy esti előadást.",
+            "ro": "Admirați arhitectura modernistă a acestui teatru istoric, inima culturală a orașului Aveiro, și verificați din timp programul pentru a prinde o reprezentație de seară.",
+            "en": "Admire the modernist architecture of this historic theater that remains the cultural heart of Aveiro, and check their schedule in advance to possibly catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "City Museum Aveiro",
+            "hu": "Városi Múzeum Aveiro",
+            "ro": "Muzeul Orașului Aveiro",
+            "en": "City Museum Aveiro"
+          },
+          "coords": [
+            -8.65446,
+            40.641624
+          ],
+          "category": "museum",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfassenden Sammlungen zur reichen maritimen und städtischen Geschichte der Stadt, wobei Sie am besten im Erdgeschoss beginnen, um der Chronologie zu folgen.",
+            "hu": "Fedezze fel a város gazdag tengerészeti és urbanisztikai történelmét bemutató átfogó gyűjteményeket, de mindenképpen a földszinten kezdje a kronologikus kiállítások miatt.",
+            "ro": "Explorați colecțiile cuprinzătoare care detaliază istoria maritimă și urbană bogată a orașului, dar asigurați-vă că începeți de la parter pentru a urmări expozițiile cronologic.",
+            "en": "Explore the comprehensive collections detailing the city's rich maritime and urban history, but be sure to start on the ground floor to follow the chronological exhibits smoothly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arte Nova",
+            "hu": "Museu Arte Nova",
+            "ro": "Museu Arte Nova",
+            "en": "Museu Arte Nova"
+          },
+          "coords": [
+            -8.655608,
+            40.641795
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die exquisiten Jugendstilfliesen und schmiedeeisernen Details in diesem Museum und gönnen Sie sich eine kleine Pause im charmanten Teehaus im Erdgeschoss.",
+            "hu": "Csodálja meg a lenyűgöző szecessziós csempéket és kovácsoltvas részleteket ebben a múzeumban, és mindenképpen tartson egy rövid pihenőt a földszinten található hangulatos teaházban.",
+            "ro": "Minunați-vă de plăcile rafinate Art Nouveau și detaliile din fier forjat în acest muzeu dedicat și luați-vă un moment de relaxare în fermecătoarea ceainărie de la parter.",
+            "en": "Marvel at the exquisite Art Nouveau tiles and wrought-iron details in this dedicated museum, and take a moment to relax in the charming tea house located on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "São Gonçalinho (Paulo Noves)",
+            "hu": "São Gonçalinho (Paulo Noves)",
+            "ro": "São Gonçalinho (Paulo Noves)",
+            "en": "São Gonçalinho (Paulo Noves)"
+          },
+          "coords": [
+            -8.655223,
+            40.643121
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kapelle, die für ihre lokalen Traditionen bekannt ist, und kommen Sie im Januar, wenn Sie das berühmte Fest des Süßigkeitenwerfens erleben möchten.",
+            "hu": "Látogasson el ebbe a helyi hagyományairól ismert történelmi kápolnába, és próbáljon januárban érkezni, ha személyesen szeretné átélni a híres édességdobáló fesztivált.",
+            "ro": "Vizitați această capelă istorică îndrăgită, cunoscută pentru tradițiile sale locale unice, și încercați să veniți în ianuarie pentru a asista la faimosul festival al aruncatului cu dulciuri.",
+            "en": "Visit this beloved historical chapel known for its unique local traditions, and try to visit in January if you want to witness the famous sweet throwing festival firsthand."
+          }
+        },
+        {
+          "name": {
+            "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+          },
+          "coords": [
+            -8.655666,
+            40.644283
+          ],
+          "category": "cultural",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitgenössische und experimentelle Theaterszene von Aveiro an diesem lebendigen Kulturzentrum, wo es ratsam ist, Tickets für Wochenendvorstellungen frühzeitig zu buchen.",
+            "hu": "Fedezze fel Aveiro kortárs és kísérleti előadó-művészeti színterét ebben a nyüzsgő kulturális központban, ahol hétvégi előadásokra erősen ajánlott jó előre jegyet foglalni.",
+            "ro": "Descoperiți scena artelor spectacolului contemporan și experimental din Aveiro la acest centru cultural vibrant, unde rezervarea biletelor din timp este recomandată pentru weekend.",
+            "en": "Discover the contemporary and experimental performing arts scene of Aveiro at this vibrant cultural hub, where booking tickets well in advance is highly recommended for weekend shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseu Marinha da Troncalhada",
+            "hu": "Ecomuseu Marinha da Troncalhada",
+            "ro": "Ecomuseu Marinha da Troncalhada",
+            "en": "Ecomuseu Marinha da Troncalhada"
+          },
+          "coords": [
+            -8.662983,
+            40.644085
+          ],
+          "category": "museum",
+          "arrive_at": "16:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem ökologischen Freilichtmuseum alles über die traditionelle Salzgewinnung, aber tragen Sie bequeme Schuhe, da die Wege um die Salinen uneben sein können.",
+            "hu": "Ismerje meg a hagyományos sólepárlási technikákat ebben a szabadtéri ökomúzeumban, és viseljen kényelmes cipőt, mivel a sómedencék körüli utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Învățați despre tehnicile tradiționale de producție a sării la acest muzeu ecologic în aer liber și purtați încălțăminte comodă, deoarece cărările din jurul salinelor pot fi denivelate.",
+            "en": "Learn about the traditional salt production techniques at this open-air ecological museum, and wear comfortable walking shoes as the paths around the salt pans can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der kulturellen Atmosphäre des Teatro Aveirense und tauchen Sie im Stadtmuseum in die Geschichte ein. Der Mittag ist ideal, um die Details des Museu Arte Nova zu bewundern, bevor Sie zur Kapelle São Gonçalinho spazieren. Verbringen Sie den Nachmittag mit experimenteller Kunst im CETA und lassen Sie den Tag an den stimmungsvollen Salinen ausklingen.",
+        "hu": "Kezdje a reggelt a Teatro Aveirense kulturális légkörének magába szívásával, majd merüljön el a helyi történelemben a Városi Múzeumban. A dél ideális a Museu Arte Nova részleteinek megcsodálására, mielőtt a történelmi São Gonçalinho kápolnához sétálna. Töltse a délutánt a CETA kísérleti művészetének felfedezésével, és fejezze be a napot a hangulatos sólepárlóknál.",
+        "ro": "Începeți dimineața absorbind atmosfera culturală la Teatro Aveirense, urmată de o imersiune în istoria locală la Muzeul Orașului. Amiaza este perfectă pentru a admira detaliile Muzeului Arte Nova înainte de a vă plimba spre capela istorică São Gonçalinho. Petreceți după-amiaza explorând artele la CETA și încheiați ziua la salinele evocatoare.",
+        "en": "Start your morning absorbing the cultural atmosphere at Teatro Aveirense, followed by a deep dive into local history at the City Museum. Midday is perfect for admiring the exquisite details of the Museu Arte Nova before wandering over to the historical São Gonçalinho chapel. Spend your afternoon exploring the experimental arts at CETA, and finish the day at the evocative salt pans."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:34",
+      "total_km": 3.93,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "I Love Aveiro",
+            "hu": "I Love Aveiro",
+            "ro": "I Love Aveiro",
+            "en": "I Love Aveiro"
+          },
+          "coords": [
+            -8.645697,
+            40.638389
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Foto an diesem modernen Wahrzeichen, das die Stadt feiert, und kommen Sie am besten früh morgens, um das beste Licht ohne Touristenmassen zu haben.",
+            "hu": "Készítsen egy emlékezetes fotót ennél a várost ünneplő modern ikonikus látványosságnál, és érkezzen kora reggel, hogy elcsípje a legjobb fényeket és elkerülje a turistatömeget.",
+            "ro": "Faceți o fotografie memorabilă la acest punct de reper modern iconic care celebrează orașul, ajungând dimineața devreme pentru a prinde cea mai bună lumină și a evita aglomerația.",
+            "en": "Snap a memorable photo at this iconic modern landmark that celebrates the city, arriving early in the morning to catch the best lighting and avoid the largest tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Paraquedistas",
+            "hu": "Paraquedistas",
+            "ro": "Paraquedistas",
+            "en": "Paraquedistas"
+          },
+          "coords": [
+            -8.646352,
+            40.642209
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen historischen Denkmal für die Fallschirmjäger die Ehre, das einen ruhigen Moment der Besinnung etwas abseits des geschäftigen Stadtzentrums bietet.",
+            "hu": "Rója le tiszteletét ennél az ejtőernyősöknek szentelt ünnepélyes történelmi emlékműnél, amely csendes elmélkedésre ad lehetőséget, csak egy rövid sétára a forgalmas központtól.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn dedicat parașutiștilor, care oferă un moment liniștit de reflecție la doar o scurtă distanță de centrul aglomerat al orașului.",
+            "en": "Pay your respects at this solemn historical monument dedicated to the paratroopers, which offers a quiet moment of reflection just a short distance from the busy city center."
+          }
+        },
+        {
+          "name": {
+            "de": "City Museum Aveiro",
+            "hu": "Városi Múzeum Aveiro",
+            "ro": "Muzeul Orașului Aveiro",
+            "en": "City Museum Aveiro"
+          },
+          "coords": [
+            -8.65446,
+            40.641624
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfassenden Sammlungen zur reichen maritimen und städtischen Geschichte der Stadt, wobei Sie am besten im Erdgeschoss beginnen, um der Chronologie zu folgen.",
+            "hu": "Fedezze fel a város gazdag tengerészeti és urbanisztikai történelmét bemutató átfogó gyűjteményeket, de mindenképpen a földszinten kezdje a kronologikus kiállítások miatt.",
+            "ro": "Explorați colecțiile cuprinzătoare care detaliază istoria maritimă și urbană bogată a orașului, dar asigurați-vă că începeți de la parter pentru a urmări expozițiile cronologic.",
+            "en": "Explore the comprehensive collections detailing the city's rich maritime and urban history, but be sure to start on the ground floor to follow the chronological exhibits smoothly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arte Nova",
+            "hu": "Museu Arte Nova",
+            "ro": "Museu Arte Nova",
+            "en": "Museu Arte Nova"
+          },
+          "coords": [
+            -8.655608,
+            40.641795
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die exquisiten Jugendstilfliesen und schmiedeeisernen Details in diesem Museum und gönnen Sie sich eine kleine Pause im charmanten Teehaus im Erdgeschoss.",
+            "hu": "Csodálja meg a lenyűgöző szecessziós csempéket és kovácsoltvas részleteket ebben a múzeumban, és mindenképpen tartson egy rövid pihenőt a földszinten található hangulatos teaházban.",
+            "ro": "Minunați-vă de plăcile rafinate Art Nouveau și detaliile din fier forjat în acest muzeu dedicat și luați-vă un moment de relaxare în fermecătoarea ceainărie de la parter.",
+            "en": "Marvel at the exquisite Art Nouveau tiles and wrought-iron details in this dedicated museum, and take a moment to relax in the charming tea house located on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+            "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+          },
+          "coords": [
+            -8.655666,
+            40.644283
+          ],
+          "category": "cultural",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitgenössische und experimentelle Theaterszene von Aveiro an diesem lebendigen Kulturzentrum, wo es ratsam ist, Tickets für Wochenendvorstellungen frühzeitig zu buchen.",
+            "hu": "Fedezze fel Aveiro kortárs és kísérleti előadó-művészeti színterét ebben a nyüzsgő kulturális központban, ahol hétvégi előadásokra erősen ajánlott jó előre jegyet foglalni.",
+            "ro": "Descoperiți scena artelor spectacolului contemporan și experimental din Aveiro la acest centru cultural vibrant, unde rezervarea biletelor din timp este recomandată pentru weekend.",
+            "en": "Discover the contemporary and experimental performing arts scene of Aveiro at this vibrant cultural hub, where booking tickets well in advance is highly recommended for weekend shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinas",
+            "hu": "Salinas",
+            "ro": "Salinas",
+            "en": "Salinas"
+          },
+          "coords": [
+            -8.667383,
+            40.648353
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf Aveiros ikonische Salinen mit ihren alten Erntemethoden und bringen Sie eine Sonnenbrille mit, da das weiße Salz nachmittags blenden kann.",
+            "hu": "Gyönyörködjön Aveiro ikonikus sómezőiben, ahol még ma is élnek az ősi betakarítási módszerek, és hozzon napszemüveget, mert a vakító fehér só délután nagyon erős lehet.",
+            "ro": "Admirați priveliștile uimitoare ale faimoaselor saline din Aveiro unde se practică metode străvechi de recoltare și aduceți ochelari de soare, deoarece sarea albă poate fi orbitoare.",
+            "en": "Take in the stunning views of Aveiro's iconic salt flats where ancient harvesting methods are still alive, and bring sunglasses as the glaring white salt can be blinding in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseu Marinha da Troncalhada",
+            "hu": "Ecomuseu Marinha da Troncalhada",
+            "ro": "Ecomuseu Marinha da Troncalhada",
+            "en": "Ecomuseu Marinha da Troncalhada"
+          },
+          "coords": [
+            -8.662983,
+            40.644085
+          ],
+          "category": "museum",
+          "arrive_at": "16:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem ökologischen Freilichtmuseum alles über die traditionelle Salzgewinnung, aber tragen Sie bequeme Schuhe, da die Wege um die Salinen uneben sein können.",
+            "hu": "Ismerje meg a hagyományos sólepárlási technikákat ebben a szabadtéri ökomúzeumban, és viseljen kényelmes cipőt, mivel a sómedencék körüli utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Învățați despre tehnicile tradiționale de producție a sării la acest muzeu ecologic în aer liber și purtați încălțăminte comodă, deoarece cărările din jurul salinelor pot fi denivelate.",
+            "en": "Learn about the traditional salt production techniques at this open-air ecological museum, and wear comfortable walking shoes as the paths around the salt pans can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica - Centro Ciência Viva de Aveiro",
+            "hu": "Fábrica - Centro Ciência Viva de Aveiro",
+            "ro": "Fábrica - Centro Ciência Viva de Aveiro",
+            "en": "Fábrica - Centro Ciência Viva de Aveiro"
+          },
+          "coords": [
+            -8.657697,
+            40.638146
+          ],
+          "category": "museum",
+          "arrive_at": "18:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Wissenschaftsausstellungen für alle Altersgruppen und planen Sie mindestens zwei Stunden ein, um die praktischen Experimente voll auszukosten.",
+            "hu": "Vegyen részt a minden korosztály számára izgalmas, interaktív tudományos kiállításokon, és szánjon rá legalább két órát, hogy maradéktalanul élvezhesse a gyakorlati kísérleteket.",
+            "ro": "Interacționați cu expozițiile științifice perfecte pentru minți curioase de toate vârstele și alocați cel puțin două ore pentru a vă bucura pe deplin de experimentele practice.",
+            "en": "Engage with interactive science exhibits that are perfect for curious minds of all ages, and allocate at least two hours to fully enjoy the hands-on experiments and robotic displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem Foto beim I Love Aveiro-Wahrzeichen und radeln Sie dann zum Fallschirmjäger-Denkmal. Mittags schlängeln Sie sich durchs Zentrum, um das Stadtmuseum und das Jugendstilmuseum zu besuchen. Nach einem Nachmittagsstopp im CETA fahren Sie zu den malerischen Salinen und dem Ecomuseu, bevor der Tag im Science Center interaktiv endet.",
+        "hu": "Kezdje a kerékpártúrát egy fotóval az I Love Aveiro feliratnál, majd tekerjen az Ejtőernyősök emlékművéhez. Délben a belvároson keresztül haladva látogassa meg a Városi Múzeumot és a Szecessziós Múzeumot. Egy délutáni CETA megálló után tekerjen ki a festői Salinashoz és az Ecomuseumhoz, végül pedig interaktív szórakozással zárjon a Tudományos Központban.",
+        "ro": "Începeți turul cu bicicleta cu o fotografie la reperul I Love Aveiro, apoi pedalați spre monumentul Parașutiștilor. Până la amiază, vă veți strecura prin centrul orașului, vizitând Muzeul Orașului și Muzeul Art Nouveau. După o oprire de după-amiază la CETA, mergeți la pitoreștile Salinas și Ecomuseu, terminând cu distracție la Centrul de Știință.",
+        "en": "Kick off your cycling tour with a photo at the I Love Aveiro landmark, then pedal to the Paratroopers monument. By midday, you'll be weaving through the city center, visiting the City Museum and the stunning Art Nouveau Museum. After an afternoon stop at CETA, ride out to the scenic Salinas and the open-air Ecomuseu, finishing with interactive fun at the Science Center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 3.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Baloiços da Ribeira de Vilar - 3",
+            "hu": "Baloiços da Ribeira de Vilar - 3",
+            "ro": "Baloiços da Ribeira de Vilar - 3",
+            "en": "Baloiços da Ribeira de Vilar - 3"
+          },
+          "coords": [
+            -8.634805,
+            40.631037
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Pause auf diesen Schaukeln am Flussufer mit wunderschöner Aussicht, der ideale Ort für ein kleines Picknick oder eine lustige Fotosession in der Natur.",
+            "hu": "Élvezze a játékos és festői pihenőt ezeken a folyóparti hintákon, amelyek gyönyörű kilátást nyújtanak, így ideális helyszínt biztosítva egy gyors piknikhez vagy fotózáshoz.",
+            "ro": "Bucurați-vă de o pauză pitorească pe aceste leagăne de pe malul râului cu vederi naturale frumoase, fiind un loc ideal pentru un picnic rapid sau o sesiune foto departe de oraș.",
+            "en": "Enjoy a playful and scenic break on these riverside swings offering beautiful natural vistas, making it an ideal spot for a quick picnic or a fun photo session away from the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Escola de Belas Artes",
+            "hu": "Escola de Belas Artes",
+            "ro": "Escola de Belas Artes",
+            "en": "Escola de Belas Artes"
+          },
+          "coords": [
+            -8.64868,
+            40.636732
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Genießen Sie die kreative Atmosphäre und architektonische Schönheit dieser Kunsthochschule und erkunden Sie ruhig die öffentlichen Galerien, in denen oft Studentenausstellungen stattfinden.",
+            "hu": "Értékelje e Képzőművészeti Iskola kreatív légkörét és építészeti szépségét, és csendben fedezze fel a nyilvános galériákat, ahol gyakran rendeznek hallgatói kiállításokat.",
+            "ro": "Apreciați atmosfera creativă și frumusețea arhitecturală a acestei școli de arte frumoase și explorați în liniște galeriile publice unde sunt expuse frecvent lucrările studenților.",
+            "en": "Appreciate the creative atmosphere and architectural beauty of this fine arts school, and quietly explore the public galleries where student exhibitions are frequently on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+            "hu": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+            "ro": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+            "en": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro"
+          },
+          "coords": [
+            -8.653423,
+            40.63832
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschön erhaltene religiöse Museum, um die opulenten goldenen Holzarbeiten zu bestaunen, und achten Sie besonders auf die Details der historischen Altäre.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött vallási múzeumba, hogy megcsodálja a pazar aranyozott fafaragásokat, és mindenképpen figyelje meg a történelmi oltárképek bonyolult részleteit.",
+            "ro": "Pășiți în acest muzeu religios frumos conservat pentru a admira lucrările opulente din lemn aurit și asigurați-vă că priviți cu atenție detaliile complicate ale altarelor istorice.",
+            "en": "Step inside this beautifully preserved religious museum to marvel at the opulent golden woodwork, and be sure to look closely at the intricate details of the historical altarpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arte Nova",
+            "hu": "Museu Arte Nova",
+            "ro": "Museu Arte Nova",
+            "en": "Museu Arte Nova"
+          },
+          "coords": [
+            -8.655608,
+            40.641795
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die exquisiten Jugendstilfliesen und schmiedeeisernen Details in diesem Museum und gönnen Sie sich eine kleine Pause im charmanten Teehaus im Erdgeschoss.",
+            "hu": "Csodálja meg a lenyűgöző szecessziós csempéket és kovácsoltvas részleteket ebben a múzeumban, és mindenképpen tartson egy rövid pihenőt a földszinten található hangulatos teaházban.",
+            "ro": "Minunați-vă de plăcile rafinate Art Nouveau și detaliile din fier forjat în acest muzeu dedicat și luați-vă un moment de relaxare în fermecătoarea ceainărie de la parter.",
+            "en": "Marvel at the exquisite Art Nouveau tiles and wrought-iron details in this dedicated museum, and take a moment to relax in the charming tea house located on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinas",
+            "hu": "Salinas",
+            "ro": "Salinas",
+            "en": "Salinas"
+          },
+          "coords": [
+            -8.667383,
+            40.648353
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf Aveiros ikonische Salinen mit ihren alten Erntemethoden und bringen Sie eine Sonnenbrille mit, da das weiße Salz nachmittags blenden kann.",
+            "hu": "Gyönyörködjön Aveiro ikonikus sómezőiben, ahol még ma is élnek az ősi betakarítási módszerek, és hozzon napszemüveget, mert a vakító fehér só délután nagyon erős lehet.",
+            "ro": "Admirați priveliștile uimitoare ale faimoaselor saline din Aveiro unde se practică metode străvechi de recoltare și aduceți ochelari de soare, deoarece sarea albă poate fi orbitoare.",
+            "en": "Take in the stunning views of Aveiro's iconic salt flats where ancient harvesting methods are still alive, and bring sunglasses as the glaring white salt can be blinding in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Ausflug an den malerischen Flussschaukeln, ein ruhiger Ort, bevor es in die Stadt geht. Mittags besuchen Sie die Kunsthochschule und das wunderschön erhaltene Carmelitas-Museum. Erkunden Sie am Nachmittag die kunstvollen Designs im Museu Arte Nova, bevor Sie zu den Salinen fahren, um dort einen atemberaubenden Spaziergang bei Sonnenuntergang zu machen.",
+        "hu": "Kezdje autós kirándulását a festői folyóparti hintáknál, ami egy nyugodt hely, mielőtt a városba indulna. A dél folyamán tartalmas látogatást tehet a Képzőművészeti Iskolában és a Carmelitas Múzeumban. Délután fedezze fel a Museu Arte Nova bonyolult dizájnját, mielőtt a Salinashoz vezetne egy lenyűgöző naplemente sétára az ősi sólepárlók között.",
+        "ro": "Începeți excursia cu mașina la leagănele pitorești de pe râu, un loc liniștit înainte de a merge în oraș. Amiaza vă permite o vizită la Școala de Arte Frumoase și la Muzeul Carmelitas frumos conservat. După-amiaza, explorați modelele complicate de la Muzeul Arte Nova înainte de a conduce spre Salinas pentru o plimbare uimitoare la apus printre salinele antice.",
+        "en": "Begin your driving daytrip at the scenic riverside swings, a tranquil spot before heading into town. Midday allows for an enriching visit to the Fine Arts School and the beautifully preserved Carmelitas Museum. In the afternoon, explore the intricate designs at the Museu Arte Nova before driving out to the Salinas for a stunning sunset walk among the ancient salt pans."
+      }
+    }
+  }
+}

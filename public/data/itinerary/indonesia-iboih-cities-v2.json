@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-iboih-cities-v2",
+  "anchor": {
+    "name": "Iboih",
+    "coords": [
+      95.25812,
+      5.87061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Komplek Makam Aulia Kramat 44",
+            "hu": "Komplek Makam Aulia Kramat 44",
+            "ro": "Komplek Makam Aulia Kramat 44",
+            "en": "Komplek Makam Aulia Kramat 44"
+          },
+          "coords": [
+            95.259306,
+            5.871772
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser heiligen Gräber, die den tief verwurzelten lokalen Glauben widerspiegeln, und bringen Sie aus Respekt angemessene Kleidung mit.",
+            "hu": "Csodálja meg ezeknek a szent síroknak a békés hangulatát, amelyek a helyi hitet tükrözik, és hozzon magával szerény ruházatot a szent hely iránti tiszteletből.",
+            "ro": "Admirați atmosfera liniștită a acestor morminte sacre ce reflectă credința locală și purtați haine modeste din respect pentru acest loc sfânt.",
+            "en": "Admire the serene atmosphere of these sacred tombs that reflect deep-rooted local faith, and bring a sarong or modest clothing out of respect for the holy site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Punceu",
+            "hu": "Cot Punceu",
+            "ro": "Cot Punceu",
+            "en": "Cot Punceu"
+          },
+          "coords": [
+            95.263875,
+            5.870242
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an diesem erhöhten Aussichtspunkt, um den weiten Blick auf die üppige Vegetation zu genießen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Tartson egy rövid szünetet ezen a magaslati kilátóponton, hogy élvezze a buja növényzetre nyíló kilátást, és ne felejtsen el széles látószögű lencsét hozni a fotókhoz.",
+            "ro": "Faceți o scurtă pauză la acest punct de belvedere pentru a admira vegetația luxuriantă, asigurându-vă că aveți un obiectiv grandangular pentru cele mai bune fotografii.",
+            "en": "Take a short break at this elevated vantage point to enjoy sweeping views of the lush vegetation, making sure to bring a wide-angle lens for the best landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Garuda",
+            "hu": "Tugu Garuda",
+            "ro": "Tugu Garuda",
+            "en": "Tugu Garuda"
+          },
+          "coords": [
+            95.255252,
+            5.872784
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante Nationaldenkmal, das die indonesische Unabhängigkeit symbolisiert, und kommen Sie früh am Tag, um der tropischen Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg ezt a lenyűgöző nemzeti emlékművet, amely az indonéz függetlenséget szimbolizálja, és látogasson el kora reggel, hogy elkerülje a trópusi hőséget.",
+            "ro": "Admirați acest monument național impresionant care simbolizează independența indoneziană și vizitați-l devreme pentru a evita căldura tropicală intensă de la prânz.",
+            "en": "Marvel at this striking national monument symbolizing Indonesian independence and unity, and visit early in the day to avoid the intense tropical midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Labu",
+            "hu": "Cot Labu",
+            "ro": "Cot Labu",
+            "en": "Cot Labu"
+          },
+          "coords": [
+            95.254287,
+            5.869902
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Naturschönheit dieses Küstenwahrzeichens bei einem Spaziergang über die unbefestigten Wege, weshalb feste Wanderschuhe sehr zu empfehlen sind.",
+            "hu": "Fedezze fel ennek a tengerparti tájékozódási pontnak a zord szépségét a burkolatlan ösvényeken sétálva, így ide erősen ajánlott strapabíró túracipőt viselni.",
+            "ro": "Explorați frumusețea naturală sălbatică a acestui reper de coastă plimbându-vă pe traseele sale neasfaltate, așa că purtarea pantofilor de drumeție este foarte recomandată.",
+            "en": "Explore the rugged natural beauty of this coastal landmark by walking along its unpaved trails, so wearing sturdy hiking shoes is highly recommended here."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Iboih",
+            "hu": "Teluk Teupin Iboih",
+            "ro": "Teluk Teupin Iboih",
+            "en": "Teluk Teupin Iboih"
+          },
+          "coords": [
+            95.2486,
+            5.8799
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand dieser unberührten Bucht mit kristallklarem Wasser und mieten Sie Ihre Schnorchelausrüstung direkt am Eingang, um Zeit zu sparen.",
+            "hu": "Pihenjen a kristálytiszta türkizkék vizéről ismert öböl puha homokos strandján, és béreljen sznorkelfelszerelést közvetlenül a bejáratnál, hogy időt takarítson meg.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin a acestui golf virgin cu ape turcoaz cristaline și închiriați echipamentul de snorkeling direct la intrare pentru a economisi timp.",
+            "en": "Relax on the soft sandy beach of this pristine bay known for its crystal-clear turquoise waters, and rent your snorkeling gear right at the entrance to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "Very good snorkeling",
+            "hu": "Very good snorkeling",
+            "ro": "Very good snorkeling",
+            "en": "Very good snorkeling"
+          },
+          "coords": [
+            95.252109,
+            5.882137
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in einige der lebendigsten Korallenriffe der Region ein, aber denken Sie daran, riffsichere Sonnencreme zu verwenden, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Merüljön el a régió legélénkebb korallzátonyaiban, amelyek tele vannak színes tengeri élőlényekkel, de ne felejtsen el zátonybarát naptejet használni a védelem érdekében.",
+            "ro": "Scufundați-vă în cele mai vibrante recife de corali pline de viață marină colorată, dar nu uitați să folosiți cremă de protecție solară sigură pentru ecosistemul fragil.",
+            "en": "Dive into some of the most vibrant coral reefs in the region teaming with colorful marine life, but remember to use reef-safe sunscreen to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang zum historischen Komplek Makam, um die spirituellen Wurzeln der Insel zu spüren. Mittags passieren Sie Cot Punceu und das ikonische Tugu Garuda. Am Nachmittag wechseln Sie zum üppigen Cot Labu und den atemberaubenden Ufern von Teluk Teupin Iboih. Lassen Sie den Abend bei einer spektakulären Schnorchelsitzung bei Sonnenuntergang ausklingen.",
+        "hu": "Kezdje a reggelt egy békés sétával a történelmi Komplek Makamhoz, hogy átérezze a sziget szellemi gyökereit. Délben a Cot Punceu és az ikonikus Tugu Garuda mellett halad el, felfedezve a helyi örökséget. Délután látogasson el a buja Cot Labu-hoz és a Teluk Teupin Iboih lenyűgöző partjaihoz. Zárja az estét egy látványos naplementés sznorkelezéssel a kristálytiszta tengerben.",
+        "ro": "Începeți dimineața cu o plimbare liniștită către istoricul Komplek Makam pentru a simți rădăcinile spirituale ale insulei. La prânz treceți pe lângă Cot Punceu și iconicul Tugu Garuda pentru a admira patrimoniul local. După-amiaza vă poartă spre verdele Cot Labu și țărmurile uimitoare din Teluk Teupin Iboih. Încheiați seara cu o sesiune spectaculoasă de snorkeling la apusul soarelui.",
+        "en": "Start your morning with a serene walk to the historic Komplek Makam Aulia Kramat 44 to feel the island's spiritual roots. Midday brings you past Cot Punceu and the iconic Tugu Garuda, offering glimpses of local heritage. By afternoon, transition to the lush Cot Labu and the stunning shores of Teluk Teupin Iboih. Conclude your evening with spectacular snorkeling sessions as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Garuda",
+            "hu": "Tugu Garuda",
+            "ro": "Tugu Garuda",
+            "en": "Tugu Garuda"
+          },
+          "coords": [
+            95.255252,
+            5.872784
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante Nationaldenkmal, das die indonesische Unabhängigkeit symbolisiert, und kommen Sie früh am Tag, um der tropischen Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg ezt a lenyűgöző nemzeti emlékművet, amely az indonéz függetlenséget szimbolizálja, és látogasson el kora reggel, hogy elkerülje a trópusi hőséget.",
+            "ro": "Admirați acest monument național impresionant care simbolizează independența indoneziană și vizitați-l devreme pentru a evita căldura tropicală intensă de la prânz.",
+            "en": "Marvel at this striking national monument symbolizing Indonesian independence and unity, and visit early in the day to avoid the intense tropical midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Blang Iboih",
+            "hu": "Cot Blang Iboih",
+            "ro": "Cot Blang Iboih",
+            "en": "Cot Blang Iboih"
+          },
+          "coords": [
+            95.2391,
+            5.8805
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die üppige Landschaft im Landesinneren, die eine wahre Flucht vor den Massen bietet, und bringen Sie viel Trinkwasser mit, da Geschäfte selten sind.",
+            "hu": "Fedezze fel e békés terület buja szárazföldi tájait, amely valódi menedéket nyújt a tömeg elől, és hozzon magával sok ivóvizet, mivel errefelé kevés a bolt.",
+            "ro": "Descoperiți peisajul luxuriant din interiorul insulei, care oferă o evadare reală din aglomerație, și aduceți multă apă de băut, deoarece magazinele sunt rare aici.",
+            "en": "Discover the lush inland scenery surrounding this peaceful area which offers a true escape from the crowds, and bring plenty of drinking water as shops are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Iboih",
+            "hu": "Teluk Teupin Iboih",
+            "ro": "Teluk Teupin Iboih",
+            "en": "Teluk Teupin Iboih"
+          },
+          "coords": [
+            95.2486,
+            5.8799
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand dieser unberührten Bucht mit kristallklarem Wasser und mieten Sie Ihre Schnorchelausrüstung direkt am Eingang, um Zeit zu sparen.",
+            "hu": "Pihenjen a kristálytiszta türkizkék vizéről ismert öböl puha homokos strandján, és béreljen sznorkelfelszerelést közvetlenül a bejáratnál, hogy időt takarítson meg.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin a acestui golf virgin cu ape turcoaz cristaline și închiriați echipamentul de snorkeling direct la intrare pentru a economisi timp.",
+            "en": "Relax on the soft sandy beach of this pristine bay known for its crystal-clear turquoise waters, and rent your snorkeling gear right at the entrance to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "amazing fishing/snorkelling",
+            "hu": "amazing fishing/snorkelling",
+            "ro": "amazing fishing/snorkelling",
+            "en": "amazing fishing/snorkelling"
+          },
+          "coords": [
+            95.249606,
+            5.883163
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Werfen Sie eine Angel aus oder schnorcheln Sie neben einheimischen Fischern an diesem artenreichen Ort und versuchen Sie, bei Flut für die beste Sicht anzukommen.",
+            "hu": "Horgásszon vagy sznorkelezzen a helyi halászok mellett ezen a hihetetlenül biodiverz helyen, és próbáljon dagálykor érkezni a legjobb víz alatti látási viszonyokért.",
+            "ro": "Pescuiți sau faceți snorkeling alături de pescarii locali în acest loc incredibil de biodivers și încercați să ajungeți la flux pentru cea mai bună vizibilitate subacvatică.",
+            "en": "Cast a line or snorkel alongside local fishermen in this incredibly biodiverse spot, and try arriving during high tide for the best visibility under the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Ring",
+            "hu": "Teluk Teupin Ring",
+            "ro": "Teluk Teupin Ring",
+            "en": "Teluk Teupin Ring"
+          },
+          "coords": [
+            95.26399,
+            5.862007
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der Küste dieser versteckten Bucht, um abgelegene Orte für die Fotografie zu finden, und achten Sie auf die rutschigen Felsen am Rand.",
+            "hu": "Sétáljon végig e rejtett öböl ívelt partvonalán, hogy tökéletes, eldugott fotózási helyszíneket találjon, és ügyeljen a vízparti csúszós sziklákra a biztonság érdekében.",
+            "ro": "Plimbați-vă de-a lungul coastei acestui golf ascuns pentru a găsi locuri izolate perfecte pentru fotografie și fiți atenți la rocile alunecoase de lângă marginea apei.",
+            "en": "Wander along the curved coastline of this hidden bay to find secluded spots perfect for photography, and watch out for the slippery rocks near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Punceu",
+            "hu": "Cot Punceu",
+            "ro": "Cot Punceu",
+            "en": "Cot Punceu"
+          },
+          "coords": [
+            95.263875,
+            5.870242
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an diesem erhöhten Aussichtspunkt, um den weiten Blick auf die üppige Vegetation zu genießen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Tartson egy rövid szünetet ezen a magaslati kilátóponton, hogy élvezze a buja növényzetre nyíló kilátást, és ne felejtsen el széles látószögű lencsét hozni a fotókhoz.",
+            "ro": "Faceți o scurtă pauză la acest punct de belvedere pentru a admira vegetația luxuriantă, asigurându-vă că aveți un obiectiv grandangular pentru cele mai bune fotografii.",
+            "en": "Take a short break at this elevated vantage point to enjoy sweeping views of the lush vegetation, making sure to bring a wide-angle lens for the best landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie morgens am ikonischen Tugu Garuda in die Pedale und genießen Sie die frische Luft und die reiche Geschichte. Gegen Mittag radeln Sie nach Cot Blang Iboih und zu den lebhaften Ufern von Teluk Teupin Iboih. Den Nachmittag verbringen Sie am besten an fantastischen Schnorchelplätzen. Abends fahren Sie durch Teluk Teupin Ring und Cot Punceu zurück, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Pattanjon kerékpárra a Tugu Garuda emlékműnél, élvezve a friss levegőt és a helyi történelmet. Dél felé haladva tekerjen el a Cot Blang Iboih-hoz és a Teluk Teupin Iboih pezsgő partjaihoz. A délutánt érdemes a fantasztikus sznorkelező helyek felfedezésével tölteni a mélykék vizekben. Ahogy leszáll az est, tekerjen vissza a Teluk Teupin Ring és a Cot Punceu érintésével egy nyugodt befejezésért.",
+        "ro": "Pedalați dimineața la iconicul Tugu Garuda, bucurându-vă de aerul proaspăt și de bogata istorie locală. Spre prânz, mergeți spre nord-vest către Cot Blang Iboih și țărmurile vibrante din Teluk Teupin Iboih. După-amiaza este ideală pentru a explora locurile uimitoare de snorkeling. Odată cu lăsarea serii, întoarceți-vă prin Teluk Teupin Ring și Cot Punceu pentru un final relaxant la amurg.",
+        "en": "Pedal into the morning at the iconic Tugu Garuda, embracing the fresh air and rich local history. Towards midday, cycle northwest to Cot Blang Iboih and the vibrant shores of Teluk Teupin Iboih. Your afternoon is best spent enjoying amazing snorkeling spots and exploring the deep blue waters. As evening falls, ride back through Teluk Teupin Ring and Cot Punceu for a relaxing twilight finish."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Komplek Makam Aulia Kramat 44",
+            "hu": "Komplek Makam Aulia Kramat 44",
+            "ro": "Komplek Makam Aulia Kramat 44",
+            "en": "Komplek Makam Aulia Kramat 44"
+          },
+          "coords": [
+            95.259306,
+            5.871772
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser heiligen Gräber, die den tief verwurzelten lokalen Glauben widerspiegeln, und bringen Sie aus Respekt angemessene Kleidung mit.",
+            "hu": "Csodálja meg ezeknek a szent síroknak a békés hangulatát, amelyek a helyi hitet tükrözik, és hozzon magával szerény ruházatot a szent hely iránti tiszteletből.",
+            "ro": "Admirați atmosfera liniștită a acestor morminte sacre ce reflectă credința locală și purtați haine modeste din respect pentru acest loc sfânt.",
+            "en": "Admire the serene atmosphere of these sacred tombs that reflect deep-rooted local faith, and bring a sarong or modest clothing out of respect for the holy site."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Garuda",
+            "hu": "Tugu Garuda",
+            "ro": "Tugu Garuda",
+            "en": "Tugu Garuda"
+          },
+          "coords": [
+            95.255252,
+            5.872784
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante Nationaldenkmal, das die indonesische Unabhängigkeit symbolisiert, und kommen Sie früh am Tag, um der tropischen Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg ezt a lenyűgöző nemzeti emlékművet, amely az indonéz függetlenséget szimbolizálja, és látogasson el kora reggel, hogy elkerülje a trópusi hőséget.",
+            "ro": "Admirați acest monument național impresionant care simbolizează independența indoneziană și vizitați-l devreme pentru a evita căldura tropicală intensă de la prânz.",
+            "en": "Marvel at this striking national monument symbolizing Indonesian independence and unity, and visit early in the day to avoid the intense tropical midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Parada",
+            "hu": "Cot Parada",
+            "ro": "Cot Parada",
+            "en": "Cot Parada"
+          },
+          "coords": [
+            95.2424,
+            5.8674
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe an dieser malerischen Hügelmarkierung, bevor Sie weiterfahren, und halten Sie Ausschau nach einheimischen Vögeln in den Baumkronen.",
+            "hu": "Élvezze a nyugalom pillanatát ezen a festői dombon, mielőtt továbbhaladna az úton, és tartsa nyitva a szemét a trópusi lombkoronában pihenő őshonos madarak miatt.",
+            "ro": "Bucurați-vă de un moment de liniște la acest reper pitoresc de pe deal înainte de a merge mai departe și căutați păsările native care se odihnesc în coronamentul tropical.",
+            "en": "Enjoy a moment of tranquility at this scenic hill marker before heading further down the road, and keep your eyes peeled for native birds resting in the tropical canopy."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Lueng Angen",
+            "hu": "Cot Lueng Angen",
+            "ro": "Cot Lueng Angen",
+            "en": "Cot Lueng Angen"
+          },
+          "coords": [
+            95.251373,
+            5.861112
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die kühle Meeresbrise an dieser windigen Klippe ein, die über den weiten Ozean blickt, und halten Sie Ihren Hut fest, da die Böen hier überraschend stark sein können.",
+            "hu": "Szívja magába a hűvös tengeri szellőt ezen a szeles sziklafalon, amely a végtelen óceánra néz, és fogja meg a kalapját, mivel a széllökések itt meglepően erősek lehetnek.",
+            "ro": "Respirați briza răcoroasă a mării pe această faleză vântoasă care privește spre vastul ocean și țineți-vă bine pălăria, deoarece rafalele de aici pot fi surprinzător de puternice.",
+            "en": "Breathe in the cool sea breezes at this windy cliffside area that looks out over the vast ocean, and hold onto your hat as the gusts here can be surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "bunker",
+            "hu": "bunker",
+            "ro": "bunker",
+            "en": "bunker"
+          },
+          "coords": [
+            95.253764,
+            5.847355
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und besichtigen Sie diesen verwitterten Bunker im Dschungel, wobei eine Taschenlampe hilft, sicher in sein dunkles Inneres zu schauen.",
+            "hu": "Lépjen vissza az időben e viharvert háborús bunker felfedezésével a dzsungel sűrűjében, és hozzon magával zseblámpát, hogy biztonságosan bepillanthasson a sötét belsejébe.",
+            "ro": "Pășiți înapoi în timp inspectând acest buncăr de război ascuns în frunzișul junglei și aduceți o lanternă pentru a arunca o privire sigură în interiorul său întunecat.",
+            "en": "Step back in time by inspecting this weathered wartime bunker hidden within the jungle foliage, and bring a flashlight to safely peek into its dark interior structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Pawang",
+            "hu": "Cot Pawang",
+            "ro": "Cot Pawang",
+            "en": "Cot Pawang"
+          },
+          "coords": [
+            95.2678,
+            5.846357
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Navigieren Sie auf den Pfaden dieses südlichen Waldwahrzeichens, um Iboihs wilde Seite zu erleben, und tragen Sie reichlich Insektenschutzmittel auf, bevor Sie den Wald betreten.",
+            "hu": "Járja be ennek a déli erdei tájékozódási pontnak a kanyargós ösvényeit, hogy megtapasztalja Iboih vad oldalát, de ne felejtsen el bőségesen rovarriasztót használni előtte.",
+            "ro": "Navigați pe cărările șerpuite ale acestui reper forestier sudic pentru a experimenta latura sălbatică, asigurându-vă că aplicați mult repelent pentru insecte în prealabil.",
+            "en": "Navigate the winding paths of this southern forest landmark to experience Iboih's wild side, ensuring you apply ample insect repellent before entering the dense vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Tiupin Gapang",
+            "hu": "Teluk Tiupin Gapang",
+            "ro": "Teluk Tiupin Gapang",
+            "en": "Teluk Tiupin Gapang"
+          },
+          "coords": [
+            95.271248,
+            5.853858
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem spektakulären Sandstrand, der ideal für Abendspaziergänge ist, und kaufen Sie sich eine frische Kokosnuss von einem der kleinen Händler.",
+            "hu": "Zárja le parti utazását ezen a látványos homokos partszakaszon, amely ideális az esti sétákhoz, és próbáljon ki egy friss kókuszdiót az egyik közeli helyi árustól.",
+            "ro": "Încheiați-vă călătoria pe această porțiune spectaculoasă de nisip ideală pentru plimbări de seară și încercați să cumpărați o nucă de cocos proaspătă de la un vânzător local.",
+            "en": "Wrap up your coastal journey on this spectacular stretch of sand ideal for evening strolls, and try grabbing a fresh coconut from one of the small local vendors nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie frühmorgens zum heiligen Komplek Makam und Tugu Garuda, um die ruhige Stimmung einzufangen. Mittags cruisen Sie bequem an der Küste entlang zu Cot Parada und Cot Lueng Angen für weite Panoramablicke. Nachmittags erkunden Sie den historischen Bunker und Cot Pawang im Süden. Beenden Sie den Tag in Teluk Tiupin Gapang und genießen Sie ein Abendessen am Meer unter den Sternen.",
+        "hu": "Autózzon ki korán a szent Komplek Makamhoz és a Tugu Garudához, hogy megragadja a békés reggeli hangulatot. Délben kényelmesen utazzon végig a parton a Cot Parada és a Cot Lueng Angen lenyűgöző kilátópontjaihoz. A délutáni felfedezés délre vezet, a történelmi bunkerhez és a Cot Pawanghoz. Zárja a napot a Teluk Tiupin Gapang-nál, élvezve egy tengerparti vacsorát a csillagos ég alatt.",
+        "ro": "Conduceți dimineața spre sacrul Komplek Makam și Tugu Garuda pentru a capta atmosfera liniștită. La prânz, călătoriți confortabil de-a lungul coastei spre Cot Parada și Cot Lueng Angen pentru priveliști panoramice ample. Explorările de după-amiază vă duc spre sud pentru a descoperi buncărul istoric și Cot Pawang. Încheiați ziua la Teluk Tiupin Gapang, savurând o cină lângă mare sub stele.",
+        "en": "Drive out to the sacred Komplek Makam and Tugu Garuda early on, capturing the tranquil morning vibes of Iboih. By midday, cruise comfortably along the coast to Cot Parada and Cot Lueng Angen for wide scenic vistas. Afternoon explorations take you down south to discover the intriguing historical bunker and Cot Pawang. End the day at Teluk Tiupin Gapang, savoring a seaside dinner under the stars."
+      }
+    }
+  }
+}

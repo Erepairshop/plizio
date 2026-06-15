@@ -1,0 +1,497 @@
+{
+  "city_id": "tasikmalaya-cities-v2",
+  "anchor": {
+    "name": "Tasikmalaya",
+    "coords": [
+      108.222,
+      -7.326
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Agung",
+            "hu": "Masjid Agung",
+            "ro": "Masjid Agung",
+            "en": "Masjid Agung"
+          },
+          "coords": [
+            108.21996,
+            -7.326074
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser großen Moschee als spirituelles Zentrum der Stadt und denken Sie an angemessene Kleidung, bevor Sie den ruhigen Innenhof erkunden.",
+            "hu": "Csodálja meg a város spirituális központjának számító nagymecset lenyűgöző építészetét, és ne feledkezzen meg a szerény öltözködésről a békés udvar felfedezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei mari moschei, inima spirituală a orașului, și amintiți-vă să vă îmbrăcați decent înainte de a explora curtea sa interioară liniștită.",
+            "en": "Admire the striking architecture of this grand mosque, which serves as the spiritual heart of the city, and remember to dress modestly before entering to explore its serene courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Tasikmalaya",
+            "hu": "Tasikmalaya",
+            "ro": "Tasikmalaya",
+            "en": "Tasikmalaya"
+          },
+          "coords": [
+            108.223938,
+            -7.322231
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das belebte Zentrum, um die authentische lokale Atmosphäre Westjavas aufzunehmen, und beobachten Sie die Straßenhändler, während Sie auf Ihre Wertsachen achten.",
+            "hu": "Sétáljon a nyüzsgő központban, hogy magába szívja Nyugat-Jáva autentikus hangulatát, és figyelje meg az élénk utcai árusokat, miközben ügyel a személyes értékeire.",
+            "ro": "Plimbați-vă prin districtul central aglomerat pentru a simți atmosfera autentică din Java de Vest, privind vânzătorii ambulanți în timp ce aveți grijă de bunurile personale.",
+            "en": "Stroll around the bustling central district to soak in the authentic local atmosphere of West Java, taking time to watch the vibrant street vendors while keeping an eye on your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Jalur KA Tasikmalaya - Singaparna",
+            "hu": "Jalur KA Tasikmalaya - Singaparna",
+            "ro": "Jalur KA Tasikmalaya - Singaparna",
+            "en": "Jalur KA Tasikmalaya - Singaparna"
+          },
+          "coords": [
+            108.222218,
+            -7.320964
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser historischen Eisenbahnstrecke, die einst die umliegenden Städte verband, und tragen Sie festes Schuhwerk für die unebenen und bewachsenen Pfade.",
+            "hu": "Fedezze fel ennek a történelmi vasútvonalnak a maradványait, amely egykor a környező városokat kötötte össze, és viseljen masszív cipőt az egyenetlen és benőtt ösvények miatt.",
+            "ro": "Descoperiți rămășițele acestei linii ferate istorice care conecta odată orașele din jur și purtați încălțăminte robustă pentru a naviga în siguranță pe traseele inegale și acoperite de vegetație.",
+            "en": "Discover the remnants of this historical railway line that once connected surrounding towns, and wear sturdy walking shoes to safely navigate the uneven tracks and overgrown paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Kautsar",
+            "hu": "Masjid Al-Kautsar",
+            "ro": "Masjid Al-Kautsar",
+            "en": "Masjid Al-Kautsar"
+          },
+          "coords": [
+            108.212227,
+            -7.337237
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser wunderschön gepflegten Gemeindemoschee zur stillen Einkehr, die Sie jedoch am besten außerhalb der Hauptgebetszeiten besuchen sollten.",
+            "hu": "Tapasztalja meg ennek a gyönyörűen karbantartott közösségi mecsetnek a nyugodt légkörét, amely tökéletes a csendes elmélkedéshez, de érdemes a fő imaidőkön kívül érkezni.",
+            "ro": "Experimentați ambianța liniștită a acestei moschei comunitare frumos întreținute, ideală pentru reflecție tăcută, deși este indicat să o vizitați în afara orelor principale de rugăciune.",
+            "en": "Experience the tranquil ambiance of this beautifully maintained community mosque, a perfect spot for quiet reflection, though it is best to visit outside of the main prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Induk Cikurubuk",
+            "hu": "Pasar Induk Cikurubuk",
+            "ro": "Pasar Induk Cikurubuk",
+            "en": "Pasar Induk Cikurubuk"
+          },
+          "coords": [
+            108.203332,
+            -7.338965
+          ],
+          "category": "cultural",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Treiben des größten traditionellen Marktes der Region ein, um frische Produkte zu finden, und seien Sie bereit, für die besten Preise freundlich zu verhandeln.",
+            "hu": "Vesse bele magát a régió legnagyobb hagyományos piacának forgatagába friss termékekért és helyi kézműves árukért, de készüljön fel egy kis barátságos alkudozásra a legjobb árakért.",
+            "ro": "Pătrundeți în agitația celui mai mare târg tradițional din regiune pentru a găsi produse proaspete, dar fiți pregătit să negociați politicos pentru a obține cele mai bune prețuri.",
+            "en": "Dive into the sensory overload of the largest traditional market in the region to find fresh produce and local crafts, but be prepared to bargain gently to get the best prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt friedliche Energie in den großen Moscheen.\n\nDie Mittagszeit lädt zu einer Reise durch historische Routen und lebhafte Straßen ein.\n\nNachmittage sind für authentische Märkte oder Pools reserviert.\n\nDer Abend bricht an und hinterlässt Erinnerungen an Java.",
+        "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
+        "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
+        "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Agung",
+            "hu": "Masjid Agung",
+            "ro": "Masjid Agung",
+            "en": "Masjid Agung"
+          },
+          "coords": [
+            108.21996,
+            -7.326074
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser großen Moschee als spirituelles Zentrum der Stadt und denken Sie an angemessene Kleidung, bevor Sie den ruhigen Innenhof erkunden.",
+            "hu": "Csodálja meg a város spirituális központjának számító nagymecset lenyűgöző építészetét, és ne feledkezzen meg a szerény öltözködésről a békés udvar felfedezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei mari moschei, inima spirituală a orașului, și amintiți-vă să vă îmbrăcați decent înainte de a explora curtea sa interioară liniștită.",
+            "en": "Admire the striking architecture of this grand mosque, which serves as the spiritual heart of the city, and remember to dress modestly before entering to explore its serene courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Tasikmalaya",
+            "hu": "Tasikmalaya",
+            "ro": "Tasikmalaya",
+            "en": "Tasikmalaya"
+          },
+          "coords": [
+            108.223938,
+            -7.322231
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das belebte Zentrum, um die authentische lokale Atmosphäre Westjavas aufzunehmen, und beobachten Sie die Straßenhändler, während Sie auf Ihre Wertsachen achten.",
+            "hu": "Sétáljon a nyüzsgő központban, hogy magába szívja Nyugat-Jáva autentikus hangulatát, és figyelje meg az élénk utcai árusokat, miközben ügyel a személyes értékeire.",
+            "ro": "Plimbați-vă prin districtul central aglomerat pentru a simți atmosfera autentică din Java de Vest, privind vânzătorii ambulanți în timp ce aveți grijă de bunurile personale.",
+            "en": "Stroll around the bustling central district to soak in the authentic local atmosphere of West Java, taking time to watch the vibrant street vendors while keeping an eye on your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Jalur KA Tasikmalaya - Singaparna",
+            "hu": "Jalur KA Tasikmalaya - Singaparna",
+            "ro": "Jalur KA Tasikmalaya - Singaparna",
+            "en": "Jalur KA Tasikmalaya - Singaparna"
+          },
+          "coords": [
+            108.222218,
+            -7.320964
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser historischen Eisenbahnstrecke, die einst die umliegenden Städte verband, und tragen Sie festes Schuhwerk für die unebenen und bewachsenen Pfade.",
+            "hu": "Fedezze fel ennek a történelmi vasútvonalnak a maradványait, amely egykor a környező városokat kötötte össze, és viseljen masszív cipőt az egyenetlen és benőtt ösvények miatt.",
+            "ro": "Descoperiți rămășițele acestei linii ferate istorice care conecta odată orașele din jur și purtați încălțăminte robustă pentru a naviga în siguranță pe traseele inegale și acoperite de vegetație.",
+            "en": "Discover the remnants of this historical railway line that once connected surrounding towns, and wear sturdy walking shoes to safely navigate the uneven tracks and overgrown paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolam Renang Tirta Alam",
+            "hu": "Kolam Renang Tirta Alam",
+            "ro": "Kolam Renang Tirta Alam",
+            "en": "Kolam Renang Tirta Alam"
+          },
+          "coords": [
+            108.23944,
+            -7.336281
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich von der tropischen Hitze in diesen erfrischenden Freizeitbecken inmitten der Natur ab und bringen Sie unbedingt Ihr eigenes Handtuch und Sonnencreme mit.",
+            "hu": "Hűtse le magát a trópusi hőségben ezekben a természetes környezetben lévő, frissítő medencékben, és a kényelmes látogatás érdekében ne felejtsen el saját törölközőt hozni.",
+            "ro": "Răcoriți-vă de căldura tropicală în aceste piscine de agrement înconjurate de natură și asigurați-vă că aduceți propriul prosop și cremă de protecție solară pentru o vizită confortabilă.",
+            "en": "Cool off from the tropical heat in these refreshing recreational pools surrounded by natural scenery, and make sure to bring your own towel and sunscreen for a comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Inaayah TMC",
+            "hu": "Masjid Al Inaayah TMC",
+            "ro": "Masjid Al Inaayah TMC",
+            "en": "Masjid Al Inaayah TMC"
+          },
+          "coords": [
+            108.216269,
+            -7.340399
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne architektonische Juwel, das durch sein einzigartiges Design im Stadtbild auffällt, und genießen Sie die Ruhe, indem Sie die lokalen Bräuche respektieren.",
+            "hu": "Látogasson el ehhez a modern építészeti gyöngyszemhez, amely egyedi dizájnjával kiemelkedik a városképből, és békés menedéket nyújt, ha tiszteletben tartja a helyi szokásokat.",
+            "ro": "Vizitați această bijuterie arhitecturală modernă care iese în evidență în peisajul urban prin designul său unic, oferind un refugiu pașnic dacă respectați obiceiurile locale.",
+            "en": "Visit this modern architectural gem that stands out in the urban landscape with its unique design, offering a peaceful retreat if you respect the local customs and remove your shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Induk Cikurubuk",
+            "hu": "Pasar Induk Cikurubuk",
+            "ro": "Pasar Induk Cikurubuk",
+            "en": "Pasar Induk Cikurubuk"
+          },
+          "coords": [
+            108.203332,
+            -7.338965
+          ],
+          "category": "cultural",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Treiben des größten traditionellen Marktes der Region ein, um frische Produkte zu finden, und seien Sie bereit, für die besten Preise freundlich zu verhandeln.",
+            "hu": "Vesse bele magát a régió legnagyobb hagyományos piacának forgatagába friss termékekért és helyi kézműves árukért, de készüljön fel egy kis barátságos alkudozásra a legjobb árakért.",
+            "ro": "Pătrundeți în agitația celui mai mare târg tradițional din regiune pentru a găsi produse proaspete, dar fiți pregătit să negociați politicos pentru a obține cele mai bune prețuri.",
+            "en": "Dive into the sensory overload of the largest traditional market in the region to find fresh produce and local crafts, but be prepared to bargain gently to get the best prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt friedliche Energie in den großen Moscheen.\n\nDie Mittagszeit lädt zu einer Reise durch historische Routen und lebhafte Straßen ein.\n\nNachmittage sind für authentische Märkte oder Pools reserviert.\n\nDer Abend bricht an und hinterlässt Erinnerungen an Java.",
+        "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
+        "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
+        "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 9.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Al Ilyas",
+            "hu": "Masjid Al Ilyas",
+            "ro": "Masjid Al Ilyas",
+            "en": "Masjid Al Ilyas"
+          },
+          "coords": [
+            108.2082,
+            -7.305843
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour an diesem eleganten Heiligtum, das für seine harmonische Atmosphäre bekannt ist, und bewundern Sie die aufwendigen geometrischen Details der Fassade.",
+            "hu": "Kezdje felfedezőútját ebben az elegáns szentélyben, amely harmonikus közösségi hangulatáról ismert, és szánjon egy percet a homlokzatot díszítő bonyolult geometriai részletekre.",
+            "ro": "Începeți explorarea la acest sanctuar elegant cunoscut pentru atmosfera sa comunitară armonioasă și luați-vă un moment pentru a aprecia detaliile geometrice complicate ale fațadei.",
+            "en": "Start your exploration at this elegant sanctuary known for its harmonious community vibe, and take a moment to appreciate the intricate geometric details adorning its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jalur KA Tasikmalaya - Singaparna",
+            "hu": "Jalur KA Tasikmalaya - Singaparna",
+            "ro": "Jalur KA Tasikmalaya - Singaparna",
+            "en": "Jalur KA Tasikmalaya - Singaparna"
+          },
+          "coords": [
+            108.222218,
+            -7.320964
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser historischen Eisenbahnstrecke, die einst die umliegenden Städte verband, und tragen Sie festes Schuhwerk für die unebenen und bewachsenen Pfade.",
+            "hu": "Fedezze fel ennek a történelmi vasútvonalnak a maradványait, amely egykor a környező városokat kötötte össze, és viseljen masszív cipőt az egyenetlen és benőtt ösvények miatt.",
+            "ro": "Descoperiți rămășițele acestei linii ferate istorice care conecta odată orașele din jur și purtați încălțăminte robustă pentru a naviga în siguranță pe traseele inegale și acoperite de vegetație.",
+            "en": "Discover the remnants of this historical railway line that once connected surrounding towns, and wear sturdy walking shoes to safely navigate the uneven tracks and overgrown paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tasikmalaya",
+            "hu": "Tasikmalaya",
+            "ro": "Tasikmalaya",
+            "en": "Tasikmalaya"
+          },
+          "coords": [
+            108.223938,
+            -7.322231
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das belebte Zentrum, um die authentische lokale Atmosphäre Westjavas aufzunehmen, und beobachten Sie die Straßenhändler, während Sie auf Ihre Wertsachen achten.",
+            "hu": "Sétáljon a nyüzsgő központban, hogy magába szívja Nyugat-Jáva autentikus hangulatát, és figyelje meg az élénk utcai árusokat, miközben ügyel a személyes értékeire.",
+            "ro": "Plimbați-vă prin districtul central aglomerat pentru a simți atmosfera autentică din Java de Vest, privind vânzătorii ambulanți în timp ce aveți grijă de bunurile personale.",
+            "en": "Stroll around the bustling central district to soak in the authentic local atmosphere of West Java, taking time to watch the vibrant street vendors while keeping an eye on your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung",
+            "hu": "Masjid Agung",
+            "ro": "Masjid Agung",
+            "en": "Masjid Agung"
+          },
+          "coords": [
+            108.21996,
+            -7.326074
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser großen Moschee als spirituelles Zentrum der Stadt und denken Sie an angemessene Kleidung, bevor Sie den ruhigen Innenhof erkunden.",
+            "hu": "Csodálja meg a város spirituális központjának számító nagymecset lenyűgöző építészetét, és ne feledkezzen meg a szerény öltözködésről a békés udvar felfedezése előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei mari moschei, inima spirituală a orașului, și amintiți-vă să vă îmbrăcați decent înainte de a explora curtea sa interioară liniștită.",
+            "en": "Admire the striking architecture of this grand mosque, which serves as the spiritual heart of the city, and remember to dress modestly before entering to explore its serene courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolam Renang Tirta Alam",
+            "hu": "Kolam Renang Tirta Alam",
+            "ro": "Kolam Renang Tirta Alam",
+            "en": "Kolam Renang Tirta Alam"
+          },
+          "coords": [
+            108.23944,
+            -7.336281
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich von der tropischen Hitze in diesen erfrischenden Freizeitbecken inmitten der Natur ab und bringen Sie unbedingt Ihr eigenes Handtuch und Sonnencreme mit.",
+            "hu": "Hűtse le magát a trópusi hőségben ezekben a természetes környezetben lévő, frissítő medencékben, és a kényelmes látogatás érdekében ne felejtsen el saját törölközőt hozni.",
+            "ro": "Răcoriți-vă de căldura tropicală în aceste piscine de agrement înconjurate de natură și asigurați-vă că aduceți propriul prosop și cremă de protecție solară pentru o vizită confortabilă.",
+            "en": "Cool off from the tropical heat in these refreshing recreational pools surrounded by natural scenery, and make sure to bring your own towel and sunscreen for a comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Inaayah TMC",
+            "hu": "Masjid Al Inaayah TMC",
+            "ro": "Masjid Al Inaayah TMC",
+            "en": "Masjid Al Inaayah TMC"
+          },
+          "coords": [
+            108.216269,
+            -7.340399
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne architektonische Juwel, das durch sein einzigartiges Design im Stadtbild auffällt, und genießen Sie die Ruhe, indem Sie die lokalen Bräuche respektieren.",
+            "hu": "Látogasson el ehhez a modern építészeti gyöngyszemhez, amely egyedi dizájnjával kiemelkedik a városképből, és békés menedéket nyújt, ha tiszteletben tartja a helyi szokásokat.",
+            "ro": "Vizitați această bijuterie arhitecturală modernă care iese în evidență în peisajul urban prin designul său unic, oferind un refugiu pașnic dacă respectați obiceiurile locale.",
+            "en": "Visit this modern architectural gem that stands out in the urban landscape with its unique design, offering a peaceful retreat if you respect the local customs and remove your shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Kautsar",
+            "hu": "Masjid Al-Kautsar",
+            "ro": "Masjid Al-Kautsar",
+            "en": "Masjid Al-Kautsar"
+          },
+          "coords": [
+            108.212227,
+            -7.337237
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser wunderschön gepflegten Gemeindemoschee zur stillen Einkehr, die Sie jedoch am besten außerhalb der Hauptgebetszeiten besuchen sollten.",
+            "hu": "Tapasztalja meg ennek a gyönyörűen karbantartott közösségi mecsetnek a nyugodt légkörét, amely tökéletes a csendes elmélkedéshez, de érdemes a fő imaidőkön kívül érkezni.",
+            "ro": "Experimentați ambianța liniștită a acestei moschei comunitare frumos întreținute, ideală pentru reflecție tăcută, deși este indicat să o vizitați în afara orelor principale de rugăciune.",
+            "en": "Experience the tranquil ambiance of this beautifully maintained community mosque, a perfect spot for quiet reflection, though it is best to visit outside of the main prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Induk Cikurubuk",
+            "hu": "Pasar Induk Cikurubuk",
+            "ro": "Pasar Induk Cikurubuk",
+            "en": "Pasar Induk Cikurubuk"
+          },
+          "coords": [
+            108.203332,
+            -7.338965
+          ],
+          "category": "cultural",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Treiben des größten traditionellen Marktes der Region ein, um frische Produkte zu finden, und seien Sie bereit, für die besten Preise freundlich zu verhandeln.",
+            "hu": "Vesse bele magát a régió legnagyobb hagyományos piacának forgatagába friss termékekért és helyi kézműves árukért, de készüljön fel egy kis barátságos alkudozásra a legjobb árakért.",
+            "ro": "Pătrundeți în agitația celui mai mare târg tradițional din regiune pentru a găsi produse proaspete, dar fiți pregătit să negociați politicos pentru a obține cele mai bune prețuri.",
+            "en": "Dive into the sensory overload of the largest traditional market in the region to find fresh produce and local crafts, but be prepared to bargain gently to get the best prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt friedliche Energie in den großen Moscheen.\n\nDie Mittagszeit lädt zu einer Reise durch historische Routen und lebhafte Straßen ein.\n\nNachmittage sind für authentische Märkte oder Pools reserviert.\n\nDer Abend bricht an und hinterlässt Erinnerungen an Java.",
+        "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
+        "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
+        "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      }
+    }
+  }
+}

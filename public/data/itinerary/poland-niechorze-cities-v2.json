@@ -1,0 +1,520 @@
+{
+  "city_id": "poland-niechorze-cities-v2",
+  "anchor": {
+    "name": "Niechorze",
+    "coords": [
+      15.082,
+      54.09537
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Stanislaus Kirche",
+            "hu": "Szent Szaniszló Templom",
+            "ro": "Biserica Sf. Stanislav",
+            "en": "St. Stanislaus Church"
+          },
+          "coords": [
+            15.080748,
+            54.096376
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
+            "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Handpumpe",
+            "hu": "Történelmi Kézi Pumpa",
+            "ro": "Pompa Manuală Istorică",
+            "en": "Historic Hand Pump"
+          },
+          "coords": [
+            15.077843,
+            54.094599
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese perfekt erhaltene historische Handpumpe auf einem Wagen, ein Zeugnis der Feuerwehrgeschichte, die morgens am besten zu fotografieren ist.",
+            "hu": "Fedezze fel ezt a tökéletesen megőrzött történelmi kézi tűzoltópumpát, a múltbeli tűzoltás emlékét, amelyet a reggeli fényben érdemes lefotózni.",
+            "ro": "Descoperiți această pompă manuală istorică pe un vagon, o dovadă a pompierilor din trecut, care merită fotografiată cel mai bine în lumina dimineții.",
+            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Seefischereimuseum",
+            "hu": "Tengeri Halászati Múzeum",
+            "ro": "Muzeul Pescuitului Maritim",
+            "en": "Sea Fishery Museum"
+          },
+          "coords": [
+            15.086131,
+            54.09538
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
+            "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
+            "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Miniaturpark",
+            "hu": "Világítótorony Miniatűr Park",
+            "ro": "Parcul Miniaturilor Farurilor",
+            "en": "Miniature Lighthouse Park"
+          },
+          "coords": [
+            15.067552,
+            54.09499
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
+            "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
+            "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Niechorze",
+            "hu": "Niechorze Világítótorony",
+            "ro": "Farul Niechorze",
+            "en": "Niechorze Lighthouse"
+          },
+          "coords": [
+            15.063875,
+            54.094716
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
+            "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
+            "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Wachsfigurenkabinett",
+            "hu": "Viaszmúzeum",
+            "ro": "Muzeul de Ceară",
+            "en": "Wax Museum"
+          },
+          "coords": [
+            15.064742,
+            54.093804
+          ],
+          "category": "museum",
+          "arrive_at": "14:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treffen Sie detaillierte Wachsfiguren von Prominenten und historischen Ikonen in dieser unterhaltsamen Halle, die sich perfekt für regnerische Tage eignet.",
+            "hu": "Találkozzon hírességek és történelmi ikonok viaszfiguráival ebben a szórakoztató benti múzeumban, amely tökéletes esős napokra vagy családi fotózáshoz.",
+            "ro": "Întâlniți figuri de ceară detaliate ale celebrităților în acest loc de divertisment acoperit, perfect pentru zilele ploioase sau pentru fotografii de familie.",
+            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
+        "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
+        "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Seefischereimuseum",
+            "hu": "Tengeri Halászati Múzeum",
+            "ro": "Muzeul Pescuitului Maritim",
+            "en": "Sea Fishery Museum"
+          },
+          "coords": [
+            15.086131,
+            54.09538
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
+            "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
+            "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Stanislaus Kirche",
+            "hu": "Szent Szaniszló Templom",
+            "ro": "Biserica Sf. Stanislav",
+            "en": "St. Stanislaus Church"
+          },
+          "coords": [
+            15.080748,
+            54.096376
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
+            "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Handpumpe",
+            "hu": "Történelmi Kézi Pumpa",
+            "ro": "Pompa Manuală Istorică",
+            "en": "Historic Hand Pump"
+          },
+          "coords": [
+            15.077843,
+            54.094599
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese perfekt erhaltene historische Handpumpe auf einem Wagen, ein Zeugnis der Feuerwehrgeschichte, die morgens am besten zu fotografieren ist.",
+            "hu": "Fedezze fel ezt a tökéletesen megőrzött történelmi kézi tűzoltópumpát, a múltbeli tűzoltás emlékét, amelyet a reggeli fényben érdemes lefotózni.",
+            "ro": "Descoperiți această pompă manuală istorică pe un vagon, o dovadă a pompierilor din trecut, care merită fotografiată cel mai bine în lumina dimineții.",
+            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Miniaturpark",
+            "hu": "Világítótorony Miniatűr Park",
+            "ro": "Parcul Miniaturilor Farurilor",
+            "en": "Miniature Lighthouse Park"
+          },
+          "coords": [
+            15.067552,
+            54.09499
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
+            "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
+            "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Niechorze",
+            "hu": "Niechorze Világítótorony",
+            "ro": "Farul Niechorze",
+            "en": "Niechorze Lighthouse"
+          },
+          "coords": [
+            15.063875,
+            54.094716
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
+            "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
+            "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Liwia Łuża",
+            "hu": "Liwia Łuża Természetvédelmi Terület",
+            "ro": "Rezervația Liwia Łuża",
+            "en": "Liwia Łuża Nature Reserve"
+          },
+          "coords": [
+            15.096819,
+            54.088853
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene Zugvögel an diesem ruhigen Küstensee und Naturschutzgebiet, weshalb Sie bei Ihrem Besuch unbedingt ein Fernglas mitbringen sollten.",
+            "hu": "Figyeljen meg ritka vándormadarakat ennél a nyugodt tengerparti tónál és természetvédelmi területnél, ezért mindenképpen hozzon távcsövet a látogatáshoz.",
+            "ro": "Observați păsări migratoare rare la acest lac de coastă și rezervație naturală, fiind esențial să aduceți binoclu și soluție împotriva insectelor cu dumneavoastră.",
+            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Dziadkowizna Agrotourismus",
+            "hu": "Dziadkowizna Agroturizmus",
+            "ro": "Agroturism Dziadkowizna",
+            "en": "Dziadkowizna Agrotourism"
+          },
+          "coords": [
+            15.104067,
+            54.081393
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Agrotourismus-Ort, der das traditionelle Landleben zeigt, und wo Sie unbedingt die lokalen Honigprodukte probieren sollten.",
+            "hu": "Pihenjen ebben a bájos agroturisztikai helyszínben, amely a hagyományos vidéki életet mutatja be, ahol érdemes megkóstolni a helyi méhészeti termékeket.",
+            "ro": "Relaxați-vă în acest loc agroturistic fermecător care prezintă viața rurală tradițională, oferind un refugiu unde ar trebui să gustați produsele locale din miere.",
+            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
+        "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
+        "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dziadkowizna Agrotourismus",
+            "hu": "Dziadkowizna Agroturizmus",
+            "ro": "Agroturism Dziadkowizna",
+            "en": "Dziadkowizna Agrotourism"
+          },
+          "coords": [
+            15.104067,
+            54.081393
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Agrotourismus-Ort, der das traditionelle Landleben zeigt, und wo Sie unbedingt die lokalen Honigprodukte probieren sollten.",
+            "hu": "Pihenjen ebben a bájos agroturisztikai helyszínben, amely a hagyományos vidéki életet mutatja be, ahol érdemes megkóstolni a helyi méhészeti termékeket.",
+            "ro": "Relaxați-vă în acest loc agroturistic fermecător care prezintă viața rurală tradițională, oferind un refugiu unde ar trebui să gustați produsele locale din miere.",
+            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Liwia Łuża",
+            "hu": "Liwia Łuża Természetvédelmi Terület",
+            "ro": "Rezervația Liwia Łuża",
+            "en": "Liwia Łuża Nature Reserve"
+          },
+          "coords": [
+            15.096819,
+            54.088853
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene Zugvögel an diesem ruhigen Küstensee und Naturschutzgebiet, weshalb Sie bei Ihrem Besuch unbedingt ein Fernglas mitbringen sollten.",
+            "hu": "Figyeljen meg ritka vándormadarakat ennél a nyugodt tengerparti tónál és természetvédelmi területnél, ezért mindenképpen hozzon távcsövet a látogatáshoz.",
+            "ro": "Observați păsări migratoare rare la acest lac de coastă și rezervație naturală, fiind esențial să aduceți binoclu și soluție împotriva insectelor cu dumneavoastră.",
+            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Seefischereimuseum",
+            "hu": "Tengeri Halászati Múzeum",
+            "ro": "Muzeul Pescuitului Maritim",
+            "en": "Sea Fishery Museum"
+          },
+          "coords": [
+            15.086131,
+            54.09538
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
+            "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
+            "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Stanislaus Kirche",
+            "hu": "Szent Szaniszló Templom",
+            "ro": "Biserica Sf. Stanislav",
+            "en": "St. Stanislaus Church"
+          },
+          "coords": [
+            15.080748,
+            54.096376
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
+            "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Miniaturpark",
+            "hu": "Világítótorony Miniatűr Park",
+            "ro": "Parcul Miniaturilor Farurilor",
+            "en": "Miniature Lighthouse Park"
+          },
+          "coords": [
+            15.067552,
+            54.09499
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
+            "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
+            "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Niechorze",
+            "hu": "Niechorze Világítótorony",
+            "ro": "Farul Niechorze",
+            "en": "Niechorze Lighthouse"
+          },
+          "coords": [
+            15.063875,
+            54.094716
+          ],
+          "category": "landmark",
+          "arrive_at": "15:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
+            "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
+            "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Wachsfigurenkabinett",
+            "hu": "Viaszmúzeum",
+            "ro": "Muzeul de Ceară",
+            "en": "Wax Museum"
+          },
+          "coords": [
+            15.064742,
+            54.093804
+          ],
+          "category": "museum",
+          "arrive_at": "15:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treffen Sie detaillierte Wachsfiguren von Prominenten und historischen Ikonen in dieser unterhaltsamen Halle, die sich perfekt für regnerische Tage eignet.",
+            "hu": "Találkozzon hírességek és történelmi ikonok viaszfiguráival ebben a szórakoztató benti múzeumban, amely tökéletes esős napokra vagy családi fotózáshoz.",
+            "ro": "Întâlniți figuri de ceară detaliate ale celebrităților în acest loc de divertisment acoperit, perfect pentru zilele ploioase sau pentru fotografii de familie.",
+            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
+        "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
+        "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+      }
+    }
+  }
+}

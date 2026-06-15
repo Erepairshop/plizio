@@ -1,0 +1,451 @@
+{
+  "city_id": "montceau-les-mines",
+  "anchor": {
+    "name": "Montceau-les-Mines",
+    "coords": [
+      4.3689,
+      46.6669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Montceau-les-Mines",
+            "hu": "Mairie de Montceau-les-Mines",
+            "ro": "Mairie de Montceau-les-Mines",
+            "en": "Mairie de Montceau-les-Mines"
+          },
+          "coords": [
+            4.362968,
+            46.674115
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
+            "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame de l'Assomption",
+            "hu": "Church of Notre-Dame de l'Assomption",
+            "ro": "Church of Notre-Dame de l'Assomption",
+            "en": "Church of Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            4.364873,
+            46.675248
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
+            "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
+            "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Maugrand",
+            "hu": "Parc Maugrand",
+            "ro": "Parc Maugrand",
+            "en": "Parc Maugrand"
+          },
+          "coords": [
+            4.353937,
+            46.680513
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang durch diese riesige Grünfläche mit malerischen Wegen, und bringen Sie bequeme Schuhe für die Erkundung mit.",
+            "hu": "Tegyen egy frissítő sétát ezen a festői ösvényeket kínáló hatalmas zöldterületen, és hozzon kényelmes cipőt a kiterjedt útvonalak felfedezéséhez.",
+            "ro": "Faceți o plimbare revigorantă prin acest vast spațiu verde care oferă poteci pitorești și aduceți încălțăminte confortabilă pentru a explora.",
+            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Roger Lagrot",
+            "hu": "Plage Roger Lagrot",
+            "ro": "Plage Roger Lagrot",
+            "en": "Plage Roger Lagrot"
+          },
+          "coords": [
+            4.384196,
+            46.675229
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
+            "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
+            "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre nautique",
+            "hu": "Centre nautique",
+            "ro": "Centre nautique",
+            "en": "Centre nautique"
+          },
+          "coords": [
+            4.384749,
+            46.676362
+          ],
+          "category": "family",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen unterhaltsamen Nachmittag in diesem modernen Schwimmzentrum, und überprüfen Sie den Zeitplan für die reservierten Bahnen.",
+            "hu": "Élvezze a vidám délutánt ebben a több medencével rendelkező modern vízi központban, és ellenőrizze a napi beosztást a sávos úszási idők miatt.",
+            "ro": "Bucurați-vă de o după-amiază plină de distracție la acest centru acvatic modern și verificați programul zilnic pentru orele de înot pe culoare.",
+            "en": "Enjoy a fun-filled afternoon at this modern aquatic center featuring multiple pools, and check the daily schedule for dedicated lane swimming times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
+        "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
+        "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lavoir des Chavannes",
+            "hu": "Lavoir des Chavannes",
+            "ro": "Lavoir des Chavannes",
+            "en": "Lavoir des Chavannes"
+          },
+          "coords": [
+            4.3436,
+            46.6604
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese monumentale Kohleaufbereitungsanlage, die an das Bergbauerbe der Region erinnert und im Morgenlicht am besten fotografiert wird.",
+            "hu": "Fedezze fel ezt a monumentális szénelőkészítő üzemet, amely a régió bányászati örökségére emlékeztet, és reggeli fényben a legszebb fotózni.",
+            "ro": "Descoperiți această fabrică monumentală de preparare a cărbunelui, un memento al patrimoniului minier, care se fotografiază cel mai bine dimineața.",
+            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Montceau-les-Mines",
+            "hu": "Mairie de Montceau-les-Mines",
+            "ro": "Mairie de Montceau-les-Mines",
+            "en": "Mairie de Montceau-les-Mines"
+          },
+          "coords": [
+            4.362968,
+            46.674115
+          ],
+          "category": "landmark",
+          "arrive_at": "10:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
+            "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame de l'Assomption",
+            "hu": "Church of Notre-Dame de l'Assomption",
+            "ro": "Church of Notre-Dame de l'Assomption",
+            "en": "Church of Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            4.364873,
+            46.675248
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
+            "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
+            "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Maugrand",
+            "hu": "Parc Maugrand",
+            "ro": "Parc Maugrand",
+            "en": "Parc Maugrand"
+          },
+          "coords": [
+            4.353937,
+            46.680513
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang durch diese riesige Grünfläche mit malerischen Wegen, und bringen Sie bequeme Schuhe für die Erkundung mit.",
+            "hu": "Tegyen egy frissítő sétát ezen a festői ösvényeket kínáló hatalmas zöldterületen, és hozzon kényelmes cipőt a kiterjedt útvonalak felfedezéséhez.",
+            "ro": "Faceți o plimbare revigorantă prin acest vast spațiu verde care oferă poteci pitorești și aduceți încălțăminte confortabilă pentru a explora.",
+            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Roger Lagrot",
+            "hu": "Plage Roger Lagrot",
+            "ro": "Plage Roger Lagrot",
+            "en": "Plage Roger Lagrot"
+          },
+          "coords": [
+            4.384196,
+            46.675229
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
+            "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
+            "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
+        "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
+        "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église du Magny",
+            "hu": "Église du Magny",
+            "ro": "Église du Magny",
+            "en": "Église du Magny"
+          },
+          "coords": [
+            4.330344,
+            46.666941
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige lokale Geschichte dieser malerischen Pfarrkirche und spazieren Sie durch die ruhigen umliegenden Wohnstraßen.",
+            "hu": "Csodálja meg az ehhez a festői plébániatemplomhoz kötődő egyedi helyi történelmet, és szánjon egy percet a csendes lakóutcák bejárására is.",
+            "ro": "Admirați istoria locală unică atașată acestei biserici parohiale pitorești și acordați-vă un moment pentru a vă plimba pe străzile rezidențiale.",
+            "en": "Marvel at the unique local history attached to this quaint parish church, and take a moment to walk around the quiet surrounding residential streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir des Chavannes",
+            "hu": "Lavoir des Chavannes",
+            "ro": "Lavoir des Chavannes",
+            "en": "Lavoir des Chavannes"
+          },
+          "coords": [
+            4.3436,
+            46.6604
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese monumentale Kohleaufbereitungsanlage, die an das Bergbauerbe der Region erinnert und im Morgenlicht am besten fotografiert wird.",
+            "hu": "Fedezze fel ezt a monumentális szénelőkészítő üzemet, amely a régió bányászati örökségére emlékeztet, és reggeli fényben a legszebb fotózni.",
+            "ro": "Descoperiți această fabrică monumentală de preparare a cărbunelui, un memento al patrimoniului minier, care se fotografiază cel mai bine dimineața.",
+            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Église Saint-Joseph",
+            "ro": "Église Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            4.346007,
+            46.688204
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beeindruckende Gotteshaus, das für seine markanten Linien bekannt ist, und achten Sie auf die aufwendigen Details der Fassade.",
+            "hu": "Látogasson el ebbe az építészeti vonalairól ismert lenyűgöző imahelyre, és feltétlenül figyelje meg a grandiózus homlokzat bonyolult részleteit.",
+            "ro": "Vizitați acest lăcaș de cult impresionant, remarcat pentru liniile sale arhitecturale și asigurați-vă că observați detaliile fațadei sale grandioase.",
+            "en": "Visit this impressive place of worship noted for its striking architectural lines, making sure to observe the intricate details of its grand facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Montceau-les-Mines",
+            "hu": "Mairie de Montceau-les-Mines",
+            "ro": "Mairie de Montceau-les-Mines",
+            "en": "Mairie de Montceau-les-Mines"
+          },
+          "coords": [
+            4.362968,
+            46.674115
+          ],
+          "category": "landmark",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
+            "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Notre-Dame de l'Assomption",
+            "hu": "Church of Notre-Dame de l'Assomption",
+            "ro": "Church of Notre-Dame de l'Assomption",
+            "en": "Church of Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            4.364873,
+            46.675248
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
+            "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
+            "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Bellevue",
+            "hu": "Église Notre-Dame de Bellevue",
+            "ro": "Église Notre-Dame de Bellevue",
+            "en": "Église Notre-Dame de Bellevue"
+          },
+          "coords": [
+            4.377006,
+            46.666611
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses friedliche Heiligtum, das etwas erhöht vom Stadtzentrum liegt und einen perfekten Ort für ruhige Reflexionen bietet.",
+            "hu": "Lépjen be ebbe a városközponttól kissé magasabban fekvő, békés szentélybe, amely tökéletes helyet kínál a csendes elmélkedéshez az indulás előtt.",
+            "ro": "Pășiți în acest sanctuar pașnic, situat ușor ridicat față de centrul orașului, oferind un loc perfect pentru o reflecție liniștită înainte de plecare.",
+            "en": "Step inside this peaceful sanctuary located slightly elevated from the town center, providing a perfect spot for quiet reflection before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Roger Lagrot",
+            "hu": "Plage Roger Lagrot",
+            "ro": "Plage Roger Lagrot",
+            "en": "Plage Roger Lagrot"
+          },
+          "coords": [
+            4.384196,
+            46.675229
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
+            "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
+            "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
+        "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
+        "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+      }
+    }
+  }
+}

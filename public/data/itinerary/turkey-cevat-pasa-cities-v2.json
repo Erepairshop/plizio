@@ -1,0 +1,543 @@
+{
+  "city_id": "turkey-cevat-pasa-cities-v2",
+  "anchor": {
+    "name": "Cevat Paşa",
+    "coords": [
+      26.41156,
+      40.15421
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 1.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "The Clock Tower",
+            "hu": "The Clock Tower",
+            "ro": "The Clock Tower",
+            "en": "The Clock Tower"
+          },
+          "coords": [
+            26.402064,
+            40.149664
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Steinmetzkunst dieses Wahrzeichens und kommen Sie früh, um ungestört Fotos zu machen, bevor Sie die Cafés erkunden.",
+            "hu": "Csodálja meg ezen ikonikus nevezetesség oszmán kőfaragásait, és érkezzen korán, hogy tömeg nélkül fotózhasson, mielőtt beülne egy közeli kávézóba.",
+            "ro": "Admirați sculpturile otomane ale acestui reper emblematic și sosiți devreme pentru a face poze fără aglomerație înainte de a explora cafenelele.",
+            "en": "Admire the intricate Ottoman stonework of this iconic landmark and arrive early to snap photos without the crowds before exploring the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Yalı Mosque",
+            "hu": "Yalı Mosque",
+            "ro": "Yalı Mosque",
+            "en": "Yalı Mosque"
+          },
+          "coords": [
+            26.400568,
+            40.148624
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser Moschee am Wasser und denken Sie daran, sich bescheiden zu kleiden und am Eingang die Schuhe auszuziehen.",
+            "hu": "Élvezze e vízparti mecset békés hangulatát és gyönyörű csempéit, ne feledjen szerényen öltözködni és levenni a cipőjét a bejáratnál tett látogatáskor.",
+            "ro": "Apreciați atmosfera liniștită a acestei moschei de pe malul apei, amintindu-vă să vă îmbrăcați decent și să vă descălțați la intrarea principală.",
+            "en": "Appreciate the peaceful atmosphere and beautiful tile work of this waterfront mosque, remembering to dress modestly and slip off your shoes at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Naval Museum",
+            "hu": "Naval Museum",
+            "ro": "Naval Museum",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            26.399301,
+            40.14771
+          ],
+          "category": "museum",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche maritime Geschichte der Türkei durch faszinierende Exponate und besuchen Sie den Außenbereich mit historischen Kanonen.",
+            "hu": "Fedezze fel Törökország gazdag tengerészeti történelmét, és feltétlenül nézze meg a szabadtéri parkot, ahol valódi történelmi ágyúkat is kiállítottak.",
+            "ro": "Explorați bogata istorie maritimă a Turciei și asigurați-vă că verificați zona parcului în aer liber, unde sunt expuse tunuri istorice autentice.",
+            "en": "Explore Turkey's rich maritime history through fascinating exhibits, and be sure to check the outdoor park area where actual historical cannons are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Çimenlik Fortress",
+            "hu": "Çimenlik Fortress",
+            "ro": "Çimenlik Fortress",
+            "en": "Çimenlik Fortress"
+          },
+          "coords": [
+            26.399087,
+            40.146374
+          ],
+          "category": "castle",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die mittelalterlichen Mauern für einen Panoramablick auf die Dardanellen und bringen Sie Sonnencreme mit, da es hier wenig Schatten gibt.",
+            "hu": "Sétáljon végig a középkori falakon a Dardanellákra nyíló panorámáért, és hozzon magával naptejet, mivel a megemelt sétányokon nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă pe zidurile medievale pentru vederi panoramice ale Dardanelelor și aduceți cremă de soare, deoarece aleile înalte au foarte puțină umbră.",
+            "en": "Walk along the sturdy medieval walls for panoramic views of the Dardanelles, bringing a hat and sunscreen as the elevated walkways have very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Nusret",
+            "hu": "Nusret",
+            "ro": "Nusret",
+            "en": "Nusret"
+          },
+          "coords": [
+            26.398394,
+            40.147284
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie an Bord der Nachbildung dieses berühmten Minenlegers, um seine Kriegsrolle zu verstehen, und achten Sie auf die schmalen, steilen Treppen.",
+            "hu": "Lépjen a híres aknarakó pontos másolatának fedélzetére, és ügyeljen a lépéseire a keskeny, meglehetősen meredek fém lépcsőkön való közlekedéskor.",
+            "ro": "Urcați la bordul acestei replici a faimosului puitor de mine și aveți mare grijă la pași când navigați pe scările metalice înguste și foarte abrupte.",
+            "en": "Step aboard this exact replica of the famous minelayer to understand its crucial wartime role, watching your step on the narrow and steep metal staircases."
+          }
+        },
+        {
+          "name": {
+            "de": "Fatih Mosque",
+            "hu": "Fatih Mosque",
+            "ro": "Fatih Mosque",
+            "en": "Fatih Mosque"
+          },
+          "coords": [
+            26.401239,
+            40.146599
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassischen architektonischen Linien dieses historischen Gotteshauses und sprechen Sie leise, um die gläubige Gemeinde nicht zu stören.",
+            "hu": "Figyelje meg e történelmi imahely klasszikus építészeti vonalait és udvarát, miközben halkan beszél, hogy tiszteletben tartsa az aktív gyülekezeteket.",
+            "ro": "Observați liniile arhitecturale clasice ale acestui lăcaș de cult istoric, păstrând vocea scăzută pentru a respecta congregațiile mereu prezente acolo.",
+            "en": "Observe the classic architectural lines and serene courtyard of this historic place of worship, keeping your voice low to respect the active congregations."
+          }
+        },
+        {
+          "name": {
+            "de": "AYNALI ÇARŞI",
+            "hu": "AYNALI ÇARŞI",
+            "ro": "AYNALI ÇARŞI",
+            "en": "AYNALI ÇARŞI"
+          },
+          "coords": [
+            26.40372,
+            40.146372
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Basar, um einzigartige Keramik zu finden, und zögern Sie nicht, höflich um die besten Souvenirpreise zu feilschen.",
+            "hu": "Sétáljon végig ezen a híres történelmi bazáron egyedi kerámiákért, és ne habozzon udvariasan alkudozni a legjobb árakért az ajándéktárgyak vásárlásakor.",
+            "ro": "Plimbați-vă prin acest faimos bazar istoric pentru ceramică unică și nu ezitați să negociați politicos pentru a obține cele mai bune prețuri la suveniruri.",
+            "en": "Wander through this famous historic bazaar to find unique ceramics and local textiles, and do not hesitate to bargain politely for the best souvenir prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen unseren Spaziergang am historischen Uhrenturm im Herzen von Çanakkale, bevor wir die elegante Yalı-Moschee in der Nähe besuchen.\nMittag: Wenn die Sonne höher steht, tauchen wir im Marinemuseum in die Geschichte ein und bewundern danach die Mauern der imposanten Festung Çimenlik.\nNachmittag: Ein kurzer Spaziergang bringt uns zum Nachbau des Minenlegers Nusret, gefolgt von einem Moment der stillen Reflexion in der Fatih-Moschee.\nAbend: Unser Tag endet mit einem Bummel durch den belebten Markt Aynalı Çarşı, wo Sie lokale Souvenirs kaufen und die abendliche Energie genießen können.",
+        "hu": "Reggel: Sétánkat a történelmi Óratoronynál, Çanakkale szívében kezdjük, magunkba szívva a hangulatot, mielőtt meglátogatjuk az elegáns Yalı mecsetet.\nDél: Ahogy a nap magasabbra hág, a Tengerészeti Múzeumban elmerülünk a tengeri történelemben, majd megcsodáljuk az impozáns Çimenlik erőd falait.\nDélután: Egy rövid séta elvezet a Nusret aknarakó hajó másolatához, amelyet egy csendes elmélyülés követ a gyönyörű Fatih mecset megnyugtató falai között.\nEste: Napunkat az Aynalı Çarşı nyüzsgő piacán zárjuk, ahol helyi ajándéktárgyakat vásárolhat, és élvezheti a város lüktető esti energiáját.",
+        "ro": "Dimineață: Ne începem plimbarea la istoricul Turn cu Ceas, inima orașului Çanakkale, înainte de a vizita eleganta Moschee Yalı din imediata apropiere.\nPrânz: Pe măsură ce soarele urcă, ne scufundăm în istoria maritimă la Muzeul Naval, apoi admirăm zidurile masive ale impunătoarei Fortărețe Çimenlik.\nDupă-amiază: O scurtă plimbare ne duce la replica navei Nusret, urmată de un moment de liniște și reflecție profundă în frumoasa Moschee Fatih.\nSeară: Ziua noastră se încheie cu o plimbare prin bazarul istoric Aynalı Çarşı, unde puteți cumpăra suveniruri și savura energia vibrantă a serii.",
+        "en": "Morning: We begin our stroll at the historic Clock Tower, the heart of Çanakkale, taking in the lively atmosphere before visiting the elegant Yalı Mosque nearby.\nMidday: As the sun climbs, we dive into maritime history at the Naval Museum, exploring fascinating artifacts before stepping into the imposing Çimenlik Fortress to admire its defensive walls.\nAfternoon: A short walk brings us to the Nusret minelayer ship replica, offering a poignant reminder of past conflicts, followed by a moment of quiet reflection at the beautiful Fatih Mosque.\nEvening: Our day concludes with a stroll through the bustling Aynalı Çarşı market, where you can pick up local souvenirs and savor the vibrant evening energy of the city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Seramik Müzesi",
+            "hu": "Seramik Müzesi",
+            "ro": "Seramik Müzesi",
+            "en": "Seramik Müzesi"
+          },
+          "coords": [
+            26.412335,
+            40.157046
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Entwicklung lokaler Töpfertraditionen durch wunderschöne Exponate und nutzen Sie die hervorragende Beleuchtung für fantastische Fotos.",
+            "hu": "Fedezze fel a helyi fazekashagyományok fejlődését a gyönyörűen összeállított kiállításokon, és használja ki a kiváló megvilágítást a benti fotózáshoz.",
+            "ro": "Descoperiți evoluția tradițiilor locale de olărit prin exponate frumoase și profitați de iluminatul excelent pentru a face fotografii uimitoare în interior.",
+            "en": "Discover the evolution of local pottery traditions through beautifully curated exhibits, and take advantage of the excellent lighting for indoor photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Çanakkake Wars Research Center and Library",
+            "hu": "Çanakkake Wars Research Center and Library",
+            "ro": "Çanakkake Wars Research Center and Library",
+            "en": "Çanakkake Wars Research Center and Library"
+          },
+          "coords": [
+            26.406763,
+            40.152328
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in detaillierte Archive über den Gallipoli-Feldzug ein und planen Sie zusätzliche Zeit ein, wenn Sie die persönlichen Briefe lesen möchten.",
+            "hu": "Merüljön el a gallipoli hadjáratot bemutató részletes archívumokban, és szánjon rá extra időt, ha el szeretné olvasni a katonák személyes leveleit is.",
+            "ro": "Pătrundeți în arhivele detaliate care acoperă campania Gallipoli, alocând timp suplimentar dacă doriți să citiți scrisorile personale foarte emoționante.",
+            "en": "Dive deep into detailed archives and interactive displays covering the Gallipoli campaign, allocating extra time if you wish to read the personal letters."
+          }
+        },
+        {
+          "name": {
+            "de": "The Clock Tower",
+            "hu": "The Clock Tower",
+            "ro": "The Clock Tower",
+            "en": "The Clock Tower"
+          },
+          "coords": [
+            26.402064,
+            40.149664
+          ],
+          "category": "landmark",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Steinmetzkunst dieses Wahrzeichens und kommen Sie früh, um ungestört Fotos zu machen, bevor Sie die Cafés erkunden.",
+            "hu": "Csodálja meg ezen ikonikus nevezetesség oszmán kőfaragásait, és érkezzen korán, hogy tömeg nélkül fotózhasson, mielőtt beülne egy közeli kávézóba.",
+            "ro": "Admirați sculpturile otomane ale acestui reper emblematic și sosiți devreme pentru a face poze fără aglomerație înainte de a explora cafenelele.",
+            "en": "Admire the intricate Ottoman stonework of this iconic landmark and arrive early to snap photos without the crowds before exploring the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Naval Museum",
+            "hu": "Naval Museum",
+            "ro": "Naval Museum",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            26.399301,
+            40.14771
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche maritime Geschichte der Türkei durch faszinierende Exponate und besuchen Sie den Außenbereich mit historischen Kanonen.",
+            "hu": "Fedezze fel Törökország gazdag tengerészeti történelmét, és feltétlenül nézze meg a szabadtéri parkot, ahol valódi történelmi ágyúkat is kiállítottak.",
+            "ro": "Explorați bogata istorie maritimă a Turciei și asigurați-vă că verificați zona parcului în aer liber, unde sunt expuse tunuri istorice autentice.",
+            "en": "Explore Turkey's rich maritime history through fascinating exhibits, and be sure to check the outdoor park area where actual historical cannons are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Çimenlik Fortress",
+            "hu": "Çimenlik Fortress",
+            "ro": "Çimenlik Fortress",
+            "en": "Çimenlik Fortress"
+          },
+          "coords": [
+            26.399087,
+            40.146374
+          ],
+          "category": "castle",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die mittelalterlichen Mauern für einen Panoramablick auf die Dardanellen und bringen Sie Sonnencreme mit, da es hier wenig Schatten gibt.",
+            "hu": "Sétáljon végig a középkori falakon a Dardanellákra nyíló panorámáért, és hozzon magával naptejet, mivel a megemelt sétányokon nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă pe zidurile medievale pentru vederi panoramice ale Dardanelelor și aduceți cremă de soare, deoarece aleile înalte au foarte puțină umbră.",
+            "en": "Walk along the sturdy medieval walls for panoramic views of the Dardanelles, bringing a hat and sunscreen as the elevated walkways have very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Osnabrück Parkı",
+            "hu": "Osnabrück Parkı",
+            "ro": "Osnabrück Parkı",
+            "en": "Osnabrück Parkı"
+          },
+          "coords": [
+            26.402592,
+            40.143173
+          ],
+          "category": "park",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause auf den schattigen Bänken dieser gepflegten Grünanlage und holen Sie sich einen frischen Simit von einem Straßenverkäufer.",
+            "hu": "Tartson egy pihentető szünetet e jól gondozott városi zöldterület árnyékos padjain, és vegyen egy friss simitet a közeli utcai árusoktól uzsonnára.",
+            "ro": "Faceți o pauză relaxantă pe băncile umbrite ale acestui spațiu verde și cumpărați un simit proaspăt de la un vânzător ambulant din apropiere pentru o gustare.",
+            "en": "Take a relaxing break on the shaded benches of this well-kept urban green space, grabbing a fresh simit from a nearby street vendor to enjoy as a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Mega Beach",
+            "hu": "Mega Beach",
+            "ro": "Mega Beach",
+            "en": "Mega Beach"
+          },
+          "coords": [
+            26.400257,
+            40.140359
+          ],
+          "category": "recreational",
+          "arrive_at": "17:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem beliebten Küstenort und bringen Sie ein Handtuch mit, wenn Sie Ihre Zehen ins klare Wasser tauchen.",
+            "hu": "Élvezze a frissítő tengeri szellőt és a puha homokot ezen a népszerű tengerparton, és hozzon törölközőt, ha szeretné belemártani a lábát a tiszta vízbe.",
+            "ro": "Bucurați-vă de briza mării pe acest loc de coastă popular, aducând un prosop cu uscare rapidă dacă intenționați să vă scufundați picioarele în apa limpede.",
+            "en": "Enjoy the refreshing sea breeze and soft sands of this popular coastal spot, bringing a quick-dry towel if you plan to dip your toes in the clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihr Radabenteuer im faszinierenden Keramikmuseum und lernen Sie die Kunstgeschichte kennen, bevor Sie zum Forschungszentrum radeln.\nMittag: Die Route führt uns zum ikonischen Uhrenturm, der sich perfekt für ein schnelles Foto eignet, bevor wir zum Marinemuseum weiterfahren.\nNachmittag: Nachdem wir unsere Räder an der Festung Çimenlik angeschlossen haben, genießen wir eine gemütliche Fahrt in den Schatten des Osnabrück-Parks.\nAbend: Wir beenden unsere Küstenfahrt am Mega Beach, wo die Meeresbrise und der goldene Sonnenuntergang die perfekte Kulisse für den aktiven Tag bilden.",
+        "hu": "Reggel: Kezdje kerékpáros kalandját a lenyűgöző Kerámia Múzeumban, majd tekerjen át a Çanakkale Háborús Kutatóközpontba a további felfedezésekért.\nDél: Az útvonal az ikonikus Óratoronyhoz vezet egy gyors fotó erejéig, mielőtt zökkenőmentesen átgurulnánk a Tengerészeti Múzeum izgalmas kiállításaihoz.\nDélután: Miután lezártuk kerékpárjainkat a Çimenlik erődnél, egy kényelmes tekeréssel eljutunk az Osnabrück Parkba, hogy a fák hűs árnyékában pihenjünk.\nEste: Tengerparti túránkat a Mega Beachen fejezzük be, ahol a tengeri szellő és az aranyló naplemente tökéletes hátteret ad ennek az aktív napnak.",
+        "ro": "Dimineață: Începeți aventura cu bicicleta la fascinantul Muzeu al Ceramicii, învățând despre artă înainte de a pedala către Centrul de Cercetare.\nPrânz: Traseul ne duce la iconicul Turn cu Ceas pentru o fotografie rapidă, înainte de a ne îndrepta spre Muzeul Naval pentru a descoperi exponatele sale.\nDupă-amiază: După ce parcăm bicicletele la Fortăreața Çimenlik, ne bucurăm de o plimbare relaxantă până în Parcul Osnabrück pentru a ne odihni la umbră.\nSeară: Ne încheiem plimbarea la Mega Beach, unde briza mării și apusul auriu creează fundalul perfect pentru a reflecta asupra acestei zile active.",
+        "en": "Morning: Kick off your cycling adventure at the fascinating Ceramics Museum, learning about the region's artistic heritage before pedaling to the Çanakkale Wars Research Center.\nMidday: The route takes us to the iconic Clock Tower plaza, perfect for a quick photo, before we seamlessly roll over to the Naval Museum to discover its extensive maritime exhibits.\nAfternoon: After locking our bikes at the Çimenlik Fortress for a historic detour, we enjoy a leisurely ride to Osnabrück Park to relax under the shade of its mature trees.\nEvening: We wrap up our coastal ride at Mega Beach, where the sea breeze and golden sunset create the perfect backdrop for reflecting on our active day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anadolu Hamidiye Tabyası",
+            "hu": "Anadolu Hamidiye Tabyası",
+            "ro": "Anadolu Hamidiye Tabyası",
+            "en": "Anadolu Hamidiye Tabyası"
+          },
+          "coords": [
+            26.402434,
+            40.138326
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese weitläufige Festung mit ihren massiven Bunkern und tragen Sie bequeme Wanderschuhe, um das ausgedehnte grasbewachsene Gelände zu begehen.",
+            "hu": "Fedezze fel ezt a kiterjedt erődítményt a hatalmas védelmi bunkerekkel, és viseljen kényelmes sétacipőt a nagy füves területek kényelmes bejárásához.",
+            "ro": "Explorați această fortificație extinsă cu buncărele sale defensive masive, purtând pantofi confortabili pentru a naviga prin terenurile înierbate mari.",
+            "en": "Explore this sprawling restored fortification with its massive defensive bunkers, wearing comfortable walking shoes to navigate the extensive grassy grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Osnabrück Parkı",
+            "hu": "Osnabrück Parkı",
+            "ro": "Osnabrück Parkı",
+            "en": "Osnabrück Parkı"
+          },
+          "coords": [
+            26.402592,
+            40.143173
+          ],
+          "category": "park",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause auf den schattigen Bänken dieser gepflegten Grünanlage und holen Sie sich einen frischen Simit von einem Straßenverkäufer.",
+            "hu": "Tartson egy pihentető szünetet e jól gondozott városi zöldterület árnyékos padjain, és vegyen egy friss simitet a közeli utcai árusoktól uzsonnára.",
+            "ro": "Faceți o pauză relaxantă pe băncile umbrite ale acestui spațiu verde și cumpărați un simit proaspăt de la un vânzător ambulant din apropiere pentru o gustare.",
+            "en": "Take a relaxing break on the shaded benches of this well-kept urban green space, grabbing a fresh simit from a nearby street vendor to enjoy as a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "AYNALI ÇARŞI",
+            "hu": "AYNALI ÇARŞI",
+            "ro": "AYNALI ÇARŞI",
+            "en": "AYNALI ÇARŞI"
+          },
+          "coords": [
+            26.40372,
+            40.146372
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Basar, um einzigartige Keramik zu finden, und zögern Sie nicht, höflich um die besten Souvenirpreise zu feilschen.",
+            "hu": "Sétáljon végig ezen a híres történelmi bazáron egyedi kerámiákért, és ne habozzon udvariasan alkudozni a legjobb árakért az ajándéktárgyak vásárlásakor.",
+            "ro": "Plimbați-vă prin acest faimos bazar istoric pentru ceramică unică și nu ezitați să negociați politicos pentru a obține cele mai bune prețuri la suveniruri.",
+            "en": "Wander through this famous historic bazaar to find unique ceramics and local textiles, and do not hesitate to bargain politely for the best souvenir prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Fatih Mosque",
+            "hu": "Fatih Mosque",
+            "ro": "Fatih Mosque",
+            "en": "Fatih Mosque"
+          },
+          "coords": [
+            26.401239,
+            40.146599
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassischen architektonischen Linien dieses historischen Gotteshauses und sprechen Sie leise, um die gläubige Gemeinde nicht zu stören.",
+            "hu": "Figyelje meg e történelmi imahely klasszikus építészeti vonalait és udvarát, miközben halkan beszél, hogy tiszteletben tartsa az aktív gyülekezeteket.",
+            "ro": "Observați liniile arhitecturale clasice ale acestui lăcaș de cult istoric, păstrând vocea scăzută pentru a respecta congregațiile mereu prezente acolo.",
+            "en": "Observe the classic architectural lines and serene courtyard of this historic place of worship, keeping your voice low to respect the active congregations."
+          }
+        },
+        {
+          "name": {
+            "de": "Çimenlik Fortress",
+            "hu": "Çimenlik Fortress",
+            "ro": "Çimenlik Fortress",
+            "en": "Çimenlik Fortress"
+          },
+          "coords": [
+            26.399087,
+            40.146374
+          ],
+          "category": "castle",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die mittelalterlichen Mauern für einen Panoramablick auf die Dardanellen und bringen Sie Sonnencreme mit, da es hier wenig Schatten gibt.",
+            "hu": "Sétáljon végig a középkori falakon a Dardanellákra nyíló panorámáért, és hozzon magával naptejet, mivel a megemelt sétányokon nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă pe zidurile medievale pentru vederi panoramice ale Dardanelelor și aduceți cremă de soare, deoarece aleile înalte au foarte puțină umbră.",
+            "en": "Walk along the sturdy medieval walls for panoramic views of the Dardanelles, bringing a hat and sunscreen as the elevated walkways have very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Çanakkake Wars Research Center and Library",
+            "hu": "Çanakkake Wars Research Center and Library",
+            "ro": "Çanakkake Wars Research Center and Library",
+            "en": "Çanakkake Wars Research Center and Library"
+          },
+          "coords": [
+            26.406763,
+            40.152328
+          ],
+          "category": "museum",
+          "arrive_at": "15:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in detaillierte Archive über den Gallipoli-Feldzug ein und planen Sie zusätzliche Zeit ein, wenn Sie die persönlichen Briefe lesen möchten.",
+            "hu": "Merüljön el a gallipoli hadjáratot bemutató részletes archívumokban, és szánjon rá extra időt, ha el szeretné olvasni a katonák személyes leveleit is.",
+            "ro": "Pătrundeți în arhivele detaliate care acoperă campania Gallipoli, alocând timp suplimentar dacă doriți să citiți scrisorile personale foarte emoționante.",
+            "en": "Dive deep into detailed archives and interactive displays covering the Gallipoli campaign, allocating extra time if you wish to read the personal letters."
+          }
+        },
+        {
+          "name": {
+            "de": "Seramik Müzesi",
+            "hu": "Seramik Müzesi",
+            "ro": "Seramik Müzesi",
+            "en": "Seramik Müzesi"
+          },
+          "coords": [
+            26.412335,
+            40.157046
+          ],
+          "category": "museum",
+          "arrive_at": "16:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Entwicklung lokaler Töpfertraditionen durch wunderschöne Exponate und nutzen Sie die hervorragende Beleuchtung für fantastische Fotos.",
+            "hu": "Fedezze fel a helyi fazekashagyományok fejlődését a gyönyörűen összeállított kiállításokon, és használja ki a kiváló megvilágítást a benti fotózáshoz.",
+            "ro": "Descoperiți evoluția tradițiilor locale de olărit prin exponate frumoase și profitați de iluminatul excelent pentru a face fotografii uimitoare în interior.",
+            "en": "Discover the evolution of local pottery traditions through beautifully curated exhibits, and take advantage of the excellent lighting for indoor photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Autotour an der beeindruckenden Festung Anadolu Hamidiye, einem weitläufigen Freilichtmuseum mit guten Parkmöglichkeiten.\nMittag: Wir fahren näher ans Zentrum, parken in der Nähe des Osnabrück-Parks und spazieren zum Aynalı Çarşı Markt, wo die lokale Kultur lebendig wird.\nNachmittag: Nach der Bewunderung der Fatih-Moschee fahren wir ans Wasser, um die massiven Steinmauern und historischen Kanonen der Festung zu erkunden.\nAbend: Unsere Route endet mit lehrreichen Besuchen im modernen Forschungszentrum und dem Keramikmuseum, die für einen entspannten Abschluss ideal sind.",
+        "hu": "Reggel: Kezdje autós túráját a lenyűgöző Anadolu Hamidiye Tabyası kiterjedt szabadtéri múzeumában, ahol bőséges és kényelmes parkolási lehetőség várja.\nDél: Közelebb vezetünk a központhoz, az Osnabrück Park közelében parkolunk le, majd átsétálunk az Aynalı Çarşı piacra, ahol megelevenedik a helyi kultúra.\nDélután: A Fatih mecset megcsodálása után a vízpart felé vesszük az irányt, hogy felfedezzük a Çimenlik erőd masszív kőfalait és történelmi ágyúit.\nEste: Utunk a modern Çanakkale Háborús Kutatóközpont és a Kerámia Múzeum oktatási célú látogatásával zárul, amely autóval is könnyen megközelíthető.",
+        "ro": "Dimineață: Începeți turul cu mașina la impresionanta Anadolu Hamidiye, un muzeu extins în aer liber care oferă și o parcare foarte convenabilă.\nPrânz: Conducem mai aproape de centru, parcând lângă Parcul Osnabrück pentru o scurtă plimbare până la piața Aynalı Çarşı, unde cultura locală prinde viață.\nDupă-amiază: După ce admirăm Moscheea Fatih, ne îndreptăm spre malul apei pentru a explora zidurile masive de piatră și tunurile de la Fortăreața Çimenlik.\nSeară: Traseul nostru se încheie cu vizite educative la modernul Centru de Cercetare și Muzeul Ceramicii, ușor accesibile cu mașina pentru un final relaxant.",
+        "en": "Morning: Start your driving tour at the impressive Anadolu Hamidiye Tabyası, an expansive open-air museum detailing coastal defense history with plenty of convenient parking.\nMidday: We drive closer to the center, parking near Osnabrück Park for a short walk to the vibrant Aynalı Çarşı market, where local culture and bustling trade come alive.\nAfternoon: After admiring the intricate details of Fatih Mosque, we head to the waterfront to explore the massive stone walls and historic cannons of Çimenlik Fortress.\nEvening: Our route concludes with educational visits to the modern Çanakkale Wars Research Center and the Ceramics Museum, easily accessible by car for a relaxed evening finish."
+      }
+    }
+  }
+}

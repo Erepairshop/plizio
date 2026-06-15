@@ -1,0 +1,497 @@
+{
+  "city_id": "poland-jastarnia-cities-v2",
+  "anchor": {
+    "name": "Jastarnia",
+    "coords": [
+      18.6775,
+      54.7012
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Latarnia morska Jastarnia",
+            "hu": "Latarnia morska Jastarnia",
+            "ro": "Latarnia morska Jastarnia",
+            "en": "Latarnia morska Jastarnia"
+          },
+          "coords": [
+            18.68162,
+            54.700266
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der rot-weiße Leuchtturm bietet ein tolles Fotomotiv und Orientierungspunkt, achten Sie jedoch darauf, ihn vormittags für das beste Licht abzulichten.",
+            "hu": "A piros-fehér világítótorony nagyszerű fotótéma és tájékozódási pont a tengerparton, de a legjobb fényekért érdemes még a délelőtti órákban felkeresni.",
+            "ro": "Farul roșu cu alb este un excelent punct de reper și subiect foto, dar asigurați-vă că îl vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "The iconic red-and-white lighthouse is a perfect photo spot and coastal landmark, though it is best visited in the morning for the most flattering light."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzeum Rybackie Pod Strzechą",
+            "hu": "Muzeum Rybackie Pod Strzechą",
+            "ro": "Muzeum Rybackie Pod Strzechą",
+            "en": "Muzeum Rybackie Pod Strzechą"
+          },
+          "coords": [
+            18.684007,
+            54.695278
+          ],
+          "category": "museum",
+          "arrive_at": "09:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über das harte Leben der Fischer in dieser historischen Hütte, wobei Sie das Netzstricken direkt bei den netten Kuratoren ausprobieren können.",
+            "hu": "Ismerje meg a halászok egykori kemény életét ebben a hagyományos kunyhóban, ahol akár a hálókötést is kipróbálhatja a barátságos kurátorok segítségével.",
+            "ro": "Descoperiți viața aspră a pescarilor în această colibă istorică, unde puteți încerca chiar și împletirea plaselor sub îndrumarea curatorilor prietenoși.",
+            "en": "Learn about the harsh life of traditional fishermen in this historic hut, and don't miss the chance to try your hand at net weaving with the friendly staff."
+          }
+        },
+        {
+          "name": {
+            "de": "Cmentarzowa Góra",
+            "hu": "Cmentarzowa Góra",
+            "ro": "Cmentarzowa Góra",
+            "en": "Cmentarzowa Góra"
+          },
+          "coords": [
+            18.685193,
+            54.695212
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieser kleine Hügel birgt faszinierende lokale Legenden der Kaschuben, tragen Sie jedoch festes Schuhwerk, da der kurze sandige Pfad etwas rutschig sein kann.",
+            "hu": "Ez a kis domb lenyűgöző kasub legendákat rejt, de viseljen zárt cipőt, mivel a rövid, homokos ösvény megközelítése esetenként kissé csúszós és nehézkes lehet.",
+            "ro": "Acest mic deal ascunde legende fascinante ale cașubilor, însă purtați încălțăminte închisă deoarece poteca scurtă și nisipoasă poate fi destul de alunecoasă.",
+            "en": "This small hill hides fascinating local Kashubian legends, but be sure to wear sturdy shoes as the short, sandy trail can be surprisingly slippery at times."
+          }
+        },
+        {
+          "name": {
+            "de": "Wejście 53",
+            "hu": "Wejście 53",
+            "ro": "Wejście 53",
+            "en": "Wejście 53"
+          },
+          "coords": [
+            18.692637,
+            54.697045
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandzugang für erholsame Spaziergänge an der Ostsee, nehmen Sie sich einen kleinen Snack mit, da es hier kaum gastronomische Angebote gibt.",
+            "hu": "Csendesebb partszakasz a Balti-tenger menti sétákhoz, de mindenképpen vigyen magával némi harapnivalót, mert itt nincsenek közvetlen étkezési lehetőségek.",
+            "ro": "O intrare mai liniștită la plajă, perfectă pentru plimbări relaxante pe țărmul Mării Baltice, însă luați cu voi o gustare, fiindcă nu prea există facilități aici.",
+            "en": "A quieter beach access perfect for peaceful strolls along the Baltic Sea, but be sure to pack a small snack since there are very few amenities in this section."
+          }
+        },
+        {
+          "name": {
+            "de": "Chata rybacka",
+            "hu": "Chata rybacka",
+            "ro": "Chata rybacka",
+            "en": "Chata rybacka"
+          },
+          "coords": [
+            18.67077,
+            54.702668
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Die authentisch erhaltene Fischerhütte aus dem 19. Jahrhundert zeigt kaschubische Traditionen; achten Sie auf die einzigartige Bauweise aus altem Schiffsholz.",
+            "hu": "A 19. századi, hitelesen megőrzött halászkunyhó a kasub hagyományokat mutatja be; figyelje meg a régi hajóroncsok fájából készült egyedi tetőszerkezetet.",
+            "ro": "Coliba de pescari din secolul al XIX-lea expune tradiții cașube autentice; remarcați acoperișul unic construit parțial din lemn recuperat de la epave vechi.",
+            "en": "This authentic 19th-century fisherman's hut showcases Kashubian traditions; pay close attention to the unique structure built partly from salvaged ship wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaża Strzeżona w wakacje",
+            "hu": "Plaża Strzeżona w wakacje",
+            "ro": "Plaża Strzeżona w wakacje",
+            "en": "Plaża Strzeżona w wakacje"
+          },
+          "coords": [
+            18.663097,
+            54.708676
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der bewachte Hauptstrand bietet feinen Sand und sicheres Schwimmen für Familien, mieten Sie sich frühzeitig einen Windschutz, da der Küstenwind oft stark weht.",
+            "hu": "Az őrzött fő strand finom homokot és biztonságos fürdőzést kínál a családoknak, de érdemes korán szélfogót bérelni, mert a parti szél gyakran megerősödik.",
+            "ro": "Plaja principală păzită oferă nisip fin și înot sigur pentru familii, însă închiriați un paravan de vânt devreme, deoarece briza de coastă este adesea puternică.",
+            "en": "The main guarded beach provides fine sand and safe swimming for families, but be sure to rent a windbreak early as the coastal breeze can get quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Spaziergang beginnt am Leuchtturm und führt uns in die maritime Geschichte der Stadt. Mittags tauchen wir im Fischereimuseum in das alte Kaschuben-Leben ein. Nachmittags spazieren wir gemütlich zum Strand für ein erfrischendes Bad. Der Tag endet entspannt an der lebhaften, bewachten Hauptküste.",
+        "hu": "Sétánk a világítótoronynál kezdődik, ahonnan a város tengerészeti történelmét fedezzük fel. Délben a halászati múzeumban merülünk el a régi kasub életmódban. Délután kényelmesen kisétálunk a tengerparthoz egy kis frissítő fürdőzésre. A nap a nyüzsgő, őrzött főstrandon ér véget pihentetően.",
+        "ro": "Plimbarea noastră începe la far și ne introduce în istoria maritimă. La prânz explorăm viața tradițională cașubă la muzeul pescuitului. După-amiaza ne îndreptăm liniștiți spre o plajă neaglomerată pentru a ne bucura de soare. Ziua se încheie relaxant pe plaja principală supravegheată a stațiunii.",
+        "en": "Our walk begins at the lighthouse, diving into the town's maritime history. At midday, we explore traditional Kashubian life at the fishing museum. The afternoon takes us for a leisurely stroll towards a quiet beach access for some sun. The day ends completely relaxed at the lively guarded main beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wejście 53",
+            "hu": "Wejście 53",
+            "ro": "Wejście 53",
+            "en": "Wejście 53"
+          },
+          "coords": [
+            18.692637,
+            54.697045
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandzugang für erholsame Spaziergänge an der Ostsee, nehmen Sie sich einen kleinen Snack mit, da es hier kaum gastronomische Angebote gibt.",
+            "hu": "Csendesebb partszakasz a Balti-tenger menti sétákhoz, de mindenképpen vigyen magával némi harapnivalót, mert itt nincsenek közvetlen étkezési lehetőségek.",
+            "ro": "O intrare mai liniștită la plajă, perfectă pentru plimbări relaxante pe țărmul Mării Baltice, însă luați cu voi o gustare, fiindcă nu prea există facilități aici.",
+            "en": "A quieter beach access perfect for peaceful strolls along the Baltic Sea, but be sure to pack a small snack since there are very few amenities in this section."
+          }
+        },
+        {
+          "name": {
+            "de": "Cmentarzowa Góra",
+            "hu": "Cmentarzowa Góra",
+            "ro": "Cmentarzowa Góra",
+            "en": "Cmentarzowa Góra"
+          },
+          "coords": [
+            18.685193,
+            54.695212
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser kleine Hügel birgt faszinierende lokale Legenden der Kaschuben, tragen Sie jedoch festes Schuhwerk, da der kurze sandige Pfad etwas rutschig sein kann.",
+            "hu": "Ez a kis domb lenyűgöző kasub legendákat rejt, de viseljen zárt cipőt, mivel a rövid, homokos ösvény megközelítése esetenként kissé csúszós és nehézkes lehet.",
+            "ro": "Acest mic deal ascunde legende fascinante ale cașubilor, însă purtați încălțăminte închisă deoarece poteca scurtă și nisipoasă poate fi destul de alunecoasă.",
+            "en": "This small hill hides fascinating local Kashubian legends, but be sure to wear sturdy shoes as the short, sandy trail can be surprisingly slippery at times."
+          }
+        },
+        {
+          "name": {
+            "de": "Latarnia morska Jastarnia",
+            "hu": "Latarnia morska Jastarnia",
+            "ro": "Latarnia morska Jastarnia",
+            "en": "Latarnia morska Jastarnia"
+          },
+          "coords": [
+            18.68162,
+            54.700266
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der rot-weiße Leuchtturm bietet ein tolles Fotomotiv und Orientierungspunkt, achten Sie jedoch darauf, ihn vormittags für das beste Licht abzulichten.",
+            "hu": "A piros-fehér világítótorony nagyszerű fotótéma és tájékozódási pont a tengerparton, de a legjobb fényekért érdemes még a délelőtti órákban felkeresni.",
+            "ro": "Farul roșu cu alb este un excelent punct de reper și subiect foto, dar asigurați-vă că îl vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "The iconic red-and-white lighthouse is a perfect photo spot and coastal landmark, though it is best visited in the morning for the most flattering light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chata rybacka",
+            "hu": "Chata rybacka",
+            "ro": "Chata rybacka",
+            "en": "Chata rybacka"
+          },
+          "coords": [
+            18.67077,
+            54.702668
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die authentisch erhaltene Fischerhütte aus dem 19. Jahrhundert zeigt kaschubische Traditionen; achten Sie auf die einzigartige Bauweise aus altem Schiffsholz.",
+            "hu": "A 19. századi, hitelesen megőrzött halászkunyhó a kasub hagyományokat mutatja be; figyelje meg a régi hajóroncsok fájából készült egyedi tetőszerkezetet.",
+            "ro": "Coliba de pescari din secolul al XIX-lea expune tradiții cașube autentice; remarcați acoperișul unic construit parțial din lemn recuperat de la epave vechi.",
+            "en": "This authentic 19th-century fisherman's hut showcases Kashubian traditions; pay close attention to the unique structure built partly from salvaged ship wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Las dębowy (dąbrówka)",
+            "hu": "Las dębowy (dąbrówka)",
+            "ro": "Las dębowy (dąbrówka)",
+            "en": "Las dębowy (dąbrówka)"
+          },
+          "coords": [
+            18.653258,
+            54.700827
+          ],
+          "category": "natural",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser seltene Eichenwald bietet herrlichen Schatten an heißen Sommertagen; bleiben Sie auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Ez a ritka tölgyerdő csodálatos árnyékot nyújt a forró nyári napokon; maradjon a kijelölt ösvényeken, hogy megóvja a partvidék érzékeny helyi ökoszisztémáját.",
+            "ro": "Această pădure rară de stejari oferă o umbră superbă în zilele toride; rămâneți pe potecile marcate pentru a proteja ecosistemul fragil al zonei de coastă.",
+            "en": "This rare oak forest provides wonderful shade on hot summer days; be sure to stay on the marked trails to help protect the delicate coastal ecosystem here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wieża widokowa (szuwary)",
+            "hu": "Wieża widokowa (szuwary)",
+            "ro": "Wieża widokowa (szuwary)",
+            "en": "Wieża widokowa (szuwary)"
+          },
+          "coords": [
+            18.649791,
+            54.706062
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Von diesem Aussichtsturm überblicken Sie die dichten Schilfgebiete der Bucht; bringen Sie ein Fernglas mit, um die vielen hier nistenden Seevögel zu beobachten.",
+            "hu": "Ebből a kilátóból áttekintheti az öböl sűrű nádasait; hozzon magával távcsövet is, hogy megfigyelhesse a környéken fészkelő számos különleges tengeri madarat.",
+            "ro": "Din acest turn de observare puteți vedea stufărișurile dese ale golfului; aduceți un binoclu pentru a observa numeroasele păsări marine care cuibăresc aici.",
+            "en": "From this observation tower you can overlook the dense reeds of the bay; bring binoculars to spot the diverse species of seabirds that nest in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Torfowe Kłyle",
+            "hu": "Torfowe Kłyle",
+            "ro": "Torfowe Kłyle",
+            "en": "Torfowe Kłyle"
+          },
+          "coords": [
+            18.646924,
+            54.707989
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Torfmoor mit faszinierender Flora direkt an der Küste; besuchen Sie es am späten Nachmittag, wenn das warme Licht die Gräser golden färbt.",
+            "hu": "Egyedülálló tőzegláp lenyűgöző növényvilággal a part mentén; látogasson el ide késő délután, amikor a meleg napfény arany színűre festi a magas füveket.",
+            "ro": "O mlaștină de turbă unică, cu o floră fascinantă lângă coastă; vizitați-o spre sfârșitul după-amiezii, când lumina caldă colorează ierburile înalte în auriu.",
+            "en": "A unique peat bog featuring fascinating flora right on the coast; visit in the late afternoon when the warm sunlight paints the tall wetland grasses in gold."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir die Halbinsel, beginnend mit einem ruhigen Strandmorgen. Mittags besichtigen wir faszinierende historische Wahrzeichen und Museen. Nachmittags radeln wir durch einen schattigen Eichenwald zur Naturbeobachtung. Abends bewundern wir das einzigartige Torfmoor im weichen Licht.",
+        "hu": "Kerékpárral fedezzük fel a félszigetet, egy csendes reggeli tengerpartozással kezdve. Délben lenyűgöző történelmi nevezetességeket és helyi múzeumokat látogatunk meg. Délután egy árnyas tölgyerdőn keresztül tekerünk a kilátóhoz. Este a különleges tőzeglápot csodáljuk meg a lágy naplementében.",
+        "ro": "Explorăm peninsula pe bicicletă, începând cu o dimineață liniștită la plajă. La prânz vizităm repere istorice și muzee fascinante. După-amiaza pedalăm printr-o pădure umbroasă de stejari pentru observarea naturii. Seara admirăm mlaștina de turbă unică în lumina caldă a apusului.",
+        "en": "We explore the peninsula by bike, starting with a peaceful beach morning. At midday, we visit fascinating historical landmarks and museums. The afternoon brings us cycling through a shady oak forest for nature observation. The evening is spent admiring the unique peat bog in the soft, warm sunset light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Widok na lądowisko w Jastarni",
+            "hu": "Widok na lądowisko w Jastarni",
+            "ro": "Widok na lądowisko w Jastarni",
+            "en": "Widok na lądowisko w Jastarni"
+          },
+          "coords": [
+            18.646873,
+            54.710347
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Freizeitflugzeuge beim Starten und Landen; ein Fernglas hilft dabei, die Details der Maschinen auf dem grünen Rasen zu erkennen.",
+            "hu": "Figyelje meg a fel- és leszálló kis szabadidős repülőgépeket; egy jó távcső segít abban, hogy a zöld gyepen várakozó gépek minden apró részletét láthassa.",
+            "ro": "Urmăriți avioanele mici de agrement decolând și aterizând; un binoclu vă va ajuta să vedeți detaliile aparatelor de zbor pe pista verde din iarbă naturală.",
+            "en": "Watch the small recreational aircraft taking off and landing; a good pair of binoculars will help you see the details of the planes on the green grass runway."
+          }
+        },
+        {
+          "name": {
+            "de": "Brzeg zatoki Puckiej",
+            "hu": "Brzeg zatoki Puckiej",
+            "ro": "Brzeg zatoki Puckiej",
+            "en": "Brzeg zatoki Puckiej"
+          },
+          "coords": [
+            18.647431,
+            54.705665
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das flache und ruhige Wasser der Puck-Bucht zieht Kitesurfer aus aller Welt an; machen Sie einen Spaziergang und schauen Sie den bunten Drachen am Himmel zu.",
+            "hu": "A Puck-öböl sekély, nyugodt vize mágnesként vonzza a kiteszörfösöket; tegyen egy sétát a parton, és gyönyörködjön a színes sárkányokban a kék égbolt alatt.",
+            "ro": "Apele puțin adânci și liniștite ale Golfului Puck atrag kitesurferii; faceți o plimbare pe mal și bucurați-vă de spectacolul zmeielor colorate de pe cer.",
+            "en": "The shallow, calm waters of the Puck Bay attract kitesurfers from everywhere; take a stroll along the shore to watch the colorful kites dancing in the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaża Strzeżona w wakacje",
+            "hu": "Plaża Strzeżona w wakacje",
+            "ro": "Plaża Strzeżona w wakacje",
+            "en": "Plaża Strzeżona w wakacje"
+          },
+          "coords": [
+            18.663097,
+            54.708676
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der bewachte Hauptstrand bietet feinen Sand und sicheres Schwimmen für Familien, mieten Sie sich frühzeitig einen Windschutz, da der Küstenwind oft stark weht.",
+            "hu": "Az őrzött fő strand finom homokot és biztonságos fürdőzést kínál a családoknak, de érdemes korán szélfogót bérelni, mert a parti szél gyakran megerősödik.",
+            "ro": "Plaja principală păzită oferă nisip fin și înot sigur pentru familii, însă închiriați un paravan de vânt devreme, deoarece briza de coastă este adesea puternică.",
+            "en": "The main guarded beach provides fine sand and safe swimming for families, but be sure to rent a windbreak early as the coastal breeze can get quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Chata rybacka",
+            "hu": "Chata rybacka",
+            "ro": "Chata rybacka",
+            "en": "Chata rybacka"
+          },
+          "coords": [
+            18.67077,
+            54.702668
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die authentisch erhaltene Fischerhütte aus dem 19. Jahrhundert zeigt kaschubische Traditionen; achten Sie auf die einzigartige Bauweise aus altem Schiffsholz.",
+            "hu": "A 19. századi, hitelesen megőrzött halászkunyhó a kasub hagyományokat mutatja be; figyelje meg a régi hajóroncsok fájából készült egyedi tetőszerkezetet.",
+            "ro": "Coliba de pescari din secolul al XIX-lea expune tradiții cașube autentice; remarcați acoperișul unic construit parțial din lemn recuperat de la epave vechi.",
+            "en": "This authentic 19th-century fisherman's hut showcases Kashubian traditions; pay close attention to the unique structure built partly from salvaged ship wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzeum Rybackie Pod Strzechą",
+            "hu": "Muzeum Rybackie Pod Strzechą",
+            "ro": "Muzeum Rybackie Pod Strzechą",
+            "en": "Muzeum Rybackie Pod Strzechą"
+          },
+          "coords": [
+            18.684007,
+            54.695278
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über das harte Leben der Fischer in dieser historischen Hütte, wobei Sie das Netzstricken direkt bei den netten Kuratoren ausprobieren können.",
+            "hu": "Ismerje meg a halászok egykori kemény életét ebben a hagyományos kunyhóban, ahol akár a hálókötést is kipróbálhatja a barátságos kurátorok segítségével.",
+            "ro": "Descoperiți viața aspră a pescarilor în această colibă istorică, unde puteți încerca chiar și împletirea plaselor sub îndrumarea curatorilor prietenoși.",
+            "en": "Learn about the harsh life of traditional fishermen in this historic hut, and don't miss the chance to try your hand at net weaving with the friendly staff."
+          }
+        },
+        {
+          "name": {
+            "de": "Latarnia morska Jastarnia",
+            "hu": "Latarnia morska Jastarnia",
+            "ro": "Latarnia morska Jastarnia",
+            "en": "Latarnia morska Jastarnia"
+          },
+          "coords": [
+            18.68162,
+            54.700266
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der rot-weiße Leuchtturm bietet ein tolles Fotomotiv und Orientierungspunkt, achten Sie jedoch darauf, ihn vormittags für das beste Licht abzulichten.",
+            "hu": "A piros-fehér világítótorony nagyszerű fotótéma és tájékozódási pont a tengerparton, de a legjobb fényekért érdemes még a délelőtti órákban felkeresni.",
+            "ro": "Farul roșu cu alb este un excelent punct de reper și subiect foto, dar asigurați-vă că îl vizitați dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "The iconic red-and-white lighthouse is a perfect photo spot and coastal landmark, though it is best visited in the morning for the most flattering light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am kleinen Flugplatz mit Blick auf die aufsteigenden Flieger. Mittags entspannen wir an der Puck-Bucht und am beliebten Hauptstrand. Nachmittags widmen wir uns in den alten Hütten ganz der kaschubischen Kultur. Der Tag endet am ikonischen Leuchtturm mit einem herrlichen Weitblick.",
+        "hu": "A napot a kis repülőtéren kezdjük, figyelve a felszálló gépeket. Délben a Puck-öbölnél és a népszerű, homokos főstrandon pihenjük ki magunkat. Délután a régi kunyhókban a hagyományos kasub kultúrának szenteljük időnket. A nap az ikonikus világítótoronynál zárul, gyönyörű panorámával.",
+        "ro": "Începem la micul aerodrom cu vedere la avioanele care decolează. La prânz ne relaxăm la Golful Puck și pe plaja principală populară. După-amiaza ne dedicăm în întregime culturii cașube în vechile colibe tradiționale. Ziua se încheie la emblematicul far, admirând priveliștile superbe spre orizont.",
+        "en": "We start at the small airfield with views of planes taking off. Midday is spent relaxing by the Puck Bay and at the town's popular main beach. In the afternoon, we dive deep into Kashubian culture at the old traditional huts. The day concludes at the iconic lighthouse with beautiful views over the horizon."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "indonesia-purwa-kerthi-cities-v2",
+  "anchor": {
+    "name": "Purwa Kerthi",
+    "coords": [
+      115.64065,
+      -8.34345
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:55",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "AMED SELFIE POINT",
+            "hu": "AMED SELFIE POINT",
+            "ro": "Punctul de selfie Amed",
+            "en": "AMED SELFIE POINT"
+          },
+          "coords": [
+            115.641579,
+            -8.333587
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Halten Sie den malerischen Küstenbogen an diesem beliebten Fotospot fest, der fantastische Meereshintergründe bietet, aber kommen Sie früh, um das grelle Licht zu meiden.",
+            "hu": "Örökítse meg a tengerpart ikonikus ívét ezen a népszerű szelfiponton, amely lenyűgöző óceáni hátteret kínál, de érkezzen korán a déli erős napfény elkerülése végett.",
+            "ro": "Surprindeți curba emblematică a coastei în acest loc popular pentru fotografii, ce oferă un fundal oceanic impresionant, dar veniți devreme pentru a evita soarele puternic.",
+            "en": "Capture the iconic coastal curve at this popular selfie spot, which offers stunning ocean backdrops, but arrive early to avoid the harsh midday glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Amed Beach Resort",
+            "hu": "Amed Beach Resort",
+            "ro": "Stațiunea Amed Beach",
+            "en": "Amed Beach Resort"
+          },
+          "coords": [
+            115.642977,
+            -8.334273
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Strand dieses Resorts, ein perfekter Ort, um Fischerboote zu beobachten, und bringen Sie Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Pihenjen a békés tengerparton ezen az üdülőhelyen, ahonnan remekül megfigyelhetők a halászhajók, és hozzon saját búvárfelszerelést a zátony felfedezéséhez.",
+            "ro": "Relaxați-vă pe plaja liniștită a acestei stațiuni, un loc perfect pentru a observa bărcile pescarilor, și aduceți-vă propriul echipament de snorkeling pentru recif.",
+            "en": "Relax by the tranquil beachfront of this resort, a perfect spot to observe local fishing boats, and bring your own snorkeling gear to explore the nearby reef safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf Amed",
+            "hu": "Amed kilátó",
+            "ro": "Punct de belvedere în Amed",
+            "en": "Viewpoint on Amed"
+          },
+          "coords": [
+            115.64653,
+            -8.338811
+          ],
+          "category": "natural",
+          "arrive_at": "10:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht und den Berg Agung in der Ferne, und denken Sie an festes Schuhwerk für den Weg nach oben.",
+            "hu": "Csodálja meg az öböl és a távolban magasodó Agung-hegy panorámáját, és ne felejtsen el masszív cipőt húzni a kissé egyenetlen, emelkedő ösvényhez.",
+            "ro": "Admirați vederea panoramică uluitoare a golfului care se contopește cu Muntele Agung în depărtare și purtați încălțăminte robustă pentru poteca accidentată.",
+            "en": "Admire the breathtaking panoramic view of the bay merging with Mount Agung in the distance, and remember to wear sturdy shoes for the slightly uneven uphill path."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramiden",
+            "hu": "Piramisok",
+            "ro": "Piramide",
+            "en": "Pyramids"
+          },
+          "coords": [
+            115.65365,
+            -8.334195
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden Unterwasserstrukturen, die als künstliches Riff dienen, weshalb das Ausleihen von Flossen sehr zu empfehlen ist.",
+            "hu": "Fedezze fel ezeket az érdekes víz alatti építményeket, amelyek mesterséges zátonyként szolgálnak, így erősen ajánlott békatalpat bérelni egy közeli boltban.",
+            "ro": "Descoperiți aceste structuri subacvatice intrigante care servesc drept recif artificial, așadar este foarte recomandat să închiriați labe de înot de la magazin.",
+            "en": "Discover these intriguing underwater structures that serve as an artificial reef teeming with marine life, so renting fins from a nearby shop is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Jukung Bali Bungalows",
+            "hu": "Jukung Bali Bungalows",
+            "ro": "Jukung Bali Bungalows",
+            "en": "Jukung Bali Bungalows"
+          },
+          "coords": [
+            115.655992,
+            -8.335148
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle balinesische Gastfreundschaft in diesen authentischen Bungalows und genießen Sie zur Entspannung ein erfrischendes Kokosnussgetränk.",
+            "hu": "Tapasztalja meg a hagyományos balinéz vendégszeretetet ezekben az autentikus bungalókban, és pihenésképpen fogyasszon el egy frissítő kókuszitalt.",
+            "ro": "Experimentați ospitalitatea tradițională balineză în aceste bungalouri autentice de la malul mării și savurați o băutură din nucă de cocos de la cafeneaua lor.",
+            "en": "Experience traditional Balinese hospitality at these authentic bungalows nestled by the sea, and enjoy a refreshing coconut drink from their seaside café while resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenaufgangspunkt",
+            "hu": "Napkelte pont",
+            "ro": "Punctul de răsărit",
+            "en": "Sunrise point"
+          },
+          "coords": [
+            115.658296,
+            -8.335997
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die goldenen Farbtöne der Sonne auf dem ruhigen Wasser, und stellen Sie Ihre Kamera auf ein Stativ für perfekte Landschaftsaufnahmen.",
+            "hu": "Gyönyörködjön a csendes vizet megvilágító nap látványos arany árnyalataiban, és rögzítse fényképezőgépét egy állványra a tökéletesen stabil képekhez.",
+            "ro": "Surprindeți nuanțele aurii spectaculoase ale soarelui reflectându-se pe apele calme și așezați-vă camera pe un mini trepied pentru fotografii perfect clare.",
+            "en": "Catch the spectacular golden hues of the early morning sun reflecting off the calm waters, and set up your camera on a mini tripod to ensure perfectly steady landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der wunderschönen Küste von Purwa Kerthi, machen Sie unvergessliche Fotos am Selfie-Punkt und spazieren Sie zu den entspannenden Strandresorts, um die Meeresbrise zu genießen.\n\nGegen Mittag wandern Sie zum Aussichtspunkt Amed, um ein weites Panorama der Bucht zu genießen, und gehen dann hinunter zu den Pyramiden, um die einzigartigen künstlichen Riffe in Ufernähe zu erkunden.\n\nVerbringen Sie Ihren Nachmittag entspannt in traditionellen Strandbungalows, genießen Sie die ruhige Atmosphäre und beobachten Sie die bunten Fischerboote, die sanft auf den Wellen schaukeln.\n\nBeenden Sie Ihren Spaziergang am Rand der Küste, suchen Sie sich ein ruhiges Plätzchen, um den sich verändernden Himmel zu beobachten, und lassen Sie einen Tag voller balinesischer Küstenrhythmen Revue passieren.",
+        "hu": "Kezdje a reggelt Purwa Kerthi gyönyörű partvidékén, készítsen emlékezetes fotókat a tengerparti szelfiponton, majd sétáljon a pihentető tengerparti üdülőhelyek felé, hogy élvezze az óceáni szellőt.\n\nAhogy közeledik a dél, túrázzon fel az Amed kilátóhoz az öböl lenyűgöző panorámájáért, majd ereszkedjen le a Piramisokhoz, hogy felfedezze a part közeli egyedi mesterséges zátonyokat.\n\nTöltse a délutánt a hagyományos tengerparti bungalók körüli pihenéssel, élvezve a nyugodt légkört és figyelve a hullámokon lágyan ringatózó színes, hagyományos halászhajókat.\n\nZárja sétáját a tengerpart szélén, találjon egy csendes helyet a változó égbolt megfigyelésére, és gondoljon vissza a napra, amelyet a békés balinéz partvidéki ritmusokban tölthetett el.",
+        "ro": "Începeți dimineața de-a lungul coastei frumoase din Purwa Kerthi, făcând fotografii memorabile la punctul de selfie înainte de a vă plimba spre stațiunile relaxante pentru a vă bucura de briza oceanului.\n\nPe măsură ce se apropie prânzul, urcați la punctul de belvedere Amed pentru o panoramă vastă a golfului, apoi îndreptați-vă spre Piramide pentru a explora recifele artificiale unice de lângă țărm.\n\nPetreceți după-amiaza relaxându-vă în jurul bungalourilor tradiționale de pe plajă, îmbrățișând atmosfera liniștită și privind bărcile de pescuit colorate legănându-se ușor pe valuri.\n\nÎncheiați-vă plimbarea ajungând la marginea coastei, găsind un loc liniștit pentru a observa cerul schimbător și reflectând la o zi petrecută perfect în ritmurile serene ale coastei balineze.",
+        "en": "Begin your morning along the beautiful coastline of Purwa Kerthi, snapping memorable photos at the seaside selfie point before strolling toward the relaxing beach resorts to soak in the ocean breeze.\n\nAs midday approaches, hike up to the Amed viewpoint for a sweeping panorama of the bay, then head down towards the Pyramids to explore the unique artificial reefs near the shore.\n\nSpend your afternoon unwinding around traditional beach bungalows, embracing the tranquil atmosphere and watching the colorful traditional fishing boats bobbing gently on the tide.\n\nConclude your walk by reaching the coastal edge, finding a quiet spot to observe the changing sky and reflecting on a day spent perfectly immersed in the serene Balinese coastal rhythms."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:15",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aussichtspunkt auf Amed",
+            "hu": "Amed kilátó",
+            "ro": "Punct de belvedere în Amed",
+            "en": "Viewpoint on Amed"
+          },
+          "coords": [
+            115.64653,
+            -8.338811
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht und den Berg Agung in der Ferne, und denken Sie an festes Schuhwerk für den Weg nach oben.",
+            "hu": "Csodálja meg az öböl és a távolban magasodó Agung-hegy panorámáját, és ne felejtsen el masszív cipőt húzni a kissé egyenetlen, emelkedő ösvényhez.",
+            "ro": "Admirați vederea panoramică uluitoare a golfului care se contopește cu Muntele Agung în depărtare și purtați încălțăminte robustă pentru poteca accidentată.",
+            "en": "Admire the breathtaking panoramic view of the bay merging with Mount Agung in the distance, and remember to wear sturdy shoes for the slightly uneven uphill path."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramiden",
+            "hu": "Piramisok",
+            "ro": "Piramide",
+            "en": "Pyramids"
+          },
+          "coords": [
+            115.65365,
+            -8.334195
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden Unterwasserstrukturen, die als künstliches Riff dienen, weshalb das Ausleihen von Flossen sehr zu empfehlen ist.",
+            "hu": "Fedezze fel ezeket az érdekes víz alatti építményeket, amelyek mesterséges zátonyként szolgálnak, így erősen ajánlott békatalpat bérelni egy közeli boltban.",
+            "ro": "Descoperiți aceste structuri subacvatice intrigante care servesc drept recif artificial, așadar este foarte recomandat să închiriați labe de înot de la magazin.",
+            "en": "Discover these intriguing underwater structures that serve as an artificial reef teeming with marine life, so renting fins from a nearby shop is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Amed-Mauer",
+            "hu": "Amed-fal",
+            "ro": "Zidul Amed",
+            "en": "Amed wall"
+          },
+          "coords": [
+            115.661729,
+            -8.337564
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie entlang dieser spektakulären Steilwand, aber achten Sie auf die wechselnden Strömungen, während Sie die bunten Riffische beobachten.",
+            "hu": "Sznorzelezzen e látványos, meredek fal mentén, de ügyeljen a változó áramlatokra, miközben a színpompás zátonyhalakat figyeli.",
+            "ro": "Faceți snorkeling de-a lungul acestui perete abrupt spectaculos, dar fiți atenți la curenții schimbători în timp ce observați peștii colorați.",
+            "en": "Snorkel along this spectacular dramatic drop-off covered in vibrant corals and sponges, but stay aware of the shifting currents while observing the colorful reef fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Bukit Keresek",
+            "hu": "Bukit Keresek",
+            "ro": "Bukit Keresek",
+            "en": "Bukit Keresek"
+          },
+          "coords": [
+            115.6601,
+            -8.3462
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen rauen Hügel für einen weiten Blick auf die schöne Ostküste, und nehmen Sie viel Wasser mit, da es wenig Schatten gibt.",
+            "hu": "Másszon fel erre a zord dombra a gyönyörű keleti partvidék lenyűgöző kilátásáért, és vigyen sok vizet, mivel alig van árnyék.",
+            "ro": "Urcați pe acest deal stâncos pentru a admira priveliștile vaste ale coastei aride și aduceți multă apă de băut, deoarece există puțină umbră pe traseu.",
+            "en": "Trek up this rugged hill to enjoy sweeping vistas of the arid yet beautiful eastern coastline, and carry plenty of drinking water since there is very little shade along the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal- und Agung-Aussichtspunkt",
+            "hu": "Völgy és Agung kilátó",
+            "ro": "Punct de belvedere spre vale și Agung",
+            "en": "Valley and Agung view point"
+          },
+          "coords": [
+            115.652677,
+            -8.35132
+          ],
+          "category": "natural",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den majestätischen Berg Agung, der das üppig grüne Tal dominiert – ein perfekter Fotopunkt, den man am besten an einem klaren Nachmittag besucht.",
+            "hu": "Csodálja meg a fenséges Agung-hegyet, amely a buja zöld völgy fölé magasodik, ami tökéletes fotózási helyszín egy tiszta délutánon a felhők elkerülésére.",
+            "ro": "Minunați-vă de maiestuosul Munte Agung ce domină valea verde luxuriantă de dedesubt, un loc perfect de vizitat într-o după-amiază senină.",
+            "en": "Marvel at the majestic Mount Agung dominating the lush green valley directly below, a perfect photography spot best visited on a clear afternoon to avoid low-hanging clouds."
+          }
+        },
+        {
+          "name": {
+            "de": "Jukung Bali Bungalows",
+            "hu": "Jukung Bali Bungalows",
+            "ro": "Jukung Bali Bungalows",
+            "en": "Jukung Bali Bungalows"
+          },
+          "coords": [
+            115.655992,
+            -8.335148
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle balinesische Gastfreundschaft in diesen authentischen Bungalows und genießen Sie zur Entspannung ein erfrischendes Kokosnussgetränk.",
+            "hu": "Tapasztalja meg a hagyományos balinéz vendégszeretetet ezekben az autentikus bungalókban, és pihenésképpen fogyasszon el egy frissítő kókuszitalt.",
+            "ro": "Experimentați ospitalitatea tradițională balineză în aceste bungalouri autentice de la malul mării și savurați o băutură din nucă de cocos de la cafeneaua lor.",
+            "en": "Experience traditional Balinese hospitality at these authentic bungalows nestled by the sea, and enjoy a refreshing coconut drink from their seaside café while resting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour leicht bergauf am Hauptaussichtspunkt, atmen Sie die frische Morgenluft ein und genießen Sie den atemberaubenden Anblick, wo das Meer auf die Vulkanlandschaft trifft.\n\nFahren Sie entlang der belebten Küstenstraße, um die Amed-Mauer und die Pyramiden zu entdecken, und machen Sie oft Pause, um die lokale Taucherszene und die Steilhänge zu würdigen.\n\nRadeln Sie weiter ins Landesinnere zu den rauen Hügeln, spüren Sie den Wechsel im Gelände auf ruhigen unbefestigten Wegen, die zu spektakulären erhöhten Aussichten über üppige Täler führen.\n\nKehren Sie zur Küste zurück, um Ihr Fahrradabenteuer in der Nähe traditioneller Bungalows zu beenden, und belohnen Sie sich mit einem Bad im Meer und einem kühlen Getränk bei Sonnenuntergang.",
+        "hu": "Kezdje kerékpáros útvonalát enyhén felfelé a fő kilátónál, szívja magába a friss reggeli levegőt, miközben gyönyörködik az óceán és a vulkáni táj találkozásának lenyűgöző látványában.\n\nTekerjen végig a nyüzsgő parti úton, hogy felfedezze a bonyolult Amed-falat és a Piramisokat, gyakran megállva, hogy értékelje a pezsgő helyi búváréletet és a drámai tengeri letöréseket.\n\nPedálozzon tovább a szárazföld belseje felé a zord dombokhoz, érezze a terep változását, ahogy a csendes földutakon navigál a buja völgyekre és hegyekre nyíló látványos magaslati kilátások felé.\n\nTérjen vissza a part felé, hogy kerékpáros kalandját egy hagyományos bungalósor közelében fejezze be, megjutalmazva magát egy frissítő óceáni csobbanással és egy hideg itallal naplemente közben.",
+        "ro": "Începeți traseul de ciclism ușor în urcare la punctul principal de belvedere, respirând aerul proaspăt al dimineții în timp ce admirați priveliștea uimitoare a oceanului întâlnind peisajul vulcanic.\n\nMergeți pe drumul de coastă plin de viață pentru a descoperi Zidul Amed și Piramidele, făcând pauze frecvente pentru a aprecia scena locală de scufundări și versanții marini dramatici.\n\nPedalați mai departe în interior spre dealurile stâncoase, simțind schimbarea terenului în timp ce navigați pe potecile de pământ liniștite care duc la priveliști spectaculoase peste văile luxuriante.\n\nÎntoarceți-vă spre țărm pentru a vă încheia aventura cu bicicleta lângă o colecție de bungalouri tradiționale, recompensându-vă cu o baie răcoritoare în ocean și o băutură rece la apus.",
+        "en": "Start your cycling route slightly uphill at the main viewpoint, breathing in the fresh morning air while taking in the stunning sight of the ocean meeting the volcanic landscape.\n\nRide along the bustling coastal road to discover the intricate Amed Wall and Pyramids, pausing frequently to appreciate the bustling local diving scene and dramatic marine drop-offs.\n\nPedal further inland towards the rugged hills, feeling the change in terrain as you navigate the quiet dirt paths leading to spectacular elevated views over lush valleys and mountains.\n\nReturn towards the shore to end your cycling adventure near a collection of traditional bungalows, rewarding yourself with a refreshing ocean dip and a cool drink as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "12:25",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bukit Culik",
+            "hu": "Bukit Culik",
+            "ro": "Bukit Culik",
+            "en": "Bukit Culik"
+          },
+          "coords": [
+            115.6281,
+            -8.3477
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante Wahrzeichen im Landesinneren, das eine andere Perspektive auf die vulkanische Topografie bietet, und engagieren Sie einen lokalen Führer.",
+            "hu": "Fedezze fel ezt a kiemelkedő szárazföldi nevezetességet, amely más perspektívából mutatja be a régió vulkáni domborzatát, és béreljen helyi vezetőt.",
+            "ro": "Explorați acest punct de reper proeminent ce oferă o perspectivă diferită asupra topografiei vulcanice a regiunii și angajați un ghid local pentru a afla mai multe.",
+            "en": "Explore this prominent inland landmark offering a different perspective on the region's volcanic topography, and hire a local guide to learn more about the unique flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "AMED SELFIE POINT",
+            "hu": "AMED SELFIE POINT",
+            "ro": "Punctul de selfie Amed",
+            "en": "AMED SELFIE POINT"
+          },
+          "coords": [
+            115.641579,
+            -8.333587
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Halten Sie den malerischen Küstenbogen an diesem beliebten Fotospot fest, der fantastische Meereshintergründe bietet, aber kommen Sie früh, um das grelle Licht zu meiden.",
+            "hu": "Örökítse meg a tengerpart ikonikus ívét ezen a népszerű szelfiponton, amely lenyűgöző óceáni hátteret kínál, de érkezzen korán a déli erős napfény elkerülése végett.",
+            "ro": "Surprindeți curba emblematică a coastei în acest loc popular pentru fotografii, ce oferă un fundal oceanic impresionant, dar veniți devreme pentru a evita soarele puternic.",
+            "en": "Capture the iconic coastal curve at this popular selfie spot, which offers stunning ocean backdrops, but arrive early to avoid the harsh midday glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf Amed",
+            "hu": "Amed kilátó",
+            "ro": "Punct de belvedere în Amed",
+            "en": "Viewpoint on Amed"
+          },
+          "coords": [
+            115.64653,
+            -8.338811
+          ],
+          "category": "natural",
+          "arrive_at": "10:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht und den Berg Agung in der Ferne, und denken Sie an festes Schuhwerk für den Weg nach oben.",
+            "hu": "Csodálja meg az öböl és a távolban magasodó Agung-hegy panorámáját, és ne felejtsen el masszív cipőt húzni a kissé egyenetlen, emelkedő ösvényhez.",
+            "ro": "Admirați vederea panoramică uluitoare a golfului care se contopește cu Muntele Agung în depărtare și purtați încălțăminte robustă pentru poteca accidentată.",
+            "en": "Admire the breathtaking panoramic view of the bay merging with Mount Agung in the distance, and remember to wear sturdy shoes for the slightly uneven uphill path."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramiden",
+            "hu": "Piramisok",
+            "ro": "Piramide",
+            "en": "Pyramids"
+          },
+          "coords": [
+            115.65365,
+            -8.334195
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden Unterwasserstrukturen, die als künstliches Riff dienen, weshalb das Ausleihen von Flossen sehr zu empfehlen ist.",
+            "hu": "Fedezze fel ezeket az érdekes víz alatti építményeket, amelyek mesterséges zátonyként szolgálnak, így erősen ajánlott békatalpat bérelni egy közeli boltban.",
+            "ro": "Descoperiți aceste structuri subacvatice intrigante care servesc drept recif artificial, așadar este foarte recomandat să închiriați labe de înot de la magazin.",
+            "en": "Discover these intriguing underwater structures that serve as an artificial reef teeming with marine life, so renting fins from a nearby shop is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Amed-Mauer",
+            "hu": "Amed-fal",
+            "ro": "Zidul Amed",
+            "en": "Amed wall"
+          },
+          "coords": [
+            115.661729,
+            -8.337564
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie entlang dieser spektakulären Steilwand, aber achten Sie auf die wechselnden Strömungen, während Sie die bunten Riffische beobachten.",
+            "hu": "Sznorzelezzen e látványos, meredek fal mentén, de ügyeljen a változó áramlatokra, miközben a színpompás zátonyhalakat figyeli.",
+            "ro": "Faceți snorkeling de-a lungul acestui perete abrupt spectaculos, dar fiți atenți la curenții schimbători în timp ce observați peștii colorați.",
+            "en": "Snorkel along this spectacular dramatic drop-off covered in vibrant corals and sponges, but stay aware of the shifting currents while observing the colorful reef fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal- und Agung-Aussichtspunkt",
+            "hu": "Völgy és Agung kilátó",
+            "ro": "Punct de belvedere spre vale și Agung",
+            "en": "Valley and Agung view point"
+          },
+          "coords": [
+            115.652677,
+            -8.35132
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie den majestätischen Berg Agung, der das üppig grüne Tal dominiert – ein perfekter Fotopunkt, den man am besten an einem klaren Nachmittag besucht.",
+            "hu": "Csodálja meg a fenséges Agung-hegyet, amely a buja zöld völgy fölé magasodik, ami tökéletes fotózási helyszín egy tiszta délutánon a felhők elkerülésére.",
+            "ro": "Minunați-vă de maiestuosul Munte Agung ce domină valea verde luxuriantă de dedesubt, un loc perfect de vizitat într-o după-amiază senină.",
+            "en": "Marvel at the majestic Mount Agung dominating the lush green valley directly below, a perfect photography spot best visited on a clear afternoon to avoid low-hanging clouds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem von den Gipfeln im Landesinneren hinunter zur nördlichen Küstenlinie, beginnen Sie den Tag mit tollen Aussichten, bevor Sie den lebhaften Strand für ikonische Fotos erreichen.\n\nPendeln Sie zwischen den wichtigsten Küstenattraktionen, um sowohl hohe Aussichtspunkte als auch Meeresschutzgebiete zu erleben, und nutzen Sie das Fahrzeug, um die Zeit optimal zu gestalten.\n\nFahren Sie auf kurvenreichen Straßen nach Süden, hinauf zum riesigen Aussichtspunkt im Tal, wo der Mount Agung scheinbar den gesamten Himmel in einem wahren Schauspiel der Natur beherrscht.\n\nBeenden Sie Ihre landschaftlich reizvolle Fahrt, indem Sie zurück in die charmante Dorfatmosphäre von Purwa Kerthi fahren, und genießen Sie die kühle Abendbrise nach einem abwechslungsreichen Tag.",
+        "hu": "Vezessen kényelmesen a szárazföldi csúcsoktól a partvidék északi része felé, kezdd a napot nagyszerű domborzati kilátásokkal, mielőtt elérné a nyüzsgő tengerpartot az ikonikus fotózási pillanatokhoz.\n\nUgráljon a legfontosabb tengerparti látnivalók között, hogy megtapasztalja a magas kilátókat és a tengeri rezervátumokat, kihasználva a járművet a dramatikus megállókon töltött idő maximalizálására.\n\nHaladjon dél felé a kanyargós utakon, felkapaszkodva a monumentális völgykilátóhoz, ahol az Agung-hegy látszólag az egész eget uralja a természet lenyűgöző léptékének igazi megnyilvánulásaként.\n\nFejezze be a festői utazást úgy, hogy visszagurul Purwa Kerthi bájos falusi atmoszférájába, élvezve a hűsítő esti szellőt, miközben visszagondol egy hihetetlenül gazdag és változatos túranapra.",
+        "ro": "Conduceți confortabil de la vârfurile interioare până la linia țărmului nordic, începând ziua cu perspective topografice mărețe înainte de a ajunge la plaja plină de viață pentru fotografii emblematice.\n\nCălătoriți între atracțiile cheie de pe coastă pentru a experimenta atât punctele înalte de belvedere, cât și sanctuarele marine accesibile, profitând de vehicul pentru a vă maximiza timpul.\n\nÎndreptați-vă spre sud pe drumurile șerpuite, urcând către impresionantul punct de belvedere al văii, unde Muntele Agung domină aparent întregul cer într-o afișare cu adevărat uluitoare a naturii.\n\nFinalizați-vă călătoria pitorească întorcându-vă în atmosfera fermecătoare a satului Purwa Kerthi, bucurându-vă de briza răcoroasă a serii în timp ce reflectați la o zi de explorare incredibil de bogată.",
+        "en": "Drive comfortably from the inland peaks down to the northern shoreline, starting the day with grand topographical perspectives before reaching the lively beachside for iconic photo moments.\n\nHop between key coastal attractions to experience both the high viewpoints and the accessible marine sanctuaries, taking advantage of the vehicle to maximize your time at each dramatic stop.\n\nHead south along the twisting roads, ascending toward the monumental valley lookout where Mount Agung seemingly dominates the entire sky in a truly breathtaking display of nature's scale.\n\nComplete your scenic drive by cruising back into the charming village atmosphere of Purwa Kerthi, enjoying the cooling evening breeze as you reflect on an incredibly rich and diverse touring day."
+      }
+    }
+  }
+}

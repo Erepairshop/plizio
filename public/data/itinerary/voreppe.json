@@ -1,0 +1,428 @@
+{
+  "city_id": "voreppe",
+  "anchor": {
+    "name": "Voreppe",
+    "coords": [
+      5.6369,
+      45.2978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:10",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Voreppe",
+            "hu": "Voreppe Városháza",
+            "ro": "Primăria Voreppe",
+            "en": "Voreppe Town Hall"
+          },
+          "coords": [
+            5.628246,
+            45.293566
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur dieses zentralen Rathauses, ein perfekter Ausgangspunkt, wo Sie sich vor der Erkundung eine lokale Karte besorgen können.",
+            "hu": "Csodálja meg a központi városháza klasszikus polgári építészetét, amely tökéletes kiindulópont ahhoz, hogy térképet szerezzen a város felfedezése előtt.",
+            "ro": "Admirați arhitectura civică clasică a acestei primării centrale, un punct de plecare perfect de unde puteți lua o hartă locală înainte de a explora orașul.",
+            "en": "Admire the classic civic architecture of this central town hall, a perfect starting point where you can grab a local map before exploring the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Sacré-Cœur",
+            "hu": "Szent Szív Kápolna",
+            "ro": "Capela Sacré-Cœur",
+            "en": "Chapelle du Sacré-Cœur"
+          },
+          "coords": [
+            5.633929,
+            45.293601
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses friedliche religiöse Heiligtum, um seine ruhige Atmosphäre zu genießen, und senken Sie aus Respekt vor dem Ort Ihre Stimme.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, hogy értékelje a nyugodt légkört, és a tisztelet jeléül próbáljon meg halkan beszélni a látogatás során.",
+            "ro": "Pășiți în acest sanctuar religios pașnic pentru a aprecia atmosfera sa senină și vitraliile delicate, păstrând vocea scăzută din respect.",
+            "en": "Step inside this peaceful religious sanctuary to appreciate its serene atmosphere and delicate stained glass, keeping your voice low out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Didier Kirche",
+            "hu": "Saint-Didier Templom",
+            "ro": "Biserica Saint-Didier",
+            "en": "Saint-Didier Church"
+          },
+          "coords": [
+            5.637428,
+            45.297679
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die komplizierten Details dieser historischen Pfarrkirche, und achten Sie darauf, sie in den Morgenstunden für das beste natürliche Licht zu besuchen.",
+            "hu": "Figyelje meg ennek a történelmi plébániatemplomnak a bonyolult részleteit, és időzítse látogatását a reggeli órákra a legjobb természetes fény érdekében.",
+            "ro": "Observați detaliile complicate ale acestei biserici parohiale istorice, asigurându-vă că o vizitați în orele dimineții pentru cea mai bună lumină naturală.",
+            "en": "Observe the intricate details of this historic parish church that anchors the community, making sure to visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Saint-Didier",
+            "hu": "Saint-Didier Perjeltemplom",
+            "ro": "Biserica prioratului Saint-Didier",
+            "en": "Église prieurale Saint-Didier"
+          },
+          "coords": [
+            5.639311,
+            45.298901
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser beeindruckenden Prioratskirche, um Voreppes klösterliche Wurzeln zu verstehen, und achten Sie auf die alten Steinmetzarbeiten.",
+            "hu": "Fedezze fel e lenyűgöző perjel templom maradványait, hogy megértse a város szerzetesi gyökereit, különös figyelmet fordítva az ősi kőfaragványokra.",
+            "ro": "Explorați rămășițele acestei biserici impresionante pentru a înțelege rădăcinile monahale ale orașului, acordând atenție sculpturilor antice din piatră.",
+            "en": "Explore the remnants of this impressive priory church to understand Voreppe's deep monastic roots, paying close attention to the ancient stone carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von Françon",
+            "hu": "Françon Kápolna",
+            "ro": "Capela Françon",
+            "en": "Chapelle de Françon"
+          },
+          "coords": [
+            5.634633,
+            45.301114
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten, abgelegenen Kapelle im Grünen und tragen Sie bequeme Wanderschuhe für den leicht unebenen Weg zum Eingang.",
+            "hu": "Sétáljon fel ehhez a bájos, zöldellő kápolnához, és hozzon magával kényelmes cipőt a bejárathoz vezető, kissé egyenetlen ösvény miatt.",
+            "ro": "Plimbați-vă până la această capelă fermecătoare și izolată, înconjurată de verdeață, aducând încălțăminte confortabilă pentru poteca ușor accidentată.",
+            "en": "Wander up to this charming, secluded chapel surrounded by greenery, bringing comfortable walking shoes for the slightly uneven path leading to the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am zentralen Rathaus und bietet eine schöne Einführung in Voreppe. Mittags schlendern Sie durch ruhige Straßen zur Chapelle du Sacré-Cœur für friedliche Momente. Am Nachmittag erkunden Sie die große Saint-Didier-Kirche und das Priorat, um das reiche Erbe zu entdecken. Der Abend endet mit einem kurzen Spaziergang zur abgelegenen Chapelle de Françon, die eine wunderschöne Kulisse für den Sonnenuntergang bietet.",
+        "hu": "A reggel a központi városházán kezdődik, amely remek bevezetést nyújt Voreppe szívébe. Délben csendes utcákon sétálhat a Chapelle du Sacré-Cœur felé békés elmélkedésre. Délután fedezze fel a nagyszerű Saint-Didier templomot és a perjelséget a gazdag örökségért. Az este a félreeső Chapelle de Françonhoz tett rövid sétával zárul, amely gyönyörű naplemente hátteret kínál a nap lezárásához.",
+        "ro": "Dimineața începe la Primăria centrală, oferind o introducere perfectă în inima civică a orașului Voreppe. La prânz vă ghidați pașii spre Chapelle du Sacré-Cœur pentru momente de liniște. După-amiaza, explorați marea biserică Saint-Didier și prioratul pentru a descoperi patrimoniul bogat. Seara se încheie cu o scurtă plimbare până la izolată Chapelle de Françon, oferind un apus superb la final de zi.",
+        "en": "Morning starts at the central Town Hall, giving you a proper introduction to Voreppe's civic heart. Midday leads you through quiet streets to the Chapelle du Sacré-Cœur for moments of peaceful reflection. In the afternoon, explore the grand Saint-Didier Church and the priory to uncover rich heritage. The evening concludes with a short walk up to the secluded Chapelle de Françon, offering a beautiful sunset backdrop to end the day softly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "12:44",
+      "total_km": 2.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Voreppe",
+            "hu": "Voreppe Városháza",
+            "ro": "Primăria Voreppe",
+            "en": "Voreppe Town Hall"
+          },
+          "coords": [
+            5.628246,
+            45.293566
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur dieses zentralen Rathauses, ein perfekter Ausgangspunkt, wo Sie sich vor der Erkundung eine lokale Karte besorgen können.",
+            "hu": "Csodálja meg a központi városháza klasszikus polgári építészetét, amely tökéletes kiindulópont ahhoz, hogy térképet szerezzen a város felfedezése előtt.",
+            "ro": "Admirați arhitectura civică clasică a acestei primării centrale, un punct de plecare perfect de unde puteți lua o hartă locală înainte de a explora orașul.",
+            "en": "Admire the classic civic architecture of this central town hall, a perfect starting point where you can grab a local map before exploring the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Sacré-Cœur",
+            "hu": "Szent Szív Kápolna",
+            "ro": "Capela Sacré-Cœur",
+            "en": "Chapelle du Sacré-Cœur"
+          },
+          "coords": [
+            5.633929,
+            45.293601
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses friedliche religiöse Heiligtum, um seine ruhige Atmosphäre zu genießen, und senken Sie aus Respekt vor dem Ort Ihre Stimme.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, hogy értékelje a nyugodt légkört, és a tisztelet jeléül próbáljon meg halkan beszélni a látogatás során.",
+            "ro": "Pășiți în acest sanctuar religios pașnic pentru a aprecia atmosfera sa senină și vitraliile delicate, păstrând vocea scăzută din respect.",
+            "en": "Step inside this peaceful religious sanctuary to appreciate its serene atmosphere and delicate stained glass, keeping your voice low out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Didier Kirche",
+            "hu": "Saint-Didier Templom",
+            "ro": "Biserica Saint-Didier",
+            "en": "Saint-Didier Church"
+          },
+          "coords": [
+            5.637428,
+            45.297679
+          ],
+          "category": "religious",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die komplizierten Details dieser historischen Pfarrkirche, und achten Sie darauf, sie in den Morgenstunden für das beste natürliche Licht zu besuchen.",
+            "hu": "Figyelje meg ennek a történelmi plébániatemplomnak a bonyolult részleteit, és időzítse látogatását a reggeli órákra a legjobb természetes fény érdekében.",
+            "ro": "Observați detaliile complicate ale acestei biserici parohiale istorice, asigurându-vă că o vizitați în orele dimineții pentru cea mai bună lumină naturală.",
+            "en": "Observe the intricate details of this historic parish church that anchors the community, making sure to visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Saint-Didier",
+            "hu": "Saint-Didier Perjeltemplom",
+            "ro": "Biserica prioratului Saint-Didier",
+            "en": "Église prieurale Saint-Didier"
+          },
+          "coords": [
+            5.639311,
+            45.298901
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser beeindruckenden Prioratskirche, um Voreppes klösterliche Wurzeln zu verstehen, und achten Sie auf die alten Steinmetzarbeiten.",
+            "hu": "Fedezze fel e lenyűgöző perjel templom maradványait, hogy megértse a város szerzetesi gyökereit, különös figyelmet fordítva az ősi kőfaragványokra.",
+            "ro": "Explorați rămășițele acestei biserici impresionante pentru a înțelege rădăcinile monahale ale orașului, acordând atenție sculpturilor antice din piatră.",
+            "en": "Explore the remnants of this impressive priory church to understand Voreppe's deep monastic roots, paying close attention to the ancient stone carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère Aussichtspunkt",
+            "hu": "Belvédère Kilátó",
+            "ro": "Punctul de belvedere Belvédère",
+            "en": "Belvédère Viewpoint"
+          },
+          "coords": [
+            5.648671,
+            45.289585
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das Isère-Tal von diesem natürlichen Aussichtspunkt und halten Sie Ihre Kamera für spektakuläre Landschaftsaufnahmen bereit.",
+            "hu": "Élvezze az Isère-völgyre nyíló lenyűgöző panorámát erről a természetes kilátópontról, és tartsa készenlétben a fényképezőgépét a látványos tájképekhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice vaste ale văii Isère de la acest punct de observație natural, ținând aparatul foto pregătit pentru fotografii spectaculoase.",
+            "en": "Take in sweeping panoramic views of the Isère valley from this natural vantage point, keeping your camera ready for spectacular landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag entspannt am Rathaus von Voreppe, um die lokale Atmosphäre zu spüren. Bis zum Mittag radeln Sie mühelos zwischen den historischen Kapellen und Kirchen. Der Nachmittag lädt zu einem leichten Anstieg ein, um die alten Steine der Église prieurale Saint-Didier zu bewundern. Am Abend fahren Sie zum Belvédère-Aussichtspunkt und genießen die frische Brise und den Panoramablick bei Sonnenuntergang.",
+        "hu": "Kezdje a kerékpáros napot kényelmesen a városházán, hogy ráhangolódjon a helyi légkörre. Délre már a központi sugárutakon található történelmi kápolnák között pedálozhat. A délután enyhe emelkedőt kínál az ősi Église prieurale Saint-Didier köveinek megcsodálására. Estére tekerjen ki a Belvédère kilátóhoz, és élvezze a hűvös szellőt, valamint a völgyre nyíló csodálatos naplementét.",
+        "ro": "Începeți ziua de ciclism lin la Primărie pentru a simți atmosfera locală. La prânz, pedalați fără efort între capelele și bisericile istorice de pe bulevardele centrale. După-amiaza vă invită la o scurtă urcare pentru a admira pietrele antice ale Église prieurale Saint-Didier. Seara, mergeți cu bicicleta la punctul de observație Belvédère, bucurându-vă de briza răcoroasă și de apusul panoramic peste vale.",
+        "en": "Start your cycling day smoothly at the Voreppe Town Hall to get a feel for the local atmosphere. By midday, effortlessly pedal between the historic chapels and churches dotting the central avenues. The afternoon invites a slight climb to admire the grand Église prieurale Saint-Didier's ancient stones. For the evening, cycle out to the Belvédère Viewpoint, enjoying the cool breeze and magnificent panoramic sunset over the valley."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bec de l'Échaillon",
+            "hu": "Bec de l'Échaillon",
+            "ro": "Bec de l'Échaillon",
+            "en": "Bec de l'Échaillon"
+          },
+          "coords": [
+            5.600887,
+            45.297972
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen dramatischen natürlichen Felsvorsprung über der Flussbiegung und bleiben Sie auf den markierten Wegen, um sicher an den Rändern zu navigieren.",
+            "hu": "Fedezze fel ezt a folyókanyarulatra néző drámai sziklás kiszögellést, és maradjon a jelzett ösvényeken a meredek sziklaszélek biztonságos megközelítése érdekében.",
+            "ro": "Descoperiți acest afloriment stâncos natural dramatic care domină cotul râului și rămâneți pe traseele marcate pentru a naviga în siguranță pe marginile abrupte.",
+            "en": "Discover this dramatic natural rocky outcrop overlooking the river bend, and stick to the marked trails to safely navigate the steep cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Voreppe",
+            "hu": "Voreppe Városháza",
+            "ro": "Primăria Voreppe",
+            "en": "Voreppe Town Hall"
+          },
+          "coords": [
+            5.628246,
+            45.293566
+          ],
+          "category": "civic",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur dieses zentralen Rathauses, ein perfekter Ausgangspunkt, wo Sie sich vor der Erkundung eine lokale Karte besorgen können.",
+            "hu": "Csodálja meg a központi városháza klasszikus polgári építészetét, amely tökéletes kiindulópont ahhoz, hogy térképet szerezzen a város felfedezése előtt.",
+            "ro": "Admirați arhitectura civică clasică a acestei primării centrale, un punct de plecare perfect de unde puteți lua o hartă locală înainte de a explora orașul.",
+            "en": "Admire the classic civic architecture of this central town hall, a perfect starting point where you can grab a local map before exploring the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Saint-Didier",
+            "hu": "Saint-Didier Perjeltemplom",
+            "ro": "Biserica prioratului Saint-Didier",
+            "en": "Église prieurale Saint-Didier"
+          },
+          "coords": [
+            5.639311,
+            45.298901
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser beeindruckenden Prioratskirche, um Voreppes klösterliche Wurzeln zu verstehen, und achten Sie auf die alten Steinmetzarbeiten.",
+            "hu": "Fedezze fel e lenyűgöző perjel templom maradványait, hogy megértse a város szerzetesi gyökereit, különös figyelmet fordítva az ősi kőfaragványokra.",
+            "ro": "Explorați rămășițele acestei biserici impresionante pentru a înțelege rădăcinile monahale ale orașului, acordând atenție sculpturilor antice din piatră.",
+            "en": "Explore the remnants of this impressive priory church to understand Voreppe's deep monastic roots, paying close attention to the ancient stone carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère Aussichtspunkt",
+            "hu": "Belvédère Kilátó",
+            "ro": "Punctul de belvedere Belvédère",
+            "en": "Belvédère Viewpoint"
+          },
+          "coords": [
+            5.648671,
+            45.289585
+          ],
+          "category": "natural",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das Isère-Tal von diesem natürlichen Aussichtspunkt und halten Sie Ihre Kamera für spektakuläre Landschaftsaufnahmen bereit.",
+            "hu": "Élvezze az Isère-völgyre nyíló lenyűgöző panorámát erről a természetes kilátópontról, és tartsa készenlétben a fényképezőgépét a látványos tájképekhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice vaste ale văii Isère de la acest punct de observație natural, ținând aparatul foto pregătit pentru fotografii spectaculoase.",
+            "en": "Take in sweeping panoramic views of the Isère valley from this natural vantage point, keeping your camera ready for spectacular landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Chalais",
+            "hu": "Chalais Apátság",
+            "ro": "Abația Chalais",
+            "en": "Chalais Abbey"
+          },
+          "coords": [
+            5.675887,
+            45.29283
+          ],
+          "category": "monastic",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie in die tiefe Stille dieses abgelegenen Bergklosters ein, um sein spirituelles Erbe zu erleben, und besuchen Sie den Keksladen für lokale Leckereien.",
+            "hu": "Lépjen be ebbe a távoli hegyi kolostorba, hogy megtapasztalja annak mély csendjét és szellemi örökségét, és mindenképpen kóstolja meg a helyi szerzetesi kekszeket.",
+            "ro": "Pășiți în liniștea profundă a acestei mănăstiri montane izolate pentru a-i experimenta moștenirea spirituală și vizitați magazinul de biscuiți monahali.",
+            "en": "Step into the profound silence of this remote mountain monastery to experience its spiritual heritage, and check the biscuit shop for local monastic treats."
+          }
+        },
+        {
+          "name": {
+            "de": "Aiguille de Chalais",
+            "hu": "Aiguille de Chalais",
+            "ro": "Aiguille de Chalais",
+            "en": "Aiguille de Chalais"
+          },
+          "coords": [
+            5.660681,
+            45.293976
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser aufragenden Felsnadel für ein unvergessliches alpines Erlebnis, nehmen Sie ausreichend Wasser mit und beginnen Sie den Aufstieg vor der Dämmerung.",
+            "hu": "Túrázzon ehhez a magasba tornyosuló sziklatűhöz egy felejthetetlen alpesi élményért, ügyelve arra, hogy vigyen extra vizet és jóval szürkület előtt induljon el.",
+            "ro": "Faceți o drumeție către acest ac stâncos impunător pentru o experiență alpină de neuitat, asigurându-vă că aveți apă suplimentară și începeți urcarea înainte de amurg.",
+            "en": "Hike toward this towering rocky needle for an unforgettable alpine experience, ensuring you carry extra water and start the ascent well before dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am dramatischen Bec de l'Échaillon, einem beeindruckenden Naturdenkmal. Mittags fahren Sie in das historische Zentrum, um das Rathaus und das nahe gelegene Priorat zu besuchen. Am Nachmittag navigieren Sie über Bergstraßen hinauf zur ruhigen Abtei von Chalais. Der Abend endet mit einer kurzen, aufregenden Wanderung in Richtung der Aiguille de Chalais, die Ihren Roadtrip mit alpinen Ausblicken krönt.",
+        "hu": "Az autós utazás a drámai Bec de l'Échaillon-nál kezdődik, amely felébreszti az érzékeket. Délben a történelmi központba érkezik, hogy meglátogassa a városházát és a közeli perjelséget. Délután navigáljon a kanyargós hegyi utakon a békés Chalais apátsághoz. Az este egy rövid, izgalmas túrával zárul az Aiguille de Chalais felé, amely látványos alpesi kilátással koronázza meg a napot.",
+        "ro": "Călătoria cu mașina începe la impresionantul monument natural Bec de l'Échaillon. La prânz, coborâți în centrul istoric pentru a vizita Primăria și prioratul din apropiere. După-amiaza, navigați pe drumurile montane șerpuite până la liniștita Abație Chalais. Seara se încheie cu o scurtă drumeție către Aiguille de Chalais, încununând călătoria cu perspective alpine spectaculoase.",
+        "en": "Your drive begins at the dramatic Bec de l'Échaillon, an impressive natural monument to awaken your senses. Midday brings you down into the historical center to visit the Town Hall and the nearby priory. In the afternoon, navigate the winding mountain roads up to the serene and secluded Chalais Abbey. The evening ends with an exhilarating short hike toward the Aiguille de Chalais, capping off your road trip with spectacular alpine vistas."
+      }
+    }
+  }
+}

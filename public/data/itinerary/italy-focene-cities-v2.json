@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-focene-cities-v2",
+  "anchor": {
+    "name": "Focene",
+    "coords": [
+      12.21378,
+      41.8115
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 1.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "40 gradi all’ombra",
+            "hu": "40 gradi all’ombra",
+            "ro": "40 gradi all’ombra",
+            "en": "40 gradi all’ombra"
+          },
+          "coords": [
+            12.206589,
+            41.82529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen, weiten Strand im Norden von Focene, kommen Sie jedoch früh, um einen der besten Liegestühle direkt am Wasser zu sichern.",
+            "hu": "Élvezze Focene északi részének nyugodt és tágas tengerpartját, de érkezzen korán, hogy a legjobb, vízhez közeli napozóágyakat szerezhesse meg.",
+            "ro": "Bucurați-vă de plaja spațioasă și liniștită din nordul orașului Focene, dar ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the tranquil and spacious northern beach of Focene, but be sure to arrive early to secure one of the prime sunbeds right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterfront Beach",
+            "hu": "Waterfront Beach",
+            "ro": "Waterfront Beach",
+            "en": "Waterfront Beach"
+          },
+          "coords": [
+            12.207443,
+            41.822957
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses gepflegten Sandstrandes und nutzen Sie die hervorragenden lokalen Strandbars für eine kühle Erfrischung zur Mittagszeit.",
+            "hu": "Sétáljon végig ezen a szépen gondozott homokos partszakaszon, és térjen be a helyi strandbárokba egy hűsítő frissítőre a déli melegben.",
+            "ro": "Plimbați-vă pe această plajă de nisip bine întreținută și profitați de barurile excelente de pe plajă pentru o băutură răcoritoare la prânz.",
+            "en": "Stroll along this beautifully maintained sandy beach and take advantage of the excellent local beach bars for a refreshing midday drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido del Carabiniere",
+            "hu": "Lido del Carabiniere",
+            "ro": "Lido del Carabiniere",
+            "en": "Lido del Carabiniere"
+          },
+          "coords": [
+            12.20916,
+            41.819514
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem traditionellen Lido mit exzellentem Service, und bringen Sie Ihr eigenes Handtuch mit, falls die mietbaren Liegen ausgebucht sind.",
+            "hu": "Pihenjen ezen a kiváló szolgáltatásokat nyújtó, hagyományos strandon, és hozzon magával saját törölközőt, ha a bérelhető napágyak már elfogytak.",
+            "ro": "Relaxați-vă la acest lido tradițional cu servicii excelente și aduceți-vă un prosop în cazul în care șezlongurile de închiriat sunt deja ocupate.",
+            "en": "Relax at this traditional lido offering excellent service, and bring your own towel just in case all the rental sunbeds are fully booked."
+          }
+        },
+        {
+          "name": {
+            "de": "La Madonnina",
+            "hu": "La Madonnina",
+            "ro": "La Madonnina",
+            "en": "La Madonnina"
+          },
+          "coords": [
+            12.209831,
+            41.817917
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der friedlichen Atmosphäre dieses Küstenabschnitts verzaubern und planen Sie hier ein kleines Picknick mit lokalen Delikatessen ein.",
+            "hu": "Hagyja, hogy elvarázsolja e partszakasz békés atmoszférája, és tervezzen ide egy kis pikniket a közeli boltokból beszerzett helyi finomságokkal.",
+            "ro": "Lăsați-vă fermecați de atmosfera pașnică a acestei porțiuni de coastă și planificați un mic picnic cu delicatese locale cumpărate din apropiere.",
+            "en": "Be enchanted by the peaceful atmosphere of this stretch of coastline and plan a small picnic here using local delicacies bought from nearby shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Onda Blu",
+            "hu": "Onda Blu",
+            "ro": "Onda Blu",
+            "en": "Onda Blu"
+          },
+          "coords": [
+            12.211016,
+            41.815026
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Dieser idyllische Strand bietet wunderschöne Ausblicke auf das Tyrrhenische Meer, also vergessen Sie nicht Ihre Sonnenbrille für einen optimalen Aufenthalt.",
+            "hu": "Ez az idilli strand csodálatos kilátást nyújt a Tirrén-tengerre, ezért a maximális kényelem érdekében mindenképp vigye magával a napszemüvegét.",
+            "ro": "Această plajă idilică oferă priveliști frumoase asupra Mării Tireniene, așa că nu uitați ochelarii de soare pentru o ședere cât mai confortabilă.",
+            "en": "This idyllic beach offers beautiful sweeping views of the Tyrrhenian Sea, so make sure not to forget your sunglasses for maximum comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am nördlichen Strand 40 gradi all’ombra und atmen Sie die frische Meeresluft ein. Am späten Vormittag spazieren Sie gemütlich zum Waterfront Beach und genießen das ruhige Ambiente am Wasser. Der Nachmittag bringt Sie zum Lido del Carabiniere und La Madonnina, ideal für einen erfrischenden Zwischenstopp im Sand. Den Abend lassen Sie schließlich entspannt in der Anlage Onda Blu ausklingen, während Sie den sanften Sonnenuntergang bewundern.",
+        "hu": "Kezdje a sétát az északi 40 gradi all’ombra strandon, és élvezze a friss tengeri levegőt. Késő délelőtt kényelmesen sétáljon át a Waterfront Beach felé, ahol megnyugtató tengerparti hangulat várja. A délután folyamán látogasson el a Lido del Carabiniere és a La Madonnina homokos partszakaszaira egy kis pihenésre. Az estét végül az Onda Blu partszakaszán zárhatja, megcsodálva a tenger felett lemenő nap gyönyörű fényeit.",
+        "ro": "Începeți plimbarea pe plaja nordică 40 gradi all’ombra și bucurați-vă de aerul proaspăt al mării. Spre sfârșitul dimineții, plimbați-vă relaxat către Waterfront Beach pentru a admira atmosfera liniștită a apei. După-amiaza vă aduce la Lido del Carabiniere și La Madonnina, locuri ideale pentru un scurt popas relaxant pe nisip. Încheiați ziua liniștit la Onda Blu, admirând un apus de soare spectaculos la Marea Tireniană.",
+        "en": "Begin your walk at the northern 40 gradi all’ombra beach, breathing in the fresh morning sea air. By late morning, take a leisurely stroll to Waterfront Beach and soak in the tranquil coastal ambiance. The afternoon leads you to Lido del Carabiniere and La Madonnina, perfect for a refreshing break on the sand. Conclude your evening unwinding at Onda Blu, watching the gentle sunset paint the Mediterranean sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "40 gradi all’ombra",
+            "hu": "40 gradi all’ombra",
+            "ro": "40 gradi all’ombra",
+            "en": "40 gradi all’ombra"
+          },
+          "coords": [
+            12.206589,
+            41.82529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen, weiten Strand im Norden von Focene, kommen Sie jedoch früh, um einen der besten Liegestühle direkt am Wasser zu sichern.",
+            "hu": "Élvezze Focene északi részének nyugodt és tágas tengerpartját, de érkezzen korán, hogy a legjobb, vízhez közeli napozóágyakat szerezhesse meg.",
+            "ro": "Bucurați-vă de plaja spațioasă și liniștită din nordul orașului Focene, dar ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the tranquil and spacious northern beach of Focene, but be sure to arrive early to secure one of the prime sunbeds right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Lido di Focene",
+            "hu": "Il Lido di Focene",
+            "ro": "Il Lido di Focene",
+            "en": "Il Lido di Focene"
+          },
+          "coords": [
+            12.211687,
+            41.813829
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das klassische italienische Strandgefühl an diesem beliebten Lido, und reservieren Sie Ihren Sonnenschirm am besten im Voraus online.",
+            "hu": "Élje át a klasszikus olasz tengerparti hangulatot ezen a népszerű strandon, és a biztonság kedvéért érdemes előre, online lefoglalni a napernyőt.",
+            "ro": "Experimentați senzația clasică de plajă italiană la acest lido popular și rezervați-vă umbrela de soare în avans online pentru a evita aglomerația.",
+            "en": "Experience the classic Italian beach feeling at this popular lido, and it is highly recommended to reserve your beach umbrella online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Baraonda Beach",
+            "hu": "Baraonda Beach",
+            "ro": "Baraonda Beach",
+            "en": "Baraonda Beach"
+          },
+          "coords": [
+            12.213162,
+            41.810062
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte Strandkultur ein, genießen Sie die fröhliche Musik, und probieren Sie unbedingt das köstliche Eis am nahegelegenen Kiosk.",
+            "hu": "Merüljön el a nyüzsgő strandkultúrában, élvezze a vidám zenét, és feltétlenül kóstolja meg a közeli kioszkban kapható ínycsiklandó fagylaltot.",
+            "ro": "Cufundați-vă în cultura animată a plajei, bucurați-vă de muzica veselă și asigurați-vă că încercați înghețata delicioasă de la chioșcul din apropiere.",
+            "en": "Dive into the lively beach culture, enjoy the upbeat music, and be sure to try the delicious gelato available at the nearby coastal kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Havana beach",
+            "hu": "Havana beach",
+            "ro": "Havana beach",
+            "en": "Havana beach"
+          },
+          "coords": [
+            12.213886,
+            41.807127
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der tropisch inspirierten Atmosphäre dieses Küstenabschnitts, und nutzen Sie den späten Nachmittag für einen Spaziergang im weichen Sand.",
+            "hu": "Pihenjen e partszakasz trópusi ihletésű hangulatában, és használja ki a késő délutáni órákat egy kellemes sétára a finom, puha homokban.",
+            "ro": "Relaxați-vă în atmosfera de inspirație tropicală a acestei porțiuni de coastă și profitați de după-amiaza târzie pentru o plimbare pe nisipul fin.",
+            "en": "Relax in the tropical-inspired atmosphere of this coastal stretch, and take advantage of the late afternoon light for a stroll in the soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabiria Slow Beach",
+            "hu": "Cabiria Slow Beach",
+            "ro": "Cabiria Slow Beach",
+            "en": "Cabiria Slow Beach"
+          },
+          "coords": [
+            12.216751,
+            41.800034
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem naturbelassenen, ruhigen Strand baumeln, und bleiben Sie bis zum Sonnenuntergang für fantastische Fotomotive am Wasser.",
+            "hu": "Pihenjen meg ezen a természetes, csendes strandon, és mindenképpen maradjon naplementéig, hogy fantasztikus fényképeket készíthessen a vízparton.",
+            "ro": "Relaxați-vă pe această plajă naturală și liniștită, și rămâneți până la apusul soarelui pentru a surprinde fotografii fantastice chiar pe malul apei.",
+            "en": "Unwind completely at this natural and quiet beach, and definitely stay until sunset to capture some fantastic photographs right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Strand 40 gradi all’ombra und fahren Sie mit Meeresblick nach Süden. Der Vormittag bietet eine entspannte Fahrt zum Il Lido di Focene für eine erfrischende Pause. Nachmittags radeln Sie weiter zu den lebhaften Stränden Baraonda und Havana, wo Sie die Sonne voll auskosten können. Lassen Sie den Tag schließlich am friedlichen Cabiria Slow Beach ausklingen und genießen Sie die abendliche Meeresbrise.",
+        "hu": "Indítsa kerékpártúráját a 40 gradi all’ombra strandon, majd tekerjen dél felé a tengerpart mentén. A délelőtt egy kellemes megállót tartogat az Il Lido di Focene fürdőhelyen. Délután folytassa útját a pezsgő Baraonda és Havana strandokhoz, ahol kiélvezheti a napsütést. A nap végén érkezzen meg a békés Cabiria Slow Beach részre, ahol a csendes tengerparton pihenheti ki a nap fáradalmait.",
+        "ro": "Începeți turul cu bicicleta la 40 gradi all’ombra, pedalând spre sud cu o vedere superbă la mare. Dimineața târziu oferă o cursă relaxantă până la Il Lido di Focene pentru o pauză revigorantă. După-amiaza continuați spre plajele pline de viață Baraonda și Havana, unde vă puteți bucura din plin de soare. Încheiați ziua la liniștita Cabiria Slow Beach, bucurându-vă de briza relaxantă a serii pe malul mării.",
+        "en": "Kick off your bike tour at 40 gradi all’ombra, riding southward with a continuous sea view. Late morning features a relaxed ride to Il Lido di Focene for a refreshing break by the water. In the afternoon, pedal down to the lively Baraonda and Havana beaches, soaking up the coastal sunshine. Wind down your day at the peaceful Cabiria Slow Beach, enjoying the calm evening sea breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "40 gradi all’ombra",
+            "hu": "40 gradi all’ombra",
+            "ro": "40 gradi all’ombra",
+            "en": "40 gradi all’ombra"
+          },
+          "coords": [
+            12.206589,
+            41.82529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen, weiten Strand im Norden von Focene, kommen Sie jedoch früh, um einen der besten Liegestühle direkt am Wasser zu sichern.",
+            "hu": "Élvezze Focene északi részének nyugodt és tágas tengerpartját, de érkezzen korán, hogy a legjobb, vízhez közeli napozóágyakat szerezhesse meg.",
+            "ro": "Bucurați-vă de plaja spațioasă și liniștită din nordul orașului Focene, dar ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy the tranquil and spacious northern beach of Focene, but be sure to arrive early to secure one of the prime sunbeds right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Onda Blu",
+            "hu": "Onda Blu",
+            "ro": "Onda Blu",
+            "en": "Onda Blu"
+          },
+          "coords": [
+            12.211016,
+            41.815026
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser idyllische Strand bietet wunderschöne Ausblicke auf das Tyrrhenische Meer, also vergessen Sie nicht Ihre Sonnenbrille für einen optimalen Aufenthalt.",
+            "hu": "Ez az idilli strand csodálatos kilátást nyújt a Tirrén-tengerre, ezért a maximális kényelem érdekében mindenképp vigye magával a napszemüvegét.",
+            "ro": "Această plajă idilică oferă priveliști frumoase asupra Mării Tireniene, așa că nu uitați ochelarii de soare pentru o ședere cât mai confortabilă.",
+            "en": "This idyllic beach offers beautiful sweeping views of the Tyrrhenian Sea, so make sure not to forget your sunglasses for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Arcobaleno Beach",
+            "hu": "Arcobaleno Beach",
+            "ro": "Arcobaleno Beach",
+            "en": "Arcobaleno Beach"
+          },
+          "coords": [
+            12.213468,
+            41.808866
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfreuen Sie sich an den bunten Sonnenschirmen dieses charmanten Strandes, und besuchen Sie das nahegelegene Café für einen authentischen italienischen Espresso.",
+            "hu": "Gyönyörködjön e bájos strand színes napernyőiben, és térjen be a közeli hangulatos kávézóba egy igazi, autentikus olasz eszpresszóra a nap folyamán.",
+            "ro": "Bucurați-vă de umbrelele colorate de pe această plajă fermecătoare și vizitați cafeneaua din apropiere pentru a savura un espresso italian autentic.",
+            "en": "Delight in the colorful umbrellas of this charming beach setting, and head to the nearby seaside cafe to grab an authentic Italian espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Buena Onda",
+            "hu": "Buena Onda",
+            "ro": "Buena Onda",
+            "en": "Buena Onda"
+          },
+          "coords": [
+            12.214536,
+            41.805757
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spüren Sie die gute Stimmung an diesem entspannten Küstenort, und bringen Sie bequeme Strandschuhe mit, um den leicht steinigen Randbereich zu erkunden.",
+            "hu": "Érezze a jó hangulatot ezen a laza tengerparti helyen, és hozzon magával kényelmes strandcipőt, hogy felfedezhesse a kissé köves szegélyeket.",
+            "ro": "Simțiți starea de bine în această locație de coastă relaxată și aduceți pantofi de plajă confortabili pentru a explora zonele ușor stâncoase.",
+            "en": "Feel the good vibes at this relaxed coastal spot, and remember to bring comfortable beach shoes to comfortably explore the slightly rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Focene",
+            "hu": "Focene",
+            "ro": "Focene",
+            "en": "Focene"
+          },
+          "coords": [
+            12.219055,
+            41.795459
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Wahrzeichen im Herzen von Focene, und tragen Sie bequemes Schuhwerk, um die kleinen Gassen optimal besichtigen zu können.",
+            "hu": "Fedezze fel ezt a történelmi nevezetességet Focene szívében, és viseljen kényelmes lábbelit, hogy könnyedén bejárhassa a hangulatos kis utcákat.",
+            "ro": "Explorați reperul istoric din inima orașului Focene și purtați încălțăminte confortabilă pentru a vizita optim străduțele mici și pline de farmec.",
+            "en": "Explore the landmark heart of Focene directly, and wear comfortable walking shoes so you can easily navigate the quaint and charming little alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Ausflug am nördlichen Strand 40 gradi all’ombra und parken Sie in der Nähe der Dünen. Fahren Sie am späten Vormittag komfortabel zum Onda Blu, wo Sie eine entspannte Zeit am Meer verbringen können. Der Nachmittag bringt Sie zu den herrlichen Anlagen Arcobaleno und Buena Onda, perfekt für ein Sonnenbad. Zum Abschluss des Tages fahren Sie ins Zentrum von Focene, um die lokale Atmosphäre beim Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a kirándulást az északi 40 gradi all’ombra strandon, ahol a dűnék közelében parkolhat le. Délelőtt vezessen kényelmesen az Onda Blu partszakaszhoz egy pihentető tengerparti élményért. Délután az Arcobaleno és a Buena Onda strandok kiváló lehetőséget nyújtanak egy kis napfürdőzésre. A nap lezárásaként fedezze fel Focene központját, és adja át magát a helyi olaszos atmoszférának a naplementében.",
+        "ro": "Începeți excursia cu mașina la plaja nordică 40 gradi all’ombra, parcând aproape de dune. Spre prânz, conduceți confortabil până la Onda Blu pentru a vă petrece timpul relaxant pe litoral. După-amiaza vizitați frumoasele plaje Arcobaleno și Buena Onda, perfecte pentru a vă bucura de razele soarelui. La finalul zilei, conduceți spre centrul orașului Focene pentru a vă lăsa captivați de atmosfera locală la apus.",
+        "en": "Start your scenic drive at the northern 40 gradi all’ombra beach, parking near the picturesque dunes. By late morning, take a short drive to Onda Blu for a deeply relaxing time along the shore. The afternoon is reserved for the delightful Arcobaleno and Buena Onda beaches, perfect for a bit of sunbathing. Cap off your journey in the local center of Focene, soaking in the authentic community vibe at twilight."
+      }
+    }
+  }
+}

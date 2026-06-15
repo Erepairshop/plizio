@@ -1,0 +1,451 @@
+{
+  "city_id": "bolbec",
+  "anchor": {
+    "name": "Bolbec",
+    "coords": [
+      0.4725,
+      49.5722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 2.09,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le temple",
+            "hu": "Le temple",
+            "ro": "Le temple",
+            "en": "Le temple"
+          },
+          "coords": [
+            0.471995,
+            49.572626
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieses historischen protestantischen Tempels und seine ruhige Atmosphäre am besten in den hellen Morgenstunden.",
+            "hu": "Csodálja meg e történelmi protestáns templom puritán eleganciáját és békés hangulatát, a legjobb természetes fényért érdemes még délelőtt érkezni.",
+            "ro": "Admirați eleganța austeră a acestui templu protestant istoric și atmosfera sa calmă, asigurându-vă că îl vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the austere elegance of this historic Protestant temple and its calm atmosphere, making sure to visit during morning hours for best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.47151,
+            49.571382
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betreten Sie diese imposante Kirche, um die schönen Buntglasfenster zur Stadtgeschichte zu sehen, und bringen Sie eine Kamera für die Architekturdetails mit.",
+            "hu": "Lépjen be ebbe a lenyűgöző templomba a helyi történelmet bemutató csodás ólomüveg ablakokért, és feltétlenül hozzon fényképezőgépet az építészeti részletekhez.",
+            "ro": "Intrați în această biserică măreață pentru vitraliile frumoase cu istoria locală și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Step into this grand church to see its beautiful stained glass windows depicting local history, and bring a camera for the stunning architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Bolbec",
+            "hu": "Bolbec városháza",
+            "ro": "Primăria Bolbec",
+            "en": "Bolbec Town Hall"
+          },
+          "coords": [
+            0.474242,
+            49.573932
+          ],
+          "category": "civic",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade des zentralen Rathauses, die den Stolz der Stadt widerspiegelt, und prüfen Sie den Aushang nach Kulturveranstaltungen.",
+            "hu": "Tekintse meg a központi városháza lenyűgöző homlokzatát, amely a város polgári büszkeségét tükrözi, és nézze meg a hirdetőtáblát az ingyenes programokért.",
+            "ro": "Admirați fațada impresionantă a Primăriei centrale care reflectă mândria civică a orașului și verificați panoul informativ pentru evenimente culturale gratuite.",
+            "en": "View the impressive facade of the central Town Hall, which reflects the town's civic pride, and check the notice board for free upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Val au Grès",
+            "hu": "Château du Val au Grès",
+            "ro": "Château du Val au Grès",
+            "en": "Château du Val au Grès"
+          },
+          "coords": [
+            0.470277,
+            49.575685
+          ],
+          "category": "castle",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Schloss und seinen großen Park, der Einblicke ins adlige Leben bietet, und tragen Sie bequeme Schuhe für die Spazierwege.",
+            "hu": "Fedezze fel ezt a bájos történelmi kastélyt és hatalmas parkját, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt az ösvényekhez.",
+            "ro": "Explorați acest castel istoric fermecător și parcul său vast care oferă o privire în viața aristocratică, purtând încălțăminte confortabilă pentru trasee.",
+            "en": "Explore this charming historical castle and its extensive parkland offering a glimpse into aristocratic life, while wearing comfortable shoes to walk the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Sainte-Anne kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            0.487748,
+            49.574981
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel einer Kapelle mit einem sehr ruhigen Innenhof und setzen Sie sich kurz auf die Holzbänke, um die Stille zu genießen.",
+            "hu": "Fedezze fel a kápolna rejtett gyöngyszemét a békés udvarral, és üljön le egy percre a kinti fapadokra, hogy teljesen magába szívhassa a nyugalmas légkört.",
+            "ro": "Descoperiți această capelă ascunsă cu o curte remarcabil de liniștită și așezați-vă pe băncile de lemn de afară pentru a absorbi pe deplin atmosfera pașnică.",
+            "en": "Discover this hidden gem of a chapel with a remarkably tranquil courtyard, and sit briefly on the wooden benches outside to fully soak in the peaceful ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Bolbec mit dem Tempel und der Kirche Saint-Michel. Mittags bewundern Sie das Rathaus und spazieren zum beeindruckenden Château du Val au Grès. Der Nachmittag gehört den üppigen Anlagen des Schlosses und der ruhigen Kapelle Sainte-Anne. Zum Abschluss haben Sie das Erbe der Stadt auf gemütliche Weise tiefgreifend erkundet.",
+        "hu": "A reggel Bolbec szívében indul a protestáns templom és a Saint-Michel templom meglátogatásával. Délben megcsodálhatja a városházát, majd átsétál a Château du Val au Grès lenyűgöző birtokára. A délutánt a kastély parkjában és a közeli Sainte-Anne kápolnánál töltheti. A nap végére kényelmes tempóban fedezte fel a város történelmi örökségét.",
+        "ro": "Dimineața începe în inima orașului Bolbec cu vizite la templul protestant și la biserica istorică Saint-Michel. La prânz veți admira Primăria, înainte de a merge la impresionantul Château du Val au Grès. După-amiaza vă bucurați de parcul castelului și de capela Sainte-Anne. Seara se încheie după o explorare relaxantă a patrimoniului central.",
+        "en": "The morning begins in the heart of Bolbec with visits to Le temple and the majestic Saint-Michel Church, setting a historical tone. Around midday, you will admire the civic architecture at the Town Hall before walking over to the impressive Château du Val au Grès. The afternoon is spent enjoying the lush grounds and reflecting at the tranquil Chapelle Sainte-Anne nearby. As the tour concludes, you'll have experienced the core heritage of Bolbec at a leisurely pace."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:28",
+      "total_km": 4.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Bolbec",
+            "hu": "Bolbec városháza",
+            "ro": "Primăria Bolbec",
+            "en": "Bolbec Town Hall"
+          },
+          "coords": [
+            0.474242,
+            49.573932
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade des zentralen Rathauses, die den Stolz der Stadt widerspiegelt, und prüfen Sie den Aushang nach Kulturveranstaltungen.",
+            "hu": "Tekintse meg a központi városháza lenyűgöző homlokzatát, amely a város polgári büszkeségét tükrözi, és nézze meg a hirdetőtáblát az ingyenes programokért.",
+            "ro": "Admirați fațada impresionantă a Primăriei centrale care reflectă mândria civică a orașului și verificați panoul informativ pentru evenimente culturale gratuite.",
+            "en": "View the impressive facade of the central Town Hall, which reflects the town's civic pride, and check the notice board for free upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.47151,
+            49.571382
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Betreten Sie diese imposante Kirche, um die schönen Buntglasfenster zur Stadtgeschichte zu sehen, und bringen Sie eine Kamera für die Architekturdetails mit.",
+            "hu": "Lépjen be ebbe a lenyűgöző templomba a helyi történelmet bemutató csodás ólomüveg ablakokért, és feltétlenül hozzon fényképezőgépet az építészeti részletekhez.",
+            "ro": "Intrați în această biserică măreață pentru vitraliile frumoase cu istoria locală și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Step into this grand church to see its beautiful stained glass windows depicting local history, and bring a camera for the stunning architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Le temple",
+            "hu": "Le temple",
+            "ro": "Le temple",
+            "en": "Le temple"
+          },
+          "coords": [
+            0.471995,
+            49.572626
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieses historischen protestantischen Tempels und seine ruhige Atmosphäre am besten in den hellen Morgenstunden.",
+            "hu": "Csodálja meg e történelmi protestáns templom puritán eleganciáját és békés hangulatát, a legjobb természetes fényért érdemes még délelőtt érkezni.",
+            "ro": "Admirați eleganța austeră a acestui templu protestant istoric și atmosfera sa calmă, asigurându-vă că îl vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the austere elegance of this historic Protestant temple and its calm atmosphere, making sure to visit during morning hours for best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Val au Grès",
+            "hu": "Château du Val au Grès",
+            "ro": "Château du Val au Grès",
+            "en": "Château du Val au Grès"
+          },
+          "coords": [
+            0.470277,
+            49.575685
+          ],
+          "category": "castle",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Schloss und seinen großen Park, der Einblicke ins adlige Leben bietet, und tragen Sie bequeme Schuhe für die Spazierwege.",
+            "hu": "Fedezze fel ezt a bájos történelmi kastélyt és hatalmas parkját, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt az ösvényekhez.",
+            "ro": "Explorați acest castel istoric fermecător și parcul său vast care oferă o privire în viața aristocratică, purtând încălțăminte confortabilă pentru trasee.",
+            "en": "Explore this charming historical castle and its extensive parkland offering a glimpse into aristocratic life, while wearing comfortable shoes to walk the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Sainte-Anne kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            0.487748,
+            49.574981
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel einer Kapelle mit einem sehr ruhigen Innenhof und setzen Sie sich kurz auf die Holzbänke, um die Stille zu genießen.",
+            "hu": "Fedezze fel a kápolna rejtett gyöngyszemét a békés udvarral, és üljön le egy percre a kinti fapadokra, hogy teljesen magába szívhassa a nyugalmas légkört.",
+            "ro": "Descoperiți această capelă ascunsă cu o curte remarcabil de liniștită și așezați-vă pe băncile de lemn de afară pentru a absorbi pe deplin atmosfera pașnică.",
+            "en": "Discover this hidden gem of a chapel with a remarkably tranquil courtyard, and sit briefly on the wooden benches outside to fully soak in the peaceful ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Thomas-de-Cantorbéry",
+            "hu": "Saint-Thomas-de-Cantorbéry templom",
+            "ro": "Biserica Saint-Thomas-de-Cantorbéry",
+            "en": "Église Saint-Thomas-de-Cantorbéry"
+          },
+          "coords": [
+            0.485771,
+            49.557678
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige Kirche mit ihrem robusten Mauerwerk und mittelalterlichen Wurzeln und achten Sie am Haupteingang auf die filigranen Portalschnitzereien.",
+            "hu": "Látogassa meg ezt az egyedi nevű templomot robusztus kőfalaiért és középkori gyökereiért, különösen figyelve a főbejárat bonyolult portálfaragásaira.",
+            "ro": "Vizitați această biserică remarcabilă pentru zidăria robustă și rădăcinile medievale, observând sculpturile complicate ale portalului de la intrarea principală.",
+            "en": "Visit this uniquely named church known for its robust stonework and fascinating medieval roots, noting the intricate portal carvings as you enter the main door."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Zentrum beim Rathaus, der Kirche Saint-Michel und dem Tempel. Mittags radeln Sie zum Château du Val au Grès, wo Sie das weitläufige historische Anwesen erkunden. Nachmittags fahren Sie zur entspannenden Kapelle Sainte-Anne und dann südwärts zur Église Saint-Thomas. Die Tour endet am südlichen Stadtrand mit schönen Eindrücken der Umgebung.",
+        "hu": "A kerékpártúra a központban kezdődik a városháza, a Saint-Michel és a protestáns templom érintésével. Délben a Château du Val au Grès felé teker, ahol bejárhatja a történelmi birtokot. Délután a Sainte-Anne kápolnához, majd délre, a Saint-Thomas templomhoz pedáloz. A túra a déli peremvidéken zárul, kellemes panorámával gazdagítva a napot.",
+        "ro": "Turul cu bicicleta începe în centru la Primărie, biserica Saint-Michel și templul istoric. La prânz pedalați către Château du Val au Grès, unde explorați imensa proprietate istorică. După-amiaza mergeți la capela Sainte-Anne și apoi spre sud la biserica Saint-Thomas. Turul se încheie în periferia sudică, oferind perspective panoramice relaxante.",
+        "en": "Your cycling journey starts in the town center, checking out the Town Hall and the notable Saint-Michel and Le temple churches. By midday, pedal towards the Château du Val au Grès, where you can park your bike and explore the extensive historical estate. In the afternoon, you ride to the serene Chapelle Sainte-Anne and then push southwards to the uniquely named Église Saint-Thomas. The bike tour wraps up in the southern outskirts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 8.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Saint-Sauveur templom",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            0.477306,
+            49.598459
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Turmspitze von Saint-Sauveur, die die nördliche Skyline dominiert, und lesen Sie die informative Plakette am Haupteingang.",
+            "hu": "Csodálja meg a Saint-Sauveur északi látképet uraló jellegzetes tornyát, és szánjon egy percet a főbejárat melletti informatív emléktábla elolvasására.",
+            "ro": "Minunați-vă de turla distinctă a bisericii Saint-Sauveur care domină orizontul nordic și citiți placa informativă situată chiar lângă intrarea principală.",
+            "en": "Marvel at the distinct spire of Saint-Sauveur that dominates the northern skyline, and take a moment to read the informative plaque near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Val au Grès",
+            "hu": "Château du Val au Grès",
+            "ro": "Château du Val au Grès",
+            "en": "Château du Val au Grès"
+          },
+          "coords": [
+            0.470277,
+            49.575685
+          ],
+          "category": "castle",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Schloss und seinen großen Park, der Einblicke ins adlige Leben bietet, und tragen Sie bequeme Schuhe für die Spazierwege.",
+            "hu": "Fedezze fel ezt a bájos történelmi kastélyt és hatalmas parkját, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt az ösvényekhez.",
+            "ro": "Explorați acest castel istoric fermecător și parcul său vast care oferă o privire în viața aristocratică, purtând încălțăminte confortabilă pentru trasee.",
+            "en": "Explore this charming historical castle and its extensive parkland offering a glimpse into aristocratic life, while wearing comfortable shoes to walk the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Bolbec",
+            "hu": "Bolbec városháza",
+            "ro": "Primăria Bolbec",
+            "en": "Bolbec Town Hall"
+          },
+          "coords": [
+            0.474242,
+            49.573932
+          ],
+          "category": "civic",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade des zentralen Rathauses, die den Stolz der Stadt widerspiegelt, und prüfen Sie den Aushang nach Kulturveranstaltungen.",
+            "hu": "Tekintse meg a központi városháza lenyűgöző homlokzatát, amely a város polgári büszkeségét tükrözi, és nézze meg a hirdetőtáblát az ingyenes programokért.",
+            "ro": "Admirați fațada impresionantă a Primăriei centrale care reflectă mândria civică a orașului și verificați panoul informativ pentru evenimente culturale gratuite.",
+            "en": "View the impressive facade of the central Town Hall, which reflects the town's civic pride, and check the notice board for free upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            0.47151,
+            49.571382
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Betreten Sie diese imposante Kirche, um die schönen Buntglasfenster zur Stadtgeschichte zu sehen, und bringen Sie eine Kamera für die Architekturdetails mit.",
+            "hu": "Lépjen be ebbe a lenyűgöző templomba a helyi történelmet bemutató csodás ólomüveg ablakokért, és feltétlenül hozzon fényképezőgépet az építészeti részletekhez.",
+            "ro": "Intrați în această biserică măreață pentru vitraliile frumoase cu istoria locală și aduceți un aparat foto pentru a surprinde detaliile arhitecturale superbe.",
+            "en": "Step into this grand church to see its beautiful stained glass windows depicting local history, and bring a camera for the stunning architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Sainte-Anne kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            0.487748,
+            49.574981
+          ],
+          "category": "religious",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel einer Kapelle mit einem sehr ruhigen Innenhof und setzen Sie sich kurz auf die Holzbänke, um die Stille zu genießen.",
+            "hu": "Fedezze fel a kápolna rejtett gyöngyszemét a békés udvarral, és üljön le egy percre a kinti fapadokra, hogy teljesen magába szívhassa a nyugalmas légkört.",
+            "ro": "Descoperiți această capelă ascunsă cu o curte remarcabil de liniștită și așezați-vă pe băncile de lemn de afară pentru a absorbi pe deplin atmosfera pașnică.",
+            "en": "Discover this hidden gem of a chapel with a remarkably tranquil courtyard, and sit briefly on the wooden benches outside to fully soak in the peaceful ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eustache",
+            "hu": "Saint-Eustache templom",
+            "ro": "Biserica Saint-Eustache",
+            "en": "Église Saint-Eustache"
+          },
+          "coords": [
+            0.451966,
+            49.552593
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.58,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Stätte mit klassischer normannischer Architektur und schlendern Sie für den lokalen Kontext durch den kleinen angrenzenden Friedhof.",
+            "hu": "Utazzon el ehhez a klasszikus normann építészetet felvonultató helyszínhez, és sétáljon végig a szomszédos kis temetőn a helyi történelmi kontextusért.",
+            "ro": "Vizitați acest sit istoric din sud-vest cu arhitectură normandă clasică și plimbați-vă prin micul cimitir adiacent pentru un context istoric și cultural local.",
+            "en": "Journey to this southwestern historical site featuring classic rural Norman architecture, and stroll through the adjacent small cemetery for local historical context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie im Norden an der Église Saint-Sauveur, bevor Sie zum Château du Val au Grès fahren. Mittags erreichen Sie das Zentrum für das Rathaus und die Kirche Saint-Michel. Nachmittags fahren Sie zur idyllischen Kapelle Sainte-Anne und in den Südwesten zur Église Saint-Eustache. Sie haben Bolbecs architektonische Schätze effizient und komfortabel erkundet.",
+        "hu": "Az autós útvonal északon, a Saint-Sauveur templomnál indul, mielőtt a Château du Val au Grès felé venné az irányt. Délben a központban a városházát és a Saint-Michel templomot nézheti meg. Délután a Sainte-Anne kápolnához, majd délnyugatra, a Saint-Eustache templomhoz vezet az út. Így a város minden távolabbi kincsét kényelmesen bejárta a nap végére.",
+        "ro": "Cu mașina începeți în nord la Saint-Sauveur, înainte de a vedea impresionantul Château du Val au Grès. La prânz ajungeți în centru pentru opriri la Primărie și biserica Saint-Michel. După-amiaza conduceți la capela Sainte-Anne, iar apoi în sud-vest la biserica Saint-Eustache. Astfel, veți fi explorat eficient toate comorile arhitecturale dispersate ale orașului.",
+        "en": "Driving allows you to start in the north at Église Saint-Sauveur before heading into the town to see the sprawling Château du Val au Grès. Midday brings you to the bustling center for quick stops at the Town Hall and Saint-Michel Church, easily moving between key sites. After lunch, a brief drive takes you to the peaceful Chapelle Sainte-Anne before cruising to the southwestern corner at Église Saint-Eustache. Concluding your driving itinerary, you will have efficiently covered Bolbec's most distant architectural treasures."
+      }
+    }
+  }
+}

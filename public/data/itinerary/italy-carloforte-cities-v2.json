@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-carloforte-cities-v2",
+  "anchor": {
+    "name": "Carloforte",
+    "coords": [
+      8.30643,
+      39.14548
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Carlo Emanuele Terzo",
+            "hu": "Monumento a Carlo Emanuele Terzo",
+            "ro": "Monumento a Carlo Emanuele Terzo",
+            "en": "Monumento a Carlo Emanuele Terzo"
+          },
+          "coords": [
+            8.307466,
+            39.145317
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Gründers der Stadt auf der malerischen Uferpromenade und machen Sie hier am Morgen Ihr erstes Erinnerungsfoto.",
+            "hu": "Csodálja meg a városalapító szobrát a festői tengerparti sétányon, és készítse el itt az első reggeli emlékképeit a szigetről.",
+            "ro": "Admirați statuia fondatorului orașului pe promenada pitorească de la malul mării și faceți aici prima fotografie de amintire a dimineții.",
+            "en": "Admire the statue of the city's founder on the picturesque waterfront promenade, and snap your first souvenir photo here in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Madonna dello Schiavo",
+            "hu": "Chiesa Madonna dello Schiavo",
+            "ro": "Chiesa Madonna dello Schiavo",
+            "en": "Chiesa Madonna dello Schiavo"
+          },
+          "coords": [
+            8.306112,
+            39.144986
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine Kirche mit der hölzernen Madonnenstatue, die von ehemaligen Sklaven gerettet wurde, und beachten Sie die Votivgaben an den Wänden.",
+            "hu": "Fedezze fel a kis templomot a volt rabszolgák által megmentett fából készült Madonna-szoborral, és figyelje meg a falakon lévő fogadalmi ajándékokat.",
+            "ro": "Descoperiți mica biserică cu statuia de lemn a Madonei salvată de foști sclavi și observați ofrandele votive impresionante de pe pereți.",
+            "en": "Discover the small church housing a wooden Madonna statue rescued by former slaves, and take time to look at the votive offerings on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Casa del Duca",
+            "hu": "Museo Civico Casa del Duca",
+            "ro": "Museo Civico Casa del Duca",
+            "en": "Museo Civico Casa del Duca"
+          },
+          "coords": [
+            8.305552,
+            39.146642
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen historischen Gebäude tief in die Geschichte von Carloforte ein, wobei die maritimen Ausstellungsstücke besonders sehenswert sind.",
+            "hu": "Merüljön el Carloforte történelmében ebben a jól karbantartott történelmi épületben, ahol a tengerészeti kiállítási tárgyak különösen figyelemre méltók.",
+            "ro": "Pătrundeți în istoria orașului Carloforte în această clădire istorică bine conservată, unde exponatele maritime sunt deosebit de demne de văzut.",
+            "en": "Dive into the history of Carloforte inside this well-preserved historical building, paying special attention to the fascinating maritime exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Santa Teresa",
+            "hu": "Forte Santa Teresa",
+            "ro": "Forte Santa Teresa",
+            "en": "Forte Santa Teresa"
+          },
+          "coords": [
+            8.307841,
+            39.148732
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese alte Festungsanlage, um mehr über die Verteidigungsgeschichte zu erfahren und einen fantastischen Blick über das Meer zu genießen.",
+            "hu": "Mássza meg ezt a régi erődítményt, hogy többet tudjon meg a védelem történetéről, és élvezze a tengerre nyíló fantasztikus kilátást a falakról.",
+            "ro": "Urcați în această veche fortăreață pentru a afla despre istoria apărării și pentru a vă bucura de o vedere panoramică fantastică asupra mării.",
+            "en": "Climb up to this old fortress to learn about the town's defensive history and to enjoy a truly fantastic panoramic view over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro Apostolo",
+            "hu": "San Pietro Apostolo",
+            "ro": "San Pietro Apostolo",
+            "en": "San Pietro Apostolo"
+          },
+          "coords": [
+            8.302109,
+            39.143284
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Herzen der Altstadt und bewundern Sie die schlichte, aber elegante neoklassizistische Architektur bei einer ruhigen Pause.",
+            "hu": "Látogasson el ebbe a hangulatos templomba az óváros szívében, és csodálja meg az egyszerű, de elegáns neoklasszikus építészetet egy csendes pihenő során.",
+            "ro": "Vizitați această biserică fermecătoare din inima orașului vechi și admirați arhitectura neoclasică simplă, dar elegantă, într-o pauză liniștită.",
+            "en": "Visit this charming church in the heart of the old town and admire its simple yet elegant neoclassical architecture during a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti di Carloforte",
+            "hu": "Monumento ai Caduti di Carloforte",
+            "ro": "Monumento ai Caduti di Carloforte",
+            "en": "Monumento ai Caduti di Carloforte"
+          },
+          "coords": [
+            8.305602,
+            39.142709
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie einen Moment inne an diesem Denkmal für die Gefallenen, das einen wichtigen Teil der lokalen Geschichte und des Gedenkens repräsentiert.",
+            "hu": "Álljon meg egy pillanatra ennél a hősi halottak emlékművénél, amely a helyi történelem és megemlékezés nagyon is fontos részét képezi.",
+            "ro": "Opriți-vă un moment la acest monument dedicat celor căzuți, care reprezintă o parte importantă a istoriei locale și a amintirii comunității.",
+            "en": "Pause for a moment at this monument dedicated to the fallen soldiers, which represents an important piece of local history and remembrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Carloforte beginnt im Herzen der Stadt, wo Sie die malerische Uferpromenade und das Denkmal des Gründers bei morgendlichem Licht bewundern. Am Vormittag tauchen Sie tief in die Kultur ein, erkunden kleine versteckte Kirchen und das spannende historische Stadtmuseum in den Gassen. Der Nachmittag lockt mit atemberaubenden Aussichten von der alten Festung, wo Sie die maritime Atmosphäre der gesamten Insel vollends spüren können. Lassen Sie den Tag entspannt bei einem Spaziergang durch die belebten Straßen ausklingen und genießen Sie das besondere Flair dieser ligurischen Enklave.",
+        "hu": "Carlofortei napja a város szívében kezdődik, ahol a reggeli fényben megcsodálhatja a festői tengerparti sétányt és a városalapító emlékművét. Délelőtt merüljön el a helyi kultúrában, fedezze fel a kis rejtett templomokat és a lenyűgöző történelmi városi múzeumot a szűk utcácskákban. A délután lélegzetelállító kilátással csábít a régi erődítményből, ahonnan teljes mértékben átérezheti az egész sziget tengeri atmoszféráját. Zárja a napot egy pihentető sétával a nyüzsgő utcákon, és élvezze ennek a különleges liguriai enklávénak a varázslatos esti hangulatát.",
+        "ro": "Ziua dumneavoastră în Carloforte începe în inima orașului, unde veți admira promenada pitorească și monumentul fondatorului în lumina caldă a dimineții. Până la prânz, vă veți scufunda adânc în cultura locală, explorând biserici mici ascunse și fascinantul muzeu de istorie de pe străduțele înguste. După-amiaza vă atrage cu priveliști uluitoare de la vechea fortăreață, de unde puteți simți din plin atmosfera maritimă a întregii insule. Încheiați-vă ziua cu o plimbare relaxantă pe străzile pline de viață și bucurați-vă de farmecul deosebit al acestei enclave ligurice fermecătoare.",
+        "en": "Your day in Carloforte begins in the heart of the town, admiring the picturesque waterfront promenade and the founder's monument in the soft morning light. By late morning, you will dive deep into local culture, exploring small hidden churches and the fascinating civic history museum tucked in the alleys. The afternoon invites you to enjoy breathtaking panoramic views from the old fortress, perfectly capturing the maritime atmosphere of the entire island. End your day with a relaxing stroll through the lively streets, soaking up the unique evening charm and vibrant flair of this special Ligurian enclave."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Carlo Emanuele Terzo",
+            "hu": "Monumento a Carlo Emanuele Terzo",
+            "ro": "Monumento a Carlo Emanuele Terzo",
+            "en": "Monumento a Carlo Emanuele Terzo"
+          },
+          "coords": [
+            8.307466,
+            39.145317
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Gründers der Stadt auf der malerischen Uferpromenade und machen Sie hier am Morgen Ihr erstes Erinnerungsfoto.",
+            "hu": "Csodálja meg a városalapító szobrát a festői tengerparti sétányon, és készítse el itt az első reggeli emlékképeit a szigetről.",
+            "ro": "Admirați statuia fondatorului orașului pe promenada pitorească de la malul mării și faceți aici prima fotografie de amintire a dimineții.",
+            "en": "Admire the statue of the city's founder on the picturesque waterfront promenade, and snap your first souvenir photo here in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Multimediale della Torre San Vittorio",
+            "hu": "Museo Multimediale della Torre San Vittorio",
+            "ro": "Museo Multimediale della Torre San Vittorio",
+            "en": "Museo Multimediale della Torre San Vittorio"
+          },
+          "coords": [
+            8.311789,
+            39.137174
+          ],
+          "category": "museum",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die interaktive Geschichte der Insel in diesem modernen Multimediamuseum, das sich perfekt für Familien und technikbegeisterte Besucher eignet.",
+            "hu": "Élje át a sziget interaktív történelmét ebben a modern multimédiás múzeumban, amely tökéletes program családok és a technika iránt érdeklődők számára.",
+            "ro": "Experimentați istoria interactivă a insulei în acest muzeu multimedia modern, care este perfect pentru familii și vizitatori pasionați de tehnologie.",
+            "en": "Experience the interactive history of the island in this modern multimedia museum, which is perfectly suited for families and tech-loving visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Giunco",
+            "hu": "Spiaggia del Giunco",
+            "ro": "Spiaggia del Giunco",
+            "en": "Spiaggia del Giunco"
+          },
+          "coords": [
+            8.309048,
+            39.124016
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Strand mit feinem Sand und klarem Wasser, vergessen Sie aber nicht, Ihre eigenen Handtücher und Snacks mitzubringen.",
+            "hu": "Pihenjen meg ezen a gyönyörű, finom homokos, tiszta vizű strandon, de ne felejtsen el saját törölközőt és egy kis rágcsálnivalót magával hozni.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu nisip fin și apă limpede, dar nu uitați să vă aduceți propriile prosoape și câteva gustări pentru picnic.",
+            "en": "Relax on this beautiful beach with its fine sand and clear water, but make sure to bring your own towels and some snacks for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cineteatro Giuseppe Cavallera",
+            "hu": "Cineteatro Giuseppe Cavallera",
+            "ro": "Cineteatro Giuseppe Cavallera",
+            "en": "Cineteatro Giuseppe Cavallera"
+          },
+          "coords": [
+            8.306957,
+            39.143356
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieses historischen Theaters, das als kulturelles Zentrum dient und ein tolles Fotomotiv am Nachmittag bietet.",
+            "hu": "Csodálja meg ennek a kulturális központként működő történelmi színháznak az impozáns homlokzatát, amely nagyszerű fotótéma a délutáni órákban.",
+            "ro": "Admirați fațada impunătoare a acestui teatru istoric, care servește drept centru cultural și oferă o oportunitate excelentă de fotografie după-amiaza.",
+            "en": "Admire the imposing facade of this historic theater, which serves as a cultural hub and provides a fantastic photo opportunity in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro Apostolo",
+            "hu": "San Pietro Apostolo",
+            "ro": "San Pietro Apostolo",
+            "en": "San Pietro Apostolo"
+          },
+          "coords": [
+            8.302109,
+            39.143284
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Herzen der Altstadt und bewundern Sie die schlichte, aber elegante neoklassizistische Architektur bei einer ruhigen Pause.",
+            "hu": "Látogasson el ebbe a hangulatos templomba az óváros szívében, és csodálja meg az egyszerű, de elegáns neoklasszikus építészetet egy csendes pihenő során.",
+            "ro": "Vizitați această biserică fermecătoare din inima orașului vechi și admirați arhitectura neoclasică simplă, dar elegantă, într-o pauză liniștită.",
+            "en": "Visit this charming church in the heart of the old town and admire its simple yet elegant neoclassical architecture during a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Santa Teresa",
+            "hu": "Forte Santa Teresa",
+            "ro": "Forte Santa Teresa",
+            "en": "Forte Santa Teresa"
+          },
+          "coords": [
+            8.307841,
+            39.148732
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese alte Festungsanlage, um mehr über die Verteidigungsgeschichte zu erfahren und einen fantastischen Blick über das Meer zu genießen.",
+            "hu": "Mássza meg ezt a régi erődítményt, hogy többet tudjon meg a védelem történetéről, és élvezze a tengerre nyíló fantasztikus kilátást a falakról.",
+            "ro": "Urcați în această veche fortăreață pentru a afla despre istoria apărării și pentru a vă bucura de o vedere panoramică fantastică asupra mării.",
+            "en": "Climb up to this old fortress to learn about the town's defensive history and to enjoy a truly fantastic panoramic view over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradausflug beginnt im Stadtzentrum mit einem Besuch am Gründerdenkmal, gefolgt von einer gemütlichen Fahrt zum modernen Multimediamuseum nahe der Küste. Am Mittag radeln Sie entspannt zum wunderschönen Strand Spiaggia del Giunco, wo weicher Sand und klares Wasser auf Sie warten. Der Nachmittag führt Sie zurück ins Herz von Carloforte, um historische Highlights wie das imposante Theater und die alte Kirche zu bewundern. Zum Abschluss genießen Sie vom alten Fort Santa Teresa aus einen unvergleichlichen Blick auf das offene Meer.",
+        "hu": "Kerékpáros kirándulása a városközpontban kezdődik a városalapító emlékművénél, majd egy kényelmes tekeréssel a partközeli modern multimédiás múzeumhoz ér. Délben lazítson egyet a gyönyörű Spiaggia del Giunco strandon, ahol finom homok és kristálytiszta víz várja. A délután visszavezeti Önt Carloforte szívébe, hogy megcsodálja a történelmi látnivalókat, például az impozáns színházat és a régi templomot. Befejezésül élvezze a régi Santa Teresa erődítményből nyíló páratlan kilátást a nyílt tengerre.",
+        "ro": "Excursia dumneavoastră cu bicicleta începe în centrul orașului la monumentul fondatorului, urmată de o plimbare spre modernul muzeu multimedia de lângă coastă. La prânz veți pedala relaxat către frumoasa plajă Spiaggia del Giunco, unde vă așteaptă nisip fin și apă curată. După-amiaza vă întoarceți în inima orașului Carloforte pentru a admira puncte de atracție istorice, precum impunătorul teatru și vechea biserică. Încheiați-vă ziua bucurându-vă de o priveliște de neegalat asupra mării deschise de la vechiul Fort Santa Teresa.",
+        "en": "Your cycling tour begins in the town center at the founder's monument, followed by a pleasant ride to the modern multimedia museum near the coast. At noon, you will pedal down to the beautiful Spiaggia del Giunco beach, where soft sand and crystal-clear water await. The afternoon leads you back into the heart of Carloforte to admire historical highlights like the grand theater and the charming old church. Finally, conclude your trip by taking in the unparalleled panoramic view of the open sea from the old Forte Santa Teresa."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte Santa Teresa",
+            "hu": "Forte Santa Teresa",
+            "ro": "Forte Santa Teresa",
+            "en": "Forte Santa Teresa"
+          },
+          "coords": [
+            8.307841,
+            39.148732
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese alte Festungsanlage, um mehr über die Verteidigungsgeschichte zu erfahren und einen fantastischen Blick über das Meer zu genießen.",
+            "hu": "Mássza meg ezt a régi erődítményt, hogy többet tudjon meg a védelem történetéről, és élvezze a tengerre nyíló fantasztikus kilátást a falakról.",
+            "ro": "Urcați în această veche fortăreață pentru a afla despre istoria apărării și pentru a vă bucura de o vedere panoramică fantastică asupra mării.",
+            "en": "Climb up to this old fortress to learn about the town's defensive history and to enjoy a truly fantastic panoramic view over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Casa del Duca",
+            "hu": "Museo Civico Casa del Duca",
+            "ro": "Museo Civico Casa del Duca",
+            "en": "Museo Civico Casa del Duca"
+          },
+          "coords": [
+            8.305552,
+            39.146642
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen historischen Gebäude tief in die Geschichte von Carloforte ein, wobei die maritimen Ausstellungsstücke besonders sehenswert sind.",
+            "hu": "Merüljön el Carloforte történelmében ebben a jól karbantartott történelmi épületben, ahol a tengerészeti kiállítási tárgyak különösen figyelemre méltók.",
+            "ro": "Pătrundeți în istoria orașului Carloforte în această clădire istorică bine conservată, unde exponatele maritime sunt deosebit de demne de văzut.",
+            "en": "Dive into the history of Carloforte inside this well-preserved historical building, paying special attention to the fascinating maritime exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Madonna dello Schiavo",
+            "hu": "Chiesa Madonna dello Schiavo",
+            "ro": "Chiesa Madonna dello Schiavo",
+            "en": "Chiesa Madonna dello Schiavo"
+          },
+          "coords": [
+            8.306112,
+            39.144986
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine Kirche mit der hölzernen Madonnenstatue, die von ehemaligen Sklaven gerettet wurde, und beachten Sie die Votivgaben an den Wänden.",
+            "hu": "Fedezze fel a kis templomot a volt rabszolgák által megmentett fából készült Madonna-szoborral, és figyelje meg a falakon lévő fogadalmi ajándékokat.",
+            "ro": "Descoperiți mica biserică cu statuia de lemn a Madonei salvată de foști sclavi și observați ofrandele votive impresionante de pe pereți.",
+            "en": "Discover the small church housing a wooden Madonna statue rescued by former slaves, and take time to look at the votive offerings on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Carlo Emanuele Terzo",
+            "hu": "Monumento a Carlo Emanuele Terzo",
+            "ro": "Monumento a Carlo Emanuele Terzo",
+            "en": "Monumento a Carlo Emanuele Terzo"
+          },
+          "coords": [
+            8.307466,
+            39.145317
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Gründers der Stadt auf der malerischen Uferpromenade und machen Sie hier am Morgen Ihr erstes Erinnerungsfoto.",
+            "hu": "Csodálja meg a városalapító szobrát a festői tengerparti sétányon, és készítse el itt az első reggeli emlékképeit a szigetről.",
+            "ro": "Admirați statuia fondatorului orașului pe promenada pitorească de la malul mării și faceți aici prima fotografie de amintire a dimineții.",
+            "en": "Admire the statue of the city's founder on the picturesque waterfront promenade, and snap your first souvenir photo here in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Multimediale della Torre San Vittorio",
+            "hu": "Museo Multimediale della Torre San Vittorio",
+            "ro": "Museo Multimediale della Torre San Vittorio",
+            "en": "Museo Multimediale della Torre San Vittorio"
+          },
+          "coords": [
+            8.311789,
+            39.137174
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die interaktive Geschichte der Insel in diesem modernen Multimediamuseum, das sich perfekt für Familien und technikbegeisterte Besucher eignet.",
+            "hu": "Élje át a sziget interaktív történelmét ebben a modern multimédiás múzeumban, amely tökéletes program családok és a technika iránt érdeklődők számára.",
+            "ro": "Experimentați istoria interactivă a insulei în acest muzeu multimedia modern, care este perfect pentru familii și vizitatori pasionați de tehnologie.",
+            "en": "Experience the interactive history of the island in this modern multimedia museum, which is perfectly suited for families and tech-loving visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Giunco",
+            "hu": "Spiaggia del Giunco",
+            "ro": "Spiaggia del Giunco",
+            "en": "Spiaggia del Giunco"
+          },
+          "coords": [
+            8.309048,
+            39.124016
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Strand mit feinem Sand und klarem Wasser, vergessen Sie aber nicht, Ihre eigenen Handtücher und Snacks mitzubringen.",
+            "hu": "Pihenjen meg ezen a gyönyörű, finom homokos, tiszta vizű strandon, de ne felejtsen el saját törölközőt és egy kis rágcsálnivalót magával hozni.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu nisip fin și apă limpede, dar nu uitați să vă aduceți propriile prosoape și câteva gustări pentru picnic.",
+            "en": "Relax on this beautiful beach with its fine sand and clear water, but make sure to bring your own towels and some snacks for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten Ihren Ausflug am nördlichen Fort Santa Teresa, um einen grandiosen Blick zu genießen, bevor Sie mit dem Auto in die reiche Stadtgeschichte des Museo Civico eintauchen. Am Mittag führt Ihre Route Sie zu charmanten religiösen und historischen Stätten im Stadtzentrum, die Sie dank kurzer Wege bequem erkunden können. Ein Abstecher in die Moderne erwartet Sie am Nachmittag beim interaktiven Multimediamuseum der Torre San Vittorio. Schließlich lassen Sie diesen erlebnisreichen Tag in aller Ruhe am wunderschönen Sandstrand Spiaggia del Giunco ausklingen.",
+        "hu": "Kirándulását az északi Santa Teresa erődítménynél kezdi, ahonnan nagyszerű kilátás nyílik, majd autóval elmélyül a Museo Civico gazdag várostörténetében. Délben útvonala a városközpont bájos vallási és történelmi helyszíneihez vezet, amelyeket a rövid távolságok miatt kényelmesen felfedezhet. A délután folyamán egy modern kitérő várja Önt a Torre San Vittorio interaktív multimédiás múzeumában. Végül ezt az eseménydús napot a gyönyörű Spiaggia del Giunco homokos tengerparton pihenheti ki teljes nyugalomban.",
+        "ro": "Vă începeți excursia la nordicul Fort Santa Teresa pentru a vă bucura de o vedere panoramică grandioasă, înainte de a vă scufunda cu mașina în istoria bogată de la Museo Civico. La prânz, traseul vă poartă către situri religioase și istorice fermecătoare din centrul orașului, pe care le puteți explora confortabil. O incursiune în modernitate vă așteaptă după-amiaza la muzeul multimedia interactiv de la Torre San Vittorio. În cele din urmă, veți încheia această zi plină de evenimente relaxându-vă în liniște pe frumoasa plajă de nisip Spiaggia del Giunco.",
+        "en": "You will start your journey at the northern Forte Santa Teresa to enjoy a grand panoramic view, before driving over to delve into the rich civic history at the local museum. By noon, your route takes you to charming religious and historical sites in the town center, effortlessly explored thanks to short driving distances. A modern detour awaits you in the afternoon at the interactive multimedia museum of Torre San Vittorio. Finally, you will wind down this eventful day in complete tranquility on the beautiful sandy shores of Spiaggia del Giunco."
+      }
+    }
+  }
+}

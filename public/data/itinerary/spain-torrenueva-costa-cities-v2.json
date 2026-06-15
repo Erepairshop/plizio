@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-torrenueva-costa-cities-v2",
+  "anchor": {
+    "name": "Torrenueva Costa",
+    "coords": [
+      -3.48581,
+      36.70179
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Torrenueva Costa",
+            "hu": "Playa de Torrenueva Costa",
+            "ro": "Playa de Torrenueva Costa",
+            "en": "Playa de Torrenueva Costa"
+          },
+          "coords": [
+            -3.488591,
+            36.70223
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit klarem Wasser und mieten Sie sich eine Liege, wobei Sie früh kommen sollten, um einen guten Platz zu ergattern.",
+            "hu": "Pihenjen ezen a tágas, családbarát strandon, ahol napágyakat bérelhet és úszhat a tiszta vízben, de érkezzen korán, hogy jó helyet kapjon a kávézók közelében.",
+            "ro": "Relaxați-vă pe această plajă spațioasă și prietenoasă cu familiile, unde puteți închiria șezlonguri, ajungând devreme pentru a prinde un loc bun lângă cafenele.",
+            "en": "Relax on this expansive, family-friendly beach where you can rent loungers and swim in clear waters, arriving early to secure a prime spot near the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Peñón de Jolúcar",
+            "hu": "Mirador Peñón de Jolúcar",
+            "ro": "Mirador Peñón de Jolúcar",
+            "en": "Mirador Peñón de Jolúcar"
+          },
+          "coords": [
+            -3.481137,
+            36.69743
+          ],
+          "category": "natural",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Mittelmeerküste von dieser erhöhten Felsformation und bringen Sie eine Kamera mit gutem Zoom für Boote mit.",
+            "hu": "Készítsen panorámaképeket a Földközi-tenger partjáról erről a magas természetes sziklaképződményről, és hozzon magával jó zoomos fényképezőgépet.",
+            "ro": "Surprindeți vederi panoramice ale coastei de pe această formațiune stâncoasă naturală, aducând un aparat foto cu un zoom bun pentru bărcile îndepărtate.",
+            "en": "Capture panoramic views of the Mediterranean coastline from this elevated natural rock formation, bringing a camera with a good zoom for distant boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de los Pobres",
+            "hu": "Cala de los Pobres",
+            "ro": "Cala de los Pobres",
+            "en": "Cala de los Pobres"
+          },
+          "coords": [
+            -3.478236,
+            36.696996
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im ruhigen Wasser dieser kleinen Bucht, die sich perfekt zum Schnorcheln eignet, aber bringen Sie am besten eigenes Wasser und Snacks mit.",
+            "hu": "Ússzon ennek a kis öbölnek a nyugodt, védett vizeiben, amely tökéletes sznorkelezéshez, bár érdemes saját vizet és rágcsálnivalót hozni.",
+            "ro": "Înotați în apele liniștite și adăpostite ale acestui mic golf, perfect pentru snorkeling, deși ar trebui să vă aduceți propria apă și gustări.",
+            "en": "Swim in the tranquil, sheltered waters of this small cove, which is perfect for snorkeling, though you should bring your own water and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador El Hondurón",
+            "hu": "Mirador El Hondurón",
+            "ro": "Mirador El Hondurón",
+            "en": "Mirador El Hondurón"
+          },
+          "coords": [
+            -3.476007,
+            36.697209
+          ],
+          "category": "natural",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an diesem Aussichtspunkt, um die Klippen zu bewundern, und halten Sie an windigen Tagen Ihren Hut gut fest.",
+            "hu": "Tartson egy rövid pihenőt ezen a festői kilátóponton, hogy megcsodálja a tengerbe zuhanó drámai sziklákat, szeles napokon pedig vigyázzon a kalapjára.",
+            "ro": "Faceți o scurtă pauză la acest punct de belvedere pentru a admira stâncile dramatice, ținându-vă bine pălăria în zilele cu vânt puternic.",
+            "en": "Take a brief break at this scenic overlook to admire the dramatic coastal cliffs plunging into the sea, holding onto your hat during windy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Joya",
+            "hu": "Playa de la Joya",
+            "ro": "Playa de la Joya",
+            "en": "Playa de la Joya"
+          },
+          "coords": [
+            -3.473846,
+            36.696332
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Sonnenbad an diesem unberührten, FKK-freundlichen Strand, der über eine steile Treppe erreichbar ist, für die Sie festes Schuhwerk benötigen.",
+            "hu": "Élvezze a békés napozást ezen az érintetlen, nudistabarát strandon, amely egy meredek lépcsőn közelíthető meg, így stabil cipő viselése ajánlott.",
+            "ro": "Bucurați-vă de o sesiune de plajă liniștită pe această plajă virgină destinată și nudiștilor, accesibilă printr-o scară abruptă care necesită încălțăminte solidă.",
+            "en": "Enjoy a secluded and peaceful sunbathing session at this pristine nudist-friendly beach, accessible via a steep staircase that requires sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro del cabo Sacratif",
+            "hu": "Faro del cabo Sacratif",
+            "ro": "Faro del cabo Sacratif",
+            "en": "Faro del cabo Sacratif"
+          },
+          "coords": [
+            -3.4683,
+            36.69452
+          ],
+          "category": "landmark",
+          "arrive_at": "15:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses auf einer Landzunge thronenden Leuchtturms und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Csodálja meg ennek a fokon álló, működő világítótoronynak a történelmi építészetét, és érkezzen közvetlenül naplemente előtt a leglátványosabb fényekért.",
+            "ro": "Admirați arhitectura istorică a acestui far funcțional așezat pe un promontoriu, ajungând chiar înainte de apus pentru cele mai spectaculoase condiții de lumină.",
+            "en": "Admire the historic architecture of this functional lighthouse perched on a promontory, coming right before sunset for the most spectacular lighting conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt an der Playa de Torrenueva Costa, wo die sanften Wellen und die frische Meeresbrise den Ton für den Tag angeben.\n\nGegen Mittag wandern Sie entlang der Klippen, genießen das Panorama vom Mirador Peñón de Jolúcar und entspannen in der Cala de los Pobres.\n\nDer Nachmittag bietet weitere dramatische Küstenschönheit am Mirador El Hondurón und führt zu einem ausgiebigen Sonnenbad an der Playa de la Joya.\n\nIhre Küstenwanderung endet am Faro del cabo Sacratif, wo der historische Leuchtturm eine atemberaubende Kulisse für die Farben der goldenen Stunde bietet.",
+        "hu": "A reggel a tágas Playa de Torrenueva Costa strandon kezdődik, ahol a lágy hullámok és a friss tengeri szellő megadják a nap alaphangját.\n\nDélben a sziklák mentén túrázva élvezheti a Mirador Peñón de Jolúcar lenyűgöző panorámáját, majd megpihenhet a Cala de los Pobres öbölben.\n\nA délután további drámai partvidéki szépségeket kínál a Mirador El Hondurónnál, amelyet egy hosszú napozás és fürdőzés követ a Playa de la Joya-n.\n\nA part menti séta a Faro del cabo Sacratif világítótoronynál ér véget, amely lenyűgöző hátteret biztosít az aranyóra színeinek.",
+        "ro": "Dimineața începe la vasta Playa de Torrenueva Costa, unde valurile blânde și briza proaspătă a mării dau tonul relaxant al zilei.\n\nLa prânz, veți face o drumeție de-a lungul stâncilor, admirând panorama de la Mirador Peñón de Jolúcar și relaxându-vă în Cala de los Pobres.\n\nDupă-amiaza oferă mai multă frumusețe de coastă la Mirador El Hondurón, urmată de o sesiune prelungită de plajă la imaculata Playa de la Joya.\n\nPlimbarea pe coastă se încheie la Faro del cabo Sacratif, unde farul istoric oferă un fundal uimitor pentru culorile orei de aur.",
+        "en": "Your morning starts at the expansive Playa de Torrenueva Costa, where the gentle morning waves and fresh sea breeze set a relaxing tone for the day ahead.\n\nBy midday, you will hike along the cliffs, taking in the spectacular panoramas from Mirador Peñón de Jolúcar and relaxing in the secluded Cala de los Pobres.\n\nThe afternoon offers more dramatic coastal beauty at Mirador El Hondurón, leading into a prolonged sunbathing and swimming session at the pristine Playa de la Joya.\n\nYour coastal walk concludes as you reach the Faro del cabo Sacratif, where the historic lighthouse provides a stunning backdrop for the golden hour colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de la Pelá",
+            "hu": "Playa de la Pelá",
+            "ro": "Playa de la Pelá",
+            "en": "Playa de la Pelá"
+          },
+          "coords": [
+            -3.496402,
+            36.707996
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Spaziergang an diesem ruhigen Sandstrand am westlichen Rand der Stadt und cremen Sie sich gut ein, da es kaum Schatten gibt.",
+            "hu": "Kezdje a napot egy élénk sétával ezen a csendes homokos partszakaszon a város nyugati szélén, és használjon fényvédőt a kevés természetes árnyék miatt.",
+            "ro": "Începeți-vă ziua cu o plimbare energică de-a lungul acestei întinderi liniștite de nisip de la marginea vestică, folosind protecție solară din cauza lipsei de umbră.",
+            "en": "Start your day with a brisk walk along this quiet stretch of sand on the western edge of town, wearing sunscreen as there is very little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Atalaya nueva",
+            "hu": "Atalaya nueva",
+            "ro": "Atalaya nouă",
+            "en": "Atalaya nueva"
+          },
+          "coords": [
+            -3.492648,
+            36.706099
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieses historischen Wachturms, der zur Verteidigung gegen Piraten erbaut wurde, und nutzen Sie die Schrifttafeln zur Orientierung.",
+            "hu": "Fedezze fel ennek a kalózok ellen épült történelmi őrtoronynak a maradványait, és olvassa el az információs táblákat a stratégiai kialakítás megértéséhez.",
+            "ro": "Descoperiți rămășițele acestui turn istoric de coastă construit pentru apărarea împotriva piraților, citind plăcile informative pentru a-i înțelege designul.",
+            "en": "Discover the remnants of this historical coastal watchtower built to defend against pirates, using the informational plaques to understand its strategic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Torrenueva Costa",
+            "hu": "Playa de Torrenueva Costa",
+            "ro": "Playa de Torrenueva Costa",
+            "en": "Playa de Torrenueva Costa"
+          },
+          "coords": [
+            -3.488591,
+            36.70223
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit klarem Wasser und mieten Sie sich eine Liege, wobei Sie früh kommen sollten, um einen guten Platz zu ergattern.",
+            "hu": "Pihenjen ezen a tágas, családbarát strandon, ahol napágyakat bérelhet és úszhat a tiszta vízben, de érkezzen korán, hogy jó helyet kapjon a kávézók közelében.",
+            "ro": "Relaxați-vă pe această plajă spațioasă și prietenoasă cu familiile, unde puteți închiria șezlonguri, ajungând devreme pentru a prinde un loc bun lângă cafenele.",
+            "en": "Relax on this expansive, family-friendly beach where you can rent loungers and swim in clear waters, arriving early to secure a prime spot near the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Peñón de Jolúcar",
+            "hu": "Mirador Peñón de Jolúcar",
+            "ro": "Mirador Peñón de Jolúcar",
+            "en": "Mirador Peñón de Jolúcar"
+          },
+          "coords": [
+            -3.481137,
+            36.69743
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Mittelmeerküste von dieser erhöhten Felsformation und bringen Sie eine Kamera mit gutem Zoom für Boote mit.",
+            "hu": "Készítsen panorámaképeket a Földközi-tenger partjáról erről a magas természetes sziklaképződményről, és hozzon magával jó zoomos fényképezőgépet.",
+            "ro": "Surprindeți vederi panoramice ale coastei de pe această formațiune stâncoasă naturală, aducând un aparat foto cu un zoom bun pentru bărcile îndepărtate.",
+            "en": "Capture panoramic views of the Mediterranean coastline from this elevated natural rock formation, bringing a camera with a good zoom for distant boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Joya",
+            "hu": "Playa de la Joya",
+            "ro": "Playa de la Joya",
+            "en": "Playa de la Joya"
+          },
+          "coords": [
+            -3.473846,
+            36.696332
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Sonnenbad an diesem unberührten, FKK-freundlichen Strand, der über eine steile Treppe erreichbar ist, für die Sie festes Schuhwerk benötigen.",
+            "hu": "Élvezze a békés napozást ezen az érintetlen, nudistabarát strandon, amely egy meredek lépcsőn közelíthető meg, így stabil cipő viselése ajánlott.",
+            "ro": "Bucurați-vă de o sesiune de plajă liniștită pe această plajă virgină destinată și nudiștilor, accesibilă printr-o scară abruptă care necesită încălțăminte solidă.",
+            "en": "Enjoy a secluded and peaceful sunbathing session at this pristine nudist-friendly beach, accessible via a steep staircase that requires sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro del cabo Sacratif",
+            "hu": "Faro del cabo Sacratif",
+            "ro": "Faro del cabo Sacratif",
+            "en": "Faro del cabo Sacratif"
+          },
+          "coords": [
+            -3.4683,
+            36.69452
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses auf einer Landzunge thronenden Leuchtturms und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Csodálja meg ennek a fokon álló, működő világítótoronynak a történelmi építészetét, és érkezzen közvetlenül naplemente előtt a leglátványosabb fényekért.",
+            "ro": "Admirați arhitectura istorică a acestui far funcțional așezat pe un promontoriu, ajungând chiar înainte de apus pentru cele mai spectaculoase condiții de lumină.",
+            "en": "Admire the historic architecture of this functional lighthouse perched on a promontory, coming right before sunset for the most spectacular lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Salmonete",
+            "hu": "Playa Salmonete",
+            "ro": "Playa Salmonete",
+            "en": "Playa Salmonete"
+          },
+          "coords": [
+            -3.460844,
+            36.696562
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem entspannten Oststrand mit ruhigen Wellen und packen Sie ein kleines Picknick für die friedliche Atmosphäre am späten Nachmittag ein.",
+            "hu": "Fejezze be utazását ezen a nyugodt hullámokkal rendelkező keleti strandon, és hozzon magával egy könnyű pikniket a békés késő délutáni hangulat élvezetéhez.",
+            "ro": "Încheiați-vă călătoria pe această plajă estică relaxantă, cu valuri calme, aducând un picnic ușor pentru a vă bucura de atmosfera liniștită a după-amiezii târzii.",
+            "en": "End your journey at this relaxed eastern beach area characterized by its calm waves, packing a light picnic to enjoy the tranquil late afternoon atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am westlichen Rand an der Playa de la Pelá und genießen Sie die morgendliche Ruhe vor der Erkundung der Atalaya nueva.\n\nRadeln Sie in Richtung Zentrum zur belebten Playa de Torrenueva Costa und dann hinauf zum Mirador Peñón de Jolúcar für herrliche Meerblicke.\n\nVerbringen Sie einen entspannten Nachmittag und radeln Sie weiter nach Osten, um sich an der unberührten Playa de la Joya im Mittelmeer abzukühlen.\n\nDie Fahrt endet mit einem Stopp am Faro del cabo Sacratif, bevor Sie sich an der Playa Salmonete ausruhen und den Farbwechsel des Himmels beobachten.",
+        "hu": "Kezdje kerékpártúráját a nyugati szélén lévő Playa de la Pelá-n, élvezze a reggeli nyugalmat, mielőtt felfedezné az Atalaya nueva védelmi történetét.\n\nTekerjen a központ felé a nyüzsgő Playa de Torrenueva Costa strandhoz, majd menjen fel a Mirador Peñón de Jolúcarhoz a tengeri kilátásért.\n\nTöltsön egy pihentető délutánt kelet felé tekerve, és ereszkedjen le a Playa de la Joya érintetlen homokjára, hogy lehűljön a Földközi-tengerben.\n\nAz utazás a Faro del cabo Sacratifnál ér véget, majd a Playa Salmonete strandon pihenhet meg, figyelve az égbolt színváltozásait.",
+        "ro": "Începeți turul cu bicicleta la marginea vestică, la Playa de la Pelá, bucurându-vă de liniștea dimineții înainte de a explora Atalaya nueva.\n\nPedalați spre centru pentru a experimenta plaja animată Torrenueva Costa, apoi urcați la Mirador Peñón de Jolúcar pentru priveliști magnifice asupra mării.\n\nPetreceți o după-amiază relaxantă pedalând spre est, coborând spre nisipurile virgine de la Playa de la Joya pentru a vă răcori în Marea Mediterană.\n\nPlimbarea se termină cu o oprire pitorească la Faro del cabo Sacratif înainte de a vă odihni la Playa Salmonete, unde puteți urmări cerul schimbându-și culorile.",
+        "en": "Begin your cycling tour on the western edge at Playa de la Pelá, enjoying the morning tranquility before exploring the defensive history of Atalaya nueva.\n\nPedal towards the center to experience the lively Playa de Torrenueva Costa, then cycle up to Mirador Peñón de Jolúcar for magnificent sea views.\n\nSpend a relaxing afternoon cycling further east, taking time to descend to the unspoiled sands of Playa de la Joya to cool off in the Mediterranean.\n\nThe ride ends with a scenic stop at Faro del cabo Sacratif before finally resting at Playa Salmonete, where you can watch the sky change colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de la Chincheta",
+            "hu": "Playa de la Chincheta",
+            "ro": "Playa de la Chincheta",
+            "en": "Playa de la Chincheta"
+          },
+          "coords": [
+            -3.505572,
+            36.715537
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen kleineren, malerischen Strandabschnitt für einen ruhigen Morgen und tragen Sie Badeschuhe, um am steinigen Ufer bequem laufen zu können.",
+            "hu": "Fedezze fel ezt a kisebb, festői strandszakaszt, amely ideális egy csendes reggeli kiruccanáshoz, és viseljen vízi cipőt a kissé sziklás parton való kényelmes sétához.",
+            "ro": "Explorați această secțiune de plajă pitorească și mică, ideală pentru o evadare matinală, purtând pantofi de apă pentru a naviga confortabil malul ușor stâncos.",
+            "en": "Explore this smaller, picturesque beach section ideal for a quiet morning escape, wearing water shoes to comfortably navigate the slightly rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Cañón",
+            "hu": "Playa del Cañón",
+            "ro": "Playa del Cañón",
+            "en": "Playa del Cañón"
+          },
+          "coords": [
+            -3.499032,
+            36.71024
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem einladenden Strand mit feinem Sand und flachem Zugang zum Meer und bringen Sie Strandspielzeug mit, falls Sie Kinder haben.",
+            "hu": "Sütkérezzen a napon ezen a barátságos strandon, amely puha homokjáról és lankás partjáról ismert, és hozzon magával játékokat, ha kisgyermekekkel utazik.",
+            "ro": "Bucurați-vă de soare pe această plajă primitoare, cunoscută pentru nisipul moale și panta lină spre mare, aducând jucării dacă călătoriți cu copii mici.",
+            "en": "Soak in the sun at this welcoming beach known for its soft sand and gentle slope into the sea, bringing beach toys if you are traveling with young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Atalaya nueva",
+            "hu": "Atalaya nueva",
+            "ro": "Atalaya nouă",
+            "en": "Atalaya nueva"
+          },
+          "coords": [
+            -3.492648,
+            36.706099
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieses historischen Wachturms, der zur Verteidigung gegen Piraten erbaut wurde, und nutzen Sie die Schrifttafeln zur Orientierung.",
+            "hu": "Fedezze fel ennek a kalózok ellen épült történelmi őrtoronynak a maradványait, és olvassa el az információs táblákat a stratégiai kialakítás megértéséhez.",
+            "ro": "Descoperiți rămășițele acestui turn istoric de coastă construit pentru apărarea împotriva piraților, citind plăcile informative pentru a-i înțelege designul.",
+            "en": "Discover the remnants of this historical coastal watchtower built to defend against pirates, using the informational plaques to understand its strategic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Torrenueva Costa",
+            "hu": "Playa de Torrenueva Costa",
+            "ro": "Playa de Torrenueva Costa",
+            "en": "Playa de Torrenueva Costa"
+          },
+          "coords": [
+            -3.488591,
+            36.70223
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit klarem Wasser und mieten Sie sich eine Liege, wobei Sie früh kommen sollten, um einen guten Platz zu ergattern.",
+            "hu": "Pihenjen ezen a tágas, családbarát strandon, ahol napágyakat bérelhet és úszhat a tiszta vízben, de érkezzen korán, hogy jó helyet kapjon a kávézók közelében.",
+            "ro": "Relaxați-vă pe această plajă spațioasă și prietenoasă cu familiile, unde puteți închiria șezlonguri, ajungând devreme pentru a prinde un loc bun lângă cafenele.",
+            "en": "Relax on this expansive, family-friendly beach where you can rent loungers and swim in clear waters, arriving early to secure a prime spot near the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Peñón de Jolúcar",
+            "hu": "Mirador Peñón de Jolúcar",
+            "ro": "Mirador Peñón de Jolúcar",
+            "en": "Mirador Peñón de Jolúcar"
+          },
+          "coords": [
+            -3.481137,
+            36.69743
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Mittelmeerküste von dieser erhöhten Felsformation und bringen Sie eine Kamera mit gutem Zoom für Boote mit.",
+            "hu": "Készítsen panorámaképeket a Földközi-tenger partjáról erről a magas természetes sziklaképződményről, és hozzon magával jó zoomos fényképezőgépet.",
+            "ro": "Surprindeți vederi panoramice ale coastei de pe această formațiune stâncoasă naturală, aducând un aparat foto cu un zoom bun pentru bărcile îndepărtate.",
+            "en": "Capture panoramic views of the Mediterranean coastline from this elevated natural rock formation, bringing a camera with a good zoom for distant boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro del cabo Sacratif",
+            "hu": "Faro del cabo Sacratif",
+            "ro": "Faro del cabo Sacratif",
+            "en": "Faro del cabo Sacratif"
+          },
+          "coords": [
+            -3.4683,
+            36.69452
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses auf einer Landzunge thronenden Leuchtturms und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Csodálja meg ennek a fokon álló, működő világítótoronynak a történelmi építészetét, és érkezzen közvetlenül naplemente előtt a leglátványosabb fényekért.",
+            "ro": "Admirați arhitectura istorică a acestui far funcțional așezat pe un promontoriu, ajungând chiar înainte de apus pentru cele mai spectaculoase condiții de lumină.",
+            "en": "Admire the historic architecture of this functional lighthouse perched on a promontory, coming right before sunset for the most spectacular lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Salmonete",
+            "hu": "Playa Salmonete",
+            "ro": "Playa Salmonete",
+            "en": "Playa Salmonete"
+          },
+          "coords": [
+            -3.460844,
+            36.696562
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem entspannten Oststrand mit ruhigen Wellen und packen Sie ein kleines Picknick für die friedliche Atmosphäre am späten Nachmittag ein.",
+            "hu": "Fejezze be utazását ezen a nyugodt hullámokkal rendelkező keleti strandon, és hozzon magával egy könnyű pikniket a békés késő délutáni hangulat élvezetéhez.",
+            "ro": "Încheiați-vă călătoria pe această plajă estică relaxantă, cu valuri calme, aducând un picnic ușor pentru a vă bucura de atmosfera liniștită a după-amiezii târzii.",
+            "en": "End your journey at this relaxed eastern beach area characterized by its calm waves, packing a light picnic to enjoy the tranquil late afternoon atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Küste an der Playa de la Chincheta und hüpfen Sie dann zum weichen Sand der Playa del Cañón für die frühe Morgensonne.\n\nFahren Sie zur historischen Atalaya nueva, um mehr über die Verteidigung zu erfahren, bevor Sie das Treiben an der Playa de Torrenueva Costa genießen.\n\nNavigieren Sie über die kurvige Küstenstraße zum atemberaubenden Mirador Peñón de Jolúcar und machen Sie Fotos vom endlosen blauen Horizont.\n\nBeenden Sie Ihren Roadtrip mit einem Besuch des markanten Faro del cabo Sacratif und einem abendlichen Spaziergang am Ufer der Playa Salmonete.",
+        "hu": "Kezdje a festői tengerparti autózást a Playa de la Chincheta strandon, majd ugorjon át a Playa del Cañón puha homokjára a kora reggeli spanyol napsütésért.\n\nVezessen a történelmi Atalaya nueva felé, hogy megismerje a helyi kalózok elleni védelmet, mielőtt élvezné a Playa de Torrenueva Costa központi nyüzsgését.\n\nNavigáljon a kanyargós tengerparti úton a lélegzetelállító Mirador Peñón de Jolúcar felé, és készítsen fotókat az ön előtt elterülő végtelen kék horizontról.\n\nZárja le autós utazását a kiemelkedő Faro del cabo Sacratif meglátogatásával, majd tegyen egy békés esti sétát a Playa Salmonete partján.",
+        "ro": "Începeți condusul pitoresc pe coastă la Playa de la Chincheta, apoi treceți la nisipurile fine de la Playa del Cañón pentru soarele de dimineață.\n\nConduceți spre istoricul Atalaya nueva pentru a afla despre apărările locale înainte de a vă bucura de centrul de activități de la Playa de Torrenueva Costa.\n\nNavigați pe drumul de coastă șerpuit până la uluitorul Mirador Peñón de Jolúcar, capturând fotografii ale orizontului albastru infinit.\n\nÎncheiați-vă călătoria cu mașina vizitând proeminentul Faro del cabo Sacratif, terminând cu o plimbare liniștită de seară de-a lungul plajei Salmonete.",
+        "en": "Start your scenic coastal drive at Playa de la Chincheta, then hop over to the soft sands of Playa del Cañón to soak up the early morning Spanish sun.\n\nDrive to the historic Atalaya nueva to learn about local pirate defenses before enjoying the central hub of activities at Playa de Torrenueva Costa.\n\nNavigate the winding coastal road to the breathtaking Mirador Peñón de Jolúcar, capturing photos of the endless blue horizon stretching out before you.\n\nConclude your road trip by visiting the prominent Faro del cabo Sacratif, finishing with a peaceful evening stroll along the shores of Playa Salmonete."
+      }
+    }
+  }
+}

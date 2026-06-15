@@ -1,0 +1,428 @@
+{
+  "city_id": "allauch",
+  "anchor": {
+    "name": "Allauch",
+    "coords": [
+      5.4822,
+      43.3361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Sebastian Kirche",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sfântul Sebastian",
+            "en": "Saint-Sébastien Church"
+          },
+          "coords": [
+            5.482144,
+            43.336329
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser zentralen Kirche, die Jahrhunderte lokaler Geschichte bewahrt, und kommen Sie früh, um den Trubel zu meiden.",
+            "hu": "Csodálja meg e központi templom gyönyörű építészetét, amely évszázados történelmet őriz, és érkezzen korán, hogy elkerülje a déli tömeget.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale, plină de istorie locală, și vizitați-o devreme pentru a evita aglomerația de la prânz.",
+            "en": "Admire the beautiful architecture of this central church, which holds centuries of local history, and visit early to avoid the bustling midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle Luis Ricard",
+            "hu": "Luis Ricard Malom",
+            "ro": "Moara Luis Ricard",
+            "en": "Moulin Luis Ricard"
+          },
+          "coords": [
+            5.479476,
+            43.336217
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser historischen Windmühle, dem Symbol von Allauchs Agrarvergangenheit, aber achten Sie auf den steinigen Weg.",
+            "hu": "Élvezze a panorámát ebből a történelmi szélmalomból, amely Allauch múltját jelképezi, de vigyázzon a lépéseire az egyenetlen sziklás ösvényen.",
+            "ro": "Bucurați-vă de vederea panoramică de la această moară de vânt istorică, simbol al trecutului agricol, dar atenție la poteca stâncoasă și accidentată.",
+            "en": "Enjoy panoramic views from this historic windmill that symbolizes Allauch's agricultural past, but watch your step on the uneven rocky approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Wasserbecken",
+            "hu": "Régi víztározó",
+            "ro": "Vechiul Bazin",
+            "en": "Vieux Bassin"
+          },
+          "coords": [
+            5.48447,
+            43.335442
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum, das das alte Wasserbecken der Stadt zeigt, und nehmen Sie sich Zeit für die gut erhaltenen Infotafeln.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely a város túléléséhez elengedhetetlen régi víztározót mutatja be, és olvassa el a részletes tájékoztatókat.",
+            "ro": "Explorați acest muzeu fascinant care prezintă vechiul bazin de apă vital pentru oraș și acordați-vă timp să citiți panourile informative detaliate.",
+            "en": "Explore this fascinating museum showcasing the old water basin vital to the town's survival, and take time to read the well-preserved information panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-du-Château",
+            "hu": "Notre-Dame-du-Château",
+            "ro": "Notre-Dame-du-Château",
+            "en": "Notre-Dame-du-Château"
+          },
+          "coords": [
+            5.4863,
+            43.3366
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser ikonischen Kapelle hinauf, die atemberaubende Ausblicke auf Marseille bietet, und bringen Sie wegen des Windes eine Jacke mit.",
+            "hu": "Másszon fel ehhez az ikonikus kápolnához, ahonnan lélegzetelállító kilátás nyílik Marseille-re, és hozzon széldzsekit az udvaron fújó szél miatt.",
+            "ro": "Urcați la această capelă emblematică de pe deal, care oferă vederi uimitoare spre Marsilia, și aduceți o jachetă deoarece vântul bate puternic sus.",
+            "en": "Climb up to this iconic hilltop chapel offering breathtaking views of Marseille, and bring a windbreaker as the elevated courtyard is often quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurent de la Bourdonnière",
+            "hu": "Saint-Laurent de la Bourdonnière",
+            "ro": "Saint-Laurent de la Bourdonnière",
+            "en": "Saint-Laurent de la Bourdonnière"
+          },
+          "coords": [
+            5.490663,
+            43.357953
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche, versteckte Kirche, die einen Rückzugsort vom lebhaften Zentrum bietet, und prüfen Sie das Schild auf lokale Events.",
+            "hu": "Fedezze fel ezt a békés, eldugott templomot, amely nyugodt menedéket nyújt a nyüzsgő központtól, és nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Descoperiți această biserică liniștită și retrasă, care oferă un refugiu pașnic departe de centru, și verificați avizierul pentru evenimente locale.",
+            "en": "Discover this serene, tucked-away church that offers a peaceful retreat from the lively center, and check the notice board for local community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der zentralen Kirchen und der friedlichen historischen Atmosphäre. Wenn sich der Mittag nähert, tauchen Sie im lokalen Museum in das reiche Erbe der Stadt ein. Verbringen Sie Ihren Nachmittag mit dem Aufstieg zur Bergkapelle für atemberaubende Ausblicke. Schließen Sie Ihren Tag mit einem Spaziergang zu einem versteckten Heiligtum ab.",
+        "hu": "Kezdje a reggelt a központi templomok felfedezésével és a békés történelmi hangulat élvezetével. Ahogy közeledik a dél, merüljön el a város gazdag örökségében a helyi múzeumban. A délutánt töltse a hegyi kápolnába való feljutással a lélegzetelállító kilátásért. Zárja a napot egy békés sétával egy eldugott szentélyhez.",
+        "ro": "Începeți dimineața explorând bisericile centrale, îmbrățișând ambianța istorică senină. Pe măsură ce se apropie prânzul, pătrundeți în bogata moștenire a orașului la muzeul local. Petreceți după-amiaza urcând la capela de pe deal pentru vederi uimitoare. Încheiați ziua cu o plimbare liniștită către un sanctuar retras, la lăsarea serii.",
+        "en": "Start your morning exploring the central churches, embracing the serene historical ambiance. As midday approaches, dive into the town's rich heritage at the local museum. Spend your afternoon ascending to the hilltop chapel for breathtaking views. Conclude your day with a peaceful stroll to a tucked-away sanctuary in the evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Paul Kirche",
+            "hu": "Szent Pál-templom",
+            "ro": "Biserica Sfântul Paul",
+            "en": "Église Saint-Paul"
+          },
+          "coords": [
+            5.455017,
+            43.324545
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen an dieser malerischen Pfarrkirche mit ihrer charmanten Fassade und schließen Sie Ihr Fahrrad am kleinen angrenzenden Platz ab.",
+            "hu": "Kezdje a reggelt ennél a bájos homlokzatáról ismert plébániatemplomnál, és ne felejtse el biztonságosan lezárni a kerékpárját a közeli kis téren.",
+            "ro": "Începeți dimineața la această biserică parohială pitorească, cunoscută pentru fațada sa, și asigurați-vă că legați bicicleta în mica piațetă de alături.",
+            "en": "Start your morning at this quaint parish church known for its charming facade, and make sure to lock your bike securely near the small adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle Luis Ricard",
+            "hu": "Luis Ricard Malom",
+            "ro": "Moara Luis Ricard",
+            "en": "Moulin Luis Ricard"
+          },
+          "coords": [
+            5.479476,
+            43.336217
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser restaurierten Windmühle, um atemberaubende Fotos der Hügel zu machen, aber seien Sie bereit für den steilen, kurzen Anstieg.",
+            "hu": "Tekerjen fel ehhez a felújított szélmalomhoz a környező dombok fotózásához, de készüljön fel a rövid, ám meredek emelkedőre közvetlenül érkezés előtt.",
+            "ro": "Pedalați până la această moară de vânt restaurată pentru fotografii uimitoare ale dealurilor, dar fiți pregătiți pentru o urcare scurtă și abruptă.",
+            "en": "Pedal up to this restored windmill to capture stunning photos of the surrounding hills, but be prepared for a steep, short climb right before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Wasserbecken",
+            "hu": "Régi víztározó",
+            "ro": "Vechiul Bazin",
+            "en": "Vieux Bassin"
+          },
+          "coords": [
+            5.48447,
+            43.335442
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historische Wasserversorgung der Stadt in diesem einzigartigen Museum und nutzen Sie den schattigen Innenhof für eine kurze Pause.",
+            "hu": "Ismerje meg a város történelmi vízellátását ebben az egyedülálló földalatti múzeumban, és pihenjen az árnyékos udvaron a következő úti cél előtt.",
+            "ro": "Descoperiți istoria apei în oraș la acest muzeu subteran unic și folosiți curtea umbrită pentru a vă odihni înainte de a porni mai departe.",
+            "en": "Uncover the town's historical reliance on water at this unique underground museum, and use the shaded courtyard to rest before your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-du-Château",
+            "hu": "Notre-Dame-du-Château",
+            "ro": "Notre-Dame-du-Château",
+            "en": "Notre-Dame-du-Château"
+          },
+          "coords": [
+            5.4863,
+            43.3366
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Aussicht von diesem Bergheiligtum und schieben Sie Ihr Fahrrad den letzten gepflasterten Weg hinauf, um sicher zu sein.",
+            "hu": "Csodálja meg a völgyre nyíló lenyűgöző kilátást ebből a hegyi szentélyből, és a nagyobb biztonság érdekében tolja a kerékpárt az utolsó köves szakaszon.",
+            "ro": "Admirați priveliștea spectaculoasă de la acest sanctuar de pe deal și împingeți bicicleta pe ultima porțiune pietruită pentru o siguranță sporită.",
+            "en": "Marvel at the spectacular views from this hilltop sanctuary overlooking the valley, and walk your bike up the final cobblestone path for better safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Roter Kopf",
+            "hu": "Nagy Vörös-hegy",
+            "ro": "Marea Cap Roșie",
+            "en": "Grande Tête Rouge"
+          },
+          "coords": [
+            5.50867,
+            43.335147
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem markanten roten Felsen mit seiner unglaublichen Naturkulisse und bringen Sie viel Wasser mit, da es wenig Schatten gibt.",
+            "hu": "Fejezze be a túrát ennél a kiemelkedő vörös sziklás tájékozódási pontnál, és hozzon bőséges vizet, mivel a nyomvonalak kevés árnyékot kínálnak.",
+            "ro": "Încheiați plimbarea la acest reper stâncos roșu care oferă un fundal natural incredibil și aduceți multă apă, deoarece traseele au puțină umbră.",
+            "en": "End your ride at this prominent red-rock landmark offering an incredible natural backdrop, and bring plenty of water as the trails offer little shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgendliche Fahrten führen Sie durch malerische Straßen zu den historischen Windmühlen der Stadt. Am Mittag bietet eine schattige Pause im Museum eine perfekte Erholung vom Radfahren. Ihr Nachmittag fordert Sie mit einem malerischen Aufstieg zur Bergkapelle heraus. Fahren Sie am Abend zu den Naturdenkmälern und genießen Sie den Himmel.",
+        "hu": "A reggeli tekerés festői utcákon át vezet a város történelmi szélmalmaihoz. Délre a múzeum árnyékos udvara tökéletes pihenést nyújt a pedálozás után. A délután kihívást jelent a festői emelkedővel az ikonikus hegyi templomhoz. Ahogy leszáll az este, guruljon ki a természeti látványosságokhoz a színes égbolt alatt.",
+        "ro": "Plimbările de dimineață vă poartă pe străzile pitorești până la morile de vânt istorice ale orașului. La prânz, o odihnă umbrită la muzeu oferă o pauză perfectă de la pedalat. După-amiaza vă provoacă cu o urcare spectaculoasă până la capela de pe deal. Spre seară, pedalați spre reperele naturale și bucurați-vă de cerul colorat.",
+        "en": "Morning rides lead you through quaint parish streets to the town's historical windmills. By midday, a shaded rest at the museum provides a perfect break from pedaling. Your afternoon challenges you with a scenic climb to the iconic hilltop church. As evening falls, cruise out to the natural landmarks and enjoy the colorful sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Rita Kirche",
+            "hu": "Szent Rita-templom",
+            "ro": "Biserica Sfânta Rita",
+            "en": "Église Sainte-Rita"
+          },
+          "coords": [
+            5.463569,
+            43.312915
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip an dieser von Einheimischen verehrten Kirche und parken Sie auf den unteren Plätzen, um den Verkehr nicht zu blockieren.",
+            "hu": "Kezdje az autós utat ennél a helyiek által tisztelt szerény templomnál, és parkoljon a kijelölt alsó helyeken, hogy ne akadályozza a forgalmat.",
+            "ro": "Începeți călătoria cu mașina la această biserică modestă și venerată de localnici, și parcați în spațiile de mai jos pentru a nu bloca traficul.",
+            "en": "Begin your road trip at this beautifully modest church revered by locals, and park in the designated spaces slightly downhill to avoid blocking traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Camoins-les-Bains",
+            "hu": "Camoins-les-Bains Termálfürdő",
+            "ro": "Băile Termale Camoins-les-Bains",
+            "en": "Camoins-les-Bains Thermal Baths"
+          },
+          "coords": [
+            5.506992,
+            43.304825
+          ],
+          "category": "family",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem historischen Thermalbad mit seinem verjüngenden Wasser und buchen Sie im Voraus eine kurze Wellness-Behandlung.",
+            "hu": "Pihenjen ebben a gyógyító vizéről ismert történelmi termálfürdőben, és fontolja meg egy rövid wellness-kezelés előzetes lefoglalását a teljes élményért.",
+            "ro": "Relaxați-vă la acest centru termal istoric cunoscut pentru apele sale vindecătoare și rezervați un scurt tratament de wellness în avans pentru răsfăț.",
+            "en": "Relax at this historic thermal spa known for its rejuvenating therapeutic waters, and consider booking a brief wellness treatment in advance for full enjoyment."
+          }
+        },
+        {
+          "name": {
+            "de": "Runder Kopf",
+            "hu": "Kerek-hegy",
+            "ro": "Capul Rotund",
+            "en": "Tete Ronde"
+          },
+          "coords": [
+            5.516731,
+            43.332282
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Wandern Sie kurz zu diesem markanten abgerundeten Gipfel für einen ungestörten Blick auf die Landschaft und tragen Sie feste Schuhe für das felsige Gelände.",
+            "hu": "Tegyünk egy rövid sétát ehhez a jellegzetes kerekded csúcshoz a zavartalan vidéki kilátásért, és viseljen masszív cipőt a sziklás terep miatt.",
+            "ro": "Faceți o scurtă drumeție până la acest vârf rotunjit pentru o panoramă neîntreruptă a peisajului și purtați încălțăminte solidă pentru terenul stâncos.",
+            "en": "Hike a short distance to this distinctive rounded peak for an uninterrupted vista of the countryside, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Roter Kopf",
+            "hu": "Nagy Vörös-hegy",
+            "ro": "Marea Cap Roșie",
+            "en": "Grande Tête Rouge"
+          },
+          "coords": [
+            5.50867,
+            43.335147
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie in die Nähe dieser massiven rötlichen geologischen Formation und nutzen Sie die Haltebuchten auf der Straße, um sicher Fotos zu machen.",
+            "hu": "Vezessen e hatalmas, helyi látképet uraló vöröses geológiai formáció közelébe, és használja az út menti pihenőket a biztonságos fotózáshoz.",
+            "ro": "Conduceți pe lângă această formațiune geologică roșiatică masivă și folosiți refugiile de pe marginea drumului pentru a face fotografii în siguranță.",
+            "en": "Drive near this massive reddish geological formation that dominates the local skyline, and use the pull-off areas on the road to take your photographs safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-du-Château",
+            "hu": "Notre-Dame-du-Château",
+            "ro": "Notre-Dame-du-Château",
+            "en": "Notre-Dame-du-Château"
+          },
+          "coords": [
+            5.4863,
+            43.3366
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an dieser bedeutenden religiösen Stätte und lassen Sie Ihr Auto auf dem unteren Parkplatz, da der Weg steil ist.",
+            "hu": "Élvezze a békét ezen a helyi mítoszokkal átszőtt, jelentős vallási helyszínen, és hagyja autóját az alsó parkolóban a meredek végső szakasz miatt.",
+            "ro": "Bucurați-vă de liniște la acest sit religios legendar și lăsați mașina în parcarea inferioară, deoarece drumul final de acces este foarte abrupt.",
+            "en": "Enjoy a peaceful moment at this prominent religious site steeped in regional myth, and leave your car at the lower lot as the final approach is very steep."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurent de la Bourdonnière",
+            "hu": "Saint-Laurent de la Bourdonnière",
+            "ro": "Saint-Laurent de la Bourdonnière",
+            "en": "Saint-Laurent de la Bourdonnière"
+          },
+          "coords": [
+            5.490663,
+            43.357953
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser charmanten peripheren Kapelle am ruhigen Hang ausklingen und genießen Sie das goldene Licht auf den alten Steinmauern.",
+            "hu": "Zárja a napot ennél a nyugodt domboldalon álló bájos kápolnánál, és élvezze, ahogy az aranyóra fényei megvilágítják az ősi kőfalakat.",
+            "ro": "Încheiați ziua la această capelă fermecătoare de pe dealul liniștit și bucurați-vă de lumina apusului care iluminează pereții săi antici din piatră.",
+            "en": "Conclude your day at this charming peripheral chapel set against the tranquil hillside, and enjoy the golden hour light illuminating its ancient stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an lokalen Kirchen, bevor Sie zu den verjüngenden Thermalbädern fahren. Navigieren Sie gegen Mittag auf den malerischen Routen zu den markanten Hügeln. Der Nachmittag beinhaltet die Erkundung dramatischer Felsformationen und historischer Bergkapellen. Beenden Sie Ihre Autotour mit einem abendlichen Halt an einem ruhigen ländlichen Heiligtum.",
+        "hu": "Utazása a helyi templomoknál kezdődik, mielőtt a frissítő termálfürdők felé venné az irányt. Dél körül navigáljon a festői útvonalakon a kiemelkedő dombtetők felé. A délután drámai geológiai képződmények és történelmi kápolnák felfedezését foglalja magában. Zárja autós túráját egy esti megállóval egy nyugodt vidéki szentélynél.",
+        "ro": "Călătoria începe la bisericile locale înainte de a vă îndrepta spre băile termale vindecătoare. În jurul prânzului, navigați pe traseele pitorești spre dealurile proeminente. După-amiaza implică explorarea unor formațiuni geologice dramatice și capele istorice. Încheiați turul cu mașina cu o oprire de seară la un sanctuar rural liniștit.",
+        "en": "Your drive begins at local parish churches before heading to the rejuvenating thermal baths. Around midday, navigate the scenic routes towards the prominent local hilltops. The afternoon involves exploring dramatic geological formations and historic hilltop chapels. Conclude your driving tour with an evening stop at a tranquil countryside sanctuary."
+      }
+    }
+  }
+}

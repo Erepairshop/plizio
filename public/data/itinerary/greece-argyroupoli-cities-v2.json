@@ -1,0 +1,543 @@
+{
+  "city_id": "greece-argyroupoli-cities-v2",
+  "anchor": {
+    "name": "Argyroupoli",
+    "coords": [
+      23.75081,
+      37.90845
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Art Gallery",
+            "hu": "Art Gallery",
+            "ro": "Art Gallery",
+            "en": "Art Gallery"
+          },
+          "coords": [
+            23.741697,
+            37.906605
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössische Kunst mit lokalem Bezug und nehmen Sie sich am Eingang eine kostenlose Broschüre, um die Themen zu verstehen.",
+            "hu": "Csodálja meg a helyi történelmet tükröző kortárs műveket, és vigyen magával egy ingyenes brosúrát a bejáratnál a mögöttes témák megértéséhez.",
+            "ro": "Admirați arta contemporană vibrantă care reflectă istoria locală și luați o broșură gratuită de la intrare pentru a înțelege mai bine temele civice.",
+            "en": "Admire the vibrant contemporary art pieces reflecting local history, and grab a free brochure at the entrance to understand the underlying civic themes."
+          }
+        },
+        {
+          "name": {
+            "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+          },
+          "coords": [
+            23.739744,
+            37.902488
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antiken Gräber, die klassische athenische Bestattungsrituale zeigen, und kommen Sie früh am Tag, um der prallen Sonne auszuweichen.",
+            "hu": "Fedezze fel az ókori athéni temetkezési szokásokat bemutató sírokat; érkezzen a nap elején, hogy az erős napsütés nélkül élvezhesse a régészeti lelőhelyet.",
+            "ro": "Explorați aceste morminte antice care dezvăluie ritualurile funerare ateniene; veniți dimineața devreme pentru a vă bucura de sit fără soarele puternic.",
+            "en": "Explore these ancient tombs revealing classical Athenian burial practices; arrive early in the day to enjoy the archaeological site without the harsh sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Eneka Paideias",
+            "hu": "Eneka Paideias",
+            "ro": "Eneka Paideias",
+            "en": "Eneka Paideias"
+          },
+          "coords": [
+            23.754964,
+            37.906507
+          ],
+          "category": "cultural",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre dieses lebendigen, der Bildung gewidmeten Kulturorts, und achten Sie auf das schwarze Brett für spontane Poesielesungen.",
+            "hu": "Szívja magába az oktatásnak szentelt élénk kulturális helyszín hangulatát, és ellenőrizze a kinti hirdetőtáblát az esetleges esti versfelolvasások miatt.",
+            "ro": "Bucurați-vă de atmosfera acestui spațiu cultural dedicat educației și verificați panoul exterior pentru eventuale lecturi de poezie organizate spontan.",
+            "en": "Soak up the atmosphere of this lively cultural venue dedicated to education, and check the notice board outside for impromptu evening poetry readings."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrino Theatro Arguroupoles",
+            "hu": "Petrino Theatro Arguroupoles",
+            "ro": "Petrino Theatro Arguroupoles",
+            "en": "Petrino Theatro Arguroupoles"
+          },
+          "coords": [
+            23.757978,
+            37.904181
+          ],
+          "category": "cultural",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieses Freilichttheaters und bringen Sie ein Kissen mit, um bequem auf den steinernen Rängen zu sitzen.",
+            "hu": "Értékelje a szabadtéri színház zord kőépítészetét; hozzon magával egy könnyű párnát, hogy kényelmesen üljön a kőlépcsőkön a délutáni látogatás során.",
+            "ro": "Admirați arhitectura din piatră brută a acestui teatru în aer liber și aduceți o pernă ușoară pentru a sta confortabil pe trepte în timpul vizitei.",
+            "en": "Appreciate the rugged stone architecture of this open-air theater; bring a light cushion to sit comfortably on the stone tiers during your afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotiko Theatro Arguroupoles",
+            "hu": "Demotiko Theatro Arguroupoles",
+            "ro": "Demotiko Theatro Arguroupoles",
+            "en": "Demotiko Theatro Arguroupoles"
+          },
+          "coords": [
+            23.752863,
+            37.914634
+          ],
+          "category": "cultural",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Theaterszene in diesem städtischen Theater, wo eine Online-Buchung im Voraus Ihnen einen tollen Platz für die Abendvorstellung sichert.",
+            "hu": "Fedezze fel a helyi drámai művészeteket ebben a városi színházban, ahol az online jegyvásárlás egy nappal előre garantálja a legjobb helyeket.",
+            "ro": "Descoperiți scena artelor dramatice la acest teatru municipal, unde rezervarea biletelor online cu o zi înainte vă garantează un loc excelent pentru spectacole.",
+            "en": "Discover the local dramatic arts scene at this municipal theater, where booking tickets online a day in advance guarantees you a great seat for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Euonumou",
+            "hu": "Arkhaio Theatro Euonumou",
+            "ro": "Arkhaio Theatro Euonumou",
+            "en": "Arkhaio Theatro Euonumou"
+          },
+          "coords": [
+            23.741493,
+            37.91592
+          ],
+          "category": "historical",
+          "arrive_at": "17:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stehen Sie in dem erstaunlich rechteckigen antiken Theater, das für Versammlungen genutzt wurde, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Álljon a meglepően téglalap alakú ókori színházban, amelyet helyi gyűlésekre használtak, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Stați în acest teatru antic surprinzător de dreptunghiular folosit pentru adunări locale și purtați încălțăminte solidă pentru a parcurge terenul accidentat.",
+            "en": "Stand in the surprisingly rectangular ancient theater used for local assemblies, and wear sturdy walking shoes to navigate the uneven terrain safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit künstlerischer Inspiration in der lokalen Galerie, gefolgt von einer faszinierenden Zeitreise bei den antiken athenischen Gräbern. Gegen Mittag tauchen Sie im Eneka Paideias in den modernen kulturellen Herzschlag von Argyroupoli ein. Der Nachmittag bringt einen gemütlichen Spaziergang zum prächtigen Freilichttheater Petrino Theatro mit seinem rauen Steincharme. Ihr Tag endet mit städtischer Kunst und den einzigartig rechteckigen Ruinen des antiken lokalen Theaters.",
+        "hu": "A reggel művészi inspirációval kezdődik a helyi galériában, amelyet egy lenyűgöző időutazás követ az ókori athéni síroknál. Délre elmerülhet Argirúpoli modern kulturális lüktetésében az Eneka Paideiasban. A délután egy kényelmes sétát tartogat a csodálatos szabadtéri Petrino Theatro zord kővarázsához. A nap a városi művészetek és a helyi ókori színház egyedülálló, téglalap alakú romjainak felfedezésével zárul.",
+        "ro": "Dimineața începe cu inspirație artistică la galeria locală, urmată de o întoarcere fascinantă în timp la vechile morminte ateniene. La prânz, vă veți scufunda în pulsul cultural modern al orașului Argyroupoli la Eneka Paideias. După-amiaza aduce o plimbare relaxantă până la magnificul teatru în aer liber Petrino Theatro, plin de farmec. Ziua se încheie explorând artele municipale și ruinele unic dreptunghiulare ale anticului teatru local.",
+        "en": "Your morning starts with artistic inspiration at the local gallery, followed by a fascinating step back in time at the ancient Athenian tombs. By midday, you will immerse yourself in Argyroupoli's modern cultural heartbeat at Eneka Paideias. The afternoon brings a leisurely stroll to the magnificent open-air Petrino Theatro, offering rugged stone charm. Your day concludes exploring municipal arts and the uniquely rectangular ruins of the ancient local theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:36",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maire Arone",
+            "hu": "Maire Arone",
+            "ro": "Maire Arone",
+            "en": "Maire Arone"
+          },
+          "coords": [
+            23.739852,
+            37.922419
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Würdigen Sie das Vermächtnis der bedeutenden griechischen Schauspielerin an diesem Kulturort; besuchen Sie ihn an Wochentagen für ein ruhigeres Erlebnis.",
+            "hu": "Tisztelegjen a kiemelkedő görög színésznő öröksége előtt ezen a kulturális téren; látogasson el hétköznap délelőtt egy csendesebb, elmélkedőbb élményért.",
+            "ro": "Onorați moștenirea cunoscutei actrițe elene în acest spațiu cultural; vizitați dimineața în timpul săptămânii pentru o experiență mai liniștită.",
+            "en": "Honor the legacy of the prominent Greek actress at this dedicated cultural space; visit during weekday mornings for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Euonumou",
+            "hu": "Arkhaio Theatro Euonumou",
+            "ro": "Arkhaio Theatro Euonumou",
+            "en": "Arkhaio Theatro Euonumou"
+          },
+          "coords": [
+            23.741493,
+            37.91592
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stehen Sie in dem erstaunlich rechteckigen antiken Theater, das für Versammlungen genutzt wurde, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Álljon a meglepően téglalap alakú ókori színházban, amelyet helyi gyűlésekre használtak, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Stați în acest teatru antic surprinzător de dreptunghiular folosit pentru adunări locale și purtați încălțăminte solidă pentru a parcurge terenul accidentat.",
+            "en": "Stand in the surprisingly rectangular ancient theater used for local assemblies, and wear sturdy walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotiko Theatro Arguroupoles",
+            "hu": "Demotiko Theatro Arguroupoles",
+            "ro": "Demotiko Theatro Arguroupoles",
+            "en": "Demotiko Theatro Arguroupoles"
+          },
+          "coords": [
+            23.752863,
+            37.914634
+          ],
+          "category": "cultural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Theaterszene in diesem städtischen Theater, wo eine Online-Buchung im Voraus Ihnen einen tollen Platz für die Abendvorstellung sichert.",
+            "hu": "Fedezze fel a helyi drámai művészeteket ebben a városi színházban, ahol az online jegyvásárlás egy nappal előre garantálja a legjobb helyeket.",
+            "ro": "Descoperiți scena artelor dramatice la acest teatru municipal, unde rezervarea biletelor online cu o zi înainte vă garantează un loc excelent pentru spectacole.",
+            "en": "Discover the local dramatic arts scene at this municipal theater, where booking tickets online a day in advance guarantees you a great seat for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Art Gallery",
+            "hu": "Art Gallery",
+            "ro": "Art Gallery",
+            "en": "Art Gallery"
+          },
+          "coords": [
+            23.741697,
+            37.906605
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössische Kunst mit lokalem Bezug und nehmen Sie sich am Eingang eine kostenlose Broschüre, um die Themen zu verstehen.",
+            "hu": "Csodálja meg a helyi történelmet tükröző kortárs műveket, és vigyen magával egy ingyenes brosúrát a bejáratnál a mögöttes témák megértéséhez.",
+            "ro": "Admirați arta contemporană vibrantă care reflectă istoria locală și luați o broșură gratuită de la intrare pentru a înțelege mai bine temele civice.",
+            "en": "Admire the vibrant contemporary art pieces reflecting local history, and grab a free brochure at the entrance to understand the underlying civic themes."
+          }
+        },
+        {
+          "name": {
+            "de": "Eneka Paideias",
+            "hu": "Eneka Paideias",
+            "ro": "Eneka Paideias",
+            "en": "Eneka Paideias"
+          },
+          "coords": [
+            23.754964,
+            37.906507
+          ],
+          "category": "cultural",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre dieses lebendigen, der Bildung gewidmeten Kulturorts, und achten Sie auf das schwarze Brett für spontane Poesielesungen.",
+            "hu": "Szívja magába az oktatásnak szentelt élénk kulturális helyszín hangulatát, és ellenőrizze a kinti hirdetőtáblát az esetleges esti versfelolvasások miatt.",
+            "ro": "Bucurați-vă de atmosfera acestui spațiu cultural dedicat educației și verificați panoul exterior pentru eventuale lecturi de poezie organizate spontan.",
+            "en": "Soak up the atmosphere of this lively cultural venue dedicated to education, and check the notice board outside for impromptu evening poetry readings."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrino Theatro Arguroupoles",
+            "hu": "Petrino Theatro Arguroupoles",
+            "ro": "Petrino Theatro Arguroupoles",
+            "en": "Petrino Theatro Arguroupoles"
+          },
+          "coords": [
+            23.757978,
+            37.904181
+          ],
+          "category": "cultural",
+          "arrive_at": "16:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieses Freilichttheaters und bringen Sie ein Kissen mit, um bequem auf den steinernen Rängen zu sitzen.",
+            "hu": "Értékelje a szabadtéri színház zord kőépítészetét; hozzon magával egy könnyű párnát, hogy kényelmesen üljön a kőlépcsőkön a délutáni látogatás során.",
+            "ro": "Admirați arhitectura din piatră brută a acestui teatru în aer liber și aduceți o pernă ușoară pentru a sta confortabil pe trepte în timpul vizitei.",
+            "en": "Appreciate the rugged stone architecture of this open-air theater; bring a light cushion to sit comfortably on the stone tiers during your afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Eleutherios Benizelos",
+            "hu": "Eleutherios Benizelos",
+            "ro": "Eleutherios Benizelos",
+            "en": "Eleutherios Benizelos"
+          },
+          "coords": [
+            23.760351,
+            37.892709
+          ],
+          "category": "historical",
+          "arrive_at": "17:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historische Stätte zu Ehren des einflussreichen Staatsmannes und nutzen Sie die schattigen Plätze, um sich über Geschichte zu informieren.",
+            "hu": "Tekintse meg a befolyásos államférfinak emléket állító történelmi helyszínt, és használja a közeli árnyékos helyeket a görög politikai fejlődésen való elmélkedésre.",
+            "ro": "Vedeți situl istoric dedicat influentului om de stat și folosiți locurile umbrite din apropiere pentru a vă odihni și a reflecta asupra istoriei Greciei.",
+            "en": "View the historical site commemorating the influential statesman, and use the shaded spots nearby to rest and reflect on Greece's modern political evolution."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour zu Ehren lokaler Theaterlegenden bei Maire Arone und radeln Sie dann zu den bemerkenswerten rechteckigen Ruinen des antiken Theaters. Mittags erkunden Sie die lebendigen Gemeindekünste im städtischen Theater und moderne Ausstellungen in der Kunstgalerie. Ihre Nachmittagsfahrt führt durch grüne Straßen zum Bildungszentrum und zum markanten steinernen Amphitheater. Der Abend klingt mit einem historischen Stopp aus.",
+        "hu": "Kezdje kerékpártúráját a helyi színházi legendák tiszteletével a Maire Arone-nál, majd tekerjen az ókori színház figyelemre méltó, téglalap alakú romjaihoz. Délben tekintse meg a városi színház élénk közösségi művészetét és a Művészeti Galéria modern kiállításait. A délutáni utazás lombos utcákon halad át az oktatási központig és a kőből épült amfiteátrumig. Az este egy utolsó történelmi megállóval zárul a neves államférfiakról elmélkedve.",
+        "ro": "Începeți turul cu bicicleta onorând legendele teatrale locale la Maire Arone, apoi pedalați către remarcabilele ruine dreptunghiulare ale Teatrului Antic. La prânz, descoperiți artele comunității la teatrul municipal și expozițiile de la Galeria de Artă. Plimbarea de după-amiază trece pe străzile înverzite până la centrul educațional și la impresionantul amfiteatru din piatră. Seara se încheie cu o oprire istorică finală, reflectând asupra oamenilor de stat ai Greciei.",
+        "en": "Kick off your cycling tour honoring local theatrical legends at Maire Arone, then pedal to the remarkable rectangular ruins of the Ancient Theater. Around midday, check out the vibrant community arts at the municipal theater and modern exhibits at the Art Gallery. Your afternoon ride weaves through leafy streets to the educational hub and the striking stone amphitheater. The evening cools down with a final historical stop reflecting on Greece's renowned statesmen."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 9.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Maire Arone",
+            "hu": "Maire Arone",
+            "ro": "Maire Arone",
+            "en": "Maire Arone"
+          },
+          "coords": [
+            23.739852,
+            37.922419
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Würdigen Sie das Vermächtnis der bedeutenden griechischen Schauspielerin an diesem Kulturort; besuchen Sie ihn an Wochentagen für ein ruhigeres Erlebnis.",
+            "hu": "Tisztelegjen a kiemelkedő görög színésznő öröksége előtt ezen a kulturális téren; látogasson el hétköznap délelőtt egy csendesebb, elmélkedőbb élményért.",
+            "ro": "Onorați moștenirea cunoscutei actrițe elene în acest spațiu cultural; vizitați dimineața în timpul săptămânii pentru o experiență mai liniștită.",
+            "en": "Honor the legacy of the prominent Greek actress at this dedicated cultural space; visit during weekday mornings for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Euonumou",
+            "hu": "Arkhaio Theatro Euonumou",
+            "ro": "Arkhaio Theatro Euonumou",
+            "en": "Arkhaio Theatro Euonumou"
+          },
+          "coords": [
+            23.741493,
+            37.91592
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stehen Sie in dem erstaunlich rechteckigen antiken Theater, das für Versammlungen genutzt wurde, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Álljon a meglepően téglalap alakú ókori színházban, amelyet helyi gyűlésekre használtak, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Stați în acest teatru antic surprinzător de dreptunghiular folosit pentru adunări locale și purtați încălțăminte solidă pentru a parcurge terenul accidentat.",
+            "en": "Stand in the surprisingly rectangular ancient theater used for local assemblies, and wear sturdy walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+            "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+          },
+          "coords": [
+            23.739744,
+            37.902488
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antiken Gräber, die klassische athenische Bestattungsrituale zeigen, und kommen Sie früh am Tag, um der prallen Sonne auszuweichen.",
+            "hu": "Fedezze fel az ókori athéni temetkezési szokásokat bemutató sírokat; érkezzen a nap elején, hogy az erős napsütés nélkül élvezhesse a régészeti lelőhelyet.",
+            "ro": "Explorați aceste morminte antice care dezvăluie ritualurile funerare ateniene; veniți dimineața devreme pentru a vă bucura de sit fără soarele puternic.",
+            "en": "Explore these ancient tombs revealing classical Athenian burial practices; arrive early in the day to enjoy the archaeological site without the harsh sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Art Gallery",
+            "hu": "Art Gallery",
+            "ro": "Art Gallery",
+            "en": "Art Gallery"
+          },
+          "coords": [
+            23.741697,
+            37.906605
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössische Kunst mit lokalem Bezug und nehmen Sie sich am Eingang eine kostenlose Broschüre, um die Themen zu verstehen.",
+            "hu": "Csodálja meg a helyi történelmet tükröző kortárs műveket, és vigyen magával egy ingyenes brosúrát a bejáratnál a mögöttes témák megértéséhez.",
+            "ro": "Admirați arta contemporană vibrantă care reflectă istoria locală și luați o broșură gratuită de la intrare pentru a înțelege mai bine temele civice.",
+            "en": "Admire the vibrant contemporary art pieces reflecting local history, and grab a free brochure at the entrance to understand the underlying civic themes."
+          }
+        },
+        {
+          "name": {
+            "de": "Boeing 727",
+            "hu": "Boeing 727",
+            "ro": "Boeing 727",
+            "en": "Boeing 727"
+          },
+          "coords": [
+            23.748985,
+            37.888069
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den unerwarteten Anblick eines ausgemusterten Olympic Airways Jets in der Stadtlandschaft und machen Sie Ihre Fotos von der Westseite für das beste Licht.",
+            "hu": "Csodálja meg egy nyugdíjazott repülőgép váratlan látványát a városi tájban; a legjobb megvilágítás érdekében a nyugati oldalról készítse a fényképeket.",
+            "ro": "Admirați vederea neașteptată a unui avion retras Olympic Airways în peisajul urban; faceți fotografii din partea de vest pentru cea mai bună lumină.",
+            "en": "Marvel at the unexpected sight of a retired Olympic Airways jet nestled in the urban landscape; snap your photos from the west side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Eleutherios Benizelos",
+            "hu": "Eleutherios Benizelos",
+            "ro": "Eleutherios Benizelos",
+            "en": "Eleutherios Benizelos"
+          },
+          "coords": [
+            23.760351,
+            37.892709
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historische Stätte zu Ehren des einflussreichen Staatsmannes und nutzen Sie die schattigen Plätze, um sich über Geschichte zu informieren.",
+            "hu": "Tekintse meg a befolyásos államférfinak emléket állító történelmi helyszínt, és használja a közeli árnyékos helyeket a görög politikai fejlődésen való elmélkedésre.",
+            "ro": "Vedeți situl istoric dedicat influentului om de stat și folosiți locurile umbrite din apropiere pentru a vă odihni și a reflecta asupra istoriei Greciei.",
+            "en": "View the historical site commemorating the influential statesman, and use the shaded spots nearby to rest and reflect on Greece's modern political evolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Amoiro Plasma",
+            "hu": "Amoiro Plasma",
+            "ro": "Amoiro Plasma",
+            "en": "Amoiro Plasma"
+          },
+          "coords": [
+            23.766469,
+            37.890749
+          ],
+          "category": "historical",
+          "arrive_at": "16:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses eindrucksvolle historische Denkmal, um die lokalen Kämpfe der Kriegszeit zu verstehen, und achten Sie auf die kleine Infotafel am Sockel.",
+            "hu": "Álljon meg ennél a megindító történelmi emlékműnél, hogy megértse a helyi háborús küzdelmeket, és keresse a kis információs táblát az alapzat közelében.",
+            "ro": "Opriți-vă la acest monument istoric evocator pentru a înțelege luptele locale din timpul războiului și căutați mica placă informativă de la bază.",
+            "en": "Stop by this evocative historical monument to understand local wartime struggles, and look for the small informational plaque tucked near the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrino Theatro Arguroupoles",
+            "hu": "Petrino Theatro Arguroupoles",
+            "ro": "Petrino Theatro Arguroupoles",
+            "en": "Petrino Theatro Arguroupoles"
+          },
+          "coords": [
+            23.757978,
+            37.904181
+          ],
+          "category": "cultural",
+          "arrive_at": "18:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieses Freilichttheaters und bringen Sie ein Kissen mit, um bequem auf den steinernen Rängen zu sitzen.",
+            "hu": "Értékelje a szabadtéri színház zord kőépítészetét; hozzon magával egy könnyű párnát, hogy kényelmesen üljön a kőlépcsőkön a délutáni látogatás során.",
+            "ro": "Admirați arhitectura din piatră brută a acestui teatru în aer liber și aduceți o pernă ușoară pentru a sta confortabil pe trepte în timpul vizitei.",
+            "en": "Appreciate the rugged stone architecture of this open-air theater; bring a light cushion to sit comfortably on the stone tiers during your afternoon visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Bewunderung des Kulturraums Maire Arone, bevor Sie zum erstaunlich gut erhaltenen antiken lokalen Theater und den klassischen Gräbern fahren. Mittags haben Sie viel Zeit, die reichen Sammlungen der lokalen Kunstgalerie zu durchstöbern. Am Nachmittag fahren Sie zu einem skurrilen Highlight – einer verlassenen Boeing 727 – gefolgt von einer Hommage an Eleutherios Benizelos. Der Tag endet an beeindruckenden Denkmälern und einem Steintheater.",
+        "hu": "Kezdje autós útját a Maire Arone kulturális tér megcsodálásával, mielőtt a figyelemre méltóan megőrzött helyi ókori színházhoz és a klasszikus sírokhoz hajtana. A délidő rengeteg időt enged a helyi Művészeti Galéria gazdag gyűjteményeinek bejárására. Délután egy furcsa látványossághoz – egy elhagyott Boeing 727-eshez – gurul, amelyet az Elefthériosz Venizelosz előtti tisztelgés követ. A nap megható emlékművekkel és egy gyönyörű szabadtéri kőszínházzal zárul.",
+        "ro": "Începeți călătoria admirând spațiul cultural Maire Arone, înainte de a vă îndrepta spre teatrul antic local uimitor de bine conservat și mormintele clasice. Prânzul vă oferă mult timp pentru a explora colecțiile de la Galeria de Artă. După-amiaza, veți merge spre o atracție excentrică — un Boeing 727 abandonat — urmată de un omagiu adus omului de stat Eleutherios Benizelos. Ziua se încheie cu monumente emoționante și un frumos teatru de piatră în aer liber.",
+        "en": "Start your drive admiring the Maire Arone cultural space before heading down to the remarkably preserved ancient local theater and classical tombs. Midday allows plenty of time to wander the rich collections at the local Art Gallery. In the afternoon, you will cruise to a quirky highlight—an abandoned Boeing 727—followed by a tribute to the statesman Eleutherios Benizelos. The day wraps up with poignant monuments and a beautiful open-air stone theater under the stars."
+      }
+    }
+  }
+}

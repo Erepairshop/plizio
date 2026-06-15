@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-costa-da-caparica-cities-v2",
+  "anchor": {
+    "name": "Costa da Caparica",
+    "coords": [
+      -9.23361,
+      38.64452
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Galeria Municipal de Arte da Costa de Caparica",
+            "hu": "Galeria Municipal de Arte da Costa de Caparica",
+            "ro": "Galeria Municipal de Arte da Costa de Caparica",
+            "en": "Galeria Municipal de Arte da Costa de Caparica"
+          },
+          "coords": [
+            -9.234516,
+            38.644255
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale zeitgenössische Kunst und regionale Ausstellungen in dieser modernen städtischen Galerie, in der ein frühes Erscheinen ein ruhiges Erlebnis garantiert.",
+            "hu": "Fedezze fel a helyi kortárs művészetet és a regionális kiállításokat ebben a modern városi galériában, ahol a korai érkezés csendes élményt garantál a tömeg előtt.",
+            "ro": "Descoperiți arta contemporană locală și expozițiile regionale în această galerie municipală modernă, unde sosirea devreme garantează o vizionare liniștită fără aglomerație.",
+            "en": "Discover local contemporary art and regional exhibitions in this modern municipal gallery, where arriving early guarantees a quiet viewing experience before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro Pablo Neruda",
+            "hu": "Miradouro Pablo Neruda",
+            "ro": "Miradouro Pablo Neruda",
+            "en": "Miradouro Pablo Neruda"
+          },
+          "coords": [
+            -9.225008,
+            38.645844
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den Atlantik und die Küste von diesem malerischen Aussichtspunkt, wobei eine Windjacke Sie vor der Meeresbrise schützt.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Atlanti-óceánra és az egész partvonalra erről a festői kilátóról, de hozzon magával széldzsekit az erős tengeri szellő miatt.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale Oceanului Atlantic de la acest punct de belvedere pitoresc, luând o jachetă de vânt pentru a face față brizei marine.",
+            "en": "Enjoy breathtaking panoramic views of the Atlantic Ocean and the entire coastline from this scenic viewpoint, bringing a windbreaker to stay comfortable in the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Monitorização e Interpretação Ambiental",
+            "hu": "Környezetvédelmi Megfigyelő és Értelmező Központ",
+            "ro": "Centrul de Monitorizare și Interpretare a Mediului",
+            "en": "Centro de Monitorização e Interpretação Ambiental da Costa da Caparica"
+          },
+          "coords": [
+            -9.241202,
+            38.647288
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem interaktiven Zentrum mehr über das reiche Küstenökosystem, und fragen Sie das fachkundige Personal unbedingt nach den neuesten Meeresberichten.",
+            "hu": "Ismerje meg a gazdag part menti ökoszisztémát és a környezetvédelmi erőfeszítéseket ebben az interaktív központban, ahol érdemes a személyzettől tengeri jelentéseket kérni.",
+            "ro": "Aflați despre ecosistemul de coastă și eforturile de conservare a mediului la acest centru interactiv, asigurându-vă că întrebați personalul despre cele mai recente rapoarte.",
+            "en": "Learn about the rich coastal ecosystem and environmental conservation efforts at this interactive center, making sure to ask the knowledgeable staff for the latest marine reports."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Santo António da Caparica",
+            "hu": "Praia de Santo António da Caparica",
+            "ro": "Praia de Santo António da Caparica",
+            "en": "Praia de Santo António da Caparica"
+          },
+          "coords": [
+            -9.243738,
+            38.647583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem weitläufigen Sandstrand entlang, der für seine hervorragende Wasserqualität bekannt ist, und bringen Sie Ihren eigenen Sonnenschutz mit.",
+            "hu": "Sétáljon végig ezen a kiváló vízminőségű és családbarát atmoszférájú homokos tengerparton, és ne felejtsen el napernyőt hozni, mivel a bérlési lehetőségek korlátozottak.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse, cunoscută pentru calitatea excelentă a apei, și nu uitați să aduceți propria umbrelă deoarece cele de închiriat sunt limitate.",
+            "en": "Stroll along this expansive sandy beach known for its excellent water quality and family-friendly atmosphere, remembering to pack your own shade as rental umbrellas are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do CDS",
+            "hu": "Praia do CDS",
+            "ro": "Praia do CDS",
+            "en": "Praia do CDS"
+          },
+          "coords": [
+            -9.241901,
+            38.644891
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie geschickte Surfer, die an diesem berühmten Strand die Wellen erobern, was Sie am besten von der belebten Promenade mit einem erfrischenden Getränk aus tun.",
+            "hu": "Figyelje meg a híres hullámokat meghódító szörfösöket ezen az ikonikus központi strandon, amit a legjobban a nyüzsgő sétányról, egy frissítő itallal a kézben élvezhet.",
+            "ro": "Urmăriți surferii experimentați cucerind valurile la această plajă centrală iconică, un spectacol ce poate fi admirat cel mai bine de pe faleza animată cu o băutură răcoritoare.",
+            "en": "Watch skilled surfers conquer the famous waves at this iconic central beach spot, which is best experienced from the lively boardwalk with a refreshing drink in hand."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Surf",
+            "hu": "Museu do Surf",
+            "ro": "Museu do Surf",
+            "en": "Museu do Surf"
+          },
+          "coords": [
+            -9.23651,
+            38.64151
+          ],
+          "category": "museum",
+          "arrive_at": "16:15",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch alte Bretter und lebendige Fotos in die faszinierende Geschichte des portugiesischen Surfens ein und prüfen Sie vorab die Eintrittszeiten online.",
+            "hu": "Merüljön el a portugál hullámlovaglás lenyűgöző történetében a régi deszkák és élénk fotók segítségével, de ellenőrizze a nyitvatartást online a váratlan bezárások elkerülése végett.",
+            "ro": "Descoperiți istoria fascinantă a surfingului portughez prin plăci de epocă și fotografii vibrante, verificând programul online pentru a evita închiderile neașteptate.",
+            "en": "Dive into the fascinating history of Portuguese wave riding through vintage boards and vibrant photos, checking the entry times online to avoid unexpected closures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der städtischen Galerie, bevor Sie zum Aussichtspunkt Pablo Neruda spazieren, um einen Panoramablick zu genießen.",
+        "hu": "Kezdje a reggelt a városi galéria felfedezésével, majd tegyen egy frissítő sétát a Pablo Neruda kilátóhoz a panorámás tengerparti kilátásért.",
+        "ro": "Începeți dimineața explorând galeria municipală înainte de a face o plimbare răcoritoare către belvederea Pablo Neruda pentru vederi panoramice.",
+        "en": "Start your morning exploring the municipal gallery before taking a refreshing walk to the Pablo Neruda viewpoint for panoramic coastal vistas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Monitorização e Interpretação Ambiental",
+            "hu": "Környezetvédelmi Központ",
+            "ro": "Centrul de Monitorizare a Mediului",
+            "en": "Centro de Monitorização e Interpretação Ambiental da Costa da Caparica"
+          },
+          "coords": [
+            -9.241202,
+            38.647288
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem interaktiven Zentrum mehr über das reiche Küstenökosystem, und fragen Sie das fachkundige Personal unbedingt nach den neuesten Meeresberichten.",
+            "hu": "Ismerje meg a gazdag part menti ökoszisztémát és a környezetvédelmi erőfeszítéseket ebben az interaktív központban, ahol érdemes a személyzettől tengeri jelentéseket kérni.",
+            "ro": "Aflați despre ecosistemul de coastă și eforturile de conservare a mediului la acest centru interactiv, asigurându-vă că întrebați personalul despre cele mai recente rapoarte.",
+            "en": "Learn about the rich coastal ecosystem and environmental conservation efforts at this interactive center, making sure to ask the knowledgeable staff for the latest marine reports."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Norte",
+            "hu": "Praia do Norte",
+            "ro": "Praia do Norte",
+            "en": "Praia do Norte"
+          },
+          "coords": [
+            -9.2455,
+            38.650146
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem etwas wilderen Nordstrand mit seinen dramatischen Dünen, an dem feste Sandalen für den sandigen Weg zum Wasser sehr empfohlen werden.",
+            "hu": "Meneküljön el a tömeg elől ezen a drámai dűnékkel jellemzett, kissé vadabb északi strandon, ahol a homokos úthoz masszív szandál viselése javasolt.",
+            "ro": "Evadați de aglomerație la această plajă nordică puțin mai sălbatică cu dune spectaculoase, unde sandalele rezistente sunt recomandate pentru plimbarea pe nisip până la apă.",
+            "en": "Escape the main crowds at this slightly wilder northern beach characterized by dramatic dunes, where sturdy sandals are recommended for the sandy walk to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Tarquínio",
+            "hu": "Praia do Tarquínio",
+            "ro": "Praia do Tarquínio",
+            "en": "Praia do Tarquínio"
+          },
+          "coords": [
+            -9.240236,
+            38.643131
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sonnenverwöhnten Ufern dieses beliebten Küstenabschnitts, wobei Sie sich einen Liegestuhl sichern sollten, bevor der Nachmittagsansturm beginnt.",
+            "hu": "Pihenjen ezen a tengerparti kávézókkal teli, napsütötte partszakaszon, és igyekezzen még a délutáni csúcsforgalom előtt lefoglalni egy kényelmes napozóágyat.",
+            "ro": "Relaxați-vă pe țărmul însorit al acestei porțiuni populare pline de cafenele, încercând să ocupați un șezlong pe plajă înainte de aglomerația orelor de după-amiază.",
+            "en": "Relax on the sun-drenched shores of this popular coastal stretch bustling with oceanfront cafes, aiming to secure a beachfront lounger before the afternoon peak hits."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Dragão Vermelho",
+            "hu": "Praia do Dragão Vermelho",
+            "ro": "Praia do Dragão Vermelho",
+            "en": "Praia do Dragão Vermelho"
+          },
+          "coords": [
+            -9.237085,
+            38.639697
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die pulsierende Energie dieses jugendlichen Strandes und packen Sie einen Frisbee oder Volleyball ein, um bei den freundlichen Sportwettkämpfen mitzumachen.",
+            "hu": "Érezze a „Vörös Sárkányról” elnevezett fiatalos strand lüktető energiáját, és vigyen magával röplabdát vagy frizbit, hogy csatlakozhasson a barátságos helyi meccsekhez.",
+            "ro": "Simțiți energia vibrantă a acestei plaje tinerești numite după „Dragonul Roșu”, aducând o minge de volei sau un frisbee pentru a vă alătura meciurilor amicale locale.",
+            "en": "Take in the vibrant energy of this youthful beach named after the 'Red Dragon', packing a frisbee or beach volleyball to join the friendly local sports matches."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Nova",
+            "hu": "Praia Nova",
+            "ro": "Praia Nova",
+            "en": "Praia Nova"
+          },
+          "coords": [
+            -9.235419,
+            38.637656
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein ruhiges Nachmittagsschwimmen in den ruhigeren Gewässern dieses etwas weniger bebauten Strandbereichs und bringen Sie unbedingt Ihre eigenen Snacks mit.",
+            "hu": "Élvezze a csendes délutáni úszást ezen a kevésbé kiépített strandszakasz nyugodtabb vizeiben, és feltétlenül hozzon magával rágcsálnivalót, mivel kevés az árus a közelben.",
+            "ro": "Bucurați-vă de o baie liniștită după-amiaza în apele calme ale acestei zone de plajă mai puțin dezvoltate, asigurându-vă că aduceți propriile gustări deoarece comercianții sunt rari.",
+            "en": "Enjoy a tranquil afternoon swim in the calmer waters of this slightly less developed beach area, making sure to bring your own snacks as nearby vendors are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Saúde",
+            "hu": "Praia da Saúde",
+            "ro": "Praia da Saúde",
+            "en": "Praia da Saúde"
+          },
+          "coords": [
+            -9.228326,
+            38.63017
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die revitalisierende Meeresluft am treffend benannten „Gesundheitsstrand“ ein und nutzen Sie die gut gepflegten Wege für einen Spaziergang bei Sonnenuntergang.",
+            "hu": "Lélegezze be a frissítő tengeri levegőt a találóan elnevezett „Egészség Strandon”, és használja ki a jól karbantartott sétautakat egy festői naplementés parti sétához.",
+            "ro": "Respirați aerul de mare revitalizant la sugestiv numita „Plajă a Sănătății”, profitând de aleile bine întreținute pentru o plimbare pitorească la apusul soarelui.",
+            "en": "Breathe in the revitalizing sea air at the aptly named 'Health Beach', taking advantage of the well-maintained walking paths for a scenic coastal stroll at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cornélia",
+            "hu": "Praia da Cornélia",
+            "ro": "Praia da Cornélia",
+            "en": "Praia da Cornélia"
+          },
+          "coords": [
+            -9.226616,
+            38.627717
+          ],
+          "category": "recreational",
+          "arrive_at": "17:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an diesem abgelegenen südlichen Juwel mit spektakulären Sonnenuntergängen ausklingen und bringen Sie eine gemütliche Decke für den kühlen Sand mit.",
+            "hu": "Zárja a napot ezen az eldugott déli gyöngyszemen, amely látványos naplementét kínál, és hozzon egy meleg takarót, amire a hűvös homokban ülve várhatja a dagályt.",
+            "ro": "Încheiați-vă ziua la această bijuterie sudică retrasă ce oferă apusuri spectaculoase, aducând o pătură confortabilă pentru a sta pe nisipul răcoros odată cu venirea serii.",
+            "en": "Wind down your day at this secluded southern gem offering spectacular sunset views, bringing a cozy blanket to sit on the cool sand as the evening tide rolls in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Umweltzentrum, bevor Sie zum malerischen und etwas wilderen Nordstrand radeln. Fahren Sie an der Küste entlang nach Süden und genießen Sie die lebhafte Atmosphäre und die wunderschönen goldenen Sandstrände. Setzen Sie Ihre Reise am Praia Nova vorbei in Richtung Praia da Saúde fort und genießen Sie die gut ausgebauten Radwege und das Meerespanorama. Parken Sie Ihr Fahrrad am Praia da Cornélia, um sich zu entspannen und einen spektakulären Sonnenuntergang über dem Atlantik zu beobachten.",
+        "hu": "Kerékpáros kalandja a környezetvédelmi központban kezdődik, mielőtt a festői és kissé vadabb északi strandra pedálozna. Tekerjen dél felé a part mentén, élvezve az élénk atmoszférát és a gyönyörű arany homokos strandokat útközben. Folytassa útját a Praia Nova mellett a Praia da Saúde felé, élvezve a jól kiépített kerékpárutakat és a végtelen óceáni panorámát. Parkolja le kerékpárját a Praia da Cornélia partján, hogy pihenjen és megnézzen egy látványos atlanti naplementét egy aktív nap végén.",
+        "ro": "Aventura dumneavoastră cu bicicleta începe la centrul de mediu înainte de a pedala către plaja nordică pitorească și sălbatică. Mergeți spre sud de-a lungul coastei, bucurându-vă de atmosfera plină de viață și de frumoasele nisipuri aurii pe drum. Continuați-vă călătoria pe lângă Praia Nova spre Praia da Saúde, bucurându-vă de pistele de biciclete și de panoramele oceanice. Parcați-vă bicicleta la Praia da Cornélia pentru a vă relaxa și a urmări un apus spectaculos pe Atlantic, sfârșitul perfect al zilei.",
+        "en": "Your cycling adventure begins at the environmental interpretation center before pedaling to the scenic and slightly wilder northern beach. Ride south along the coast to Praia do Tarquínio and Praia do Dragão Vermelho, taking in the lively atmosphere and beautiful golden sands. Continue your journey past Praia Nova toward Praia da Saúde, enjoying the well-paved biking routes and endless ocean panoramas. Park your bike at Praia da Cornélia to relax and watch a spectacular Atlantic sunset, the perfect end to an active day on wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro Pablo Neruda",
+            "hu": "Miradouro Pablo Neruda",
+            "ro": "Miradouro Pablo Neruda",
+            "en": "Miradouro Pablo Neruda"
+          },
+          "coords": [
+            -9.225008,
+            38.645844
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den Atlantik und die Küste von diesem malerischen Aussichtspunkt, wobei eine Windjacke Sie vor der Meeresbrise schützt.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Atlanti-óceánra és az egész partvonalra erről a festői kilátóról, de hozzon magával széldzsekit az erős tengeri szellő miatt.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale Oceanului Atlantic de la acest punct de belvedere pitoresc, luând o jachetă de vânt pentru a face față brizei marine.",
+            "en": "Enjoy breathtaking panoramic views of the Atlantic Ocean and the entire coastline from this scenic viewpoint, bringing a windbreaker to stay comfortable in the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Municipal de Arte da Costa de Caparica",
+            "hu": "Galeria Municipal de Arte da Costa de Caparica",
+            "ro": "Galeria Municipal de Arte da Costa de Caparica",
+            "en": "Galeria Municipal de Arte da Costa de Caparica"
+          },
+          "coords": [
+            -9.234516,
+            38.644255
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale zeitgenössische Kunst und regionale Ausstellungen in dieser modernen städtischen Galerie, in der ein frühes Erscheinen ein ruhiges Erlebnis garantiert.",
+            "hu": "Fedezze fel a helyi kortárs művészetet és a regionális kiállításokat ebben a modern városi galériában, ahol a korai érkezés csendes élményt garantál a tömeg előtt.",
+            "ro": "Descoperiți arta contemporană locală și expozițiile regionale în această galerie municipală modernă, unde sosirea devreme garantează o vizionare liniștită fără aglomerație.",
+            "en": "Discover local contemporary art and regional exhibitions in this modern municipal gallery, where arriving early guarantees a quiet viewing experience before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Surf",
+            "hu": "Museu do Surf",
+            "ro": "Museu do Surf",
+            "en": "Museu do Surf"
+          },
+          "coords": [
+            -9.23651,
+            38.64151
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch alte Bretter und lebendige Fotos in die faszinierende Geschichte des portugiesischen Surfens ein und prüfen Sie vorab die Eintrittszeiten online.",
+            "hu": "Merüljön el a portugál hullámlovaglás lenyűgöző történetében a régi deszkák és élénk fotók segítségével, de ellenőrizze a nyitvatartást online a váratlan bezárások elkerülése végett.",
+            "ro": "Descoperiți istoria fascinantă a surfingului portughez prin plăci de epocă și fotografii vibrante, verificând programul online pentru a evita închiderile neașteptate.",
+            "en": "Dive into the fascinating history of Portuguese wave riding through vintage boards and vibrant photos, checking the entry times online to avoid unexpected closures."
+          }
+        },
+        {
+          "name": {
+            "de": "Nova Praia",
+            "hu": "Nova Praia",
+            "ro": "Nova Praia",
+            "en": "Nova Praia"
+          },
+          "coords": [
+            -9.231398,
+            38.633581
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den typisch portugiesischen Strand-Lifestyle auf diesem goldenen Sand und kommen Sie früh genug, um Ihr Handtuch nah an der erfrischenden Wasserlinie auszubreiten.",
+            "hu": "Tapasztalja meg a kvintesszenciális portugál tengerparti életmódot ezeken az arany homokos partokon, és érkezzen elég korán ahhoz, hogy törölközőjét a vízhez közel tehesse.",
+            "ro": "Experimentați stilul de viață tipic portughez pe aceste nisipuri aurii, ajungând suficient de devreme pentru a vă așeza prosopul aproape de linia revigorantă a apei.",
+            "en": "Experience the quintessential Portuguese beach lifestyle on these golden sands, arriving early enough to lay your towel close to the refreshing water line."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Saúde",
+            "hu": "Praia da Saúde",
+            "ro": "Praia da Saúde",
+            "en": "Praia da Saúde"
+          },
+          "coords": [
+            -9.228326,
+            38.63017
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die revitalisierende Meeresluft am treffend benannten „Gesundheitsstrand“ ein und nutzen Sie die gut gepflegten Wege für einen Spaziergang bei Sonnenuntergang.",
+            "hu": "Lélegezze be a frissítő tengeri levegőt a találóan elnevezett „Egészség Strandon”, és használja ki a jól karbantartott sétautakat egy festői naplementés parti sétához.",
+            "ro": "Respirați aerul de mare revitalizant la sugestiv numita „Plajă a Sănătății”, profitând de aleile bine întreținute pentru o plimbare pitorească la apusul soarelui.",
+            "en": "Breathe in the revitalizing sea air at the aptly named 'Health Beach', taking advantage of the well-maintained walking paths for a scenic coastal stroll at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cornélia",
+            "hu": "Praia da Cornélia",
+            "ro": "Praia da Cornélia",
+            "en": "Praia da Cornélia"
+          },
+          "coords": [
+            -9.226616,
+            38.627717
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an diesem abgelegenen südlichen Juwel mit spektakulären Sonnenuntergängen ausklingen und bringen Sie eine gemütliche Decke für den kühlen Sand mit.",
+            "hu": "Zárja a napot ezen az eldugott déli gyöngyszemen, amely látványos naplementét kínál, és hozzon egy meleg takarót, amire a hűvös homokban ülve várhatja a dagályt.",
+            "ro": "Încheiați-vă ziua la această bijuterie sudică retrasă ce oferă apusuri spectaculoase, aducând o pătură confortabilă pentru a sta pe nisipul răcoros odată cu venirea serii.",
+            "en": "Wind down your day at this secluded southern gem offering spectacular sunset views, bringing a cozy blanket to sit on the cool sand as the evening tide rolls in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Aussichtspunkt Pablo Neruda für einen morgendlichen Blick auf die Küste und besuchen Sie dann die städtische Kunstgalerie. Verbringen Sie den Mittag im faszinierenden Museu do Surf, bevor Sie eine kurze Fahrt die Küste hinunter unternehmen. Besuchen Sie Nova Praia und Praia da Saúde, hüpfen Sie bequem zwischen diesen wunderschönen Sandstränden und genießen Sie die Küstenumgebung. Beenden Sie Ihren Roadtrip am südlichen Praia da Cornélia, wo Sie leicht parken können, bevor Sie sich für die Dämmerung in den Sand setzen.",
+        "hu": "Kocsikázzon fel a Pablo Neruda kilátóhoz a kora reggeli parti panorámáért, majd vegye az irányt a városi művészeti galéria felé. Töltse a delet a lenyűgöző Szörf Múzeum felfedezésével, mielőtt egy rövid autózást tenne a part mentén egy napos helyet keresve. Látogasson el a Nova Praia és a Praia da Saúde strandokra, könnyedén ugrándozva e gyönyörű homokos partszakaszok között. Zárja autós túráját a déli Praia da Cornélia partján, ahol könnyű parkolást talál, mielőtt letelepedne a homokba a lélegzetelállító alkonyatban.",
+        "ro": "Conduceți până la belvederea Pablo Neruda pentru o vedere matinală a coastei, apoi îndreptați-vă spre galeria de artă municipală. Petreceți amiaza explorând fascinantul Museu do Surf înainte de a face o scurtă plimbare cu mașina pe coastă pentru un loc însorit. Vizitați Nova Praia și Praia da Saúde, sărind cu ușurință între aceste porțiuni frumoase de nisip și bucurându-vă de mediul de coastă. Terminați călătoria la plaja sudică Cornélia, găsind parcare ușoară înainte de a vă așeza pe nisip pentru un amurg uluitor.",
+        "en": "Drive up to the Pablo Neruda viewpoint for an early morning overview of the coast, then head to the municipal art gallery. Spend the midday exploring the fascinating Museu do Surf before taking a short drive down the coastline to find a sunny spot. Visit Nova Praia and Praia da Saúde, easily hopping between these beautiful stretches of sand and enjoying the therapeutic coastal environment. Finish your road trip at the southern Praia da Cornélia, finding easy parking before settling onto the sand for a breathtaking twilight."
+      }
+    }
+  }
+}

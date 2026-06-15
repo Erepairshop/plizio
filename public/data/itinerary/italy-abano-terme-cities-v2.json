@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-abano-terme-cities-v2",
+  "anchor": {
+    "name": "Abano Terme",
+    "coords": [
+      11.7924,
+      45.3619
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Lorenzo",
+            "hu": "San Lorenzo",
+            "ro": "San Lorenzo",
+            "en": "San Lorenzo"
+          },
+          "coords": [
+            11.790589,
+            45.360381
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige Fassade dieser zentralen Kirche und die schönen Fresken im Inneren, während Sie morgens auf die Messe Rücksicht nehmen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző homlokzatát és a gyönyörű belső freskókat, ügyelve a csendre a reggeli misék idején.",
+            "ro": "Admirați fațada impresionantă a acestei biserici centrale și frescele superbe din interior, păstrând liniștea în timpul slujbelor de dimineață.",
+            "en": "Admire the striking facade of this central church and note the beautiful frescoes inside, keeping your voice low during morning mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            11.788697,
+            45.359372
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die elegante Architektur des Rathauses, ein perfektes Fotomotiv, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Szánjon egy percet a városháza elegáns építészetének megcsodálására, amely tökéletes fotóháttérként szolgál a séta folytatása előtt.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura elegantă a primăriei, un fundal perfect pentru o fotografie înainte de a continua plimbarea.",
+            "en": "Take a moment to appreciate the elegant architecture of the town hall, a perfect backdrop for a photo before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bassi Rathgeb",
+            "hu": "Villa Bassi Rathgeb",
+            "ro": "Villa Bassi Rathgeb",
+            "en": "Villa Bassi Rathgeb"
+          },
+          "coords": [
+            11.784788,
+            45.362195
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Kunstsammlung dieser historischen Villa und prüfen Sie unbedingt den Plan für temporäre Ausstellungen vor Ihrem Besuch.",
+            "hu": "Fedezze fel e történelmi villa évszázadokat átfogó gazdag művészeti gyűjteményét, és látogatás előtt ellenőrizze az időszaki kiállítások naptárát.",
+            "ro": "Explorați colecția bogată de artă a acestei vile istorice și asigurați-vă că verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Explore this historic villa's rich art collection spanning centuries, and be sure to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietro d'Abano",
+            "hu": "Pietro d'Abano",
+            "ro": "Pietro d'Abano",
+            "en": "Pietro d'Abano"
+          },
+          "coords": [
+            11.77935,
+            45.353118
+          ],
+          "category": "cultural",
+          "arrive_at": "13:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Kulturdenkmal für den berühmten mittelalterlichen Philosophen, ein toller Ort, um sich auszuruhen und etwas Geschichte zu lesen.",
+            "hu": "Álljon meg a híres középkori filozófusnak szentelt kulturális emlékműnél, amely kiváló hely a pihenésre és a helyi történelem megismerésére.",
+            "ro": "Opriți-vă la acest monument cultural dedicat celebrului filosof medieval, un loc excelent pentru a vă odihni și a citi despre istoria locală.",
+            "en": "Pause at this cultural monument dedicated to the famous medieval philosopher and physician, a great spot to rest and read about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sacro Cuore alle Terme",
+            "hu": "Sacro Cuore alle Terme",
+            "ro": "Sacro Cuore alle Terme",
+            "en": "Sacro Cuore alle Terme"
+          },
+          "coords": [
+            11.779641,
+            45.349486
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses moderne Heiligtum, um die friedliche Atmosphäre und die bunten Glasfenster zu genießen, ein ruhiger Zufluchtsort im Kurort.",
+            "hu": "Lépjen be ebbe a modern szentélybe, és élvezze a békés légkört, amely csendes menedéket nyújt a nyüzsgő fürdőváros forgatagában.",
+            "ro": "Pășiți în acest sanctuar modern pentru a vă bucura de atmosfera pașnică, un refugiu liniștit departe de agitația orașului balnear.",
+            "en": "Step into this modern sanctuary to enjoy its peaceful atmosphere and striking stained glass windows, a quiet refuge from the bustling spa town."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria comunale d'Arte Contemporanea",
+            "hu": "Galleria comunale d'Arte Contemporanea",
+            "ro": "Galleria comunale d'Arte Contemporanea",
+            "en": "Galleria comunale d'Arte Contemporanea"
+          },
+          "coords": [
+            11.776742,
+            45.351998
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit zeitgenössischen Kunstwerken und planen Sie zusätzliche Zeit für die interaktiven Installationen lokaler Künstler ein.",
+            "hu": "Zárja sétáját a kortárs művészeti alkotások megtekintésével, és hagyjon extra időt a helyi művészek gyakran interaktív installációira.",
+            "ro": "Încheiați-vă plimbarea admirând lucrări de artă contemporană, alocând timp suplimentar pentru instalațiile interactive ale artiștilor locali.",
+            "en": "Conclude your walk viewing thought-provoking contemporary art pieces, allocating extra time for the often interactive local artist installations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der majestätischen Kirche San Lorenzo, gefolgt von einem kurzen Spaziergang zum eleganten Municipio. Der Weg führt dann zu den faszinierenden Sammlungen der Villa Bassi Rathgeb. Am Mittag bewundern Sie das Denkmal Pietro d'Abano und betreten das friedliche Sacro Cuore alle Terme. Der Nachmittag endet mit modernen Meisterwerken in der Galleria comunale.",
+        "hu": "A reggel a fenséges San Lorenzo templomnál kezdődik, amelyet egy rövid séta követ az elegáns Municipio felé. Az út ezután a Villa Bassi Rathgeb lenyűgöző gyűjteményeihez vezet. A dél tökéletes a Pietro d'Abano emlékmű megcsodálására, mielőtt belépne a békés Sacro Cuore alle Terme-be. A délután modern mesterművekkel zárul a Galleria comunale d'Arte Contemporanea falai között.",
+        "ro": "Dimineața începe la maiestuoasa biserică San Lorenzo, urmată de o scurtă plimbare până la eleganta clădire Municipio. Traseul vă duce apoi la colecțiile fascinante de la Villa Bassi Rathgeb. Amiaza este perfectă pentru a admira monumentul Pietro d'Abano înainte de a păși în pașnica Sacro Cuore. După-amiaza se încheie cu capodopere moderne la Galleria comunale d'Arte Contemporanea.",
+        "en": "Morning begins at the majestic San Lorenzo, followed by a brief walk to the elegant Municipio. The path then leads to the fascinating collections at Villa Bassi Rathgeb. Midday is perfect for admiring the Pietro d'Abano monument before stepping into the peaceful Sacro Cuore alle Terme. The afternoon wraps up with modern masterpieces at the Galleria comunale d'Arte Contemporanea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Internazionale della Maschera \"Amleto e Donato Sartori\"",
+            "hu": "Museo Internazionale della Maschera \"Amleto e Donato Sartori\"",
+            "ro": "Museo Internazionale della Maschera \"Amleto e Donato Sartori\"",
+            "en": "Museo Internazionale della Maschera \"Amleto e Donato Sartori\""
+          },
+          "coords": [
+            11.798231,
+            45.358055
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Welt der Theatermasken; buchen Sie eine Führung, um die komplexen Handwerkstechniken wirklich zu verstehen.",
+            "hu": "Fedezze fel a színházi maszkok lenyűgöző világát; foglaljon vezetett túrát, hogy igazán megértse a bonyolult készítési technikákat.",
+            "ro": "Descoperiți o lume fascinantă a măștilor teatrale; rezervați un tur ghidat pentru a înțelege cu adevărat tehnicile complexe de artizanat.",
+            "en": "Discover a fascinating world of theatrical masks from various global traditions; book a guided tour to truly understand the crafting techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "San Lorenzo",
+            "hu": "San Lorenzo",
+            "ro": "San Lorenzo",
+            "en": "San Lorenzo"
+          },
+          "coords": [
+            11.790589,
+            45.360381
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige Fassade dieser zentralen Kirche und die schönen Fresken im Inneren, während Sie morgens auf die Messe Rücksicht nehmen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző homlokzatát és a gyönyörű belső freskókat, ügyelve a csendre a reggeli misék idején.",
+            "ro": "Admirați fațada impresionantă a acestei biserici centrale și frescele superbe din interior, păstrând liniștea în timpul slujbelor de dimineață.",
+            "en": "Admire the striking facade of this central church and note the beautiful frescoes inside, keeping your voice low during morning mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bassi Rathgeb",
+            "hu": "Villa Bassi Rathgeb",
+            "ro": "Villa Bassi Rathgeb",
+            "en": "Villa Bassi Rathgeb"
+          },
+          "coords": [
+            11.784788,
+            45.362195
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Kunstsammlung dieser historischen Villa und prüfen Sie unbedingt den Plan für temporäre Ausstellungen vor Ihrem Besuch.",
+            "hu": "Fedezze fel e történelmi villa évszázadokat átfogó gazdag művészeti gyűjteményét, és látogatás előtt ellenőrizze az időszaki kiállítások naptárát.",
+            "ro": "Explorați colecția bogată de artă a acestei vile istorice și asigurați-vă că verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Explore this historic villa's rich art collection spanning centuries, and be sure to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Magnolia",
+            "hu": "Teatro Magnolia",
+            "ro": "Teatro Magnolia",
+            "en": "Teatro Magnolia"
+          },
+          "coords": [
+            11.782973,
+            45.350021
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen eleganten Kulturort im Grünen und bringen Sie eine leichte Jacke mit, falls Sie eine Freilichtaufführung besuchen.",
+            "hu": "Sétáljon végig ezen az elegáns, növényzettel körülvett kulturális helyszínen, és vigyen magával egy könnyű kabátot az esti szabadtéri előadásokhoz.",
+            "ro": "Plimbați-vă prin acest loc cultural elegant înconjurat de verdeață, luând o jachetă ușoară dacă intenționați să asistați la un spectacol.",
+            "en": "Walk through this elegant cultural venue surrounded by greenery, bringing a light jacket if you plan to attend an open-air evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Veranda",
+            "hu": "Piscina Veranda",
+            "ro": "Piscina Veranda",
+            "en": "Piscina Veranda"
+          },
+          "coords": [
+            11.776852,
+            45.349465
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im therapeutischen Thermalwasser dieses gepflegten Freizeitbeckens und denken Sie an Ihr eigenes Handtuch und eine Badekappe.",
+            "hu": "Pihenjen a jól karbantartott rekreációs medence terápiás termálvizében, és ne felejtse el magával vinni saját törölközőjét és úszósapkáját.",
+            "ro": "Relaxați-vă în apele termale terapeutice ale acestei piscine bine întreținute și nu uitați să vă aduceți propriul prosop și o cască de înot.",
+            "en": "Relax in the therapeutic thermal waters of this well-maintained recreational pool, and remember to bring your own towel and swim cap."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            11.762381,
+            45.365159
+          ],
+          "category": "religious",
+          "arrive_at": "16:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese reizvolle religiöse Stätte abseits des Zentrums, um die ruhige Architektur und den Blick auf die Landschaft zu bewundern.",
+            "hu": "Látogasson el erre a központtól távolabb eső, bájos vallási helyszínre, hogy megcsodálja nyugodt építészetét és a környező tájra nyíló kilátást.",
+            "ro": "Vizitați acest lăcaș de cult fermecător, situat departe de centru, pentru a admira arhitectura sa liniștită și priveliștile frumoase ale peisajului.",
+            "en": "Visit this charming religious site set away from the center to admire its tranquil architecture and the lovely surrounding landscape views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der Theatergeschichte im Museo Internazionale della Maschera. Radeln Sie in Richtung Zentrum, um San Lorenzo und die Kunstwerke der Villa Bassi Rathgeb zu besuchen. Gleiten Sie nachmittags an den Freiflächen des Teatro Magnolia vorbei. Machen Sie eine wohlverdiente Pause im Piscina Veranda und fahren Sie dann zur ruhigen Chiesa di San Bartolomeo.",
+        "hu": "Kezdje kerékpártúráját a színházi történelem felfedezésével a Museo Internazionale della Maschera-ban. Tekerjen a központ felé a San Lorenzo és a Villa Bassi Rathgeb műalkotásaihoz. Délután guruljon el a Teatro Magnolia nyitott terei mellett. Tartson egy megérdemelt termálpihenőt a Piscina Veranda-ban, majd kerekezzen a külvárosba, és zárja a napot a csendes Chiesa di San Bartolomeo-nál.",
+        "ro": "Începeți turul cu bicicleta explorând istoria la Museo Internazionale della Maschera. Pedalați spre centru pentru a vizita San Lorenzo și operele de artă de la Villa Bassi Rathgeb. După-amiaza, treceți pe lângă spațiile deschise de la Teatro Magnolia. Luați o pauză termală la Piscina Veranda, apoi mergeți spre periferie pentru a încheia ziua la liniștita Chiesa di San Bartolomeo.",
+        "en": "Kick off your cycling tour exploring theatrical history at the Museo Internazionale della Maschera. Pedal towards the center to visit San Lorenzo and the artworks of Villa Bassi Rathgeb. In the afternoon, glide past the open spaces of Teatro Magnolia. Take a well-deserved thermal break at Piscina Veranda, then ride to the outskirts to end your day at the quiet Chiesa di San Bartolomeo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mioni Luxury Swim & Spa",
+            "hu": "Mioni Luxury Swim & Spa",
+            "ro": "Mioni Luxury Swim & Spa",
+            "en": "Mioni Luxury Swim & Spa"
+          },
+          "coords": [
+            11.794645,
+            45.325189
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in den erstklassigen Spa-Einrichtungen und buchen Sie Ihre Behandlungen im Voraus, um Verfügbarkeit zu garantieren.",
+            "hu": "Kezdje a reggelt a prémium wellness részleg kényeztetésével, és a csúcsszezonban jó előre foglalja le a kívánt kezeléseket.",
+            "ro": "Începeți dimineața răsfățându-vă în facilitățile de spa premium, rezervând tratamentele din timp pentru a asigura disponibilitatea.",
+            "en": "Start your morning indulging in top-tier spa facilities, booking your treatments well in advance to ensure availability during peak seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Salus",
+            "hu": "Piscina Salus",
+            "ro": "Piscina Salus",
+            "en": "Piscina Salus"
+          },
+          "coords": [
+            11.777906,
+            45.346711
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesen einladenden Thermalbädern und prüfen Sie die familienfreundlichen Zeiten, wenn Sie mit Kindern reisen.",
+            "hu": "Élvezze a frissítő mártózást ezekben a hívogató termálfürdőkben, és tájékozódjon a családbarát nyitvatartásról, ha gyerekekkel utazik.",
+            "ro": "Bucurați-vă de o baie revigorantă în aceste băi termale primitoare, verificând orele destinate familiilor dacă călătoriți cu copii.",
+            "en": "Enjoy a refreshing dip in these inviting thermal baths, checking the family-friendly hours if you are traveling with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Complesso rurale Venturini-Cittadella Vigodarzere",
+            "hu": "Complesso rurale Venturini-Cittadella Vigodarzere",
+            "ro": "Complesso rurale Venturini-Cittadella Vigodarzere",
+            "en": "Complesso rurale Venturini-Cittadella Vigodarzere"
+          },
+          "coords": [
+            11.778138,
+            45.370827
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rustikalen Charme dieses historischen Komplexes und tragen Sie bequeme Schuhe, um die unebenen Kopfsteinpflasterwege zu meistern.",
+            "hu": "Fedezze fel e történelmi vidéki komplexum rusztikus báját, kényelmes cipőt viselve az egyenetlen macskaköves utakon való könnyű közlekedéshez.",
+            "ro": "Descoperiți farmecul rustic al acestui complex rural istoric, purtând încălțăminte confortabilă pentru a naviga ușor pe aleile pietruite denivelate.",
+            "en": "Discover the rustic charm of this historical rural complex, wearing comfortable walking shoes to easily navigate the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Foscolo",
+            "hu": "Villa Foscolo",
+            "ro": "Villa Foscolo",
+            "en": "Villa Foscolo"
+          },
+          "coords": [
+            11.775815,
+            45.374403
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Eleganz dieses historischen Anwesens und achten Sie auf die gut erhaltenen architektonischen Details des Adels.",
+            "hu": "Csodálja meg e történelmi birtok klasszikus eleganciáját, figyelve a jól megőrzött építészeti részletekre, amelyek a helyi nemességről mesélnek.",
+            "ro": "Admirați eleganța clasică a acestei proprietăți istorice, remarcând detaliile arhitecturale bine conservate care spun povestea nobilimii locale.",
+            "en": "Admire the classic elegance of this historical estate, noting the well-preserved architectural details that tell the story of local nobility."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            11.762381,
+            45.365159
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese reizvolle religiöse Stätte abseits des Zentrums, um die ruhige Architektur und den Blick auf die Landschaft zu bewundern.",
+            "hu": "Látogasson el erre a központtól távolabb eső, bájos vallási helyszínre, hogy megcsodálja nyugodt építészetét és a környező tájra nyíló kilátást.",
+            "ro": "Vizitați acest lăcaș de cult fermecător, situat departe de centru, pentru a admira arhitectura sa liniștită și priveliștile frumoase ale peisajului.",
+            "en": "Visit this charming religious site set away from the center to admire its tranquil architecture and the lovely surrounding landscape views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit luxuriöser Entspannung am Morgen im Mioni Luxury Swim & Spa, gefolgt von weiteren Wasserfreuden im Piscina Salus. Nach der Erfrischung fahren Sie zum historischen Complesso rurale Venturini, um das rustikale Erbe zu sehen. Eine kurze Fahrt bringt Sie zur Schönheit der Villa Foscolo, bevor Sie die Reise in der ruhigen Chiesa di San Bartolomeo abschließen.",
+        "hu": "Autós utazása luxus reggeli pihenéssel kezdődik a Mioni Luxury Swim & Spa-ban, majd további vizes élményekkel folytatódik a Piscina Salus-ban. A felfrissülés után irány a történelmi Complesso rurale Venturini, hogy megismerje a rusztikus örökséget. Egy rövid út elviszi a Villa Foscolo klasszikus szépségéhez, mielőtt befejezné útját a derűs Chiesa di San Bartolomeo-ban.",
+        "ro": "Călătoria începe cu o relaxare de lux la Mioni Luxury Swim & Spa, urmată de mai multă distracție acvatică la Piscina Salus. După o reîmprospătare, mergeți la istoricul Complesso rurale Venturini pentru a vedea patrimoniul rustic. Un drum scurt vă aduce la frumusețea clasică a Vilei Foscolo, înainte de a încheia călătoria la senina și pașnica biserică San Bartolomeo.",
+        "en": "Your drive begins with luxurious morning relaxation at Mioni Luxury Swim & Spa, followed by more aquatic enjoyment at Piscina Salus. After refreshing in the thermal waters, head to the historical Complesso rurale Venturini for a glimpse of rustic heritage. A short drive brings you to the classic beauty of Villa Foscolo, before concluding the journey at the serene Chiesa di San Bartolomeo."
+      }
+    }
+  }
+}

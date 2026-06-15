@@ -1,0 +1,520 @@
+{
+  "city_id": "bussy-saint-georges",
+  "anchor": {
+    "name": "Bussy-Saint-Georges",
+    "coords": [
+      2.6978,
+      48.8417
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:50",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.698027,
+            48.842412
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in dieser malerischen örtlichen Kirche, die die Geschichte der Stadt verankert, wo Sie die einfachen, aber eleganten Buntglasfenster bewundern sollten.",
+            "hu": "Kezdje a reggelt ebben a hangulatos helyi templomban, amely a város történelmének horgonya, ahol érdemes megcsodálni az egyszerű, de elegáns ólomüveg ablakokat.",
+            "ro": "Începeți dimineața la această biserică locală pitorească ce ancorează istoria orașului, unde ar trebui să admirați vitraliile simple, dar elegante, înainte de a explora centrul.",
+            "en": "Start your morning at this quaint local church which anchors the town's history, where you should admire the simple yet elegant stained glass before exploring the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour-pigeonnier",
+            "hu": "Tour-pigeonnier",
+            "ro": "Tour-pigeonnier",
+            "en": "Tour-pigeonnier"
+          },
+          "coords": [
+            2.697526,
+            48.843751
+          ],
+          "category": "tower",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt steht dieser historische Taubenturm, ein bemerkenswertes Überbleibsel des landwirtschaftlichen Erbes, wo ein Foto vom südlichen Weg das beste Licht bietet.",
+            "hu": "Csak egy rövid sétára áll ez a történelmi galambdúc, a mezőgazdasági örökség figyelemre méltó maradványa, ahol a déli ösvényről készített fotó nyújtja a legjobb fényviszonyokat.",
+            "ro": "La doar o scurtă plimbare se află acest turn istoric pentru porumbei, un vestigiu remarcabil al patrimoniului agricol unde o fotografie de pe cărarea sudică oferă cea mai bună lumină.",
+            "en": "Just a short stroll away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from the southern path offers the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Val",
+            "hu": "Église Notre-Dame du Val",
+            "ro": "Église Notre-Dame du Val",
+            "en": "Église Notre-Dame du Val"
+          },
+          "coords": [
+            2.716176,
+            48.839817
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante zeitgenössische Architektur dieses modernen Andachtsraums, der sich durch seine massive Kupferkuppel auszeichnet, und achten Sie auf kostenlose Choraufführungen.",
+            "hu": "Csodálja meg ennek a modern istentiszteleti helynek a lenyűgöző kortárs építészetét, amelyet hatalmas rézkupolája jellemez, és mindenképpen keresse a hirdetőtáblán az ingyenes kóruselőadásokat.",
+            "ro": "Admirați arhitectura contemporană izbitoare a acestui spațiu modern de cult, distins prin domul său masiv din cupru, și asigurați-vă că verificați panoul pentru spectacole corale gratuite.",
+            "en": "Admire the striking contemporary architecture of this modern worship space, distinguished by its massive copper dome, and be sure to check the notice board for free local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Génitoy",
+            "hu": "Génitoy Park",
+            "ro": "Parcul Génitoy",
+            "en": "Génitoy Park"
+          },
+          "coords": [
+            2.719024,
+            48.836283
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Teichen dieser weitläufigen grünen Lunge, die einen perfekten Rückzugsort in der Natur bietet, und holen Sie sich ein Baguette für ein Picknick am See.",
+            "hu": "Pihenjen meg a nyugodt tavak mellett ebben a kiterjedt zöld tüdőben, amely tökéletes természeti menedéket nyújt, és vegyen egy friss bagettet a közeli pékségben egy tóparti piknikhez.",
+            "ro": "Relaxați-vă lângă iazurile liniștite ale acestui plămân verde expansiv care oferă o evadare naturală perfectă și luați o baghetă proaspătă de la o brutărie din apropiere pentru un picnic.",
+            "en": "Relax by the tranquil ponds of this expansive green lung which provides a perfect natural escape, and consider grabbing a fresh baguette from a nearby bakery for a lakeside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade der Religionen",
+            "hu": "Vallások Eszplanádja",
+            "ro": "Esplanada Religiilor",
+            "en": "Esplanade of Religions"
+          },
+          "coords": [
+            2.728128,
+            48.838268
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem einzigartigen Symbol interreligiöser Harmonie mit mehreren nebeneinander liegenden Sakralbauten, wo eine Vorabbuchung das Erlebnis bereichert.",
+            "hu": "Fejezze be sétáját a vallásközi harmónia ezen egyedülálló szimbólumánál, ahol több vallási épület áll egymás mellett, és ahol az előzetes idegenvezetés foglalása gazdagítja az élményt.",
+            "ro": "Încheiați-vă plimbarea la acest simbol unic al armoniei interconfesionale cu mai multe clădiri religioase alăturate, unde rezervarea unui tur ghidat în avans îmbogățește experiența.",
+            "en": "Conclude your walking tour at this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Bussy-Saint-Georges rund um die Kirche Saint-Georges.\n\nGegen Mittag wechseln Sie in die modernen Sektoren und bewundern die zeitgenössischen Linien der Église Notre-Dame du Val.\n\nVerbringen Sie Ihren Nachmittag in den üppigen Landschaften des Parc du Génitoy und genießen Sie die friedliche Atmosphäre.\n\nWenn der Abend naht, reflektieren Sie die Reise des Tages an der inspirierenden Esplanade of Religions.",
+        "hu": "Kezdje a reggelt Bussy-Saint-Georges történelmi központjának felfedezésével a bájos Saint-Georges templom körül.\n\nDélben váltson a modern negyedekre, és csodálja meg az Église Notre-Dame du Val kortárs vonalait.\n\nA délutánt töltse a Génitoy Park buja tájain, élvezve a békés vízparti atmoszférát.\n\nAz este közeledtével gondoljon vissza a napra a Vallások Eszplanádjánál, amely a békés együttélés világítótornya.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Bussy-Saint-Georges în jurul fermecătoarei Biserici Saint-Georges.\n\nLa prânz, treceți spre sectoarele moderne, minunându-vă de liniile contemporane ale Église Notre-Dame du Val.\n\nPetreceți-vă după-amiaza relaxându-vă în peisajele luxuriante ale Parcului Génitoy, bucurându-vă de atmosfera pașnică.\n\nSpre seară, reflectați asupra călătoriei la inspirata Esplanadă a Religiilor, un far al coexistenței pașnice.",
+        "en": "Start your morning exploring the historic heart of Bussy-Saint-Georges around the charming Saint-Georges Church.\n\nBy midday, transition towards the modern sectors, marvelling at the contemporary lines of Église Notre-Dame du Val.\n\nSpend your afternoon unwinding in the lush landscapes of Génitoy Park, enjoying the peaceful waterside atmosphere.\n\nAs evening approaches, reflect on the day's journey at the inspiring Esplanade of Religions, a beacon of peaceful coexistence."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.698027,
+            48.842412
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag in dieser malerischen Kirche, die die Geschichte der Stadt verankert, wo Sie die einfachen Buntglasfenster vor der Weiterfahrt bewundern sollten.",
+            "hu": "Kezdje a kerékpáros napot ebben a hangulatos templomban, amely a város történelmének horgonya, ahol érdemes megcsodálni az ólomüveg ablakokat a központba tekerés előtt.",
+            "ro": "Începeți ziua de ciclism la această biserică locală pitorească, unde ar trebui să admirați vitraliile simple înainte de a pedala prin centrul istoric.",
+            "en": "Begin your cycling day at this quaint local church which anchors the town's history, where you should admire the simple stained glass before pedaling through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour-pigeonnier",
+            "hu": "Tour-pigeonnier",
+            "ro": "Tour-pigeonnier",
+            "en": "Tour-pigeonnier"
+          },
+          "coords": [
+            2.697526,
+            48.843751
+          ],
+          "category": "tower",
+          "arrive_at": "09:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt entfernt steht dieser historische Taubenturm, ein Überbleibsel des landwirtschaftlichen Erbes, wo ein Foto vom Sattel aus eine tolle Perspektive bietet.",
+            "hu": "Csak egy rövid útra áll ez a történelmi galambdúc, a mezőgazdasági örökség maradványa, ahol a nyeregből fotózva nagyszerű perspektívát kaphat.",
+            "ro": "La doar o scurtă călătorie se află acest turn istoric, un vestigiu remarcabil al patrimoniului agricol unde o fotografie din șa oferă o perspectivă excelentă.",
+            "en": "Just a short ride away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from your saddle offers a great perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Guermantes",
+            "hu": "Château de Guermantes",
+            "ro": "Château de Guermantes",
+            "en": "Château de Guermantes"
+          },
+          "coords": [
+            2.697745,
+            48.852679
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem großen Schloss aus dem 17. Jahrhundert, um die klassische Fassade zu würdigen, und überprüfen Sie die saisonalen Öffnungszeiten vor einem Innenbesuch.",
+            "hu": "Tekerjen el ehhez a nagyszerű tizenhetedik századi kastélyhoz, hogy megcsodálja klasszikus homlokzatát, és ne felejtse el ellenőrizni a szezonális nyitvatartást.",
+            "ro": "Pedalați până la acest grandios castel din secolul al șaptesprezecelea pentru a-i aprecia fațada clasică și nu uitați să verificați orarul sezonier înainte de o vizită.",
+            "en": "Cycle up to this grand seventeenth-century château to appreciate its magnificent classical facade, and remember to check the seasonal opening hours before planning an interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie",
+            "hu": "Église Sainte-Marie",
+            "ro": "Église Sainte-Marie",
+            "en": "Église Sainte-Marie"
+          },
+          "coords": [
+            2.716541,
+            48.856003
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in dieser ruhigen Vorstadtkirche, die als stiller Anker der Gemeinde dient, wo Sie Ihr Fahrrad bequem in der Nähe der Haupteingangstore parken können.",
+            "hu": "Tartson egy békés szünetet ebben a külvárosi templomban, amely a közösség horgonyaként szolgál, és ahol könnyedén leparkolhatja kerékpárját a főbejárat közelében.",
+            "ro": "Luați o pauză liniștită la această biserică suburbană senină care servește drept ancoră comunitară, unde vă puteți parca cu ușurință bicicleta lângă porțile principale.",
+            "en": "Take a peaceful break at this serene suburban church which serves as a quiet community anchor, where you can easily park your bike near the main entrance gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Golfplatz Bussy-Guermantes",
+            "hu": "Bussy-Guermantes Golfpálya",
+            "ro": "Terenul de Golf Bussy-Guermantes",
+            "en": "Bussy-Guermantes Golf Course"
+          },
+          "coords": [
+            2.724608,
+            48.850625
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie vorbei an den gepflegten Grüns dieses wunderschön angelegten Platzes, der weite Ausblicke bietet, und halten Sie auf der Clubhaus-Terrasse für ein Getränk an.",
+            "hu": "Tekerjen el e gyönyörűen parkosított pálya gondozott zöldjei mellett, amely széles kilátást nyújt, és fontolja meg a megállást a klubház teraszán egy frissítő italra.",
+            "ro": "Pedalați pe lângă terenurile îngrijite ale acestui curs frumos amenajat care oferă vederi extinse și luați în considerare o oprire la terasa clubului pentru o băutură.",
+            "en": "Pedal past the manicured greens of this beautifully landscaped course that offers expansive views, and consider stopping at the clubhouse terrace for a refreshing drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade der Religionen",
+            "hu": "Vallások Eszplanádja",
+            "ro": "Esplanada Religiilor",
+            "en": "Esplanade of Religions"
+          },
+          "coords": [
+            2.728128,
+            48.838268
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Symbol interreligiöser Harmonie mit mehreren nebeneinander liegenden Sakralbauten, wo eine Vorabbuchung das kulturelle Erlebnis bereichert.",
+            "hu": "Fedezze fel a vallásközi harmónia ezen szimbólumát, ahol több vallási épület áll egymás mellett, és ahol az előzetes idegenvezetés foglalása gazdagítja a kulturális élményt.",
+            "ro": "Descoperiți acest simbol unic al armoniei interconfesionale cu mai multe clădiri religioase alăturate, unde rezervarea unui tur ghidat în avans îmbogățește experiența.",
+            "en": "Discover this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the cultural experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Génitoy",
+            "hu": "Génitoy Park",
+            "ro": "Parcul Génitoy",
+            "en": "Génitoy Park"
+          },
+          "coords": [
+            2.719024,
+            48.836283
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in dieser weitläufigen grünen Lunge, wo die gepflasterten Wege am Seeufer außergewöhnlich glatt für eine letzte entspannte Fahrt sind.",
+            "hu": "Fejezze be kerékpártúráját ebben a kiterjedt zöld tüdőben, ahol a tóparti kövezett ösvények kivételesen simák egy utolsó, nyugodt kör megtételéhez.",
+            "ro": "Încheiați-vă turul cu bicicleta la acest plămân verde expansiv, unde traseele pavate de pe malul lacului sunt excepțional de netede pentru o ultimă plimbare relaxată.",
+            "en": "Conclude your bike tour at this expansive green lung which provides a perfect natural escape, where the paved lakeside trails are exceptionally smooth for a final relaxed ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im historischen Kern der Stadt, bevor Sie zu den majestätischen Anlagen des Château de Guermantes radeln.\n\nDer Mittag bringt eine gemütliche Fahrt vorbei an lokalen Vorstadt-Wahrzeichen und den weitläufigen Grüns des lokalen Golfplatzes.\n\nFahren Sie am Nachmittag zur lebhaften Esplanade of Religions, um eine inspirierende Sammlung moderner spiritueller Architektur zu erleben.\n\nBeenden Sie Ihren aktiven Tag mit einer ruhigen Fahrt bei Sonnenuntergang entlang der friedlichen Gewässer und offenen Wege des Parc du Génitoy.",
+        "hu": "Kezdje kerékpáros kalandját a város történelmi magjában, mielőtt a Château de Guermantes fenséges területeire tekerne.\n\nA délidő egy kellemes túrát tartogat a helyi külvárosi nevezetességek és a helyi golfpálya kiterjedt zöldjei mellett.\n\nDélután guruljon a vibráló Vallások Eszplanádja felé, hogy tanúja legyen a modern spirituális építészet inspiráló gyűjteményének.\n\nFejezze be aktív napját egy nyugodt naplementés kerékpározással a Génitoy Park csendes vizei és nyitott ösvényei mentén.",
+        "ro": "Începeți-vă aventura cu bicicleta în nucleul istoric al orașului înainte de a pedala spre terenurile maiestuoase ale Château de Guermantes.\n\nPrânzul aduce o plimbare relaxantă pe lângă reperele suburbane locale și verdeața întinsă a terenului de golf local.\n\nDupă-amiaza, mergeți spre vibranta Esplanadă a Religiilor pentru a vedea o colecție inspirată de arhitectură spirituală modernă.\n\nTerminați-vă ziua activă cu o plimbare liniștită la apus de-a lungul apelor calme și al potecilor deschise din Parcul Génitoy.",
+        "en": "Kick off your cycling adventure in the historic core of the town before pedaling out to the majestic grounds of Château de Guermantes.\n\nMidday brings a leisurely ride past local suburban landmarks and the sprawling greens of the local golf course.\n\nIn the afternoon, cruise towards the vibrant Esplanade of Religions to witness an inspiring collection of modern spiritual architecture.\n\nFinish your active day with a tranquil sunset ride along the calm waters and open paths of Génitoy Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 9.35,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Guermantes",
+            "hu": "Château de Guermantes",
+            "ro": "Château de Guermantes",
+            "en": "Château de Guermantes"
+          },
+          "coords": [
+            2.697745,
+            48.852679
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre malerische Fahrt an diesem prächtigen Anwesen aus dem 17. Jahrhundert, um klassische französische Architektur zu bewundern, und nutzen Sie den geräumigen Besucherparkplatz direkt an der Hauptstraße.",
+            "hu": "Kezdje festői autózását ennél a csodálatos tizenhetedik századi birtoknál, hogy megcsodálja a klasszikus francia építészetet, és használja a főút melletti tágas látogatói parkolót.",
+            "ro": "Începeți-vă călătoria pitorească la această moșie magnifică din secolul al șaptesprezecelea pentru a admira arhitectura clasică, și folosiți parcarea spațioasă chiar la ieșirea de pe drumul principal.",
+            "en": "Start your scenic drive at this magnificent seventeenth-century estate to marvel at classic French architecture, and use the spacious visitor parking area located just off the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie",
+            "hu": "Église Sainte-Marie",
+            "ro": "Église Sainte-Marie",
+            "en": "Église Sainte-Marie"
+          },
+          "coords": [
+            2.716541,
+            48.856003
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem modernen Vorstadtheiligtum, das das Wachstum der Wohngegend unterstreicht, wo es meist schnell und mühelos ist, einen Platz auf dem angrenzenden Parkplatz zu finden.",
+            "hu": "Hajtson ehhez a modern külvárosi szentélyhez, amely a lakóövezet növekedését emeli ki, ahol a szomszédos parkolóban általában gyors és könnyű helyet találni.",
+            "ro": "Conduceți la acest sanctuar suburban modern care evidențiază creșterea rezidențială, unde găsirea unui loc în parcarea adiacentă este de obicei rapidă și fără efort.",
+            "en": "Drive to this modern suburban sanctuary that highlights the area's residential growth, where finding a spot in the adjacent lot is usually quick and effortless."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            2.698027,
+            48.842412
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie in das historische Epizentrum der Stadt, um diese charmante traditionelle Kirche zu besuchen, wo Sie am besten in den parallelen Straßen parken, um Staus zu vermeiden.",
+            "hu": "Navigáljon a város történelmi epicentrumába, hogy meglátogassa ezt a bájos hagyományos templomot, ahol a legjobb a közeli párhuzamos utcákban parkolni a torlódások elkerülése végett.",
+            "ro": "Navigați în epicentrul istoric al orașului pentru a vizita această fermecătoare biserică tradițională, unde este cel mai bine să parcați pe străzile paralele pentru a evita aglomerația.",
+            "en": "Navigate into the town's historic epicenter to visit this charming traditional church, where it is best to park on the nearby parallel streets to avoid the central congestion."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour-pigeonnier",
+            "hu": "Tour-pigeonnier",
+            "ro": "Tour-pigeonnier",
+            "en": "Tour-pigeonnier"
+          },
+          "coords": [
+            2.697526,
+            48.843751
+          ],
+          "category": "tower",
+          "arrive_at": "11:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gehen Sie einen kurzen Moment vom Kirchenparkplatz, um diesen markanten runden Taubenschlag zu beobachten, ein architektonisches Juwel, das perfekt für einen schnellen morgendlichen Schnappschuss ist.",
+            "hu": "Sétáljon egy keveset a templom parkolójából, hogy megfigyelje ezt a feltűnő kör alakú galambdúcot, a mezőgazdasági történelem építészeti gyöngyszemét, amely tökéletes egy reggeli fotóhoz.",
+            "ro": "Mergeți un moment de la parcarea bisericii pentru a observa acest porumbar circular, o bijuterie arhitecturală a istoriei agricole perfectă pentru o fotografie rapidă dimineața.",
+            "en": "Walk a brief moment from the church parking to observe this striking circular dovecote, an architectural gem of agricultural history that is perfect for a quick morning snapshot."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Val",
+            "hu": "Église Notre-Dame du Val",
+            "ro": "Église Notre-Dame du Val",
+            "en": "Église Notre-Dame du Val"
+          },
+          "coords": [
+            2.716176,
+            48.839817
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erreichen Sie dieses massive zeitgenössische Gottesdienstzentrum, das für seine markante Kupferkuppel bekannt ist, und nutzen Sie die großzügigen Parkplätze für große Gemeinden.",
+            "hu": "Érkezzen meg ehhez a hatalmas, feltűnő rézkupolájáról ismert kortárs istentiszteleti központhoz, és használja ki a nagy gyülekezetek számára épített bőséges helyszíni parkolót.",
+            "ro": "Ajungeți la acest centru masiv de cult contemporan, cunoscut pentru domul său izbitor din cupru, și profitați de parcarea generoasă construită special pentru congregații mari.",
+            "en": "Arrive at this massive contemporary worship center known for its striking copper dome, and take advantage of the generous on-site parking specifically built for large congregations."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade der Religionen",
+            "hu": "Vallások Eszplanádja",
+            "ro": "Esplanada Religiilor",
+            "en": "Esplanade of Religions"
+          },
+          "coords": [
+            2.728128,
+            48.838268
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück, um diese bemerkenswerte Ansammlung verschiedener spiritueller Gebäude zu erkunden, wo eine Führung einen tiefen Einblick in die interkulturelle Mission bietet.",
+            "hu": "Utazzon egy rövid távolságot, hogy felfedezze a különféle spirituális épületek e figyelemre méltó együttesét, ahol az idegenvezetés mély betekintést nyújt a kultúrák közötti küldetésbe.",
+            "ro": "Călătoriți o distanță scurtă pentru a explora această adunare remarcabilă de diverse clădiri spirituale, unde un tur ghidat oferă o scufundare profundă în misiunea sa interculturală.",
+            "en": "Journey a short distance to explore this remarkable assembly of diverse spiritual buildings side-by-side, where booking a guided tour offers a deep dive into its intercultural mission."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Ferrières",
+            "hu": "Château de Ferrières",
+            "ro": "Château de Ferrières",
+            "en": "Château de Ferrières"
+          },
+          "coords": [
+            2.712057,
+            48.819664
+          ],
+          "category": "castle",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden, um die atemberaubende Opulenz dieses grandiosen Rothschild-Palastes zu erleben, wo eine Tischreservierung im hauseigenen Restaurant den Besuch abrundet.",
+            "hu": "Hajtson délre, hogy megtapasztalja ennek a grandiózus Rothschild-palotának a lélegzetelállító gazdagságát, ahol a birtok éttermében történő asztalfoglalás emeli a látogatás fényét.",
+            "ro": "Conduceți spre sud pentru a experimenta opulența uluitoare a acestui palat grandios Rothschild, unde rezervarea unei mese la restaurantul domeniului ridică întreaga vizită.",
+            "en": "Drive south to experience the breathtaking opulence of this grandiose Rothschild palace, where securing a lunch reservation at the estate's restaurant elevates the entire visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémy",
+            "hu": "Église Saint-Rémy",
+            "ro": "Église Saint-Rémy",
+            "en": "Église Saint-Rémy"
+          },
+          "coords": [
+            2.704285,
+            48.821231
+          ],
+          "category": "religious",
+          "arrive_at": "15:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem friedlichen Nachbardorf, um seine charmante Kirche aus der alten Welt zu bewundern, wo Sie problemlos kostenlose Parkplätze nahe dem Hauptplatz finden.",
+            "hu": "Fejezze be autós túráját ebben a békés szomszédos faluban, hogy megcsodálja a régi világot idéző bájos templomot, ahol könnyen találhat ingyenes parkolót a csendes főtér közelében.",
+            "ro": "Încheiați-vă călătoria cu mașina în acest sat vecin pașnic pentru a admira biserica sa fermecătoare din lumea veche, unde puteți găsi ușor parcare gratuită lângă piața principală.",
+            "en": "End your driving tour in this peaceful neighboring village to admire its charming old-world church, where you can easily find free parking near the quiet main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung der großen historischen Anwesen und ruhigen Vorstadtstraßen im Norden der Stadt.\n\nWenn der Mittag naht, navigieren Sie in das belebte Zentrum, um den Charme der alten Welt mit zeitgenössischer Architektur zu kontrastieren.\n\nVerbringen Sie Ihren Nachmittag damit, nach Süden zu fahren, um den unvergleichlichen Luxus des Rothschild-Erbes im Château de Ferrières zu erleben.\n\nBeenden Sie Ihre ganztägige Fahrt mit einem friedlichen Halt in der Dämmerung an einer malerischen Dorfkirche und reflektieren Sie die Reise.",
+        "hu": "Kezdje autós utazását a város északi részein található nagyszerű történelmi birtokok és csendes külvárosi utcák felfedezésével.\n\nDél közeledtével navigáljon a nyüzsgő központba, hogy a régi világ báját a feltűnő kortárs vallási építészettel állítsa szembe.\n\nA délutánt töltse azzal, hogy délre hajt, és megtapasztalja a Rothschild-örökség páratlan luxusát a Château de Ferrières-ben.\n\nFejezze be egész napos autós útitervét egy békés alkonyati megállóval egy festői falusi templomnál, visszagondolva a változatos útra.",
+        "ro": "Începeți-vă călătoria cu mașina explorând marile moșii istorice și străzile suburbane liniștite din nordul orașului.\n\nPe măsură ce se apropie prânzul, navigați în centrul plin de viață pentru a contrasta farmecul lumii vechi cu arhitectura religioasă contemporană.\n\nPetreceți-vă după-amiaza conducând spre sud pentru a experimenta luxul de neegalat al moștenirii Rothschild la Château de Ferrières.\n\nÎncheiați-vă itinerariul de o zi cu o oprire pașnică la amurg la o biserică pitorească de sat, reflectând asupra unei călătorii diverse.",
+        "en": "Begin your road trip by exploring the grand historical estates and quiet suburban streets in the northern reaches of the city.\n\nAs midday approaches, navigate into the bustling center to contrast the old-world charm with striking contemporary religious architecture.\n\nSpend your afternoon driving southward to experience the unparalleled luxury of the Rothschild legacy at Château de Ferrières.\n\nConclude your full-day driving itinerary with a peaceful twilight stop at a quaint village church, reflecting on a diverse architectural journey."
+      }
+    }
+  }
+}

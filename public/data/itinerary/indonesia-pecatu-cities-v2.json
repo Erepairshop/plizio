@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-pecatu-cities-v2",
+  "anchor": {
+    "name": "Pecatu",
+    "coords": [
+      115.11362,
+      -8.82084
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Padang Padang Beach",
+            "hu": "Padang Padang Beach",
+            "ro": "Padang Padang Beach",
+            "en": "Padang Padang Beach"
+          },
+          "coords": [
+            115.103654,
+            -8.811288
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser berühmte Surfstrand besticht durch sein klares Wasser, ideal für ein morgendliches Bad, bevor die großen Menschenmengen eintreffen.",
+            "hu": "Ez a híres szörfstrand kristálytiszta vizével hódít, érdemes kora reggel érkezni egy frissítő úszásra a tömegek elkerülése végett.",
+            "ro": "Această plajă faimoasă pentru surf atrage prin apa sa cristalină, fiind ideală pentru o baie matinală înainte de aglomerația zilnică.",
+            "en": "This famous surf beach captivates with its crystal-clear water, making it ideal for a refreshing morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "MBV Gallery",
+            "hu": "MBV Gallery",
+            "ro": "MBV Gallery",
+            "en": "MBV Gallery"
+          },
+          "coords": [
+            115.106411,
+            -8.812452
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische balinesische Kunstwerke in dieser intimen Galerie, die einen tiefen Einblick in die lokale Kulturszene bietet.",
+            "hu": "Fedezze fel a kortárs balinéz művészetet ebben az intim galériában, amely mély bepillantást enged a helyi kulturális színtérbe és alkotásokba.",
+            "ro": "Descoperiți opere de artă contemporană balineză în această galerie intimă, care oferă o perspectivă profundă asupra scenei culturale locale.",
+            "en": "Discover contemporary Balinese art pieces in this intimate gallery, which provides a deep insight into the vibrant local cultural scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Thomas beach",
+            "hu": "Thomas beach",
+            "ro": "Thomas beach",
+            "en": "Thomas beach"
+          },
+          "coords": [
+            115.097703,
+            -8.812531
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel mit feinem weißen Sand; nehmen Sie ausreichend Sonnencreme mit, da es hier nur wenig natürlichen Schatten gibt.",
+            "hu": "Egy rejtett gyöngyszem finom fehér homokkal; hozzon magával elegendő naptejet, mivel a parton viszonylag kevés a természetes árnyék.",
+            "ro": "O bijuterie ascunsă cu nisip fin, alb; asigurați-vă că aduceți suficientă cremă de soare, deoarece umbra naturală este destul de rară aici.",
+            "en": "A hidden gem featuring fine white sand; be sure to bring plenty of sunscreen as natural shade is quite scarce along this beautiful stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "lonely sea point",
+            "hu": "lonely sea point",
+            "ro": "lonely sea point",
+            "en": "lonely sea point"
+          },
+          "coords": [
+            115.100961,
+            -8.81079
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Küstenschönheit an diesem abgelegenen Aussichtspunkt, ideal für ein ruhiges Picknick bei einer leichten Meeresbrise.",
+            "hu": "Élvezze a zord partvidék szépségét ezen a félreeső kilátóponton, amely tökéletes egy csendes piknikhez a lágy tengeri szellő kíséretében.",
+            "ro": "Bucurați-vă de frumusețea aspră a coastei în acest punct de belvedere retras, ideal pentru un picnic liniștit acompaniat de briza mării.",
+            "en": "Enjoy the rugged coastal beauty at this secluded viewpoint, which is absolutely perfect for a quiet picnic accompanied by a gentle sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Secret cave under ultuwatu",
+            "hu": "Secret cave under ultuwatu",
+            "ro": "Secret cave under ultuwatu",
+            "en": "Secret cave under ultuwatu"
+          },
+          "coords": [
+            115.089001,
+            -8.814525
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mystische Höhlenformation bei Ebbe, aber tragen Sie unbedingt rutschfeste Schuhe für die unebenen Felsen.",
+            "hu": "Fedezze fel ezt a misztikus barlangot apály idején, de mindenképpen viseljen csúszásmentes cipőt az egyenetlen és nedves sziklákon.",
+            "ro": "Explorați această peșteră mistică la reflux, dar asigurați-vă că purtați încălțăminte antiderapantă pentru a merge pe stâncile inegale.",
+            "en": "Explore this mystical cave formation during low tide, but be absolutely sure to wear non-slip shoes for navigating the uneven, wet rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Suluban Beach",
+            "hu": "Suluban Beach",
+            "ro": "Suluban Beach",
+            "en": "Suluban Beach"
+          },
+          "coords": [
+            115.088317,
+            -8.815548
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieser einzigartige, in Klippen eingebettete Strand ist ein Paradies für Surfer; entspannen Sie sich zum Abschluss in einer der kleinen Bars.",
+            "hu": "Ez a sziklák közé ékelt, egyedülálló strand a szörfösök paradicsoma; a nap végén pihenjen meg egy hűsítő itallal a helyi kis bárok egyikében.",
+            "ro": "Această plajă unică ascunsă între stânci este un paradis pentru surferi; relaxați-vă la final de zi cu o băutură într-unul dintre micile baruri.",
+            "en": "This unique cliff-enclosed beach is a surfer's paradise; perfectly conclude your day by relaxing with a cold drink at one of the small local bars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag zu Fuß mit den sanften Wellen am Padang Padang Beach. Der kühle Sand und die friedliche Atmosphäre bieten einen erfrischenden Start. Kurz darauf führt Sie ein kurzer Spaziergang zur MBV Gallery, wo Sie tief in die zeitgenössische balinesische Kunst eintauchen können, bevor die Sonne ihren Höhepunkt erreicht.\n\nWenn es wärmer wird, machen Sie sich auf den Weg zu den unberührten Ufern des Thomas Beach. Hier können Sie am türkisfarbenen Wasser entspannen und eine wohlverdiente Pause einlegen. Die Meeresbrise bietet eine herrliche Abkühlung von der tropischen Hitze, ideal für ein ruhiges Picknick am Meer.\n\nAm späten Nachmittag setzen Sie Ihre Wanderung entlang der Klippen zum lonely sea point fort. Die weite Aussicht auf den Ozean ist wahrlich atemberaubend. Steigen Sie danach vorsichtig hinab, um die mystische geheime Höhle unter den ikonischen Felsformationen von Uluwatu zu erkunden.\n\nBeenden Sie Ihre Wandertour am atemberaubenden Suluban Beach. Die einzigartigen Höhlenzugänge und brechenden Wellen schaffen eine unvergessliche Kulisse. Genießen Sie ein kaltes Getränk in einer Klippenbar und beobachten Sie die Surfer, während der Abendhimmel langsam in die Dämmerung übergeht.",
+        "hu": "Kezdje a napot gyalogosan, a Padang Padang strand lágy hullámai mellett. A hűvös homok és a békés hangulat frissítő indulást biztosít. Röviddel ezután egy rövid sétával eléri az MBV Galériát, ahol elmerülhet a kortárs balinéz művészetben, még mielőtt a nap a zenitjére érne.\n\nAhogy melegszik az idő, vegye az irányt a Thomas strand érintetlen partjai felé. Itt megpihenhet a türkizkék víz mellett, és élvezheti a jól megérdemelt szünetet. A tengeri szellő kellemes enyhülést nyújt a trópusi hőségben, így ez a tökéletes hely egy csendes tengerparti piknikhez.\n\nKéső délután folytassa túráját a drámai sziklák mentén a magányos tengeri kilátópont felé. A végtelen óceánra nyíló kilátás innen valóban lélegzetelállító. Ezután óvatosan ereszkedjen le, hogy felfedezze a misztikus titkos barlangot az ikonikus Uluwatu sziklaképződmények alatt.\n\nZárja gyalogtúráját a lélegzetelállító Suluban strandon. Az egyedi barlangbejáratok és a megtörő hullámok felejthetetlen környezetet teremtenek. Kortyoljon el egy hideg italt a sziklafalon lévő bárban, és figyelje a szörfösöket, ahogy a színes esti égbolt lassan szürkületbe borul.",
+        "ro": "Începeți ziua pe jos, bucurându-vă de valurile blânde la Plaja Padang Padang. Nisipul răcoros și atmosfera pașnică oferă un start revigorant. La scurt timp, o scurtă plimbare vă duce la Galeria MBV, unde vă puteți cufunda în arta balineză contemporană, înainte ca soarele să ajungă la apogeu.\n\nPe măsură ce se încălzește, îndreptați-vă spre țărmurile imaculate ale plajei Thomas. Aici vă puteți relaxa lângă apele turcoaz și vă puteți bucura de o pauză bine meritată. Briza mării oferă un refugiu minunat de la căldura tropicală, fiind locul perfect pentru un picnic liniștit.\n\nÎn a doua parte a după-amiezii, continuați drumeția de-a lungul stâncilor dramatice spre lonely sea point. Priveliștea oceanului este cu adevărat uluitoare de aici. Apoi, coborâți cu grijă pentru a explora peștera secretă mistică, ascunsă sub formațiunile stâncoase iconice din Uluwatu.\n\nÎncheiați-vă turul pietonal la uluitoarea plajă Suluban. Intrările unice în peșteră și valurile care se sparg creează un decor de neuitat. Savurați o băutură rece la un bar de pe stâncă și priviți surferii experimentați cum prind ultimele valuri, în timp ce cerul de seară se estompează încet.",
+        "en": "Begin your day on foot with the gentle morning waves at Padang Padang Beach. The cool sand and tranquil atmosphere provide a refreshing start. Shortly after, a short stroll brings you to the MBV Gallery, where you can immerse yourself in contemporary Balinese art before the sun reaches its peak.\n\nAs the day warms up, make your way to the pristine shores of Thomas Beach. Here, you can relax by the turquoise waters and enjoy a well-deserved break. The coastal breeze offers a lovely respite from the tropical heat, making it the perfect spot for a quiet picnic by the sea.\n\nIn the late afternoon, continue your trek along the dramatic cliffs to the lonely sea point. The sweeping ocean views from this isolated spot are truly breathtaking. Afterward, carefully descend to explore the mystical secret cave nestled underneath the iconic Uluwatu rock formations.\n\nWrap up your walking tour at the breathtaking Suluban Beach. The unique cave entrances and crashing waves create an unforgettable setting. Sip a cold beverage at a cliffside bar and watch experienced surfers catch their final waves as the vibrant evening sky slowly fades to dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Belukar",
+            "hu": "Belukar",
+            "ro": "Belukar",
+            "en": "Belukar"
+          },
+          "coords": [
+            115.091667,
+            -8.831944
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein markantes lokales Wahrzeichen inmitten üppiger Natur; starten Sie hier früh, um die friedliche Morgenstimmung vor der Hitze zu genießen.",
+            "hu": "Lenyűgöző helyi nevezetesség a buja természet közepén; kezdje itt a napot korán, hogy kiélvezze a csendes reggeli hangulatot a hőség előtt.",
+            "ro": "Un punct de reper local uimitor în mijlocul naturii luxuriante; începeți devreme aici pentru a vă bucura de atmosfera liniștită a dimineții.",
+            "en": "A striking local landmark set amidst lush nature; start your morning here early to fully enjoy the peaceful atmosphere before the day's heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Suluban Beach",
+            "hu": "Suluban Beach",
+            "ro": "Suluban Beach",
+            "en": "Suluban Beach"
+          },
+          "coords": [
+            115.088317,
+            -8.815548
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Der Zugang durch die Felsspalten ist abenteuerlich; packen Sie leichtes Gepäck, um den steilen Abstieg zum Strand mühelos zu bewältigen.",
+            "hu": "A sziklahasadékokon keresztüli lejutás kalandos; pakoljon könnyedén, hogy könnyedén megbirkózzon a meredek ereszkedéssel a part felé.",
+            "ro": "Accesul prin crevasele stâncilor este plin de aventură; faceți un bagaj ușor pentru a coborî cu ușurință panta abruptă spre plajă.",
+            "en": "Accessing this beach through the rock crevices is adventurous; pack very lightly so you can easily navigate the steep descent down to the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Thomas beach",
+            "hu": "Thomas beach",
+            "ro": "Thomas beach",
+            "en": "Thomas beach"
+          },
+          "coords": [
+            115.097703,
+            -8.812531
+          ],
+          "category": "recreational",
+          "arrive_at": "10:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die lange Treppe hinab lohnt sich für das türkisblaue Wasser; mieten Sie sich einen Liegestuhl, um die entspannte Atmosphäre zu genießen.",
+            "hu": "A hosszú lépcsősor megéri a fáradtságot a türkizkék vízért; béreljen egy napágyat, és adja át magát a tökéletes trópusi kikapcsolódásnak.",
+            "ro": "Scările lungi merită efortul pentru apa turcoaz; închiriați un șezlong pentru a vă relaxa și a vă bucura de atmosfera tropicală perfectă.",
+            "en": "The long stairway down is well worth the effort for the turquoise water; rent a sun lounger to fully soak up the perfectly relaxed atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Padang Beach",
+            "hu": "Padang Padang Beach",
+            "ro": "Padang Padang Beach",
+            "en": "Padang Padang Beach"
+          },
+          "coords": [
+            115.103654,
+            -8.811288
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Die kleine Bucht ist malerisch und oft belebt; passen Sie auf die frechen Affen auf, die gerne unachtsam liegengelassene Snacks stibitzen.",
+            "hu": "A kis öböl festői és gyakran nyüzsgő; ügyeljen a pimasz majmokra, amelyek előszeretettel csenik el az őrizetlenül hagyott rágcsálnivalókat.",
+            "ro": "Golful mic este pitoresc și adesea animat; aveți grijă la maimuțele îndrăznețe care adoră să fure gustările lăsate nesupravegheate de turiști.",
+            "en": "The small bay is picturesque and often quite busy; watch out for the cheeky monkeys that love to steal unwatched snacks from visitors' bags."
+          }
+        },
+        {
+          "name": {
+            "de": "Bingin Beach",
+            "hu": "Bingin Beach",
+            "ro": "Bingin Beach",
+            "en": "Bingin Beach"
+          },
+          "coords": [
+            115.113192,
+            -8.805624
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine rustikale Küstenlinie mit böhmischem Flair; genießen Sie frische Meeresfrüchte in einem der charmanten Warungs direkt am Wasser.",
+            "hu": "Rusztikus partszakasz bohém hangulattal; kóstolja meg a friss tengeri herkentyűket az egyik hangulatos, közvetlenül a vízparton lévő warungban.",
+            "ro": "O coastă rustică cu un fler boem; savurați fructe de mare proaspete într-unul dintre warung-urile fermecătoare situate chiar pe malul apei.",
+            "en": "A rustic coastline boasting a distinct bohemian flair; definitely enjoy some fresh seafood at one of the charming warungs right on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset",
+            "hu": "Sunset",
+            "ro": "Sunset",
+            "en": "Sunset"
+          },
+          "coords": [
+            115.117293,
+            -8.800655
+          ],
+          "category": "natural",
+          "arrive_at": "14:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der perfekte Aussichtspunkt, um den Tag abzuschließen; bringen Sie Ihre Kamera mit, um die spektakulären Farben des Horizonts einzufangen.",
+            "hu": "A tökéletes kilátópont a nap méltó lezárásához; hozza magával a fényképezőgépét, hogy megörökítse a horizont lenyűgözően látványos színeit.",
+            "ro": "Punctul de belvedere perfect pentru a încheia ziua; aduceți aparatul foto pentru a surprinde culorile spectaculoase ale orizontului la apus.",
+            "en": "The absolutely perfect viewpoint to conclude your day; be sure to bring your camera to capture the spectacular, vibrant colors of the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am Belukar und genießen Sie das üppige Grün in der kühlen Morgenluft. Eine angenehme Fahrt führt Sie dann zum ikonischen Suluban Beach, wo Sie die atemberaubenden Kalksteinspalten erkunden können, bevor die Mittagssonne den Abstieg zu anstrengend macht.\n\nRadeln Sie weiter entlang der zerklüfteten Küste zum Thomas Beach. Der lange Abstieg belohnt Sie mit perfekten Bedingungen zum Schwimmen. Fahren Sie danach eine kurze Strecke zum Padang Padang Beach und lassen Sie die lebhafte Strandkultur für eine entspannte Mittagspause auf sich wirken.\n\nAm Nachmittag fahren Sie zum Bingin Beach und navigieren durch die schmalen Pfade zu diesem böhmischen Paradies. Der rustikale Charme der Küste hier ist faszinierend. Parken Sie Ihr Fahrrad und machen Sie es sich in einem gemütlichen Warung am Strand bequem, um die Meeresbrise zu genießen.\n\nBeenden Sie Ihre Radtour, indem Sie zum berühmten Sunset Point fahren. Am Ende des Tages bietet dieser erstklassige Ort einen unverbauten Panoramablick auf den Horizont. Beobachten Sie, wie der Himmel in leuchtenden Orange- und Lilatönen erstrahlt, ein spektakuläres Ende Ihrer Reise.",
+        "hu": "Kezdje kerékpáros kalandját a Belukarnál, élvezve a buja zöldet a hűvös reggeli levegőben. Egy kellemes tekerés után eléri az ikonikus Suluban strandot, ahol felfedezheti a lenyűgöző mészkőhasadékokat, még mielőtt a déli nap túl megterhelővé tenné a parti ereszkedést.\n\nTekerjen tovább a sziklás part mentén a Thomas strandig. A hosszú ereszkedés után tökéletesen tiszta víz várja az úszáshoz. Ezután biciklizzen egy rövid távot a Padang Padang strandig, ahol a pezsgő part menti kultúra és a puha homok biztosítja a maximális déli kikapcsolódást.\n\nDélután biciklizzen a Bingin strand felé, navigálva a bohém paradicsomba vezető szűk ösvényeken. A partvidék rusztikus bája itt egyszerűen lenyűgöző. Parkolja le a kerékpárját, és telepedjen le egy hangulatos warungban a strandon, hogy élvezze a friss óceáni szellőt és a helyi hangulatot.\n\nZárja kerékpáros útvonalát a híres Sunset pontnál. Ahogy a nap véget ér, ez a kiváló helyszín akadálytalan panorámát nyújt a horizontra. Figyelje, ahogy az égbolt ragyogó narancssárga és lila árnyalatokban pompázik, ami látványos és békés befejezést ad a kétkerekes utazásának.",
+        "ro": "Începeți aventura cu bicicleta la Belukar, bucurându-vă de verdeața luxuriantă în aerul răcoros al dimineții. O plimbare plăcută vă duce apoi la iconica plajă Suluban, unde puteți naviga prin uimitoarele crevase de calcar înainte ca soarele de la amiază să facă coborârea prea dificilă.\n\nPedalați mai departe de-a lungul coastei stâncoase spre plaja Thomas. Coborârea lungă vă răsplătește cu apă perfect clară pentru înot. Apoi, mergeți scurt cu bicicleta la plaja Padang Padang, lăsând cultura vibrantă și nisipul moale să vă ofere o relaxare tropicală supremă la amiază.\n\nDupă-amiaza, mergeți spre plaja Bingin, navigând pe cărările înguste spre acest paradis boem. Farmecul rustic al coastei este captivant aici. Parcați bicicleta și așezați-vă într-un warung confortabil pe plajă pentru a vă bucura de briza proaspătă a oceanului și de vibrația locală relaxată.\n\nÎncheiați traseul de ciclism îndreptându-vă spre renumitul punct Sunset. La apus, această locație de top oferă vederi panoramice neobstrucționate ale orizontului. Priviți cum cerul se aprinde în nuanțe strălucitoare de portocaliu și mov, marcând un final spectaculos al călătoriei.",
+        "en": "Kick off your cycling adventure at Belukar, enjoying the lush greenery in the cool morning air. A pleasant ride then takes you to the iconic Suluban Beach, where you can navigate its stunning limestone crevices before the midday sun makes the coastal descent too demanding.\n\nPedal further along the rugged coast to Thomas Beach. The long descent rewards you with perfectly clear swimming conditions. Afterwards, cycle a short distance to Padang Padang Beach, letting the vibrant beach culture and soft sands provide the ultimate tropical midday relaxation.\n\nIn the afternoon, ride towards Bingin Beach, navigating the narrow paths that lead to this bohemian paradise. The rustic charm of the coastline here is captivating. Park your bike and settle into a cozy warung on the beach to enjoy fresh ocean breezes and a relaxed local vibe.\n\nConclude your cycling route by heading to the renowned Sunset point. As the day ends, this prime location offers unobstructed panoramic views of the horizon. Watch the sky ignite in brilliant shades of orange and purple, marking a spectacular and peaceful end to your two-wheeled journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 14.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "New Kuta Green Park",
+            "hu": "New Kuta Green Park",
+            "ro": "New Kuta Green Park",
+            "en": "New Kuta Green Park"
+          },
+          "coords": [
+            115.125333,
+            -8.798682
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein familienfreundlicher Park mit unterhaltsamen Rutschen; mieten Sie ein Schließfach für Ihre Wertsachen, während Sie sich im Wasser abkühlen.",
+            "hu": "Családbarát vízipark szórakoztató csúszdákkal; béreljen egy értékmegőrzőt a biztonság kedvéért, amíg önfeledten hűsöl a medencékben.",
+            "ro": "Un parc acvatic ideal pentru familii, cu tobogane distractive; închiriați un seif pentru obiectele de valoare în timp ce vă răcoriți în apă.",
+            "en": "A family-friendly water park featuring fun slides; make sure to rent a locker for your valuables while you comfortably cool off in the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "FLEUR - Café - Atelier d’artistes",
+            "hu": "FLEUR - Café - Atelier d’artistes",
+            "ro": "FLEUR - Café - Atelier d’artistes",
+            "en": "FLEUR - Café - Atelier d’artistes"
+          },
+          "coords": [
+            115.125362,
+            -8.815555
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Diese kreative Oase kombiniert Café und Kunst; probieren Sie das hausgemachte Gebäck, während Sie die lokalen handgefertigten Werke bewundern.",
+            "hu": "Ez a kreatív oázis ötvözi a kávézót és a művészetet; kóstolja meg a házi süteményeket, miközben a helyi kézműves alkotásokban gyönyörködik.",
+            "ro": "Această oază creativă combină o cafenea cu arta; gustați produsele de patiserie de casă în timp ce admirați lucrările artizanale locale.",
+            "en": "This creative oasis beautifully combines a cafe and art studio; try their homemade pastries while taking time to admire the local handmade artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura pererepan",
+            "hu": "Pura pererepan",
+            "ro": "Pura pererepan",
+            "en": "Pura pererepan"
+          },
+          "coords": [
+            115.126261,
+            -8.833094
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Ein ruhiger und spiritueller balinesischer Tempel; denken Sie daran, einen Sarong zu tragen und respektvoll Abstand zu den Zeremonien zu halten.",
+            "hu": "Egy csendes és spirituális balinéz templom; ne felejtsen el szarongot viselni, és tartson tiszteletteljes távolságot a helyi szertartásoktól.",
+            "ro": "Un templu balinez liniștit și spiritual; amintiți-vă să purtați un sarong și să păstrați o distanță respectuoasă în timpul ceremoniilor locale.",
+            "en": "A quiet and deeply spiritual Balinese temple; remember to always wear a sarong and maintain a respectful distance from any ongoing ceremonies."
+          }
+        },
+        {
+          "name": {
+            "de": "Jambe Asri Agroturism",
+            "hu": "Jambe Asri Agroturism",
+            "ro": "Jambe Asri Agroturism",
+            "en": "Jambe Asri Agroturism"
+          },
+          "coords": [
+            115.0963,
+            -8.834386
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die traditionelle Kaffeeproduktion; verpassen Sie nicht die Gelegenheit, den berühmten Luwak-Kaffee direkt hier zu probieren.",
+            "hu": "Tudjon meg mindent a hagyományos kávékészítésről; semmiképpen se hagyja ki a lehetőséget, hogy megkóstolja a híres Luwak kávét a helyszínen.",
+            "ro": "Aflați totul despre producția tradițională de cafea; nu ratați ocazia unică de a degusta celebra cafea Luwak direct la fața locului.",
+            "en": "Learn everything about traditional coffee production here; do not miss the fantastic opportunity to taste the famous Luwak coffee right on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Ship hull",
+            "hu": "Ship hull",
+            "ro": "Ship hull",
+            "en": "Ship hull"
+          },
+          "coords": [
+            115.108202,
+            -8.844573
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Ein faszinierendes gestrandetes Schiffswrack; das Fotografieren ist hier sehr beliebt, aber seien Sie vorsichtig auf den rostigen Strukturen.",
+            "hu": "Egy lenyűgöző, partra vetett hajóroncs; a fotózás itt rendkívül népszerű, de legyen nagyon óvatos a rozsdás és instabil fémszerkezeteken.",
+            "ro": "O epavă fascinantă eșuată pe țărm; fotografia este foarte populară aici, dar fiți extrem de prudenți când explorați structurile ruginite.",
+            "en": "A fascinating stranded shipwreck that draws many visitors; photography is very popular here, but be extremely cautious around the rusty structures."
+          }
+        },
+        {
+          "name": {
+            "de": "MBV Gallery",
+            "hu": "MBV Gallery",
+            "ro": "MBV Gallery",
+            "en": "MBV Gallery"
+          },
+          "coords": [
+            115.106411,
+            -8.812452
+          ],
+          "category": "museum",
+          "arrive_at": "14:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser inspirierenden Galerie; nehmen Sie sich Zeit, um die tiefen Bedeutungen hinter den Gemälden zu verstehen.",
+            "hu": "Élvezze ezen inspiráló galéria nyugodt atmoszféráját; szánjon elegendő időt arra, hogy megértse a festmények mögött meghúzódó mélyebb jelentéseket.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei galerii; alocați-vă timp suficient pentru a înțelege semnificațiile profunde din spatele picturilor.",
+            "en": "Enjoy the calm atmosphere of this inspiring gallery space; take your time to truly understand the deep meanings behind the stunning paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Suluban Beach",
+            "hu": "Suluban Beach",
+            "ro": "Suluban Beach",
+            "en": "Suluban Beach"
+          },
+          "coords": [
+            115.088317,
+            -8.815548
+          ],
+          "category": "landmark",
+          "arrive_at": "16:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zum Abschluss ein dramatischer Sonnenuntergang zwischen Klippen; die Stufen hinauf können anstrengend sein, aber die Aussicht entschädigt für alles.",
+            "hu": "Zárásként élvezze a drámai naplementét a sziklák között; a felfelé vezető lépcsők fárasztóak lehetnek, de a panoráma mindenért kárpótolni fog.",
+            "ro": "Pentru final, admirați un apus dramatic între stânci; treptele pot fi obositoare la urcare, dar priveliștea de sus va compensa orice efort.",
+            "en": "Conclude with a dramatic sunset nestled between cliffs; the stairs back up can be tiring, but the incredible view definitely compensates for it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt mit familienfreundlichem Spaß im New Kuta Green Park. Nach dem Wasserspaß bringt Sie eine kurze Fahrt zum FLEUR - Café, einem kreativen Ort, an dem Sie exzellentes Morgengebäck genießen und fein kuratierte lokale Kunstwerke bewundern können.\n\nFahren Sie ins Landesinnere zum ruhigen Pura Pererepan Tempel, um ein tiefes Stück balinesischer Spiritualität zu erleben. Fahren Sie von dort weiter zum Jambe Asri Agroturism, um üppige Plantagen zu erkunden und die traditionellen Prozesse hinter dem berühmten Kaffee der Insel zu entdecken.\n\nIhre Nachmittagsreise führt zu einem faszinierenden Halt: einem massiven, gestrandeten Schiffsrumpf an der Küste. Nachdem Sie Fotos von dieser Kuriosität gemacht haben, fahren Sie bequem zur MBV Gallery, wo Sie sich in klimatisiertem Komfort inmitten atemberaubender Kunstwerke entspannen können.\n\nBeenden Sie Ihren Roadtrip und parken Sie nahe den dramatischen Klippen des Suluban Beach. Steigen Sie durch die Kalksteinhöhlen ab, wenn der Tag abkühlt. Der spektakuläre Sonnenuntergang über dem Indischen Ozean ist ein majestätisches Finale für Ihre große Pecatu-Fahrt.",
+        "hu": "Szelektív autós túrája a New Kuta Green Park családbarát élményeivel kezdődik. A vízi szórakozás után egy rövid út a FLEUR kávézóba vezet, amely egy elragadó kreatív tér, ahol kiváló reggeli süteményeket fogyaszthat, miközben a kiállított helyi művészeti alkotásokat is megcsodálhatja.\n\nVezessen a szárazföld belsejébe, a csendes Pura Pererepan templomhoz, ahol megtapasztalhatja az autentikus balinéz spiritualitást. Innen induljon tovább a Jambe Asri Agroturizmus helyszínére, fedezze fel a buja ültetvényeket és ismerje meg a sziget híres kávéinak hagyományos készítését.\n\nA délutáni utazás egy egyedülállóan érdekes megállóhoz vezet: egy hatalmas, partra vetett hajóroncshoz a part mentén. Miután fotókat készített, vezessen kényelmesen az MBV Galériához, ahol légkondicionált kényelemben pihenhet meg a lenyűgöző kortárs művészeti alkotások között.\n\nFejezze be átfogó autós utazását a Suluban strand drámai szikláinál parkolva. Ereszkedjen le a mészkőbarlangokon keresztül a kellemes kora esti órákban. Az Indiai-óceán feletti lenyűgöző naplemente, amelyet a szikláról nézhet, fenséges finálét nyújt a nagyszerű pecatui túrájának.",
+        "ro": "Călătoria dumneavoastră pitorească începe cu senzații tari pentru familie la New Kuta Green Park. După distracția acvatică, un drum scurt vă duce la FLEUR - Café, un spațiu creativ unde puteți savura produse de patiserie excelente, apreciind în același timp arta locală rafinată.\n\nConduceți spre interiorul insulei la templul liniștit Pura Pererepan, experimentând o felie profundă de spiritualitate balineză. De acolo, continuați către Jambe Asri Agroturism pentru a explora plantațiile luxuriante și a descoperi procesele tradiționale din spatele celebrelor cafele.\n\nCălătoria de după-amiază duce la o oprire intrigantă: o epavă masivă a unei nave eșuate pe coastă. După ce ați făcut fotografii cu această curiozitate, conduceți confortabil la Galeria MBV, unde vă puteți relaxa în confortul aerului condiționat printre opere de artă contemporană uimitoare.\n\nTerminați excursia cuprinzătoare parcând lângă stâncile dramatice de la plaja Suluban. Coborâți prin peșterile de calcar odată cu răcirea zilei. Apusul spectaculos peste Oceanul Indian, privit de pe stâncă, oferă un final maiestuos pentru acest grandios tur auto prin Pecatu.",
+        "en": "Your scenic drive begins with family-friendly thrills at New Kuta Green Park. After some aquatic fun, a quick drive brings you to FLEUR - Café, a delightful creative space where you can enjoy excellent morning pastries while appreciating the finely curated local art pieces on display.\n\nDrive inland to the tranquil Pura Pererepan temple, experiencing a profound slice of authentic Balinese spirituality. From there, continue to the Jambe Asri Agroturism site to explore lush plantations and discover the intricate traditional processes behind the island's famous coffees.\n\nYour afternoon journey leads to a uniquely intriguing stop: a massive, stranded ship hull resting unexpectedly on the coast. After capturing photos of this oddity, drive comfortably to the MBV Gallery, where you can unwind in air-conditioned comfort amidst stunning contemporary artworks.\n\nFinish your comprehensive road trip by parking near the dramatic cliffs of Suluban Beach. Descend through the limestone caves as the day cools. The spectacular sunset over the Indian Ocean, watched from a cliffside perch, provides a majestic finale to your grand Pecatu driving tour."
+      }
+    }
+  }
+}

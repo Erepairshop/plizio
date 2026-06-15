@@ -1,0 +1,428 @@
+{
+  "city_id": "nemours",
+  "anchor": {
+    "name": "Nemours",
+    "coords": [
+      2.6936,
+      48.2686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Nemours",
+            "hu": "Nemours Városháza",
+            "ro": "Primăria din Nemours",
+            "en": "Mairie de Nemours"
+          },
+          "coords": [
+            2.693651,
+            48.266728
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses als historisches Wahrzeichen im Herzen von Nemours und machen Sie ein Foto, bevor Sie zu den nahegelegenen Sehenswürdigkeiten aufbrechen.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely történelmi nevezetességként szolgál Nemours szívében, és készítsen egy fotót, mielőtt a közeli látnivalók felé venné az irányt.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care servește drept reper istoric în inima orașului Nemours, și faceți o fotografie înainte de a vă îndrepta spre atracțiile din apropiere.",
+            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.696743,
+            48.267178
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
+            "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Nemours",
+            "hu": "Nemours Kastély",
+            "ro": "Castelul din Nemours",
+            "en": "Château de Nemours"
+          },
+          "coords": [
+            2.696944,
+            48.265556
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
+            "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassermühle von Nemours",
+            "hu": "Nemours Vízimalom",
+            "ro": "Moara de apă din Nemours",
+            "en": "Nemours Watermill"
+          },
+          "coords": [
+            2.69768,
+            48.264771
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Mechanik dieser gut erhaltenen Wassermühle, die das industrielle Erbe der Region unterstreicht, und spazieren Sie am angrenzenden Flussufer entlang, um einige malerische Fotomotive zu finden.",
+            "hu": "Figyelje meg ennek a jól megőrzött vízimalomnak a mechanikáját, amely a régió ipari örökségét emeli ki, és sétáljon végig a szomszédos folyóparton a festői fotózási lehetőségekért.",
+            "ro": "Observați mecanica acestei mori de apă bine conservate, care evidențiază patrimoniul industrial al regiunii, și plimbați-vă de-a lungul malului adiacent al râului pentru a face fotografii pitorești.",
+            "en": "Observe the mechanics of this well-preserved watermill that highlights the region's industrial heritage, and walk along the adjacent riverbank for some scenic photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen von Nemours",
+            "hu": "Nemours Szikla",
+            "ro": "Stânca din Nemours",
+            "en": "Rocher de Nemours"
+          },
+          "coords": [
+            2.704267,
+            48.265946
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die natürliche Schönheit und die interessanten geologischen Formationen dieses felsigen Parks und tragen Sie bequeme Schuhe, um sicher auf den unebenen Wanderwegen zu navigieren.",
+            "hu": "Élvezze ennek a sziklás parknak a természeti szépségét és érdekes geológiai képződményeit, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen túraútvonalakon.",
+            "ro": "Bucurați-vă de frumusețea naturală și de formațiunile geologice interesante ale acestui parc stâncos și purtați încălțăminte confortabilă pentru a naviga în siguranță pe potecile de drumeție inegale.",
+            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der Mairie, bevor Sie einen kurzen Spaziergang zur eleganten Kirche Saint-Jean-Baptiste machen. Gegen Mittag tauchen Sie in die reiche Geschichte des beeindruckenden Château de Nemours ein. Der Nachmittag wird mit der faszinierenden Industriemechanik der nahegelegenen Wassermühle fortgesetzt. Beenden Sie Ihren Abend mit der natürlichen Schönheit des Rocher de Nemours.",
+        "hu": "Kezdje a reggelt a Mairie-nél, majd tegyen egy rövid sétát az elegáns Saint-Jean-Baptiste templomhoz. Délben elmerülhet a lenyűgöző Château de Nemours gazdag történelmében. A délután a közeli vízimalom lenyűgöző ipari mechanikájával folytatódik. Fejezze be az estét a Rocher de Nemours természeti szépségében gyönyörködve.",
+        "ro": "Începeți dimineața la Mairie înainte de a face o scurtă plimbare până la eleganta Biserică Saint-Jean-Baptiste. Până la prânz, vă veți scufunda în istoria bogată a impresionantului Château de Nemours. După-amiaza continuă cu mecanica industrială fascinantă a morii de apă din apropiere. Încheiați-vă seara admirând frumusețea naturală a Rocher de Nemours.",
+        "en": "Begin your morning at the Mairie before taking a brief walk to the elegant Saint-Jean-Baptiste Church. By midday, you will immerse yourself in the rich history of the impressive Château de Nemours. The afternoon continues with the fascinating industrial mechanics of the nearby Watermill. End your evening taking in the natural beauty of the Rocher de Nemours."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 3.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Nemours",
+            "hu": "Nemours Városháza",
+            "ro": "Primăria din Nemours",
+            "en": "Mairie de Nemours"
+          },
+          "coords": [
+            2.693651,
+            48.266728
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses als historisches Wahrzeichen im Herzen von Nemours und machen Sie ein Foto, bevor Sie zu den nahegelegenen Sehenswürdigkeiten aufbrechen.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely történelmi nevezetességként szolgál Nemours szívében, és készítsen egy fotót, mielőtt a közeli látnivalók felé venné az irányt.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care servește drept reper istoric în inima orașului Nemours, și faceți o fotografie înainte de a vă îndrepta spre atracțiile din apropiere.",
+            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.696743,
+            48.267178
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
+            "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Nemours",
+            "hu": "Nemours Kastély",
+            "ro": "Castelul din Nemours",
+            "en": "Château de Nemours"
+          },
+          "coords": [
+            2.696944,
+            48.265556
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
+            "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen von Nemours",
+            "hu": "Nemours Szikla",
+            "ro": "Stânca din Nemours",
+            "en": "Rocher de Nemours"
+          },
+          "coords": [
+            2.704267,
+            48.265946
+          ],
+          "category": "natural",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die natürliche Schönheit und die interessanten geologischen Formationen dieses felsigen Parks und tragen Sie bequeme Schuhe, um sicher auf den unebenen Wanderwegen zu navigieren.",
+            "hu": "Élvezze ennek a sziklás parknak a természeti szépségét és érdekes geológiai képződményeit, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen túraútvonalakon.",
+            "ro": "Bucurați-vă de frumusețea naturală și de formațiunile geologice interesante ale acestui parc stâncos și purtați încălțăminte confortabilă pentru a naviga în siguranță pe potecile de drumeție inegale.",
+            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum der Île de France",
+            "hu": "Île-de-France Őstörténeti Múzeuma",
+            "ro": "Muzeul de Preistorie din Île-de-France",
+            "en": "Prehistory Museum of Île de France"
+          },
+          "coords": [
+            2.713538,
+            48.260194
+          ],
+          "category": "museum",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende prähistorische Artefakte aus der Region, die das frühe menschliche Leben veranschaulichen, und nutzen Sie den hervorragenden Audioguide, um die Exponate vollständig zu verstehen.",
+            "hu": "Fedezze fel a régióban feltárt lenyűgöző őskori leleteket, amelyek bemutatják a korai emberi életet, és használja a kiváló audioguide-ot a kiállítási tárgyak teljes megértéséhez.",
+            "ro": "Descoperiți artefacte preistorice fascinante dezgropate în regiune, care prezintă viața umană timpurie, și folosiți ghidul audio excelent pentru a înțelege pe deplin exponatele.",
+            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-Saint-Paul",
+            "hu": "Szent Péter és Pál Templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saint-Pierre-Saint-Paul Church"
+          },
+          "coords": [
+            2.691039,
+            48.261849
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schätzen Sie die komplizierten architektonischen Details dieses weniger bekannten religiösen Denkmals abseits der Massen und denken Sie daran, die ruhige Atmosphäre während der lokalen Gebetszeiten zu respektieren.",
+            "hu": "Értékelje ennek a kevésbé ismert vallási emlékműnek a bonyolult építészeti részleteit távol a tömegtől, és ne felejtse el tiszteletben tartani a csendes légkört a helyi imaidők alatt.",
+            "ro": "Apreciați detaliile arhitecturale complexe ale acestui monument religios mai puțin cunoscut, departe de aglomerație, și amintiți-vă să respectați atmosfera liniștită în timpul orelor de rugăciune locale.",
+            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an der zentralen Mairie und führt zur wunderschönen Kirche Saint-Jean-Baptiste. Die Mittagszeit führt Sie durch die mittelalterliche Geschichte des markanten Château de Nemours, gefolgt von einer aktiven Fahrt zum Rocher. Verbringen Sie den späten Nachmittag damit, antike Geheimnisse im Prähistorischen Museum zu lüften. Beenden Sie Ihren Tag mit einem ruhigen Besuch der Église Saint-Pierre-Saint-Paul.",
+        "hu": "A kerékpártúra a központi Mairie-től indul, és a gyönyörű Saint-Jean-Baptiste templomhoz vezet. A délben a középkori történelmen halad keresztül a lenyűgöző Château de Nemours-ban, majd egy aktív tekerés következik a Rocher-hoz. A késő délutánt a Múzeumban töltse, feltárva az ősi titkokat. Zárja aktív napját egy békés látogatással az Église Saint-Pierre-Saint-Paul-ban.",
+        "ro": "Turul dvs. cu bicicleta începe de la Mairie, ducând la frumoasa Biserică Saint-Jean-Baptiste. Prânzul vă poartă prin istoria medievală la impresionantul Château de Nemours, urmat de o plimbare activă spre Rocher. Petreceți după-amiaza târzie descoperind secrete străvechi la Muzeul de Preistorie. Încheiați ziua activă cu o vizită pașnică la Église Saint-Pierre-Saint-Paul.",
+        "en": "Your cycling tour starts at the central Mairie, leading to the beautiful Saint-Jean-Baptiste Church. The midday takes you through medieval history at the striking Château de Nemours, followed by an active ride to the Rocher. Spend the late afternoon unearthing ancient secrets at the Prehistory Museum. Conclude your active day with a peaceful visit to the Église Saint-Pierre-Saint-Paul."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.696743,
+            48.267178
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
+            "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Nemours",
+            "hu": "Nemours Kastély",
+            "ro": "Castelul din Nemours",
+            "en": "Château de Nemours"
+          },
+          "coords": [
+            2.696944,
+            48.265556
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
+            "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum der Île de France",
+            "hu": "Île-de-France Őstörténeti Múzeuma",
+            "ro": "Muzeul de Preistorie din Île-de-France",
+            "en": "Prehistory Museum of Île de France"
+          },
+          "coords": [
+            2.713538,
+            48.260194
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende prähistorische Artefakte aus der Region, die das frühe menschliche Leben veranschaulichen, und nutzen Sie den hervorragenden Audioguide, um die Exponate vollständig zu verstehen.",
+            "hu": "Fedezze fel a régióban feltárt lenyűgöző őskori leleteket, amelyek bemutatják a korai emberi életet, és használja a kiváló audioguide-ot a kiállítási tárgyak teljes megértéséhez.",
+            "ro": "Descoperiți artefacte preistorice fascinante dezgropate în regiune, care prezintă viața umană timpurie, și folosiți ghidul audio excelent pentru a înțelege pe deplin exponatele.",
+            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-Saint-Paul",
+            "hu": "Szent Péter és Pál Templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saint-Pierre-Saint-Paul Church"
+          },
+          "coords": [
+            2.691039,
+            48.261849
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schätzen Sie die komplizierten architektonischen Details dieses weniger bekannten religiösen Denkmals abseits der Massen und denken Sie daran, die ruhige Atmosphäre während der lokalen Gebetszeiten zu respektieren.",
+            "hu": "Értékelje ennek a kevésbé ismert vallási emlékműnek a bonyolult építészeti részleteit távol a tömegtől, és ne felejtse el tiszteletben tartani a csendes légkört a helyi imaidők alatt.",
+            "ro": "Apreciați detaliile arhitecturale complexe ale acestui monument religios mai puțin cunoscut, departe de aglomerație, și amintiți-vă să respectați atmosfera liniștită în timpul orelor de rugăciune locale.",
+            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Fromonville",
+            "hu": "Fromonville Temploma",
+            "ro": "Biserica din Fromonville",
+            "en": "Church of Fromonville"
+          },
+          "coords": [
+            2.696795,
+            48.291157
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Hauptzentrums für ein ruhiges Erlebnis und verbinden Sie Ihren Ausflug mit einer entspannten Fahrt durch die umliegende Landschaft.",
+            "hu": "Látogasson el ebbe a bájos, a központtól kissé távolabb eső történelmi templomba egy nyugodt élményért, és kösse össze útját egy pihentető autózással a környező vidéken.",
+            "ro": "Vizitați această fermecătoare biserică istorică situată puțin în afara centrului principal pentru o experiență senină și combinați-vă călătoria cu o plimbare relaxantă prin mediul rural înconjurător.",
+            "en": "Visit this charming historic church located slightly outside the main center for a serene experience, and combine your trip with a relaxing drive through the surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der Kirche Saint-Jean-Baptiste, bevor Sie für den Rest des Vormittags zum großen Château de Nemours hinüberfahren. Am Nachmittag fahren Sie etwas hinaus, um das faszinierende Prähistorische Museum der Île de France zu erkunden. Weiter geht es zur ruhigen Eleganz der Église Saint-Pierre-Saint-Paul. Schließen Sie den Tag mit einem ruhigen Halt in der ländlichen Église de Fromonville ab.",
+        "hu": "Kezdje a festői autózást a Saint-Jean-Baptiste templomnál, majd ugorjon át a nagyszerű Château de Nemours-ba a délelőtt hátralévő részében. Délután vezessen egy kicsit kijjebb, hogy felfedezze az Île de France lenyűgöző Őstörténeti Múzeumát. Folytassa útját az Église Saint-Pierre-Saint-Paul csendes eleganciájához. Zárja a napot egy nyugodt megállóval a vidéki Église de Fromonville-nél.",
+        "ro": "Începeți plimbarea pitorească la Biserica Saint-Jean-Baptiste înainte de a merge la marele Château de Nemours pentru restul dimineții. După-amiaza, veți conduce puțin mai departe pentru a explora fascinantul Muzeu de Preistorie din Île de France. Continuați spre eleganța liniștită a Église Saint-Pierre-Saint-Paul. Încheiați ziua cu o oprire senină la Église de Fromonville.",
+        "en": "Start your scenic drive at the Saint-Jean-Baptiste Church before hopping over to the grand Château de Nemours for the rest of the morning. In the afternoon, you will drive slightly out to explore the fascinating Museum of Prehistory of Île de France. Continue to the quiet elegance of the Église Saint-Pierre-Saint-Paul. Wrap up the day with a serene stop at the rural Église de Fromonville."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-ares-cities-v2",
+  "anchor": {
+    "name": "Ares",
+    "coords": [
+      -8.24404,
+      43.42633
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Nicolás López Cancela",
+            "hu": "Casa Nicolás López Cancela",
+            "ro": "Casa Nicolás López Cancela",
+            "en": "Casa Nicolás López Cancela"
+          },
+          "coords": [
+            -8.244249,
+            43.427644
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieses historischen Wahrzeichens, das das lokale Erbe widerspiegelt, und achten Sie bei einem frühen Besuch auf die Details der Fassade.",
+            "hu": "Csodálja meg e történelmi nevezetesség gyönyörű, a helyi örökséget tükröző építészetét, és figyelje meg a homlokzat bonyolult részleteit, ha korán érkezik.",
+            "ro": "Admirați arhitectura frumoasă a acestui punct de reper istoric care reflectă moștenirea locală și căutați detaliile complicate de pe fațadă în timpul unei vizite matinale.",
+            "en": "Admire the beautiful architecture of this historic landmark that reflects the local heritage, and look for the intricate detailing on its facade while visiting early."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Salazón",
+            "hu": "Museo Salazón",
+            "ro": "Museo Salazón",
+            "en": "Museo Salazón"
+          },
+          "coords": [
+            -8.244015,
+            43.426676
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Geschichte von Ares ein, indem Sie dieses faszinierende Museum der Fischsalzung erkunden, und bringen Sie eine leichte Jacke für die kühlen Ausstellungsräume mit.",
+            "hu": "Merüljön el Ares tengerészeti történelmében a halfeldolgozó múzeum felfedezésével, és hozzon magával egy könnyű kabátot, mivel a kiállítótermek kissé hűvösek lehetnek.",
+            "ro": "Pătrundeți în istoria maritimă a orașului Ares explorând acest fascinant muzeu al sărării peștelui și aduceți o jachetă ușoară, deoarece sălile de expoziție pot fi răcoroase.",
+            "en": "Dive into the maritime history of Ares by exploring this fascinating museum of fish salting, and bring a light jacket as the exhibition rooms can feel a bit cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Torre del Reloj",
+            "ro": "Torre del Reloj",
+            "en": "Torre del Reloj"
+          },
+          "coords": [
+            -8.24544,
+            43.425082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Zeit an diesem ikonischen Uhrenturm, der als zentraler Treffpunkt dient, und nutzen Sie ihn als perfekten Ort, bevor Sie Ihre Erkundung der Stadt fortsetzen.",
+            "hu": "Nézze meg az időt ezen az ikonikus óratornyon, amely központi gyülekezőhelyként szolgál, és használja tökéletes találkozási pontként a város további felfedezése előtt.",
+            "ro": "Verificați ora la acest turn cu ceas iconic care servește drept punct central de adunare și folosiți-l ca loc de întâlnire perfect înainte de a continua explorarea orașului.",
+            "en": "Check the time at this iconic clock tower that stands as a central gathering point, and use it as a perfect meeting spot before continuing your exploration of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Dones",
+            "hu": "Praia de Dones",
+            "ro": "Praia de Dones",
+            "en": "Praia de Dones"
+          },
+          "coords": [
+            -8.243131,
+            43.421592
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im goldenen Sand dieses schönen Strandes mit ruhigem Wasser und denken Sie daran, Sonnencreme und ein Handtuch für eine angenehme Mittagspause einzupacken.",
+            "hu": "Pihenjen e gyönyörű helyi strand aranyhomokján, amely nyugodt vizet kínál, és ne felejtsen el naptejet és törölközőt csomagolni a kényelmes déli pihenőhöz.",
+            "ro": "Relaxați-vă pe nisipurile aurii ale acestei frumoase plaje locale cu ape calme și nu uitați să împachetați cremă de soare și un prosop pentru o pauză confortabilă la prânz.",
+            "en": "Relax on the golden sands of this beautiful local beach offering calm waters, and remember to pack some sunscreen and a towel for a comfortable midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cruz",
+            "hu": "Praia da Cruz",
+            "ro": "Praia da Cruz",
+            "en": "Praia da Cruz"
+          },
+          "coords": [
+            -8.241911,
+            43.419096
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang entlang der Küste dieses entspannenden Erholungsgebiets und tragen Sie bequeme Wanderschuhe, um die atemberaubende Landschaft zu genießen.",
+            "hu": "Élvezze a békés sétát e pihentető rekreációs terület partja mentén, és viseljen kényelmes sétacipőt, hogy teljes mértékben értékelhesse a közeli lenyűgöző tengerparti tájat.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul țărmului acestei zone de agrement relaxante și purtați pantofi confortabili pentru a aprecia pe deplin peisajul de coastă uimitor.",
+            "en": "Enjoy a peaceful stroll along the shoreline of this relaxing recreational area, and wear comfortable walking shoes to fully appreciate the stunning coastal scenery nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo de Ares",
+            "hu": "O Castelo de Ares",
+            "ro": "O Castelo de Ares",
+            "en": "O Castelo de Ares"
+          },
+          "coords": [
+            -8.239854,
+            43.420601
+          ],
+          "category": "castle",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Küstenburg, die einen unglaublichen Blick auf das Meer bietet, und bringen Sie unbedingt Ihre Kamera mit, um atemberaubende Sonnenuntergänge einzufangen.",
+            "hu": "Fedezze fel e tengerparti kastély maradványait, amely hihetetlen kilátást nyújt a tengerre, és feltétlenül hozzon fényképezőgépet a lélegzetelállító naplemente-panorámák megörökítéséhez.",
+            "ro": "Explorați rămășițele acestui castel de coastă care oferă vederi incredibile la mare și asigurați-vă că aduceți aparatul foto pentru a surprinde panoramele uluitoare la apus.",
+            "en": "Explore the remnants of this coastal castle providing incredible views of the sea, and make sure to bring your camera to capture the breathtaking sunset panoramas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der historischen Casa Nicolás López Cancela, gefolgt von tiefen Einblicken im Museo Salazón. Mittags erreichen Sie den Torre del Reloj, bevor Sie an der Praia de Dones entspannen. Der Nachmittag wird mit einem Spaziergang an der Praia da Cruz verbracht. Der Abend endet mit atemberaubenden Ausblicken und historischen Echos im O Castelo de Ares.",
+        "hu": "A reggel a történelmi Casa Nicolás López Cancelában kezdődik, amelyet a Museo Salazón felfedezése követ. Délben az ikonikus Torre del Reloj várja, mielőtt megpihenne a gyönyörű Praia de Donesen. A délutánt a Praia da Cruz menti sétával töltjük. Végül az estét lenyűgöző kilátás és történelmi visszhangok zárják az O Castelo de Aresnél.",
+        "ro": "Dimineața începe la istorica Casa Nicolás López Cancela, urmată de o scufundare în moștenirea locală la Museo Salazón. La prânz ajungeți la iconic Torre del Reloj înainte de a vă relaxa la frumoasa Praia de Dones. După-amiaza este petrecută plimbându-vă de-a lungul Praia da Cruz. Seara se încheie cu vederi uluitoare și ecouri istorice la O Castelo de Ares.",
+        "en": "Morning begins at the historic Casa Nicolás López Cancela, followed by a deep dive into local heritage at the Museo Salazón. Midday brings you to the iconic Torre del Reloj before unwinding at the beautiful Praia de Dones. The afternoon is spent strolling along Praia da Cruz. Finally, the evening concludes with breathtaking views and historical echoes at O Castelo de Ares."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Ciscada",
+            "hu": "Praia da Ciscada",
+            "ro": "Praia da Ciscada",
+            "en": "Praia da Ciscada"
+          },
+          "coords": [
+            -8.237696,
+            43.430613
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Meeresbrise an diesem malerischen Nordstrand und bringen Sie eine Thermoskanne mit Kaffee mit, während Sie die Wellen beobachten.",
+            "hu": "Kezdje a reggelt frissítő óceáni szellővel ezen a festői északi strandon, és fontolja meg egy termosz forró kávé hozatalát, hogy élvezze a lágy hullámok megfigyelését.",
+            "ro": "Începeți dimineața cu o briză răcoroasă a oceanului la această plajă pitorească din nord și luați un termos cu cafea fierbinte pentru a o savura în timp ce priviți valurile.",
+            "en": "Start your morning with a refreshing ocean breeze at this scenic northern beach, and consider bringing a thermos of hot coffee to enjoy while watching the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Nicolás López Cancela",
+            "hu": "Casa Nicolás López Cancela",
+            "ro": "Casa Nicolás López Cancela",
+            "en": "Casa Nicolás López Cancela"
+          },
+          "coords": [
+            -8.244249,
+            43.427644
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieses historischen Wahrzeichens, das das lokale Erbe widerspiegelt, und achten Sie bei einem frühen Besuch auf die Details der Fassade.",
+            "hu": "Csodálja meg e történelmi nevezetesség gyönyörű, a helyi örökséget tükröző építészetét, és figyelje meg a homlokzat bonyolult részleteit, ha korán érkezik.",
+            "ro": "Admirați arhitectura frumoasă a acestui punct de reper istoric care reflectă moștenirea locală și căutați detaliile complicate de pe fațadă în timpul unei vizite matinale.",
+            "en": "Admire the beautiful architecture of this historic landmark that reflects the local heritage, and look for the intricate detailing on its facade while visiting early."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Torre del Reloj",
+            "ro": "Torre del Reloj",
+            "en": "Torre del Reloj"
+          },
+          "coords": [
+            -8.24544,
+            43.425082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Zeit an diesem ikonischen Uhrenturm, der als zentraler Treffpunkt dient, und nutzen Sie ihn als perfekten Ort, bevor Sie Ihre Erkundung der Stadt fortsetzen.",
+            "hu": "Nézze meg az időt ezen az ikonikus óratornyon, amely központi gyülekezőhelyként szolgál, és használja tökéletes találkozási pontként a város további felfedezése előtt.",
+            "ro": "Verificați ora la acest turn cu ceas iconic care servește drept punct central de adunare și folosiți-l ca loc de întâlnire perfect înainte de a continua explorarea orașului.",
+            "en": "Check the time at this iconic clock tower that stands as a central gathering point, and use it as a perfect meeting spot before continuing your exploration of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo de Ares",
+            "hu": "O Castelo de Ares",
+            "ro": "O Castelo de Ares",
+            "en": "O Castelo de Ares"
+          },
+          "coords": [
+            -8.239854,
+            43.420601
+          ],
+          "category": "castle",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Küstenburg, die einen unglaublichen Blick auf das Meer bietet, und bringen Sie unbedingt Ihre Kamera mit, um atemberaubende Sonnenuntergänge einzufangen.",
+            "hu": "Fedezze fel e tengerparti kastély maradványait, amely hihetetlen kilátást nyújt a tengerre, és feltétlenül hozzon fényképezőgépet a lélegzetelállító naplemente-panorámák megörökítéséhez.",
+            "ro": "Explorați rămășițele acestui castel de coastă care oferă vederi incredibile la mare și asigurați-vă că aduceți aparatul foto pentru a surprinde panoramele uluitoare la apus.",
+            "en": "Explore the remnants of this coastal castle providing incredible views of the sea, and make sure to bring your camera to capture the breathtaking sunset panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Centeás",
+            "hu": "Praia de Centeás",
+            "ro": "Praia de Centeás",
+            "en": "Praia de Centeás"
+          },
+          "coords": [
+            -8.247316,
+            43.420037
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der ruhigen Umgebung dieses Strandes, der sich perfekt für ein Nachmittagsbad eignet, und behalten Sie die Gezeiten im Auge, um Ihre Zeit zu maximieren.",
+            "hu": "Kapcsolódjon ki e hozzáférhető strand nyugodt környezetében, amely tökéletes egy délutáni csobbanáshoz, és figyelje az árapály menetrendjét, hogy maximalizálja a vízparton töltött időt.",
+            "ro": "Relaxați-vă în mediul liniștit al acestei plaje accesibile, perfectă pentru o baie de după-amiază, și urmăriți programul mareei pentru a vă maximiza timpul petrecut la apă.",
+            "en": "Unwind in the tranquil environment of this accessible beach perfect for an afternoon dip, and keep an eye on the tide schedule to maximize your time by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Barrosa",
+            "hu": "Praia da Barrosa",
+            "ro": "Praia da Barrosa",
+            "en": "Praia da Barrosa"
+          },
+          "coords": [
+            -8.257584,
+            43.422651
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem weitläufigen Weststrand mit unberührtem Sand und holen Sie sich einen Snack an den nahegelegenen Kiosken für ein wunderbares Picknick am Abend.",
+            "hu": "Fejezze be kerékpáros útvonalát ezen a hatalmas nyugati strandon, amely érintetlen homokot kínál, és vegyen egy gyors falatot a közeli kioszkokban egy esti tengerparti piknikhez.",
+            "ro": "Terminați-vă traseul de ciclism la această plajă vestică extinsă, care oferă nisip curat, și luați o gustare rapidă de la chioșcurile din apropiere pentru un picnic minunat de seară.",
+            "en": "Finish your cycling route at this expansive western beach offering pristine sands, and grab a quick bite from the nearby kiosks to enjoy a wonderful evening seaside picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Praia da Ciscada, bevor Sie zur eleganten Casa Nicolás López Cancela fahren. Mittags machen Sie eine Pause am Torre del Reloj und erkunden die Ruinen des O Castelo de Ares. Der Nachmittag geht weiter mit einer Fahrt zur Praia de Centeás. Beenden Sie den Tag entspannt am weitläufigen Strand Praia da Barrosa bei Sonnenuntergang.",
+        "hu": "Kezdje a kerékpártúrát a Praia da Ciscada friss levegőjén, mielőtt az elegáns Casa Nicolás López Cancelához tekerne. Délben tartson szünetet a Torre del Relojnál, és fedezze fel az O Castelo de Ares festői romjait. A délután folytatódik egy laza úttal a Praia de Centeáshoz. Fejezze be a napot a Praia da Barrosa homokján pihenve, miközben a nap lenyugszik.",
+        "ro": "Începeți traseul de ciclism bucurându-vă de aer curat la Praia da Ciscada înainte de a pedala către eleganta Casa Nicolás López Cancela. La prânz, faceți o pauză la Torre del Reloj și explorați ruinele pitorești de la O Castelo de Ares. După-amiaza continuă cu o plimbare până la Praia de Centeás. Încheiați-vă ziua relaxându-vă pe nisipurile extinse de la Praia da Barrosa.",
+        "en": "Kick off your cycling journey enjoying the fresh air at Praia da Ciscada before riding to the elegant Casa Nicolás López Cancela. Midday, pause at Torre del Reloj and explore the scenic ruins of O Castelo de Ares. Your afternoon continues with a gentle ride to Praia de Centeás for a refreshing stop. End your day relaxing on the expansive sands of Praia da Barrosa as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradoiro do Adolfo",
+            "hu": "Miradoiro do Adolfo",
+            "ro": "Miradoiro do Adolfo",
+            "en": "Miradoiro do Adolfo"
+          },
+          "coords": [
+            -8.239167,
+            43.435053
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem fantastischen natürlichen Aussichtspunkt aus die weite Aussicht auf die Küste und nutzen Sie ein Fernglas, um ferne Schiffe in der Bucht zu beobachten.",
+            "hu": "Élvezze a partvonal elsöprő, magaslati kilátását erről a fantasztikus természeti kilátópontról, és használjon távcsövet a távoli, öbölben navigáló hajók észlelésére.",
+            "ro": "Bucurați-vă de priveliștile ample ale coastei de la acest punct de belvedere natural fantastic și folosiți binoclul pentru a observa navele îndepărtate navigând prin golf.",
+            "en": "Take in the sweeping elevated views of the coastline from this fantastic natural viewpoint, and use a pair of binoculars to spot distant ships navigating through the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Lubre",
+            "hu": "Castro de Lubre",
+            "ro": "Castro de Lubre",
+            "en": "Castro de Lubre"
+          },
+          "coords": [
+            -8.251758,
+            43.431108
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser antiken archäologischen Stätte in der Landschaft und lesen Sie die Informationstafeln sorgfältig durch, um die vorrömische Geschichte zu verstehen.",
+            "hu": "Lépjen vissza az időben ezen a tájban megbúvó ősi régészeti lelőhelyen, és gondosan olvassa el a tájékoztató táblákat, hogy megértse a régió római kor előtti történelmét.",
+            "ro": "Întoarceți-vă în timp la acest antic sit arheologic amplasat în peisaj și citiți cu atenție plăcuțele informative pentru a înțelege istoria pre-romană a regiunii noastre.",
+            "en": "Step back in time at this ancient archaeological site nestled in the landscape, and read the informative plaques carefully to understand the region's pre-Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Salazón",
+            "hu": "Museo Salazón",
+            "ro": "Museo Salazón",
+            "en": "Museo Salazón"
+          },
+          "coords": [
+            -8.244015,
+            43.426676
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Geschichte von Ares ein, indem Sie dieses faszinierende Museum der Fischsalzung erkunden, und bringen Sie eine leichte Jacke für die kühlen Ausstellungsräume mit.",
+            "hu": "Merüljön el Ares tengerészeti történelmében a halfeldolgozó múzeum felfedezésével, és hozzon magával egy könnyű kabátot, mivel a kiállítótermek kissé hűvösek lehetnek.",
+            "ro": "Pătrundeți în istoria maritimă a orașului Ares explorând acest fascinant muzeu al sărării peștelui și aduceți o jachetă ușoară, deoarece sălile de expoziție pot fi răcoroase.",
+            "en": "Dive into the maritime history of Ares by exploring this fascinating museum of fish salting, and bring a light jacket as the exhibition rooms can feel a bit cool."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo de Ares",
+            "hu": "O Castelo de Ares",
+            "ro": "O Castelo de Ares",
+            "en": "O Castelo de Ares"
+          },
+          "coords": [
+            -8.239854,
+            43.420601
+          ],
+          "category": "castle",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Küstenburg, die einen unglaublichen Blick auf das Meer bietet, und bringen Sie unbedingt Ihre Kamera mit, um atemberaubende Sonnenuntergänge einzufangen.",
+            "hu": "Fedezze fel e tengerparti kastély maradványait, amely hihetetlen kilátást nyújt a tengerre, és feltétlenül hozzon fényképezőgépet a lélegzetelállító naplemente-panorámák megörökítéséhez.",
+            "ro": "Explorați rămășițele acestui castel de coastă care oferă vederi incredibile la mare și asigurați-vă că aduceți aparatul foto pentru a surprinde panoramele uluitoare la apus.",
+            "en": "Explore the remnants of this coastal castle providing incredible views of the sea, and make sure to bring your camera to capture the breathtaking sunset panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Estacas",
+            "hu": "Praia de Estacas",
+            "ro": "Praia de Estacas",
+            "en": "Praia de Estacas"
+          },
+          "coords": [
+            -8.249836,
+            43.420458
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die späte Nachmittagssonne an diesem gemütlichen Strand, der für seine ruhige Atmosphäre bekannt ist, und gehen Sie barfuß, um den bemerkenswert weichen Sand zu spüren.",
+            "hu": "Élvezze a késő délutáni napsütést ezen a nyugodt légköréről ismert hangulatos strandon, és próbáljon mezítláb sétálni a víz szélén, hogy érezze a rendkívül puha homokot.",
+            "ro": "Bucurați-vă de soarele după-amiezii târzii la această plajă confortabilă cunoscută pentru atmosfera sa senină și încercați să mergeți desculț pentru a simți nisipul moale.",
+            "en": "Bask in the late afternoon sun at this cozy beach known for its serene atmosphere, and try walking barefoot near the water edge to feel the remarkably soft, refreshing sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Colado Grande",
+            "hu": "Praia do Colado Grande",
+            "ro": "Praia do Colado Grande",
+            "en": "Praia do Colado Grande"
+          },
+          "coords": [
+            -8.254149,
+            43.421172
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tagesausflug mit einem Spaziergang an diesem herrlichen großen Strand und bleiben Sie bis zur Dämmerung, um zu beobachten, wie sich der Himmel in leuchtende Farben verwandelt.",
+            "hu": "Fejezze be az egynapos kirándulást egy békés sétával ezen a csodálatos, nagy strandon, és maradjon szürkületig, hogy szemtanúja legyen, ahogy az ég ragyogó narancssárga árnyalatokká változik.",
+            "ro": "Încheiați-vă excursia cu o plimbare liniștită de-a lungul acestei plaje mari și magnifice și stați până la amurg pentru a asista la transformarea cerului în nuanțe strălucitoare.",
+            "en": "End your day trip with a peaceful walk along this magnificent large beach, and stay until dusk to witness the sky transforming into brilliant shades of vibrant orange and purple."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit spektakulären Küstenpanoramen vom Miradoiro do Adolfo, gefolgt von einer Reise in die Vergangenheit im Castro de Lubre. Mittags gibt es kulturelle Einblicke im Museo Salazón und einen Besuch im O Castelo de Ares. Am Nachmittag genießen Sie die Praia de Estacas. Der Tag endet wunderbar mit einem ruhigen Spaziergang an der Praia do Colado Grande.",
+        "hu": "Az utazás látványos part menti panorámával kezdődik a Miradoiro do Adolforól, amelyet a Castro de Lubre-i időutazás követ. A dél kulturális betekintést nyújt a Museo Salazónban és látogatást az O Castelo de Aresnél. Délután élvezze a Praia de Estacas nyugodt légkörét. A nap szépen zárul egy nyugodt sétával a Praia do Colado Grande mentén.",
+        "ro": "Plimbarea dvs. cu mașina începe cu panorame de coastă spectaculoase de la Miradoiro do Adolfo, urmate de o călătorie în timp la Castro de Lubre. La prânz vă oferă perspective culturale la Museo Salazón și o vizită la impunătorul O Castelo de Ares. După-amiaza, bucurați-vă de atmosfera senină de la Praia de Estacas. Ziua se încheie cu o plimbare liniștitoare de-a lungul Praia do Colado Grande.",
+        "en": "Your drive begins with spectacular coastal panoramas from Miradoiro do Adolfo, followed by a journey back in time at Castro de Lubre. Midday offers cultural insights at Museo Salazón and a visit to the commanding O Castelo de Ares. In the afternoon, enjoy the serene atmosphere of Praia de Estacas. The day wraps up beautifully with a calming stroll along Praia do Colado Grande."
+      }
+    }
+  }
+}

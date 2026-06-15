@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-pachino-cities-v2",
+  "anchor": {
+    "name": "Pachino",
+    "coords": [
+      15.09139,
+      36.71516
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Crocifisso",
+            "hu": "Chiesa del Santissimo Crocifisso",
+            "ro": "Chiesa del Santissimo Crocifisso",
+            "en": "Chiesa del Santissimo Crocifisso"
+          },
+          "coords": [
+            15.090749,
+            36.715606
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Fassade der Mutterkirche am Hauptplatz mit ihren klassischen sizilianischen Barocklinien und besuchen Sie sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a főtéri anyatemplom gyönyörű homlokzatát, figyelve a klasszikus szicíliai barokk vonalaira, és próbáljon korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați frumoasa fațadă a bisericii principale din piața centrală, observând liniile sale baroce siciliene, și încercați să o vizitați dimineața pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful central facade of the Mother Church in the main square, noting its classic Sicilian baroque lines, and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Rosario di Pompei",
+            "hu": "Chiesa della Madonna del Rosario di Pompei",
+            "ro": "Chiesa della Madonna del Rosario di Pompei",
+            "en": "Chiesa della Madonna del Rosario di Pompei"
+          },
+          "coords": [
+            15.093855,
+            36.715313
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in dieser reizvollen, der Madonna geweihten Kirche, deren schlichtes Inneres zur Besinnung einlädt, und prüfen Sie die Gottesdienstzeiten.",
+            "hu": "Töltsön el egy csendes pillanatot a Madonnának szentelt bájos helyi templomban, melynek egyszerű belső tere elmélkedésre hív, és ellenőrizze a misék időpontját a táblán.",
+            "ro": "Bucurați-vă de un moment de liniște în această biserică fermecătoare dedicată Madonei, cu un interior simplu ce invită la reflecție, și verificați orarul slujbelor la intrare.",
+            "en": "Take a quiet moment inside this charming local church dedicated to the Madonna, where simple interiors invite reflection, and check the notice board for local service times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.095768,
+            36.718236
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die charmanten architektonischen Details dieser bescheidenen, aber historisch bedeutsamen Pfarrkirche und respektieren Sie die Stille, wenn Einheimische beten.",
+            "hu": "Figyelje meg ennek a szerény, de történelmileg jelentős plébániatemplomnak a bájos építészeti részleteit, és ügyeljen a csendre, ha a helyiek éppen bent imádkoznak.",
+            "ro": "Observați detaliile arhitecturale fermecătoare ale acestei parohii modeste, dar cu o istorie bogată, și păstrați liniștea dacă localnicii se roagă în interior.",
+            "en": "Notice the charming architectural details of this modest yet historically significant parish church, and remember to respect the silent atmosphere if locals are praying inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Comunale",
+            "hu": "Pinacoteca Comunale",
+            "ro": "Pinacoteca Comunale",
+            "en": "Pinacoteca Comunale"
+          },
+          "coords": [
+            15.089705,
+            36.717946
+          ],
+          "category": "museum",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Kunstgalerie, die eine überraschende Sammlung regionaler Werke beherbergt, und planen Sie mindestens eine Stunde ein, um in die Kultur einzutauchen.",
+            "hu": "Fedezze fel a helyi művészeti galériát, amely meglepő regionális gyűjteménynek ad otthont, és szánjon rá legalább egy órát, hogy elmerülhessen a szicíliai kultúrában.",
+            "ro": "Explorați galeria de artă locală care adăpostește o colecție surprinzătoare de lucrări regionale și rezervați-vă cel puțin o oră pentru a descoperi cu adevărat cultura siciliană.",
+            "en": "Explore the local art gallery which houses a surprising collection of regional works, offering a deep dive into Sicilian culture, so allocate at least an hour for a proper visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco d'Assisi",
+            "hu": "Chiesa di San Francesco d'Assisi",
+            "ro": "Chiesa di San Francesco d'Assisi",
+            "en": "Chiesa di San Francesco d'Assisi"
+          },
+          "coords": [
+            15.089649,
+            36.719719
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese geschichtsreiche, mit stimmungsvoller Kunst geschmückte Franziskanerkirche und ruhen Sie sich einen Moment in den stillen Bänken aus, bevor Sie weitergehen.",
+            "hu": "Lépjen be ebbe a történelmi ferences templomba, melyet vallási művészet díszít, és pihenjen meg a csendes padokon, mielőtt folytatná a városi felfedezőútját.",
+            "ro": "Pășiți în această biserică franciscană plină de istorie și artă religioasă, și odihniți-vă câteva clipe pe băncile liniștite înainte de a vă continua explorarea urbană.",
+            "en": "Step into this historically rich Franciscan church adorned with evocative religious art, and take a moment to rest on the quiet pews before continuing your urban exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Corrado",
+            "hu": "Chiesa di San Corrado",
+            "ro": "Chiesa di San Corrado",
+            "en": "Chiesa di San Corrado"
+          },
+          "coords": [
+            15.085086,
+            36.7131
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Viertelskirche, um authentische lokale Frömmigkeit abseits der Touristenpfade zu erleben, und bringen Sie eine kleine Spende für eine Kerze am Altar mit.",
+            "hu": "Látogasson el ebbe a negyedbeli templomba, hogy megtapasztalja a helyiek hitét távol a turisták útvonalától, és vigyen némi aprópénzt a gyertyagyújtáshoz az oltárnál.",
+            "ro": "Vizitați această biserică de cartier pentru a simți devotamentul local autentic, departe de traseele turistice, și aduceți o mică donație pentru a aprinde o lumânare la altar.",
+            "en": "Visit this neighborhood church to experience authentic local devotion away from the main tourist paths, and bring a small donation for the candle offering near the altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum von Pachino bei der beeindruckenden Hauptkirche und führt Sie zu charmanten lokalen Gotteshäusern. Mittags tauchen Sie in der Pinacoteca in die Kunst der Region ein. Nachmittags spazieren Sie durch die ruhigen Straßen und beenden den Tag an der Kirche San Corrado, wo das wahre Herz der Stadt schlägt.",
+        "hu": "A reggel Pachino történelmi központjában indul a lenyűgöző anyatemplomnál, majd bájos helyi szentélyekhez vezet. Délben a Pinacoteca épületében merülhet el a régió művészetében. Délután sétáljon a csendes utcákon, és fejezze be a napot a San Corrado templomnál, ahol a város igazi szíve dobog és a helyi élet zajlik.",
+        "ro": "Dimineața începe în centrul istoric al orașului Pachino, la impresionanta biserică principală, ducându-vă spre lăcașuri de cult locale fermecătoare. La prânz, scufundați-vă în arta regiunii la Pinacoteca. După-amiaza vă plimbați pe străzile liniștite, încheind ziua la biserica San Corrado, unde bate inima adevărată a orașului.",
+        "en": "The morning begins in Pachino's historic center at the impressive Mother Church, leading you to charming local shrines. At midday, dive into the region's art at the Pinacoteca. In the afternoon, stroll through the quiet streets, ending the day at the San Corrado church where the true heart of the city beats and local life thrives."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Crocifisso",
+            "hu": "Chiesa del Santissimo Crocifisso",
+            "ro": "Chiesa del Santissimo Crocifisso",
+            "en": "Chiesa del Santissimo Crocifisso"
+          },
+          "coords": [
+            15.090749,
+            36.715606
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Fassade der Mutterkirche am Hauptplatz mit ihren klassischen sizilianischen Barocklinien und besuchen Sie sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a főtéri anyatemplom gyönyörű homlokzatát, figyelve a klasszikus szicíliai barokk vonalaira, és próbáljon korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați frumoasa fațadă a bisericii principale din piața centrală, observând liniile sale baroce siciliene, și încercați să o vizitați dimineața pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful central facade of the Mother Church in the main square, noting its classic Sicilian baroque lines, and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Comunale",
+            "hu": "Pinacoteca Comunale",
+            "ro": "Pinacoteca Comunale",
+            "en": "Pinacoteca Comunale"
+          },
+          "coords": [
+            15.089705,
+            36.717946
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Kunstgalerie, die eine überraschende Sammlung regionaler Werke beherbergt, und planen Sie mindestens eine Stunde ein, um in die Kultur einzutauchen.",
+            "hu": "Fedezze fel a helyi művészeti galériát, amely meglepő regionális gyűjteménynek ad otthont, és szánjon rá legalább egy órát, hogy elmerülhessen a szicíliai kultúrában.",
+            "ro": "Explorați galeria de artă locală care adăpostește o colecție surprinzătoare de lucrări regionale și rezervați-vă cel puțin o oră pentru a descoperi cu adevărat cultura siciliană.",
+            "en": "Explore the local art gallery which houses a surprising collection of regional works, offering a deep dive into Sicilian culture, so allocate at least an hour for a proper visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Angeli",
+            "hu": "Chiesa dei Santi Angeli",
+            "ro": "Chiesa dei Santi Angeli",
+            "en": "Chiesa dei Santi Angeli"
+          },
+          "coords": [
+            15.089072,
+            36.70969
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses markante religiöse Gebäude, das als Gemeindezentrum für das südliche Viertel dient, und verbinden Sie den Besuch mit einem Spaziergang durch die Straßen.",
+            "hu": "Tekintse meg ezt a feltűnő vallási épületet, amely a déli negyedek közösségi központjaként szolgál, és kösse össze a látogatást a szomszédos lakóutcák bejárásával.",
+            "ro": "Vizitați această clădire religioasă impresionantă, ce servește drept centru comunitar pentru cartierele sudice, și completați vizita cu o plimbare pe străzile rezidențiale.",
+            "en": "Check out this striking religious building that serves as a community hub for the southern neighborhoods, and pair your visit with a walk down the adjacent residential streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Scibini",
+            "hu": "Torre Scibini",
+            "ro": "Torre Scibini",
+            "en": "Torre Scibini"
+          },
+          "coords": [
+            15.085464,
+            36.701554
+          ],
+          "category": "tower",
+          "arrive_at": "12:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen mittelalterlichen Wehrturm, der von Pachinos Küstenschutz in der Vergangenheit zeugt, und fotografieren Sie ihn für das beste Licht von der Westseite aus.",
+            "hu": "Csodálja meg ezt a középkori védőtornyot, amely Pachino egykori partvédelmének állít emléket, és fényképezze a nyugati oldalról a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați acest turn de apărare medieval care atestă vechea protecție de coastă a Pachino-ului, și fotografiați-l din partea de vest pentru a obține cea mai bună lumină.",
+            "en": "Marvel at this medieval defensive tower standing as a testament to Pachino's past coastal protections, and photograph it from the western side for the best lighting context."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Calafarina",
+            "hu": "Grotta Calafarina",
+            "ro": "Grotta Calafarina",
+            "en": "Grotta Calafarina"
+          },
+          "coords": [
+            15.117182,
+            36.721837
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das archäologische Geheimnis dieser Küstenhöhle, in der antike Artefakte gefunden wurden, und tragen Sie festes Schuhwerk, da das felsige Gelände uneben ist.",
+            "hu": "Fedezze fel ennek a tengerparti barlangnak a régészeti rejtélyét, ahol ősi leleteket találtak, és mindenképpen viseljen masszív cipőt, mivel a sziklás terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți misterul arheologic al acestei peșteri de coastă unde s-au găsit artefacte antice, purtând încălțăminte rezistentă deoarece terenul stâncos din jur este foarte accidentat.",
+            "en": "Discover the archaeological mystery of this coastal cave where ancient artifacts were found, making sure to wear sturdy shoes as the surrounding rocky terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Blasé",
+            "hu": "Blasé",
+            "ro": "Blasé",
+            "en": "Blasé"
+          },
+          "coords": [
+            15.116998,
+            36.737937
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem hervorragenden Erholungsort in Küstennähe, um nach der Höhlenerkundung abzuschalten, und genießen Sie ein lokales Getränk beim Sonnenuntergang.",
+            "hu": "Pihenjen meg ezen a kiváló tengerparti szabadidős helyen, amely tökéletes a barlangok felfedezése utáni lazításhoz, és élvezzen egy frissítő helyi italt naplemente közben.",
+            "ro": "Relaxați-vă în acest loc excelent de recreere de lângă coastă, perfect pentru odihnă după explorarea peșterilor, și savurați o băutură locală admirând apusul soarelui.",
+            "en": "Relax at this excellent recreational spot near the coast, perfect for winding down after exploring the caves, and enjoy a refreshing local beverage while watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Zentrum und radeln Sie von der zentralen Kirche zur Kunstgalerie. Gegen Mittag fahren Sie gen Süden zum Torre Scibini, einem alten Wehrturm, bevor Sie die Stadt hinter sich lassen. Der Nachmittag gehört der Küste, wo Sie die historische Höhle Grotta Calafarina erkunden. Lassen Sie den Tag entspannt am Strand ausklingen.",
+        "hu": "Induljon a központból, és kerekezzen a központi templomtól a művészeti galériáig. Dél körül haladjon dél felé a Torre Scibini ősi védőtornyához, majd hagyja maga mögött a várost. A délután a partvidéké, ahol felfedezheti a történelmi Grotta Calafarina barlangot. Zárja a napot pihentetően a strandon, a tengerparti szellőt élvezve.",
+        "ro": "Porniți din centru, pedalând de la biserica centrală la galeria de artă. În jurul prânzului mergeți spre sud la vechiul turn de apărare Torre Scibini, lăsând orașul în urmă. După-amiaza aparține coastei, unde veți explora peștera istorică Grotta Calafarina. Încheiați ziua relaxându-vă la plajă, simțind briza mării.",
+        "en": "Start in the center, cycling from the central church to the art gallery. Around midday, head south to the ancient Torre Scibini defensive tower, then leave the urban grid behind. The afternoon belongs to the coastline, where you will explore the historical Grotta Calafarina cave. End the day relaxing at the beach, enjoying the sea breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:30",
+      "end_estimate": "16:40",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Crocifisso",
+            "hu": "Chiesa del Santissimo Crocifisso",
+            "ro": "Chiesa del Santissimo Crocifisso",
+            "en": "Chiesa del Santissimo Crocifisso"
+          },
+          "coords": [
+            15.090749,
+            36.715606
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Fassade der Mutterkirche am Hauptplatz mit ihren klassischen sizilianischen Barocklinien und besuchen Sie sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a főtéri anyatemplom gyönyörű homlokzatát, figyelve a klasszikus szicíliai barokk vonalaira, és próbáljon korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați frumoasa fațadă a bisericii principale din piața centrală, observând liniile sale baroce siciliene, și încercați să o vizitați dimineața pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful central facade of the Mother Church in the main square, noting its classic Sicilian baroque lines, and try to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Scibini",
+            "hu": "Torre Scibini",
+            "ro": "Torre Scibini",
+            "en": "Torre Scibini"
+          },
+          "coords": [
+            15.085464,
+            36.701554
+          ],
+          "category": "tower",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen mittelalterlichen Wehrturm, der von Pachinos Küstenschutz in der Vergangenheit zeugt, und fotografieren Sie ihn für das beste Licht von der Westseite aus.",
+            "hu": "Csodálja meg ezt a középkori védőtornyot, amely Pachino egykori partvédelmének állít emléket, és fényképezze a nyugati oldalról a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați acest turn de apărare medieval care atestă vechea protecție de coastă a Pachino-ului, și fotografiați-l din partea de vest pentru a obține cea mai bună lumină.",
+            "en": "Marvel at this medieval defensive tower standing as a testament to Pachino's past coastal protections, and photograph it from the western side for the best lighting context."
+          }
+        },
+        {
+          "name": {
+            "de": "Baiamuri",
+            "hu": "Baiamuri",
+            "ro": "Baiamuri",
+            "en": "Baiamuri"
+          },
+          "coords": [
+            15.124314,
+            36.700438
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erholen Sie sich in diesem schönen Naherholungsgebiet am Meer, das für sein unberührtes Wasser bekannt ist, und bringen Sie Handtuch und Sonnencreme für den perfekten Nachmittag mit.",
+            "hu": "Kapcsolódjon ki ezen a kedves tengerparti rekreációs területen, mely érintetlen vizéről ismert, és hozzon magával törölközőt, illetve naptejet egy tökéletes délutáni pihenéshez.",
+            "ro": "Relaxați-vă în această zonă minunată de pe litoral, cunoscută pentru apele sale cristaline, aducând un prosop și cremă de soare pentru o pauză perfectă pe malul mării.",
+            "en": "Unwind at this lovely seaside recreational area known for its pristine waters and easygoing vibe, bringing a towel and sunscreen for a perfect afternoon break by the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Calafarina",
+            "hu": "Grotta Calafarina",
+            "ro": "Grotta Calafarina",
+            "en": "Grotta Calafarina"
+          },
+          "coords": [
+            15.117182,
+            36.721837
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das archäologische Geheimnis dieser Küstenhöhle, in der antike Artefakte gefunden wurden, und tragen Sie festes Schuhwerk, da das felsige Gelände uneben ist.",
+            "hu": "Fedezze fel ennek a tengerparti barlangnak a régészeti rejtélyét, ahol ősi leleteket találtak, és mindenképpen viseljen masszív cipőt, mivel a sziklás terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți misterul arheologic al acestei peșteri de coastă unde s-au găsit artefacte antice, purtând încălțăminte rezistentă deoarece terenul stâncos din jur este foarte accidentat.",
+            "en": "Discover the archaeological mystery of this coastal cave where ancient artifacts were found, making sure to wear sturdy shoes as the surrounding rocky terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Fico",
+            "hu": "Grotta del Fico",
+            "ro": "Grotta del Fico",
+            "en": "Grotta del Fico"
+          },
+          "coords": [
+            15.115741,
+            36.724624
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der markanten Kalksteinküste, um diese faszinierende, zum Meer hin offene Höhle zu finden, und bringen Sie viel Wasser mit, da es keinen Schatten gibt.",
+            "hu": "Túrázzon a lenyűgöző mészkőparton, hogy megtalálja ezt a tengerre nyíló lenyűgöző természetes barlangot, és vigyen magával bőségesen vizet, mert nincs árnyék az ösvényeken.",
+            "ro": "Mergeți de-a lungul coastei calcaroase pentru a găsi această fascinantă peșteră naturală deschisă spre mare și aduceți multă apă, deoarece nu există umbră pe potecile din apropiere.",
+            "en": "Hike along the striking limestone coast to find this fascinating natural cave opening towards the sea, and bring plenty of water as there is no shade along the nearby paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Blasé",
+            "hu": "Blasé",
+            "ro": "Blasé",
+            "en": "Blasé"
+          },
+          "coords": [
+            15.116998,
+            36.737937
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem hervorragenden Erholungsort in Küstennähe, um nach der Höhlenerkundung abzuschalten, und genießen Sie ein lokales Getränk beim Sonnenuntergang.",
+            "hu": "Pihenjen meg ezen a kiváló tengerparti szabadidős helyen, amely tökéletes a barlangok felfedezése utáni lazításhoz, és élvezzen egy frissítő helyi italt naplemente közben.",
+            "ro": "Relaxați-vă în acest loc excelent de recreere de lângă coastă, perfect pentru odihnă după explorarea peșterilor, și savurați o băutură locală admirând apusul soarelui.",
+            "en": "Relax at this excellent recreational spot near the coast, perfect for winding down after exploring the caves, and enjoy a refreshing local beverage while watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an der barocken Kirche im Zentrum und führt Sie schnell zur mittelalterlichen Festung Torre Scibini. Am Mittag erreichen Sie die malerische Küste bei Baiamuri für eine kurze Auszeit. Der Nachmittag ist geprägt von der Erkundung zweier spektakulärer Küstenhöhlen. Den perfekten Abschluss bildet ein kühler Drink am Meer.",
+        "hu": "Autós túrája a központ barokk templománál kezdődik, ahonnan hamar eléri a középkori Torre Scibini erődöt. Délben a Baiamuri festői partjához érkezik egy kis pihenőre. A délután a tengerpart lenyűgöző barlangjainak felfedezésével telik a sziklás partok mentén. A tökéletes befejezést egy hűsítő ital és a lenyűgöző tengeri kilátás biztosítja.",
+        "ro": "Excursia cu mașina începe la biserica barocă din centru, ducându-vă rapid la fortăreața medievală Torre Scibini. La prânz ajungeți pe coasta pitorească de la Baiamuri pentru o pauză. După-amiaza este dedicată explorării a două peșteri spectaculoase de pe litoral. Ziua se încheie perfect cu o băutură rece și o priveliște impresionantă.",
+        "en": "Your road trip begins at the baroque church in the center, quickly taking you to the medieval Torre Scibini fortress. By midday, you reach the picturesque coast at Baiamuri for a refreshing break. The afternoon is dedicated to exploring two spectacular coastal caves along the rocky shoreline. The perfect finale is a cool drink with a stunning sea view."
+      }
+    }
+  }
+}

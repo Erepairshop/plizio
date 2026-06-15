@@ -1,0 +1,451 @@
+{
+  "city_id": "les-ulis",
+  "anchor": {
+    "name": "Les Ulis",
+    "coords": [
+      2.1675,
+      48.6822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:02",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade de la République",
+            "hu": "Esplanade de la République",
+            "ro": "Esplanade de la République",
+            "en": "Esplanade de la République"
+          },
+          "coords": [
+            2.170337,
+            48.681723
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Zentrum von Les Ulis, wo sich das moderne städtische Leben abspielt, und bewundern Sie die Architektur der Umgebung.",
+            "hu": "Kezdje a napot Les Ulis központjában, ahol a modern városi élet zajlik, és figyelje meg a környező jellegzetes városi építészetet indulás előtt.",
+            "ro": "Începeți-vă ziua în inima orașului Les Ulis, unde viața civică modernă prinde contur, admirând arhitectura urbană înainte de a porni la drum.",
+            "en": "Start your day at the heart of Les Ulis where modern civic life gathers, making sure to notice the surrounding urban architecture before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Jean XXIII",
+            "hu": "Église Jean XXIII",
+            "ro": "Église Jean XXIII",
+            "en": "Église Jean XXIII"
+          },
+          "coords": [
+            2.170663,
+            48.683088
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante zeitgenössische Design dieser modernen Kirche und treten Sie ein, um die friedliche und lichtdurchflutete Atmosphäre zu erleben.",
+            "hu": "Csodálja meg e modern templom feltűnő kortárs dizájnját, és lépjen be egy pillanatra, hogy megtapasztalja annak békés, fénnyel teli atmoszféráját.",
+            "ro": "Admirați designul contemporan remarcabil al acestei biserici moderne și pășiți înăuntru pentru a experimenta atmosfera sa pașnică, plină de lumină.",
+            "en": "Admire the striking contemporary design of this modern church, and take a moment to step inside to experience its peaceful, light-filled atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cinéma Jacques Prévert",
+            "hu": "Cinéma Jacques Prévert",
+            "ro": "Cinéma Jacques Prévert",
+            "en": "Cinéma Jacques Prévert"
+          },
+          "coords": [
+            2.170629,
+            48.682711
+          ],
+          "category": "cultural",
+          "arrive_at": "10:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lokale Kulturzentrum der Filmkunst, wo Sie das Programm für abendliche Indie-Vorführungen oder besondere Veranstaltungen prüfen können.",
+            "hu": "Fedezze fel ezt a filmművészetnek szentelt helyi kulturális központot, ahol érdemes megnézni az esti független vetítések és események programját.",
+            "ro": "Descoperiți acest centru cultural local dedicat artei cinematografice, unde puteți verifica programul pentru proiecții independente sau evenimente speciale.",
+            "en": "Discover this local cultural hub dedicated to film arts, where you can check the schedule for evening indie screenings or special community events."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Araignée",
+            "hu": "La Grande Araignée",
+            "ro": "La Grande Araignée",
+            "en": "La Grande Araignée"
+          },
+          "coords": [
+            2.168035,
+            48.681373
+          ],
+          "category": "family",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bringen Sie die Kinder mit, um dieses beeindruckende Spinnennetz-Klettergerüst zu erobern, das eine tolle physische Herausforderung im Wohngebiet bietet.",
+            "hu": "Hozza el a gyerekeket, hogy meghódítsák ezt a lenyűgöző pókháló-mászókát, amely szórakoztató fizikai kihívást kínál a lakóövezet közepén.",
+            "ro": "Aduceți copiii să cucerească această impresionantă structură de cățărat în formă de pânză de păianjen, oferind o provocare fizică distractivă în zona rezidențială.",
+            "en": "Bring the kids to conquer this impressive spider-web climbing structure, offering a fun physical challenge right in the middle of the residential area."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Nord",
+            "hu": "Parc Nord",
+            "ro": "Parc Nord",
+            "en": "Parc Nord"
+          },
+          "coords": [
+            2.167035,
+            48.689728
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang in dieser weitläufigen grünen Oase, die sich perfekt für einen entspannten Nachmittagsspaziergang oder ein Picknick eignet.",
+            "hu": "Fejezze be sétáját ebben a hatalmas zöld oázisban, amely tökéletes egy pihentető délutáni sétához vagy egy fűben elköltött piknikhez a nap végén.",
+            "ro": "Încheiați plimbarea în această vastă oază verde, perfectă pentru o plimbare relaxantă de după-amiază sau un picnic pe iarbă pentru a vă odihni picioarele.",
+            "en": "Conclude your walk in this expansive green oasis, perfect for a relaxing afternoon stroll or a picnic on the grass to rest your tired legs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der städtischen Energie an der Esplanade de la République. Mittags geht es an der markanten Église Jean XXIII vorbei zum Cinéma. Nachmittags können die Kinder auf La Grande Araignée klettern. Der Abend endet friedlich im weitläufigen Parc Nord.",
+        "hu": "Kezdje a reggelt az Esplanade de la République polgári energiájának magába szívásával. A délidő a lenyűgöző Église Jean XXIII mellett a mozihoz vezet. Délután hagyja, hogy a gyerekek megmásszák a La Grande Araignée-t. Az este békésen zárul a hatalmas Parc Nordban.",
+        "ro": "Începeți dimineața absorbind energia civică la Esplanade de la République. Prânzul vă poartă pe lângă remarcabila Église Jean XXIII spre centrul cultural al Cinematografului. După-amiaza, lăsați copiii să urce pe La Grande Araignée. Seara se încheie liniștit în vastul Parc Nord.",
+        "en": "Start your morning absorbing the civic energy at the Esplanade de la République. Midday brings you past the striking Église Jean XXIII towards the cultural heart of the Cinéma. In the afternoon, let the kids climb La Grande Araignée. Evening concludes peacefully in the expansive Parc Nord."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:14",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Toboggans",
+            "hu": "Toboggans",
+            "ro": "Toboggans",
+            "en": "Toboggans"
+          },
+          "coords": [
+            2.163739,
+            48.681431
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit energiegeladenem Spaß auf diesen beliebten Rutschen und kommen Sie früh, um den Menschenmassen aus dem Viertel auszuweichen.",
+            "hu": "Kezdje a kerékpártúrát némi energiadús szórakozással ezeken a népszerű csúszdákon, és érkezzen korán, hogy elkerülje a környékbeli tömeget.",
+            "ro": "Începeți turul cu bicicleta cu o porție de distracție plină de energie pe aceste tobogane populare, asigurându-vă că sosiți devreme pentru a evita aglomerația.",
+            "en": "Kick off your cycling tour with some high-energy fun on these popular slides, making sure to arrive early to beat the neighborhood crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade de la République",
+            "hu": "Esplanade de la République",
+            "ro": "Esplanade de la République",
+            "en": "Esplanade de la République"
+          },
+          "coords": [
+            2.170337,
+            48.681723
+          ],
+          "category": "civic",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie in das geschäftige städtische Herz der Stadt, um die lebhafte Atmosphäre zu genießen, und halten Sie Ausschau nach lokalen Marktständen.",
+            "hu": "Kerékpározzon be a város nyüzsgő polgári szívébe, hogy magába szívja a nyüzsgő atmoszférát, és figyelje a helyi piaci standokat vagy közösségi eseményeket.",
+            "ro": "Pedalați spre inima civică plină de viață a orașului pentru a absorbi atmosfera animată, căutând tarabele pieței locale sau adunările comunității.",
+            "en": "Cycle into the bustling civic heart of the city to soak in the lively atmosphere, keeping an eye out for local market stalls or community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Jean XXIII",
+            "hu": "Église Jean XXIII",
+            "ro": "Église Jean XXIII",
+            "en": "Église Jean XXIII"
+          },
+          "coords": [
+            2.170663,
+            48.683088
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um die kühnen architektonischen Linien dieses Heiligtums zu betrachten, und spazieren Sie umher, um die Geometrie zu bewundern.",
+            "hu": "Szüneteltesse az utazást, hogy megtekinthesse e szentély merész építészeti vonalait, és tegyen egy rövid sétát a kerületén a geometria megcsodálásához.",
+            "ro": "Faceți o pauză pentru a vizualiza liniile arhitecturale îndrăznețe ale acestui sanctuar, făcând o scurtă plimbare pe perimetru pentru a aprecia geometria unică.",
+            "en": "Pause your ride to view the bold architectural lines of this sanctuary, taking a quick walk around the perimeter to appreciate its unique geometry."
+          }
+        },
+        {
+          "name": {
+            "de": "Aide de Jeux des Bergères Sud 2",
+            "hu": "Aide de Jeux des Bergères Sud 2",
+            "ro": "Aide de Jeux des Bergères Sud 2",
+            "en": "Aide de Jeux des Bergères Sud 2"
+          },
+          "coords": [
+            2.168573,
+            48.683831
+          ],
+          "category": "family",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem gepflegten Spielplatz an, wo junge Radfahrer sich sicher die Beine vertreten können, und genießen Sie die modernen Spielgeräte.",
+            "hu": "Álljon meg ezen a jól karbantartott játszótéren, ahol a fiatal kerékpárosok biztonságosan kinyújtóztathatják a lábukat a modern felszereléseken.",
+            "ro": "Opriți-vă la acest loc de joacă bine întreținut unde micii bicicliști își pot dezmorți picioarele în siguranță, bucurându-se de echipamentele moderne.",
+            "en": "Stop by this well-maintained playground where young riders can stretch their legs safely, enjoying the modern equipment surrounded by safe pedestrian paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Nord",
+            "hu": "Parc Nord",
+            "ro": "Parc Nord",
+            "en": "Parc Nord"
+          },
+          "coords": [
+            2.167035,
+            48.689728
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Fahrt durch die gewundenen Wege des größten Parks der Stadt und nutzen Sie die Radwege im Schatten alter Bäume.",
+            "hu": "Élvezze a festői utazást a város legnagyobb parkjának kanyargós ösvényein, kihasználva a kijelölt kerékpárutakat a nagy fák árnyékában.",
+            "ro": "Bucurați-vă de o plimbare pitorească pe cărările șerpuite ale celui mai mare parc, profitând de traseele dedicate pentru biciclete la umbra copacilor bătrâni.",
+            "en": "Enjoy a scenic ride through the winding paths of the city's largest park, taking advantage of the dedicated cycling trails under the shade of mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Millepertuis",
+            "hu": "Millepertuis",
+            "ro": "Millepertuis",
+            "en": "Millepertuis"
+          },
+          "coords": [
+            2.171873,
+            48.683187
+          ],
+          "category": "family",
+          "arrive_at": "13:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer in dieser familienfreundlichen Zone, ein perfekter Ort, um sich zu entspannen und die Kinder noch einmal spielen zu lassen.",
+            "hu": "Zárja kerékpáros kalandját ebben a családbarát övezetben, amely tökéletes hely a pihenésre és egy utolsó játékra a gyerekekkel hazatérés előtt.",
+            "ro": "Încheiați aventura pe bicicletă în această zonă potrivită pentru familii, un loc perfect pentru relaxare și o ultimă joacă înainte de a merge acasă.",
+            "en": "Wrap up your cycling adventure at this family-friendly zone, a perfect spot to relax and let the kids play one last time before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit viel Spaß auf den Rutschen, bevor Sie zum zentralen Platz rollen. Mittags bewundern Sie moderne Kirchenarchitektur und nahegelegene Spielplätze. Der Nachmittag bietet eine malerische Fahrt in den Parc Nord. Der Tag klingt entspannt im Bereich Millepertuis aus.",
+        "hu": "A reggel energikus szórakozással indul a csúszdáknál, mielőtt a központi térre gurulna. Délben megcsodálhatja a helyi modern templom építészetét és a közeli játszótereket. A délután festői utazást kínál a Parc Nordba. A nap a pihentető Millepertuis területén ér véget.",
+        "ro": "Dimineața începe cu distracție plină de energie la Tobogane înainte de a ajunge în piața centrală. Până la prânz, admirați arhitectura bisericii moderne și locurile de joacă. După-amiaza oferă o plimbare pitorească în Parc Nord. Ziua se încheie în zona relaxantă Millepertuis.",
+        "en": "Your morning starts with energetic fun at the Toboggans before rolling into the town's central square. By midday, you're admiring local modern church architecture and enjoying nearby playgrounds. The afternoon offers a scenic ride into Parc Nord. The day winds down at the relaxing Millepertuis area."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 2.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Nord",
+            "hu": "Parc Nord",
+            "ro": "Parc Nord",
+            "en": "Parc Nord"
+          },
+          "coords": [
+            2.167035,
+            48.689728
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto früh, um einen morgendlichen Spaziergang durch das erfrischende Grün dieses Parks zu genießen, und holen Sie sich vorher einen Kaffee.",
+            "hu": "Parkolja le autóját korán, hogy élvezze a reggeli sétát e park frissítő zöldjében, és indulás előtt vegyen egy kávét, amit séta közben kortyolhat.",
+            "ro": "Parcați mașina devreme pentru a vă bucura de o plimbare matinală prin verdeața răcoritoare a parcului, luând o cafea în prealabil pentru a o savura.",
+            "en": "Park your car early to enjoy a morning stroll through the refreshing greenery of this park, grabbing a coffee beforehand to sip as you walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aide de Jeux des Bergères Sud 2",
+            "hu": "Aide de Jeux des Bergères Sud 2",
+            "ro": "Aide de Jeux des Bergères Sud 2",
+            "en": "Aide de Jeux des Bergères Sud 2"
+          },
+          "coords": [
+            2.168573,
+            48.683831
+          ],
+          "category": "family",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu diesem lebhaften Spielplatz, ideal für eine kurze Pause, in der Kinder in einer sicheren Umgebung Energie abbauen können.",
+            "hu": "Egy rövid autózás elviszi ebbe a nyüzsgő játszótérbe, amely ideális egy rövid szünetre, ahol a gyerekek biztonságos környezetben levezethetik energiájukat.",
+            "ro": "O scurtă plimbare cu mașina vă aduce la acest loc de joacă vibrant, ideal pentru o scurtă pauză în care copiii își pot consuma energia în siguranță.",
+            "en": "A quick drive brings you to this vibrant playground, ideal for a short break where kids can burn off some energy in a safe, enclosed environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade de la République",
+            "hu": "Esplanade de la République",
+            "ro": "Esplanade de la République",
+            "en": "Esplanade de la République"
+          },
+          "coords": [
+            2.170337,
+            48.681723
+          ],
+          "category": "civic",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Navigieren Sie zum Hauptplatz im Stadtzentrum, um das städtische Leben zu beobachten, aber stellen Sie sich darauf ein, in Stoßzeiten etwas weiter weg zu parken.",
+            "hu": "Navigáljon a városközpont főterére, hogy tanúja legyen a helyi önkormányzati életnek, de készüljön fel, hogy csúcsidőben kissé távolabb kell parkolnia.",
+            "ro": "Navigați spre piața principală a centrului orașului pentru a vedea viața municipală locală, dar fiți pregătiți să găsiți parcare pe stradă puțin mai departe.",
+            "en": "Navigate to the town center's main square to witness local municipal life, but be prepared to find street parking slightly further away during busy hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Commercial Ulis 2",
+            "hu": "Centre Commercial Ulis 2",
+            "ro": "Centre Commercial Ulis 2",
+            "en": "Centre Commercial Ulis 2"
+          },
+          "coords": [
+            2.168439,
+            48.678106
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Nutzen Sie die großzügigen kostenlosen Parkplätze hier, um verschiedene Geschäfte zu erkunden und ein schnelles Mittagessen im belebten Food-Court einzunehmen.",
+            "hu": "Használja ki a bőséges ingyenes parkolási lehetőséget, fedezze fel a különféle üzleteket, és fogyasszon el egy gyors, laktató ebédet a nyüzsgő ételudvaron.",
+            "ro": "Profitați de parcarea gratuită spațioasă de aici pentru a explora o varietate de magazine și a lua un prânz rapid în zona animată a restaurantelor.",
+            "en": "Take advantage of the ample free parking here to explore a variety of shops and grab a quick, satisfying lunch in the bustling food court area."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Grands Jeux",
+            "hu": "Aire de Grands Jeux",
+            "ro": "Aire de Grands Jeux",
+            "en": "Aire de Grands Jeux"
+          },
+          "coords": [
+            2.169107,
+            48.67982
+          ],
+          "category": "family",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem weitläufigen Spielbereich mit großen Erholungsflächen, perfekt für einen Lauf nach dem Mittagessen, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Vezessen át ehhez a hatalmas játékterülethez, amely nagy rekreációs terekkel rendelkezik, és tökéletes egy ebéd utáni szaladgáláshoz a túra folytatása előtt.",
+            "ro": "Conduceți către această zonă vastă de joacă cu spații mari de recreere, perfectă pentru o alergare după prânz înainte de a continua turul orașului.",
+            "en": "Drive over to this expansive play area featuring large recreational spaces, perfect for a post-lunch runaround before continuing your town tour."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Aventure Spatiale",
+            "hu": "L'Aventure Spatiale",
+            "ro": "L'Aventure Spatiale",
+            "en": "L'Aventure Spatiale"
+          },
+          "coords": [
+            2.173413,
+            48.676113
+          ],
+          "category": "family",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag bei dieser aufregenden Weltraum-Attraktion und prüfen Sie vorab die Öffnungszeiten im Internet, damit die Kinder nicht enttäuscht werden.",
+            "hu": "Fejezze be a napot ezen az izgalmas űr-témájú látványosságon, de mindenképpen ellenőrizze a nyitvatartást az interneten, hogy a gyerekek ne csalódjanak.",
+            "ro": "Încheiați-vă ziua la această atracție captivantă cu tematică spațială, asigurându-vă că verificați programul online înainte de a vizita pentru a nu dezamăgi copiii.",
+            "en": "End your day at this exciting space-themed attraction, making sure to check the opening hours online before visiting so the kids aren't disappointed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem erfrischenden Morgenspaziergang im Parc Nord nach einer kurzen Fahrt. Mittags stehen Spielplatzbesuche und das städtische Zentrum auf dem Programm. Der Nachmittag ist für Shopping und Mittagessen im Centre Commercial reserviert. Der Abend endet bei L'Aventure Spatiale.",
+        "hu": "Kezdje a napot egy frissítő reggeli sétával a Parc Nordban egy gyors vezetés után. A dél a játszóterekről és a városközpont hangulatáról szól. A délutánt a Centre Commercial Ulis 2-ben eltöltött vásárlásra és ebédre tartogatjuk. Az este a L'Aventure Spatiale-ban ér földet.",
+        "ro": "Începeți ziua cu o plimbare răcoritoare de dimineață în Parc Nord, după un scurt drum cu mașina. Prânzul include vizite la locurile de joacă și explorarea centrului civic. După-amiaza este rezervată pentru cumpărături și prânz la Centre Commercial Ulis 2. Seara ajunge la L'Aventure Spatiale.",
+        "en": "Begin the day with a refreshing morning walk in Parc Nord after a quick drive. Midday features playground visits and checking out the civic center's vibe. Afternoon is reserved for shopping and lunch at Centre Commercial Ulis 2, followed by active play. The evening lands at L'Aventure Spatiale."
+      }
+    }
+  }
+}

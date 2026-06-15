@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-santa-teresa-gallura-cities-v2",
+  "anchor": {
+    "name": "Santa Teresa Gallura",
+    "coords": [
+      9.188776,
+      41.239157
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Terme del Porto",
+            "hu": "Terme del Porto",
+            "ro": "Terme del Porto",
+            "en": "Terme del Porto"
+          },
+          "coords": [
+            9.190806,
+            41.232917
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden historischen Überreste direkt am Hafenbecken und kombinieren Sie den Rundgang mit einem entspannten Spaziergang entlang der Promenade.",
+            "hu": "Fedezze fel a kikötő medencéje melletti lenyűgöző történelmi romokat, és kösse össze a látogatást egy pihentető sétával a közeli vízparti sétányon.",
+            "ro": "Explorați ruinele istorice fascinante chiar lângă bazinul portului și combinați turul cu o plimbare relaxantă de-a lungul frumoasei promenade pe malul apei.",
+            "en": "Explore the fascinating historical ruins located right by the harbor basin, and easily combine your visit with a relaxing stroll along the waterfront promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "La Punzesa",
+            "hu": "La Punzesa",
+            "ro": "La Punzesa",
+            "en": "La Punzesa"
+          },
+          "coords": [
+            9.194605,
+            41.239976
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre in dieser kleinen Bucht in der Nähe des Hafens und beobachten Sie die einlaufenden Boote bequem von Ihrem schattigen Platz aus.",
+            "hu": "Élvezze a nyugodtabb hangulatot ebben a kis, kikötőhöz közeli öbölben, ahonnan kényelmesen, árnyékból figyelheti az érkező és induló vitorlás hajókat.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită din acest mic golf de lângă port și urmăriți bărcile care sosesc din confortul locului dumneavoastră umbrit.",
+            "en": "Enjoy the quieter atmosphere at this small bay near the port, making it the perfect spot to watch arriving boats comfortably from your shaded resting place."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena Bianca",
+            "hu": "Rena Bianca",
+            "ro": "Rena Bianca",
+            "en": "Rena Bianca"
+          },
+          "coords": [
+            9.189145,
+            41.245086
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen zentralen Sandstrand früh, um die karibischen Farben zu genießen, und bringen Sie eine Taucherbrille mit, da das Wasser am Rand kristallklar ist.",
+            "hu": "Érkezzen korán erre a központi, fehér homokos strandra, hogy élvezze a karibi színeket, és hozzon magával búvárszemüveget a kristálytiszta víz felfedezéséhez.",
+            "ro": "Ajungeți devreme pe această plajă centrală cu nisip alb pentru a vă bucura de culorile sale caraibiene și aduceți ochelari de scufundări pentru apa cristalină.",
+            "en": "Arrive early at this central white-sand beach to fully enjoy its vivid Caribbean-like colors, and bring your snorkeling gear to explore the crystal-clear edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Reparata",
+            "hu": "Santa Reparata",
+            "ro": "Santa Reparata",
+            "en": "Santa Reparata"
+          },
+          "coords": [
+            9.167406,
+            41.229745
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen, von Felsen umrahmten Bucht und nutzen Sie das ruhige Wasser ideal zum Schwimmen und für erste Stand-Up-Paddling Versuche.",
+            "hu": "Pihenjen ebben a sziklákkal övezett festői öbölben, ahol a nyugodt vizet kihasználva ideális körülmények között úszhat vagy próbálhatja ki az evezős szörfözést.",
+            "ro": "Relaxați-vă în acest golf pitoresc încadrat de stânci și profitați de apa calmă, ideală pentru înot și pentru primele încercări de stand-up paddleboarding.",
+            "en": "Relax in this picturesque bay framed by unique rocks, and take advantage of the perfectly calm waters which are ideal for swimming or stand-up paddleboarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena di levante",
+            "hu": "Rena di levante",
+            "ro": "Rena di levante",
+            "en": "Rena di levante"
+          },
+          "coords": [
+            9.161752,
+            41.235774
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die windgeschützte Seite der Landenge bei Capo Testa und spazieren Sie durch den feinen Sand, während Sie die Granitfelsen im Hintergrund bewundern.",
+            "hu": "Tapasztalja meg a Capo Testa földszorosának szélvédett oldalát, és sétáljon a finom homokban, miközben a háttérben lévő lenyűgöző gránitsziklákat csodálja.",
+            "ro": "Experimentați partea ferită de vânt a istmului de la Capo Testa și plimbați-vă prin nisipul fin, admirând în același timp stâncile de granit din fundal.",
+            "en": "Experience the wind-protected side of the Capo Testa isthmus and stroll through the fine sand while admiring the stunning, weather-beaten granite rocks in the background."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Nähe des Hafens bei den Terme del Porto, wo Geschichte auf Meeresbrise trifft. Danach geht es weiter zur Bucht La Punzesa für eine erste entspannte Pause am Wasser. Mittags erwartet Sie der berühmte Stadtstrand Rena Bianca mit seinem strahlend weißen Sand. Am Nachmittag wandern Sie ein Stück weiter bis zur malerischen Bucht von Santa Reparata. Den Tag lassen Sie schließlich am geschützten Strand Rena di levante in der Abendsonne ausklingen.",
+        "hu": "A reggel a kikötő közelében, a Terme del Porto történelmi romjainál indul, majd a La Punzesa öböl nyugodt vizénél folytatódik egy pihentető szünettel. Délben a híres Rena Bianca városi strand várja, ahol a hófehér homokban gyönyörködhet. Délután egy kellemes séta vezet a festői Santa Reparata öbölhöz, majd a napot a Rena di levante védett partján zárja a lemenő nap fényeiben.",
+        "ro": "Dimineața începe lângă port la Terme del Porto, unde istoria întâlnește briza mării, urmată de o pauză relaxantă la La Punzesa. La amiază, plaja faimoasă a orașului, Rena Bianca, vă așteaptă cu nisipul său alb și strălucitor. După-amiaza faceți o drumeție scurtă către golful pitoresc Santa Reparata. Ziua se încheie liniștit pe plaja protejată Rena di levante, sub razele blânde ale soarelui.",
+        "en": "Your morning starts near the harbor at Terme del Porto, blending history with a sea breeze, followed by a relaxed break at La Punzesa. At midday, the famous Rena Bianca awaits with its stunning white sands and clear waters. In the afternoon, you'll hike a bit further to reach the picturesque bay of Santa Reparata. The day concludes peacefully at the sheltered shores of Rena di levante."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Punzesa",
+            "hu": "La Punzesa",
+            "ro": "La Punzesa",
+            "en": "La Punzesa"
+          },
+          "coords": [
+            9.194605,
+            41.239976
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre in dieser kleinen Bucht in der Nähe des Hafens und beobachten Sie die einlaufenden Boote bequem von Ihrem schattigen Platz aus.",
+            "hu": "Élvezze a nyugodtabb hangulatot ebben a kis, kikötőhöz közeli öbölben, ahonnan kényelmesen, árnyékból figyelheti az érkező és induló vitorlás hajókat.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită din acest mic golf de lângă port și urmăriți bărcile care sosesc din confortul locului dumneavoastră umbrit.",
+            "en": "Enjoy the quieter atmosphere at this small bay near the port, making it the perfect spot to watch arriving boats comfortably from your shaded resting place."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena Bianca",
+            "hu": "Rena Bianca",
+            "ro": "Rena Bianca",
+            "en": "Rena Bianca"
+          },
+          "coords": [
+            9.189145,
+            41.245086
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen zentralen Sandstrand früh, um die karibischen Farben zu genießen, und bringen Sie eine Taucherbrille mit, da das Wasser am Rand kristallklar ist.",
+            "hu": "Érkezzen korán erre a központi, fehér homokos strandra, hogy élvezze a karibi színeket, és hozzon magával búvárszemüveget a kristálytiszta víz felfedezéséhez.",
+            "ro": "Ajungeți devreme pe această plajă centrală cu nisip alb pentru a vă bucura de culorile sale caraibiene și aduceți ochelari de scufundări pentru apa cristalină.",
+            "en": "Arrive early at this central white-sand beach to fully enjoy its vivid Caribbean-like colors, and bring your snorkeling gear to explore the crystal-clear edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Reparata",
+            "hu": "Santa Reparata",
+            "ro": "Santa Reparata",
+            "en": "Santa Reparata"
+          },
+          "coords": [
+            9.167406,
+            41.229745
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen, von Felsen umrahmten Bucht und nutzen Sie das ruhige Wasser ideal zum Schwimmen und für erste Stand-Up-Paddling Versuche.",
+            "hu": "Pihenjen ebben a sziklákkal övezett festői öbölben, ahol a nyugodt vizet kihasználva ideális körülmények között úszhat vagy próbálhatja ki az evezős szörfözést.",
+            "ro": "Relaxați-vă în acest golf pitoresc încadrat de stânci și profitați de apa calmă, ideală pentru înot și pentru primele încercări de stand-up paddleboarding.",
+            "en": "Relax in this picturesque bay framed by unique rocks, and take advantage of the perfectly calm waters which are ideal for swimming or stand-up paddleboarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena di ponente",
+            "hu": "Rena di ponente",
+            "ro": "Rena di ponente",
+            "en": "Rena di ponente"
+          },
+          "coords": [
+            9.162265,
+            41.234571
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Ausblick von diesem ausgedehnten Strandabschnitt auf das westliche Meer, der besonders in den warmen Nachmittagsstunden traumhaft ist.",
+            "hu": "Élvezze a fantasztikus kilátást a nyugati tengerre erről a kiterjedt partszakaszról, amely különösen a meleg, késő délutáni órákban nyújt varázslatos látványt.",
+            "ro": "Bucurați-vă de vederea fantastică asupra mării vestice de pe această întindere lungă de plajă, deosebit de frumoasă în orele calde și târzii ale după-amiezii.",
+            "en": "Take in the fantastic views of the western sea from this expansive stretch of beach, which is especially magical during the warm and golden late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena di levante",
+            "hu": "Rena di levante",
+            "ro": "Rena di levante",
+            "en": "Rena di levante"
+          },
+          "coords": [
+            9.161752,
+            41.235774
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die windgeschützte Seite der Landenge bei Capo Testa und spazieren Sie durch den feinen Sand, während Sie die Granitfelsen im Hintergrund bewundern.",
+            "hu": "Tapasztalja meg a Capo Testa földszorosának szélvédett oldalát, és sétáljon a finom homokban, miközben a háttérben lévő lenyűgöző gránitsziklákat csodálja.",
+            "ro": "Experimentați partea ferită de vânt a istmului de la Capo Testa și plimbați-vă prin nisipul fin, admirând în același timp stâncile de granit din fundal.",
+            "en": "Experience the wind-protected side of the Capo Testa isthmus and stroll through the fine sand while admiring the stunning, weather-beaten granite rocks in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme del Porto",
+            "hu": "Terme del Porto",
+            "ro": "Terme del Porto",
+            "en": "Terme del Porto"
+          },
+          "coords": [
+            9.190806,
+            41.232917
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden historischen Überreste direkt am Hafenbecken und kombinieren Sie den Rundgang mit einem entspannten Spaziergang entlang der Promenade.",
+            "hu": "Fedezze fel a kikötő medencéje melletti lenyűgöző történelmi romokat, és kösse össze a látogatást egy pihentető sétával a közeli vízparti sétányon.",
+            "ro": "Explorați ruinele istorice fascinante chiar lângă bazinul portului și combinați turul cu o plimbare relaxantă de-a lungul frumoasei promenade pe malul apei.",
+            "en": "Explore the fascinating historical ruins located right by the harbor basin, and easily combine your visit with a relaxing stroll along the waterfront promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad starten Sie flott zur Bucht La Punzesa und fahren anschließend zum beliebten Strand Rena Bianca, um das türkisfarbene Wasser zu bestaunen. Mittags geht es weiter zur Bucht von Santa Reparata, die sich hervorragend für eine längere Pause eignet. Am Nachmittag erkunden Sie die beiden Strände der Landenge, Rena di ponente und Rena di levante. Abends radeln Sie zurück Richtung Zentrum und lassen die Tour am historischen Hafen ausklingen.",
+        "hu": "Kerékpárral gyorsan eléri a La Punzesa öblöt, majd a népszerű Rena Bianca strandra teker, hogy megcsodálja a türkizkék vizet. Délben a Santa Reparata öbölhöz ér, amely kiváló hely egy hosszabb pihenőre. Délután felfedezi a földszoros mindkét strandját, a Rena di ponentét és a Rena di levantét. Este visszatér a központ felé, és a túrát a történelmi kikötőnél, a Terme del Porto mellett fejezi be.",
+        "ro": "Cu bicicleta porniți rapid spre La Punzesa și apoi spre populara Rena Bianca pentru a admira apa turcoaz. La amiază pedalați către Santa Reparata, un loc excelent pentru o pauză mai lungă. După-amiaza explorați ambele plaje ale istmului, Rena di ponente și Rena di levante. Seara vă întoarceți spre centru, încheind turul lângă portul istoric la Terme del Porto.",
+        "en": "Set off on your bike to La Punzesa and then ride to the popular Rena Bianca to admire its striking turquoise waters. Midday brings you to Santa Reparata, an excellent spot for a longer rest. In the afternoon, explore both sweeping beaches of the isthmus, Rena di ponente and Rena di levante. As evening falls, pedal back towards the center, finishing your tour near the historic port area."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 13.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Marmoratina",
+            "hu": "La Marmoratina",
+            "ro": "La Marmoratina",
+            "en": "La Marmoratina"
+          },
+          "coords": [
+            9.233307,
+            41.24771
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante, abgeschiedene Bucht im Osten und bringen Sie ausreichend Wasser mit, da es hier weniger touristische Infrastruktur gibt.",
+            "hu": "Fedezze fel ezt a bájos, eldugott keleti öblöt, és mindenképpen hozzon magával elegendő ivóvizet, mivel itt jóval kevesebb a turisztikai infrastruktúra.",
+            "ro": "Descoperiți acest golf fermecător și izolat din est și asigurați-vă că aduceți suficientă apă, deoarece aici infrastructura turistică este mult mai redusă.",
+            "en": "Discover this charming, secluded eastern bay and make sure to bring plenty of water and snacks, as there is significantly less tourist infrastructure available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Quadro",
+            "hu": "Porto Quadro",
+            "ro": "Porto Quadro",
+            "en": "Porto Quadro"
+          },
+          "coords": [
+            9.214956,
+            41.24701
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Dieser ruhige Sandstrand lockt mit flachem Wasser für Familien, bietet aber auch tolle Felsformationen am Rand für schnorchelbegeisterte Besucher.",
+            "hu": "Ez a csendes homokos strand sekély vizével csábítja a családokat, a szélén található sziklaalakzatok pedig kiváló lehetőséget nyújtanak a sznorkelezéshez.",
+            "ro": "Această plajă liniștită atrage familiile cu apa sa puțin adâncă, dar oferă și formațiuni stâncoase grozave la margini pentru vizitatorii pasionați de snorkeling.",
+            "en": "This quiet sandy beach attracts families with its shallow waters, while also offering great rock formations along the edges for enthusiastic snorkelers to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina L'Uddastri",
+            "hu": "Piscina L'Uddastri",
+            "ro": "Piscina L'Uddastri",
+            "en": "Piscina L'Uddastri"
+          },
+          "coords": [
+            9.218075,
+            41.238841
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese natürlichen Felsenpools an der rauen Küste und tragen Sie unbedingt festes Schuhwerk, um sicher über die spektakulären Steine zu klettern.",
+            "hu": "Csodálja meg ezeket a természetes sziklamedencéket a vad parton, és feltétlenül viseljen masszív lábbelit, hogy biztonságosan mászhasson a látványos köveken.",
+            "ro": "Admirați aceste piscine naturale de stâncă de pe coasta accidentată și asigurați-vă că purtați încălțăminte solidă pentru a vă cățăra în siguranță pe pietre.",
+            "en": "Admire these natural rock pools along the rugged coastline, and make sure you wear sturdy footwear to safely climb and navigate over the spectacular stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena Bianca",
+            "hu": "Rena Bianca",
+            "ro": "Rena Bianca",
+            "en": "Rena Bianca"
+          },
+          "coords": [
+            9.189145,
+            41.245086
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen zentralen Sandstrand früh, um die karibischen Farben zu genießen, und bringen Sie eine Taucherbrille mit, da das Wasser am Rand kristallklar ist.",
+            "hu": "Érkezzen korán erre a központi, fehér homokos strandra, hogy élvezze a karibi színeket, és hozzon magával búvárszemüveget a kristálytiszta víz felfedezéséhez.",
+            "ro": "Ajungeți devreme pe această plajă centrală cu nisip alb pentru a vă bucura de culorile sale caraibiene și aduceți ochelari de scufundări pentru apa cristalină.",
+            "en": "Arrive early at this central white-sand beach to fully enjoy its vivid Caribbean-like colors, and bring your snorkeling gear to explore the crystal-clear edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Rena di ponente",
+            "hu": "Rena di ponente",
+            "ro": "Rena di ponente",
+            "en": "Rena di ponente"
+          },
+          "coords": [
+            9.162265,
+            41.234571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Ausblick von diesem ausgedehnten Strandabschnitt auf das westliche Meer, der besonders in den warmen Nachmittagsstunden traumhaft ist.",
+            "hu": "Élvezze a fantasztikus kilátást a nyugati tengerre erről a kiterjedt partszakaszról, amely különösen a meleg, késő délutáni órákban nyújt varázslatos látványt.",
+            "ro": "Bucurați-vă de vederea fantastică asupra mării vestice de pe această întindere lungă de plajă, deosebit de frumoasă în orele calde și târzii ale după-amiezii.",
+            "en": "Take in the fantastic views of the western sea from this expansive stretch of beach, which is especially magical during the warm and golden late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Reparata",
+            "hu": "Santa Reparata",
+            "ro": "Santa Reparata",
+            "en": "Santa Reparata"
+          },
+          "coords": [
+            9.167406,
+            41.229745
+          ],
+          "category": "recreational",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen, von Felsen umrahmten Bucht und nutzen Sie das ruhige Wasser ideal zum Schwimmen und für erste Stand-Up-Paddling Versuche.",
+            "hu": "Pihenjen ebben a sziklákkal övezett festői öbölben, ahol a nyugodt vizet kihasználva ideális körülmények között úszhat vagy próbálhatja ki az evezős szörfözést.",
+            "ro": "Relaxați-vă în acest golf pitoresc încadrat de stânci și profitați de apa calmă, ideală pentru înot și pentru primele încercări de stand-up paddleboarding.",
+            "en": "Relax in this picturesque bay framed by unique rocks, and take advantage of the perfectly calm waters which are ideal for swimming or stand-up paddleboarding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt ganz im Osten bei der abgelegenen La Marmoratina und führt Sie am Vormittag weiter zu den feinen Sandstränden von Porto Quadro. Gegen Mittag erreichen Sie die beeindruckenden Felsenpools der Piscina L'Uddastri. Am Nachmittag machen Sie einen Stopp am berühmten Stadtstrand Rena Bianca und fahren dann weiter zur Landenge bei Rena di ponente. Der Tag endet entspannt in der wunderschönen Bucht von Santa Reparata.",
+        "hu": "Az autós túra a keleti La Marmoratina eldugott öblében kezdődik, majd délelőtt a Porto Quadro finom homokos strandjainál folytatódik. Dél körül megérkezik a Piscina L'Uddastri lenyűgöző sziklamedencéihez. Délután álljon meg a híres Rena Bianca strandnál, majd haladjon tovább a Rena di ponente földszorosához. A nap a Santa Reparata gyönyörű öblének nyugalmában ér véget.",
+        "ro": "Turul cu mașina începe în est, la plaja izolată La Marmoratina, continuând dimineața spre nisipurile fine de la Porto Quadro. La prânz ajungeți la impresionantele piscine naturale din stâncă de la Piscina L'Uddastri. După-amiaza faceți o oprire la celebra Rena Bianca și apoi conduceți spre istmul de la Rena di ponente. Ziua se încheie relaxant în frumosul golf Santa Reparata.",
+        "en": "Your driving tour begins in the east at the secluded La Marmoratina, continuing to the sandy stretches of Porto Quadro in the morning. Around midday, arrive at the impressive natural rock pools of Piscina L'Uddastri. In the afternoon, stop by the famous Rena Bianca beach before heading to the sweeping isthmus at Rena di ponente. The day ends perfectly relaxing in the beautiful bay of Santa Reparata."
+      }
+    }
+  }
+}

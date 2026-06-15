@@ -1,0 +1,520 @@
+{
+  "city_id": "granville",
+  "anchor": {
+    "name": "Granville",
+    "coords": [
+      -1.5869,
+      48.8381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Port of Granville",
+            "hu": "Port of Granville",
+            "ro": "Port of Granville",
+            "en": "Port of Granville"
+          },
+          "coords": [
+            -1.59879,
+            48.834719
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den historischen Hafen, beobachten Sie die traditionellen Fischerboote und das rege Treiben, und besuchen Sie den morgendlichen Fischmarkt.",
+            "hu": "Sétáljon végig a történelmi kikötőn, figyelve a hagyományos halászhajókat és a nyüzsgő tevékenységet, és érdemes kora reggel meglátogatni a halpiacot.",
+            "ro": "Plimbați-vă de-a lungul portului istoric, observând bărcile tradiționale de pescuit și activitatea plină de viață, și vizitați piața de pește de dimineață.",
+            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Roc",
+            "hu": "Phare du Roc",
+            "ro": "Phare du Roc",
+            "en": "Phare du Roc"
+          },
+          "coords": [
+            -1.609388,
+            48.833613
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
+            "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
+            "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Cap Lihou",
+            "hu": "Église Notre-Dame du Cap Lihou",
+            "ro": "Église Notre-Dame du Cap Lihou",
+            "en": "Église Notre-Dame du Cap Lihou"
+          },
+          "coords": [
+            -1.60503,
+            48.83673
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
+            "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
+            "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Granville",
+            "hu": "Casino de Granville",
+            "ro": "Casino de Granville",
+            "en": "Casino de Granville"
+          },
+          "coords": [
+            -1.598793,
+            48.839259
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses klassischen Casinos, und selbst wenn Sie nicht spielen, genießen Sie einen Drink an der Bar im Belle-Époque-Ambiente.",
+            "hu": "Tapasztalja meg ennek a klasszikus kaszinónak a vibráló atmoszféráját, és még ha nem is játszik, igyon egy italt a bárban, hogy elmerüljön a Belle Époque hangulatban.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestui cazinou clasic și, chiar dacă nu jucați, savurați o băutură la bar pentru a vă cufunda în ambianța Belle Époque.",
+            "en": "Experience the vibrant atmosphere of this classic casino, and even if you do not play, enjoy a drink at the bar to soak in the lively Belle Époque ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Plat Gousset",
+            "hu": "Le Plat Gousset",
+            "ro": "Le Plat Gousset",
+            "en": "Le Plat Gousset"
+          },
+          "coords": [
+            -1.597305,
+            48.840318
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich diese Promenade entlang, die von charmanten Strandhütten gesäumt ist, und packen Sie eine leichte Jacke ein, da die Meeresbrise oft frisch ist.",
+            "hu": "Tegyen egy kényelmes sétát a bájos strandkabinokkal szegélyezett ikonikus sétányon, és ne felejtsen el könnyű kabátot csomagolni, mert a tengeri szellő gyakran hűvös.",
+            "ro": "Faceți o plimbare lejeră de-a lungul acestei promenade emblematice mărginite de cabine de plajă fermecătoare și nu uitați să împachetați o jachetă ușoară.",
+            "en": "Take a leisurely walk along this iconic promenade lined with charming beach cabins, and don't forget to pack a light jacket as the sea breeze is often crisp."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de mer de Granville",
+            "hu": "Piscine de mer de Granville",
+            "ro": "Piscine de mer de Granville",
+            "en": "Piscine de mer de Granville"
+          },
+          "coords": [
+            -1.596673,
+            48.841398
+          ],
+          "category": "family",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses einzigartige Gezeiten-Schwimmbecken, das direkt in die Felsen gebaut wurde, und prüfen Sie vorab den Gezeitenplan, um es gefüllt zu sehen.",
+            "hu": "Csodálja meg ezt az egyedülálló, közvetlenül a sziklákba épített árapályos úszómedencét, és előtte feltétlenül ellenőrizze az árapály-naptárat, hogy tengervízzel teli láthassa.",
+            "ro": "Minunați-vă de această piscină cu maree unică construită direct în stânci, asigurându-vă că verificați programul mareelor pentru a o vedea plină cu apă de mare.",
+            "en": "Marvel at this unique tidal swimming pool built directly into the rocks, making sure to check the tide schedule beforehand to see it filled with seawater."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Christian Dior",
+            "hu": "Musée Christian Dior",
+            "ro": "Musée Christian Dior",
+            "en": "Musée Christian Dior"
+          },
+          "coords": [
+            -1.592506,
+            48.841927
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
+            "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
+            "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am lebhaften Hafen, bevor Sie zum historischen Leuchtturm hinaufsteigen. Erkunden Sie die charmante Altstadt und die ikonische Notre-Dame Kirche. Genießen Sie die Belle-Époque-Promenade, das Casino und das einzigartige Gezeitenbecken. Beenden Sie den Tag in den Gärten des Dior-Museums.",
+        "hu": "Kezdje a nyüzsgő kikötőben, mielőtt felmászna a történelmi világítótoronyhoz. Fedezze fel az óváros hangulatos utcáit és az ikonikus Notre-Dame templomot. Élvezze a Belle Époque sétányt, a kaszinót és az egyedülálló árapály-medencét. Fejezze be a napot a Dior múzeum gyönyörű kertjeiben.",
+        "ro": "Începeți la portul plin de viață înainte de a urca la farul istoric. Explorați străzile fermecătoare ale orașului vechi și biserica emblematică Notre-Dame. Bucurați-vă de promenada Belle Époque, de cazinou și de piscina unică cu maree. Încheiați ziua explorând grădinile frumoase ale muzeului Dior.",
+        "en": "Start at the lively port before climbing up to the historic lighthouse. Explore the charming old town streets and the iconic Notre-Dame church. Enjoy the Belle Époque promenade, the casino, and the unique tidal pool. Finish your day exploring the beautiful gardens of the Dior museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Port of Granville",
+            "hu": "Port of Granville",
+            "ro": "Port of Granville",
+            "en": "Port of Granville"
+          },
+          "coords": [
+            -1.59879,
+            48.834719
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den historischen Hafen, beobachten Sie die traditionellen Fischerboote und das rege Treiben, und besuchen Sie den morgendlichen Fischmarkt.",
+            "hu": "Sétáljon végig a történelmi kikötőn, figyelve a hagyományos halászhajókat és a nyüzsgő tevékenységet, és érdemes kora reggel meglátogatni a halpiacot.",
+            "ro": "Plimbați-vă de-a lungul portului istoric, observând bărcile tradiționale de pescuit și activitatea plină de viață, și vizitați piața de pește de dimineață.",
+            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Roc",
+            "hu": "Phare du Roc",
+            "ro": "Phare du Roc",
+            "en": "Phare du Roc"
+          },
+          "coords": [
+            -1.609388,
+            48.833613
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
+            "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
+            "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Cap Lihou",
+            "hu": "Église Notre-Dame du Cap Lihou",
+            "ro": "Église Notre-Dame du Cap Lihou",
+            "en": "Église Notre-Dame du Cap Lihou"
+          },
+          "coords": [
+            -1.60503,
+            48.83673
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
+            "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
+            "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Christian Dior",
+            "hu": "Musée Christian Dior",
+            "ro": "Musée Christian Dior",
+            "en": "Musée Christian Dior"
+          },
+          "coords": [
+            -1.592506,
+            48.841927
+          ],
+          "category": "museum",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
+            "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
+            "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage surveillée de l'Ermitage",
+            "hu": "Plage surveillée de l'Ermitage",
+            "ro": "Plage surveillée de l'Ermitage",
+            "en": "Plage surveillée de l'Ermitage"
+          },
+          "coords": [
+            -1.585481,
+            48.848845
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Nachmittag an diesem überwachten, feinsandigen Strand und bringen Sie Ihren eigenen Sonnenschirm mit, da es nur wenig natürlichen Schatten gibt.",
+            "hu": "Élvezze a békés délutánt ezen a felügyelt, finom homokos strandon, és hozzon magával saját napernyőt, mivel nagyon kevés a természetes árnyékos terület.",
+            "ro": "Bucurați-vă de o după-amiază liniștită pe această plajă supravegheată cu nisip fin, aducând propria umbrelă, deoarece există foarte puține zone naturale umbrite.",
+            "en": "Enjoy a peaceful afternoon on this supervised, fine-sand beach, bringing along your own parasol as there are very few natural shaded areas available for resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Donville",
+            "hu": "Plage de Donville",
+            "ro": "Plage de Donville",
+            "en": "Plage de Donville"
+          },
+          "coords": [
+            -1.578161,
+            48.866023
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen und weniger überlaufenen Strand, ideal zum Muschelsammeln, aber tragen Sie geeignetes Schuhwerk für die gelegentlichen Kieselabschnitte.",
+            "hu": "Sétáljon ezen a tágas és kevésbé zsúfolt strandon, amely ideális kagylógyűjtésre, bár érdemes megfelelő lábbelit viselni a kavicsos részek kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe această plajă întinsă și mai puțin aglomerată, ideală pentru a găsi scoici, deși ar trebui să purtați încălțăminte adecvată pentru a naviga confortabil secțiunile cu pietriș.",
+            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Hacqueville",
+            "hu": "Plage d'Hacqueville",
+            "ro": "Plage d'Hacqueville",
+            "en": "Plage d'Hacqueville"
+          },
+          "coords": [
+            -1.583997,
+            48.829254
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel eines Strandes unterhalb der Klippen, und besuchen Sie ihn bei Ebbe, um die dramatische Küstenlandschaft voll zu würdigen.",
+            "hu": "Fedezze fel a sziklák alatt megbúvó strand e rejtett gyöngyszemét, és feltétlenül apálykor látogasson el ide, hogy teljes mértékben értékelhesse a drámai parti tájat.",
+            "ro": "Descoperiți această bijuterie ascunsă de plajă situată sub stânci, asigurându-vă că o vizitați în timpul refluxului pentru a aprecia pe deplin peisajul de coastă dramatic.",
+            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom historischen Hafen zum felsigen Vorgebirge und Leuchtturm. Radeln Sie durch das historische Zentrum und besuchen Sie die Dior-Museumsgärten. Treten Sie entlang der malerischen Küste zu den Sandstränden von Donville. Beenden Sie Ihre Radtour mit einem Küstensonnenuntergang in Hacqueville.",
+        "hu": "Tekerjen a történelmi kikötőtől a sziklás hegyfokig és a világítótoronyig. Kerékpározzon át a történelmi központon, és látogassa meg a Dior múzeum kertjeit. Pedálozzon a festői part mentén Donville gyönyörű homokos strandjai felé. Zárja a túrát egy látványos tengerparti naplementével Hacqueville-ben.",
+        "ro": "Mergeți de la portul istoric până la promontoriul stâncos și far. Ciclati prin centrul istoric și vizitați frumoasele grădini ale muzeului Dior. Pedalați de-a lungul coastei pitorești spre plajele cu nisip din Donville. Încheiați turul cu un apus de soare spectaculos la Hacqueville.",
+        "en": "Ride from the historic port up to the rocky promontory and lighthouse. Cycle through the historic center and visit the beautiful Dior museum gardens. Pedal along the scenic coast towards the beautiful sandy beaches of Donville. Conclude your bike tour with a spectacular coastal sunset at Hacqueville."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare du Roc",
+            "hu": "Phare du Roc",
+            "ro": "Phare du Roc",
+            "en": "Phare du Roc"
+          },
+          "coords": [
+            -1.609388,
+            48.833613
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
+            "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
+            "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Cap Lihou",
+            "hu": "Église Notre-Dame du Cap Lihou",
+            "ro": "Église Notre-Dame du Cap Lihou",
+            "en": "Église Notre-Dame du Cap Lihou"
+          },
+          "coords": [
+            -1.60503,
+            48.83673
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
+            "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
+            "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Christian Dior",
+            "hu": "Musée Christian Dior",
+            "ro": "Musée Christian Dior",
+            "en": "Musée Christian Dior"
+          },
+          "coords": [
+            -1.592506,
+            48.841927
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
+            "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
+            "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de mer de Donville",
+            "hu": "Piscine de mer de Donville",
+            "ro": "Piscine de mer de Donville",
+            "en": "Piscine de mer de Donville"
+          },
+          "coords": [
+            -1.587854,
+            48.849648
+          ],
+          "category": "family",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Gezeitenbecken, das eine sichere Schwimmumgebung bietet und sich ideal für Kinder eignet, wenn Sie es mittags besuchen.",
+            "hu": "Pihenjen ennél a családbarát árapály-medencénél, amely biztonságos úszási környezetet kínál, így tökéletes a gyermekek számára a nap melegebb óráiban.",
+            "ro": "Relaxați-vă la această piscină cu maree, care oferă un mediu de înot sigur, fiind perfectă pentru copii dacă o vizitați în timpul orelor mai calde ale zilei.",
+            "en": "Relax by this family-friendly tidal pool which offers a safe swimming environment, making it perfect for children if you visit during the warmer hours of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Donville",
+            "hu": "Plage de Donville",
+            "ro": "Plage de Donville",
+            "en": "Plage de Donville"
+          },
+          "coords": [
+            -1.578161,
+            48.866023
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen und weniger überlaufenen Strand, ideal zum Muschelsammeln, aber tragen Sie geeignetes Schuhwerk für die gelegentlichen Kieselabschnitte.",
+            "hu": "Sétáljon ezen a tágas és kevésbé zsúfolt strandon, amely ideális kagylógyűjtésre, bár érdemes megfelelő lábbelit viselni a kavicsos részek kényelmes bejárásához.",
+            "ro": "Plimbați-vă pe această plajă întinsă și mai puțin aglomerată, ideală pentru a găsi scoici, deși ar trebui să purtați încălțăminte adecvată pentru a naviga confortabil secțiunile cu pietriș.",
+            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Hacqueville",
+            "hu": "Plage d'Hacqueville",
+            "ro": "Plage d'Hacqueville",
+            "en": "Plage d'Hacqueville"
+          },
+          "coords": [
+            -1.583997,
+            48.829254
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel eines Strandes unterhalb der Klippen, und besuchen Sie ihn bei Ebbe, um die dramatische Küstenlandschaft voll zu würdigen.",
+            "hu": "Fedezze fel a sziklák alatt megbúvó strand e rejtett gyöngyszemét, és feltétlenül apálykor látogasson el ide, hogy teljes mértékben értékelhesse a drámai parti tájat.",
+            "ro": "Descoperiți această bijuterie ascunsă de plajă situată sub stânci, asigurându-vă că o vizitați în timpul refluxului pentru a aprecia pe deplin peisajul de coastă dramatic.",
+            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum historischen Leuchtturm und erkunden Sie die Kirche der Oberstadt. Besuchen Sie das Christian-Dior-Museum und schlendern Sie durch die Klippengärten. Fahren Sie nach Norden, um die Gezeitenbecken und Sandstrände zu genießen. Fahren Sie nach Süden für einen ruhigen Spaziergang am Strand Hacqueville.",
+        "hu": "Vezessen fel a történelmi világítótoronyhoz, és fedezze fel a felsőváros templomát. Látogassa meg a híres Christian Dior múzeumot, és sétáljon a sziklafalon lévő kertjeiben. Vezessen északra a családbarát árapály-medencékhez és homokos partokhoz. Irány dél, hogy békésen sétáljon a drámai Hacqueville strandon.",
+        "ro": "Conduceți până la farul istoric și explorați biserica din orașul de sus. Vizitați celebrul muzeu Christian Dior și plimbați-vă prin grădinile sale. Conduceți spre nord pentru a vă bucura de piscinele cu maree și de țărmurile cu nisip. Mergeți spre sud pentru o plimbare liniștită pe plaja Hacqueville.",
+        "en": "Drive up to the historic lighthouse and explore the upper town's church. Visit the famous Christian Dior museum and stroll through its cliffside gardens. Drive slightly north to enjoy the family-friendly tidal pools and sandy shores. Head south for a peaceful walk along the secluded and dramatic Hacqueville beach."
+      }
+    }
+  }
+}

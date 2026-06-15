@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-ciudad-rodrigo-cities-v2",
+  "anchor": {
+    "name": "Ciudad Rodrigo",
+    "coords": [
+      -6.534158,
+      40.597309
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 0.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de los Vázquez",
+            "hu": "Casa de los Vázquez",
+            "ro": "Casa de los Vázquez",
+            "en": "Casa de los Vázquez"
+          },
+          "coords": [
+            -6.533035,
+            40.596367
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige Eckbautür dieses wunderschön restaurierten Adelshauses, das heute als Postamt dient, wo Sie lokale Briefmarken kaufen können.",
+            "hu": "Vegye szemügyre a gyönyörűen felújított nemesi ház egyedi sarokajtaját, amely ma postaként működik, ahol különleges helyi bélyegeket is vásárolhat.",
+            "ro": "Observați ușa de colț unică a acestei case nobiliare frumos restaurate, care acum servește ca poștă de unde puteți cumpăra timbre locale speciale.",
+            "en": "Notice the unique angled corner door of this beautifully restored noble house, which now serves as a post office where you can buy special local stamps."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Gómez de Silva",
+            "hu": "Casa de los Gómez de Silva",
+            "ro": "Casa de los Gómez de Silva",
+            "en": "Casa de los Gómez de Silva"
+          },
+          "coords": [
+            -6.532574,
+            40.597293
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante gotische und Renaissance-Architektur dieser historischen Residenz und betrachten Sie die imposanten Eckfenster von der Straße aus.",
+            "hu": "Figyelje meg az elegáns gótikus és reneszánsz építészeti stílusok keveredését ebben a történelmi rezidenciában, majd csodálja meg a hatalmas sarokablakokat.",
+            "ro": "Observați amestecul elegant de arhitectură gotică și renascentistă al acestei reședințe istorice și faceți un pas înapoi pentru a vedea ferestrele de colț.",
+            "en": "Take in the elegant Gothic and Renaissance architectural blend of this historic residence, and step back to view its imposing corner windows from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Primer Marqués de Cerralbo",
+            "hu": "Casa del Primer Marqués de Cerralbo",
+            "ro": "Casa del Primer Marqués de Cerralbo",
+            "en": "Casa del Primer Marqués de Cerralbo"
+          },
+          "coords": [
+            -6.533775,
+            40.597715
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses großartige Herrenhaus der adligen Vergangenheit der Region und betrachten Sie die feinen Steinmetzarbeiten rund um den eleganten Balkon.",
+            "hu": "Fedezze fel ezt a nemesi múltat idéző pompás udvarházat, és figyelje meg közelebbről az elegáns főerkély körüli, rendkívül finoman megmunkált kőfaragásokat.",
+            "ro": "Explorați acest conac grandios care evidențiază trecutul nobiliar al regiunii și priviți îndeaproape lucrăria fină în piatră din jurul balconului principal.",
+            "en": "Explore this grand manor that highlights the region's noble past, and look closely at the finely crafted stonework around the elegant main balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Episcopal",
+            "hu": "Palacio Episcopal",
+            "ro": "Palacio Episcopal",
+            "en": "Palacio Episcopal"
+          },
+          "coords": [
+            -6.536268,
+            40.598184
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in den ruhigen Innenhof des Bischofspalastes ein, um die friedliche Atmosphäre zu genießen, und prüfen Sie die Anschlagtafel auf Abendkonzerte.",
+            "hu": "Lépjen be a Püspöki Palota csendes udvarába, hogy élvezze a békés atmoszférát, és nézze meg a hirdetőtáblán az esetlegesen megrendezett esti koncerteket.",
+            "ro": "Pășiți în curtea liniștită a Palatului Episcopal pentru a aprecia atmosfera sa senină și verificați avizierul pentru eventualele concerte organizate seara.",
+            "en": "Step into the quiet courtyard of the Bishop's Palace to appreciate its serene atmosphere, and check the notice board for occasional evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Orinal",
+            "hu": "Museo del Orinal",
+            "ro": "Museo del Orinal",
+            "en": "Museo del Orinal"
+          },
+          "coords": [
+            -6.535933,
+            40.599287
+          ],
+          "category": "museum",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese skurrile Sammlung von über 1300 historischen Nachttöpfen und achten Sie besonders auf die feinen Keramikdetails nahe dem Ausgang.",
+            "hu": "Fedezze fel az 1300 történelmi éjjeliedényt bemutató különleges gyűjteményt, és a kijáratnál feltétlenül figyelje meg a finom kerámiarészleteket.",
+            "ro": "Descoperiți această colecție excentrică de peste 1300 de oale de noapte istorice și asigurați-vă că admirați detaliile ceramice complicate spre ieșire.",
+            "en": "Discover this quirky yet fascinating collection of over 1300 historical chamber pots, and be sure to check the intricate ceramic details near the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Castro",
+            "hu": "Palacio de los Castro",
+            "ro": "Palacio de los Castro",
+            "en": "Palacio de los Castro"
+          },
+          "coords": [
+            -6.533637,
+            40.599004
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gedrehten salomonischen Säulen der Renaissancefassade und nehmen Sie sich Zeit für die filigranen Familienwappen über dem Portal.",
+            "hu": "Csodálja meg a lenyűgöző reneszánsz homlokzat csavart salamonoszlopait, és szánjon időt a portál felett található, rendkívül bonyolult családi címerekre.",
+            "ro": "Minunați-vă de coloanele salomonice răsucite de pe superba fațadă renascentistă și acordați-vă timp pentru a studia steme de familie de deasupra portalului.",
+            "en": "Marvel at the twisted Solomonic columns on the stunning Renaissance facade, and take a moment to view the intricate family coats of arms above the portal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem Charme der Altstadt und den eleganten Adelshäusern. Mittags entdecken Sie prächtige Paläste und tieferes kulturelles Erbe. Am Nachmittag erkunden Sie faszinierende Spezialmuseen. Der Abend klingt an den nördlichen historischen Denkmälern stimmungsvoll aus.",
+        "hu": "A reggel a történelmi központ bájával és az elegáns nemesi házak felfedezésével indul. A dél a pompás paloták és a mélyebb kulturális örökség felé vezet. Délután lenyűgöző és különleges múzeumokat fedezhet fel. Az este a város északi történelmi műemlékei közelében, békésen ér véget.",
+        "ro": "Dimineața începe cu farmecul centrului istoric, admirând elegantele case nobiliare. La amiază descoperiți palate grandioase și moștenirea culturală profundă. După-amiaza este dedicată explorării unor muzee specializate fascinante. Seara se încheie liniștit în apropierea monumentelor istorice nordice.",
+        "en": "Morning starts with the charm of the historic center, tracing the elegant noble houses. Midday leads you toward the grand palaces and deeper cultural heritage. In the afternoon, you explore fascinating specialized museums. The evening concludes gracefully near the northern historic monuments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 1.64,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tres columnas",
+            "hu": "Tres columnas",
+            "ro": "Tres columnas",
+            "en": "Tres columnas"
+          },
+          "coords": [
+            -6.524417,
+            40.607124
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese mysteriösen römischen Säulen, das stolze Symbol der Stadt, und kommen Sie bei Sonnenuntergang, wenn der Stein in einem warmen Ton leuchtet.",
+            "hu": "Vizsgálja meg a város büszke szimbólumává vált titokzatos római oszlopokat, és próbáljon meg naplementekor érkezni, amikor a kő meleg árnyalatban ragyog.",
+            "ro": "Examinați aceste coloane romane misterioase care au devenit simbolul mândru al orașului și încercați să le vizitați la apus, când piatra capătă o nuanță caldă.",
+            "en": "Examine these mysterious Roman columns that have become the proud symbol of the city, and try to visit at sunset when the stone glows with a warm hue."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinas del Convento de San Francisco",
+            "hu": "Ruinas del Convento de San Francisco",
+            "ro": "Ruinas del Convento de San Francisco",
+            "en": "Ruinas del Convento de San Francisco"
+          },
+          "coords": [
+            -6.531973,
+            40.603024
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Steinruinen dieses einst prächtigen Franziskanerklosters und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Barangoljon az egykor pompás ferences kolostor hangulatos kőromjai között, és feltétlenül viseljen masszív cipőt az egyenetlen talajviszonyok miatt.",
+            "ro": "Plimbați-vă printre ruinele de piatră evocatoare ale acestei foste mănăstiri franciscane și purtați încălțăminte robustă, deoarece terenul este accidentat.",
+            "en": "Wander through the evocative stone ruins of this once-grand Franciscan convent, and wear sturdy walking shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Castro",
+            "hu": "Palacio de los Castro",
+            "ro": "Palacio de los Castro",
+            "en": "Palacio de los Castro"
+          },
+          "coords": [
+            -6.533637,
+            40.599004
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gedrehten salomonischen Säulen der Renaissancefassade und nehmen Sie sich Zeit für die filigranen Familienwappen über dem Portal.",
+            "hu": "Csodálja meg a lenyűgöző reneszánsz homlokzat csavart salamonoszlopait, és szánjon időt a portál felett található, rendkívül bonyolult családi címerekre.",
+            "ro": "Minunați-vă de coloanele salomonice răsucite de pe superba fațadă renascentistă și acordați-vă timp pentru a studia steme de familie de deasupra portalului.",
+            "en": "Marvel at the twisted Solomonic columns on the stunning Renaissance facade, and take a moment to view the intricate family coats of arms above the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Orinal",
+            "hu": "Museo del Orinal",
+            "ro": "Museo del Orinal",
+            "en": "Museo del Orinal"
+          },
+          "coords": [
+            -6.535933,
+            40.599287
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese skurrile Sammlung von über 1300 historischen Nachttöpfen und achten Sie besonders auf die feinen Keramikdetails nahe dem Ausgang.",
+            "hu": "Fedezze fel az 1300 történelmi éjjeliedényt bemutató különleges gyűjteményt, és a kijáratnál feltétlenül figyelje meg a finom kerámiarészleteket.",
+            "ro": "Descoperiți această colecție excentrică de peste 1300 de oale de noapte istorice și asigurați-vă că admirați detaliile ceramice complicate spre ieșire.",
+            "en": "Discover this quirky yet fascinating collection of over 1300 historical chamber pots, and be sure to check the intricate ceramic details near the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Episcopal",
+            "hu": "Palacio Episcopal",
+            "ro": "Palacio Episcopal",
+            "en": "Palacio Episcopal"
+          },
+          "coords": [
+            -6.536268,
+            40.598184
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Treten Sie in den ruhigen Innenhof des Bischofspalastes ein, um die friedliche Atmosphäre zu genießen, und prüfen Sie die Anschlagtafel auf Abendkonzerte.",
+            "hu": "Lépjen be a Püspöki Palota csendes udvarába, hogy élvezze a békés atmoszférát, és nézze meg a hirdetőtáblán az esetlegesen megrendezett esti koncerteket.",
+            "ro": "Pășiți în curtea liniștită a Palatului Episcopal pentru a aprecia atmosfera sa senină și verificați avizierul pentru eventualele concerte organizate seara.",
+            "en": "Step into the quiet courtyard of the Bishop's Palace to appreciate its serene atmosphere, and check the notice board for occasional evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Verraco Vetón de Granito",
+            "hu": "Verraco Vetón de Granito",
+            "ro": "Verraco Vetón de Granito",
+            "en": "Verraco Vetón de Granito"
+          },
+          "coords": [
+            -6.536079,
+            40.596813
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese alte keltische Granit-Eberskulptur als stummen Wächter der Stadt und machen Sie Ihre besten Fotos im weichen Morgenlicht.",
+            "hu": "Csodálja meg ezt az ősi kelta gránit vaddisznószobrot, a város néma őrzőjét, és készítse el a legjobb fotóit a lágy reggeli fényviszonyok között.",
+            "ro": "Admirați această sculptură celtică străveche a unui mistreț din granit și asigurați-vă că faceți cele mai bune fotografii în lumina blândă a dimineții.",
+            "en": "Admire this ancient Celtic granite boar sculpture which stands as a silent guardian of the city, and capture your best photos during the soft morning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit dem Rad zu den römischen Säulen und den Ruinen außerhalb des Zentrums. Mittags radeln Sie in den historischen Kern zu den Renaissancefassaden. Der Nachmittag bietet kuriose Museen und Adelspaläste. Beenden Sie den Abend nahe der keltischen Eberskulptur.",
+        "hu": "Kezdje a reggelt a római oszlopok és a központon kívüli lenyűgöző romok felkeresésével. Délben tekerjen be a történelmi magba, és csodálja meg a reneszánsz homlokzatokat. A délután különleges múzeumokat és palotákat tartogat. Zárja az estét az ősi kelta vaddisznószobor közelében pihenve.",
+        "ro": "Începeți dimineața pedalând spre coloanele romane și ruinele evocatoare din afara centrului. La amiază vă îndreptați spre nucleul istoric pentru fațadele renascentiste. După-amiaza oferă un amestec de muzee curioase și palate. Încheiați seara relaxându-vă lângă străvechea sculptură celtică.",
+        "en": "Start your morning by cycling to the iconic Roman columns and evocative ruins outside the center. By midday, pedal into the historic core to marvel at Renaissance facades. The afternoon offers a mix of curious museums and noble palaces. Wind down your evening near the ancient Celtic boar sculpture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinas del Convento de San Francisco",
+            "hu": "Ruinas del Convento de San Francisco",
+            "ro": "Ruinas del Convento de San Francisco",
+            "en": "Ruinas del Convento de San Francisco"
+          },
+          "coords": [
+            -6.531973,
+            40.603024
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Steinruinen dieses einst prächtigen Franziskanerklosters und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Barangoljon az egykor pompás ferences kolostor hangulatos kőromjai között, és feltétlenül viseljen masszív cipőt az egyenetlen talajviszonyok miatt.",
+            "ro": "Plimbați-vă printre ruinele de piatră evocatoare ale acestei foste mănăstiri franciscane și purtați încălțăminte robustă, deoarece terenul este accidentat.",
+            "en": "Wander through the evocative stone ruins of this once-grand Franciscan convent, and wear sturdy walking shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Tres columnas",
+            "hu": "Tres columnas",
+            "ro": "Tres columnas",
+            "en": "Tres columnas"
+          },
+          "coords": [
+            -6.524417,
+            40.607124
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese mysteriösen römischen Säulen, das stolze Symbol der Stadt, und kommen Sie bei Sonnenuntergang, wenn der Stein in einem warmen Ton leuchtet.",
+            "hu": "Vizsgálja meg a város büszke szimbólumává vált titokzatos római oszlopokat, és próbáljon meg naplementekor érkezni, amikor a kő meleg árnyalatban ragyog.",
+            "ro": "Examinați aceste coloane romane misterioase care au devenit simbolul mândru al orașului și încercați să le vizitați la apus, când piatra capătă o nuanță caldă.",
+            "en": "Examine these mysterious Roman columns that have become the proud symbol of the city, and try to visit at sunset when the stone glows with a warm hue."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Gómez de Silva",
+            "hu": "Casa de los Gómez de Silva",
+            "ro": "Casa de los Gómez de Silva",
+            "en": "Casa de los Gómez de Silva"
+          },
+          "coords": [
+            -6.532574,
+            40.597293
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante gotische und Renaissance-Architektur dieser historischen Residenz und betrachten Sie die imposanten Eckfenster von der Straße aus.",
+            "hu": "Figyelje meg az elegáns gótikus és reneszánsz építészeti stílusok keveredését ebben a történelmi rezidenciában, majd csodálja meg a hatalmas sarokablakokat.",
+            "ro": "Observați amestecul elegant de arhitectură gotică și renascentistă al acestei reședințe istorice și faceți un pas înapoi pentru a vedea ferestrele de colț.",
+            "en": "Take in the elegant Gothic and Renaissance architectural blend of this historic residence, and step back to view its imposing corner windows from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo histórico-militar de la Guerra de la Independencia",
+            "hu": "Museo histórico-militar de la Guerra de la Independencia",
+            "ro": "Museo histórico-militar de la Guerra de la Independencia",
+            "en": "Museo histórico-militar de la Guerra de la Independencia"
+          },
+          "coords": [
+            -6.535013,
+            40.597007
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch gut erhaltene Artefakte in die dramatischen Ereignisse des Halbinselkriegs ein, aber bringen Sie eine leichte Jacke für die Säle mit.",
+            "hu": "Merüljön el a félszigeti háború drámai eseményeiben a remek állapotú leleteken keresztül, de hozzon magával egy könnyű kabátot a hűvös termek miatt.",
+            "ro": "Explorați evenimentele dramatice ale Războiului Peninsular prin artefacte excelent conservate, dar luați o jachetă subțire deoarece sălile sunt răcoroase.",
+            "en": "Dive into the dramatic events of the Peninsular War through well-preserved artifacts, but bring a light jacket as the exhibition halls can be quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Episcopal",
+            "hu": "Palacio Episcopal",
+            "ro": "Palacio Episcopal",
+            "en": "Palacio Episcopal"
+          },
+          "coords": [
+            -6.536268,
+            40.598184
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in den ruhigen Innenhof des Bischofspalastes ein, um die friedliche Atmosphäre zu genießen, und prüfen Sie die Anschlagtafel auf Abendkonzerte.",
+            "hu": "Lépjen be a Püspöki Palota csendes udvarába, hogy élvezze a békés atmoszférát, és nézze meg a hirdetőtáblán az esetlegesen megrendezett esti koncerteket.",
+            "ro": "Pășiți în curtea liniștită a Palatului Episcopal pentru a aprecia atmosfera sa senină și verificați avizierul pentru eventualele concerte organizate seara.",
+            "en": "Step into the quiet courtyard of the Bishop's Palace to appreciate its serene atmosphere, and check the notice board for occasional evening concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt bei den malerischen Klosterruinen und den monumentalen römischen Säulen. Mittags parken Sie nahe der Altstadt, um die Architektur zu bewundern. Der Nachmittag konzentriert sich auf Militärgeschichte und bischöfliche Bauten. Der Abend rundet Ihre Autotour elegant ab.",
+        "hu": "Az autós túra a festői kolostorromoknál és a monumentális római oszlopoknál kezdődik. Délben parkoljon le a történelmi központ közelében, és csodálja meg az építészetet. A délután a hadtörténetre és a püspöki épületekre fókuszál. Az este elegánsan és kellemesen zárja le az autós kirándulást.",
+        "ro": "Călătoria auto începe la ruinele pitorești ale mănăstirii și la coloanele romane. La amiază, parcați lângă centrul istoric pentru a admira arhitectura rezidențială. După-amiaza se concentrează pe istoria militară și clădirile episcopale. Seara încheie elegant acest tur captivant prin oraș.",
+        "en": "Your drive begins at the scenic convent ruins and the monumental Roman columns. At midday, park near the historic center to admire elegant residential architecture. The afternoon focuses on engaging military history and majestic episcopal buildings. The evening gracefully wraps up your automotive tour."
+      }
+    }
+  }
+}

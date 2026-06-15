@@ -1,0 +1,451 @@
+{
+  "city_id": "la-mure",
+  "anchor": {
+    "name": "La Mure",
+    "coords": [
+      5.7875,
+      44.9031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 4.02,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            5.788304,
+            44.905751
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des 19. Jahrhunderts und die Buntglasfenster dieser zentralen Pfarrkirche, aber bewahren Sie während der Messen Ruhe.",
+            "hu": "Csodálja meg a 19. századi központi plébániatemplom lenyűgöző építészetét és ólomüveg ablakait, de ügyeljen a csendre a szertartások alatt.",
+            "ro": "Admirați arhitectura remarcabilă din secolul al XIX-lea și vitraliile acestei biserici centrale, dar amintiți-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Admire the striking 19th-century architecture and beautiful stained glass of this central parish church, but remember to maintain silence during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Matheysin Museum",
+            "hu": "Matheysin Múzeum",
+            "ro": "Muzeul Matheysin",
+            "en": "Matheysin Museum"
+          },
+          "coords": [
+            5.784592,
+            44.904693
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Bergbau- und Kulturerbe der Region in diesem historischen Herrenhaus und besuchen Sie die oberste Etage für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel a régió bányászati és kulturális örökségét ebben a történelmi kúriában, és ne hagyja ki a legfelső emeleti időszakos művészeti kiállításokat sem.",
+            "ro": "Descoperiți bogata moștenire minieră și culturală a regiunii în acest conac istoric și nu ratați ultimul etaj pentru expoziții temporare de artă contemporană.",
+            "en": "Discover the region's rich mining and cultural heritage within this historic mansion, and be sure to check the top floor for temporary contemporary art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Zug von La Mure",
+            "hu": "La Mure-i kisvonat",
+            "ro": "Micul tren din La Mure",
+            "en": "Little Train of La Mure"
+          },
+          "coords": [
+            5.783268,
+            44.911915
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Waggons dieser malerischen Bahnstrecke, die unglaubliche Ausblicke bietet; seien Sie früh da, um einen Platz in den offenen Wagen zu sichern.",
+            "hu": "Csodálja meg ennek a történelmi vasútvonalnak a régi kocsijait, amely lenyűgöző kilátást nyújt, ezért érkezzen korán, hogy jó helyet kapjon a nyitott vagonokban.",
+            "ro": "Minunați-vă de vagoanele de epocă ale acestei căi ferate pitorești cu vederi incredibile; ajungeți devreme pentru a prinde un loc bun în vagoanele deschise.",
+            "en": "Marvel at the vintage railway cars of this historic scenic line, which offers incredible views, so arrive early to secure a good spot on the open-air carriages."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie Kapelle",
+            "hu": "Sainte-Marie kápolna",
+            "ro": "Capela Sainte-Marie",
+            "en": "Sainte-Marie Chapel"
+          },
+          "coords": [
+            5.769891,
+            44.900913
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe und den Panoramablick auf das Tal an dieser abgelegenen Hügelkapelle, einem perfekten Ort für ein Weitwinkelobjektiv.",
+            "hu": "Élvezze a mély nyugalmat és a völgyre nyíló panorámát ennél az eldugott hegyoldali kápolnánál, amely tökéletes helyszín széles látószögű fényképek készítéséhez.",
+            "ro": "Experimentați liniștea profundă și vederea panoramică asupra văii la această capelă izolată pe deal, un loc perfect pentru fotografii cu unghi larg.",
+            "en": "Experience the profound tranquility and panoramic valley views at this secluded hillside chapel, making it a perfect spot to bring a wide-angle camera lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de Prunières Kapelle",
+            "hu": "Notre-Dame de Prunières kápolna",
+            "ro": "Capela Notre-Dame de Prunières",
+            "en": "Notre-Dame de Prunières Chapel"
+          },
+          "coords": [
+            5.763988,
+            44.892901
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die charmanten romanischen Elemente dieses alten Pilgerortes und tragen Sie bequeme Schuhe, da der umliegende Weg recht uneben sein kann.",
+            "hu": "Tekintse meg az ősi zarándokhely bájos román stílusú elemeit, és viseljen kényelmes cipőt, mivel a környező ösvény meglehetősen egyenetlen lehet.",
+            "ro": "Admirați elementele romanice fermecătoare ale acestui vechi loc de pelerinaj și purtați încălțăminte confortabilă, deoarece poteca din jur poate fi denivelată.",
+            "en": "Take in the charming Romanesque elements of this ancient pilgrimage site, and wear comfortable walking shoes as the surrounding path can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von La Mure an der beeindruckenden Mariä-Himmelfahrt-Kirche. Mittags tauchen Sie im Matheysin-Museum in die lokale Geschichte ein. Der Nachmittag lädt zu einem Spaziergang zum charmanten Bahnhof des kleinen Zuges ein. Lassen Sie den Tag mit ruhigen Besuchen der Kapellen Sainte-Marie und Prunières ausklingen.",
+        "hu": "Kezdje a reggelt La Mure történelmi központjában, a lenyűgöző Nagyboldogasszony-templom megtekintésével. Délben merüljön el a helyi történelemben a Matheysin Múzeumban. A délután egy kellemes sétát tartogat a bájos kisvonat állomásához. Zárja a napot a békés Sainte-Marie és Prunières kápolnák felfedezésével az este közeledtével.",
+        "ro": "Începeți dimineața explorând centrul istoric din La Mure, pornind de la superba biserică a Adormirii Maicii Domnului. La prânz, descoperiți istoria locală la Muzeul Matheysin. După-amiaza vă aduce o plimbare relaxantă către gara micului tren. Încheiați ziua cu vizite liniștite la capelele pitorești Sainte-Marie și Prunières, odată cu lăsarea serii.",
+        "en": "Start your morning exploring the historic heart of La Mure, beginning with the stunning Assumption church. By midday, dive into local history at the Matheysin Museum. The afternoon brings a leisurely stroll to the charming Little Train station. Conclude your day with peaceful visits to the quaint Sainte-Marie and Prunières chapels as the evening sets in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 19.12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            5.788304,
+            44.905751
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des 19. Jahrhunderts und die Buntglasfenster dieser zentralen Pfarrkirche, aber bewahren Sie während der Messen Ruhe.",
+            "hu": "Csodálja meg a 19. századi központi plébániatemplom lenyűgöző építészetét és ólomüveg ablakait, de ügyeljen a csendre a szertartások alatt.",
+            "ro": "Admirați arhitectura remarcabilă din secolul al XIX-lea și vitraliile acestei biserici centrale, dar amintiți-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Admire the striking 19th-century architecture and beautiful stained glass of this central parish church, but remember to maintain silence during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Matheysin Museum",
+            "hu": "Matheysin Múzeum",
+            "ro": "Muzeul Matheysin",
+            "en": "Matheysin Museum"
+          },
+          "coords": [
+            5.784592,
+            44.904693
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Bergbau- und Kulturerbe der Region in diesem historischen Herrenhaus und besuchen Sie die oberste Etage für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel a régió bányászati és kulturális örökségét ebben a történelmi kúriában, és ne hagyja ki a legfelső emeleti időszakos művészeti kiállításokat sem.",
+            "ro": "Descoperiți bogata moștenire minieră și culturală a regiunii în acest conac istoric și nu ratați ultimul etaj pentru expoziții temporare de artă contemporană.",
+            "en": "Discover the region's rich mining and cultural heritage within this historic mansion, and be sure to check the top floor for temporary contemporary art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Zug von La Mure",
+            "hu": "La Mure-i kisvonat",
+            "ro": "Micul tren din La Mure",
+            "en": "Little Train of La Mure"
+          },
+          "coords": [
+            5.783268,
+            44.911915
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Waggons dieser malerischen Bahnstrecke, die unglaubliche Ausblicke bietet; seien Sie früh da, um einen Platz in den offenen Wagen zu sichern.",
+            "hu": "Csodálja meg ennek a történelmi vasútvonalnak a régi kocsijait, amely lenyűgöző kilátást nyújt, ezért érkezzen korán, hogy jó helyet kapjon a nyitott vagonokban.",
+            "ro": "Minunați-vă de vagoanele de epocă ale acestei căi ferate pitorești cu vederi incredibile; ajungeți devreme pentru a prinde un loc bun în vagoanele deschise.",
+            "en": "Marvel at the vintage railway cars of this historic scenic line, which offers incredible views, so arrive early to secure a good spot on the open-air carriages."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre-Chatel-See",
+            "hu": "Pierre-Chatel-tó",
+            "ro": "Lacul Pierre-Chatel",
+            "en": "Lake Pierre-Chatel"
+          },
+          "coords": [
+            5.777991,
+            44.973294
+          ],
+          "category": "natural",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieses Gletschersees, umgeben von Alpengipfeln, und packen Sie ein leichtes Picknick ein, um es am grasbewachsenen Ufer zu genießen.",
+            "hu": "Pihenjen ennek a gleccsertónak a kristálytiszta vize mellett, lenyűgöző alpesi csúcsokkal körülvéve, és hozzon magával egy könnyű pikniket a füves partokra.",
+            "ro": "Relaxați-vă lângă apele cristaline ale acestui lac glaciar, înconjurat de vârfuri alpine uluitoare, și aduceți un mic picnic pe malurile sale înverzite.",
+            "en": "Relax by the crystal-clear waters of this glacial lake, surrounded by stunning alpine peaks, and consider packing a light picnic to enjoy on its pristine grassy shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie Kapelle",
+            "hu": "Sainte-Marie kápolna",
+            "ro": "Capela Sainte-Marie",
+            "en": "Sainte-Marie Chapel"
+          },
+          "coords": [
+            5.769891,
+            44.900913
+          ],
+          "category": "religious",
+          "arrive_at": "15:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe und den Panoramablick auf das Tal an dieser abgelegenen Hügelkapelle, einem perfekten Ort für ein Weitwinkelobjektiv.",
+            "hu": "Élvezze a mély nyugalmat és a völgyre nyíló panorámát ennél az eldugott hegyoldali kápolnánál, amely tökéletes helyszín széles látószögű fényképek készítéséhez.",
+            "ro": "Experimentați liniștea profundă și vederea panoramică asupra văii la această capelă izolată pe deal, un loc perfect pentru fotografii cu unghi larg.",
+            "en": "Experience the profound tranquility and panoramic valley views at this secluded hillside chapel, making it a perfect spot to bring a wide-angle camera lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponsonnas-Brücke",
+            "hu": "Ponsonnas híd",
+            "ro": "Podul Ponsonnas",
+            "en": "Ponsonnas Bridge"
+          },
+          "coords": [
+            5.793886,
+            44.881288
+          ],
+          "category": "landmark",
+          "arrive_at": "16:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Blicken Sie von einer der höchsten Brücken Europas in die atemberaubende Drac-Schlucht hinab, aber sichern Sie lose Gegenstände, da der Wind hier recht stark sein kann.",
+            "hu": "Tekintsen le a lélegzetelállító Drac-szurdokba Európa egyik legmagasabb hídjáról, de rögzítse a laza tárgyakat, mivel a szél meglehetősen erős lehet.",
+            "ro": "Priviți în jos în uluitorul defileu Drac de pe unul dintre cele mai înalte poduri din Europa, dar asigurați-vă obiectele, deoarece vântul poate fi destul de puternic.",
+            "en": "Look down into the breathtaking Drac gorge from one of Europe's highest bridges, but secure loose items securely as the wind across the span can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der majestätischen Himmelfahrtskirche vor einem Stopp im Matheysin-Museum. Mittags fahren Sie am ikonischen Bahnhof vorbei zum erfrischenden Wasser des Lac de Pierre-Chatel. Am Nachmittag radeln Sie südwärts zur friedlichen Sainte-Marie-Kapelle. Beenden Sie den aktiven Tag am spektakulären Pont de Ponsonnas im Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a fenséges Nagyboldogasszony-templomnál, majd álljon meg a Matheysin Múzeumnál. Délben a legendás kisvonat állomása mellett a Lac de Pierre-Chatel hűsítő vizéhez tekerhet. Délután induljon délre a békés Sainte-Marie kápolnához. Az aktív napot a lenyűgöző Pont de Ponsonnas hídnál zárhatja naplemente idején.",
+        "ro": "Începeți turul cu bicicleta la maiestuoasa biserică a Adormirii, urmată de o oprire la Muzeul Matheysin. La prânz, treceți de gara trenulețului spre apele răcoroase ale Lacului Pierre-Chatel. După-amiaza, pedalați spre sud către liniștita capelă Sainte-Marie. Încheiați-vă ziua activă la spectaculosul Pod Ponsonnas, odată cu apusul soarelui.",
+        "en": "Kick off your cycling tour at the majestic Assumption church before a fascinating stop at the Matheysin Museum. Midday takes you past the iconic Little Train station toward the refreshing waters of Lac de Pierre-Chatel. In the afternoon, pedal south to the serene Sainte-Marie chapel. Wrap up your active day at the spectacular Pont de Ponsonnas as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 23.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Matheysin Museum",
+            "hu": "Matheysin Múzeum",
+            "ro": "Muzeul Matheysin",
+            "en": "Matheysin Museum"
+          },
+          "coords": [
+            5.784592,
+            44.904693
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Bergbau- und Kulturerbe der Region in diesem historischen Herrenhaus und besuchen Sie die oberste Etage für wechselnde Kunstausstellungen.",
+            "hu": "Fedezze fel a régió bányászati és kulturális örökségét ebben a történelmi kúriában, és ne hagyja ki a legfelső emeleti időszakos művészeti kiállításokat sem.",
+            "ro": "Descoperiți bogata moștenire minieră și culturală a regiunii în acest conac istoric și nu ratați ultimul etaj pentru expoziții temporare de artă contemporană.",
+            "en": "Discover the region's rich mining and cultural heritage within this historic mansion, and be sure to check the top floor for temporary contemporary art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Zug von La Mure",
+            "hu": "La Mure-i kisvonat",
+            "ro": "Micul tren din La Mure",
+            "en": "Little Train of La Mure"
+          },
+          "coords": [
+            5.783268,
+            44.911915
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Waggons dieser malerischen Bahnstrecke, die unglaubliche Ausblicke bietet; seien Sie früh da, um einen Platz in den offenen Wagen zu sichern.",
+            "hu": "Csodálja meg ennek a történelmi vasútvonalnak a régi kocsijait, amely lenyűgöző kilátást nyújt, ezért érkezzen korán, hogy jó helyet kapjon a nyitott vagonokban.",
+            "ro": "Minunați-vă de vagoanele de epocă ale acestei căi ferate pitorești cu vederi incredibile; ajungeți devreme pentru a prinde un loc bun în vagoanele deschise.",
+            "en": "Marvel at the vintage railway cars of this historic scenic line, which offers incredible views, so arrive early to secure a good spot on the open-air carriages."
+          }
+        },
+        {
+          "name": {
+            "de": "Monteynard-Avignonet-See",
+            "hu": "Monteynard-Avignonet-tó",
+            "ro": "Lacul Monteynard-Avignonet",
+            "en": "Lake Monteynard-Avignonet"
+          },
+          "coords": [
+            5.714781,
+            44.913136
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte türkisfarbene Weite, bekannt für Windsurfen und Himalaya-Hängebrücken; prüfen Sie den Wind, bevor Sie Wassersportgeräte mieten.",
+            "hu": "Élvezze a szörfözésről és a híres himalájai függőhidakról ismert türkizkék víztükröt; ellenőrizze a szélviszonyokat, mielőtt vízieszközt bérelne.",
+            "ro": "Admirați întinderea turcoaz vibrantă, renumită pentru windsurfing și podurile suspendate himalayene; verificați vântul înainte de a închiria echipament acvatic.",
+            "en": "Take in the vibrant turquoise expanse renowned for windsurfing and the famous Himalayan footbridges; check local wind conditions before renting any water equipment."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre-Cognet-See",
+            "hu": "Saint-Pierre-Cognet-tó",
+            "ro": "Lacul Saint-Pierre-Cognet",
+            "en": "Lake Saint-Pierre-Cognet"
+          },
+          "coords": [
+            5.834087,
+            44.85393
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.4,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe an diesem rauen, weniger besuchten Stausee in tiefen Schluchten, und fahren Sie vorsichtig auf den schmalen Zufahrtsstraßen zum Ufer.",
+            "hu": "Találjon nyugalmat ezen a zord és kevésbé zsúfolt, mély szurdokokban fekvő víztározónál, és vezessen óvatosan a vízparthoz vezető szűk bekötőutakon.",
+            "ro": "Găsiți liniște la acest rezervor accidentat și mai puțin aglomerat din defileele adânci și conduceți cu atenție pe drumurile înguste de acces spre malul apei.",
+            "en": "Find peace at this rugged and less crowded reservoir nestled in deep gorges, and drive carefully on the narrow access roads leading down to the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponsonnas-Brücke",
+            "hu": "Ponsonnas híd",
+            "ro": "Podul Ponsonnas",
+            "en": "Ponsonnas Bridge"
+          },
+          "coords": [
+            5.793886,
+            44.881288
+          ],
+          "category": "landmark",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Blicken Sie von einer der höchsten Brücken Europas in die atemberaubende Drac-Schlucht hinab, aber sichern Sie lose Gegenstände, da der Wind hier recht stark sein kann.",
+            "hu": "Tekintsen le a lélegzetelállító Drac-szurdokba Európa egyik legmagasabb hídjáról, de rögzítse a laza tárgyakat, mivel a szél meglehetősen erős lehet.",
+            "ro": "Priviți în jos în uluitorul defileu Drac de pe unul dintre cele mai înalte poduri din Europa, dar asigurați-vă obiectele, deoarece vântul poate fi destul de puternic.",
+            "en": "Look down into the breathtaking Drac gorge from one of Europe's highest bridges, but secure loose items securely as the wind across the span can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Margareten-Kirche",
+            "hu": "Szent Margit-templom",
+            "ro": "Biserica Sfânta Margareta",
+            "en": "Saint Margaret's Church"
+          },
+          "coords": [
+            5.797551,
+            44.889773
+          ],
+          "category": "religious",
+          "arrive_at": "17:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit dem bescheidenen Charme und dem kunstvollen Mauerwerk dieser hübschen Dorfkirche; das weiche Abendlicht ist perfekt für Außenaufnahmen.",
+            "hu": "Zárja a napot ennek a kedves falusi templomnak a szerény bája és bonyolult kőművesmunkája megfigyelésével; az aranyóra fénye tökéletes a külső fotózáshoz.",
+            "ro": "Încheiați ziua observând farmecul modest și zidăria complexă a acestei minunate biserici de sat; lumina aurie creează condiții perfecte pentru fotografia de exterior.",
+            "en": "End your day observing the modest charm and intricate stonework of this lovely village church; the golden hour light creates perfect conditions for exterior photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt mit lokalem Erbe im Matheysin-Museum, gefolgt vom historischen Zug. Mittags bieten sich beeindruckende Ausblicke auf den türkisfarbenen Lac de Monteynard. Die Nachmittagsroute führt zum ruhigen Lac de Saint-Pierre-Cognet und den Höhen des Pont de Ponsonnas. Der Abend bricht friedlich an der historischen Sainte-Marguerite-Kirche herein.",
+        "hu": "A festői autózás a Matheysin Múzeum helyi örökségével kezdődik, melyet a történelmi kisvonat követ. A dél lenyűgöző kilátást nyújt a türkizkék Lac de Monteynard tónál. A délutáni útvonal a nyugodt Lac de Saint-Pierre-Cognet-hez és a Pont de Ponsonnas drámai magasságába vezet. Az este békésen ér véget a történelmi Sainte-Marguerite templomnál.",
+        "ro": "Excursia pitorească începe cu patrimoniul de la Muzeul Matheysin, urmat de trenulețul istoric. Prânzul aduce priveliști uimitoare la turcoazul Lac Monteynard. Traseul de după-amiază șerpuiește spre liniștitul Lac Saint-Pierre-Cognet și înălțimile dramatice ale Podului Ponsonnas. Seara se lasă liniștit peste istorica biserică Sainte-Marguerite.",
+        "en": "Your scenic drive begins with local heritage at the Matheysin Museum followed by the historic Little Train. Midday brings awe-inspiring vistas at the turquoise Lac de Monteynard. Your afternoon route winds to the tranquil Lac de Saint-Pierre-Cognet and the dramatic heights of Pont de Ponsonnas. Evening falls peacefully at the historic Sainte-Marguerite church."
+      }
+    }
+  }
+}

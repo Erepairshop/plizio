@@ -1,0 +1,451 @@
+{
+  "city_id": "city-kristiansand",
+  "anchor": {
+    "name": "Kristiansand",
+    "coords": [
+      7.9956,
+      58.1467
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Wergelandsparken",
+            "hu": "Wergelandsparken",
+            "ro": "Wergelandsparken",
+            "en": "Wergelandsparken"
+          },
+          "coords": [
+            7.995605,
+            58.146701
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser historischen grünen Oase umgeben von alten Holzhäusern und holen Sie sich einen Kaffee bei der nahen Bäckerei am Springbrunnen.",
+            "hu": "Pihenjen meg ebben a történelmi, fás oázisban a régi faházak között, és igyon egy kávét a közeli pékségből a gyönyörű szökőkút mellett üldögélve.",
+            "ro": "Relaxează-te în această oază verde istorică înconjurată de case vechi de lemn și ia o cafea de la brutăria din apropiere pentru a o savura la fântână.",
+            "en": "Relax in this historic green oasis surrounded by old wooden buildings, and grab a coffee at the nearby bakery to enjoy by the beautiful fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Kristiansand",
+            "hu": "Kristiansand Városháza",
+            "ro": "Primăria Kristiansand",
+            "en": "Kristiansand City Hall"
+          },
+          "coords": [
+            7.997024,
+            58.146731
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Rathauses mitten im historischen Zentrum und besuchen Sie die lokalen Kunstausstellungen in der großen Lobby.",
+            "hu": "Csodálja meg a városháza modern építészetét a történelmi központban, és lépjen be a tágas előtérbe, hogy megtekintse a helyi művészeti kiállításokat.",
+            "ro": "Admiră arhitectura modernă a primăriei în contrast cu centrul istoric și intră în holul principal pentru a viziona expozițiile de artă locală.",
+            "en": "Admire the striking modern architecture of the city hall set against the historic center, and step inside to view local art exhibits in the main lobby."
+          }
+        },
+        {
+          "name": {
+            "de": "Posebyen",
+            "hu": "Posebyen",
+            "ro": "Posebyen",
+            "en": "Posebyen"
+          },
+          "coords": [
+            7.998165,
+            58.148983
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch Nordeuropas längste zusammenhängende Reihe alter weißer Holzhäuser und bringen Sie Ihre Kamera für spektakuläre Nachmittagsfotos mit.",
+            "hu": "Sétáljon végig Észak-Európa leghosszabb összefüggő, régi fehér faházai között, és feltétlenül vigyen magával fényképezőgépet a varázslatos délutáni fényekhez.",
+            "ro": "Plimbă-te prin cel mai lung șir continuu de case vechi albe din lemn din nordul Europei și adu-ți camera pentru fotografii spectaculoase după-amiaza.",
+            "en": "Stroll through northern Europe's longest continuous row of old white wooden houses, and bring your camera for spectacular afternoon light photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Christiansholm",
+            "hu": "Christiansholm Erőd",
+            "ro": "Fortăreața Christiansholm",
+            "en": "Christiansholm Fortress"
+          },
+          "coords": [
+            8.003574,
+            58.144124
+          ],
+          "category": "fortress",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massive Festung aus dem 17. Jahrhundert am Hafen und spazieren Sie über die oberen Wälle, um den besten Panoramablick aufs Meer zu genießen.",
+            "hu": "Fedezze fel a kikötőt egykor védelmező, 17. századi hatalmas, kör alakú erődöt, és sétáljon végig a felső sáncokon a legjobb tengeri panorámáért.",
+            "ro": "Explorează fortăreața masivă din secolul al XVII-lea care proteja portul și plimbă-te pe metereze pentru a te bucura de cele mai bune vederi la mare.",
+            "en": "Explore the massive 17th-century circular fortress that once protected the harbor, and walk along the top ramparts for the best panoramic sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Bystranda",
+            "hu": "Bystranda",
+            "ro": "Bystranda",
+            "en": "Bystranda"
+          },
+          "coords": [
+            8.007349,
+            58.146
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem sauberen Stadtstrand mit feinem Sand und ruhigem Wasser, und kommen Sie an sonnigen Tagen früh, um einen Platz unter Palmen zu finden.",
+            "hu": "Kapcsolódjon ki ezen a tiszta vizű, fehér homokos városi strandon, és napsütéses napokon érkezzen korán, hogy biztosítson egy kényelmes helyet a pálmafáknál.",
+            "ro": "Relaxează-te la această plajă urbană cu ape calme și nisip alb și vino devreme în zilele însorite pentru a-ți asigura un loc bun lângă palmieri.",
+            "en": "Unwind at this pristine city beach offering calm waters and white sand, and arrive early on sunny days to secure a comfortable spot near the palm trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der üppigen Umgebung des Wergelandsparken und genießen Sie die lebendige Atmosphäre des Zentrums. Mittags lockt das Erbe von Kristiansand am Rathaus und den gut erhaltenen Holzhäusern von Posebyen. Tauchen Sie am Nachmittag an der massiven Festung Christiansholm in die maritime Geschichte ein. Beenden Sie den Tag entspannt am Wasser am schönen Stadtstrand Bystranda.",
+        "hu": "Kezdje a reggelt a Wergelandsparken zöldjében, felszívva a központ élénk hangulatát. Délben fedezze fel Kristiansand örökségét a feltűnő városházánál és a Posebyen faházainál. Délután merüljön el a tengerészeti történelemben a hatalmas Christiansholm erődnél tett látogatással. Zárja a napot a tengerparton pihenve, a lenyűgöző és nyugodt Bystranda homokján, élvezve a kora esti friss levegőt.",
+        "ro": "Începe dimineața în împrejurimile luxuriante din Wergelandsparken, bucurându-te de atmosfera vibrantă a centrului. La prânz, descoperă patrimoniul la Primărie și printre casele de lemn impecabile din Posebyen. După-amiaza, pătrunde în istoria maritimă la masiva fortăreață Christiansholm. Încheie-ți ziua relaxându-te la malul mării la Bystranda, ascultând valurile și admirând orizontul.",
+        "en": "Start your morning in the lush surroundings of Wergelandsparken, absorbing the vibrant atmosphere of the city center. Midday invites you to uncover Kristiansand’s heritage at the striking City Hall and the perfectly preserved wooden homes of Posebyen. In the afternoon, dive into maritime history exploring the massive Christiansholm festning. Conclude your day relaxing by the sea at Bystranda."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stener Heyerdahls Park",
+            "hu": "Stener Heyerdahls Park",
+            "ro": "Parcul Stener Heyerdahls",
+            "en": "Stener Heyerdahls Park"
+          },
+          "coords": [
+            7.992577,
+            58.149113
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und Skulpturen in diesem gepflegten Stadtpark und machen Sie eine Pause auf einer Bank, bevor Sie das Zentrum erkunden.",
+            "hu": "Élvezze a csendes hangulatot és a szép szobrokat ebben a gondozott városi parkban, megpihenve egy padon, mielőtt belevetné magát a nyüzsgő központba.",
+            "ro": "Bucură-te de atmosfera liniștită și de sculpturile din acest parc urban îngrijit, făcând o pauză pe o bancă înainte de a explora centrul plin de viață.",
+            "en": "Enjoy the tranquil atmosphere and beautiful sculptures in this manicured urban park, taking a quiet moment on a bench before exploring the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Posebyen",
+            "hu": "Posebyen",
+            "ro": "Posebyen",
+            "en": "Posebyen"
+          },
+          "coords": [
+            7.998165,
+            58.148983
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch Nordeuropas längste zusammenhängende Reihe alter weißer Holzhäuser und bringen Sie Ihre Kamera für spektakuläre Nachmittagsfotos mit.",
+            "hu": "Sétáljon végig Észak-Európa leghosszabb összefüggő, régi fehér faházai között, és feltétlenül vigyen magával fényképezőgépet a varázslatos délutáni fényekhez.",
+            "ro": "Plimbă-te prin cel mai lung șir continuu de case vechi albe din lemn din nordul Europei și adu-ți camera pentru fotografii spectaculoase după-amiaza.",
+            "en": "Stroll through northern Europe's longest continuous row of old white wooden houses, and bring your camera for spectacular afternoon light photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum Universität in Agder",
+            "hu": "Agderi Egyetem Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+            "en": "Natural History Museum University of Agder"
+          },
+          "coords": [
+            8.003637,
+            58.158973
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende regionale Flora und die Naturgeschichte, und beginnen Sie Ihren Besuch im bunten botanischen Garten für das beste Morgenlicht.",
+            "hu": "Fedezze fel a lenyűgöző regionális növényvilágot és a természettudományi kiállítást, és kezdje a látogatást a vibráló botanikus kertben a reggeli fényekért.",
+            "ro": "Descoperă flora regională fascinantă și exponatele de istorie naturală, începând vizita în grădina botanică pentru a profita de cea mai bună lumină matinală.",
+            "en": "Discover fascinating regional flora and engaging natural history exhibits, starting your visit in the vibrant botanical garden for the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Oddernes-Kirche",
+            "hu": "Oddernes Templom",
+            "ro": "Biserica Oddernes",
+            "en": "Oddernes Church"
+          },
+          "coords": [
+            8.013573,
+            58.159708
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bemerkenswerte mittelalterliche Steinkirche aus dem 11. Jahrhundert und betrachten Sie den historischen Runenstein direkt am Eingang.",
+            "hu": "Lépjen be ebbe a figyelemre méltó, 11. századi középkori kőtemplomba, és vegye szemügyre a közvetlenül a bejáratnál található történelmi rúnakövet.",
+            "ro": "Intră în această remarcabilă biserică medievală din piatră din secolul al XI-lea și privește cu atenție piatra runică istorică situată chiar lângă intrare.",
+            "en": "Step inside this remarkable medieval stone church dating back to the 11th century, and look closely at the historic runestone located right by the porch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lund-Kirche",
+            "hu": "Lund Templom",
+            "ro": "Biserica Lund",
+            "en": "Lund Church"
+          },
+          "coords": [
+            8.012024,
+            58.152571
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die minimalistische Nachkriegsarchitektur dieser markanten Betongemeinde und prüfen Sie vorab den Plan für ihre exzellenten Wochenendkonzerte.",
+            "hu": "Csodálja meg ennek a jellegzetes betonból készült templomnak a minimalista építészetét, és előre ellenőrizze a kiváló hétvégi koncertek menetrendjét.",
+            "ro": "Admiră arhitectura minimalistă postbelică a acestei biserici distincte din beton, verificând din timp programul pentru excelentele lor concerte de weekend.",
+            "en": "Marvel at the minimalist post-war architecture of this distinct concrete church, checking the local schedule in advance for their excellent weekend concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bystranda",
+            "hu": "Bystranda",
+            "ro": "Bystranda",
+            "en": "Bystranda"
+          },
+          "coords": [
+            8.007349,
+            58.146
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem sauberen Stadtstrand mit feinem Sand und ruhigem Wasser, und kommen Sie an sonnigen Tagen früh, um einen Platz unter Palmen zu finden.",
+            "hu": "Kapcsolódjon ki ezen a tiszta vizű, fehér homokos városi strandon, és napsütéses napokon érkezzen korán, hogy biztosítson egy kényelmes helyet a pálmafáknál.",
+            "ro": "Relaxează-te la această plajă urbană cu ape calme și nisip alb și vino devreme în zilele însorite pentru a-ți asigura un loc bun lângă palmieri.",
+            "en": "Unwind at this pristine city beach offering calm waters and white sand, and arrive early on sunny days to secure a comfortable spot near the palm trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Stener Heyerdahls Park, bevor Sie in die weißen historischen Straßen von Posebyen gleiten. Mittags radeln Sie nach Norden zu den botanischen Gärten und dem antiken Runenstein der Oddernes-Kirche. Der Nachmittag bietet architektonische Kontraste an der modernistischen Lund-Kirche. Beenden Sie die Fahrt mit einer erfrischenden Abendbrise am Strand von Bystranda.",
+        "hu": "Indítsa a kerékpártúrát a Stener Heyerdahls parkban, majd guruljon át Posebyen történelmi, fehérre meszelt utcáin. Délben tekerjen északra a botanikus kerthez és az Oddernes-templom ősi rúnakövéhez. A délután építészeti kontrasztokkal folytatódik a modernista Lund-templomnál. Fejezze be az utazást a Bystranda homokján, élvezve a frissítő, sós esti tengeri szellőt és a megnyugtató hullámokat.",
+        "ro": "Începe turul pe bicicletă la parcul Stener Heyerdahls înainte de a pedala prin străzile istorice din Posebyen. La prânz, mergi spre nord pentru a admira grădina botanică și piatra runică de la biserica Oddernes. După-amiaza continuă cu contrastul arhitectural al modernistei biserici Lund. Încheie plimbarea cu o briză răcoroasă de seară pe nisipul fin al plajei urbane Bystranda.",
+        "en": "Kick off your cycling tour at Stener Heyerdahls park before gliding into the historic, whitewashed streets of Posebyen. At midday, ride north to marvel at regional wonders in the botanical gardens and the ancient runestone of Oddernes kirke. Your afternoon continues with architectural contrast at the modernist Lund kirke. Finish the ride with a refreshing evening breeze on the sands of Bystranda."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 12.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wergelandsparken",
+            "hu": "Wergelandsparken",
+            "ro": "Wergelandsparken",
+            "en": "Wergelandsparken"
+          },
+          "coords": [
+            7.995605,
+            58.146701
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser historischen grünen Oase umgeben von alten Holzhäusern und holen Sie sich einen Kaffee bei der nahen Bäckerei am Springbrunnen.",
+            "hu": "Pihenjen meg ebben a történelmi, fás oázisban a régi faházak között, és igyon egy kávét a közeli pékségből a gyönyörű szökőkút mellett üldögélve.",
+            "ro": "Relaxează-te în această oază verde istorică înconjurată de case vechi de lemn și ia o cafea de la brutăria din apropiere pentru a o savura la fântână.",
+            "en": "Relax in this historic green oasis surrounded by old wooden buildings, and grab a coffee at the nearby bakery to enjoy by the beautiful fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturmuseum Universität in Agder",
+            "hu": "Agderi Egyetem Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+            "en": "Natural History Museum University of Agder"
+          },
+          "coords": [
+            8.003637,
+            58.158973
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende regionale Flora und die Naturgeschichte, und beginnen Sie Ihren Besuch im bunten botanischen Garten für das beste Morgenlicht.",
+            "hu": "Fedezze fel a lenyűgöző regionális növényvilágot és a természettudományi kiállítást, és kezdje a látogatást a vibráló botanikus kertben a reggeli fényekért.",
+            "ro": "Descoperă flora regională fascinantă și exponatele de istorie naturală, începând vizita în grădina botanică pentru a profita de cea mai bună lumină matinală.",
+            "en": "Discover fascinating regional flora and engaging natural history exhibits, starting your visit in the vibrant botanical garden for the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristiansand Museum",
+            "hu": "Kristiansand Múzeum",
+            "ro": "Muzeul Kristiansand",
+            "en": "Kristiansand Museum"
+          },
+          "coords": [
+            8.030896,
+            58.161562
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Reisen Sie in rekonstruierten historischen Straßen in die Vergangenheit und fragen Sie die Guides nach dem traditionellen Leben im typischen Setesdal-Hof.",
+            "hu": "Utazzon vissza az időben a rekonstruált történelmi utcákon és tanyákon, és kérdezze a szakértő túravezetőket a hagyományos Setesdal-udvar életéről.",
+            "ro": "Călătorește în timp pe străzile istorice reconstruite și întreabă ghizii experimentați despre viața autentică din curtea tradițională de tip Setesdal.",
+            "en": "Journey back in time through reconstructed historic streets and ancient farmsteads, asking the knowledgeable guides about life in the traditional Setesdal yard."
+          }
+        },
+        {
+          "name": {
+            "de": "Gillsvannet",
+            "hu": "Gillsvannet",
+            "ro": "Gillsvannet",
+            "en": "Gillsvannet"
+          },
+          "coords": [
+            8.021407,
+            58.188556
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entfliehen Sie zu diesem ruhigen See inmitten dichter Kiefernwälder und spazieren Sie auf den gut markierten Wegen, während Sie heimische Küstenvögel beobachten.",
+            "hu": "Meneküljön el ehhez a fenyőerdőkkel övezett, békés, természetes tóhoz, és sétáljon a jól jelzett ösvényeken, miközben az őshonos part menti madarakat figyeli.",
+            "ro": "Evadează la acest lac natural liniștit înconjurat de păduri dense de pini și plimbă-te pe traseele marcate în timp ce observi speciile de păsări de coastă.",
+            "en": "Escape to this serene natural lake surrounded by dense pine forests, and walk along the well-marked trails while watching for native coastal bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie Kuholmen",
+            "hu": "Kuholmen Üteg",
+            "ro": "Bateria Kuholmen",
+            "en": "Kuholmen Battery"
+          },
+          "coords": [
+            8.016425,
+            58.143234
+          ],
+          "category": "fortress",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die faszinierenden Verteidigungsruinen an der felsigen Küste und tragen Sie festes Schuhwerk, um sicher zwischen den Bunkern zu wandern.",
+            "hu": "Vizsgálja meg a sziklás partra néző lenyűgöző partvédelmi romokat, és viseljen masszív cipőt, hogy biztonságosan mozoghasson az egyenetlen terepen a bunkerek közt.",
+            "ro": "Examinează ruinele fascinante ale apărării de coastă și poartă încălțăminte solidă pentru a naviga în siguranță pe terenul denivelat dintre buncăre.",
+            "en": "Examine the fascinating coastal defense ruins overlooking the rocky shoreline, wearing sturdy shoes to safely navigate the uneven terrain between the bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Christiansholm",
+            "hu": "Christiansholm Erőd",
+            "ro": "Fortăreața Christiansholm",
+            "en": "Christiansholm Fortress"
+          },
+          "coords": [
+            8.003574,
+            58.144124
+          ],
+          "category": "fortress",
+          "arrive_at": "16:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massive Festung aus dem 17. Jahrhundert am Hafen und spazieren Sie über die oberen Wälle, um den besten Panoramablick aufs Meer zu genießen.",
+            "hu": "Fedezze fel a kikötőt egykor védelmező, 17. századi hatalmas, kör alakú erődöt, és sétáljon végig a felső sáncokon a legjobb tengeri panorámáért.",
+            "ro": "Explorează fortăreața masivă din secolul al XVII-lea care proteja portul și plimbă-te pe metereze pentru a te bucura de cele mai bune vederi la mare.",
+            "en": "Explore the massive 17th-century circular fortress that once protected the harbor, and walk along the top ramparts for the best panoramic sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Kristiansand zum Wergelandsparken für einen kurzen Spaziergang, bevor Sie das Naturkundemuseum der Universität besuchen. Verbringen Sie Ihren Mittag auf einer Zeitreise im beeindruckenden Freilichtmuseum von Kristiansand. Der Nachmittag lädt ans ruhige Ufer des Gillsvannet ein. Gegen Abend erkunden Sie die Küstenverteidigung am Kuholmen und enden an der Festung Christiansholm.",
+        "hu": "Autózzon be Kristiansandba, a Wergelandsparkenben kezdve, majd egy séta után irány az egyetem természettudományi kiállítása. A delet egy lenyűgöző időutazással töltheti a szabadtéri Kristiansand Múzeumban. A délután a természet szerelmeseit a Gillsvannet nyugodt partjaihoz hívja. Az este közeledtével fedezze fel Kuholmen partvédelmét, mielőtt megpihen a Christiansholm erődnél a tengerparton.",
+        "ro": "Conduci spre Kristiansand pornind de la Wergelandsparken, apoi îndreaptă-te spre expozițiile de istorie naturală ale universității. Petrece prânzul întorcându-te în timp la impresionantul muzeu în aer liber. După-amiaza invită iubitorii de natură pe malurile liniștite ale lacului Gillsvannet. Spre seară, explorează apărările de coastă la Kuholmen înainte de a te opri la Christiansholm.",
+        "en": "Drive into Kristiansand starting at Wergelandsparken, taking a short stroll before heading to the university’s natural history exhibits. Spend your midday stepping back in time at the impressive open-air Kristiansand Museum. The afternoon invites nature lovers to the tranquil shores of Gillsvannet. As evening approaches, trace coastal defenses at Kuholmen before resting at Christiansholm."
+      }
+    }
+  }
+}

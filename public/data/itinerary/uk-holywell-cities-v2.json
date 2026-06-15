@@ -1,0 +1,428 @@
+{
+  "city_id": "uk-holywell-cities-v2",
+  "anchor": {
+    "name": "Holywell",
+    "coords": [
+      -3.223,
+      53.274
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Holywell High Street",
+            "hu": "Holywell Fő utca",
+            "ro": "Holywell High Street",
+            "en": "Holywell High Street"
+          },
+          "coords": [
+            -3.222435,
+            53.273878
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie die belebte historische High Street entlang, wo Sie traditionelle walisische Architektur bewundern und sich einen Kaffee holen können.",
+            "hu": "Sétáljon végig a nyüzsgő történelmi Fő utcán, ahol megcsodálhatja a hagyományos walesi építészetet, miközben egy helyi kávéval indítja a napját.",
+            "ro": "Plimbați-vă pe High Street-ul istoric, unde puteți admira arhitectura tradițională galeză în timp ce savurați o cafea rapidă pentru a începe ziua.",
+            "en": "Stroll down the bustling historic High Street, where you can admire traditional Welsh architecture while grabbing a quick coffee from a local bakery to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St. James' Church",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica St. James",
+            "en": "St. James' Church"
+          },
+          "coords": [
+            -3.223272,
+            53.277969
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere der St. James' Church und nehmen Sie sich einen Moment der Ruhe.",
+            "hu": "Csodálja meg a Szent Jakab-templom gyönyörű ólomüveg ablakait és békés belső terét, egy pillanatnyi csendes elmélkedésre megállva a városban.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al Bisericii St. James, luându-vă un moment de reflecție tăcută înainte de a vă continua drumul.",
+            "en": "Marvel at the beautiful stained glass and peaceful interior of St. James' Church, taking a moment of quiet reflection before continuing your journey through town."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Winefride's Well",
+            "hu": "Szent Winefride-kút",
+            "ro": "Fântâna Sf. Winefride",
+            "en": "St. Winefride's Well"
+          },
+          "coords": [
+            -3.223311,
+            53.275109
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die legendären Heilwasser von St. Winefride's Well, oft als das Lourdes von Wales bezeichnet, und lesen Sie die Informationstafeln.",
+            "hu": "Fedezze fel Szent Winefride kútjának legendás gyógyító vizét, amelyet Wales Lourdes-ának is neveznek, és olvassa el a bejárat melletti táblákat.",
+            "ro": "Descoperiți apele vindecătoare legendare ale Fântânii Sf. Winefride, denumită adesea Lourdes de Wales, și nu uitați să citiți plăcile informative.",
+            "en": "Discover the legendary healing waters of St. Winefride's Well, often called the Lourdes of Wales, and remember to read the fascinating visitor plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat's Dyke",
+            "hu": "Wat's Dyke",
+            "ro": "Wat's Dyke",
+            "en": "Wat's Dyke"
+          },
+          "coords": [
+            -3.218144,
+            53.278052
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der antiken Erdwälle von Wat's Dyke, um frühmittelalterliche Geschichte hautnah zu erleben; tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon végig a Wat's Dyke ősi földművein, hogy testközelből tapasztalja meg a középkori történelmet, és viseljen masszív cipőt a terep miatt.",
+            "ro": "Plimbați-vă de-a lungul vechilor terasamente de la Wat's Dyke pentru a experimenta istoria medievală timpurie, purtând încălțăminte rezistentă.",
+            "en": "Walk along the ancient earthworks of Wat's Dyke to experience early medieval history firsthand, wearing sturdy shoes since the terrain can be quite uneven in places."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenfield Valley Heritage Park",
+            "hu": "Greenfield Valley Heritage Park",
+            "ro": "Parcul de Patrimoniu Greenfield Valley",
+            "en": "Greenfield Valley Heritage Park"
+          },
+          "coords": [
+            -3.2144,
+            53.2835
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch den Greenfield Valley Heritage Park mit seinen ruhigen Wäldern und Ruinen, aber bringen Sie Wasser mit.",
+            "hu": "Élvezze a pihentető sétát a zöldellő Greenfield Valley Heritage Parkban, felfedezve nyugodt erdeit és ipari romjait, de hozzon magával vizet.",
+            "ro": "Bucurați-vă de o plimbare prin Parcul de Patrimoniu Greenfield Valley, explorând pădurile liniștite și ruinele industriale, dar aduceți apă.",
+            "en": "Enjoy a relaxing walk through the verdant Greenfield Valley Heritage Park, exploring its tranquil woodlands and industrial ruins, but bring water as it covers a large area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Holywell und genießen Sie den Charme der High Street, bevor Sie die St. James' Church besuchen. Gegen Mittag erreichen Sie den berühmten St. Winefride's Well. Verbringen Sie den Nachmittag damit, den mittelalterlichen Wat's Dyke zu erkunden. Beenden Sie Ihre Tour mit einem friedlichen Abendspaziergang durch den Greenfield Valley Heritage Park.",
+        "hu": "Kezdje a reggelt Holywell szívében, élvezve a Fő utca varázsát, mielőtt meglátogatja a történelmi Szent Jakab-templomot. Délre eléri a híres Szent Winefride-kutat. A délutánt a középkori Wat's Dyke felfedezésével töltheti. Zárja a gyalogos túrát egy békés esti sétával a kiterjedt Greenfield Valley Heritage Park lenyűgöző és csendes, zöldellő környezetében.",
+        "ro": "Începeți dimineața în inima orașului Holywell, bucurându-vă de farmecul străzii principale înainte de a vizita Biserica istorică St. James. Până la prânz veți ajunge la faimoasa Fântână Sf. Winefride. Petreceți-vă după-amiaza explorând digul medieval Wat's Dyke. Încheiați-vă turul cu o plimbare liniștită de seară prin Parcul de Patrimoniu Greenfield Valley.",
+        "en": "Start your morning in the heart of Holywell, taking in the local charm of the High Street before visiting the historic St. James' Church. By midday, you'll reach the famous St. Winefride's Well, immersing yourself in local legends. Spend your afternoon tracing the medieval Wat's Dyke. Conclude your walking tour with a peaceful evening stroll through the expansive Greenfield Valley Heritage Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Holywell High Street",
+            "hu": "Holywell Fő utca",
+            "ro": "Holywell High Street",
+            "en": "Holywell High Street"
+          },
+          "coords": [
+            -3.222435,
+            53.273878
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie die belebte historische High Street entlang, wo Sie traditionelle walisische Architektur bewundern und sich einen Kaffee holen können.",
+            "hu": "Sétáljon végig a nyüzsgő történelmi Fő utcán, ahol megcsodálhatja a hagyományos walesi építészetet, miközben egy helyi kávéval indítja a napját.",
+            "ro": "Plimbați-vă pe High Street-ul istoric, unde puteți admira arhitectura tradițională galeză în timp ce savurați o cafea rapidă pentru a începe ziua.",
+            "en": "Stroll down the bustling historic High Street, where you can admire traditional Welsh architecture while grabbing a quick coffee from a local bakery to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Winefride's Well",
+            "hu": "Szent Winefride-kút",
+            "ro": "Fântâna Sf. Winefride",
+            "en": "St. Winefride's Well"
+          },
+          "coords": [
+            -3.223311,
+            53.275109
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die legendären Heilwasser von St. Winefride's Well, oft als das Lourdes von Wales bezeichnet, und lesen Sie die Informationstafeln.",
+            "hu": "Fedezze fel Szent Winefride kútjának legendás gyógyító vizét, amelyet Wales Lourdes-ának is neveznek, és olvassa el a bejárat melletti táblákat.",
+            "ro": "Descoperiți apele vindecătoare legendare ale Fântânii Sf. Winefride, denumită adesea Lourdes de Wales, și nu uitați să citiți plăcile informative.",
+            "en": "Discover the legendary healing waters of St. Winefride's Well, often called the Lourdes of Wales, and remember to read the fascinating visitor plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat's Dyke",
+            "hu": "Wat's Dyke",
+            "ro": "Wat's Dyke",
+            "en": "Wat's Dyke"
+          },
+          "coords": [
+            -3.218144,
+            53.278052
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der antiken Erdwälle von Wat's Dyke, um frühmittelalterliche Geschichte hautnah zu erleben; tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon végig a Wat's Dyke ősi földművein, hogy testközelből tapasztalja meg a középkori történelmet, és viseljen masszív cipőt a terep miatt.",
+            "ro": "Plimbați-vă de-a lungul vechilor terasamente de la Wat's Dyke pentru a experimenta istoria medievală timpurie, purtând încălțăminte rezistentă.",
+            "en": "Walk along the ancient earthworks of Wat's Dyke to experience early medieval history firsthand, wearing sturdy shoes since the terrain can be quite uneven in places."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenfield Valley Museum",
+            "hu": "Greenfield Valley Múzeum",
+            "ro": "Muzeul Greenfield Valley",
+            "en": "Greenfield Valley Museum"
+          },
+          "coords": [
+            -3.212194,
+            53.285774
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Greenfield Valley Museum in das industrielle Erbe ein, wo interaktive Exponate die Vergangenheit zum Leben erwecken.",
+            "hu": "Merüljön el a helyi ipari örökségben a Greenfield Valley Múzeumban, ahol interaktív kiállítások keltik életre a múltat.",
+            "ro": "Pătrundeți în patrimoniul industrial local la Muzeul Greenfield Valley, unde expozițiile interactive dau viață trecutului și istoriei.",
+            "en": "Dive into local industrial heritage at the Greenfield Valley Museum, where interactive exhibits bring the past to life, and be sure to check the daily demonstration schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenfield Valley Heritage Park",
+            "hu": "Greenfield Valley Heritage Park",
+            "ro": "Parcul de Patrimoniu Greenfield Valley",
+            "en": "Greenfield Valley Heritage Park"
+          },
+          "coords": [
+            -3.2144,
+            53.2835
+          ],
+          "category": "park",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch den Greenfield Valley Heritage Park mit seinen ruhigen Wäldern und Ruinen, aber bringen Sie Wasser mit.",
+            "hu": "Élvezze a pihentető sétát a zöldellő Greenfield Valley Heritage Parkban, felfedezve nyugodt erdeit és ipari romjait, de hozzon magával vizet.",
+            "ro": "Bucurați-vă de o plimbare prin Parcul de Patrimoniu Greenfield Valley, explorând pădurile liniștite și ruinele industriale, dar aduceți apă.",
+            "en": "Enjoy a relaxing walk through the verdant Greenfield Valley Heritage Park, exploring its tranquil woodlands and industrial ruins, but bring water as it covers a large area."
+          }
+        },
+        {
+          "name": {
+            "de": "Basingwerk Abbey",
+            "hu": "Basingwerk Apátság",
+            "ro": "Abația Basingwerk",
+            "en": "Basingwerk Abbey"
+          },
+          "coords": [
+            -3.20735,
+            53.288
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen der Basingwerk Abbey aus dem 12. Jahrhundert und versuchen Sie, am späten Nachmittag für Fotos hier zu sein.",
+            "hu": "Fedezze fel a 12. századi Basingwerk Apátság hangulatos romjait, elképzelve a szerzetesek életét, és látogasson el késő délután a fotókért.",
+            "ro": "Explorați ruinele atmosferice ale Abației Basingwerk din secolul al XII-lea, imaginându-vă viața călugărilor cistercieni și vizitați după-amiaza.",
+            "en": "Explore the atmospheric ruins of the 12th-century Basingwerk Abbey, imagining the lives of Cistercian monks, and try visiting late in the afternoon for stunning photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie nach einem Kaffee auf der High Street aus dem Zentrum hinaus und erreichen Sie die heiligen Gewässer von St. Winefride's Well. Mittags fahren Sie zum Wat's Dyke und zum Greenfield Valley Museum. Ihr Nachmittag führt Sie durch die grünen Wege des Heritage Parks. Beenden Sie Ihre Radtour mit der Erkundung der Überreste der Basingwerk Abbey.",
+        "hu": "Tekerjen ki a városközpontból a reggeli kávé után a Fő utcán, elérve Szent Winefride kútjának szent vizét. A dél egy energikus utat kínál a Wat's Dyke-hoz, majd a Múzeumhoz. A délután a Heritage Park zöld ösvényein folytatódik. Fejezze be kerékpáros útját a történelmi Basingwerk Apátság nagyszerű és inspiráló romjainak felfedezésével.",
+        "ro": "Porniți cu bicicleta din centrul orașului după o cafea, ajungând la apele sacre ale Fântânii Sf. Winefride. Prânzul oferă o plimbare energică către Wat's Dyke, urmată de Muzeul Greenfield Valley. După-amiaza continuă pe cărările verzi ale parcului de patrimoniu. Încheiați-vă călătoria explorând rămășițele mărețe ale Abației istorice Basingwerk.",
+        "en": "Pedal your way out of the town centre after a morning coffee on the High Street, reaching the sacred waters of St. Winefride's Well. Midday offers an energetic ride to Wat's Dyke followed by the fascinating Greenfield Valley Museum. Your afternoon continues through the Heritage Park's green paths. Finish your cycling journey exploring the grand remains of the historic Basingwerk Abbey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:35",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Holywell Leisure Centre",
+            "hu": "Holywell Szabadidőközpont",
+            "ro": "Centrul de Agrement Holywell",
+            "en": "Holywell Leisure Centre"
+          },
+          "coords": [
+            -3.223222,
+            53.272409
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Bad oder einem kurzen Training im modernen Holywell Leisure Centre vor den Sehenswürdigkeiten.",
+            "hu": "Indítsa a reggelt egy frissítő úszással vagy gyors edzéssel a modern Holywell Szabadidőközpontban, a városnézés megkezdése előtt.",
+            "ro": "Începeți dimineața cu o înot revigorant sau un antrenament rapid la modernul Centru de Agrement Holywell înainte de a vizita atracțiile.",
+            "en": "Start your morning with a refreshing swim or a quick workout at the modern Holywell Leisure Centre, utilizing their excellent community facilities before touring the sights."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Winefride's Well",
+            "hu": "Szent Winefride-kút",
+            "ro": "Fântâna Sf. Winefride",
+            "en": "St. Winefride's Well"
+          },
+          "coords": [
+            -3.223311,
+            53.275109
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die legendären Heilwasser von St. Winefride's Well, oft als das Lourdes von Wales bezeichnet, und lesen Sie die Informationstafeln.",
+            "hu": "Fedezze fel Szent Winefride kútjának legendás gyógyító vizét, amelyet Wales Lourdes-ának is neveznek, és olvassa el a bejárat melletti táblákat.",
+            "ro": "Descoperiți apele vindecătoare legendare ale Fântânii Sf. Winefride, denumită adesea Lourdes de Wales, și nu uitați să citiți plăcile informative.",
+            "en": "Discover the legendary healing waters of St. Winefride's Well, often called the Lourdes of Wales, and remember to read the fascinating visitor plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenfield Valley Museum",
+            "hu": "Greenfield Valley Múzeum",
+            "ro": "Muzeul Greenfield Valley",
+            "en": "Greenfield Valley Museum"
+          },
+          "coords": [
+            -3.212194,
+            53.285774
+          ],
+          "category": "museum",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Greenfield Valley Museum in das industrielle Erbe ein, wo interaktive Exponate die Vergangenheit zum Leben erwecken.",
+            "hu": "Merüljön el a helyi ipari örökségben a Greenfield Valley Múzeumban, ahol interaktív kiállítások keltik életre a múltat.",
+            "ro": "Pătrundeți în patrimoniul industrial local la Muzeul Greenfield Valley, unde expozițiile interactive dau viață trecutului și istoriei.",
+            "en": "Dive into local industrial heritage at the Greenfield Valley Museum, where interactive exhibits bring the past to life, and be sure to check the daily demonstration schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Basingwerk Abbey",
+            "hu": "Basingwerk Apátság",
+            "ro": "Abația Basingwerk",
+            "en": "Basingwerk Abbey"
+          },
+          "coords": [
+            -3.20735,
+            53.288
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen der Basingwerk Abbey aus dem 12. Jahrhundert und versuchen Sie, am späten Nachmittag für Fotos hier zu sein.",
+            "hu": "Fedezze fel a 12. századi Basingwerk Apátság hangulatos romjait, elképzelve a szerzetesek életét, és látogasson el késő délután a fotókért.",
+            "ro": "Explorați ruinele atmosferice ale Abației Basingwerk din secolul al XII-lea, imaginându-vă viața călugărilor cistercieni și vizitați după-amiaza.",
+            "en": "Explore the atmospheric ruins of the 12th-century Basingwerk Abbey, imagining the lives of Cistercian monks, and try visiting late in the afternoon for stunning photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Holywell Town Hall",
+            "hu": "Holywelli Városháza",
+            "ro": "Primăria Holywell",
+            "en": "Holywell Town Hall"
+          },
+          "coords": [
+            -3.133663,
+            53.249975
+          ],
+          "category": "civic",
+          "arrive_at": "13:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Holywell Town Hall zum Abschluss Ihres Tages und beachten Sie das traditionelle historische Mauerwerk.",
+            "hu": "A nap végén csodálja meg a Városháza klasszikus polgári építészetét, figyelve a hagyományos kőművesmunkára, amely tükrözi az örökséget.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei Holywell la sfârșitul zilei, remarcând zidăria tradițională care reflectă bogatul patrimoniu.",
+            "en": "Admire the classic civic architecture of the Holywell Town Hall as you conclude your day, noting the traditional stonework that perfectly reflects the region's rich heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem erfrischenden Start im Holywell Leisure Centre, bevor Sie zum historischen St. Winefride's Well fahren. Genießen Sie mittags das Greenfield Valley Museum. Der Nachmittag bringt Sie zu den majestätischen Ruinen der Basingwerk Abbey. Beenden Sie Ihren Tagesausflug, indem Sie nach Süden fahren, um das Holywell Town Hall zu bewundern.",
+        "hu": "Kezdje autós túráját egy frissítő indulással a Holywell Szabadidőközpontban, mielőtt a történelmi Szent Winefride-kúthoz hajtana. Élvezze a déli elmerülést a helyi történelemben a Greenfield Valley Múzeumban. A délután elviszi a Basingwerk Apátság romjaihoz. Zárja a napot délre autózva, hogy megcsodálja a Holywelli Városháza lenyűgöző polgári építészetét.",
+        "ro": "Începeți turul cu mașina la Centrul de Agrement Holywell înainte de a conduce rapid spre istorica Fântână Sf. Winefride. Bucurați-vă la prânz de istoria locală la Muzeul Greenfield Valley. După-amiaza vă aduce la ruinele maiestuoase ale Abației Basingwerk. Încheiați excursia conducând spre sud pentru a admira arhitectura Primăriei Holywell.",
+        "en": "Begin your driving tour with a refreshing start at the Holywell Leisure Centre before making a quick drive to the historic St. Winefride's Well. Enjoy a midday deep dive into local history at the Greenfield Valley Museum. The afternoon brings you to the majestic ruins of Basingwerk Abbey. Conclude your day trip by driving south to admire the impressive civic architecture of Holywell Town Hall."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "la-grande-motte",
+  "anchor": {
+    "name": "La Grande-Motte",
+    "coords": [
+      4.085,
+      43.5606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Augustin",
+            "hu": "Saint-Augustin templom",
+            "ro": "Biserica Saint-Augustin",
+            "en": "Saint-Augustin Church"
+          },
+          "coords": [
+            4.085001,
+            43.560382
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten parabolischen Kurven der Kirche, die die moderne Vision der Stadt widerspiegeln, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg a templom lenyűgöző parabolikus íveit, amelyek a város modern vízióját tükrözik, és lépjen be korán, hogy lássa a gyönyörű reggeli fényeket.",
+            "ro": "Admirați curbele parabolice ale bisericii care reflectă viziunea modernă a orașului și intrați devreme pentru a prinde lumina superbă a dimineții prin vitralii.",
+            "en": "Admire the church's striking parabolic curves which reflect the city's modern vision, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Fußgängerbrücke Saint-Jean",
+            "hu": "Saint-Jean gyaloghíd",
+            "ro": "Pasarela Saint-Jean",
+            "en": "Saint-Jean Footbridge"
+          },
+          "coords": [
+            4.084012,
+            43.563755
+          ],
+          "category": "civic",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese elegante Fußgängerbrücke, die verschiedene städtische Zonen verbindet, und halten Sie in der Mitte an, um tolle Fotos der Umgebung zu machen.",
+            "hu": "Sétáljon át ezen az elegáns gyaloghídon, amely kecsesen köti össze a városi zónákat, és álljon meg középen, hogy panorámaképeket készítsen a modern környezetről.",
+            "ro": "Traversați această pasarelă elegantă care conectează grațios zonele urbane și opriți-vă la mijloc pentru a face fotografii panoramice ale împrejurimilor moderniste.",
+            "en": "Walk across this elegant civic footbridge that gracefully connects different urban zones, and pause in the middle to take panoramic photos of the modernist surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cyber Station",
+            "hu": "Cyber Station",
+            "ro": "Cyber Station",
+            "en": "Cyber Station"
+          },
+          "coords": [
+            4.088804,
+            43.556763
+          ],
+          "category": "family",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen familienfreundlichen Erholungsort voller moderner Spiele und kommen Sie direkt nach dem Mittagessen, um den großen Menschenmassen auszuweichen.",
+            "hu": "Fedezze fel ezt a szórakoztató, családbarát kikapcsolódási helyet tele modern játékokkal, és érkezzen rögtön ebéd után, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Explorați acest loc de recreere ideal pentru familii, plin de jocuri moderne, și ajungeți imediat după prânz pentru a evita aglomerația și a prinde un loc bun.",
+            "en": "Explore this fun family-friendly recreation spot filled with modern games and activities, and arrive right after lunch to secure a prime spot before the crowds peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von La Grande-Motte",
+            "hu": "La Grande-Motte jachtkikötője",
+            "ro": "Portul de agrement La Grande-Motte",
+            "en": "Marina of La Grande-Motte"
+          },
+          "coords": [
+            4.093941,
+            43.556082
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie am Yachthafen entlang, um Luxusyachten vor pyramidenförmigen Gebäuden zu sehen, und genießen Sie einen Espresso in einem der lebhaften Cafés am Wasser.",
+            "hu": "Sétáljon a nyüzsgő kikötő mentén, nézze meg a luxusjachtokat a piramisépületek előtt, és igyon egy gyors eszpresszót egy vízparti kávézóban a jó hangulatért.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a vedea iahturi de lux încadrate de clădiri piramidale și savurați un espresso rapid la o cafenea pe malul apei.",
+            "en": "Stroll along the bustling marina to see luxury yachts framed by iconic pyramid buildings, and grab a quick espresso at a waterfront café to enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Point Zéro",
+            "hu": "Point Zéro",
+            "ro": "Point Zéro",
+            "en": "Point Zéro"
+          },
+          "coords": [
+            4.094616,
+            43.558324
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem zentralen Strand, der für seinen weichen Sand bekannt ist, und bringen Sie ein Handtuch mit, da die besten Liegeplätze schnell belegt sind.",
+            "hu": "Pihenjen ezen a központi strandon, amely finom homokjáról és nyüzsgő sétányáról híres, és hozzon saját törölközőt, mert a legjobb helyek korán betelnek.",
+            "ro": "Relaxați-vă pe această plajă centrală renumită pentru nisipul fin și promenada vibrantă, și aduceți-vă propriul prosop deoarece locurile bune se ocupă foarte devreme.",
+            "en": "Relax at this central recreational beach known for its soft sand and vibrant promenade, and bring your own towel as the best lounge spots fill up quite early."
+          }
+        },
+        {
+          "name": {
+            "de": "Azur Plage",
+            "hu": "Azur Plage",
+            "ro": "Azur Plage",
+            "en": "Azur Plage"
+          },
+          "coords": [
+            4.095421,
+            43.555143
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die exklusive Atmosphäre dieses Strandes mit tollem Blick auf das Mittelmeer und bleiben Sie bis zum späten Nachmittag für das beste goldene Licht.",
+            "hu": "Élvezze ezen a strandon az exkluzív hangulatot és a fantasztikus mediterrán kilátást, és maradjon késő délutánig, hogy megtapasztalja az aranyóra lélegzetelállító színeit.",
+            "ro": "Bucurați-vă de atmosfera exclusivistă a acestei plaje cu o vedere fantastică la Mediterană și rămâneți până târziu pentru a admira culorile uluitoare ale apusului.",
+            "en": "Enjoy the upscale atmosphere of this beach area which offers fantastic Mediterranean views, and stay until late afternoon to experience the breathtaking golden hour colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Zentrum der Architektur von La Grande-Motte, wo Sie die einzigartigen Formen der Kirche bewundern und über die Brücke schlendern.\n\nZur Mittagszeit genießen Sie die lebhafte Atmosphäre rund um die Cyber Station.\n\nAm Nachmittag führt Sie der Weg zum Yachthafen mit seinen luxuriösen Booten.\n\nBeenden Sie den Tag entspannt am Strand von Point Zéro und Azur Plage.",
+        "hu": "Kezdje a reggelt La Grande-Motte építészetének szívében, ahol megcsodálhatja a templomot és átsétálhat a gyaloghídon.\n\nDélben élvezze a nyüzsgő hangulatot a családbarát Cyber Station környékén.\n\nDélután az út a tengerparti kikötő felé vezet, ahol luxushajókat csodálhat meg.\n\nAz estét lazítva zárja a Point Zéro és az Azur Plage homokos partjain, élvezve a lemenő nap sugarait.",
+        "ro": "Începeți dimineața în centrul arhitectural al orașului La Grande-Motte, admirând biserica unică și plimbându-vă pe podul pietonal.\n\nLa prânz, bucurați-vă de atmosfera vibrantă din jurul Cyber Station.\n\nDupă-amiaza, drumul vă poartă spre portul plin de bărci luxoase și clădiri piramidale.\n\nÎncheiați seara relaxându-vă pe plajele Point Zéro și Azur Plage, sub razele blânde ale soarelui.",
+        "en": "Start the morning in the architectural heart of La Grande-Motte, admiring the unique church and strolling across the pedestrian bridge.\n\nAt midday, enjoy the lively atmosphere near the family-friendly Cyber Station.\n\nIn the afternoon, your path leads to the marina to marvel at the luxurious yachts.\n\nEnd the evening relaxing on the sandy shores of Point Zéro and Azur Plage under the sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de l'Or",
+            "hu": "Étang de l'Or",
+            "ro": "Étang de l'Or",
+            "en": "Étang de l'Or"
+          },
+          "coords": [
+            4.03056,
+            43.580945
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einzigartige Tierwelt an dieser riesigen Küstenlagune, einem Paradies für Vogelbeobachter, und bringen Sie ein Fernglas für die Flamingos mit.",
+            "hu": "Figyelje meg az egyedülálló vadvilágot ennél a hatalmas tengerparti lagúnánál, amely a madármegfigyelők paradicsoma, és hozzon távcsövet a flamingók megtekintéséhez.",
+            "ro": "Observați fauna sălbatică unică la această vastă lagună de coastă, un paradis pentru ornitologi, și aduceți binoclul pentru a vedea flamingo în habitatul lor.",
+            "en": "Observe the unique wildlife at this vast coastal lagoon, which is a paradise for birdwatchers, and bring binoculars to easily spot flamingos in their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Travers",
+            "hu": "Grand Travers",
+            "ro": "Grand Travers",
+            "en": "Grand Travers"
+          },
+          "coords": [
+            4.048623,
+            43.557403
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen weitläufigen Sandstrand abseits des dichten Zentrums und besuchen Sie ihn früh am Tag, um die friedliche Meeresbrise in Ruhe zu genießen.",
+            "hu": "Fedezze fel ezt a hatalmas homokos szakaszt, amely tökéletes tengerparti sétákhoz a zsúfolt központtól távol, és jöjjön kora reggel a békés tengeri szellőért.",
+            "ro": "Descoperiți această fâșie lungă de nisip perfectă pentru plimbări nesfârșite departe de centrul aglomerat, și veniți devreme pentru a vă bucura de briza mării.",
+            "en": "Discover this expansive sandy stretch perfect for endless beach walks away from the dense center, and visit early in the day to enjoy the most peaceful sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Couchant",
+            "hu": "Couchant strand",
+            "ro": "Plaja Couchant",
+            "en": "Couchant Beach"
+          },
+          "coords": [
+            4.07434,
+            43.55701
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spüren Sie den Sand an diesem beliebten Naturstrand mit exzellenten lokalen Annehmlichkeiten und mieten Sie vorab eine Sonnenliege für den perfekten Komfort.",
+            "hu": "Süllyessze lábujjait a homokba ezen a népszerű, kiváló helyi szolgáltatásokkal szegélyezett strandon, és béreljen előre napágyat a garantált kényelem érdekében.",
+            "ro": "Simțiți nisipul fin pe această plajă naturală populară plină de facilități excelente, și închiriați un șezlong în avans pentru a vă asigura un loc confortabil.",
+            "en": "Sink your toes into the sand at this popular natural shore lined with excellent local amenities, and rent a sunbed in advance to guarantee a comfortable relaxing spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rose des Sables",
+            "hu": "Rose des Sables",
+            "ro": "Rose des Sables",
+            "en": "Rose des Sables"
+          },
+          "coords": [
+            4.076817,
+            43.556719
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem schön gestalteten Erholungsort, der Natur und moderne Kunst verbindet, und nehmen Sie sich Zeit für die künstlerischen Bänke am Wasser.",
+            "hu": "Kapcsolódjon ki ebben a gyönyörűen parkosított pihenőhelyen, amely tökéletesen ötvözi a természetet a modern művészettel, és üljön le a vízparti művészi padokra.",
+            "ro": "Relaxați-vă în acest loc de recreere frumos amenajat, care îmbină natura cu arta modernă, și luați-vă un moment pentru a vă așeza pe băncile artistice de la apă.",
+            "en": "Unwind in this beautifully landscaped recreational spot that perfectly blends nature with modern art, and take a moment to sit on the artistic benches near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Augustin",
+            "hu": "Saint-Augustin templom",
+            "ro": "Biserica Saint-Augustin",
+            "en": "Saint-Augustin Church"
+          },
+          "coords": [
+            4.085001,
+            43.560382
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten parabolischen Kurven der Kirche, die die moderne Vision der Stadt widerspiegeln, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg a templom lenyűgöző parabolikus íveit, amelyek a város modern vízióját tükrözik, és lépjen be korán, hogy lássa a gyönyörű reggeli fényeket.",
+            "ro": "Admirați curbele parabolice ale bisericii care reflectă viziunea modernă a orașului și intrați devreme pentru a prinde lumina superbă a dimineții prin vitralii.",
+            "en": "Admire the church's striking parabolic curves which reflect the city's modern vision, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von La Grande-Motte",
+            "hu": "La Grande-Motte jachtkikötője",
+            "ro": "Portul de agrement La Grande-Motte",
+            "en": "Marina of La Grande-Motte"
+          },
+          "coords": [
+            4.093941,
+            43.556082
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie am Yachthafen entlang, um Luxusyachten vor pyramidenförmigen Gebäuden zu sehen, und genießen Sie einen Espresso in einem der lebhaften Cafés am Wasser.",
+            "hu": "Sétáljon a nyüzsgő kikötő mentén, nézze meg a luxusjachtokat a piramisépületek előtt, és igyon egy gyors eszpresszót egy vízparti kávézóban a jó hangulatért.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a vedea iahturi de lux încadrate de clădiri piramidale și savurați un espresso rapid la o cafenea pe malul apei.",
+            "en": "Stroll along the bustling marina to see luxury yachts framed by iconic pyramid buildings, and grab a quick espresso at a waterfront café to enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Point Zéro",
+            "hu": "Point Zéro",
+            "ro": "Point Zéro",
+            "en": "Point Zéro"
+          },
+          "coords": [
+            4.094616,
+            43.558324
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem zentralen Strand, der für seinen weichen Sand bekannt ist, und bringen Sie ein Handtuch mit, da die besten Liegeplätze schnell belegt sind.",
+            "hu": "Pihenjen ezen a központi strandon, amely finom homokjáról és nyüzsgő sétányáról híres, és hozzon saját törölközőt, mert a legjobb helyek korán betelnek.",
+            "ro": "Relaxați-vă pe această plajă centrală renumită pentru nisipul fin și promenada vibrantă, și aduceți-vă propriul prosop deoarece locurile bune se ocupă foarte devreme.",
+            "en": "Relax at this central recreational beach known for its soft sand and vibrant promenade, and bring your own towel as the best lounge spots fill up quite early."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens am idyllischen Étang de l'Or, ideal für Naturliebhaber und Radfahrer in der frischen Morgenluft.\n\nRadeln Sie mittags weiter entlang der ausgedehnten Strände des Grand Travers und Couchant.\n\nNachmittags erkunden Sie nach einer Pause am Rose des Sables die Architektur der Innenstadt.\n\nDer Abend endet im pulsierenden Yachthafen und am Point Zéro bei einem Sonnenuntergang.",
+        "hu": "Induljon reggel az idilli Étang de l'Or mellől, amely tökéletes a természet kedvelőinek és a friss levegőn kerékpározóknak.\n\nDélben kerekezzen tovább a Grand Travers és Couchant hosszú strandjai mentén.\n\nDélután a Rose des Sables pihenője után fedezze fel a belváros ikonikus építészetét.\n\nAz este a nyüzsgő kikötőben és a Point Zéro partján ér véget a gyönyörű naplemente kíséretében.",
+        "ro": "Porniți dimineața de la idilicul Étang de l'Or, perfect pentru iubitorii de natură și cicliști în aerul proaspăt.\n\nLa prânz, pedalați de-a lungul plajelor întinse Grand Travers și Couchant.\n\nDupă-amiaza, în urma unei pauze la Rose des Sables, explorați arhitectura marcantă a centrului.\n\nSeara se încheie în portul animat și la Point Zéro, admirând un apus de soare superb pe malul mării.",
+        "en": "Start the morning at the idyllic Étang de l'Or, perfect for nature lovers and cycling in the fresh morning air.\n\nAt midday, pedal along the expansive beaches of Grand Travers and Couchant.\n\nIn the afternoon, after a break at Rose des Sables, explore the striking architecture of the city center.\n\nThe evening ends at the vibrant marina and Point Zéro, enjoying a beautiful seaside sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de l'Or",
+            "hu": "Étang de l'Or",
+            "ro": "Étang de l'Or",
+            "en": "Étang de l'Or"
+          },
+          "coords": [
+            4.03056,
+            43.580945
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einzigartige Tierwelt an dieser riesigen Küstenlagune, einem Paradies für Vogelbeobachter, und bringen Sie ein Fernglas für die Flamingos mit.",
+            "hu": "Figyelje meg az egyedülálló vadvilágot ennél a hatalmas tengerparti lagúnánál, amely a madármegfigyelők paradicsoma, és hozzon távcsövet a flamingók megtekintéséhez.",
+            "ro": "Observați fauna sălbatică unică la această vastă lagună de coastă, un paradis pentru ornitologi, și aduceți binoclul pentru a vedea flamingo în habitatul lor.",
+            "en": "Observe the unique wildlife at this vast coastal lagoon, which is a paradise for birdwatchers, and bring binoculars to easily spot flamingos in their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Travers",
+            "hu": "Grand Travers",
+            "ro": "Grand Travers",
+            "en": "Grand Travers"
+          },
+          "coords": [
+            4.048623,
+            43.557403
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen weitläufigen Sandstrand abseits des dichten Zentrums und besuchen Sie ihn früh am Tag, um die friedliche Meeresbrise in Ruhe zu genießen.",
+            "hu": "Fedezze fel ezt a hatalmas homokos szakaszt, amely tökéletes tengerparti sétákhoz a zsúfolt központtól távol, és jöjjön kora reggel a békés tengeri szellőért.",
+            "ro": "Descoperiți această fâșie lungă de nisip perfectă pentru plimbări nesfârșite departe de centrul aglomerat, și veniți devreme pentru a vă bucura de briza mării.",
+            "en": "Discover this expansive sandy stretch perfect for endless beach walks away from the dense center, and visit early in the day to enjoy the most peaceful sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Échirolles",
+            "hu": "Échirolles",
+            "ro": "Échirolles",
+            "en": "Échirolles"
+          },
+          "coords": [
+            4.059208,
+            43.557746
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in diesem schönen grünen Erholungsgebiet, das an heißen Tagen Schatten bietet, und bringen Sie Snacks für ein ruhiges Picknick am Mittag mit.",
+            "hu": "Frissüljön fel ebben a szép zöld pihenőövezetben, amely kiváló árnyékot nyújt a forró napokon, és hozzon vizet meg harapnivalót egy csendes déli piknikhez.",
+            "ro": "Răcoriți-vă în această zonă verde minunată care oferă umbră excelentă în zilele toride, și aduceți apă și gustări pentru a vă bucura de un picnic liniștit.",
+            "en": "Refresh yourself in this lovely green recreation area that offers excellent shade during hot days, and bring some water and snacks to fully enjoy a quiet midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf",
+            "hu": "Minigolf",
+            "ro": "Minigolf",
+            "en": "Mini-Golf"
+          },
+          "coords": [
+            4.069086,
+            43.561435
+          ],
+          "category": "family",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer spaßigen Partie auf diesem kreativ gestalteten Minigolfplatz heraus und kommen Sie am späten Vormittag, um Wartezeiten zu vermeiden.",
+            "hu": "Hívja ki a családját egy jó játékra ezen a kreatívan kialakított minigolfpályán a városban, és érkezzen késő délelőtt, hogy kevesebbet kelljen várni az egyes lyukaknál.",
+            "ro": "Provocați-vă familia la o partidă distractivă pe acest teren de minigolf creativ din oraș, și ajungeți dimineața târziu pentru a prinde cozi mai mici la fiecare gaură.",
+            "en": "Challenge your family to a fun game at this creatively designed mini-golf course in the city, and arrive in the late morning to enjoy shorter lines at each colorful hole."
+          }
+        },
+        {
+          "name": {
+            "de": "Couchant",
+            "hu": "Couchant",
+            "ro": "Couchant",
+            "en": "Couchant"
+          },
+          "coords": [
+            4.067988,
+            43.557427
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses dynamische Küstenviertel voller lebendiger Geschäfte und Cafés, und probieren Sie ein lokales Eis, während Sie die Boote vorbeifahren sehen.",
+            "hu": "Barangoljon ebben a dinamikus tengerparti negyedben, amely tele van nyüzsgő üzletekkel, és kóstoljon meg egy helyi fagyit, miközben nézi a parton elhaladó hajókat.",
+            "ro": "Plimbați-vă prin acest cartier de coastă dinamic, plin de magazine și cafenele vibrante, și încercați o înghețată locală în timp ce priviți bărcile trecând pe lângă țărm.",
+            "en": "Wander through this dynamic seaside neighborhood full of vibrant shops and cafes, and try a locally made ice cream cone while watching the boats pass by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Augustin",
+            "hu": "Saint-Augustin templom",
+            "ro": "Biserica Saint-Augustin",
+            "en": "Saint-Augustin Church"
+          },
+          "coords": [
+            4.085001,
+            43.560382
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten parabolischen Kurven der Kirche, die die moderne Vision der Stadt widerspiegeln, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg a templom lenyűgöző parabolikus íveit, amelyek a város modern vízióját tükrözik, és lépjen be korán, hogy lássa a gyönyörű reggeli fényeket.",
+            "ro": "Admirați curbele parabolice ale bisericii care reflectă viziunea modernă a orașului și intrați devreme pentru a prinde lumina superbă a dimineții prin vitralii.",
+            "en": "Admire the church's striking parabolic curves which reflect the city's modern vision, and step inside early to catch the beautiful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von La Grande-Motte",
+            "hu": "La Grande-Motte jachtkikötője",
+            "ro": "Portul de agrement La Grande-Motte",
+            "en": "Marina of La Grande-Motte"
+          },
+          "coords": [
+            4.093941,
+            43.556082
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie am Yachthafen entlang, um Luxusyachten vor pyramidenförmigen Gebäuden zu sehen, und genießen Sie einen Espresso in einem der lebhaften Cafés am Wasser.",
+            "hu": "Sétáljon a nyüzsgő kikötő mentén, nézze meg a luxusjachtokat a piramisépületek előtt, és igyon egy gyors eszpresszót egy vízparti kávézóban a jó hangulatért.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a vedea iahturi de lux încadrate de clădiri piramidale și savurați un espresso rapid la o cafenea pe malul apei.",
+            "en": "Stroll along the bustling marina to see luxury yachts framed by iconic pyramid buildings, and grab a quick espresso at a waterfront café to enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Point Zéro",
+            "hu": "Point Zéro",
+            "ro": "Point Zéro",
+            "en": "Point Zéro"
+          },
+          "coords": [
+            4.094616,
+            43.558324
+          ],
+          "category": "recreational",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem zentralen Strand, der für seinen weichen Sand bekannt ist, und bringen Sie ein Handtuch mit, da die besten Liegeplätze schnell belegt sind.",
+            "hu": "Pihenjen ezen a központi strandon, amely finom homokjáról és nyüzsgő sétányáról híres, és hozzon saját törölközőt, mert a legjobb helyek korán betelnek.",
+            "ro": "Relaxați-vă pe această plajă centrală renumită pentru nisipul fin și promenada vibrantă, și aduceți-vă propriul prosop deoarece locurile bune se ocupă foarte devreme.",
+            "en": "Relax at this central recreational beach known for its soft sand and vibrant promenade, and bring your own towel as the best lounge spots fill up quite early."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens bequem zum Étang de l'Or und Grand Travers, wo Sie viel Platz und Natur am Wasser genießen können.\n\nBesuchen Sie mittags das Freizeitgebiet Échirolles und spielen Sie eine Runde Minigolf mit der Familie.\n\nNachmittags parken Sie im Zentrum, um die Kirche und das lebendige Viertel Couchant zu erkunden.\n\nSchließen Sie den Abend mit einem Spaziergang am Yachthafen ab.",
+        "hu": "Reggel autózzon kényelmesen az Étang de l'Or és a Grand Travers felé, ahol hatalmas terek és természet várja a vízparton.\n\nDélben látogasson el Échirolles területére, és játsszon egy kört a minigolfpályán.\n\nDélután parkoljon le a központban, hogy felfedezze a templomot és a Couchant negyedet.\n\nZárja az estét egy kellemes, hangulatos sétával a jachtkikötőben és a Point Zéro homokos partjánál.",
+        "ro": "Conduceți confortabil dimineața spre Étang de l'Or și Grand Travers, unde vă puteți bucura de spațiu și natură.\n\nLa prânz, vizitați zona Échirolles și jucați o rundă de minigolf cu familia.\n\nDupă-amiaza, parcați în centru pentru a explora biserica și cartierul plin de viață Couchant.\n\nÎncheiați seara cu o plimbare relaxantă prin portul pitoresc și pe plaja Point Zéro de la malul mării.",
+        "en": "Drive comfortably in the morning to Étang de l'Or and Grand Travers, where you can enjoy wide open spaces and coastal nature.\n\nAt midday, visit the Échirolles recreation area and play a round of mini-golf with the family.\n\nIn the afternoon, park in the center to explore the church and the lively Couchant district.\n\nFinish the evening with a relaxing walk around the marina and the Point Zéro beach."
+      }
+    }
+  }
+}

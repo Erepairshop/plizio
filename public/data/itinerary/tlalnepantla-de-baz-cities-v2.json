@@ -1,0 +1,428 @@
+{
+  "city_id": "tlalnepantla-de-baz-cities-v2",
+  "anchor": {
+    "name": "Tlalnepantla de Baz",
+    "coords": [
+      -99.1953,
+      19.5367
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 2.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de la cultura y las artes José Emilio Pacheco",
+            "hu": "Centro de la cultura y las artes José Emilio Pacheco",
+            "ro": "Centro de la cultura y las artes José Emilio Pacheco",
+            "en": "Centro de la cultura y las artes José Emilio Pacheco"
+          },
+          "coords": [
+            -99.195708,
+            19.536442
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie wechselnde zeitgenössische Ausstellungen in diesem lebhaften Kulturzentrum und fragen Sie frühzeitig nach kostenlosen Tickets.",
+            "hu": "Fedezze fel a forgó kortárs kiállításokat ebben a nyüzsgő kulturális központban, és érdeklődjön korán az ingyenes esti jegyekről.",
+            "ro": "Explorați expozițiile contemporane în acest centru cultural vibrant și întrebați din timp la recepție despre bilete gratuite pentru seară.",
+            "en": "Explore rotating contemporary exhibits inside this vibrant cultural center and check the front desk early for free evening event tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Eugenia Leon",
+            "hu": "Teatro Eugenia Leon",
+            "ro": "Teatro Eugenia Leon",
+            "en": "Teatro Eugenia Leon"
+          },
+          "coords": [
+            -99.19301,
+            19.536555
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses wichtigen lokalen Theaters, aber buchen Sie Ihre Vorstellungstickets unbedingt weit im Voraus online.",
+            "hu": "Csodálja meg e fontos helyi színház modern építészetét, de ne felejtse el jó előre online lefoglalni a jegyeket az előadásokra.",
+            "ro": "Admirați arhitectura modernă a acestui important teatru local, dar asigurați-vă că rezervați biletele online cu mult timp înainte.",
+            "en": "Admire the modern architecture of this important local theater, but be sure to book your performance tickets well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Algarabia",
+            "hu": "Teatro Algarabia",
+            "ro": "Teatro Algarabia",
+            "en": "Teatro Algarabia"
+          },
+          "coords": [
+            -99.194711,
+            19.536846
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Open-Air-Atmosphäre dieses zentralen Amphitheaters und bringen Sie eine leichte Jacke mit, da es nachmittags windig wird.",
+            "hu": "Élvezze a központi amfiteátrum szabadtéri hangulatát, és hozzon egy könnyű kabátot, mivel a késő délutáni műsorok alatt gyakran szeles az idő.",
+            "ro": "Bucurați-vă de ambianța în aer liber a acestui amfiteatru central și aduceți o jachetă ușoară, deoarece devine adesea răcoros după-amiaza.",
+            "en": "Enjoy the open-air ambiance of this central amphitheater, and bring a light jacket as it often gets breezy during late afternoon shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Centenario",
+            "hu": "Teatro Centenario",
+            "ro": "Teatro Centenario",
+            "en": "Teatro Centenario"
+          },
+          "coords": [
+            -99.204339,
+            19.538679
+          ],
+          "category": "cultural",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie hier Tlalnepantlas großartigste Aufführungen; wenn Sie 30 Minuten vor der Show eintreffen, sichern Sie sich den besten Parkplatz.",
+            "hu": "Tekintse meg Tlalnepantla legnagyszerűbb előadásait itt; ha 30 perccel a kezdés előtt érkezik, biztosan megtalálja a legjobb parkolóhelyet.",
+            "ro": "Prindeți un crâmpei din cele mai grandioase spectacole aici; ajungând cu 30 de minute mai devreme vă asigurați cel mai bun loc de parcare.",
+            "en": "Catch a glimpse of Tlalnepantla's grandest performances here; arriving 30 minutes before the show ensures you find the best parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sor Juana Ines de la Cruz",
+            "hu": "Sor Juana Ines de la Cruz",
+            "ro": "Sor Juana Ines de la Cruz",
+            "en": "Sor Juana Ines de la Cruz"
+          },
+          "coords": [
+            -99.211968,
+            19.540228
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zollen Sie dieser historischen Statue der berühmten Dichterin Respekt, ein idealer Ort für ein schnelles Foto beim Erkunden der Alleen.",
+            "hu": "Tisztelegjen a híres költőnőnek szentelt történelmi szobor előtt, amely ideális hely egy gyors fotóhoz a forgalmas utak felfedezése közben.",
+            "ro": "Aduceți un omagiu la această statuie dedicată faimoasei poete, un loc ideal pentru o fotografie rapidă în timp ce explorați bulevardele.",
+            "en": "Pay your respects at this historical statue dedicated to the famous poet, an ideal spot for a quick photo while exploring the busy avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "obelisco",
+            "hu": "obelisco",
+            "ro": "obelisco",
+            "en": "obelisco"
+          },
+          "coords": [
+            -99.21321,
+            19.540635
+          ],
+          "category": "historical",
+          "arrive_at": "14:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem hoch aufragenden lokalen Denkmal, das die historische Entwicklung der Stadt markiert und abends perfekt beleuchtet ist.",
+            "hu": "Szánjon egy percet erre a magasba törő helyi emlékműre, amely a város történelmi fejlődését jelzi, és esténként tökéletes kivilágítást kap.",
+            "ro": "Luați-vă un moment la acest monument falnic care marchează evoluția istorică a orașului, perfect iluminat pe măsură ce se apropie seara.",
+            "en": "Take a moment at this towering local monument that marks the city's historical evolution, perfectly illuminated as the evening approaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Tlalnepantla beginnt am Centro de la Cultura und gibt einen künstlerischen Ton für den Tag an. \nZur Mittagszeit schlendern Sie an den Theatern Eugenia Leon und Algarabia vorbei. \nAm Nachmittag dehnt sich der Spaziergang nach Westen zum beeindruckenden Teatro Centenario aus, um dessen Größe zu bewundern. \nBeenden Sie Ihren Abend, indem Sie die historischen Denkmäler besichtigen und die Sor Juana Statue und den beleuchteten Obelisken bewundern.",
+        "hu": "A Tlalnepantla-i gyalogtúra a Centro de la Cultura-nál kezdődik, művészi alaphangot adva a napnak. \nDélben egy színházközpontú séta következik, elsétálva a Teatro Eugenia Leon és a Teatro Algarabia mellett. \nDélután a séta tovább nyúlik nyugat felé a lenyűgöző Teatro Centenario felé. \nZárja az estét a történelmi emlékművek megtekintésével, megcsodálva a Sor Juana szobrot és a kivilágított Obeliscót, miközben a város lecsendesedik.",
+        "ro": "Turul pietonal din Tlalnepantla începe la Centro de la Cultura, stabilind un ton artistic. \nLa prânz veți face o plimbare axată pe teatru, trecând pe lângă Teatro Eugenia Leon și Teatro Algarabia. \nDupă-amiaza, plimbarea se extinde spre vest către impresionantul Teatro Centenario pentru a-i aprecia grandoarea. \nÎncheiați-vă seara admirând monumentele istorice, statuia Sor Juana și Obeliscul iluminat pe măsură ce orașul se liniștește.",
+        "en": "Your walking tour of Tlalnepantla starts at the Centro de la Cultura, setting an artistic tone for the day. \nMidday brings a theater-focused stroll, wandering past both Teatro Eugenia Leon and Teatro Algarabia. \nIn the afternoon, the walk stretches further west toward the impressive Teatro Centenario to appreciate its grand scale. \nConclude your evening by taking in the historical monuments, admiring the Sor Juana statue and the illuminated Obelisco as the city winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pirámide de Tenayuca",
+            "hu": "Pirámide de Tenayuca",
+            "ro": "Pirámide de Tenayuca",
+            "en": "Pirámide de Tenayuca"
+          },
+          "coords": [
+            -99.168535,
+            19.532097
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Schlangenskulpturen am Fuß dieser alten Aztekenpyramide und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Csodálja meg az ősi azték piramis lábánál sorakozó kígyószobrokat, és viseljen masszív cipőt az egyenetlen ösvényeken való biztonságos sétához.",
+            "ro": "Minunați-vă de sculpturile de șerpi de la baza acestei piramide aztece și purtați încălțăminte rezistentă pentru a naviga pe aleile inegale.",
+            "en": "Marvel at the serpent sculptures lining the base of this ancient Aztec pyramid, and wear sturdy shoes to safely navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Tenayuca II",
+            "hu": "Tenayuca II",
+            "ro": "Tenayuca II",
+            "en": "Tenayuca II"
+          },
+          "coords": [
+            -99.169192,
+            19.534962
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die oft übersehenen sekundären Ruinen nur einen kurzen Spaziergang entfernt; bringen Sie Ihr eigenes Wasser in diesen ruhigen Bereich mit.",
+            "hu": "Fedezze fel a gyakran figyelmen kívül hagyott másodlagos romokat egy rövid sétára; hozzon saját vizet, mivel ezen a csendes részen kevesebb a szolgáltatás.",
+            "ro": "Descoperiți ruinele secundare deseori trecute cu vederea la o scurtă plimbare; aduceți propria apă, deoarece sunt puține facilități aici.",
+            "en": "Discover the often-overlooked secondary ruins just a short walk away; bring your own water as there are fewer amenities in this quiet section."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de la cultura y las artes José Emilio Pacheco",
+            "hu": "Centro de la cultura y las artes José Emilio Pacheco",
+            "ro": "Centro de la cultura y las artes José Emilio Pacheco",
+            "en": "Centro de la cultura y las artes José Emilio Pacheco"
+          },
+          "coords": [
+            -99.195708,
+            19.536442
+          ],
+          "category": "cultural",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie wechselnde zeitgenössische Ausstellungen in diesem lebhaften Kulturzentrum und fragen Sie frühzeitig nach kostenlosen Tickets.",
+            "hu": "Fedezze fel a forgó kortárs kiállításokat ebben a nyüzsgő kulturális központban, és érdeklődjön korán az ingyenes esti jegyekről.",
+            "ro": "Explorați expozițiile contemporane în acest centru cultural vibrant și întrebați din timp la recepție despre bilete gratuite pentru seară.",
+            "en": "Explore rotating contemporary exhibits inside this vibrant cultural center and check the front desk early for free evening event tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Algarabia",
+            "hu": "Teatro Algarabia",
+            "ro": "Teatro Algarabia",
+            "en": "Teatro Algarabia"
+          },
+          "coords": [
+            -99.194711,
+            19.536846
+          ],
+          "category": "cultural",
+          "arrive_at": "13:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Open-Air-Atmosphäre dieses zentralen Amphitheaters und bringen Sie eine leichte Jacke mit, da es nachmittags windig wird.",
+            "hu": "Élvezze a központi amfiteátrum szabadtéri hangulatát, és hozzon egy könnyű kabátot, mivel a késő délutáni műsorok alatt gyakran szeles az idő.",
+            "ro": "Bucurați-vă de ambianța în aer liber a acestui amfiteatru central și aduceți o jachetă ușoară, deoarece devine adesea răcoros după-amiaza.",
+            "en": "Enjoy the open-air ambiance of this central amphitheater, and bring a light jacket as it often gets breezy during late afternoon shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque viveros",
+            "hu": "Parque viveros",
+            "ro": "Parque viveros",
+            "en": "Parque viveros"
+          },
+          "coords": [
+            -99.219368,
+            19.530665
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Stadtpark, umgeben von üppigen Baumschulen, der perfekte Ort für ein ruhiges Nachmittagspicknick.",
+            "hu": "Pihenjen ebben a kiterjedt városi parkban, amelyet buja faiskolák vesznek körül, így tökéletes, nyugodt menedéket nyújt egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în acest parc urban vast înconjurat de pepiniere luxuriante, o evadare liniștită perfectă pentru un picnic de după-amiază.",
+            "en": "Relax in this expansive urban park surrounded by lush plant nurseries, making it the perfect tranquil escape for an afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das morgendliche Radeln beginnt an der alten Pirámide de Tenayuca und bietet einen Einblick in die prähispanische Geschichte. \nMittags radeln Sie zu den sekundären Ruinen von Tenayuca II, bevor Sie ins lebhafte Stadtzentrum fahren. \nDer Nachmittag bringt Sie zum lebendigen Teatro Algarabia, wo Sie die Atmosphäre genießen. \nSie beenden die Fahrt mit einer Fahrt zum Parque Viveros, einem üppigen grünen Rückzugsort zum Entspannen am Abend.",
+        "hu": "A reggeli kerékpározás az ősi Pirámide de Tenayucánál kezdődik, bepillantást engedve a prehispán történelembe. \nDélben a Tenayuca II romjaihoz teker, mielőtt a nyüzsgő városközpontba indulna egy kis kultúráért. \nA délután a vibráló Teatro Algarabiához vezet, élvezve a nyitott terek élénk hangulatát. \nAz utazást a Parque Viveros felé gurulva fejezi be, amely tökéletes esti kikapcsolódást nyújt a buja zöldben.",
+        "ro": "Pedalatul matinal începe la antica Pirámide de Tenayuca, oferind o privire în istoria pre-hispanică. \nLa prânz veți pedala către ruinele secundare Tenayuca II înainte de a vă îndrepta spre centrul aglomerat. \nDupă-amiaza vă aduce la vibrantul Teatro Algarabia, bucurându-vă de atmosfera plină de viață. \nVeți încheia plimbarea coborând spre Parque Viveros, o evadare verde luxuriantă perfectă pentru o seară de relaxare.",
+        "en": "Morning pedaling kicks off at the ancient Pirámide de Tenayuca, offering a glimpse into pre-Hispanic history. \nMidday cycling connects the secondary ruins of Tenayuca II before heading into the bustling city center for some culture. \nAfternoon brings you to the vibrant Teatro Algarabia, enjoying the lively atmosphere of the open spaces. \nYou'll end the ride cruising down to Parque Viveros, a lush green escape perfectly suited for an evening unwind."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zona Arqueológica Santa Cecilia Acatitlan",
+            "hu": "Zona Arqueológica Santa Cecilia Acatitlan",
+            "ro": "Zona Arqueológica Santa Cecilia Acatitlan",
+            "en": "Zona Arqueológica Santa Cecilia Acatitlan"
+          },
+          "coords": [
+            -99.173452,
+            19.552515
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den außergewöhnlich gut erhaltenen Tempel des Huitzilopochtli und besuchen Sie das Museum früh, um Schulgruppen zu meiden.",
+            "hu": "Fedezze fel a kivételesen jól megőrzött Huitzilopochtli templomot, és látogassa meg a helyszíni múzeumot korán, hogy elkerülje az iskolai csoportokat.",
+            "ro": "Explorați templul excepțional de bine conservat dedicat lui Huitzilopochtli și vizitați muzeul devreme pentru a evita grupurile școlare.",
+            "en": "Explore the exceptionally well-preserved temple to Huitzilopochtli and visit the on-site museum early to avoid the mid-day school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura Guillermo Padilla Díaz de León",
+            "hu": "Casa de Cultura Guillermo Padilla Díaz de León",
+            "ro": "Casa de Cultura Guillermo Padilla Díaz de León",
+            "en": "Casa de Cultura Guillermo Padilla Díaz de León"
+          },
+          "coords": [
+            -99.173787,
+            19.550963
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kunstszene in diesem historischen Kulturhaus ein, wo an Wochenenden oft einzigartiges Kunsthandwerk angeboten wird.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a történelmi kultúrházban, ahol a hétvégi kézműves piacok gyakran egyedi regionális termékeket kínálnak.",
+            "ro": "Imersați-vă în scena artistică la această casă culturală istorică, unde piețele de artizanat de weekend oferă meșteșuguri regionale unice.",
+            "en": "Soak in the local arts scene at this historic cultural house, where weekend artisan markets often feature unique handmade regional crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirámide de Tenayuca",
+            "hu": "Pirámide de Tenayuca",
+            "ro": "Pirámide de Tenayuca",
+            "en": "Pirámide de Tenayuca"
+          },
+          "coords": [
+            -99.168535,
+            19.532097
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Schlangenskulpturen am Fuß dieser alten Aztekenpyramide und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Csodálja meg az ősi azték piramis lábánál sorakozó kígyószobrokat, és viseljen masszív cipőt az egyenetlen ösvényeken való biztonságos sétához.",
+            "ro": "Minunați-vă de sculpturile de șerpi de la baza acestei piramide aztece și purtați încălțăminte rezistentă pentru a naviga pe aleile inegale.",
+            "en": "Marvel at the serpent sculptures lining the base of this ancient Aztec pyramid, and wear sturdy shoes to safely navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Acuario Valle Dorado",
+            "hu": "Acuario Valle Dorado",
+            "ro": "Acuario Valle Dorado",
+            "en": "Acuario Valle Dorado"
+          },
+          "coords": [
+            -99.214614,
+            19.550236
+          ],
+          "category": "family",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Faszinieren Sie die ganze Familie mit vielfältigen Meeresausstellungen, obwohl der Kauf von Skip-the-Line-Tickets am Wochenende ein Muss ist.",
+            "hu": "Kápráztassa el a családot a változatos tengeri kiállításokkal ebben a helyi akváriumban, bár a hétvégén elengedhetetlen az előre megváltott jegy.",
+            "ro": "Fascinați întreaga familie cu diverse expoziții marine la acest acvariu local, deși achiziționarea biletelor cu prioritate în weekend este obligatorie.",
+            "en": "Fascinate the whole family with diverse marine exhibits at this local aquarium, though purchasing skip-the-line tickets on weekends is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Letrero Las Arboledas",
+            "hu": "Letrero Las Arboledas",
+            "ro": "Letrero Las Arboledas",
+            "en": "Letrero Las Arboledas"
+          },
+          "coords": [
+            -99.208789,
+            19.552341
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie ein klassisches Erinnerungsfoto an diesem bunten Wahrzeichen des Viertels, idealerweise im Morgenlicht, bevor es zu voll wird.",
+            "hu": "Készítsen klasszikus szuvenírfotót ezen a színes környékbeli táblánál, ideális esetben a reggeli fényben, mielőtt a terület túlságosan zsúfolttá válik.",
+            "ro": "Faceți o fotografie de suvenir clasică la acest semn colorat al cartierului, ideal în lumina dimineții înainte ca zona să devină prea aglomerată.",
+            "en": "Snap a classic souvenir photo at this colorful neighborhood landmark sign, ideally in the morning light before the area gets too crowded."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt hoch im Norden an der archäologischen Zone Santa Cecilia Acatitlan bei kühlen Morgentemperaturen. \nMittags fahren Sie zur Casa de Cultura und zurück nach Süden zur unglaublichen Pirámide de Tenayuca. \nNach dem Eintauchen in die Geschichte verlagert sich Ihr Nachmittag auf das moderne Acuario Valle Dorado. \nBeenden Sie Ihren Roadtrip am Letrero Las Arboledas und machen Sie ein Foto bei Sonnenuntergang als Erinnerung.",
+        "hu": "Kezdje autós útvonalát északon a Santa Cecilia Acatitlan régészeti övezetben, kihasználva a hűvös reggeli hőmérsékletet. \nDélben a Casa de Cultura-hoz, majd délre a hihetetlen Pirámide de Tenayucához utazik. \nA történelmi elmerülés után a délután a modern szórakozás felé tolódik egy vezetéssel az Acuario Valle Dorado-ba. \nZárja az autós utat a Letrero Las Arboledas-nál, egy naplementés fotóval megörökítve a túrát.",
+        "ro": "Începeți traseul auto în nordul îndepărtat la zona arheologică Santa Cecilia Acatitlan, profitând de dimineața răcoroasă. \nLa prânz mergeți la Casa de Cultura și înapoi spre sud la incredibila Pirámide de Tenayuca. \nDupă o imersiune istorică, după-amiaza se mută spre divertisment modern cu un drum la Acuario Valle Dorado. \nÎncheiați călătoria la Letrero Las Arboledas, făcând o fotografie la apus pentru a comemora turul complet.",
+        "en": "Start your driving route far north at the Santa Cecilia Acatitlan archaeological zone, taking advantage of cool morning temperatures. \nMidday takes you to the Casa de Cultura and back south to the incredible Pirámide de Tenayuca. \nAfter a historical immersion, your afternoon shifts to modern entertainment with a drive to the Acuario Valle Dorado. \nWrap up your road trip at the Letrero Las Arboledas, snapping a sunset picture to commemorate your complete Tlalnepantla tour."
+      }
+    }
+  }
+}

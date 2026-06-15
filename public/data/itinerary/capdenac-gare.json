@@ -1,0 +1,474 @@
+{
+  "city_id": "capdenac-gare",
+  "anchor": {
+    "name": "Capdenac-Gare",
+    "coords": [
+      2.0808,
+      44.5717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Capdenac Railway Station",
+            "hu": "Capdenac Railway Station",
+            "ro": "Capdenac Railway Station",
+            "en": "Capdenac Railway Station"
+          },
+          "coords": [
+            2.074002,
+            44.571321
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
+            "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Our Lady of Travelers Church",
+            "hu": "Our Lady of Travelers Church",
+            "ro": "Our Lady of Travelers Church",
+            "en": "Our Lady of Travelers Church"
+          },
+          "coords": [
+            2.079316,
+            44.575536
+          ],
+          "category": "religious",
+          "arrive_at": "09:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-golf la guinguette",
+            "hu": "Mini-golf la guinguette",
+            "ro": "Mini-golf la guinguette",
+            "en": "Mini-golf la guinguette"
+          },
+          "coords": [
+            2.072813,
+            44.573999
+          ],
+          "category": "family",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen unbeschwerten Nachmittag auf diesem charmanten Minigolfplatz am Flussufer, für den Sie Wasser und Sonnencreme einpacken sollten.",
+            "hu": "Töltsön el egy vidám délutánt ezen a hangulatos folyóparti minigolfpályán, ahová mindenképpen érdemes vizet és naptejet magával hoznia.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă la acest teren fermecător de mini-golf de pe malul râului, unde se recomandă să aduceți apă și cremă.",
+            "en": "Enjoy a lighthearted afternoon at this charming riverside mini-golf course, where bringing some water and sunscreen is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Étienne",
+            "hu": "Chapelle Saint-Étienne",
+            "ro": "Chapelle Saint-Étienne",
+            "en": "Chapelle Saint-Étienne"
+          },
+          "coords": [
+            2.06662,
+            44.57089
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Steinkapelle in der Landschaft und tragen Sie feste Schuhe für den leicht unebenen Weg.",
+            "hu": "Fedezze fel ennek a tájban megbúvó ősi kőkápolnának a békés hangulatát, és viseljen kényelmes cipőt a kissé egyenetlen megközelítési úthoz.",
+            "ro": "Descoperiți atmosfera liniștită a acestei capele antice din piatră ascunsă în peisaj și purtați încălțăminte robustă pentru calea denivelată.",
+            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            2.06884,
+            44.581039
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese große Pfarrkirche, um die detaillierte sakrale Kunst zu betrachten, und achten Sie auf respektvolle Kleidung.",
+            "hu": "Lépjen be ebbe a lenyűgöző plébániatemplomba, hogy megcsodálja részletgazdag egyházi művészetét, és ügyeljen a tiszteletteljes öltözködésre.",
+            "ro": "Pășiți în această biserică parohială grandioasă pentru a observa arta religioasă detaliată, asigurându-vă că vă îmbrăcați cuviincios.",
+            "en": "Step into this grand parish church to observe its detailed religious artistry, ensuring you dress respectfully for your cultural visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Bahnhof von Capdenac, der den historischen Ton angibt. Danach spazieren Sie zur Kirche Unserer Lieben Frau der Reisenden. Der Nachmittag wird auf dem Minigolfplatz am Flussufer verspielt. Beenden Sie den Tag mit der Entdeckung zweier historischer Kapellen am Rande der ruhigen Stadt.",
+        "hu": "Sétája a nyüzsgő capdenaci vasútállomáson kezdődik, amely megadja a történelmi alaphangot. Ezután átsétál az Utazók Miasszonyunk templomához. A délután játékos fordulatot vesz a folyóparti minigolfpályán. Zárja a napot két történelmi kápolna felfedezésével a város csendes peremén.",
+        "ro": "Turul dumneavoastră pietonal începe la gara aglomerată din Capdenac, stabilind tonul istoric. Vă veți plimba apoi către Biserica Fecioarei Călătorilor, un sanctuar frumos. După-amiaza ia o întorsătură jucăușă la terenul de mini-golf pe râu. Încheiați ziua descoperind două capele istorice la periferia orașului.",
+        "en": "Your walking tour begins at the bustling Capdenac Railway Station, setting the historical tone. You will then stroll to Our Lady of Travelers Church, a beautiful sanctuary dedicated to wanderers. The afternoon takes a playful turn at the riverside mini-golf course. Conclude the day discovering two historic chapels on the outskirts of the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capdenac Railway Station",
+            "hu": "Capdenac Railway Station",
+            "ro": "Capdenac Railway Station",
+            "en": "Capdenac Railway Station"
+          },
+          "coords": [
+            2.074002,
+            44.571321
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
+            "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Our Lady of Travelers Church",
+            "hu": "Our Lady of Travelers Church",
+            "ro": "Our Lady of Travelers Church",
+            "en": "Our Lady of Travelers Church"
+          },
+          "coords": [
+            2.079316,
+            44.575536
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Baptiste",
+            "hu": "Chapelle Saint-Jean-Baptiste",
+            "ro": "Chapelle Saint-Jean-Baptiste",
+            "en": "Chapelle Saint-Jean-Baptiste"
+          },
+          "coords": [
+            2.108293,
+            44.579615
+          ],
+          "category": "religious",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die intime Ruhe dieser kleineren Landkapelle, die sich ideal für stille Reflexion in den friedlichen Morgenstunden eignet.",
+            "hu": "Tapasztalja meg ennek a kisebb vidéki kápolnának a meghitt békéjét, amely ideális a csendes elmélkedéshez a nyugodt reggeli órákban.",
+            "ro": "Experimentați seninătatea intimă a acestei mici capele de țară, ideală pentru reflecție liniștită dacă o vizitați în orele dimineții.",
+            "en": "Experience the intimate serenity of this smaller countryside chapel, ideal for quiet reflection if you visit during the peaceful morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.113979,
+            44.573733
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Gewölbedecken dieser markanten Kirche und schalten Sie den Kamerablitz aus, um das Innere zu schonen.",
+            "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző boltíves mennyezetét, de a belső tér védelme érdekében kapcsolja ki a vakut.",
+            "ro": "Minunați-vă de tavanele boltite impresionante ale acestei biserici proeminente, oprind blițul camerei pentru a proteja interiorul delicat.",
+            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Lacoste",
+            "hu": "Château de Lacoste",
+            "ro": "Château de Lacoste",
+            "en": "Château de Lacoste"
+          },
+          "coords": [
+            2.090171,
+            44.55514
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Adelsgeschichte auf dem beeindruckenden Gelände dieser mittelalterlichen Burg, am besten mit bequemen Schuhen.",
+            "hu": "Fedezze fel a helyi arisztokrácia történelmét ennek a középkori kastélynak a bejárásakor, és viseljen kényelmes cipőt az udvari sétához.",
+            "ro": "Descoperiți istoria aristocratică locală vizitând terenurile acestui castel medieval, purtând încălțăminte confortabilă pentru curte.",
+            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Julien",
+            "hu": "Église Saint-Julien",
+            "ro": "Église Saint-Julien",
+            "en": "Église Saint-Julien"
+          },
+          "coords": [
+            2.07274,
+            44.557621
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gut erhaltene Mauerwerk dieses historischen Heiligtums und hinterlassen Sie eine kleine Spende für die Restaurierung.",
+            "hu": "Csodálja meg ennek a történelmi szentélynek a jól megőrzött kőművesmunkáját, és hagyjon kis adományt a folyamatos restaurálás támogatására.",
+            "ro": "Admirați zidăria bine conservată a acestui sanctuar istoric, lăsând o mică donație dacă apreciați eforturile continue de restaurare.",
+            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch das Herz von Capdenac, beginnend am Hauptbahnhof, bevor Sie zur Kirche der Reisenden fahren. Eine Morgenbrise führt Sie ostwärts zu zwei prächtigen Kapellen. Am Nachmittag erreichen Sie das imposante Château de Lacoste und erkunden dessen Gelände. Eine letzte Fahrt bringt Sie zur historischen Kirche Saint-Julien.",
+        "hu": "Tekerjen át Capdenac szívén, kezdve a központi pályaudvarnál, mielőtt az utazóknak szentelt templom felé venné az irányt. A reggeli szellő kelet felé, két csodálatos kápolnához vezeti. Délután eléri a lenyűgöző Château de Lacoste kastélyt, ahol felfedezheti a birtokot. Egy utolsó tekerés elviszi a történelmi Saint-Julien templomhoz.",
+        "ro": "Pedalați prin inima orașului Capdenac, pornind de la gara centrală înainte de a vă îndrepta spre biserica călătorilor. Briza dimineții vă ghidează spre est către două capele magnifice. După-amiaza, veți ajunge la impunătorul Château de Lacoste. O ultimă plimbare vă aduce la biserica istorică Saint-Julien.",
+        "en": "Pedal through the heart of Capdenac, starting at the central station before heading to the church dedicated to travelers. The morning breeze guides you eastward towards two magnificent chapels. In the afternoon, you will reach the commanding Château de Lacoste, exploring its grounds. A final pedal brings you to the historic Saint-Julien church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 14.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Capdenac Railway Station",
+            "hu": "Capdenac Railway Station",
+            "ro": "Capdenac Railway Station",
+            "en": "Capdenac Railway Station"
+          },
+          "coords": [
+            2.074002,
+            44.571321
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
+            "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
+            "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Our Lady of Travelers Church",
+            "hu": "Our Lady of Travelers Church",
+            "ro": "Our Lady of Travelers Church",
+            "en": "Our Lady of Travelers Church"
+          },
+          "coords": [
+            2.079316,
+            44.575536
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.113979,
+            44.573733
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Gewölbedecken dieser markanten Kirche und schalten Sie den Kamerablitz aus, um das Innere zu schonen.",
+            "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző boltíves mennyezetét, de a belső tér védelme érdekében kapcsolja ki a vakut.",
+            "ro": "Minunați-vă de tavanele boltite impresionante ale acestei biserici proeminente, oprind blițul camerei pentru a proteja interiorul delicat.",
+            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Lacoste",
+            "hu": "Château de Lacoste",
+            "ro": "Château de Lacoste",
+            "en": "Château de Lacoste"
+          },
+          "coords": [
+            2.090171,
+            44.55514
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Adelsgeschichte auf dem beeindruckenden Gelände dieser mittelalterlichen Burg, am besten mit bequemen Schuhen.",
+            "hu": "Fedezze fel a helyi arisztokrácia történelmét ennek a középkori kastélynak a bejárásakor, és viseljen kényelmes cipőt az udvari sétához.",
+            "ro": "Descoperiți istoria aristocratică locală vizitând terenurile acestui castel medieval, purtând încălțăminte confortabilă pentru curte.",
+            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Julien",
+            "hu": "Église Saint-Julien",
+            "ro": "Église Saint-Julien",
+            "en": "Église Saint-Julien"
+          },
+          "coords": [
+            2.07274,
+            44.557621
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gut erhaltene Mauerwerk dieses historischen Heiligtums und hinterlassen Sie eine kleine Spende für die Restaurierung.",
+            "hu": "Csodálja meg ennek a történelmi szentélynek a jól megőrzött kőművesmunkáját, és hagyjon kis adományt a folyamatos restaurálás támogatására.",
+            "ro": "Admirați zidăria bine conservată a acestui sanctuar istoric, lăsând o mică donație dacă apreciați eforturile continue de restaurare.",
+            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Étienne",
+            "hu": "Chapelle Saint-Étienne",
+            "ro": "Chapelle Saint-Étienne",
+            "en": "Chapelle Saint-Étienne"
+          },
+          "coords": [
+            2.06662,
+            44.57089
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Steinkapelle in der Landschaft und tragen Sie feste Schuhe für den leicht unebenen Weg.",
+            "hu": "Fedezze fel ennek a tájban megbúvó ősi kőkápolnának a békés hangulatát, és viseljen kényelmes cipőt a kissé egyenetlen megközelítési úthoz.",
+            "ro": "Descoperiți atmosfera liniștită a acestei capele antice din piatră ascunsă în peisaj și purtați încălțăminte robustă pentru calea denivelată.",
+            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Lot River",
+            "hu": "Lot River",
+            "ro": "Lot River",
+            "en": "Lot River"
+          },
+          "coords": [
+            2.036143,
+            44.608882
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den mäandernden Wassern des Lot, um die Talsicht zu genießen, aber achten Sie auf rutschige Steine am Ufer.",
+            "hu": "Pihenjen meg a Lot folyó kanyargós vizeinél, hogy élvezze a lenyűgöző völgyi kilátást, de vigyázzon a part menti csúszós kövekkel.",
+            "ro": "Relaxați-vă pe malurile apelor șerpuitoare ale râului Lot pentru o priveliște spectaculoasă a văii, dar atenție la pietrele alunecoase.",
+            "en": "Relax by the meandering waters of the Lot River to take in the spectacular valley views, but watch out for slippery stones near the bank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die volle Pracht von Capdenac und seiner malerischen Umgebung erfassen. Beginnen Sie zentral am Bahnhof, bevor Sie nach Osten fahren. Mittags steht ein ausführlicher Besuch des majestätischen Château de Lacoste an. Ihr Roadtrip endet mit einem herrlichen Panoramablick entlang des wunderschönen Flusses Lot.",
+        "hu": "Az autózás lehetővé teszi Capdenac és festői környékének teljes felfedezését. Kezdjen a központban az állomáson, majd vezessen kelet felé a nagyobb egyházi helyszínekhez. Délben egy hosszabb látogatás következik a fenséges Château de Lacoste kastélyban. Autós kirándulása a Lot folyó menti panorámás kilátással zárul.",
+        "ro": "Condusul vă permite să captați întreaga frumusețe a Capdenacului și a împrejurimilor sale. Începeți central la gară înainte de a conduce spre est. La prânz vă veți bucura de o vizită extinsă la maiestuosul Château de Lacoste. Excursia rutieră se încheie cu vederi panoramice de-a lungul frumosului râu Lot.",
+        "en": "Driving allows you to capture the full scope of Capdenac and its scenic surroundings. Start centrally at the station and the nearby traveler's church before driving east to grander ecclesiastical sites. Midday features an extended visit to the majestic Château de Lacoste. Your road trip finishes with panoramic views along the beautiful Lot River."
+      }
+    }
+  }
+}

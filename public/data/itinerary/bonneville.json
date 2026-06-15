@@ -1,0 +1,451 @@
+{
+  "city_id": "bonneville",
+  "anchor": {
+    "name": "Bonneville",
+    "coords": [
+      6.4008,
+      46.0789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.406612,
+            46.068505
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur der Église Saint-Martin, die die frühe Geschichte der Stadt einfängt, und besuchen Sie sie am frühen Morgen für perfekte Fotos.",
+            "hu": "Csodálja meg az Église Saint-Martin időtlen építészetét, amely a város korai történelmét őrzi, és érkezzen kora reggel a tökéletes fotózási fényekért.",
+            "ro": "Admirați arhitectura atemporală a Bisericii Saint-Martin, care captează istoria timpurie a orașului, și vizitați-o dimineața devreme pentru o lumină perfectă la fotografii.",
+            "en": "Admire the timeless architecture of Église Saint-Martin, capturing the town's early history, and visit early in the morning when the light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de l'Europe",
+            "hu": "Pont de l'Europe",
+            "ro": "Podul Europei",
+            "en": "Pont de l'Europe"
+          },
+          "coords": [
+            6.406167,
+            46.07584
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den historischen Pont de l'Europe, um die Ingenieurskunst und den Flussblick zu genießen, und halten Sie in der Mitte für ein herrliches Talpanorama.",
+            "hu": "Sétáljon át a történelmi Pont de l'Europe hídon, hogy megcsodálja a kilátást és a mérnöki munkát, és mindenképpen álljon meg középen a völgy panorámájáért.",
+            "ro": "Plimbați-vă pe podul istoric Pont de l'Europe pentru a admira priveliștile asupra râului și asigurați-vă că vă opriți la mijloc pentru o panoramă superbă a văii.",
+            "en": "Stroll across the historic Pont de l'Europe to appreciate its engineering and scenic river views, making sure to pause at the center for a sweeping panorama of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bonneville",
+            "hu": "Château de Bonneville",
+            "ro": "Castelul de Bonneville",
+            "en": "Château de Bonneville"
+          },
+          "coords": [
+            6.407905,
+            46.078987
+          ],
+          "category": "castle",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern des Château de Bonneville, ein Zeugnis der mittelalterlichen Macht, und tragen Sie bequeme Schuhe für die unebenen Hofwege.",
+            "hu": "Fedezze fel a Château de Bonneville várának robusztus falait, amelyek a középkori hatalmat idézik, és viseljen kényelmes cipőt az egyenetlen udvari utakon való sétához.",
+            "ro": "Explorați zidurile robuste ale Castelului de Bonneville, o mărturie a puterii medievale locale, și purtați încălțăminte comodă pentru a naviga potecile inegale din curte.",
+            "en": "Explore the robust walls of Château de Bonneville, a testament to the region's medieval might, and wear comfortable shoes to navigate the somewhat uneven courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Catherine Church",
+            "hu": "Sainte-Catherine Church",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "Sainte-Catherine Church"
+          },
+          "coords": [
+            6.409829,
+            46.078986
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das ruhige Innere der Sainte-Catherine-Kirche mit ihren schönen Buntglasfenstern und nehmen Sie sich einen Moment der Besinnung im Hauptschiff.",
+            "hu": "Fedezze fel a Sainte-Catherine templom nyugodt belső terét és gyönyörű ólomüveg ablakait, miközben eltölt egy csendes pillanatot a főhajóban.",
+            "ro": "Descoperiți interiorul senin al Bisericii Sfânta Ecaterina, remarcabilă pentru vitraliile sale, și bucurați-vă de un moment de liniște în naosul central.",
+            "en": "Discover the serene interior of Sainte-Catherine Church, noted for its lovely stained glass windows, and take a moment of quiet reflection in the central nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade du Dard",
+            "hu": "Cascade du Dard",
+            "ro": "Cascade du Dard",
+            "en": "Cascade du Dard"
+          },
+          "coords": [
+            6.394218,
+            46.096156
+          ],
+          "category": "landmark",
+          "arrive_at": "14:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lauschen Sie den tosenden Wassern der Cascade du Dard, einem malerischen Wasserfall, und bringen Sie eine leichte Jacke mit, da der Nebel kühl sein kann.",
+            "hu": "Hallgassa a Cascade du Dard vízesés zúgását, és hozzon magával egy könnyű kabátot, mivel a felszálló vízpermet miatt a közvetlen környezete meglehetősen hűvös lehet.",
+            "ro": "Ascultați apele învolburate ale Cascade du Dard, o cascadă locală pitorească, și aduceți o jachetă ușoară, deoarece ceața apei poate răci aerul din jur.",
+            "en": "Listen to the roaring waters of Cascade du Dard, a picturesque local waterfall, and bring a light jacket as the mist can make the immediate surroundings quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den spirituellen Wurzeln von Bonneville in der Église Saint-Martin. Schlendern Sie in Richtung der ruhigen Flussufer und lassen Sie die frische Alpenluft auf sich wirken.\n\nDer Mittag lädt dazu ein, am markanten Pont de l'Europe und dem imposanten Château de Bonneville tief in die Geschichte einzutauchen. Diese Orte zeugen von der strategischen Vergangenheit.\n\nAm Nachmittag finden Sie einen ruhigen Moment in der Sainte-Catherine-Kirche, bevor Sie das Tempo ändern. Der Übergang von steinerner Architektur zu Natursehenswürdigkeiten bietet neue Perspektiven.\n\nBeenden Sie Ihren Tag mit einem Spaziergang zur Cascade du Dard, einem perfekten natürlichen Finale. Das beruhigende Rauschen des Wasserfalls ist ein friedlicher Abschluss.",
+        "hu": "Kezdje a reggelt Bonneville spirituális gyökereinek felfedezésével az Église Saint-Martin templomban. Sétáljon a folyópart felé, és élvezze a friss alpesi levegőt, miközben a történelmi központba ér.\n\nA dél a történelmi örökség elmélyüléséről szól a lenyűgöző Pont de l'Europe hídon és az impozáns Château de Bonneville várban. Ezek az építmények a város múltját mesélik el.\n\nDélután találjon egy csendes pillanatot a Sainte-Catherine templomban, mielőtt tempót váltana. A kőépületektől a természeti látnivalókig vezető út frissítő perspektívát kínál.\n\nZárja a napot a Cascade du Dard vízeséshez tett sétával, amely tökéletes természeti finálé. A vízesés nyugtató hangja békés befejezést nyújt bonneville-i gyalogos felfedezéséhez.",
+        "ro": "Începeți dimineața descoperind rădăcinile spirituale din Bonneville la Biserica Saint-Martin. Plimbați-vă spre malurile liniștite ale râului, lăsând aerul alpin să vă revigoreze pe măsură ce avansați.\n\nAmiaza vă invită la o incursiune în istorie la impresionantul Pod al Europei, urmat de Castelul de Bonneville. Aceste monumente vorbesc despre trecutul strategic al orașului.\n\nDupă-amiaza, găsiți un moment de liniște în Biserica Sfânta Ecaterina, înainte de a schimba ritmul. Trecerea de la arhitectura din piatră la peisajul natural oferă o perspectivă revigorantă.\n\nÎncheiați-vă ziua cu o plimbare spre Cascade du Dard, un final natural perfect. Sunetul liniștitor al cascadei oferă o concluzie pașnică explorării dumneavoastră pietonale prin Bonneville.",
+        "en": "Begin your morning tracing the spiritual roots of Bonneville at Église Saint-Martin. Stroll towards the serene riverbanks, letting the crisp Alpine air invigorate your senses as you approach the historic core.\n\nMidday invites a deep dive into heritage at the striking Pont de l'Europe, followed closely by the imposing Château de Bonneville. These landmarks speak volumes of the town's strategic past.\n\nIn the afternoon, find a quiet moment in the Sainte-Catherine Church before changing the pace. The transition from stone architecture to natural sights offers a refreshing perspective on the local landscape.\n\nEnd your day walking out to the Cascade du Dard, a perfect natural finale. The soothing sounds of the waterfall provide a tranquil conclusion to your pedestrian exploration of Bonneville."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gorges du Borne",
+            "hu": "Gorges du Borne",
+            "ro": "Cheile Borne",
+            "en": "Gorges du Borne"
+          },
+          "coords": [
+            6.382511,
+            46.060115
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der dramatischen Gorges du Borne, um die Kraft der Natur zu erleben, und bleiben Sie auf den markierten Wegen für eine sichere Tour.",
+            "hu": "Túrázzon a drámai Gorges du Borne mentén, hogy tanúja legyen a kőbe vájt természet erejének, és maradjon a kijelölt ösvényeken a biztonságos kirándulás érdekében.",
+            "ro": "Faceți o drumeție de-a lungul defileului Gorges du Borne pentru a vedea forța naturii săpând în stâncă și rămâneți pe traseele marcate pentru o excursie sigură.",
+            "en": "Hike along the dramatic Gorges du Borne to witness the sheer power of nature carving through stone, and stick to the marked trails to ensure a safe and enjoyable trek."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.406612,
+            46.068505
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur der Église Saint-Martin, die die frühe Geschichte der Stadt einfängt, und besuchen Sie sie am frühen Morgen für perfekte Fotos.",
+            "hu": "Csodálja meg az Église Saint-Martin időtlen építészetét, amely a város korai történelmét őrzi, és érkezzen kora reggel a tökéletes fotózási fényekért.",
+            "ro": "Admirați arhitectura atemporală a Bisericii Saint-Martin, care captează istoria timpurie a orașului, și vizitați-o dimineața devreme pentru o lumină perfectă la fotografii.",
+            "en": "Admire the timeless architecture of Église Saint-Martin, capturing the town's early history, and visit early in the morning when the light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de l'Europe",
+            "hu": "Pont de l'Europe",
+            "ro": "Podul Europei",
+            "en": "Pont de l'Europe"
+          },
+          "coords": [
+            6.406167,
+            46.07584
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den historischen Pont de l'Europe, um die Ingenieurskunst und den Flussblick zu genießen, und halten Sie in der Mitte für ein herrliches Talpanorama.",
+            "hu": "Sétáljon át a történelmi Pont de l'Europe hídon, hogy megcsodálja a kilátást és a mérnöki munkát, és mindenképpen álljon meg középen a völgy panorámájáért.",
+            "ro": "Plimbați-vă pe podul istoric Pont de l'Europe pentru a admira priveliștile asupra râului și asigurați-vă că vă opriți la mijloc pentru o panoramă superbă a văii.",
+            "en": "Stroll across the historic Pont de l'Europe to appreciate its engineering and scenic river views, making sure to pause at the center for a sweeping panorama of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bonneville",
+            "hu": "Château de Bonneville",
+            "ro": "Castelul de Bonneville",
+            "en": "Château de Bonneville"
+          },
+          "coords": [
+            6.407905,
+            46.078987
+          ],
+          "category": "castle",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern des Château de Bonneville, ein Zeugnis der mittelalterlichen Macht, und tragen Sie bequeme Schuhe für die unebenen Hofwege.",
+            "hu": "Fedezze fel a Château de Bonneville várának robusztus falait, amelyek a középkori hatalmat idézik, és viseljen kényelmes cipőt az egyenetlen udvari utakon való sétához.",
+            "ro": "Explorați zidurile robuste ale Castelului de Bonneville, o mărturie a puterii medievale locale, și purtați încălțăminte comodă pentru a naviga potecile inegale din curte.",
+            "en": "Explore the robust walls of Château de Bonneville, a testament to the region's medieval might, and wear comfortable shoes to navigate the somewhat uneven courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade du Dard",
+            "hu": "Cascade du Dard",
+            "ro": "Cascade du Dard",
+            "en": "Cascade du Dard"
+          },
+          "coords": [
+            6.394218,
+            46.096156
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lauschen Sie den tosenden Wassern der Cascade du Dard, einem malerischen Wasserfall, und bringen Sie eine leichte Jacke mit, da der Nebel kühl sein kann.",
+            "hu": "Hallgassa a Cascade du Dard vízesés zúgását, és hozzon magával egy könnyű kabátot, mivel a felszálló vízpermet miatt a közvetlen környezete meglehetősen hűvös lehet.",
+            "ro": "Ascultați apele învolburate ale Cascade du Dard, o cascadă locală pitorească, și aduceți o jachetă ușoară, deoarece ceața apei poate răci aerul din jur.",
+            "en": "Listen to the roaring waters of Cascade du Dard, a picturesque local waterfall, and bring a light jacket as the mist can make the immediate surroundings quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Château",
+            "hu": "Grand Château",
+            "ro": "Grand Château",
+            "en": "Grand Château"
+          },
+          "coords": [
+            6.417735,
+            46.101421
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Fassade des Grand Château, ein architektonisches Juwel, und versuchen Sie einen Besuch am späten Nachmittag für das beste Licht.",
+            "hu": "Csodálja meg a Grand Château impozáns homlokzatát, a környék építészeti gyöngyszemét, és időzítse látogatását a késő délutáni aranyórára a legszebb fényekért.",
+            "ro": "Admirați fațada impunătoare a Grand Château, o bijuterie arhitecturală a zonei, și vizitați-l spre seară, când piatra capătă nuanțele aurii ale apusului.",
+            "en": "Marvel at the imposing facade of the Grand Château, an architectural gem of the area, and try to visit during the late afternoon when the stonework catches the golden hour sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an den spektakulären Gorges du Borne und genießen Sie die kühle Morgenluft. Die Fahrt in Richtung Stadtzentrum sorgt für einen energiegeladenen Auftakt in den Tag.\n\nGegen Mittag wechseln Sie von der Natur zur Kultur, radeln zur Église Saint-Martin und überqueren den Pont de l'Europe. Die Uferwege bieten hervorragende Radbedingungen mit tollen Kulissen.\n\nVerbringen Sie den Nachmittag mit der Erkundung des historischen Château de Bonneville. Nach diesem Ausflug ins Mittelalter führt Sie eine rasche Fahrt zur erfrischenden Cascade du Dard.\n\nBeenden Sie Ihre Radtour mit einem Besuch der grandiosen Fassade des Grand Château. Die sanfte Rückfahrt in der Abenddämmerung rundet dieses ausgewogene Zweirad-Abenteuer perfekt ab.",
+        "hu": "Kezdje a túrát a látványos Gorges du Borne-nál, élvezve a hűvös reggeli levegőt és a geológiai szépséget. A városközpont felé pedálozva energikusan indul a nap.\n\nDélben váltson a természetről a kultúrára: tekerjen el az Église Saint-Martin templomhoz, és guruljon át a Pont de l'Europe hídon. A folyóparti utak kiváló kerékpáros terepet kínálnak.\n\nDélután fedezze fel a történelmi Château de Bonneville várat. A középkori elmélyülés után egy gyors tekerés a külváros felé elvezeti a Cascade du Dard vízeséshez.\n\nZárja kerékpáros utazását a Grand Château lenyűgöző homlokzatának megtekintésével. A műemléktől való esti visszautazás tökéletesen kerekíti le ezt a kétkerekes kalandot.",
+        "ro": "Începeți traseul la spectaculosul Gorges du Borne, bucurându-vă de aerul proaspăt. Pedalând spre centrul orașului, veți prinde energia necesară pentru restul zilei.\n\nLa amiază, treceți de la natură la patrimoniu, pedalând spre Biserica Saint-Martin și Podul Europei. Pista de-a lungul râului oferă un teren excelent, cu fundaluri pitorești.\n\nPetreceți după-amiaza explorând istoricul Castel de Bonneville. După această imersiune medievală, o cursă rapidă spre periferie vă va duce la Cascade du Dard.\n\nÎncheiați călătoria pe două roți vizitând fațada impresionantă a Grand Château. Cursa lină de întoarcere în amurg completează perfect această aventură echilibrată.",
+        "en": "Kick off your ride at the spectacular Gorges du Borne, embracing the cool morning air and raw geological beauty. Pedaling towards the town center sets an energetic tone for the hours ahead.\n\nBy midday, transition from nature to heritage as you cycle to Église Saint-Martin and roll across the Pont de l'Europe. The riverside paths provide excellent cycling terrain with scenic backdrops.\n\nSpend your afternoon exploring the historic Château de Bonneville. Following this medieval immersion, a swift ride towards the outskirts will lead you to the refreshing mist of the Cascade du Dard.\n\nConclude your cycling journey by visiting the grand facade of the Grand Château. The gentle twilight ride back from this monumental sight rounds out a perfectly balanced two-wheeled adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gorges du Borne",
+            "hu": "Gorges du Borne",
+            "ro": "Cheile Borne",
+            "en": "Gorges du Borne"
+          },
+          "coords": [
+            6.382511,
+            46.060115
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der dramatischen Gorges du Borne, um die Kraft der Natur zu erleben, und bleiben Sie auf den markierten Wegen für eine sichere Tour.",
+            "hu": "Túrázzon a drámai Gorges du Borne mentén, hogy tanúja legyen a kőbe vájt természet erejének, és maradjon a kijelölt ösvényeken a biztonságos kirándulás érdekében.",
+            "ro": "Faceți o drumeție de-a lungul defileului Gorges du Borne pentru a vedea forța naturii săpând în stâncă și rămâneți pe traseele marcate pentru o excursie sigură.",
+            "en": "Hike along the dramatic Gorges du Borne to witness the sheer power of nature carving through stone, and stick to the marked trails to ensure a safe and enjoyable trek."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.406612,
+            46.068505
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur der Église Saint-Martin, die die frühe Geschichte der Stadt einfängt, und besuchen Sie sie am frühen Morgen für perfekte Fotos.",
+            "hu": "Csodálja meg az Église Saint-Martin időtlen építészetét, amely a város korai történelmét őrzi, és érkezzen kora reggel a tökéletes fotózási fényekért.",
+            "ro": "Admirați arhitectura atemporală a Bisericii Saint-Martin, care captează istoria timpurie a orașului, și vizitați-o dimineața devreme pentru o lumină perfectă la fotografii.",
+            "en": "Admire the timeless architecture of Église Saint-Martin, capturing the town's early history, and visit early in the morning when the light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bonneville",
+            "hu": "Château de Bonneville",
+            "ro": "Castelul de Bonneville",
+            "en": "Château de Bonneville"
+          },
+          "coords": [
+            6.407905,
+            46.078987
+          ],
+          "category": "castle",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern des Château de Bonneville, ein Zeugnis der mittelalterlichen Macht, und tragen Sie bequeme Schuhe für die unebenen Hofwege.",
+            "hu": "Fedezze fel a Château de Bonneville várának robusztus falait, amelyek a középkori hatalmat idézik, és viseljen kényelmes cipőt az egyenetlen udvari utakon való sétához.",
+            "ro": "Explorați zidurile robuste ale Castelului de Bonneville, o mărturie a puterii medievale locale, și purtați încălțăminte comodă pentru a naviga potecile inegale din curte.",
+            "en": "Explore the robust walls of Château de Bonneville, a testament to the region's medieval might, and wear comfortable shoes to navigate the somewhat uneven courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            6.437348,
+            46.083618
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Betreten Sie die historisch bedeutsame Église Saint-Pierre, um ihren gut erhaltenen Altar zu bewundern, und achten Sie auf Ankündigungen für lokale Chorauftritte.",
+            "hu": "Lépjen be a történelmi jelentőségű Église Saint-Pierre-be, hogy megcsodálja a jól karbantartott oltárképet, és figyelje a hirdetőtáblát a helyi kórusok fellépései miatt.",
+            "ro": "Intrați în istorica Biserică Saint-Pierre pentru a-i admira altarul bine conservat și verificați panoul informativ pentru eventuale concerte corale locale.",
+            "en": "Step into the historically significant Église Saint-Pierre to admire its well-preserved altarpiece, and check the notice board outside for occasional local choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Château",
+            "hu": "Grand Château",
+            "ro": "Grand Château",
+            "en": "Grand Château"
+          },
+          "coords": [
+            6.417735,
+            46.101421
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Fassade des Grand Château, ein architektonisches Juwel, und versuchen Sie einen Besuch am späten Nachmittag für das beste Licht.",
+            "hu": "Csodálja meg a Grand Château impozáns homlokzatát, a környék építészeti gyöngyszemét, és időzítse látogatását a késő délutáni aranyórára a legszebb fényekért.",
+            "ro": "Admirați fațada impunătoare a Grand Château, o bijuterie arhitecturală a zonei, și vizitați-l spre seară, când piatra capătă nuanțele aurii ale apusului.",
+            "en": "Marvel at the imposing facade of the Grand Château, an architectural gem of the area, and try to visit during the late afternoon when the stonework catches the golden hour sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Môle",
+            "hu": "Lac du Môle",
+            "ro": "Lac du Môle",
+            "en": "Lac du Môle"
+          },
+          "coords": [
+            6.424716,
+            46.138881
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Lac du Môle, und packen Sie lokale Snacks für ein friedliches Picknick am See ein, während die Schatten länger werden.",
+            "hu": "Pihenjen a Lac du Môle békés vizénél, hogy lezárja utazását, és vigyen magával helyi rágcsálnivalókat egy nyugodt tóparti piknikhez naplemente idején.",
+            "ro": "Relaxați-vă pe malul liniștit al Lacului Môle pentru a vă încheia călătoria și luați câteva gustări locale pentru un picnic pașnic la apus de soare.",
+            "en": "Relax by the tranquil waters of Lac du Môle to cap off your journey, and pack some local snacks for a peaceful lakeside picnic as you watch the shadows lengthen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour an den atemberaubenden Gorges du Borne. Ausreichend Parkplätze ermöglichen es Ihnen, die Schlucht zu bestaunen – ein faszinierender Beginn Ihres Roadtrips.\n\nFahren Sie am Mittag ins Stadtzentrum und verbinden Sie die Église Saint-Martin mit dem historischen Château de Bonneville. Kurze Fahrten machen es einfach, diese zentralen Schätze zu besichtigen.\n\nAm Nachmittag bringt Sie eine kurze Fahrt zur stattlichen Église Saint-Pierre und zum nahegelegenen Grand Château. Mit dem Auto können Sie diese verstreuten Denkmäler bequem erreichen.\n\nFahren Sie am Abend nach Norden, um den Lac du Môle zu erreichen. Der ruhige See bietet wunderschöne Sonnenuntergänge und einen malerischen, entspannenden Abschluss Ihrer umfassenden Tour.",
+        "hu": "Kezdje autós túráját a lélegzetelállító Gorges du Borne-nál, ahol kényelmesen leparkolhat és megcsodálhatja a szurdokot. Ez egy lenyűgöző geológiai kezdete a helyi utazásnak.\n\nDélben navigáljon a városközpontba, könnyedén összekötve az Église Saint-Martin templomot és a történelmi Château de Bonneville várat. A rövid autózások egyszerűvé teszik a látnivalók felfedezését.\n\nDélután egy rövid út elviszi az impozáns Église Saint-Pierre-hez és a közeli Grand Château-hoz. Az autó kényelme lehetővé teszi, hogy fáradtság nélkül csodálja meg a szétszórt műemlékeket.\n\nEste vezessen északra a Lac du Môle felé. A nyugodt tó csodálatos naplemente-tükröződést kínál, ami festői és pihentető lezárása az átfogó autós útitervnek.",
+        "ro": "Începeți turul auto la uluitorul Gorges du Borne, unde parcarea generoasă vă permite să admirați defileul. Este un început geografic impresionant pentru excursia dumneavoastră.\n\nNavigați spre centru la amiază, legând ușor Biserica Saint-Martin de istoricul Castel de Bonneville. Distanțele scurte de condus fac simplă acoperirea eficientă a acestor comori.\n\nDupă-amiaza, un scurt drum vă aduce la impunătoarea Biserică Saint-Pierre și la Grand Château. Confortul mașinii vă permite să apreciați aceste monumente dispersate fără oboseală.\n\nConduceți spre nord la apropierea serii pentru a ajunge la Lacul Môle. Lacul liniștit oferă o reflexie superbă a apusului, reprezentând un final pitoresc și relaxant.",
+        "en": "Start your driving tour at the breathtaking Gorges du Borne, where ample parking lets you easily step out and marvel at the ravine. It’s an awe-inspiring geographical start to your local road trip.\n\nNavigate to the town center by midday, easily connecting Église Saint-Martin and the historic Château de Bonneville. Short driving hops make it simple to cover these central architectural treasures efficiently.\n\nIn the afternoon, a brief drive brings you to the stately Église Saint-Pierre and the nearby Grand Château. The convenience of a car allows you to appreciate these scattered monuments without the fatigue.\n\nDrive north as evening approaches to reach Lac du Môle. The tranquil lake offers a stunning sunset reflection, providing a picturesque and relaxing end to your comprehensive driven itinerary."
+      }
+    }
+  }
+}

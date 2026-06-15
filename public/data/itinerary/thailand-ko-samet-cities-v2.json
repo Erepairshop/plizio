@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-ko-samet-cities-v2",
+  "anchor": {
+    "name": "Ko Samet",
+    "coords": [
+      101.454722,
+      12.567778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 2.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Krabbenschrein",
+            "hu": "Rák-szentély",
+            "ro": "Altarul Crabului",
+            "en": "Crab Shrine"
+          },
+          "coords": [
+            101.463818,
+            12.573583
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie lokale Bräuche am Krabbenschrein, einer einzigartigen religiösen Stätte zur Ehrung von Meeresgeistern, wo Sie Ihre Schuhe ausziehen sollten.",
+            "hu": "Tisztelje a helyi szokásokat a Rák-szentélynél, amely a tengeri szellemeket ünnepli, és ahová érdemes cipő nélkül, tiszteletteljesen belépni.",
+            "ro": "Observați obiceiurile locale la Altarul Crabului, un loc religios unic ce onorează spiritele mării, unde ar trebui să vă descălțați înainte de a intra.",
+            "en": "Observe local customs at the Crab Shrine, a unique religious site honoring sea spirits, where you should remove your shoes before taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ko Samet",
+            "hu": "Wat Ko Samet",
+            "ro": "Wat Ko Samet",
+            "en": "Wat Ko Samet"
+          },
+          "coords": [
+            101.466027,
+            12.56982
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften Wandmalereien und die riesige Buddhastatue im Wat Ko Samet, dem Haupttempel der Insel, und bedecken Sie stets Ihre Schultern.",
+            "hu": "Csodálja meg a sziget fő temploma, a Wat Ko Samet hatalmas Buddha-szobrát és freskóit, de ügyeljen arra, hogy a vállai mindig fedve legyenek.",
+            "ro": "Admirați picturile vibrante și statuia uriașă a lui Buddha la Wat Ko Samet, templul principal, amintindu-vă să aveți umerii acoperiți la intrare.",
+            "en": "Admire the vibrant murals and the giant Buddha statue at Wat Ko Samet, the island's main temple, and remember to cover your shoulders when visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Diamond Beach Resort",
+            "hu": "Diamond Beach Resort",
+            "ro": "Diamond Beach Resort",
+            "en": "Diamond Beach Resort"
+          },
+          "coords": [
+            101.466668,
+            12.568003
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Schlendern Sie am lebhaften Diamond Beach Resort vorbei, um die Atmosphäre zu genießen, aber stellen Sie sich auf viele Menschen in den Stoßzeiten ein.",
+            "hu": "Sétáljon el a nyüzsgő Diamond Beach Resort mellett, hogy élvezze a pezsgő hangulatot, de számítson nagyobb tömegre a csúcsidőszakokban.",
+            "ro": "Plimbați-vă pe lângă vibrantul Diamond Beach Resort pentru a savura atmosfera animată, dar fiți pregătiți pentru aglomerație în orele de vârf.",
+            "en": "Stroll past the lively Diamond Beach Resort to enjoy the bustling atmosphere and beachfront amenities, but be prepared for crowds during peak hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phai Beach",
+            "hu": "Ao Phai Strand",
+            "ro": "Plaja Ao Phai",
+            "en": "Ao Phai Beach"
+          },
+          "coords": [
+            101.45757,
+            12.563795
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weißen Sandstrand von Ao Phai, einem malerischen Ort zum Schwimmen, wo Sie sich frühzeitig eine Liege für die beste Aussicht sichern sollten.",
+            "hu": "Pihenjen az Ao Phai strand fehér homokján, amely tökéletes az úszáshoz, és ahol érdemes korán napágyat bérelni a legjobb tengerparti kilátásért.",
+            "ro": "Relaxați-vă pe nisipul alb de la Ao Phai, un loc pitoresc perfect pentru înot, unde închirierea matinală a unui șezlong asigură o priveliște excelentă.",
+            "en": "Relax on the white sands of Ao Phai Beach, a scenic spot perfect for swimming, where renting a lounge chair early secures the best ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuershow im Ploy Talay",
+            "hu": "Tűzzsonglőr műsor a Ploy Talay-ban",
+            "ro": "Spectacol cu foc la Ploy Talay",
+            "en": "Fire Performance @ Ploy Talay"
+          },
+          "coords": [
+            101.463996,
+            12.566637
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakuläre Feuershow im Ploy Talay, eine ikonische Inseltradition, indem Sie mindestens eine Stunde früher kommen, um gute Plätze zu ergattern.",
+            "hu": "Élje át a Ploy Talay látványos tűzzsonglőr műsorát, amely igazi szigeti hagyomány, és érkezzen legalább egy órával korábban az első soros helyekért.",
+            "ro": "Experimentați spectaculoasa demonstrație cu foc la Ploy Talay, o tradiție iconică, ajungând cu cel puțin o oră mai devreme pentru locurile din față.",
+            "en": "Experience the spectacular Fire Performance at Ploy Talay, an iconic island tradition, by arriving at least an hour early to grab a front-row seat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit einem kulturellen Eintauchen am einzigartigen Krabbenschrein und dem farbenfrohen Wat Ko Samet. Mittags spazieren Sie am belebten Diamond Beach Resort vorbei zu den Sandstränden von Ao Phai. Der Nachmittag lädt zum Entspannen und Schwimmen im ruhigen, türkisfarbenen Wasser ein. Am Abend bilden die spektakulären Feuershows im Ploy Talay ein faszinierendes Insel-Finale.",
+        "hu": "A séta egy kulturális elmélyüléssel indul a különleges Rák-szentélynél és a színpompás Wat Ko Samet templomnál. Délben a nyüzsgő Diamond Beach Resort mellett elhaladva éri el az Ao Phai strand homokos partjait. A délután a pihenésé és a kristálytiszta, nyugodt tengerben való fürdőzésé. Este a Ploy Talay látványos tűzzsonglőr műsora nyújt varázslatos és emlékezetes szigeti finálét.",
+        "ro": "Plimbarea dumneavoastră începe cu o imersiune culturală la unicul Altar al Crabului și la coloratul Wat Ko Samet. La amiază, treceți pe lângă animatul Diamond Beach Resort spre nisipurile plajei Ao Phai. După-amiaza vă permite o relaxare profundă și înot în apele calme și turcoaz. La lăsarea serii, spectacolul cu foc de la Ploy Talay oferă un final de insulă cu adevărat fermecător.",
+        "en": "Your walking journey begins with a cultural immersion at the unique Crab Shrine and the colorful Wat Ko Samet. Midday takes you past the lively Diamond Beach Resort towards the pristine sands of Ao Phai Beach. The afternoon allows for deep relaxation and swimming in the calm, turquoise waters. As evening falls, the spectacular fire performances at Ploy Talay provide a mesmerizing island finale."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Prao",
+            "hu": "Ao Prao",
+            "ro": "Ao Prao",
+            "en": "Ao Prao"
+          },
+          "coords": [
+            101.449244,
+            12.570082
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen am Ao Prao, einem ruhigen Strand im Westen, wo Sie mit eigener Schnorchelausrüstung die tollen Riffe optimal erkunden können.",
+            "hu": "Meneküljön el a tömeg elől az Ao Prao csendes nyugati strandján, ahol saját sznorkelfelszereléssel csodálatos zátonyokat fedezhet fel.",
+            "ro": "Evadați de aglomerație la Ao Prao, o plajă vestică liniștită, unde aducerea propriului echipament de snorkeling vă permite explorarea recifului.",
+            "en": "Escape the crowds at Ao Prao, a tranquil western beach ideal for sunbathing, where bringing your own snorkeling gear allows for great reef exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabbenschrein",
+            "hu": "Rák-szentély",
+            "ro": "Altarul Crabului",
+            "en": "Crab Shrine"
+          },
+          "coords": [
+            101.463818,
+            12.573583
+          ],
+          "category": "religious",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Beobachten Sie lokale Bräuche am Krabbenschrein, einer einzigartigen religiösen Stätte zur Ehrung von Meeresgeistern, wo Sie Ihre Schuhe ausziehen sollten.",
+            "hu": "Tisztelje a helyi szokásokat a Rák-szentélynél, amely a tengeri szellemeket ünnepli, és ahová érdemes cipő nélkül, tiszteletteljesen belépni.",
+            "ro": "Observați obiceiurile locale la Altarul Crabului, un loc religios unic ce onorează spiritele mării, unde ar trebui să vă descălțați înainte de a intra.",
+            "en": "Observe local customs at the Crab Shrine, a unique religious site honoring sea spirits, where you should remove your shoes before taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ko Samet",
+            "hu": "Wat Ko Samet",
+            "ro": "Wat Ko Samet",
+            "en": "Wat Ko Samet"
+          },
+          "coords": [
+            101.466027,
+            12.56982
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften Wandmalereien und die riesige Buddhastatue im Wat Ko Samet, dem Haupttempel der Insel, und bedecken Sie stets Ihre Schultern.",
+            "hu": "Csodálja meg a sziget fő temploma, a Wat Ko Samet hatalmas Buddha-szobrát és freskóit, de ügyeljen arra, hogy a vállai mindig fedve legyenek.",
+            "ro": "Admirați picturile vibrante și statuia uriașă a lui Buddha la Wat Ko Samet, templul principal, amintindu-vă să aveți umerii acoperiți la intrare.",
+            "en": "Admire the vibrant murals and the giant Buddha statue at Wat Ko Samet, the island's main temple, and remember to cover your shoulders when visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Phutsa Beach",
+            "hu": "Phutsa Strand",
+            "ro": "Plaja Phutsa",
+            "en": "Phutsa Beach"
+          },
+          "coords": [
+            101.455986,
+            12.561505
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Phutsa Beach, einer kleinen und friedlichen Bucht im Grünen, und vergessen Sie Ihr Insektenschutzmittel für einen ungestörten Nachmittag nicht.",
+            "hu": "Kapcsolódjon ki a Phutsa strand apró, buja növényzettel övezett öblében, de mindenképpen vigyen magával rovarriasztót a kényelme érdekében.",
+            "ro": "Relaxați-vă la Phutsa Beach, un golf mic și pașnic înconjurat de verdeață, și nu uitați spray-ul împotriva insectelor pentru o după-amiază perfectă.",
+            "en": "Unwind at Phutsa Beach, a small and peaceful cove framed by lush greenery, and don't forget your insect repellent for a bite-free afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cho Beach",
+            "hu": "Cho Strand",
+            "ro": "Plaja Cho",
+            "en": "Cho Beach"
+          },
+          "coords": [
+            101.453396,
+            12.556636
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Tauchen Sie Ihre Füße ins klare Wasser des Cho Beach, der für sanfte Wellen bekannt ist, und kaufen Sie zur Erfrischung eine Kokosnuss bei den Händlern.",
+            "hu": "Mártózzon meg a Cho strand tiszta, lágy hullámú vizében, és vásároljon egy friss kókuszdiót a közeli helyi árusoktól a tökéletes felfrissüléshez.",
+            "ro": "Scufundați-vă picioarele în apele limpezi de la Cho Beach, și cumpărați o nucă de cocos proaspătă de la vânzătorii locali pentru o răcorire instantanee.",
+            "en": "Dip your toes in the clear waters of Cho Beach, known for its gentle waves, and buy a fresh coconut from nearby local vendors for instant refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Viewpoint",
+            "hu": "Sunset Kilátó",
+            "ro": "Punctul de Belvedere al Apusului",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            101.446846,
+            12.554812
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Fangen Sie atemberaubende Panoramen am Sunset Viewpoint an der rauen Küste ein, wo eine frühe Ankunft vor der Dämmerung erstklassige Fotoplätze sichert.",
+            "hu": "Készítsen lélegzetelállító fotókat a sziklás part menti Sunset kilátónál, ahová érdemes jóval szürkület előtt érkezni a legjobb fényképezési helyekért.",
+            "ro": "Surprindeți panorame uimitoare la Punctul de Belvedere al Apusului, unde o sosire cu mult înainte de amurg vă asigură cel mai bun loc pentru fotografii.",
+            "en": "Capture breathtaking panoramas at the Sunset Viewpoint along the rugged coast, where arriving well before dusk ensures a prime spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuershow im Ploy Talay",
+            "hu": "Tűzzsonglőr műsor a Ploy Talay-ban",
+            "ro": "Spectacol cu foc la Ploy Talay",
+            "en": "Fire Performance @ Ploy Talay"
+          },
+          "coords": [
+            101.463996,
+            12.566637
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.26,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakuläre Feuershow im Ploy Talay, eine ikonische Inseltradition, indem Sie mindestens eine Stunde früher kommen, um gute Plätze zu ergattern.",
+            "hu": "Élje át a Ploy Talay látványos tűzzsonglőr műsorát, amely igazi szigeti hagyomány, és érkezzen legalább egy órával korábban az első soros helyekért.",
+            "ro": "Experimentați spectaculoasa demonstrație cu foc la Ploy Talay, o tradiție iconică, ajungând cu cel puțin o oră mai devreme pentru locurile din față.",
+            "en": "Experience the spectacular Fire Performance at Ploy Talay, an iconic island tradition, by arriving at least an hour early to grab a front-row seat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am ruhigen Strand Ao Prao, bevor Sie landeinwärts die religiösen Wahrzeichen der Insel besuchen. Radeln Sie mittags zu den südlichen Buchten und genießen Sie die ruhige Atmosphäre der Strände Phutsa und Cho. Der späte Nachmittag bietet atemberaubende Panoramablicke vom berühmten Sunset Viewpoint. Beenden Sie den aktiven Tag mit der Feuershow im Ploy Talay.",
+        "hu": "Kezdje kerékpáros kalandját a békés Ao Prao strandon, mielőtt a sziget belső része felé venné az irányt a főbb vallási látványosságokhoz. Délben tekerjen a déli öblök felé, élvezve a Phutsa és a Cho strandok nyugodt hangulatát. A késő délután lenyűgöző panorámát kínál a sziget híres nyugati Sunset kilátójából. Zárja ezt az aktív napot egy felejthetetlen tűzzsonglőr műsorral a Ploy Talay-nál.",
+        "ro": "Începeți aventura pe bicicletă la plaja senină Ao Prao, înainte de a vizita principalele repere religioase. La amiază, pedalați spre golfurile sudice, bucurându-vă de ambianța liniștită de la Phutsa și Cho Beach. După-amiaza târzie vă oferă vederi panoramice uimitoare de la faimosul Punct de Belvedere al Apusului. Încheiați-vă ziua activă cu un spectacol de neuitat cu foc la Ploy Talay.",
+        "en": "Start your cycling adventure at the serene Ao Prao beach before heading inland to visit the island's main religious landmarks. By midday, pedal towards the southern coves, enjoying the quiet ambiance of Phutsa Beach and Cho Beach. The late afternoon offers stunning panoramic views from the island's famous western Sunset Viewpoint. Conclude your active day with an unforgettable fire show at Ploy Talay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 5.67,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wiang Wan Beach",
+            "hu": "Wiang Wan Strand",
+            "ro": "Plaja Wiang Wan",
+            "en": "Wiang Wan Beach"
+          },
+          "coords": [
+            101.451985,
+            12.580611
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Wiang Wan Beach, einem ruhigen Strand im Norden mit flachem Wasser, der sich perfekt und sicher für frühes Paddeln eignet.",
+            "hu": "Indítsa a reggelt a Wiang Wan strandon, amely egy csendes északi partszakasz sekély vízzel, ideális és biztonságos hely a kora reggeli evezéshez.",
+            "ro": "Începeți dimineața la Wiang Wan Beach, o porțiune nordică liniștită cu ape puțin adânci, transformând-o într-un loc perfect pentru vâslit.",
+            "en": "Start your morning at Wiang Wan Beach, a quiet northern stretch offering shallow waters, making it a perfectly safe and calm spot for early paddling."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ko Samet",
+            "hu": "Wat Ko Samet",
+            "ro": "Wat Ko Samet",
+            "en": "Wat Ko Samet"
+          },
+          "coords": [
+            101.466027,
+            12.56982
+          ],
+          "category": "landmark",
+          "arrive_at": "09:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften Wandmalereien und die riesige Buddhastatue im Wat Ko Samet, dem Haupttempel der Insel, und bedecken Sie stets Ihre Schultern.",
+            "hu": "Csodálja meg a sziget fő temploma, a Wat Ko Samet hatalmas Buddha-szobrát és freskóit, de ügyeljen arra, hogy a vállai mindig fedve legyenek.",
+            "ro": "Admirați picturile vibrante și statuia uriașă a lui Buddha la Wat Ko Samet, templul principal, amintindu-vă să aveți umerii acoperiți la intrare.",
+            "en": "Admire the vibrant murals and the giant Buddha statue at Wat Ko Samet, the island's main temple, and remember to cover your shoulders when visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Phai Beach",
+            "hu": "Ao Phai Strand",
+            "ro": "Plaja Ao Phai",
+            "en": "Ao Phai Beach"
+          },
+          "coords": [
+            101.45757,
+            12.563795
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weißen Sandstrand von Ao Phai, einem malerischen Ort zum Schwimmen, wo Sie sich frühzeitig eine Liege für die beste Aussicht sichern sollten.",
+            "hu": "Pihenjen az Ao Phai strand fehér homokján, amely tökéletes az úszáshoz, és ahol érdemes korán napágyat bérelni a legjobb tengerparti kilátásért.",
+            "ro": "Relaxați-vă pe nisipul alb de la Ao Phai, un loc pitoresc perfect pentru înot, unde închirierea matinală a unui șezlong asigură o priveliște excelentă.",
+            "en": "Relax on the white sands of Ao Phai Beach, a scenic spot perfect for swimming, where renting a lounge chair early secures the best ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Viewpoint",
+            "hu": "Sunset Kilátó",
+            "ro": "Punctul de Belvedere al Apusului",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            101.446846,
+            12.554812
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.51,
+          "tip_5lang": {
+            "de": "Fangen Sie atemberaubende Panoramen am Sunset Viewpoint an der rauen Küste ein, wo eine frühe Ankunft vor der Dämmerung erstklassige Fotoplätze sichert.",
+            "hu": "Készítsen lélegzetelállító fotókat a sziklás part menti Sunset kilátónál, ahová érdemes jóval szürkület előtt érkezni a legjobb fényképezési helyekért.",
+            "ro": "Surprindeți panorame uimitoare la Punctul de Belvedere al Apusului, unde o sosire cu mult înainte de amurg vă asigură cel mai bun loc pentru fotografii.",
+            "en": "Capture breathtaking panoramas at the Sunset Viewpoint along the rugged coast, where arriving well before dusk ensures a prime spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Thian",
+            "hu": "Ao Thian",
+            "ro": "Ao Thian",
+            "en": "Ao Thian"
+          },
+          "coords": [
+            101.449158,
+            12.549119
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Genießen Sie den unkonventionellen Charme von Ao Thian mit seinen Treibholzskulpturen, wo die versteckten Felsenpools faszinierendes Meeresleben bergen.",
+            "hu": "Élvezze az Ao Thian bohém hangulatát, amelyet egyedi uszadékfa szobrok díszítenek, és ahol a rejtett sziklamedencék izgalmas tengeri élőlényeket rejtenek.",
+            "ro": "Bucurați-vă de atmosfera boemă de la Ao Thian, unde explorarea piscinelor naturale ascunse printre stânci vă va dezvălui o viață marină fascinantă.",
+            "en": "Enjoy the bohemian vibe of Ao Thian, dotted with unique driftwood sculptures, where exploring the hidden rock pools reveals fascinating marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Kiew",
+            "hu": "Ao Kiew",
+            "ro": "Ao Kiew",
+            "en": "Ao Kiew"
+          },
+          "coords": [
+            101.447599,
+            12.545493
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgeschiedene Schönheit von Ao Kiew, einem unberührten Strand völliger Ruhe, und bringen Sie eigene Snacks mit, da es kaum Geschäfte gibt.",
+            "hu": "Fedezze fel az Ao Kiew érintetlen és elzárt szépségét, amely teljes nyugalmat kínál, de vigyen magával saját harapnivalót az üzletek hiánya miatt.",
+            "ro": "Descoperiți frumusețea retrasă de la Ao Kiew, o plajă curată ce oferă o serenitate totală, și aduceți-vă propriile gustări deoarece facilitățile lipsesc.",
+            "en": "Discover the secluded beauty of Ao Kiew, a pristine beach offering total serenity, and pack your own snacks as commercial facilities are very limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im ruhigen Norden am Wiang Wan Beach, bevor Sie anhalten, um den lokalen Wat Ko Samet zu bewundern. Die Tagesmitte verbringen Sie an den belebten Ufern von Ao Phai und machen Fotos am Sunset Viewpoint. Im Laufe des Nachmittags erkunden Sie den rustikalen Charme der Küste von Ao Thian. Ihre Reise endet am wunderbar abgeschiedenen und unberührten Strand von Ao Kiew.",
+        "hu": "Az autós túra a csendes északi Wiang Wan strandon indul, mielőtt megállna megcsodálni a helyi Wat Ko Samet templomot. A nap közepét az Ao Phai strand nyüzsgő partjain pihenve, majd a Sunset kilátónál fotózva töltheti. Ahogy a délután halad, felfedezheti az Ao Thian partvidékének rusztikus varázsát. Utazása a csodálatosan elzárt és érintetlen Ao Kiew strandon ér véget.",
+        "ro": "Turul auto începe în nordul liniștit la Wiang Wan Beach, înainte de a opri pentru a admira Wat Ko Samet. Mijlocul zilei este petrecut relaxându-vă pe malurile animate de la Ao Phai și făcând fotografii la Punctul de Apus. Pe măsură ce după-amiaza progresează, veți explora farmecul rustic al coastei Ao Thian. Călătoria se încheie la plaja minunat de retrasă și curată de la Ao Kiew.",
+        "en": "Your driving tour kicks off in the tranquil north at Wiang Wan Beach before stopping to admire the local Wat Ko Samet. The middle of the day is spent lounging on the lively shores of Ao Phai Beach and snapping photos at the Sunset Viewpoint. As the afternoon progresses, you will explore the rustic charm of Ao Thian's coastline. Your journey ends at the wonderfully secluded and pristine Ao Kiew beach."
+      }
+    }
+  }
+}

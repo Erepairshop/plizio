@@ -1,0 +1,474 @@
+{
+  "city_id": "le-cannet-des-maures",
+  "anchor": {
+    "name": "Le Cannet-des-Maures",
+    "coords": [
+      6.3408,
+      43.3917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Saint-Joseph templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            6.341314,
+            43.392266
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade dieser zentralen Kirche, die den lokalen Glauben widerspiegelt, und achten Sie auf die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg ennek a központi templomnak az egyszerű homlokzatát, amely a helyi hitet tükrözi, és figyeljen a belső tér csendes, békés atmoszférájára.",
+            "ro": "Admirați fațada simplă a acestei biserici centrale, care reflectă credința locală, și bucurați-vă de atmosfera liniștită și spirituală din interior.",
+            "en": "Admire the simple facade of this central church reflecting local faith, and take a moment to appreciate the remarkably quiet, peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Ölmühle",
+            "hu": "Középkori olajmalom",
+            "ro": "Moara medievală de ulei",
+            "en": "Medieval oil mill"
+          },
+          "coords": [
+            6.349536,
+            43.392412
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikalen Überreste der mittelalterlichen Ölmühle, ein Zeugnis der provenzalischen Landwirtschaft, am besten im hellen Vormittagslicht.",
+            "hu": "Fedezze fel a középkori olajmalom rusztikus maradványait, a provence-i mezőgazdaság emlékét, amelyet a legérdemesebb a délelőtti fényben megtekinteni.",
+            "ro": "Descoperiți rămășițele rustice ale morii medievale de ulei, o dovadă a agriculturii provensale, cel mai bine vizitate în lumina blândă a dimineții.",
+            "en": "Discover the rustic remains of the medieval oil mill, a true testament to Provencal agriculture, best photographed in the soft morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Vieux-Canet",
+            "hu": "Vieux-Canet templom",
+            "ro": "Biserica Vieux-Canet",
+            "en": "Vieux-Canet Church"
+          },
+          "coords": [
+            6.348708,
+            43.401141
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese bemerkenswerte alte Kirche auf dem Hügel, die mit ihren Steindetails fasziniert, und tragen Sie bequeme Schuhe für den Aufstieg.",
+            "hu": "Látogassa meg ezt a figyelemre méltó régi dombtetői templomot, amely kőrészleteivel lenyűgöz, és viseljen kényelmes cipőt a felvezető emelkedőhöz.",
+            "ro": "Vizitați această biserică veche remarcabilă de pe deal, care fascinează prin detaliile sale din piatră, și purtați încălțăminte comodă pentru urcuș.",
+            "en": "Visit this remarkable old hilltop church that fascinates with its ancient stone details, and be sure to wear comfortable walking shoes for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Saint-Louis",
+            "hu": "Saint-Jean-Saint-Louis kápolna",
+            "ro": "Capela Saint-Jean-Saint-Louis",
+            "en": "Chapel Saint-Jean-Saint-Louis"
+          },
+          "coords": [
+            6.345736,
+            43.402
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Doppelkapelle, die eine tiefe historische Bedeutung hat, und nehmen Sie sich Zeit, die feinen architektonischen Details zu studieren.",
+            "hu": "Keresse fel ezt a festői kettős kápolnát, amely mély történelmi jelentőséggel bír, és szánjon időt a finom építészeti részletek alapos tanulmányozására.",
+            "ro": "Vizitați această capelă dublă pitorească, având o profundă semnificație istorică, și alocați-vă timp pentru a studia detaliile arhitecturale fine.",
+            "en": "Visit this picturesque double chapel boasting profound historical significance, and take your time to carefully study its fine, ancient architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne tour de vigie",
+            "hu": "Régi őrtorony",
+            "ro": "Vechiul turn de veghe",
+            "en": "Ancient watchtower"
+          },
+          "coords": [
+            6.336018,
+            43.405122
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Ruine des alten Wachturms hinauf, um das gesamte Tal zu überblicken, und bringen Sie unbedingt eine Kamera für die fantastischen Fotos mit.",
+            "hu": "Másszon fel a régi őrtorony romjaihoz, ahonnan belátható az egész völgy, és mindenképpen hozzon magával fényképezőgépet a fantasztikus fotókért.",
+            "ro": "Urcați la ruina vechiului turn de veghe pentru a admira întreaga vale și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul superb.",
+            "en": "Climb up to the ruins of the old watchtower to overlook the entire sweeping valley, and be sure to bring a camera for the fantastic panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Vieux Cannet",
+            "hu": "Le Vieux Cannet",
+            "ro": "Le Vieux Cannet",
+            "en": "Le Vieux Cannet"
+          },
+          "coords": [
+            6.332122,
+            43.394513
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen, geschichtsträchtigen Gassen dieses alten Dorfkerns und achten Sie auf die wunderschön erhaltenen provenzalischen Steinhäuser.",
+            "hu": "Sétáljon végig a történelmi faluközpont szűk, múltidéző utcáin, és figyeljen a gyönyörűen megőrzött provence-i kőházakra a séta során.",
+            "ro": "Plimbați-vă pe străduțele înguste și pline de istorie ale acestui sat vechi și observați casele din piatră provensale, minunat conservate de-a lungul timpului.",
+            "en": "Stroll through the narrow, history-rich alleyways of this ancient village core, paying special attention to the beautifully preserved Provencal stone houses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch Le Cannet-des-Maures beginnt an der Église Saint-Joseph und führt zur mittelalterlichen Ölmühle. Mittags erkunden Sie die historischen Kapellen auf dem Hügel, bevor Sie die alte Wachturm-Ruine mit ihrem Panoramablick erreichen. Der Nachmittag gehört ganz dem charmanten historischen Kern von Le Vieux Cannet. Abends können Sie in den ruhigen Gassen ausklingen.",
+        "hu": "A Le Cannet-des-Maures-i séta a Saint-Joseph templomnál kezdődik, majd a középkori olajmalomhoz vezet. Délben a dombon álló történelmi kápolnákat fedezzük fel, mielőtt elérjük az egykori őrtornyot, ahonnan lenyűgöző panoráma nyílik. A délután Le Vieux Cannet elbűvölő történelmi központjáé, ahol visszarepülhetünk az időben. Este a csendes provence-i utcákon sétálva pihenhetünk meg.",
+        "ro": "O plimbare relaxantă prin Le Cannet-des-Maures începe la Biserica Saint-Joseph și duce spre vechea moară de ulei. La amiază, explorăm capelele istorice de pe deal înainte de a ajunge la turnul de veghe cu panorama sa uimitoare. După-amiaza este dedicată centrului istoric din Le Vieux Cannet. Seara, vă puteți bucura de atmosfera liniștită a satului provensal pe străduțele sale pitorești.",
+        "en": "A relaxing walk through Le Cannet-des-Maures begins at the Saint-Joseph Church and leads to the medieval oil mill. At midday, explore the historic chapels on the hill before reaching the old watchtower with its stunning panoramic views. The afternoon belongs entirely to the charming historical core of Le Vieux Cannet. In the evening, unwind in the quiet, picturesque streets of this lovely village."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Vieux Cannet",
+            "hu": "Le Vieux Cannet",
+            "ro": "Le Vieux Cannet",
+            "en": "Le Vieux Cannet"
+          },
+          "coords": [
+            6.332122,
+            43.394513
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen, geschichtsträchtigen Gassen dieses alten Dorfkerns und achten Sie auf die wunderschön erhaltenen provenzalischen Steinhäuser.",
+            "hu": "Sétáljon végig a történelmi faluközpont szűk, múltidéző utcáin, és figyeljen a gyönyörűen megőrzött provence-i kőházakra a séta során.",
+            "ro": "Plimbați-vă pe străduțele înguste și pline de istorie ale acestui sat vechi și observați casele din piatră provensale, minunat conservate de-a lungul timpului.",
+            "en": "Stroll through the narrow, history-rich alleyways of this ancient village core, paying special attention to the beautifully preserved Provencal stone houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne tour de vigie",
+            "hu": "Régi őrtorony",
+            "ro": "Vechiul turn de veghe",
+            "en": "Ancient watchtower"
+          },
+          "coords": [
+            6.336018,
+            43.405122
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Ruine des alten Wachturms hinauf, um das gesamte Tal zu überblicken, und bringen Sie unbedingt eine Kamera für die fantastischen Fotos mit.",
+            "hu": "Másszon fel a régi őrtorony romjaihoz, ahonnan belátható az egész völgy, és mindenképpen hozzon magával fényképezőgépet a fantasztikus fotókért.",
+            "ro": "Urcați la ruina vechiului turn de veghe pentru a admira întreaga vale și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul superb.",
+            "en": "Climb up to the ruins of the old watchtower to overlook the entire sweeping valley, and be sure to bring a camera for the fantastic panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Saint-Louis",
+            "hu": "Saint-Jean-Saint-Louis kápolna",
+            "ro": "Capela Saint-Jean-Saint-Louis",
+            "en": "Chapel Saint-Jean-Saint-Louis"
+          },
+          "coords": [
+            6.345736,
+            43.402
+          ],
+          "category": "religious",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Doppelkapelle, die eine tiefe historische Bedeutung hat, und nehmen Sie sich Zeit, die feinen architektonischen Details zu studieren.",
+            "hu": "Keresse fel ezt a festői kettős kápolnát, amely mély történelmi jelentőséggel bír, és szánjon időt a finom építészeti részletek alapos tanulmányozására.",
+            "ro": "Vizitați această capelă dublă pitorească, având o profundă semnificație istorică, și alocați-vă timp pentru a studia detaliile arhitecturale fine.",
+            "en": "Visit this picturesque double chapel boasting profound historical significance, and take your time to carefully study its fine, ancient architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Vieux-Canet",
+            "hu": "Vieux-Canet templom",
+            "ro": "Biserica Vieux-Canet",
+            "en": "Vieux-Canet Church"
+          },
+          "coords": [
+            6.348708,
+            43.401141
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese bemerkenswerte alte Kirche auf dem Hügel, die mit ihren Steindetails fasziniert, und tragen Sie bequeme Schuhe für den Aufstieg.",
+            "hu": "Látogassa meg ezt a figyelemre méltó régi dombtetői templomot, amely kőrészleteivel lenyűgöz, és viseljen kényelmes cipőt a felvezető emelkedőhöz.",
+            "ro": "Vizitați această biserică veche remarcabilă de pe deal, care fascinează prin detaliile sale din piatră, și purtați încălțăminte comodă pentru urcuș.",
+            "en": "Visit this remarkable old hilltop church that fascinates with its ancient stone details, and be sure to wear comfortable walking shoes for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "ZooParc du Cannet des Maures",
+            "hu": "ZooParc du Cannet des Maures",
+            "ro": "ZooParc du Cannet des Maures",
+            "en": "ZooParc du Cannet des Maures"
+          },
+          "coords": [
+            6.361408,
+            43.402451
+          ],
+          "category": "family",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie hautnahe Begegnungen mit verschiedenen Tieren in diesem kleinen, charmanten Zoo, ideal für Kinder, und planen Sie etwa ein bis zwei Stunden ein.",
+            "hu": "Élvezze az állatok közelségét ebben a kis, bájos állatkertben, amely ideális a gyerekek számára, és érdemes egy-két órát szánni a kényelmes bejárásra.",
+            "ro": "Experimentați întâlniri apropiate cu animale în acest mic și fermecător parc zoologic, ideal pentru copii, și rezervați-vă cam o oră sau două pentru vizită.",
+            "en": "Enjoy close encounters with various animals in this small, charming zoo that is ideal for children, and plan for at least an hour to see everything."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Plaine des Maures",
+            "hu": "Plaine des Maures természetvédelmi terület",
+            "ro": "Rezervația Naturală Plaine des Maures",
+            "en": "Plaine des Maures Nature Reserve"
+          },
+          "coords": [
+            6.394767,
+            43.35853
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige rote Erde und die Schirmpinien dieser weiten Ebene, ein echtes Paradies für Wanderer, am besten mit ausreichend Trinkwasser.",
+            "hu": "Fedezze fel e tágas síkság egyedülálló vörös talaját és mandulafenyőit, amely a túrázók igazi paradicsoma, és vigyen magával elegendő ivóvizet.",
+            "ro": "Explorați solul roșu unic și pinii umbrelă din această câmpie vastă, un paradis pentru drumeții, și asigurați-vă că aveți la voi suficientă apă potabilă.",
+            "en": "Explore the unique red soil and umbrella pines of this vast nature reserve, a true paradise for hikers, preferably with plenty of drinking water on hand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im historischen Zentrum von Le Vieux Cannet und führt hinauf zum alten Wachturm. Am Vormittag radeln Sie zu den malerischen Kapellen, bevor Sie den familienfreundlichen ZooParc für eine Pause ansteuern. Der Nachmittag ist geprägt von einer ausgedehnten Fahrt zur Plaine des Maures, einem wunderschönen Naturschutzgebiet. Lassen Sie den Abend gemütlich ausklingen.",
+        "hu": "A kerékpártúra Le Vieux Cannet történelmi központjából indul, és a régi őrtoronyhoz vezet. Délelőtt a festői kápolnákhoz tekerünk, majd a családbarát ZooParc felé vesszük az irányt egy kis pihenőre. A délután folyamán a Plaine des Maures lenyűgöző természetvédelmi területét fedezzük fel, amely különleges látványt nyújt. Este egy kellemes vacsorával zárhatjuk ezt a változatos napot.",
+        "ro": "Turul cu bicicleta începe în centrul istoric Le Vieux Cannet și urcă spre vechiul turn de veghe. Dimineața pedalăm către capelele pitorești, înainte de a face o pauză relaxantă la ZooParc. După-amiaza este marcată de o plimbare mai lungă spre Plaine des Maures, o rezervație naturală deosebită. Încheiați seara într-o atmosferă liniștită, amintindu-vă de peisajele spectaculoase văzute.",
+        "en": "Your bike tour starts in the historical center of Le Vieux Cannet and heads up to the old watchtower. In the morning, you cycle to the picturesque chapels before stopping at the family-friendly ZooParc. The afternoon features an extended ride to the Plaine des Maures, a stunning nature reserve with unique flora. Spend your evening relaxing after a dynamic and visually rewarding day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 10.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Saint-Joseph templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            6.341314,
+            43.392266
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade dieser zentralen Kirche, die den lokalen Glauben widerspiegelt, und achten Sie auf die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg ennek a központi templomnak az egyszerű homlokzatát, amely a helyi hitet tükrözi, és figyeljen a belső tér csendes, békés atmoszférájára.",
+            "ro": "Admirați fațada simplă a acestei biserici centrale, care reflectă credința locală, și bucurați-vă de atmosfera liniștită și spirituală din interior.",
+            "en": "Admire the simple facade of this central church reflecting local faith, and take a moment to appreciate the remarkably quiet, peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Ölmühle",
+            "hu": "Középkori olajmalom",
+            "ro": "Moara medievală de ulei",
+            "en": "Medieval oil mill"
+          },
+          "coords": [
+            6.349536,
+            43.392412
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikalen Überreste der mittelalterlichen Ölmühle, ein Zeugnis der provenzalischen Landwirtschaft, am besten im hellen Vormittagslicht.",
+            "hu": "Fedezze fel a középkori olajmalom rusztikus maradványait, a provence-i mezőgazdaság emlékét, amelyet a legérdemesebb a délelőtti fényben megtekinteni.",
+            "ro": "Descoperiți rămășițele rustice ale morii medievale de ulei, o dovadă a agriculturii provensale, cel mai bine vizitate în lumina blândă a dimineții.",
+            "en": "Discover the rustic remains of the medieval oil mill, a true testament to Provencal agriculture, best photographed in the soft morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Vieux Cannet",
+            "hu": "Le Vieux Cannet",
+            "ro": "Le Vieux Cannet",
+            "en": "Le Vieux Cannet"
+          },
+          "coords": [
+            6.332122,
+            43.394513
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen, geschichtsträchtigen Gassen dieses alten Dorfkerns und achten Sie auf die wunderschön erhaltenen provenzalischen Steinhäuser.",
+            "hu": "Sétáljon végig a történelmi faluközpont szűk, múltidéző utcáin, és figyeljen a gyönyörűen megőrzött provence-i kőházakra a séta során.",
+            "ro": "Plimbați-vă pe străduțele înguste și pline de istorie ale acestui sat vechi și observați casele din piatră provensale, minunat conservate de-a lungul timpului.",
+            "en": "Stroll through the narrow, history-rich alleyways of this ancient village core, paying special attention to the beautifully preserved Provencal stone houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne tour de vigie",
+            "hu": "Régi őrtorony",
+            "ro": "Vechiul turn de veghe",
+            "en": "Ancient watchtower"
+          },
+          "coords": [
+            6.336018,
+            43.405122
+          ],
+          "category": "natural",
+          "arrive_at": "11:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Ruine des alten Wachturms hinauf, um das gesamte Tal zu überblicken, und bringen Sie unbedingt eine Kamera für die fantastischen Fotos mit.",
+            "hu": "Másszon fel a régi őrtorony romjaihoz, ahonnan belátható az egész völgy, és mindenképpen hozzon magával fényképezőgépet a fantasztikus fotókért.",
+            "ro": "Urcați la ruina vechiului turn de veghe pentru a admira întreaga vale și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul superb.",
+            "en": "Climb up to the ruins of the old watchtower to overlook the entire sweeping valley, and be sure to bring a camera for the fantastic panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "ZooParc du Cannet des Maures",
+            "hu": "ZooParc du Cannet des Maures",
+            "ro": "ZooParc du Cannet des Maures",
+            "en": "ZooParc du Cannet des Maures"
+          },
+          "coords": [
+            6.361408,
+            43.402451
+          ],
+          "category": "family",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie hautnahe Begegnungen mit verschiedenen Tieren in diesem kleinen, charmanten Zoo, ideal für Kinder, und planen Sie etwa ein bis zwei Stunden ein.",
+            "hu": "Élvezze az állatok közelségét ebben a kis, bájos állatkertben, amely ideális a gyerekek számára, és érdemes egy-két órát szánni a kényelmes bejárásra.",
+            "ro": "Experimentați întâlniri apropiate cu animale în acest mic și fermecător parc zoologic, ideal pentru copii, și rezervați-vă cam o oră sau două pentru vizită.",
+            "en": "Enjoy close encounters with various animals in this small, charming zoo that is ideal for children, and plan for at least an hour to see everything."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Plaine des Maures",
+            "hu": "Plaine des Maures természetvédelmi terület",
+            "ro": "Rezervația Naturală Plaine des Maures",
+            "en": "Plaine des Maures Nature Reserve"
+          },
+          "coords": [
+            6.394767,
+            43.35853
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige rote Erde und die Schirmpinien dieser weiten Ebene, ein echtes Paradies für Wanderer, am besten mit ausreichend Trinkwasser.",
+            "hu": "Fedezze fel e tágas síkság egyedülálló vörös talaját és mandulafenyőit, amely a túrázók igazi paradicsoma, és vigyen magával elegendő ivóvizet.",
+            "ro": "Explorați solul roșu unic și pinii umbrelă din această câmpie vastă, un paradis pentru drumeții, și asigurați-vă că aveți la voi suficientă apă potabilă.",
+            "en": "Explore the unique red soil and umbrella pines of this vast nature reserve, a true paradise for hikers, preferably with plenty of drinking water on hand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour ermöglicht es Ihnen, bequem die Église Saint-Joseph und die historische Ölmühle zu besichtigen. Gegen Mittag fahren Sie hinauf nach Le Vieux Cannet und bewundern die Aussicht vom alten Wachturm. Nachmittags besuchen Sie den ZooParc, ideal für Familien, bevor Sie in die weite Natur der Plaine des Maures eintauchen. Der Abend bietet die perfekte Gelegenheit, die landschaftlichen Kontraste der Region Revue passieren zu lassen.",
+        "hu": "Az autós túra lehetővé teszi, hogy kényelmesen felfedezzük a Saint-Joseph templomot és a történelmi olajmalmot. Dél körül felhajtunk Le Vieux Cannet-ba, és megcsodáljuk a kilátást a régi őrtoronyból. Délután meglátogatjuk a családosok számára ideális ZooParc-ot, majd elmerülünk a Plaine des Maures vadregényes természetében. Az este tökéletes alkalom arra, hogy felidézzük a régió lenyűgöző táji kontrasztjait.",
+        "ro": "Turul cu mașina vă permite să vizitați confortabil Biserica Saint-Joseph și moara istorică de ulei. În jurul prânzului, conduceți spre Le Vieux Cannet și admirați priveliștea de la vechiul turn de veghe. După-amiaza vizitați ZooParc, ideal pentru familii, înainte de a explora vasta rezervație naturală Plaine des Maures. Seara oferă ocazia perfectă pentru a reflecta asupra contrastelor peisagistice spectaculoase ale regiunii.",
+        "en": "The car tour allows you to comfortably visit the Saint-Joseph Church and the historic oil mill early in the day. Around noon, drive up to Le Vieux Cannet and admire the sweeping views from the old watchtower. In the afternoon, visit the family-friendly ZooParc before immersing yourself in the vast wilderness of the Plaine des Maures nature reserve. The evening is perfect for reflecting on the region's stunning landscape contrasts."
+      }
+    }
+  }
+}

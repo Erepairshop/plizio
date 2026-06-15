@@ -1,0 +1,451 @@
+{
+  "city_id": "indonesia-nusa-dua-cities-v2",
+  "anchor": {
+    "name": "Nusa Dua",
+    "coords": [
+      115.2275,
+      -8.8025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 1.06,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mandala Monument",
+            "hu": "Mandala Monument",
+            "ro": "Mandala Monument",
+            "en": "Mandala Monument"
+          },
+          "coords": [
+            115.227874,
+            -8.796338
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an diesem historischen Denkmal, um den Masterplan von Nusa Dua zu verstehen, und fotografieren Sie frühzeitig ohne die Touristenmassen.",
+            "hu": "Kezdje a napot ennél a történelmi emlékműnél, hogy átlássa Nusa Dua tervezését, és készítsen fotókat a déli turistatömeg megérkezése előtt.",
+            "ro": "Începeți la acest monument istoric pentru a înțelege planul stațiunii Nusa Dua și faceți fotografii devreme, înainte de aglomerația de la prânz.",
+            "en": "Start at this iconic historical marker to grasp the scale of Nusa Dua's master plan, and arrive early to photograph it without the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Nusa Dua Beach",
+            "hu": "Nusa Dua Beach",
+            "ro": "Nusa Dua Beach",
+            "en": "Nusa Dua Beach"
+          },
+          "coords": [
+            115.229916,
+            -8.797496
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses makellosen goldenen Sandstrandes und mieten Sie eine Liege im Schatten der Palmen, um der intensiven Tropensonne zu entgehen.",
+            "hu": "Sétáljon végig az aranyhomokos partszakaszon, és béreljen egy napágyat a pálmafák árnyékában, hogy elkerülje a trópusi nap erős sugarait.",
+            "ro": "Plimbați-vă pe această plajă cu nisip auriu și închiriați un șezlong la umbra palmierilor pentru a vă proteja de soarele tropical intens.",
+            "en": "Stroll along this immaculate stretch of golden sand, where you should rent a lounger near the shaded palms to stay cool under the intense tropical sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pasifika",
+            "hu": "Museum Pasifika",
+            "ro": "Museum Pasifika",
+            "en": "Museum Pasifika"
+          },
+          "coords": [
+            115.230567,
+            -8.799925
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die asiatisch-pazifische Kunst ein und widmen Sie dem Gauguin-Raum mindestens eine Stunde für seine seltenen polynesischen Skizzen.",
+            "hu": "Merüljön el az ázsiai-csendes-óceáni művészetben, és szánjon legalább egy órát a Gauguin-teremre a ritka polinéziai vázlatok megtekintéséhez.",
+            "ro": "Cufundați-vă în arta din Asia-Pacific în acest sanctuar și dedicați cel puțin o oră sălii Gauguin pentru a vedea schițele sale polineziene.",
+            "en": "Immerse yourself in Asia-Pacific art in this quiet sanctuary, dedicating at least an hour to the Gauguin room for a rare glimpse of his Polynesian sketches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bali Nusa Dua Theatre",
+            "hu": "Bali Nusa Dua Theatre",
+            "ro": "Bali Nusa Dua Theatre",
+            "en": "Bali Nusa Dua Theatre"
+          },
+          "coords": [
+            115.234145,
+            -8.800633
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie authentische balinesische Kulturgeschichten und buchen Sie Ihre Devdan-Show-Tickets im Voraus für die beste zentrale Sicht auf die Bühne.",
+            "hu": "Tapasztalja meg az autentikus balinéz kultúrát ebben a nagyszerű színházban, és foglalja le előre a Devdan Show jegyeit a legjobb középső helyekért.",
+            "ro": "Experimentați poveștile culturale balineze autentice și rezervați-vă biletele la spectacolul Devdan în avans pentru cea mai bună vedere centrală.",
+            "en": "Experience authentic Balinese cultural storytelling in this grand venue, booking your Devdan Show tickets in advance for the best central view of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Turf&Surf water park",
+            "hu": "Turf&Surf water park",
+            "ro": "Turf&Surf water park",
+            "en": "Turf&Surf water park"
+          },
+          "coords": [
+            115.235319,
+            -8.80019
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach dem Sightseeing in diesem Wasserpark ab und bringen Sie Ihr eigenes Handtuch mit, um die hohen Leihgebühren am Eingang zu vermeiden.",
+            "hu": "Hűtse le magát a városnézés után ebben a nyüzsgő vízi parkban, és mindenképpen hozzon saját törölközőt, hogy elkerülje a magas bérleti díjakat.",
+            "ro": "Răcoriți-vă în acest parc acvatic vibrant după vizitare și aduceți-vă propriul prosop pentru a evita taxele mari de închiriere de la intrare.",
+            "en": "Cool off after a day of sightseeing at this vibrant water park, making sure to bring your own towel to avoid the surprisingly high rental fees at the gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am legendären Mandala-Denkmal, das den geordneten Charme des ITDC-Komplexes widerspiegelt. Danach geht es zum Nusa Dua Strand.\n\nDer Mittag lädt zu einem tiefen kulturellen Eintauchen ins Museum Pasifika ein, einer klimatisierten Oase.\n\nDer Nachmittag verlagert sich ins Bali Nusa Dua Theatre für lebhafte lokale Legenden.\n\nDer Abend endet erfrischend und spaßig im modernen Turf&Surf Wasserpark.",
+        "hu": "A reggel az ikonikus Mandala emlékműnél kezdődik, felfedezve az ITDC komplexum varázsát, majd a Nusa Dua strand következik.\n\nA délidő a Pasifika Múzeum légkondicionált oázisában telik az ázsiai művészetekkel.\n\nDélután a Bali Nusa Dua Színházban a helyi legendák elevenednek meg.\n\nAz estét a Turf&Surf vízi park hűsítő és szórakoztató medencéiben zárjuk le.",
+        "ro": "Dimineața începe la Monumentul Mandala, descoperind farmecul complexului ITDC, urmată de o plimbare spre plaja Nusa Dua.\n\nPrânzul aduce o incursiune culturală în Muzeul Pasifika, o oază de artă cu aer condiționat.\n\nDupă-amiaza se mută la Teatrul Bali Nusa Dua pentru a explora legendele locale.\n\nSeara se încheie revigorant și distractiv în piscinele parcului acvatic Turf&Surf.",
+        "en": "Morning begins at the iconic Mandala Monument, mapping out the orderly charm of the ITDC complex. Stroll smoothly to Nusa Dua Beach to enjoy the morning sun.\n\nMidday invites a deep cultural dive into Museum Pasifika, an air-conditioned oasis of regional art.\n\nAfternoon energy shifts to the Bali Nusa Dua Theatre, exploring vibrant local legends.\n\nEvening splashes into fun at the Turf&Surf water park, a refreshing finale."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 4.73,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Adat Desa Bualu",
+            "hu": "Pasar Adat Desa Bualu",
+            "ro": "Pasar Adat Desa Bualu",
+            "en": "Pasar Adat Desa Bualu"
+          },
+          "coords": [
+            115.223007,
+            -8.798043
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt auf diesem traditionellen Markt, um das lokale Leben zu sehen, und kaufen Sie frische tropische Früchte, bevor die Stände schließen.",
+            "hu": "Kezdje a túrát ezen a nyüzsgő hagyományos piacon a helyi élet megfigyelésével, és vegyen friss trópusi gyümölcsöket a standok bezárása előtt.",
+            "ro": "Începeți plimbarea în această piață tradițională pentru a vedea viața locală și cumpărați fructe tropicale proaspete înainte ca tarabele să se închidă.",
+            "en": "Start your ride at this bustling traditional market to see daily local life, buying some fresh tropical fruits early before the stalls begin to close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandala Monument",
+            "hu": "Mandala Monument",
+            "ro": "Mandala Monument",
+            "en": "Mandala Monument"
+          },
+          "coords": [
+            115.227874,
+            -8.796338
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem imposanten Bauwerk der indonesischen Einheit und machen Sie im Schatten eine kurze Pause, um Flüssigkeit zu tanken.",
+            "hu": "Tekerjen ehhez a lenyűgöző emlékműhöz, amely az indonéz egységet jelképezi, és tartson egy rövid szünetet az árnyékában, hogy felfrissüljön.",
+            "ro": "Pedalați până la această structură impunătoare a unității indoneziene și faceți o pauză scurtă la umbră pentru a vă hidrata.",
+            "en": "Pedal up to this imposing structure representing Indonesian unity, taking a quick pause in its shadow to rehydrate and plan the rest of your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pasifika",
+            "hu": "Museum Pasifika",
+            "ro": "Museum Pasifika",
+            "en": "Museum Pasifika"
+          },
+          "coords": [
+            115.230567,
+            -8.799925
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die umfangreichen Sammlungen balinesischer Gemälde sowie die wechselnden Ausstellungen.",
+            "hu": "Zárja le kerékpárját a bejáratnál, és fedezze fel a balinéz festmények hatalmas gyűjteményét, különösen a modern időszaki kiállításokat.",
+            "ro": "Încuiați-vă bicicleta la intrare și explorați colecțiile vaste de picturi balineze, verificând și expozițiile temporare pentru perspective moderne.",
+            "en": "Lock your bike securely at the entrance and explore vast collections of Balinese paintings, checking out the temporary exhibitions for modern perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Nusa Dua Beach",
+            "hu": "Nusa Dua Beach",
+            "ro": "Nusa Dua Beach",
+            "en": "Nusa Dua Beach"
+          },
+          "coords": [
+            115.229916,
+            -8.797496
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Fahren Sie zur unberührten Küste, wo der Weg fahrradfreundlich ist, tauchen Sie Ihre Zehen ins Wasser und genießen Sie eine lokale Kokosnuss.",
+            "hu": "Tekerjen le az érintetlen partvidékre, ahol az út kerékpárosbarát, mártsa lábát a tiszta vízbe, és élvezzen egy frissítő kókuszitalt.",
+            "ro": "Pedalați spre țărmul curat pe o pistă prietenoasă cu bicicletele, scufundați-vă degetele în apa limpede și savurați o nucă de cocos proaspătă.",
+            "en": "Cycle down to the pristine shoreline where the path is bike-friendly, dipping your toes in the clear water and enjoying a quick local coconut drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Geger Beach",
+            "hu": "Pura Geger Beach",
+            "ro": "Pura Geger Beach",
+            "en": "Pura Geger Beach"
+          },
+          "coords": [
+            115.22433,
+            -8.819944
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.55,
+          "tip_5lang": {
+            "de": "Bewältigen Sie die leichte Küstensteigung, um diese atemberaubende Bucht zu erreichen, und halten Sie Ausschau nach Algenbauern bei der Arbeit.",
+            "hu": "Küzdje le az enyhe tengerparti emelkedőt ehhez a rejtett öbölhöz, és figyelje meg a színes víz alatti terméseiket gondozó hínártermesztőket.",
+            "ro": "Urcați panta ușoară a coastei pentru a ajunge la acest golf ascuns și urmăriți fermierii de alge marine îngrijindu-și culturile subacvatice.",
+            "en": "Navigate the slight coastal incline to reach this stunning hidden bay, keeping an eye out for seaweed farmers tending to their colorful underwater crops."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikko beach",
+            "hu": "Nikko beach",
+            "ro": "Nikko beach",
+            "en": "Nikko beach"
+          },
+          "coords": [
+            115.220348,
+            -8.826429
+          ],
+          "category": "landmark",
+          "arrive_at": "15:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem dramatischen Sandstrand, der für Kamelritte bekannt ist, pünktlich zum Sonnenuntergang mit herrlichen Farben.",
+            "hu": "Fejezze be útját ezen a drámai homokos szakaszon, amely a tevegelésről ismert, és érkezzen naplemente előtt, hogy lássa a rózsaszín eget.",
+            "ro": "Încheiați-vă călătoria pe această plajă dramatică faimoasă pentru plimbările cu cămile, ajungând chiar înainte ca cerul să devină roz la apus.",
+            "en": "End your journey at this dramatic stretch of sand known for camel rides, arriving just before sunset to watch the sky turn brilliant shades of pink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem lebhaften Markt von Bualu und bietet einen Vorgeschmack auf das balinesische Leben, bevor es in die Resortzone geht.\n\nMittags machen wir Halt am beeindruckenden Mandala-Denkmal und tauchen im renommierten Museum Pasifika in die asiatische Kunst ein.\n\nAm Nachmittag radeln wir entlang der Küste vom beliebten Nusa Dua Strand hinunter zum ruhigeren und malerischen Pura Geger Strand.\n\nDer Abend endet perfekt am Nikko Beach, wo die dramatischen Klippen eine unvergessliche Kulisse für die tropische Dämmerung bieten.",
+        "hu": "A reggeli tekerés Bualu falu nyüzsgő piacáról indul, bepillantást engedve az igazi balinéz életbe, majd az üdülőközpont felé haladunk.\n\nDélben megállunk a magasodó Mandala emlékműnél, és elmerülünk a művészetekben a híres Pasifika Múzeumban.\n\nDélután a tengerparton kerekezünk a népszerű Nusa Dua strandtól a festőibb és elzártabb Pura Geger strand irányába.\n\nAz este tökéletes befejezése a Nikko partján vár ránk, ahol a drámai sziklák felejthetetlen trópusi alkonyati hátteret biztosítanak.",
+        "ro": "Dimineața începe cu pedalatul prin piața vibrantă a satului Bualu, oferind o mostră din viața balineză înainte de a intra în zona stațiunii.\n\nPrânzul aduce o oprire la impunătorul Monument Mandala și o scufundare profundă în arta asiatică la renumitul Muzeu Pasifika.\n\nDupă-amiaza urmărim coasta de la populara plajă Nusa Dua până la plaja mai retrasă și pitorească Pura Geger.\n\nSeara se încheie perfect la plaja Nikko, unde stâncile dramatice de pe coastă oferă un fundal de neuitat la apus.",
+        "en": "Morning pedals start in the vibrant Bualu village market, offering a taste of real Balinese life before transitioning into the resort district.\n\nMidday brings a serene stop at the towering Mandala Monument and a deep dive into art at the renowned Museum Pasifika.\n\nAfternoon cycles trace the coast from the popular Nusa Dua Beach down to the more secluded and picturesque Pura Geger Beach.\n\nEvening concludes perfectly at Nikko beach, where the dramatic coastal cliffs provide an unforgettable tropical twilight backdrop."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 4.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pintu Masuk Pura Jagatnatha",
+            "hu": "Pintu Masuk Pura Jagatnatha",
+            "ro": "Pintu Masuk Pura Jagatnatha",
+            "en": "Pintu Masuk Pura Jagatnatha"
+          },
+          "coords": [
+            115.214573,
+            -8.800453
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie früh zu diesem kunstvollen Tempeleingang, um die feinen Steinschnitzereien ohne verdeckende Fahrzeuge fotografieren zu können.",
+            "hu": "Vezessen el ehhez a díszes templomkapuhoz korán, hogy megcsodálja a bonyolult kőfaragásokat, mielőtt más járművek eltakarnák a kilátást.",
+            "ro": "Conduceți devreme către această poartă elaborată a templului pentru a admira sculpturile complicate în piatră fără vehicule care să vă blocheze unghiul.",
+            "en": "Drive to this elaborate temple entrance gate early to appreciate its intricate stone carvings without other vehicles blocking your ideal camera angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+            "hu": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+            "ro": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+            "en": "Gereja Maria Bunda Segala Bangsa, Nusa Dua"
+          },
+          "coords": [
+            115.213671,
+            -8.800313
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie im Schatten und bewundern Sie diese einzigartige Kirche, die katholische Traditionen mit balinesischer Architektur verbindet.",
+            "hu": "Parkoljon a kijelölt árnyékos részen, és csodálja meg ezt az egyedi templomot, amely a katolikus hagyományokat balinéz építészettel ötvözi.",
+            "ro": "Parcați în zona umbrită și admirați această biserică unică, care îmbină frumos tradițiile catolice cu arhitectura balineză distinctivă.",
+            "en": "Park in the designated shaded area and marvel at this unique church that beautifully blends Catholic traditions with distinctive Balinese architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Adat Desa Bualu",
+            "hu": "Pasar Adat Desa Bualu",
+            "ro": "Pasar Adat Desa Bualu",
+            "en": "Pasar Adat Desa Bualu"
+          },
+          "coords": [
+            115.223007,
+            -8.798043
+          ],
+          "category": "cultural",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Navigieren Sie vorsichtig durch die Straßen und kaufen Sie authentische lokale Snacks; die eingewickelten Reisleckereien sind ideal für unterwegs.",
+            "hu": "Óvatosan vezessen a forgalmas utcákon, és vegyen itt autentikus helyi harapnivalókat, különösen a csomagolt rizses ételeket útravalóként.",
+            "ro": "Conduceți cu grijă pe străzile aglomerate și cumpărați gustări locale autentice, alegând preparatele din orez ambalate pentru o masă rapidă.",
+            "en": "Navigate the busy surrounding streets carefully and buy some authentic local snacks here, choosing the wrapped rice treats for an easy on-the-go meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pasifika",
+            "hu": "Museum Pasifika",
+            "ro": "Museum Pasifika",
+            "en": "Museum Pasifika"
+          },
+          "coords": [
+            115.230567,
+            -8.799925
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Nutzen Sie die großzügigen Parkplätze des Museums und genießen Sie die klimatisierten Galerien als perfekte Flucht vor der Mittagshitze.",
+            "hu": "Használja ki a múzeum tágas parkolóját, és élvezze a légkondicionált galériákat, amelyek tökéletes menedéket nyújtanak a trópusi hőség elől.",
+            "ro": "Profitați de parcarea spațioasă a muzeului și bucurați-vă de galeriile cu aer condiționat, care oferă o evadare perfectă din căldura tropicală la prânz.",
+            "en": "Take advantage of the ample museum parking and enjoy the extensive air-conditioned galleries that offer a perfect midday escape from the tropical heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Bali Nusa Dua Theatre",
+            "hu": "Bali Nusa Dua Theatre",
+            "ro": "Bali Nusa Dua Theatre",
+            "en": "Bali Nusa Dua Theatre"
+          },
+          "coords": [
+            115.234145,
+            -8.800633
+          ],
+          "category": "cultural",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kommen Sie bequem mit dem Auto an, um eine kulturelle Vorstellung zu sehen, und nutzen Sie VIP-Parkplätze, wenn Sie Premium-Tickets haben.",
+            "hu": "Érkezzen kényelmesen autójával a látványos kulturális előadásra, és használja a VIP parkolót, ha prémium ülőhelyeket foglalt.",
+            "ro": "Ajungeți confortabil cu mașina pentru un spectacol cultural impresionant, folosind parcarea VIP dacă ați rezervat bilete premium.",
+            "en": "Arrive comfortably in your vehicle to watch a spectacular cultural performance, using the VIP parking options if you booked premium seating tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Geger Beach",
+            "hu": "Pura Geger Beach",
+            "ro": "Pura Geger Beach",
+            "en": "Pura Geger Beach"
+          },
+          "coords": [
+            115.22433,
+            -8.819944
+          ],
+          "category": "landmark",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.33,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem malerischen Klippenstrand und essen Sie in einem lokalen Warung, während Sie die dramatischen Wellen beobachten.",
+            "hu": "Fejezze be autós túráját ezen a festői sziklaparton, és egyen egy helyi warungban, miközben a drámai óceáni hullámokat figyeli.",
+            "ro": "Încheiați-vă turul la această plajă pitorească de pe stânci și mâncați la un warung local în timp ce priviți valurile dramatice ale oceanului.",
+            "en": "End your driving tour at this picturesque cliffside beach, grabbing a bite at a local warung while watching the dramatic ocean waves roll in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt mit den architektonischen Wundern von Pura Jagatnatha und dem einzigartigen Design der katholischen Kirche Maria Bunda.\n\nMittags tauchen wir auf dem Markt von Bualu in das lokale Leben ein, bevor wir im weitläufigen Museum Pasifika klimatisierte Zuflucht suchen.\n\nDer Nachmittag geht nahtlos in erstklassige Unterhaltung im nahe gelegenen Bali Nusa Dua Theatre über.\n\nDer Abend endet mit einer malerischen Küstenfahrt zum Pura Geger Beach, wo wir die Aussicht von den Klippen genießen.",
+        "hu": "A reggeli kocsikázás a Pura Jagatnatha építészeti csodáival és a Maria Bunda katolikus templom egyedülálló kialakításával indul.\n\nDélben a Bualu piac helyi forgatagába vetjük magunkat, mielőtt légkondicionált menedéket keresnénk a hatalmas Pasifika Múzeumban.\n\nA délután zökkenőmentesen vált át világszínvonalú szórakozásba a közeli Bali Nusa Dua Színházban.\n\nAz este egy festői tengerparti autózással zárul a Pura Geger strandig, élvezve a sziklás kilátást és a hűsítő óceáni szellőt.",
+        "ro": "Plimbarea de dimineață începe cu minunile arhitecturale de la Pura Jagatnatha și designul unic al bisericii catolice Maria Bunda.\n\nLa prânz, explorăm viața locală la piața Bualu înainte de a căuta un refugiu cu aer condiționat la vastul Muzeu Pasifika.\n\nDupă-amiaza facem tranziția către un divertisment de clasă mondială la Teatrul Bali Nusa Dua din apropiere.\n\nSeara se încheie cu o plimbare pitorească pe coastă până la plaja Pura Geger, bucurându-ne de priveliștile de pe stânci.",
+        "en": "Morning cruising begins with the architectural wonders of Pura Jagatnatha and the uniquely blended design of the Maria Bunda Catholic church.\n\nMidday driving plunges into the local heartbeat at the Bualu market before seeking air-conditioned refuge at the extensive Museum Pasifika.\n\nAfternoon transitions seamlessly into world-class entertainment at the nearby Bali Nusa Dua Theatre.\n\nEvening concludes with a scenic coastal drive down to Pura Geger Beach, enjoying cliffside views and cooling ocean breezes."
+      }
+    }
+  }
+}

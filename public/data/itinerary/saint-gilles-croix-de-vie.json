@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-gilles-croix-de-vie",
+  "anchor": {
+    "name": "Saint-Gilles-Croix-de-Vie",
+    "coords": [
+      -1.9444,
+      46.6975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gilles Church",
+            "hu": "Saint-Gilles Church",
+            "ro": "Saint-Gilles Church",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            -1.933206,
+            46.695854
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche, die das spirituelle Leben der Stadt prägt, aber kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű építészetét, amely a város hitéletének központja, de érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice care ancorează viața spirituală a orașului, dar asigurați-vă că ajungeți devreme pentru a evita aglomerația.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the town's spiritual life, but be sure to arrive early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Jean-Marcel Couradette",
+            "hu": "Square Jean-Marcel Couradette",
+            "ro": "Square Jean-Marcel Couradette",
+            "en": "Square Jean-Marcel Couradette"
+          },
+          "coords": [
+            -1.933488,
+            46.691274
+          ],
+          "category": "family",
+          "arrive_at": "09:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem charmanten Platz, der ideal ist, um das bunte Treiben zu beobachten, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
+            "hu": "Pihenjen ezen a bájos téren, amely tökéletes helyszín az emberek megfigyelésére, és vegyen egy friss kávét a közeli helyi kávézók egyikében.",
+            "ro": "Relaxați-vă în această piațetă fermecătoare, perfectă pentru a observa trecătorii, și luați o cafea proaspătă de la una dintre cafenelele locale din apropiere.",
+            "en": "Relax in this charming city square that offers a perfect spot for people-watching, and grab a fresh coffee from one of the nearby local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Church",
+            "hu": "Sainte-Croix Church",
+            "ro": "Sainte-Croix Church",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -1.939763,
+            46.696959
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das feierliche Innere dieser prächtigen Kirche, um das lokale Erbe zu verstehen, und sprechen Sie leise, um die ruhige Atmosphäre zu respektieren.",
+            "hu": "Fedezze fel e csodálatos templom ünnepélyes belső terét a helyi örökség megismeréséhez, és beszéljen halkan, hogy tiszteletben tartsa a csendes légkört.",
+            "ro": "Explorați interiorul solemn al acestei biserici magnifice pentru a înțelege patrimoniul local, păstrând o voce joasă pentru a respecta atmosfera liniștită.",
+            "en": "Explore the solemn interior of this magnificent church to understand local heritage, keeping your voice low to respect the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Henry Simon House",
+            "hu": "Henry Simon House",
+            "ro": "Henry Simon House",
+            "en": "Henry Simon House"
+          },
+          "coords": [
+            -1.941234,
+            46.699011
+          ],
+          "category": "cultural",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das tiefgreifende künstlerische Erbe in diesem Kulturhaus und fragen Sie am Empfang nach den verfügbaren mehrsprachigen Audioguides.",
+            "hu": "Fedezze fel a mélyreható művészeti örökséget ebben a kulturális házban, és indulás előtt érdeklődjön a recepción a többnyelvű audioguide-okról.",
+            "ro": "Descoperiți moștenirea artistică profundă în această casă culturală și verificați la recepție dacă sunt disponibile ghiduri audio multilingve.",
+            "en": "Discover the profound artistic legacy inside this dedicated cultural home, and check the entrance desk for available multilingual audio guides before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite plage",
+            "hu": "Petite plage",
+            "ro": "Petite plage",
+            "en": "Petite plage"
+          },
+          "coords": [
+            -1.948872,
+            46.696882
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem kleineren Strand mit herrlichem Blick auf die Küste und packen Sie eine leichte Windjacke für plötzliche Meeresbrisen ein.",
+            "hu": "Élvezze a nyugodt légkört ezen a kisebb strandon, amely kiváló kilátást nyújt a partra, és ne felejtsen el könnyű széldzsekit hozni a hirtelen feltámadó szél ellen.",
+            "ro": "Bucurați-vă de atmosfera liniștită de pe această plajă mai mică, care oferă vederi excelente la coastă, și nu uitați să luați o jachetă ușoară pentru brizele marine.",
+            "en": "Enjoy the tranquil atmosphere at this smaller beach which provides excellent coastal views, remembering to pack a light windbreaker for sudden sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -1.945187,
+            46.695954
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand, der die natürliche Schönheit der Region prägt, und ziehen Sie die Schuhe aus, um den weichen Sand zu spüren.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos parton, amely a régió természeti szépségét adja, és vegye le a cipőjét, hogy teljesen átélje a puha atlanti homokot.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm nisipos întins care definește frumusețea naturală a regiunii și descălțați-vă pentru a simți pe deplin nisipul fin.",
+            "en": "Stroll along this expansive sandy shore that defines the region's natural beauty, and take off your shoes to fully experience the soft Atlantic sands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Morgen mit einem Spaziergang durch historische Straßen und dem Besuch lokaler Kirchen.\n\nMittags: Mittags laden das reiche maritime und kulturelle Erbe der Stadt zur Erkundung ein.\n\nNachmittags: Am Nachmittag lockt die frische Meeresbrise an die feinen Sandstrände.\n\nAbends: Lassen Sie den Tag ausklingen, während die Sonne die ruhigen Gewässer in goldenes Licht taucht.",
+        "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
+        "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
+        "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sardine Atelier",
+            "hu": "Sardine Atelier",
+            "ro": "Sardine Atelier",
+            "en": "Sardine Atelier"
+          },
+          "coords": [
+            -1.932889,
+            46.700176
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum alles über die berühmte Fischereigeschichte der Stadt und kaufen Sie im Souvenirshop authentische lokale Konserven.",
+            "hu": "Ismerje meg a város híres halászati történelmét ebben a múzeumban, és vásároljon autentikus helyi konzerveket az ajándékboltban ízletes szuvenírként.",
+            "ro": "Aflați despre faimoasa istorie a pescuitului din acest oraș în acest muzeu captivant și cumpărați niște conserve locale autentice de la magazinul de suveniruri.",
+            "en": "Learn about the town's famous fishing history in this engaging museum, and buy some authentic local preserves from the gift shop as a tasty souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gilles Church",
+            "hu": "Saint-Gilles Church",
+            "ro": "Saint-Gilles Church",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            -1.933206,
+            46.695854
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser Kirche, die das spirituelle Zentrum bildet, und schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű építészetét, de ne felejtse el biztonságosan rögzíteni kerékpárját a kinti tárolókban.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici istorice, asigurându-vă că vă legați bicicleta la rastelele special amenajate din exterior.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the town's spiritual life, ensuring you secure your bike at the designated racks outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-golf du Petit Bois",
+            "hu": "Mini-golf du Petit Bois",
+            "ro": "Mini-golf du Petit Bois",
+            "en": "Mini-golf du Petit Bois"
+          },
+          "coords": [
+            -1.937017,
+            46.689272
+          ],
+          "category": "family",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Haben Sie Spaß mit der Familie auf diesem charmanten Minigolfplatz im Wald und besuchen Sie ihn am besten kurz vor dem Mittagessen, um der Nachmittagssonne zu entgehen.",
+            "hu": "Érezze jól magát családjával és barátaival ezen a fák között megbúvó minigolf pályán, és próbáljon meg ebéd előtt érkezni a délutáni hőség elkerülése végett.",
+            "ro": "Distrați-vă cu familia pe acest teren de mini-golf fermecător din pădure și încercați să vizitați chiar înainte de prânz pentru a evita soarele de după-amiază.",
+            "en": "Have fun with family and friends at this engaging mini-golf course nestled in the woods, and aim to visit right before lunch to avoid the peak afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -1.945187,
+            46.695954
+          ],
+          "category": "natural",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Weite des Ozeans an diesem berühmten Küstenabschnitt und bleiben Sie mit Ihrem Fahrrad auf dem asphaltierten Promenadenweg.",
+            "hu": "Csodálja meg az óceán hatalmas kiterjedését erről a híres partszakaszról, miközben kerékpárját a burkolt sétányon tartja a kényelmesebb haladás érdekében.",
+            "ro": "Minunați-vă de întinderea vastă a oceanului de pe această coastă renumită, păstrând bicicleta pe aleea pietruită a promenadei pentru o plimbare mai ușoară.",
+            "en": "Marvel at the vast expanse of the ocean from this renowned stretch of coastline, keeping your bike on the paved promenade path for a smoother ride."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pelle à Porteau",
+            "hu": "La Pelle à Porteau",
+            "ro": "La Pelle à Porteau",
+            "en": "La Pelle à Porteau"
+          },
+          "coords": [
+            -1.9591,
+            46.694352
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte felsige Bucht, die fantastische Fotomotive bietet, und treten Sie vorsichtig auf, da die unebenen Steine nass rutschig sind.",
+            "hu": "Fedezze fel ezt a rejtett sziklás öblöt, amely fantasztikus helyszíneket kínál a fotózáshoz, de lépkedjen óvatosan, mert a nedves sziklák csúszósak lehetnek.",
+            "ro": "Descoperiți acest golf stâncos ascuns care oferă locuri fantastice pentru fotografie și pășiți cu grijă deoarece rocile inegale pot fi alunecoase când sunt umede.",
+            "en": "Discover this hidden rocky inlet that offers fantastic spots for coastal photography, and tread carefully as the uneven rocks can be quite slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bussoleries",
+            "hu": "Les Bussoleries",
+            "ro": "Les Bussoleries",
+            "en": "Les Bussoleries"
+          },
+          "coords": [
+            -1.974525,
+            46.699803
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Wellen gegen die dramatische Küste krachen, der perfekte Ort, um ruhig zu sitzen und die abendliche Flut hereinrollen zu sehen.",
+            "hu": "Nézze, ahogy a lenyűgöző hullámok a drámai partszakasznak csapódnak, ami tökéletes végső helyszín arra, hogy csendben ülve figyelje az esti dagályt.",
+            "ro": "Priviți valurile hipnotizante izbindu-se de țărmul dramatic, fiind locul final perfect pentru a sta liniștit și a urmări sosirea mareei de seară.",
+            "en": "Watch the mesmerizing waves crash against the dramatic shoreline features here, making it the perfect final spot to sit quietly and watch the evening tide roll in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Morgen mit einem Spaziergang durch historische Straßen und dem Besuch lokaler Kirchen.\n\nMittags: Mittags laden das reiche maritime und kulturelle Erbe der Stadt zur Erkundung ein.\n\nNachmittags: Am Nachmittag lockt die frische Meeresbrise an die feinen Sandstrände.\n\nAbends: Lassen Sie den Tag ausklingen, während die Sonne die ruhigen Gewässer in goldenes Licht taucht.",
+        "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
+        "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
+        "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Halles Covered Market",
+            "hu": "Les Halles Covered Market",
+            "ro": "Les Halles Covered Market",
+            "en": "Les Halles Covered Market"
+          },
+          "coords": [
+            -1.911506,
+            46.689563
+          ],
+          "category": "culinary",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige kulinarische Szene an den Ständen mit frischen regionalen Produkten und bringen Sie Bargeld mit, um schnelle Einkäufe zu erleichtern.",
+            "hu": "Tapasztalja meg a nyüzsgő helyi gasztronómiát a friss regionális termékeket kínáló standoknál, és hozzon magával aprópénzt a gyorsabb vásárlás érdekében.",
+            "ro": "Experimentați scena culinară locală vibrantă explorând tarabele cu produse regionale proaspete și aduceți bani cash pentru a facilita tranzacțiile rapide cu vânzătorii.",
+            "en": "Experience the vibrant local culinary scene by exploring fresh regional produce stalls, and bring small cash bills to make quick transactions with the vendors easier."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit vélo",
+            "hu": "Circuit vélo",
+            "ro": "Circuit vélo",
+            "en": "Circuit vélo"
+          },
+          "coords": [
+            -1.915213,
+            46.686882
+          ],
+          "category": "family",
+          "arrive_at": "10:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese gut durchdachte Strecke, die bei aktiven Familien beliebt ist, und parken Sie Ihr Auto auf dem angrenzenden Parkplatz, um Strafzettel zu vermeiden.",
+            "hu": "Látogasson el erre a jól megtervezett pályára, amely az aktív családok kedvence, és parkoljon a kijelölt parkolóban az utcai bírságok elkerülése végett.",
+            "ro": "Opriți-vă la această pistă de activități bine concepută, preferată de familiile active, și parcați mașina în parcarea special amenajată adiacentă pentru a evita amenzile.",
+            "en": "Stop by this well-designed activity track that is a favorite for active families, and park your vehicle in the adjacent designated lot to avoid street tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Sardine Atelier",
+            "hu": "Sardine Atelier",
+            "ro": "Sardine Atelier",
+            "en": "Sardine Atelier"
+          },
+          "coords": [
+            -1.932889,
+            46.700176
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der traditionellen Sardinenkonservierung ein und kommen Sie früh, um einen bequemen Parkplatz direkt am Eingang zu finden.",
+            "hu": "Merüljön el a hagyományos szardíniakonzerválás lenyűgöző világában ebben a múzeumban, és érkezzen korán, hogy kényelmes parkolóhelyet találjon a bejárat közelében.",
+            "ro": "Cufundați-vă în lumea fascinantă a conservării tradiționale a sardinelor la acest muzeu, ajungând devreme pentru a găsi un loc de parcare convenabil lângă intrare.",
+            "en": "Immerse yourself in the fascinating world of traditional sardine canning at this museum, arriving early to find a convenient parking spot right near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Church",
+            "hu": "Sainte-Croix Church",
+            "ro": "Sainte-Croix Church",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            -1.939763,
+            46.696959
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses architektonische Wunderwerk, um die Buntglasfenster zu bewundern, aber bedenken Sie, dass das Parken einen kurzen, malerischen Spaziergang erfordert.",
+            "hu": "Lépjen be ebbe a lenyűgöző építészeti csodába, és csodálja meg a színes üvegablakokat, de ne feledje, hogy a közeli parkolásból rövid, festői séta várható.",
+            "ro": "Pășiți înăuntrul acestei minuni arhitecturale uimitoare pentru a aprecia vitraliile sale, dar țineți cont că parcarea din apropiere ar putea necesita o scurtă plimbare.",
+            "en": "Step inside this stunning architectural marvel to appreciate its beautiful stained glass, but remember that nearby parking might require a short picturesque walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Club de plage",
+            "hu": "Club de plage",
+            "ro": "Club de plage",
+            "en": "Club de plage"
+          },
+          "coords": [
+            -1.954119,
+            46.695269
+          ],
+          "category": "family",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder die organisierten Aktivitäten im Sand in diesem Strandclub genießen und vergessen Sie nicht, reichlich Sonnencreme einzupacken.",
+            "hu": "Hagyja, hogy a gyerekek élvezzék a szervezett homokos tevékenységeket ebben a tengerparti klubban, és ne felejtsen el sok naptejet csomagolni az autóból kiszállva.",
+            "ro": "Lăsați copiii să se bucure de activitățile organizate pe nisip la acest club de plajă primitor și nu uitați să luați cremă de protecție solară din mașină.",
+            "en": "Let the kids enjoy the organized sandy activities at this welcoming coastal club, and don't forget to pack plenty of sunscreen before heading down from your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bussoleries",
+            "hu": "Les Bussoleries",
+            "ro": "Les Bussoleries",
+            "en": "Les Bussoleries"
+          },
+          "coords": [
+            -1.974525,
+            46.699803
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser atemberaubenden Felsenküste mit Blick auf den wilden Ozean und bringen Sie eine warme Jacke mit, da die Abendbrise kühl ist.",
+            "hu": "Fejezze be autózását ezen a lélegzetelállító sziklás parton, amely tökéletesen keretezi a vad óceánt, és hozzon magával meleg kabátot az esti hideg szellő miatt.",
+            "ro": "Încheiați-vă plimbarea cu mașina pe acest țărm stâncos uluitor care încadrează oceanul sălbatic și aduceți o jachetă caldă, deoarece briza de seară poate fi rece.",
+            "en": "End your drive at this breathtaking rocky shore that perfectly frames the wild ocean view, and bring a warm jacket since the evening coastal breeze can be chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Morgen mit einem Spaziergang durch historische Straßen und dem Besuch lokaler Kirchen.\n\nMittags: Mittags laden das reiche maritime und kulturelle Erbe der Stadt zur Erkundung ein.\n\nNachmittags: Am Nachmittag lockt die frische Meeresbrise an die feinen Sandstrände.\n\nAbends: Lassen Sie den Tag ausklingen, während die Sonne die ruhigen Gewässer in goldenes Licht taucht.",
+        "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
+        "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
+        "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      }
+    }
+  }
+}

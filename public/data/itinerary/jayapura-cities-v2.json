@@ -1,0 +1,474 @@
+{
+  "city_id": "jayapura-cities-v2",
+  "anchor": {
+    "name": "Jayapura",
+    "coords": [
+      140.717,
+      -2.533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjis Taqwa Hamadi",
+            "hu": "Masjis Taqwa Hamadi",
+            "ro": "Masjis Taqwa Hamadi",
+            "en": "Masjis Taqwa Hamadi"
+          },
+          "coords": [
+            140.716336,
+            -2.560913
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Masjis Taqwa Hamadi, einem wichtigen lokalen Gebetszentrum, und kleiden Sie sich angemessen, um Respekt zu zeigen.",
+            "hu": "Csodálja meg a Masjis Taqwa Hamadi gyönyörű építészetét, amely a helyi hitélet fontos központja, és ne feledjen visszafogottan öltözködni a tisztelet jeléül.",
+            "ro": "Admirați arhitectura frumoasă a Masjis Taqwa Hamadi, un centru local important de cult, și amintiți-vă să vă îmbrăcați modest pentru a respecta comunitatea.",
+            "en": "Admire the beautiful architecture of Masjis Taqwa Hamadi, an important local center for worship, and remember to dress modestly to respect the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Hamidi",
+            "hu": "Masjid Al-Hamidi",
+            "ro": "Masjid Al-Hamidi",
+            "en": "Masjid Al-Hamidi"
+          },
+          "coords": [
+            140.710128,
+            -2.566667
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Masjid Al-Hamidi, bekannt für ihren friedlichen Innenhof und detaillierte Architektur, und bringen Sie ein Tuch für den Kopf mit.",
+            "hu": "Fedezze fel a békés udvaráról és finom részleteiről ismert Masjid Al-Hamidi mecsetet, és hozzon magával egy sálat a fej elfedésére a csendes elmélkedéshez.",
+            "ro": "Explorați Masjid Al-Hamidi, cunoscută pentru curtea sa pașnică, oferind un moment liniștit de reflecție, așa că aduceți o eșarfă pentru a vă acoperi capul.",
+            "en": "Explore Masjid Al-Hamidi, known for its peaceful courtyard and intricate details, offering a quiet moment of reflection, so bring a scarf to cover your head."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosque As Syuhada",
+            "hu": "Mosque As Syuhada",
+            "ro": "Mosque As Syuhada",
+            "en": "Mosque As Syuhada"
+          },
+          "coords": [
+            140.707009,
+            -2.571702
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Moschee As Syuhada, eine historische religiöse Stätte der lokalen Gemeinschaft, und prüfen Sie vorab die Gebetszeiten, um Menschenmengen zu meiden.",
+            "hu": "Látogasson el a Mosque As Syuhada történelmi vallási helyszínre, amely összefogja a közösséget, és a tömeg elkerülése végett előre ellenőrizze az imaidőket.",
+            "ro": "Vizitați Moscheea As Syuhada, un sit religios istoric care unește comunitatea locală, și verificați orele de rugăciune înainte de vizită pentru a evita aglomerația.",
+            "en": "Visit the Mosque As Syuhada, a historical religious site that unites the local Muslim community, and check the prayer times before your visit to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "3 WWII rusty tanks",
+            "hu": "3 rozsdás második világháborús tank",
+            "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+            "en": "3 WWII rusty tanks"
+          },
+          "coords": [
+            140.709192,
+            -2.571545
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Betrachten Sie die 3 rostigen Weltkriegspanzer in Strandnähe als Mahnmal des Pazifikkrieges, und tragen Sie festes Schuhwerk, um die historischen Wracks sicher zu erkunden.",
+            "hu": "Tekintse meg a parton heverő 3 rozsdás második világháborús tankot, a csendes-óceáni harcok mementóit, és viseljen zárt cipőt a roncsok biztonságos megközelítéséhez.",
+            "ro": "Vedeți cele 3 tancuri ruginite din al Doilea Război Mondial de lângă plajă, o amintire a luptelor din Pacific, și purtați încălțăminte robustă pentru a merge în siguranță.",
+            "en": "See the 3 WWII rusty tanks lying near the beach, a stark reminder of the Pacific War battles, and wear sturdy shoes to safely walk around the historic wreckage."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Hamadi",
+            "hu": "Pantai Hamadi",
+            "ro": "Pantai Hamadi",
+            "en": "Pantai Hamadi"
+          },
+          "coords": [
+            140.710273,
+            -2.58236
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Pantai Hamadi, einem beliebten Strand mit historischer Bedeutung, an dem Sie sich am besten einen lokalen Pavillon als Sonnenschutz mieten sollten.",
+            "hu": "Pihenjen a Pantai Hamadi népszerű és történelmi jelentőségű tengerpartján, ahol érdemes egy helyi pavilont bérelni, hogy árnyékot találjon az erős napsütésben.",
+            "ro": "Relaxați-vă la Pantai Hamadi, o plajă populară cu semnificație istorică, unde ar trebui să închiriați un foișor local pentru a vă adăposti de razele puternice ale soarelui.",
+            "en": "Relax at Pantai Hamadi, a popular recreational beach with historical significance and lovely views, where you should rent a local gazebo to shade yourself from the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem spirituellen Spaziergang durch Hamadi und dem Besuch bedeutender Moscheen. Mittags entdecken Sie historische Überreste des Pazifikkrieges direkt an der Küste. Am Nachmittag entspannen Sie sich im warmen Sand von Pantai Hamadi und beobachten das lokale Leben. Der Abend endet mit einer ruhigen Meeresbrise und dem Gefühl von Jayapuras reicher Geschichte.",
+        "hu": "A reggel egy spirituális sétával indul Hamadi városrészben, jelentős mecsetek érintésével. Délben a part menti második világháborús emlékek repítenek vissza az időben. Délután a Pantai Hamadi meleg homokján pihenve figyelheti meg a helyiek nyüzsgését. Az estét a békés óceáni szellő és Jayapura gazdag történelmének atmoszférája zárja.",
+        "ro": "Dimineața începe cu o plimbare spirituală prin Hamadi, vizitând moscheile proeminente. La prânz veți trece pe lângă rămășițe istorice ale Războiului din Pacific, chiar pe coastă. După-amiaza vă veți relaxa pe nisipurile calde ale Pantai Hamadi, urmărind viața locală. Seara se încheie cu briza oceanului și un sentiment al bogatei istorii a Jayapurei.",
+        "en": "Morning begins with a spiritual walk through Hamadi, visiting the prominent mosques. Midday takes you past historical remnants of the Pacific War right by the coast. In the afternoon, you will relax on the warm sands of Pantai Hamadi, watching local life unfold. Evening concludes with peaceful ocean breezes and a sense of Jayapura's rich history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:04",
+      "total_km": 7.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jayapura City Sign",
+            "hu": "Jayapura City Sign",
+            "ro": "Jayapura City Sign",
+            "en": "Jayapura City Sign"
+          },
+          "coords": [
+            140.709295,
+            -2.549414
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto am legendären Jayapura City Sign, einem tollen Aussichtspunkt, und kommen Sie früh, um das beste Morgenlicht für Ihre Bilder einzufangen.",
+            "hu": "Készítsen egy fotót az ikonikus Jayapura City Sign feliratnál, amely kiváló kilátópont is egyben, és érkezzen korán, hogy a legjobb reggeli fényekben fényképezhessen.",
+            "ro": "Faceți o fotografie la emblematicul Jayapura City Sign, care oferă un punct de observație minunat, și ajungeți devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Snap a photo at the iconic Jayapura City Sign, an essential landmark offering a great vantage point, and arrive early to get the best morning light for your pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya",
+            "hu": "Masjid Raya",
+            "ro": "Masjid Raya",
+            "en": "Masjid Raya"
+          },
+          "coords": [
+            140.699156,
+            -2.544711
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Masjid Raya, der großen Moschee des islamischen Erbes in Papua, und bewundern Sie die imposante Kuppel von außen, falls Sie nicht hineingehen.",
+            "hu": "Tekerjen el a Masjid Raya lenyűgöző mecsetjéhez, a pápua iszlám örökség jelképéhez, és szánjon időt hatalmas kupolájának megcsodálására kívülről is.",
+            "ro": "Pedalați până la Masjid Raya, marea moschee a moștenirii islamice din Papua, și faceți-vă timp să-i admirați domul mare de afară, dacă nu intrați.",
+            "en": "Cycle down to Masjid Raya, the grand mosque representing Islamic heritage in Papua, and take time to admire its large dome from the outside if not entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjis Taqwa Hamadi",
+            "hu": "Masjis Taqwa Hamadi",
+            "ro": "Masjis Taqwa Hamadi",
+            "en": "Masjis Taqwa Hamadi"
+          },
+          "coords": [
+            140.716336,
+            -2.560913
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.63,
+          "tip_5lang": {
+            "de": "Halten Sie an der Masjis Taqwa Hamadi, dem spirituellen Herzen des Bezirks Hamadi, und parken Sie Ihr Fahrrad sicher in der Nähe, bevor Sie einen Spaziergang machen.",
+            "hu": "Álljon meg a Masjis Taqwa Hamadi mecsetnél, amely a Hamadi negyed hitéletének központja, és biztonságosan zárja le kerékpárját egy rövid séta előtt.",
+            "ro": "Opriți la Masjis Taqwa Hamadi pentru a simți inima spirituală a cartierului, și parcați-vă bicicleta în siguranță în apropiere înainte de a face o scurtă plimbare.",
+            "en": "Stop at Masjis Taqwa Hamadi to experience the community's spiritual heart in the Hamadi district, and park your bike securely nearby before taking a brief walk."
+          }
+        },
+        {
+          "name": {
+            "de": "3 WWII rusty tanks",
+            "hu": "3 rozsdás második világháborús tank",
+            "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+            "en": "3 WWII rusty tanks"
+          },
+          "coords": [
+            140.709192,
+            -2.571545
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie die Fahrt, um die 3 rostigen Weltkriegspanzer zu begutachten, faszinierende Relikte vergangener Konflikte, und bleiben Sie hinter den Absperrungen.",
+            "hu": "Szakítsa meg útját a 3 rozsdás második világháborús tank megtekintéséhez, amelyek a múlt lenyűgöző relikviái, de az állagmegóvás érdekében maradjon a kordonok mögött.",
+            "ro": "Faceți o pauză pentru a inspecta cele 3 tancuri ruginite din al Doilea Război Mondial, și rămâneți în spatele barierelor pentru a păstra aceste artefacte istorice.",
+            "en": "Pause your ride to inspect the 3 WWII rusty tanks, fascinating relics of past conflicts, and stay behind any makeshift barriers to preserve these historic artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Hamadi",
+            "hu": "Pantai Hamadi",
+            "ro": "Pantai Hamadi",
+            "en": "Pantai Hamadi"
+          },
+          "coords": [
+            140.710273,
+            -2.58236
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause am Pantai Hamadi Strand nach dem Radfahren und probieren Sie eine frische Kokosnuss von einem Straßenhändler, um sich zu erfrischen.",
+            "hu": "Élvezze a frissítő pihenőt a Pantai Hamadi tengerparton egy kis tekerés után, és próbáljon ki egy friss kókuszt a közeli árusoktól a megfelelő hidratálásért.",
+            "ro": "Bucurați-vă de o pauză revigorantă la plaja Pantai Hamadi, perfectă după pedalat, și încercați o nucă de cocos proaspătă de la un vânzător pentru a vă rehidrata.",
+            "en": "Enjoy a refreshing break at Pantai Hamadi beach, perfect for cooling off after cycling, and try a fresh coconut from a nearby vendor to rehydrate properly."
+          }
+        },
+        {
+          "name": {
+            "de": "Youtefa Bridge",
+            "hu": "Youtefa-híd",
+            "ro": "Podul Youtefa",
+            "en": "Youtefa Bridge"
+          },
+          "coords": [
+            140.713453,
+            -2.594584
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie die beeindruckende Youtefa-Brücke, ein technisches Wunderwerk über die Bucht, und nutzen Sie den Radweg vorsichtig für Panoramafotos.",
+            "hu": "Keljen át a lenyűgöző Youtefa-hídon, az öblöket összekötő mérnöki csodán, és használja óvatosan a kerékpárutat, miközben panorámafotókat készít a tájról.",
+            "ro": "Traversați uimitorul Pod Youtefa, o minune inginerească care conectează zonele golfului, și utilizați cu atenție pista pentru biciclete în timp ce faceți fotografii.",
+            "en": "Cross the stunning Youtefa Bridge, an engineering marvel connecting the bay areas, and use the pedestrian/bike path carefully while taking panoramic photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt mit einem Panoramablick vom Stadtschild und führt hinab zum großen architektonischen Erbe. Mittags radeln Sie durch historische Viertel und vorbei an faszinierenden Kriegsrelikten. Der Nachmittag bringt eine frische Küstenbrise am Pantai Hamadi. Der Tag endet spektakulär mit der Fahrt über die leuchtend roten Bögen der Youtefa-Brücke.",
+        "hu": "A reggeli kerékpározás a városi tábla panorámájával indul, majd a grandiózus építészeti örökségek felé ereszkedik. A déli tekerés történelmi negyedeken és lenyűgöző háborús relikviákon vezet át. Délután a tengerparti szellő frissíti fel a Pantai Hamadi strandján. A nap egy drámai és látványos átkeléssel zárul a Youtefa-híd lenyűgöző piros ívei alatt.",
+        "ro": "Turul de dimineață cu bicicleta începe cu vederi panoramice de la semnul orașului și coboară spre marea moștenire arhitecturală. Ciclismul de la prânz vă poartă prin districte istorice și relicve de război. După-amiaza aduce o briză de coastă la plaja Pantai Hamadi. Ziua dumneavoastră se încheie dramatic cu o plimbare peste magnificele arcade roșii ale Podului Youtefa.",
+        "en": "Your morning cycling starts with high panoramic views from the city sign and descends into the grand architectural heritage of the city. Midday pedaling leads you through historic districts and haunting war relics. Afternoon brings a coastal breeze as you relax at Pantai Hamadi beach. Your day concludes dramatically with a ride over the magnificent red arches of the Youtefa Bridge."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 15.26,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "81 Cafe",
+            "hu": "81 Cafe",
+            "ro": "81 Cafe",
+            "en": "81 Cafe"
+          },
+          "coords": [
+            140.713593,
+            -2.506085
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit lokalem Kaffee in der üppigen Umgebung des 81 Cafe, und bestellen Sie die papuanische Hausmischung für genug Energie.",
+            "hu": "Indítsa a napot helyi kávéval a zöldellő 81 Cafe-ban, és rendelje meg a pápua kávékeveréket, hogy elegendő energiát gyűjtsön a hosszú autós túrához.",
+            "ro": "Începeți-vă ziua cu o cafea locală în împrejurimile luxuriante de la 81 Cafe, și comandați amestecul lor papuaș pentru a vă energiza pentru un traseu lung.",
+            "en": "Start your day with local coffee and lush surroundings at 81 Cafe, a natural spot, and order their signature Papuan blend to get energized for a long driving day."
+          }
+        },
+        {
+          "name": {
+            "de": "Base-G Beach",
+            "hu": "Base-G Beach",
+            "ro": "Base-G Beach",
+            "en": "Base-G Beach"
+          },
+          "coords": [
+            140.739446,
+            -2.517557
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.14,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Base-G Beach, berühmt für sein klares Wasser und General MacArthur, wo eine einfache Holzbank die beste Sicht auf das Meer bietet.",
+            "hu": "Hajtson a kristálytiszta vizéről és MacArthur tábornokról híres Base-G Beach-re, ahol érdemes egy egyszerű fapadot bérelni a legjobb tengeri kilátásért.",
+            "ro": "Conduceți până la Base-G Beach, faimoasă pentru apele sale clare, unde închirierea unei bănci simple de lemn vă oferă cele mai bune vederi la mare.",
+            "en": "Drive up to Base-G Beach, famous for its clear waters and connection to General MacArthur, where renting a simple wooden bench offers the best sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih",
+            "hu": "Sarwo Edhie Wibowo Múzeum",
+            "ro": "Muzeul Sarwo Edhie Wibowo",
+            "en": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih"
+          },
+          "coords": [
+            140.716673,
+            -2.529053
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.84,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum Sarwo Edhie Wibowo, um Militärgeschichte zu erleben, und bringen Sie Bargeld für die kleine Eintrittsgebühr oder eine Spende mit.",
+            "hu": "Látogasson el a Sarwo Edhie Wibowo Múzeumba, hogy elmélyedjen a katonai történelemben, és hozzon magával készpénzt a belépőhöz, mivel kártyát nem fogadnak el.",
+            "ro": "Vizitați Muzeul Sarwo Edhie Wibowo pentru a explora istoria militară locală, și aduceți numerar pentru donații sau taxa de intrare, deoarece nu se acceptă carduri.",
+            "en": "Visit the Museum Sarwo Edhie Wibowo to delve into local military history and cultural artifacts, and bring a small donation or entry fee in cash as cards aren't accepted."
+          }
+        },
+        {
+          "name": {
+            "de": "Jayapura City Sign",
+            "hu": "Jayapura City Sign",
+            "ro": "Jayapura City Sign",
+            "en": "Jayapura City Sign"
+          },
+          "coords": [
+            140.709295,
+            -2.549414
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.41,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am Jayapura City Sign für einen tollen Blick über die Bucht und parken Sie Ihr Auto sicher auf den dafür vorgesehenen Seitenstreifen.",
+            "hu": "Álljon meg röviden a Jayapura City Sign-nál a kiterjedt öbölre nyíló páratlan kilátásért, és parkoljon le biztonságosan a kijelölt útpadkán autójával.",
+            "ro": "Opriți-vă scurt la Jayapura City Sign pentru a vă bucura de o perspectivă ridicată asupra golfului, păstrând mașina parcată în siguranță pe marginea desemnată.",
+            "en": "Stop briefly at the Jayapura City Sign to enjoy an elevated perspective over the sprawling bay area, keeping your car safely parked in the designated shoulder spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Hamadi",
+            "hu": "Pantai Hamadi",
+            "ro": "Pantai Hamadi",
+            "en": "Pantai Hamadi"
+          },
+          "coords": [
+            140.710273,
+            -2.58236
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser am Pantai Hamadi und holen Sie sich gegrillten Fisch von lokalen Ständen für ein schnelles Mittagessen an der Küste.",
+            "hu": "Pihenjen a vízparton a Pantai Hamadi strandon, és vegyen grillezett halat a helyi árusoktól egy gyors és finom tengerparti ebéd gyanánt.",
+            "ro": "Relaxați-vă lângă apă la Pantai Hamadi, luând niște pește la grătar de la tarabele locale pentru un prânz rapid de coastă în timp ce priviți valurile.",
+            "en": "Relax by the water at Pantai Hamadi, grabbing some grilled fish from local stalls for a quick coastal lunch while watching the waves crash against the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Youtefa Bridge",
+            "hu": "Youtefa-híd",
+            "ro": "Podul Youtefa",
+            "en": "Youtefa Bridge"
+          },
+          "coords": [
+            140.713453,
+            -2.594584
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Youtefa-Brücke und bewundern Sie ihre massiven roten Strukturen. Fahren Sie langsam, ohne den nachfolgenden Verkehr zu behindern.",
+            "hu": "Vezessen át a Youtefa-hídon, hogy megcsodálhassa az óceánt átívelő hatalmas piros szerkezetet, mérsékelt tempóban haladva, de a forgalmat nem akadályozva.",
+            "ro": "Conduceți peste Podul Youtefa pentru a admira structurile sale roșii masive care traversează oceanul, conducând încet pentru a vă bucura, dar fără a bloca traficul.",
+            "en": "Drive across Youtefa Bridge to admire its massive red structures spanning the ocean, driving slowly enough to enjoy the engineering but without blocking traffic flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Yautefa Bay",
+            "hu": "Yautefa-öböl",
+            "ro": "Golful Yautefa",
+            "en": "Yautefa Bay"
+          },
+          "coords": [
+            140.706417,
+            -2.609419
+          ],
+          "category": "landmark",
+          "arrive_at": "15:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an der ruhigen Yautefa-Bucht, umgeben von majestätischen Hügeln, die perfekt ist, um das goldene Licht der Abendsonne zu beobachten.",
+            "hu": "Zárja útját a békés Yautefa-öbölben, amelyet fenséges dombok és érintetlen természet vesz körül, s ideális a naplemente lenyűgöző arany fényeinek megfigyelésére.",
+            "ro": "Încheiați călătoria la liniștitul Golf Yautefa, înconjurat de dealuri maiestuoase, perfect pentru a urmări lumina uimitoare a orei de aur lovind apa cristalină.",
+            "en": "Conclude your trip at the tranquil Yautefa Bay, surrounded by majestic hills and pristine nature, perfect for watching the stunning golden hour light hit the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt mit frischem Kaffee im Grünen, gefolgt von einem Abstecher zum historischen Base-G Beach. Mittags tauchen Sie im Militärmuseum in Papuas Geschichte ein und genießen den Panoramablick. Am Nachmittag fahren Sie zur belebten Küste von Hamadi zur Entspannung. Der Abend bietet eine spektakuläre Fahrt über die roten Bögen der Youtefa-Brücke zur ruhigen Bucht.",
+        "hu": "A reggeli autózás a buja zöld növényzet és frissítő kávé mellett indul, amit a történelmi Base-G Beach tengerparti útja követ. A délidőt Pápua történelmének felfedezése tölti ki a katonai múzeumban és a panorámakilátóban. Délután Hamadi nyüzsgő partjainál pihenheti ki magát a hullámokat hallgatva. Az este látványos utazást tartogat a Youtefa-híd vörös ívein át egyenesen a békés öbölhöz.",
+        "ro": "Traseul de dimineață începe cu o cafea răcoritoare în verdeață, urmat de o plimbare spre istorica Base-G Beach. Prânzul este dedicat istoriei la muzeul militar și vederilor panoramice. După-amiaza, veți coborî pe țărmul plin de viață din Hamadi pentru relaxare la malul mării. Seara oferă o plimbare spectaculoasă peste arcadele roșii ale podului spre golful senin.",
+        "en": "The morning drive starts with refreshing coffee amidst lush greenery, followed by a coastal ride to the historic Base-G Beach. Midday is dedicated to deep dives into Papua’s history at the military museum and panoramic skyline views. In the afternoon, you will cruise down to the bustling shoreline of Hamadi for seaside relaxation. Evening delivers a spectacular drive over the red arches of Youtefa Bridge to the serene bay beyond."
+      }
+    }
+  }
+}

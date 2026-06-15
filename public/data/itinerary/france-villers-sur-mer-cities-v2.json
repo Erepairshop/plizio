@@ -1,0 +1,474 @@
+{
+  "city_id": "france-villers-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Villers-sur-Mer",
+    "coords": [
+      -0.00525,
+      49.32144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.006268,
+            49.320805
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen neugotischen Buntglasfenster dieser zentralen Kirche und achten Sie auf die Aushänge für kostenlose Abendkonzerte.",
+            "hu": "Csodálja meg a központi templom gyönyörű neogótikus ólomüveg ablakait, és feltétlenül ellenőrizze a hirdetőtáblát az ingyenes esti koncertekért.",
+            "ro": "Admirați vitraliile neogotice superbe ale acestei biserici centrale și asigurați-vă că verificați panoul informativ pentru concertele gratuite de seară.",
+            "en": "Admire the beautiful neo-Gothic stained glass windows of this central church, and remember to check the notice board for free evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Vierge Marie",
+            "hu": "Szűz Mária szobor",
+            "ro": "Statuia Vierge Marie",
+            "en": "Vierge Marie"
+          },
+          "coords": [
+            -0.006851,
+            49.318757
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der stillen Reflexion an dieser historischen Hügelstatue, wo ein kleines Zoomobjektiv Ihnen hilft, Details der Küste einzufangen.",
+            "hu": "Élvezze a csendes elmélkedést ezen a történelmi dombtetőn lévő szobornál, ahová érdemes egy kis zoomobjektívet hozni a távoli tengerparti részletekért.",
+            "ro": "Bucurați-vă de un moment de reflecție la această statuie istorică pe colină, unde un mic obiectiv cu zoom vă va ajuta să surprindeți detaliile coastei.",
+            "en": "Enjoy a moment of quiet reflection at this historic hilltop statue, where bringing a small zoom lens will help you capture the distant coastal details."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Villers",
+            "hu": "Villers Kaszinó",
+            "ro": "Cazinoul din Villers",
+            "en": "Casino de Villers"
+          },
+          "coords": [
+            -0.001537,
+            49.324844
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erleben Sie den Charme der Belle Époque in diesem Unterhaltungszentrum am Meer, aber vergessen Sie nicht Ihren gültigen Lichtbildausweis für die Spielsäle.",
+            "hu": "Tapasztalja meg ennek a tengerparti szórakoztatóközpontnak a Belle Époque varázsát, de ne felejtsen el fényképes igazolványt hozni a játéktermekhez.",
+            "ro": "Experimentați farmecul Belle Époque al acestui centru de divertisment de pe litoral, dar aduceți un act de identitate cu fotografie pentru sălile de jocuri.",
+            "en": "Experience the Belle Époque charm of this seaside entertainment hub, but ensure you bring a valid photo ID if you plan to enter the gaming rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Nullmeridian von Greenwich",
+            "hu": "Greenwichi délkör",
+            "ro": "Meridianul Greenwich",
+            "en": "Greenwich Meridian"
+          },
+          "coords": [
+            -0.00044,
+            49.325644
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Stehen Sie genau auf der Linie, die Ost- und Westhemisphäre trennt, und besuchen Sie den Ort bei Ebbe, um die Markierung am Strand deutlich zu sehen.",
+            "hu": "Álljon pontosan a keleti és nyugati féltekét elválasztó vonalra, és próbáljon apálykor érkezni, hogy tisztán lássa a tengerpartra nyúló jelzést.",
+            "ro": "Stați exact pe linia care desparte emisferele estică și vestică și încercați să vizitați la reflux pentru a vedea clar marcajul ce se extinde pe plajă.",
+            "en": "Stand exactly on the line dividing the eastern and western hemispheres, and try visiting at low tide to see the marker clearly extending onto the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Villers-sur-Mer",
+            "hu": "Villers-sur-Mer strand",
+            "ro": "Plaja Villers-sur-Mer",
+            "en": "Plage de Villers-sur-Mer"
+          },
+          "coords": [
+            0.009417,
+            49.330873
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen, von Klippen umrahmten Sandstrand und mieten Sie frühzeitig eine der klassischen gestreiften Strandkabinen.",
+            "hu": "Sétáljon végig ezen a drámai sziklákkal keretezett hatalmas homokos parton, és béreljen egy klasszikus csíkos strandkabint még a nap elején.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm nisipos încadrat de stânci dramatice și închiriați o cabină de plajă clasică în dungi la începutul zilei.",
+            "en": "Stroll along this expansive sandy shore framed by dramatic cliffs, and rent a classic striped beach cabin early in the day before they are all taken."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den eleganten Buntglasfenstern der Église Saint-Martin vor einem Spaziergang zur historischen Statue Vierge Marie. Mittags erreichen Sie das Meer und fangen die Belle-Époque-Essenz am ikonischen Casino de Villers ein. Der Nachmittag ist dem Stehen über zwei Hemisphären am Nullmeridian gewidmet. Der Abend endet mit einem entspannenden Sonnenuntergangsspaziergang am weitläufigen Strand Plage de Villers-sur-Mer.",
+        "hu": "A reggel az Église Saint-Martin elegáns ólomüvegeivel indul, majd egy békés séta következik a Vierge Marie történelmi szobrához. A dél már a tengerparton éri, megörökítve a Belle Époque hangulatát a Casino de Villers-nél. Délután a Greenwichi délkörön állhat, amely a keleti és nyugati féltekét választja el. Az este egy pihentető sétával zárul a tágas Plage de Villers-sur-Mer tengerparti homokján.",
+        "ro": "Dimineața începe cu vitraliile elegante de la Église Saint-Martin, urmată de o plimbare spre statuia istorică Vierge Marie. La prânz ajungeți pe litoral, capturând esența Belle Époque la iconicul Casino de Villers. După-amiaza este dedicată liniei Meridianului Greenwich, aflându-vă în două emisfere simultan. Seara se încheie cu o plimbare prelungită și relaxantă la apus pe extinsa Plage de Villers-sur-Mer.",
+        "en": "Morning begins with the elegant stained glass of Église Saint-Martin before a peaceful walk to the historic Vierge Marie hilltop statue. Midday brings you down to the seaside, capturing the Belle Époque essence at the iconic Casino de Villers. Afternoon is dedicated to standing across two hemispheres at the Greenwich Meridian line along the coast. Evening wraps up with a relaxing, extended sunset stroll along the sweeping Plage de Villers-sur-Mer."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manoir San Carlo",
+            "hu": "San Carlo udvarház",
+            "ro": "Conacul San Carlo",
+            "en": "Manoir San Carlo"
+          },
+          "coords": [
+            -0.007304,
+            49.316541
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das aufwendige Fachwerk dieses historischen Herrenhauses von der Straße aus, da es in Privatbesitz ist, aber ein tolles Fotomotiv bietet.",
+            "hu": "Figyelje meg a fenséges történelmi kastély bonyolult favázát az útról, mivel magántulajdonban van, de így is lenyűgöző építészeti fotótéma.",
+            "ro": "Observați structura din lemn a acestui conac istoric de pe drum, deoarece este proprietate privată, dar oferă o fotografie arhitecturală uimitoare.",
+            "en": "Observe the intricate timber framing of this grand historic manor from the road, as it is privately owned but still makes for a stunning architectural photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt (Point de Vue)",
+            "hu": "Point de Vue kilátó",
+            "ro": "Punct de Belvedere",
+            "en": "Point de Vue"
+          },
+          "coords": [
+            -0.001057,
+            49.316041
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick über den Ärmelkanal von diesem natürlichen Aussichtspunkt, idealerweise am späten Vormittag für bestes Licht.",
+            "hu": "Élvezze a La Manche csatornára nyíló pazar panorámát erről a természetes kilátóról, ahová a legtisztább fényekért a késő délelőtti órákban érdemes érkezni.",
+            "ro": "Admirați priveliștile panoramice ample asupra Canalului Mânecii de la acest punct de belvedere, ajungând ideal dimineața târziu pentru cea mai clară lumină.",
+            "en": "Take in the sweeping panoramic vistas over the English Channel from this natural overlook, arriving ideally in the late morning for the clearest light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.006268,
+            49.320805
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen neugotischen Buntglasfenster dieser zentralen Kirche und achten Sie auf die Aushänge für kostenlose Abendkonzerte.",
+            "hu": "Csodálja meg a központi templom gyönyörű neogótikus ólomüveg ablakait, és feltétlenül ellenőrizze a hirdetőtáblát az ingyenes esti koncertekért.",
+            "ro": "Admirați vitraliile neogotice superbe ale acestei biserici centrale și asigurați-vă că verificați panoul informativ pentru concertele gratuite de seară.",
+            "en": "Admire the beautiful neo-Gothic stained glass windows of this central church, and remember to check the notice board for free evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Villers",
+            "hu": "Villers Kaszinó",
+            "ro": "Cazinoul din Villers",
+            "en": "Casino de Villers"
+          },
+          "coords": [
+            -0.001537,
+            49.324844
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erleben Sie den Charme der Belle Époque in diesem Unterhaltungszentrum am Meer, aber vergessen Sie nicht Ihren gültigen Lichtbildausweis für die Spielsäle.",
+            "hu": "Tapasztalja meg ennek a tengerparti szórakoztatóközpontnak a Belle Époque varázsát, de ne felejtsen el fényképes igazolványt hozni a játéktermekhez.",
+            "ro": "Experimentați farmecul Belle Époque al acestui centru de divertisment de pe litoral, dar aduceți un act de identitate cu fotografie pentru sălile de jocuri.",
+            "en": "Experience the Belle Époque charm of this seaside entertainment hub, but ensure you bring a valid photo ID if you plan to enter the gaming rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Nullmeridian von Greenwich",
+            "hu": "Greenwichi délkör",
+            "ro": "Meridianul Greenwich",
+            "en": "Greenwich Meridian"
+          },
+          "coords": [
+            -0.00044,
+            49.325644
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Stehen Sie genau auf der Linie, die Ost- und Westhemisphäre trennt, und besuchen Sie den Ort bei Ebbe, um die Markierung am Strand deutlich zu sehen.",
+            "hu": "Álljon pontosan a keleti és nyugati féltekét elválasztó vonalra, és próbáljon apálykor érkezni, hogy tisztán lássa a tengerpartra nyúló jelzést.",
+            "ro": "Stați exact pe linia care desparte emisferele estică și vestică și încercați să vizitați la reflux pentru a vedea clar marcajul ce se extinde pe plajă.",
+            "en": "Stand exactly on the line dividing the eastern and western hemispheres, and try visiting at low tide to see the marker clearly extending onto the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Paléospace",
+            "hu": "Paléospace",
+            "ro": "Paléospace",
+            "en": "Paléospace"
+          },
+          "coords": [
+            0.013351,
+            49.327861
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Jura-Fossilien und Dinosaurier-Ausstellungen in diesem modernen Museum und buchen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a lenyűgöző jura kori fosszíliákat és dinoszauruszokat ebben a modern múzeumban, és foglaljon jegyet online a nyári sorban állás elkerülésére.",
+            "ro": "Descoperiți fosile jurasice și expoziții interactive de dinozauri în acest muzeu modern, rezervând bilete online pentru a evita cozile frecvente de vară.",
+            "en": "Discover fascinating Jurassic fossils and interactive dinosaur exhibits inside this modern museum, booking tickets online to skip the frequent summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Sümpfe von Villers (Marais)",
+            "hu": "Villers mocsara",
+            "ro": "Mlaștinile din Villers",
+            "en": "Marais de Villers"
+          },
+          "coords": [
+            0.013915,
+            49.324611
+          ],
+          "category": "landmark",
+          "arrive_at": "15:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Wandern Sie über die ruhigen Holzstege dieses geschützten Feuchtgebiets und bringen Sie ein Fernglas mit, um die vielfältigen Zugvögel im Schilf zu beobachten.",
+            "hu": "Barangoljon e védett vizes élőhely csendes faösvényein, és hozzon távcsövet a nádasban fészkelő változatos vándormadarak megfigyeléséhez.",
+            "ro": "Plimbați-vă pe aleile de lemn din această zonă umedă protejată și aduceți binoclul pentru a observa diversele păsări migratoare care cuibăresc printre trestii.",
+            "en": "Wander the tranquil wooden walkways of this protected wetland area, and bring binoculars to spot the diverse migratory birds that nest among the reeds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung des Fachwerks des Manoir San Carlo in der ruhigen Morgenluft. Mittags radeln Sie zum Point de Vue für atemberaubende Küstenausblicke und besuchen dann die Église Saint-Martin und das Casino. Nachmittags geht es vorbei am Nullmeridian zu den prähistorischen Ausstellungen des Paléospace-Museums. Der Abend lädt zu einer friedlichen Fahrt in das Naturschutzgebiet Marais de Villers ein.",
+        "hu": "Kezdje a kerékpáros napot a Manoir San Carlo bonyolult favázának felfedezésével a csendes reggeli levegőn. Délben tekerjen fel a Point de Vue-höz a lenyűgöző tengerparti kilátásért, majd látogassa meg a templomot és a kaszinót. Délután a Greenwichi délkör mellett elhaladva a Paléospace lenyűgöző őskori kiállításai várják. Az este békés kerekezésre csábít a Marais de Villers természetvédelmi területén szürkületkor.",
+        "ro": "Începeți ziua de ciclism explorând structura din lemn a Manoir San Carlo în aerul calm al dimineții. La prânz, pedalați către Point de Vue pentru priveliști de coastă uimitoare, apoi vizitați biserica și cazinoul. După-amiaza vă duce pe lângă Meridianul Greenwich la fascinantele expoziții preistorice de la Paléospace. Seara vă invită la o plimbare liniștită spre rezervația naturală Marais de Villers la amurg.",
+        "en": "Start your cycling day exploring the intricate timber framing of Manoir San Carlo in the calm morning air. By midday, pedal up to the Point de Vue for breathtaking coastal views, then visit the lovely Église Saint-Martin and Casino. Afternoon takes you past the Greenwich Meridian line to the fascinating prehistoric exhibits of the Paléospace museum. Evening invites a peaceful ride to the Marais de Villers nature reserve at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Villers",
+            "hu": "Villers Kastély",
+            "ro": "Castelul din Villers",
+            "en": "Château de Villers"
+          },
+          "coords": [
+            0.015747,
+            49.306145
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die üppigen Anlagen rund um dieses elegante regionale Schloss und tragen Sie bequeme Schuhe, um die unbefestigten Gartenwege zu meistern.",
+            "hu": "Fedezze fel az elegáns regionális kastélyt körülvevő buja parkot, és feltétlenül viseljen kényelmes cipőt a kiterjedt, burkolatlan kerti ösvényeken való sétához.",
+            "ro": "Explorați terenurile luxuriante din jurul acestui castel regional elegant, purtând încălțăminte confortabilă pentru a naviga pe aleile de grădină nepavate.",
+            "en": "Explore the lush grounds surrounding this elegant regional castle, ensuring you wear comfortable walking shoes to navigate the extensive unpaved garden paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt (Point de Vue)",
+            "hu": "Point de Vue kilátó",
+            "ro": "Punct de Belvedere",
+            "en": "Point de Vue"
+          },
+          "coords": [
+            -0.001057,
+            49.316041
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick über den Ärmelkanal von diesem natürlichen Aussichtspunkt, idealerweise am späten Vormittag für bestes Licht.",
+            "hu": "Élvezze a La Manche csatornára nyíló pazar panorámát erről a természetes kilátóról, ahová a legtisztább fényekért a késő délelőtti órákban érdemes érkezni.",
+            "ro": "Admirați priveliștile panoramice ample asupra Canalului Mânecii de la acest punct de belvedere, ajungând ideal dimineața târziu pentru cea mai clară lumină.",
+            "en": "Take in the sweeping panoramic vistas over the English Channel from this natural overlook, arriving ideally in the late morning for the clearest light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vierge Marie",
+            "hu": "Szűz Mária szobor",
+            "ro": "Statuia Vierge Marie",
+            "en": "Vierge Marie"
+          },
+          "coords": [
+            -0.006851,
+            49.318757
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der stillen Reflexion an dieser historischen Hügelstatue, wo ein kleines Zoomobjektiv Ihnen hilft, Details der Küste einzufangen.",
+            "hu": "Élvezze a csendes elmélkedést ezen a történelmi dombtetőn lévő szobornál, ahová érdemes egy kis zoomobjektívet hozni a távoli tengerparti részletekért.",
+            "ro": "Bucurați-vă de un moment de reflecție la această statuie istorică pe colină, unde un mic obiectiv cu zoom vă va ajuta să surprindeți detaliile coastei.",
+            "en": "Enjoy a moment of quiet reflection at this historic hilltop statue, where bringing a small zoom lens will help you capture the distant coastal details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nullmeridian von Greenwich",
+            "hu": "Greenwichi délkör",
+            "ro": "Meridianul Greenwich",
+            "en": "Greenwich Meridian"
+          },
+          "coords": [
+            -0.00044,
+            49.325644
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie genau auf der Linie, die Ost- und Westhemisphäre trennt, und besuchen Sie den Ort bei Ebbe, um die Markierung am Strand deutlich zu sehen.",
+            "hu": "Álljon pontosan a keleti és nyugati féltekét elválasztó vonalra, és próbáljon apálykor érkezni, hogy tisztán lássa a tengerpartra nyúló jelzést.",
+            "ro": "Stați exact pe linia care desparte emisferele estică și vestică și încercați să vizitați la reflux pentru a vedea clar marcajul ce se extinde pe plajă.",
+            "en": "Stand exactly on the line dividing the eastern and western hemispheres, and try visiting at low tide to see the marker clearly extending onto the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Villers-sur-Mer",
+            "hu": "Villers-sur-Mer strand",
+            "ro": "Plaja Villers-sur-Mer",
+            "en": "Plage de Villers-sur-Mer"
+          },
+          "coords": [
+            0.009417,
+            49.330873
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen, von Klippen umrahmten Sandstrand und mieten Sie frühzeitig eine der klassischen gestreiften Strandkabinen.",
+            "hu": "Sétáljon végig ezen a drámai sziklákkal keretezett hatalmas homokos parton, és béreljen egy klasszikus csíkos strandkabint még a nap elején.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm nisipos încadrat de stânci dramatice și închiriați o cabină de plajă clasică în dungi la începutul zilei.",
+            "en": "Stroll along this expansive sandy shore framed by dramatic cliffs, and rent a classic striped beach cabin early in the day before they are all taken."
+          }
+        },
+        {
+          "name": {
+            "de": "Paléospace",
+            "hu": "Paléospace",
+            "ro": "Paléospace",
+            "en": "Paléospace"
+          },
+          "coords": [
+            0.013351,
+            49.327861
+          ],
+          "category": "museum",
+          "arrive_at": "15:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Jura-Fossilien und Dinosaurier-Ausstellungen in diesem modernen Museum und buchen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a lenyűgöző jura kori fosszíliákat és dinoszauruszokat ebben a modern múzeumban, és foglaljon jegyet online a nyári sorban állás elkerülésére.",
+            "ro": "Descoperiți fosile jurasice și expoziții interactive de dinozauri în acest muzeu modern, rezervând bilete online pentru a evita cozile frecvente de vară.",
+            "en": "Discover fascinating Jurassic fossils and interactive dinosaur exhibits inside this modern museum, booking tickets online to skip the frequent summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt etwas im Landesinneren mit den eleganten Anlagen des Château de Villers und seiner regionalen Architektur. Mittags führt eine malerische Fahrt zum Point de Vue und zum historischen Denkmal Vierge Marie näher ans Zentrum. Nachmittags folgen Sie dem berühmten Nullmeridian, bevor Sie den weiten Sand der Plage de Villers-sur-Mer genießen. Der Abend endet mit Entdeckungen im modernen Paléospace.",
+        "hu": "Az autós túra kissé beljebb, a Château de Villers elegáns parkjában indul, megcsodálva a nagyszerű regionális építészetet. Délben egy festői autózás vezet a Point de Vue-höz és a Vierge Marie történelmi emlékműhöz, közelebb a városközponthoz. Délután a híres Greenwichi délkör nyomvonalát követheti, mielőtt élvezné a Plage de Villers-sur-Mer hatalmas homokját. Az este őskori felfedezésekkel zárul a modern Paléospace-ben.",
+        "ro": "Plimbarea cu mașina începe ușor în interior cu terenurile elegante ale Château de Villers, admirând arhitectura regională. La prânz, un drum pitoresc vă duce la Point de Vue și la monumentul istoric Vierge Marie. După-amiaza implică urmărirea faimosului Meridian Greenwich înainte de a vă bucura de nisipurile extinse ale Plage de Villers-sur-Mer. Seara se încheie cu descoperiri preistorice la modernul Paléospace.",
+        "en": "Your drive begins slightly inland with the elegant grounds of Château de Villers, taking in the grand regional architecture. Midday brings a scenic drive to the Point de Vue and the historic Vierge Marie monument, moving closer to the lively town center. Afternoon involves tracing the famous Greenwich Meridian line before enjoying the expansive sands of Plage de Villers-sur-Mer. Evening concludes with prehistoric discoveries at the modern Paléospace."
+      }
+    }
+  }
+}

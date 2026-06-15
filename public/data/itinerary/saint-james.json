@@ -1,0 +1,497 @@
+{
+  "city_id": "saint-james",
+  "anchor": {
+    "name": "Saint-James",
+    "coords": [
+      -1.3247,
+      48.5228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-James Strickwarenfabrik",
+            "hu": "Saint-James Kötöttárugyár",
+            "ro": "Fabrica de tricotaje Saint-James",
+            "en": "Saint-James Knitwear Factory"
+          },
+          "coords": [
+            -1.32375,
+            48.5232
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
+            "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -1.319874,
+            48.523638
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
+            "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Paluelle",
+            "hu": "Château de la Paluelle",
+            "ro": "Château de la Paluelle",
+            "en": "Château de la Paluelle"
+          },
+          "coords": [
+            -1.315069,
+            48.525599
+          ],
+          "category": "castle",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
+            "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
+            "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Amerikanischer Friedhof in der Bretagne",
+            "hu": "Bretagne-i Amerikai Temető",
+            "ro": "Cimitirul American din Bretania",
+            "en": "Brittany American Cemetery"
+          },
+          "coords": [
+            -1.304167,
+            48.518889
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
+            "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
+            "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des amerikanischen Militärfriedhofs",
+            "hu": "Katonai temető kápolnája",
+            "ro": "Capela cimitirului militar american",
+            "en": "Chapelle du cimetière militaire américain"
+          },
+          "coords": [
+            -1.302192,
+            48.51908
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
+            "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
+            "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der berühmten Strickwarenfabrik Saint-James und spazieren Sie zur ruhigen Kirche Saint-Jacques.\n\nMittags bewundern Sie die historische Architektur des Château de la Paluelle bei einem gemütlichen Stadtspaziergang.\n\nDer Nachmittag ist dem bewegenden amerikanischen Friedhof in der Bretagne gewidmet, der die gefallenen Soldaten ehrt.\n\nDer Abend lädt schließlich zu stiller Reflexion in der wunderschönen Friedhofskapelle ein.",
+        "hu": "Kezdje a reggelt a híres Saint-James kötöttárugyárban, majd sétáljon át a békés Saint-Jacques templomhoz.\n\nDélben csodálja meg a Château de la Paluelle történelmi építészetét, mielőtt megebédelne a belvárosban.\n\nA délutánt a megható Bretagne-i Amerikai Temetőnek szenteljük, ahol az elesett katonákra emlékezhetünk.\n\nAz este csendes elmélkedésre hív a temető gyönyörű, békét árasztó kápolnájában.",
+        "ro": "Începeți dimineața explorând faimoasa fabrică de tricotaje Saint-James, apoi plimbați-vă până la senina Biserică Saint-Jacques.\n\nLa prânz, admirați arhitectura istorică a Château de la Paluelle în timpul unei plimbări relaxante.\n\nDupă-amiaza este dedicată emoționantului Cimitir American din Bretania, onorând soldații căzuți.\n\nSeara invită la o reflecție liniștită în frumoasa și solemna capelă a cimitirului.",
+        "en": "Start your morning exploring the famous Saint-James Knitwear Factory, then stroll over to the serene Saint-Jacques Church.\n\nMidday, admire the historic architecture of Château de la Paluelle before enjoying a leisurely lunch in town.\n\nThe afternoon is dedicated to the moving Brittany American Cemetery, respectfully honoring the fallen soldiers.\n\nEvening invites a quiet reflection at the cemetery's beautiful and solemn granite chapel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -1.319874,
+            48.523638
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
+            "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-James Strickwarenfabrik",
+            "hu": "Saint-James Kötöttárugyár",
+            "ro": "Fabrica de tricotaje Saint-James",
+            "en": "Saint-James Knitwear Factory"
+          },
+          "coords": [
+            -1.32375,
+            48.5232
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
+            "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Paluelle",
+            "hu": "Château de la Paluelle",
+            "ro": "Château de la Paluelle",
+            "en": "Château de la Paluelle"
+          },
+          "coords": [
+            -1.315069,
+            48.525599
+          ],
+          "category": "castle",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
+            "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
+            "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Benoît Polissoir",
+            "hu": "Saint-Benoît Polissoir",
+            "ro": "Saint-Benoît Polissoir",
+            "en": "Saint-Benoît Polissoir"
+          },
+          "coords": [
+            -1.318741,
+            48.53437
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Jungsteinzeit zu diesem faszinierenden megalithischen Polierstein, aber tragen Sie festes Schuhwerk, da das Feld schlammig sein kann.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus csiszolókőnél, de viseljen strapabíró cipőt, mert a környező mező gyakran sáros lehet.",
+            "ro": "Întoarceți-vă în neolitic la această piatră de lustruit megalitică, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece câmpul poate fi noroios.",
+            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -1.290676,
+            48.53272
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ländliche Gemeinde mit authentischem Mauerwerk; das Parken vor der Tür ist begrenzt, daher wird ein kurzer Fußweg empfohlen.",
+            "hu": "Fedezze fel ezt a bájos vidéki plébániát, amely autentikus helyi falazattal büszkélkedhet; a parkolás korlátozott, így érdemes az útról besétálni.",
+            "ro": "Explorați această parohie rurală fermecătoare cu zidărie locală autentică; parcarea este foarte limitată, așa că se recomandă mersul pe jos din stradă.",
+            "en": "Explore this charming countryside parish featuring authentic local masonry; parking is very limited outside, so walking from the main road is advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Amerikanischer Friedhof in der Bretagne",
+            "hu": "Bretagne-i Amerikai Temető",
+            "ro": "Cimitirul American din Bretania",
+            "en": "Brittany American Cemetery"
+          },
+          "coords": [
+            -1.304167,
+            48.518889
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
+            "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
+            "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des amerikanischen Militärfriedhofs",
+            "hu": "Katonai temető kápolnája",
+            "ro": "Capela cimitirului militar american",
+            "en": "Chapelle du cimetière militaire américain"
+          },
+          "coords": [
+            -1.302192,
+            48.51908
+          ],
+          "category": "religious",
+          "arrive_at": "16:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
+            "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
+            "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Kirche Saint-Jacques, gefolgt von einem Besuch der ikonischen Strickwarenfabrik.\n\nMittags fahren Sie am eleganten Château de la Paluelle vorbei hinaus zum alten und geheimnisvollen Saint-Benoît Polissoir.\n\nVerbringen Sie den Nachmittag mit einer Fahrt zur Église Saint-Martin und weiter zum riesigen amerikanischen Friedhof.\n\nBeenden Sie den Tag mit einem sehr friedlichen und nachdenklichen Besuch der Gedenkkapelle im Abendlicht.",
+        "hu": "Kezdje kerékpártúráját a Saint-Jacques templomnál, majd látogasson el az ikonikus kötöttárugyárba és fedezze fel a városközpontot.\n\nDélben a Château de la Paluelle mellett elhaladva az ősi és titokzatos Saint-Benoît Polissoirhoz tekerhet egy kis vidéki levegőért.\n\nA délutánt az Église Saint-Martin, majd a történelmi Amerikai Temető kényelmes felfedezésével töltheti.\n\nZárja a napot az emlékkápolna csendes és békés meglátogatásával az esti órák nyugalmat árasztó fényeiben.",
+        "ro": "Începeți turul cu bicicleta la Biserica Saint-Jacques, urmat de o vizită la fabrica emblematică de tricotaje din centrul orașului.\n\nLa prânz, treceți pe lângă elegantul Château de la Paluelle și ajungeți la vechiul Saint-Benoît Polissoir.\n\nPetreceți după-amiaza pedalând liniștit spre Église Saint-Martin înainte de a vă îndrepta către vastul Cimitir American.\n\nÎncheiați ziua cu o vizită liniștită și solemnă la capela memorială, bucurându-vă de reflexia asfințitului.",
+        "en": "Kick off your cycling tour at Saint-Jacques Church, followed by a visit to the iconic knitwear factory in the heart of town.\n\nMidday takes you past the elegant Château de la Paluelle and out to the ancient Saint-Benoît Polissoir for a rustic pause.\n\nSpend the afternoon gently pedaling to the quaint Église Saint-Martin before heading out to the historic American Cemetery.\n\nConclude the day with a peaceful and solemn visit to the memorial chapel as the evening sun casts long shadows."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Carnet",
+            "hu": "Mairie déléguée de Carnet",
+            "ro": "Mairie déléguée de Carnet",
+            "en": "Mairie déléguée de Carnet"
+          },
+          "coords": [
+            -1.356324,
+            48.509257
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieses ehemaligen Rathauses, das einen ruhigen Einblick in das ländliche Verwaltungsleben der Region bietet.",
+            "hu": "Figyelje meg ennek a korábbi városházának a hagyományos építészetét, amely csendes bepillantást enged a régió vidéki közigazgatási mindennapjaiba.",
+            "ro": "Observați arhitectura civică tradițională a acestei foste primării locale, care oferă o privire liniștită asupra vieții administrative rurale a regiunii.",
+            "en": "Observe the traditional civic architecture of this former local town hall, which offers a quiet glimpse into the rural administrative life of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-James Strickwarenfabrik",
+            "hu": "Saint-James Kötöttárugyár",
+            "ro": "Fabrica de tricotaje Saint-James",
+            "en": "Saint-James Knitwear Factory"
+          },
+          "coords": [
+            -1.32375,
+            48.5232
+          ],
+          "category": "cultural",
+          "arrive_at": "09:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
+            "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
+            "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            -1.319874,
+            48.523638
+          ],
+          "category": "religious",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
+            "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Paluelle",
+            "hu": "Château de la Paluelle",
+            "ro": "Château de la Paluelle",
+            "en": "Château de la Paluelle"
+          },
+          "coords": [
+            -1.315069,
+            48.525599
+          ],
+          "category": "castle",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
+            "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
+            "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Benoît Polissoir",
+            "hu": "Saint-Benoît Polissoir",
+            "ro": "Saint-Benoît Polissoir",
+            "en": "Saint-Benoît Polissoir"
+          },
+          "coords": [
+            -1.318741,
+            48.53437
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Jungsteinzeit zu diesem faszinierenden megalithischen Polierstein, aber tragen Sie festes Schuhwerk, da das Feld schlammig sein kann.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus csiszolókőnél, de viseljen strapabíró cipőt, mert a környező mező gyakran sáros lehet.",
+            "ro": "Întoarceți-vă în neolitic la această piatră de lustruit megalitică, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece câmpul poate fi noroios.",
+            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Amerikanischer Friedhof in der Bretagne",
+            "hu": "Bretagne-i Amerikai Temető",
+            "ro": "Cimitirul American din Bretania",
+            "en": "Brittany American Cemetery"
+          },
+          "coords": [
+            -1.304167,
+            48.518889
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
+            "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
+            "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des amerikanischen Militärfriedhofs",
+            "hu": "Katonai temető kápolnája",
+            "ro": "Capela cimitirului militar american",
+            "en": "Chapelle du cimetière militaire américain"
+          },
+          "coords": [
+            -1.302192,
+            48.51908
+          ],
+          "category": "religious",
+          "arrive_at": "15:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
+            "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
+            "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Mairie déléguée de Carnet, bevor Sie in der Stadt die berühmte Fabrik und die örtliche Kirche bequem mit dem Auto erkunden.\n\nHalten Sie mittags, um das Château de la Paluelle und den historischen Polierstein von Saint-Benoît etwas außerhalb zu bewundern.\n\nAm Nachmittag fahren Sie zum riesigen amerikanischen Friedhof in der Bretagne, um Ihren Respekt in einer ruhigen Atmosphäre zu erweisen.\n\nDer Abend endet schließlich an der feierlichen Kapelle auf dem Gelände, bevor Sie Ihre entspannte Heimreise antreten.",
+        "hu": "Autózzon el a Mairie déléguée de Carnet-hez, majd irány a város, hogy felfedezze a híres gyárat és a helyi templomot kényelmesen.\n\nÁlljon meg délben, és csodálja meg a Château de la Paluelle-t, valamint a kicsit távolabb fekvő Saint-Benoît polírozókövet.\n\nDélután vezessen el a hatalmas Bretagne-i Amerikai Temetőbe, hogy tisztelegjen és lerója tiszteletét a hősök emléke előtt.\n\nAz este a helyszínen lévő ünnepélyes kápolnában ér véget, amely tökéletes helyszínt biztosít a nyugodt elcsendesedéshez.",
+        "ro": "Conduceți până la Mairie déléguée de Carnet, apoi explorați confortabil faimoasa fabrică și biserica locală din centrul orașului.\n\nOpriți-vă la prânz pentru a admira elegantul Château de la Paluelle și piatra istorică de la Saint-Benoît, aflată mai departe.\n\nDupă-amiaza, mergeți cu mașina pentru a vă prezenta omagiile respectuoase la vastul Cimitir American din regiunea Bretania.\n\nSeara se încheie la capela solemnă de pe amplasament, oferind un ultim moment de liniște înainte de a pleca mai departe.",
+        "en": "Drive out to the Mairie déléguée de Carnet to start your day, then head into town to conveniently explore the renowned factory and local church.\n\nStop midday to admire the magnificent grounds of Château de la Paluelle and the historic polishing stone of Saint-Benoît.\n\nIn the afternoon, drive out to respectfully pay your homage at the vast and moving Brittany American Cemetery complex.\n\nThe evening wraps up gracefully at the solemn chapel on site, offering a final moment of deep peace and reflection."
+      }
+    }
+  }
+}

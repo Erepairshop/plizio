@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-astier",
+  "anchor": {
+    "name": "Saint-Astier",
+    "coords": [
+      0.5281,
+      45.1453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Astier",
+            "hu": "Saint-Astier Templom",
+            "ro": "Biserica Saint-Astier",
+            "en": "Saint-Astier Church"
+          },
+          "coords": [
+            0.529388,
+            45.144629
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte Architektur der Kirche aus dem 11. Jahrhundert, deren Krypta faszinierende Geheimnisse birgt, und besuchen Sie sie am frühen Vormittag für das beste Licht.",
+            "hu": "Csodálja meg a 11. századi erődített templom építészetét, amelynek kriptája lenyűgöző titkokat rejt, és látogassa meg kora délelőtt a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura fortificată a bisericii din secolul al XI-lea, a cărei criptă ascunde secrete fascinante, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the fortified architecture of the 11th-century church, whose crypt holds fascinating secrets, and visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fabrique",
+            "hu": "La Fabrique",
+            "ro": "La Fabrique",
+            "en": "La Fabrique"
+          },
+          "coords": [
+            0.526385,
+            45.144917
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Kulturzentrum vielfältige Ausstellungen, die das lokale künstlerische Erbe der Region präsentieren, und prüfen Sie vorab den aktuellen Veranstaltungsplan.",
+            "hu": "Fedezze fel ebben a modern kulturális központban a régió helyi művészeti örökségét bemutató sokszínű kiállításokat, és előzetesen ellenőrizze az aktuális eseménynaptárt.",
+            "ro": "Descoperiți expozițiile diverse din acest centru cultural modern care prezintă moștenirea artistică locală a regiunii și verificați în prealabil programul actual al evenimentelor.",
+            "en": "Discover diverse exhibitions showcasing the region's local artistic heritage in this modern cultural center, and check the current event schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für sakrale Kunst",
+            "hu": "Szakrális Művészeti Kiállítás",
+            "ro": "Expoziția de Artă Sacră",
+            "en": "Exposition d'Art Sacré"
+          },
+          "coords": [
+            0.530306,
+            45.147695
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Sammlung sakraler Kunstwerke, die tiefgreifende spirituelle Traditionen veranschaulichen, und nutzen Sie den kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el a szakrális műalkotások gazdag gyűjteményében, amelyek mély spirituális hagyományokat illusztrálnak, és használja az ingyenes audioguide-ot a mélyebb betekintéshez.",
+            "ro": "Cufundați-vă în colecția bogată de opere de artă sacră care ilustrează tradiții spirituale profunde și folosiți ghidul audio gratuit pentru o înțelegere mai profundă.",
+            "en": "Immerse yourself in the rich collection of sacred artworks illustrating profound spiritual traditions, and use the free audio guide for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Lac Bleu",
+            "hu": "Le Lac Bleu",
+            "ro": "Le Lac Bleu",
+            "en": "Le Lac Bleu"
+          },
+          "coords": [
+            0.547412,
+            45.150305
+          ],
+          "category": "natural",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang um diesen malerischen blauen See, der eine perfekte Oase für Naturliebhaber darstellt, und packen Sie ein kleines Picknick für die Mittagsrast ein.",
+            "hu": "Élvezze a pihentető sétát e festői kék tó körül, amely tökéletes oázis a természet szerelmeseinek, és csomagoljon egy kis pikniket az ebédszünetre.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în jurul acestui pitoresc lac albastru, o oază perfectă pentru iubitorii de natură, și luați la pachet un mic picnic pentru prânz.",
+            "en": "Enjoy a relaxing stroll around this picturesque blue lake, which offers a perfect oasis for nature lovers, and pack a small picnic for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkwerke Saint-Astier",
+            "hu": "Saint-Astier Mészüzem",
+            "ro": "Cuptoarele de Var Saint-Astier",
+            "en": "Chaux & Enduits de Saint-Astier"
+          },
+          "coords": [
+            0.555406,
+            45.148588
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erforschen Sie die historischen Kalksteinbrüche und Produktionsanlagen, die die Architektur der Region geprägt haben, und tragen Sie bequeme Schuhe für die industrielle Führung.",
+            "hu": "Fedezze fel a történelmi mészkőbányákat és termelőüzemeket, amelyek alakították a régió építészetét, és viseljen kényelmes cipőt az ipari túrához.",
+            "ro": "Explorați carierele istorice de calcar și instalațiile de producție care au modelat arhitectura regiunii și purtați încălțăminte confortabilă pentru turul industrial.",
+            "en": "Explore the historic limestone quarries and production facilities that have shaped the region's architecture, and wear comfortable shoes for the industrial tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der alten Wehrkirche und führt in das moderne kulturelle Herz von La Fabrique. Die Mittagszeit ist der spirituellen Kunst und einem schönen Spaziergang an den Stadtrand gewidmet. Der Nachmittag entfaltet sich wunderbar mit einem ruhigen Spaziergang um das schimmernde Wasser des Lac Bleu. Der Abend schließt mit einer Industriekulturtour bei den historischen Kalköfen ab.",
+        "hu": "A reggel az ősi erődtemplomnál kezdődik, majd a La Fabrique modern kulturális központjában folytatódik. A délidőt a szakrális művészetnek és egy kellemes sétának szenteljük a város széléig. A délután csodálatosan telik a Le Lac Bleu csillogó vize körüli nyugodt sétával. Az este a történelmi mészégetők ipari örökségét bemutató túrával zárul, amely megmutatja a város igazi lényegét.",
+        "ro": "Dimineața începe la vechea biserică fortificată, trecând în centrul cultural modern de la La Fabrique. Amiaza este rezervată artei spirituale și unei plimbări plăcute spre marginea orașului. După-amiaza se desfășoară frumos cu o plimbare senină în jurul apelor strălucitoare ale Lac Bleu. Seara se încheie cu un tur al patrimoniului industrial la cuptoarele de var istorice.",
+        "en": "Morning starts at the ancient fortified church, moving into the modern cultural heartbeat of La Fabrique. Midday is reserved for spiritual art exploration and a pleasant walk towards the edges of town. The afternoon unfolds beautifully with a serene stroll around the shimmering waters of Le Lac Bleu. Evening closes with an industrial heritage tour at the historic lime kilns."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 5.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Astier",
+            "hu": "Saint-Astier Templom",
+            "ro": "Biserica Saint-Astier",
+            "en": "Saint-Astier Church"
+          },
+          "coords": [
+            0.529388,
+            45.144629
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte Architektur der Kirche aus dem 11. Jahrhundert, deren Krypta faszinierende Geheimnisse birgt, und besuchen Sie sie am frühen Vormittag für das beste Licht.",
+            "hu": "Csodálja meg a 11. századi erődített templom építészetét, amelynek kriptája lenyűgöző titkokat rejt, és látogassa meg kora délelőtt a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura fortificată a bisericii din secolul al XI-lea, a cărei criptă ascunde secrete fascinante, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the fortified architecture of the 11th-century church, whose crypt holds fascinating secrets, and visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für sakrale Kunst",
+            "hu": "Szakrális Művészeti Kiállítás",
+            "ro": "Expoziția de Artă Sacră",
+            "en": "Exposition d'Art Sacré"
+          },
+          "coords": [
+            0.530306,
+            45.147695
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Sammlung sakraler Kunstwerke, die tiefgreifende spirituelle Traditionen veranschaulichen, und nutzen Sie den kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el a szakrális műalkotások gazdag gyűjteményében, amelyek mély spirituális hagyományokat illusztrálnak, és használja az ingyenes audioguide-ot a mélyebb betekintéshez.",
+            "ro": "Cufundați-vă în colecția bogată de opere de artă sacră care ilustrează tradiții spirituale profunde și folosiți ghidul audio gratuit pentru o înțelegere mai profundă.",
+            "en": "Immerse yourself in the rich collection of sacred artworks illustrating profound spiritual traditions, and use the free audio guide for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Lac Bleu",
+            "hu": "Le Lac Bleu",
+            "ro": "Le Lac Bleu",
+            "en": "Le Lac Bleu"
+          },
+          "coords": [
+            0.547412,
+            45.150305
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang um diesen malerischen blauen See, der eine perfekte Oase für Naturliebhaber darstellt, und packen Sie ein kleines Picknick für die Mittagsrast ein.",
+            "hu": "Élvezze a pihentető sétát e festői kék tó körül, amely tökéletes oázis a természet szerelmeseinek, és csomagoljon egy kis pikniket az ebédszünetre.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în jurul acestui pitoresc lac albastru, o oază perfectă pentru iubitorii de natură, și luați la pachet un mic picnic pentru prânz.",
+            "en": "Enjoy a relaxing stroll around this picturesque blue lake, which offers a perfect oasis for nature lovers, and pack a small picnic for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Puy-Saint-Astier",
+            "hu": "Puy-Saint-Astier Kastély",
+            "ro": "Castelul Puy-Saint-Astier",
+            "en": "Château du Puy-Saint-Astier"
+          },
+          "coords": [
+            0.54303,
+            45.159966
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der majestätischen Silhouette dieses Schlosses und seinen weitläufigen Gärten verzaubern, und vergessen Sie nicht Ihre Kamera für den tollen Panoramablick.",
+            "hu": "Hagyja, hogy elvarázsolja e kastély fenséges sziluettje és kiterjedt kertjei, és ne felejtse el a fényképezőgépét a nagyszerű panoráma megörökítéséhez.",
+            "ro": "Lăsați-vă fermecați de silueta maiestuoasă a acestui castel și de grădinile sale întinse și nu vă uitați aparatul foto pentru priveliștile panoramice minunate.",
+            "en": "Let yourself be enchanted by the majestic silhouette of this castle and its extensive gardens, and don't forget your camera for the wonderful panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldkapelle",
+            "hu": "Erdei Kápolna",
+            "ro": "Capela din Pădure",
+            "en": "Chapelle des Bois"
+          },
+          "coords": [
+            0.511767,
+            45.156582
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte, friedliche Waldkapelle, die einen Moment der vollkommenen Stille bietet, und achten Sie auf die unebenen Waldwege beim Hinaufgehen.",
+            "hu": "Látogassa meg ezt az eldugott, békés erdei kápolnát, amely a tökéletes csend pillanatát kínálja, és ügyeljen az egyenetlen erdei ösvényekre a feljutás során.",
+            "ro": "Vizitați această capelă ascunsă și pașnică din pădure, care oferă un moment de liniște absolută, și aveți grijă la potecile forestiere denivelate la urcare.",
+            "en": "Visit this hidden, peaceful woodland chapel that offers a moment of complete silence, and be careful of the uneven forest paths on the way up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt Sie zur Wehrkirche und zum nahegelegenen Museum für sakrale Kunst. Die Mittagszeit lädt Sie ein, in die Natur zu entfliehen, während Sie zum ruhigen Ufer des Lac Bleu radeln. Der Nachmittag wird vom majestätischen Château du Puy-Saint-Astier mit seiner Architektur gekrönt. Der Abend führt Sie zur versteckten Waldkapelle, die einen perfekten und friedlichen Abschluss bietet.",
+        "hu": "A reggeli pedálozás elviszi az erődtemplomhoz és a közeli szakrális művészeti múzeumhoz a városközpontban. A délidő a természetbe hív, miközben a Le Lac Bleu nyugodt partjaihoz kerekezik. A délutánt a fenséges Château du Puy-Saint-Astier koronázza meg lenyűgöző építészetével. Az este a rejtett erdei kápolnánál találja Önt, amely tökéletes és békés befejezést kínál.",
+        "ro": "Dimineața vă poartă la biserica fortificată și la muzeul de artă sacră din apropiere. Amiaza vă invită să evadați în natură în timp ce pedalați spre malurile liniștite ale Lac Bleu. După-amiaza este încoronată de maiestuosul Château du Puy-Saint-Astier, cu arhitectura sa uimitoare. Seara vă găsește la capela retrasă din pădure, oferind un final perfect și pașnic.",
+        "en": "Morning pedal strokes bring you to the fortified church and the nearby museum of sacred art in the town center. Midday invites you to escape to nature as you cycle towards the tranquil shores of Le Lac Bleu. The afternoon is crowned by the majestic Château du Puy-Saint-Astier, offering stunning architecture and views. Evening finds you at the secluded woodland chapel, providing a perfect, peaceful end to your cycling day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Puyferrat",
+            "hu": "Puyferrat Kastély",
+            "ro": "Castelul Puyferrat",
+            "en": "Château de Puyferrat"
+          },
+          "coords": [
+            0.50655,
+            45.14884
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gut erhaltenen Verteidigungsanlagen und historischen Gemächer dieses beeindruckenden Schlosses, für das Sie vorab eine geführte Tour buchen sollten.",
+            "hu": "Csodálja meg e lenyűgöző kastély jól karbantartott védműveit és történelmi termeit, amelyhez érdemes előre lefoglalni egy vezetett túrát.",
+            "ro": "Admirați fortificațiile bine conservate și camerele istorice ale acestui castel impresionant, pentru care ar trebui să rezervați în prealabil un tur ghidat.",
+            "en": "Marvel at the well-preserved defenses and historic chambers of this impressive castle, for which you should book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldkapelle",
+            "hu": "Erdei Kápolna",
+            "ro": "Capela din Pădure",
+            "en": "Chapelle des Bois"
+          },
+          "coords": [
+            0.511767,
+            45.156582
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte, friedliche Waldkapelle, die einen Moment der vollkommenen Stille bietet, und achten Sie auf die unebenen Waldwege beim Hinaufgehen.",
+            "hu": "Látogassa meg ezt az eldugott, békés erdei kápolnát, amely a tökéletes csend pillanatát kínálja, és ügyeljen az egyenetlen erdei ösvényekre a feljutás során.",
+            "ro": "Vizitați această capelă ascunsă și pașnică din pădure, care oferă un moment de liniște absolută, și aveți grijă la potecile forestiere denivelate la urcare.",
+            "en": "Visit this hidden, peaceful woodland chapel that offers a moment of complete silence, and be careful of the uneven forest paths on the way up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Astier",
+            "hu": "Saint-Astier Templom",
+            "ro": "Biserica Saint-Astier",
+            "en": "Saint-Astier Church"
+          },
+          "coords": [
+            0.529388,
+            45.144629
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte Architektur der Kirche aus dem 11. Jahrhundert, deren Krypta faszinierende Geheimnisse birgt, und besuchen Sie sie am frühen Vormittag für das beste Licht.",
+            "hu": "Csodálja meg a 11. századi erődített templom építészetét, amelynek kriptája lenyűgöző titkokat rejt, és látogassa meg kora délelőtt a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura fortificată a bisericii din secolul al XI-lea, a cărei criptă ascunde secrete fascinante, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the fortified architecture of the 11th-century church, whose crypt holds fascinating secrets, and visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fabrique",
+            "hu": "La Fabrique",
+            "ro": "La Fabrique",
+            "en": "La Fabrique"
+          },
+          "coords": [
+            0.526385,
+            45.144917
+          ],
+          "category": "cultural",
+          "arrive_at": "11:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Kulturzentrum vielfältige Ausstellungen, die das lokale künstlerische Erbe der Region präsentieren, und prüfen Sie vorab den aktuellen Veranstaltungsplan.",
+            "hu": "Fedezze fel ebben a modern kulturális központban a régió helyi művészeti örökségét bemutató sokszínű kiállításokat, és előzetesen ellenőrizze az aktuális eseménynaptárt.",
+            "ro": "Descoperiți expozițiile diverse din acest centru cultural modern care prezintă moștenirea artistică locală a regiunii și verificați în prealabil programul actual al evenimentelor.",
+            "en": "Discover diverse exhibitions showcasing the region's local artistic heritage in this modern cultural center, and check the current event schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Puy-Saint-Astier",
+            "hu": "Puy-Saint-Astier Kastély",
+            "ro": "Castelul Puy-Saint-Astier",
+            "en": "Château du Puy-Saint-Astier"
+          },
+          "coords": [
+            0.54303,
+            45.159966
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der majestätischen Silhouette dieses Schlosses und seinen weitläufigen Gärten verzaubern, und vergessen Sie nicht Ihre Kamera für den tollen Panoramablick.",
+            "hu": "Hagyja, hogy elvarázsolja e kastély fenséges sziluettje és kiterjedt kertjei, és ne felejtse el a fényképezőgépét a nagyszerű panoráma megörökítéséhez.",
+            "ro": "Lăsați-vă fermecați de silueta maiestuoasă a acestui castel și de grădinile sale întinse și nu vă uitați aparatul foto pentru priveliștile panoramice minunate.",
+            "en": "Let yourself be enchanted by the majestic silhouette of this castle and its extensive gardens, and don't forget your camera for the wonderful panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Lac Bleu",
+            "hu": "Le Lac Bleu",
+            "ro": "Le Lac Bleu",
+            "en": "Le Lac Bleu"
+          },
+          "coords": [
+            0.547412,
+            45.150305
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang um diesen malerischen blauen See, der eine perfekte Oase für Naturliebhaber darstellt, und packen Sie ein kleines Picknick für die Mittagsrast ein.",
+            "hu": "Élvezze a pihentető sétát e festői kék tó körül, amely tökéletes oázis a természet szerelmeseinek, és csomagoljon egy kis pikniket az ebédszünetre.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în jurul acestui pitoresc lac albastru, o oază perfectă pentru iubitorii de natură, și luați la pachet un mic picnic pentru prânz.",
+            "en": "Enjoy a relaxing stroll around this picturesque blue lake, which offers a perfect oasis for nature lovers, and pack a small picnic for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkwerke Saint-Astier",
+            "hu": "Saint-Astier Mészüzem",
+            "ro": "Cuptoarele de Var Saint-Astier",
+            "en": "Chaux & Enduits de Saint-Astier"
+          },
+          "coords": [
+            0.555406,
+            45.148588
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erforschen Sie die historischen Kalksteinbrüche und Produktionsanlagen, die die Architektur der Region geprägt haben, und tragen Sie bequeme Schuhe für die industrielle Führung.",
+            "hu": "Fedezze fel a történelmi mészkőbányákat és termelőüzemeket, amelyek alakították a régió építészetét, és viseljen kényelmes cipőt az ipari túrához.",
+            "ro": "Explorați carierele istorice de calcar și instalațiile de producție care au modelat arhitectura regiunii și purtați încălțăminte confortabilă pentru turul industrial.",
+            "en": "Explore the historic limestone quarries and production facilities that have shaped the region's architecture, and wear comfortable shoes for the industrial tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Pracht des Château de Puyferrat vor einer kurzen Fahrt zur ruhigen Waldkapelle. Die Mittagszeit führt Sie durch das historische Zentrum, zur Wehrkirche und zum Kulturzentrum La Fabrique. Der Nachmittag bietet eine Fahrt zu einem zweiten majestätischen Schloss, gefolgt von Entspannung am blauen See. Der Abend endet mit einem Blick auf die historischen Kalkwerke.",
+        "hu": "A reggel a Château de Puyferrat pompájával kezdődik, mielőtt rövid utat tesz a békés erdei kápolnához. A délidő végigvezeti Önt a történelmi központon, az erődtemplomon és a La Fabrique kulturális csomópontján. A délután során egy második fenséges kastélyhoz utazik, majd a kék tó partján pihenhet. Az este a mészműveknél a régió ipari gerincének lenyűgöző megtekintésével zárul.",
+        "ro": "Dimineața începe cu grandoarea Château de Puyferrat, înainte de un scurt drum spre pașnica capelă din pădure. Amiaza vă poartă prin centrul istoric, admirând biserica fortificată și centrul cultural La Fabrique. După-amiaza prezintă un drum către un al doilea castel magnific, urmat de relaxare la lacul albastru. Seara se încheie la fabricile de var cu o privire asupra istoriei industriale.",
+        "en": "Morning begins with the grandeur of Château de Puyferrat before a short drive to the peaceful woodland chapel. Midday takes you through the historical center, taking in the fortified church and vibrant cultural hub of La Fabrique. The afternoon features a drive to a second magnificent castle followed by relaxation by the blue lake. Evening concludes with a fascinating look into the region's industrial backbone at the lime works."
+      }
+    }
+  }
+}

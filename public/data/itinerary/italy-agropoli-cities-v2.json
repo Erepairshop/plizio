@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-agropoli-cities-v2",
+  "anchor": {
+    "name": "Agropoli",
+    "coords": [
+      14.99655,
+      40.3469
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo La Fornace",
+            "hu": "Museo La Fornace",
+            "ro": "Museo La Fornace",
+            "en": "Museo La Fornace"
+          },
+          "coords": [
+            14.996773,
+            40.349694
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit Agropolis in dieser alten Ziegelei, wo Sie am besten gleich morgens die detaillierten Tonexponate bewundern.",
+            "hu": "Fedezze fel Agropoli ipari múltját ebben a régi téglagyárban, ahol érdemes rögtön reggel alaposan megnézni a részletes agyagkiállításokat.",
+            "ro": "Descoperiți trecutul industrial al orașului Agropoli în această veche fabrică de cărămidă, ideală de vizitat dimineața pentru a admira exponatele.",
+            "en": "Discover Agropoli's industrial past in this old brick factory, where you should arrive early in the morning to quietly admire the detailed clay exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Civico delle Arti",
+            "hu": "Palazzo Civico delle Arti",
+            "ro": "Palazzo Civico delle Arti",
+            "en": "Palazzo Civico delle Arti"
+          },
+          "coords": [
+            14.985469,
+            40.350676
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die archäologischen Schätze in diesem eleganten Palast und achten Sie besonders auf die antiken Amphoren im abgedunkelten Erdgeschoss.",
+            "hu": "Csodálja meg a régészeti kincseket ebben az elegáns palotában, és figyeljen a földszinten kiállított lenyűgöző antik amforákra és görög leletekre.",
+            "ro": "Admirați comorile arheologice în acest palat elegant, acordând o atenție deosebită amforelor antice expuse la parter, pline de istorie antică romană.",
+            "en": "Admire the archaeological treasures housed in this elegant palace, paying special attention to the beautifully preserved ancient amphorae on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese di Agropoli",
+            "hu": "Castello Aragonese di Agropoli",
+            "ro": "Castello Aragonese di Agropoli",
+            "en": "Castello Aragonese di Agropoli"
+          },
+          "coords": [
+            14.988286,
+            40.353386
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Festung für einen fantastischen Blick über das Meer und tragen Sie rutschfestes Schuhwerk für die steilen, kopfsteingepflasterten Wege.",
+            "hu": "Másszon fel az erődítménybe a fantasztikus tengeri kilátásért, és mindenképpen csúszásmentes cipőt viseljen a meredek, macskaköves sétányok miatt.",
+            "ro": "Urcați la cetate pentru o priveliște fantastică asupra mării și purtați neapărat încălțăminte antiderapantă pentru drumurile pietruite și abrupte.",
+            "en": "Climb up to the medieval fortress for a fantastic view over the sea, making sure to wear non-slip shoes for the steep, cobblestone pathways leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Vittorio Bachelet",
+            "hu": "Belvedere Vittorio Bachelet",
+            "ro": "Belvedere Vittorio Bachelet",
+            "en": "Belvedere Vittorio Bachelet"
+          },
+          "coords": [
+            14.985981,
+            40.352739
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem malerischen Aussichtspunkt und halten Sie Ihre Kamera für das perfekte Panorama des tiefblauen Wassers bereit.",
+            "hu": "Élvezze a nyugodt légkört ezen a festői kilátóponton, és tartsa készenlétben a fényképezőgépét a mélykék vizekre nyíló tökéletes panoráma megörökítéséhez.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere pitoresc și pregătiți camera foto pentru o panoramă perfectă a apelor mării.",
+            "en": "Enjoy the peaceful atmosphere at this scenic viewpoint, keeping your camera ready to capture the perfect panorama of the deep blue coastal waters below."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Agropoli",
+            "hu": "Faro di Agropoli",
+            "ro": "Faro di Agropoli",
+            "en": "Faro di Agropoli"
+          },
+          "coords": [
+            14.98697,
+            40.354945
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum historischen Leuchtturm am Rande der Klippe, ein perfekter Ort, um die Meeresbrise abseits der großen Touristenmassen zu genießen.",
+            "hu": "Sétáljon el a szikla szélén álló történelmi világítótoronyhoz, amely tökéletes helyszín a tengeri szellő élvezetére, távol a nagy turistatömegektől.",
+            "ro": "Plimbați-vă până la farul istoric de pe marginea stâncii, un loc perfect pentru a vă bucura de briza mării, departe de marile aglomerații turistice.",
+            "en": "Stroll to the historic lighthouse perched on the cliff's edge, a perfect spot to enjoy the refreshing sea breeze away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Paradiso",
+            "hu": "Lido Paradiso",
+            "ro": "Lido Paradiso",
+            "en": "Lido Paradiso"
+          },
+          "coords": [
+            14.991886,
+            40.353611
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem einladenden Strandabschnitt, wo Sie am besten einen Liegestuhl mieten und den späten Nachmittag gemütlich ausklingen lassen.",
+            "hu": "Pihenjen ezen a hívogató partszakaszon, ahol a legjobb, ha bérel egy napágyat, és kényelmesen élvezi a késő délutáni napsütést a tenger morajlásával.",
+            "ro": "Relaxați-vă pe această plajă primitoare, unde cel mai bine este să închiriați un șezlong și să savurați liniștea după-amiezii târzii la malul mării.",
+            "en": "Relax at this inviting stretch of beach, where your best option is to rent a comfortable sunbed and comfortably enjoy the late afternoon sunshine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang durch Agropoli beginnt im Zentrum mit einem faszinierenden Einblick in die lokale Geschichte. Am Vormittag erkunden wir historische Museen, die von der reichen Vergangenheit der Region erzählen. Nachmittags geht es hinauf zum Schloss und zu den malerischen Aussichtspunkten an der Küste. Den Abend lassen wir entspannt an einem der gemütlichen Strände der Stadt ausklingen.",
+        "hu": "Gyalogos túránk Agropoli központjában indul, felfedezve a helyi múlt izgalmas részleteit. A délelőtt folyamán történelmi múzeumokat járunk be, amelyek a régió gazdag örökségét mutatják be. Délután felkapaszkodunk az aragóniai várhoz és a tengerparti kilátókhoz. Az estét a város egyik hangulatos strandján, a tenger lágy morajlását hallgatva, teljes nyugalomban zárjuk le.",
+        "ro": "Turul nostru pietonal prin Agropoli începe în centru cu o incursiune fascinantă în istoria locală. Dimineața explorăm muzee istorice care povestesc despre trecutul bogat al regiunii. După-amiaza urcăm spre castel și spre punctele de belvedere pitorești de pe coastă. Ne vom încheia seara relaxându-ne pe una dintre plajele primitoare, admirând apusul soarelui.",
+        "en": "Our walking tour through Agropoli begins in the center with a fascinating look into local history. Throughout the morning, we explore museums that narrate the region's rich past. In the afternoon, we ascend to the historic castle and scenic coastal viewpoints. We will comfortably wind down our evening by relaxing on one of the town's inviting, peaceful beaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:46",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dopolavoro Ferroviario F.S.",
+            "hu": "Dopolavoro Ferroviario F.S.",
+            "ro": "Dopolavoro Ferroviario F.S.",
+            "en": "Dopolavoro Ferroviario F.S."
+          },
+          "coords": [
+            15.001374,
+            40.349419
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an diesem historischen Eisenbahner-Treffpunkt, wo Sie sich mit einem starken lokalen Espresso auf den aktiven Tag vorbereiten können.",
+            "hu": "Kezdje a túrát ezen a történelmi vasutas találkozóhelyen, ahol egy erős helyi eszpresszóval tökéletesen felkészülhet az aktív és tartalmas napra.",
+            "ro": "Începeți turul la acest punct de întâlnire istoric al feroviarilor, unde vă puteți pregăti pentru o zi activă cu un espresso local foarte puternic.",
+            "en": "Start your cycling tour at this historic railway workers' club, fueling up with a strong local espresso to perfectly prepare for your active day ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo La Fornace",
+            "hu": "Museo La Fornace",
+            "ro": "Museo La Fornace",
+            "en": "Museo La Fornace"
+          },
+          "coords": [
+            14.996773,
+            40.349694
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit Agropolis in dieser alten Ziegelei, wo Sie am besten gleich morgens die detaillierten Tonexponate bewundern.",
+            "hu": "Fedezze fel Agropoli ipari múltját ebben a régi téglagyárban, ahol érdemes rögtön reggel alaposan megnézni a részletes agyagkiállításokat.",
+            "ro": "Descoperiți trecutul industrial al orașului Agropoli în această veche fabrică de cărămidă, ideală de vizitat dimineața pentru a admira exponatele.",
+            "en": "Discover Agropoli's industrial past in this old brick factory, where you should arrive early in the morning to quietly admire the detailed clay exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Civico delle Arti",
+            "hu": "Palazzo Civico delle Arti",
+            "ro": "Palazzo Civico delle Arti",
+            "en": "Palazzo Civico delle Arti"
+          },
+          "coords": [
+            14.985469,
+            40.350676
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die archäologischen Schätze in diesem eleganten Palast und achten Sie besonders auf die antiken Amphoren im abgedunkelten Erdgeschoss.",
+            "hu": "Csodálja meg a régészeti kincseket ebben az elegáns palotában, és figyeljen a földszinten kiállított lenyűgöző antik amforákra és görög leletekre.",
+            "ro": "Admirați comorile arheologice în acest palat elegant, acordând o atenție deosebită amforelor antice expuse la parter, pline de istorie antică romană.",
+            "en": "Admire the archaeological treasures housed in this elegant palace, paying special attention to the beautifully preserved ancient amphorae on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese di Agropoli",
+            "hu": "Castello Aragonese di Agropoli",
+            "ro": "Castello Aragonese di Agropoli",
+            "en": "Castello Aragonese di Agropoli"
+          },
+          "coords": [
+            14.988286,
+            40.353386
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Festung für einen fantastischen Blick über das Meer und tragen Sie rutschfestes Schuhwerk für die steilen, kopfsteingepflasterten Wege.",
+            "hu": "Másszon fel az erődítménybe a fantasztikus tengeri kilátásért, és mindenképpen csúszásmentes cipőt viseljen a meredek, macskaköves sétányok miatt.",
+            "ro": "Urcați la cetate pentru o priveliște fantastică asupra mării și purtați neapărat încălțăminte antiderapantă pentru drumurile pietruite și abrupte.",
+            "en": "Climb up to the medieval fortress for a fantastic view over the sea, making sure to wear non-slip shoes for the steep, cobblestone pathways leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Oasi",
+            "hu": "Lido Oasi",
+            "ro": "Lido Oasi",
+            "en": "Lido Oasi"
+          },
+          "coords": [
+            14.993907,
+            40.353355
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine Pause im weichen Sand dieses familienfreundlichen Strandbades und probieren Sie unbedingt ein erfrischendes Eis vom örtlichen Kiosk.",
+            "hu": "Tarthasson egy kis szünetet ezen a családbarát strandon, és mindenképpen kóstoljon meg egy hűsítő jégkrémet a helyi, barátságos parti kioszkból.",
+            "ro": "Luați o pauză pe nisipul fin al acestei plaje prietenoase cu familiile și încercați neapărat o înghețată răcoritoare de la chioșcul local de pe plajă.",
+            "en": "Take a relaxing break on the soft sand of this family-friendly beach, making sure to grab a refreshing ice cream from the local kiosk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera di Agropoli",
+            "hu": "Spiaggia libera di Agropoli",
+            "ro": "Spiaggia libera di Agropoli",
+            "en": "Spiaggia libera di Agropoli"
+          },
+          "coords": [
+            14.997734,
+            40.357444
+          ],
+          "category": "recreational",
+          "arrive_at": "16:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Breiten Sie Ihr Handtuch an diesem beliebten freien Strand aus und bringen Sie Ihren eigenen Sonnenschirm mit, um der intensiven Mittagssonne zu entgehen.",
+            "hu": "Terítse le törölközőjét ezen a népszerű szabadstrandon, de mindenképpen hozzon magával saját napernyőt, hogy elkerülje az erős kora esti napsütést.",
+            "ro": "Întindeți prosopul pe această plajă publică populară și aduceți neapărat propria umbrelă pentru a vă proteja de soarele intens de după-amiază.",
+            "en": "Lay out your towel at this popular free public beach, remembering to bring your own umbrella to comfortably escape the intense afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Agropoli",
+            "hu": "Spiaggia di Agropoli",
+            "ro": "Spiaggia di Agropoli",
+            "en": "Spiaggia di Agropoli"
+          },
+          "coords": [
+            14.999343,
+            40.362664
+          ],
+          "category": "recreational",
+          "arrive_at": "18:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem weitläufigen Strand ausklingen und machen Sie einen Spaziergang im flachen Wasser, um die Füße nach dem Radfahren zu kühlen.",
+            "hu": "Zárja a napot ezen a tágas strandon, és tegyen egy kellemes sétát a sekély vízben, hogy lehűtse a fáradt lábait a hosszú kerékpározás után.",
+            "ro": "Încheiați ziua pe această plajă spațioasă și faceți o plimbare prin apa puțin adâncă pentru a vă răcori picioarele obosite după ciclism.",
+            "en": "End your day at this spacious sandy beach, taking a gentle walk in the shallow water to cool your tired feet after hours of cycling around town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf dem Fahrrad entdecken wir Agropoli in einem flotten Tempo und starten nahe dem Bahnhof. Der Vormittag ist geprägt von Kultur und den archäologischen Schätzen der charmanten Altstadt. Am Nachmittag radeln wir hinunter zur Küste und besuchen verschiedene lebhafte Strandabschnitte. Der Tag endet perfekt am Meer, wo sich der feine Sand und das kühle Wasser ideal zur Erholung anbieten.",
+        "hu": "Kerékpárral élénk tempóban fedezzük fel Agropolit, a vasútállomás közeléből indulva. A délelőtt a kultúra és az óváros régészeti kincseinek jegyében telik. Délután a tengerpart felé gurulunk, meglátogatva több nyüzsgő strandot és fürdőhelyet. A nap tökéletesen zárul a tengerparton, ahol a finom homok és a hűs víz ideális kikapcsolódást nyújt a kerékpározás után.",
+        "ro": "Cu bicicleta descoperim Agropoli într-un ritm alert, pornind din apropierea gării. Dimineața este dedicată culturii și comorilor arheologice din centrul vechi. După-amiaza pedalăm spre coastă și vizităm diferite porțiuni de plajă pline de viață. Ziua se încheie perfect la malul mării, unde nisipul fin și apa răcoroasă sunt ideale pentru relaxare după efort.",
+        "en": "We discover Agropoli at a lively pace on our bicycles, starting near the local train station. The morning is dedicated to culture and the archaeological treasures of the old town. In the afternoon, we cycle down to the coastline, visiting various lively beach areas. The day ends perfectly by the sea, where the fine sand and cool water offer ideal relaxation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Trentova",
+            "hu": "Spiaggia di Trentova",
+            "ro": "Spiaggia di Trentova",
+            "en": "Spiaggia di Trentova"
+          },
+          "coords": [
+            14.972037,
+            40.34345
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese malerische Bucht mit ihrem kristallklaren Wasser, kommen Sie aber früh am Morgen, um einen guten Parkplatz direkt am Strand zu ergattern.",
+            "hu": "Fedezze fel ezt a festői öblöt kristálytiszta vizével, de érkezzen kora reggel, hogy jó parkolóhelyet találjon közvetlenül a homokos part mellett.",
+            "ro": "Explorați acest golf pitoresc cu ape cristaline, dar ajungeți devreme dimineața pentru a găsi un loc de parcare bun chiar lângă plajă.",
+            "en": "Explore this picturesque bay known for its crystal-clear water, but be sure to arrive early in the morning to secure a good parking spot near the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Civico delle Arti",
+            "hu": "Palazzo Civico delle Arti",
+            "ro": "Palazzo Civico delle Arti",
+            "en": "Palazzo Civico delle Arti"
+          },
+          "coords": [
+            14.985469,
+            40.350676
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die archäologischen Schätze in diesem eleganten Palast und achten Sie besonders auf die antiken Amphoren im abgedunkelten Erdgeschoss.",
+            "hu": "Csodálja meg a régészeti kincseket ebben az elegáns palotában, és figyeljen a földszinten kiállított lenyűgöző antik amforákra és görög leletekre.",
+            "ro": "Admirați comorile arheologice în acest palat elegant, acordând o atenție deosebită amforelor antice expuse la parter, pline de istorie antică romană.",
+            "en": "Admire the archaeological treasures housed in this elegant palace, paying special attention to the beautifully preserved ancient amphorae on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese di Agropoli",
+            "hu": "Castello Aragonese di Agropoli",
+            "ro": "Castello Aragonese di Agropoli",
+            "en": "Castello Aragonese di Agropoli"
+          },
+          "coords": [
+            14.988286,
+            40.353386
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Festung für einen fantastischen Blick über das Meer und tragen Sie rutschfestes Schuhwerk für die steilen, kopfsteingepflasterten Wege.",
+            "hu": "Másszon fel az erődítménybe a fantasztikus tengeri kilátásért, és mindenképpen csúszásmentes cipőt viseljen a meredek, macskaköves sétányok miatt.",
+            "ro": "Urcați la cetate pentru o priveliște fantastică asupra mării și purtați neapărat încălțăminte antiderapantă pentru drumurile pietruite și abrupte.",
+            "en": "Climb up to the medieval fortress for a fantastic view over the sea, making sure to wear non-slip shoes for the steep, cobblestone pathways leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Agropoli",
+            "hu": "Faro di Agropoli",
+            "ro": "Faro di Agropoli",
+            "en": "Faro di Agropoli"
+          },
+          "coords": [
+            14.98697,
+            40.354945
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum historischen Leuchtturm am Rande der Klippe, ein perfekter Ort, um die Meeresbrise abseits der großen Touristenmassen zu genießen.",
+            "hu": "Sétáljon el a szikla szélén álló történelmi világítótoronyhoz, amely tökéletes helyszín a tengeri szellő élvezetére, távol a nagy turistatömegektől.",
+            "ro": "Plimbați-vă până la farul istoric de pe marginea stâncii, un loc perfect pentru a vă bucura de briza mării, departe de marile aglomerații turistice.",
+            "en": "Stroll to the historic lighthouse perched on the cliff's edge, a perfect spot to enjoy the refreshing sea breeze away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Tre Conchiglie",
+            "hu": "Lido Tre Conchiglie",
+            "ro": "Lido Tre Conchiglie",
+            "en": "Lido Tre Conchiglie"
+          },
+          "coords": [
+            14.998387,
+            40.358573
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in diesem gepflegten Strandclub und lassen Sie sich bei einem kühlen Getränk von den Wellen in den Abend begleiten.",
+            "hu": "Élvezze a nyugodt légkört ebben a gondozott strandklubban, és egy hideg ital kíséretében hallgassa a hullámok megnyugtató morajlását kora este.",
+            "ro": "Bucurați-vă de atmosfera relaxantă din acest club de plajă îngrijit și lăsați-vă acompaniați în seară de sunetul valurilor cu o băutură rece.",
+            "en": "Soak up the relaxed atmosphere at this well-maintained beach club, letting the sound of the gentle waves guide you into the evening with a cold drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir bequem die entlegensten und schönsten Orte von Agropoli. Der Tag beginnt an der atemberaubenden Trentova-Bucht, gefolgt von historischen Museen im Zentrum. Nachmittags erkunden wir das mächtige Schloss und den alten Leuchtturm, um fantastische Panoramen zu genießen. Ein stilvoller Strandclub rundet diesen abwechslungsreichen und komfortablen Ausflug schließlich ab.",
+        "hu": "Autóval kényelmesen összekötjük Agropoli legtávolabbi és legszebb pontjait. A nap a lélegzetelállító Trentova-öbölben indul, amelyet a központ történelmi múzeumai követnek. Délután felfedezzük a hatalmas várat és a régi világítótornyot a fantasztikus panorámáért. Egy stílusos strandklub teszi teljessé ezt a változatos és rendkívül kényelmes, élményekben gazdag kirándulást.",
+        "ro": "Cu mașina conectăm confortabil cele mai îndepărtate și frumoase locuri din Agropoli. Ziua începe la golful uluitor Trentova, urmat de muzee istorice în centru. După-amiaza explorăm castelul impunător și vechiul far pentru a ne bucura de panorame fantastice. Un club de plajă elegant completează în cele din urmă această excursie variată și extrem de confortabilă.",
+        "en": "By car, we comfortably connect the most remote and beautiful places Agropoli has to offer. The day begins at the breathtaking Trentova Bay, followed by historic center museums. In the afternoon, we explore the mighty castle and the old lighthouse to enjoy fantastic panoramas. A stylish beach club finally rounds off this highly varied and very comfortable road trip."
+      }
+    }
+  }
+}

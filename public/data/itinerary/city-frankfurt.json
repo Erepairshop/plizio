@@ -1,0 +1,497 @@
+{
+  "city_id": "city-frankfurt",
+  "anchor": {
+    "name": "Frankfurt am Main",
+    "coords": [
+      8.6821,
+      50.1109
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Römerberg",
+            "hu": "Römerberg tér",
+            "ro": "Piața Römerberg",
+            "en": "Römerberg Square"
+          },
+          "coords": [
+            8.682222,
+            50.110278
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
+            "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserdom St. Bartholomäus",
+            "hu": "Császári dóm",
+            "ro": "Catedrala Imperială",
+            "en": "Imperial Cathedral"
+          },
+          "coords": [
+            8.685,
+            50.110556
+          ],
+          "category": "church",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
+            "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
+            "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Schmiere",
+            "hu": "Die Schmiere színház",
+            "ro": "Teatrul Die Schmiere",
+            "en": "Die Schmiere Theater"
+          },
+          "coords": [
+            8.677385,
+            50.109177
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses legendäre satirische Kellertheater in einem ehemaligen Kloster und prüfen Sie das Abendprogramm für authentischen lokalen Humor.",
+            "hu": "Fedezze fel ezt a legendás szatirikus színházat egy kolostor pincéjében, és nézze meg az esti műsort, ha igazi helyi humort szeretne tapasztalni.",
+            "ro": "Descoperiți acest legendar teatru satiric subteran găzduit în subsolul unei mănăstiri și verificați programul de seară pentru a experimenta umorul local autentic.",
+            "en": "Discover this legendary underground satirical theater housed in a convent's basement, and check their evening program if you want to experience authentic local humor."
+          }
+        },
+        {
+          "name": {
+            "de": "Goethe-Haus",
+            "hu": "Goethe-ház",
+            "ro": "Casa Goethe",
+            "en": "Goethe House"
+          },
+          "coords": [
+            8.677667,
+            50.111194
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das detailgetreu rekonstruierte Geburtshaus von Deutschlands berühmtestem Schriftsteller und buchen Sie Tickets vorab online, um Schlangen zu vermeiden.",
+            "hu": "Fedezze fel Németország leghíresebb írójának gondosan rekonstruált szülőházát, és foglalja le jegyeit online, hogy elkerülje a hosszú sorban állást a bejáratnál.",
+            "ro": "Explorați casa natală meticulos reconstruită a celui mai faimos scriitor al Germaniei și rezervați-vă biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Explore the meticulously reconstructed birthplace of Germany's most famous writer and pre-book your tickets online to avoid long queues at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Main Tower",
+            "hu": "Main Tower",
+            "ro": "Main Tower",
+            "en": "Main Tower"
+          },
+          "coords": [
+            8.672222,
+            50.1125
+          ],
+          "category": "tower",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Skyline des Finanzviertels und bringen Sie eine Windjacke mit, da es oben sehr zugig sein kann.",
+            "hu": "Élvezze a pénzügyi negyed felhőkarcolóira nyíló lélegzetelállító panorámát a kilátóból, és hozzon magával széldzsekit, mert odafent nagyon szeles lehet.",
+            "ro": "Bucurați-vă de o panoramă uluitoare a zgârie-norilor din districtul financiar de pe puntea de observație și aduceți o jachetă, deoarece poate fi foarte vânt.",
+            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Oper",
+            "hu": "Régi Opera",
+            "ro": "Vechea Operă",
+            "en": "Old Opera House"
+          },
+          "coords": [
+            8.671944,
+            50.115833
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die prächtige Neorenaissance-Fassade dieses Konzerthauses und entspannen Sie auf einer Bank am Platz, um die elegante Atmosphäre aufzusaugen.",
+            "hu": "Tekintse meg ennek a lenyűgöző koncertteremnek a neoreneszánsz homlokzatát, és pihenjen meg a téri padokon, hogy magába szívja az elegáns atmoszférát.",
+            "ro": "Admirați fațada magnifică în stil neorenascentist a acestei săli de concerte și relaxați-vă pe o bancă în piața înconjurătoare pentru a absorbi atmosfera elegantă.",
+            "en": "Take in the magnificent Renaissance Revival facade of this premier concert hall, and relax on a bench in the surrounding square to soak up the elegant atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Römerberg und der beeindruckenden Kaiserdom. Mittags geht es weiter zur Kultur in der Schmiere, bevor Sie in die literarische Geschichte des Goethe-Hauses eintauchen. Verbringen Sie den Nachmittag mit dem Panoramablick vom Main Tower. Beenden Sie Ihre Tour entspannt an der eleganten Alten Oper, während die Abenddämmerung hereinbricht.",
+        "hu": "Kezdje a reggelt a történelmi Römerberg és a lenyűgöző császári dóm felfedezésével. Délben egy kis helyi kultúra vár a Die Schmiere színháznál, mielőtt elmerülne a Goethe-ház irodalmi történetében. A délutánt a Main Tower kilátóján töltheti a felhőkarcolók panorámájával. Sétáját az elegáns Régi Opera közelében megpihenve zárja az este közeledtével.",
+        "ro": "Începeți dimineața explorând istoricul Römerberg și superba Catedrală Imperială. La prânz vă îndreptați spre teatrul Die Schmiere, înainte de a descoperi istoria literară la Casa Goethe. Petreceți după-amiaza bucurându-vă de panoramele zgârie-norilor de la Main Tower. Încheiați turul pietonal relaxându-vă lângă eleganta Veche Operă, odată cu lăsarea serii.",
+        "en": "Start your morning exploring the historic Römerberg and the stunning Imperial Cathedral. Midday brings a shift towards culture at Die Schmiere before diving into the literary history of the Goethe House. Spend your afternoon enjoying panoramic skyline views from the Main Tower observation deck. Conclude your walking tour by relaxing near the elegant Old Opera House as evening falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römerberg",
+            "hu": "Römerberg tér",
+            "ro": "Piața Römerberg",
+            "en": "Römerberg Square"
+          },
+          "coords": [
+            8.682222,
+            50.110278
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
+            "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserdom St. Bartholomäus",
+            "hu": "Császári dóm",
+            "ro": "Catedrala Imperială",
+            "en": "Imperial Cathedral"
+          },
+          "coords": [
+            8.685,
+            50.110556
+          ],
+          "category": "church",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
+            "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
+            "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Angewandte Kunst",
+            "hu": "Iparművészeti Múzeum",
+            "ro": "Muzeul de Artă Aplicată",
+            "en": "Museum of Applied Arts"
+          },
+          "coords": [
+            8.680947,
+            50.106266
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch Richard Meiers strahlend weißes Architekturmeisterwerk für angewandte Kunst und nutzen Sie die kostenlosen Schließfächer für Ihre Taschen.",
+            "hu": "Sétáljon végig Richard Meier lenyűgöző hófehér építészeti remekművén, és használja az ingyenes értékmegőrzőket a nehezebb táskák tárolására.",
+            "ro": "Plimbați-vă prin capodopera arhitecturală albă a lui Richard Meier și utilizați dulapurile gratuite pentru a vă depozita gențile grele în timpul vizitei.",
+            "en": "Wander through Richard Meier’s stunning white architectural masterpiece filled with applied arts, and utilize the complimentary lockers to store your heavy bags."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Filmmuseum",
+            "hu": "Német Filmmúzeum",
+            "ro": "Muzeul German de Film",
+            "en": "German Film Museum"
+          },
+          "coords": [
+            8.677686,
+            50.105064
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte des Kinos durch interaktive Exponate ein und probieren Sie die historischen optischen Spielzeuge im ersten Stock aus.",
+            "hu": "Merüljön el a mozi lenyűgöző történetében az interaktív kiállításokon, és próbálja ki a történelmi optikai játékokat az első emeleten.",
+            "ro": "Cufundați-vă în istoria fascinantă a cinematografiei prin expoziții interactive și încercați să folosiți jucăriile optice istorice disponibile la primul etaj.",
+            "en": "Immerse yourself in the fascinating history of cinema through interactive exhibits, and try operating the historic optical toys available on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Städel Museum",
+            "hu": "Städel Múzeum",
+            "ro": "Muzeul Städel",
+            "en": "Städel Museum"
+          },
+          "coords": [
+            8.673858,
+            50.103295
+          ],
+          "category": "museum",
+          "arrive_at": "13:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie sieben Jahrhunderte europäischer Kunst in einem der wichtigsten Museen Deutschlands und beginnen Sie am besten in der unterirdischen Halle.",
+            "hu": "Töltsön időt az európai művészet hét évszázadának megcsodálásával Németország egyik legfontosabb múzeumában, és kezdje a látogatást a kortárs földalatti csarnokban.",
+            "ro": "Petreceți timp admirând șapte secole de artă europeană într-unul dintre cele mai importante muzee din Germania, începând mai întâi cu sala subterană contemporană.",
+            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebieghaus Skulpturensammlung",
+            "hu": "Liebieghaus Szoborgyűjtemény",
+            "ro": "Colecția de Sculptură Liebieghaus",
+            "en": "Liebieghaus Sculpture Collection"
+          },
+          "coords": [
+            8.671748,
+            50.101665
+          ],
+          "category": "museum",
+          "arrive_at": "15:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die exquisite Skulpturensammlung von der Antike bis zum Klassizismus und machen Sie eine friedliche Pause im märchenhaften Hofcafé.",
+            "hu": "Csodálja meg az ókori Egyiptomtól a neoklasszicizmusig terjedő lenyűgöző szoborgyűjteményt, és tartson békés pihenőt a múzeum mesébe illő udvari kávézójában.",
+            "ro": "Minunați-vă de colecția rafinată de sculpturi din Egiptul antic până la neoclasicism și luați o pauză liniștită în cafeneaua fermecătoare din curtea muzeului.",
+            "en": "Marvel at the exquisite collection of sculptures from ancient Egypt to Neoclassicism, and take a peaceful break in the museum's charming fairytale courtyard café."
+          }
+        },
+        {
+          "name": {
+            "de": "Main Tower",
+            "hu": "Main Tower",
+            "ro": "Main Tower",
+            "en": "Main Tower"
+          },
+          "coords": [
+            8.672222,
+            50.1125
+          ],
+          "category": "tower",
+          "arrive_at": "17:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Skyline des Finanzviertels und bringen Sie eine Windjacke mit, da es oben sehr zugig sein kann.",
+            "hu": "Élvezze a pénzügyi negyed felhőkarcolóira nyíló lélegzetelállító panorámát a kilátóból, és hozzon magával széldzsekit, mert odafent nagyon szeles lehet.",
+            "ro": "Bucurați-vă de o panoramă uluitoare a zgârie-norilor din districtul financiar de pe puntea de observație și aduceți o jachetă, deoarece poate fi foarte vânt.",
+            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom zeitlosen Römerberg und dem Dom ans Südufer des Flusses. Mittags fahren Sie entlang des Museumsufer und genießen Design im Museum Angewandte Kunst sowie Kinogeschichte. Der Nachmittag ist den Meisterwerken des Städel Museums und Liebieghaus gewidmet. Fahren Sie schließlich zurück über den Fluss, um den Sonnenuntergang vom Main Tower zu erleben.",
+        "hu": "Tekerjen a klasszikus Römerbergtől és a Dómtól a folyó déli partja felé. Délben a Museumsufer mentén haladva merüljön el a dizájnban a Museum Angewandte Kunst és a Filmmúzeum termeiben. A délutánt a Städel Múzeum és a Liebieghaus remekműveinek szenteljük. Végül térjen vissza a folyón át, hogy a Main Tower tetejéről nézze meg a naplementét.",
+        "ro": "Pedalați de la Römerberg și Catedrală spre malul sudic al râului. La prânz, mergeți pe Museumsufer, bucurându-vă de design la Muzeul de Artă Aplicată și de istoria filmului. După-amiaza este dedicată capodoperelor de la Muzeul Städel și Liebieghaus. La final, traversați râul pentru a prinde apusul de pe impresionantul Main Tower.",
+        "en": "Pedal your way from the timeless Römerberg and the Cathedral towards the south bank of the river. By midday, cycle along the Museumsufer, soaking in design at the Museum Angewandte Kunst and cinematic history. The afternoon is dedicated to the masterpieces of the Städel Museum and Liebieghaus. Finally, ride back across the river to catch the sunset from atop the Main Tower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaiserdom St. Bartholomäus",
+            "hu": "Császári dóm",
+            "ro": "Catedrala Imperială",
+            "en": "Imperial Cathedral"
+          },
+          "coords": [
+            8.685,
+            50.110556
+          ],
+          "category": "church",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
+            "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
+            "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerberg",
+            "hu": "Römerberg tér",
+            "ro": "Piața Römerberg",
+            "en": "Römerberg Square"
+          },
+          "coords": [
+            8.682222,
+            50.110278
+          ],
+          "category": "square",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
+            "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltkulturen Museum",
+            "hu": "Világkultúrák Múzeuma",
+            "ro": "Muzeul Culturilor Lumii",
+            "en": "Museum of World Cultures"
+          },
+          "coords": [
+            8.679362,
+            50.105739
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gewinnen Sie einzigartige Perspektiven auf globale Kulturen in diesen eleganten Villen und prüfen Sie den Plan, da die Ausstellungen regelmäßig wechseln.",
+            "hu": "Nyerjen egyedi perspektívákat a globális kultúrákról ezekben az elegáns történelmi villákban, és ellenőrizze az időszaki kiállításokat, mivel azok gyakran változnak.",
+            "ro": "Obțineți perspective unice asupra culturilor globale în aceste vile istorice elegante și verificați programul expozițiilor temporare, deoarece acestea se schimbă destul de des.",
+            "en": "Gain unique perspectives on global cultures in these elegant historic villas, and check their temporary exhibition schedule as their displays change quite frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Städel Museum",
+            "hu": "Städel Múzeum",
+            "ro": "Muzeul Städel",
+            "en": "Städel Museum"
+          },
+          "coords": [
+            8.673858,
+            50.103295
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie sieben Jahrhunderte europäischer Kunst in einem der wichtigsten Museen Deutschlands und beginnen Sie am besten in der unterirdischen Halle.",
+            "hu": "Töltsön időt az európai művészet hét évszázadának megcsodálásával Németország egyik legfontosabb múzeumában, és kezdje a látogatást a kortárs földalatti csarnokban.",
+            "ro": "Petreceți timp admirând șapte secole de artă europeană într-unul dintre cele mai importante muzee din Germania, începând mai întâi cu sala subterană contemporană.",
+            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first."
+          }
+        },
+        {
+          "name": {
+            "de": "Stalburg Theater",
+            "hu": "Stalburg Színház",
+            "ro": "Teatrul Stalburg",
+            "en": "Stalburg Theater"
+          },
+          "coords": [
+            8.683722,
+            50.1266
+          ],
+          "category": "cultural",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kunstszene in dieser ehemaligen Apfelweinwirtschaft, für die eine frühzeitige Ticketbuchung wegen begrenzter Plätze empfohlen wird.",
+            "hu": "Tapasztalja meg a nyüzsgő helyi művészeti szférát ebben az egykori almaborozóból lett színházban, ahol a korlátozott helyek miatt erősen ajánlott az előzetes jegyfoglalás.",
+            "ro": "Experimentați scena artistică locală plină de viață în această fostă tavernă transformată în teatru, unde rezervarea biletelor în avans este foarte recomandată.",
+            "en": "Experience the lively local arts scene in this former cider house turned theater, where booking tickets well in advance is highly recommended due to limited seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Künstlerhaus Mousonturm",
+            "hu": "Mousonturm Művészeti Központ",
+            "ro": "Centrul de Artă Mousonturm",
+            "en": "Mousonturm Arts Center"
+          },
+          "coords": [
+            8.698835,
+            50.119214
+          ],
+          "category": "cultural",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre kulturelle Tour in diesem Zentrum für zeitgenössische Kunst ab und trinken Sie einen Drink in der Bar, wo sich lokale Kreative treffen.",
+            "hu": "Zárja kulturális felfedezését a kortárs előadóművészetek e dinamikus központjában, és igyon egy italt a csatolt bárban, ahol a helyi kreatívok gyülekeznek.",
+            "ro": "Încheiați explorarea culturală la acest centru dinamic pentru artele spectacolului contemporan și savurați o băutură la barul alăturat, preferat de creativii locali.",
+            "en": "Conclude your cultural exploration at this dynamic center for contemporary performing arts, and grab a drink at the attached bar where local creatives gather."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am historischen Kaiserdom und dem lebhaften Römerberg. Fahren Sie mittags nach Süden, um globale Artefakte im Weltkulturen Museum und europäische Kunst im renommierten Städel Museum zu entdecken. Am späten Nachmittag fahren Sie in den Norden zum Stalburg Theater. Lassen Sie den Tag im Mousonturm, dem Zentrum für zeitgenössische Kunst, ausklingen.",
+        "hu": "Kezdje az utat a történelmi császári dómnál és a nyüzsgő Römerberg téren. Délben vezessen délre, hogy felfedezze a globális kultúrákat a Weltkulturen Múzeumban, majd az európai művészetet a Städelben. A késő délutánt észak felé véve a Stalburg Színháznál töltheti. Zárja a napot a Mousonturmnál, Frankfurt kortárs művészeti központjában.",
+        "ro": "Începeți traseul auto la Catedrala Imperială și piața animată Römerberg. La prânz, conduceți spre sud pentru a descoperi artefacte globale la Muzeul Weltkulturen, urmate de arta europeană de la Städel. Petreceți după-amiaza târziu îndreptându-vă spre nord pentru o reprezentație la Teatrul Stalburg. Încheiați ziua la Mousonturm, centrul de artă contemporană.",
+        "en": "Begin your drive at the historic Imperial Cathedral and the vibrant Römerberg square. Drive south at midday to uncover global artifacts at the Weltkulturen Museum, followed by European art at the prestigious Städel Museum. Spend your late afternoon moving towards the north to catch a performance at Stalburg Theater. Wrap up your day at the Mousonturm, Frankfurt's hub for contemporary arts."
+      }
+    }
+  }
+}

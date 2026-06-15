@@ -1,0 +1,474 @@
+{
+  "city_id": "oaxaca-city-cities-v2",
+  "anchor": {
+    "name": "Oaxaca de Juárez",
+    "coords": [
+      -96.7266,
+      17.0732
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Infantil de Oaxaca",
+            "hu": "Museo Infantil de Oaxaca",
+            "ro": "Museo Infantil de Oaxaca",
+            "en": "Museo Infantil de Oaxaca"
+          },
+          "coords": [
+            -96.736175,
+            17.066214
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die interaktiven Ausstellungen zur regionalen Kultur in diesem lebendigen Kindermuseum, ideal für Familien, und planen Sie genügend Zeit für die Außenanlagen ein.",
+            "hu": "Fedezze fel a regionális kultúráról szóló interaktív kiállításokat ebben az élettel teli, családok számára ideális gyermekmúzeumban, és hagyjon elég időt a szabadtéri terekre.",
+            "ro": "Explorați expozițiile interactive despre cultura regională în acest muzeu viu pentru copii, ideal pentru familii, și alocați suficient timp pentru spațiile în aer liber.",
+            "en": "Explore the interactive exhibits on regional culture in this lively children's museum, ideal for families, and be sure to allocate enough time for the outdoor spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Ferrocarril de Oaxaca",
+            "hu": "Museo de Ferrocarril de Oaxaca",
+            "ro": "Museo de Ferrocarril de Oaxaca",
+            "en": "Museo de Ferrocarril de Oaxaca"
+          },
+          "coords": [
+            -96.736774,
+            17.067926
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die restaurierten Waggons und die Geschichte der Eisenbahn in Oaxaca in diesem alten Bahnhofsgebäude, wobei sich bequeme Schuhe für das Kopfsteinpflaster empfehlen.",
+            "hu": "Csodálja meg a felújított kocsikat és Oaxaca vasúti történetét ebben a régi állomásépületben, bár a macskaköves részek miatt kényelmes cipő ajánlott.",
+            "ro": "Admirați vagoanele restaurate și istoria feroviară a Oaxacăi în această veche clădire a gării, fiind recomandată încălțămintea confortabilă pentru piatra cubică.",
+            "en": "Admire the restored carriages and Oaxaca's railway history in this old station building, making sure to wear comfortable shoes for the cobbled areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetario Nundehui",
+            "hu": "Planetario Nundehui",
+            "ro": "Planetario Nundehui",
+            "en": "Planetario Nundehui"
+          },
+          "coords": [
+            -96.733044,
+            17.070185
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Kosmos ein, während Sie die Sternenprojektionen unter der großen Kuppel betrachten, wofür es ratsam ist, die Vorführungszeiten vorab zu prüfen.",
+            "hu": "Merüljön el a kozmosz lenyűgöző világában, miközben a nagy kupola alatt figyeli a csillagvetítéseket, ezért érdemes előre ellenőrizni az előadások időpontjait.",
+            "ro": "Scufundați-vă în lumea fascinantă a cosmosului în timp ce urmăriți proiecțiile stelare sub marea cupolă, fiind recomandat să verificați în prealabil orele de spectacol.",
+            "en": "Immerse yourself in the fascinating world of the cosmos while watching the star projections under the large dome, though it is advisable to check the show times in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "hu": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "ro": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "en": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\""
+          },
+          "coords": [
+            -96.732749,
+            17.072555
+          ],
+          "category": "museum",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nachthimmel von Oaxaca und lernen Sie von lokalen Astronomen mehr über das Universum; bringen Sie eine leichte Jacke mit, da es nach Sonnenuntergang kühler wird.",
+            "hu": "Tapasztalja meg Oaxaca éjszakai égboltját, és tanuljon a helyi csillagászoktól az univerzumról; hozzon magával egy könnyű kabátot, mert naplemente után lehűl a levegő.",
+            "ro": "Experimentați cerul nopții din Oaxaca și aflați mai multe despre univers de la astronomii locali; aduceți o jachetă ușoară, deoarece se răcește după apus.",
+            "en": "Experience Oaxaca's night sky and learn about the universe from local astronomers, remembering to bring a light jacket as it gets cooler after sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Frontispicio Facultad de Medicina",
+            "hu": "Frontispicio Facultad de Medicina",
+            "ro": "Frontispicio Facultad de Medicina",
+            "en": "Frontispicio Facultad de Medicina"
+          },
+          "coords": [
+            -96.718813,
+            17.082974
+          ],
+          "category": "museum",
+          "arrive_at": "16:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieser historischen medizinischen Fakultät, die klassische Architektur mit Bildungsgeschichte vereint, und fotografieren Sie sie am besten im warmen Nachmittagslicht.",
+            "hu": "Tekintse meg ennek a történelmi orvosi karnak a lenyűgöző homlokzatát, amely a klasszikus építészetet az oktatás történelmével ötvözi, és a legjobb fényképeket a meleg délutáni fényben készítheti.",
+            "ro": "Priviți fațada impresionantă a acestei facultăți istorice de medicină, care combină arhitectura clasică cu istoria educației, cel mai bine de fotografiat în lumina caldă a după-amiezii.",
+            "en": "View the impressive facade of this historic medical faculty, combining classical architecture with educational history, making it best to photograph in the warm afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein faszinierender Rundgang durch die südlichen Museums- und Kulturviertel von Oaxaca beginnt in der Nähe des alten Bahnhofs. Der Vormittag steht ganz im Zeichen der Geschichte und interaktiven Ausstellungen, die das kulturelle Erbe greifbar machen. Am Nachmittag widmen wir uns den Sternen und der Astronomie in zwei spannenden Einrichtungen. Der Tag endet an der historischen Architektur der medizinischen Fakultät, wo Sie die reiche Bildungsgeschichte der Stadt in der abendlichen Ruhe genießen können.",
+        "hu": "Egy lenyűgöző séta Oaxaca déli múzeumi és kulturális negyedében, amely a régi vasútállomás közelében kezdődik. A délelőtt a történelemé és az interaktív kiállításoké, amelyek kézzelfoghatóvá teszik a kulturális örökséget. Délután a csillagok és a csillagászat felé fordulunk két izgalmas intézményben. A nap a helyi orvosi kar történelmi építészeténél ér véget, ahol az esti nyugalomban élvezheti a város gazdag oktatási történetét.",
+        "ro": "O plimbare fascinantă prin districtele culturale și muzeale din sudul Oaxacăi începe lângă vechea gară. Dimineața este dedicată istoriei și expozițiilor interactive care fac patrimoniul cultural tangibil. După-amiaza ne îndreptăm atenția spre stele și astronomie în două instituții captivante. Ziua se încheie la arhitectura istorică a facultății de medicină, unde vă puteți bucura de bogata istorie educațională a orașului în liniștea serii.",
+        "en": "A fascinating walking tour through Oaxaca's southern museum and cultural districts begins near the old railway station. The morning is dedicated to history and interactive exhibits that make the cultural heritage tangible. In the afternoon, we turn to the stars and astronomy in two exciting institutions. The day ends at the historical architecture of the medical faculty, where you can enjoy the city's rich educational history in the evening calm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Dr. Samuel Hahnemann",
+            "hu": "Monumento Dr. Samuel Hahnemann",
+            "ro": "Monumento Dr. Samuel Hahnemann",
+            "en": "Monumento Dr. Samuel Hahnemann"
+          },
+          "coords": [
+            -96.71764,
+            17.081559
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Denkmal, das dem Begründer der Homöopathie gewidmet ist, ein ruhiger Ort zum Innehalten, an dem Sie eine kleine Pause vom Trubel der Stadt einlegen können.",
+            "hu": "Fedezze fel ezt az emlékművet, amelyet a homeopátia alapítójának szenteltek, amely egy csendes hely a pihenésre, ahol egy rövid szünetet tarthat a város forgatagától.",
+            "ro": "Descoperiți acest monument dedicat fondatorului homeopatiei, un loc liniștit de popas unde puteți lua o scurtă pauză de la agitația orașului.",
+            "en": "Discover this monument dedicated to the founder of homeopathy, offering a quiet place to pause where you can take a short break from the bustle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Frontispicio Facultad de Medicina",
+            "hu": "Frontispicio Facultad de Medicina",
+            "ro": "Frontispicio Facultad de Medicina",
+            "en": "Frontispicio Facultad de Medicina"
+          },
+          "coords": [
+            -96.718813,
+            17.082974
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieser historischen medizinischen Fakultät, die klassische Architektur mit Bildungsgeschichte vereint, und fotografieren Sie sie am besten im warmen Nachmittagslicht.",
+            "hu": "Tekintse meg ennek a történelmi orvosi karnak a lenyűgöző homlokzatát, amely a klasszikus építészetet az oktatás történelmével ötvözi, és a legjobb fényképeket a meleg délutáni fényben készítheti.",
+            "ro": "Priviți fațada impresionantă a acestei facultăți istorice de medicină, care combină arhitectura clasică cu istoria educației, cel mai bine de fotografiat în lumina caldă a după-amiezii.",
+            "en": "View the impressive facade of this historic medical faculty, combining classical architecture with educational history, making it best to photograph in the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ambar Studio",
+            "hu": "Ambar Studio",
+            "ro": "Ambar Studio",
+            "en": "Ambar Studio"
+          },
+          "coords": [
+            -96.715528,
+            17.080719
+          ],
+          "category": "cultural",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie zeitgenössische Kunst und Schmuckdesign in diesem intimen Studio, wo Sie einzigartige handgefertigte Stücke direkt von den Künstlern als Souvenir erwerben können.",
+            "hu": "Tapasztalja meg a kortárs művészetet és ékszertervezést ebben az intim stúdióban, ahol egyedi, kézzel készített darabokat vásárolhat szuvenírként közvetlenül a művészektől.",
+            "ro": "Experimentați arta contemporană și designul de bijuterii în acest studio intim, de unde puteți cumpăra piese unicat lucrate manual ca suveniruri direct de la artiști.",
+            "en": "Experience contemporary art and jewelry design in this intimate studio, where you can purchase unique handmade pieces directly from the artists as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Mambos Style Producciones",
+            "hu": "Mambos Style Producciones",
+            "ro": "Mambos Style Producciones",
+            "en": "Mambos Style Producciones"
+          },
+          "coords": [
+            -96.709165,
+            17.081038
+          ],
+          "category": "cultural",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den kreativen Tänzen und Rhythmen in diesem lebhaften Produktionsstudio mitreißen, und fragen Sie unbedingt nach den Zeiten für offene Proben oder Workshops.",
+            "hu": "Hagyja magát magával ragadni a kreatív táncok és ritmusok által ebben az élénk produkciós stúdióban, és mindenképpen érdeklődjön a nyílt próbák vagy workshopok időpontjairól.",
+            "ro": "Lăsați-vă purtați de dansurile și ritmurile creative din acest studio de producție animat și asigurați-vă că întrebați despre orele pentru repetiții deschise sau ateliere.",
+            "en": "Let yourself be carried away by the creative dances and rhythms in this lively production studio, making sure to ask about times for open rehearsals or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller y Galeria De Arte r g",
+            "hu": "Taller y Galeria De Arte r g",
+            "ro": "Taller y Galeria De Arte r g",
+            "en": "Taller y Galeria De Arte r g"
+          },
+          "coords": [
+            -96.70976,
+            17.090948
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältigen Werke lokaler Talente in dieser charmanten Galerie, und nehmen Sie sich Zeit für ein Gespräch mit den oft anwesenden Kuratoren.",
+            "hu": "Élvezze a helyi tehetségek változatos alkotásait ebben a bájos galériában, és szánjon időt a gyakran jelen lévő kurátorokkal való beszélgetésre.",
+            "ro": "Bucurați-vă de diversele lucrări ale talentelor locale în această galerie fermecătoare și faceți-vă timp pentru o conversație cu curatorii deseori prezenți.",
+            "en": "Enjoy the diverse works of local talents in this charming gallery, and take the time for a conversation with the often-present curators."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller De Artes Plasticas Rufino Tamayo",
+            "hu": "Taller De Artes Plasticas Rufino Tamayo",
+            "ro": "Taller De Artes Plasticas Rufino Tamayo",
+            "en": "Taller De Artes Plasticas Rufino Tamayo"
+          },
+          "coords": [
+            -96.715102,
+            17.095212
+          ],
+          "category": "cultural",
+          "arrive_at": "15:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese renommierte Werkstatt, die Tamayos Erbe ehrt, um den Studenten bei der Arbeit mit Druckgrafiken zuzusehen und Inspiration für eigene kreative Projekte zu sammeln.",
+            "hu": "Látogasson el ebbe a neves műhelybe, amely Tamayo örökségét tiszteli, hogy megnézze a diákokat grafikai munkák közben, és inspirációt gyűjtsön saját kreatív projektjeihez.",
+            "ro": "Vizitați acest renumit atelier care onorează moștenirea lui Tamayo pentru a urmări studenții lucrând la grafică tipărită și pentru a aduna inspirație pentru propriile proiecte creative.",
+            "en": "Visit this renowned workshop that honors Tamayo's legacy to watch students working on printmaking and gather inspiration for your own creative projects."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die zentralen Denkmäler und dynamischen Kunststudios von Oaxaca auf einer malerischen Route. Morgens erkunden Sie die historische Architektur und die medizinische Geschichte rund um das Zentrum. Mittags tauchen Sie in die lokale Kunstszene ein und besuchen verschiedene kreative Ateliers, die das künstlerische Herz der Stadt bilden. Der späte Nachmittag bietet weitere faszinierende Kunstgalerien, bevor der Tag in entspannter Atmosphäre ausklingt.",
+        "hu": "Ez a kerékpártúra festői útvonalon köti össze Oaxaca központi műemlékeit és dinamikus művészeti stúdióit. Délelőtt felfedezheti a központ körüli történelmi építészetet és az orvostudomány történetét. Délben elmerülhet a helyi művészeti szcénában, meglátogatva a város művészeti szívét alkotó kreatív műhelyeket. A késő délután további lenyűgöző művészeti galériákat tartogat, mielőtt a nap nyugodt légkörben véget ér.",
+        "ro": "Acest tur cu bicicleta conectează monumentele centrale și studiourile dinamice de artă din Oaxaca pe un traseu pitoresc. Dimineața explorați arhitectura istorică și istoria medicală din jurul centrului. La prânz, vă scufundați în scena de artă locală, vizitând diverse ateliere creative care formează inima artistică a orașului. După-amiaza târziu oferă alte galerii de artă fascinante înainte ca ziua să se încheie într-o atmosferă relaxantă.",
+        "en": "This bike tour connects Oaxaca's central monuments and dynamic art studios on a scenic route. In the morning, explore the historic architecture and medical history around the center. At noon, immerse yourself in the local art scene, visiting various creative workshops that form the artistic heart of the city. The late afternoon offers more fascinating art galleries before the day ends in a relaxed atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Juárez",
+            "hu": "Monumento a Juárez",
+            "ro": "Monumento a Juárez",
+            "en": "Monumento a Juárez"
+          },
+          "coords": [
+            -96.764301,
+            17.122436
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses kolossale Denkmal, das den berühmtesten Sohn Oaxacas ehrt, und genießen Sie den atemberaubenden Panoramablick über das gesamte Tal von dieser erhöhten Position.",
+            "hu": "Csodálja meg ezt a hatalmas emlékművet, amely Oaxaca leghíresebb szülöttje előtt tiszteleg, és élvezze a lélegzetelállító panorámát az egész völgyre ebből a megemelt pozícióból.",
+            "ro": "Admirați acest monument colosal care îl onorează pe cel mai faimos fiu al Oaxacăi și bucurați-vă de vederea panoramică uluitoare asupra întregii văi din această poziție înaltă.",
+            "en": "Admire this colossal monument honoring Oaxaca's most famous son, and enjoy the breathtaking panoramic view of the entire valley from this elevated position."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller De Artes Plasticas",
+            "hu": "Taller De Artes Plasticas",
+            "ro": "Taller De Artes Plasticas",
+            "en": "Taller De Artes Plasticas"
+          },
+          "coords": [
+            -96.713627,
+            17.099459
+          ],
+          "category": "cultural",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tief verwurzelte Kunsthandwerkstradition ein, während Sie diese produktive Werkstatt erkunden, und achten Sie besonders auf die feinen Details der Keramikarbeiten.",
+            "hu": "Merüljön el a mélyen gyökerező kézműves hagyományokban, miközben felfedezi ezt a termékeny műhelyt, és fordítson különös figyelmet a kerámiamunkák finom részleteire.",
+            "ro": "Scufundați-vă în tradiția meșteșugărească adânc înrădăcinată în timp ce explorați acest atelier productiv și acordați o atenție deosebită detaliilor fine ale lucrărilor din ceramică.",
+            "en": "Immerse yourself in the deeply rooted artisan tradition while exploring this productive workshop, paying special attention to the fine details of the ceramic works."
+          }
+        },
+        {
+          "name": {
+            "de": "Neza-cubi",
+            "hu": "Neza-cubi",
+            "ro": "Neza-cubi",
+            "en": "Neza-cubi"
+          },
+          "coords": [
+            -96.709195,
+            17.089083
+          ],
+          "category": "cultural",
+          "arrive_at": "11:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie innovative Ausstellungen und avantgardistische Kunst in diesem modernen Kulturraum, wo es sich lohnt, nach Flyern für kommende abendliche Veranstaltungen Ausschau zu halten.",
+            "hu": "Fedezze fel az innovatív kiállításokat és az avantgárd művészetet ebben a modern kulturális térben, ahol érdemes szórólapokat keresni a közelgő esti rendezvényekről.",
+            "ro": "Descoperiți expoziții inovatoare și artă avangardistă în acest spațiu cultural modern, unde merită să căutați pliante pentru viitoarele evenimente de seară.",
+            "en": "Discover innovative exhibitions and avant-garde art in this modern cultural space, where it is worth keeping an eye out for flyers regarding upcoming evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "PARICUTIN",
+            "hu": "PARICUTIN",
+            "ro": "PARICUTIN",
+            "en": "PARICUTIN"
+          },
+          "coords": [
+            -96.709057,
+            17.088118
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den eindringlichen Kunstinstallationen in diesem unabhängigen Raum inspirieren, eine hervorragende Gelegenheit, abseits der Touristenpfade mit der lokalen Subkultur in Kontakt zu kommen.",
+            "hu": "Merítsen ihletet a független tér lenyűgöző művészeti installációiból, ami kiváló lehetőség arra, hogy a kitaposott ösvényről letérve kapcsolatba kerüljön a helyi szubkultúrával.",
+            "ro": "Lăsați-vă inspirați de instalațiile de artă captivante din acest spațiu independent, o oportunitate excelentă de a intra în contact cu subcultura locală departe de traseele turistice.",
+            "en": "Get inspired by the immersive art installations in this independent space, an excellent opportunity to connect with the local subculture off the beaten tourist track."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Dr. Samuel Hahnemann",
+            "hu": "Monumento Dr. Samuel Hahnemann",
+            "ro": "Monumento Dr. Samuel Hahnemann",
+            "en": "Monumento Dr. Samuel Hahnemann"
+          },
+          "coords": [
+            -96.71764,
+            17.081559
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Denkmal, das dem Begründer der Homöopathie gewidmet ist, ein ruhiger Ort zum Innehalten, an dem Sie eine kleine Pause vom Trubel der Stadt einlegen können.",
+            "hu": "Fedezze fel ezt az emlékművet, amelyet a homeopátia alapítójának szenteltek, amely egy csendes hely a pihenésre, ahol egy rövid szünetet tarthat a város forgatagától.",
+            "ro": "Descoperiți acest monument dedicat fondatorului homeopatiei, un loc liniștit de popas unde puteți lua o scurtă pauză de la agitația orașului.",
+            "en": "Discover this monument dedicated to the founder of homeopathy, offering a quiet place to pause where you can take a short break from the bustle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetario Nundehui",
+            "hu": "Planetario Nundehui",
+            "ro": "Planetario Nundehui",
+            "en": "Planetario Nundehui"
+          },
+          "coords": [
+            -96.733044,
+            17.070185
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Kosmos ein, während Sie die Sternenprojektionen unter der großen Kuppel betrachten, wofür es ratsam ist, die Vorführungszeiten vorab zu prüfen.",
+            "hu": "Merüljön el a kozmosz lenyűgöző világában, miközben a nagy kupola alatt figyeli a csillagvetítéseket, ezért érdemes előre ellenőrizni az előadások időpontjait.",
+            "ro": "Scufundați-vă în lumea fascinantă a cosmosului în timp ce urmăriți proiecțiile stelare sub marea cupolă, fiind recomandat să verificați în prealabil orele de spectacol.",
+            "en": "Immerse yourself in the fascinating world of the cosmos while watching the star projections under the large dome, though it is advisable to check the show times in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "hu": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "ro": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\"",
+            "en": "Observatorio Astronómico Municipal \"Canuto Muñoz Mares\""
+          },
+          "coords": [
+            -96.732749,
+            17.072555
+          ],
+          "category": "museum",
+          "arrive_at": "16:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nachthimmel von Oaxaca und lernen Sie von lokalen Astronomen mehr über das Universum; bringen Sie eine leichte Jacke mit, da es nach Sonnenuntergang kühler wird.",
+            "hu": "Tapasztalja meg Oaxaca éjszakai égboltját, és tanuljon a helyi csillagászoktól az univerzumról; hozzon magával egy könnyű kabátot, mert naplemente után lehűl a levegő.",
+            "ro": "Experimentați cerul nopții din Oaxaca și aflați mai multe despre univers de la astronomii locali; aduceți o jachetă ușoară, deoarece se răcește după apus.",
+            "en": "Experience Oaxaca's night sky and learn about the universe from local astronomers, remembering to bring a light jacket as it gets cooler after sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie die weitläufigeren Highlights von Oaxaca, beginnend mit dem monumentalen Denkmal für Juárez im Norden. Die Fahrt am späten Vormittag bringt Sie zu wichtigen Kunst- und Kulturzentren im Herzen der Stadt. Am Nachmittag entdecken Sie faszinierende geschichtliche Meilensteine und genießen den nahtlosen Übergang zwischen den Epochen. Abends rundet ein faszinierender Ausflug zu den Sternwarten der Stadt diesen abwechslungsreichen und komfortablen Tagesausflug perfekt ab.",
+        "hu": "Autóval Oaxaca kiterjedtebb látnivalóit is megtapasztalhatja, kezdve az északi hatalmas Juárez-emlékművel. A késő délelőtti utazás a város szívében található fontos művészeti és kulturális központokba viszi. Délután lenyűgöző történelmi mérföldköveket fedezhet fel, és élvezheti a korszakok közötti zökkenőmentes átmenetet. Este egy lenyűgöző kirándulás a város csillagvizsgálóiba tökéletesen lezárja ezt a változatos és kényelmes napot.",
+        "ro": "Cu mașina experimentați atracțiile mai extinse din Oaxaca, începând cu monumentul masiv pentru Juárez din nord. Călătoria de dimineața târziu vă duce la importante centre de artă și cultură din inima orașului. După-amiaza, descoperiți repere istorice fascinante și vă bucurați de tranziția lină între epoci. Seara, o excursie fascinantă la observatoarele orașului completează perfect această zi plină de varietate și confort.",
+        "en": "By car, experience the wider highlights of Oaxaca, starting with the massive monument to Juárez in the north. The late morning drive takes you to important art and cultural centers in the heart of the city. In the afternoon, discover fascinating historical milestones and enjoy the seamless transition between eras. In the evening, a fascinating trip to the city's observatories perfectly rounds off this varied and comfortable day trip."
+      }
+    }
+  }
+}

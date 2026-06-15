@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-rosolina-mare-cities-v2",
+  "anchor": {
+    "name": "Rosolina Mare",
+    "coords": [
+      12.32121,
+      45.136
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Club Rosapineta Lido",
+            "hu": "Club Rosapineta Strand",
+            "ro": "Club Rosapineta Lido",
+            "en": "Club Rosapineta Lido"
+          },
+          "coords": [
+            12.325856,
+            45.133874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem ruhigen Strandbad mit herrlichem Meerblick; bringen Sie Ihr eigenes Handtuch mit, um sich früh einen guten Platz zu sichern.",
+            "hu": "Kezdje a reggelt ezen a csendes strandon, ahonnan csodás kilátás nyílik a tengerre; hozzon saját törölközőt, hogy korán elfoglalja a legjobb helyet.",
+            "ro": "Începeți dimineața la acest ștrand liniștit cu vedere splendidă la mare; aduceți-vă propriul prosop pentru a vă asigura un loc bun de la prima oră.",
+            "en": "Start your morning at this tranquil lido for splendid sea views; bring your own towel to secure a prime spot early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Serenella",
+            "hu": "Bagno Serenella",
+            "ro": "Bagno Serenella",
+            "en": "Bagno Serenella"
+          },
+          "coords": [
+            12.325804,
+            45.132625
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strandabschnitt; mieten Sie sich hier einen Sonnenschirm, um der starken Mittagssonne zu entgehen.",
+            "hu": "Pihenjen ezen a családbarát partszakaszon; béreljen egy napernyőt, hogy elkerülje az erős déli napsütést a vízparton.",
+            "ro": "Relaxați-vă pe această plajă potrivită pentru familii; închiriați o umbrelă pentru a vă proteja de soarele puternic al amiezii.",
+            "en": "Relax at this family-friendly stretch of sand; rent an umbrella here to escape the strong midday sun while enjoying the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Tizè Beach",
+            "hu": "Tizè Strand",
+            "ro": "Plaja Tizè",
+            "en": "Tizè Beach"
+          },
+          "coords": [
+            12.325826,
+            45.131381
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die sportlichen Aktivitäten an diesem Strandabschnitt; packen Sie einen Volleyball ein, um das lokale Netz am Strand zu nutzen.",
+            "hu": "Élvezze a sportolási lehetőségeket ezen a strandon; hozzon magával egy röplabdát, hogy kihasználja a homokos pályát.",
+            "ro": "Bucurați-vă de activitățile sportive de pe această plajă; aduceți o minge de volei pentru a juca pe plasa amenajată pe nisip.",
+            "en": "Enjoy the lively sports atmosphere at this energetic beach; pack a volleyball to take advantage of the nets set up on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Perla",
+            "hu": "Bagno Perla",
+            "ro": "Bagno Perla",
+            "en": "Bagno Perla"
+          },
+          "coords": [
+            12.325889,
+            45.129056
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieser stilvolle Strandclub bietet exzellente Erfrischungen; probieren Sie ein kühles Getränk an der Bar, während Sie auf das Meer blicken.",
+            "hu": "Ez az elegáns strandklub kiváló frissítőket kínál; kóstoljon meg egy hűsítő italt a bárban, miközben a tengerre néz.",
+            "ro": "Acest club de plajă elegant oferă răcoritoare excelente; încercați o băutură rece la bar în timp ce admirați marea.",
+            "en": "This stylish beach club offers excellent refreshments; grab a cool drink at the seaside bar while taking in the beautiful ocean scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park Piazzale Europa",
+            "hu": "Luna Park Piazzale Europa",
+            "ro": "Luna Park Piazzale Europa",
+            "en": "Luna Park Piazzale Europa"
+          },
+          "coords": [
+            12.323358,
+            45.131657
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser Vergnügungspark ist ideal für einen unterhaltsamen Nachmittag; bringen Sie etwas Kleingeld für die verschiedenen bunten Fahrgeschäfte mit.",
+            "hu": "Ez a vidámpark ideális egy szórakoztató délutánhoz; hozzon magával némi aprópénzt a különböző színes körhintákhoz és játékokhoz.",
+            "ro": "Acest parc de distracții este ideal pentru o după-amiază plină de bucurie; aduceți mărunt pentru a vă bucura de diversele atracții colorate.",
+            "en": "This amusement park is ideal for a fun-filled afternoon; be sure to bring some small change for the various colorful rides and games."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am nördlichen Ende des Ortes und genießen Sie die frische Meeresbrise im Club Rosapineta Lido. \n\nSchlendern Sie mittags am goldenen Sand entlang zum Bagno Serenella und zum Tizè Beach, wo Sie sich im warmen Wasser abkühlen können. \n\nAm Nachmittag erwartet Sie im Bagno Perla eine lebhafte Atmosphäre mit ausgezeichneten Strandbars und wunderschöner Aussicht. \n\nBeenden Sie Ihren Tag mit viel Spaß und Spielen im Luna Park Piazzale Europa, wo Sie abends wunderbar flanieren können.",
+        "hu": "Kezdje a napot az üdülőhely északi végén, élvezve a friss tengeri szellőt a Club Rosapineta strandon. \n\nSétáljon délben az aranyhomokos parton a Bagno Serenella és a Tizè Strand felé, ahol megmártózhat a meleg vízben. \n\nDélután a Bagno Perla nyújt élénk hangulatot, kiváló strandbárral és gyönyörű kilátással a partvidékre. \n\nZárja a napot vidáman a Luna Park Piazzale Europa játékai között, ahol az esti fények varázslatosak.",
+        "ro": "Începeți ziua la capătul nordic al stațiunii, simțind briza proaspătă a mării la Club Rosapineta Lido. \n\nLa amiază, plimbați-vă pe nisipul auriu până la Bagno Serenella și Plaja Tizè, unde vă puteți răcori în apa caldă. \n\nDupă-amiaza, Bagno Perla vă așteaptă cu o atmosferă animată, dotări excelente și o priveliște superbă asupra coastei. \n\nÎncheiați ziua cu distracție și jocuri la Luna Park Piazzale Europa, o locație vibrantă perfectă pentru seară.",
+        "en": "Start your day at the northern end of the resort, feeling the fresh Adriatic breeze at Club Rosapineta Lido, perfect for a quiet morning. \n\nStroll south along the golden sands to Bagno Serenella and Tizè Beach, where you can soak up the warm Italian sun and take a refreshing dip. \n\nContinue to Bagno Perla for a lively afternoon atmosphere, offering excellent beachside amenities and beautiful views. \n\nConclude your day with fun and games at Luna Park Piazzale Europa, where vibrant lights and joyful rides await."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Club Rosapineta Lido",
+            "hu": "Club Rosapineta Strand",
+            "ro": "Club Rosapineta Lido",
+            "en": "Club Rosapineta Lido"
+          },
+          "coords": [
+            12.325856,
+            45.133874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Fahren Sie morgens zu diesem weitläufigen Strand; parken Sie Ihr Fahrrad an der Promenade und genießen Sie die noch menschenleere Küste.",
+            "hu": "Tekerjen reggel erre a tágas strandra; parkolja le kerékpárját a sétányon, és élvezze az egyelőre csendes tengerpartot.",
+            "ro": "Mergeți dimineața pe această plajă spațioasă; parcați bicicleta pe promenadă și bucurați-vă de coasta încă liniștită.",
+            "en": "Ride to this spacious beach in the morning; park your bicycle on the promenade and enjoy the peaceful, uncrowded coastline early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera 7",
+            "hu": "7-es szabadstrand",
+            "ro": "Plaja publică 7",
+            "en": "Free Beach 7"
+          },
+          "coords": [
+            12.325859,
+            45.130017
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser freie Strandabschnitt gewährt Ihnen absolute Flexibilität; nehmen Sie eine Decke mit, um sich ungestört im weichen Sand niederzulassen.",
+            "hu": "Ez a szabadstrand teljes rugalmasságot kínál; hozzon egy plédet, hogy zavartalanul pihenhessen a puha homokon.",
+            "ro": "Această plajă publică vă oferă flexibilitate totală; luați o pătură pentru a vă așeza confortabil pe nisipul fin.",
+            "en": "This free beach section grants you absolute flexibility; bring along a blanket to set up comfortably anywhere on the soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Villaggio Rosapineta Sud",
+            "hu": "Rosapineta Sud Üdülőfalu",
+            "ro": "Satul de vacanță Rosapineta Sud",
+            "en": "Villaggio Rosapineta Sud"
+          },
+          "coords": [
+            12.326213,
+            45.126909
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Die Anlage bietet eine hervorragende Mischung aus Natur und Komfort; radeln Sie durch den schattigen Pinienwald nahe des Wassers.",
+            "hu": "A komplexum a természet és a kényelem kiváló ötvözetét kínálja; tekerjen át a vízhez közeli, árnyékos fenyőerdőn.",
+            "ro": "Complexul oferă o combinație excelentă de natură și confort; pedalați prin pădurea de pini umbroasă din apropierea apei.",
+            "en": "This village resort offers a great mix of nature and comfort; enjoy a ride through the shaded pine woods situated just by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Azzurro",
+            "hu": "Bagno Azzurro",
+            "ro": "Bagno Azzurro",
+            "en": "Bagno Azzurro"
+          },
+          "coords": [
+            12.326707,
+            45.124196
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie hier am frühen Nachmittag eine entspannte Pause; das tiefblaue Wasser ist perfekt für eine erfrischende Schwimmrunde.",
+            "hu": "Tartson itt egy laza pihenőt kora délután; a mélykék víz tökéletes egy frissítő úszáshoz a melegben.",
+            "ro": "Faceți o pauză relaxantă aici la începutul după-amiezii; apa de un albastru intens este perfectă pentru o sesiune de înot.",
+            "en": "Take a relaxed break here in the early afternoon; the deep blue water is absolutely perfect for a refreshing midday swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Belvedere",
+            "hu": "Bagno Belvedere",
+            "ro": "Bagno Belvedere",
+            "en": "Bagno Belvedere"
+          },
+          "coords": [
+            12.32702,
+            45.120705
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von diesem ruhigeren Strand; es ist der ideale Ort, um etwas abseits des großen Trubels zu lesen.",
+            "hu": "Élvezze a széles panorámát erről a csendesebb strandról; ideális hely egy jó könyv olvasására, távol a nagy nyüzsgéstől.",
+            "ro": "Bucurați-vă de panorama vastă de pe această plajă mai liniștită; este locul ideal pentru a citi o carte departe de agitație.",
+            "en": "Enjoy the wide panoramic views from this quieter beach section; it is the ideal spot to read a book slightly away from the main bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park Piazzale Europa",
+            "hu": "Luna Park Piazzale Europa",
+            "ro": "Luna Park Piazzale Europa",
+            "en": "Luna Park Piazzale Europa"
+          },
+          "coords": [
+            12.323358,
+            45.131657
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zurück ins Zentrum zu diesem Freizeitpark; schließen Sie Ihr Fahrrad gut ab, bevor Sie sich in die Fahrgeschäfte stürzen.",
+            "hu": "Tekerjen vissza a központba ehhez a vidámparkhoz; zárja le biztonságosan a kerékpárját, mielőtt kipróbálná a játékokat.",
+            "ro": "Pedalați înapoi în centru spre acest parc de distracții; legați-vă bine bicicleta înainte de a vă aventura în atracții.",
+            "en": "Cycle back to the town center for this amusement park; make sure to lock your bike securely before jumping onto the exciting rides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mieten Sie sich ein Fahrrad und fahren Sie zum Club Rosapineta Lido, um energiegeladen in den Tag zu starten. \n\nRadeln Sie mittags die Küste hinunter zur Spiaggia libera 7 und zum Villaggio Rosapineta Sud und genießen Sie die Freiheit der offenen Wege. \n\nAm Nachmittag geht es weiter nach Süden zum Bagno Azzurro und Bagno Belvedere, wo Sie abseits der Massen entspannen können. \n\nFahren Sie am Abend zurück zum belebten Luna Park Piazzale Europa, um den Tag mit spannenden Fahrgeschäften ausklingen zu lassen.",
+        "hu": "Béreljen kerékpárt, és tekerjen el a Club Rosapineta strandhoz egy energikus reggeli kezdésért, csodás kilátással. \n\nDélben biciklizzen végig a parton a 7-es szabadstrand és a Rosapineta Sud üdülőfalu felé, élvezve a nyitott utakat. \n\nDélután haladjon délebbre a Bagno Azzurro és a Bagno Belvedere felé, ahol a tömegtől távolabb pihenhet a csendben. \n\nEste térjen vissza a pezsgő Luna Park Piazzale Europa területére, ahol izgalmas játékokkal ünnepelheti meg a napot.",
+        "ro": "Închiriați o bicicletă și mergeți la Club Rosapineta Lido pentru un început de zi plin de energie și priveliști superbe. \n\nLa amiază, pedalați de-a lungul coastei spre Plaja publică 7 și Villaggio Rosapineta Sud, bucurându-vă de traseele deschise. \n\nDupă-amiaza, mergeți mai la sud către Bagno Azzurro și Bagno Belvedere, relaxându-vă într-o ambianță liniștită, departe de aglomerație. \n\nSeara, faceți o buclă înapoi spre Luna Park Piazzale Europa, locul perfect pentru a vă încheia ziua cu atracții captivante.",
+        "en": "Rent a bike and ride to Club Rosapineta Lido for an energizing start, enjoying the sweeping coastal views from the northern beaches. \n\nPedal down the coastline to Spiaggia libera 7 and Villaggio Rosapineta Sud, enjoying the freedom of the open paths and pristine sand. \n\nCycle further south to Bagno Azzurro and Bagno Belvedere, relaxing in the tranquil afternoon ambiance away from the main crowds. \n\nLoop back to the bustling Luna Park Piazzale Europa, a perfect spot to celebrate the day with exciting rides and fun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 3.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Club Rosapineta Lido",
+            "hu": "Club Rosapineta Strand",
+            "ro": "Club Rosapineta Lido",
+            "en": "Club Rosapineta Lido"
+          },
+          "coords": [
+            12.325856,
+            45.133874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Das frühe Parken in der Nähe dieses nördlichen Strandbads ist einfach; nutzen Sie die ruhige Morgenzeit für einen langen Spaziergang am Wasser.",
+            "hu": "Az északi strand közelében kora reggel könnyű parkolni; használja ki a csendes időszakot egy hosszú sétára a víz mentén.",
+            "ro": "Parcarea este ușoară dimineața devreme lângă acest ștrand nordic; profitați de liniște pentru o plimbare lungă pe malul apei.",
+            "en": "Early parking near this northern lido is quite easy; take advantage of the quiet morning hours for a long, peaceful walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tizè Beach",
+            "hu": "Tizè Strand",
+            "ro": "Plaja Tizè",
+            "en": "Tizè Beach"
+          },
+          "coords": [
+            12.325826,
+            45.131381
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Packen Sie Ihre Badesachen leicht griffbereit ins Auto; an diesem lebhaften Strand können Sie hervorragend ins Wasser springen.",
+            "hu": "Készítse elő könnyen elérhető helyre a fürdőruhákat az autóban; ezen a nyüzsgő strandon kiválóan lehet a hullámokba ugrani.",
+            "ro": "Păstrați costumele de baie la îndemână în mașină; această plajă animată este excelentă pentru a sări direct în valuri.",
+            "en": "Keep your swimwear easily accessible in the car; this lively beach is an excellent spot to jump straight into the inviting waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera 9",
+            "hu": "9-es szabadstrand",
+            "ro": "Plaja publică 9",
+            "en": "Free Beach 9"
+          },
+          "coords": [
+            12.326006,
+            45.128079
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Laden Sie hier Ihren eigenen Sonnenschirm aus dem Auto aus; dieser weitläufige, freie Strand bietet genügend Platz für die ganze Familie.",
+            "hu": "Vegye ki a saját napernyőjét az autóból; ez a tágas szabadstrand elegendő helyet biztosít az egész család számára.",
+            "ro": "Descărcați propria umbrelă din mașină; această plajă publică spațioasă oferă suficient loc pentru a vă relaxa cu familia.",
+            "en": "Unload your own beach umbrella from the car here; this spacious free beach provides plenty of room for the whole family to spread out."
+          }
+        },
+        {
+          "name": {
+            "de": "Villaggio Rosolina Mare Club",
+            "hu": "Rosolina Mare Club Üdülőfalu",
+            "ro": "Satul de vacanță Rosolina Mare Club",
+            "en": "Villaggio Rosolina Mare Club"
+          },
+          "coords": [
+            12.326766,
+            45.123087
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Die Anlage bietet schattige Parkmöglichkeiten unter Pinien; das ist ideal, um das Auto während der heißen Mittagsstunden kühl zu halten.",
+            "hu": "A komplexum árnyékos parkolást kínál a fenyők alatt; ez ideális arra, hogy az autó hűvös maradjon a forró déli órákban.",
+            "ro": "Complexul oferă parcări umbrite sub pini; este ideal pentru a menține mașina răcoroasă în timpul orelor fierbinți de la prânz.",
+            "en": "The resort provides shaded parking areas under the pine trees; this is ideal for keeping your car cool during the hot midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni dal Moro",
+            "hu": "Bagni dal Moro",
+            "ro": "Bagni dal Moro",
+            "en": "Bagni dal Moro"
+          },
+          "coords": [
+            12.327353,
+            45.1195
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser südliche Strandclub ist deutlich ruhiger; genießen Sie hier einen komfortablen Nachmittag fernab des dichtesten Verkehrs.",
+            "hu": "Ez a déli strandklub sokkal csendesebb; élvezze a kényelmes délutánt távol a legsűrűbb forgalomtól és nyüzsgéstől.",
+            "ro": "Acest club de plajă din sud este mult mai liniștit; bucurați-vă de o după-amiază confortabilă departe de traficul aglomerat.",
+            "en": "This southern beach club is distinctly quieter; enjoy a highly comfortable afternoon relaxing far away from the densest traffic and crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park Piazzale Europa",
+            "hu": "Luna Park Piazzale Europa",
+            "ro": "Luna Park Piazzale Europa",
+            "en": "Luna Park Piazzale Europa"
+          },
+          "coords": [
+            12.323358,
+            45.131657
+          ],
+          "category": "recreational",
+          "arrive_at": "15:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie abends zum großen zentralen Parkplatz; hier können Sie bequem den Vergnügungspark und die umliegenden Restaurants erkunden.",
+            "hu": "Este hajtson a nagy központi parkolóba; innen kényelmesen felfedezheti a vidámparkot és a környékbeli éttermeket.",
+            "ro": "Conduceți seara spre parcarea centrală mare; de aici puteți explora cu ușurință parcul de distracții și restaurantele din jur.",
+            "en": "Drive to the large central parking area in the evening; from here, you can easily explore the amusement park and nearby dining spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens mit dem Auto zum Club Rosapineta Lido, wo Sie bequeme Parkmöglichkeiten und einen perfekten Blick auf das ruhige Meer finden. \n\nMachen Sie mittags eine kurze Fahrt zum Tizè Beach und zur Spiaggia libera 9, wo Sie Ihr Strandzubehör einfach für ein erfrischendes Bad ausladen können. \n\nCruisen Sie am Nachmittag hinunter zum Villaggio Rosolina Mare Club und zum Bagni dal Moro, um die abgelegeneren Strandabschnitte zu erkunden. \n\nParken Sie am Abend in der Nähe des Luna Park Piazzale Europa für ein festliches Finale mit aufregenden Fahrgeschäften und Spielen.",
+        "hu": "Autózzon reggel a Club Rosapineta strandhoz, ahol kényelmes parkolás és tökéletes kilátás nyílik a csendes tengerre. \n\nDélben tegyen egy rövid utat a Tizè Strand és a 9-es szabadstrand felé, ahol könnyedén kipakolhatja felszerelését egy fürdőzéshez. \n\nDélután guruljon le a Rosolina Mare Club üdülőfalu és a Bagni dal Moro irányába, felfedezve a délebbi, elszigeteltebb részeket. \n\nEste parkoljon le a Luna Park Piazzale Europa közelében, és élvezze az ünnepi hangulatot a vidámpark nyüzsgésében.",
+        "ro": "Conduceți dimineața la Club Rosapineta Lido, unde veți găsi parcări convenabile și o priveliște perfectă asupra mării liniștite. \n\nLa amiază, faceți o scurtă plimbare cu mașina până la Plaja Tizè și Plaja publică 9, descărcând ușor echipamentul pentru o baie revigorantă. \n\nDupă-amiaza, coborâți spre Villaggio Rosolina Mare Club și Bagni dal Moro pentru a explora secțiunile de plajă mai retrase. \n\nSeara, parcați aproape de Luna Park Piazzale Europa pentru o atmosferă festivă, cu atracții captivante și jocuri de amuzament.",
+        "en": "Drive to Club Rosapineta Lido to catch the morning sun, taking advantage of the convenient early parking and serene beachscapes. \n\nTake a short drive to Tizè Beach and Spiaggia libera 9, where you can easily unload your gear for a midday swim and relaxation. \n\nCruise down to Villaggio Rosolina Mare Club and Bagni dal Moro in the afternoon, exploring the southern, more secluded parts of this resort. \n\nPark near Luna Park Piazzale Europa for a festive evening, enjoying the amusement rides and joyful atmosphere before heading home."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "germany-baltrum-cities-v2",
+  "anchor": {
+    "name": "Baltrum",
+    "coords": [
+      7.368333,
+      53.728889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalpark-Haus",
+            "hu": "Nemzeti Park Háza",
+            "ro": "Casa Parcului Național",
+            "en": "National Park House"
+          },
+          "coords": [
+            7.367712,
+            53.726182
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktive Ausstellung über das einzigartige Ökosystem Wattenmeer und buchen Sie am besten gleich morgens eine geführte Wattwanderung.",
+            "hu": "Fedezze fel a Watt-tenger egyedülálló ökoszisztémáját bemutató interaktív kiállítást, és a legjobb, ha már reggel lefoglal egy vezetett árapály-túrát.",
+            "ro": "Explorați expoziția interactivă dedicată ecosistemului unic al Mării Wadden și asigurați-vă că rezervați un tur ghidat chiar de dimineață.",
+            "en": "Explore the interactive exhibition detailing the unique Wadden Sea ecosystem, and be sure to book a guided mudflat hike first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Inselkirche",
+            "hu": "Öreg Szigeti Templom",
+            "ro": "Vechea Biserică a Insulei",
+            "en": "Old Island Church"
+          },
+          "coords": [
+            7.367222,
+            53.727761
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Gebäude der Insel, um einen Moment der Stille zu genießen, und achten Sie auf die historischen Grabsteine auf dem kleinen Friedhof.",
+            "hu": "Látogasson el a sziget legrégebbi épületébe egy csendes pillanatra, és feltétlenül vegye szemügyre a kis temető történelmi sírköveit.",
+            "ro": "Vizitați cea mai veche clădire a insulei pentru un moment de liniște și acordați atenție pietrelor funerare istorice din micul cimitir adiacent.",
+            "en": "Visit the island's oldest building to enjoy a moment of tranquility, and make sure to examine the historical gravestones in the small adjacent cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zollhaus",
+            "hu": "Régi Vámház",
+            "ro": "Vechea Casă a Vămii",
+            "en": "Old Customs House"
+          },
+          "coords": [
+            7.370118,
+            53.726666
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Museum in die lokale Geschichte der Seefahrt ein und fragen Sie das Personal nach den faszinierenden Anekdoten über Schmuggler.",
+            "hu": "Merüljön el a helyi tengerészeti történelemben ebben a bájos múzeumban, és bátran kérdezze a személyzetet az egykori csempészek lenyűgöző történeteiről.",
+            "ro": "Pătrundeți în istoria maritimă locală în acest muzeu fermecător și nu ezitați să întrebați personalul despre poveștile fascinante cu contrabandiști.",
+            "en": "Delve into local maritime history inside this charming museum, and don't hesitate to ask the staff about fascinating tales of historical smugglers."
+          }
+        },
+        {
+          "name": {
+            "de": "Ev. Kirche Baltrum",
+            "hu": "Evangélikus Templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Protestant Church"
+          },
+          "coords": [
+            7.371649,
+            53.727465
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber eindrucksvolle Architektur dieser Kirche und überprüfen Sie den Aushang für stimmungsvolle abendliche Sommerkonzerte.",
+            "hu": "Csodálja meg a templom egyszerű, de hatásos építészetét, és ellenőrizze a hirdetőtáblát a hangulatos nyári esti koncertek időpontjaiért.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici și verificați avizierul pentru a prinde unul dintre concertele de vară de seară.",
+            "en": "Admire the simple yet striking architecture of this prominent church, and check the notice board to catch an atmospheric summer evening concert."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus",
+            "hu": "Szent Miklós Emlékmű",
+            "ro": "Monumentul Sf. Nicolae",
+            "en": "St. Nicholas Monument"
+          },
+          "coords": [
+            7.374761,
+            53.728586
+          ],
+          "category": "landmark",
+          "arrive_at": "14:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante Denkmal zu Ehren des Schutzpatrons der Seeleute und nutzen Sie die zentrale Lage für eine kurze Pause auf einer nahegelegenen Bank.",
+            "hu": "Tekintse meg ezt a tengerészek védőszentjének állított lenyűgöző emlékművet, és használja ki a központi elhelyezkedést egy rövid pihenőre a közeli padokon.",
+            "ro": "Contemplați acest monument dedicat sfântului patron al marinarilor și profitați de locația centrală pentru o scurtă pauză pe o bancă din apropiere.",
+            "en": "View this striking monument dedicated to the patron saint of seafarers, and take advantage of its central location for a quick rest on a nearby bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Willy's Utkiek",
+            "hu": "Willy's Utkiek Kilátó",
+            "ro": "Punctul de belvedere Willy's Utkiek",
+            "en": "Willy's Utkiek Viewpoint"
+          },
+          "coords": [
+            7.3743,
+            53.730578
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen unvergesslichen Blick über die Nordsee und bringen Sie unbedingt ein Fernglas mit, um vorbeifahrende Schiffe zu beobachten.",
+            "hu": "Élvezze a felejthetetlen kilátást az Északi-tengerre ebből a kilátóból, és mindenképpen hozzon magával távcsövet az elhaladó hajók megfigyeléséhez.",
+            "ro": "Bucurați-vă de o panoramă de neuitat asupra Mării Nordului de la acest punct de belvedere și aduceți un binoclu pentru a observa navele care trec.",
+            "en": "Enjoy an unforgettable panoramic view over the North Sea from this viewpoint, and definitely bring binoculars to spot passing ships on the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang im Herzen von Baltrum mit einem Besuch des Nationalpark-Hauses, wo wir mehr über die faszinierende Nordsee-Natur erfahren. Danach schlendern wir zur malerischen Alten Inselkirche, einem Ort voller Geschichte.\n\nZur Mittagszeit widmen wir uns der lokalen Historie und erkunden das Alte Zollhaus, bevor wir eine stärkende Pause in einem der nahegelegenen Cafés einlegen.\n\nAm Nachmittag setzen wir unseren kulturellen Rundgang fort, bewundern die moderne evangelische Kirche und das Denkmal St. Nikolaus, die beide das Inselflair prägen.\n\nDer Tag endet entspannt an Willy's Utkiek, wo wir den weiten Blick über das glitzernde Meer genießen und die maritime Atmosphäre Baltrums voll auskosten.",
+        "hu": "Sétánkat Baltrum szívében kezdjük a Nemzeti Park Házának meglátogatásával, ahol megismerkedünk az Északi-tenger természetével. Ezután az Öreg Szigeti Templomhoz sétálunk.\n\nDélben a helyi történelemnek szenteljük magunkat, és felfedezzük a Régi Vámházat, mielőtt felfrissülnénk egy közeli kávézóban.\n\nDélután folytatjuk kulturális túránkat, megcsodálva a modern evangélikus templomot és a Szent Miklós-emlékművet.\n\nA nap Willy's Utkiek kilátójánál ér véget lazítással, ahonnan élvezhetjük a csillogó tengerre nyíló pazar kilátást és a tengeri hangulatot.",
+        "ro": "Ne începem plimbarea în inima insulei Baltrum vizitând Casa Parcului Național, învățând despre natura fascinantă. Apoi, ne îndreptăm spre pitoreasca Veche Biserică a Insulei.\n\nLa prânz, ne dedicăm istoriei locale explorând Vechea Casă a Vămii, înainte de a lua o pauză răcoritoare la o cafenea din apropiere.\n\nDupă-amiază, continuăm turul cultural, admirând biserica protestantă modernă și monumentul Sf. Nicolae.\n\nZiua se încheie relaxant la Willy's Utkiek, unde ne bucurăm de vederea panoramică asupra mării strălucitoare și de atmosfera maritimă.",
+        "en": "We begin our stroll in the heart of Baltrum with a visit to the National Park House, learning about the fascinating North Sea nature. Afterwards, we wander to the picturesque Old Island Church, a place full of history.\n\nAt midday, we dedicate ourselves to local history by exploring the Old Customs House before taking a refreshing break at one of the nearby cafes.\n\nIn the afternoon, we continue our cultural tour, admiring the modern Protestant church and the St. Nicholas monument, both shaping the island's flair.\n\nThe day ends relaxingly at Willy's Utkiek, where we enjoy the sweeping view over the sparkling sea and fully savor Baltrum's maritime atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 4.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schiffswrack Muschelsauger \"Capella\"",
+            "hu": "A \"Capella\" hajóroncs",
+            "ro": "Epava \"Capella\"",
+            "en": "Shipwreck \"Capella\""
+          },
+          "coords": [
+            7.345748,
+            53.719213
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rostigen Überreste dieses markanten Schiffswracks am Strand und kommen Sie bei Ebbe, um die besten Fotomotive aus der Nähe zu ergattern.",
+            "hu": "Csodálja meg ennek a jellegzetes hajóroncsnak a rozsdás maradványait a tengerparton, és érkezzen apálykor, hogy a legjobb fotókat készíthesse közelről.",
+            "ro": "Minunați-vă de rămășițele ruginite ale acestei epave remarcabile pe plajă și veniți la reflux pentru a obține cele mai bune unghiuri fotografice de aproape.",
+            "en": "Marvel at the rusty remains of this striking shipwreck on the beach, and time your visit for low tide to get the best close-up photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Seehundsbank",
+            "hu": "Fókapad",
+            "ro": "Bancul de Foci",
+            "en": "Seal Bank"
+          },
+          "coords": [
+            7.347606,
+            53.718825
+          ],
+          "category": "natural",
+          "arrive_at": "09:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen Seehunde in ihrem natürlichen Lebensraum und halten Sie ausreichend Abstand, um die Tiere bei der Rast nicht zu stören.",
+            "hu": "Figyelje meg a fenséges fókákat természetes élőhelyükön, és tartson kellő távolságot, hogy ne zavarja az állatokat pihenés közben.",
+            "ro": "Observați focile maiestuoase în habitatul lor natural și păstrați o distanță respectabilă pentru a nu deranja animalele în timp ce se odihnesc.",
+            "en": "Observe the majestic seals in their natural habitat, and maintain a respectful distance to ensure you do not disturb the animals while they rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark-Haus",
+            "hu": "Nemzeti Park Háza",
+            "ro": "Casa Parcului Național",
+            "en": "National Park House"
+          },
+          "coords": [
+            7.367712,
+            53.726182
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktive Ausstellung über das einzigartige Ökosystem Wattenmeer und buchen Sie am besten gleich morgens eine geführte Wattwanderung.",
+            "hu": "Fedezze fel a Watt-tenger egyedülálló ökoszisztémáját bemutató interaktív kiállítást, és a legjobb, ha már reggel lefoglal egy vezetett árapály-túrát.",
+            "ro": "Explorați expoziția interactivă dedicată ecosistemului unic al Mării Wadden și asigurați-vă că rezervați un tur ghidat chiar de dimineață.",
+            "en": "Explore the interactive exhibition detailing the unique Wadden Sea ecosystem, and be sure to book a guided mudflat hike first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Inselkirche",
+            "hu": "Öreg Szigeti Templom",
+            "ro": "Vechea Biserică a Insulei",
+            "en": "Old Island Church"
+          },
+          "coords": [
+            7.367222,
+            53.727761
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Gebäude der Insel, um einen Moment der Stille zu genießen, und achten Sie auf die historischen Grabsteine auf dem kleinen Friedhof.",
+            "hu": "Látogasson el a sziget legrégebbi épületébe egy csendes pillanatra, és feltétlenül vegye szemügyre a kis temető történelmi sírköveit.",
+            "ro": "Vizitați cea mai veche clădire a insulei pentru un moment de liniște și acordați atenție pietrelor funerare istorice din micul cimitir adiacent.",
+            "en": "Visit the island's oldest building to enjoy a moment of tranquility, and make sure to examine the historical gravestones in the small adjacent cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zollhaus",
+            "hu": "Régi Vámház",
+            "ro": "Vechea Casă a Vămii",
+            "en": "Old Customs House"
+          },
+          "coords": [
+            7.370118,
+            53.726666
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Museum in die lokale Geschichte der Seefahrt ein und fragen Sie das Personal nach den faszinierenden Anekdoten über Schmuggler.",
+            "hu": "Merüljön el a helyi tengerészeti történelemben ebben a bájos múzeumban, és bátran kérdezze a személyzetet az egykori csempészek lenyűgöző történeteiről.",
+            "ro": "Pătrundeți în istoria maritimă locală în acest muzeu fermecător și nu ezitați să întrebați personalul despre poveștile fascinante cu contrabandiști.",
+            "en": "Delve into local maritime history inside this charming museum, and don't hesitate to ask the staff about fascinating tales of historical smugglers."
+          }
+        },
+        {
+          "name": {
+            "de": "Ev. Kirche Baltrum",
+            "hu": "Evangélikus Templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Protestant Church"
+          },
+          "coords": [
+            7.371649,
+            53.727465
+          ],
+          "category": "religious",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber eindrucksvolle Architektur dieser Kirche und überprüfen Sie den Aushang für stimmungsvolle abendliche Sommerkonzerte.",
+            "hu": "Csodálja meg a templom egyszerű, de hatásos építészetét, és ellenőrizze a hirdetőtáblát a hangulatos nyári esti koncertek időpontjaiért.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici și verificați avizierul pentru a prinde unul dintre concertele de vară de seară.",
+            "en": "Admire the simple yet striking architecture of this prominent church, and check the notice board to catch an atmospheric summer evening concert."
+          }
+        },
+        {
+          "name": {
+            "de": "Willy's Utkiek",
+            "hu": "Willy's Utkiek Kilátó",
+            "ro": "Punctul de belvedere Willy's Utkiek",
+            "en": "Willy's Utkiek Viewpoint"
+          },
+          "coords": [
+            7.3743,
+            53.730578
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen unvergesslichen Blick über die Nordsee und bringen Sie unbedingt ein Fernglas mit, um vorbeifahrende Schiffe zu beobachten.",
+            "hu": "Élvezze a felejthetetlen kilátást az Északi-tengerre ebből a kilátóból, és mindenképpen hozzon magával távcsövet az elhaladó hajók megfigyeléséhez.",
+            "ro": "Bucurați-vă de o panoramă de neuitat asupra Mării Nordului de la acest punct de belvedere și aduceți un binoclu pentru a observa navele care trec.",
+            "en": "Enjoy an unforgettable panoramic view over the North Sea from this viewpoint, and definitely bring binoculars to spot passing ships on the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsdüne",
+            "hu": "Kilátódűne",
+            "ro": "Duna de Observație",
+            "en": "Observation Dune"
+          },
+          "coords": [
+            7.393597,
+            53.727256
+          ],
+          "category": "natural",
+          "arrive_at": "16:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die höchste Düne für ein grandioses Inselpanorama und tragen Sie windfeste Kleidung, da es hier oben oft sehr stürmisch zugeht.",
+            "hu": "Mássza meg a legmagasabb dűnét a lenyűgöző szigetpanorámáért, és viseljen szélálló ruházatot, mivel itt fent gyakran nagyon viharos az idő.",
+            "ro": "Urcați pe cea mai înaltă dună pentru o panoramă magnifică a insulei și purtați haine rezistente la vânt, deoarece aici sus bate adesea destul de puternic.",
+            "en": "Climb the highest dune for a magnificent island panorama, and wear windproof clothing since it can get exceptionally breezy at this elevation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour startet im Westen mit dem geheimnisvollen Schiffswrack und der Seehundsbank, wo wir die wilde Natur hautnah erleben. Danach fahren wir ins Zentrum zum Nationalpark-Haus.\n\nMittags erkunden wir die historischen Schätze Baltrums. Die Alte Inselkirche und das Alte Zollhaus bieten spannende Einblicke in das Leben der früheren Inselbewohner.\n\nNach einem kurzen Stopp an der evangelischen Kirche radeln wir gemütlich Richtung Osten, um an Willy's Utkiek die frische Meeresbrise und die tolle Aussicht zu genießen.\n\nDen krönenden Abschluss bildet die Fahrt zur Aussichtsdüne im Osten der Insel, wo wir den Tag bei einem spektakulären Sonnenuntergang über den sanften Dünen ausklingen lassen.",
+        "hu": "Kerékpártúránk nyugaton kezdődik a titokzatos hajóronccsal és a fókapaddal. Ezután a központba tekerünk, a Nemzeti Park Házához.\n\nDélben Baltrum történelmi kincseit fedezzük fel. Az Öreg Szigeti Templom és a Régi Vámház izgalmas bepillantást nyújt a korai lakosok életébe.\n\nEgy rövid pihenő után az evangélikus templomnál, kényelmesen kelet felé pedálozunk, hogy élvezzük a friss tengeri szellőt a Willy's Utkiek-nél.\n\nA nap fénypontja a keleti kilátódűnéhez vezető út, ahol a napot egy látványos naplementével zárjuk a szelíd dűnék felett.",
+        "ro": "Turul nostru cu bicicleta începe în vest, cu epava misterioasă și bancul de foci. Apoi pedalăm spre centru, la Casa Parcului Național.\n\nLa prânz, explorăm comorile istorice ale insulei Baltrum. Vechea Biserică a Insulei și Vechea Casă a Vămii oferă perspective fascinante.\n\nDupă o scurtă oprire la biserica protestantă, pedalăm pe îndelete spre est pentru a ne bucura de briza mării la Willy's Utkiek.\n\nFinalul spectaculos este cursa spre duna de observație din est, unde lăsăm ziua să se stingă cu un apus magnific peste dune.",
+        "en": "Our bike tour starts in the west with the mysterious shipwreck and the seal bank, experiencing wild nature up close. Then we ride to the center to the National Park House.\n\nAt midday, we explore Baltrum's historical treasures. The Old Island Church and the Old Customs House offer exciting insights into the lives of early islanders.\n\nAfter a short stop at the Protestant church, we pedal leisurely eastwards to enjoy the fresh sea breeze and the great view at Willy's Utkiek.\n\nThe grand finale is the ride to the observation dune in the east, where we let the day fade away with a spectacular sunset over the gentle dunes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schiffswrack Muschelsauger \"Capella\"",
+            "hu": "A \"Capella\" hajóroncs",
+            "ro": "Epava \"Capella\"",
+            "en": "Shipwreck \"Capella\""
+          },
+          "coords": [
+            7.345748,
+            53.719213
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die rostigen Überreste dieses markanten Schiffswracks am Strand und kommen Sie bei Ebbe, um die besten Fotomotive aus der Nähe zu ergattern.",
+            "hu": "Csodálja meg ennek a jellegzetes hajóroncsnak a rozsdás maradványait a tengerparton, és érkezzen apálykor, hogy a legjobb fotókat készíthesse közelről.",
+            "ro": "Minunați-vă de rămășițele ruginite ale acestei epave remarcabile pe plajă și veniți la reflux pentru a obține cele mai bune unghiuri fotografice de aproape.",
+            "en": "Marvel at the rusty remains of this striking shipwreck on the beach, and time your visit for low tide to get the best close-up photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Seehundsbank",
+            "hu": "Fókapad",
+            "ro": "Bancul de Foci",
+            "en": "Seal Bank"
+          },
+          "coords": [
+            7.347606,
+            53.718825
+          ],
+          "category": "natural",
+          "arrive_at": "09:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen Seehunde in ihrem natürlichen Lebensraum und halten Sie ausreichend Abstand, um die Tiere bei der Rast nicht zu stören.",
+            "hu": "Figyelje meg a fenséges fókákat természetes élőhelyükön, és tartson kellő távolságot, hogy ne zavarja az állatokat pihenés közben.",
+            "ro": "Observați focile maiestuoase în habitatul lor natural și păstrați o distanță respectabilă pentru a nu deranja animalele în timp ce se odihnesc.",
+            "en": "Observe the majestic seals in their natural habitat, and maintain a respectful distance to ensure you do not disturb the animals while they rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark-Haus",
+            "hu": "Nemzeti Park Háza",
+            "ro": "Casa Parcului Național",
+            "en": "National Park House"
+          },
+          "coords": [
+            7.367712,
+            53.726182
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktive Ausstellung über das einzigartige Ökosystem Wattenmeer und buchen Sie am besten gleich morgens eine geführte Wattwanderung.",
+            "hu": "Fedezze fel a Watt-tenger egyedülálló ökoszisztémáját bemutató interaktív kiállítást, és a legjobb, ha már reggel lefoglal egy vezetett árapály-túrát.",
+            "ro": "Explorați expoziția interactivă dedicată ecosistemului unic al Mării Wadden și asigurați-vă că rezervați un tur ghidat chiar de dimineață.",
+            "en": "Explore the interactive exhibition detailing the unique Wadden Sea ecosystem, and be sure to book a guided mudflat hike first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zollhaus",
+            "hu": "Régi Vámház",
+            "ro": "Vechea Casă a Vămii",
+            "en": "Old Customs House"
+          },
+          "coords": [
+            7.370118,
+            53.726666
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Museum in die lokale Geschichte der Seefahrt ein und fragen Sie das Personal nach den faszinierenden Anekdoten über Schmuggler.",
+            "hu": "Merüljön el a helyi tengerészeti történelemben ebben a bájos múzeumban, és bátran kérdezze a személyzetet az egykori csempészek lenyűgöző történeteiről.",
+            "ro": "Pătrundeți în istoria maritimă locală în acest muzeu fermecător și nu ezitați să întrebați personalul despre poveștile fascinante cu contrabandiști.",
+            "en": "Delve into local maritime history inside this charming museum, and don't hesitate to ask the staff about fascinating tales of historical smugglers."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsdüne",
+            "hu": "Kilátódűne",
+            "ro": "Duna de Observație",
+            "en": "Observation Dune"
+          },
+          "coords": [
+            7.393597,
+            53.727256
+          ],
+          "category": "natural",
+          "arrive_at": "14:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die höchste Düne für ein grandioses Inselpanorama und tragen Sie windfeste Kleidung, da es hier oben oft sehr stürmisch zugeht.",
+            "hu": "Mássza meg a legmagasabb dűnét a lenyűgöző szigetpanorámáért, és viseljen szélálló ruházatot, mivel itt fent gyakran nagyon viharos az idő.",
+            "ro": "Urcați pe cea mai înaltă dună pentru o panoramă magnifică a insulei și purtați haine rezistente la vânt, deoarece aici sus bate adesea destul de puternic.",
+            "en": "Climb the highest dune for a magnificent island panorama, and wear windproof clothing since it can get exceptionally breezy at this elevation."
+          }
+        },
+        {
+          "name": {
+            "de": "NTB Badestelle",
+            "hu": "NTB Strand",
+            "ro": "Plaja NTB",
+            "en": "NTB Bathing Beach"
+          },
+          "coords": [
+            7.398282,
+            53.736832
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem weitläufigen Strandabschnitt entspannt ausklingen und mieten Sie sich einen traditionellen Strandkorb für den ultimativen Komfort.",
+            "hu": "Zárja a napot lazítva ezen a tágas partszakaszon, és béreljen egy hagyományos strandkosarat a maximális kényelem és a szél elleni védelem érdekében.",
+            "ro": "Încheiați ziua relaxându-vă pe această întindere largă de plajă și închiriați un coș de plajă tradițional pentru confort suprem și protecție.",
+            "en": "Wind down your day relaxing on this expansive stretch of beach, and rent a traditional beach chair for the ultimate comfort and wind protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere motorisierte Tour bringt uns zunächst zum westlichen Ende der Insel, um das markante Schiffswrack und die faszinierende Seehundsbank in aller Ruhe zu besichtigen.\n\nZurück im Hauptdorf tauchen wir im Nationalpark-Haus in die Ökologie des Wattenmeers ein und besuchen das liebevoll gestaltete Alte Zollhaus für eine Prise Seefahrtsgeschichte.\n\nAm Nachmittag fahren wir Richtung Osten zur Aussichtsdüne, wo wir nach einem kurzen Aufstieg mit einem atemberaubenden Rundumblick über die gesamte Insel belohnt werden.\n\nWir beenden unsere Reise an der gepflegten NTB Badestelle, wo wir bei einem Spaziergang am Strand die ruhige Abendstimmung und das Rauschen der Wellen genießen.",
+        "hu": "Motoros túránk először a sziget nyugati végébe vezet, hogy nyugodtan megtekinthessük a feltűnő hajóroncsot és a lenyűgöző fókapadot.\n\nVisszatérve a főfaluba, a Nemzeti Park Házában elmerülünk a Watt-tenger ökológiájában, és meglátogatjuk a Régi Vámházat.\n\nDélután kelet felé autózunk a kilátódűne felé, ahol egy rövid kapaszkodó után lélegzetelállító panoráma jutalmazza meg a fáradozást.\n\nUtazásunkat a gondozott NTB Badestelle-nél fejezzük be, élvezve a csendes esti hangulatot és a hullámok hangját.",
+        "ro": "Turul nostru motorizat ne poartă mai întâi la capătul vestic al insulei, pentru a vizita epava uimitoare și fascinantul banc de foci.\n\nÎnapoi în satul principal, ne scufundăm în ecologia Mării Wadden la Casa Parcului Național și vizităm Vechea Casă a Vămii.\n\nDupă-amiază, conducem spre est către duna de observație, unde o scurtă urcare ne răsplătește cu o vedere panoramică uluitoare.\n\nNe încheiem călătoria la plaja NTB Badestelle, bucurându-ne de atmosfera liniștită de seară și de sunetul valurilor.",
+        "en": "Our motorized tour first takes us to the western end of the island to view the striking shipwreck and the fascinating seal bank in peace.\n\nBack in the main village, we dive into the ecology of the Wadden Sea at the National Park House and visit the Old Customs House.\n\nIn the afternoon, we drive east towards the observation dune, where a short climb rewards us with a breathtaking panoramic view of the entire island.\n\nWe end our journey at the well-kept NTB Badestelle, enjoying the calm evening atmosphere and the sound of the waves during a beach stroll."
+      }
+    }
+  }
+}

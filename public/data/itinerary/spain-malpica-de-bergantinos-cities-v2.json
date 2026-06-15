@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-malpica-de-bergantinos-cities-v2",
+  "anchor": {
+    "name": "Malpica de Bergantiños",
+    "coords": [
+      -8.81425,
+      43.29685
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 6.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pedra da Arca",
+            "hu": "Pedra da Arca",
+            "ro": "Pedra da Arca",
+            "en": "Pedra da Arca"
+          },
+          "coords": [
+            -8.817788,
+            43.296586
+          ],
+          "category": "historical",
+          "arrive_at": "09:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
+            "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
+            "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoas do Quente",
+            "hu": "Mámoas do Quente",
+            "ro": "Mámoas do Quente",
+            "en": "Mámoas do Quente"
+          },
+          "coords": [
+            -8.82395,
+            43.302232
+          ],
+          "category": "historical",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
+            "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
+            "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Loroxo",
+            "hu": "Pazo de Loroxo",
+            "ro": "Pazo de Loroxo",
+            "en": "Pazo de Loroxo"
+          },
+          "coords": [
+            -8.793856,
+            43.295791
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Herrenhaus, das die lokale galicische Architektur perfekt repräsentiert, und achten Sie besonders auf die kunstvollen steinernen Wappen.",
+            "hu": "Csodálja meg ezt a történelmi udvarházat, amely a galíciai építészet tökéletes példája, és figyelje meg a bejáratnál található, kőből faragott, részletgazdag családi címereket.",
+            "ro": "Admirați acest conac istoric ce reprezintă arhitectura tradițională galiciană și acordați atenție deosebită blazoanelor de piatră bogat ornamentate de la intrarea principală.",
+            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíños de Ardeleiro",
+            "hu": "Muíños de Ardeleiro",
+            "ro": "Muíños de Ardeleiro",
+            "en": "Muíños de Ardeleiro"
+          },
+          "coords": [
+            -8.788405,
+            43.304858
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
+            "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
+            "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Aldeola",
+            "hu": "Castro da Aldeola",
+            "ro": "Castro da Aldeola",
+            "en": "Castro da Aldeola"
+          },
+          "coords": [
+            -8.79175,
+            43.287347
+          ],
+          "category": "historical",
+          "arrive_at": "15:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
+            "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
+            "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
+        "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
+        "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pedra da Arca",
+            "hu": "Pedra da Arca",
+            "ro": "Pedra da Arca",
+            "en": "Pedra da Arca"
+          },
+          "coords": [
+            -8.817788,
+            43.296586
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
+            "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
+            "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoas do Quente",
+            "hu": "Mámoas do Quente",
+            "ro": "Mámoas do Quente",
+            "en": "Mámoas do Quente"
+          },
+          "coords": [
+            -8.82395,
+            43.302232
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
+            "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
+            "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíños de Ardeleiro",
+            "hu": "Muíños de Ardeleiro",
+            "ro": "Muíños de Ardeleiro",
+            "en": "Muíños de Ardeleiro"
+          },
+          "coords": [
+            -8.788405,
+            43.304858
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
+            "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
+            "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Loroxo",
+            "hu": "Pazo de Loroxo",
+            "ro": "Pazo de Loroxo",
+            "en": "Pazo de Loroxo"
+          },
+          "coords": [
+            -8.793856,
+            43.295791
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Herrenhaus, das die lokale galicische Architektur perfekt repräsentiert, und achten Sie besonders auf die kunstvollen steinernen Wappen.",
+            "hu": "Csodálja meg ezt a történelmi udvarházat, amely a galíciai építészet tökéletes példája, és figyelje meg a bejáratnál található, kőből faragott, részletgazdag családi címereket.",
+            "ro": "Admirați acest conac istoric ce reprezintă arhitectura tradițională galiciană și acordați atenție deosebită blazoanelor de piatră bogat ornamentate de la intrarea principală.",
+            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Aldeola",
+            "hu": "Castro da Aldeola",
+            "ro": "Castro da Aldeola",
+            "en": "Castro da Aldeola"
+          },
+          "coords": [
+            -8.79175,
+            43.287347
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
+            "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
+            "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Cristovo de Cerqueda",
+            "hu": "Igrexa de San Cristovo de Cerqueda",
+            "ro": "Igrexa de San Cristovo de Cerqueda",
+            "en": "Igrexa de San Cristovo de Cerqueda"
+          },
+          "coords": [
+            -8.809212,
+            43.284772
+          ],
+          "category": "religious",
+          "arrive_at": "15:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche, die den spirituellen Mittelpunkt des Dorfes bildet, und respektieren Sie die Stille, da sie noch immer für Gottesdienste genutzt wird.",
+            "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a falu spirituális központja, és tartsa tiszteletben a csendet, mivel a helyiek még ma is aktívan használják istentiszteletekre.",
+            "ro": "Vizitați această biserică parohială fermecătoare, centrul spiritual al satului, și respectați liniștea locului deoarece este folosită în mod activ pentru slujbele locale.",
+            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
+        "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
+        "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:24",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Muíños de Ardeleiro",
+            "hu": "Muíños de Ardeleiro",
+            "ro": "Muíños de Ardeleiro",
+            "en": "Muíños de Ardeleiro"
+          },
+          "coords": [
+            -8.788405,
+            43.304858
+          ],
+          "category": "landmark",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
+            "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
+            "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoas do Quente",
+            "hu": "Mámoas do Quente",
+            "ro": "Mámoas do Quente",
+            "en": "Mámoas do Quente"
+          },
+          "coords": [
+            -8.82395,
+            43.302232
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
+            "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
+            "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedra da Arca",
+            "hu": "Pedra da Arca",
+            "ro": "Pedra da Arca",
+            "en": "Pedra da Arca"
+          },
+          "coords": [
+            -8.817788,
+            43.296586
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
+            "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
+            "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Taraio",
+            "hu": "Pazo de Taraio",
+            "ro": "Pazo de Taraio",
+            "en": "Pazo de Taraio"
+          },
+          "coords": [
+            -8.821875,
+            43.287481
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses elegante Landgut, das von der einstigen Macht lokaler Adelsfamilien zeugt, und bleiben Sie auf den öffentlichen Wegen, um die Privatsphäre zu wahren.",
+            "hu": "Tekintse meg ezt az elegáns birtokot, amely a helyi nemesi családok egykori hatalmáról tanúskodik, és maradjon a kijelölt közutakon a lakók magánszférája miatt.",
+            "ro": "Contemplați această moșie elegantă ce demonstrează puterea foștilor nobili locali și asigurați-vă că rămâneți pe drumurile publice pentru a nu deranja proprietatea privată.",
+            "en": "View this elegant country estate that testifies to the historical power of local noble families, and make sure to stay on the public pathways to respect residents' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Cerqueda",
+            "hu": "Pazo de Cerqueda",
+            "ro": "Pazo de Cerqueda",
+            "en": "Pazo de Cerqueda"
+          },
+          "coords": [
+            -8.805778,
+            43.279252
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätische Ausstrahlung dieses alten Palastes, der tief in der Regionalgeschichte verwurzelt ist, und suchen Sie sich einen guten Standpunkt für Fotos.",
+            "hu": "Tapasztalja meg ennek a regionális történelemben gyökerező régi palotának a fenséges kisugárzását, és keressen egy jó szöget a homlokzat építészeti fotózásához.",
+            "ro": "Experimentați aura maiestuoasă a acestui palat vechi cu rădăcini adânci în istoria regională și găsiți un unghi potrivit pentru a fotografia detaliile fațadei impunătoare.",
+            "en": "Experience the majestic aura of this old palace deeply rooted in regional history, and take your time finding the perfect angle to photograph its impressive traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Arixón",
+            "hu": "Pazo de Arixón",
+            "ro": "Pazo de Arixón",
+            "en": "Pazo de Arixón"
+          },
+          "coords": [
+            -8.801588,
+            43.277865
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikale Schönheit dieses weiteren Herrenhauses der Region und verbinden Sie den Besuch mit einem gemütlichen Spaziergang durch ländliche Wege.",
+            "hu": "Fedezze fel ennek a régióbeli udvarháznak a rusztikus szépségét, és kösse össze a látogatást egy kellemes sétával a környező, békés vidéki mellékutakon.",
+            "ro": "Descoperiți frumusețea rustică a acestui alt conac important din regiune și combinați vizita cu o plimbare relaxantă pe potecile rurale pitorești din imediata apropiere.",
+            "en": "Discover the rustic beauty of this significant regional manor house, and seamlessly combine your visit with a relaxing stroll along the picturesque rural paths nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Cristovo de Cerqueda",
+            "hu": "Igrexa de San Cristovo de Cerqueda",
+            "ro": "Igrexa de San Cristovo de Cerqueda",
+            "en": "Igrexa de San Cristovo de Cerqueda"
+          },
+          "coords": [
+            -8.809212,
+            43.284772
+          ],
+          "category": "religious",
+          "arrive_at": "16:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche, die den spirituellen Mittelpunkt des Dorfes bildet, und respektieren Sie die Stille, da sie noch immer für Gottesdienste genutzt wird.",
+            "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a falu spirituális központja, és tartsa tiszteletben a csendet, mivel a helyiek még ma is aktívan használják istentiszteletekre.",
+            "ro": "Vizitați această biserică parohială fermecătoare, centrul spiritual al satului, și respectați liniștea locului deoarece este folosită în mod activ pentru slujbele locale.",
+            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Aldeola",
+            "hu": "Castro da Aldeola",
+            "ro": "Castro da Aldeola",
+            "en": "Castro da Aldeola"
+          },
+          "coords": [
+            -8.79175,
+            43.287347
+          ],
+          "category": "historical",
+          "arrive_at": "17:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
+            "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
+            "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
+        "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
+        "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+      }
+    }
+  }
+}

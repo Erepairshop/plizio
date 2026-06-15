@@ -1,0 +1,474 @@
+{
+  "city_id": "france-benodet-cities-v2",
+  "anchor": {
+    "name": "Bénodet",
+    "coords": [
+      -4.11098,
+      47.87464
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Thomas",
+            "hu": "Église Saint-Thomas",
+            "ro": "Biserica Saint-Thomas",
+            "en": "Église Saint-Thomas"
+          },
+          "coords": [
+            -4.115389,
+            47.876297
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Église Saint-Thomas am Hafen und genießen Sie die spirituelle Ruhe, bevor Sie morgens dem Küstenpfad folgen.",
+            "hu": "Csodálja meg a kikötő melletti Église Saint-Thomas elegáns építészetét, és élvezze a békés lelki nyugalmat, mielőtt elindul a festői parti sétányon.",
+            "ro": "Admirați arhitectura elegantă a Bisericii Saint-Thomas situată lângă port și bucurați-vă de liniștea sa spirituală înainte de a porni pe promenada de coastă.",
+            "en": "Admire the elegant architecture of Église Saint-Thomas situated right by the picturesque port, and soak in its spiritual tranquility before heading to the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Bénodet",
+            "hu": "Phare de Bénodet",
+            "ro": "Phare de Bénodet",
+            "en": "Phare de Bénodet"
+          },
+          "coords": [
+            -4.112843,
+            47.874839
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den malerischen Phare de Bénodet, der majestätisch über der Küste thront, und nutzen Sie das sanfte Morgenlicht für atemberaubende Aufnahmen.",
+            "hu": "Fényképezze le a partvidék fölé magasodó, festői Phare de Bénodet világítótornyot, és használja ki a lágy reggeli fényeket a tökéletes felvételek elkészítéséhez.",
+            "ro": "Fotografiați pitorescul far Phare de Bénodet, care se înalță maiestuos deasupra coastei, și profitați de lumina blândă a dimineții pentru imagini deosebite.",
+            "en": "Photograph the picturesque Phare de Bénodet lighthouse towering majestically over the coast, and take advantage of the soft morning light for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Mer",
+            "hu": "Église Notre-Dame-de-la-Mer",
+            "ro": "Biserica Notre-Dame-de-la-Mer",
+            "en": "Église Notre-Dame-de-la-Mer"
+          },
+          "coords": [
+            -4.105018,
+            47.874867
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Glasfenster der Église Notre-Dame-de-la-Mer, die die lokale Seefahrtsgeschichte erzählen, und besuchen Sie sie außerhalb der Gottesdienstzeiten.",
+            "hu": "Fedezze fel az Église Notre-Dame-de-la-Mer lenyűgöző üvegablakait, amelyek a helyi tengerészet történetét mesélik el, és látogassa meg a misék közötti csendes órákban.",
+            "ro": "Descoperiți vitraliile fascinante ale Bisericii Notre-Dame-de-la-Mer care spun povestea maritimă locală și vizitați-o în afara orelor de slujbă pentru mai multă liniște.",
+            "en": "Discover the fascinating stained glass windows of Église Notre-Dame-de-la-Mer that tell the local maritime history, and visit outside of mass times for a quiet experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Trez",
+            "hu": "Plage du Trez",
+            "ro": "Plage du Trez",
+            "en": "Plage du Trez"
+          },
+          "coords": [
+            -4.105646,
+            47.8711
+          ],
+          "category": "recreational",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am breiten Sandstrand der Plage du Trez, der ideal für einen gemütlichen Spaziergang ist, und bringen Sie Sonnencreme für die Mittagsstunden mit.",
+            "hu": "Pihenjen meg a Plage du Trez széles homokos partján, amely ideális egy kényelmes sétához, és ne felejtsen el naptejet hozni a déli napsütéses órákra.",
+            "ro": "Relaxați-vă pe plaja largă de nisip Plage du Trez, perfectă pentru o plimbare confortabilă, și asigurați-vă că aveți cremă de protecție solară pentru orele amiezii.",
+            "en": "Relax on the wide sandy beach of Plage du Trez, which is absolutely perfect for a leisurely stroll, and remember to bring sunscreen for the bright midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Coq",
+            "hu": "Phare du Coq",
+            "ro": "Phare du Coq",
+            "en": "Phare du Coq"
+          },
+          "coords": [
+            -4.111673,
+            47.871817
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum charmanten Phare du Coq an der Flussmündung, der eine wunderbare Aussicht bietet, und achten Sie auf die vorbeifahrenden Segelboote am Nachmittag.",
+            "hu": "Sétáljon el a folyótorkolatnál álló bájos Phare du Coq világítótoronyhoz, ahonnan remek kilátás nyílik, és figyelje meg a délután arra vitorlázó elegáns hajókat.",
+            "ro": "Plimbați-vă până la fermecătorul Phare du Coq de la gura de vărsare a râului, care oferă priveliști minunate, și urmăriți bărcile cu pânze care trec după-amiaza.",
+            "en": "Stroll down to the charming Phare du Coq lighthouse at the river mouth, offering wonderful panoramic views, and watch the graceful sailboats passing by in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pussou",
+            "hu": "Plage du Pussou",
+            "ro": "Plage du Pussou",
+            "en": "Plage du Pussou"
+          },
+          "coords": [
+            -4.114566,
+            47.870258
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an der ruhigeren Plage du Pussou ausklingen, die weniger von Touristen überlaufen ist, und genießen Sie die sanfte Meeresbrise bei einem Picknick.",
+            "hu": "Zárja a napot a csendesebb Plage du Pussou strandon, amely kevésbé zsúfolt, és élvezze a lágy tengeri szellőt egy kellemes, pihentető délutáni piknik kíséretében.",
+            "ro": "Încheiați-vă ziua pe plaja mai liniștită Plage du Pussou, mult mai puțin aglomerată, și bucurați-vă de briza blândă a mării în timpul unui picnic relaxant la apus.",
+            "en": "End your day at the quieter Plage du Pussou, which is much less crowded with tourists, and enjoy the gentle, refreshing sea breeze during a relaxing afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie den Tag mit spiritueller Ruhe in der Église Saint-Thomas und bewundern Sie den majestätischen Phare de Bénodet im ersten Sonnenlicht.\nMittags: Entdecken Sie das maritime Erbe in der Kirche Notre-Dame-de-la-Mer und entspannen Sie sich bei einem Spaziergang am weitläufigen Strand Plage du Trez.\nNachmittags: Ein malerischer Spaziergang führt Sie zum charmanten Phare du Coq, wo Sie die beeindruckende Aussicht auf die Flussmündung genießen können.\nAbends: Lassen Sie den Tag entspannt an der friedlichen Plage du Pussou ausklingen und lauschen Sie den sanften Wellen im warmen Licht des späten Nachmittags.",
+        "hu": "Délelőtt: Kezdje a napot lelki nyugalommal az Église Saint-Thomas templomban, majd csodálja meg a fenséges Phare de Bénodet világítótornyot a reggeli fényben.\nDélben: Fedezze fel a tengeri örökséget a Notre-Dame-de-la-Mer templomban, és tegyen egy kellemes sétát a széles Plage du Trez homokos partján a napsütésben.\nDélután: Sétáljon el a folyó torkolatánál álló festői Phare du Coq világítótoronyhoz, ahonnan csodálatos kilátás nyílik az elhaladó vitorlásokra.\nEste: Pihenje ki a nap fáradalmait a csendes Plage du Pussou strandon, hallgassa a tenger lágy hullámait, és élvezze a nyugodt, pihentető tengerparti atmoszférát.",
+        "ro": "Dimineața: Începeți ziua cu liniștea spirituală la Église Saint-Thomas și admirați maiestuosul far Phare de Bénodet în lumina caldă și plăcută a dimineții.\nAmiaza: Descoperiți moștenirea maritimă la biserica Notre-Dame-de-la-Mer și faceți o plimbare relaxantă de-a lungul întinsei plaje de nisip Plage du Trez.\nDupă-amiaza: Faceți o plimbare pitorească până la fermecătorul far Phare du Coq de la gura râului, unde puteți urmări cu admirație bărcile cu pânze trecând.\nSeara: Relaxați-vă la sfârșitul zilei pe nisipurile liniștite ale Plage du Pussou, ascultând valurile blânde în timp ce vă bucurați de o seară extrem de pașnică.",
+        "en": "Morning: Start your lovely day with spiritual tranquility at Église Saint-Thomas and admire the towering Phare de Bénodet in the beautiful soft morning light.\nMidday: Discover the rich maritime heritage at Notre-Dame-de-la-Mer, followed by a relaxing and refreshing stroll along the expansive sandy shores of Plage du Trez.\nAfternoon: Take a highly scenic walk down to the charming Phare du Coq overlooking the river mouth, offering wonderful panoramic views of passing sailboats.\nEvening: Unwind on the exceptionally tranquil sands of Plage du Pussou, listening to the gentle ocean waves as the sun slowly begins its colorful descent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 3.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Thomas",
+            "hu": "Église Saint-Thomas",
+            "ro": "Biserica Saint-Thomas",
+            "en": "Église Saint-Thomas"
+          },
+          "coords": [
+            -4.115389,
+            47.876297
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Église Saint-Thomas am Hafen und genießen Sie die spirituelle Ruhe, bevor Sie morgens dem Küstenpfad folgen.",
+            "hu": "Csodálja meg a kikötő melletti Église Saint-Thomas elegáns építészetét, és élvezze a békés lelki nyugalmat, mielőtt elindul a festői parti sétányon.",
+            "ro": "Admirați arhitectura elegantă a Bisericii Saint-Thomas situată lângă port și bucurați-vă de liniștea sa spirituală înainte de a porni pe promenada de coastă.",
+            "en": "Admire the elegant architecture of Église Saint-Thomas situated right by the picturesque port, and soak in its spiritual tranquility before heading to the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Galerie",
+            "hu": "Marine Galerie",
+            "ro": "Marine Galerie",
+            "en": "Marine Galerie"
+          },
+          "coords": [
+            -4.122198,
+            47.874588
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die maritimen Kunstwerke in der Marine Galerie, die das Leben am Meer perfekt einfangen, und planen Sie genug Zeit für die faszinierenden Details ein.",
+            "hu": "Fedezze fel a Marine Galerie tengeri műalkotásait, amelyek tökéletesen megörökítik az óceáni életet, és szánjon elegendő időt a lenyűgöző részletek tanulmányozására.",
+            "ro": "Explorați operele de artă maritimă din Marine Galerie, care surprind perfect viața pe mare, și asigurați-vă că aveți suficient timp pentru detaliile fascinante.",
+            "en": "Explore the wonderful maritime artworks at the Marine Galerie, which perfectly capture coastal life, and allocate enough time to appreciate the fascinating details."
+          }
+        },
+        {
+          "name": {
+            "de": "Abri du marin Sainte-Marine",
+            "hu": "Abri du marin Sainte-Marine",
+            "ro": "Abri du marin Sainte-Marine",
+            "en": "Abri du marin Sainte-Marine"
+          },
+          "coords": [
+            -4.120946,
+            47.874337
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Abri du marin Sainte-Marine, um mehr über die rauen Bedingungen der Fischer zu erfahren, und lesen Sie die informativen Schautafeln.",
+            "hu": "Látogasson el a történelmi Abri du marin Sainte-Marine-be, hogy megismerje a halászok kemény életét, és mindenképpen olvassa el a részletes információs táblákat.",
+            "ro": "Vizitați istoricul Abri du marin Sainte-Marine pentru a afla despre viața aspră a pescarilor și nu ratați panourile informative care detaliază eforturile lor.",
+            "en": "Visit the historic Abri du marin Sainte-Marine to learn about the rugged lives of local fishermen, and take the time to read the detailed and informative displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Sainte-Marine",
+            "hu": "Phare de Sainte-Marine",
+            "ro": "Phare de Sainte-Marine",
+            "en": "Phare de Sainte-Marine"
+          },
+          "coords": [
+            -4.113028,
+            47.864309
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad zum malerischen Phare de Sainte-Marine, der einen tollen Blick auf die Küste bietet, und sichern Sie Ihr Fahrrad am nahegelegenen Parkplatz.",
+            "hu": "Kerékpározzon el a festői Phare de Sainte-Marine világítótoronyhoz a fantasztikus kilátásért, és biztonságosan rögzítse kerékpárját a közeli kijelölt parkolóban.",
+            "ro": "Mergeți cu bicicleta până la pitorescul far Phare de Sainte-Marine pentru o priveliște excelentă a coastei și asigurați-vă bicicleta în parcarea amenajată din apropiere.",
+            "en": "Cycle down to the highly picturesque Phare de Sainte-Marine for excellent coastal views, and ensure you securely lock your bike at the designated parking area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Sainte-Marine",
+            "hu": "Fort de Sainte-Marine",
+            "ro": "Fort de Sainte-Marine",
+            "en": "Fort de Sainte-Marine"
+          },
+          "coords": [
+            -4.11485,
+            47.863661
+          ],
+          "category": "castle",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die alten Festungsmauern des Fort de Sainte-Marine für ein historisches Erlebnis, und tragen Sie bequeme Schuhe für die unebenen, steinigen Wege.",
+            "hu": "Mássza meg a Fort de Sainte-Marine régi erődítményfalait egy igazi történelmi élményért, és viseljen kényelmes cipőt az egyenetlen, köves ösvények felfedezéséhez.",
+            "ro": "Urcați pe vechile ziduri ale Fortului de Sainte-Marine pentru o experiență istorică autentică și purtați neapărat încălțăminte confortabilă pentru potecile pietruite.",
+            "en": "Climb the ancient fortification walls of Fort de Sainte-Marine for an authentic historical experience, and wear extremely comfortable shoes for the uneven, stony paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Coq",
+            "hu": "Phare du Coq",
+            "ro": "Phare du Coq",
+            "en": "Phare du Coq"
+          },
+          "coords": [
+            -4.111673,
+            47.871817
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum charmanten Phare du Coq an der Flussmündung, der eine wunderbare Aussicht bietet, und achten Sie auf die vorbeifahrenden Segelboote am Nachmittag.",
+            "hu": "Sétáljon el a folyótorkolatnál álló bájos Phare du Coq világítótoronyhoz, ahonnan remek kilátás nyílik, és figyelje meg a délután arra vitorlázó elegáns hajókat.",
+            "ro": "Plimbați-vă până la fermecătorul Phare du Coq de la gura de vărsare a râului, care oferă priveliști minunate, și urmăriți bărcile cu pânze care trec după-amiaza.",
+            "en": "Stroll down to the charming Phare du Coq lighthouse at the river mouth, offering wonderful panoramic views, and watch the graceful sailboats passing by in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Radeln Sie zur historischen Église Saint-Thomas, bevor Sie in die lokale maritime Kunst in der wunderbaren Marine Galerie in aller Ruhe eintauchen.\nMittags: Überqueren Sie den Fluss nach Sainte-Marine, um das faszinierende Abri du marin und den markanten Leuchtturm mit fantastischer Aussicht zu erkunden.\nNachmittags: Entdecken Sie die beeindruckende militärische Vergangenheit im Fort de Sainte-Marine, das einen spektakulären Panoramablick auf die Bucht bietet.\nAbends: Fahren Sie gemütlich zurück nach Bénodet, um die wunderschönen Sonnenuntergangsfarben hinter dem charmanten Phare du Coq am Ufer zu bewundern.",
+        "hu": "Délelőtt: Kerékpározzon el a történelmi Église Saint-Thomas templomhoz, majd merüljön el a tengeri művészetekben a fantasztikus Marine Galerie kiállításain.\nDélben: Keljen át a folyón Sainte-Marine felé, hogy felfedezze a történelmi Abri du marin épületét és a lenyűgöző parti világítótornyot a déli napsütésben.\nDélután: Fedezze fel az egykori katonai történelmet a Fort de Sainte-Marine régi falai között, ahonnan varázslatos panoráma nyílik a hatalmas, kék óceánra.\nEste: Térjen vissza Bénodet-be egy kellemes tekeréssel, és csodálja meg a bájos Phare du Coq mögött lemenő nap gyönyörű, romantikus és színpompás fényeit.",
+        "ro": "Dimineața: Mergeți cu bicicleta până la istorica Église Saint-Thomas înainte de a vă cufunda în arta maritimă locală expusă la minunata și fascinanta Marine Galerie.\nAmiaza: Traversați râul spre Sainte-Marine pentru a explora clădirea istorică Abri du marin și farul emblematic de pe coastă, care oferă peisaje incredibile.\nDupă-amiaza: Descoperiți istoria militară impresionantă la Fort de Sainte-Marine, de unde puteți admira o panoramă spectaculoasă a oceanului și a împrejurimilor.\nSeara: Întoarceți-vă cu bicicleta în Bénodet pentru a admira nuanțele superbe ale apusului de soare în spatele fermecătorului far Phare du Coq de pe faleză.",
+        "en": "Morning: Cycle gracefully to the historic Église Saint-Thomas before fully immersing yourself in the magnificent maritime art exhibited at the wonderful Marine Galerie.\nMidday: Cross the beautiful river over to Sainte-Marine to thoroughly explore the historic Abri du marin and the iconic, picturesque coastal lighthouse.\nAfternoon: Uncover the fascinating military history at Fort de Sainte-Marine, featuring ancient stone walls and spectacular, commanding panoramic ocean views.\nEvening: Leisurely pedal back to Bénodet to quietly admire the stunning sunset colors dramatically setting behind the incredibly charming Phare du Coq."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -4.142121,
+            47.87818
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht am Point de vue, der ideal für Naturbeobachtungen ist, und bringen Sie ein Fernglas mit, um die Vögel zu sehen.",
+            "hu": "Élvezze a lélegzetelállító kilátást a Point de vue magaslatáról, amely tökéletes a természet megfigyelésére, és hozzon távcsövet a madarak felfedezéséhez.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de la Point de vue, ideal pentru observarea naturii, și nu uitați să aduceți binoclul pentru a vedea păsările locale.",
+            "en": "Enjoy the breathtaking views at the Point de vue, which is absolutely ideal for nature observation, and definitely bring binoculars to spot the coastal birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Abri du marin Sainte-Marine",
+            "hu": "Abri du marin Sainte-Marine",
+            "ro": "Abri du marin Sainte-Marine",
+            "en": "Abri du marin Sainte-Marine"
+          },
+          "coords": [
+            -4.120946,
+            47.874337
+          ],
+          "category": "museum",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Abri du marin Sainte-Marine, um mehr über die rauen Bedingungen der Fischer zu erfahren, und lesen Sie die informativen Schautafeln.",
+            "hu": "Látogasson el a történelmi Abri du marin Sainte-Marine-be, hogy megismerje a halászok kemény életét, és mindenképpen olvassa el a részletes információs táblákat.",
+            "ro": "Vizitați istoricul Abri du marin Sainte-Marine pentru a afla despre viața aspră a pescarilor și nu ratați panourile informative care detaliază eforturile lor.",
+            "en": "Visit the historic Abri du marin Sainte-Marine to learn about the rugged lives of local fishermen, and take the time to read the detailed and informative displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Sainte-Marine",
+            "hu": "Phare de Sainte-Marine",
+            "ro": "Phare de Sainte-Marine",
+            "en": "Phare de Sainte-Marine"
+          },
+          "coords": [
+            -4.113028,
+            47.864309
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad zum malerischen Phare de Sainte-Marine, der einen tollen Blick auf die Küste bietet, und sichern Sie Ihr Fahrrad am nahegelegenen Parkplatz.",
+            "hu": "Kerékpározzon el a festői Phare de Sainte-Marine világítótoronyhoz a fantasztikus kilátásért, és biztonságosan rögzítse kerékpárját a közeli kijelölt parkolóban.",
+            "ro": "Mergeți cu bicicleta până la pitorescul far Phare de Sainte-Marine pentru o priveliște excelentă a coastei și asigurați-vă bicicleta în parcarea amenajată din apropiere.",
+            "en": "Cycle down to the highly picturesque Phare de Sainte-Marine for excellent coastal views, and ensure you securely lock your bike at the designated parking area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Bénodet",
+            "hu": "Phare de Bénodet",
+            "ro": "Phare de Bénodet",
+            "en": "Phare de Bénodet"
+          },
+          "coords": [
+            -4.112843,
+            47.874839
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den malerischen Phare de Bénodet, der majestätisch über der Küste thront, und nutzen Sie das sanfte Morgenlicht für atemberaubende Aufnahmen.",
+            "hu": "Fényképezze le a partvidék fölé magasodó, festői Phare de Bénodet világítótornyot, és használja ki a lágy reggeli fényeket a tökéletes felvételek elkészítéséhez.",
+            "ro": "Fotografiați pitorescul far Phare de Bénodet, care se înalță maiestuos deasupra coastei, și profitați de lumina blândă a dimineții pentru imagini deosebite.",
+            "en": "Photograph the picturesque Phare de Bénodet lighthouse towering majestically over the coast, and take advantage of the soft morning light for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Poulquer",
+            "hu": "Menhir de Poulquer",
+            "ro": "Menhir de Poulquer",
+            "en": "Menhir de Poulquer"
+          },
+          "coords": [
+            -4.096164,
+            47.868993
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den uralten Menhir de Poulquer, der tief in der bretonischen Geschichte verwurzelt ist, und parken Sie Ihr Auto rücksichtsvoll am Straßenrand.",
+            "hu": "Csodálja meg az ősi Menhir de Poulquer-t, amely a breton történelem mélyén gyökerezik, és parkoljon le óvatosan az út szélén anélkül, hogy akadályozná a forgalmat.",
+            "ro": "Admirați anticul Menhir de Poulquer, care este adânc înrădăcinat în istoria bretonă, și parcați mașina cu mare grijă pe marginea drumului îngust din apropiere.",
+            "en": "Marvel at the ancient Menhir de Poulquer, deeply rooted in fascinating Breton history, and remember to park your car considerately along the quiet roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Pointe Saint-Gilles",
+            "hu": "Plage de la Pointe Saint-Gilles",
+            "ro": "Plage de la Pointe Saint-Gilles",
+            "en": "Plage de la Pointe Saint-Gilles"
+          },
+          "coords": [
+            -4.095461,
+            47.86206
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag an der Plage de la Pointe Saint-Gilles, einem herrlichen Strand für Familien, und bringen Sie eine Picknickdecke für maximalen Komfort mit.",
+            "hu": "Töltsön el egy kellemes délutánt a Plage de la Pointe Saint-Gilles családbarát strandján, és hozzon magával egy kényelmes pikniktakarót a tökéletes kikapcsolódáshoz.",
+            "ro": "Petreceți după-amiaza la Plage de la Pointe Saint-Gilles, o plajă magnifică și potrivită pentru familii, și aduceți o pătură de picnic pentru confort maxim pe nisip.",
+            "en": "Spend a lovely afternoon at the Plage de la Pointe Saint-Gilles, an excellent family-friendly beach, and bring along a picnic blanket for maximum relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie mit den weiten Panoramablicken am Point de vue, bevor Sie das historische Abri du marin in Sainte-Marine für tiefe Einblicke besuchen.\nMittags: Bewundern Sie die markanten Leuchttürme auf beiden Seiten des Flusses, die die reiche maritime Geschichte dieser wunderschönen Küstenregion verbinden.\nNachmittags: Fahren Sie weiter ins Landesinnere, um den geheimnisvollen Menhir de Poulquer zu entdecken, der ein stilles Zeugnis der alten bretonischen Kultur ist.\nAbends: Beenden Sie Ihre Autotour entspannt an der weitläufigen Plage de la Pointe Saint-Gilles und genießen Sie die kühle Abendbrise am ruhigen Meeresufer.",
+        "hu": "Délelőtt: Kezdje a napot a Point de vue lenyűgöző panorámájával, majd látogasson el a Sainte-Marine-i Abri du marin múzeumba, hogy megismerje a múltat.\nDélben: Csodálja meg a folyó mindkét partján álló ikonikus világítótornyokat, amelyek hűen őrzik a gyönyörű partvidék gazdag és izgalmas tengerészeti történelmét.\nDélután: Utazzon kicsit beljebb a szárazföld felé, hogy megtekintse a titokzatos Menhir de Poulquer-t, a breton kultúra egyik lenyűgöző, ősi és csendes emlékét.\nEste: Fejezze be autós kirándulását a tágas Plage de la Pointe Saint-Gilles strandon, ahol a hűsítő esti tengerparti szélben nyugodtan, békésen pihenhet.",
+        "ro": "Dimineața: Începeți cu priveliștile panoramice largi de la Point de vue, înainte de a vizita istoricul Abri du marin din Sainte-Marine pentru perspective profunde.\nAmiaza: Admirați farurile emblematice situate pe ambele maluri ale râului, care conectează perfect istoria maritimă bogată a acestei regiuni de coastă superbe.\nDupă-amiaza: Conduceți ușor spre interior pentru a vizita misteriosul Menhir de Poulquer, o mărturie tăcută și fascinantă a vechii culturi celtice bretone.\nSeara: Încheiați-vă excursia relaxându-vă pe plaja vastă Plage de la Pointe Saint-Gilles, bucurându-vă de briza răcoroasă a mării la asfințitul soarelui.",
+        "en": "Morning: Start with breathtaking panoramic coastal sights at the Point de vue before crossing over to visit the historic Abri du marin museums in Sainte-Marine.\nMidday: Take the time to admire the stunning, iconic lighthouses standing on both sides of the river, perfectly connecting the rich local maritime histories.\nAfternoon: Drive slightly inland to visit and closely examine the deeply mysterious Menhir de Poulquer, serving as a silent testament to ancient Breton culture.\nEvening: Conclude your grand driving tour by completely relaxing at the expansive, family-friendly Plage de la Pointe Saint-Gilles as evening gently falls."
+      }
+    }
+  }
+}

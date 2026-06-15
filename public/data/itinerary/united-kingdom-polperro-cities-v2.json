@@ -1,0 +1,428 @@
+{
+  "city_id": "united-kingdom-polperro-cities-v2",
+  "anchor": {
+    "name": "Polperro",
+    "coords": [
+      -4.5197,
+      50.3311
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Polperro Model Village & Land of Legend",
+            "hu": "Polperro Makettfalu",
+            "ro": "Satul în miniatură Polperro",
+            "en": "Polperro Model Village & Land of Legend"
+          },
+          "coords": [
+            -4.521315,
+            50.331648
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Miniatur-Nachbildung des kornischen Dorfes, um dessen Aufbau vor Ihrem echten Spaziergang zu verstehen.",
+            "hu": "Fedezze fel a cornwalli falu bájos miniatűr mását, hogy jobban átlássa annak szerkezetét a valódi séta előtt.",
+            "ro": "Explorează această machetă miniaturală a satului cornish pentru a-i înțelege structura înainte de a te plimba pe străzile reale.",
+            "en": "Explore this charming miniature replica of the Cornish village to understand its layout before walking the real streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Ginas Kunststudio",
+            "hu": "Gina Művészeti Stúdiója",
+            "ro": "Studioul de Artă al Ginei",
+            "en": "Gina's Art Studio"
+          },
+          "coords": [
+            -4.518396,
+            50.331276
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale Küstenkunstwerke, die das Licht Polperros einfangen, und kaufen Sie ein kleines Stück als Souvenir.",
+            "hu": "Csodálja meg a Polperro különleges fényeit megörökítő helyi alkotásokat, és vásároljon egy kis darabot emlékként.",
+            "ro": "Admiră operele de artă locale care surprind lumina unică din Polperro și cumpără o mică lucrare ca suvenir memorabil.",
+            "en": "Admire local coastal artworks capturing Polperro's unique light, and consider buying a small piece as a memorable souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Polperro Heritage Museum",
+            "hu": "Polperro Helytörténeti Múzeum",
+            "ro": "Muzeul Patrimoniului din Polperro",
+            "en": "Polperro Heritage Museum of Smuggling & Fishing"
+          },
+          "coords": [
+            -4.51652,
+            50.331503
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Schmuggel- und Fischereigeschichte des Dorfes anhand der ausgestellten umfangreichen Fotoarchive.",
+            "hu": "Ismerje meg a falu lenyűgöző csempész- és halászmúltját a kiállított, rendkívül gazdag fotóarchívumok megtekintésével.",
+            "ro": "Descoperă istoria fascinantă a contrabandei și pescuitului din sat vizionând arhivele fotografice expuse cu grijă.",
+            "en": "Discover the village's fascinating history of smuggling and fishing by viewing the extensive photographic archives on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Giggen Cove",
+            "hu": "Giggen-öböl",
+            "ro": "Golful Giggen",
+            "en": "Giggen Cove"
+          },
+          "coords": [
+            -4.507206,
+            50.331241
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie vorsichtig zu dieser abgelegenen Bucht hinab, um unberührte Ausblicke zu genießen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon le óvatosan ehhez a félreeső öbölhöz a páratlan tengerparti kilátásért, de ügyeljen a megfelelő túracipő viselésére.",
+            "ro": "Coboară cu grijă spre acest golf retras pentru a te bucura de priveliști virgine, dar asigură-te că porți încălțăminte solidă.",
+            "en": "Take a careful walk down to this secluded cove to enjoy unspoiled coastal views, but make sure to wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Lekerock Cove",
+            "hu": "Lekerock-öböl",
+            "ro": "Golful Lekerock",
+            "en": "Lekerock Cove"
+          },
+          "coords": [
+            -4.499298,
+            50.332784
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den friedlichen Ufern dieses versteckten Juwels, wo Sie die Wellen an den dramatischen Klippen beobachten können.",
+            "hu": "Pihenjen meg ennek a rejtett gyöngyszemnek a békés partján, ahol figyelheti, ahogy a hullámok a drámai szikláknak csapódnak.",
+            "ro": "Relaxează-te pe țărmul pașnic al acestei bijuterii ascunse, unde poți privi valurile care se sparg de stâncile dramatice.",
+            "en": "Relax on the peaceful shores of this hidden gem, where you can watch the waves crash against the dramatic Cornish cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den Miniaturwundern im örtlichen Modelldorf, einer perfekten Einführung in Polperro. Entdecken Sie am Mittag die lebendige lokale Kunstszene in Ginas Studio. Tauchen Sie nachmittags im Heimatmuseum in die Schmuggelgeschichte ein, bevor Sie zur Giggen Cove spazieren. Ihr Tag endet an der Lekerock Cove mit den beruhigenden Klängen des Meeres.",
+        "hu": "Kezdje a reggelt a helyi makettfalu miniatűr csodáinak felfedezésével, amely tökéletes bevezetés Polperróba. Dél körül fedezze fel a vibráló helyi művészeti életet Gina stúdiójában. Délután merüljön el a környék csempészmúltjában a helytörténeti múzeumban, majd sétáljon el a Giggen-öbölbe. A napja a Lekerock-öbölnél zárul, ahol élvezheti a tenger nyugtató hangjait.",
+        "ro": "Începe-ți dimineața explorând minunile miniaturale la satul de machete, o introducere perfectă în Polperro. În jurul prânzului, descoperă scena de artă locală vibrantă la studioul Ginei. După-amiaza, aprofundează istoria contrabandei din zonă la muzeul patrimoniului înainte de a te plimba spre Giggen Cove. Ziua se încheie la Lekerock Cove, bucurându-te de sunetele liniștite ale mării.",
+        "en": "Start your morning exploring the miniature wonders at the local model village, a perfect introduction to Polperro. Around midday, discover the vibrant local art scene at Gina's studio. In the afternoon, delve into the area's smuggling history at the heritage museum before walking to Giggen Cove. Your day concludes at Lekerock Cove, enjoying the tranquil sounds of the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Polcoombe",
+            "hu": "Polcoombe",
+            "ro": "Polcoombe",
+            "en": "Polcoombe"
+          },
+          "coords": [
+            -4.52532,
+            50.34695
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an diesem ruhigen Naturort etwas außerhalb des Dorfes ein, ideal für einen friedlichen Morgenspaziergang.",
+            "hu": "Szívja magába a friss levegőt ezen a nyugodt természeti helyen, amely ideális egy csendes kora reggeli frissítő sétához.",
+            "ro": "Respiră aerul proaspăt în acest loc natural liniștit de la marginea satului, ideal pentru o plimbare matinală în natură.",
+            "en": "Breathe in the fresh air at this tranquil natural spot just outside the village, ideal for a quiet morning nature walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Polperro Model Village & Land of Legend",
+            "hu": "Polperro Makettfalu",
+            "ro": "Satul în miniatură Polperro",
+            "en": "Polperro Model Village & Land of Legend"
+          },
+          "coords": [
+            -4.521315,
+            50.331648
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Miniatur-Nachbildung des kornischen Dorfes, um dessen Aufbau vor Ihrem echten Spaziergang zu verstehen.",
+            "hu": "Fedezze fel a cornwalli falu bájos miniatűr mását, hogy jobban átlássa annak szerkezetét a valódi séta előtt.",
+            "ro": "Explorează această machetă miniaturală a satului cornish pentru a-i înțelege structura înainte de a te plimba pe străzile reale.",
+            "en": "Explore this charming miniature replica of the Cornish village to understand its layout before walking the real streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Polperro Heritage Museum",
+            "hu": "Polperro Helytörténeti Múzeum",
+            "ro": "Muzeul Patrimoniului din Polperro",
+            "en": "Polperro Heritage Museum of Smuggling & Fishing"
+          },
+          "coords": [
+            -4.51652,
+            50.331503
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Schmuggel- und Fischereigeschichte des Dorfes anhand der ausgestellten umfangreichen Fotoarchive.",
+            "hu": "Ismerje meg a falu lenyűgöző csempész- és halászmúltját a kiállított, rendkívül gazdag fotóarchívumok megtekintésével.",
+            "ro": "Descoperă istoria fascinantă a contrabandei și pescuitului din sat vizionând arhivele fotografice expuse cu grijă.",
+            "en": "Discover the village's fascinating history of smuggling and fishing by viewing the extensive photographic archives on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Talland Sand",
+            "hu": "Talland-homokpart",
+            "ro": "Plaja Talland Sand",
+            "en": "Talland Sand"
+          },
+          "coords": [
+            -4.497547,
+            50.33725
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen schönen Sandstrand entlang und verpassen Sie nicht die Gelegenheit, Meerestiere in den Felsenpools zu entdecken.",
+            "hu": "Sétáljon végig ezen a szép homokos partszakaszon, és ne hagyja ki a sziklamedencékben megbúvó apró tengeri élőlényeket.",
+            "ro": "Plimbă-te de-a lungul acestei frumoase porțiuni de plajă și nu rata ocazia de a observa mici creaturi marine în ochiurile de apă.",
+            "en": "Stroll along this lovely sandy stretch of coastline, and do not miss the chance to spot small sea creatures in the rock pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Tallan",
+            "hu": "St Tallan templom",
+            "ro": "Biserica St Tallan",
+            "en": "St Tallan"
+          },
+          "coords": [
+            -4.490674,
+            50.337863
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Klippenkirche, um ihren einzigartigen freistehenden Turm und den atemberaubenden Meerblick zu bewundern.",
+            "hu": "Látogassa meg ezt a történelmi, sziklafalon álló templomot, hogy megcsodálja különálló tornyát és a tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Vizitează această biserică istorică de pe stâncă pentru a admira turnul său izolat și priveliștile panoramice uimitoare asupra mării.",
+            "en": "Visit this historic clifftop church to admire its unique detached tower and stunning panoramic views of the sea below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt in Polcoombe und genießen Sie die ruhige Natur direkt außerhalb des Hauptdorfes. Fahren Sie weiter zum Modelldorf, um Polperro vor dem Mittagessen im Miniaturformat zu sehen. Der Nachmittag bietet einen faszinierenden Einblick in das örtliche Schmuggel-Erbe, gefolgt von einer Fahrt zum Talland Sand. Beenden Sie Ihre Reise an der Kirche St. Tallan und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a túrát Polcoombe-ban, és gyönyörködjön a nyugodt természetben közvetlenül a falu mellett. Folytassa útját a makettfalu felé, hogy ebéd előtt kicsinyítve is lássa Polperrót. A délután lenyűgöző bepillantást nyújt a helyi csempészmúltba, amelyet egy festői kerékpározás követ a Talland-homokpartra. Zárja utazását a sziklán álló St Tallan templomnál, nézve a naplementét.",
+        "ro": "Începe plimbarea la Polcoombe, admirând natura liniștită de la marginea satului. Continuă spre satul de machete pentru a vedea Polperro în miniatură înainte de prânz. După-amiaza oferă o privire fascinantă asupra patrimoniului de contrabandă la muzeu, urmată de o cursă pitorească spre Talland Sand. Încheie călătoria la biserica St Tallan de pe stâncă, privind apusul.",
+        "en": "Begin your ride at Polcoombe, taking in the serene natural surroundings just outside the main village. Continue towards the model village to see Polperro in miniature before lunch. The afternoon offers a fascinating look at the local smuggling heritage at the museum, followed by a scenic ride to Talland Sand. End your journey at the clifftop St Tallan church, watching the sunset over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Polcoombe",
+            "hu": "Polcoombe",
+            "ro": "Polcoombe",
+            "en": "Polcoombe"
+          },
+          "coords": [
+            -4.52532,
+            50.34695
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an diesem ruhigen Naturort etwas außerhalb des Dorfes ein, ideal für einen friedlichen Morgenspaziergang.",
+            "hu": "Szívja magába a friss levegőt ezen a nyugodt természeti helyen, amely ideális egy csendes kora reggeli frissítő sétához.",
+            "ro": "Respiră aerul proaspăt în acest loc natural liniștit de la marginea satului, ideal pentru o plimbare matinală în natură.",
+            "en": "Breathe in the fresh air at this tranquil natural spot just outside the village, ideal for a quiet morning nature walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Polperro Model Village & Land of Legend",
+            "hu": "Polperro Makettfalu",
+            "ro": "Satul în miniatură Polperro",
+            "en": "Polperro Model Village & Land of Legend"
+          },
+          "coords": [
+            -4.521315,
+            50.331648
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Miniatur-Nachbildung des kornischen Dorfes, um dessen Aufbau vor Ihrem echten Spaziergang zu verstehen.",
+            "hu": "Fedezze fel a cornwalli falu bájos miniatűr mását, hogy jobban átlássa annak szerkezetét a valódi séta előtt.",
+            "ro": "Explorează această machetă miniaturală a satului cornish pentru a-i înțelege structura înainte de a te plimba pe străzile reale.",
+            "en": "Explore this charming miniature replica of the Cornish village to understand its layout before walking the real streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Ginas Kunststudio",
+            "hu": "Gina Művészeti Stúdiója",
+            "ro": "Studioul de Artă al Ginei",
+            "en": "Gina's Art Studio"
+          },
+          "coords": [
+            -4.518396,
+            50.331276
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale Küstenkunstwerke, die das Licht Polperros einfangen, und kaufen Sie ein kleines Stück als Souvenir.",
+            "hu": "Csodálja meg a Polperro különleges fényeit megörökítő helyi alkotásokat, és vásároljon egy kis darabot emlékként.",
+            "ro": "Admiră operele de artă locale care surprind lumina unică din Polperro și cumpără o mică lucrare ca suvenir memorabil.",
+            "en": "Admire local coastal artworks capturing Polperro's unique light, and consider buying a small piece as a memorable souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Polperro Heritage Museum",
+            "hu": "Polperro Helytörténeti Múzeum",
+            "ro": "Muzeul Patrimoniului din Polperro",
+            "en": "Polperro Heritage Museum of Smuggling & Fishing"
+          },
+          "coords": [
+            -4.51652,
+            50.331503
+          ],
+          "category": "museum",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Schmuggel- und Fischereigeschichte des Dorfes anhand der ausgestellten umfangreichen Fotoarchive.",
+            "hu": "Ismerje meg a falu lenyűgöző csempész- és halászmúltját a kiállított, rendkívül gazdag fotóarchívumok megtekintésével.",
+            "ro": "Descoperă istoria fascinantă a contrabandei și pescuitului din sat vizionând arhivele fotografice expuse cu grijă.",
+            "en": "Discover the village's fascinating history of smuggling and fishing by viewing the extensive photographic archives on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Tallan",
+            "hu": "St Tallan templom",
+            "ro": "Biserica St Tallan",
+            "en": "St Tallan"
+          },
+          "coords": [
+            -4.490674,
+            50.337863
+          ],
+          "category": "religious",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Klippenkirche, um ihren einzigartigen freistehenden Turm und den atemberaubenden Meerblick zu bewundern.",
+            "hu": "Látogassa meg ezt a történelmi, sziklafalon álló templomot, hogy megcsodálja különálló tornyát és a tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Vizitează această biserică istorică de pe stâncă pentru a admira turnul său izolat și priveliștile panoramice uimitoare asupra mării.",
+            "en": "Visit this historic clifftop church to admire its unique detached tower and stunning panoramic views of the sea below."
+          }
+        },
+        {
+          "name": {
+            "de": "Talland Sand",
+            "hu": "Talland-homokpart",
+            "ro": "Plaja Talland Sand",
+            "en": "Talland Sand"
+          },
+          "coords": [
+            -4.497547,
+            50.33725
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen schönen Sandstrand entlang und verpassen Sie nicht die Gelegenheit, Meerestiere in den Felsenpools zu entdecken.",
+            "hu": "Sétáljon végig ezen a szép homokos partszakaszon, és ne hagyja ki a sziklamedencékben megbúvó apró tengeri élőlényeket.",
+            "ro": "Plimbă-te de-a lungul acestei frumoase porțiuni de plajă și nu rata ocazia de a observa mici creaturi marine în ochiurile de apă.",
+            "en": "Stroll along this lovely sandy stretch of coastline, and do not miss the chance to spot small sea creatures in the rock pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem erfrischenden Halt in Polcoombe, der einen friedlichen Ton für den Tag setzt. Fahren Sie ins Dorf, um das Modelldorf zu erkunden und lokale Kreationen in Ginas Art Studio zu bewundern. Nach dem Mittagessen enthüllt das Heimatmuseum Polperros dramatische Schmuggelvergangenheit. Eine kurze Fahrt führt zur historischen Kirche St. Tallan und Ihr Tag endet entspannt am Talland Sand.",
+        "hu": "Autós utazása egy frissítő megállóval kezdődik Polcoombe-ban, amely békés alaphangot ad a napnak. Irány a falu, ahol felfedezheti a részletes makettfalut, majd Gina stúdiójában a helyi alkotásokat. Ebéd után a helytörténeti múzeum tárja fel Polperro drámai csempészmúltját. Egy rövid autózás a történelmi St Tallan templomhoz vezet, majd a nap egy pihentető sétával zárul a Talland-homokparton.",
+        "ro": "Călătoria ta începe cu o oprire revigorantă la Polcoombe, dând un ton pașnic zilei. Mergi în sat pentru a explora satul de machete și a admira creațiile la studioul Ginei. După prânz, muzeul patrimoniului dezvăluie trecutul dramatic de contrabandă. O scurtă călătorie te duce la biserica istorică St Tallan, încheind ziua cu o plimbare relaxantă pe plaja Talland Sand.",
+        "en": "Your drive begins with a refreshing stop at Polcoombe, setting a peaceful tone for the day. Head into the village to explore the intricate model village and then admire local creations at Gina's Art Studio. After lunch, the heritage museum reveals Polperro's dramatic smuggling past. A short drive takes you to the historic St Tallan church, wrapping up your day with a relaxing stroll on Talland Sand."
+      }
+    }
+  }
+}

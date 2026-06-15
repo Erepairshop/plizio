@@ -1,0 +1,451 @@
+{
+  "city_id": "durango-city-cities-v2",
+  "anchor": {
+    "name": "Victoria de Durango",
+    "coords": [
+      -104.6533,
+      24.0277
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tunel de Minería",
+            "hu": "Tunel de Minería",
+            "ro": "Tunel de Minería",
+            "en": "Tunel de Minería"
+          },
+          "coords": [
+            -104.670039,
+            24.024009
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unterirdische Geschichte Durangos in diesem Bergbaustollen-Museum und tragen Sie unbedingt bequeme Schuhe für den unebenen Boden.",
+            "hu": "Fedezze fel Durango felszín alatti történelmét ebben a bányászati alagútmúzeumban, és mindenképpen kényelmes cipőt viseljen az egyenetlen talaj miatt.",
+            "ro": "Explorați istoria subterană a orașului Durango în acest muzeu tunel minier și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the subterranean history of Durango in this mining tunnel museum, and make sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Victoria",
+            "hu": "Teatro Victoria",
+            "ro": "Teatro Victoria",
+            "en": "Teatro Victoria"
+          },
+          "coords": [
+            -104.671522,
+            24.023957
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Theaters, einem kulturellen Zentrum, bei dem es empfehlenswert ist, den Spielplan im Voraus zu prüfen.",
+            "hu": "Csodálja meg e történelmi színház klasszikus építészetét, amely kulturális központként funkcionál, ezért érdemes előre ellenőrizni a helyi előadások műsorrendjét.",
+            "ro": "Admirați arhitectura clasică a acestui teatru istoric, un centru cultural unde verificarea în prealabil a programului de spectacole este foarte recomandată.",
+            "en": "Admire the classical architecture of this historic theater, a cultural hub where checking the local performance schedule in advance is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Bandera",
+            "hu": "Monumento a la Bandera",
+            "ro": "Monumento a la Bandera",
+            "en": "Monumento a la Bandera"
+          },
+          "coords": [
+            -104.68146,
+            24.021581
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für dieses patriotische Denkmal zu Ehren der mexikanischen Flagge, das Sie am besten im Morgenlicht fotografieren sollten.",
+            "hu": "Szánjon egy pillanatot erre a mexikói zászlónak emléket állító hazafias emlékműre, amelyet a legjobb fotózási körülmények érdekében reggeli fényben érdemes meglátogatni.",
+            "ro": "Acordați-vă un moment pentru a vedea acest monument patriotic dedicat drapelului mexican, vizitându-l ideal în lumina dimineții pentru cele mai bune condiții foto.",
+            "en": "Take a moment to view this patriotic monument commemorating the Mexican flag, ideally visiting during morning light for the best photography conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador",
+            "hu": "Mirador",
+            "ro": "Mirador",
+            "en": "Mirador"
+          },
+          "coords": [
+            -104.681802,
+            24.020464
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die Stadt von dieser natürlichen Aussichtsplattform und bringen Sie ein Zoomobjektiv mit, um die fernen Kolonialdächer zu fotografieren.",
+            "hu": "Élvezze a városra nyíló lenyűgöző panorámát erről a természetes kilátóról, és hozzon magával egy teleobjektívet, hogy megörökítse a távoli gyarmati tetőket.",
+            "ro": "Bucurați-vă de vederi panoramice ample ale orașului de pe această platformă naturală și aduceți un teleobiectiv pentru a surprinde detalii ale acoperișurilor coloniale îndepărtate.",
+            "en": "Enjoy sweeping panoramic views of the city from this natural observation deck, and bring a zoom lens to capture detailed shots of the distant colonial rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Tres Durango",
+            "hu": "Los Tres Durango",
+            "ro": "Los Tres Durango",
+            "en": "Los Tres Durango"
+          },
+          "coords": [
+            -104.682443,
+            24.024917
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser bedeutenden historischen Stätte zu Ehren des Erbes des Bundesstaates und lesen Sie die Informationstafeln, um die drei Epochen zu verstehen.",
+            "hu": "Zárja sétáját ezen az állam örökségét tisztelő jelentős történelmi helyszínen, és olvassa el az információs táblákat a három különböző korszak megértéséhez.",
+            "ro": "Încheiați plimbarea la acest sit istoric semnificativ care onorează moștenirea statului, citind plăcile informative pentru a înțelege cele trei epoci distincte reprezentate.",
+            "en": "Conclude your walk at this significant historical site honoring the state's heritage, reading the informational plaques fully to understand the three distinct eras represented."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Tag und tauchen im Tunel de Minería tief in die Wurzeln der Stadt ein.\n\nGegen Mittag bietet die klassische Eleganz des Teatro Victoria einen Einblick in Durangos lebendige künstlerische Vergangenheit.\n\nDer Nachmittag führt uns nach draußen, um das patriotische Monumento a la Bandera und atemberaubende Stadtansichten vom Mirador zu bewundern.\n\nWir beenden den Spaziergang besinnlich am Los Tres Durango und genießen die späte Nachmittagsstimmung, bevor der Abend hereinbricht.",
+        "hu": "Napunkat azzal kezdjük, hogy a Tunel de Minería révén elmélyedünk a város gyökereiben.\n\nAhogy közeledik a dél, a Teatro Victoria klasszikus eleganciája bepillantást enged Durango nyüzsgő művészeti múltjába.\n\nA délután a szabadba hív, hogy megcsodáljuk a hazafias Monumento a la Bandera-t és a Miradorról nyíló lenyűgöző városi kilátást.\n\nSétánkat a Los Tres Durango emlékműnél elmélkedve zárjuk, magunkba szívva a késő délutáni hangulatot, mielőtt leszáll az est.",
+        "ro": "Ne începem ziua explorând adânc rădăcinile orașului la Tunel de Minería.\n\nPe măsură ce se apropie amiaza, eleganța clasică a Teatrului Victoria oferă o privire în trecutul artistic vibrant al orașului Durango.\n\nDupă-amiaza ne scoate afară pentru a admira Monumento a la Bandera și priveliștile uimitoare ale orașului de la Mirador.\n\nÎncheiem plimbarea reflectând la Los Tres Durango, bucurându-ne de atmosfera de după-amiază târziu înainte de căderea serii.",
+        "en": "We start our day delving deep into the city's roots at the Tunel de Minería.\n\nAs noon approaches, the classic elegance of Teatro Victoria offers a glimpse into Durango's vibrant artistic past.\n\nThe afternoon brings us outside to admire the patriotic Monumento a la Bandera and stunning city vistas from the nearby Mirador.\n\nWe conclude the walk reflecting at Los Tres Durango, soaking in the late afternoon ambiance before evening falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Arte Funerario Benigno Montoya",
+            "hu": "Museo de Arte Funerario Benigno Montoya",
+            "ro": "Museo de Arte Funerario Benigno Montoya",
+            "en": "Museo de Arte Funerario Benigno Montoya"
+          },
+          "coords": [
+            -104.641477,
+            24.027062
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch dieses einzigartige Freilichtmuseum für Grabkunst und achten Sie auf die exquisiten Steinmetzarbeiten des Meisters Benigno Montoya.",
+            "hu": "Tekerjen végig ezen az egyedülálló, temetkezési művészetet bemutató szabadtéri múzeumon, különös figyelmet fordítva Benigno Montoya mester kőfaragásaira.",
+            "ro": "Pedalați prin acest muzeu unic în aer liber de artă funerară, acordând atenție deosebită sculpturilor în piatră realizate de maestrul Benigno Montoya.",
+            "en": "Pedal through this unique open-air museum of funerary art, paying close attention to the exquisite stone carvings created by master sculptor Benigno Montoya."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunel de Minería",
+            "hu": "Tunel de Minería",
+            "ro": "Tunel de Minería",
+            "en": "Tunel de Minería"
+          },
+          "coords": [
+            -104.670039,
+            24.024009
+          ],
+          "category": "museum",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen sicher ab, bevor Sie in die Bergbaugeschichte der Region hinabsteigen und nach Originalwerkzeugen früherer Schürfer Ausschau halten.",
+            "hu": "Zárja le biztonságosan kerékpárját odakint, mielőtt leereszkedne a régió bányásztörténelmébe, figyelve a korai aranyásók által használt eredeti szerszámokra.",
+            "ro": "Legați-vă bicicleta în siguranță afară înainte de a coborî în istoria minieră a regiunii, căutând uneltele originale folosite de primii prospectori.",
+            "en": "Lock your bike safely outside before descending into the mining history of the region, keeping an eye out for the original tools used by early prospectors."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Gral. Gpe. Victoria",
+            "hu": "Monumento al Gral. Gpe. Victoria",
+            "ro": "Monumento al Gral. Gpe. Victoria",
+            "en": "Monumento al Gral. Gpe. Victoria"
+          },
+          "coords": [
+            -104.657519,
+            24.035347
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Halten Sie an, um die beeindruckende Statue des ersten mexikanischen Präsidenten zu bewundern, und nutzen Sie den weiten Platz für eine kurze, entspannende Trinkpause.",
+            "hu": "Álljon meg, hogy megcsodálja Mexikó első elnökének tekintélyt parancsoló szobrát, és használja ki a tágas teret egy gyors és pihentető ivószünetre.",
+            "ro": "Opriți-vă pentru a admira statuia impunătoare a primului președinte al Mexicului, folosind piața largă din jurul monumentului pentru o pauză relaxantă de apă.",
+            "en": "Stop to admire the commanding statue of Mexico's first president, using the wide plaza around the monument for a quick and relaxing water break."
+          }
+        },
+        {
+          "name": {
+            "de": "450 aniversario",
+            "hu": "450 aniversario",
+            "ro": "450 aniversario",
+            "en": "450 aniversario"
+          },
+          "coords": [
+            -104.676182,
+            24.034608
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das moderne Gedenkdesign zur Stadtgründung, das besonders beeindruckend wirkt, wenn es aus einem niedrigen Winkel fotografiert wird.",
+            "hu": "Szánjon időt a város alapítását ünneplő modern emlékdesign megértésére, amely különösen feltűnő, ha alacsony szögből fényképezi.",
+            "ro": "Luați-vă timp pentru a înțelege designul comemorativ modern care celebrează fondarea orașului, deosebit de impresionant când este fotografiat dintr-un unghi scăzut.",
+            "en": "Take time to understand the modern commemorative design celebrating the city's foundation, which is particularly striking when photographed from a low angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Zologico Guadiana",
+            "hu": "Zologico Guadiana",
+            "ro": "Zologico Guadiana",
+            "en": "Zologico Guadiana"
+          },
+          "coords": [
+            -104.69138,
+            24.022563
+          ],
+          "category": "recreational",
+          "arrive_at": "15:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem grünen Erholungsgebiet, um die heimische Tierwelt zu beobachten. Kommen Sie früh genug, um die Tiere in den aktiveren Nachmittagsstunden zu erleben.",
+            "hu": "Kerékpározzon el ebbe a zöld rekreációs övezetbe a helyi vadvilág megfigyeléséhez, és érkezzen elég korán, hogy az állatokat az aktívabb délutáni órákban láthassa.",
+            "ro": "Ciclati spre această zonă de recreere verde pentru a vedea fauna locală, ajungând suficient de devreme pentru a surprinde animalele în orele lor de după-amiază mai active.",
+            "en": "Cycle towards this green recreational area to see local wildlife, arriving early enough to catch the animals during their more active afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Bebeleche",
+            "hu": "Museo Bebeleche",
+            "ro": "Museo Bebeleche",
+            "en": "Museo Bebeleche"
+          },
+          "coords": [
+            -104.691366,
+            24.021135
+          ],
+          "category": "museum",
+          "arrive_at": "17:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem interaktiven Museum, in dem sich Wissenschaft und Spaß treffen. Verpassen Sie nicht die wechselnden Sonderausstellungen.",
+            "hu": "Fejezze be kerékpártúráját ebben az interaktív múzeumban, ahol a tudomány és a szórakozás találkozik, és feltétlenül tekintse meg a havonta változó időszaki kiállításokat.",
+            "ro": "Terminați-vă turul cu bicicleta la acest muzeu interactiv unde știința și distracția se întâlnesc, asigurându-vă că vizitați expozițiile temporare care se schimbă la câteva luni.",
+            "en": "Finish your bike tour at this interactive museum where science and fun meet, ensuring you check out the temporary exhibitions that change every few months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten auf unseren Fahrrädern durch die ruhigen, von Statuen gesäumten Wege des Museo de Arte Funerario.\n\nVor dem Mittag tauchen wir im Tunel de Minería in die Erde ein, ein faszinierender Kontrast zum offenen Himmel.\n\nDie Nachmittagsfahrt führt uns vorbei an majestätischen historischen Denkmälern bis hin zum lebhaften und grünen Zologico Guadiana.\n\nWir beenden unseren energiegeladenen Tag am Museo Bebeleche und steigen ab, um bei Sonnenuntergang interaktiven Spaß zu genießen.",
+        "hu": "Kerékpárjainkkal a Museo de Arte Funerario nyugodt, szobrokkal szegélyezett ösvényein indulunk útnak.\n\nDél előtt leereszkedünk a föld alá a Tunel de Minería-ban, amely lenyűgöző kontrasztot nyújt a nyílt éggel szemben.\n\nA délutáni túra fenséges történelmi emlékművek mellett vezet el, egészen a nyüzsgő és zöld Zologico Guadianáig.\n\nEnergikus napunkat a Museo Bebeleche-nél fejezzük be, ahol leszállunk a kerékpárról, hogy élvezzük az interaktív szórakozást naplemente közben.",
+        "ro": "Pornim pe biciclete pe aleile liniștite, mărginite de statui, ale Muzeului de Artă Funerară.\n\nÎnainte de prânz, coborâm în pământ la Tunel de Minería, un contrast fascinant cu cerul liber.\n\nPlimbarea de după-amiază ne poartă pe lângă monumente istorice maiestuoase, conducând la Grădina Zoologică Guadiana, plină de viață și verdeață.\n\nNe încheiem ziua plină de energie la Museo Bebeleche, descălecând pentru a ne bucura de distracție interactivă pe măsură ce soarele apune.",
+        "en": "We set off on our bicycles through the serene, statue-lined paths of the Museo de Arte Funerario.\n\nBefore noon, we delve into the earth at the Tunel de Minería, a fascinating contrast to the open skies.\n\nThe afternoon ride takes us past majestic historical monuments, leading up to the lively and green Zologico Guadiana.\n\nWe end our energetic day at the Museo Bebeleche, dismounting to enjoy some interactive fun as the sun goes down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento de piedra",
+            "hu": "Monumento de piedra",
+            "ro": "Monumento de piedra",
+            "en": "Monumento de piedra"
+          },
+          "coords": [
+            -104.638118,
+            24.015549
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem alten Steindenkmal, um Ihre historische Tour zu beginnen, und nutzen Sie den kleinen angrenzenden Parkplatz, während Sie die Gegend erkunden.",
+            "hu": "Vezessen el ehhez az ősi kőemlékműhöz a történelmi túra megkezdéséhez, és használja a szomszédos kis parkolót, amíg biztonságosan felfedezi a területet.",
+            "ro": "Conduceți către acest vechi monument de piatră pentru a vă începe turul istoric, utilizând mica parcare adiacentă pentru a vă lăsa în siguranță vehiculul în timp ce explorați.",
+            "en": "Drive to this ancient stone monument to begin your historical tour, utilizing the small adjacent parking area to safely leave your vehicle while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte Funerario Benigno Montoya",
+            "hu": "Museo de Arte Funerario Benigno Montoya",
+            "ro": "Museo de Arte Funerario Benigno Montoya",
+            "en": "Museo de Arte Funerario Benigno Montoya"
+          },
+          "coords": [
+            -104.641477,
+            24.027062
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den monumentalen Friedhof, der für sein Mauerwerk bekannt ist, und tragen Sie bequeme Schuhe, um die unebenen Kieswege zwischen den Gräbern zu bewältigen.",
+            "hu": "Fedezze fel a lenyűgöző kőműves munkáiról ismert monumentális temetőt kényelmes sétacipőben, hogy könnyedén navigálhasson a sírok közötti kavicsos ösvényeken.",
+            "ro": "Explorați cimitirul monumental cunoscut pentru zidăria sa uimitoare, purtând pantofi comozi pentru a naviga pe aleile de pietriș uneori accidentate dintre morminte.",
+            "en": "Explore the monumental cemetery known for its stunning masonry, wearing comfortable walking shoes to navigate the intricate and sometimes uneven gravel pathways between tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Luis Donaldo Colosio",
+            "hu": "Monumento a Luis Donaldo Colosio",
+            "ro": "Monumento a Luis Donaldo Colosio",
+            "en": "Monumento a Luis Donaldo Colosio"
+          },
+          "coords": [
+            -104.657729,
+            24.04326
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser modernen Hommage an den beliebten mexikanischen Politiker und lesen Sie die Zitate, die seine Vision für ein geeintes Land hervorheben.",
+            "hu": "Tartson szünetet a szeretett mexikói politikus előtti modern tisztelgésnél, és feltétlenül olvassa el a feliratokat, amelyek egy egyesült országról szóló vízióját hangsúlyozzák.",
+            "ro": "Faceți o pauză la acest tribut modern adus iubitului politician mexican, asigurându-vă că citiți citatele înscrise care îi evidențiază viziunea pentru o țară unită.",
+            "en": "Pause at this modern tribute to the beloved Mexican politician, making sure to read the inscribed quotes that highlight his vision for a united country."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Durango",
+            "hu": "Teatro Durango",
+            "ro": "Teatro Durango",
+            "en": "Teatro Durango"
+          },
+          "coords": [
+            -104.684619,
+            24.03022
+          ],
+          "category": "cultural",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie in der Nähe dieses markanten modernen Theaters an, um seine imposante Fassade zu bewundern, die eine perfekte Kulisse für ein Foto am Mittag bietet.",
+            "hu": "Húzódjon félre a modern színház közelében, hogy megcsodálja annak impozáns homlokzatát, amely tökéletes hátteret nyújt egy déli fotóhoz az utazás folytatása előtt.",
+            "ro": "Trageți pe dreapta lângă acest teatru modern proeminent pentru a-i admira fațada impunătoare, un fundal perfect pentru o fotografie la mijlocul zilei înainte de a continua drumul.",
+            "en": "Pull over near this prominent modern theater to admire its imposing facade, a perfect backdrop for a mid-day photo before continuing your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumental Flag",
+            "hu": "Monumental Flag",
+            "ro": "Monumental Flag",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -104.70305,
+            24.032181
+          ],
+          "category": "historical",
+          "arrive_at": "14:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Blicken Sie ehrfürchtig auf die riesige Nationalflagge, die mächtig im Wind weht; sie ist leicht von der Hauptstraße aus erreichbar und ein kurzer, aber sehr eindrucksvoller Stopp.",
+            "hu": "Nézzen fel áhítattal a szélben erőteljesen lobogó hatalmas nemzeti zászlóra, amely a főútról könnyen megközelíthető, így egy gyors, de rendkívül hatásos megálló.",
+            "ro": "Priviți cu uimire imensul drapel național care flutură puternic în vânt, ușor accesibil de la drumul principal, făcându-l o oprire rapidă, dar profund de impact.",
+            "en": "Look up in awe at the massive national flag waving powerfully in the wind, easily accessible from the main road making it a quick but deeply impactful stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Bebeleche",
+            "hu": "Museo Bebeleche",
+            "ro": "Museo Bebeleche",
+            "en": "Museo Bebeleche"
+          },
+          "coords": [
+            -104.691366,
+            24.021135
+          ],
+          "category": "museum",
+          "arrive_at": "14:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour in diesem weitläufigen interaktiven Zentrum und nutzen Sie den großen Parkplatz vor Ort, um einen entspannten Nachmittag mit Wissenschaftsausstellungen zu genießen.",
+            "hu": "Fejezze be autós túráját ebben a kiterjedt interaktív központban, kihasználva a nagy helyszíni parkolót, hogy élvezze a tudományos kiállítások nyújtotta kellemes délutánt.",
+            "ro": "Încheiați-vă turul cu mașina la acest centru interactiv vast, profitând de parcarea mare de la fața locului pentru a vă bucura de o după-amiază de expoziții științifice pe îndelete.",
+            "en": "End your driving tour at this expansive interactive center, taking advantage of the large on-site parking lot to enjoy a leisurely afternoon of science exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unser Autoabenteuer mit einer ruhigen Besinnung am alten Monumento de piedra, das den historischen Ton für den Tag angibt.\n\nAuf unserer Weiterreise bietet die kunstvolle Grabkunst von Benigno Montoya vor der Mittagshitze ein atemberaubendes Nebeneinander von Leben und Kunst.\n\nDie Nachmittagsfahrt führt an markanten Denkmälern und der auffälligen modernen Architektur des Teatro Durango vorbei und verbindet verschiedene Epochen des Stadtwachstums.\n\nWir schließen ab, indem wir die kolossale Monumental Flagge bestaunen und am interaktiven Museo Bebeleche entspannen, während die Dämmerung naht.",
+        "hu": "Autós kalandunkat egy csendes elmélkedéssel kezdjük az ősi Monumento de piedra-nál, megadva a nap történelmi alaphangját.\n\nUtazásunkat folytatva, Benigno Montoya bonyolult temetkezési művészete az élet és a művészet lélegzetelállító egymásra helyezését kínálja a déli hőség előtt.\n\nA délutáni autózás kiemelkedő emlékművek és a Teatro Durango lenyűgöző modern építészete mellett halad el, ötvözve a városfejlődés korszakait.\n\nZárásként megcsodáljuk a kolosszális Monumentális Zászlót, majd a sötétedés közeledtével az interaktív Museo Bebeleche-ben kapcsolódunk ki.",
+        "ro": "Ne începem aventura auto cu o reflecție liniștită la vechiul Monumento de piatră, stabilind un ton istoric pentru ziua respectivă.\n\nContinuându-ne călătoria, arta funerară complexă a lui Benigno Montoya oferă o juxtapunere uluitoare a vieții și artei înainte de căldura amiezii.\n\nDrumul de după-amiază trece pe lângă memoriale proeminente și arhitectura modernă impresionantă a Teatrului Durango, îmbinând epocile de creștere a orașului.\n\nÎncheiem minunându-ne de colosalul Drapel Monumental și relaxându-ne la Muzeul interactiv Bebeleche pe măsură ce se apropie amurgul.",
+        "en": "We start our driving adventure with a quiet reflection at the ancient Monumento de piedra, setting a historical tone for the day.\n\nContinuing our journey, the intricate funerary art of Benigno Montoya offers a breathtaking juxtaposition of life and art before the midday heat.\n\nThe afternoon drive sweeps past prominent memorials and the striking modern architecture of Teatro Durango, blending eras of city growth.\n\nWe conclude by marveling at the colossal Monumental Flag and unwinding at the interactive Museo Bebeleche as dusk approaches."
+      }
+    }
+  }
+}

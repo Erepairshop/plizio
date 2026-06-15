@@ -1,0 +1,520 @@
+{
+  "city_id": "france-penvern-cities-v2",
+  "anchor": {
+    "name": "Penvern",
+    "coords": [
+      -3.55688,
+      48.79066
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 2.62,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de l'Armor",
+            "hu": "Menhir de l'Armor",
+            "ro": "Menhir de l'Armor",
+            "en": "Menhir de l'Armor"
+          },
+          "coords": [
+            -3.56346,
+            48.791063
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Menhir de l'Armor, einen alten stehenden Stein keltischen Erbes; kommen Sie früh, um störungsfreie Fotos im weichen Licht zu machen.",
+            "hu": "Csodálja meg a kelta örökséget őrző Menhir de l'Armor ősi állókövét, és érkezzen korán, hogy tömeg nélkül fotózhasson a lágy reggeli fényekben.",
+            "ro": "Admirați Menhir de l'Armor, o piatră străveche ce reflectă moștenirea celtică; vizitați devreme pentru a face fotografii fără aglomerație în lumina blândă.",
+            "en": "Admire the striking Menhir de l'Armor, an ancient standing stone reflecting Celtic heritage; visit early to take crowd-free photos in soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte de Prajou-Menhir",
+            "hu": "Allée Couverte de Prajou-Menhir",
+            "ro": "Allée Couverte de Prajou-Menhir",
+            "en": "Allée Couverte de Prajou-Menhir"
+          },
+          "coords": [
+            -3.564697,
+            48.794914
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende neolithische Galeriegrab mit seinen Bestattungsriten, und bringen Sie eine Taschenlampe für die Innengravuren mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus folyosósírt, amely őskori temetkezési szokásokat tár fel; hozzon zseblámpát a belső faragások megtekintéséhez.",
+            "ro": "Explorați acest mormânt neolitic fascinant care dezvăluie obiceiuri funerare preistorice și aduceți o lanternă pentru a vedea clar sculpturile interioare.",
+            "en": "Explore this fascinating Neolithic gallery grave that unveils prehistoric burial customs, and bring a flashlight to see the interior carvings clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Run ar Gam",
+            "hu": "Menhir de Run ar Gam",
+            "ro": "Menhir de Run ar Gam",
+            "en": "Menhir de Run ar Gam"
+          },
+          "coords": [
+            -3.570112,
+            48.792346
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem hochragenden Menhir de Run ar Gam, einem einsamen Megalithen; tragen Sie festes Schuhwerk, da das umliegende Gelände sehr uneben ist.",
+            "hu": "Álljon meg a tájat uraló, magányos Menhir de Run ar Gam megalit előtt, és viseljen túracipőt, mivel a környező terep meglehetősen egyenetlen és sziklás.",
+            "ro": "Stați în fața impunătorului Menhir de Run ar Gam, un megalit solitar din peisaj; purtați încălțăminte robustă, deoarece terenul înconjurător este denivelat.",
+            "en": "Stand before the towering Menhir de Run ar Gam, a solitary megalith dominating the landscape; wear sturdy shoes as the surrounding terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Dourlin",
+            "hu": "Plage du Dourlin",
+            "ro": "Plage du Dourlin",
+            "en": "Plage du Dourlin"
+          },
+          "coords": [
+            -3.585662,
+            48.79924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden der Plage du Dourlin, perfekt für die Meeresbrise; packen Sie ein leichtes Picknick ein, um die Wellen zu genießen.",
+            "hu": "Pihenjen a Plage du Dourlin homokos partján, amely tökéletes a tengerparti szellő élvezetéhez; vigyen magával egy könnyű pikniket a hullámok mellé.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale Plage du Dourlin, perfecte pentru briza coastei; împachetați un picnic ușor pentru a vă bucura privind valurile.",
+            "en": "Relax on the sandy shores of Plage du Dourlin, perfect for enjoying the coastal breeze; pack a light picnic to enjoy while watching the rhythmic waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Castel Erek",
+            "hu": "Plage de Castel Erek",
+            "ro": "Plage de Castel Erek",
+            "en": "Plage de Castel Erek"
+          },
+          "coords": [
+            -3.58534,
+            48.8023
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an der Plage de Castel Erek, einem Strand mit markanten Felsformationen; kommen Sie vor Sonnenuntergang, um die Farben zu erleben.",
+            "hu": "Zárja a napot a drámai sziklaalakzatairól ismert Plage de Castel Erek strandján; érkezzen naplemente előtt, hogy lássa az ég vibráló alkonyati színeit.",
+            "ro": "Încheiați ziua la Plage de Castel Erek, o plajă pitorească cu stânci dramatice; ajungeți înainte de apus pentru a surprinde culorile vibrante ale cerului.",
+            "en": "End your day at Plage de Castel Erek, a scenic beach known for its dramatic rock formations; arrive before sunset to catch the sky's vibrant twilight colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem Spaziergang zum Menhir de l'Armor, wo Sie in die alte keltische Vergangenheit eintauchen.\n\nBis zum Mittag entdecken Sie prähistorische Geheimnisse an der Allée Couverte de Prajou-Menhir und bestaunen den Menhir de Run ar Gam.\n\nDer Nachmittag lädt zum Entspannen am weichen Sandstrand der Plage du Dourlin ein.\n\nWenn der Abend naht, beobachten Sie den Sonnenuntergang über den Felsen der Plage de Castel Erek.",
+        "hu": "A reggel egy sétával indul a Menhir de l'Armor felé, ahol rögtön elmerülhet a régió ősi kelta múltjában.\n\nDélben őskori titkokat fedezhet fel az Allée Couverte de Prajou-Menhirnél, majd megcsodálhatja a Menhir de Run ar Gam kőoszlopát.\n\nA délután pihenésre csábít a Plage du Dourlin megnyugtató, homokos partjainál.\n\nAz este közeledtével nézze meg a naplementét a Plage de Castel Erek drámai sziklái felett, csodásan zárva a napot.",
+        "ro": "Dimineața începe cu o plimbare spre Menhir de l'Armor, pășind direct în trecutul celtic antic al regiunii.\n\nPână la prânz, veți descoperi secrete preistorice la Allée Couverte de Prajou-Menhir și veți admira Menhir de Run ar Gam.\n\nDupă-amiaza vă invită să vă relaxați la nisipurile liniștitoare de coastă ale Plage du Dourlin.\n\nPe măsură ce se lasă seara, priviți apusul peste stâncile de la Plage de Castel Erek, încheind ziua frumos.",
+        "en": "Your morning begins with a stroll to Menhir de l'Armor, stepping right into the region's ancient Celtic past.\n\nBy midday, you'll uncover prehistoric secrets at the Allée Couverte de Prajou-Menhir and marvel at Menhir de Run ar Gam.\n\nThe afternoon invites you to relax as you reach the soothing coastal sands of Plage du Dourlin.\n\nAs evening approaches, watch the sun set over the dramatic rocks at Plage de Castel Erek, ending your journey beautifully."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 4.66,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            -3.564437,
+            48.769261
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die schöne Église de la Sainte-Trinité der bretonischen Architektur; treten Sie leise ein, um die filigranen Buntglasfenster zu betrachten.",
+            "hu": "Látogasson el a gyönyörű Église de la Sainte-Trinité templomba a breton építészetért; lépjen be halkan, hogy megcsodálhassa a bonyolult ólomüveg ablakokat.",
+            "ro": "Vizitați frumoasa Église de la Sainte-Trinité pentru arhitectura religioasă bretonă; pășiți încet înăuntru pentru a admira vitraliile complicate.",
+            "en": "Visit the beautiful Église de la Sainte-Trinité to appreciate classic Breton religious architecture; step inside quietly to view the intricate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Christ",
+            "hu": "Chapelle du Christ",
+            "ro": "Chapelle du Christ",
+            "en": "Chapelle du Christ"
+          },
+          "coords": [
+            -3.566444,
+            48.772237
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Chapelle du Christ, ein friedliches Heiligtum; nehmen Sie sich einen Moment Zeit, um auf der nahegelegenen Bank nachzudenken.",
+            "hu": "Fedezze fel a furcsa Chapelle du Christ kápolnát, egy békés szentélyt; üljön le egy pillanatra a közeli padra egy kis csendes, nyugodt elmélkedésre.",
+            "ro": "Descoperiți pitoreasca Chapelle du Christ, un sanctuar pașnic plin de tradiții locale; acordați-vă un moment pe banca din apropiere pentru contemplare.",
+            "en": "Discover the quaint Chapelle du Christ, a peaceful sanctuary steeped in local lore; take a moment to sit on the nearby bench for quiet contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kerariou",
+            "hu": "Menhir de Kerariou",
+            "ro": "Menhir de Kerariou",
+            "en": "Menhir de Kerariou"
+          },
+          "coords": [
+            -3.567078,
+            48.778218
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Menhir de Kerariou, der die prähistorischen Wurzeln der Region zeigt; lesen Sie die kleine Informationstafel in der Nähe für den Kontext.",
+            "hu": "Csodálja meg a Menhir de Kerariou-t, amely a régió őskori gyökereit mutatja be; olvassa el a közeli kis információs táblát a történelmi kontextusért.",
+            "ro": "Minunați-vă de Menhir de Kerariou, ce prezintă rădăcinile preistorice ale regiunii; citiți mica placă informativă din apropiere pentru contextul istoric.",
+            "en": "Marvel at the Menhir de Kerariou, showcasing the region's deep prehistoric roots; check out the small informational plaque nearby for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Milin ar Lann",
+            "hu": "Menhir de Milin ar Lann",
+            "ro": "Menhir de Milin ar Lann",
+            "en": "Menhir de Milin ar Lann"
+          },
+          "coords": [
+            -3.562796,
+            48.781095
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Betrachten Sie den Menhir de Milin ar Lann, ein faszinierendes Monument inmitten der Natur; treten Sie vorsichtig auf, um die empfindliche Flora zu schonen.",
+            "hu": "Figyelje meg a Menhir de Milin ar Lann lenyűgöző őskori emlékművét a természet lágy ölén; lépkedjen óvatosan, hogy megóvja a törékeny növényzetet.",
+            "ro": "Observați Menhir de Milin ar Lann, un monument preistoric fascinant în mijlocul naturii; pășiți cu grijă în jur pentru a păstra vegetația fragilă intactă.",
+            "en": "Observe the Menhir de Milin ar Lann, a fascinating prehistoric monument amidst nature; tread carefully around the site to preserve the fragile vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de l'Armor",
+            "hu": "Menhir de l'Armor",
+            "ro": "Menhir de l'Armor",
+            "en": "Menhir de l'Armor"
+          },
+          "coords": [
+            -3.56346,
+            48.791063
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Menhir de l'Armor, einen alten stehenden Stein keltischen Erbes; kommen Sie früh, um störungsfreie Fotos im weichen Licht zu machen.",
+            "hu": "Csodálja meg a kelta örökséget őrző Menhir de l'Armor ősi állókövét, és érkezzen korán, hogy tömeg nélkül fotózhasson a lágy reggeli fényekben.",
+            "ro": "Admirați Menhir de l'Armor, o piatră străveche ce reflectă moștenirea celtică; vizitați devreme pentru a face fotografii fără aglomerație în lumina blândă.",
+            "en": "Admire the striking Menhir de l'Armor, an ancient standing stone reflecting Celtic heritage; visit early to take crowd-free photos in soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte de Prajou-Menhir",
+            "hu": "Allée Couverte de Prajou-Menhir",
+            "ro": "Allée Couverte de Prajou-Menhir",
+            "en": "Allée Couverte de Prajou-Menhir"
+          },
+          "coords": [
+            -3.564697,
+            48.794914
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende neolithische Galeriegrab mit seinen Bestattungsriten, und bringen Sie eine Taschenlampe für die Innengravuren mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus folyosósírt, amely őskori temetkezési szokásokat tár fel; hozzon zseblámpát a belső faragások megtekintéséhez.",
+            "ro": "Explorați acest mormânt neolitic fascinant care dezvăluie obiceiuri funerare preistorice și aduceți o lanternă pentru a vedea clar sculpturile interioare.",
+            "en": "Explore this fascinating Neolithic gallery grave that unveils prehistoric burial customs, and bring a flashlight to see the interior carvings clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Castel Erek",
+            "hu": "Plage de Castel Erek",
+            "ro": "Plage de Castel Erek",
+            "en": "Plage de Castel Erek"
+          },
+          "coords": [
+            -3.58534,
+            48.8023
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.65,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an der Plage de Castel Erek, einem Strand mit markanten Felsformationen; kommen Sie vor Sonnenuntergang, um die Farben zu erleben.",
+            "hu": "Zárja a napot a drámai sziklaalakzatairól ismert Plage de Castel Erek strandján; érkezzen naplemente előtt, hogy lássa az ég vibráló alkonyati színeit.",
+            "ro": "Încheiați ziua la Plage de Castel Erek, o plajă pitorească cu stânci dramatice; ajungeți înainte de apus pentru a surprinde culorile vibrante ale cerului.",
+            "en": "End your day at Plage de Castel Erek, a scenic beach known for its dramatic rock formations; arrive before sunset to catch the sky's vibrant twilight colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der eleganten Église de la Sainte-Trinité und der friedlichen Chapelle du Christ.\n\nMittags fahren Sie durch die üppige Landschaft zu Steinen wie dem Menhir de Kerariou und Milin ar Lann.\n\nAm Nachmittag radeln Sie vorbei am Menhir de l'Armor und zur faszinierenden Allée Couverte de Prajou-Menhir.\n\nBeenden Sie Ihre Tour an der Plage de Castel Erek, wo die Wellen eine ruhige Abendkulisse bieten.",
+        "hu": "Indítsa kerékpáros kalandját az elegáns Église de la Sainte-Trinité-nél és a békés Chapelle du Christ kápolnánál.\n\nA délután a zöldellő vidéken át vezet, ahol olyan fenséges kövekkel találkozik, mint a Menhir de Kerariou és a Milin ar Lann.\n\nKésőbb tekerjen el a Menhir de l'Armor mellett, és fedezze fel a Prajou-Menhir folyosósírt.\n\nZárja az utat a Plage de Castel Erek strandján, ahol a hullámok ritmusa békés esti hátteret biztosít.",
+        "ro": "Începeți aventura pe bicicletă la eleganta Église de la Sainte-Trinité și la pașnica Chapelle du Christ.\n\nLa prânz, traversați peisajul rural luxuriant, întâlnind pietre maiestuoase precum Menhir de Kerariou și Milin ar Lann.\n\nDupă-amiaza, pedalați pe lângă Menhir de l'Armor și explorați fascinanta Allée Couverte de Prajou-Menhir.\n\nÎncheiați cursa la Plage de Castel Erek, unde valurile ritmice oferă un fundal senin de seară.",
+        "en": "Kick off your biking adventure at the elegant Église de la Sainte-Trinité and the peaceful Chapelle du Christ.\n\nMidday takes you through the lush countryside, encountering majestic stones like Menhir de Kerariou and Milin ar Lann.\n\nIn the afternoon, pedal past Menhir de l'Armor and delve into the fascinating Allée Couverte de Prajou-Menhir.\n\nConclude your ride at Plage de Castel Erek, where the rhythmic waves provide a serene evening backdrop."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:43",
+      "total_km": 5.75,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            -3.564437,
+            48.769261
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die schöne Église de la Sainte-Trinité der bretonischen Architektur; treten Sie leise ein, um die filigranen Buntglasfenster zu betrachten.",
+            "hu": "Látogasson el a gyönyörű Église de la Sainte-Trinité templomba a breton építészetért; lépjen be halkan, hogy megcsodálhassa a bonyolult ólomüveg ablakokat.",
+            "ro": "Vizitați frumoasa Église de la Sainte-Trinité pentru arhitectura religioasă bretonă; pășiți încet înăuntru pentru a admira vitraliile complicate.",
+            "en": "Visit the beautiful Église de la Sainte-Trinité to appreciate classic Breton religious architecture; step inside quietly to view the intricate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Bonne-Nouvelle",
+            "hu": "Menhir de Bonne-Nouvelle",
+            "ro": "Menhir de Bonne-Nouvelle",
+            "en": "Menhir de Bonne-Nouvelle"
+          },
+          "coords": [
+            -3.578516,
+            48.77612
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Inspizieren Sie den Menhir de Bonne-Nouvelle, einen Megalithen mit einem hoffnungsvollen Namen; besuchen Sie ihn zur goldenen Stunde für beste Fotos.",
+            "hu": "Vizsgálja meg a reménykeltő nevű Menhir de Bonne-Nouvelle érdekes megalitját; látogasson el az aranyórában, hogy a legjobb fényben örökítse meg a textúráját.",
+            "ro": "Inspectați Menhir de Bonne-Nouvelle, un megalit intrigant cu un nume plin de speranță; vizitați-l în timpul orei de aur pentru a-i surprinde textura.",
+            "en": "Inspect the Menhir de Bonne-Nouvelle, an intriguing megalith with a hopeful name; visit during the golden hour to capture its texture in the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Kerellec",
+            "hu": "Dolmen de Kerellec",
+            "ro": "Dolmen de Kerellec",
+            "en": "Dolmen de Kerellec"
+          },
+          "coords": [
+            -3.581352,
+            48.775931
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie den beeindruckenden Dolmen de Kerellec, ein bemerkenswertes Steingrab; nähern Sie sich von Süden, um die beste Perspektive auf den Deckstein zu haben.",
+            "hu": "Nézze meg a lenyűgöző Dolmen de Kerellec neolitikus kősírt; közelítse meg a déli oldalról, hogy a legjobb rálátása legyen a hatalmas fedőkőre és szerkezetre.",
+            "ro": "Vedeți impresionantul Dolmen de Kerellec, un mormânt remarcabil din piatră; apropiați-vă din partea de sud pentru a obține cea mai bună perspectivă.",
+            "en": "See the impressive Dolmen de Kerellec, a remarkable Neolithic stone tomb; approach from the southern side to get the best perspective of its capstone."
+          }
+        },
+        {
+          "name": {
+            "de": "plage de Roc'h Ar Skoed",
+            "hu": "plage de Roc'h Ar Skoed",
+            "ro": "plage de Roc'h Ar Skoed",
+            "en": "plage de Roc'h Ar Skoed"
+          },
+          "coords": [
+            -3.584805,
+            48.779901
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der Plage de Roc'h Ar Skoed, einem versteckten Küstenjuwel; prüfen Sie vorher die Gezeiten, um die besten abgelegenen Orte zu erreichen.",
+            "hu": "Kapcsolódjon ki a lenyűgöző, zord kilátást nyújtó plage de Roc'h Ar Skoed rejtett tengerpartján; előzetesen ellenőrizze az árapály-menetrendet a hozzáférésért.",
+            "ro": "Relaxați-vă la plage de Roc'h Ar Skoed, o bijuterie de coastă cu priveliști uimitoare; verificați programul mareelor pentru a accesa cele mai bune locuri.",
+            "en": "Unwind at plage de Roc'h Ar Skoed, a hidden coastal gem with stunning rugged views; check the tide schedule beforehand to access the best secluded spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Toëno",
+            "hu": "Menhir du Toëno",
+            "ro": "Menhir du Toëno",
+            "en": "Menhir du Toëno"
+          },
+          "coords": [
+            -3.578766,
+            48.787774
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Menhir du Toëno, eine robuste Steinsäule nahe der Küste; tragen Sie eine Windjacke, da die Meeresbrise hier überraschend frisch sein kann.",
+            "hu": "Fedezze fel a tengerpart közelében őrt álló Menhir du Toëno robusztus kőoszlopát; viseljen széldzsekit, mivel a parti szellő itt meglepően élénk lehet.",
+            "ro": "Explorați Menhir du Toëno, un stâlp de piatră robust ce stă de pază lângă coastă; purtați o geacă de vânt, deoarece briza mării poate fi destul de aspră.",
+            "en": "Explore the Menhir du Toëno, a robust stone pillar standing guard near the coast; wear a windbreaker as the coastal breezes here can be surprisingly brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Run ar Gam",
+            "hu": "Menhir de Run ar Gam",
+            "ro": "Menhir de Run ar Gam",
+            "en": "Menhir de Run ar Gam"
+          },
+          "coords": [
+            -3.570112,
+            48.792346
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem hochragenden Menhir de Run ar Gam, einem einsamen Megalithen; tragen Sie festes Schuhwerk, da das umliegende Gelände sehr uneben ist.",
+            "hu": "Álljon meg a tájat uraló, magányos Menhir de Run ar Gam megalit előtt, és viseljen túracipőt, mivel a környező terep meglehetősen egyenetlen és sziklás.",
+            "ro": "Stați în fața impunătorului Menhir de Run ar Gam, un megalit solitar din peisaj; purtați încălțăminte robustă, deoarece terenul înconjurător este denivelat.",
+            "en": "Stand before the towering Menhir de Run ar Gam, a solitary megalith dominating the landscape; wear sturdy shoes as the surrounding terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte de Prajou-Menhir",
+            "hu": "Allée Couverte de Prajou-Menhir",
+            "ro": "Allée Couverte de Prajou-Menhir",
+            "en": "Allée Couverte de Prajou-Menhir"
+          },
+          "coords": [
+            -3.564697,
+            48.794914
+          ],
+          "category": "historical",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende neolithische Galeriegrab mit seinen Bestattungsriten, und bringen Sie eine Taschenlampe für die Innengravuren mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus folyosósírt, amely őskori temetkezési szokásokat tár fel; hozzon zseblámpát a belső faragások megtekintéséhez.",
+            "ro": "Explorați acest mormânt neolitic fascinant care dezvăluie obiceiuri funerare preistorice și aduceți o lanternă pentru a vedea clar sculpturile interioare.",
+            "en": "Explore this fascinating Neolithic gallery grave that unveils prehistoric burial customs, and bring a flashlight to see the interior carvings clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Dourlin",
+            "hu": "Plage du Dourlin",
+            "ro": "Plage du Dourlin",
+            "en": "Plage du Dourlin"
+          },
+          "coords": [
+            -3.585662,
+            48.79924
+          ],
+          "category": "recreational",
+          "arrive_at": "17:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.59,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden der Plage du Dourlin, perfekt für die Meeresbrise; packen Sie ein leichtes Picknick ein, um die Wellen zu genießen.",
+            "hu": "Pihenjen a Plage du Dourlin homokos partján, amely tökéletes a tengerparti szellő élvezetéhez; vigyen magával egy könnyű pikniket a hullámok mellé.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale Plage du Dourlin, perfecte pentru briza coastei; împachetați un picnic ușor pentru a vă bucura privind valurile.",
+            "en": "Relax on the sandy shores of Plage du Dourlin, perfect for enjoying the coastal breeze; pack a light picnic to enjoy while watching the rhythmic waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der wunderschönen Église de la Sainte-Trinité, bevor Sie den Menhir de Bonne-Nouvelle entdecken.\n\nIhre Fahrt am Mittag führt Sie zum beeindruckenden Dolmen de Kerellec und den Ufern der Plage de Roc'h Ar Skoed.\n\nVerbringen Sie den Nachmittag mit der Erkundung der Küstenmegalithen und der Allée Couverte de Prajou-Menhir.\n\nIhr Tag endet perfekt mit einem abendlichen Sonnenuntergangsspaziergang an der Plage du Dourlin.",
+        "hu": "Kezdje az autózást a csodás Église de la Sainte-Trinité építészetének megcsodálásával, majd irány a Menhir de Bonne-Nouvelle.\n\nA déli órákban a lenyűgöző Dolmen de Kerellechez és a plage de Roc'h Ar Skoed festői partjaihoz vezet az útja.\n\nA délutánt a tengerparti megalitok és a hatalmas Prajou-Menhir folyosósír felfedezésével töltheti.\n\nA nap egy tökéletes esti sétával zárul a pihentető Plage du Dourlin finom homokos partján, csodálva a naplementét.",
+        "ro": "Începeți plimbarea cu mașina admirând arhitectura frumoasă a Église de la Sainte-Trinité, înainte de a descoperi Menhir de Bonne-Nouvelle.\n\nLa prânz, conduceți spre impresionantul Dolmen de Kerellec și țărmurile pitorești ale plage de Roc'h Ar Skoed.\n\nPetreceți după-amiaza explorând megaliții de coastă, inclusiv Menhir du Toëno și masiva Allée Couverte de Prajou-Menhir.\n\nZiua se încheie perfect cu o plimbare de seară la apus de-a lungul relaxantei Plage du Dourlin.",
+        "en": "Start your drive admiring the beautiful architecture of Église de la Sainte-Trinité before uncovering the Menhir de Bonne-Nouvelle.\n\nYour midday drive brings you to the impressive Dolmen de Kerellec and the picturesque shores of plage de Roc'h Ar Skoed.\n\nSpend the afternoon exploring coastal megaliths, including Menhir du Toëno and the massive Allée Couverte de Prajou-Menhir.\n\nYour day concludes perfectly with an evening sunset stroll along the relaxing Plage du Dourlin."
+      }
+    }
+  }
+}

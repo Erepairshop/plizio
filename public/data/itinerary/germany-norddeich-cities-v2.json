@@ -1,0 +1,589 @@
+{
+  "city_id": "germany-norddeich-cities-v2",
+  "anchor": {
+    "name": "Norddeich",
+    "coords": [
+      7.16111,
+      53.6172
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 1.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rettungsschuppen Norddeich",
+            "hu": "Rettungsschuppen Norddeich",
+            "ro": "Rettungsschuppen Norddeich",
+            "en": "Rettungsschuppen Norddeich"
+          },
+          "coords": [
+            7.159556,
+            53.621841
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
+            "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
+            "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünstrand",
+            "hu": "Grünstrand",
+            "ro": "Grünstrand",
+            "en": "Grünstrand"
+          },
+          "coords": [
+            7.151539,
+            53.618966
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
+            "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
+            "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand",
+            "hu": "Sandstrand",
+            "ro": "Sandstrand",
+            "en": "Sandstrand"
+          },
+          "coords": [
+            7.149118,
+            53.616489
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
+            "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
+            "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Twister (Rückentrainer)",
+            "hu": "Twister (Rückentrainer)",
+            "ro": "Twister (Rückentrainer)",
+            "en": "Twister (Rückentrainer)"
+          },
+          "coords": [
+            7.155712,
+            53.615682
+          ],
+          "category": "landmark",
+          "arrive_at": "13:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
+            "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
+            "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+          }
+        },
+        {
+          "name": {
+            "de": "Stehwippe",
+            "hu": "Stehwippe",
+            "ro": "Stehwippe",
+            "en": "Stehwippe"
+          },
+          "coords": [
+            7.154715,
+            53.616124
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
+            "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Steine",
+            "hu": "Steine",
+            "ro": "Steine",
+            "en": "Steine"
+          },
+          "coords": [
+            7.158167,
+            53.613122
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
+            "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
+            "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Wasserstrudel",
+            "hu": "Der Wasserstrudel",
+            "ro": "Der Wasserstrudel",
+            "en": "Der Wasserstrudel"
+          },
+          "coords": [
+            7.158913,
+            53.612195
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
+            "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
+            "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in die maritime Geschichte im örtlichen Rettungsschuppen. Mittags spazieren Sie an den weitläufigen Grün- und Sandstränden entlang und atmen die reine Nordseeluft ein. Der Nachmittag lädt dazu ein, sich an den Outdoor-Installationen wie dem Twister zu vergnügen. Der Abend klingt an den Steinen und Wasserstrudeln der Küste aus.",
+        "hu": "A reggel a helyi tengeri mentőtörténelem felfedezésével kezdődik a régi fészerben. Délben a tágas zöld és homokos strandokon sétálva szívhatja magába az Északi-tenger tiszta levegőjét. A délután játékos szabadtéri installációk, mint a Twister és az álló libikóka kipróbálására csábít. Az este a drámai parti kövek és a vízi örvények közelében zárul.",
+        "ro": "Dimineața începe cu o scufundare profundă în istoria maritimă la șopronul local de salvare. La prânz, vă veți plimba de-a lungul plajelor verzi și nisipoase, respirând aerul pur al Mării Nordului. După-amiaza vă invită să interacționați cu instalațiile de exterior precum Twister. Seara se încheie lângă pietrele dramatice și vârtejurile de maree.",
+        "en": "Morning begins with a deep dive into maritime history at the local rescue shed. By midday, you'll be strolling along the expansive green and sandy beaches, taking in the pure North Sea air. Afternoon invites you to engage with playful outdoor installations like the Twister and standing seesaw. Evening concludes near the dramatic stones and tidal whirlpools along the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 2.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rettungsschuppen Norddeich",
+            "hu": "Rettungsschuppen Norddeich",
+            "ro": "Rettungsschuppen Norddeich",
+            "en": "Rettungsschuppen Norddeich"
+          },
+          "coords": [
+            7.159556,
+            53.621841
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
+            "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
+            "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünstrand",
+            "hu": "Grünstrand",
+            "ro": "Grünstrand",
+            "en": "Grünstrand"
+          },
+          "coords": [
+            7.151539,
+            53.618966
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
+            "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
+            "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand",
+            "hu": "Sandstrand",
+            "ro": "Sandstrand",
+            "en": "Sandstrand"
+          },
+          "coords": [
+            7.149118,
+            53.616489
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
+            "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
+            "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand",
+            "hu": "Hundestrand",
+            "ro": "Hundestrand",
+            "en": "Hundestrand"
+          },
+          "coords": [
+            7.147311,
+            53.614968
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, der auch tolle Fotomotive von spielenden Haustieren am Meer bietet.",
+            "hu": "Hagyja szabadon kóborolni négylábú barátait ezen a kijelölt kutyastrandon, amely nagyszerű fotózási lehetőségeket is kínál a játékos háziállatokról.",
+            "ro": "Lăsați prietenii cu patru picioare să alerge liber pe această plajă dedicată câinilor, care oferă și oportunități excelente de fotografiere.",
+            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Twister (Rückentrainer)",
+            "hu": "Twister (Rückentrainer)",
+            "ro": "Twister (Rückentrainer)",
+            "en": "Twister (Rückentrainer)"
+          },
+          "coords": [
+            7.155712,
+            53.615682
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
+            "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
+            "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+          }
+        },
+        {
+          "name": {
+            "de": "Stehwippe",
+            "hu": "Stehwippe",
+            "ro": "Stehwippe",
+            "en": "Stehwippe"
+          },
+          "coords": [
+            7.154715,
+            53.616124
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
+            "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Steine",
+            "hu": "Steine",
+            "ro": "Steine",
+            "en": "Steine"
+          },
+          "coords": [
+            7.158167,
+            53.613122
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
+            "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
+            "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Wasserstrudel",
+            "hu": "Der Wasserstrudel",
+            "ro": "Der Wasserstrudel",
+            "en": "Der Wasserstrudel"
+          },
+          "coords": [
+            7.158913,
+            53.612195
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
+            "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
+            "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in den Morgen und erfahren Sie im historischen Schuppen alles über Küstenrettungen. Der Mittag bietet entspannende Pausen auf dem Grünstrand und am Sandstrand. Nachmittags radeln Sie zu den skurrilen Fitness-Stationen. Am Ende des Tages können Sie Ihr Fahrrad an den Steinen abstellen und das Wasser beobachten.",
+        "hu": "Kezdje a reggelt tekeréssel, és ismerje meg a parti mentést a történelmi fészerben. A dél lazító megállókat kínál a zöld pázsiton és a homokos parton. Délután furcsa fitneszpontok felé kerekezik. A nap végén parkolja le kerékpárját a hullámtörő köveknél, és nézze a tenger örvénylését.",
+        "ro": "Pedalați dimineața învățând despre salvările pe coastă la șopronul istoric. Prânzul oferă opriri relaxante de-a lungul peluzelor verzi și ale plajelor de nisip. După-amiaza, veți pedala spre locurile de fitness inedite. Pe măsură ce ziua se încheie, parcați bicicleta lângă pietre pentru a privi marea.",
+        "en": "Pedal into the morning learning about coastal rescues at the historic shed. Midday offers relaxing stops along both the green lawns and sandy stretches of the shoreline, including a playful dog beach. In the afternoon, you'll cycle towards the quirky fitness spots. As the day ends, park your bike by the breakwater stones to watch the sea swirl."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rettungsschuppen Norddeich",
+            "hu": "Rettungsschuppen Norddeich",
+            "ro": "Rettungsschuppen Norddeich",
+            "en": "Rettungsschuppen Norddeich"
+          },
+          "coords": [
+            7.159556,
+            53.621841
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
+            "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
+            "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grünstrand",
+            "hu": "Grünstrand",
+            "ro": "Grünstrand",
+            "en": "Grünstrand"
+          },
+          "coords": [
+            7.151539,
+            53.618966
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
+            "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
+            "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand",
+            "hu": "Sandstrand",
+            "ro": "Sandstrand",
+            "en": "Sandstrand"
+          },
+          "coords": [
+            7.149118,
+            53.616489
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
+            "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
+            "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand",
+            "hu": "Hundestrand",
+            "ro": "Hundestrand",
+            "en": "Hundestrand"
+          },
+          "coords": [
+            7.147311,
+            53.614968
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, der auch tolle Fotomotive von spielenden Haustieren am Meer bietet.",
+            "hu": "Hagyja szabadon kóborolni négylábú barátait ezen a kijelölt kutyastrandon, amely nagyszerű fotózási lehetőségeket is kínál a játékos háziállatokról.",
+            "ro": "Lăsați prietenii cu patru picioare să alerge liber pe această plajă dedicată câinilor, care oferă și oportunități excelente de fotografiere.",
+            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Twister (Rückentrainer)",
+            "hu": "Twister (Rückentrainer)",
+            "ro": "Twister (Rückentrainer)",
+            "en": "Twister (Rückentrainer)"
+          },
+          "coords": [
+            7.155712,
+            53.615682
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
+            "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
+            "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+          }
+        },
+        {
+          "name": {
+            "de": "Stehwippe",
+            "hu": "Stehwippe",
+            "ro": "Stehwippe",
+            "en": "Stehwippe"
+          },
+          "coords": [
+            7.154715,
+            53.616124
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
+            "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Steine",
+            "hu": "Steine",
+            "ro": "Steine",
+            "en": "Steine"
+          },
+          "coords": [
+            7.158167,
+            53.613122
+          ],
+          "category": "landmark",
+          "arrive_at": "14:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
+            "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
+            "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Wasserstrudel",
+            "hu": "Der Wasserstrudel",
+            "ro": "Der Wasserstrudel",
+            "en": "Der Wasserstrudel"
+          },
+          "coords": [
+            7.158913,
+            53.612195
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
+            "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
+            "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch des Schifffahrtsmuseums. Die Mittagszeit ist ideal für kurze Fahrten zwischen den Stränden von Norddeich. Am späten Nachmittag können Sie sich an den Outdoor-Fitness-Wahrzeichen die Beine vertreten. Beenden Sie Ihre Küstenfahrt mit einem Abend an den mächtigen Wasserstrudeln.",
+        "hu": "Kezdje autós túráját egy reggeli látogatással a tengerészeti múzeumban. A dél tökéletes a Norddeich különböző strandjai közötti rövid ugrásokhoz. Késő délután nyújtsa ki a lábát a szabadtéri fitneszpontokon. Fejezze be tengerparti utazását azzal, hogy este a hatalmas árapály-örvényeket figyeli a köveknél.",
+        "ro": "Începeți turul cu mașina cu o vizită de dimineață la muzeul maritim. Prânzul este perfect pentru salturi scurte între diferitele plaje din Norddeich. La sfârșitul după-amiezii, întindeți-vă picioarele la punctele de fitness în aer liber. Încheiați-vă plimbarea pe coastă cu o seară privind vârtejurile puternice de maree.",
+        "en": "Start your driving tour with a morning visit to the maritime museum. Midday is perfect for short hops between the distinct green, sandy, and dog-friendly beaches of Norddeich. In the late afternoon, stretch your legs at the outdoor fitness landmarks. Finish your coastal drive with an evening watching the powerful tidal whirlpools near the rocky breakwaters."
+      }
+    }
+  }
+}

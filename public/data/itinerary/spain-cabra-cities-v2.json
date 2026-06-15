@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-cabra-cities-v2",
+  "anchor": {
+    "name": "Cabra",
+    "coords": [
+      -4.446567,
+      37.471016
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 1.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg der Grafen von Cabra",
+            "hu": "Cabra grófjainak kastélya",
+            "ro": "Castelul Conților de Cabra",
+            "en": "Castle of the Counts of Cabra"
+          },
+          "coords": [
+            -4.446849,
+            37.471666
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Festung, um jahrhundertelange Verteidigungsarchitektur zu entdecken, und besteigen Sie die alten Mauern früh am Tag für die besten Fotos.",
+            "hu": "Fedezze fel ezt az impozáns történelmi erődöt, amely évszázados védelmi építészetet rejt, és a legjobb panorámaképekért kora reggel másszon fel az ősi falakra.",
+            "ro": "Explorați această fortăreață istorică impunătoare pentru a descoperi secole de arhitectură defensivă și urcați pe zidurile vechi la primele ore pentru cele mai bune fotografii.",
+            "en": "Explore this imposing historic fortress to uncover centuries of defensive architecture, and climb the ancient walls early in the day for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirador de la Paz",
+            "hu": "Mirador de la Paz kilátó",
+            "ro": "Punctul de belvedere Mirador de la Paz",
+            "en": "Mirador de la Paz Viewpoint"
+          },
+          "coords": [
+            -4.449042,
+            37.469738
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ruhigen Aussichtspunkt mit weitem Blick auf die andalusische Landschaft und bringen Sie eine Flasche Wasser für eine erfrischende Pause auf den Bänken mit.",
+            "hu": "Töltsön el egy percet ezen a békés kilátóponton, amely lenyűgöző kilátást nyújt az andalúz tájra, és hozzon magával egy üveg vizet a padokon való frissítő pihenéshez.",
+            "ro": "Răgaz la acest punct de belvedere liniștit ce oferă panorame uimitoare ale peisajului andaluz, aducând o sticlă de apă pentru o pauză răcoritoare pe băncile umbrite.",
+            "en": "Take a moment at this tranquil viewpoint offering stunning vistas of the Andalusian landscape, and bring a small bottle of water to enjoy a refreshing break on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturgesellschaft Círculo de la Amistad",
+            "hu": "Círculo de la Amistad Kulturális Társaság",
+            "ro": "Societatea Culturală Círculo de la Amistad",
+            "en": "Círculo de la Amistad Cultural Society"
+          },
+          "coords": [
+            -4.444856,
+            37.471746
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Innenräume dieser historischen Kulturgesellschaft, die Cabras elegante Vergangenheit widerspiegelt, und sprechen Sie leise, da dies ein aktiver Treffpunkt ist.",
+            "hu": "Csodálja meg ennek a történelmi kulturális társaságnak a díszes belső tereit, amely Cabra elegáns múltját tükrözi, és halkan beszéljen, mivel ez ma is aktív találkozóhely.",
+            "ro": "Admirați interioarele bogat ornamentate ale acestei societăți culturale istorice care reflectă trecutul elegant al orașului Cabra, dar vorbiți încet deoarece este un loc activ de întâlnire.",
+            "en": "Admire the ornate interiors of this historic cultural society that reflects Cabra's elegant past, and remember to speak softly as it remains an active meeting place for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            -4.442717,
+            37.472116
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie bemerkenswerte Artefakte aus der römischen und maurischen Zeit der Region und fragen Sie das Personal nach der Broschüre, um die filigranen Mosaike zu schätzen.",
+            "hu": "Fedezzen fel a régió ókori római és mór korszakát bemutató figyelemre méltó leleteket, és feltétlenül kérjen angol nyelvű tájékoztatót a finom mozaikok teljes megértéséhez.",
+            "ro": "Descoperiți artefacte remarcabile ce detaliază epocile romană și maură ale regiunii, asigurându-vă că cereți pliantul tradus pentru a aprecia pe deplin mozaicurile delicate.",
+            "en": "Discover remarkable artifacts detailing the region's ancient Roman and Moorish eras, making sure to ask the staff for the English leaflet to fully appreciate the delicate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Lebensmittelmarkt",
+            "hu": "Városi Élelmiszerpiac",
+            "ro": "Piața Alimentară Municipală",
+            "en": "Municipal Food Market"
+          },
+          "coords": [
+            -4.439951,
+            37.474342
+          ],
+          "category": "landmark",
+          "arrive_at": "14:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen belebten traditionellen Markt, um den authentischen Alltag zu erleben, und kaufen Sie etwas lokales Olivenöl oder frischen iberischen Schinken als perfekten Snack.",
+            "hu": "Sétáljon végig ezen a nyüzsgő hagyományos piacon, hogy megtapasztalja a mindennapi életet, és vásároljon helyi olívaolajat vagy friss ibériai sonkát a középső standoknál egy tökéletes falatozáshoz.",
+            "ro": "Plimbați-vă prin această piață tradițională plină de viață pentru a simți cotidianul autentic și cumpărați ulei de măsline local sau șuncă iberică proaspătă de la tarabele centrale.",
+            "en": "Wander through this bustling traditional market to experience authentic daily life, and purchase some local olive oil or fresh Iberian ham from the central stalls for a perfect snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Aguilar y Eslava",
+            "hu": "Aguilar y Eslava Múzeum",
+            "ro": "Muzeul Aguilar y Eslava",
+            "en": "Aguilar y Eslava Museum"
+          },
+          "coords": [
+            -4.44008,
+            37.472102
+          ],
+          "category": "museum",
+          "arrive_at": "15:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Bildungsstiftungen Spaniens mit einer reichen naturhistorischen Sammlung und beginnen Sie Ihren Besuch im Erdgeschoss für den chronologischen Rundgang.",
+            "hu": "Fedezze fel Spanyolország egyik legrégebbi oktatási alapítványát, amely gazdag természettudományi gyűjteménnyel rendelkezik, és kezdje a látogatást a földszinten a kiállítások időrendi követéséhez.",
+            "ro": "Explorați una dintre cele mai vechi fundații educaționale din Spania cu o colecție bogată de istorie naturală, începând vizita la parter pentru a urma evoluția cronologică a exponatelor.",
+            "en": "Explore one of Spain's oldest educational foundations containing a rich natural history collection, and start your visit on the ground floor to follow the chronological evolution of the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater El Jardinito",
+            "hu": "El Jardinito Színház",
+            "ro": "Teatrul El Jardinito",
+            "en": "El Jardinito Theater"
+          },
+          "coords": [
+            -4.437904,
+            37.469374
+          ],
+          "category": "cultural",
+          "arrive_at": "16:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Linien dieses Kulturzentrums für darstellende Künste und prüfen Sie frühzeitig an der Abendkasse, ob Sie Tickets für eine Abendvorstellung ergattern können.",
+            "hu": "Értékelje a modern építészeti vonalakat ebben az előadóművészeteknek szentelt kulturális központban, és ellenőrizze korán a jegypénztárat, hátha tud jegyet szerezni egy esti előadásra.",
+            "ro": "Apreciați liniile arhitecturale moderne ale acestui centru cultural dedicat artelor spectacolului și verificați devreme casa de bilete pentru a prinde locuri la o reprezentație de seară.",
+            "en": "Appreciate the modern architectural lines of this cultural hub dedicated to the performing arts, and check the box office early to see if you can secure tickets for an evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der festen Mauern des Castillo, gefolgt von der ruhigen Aussicht am Mirador de la Paz. Am Mittag bewundern Sie das kulturelle Erbe im Círculo de la Amistad und die römische Geschichte im Museo Arqueológico. Der Nachmittag bringt einen Sinneswandel; probieren Sie lokale Produkte auf dem Mercado Municipal, bevor Sie das Museo Aguilar y Eslava besuchen. Ihr Abend endet mit einem entspannten Spaziergang zum Teatro El Jardinito, der die moderne kulturelle Lebendigkeit der Stadt in der Abenddämmerung einfängt.",
+        "hu": "Kezdje a reggelt a Castillo falainak felfedezésével, majd élvezze a Mirador de la Paz békés kilátását. A dél közeledtével csodálja meg a Círculo de la Amistad kulturális örökségét és a Museo Arqueológico római történelmét. A délután érzéki váltást hoz; kóstolja meg a helyi termékeket a nyüzsgő Mercado Municipalban, mielőtt bővítené ismereteit a Museo Aguilar y Eslavában. Az este egy pihentető sétával zárul a Teatro El Jardinito felé, tökéletesen megragadva a város modern kulturális pezsgését alkonyatkor.",
+        "ro": "Începeți dimineața explorând zidurile robuste ale Castillo-ului, urmat de priveliștile senine de la Mirador de la Paz. La prânz, admirați moștenirea culturală din Círculo de la Amistad și istoria romană de la Museo Arqueológico. După-amiaza aduce o schimbare senzorială; savurați produsele locale la Mercado Municipal înainte de a vă îmbogăți cunoștințele la Museo Aguilar y Eslava. Seara se încheie cu o plimbare relaxantă spre Teatro El Jardinito, capturând perfect vibrația culturală modernă a orașului la lăsarea întunericului.",
+        "en": "Start your morning delving into Cabra's rich past by exploring the sturdy walls of the Castillo, followed by the nearby serene views at Mirador de la Paz. Midday approaches as you admire the cultural heritage inside Círculo de la Amistad and unravel Roman history at the Museo Arqueológico. The afternoon brings a sensory shift; savor the local produce at the bustling Mercado Municipal before enriching your knowledge at the esteemed Museo Aguilar y Eslava. Your evening concludes with a relaxed stroll towards Teatro El Jardinito, perfectly capturing the city's modern cultural vibrancy as dusk settles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 4.26,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Interpretationszentrum des Olivenölzugs",
+            "hu": "Olívaolaj-vasút Látogatóközpont",
+            "ro": "Centrul de Interpretare a Trenului Uleiului",
+            "en": "Olive Oil Train Interpretation Center"
+          },
+          "coords": [
+            -4.424353,
+            37.474498
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem thematischen Zentrum alles über die faszinierende Geschichte der lokalen Olivenöl-Eisenbahnstrecke und mieten Sie sich ein Fahrrad, um einen kurzen Abschnitt zu befahren.",
+            "hu": "Ismerje meg a helyi olívaolaj-vasútvonal lenyűgöző történetét ebben a tematikus központban, és béreljen kerékpárt a közeli boltban, hogy bejárja a helyreállított zöldút egy rövid szakaszát.",
+            "ro": "Aflați despre istoria fascinantă a traseului feroviar local al uleiului de măsline în acest centru tematic și închiriați o bicicletă de la magazinul din apropiere pentru a parcurge un scurt segment.",
+            "en": "Learn about the fascinating history of the local olive oil railway route at this thematic center, and rent a bicycle from the nearby shop to ride a short section of the restored greenway."
+          }
+        },
+        {
+          "name": {
+            "de": "Jura Cabra Museum",
+            "hu": "Jura-kori Cabra Múzeum",
+            "ro": "Muzeul Jurasic Cabra",
+            "en": "Jurassic Cabra Museum"
+          },
+          "coords": [
+            -4.427832,
+            37.475553
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie in prähistorische Zeiten ein mit beeindruckenden Meeresfossilien aus den lokalen Bergen, und ermutigen Sie Ihre Kinder, am interaktiven Ausgrabungssandkasten teilzunehmen.",
+            "hu": "Merüljön el a történelem előtti időkben a helyi hegyekben talált lenyűgöző tengeri kövületek segítségével, és ösztönözze a gyerekeket, hogy vegyenek részt az alsó szinten található interaktív ásatásban.",
+            "ro": "Scufundați-vă în preistorie printre fosilele marine impresionante descoperite în munții locali și încurajați-vă copiii să participe la săpăturile interactive în nisip de la parter.",
+            "en": "Dive into prehistoric times with impressive marine fossils found in the local mountains, and encourage your children to participate in the interactive excavation sandpit on the lower floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtischer Lebensmittelmarkt",
+            "hu": "Városi Élelmiszerpiac",
+            "ro": "Piața Alimentară Municipală",
+            "en": "Municipal Food Market"
+          },
+          "coords": [
+            -4.439951,
+            37.474342
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen belebten traditionellen Markt, um den authentischen Alltag zu erleben, und kaufen Sie etwas lokales Olivenöl oder frischen iberischen Schinken als perfekten Snack.",
+            "hu": "Sétáljon végig ezen a nyüzsgő hagyományos piacon, hogy megtapasztalja a mindennapi életet, és vásároljon helyi olívaolajat vagy friss ibériai sonkát a középső standoknál egy tökéletes falatozáshoz.",
+            "ro": "Plimbați-vă prin această piață tradițională plină de viață pentru a simți cotidianul autentic și cumpărați ulei de măsline local sau șuncă iberică proaspătă de la tarabele centrale.",
+            "en": "Wander through this bustling traditional market to experience authentic daily life, and purchase some local olive oil or fresh Iberian ham from the central stalls for a perfect snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            -4.442717,
+            37.472116
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie bemerkenswerte Artefakte aus der römischen und maurischen Zeit der Region und fragen Sie das Personal nach der Broschüre, um die filigranen Mosaike zu schätzen.",
+            "hu": "Fedezzen fel a régió ókori római és mór korszakát bemutató figyelemre méltó leleteket, és feltétlenül kérjen angol nyelvű tájékoztatót a finom mozaikok teljes megértéséhez.",
+            "ro": "Descoperiți artefacte remarcabile ce detaliază epocile romană și maură ale regiunii, asigurându-vă că cereți pliantul tradus pentru a aprecia pe deplin mozaicurile delicate.",
+            "en": "Discover remarkable artifacts detailing the region's ancient Roman and Moorish eras, making sure to ask the staff for the English leaflet to fully appreciate the delicate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg der Grafen von Cabra",
+            "hu": "Cabra grófjainak kastélya",
+            "ro": "Castelul Conților de Cabra",
+            "en": "Castle of the Counts of Cabra"
+          },
+          "coords": [
+            -4.446849,
+            37.471666
+          ],
+          "category": "castle",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Festung, um jahrhundertelange Verteidigungsarchitektur zu entdecken, und besteigen Sie die alten Mauern früh am Tag für die besten Fotos.",
+            "hu": "Fedezze fel ezt az impozáns történelmi erődöt, amely évszázados védelmi építészetet rejt, és a legjobb panorámaképekért kora reggel másszon fel az ősi falakra.",
+            "ro": "Explorați această fortăreață istorică impunătoare pentru a descoperi secole de arhitectură defensivă și urcați pe zidurile vechi la primele ore pentru cele mai bune fotografii.",
+            "en": "Explore this imposing historic fortress to uncover centuries of defensive architecture, and climb the ancient walls early in the day for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt der Kinder Park",
+            "hu": "Gyermekek Városa Park",
+            "ro": "Parcul Orașul Copiilor",
+            "en": "City of Children Park"
+          },
+          "coords": [
+            -4.448492,
+            37.473636
+          ],
+          "category": "park",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen, familienfreundlichen Park voller kreativer Spielstrukturen und Grünflächen, wo ein Platz auf dem Grashügel den besten Aussichtspunkt während der Pause bietet.",
+            "hu": "Pihenjen meg ebben a hatalmas, családbarát parkban, amely tele van kreatív játszóterekkel, ahol a füves dombon elfoglalt hely nyújtja a legjobb kilátást a pihenéshez.",
+            "ro": "Relaxați-vă în acest parc vast dedicat familiilor, plin de structuri de joacă creative și spații verzi, unde ocuparea unui loc pe dealul înierbat oferă cel mai bun punct de observație.",
+            "en": "Relax in this expansive family-friendly park filled with creative play structures and green spaces, where grabbing a spot on the grassy hill provides the best vantage point while resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa des Mithras",
+            "hu": "Mithras Római Villa",
+            "ro": "Vila Romană a lui Mithras",
+            "en": "Roman Villa of Mithras"
+          },
+          "coords": [
+            -4.45906,
+            37.488379
+          ],
+          "category": "historical",
+          "arrive_at": "17:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.88,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser alten römischen Villa, die für ihre exquisiten mythologischen Statuen berühmt ist, und gehen Sie vorsichtig auf den Wegen, um die empfindliche archäologische Stätte zu erhalten.",
+            "hu": "Csodálja meg a kiváló mitológiai szobrairól híres ókori római villa maradványait, és óvatosan sétáljon a kijelölt ösvényeken, hogy megőrizze a kényes régészeti lelőhelyet.",
+            "ro": "Minunați-vă de rămășițele acestei vile romane antice faimoase pentru statuile sale mitologice rafinate și mergeți cu grijă pe cărările marcate pentru a conserva situl arheologic delicat.",
+            "en": "Marvel at the remains of this ancient Roman villa famous for its exquisite mythological statues, and walk carefully along the demarcated paths to preserve the delicate archaeological site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt aktiv im Interpretationszentrum Tren del Aceite, gefolgt von einem Sprung in die Vorgeschichte im Cabra Jurásica. Mittags radeln Sie ins Zentrum, um sich an den Ständen des Mercado Municipal zu stärken, und tauchen im Museo Arqueológico in alte Artefakte ein. Am Nachmittag fahren Sie zum großen Castillo de los Condes de Cabra und machen eine Pause in der Ciudad de los Niños. Gegen Abend erreichen Sie die Außenbezirke, um die legendären römischen Überreste der Villa del Mitra zu bestaunen.",
+        "hu": "Kerékpáros napja aktívan indul a Tren del Aceite központban, amelyet a Cabra Jurásica történelem előtti világának felfedezése követ. Délben tekerjen a központba, hogy a Mercado Municipal standjainál felfrissüljön, majd merüljön el az ókori leletekben a Museo Arqueológicóban. Délután látogasson el a hatalmas Castillo de los Condes de Cabra épületéhez, és tartson egy pihentető szünetet a Ciudad de los Niños zöldterületein. Estefelé elér a külvárosba, hogy megcsodálja a Villa del Mitra legendás római kori maradványait.",
+        "ro": "Ziua de ciclism începe activ la centrul Tren del Aceite, urmată de o incursiune fascinantă în preistorie la Cabra Jurásica. La prânz, pedalați spre centru pentru a vă reface forțele la Mercado Municipal, apoi cufundați-vă în artefactele antice la Museo Arqueológico. După-amiaza, urcați spre mărețul Castillo de los Condes de Cabra și faceți o pauză relaxantă la Ciudad de los Niños. Pe înserat, veți ajunge la periferie pentru a vă minuna de legendarele vestigii romane ale Villa del Mitra.",
+        "en": "Your cycling day starts actively at the Tren del Aceite interpretation center, tracing the old railway lines, followed by a fascinating dive into prehistory at Cabra Jurásica. By midday, pedal to the center to refuel among the stalls of the Mercado Municipal, then immerse yourself in ancient artifacts at the nearby Museo Arqueológico. In the afternoon, ride up to the grand Castillo de los Condes de Cabra and take a relaxing break in the green spaces of Ciudad de los Niños. As evening falls, you will reach the outskirts to marvel at the legendary Roman remains of Villa del Mitra."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 5.26,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Villa des Mithras",
+            "hu": "Mithras Római Villa",
+            "ro": "Vila Romană a lui Mithras",
+            "en": "Roman Villa of Mithras"
+          },
+          "coords": [
+            -4.45906,
+            37.488379
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser alten römischen Villa, die für ihre exquisiten mythologischen Statuen berühmt ist, und gehen Sie vorsichtig auf den Wegen, um die empfindliche archäologische Stätte zu erhalten.",
+            "hu": "Csodálja meg a kiváló mitológiai szobrairól híres ókori római villa maradványait, és óvatosan sétáljon a kijelölt ösvényeken, hogy megőrizze a kényes régészeti lelőhelyet.",
+            "ro": "Minunați-vă de rămășițele acestei vile romane antice faimoase pentru statuile sale mitologice rafinate și mergeți cu grijă pe cărările marcate pentru a conserva situl arheologic delicat.",
+            "en": "Marvel at the remains of this ancient Roman villa famous for its exquisite mythological statues, and walk carefully along the demarcated paths to preserve the delicate archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg der Grafen von Cabra",
+            "hu": "Cabra grófjainak kastélya",
+            "ro": "Castelul Conților de Cabra",
+            "en": "Castle of the Counts of Cabra"
+          },
+          "coords": [
+            -4.446849,
+            37.471666
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Festung, um jahrhundertelange Verteidigungsarchitektur zu entdecken, und besteigen Sie die alten Mauern früh am Tag für die besten Fotos.",
+            "hu": "Fedezze fel ezt az impozáns történelmi erődöt, amely évszázados védelmi építészetet rejt, és a legjobb panorámaképekért kora reggel másszon fel az ősi falakra.",
+            "ro": "Explorați această fortăreață istorică impunătoare pentru a descoperi secole de arhitectură defensivă și urcați pe zidurile vechi la primele ore pentru cele mai bune fotografii.",
+            "en": "Explore this imposing historic fortress to uncover centuries of defensive architecture, and climb the ancient walls early in the day for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturgesellschaft Círculo de la Amistad",
+            "hu": "Círculo de la Amistad Kulturális Társaság",
+            "ro": "Societatea Culturală Círculo de la Amistad",
+            "en": "Círculo de la Amistad Cultural Society"
+          },
+          "coords": [
+            -4.444856,
+            37.471746
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Innenräume dieser historischen Kulturgesellschaft, die Cabras elegante Vergangenheit widerspiegelt, und sprechen Sie leise, da dies ein aktiver Treffpunkt ist.",
+            "hu": "Csodálja meg ennek a történelmi kulturális társaságnak a díszes belső tereit, amely Cabra elegáns múltját tükrözi, és halkan beszéljen, mivel ez ma is aktív találkozóhely.",
+            "ro": "Admirați interioarele bogat ornamentate ale acestei societăți culturale istorice care reflectă trecutul elegant al orașului Cabra, dar vorbiți încet deoarece este un loc activ de întâlnire.",
+            "en": "Admire the ornate interiors of this historic cultural society that reflects Cabra's elegant past, and remember to speak softly as it remains an active meeting place for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Aguilar y Eslava",
+            "hu": "Aguilar y Eslava Múzeum",
+            "ro": "Muzeul Aguilar y Eslava",
+            "en": "Aguilar y Eslava Museum"
+          },
+          "coords": [
+            -4.44008,
+            37.472102
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Bildungsstiftungen Spaniens mit einer reichen naturhistorischen Sammlung und beginnen Sie Ihren Besuch im Erdgeschoss für den chronologischen Rundgang.",
+            "hu": "Fedezze fel Spanyolország egyik legrégebbi oktatási alapítványát, amely gazdag természettudományi gyűjteménnyel rendelkezik, és kezdje a látogatást a földszinten a kiállítások időrendi követéséhez.",
+            "ro": "Explorați una dintre cele mai vechi fundații educaționale din Spania cu o colecție bogată de istorie naturală, începând vizita la parter pentru a urma evoluția cronologică a exponatelor.",
+            "en": "Explore one of Spain's oldest educational foundations containing a rich natural history collection, and start your visit on the ground floor to follow the chronological evolution of the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Interpretationszentrum des Olivenölzugs",
+            "hu": "Olívaolaj-vasút Látogatóközpont",
+            "ro": "Centrul de Interpretare a Trenului Uleiului",
+            "en": "Olive Oil Train Interpretation Center"
+          },
+          "coords": [
+            -4.424353,
+            37.474498
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem thematischen Zentrum alles über die faszinierende Geschichte der lokalen Olivenöl-Eisenbahnstrecke und mieten Sie sich ein Fahrrad, um einen kurzen Abschnitt zu befahren.",
+            "hu": "Ismerje meg a helyi olívaolaj-vasútvonal lenyűgöző történetét ebben a tematikus központban, és béreljen kerékpárt a közeli boltban, hogy bejárja a helyreállított zöldút egy rövid szakaszát.",
+            "ro": "Aflați despre istoria fascinantă a traseului feroviar local al uleiului de măsline în acest centru tematic și închiriați o bicicletă de la magazinul din apropiere pentru a parcurge un scurt segment.",
+            "en": "Learn about the fascinating history of the local olive oil railway route at this thematic center, and rent a bicycle from the nearby shop to ride a short section of the restored greenway."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Auditorium Alcalde Juan Muñoz",
+            "hu": "Alcalde Juan Muñoz Városi Auditórium",
+            "ro": "Auditoriul Municipal Alcalde Juan Muñoz",
+            "en": "Alcalde Juan Muñoz Municipal Auditorium"
+          },
+          "coords": [
+            -4.423462,
+            37.465735
+          ],
+          "category": "cultural",
+          "arrive_at": "15:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses moderne Freiluft-Auditorium, das lebhafte Sommerkonzerte beherbergt, und besuchen Sie es am späten Nachmittag, um die interessante akustische Architektur bei untergehender Sonne zu bewundern.",
+            "hu": "Fedezze fel ezt a modern szabadtéri nézőteret, amely nyüzsgő nyári koncerteknek ad otthont, és látogasson el késő délután, hogy megcsodálja az érdekes akusztikai építészetet a lemenő nap fényében.",
+            "ro": "Explorați acest auditorium modern în aer liber ce găzduiește concerte de vară vibrante și vizitați-l spre seară pentru a admira arhitectura acustică interesantă sub soarele la apus.",
+            "en": "Explore this modern open-air auditorium that hosts vibrant summer concerts and local festivals, and visit during the late afternoon to admire the interesting acoustic architecture under the setting sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserspiele für Kinder",
+            "hu": "Gyermek Vízi Játékok",
+            "ro": "Jocuri Acvatice pentru Copii",
+            "en": "Children's Water Games"
+          },
+          "coords": [
+            -4.423247,
+            37.464678
+          ],
+          "category": "recreational",
+          "arrive_at": "16:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder in diesem lebhaften Wasserparkbereich planschen, der speziell für kleine Kinder konzipiert wurde, aber denken Sie an rutschfeste Wasserschuhe für die nassen Oberflächen.",
+            "hu": "Hagyja, hogy a gyerek csobbanjanak ebben a kifejezetten kisgyermekek számára kialakított élénk vízi parkban, de ne felejtsen el csúszásmentes vízi cipőt hozni a nedves felületek miatt.",
+            "ro": "Lăsați copiii să se bălăcească în această zonă animată a parcului acvatic, destinată celor mici, dar nu uitați să aduceți încălțăminte de apă antiderapantă deoarece suprafețele pot fi alunecoase.",
+            "en": "Let your kids splash around in this lively water park area designed specifically for young children, but remember to bring non-slip water shoes as the wet surfaces can get quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der historischen Villa del Mitra und fahren Sie dann zur befestigten Castillo de los Condes de Cabra. Mittags spazieren Sie durch die eleganten Säle des Círculo de la Amistad und erkunden die naturkundlichen Sammlungen im Museo Aguilar y Eslava. Ihre Nachmittagsfahrt führt Sie zum Zentrum Tren del Aceite, gefolgt von der beeindruckenden Form des Auditorio Municipal. Der Tag klingt im Freizeitwasserpark aus, perfekt für einen lebhaften Familienabend vor dem Abendessen.",
+        "hu": "Kezdje autós túráját a történelmi Villa del Mitránál, majd induljon el a megerősített Castillo de los Condes de Cabra felé. Délben sétáljon végig a Círculo de la Amistad elegáns termeiben, és fedezze fel a Museo Aguilar y Eslava gyűjteményeit. Délutáni útja a Tren del Aceite központba vezet, majd az Auditorio Municipal lenyűgöző építészeti formáját csodálhatja meg. A nap a vízi vidámparkban ér véget, amely tökéletes egy élénk, vacsora előtti családi estéhez.",
+        "ro": "Începeți turul cu mașina la istorica Villa del Mitra, îndreptându-vă apoi spre fortăreața Castillo de los Condes de Cabra. În jurul prânzului, plimbați-vă prin sălile elegante ale Círculo de la Amistad și explorați colecțiile de la Museo Aguilar y Eslava. Conducerea de după-amiază vă duce la centrul Tren del Aceite, urmată de forma arhitecturală impresionantă a Auditorio Municipal. Ziua se încheie la parcul acvatic de agrement, perfect pentru o seară animată în familie înainte de cină.",
+        "en": "Begin your driving tour at the historic Villa del Mitra, soaking in its ancient Roman legacy before heading to the fortified Castillo de los Condes de Cabra. Around midday, stroll through the elegant halls of Círculo de la Amistad and explore the extensive natural history collections at Museo Aguilar y Eslava. Your afternoon drive takes you to the Tren del Aceite center to learn about the region's industrial past, followed by the impressive architectural form of the Auditorio Municipal. The day winds down at the recreational water park, perfect for a lively family evening before dinner."
+      }
+    }
+  }
+}

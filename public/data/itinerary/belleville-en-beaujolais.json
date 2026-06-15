@@ -1,0 +1,520 @@
+{
+  "city_id": "belleville-en-beaujolais",
+  "anchor": {
+    "name": "Belleville-en-Beaujolais",
+    "coords": [
+      4.7491,
+      46.1089
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-André",
+            "hu": "Chapelle Saint-André",
+            "ro": "Chapelle Saint-André",
+            "en": "Chapelle Saint-André"
+          },
+          "coords": [
+            4.732737,
+            46.108459
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte romanische Architektur dieser Kapelle, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Details des Portals, wenn Sie am Vormittag hier sind.",
+            "hu": "Csodálja meg a kápolna letisztult román stílusú építészetét, amely békés menedéket nyújt a város zajától, és érdemes a délelőtti fényben megfigyelni a bejárat aprólékos faragásait.",
+            "ro": "Admirați arhitectura romanică simplă a acestei capele care oferă un refugiu liniștit și asigurați-vă că priviți cu atenție detaliile fine ale portalului în lumina dimineții.",
+            "en": "Admire the simple Romanesque architecture of this chapel that offers a peaceful retreat, and make sure to pay close attention to the intricate details of the portal in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu de Belleville",
+            "hu": "Hôtel-Dieu de Belleville",
+            "ro": "Hôtel-Dieu de Belleville",
+            "en": "Hôtel-Dieu of Belleville"
+          },
+          "coords": [
+            4.747544,
+            46.109297
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Medizingeschichte in diesem historischen Krankenhaus mit seiner beeindruckenden Apotheke, wobei Sie am besten rechtzeitig kommen sollten, um die Führung nicht zu verpassen.",
+            "hu": "Fedezze fel a lenyűgöző orvostörténelmet ebben a történelmi ispotályban, amelynek gyógyszertára egyedülálló, és érdemes időben érkezni, hogy csatlakozhasson a vezetett túrához.",
+            "ro": "Descoperiți istoria medicală fascinantă în acest spital istoric cu farmacia sa impresionantă, fiind recomandat să ajungeți devreme pentru a nu rata turul ghidat informativ.",
+            "en": "Discover the fascinating medical history in this historical hospital with its impressive pharmacy, and it is highly recommended to arrive early to join the informative guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Belleville",
+            "hu": "Port de Belleville",
+            "ro": "Port de Belleville",
+            "en": "Port of Belleville"
+          },
+          "coords": [
+            4.753921,
+            46.10735
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt an den Ufern der Saône entlang, wo dieser charmante Flusshafen eine idyllische Kulisse bietet, und bringen Sie ein kleines Picknick für eine Pause am Wasser mit.",
+            "hu": "Sétáljon egyet a Saône folyó partján, ahol ez a hangulatos kikötő festői látványt nyújt, és hozzon magával egy kis piknikkosarat, hogy megpihenhessen a vízparton a friss levegőn.",
+            "ro": "Plimbați-vă relaxant pe malurile râului Saône, unde acest port fluvial fermecător oferă un cadru idilic, și aduceți o mică gustare pentru a face un picnic liniștit la marginea apei.",
+            "en": "Take a relaxing stroll along the banks of the Saône river where this charming inland port offers an idyllic setting, and bring a small picnic to enjoy a peaceful break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+            "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+            "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+            "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+          },
+          "coords": [
+            4.737011,
+            46.124773
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Gebäude des örtlichen Rathauses, das ein hervorragendes Beispiel französischer Verwaltungsarchitektur darstellt, und nutzen Sie den Platz davor für ein schnelles Erinnerungsfoto.",
+            "hu": "Tekintse meg a helyi városháza elegáns épületét, amely a francia hivatali építészet szép példája, és használja ki a tágas előtte lévő teret egy gyors, de nagyszerű emlékfotó elkészítéséhez.",
+            "ro": "Priviți clădirea elegantă a primăriei locale care este un exemplu frumos de arhitectură administrativă franceză și profitați de piațeta din față pentru a face o fotografie de suvenir rapidă.",
+            "en": "View the elegant building of the local town hall which serves as a fine example of French administrative architecture, and use the spacious square in front of it to snap a quick souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.738696,
+            46.124238
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonischen Proportionen dieser historischen Kirche, deren Innenraum eine spirituelle Ruhe ausstrahlt, und achten Sie auf das weiche Licht, das durch die alten Buntglasfenster fällt.",
+            "hu": "Csodálja meg e történelmi templom harmonikus arányait, melynek belső tere spirituális nyugalmat áraszt, és figyelje meg a régi ólomüveg ablakokon átszűrődő lágy, délutáni fényeket.",
+            "ro": "Admirați proporțiile armonioase ale acestei biserici istorice al cărei interior emană o liniște spirituală și observați lumina moale care pătrunde prin vitraliile vechi și colorate.",
+            "en": "Admire the harmonious proportions of this historical church whose interior exudes a spiritual tranquility, and watch the soft light filtering through the beautifully preserved old stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Belleville mit einem ruhigen Moment an der Chapelle Saint-André. Danach tauchen Sie im faszinierenden Hôtel-Dieu in die Medizingeschichte ein. Mittags lockt der malerische Port de Belleville für eine entspannte Pause an der Saône. Am Nachmittag erkunden Sie das historische Zentrum rund um das Rathaus und lassen den Tag an der Kirche Nativité stimmungsvoll ausklingen.",
+        "hu": "Kezdje a napot Belleville-ben a Chapelle Saint-André csendes nyugalmával. Ezt követően merüljön el az orvostörténelemben a lenyűgöző Hôtel-Dieu falai között. Délben a festői Port de Belleville csábít egy pihentető sétára a Saône partján. Délután fedezze fel a városháza körüli történelmi központot, és zárja a napot a Nativité templom békés hangulatában.",
+        "ro": "Începeți ziua în Belleville cu un moment de liniște la Chapelle Saint-André. Apoi, scufundați-vă în istoria medicală la fascinantul Hôtel-Dieu. La prânz, Portul Belleville vă invită la o pauză relaxantă pe malul râului Saône. După-amiaza, explorați centrul istoric din jurul primăriei și încheiați ziua în atmosfera plină de spiritualitate a bisericii Nativité.",
+        "en": "Start your day in Belleville with a quiet moment at the charming Chapelle Saint-André. Afterward, dive into medical history at the fascinating Hôtel-Dieu. At midday, the picturesque Port of Belleville invites you for a relaxing break along the Saône. In the afternoon, explore the historical center around the town hall and conclude your day at the peaceful Nativité church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-André",
+            "hu": "Chapelle Saint-André",
+            "ro": "Chapelle Saint-André",
+            "en": "Chapelle Saint-André"
+          },
+          "coords": [
+            4.732737,
+            46.108459
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte romanische Architektur dieser Kapelle, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Details des Portals, wenn Sie am Vormittag hier sind.",
+            "hu": "Csodálja meg a kápolna letisztult román stílusú építészetét, amely békés menedéket nyújt a város zajától, és érdemes a délelőtti fényben megfigyelni a bejárat aprólékos faragásait.",
+            "ro": "Admirați arhitectura romanică simplă a acestei capele care oferă un refugiu liniștit și asigurați-vă că priviți cu atenție detaliile fine ale portalului în lumina dimineții.",
+            "en": "Admire the simple Romanesque architecture of this chapel that offers a peaceful retreat, and make sure to pay close attention to the intricate details of the portal in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu de Belleville",
+            "hu": "Hôtel-Dieu de Belleville",
+            "ro": "Hôtel-Dieu de Belleville",
+            "en": "Hôtel-Dieu of Belleville"
+          },
+          "coords": [
+            4.747544,
+            46.109297
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Medizingeschichte in diesem historischen Krankenhaus mit seiner beeindruckenden Apotheke, wobei Sie am besten rechtzeitig kommen sollten, um die Führung nicht zu verpassen.",
+            "hu": "Fedezze fel a lenyűgöző orvostörténelmet ebben a történelmi ispotályban, amelynek gyógyszertára egyedülálló, és érdemes időben érkezni, hogy csatlakozhasson a vezetett túrához.",
+            "ro": "Descoperiți istoria medicală fascinantă în acest spital istoric cu farmacia sa impresionantă, fiind recomandat să ajungeți devreme pentru a nu rata turul ghidat informativ.",
+            "en": "Discover the fascinating medical history in this historical hospital with its impressive pharmacy, and it is highly recommended to arrive early to join the informative guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Belleville",
+            "hu": "Port de Belleville",
+            "ro": "Port de Belleville",
+            "en": "Port of Belleville"
+          },
+          "coords": [
+            4.753921,
+            46.10735
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt an den Ufern der Saône entlang, wo dieser charmante Flusshafen eine idyllische Kulisse bietet, und bringen Sie ein kleines Picknick für eine Pause am Wasser mit.",
+            "hu": "Sétáljon egyet a Saône folyó partján, ahol ez a hangulatos kikötő festői látványt nyújt, és hozzon magával egy kis piknikkosarat, hogy megpihenhessen a vízparton a friss levegőn.",
+            "ro": "Plimbați-vă relaxant pe malurile râului Saône, unde acest port fluvial fermecător oferă un cadru idilic, și aduceți o mică gustare pentru a face un picnic liniștit la marginea apei.",
+            "en": "Take a relaxing stroll along the banks of the Saône river where this charming inland port offers an idyllic setting, and bring a small picnic to enjoy a peaceful break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Isidore",
+            "hu": "Église Saint-Isidore",
+            "ro": "Église Saint-Isidore",
+            "en": "Église Saint-Isidore"
+          },
+          "coords": [
+            4.764727,
+            46.117752
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante lokale Kirche, die ein wichtiger spiritueller Treffpunkt der Gemeinde ist, und nehmen Sie sich einen Moment Zeit, um die kunstvollen Holzschnitzereien im Inneren zu betrachten.",
+            "hu": "Látogasson el ebbe a bájos helyi templomba, amely a közösség fontos spirituális központja, és szánjon egy kis időt a belső tér finoman megmunkált fafaragásainak megcsodálására.",
+            "ro": "Vizitați această biserică locală fermecătoare care este un important punct de întâlnire spiritual pentru comunitate și acordați-vă un moment pentru a privi sculpturile în lemn din interior.",
+            "en": "Visit this charming local church which serves as an important spiritual gathering place for the community, and take a moment to closely observe the finely crafted wooden carvings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Écluse",
+            "hu": "Château de l'Écluse",
+            "ro": "Château de l'Écluse",
+            "en": "Château de l'Écluse"
+          },
+          "coords": [
+            4.745397,
+            46.125162
+          ],
+          "category": "castle",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das die reiche Geschichte der Weinregion widerspiegelt, und wandern Sie auf den umliegenden Wegen, um die besten Aussichten auf das historische Anwesen zu genießen.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely a borvidék gazdag történelmét tükrözi, és sétáljon egyet a környező ösvényeken, ahonnan a legjobb kilátás nyílik a történelmi birtokra.",
+            "ro": "Descoperiți acest castel elegant care reflectă istoria bogată a regiunii viticole și plimbați-vă pe potecile din împrejurimi pentru a vă bucura de cele mai bune priveliști ale domeniului.",
+            "en": "Discover this elegant castle that beautifully reflects the rich history of the local wine region, and wander along the surrounding paths to catch the best panoramic views of the historical estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+            "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+            "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+            "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+          },
+          "coords": [
+            4.737011,
+            46.124773
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Gebäude des örtlichen Rathauses, das ein hervorragendes Beispiel französischer Verwaltungsarchitektur darstellt, und nutzen Sie den Platz davor für ein schnelles Erinnerungsfoto.",
+            "hu": "Tekintse meg a helyi városháza elegáns épületét, amely a francia hivatali építészet szép példája, és használja ki a tágas előtte lévő teret egy gyors, de nagyszerű emlékfotó elkészítéséhez.",
+            "ro": "Priviți clădirea elegantă a primăriei locale care este un exemplu frumos de arhitectură administrativă franceză și profitați de piațeta din față pentru a face o fotografie de suvenir rapidă.",
+            "en": "View the elegant building of the local town hall which serves as a fine example of French administrative architecture, and use the spacious square in front of it to snap a quick souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.738696,
+            46.124238
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonischen Proportionen dieser historischen Kirche, deren Innenraum eine spirituelle Ruhe ausstrahlt, und achten Sie auf das weiche Licht, das durch die alten Buntglasfenster fällt.",
+            "hu": "Csodálja meg e történelmi templom harmonikus arányait, melynek belső tere spirituális nyugalmat áraszt, és figyelje meg a régi ólomüveg ablakokon átszűrődő lágy, délutáni fényeket.",
+            "ro": "Admirați proporțiile armonioase ale acestei biserici istorice al cărei interior emană o liniște spirituală și observați lumina moale care pătrunde prin vitraliile vechi și colorate.",
+            "en": "Admire the harmonious proportions of this historical church whose interior exudes a spiritual tranquility, and watch the soft light filtering through the beautifully preserved old stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens entspannt zur Chapelle Saint-André und besuchen Sie anschließend das historische Hôtel-Dieu. Mittags können Sie am Port de Belleville das Treiben auf der Saône beobachten und frische Luft tanken. Der Nachmittag führt Sie weiter zur Église Saint-Isidore und zum prächtigen Château de l'Écluse. Beenden Sie die Tour im historischen Ortskern an der Nativité-Kirche.",
+        "hu": "Kerékpározzon el reggel a Chapelle Saint-André-hoz, majd látogasson el a történelmi Hôtel-Dieu-be. Délben a Port de Belleville-nél figyelheti meg a Saône folyó nyüzsgését, miközben friss levegőt szív. A délután az Église Saint-Isidore-hoz és a pompás Château de l'Écluse-höz vezet. A túrát a Nativité templom történelmi környezetében fejezheti be.",
+        "ro": "Mergeți cu bicicleta dimineața spre Chapelle Saint-André și vizitați apoi istoricul Hôtel-Dieu. La prânz, puteți observa activitatea de pe râul Saône la Portul Belleville și vă puteți reîncărca bateriile. După-amiaza vă conduce mai departe spre Église Saint-Isidore și magnificul Château de l'Écluse. Încheiați turul în inima istorică la biserica Nativité.",
+        "en": "Cycle easily in the morning to Chapelle Saint-André, followed by a visit to the historical Hôtel-Dieu. At midday, you can watch the vibrant life along the Saône at the Port of Belleville. The afternoon takes you further to Église Saint-Isidore and the magnificent Château de l'Écluse. Finish your cycling tour in the charming historical heart near the Nativité church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 9.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Pizay",
+            "hu": "Château de Pizay",
+            "ro": "Château de Pizay",
+            "en": "Château de Pizay"
+          },
+          "coords": [
+            4.70061,
+            46.1381
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende Weinschloss mit seinen prächtigen französischen Gärten, das einen perfekten Startpunkt bildet, und fragen Sie nach einer kurzen Weinverkostung im historischen Weinkeller.",
+            "hu": "Fedezze fel ezt a lenyűgöző borkastélyt és annak csodálatos francia kertjeit, amely tökéletes kiindulópont, és mindenképpen érdeklődjön a történelmi pincében tartott rövid borkóstolók felől.",
+            "ro": "Explorați acest impresionant castel viticol cu grădinile sale franceze magnifice, fiind un punct de plecare perfect, și nu ezitați să întrebați despre o scurtă degustare de vinuri în crama istorică.",
+            "en": "Explore this impressive wine castle with its magnificent formal French gardens that make for a perfect starting point, and be sure to ask about a quick wine tasting session in the historical cellar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+            "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.738696,
+            46.124238
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonischen Proportionen dieser historischen Kirche, deren Innenraum eine spirituelle Ruhe ausstrahlt, und achten Sie auf das weiche Licht, das durch die alten Buntglasfenster fällt.",
+            "hu": "Csodálja meg e történelmi templom harmonikus arányait, melynek belső tere spirituális nyugalmat áraszt, és figyelje meg a régi ólomüveg ablakokon átszűrődő lágy, délutáni fényeket.",
+            "ro": "Admirați proporțiile armonioase ale acestei biserici istorice al cărei interior emană o liniște spirituală și observați lumina moale care pătrunde prin vitraliile vechi și colorate.",
+            "en": "Admire the harmonious proportions of this historical church whose interior exudes a spiritual tranquility, and watch the soft light filtering through the beautifully preserved old stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+            "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+            "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+            "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+          },
+          "coords": [
+            4.737011,
+            46.124773
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Gebäude des örtlichen Rathauses, das ein hervorragendes Beispiel französischer Verwaltungsarchitektur darstellt, und nutzen Sie den Platz davor für ein schnelles Erinnerungsfoto.",
+            "hu": "Tekintse meg a helyi városháza elegáns épületét, amely a francia hivatali építészet szép példája, és használja ki a tágas előtte lévő teret egy gyors, de nagyszerű emlékfotó elkészítéséhez.",
+            "ro": "Priviți clădirea elegantă a primăriei locale care este un exemplu frumos de arhitectură administrativă franceză și profitați de piațeta din față pentru a face o fotografie de suvenir rapidă.",
+            "en": "View the elegant building of the local town hall which serves as a fine example of French administrative architecture, and use the spacious square in front of it to snap a quick souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Écluse",
+            "hu": "Château de l'Écluse",
+            "ro": "Château de l'Écluse",
+            "en": "Château de l'Écluse"
+          },
+          "coords": [
+            4.745397,
+            46.125162
+          ],
+          "category": "castle",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das die reiche Geschichte der Weinregion widerspiegelt, und wandern Sie auf den umliegenden Wegen, um die besten Aussichten auf das historische Anwesen zu genießen.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely a borvidék gazdag történelmét tükrözi, és sétáljon egyet a környező ösvényeken, ahonnan a legjobb kilátás nyílik a történelmi birtokra.",
+            "ro": "Descoperiți acest castel elegant care reflectă istoria bogată a regiunii viticole și plimbați-vă pe potecile din împrejurimi pentru a vă bucura de cele mai bune priveliști ale domeniului.",
+            "en": "Discover this elegant castle that beautifully reflects the rich history of the local wine region, and wander along the surrounding paths to catch the best panoramic views of the historical estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-André",
+            "hu": "Chapelle Saint-André",
+            "ro": "Chapelle Saint-André",
+            "en": "Chapelle Saint-André"
+          },
+          "coords": [
+            4.732737,
+            46.108459
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte romanische Architektur dieser Kapelle, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Details des Portals, wenn Sie am Vormittag hier sind.",
+            "hu": "Csodálja meg a kápolna letisztult román stílusú építészetét, amely békés menedéket nyújt a város zajától, és érdemes a délelőtti fényben megfigyelni a bejárat aprólékos faragásait.",
+            "ro": "Admirați arhitectura romanică simplă a acestei capele care oferă un refugiu liniștit și asigurați-vă că priviți cu atenție detaliile fine ale portalului în lumina dimineții.",
+            "en": "Admire the simple Romanesque architecture of this chapel that offers a peaceful retreat, and make sure to pay close attention to the intricate details of the portal in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu de Belleville",
+            "hu": "Hôtel-Dieu de Belleville",
+            "ro": "Hôtel-Dieu de Belleville",
+            "en": "Hôtel-Dieu of Belleville"
+          },
+          "coords": [
+            4.747544,
+            46.109297
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Medizingeschichte in diesem historischen Krankenhaus mit seiner beeindruckenden Apotheke, wobei Sie am besten rechtzeitig kommen sollten, um die Führung nicht zu verpassen.",
+            "hu": "Fedezze fel a lenyűgöző orvostörténelmet ebben a történelmi ispotályban, amelynek gyógyszertára egyedülálló, és érdemes időben érkezni, hogy csatlakozhasson a vezetett túrához.",
+            "ro": "Descoperiți istoria medicală fascinantă în acest spital istoric cu farmacia sa impresionantă, fiind recomandat să ajungeți devreme pentru a nu rata turul ghidat informativ.",
+            "en": "Discover the fascinating medical history in this historical hospital with its impressive pharmacy, and it is highly recommended to arrive early to join the informative guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Belleville",
+            "hu": "Port de Belleville",
+            "ro": "Port de Belleville",
+            "en": "Port of Belleville"
+          },
+          "coords": [
+            4.753921,
+            46.10735
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt an den Ufern der Saône entlang, wo dieser charmante Flusshafen eine idyllische Kulisse bietet, und bringen Sie ein kleines Picknick für eine Pause am Wasser mit.",
+            "hu": "Sétáljon egyet a Saône folyó partján, ahol ez a hangulatos kikötő festői látványt nyújt, és hozzon magával egy kis piknikkosarat, hogy megpihenhessen a vízparton a friss levegőn.",
+            "ro": "Plimbați-vă relaxant pe malurile râului Saône, unde acest port fluvial fermecător oferă un cadru idilic, și aduceți o mică gustare pentru a face un picnic liniștit la marginea apei.",
+            "en": "Take a relaxing stroll along the banks of the Saône river where this charming inland port offers an idyllic setting, and bring a small picnic to enjoy a peaceful break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Isidore",
+            "hu": "Église Saint-Isidore",
+            "ro": "Église Saint-Isidore",
+            "en": "Église Saint-Isidore"
+          },
+          "coords": [
+            4.764727,
+            46.117752
+          ],
+          "category": "religious",
+          "arrive_at": "16:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante lokale Kirche, die ein wichtiger spiritueller Treffpunkt der Gemeinde ist, und nehmen Sie sich einen Moment Zeit, um die kunstvollen Holzschnitzereien im Inneren zu betrachten.",
+            "hu": "Látogasson el ebbe a bájos helyi templomba, amely a közösség fontos spirituális központja, és szánjon egy kis időt a belső tér finoman megmunkált fafaragásainak megcsodálására.",
+            "ro": "Vizitați această biserică locală fermecătoare care este un important punct de întâlnire spiritual pentru comunitate și acordați-vă un moment pentru a privi sculpturile în lemn din interior.",
+            "en": "Visit this charming local church which serves as an important spiritual gathering place for the community, and take a moment to closely observe the finely crafted wooden carvings inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt majestätisch am Château de Pizay, bevor Sie das kleine Zentrum von Saint-Jean-d'Ardières erreichen. Nach einem Stopp am Rathaus und Château de l'Écluse geht es mittags zur Chapelle Saint-André. Der Nachmittag ist für das beeindruckende Hôtel-Dieu und einen Abstecher zum Flusshafen reserviert. Lassen Sie den Abend an der malerischen Église Saint-Isidore ruhig ausklingen.",
+        "hu": "Autós túrája a fenséges Château de Pizay-nál indul, mielőtt elérné Saint-Jean-d'Ardières kis központját. A városháza és a Château de l'Écluse megtekintése után délben a Chapelle Saint-André következik. A délután a lenyűgöző Hôtel-Dieu-é és a kikötőé. Zárja az estét a festői Église Saint-Isidore békés környezetében, megpihenve az egész napos utazás után.",
+        "ro": "Călătoria dumneavoastră începe maiestuos la Château de Pizay, înainte de a ajunge în micul centru din Saint-Jean-d'Ardières. După opririle la primărie și Château de l'Écluse, prânzul vă găsește la Chapelle Saint-André. După-amiaza este rezervată pentru impresionantul Hôtel-Dieu și o oprire la portul fluvial. Încheiați seara liniștit la pitoreasca biserică Saint-Isidore.",
+        "en": "Your drive begins majestically at Château de Pizay before reaching the cozy center of Saint-Jean-d'Ardières. After stops at the town hall and Château de l'Écluse, midday brings you to Chapelle Saint-André. The afternoon is reserved for the impressive Hôtel-Dieu and a scenic detour to the river port. Let the evening wind down peacefully at the picturesque Église Saint-Isidore."
+      }
+    }
+  }
+}

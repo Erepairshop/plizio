@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-monasterace-marina-cities-v2",
+  "anchor": {
+    "name": "Monasterace Marina",
+    "coords": [
+      16.5727,
+      38.43466
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Calvario",
+            "hu": "Calvario",
+            "ro": "Calvario",
+            "en": "Calvario"
+          },
+          "coords": [
+            16.572625,
+            38.430849
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Calvario-Monument, das die tiefen religiösen Traditionen der Gegend widerspiegelt, und besuchen Sie es am frühen Morgen für die besten Lichtverhältnisse.",
+            "hu": "Csodálja meg a történelmi Calvario emlékművet, amely a helyi mély vallási hagyományokat tükrözi, és érkezzen kora reggel a legjobb fotózási fényviszonyok érdekében.",
+            "ro": "Admirați monumentul istoric Calvario care reflectă tradițiile religioase profunde ale zonei și vizitați-l dimineața devreme pentru cele mai bune condiții de iluminare pentru fotografii.",
+            "en": "Admire the historic Calvario monument which reflects the deep religious traditions of the area, and visit during the early morning for the best lighting conditions for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Battaglia di Punta Stilo",
+            "hu": "Battaglia di Punta Stilo",
+            "ro": "Battaglia di Punta Stilo",
+            "en": "Battaglia di Punta Stilo"
+          },
+          "coords": [
+            16.575791,
+            38.437401
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Gedenkstätte der berühmten Seeschlacht von Punta Stilo, einem wichtigen historischen Ereignis, und lesen Sie die informativen Tafeln entlang der windigen Küste.",
+            "hu": "Fedezze fel a híres Punta Stilo-i tengeri csata emlékhelyét, egy sorsdöntő történelmi eseményt, és szánjon időt a szeles tengerpart mentén található tájékoztató táblák elolvasására.",
+            "ro": "Descoperiți locul memorial al faimoasei bătălii navale de la Punta Stilo, un eveniment istoric crucial, și citiți plăcile informative așezate de-a lungul coastei mereu bătute de brize.",
+            "en": "Discover the memorial site of the famous naval Battle of Punta Stilo, a crucial historical event, and take a moment to read the informative plaques along the breezy coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Kaulon",
+            "hu": "Tempio di Kaulon",
+            "ro": "Tempio di Kaulon",
+            "en": "Tempio di Kaulon"
+          },
+          "coords": [
+            16.578662,
+            38.445435
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des antiken Tempels von Kaulon mit Blick auf das Meer, um die Wurzeln der Magna Graecia zu begreifen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi Kaulon templomának tengerre néző fenséges romjait, hogy megértse a Magna Graecia gyökereit, de viseljen kényelmes cipőt az egyenetlen régészeti terep miatt.",
+            "ro": "Explorați ruinele maiestuoase ale anticului Templu din Kaulon cu vedere la mare pentru a înțelege rădăcinile Magna Graecia, dar purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the majestic ruins of the ancient Temple of Kaulon overlooking the sea to grasp its Magna Graecia roots, but wear sturdy walking shoes for the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Una casa patrizia di Kaulon",
+            "hu": "Una casa patrizia di Kaulon",
+            "ro": "Una casa patrizia di Kaulon",
+            "en": "Una casa patrizia di Kaulon"
+          },
+          "coords": [
+            16.579206,
+            38.446451
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste eines Patrizierhauses in Kaulon mit atemberaubenden Bodenmosaiken und bringen Sie einen Polarisationsfilter mit, um die Details ohne Blendung einzufangen.",
+            "hu": "Sétáljon át egy kauloni patríciusház romjain, amely lenyűgöző padlómozaikokkal büszkélkedhet, és használjon polárszűrőt a bonyolult részletek napfény nélküli megörökítéséhez.",
+            "ro": "Plimbați-vă prin rămășițele unei case patriciene din Kaulon, cu mozaicuri uimitoare, și folosiți lentile polarizate pentru a capta detaliile complexe fără reflexia puternică a soarelui.",
+            "en": "Walk through the remains of a patrician house in Kaulon boasting stunning ancient floor mosaics, and bring a polarized lens to capture the intricate details without the sun's glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Stilo",
+            "hu": "Faro di Punta Stilo",
+            "ro": "Faro di Punta Stilo",
+            "en": "Faro di Punta Stilo"
+          },
+          "coords": [
+            16.577634,
+            38.447541
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dem ikonischen Leuchtturm Punta Stilo, der noch heute Schiffe führt, und suchen Sie sich einen sicheren Ort für ein ruhiges maritimes Fotomotiv.",
+            "hu": "Élvezze a tengerparti panorámát az ikonikus Punta Stilo világítótoronyból, amely ma is irányítja a hajókat, és keressen egy biztonságos közeli pontot a csendes fotózáshoz.",
+            "ro": "Admirați vederea panoramică de la emblematicul far Punta Stilo, care încă ghidează navele, și găsiți un loc sigur în apropiere pentru a vă bucura de o oportunitate fotografică liniștită.",
+            "en": "Take in the panoramic coastal views from the iconic Punta Stilo Lighthouse, which still guides ships today, and find a safe spot nearby to enjoy a quiet maritime photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Civico/Museo Archeologico Statale",
+            "hu": "Antiquarium Civico/Museo Archeologico Statale",
+            "ro": "Antiquarium Civico/Museo Archeologico Statale",
+            "en": "Antiquarium Civico/Museo Archeologico Statale"
+          },
+          "coords": [
+            16.578716,
+            38.450188
+          ],
+          "category": "museum",
+          "arrive_at": "15:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour im Antiquarium Civico, um die exquisiten Artefakte aus Kaulonia zu bewundern, und beginnen Sie im Erdgeschoss, um den chronologischen Ausstellungen zu folgen.",
+            "hu": "Zárja történelmi túráját az Antiquarium Civico múzeumban Kaulonia gyönyörű műtárgyaival, és kezdje a látogatást a földszinten a kronológiai kiállítások követése érdekében.",
+            "ro": "Încheiați turul la Antiquarium Civico pentru a admira artefactele rafinate din Kaulonia și începeți vizita la parter pentru a urmări expozițiile într-o ordine cronologică.",
+            "en": "Conclude your historical tour at the Antiquarium Civico to marvel at exquisite artifacts from Kaulonia, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen von Monasterace, um die historischen Orte zu erkunden, bevor Sie die Küstenstraße zu den antiken griechischen Ruinen von Kaulonia entlangschlendern und im faszinierenden Museum enden.",
+        "hu": "Kezdje Monasterace szívében a történelmi helyek felfedezését, majd sétáljon végig a tengerparti úton Kaulonia ókori görög romjai felé, és fejezze be a napot a múzeum lenyűgöző leleteivel.",
+        "ro": "Începeți în inima orașului Monasterace pentru a explora locurile istorice, apoi plimbați-vă de-a lungul drumului de coastă către ruinele antice grecești, terminând cu vizitarea muzeului.",
+        "en": "Start in the heart of Monasterace to explore the town's central historical spots before strolling along the coastal road towards the legendary ancient Greek ruins of Kaulonia, ending with the captivating museum artifacts."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Il Delfino",
+            "hu": "Lido Il Delfino",
+            "ro": "Lido Il Delfino",
+            "en": "Lido Il Delfino"
+          },
+          "coords": [
+            16.562899,
+            38.418622
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Lido Il Delfino mit klarem Wasser und ausgezeichnetem Service, und mieten Sie frühzeitig eine Liege für einen gemütlichen Morgen.",
+            "hu": "Pihenjen a Lido Il Delfino arany homokján, amely tiszta vizet és kiváló strandolási szolgáltatásokat kínál, és béreljen napágyat korán a kényelmes reggeli pihenés érdekében.",
+            "ro": "Relaxați-vă pe nisipul auriu de la Lido Il Delfino, care oferă ape limpezi și servicii excelente, și închiriați un șezlong devreme pentru a vă asigura confortul de dimineață.",
+            "en": "Relax on the golden sands of Lido Il Delfino offering clear waters and excellent beachside services, and rent a sunbed early to secure a comfortable spot for your morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvario",
+            "hu": "Calvario",
+            "ro": "Calvario",
+            "en": "Calvario"
+          },
+          "coords": [
+            16.572625,
+            38.430849
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Calvario-Monument, das die tiefen religiösen Traditionen der Gegend widerspiegelt, und besuchen Sie es am frühen Morgen für die besten Lichtverhältnisse.",
+            "hu": "Csodálja meg a történelmi Calvario emlékművet, amely a helyi mély vallási hagyományokat tükrözi, és érkezzen kora reggel a legjobb fotózási fényviszonyok érdekében.",
+            "ro": "Admirați monumentul istoric Calvario care reflectă tradițiile religioase profunde ale zonei și vizitați-l dimineața devreme pentru cele mai bune condiții de iluminare pentru fotografii.",
+            "en": "Admire the historic Calvario monument which reflects the deep religious traditions of the area, and visit during the early morning for the best lighting conditions for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Kaulon",
+            "hu": "Tempio di Kaulon",
+            "ro": "Tempio di Kaulon",
+            "en": "Tempio di Kaulon"
+          },
+          "coords": [
+            16.578662,
+            38.445435
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des antiken Tempels von Kaulon mit Blick auf das Meer, um die Wurzeln der Magna Graecia zu begreifen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi Kaulon templomának tengerre néző fenséges romjait, hogy megértse a Magna Graecia gyökereit, de viseljen kényelmes cipőt az egyenetlen régészeti terep miatt.",
+            "ro": "Explorați ruinele maiestuoase ale anticului Templu din Kaulon cu vedere la mare pentru a înțelege rădăcinile Magna Graecia, dar purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the majestic ruins of the ancient Temple of Kaulon overlooking the sea to grasp its Magna Graecia roots, but wear sturdy walking shoes for the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Una casa patrizia di Kaulon",
+            "hu": "Una casa patrizia di Kaulon",
+            "ro": "Una casa patrizia di Kaulon",
+            "en": "Una casa patrizia di Kaulon"
+          },
+          "coords": [
+            16.579206,
+            38.446451
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste eines Patrizierhauses in Kaulon mit atemberaubenden Bodenmosaiken und bringen Sie einen Polarisationsfilter mit, um die Details ohne Blendung einzufangen.",
+            "hu": "Sétáljon át egy kauloni patríciusház romjain, amely lenyűgöző padlómozaikokkal büszkélkedhet, és használjon polárszűrőt a bonyolult részletek napfény nélküli megörökítéséhez.",
+            "ro": "Plimbați-vă prin rămășițele unei case patriciene din Kaulon, cu mozaicuri uimitoare, și folosiți lentile polarizate pentru a capta detaliile complexe fără reflexia puternică a soarelui.",
+            "en": "Walk through the remains of a patrician house in Kaulon boasting stunning ancient floor mosaics, and bring a polarized lens to capture the intricate details without the sun's glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruderi della Chiesa di San Marco",
+            "hu": "Ruderi della Chiesa di San Marco",
+            "ro": "Ruderi della Chiesa di San Marco",
+            "en": "Ruderi della Chiesa di San Marco"
+          },
+          "coords": [
+            16.579106,
+            38.448592
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die ergreifenden Ruinen der Kirche San Marco, um die mittelalterliche Schicht dieser Stadt zu sehen, und nähern Sie sich respektvoll, da es kaum Touristenpfade gibt.",
+            "hu": "Tekintse meg a San Marco templom megható romjait, hogy lássa a város középkori rétegét, és közelítsen tisztelettel, mivel a helyszínen nincsenek kiépített turistaútvonalak.",
+            "ro": "Observați ruinele emoționante ale Bisericii San Marco pentru a vedea stratul medieval al acestui oraș, și apropiați-vă cu respect, deoarece situl nu are trasee turistice extinse.",
+            "en": "Observe the poignant ruins of the Church of San Marco to witness the medieval layer of this ancient coastal town, and approach respectfully as the site lacks extensive tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Civico/Museo Archeologico Statale",
+            "hu": "Antiquarium Civico/Museo Archeologico Statale",
+            "ro": "Antiquarium Civico/Museo Archeologico Statale",
+            "en": "Antiquarium Civico/Museo Archeologico Statale"
+          },
+          "coords": [
+            16.578716,
+            38.450188
+          ],
+          "category": "museum",
+          "arrive_at": "16:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour im Antiquarium Civico, um die exquisiten Artefakte aus Kaulonia zu bewundern, und beginnen Sie im Erdgeschoss, um den chronologischen Ausstellungen zu folgen.",
+            "hu": "Zárja történelmi túráját az Antiquarium Civico múzeumban Kaulonia gyönyörű műtárgyaival, és kezdje a látogatást a földszinten a kronológiai kiállítások követése érdekében.",
+            "ro": "Încheiați turul la Antiquarium Civico pentru a admira artefactele rafinate din Kaulonia și începeți vizita la parter pentru a urmări expozițiile într-o ordine cronologică.",
+            "en": "Conclude your historical tour at the Antiquarium Civico to marvel at exquisite artifacts from Kaulonia, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von den südlichen Stränden zu den historischen Denkmälern entlang der Küste. Mit dem Fahrrad können Sie mühelos von mittelalterlichen Ruinen zu den archäologischen Parks der Magna Graecia springen.",
+        "hu": "Pedálozzon a pihentető déli strandoktól a part mentén elszórt történelmi műemlékekig. A kerékpározás lehetővé teszi, hogy gyorsan átugorjon a középkori romoktól a Magna Graecia régészeti parkjaiba.",
+        "ro": "Pedalați de la plajele sudice relaxante către monumentele istorice presărate de-a lungul coastei. Mersul pe bicicletă vă permite să treceți rapid de la ruine medievale la parcuri arheologice uimitoare.",
+        "en": "Pedal from the relaxing southern beaches to the historic monuments scattered along the shoreline. Biking lets you quickly hop from medieval ruins to Magna Graecia archaeological parks effortlessly."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Primavera",
+            "hu": "Lido Primavera",
+            "ro": "Lido Primavera",
+            "en": "Lido Primavera"
+          },
+          "coords": [
+            16.559523,
+            38.415247
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der frischen Meeresluft am Lido Primavera, einem ruhigen Küstenabschnitt, und trinken Sie einen schnellen Espresso, bevor Sie historische Stätten besuchen.",
+            "hu": "Kezdje a napot a friss tengeri levegővel a Lido Primavera békés partján, és igyon egy gyors eszpresszót egy közeli kávézóban, mielőtt a történelmi helyszínek felé venné az irányt.",
+            "ro": "Începeți ziua respirând aerul proaspăt de mare la Lido Primavera, o porțiune liniștită de coastă, și savurați un espresso rapid la o cafenea înainte de a vizita siturile istorice.",
+            "en": "Start your day breathing the fresh sea air at Lido Primavera, a peaceful stretch of the Ionian coast, and enjoy a quick espresso at a nearby café before heading to historical sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvario",
+            "hu": "Calvario",
+            "ro": "Calvario",
+            "en": "Calvario"
+          },
+          "coords": [
+            16.572625,
+            38.430849
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Calvario-Monument, das die tiefen religiösen Traditionen der Gegend widerspiegelt, und besuchen Sie es am frühen Morgen für die besten Lichtverhältnisse.",
+            "hu": "Csodálja meg a történelmi Calvario emlékművet, amely a helyi mély vallási hagyományokat tükrözi, és érkezzen kora reggel a legjobb fotózási fényviszonyok érdekében.",
+            "ro": "Admirați monumentul istoric Calvario care reflectă tradițiile religioase profunde ale zonei și vizitați-l dimineața devreme pentru cele mai bune condiții de iluminare pentru fotografii.",
+            "en": "Admire the historic Calvario monument which reflects the deep religious traditions of the area, and visit during the early morning for the best lighting conditions for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido MOMA",
+            "hu": "Lido MOMA",
+            "ro": "Lido MOMA",
+            "en": "Lido MOMA"
+          },
+          "coords": [
+            16.576851,
+            38.438881
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Mittagspause im Lido MOMA, um die lebhafte Strandatmosphäre zu genießen, und bestellen Sie ein erfrischendes lokales Kaltgetränk an der Bar, um neue Energie zu tanken.",
+            "hu": "Tartson ebédszünetet a Lido MOMA strandon, hogy élvezze a pezsgő hangulatot és a Jón-tengert, és rendeljen egy hűsítő helyi italt a bárban, hogy feltöltődjön a folytatásra.",
+            "ro": "Luați o pauză la prânz la Lido MOMA pentru a vă bucura de atmosfera vibrantă a plajei, și comandați o băutură rece locală la bar pentru a vă reîncărca bateriile pe parcursul zilei.",
+            "en": "Take a midday break at Lido MOMA to enjoy vibrant beach atmosphere and pristine Ionian waters, and order a refreshing local cold drink at the bar to recharge your batteries."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Kaulon",
+            "hu": "Tempio di Kaulon",
+            "ro": "Tempio di Kaulon",
+            "en": "Tempio di Kaulon"
+          },
+          "coords": [
+            16.578662,
+            38.445435
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des antiken Tempels von Kaulon mit Blick auf das Meer, um die Wurzeln der Magna Graecia zu begreifen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi Kaulon templomának tengerre néző fenséges romjait, hogy megértse a Magna Graecia gyökereit, de viseljen kényelmes cipőt az egyenetlen régészeti terep miatt.",
+            "ro": "Explorați ruinele maiestuoase ale anticului Templu din Kaulon cu vedere la mare pentru a înțelege rădăcinile Magna Graecia, dar purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the majestic ruins of the ancient Temple of Kaulon overlooking the sea to grasp its Magna Graecia roots, but wear sturdy walking shoes for the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Stilo",
+            "hu": "Faro di Punta Stilo",
+            "ro": "Faro di Punta Stilo",
+            "en": "Faro di Punta Stilo"
+          },
+          "coords": [
+            16.577634,
+            38.447541
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dem ikonischen Leuchtturm Punta Stilo, der noch heute Schiffe führt, und suchen Sie sich einen sicheren Ort für ein ruhiges maritimes Fotomotiv.",
+            "hu": "Élvezze a tengerparti panorámát az ikonikus Punta Stilo világítótoronyból, amely ma is irányítja a hajókat, és keressen egy biztonságos közeli pontot a csendes fotózáshoz.",
+            "ro": "Admirați vederea panoramică de la emblematicul far Punta Stilo, care încă ghidează navele, și găsiți un loc sigur în apropiere pentru a vă bucura de o oportunitate fotografică liniștită.",
+            "en": "Take in the panoramic coastal views from the iconic Punta Stilo Lighthouse, which still guides ships today, and find a safe spot nearby to enjoy a quiet maritime photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Civico/Museo Archeologico Statale",
+            "hu": "Antiquarium Civico/Museo Archeologico Statale",
+            "ro": "Antiquarium Civico/Museo Archeologico Statale",
+            "en": "Antiquarium Civico/Museo Archeologico Statale"
+          },
+          "coords": [
+            16.578716,
+            38.450188
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour im Antiquarium Civico, um die exquisiten Artefakte aus Kaulonia zu bewundern, und beginnen Sie im Erdgeschoss, um den chronologischen Ausstellungen zu folgen.",
+            "hu": "Zárja történelmi túráját az Antiquarium Civico múzeumban Kaulonia gyönyörű műtárgyaival, és kezdje a látogatást a földszinten a kronológiai kiállítások követése érdekében.",
+            "ro": "Încheiați turul la Antiquarium Civico pentru a admira artefactele rafinate din Kaulonia și începeți vizita la parter pentru a urmări expozițiile într-o ordine cronologică.",
+            "en": "Conclude your historical tour at the Antiquarium Civico to marvel at exquisite artifacts from Kaulonia, and start your visit on the ground floor to follow the chronological exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie mühelos über die Küstenabschnitte von Monasterace Marina und balancieren Sie die Zeit zwischen sonnenverwöhnten Strandclubs und tiefgreifenden historischen Ausgrabungen.",
+        "hu": "Autózzon végig Monasterace Marina part menti szakaszain, egyensúlyt teremtve a napsütötte strandklubok és az elmélyült történelmi ásatások között, megragadva a Jón-riviéra teljes esszenciáját.",
+        "ro": "Conduceți fără efort de-a lungul coastei din Monasterace Marina, echilibrând timpul între cluburile de plajă însorite și săpăturile istorice profunde, captând esența completă a rivierei ioniene.",
+        "en": "Drive effortlessly across the coastal stretches of Monasterace Marina, balancing time between sun-soaked beach clubs and profound historical excavations, capturing the full essence of the Ionian riviera."
+      }
+    }
+  }
+}

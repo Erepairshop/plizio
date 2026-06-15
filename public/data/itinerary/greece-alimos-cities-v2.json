@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-alimos-cities-v2",
+  "anchor": {
+    "name": "Alimos",
+    "coords": [
+      23.71311,
+      37.91121
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Edem beach",
+            "hu": "Edem beach",
+            "ro": "Edem beach",
+            "en": "Edem beach"
+          },
+          "coords": [
+            23.698417,
+            37.919911
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das klare Wasser, und kommen Sie früh, um einen guten Platz zu sichern, da es später voll wird.",
+            "hu": "Élvezze a finom homokot és a tiszta vizet, és érkezzen korán, hogy jó helyet biztosítson magának, mielőtt a tömeg megérkezik.",
+            "ro": "Bucurați-vă de nisipul fin și de apa clară și sosiți devreme pentru a prinde un loc bun înainte de a se aglomera.",
+            "en": "Enjoy the fine sand and clear water, and arrive early to secure a good spot before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "DIG | Designed in Greece",
+            "hu": "DIG | Designed in Greece",
+            "ro": "DIG | Designed in Greece",
+            "en": "DIG | Designed in Greece"
+          },
+          "coords": [
+            23.697811,
+            37.922717
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössisches griechisches Design in dieser einzigartigen Galerie; nehmen Sie sich Zeit für die faszinierenden Wechselausstellungen.",
+            "hu": "Fedezze fel a kortárs görög designt ebben az egyedülálló galériában; szánjon időt az izgalmas időszaki kiállításokra is.",
+            "ro": "Descoperiți designul grecesc contemporan în această galerie unică; luați-vă timp pentru a admira expozițiile temporare fascinante.",
+            "en": "Discover contemporary Greek design in this unique gallery; take your time to appreciate the fascinating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mpatis beach",
+            "hu": "Mpatis beach",
+            "ro": "Mpatis beach",
+            "en": "Mpatis beach"
+          },
+          "coords": [
+            23.694164,
+            37.922228
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strandabschnitt, ideal für ein erfrischendes Bad zur Mittagszeit in der Ägäis.",
+            "hu": "Pihenjen ezen a családbarát partszakaszon, amely ideális egy frissítő déli csobbanáshoz az Égei-tengerben.",
+            "ro": "Relaxați-vă pe această plajă prietenoasă pentru familii, ideală pentru o baie răcoritoare la prânz în Marea Egee.",
+            "en": "Relax at this family-friendly stretch of beach, ideal for a refreshing midday dip in the Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Neoclassical Mansion",
+            "hu": "Neoclassical Mansion",
+            "ro": "Neoclassical Mansion",
+            "en": "Neoclassical Mansion"
+          },
+          "coords": [
+            23.695719,
+            37.924573
+          ],
+          "category": "landmark",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Herrenhauses und fotografieren Sie die kunstvollen Details der Fassade.",
+            "hu": "Csodálja meg e történelmi kúria elegáns építészetét, és fotózza le a homlokzat művészi és aprólékos részleteit.",
+            "ro": "Admirați arhitectura elegantă a acestui conac istoric și fotografiați detaliile artistice complexe ale fațadei sale.",
+            "en": "Admire the elegant architecture of this historic mansion and photograph the intricate artistic details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmyra",
+            "hu": "Palmyra",
+            "ro": "Palmyra",
+            "en": "Palmyra"
+          },
+          "coords": [
+            23.69261,
+            37.923311
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem charmanten Küstenabschnitt ausklingen; bringen Sie ein Handtuch mit, um den Sonnenuntergang bequem zu genießen.",
+            "hu": "Zárja a napot ezen a bájos tengerparti szakaszon; hozzon magával egy törölközőt, hogy kényelmesen élvezhesse a naplementét.",
+            "ro": "Încheiați-vă ziua pe această secțiune fermecătoare de coastă; aduceți un prosop pentru a vă bucura confortabil de apus.",
+            "en": "End your day at this charming coastal section; bring a towel to sit back and comfortably enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang entspannt am wunderschönen Edem beach. Danach tauchen wir in der Galerie DIG tief in das moderne griechische Design ein. Das ist der perfekte Start in unseren Alimos-Tag.",
+        "hu": "Sétánkat lazán kezdjük a gyönyörű Edem beach-en. Ezt követően a DIG galériában elmerülünk a modern görög design világában. Ez a tökéletes kezdése az alimosi napunknak.",
+        "ro": "Ne începem plimbarea într-un mod relaxat pe frumoasa Edem beach. Apoi ne scufundăm în designul grecesc modern la galeria DIG. Acesta este începutul perfect pentru ziua noastră în Alimos.",
+        "en": "We begin our walk in a relaxed manner at the beautiful Edem beach. Afterwards, we dive deep into modern Greek design at the DIG gallery. It is the perfect start to our day in Alimos."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palmyra",
+            "hu": "Palmyra",
+            "ro": "Palmyra",
+            "en": "Palmyra"
+          },
+          "coords": [
+            23.69261,
+            37.923311
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einer frischen Brise am Meer und machen Sie ein paar Aufwärmübungen am ruhigen Strand.",
+            "hu": "Kezdje kerékpártúráját egy frissítő tengeri szellővel, és végezzen el néhány bemelegítő gyakorlatot a csendes strandon.",
+            "ro": "Începeți turul cu bicicleta cu o briză proaspătă de mare și faceți câteva exerciții de încălzire pe plaja liniștită.",
+            "en": "Start your bike tour with a fresh sea breeze and do some warm-up exercises on the quiet, peaceful beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Neoclassical Mansion",
+            "hu": "Neoclassical Mansion",
+            "ro": "Neoclassical Mansion",
+            "en": "Neoclassical Mansion"
+          },
+          "coords": [
+            23.695719,
+            37.924573
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um die beeindruckenden Proportionen des Gebäudes zu bestaunen; ein tolles Motiv für Architektur-Fans.",
+            "hu": "Álljon meg egy pillanatra, hogy megcsodálja az épület lenyűgöző arányait; remek téma az építészet szerelmeseinek.",
+            "ro": "Opriți-vă pentru a vă minuna de proporțiile impresionante ale clădirii; un subiect grozav pentru iubitorii de arhitectură.",
+            "en": "Pause briefly to marvel at the impressive proportions of the building; a great subject for architecture enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mpatis beach",
+            "hu": "Mpatis beach",
+            "ro": "Mpatis beach",
+            "en": "Mpatis beach"
+          },
+          "coords": [
+            23.694164,
+            37.922228
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Gelegenheit für eine kurze Abkühlung im Wasser; der Radweg entlang der Küste ist hier besonders schön.",
+            "hu": "Használja ki az alkalmat egy rövid hűsölésre a vízben; a part menti kerékpárút itt különösen szép és kényelmes.",
+            "ro": "Profitați de ocazie pentru o scurtă răcorire în apă; pista de biciclete de-a lungul coastei este deosebit de frumoasă aici.",
+            "en": "Take the opportunity for a quick cool-down in the water; the bike path along the coast here is particularly beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "DIG | Designed in Greece",
+            "hu": "DIG | Designed in Greece",
+            "ro": "DIG | Designed in Greece",
+            "en": "DIG | Designed in Greece"
+          },
+          "coords": [
+            23.697811,
+            37.922717
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die kreative Welt des modernen griechischen Designs.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, és merüljön el a modern görög design kreatív és inspiráló világában.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în lumea creativă a designului grecesc modern și inspirat.",
+            "en": "Park your bike safely and immerse yourself in the highly creative world of modern Greek design."
+          }
+        },
+        {
+          "name": {
+            "de": "Edem beach",
+            "hu": "Edem beach",
+            "ro": "Edem beach",
+            "en": "Edem beach"
+          },
+          "coords": [
+            23.698417,
+            37.919911
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein hervorragender Ort für ein Picknick; setzen Sie sich in den Sand und tanken Sie neue Energie für die Weiterfahrt.",
+            "hu": "Kiváló helyszín egy piknikhez; üljön le a homokba, és gyűjtsön új energiát a kerékpártúra további részéhez.",
+            "ro": "Un loc excelent pentru un picnic; așezați-vă pe nisip și reîncărcați-vă cu energie pentru restul călătoriei.",
+            "en": "An excellent spot for a picnic; sit on the sand and recharge your batteries for the rest of your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakelas",
+            "hu": "Bakelas",
+            "ro": "Bakelas",
+            "en": "Bakelas"
+          },
+          "coords": [
+            23.713972,
+            37.909706
+          ],
+          "category": "museum",
+          "arrive_at": "16:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum, das tiefere Einblicke in die lokale Geschichte und Kultur der Region bietet.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely mélyebb betekintést nyújt a régió helyi történelmébe és kultúrájába.",
+            "ro": "Explorați acest muzeu fascinant care oferă o perspectivă mai profundă asupra istoriei și culturii locale a regiunii.",
+            "en": "Explore this fascinating museum, which offers deeper insights into the local history and culture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "A' Alimos Beach \"Stolidi\"",
+            "hu": "A' Alimos Beach \"Stolidi\"",
+            "ro": "A' Alimos Beach \"Stolidi\"",
+            "en": "A' Alimos Beach \"Stolidi\""
+          },
+          "coords": [
+            23.712461,
+            37.909214
+          ],
+          "category": "recreational",
+          "arrive_at": "17:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre sportliche Tour mit einem letzten Bad im Meer, während die Sonne langsam am Horizont versinkt.",
+            "hu": "Fejezze be sportos túráját egy utolsó fürdőzéssel a tengerben, miközben a nap lassan leereszkedik a horizonton.",
+            "ro": "Încheiați-vă turul sportiv cu o ultimă baie în mare, în timp ce soarele apune încet la orizont.",
+            "en": "Finish your sporty tour with a final swim in the sea as the sun slowly sets down over the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden wir die herrliche Küste, beginnend am Palmyra Strand. Die sanfte Brise begleitet uns vorbei an historischen Bauten und modernen Kunstwerken in Alimos. Wir fahren bis zu den ruhigen Stränden im Süden.",
+        "hu": "Két keréken fedezzük fel a csodálatos partvidéket, a Palmyra strandtól indulva. A lágy szellő elkísér minket Alimos történelmi épületei és modern műalkotásai mellett, egészen a déli csendes partokig.",
+        "ro": "Explorăm minunata coastă pe două roți, începând de la plaja Palmyra. Briza blândă ne însoțește pe lângă clădiri istorice și opere de artă modernă, mergând până la plajele liniștite din sud.",
+        "en": "On two wheels we explore the magnificent coast, starting at Palmyra beach. The gentle breeze accompanies us past historic buildings and modern artwork in Alimos, riding all the way to the quiet southern beaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "I.N. Eisodion Theotokou",
+            "hu": "I.N. Eisodion Theotokou",
+            "ro": "I.N. Eisodion Theotokou",
+            "en": "I.N. Eisodion Theotokou"
+          },
+          "coords": [
+            23.739226,
+            37.916264
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschönen Fresken im Inneren und kleiden Sie sich respektvoll für den Besuch dieses sakralen Ortes.",
+            "hu": "Csodálja meg a gyönyörű belső freskókat, és öltözzön tisztelettudóan, amikor meglátogatja ezt a szent helyet.",
+            "ro": "Admirați frescele frumoase din interior și îmbrăcați-vă respectuos pentru vizitarea acestui loc sacru important.",
+            "en": "Observe the beautiful frescoes inside and dress respectfully for your visit to this important sacred place."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatrike Skene Alimou \"Karolos Koun\"",
+            "hu": "Theatrike Skene Alimou \"Karolos Koun\"",
+            "ro": "Theatrike Skene Alimou \"Karolos Koun\"",
+            "en": "Theatrike Skene Alimou \"Karolos Koun\""
+          },
+          "coords": [
+            23.719769,
+            37.914255
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Informieren Sie sich vorab über das aktuelle Programm dieses kleinen Theaters, das eine wichtige Rolle in der lokalen Kulturszene spielt.",
+            "hu": "Tájékozódjon előre e kis színház aktuális programjáról, amely fontos szerepet játszik a helyi kulturális életben.",
+            "ro": "Aflați din timp programul actual al acestui mic teatru, care joacă un rol important în scena culturală locală.",
+            "en": "Check ahead of time for the current program of this small theater, which plays a major role in the local cultural scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakelas",
+            "hu": "Bakelas",
+            "ro": "Bakelas",
+            "en": "Bakelas"
+          },
+          "coords": [
+            23.713972,
+            37.909706
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe und widmen Sie sich in Ruhe der faszinierenden Sammlung dieses Museums.",
+            "hu": "Használja a közeli parkolási lehetőségeket, és szenteljen nyugodtan időt a múzeum lenyűgöző gyűjteményének megtekintésére.",
+            "ro": "Folosiți opțiunile de parcare din apropiere și dedicați-vă timpul în liniște colecției fascinante a acestui muzeu.",
+            "en": "Use the nearby parking facilities and take your time to thoroughly explore the fascinating collection of this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "A' Alimos Beach \"Stolidi\"",
+            "hu": "A' Alimos Beach \"Stolidi\"",
+            "ro": "A' Alimos Beach \"Stolidi\"",
+            "en": "A' Alimos Beach \"Stolidi\""
+          },
+          "coords": [
+            23.712461,
+            37.909214
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Strand für Familien; mieten Sie sich einen Liegestuhl und lauschen Sie entspannt dem Rauschen der Wellen.",
+            "hu": "Tökéletes strand családok számára; béreljen egy napágyat, és lazítson a hullámok megnyugtató hangját hallgatva.",
+            "ro": "O plajă perfectă pentru familii; închiriați un șezlong și relaxați-vă ascultând sunetul calmant al valurilor mării.",
+            "en": "A perfect beach for families; rent a sun lounger and relax while listening to the soothing sound of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Cosmas",
+            "hu": "Agios Cosmas",
+            "ro": "Agios Cosmas",
+            "en": "Agios Cosmas"
+          },
+          "coords": [
+            23.720863,
+            37.89044
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Diese Halbinsel bietet fantastische Ausblicke; spazieren Sie entlang der Küste und atmen Sie die frische Meeresluft ein.",
+            "hu": "Ez a félsziget fantasztikus kilátást nyújt; sétáljon végig a part mentén, és lélegezze be a friss tengeri levegőt.",
+            "ro": "Această peninsulă oferă vederi fantastice; plimbați-vă de-a lungul coastei și respirați aerul proaspăt al mării Egee.",
+            "en": "This peninsula offers fantastic views; take a walk along the rugged coastline and breathe in the fresh sea air."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmyra",
+            "hu": "Palmyra",
+            "ro": "Palmyra",
+            "en": "Palmyra"
+          },
+          "coords": [
+            23.69261,
+            37.923311
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss nach Norden zum Palmyra und genießen Sie einen unvergesslichen Sonnenuntergang am Sandstrand.",
+            "hu": "Túrája végén autózzon északra a Palmyrához, és élvezze a felejthetetlen naplementét ezen a csodás homokos strandon.",
+            "ro": "La final, conduceți spre nord la Palmyra și bucurați-vă de un apus de soare de neuitat pe această plajă cu nisip.",
+            "en": "At the end, drive north to Palmyra and enjoy an unforgettable sunset on this wonderful stretch of sandy beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir bequem Kultur und Erholung. Wir starten im Landesinneren an der Kirche und besuchen das Theater. Danach geht es an die Küste für Museen und entspannte Stunden am Strand.",
+        "hu": "Autóval kényelmesen ötvözzük a kultúrát és a pihenést. A szárazföld belsejében lévő templomnál kezdünk, majd a színházat látogatjuk meg. Ezután a partra tartunk múzeumok és tengerparti kikapcsolódás végett.",
+        "ro": "Cu mașina combinăm confortabil cultura și relaxarea. Începem în interior la biserică și vizităm teatrul local. Apoi ne îndreptăm spre coastă pentru muzee și ore relaxante pe plajă în lumina soarelui.",
+        "en": "By car we comfortably combine culture and recreation. We start inland at the church and visit the theater. Then we head to the coast for museums and relaxing hours on the beach in the late afternoon."
+      }
+    }
+  }
+}

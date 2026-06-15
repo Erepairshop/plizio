@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-marian-glas-cities-v2",
+  "anchor": {
+    "name": "Marian-glas",
+    "coords": [
+      -4.24697,
+      53.33635
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eglwys Llanallgo",
+            "hu": "Eglwys Llanallgo",
+            "ro": "Eglwys Llanallgo",
+            "en": "Eglwys Llanallgo"
+          },
+          "coords": [
+            -4.252453,
+            53.341175
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Architektur dieser friedlichen Kirche, die eng mit der Geschichte der Royal Charter verbunden ist, und kommen Sie früh, um die morgendliche Stille zu genießen.",
+            "hu": "Csodálja meg a béke szigeteként ismert ősi templom építészetét, amely szorosan kötődik a Royal Charter történetéhez, és érkezzen korán a csendes légkörért.",
+            "ro": "Admirați arhitectura străveche a acestei biserici pașnice, legată de istoria Royal Charter, și sosiți devreme pentru a vă bucura de atmosfera liniștită.",
+            "en": "Admire the ancient architecture of this peaceful church tied to the Royal Charter history, and arrive early in the morning to enjoy its deeply tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Capel Paradwys",
+            "hu": "Capel Paradwys",
+            "ro": "Capel Paradwys",
+            "en": "Capel Paradwys"
+          },
+          "coords": [
+            -4.247396,
+            53.344344
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser kleinen Kapelle aus vergangenen Zeiten, wo man noch heute Inschriften bewundern kann, und bringen Sie eine Kamera für das Lichtspiel mit.",
+            "hu": "Fedezze fel a letűnt korok ezen kis kápolnájának spirituális nyugalmát, amely még mindig őrzi régi feliratait, és hozzon magával fényképezőgépet a különleges fények miatt.",
+            "ro": "Descoperiți calmul spiritual al acestei mici capele din vremuri apuse, unde încă se păstrează inscripții vechi, și aduceți o cameră pentru jocul de lumini.",
+            "en": "Discover the spiritual tranquility of this small chapel from bygone eras that still preserves its old inscriptions, and bring a camera to capture the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliger Kalkofen",
+            "hu": "Egykori mészégető",
+            "ro": "Fost cuptor de var",
+            "en": "Former lime kiln"
+          },
+          "coords": [
+            -4.244102,
+            53.331742
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die massiven Steinmauern dieses historischen Kalkofens, ein Zeugnis der industriellen Vergangenheit, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Nézze meg az egykori mészégető masszív kőfalait, melyek a helyi ipari múltat idézik, és viseljen zárt, kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Observați pereții masivi de piatră ai acestui vechi cuptor de var ce evocă trecutul industrial local și purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Observe the massive stone walls of this historic lime kiln that evokes the region's industrial past, and wear sturdy footwear for the uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Traeth Bychan",
+            "hu": "Traeth Bychan",
+            "ro": "Traeth Bychan",
+            "en": "Traeth Bychan"
+          },
+          "coords": [
+            -4.230911,
+            53.338896
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den goldenen Sand dieser geschützten Bucht, ideal für eine Pause, und packen Sie eine winddichte Jacke für die frische Seebrise ein.",
+            "hu": "Élvezze a védett öböl lágy hullámait és aranyhomokját, amely tökéletes egy kis pihenésre, és vigyen magával egy szélkabátot a tengeri fuvallat ellen.",
+            "ro": "Bucurați-vă de valurile blânde și nisipul auriu al acestui golf adăpostit, perfect pentru relaxare, și luați o jachetă rezistentă la vânt pentru briza proaspătă.",
+            "en": "Enjoy the gentle waves and golden sands of this sheltered bay perfect for taking a well-deserved rest, and pack a windproof jacket to guard against the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Moelfre RNLI Seawatch Centre",
+            "hu": "Moelfre RNLI Seawatch Központ",
+            "ro": "Centrul Moelfre RNLI Seawatch",
+            "en": "Moelfre RNLI Seawatch Centre"
+          },
+          "coords": [
+            -4.233604,
+            53.353881
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie faszinierende Geschichten über mutige Seenotrettungen an dieser tückischen Küste und prüfen Sie vorab die aktuellen Öffnungszeiten im Besucherzentrum.",
+            "hu": "Ismerje meg a veszélyes partszakasz bátor tengeri mentőakcióinak lenyűgöző történetét, de előtte feltétlenül ellenőrizze a látogatóközpont nyitvatartási idejét.",
+            "ro": "Aflați povești fascinante despre salvările maritime curajoase de pe această coastă înșelătoare și verificați în prealabil programul de vizitare al centrului.",
+            "en": "Learn the fascinating stories of courageous maritime rescues along this treacherous coastline, and double-check the opening hours before wrapping up your day here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der friedlichen religiösen Küstenkultur bei Eglwys Llanallgo und Capel Paradwys, während Sie die frische Meeresbrise genießen. Mittags tauchen Sie am stimmungsvollen ehemaligen Kalkofen in die industrielle Vergangenheit ein. Der Nachmittag ist für die malerischen Ufer von Traeth Bychan reserviert. Beenden Sie Ihren Tag im RNLI Seawatch Centre von Moelfre.",
+        "hu": "Kezdje a reggelt az Eglwys Llanallgo és a Capel Paradwys templomoknál a tengerparti friss szellőben. Délben merüljön el a környék ipari múltjában a hangulatos egykori mészégetőnél. A délután a festői Traeth Bychan homokos partjainak van fenntartva, ami ideális egy pihentető sétához. Zárja a napot a helyi tengeri mentők történeteivel a Moelfre RNLI Seawatch Központban.",
+        "ro": "Începeți dimineața explorând moștenirea religioasă de coastă la Eglwys Llanallgo și Capel Paradwys. La prânz, pătrundeți în trecutul industrial la vechiul cuptor de var, un loc perfect pentru o pauză. După-amiaza este rezervată pentru țărmurile pitorești de la Traeth Bychan. Încheiați ziua aflând despre eroismul maritim local la Centrul Moelfre RNLI Seawatch, la apus.",
+        "en": "Start your morning exploring the serene coastal religious heritage at Eglwys Llanallgo and Capel Paradwys. By midday, delve into the area's industrial past at the atmospheric former lime kiln, a perfect spot to reflect. The afternoon is reserved for the picturesque shores of Traeth Bychan, ideal for a stroll. Conclude your day learning about maritime heroism at the Moelfre RNLI Seawatch Centre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St Mary",
+            "hu": "Szent Mária",
+            "ro": "Sfânta Maria",
+            "en": "St Mary"
+          },
+          "coords": [
+            -4.243502,
+            53.321836
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an diesem historischen Orientierungspunkt, der die Gemeinde seit Jahrhunderten prägt, und lassen Sie Ihr Fahrrad am nahegelegenen Zaun stehen.",
+            "hu": "Kezdje a túrát ennél a történelmi tájékozódási pontnál, amely évszázadok óta meghatározza a közösséget, és nyugodtan támassza a kerékpárját a közeli kerítéshez.",
+            "ro": "Începeți turul la acest punct de reper istoric ce a modelat comunitatea de secole și lăsați-vă bicicleta sprijinită de gardul din apropiere.",
+            "en": "Kick off your ride at this historic landmark that has anchored the local community for centuries, and safely lean your bicycle against the adjacent stone fence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkofen",
+            "hu": "Mészégető",
+            "ro": "Cuptor de var",
+            "en": "Lime kiln"
+          },
+          "coords": [
+            -4.251741,
+            53.323187
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieses alten Ofens, der früher für den Bau unverzichtbar war, und treten Sie vorsichtig in die teils überwucherten Bereiche.",
+            "hu": "Fedezze fel a régi mészégető jól megőrzött romjait, amely egykor elengedhetetlen volt az építkezésekhez, de lépkedjen óvatosan a sűrű növényzet miatt.",
+            "ro": "Explorați ruinele bine conservate ale acestui vechi cuptor, esențial odinioară pentru construcții, și pășiți cu grijă în zonele invadate de vegetație.",
+            "en": "Explore the well-preserved ruins of this old kiln once essential for historical construction, and step carefully around the somewhat overgrown inner sections."
+          }
+        },
+        {
+          "name": {
+            "de": "St Eugrad's Church",
+            "hu": "St Eugrad-templom",
+            "ro": "Biserica Sf. Eugrad",
+            "en": "St Eugrad's Church"
+          },
+          "coords": [
+            -4.260834,
+            53.332971
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das alte Mauerwerk dieser ländlichen Kirche mit ihrer einzigartigen Atmosphäre und nehmen Sie sich Zeit, die alten Grabsteine zu lesen.",
+            "hu": "Csodálja meg e vidéki templom ősi falait és egyedülálló hangulatát, majd szánjon időt a történelmi sírkövek feliratainak elolvasására.",
+            "ro": "Admirați zidăria veche a acestei biserici rurale cu o atmosferă unică și luați-vă timp să citiți inscripțiile de pe pietrele funerare istorice.",
+            "en": "Admire the ancient stonework of this rural church that exudes a distinctly timeless aura, and take a moment to read the worn inscriptions on the historic gravestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglwys Llanallgo",
+            "hu": "Eglwys Llanallgo",
+            "ro": "Eglwys Llanallgo",
+            "en": "Eglwys Llanallgo"
+          },
+          "coords": [
+            -4.252453,
+            53.341175
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die tragische Geschichte des Royal Charter Schiffbruchs, denn die Kirche diente einst als Zufluchtsort und Gedenkstätte.",
+            "hu": "Ismerje meg a Royal Charter hajótörés tragikus történetét ezen a helyen, amely egykor menedékként és emlékhelyként is szolgált a túlélők számára.",
+            "ro": "Aflați mai multe despre tragica poveste a naufragiului Royal Charter aici, deoarece biserica a servit odinioară drept refugiu și memorial.",
+            "en": "Learn about the tragic tale of the Royal Charter shipwreck right here, as the church historically served as a poignant refuge and memorial for the lost souls."
+          }
+        },
+        {
+          "name": {
+            "de": "Capel Paradwys",
+            "hu": "Capel Paradwys",
+            "ro": "Capel Paradwys",
+            "en": "Capel Paradwys"
+          },
+          "coords": [
+            -4.247396,
+            53.344344
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die Stille dieses abgelegenen Gotteshauses, das seinen Namen 'Paradies' zu Recht trägt, und genießen Sie die kühle Luft im Steinbau.",
+            "hu": "Élje át e félreeső imaház nyugalmát, amely méltán viseli a 'Paradicsom' nevet, és élvezze a kőépület nyújtotta hűvös levegőt a déli melegben.",
+            "ro": "Experimentați liniștea acestui lăcaș de cult izolat, care își merită pe deplin numele de 'Paradis', și bucurați-vă de aerul răcoros din clădirea de piatră.",
+            "en": "Experience the absolute stillness of this isolated place of worship aptly named 'Paradise', and relish the cool, refreshing air inside its thick stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Traeth Bychan",
+            "hu": "Traeth Bychan",
+            "ro": "Traeth Bychan",
+            "en": "Traeth Bychan"
+          },
+          "coords": [
+            -4.230911,
+            53.338896
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen wunderschönen Strand für ein Picknick in der Mittagssonne und sichern Sie Ihr Fahrrad an der Strandpromenade, bevor Sie das Wasser berühren.",
+            "hu": "Használja ki ezt a gyönyörű strandot egy piknikre a kora délutáni napsütésben, de mielőtt vízbe lépne, rögzítse kerékpárját a sétányon.",
+            "ro": "Profitați de această plajă frumoasă pentru un picnic sub soarele după-amiezii și asigurați-vă bicicleta pe promenadă înainte de a intra în apă.",
+            "en": "Take advantage of this gorgeous sheltered beach for a picnic in the midday sun, and securely lock your bike along the promenade before touching the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Moelfre RNLI Seawatch Centre",
+            "hu": "Moelfre RNLI Seawatch Központ",
+            "ro": "Centrul Moelfre RNLI Seawatch",
+            "en": "Moelfre RNLI Seawatch Centre"
+          },
+          "coords": [
+            -4.233604,
+            53.353881
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Radtour mit inspirierenden Geschichten von Lebensrettern ab und werfen Sie einen Blick auf das historische Rettungsboot im Ausstellungsraum.",
+            "hu": "Zárja kerékpártúráját az életmentők inspiráló történeteivel, és vessen egy pillantást a kiállítóteremben található történelmi mentőcsónakra.",
+            "ro": "Încheiați turul cu bicicleta cu poveștile pline de inspirație ale salvamarilor și aruncați o privire la barca de salvare istorică din sala de expoziții.",
+            "en": "Cap off your bike tour with the profoundly inspiring tales of local lifesavers, and be sure to get a close look at the historic lifeboat on display inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt in der frischen Morgenluft bei St Mary und dem nahegelegenen Kalkofen, wo Sie lokale Geschichte einatmen. Mittags radeln Sie gemütlich durch sanfte Hügel zu den Kirchen St Eugrad's und Eglwys Llanallgo. Der Nachmittag bringt Sie über Capel Paradwys direkt zur Bucht von Traeth Bychan, ideal für eine Pause. Am späten Nachmittag erreichen Sie das RNLI Seawatch Centre.",
+        "hu": "Kerékpártúrája a friss reggeli levegőben kezdődik a Szent Mária templomnál és a közeli mészégetőnél. Délben kényelmesen tekerhet át a lankás dombokon a St Eugrad és az Eglwys Llanallgo templomokhoz. A délután a Capel Paradwys érintésével egyenesen a Traeth Bychan öbölhöz vezet, amely tökéletes egy kis pihenésre. Késő délután érkezik meg az ikonikus RNLI Seawatch Központba.",
+        "ro": "Turul cu bicicleta începe în aerul proaspăt al dimineții la Sfânta Maria și la cuptorul de var din apropiere. La prânz, pedalați lejer printre dealurile blânde spre bisericile Sf. Eugrad și Eglwys Llanallgo. După-amiaza vă poartă prin Capel Paradwys direct la golful Traeth Bychan, perfect pentru o pauză relaxantă. Spre seară veți ajunge la emblematicul Centru Moelfre RNLI Seawatch.",
+        "en": "Your cycling adventure starts in the crisp morning air at St Mary and the nearby historical lime kiln. Midday sees you pedaling comfortably through gentle hills towards St Eugrad's and Eglwys Llanallgo. The afternoon route leads through Capel Paradwys directly to the sandy shores of Traeth Bychan for a rest. By late afternoon, you'll reach the iconic Moelfre RNLI Seawatch Centre to conclude."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dinas",
+            "hu": "Dinas erőd",
+            "ro": "Fortăreața Dinas",
+            "en": "Dinas"
+          },
+          "coords": [
+            -4.253754,
+            53.319395
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die grasbewachsenen Erdwälle dieser alten Festung für einen weiten Blick und parken Sie Ihr Auto rücksichtsvoll am Straßenrand.",
+            "hu": "Mássza meg a régi erőd fűvel benőtt földsáncait a pazar kilátásért, és parkoljon le óvatosan, másokra tekintettel az út szélén.",
+            "ro": "Urcați pe valurile de pământ acoperite de iarbă ale acestei vechi fortărețe pentru o priveliște vastă și parcați mașina cu grijă pe marginea drumului.",
+            "en": "Climb the grassy earthworks of this ancient iron-age fortress to secure a commanding view, and be sure to park your car considerately along the narrow lane."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary",
+            "hu": "Szent Mária",
+            "ro": "Sfânta Maria",
+            "en": "St Mary"
+          },
+          "coords": [
+            -4.243502,
+            53.321836
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Stopp an diesem charmanten Wahrzeichen, das sich perfekt für ein schnelles Foto vor der Weiterfahrt eignet.",
+            "hu": "Tegyen egy rövid kitérőt ennél a bájos tájékozódási pontnál, amely tökéletes hátteret nyújt egy gyors fényképhez a továbbutazás előtt.",
+            "ro": "Faceți o scurtă oprire la acest reper fermecător, care este perfect pentru o fotografie rapidă înainte de a vă continua drumul.",
+            "en": "Make a brief stop at this highly charming local landmark which provides an excellent backdrop for a quick photograph before driving onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkofen",
+            "hu": "Mészégető",
+            "ro": "Cuptor de var",
+            "en": "Lime kiln"
+          },
+          "coords": [
+            -4.251741,
+            53.323187
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die robusten Überreste dieser industriellen Anlage und nutzen Sie die nahe gelegenen Ausweichstellen zum sicheren Abstellen des Wagens.",
+            "hu": "Vizsgálja meg e robusztus ipari létesítmény maradványait, és használja a közeli kitérőket az autó biztonságos leparkolásához.",
+            "ro": "Examinați rămășițele robuste ale acestei instalații industriale și folosiți refugiile din apropiere pentru a parca mașina în siguranță.",
+            "en": "Examine the robust industrial remains of this historical kiln site, utilizing the nearby passing places to safely pull your vehicle off the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "St Eugrad's Church",
+            "hu": "St Eugrad-templom",
+            "ro": "Biserica Sf. Eugrad",
+            "en": "St Eugrad's Church"
+          },
+          "coords": [
+            -4.260834,
+            53.332971
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Abgeschiedenheit dieser Steinkirche auf sich wirken, bevor Sie sich nach dem Mittag den weiteren historischen Stätten widmen.",
+            "hu": "Szívja magába e kőtemplom elszigeteltségének békéjét, mielőtt ebéd után a többi történelmi nevezetesség felé venné az irányt.",
+            "ro": "Lăsați izolarea acestei biserici de piatră să vă inspire liniște, înainte de a explora mai departe siturile istorice ale zonei.",
+            "en": "Let the deep seclusion of this stone church impart a sense of total peace before you move on to explore the other historical sites in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglwys Llanallgo",
+            "hu": "Eglwys Llanallgo",
+            "ro": "Eglwys Llanallgo",
+            "en": "Eglwys Llanallgo"
+          },
+          "coords": [
+            -4.252453,
+            53.341175
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Denkmal für die Opfer der Royal Charter und achten Sie auf die schmale Zufahrt beim Hineinfahren mit dem Auto.",
+            "hu": "Látogassa meg a Royal Charter áldozatainak emlékművét, de a bejáratnál legyen nagyon óvatos a szűk felhajtó miatt.",
+            "ro": "Vizitați memorialul victimelor navei Royal Charter și acordați o atenție sporită intrării înguste atunci când intrați cu mașina.",
+            "en": "Visit the solemn memorial dedicated to the Royal Charter victims, and pay very close attention to the tight, narrow entrance when maneuvering your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliger Kalkofen",
+            "hu": "Egykori mészégető",
+            "ro": "Fost cuptor de var",
+            "en": "Former lime kiln"
+          },
+          "coords": [
+            -4.244102,
+            53.331742
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Vergleichen Sie diesen zweiten Ofen mit dem ersten und entdecken Sie, wie sich die Steinbautechniken in dieser Gegend über die Jahre entwickelt haben.",
+            "hu": "Hasonlítsa össze ezt a második kemencét az elsővel, és fedezze fel, hogyan fejlődtek a helyi kőépítési technikák az évek során.",
+            "ro": "Comparați acest al doilea cuptor cu primul și descoperiți cum au evoluat tehnicile de construcție din piatră în această zonă de-a lungul anilor.",
+            "en": "Compare this second kiln structure with the first one you saw, noting how local stone-building techniques evolved significantly over the years."
+          }
+        },
+        {
+          "name": {
+            "de": "Traeth Bychan",
+            "hu": "Traeth Bychan",
+            "ro": "Traeth Bychan",
+            "en": "Traeth Bychan"
+          },
+          "coords": [
+            -4.230911,
+            53.338896
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie bequem am nahegelegenen Parkplatz und verbringen Sie einen entspannten Nachmittag mit Blick auf das glitzernde Wasser der ruhigen Bucht.",
+            "hu": "Parkoljon le kényelmesen a közeli parkolóban, és töltsön el egy pihentető délutánt a csendes öböl csillogó vizének látványában gyönyörködve.",
+            "ro": "Parcați convenabil în parcarea din apropiere și petreceți o după-amiază relaxantă privind apele strălucitoare ale acestui golf liniștit.",
+            "en": "Park conveniently at the dedicated nearby lot and spend a supremely relaxing late afternoon just gazing at the sparkling waters of this tranquil bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Moelfre RNLI Seawatch Centre",
+            "hu": "Moelfre RNLI Seawatch Központ",
+            "ro": "Centrul Moelfre RNLI Seawatch",
+            "en": "Moelfre RNLI Seawatch Centre"
+          },
+          "coords": [
+            -4.233604,
+            53.353881
+          ],
+          "category": "landmark",
+          "arrive_at": "16:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto auf dem ausgewiesenen Besucherparkplatz stehen und runden Sie den Tag mit tiefgreifenden maritimen Ausstellungen ab.",
+            "hu": "Hagyja autóját a kijelölt látogatói parkolóban, és koronázza meg a napot a mélyreható tengerészeti és életmentő kiállítások megtekintésével.",
+            "ro": "Lăsați mașina în parcarea specială pentru vizitatori și încheiați ziua explorând în profunzime expozițiile maritime și de salvare.",
+            "en": "Leave your car safely in the designated visitor parking area and proudly round off your long day by exploring these profound maritime rescue exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie mit dem Auto die alte Festung Dinas und das Wahrzeichen St Mary. Mittags führt die kurze Fahrt Sie zu den faszinierenden Kalköfen und den versteckten Kirchen St Eugrad's und Eglwys Llanallgo. Der Nachmittag bietet am schönen Strand von Traeth Bychan ausreichend Gelegenheit zur Entspannung am Meer. Den Abend beschließen Sie kulturell bereichert im maritimen Moelfre RNLI Seawatch Centre.",
+        "hu": "Reggel autóval könnyedén felfedezheti az ősi Dinas erődöt és a Szent Mária templomot. Délben egy rövid út elvezet a lenyűgöző mészégetőkhöz és az eldugott St Eugrad, valamint Eglwys Llanallgo templomokhoz. A délután a Traeth Bychan strandján bőséges lehetőséget kínál a tengerparti kikapcsolódásra. Az estét kulturális élményekkel gazdagodva zárhatja a tengerészeti Moelfre RNLI Seawatch Központban.",
+        "ro": "Dimineața veți explora cu mașina vechea fortăreață Dinas și reperul istoric Sfânta Maria. La prânz, un scurt traseu vă duce la cuptoarele de var fascinante și la bisericile ascunse Sf. Eugrad și Eglwys Llanallgo. După-amiaza oferă ocazia perfectă de relaxare pe plaja superbă de la Traeth Bychan. Seara se încheie cu o experiență culturală valoroasă la centrul maritim Moelfre RNLI Seawatch.",
+        "en": "In the morning, use your car to effortlessly explore the ancient Dinas fortress and St Mary landmark. Midday short drives will connect you to fascinating lime kilns and the deeply hidden churches of St Eugrad's and Eglwys Llanallgo. The afternoon grants ample time for seaside relaxation at the sandy Traeth Bychan beach. Your evening concludes with culturally enriching maritime tales at the Moelfre RNLI Seawatch Centre."
+      }
+    }
+  }
+}

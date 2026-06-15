@@ -1,0 +1,451 @@
+{
+  "city_id": "porto-vecchio",
+  "anchor": {
+    "name": "Porto-Vecchio",
+    "coords": [
+      9.2797,
+      41.5908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 6.21,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            9.279235,
+            41.590884
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unvollendete Steinfassade dieser eleganten Kirche und betrachten Sie die wunderschönen Fresken, die im sanften Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg ennek az elegáns templomnak a befejezetlen kőhomlokzatát, majd lépjen be a gyönyörű freskókért, amelyeket a lágy reggeli fényben a legjobb megtekinteni.",
+            "ro": "Admirați fațada de piatră neterminată a acestei biserici elegante înainte de a păși înăuntru pentru a vedea frescele sale frumoase, cel mai bine luminate dimineața.",
+            "en": "Admire the unfinished stone facade of this elegant church before stepping inside to see its beautiful frescoes, best viewed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Porto-Vecchio",
+            "hu": "Porto-Vecchio Citadella",
+            "ro": "Citadela din Porto-Vecchio",
+            "en": "Citadel of Porto-Vecchio"
+          },
+          "coords": [
+            9.280601,
+            41.591593
+          ],
+          "category": "fortress",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten genuesischen Mauern, die die Stadt vor Piraten schützten, und erklimmen Sie die Festungswälle für einen Panoramablick über das glitzernde Mittelmeer.",
+            "hu": "Fedezze fel az ősi genovai falakat, amelyek kalózoktól védték a várost, és másszon fel a bástyákra a csillogó Földközi-tengerre nyíló panorámás kilátásért.",
+            "ro": "Explorați zidurile antice genoveze care au protejat orașul de pirați și urcați pe metereze pentru vederi panoramice asupra Mării Mediterane strălucitoare.",
+            "en": "Explore the ancient Genoese walls that protected the city from pirates, and climb the ramparts for panoramic views over the sparkling Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion de France",
+            "hu": "Bastion de France",
+            "ro": "Bastion de France",
+            "en": "Bastion de France"
+          },
+          "coords": [
+            9.28122,
+            41.5917
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.06,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Festung, in der heute lebhafte Kunstausstellungen stattfinden, und besuchen Sie die obere Terrasse für ein perfektes Sonnenuntergangsfoto über dem Golf.",
+            "hu": "Lépjen be ebbe a történelmi erődbe, amely ma élénk művészeti kiállításoknak ad otthont, és ne hagyja ki a felső teraszt a tökéletes naplemente fotóhoz az öböl felett.",
+            "ro": "Pășiți în această fortăreață istorică ce găzduiește acum expoziții de artă vibrante și asigurați-vă că verificați terasa superioară pentru o fotografie perfectă la apus peste golf.",
+            "en": "Step into this historic fortress which now hosts vibrant art exhibitions, and be sure to check the top terrace for a perfect sunset photo opportunity over the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von Porto-Vecchio",
+            "hu": "Porto-Vecchio Kikötő",
+            "ro": "Portul Porto-Vecchio",
+            "en": "Porto-Vecchio Marina"
+          },
+          "coords": [
+            9.280272,
+            41.608621
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie in diesem belebten Hafen vorbei an luxuriösen Yachten und traditionellen Fischerbooten und gönnen Sie sich ein erfrischendes Eis in einem der lebhaften Cafés am Wasser.",
+            "hu": "Sétáljon el a luxusjachtok és hagyományos halászhajók mellett ebben a nyüzsgő kikötőben, és kóstoljon meg egy frissítő kézműves fagylaltot a vízparti kávézók egyikében.",
+            "ro": "Plimbați-vă pe lângă iahturi luxoase și bărci tradiționale de pescuit în acest port plin de viață și savurați o înghețată artizanală de la una dintre numeroasele cafenele.",
+            "en": "Stroll past luxurious yachts and traditional fishing boats in this bustling harbor, and grab a refreshing artisan gelato from one of the many lively waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "La Plage Casadelmar",
+            "hu": "La Plage Casadelmar",
+            "ro": "La Plage Casadelmar",
+            "en": "La Plage Casadelmar"
+          },
+          "coords": [
+            9.319498,
+            41.615979
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten weißen Sandstrand, der von duftenden Pinien gesäumt ist, und kommen Sie früh, um sich einen schattigen Platz am kristallklaren Wasser zu sichern.",
+            "hu": "Pihenjen ezen az érintetlen, fehér homokos, illatos fenyőkkel szegélyezett tengerparton, és érkezzen korán, hogy árnyékos helyet találjon a kristálytiszta türkizkék víz közelében.",
+            "ro": "Relaxați-vă pe această întindere de nisip alb mărginită de pini parfumați și ajungeți devreme pentru a vă asigura un loc umbrit lângă apele turcoaz cristaline și puțin adânci.",
+            "en": "Relax on this pristine stretch of white sand bordered by fragrant pine trees, and arrive early to secure a shaded spot near the crystal-clear, shallow turquoise waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den charmanten Straßen der Altstadt und bewundern Sie die St.-Johannes-der-Täufer-Kirche sowie die beeindruckende Zitadelle. Mittags besuchen Sie die historische Bastion de France. Am Nachmittag steigen Sie zum belebten Yachthafen hinab, um gemütlich zwischen den Booten zu spazieren. Beenden Sie den Tag an der Plage Casadelmar für einen entspannten Abend am Meer.",
+        "hu": "Kezdje a reggelt az óváros hangulatos utcáin, megcsodálva a gyönyörű Keresztelő Szent János-templomot és a Citadellát. Délben irány a Bastion de France, hogy elmerüljön a történelemben. Délután ereszkedjen le a kikötőbe egy kényelmes sétára a jachtok között. Zárja a napot a La Plage Casadelmar strandhoz sétálva, egy pihentető este eltöltésével a türkizkék tenger partján.",
+        "ro": "Începeți dimineața explorând străzile fermecătoare ale orașului vechi, admirând frumoasa Biserică Sfântul Ioan Botezătorul și formidabila Citadelă. La prânz, mergeți la Bastion de France pentru istorie. După-amiaza, coborâți spre portul plin de viață pentru o plimbare relaxantă printre iahturi. Încheiați ziua mergând la La Plage Casadelmar pentru o seară relaxantă pe țărmul mării turcoaz.",
+        "en": "Start your morning exploring the charming streets of the old town, admiring the beautiful Saint-Jean-Baptiste Church and the formidable Citadel. Midday, head to the Bastion de France to dive into the rich history. In the afternoon, descend to the bustling marina for a leisurely stroll among the yachts. Conclude your day walking up to La Plage Casadelmar for a relaxing evening by the turquoise sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle von Porto-Vecchio",
+            "hu": "Porto-Vecchio Citadella",
+            "ro": "Citadela din Porto-Vecchio",
+            "en": "Citadel of Porto-Vecchio"
+          },
+          "coords": [
+            9.280601,
+            41.591593
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten genuesischen Mauern, die die Stadt vor Piraten schützten, und erklimmen Sie die Festungswälle für einen Panoramablick über das glitzernde Mittelmeer.",
+            "hu": "Fedezze fel az ősi genovai falakat, amelyek kalózoktól védték a várost, és másszon fel a bástyákra a csillogó Földközi-tengerre nyíló panorámás kilátásért.",
+            "ro": "Explorați zidurile antice genoveze care au protejat orașul de pirați și urcați pe metereze pentru vederi panoramice asupra Mării Mediterane strălucitoare.",
+            "en": "Explore the ancient Genoese walls that protected the city from pirates, and climb the ramparts for panoramic views over the sparkling Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion de France",
+            "hu": "Bastion de France",
+            "ro": "Bastion de France",
+            "en": "Bastion de France"
+          },
+          "coords": [
+            9.28122,
+            41.5917
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Festung, in der heute lebhafte Kunstausstellungen stattfinden, und besuchen Sie die obere Terrasse für ein perfektes Sonnenuntergangsfoto über dem Golf.",
+            "hu": "Lépjen be ebbe a történelmi erődbe, amely ma élénk művészeti kiállításoknak ad otthont, és ne hagyja ki a felső teraszt a tökéletes naplemente fotóhoz az öböl felett.",
+            "ro": "Pășiți în această fortăreață istorică ce găzduiește acum expoziții de artă vibrante și asigurați-vă că verificați terasa superioară pentru o fotografie perfectă la apus peste golf.",
+            "en": "Step into this historic fortress which now hosts vibrant art exhibitions, and be sure to check the top terrace for a perfect sunset photo opportunity over the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von Porto-Vecchio",
+            "hu": "Porto-Vecchio Kikötő",
+            "ro": "Portul Porto-Vecchio",
+            "en": "Porto-Vecchio Marina"
+          },
+          "coords": [
+            9.280272,
+            41.608621
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie in diesem belebten Hafen vorbei an luxuriösen Yachten und traditionellen Fischerbooten und gönnen Sie sich ein erfrischendes Eis in einem der lebhaften Cafés am Wasser.",
+            "hu": "Sétáljon el a luxusjachtok és hagyományos halászhajók mellett ebben a nyüzsgő kikötőben, és kóstoljon meg egy frissítő kézműves fagylaltot a vízparti kávézók egyikében.",
+            "ro": "Plimbați-vă pe lângă iahturi luxoase și bărci tradiționale de pescuit în acest port plin de viață și savurați o înghețată artizanală de la una dintre numeroasele cafenele.",
+            "en": "Stroll past luxurious yachts and traditional fishing boats in this bustling harbor, and grab a refreshing artisan gelato from one of the many lively waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Golfo di Sogno",
+            "hu": "Golfo di Sogno Strand",
+            "ro": "Plaja Golfo di Sogno",
+            "en": "Plage de Golfo di Sogno"
+          },
+          "coords": [
+            9.316282,
+            41.623683
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieser weitläufigen Bucht, deren ruhiges Wasser ideal zum Stand-up-Paddling ist, und leihen Sie sich Ausrüstung bei den örtlichen Anbietern.",
+            "hu": "Fedezze fel ennek a hatalmas öbölnek a békés hangulatát, ahol a nyugodt víz ideális a paddleboardozáshoz, ezért érdemes felszerelést bérelni a közeli helyi árusoktól.",
+            "ro": "Descoperiți atmosfera liniștită a acestui golf vast, unde apele calme îl fac ideal pentru paddleboarding, așa că luați în considerare închirierea echipamentului de la vânzătorii locali.",
+            "en": "Discover the peaceful atmosphere of this expansive bay where calm waters make it ideal for paddleboarding, so consider renting equipment from the nearby local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage de Cala Rossa",
+            "hu": "Grande Plage de Cala Rossa",
+            "ro": "Marea Plajă Cala Rossa",
+            "en": "Grande Plage de Cala Rossa"
+          },
+          "coords": [
+            9.333726,
+            41.619477
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der rötlichen Felsen, die diesem exklusiven Strand seinen Namen geben, und genießen Sie die gehobene Atmosphäre bei einem Cocktail in einer stilvollen Strandlounge.",
+            "hu": "Sétáljon a vöröses sziklák mentén, amelyek nevét adják ennek az exkluzív strandnak, és élvezze az elegáns hangulatot egy koktéllal az egyik stílusos tengerparti társalgóban.",
+            "ro": "Plimbați-vă de-a lungul stâncilor cu nuanțe roșiatice care dau numele acestei plaje exclusive și bucurați-vă de atmosfera rafinată servind un cocktail la un lounge elegant pe plajă.",
+            "en": "Walk along the red-tinted rocks that give this exclusive beach its name, and enjoy the upscale atmosphere by treating yourself to a cocktail at a stylish beachside lounge."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite Plage de Cala Rossa",
+            "hu": "Petite Plage de Cala Rossa",
+            "ro": "Mica Plajă Cala Rossa",
+            "en": "Petite Plage de Cala Rossa"
+          },
+          "coords": [
+            9.339628,
+            41.620016
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser intimen Bucht mit spektakulärem Blick auf die raue Küste, und bringen Sie Ihre Schnorchelausrüstung mit, um die verborgene Unterwasserwelt zu erkunden.",
+            "hu": "Meneküljön el a tömeg elől ebbe az intim kis öbölbe, amely látványos kilátást nyújt a sziklás partvonalra, és hozzon búvárfelszerelést, hogy felfedezze a rejtett víz alatti világot.",
+            "ro": "Scăpați de aglomerație în acest golf intim, care oferă vederi spectaculoase ale coastei accidentate, și aduceți-vă echipamentul de snorkeling pentru a explora lumea subacvatică vibrantă.",
+            "en": "Escape the crowds at this intimate cove offering spectacular views of the rugged coastline, and bring your snorkeling gear to explore the vibrant underwater world hidden here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im historischen Herzen von Porto-Vecchio an der Zitadelle und der Bastion de France. Mittags radeln Sie zum lebhaften Yachthafen. Am Nachmittag folgen Sie der malerischen Küstenstraße zur Plage de Golfo di Sogno und zur Grande Plage de Cala Rossa. Beenden Sie Ihren Abend an der Petite Plage de Cala Rossa, einem versteckten Juwel, ideal zum Entspannen.",
+        "hu": "Kerékpáros kalandja Porto-Vecchio történelmi szívében kezdődik a Citadellánál és a Bastion de France-nál. Délben tekerjen le a nyüzsgő kikötőbe egy frissítő megállóra. Délután kövesse a festői tengerparti utat a Golfo di Sogno és a Grande Plage de Cala Rossa strandokhoz. Zárja az estét a Petite Plage de Cala Rossa strandnál, amely egy rejtett gyöngyszem, tökéletes a levezetéshez.",
+        "ro": "Aventura ta pe bicicletă începe în inima istorică a orașului, la Citadelă și Bastion de France. La prânz, pedalați spre portul plin de viață. După-amiaza, urmați traseul pitoresc de coastă până la Plage de Golfo di Sogno și Grande Plage de Cala Rossa, unde apa vă cheamă. Încheiați seara la Petite Plage de Cala Rossa, o bijuterie ascunsă, perfectă pentru a vă relaxa.",
+        "en": "Your cycling adventure begins in the historic heart of Porto-Vecchio at the Citadel and Bastion de France. Midday, pedal down to the lively Marina for a refreshing stop. In the afternoon, follow the scenic coastal route to Plage de Golfo di Sogno and Grande Plage de Cala Rossa, where the water beckons. End your evening at Petite Plage de Cala Rossa, a hidden gem perfect for winding down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 38.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            9.279235,
+            41.590884
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unvollendete Steinfassade dieser eleganten Kirche und betrachten Sie die wunderschönen Fresken, die im sanften Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg ennek az elegáns templomnak a befejezetlen kőhomlokzatát, majd lépjen be a gyönyörű freskókért, amelyeket a lágy reggeli fényben a legjobb megtekinteni.",
+            "ro": "Admirați fațada de piatră neterminată a acestei biserici elegante înainte de a păși înăuntru pentru a vedea frescele sale frumoase, cel mai bine luminate dimineața.",
+            "en": "Admire the unfinished stone facade of this elegant church before stepping inside to see its beautiful frescoes, best viewed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion de France",
+            "hu": "Bastion de France",
+            "ro": "Bastion de France",
+            "en": "Bastion de France"
+          },
+          "coords": [
+            9.28122,
+            41.5917
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Festung, in der heute lebhafte Kunstausstellungen stattfinden, und besuchen Sie die obere Terrasse für ein perfektes Sonnenuntergangsfoto über dem Golf.",
+            "hu": "Lépjen be ebbe a történelmi erődbe, amely ma élénk művészeti kiállításoknak ad otthont, és ne hagyja ki a felső teraszt a tökéletes naplemente fotóhoz az öböl felett.",
+            "ro": "Pășiți în această fortăreață istorică ce găzduiește acum expoziții de artă vibrante și asigurați-vă că verificați terasa superioară pentru o fotografie perfectă la apus peste golf.",
+            "en": "Step into this historic fortress which now hosts vibrant art exhibitions, and be sure to check the top terrace for a perfect sunset photo opportunity over the gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Santa Giulia",
+            "hu": "Santa Giulia Strand",
+            "ro": "Plaja Santa Giulia",
+            "en": "Santa Giulia Beach"
+          },
+          "coords": [
+            9.27396,
+            41.53129
+          ],
+          "category": "natural",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lagunenartige Schönheit dieses atemberaubenden Strandes mit seinem unglaublich flachen Wasser, der der perfekte Ort für Familien ist, um den ganzen Tag sicher zu schwimmen.",
+            "hu": "Csodálja meg ennek a lélegzetelállító strandnak a lagúnaszerű szépségét hihetetlenül sekély vizével, amely tökéletes helyszínt biztosít a családok számára a biztonságos egész napos fürdőzéshez.",
+            "ro": "Minunați-vă de frumusețea de lagună a acestei plaje uluitoare, cu ape incredibil de puțin adânci, fiind locul perfect pentru ca familiile să înoate în siguranță pe tot parcursul zilei.",
+            "en": "Marvel at the lagoon-like beauty of this breathtaking beach with its incredibly shallow waters, making it the perfect spot for families to swim safely throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Palombaggia",
+            "hu": "Palombaggia Strand",
+            "ro": "Plaja Palombaggia",
+            "en": "Palombaggia Beach"
+          },
+          "coords": [
+            9.325833,
+            41.558056
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Erleben Sie Korsikas berühmtesten Strand, der für seine markanten roten Granitfelsen und kristallklares Wasser bekannt ist, aber seien Sie früh morgens dort, um die besten Parkplätze zu finden.",
+            "hu": "Tapasztalja meg Korzika leghíresebb strandját, amely feltűnő vörös gránitszikláiról és kristályvizéről ismert, de mindenképpen kora reggel érkezzen, hogy megtalálja a legjobb parkolóhelyeket.",
+            "ro": "Experimentați cea mai faimoasă plajă din Corsica, cunoscută pentru bolovanii de granit roșu și apele de cristal, dar asigurați-vă că ajungeți dimineața devreme pentru cele mai bune locuri de parcare.",
+            "en": "Experience Corsica's most famous beach known for its striking red granite boulders and crystal waters, but ensure you arrive early in the morning to find the best parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Saint-Cyprien",
+            "hu": "Saint-Cyprien Strand",
+            "ro": "Plaja Saint-Cyprien",
+            "en": "Plage de Saint-Cyprien"
+          },
+          "coords": [
+            9.346873,
+            41.632478
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanfte Kurve dieser familienfreundlichen Bucht, in der Sie ein Tretboot für einen unterhaltsamen Ausflug mieten können, bevor Sie frische lokale Meeresfrüchte probieren.",
+            "hu": "Élvezze ennek a családbarát öbölnek a finom ívét, ahol vízibiciklit bérelhet egy szórakoztató kiránduláshoz, majd kóstoljon meg friss helyi tengeri ételeket egy közeli étteremben.",
+            "ro": "Bucurați-vă de curba blândă a acestui golf prietenos pentru familii, unde puteți închiria o hidrobicicletă pentru o excursie distractivă, apoi savurați fructe de mare proaspete la un restaurant din apropiere.",
+            "en": "Enjoy the gentle curve of this family-friendly bay where you can rent a pedalo for a fun offshore excursion, then savor fresh local seafood at a charming nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Lavu Santu",
+            "hu": "Lavu Santu Strand",
+            "ro": "Plaja Lavu Santu",
+            "en": "Plage de Lavu Santu"
+          },
+          "coords": [
+            9.401057,
+            41.70438
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Wandern Sie an diesem wilden, unberührten Sandstrand abseits der typischen Touristenpfade und packen Sie ein Picknick ein, um die absolute Ruhe inmitten der korsischen Natur zu genießen.",
+            "hu": "Sétáljon végig ezen a vad, érintetlen homokos partszakaszon, távol a tipikus turistaútvonalaktól, és csomagoljon pikniket, hogy élvezze az abszolút nyugalmat a korzikai természetben.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi sălbatice și neatinse de nisip, departe de traseele turistice tipice, și împachetați un picnic pentru a vă bucura de o liniște absolută în natură.",
+            "en": "Wander along this wild, unspoiled stretch of sand far from the typical tourist trails, and pack a picnic to enjoy absolute tranquility surrounded by untouched Corsican nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie durch das Beste Korsikas, beginnend an der historischen Kirche und der Bastion de France im Zentrum. Mittags geht es in den Süden zu den atemberaubenden Stränden Santa Giulia und Palombaggia. Am Nachmittag fahren Sie nach Norden zur lebhaften Plage de Saint-Cyprien. Beenden Sie den Abend am abgeschiedenen Strand von Lavu Santu und erleben Sie pure mediterrane Ruhe.",
+        "hu": "Vezessen végig Korzika legjaván, az óvárosban található történelmi templomtól és a Bastion de France-tól indulva. Délben délre indul a lélegzetelállító Santa Giulia és Palombaggia strandokhoz. Délután autózzon északra a nyüzsgő Saint-Cyprien strandhoz. Fejezze be az estét a félreeső Lavu Santu strandon, megtapasztalva a tiszta mediterrán nyugalmat.",
+        "ro": "Conduceți prin cele mai bune locuri din Corsica, începând de la Biserica istorică și Bastionul din centru. Prânzul vă duce spre sud, către plajele uluitoare Santa Giulia și Palombaggia. După-amiaza, conduceți spre nord către plaja vibrantă Saint-Cyprien. Încheiați seara la plaja retrasă Lavu Santu, experimentând pură liniște mediteraneană într-un peisaj de vis.",
+        "en": "Drive through the best of Corsica, starting at the historic Church and Bastion de France in Porto-Vecchio's center. Midday takes you south to the breathtaking Santa Giulia and Palombaggia beaches, famed for their red rocks. In the afternoon, drive north to the vibrant Plage de Saint-Cyprien. Finish the evening at the secluded Plage de Lavu Santu, experiencing pure Mediterranean tranquility."
+      }
+    }
+  }
+}

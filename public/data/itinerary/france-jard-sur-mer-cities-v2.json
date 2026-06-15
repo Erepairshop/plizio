@@ -1,0 +1,474 @@
+{
+  "city_id": "france-jard-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Jard-sur-Mer",
+    "coords": [
+      -1.57585,
+      46.4173
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            -1.573753,
+            46.420166
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser Kirche aus dem 11. Jahrhundert mit ihrem Wehrturm, und besuchen Sie sie morgens, um das herrliche Licht zu genießen.",
+            "hu": "Csodálja meg a 11. századi, erődített toronnyal rendelkező román stílusú templomot, és látogasson el ide a délelőtti órákban, hogy élvezhesse a csodás fényeket.",
+            "ro": "Admirați arhitectura romanică a acestei biserici din secolul al XI-lea cu turnul său fortificat și vizitați-o dimineața pentru a vă bucura de lumina vitraliilor.",
+            "en": "Admire the Romanesque architecture of this 11th-century church with its fortified tower, and visit during morning hours to enjoy the beautiful stained glass light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            -1.577745,
+            46.417407
+          ],
+          "category": "religious",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende historische Kapelle friedlich im Stadtzentrum, aber prüfen Sie vorher die Öffnungszeiten im Tourismusbüro, da das Innere selten offen ist.",
+            "hu": "Fedezze fel ezt a városközpontban békésen álló hangulatos kápolnát, de ellenőrizze a nyitvatartást a turisztikai irodában, mivel a belső tere ritkán látogatható.",
+            "ro": "Descoperiți această capelă istorică fermecătoare situată în centrul orașului, dar verificați programul la biroul de turism, deoarece interiorul este rar deschis.",
+            "en": "Discover this charming historic chapel standing peacefully in the town center, but be sure to check the local tourist office schedule as its interior is rarely open."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Boisvinet",
+            "hu": "Plage de Boisvinet",
+            "ro": "Plage de Boisvinet",
+            "en": "Plage de Boisvinet"
+          },
+          "coords": [
+            -1.572046,
+            46.408043
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem geschützten, dank seiner sanften Neigung familienfreundlichen Sandstrand, und bringen Sie einen Sonnenschirm mit, da natürlicher Schatten fehlt.",
+            "hu": "Pihenjen ezen a védett, lassan mélyülő vize miatt családoknak is tökéletes homokos strandon, de hozzon magával napernyőt, mivel nyáron nagyon kevés az árnyék.",
+            "ro": "Relaxați-vă pe această plajă cu nisip, perfectă pentru familii datorită pantei sale line, și aduceți-vă propria umbrelă, deoarece umbra naturală este rară vara.",
+            "en": "Relax on this sheltered sandy beach perfect for families due to its gentle slope, and bring your own beach umbrella as natural shade is quite scarce during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Conchette",
+            "hu": "Moulin de Conchette",
+            "ro": "Moulin de Conchette",
+            "en": "Moulin de Conchette"
+          },
+          "coords": [
+            -1.58203,
+            46.409854
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese malerische Küstenmühle aus dem 19. Jahrhundert mit herrlichem Meerblick, und stellen Sie sich zur goldenen Stunde auf die Meerseite.",
+            "hu": "Fotózza le ezt a festői 19. századi parti szélmalmot, amely lenyűgöző óceáni kilátást nyújt, és álljon a tenger felőli oldalra az aranyórában a legjobb fényekért.",
+            "ro": "Fotografiați această moară de vânt pitorească din secolul XIX, cu vedere la ocean, și stați pe partea dinspre mare la ora de aur pentru cele mai bune condiții.",
+            "en": "Photograph this picturesque 19th-century coastal windmill offering stunning ocean vistas, and stand on the seaward side at golden hour for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Goffineaux",
+            "hu": "Plage des Goffineaux",
+            "ro": "Plage des Goffineaux",
+            "en": "Plage des Goffineaux"
+          },
+          "coords": [
+            -1.590434,
+            46.409139
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das Surfen oder Spazieren an diesem wunderbar wilden Sandstrandabschnitt, aber tragen Sie festes Schuhwerk für den felsigen Weg hinab vom Hauptparkplatz.",
+            "hu": "Élvezze a szörfözést vagy a sétát ezen a gyönyörűen vad, homokos partszakaszon, de viseljen erős cipőt a fő parkolóból levezető sziklás és meredek ösvényhez.",
+            "ro": "Bucurați-vă de surfing sau de o plimbare pe această porțiune de coastă sălbatică și frumoasă, dar purtați încălțăminte solidă pentru poteca stâncoasă de la parcare.",
+            "en": "Enjoy surfing or strolling along this beautifully wild stretch of sandy coastline, but wear sturdy shoes for the rocky path leading down from the main parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Stadtzentrum mit der historischen Église Sainte-Radegonde und der Chapelle Sainte-Anne. Mittags geht es südwärts an die Küste, um am geschützten Strand Plage de Boisvinet zu entspannen. Am Nachmittag spazieren Sie an der Küste entlang zur malerischen Mühle Moulin de Conchette. Beenden Sie den Tag an der wilden Plage des Goffineaux und genießen Sie den Sonnenuntergang.",
+        "hu": "A reggel a városközpontban indul a történelmi Église Sainte-Radegonde és a Chapelle Sainte-Anne felfedezésével. Délben délre indul a partra, hogy a védett Plage de Boisvinet homokján pihenjen. A délután a festői partszakaszon vezet végig, hogy megcsodálja a Moulin de Conchette szélmalmot. Végül a napot a Plage des Goffineaux vad szépségében gyönyörködve zárja a naplemente fényében.",
+        "ro": "Dimineața începe în centrul orașului explorând istoricele Église Sainte-Radegonde și Chapelle Sainte-Anne. La prânz, vă veți îndrepta spre sud, pentru a vă relaxa pe nisipul protejat de la Plage de Boisvinet. După-amiaza vă poartă de-a lungul coastei pitorești pentru a admira Moulin de Conchette. Încheiați ziua bucurându-vă de frumusețea sălbatică a Plage des Goffineaux la apus.",
+        "en": "Your morning starts in the town center exploring the historic Église Sainte-Radegonde and Chapelle Sainte-Anne. By midday, you'll head south to the coast to relax on the sheltered sands of Plage de Boisvinet. The afternoon takes you along the scenic shoreline to admire the picturesque Moulin de Conchette. Finally, end your day soaking up the wild beauty of Plage des Goffineaux as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatoire des Marais",
+            "hu": "Observatoire des Marais",
+            "ro": "Observatoire des Marais",
+            "en": "Observatoire des Marais"
+          },
+          "coords": [
+            -1.584618,
+            46.429418
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie verschiedene Zugvögel in diesem ruhigen Feuchtgebiet, und denken Sie an ein Fernglas und Insektenschutzmittel für ein angenehmes Seherlebnis am Morgen.",
+            "hu": "Figyelje meg a különféle vándormadarakat ebben a nyugodt vizes élőhelyben, és ne felejtsen el távcsövet, illetve rovarriasztót hozni a kényelmes reggeli élményhez.",
+            "ro": "Observați diverse specii de păsări migratoare în acest habitat liniștit de zone umede și nu uitați să luați binoclul și repelentul pentru insecte.",
+            "en": "Watch diverse migratory bird species in this tranquil wetland habitat, and remember to pack binoculars and insect repellent for a comfortable morning viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            -1.573753,
+            46.420166
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser Kirche aus dem 11. Jahrhundert mit ihrem Wehrturm, und besuchen Sie sie morgens, um das herrliche Licht zu genießen.",
+            "hu": "Csodálja meg a 11. századi, erődített toronnyal rendelkező román stílusú templomot, és látogasson el ide a délelőtti órákban, hogy élvezhesse a csodás fényeket.",
+            "ro": "Admirați arhitectura romanică a acestei biserici din secolul al XI-lea cu turnul său fortificat și vizitați-o dimineața pentru a vă bucura de lumina vitraliilor.",
+            "en": "Admire the Romanesque architecture of this 11th-century church with its fortified tower, and visit during morning hours to enjoy the beautiful stained glass light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            -1.577745,
+            46.417407
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende historische Kapelle friedlich im Stadtzentrum, aber prüfen Sie vorher die Öffnungszeiten im Tourismusbüro, da das Innere selten offen ist.",
+            "hu": "Fedezze fel ezt a városközpontban békésen álló hangulatos kápolnát, de ellenőrizze a nyitvatartást a turisztikai irodában, mivel a belső tere ritkán látogatható.",
+            "ro": "Descoperiți această capelă istorică fermecătoare situată în centrul orașului, dar verificați programul la biroul de turism, deoarece interiorul este rar deschis.",
+            "en": "Discover this charming historic chapel standing peacefully in the town center, but be sure to check the local tourist office schedule as its interior is rarely open."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Conchette",
+            "hu": "Moulin de Conchette",
+            "ro": "Moulin de Conchette",
+            "en": "Moulin de Conchette"
+          },
+          "coords": [
+            -1.58203,
+            46.409854
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese malerische Küstenmühle aus dem 19. Jahrhundert mit herrlichem Meerblick, und stellen Sie sich zur goldenen Stunde auf die Meerseite.",
+            "hu": "Fotózza le ezt a festői 19. századi parti szélmalmot, amely lenyűgöző óceáni kilátást nyújt, és álljon a tenger felőli oldalra az aranyórában a legjobb fényekért.",
+            "ro": "Fotografiați această moară de vânt pitorească din secolul XIX, cu vedere la ocean, și stați pe partea dinspre mare la ora de aur pentru cele mai bune condiții.",
+            "en": "Photograph this picturesque 19th-century coastal windmill offering stunning ocean vistas, and stand on the seaward side at golden hour for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Goffineaux",
+            "hu": "Plage des Goffineaux",
+            "ro": "Plage des Goffineaux",
+            "en": "Plage des Goffineaux"
+          },
+          "coords": [
+            -1.590434,
+            46.409139
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das Surfen oder Spazieren an diesem wunderbar wilden Sandstrandabschnitt, aber tragen Sie festes Schuhwerk für den felsigen Weg hinab vom Hauptparkplatz.",
+            "hu": "Élvezze a szörfözést vagy a sétát ezen a gyönyörűen vad, homokos partszakaszon, de viseljen erős cipőt a fő parkolóból levezető sziklás és meredek ösvényhez.",
+            "ro": "Bucurați-vă de surfing sau de o plimbare pe această porțiune de coastă sălbatică și frumoasă, dar purtați încălțăminte solidă pentru poteca stâncoasă de la parcare.",
+            "en": "Enjoy surfing or strolling along this beautifully wild stretch of sandy coastline, but wear sturdy shoes for the rocky path leading down from the main parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Clemenceau",
+            "hu": "Maison de Clemenceau",
+            "ro": "Maison de Clemenceau",
+            "en": "Maison de Clemenceau"
+          },
+          "coords": [
+            -1.547491,
+            46.406315
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Küstenhaus von Georges Clemenceau mit seinen wunderschönen impressionistischen Gärten, und buchen Sie Ihr Ticket online im Voraus.",
+            "hu": "Fedezze fel Georges Clemenceau egykori tengerparti otthonát gyönyörű impresszionista kertjével, és foglalja le belépőjét előre online a nyári sorok elkerüléséhez.",
+            "ro": "Explorați fosta casă de la malul mării a lui Georges Clemenceau, cu grădini impresioniste superbe, și rezervați-vă biletul online în avans pentru a evita cozile.",
+            "en": "Explore the former seaside home of Georges Clemenceau featuring beautiful impressionist gardens, and book your entrance ticket online in advance to skip the summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im ruhigen Observatoire des Marais, bevor Sie in die Stadt fahren, um die historischen Kirchen zu besuchen. Mittags radeln Sie zur Küste, um die Moulin de Conchette und die Plage des Goffineaux zu sehen. Am Nachmittag machen Sie eine längere malerische Fahrt nach Osten. Beenden Sie den Tag in den wunderschönen Gärten der faszinierenden Maison de Clemenceau.",
+        "hu": "Kezdje a kerékpáros kalandot madármegfigyeléssel az Observatoire des Marais-nál, majd látogassa meg a város történelmi templomait. Délben tekerjen le a partra a Moulin de Conchette és a Plage des Goffineaux megtekintéséhez. Délután tegyen egy hosszabb festői utat kelet felé. A napot a Georges Clemenceau-ház lenyűgöző impresszionista kertjeinek felfedezésével zárja a parton.",
+        "ro": "Începeți aventura cu bicicleta la liniștitul Observatoire des Marais înainte de a vizita bisericile istorice. La prânz, pedalați spre coastă pentru a vedea Moulin de Conchette și frumoasa Plage des Goffineaux. După-amiaza, faceți o plimbare pitorească mai lungă spre est. Încheiați ziua explorând frumoasele grădini ale fascinantei Maison de Clemenceau la lumina asfințitului.",
+        "en": "Start your cycling adventure birdwatching at the tranquil Observatoire des Marais before heading into town to visit the historic churches. For midday, cycle down to the coast to see the iconic Moulin de Conchette and the beautiful Plage des Goffineaux. In the afternoon, take a longer scenic ride eastwards. Conclude your day exploring the beautiful gardens at the fascinating Maison de Clemenceau."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatoire des Marais",
+            "hu": "Observatoire des Marais",
+            "ro": "Observatoire des Marais",
+            "en": "Observatoire des Marais"
+          },
+          "coords": [
+            -1.584618,
+            46.429418
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie verschiedene Zugvögel in diesem ruhigen Feuchtgebiet, und denken Sie an ein Fernglas und Insektenschutzmittel für ein angenehmes Seherlebnis am Morgen.",
+            "hu": "Figyelje meg a különféle vándormadarakat ebben a nyugodt vizes élőhelyben, és ne felejtsen el távcsövet, illetve rovarriasztót hozni a kényelmes reggeli élményhez.",
+            "ro": "Observați diverse specii de păsări migratoare în acest habitat liniștit de zone umede și nu uitați să luați binoclul și repelentul pentru insecte.",
+            "en": "Watch diverse migratory bird species in this tranquil wetland habitat, and remember to pack binoculars and insect repellent for a comfortable morning viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            -1.573753,
+            46.420166
+          ],
+          "category": "religious",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser Kirche aus dem 11. Jahrhundert mit ihrem Wehrturm, und besuchen Sie sie morgens, um das herrliche Licht zu genießen.",
+            "hu": "Csodálja meg a 11. századi, erődített toronnyal rendelkező román stílusú templomot, és látogasson el ide a délelőtti órákban, hogy élvezhesse a csodás fényeket.",
+            "ro": "Admirați arhitectura romanică a acestei biserici din secolul al XI-lea cu turnul său fortificat și vizitați-o dimineața pentru a vă bucura de lumina vitraliilor.",
+            "en": "Admire the Romanesque architecture of this 11th-century church with its fortified tower, and visit during morning hours to enjoy the beautiful stained glass light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Chapelle Sainte-Anne",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            -1.577745,
+            46.417407
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende historische Kapelle friedlich im Stadtzentrum, aber prüfen Sie vorher die Öffnungszeiten im Tourismusbüro, da das Innere selten offen ist.",
+            "hu": "Fedezze fel ezt a városközpontban békésen álló hangulatos kápolnát, de ellenőrizze a nyitvatartást a turisztikai irodában, mivel a belső tere ritkán látogatható.",
+            "ro": "Descoperiți această capelă istorică fermecătoare situată în centrul orașului, dar verificați programul la biroul de turism, deoarece interiorul este rar deschis.",
+            "en": "Discover this charming historic chapel standing peacefully in the town center, but be sure to check the local tourist office schedule as its interior is rarely open."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Conchette",
+            "hu": "Moulin de Conchette",
+            "ro": "Moulin de Conchette",
+            "en": "Moulin de Conchette"
+          },
+          "coords": [
+            -1.58203,
+            46.409854
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese malerische Küstenmühle aus dem 19. Jahrhundert mit herrlichem Meerblick, und stellen Sie sich zur goldenen Stunde auf die Meerseite.",
+            "hu": "Fotózza le ezt a festői 19. századi parti szélmalmot, amely lenyűgöző óceáni kilátást nyújt, és álljon a tenger felőli oldalra az aranyórában a legjobb fényekért.",
+            "ro": "Fotografiați această moară de vânt pitorească din secolul XIX, cu vedere la ocean, și stați pe partea dinspre mare la ora de aur pentru cele mai bune condiții.",
+            "en": "Photograph this picturesque 19th-century coastal windmill offering stunning ocean vistas, and stand on the seaward side at golden hour for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Goffineaux",
+            "hu": "Plage des Goffineaux",
+            "ro": "Plage des Goffineaux",
+            "en": "Plage des Goffineaux"
+          },
+          "coords": [
+            -1.590434,
+            46.409139
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das Surfen oder Spazieren an diesem wunderbar wilden Sandstrandabschnitt, aber tragen Sie festes Schuhwerk für den felsigen Weg hinab vom Hauptparkplatz.",
+            "hu": "Élvezze a szörfözést vagy a sétát ezen a gyönyörűen vad, homokos partszakaszon, de viseljen erős cipőt a fő parkolóból levezető sziklás és meredek ösvényhez.",
+            "ro": "Bucurați-vă de surfing sau de o plimbare pe această porțiune de coastă sălbatică și frumoasă, dar purtați încălțăminte solidă pentru poteca stâncoasă de la parcare.",
+            "en": "Enjoy surfing or strolling along this beautifully wild stretch of sandy coastline, but wear sturdy shoes for the rocky path leading down from the main parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Saint-Vincent-sur-Jard",
+            "hu": "Mairie de Saint-Vincent-sur-Jard",
+            "ro": "Mairie de Saint-Vincent-sur-Jard",
+            "en": "Mairie de Saint-Vincent-sur-Jard"
+          },
+          "coords": [
+            -1.548352,
+            46.416242
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische bürgerliche Architektur dieses historischen Rathauses, und verbinden Sie Ihren Besuch am besten mit einem Abstecher zum Wochenmarkt.",
+            "hu": "Tekintse meg ennek a történelmi városházának a klasszikus polgári építészetét, és kösse össze látogatását a közeli heti piac felkeresésével a helyi hangulatért.",
+            "ro": "Admirați arhitectura civică clasică a acestei primării istorice care ancorează comunitatea locală și combinați vizita cu o oprire la piața săptămânală din apropiere.",
+            "en": "View the classic civic architecture of this historic town hall building which anchors the local community, and combine your visit with a stop at the nearby weekly market."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Clemenceau",
+            "hu": "Maison de Clemenceau",
+            "ro": "Maison de Clemenceau",
+            "en": "Maison de Clemenceau"
+          },
+          "coords": [
+            -1.547491,
+            46.406315
+          ],
+          "category": "museum",
+          "arrive_at": "14:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Küstenhaus von Georges Clemenceau mit seinen wunderschönen impressionistischen Gärten, und buchen Sie Ihr Ticket online im Voraus.",
+            "hu": "Fedezze fel Georges Clemenceau egykori tengerparti otthonát gyönyörű impresszionista kertjével, és foglalja le belépőjét előre online a nyári sorok elkerüléséhez.",
+            "ro": "Explorați fosta casă de la malul mării a lui Georges Clemenceau, cu grădini impresioniste superbe, și rezervați-vă biletul online în avans pentru a evita cozile.",
+            "en": "Explore the former seaside home of Georges Clemenceau featuring beautiful impressionist gardens, and book your entrance ticket online in advance to skip the summer queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in den nördlichen Sümpfen am Observatoire, bevor Sie in das Zentrum von Jard-sur-Mer fahren. Mittags fahren Sie an die Küste, um die Moulin de Conchette zu fotografieren und an der Plage des Goffineaux spazieren zu gehen. Am Nachmittag fahren Sie in die Nachbargemeinde Saint-Vincent-sur-Jard. Beenden Sie die Reise mit einem tiefen Einblick in die Geschichte in der Maison de Clemenceau.",
+        "hu": "Autós túrája az északi mocsaraknál indul az Observatoire-nál, mielőtt Jard-sur-Mer központjába hajtana. Délben a partra vezet az út, hogy lefotózza a Moulin de Conchette-et és sétáljon a Plage des Goffineaux mentén. A délutáni autózás a szomszédos Saint-Vincent-sur-Jard-ba viszi. Fejezze be a kirándulást a történelemben való elmerüléssel a Maison de Clemenceau falai között.",
+        "ro": "Plimbarea cu mașina începe în mlaștinile nordice la Observatoire, înainte de a merge în centrul Jard-sur-Mer. La prânz, conduceți spre coastă pentru a fotografia Moulin de Conchette și a vă plimba pe Plage des Goffineaux. După-amiaza vă poartă în comuna vecină Saint-Vincent-sur-Jard. Încheiați călătoria cu o incursiune profundă în istorie la Maison de Clemenceau pe malul mării.",
+        "en": "Your drive begins in the northern marshes at the Observatoire before moving into Jard-sur-Mer's center for its religious heritage. By midday, cruise to the coastline to snap photos at the Moulin de Conchette and walk along Plage des Goffineaux. The afternoon drive takes you to the neighboring municipality of Saint-Vincent-sur-Jard. Finish the trip with a deep dive into history at Maison de Clemenceau."
+      }
+    }
+  }
+}

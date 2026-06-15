@@ -1,0 +1,451 @@
+{
+  "city_id": "bar-sur-aube",
+  "anchor": {
+    "name": "Bar-sur-Aube",
+    "coords": [
+      4.7064,
+      48.2331
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:23",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
+            "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
+            "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+          },
+          "coords": [
+            4.705757,
+            48.233334
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
+            "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
+            "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat",
+            "hu": "Perjelség",
+            "ro": "Prioratul",
+            "en": "Prieuré"
+          },
+          "coords": [
+            4.7085,
+            48.233643
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Priorat, um das religiöse Erbe von Bar-sur-Aube zu verstehen, und halten Sie Ausschau nach den wunderschön erhaltenen Steinbögen.",
+            "hu": "Fedezze fel ezt a történelmi perjelséget, hogy megértse Bar-sur-Aube vallási örökségét, és vessen egy pillantást a gyönyörűen megőrzött kőívekre.",
+            "ro": "Explorați acest priorat istoric pentru a înțelege moștenirea religioasă a orașului, fiind atenți la arcadele de piatră care sunt frumos conservate.",
+            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maclou",
+            "hu": "Saint-Maclou templom",
+            "ro": "Biserica Saint-Maclou",
+            "en": "Église Saint-Maclou"
+          },
+          "coords": [
+            4.706915,
+            48.231507
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Église de l'Assomption de la Vierge"
+          },
+          "coords": [
+            4.6954,
+            48.231728
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, um ihre friedliche Atmosphäre und ihren architektonischen Charme zu erleben, und gehen Sie leise, um die Umgebung zu respektieren.",
+            "hu": "Lépjen be ebbe a csendes templomba, hogy megtapasztalja annak békés hangulatát és építészeti varázsát, ügyelve arra, hogy halkan lépkedjen.",
+            "ro": "Pășiți în această biserică senină pentru a experimenta atmosfera sa pașnică și farmecul arhitectural, asigurându-vă că păstrați liniștea în interior.",
+            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Germaine",
+            "hu": "Sainte-Germaine kápolna",
+            "ro": "Capela Sainte-Germaine",
+            "en": "Chapelle Sainte-Germaine"
+          },
+          "coords": [
+            4.698091,
+            48.220963
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
+            "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im historischen Zentrum am Rathaus. Der Mittag lädt zu einem ruhigen Besuch von Saint-Maclou und dem Priorat ein. Verbringen Sie den Nachmittag mit einem Spaziergang zur Kirche Mariä Himmelfahrt. Beenden Sie den Tag an der Sainte-Germaine.",
+        "hu": "Kezdje a reggelt a történelmi belvárosban a Városházánál. A dél a Saint-Maclou és a Perjelség nyugodt felfedezésére hív. Délután sétáljon el a Nagyboldogasszony-templomhoz. Zárja a napot a Sainte-Germaine kápolna lélegzetelállító panorámájával.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului la Primărie. Prânzul vă invită la o vizită liniștită la Saint-Maclou. Petreceți după-amiaza rătăcind spre vest la Biserica Adormirii Maicii Domnului. Încheiați ziua cu o priveliște panoramică la Sainte-Germaine.",
+        "en": "Start your morning exploring the historic heart of Bar-sur-Aube at the Town Hall. Midday invites a peaceful visit to Saint-Maclou and the Priory. Spend your afternoon wandering west to the Assumption Church. End your day with a breathtaking hilltop view at Sainte-Germaine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
+            "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
+            "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+          },
+          "coords": [
+            4.705757,
+            48.233334
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
+            "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
+            "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat",
+            "hu": "Perjelség",
+            "ro": "Prioratul",
+            "en": "Prieuré"
+          },
+          "coords": [
+            4.7085,
+            48.233643
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Priorat, um das religiöse Erbe von Bar-sur-Aube zu verstehen, und halten Sie Ausschau nach den wunderschön erhaltenen Steinbögen.",
+            "hu": "Fedezze fel ezt a történelmi perjelséget, hogy megértse Bar-sur-Aube vallási örökségét, és vessen egy pillantást a gyönyörűen megőrzött kőívekre.",
+            "ro": "Explorați acest priorat istoric pentru a înțelege moștenirea religioasă a orașului, fiind atenți la arcadele de piatră care sunt frumos conservate.",
+            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maclou",
+            "hu": "Saint-Maclou templom",
+            "ro": "Biserica Saint-Maclou",
+            "en": "Église Saint-Maclou"
+          },
+          "coords": [
+            4.706915,
+            48.231507
+          ],
+          "category": "religious",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirii Maicii Domnului",
+            "en": "Église de l'Assomption de la Vierge"
+          },
+          "coords": [
+            4.6954,
+            48.231728
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, um ihre friedliche Atmosphäre und ihren architektonischen Charme zu erleben, und gehen Sie leise, um die Umgebung zu respektieren.",
+            "hu": "Lépjen be ebbe a csendes templomba, hogy megtapasztalja annak békés hangulatát és építészeti varázsát, ügyelve arra, hogy halkan lépkedjen.",
+            "ro": "Pășiți în această biserică senină pentru a experimenta atmosfera sa pașnică și farmecul arhitectural, asigurându-vă că păstrați liniștea în interior.",
+            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Germaine",
+            "hu": "Sainte-Germaine kápolna",
+            "ro": "Capela Sainte-Germaine",
+            "en": "Chapelle Sainte-Germaine"
+          },
+          "coords": [
+            4.698091,
+            48.220963
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
+            "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Ailleville",
+            "hu": "Ailleville kastélya",
+            "ro": "Castelul din Ailleville",
+            "en": "Château d'Ailleville"
+          },
+          "coords": [
+            4.681718,
+            48.251534
+          ],
+          "category": "castle",
+          "arrive_at": "12:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das Geschichten des lokalen Adels flüstert, und spazieren Sie durch das angrenzende Gelände, um die klassische Fassade zu bewundern.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely a helyi nemesség meséit suttogja, és mindenképpen sétáljon egyet a szomszédos parkban, hogy értékelje a klasszikus homlokzatot.",
+            "ro": "Descoperiți acest castel elegant care ascunde povești ale nobilimii locale și asigurați-vă că vă plimbați prin parcul adiacent pentru a aprecia fațada sa clasică.",
+            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die morgendlichen Straßen, beginnend am alten Kloster. Mittags fahren Sie vorbei an großen Kirchen. Der Nachmittag bietet eine malerische Fahrt nach Ailleville. Der Abend bringt eine entspannte Rückkehr unter dem Dämmerungshimmel.",
+        "hu": "Kerékpározzon a reggeli utcákon, az egykori kolostortól indulva. Délben tekerjen el a nagy templomok mellett a külváros felé. A délutánt egy festői utazás tölti ki Ailleville-be. Az este kellemes, nyugodt visszautat ígér a lenyugvó nap fényében.",
+        "ro": "Pedalați pe străzile matinale, începând de la vechea mănăstire. La prânz, treceți pe lângă biserici mărețe înainte de a vă îndrepta spre periferie. După-amiaza vă aduce o plimbare pitorească spre Ailleville. Seara se încheie cu o întoarcere relaxantă spre centrul orașului.",
+        "en": "Cycle through Bar-sur-Aube's morning streets, beginning at the old convent. By midday, pedal past grand churches before heading to the outskirts. Your afternoon is filled with a scenic ride to Ailleville. Evening brings a relaxed journey back under the twilight sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 13.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
+            "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
+            "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+          },
+          "coords": [
+            4.705757,
+            48.233334
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
+            "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
+            "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maclou",
+            "hu": "Saint-Maclou templom",
+            "ro": "Biserica Saint-Maclou",
+            "en": "Église Saint-Maclou"
+          },
+          "coords": [
+            4.706915,
+            48.231507
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
+            "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Germaine",
+            "hu": "Sainte-Germaine kápolna",
+            "ro": "Capela Sainte-Germaine",
+            "en": "Chapelle Sainte-Germaine"
+          },
+          "coords": [
+            4.698091,
+            48.220963
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
+            "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Mária születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            4.716922,
+            48.21278
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieser wunderschön restaurierten religiösen Stätte und nehmen Sie sich Zeit für die Informationstafeln zu ihrer Entstehung.",
+            "hu": "Csodálja meg a szépen felújított vallási emlékhely finom kőművesmunkáit, és szánjon egy percet az eredetét részletező információs táblák elolvasására.",
+            "ro": "Minunați-vă de detaliile din piatră ale acestui lăcaș de cult frumos restaurat și acordați-vă un moment pentru a citi plăcile informative despre originile sale.",
+            "en": "Marvel at the delicate stonework of this beautifully restored religious site, and take a moment to read the informational plaques detailing its rich origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Ailleville",
+            "hu": "Ailleville kastélya",
+            "ro": "Castelul din Ailleville",
+            "en": "Château d'Ailleville"
+          },
+          "coords": [
+            4.681718,
+            48.251534
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das Geschichten des lokalen Adels flüstert, und spazieren Sie durch das angrenzende Gelände, um die klassische Fassade zu bewundern.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely a helyi nemesség meséit suttogja, és mindenképpen sétáljon egyet a szomszédos parkban, hogy értékelje a klasszikus homlokzatot.",
+            "ro": "Descoperiți acest castel elegant care ascunde povești ale nobilimii locale și asigurați-vă că vă plimbați prin parcul adiacent pentru a aprecia fațada sa clasică.",
+            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Africa Cruise",
+            "hu": "Africa Cruise",
+            "ro": "Africa Cruise",
+            "en": "Africa Cruise"
+          },
+          "coords": [
+            4.614814,
+            48.263754
+          ],
+          "category": "natural",
+          "arrive_at": "13:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit einem unterhaltsamen Ausflug in diesen Naturpark und vergessen Sie Ihr Fernglas nicht, um exotische Tiere aus der Ferne zu beobachten.",
+            "hu": "Fejezze be utazását egy vidám kirándulással ebben a vadasparkban, és ne felejtse el magával hozni a távcsövét, hogy távolról is megfigyelhesse az egzotikus állatokat.",
+            "ro": "Încheiați-vă călătoria cu o excursie distractivă la acest parc natural plin de viață sălbatică și nu uitați binoclul pentru a observa animalele exotice de la distanță.",
+            "en": "End your journey with a fun-filled excursion at this wildlife nature park, and don't forget to bring your binoculars to spot exotic animals from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens bequem zwischen den Kulturerbestätten im Zentrum. Mittags besuchen Sie historische Kapellen auf den nahegelegenen Hügeln. Am Nachmittag geht es zum prächtigen Schloss Ailleville. Beenden Sie die Tour mit einem Ausflug in den Naturpark.",
+        "hu": "Autózzon kényelmesen a központi örökségi helyszínek között a reggeli órákban. Délben látogasson el a közeli dombokon álló kápolnákhoz. Délután csodálja meg a fenséges Ailleville kastélyt. Zárja a napot egy izgalmas vadasparki szafarival a város határán kívül.",
+        "ro": "Conduceți ușor între siturile de patrimoniu din centru în timpul dimineții. La prânz, vizitați capelele istorice de pe dealurile din apropiere. După-amiaza vă poartă la splendidul castel Ailleville. Încheiați ziua cu un safari captivant în natura sălbatică de la marginea orașului.",
+        "en": "Drive smoothly between local heritage sites starting at the city center. At noon, visit historic chapels perched on nearby hills. Your afternoon takes you to the splendid Ailleville castle. Wrap up your epic journey with an exciting wildlife cruise outside the city limits."
+      }
+    }
+  }
+}

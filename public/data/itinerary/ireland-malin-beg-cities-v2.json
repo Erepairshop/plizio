@@ -1,0 +1,543 @@
+{
+  "city_id": "ireland-malin-beg-cities-v2",
+  "anchor": {
+    "name": "Malin Beg",
+    "coords": [
+      -8.78177,
+      54.66842
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:41",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ozean-Aussichtspunkt",
+            "hu": "Óceáni kilátó",
+            "ro": "Punct de observație pe ocean",
+            "en": "Ocean Viewpoint"
+          },
+          "coords": [
+            -8.787233,
+            54.671566
+          ],
+          "category": "natural",
+          "arrive_at": "09:06",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Küstenpanoramen, die diese Region prägen, und bringen Sie unbedingt ein Fernglas mit, um Seevögel an den Klippen zu beobachten.",
+            "hu": "Csodálja meg a régiót meghatározó lenyűgöző tengerparti panorámát, és mindenképpen hozzon magával távcsövet a drámai szikláknál bukkanó tengeri madarakhoz.",
+            "ro": "Bucurați-vă de panoramele de coastă uimitoare care definesc această regiune și asigurați-vă că aduceți binoclu pentru a observa păsările marine.",
+            "en": "Take in the sweeping coastal panoramas that define this region, and be sure to bring binoculars to spot seabirds diving along the dramatic cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Templecavan",
+            "hu": "Templecavan",
+            "ro": "Templecavan",
+            "en": "Templecavan"
+          },
+          "coords": [
+            -8.790779,
+            54.664724
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Kirche, um in die frühchristliche Geschichte einzutauchen, und tragen Sie festes Schuhwerk auf dem unebenen Gelände.",
+            "hu": "Fedezze fel a templomromokat, hogy megismerje a kora keresztény történelmet, de viseljen masszív cipőt, mivel az azt körülvevő terület meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele acestei biserici antice pentru a vă conecta cu istoria paleocreștină, purtând încălțăminte robustă deoarece terenul din jur este accidentat.",
+            "en": "Explore the ruins of this ancient church to connect with early Christian history, wearing sturdy shoes since the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Wachturm",
+            "hu": "Malin Beg őrtorony",
+            "ro": "Turnul de veghe Malin Beg",
+            "en": "Malin Beg Watch Tower"
+          },
+          "coords": [
+            -8.791728,
+            54.662778
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem napoleonischen Signalturm, um historische Verteidigungsstrategien zu verstehen, wobei Sie Abstand von den bröckelnden Rändern halten sollten.",
+            "hu": "Álljon meg a napóleoni jelzőtorony mellett, hogy elképzelje a történelmi védelmi stratégiákat, biztonságos távolságot tartva a törékeny, omladozó szélektől.",
+            "ro": "Stați lângă acest turn de semnalizare napoleonian istoric pentru a înțelege strategiile de apărare, păstrând o distanță sigură de marginile sale fragile.",
+            "en": "Stand beside this historic Napoleonic signal tower to imagine the historical defense strategies, keeping a safe distance from the fragile crumbling edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Aussichtspunkt",
+            "hu": "Malin Beg kilátó",
+            "ro": "Punct de belvedere Malin Beg",
+            "en": "Malin Beg Viewpoint"
+          },
+          "coords": [
+            -8.792456,
+            54.664177
+          ],
+          "category": "natural",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die raue Küste von diesem Aussichtspunkt aus, der das perfekte Nachmittagslicht für Fotoliebhaber bietet, die dramatische Aufnahmen suchen.",
+            "hu": "Csodálja meg a zord partszakaszt ebből a stratégiai kilátóból, amely tökéletes délutáni fényeket kínál a drámai felvételekre vágyó fotózás szerelmeseinek.",
+            "ro": "Admirați coasta stâncoasă din acest punct de observație care oferă o lumină perfectă după-amiaza pentru pasionații de fotografie în căutare de cadre dramatice.",
+            "en": "Marvel at the rugged coastline from this strategic vantage point, which provides perfect afternoon lighting for photography lovers wanting dramatic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Silver Strand Aussichtspunkt",
+            "hu": "Silver Strand kilátó",
+            "ro": "Punct de belvedere Silver Strand",
+            "en": "Silver Strand Viewpoint"
+          },
+          "coords": [
+            -8.77832,
+            54.664911
+          ],
+          "category": "natural",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blicken Sie hinab auf die hufeisenförmige Bucht, die für ihren unberührten Sand bekannt ist, und halten Sie Ihre Sachen fest, da der Wind stark sein kann.",
+            "hu": "Tekintsen le az érintetlen homokjáról híres patkó alakú öbölre, de vigyázzon az értékeire, mert a parti szél itt hirtelen nagyon felerősödhet.",
+            "ro": "Priviți în jos spre golful în formă de potcoavă, renumit pentru nisipul său fin, și aveți grijă de obiectele personale, deoarece vântul de coastă este puternic.",
+            "en": "Gaze down at the horseshoe-shaped bay renowned for its pristine sands, making sure to hold onto your belongings as the coastal winds can be suddenly fierce."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Silver Strand",
+            "hu": "A Silver Strand",
+            "ro": "Plaja Silver Strand",
+            "en": "The Silver Strand"
+          },
+          "coords": [
+            -8.775268,
+            54.664006
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen hinab, um an diesem herrlichen und abgelegenen Strand zu entspannen, aber denken Sie daran, ausreichend Wasser mitzubringen.",
+            "hu": "Ereszkedjen le a lépcsőn, hogy ezen a gyönyörű, félreeső strandon pihenjen, de ne feledje, hogy lenn nincsenek mosdók, így hozzon magával elég vizet.",
+            "ro": "Coborâți treptele pentru a vă relaxa pe această plajă frumoasă și izolată, dar amintiți-vă că nu există facilități, așa că luați cu voi multă apă.",
+            "en": "Descend the long flight of steps to relax on this secluded and beautiful beach, but remember that there are no facilities down here so pack plenty of water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit weiten Küstenpanoramen und alten Kirchenruinen bei Templecavan. Mittags stehen der historische Verteidigungsturm und atemberaubende Klippenaussichten an. Am Nachmittag bewundern Sie die unberührte Kurve der Bucht von oben. Der Tag endet wunderbar unten im goldenen Sand von The Silver Strand, wo Sie vollkommen entspannen.",
+        "hu": "A reggel lenyűgöző tengerparti panorámákkal és a Templecavan ősi templomromjaival kezdődik. A nap közepén a történelmi védelmi torony és a sziklák pereméről nyíló kilátás következik. Délután fentről csodálhatja meg az öböl érintetlen ívét. A nap csodálatosan zárul az ezüst homokos The Silver Strand partján, ahol kipihenheti magát a tenger morajlását hallgatva.",
+        "ro": "Dimineața începe cu panorame de coastă și ruinele antice ale bisericii Templecavan. La prânz vă îndreptați spre turnul de apărare istoric și spre punctele de observație uimitoare de pe stânci. După-amiaza admirați de sus curba perfectă a golfului. Ziua se încheie minunat pe nisipul auriu de la The Silver Strand, unde vă puteți relaxa complet lângă valuri.",
+        "en": "Morning begins with sweeping coastal panoramas and ancient church ruins at Templecavan. Midday shifts towards the historic defense tower and striking cliffside viewpoints over the ocean. In the afternoon, you'll admire the pristine curve of the bay from above. The day concludes wonderfully down on the golden sands of The Silver Strand itself."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:45",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Silver Strand",
+            "hu": "A Silver Strand",
+            "ro": "Plaja Silver Strand",
+            "en": "The Silver Strand"
+          },
+          "coords": [
+            -8.775268,
+            54.664006
+          ],
+          "category": "recreational",
+          "arrive_at": "09:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen hinab, um an diesem herrlichen und abgelegenen Strand zu entspannen, aber denken Sie daran, ausreichend Wasser mitzubringen.",
+            "hu": "Ereszkedjen le a lépcsőn, hogy ezen a gyönyörű, félreeső strandon pihenjen, de ne feledje, hogy lenn nincsenek mosdók, így hozzon magával elég vizet.",
+            "ro": "Coborâți treptele pentru a vă relaxa pe această plajă frumoasă și izolată, dar amintiți-vă că nu există facilități, așa că luați cu voi multă apă.",
+            "en": "Descend the long flight of steps to relax on this secluded and beautiful beach, but remember that there are no facilities down here so pack plenty of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Silver Strand Aussichtspunkt",
+            "hu": "Silver Strand kilátó",
+            "ro": "Punct de belvedere Silver Strand",
+            "en": "Silver Strand Viewpoint"
+          },
+          "coords": [
+            -8.77832,
+            54.664911
+          ],
+          "category": "natural",
+          "arrive_at": "10:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie hinab auf die hufeisenförmige Bucht, die für ihren unberührten Sand bekannt ist, und halten Sie Ihre Sachen fest, da der Wind stark sein kann.",
+            "hu": "Tekintsen le az érintetlen homokjáról híres patkó alakú öbölre, de vigyázzon az értékeire, mert a parti szél itt hirtelen nagyon felerősödhet.",
+            "ro": "Priviți în jos spre golful în formă de potcoavă, renumit pentru nisipul său fin, și aveți grijă de obiectele personale, deoarece vântul de coastă este puternic.",
+            "en": "Gaze down at the horseshoe-shaped bay renowned for its pristine sands, making sure to hold onto your belongings as the coastal winds can be suddenly fierce."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Aussichtspunkt",
+            "hu": "Malin Beg kilátó",
+            "ro": "Punct de belvedere Malin Beg",
+            "en": "Malin Beg Viewpoint"
+          },
+          "coords": [
+            -8.792456,
+            54.664177
+          ],
+          "category": "natural",
+          "arrive_at": "10:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die raue Küste von diesem Aussichtspunkt aus, der das perfekte Nachmittagslicht für Fotoliebhaber bietet, die dramatische Aufnahmen suchen.",
+            "hu": "Csodálja meg a zord partszakaszt ebből a stratégiai kilátóból, amely tökéletes délutáni fényeket kínál a drámai felvételekre vágyó fotózás szerelmeseinek.",
+            "ro": "Admirați coasta stâncoasă din acest punct de observație care oferă o lumină perfectă după-amiaza pentru pasionații de fotografie în căutare de cadre dramatice.",
+            "en": "Marvel at the rugged coastline from this strategic vantage point, which provides perfect afternoon lighting for photography lovers wanting dramatic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Wachturm",
+            "hu": "Malin Beg őrtorony",
+            "ro": "Turnul de veghe Malin Beg",
+            "en": "Malin Beg Watch Tower"
+          },
+          "coords": [
+            -8.791728,
+            54.662778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem napoleonischen Signalturm, um historische Verteidigungsstrategien zu verstehen, wobei Sie Abstand von den bröckelnden Rändern halten sollten.",
+            "hu": "Álljon meg a napóleoni jelzőtorony mellett, hogy elképzelje a történelmi védelmi stratégiákat, biztonságos távolságot tartva a törékeny, omladozó szélektől.",
+            "ro": "Stați lângă acest turn de semnalizare napoleonian istoric pentru a înțelege strategiile de apărare, păstrând o distanță sigură de marginile sale fragile.",
+            "en": "Stand beside this historic Napoleonic signal tower to imagine the historical defense strategies, keeping a safe distance from the fragile crumbling edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Templecavan",
+            "hu": "Templecavan",
+            "ro": "Templecavan",
+            "en": "Templecavan"
+          },
+          "coords": [
+            -8.790779,
+            54.664724
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Kirche, um in die frühchristliche Geschichte einzutauchen, und tragen Sie festes Schuhwerk auf dem unebenen Gelände.",
+            "hu": "Fedezze fel a templomromokat, hogy megismerje a kora keresztény történelmet, de viseljen masszív cipőt, mivel az azt körülvevő terület meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele acestei biserici antice pentru a vă conecta cu istoria paleocreștină, purtând încălțăminte robustă deoarece terenul din jur este accidentat.",
+            "en": "Explore the ruins of this ancient church to connect with early Christian history, wearing sturdy shoes since the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozean-Aussichtspunkt",
+            "hu": "Óceáni kilátó",
+            "ro": "Punct de observație pe ocean",
+            "en": "Ocean Viewpoint"
+          },
+          "coords": [
+            -8.787233,
+            54.671566
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Küstenpanoramen, die diese Region prägen, und bringen Sie unbedingt ein Fernglas mit, um Seevögel an den Klippen zu beobachten.",
+            "hu": "Csodálja meg a régiót meghatározó lenyűgöző tengerparti panorámát, és mindenképpen hozzon magával távcsövet a drámai szikláknál bukkanó tengeri madarakhoz.",
+            "ro": "Bucurați-vă de panoramele de coastă uimitoare care definesc această regiune și asigurați-vă că aduceți binoclu pentru a observa păsările marine.",
+            "en": "Take in the sweeping coastal panoramas that define this region, and be sure to bring binoculars to spot seabirds diving along the dramatic cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe Radhairc na Málainne Bige",
+            "hu": "Pointe Radhairc na Málainne Bige",
+            "ro": "Pointe Radhairc na Málainne Bige",
+            "en": "Pointe Radhairc na Málainne Bige"
+          },
+          "coords": [
+            -8.783494,
+            54.67953
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Verweilen Sie an dieser wilden Landzunge mit ungetrübtem Blick auf den Atlantik und kleiden Sie sich im Zwiebellook, um der frischen Meeresbrise zu trotzen.",
+            "hu": "Töltsön el egy nyugodt percet ezen a vad fokon, ahonnan zavartalan kilátás nyílik az Atlanti-óceánra, és öltözzön rétegesen a hideg óceáni szellő ellen.",
+            "ro": "Petreceți un moment liniștit pe acest promontoriu sălbatic ce oferă vederi neîntrerupte spre Atlantic, îmbrăcându-vă în straturi împotriva brizei reci.",
+            "en": "Take a quiet moment at this wild headland that offers uninterrupted views of the Atlantic, dressing in layers to stay warm against the bracing ocean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der abgelegenen Schönheit von The Silver Strand. Mittags springen Sie zwischen spektakulären Aussichtspunkten und den Klippen am napoleonischen Turm hin und her. Die nachmittägliche Radtour führt Sie vorbei an alten Ruinen zu noch wilderen Aussichten. Beenden Sie den Tag an der Pointe Radhairc und genießen Sie den endlosen Horizont.",
+        "hu": "Kezdje a túrát a The Silver Strand eldugott szépségével, mielőtt visszakapaszkodna a partra. A nap közepén lenyűgöző kilátók és a napóleoni torony drámai sziklái között kerékpározik. A délutáni tekerés ősi romok mellett vezet el a még vadabb óceáni panorámák felé. Zárja a napot a Pointe Radhairc foknál, a végtelen horizontban gyönyörködve.",
+        "ro": "Începeți plimbarea cu frumusețea izolată de la The Silver Strand înainte de a urca din nou. La prânz vă deplasați între puncte de belvedere spectaculoase și stâncile dramatice de lângă turn. După-amiaza pedalați pe lângă ruine antice spre vederi și mai sălbatice ale oceanului. Încheiați ziua la Pointe Radhairc, admirând orizontul nesfârșit al Atlanticului.",
+        "en": "Start your ride descending to the secluded beauty of The Silver Strand before climbing back up. Midday involves hopping between spectacular viewpoints and the dramatic cliffs near the Napoleonic tower. Afternoon pedaling takes you past ancient ruins to even wilder ocean overlooks. Conclude at Pointe Radhairc, enjoying the endless horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 9.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Leahan",
+            "hu": "Leahan",
+            "ro": "Leahan",
+            "en": "Leahan"
+          },
+          "coords": [
+            -8.747822,
+            54.668367
+          ],
+          "category": "natural",
+          "arrive_at": "09:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Gipfel, um einen spektakulären Überblick über die gesamte Halbinsel zu erhalten, und starten Sie am besten sehr früh.",
+            "hu": "Mássza meg ezt a kiemelkedő csúcsot, hogy lenyűgöző kilátást kapjon az egész félszigetre, de kezdje korán a napot a tiszta látási viszonyok érdekében.",
+            "ro": "Urcați pe acest vârf proeminent pentru a obține o panoramă spectaculoasă asupra întregii peninsule, începând devreme pentru a avea vizibilitate clară.",
+            "en": "Hike up this prominent peak to gain a spectacular overview of the entire peninsula, starting early in the day to ensure clear visibility and safe footing."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Silver Strand",
+            "hu": "A Silver Strand",
+            "ro": "Plaja Silver Strand",
+            "en": "The Silver Strand"
+          },
+          "coords": [
+            -8.775268,
+            54.664006
+          ],
+          "category": "recreational",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen hinab, um an diesem herrlichen und abgelegenen Strand zu entspannen, aber denken Sie daran, ausreichend Wasser mitzubringen.",
+            "hu": "Ereszkedjen le a lépcsőn, hogy ezen a gyönyörű, félreeső strandon pihenjen, de ne feledje, hogy lenn nincsenek mosdók, így hozzon magával elég vizet.",
+            "ro": "Coborâți treptele pentru a vă relaxa pe această plajă frumoasă și izolată, dar amintiți-vă că nu există facilități, așa că luați cu voi multă apă.",
+            "en": "Descend the long flight of steps to relax on this secluded and beautiful beach, but remember that there are no facilities down here so pack plenty of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Silver Strand Aussichtspunkt",
+            "hu": "Silver Strand kilátó",
+            "ro": "Punct de belvedere Silver Strand",
+            "en": "Silver Strand Viewpoint"
+          },
+          "coords": [
+            -8.77832,
+            54.664911
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie hinab auf die hufeisenförmige Bucht, die für ihren unberührten Sand bekannt ist, und halten Sie Ihre Sachen fest, da der Wind stark sein kann.",
+            "hu": "Tekintsen le az érintetlen homokjáról híres patkó alakú öbölre, de vigyázzon az értékeire, mert a parti szél itt hirtelen nagyon felerősödhet.",
+            "ro": "Priviți în jos spre golful în formă de potcoavă, renumit pentru nisipul său fin, și aveți grijă de obiectele personale, deoarece vântul de coastă este puternic.",
+            "en": "Gaze down at the horseshoe-shaped bay renowned for its pristine sands, making sure to hold onto your belongings as the coastal winds can be suddenly fierce."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Wachturm",
+            "hu": "Malin Beg őrtorony",
+            "ro": "Turnul de veghe Malin Beg",
+            "en": "Malin Beg Watch Tower"
+          },
+          "coords": [
+            -8.791728,
+            54.662778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem napoleonischen Signalturm, um historische Verteidigungsstrategien zu verstehen, wobei Sie Abstand von den bröckelnden Rändern halten sollten.",
+            "hu": "Álljon meg a napóleoni jelzőtorony mellett, hogy elképzelje a történelmi védelmi stratégiákat, biztonságos távolságot tartva a törékeny, omladozó szélektől.",
+            "ro": "Stați lângă acest turn de semnalizare napoleonian istoric pentru a înțelege strategiile de apărare, păstrând o distanță sigură de marginile sale fragile.",
+            "en": "Stand beside this historic Napoleonic signal tower to imagine the historical defense strategies, keeping a safe distance from the fragile crumbling edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Malin Beg Aussichtspunkt",
+            "hu": "Malin Beg kilátó",
+            "ro": "Punct de belvedere Malin Beg",
+            "en": "Malin Beg Viewpoint"
+          },
+          "coords": [
+            -8.792456,
+            54.664177
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die raue Küste von diesem Aussichtspunkt aus, der das perfekte Nachmittagslicht für Fotoliebhaber bietet, die dramatische Aufnahmen suchen.",
+            "hu": "Csodálja meg a zord partszakaszt ebből a stratégiai kilátóból, amely tökéletes délutáni fényeket kínál a drámai felvételekre vágyó fotózás szerelmeseinek.",
+            "ro": "Admirați coasta stâncoasă din acest punct de observație care oferă o lumină perfectă după-amiaza pentru pasionații de fotografie în căutare de cadre dramatice.",
+            "en": "Marvel at the rugged coastline from this strategic vantage point, which provides perfect afternoon lighting for photography lovers wanting dramatic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Templecavan",
+            "hu": "Templecavan",
+            "ro": "Templecavan",
+            "en": "Templecavan"
+          },
+          "coords": [
+            -8.790779,
+            54.664724
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Kirche, um in die frühchristliche Geschichte einzutauchen, und tragen Sie festes Schuhwerk auf dem unebenen Gelände.",
+            "hu": "Fedezze fel a templomromokat, hogy megismerje a kora keresztény történelmet, de viseljen masszív cipőt, mivel az azt körülvevő terület meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele acestei biserici antice pentru a vă conecta cu istoria paleocreștină, purtând încălțăminte robustă deoarece terenul din jur este accidentat.",
+            "en": "Explore the ruins of this ancient church to connect with early Christian history, wearing sturdy shoes since the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe Radhairc na Málainne Bige",
+            "hu": "Pointe Radhairc na Málainne Bige",
+            "ro": "Pointe Radhairc na Málainne Bige",
+            "en": "Pointe Radhairc na Málainne Bige"
+          },
+          "coords": [
+            -8.783494,
+            54.67953
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Verweilen Sie an dieser wilden Landzunge mit ungetrübtem Blick auf den Atlantik und kleiden Sie sich im Zwiebellook, um der frischen Meeresbrise zu trotzen.",
+            "hu": "Töltsön el egy nyugodt percet ezen a vad fokon, ahonnan zavartalan kilátás nyílik az Atlanti-óceánra, és öltözzön rétegesen a hideg óceáni szellő ellen.",
+            "ro": "Petreceți un moment liniștit pe acest promontoriu sălbatic ce oferă vederi neîntrerupte spre Atlantic, îmbrăcându-vă în straturi împotriva brizei reci.",
+            "en": "Take a quiet moment at this wild headland that offers uninterrupted views of the Atlantic, dressing in layers to stay warm against the bracing ocean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Dermot & Granias Bett",
+            "hu": "Dermot és Grania ágya",
+            "ro": "Patul lui Dermot și Grania",
+            "en": "Dermot & Grania's Bed"
+          },
+          "coords": [
+            -8.773328,
+            54.689642
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses alte Megalithgrab, um über das prähistorische Leben nachzudenken, und gehen Sie vorsichtig, da das Gebiet oft schlammig und rutschig ist.",
+            "hu": "Látogassa meg ezt a masszív tájon megbúvó ősi megalitikus sírt, hogy elgondolkodjon a történelem előtti életen, óvatosan lépkedve a sáros, csúszós talajon.",
+            "ro": "Vizitați acest mormânt megalitic antic din peisajul stâncos pentru a reflecta asupra vieții preistorice, pășind cu grijă, deoarece zona poate fi alunecoasă.",
+            "en": "Visit this ancient megalithic tomb nestled in the rugged landscape to ponder prehistoric life, treading carefully since the area can get quite muddy and slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einer morgendlichen Wanderung auf den Leahan für unvergleichliche Aussichten. Mittags entspannen Sie am Strand und besichtigen die Aussichtspunkte der Klippen. Die Fahrt am Nachmittag bringt Sie zu historischen Türmen und einsamen Landzungen. Wenn der Abend naht, bestaunen Sie die Geheimnisse bei Dermot & Grania's Bed.",
+        "hu": "Indítsa autós útját egy frissítő reggeli túrával a Leahan hegyre a páratlan kilátásért. Délben pihenjen meg a The Silver Strand híres homokján, és járja be a környező sziklás kilátókat. Délután történelmi tornyokhoz és magányos hegyfokokhoz vezet az út. Kora este elmerülhet a történelem előtti rejtélyekben Dermot és Grania ágyánál.",
+        "ro": "Începeți traseul auto cu o drumeție de dimineață pe Leahan pentru vederi de neegalat. La prânz, relaxați-vă pe plaja The Silver Strand și vizitați punctele de observație de pe stânci. Conducând după-amiaza, ajungeți la turnuri istorice și promontorii solitare. Spre seară, meditați asupra misterelor preistorice la faimosul Dermot & Grania's Bed.",
+        "en": "Kick off your drive with an invigorating morning hike up Leahan for unmatched peninsular views. By midday, relax on the famous sands of The Silver Strand and tour the surrounding cliffside overlooks. Afternoon driving brings you to historic towers and solitary headlands. As evening falls, ponder prehistoric mysteries at Dermot & Grania's Bed."
+      }
+    }
+  }
+}

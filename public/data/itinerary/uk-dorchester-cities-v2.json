@@ -1,0 +1,497 @@
+{
+  "city_id": "uk-dorchester-cities-v2",
+  "anchor": {
+    "name": "Dorchester",
+    "coords": [
+      -2.4397,
+      50.7108
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brewery Square",
+            "hu": "Brewery Square",
+            "ro": "Brewery Square",
+            "en": "Brewery Square"
+          },
+          "coords": [
+            -2.439009,
+            50.710512
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Neugestaltung des historischen Brauereiviertels und holen Sie sich vor Ihrem Start einen Kaffee in einem der lebhaften Cafés.",
+            "hu": "Csodálja meg a történelmi sörfőzde modern újjászületését, és a nap indításaként igyon egy finom kávét az egyik hangulatos kávézóban.",
+            "ro": "Admirați revitalizarea modernă a acestei zone istorice de berărie și savurați o cafea la una dintre cafenelele vibrante înainte de a începe ziua.",
+            "en": "Admire the modern revitalization of this historic brewery area and grab a coffee at one of the vibrant cafes before starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Borough Gardens",
+            "hu": "Borough Gardens",
+            "ro": "Borough Gardens",
+            "en": "Borough Gardens"
+          },
+          "coords": [
+            -2.441361,
+            50.712944
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen klassischen viktorianischen Park mit seinen gepflegten Blumenbeeten und verpassen Sie nicht den bezaubernden historischen Uhrenturm.",
+            "hu": "Sétáljon végig ezen a klasszikus viktoriánus parkon, gyönyörködjön a gondozott virágágyásokban, és ne hagyja ki a bájos történelmi óratornyot.",
+            "ro": "Plimbați-vă prin acest parc victorian clasic, cu rondurile sale de flori frumos întreținute, și nu ratați fermecătorul turn cu ceas istoric.",
+            "en": "Stroll through this classic Victorian park with its beautifully maintained flowerbeds, and don't miss the charming historic clock tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman Town House",
+            "hu": "Római Városi Ház",
+            "ro": "Casa Romană",
+            "en": "Roman Town House"
+          },
+          "coords": [
+            -2.441,
+            50.7174
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das am besten erhaltene römische Stadthaus Großbritanniens mit seinen antiken Mosaiken, aber tragen Sie flache Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel Nagy-Britannia legjobb állapotban fennmaradt római kori városi házát és mozaikjait, de viseljen lapos talpú cipőt az egyenetlen füves terepen.",
+            "ro": "Explorați cea mai bine conservată casă romană din Marea Britanie pentru a vedea mozaicuri antice, dar purtați încălțăminte plată deoarece terenul e denivelat.",
+            "en": "Explore the best-preserved Roman town house in Britain to see ancient mosaics, but wear flat shoes as the grassy site can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            -2.439405,
+            50.715292
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das historische Gerichtsgebäude, in dem die Tolpuddle Martyrs vor Gericht standen, und erkunden Sie unbedingt die stimmungsvollen Zellen im Keller.",
+            "hu": "Tapasztalja meg a történelmi bíróság épületét, ahol a tolpuddle-i mártírokat elítélték, és mindenképpen járja be a hangulatos, hideg cellákat is.",
+            "ro": "Descoperiți tribunalul istoric unde au fost judecați Martirii din Tolpuddle și asigurați-vă că explorați celulele reci și pline de atmosferă de dedesubt.",
+            "en": "Experience the historic courthouse where the Tolpuddle Martyrs were tried, and be sure to explore the cold, atmospheric cells below."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter Templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -2.436909,
+            50.715528
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese atemberaubende mittelalterliche Kirche mit ihrem schönen Turm und suchen Sie drinnen nach dem Denkmal für den berühmten Dichter William Barnes.",
+            "hu": "Látogasson el ebbe a lenyűgöző középkori templomba a gyönyörű tornyával, és keresse meg odabent a híres költő, William Barnes emlékművét.",
+            "ro": "Vizitați această uimitoare biserică medievală cu un turn superb și căutați în interior monumentul dedicat celebrului poet William Barnes.",
+            "en": "Visit this stunning medieval church featuring a beautiful tower, and look for the monument to the famous poet William Barnes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorset Museum",
+            "hu": "Dorset Múzeum",
+            "ro": "Muzeul Dorset",
+            "en": "Dorset Museum"
+          },
+          "coords": [
+            -2.4372,
+            50.7156
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Thomas Hardys Archiv sowie faszinierende lokale Archäologie und buchen Sie Ihr Ticket vorab online, um die Warteschlange am Eingang zu überspringen.",
+            "hu": "Fedezze fel Thomas Hardy archívumát és a helyi régészeti leleteket, a belépőjegyét pedig foglalja le online, hogy elkerülje a sorban állást.",
+            "ro": "Descoperiți arhiva lui Thomas Hardy și fascinanta arheologie locală, rezervându-vă biletul online în avans pentru a evita statul la coadă.",
+            "en": "Discover Thomas Hardy's archive and fascinating local archaeology, booking your ticket online in advance to skip the queue at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am modernen Brewery Square, bevor Sie die ruhigen Borough Gardens genießen. Mittags reisen Sie im bemerkenswerten Roman Town House in die Vergangenheit. Am Nachmittag erkunden Sie die faszinierende Rechtsgeschichte in der Shire Hall und besuchen die St. Peter's Church. Der Tag endet mit den umfangreichen Sammlungen des Dorset Museum.",
+        "hu": "A reggel a modern Brewery Square-en indul, majd a Borough Gardens nyugalmát élvezheti. Délben a lenyűgöző Roman Town House repíti vissza az időben. Délután a Shire Hall jogtörténeti érdekességeit és a St Peter's Church-öt fedezheti fel. A napot a Dorset Museum gazdag gyűjteményének megtekintése zárja.",
+        "ro": "Dimineața începe la modernul Brewery Square înainte de a vă bucura de liniștitul Borough Gardens. La prânz călătoriți înapoi în timp la remarcabila Roman Town House. După-amiaza explorează istoria juridică fascinantă la Shire Hall și vizitează Biserica St Peter. Ziua se încheie cu colecțiile extinse de la Muzeul Dorset.",
+        "en": "Morning starts at the modern Brewery Square before enjoying the tranquil Borough Gardens. Midday takes you back in time at the remarkable Roman Town House. Afternoon explores the fascinating legal history at Shire Hall and visits St Peter's Church. The day concludes with the extensive collections at the Dorset Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maumbury Rings",
+            "hu": "Maumbury Rings",
+            "ro": "Maumbury Rings",
+            "en": "Maumbury Rings"
+          },
+          "coords": [
+            -2.44039,
+            50.7079
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem massiven neolithischen Henge, das später als römisches Amphitheater diente, und schließen Sie Ihr Fahrrad in der Nähe des Eingangswegs an.",
+            "hu": "Kerékpározzon el ehhez a hatalmas újkőkori építményhez, amely később római amfiteátrumként szolgált, a kerékpárját pedig zárja le a bejárat közelében.",
+            "ro": "Mergeți pe bicicletă spre acest monument neolitic masiv folosit ulterior ca amfiteatru roman, legându-vă bicicleta în siguranță lângă calea de acces.",
+            "en": "Cycle up to this massive Neolithic henge that later served as a Roman amphitheater, keeping your bike locked near the entrance path."
+          }
+        },
+        {
+          "name": {
+            "de": "Brewery Square",
+            "hu": "Brewery Square",
+            "ro": "Brewery Square",
+            "en": "Brewery Square"
+          },
+          "coords": [
+            -2.439009,
+            50.710512
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Neugestaltung des historischen Brauereiviertels und holen Sie sich vor Ihrem Start einen Kaffee in einem der lebhaften Cafés.",
+            "hu": "Csodálja meg a történelmi sörfőzde modern újjászületését, és a nap indításaként igyon egy finom kávét az egyik hangulatos kávézóban.",
+            "ro": "Admirați revitalizarea modernă a acestei zone istorice de berărie și savurați o cafea la una dintre cafenelele vibrante înainte de a începe ziua.",
+            "en": "Admire the modern revitalization of this historic brewery area and grab a coffee at one of the vibrant cafes before starting your day."
+          }
+        },
+        {
+          "name": {
+            "de": "The Keep Military Museum",
+            "hu": "The Keep Hadtörténeti Múzeum",
+            "ro": "Muzeul Militar The Keep",
+            "en": "The Keep Military Museum"
+          },
+          "coords": [
+            -2.443568,
+            50.714755
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf das Dach dieses imposanten Militärmuseums für einen Panoramablick über Dorchester, nachdem Sie die reiche Regimentsgeschichte drinnen erkundet haben.",
+            "hu": "Másszon fel az impozáns hadtörténeti múzeum tetejére a Dorchesterre nyíló panorámáért, miután megismerte a gazdag ezredtörténetet odabent.",
+            "ro": "Urcați pe acoperișul acestui impunător muzeu militar pentru vederi panoramice ale orașului Dorchester, după ce explorați istoria regimentului în interior.",
+            "en": "Climb to the roof of this imposing military museum for panoramic views of Dorchester, after exploring the rich regimental history inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman Town House",
+            "hu": "Római Városi Ház",
+            "ro": "Casa Romană",
+            "en": "Roman Town House"
+          },
+          "coords": [
+            -2.441,
+            50.7174
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das am besten erhaltene römische Stadthaus Großbritanniens mit seinen antiken Mosaiken, aber tragen Sie flache Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel Nagy-Britannia legjobb állapotban fennmaradt római kori városi házát és mozaikjait, de viseljen lapos talpú cipőt az egyenetlen füves terepen.",
+            "ro": "Explorați cea mai bine conservată casă romană din Marea Britanie pentru a vedea mozaicuri antice, dar purtați încălțăminte plată deoarece terenul e denivelat.",
+            "en": "Explore the best-preserved Roman town house in Britain to see ancient mosaics, but wear flat shoes as the grassy site can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            -2.439405,
+            50.715292
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das historische Gerichtsgebäude, in dem die Tolpuddle Martyrs vor Gericht standen, und erkunden Sie unbedingt die stimmungsvollen Zellen im Keller.",
+            "hu": "Tapasztalja meg a történelmi bíróság épületét, ahol a tolpuddle-i mártírokat elítélték, és mindenképpen járja be a hangulatos, hideg cellákat is.",
+            "ro": "Descoperiți tribunalul istoric unde au fost judecați Martirii din Tolpuddle și asigurați-vă că explorați celulele reci și pline de atmosferă de dedesubt.",
+            "en": "Experience the historic courthouse where the Tolpuddle Martyrs were tried, and be sure to explore the cold, atmospheric cells below."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorset Museum",
+            "hu": "Dorset Múzeum",
+            "ro": "Muzeul Dorset",
+            "en": "Dorset Museum"
+          },
+          "coords": [
+            -2.4372,
+            50.7156
+          ],
+          "category": "museum",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Thomas Hardys Archiv sowie faszinierende lokale Archäologie und buchen Sie Ihr Ticket vorab online, um die Warteschlange am Eingang zu überspringen.",
+            "hu": "Fedezze fel Thomas Hardy archívumát és a helyi régészeti leleteket, a belépőjegyét pedig foglalja le online, hogy elkerülje a sorban állást.",
+            "ro": "Descoperiți arhiva lui Thomas Hardy și fascinanta arheologie locală, rezervându-vă biletul online în avans pentru a evita statul la coadă.",
+            "en": "Discover Thomas Hardy's archive and fascinating local archaeology, booking your ticket online in advance to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Max Gate",
+            "hu": "Max Gate",
+            "ro": "Max Gate",
+            "en": "Max Gate"
+          },
+          "coords": [
+            -2.420517,
+            50.707465
+          ],
+          "category": "historical",
+          "arrive_at": "17:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das stimmungsvolle viktorianische Haus, das von Thomas Hardy selbst entworfen wurde, und nehmen Sie sich Zeit für einen Spaziergang durch den Garten.",
+            "hu": "Járja be a hangulatos viktoriánus otthont, amelyet maga Thomas Hardy tervezett, és szánjon időt egy pihentető sétára a gyönyörű környező kertben.",
+            "ro": "Vizitați casa victoriană plină de atmosferă, proiectată chiar de Thomas Hardy, și acordați-vă timp pentru a vă plimba prin frumoasa grădină înconjurătoare.",
+            "en": "Tour the atmospheric Victorian home designed by Thomas Hardy himself, and take time to wander through the beautiful surrounding garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den antiken Maumbury Rings, bevor es durch den Brewery Square geht. Mittags stehen die Militärgeschichte in The Keep und das römische Leben im Roman Town House im Fokus. Am Nachmittag tauchen Sie in der Shire Hall und im Dorset Museum in das lokale Erbe ein. Der Abend klingt im Max Gate, dem von Thomas Hardy entworfenen Haus, wunderschön aus.",
+        "hu": "A reggel az ősi Maumbury Rings-nél kezdődik, majd a Brewery Square felé vesszük az irányt. Délben The Keep hadtörténete és a Roman Town House ókori világa van középpontban. Délután a Shire Hall és a Dorset Museum helyi örökségét ismerheti meg. Az este Thomas Hardy tervezett otthonában, a Max Gate-ben ér véget.",
+        "ro": "Dimineața începe la anticele Maumbury Rings înainte de a trece prin Brewery Square. Prânzul se axează pe istoria militară la The Keep și pe viața romană la Roman Town House. După-amiaza aprofundează moștenirea locală la Shire Hall și la Muzeul Dorset. Seara se încheie frumos la Max Gate, casa proiectată de Thomas Hardy.",
+        "en": "Morning kicks off at the ancient Maumbury Rings before passing through Brewery Square. Midday focuses on military history at The Keep and ancient life at the Roman Town House. Afternoon delves into local heritage at Shire Hall and Dorset Museum. Evening wraps up beautifully at Max Gate, Thomas Hardy's designed home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maiden Castle",
+            "hu": "Maiden Castle",
+            "ro": "Castelul Maiden",
+            "en": "Maiden Castle"
+          },
+          "coords": [
+            -2.47,
+            50.695
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den massiven Wällen der größten eisenzeitlichen Hügelfestung Europas und bringen Sie eine Windjacke mit, da es hier oft recht windig ist.",
+            "hu": "Sétáljon végig Európa legnagyobb vaskori földvárának hatalmas sáncain, és hozzon magával egy széldzsekit, mert a magaslaton gyakran fúj a szél.",
+            "ro": "Plimbați-vă pe meterezele masive ale celui mai mare fort din Epoca Fierului din Europa, aducând o geacă de vânt deoarece site-ul ridicat este adesea foarte aerisit.",
+            "en": "Walk the massive ramparts of Europe's largest Iron Age hillfort, bringing a windbreaker as the elevated site is often quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Maumbury Rings",
+            "hu": "Maumbury Rings",
+            "ro": "Maumbury Rings",
+            "en": "Maumbury Rings"
+          },
+          "coords": [
+            -2.44039,
+            50.7079
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem massiven neolithischen Henge, das später als römisches Amphitheater diente, und schließen Sie Ihr Fahrrad in der Nähe des Eingangswegs an.",
+            "hu": "Kerékpározzon el ehhez a hatalmas újkőkori építményhez, amely később római amfiteátrumként szolgált, a kerékpárját pedig zárja le a bejárat közelében.",
+            "ro": "Mergeți pe bicicletă spre acest monument neolitic masiv folosit ulterior ca amfiteatru roman, legându-vă bicicleta în siguranță lângă calea de acces.",
+            "en": "Cycle up to this massive Neolithic henge that later served as a Roman amphitheater, keeping your bike locked near the entrance path."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorset Museum",
+            "hu": "Dorset Múzeum",
+            "ro": "Muzeul Dorset",
+            "en": "Dorset Museum"
+          },
+          "coords": [
+            -2.4372,
+            50.7156
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie Thomas Hardys Archiv sowie faszinierende lokale Archäologie und buchen Sie Ihr Ticket vorab online, um die Warteschlange am Eingang zu überspringen.",
+            "hu": "Fedezze fel Thomas Hardy archívumát és a helyi régészeti leleteket, a belépőjegyét pedig foglalja le online, hogy elkerülje a sorban állást.",
+            "ro": "Descoperiți arhiva lui Thomas Hardy și fascinanta arheologie locală, rezervându-vă biletul online în avans pentru a evita statul la coadă.",
+            "en": "Discover Thomas Hardy's archive and fascinating local archaeology, booking your ticket online in advance to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter Templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -2.436909,
+            50.715528
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese atemberaubende mittelalterliche Kirche mit ihrem schönen Turm und suchen Sie drinnen nach dem Denkmal für den berühmten Dichter William Barnes.",
+            "hu": "Látogasson el ebbe a lenyűgöző középkori templomba a gyönyörű tornyával, és keresse meg odabent a híres költő, William Barnes emlékművét.",
+            "ro": "Vizitați această uimitoare biserică medievală cu un turn superb și căutați în interior monumentul dedicat celebrului poet William Barnes.",
+            "en": "Visit this stunning medieval church featuring a beautiful tower, and look for the monument to the famous poet William Barnes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Max Gate",
+            "hu": "Max Gate",
+            "ro": "Max Gate",
+            "en": "Max Gate"
+          },
+          "coords": [
+            -2.420517,
+            50.707465
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das stimmungsvolle viktorianische Haus, das von Thomas Hardy selbst entworfen wurde, und nehmen Sie sich Zeit für einen Spaziergang durch den Garten.",
+            "hu": "Járja be a hangulatos viktoriánus otthont, amelyet maga Thomas Hardy tervezett, és szánjon időt egy pihentető sétára a gyönyörű környező kertben.",
+            "ro": "Vizitați casa victoriană plină de atmosferă, proiectată chiar de Thomas Hardy, și acordați-vă timp pentru a vă plimba prin frumoasa grădină înconjurătoare.",
+            "en": "Tour the atmospheric Victorian home designed by Thomas Hardy himself, and take time to wander through the beautiful surrounding garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Hardy's Cottage",
+            "hu": "Hardy's Cottage",
+            "ro": "Casa lui Hardy",
+            "en": "Hardy's Cottage"
+          },
+          "coords": [
+            -2.386346,
+            50.730877
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Betreten Sie das malerische strohgedeckte Haus, in dem Thomas Hardy geboren wurde, und parken Sie unbedingt am Besucherzentrum, das nur einen kurzen Fußweg entfernt liegt.",
+            "hu": "Lépjen be abba a festői nádfedeles házikóba, ahol Thomas Hardy született, de mindenképpen a rövid sétára lévő látogatóközpontnál parkoljon le.",
+            "ro": "Pășiți în pitoreasca căsuță cu acoperiș de stuf unde s-a născut Thomas Hardy, asigurându-vă că parcați la centrul de vizitatori aflat la o scurtă plimbare.",
+            "en": "Step into the picturesque thatched cottage where Thomas Hardy was born, making sure to park at the visitor center a short walk away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am beeindruckenden eisenzeitlichen Maiden Castle, gefolgt von den historischen Maumbury Rings. Mittags führt Sie der Weg ins Stadtzentrum zu den Ausstellungen des Dorset Museums. Der Nachmittag bietet einen ruhigen Besuch der St. Peter's Church, bevor es zum Max Gate geht. Der Tag endet am idyllischen Hardy's Cottage.",
+        "hu": "A reggel a lenyűgöző vaskori Maiden Castle-nél kezdődik, melyet a történelmi Maumbury Rings követ. Délben a városközpontba érkezve a Dorset Museum kiállításait fedezzük fel. Délután a St Peter's Church csendes látogatása után a Max Gate következik. A nap az idilli Hardy's Cottage-nál ér véget.",
+        "ro": "Dimineața începe la impresionantul fort antic Maiden Castle, urmat de istoricele Maumbury Rings. Prânzul vă aduce în centrul orașului pentru expozițiile de la Muzeul Dorset. După-amiaza oferă o vizită liniștită la Biserica St Peter înainte de a merge la Max Gate. Ziua se încheie la idilicul Hardy's Cottage.",
+        "en": "Morning begins at the impressive Iron Age hillfort of Maiden Castle, followed by the historic Maumbury Rings. Midday takes you into the town center for the Dorset Museum's exhibits. Afternoon offers a peaceful visit to St Peter's Church before heading to Max Gate. The day ends at the idyllic Hardy's Cottage."
+      }
+    }
+  }
+}

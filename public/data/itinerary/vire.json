@@ -1,0 +1,474 @@
+{
+  "city_id": "vire",
+  "anchor": {
+    "name": "Vire",
+    "coords": [
+      -0.8892,
+      48.8386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 2.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Santa Fe",
+            "hu": "Square Santa Fe",
+            "ro": "Square Santa Fe",
+            "en": "Square Santa Fe"
+          },
+          "coords": [
+            -0.885283,
+            48.838274
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
+            "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
+            "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Horloge",
+            "hu": "Porte Horloge",
+            "ro": "Porte Horloge",
+            "en": "Porte Horloge"
+          },
+          "coords": [
+            -0.89,
+            48.8383
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
+            "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
+            "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon de Vire",
+            "hu": "Donjon de Vire",
+            "ro": "Donjon de Vire",
+            "en": "Donjon de Vire"
+          },
+          "coords": [
+            -0.89194,
+            48.8356
+          ],
+          "category": "fortress",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
+            "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaux de Vire",
+            "hu": "Vaux de Vire",
+            "ro": "Vaux de Vire",
+            "en": "Vaux de Vire"
+          },
+          "coords": [
+            -0.899119,
+            48.837321
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
+            "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
+            "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Europe",
+            "hu": "Parc de l'Europe",
+            "ro": "Parc de l'Europe",
+            "en": "Parc de l'Europe"
+          },
+          "coords": [
+            -0.888721,
+            48.844519
+          ],
+          "category": "family",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
+            "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Tauchen Sie mittags in die üppigen Täler ein, die lokale Dichter inspirierten. Verbringen Sie den Nachmittag entspannt in gepflegten Parks und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben merüljön el a buja völgyekben, amelyek helyi költőket és zenészeket ihlettek. Délután pihenjen a gondozott parkokban, élvezve a nyugodt, kellemes levegőt a séta végén.",
+        "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând impresionantul turn cu ceas și ruinele vechiului castel. La prânz, pătrundeți în văile luxuriante care au inspirat poeții locali. Petreceți-vă după-amiaza relaxându-vă în parcurile frumos amenajate ale orașului.",
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets and musicians. Spend your afternoon relaxing in manicured parks to end your walking tour on a peaceful note."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 8.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Santa Fe",
+            "hu": "Square Santa Fe",
+            "ro": "Square Santa Fe",
+            "en": "Square Santa Fe"
+          },
+          "coords": [
+            -0.885283,
+            48.838274
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
+            "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
+            "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Horloge",
+            "hu": "Porte Horloge",
+            "ro": "Porte Horloge",
+            "en": "Porte Horloge"
+          },
+          "coords": [
+            -0.89,
+            48.8383
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
+            "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
+            "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon de Vire",
+            "hu": "Donjon de Vire",
+            "ro": "Donjon de Vire",
+            "en": "Donjon de Vire"
+          },
+          "coords": [
+            -0.89194,
+            48.8356
+          ],
+          "category": "fortress",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
+            "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaux de Vire",
+            "hu": "Vaux de Vire",
+            "ro": "Vaux de Vire",
+            "en": "Vaux de Vire"
+          },
+          "coords": [
+            -0.899119,
+            48.837321
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
+            "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
+            "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Europe",
+            "hu": "Parc de l'Europe",
+            "ro": "Parc de l'Europe",
+            "en": "Parc de l'Europe"
+          },
+          "coords": [
+            -0.888721,
+            48.844519
+          ],
+          "category": "family",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
+            "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Dathée",
+            "hu": "Lac de la Dathée",
+            "ro": "Lac de la Dathée",
+            "en": "Lac de la Dathée"
+          },
+          "coords": [
+            -0.954105,
+            48.809775
+          ],
+          "category": "natural",
+          "arrive_at": "15:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug am Lac de la Dathée für herrliche Naturansichten und fahren Sie auf den markierten Wegen, um Vögel zu beobachten.",
+            "hu": "Fejezze be utazását a nyugodt Lac de la Dathée-nél, és tekerjen a jól jelzett ösvényeken, hogy megfigyelhesse a helyi madárfajokat alkonyatkor.",
+            "ro": "Încheiați-vă călătoria la Lac de la Dathée pentru priveliști naturale extinse și pedalați pe trasee pentru a vedea păsări locale la amurg.",
+            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and cycle along the trails to spot local bird species at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Tauchen Sie mittags in die üppigen Täler ein, die lokale Dichter inspirierten. Verbringen Sie den Nachmittag in gepflegten Parks. Am Abend erwartet Sie die ruhige Schönheit des nahen Sees.",
+        "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben merüljön el a buja völgyekben, amelyek helyi költőket ihlettek. Délután pihenjen a gondozott parkokban, majd tekerjen ki a gyönyörű tóhoz, ahol a naplementében gyönyörködhet.",
+        "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând impresionantul turn cu ceas și ruinele vechiului castel. La prânz, pătrundeți în văile luxuriante care au inspirat poeții. Petreceți-vă după-amiaza în parcuri, iar seara, bucurați-vă de frumusețea senină a lacului din apropiere la apus.",
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets. Spend your afternoon relaxing in manicured parks, and as evening falls, cycle out to embrace the serene beauty of the lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 18.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Santa Fe",
+            "hu": "Square Santa Fe",
+            "ro": "Square Santa Fe",
+            "en": "Square Santa Fe"
+          },
+          "coords": [
+            -0.885283,
+            48.838274
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
+            "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
+            "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Horloge",
+            "hu": "Porte Horloge",
+            "ro": "Porte Horloge",
+            "en": "Porte Horloge"
+          },
+          "coords": [
+            -0.89,
+            48.8383
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
+            "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
+            "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon de Vire",
+            "hu": "Donjon de Vire",
+            "ro": "Donjon de Vire",
+            "en": "Donjon de Vire"
+          },
+          "coords": [
+            -0.89194,
+            48.8356
+          ],
+          "category": "fortress",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
+            "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Vire et du Bocage",
+            "hu": "Musée de Vire et du Bocage",
+            "ro": "Musée de Vire et du Bocage",
+            "en": "Musée de Vire et du Bocage"
+          },
+          "coords": [
+            -0.898287,
+            48.891572
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Museum in die lokale Geschichte ein und fragen Sie das Personal nach Sonderausstellungen, bevor Sie den Rundgang starten.",
+            "hu": "Merüljön el a helyi történelemben a múzeumban, és érdeklődjön a személyzetnél az időszaki kiállításokról, mielőtt elkezdené az önálló túrát.",
+            "ro": "Pătrundeți în istoria locală la muzeu și întrebați personalul despre expozițiile temporare înainte de a începe turul expoziției auto-ghidat.",
+            "en": "Dive into local history at the museum, and ask the friendly staff about temporary exhibits before beginning your informative self-guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Europe",
+            "hu": "Parc de l'Europe",
+            "ro": "Parc de l'Europe",
+            "en": "Parc de l'Europe"
+          },
+          "coords": [
+            -0.888721,
+            48.844519
+          ],
+          "category": "family",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
+            "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Vaux de Vire",
+            "hu": "Vaux de Vire",
+            "ro": "Vaux de Vire",
+            "en": "Vaux de Vire"
+          },
+          "coords": [
+            -0.899119,
+            48.837321
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
+            "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
+            "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Dathée",
+            "hu": "Lac de la Dathée",
+            "ro": "Lac de la Dathée",
+            "en": "Lac de la Dathée"
+          },
+          "coords": [
+            -0.954105,
+            48.809775
+          ],
+          "category": "natural",
+          "arrive_at": "17:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug am Lac de la Dathée für herrliche Naturansichten und spazieren Sie auf den markierten Wegen, um Vögel zu beobachten.",
+            "hu": "Fejezze be utazását a nyugodt Lac de la Dathée-nél, és sétáljon a jól jelzett ösvényeken, hogy megfigyelhesse a helyi madárfajokat alkonyatkor.",
+            "ro": "Încheiați-vă călătoria la Lac de la Dathée pentru priveliști naturale extinse și plimbați-vă pe trasee pentru a vedea păsări locale la amurg.",
+            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and walk along the trails to spot local bird species at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Fahren Sie mittags zum Heimatmuseum, um mehr über die lokale Kultur zu erfahren. Verbringen Sie den Nachmittag entspannt in den grünen Tälern und Parks. Am Abend erwartet Sie die idyllische Schönheit des großen Sees.",
+        "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben autózózzon el a múzeumba a helyi kultúra megismeréséért. Délután pihenjen a zöld völgyekben és parkokban. Estefelé élvezze a közeli tó nyugodt, festői szépségét és a lemenő nap fényeit.",
+        "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând turnul cu ceas și ruinele vechiului castel. La prânz, conduceți către muzeu pentru a descoperi cultura locală. Petreceți-vă după-amiaza relaxându-vă în văile și parcurile verzi. Seara, bucurați-vă de frumusețea senină a marelui lac din apropiere.",
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, drive to the local museum to delve into regional culture. Spend your afternoon relaxing in the lush valleys and parks. As evening falls, embrace the serene, sweeping beauty of the nearby lake."
+      }
+    }
+  }
+}

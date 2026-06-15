@@ -1,0 +1,428 @@
+{
+  "city_id": "bandol",
+  "anchor": {
+    "name": "Bandol",
+    "coords": [
+      5.7533,
+      43.1364
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-François-de-Sales",
+            "hu": "Szalézi Szent Ferenc-templom",
+            "ro": "Biserica Saint-François-de-Sales",
+            "en": "Church of Saint-François-de-Sales"
+          },
+          "coords": [
+            5.75439,
+            43.136569
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre dieser charmanten Kirche im Zentrum, deren Besuch sich besonders am ruhigen Vormittag für ein paar besinnliche Momente lohnt.",
+            "hu": "Csodálja meg ennek a bájos központi templomnak a békés hangulatát, amelyet a legérdemesebb a kora délelőtti csendben meglátogatni egy kis elmélkedésre.",
+            "ro": "Admirați atmosfera pașnică a acestei biserici centrale fermecătoare, a cărei vizitare este ideală dimineața devreme pentru câteva momente de liniște sufletească.",
+            "en": "Admire the peaceful atmosphere of this charming central church, which is best visited during the quiet mid-morning for a few reflective moments before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bandol",
+            "hu": "Bandol kikötő",
+            "ro": "Portul din Bandol",
+            "en": "Port of Bandol"
+          },
+          "coords": [
+            5.752731,
+            43.136883
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Flanieren Sie entlang der malerischen Hafenpromenade mit ihren unzähligen Yachten und genießen Sie einen frischen Kaffee in einem der direkt angrenzenden Cafés.",
+            "hu": "Sétáljon végig a festői kikötői sétányon a számtalan jacht mellett, és élvezze a friss kávét a közvetlenül a vízparton található hangulatos kávézók egyikében.",
+            "ro": "Plimbați-vă de-a lungul promenadei pitorești a portului, admirând iahturile și savurând o cafea proaspătă într-una dintre numeroasele cafenele de pe malul apei.",
+            "en": "Stroll along the picturesque harbor promenade filled with countless yachts, and make sure to enjoy a fresh coffee at one of the lively waterfront cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Bandol",
+            "hu": "Bandol Kaszinó",
+            "ro": "Cazinoul din Bandol",
+            "en": "Bandol Casino"
+          },
+          "coords": [
+            5.753708,
+            43.135795
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die beeindruckende Fassade des modernen Spielkasinos direkt am Strand, wo Sie spannende Unterhaltung und Spiele erwarten.",
+            "hu": "Vessen egy pillantást a tengerparti modern kaszinó lenyűgöző homlokzatára, amely izgalmas szórakozási lehetőségeket kínál közvetlenül a strand szomszédságában.",
+            "ro": "Aruncați o privire la fațada impresionantă a acestui cazinou modern de pe plajă, unde divertismentul captivant și jocurile atrag vizitatorii pe tot parcursul zilei.",
+            "en": "Take a look at the impressive facade of the modern beachfront casino, which offers exciting entertainment and is a prominent landmark right next to the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Centrale",
+            "hu": "Központi strand",
+            "ro": "Plaja Centrală",
+            "en": "Central Beach"
+          },
+          "coords": [
+            5.759332,
+            43.136129
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand des Hauptstrandes von Bandol, der sich perfekt für einen gemütlichen Spaziergang oder eine kurze Badepause im kristallklaren Meer eignet.",
+            "hu": "Pihenjen Bandol fő strandjának finom homokján, amely tökéletes egy kellemes tengerparti sétához vagy egy gyors úszáshoz a kristálytiszta, hűsítő tengervízben.",
+            "ro": "Relaxați-vă pe nisipul fin al plajei principale din Bandol, perfectă pentru o scurtă plimbare pe litoral sau o baie răcoritoare în apele cristaline ale mării.",
+            "en": "Relax on the fine sand of Bandol's main beach, which is perfectly suited for a leisurely seaside stroll or a quick refreshing dip in the crystal-clear ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Renécros",
+            "hu": "Renécros strand",
+            "ro": "Plaja Renécros",
+            "en": "Renécros Beach"
+          },
+          "coords": [
+            5.750824,
+            43.134225
+          ],
+          "category": "natural",
+          "arrive_at": "12:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser geschützten, windstillen Bucht ausklingen, deren feiner Sand und seichtes Wasser besonders bei Familien für erholsame Stunden beliebt sind.",
+            "hu": "Zárja a napot ebben a szélvédett, nyugodt öbölben, amelynek finom homokja és sekély vize különösen népszerű a családok körében egy pihentető délutáni fürdőzésre.",
+            "ro": "Încheiați-vă ziua în acest golf adăpostit și ferit de vânt, al cărui nisip fin și ape puțin adânci sunt ideale pentru o după-amiază relaxantă și pașnică.",
+            "en": "Wind down your day at this sheltered, wind-free bay, where the fine sand and shallow waters make it a highly popular and relaxing spot for an afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im charmanten Zentrum von Bandol mit einem Besuch der historischen Kirche, die morgens herrliche Ruhe ausstrahlt. Anschließend schlendern Sie am belebten Jachthafen entlang. Zur Mittagszeit locken die Promenade am Casino und der weitläufige Hauptstrand mit feinem Sand. Am frühen Nachmittag finden Sie schließlich Erholung an der windgeschützten Bucht von Renécros, wo Sie entspannen können.",
+        "hu": "A napot Bandol bájos központjában kezdi a történelmi templom megtekintésével, amely reggel még csodálatos nyugalmat áraszt. Ezt követően sétáljon végig a nyüzsgő jachtkikötőn. Délben a kaszinó melletti sétány és a tágas, finom homokos központi strand hívogat. Kora délután végül a szélvédett Renécros-öbölben talál tökéletes kikapcsolódást és pihenést a tengerparton.",
+        "ro": "Ziua dumneavoastră începe în centrul fermecător al orașului Bandol cu o vizită la biserica istorică, care emană o liniște minunată dimineața. Apoi veți face o plimbare de-a lungul portului animat de iahturi. La prânz, promenada de lângă cazinou și plaja principală cu nisip fin vă vor atrage atenția. La începutul după-amiezii, veți găsi în sfârșit relaxare la golful adăpostit de vânt Renécros.",
+        "en": "Your day begins in the charming center of Bandol with a visit to the historic church, which radiates a wonderful tranquility in the morning. Afterwards, you will stroll along the bustling yacht marina. At midday, the promenade by the casino and the expansive fine-sand central beach beckon. In the early afternoon, you will finally find pure relaxation at the sheltered bay of Renécros."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 6.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-François-de-Sales",
+            "hu": "Szalézi Szent Ferenc-templom",
+            "ro": "Biserica Saint-François-de-Sales",
+            "en": "Church of Saint-François-de-Sales"
+          },
+          "coords": [
+            5.75439,
+            43.136569
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die morgendliche Stille, um die Details dieser hübschen Kirche im Ortskern zu betrachten, bevor der Trubel auf den umliegenden Straßen langsam erwacht.",
+            "hu": "Használja ki a reggeli csendet, hogy megfigyelje a városközpontban található csinos templom apró részleteit, mielőtt a környező utcák nyüzsgése lassan feléledne.",
+            "ro": "Profitați de liniștea dimineții pentru a privi detaliile acestei biserici frumoase din centrul orașului, înainte ca agitația de pe străzile din jur să prindă viață.",
+            "en": "Take advantage of the morning stillness to observe the lovely details of this town-center church before the hustle and bustle of the surrounding streets slowly awakens."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bandol",
+            "hu": "Bandol kikötő",
+            "ro": "Portul din Bandol",
+            "en": "Port of Bandol"
+          },
+          "coords": [
+            5.752731,
+            43.136883
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich am belebten Yachthafen vorbei, wo unzählige Boote auf den Wellen schaukeln, und machen Sie Halt für ein Foto der glitzernden Wasseroberfläche.",
+            "hu": "Kerekezzen kényelmesen a forgalmas jachtkikötő mellett, ahol számtalan hajó ringatózik a hullámokon, és álljon meg egy fotóra a csillogó vízfelszínről.",
+            "ro": "Pedalați pe îndelete pe lângă portul aglomerat de iahturi, unde nenumărate bărci se leagănă pe valuri și opriți-vă pentru a face o fotografie a apei sclipitoare.",
+            "en": "Cycle leisurely past the bustling marina where countless boats bob on the gentle waves, and make sure to stop for a quick photo of the sparkling water's surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Capélan",
+            "hu": "Capélan strand",
+            "ro": "Plaja Capélan",
+            "en": "Capélan Beach"
+          },
+          "coords": [
+            5.738222,
+            43.135557
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen felsigen Küstenabschnitt, der hervorragende Bedingungen zum Schnorcheln bietet, also vergessen Sie nicht, Ihre Taucherbrille mitzubringen.",
+            "hu": "Fedezze fel ezt a sziklás partszakaszt, amely kiváló feltételeket biztosít a sznorkelezéshez, így mindenképpen ne felejtse el magával hozni a búvárszemüvegét.",
+            "ro": "Descoperiți această porțiune de coastă stâncoasă, care oferă condiții excelente pentru snorkeling, așa că nu uitați să vă aduceți ochelarii de scufundare.",
+            "en": "Discover this rocky stretch of the beautiful coastline, which offers excellent conditions for snorkeling, so be sure not to forget to bring your diving goggles along."
+          }
+        },
+        {
+          "name": {
+            "de": "La plage des Engraviers",
+            "hu": "Engraviers strand",
+            "ro": "Plaja Engraviers",
+            "en": "Engraviers Beach"
+          },
+          "coords": [
+            5.726072,
+            43.136913
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen etwas abgeschiedeneren Kieselstrand, der abseits der großen Massen pure Naturerlebnisse und ideale Orte für ein ruhiges Picknick bietet.",
+            "hu": "Fedezze fel ezt a kissé eldugottabb kavicsos strandot, amely a nagy tömegektől távol tiszta természeti élményeket és ideális helyszínt kínál egy csendes piknikhez.",
+            "ro": "Explorați această plajă cu pietriș puțin mai izolată, care, departe de marile mulțimi, oferă experiențe naturale pure și locuri ideale pentru un picnic liniștit.",
+            "en": "Explore this slightly more secluded pebble beach, which, away from the large crowds, offers pure nature experiences and perfectly ideal spots for a quiet picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage dorée",
+            "hu": "Arany strand",
+            "ro": "Plaja de Aur",
+            "en": "Golden Beach"
+          },
+          "coords": [
+            5.780226,
+            43.132619
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Radtour an diesem herrlichen Sandstrand ausklingen, dessen goldene Farben am Nachmittag besonders gut zur Geltung kommen und zum Schwimmen einladen.",
+            "hu": "Zárja kerékpártúráját ezen a csodálatos homokos strandon, amelynek arany színei különösen jól mutatnak a délutáni napfényben, és egy frissítő úszásra csábítanak.",
+            "ro": "Încheiați-vă turul cu bicicleta pe această plajă magnifică cu nisip, ale cărei culori aurii ies în evidență mai ales după-amiaza, invitându-vă la o baie revigorantă.",
+            "en": "End your cycling tour at this magnificent sandy beach, whose golden colors are particularly striking in the mid-afternoon light, inviting you for a refreshing swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour mit etwas Kultur im Herzen von Bandol an der alten Kirche, gefolgt von einer entspannten Fahrt entlang der glitzernden Boote am Hafen. Die Tour führt Sie dann in Richtung Westen, wo die felsigere Küste bei Capélan zu einer kleinen Schnorchelpause einlädt. Zur Mittagszeit erkunden Sie die ruhigeren Kieselstrände der Umgebung. Der Ausflug endet an der sonnigen Plage dorée, die perfekt für einen Badestopp ist.",
+        "hu": "Kezdje kerékpártúráját egy kis kultúrával Bandol szívében a régi templomnál, amelyet egy pihentető utazás követ a csillogó hajók mentén a kikötőben. A túra ezután nyugat felé vezet, ahol a Capélan sziklásabb partja egy rövid sznorkelezésre hívogat. Délben felfedezheti a környék csendesebb kavicsos strandjait. A kirándulás a napos Plage dorée-n ér véget, amely tökéletes egy kellemes délutáni úszáshoz.",
+        "ro": "Începeți-vă turul cu bicicleta cu un pic de cultură în inima orașului Bandol, la vechea biserică, urmată de o plimbare relaxantă de-a lungul bărcilor sclipitoare din port. Turul vă duce apoi spre vest, unde coasta mai stâncoasă de la Capélan vă invită la o scurtă pauză de snorkeling. La prânz, veți explora plajele cu pietriș mai liniștite din zonă. Excursia se termină la însorita Plage dorée, perfectă pentru o oprire la înot.",
+        "en": "Start your cycling tour with some culture in the heart of Bandol at the old church, followed by a relaxed ride past the glittering boats in the harbor. The tour then leads you westwards, where the rocky coastline at Capélan invites you for a short snorkeling break. At midday, you'll explore the quieter pebble beaches of the surrounding area. The trip concludes at the sunny Plage dorée, which is absolutely perfect for a swim."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 14.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Bandol",
+            "hu": "Bandol kikötő",
+            "ro": "Portul din Bandol",
+            "en": "Port of Bandol"
+          },
+          "coords": [
+            5.752731,
+            43.136883
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang am Hafenbecken, wo das sanfte Schaukeln der weißen Yachten eine wunderbar beruhigende Atmosphäre schafft.",
+            "hu": "Kezdje a napot egy kellemes sétával a kikötő medencéje körül, ahol a fehér jachtok lágy ringatózása csodálatosan megnyugtató tengerparti hangulatot teremt.",
+            "ro": "Începeți-vă ziua cu o plimbare pe îndelete prin bazinul portului, unde balansarea blândă a iahturilor albe creează o atmosferă de coastă minunat de liniștitoare.",
+            "en": "Begin your day with a leisurely morning stroll around the bustling harbor basin, where the gentle rocking of the white yachts creates a wonderfully soothing atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Capélan",
+            "hu": "Capélan strand",
+            "ro": "Plaja Capélan",
+            "en": "Capélan Beach"
+          },
+          "coords": [
+            5.738222,
+            43.135557
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den einfachen Parkzugang in der Nähe dieses felsigen Strandes, der sich ideal für schnelle Fotostopps und kurze Tauchgänge am Vormittag anbietet.",
+            "hu": "Használja ki e sziklás strand közelében lévő könnyű parkolási lehetőséget, amely ideális gyors fotómegállókhoz és egy rövid délelőtti tengeri merüléshez.",
+            "ro": "Profitați de accesul ușor la parcare în apropierea acestei plaje stâncoase, ideală pentru opriri foto rapide și scufundări scurte în apele cristaline de dimineață.",
+            "en": "Take advantage of the easy parking access near this rocky beach, which is remarkably ideal for quick scenic photo stops and brief, refreshing mid-morning dives."
+          }
+        },
+        {
+          "name": {
+            "de": "Sentier du Littoral",
+            "hu": "Tengerparti ösvény",
+            "ro": "Calea de coastă",
+            "en": "Coastal Trail"
+          },
+          "coords": [
+            5.715779,
+            43.148713
+          ],
+          "category": "natural",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie ein kleines Stück auf diesem atemberaubenden Küstenpfad und genießen Sie den Panoramablick auf das weite Meer – festes Schuhwerk ist sehr empfehlenswert.",
+            "hu": "Túrázzon egy keveset ezen a lélegzetelállító tengerparti ösvényen, és élvezze a nyílt tengerre nyíló panorámát – erős sétacipő viselete nagyon erősen ajánlott.",
+            "ro": "Faceți o mică drumeție pe această potecă de coastă uluitoare și bucurați-vă de vederea panoramică a mării deschise – încălțămintea robustă este foarte recomandată.",
+            "en": "Hike a small section of this breathtaking coastal trail and enjoy the sweeping panoramic views of the open sea – sturdy walking shoes are highly recommended here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Port d'Alon",
+            "hu": "Port d'Alon strand",
+            "ro": "Plaja Port d'Alon",
+            "en": "Port d'Alon Beach"
+          },
+          "coords": [
+            5.709722,
+            43.14738
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erholen Sie sich in dieser von duftenden Pinien umgebenen Bucht, die ein wunderbarer Ort für ein Picknick in freier Natur fernab des dichten Autoverkehrs ist.",
+            "hu": "Pihenjen ebben az illatos fenyőfákkal körülvett öbölben, amely egy csodálatos helyszín a szabadtéri piknikezéshez, távol a sűrű forgalom zajától és porától.",
+            "ro": "Relaxați-vă în acest golf înconjurat de pini parfumați, care este un loc minunat pentru un picnic în aer liber, departe de zgomotul și agitația traficului intens.",
+            "en": "Recover in this beautiful bay surrounded by fragrant pine trees, making it a wonderful and highly tranquil spot for an outdoor picnic far away from dense traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Madrague",
+            "hu": "Madrague strand",
+            "ro": "Plaja Madrague",
+            "en": "Madrague Beach"
+          },
+          "coords": [
+            5.694884,
+            43.167893
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen Zwischenstopp an diesem charmanten, kleinen Strandabschnitt, dessen entspannte Atmosphäre ideal für einen letzten Sprung ins kühle Meerwasser ist.",
+            "hu": "Tegyen egy megállót ezen a bájos, kis partszakaszon, amelynek nyugodt és laza hangulata teljesen ideális egy utolsó csobbanásra a hűsítő tengeri hullámok között.",
+            "ro": "Faceți o escală pe această porțiune mică și fermecătoare de plajă, a cărei atmosferă relaxată este ideală pentru un ultim salt răcoritor în apele reci ale mării.",
+            "en": "Make a quick stopover at this charming, small stretch of beach, whose incredibly relaxed atmosphere makes it absolutely ideal for one last jump into the cool sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Vins",
+            "hu": "A Borok Háza",
+            "ro": "Casa Vinurilor",
+            "en": "House of Wines"
+          },
+          "coords": [
+            5.780578,
+            43.201533
+          ],
+          "category": "culinary",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie landeinwärts, um den Tag in diesem exzellenten Weinzentrum abzuschließen, wo Sie die berühmten, köstlichen Roséweine der Region Bandol verkosten können.",
+            "hu": "Utazzon beljebb a szárazföld felé, hogy a napot ebben a kiváló borközpontban zárja, ahol megkóstolhatja Bandol régiójának híres és igen ízletes rozé borait.",
+            "ro": "Conduceți spre interior pentru a încheia ziua în acest excelent centru al vinului, unde puteți degusta faimoasele și delicioasele vinuri rosé din regiunea Bandol.",
+            "en": "Drive inland to beautifully conclude your long day at this excellent wine center, where you can extensively taste the famously delicious rosé wines of the Bandol region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie die gesamte Vielfalt der Küste um Bandol. Der Vormittag beginnt klassisch maritim am eleganten Haupthafen und führt Sie dann zügig zu den faszinierenden felsigen Buchten bei Capélan. Gegen Mittag erwandern Sie herrliche Aussichtspunkte am Sentier du Littoral und entspannen in kleinen, versteckten Kiefern-Buchten. Den perfekten Abschluss bildet schließlich ein Abstecher ins Hinterland zur Weinverkostung.",
+        "hu": "Autóval feltérképezheti a Bandol körüli partszakasz teljes sokszínűségét. A délelőtt klasszikusan tengeri hangulatban indul az elegáns fő kikötőnél, majd a Capélan sziklás öbleihez vezet. Dél körül csodálatos kilátópontokat barangolhat be a Sentier du Littoral mentén, és kis, eldugott fenyőfás öblökben pihenhet. A nap tökéletes befejezéseként egy kis kitérőt tehet a szárazföld belsejébe egy helyi borkóstolóra.",
+        "ro": "Cu mașina, veți descoperi întreaga diversitate a coastei din jurul orașului Bandol. Dimineața începe într-un stil maritim clasic la portul principal elegant și apoi vă duce rapid la golfurile stâncoase fascinante de lângă Capélan. În jurul prânzului, veți face o drumeție către punctele de belvedere de pe Sentier du Littoral și vă veți relaxa în golfuri ascunse. Finalul perfect este o excursie în interior pentru degustare de vinuri.",
+        "en": "By car, you can access the entire diversity of the beautiful coastline around Bandol. The morning starts in a classic maritime style at the elegant main harbor and then takes you quickly to the rocky bays near Capélan. Around midday, you will hike to magnificent viewpoints on the Sentier du Littoral and relax in hidden pine coves. The perfect conclusion is a scenic inland detour for a lovely local wine tasting."
+      }
+    }
+  }
+}

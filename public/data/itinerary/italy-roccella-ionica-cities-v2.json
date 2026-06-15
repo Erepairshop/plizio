@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-roccella-ionica-cities-v2",
+  "anchor": {
+    "name": "Roccella Ionica",
+    "coords": [
+      16.40091,
+      38.32198
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Beach club",
+            "hu": "Lido Beach club",
+            "ro": "Lido Beach club",
+            "en": "Lido Beach club"
+          },
+          "coords": [
+            16.398149,
+            38.318318
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne im Lido Beach club, einem einladenden Küstenort voller Entspannung, aber kommen Sie früh, um sich eine Liege am glitzernden Wasser zu sichern.",
+            "hu": "Élvezze a napsütést a Lido Beach club tengerpartján, ahol a pihenésé a főszerep, de érkezzen korán, hogy biztosítson magának egy nyugágyat a csillogó víz közelében.",
+            "ro": "Bucurați-vă de soare la Lido Beach club, un loc de coastă primitor pentru relaxare, dar ajungeți devreme pentru a obține un șezlong chiar lângă apele strălucitoare.",
+            "en": "Enjoy the sun at Lido Beach club, an inviting coastline spot where relaxation is key, but arrive early to secure a prime sunbed right near the sparkling waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue beach",
+            "hu": "Blue beach",
+            "ro": "Blue beach",
+            "en": "Blue beach"
+          },
+          "coords": [
+            16.400792,
+            38.319192
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Der Blue beach bietet herrlich klares Wasser für ein erfrischendes Bad, also bringen Sie Ihre Schnorchelausrüstung mit, bevor die Mittagshitze ihren Höhepunkt erreicht.",
+            "hu": "A Blue beach gyönyörű, tiszta vizet kínál egy frissítő úszáshoz, ezért hozza magával a búvárfelszerelését, hogy felfedezze a lágy hullámokat a déli hőség előtt.",
+            "ro": "Blue beach oferă ape frumos de clare, perfecte pentru o înotare răcoritoare, așa că aduceți-vă echipamentul de snorkeling pentru a explora valurile blânde înainte de amiază.",
+            "en": "Blue beach offers beautifully clear waters perfect for a refreshing swim, so bring your snorkeling gear to explore the gentle waves before the midday heat peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne",
+            "hu": "Colonne",
+            "ro": "Colonne",
+            "en": "Colonne"
+          },
+          "coords": [
+            16.405048,
+            38.321254
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Colonne, die als stille Zeugen der reichen klassischen Geschichte der Region stehen, und fotografieren Sie die Details im hellen Tageslicht.",
+            "hu": "Csodálja meg az ősi Colonne oszlopait, amelyek a régió gazdag klasszikus történelmének néma tanúi, és szánjon egy percet arra, hogy megörökítse részleteiket a világos nappali fényben.",
+            "ro": "Admirați anticele Colonne, martori tăcuți ai bogatei istorii clasice a regiunii, făcându-vă timp pentru a fotografia detaliile lor arhitecturale în lumina naturală a zilei.",
+            "en": "Admire the ancient Colonne that stand as silent witnesses to the region's rich classical history, taking a moment to photograph their details in the bright natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cittadella Medioevale",
+            "hu": "Cittadella Medioevale",
+            "ro": "Cittadella Medioevale",
+            "en": "Cittadella Medioevale"
+          },
+          "coords": [
+            16.40703,
+            38.325649
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Cittadella Medioevale, eine historische Festung mit weitem Blick auf die Landschaft, und tragen Sie feste Schuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Fedezze fel az impozáns Cittadella Medioevale-t, egy történelmi erődöt, ahonnan lenyűgöző kilátás nyílik a tájra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați impunătoarea Cittadella Medioevale, o fortăreață istorică cu vederi ample asupra peisajului, și purtați pantofi rezistenți pentru a naviga pe căile sale pietruite inegale.",
+            "en": "Explore the imposing Cittadella Medioevale, a historic fortress commanding sweeping views of the landscape, and wear sturdy shoes for navigating its uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro al Castello",
+            "hu": "Teatro al Castello",
+            "ro": "Teatro al Castello",
+            "en": "Teatro al Castello"
+          },
+          "coords": [
+            16.40931,
+            38.326533
+          ],
+          "category": "cultural",
+          "arrive_at": "14:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Teatro al Castello, einem kulturellen Veranstaltungsort in der Nähe der Burg, wo Sie den lokalen Spielplan überprüfen oder einfach den Sonnenuntergang genießen können.",
+            "hu": "Zárja a napot a Teatro al Castello lenyűgöző kulturális helyszínén, ahol érdemes megnézni a helyi műsortárat esti előadások után kutatva, vagy egyszerűen csak élvezni a naplementét.",
+            "ro": "Încheiați ziua la Teatro al Castello, o locație culturală uimitoare, unde ar trebui să verificați programul local pentru spectacole de seară sau pur și simplu să vă bucurați de apus.",
+            "en": "End your day at the Teatro al Castello, a stunning cultural venue nestled near the castle, where you should check the local schedule for evening performances or simply enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang entlang der Küste und genießen Sie die ruhigen Gewässer am Blue beach. Mittags verlagert sich der Fokus, während Sie landeinwärts zu den historischen Colonne wandern, um die klassischen Wurzeln zu entdecken. Der Nachmittag ist der Erkundung der imposanten Cittadella Medioevale mit ihrer faszinierenden Architektur gewidmet. Schließen Sie Ihren Abend im eleganten Teatro al Castello ab und genießen Sie den Panoramablick im Zwielicht.",
+        "hu": "Kezdje a reggelt egy pihentető sétával a part mentén, élvezve a kora reggeli napsugarakat a Lido Beach clubban és a Blue beach nyugodt vizét. A dél egy kulturális váltást hoz, ahogy a történelmi Colonne felé sétál, felfedezve a város klasszikus gyökereit. A délutánt a lenyűgöző középkori építészettel rendelkező, impozáns Cittadella Medioevale felfedezésének szenteljük. Végül zárja az estét az elegáns Teatro al Castello-ban, élvezve az alkonyati panorámát.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă de-a lungul coastei, bucurându-vă de razele soarelui la Lido Beach club și de apele liniștite de la Blue beach. Amiaza vă invită la o schimbare culturală, îndreptându-vă spre Colonne pentru a descoperi istoria clasică. După-amiaza este dedicată explorării impunătoarei Cittadella Medioevale, cu arhitectura sa medievală fascinantă. La final, încheiați seara la elegantul Teatro al Castello, savurând priveliștile panoramice la amurg.",
+        "en": "Start your morning with a relaxing stroll along the coast, soaking up the early rays at Lido Beach club and enjoying the calm, clear waters of Blue beach. Midday invites a cultural shift as you walk inland towards the historic Colonne, uncovering the classical roots of Roccella Ionica. The afternoon is dedicated to exploring the imposing Cittadella Medioevale, with its fascinating medieval architecture. Finally, conclude your evening at the elegant Teatro al Castello, enjoying the panoramic twilight views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 1.73,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ultimo Lido",
+            "hu": "Ultimo Lido",
+            "ro": "Ultimo Lido",
+            "en": "Ultimo Lido"
+          },
+          "coords": [
+            16.394827,
+            38.317428
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Ultimo Lido, einem ruhigen Strandabschnitt für einen friedlichen Start in den Tag, und holen Sie sich in der Nähe einen Espresso für den Spaziergang.",
+            "hu": "Kezdje a reggelt az Ultimo Lido nevű, nyugodt partszakaszon, ahol békésen indulhat a nap, ezért vegyen egy reggeli eszpresszót a közelben, és kortyolgassa a homokos parton sétálva.",
+            "ro": "Începeți dimineața la Ultimo Lido, o întindere senină de plajă, și luați un espresso de dimineață din apropiere pe care să-l savurați în timp ce vă plimbați de-a lungul țărmului.",
+            "en": "Kick off your morning at Ultimo Lido, a serene beach stretch offering a peaceful start to the day, so grab a morning espresso nearby to sip while walking along the sandy shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido il Gabbiano",
+            "hu": "Lido il Gabbiano",
+            "ro": "Lido il Gabbiano",
+            "en": "Lido il Gabbiano"
+          },
+          "coords": [
+            16.399222,
+            38.318679
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Lido il Gabbiano, um die lebhafte Küstenatmosphäre zu genießen, und mieten Sie frühzeitig einen Sonnenschirm, da sich dieser Ort an sonnigen Tagen schnell füllt.",
+            "hu": "Látogasson el a Lido il Gabbiano tengerpartjára, hogy élvezze a pezsgő hangulatot, és béreljen korán napernyőt, mivel ez a népszerű hely napsütéses napokon gyorsan megtelik.",
+            "ro": "Opriți-vă la Lido il Gabbiano pentru a vă bucura de atmosfera de coastă și asigurați-vă că închiriați o umbrelă devreme, deoarece acest loc popular se aglomerează rapid.",
+            "en": "Stop by Lido il Gabbiano to soak in the lively coastal atmosphere and pristine sands, making sure to rent an umbrella early as this popular spot fills up quickly on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "La Calura",
+            "hu": "La Calura",
+            "ro": "La Calura",
+            "en": "La Calura"
+          },
+          "coords": [
+            16.404409,
+            38.320325
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im La Calura, einem wunderschönen Ort am Meer mit lebendiger Energie, wo ein gutes Buch und ein kaltes Getränk eine perfekte Mittagspause garantieren.",
+            "hu": "Pihenjen a La Calura gyönyörű tengerpartján, amely élénk energiájáról ismert, ahol egy jó könyv és egy hideg ital tökéletes déli kikapcsolódást biztosít a tengerparton.",
+            "ro": "Relaxați-vă la La Calura, un loc frumos pe malul mării, unde aducerea unei cărți bune și a unei băuturi reci va asigura o pauză perfectă la prânz, cu briza mării.",
+            "en": "Relax at La Calura, a beautiful seaside spot known for its vibrant energy and clear waters, where bringing a good book and a cold drink will ensure a perfect midday coastal break."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne",
+            "hu": "Colonne",
+            "ro": "Colonne",
+            "en": "Colonne"
+          },
+          "coords": [
+            16.405048,
+            38.321254
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Colonne, die als stille Zeugen der reichen klassischen Geschichte der Region stehen, und fotografieren Sie die Details im hellen Tageslicht.",
+            "hu": "Csodálja meg az ősi Colonne oszlopait, amelyek a régió gazdag klasszikus történelmének néma tanúi, és szánjon egy percet arra, hogy megörökítse részleteiket a világos nappali fényben.",
+            "ro": "Admirați anticele Colonne, martori tăcuți ai bogatei istorii clasice a regiunii, făcându-vă timp pentru a fotografia detaliile lor arhitecturale în lumina naturală a zilei.",
+            "en": "Admire the ancient Colonne that stand as silent witnesses to the region's rich classical history, taking a moment to photograph their details in the bright natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cittadella Medioevale",
+            "hu": "Cittadella Medioevale",
+            "ro": "Cittadella Medioevale",
+            "en": "Cittadella Medioevale"
+          },
+          "coords": [
+            16.40703,
+            38.325649
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Cittadella Medioevale, eine historische Festung mit weitem Blick auf die Landschaft, und tragen Sie feste Schuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Fedezze fel az impozáns Cittadella Medioevale-t, egy történelmi erődöt, ahonnan lenyűgöző kilátás nyílik a tájra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați impunătoarea Cittadella Medioevale, o fortăreață istorică cu vederi ample asupra peisajului, și purtați pantofi rezistenți pentru a naviga pe căile sale pietruite inegale.",
+            "en": "Explore the imposing Cittadella Medioevale, a historic fortress commanding sweeping views of the landscape, and wear sturdy shoes for navigating its uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro al Castello",
+            "hu": "Teatro al Castello",
+            "ro": "Teatro al Castello",
+            "en": "Teatro al Castello"
+          },
+          "coords": [
+            16.40931,
+            38.326533
+          ],
+          "category": "cultural",
+          "arrive_at": "15:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Teatro al Castello, einem kulturellen Veranstaltungsort in der Nähe der Burg, wo Sie den lokalen Spielplan überprüfen oder einfach den Sonnenuntergang genießen können.",
+            "hu": "Zárja a napot a Teatro al Castello lenyűgöző kulturális helyszínén, ahol érdemes megnézni a helyi műsortárat esti előadások után kutatva, vagy egyszerűen csak élvezni a naplementét.",
+            "ro": "Încheiați ziua la Teatro al Castello, o locație culturală uimitoare, unde ar trebui să verificați programul local pentru spectacole de seară sau pur și simplu să vă bucurați de apus.",
+            "en": "End your day at the Teatro al Castello, a stunning cultural venue nestled near the castle, where you should check the local schedule for evening performances or simply enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Ultimo Lido und radeln Sie gemütlich entlang der lebhaften Küste, bevor Sie am Lido il Gabbiano die frische Meeresbrise genießen. Mittags führt Ihr Weg nach La Calura und weiter ins historische Zentrum zu den antiken Colonne. Verbringen Sie Ihren Nachmittag damit, durch die majestätische Cittadella Medioevale zu streifen. Beenden Sie die Fahrt am Teatro al Castello, während Sie die leuchtenden Farben des Sonnenuntergangs über dem malerischen Küstenhorizont beobachten.",
+        "hu": "Kezdje a kerékpártúrát az Ultimo Lido-nál, majd tekerjen végig a nyüzsgő tengerparton, megállva a Lido il Gabbiano-nál a frissítő tengeri szellőért. Délben a La Calura érintésével haladjon a történelmi városközpont felé, egyenesen az ősi Colonne-hoz. Töltse a délutánt a fenséges Cittadella Medioevale felfedezésével, magába szívva annak évszázados varázsát. Fejezze be az utat a Teatro al Castello-nál, megcsodálva a festői tengerparti horizont felett lenyugvó nap élénk színeit.",
+        "ro": "Începeți turul cu bicicleta la Ultimo Lido și pedalați de-a lungul coastei vibrante, oprindu-vă la Lido il Gabbiano pentru briza răcoroasă. La amiază, o oprire la La Calura vă îndreaptă spre centrul istoric, ajungând la anticele Colonne. Petreceți după-amiaza explorând maiestuoasa Cittadella Medioevale, admirând farmecul ei vechi de secole. Încheiați plimbarea la Teatro al Castello, urmărind culorile vibrante ale apusului de soare peste orizontul pitoresc al coastei.",
+        "en": "Begin your cycling tour at Ultimo Lido and gently pedal along the vibrant coastline, stopping at Lido il Gabbiano to appreciate the refreshing sea breeze. By midday, a stop at La Calura transitions your journey toward the historical town center, leading you right to the ancient Colonne. Spend your afternoon wandering through the majestic Cittadella Medioevale, taking in its centuries-old charm. Conclude the ride at the Teatro al Castello, watching the vibrant sunset colors over the scenic coastal horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 1.87,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ultimo Lido",
+            "hu": "Ultimo Lido",
+            "ro": "Ultimo Lido",
+            "en": "Ultimo Lido"
+          },
+          "coords": [
+            16.394827,
+            38.317428
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen am Ultimo Lido, einem ruhigen Strandabschnitt für einen friedlichen Start in den Tag, und holen Sie sich in der Nähe einen Espresso für den Spaziergang.",
+            "hu": "Kezdje a reggelt az Ultimo Lido nevű, nyugodt partszakaszon, ahol békésen indulhat a nap, ezért vegyen egy reggeli eszpresszót a közelben, és kortyolgassa a homokos parton sétálva.",
+            "ro": "Începeți dimineața la Ultimo Lido, o întindere senină de plajă, și luați un espresso de dimineață din apropiere pe care să-l savurați în timp ce vă plimbați de-a lungul țărmului.",
+            "en": "Kick off your morning at Ultimo Lido, a serene beach stretch offering a peaceful start to the day, so grab a morning espresso nearby to sip while walking along the sandy shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Beach club",
+            "hu": "Lido Beach club",
+            "ro": "Lido Beach club",
+            "en": "Lido Beach club"
+          },
+          "coords": [
+            16.398149,
+            38.318318
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne im Lido Beach club, einem einladenden Küstenort voller Entspannung, aber kommen Sie früh, um sich eine Liege am glitzernden Wasser zu sichern.",
+            "hu": "Élvezze a napsütést a Lido Beach club tengerpartján, ahol a pihenésé a főszerep, de érkezzen korán, hogy biztosítson magának egy nyugágyat a csillogó víz közelében.",
+            "ro": "Bucurați-vă de soare la Lido Beach club, un loc de coastă primitor pentru relaxare, dar ajungeți devreme pentru a obține un șezlong chiar lângă apele strălucitoare.",
+            "en": "Enjoy the sun at Lido Beach club, an inviting coastline spot where relaxation is key, but arrive early to secure a prime sunbed right near the sparkling waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue beach",
+            "hu": "Blue beach",
+            "ro": "Blue beach",
+            "en": "Blue beach"
+          },
+          "coords": [
+            16.400792,
+            38.319192
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Der Blue beach bietet herrlich klares Wasser für ein erfrischendes Bad, also bringen Sie Ihre Schnorchelausrüstung mit, bevor die Mittagshitze ihren Höhepunkt erreicht.",
+            "hu": "A Blue beach gyönyörű, tiszta vizet kínál egy frissítő úszáshoz, ezért hozza magával a búvárfelszerelését, hogy felfedezze a lágy hullámokat a déli hőség előtt.",
+            "ro": "Blue beach oferă ape frumos de clare, perfecte pentru o înotare răcoritoare, așa că aduceți-vă echipamentul de snorkeling pentru a explora valurile blânde înainte de amiază.",
+            "en": "Blue beach offers beautifully clear waters perfect for a refreshing swim, so bring your snorkeling gear to explore the gentle waves before the midday heat peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Roccella",
+            "hu": "Lido Roccella",
+            "ro": "Lido Roccella",
+            "en": "Lido Roccella"
+          },
+          "coords": [
+            16.406082,
+            38.320855
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Umgebung des Lido Roccella, einer gepflegten Strandeinrichtung, und packen Sie leichte Snacks ein, wenn Sie stundenlang die Wellen beobachten möchten.",
+            "hu": "Tapasztalja meg a Lido Roccella gondozott strandját, és ne felejtsen el könnyű rágcsálnivalókat csomagolni, ha több órán át szeretne heverészni és a tenger hullámait nézni.",
+            "ro": "Experimentați mediul curat de la Lido Roccella, o facilitate de plajă bine întreținută, și amintiți-vă să împachetați gustări ușoare dacă plănuiți să vă relaxați ore întregi.",
+            "en": "Experience the pristine environment of Lido Roccella, a well-maintained beach facility, and remember to pack light snacks if you plan to lounge around and watch the waves for hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne",
+            "hu": "Colonne",
+            "ro": "Colonne",
+            "en": "Colonne"
+          },
+          "coords": [
+            16.405048,
+            38.321254
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Colonne, die als stille Zeugen der reichen klassischen Geschichte der Region stehen, und fotografieren Sie die Details im hellen Tageslicht.",
+            "hu": "Csodálja meg az ősi Colonne oszlopait, amelyek a régió gazdag klasszikus történelmének néma tanúi, és szánjon egy percet arra, hogy megörökítse részleteiket a világos nappali fényben.",
+            "ro": "Admirați anticele Colonne, martori tăcuți ai bogatei istorii clasice a regiunii, făcându-vă timp pentru a fotografia detaliile lor arhitecturale în lumina naturală a zilei.",
+            "en": "Admire the ancient Colonne that stand as silent witnesses to the region's rich classical history, taking a moment to photograph their details in the bright natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cittadella Medioevale",
+            "hu": "Cittadella Medioevale",
+            "ro": "Cittadella Medioevale",
+            "en": "Cittadella Medioevale"
+          },
+          "coords": [
+            16.40703,
+            38.325649
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Cittadella Medioevale, eine historische Festung mit weitem Blick auf die Landschaft, und tragen Sie feste Schuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Fedezze fel az impozáns Cittadella Medioevale-t, egy történelmi erődöt, ahonnan lenyűgöző kilátás nyílik a tájra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați impunătoarea Cittadella Medioevale, o fortăreață istorică cu vederi ample asupra peisajului, și purtați pantofi rezistenți pentru a naviga pe căile sale pietruite inegale.",
+            "en": "Explore the imposing Cittadella Medioevale, a historic fortress commanding sweeping views of the landscape, and wear sturdy shoes for navigating its uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro al Castello",
+            "hu": "Teatro al Castello",
+            "ro": "Teatro al Castello",
+            "en": "Teatro al Castello"
+          },
+          "coords": [
+            16.40931,
+            38.326533
+          ],
+          "category": "cultural",
+          "arrive_at": "16:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Teatro al Castello, einem kulturellen Veranstaltungsort in der Nähe der Burg, wo Sie den lokalen Spielplan überprüfen oder einfach den Sonnenuntergang genießen können.",
+            "hu": "Zárja a napot a Teatro al Castello lenyűgöző kulturális helyszínén, ahol érdemes megnézni a helyi műsortárat esti előadások után kutatva, vagy egyszerűen csak élvezni a naplementét.",
+            "ro": "Încheiați ziua la Teatro al Castello, o locație culturală uimitoare, unde ar trebui să verificați programul local pentru spectacole de seară sau pur și simplu să vă bucurați de apus.",
+            "en": "End your day at the Teatro al Castello, a stunning cultural venue nestled near the castle, where you should check the local schedule for evening performances or simply enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen bequem an der malerischen Küste entlang, vom ruhigen Ultimo Lido bis zu den lebhaften Stränden Blue beach und Lido Roccella. Mittags parken Sie in der Nähe der historischen Colonne und wechseln nahtlos von der Strandentspannung zur tiefgründigen Geschichte. Ihr Nachmittag verbringen Sie auf dem Gelände der beeindruckenden Cittadella Medioevale. Wenn der Abend naht, parken Sie beim Teatro al Castello für eine unvergessliche mediterrane Abenddämmerung.",
+        "hu": "Autózzon kényelmesen a festői tengerparton ezen a reggelen, a csendes Ultimo Lido-tól a Lido Beach club és a Blue beach nyüzsgő hangulatáig. Délben a Lido Roccella érintésével a történelmi Colonne közelében parkolhat le. A délutánt gazdagon eltöltheti a Cittadella Medioevale erődjének felfedezésével, amely betekintést nyújt a múltba. Ahogy közeledik az este, parkoljon le a Teatro al Castello közelében egy drámai, felejthetetlen mediterrán alkonyatért.",
+        "ro": "Conduceți confortabil de-a lungul coastei pitorești în această dimineață, de la liniștitul Ultimo Lido la atmosfera animată de la Lido Beach club și Blue beach. Amiaza vă aduce la Lido Roccella înainte de a parca lângă Colonne. După-amiaza dumneavoastră este petrecută bogat la Cittadella Medioevale, explorând terenurile fortăreței istorice. Pe măsură ce se apropie seara, parcați lângă Teatro al Castello pentru un amurg mediteranean dramatic și de neuitat.",
+        "en": "Drive comfortably down the picturesque coast this morning, moving from the quiet Ultimo Lido to the lively atmospheres of Lido Beach club and Blue beach. Midday brings you to Lido Roccella before you park near the historic Colonne, seamlessly shifting from beachside relaxation to profound classical history. Your afternoon is richly spent at the Cittadella Medioevale, exploring the fortress grounds. As evening approaches, park near the Teatro al Castello for a dramatic, unforgettable Mediterranean dusk."
+      }
+    }
+  }
+}

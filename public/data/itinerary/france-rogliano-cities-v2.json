@@ -1,0 +1,474 @@
+{
+  "city_id": "france-rogliano-cities-v2",
+  "anchor": {
+    "name": "Rogliano",
+    "coords": [
+      9.41679,
+      42.955
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:38",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello San Colombano",
+            "hu": "Castello San Colombano",
+            "ro": "Castello San Colombano",
+            "en": "Castello San Colombano"
+          },
+          "coords": [
+            9.411259,
+            42.950565
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen des Castello San Colombano mit herrlichem Talblick, aber tragen Sie festes Schuhwerk für den steinigen Weg.",
+            "hu": "Fedezze fel a Castello San Colombano történelmi romjait és völgyre nyíló kilátását, de viseljen masszív cipőt a sziklás, egyenetlen ösvény miatt.",
+            "ro": "Explorați ruinele istorice ale Castello San Colombano pentru priveliști uimitoare ale văii, dar purtați încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Explore the historic ruins of Castello San Colombano for stunning valley views, but wear sturdy shoes as the path up is uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Santa Chiara",
+            "hu": "Église Santa Chiara",
+            "ro": "Église Santa Chiara",
+            "en": "Église Santa Chiara"
+          },
+          "coords": [
+            9.416093,
+            42.949277
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Église Santa Chiara, einem friedlichen Rückzugsort, und besuchen Sie sie am besten morgens für das schönste Licht.",
+            "hu": "Csodálja meg az Église Santa Chiara gyönyörű építészetét, egy békés spirituális menedéket, és próbálja meg reggel látogatni a legjobb fényekért.",
+            "ro": "Admirați arhitectura frumoasă a Église Santa Chiara, un refugiu spiritual pașnic, și încercați să vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the beautiful architecture of Église Santa Chiara, a peaceful spiritual retreat, and try to visit in the morning when the light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Agnellu",
+            "hu": "Église Sant'Agnellu",
+            "ro": "Église Sant'Agnellu",
+            "en": "Église Sant'Agnellu"
+          },
+          "coords": [
+            9.417611,
+            42.954707
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtige Église Sant'Agnellu, um ihr kunstvolles Inneres zu bewundern und die filigranen barocken Details genau zu betrachten.",
+            "hu": "Lépjen be a lenyűgöző Église Sant'Agnellu-ba, hogy megcsodálja díszes belső terét és a bonyolult, csodálatos barokk részleteket.",
+            "ro": "Intrați în magnifica Église Sant'Agnellu pentru a vă minuna de interiorul său ornamentat și de detaliile baroce complicate foarte impresionante.",
+            "en": "Step inside the magnificent Église Sant'Agnellu to marvel at its ornate interior, taking a moment to appreciate the intricate baroque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour génoise della Parocchia",
+            "hu": "Tour génoise della Parocchia",
+            "ro": "Tour génoise della Parocchia",
+            "en": "Tour génoise della Parocchia"
+          },
+          "coords": [
+            9.418883,
+            42.954971
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die imposante Tour génoise della Parocchia, ein Zeugnis der korsischen Verteidigungsgeschichte, am besten vom Kirchplatz aus.",
+            "hu": "Fényképezze le az impozáns Tour génoise della Parocchia-t, a korzikai védelem emlékét, amely a közeli templomtérről látható a legjobban.",
+            "ro": "Fotografiați impunătorul Tour génoise della Parocchia, o mărturie a trecutului defensiv corsican, vizibil cel mai bine din piața bisericii.",
+            "en": "Photograph the imposing Tour génoise della Parocchia, a testament to Corsica's defensive past, best seen from the nearby church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle San Roccu",
+            "hu": "Chapelle San Roccu",
+            "ro": "Chapelle San Roccu",
+            "en": "Chapelle San Roccu"
+          },
+          "coords": [
+            9.416191,
+            42.957696
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in der Chapelle San Roccu, einer bezaubernden Kapelle am Dorfrand, mit weitem Blick auf die üppige Landschaft.",
+            "hu": "Töltsön el egy csendes pillanatot a Chapelle San Roccu-ban, a falu szélén található bájos kis kápolnában, ahonnan pazar kilátás nyílik a tájra.",
+            "ro": "Petreceți un moment liniștit la Chapelle San Roccu, o mică capelă fermecătoare la marginea satului, cu vederi panoramice ale peisajului luxuriant.",
+            "en": "Take a quiet moment at Chapelle San Roccu, a charming small chapel on the village edge, where you can enjoy sweeping views of the lush landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem rauen Charme von Roglianos mittelalterlichen Burgen und ruhigen Heiligtümern. Eine sanfte Brise begleitet Sie an den Steinfassaden.\n\nMittags offenbart das Dorf sein spirituelles Herz durch verzierte barocke Kirchen und historische Glockentürme, die im Tal widerhallen.\n\nNachmittags erkunden Sie Verteidigungstürme und alte Mühlen, die von einer reichen Vergangenheit zeugen.\n\nSuchen Sie sich am Abend einen friedlichen Aussichtspunkt nahe einer Kapelle am Dorfrand, um den goldenen korsischen Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a napot Rogliano középkori kastélyainak és csendes szentélyeinek zord varázsával. Hagyja, hogy a kőhomlokzatok mentén a reggeli szellő vezesse.\n\nDélre a falu felfedi spirituális szívét a díszes barokk templomokon és a völgyben visszhangzó történelmi harangtornyokon keresztül.\n\nDélután fedezze fel a partvédelmi tornyokat és ősi szélmalmokat, amelyek gazdag múltról árulkodnak.\n\nAhogy leszáll az est, keressen egy békés kilátót a falu szélén, és nézze, ahogy a naplemente aranyra festi a korzikai dombokat.",
+        "ro": "Începeți-vă ziua descoperind farmecul rustic al castelelor medievale și sanctuarelor liniștite din Rogliano. Briza dimineții vă va ghida blând.\n\nLa amiază, satul își dezvăluie inima spirituală prin biserici baroce ornate și turnuri istorice care răsună peste vale.\n\nPetreceți după-amiaza explorând turnuri de apărare și mori de vânt antice care sugerează un trecut bogat și harnic.\n\nPe măsură ce se lasă seara, găsiți un loc liniștit lângă o capelă de la marginea satului pentru a privi apusul auriu corsican.",
+        "en": "Begin your day uncovering the rugged charm of Rogliano's medieval castles and quiet sanctuaries. Let the gentle morning breeze guide you past stone facades.\n\nBy midday, the village reveals its spiritual heart through ornate baroque churches and historic bell towers that echo across the valley.\n\nSpend your afternoon exploring coastal defense towers and ancient windmills that hint at a rich, industrious past.\n\nAs evening sets in, find a peaceful overlook near a village edge chapel to watch the sunset paint the Corsican hills in gold."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello San Colombano",
+            "hu": "Castello San Colombano",
+            "ro": "Castello San Colombano",
+            "en": "Castello San Colombano"
+          },
+          "coords": [
+            9.411259,
+            42.950565
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen des Castello San Colombano mit herrlichem Talblick, aber tragen Sie festes Schuhwerk für den steinigen Weg.",
+            "hu": "Fedezze fel a Castello San Colombano történelmi romjait és völgyre nyíló kilátását, de viseljen masszív cipőt a sziklás, egyenetlen ösvény miatt.",
+            "ro": "Explorați ruinele istorice ale Castello San Colombano pentru priveliști uimitoare ale văii, dar purtați încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Explore the historic ruins of Castello San Colombano for stunning valley views, but wear sturdy shoes as the path up is uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Agnellu",
+            "hu": "Église Sant'Agnellu",
+            "ro": "Église Sant'Agnellu",
+            "en": "Église Sant'Agnellu"
+          },
+          "coords": [
+            9.417611,
+            42.954707
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtige Église Sant'Agnellu, um ihr kunstvolles Inneres zu bewundern und die filigranen barocken Details genau zu betrachten.",
+            "hu": "Lépjen be a lenyűgöző Église Sant'Agnellu-ba, hogy megcsodálja díszes belső terét és a bonyolult, csodálatos barokk részleteket.",
+            "ro": "Intrați în magnifica Église Sant'Agnellu pentru a vă minuna de interiorul său ornamentat și de detaliile baroce complicate foarte impresionante.",
+            "en": "Step inside the magnificent Église Sant'Agnellu to marvel at its ornate interior, taking a moment to appreciate the intricate baroque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour génoise della Parocchia",
+            "hu": "Tour génoise della Parocchia",
+            "ro": "Tour génoise della Parocchia",
+            "en": "Tour génoise della Parocchia"
+          },
+          "coords": [
+            9.418883,
+            42.954971
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die imposante Tour génoise della Parocchia, ein Zeugnis der korsischen Verteidigungsgeschichte, am besten vom Kirchplatz aus.",
+            "hu": "Fényképezze le az impozáns Tour génoise della Parocchia-t, a korzikai védelem emlékét, amely a közeli templomtérről látható a legjobban.",
+            "ro": "Fotografiați impunătorul Tour génoise della Parocchia, o mărturie a trecutului defensiv corsican, vizibil cel mai bine din piața bisericii.",
+            "en": "Photograph the imposing Tour génoise della Parocchia, a testament to Corsica's defensive past, best seen from the nearby church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de San Bernardinu",
+            "hu": "Moulin de San Bernardinu",
+            "ro": "Moulin de San Bernardinu",
+            "en": "Moulin de San Bernardinu"
+          },
+          "coords": [
+            9.424591,
+            42.959933
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Moulin de San Bernardinu und ihr lokales Müller-Erbe, wobei die originalen Steinmechanismen noch sichtbar sind.",
+            "hu": "Fedezze fel a hagyományos Moulin de San Bernardinu-t, és ismerje meg a helyi őrlési örökséget az eredeti kőmechanizmusok megtekintésével.",
+            "ro": "Descoperiți tradiționalul Moulin de San Bernardinu pentru a afla despre patrimoniul local de măcinare, observând mecanismele originale din piatră.",
+            "en": "Discover the traditional Moulin de San Bernardinu to learn about local milling heritage, looking out for the original stone mechanisms still visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Santa Catalina",
+            "hu": "Chapelle Santa Catalina",
+            "ro": "Chapelle Santa Catalina",
+            "en": "Chapelle Santa Catalina"
+          },
+          "coords": [
+            9.422538,
+            42.964219
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zur historischen Chapelle Santa Catalina inmitten rauer Natur und bringen Sie Wasser mit, da der Weg oft ungeschützt in der Sonne liegt.",
+            "hu": "Sétáljon fel a zord természettel körülvett, történelmi Chapelle Santa Catalina-hoz, és vigyen magával vizet, mivel az ösvény nagyon napos lehet.",
+            "ro": "Urcați la istorica Chapelle Santa Catalina, înconjurată de natură accidentată, și aduceți apă deoarece traseul este destul de expus la soare.",
+            "en": "Walk up to the historic Chapelle Santa Catalina, surrounded by rugged nature, and bring some water as the trail can be quite exposed to the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle San Roccu",
+            "hu": "Chapelle San Roccu",
+            "ro": "Chapelle San Roccu",
+            "en": "Chapelle San Roccu"
+          },
+          "coords": [
+            9.416191,
+            42.957696
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in der Chapelle San Roccu, einer bezaubernden Kapelle am Dorfrand, mit weitem Blick auf die üppige Landschaft.",
+            "hu": "Töltsön el egy csendes pillanatot a Chapelle San Roccu-ban, a falu szélén található bájos kis kápolnában, ahonnan pazar kilátás nyílik a tájra.",
+            "ro": "Petreceți un moment liniștit la Chapelle San Roccu, o mică capelă fermecătoare la marginea satului, cu vederi panoramice ale peisajului luxuriant.",
+            "en": "Take a quiet moment at Chapelle San Roccu, a charming small chapel on the village edge, where you can enjoy sweeping views of the lush landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem rauen Charme von Roglianos mittelalterlichen Burgen und ruhigen Heiligtümern. Eine sanfte Brise begleitet Sie an den Steinfassaden.\n\nMittags offenbart das Dorf sein spirituelles Herz durch verzierte barocke Kirchen und historische Glockentürme, die im Tal widerhallen.\n\nNachmittags erkunden Sie Verteidigungstürme und alte Mühlen, die von einer reichen Vergangenheit zeugen.\n\nSuchen Sie sich am Abend einen friedlichen Aussichtspunkt nahe einer Kapelle am Dorfrand, um den goldenen korsischen Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a napot Rogliano középkori kastélyainak és csendes szentélyeinek zord varázsával. Hagyja, hogy a kőhomlokzatok mentén a reggeli szellő vezesse.\n\nDélre a falu felfedi spirituális szívét a díszes barokk templomokon és a völgyben visszhangzó történelmi harangtornyokon keresztül.\n\nDélután fedezze fel a partvédelmi tornyokat és ősi szélmalmokat, amelyek gazdag múltról árulkodnak.\n\nAhogy leszáll az est, keressen egy békés kilátót a falu szélén, és nézze, ahogy a naplemente aranyra festi a korzikai dombokat.",
+        "ro": "Începeți-vă ziua descoperind farmecul rustic al castelelor medievale și sanctuarelor liniștite din Rogliano. Briza dimineții vă va ghida blând.\n\nLa amiază, satul își dezvăluie inima spirituală prin biserici baroce ornate și turnuri istorice care răsună peste vale.\n\nPetreceți după-amiaza explorând turnuri de apărare și mori de vânt antice care sugerează un trecut bogat și harnic.\n\nPe măsură ce se lasă seara, găsiți un loc liniștit lângă o capelă de la marginea satului pentru a privi apusul auriu corsican.",
+        "en": "Begin your day uncovering the rugged charm of Rogliano's medieval castles and quiet sanctuaries. Let the gentle morning breeze guide you past stone facades.\n\nBy midday, the village reveals its spiritual heart through ornate baroque churches and historic bell towers that echo across the valley.\n\nSpend your afternoon exploring coastal defense towers and ancient windmills that hint at a rich, industrious past.\n\nAs evening sets in, find a peaceful overlook near a village edge chapel to watch the sunset paint the Corsican hills in gold."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église San Nicolao",
+            "hu": "Église San Nicolao",
+            "ro": "Église San Nicolao",
+            "en": "Église San Nicolao"
+          },
+          "coords": [
+            9.439757,
+            42.946277
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch in der Église San Nicolao, einer eleganten Kirche von hohem kulturellen Wert, und achten Sie auf angemessene Kleidung.",
+            "hu": "Kezdje látogatását az Église San Nicolao-ban, egy elegáns, nagy kulturális értékkel bíró templomban, és ügyeljen a tiszteletteljes öltözködésre.",
+            "ro": "Începeți vizita la Église San Nicolao, o biserică elegantă cu valoare culturală semnificativă, asigurându-vă că vă îmbrăcați respectuos la intrare.",
+            "en": "Start your visit at Église San Nicolao, an elegant church with significant cultural value, ensuring you dress respectfully before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Santa Chiara",
+            "hu": "Église Santa Chiara",
+            "ro": "Église Santa Chiara",
+            "en": "Église Santa Chiara"
+          },
+          "coords": [
+            9.416093,
+            42.949277
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Église Santa Chiara, einem friedlichen Rückzugsort, und besuchen Sie sie am besten morgens für das schönste Licht.",
+            "hu": "Csodálja meg az Église Santa Chiara gyönyörű építészetét, egy békés spirituális menedéket, és próbálja meg reggel látogatni a legjobb fényekért.",
+            "ro": "Admirați arhitectura frumoasă a Église Santa Chiara, un refugiu spiritual pașnic, și încercați să vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the beautiful architecture of Église Santa Chiara, a peaceful spiritual retreat, and try to visit in the morning when the light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello San Colombano",
+            "hu": "Castello San Colombano",
+            "ro": "Castello San Colombano",
+            "en": "Castello San Colombano"
+          },
+          "coords": [
+            9.411259,
+            42.950565
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen des Castello San Colombano mit herrlichem Talblick, aber tragen Sie festes Schuhwerk für den steinigen Weg.",
+            "hu": "Fedezze fel a Castello San Colombano történelmi romjait és völgyre nyíló kilátását, de viseljen masszív cipőt a sziklás, egyenetlen ösvény miatt.",
+            "ro": "Explorați ruinele istorice ale Castello San Colombano pentru priveliști uimitoare ale văii, dar purtați încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Explore the historic ruins of Castello San Colombano for stunning valley views, but wear sturdy shoes as the path up is uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Agnellu",
+            "hu": "Église Sant'Agnellu",
+            "ro": "Église Sant'Agnellu",
+            "en": "Église Sant'Agnellu"
+          },
+          "coords": [
+            9.417611,
+            42.954707
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtige Église Sant'Agnellu, um ihr kunstvolles Inneres zu bewundern und die filigranen barocken Details genau zu betrachten.",
+            "hu": "Lépjen be a lenyűgöző Église Sant'Agnellu-ba, hogy megcsodálja díszes belső terét és a bonyolult, csodálatos barokk részleteket.",
+            "ro": "Intrați în magnifica Église Sant'Agnellu pentru a vă minuna de interiorul său ornamentat și de detaliile baroce complicate foarte impresionante.",
+            "en": "Step inside the magnificent Église Sant'Agnellu to marvel at its ornate interior, taking a moment to appreciate the intricate baroque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour génoise della Parocchia",
+            "hu": "Tour génoise della Parocchia",
+            "ro": "Tour génoise della Parocchia",
+            "en": "Tour génoise della Parocchia"
+          },
+          "coords": [
+            9.418883,
+            42.954971
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die imposante Tour génoise della Parocchia, ein Zeugnis der korsischen Verteidigungsgeschichte, am besten vom Kirchplatz aus.",
+            "hu": "Fényképezze le az impozáns Tour génoise della Parocchia-t, a korzikai védelem emlékét, amely a közeli templomtérről látható a legjobban.",
+            "ro": "Fotografiați impunătorul Tour génoise della Parocchia, o mărturie a trecutului defensiv corsican, vizibil cel mai bine din piața bisericii.",
+            "en": "Photograph the imposing Tour génoise della Parocchia, a testament to Corsica's defensive past, best seen from the nearby church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle San Giorgiu",
+            "hu": "Chapelle San Giorgiu",
+            "ro": "Chapelle San Giorgiu",
+            "en": "Chapelle San Giorgiu"
+          },
+          "coords": [
+            9.431123,
+            42.964385
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste der Chapelle San Giorgiu, einer stimmungsvollen historischen Stätte, ideal für geschichtsinteressierte Entdecker.",
+            "hu": "Fedezze fel a Chapelle San Giorgiu ősi maradványait, amely egy hangulatos történelmi helyszín a letérni vágyó történelemrajongók számára.",
+            "ro": "Explorați ruinele antice de la Chapelle San Giorgiu, un sit istoric atmosferic perfect pentru pasionații de istorie care caută locuri izolate.",
+            "en": "Explore the ancient remains at Chapelle San Giorgiu, an atmospheric historical site, perfect for history enthusiasts seeking off-the-beaten-path gems."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Santa Catalina",
+            "hu": "Chapelle Santa Catalina",
+            "ro": "Chapelle Santa Catalina",
+            "en": "Chapelle Santa Catalina"
+          },
+          "coords": [
+            9.422538,
+            42.964219
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zur historischen Chapelle Santa Catalina inmitten rauer Natur und bringen Sie Wasser mit, da der Weg oft ungeschützt in der Sonne liegt.",
+            "hu": "Sétáljon fel a zord természettel körülvett, történelmi Chapelle Santa Catalina-hoz, és vigyen magával vizet, mivel az ösvény nagyon napos lehet.",
+            "ro": "Urcați la istorica Chapelle Santa Catalina, înconjurată de natură accidentată, și aduceți apă deoarece traseul este destul de expus la soare.",
+            "en": "Walk up to the historic Chapelle Santa Catalina, surrounded by rugged nature, and bring some water as the trail can be quite exposed to the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem rauen Charme von Roglianos mittelalterlichen Burgen und ruhigen Heiligtümern. Eine sanfte Brise begleitet Sie an den Steinfassaden.\n\nMittags offenbart das Dorf sein spirituelles Herz durch verzierte barocke Kirchen und historische Glockentürme, die im Tal widerhallen.\n\nNachmittags erkunden Sie Verteidigungstürme und alte Mühlen, die von einer reichen Vergangenheit zeugen.\n\nSuchen Sie sich am Abend einen friedlichen Aussichtspunkt nahe einer Kapelle am Dorfrand, um den goldenen korsischen Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a napot Rogliano középkori kastélyainak és csendes szentélyeinek zord varázsával. Hagyja, hogy a kőhomlokzatok mentén a reggeli szellő vezesse.\n\nDélre a falu felfedi spirituális szívét a díszes barokk templomokon és a völgyben visszhangzó történelmi harangtornyokon keresztül.\n\nDélután fedezze fel a partvédelmi tornyokat és ősi szélmalmokat, amelyek gazdag múltról árulkodnak.\n\nAhogy leszáll az est, keressen egy békés kilátót a falu szélén, és nézze, ahogy a naplemente aranyra festi a korzikai dombokat.",
+        "ro": "Începeți-vă ziua descoperind farmecul rustic al castelelor medievale și sanctuarelor liniștite din Rogliano. Briza dimineții vă va ghida blând.\n\nLa amiază, satul își dezvăluie inima spirituală prin biserici baroce ornate și turnuri istorice care răsună peste vale.\n\nPetreceți după-amiaza explorând turnuri de apărare și mori de vânt antice care sugerează un trecut bogat și harnic.\n\nPe măsură ce se lasă seara, găsiți un loc liniștit lângă o capelă de la marginea satului pentru a privi apusul auriu corsican.",
+        "en": "Begin your day uncovering the rugged charm of Rogliano's medieval castles and quiet sanctuaries. Let the gentle morning breeze guide you past stone facades.\n\nBy midday, the village reveals its spiritual heart through ornate baroque churches and historic bell towers that echo across the valley.\n\nSpend your afternoon exploring coastal defense towers and ancient windmills that hint at a rich, industrious past.\n\nAs evening sets in, find a peaceful overlook near a village edge chapel to watch the sunset paint the Corsican hills in gold."
+      }
+    }
+  }
+}

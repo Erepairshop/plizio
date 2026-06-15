@@ -1,0 +1,474 @@
+{
+  "city_id": "magnanville",
+  "anchor": {
+    "name": "Magnanville",
+    "coords": [
+      1.6819,
+      48.9672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Colombier",
+            "hu": "Le Colombier",
+            "ro": "Le Colombier",
+            "en": "Le Colombier"
+          },
+          "coords": [
+            1.680097,
+            48.967331
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte in diesem charmanten Taubenschlag, der ein architektonisches Juwel ist, und achten Sie auf die kunstvollen Details an der Fassade.",
+            "hu": "Fedezze fel a gazdag kulturális történelmet ebben a bájos galambdúcban, amely egy építészeti gyöngyszem, és figyelje meg a homlokzat bonyolult és gyönyörű részleteit.",
+            "ro": "Descoperiți istoria culturală bogată în acest porumbar fermecător, o adevărată bijuterie arhitecturală, și admirați detaliile complicate de pe fațadă în lumina dimineții.",
+            "en": "Discover the rich cultural history in this charming dovecote, which stands as an architectural gem, and be sure to notice the intricate details on its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Magnanville Estate Park",
+            "hu": "Magnanville Estate Park",
+            "ro": "Magnanville Estate Park",
+            "en": "Magnanville Estate Park"
+          },
+          "coords": [
+            1.683023,
+            48.966511
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Grünflächen dieses wunderschönen Anwesens, ideal für eine Pause, und bringen Sie bequeme Schuhe für einen erholsamen Spaziergang mit.",
+            "hu": "Pihenjen meg a gyönyörű birtok tágas zöldterületein, amely ideális egy kis szünetre, és hozzon magával kényelmes cipőt egy frissítő és nyugodt sétához a fák alatt.",
+            "ro": "Relaxați-vă pe spațiile verzi vaste ale acestei moșii superbe, ideală pentru o pauză, și aduceți încălțăminte confortabilă pentru o plimbare revigorantă sub copaci.",
+            "en": "Relax on the expansive green lawns of this beautiful estate park, perfect for a peaceful break, and remember to wear comfortable shoes for a refreshing stroll around."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sébastien",
+            "hu": "Église Saint-Sébastien",
+            "ro": "Église Saint-Sébastien",
+            "en": "Église Saint-Sébastien"
+          },
+          "coords": [
+            1.670331,
+            48.979098
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die historischen Fenster dieser beeindruckenden Kirche, die tiefe spirituelle Wurzeln hat, während Sie die Stille im Inneren genießen.",
+            "hu": "Csodálja meg ennek a lenyűgöző templomnak a békés hangulatát és történelmi ablakait, amely mély spirituális gyökerekkel rendelkezik, miközben élvezi a belső csendet.",
+            "ro": "Admirați atmosfera liniștită și ferestrele istorice ale acestei biserici impresionante, cu rădăcini spirituale adânci, în timp ce vă bucurați de tăcerea profundă din interior.",
+            "en": "Admire the tranquil atmosphere and historic windows of this impressive church, which holds deep spiritual roots, while you embrace the profound silence found inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            1.65322,
+            48.965151
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mittelalterliche Architektur dieser faszinierenden religiösen Stätte ein, die von Geschichte atmet, und achten Sie besonders auf die robusten Steinbögen.",
+            "hu": "Merüljön el ennek a lenyűgöző vallási helynek a középkori építészetében, amely történelmet lélegzik, és fordítson különös figyelmet a robusztus és régi kőívekre.",
+            "ro": "Pătrundeți în arhitectura medievală a acestui lăcaș religios fascinant, care respiră istorie, și acordați o atenție deosebită arcadelor robuste din piatră de la intrare.",
+            "en": "Immerse yourself in the medieval architecture of this fascinating religious site, which breathes history, and pay special attention to the robust stone arches at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château-Fondu",
+            "hu": "Ruines du Château-Fondu",
+            "ro": "Ruines du Château-Fondu",
+            "en": "Ruines du Château-Fondu"
+          },
+          "coords": [
+            1.645324,
+            48.966088
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die geheimnisvollen Überreste dieser alten Festung, die einen Einblick in vergangene Epochen bietet, und seien Sie beim Betreten des unebenen Geländes vorsichtig.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a titokzatos maradványait, amely bepillantást enged a letűnt korokba, és legyen óvatos a dombos, egyenetlen terep bejárásakor.",
+            "ro": "Explorați rămășițele misterioase ale acestei vechi fortărețe, care oferă o perspectivă asupra epocilor trecute, și fiți precauți când pășiți pe terenul denivelat al sitului.",
+            "en": "Explore the mysterious remains of this ancient fortress, which offers a glimpse into bygone eras, and take extra care when stepping over the uneven historical terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Magnanville und tauchen Sie im Le Colombier in das reiche Erbe ein, bevor Sie durch den ruhigen Magnanville Estate Park spazieren. Die frische Morgenluft in Kombination mit der historischen Architektur gibt einen wunderbar friedlichen Ton für den Rest Ihrer faszinierenden Reise durch diese Gemeinde vor.\n\nWenn die Sonne höher steigt, wenden Sie sich den spirituellen Ankern der Stadt zu. Die eleganten Kirchen, wie die Église Saint-Sébastien, bieten kühle, ruhige Zufluchtsorte vor der Mittagswärme. Diese heiligen Räume vermitteln nicht nur historische Einblicke, sondern auch ein tiefes Gefühl von lokalem Frieden und Beständigkeit.\n\nVerbringen Sie den Nachmittag damit, tiefer in die lokale Überlieferung einzutauchen, indem Sie weitere architektonische Juwelen und antike Ruinen wie Château-Fondu erkunden. Wenn Sie durch die abwechslungsreichen Landschaften navigieren, spüren Sie die tiefe Verbindung zwischen der Natur und der faszinierenden historischen Geschichte.\n\nBeenden Sie Ihren unvergesslichen Tagesausflug, indem Sie den rustikalen Charme der Außenbezirke auf sich wirken lassen. Wenn die Dämmerung hereinbricht, wirft das weiche Licht einen magischen Glanz auf die alten Steine und das Grün und hinterlässt Ihnen bleibende, schöne Eindrücke der Region.",
+        "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigsétálna a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző utazás hátralévő részéhez ebben a festői francia kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Sébastien, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól a rusztikus ösvényekig navigálva érezni fogja a mély kapcsolatot Magnanville természeti szépsége és lenyűgöző történelmi narratívája között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a külvárosok rusztikus varázsában. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az ősi kövekre és a zöldnövényzetre, tartós és gyönyörű benyomásokat hagyva a város időtlen eleganciájáról.",
+        "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a vă plimba prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale orașului. Bisericile elegante, cum ar fi Église Saint-Sébastien, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Navigând prin peisajele variate, de la străzi liniștite la cărări rustice, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul rustic al periferiilor, relaxându-vă lângă ruinele antice. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra pietrelor vechi și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței rurale atemporale.",
+        "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before strolling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Sébastien, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the rustic charm of the outskirts, perhaps near the ancient ruins. As twilight descends, the softened light casts a magical glow over the ancient stones and greenery, leaving you with lasting, beautiful impressions of Magnanville's timeless rural elegance."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 13.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Colombier",
+            "hu": "Le Colombier",
+            "ro": "Le Colombier",
+            "en": "Le Colombier"
+          },
+          "coords": [
+            1.680097,
+            48.967331
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte in diesem charmanten Taubenschlag, der ein architektonisches Juwel ist, und achten Sie auf die kunstvollen Details an der Fassade.",
+            "hu": "Fedezze fel a gazdag kulturális történelmet ebben a bájos galambdúcban, amely egy építészeti gyöngyszem, és figyelje meg a homlokzat bonyolult és gyönyörű részleteit.",
+            "ro": "Descoperiți istoria culturală bogată în acest porumbar fermecător, o adevărată bijuterie arhitecturală, și admirați detaliile complicate de pe fațadă în lumina dimineții.",
+            "en": "Discover the rich cultural history in this charming dovecote, which stands as an architectural gem, and be sure to notice the intricate details on its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Magnanville Estate Park",
+            "hu": "Magnanville Estate Park",
+            "ro": "Magnanville Estate Park",
+            "en": "Magnanville Estate Park"
+          },
+          "coords": [
+            1.683023,
+            48.966511
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Grünflächen dieses wunderschönen Anwesens, ideal für eine Pause, und bringen Sie bequeme Schuhe für einen erholsamen Spaziergang mit.",
+            "hu": "Pihenjen meg a gyönyörű birtok tágas zöldterületein, amely ideális egy kis szünetre, és hozzon magával kényelmes cipőt egy frissítő és nyugodt sétához a fák alatt.",
+            "ro": "Relaxați-vă pe spațiile verzi vaste ale acestei moșii superbe, ideală pentru o pauză, și aduceți încălțăminte confortabilă pentru o plimbare revigorantă sub copaci.",
+            "en": "Relax on the expansive green lawns of this beautiful estate park, perfect for a peaceful break, and remember to wear comfortable shoes for a refreshing stroll around."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            1.691666,
+            48.941205
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen heiligen Ort mit seiner klassischen Struktur, die Frieden und Beständigkeit ausstrahlt, und nehmen Sie sich Zeit für ein Moment der Besinnung auf den Bänken.",
+            "hu": "Látogassa meg ezt a klasszikus szerkezetű szent helyet, amely békét és állandóságot sugároz, és szánjon időt egy pillanatnyi csendes elmélkedésre a régi fapadokon.",
+            "ro": "Vizitați acest loc sacru cu structura sa clasică, care emană pace și stabilitate, și acordați-vă timp pentru un moment de reflecție liniștită pe băncile de lemn.",
+            "en": "Visit this sacred site with its classic structure that radiates peace and permanence, and set aside time for a moment of quiet reflection on the wooden pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sébastien",
+            "hu": "Église Saint-Sébastien",
+            "ro": "Église Saint-Sébastien",
+            "en": "Église Saint-Sébastien"
+          },
+          "coords": [
+            1.670331,
+            48.979098
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die historischen Fenster dieser beeindruckenden Kirche, die tiefe spirituelle Wurzeln hat, während Sie die Stille im Inneren genießen.",
+            "hu": "Csodálja meg ennek a lenyűgöző templomnak a békés hangulatát és történelmi ablakait, amely mély spirituális gyökerekkel rendelkezik, miközben élvezi a belső csendet.",
+            "ro": "Admirați atmosfera liniștită și ferestrele istorice ale acestei biserici impresionante, cu rădăcini spirituale adânci, în timp ce vă bucurați de tăcerea profundă din interior.",
+            "en": "Admire the tranquil atmosphere and historic windows of this impressive church, which holds deep spiritual roots, while you embrace the profound silence found inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Foy",
+            "hu": "Église Sainte-Foy",
+            "ro": "Église Sainte-Foy",
+            "en": "Église Sainte-Foy"
+          },
+          "coords": [
+            1.64957,
+            48.974938
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der eleganten Einfachheit dieser charmanten Dorfkirche verzaubern, die ein echtes Zeugnis lokalen Glaubens ist, und fotografieren Sie den spitzen Turm.",
+            "hu": "Hagyja, hogy elvarázsolja ennek a bájos falusi templomnak az elegáns egyszerűsége, amely a helyi hit igazi bizonyítéka, és fotózza le a jellegzetes és karcsú tornyot.",
+            "ro": "Lăsați-vă fermecați de simplitatea elegantă a acestei biserici rurale, o adevărată dovadă a credinței locale, și asigurați-vă că fotografiați turla sa ascuțită și distinctivă.",
+            "en": "Be enchanted by the elegant simplicity of this charming village church, a true testament to local faith, and make sure to capture a photo of its distinctive, pointed spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château-Fondu",
+            "hu": "Ruines du Château-Fondu",
+            "ro": "Ruines du Château-Fondu",
+            "en": "Ruines du Château-Fondu"
+          },
+          "coords": [
+            1.645324,
+            48.966088
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die geheimnisvollen Überreste dieser alten Festung, die einen Einblick in vergangene Epochen bietet, und seien Sie beim Betreten des unebenen Geländes vorsichtig.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a titokzatos maradványait, amely bepillantást enged a letűnt korokba, és legyen óvatos a dombos, egyenetlen terep bejárásakor.",
+            "ro": "Explorați rămășițele misterioase ale acestei vechi fortărețe, care oferă o perspectivă asupra epocilor trecute, și fiți precauți când pășiți pe terenul denivelat al sitului.",
+            "en": "Explore the mysterious remains of this ancient fortress, which offers a glimpse into bygone eras, and take extra care when stepping over the uneven historical terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Magnanville und tauchen Sie im Le Colombier in das reiche Erbe ein, bevor Sie durch den ruhigen Magnanville Estate Park radeln. Die frische Morgenluft in Kombination mit der historischen Architektur gibt einen wunderbar friedlichen Ton für den Rest Ihrer faszinierenden Reise durch diese Gemeinde vor.\n\nWenn die Sonne höher steigt, wenden Sie sich den spirituellen Ankern der Stadt zu. Die eleganten Kirchen, wie die Église Saint-Martin, bieten kühle, ruhige Zufluchtsorte vor der Mittagswärme. Diese heiligen Räume vermitteln nicht nur historische Einblicke, sondern auch ein tiefes Gefühl von lokalem Frieden und Beständigkeit.\n\nVerbringen Sie den Nachmittag damit, tiefer in die lokale Überlieferung einzutauchen, indem Sie weitere architektonische Juwelen und antike Ruinen wie Château-Fondu erkunden. Wenn Sie durch die abwechslungsreichen Landschaften radeln, spüren Sie die tiefe Verbindung zwischen der Natur und der faszinierenden historischen Geschichte.\n\nBeenden Sie Ihren unvergesslichen Tagesausflug, indem Sie den rustikalen Charme der Außenbezirke auf sich wirken lassen. Wenn die Dämmerung hereinbricht, wirft das weiche Licht einen magischen Glanz auf die alten Steine und das Grün und hinterlässt Ihnen bleibende, schöne Eindrücke der Region.",
+        "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigkerekezne a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző utazás hátralévő részéhez ebben a festői francia kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Martin, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól a rusztikus ösvényekig navigálva érezni fogja a mély kapcsolatot Magnanville természeti szépsége és lenyűgöző történelmi narratívája között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a külvárosok rusztikus varázsában. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az ősi kövekre és a zöldnövényzetre, tartós és gyönyörű benyomásokat hagyva a város időtlen eleganciájáról.",
+        "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a pedala prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale orașului. Bisericile elegante, cum ar fi Église Saint-Martin, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Navigând prin peisajele variate, de la străzi liniștite la cărări rustice, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul rustic al periferiilor, relaxându-vă lângă ruinele antice. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra pietrelor vechi și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței rurale atemporale.",
+        "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before cycling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Martin, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the rustic charm of the outskirts, perhaps near the ancient ruins. As twilight descends, the softened light casts a magical glow over the ancient stones and greenery, leaving you with lasting, beautiful impressions of Magnanville's timeless rural elegance."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 20.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Colombier",
+            "hu": "Le Colombier",
+            "ro": "Le Colombier",
+            "en": "Le Colombier"
+          },
+          "coords": [
+            1.680097,
+            48.967331
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte in diesem charmanten Taubenschlag, der ein architektonisches Juwel ist, und achten Sie auf die kunstvollen Details an der Fassade.",
+            "hu": "Fedezze fel a gazdag kulturális történelmet ebben a bájos galambdúcban, amely egy építészeti gyöngyszem, és figyelje meg a homlokzat bonyolult és gyönyörű részleteit.",
+            "ro": "Descoperiți istoria culturală bogată în acest porumbar fermecător, o adevărată bijuterie arhitecturală, și admirați detaliile complicate de pe fațadă în lumina dimineții.",
+            "en": "Discover the rich cultural history in this charming dovecote, which stands as an architectural gem, and be sure to notice the intricate details on its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Magnanville Estate Park",
+            "hu": "Magnanville Estate Park",
+            "ro": "Magnanville Estate Park",
+            "en": "Magnanville Estate Park"
+          },
+          "coords": [
+            1.683023,
+            48.966511
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Grünflächen dieses wunderschönen Anwesens, ideal für eine Pause, und bringen Sie bequeme Schuhe für einen erholsamen Spaziergang mit.",
+            "hu": "Pihenjen meg a gyönyörű birtok tágas zöldterületein, amely ideális egy kis szünetre, és hozzon magával kényelmes cipőt egy frissítő és nyugodt sétához a fák alatt.",
+            "ro": "Relaxați-vă pe spațiile verzi vaste ale acestei moșii superbe, ideală pentru o pauză, și aduceți încălțăminte confortabilă pentru o plimbare revigorantă sub copaci.",
+            "en": "Relax on the expansive green lawns of this beautiful estate park, perfect for a peaceful break, and remember to wear comfortable shoes for a refreshing stroll around."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            1.691666,
+            48.941205
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen heiligen Ort mit seiner klassischen Struktur, die Frieden und Beständigkeit ausstrahlt, und nehmen Sie sich Zeit für ein Moment der Besinnung auf den Bänken.",
+            "hu": "Látogassa meg ezt a klasszikus szerkezetű szent helyet, amely békét és állandóságot sugároz, és szánjon időt egy pillanatnyi csendes elmélkedésre a régi fapadokon.",
+            "ro": "Vizitați acest loc sacru cu structura sa clasică, care emană pace și stabilitate, și acordați-vă timp pentru un moment de reflecție liniștită pe băncile de lemn.",
+            "en": "Visit this sacred site with its classic structure that radiates peace and permanence, and set aside time for a moment of quiet reflection on the wooden pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sébastien",
+            "hu": "Église Saint-Sébastien",
+            "ro": "Église Saint-Sébastien",
+            "en": "Église Saint-Sébastien"
+          },
+          "coords": [
+            1.670331,
+            48.979098
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die historischen Fenster dieser beeindruckenden Kirche, die tiefe spirituelle Wurzeln hat, während Sie die Stille im Inneren genießen.",
+            "hu": "Csodálja meg ennek a lenyűgöző templomnak a békés hangulatát és történelmi ablakait, amely mély spirituális gyökerekkel rendelkezik, miközben élvezi a belső csendet.",
+            "ro": "Admirați atmosfera liniștită și ferestrele istorice ale acestei biserici impresionante, cu rădăcini spirituale adânci, în timp ce vă bucurați de tăcerea profundă din interior.",
+            "en": "Admire the tranquil atmosphere and historic windows of this impressive church, which holds deep spiritual roots, while you embrace the profound silence found inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Foy",
+            "hu": "Église Sainte-Foy",
+            "ro": "Église Sainte-Foy",
+            "en": "Église Sainte-Foy"
+          },
+          "coords": [
+            1.64957,
+            48.974938
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der eleganten Einfachheit dieser charmanten Dorfkirche verzaubern, die ein echtes Zeugnis lokalen Glaubens ist, und fotografieren Sie den spitzen Turm.",
+            "hu": "Hagyja, hogy elvarázsolja ennek a bájos falusi templomnak az elegáns egyszerűsége, amely a helyi hit igazi bizonyítéka, és fotózza le a jellegzetes és karcsú tornyot.",
+            "ro": "Lăsați-vă fermecați de simplitatea elegantă a acestei biserici rurale, o adevărată dovadă a credinței locale, și asigurați-vă că fotografiați turla sa ascuțită și distinctivă.",
+            "en": "Be enchanted by the elegant simplicity of this charming village church, a true testament to local faith, and make sure to capture a photo of its distinctive, pointed spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château-Fondu",
+            "hu": "Ruines du Château-Fondu",
+            "ro": "Ruines du Château-Fondu",
+            "en": "Ruines du Château-Fondu"
+          },
+          "coords": [
+            1.645324,
+            48.966088
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die geheimnisvollen Überreste dieser alten Festung, die einen Einblick in vergangene Epochen bietet, und seien Sie beim Betreten des unebenen Geländes vorsichtig.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a titokzatos maradványait, amely bepillantást enged a letűnt korokba, és legyen óvatos a dombos, egyenetlen terep bejárásakor.",
+            "ro": "Explorați rămășițele misterioase ale acestei vechi fortărețe, care oferă o perspectivă asupra epocilor trecute, și fiți precauți când pășiți pe terenul denivelat al sitului.",
+            "en": "Explore the mysterious remains of this ancient fortress, which offers a glimpse into bygone eras, and take extra care when stepping over the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosny Forest",
+            "hu": "Rosny Forest",
+            "ro": "Rosny Forest",
+            "en": "Rosny Forest"
+          },
+          "coords": [
+            1.59164,
+            49.0011
+          ],
+          "category": "natural",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Natur und die dichten Wälder dieses riesigen Schutzgebiets, das fantastische Wanderwege bietet, und bringen Sie unbedingt ausreichend Wasser mit.",
+            "hu": "Élvezze a vad természetet és a hatalmas védett terület sűrű erdeit, amely fantasztikus túraútvonalakat kínál, és feltétlenül hozzon magával elegendő ivóvizet a sétához.",
+            "ro": "Bucurați-vă de natura sălbatică și de pădurile dese ale acestei rezervații uriașe, care oferă trasee de drumeție fantastice, și asigurați-vă că aveți suficientă apă la voi.",
+            "en": "Enjoy the wild nature and dense woodlands of this vast protected area, which offers fantastic hiking trails, and make absolutely sure to carry plenty of water for your trek."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Magnanville und tauchen Sie im Le Colombier in das reiche Erbe ein, bevor Sie durch den ruhigen Magnanville Estate Park schlendern. Die frische Morgenluft in Kombination mit der historischen Architektur gibt einen wunderbar friedlichen Ton für den Rest Ihrer faszinierenden Autoreise durch diese Gemeinde vor.\n\nWenn die Sonne höher steigt, wenden Sie sich den spirituellen Ankern der Region zu. Die eleganten Kirchen, wie die Église Saint-Martin, bieten kühle, ruhige Zufluchtsorte vor der Mittagswärme. Diese heiligen Räume vermitteln nicht nur historische Einblicke, sondern auch ein tiefes Gefühl von lokalem Frieden und Beständigkeit auf Ihrer Fahrt.\n\nVerbringen Sie den Nachmittag damit, tiefer in die lokale Überlieferung einzutauchen, indem Sie weitere architektonische Juwelen und antike Ruinen wie Château-Fondu erkunden. Wenn Sie durch die abwechslungsreichen Landschaften fahren, spüren Sie die tiefe Verbindung zwischen der Natur und der faszinierenden historischen Geschichte.\n\nBeenden Sie Ihren unvergesslichen Tagesausflug, indem Sie den wilden Charme der Natur im weitläufigen Rosny Forest auf sich wirken lassen. Wenn die Dämmerung hereinbricht, wirft das weiche Licht einen magischen Glanz auf das endlose Grün und hinterlässt Ihnen bleibende, wunderschöne Eindrücke der Region.",
+        "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigsétálna a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző autós utazás hátralévő részéhez ebben a festői kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Martin, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól az erdei ösvényekig navigálva érezni fogja a mély kapcsolatot a természeti szépség és a történelmi narratíva között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a Rosny-erdő hatalmas és vad természetében. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az erdei ösvényekre, tartós és gyönyörű benyomásokat hagyva a régió időtlen természeti eleganciájáról.",
+        "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a vă plimba prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră auto fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale regiunii. Bisericile elegante, cum ar fi Église Saint-Martin, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară pe traseul ales.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Conducând prin peisajele variate, de la străzi liniștite la poteci rurale, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul sălbatic al naturii în vasta Pădure Rosny. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra copacilor și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței atemporale.",
+        "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before strolling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating driving journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Martin, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience along your route.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the wild charm of nature within the vast Rosny Forest. As twilight descends, the softened light casts a magical glow over the ancient trees and dense greenery, leaving you with lasting, beautiful impressions of the region's timeless and sweeping natural elegance."
+      }
+    }
+  }
+}

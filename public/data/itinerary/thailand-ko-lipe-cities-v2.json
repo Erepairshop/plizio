@@ -1,0 +1,405 @@
+{
+  "city_id": "thailand-ko-lipe-cities-v2",
+  "anchor": {
+    "name": "Ko Lipe",
+    "coords": [
+      99.3,
+      6.49
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 1.74,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pattaya Beach",
+            "hu": "Pattaya tengerpart",
+            "ro": "Plaja Pattaya",
+            "en": "Pattaya Beach"
+          },
+          "coords": [
+            99.301503,
+            6.4866
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand am belebtesten Strand der Insel und kommen Sie am besten früh morgens an, um die friedliche Atmosphäre zu erleben.",
+            "hu": "Élvezze a finom fehér homokot a sziget legforgalmasabb strandján, de érkezzen korán reggel, ha békés hangulatra és kevesebb tömegre vágyik.",
+            "ro": "Bucurați-vă de nisipul fin de pe cea mai animată plajă a insulei, ajungând dis-de-dimineață pentru a vă relaxa în liniște înainte de aglomerație.",
+            "en": "Enjoy the fine white sand on the island's busiest beach, arriving early in the morning to experience a peaceful atmosphere before the crowds appear."
+          }
+        },
+        {
+          "name": {
+            "de": "Hantalay Tempel",
+            "hu": "Hantalay templom",
+            "ro": "Templul Hantalay",
+            "en": "Hantalay Temple"
+          },
+          "coords": [
+            99.303077,
+            6.490346
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spirituelle Ruhe dieses kleinen Tempels im dichten Grün, vergessen Sie jedoch nicht, aus Respekt schulterbedeckende Kleidung zu tragen.",
+            "hu": "Csodálja meg a sűrű zöld növényzetben megbúvó kis templom nyugalmát, és tiszteletből feltétlenül viseljen vállat takaró ruházatot a látogatás során.",
+            "ro": "Admirați liniștea spirituală a acestui mic templu ascuns în verdeață, purtând haine care acoperă umerii pentru a respecta tradițiile locale.",
+            "en": "Admire the spiritual tranquility of this small temple nestled in dense greenery, making sure to wear shoulder-covering clothing out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid el Marhamah",
+            "hu": "Masjid el Marhamah",
+            "ro": "Masjid el Marhamah",
+            "en": "Masjid el Marhamah"
+          },
+          "coords": [
+            99.307277,
+            6.489154
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Beobachten Sie die schlichte, harmonische Architektur dieser lokalen Moschee, die als Zentrum der muslimischen Gemeinde auf der Insel dient und zur Mittagszeit sehr ruhig ist.",
+            "hu": "Figyelje meg ennek a helyi mecsetnek az egyszerű, harmonikus építészetét, amely a sziget muszlim közösségének központja, és délben a legnyugodtabb.",
+            "ro": "Observați arhitectura simplă a acestei moschei care servește drept centru al comunității musulmane de pe insulă, fiind un loc foarte liniștit la prânz.",
+            "en": "Observe the simple, harmonious architecture of this local mosque serving as the hub for the island's Muslim community, which is very quiet around noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunrise Beach",
+            "hu": "Napkelte part",
+            "ro": "Plaja Răsăritului",
+            "en": "Sunrise Beach"
+          },
+          "coords": [
+            99.308625,
+            6.49168
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren türkisfarbenen Wasser dieses langen, malerischen Sandstreifens und nutzen Sie die hervorragenden Bedingungen zum Schnorcheln in Ufernähe.",
+            "hu": "Ússzon egyet ennek a hosszú, festői partszakasznak a kristálytiszta türkizkék vizében, és használja ki a kiváló sznorkelezési lehetőségeket a part közelében.",
+            "ro": "Înotați în apele turcoaz cristaline ale acestei porțiuni lungi de plajă pitorească și profitați de condițiile excelente pentru snorkeling aproape de țărm.",
+            "en": "Swim in the crystal-clear turquoise waters of this long, picturesque stretch of sand and take advantage of the excellent snorkeling conditions near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "North point beach",
+            "hu": "Északi pont strand",
+            "ro": "Plaja North point",
+            "en": "North point beach"
+          },
+          "coords": [
+            99.305764,
+            6.495495
+          ],
+          "category": "natural",
+          "arrive_at": "13:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie am nördlichsten Punkt der Insel mit spektakulären Ausblicken auf die benachbarten Inseln und bleiben Sie unbedingt bis der späte Nachmittag das Licht weicher macht.",
+            "hu": "Pihenjen a sziget legészakibb pontján, ahonnan lenyűgöző kilátás nyílik a szomszédos szigetekre, és maradjon késő délutánig, amikor a fények csodálatossá válnak.",
+            "ro": "Relaxați-vă în cel mai nordic punct al insulei, cu vederi spectaculoase spre insulele învecinate, și rămâneți până târziu după-amiază pentru o lumină perfectă.",
+            "en": "Relax at the island's northernmost point offering spectacular views of neighboring islands, and be sure to stay until late afternoon when the lighting softens beautifully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen auf Ko Lipe beginnt am beliebten Pattaya Beach, wo das weiche Morgenlicht noch Ruhe verspricht. Ein kurzer Spaziergang landeinwärts führt uns zu einem verborgenen Tempel und einer kleinen Moschee.\n\nZur Mittagszeit lockt der berühmte Sunrise Beach mit seinem türkisblauen Wasser zu einem erfrischenden Bad. Das klare Meer ist ideal für eine kleine Schnorchelpause in Ufernähe.\n\nAm Nachmittag erreichen wir den entspannten North Point Beach, wo sich die Natur von ihrer besten Seite zeigt. Der Ausblick auf das umliegende Meerengebiet ist einfach atemberaubend.\n\nDer Tag klingt sanft aus, während wir die letzten warmen Sonnenstrahlen im Norden der Insel aufsaugen und die entspannte Atmosphäre des Tropenparadieses genießen.",
+        "hu": "A reggel Ko Lipén a népszerű Pattaya Beach homokján kezdődik, ahol a korai órák csendje még varázslatos. Egy rövid sétával a sziget belseje felé felfedezhetünk egy rejtett templomot és egy mecsetet.\n\nDél körül a híres Sunrise Beach türkizkék vize hívogat egy frissítő úszásra. A tiszta víz kiváló alkalmat nyújt a part menti sznorkelezésre és a tengeri élet megfigyelésére.\n\nDélután elérjük a nyugodt North Point strandot, ahol a természet a legszebb arcát mutatja. A szomszédos szigetekre nyíló panoráma innen egyszerűen lenyűgöző és magával ragadó.\n\nA nap csendesen ér véget, miközben a sziget északi csücskében élvezzük az utolsó meleg napsugarakat, elmerülve e trópusi paradicsom tökéletes nyugalmában.",
+        "ro": "Dimineața pe Ko Lipe începe pe populara plajă Pattaya, unde liniștea este încă prezentă. O scurtă plimbare spre interiorul insulei ne poartă către un templu ascuns și o mică moschee locală.\n\nLa prânz, faimoasa Sunrise Beach ne atrage cu apele sale turcoaz cristaline pentru o înotare revigorantă. Marea limpede este ideală pentru o sesiune relaxantă de snorkeling la mal.\n\nDupă-amiaza, ajungem la plaja liniștită North Point, unde natura își dezvăluie cea mai frumoasă latură. Priveliștea către insulele din jur este de-a dreptul spectaculoasă și captivantă.\n\nZiua se încheie blând în timp ce absorbim ultimele raze calde de soare în nordul insulei, bucurându-ne de atmosfera perfect relaxantă a acestui mic paradis tropical.",
+        "en": "Morning on Ko Lipe begins on the soft sands of popular Pattaya Beach, where the early hours remain incredibly peaceful. A short walk inland reveals a hidden temple and a modest local mosque.\n\nBy midday, the famous Sunrise Beach beckons with its crystal-clear turquoise waters for a refreshing swim. The pristine sea here is absolutely ideal for some gentle shore-side snorkeling.\n\nIn the afternoon, we reach the laid-back North Point Beach, where nature shows its best face. The panoramic view across the water to the neighboring forested islands is simply breathtaking.\n\nThe day gently concludes as we soak up the final warm rays of the sun at the island's northern tip, fully embracing the perfectly relaxed atmosphere of this beautiful tropical paradise."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 2.11,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Talo Izumi Beach",
+            "hu": "Talo Izumi strand",
+            "ro": "Plaja Talo Izumi",
+            "en": "Talo Izumi Beach"
+          },
+          "coords": [
+            99.295357,
+            6.488155
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen abgeschiedenen Strandabschnitt, der sich ideal für ungestörte Morgenstunden eignet, und packen Sie ausreichend Wasser ein, da es hier keine Geschäfte gibt.",
+            "hu": "Fedezze fel ezt az eldugott partszakaszt, amely ideális a zavartalan reggeli órákhoz, és vigyen magával elegendő vizet, mivel itt nincsenek boltok.",
+            "ro": "Explorați această porțiune retrasă de plajă, ideală pentru orele dimineții liniștite, luând la voi apă suficientă deoarece aici nu veți găsi magazine.",
+            "en": "Explore this secluded stretch of beach that is ideal for an undisturbed morning, packing plenty of water with you since there are no shops here."
+          }
+        },
+        {
+          "name": {
+            "de": "Su Ta Beach",
+            "hu": "Su Ta strand",
+            "ro": "Plaja Su Ta",
+            "en": "Su Ta Beach"
+          },
+          "coords": [
+            99.298116,
+            6.490478
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanfte Brise an dieser kleinen Bucht, die bei lokalen Fischern beliebt ist, und beobachten Sie die traditionellen Holzboote, die sanft im Wasser schaukeln.",
+            "hu": "Élvezze a lágy szellőt ebben a kis öbölben, amely a helyi halászok körében is népszerű, és figyelje meg a vízben ringatózó hagyományos fahajókat.",
+            "ro": "Bucurați-vă de briza blândă în acest mic golf popular printre pescarii locali, observând bărcile tradiționale de lemn care se leagănă ușor pe apă.",
+            "en": "Enjoy the gentle breeze at this small bay popular with local fishermen, watching the traditional wooden longtail boats bobbing gently in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Beach",
+            "hu": "Naplemente part",
+            "ro": "Plaja Apusului",
+            "en": "Sunset Beach"
+          },
+          "coords": [
+            99.300371,
+            6.492194
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Trotz des Namens ist dieser Ort tagsüber ein schattiges, ruhiges Versteck unter Bäumen, wo man hervorragend eine Hängematte aufhängen und entspannen kann.",
+            "hu": "A neve ellenére ez a hely napközben egy árnyékos, nyugodt menedék a fák alatt, ahol kiválóan lehet függőágyat kifeszíteni és egy jót pihenni.",
+            "ro": "În ciuda numelui său, ziua acest loc este o ascunzătoare umbrită și liniștită sub copaci, fiind perfect pentru a agăța un hamac și a te relaxa profund.",
+            "en": "Despite its name, daytime here offers a shady, quiet hideaway under the trees, making it a perfect spot to hang a hammock and truly relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Ta Lo So",
+            "hu": "Ao Ta Lo So",
+            "ro": "Ao Ta Lo So",
+            "en": "Ao Ta Lo So"
+          },
+          "coords": [
+            99.303103,
+            6.493989
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, idyllische Strandzone abseits der großen Menschenmassen, ideal für ein Picknick, wenn Sie Ihre eigenen Snacks mitbringen.",
+            "hu": "Fedezze fel ezt a kis, idilli partszakaszt távol a nagy tömegektől, amely tökéletes egy piknikhez, feltéve, ha magával hozza a saját harapnivalóját.",
+            "ro": "Descoperiți această mică zonă idilică de plajă, departe de aglomerație, perfectă pentru un picnic cu condiția să vă aduceți propriile gustări.",
+            "en": "Discover this small, idyllic beach zone away from the massive crowds, which is perfect for a picnic provided you bring your own snacks along."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Khra",
+            "hu": "Ao Khra",
+            "ro": "Ao Khra",
+            "en": "Ao Khra"
+          },
+          "coords": [
+            99.31277,
+            6.493109
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Baden Sie am Nachmittag in dieser geschützten östlichen Bucht mit flachem Wasser, und achten Sie beim Hineingehen auf Korallenstücke im Sand.",
+            "hu": "Délután fürödjön ebben a védett keleti öbölben, ahol nagyon sekély a víz, de besétáláskor ügyeljen a homokban megbúvó apró korallokra.",
+            "ro": "Faceți baie după-amiaza în acest golf estic protejat cu ape puțin adânci, dar fiți atenți la bucățile de corali ascunse în nisip când intrați în apă.",
+            "en": "Bathe in the afternoon in this protected eastern bay featuring shallow waters, making sure to watch out for coral fragments in the sand as you wade in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrradtour beginnt an den ruhigen Ufern von Talo Izumi Beach, einem perfekten Ort zum Durchatmen. Danach rollen wir gemütlich weiter zur Su Ta Beach, wo das traditionelle Inselflair der lokalen Fischer spürbar wird.\n\nZur Mittagszeit finden wir unter den Bäumen des Sunset Beach angenehmen Schatten. Die Hitze des Tages lässt sich hier bei einer entspannten Pause fernab des Trubels wunderbar aushalten.\n\nAm Nachmittag radeln wir zum versteckten Sandstreifen Ao Ta Lo So, ideal für eine kleine Zwischenmahlzeit. Die kurzen Distanzen auf der kleinen Insel machen das Radfahren hier besonders angenehm und mühelos.\n\nDen Ausklang unseres Tages verbringen wir am östlichen Ao Khra, wo das Meer flach und einladend ist. Mit den Füßen im warmen Wasser lassen wir die friedliche Atmosphäre der Bucht voll und ganz auf uns wirken.",
+        "hu": "Kerékpártúránk a Talo Izumi strand csendes partjainál kezdődik, amely tökéletes hely egy mély lélegzetvételre. Ezután kényelmesen áttekerünk a Su Ta strandra, ahol megérezhetjük a helyi halászok hagyományos életének hangulatát.\n\nDél körül kellemes árnyékot találunk a Sunset Beach fái alatt. A nap hőségét itt egy pihentető szünet keretében, a pezsgéstől távol, egy függőágyban hintázva a legkönnyebb elviselni.\n\nDélután a rejtett Ao Ta Lo So homoksávhoz kerekezünk, ami tökéletes helyszín egy könnyed piknikhez. A kis szigeten lévő rövid távolságok különösen élvezetessé és fáradságmentessé teszik a biciklizést.\n\nA nap lezárásaként a keleti Ao Khra öbölhöz érünk, ahol a tenger sekély és hívogató. Lábunkkal a meleg vízben, élvezzük a tenger morajlását, és hagyjuk, hogy az öböl békéje teljesen átjárjon minket.",
+        "ro": "Turul nostru pe bicicletă începe pe țărmul liniștit al plajei Talo Izumi, locul perfect pentru a respira aer curat. Apoi pedalăm agale către plaja Su Ta, unde putem simți farmecul tradițional al pescarilor locali.\n\nLa prânz, găsim o umbră plăcută sub copacii de la Sunset Beach. Căldura zilei este cel mai bine tolerată aici printr-o pauză relaxantă, departe de agitația turistică, poate chiar într-un hamac confortabil.\n\nDupă-amiaza ne îndreptăm spre porțiunea de nisip ascunsă Ao Ta Lo So, ideală pentru o mică gustare. Distanțele scurte de pe această mică insulă fac ca mersul pe bicicletă să fie o adevărată plăcere fără efort.\n\nZiua noastră se încheie în est, la Ao Khra, unde marea este puțin adâncă și primitoare. Cu picioarele în apa caldă, ne lăsăm purtați de atmosfera absolut pașnică a acestui golf minunat.",
+        "en": "Our bike ride begins on the quiet shores of Talo Izumi Beach, a perfect spot to take a deep breath. We then pedal leisurely over to Su Ta Beach, where the traditional island flair of local fishermen is truly palpable.\n\nBy midday, we find pleasant shade under the trees at Sunset Beach. The heat of the day is best endured here during a relaxing break far away from the hustle and bustle, perhaps swinging gently in a hammock.\n\nIn the afternoon, we cycle to the hidden sand strip of Ao Ta Lo So, which is ideal for a light snack. The short distances across this small island make cycling around incredibly pleasant and virtually effortless.\n\nWe conclude our day at the eastern bay of Ao Khra, where the sea is shallow and highly inviting. With our feet in the warm water, we allow the peaceful atmosphere of the bay to completely wash over us."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 6.69,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ao Kwam Lup Li Pe",
+            "hu": "Ao Kwam Lup Li Pe",
+            "ro": "Ao Kwam Lup Li Pe",
+            "en": "Ao Kwam Lup Li Pe"
+          },
+          "coords": [
+            99.289409,
+            6.482854
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen abgelegenen Küstenabschnitt am frühen Morgen, um die raue Naturkulisse ganz für sich allein zu haben, da kaum Touristen hierher finden.",
+            "hu": "Látogasson el erre az eldugott partszakaszra kora reggel, hogy teljesen egyedül élvezhesse a vad természeti környezetet, mivel ide ritkán jutnak el turisták.",
+            "ro": "Vizitați această porțiune izolată de coastă dimineața devreme pentru a avea peisajul natural sălbatic doar pentru voi, deoarece puțini turiști ajung aici.",
+            "en": "Visit this isolated stretch of coastline early in the morning to have the rugged natural scenery completely to yourself, as very few tourists ever wander here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Ka La - Pantai Galah Strand",
+            "hu": "Ao Ka La - Pantai Galah strand",
+            "ro": "Plaja Ao Ka La - Pantai Galah",
+            "en": "Ao Ka La - Pantai Galah Beach"
+          },
+          "coords": [
+            99.291613,
+            6.483764
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Felsen gesäumten Rückzugsort ohne Zwänge, und nehmen Sie Badeschuhe mit, um sicher über die steinigen Abschnitte ins Wasser zu gelangen.",
+            "hu": "Pihenjen ezen a sziklákkal szegélyezett szabad menedékhelyen, de mindenképpen hozzon magával fürdőcipőt, hogy biztonságosan juthasson be a köves részeken a vízbe.",
+            "ro": "Relaxați-vă la acest refugiu înconjurat de stânci fără inhibiții, dar nu uitați să luați încălțăminte de apă pentru a trece în siguranță peste secțiunile pietroase.",
+            "en": "Relax at this rock-lined getaway without any inhibitions, but make sure to bring aqua shoes to safely navigate the stony sections when entering the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sa Nom Beach",
+            "hu": "Sa Nom strand",
+            "ro": "Plaja Sa Nom",
+            "en": "Sa Nom Beach"
+          },
+          "coords": [
+            99.29695,
+            6.485507
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem puderzuckerweißen Sand dieser kleinen Privatbucht, in der ein kleines Resort erfrischende Kokosnüsse für Besucher anbietet.",
+            "hu": "Pihenjen e kis privát öböl porcukorszerű fehér homokján, ahol a közeli kis üdülőhely hűsítő kókuszdiót is kínál a megfáradt látogatóknak.",
+            "ro": "Relaxați-vă pe nisipul alb ca zahărul pudră al acestui mic golf privat, unde un mic resort oferă nucă de cocos răcoritoare vizitatorilor însetați.",
+            "en": "Lounge on the powdered sugar-white sand of this small private bay, where a nearby little resort kindly offers refreshing coconuts to thirsty visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao A Yi Ang Beach",
+            "hu": "Ao A Yi Ang strand",
+            "ro": "Plaja Ao A Yi Ang",
+            "en": "Ao A Yi Ang Beach"
+          },
+          "coords": [
+            99.31584,
+            6.511569
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.53,
+          "tip_5lang": {
+            "de": "Lassen Sie sich bei einer kurzen Fahrt in den abgelegenen Norden zu dieser rauen Bucht bringen, wo fantastische Fotomotive auf abenteuerlustige Gäste warten.",
+            "hu": "Vezessen át a sziget eldugott északi részére ehhez a vadregényes öbölhöz, ahol fantasztikus fotótémák várják a kalandvágyó és kíváncsi látogatókat.",
+            "ro": "Conduceți spre nordul îndepărtat pentru a ajunge la acest golf sălbatic, unde peisaje fantastice pentru fotografii îi așteaptă pe oaspeții aventuroși.",
+            "en": "Take a short drive up to the remote north to find this rugged bay, where truly fantastic photo opportunities await the more adventurous guests."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunrise Beach",
+            "hu": "Napkelte part",
+            "ro": "Plaja Răsăritului",
+            "en": "Sunrise Beach"
+          },
+          "coords": [
+            99.308625,
+            6.49168
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.31,
+          "tip_5lang": {
+            "de": "Kehren Sie am Nachmittag zu diesem weiten Strand zurück, um in einem kleinen Café am Sandrand einen Cocktail bei weicher werdendem Licht zu genießen.",
+            "hu": "Térjen vissza délután erre a tágas strandra, hogy egy homokos parti kávézóban élvezzen egy koktélt, miközben a fények lassan lágyabbá válnak.",
+            "ro": "Întoarceți-vă după-amiaza la această plajă imensă pentru a savura un cocktail la o cafenea pe nisip, în timp ce lumina devine din ce în ce mai blândă.",
+            "en": "Return to this expansive beach in the late afternoon to enjoy a cocktail at a small beachfront cafe as the bright tropical lighting begins to soften."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem motorisierten Transport auf der Insel erreichen wir morgens als erstes das abgelegene Ao Kwam Lup Li Pe. Die Einsamkeit an diesem felsigen Küstenabschnitt ist der perfekte Einstieg für Naturliebhaber, und gleich nebenan bietet der Pantai Galah Strand eine unbeschwerte Atmosphäre.\n\nSpäter am Vormittag wechseln wir in die ruhige Bucht von Sa Nom Beach, wo der feine Sand zum Verweilen einlädt. Das entspannte Flair dieser kleinen Enklave ist der perfekte Kontrast zu den wilderen Küstenabschnitten am frühen Morgen.\n\nNach dem Mittag begeben wir uns auf eine etwas längere Fahrt in den rauen Norden zum Ao A Yi Ang Beach. Hier peitscht das Meer etwas kräftiger an die Küste und liefert dramatische Bilder, die das wilde Herz der Insel widerspiegeln.\n\nZum Abschluss steuern wir bequem den bekannten Sunrise Beach an, dessen endlose Sandfläche am Nachmittag einlädt. Bei einem kalten Getränk am Ufer lassen wir die unterschiedlichen Eindrücke unserer Inseltour gemütlich Revue passieren.",
+        "hu": "A motoros közlekedéssel először a távoli Ao Kwam Lup Li Pe strandot érjük el a reggeli órákban. Ennek a sziklás partszakasznak a magánya tökéletes kezdés a természet szerelmeseinek, majd a szomszédos Pantai Galah strand gondtalan légkörét is megtapasztalhatjuk.\n\nKésőbb délelőtt áttérünk a Sa Nom strand csendes öblébe, ahol a finom homok hosszas maradásra csábít. Ennek a kis enklávénak a pihentető hangulata tökéletes ellentéte a kora reggeli, sokkal vadabb partszakaszoknak.\n\nEbéd után egy kicsit hosszabb útra indulunk a zord északra, az Ao A Yi Ang strandra. Itt a tenger valamivel erősebben csapkodja a partot, drámai képeket nyújtva, amelyek a sziget vad és érintetlen szívét tükrözik vissza.\n\nVégül kényelmesen eljutunk a jól ismert Sunrise Beach-re, melynek végtelen homokos partja délután nagyon hívogató. Egy hideg ital mellett a parton, kényelmesen felelevenítjük a szigettúra során szerzett csodálatos és változatos élményeket.",
+        "ro": "Folosind transportul motorizat, ajungem prima dată dimineața la izolata plajă Ao Kwam Lup Li Pe. Singurătatea pe această coastă stâncoasă este începutul perfect pentru iubitorii de natură, iar chiar alături plaja Pantai Galah oferă o atmosferă complet lipsită de griji.\n\nMai târziu în cursul dimineții ne mutăm în golful liniștit de la plaja Sa Nom, unde nisipul fin te invită să zăbovești. Farmecul relaxat al acestei mici enclave este contrastul perfect cu secțiunile de coastă mult mai sălbatice de la primele ore.\n\nDupă prânz, facem o călătorie ceva mai lungă spre nordul accidentat până la plaja Ao A Yi Ang. Aici, marea se lovește cu mai multă forță de coastă, oferind peisaje dramatice care reflectă inima cu adevărat sălbatică a insulei.\n\nLa final, ne îndreptăm confortabil spre faimoasa Sunrise Beach, a cărei întindere de nisip te atrage instantaneu după-amiaza. Savurând o băutură rece pe mal, trecem în revistă relaxați impresiile variate și frumoase din turul nostru pe insulă.",
+        "en": "Using motorized transport, we first reach the remote Ao Kwam Lup Li Pe early in the morning. The absolute solitude along this rocky stretch of coast is the perfect start for nature lovers, and right next door, Pantai Galah Beach offers a totally carefree atmosphere.\n\nLater in the morning, we transition to the incredibly quiet bay of Sa Nom Beach, where the fine sand practically begs you to linger. The deeply relaxed flair of this tiny enclave provides a perfect contrast to the wilder coastlines seen earlier.\n\nAfter lunch, we take a slightly longer drive to the rugged north to explore Ao A Yi Ang Beach. Here, the sea crashes a bit more powerfully against the shore, providing dramatic views that perfectly reflect the island's wild, untamed heart.\n\nTo conclude, we cruise comfortably to the famous Sunrise Beach, whose endless sandy expanse is highly inviting in the afternoon. Enjoying a cold drink right on the shore, we lazily review the beautifully diverse impressions gathered throughout our island tour."
+      }
+    }
+  }
+}

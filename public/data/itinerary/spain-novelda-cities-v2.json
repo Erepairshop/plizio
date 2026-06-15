@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-novelda-cities-v2",
+  "anchor": {
+    "name": "Novelda",
+    "coords": [
+      -0.76773,
+      38.38479
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 1.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Modernista",
+            "hu": "Casa Museo Modernista",
+            "ro": "Casa Museo Modernista",
+            "en": "Casa Museo Modernista"
+          },
+          "coords": [
+            -0.765519,
+            38.387008
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem atemberaubenden modernistischen Museum ins frühe 20. Jahrhundert ein und bewundern Sie das originale Mobiliar sowie das exquisite Treppendesign.",
+            "hu": "Lépjen be a 20. század elejére ebben a lenyűgöző modernista múzeumban, és figyelje meg az eredeti bútorokat, miközben megcsodálja a gyönyörű lépcsőkialakítást.",
+            "ro": "Pășiți la începutul secolului al XX-lea în acest muzeu modernist uimitor, observând mobilierul original complex, în timp ce acordați atenție designului rafinat al scărilor.",
+            "en": "Step into the early 20th century at this stunning modernist museum, observing the intricate original furnishings while taking note of the exquisite staircase design."
+          }
+        },
+        {
+          "name": {
+            "de": "Fundación Jorge Juan",
+            "hu": "Fundación Jorge Juan",
+            "ro": "Fundación Jorge Juan",
+            "en": "Fundación Jorge Juan"
+          },
+          "coords": [
+            -0.767038,
+            38.383963
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe des Wissenschaftlers Jorge Juan in diesem Museum, aber vergessen Sie nicht, auch die temporären Ausstellungsräume zur Lokalgeschichte zu besuchen.",
+            "hu": "Fedezze fel a neves tudós, Jorge Juan örökségét ebben a múzeumban, de mindenképpen tekintse meg a helytörténeti kiállításokat bemutató időszakos termeket is.",
+            "ro": "Descoperiți moștenirea eminentului om de știință Jorge Juan în acest spațiu dedicat, dar asigurați-vă că verificați sălile de expoziții temporare pentru istoria locală.",
+            "en": "Discover the legacy of the prominent scientist Jorge Juan in this dedicated space, but make sure to check the temporary exhibition rooms for local history displays."
+          }
+        },
+        {
+          "name": {
+            "de": "iglesia de San Roque",
+            "hu": "iglesia de San Roque",
+            "ro": "iglesia de San Roque",
+            "en": "iglesia de San Roque"
+          },
+          "coords": [
+            -0.77086,
+            38.383709
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser traditionellen Kirche, deren wunderschöner Altaraufsatz Ihnen einen Einblick in den tiefen Glauben Noveldas gewährt.",
+            "hu": "Csodálja meg e hagyományos helyi templom békés hangulatát, ahol a gyönyörű oltárkép megfigyelése bepillantást enged Novelda mély vallásosságába.",
+            "ro": "Admirați atmosfera liniștită a acestei biserici tradiționale, unde observarea frumosului altar vă va oferi o privire asupra credinței profunde a orașului Novelda.",
+            "en": "Admire the peaceful atmosphere of this traditional local church, where paying attention to the beautiful altarpiece will give you a glimpse into Novelda's deep faith."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal",
+            "hu": "Auditorio Municipal",
+            "ro": "Auditorio Municipal",
+            "en": "Auditorio Municipal"
+          },
+          "coords": [
+            -0.771404,
+            38.386953
+          ],
+          "category": "cultural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie Noveldas kulturellen Herzschlag in diesem zentralen Auditorium, wobei es ratsam ist, vorab den Veranstaltungsplan für eine mögliche offene Probe zu prüfen.",
+            "hu": "Tapasztalja meg Novelda vibráló kulturális lüktetését ebben a központi nézőtéren, bár érdemes előre ellenőrizni a műsorfüzetet egy esetleges nyílt próba reményében.",
+            "ro": "Experimentați ritmul cultural vibrant al orașului la acest auditoriu, deși este bine să verificați programul în avans pentru a prinde poate o repetiție deschisă.",
+            "en": "Experience Novelda's vibrant cultural heartbeat at this central auditorium, though it is best to check the event schedule in advance to possibly catch an open rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre civic i social",
+            "hu": "Centre civic i social",
+            "ro": "Centre civic i social",
+            "en": "Centre civic i social"
+          },
+          "coords": [
+            -0.770451,
+            38.381039
+          ],
+          "category": "cultural",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre kulturelle Erkundung an diesem lebhaften Treffpunkt ab und ruhen Sie sich in der Sitzecke aus, wo sich Einheimische oft auf einen Plausch treffen.",
+            "hu": "Fejezze be kulturális felfedezőútját ebben a nyüzsgő közösségi központban, és pihenjen meg az ülőhelyeken, ahol a helyiek gyakran gyűlnek össze délutáni beszélgetésekre.",
+            "ro": "Încheiați-vă explorarea culturală la acest centru comunitar plin de viață și odihniți-vă în zona de relaxare unde localnicii se adună adesea pentru discuții.",
+            "en": "Wrap up your cultural exploration at this lively community hub, and take a moment to rest in the seating area where locals often gather for afternoon chats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in die architektonische Schönheit der Casa Museo Modernista eintauchen.\nGegen Mittag widmen Sie sich den wissenschaftlichen Errungenschaften in der Fundación Jorge Juan und genießen eine ruhige Besinnung in der iglesia de San Roque.\nVerbringen Sie Ihren Nachmittag mit der lebendigen lokalen Kunstszene im Auditorio Municipal.\nBeenden Sie den Tag im Centre civic i social, wo der wahre Alltagsgeist der Gemeinde von Novelda lebendig wird.",
+        "hu": "Kezdje a napot a Casa Museo Modernista építészeti szépségének felfedezésével, amely egy igazi helyi gyöngyszem.\nDélben tekintse meg a Fundación Jorge Juan tudományos kiállításait, majd tartson egy csendes pihenőt az iglesia de San Roque templomban.\nDélutánját töltse az Auditorio Municipal élénk helyi művészeti színterének megismerésével.\nZárja a napot a Centre civic i social épületében, ahol Novelda közösségének igazi, mindennapi szelleme kel életre.",
+        "ro": "Începeți ziua scufundându-vă în frumusețea arhitecturală a Casei Museo Modernista, o adevărată bijuterie locală.\nLa prânz, treceți la realizările științifice de la Fundación Jorge Juan, urmate de o reflecție liniștită la iglesia de San Roque.\nPetreceți-vă după-amiaza bucurându-vă de scena artistică locală vibrantă la Auditorio Municipal din centrul orașului.\nÎncheiați ziua mergând la Centre civic i social, unde spiritul de zi cu zi al comunității din Novelda prinde viață.",
+        "en": "Begin your day immersing yourself in the architectural beauty of Casa Museo Modernista, a true local gem.\nBy midday, transition into the scientific achievements celebrated at Fundación Jorge Juan, followed by a quiet reflection at iglesia de San Roque.\nSpend your afternoon enjoying the vibrant local arts scene at Auditorio Municipal, right in the city center.\nConclude the day walking to the Centre civic i social, where the true everyday spirit of Novelda's community comes alive."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.36,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Modernista",
+            "hu": "Casa Museo Modernista",
+            "ro": "Casa Museo Modernista",
+            "en": "Casa Museo Modernista"
+          },
+          "coords": [
+            -0.765519,
+            38.387008
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem atemberaubenden modernistischen Museum ins frühe 20. Jahrhundert ein und bewundern Sie das originale Mobiliar sowie das exquisite Treppendesign.",
+            "hu": "Lépjen be a 20. század elejére ebben a lenyűgöző modernista múzeumban, és figyelje meg az eredeti bútorokat, miközben megcsodálja a gyönyörű lépcsőkialakítást.",
+            "ro": "Pășiți la începutul secolului al XX-lea în acest muzeu modernist uimitor, observând mobilierul original complex, în timp ce acordați atenție designului rafinat al scărilor.",
+            "en": "Step into the early 20th century at this stunning modernist museum, observing the intricate original furnishings while taking note of the exquisite staircase design."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Piscina municipal",
+            "ro": "Piscina municipal",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -0.755846,
+            38.384392
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich ab oder genießen Sie das lebhafte Ambiente der städtischen Schwimmbäder, ein toller Ort, wenn Sie Handtuch und Sonnencreme für eine Pause mitbringen.",
+            "hu": "Hűtse le magát a városi medencéknél, amely kiváló hely a családi kikapcsolódásra, ha saját törölközőt és naptejet hoz a napsütéses pihenéshez.",
+            "ro": "Răcoriți-vă sau pur și simplu bucurați-vă de ambianța plină de viață a piscinelor municipale, un loc excelent dacă vă aduceți propriul prosop pentru o pauză însorită.",
+            "en": "Cool off or simply enjoy the lively ambiance of the municipal pools, a great spot for family recreation if you bring your own towel and sunscreen for a sunny break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fundación Jorge Juan",
+            "hu": "Fundación Jorge Juan",
+            "ro": "Fundación Jorge Juan",
+            "en": "Fundación Jorge Juan"
+          },
+          "coords": [
+            -0.767038,
+            38.383963
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe des Wissenschaftlers Jorge Juan in diesem Museum, aber vergessen Sie nicht, auch die temporären Ausstellungsräume zur Lokalgeschichte zu besuchen.",
+            "hu": "Fedezze fel a neves tudós, Jorge Juan örökségét ebben a múzeumban, de mindenképpen tekintse meg a helytörténeti kiállításokat bemutató időszakos termeket is.",
+            "ro": "Descoperiți moștenirea eminentului om de știință Jorge Juan în acest spațiu dedicat, dar asigurați-vă că verificați sălile de expoziții temporare pentru istoria locală.",
+            "en": "Discover the legacy of the prominent scientist Jorge Juan in this dedicated space, but make sure to check the temporary exhibition rooms for local history displays."
+          }
+        },
+        {
+          "name": {
+            "de": "iglesia de San Roque",
+            "hu": "iglesia de San Roque",
+            "ro": "iglesia de San Roque",
+            "en": "iglesia de San Roque"
+          },
+          "coords": [
+            -0.77086,
+            38.383709
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser traditionellen Kirche, deren wunderschöner Altaraufsatz Ihnen einen Einblick in den tiefen Glauben Noveldas gewährt.",
+            "hu": "Csodálja meg e hagyományos helyi templom békés hangulatát, ahol a gyönyörű oltárkép megfigyelése bepillantást enged Novelda mély vallásosságába.",
+            "ro": "Admirați atmosfera liniștită a acestei biserici tradiționale, unde observarea frumosului altar vă va oferi o privire asupra credinței profunde a orașului Novelda.",
+            "en": "Admire the peaceful atmosphere of this traditional local church, where paying attention to the beautiful altarpiece will give you a glimpse into Novelda's deep faith."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Parque del Oeste",
+            "hu": "Auditorio Parque del Oeste",
+            "ro": "Auditorio Parque del Oeste",
+            "en": "Auditorio Parque del Oeste"
+          },
+          "coords": [
+            -0.777547,
+            38.381357
+          ],
+          "category": "cultural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Genießen Sie die Harmonie von Natur und Architektur an diesem Freiluftort und machen Sie einen Spaziergang auf den schattigen Parkwegen, bevor Sie sich ausruhen.",
+            "hu": "Élvezze a természet és az építészet harmóniáját ezen a gyönyörű szabadtéri helyszínen, és tegyen egy rövid sétát az árnyas parki ösvényeken a békés pihenés előtt.",
+            "ro": "Bucurați-vă de armonia naturii cu arhitectura în acest spațiu în aer liber, făcând o scurtă plimbare pe aleile umbrite ale parcului înainte de o pauză liniștită.",
+            "en": "Enjoy the harmony of nature and architecture in this beautiful outdoor venue, taking a short stroll along the shaded park paths before settling in for a peaceful break."
+          }
+        },
+        {
+          "name": {
+            "de": "María Auxiliadora",
+            "hu": "María Auxiliadora",
+            "ro": "María Auxiliadora",
+            "en": "María Auxiliadora"
+          },
+          "coords": [
+            -0.772133,
+            38.378121
+          ],
+          "category": "religious",
+          "arrive_at": "15:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser ruhigen religiösen Stätte, und kommen Sie kurz vor Sonnenuntergang an, um das warme Abendlicht auf der Fassade zu bewundern.",
+            "hu": "Zárja utazását ezen a Keresztények Segítségének szentelt békés vallási helyen, lehetőleg naplemente előtt érkezve, hogy megcsodálja a meleg esti fényeket a homlokzaton.",
+            "ro": "Încheiați călătoria la acest sit religios liniștit dedicat Mariei Ajutorul Creștinilor, ajungând înainte de apus pentru a aprecia lumina caldă de seară pe fațadă.",
+            "en": "Conclude your trip at this serene religious site dedicated to Mary Help of Christians, arriving slightly before sunset to appreciate the warm evening light on its facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der spektakulären Casa Museo Modernista, bevor Sie nach Osten zur Piscina municipal radeln.\nFahren Sie mittags zurück ins Zentrum für etwas Geschichte in der Fundación Jorge Juan und einen ruhigen Halt in der iglesia de San Roque.\nDer Nachmittag lädt Sie ein, die offenen Flächen des Auditorio Parque del Oeste mit dem Fahrrad zu erkunden.\nBeenden Sie Ihr Radabenteuer mit der ruhigen Abendstimmung an der Kirche María Auxiliadora.",
+        "hu": "Kezdje a kerékpározást a látványos Casa Museo Modernista épületénél, mielőtt kelet felé, a nyüzsgő Piscina municipal felé venné az irányt.\nTekerjen vissza a központba egy déli történelemórára a Fundación Jorge Juanhoz, és egy békés megállóra az iglesia de San Roque-hoz.\nA délután hívogatja, hogy kerékpárral fedezze fel az Auditorio Parque del Oeste nyitott tereit.\nFejezze be kerékpáros kalandját a María Auxiliadora templom békés esti hangulatával.",
+        "ro": "Începeți plimbarea la spectaculoasa Casa Museo Modernista înainte de a pedala spre est până la Piscina municipal.\nÎntoarceți-vă spre centru pentru o doză de istorie la amiază la Fundación Jorge Juan și o oprire pașnică la iglesia de San Roque.\nDupă-amiaza vă invită să explorați spațiile deschise ale Auditorio Parque del Oeste pe bicicletă.\nTerminați-vă aventura pe bicicletă cu ambianța senină de seară de la biserica María Auxiliadora.",
+        "en": "Kick off your ride at the spectacular Casa Museo Modernista before cycling east to the lively Piscina municipal.\nPedal back towards the center for a midday dose of history at Fundación Jorge Juan and a peaceful stop at iglesia de San Roque.\nThe afternoon invites you to explore the open spaces of the Auditorio Parque del Oeste on your bike.\nFinish your cycling adventure with the serene evening ambiance at the María Auxiliadora church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.36,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Modernista",
+            "hu": "Casa Museo Modernista",
+            "ro": "Casa Museo Modernista",
+            "en": "Casa Museo Modernista"
+          },
+          "coords": [
+            -0.765519,
+            38.387008
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem atemberaubenden modernistischen Museum ins frühe 20. Jahrhundert ein und bewundern Sie das originale Mobiliar sowie das exquisite Treppendesign.",
+            "hu": "Lépjen be a 20. század elejére ebben a lenyűgöző modernista múzeumban, és figyelje meg az eredeti bútorokat, miközben megcsodálja a gyönyörű lépcsőkialakítást.",
+            "ro": "Pășiți la începutul secolului al XX-lea în acest muzeu modernist uimitor, observând mobilierul original complex, în timp ce acordați atenție designului rafinat al scărilor.",
+            "en": "Step into the early 20th century at this stunning modernist museum, observing the intricate original furnishings while taking note of the exquisite staircase design."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Piscina municipal",
+            "ro": "Piscina municipal",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -0.755846,
+            38.384392
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich ab oder genießen Sie das lebhafte Ambiente der städtischen Schwimmbäder, ein toller Ort, wenn Sie Handtuch und Sonnencreme für eine Pause mitbringen.",
+            "hu": "Hűtse le magát a városi medencéknél, amely kiváló hely a családi kikapcsolódásra, ha saját törölközőt és naptejet hoz a napsütéses pihenéshez.",
+            "ro": "Răcoriți-vă sau pur și simplu bucurați-vă de ambianța plină de viață a piscinelor municipale, un loc excelent dacă vă aduceți propriul prosop pentru o pauză însorită.",
+            "en": "Cool off or simply enjoy the lively ambiance of the municipal pools, a great spot for family recreation if you bring your own towel and sunscreen for a sunny break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fundación Jorge Juan",
+            "hu": "Fundación Jorge Juan",
+            "ro": "Fundación Jorge Juan",
+            "en": "Fundación Jorge Juan"
+          },
+          "coords": [
+            -0.767038,
+            38.383963
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe des Wissenschaftlers Jorge Juan in diesem Museum, aber vergessen Sie nicht, auch die temporären Ausstellungsräume zur Lokalgeschichte zu besuchen.",
+            "hu": "Fedezze fel a neves tudós, Jorge Juan örökségét ebben a múzeumban, de mindenképpen tekintse meg a helytörténeti kiállításokat bemutató időszakos termeket is.",
+            "ro": "Descoperiți moștenirea eminentului om de știință Jorge Juan în acest spațiu dedicat, dar asigurați-vă că verificați sălile de expoziții temporare pentru istoria locală.",
+            "en": "Discover the legacy of the prominent scientist Jorge Juan in this dedicated space, but make sure to check the temporary exhibition rooms for local history displays."
+          }
+        },
+        {
+          "name": {
+            "de": "iglesia de San Roque",
+            "hu": "iglesia de San Roque",
+            "ro": "iglesia de San Roque",
+            "en": "iglesia de San Roque"
+          },
+          "coords": [
+            -0.77086,
+            38.383709
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser traditionellen Kirche, deren wunderschöner Altaraufsatz Ihnen einen Einblick in den tiefen Glauben Noveldas gewährt.",
+            "hu": "Csodálja meg e hagyományos helyi templom békés hangulatát, ahol a gyönyörű oltárkép megfigyelése bepillantást enged Novelda mély vallásosságába.",
+            "ro": "Admirați atmosfera liniștită a acestei biserici tradiționale, unde observarea frumosului altar vă va oferi o privire asupra credinței profunde a orașului Novelda.",
+            "en": "Admire the peaceful atmosphere of this traditional local church, where paying attention to the beautiful altarpiece will give you a glimpse into Novelda's deep faith."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Parque del Oeste",
+            "hu": "Auditorio Parque del Oeste",
+            "ro": "Auditorio Parque del Oeste",
+            "en": "Auditorio Parque del Oeste"
+          },
+          "coords": [
+            -0.777547,
+            38.381357
+          ],
+          "category": "cultural",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Genießen Sie die Harmonie von Natur und Architektur an diesem Freiluftort und machen Sie einen Spaziergang auf den schattigen Parkwegen, bevor Sie sich ausruhen.",
+            "hu": "Élvezze a természet és az építészet harmóniáját ezen a gyönyörű szabadtéri helyszínen, és tegyen egy rövid sétát az árnyas parki ösvényeken a békés pihenés előtt.",
+            "ro": "Bucurați-vă de armonia naturii cu arhitectura în acest spațiu în aer liber, făcând o scurtă plimbare pe aleile umbrite ale parcului înainte de o pauză liniștită.",
+            "en": "Enjoy the harmony of nature and architecture in this beautiful outdoor venue, taking a short stroll along the shaded park paths before settling in for a peaceful break."
+          }
+        },
+        {
+          "name": {
+            "de": "María Auxiliadora",
+            "hu": "María Auxiliadora",
+            "ro": "María Auxiliadora",
+            "en": "María Auxiliadora"
+          },
+          "coords": [
+            -0.772133,
+            38.378121
+          ],
+          "category": "religious",
+          "arrive_at": "15:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser ruhigen religiösen Stätte, und kommen Sie kurz vor Sonnenuntergang an, um das warme Abendlicht auf der Fassade zu bewundern.",
+            "hu": "Zárja utazását ezen a Keresztények Segítségének szentelt békés vallási helyen, lehetőleg naplemente előtt érkezve, hogy megcsodálja a meleg esti fényeket a homlokzaton.",
+            "ro": "Încheiați călătoria la acest sit religios liniștit dedicat Mariei Ajutorul Creștinilor, ajungând înainte de apus pentru a aprecia lumina caldă de seară pe fațadă.",
+            "en": "Conclude your trip at this serene religious site dedicated to Mary Help of Christians, arriving slightly before sunset to appreciate the warm evening light on its facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Casa Museo Modernista, gefolgt von einem kurzen Ausflug zur Piscina municipal.\nFahren Sie zurück in den historischen Kern, um die Fundación Jorge Juan und die nahe gelegene iglesia de San Roque zu besuchen.\nSpäter fahren Sie in den Westen der Stadt, um die architektonische und natürliche Schönheit des Auditorio Parque del Oeste zu genießen.\nParken Sie gegen Tagesende in der Nähe der María Auxiliadora und genießen Sie die friedliche Atmosphäre.",
+        "hu": "Kezdje az utazást a híres Casa Museo Modernista épületénél, majd tegyen egy gyors kitérőt a Piscina municipal környékére.\nNavigáljon vissza a történelmi központba, hogy meglátogassa a Fundación Jorge Juant és a közeli iglesia de San Roque-t.\nKésőbb vezessen a város nyugati része felé, hogy élvezze az Auditorio Parque del Oeste természeti szépségeit.\nParkoljon le a María Auxiliadora közelében a nap végén, és élvezze ennek a déli nevezetességnek a békés hangulatát.",
+        "ro": "Începeți condusul la renumita Casa Museo Modernista, urmată de o scurtă excursie la zona Piscina municipal.\nNavigați înapoi în centrul istoric pentru a vizita Fundación Jorge Juan și biserica din apropiere iglesia de San Roque.\nMai târziu, conduceți spre partea de vest a orașului pentru a vă bucura de frumusețea naturală a Auditorio Parque del Oeste.\nParcați lângă María Auxiliadora la închiderea zilei, bucurându-vă de atmosfera liniștită a acestui reper sudic.",
+        "en": "Start your drive at the renowned Casa Museo Modernista, followed by a quick trip to the Piscina municipal area.\nNavigate back to the historical core to visit the engaging Fundación Jorge Juan and the nearby iglesia de San Roque.\nLater, drive towards the western side of town to enjoy the architectural and natural beauty of Auditorio Parque del Oeste.\nPark near María Auxiliadora as the day closes, enjoying the peaceful atmosphere of this southern landmark."
+      }
+    }
+  }
+}

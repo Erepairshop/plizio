@@ -1,0 +1,474 @@
+{
+  "city_id": "yogyakarta-cities-v2",
+  "anchor": {
+    "name": "Yogyakarta",
+    "coords": [
+      110.3695,
+      -7.7956
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kelenteng Poncowinatan",
+            "hu": "Kelenteng Poncowinatan",
+            "ro": "Kelenteng Poncowinatan",
+            "en": "Kelenteng Poncowinatan"
+          },
+          "coords": [
+            110.36567,
+            -7.782013
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvolle Architektur dieses historischen chinesischen Tempels und achten Sie bei Ihrem Besuch auf bescheidene Kleidung.",
+            "hu": "Csodálja meg a történelmi kínai templom díszes építészetét, és ne feledjen szerényen öltözni, illetve halkan beszélni a látogatás során.",
+            "ro": "Admirați arhitectura bogat ornamentată a acestui templu chinezesc istoric și amintiți-vă să vă îmbrăcați modest și să vorbiți încet aici.",
+            "en": "Marvel at the ornate architecture of this historic Chinese temple, and remember to dress modestly and speak quietly during your visit here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Pal Putih Yogyakarta",
+            "hu": "Tugu Pal Putih Yogyakarta",
+            "ro": "Tugu Pal Putih Yogyakarta",
+            "en": "Tugu Pal Putih Yogyakarta"
+          },
+          "coords": [
+            110.367071,
+            -7.78291
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Denkmal der Stadtgeschichte, aber seien Sie beim Überqueren des Kreisverkehrs wegen des Verkehrs vorsichtig.",
+            "hu": "Készítsen fotókat a város szellemét jelképező ikonikus emlékműről, de legyen nagyon óvatos a forgalommal, amikor átkel a körforgalmon.",
+            "ro": "Fotografiați acest monument emblematic ce simbolizează spiritul orașului, dar fiți foarte atenți la traficul intens când traversați intersecția.",
+            "en": "Capture photos of this iconic monument symbolizing the city's spirit, but be very careful of the busy traffic when crossing the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Romo Mangun Museum",
+            "hu": "Romo Mangun Múzeum",
+            "ro": "Muzeul Romo Mangun",
+            "en": "Romo Mangun Museum"
+          },
+          "coords": [
+            110.370944,
+            -7.784257
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Architekturmodelle und das soziale Erbe von Y.B. Mangunwijaya und nehmen Sie sich Zeit für die ausgestellten Skizzen.",
+            "hu": "Fedezze fel Y.B. Mangunwijaya építészeti modelljeit és társadalmi örökségét, időt szánva a bent kiállított bonyolult vázlatok tanulmányozására.",
+            "ro": "Explorați machetele arhitecturale și moștenirea socială a lui Y.B. Mangunwijaya, alocându-vă timp pentru a studia schițele complexe expuse.",
+            "en": "Explore the architectural models and social legacy of Y.B. Mangunwijaya, taking your time to study the intricate sketches displayed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pusat TNI AD \"Dharma Wiratama\"",
+            "hu": "TNI AD Központi Múzeum",
+            "ro": "Muzeul Pusat TNI AD",
+            "en": "Museum Pusat TNI AD \"Dharma Wiratama\""
+          },
+          "coords": [
+            110.375453,
+            -7.782439
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die indonesische Militärgeschichte durch umfangreiche Waffensammlungen und konzentrieren Sie sich auf die spannenden Dioramen.",
+            "hu": "Ismerje meg Indonézia hadtörténetét a fegyver- és egyenruha-gyűjteményeken keresztül, különös figyelmet fordítva a csatákat bemutató diorámákra.",
+            "ro": "Descoperiți istoria militară a Indoneziei prin colecțiile vaste de arme și uniforme, concentrându-vă pe dioramele care explică bătăliile cheie.",
+            "en": "Discover Indonesia's military history through extensive collections of weapons and uniforms, focusing on the dioramas that explain key battles."
+          }
+        },
+        {
+          "name": {
+            "de": "Jembatan Kewek",
+            "hu": "Jembatan Kewek",
+            "ro": "Jembatan Kewek",
+            "en": "Jembatan Kewek"
+          },
+          "coords": [
+            110.368744,
+            -7.789946
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese historische Eisenbahnbrücke mit einzigartigem Blick auf die Stadt und sichern Sie Ihren Kameragurt beim Fotografieren.",
+            "hu": "Sétáljon át ezen a történelmi vasúti hídon, amely egyedi kilátást nyújt a városra, és fényképezés közben rögzítse biztonságosan a fényképezőgépét.",
+            "ro": "Traversați acest pod feroviar istoric care oferă o perspectivă unică asupra orașului și asigurați-vă cureaua camerei în timp ce faceți poze.",
+            "en": "Walk across this historic railway bridge offering a unique perspective of the city below, and secure your camera strap while taking pictures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der spirituellen Atmosphäre von Kelenteng Poncowinatan. Nur einen kurzen Spaziergang entfernt steht das ikonische Denkmal Tugu Pal Putih, das fest im geschäftigen Straßenleben Yogyakartas verankert ist.\n\nGegen Mittag ziehen Sie sich in den kreativen Raum des Romo Mangun Museums zurück. Hier entdecken Sie das brillante Erbe eines der größten Architekten und sozialen Verfechter Indonesiens in einer wunderschön gestalteten Umgebung.\n\nVerbringen Sie Ihren Nachmittag mit der Erkundung der Sammlungen im Dharma Wiratama Museum. Verfolgen Sie die Militärgeschichte der Nation durch faszinierende Dioramen und historische Waffen in einem kolonialen Gebäude.\n\nWenn der Abend hereinbricht, machen Sie sich auf den Weg zur Jembatan Kewek. Diese historische Eisenbahnbrücke bietet einen großartigen Aussichtspunkt, um den Übergang der Stadt von Tag zu Nacht zu beobachten.",
+        "hu": "Kezdje a reggelt a Kelenteng Poncowinatan templom spirituális légkörében, majd sétáljon el a közeli Tugu Pal Putih ikonikus fehér emlékművéhez, amely Yogyakarta nyüzsgő utcai életének egyik legfőbb tájékozódási pontja.\n\nAhogy közeledik a dél, vonuljon vissza a Romo Mangun Múzeum kreatív terébe, ahol felfedezheti Indonézia egyik legnagyobb építészének és társadalmi szószólójának zseniális örökségét egy gyönyörűen megtervezett környezetben.\n\nDélután fedezze fel a Dharma Wiratama Múzeum hatalmas gyűjteményeit. Itt nyomon követheti a nemzet hadtörténetét az egykori gyarmati épületben elhelyezett lenyűgöző diorámákon és történelmi fegyvereken keresztül.\n\nAz este közeledtével látogasson el a Jembatan Kewekhez. Ez a történelmi vasúti híd látványos kilátást kínál, ahonnan megfigyelheti a város nappalból éjszakába hajló átmenetét és a helyi vibráló energiákat.",
+        "ro": "Începeți dimineața în atmosfera spirituală a templului Kelenteng Poncowinatan. La o scurtă plimbare se află iconicul Tugu Pal Putih, un monument alb strălucitor care ancorează viața stradală plină de viață a orașului Yogyakarta.\n\nPe măsură ce se apropie amiaza, retrageți-vă în spațiul creativ al Muzeului Romo Mangun, unde veți descoperi moștenirea unuia dintre cei mai mari arhitecți ai Indoneziei într-un cadru frumos proiectat și liniștit.\n\nPetreceți după-amiaza explorând colecțiile vaste de la Muzeul Dharma Wiratama. Aici, puteți urmări istoria militară a națiunii prin diorame fascinante și arme istorice adăpostite într-o clădire colonială impresionantă.\n\nOdată cu lăsarea serii, îndreptați-vă spre Jembatan Kewek. Acest pod feroviar istoric oferă un punct de observație spectaculos pentru a privi tranziția orașului de la zi la noapte, surprinzând energia locală vibrantă.",
+        "en": "Begin your morning immersing yourself in the spiritual atmosphere of Kelenteng Poncowinatan, taking in the intricate details. Just a short stroll away stands the iconic Tugu Pal Putih, a brilliant white monument that anchors Yogyakarta’s bustling street life.\n\nAs midday approaches, retreat into the creative space of the Romo Mangun Museum, where you will discover the brilliant legacy of one of Indonesia’s greatest architects and social advocates in a beautifully designed setting.\n\nSpend your afternoon exploring the vast collections at the Dharma Wiratama Museum. Here, you can trace the nation's military history through fascinating dioramas and historic weaponry housed within a striking colonial building.\n\nAs evening falls, make your way to Jembatan Kewek. This historic railway bridge offers a spectacular vantage point to watch the city transition from day to night, capturing the vibrant local energy."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Monumen Pangeran Diponegoro",
+            "hu": "Pangeran Diponegoro Emlékmúzeum",
+            "ro": "Muzeul Monumen Pangeran Diponegoro",
+            "en": "Museum Monumen Pangeran Diponegoro"
+          },
+          "coords": [
+            110.351489,
+            -7.78652
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie an dieser Gedenkstätte mehr über den heldenhaften Javakrieg und achten Sie auf die von Prinz Diponegoro durchbrochene Mauer.",
+            "hu": "Ismerje meg a hősies jávai háborút ezen a szent emlékhelyen, és keresse meg azt az eredeti falat, amelyet Diponegoro herceg tört át meneküléskor.",
+            "ro": "Aflați despre Războiul din Java vizitând acest memorial sacru și căutați zidul original spart în timpul evadării Prințului Diponegoro.",
+            "en": "Learn about the heroic Java War by visiting this sacred memorial site, and look out for the original wall broken by Prince Diponegoro's escape."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Pal Putih Yogyakarta",
+            "hu": "Tugu Pal Putih Yogyakarta",
+            "ro": "Tugu Pal Putih Yogyakarta",
+            "en": "Tugu Pal Putih Yogyakarta"
+          },
+          "coords": [
+            110.367071,
+            -7.78291
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Denkmal der Stadtgeschichte, aber seien Sie beim Überqueren des Kreisverkehrs wegen des Verkehrs vorsichtig.",
+            "hu": "Készítsen fotókat a város szellemét jelképező ikonikus emlékműről, de legyen nagyon óvatos a forgalommal, amikor átkel a körforgalmon.",
+            "ro": "Fotografiați acest monument emblematic ce simbolizează spiritul orașului, dar fiți foarte atenți la traficul intens când traversați intersecția.",
+            "en": "Capture photos of this iconic monument symbolizing the city's spirit, but be very careful of the busy traffic when crossing the roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Pakualaman",
+            "hu": "Pura Pakualaman",
+            "ro": "Pura Pakualaman",
+            "en": "Pura Pakualaman"
+          },
+          "coords": [
+            110.376253,
+            -7.799889
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen eleganten Palast, um traditionelle Gamelan-Sets zu sehen, und engagieren Sie einen lokalen Führer für mehr Kontext.",
+            "hu": "Sétáljon végig ezen az elegáns kisebb palotán, hogy megnézze a hagyományos gamelánokat, és fontolja meg egy helyi idegenvezető fogadását.",
+            "ro": "Plimbați-vă prin acest palat regal elegant pentru a vedea seturile tradiționale de gamelan și angajați un ghid local pentru context istoric.",
+            "en": "Wander through this elegant minor royal palace to see its traditional gamelan sets, and consider hiring a local guide for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Katolik Santo Yusuf Bintaran",
+            "hu": "Gereja Katolik Santo Yusuf Bintaran",
+            "ro": "Gereja Katolik Santo Yusuf Bintaran",
+            "en": "Gereja Katolik Santo Yusuf Bintaran"
+          },
+          "coords": [
+            110.372871,
+            -7.803003
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die javanisch-europäische Architektur dieser historischen Kirche und besuchen Sie sie in ruhigen Stunden aus Respekt vor Gläubigen.",
+            "hu": "Csodálja meg e történelmi templom jávai-európai építészeti fúzióját, ügyelve arra, hogy csendes órákban látogasson el a hívők tiszteletben tartása miatt.",
+            "ro": "Admirați fuziunea arhitecturală javaneză-europeană a acestei biserici istorice, asigurându-vă că vizitați în ore liniștite pentru respect.",
+            "en": "Admire the beautiful Javanese-European architectural fusion of this historic church, ensuring you visit during quiet hours to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Gembira Loka Zoo",
+            "hu": "Gembira Loka Állatkert",
+            "ro": "Grădina Zoologică Gembira Loka",
+            "en": "Gembira Loka Zoo"
+          },
+          "coords": [
+            110.396568,
+            -7.805859
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Begegnen Sie exotischen Tieren wie Komodowaranen in diesem üppigen Park und kommen Sie früh morgens an, um die starke Nachmittagshitze zu meiden.",
+            "hu": "Találkozzon egzotikus vadvilággal, köztük komodói sárkányokkal ebben a buja parkban, és érkezzen kora reggel a délutáni hőség elkerülése végett.",
+            "ro": "Întâlniți animale sălbatice exotice în acest parc botanic luxuriant și sosiți dimineața devreme pentru a evita căldura intensă de după-amiază.",
+            "en": "Encounter exotic wildlife including Komodo dragons in this lush botanical park, and arrive early in the morning to avoid the intense afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Affandi Museum",
+            "hu": "Affandi Múzeum",
+            "ro": "Muzeul Affandi",
+            "en": "Affandi Museum"
+          },
+          "coords": [
+            110.396317,
+            -7.782789
+          ],
+          "category": "museum",
+          "arrive_at": "16:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die expressiven Werke des indonesischen Meisters in seinem einzigartigen Studio ein und trinken Sie einen Kaffee am Flussufer.",
+            "hu": "Merüljön el Indonézia mesterének expresszív műveiben az egyedi stúdiójában, és igyon egy kávét a folyóparton található kis hangulatos kávézóban.",
+            "ro": "Cufundați-vă în operele expresive ale maestrului Indoneziei găzduite în studioul său și savurați o cafea la mica cafenea de pe malul râului.",
+            "en": "Immerse yourself in the expressive works of Indonesia's maestro housed in his unique studio, and grab a coffee at the small cafe by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Monument Pangeran Diponegoro und tauchen Sie in die Geschichten des Javakrieges ein. Radeln Sie durch die Straßen zum majestätischen Tugu Pal Putih, einem Wahrzeichen der Stadt.\n\nFahren Sie mittags zum ruhigen Pura Pakualaman, einem kleineren königlichen Palast mit historischen Einblicken. Gleich um die Ecke finden Sie stille Einkehr in der schönen Kirche Gereja Katolik Santo Yusuf Bintaran.\n\nDer Nachmittag bringt einen Tempowechsel im üppigen Gembira Loka Zoo, wo Sie Ihr Fahrrad parken und exotische Tiere in einer lebendigen Umgebung erkunden können, die eine wunderbare Flucht aus der Stadt bietet.\n\nBeenden Sie Ihre Fahrt bei Sonnenuntergang im faszinierenden Affandi Museum. Die markante Architektur und die meisterhaften expressionistischen Gemälde bieten einen perfekten, kulturellen Abschluss Ihres aktiven Tages.",
+        "hu": "Kezdje kerékpártúráját a Pangeran Diponegoro Emlékműnél, elmerülve a történelmi jávai háború történeteiben. Tekerjen tovább a város utcáin, hogy elérje a fenséges Tugu Pal Putih-t, egy büszkén álló alapvető nevezetességet.\n\nDélben tekerjen a nyugodt Pura Pakualaman, egy kisebb királyi palota felé, amely mély történelmi betekintést nyújt. Közvetlenül a sarkon csendes elmélkedésre lelhet a gyönyörű Gereja Katolik Santo Yusuf Bintaran templomban.\n\nA délután ritmusváltást hoz a buja Gembira Loka Állatkertben, ahol kényelmesen leparkolhatja kerékpárját, és felfedezheti az egzotikus vadvilágot egy vibráló, természetes környezetben, csodás menedékként.\n\nZárja túráját naplementekor a lenyűgöző Affandi Múzeumban. A jellegzetes építészet és a mesteri expresszionista festmények tökéletes, kulturálisan gazdagító befejezést nyújtanak az aktív napnak.",
+        "ro": "Începeți turul cu bicicleta la Monumentul Pangeran Diponegoro, aprofundând poveștile istoricului Război din Java. Pedalați pe străzile orașului pentru a ajunge la maiestuosul Tugu Pal Putih, un punct de reper esențial.\n\nPentru amiază, mergeți spre serinul Pura Pakualaman, un palat regal minor care oferă perspective istorice profunde. Chiar după colț, găsiți o contemplare liniștită la frumoasa biserică Catolică Santo Yusuf Bintaran.\n\nDupă-amiaza aduce o schimbare de ritm la luxurianta Grădină Zoologică Gembira Loka, unde vă puteți parca bicicleta pentru a explora fauna exotică într-un cadru natural vibrant, oferind o evadare minunată din oraș.\n\nÎncheiați călătoria la apusul soarelui la fascinantul Muzeu Affandi. Arhitectura distinctivă și picturile expresioniste magistrale oferă un final perfect, îmbogățitor din punct de vedere cultural, pentru ziua activă.",
+        "en": "Kick off your cycling tour at the Monumen Pangeran Diponegoro, delving into tales of the historic Java War. Pedal onward through the city streets to reach the majestic Tugu Pal Putih, an essential landmark standing proudly.\n\nFor midday, ride towards the serene Pura Pakualaman, a minor royal palace offering profound historical insights. Just around the corner, find quiet contemplation at the beautiful Gereja Katolik Santo Yusuf Bintaran.\n\nThe afternoon brings a shift in pace at the lush Gembira Loka Zoo, where you can easily park your bike and explore exotic wildlife in a vibrant, natural setting that offers a wonderful escape from the city.\n\nWrap up your ride as the sun sets at the mesmerizing Affandi Museum. The distinctive architecture and the masterful expressionist paintings inside provide a perfect, culturally enriching end to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:07",
+      "total_km": 13.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Andi Bayou Museum",
+            "hu": "Andi Bayou Múzeum",
+            "ro": "Muzeul Andi Bayou",
+            "en": "Andi Bayou Museum"
+          },
+          "coords": [
+            110.348587,
+            -7.775808
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die reiche Musikgeschichte der Region ein und nutzen Sie die Gelegenheit, sich die kuratierten Audioaufnahmen anzuhören.",
+            "hu": "Merüljön el a régió gazdag zenei történelmében ebben a speciális múzeumban, és használja ki a lehetőséget a kurátori hangfelvételek meghallgatására.",
+            "ro": "Pătrundeți în istoria muzicală bogată a regiunii în acest muzeu specializat și profitați de ocazia de a asculta înregistrările audio curatoriate.",
+            "en": "Delve into the rich musical history of the region in this specialized museum, and take the opportunity to listen to the curated audio recordings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Monumen Pangeran Diponegoro",
+            "hu": "Pangeran Diponegoro Emlékmúzeum",
+            "ro": "Muzeul Monumen Pangeran Diponegoro",
+            "en": "Museum Monumen Pangeran Diponegoro"
+          },
+          "coords": [
+            110.351489,
+            -7.78652
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie an dieser Gedenkstätte mehr über den heldenhaften Javakrieg und achten Sie auf die von Prinz Diponegoro durchbrochene Mauer.",
+            "hu": "Ismerje meg a hősies jávai háborút ezen a szent emlékhelyen, és keresse meg azt az eredeti falat, amelyet Diponegoro herceg tört át meneküléskor.",
+            "ro": "Aflați despre Războiul din Java vizitând acest memorial sacru și căutați zidul original spart în timpul evadării Prințului Diponegoro.",
+            "en": "Learn about the heroic Java War by visiting this sacred memorial site, and look out for the original wall broken by Prince Diponegoro's escape."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pendidikan Indonesia",
+            "hu": "Indonéz Oktatási Múzeum",
+            "ro": "Muzeul Educației Indoneziene",
+            "en": "Museum Pendidikan Indonesia"
+          },
+          "coords": [
+            110.387175,
+            -7.774814
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die Entwicklung der indonesischen Bildung anhand faszinierender Artefakte, insbesondere der nachgebauten historischen Klassenzimmer.",
+            "hu": "Kövesse nyomon az indonéz oktatás fejlődését lenyűgöző tárgyakon keresztül, összpontosítva az alsó szinten újraalkotott történelmi osztálytermekre.",
+            "ro": "Urmăriți evoluția educației indoneziene prin artefacte fascinante, concentrându-vă pe sălile de clasă istorice recreate la etajul inferior.",
+            "en": "Trace the evolution of Indonesian education through various fascinating artifacts, focusing on the historical classrooms recreated on the lower floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum RS Mata Dr Yap Prawirohusodo",
+            "hu": "Museum RS Mata Dr Yap Prawirohusodo",
+            "ro": "Museum RS Mata Dr Yap Prawirohusodo",
+            "en": "Museum RS Mata Dr Yap Prawirohusodo"
+          },
+          "coords": [
+            110.374967,
+            -7.780687
+          ],
+          "category": "museum",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Geschichte der Augenheilkunde in diesem Fachmuseum und prüfen Sie die Öffnungszeiten im Voraus, da diese oft kurz sind.",
+            "hu": "Tapasztalja meg a szemészet egyedülálló történetét ebben az orvosi múzeumban, de ellenőrizze a nyitvatartást, mivel az meglehetősen rövid lehet.",
+            "ro": "Experimentați istoria unică a oftalmologiei în acest muzeu medical specializat, verificând orarul în prealabil, deoarece poate fi destul de scurt.",
+            "en": "Experience the unique history of ophthalmology in this highly specialized medical museum, checking the opening hours ahead as they can be quite brief."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Pakualaman",
+            "hu": "Pura Pakualaman",
+            "ro": "Pura Pakualaman",
+            "en": "Pura Pakualaman"
+          },
+          "coords": [
+            110.376253,
+            -7.799889
+          ],
+          "category": "historical",
+          "arrive_at": "16:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen eleganten Palast, um traditionelle Gamelan-Sets zu sehen, und engagieren Sie einen lokalen Führer für mehr Kontext.",
+            "hu": "Sétáljon végig ezen az elegáns kisebb palotán, hogy megnézze a hagyományos gamelánokat, és fontolja meg egy helyi idegenvezető fogadását.",
+            "ro": "Plimbați-vă prin acest palat regal elegant pentru a vedea seturile tradiționale de gamelan și angajați un ghid local pentru context istoric.",
+            "en": "Wander through this elegant minor royal palace to see its traditional gamelan sets, and consider hiring a local guide for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Gembira Loka Zoo",
+            "hu": "Gembira Loka Állatkert",
+            "ro": "Grădina Zoologică Gembira Loka",
+            "en": "Gembira Loka Zoo"
+          },
+          "coords": [
+            110.396568,
+            -7.805859
+          ],
+          "category": "recreational",
+          "arrive_at": "17:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Begegnen Sie exotischen Tieren wie Komodowaranen in diesem üppigen Park und kommen Sie früh morgens an, um die starke Nachmittagshitze zu meiden.",
+            "hu": "Találkozzon egzotikus vadvilággal, köztük komodói sárkányokkal ebben a buja parkban, és érkezzen kora reggel a délutáni hőség elkerülése végett.",
+            "ro": "Întâlniți animale sălbatice exotice în acest parc botanic luxuriant și sosiți dimineața devreme pentru a evita căldura intensă de după-amiază.",
+            "en": "Encounter exotic wildlife including Komodo dragons in this lush botanical park, and arrive early in the morning to avoid the intense afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Vaikuntha Vyomantara",
+            "hu": "Pura Vaikuntha Vyomantara",
+            "ro": "Pura Vaikuntha Vyomantara",
+            "en": "Pura Vaikuntha Vyomantara"
+          },
+          "coords": [
+            110.413828,
+            -7.790598
+          ],
+          "category": "religious",
+          "arrive_at": "18:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in diesem modernen Hindu-Tempel mit markanten Details und stellen Sie sicher, dass Ihre Schultern und Knie vor dem Betreten bedeckt sind.",
+            "hu": "Találjon békére ebben a lenyűgöző részleteiről ismert modern hindu templomban, és belépés előtt gondoskodjon a vállak és térdek eltakarásáról.",
+            "ro": "Găsiți liniștea în acest templu hindus modern, renumit pentru detaliile sale izbitoare, și asigurați-vă că aveți umerii și genunchii acoperiți la intrare.",
+            "en": "Find peace at this modern Hindu temple noted for its striking architectural details, and ensure your shoulders and knees are covered before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour musikalisch im Andi Bayou Museum, bevor Sie die heiligen Stätten des Monumentes Pangeran Diponegoro besuchen, und navigieren Sie bequem durch die vielfältigen kulturellen Angebote der Stadt.\n\nGegen Mittag fahren Sie zum Museum Pendidikan Indonesia, um die Wurzeln der Bildung des Landes zu verfolgen, gefolgt von einem einzigartigen Stopp im Museum RS Mata Dr Yap Prawirohusodo, um Medizingeschichte zu erleben.\n\nDer Nachmittag lädt Sie ein, das königliche Erbe im Pura Pakualaman zu erkunden und dann eine kurze Fahrt zum weitläufigen Gembira Loka Zoo zu unternehmen, der sich perfekt zum Beobachten exotischer Tiere eignet.\n\nBeenden Sie Ihre umfassende Stadtrundfahrt in der Dämmerung im friedlichen Pura Vaikuntha Vyomantara. Dieser markante Hindu-Tempel bietet einen Moment der Besinnung und Ruhe als perfekten Abschluss Ihres Tages.",
+        "hu": "Kezdje autós túráját zenei hangolódással az Andi Bayou Múzeumban, mielőtt a Pangeran Diponegoro Emlékmű szent területeire indulna, kényelmesen navigálva a város változatos kulturális kínálata között.\n\nDél körül autózzon el a Museum Pendidikan Indonesia-ba, hogy felkutassa a nemzet oktatási gyökereit, majd egy egyedülálló, speciális megálló következik a Dr. Yap Prawirohusodo Szemmúzeumban, az orvostörténet jegyében.\n\nA délután a Pura Pakualaman királyi örökségének felfedezésére csábít, majd egy rövid utazással a hatalmas Gembira Loka Állatkertbe juthat, amely tökéletes a botanikus kertekben való sétához és állatok megfigyeléséhez.\n\nZárja le átfogó városnézését a békés Pura Vaikuntha Vyomantara templomban a szürkület beálltával. Ez a lenyűgöző hindu templom egy pillanatnyi elmélkedést és nyugalmat kínál Yogyakarta vibráló napjának megkoronázásaként.",
+        "ro": "Începeți turul auto într-o notă muzicală la Muzeul Andi Bayou înainte de a vă îndrepta spre terenurile sacre ale Monumentului Pangeran Diponegoro, navigând confortabil prin diversele oferte culturale ale orașului.\n\nÎn jurul amiezii, conduceți până la Muzeul Educației Indoneziene pentru a urmări rădăcinile educaționale ale națiunii, urmat de o oprire unică la Muzeul Medical RS Mata Dr. Yap Prawirohusodo pentru o privire istorică.\n\nDupă-amiaza vă invită să explorați moștenirea regală la Pura Pakualaman, apoi faceți o scurtă plimbare până la extinsa Grădină Zoologică Gembira Loka, perfectă pentru a observa animale exotice.\n\nÎncheiați turul cuprinzător al orașului la lăsarea serii, la liniștitul Pura Vaikuntha Vyomantara. Acest impresionant templu hindus oferă un moment de reflecție și liniște pentru a încheia perfect o zi vibrantă.",
+        "en": "Start your driving tour on a musical note at the Andi Bayou Museum before heading to the sacred grounds of Monumen Pangeran Diponegoro, seamlessly navigating the city's diverse cultural offerings in comfort.\n\nAround midday, drive out to the Museum Pendidikan Indonesia to trace the nation's educational roots, followed by a unique, highly specialized stop at the Museum RS Mata Dr Yap Prawirohusodo for a glimpse into medical history.\n\nThe afternoon invites you to explore royal heritage at Pura Pakualaman, then take a short drive to the sprawling Gembira Loka Zoo, perfect for wandering through botanical gardens and observing exotic animals.\n\nConclude your comprehensive city tour as dusk settles over the peaceful Pura Vaikuntha Vyomantara. This striking Hindu temple offers a moment of reflection and tranquility to perfectly cap off a vibrant day in Yogyakarta."
+      }
+    }
+  }
+}

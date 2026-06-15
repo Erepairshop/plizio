@@ -1,0 +1,451 @@
+{
+  "city_id": "arnage",
+  "anchor": {
+    "name": "Arnage",
+    "coords": [
+      0.1878,
+      47.9261
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 3.08,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Arnage",
+            "hu": "Arnage Vasútállomás",
+            "ro": "Gara Arnage",
+            "en": "Arnage Railway Station"
+          },
+          "coords": [
+            0.190013,
+            47.928579
+          ],
+          "category": "station",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour durch Arnage an diesem klassischen ländlichen Bahnhof, um die lokale Atmosphäre aufzusaugen, bevor Sie ins Zentrum spazieren.",
+            "hu": "Kezdje arnage-i felfedezőútját ezen a klasszikus vidéki francia vasútállomáson, hogy magába szívja a helyi hangulatot, mielőtt besétál a központba.",
+            "ro": "Începeți explorarea orașului Arnage la această gară rurală clasică pentru a absorbi atmosfera locală înainte de a vă plimba spre centrul orașului.",
+            "en": "Begin your Arnage exploration at this classic French rural station to soak in the local atmosphere before walking into the heart of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            0.184587,
+            47.93096
+          ],
+          "category": "religious",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieser zentralen Kirche und genießen Sie einen Moment der Ruhe, wobei Sie auf laufende Gottesdienste achten sollten.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző történelmi építészetét, és töltsön el egy percet csendes elmélkedéssel, de ügyeljen a folyó istentiszteletekre.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș de cult central și bucurați-vă de un moment de liniște, dar aveți grijă să respectați slujbele locale.",
+            "en": "Admire the striking historical architecture of this central religious site and take a moment of quiet reflection, but remember to respect ongoing local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum L'Éolienne",
+            "hu": "L'Éolienne Kulturális Központ",
+            "ro": "Centrul Cultural L'Éolienne",
+            "en": "L'Éolienne Cultural Centre"
+          },
+          "coords": [
+            0.18414,
+            47.936671
+          ],
+          "category": "cultural",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch zeitgenössische Kunst und Ausstellungen in die lokale Kultur ein und werfen Sie unbedingt einen Blick auf das saisonale Programm am Eingang.",
+            "hu": "Merüljön el a helyi kultúrában a kortárs művészeti kiállításokon keresztül, és mindenképpen ellenőrizze az aktuális szezonális programot a bejáratnál.",
+            "ro": "Pătrundeți în cultura locală prin intermediul expozițiilor de artă contemporană și verificați neapărat programul sezonier disponibil la intrare.",
+            "en": "Dive into local culture through engaging contemporary art and community exhibitions here, making sure to check their seasonal program schedule at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parcours de la Gautrie",
+            "hu": "Parcours de la Gautrie",
+            "ro": "Parcours de la Gautrie",
+            "en": "Parcours de la Gautrie"
+          },
+          "coords": [
+            0.192866,
+            47.94331
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese gut gepflegten Erholungswege, die eine grüne Oase bieten, und bringen Sie bequeme Wanderschuhe für das leicht unebene Gelände mit.",
+            "hu": "Sétáljon végig ezeken a jól karbantartott szabadidős ösvényeken, amelyek zöld oázist kínálnak, és hozzon kényelmes cipőt a kissé egyenetlen terepre.",
+            "ro": "Plimbați-vă pe aceste trasee recreative bine întreținute care oferă un sanctuar verde, asigurându-vă că aveți încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Stroll along these well-maintained recreational paths that offer a green sanctuary, bringing comfortable walking shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Gèmerie",
+            "hu": "Lac de la Gèmerie",
+            "ro": "Lac de la Gèmerie",
+            "en": "Lac de la Gèmerie"
+          },
+          "coords": [
+            0.179233,
+            47.943756
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses wunderschönen Sees, an dem Familien picknicken, und mieten Sie bei gutem Wetter ein kleines Tretboot.",
+            "hu": "Pihenjen meg a családok körében népszerű tó békés partján egy piknik keretében, és jó idő esetén béreljen egy kis vízibiciklit a kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac frumos unde familiile se adună pentru picnicuri și luați în considerare închirierea unei hidrobiciclete dacă vremea permite.",
+            "en": "Relax by the calm waters of this beautiful lake where families gather for picnics, and consider renting a small paddleboat if the weather allows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang vom malerischen Bahnhof zur historischen Kirche Saint-Gilles. Mittags lädt das Kulturzentrum dazu ein, die lokale Kunstszene zu entdecken. Am Nachmittag können Sie sich auf den grünen Wegen des Parcours de la Gautrie die Beine vertreten. Lassen Sie den Tag entspannt am friedlichen Ufer des Lac de la Gèmerie ausklingen.",
+        "hu": "Kezdje a reggelt egy békés sétával a hangulatos vasútállomástól a történelmi Saint-Gilles templomig. A déli órákban a kulturális központ nyújt betekintést a helyi művészeti életbe. Délután mozgassa át végtagjait a Parcours de la Gautrie zöldellő ösvényein. Zárja a napot egy pihentető sétával a Lac de la Gèmerie tükröződő víztükre mellett az est közeledtével.",
+        "ro": "Începeți dimineața cu o plimbare liniștită de la gara pitorească la istorica Biserică Saint-Gilles. La prânz, explorați creativitatea locală la centrul cultural înainte de a lua o gustare. După-amiaza, faceți o drumeție pe cărările verzi ale Parcours de la Gautrie. Încheiați-vă ziua relaxându-vă pe malurile pitorești ale lacului Gèmerie odată cu lăsarea serii.",
+        "en": "Start your morning with a peaceful walk from the quaint railway station to the historic Saint-Gilles Church. Midday invites you to explore local creativity at the cultural centre before grabbing a quick bite nearby. In the afternoon, stretch your legs along the green pathways of Parcours de la Gautrie. Conclude your day relaxing by the reflective waters of Lac de la Gèmerie as evening sets in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            0.184587,
+            47.93096
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieser zentralen Kirche und genießen Sie einen Moment der Ruhe, wobei Sie auf laufende Gottesdienste achten sollten.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző történelmi építészetét, és töltsön el egy percet csendes elmélkedéssel, de ügyeljen a folyó istentiszteletekre.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș de cult central și bucurați-vă de un moment de liniște, dar aveți grijă să respectați slujbele locale.",
+            "en": "Admire the striking historical architecture of this central religious site and take a moment of quiet reflection, but remember to respect ongoing local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum L'Éolienne",
+            "hu": "L'Éolienne Kulturális Központ",
+            "ro": "Centrul Cultural L'Éolienne",
+            "en": "L'Éolienne Cultural Centre"
+          },
+          "coords": [
+            0.18414,
+            47.936671
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch zeitgenössische Kunst und Ausstellungen in die lokale Kultur ein und werfen Sie unbedingt einen Blick auf das saisonale Programm am Eingang.",
+            "hu": "Merüljön el a helyi kultúrában a kortárs művészeti kiállításokon keresztül, és mindenképpen ellenőrizze az aktuális szezonális programot a bejáratnál.",
+            "ro": "Pătrundeți în cultura locală prin intermediul expozițiilor de artă contemporană și verificați neapărat programul sezonier disponibil la intrare.",
+            "en": "Dive into local culture through engaging contemporary art and community exhibitions here, making sure to check their seasonal program schedule at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Gèmerie",
+            "hu": "Lac de la Gèmerie",
+            "ro": "Lac de la Gèmerie",
+            "en": "Lac de la Gèmerie"
+          },
+          "coords": [
+            0.179233,
+            47.943756
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses wunderschönen Sees, an dem Familien picknicken, und mieten Sie bei gutem Wetter ein kleines Tretboot.",
+            "hu": "Pihenjen meg a családok körében népszerű tó békés partján egy piknik keretében, és jó idő esetén béreljen egy kis vízibiciklit a kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac frumos unde familiile se adună pentru picnicuri și luați în considerare închirierea unei hidrobiciclete dacă vremea permite.",
+            "en": "Relax by the calm waters of this beautiful lake where families gather for picnics, and consider renting a small paddleboat if the weather allows."
+          }
+        },
+        {
+          "name": {
+            "de": "Wake Paradise",
+            "hu": "Wake Paradise",
+            "ro": "Wake Paradise",
+            "en": "Wake Paradise"
+          },
+          "coords": [
+            0.164774,
+            47.934416
+          ],
+          "category": "family",
+          "arrive_at": "12:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des Wassersports in dieser modernen Wakeboard-Anlage, aber buchen Sie Ihre Einführungssession an geschäftigen Sommerwochenenden im Voraus.",
+            "hu": "Tapasztalja meg a vízi sportok izgalmát ebben a modern wakeboard központban, de a forgalmas nyári hétvégéken érdemes előre lefoglalni a bevezető órát.",
+            "ro": "Experimentați emoția sporturilor nautice la această facilitate modernă de wakeboard, dar rezervați-vă sesiunea de inițiere în avans în weekendurile aglomerate de vară.",
+            "en": "Experience the thrill of water sports at this modern wakeboarding facility, but book your introductory session in advance during the busy summer weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit de la Sarthe",
+            "hu": "Circuit de la Sarthe",
+            "ro": "Circuit de la Sarthe",
+            "en": "Circuit de la Sarthe"
+          },
+          "coords": [
+            0.207531,
+            47.949861
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte des Motorsports rund um diesen legendären Streckenabschnitt und halten Sie Ausschau nach speziellen, öffentlich zugänglichen Aussichtspunkten.",
+            "hu": "Érezze a motorsport történelmét e legendás versenypálya-szakasz körül, és keresse a nagyközönség számára is hozzáférhető, különleges kilátópontokat.",
+            "ro": "Simțiți istoria sporturilor cu motor în jurul acestui segment legendar al circuitului de anduranță și căutați punctele de observație accesibile publicului larg.",
+            "en": "Feel the motorsport history buzzing around this legendary endurance racing track section, keeping an eye out for specific vantage points accessible to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Sarthe",
+            "hu": "Sarthe folyópart",
+            "ro": "Malurile râului Sarthe",
+            "en": "Sarthe Riverbanks"
+          },
+          "coords": [
+            0.209474,
+            47.973728
+          ],
+          "category": "natural",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.64,
+          "tip_5lang": {
+            "de": "Radeln Sie an den üppigen Flussufern entlang, um die lokale Tierwelt in ruhiger Umgebung zu beobachten, und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Kerékpározzon a buja folyóparton, hogy békés környezetben figyelhesse meg a helyi élővilágot, és hozzon magával távcsövet a vízimadarak megfigyeléséhez.",
+            "ro": "Mergeți cu bicicleta de-a lungul malurilor verzi pentru a observa fauna locală într-un cadru liniștit și aduceți un binoclu pentru a admira păsările de pe apă.",
+            "en": "Cycle along the lush riverbanks to enjoy observing local wildlife in a peaceful setting, bringing a pair of binoculars for birdwatching along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zur zentralen Kirche, bevor Sie das Kulturzentrum besuchen, um regionale Kunst zu bewundern. Zur Mittagszeit führt Sie Ihre Fahrt zum ruhigen Lac de la Gèmerie. Der Nachmittag bringt Spannung im Wake Paradise und an der legendären Rennstrecke. Ihr aktiver Tag klingt mit einer friedlichen abendlichen Radtour entlang der malerischen Ufer der Sarthe aus.",
+        "hu": "Kora reggel tekerjen el a központi templomhoz, majd látogasson el a kulturális központba. Délben útja a békés Lac de la Gèmerie-hez vezet egy festői ebédszünetre. A délután izgalmakat tartogat a Wake Paradise és a legendás Circuit de la Sarthe révén. Az aktív napot egy csendes esti kerékpározás zárja a festői Sarthe folyó partján.",
+        "ro": "Porniți devreme pe bicicletă spre biserica centrală înainte de a vizita centrul cultural. La prânz, traseul vă duce la liniștitul lac Gèmerie pentru o pauză pitorească. După-amiaza intensifică emoția la Wake Paradise și la legendarul circuit. Ziua activă se încheie cu o plimbare de seară pe malurile râului Sarthe.",
+        "en": "Pedal out early to the central church before visiting the cultural centre to admire regional art. By midday, your ride takes you to the serene Lac de la Gèmerie for a picturesque lunch break. The afternoon ramps up the excitement at Wake Paradise and the legendary Circuit de la Sarthe. Your active day winds down with a tranquil evening ride along the picturesque Sarthe Riverbanks."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 16.49,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gilles Kirche",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            0.184587,
+            47.93096
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieser zentralen Kirche und genießen Sie einen Moment der Ruhe, wobei Sie auf laufende Gottesdienste achten sollten.",
+            "hu": "Csodálja meg e központi vallási épület lenyűgöző történelmi építészetét, és töltsön el egy percet csendes elmélkedéssel, de ügyeljen a folyó istentiszteletekre.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș de cult central și bucurați-vă de un moment de liniște, dar aveți grijă să respectați slujbele locale.",
+            "en": "Admire the striking historical architecture of this central religious site and take a moment of quiet reflection, but remember to respect ongoing local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit de la Sarthe",
+            "hu": "Circuit de la Sarthe",
+            "ro": "Circuit de la Sarthe",
+            "en": "Circuit de la Sarthe"
+          },
+          "coords": [
+            0.207531,
+            47.949861
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte des Motorsports rund um diesen legendären Streckenabschnitt und halten Sie Ausschau nach speziellen, öffentlich zugänglichen Aussichtspunkten.",
+            "hu": "Érezze a motorsport történelmét e legendás versenypálya-szakasz körül, és keresse a nagyközönség számára is hozzáférhető, különleges kilátópontokat.",
+            "ro": "Simțiți istoria sporturilor cu motor în jurul acestui segment legendar al circuitului de anduranță și căutați punctele de observație accesibile publicului larg.",
+            "en": "Feel the motorsport history buzzing around this legendary endurance racing track section, keeping an eye out for specific vantage points accessible to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaycific'Zoo",
+            "hu": "Spaycific'Zoo",
+            "ro": "Spaycific'Zoo",
+            "en": "Spaycific'Zoo"
+          },
+          "coords": [
+            0.139785,
+            47.92191
+          ],
+          "category": "family",
+          "arrive_at": "11:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem familienfreundlichen Zoo eine fantastische Vielfalt seltener Tiere und kommen Sie früh, um die interaktiven Fütterungen zu erleben.",
+            "hu": "Fedezze fel a ritka és egzotikus állatok fantasztikus sokaságát ebben a családbarát állatkertben, és érkezzen korán, hogy részt vehessen az interaktív etetéseken.",
+            "ro": "Descoperiți o varietate fantastică de animale exotice la această grădină zoologică și asigurați-vă că ajungeți devreme pentru a prinde sesiunile interactive de hrănire.",
+            "en": "Discover a fantastic array of rare and exotic animals at this family-friendly zoo, making sure to arrive early to catch the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "BattleKart",
+            "hu": "BattleKart",
+            "ro": "BattleKart",
+            "en": "BattleKart"
+          },
+          "coords": [
+            0.15918,
+            47.941035
+          ],
+          "category": "family",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie auf dieser Augmented-Reality-Strecke eine einzigartige Mischung aus Videospiel und Kartfahren, aber prüfen Sie vorab online die Größenbeschränkungen.",
+            "hu": "Élvezze a videojátékok és a gokartozás egyedülálló keverékét ezen a kiterjesztett valóság pályán, de érkezés előtt ellenőrizze a magassági korlátozásokat.",
+            "ro": "Bucurați-vă de un amestec unic de jocuri video și karting pe această pistă cu realitate augmentată, dar verificați online cerințele de înălțime înainte de sosire.",
+            "en": "Enjoy a unique blend of video gaming and go-karting on this augmented reality track, but check the height requirements online before bringing younger kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Gèmerie",
+            "hu": "Lac de la Gèmerie",
+            "ro": "Lac de la Gèmerie",
+            "en": "Lac de la Gèmerie"
+          },
+          "coords": [
+            0.15918,
+            47.941035
+          ],
+          "category": "natural",
+          "arrive_at": "14:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.51,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses wunderschönen Sees, an dem Familien picknicken, und mieten Sie bei gutem Wetter ein kleines Tretboot.",
+            "hu": "Pihenjen meg a családok körében népszerű tó békés partján egy piknik keretében, és jó idő esetén béreljen egy kis vízibiciklit a kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac frumos unde familiile se adună pentru picnicuri și luați în considerare închirierea unei hidrobiciclete dacă vremea permite.",
+            "en": "Relax by the calm waters of this beautiful lake where families gather for picnics, and consider renting a small paddleboat if the weather allows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Sarthe",
+            "hu": "Sarthe folyópart",
+            "ro": "Malurile râului Sarthe",
+            "en": "Sarthe Riverbanks"
+          },
+          "coords": [
+            0.209474,
+            47.973728
+          ],
+          "category": "natural",
+          "arrive_at": "15:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.98,
+          "tip_5lang": {
+            "de": "Radeln Sie an den üppigen Flussufern entlang, um die lokale Tierwelt in ruhiger Umgebung zu beobachten, und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Kerékpározzon a buja folyóparton, hogy békés környezetben figyelhesse meg a helyi élővilágot, és hozzon magával távcsövet a vízimadarak megfigyeléséhez.",
+            "ro": "Mergeți cu bicicleta de-a lungul malurilor verzi pentru a observa fauna locală într-un cadru liniștit și aduceți un binoclu pentru a admira păsările de pe apă.",
+            "en": "Cycle along the lush riverbanks to enjoy observing local wildlife in a peaceful setting, bringing a pair of binoculars for birdwatching along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Herz von Arnage, um die Kirche zu bewundern, bevor Sie zur berühmten Rennstrecke aufbrechen. Mittags erwarten Sie die interaktiven Wunder des Spaycific'Zoo. Ein aufregender Nachmittag bietet rasante Fahrten beim BattleKart. Lassen Sie Ihren Ausflug mit einem entspannten Sonnenuntergang am friedlichen Lac de la Gèmerie und am Fluss ausklingen.",
+        "hu": "Autózzon Arnage szívébe, hogy megcsodálja a főtemplom klasszikus építészetét, mielőtt a híres versenypályára indulna. Délben a Spaycific'Zoo interaktív csodái várják a családot. Az izgalmas délutánt a BattleKart high-tech versenyei dobják fel. Zárja a kirándulást egy laza naplementével a csendes Lac de la Gèmerie és a folyó mentén.",
+        "ro": "Conduceți în inima orașului Arnage pentru a admira biserica principală înainte de a vă îndrepta spre celebrul circuit. Prânzul aduce minunile interactive de la Spaycific'Zoo. O după-amiază captivantă vă așteaptă cu cursele de la BattleKart. Încheiați călătoria cu un apus relaxant la Lacul Gèmerie și pe malul râului.",
+        "en": "Drive into the heart of Arnage to admire the classic architecture of the main church before heading to the famous race circuit. Midday brings you to the interactive wonders of Spaycific'Zoo where the whole family can engage. An exciting afternoon awaits with high-tech races at BattleKart. Wind down your road trip with a relaxed sunset view across the calm Lac de la Gèmerie and the river."
+      }
+    }
+  }
+}

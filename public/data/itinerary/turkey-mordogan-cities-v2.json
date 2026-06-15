@@ -1,0 +1,497 @@
+{
+  "city_id": "turkey-mordogan-cities-v2",
+  "anchor": {
+    "name": "Mordoğan",
+    "coords": [
+      26.62179,
+      38.51478
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atatürk Anıtı",
+            "hu": "Atatürk Anıtı",
+            "ro": "Atatürk Anıtı",
+            "en": "Atatürk Anıtı"
+          },
+          "coords": [
+            26.625504,
+            38.519379
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Denkmal für den Gründer der modernen Türkei und beginnen Sie den Tag mit ein paar tollen Fotos im Morgenlicht.",
+            "hu": "Csodálja meg ezt a modern Törökország alapítójának szentelt központi emlékművet, és kezdje a napot fotózással a reggeli fényekben.",
+            "ro": "Admirați acest monument central dedicat fondatorului Turciei moderne și începeți-vă ziua făcând fotografii în lumina dimineții.",
+            "en": "Admire this central monument dedicated to the founder of modern Turkey, and start your day taking photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıkçı Anıt",
+            "hu": "Balıkçı Anıt",
+            "ro": "Balıkçı Anıt",
+            "en": "Balıkçı Anıt"
+          },
+          "coords": [
+            26.626894,
+            38.518625
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zollen Sie dem lokalen Fischererbe an dieser stimmungsvollen Statue Tribut, die vor dem glitzernden Meer am besten zur Geltung kommt.",
+            "hu": "Tisztelegjen a helyi halászati örökség előtt ennél a szobornál, amely a háttérben szikrázó tengerrel nyújtja a legszebb látványt.",
+            "ro": "Aduceți un omagiu moștenirii pescărești locale la această statuie evocatoare, cel mai bine privită cu marea sclipind în fundal.",
+            "en": "Pay tribute to the local fishing heritage at this evocative statue, best viewed with the sea sparkling in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Kocakum Plajı",
+            "hu": "Kocakum Plajı",
+            "ro": "Kocakum Plajı",
+            "en": "Kocakum Plajı"
+          },
+          "coords": [
+            26.625885,
+            38.516527
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem leicht zugänglichen Sandstrand im Stadtzentrum und vergessen Sie nicht, Ihr eigenes Handtuch für ein schnelles Bad mitzubringen.",
+            "hu": "Pihenjen ezen a könnyen megközelíthető központi homokos parton, és ne felejtsen el saját törölközőt hozni egy gyors csobbanáshoz.",
+            "ro": "Relaxați-vă pe această fâșie de nisip ușor accesibilă din centrul orașului, neuitând să vă aduceți propriul prosop pentru o baie rapidă.",
+            "en": "Relax on this easily accessible sandy strip in the town center, remembering to bring your own towel for a quick dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahmet Meram Yel Değirmeni",
+            "hu": "Ahmet Meram Yel Değirmeni",
+            "ro": "Ahmet Meram Yel Değirmeni",
+            "en": "Ahmet Meram Yel Değirmeni"
+          },
+          "coords": [
+            26.62956,
+            38.516657
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser historischen Windmühle und tragen Sie festes Schuhwerk, da der Weg leicht uneben ist.",
+            "hu": "Élvezze a tengerparti panorámát ebből a történelmi szélmalomból, de viseljen kényelmes cipőt a kissé egyenetlen megközelítés miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice de la această moară de vânt istorică, purtând încălțăminte comodă pentru a parcurge drumul ușor denivelat.",
+            "en": "Enjoy panoramic coastal views from this historic windmill landmark, wearing sturdy shoes to navigate the slightly uneven approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Korsan Plajı",
+            "hu": "Korsan Plajı",
+            "ro": "Korsan Plajı",
+            "en": "Korsan Plajı"
+          },
+          "coords": [
+            26.631968,
+            38.510725
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, die als Piratenstrand bekannt ist, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Fedezze fel ezt a Kalózstrand néven ismert rejtett öblöt, és érkezzen korán, hogy jó helyet találjon a festői sziklák között.",
+            "ro": "Descoperiți acest golf ascuns, cunoscut sub numele de Plaja Piraților, sosind devreme pentru a prinde un loc bun printre stânci.",
+            "en": "Discover this hidden cove famously known as Pirate Beach, arriving early to claim a good spot among the scenic rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayalık Plajı",
+            "hu": "Kayalık Plajı",
+            "ro": "Kayalık Plajı",
+            "en": "Kayalık Plajı"
+          },
+          "coords": [
+            26.631531,
+            38.508697
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem felsigen Ufer, das sich perfekt zum Schnorcheln eignet. Packen Sie also Wasserschuhe und Taucherbrille ein.",
+            "hu": "Kapcsolódjon ki ezen a sziklás parton, amely tökéletes sznorkelezéshez, így érdemes vízicipőt és búvárszemüveget hozni magával.",
+            "ro": "Relaxați-vă pe acest țărm stâncos perfect pentru snorkeling, așa că luați-vă pantofi de apă și ochelari pentru a explora.",
+            "en": "Unwind at this rocky shore perfect for snorkeling, so pack your water shoes and goggles to explore the marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Herzen von Mordoğan und bewundern Sie das Atatürk-Denkmal und die historische Fischerstatue am malerischen Hafen. Die Vormittagssonne ist perfekt für erste Erkundungen.\nMittags schlendern Sie zum Kocakum Plajı, wo Sie sich am Sandstrand ausruhen oder eine kleine Erfrischung im Meer genießen können, bevor Sie zur alten Windmühle weitergehen.\nDer Nachmittag steht ganz im Zeichen der atemberaubenden Aussicht von der Ahmet Meram Windmühle, gefolgt von einem entspannten Spaziergang hinunter zum versteckten Korsan Plajı.\nDen Abend lassen Sie am felsigen Kayalık Plajı ausklingen, wo Sie die ruhige Meeresbrise und die letzten Sonnenstrahlen des Tages in völliger Entspannung genießen.",
+        "hu": "Kezdje a reggelt Mordoğan szívében, és csodálja meg az Atatürk-emlékművet, valamint a kikötő történelmi halászszobrát, amely remek fotótémát nyújt.\nDélben sétáljon el a Kocakum Plajı homokos partjára, ahol megpihenhet, vagy csobbanhat egyet a tengerben, mielőtt folytatná útját a malom felé.\nA délutánt az Ahmet Meram szélmalom lenyűgöző panorámája uralja, amelyet egy kényelmes séta követ a kalózok egykori rejtekhelyeként ismert Korsan strandhoz.\nAz estét a sziklás Kayalık parton zárhatja, ahol a nyugodt tengerparti szellő és a lemenő nap sugarai tökéletes befejezést nyújtanak.",
+        "ro": "Începeți dimineața în inima orașului Mordoğan, admirând monumentul lui Atatürk și statuia pescarului din portul pitoresc. Lumina de dimineață este perfectă pentru plimbări.\nLa prânz, mergeți spre plaja Kocakum pentru a vă relaxa pe nisipul cald sau pentru a face o baie rapidă în mare, înainte de a urca spre vechea moară de vânt.\nDupă-amiaza vă aduce la moara de vânt Ahmet Meram pentru vederi panoramice superbe, urmate de o coborâre liniștită către ascunsa Plajă a Piraților.\nÎncheiați seara pe țărmul stâncos de la Kayalık Plajı, bucurându-vă de briza calmă a mării și de razele apusului într-o atmosferă extrem de relaxantă.",
+        "en": "Start your morning in the heart of Mordoğan, admiring the Atatürk Monument and the historic Fisherman's Statue at the scenic harbor. The morning light is perfect for a stroll.\nAt midday, walk over to Kocakum Beach to relax on the sandy shores or enjoy a refreshing dip in the sea before heading towards the old windmill.\nThe afternoon brings you to the Ahmet Meram Windmill for stunning panoramic coastal views, followed by a leisurely descent to the secluded Pirate Beach.\nEnd your evening on the rocky shores of Kayalık Beach, soaking in the calm sea breeze and the final rays of the sun in complete relaxation."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ardıç Plajı",
+            "hu": "Ardıç Plajı",
+            "ro": "Ardıç Plajı",
+            "en": "Ardıç Plajı"
+          },
+          "coords": [
+            26.616179,
+            38.529371
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem beliebten Nordstrand, wo eine morgendliche Ankunft die ruhigsten Gewässer garantiert.",
+            "hu": "Élvezze a napsütést ezen a tágas északi strandon, ahol a reggeli érkezés garantálja a legnyugodtabb vizeket.",
+            "ro": "Bucurați-vă de soare pe această plajă spațioasă din nord, unde sosirea dimineața vă garantează cele mai calme ape.",
+            "en": "Soak up the sun at this spacious and popular northern beach, where arriving in the morning guarantees the calmest waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayşe Kadın Camii",
+            "hu": "Ayşe Kadın Camii",
+            "ro": "Ayşe Kadın Camii",
+            "en": "Ayşe Kadın Camii"
+          },
+          "coords": [
+            26.598703,
+            38.51822
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Moschee im Landesinneren und halten Sie ein Tuch bereit, um Ihre Schultern zu bedecken.",
+            "hu": "Látogasson el ebbe a bájos belföldi mecsetbe, és tartson magánál egy kendőt, amellyel eltakarhatja a vállát.",
+            "ro": "Vizitați această fermecătoare moschee interioară pentru a aprecia arhitectura sa locală modestă, având o eșarfă la îndemână.",
+            "en": "Visit this charming inland mosque to appreciate its modest local architecture, keeping a scarf handy to cover your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Anıtı",
+            "hu": "Atatürk Anıtı",
+            "ro": "Atatürk Anıtı",
+            "en": "Atatürk Anıtı"
+          },
+          "coords": [
+            26.625504,
+            38.519379
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Denkmal für den Gründer der modernen Türkei und beginnen Sie den Tag mit ein paar tollen Fotos im Morgenlicht.",
+            "hu": "Csodálja meg ezt a modern Törökország alapítójának szentelt központi emlékművet, és kezdje a napot fotózással a reggeli fényekben.",
+            "ro": "Admirați acest monument central dedicat fondatorului Turciei moderne și începeți-vă ziua făcând fotografii în lumina dimineții.",
+            "en": "Admire this central monument dedicated to the founder of modern Turkey, and start your day taking photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kocakum Plajı",
+            "hu": "Kocakum Plajı",
+            "ro": "Kocakum Plajı",
+            "en": "Kocakum Plajı"
+          },
+          "coords": [
+            26.625885,
+            38.516527
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem leicht zugänglichen Sandstrand im Stadtzentrum und vergessen Sie nicht, Ihr eigenes Handtuch für ein schnelles Bad mitzubringen.",
+            "hu": "Pihenjen ezen a könnyen megközelíthető központi homokos parton, és ne felejtsen el saját törölközőt hozni egy gyors csobbanáshoz.",
+            "ro": "Relaxați-vă pe această fâșie de nisip ușor accesibilă din centrul orașului, neuitând să vă aduceți propriul prosop pentru o baie rapidă.",
+            "en": "Relax on this easily accessible sandy strip in the town center, remembering to bring your own towel for a quick dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahmet Meram Yel Değirmeni",
+            "hu": "Ahmet Meram Yel Değirmeni",
+            "ro": "Ahmet Meram Yel Değirmeni",
+            "en": "Ahmet Meram Yel Değirmeni"
+          },
+          "coords": [
+            26.62956,
+            38.516657
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser historischen Windmühle und tragen Sie festes Schuhwerk, da der Weg leicht uneben ist.",
+            "hu": "Élvezze a tengerparti panorámát ebből a történelmi szélmalomból, de viseljen kényelmes cipőt a kissé egyenetlen megközelítés miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice de la această moară de vânt istorică, purtând încălțăminte comodă pentru a parcurge drumul ușor denivelat.",
+            "en": "Enjoy panoramic coastal views from this historic windmill landmark, wearing sturdy shoes to navigate the slightly uneven approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayalık Plajı",
+            "hu": "Kayalık Plajı",
+            "ro": "Kayalık Plajı",
+            "en": "Kayalık Plajı"
+          },
+          "coords": [
+            26.631531,
+            38.508697
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem felsigen Ufer, das sich perfekt zum Schnorcheln eignet. Packen Sie also Wasserschuhe und Taucherbrille ein.",
+            "hu": "Kapcsolódjon ki ezen a sziklás parton, amely tökéletes sznorkelezéshez, így érdemes vízicipőt és búvárszemüveget hozni magával.",
+            "ro": "Relaxați-vă pe acest țărm stâncos perfect pentru snorkeling, așa că luați-vă pantofi de apă și ochelari pentru a explora.",
+            "en": "Unwind at this rocky shore perfect for snorkeling, so pack your water shoes and goggles to explore the marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer erfrischenden Radtour zum Ardıç Plajı im Norden, wo die ruhigen Gewässer im Morgenlicht besonders einladend wirken.\nZur Mittagszeit radeln Sie landeinwärts, um die friedliche Ayşe Kadın Moschee zu besichtigen, bevor Sie ins Zentrum zum Atatürk-Denkmal zurückkehren.\nAm Nachmittag erkunden Sie den zentralen Strand Kocakum und radeln dann weiter zur historischen Ahmet Meram Windmühle für atemberaubende Ausblicke.\nDer Abend führt Sie hinab zum felsigen Kayalık Plajı, wo Sie Ihr Rad abstellen und die entspannte Atmosphäre am Meer beim Sonnenuntergang genießen.",
+        "hu": "A nap egy frissítő kerékpározással indul az északi Ardıç strandhoz, ahol a nyugodt vizek és a tengerparti friss levegő tökéletes kezdést biztosítanak.\nDélben tekerjen be a szárazföld felé, hogy megtekintse a békés Ayşe Kadın mecsetet, majd térjen vissza a nyüzsgő központba az Atatürk-emlékműhöz.\nDélután fedezze fel a Kocakum strandot, majd tekerjen fel az ikonikus Ahmet Meram szélmalomhoz, ahonnan csodálatos panoráma nyílik a partra.\nAz estét a Kayalık strand sziklái között töltheti, ahol a biciklit letámasztva gyönyörködhet a naplemente fényeiben és a tenger hullámaiban.",
+        "ro": "Ziua începe cu o plimbare revigorantă cu bicicleta până la plaja Ardıç din nord, unde apele liniștite oferă un început de zi cu adevărat relaxant.\nLa prânz, pedalați spre interior pentru a vizita pașnica Moschee Ayşe Kadın, înainte de a reveni în centrul plin de viață la Monumentul lui Atatürk.\nDupă-amiaza, explorați plaja centrală Kocakum și apoi urcați cu bicicleta până la emblematica moară de vânt Ahmet Meram pentru vederi uimitoare.\nSeara vă poartă spre țărmul stâncos de la Kayalık Plajı, unde vă puteți odihni admirând culorile apusului reflectate pe suprafața mării.",
+        "en": "Your day begins with a refreshing ride to Ardıç Beach in the north, where the calm waters and fresh sea breeze offer a perfect, relaxing start.\nAt midday, cycle inland to visit the peaceful Ayşe Kadın Mosque, before returning to the bustling center to admire the prominent Atatürk Monument.\nIn the afternoon, explore the sandy Kocakum Beach and then pedal up to the iconic Ahmet Meram Windmill for stunning panoramic views of the coast.\nThe evening brings you to the rocky shores of Kayalık Beach, where you can park your bike and enjoy the sunset reflecting over the gentle waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayşe Kadın Camii",
+            "hu": "Ayşe Kadın Camii",
+            "ro": "Ayşe Kadın Camii",
+            "en": "Ayşe Kadın Camii"
+          },
+          "coords": [
+            26.598703,
+            38.51822
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Moschee im Landesinneren und halten Sie ein Tuch bereit, um Ihre Schultern zu bedecken.",
+            "hu": "Látogasson el ebbe a bájos belföldi mecsetbe, és tartson magánál egy kendőt, amellyel eltakarhatja a vállát.",
+            "ro": "Vizitați această fermecătoare moschee interioară pentru a aprecia arhitectura sa locală modestă, având o eșarfă la îndemână.",
+            "en": "Visit this charming inland mosque to appreciate its modest local architecture, keeping a scarf handy to cover your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardıç Plajı",
+            "hu": "Ardıç Plajı",
+            "ro": "Ardıç Plajı",
+            "en": "Ardıç Plajı"
+          },
+          "coords": [
+            26.616179,
+            38.529371
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem beliebten Nordstrand, wo eine morgendliche Ankunft die ruhigsten Gewässer garantiert.",
+            "hu": "Élvezze a napsütést ezen a tágas északi strandon, ahol a reggeli érkezés garantálja a legnyugodtabb vizeket.",
+            "ro": "Bucurați-vă de soare pe această plajă spațioasă din nord, unde sosirea dimineața vă garantează cele mai calme ape.",
+            "en": "Soak up the sun at this spacious and popular northern beach, where arriving in the morning guarantees the calmest waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Seal Beach Club",
+            "hu": "Seal Beach Club",
+            "ro": "Seal Beach Club",
+            "en": "Seal Beach Club"
+          },
+          "coords": [
+            26.623383,
+            38.526346
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich erstklassige Annehmlichkeiten in diesem exklusiven Beach Club, der eine kleine Eintrittsgebühr für Liegen verlangt.",
+            "hu": "Élvezze a prémium szolgáltatásokat ebben az elegáns strandklubban, amely kisebb belépődíjat kér a napágyakért és a kiszolgálásért.",
+            "ro": "Răsfățați-vă cu facilități premium la acest club de plajă exclusivist, care solicită o mică taxă de intrare pentru șezlonguri.",
+            "en": "Indulge in premium amenities at this upscale beach club, which requires a small entrance fee for sunbeds and service."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Anıtı",
+            "hu": "Atatürk Anıtı",
+            "ro": "Atatürk Anıtı",
+            "en": "Atatürk Anıtı"
+          },
+          "coords": [
+            26.625504,
+            38.519379
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses zentrale Denkmal für den Gründer der modernen Türkei und beginnen Sie den Tag mit ein paar tollen Fotos im Morgenlicht.",
+            "hu": "Csodálja meg ezt a modern Törökország alapítójának szentelt központi emlékművet, és kezdje a napot fotózással a reggeli fényekben.",
+            "ro": "Admirați acest monument central dedicat fondatorului Turciei moderne și începeți-vă ziua făcând fotografii în lumina dimineții.",
+            "en": "Admire this central monument dedicated to the founder of modern Turkey, and start your day taking photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıkçı Anıt",
+            "hu": "Balıkçı Anıt",
+            "ro": "Balıkçı Anıt",
+            "en": "Balıkçı Anıt"
+          },
+          "coords": [
+            26.626894,
+            38.518625
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zollen Sie dem lokalen Fischererbe an dieser stimmungsvollen Statue Tribut, die vor dem glitzernden Meer am besten zur Geltung kommt.",
+            "hu": "Tisztelegjen a helyi halászati örökség előtt ennél a szobornál, amely a háttérben szikrázó tengerrel nyújtja a legszebb látványt.",
+            "ro": "Aduceți un omagiu moștenirii pescărești locale la această statuie evocatoare, cel mai bine privită cu marea sclipind în fundal.",
+            "en": "Pay tribute to the local fishing heritage at this evocative statue, best viewed with the sea sparkling in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahmet Meram Yel Değirmeni",
+            "hu": "Ahmet Meram Yel Değirmeni",
+            "ro": "Ahmet Meram Yel Değirmeni",
+            "en": "Ahmet Meram Yel Değirmeni"
+          },
+          "coords": [
+            26.62956,
+            38.516657
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser historischen Windmühle und tragen Sie festes Schuhwerk, da der Weg leicht uneben ist.",
+            "hu": "Élvezze a tengerparti panorámát ebből a történelmi szélmalomból, de viseljen kényelmes cipőt a kissé egyenetlen megközelítés miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice de la această moară de vânt istorică, purtând încălțăminte comodă pentru a parcurge drumul ușor denivelat.",
+            "en": "Enjoy panoramic coastal views from this historic windmill landmark, wearing sturdy shoes to navigate the slightly uneven approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Korsan Plajı",
+            "hu": "Korsan Plajı",
+            "ro": "Korsan Plajı",
+            "en": "Korsan Plajı"
+          },
+          "coords": [
+            26.631968,
+            38.510725
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, die als Piratenstrand bekannt ist, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Fedezze fel ezt a Kalózstrand néven ismert rejtett öblöt, és érkezzen korán, hogy jó helyet találjon a festői sziklák között.",
+            "ro": "Descoperiți acest golf ascuns, cunoscut sub numele de Plaja Piraților, sosind devreme pentru a prinde un loc bun printre stânci.",
+            "en": "Discover this hidden cove famously known as Pirate Beach, arriving early to claim a good spot among the scenic rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt im Landesinneren an der charmanten Ayşe Kadın Moschee, gefolgt von einer kurzen Fahrt zum weitläufigen Ardıç Plajı, um die Morgensonne zu genießen.\nMittags fahren Sie zum exklusiven Seal Beach Club für etwas Entspannung, bevor Sie das Zentrum von Mordoğan und das Atatürk-Denkmal besuchen.\nDer Nachmittag bietet Zeit, die Fischerstatue am Hafen zu fotografieren und anschließend zur Ahmet Meram Windmühle hinaufzufahren, um das Küstenpanorama zu bewundern.\nBeenden Sie Ihre Tour am abgelegenen Korsan Plajı, wo Sie das Auto parken und die idyllische Bucht bei Sonnenuntergang in vollen Zügen genießen können.",
+        "hu": "Kezdje az autós túrát a szárazföldön található bájos Ayşe Kadın mecsetnél, majd hajtson el a tágas Ardıç strandhoz, hogy élvezze a reggeli napsütést.\nDélben látogasson el az exkluzív Seal Beach Clubba egy kis pihenésre, majd fedezze fel Mordoğan központját és az impozáns Atatürk-emlékművet.\nDélután fotózza le a kikötői halászszobrot, majd guruljon fel az Ahmet Meram szélmalomhoz, ahonnan lélegzetelállító kilátás nyílik a tengerre.\nZárja a napot a félreeső Korsan strandon, ahol leparkolhatja autóját, és a lenyugvó nap fényében élvezheti a festői öböl csendjét.",
+        "ro": "Începeți plimbarea la fermecătoarea Moschee Ayşe Kadın din interiorul orașului, urmată de o scurtă călătorie spre plaja spațioasă Ardıç pentru soarele dimineții.\nLa prânz, conduceți către exclusivistul Seal Beach Club pentru relaxare, înainte de a vizita centrul orașului Mordoğan și Monumentul lui Atatürk.\nDupă-amiaza oferă timp pentru a fotografia Statuia Pescarului și apoi pentru a urca la moara de vânt Ahmet Meram, admirând panorama de coastă.\nÎncheiați turul la izolata Plajă a Piraților, unde puteți parca mașina și vă puteți bucura de golful idilic în lumina blândă a apusului de soare.",
+        "en": "Start your drive inland at the charming Ayşe Kadın Mosque, followed by a short trip to the spacious Ardıç Beach to catch the early morning sun.\nAt midday, drive over to the upscale Seal Beach Club for some premium relaxation before heading into Mordoğan’s center to see the Atatürk Monument.\nThe afternoon allows time to photograph the Fisherman's Statue at the harbor and then drive up to the Ahmet Meram Windmill to admire the coastal panorama.\nConclude your tour at the secluded Pirate Beach, where you can park the car and fully enjoy the idyllic cove as the sun gently sets over the horizon."
+      }
+    }
+  }
+}

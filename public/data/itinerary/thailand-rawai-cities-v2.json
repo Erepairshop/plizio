@@ -1,0 +1,428 @@
+{
+  "city_id": "thailand-rawai-cities-v2",
+  "anchor": {
+    "name": "Rawai",
+    "coords": [
+      98.32772,
+      7.77581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:54",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nai Harn Beach",
+            "hu": "Nai Harn strand",
+            "ro": "Plaja Nai Harn",
+            "en": "Nai Harn Beach"
+          },
+          "coords": [
+            98.305733,
+            7.775703
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand von Nai Harn, der für sein kristallklares Wasser bekannt ist, aber kommen Sie früh, um sich einen guten Schattenplatz zu sichern.",
+            "hu": "Pihenjen a Nai Harn strand érintetlen fehér homokján, amely kristálytiszta vizéről híres, de érkezzen korán, hogy árnyékos helyet találjon a fák alatt.",
+            "ro": "Relaxați-vă pe nisipul alb imaculat de la Nai Harn, faimos pentru apele sale cristaline, dar veniți devreme pentru a prinde un loc bun la umbra copacilor casuarina.",
+            "en": "Relax on the pristine white sands of Nai Harn Beach, known for its crystal-clear swimming waters, but arrive early to secure a good spot in the shade of the casuarina trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill Viewpoint",
+            "hu": "Windmill kilátó",
+            "ro": "Punctul de belvedere Windmill",
+            "en": "Windmill Viewpoint"
+          },
+          "coords": [
+            98.306283,
+            7.769654
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spektakuläre Küstenpanorama vom Windmill Viewpoint mit freiem Blick auf das Meer und die Inseln und bringen Sie Ihre Kamera für das tolle Nachmittagslicht mit.",
+            "hu": "Csodálja meg a látványos tengerparti panorámát a Windmill kilátóból, amely zavartalan kilátást nyújt a tengerre, és ne felejtse el a fényképezőgépét a délutáni fényekhez.",
+            "ro": "Admirați panorama spectaculoasă a coastei de la Windmill Viewpoint, care oferă vederi libere spre mare, și aduceți aparatul foto pentru a surprinde lumina superbă de după-amiază.",
+            "en": "Admire the spectacular coastal panorama from the Windmill Viewpoint, offering unobstructed views of the sea and islands, and bring your camera for the stunning afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Nai Harn und Windmill Viewpoint zwischen Blumen",
+            "hu": "Nai Harn és Windmill kilátó virágok között",
+            "ro": "Nai Harn și Windmill Viewpoint printre flori",
+            "en": "Nai Harn and Windmill Viewpoint among Flowers"
+          },
+          "coords": [
+            98.305717,
+            7.765109
+          ],
+          "category": "natural",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen bezaubernden Ort, wo leuchtend gelbe Blumen den berühmten Aussichtspunkt perfekt einrahmen und eine Kulisse bilden, die man zur goldenen Stunde fotografiert.",
+            "hu": "Sétáljon végig ezen a varázslatos helyen, ahol a sárga virágok tökéletes keretet adnak a híres kilátónak, lenyűgöző hátteret teremtve, amelyet az aranyórában érdemes megörökíteni.",
+            "ro": "Plimbați-vă prin acest loc fermecător unde florile galbene încadrează perfect faimosul punct de belvedere, creând un decor idilic care merită fotografiat în timpul orei de aur.",
+            "en": "Wander through this charming spot where vibrant yellow flowers perfectly frame the iconic viewpoint, creating an idyllic backdrop that is best captured during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Riff-Schnorchelplatz",
+            "hu": "Zátonyi sznorkelező hely",
+            "ro": "Punct de snorkeling la recif",
+            "en": "Reef Snorkelling Spot"
+          },
+          "coords": [
+            98.305433,
+            7.766513
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem hervorragenden Schnorchelplatz in die bunte Unterwasserwelt ein, aber denken Sie daran, Wasserschuhe zu tragen, um sich vor den scharfen Korallen zu schützen.",
+            "hu": "Merüljön el a vibráló víz alatti világban ezen a kiváló sznorkelező helyen, ahol rengeteg színes hal él, de ne felejtse el vizicipőt viselni az éles korallok elleni védelem érdekében.",
+            "ro": "Scufundați-vă în lumea subacvatică vibrantă la acest excelent punct de snorkeling, plin de viață marină colorată, dar nu uitați să purtați încălțăminte de apă pentru a vă proteja de corali.",
+            "en": "Dive into the vibrant underwater world at this excellent reef snorkeling spot, teeming with colorful marine life, but remember to wear water shoes to protect against sharp corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Phromthep Cape",
+            "hu": "Phromthep-fok",
+            "ro": "Capul Phromthep",
+            "en": "Phromthep Cape"
+          },
+          "coords": [
+            98.305358,
+            7.761892
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am legendären Phromthep Cape, Thailands berühmtestem Aussichtspunkt für Sonnenuntergänge, indem Sie sich rechtzeitig vor den Menschenmassen einen Platz an den Klippen sichern.",
+            "hu": "Fejezze be sétáját a legendás Phromthep-foknál, Thaiföld leghíresebb naplemente-kilátójánál, és foglaljon helyet a sziklás parton jóval az esti tömeg megérkezése előtt.",
+            "ro": "Încheiați plimbarea la legendarul Cap Phromthep, cel mai faimos punct de belvedere pentru apusuri din Thailanda, ocupând un loc pe stâncile abrupte cu mult înainte de sosirea mulțimilor.",
+            "en": "Conclude your walk at the legendary Phromthep Cape, Thailand's most celebrated sunset viewpoint, by claiming a spot along the rugged cliffs well before the evening crowds arrive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am unberührten Nai Harn Beach, dem perfekten Einstieg in die Naturschönheit der Südküste. Mittags führt ein kurzer Spaziergang zum Windmill Viewpoint mit weitem Blick auf den Ozean. Der Nachmittag steht im Zeichen bunter Blumenlandschaften und eines Unterwasserabenteuers beim Schnorcheln an den bunten Riffen. Der Tag endet schließlich spektakulär am Phromthep Cape, wo Sie auf den malerischen Sonnenuntergang über der Andamanensee warten.",
+        "hu": "A reggel az érintetlen Nai Harn strandon kezdődik, amely tökéletes bevezetést nyújt a déli part természeti szépségébe. Délben egy rövid séta elviszi a Windmill kilátóhoz, ahonnan pazar óceáni panoráma nyílik. A délután a lenyűgöző virágos tájakra és a színes zátonyok közötti víz alatti sznorkelezésre fókuszál. Végül a nap látványosan zárul a Phromthep-foknál, várva az ikonikus naplementét az Andamán-tenger horizontján.",
+        "ro": "Dimineața începe la superba plajă Nai Harn, o introducere perfectă în frumusețea naturală a coastei sudice. La prânz, o scurtă plimbare vă duce la Windmill Viewpoint, oferind panorame ample ale oceanului. După-amiaza se concentrează pe peisajele florale vibrante și pe o aventură subacvatică cu snorkeling printre recifele colorate. În cele din urmă, ziua se încheie spectaculos la Capul Phromthep, așteptând apusul iconic deasupra orizontului Mării Andaman.",
+        "en": "Your morning starts at the pristine Nai Harn Beach, offering a perfect introduction to the southern coast's natural beauty. By midday, a short walk brings you to the elevated heights of the Windmill Viewpoint, providing sweeping ocean panoramas. The afternoon focuses on vibrant floral scenery and an underwater snorkeling adventure among the colorful reefs. Finally, the day concludes spectacularly at Phromthep Cape, waiting for the iconic sunset to dip below the Andaman horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Laem Ka Strand",
+            "hu": "Laem Ka strand",
+            "ro": "Plaja Laem Ka",
+            "en": "Laem Ka Strand"
+          },
+          "coords": [
+            98.336091,
+            7.77691
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am ruhigen Laem Ka Strand, einem versteckten Juwel mit sanften Wellen und friedlicher Morgenstimmung, der sich perfekt für ein erfrischendes frühes Bad eignet.",
+            "hu": "Kezdje kerékpártúráját a csendes Laem Ka strandon, egy rejtett gyöngyszemen, amely békés reggeli hangulatot kínál, és tökéletes egy frissítő, kora reggeli úszáshoz a lágy hullámokban.",
+            "ro": "Începeți plimbarea cu bicicleta la liniștita Laem Ka Strand, o bijuterie ascunsă care oferă o atmosferă pașnică de dimineață, fiind locul retras perfect pentru o baie matinală revigorantă.",
+            "en": "Start your cycling trip at the tranquil Laem Ka Strand, a hidden gem offering gentle waves and peaceful morning vibes, making it the perfect secluded spot for a refreshing early swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Rawai Beach und Pier",
+            "hu": "Rawai strand és móló",
+            "ro": "Plaja și digul Rawai",
+            "en": "Rawai Beach and Pier"
+          },
+          "coords": [
+            98.332105,
+            7.775544
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um die authentische Atmosphäre am Rawai Beach zu genießen, wo lokale Longtail-Boote nahe dem Pier schaukeln, und holen Sie sich ein kaltes Getränk bei einem Händler.",
+            "hu": "Tartson szünetet a Rawai strandon, és élvezze az autentikus hangulatot, miközben a helyi csónakokat figyeli a festői móló közelében, és vegyen egy hideg italt egy közeli árustól.",
+            "ro": "Faceți o pauză pentru a vă bucura de atmosfera autentică de la Rawai Beach, observând bărcile locale legănându-se lângă digul pitoresc, în timp ce luați o băutură rece de la un vânzător din apropiere.",
+            "en": "Pause your ride to enjoy the authentic atmosphere at Rawai Beach, observing local longtail boats bobbing near the picturesque pier, while grabbing a quick cold drink from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Nai Harn Beach",
+            "hu": "Nai Harn strand",
+            "ro": "Plaja Nai Harn",
+            "en": "Nai Harn Beach"
+          },
+          "coords": [
+            98.305733,
+            7.775703
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand von Nai Harn, der für sein kristallklares Wasser bekannt ist, aber schließen Sie Ihr Fahrrad sicher ab, bevor Sie sich einen Schattenplatz suchen.",
+            "hu": "Pihenjen a Nai Harn strand érintetlen homokján, amely kristálytiszta vizéről híres, de biztonságosan zárja le kerékpárját, mielőtt árnyékos helyet keresne a fák alatt.",
+            "ro": "Relaxați-vă pe nisipul imaculat de la Nai Harn, faimos pentru apele sale cristaline, dar asigurați-vă că ați încuiat bine bicicleta înainte de a găsi un loc umbrit sub copacii casuarina.",
+            "en": "Relax on the pristine white sands of Nai Harn Beach, known for its crystal-clear swimming waters, but remember to lock your bike securely before finding a good spot under the casuarina trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill Viewpoint",
+            "hu": "Windmill kilátó",
+            "ro": "Punctul de belvedere Windmill",
+            "en": "Windmill Viewpoint"
+          },
+          "coords": [
+            98.306283,
+            7.769654
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spektakuläre Küstenpanorama vom Windmill Viewpoint mit freiem Blick auf das Meer und nutzen Sie die bequemen Fahrradparkplätze direkt am Rand.",
+            "hu": "Csodálja meg a látványos tengerparti panorámát a Windmill kilátóból, amely zavartalan kilátást nyújt a tengerre, és használja ki a perem közelében lévő egyszerű kerékpárparkolót.",
+            "ro": "Admirați panorama spectaculoasă a coastei de la Windmill Viewpoint, care oferă vederi libere spre mare, și profitați de parcarea ușoară pentru biciclete chiar lângă margine.",
+            "en": "Admire the spectacular coastal panorama from the Windmill Viewpoint, offering unobstructed views of the sea and islands, and take advantage of the easy bike parking right near the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Phromthep Cape",
+            "hu": "Phromthep-fok",
+            "ro": "Capul Phromthep",
+            "en": "Phromthep Cape"
+          },
+          "coords": [
+            98.305358,
+            7.761892
+          ],
+          "category": "natural",
+          "arrive_at": "12:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer am legendären Phromthep Cape, Thailands berühmtestem Aussichtspunkt für Sonnenuntergänge, indem Sie sich rechtzeitig vor den Menschenmassen einen Platz sichern.",
+            "hu": "Fejezze be kerékpáros kalandját a legendás Phromthep-foknál, Thaiföld leghíresebb naplemente-kilátójánál, és foglaljon helyet a sziklás parton jóval az esti tömeg megérkezése előtt.",
+            "ro": "Încheiați aventura pe bicicletă la legendarul Cap Phromthep, cel mai faimos punct de belvedere din Thailanda, ocupând un loc pe stânci cu mult înainte de sosirea mulțimilor.",
+            "en": "Conclude your cycling adventure at the legendary Phromthep Cape, Thailand's most celebrated sunset viewpoint, by claiming a spot along the cliffs well before the evening crowds arrive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit den ruhigen Morgenwellen am versteckten Laem Ka Strand. Mittags radeln Sie am lebhaften Rawai Pier vorbei, bevor Sie den makellosen Sand des Nai Harn Beach für eine entspannte Pause erreichen. Am Nachmittag folgt ein sanfter Anstieg zum Windmill Viewpoint, wo kühlender Wind und atemberaubende Meeresblicke Ihre Mühen belohnen. Gegen Abend fahren Sie zum majestätischen Phromthep Cape, um das ultimative Dämmerungsspektakel zu erleben.",
+        "hu": "Kezdje kerékpártúráját a nyugodt reggeli hullámokkal a rejtett Laem Ka strandon. Délben a nyüzsgő Rawai móló mellett teker el, mielőtt elérné a Nai Harn strand makulátlan homokját egy pihentető szünetre. A délután egy enyhe emelkedőt tartogat a Windmill kilátóhoz, amely hűsítő szellővel és lélegzetelállító tengeri kilátással jutalmazza meg fáradozásait. Az este közeledtével a fenséges Phromthep-fokhoz kerekezik a lenyűgöző alkonyati látványosságért.",
+        "ro": "Începeți călătoria pe bicicletă cu valurile liniștite de dimineață la ascunsa Laem Ka Strand. La prânz, veți pedala pe lângă animatul dig Rawai înainte de a ajunge la nisipurile imaculate ale plajei Nai Harn. După-amiaza implică o urcare ușoară către Windmill Viewpoint, răsplătindu-vă eforturile cu o briză răcoroasă și priveliști marine uluitoare. Seara se apropie în timp ce pedalați spre maiestuosul Cap Phromthep pentru spectacolul final al crepusculului.",
+        "en": "Kick off your cycling journey with the calm morning waves at the hidden Laem Ka Strand. By midday, you'll pedal past the lively Rawai Pier before reaching the immaculate sands of Nai Harn Beach for a relaxing break. The afternoon involves a gentle climb up to the Windmill Viewpoint, rewarding your efforts with a cooling breeze and breathtaking sea vistas. Evening approaches as you cycle out to the majestic Phromthep Cape to witness the ultimate twilight spectacle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:37",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Laem Ka Strand",
+            "hu": "Laem Ka strand",
+            "ro": "Plaja Laem Ka",
+            "en": "Laem Ka Strand"
+          },
+          "coords": [
+            98.336091,
+            7.77691
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour am ruhigen Laem Ka Strand, einem versteckten Juwel mit sanften Wellen und friedlicher Morgenstimmung, der sich perfekt für ein erfrischendes frühes Bad eignet.",
+            "hu": "Kezdje autós túráját a csendes Laem Ka strandon, egy rejtett gyöngyszemen, amely békés reggeli hangulatot kínál, és tökéletes egy frissítő, kora reggeli úszáshoz a lágy hullámokban.",
+            "ro": "Începeți turul cu mașina la liniștita Laem Ka Strand, o bijuterie ascunsă care oferă o atmosferă pașnică, fiind locul retras perfect pentru o baie matinală revigorantă.",
+            "en": "Start your driving tour at the tranquil Laem Ka Strand, a hidden gem offering gentle waves and peaceful morning vibes, making it the perfect secluded spot for a refreshing early swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Rawai Beach und Pier",
+            "hu": "Rawai strand és móló",
+            "ro": "Plaja și digul Rawai",
+            "en": "Rawai Beach and Pier"
+          },
+          "coords": [
+            98.332105,
+            7.775544
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um die authentische Atmosphäre am Rawai Beach zu genießen, wo lokale Longtail-Boote nahe dem Pier schaukeln, und holen Sie sich ein kaltes Getränk bei einem Händler.",
+            "hu": "Tartson szünetet a Rawai strandon, és élvezze az autentikus hangulatot, miközben a helyi csónakokat figyeli a festői móló közelében, és vegyen egy hideg italt egy közeli árustól.",
+            "ro": "Faceți o pauză pentru a vă bucura de atmosfera autentică de la Rawai Beach, observând bărcile locale legănându-se lângă digul pitoresc, în timp ce luați o băutură rece de la un vânzător.",
+            "en": "Pause your drive to enjoy the authentic atmosphere at Rawai Beach, observing local longtail boats bobbing near the picturesque pier, while grabbing a quick cold drink from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Nai Harn Beach",
+            "hu": "Nai Harn strand",
+            "ro": "Plaja Nai Harn",
+            "en": "Nai Harn Beach"
+          },
+          "coords": [
+            98.305733,
+            7.775703
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weißen Sandstrand von Nai Harn, der für sein kristallklares Wasser bekannt ist, aber kommen Sie früh, um sich einen guten Parkplatz in der Nähe der schattigen Bäume zu sichern.",
+            "hu": "Pihenjen a Nai Harn strand homokján, amely kristálytiszta vizéről híres, de érkezzen korán, hogy jó parkolóhelyet találjon a fákkal árnyékolt részek közelében.",
+            "ro": "Relaxați-vă pe nisipul alb de la Nai Harn, faimos pentru apele sale cristaline, dar veniți devreme pentru a prinde un loc bun de parcare lângă umbra copacilor casuarina.",
+            "en": "Relax on the pristine white sands of Nai Harn Beach, known for its crystal-clear swimming waters, but arrive early to secure a good parking spot near the shade of the casuarina trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill Viewpoint",
+            "hu": "Windmill kilátó",
+            "ro": "Punctul de belvedere Windmill",
+            "en": "Windmill Viewpoint"
+          },
+          "coords": [
+            98.306283,
+            7.769654
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie das spektakuläre Küstenpanorama vom Windmill Viewpoint mit freiem Blick auf das Meer und nutzen Sie die bequemen Parkplätze direkt am Rand der Klippen.",
+            "hu": "Csodálja meg a látványos tengerparti panorámát a Windmill kilátóból, amely zavartalan kilátást nyújt a tengerre, és használja ki a perem közelében lévő kényelmes parkolót.",
+            "ro": "Admirați panorama spectaculoasă a coastei de la Windmill Viewpoint, care oferă vederi libere spre mare, și profitați de locul de parcare convenabil chiar lângă margine.",
+            "en": "Admire the spectacular coastal panorama from the Windmill Viewpoint, offering unobstructed views of the sea and islands, and take advantage of the convenient parking space right near the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Riff-Schnorchelplatz",
+            "hu": "Zátonyi sznorkelező hely",
+            "ro": "Punct de snorkeling la recif",
+            "en": "Reef Snorkelling Spot"
+          },
+          "coords": [
+            98.305433,
+            7.766513
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem hervorragenden Schnorchelplatz in die bunte Unterwasserwelt ein, aber denken Sie daran, Ihre Wertsachen sicher im Kofferraum Ihres Autos zu verschließen.",
+            "hu": "Merüljön el a vibráló víz alatti világban ezen a kiváló sznorkelező helyen, ahol rengeteg színes hal él, de ne felejtse el értékeit biztonságosan az autó csomagtartójába zárni.",
+            "ro": "Scufundați-vă în lumea subacvatică vibrantă la acest punct excelent de snorkeling, plin de viață marină, dar nu uitați să vă încuiați bine obiectele de valoare în portbagajul mașinii.",
+            "en": "Dive into the vibrant underwater world at this excellent reef snorkeling spot, teeming with colorful marine life, but remember to lock your valuables securely in the trunk of your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Phromthep Cape",
+            "hu": "Phromthep-fok",
+            "ro": "Capul Phromthep",
+            "en": "Phromthep Cape"
+          },
+          "coords": [
+            98.305358,
+            7.761892
+          ],
+          "category": "natural",
+          "arrive_at": "13:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour am legendären Phromthep Cape, Thailands berühmtestem Aussichtspunkt für Sonnenuntergänge, indem Sie sich rechtzeitig vor den abendlichen Massen einen Parkplatz sichern.",
+            "hu": "Fejezze be autós túráját a legendás Phromthep-foknál, Thaiföld leghíresebb naplemente-kilátójánál, és szerezzen egy parkolóhelyet jóval az esti tömeg tömeges megérkezése előtt.",
+            "ro": "Încheiați turul cu mașina la legendarul Cap Phromthep, cel mai faimos punct de belvedere din Thailanda, ocupând un loc de parcare cu mult înainte de sosirea în masă a mulțimilor.",
+            "en": "Conclude your driving tour at the legendary Phromthep Cape, Thailand's most celebrated sunset viewpoint, by claiming a parking spot well before the evening crowds arrive en masse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine Fahrt entlang der Küste und beginnen Sie mit dem morgendlichen Charme des abgeschiedenen Laem Ka Strands. Zur Mittagszeit halten Sie kurz am Rawai Beach für einen Blick auf die lokalen Boote, bevor Sie sich am wunderschönen Strand von Nai Harn entspannen. Der Nachmittag bringt malerische Aussichtspunkte und eine belebende Schnorchelsession. Beenden Sie die Tour am Phromthep Cape und genießen Sie eine unvergessliche goldene Stunde.",
+        "hu": "Induljon egy tengerparti autózásra, amely a Laem Ka strand elzárt reggeli varázsával kezdődik. Ahogy közeledik a dél, álljon meg röviden a Rawai strandon, majd telepedjen le a gyönyörű Nai Harn parton. A délután festői kilátókat és egy frissítő sznorkelezést hoz a közeli tiszta zátonyvizekben. Fejezze be autós túráját a Phromthep-foknál, és élvezze a felejthetetlen aranyórát, amint a nap a tengerbe süllyed.",
+        "ro": "Porniți într-o plimbare pe coastă, începând cu farmecul matinal retras al plajei Laem Ka Strand. La prânz, opriți-vă scurt la Rawai Beach pentru o privire asupra bărcilor locale, înainte de a vă relaxa pe frumoasele țărmuri ale Nai Harn. După-amiaza aduce puncte de belvedere pitorești și o sesiune revigorantă de snorkeling în apele limpezi ale recifului. Încheiați turul la Capul Phromthep, bucurându-vă de o oră de aur de neuitat.",
+        "en": "Embark on a coastal drive starting with the secluded morning charm of Laem Ka Strand. As midday rolls around, stop briefly at Rawai Beach for a glimpse of local boat life before settling down on the beautiful shores of Nai Harn. The afternoon brings scenic viewpoints and an invigorating snorkeling session in the clear reef waters nearby. Finish the driving tour at Phromthep Cape, enjoying an unforgettable golden hour as the sun sinks into the sea."
+      }
+    }
+  }
+}

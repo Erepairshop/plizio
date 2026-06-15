@@ -1,0 +1,543 @@
+{
+  "city_id": "montlucon",
+  "anchor": {
+    "name": "Montluçon",
+    "coords": [
+      2.6025,
+      46.34
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 0.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Montluçon",
+            "hu": "Vieux Montluçon",
+            "ro": "Vieux Montluçon",
+            "en": "Vieux Montluçon"
+          },
+          "coords": [
+            2.602852,
+            46.339992
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den Fachwerkfassaden dieses mittelalterlichen Viertels vorbei, aber tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon el e középkori negyed favázas homlokzatai mellett, de viseljen kényelmes cipőt a macskaköves utcák miatt.",
+            "ro": "Plimbați-vă pe lângă fațadele cu bârne ale acestui cartier medieval, dar purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Stroll past the half-timbered facades of this medieval district to absorb its ancient charm, but wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge von Bourbon",
+            "hu": "Bourbon hercegek vára",
+            "ro": "Castelul Ducilor de Bourbon",
+            "en": "Castle of the Dukes of Bourbon"
+          },
+          "coords": [
+            2.60355,
+            46.3401
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 14. Jahrhundert wegen der Aussicht, und kommen Sie früh, um den steilen Aufstieg in der Hitze zu vermeiden.",
+            "hu": "Fedezze fel ezt a 14. századi erődöt a pazar kilátásért, és érkezzen korán, hogy elkerülje a meredek mászást a déli hőségben.",
+            "ro": "Explorați această fortăreață din secolul al XIV-lea pentru panorama orașului, sosind devreme pentru a evita urcușul abrupt pe căldură.",
+            "en": "Explore this imposing 14th-century fortress for its spectacular city views, arriving early to avoid the steep climb in the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Zwölf Apostel",
+            "hu": "Tizenkét Apostol háza",
+            "ro": "Casa celor Doisprezece Apostoli",
+            "en": "House of the Twelve Apostles"
+          },
+          "coords": [
+            2.603135,
+            46.341045
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die geschnitzten Holzsäulen dieses Hauses aus dem 12. Jahrhundert, wobei Sie etwas zurücktreten sollten, um die Details zu fotografieren.",
+            "hu": "Csodálja meg e 12. századi ház faragott faoszlopait, és lépjen kicsit hátrébb, hogy jobban lefotózhassa a homlokzat részleteit.",
+            "ro": "Admirați stâlpii sculptați din lemn ai acestei case din secolul al XII-lea, stând puțin mai în spate pentru a fotografia detaliile fațadei.",
+            "en": "Admire the carved wooden pillars of this iconic 12th-century house, standing slightly back to photograph the intricate details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.603251,
+            46.341211
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen romanischen Bau, um die ruhige Atmosphäre zu genießen, und bringen Sie eine leichte Jacke mit, da es innen recht kühl bleibt.",
+            "hu": "Lépjen be ebbe a román stílusú épületbe a nyugodt légkörért, és hozzon magával egy vékony kabátot, mert a kőfalak között hűvös van.",
+            "ro": "Pășiți în această clădire romanică pentru atmosfera sa liniștită, aducând o jachetă subțire, deoarece interiorul de piatră rămâne destul de răcoros.",
+            "en": "Step inside this Romanesque building to appreciate its serene atmosphere, bringing a light jacket as the stone interior remains quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "MuPop",
+            "hu": "MuPop",
+            "ro": "MuPop",
+            "en": "MuPop"
+          },
+          "coords": [
+            2.60563,
+            46.34109
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Frankreichs beste Sammlung von Musikinstrumenten, und nehmen Sie einen Audioguide, um sie spielen zu hören.",
+            "hu": "Fedezze fel Franciaország legjobb könnyűzenei hangszergyűjteményét ezen az interaktív helyen, és kérjen audioguide-ot a recepción.",
+            "ro": "Descoperiți cea mai bună colecție de instrumente muzicale din Franța în acest muzeu interactiv, luând un ghid audio de la intrare pentru a le asculta.",
+            "en": "Discover France's finest collection of popular music instruments in this interactive museum, grabbing an audio guide at the desk to hear them play."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            2.605139,
+            46.340763
+          ],
+          "category": "religious",
+          "arrive_at": "15:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der markanten schwarzen Christusstatue in dieser Kirche, und besuchen Sie sie an einem sonnigen Nachmittag für die schönen Buntglasfenster.",
+            "hu": "Keresse a különleges fekete Krisztus-szobrot ebben a 15. századi templomban, és időzítse látogatását egy napos délutánra az üvegablakok miatt.",
+            "ro": "Căutați uimitoarea statuie neagră a lui Hristos în această biserică, vizitând-o într-o după-amiază însorită pentru a vedea vitraliile luminate.",
+            "en": "Look for the striking black stone statue of Christ in this 15th-century church, visiting on a sunny afternoon to see the stained glass illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "Gabrielle Robinne Theater",
+            "hu": "Gabrielle Robinne Színház",
+            "ro": "Teatrul Gabrielle Robinne",
+            "en": "Gabrielle Robinne Theatre"
+          },
+          "coords": [
+            2.606542,
+            46.340029
+          ],
+          "category": "cultural",
+          "arrive_at": "16:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Belle-Époque-Fassade dieses Kulturzentrums und prüfen Sie online den Abendspielplan für eine Live-Vorstellung.",
+            "hu": "Tekintse meg e pezsgő kulturális központ elegáns Belle Époque homlokzatát, és ellenőrizze az esti műsort online, ha előadást is nézne.",
+            "ro": "Admirați fațada elegantă Belle Époque a acestui centru cultural, verificând programul online dacă doriți să prindeți un spectacol live.",
+            "en": "Gaze at the elegant Belle Époque facade of this vibrant cultural hub, checking their evening schedule online if you wish to catch a live performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.606742,
+            46.339875
+          ],
+          "category": "civic",
+          "arrive_at": "17:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Beobachten Sie die imposante Architektur dieses städtischen Gebäudes und gehen Sie auf den angrenzenden Platz für einen schnellen Espresso im Café.",
+            "hu": "Figyelje meg e központi önkormányzati épület lenyűgöző építészetét, és lépjen a szomszédos térre egy gyors eszpresszóért a közeli kávézóban.",
+            "ro": "Observați arhitectura impunătoare a acestei clădiri municipale, mergând în piața adiacentă pentru a găsi o cafenea unde să beți un espresso.",
+            "en": "Observe the imposing architecture of this central municipal building, stepping into the adjacent square to find a nearby café for a quick espresso."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in den Gassen von Vieux Montluçon und steigen Sie zum Schloss der Herzöge von Bourbon hinauf. Mittags erwarten Sie das Haus der Zwölf Apostel und die Kirche Saint-Pierre. Verbringen Sie den Nachmittag mit den Musiksammlungen des MuPop und der Kirche Notre-Dame. Beenden Sie den Abend am Gabrielle Robinne Theater und dem majestätischen Rathaus.",
+        "hu": "Kezdje a reggelt a Vieux Montluçon macskaköves utcáin, majd fedezze fel a Bourbon hercegek várát. A nap közepén csodálja meg a Tizenkét Apostol házát és a Saint-Pierre templomot. Délután merüljön el a MuPop zenei gyűjteményeiben és látogassa meg a Notre-Dame templomot. Az estét a Gabrielle Robinne Színháznál és a lenyűgöző Városházánál zárja.",
+        "ro": "Începeți dimineața pe străzile pietruite din Vieux Montluçon, urcând apoi la Castelul Ducilor de Bourbon. La prânz, admirați Casa celor Doisprezece Apostoli și Biserica Saint-Pierre. Petreceți după-amiaza explorând colecțiile muzicale de la MuPop și eleganta Biserică Notre-Dame. Încheiați seara la Teatrul Gabrielle Robinne și la impresionanta Primărie.",
+        "en": "Start your morning wandering the cobblestones of Vieux Montluçon before ascending to the grand Castle of the Dukes of Bourbon. Midday features the striking timber frame of the House of the Twelve Apostles and the serene Saint-Pierre Church. Spend the afternoon marveling at the rich musical collections of MuPop and the elegant Notre-Dame Church. End the evening admiring the Gabrielle Robinne Theatre and the Town Hall."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 3.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Canal de Berry",
+            "hu": "Berry csatorna",
+            "ro": "Canal de Berry",
+            "en": "Canal de Berry"
+          },
+          "coords": [
+            2.601503,
+            46.344339
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern dieses historischen Kanals entlang, und mieten Sie sich ein Fahrrad, um problemlos mehr Strecke zurückzulegen.",
+            "hu": "Sétáljon e történelmi csatorna nyugodt partján, és béreljen egy kerékpárt a közelben, hogy könnyedén nagyobb távolságot is bejárhasson.",
+            "ro": "Plimbați-vă pe malurile liniștite ale acestui canal istoric pentru a vedea fauna locală, închiriind o bicicletă din apropiere pentru a parcurge mai mult.",
+            "en": "Walk along the tranquil, tree-lined banks of this historic canal to spot local wildlife, renting a bicycle nearby to cover more distance easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Paul",
+            "hu": "Saint-Paul templom",
+            "ro": "Biserica Saint-Paul",
+            "en": "Saint-Paul Church"
+          },
+          "coords": [
+            2.59792,
+            46.3466
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schätzen Sie die modernen Linien dieser Kirche aus dem 20. Jahrhundert, und nehmen Sie sich einen Moment, um im minimalistischen Inneren zu sitzen.",
+            "hu": "Értékelje e 20. századi templom modern építészeti vonalait, és szánjon egy percet arra, hogy csendben leüljön világos, minimalista belső terében.",
+            "ro": "Apreciați liniile arhitecturale moderne ale acestei biserici din secolul XX, luându-vă un moment pentru a sta în liniște în interiorul său minimalist.",
+            "en": "Appreciate the modern architectural lines of this unique 20th-century church, taking a moment to sit quietly in its minimalist, bright interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge von Bourbon",
+            "hu": "Bourbon hercegek vára",
+            "ro": "Castelul Ducilor de Bourbon",
+            "en": "Castle of the Dukes of Bourbon"
+          },
+          "coords": [
+            2.60355,
+            46.3401
+          ],
+          "category": "fortress",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 14. Jahrhundert wegen der Aussicht, und kommen Sie früh, um den steilen Aufstieg in der Hitze zu vermeiden.",
+            "hu": "Fedezze fel ezt a 14. századi erődöt a pazar kilátásért, és érkezzen korán, hogy elkerülje a meredek mászást a déli hőségben.",
+            "ro": "Explorați această fortăreață din secolul al XIV-lea pentru panorama orașului, sosind devreme pentru a evita urcușul abrupt pe căldură.",
+            "en": "Explore this imposing 14th-century fortress for its spectacular city views, arriving early to avoid the steep climb in the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Zwölf Apostel",
+            "hu": "Tizenkét Apostol háza",
+            "ro": "Casa celor Doisprezece Apostoli",
+            "en": "House of the Twelve Apostles"
+          },
+          "coords": [
+            2.603135,
+            46.341045
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die geschnitzten Holzsäulen dieses Hauses aus dem 12. Jahrhundert, wobei Sie etwas zurücktreten sollten, um die Details zu fotografieren.",
+            "hu": "Csodálja meg e 12. századi ház faragott faoszlopait, és lépjen kicsit hátrébb, hogy jobban lefotózhassa a homlokzat részleteit.",
+            "ro": "Admirați stâlpii sculptați din lemn ai acestei case din secolul al XII-lea, stând puțin mai în spate pentru a fotografia detaliile fațadei.",
+            "en": "Admire the carved wooden pillars of this iconic 12th-century house, standing slightly back to photograph the intricate details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "MuPop",
+            "hu": "MuPop",
+            "ro": "MuPop",
+            "en": "MuPop"
+          },
+          "coords": [
+            2.60563,
+            46.34109
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Frankreichs beste Sammlung von Musikinstrumenten, und nehmen Sie einen Audioguide, um sie spielen zu hören.",
+            "hu": "Fedezze fel Franciaország legjobb könnyűzenei hangszergyűjteményét ezen az interaktív helyen, és kérjen audioguide-ot a recepción.",
+            "ro": "Descoperiți cea mai bună colecție de instrumente muzicale din Franța în acest muzeu interactiv, luând un ghid audio de la intrare pentru a le asculta.",
+            "en": "Discover France's finest collection of popular music instruments in this interactive museum, grabbing an audio guide at the desk to hear them play."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.606742,
+            46.339875
+          ],
+          "category": "civic",
+          "arrive_at": "15:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die imposante Architektur dieses städtischen Gebäudes und gehen Sie auf den angrenzenden Platz für einen schnellen Espresso im Café.",
+            "hu": "Figyelje meg e központi önkormányzati épület lenyűgöző építészetét, és lépjen a szomszédos térre egy gyors eszpresszóért a közeli kávézóban.",
+            "ro": "Observați arhitectura impunătoare a acestei clădiri municipale, mergând în piața adiacentă pentru a găsi o cafenea unde să beți un espresso.",
+            "en": "Observe the imposing architecture of this central municipal building, stepping into the adjacent square to find a nearby café for a quick espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Glacerie-Fußgängerbrücke",
+            "hu": "Glacerie gyaloghíd",
+            "ro": "Pasarela Glacerie",
+            "en": "Glacerie Footbridge"
+          },
+          "coords": [
+            2.609847,
+            46.353469
+          ],
+          "category": "historical",
+          "arrive_at": "15:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ehemalige Eisenbahnbrücke für einzigartige Perspektiven über den Fluss Cher, und bringen Sie Ihre Kamera für Sonnenuntergangsbilder mit.",
+            "hu": "Keljen át ezen a volt ipari vasúti hídon, hogy különleges kilátást élvezhessen a Cher folyóra, és hozza magával fényképezőgépét a naplemente megörökítéséhez.",
+            "ro": "Traversați acest fost pod feroviar industrial pentru perspective unice asupra râului Cher, aducând aparatul foto pentru reflexii excelente la apus.",
+            "en": "Cross this former industrial railway bridge to enjoy unique perspectives over the river Cher, bringing your camera for excellent sunset reflections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine morgendliche Fahrt am Canal de Berry und besuchen Sie die Kirche Saint-Paul. Mittags radeln Sie ins Zentrum zum Schloss der Herzöge von Bourbon und dem Haus der Zwölf Apostel. Tauchen Sie nachmittags ins MuPop-Museum ein und sehen Sie das historische Rathaus. Beenden Sie Ihre Tour an der industriellen Glacerie-Fußgängerbrücke.",
+        "hu": "Élvezze a reggeli tekerést a festői Berry csatorna mentén, és látogassa meg a Saint-Paul templomot. Délben kerekezzen a középkori központba, hogy felfedezze a Bourbon hercegek várát. Délután merüljön el a MuPop múzeum kiállításaiban, és tekintse meg a történelmi Városházát. Zárja a túrát az ipari Glacerie gyaloghídnál.",
+        "ro": "Bucurați-vă de o plimbare matinală de-a lungul pitorescului Canal de Berry și vizitați Biserica Saint-Paul. La prânz, pedalați spre centrul medieval pentru a explora Castelul Ducilor de Bourbon. După-amiaza, vizitați muzeul MuPop și admirați Primăria istorică. Încheiați traseul la pasarela industrială Glacerie.",
+        "en": "Enjoy a crisp morning ride along the scenic Canal de Berry and visit the peaceful Saint-Paul Church. Around noon, pedal towards the medieval center to explore the imposing Castle of the Dukes of Bourbon and the House of the Twelve Apostles. In the afternoon, dive into the fascinating MuPop museum and view the historic Town Hall. Conclude your ride at the industrial Glacerie Footbridge."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Bien-Assis",
+            "hu": "Château de Bien-Assis",
+            "ro": "Château de Bien-Assis",
+            "en": "Château de Bien-Assis"
+          },
+          "coords": [
+            2.57583,
+            46.3436
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Gelände dieses Herrenhauses aus dem 15. Jahrhundert, aber prüfen Sie vorher die Öffnungszeiten, da diese variieren.",
+            "hu": "Sétáljon e 15. századi kastély birtokán, hogy megismerje a helyi arisztokrácia történelmét, de látogatás előtt ellenőrizze a változó nyitvatartást.",
+            "ro": "Plimbați-vă pe domeniul acestui conac din secolul al XV-lea pentru a descoperi istoria aristocratică locală, verificând orarul înainte de vizită.",
+            "en": "Wander through the grounds of this 15th-century manor to experience regional aristocratic history, checking opening hours before your visit as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Étangs de la Loue",
+            "hu": "Parc des Étangs de la Loue",
+            "ro": "Parc des Étangs de la Loue",
+            "en": "Parc des Étangs de la Loue"
+          },
+          "coords": [
+            2.583731,
+            46.379289
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Teichen dieses weitläufigen Parks, und packen Sie ein leichtes Picknick ein, um es auf dem Rasen zu genießen.",
+            "hu": "Pihenjen e kiterjedt park festői tavai mellett, és csomagoljon egy könnyű pikniket, amit a füvön fogyaszthat el távol a város zajától.",
+            "ro": "Relaxați-vă lângă iazurile pitorești ale acestui parc de agrement, pregătind un picnic ușor pentru a vă bucura de el pe iarbă, departe de centru.",
+            "en": "Relax by the scenic ponds of this sprawling recreational park, packing a light picnic to enjoy on the grass away from the busy city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            2.622374,
+            46.355258
+          ],
+          "category": "civic",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für lokale Helden Ihren Respekt, und halten Sie inne, um die eingravierten Namen zu lesen.",
+            "hu": "Tisztelegjen e komoly polgári emlékműnél a helyi hősök előtt, és álljon meg elolvasni a felvésett neveket, mielőtt továbbhajtana.",
+            "ro": "Prezentați-vă omagiile la acest monument civic solemn dedicat eroilor locali, oprindu-vă pentru a citi numele înscrise înainte de a continua drumul.",
+            "en": "Pay your respects at this solemn civic monument dedicated to local heroes, pausing to read the inscribed names before continuing your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Glacerie-Fußgängerbrücke",
+            "hu": "Glacerie gyaloghíd",
+            "ro": "Pasarela Glacerie",
+            "en": "Glacerie Footbridge"
+          },
+          "coords": [
+            2.609847,
+            46.353469
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ehemalige Eisenbahnbrücke für einzigartige Perspektiven über den Fluss Cher, und bringen Sie Ihre Kamera für Sonnenuntergangsbilder mit.",
+            "hu": "Keljen át ezen a volt ipari vasúti hídon, hogy különleges kilátást élvezhessen a Cher folyóra, és hozza magával fényképezőgépét a naplemente megörökítéséhez.",
+            "ro": "Traversați acest fost pod feroviar industrial pentru perspective unice asupra râului Cher, aducând aparatul foto pentru reflexii excelente la apus.",
+            "en": "Cross this former industrial railway bridge to enjoy unique perspectives over the river Cher, bringing your camera for excellent sunset reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "MuPop",
+            "hu": "MuPop",
+            "ro": "MuPop",
+            "en": "MuPop"
+          },
+          "coords": [
+            2.60563,
+            46.34109
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Frankreichs beste Sammlung von Musikinstrumenten, und nehmen Sie einen Audioguide, um sie spielen zu hören.",
+            "hu": "Fedezze fel Franciaország legjobb könnyűzenei hangszergyűjteményét ezen az interaktív helyen, és kérjen audioguide-ot a recepción.",
+            "ro": "Descoperiți cea mai bună colecție de instrumente muzicale din Franța în acest muzeu interactiv, luând un ghid audio de la intrare pentru a le asculta.",
+            "en": "Discover France's finest collection of popular music instruments in this interactive museum, grabbing an audio guide at the desk to hear them play."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge von Bourbon",
+            "hu": "Bourbon hercegek vára",
+            "ro": "Castelul Ducilor de Bourbon",
+            "en": "Castle of the Dukes of Bourbon"
+          },
+          "coords": [
+            2.60355,
+            46.3401
+          ],
+          "category": "fortress",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 14. Jahrhundert wegen der Aussicht, und kommen Sie früh, um den steilen Aufstieg in der Hitze zu vermeiden.",
+            "hu": "Fedezze fel ezt a 14. századi erődöt a pazar kilátásért, és érkezzen korán, hogy elkerülje a meredek mászást a déli hőségben.",
+            "ro": "Explorați această fortăreață din secolul al XIV-lea pentru panorama orașului, sosind devreme pentru a evita urcușul abrupt pe căldură.",
+            "en": "Explore this imposing 14th-century fortress for its spectacular city views, arriving early to avoid the steep climb in the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour am Château de Bien-Assis und fahren Sie dann zum grünen Parc des Étangs de la Loue. Mittags geht es am Kriegerdenkmal vorbei zur historischen Glacerie-Brücke. Verbringen Sie den Nachmittag im Musikmuseum MuPop im Zentrum. Beenden Sie den Tag mit einem Spaziergang zum legendären Schloss der Herzöge von Bourbon bei Sonnenuntergang.",
+        "hu": "Kezdje autós túráját a fenséges Château de Bien-Assis-nél, majd irány a Parc des Étangs de la Loue zöldellő parkja. Délben ejtse útba a háborús emlékművet és a történelmi Glacerie gyaloghidat. Délutánját a MuPop zenei múzeumban töltheti. A napot a belvárosban zárja, ahol a naplemente fényében csodálhatja meg a Bourbon hercegek várát.",
+        "ro": "Începeți traseul auto la Château de Bien-Assis, îndreptându-vă apoi spre spațiile verzi din Parc des Étangs de la Loue. La prânz, treceți pe la Monumentul Eroilor și pasarela istorică Glacerie. Petreceți după-amiaza descoperind istoria muzicii la MuPop. Încheiați ziua admirând Castelul Ducilor de Bourbon în lumina apusului.",
+        "en": "Kick off your driving tour at the majestic Château de Bien-Assis before heading to the green expanse of Parc des Étangs de la Loue. Midday takes you past the towering War Memorial to the historic Glacerie Footbridge. Spend your afternoon diving into French musical history at MuPop. Wrap up the day parking near the center to admire the iconic Castle of the Dukes of Bourbon at sunset."
+      }
+    }
+  }
+}

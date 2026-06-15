@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-muxia-cities-v2",
+  "anchor": {
+    "name": "Muxía",
+    "coords": [
+      -9.21819,
+      43.10712
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Muxía",
+            "hu": "Concello de Muxía",
+            "ro": "Concello de Muxía",
+            "en": "Concello de Muxía"
+          },
+          "coords": [
+            -9.216943,
+            43.104376
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses im Zentrum und machen Sie ein kurzes Foto, bevor Sie die wunderschönen Küstenwege erkunden.",
+            "hu": "Csodálja meg a történelmi központot rögzítő városháza hagyományos építészetét, és készítsen egy gyors fotót, mielőtt a gyönyörű tengerparti utakra lépne.",
+            "ro": "Admirați arhitectura tradițională a primăriei care ancorează centrul istoric și faceți o fotografie rapidă înainte de a vă îndrepta spre cărările de coastă.",
+            "en": "Admire the traditional architecture of the town hall that anchors the historic center, and take a quick photo before heading towards the coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Lanchas",
+            "hu": "Praia das Lanchas",
+            "ro": "Praia das Lanchas",
+            "en": "Praia das Lanchas"
+          },
+          "coords": [
+            -9.216635,
+            43.105277
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die beruhigenden Wellen an diesem zentralen Strand für einen morgendlichen Spaziergang, aber tragen Sie bequeme Schuhe für die sandigen Abschnitte.",
+            "hu": "Élvezze a nyugtató hullámokat ezen a központi strandon egy reggeli séta során, de mindenképpen viseljen kényelmes cipőt a homokos és sziklás részekhez.",
+            "ro": "Bucurați-vă de valurile liniștitoare la această plajă centrală perfectă pentru o plimbare, dar purtați încălțăminte confortabilă pentru zonele nisipoase.",
+            "en": "Enjoy the calming waves at this central beach which offers a perfect morning stroll, but be sure to wear comfortable shoes for the sandy and rocky sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Muxía",
+            "hu": "Igrexa de Santa María de Muxía",
+            "ro": "Igrexa de Santa María de Muxía",
+            "en": "Igrexa de Santa María de Muxía"
+          },
+          "coords": [
+            -9.217019,
+            43.108638
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Erbe dieser Küstenkirche, die die lokale Hingabe symbolisiert, und kommen Sie früh, um die friedliche Atmosphäre zu erleben.",
+            "hu": "Fedezze fel ennek a tengerparti templomnak a szellemi örökségét, és látogasson el ide korán, hogy teljes mértékben megtapasztalja a békés atmoszférát.",
+            "ro": "Descoperiți moștenirea spirituală a acestei biserici de coastă ce reprezintă devotamentul local și vizitați-o devreme pentru a simți atmosfera pașnică.",
+            "en": "Discover the spiritual heritage of this coastal church which represents local maritime devotion, and visit early to experience its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Corpiño",
+            "hu": "Miradoiro do Corpiño",
+            "ro": "Miradoiro do Corpiño",
+            "en": "Miradoiro do Corpiño"
+          },
+          "coords": [
+            -9.218123,
+            43.108705
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Aussichtspunkt hinauf für weite Panoramen des Atlantiks und bringen Sie eine Windjacke mit, da die Meeresbrise hier ziemlich kühl ist.",
+            "hu": "Másszon fel erre a lenyűgöző kilátópontra az Atlanti-óceán széles panorámájáért, és hozzon magával széldzsekit, mivel a tengeri szellő elég hűvös lehet.",
+            "ro": "Urcați la acest punct de belvedere impresionant pentru panorame ample ale Atlanticului și aduceți o geacă de vânt, deoarece briza poate fi destul de rece.",
+            "en": "Climb up to this stunning viewpoint for sweeping panoramas of the wild Atlantic ocean, and bring a windbreaker as the sea breeze can be quite chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Secadoiro de Congrios",
+            "hu": "Secadoiro de Congrios",
+            "ro": "Secadoiro de Congrios",
+            "en": "Secadoiro de Congrios"
+          },
+          "coords": [
+            -9.21611,
+            43.109038
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die traditionellen Holzstrukturen zum Trocknen von Congeraalen, die Muxías Erbe betonen, und gehen Sie vorsichtig um die alten Rahmen herum.",
+            "hu": "Tekintse meg a tengeri angolnák szárítására használt hagyományos faépítményeket, és óvatosan sétáljon az ősi, kissé törékeny keretek közvetlen közelében.",
+            "ro": "Vedeți structurile tradiționale din lemn folosite pentru uscarea anghilelor și plimbați-vă cu mare atenție în jurul cadrelor antice și fragile.",
+            "en": "See the traditional wooden structures used for drying conger eels which highlight Muxía's heritage, and walk carefully around the fragile ancient frames."
+          }
+        },
+        {
+          "name": {
+            "de": "A Pedra de Abalar",
+            "hu": "A Pedra de Abalar",
+            "ro": "A Pedra de Abalar",
+            "en": "A Pedra de Abalar"
+          },
+          "coords": [
+            -9.22052,
+            43.112167
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen legendären Wackelstein, der mit lokalen Mythen verknüpft ist, und treten Sie leicht auf die umliegenden Felsen, um nicht zu verrutschen.",
+            "hu": "Csodálja meg ezt a Szűz Mária helyi mítoszaival összefonódott legendás ingókövet, és lépjen óvatosan a környező sziklákra a biztonságos megközelítésért.",
+            "ro": "Minunați-vă de această piatră legendară împletită cu miturile locale despre Fecioara Maria și pășiți ușor pe stâncile din jur pentru a evita alunecarea.",
+            "en": "Marvel at this legendary rocking stone intertwined with local myths of the Virgin Mary, and step lightly on the surrounding rocks to avoid slipping safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Muxía, wo Sie das charmante Gemeindezentrum erkunden und die frische Atlantikluft an den Stränden einatmen.\nGegen Mittag tauchen Sie in das spirituelle Erbe der Stadt ein und besuchen beeindruckende religiöse Wahrzeichen am weiten Meer.\nDer Nachmittag widmet sich der Natur, wenn Sie Aussichtspunkte erklimmen und die Trockengestelle für Congeraale sehen.\nIhr Abend endet mit einem legendären Sonnenuntergang in der Nähe der mythischen Wackelsteine, der unvergessliche Erinnerungen an Galicien hinterlässt.",
+        "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
+        "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Cruz",
+            "hu": "Praia da Cruz",
+            "ro": "Praia da Cruz",
+            "en": "Praia da Cruz"
+          },
+          "coords": [
+            -9.212603,
+            43.100223
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem ruhigen Strand, der für sein klares Wasser bekannt ist, und packen Sie leichte Snacks ein, um einen ruhigen Moment zu genießen.",
+            "hu": "Kezdje az utat ezen a tiszta vizéről és természetes szépségéről ismert békés strandon, és csomagoljon némi könnyű harapnivalót a nyugodt pihenéshez.",
+            "ro": "Începeți plimbarea pe această plajă senină cunoscută pentru apele sale clare și împachetați câteva gustări ușoare pentru a vă bucura de un moment liniștit.",
+            "en": "Start your ride at this serene beach known for its clear waters and natural beauty, and pack some light snacks to enjoy a quiet moment by the gentle shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Muxía",
+            "hu": "Concello de Muxía",
+            "ro": "Concello de Muxía",
+            "en": "Concello de Muxía"
+          },
+          "coords": [
+            -9.216943,
+            43.104376
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses im Zentrum und machen Sie ein kurzes Foto, bevor Sie die wunderschönen Küstenwege erkunden.",
+            "hu": "Csodálja meg a történelmi központot rögzítő városháza hagyományos építészetét, és készítsen egy gyors fotót, mielőtt a gyönyörű tengerparti utakra lépne.",
+            "ro": "Admirați arhitectura tradițională a primăriei care ancorează centrul istoric și faceți o fotografie rapidă înainte de a vă îndrepta spre cărările de coastă.",
+            "en": "Admire the traditional architecture of the town hall that anchors the historic center, and take a quick photo before heading towards the coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Secadoiro da Pedriña",
+            "hu": "Secadoiro da Pedriña",
+            "ro": "Secadoiro da Pedriña",
+            "en": "Secadoiro da Pedriña"
+          },
+          "coords": [
+            -9.220436,
+            43.104984
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historischen Trockengestelle, die einen Einblick in die Vergangenheit bieten, und bringen Sie eine Kamera für die texturierten Details mit.",
+            "hu": "Fedezze fel ezeket a történelmi szárítóállványokat, amelyek bepillantást engednek a halászati múltba, és hozzon jó fényképezőgépet a részletek megörökítéséhez.",
+            "ro": "Explorați aceste rastele istorice de uscare care oferă o privire în trecutul pescăresc și aduceți un aparat foto bun pentru a surprinde texturile autentice.",
+            "en": "Explore these historic drying racks that offer a glimpse into the region's fishing past, and bring a good camera to capture the authentic maritime textures."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Muxía",
+            "hu": "Igrexa de Santa María de Muxía",
+            "ro": "Igrexa de Santa María de Muxía",
+            "en": "Igrexa de Santa María de Muxía"
+          },
+          "coords": [
+            -9.217019,
+            43.108638
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Erbe dieser Küstenkirche, die die lokale Hingabe symbolisiert, und kommen Sie früh, um die friedliche Atmosphäre zu erleben.",
+            "hu": "Fedezze fel ennek a tengerparti templomnak a szellemi örökségét, és látogasson el ide korán, hogy teljes mértékben megtapasztalja a békés atmoszférát.",
+            "ro": "Descoperiți moștenirea spirituală a acestei biserici de coastă ce reprezintă devotamentul local și vizitați-o devreme pentru a simți atmosfera pașnică.",
+            "en": "Discover the spiritual heritage of this coastal church which represents local maritime devotion, and visit early to experience its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "A Pedra de Abalar",
+            "hu": "A Pedra de Abalar",
+            "ro": "A Pedra de Abalar",
+            "en": "A Pedra de Abalar"
+          },
+          "coords": [
+            -9.22052,
+            43.112167
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen legendären Wackelstein, der mit lokalen Mythen verknüpft ist, und treten Sie leicht auf die umliegenden Felsen, um nicht zu verrutschen.",
+            "hu": "Csodálja meg ezt a Szűz Mária helyi mítoszaival összefonódott legendás ingókövet, és lépjen óvatosan a környező sziklákra a biztonságos megközelítésért.",
+            "ro": "Minunați-vă de această piatră legendară împletită cu miturile locale despre Fecioara Maria și pășiți ușor pe stâncile din jur pentru a evita alunecarea.",
+            "en": "Marvel at this legendary rocking stone intertwined with local myths of the Virgin Mary, and step lightly on the surrounding rocks to avoid slipping safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Muxía, wo Sie das charmante Gemeindezentrum erkunden und die frische Atlantikluft an den Stränden einatmen.\nGegen Mittag tauchen Sie in das spirituelle Erbe der Stadt ein und besuchen beeindruckende religiöse Wahrzeichen am weiten Meer.\nDer Nachmittag widmet sich der Natur, wenn Sie Aussichtspunkte erklimmen und die Trockengestelle für Congeraale sehen.\nIhr Abend endet mit einem legendären Sonnenuntergang in der Nähe der mythischen Wackelsteine, der unvergessliche Erinnerungen an Galicien hinterlässt.",
+        "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
+        "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Lourido",
+            "hu": "Praia de Lourido",
+            "ro": "Praia de Lourido",
+            "en": "Praia de Lourido"
+          },
+          "coords": [
+            -9.222853,
+            43.087364
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem weitläufigen Sandstrand, der perfekt für eine Pause ist, und kommen Sie früh an, um einen erstklassigen Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a hatalmas homokos szakaszon, amely tökéletes a napsütéses kikapcsolódáshoz, és érkezzen korán, hogy biztosítsa a legjobb helyet a vízparton.",
+            "ro": "Relaxați-vă pe această întindere de nisip perfectă pentru a vă destinde la soare și ajungeți dimineața devreme pentru a prinde un loc bun lângă ocean.",
+            "en": "Relax on this expansive sandy stretch perfect for unwinding in the sun, and arrive early in the morning to secure a prime spot near the gentle ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de San Roque de Moraime",
+            "hu": "Capela de San Roque de Moraime",
+            "ro": "Capela de San Roque de Moraime",
+            "en": "Capela de San Roque de Moraime"
+          },
+          "coords": [
+            -9.203217,
+            43.090434
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante rustikale Kapelle, die ein ruhiges Heiligtum darstellt, und nehmen Sie sich einen Moment Zeit, um die Steinarchitektur zu bewundern.",
+            "hu": "Látogasson el ebbe a bájos rusztikus kápolnába, amely csendes menedékként áll a tájban, és szánjon egy pillanatot az egyszerű kőépítészet megcsodálására.",
+            "ro": "Vizitați această capelă rustică fermecătoare care stă ca un sanctuar liniștit în peisaj și acordați-vă un moment pentru a admira arhitectura simplă din piatră.",
+            "en": "Visit this charming rustic chapel that stands as a quiet sanctuary amid the landscape, and take a moment to admire the simplistic stone architecture outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Fornelos",
+            "hu": "Praia de Fornelos",
+            "ro": "Praia de Fornelos",
+            "en": "Praia de Fornelos"
+          },
+          "coords": [
+            -9.204374,
+            43.101363
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause in dieser versteckten Bucht mit dramatischen Felsformationen und tragen Sie feste Sandalen, da das Gelände unberechenbar ist.",
+            "hu": "Tarts egy frissítő szünetet ebben a rejtett öbölben, amely drámai tengerparti formációkat kínál, és viselj masszív szandált a kiszámíthatatlan terep miatt.",
+            "ro": "Faceți o pauză revigorantă la acest golf ascuns cu formațiuni de coastă dramatice și purtați sandale rezistente, deoarece terenul poate fi imprevizibil.",
+            "en": "Take a revitalizing break at this hidden cove featuring dramatic coastal formations, and wear sturdy sandals as the terrain can be slightly unpredictable here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Muxía",
+            "hu": "Igrexa de Santa María de Muxía",
+            "ro": "Igrexa de Santa María de Muxía",
+            "en": "Igrexa de Santa María de Muxía"
+          },
+          "coords": [
+            -9.217019,
+            43.108638
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Erbe dieser Küstenkirche, die die lokale Hingabe symbolisiert, und kommen Sie früh, um die friedliche Atmosphäre zu erleben.",
+            "hu": "Fedezze fel ennek a tengerparti templomnak a szellemi örökségét, és látogasson el ide korán, hogy teljes mértékben megtapasztalja a békés atmoszférát.",
+            "ro": "Descoperiți moștenirea spirituală a acestei biserici de coastă ce reprezintă devotamentul local și vizitați-o devreme pentru a simți atmosfera pașnică.",
+            "en": "Discover the spiritual heritage of this coastal church which represents local maritime devotion, and visit early to experience its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Corpiño",
+            "hu": "Miradoiro do Corpiño",
+            "ro": "Miradoiro do Corpiño",
+            "en": "Miradoiro do Corpiño"
+          },
+          "coords": [
+            -9.218123,
+            43.108705
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Aussichtspunkt hinauf für weite Panoramen des Atlantiks und bringen Sie eine Windjacke mit, da die Meeresbrise hier ziemlich kühl ist.",
+            "hu": "Másszon fel erre a lenyűgöző kilátópontra az Atlanti-óceán széles panorámájáért, és hozzon magával széldzsekit, mivel a tengeri szellő elég hűvös lehet.",
+            "ro": "Urcați la acest punct de belvedere impresionant pentru panorame ample ale Atlanticului și aduceți o geacă de vânt, deoarece briza poate fi destul de rece.",
+            "en": "Climb up to this stunning viewpoint for sweeping panoramas of the wild Atlantic ocean, and bring a windbreaker as the sea breeze can be quite chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Secadoiro de Congrios",
+            "hu": "Secadoiro de Congrios",
+            "ro": "Secadoiro de Congrios",
+            "en": "Secadoiro de Congrios"
+          },
+          "coords": [
+            -9.21611,
+            43.109038
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie die traditionellen Holzstrukturen zum Trocknen von Congeraalen, die Muxías Erbe betonen, und gehen Sie vorsichtig um die alten Rahmen herum.",
+            "hu": "Tekintse meg a tengeri angolnák szárítására használt hagyományos faépítményeket, és óvatosan sétáljon az ősi, kissé törékeny keretek közvetlen közelében.",
+            "ro": "Vedeți structurile tradiționale din lemn folosite pentru uscarea anghilelor și plimbați-vă cu mare atenție în jurul cadrelor antice și fragile.",
+            "en": "See the traditional wooden structures used for drying conger eels which highlight Muxía's heritage, and walk carefully around the fragile ancient frames."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Muxía, wo Sie das charmante Gemeindezentrum erkunden und die frische Atlantikluft an den Stränden einatmen.\nGegen Mittag tauchen Sie in das spirituelle Erbe der Stadt ein und besuchen beeindruckende religiöse Wahrzeichen am weiten Meer.\nDer Nachmittag widmet sich der Natur, wenn Sie Aussichtspunkte erklimmen und die Trockengestelle für Congeraale sehen.\nIhr Abend endet mit einem legendären Sonnenuntergang in der Nähe der mythischen Wackelsteine, der unvergessliche Erinnerungen an Galicien hinterlässt.",
+        "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
+        "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      }
+    }
+  }
+}

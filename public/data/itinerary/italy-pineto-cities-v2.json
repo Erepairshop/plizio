@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-pineto-cities-v2",
+  "anchor": {
+    "name": "Pineto",
+    "coords": [
+      14.0671,
+      42.60777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Pineto",
+            "hu": "Municipio di Pineto",
+            "ro": "Municipio di Pineto",
+            "en": "Municipio di Pineto"
+          },
+          "coords": [
+            14.066978,
+            42.607813
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz von Pineto in diesem historischen Rathaus, bewundern Sie die elegante Architektur und holen Sie sich einen Stadtplan im Eingangsbereich.",
+            "hu": "Fedezze fel Pineto polgári központját ebben a történelmi városházában, gyönyörködjön elegáns építészetében, és szerezzen be egy várostérképet a bejáratnál.",
+            "ro": "Explorați inima civică a orașului Pineto în această clădire municipală istorică, admirând arhitectura sa elegantă și luând o hartă a orașului de la intrare.",
+            "en": "Explore the civic heart of Pineto in this historic municipal building, noting its elegant architecture while grabbing a local town map from the entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale di Pineto",
+            "hu": "Teatro Comunale di Pineto",
+            "ro": "Teatro Comunale di Pineto",
+            "en": "Teatro Comunale di Pineto"
+          },
+          "coords": [
+            14.065605,
+            42.607082
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Gemeindetheater in die lokale Kultur ein und schauen Sie unbedingt am Schwarzen Brett nach den Abendvorstellungen während Ihres Aufenthalts.",
+            "hu": "Merüljön el a helyi kultúrában ebben a bájos közösségi színházban, és mindenképpen ellenőrizze a faliújságot az esti előadásokkal kapcsolatban.",
+            "ro": "Imersați-vă în cultura locală la acest teatru comunitar fermecător, asigurându-vă că verificați panoul de anunțuri pentru orice spectacol de seară în timpul șederii.",
+            "en": "Immerse yourself in local culture at this charming community theater, making sure to check the bulletin board for any evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "I due fratelli",
+            "hu": "I due fratelli",
+            "ro": "I due fratelli",
+            "en": "I due fratelli"
+          },
+          "coords": [
+            14.070267,
+            42.60748
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Brise an diesem beliebten Küstenabschnitt, der sich perfekt für eine entspannte Pause am Vormittag mit einem schnellen Espresso eignet.",
+            "hu": "Élvezze a frissítő szellőt ezen a népszerű tengerparti helyen, amely tökéletes egy pihentető délelőtti szünethez egy közeli kávézóban elfogyasztott presszókávéval.",
+            "ro": "Bucurați-vă de briza răcoroasă în acest loc popular de coastă, perfect pentru o pauză relaxantă la jumătatea dimineții cu un espresso rapid de la o cafenea din apropiere.",
+            "en": "Enjoy the refreshing breeze at this popular coastal spot, perfect for a relaxing mid-morning break with a quick espresso from a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Marco Polo",
+            "hu": "Marco Polo",
+            "ro": "Marco Polo",
+            "en": "Marco Polo"
+          },
+          "coords": [
+            14.071163,
+            42.606372
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandatmosphäre in diesem beliebten Freizeitgebiet, wo eine frühe Liegenmiete den besten Platz in der Nähe der sanften Wellen garantiert.",
+            "hu": "Tapasztalja meg a nyüzsgő tengerparti hangulatot ezen a kedvelt szabadidős területen, ahol a korai napágybérlés garantálja a legjobb helyet a lágy hullámok közelében.",
+            "ro": "Experimentați atmosfera vibrantă de pe plajă în această zonă de agrement iubită, unde închirierea timpurie a unui șezlong vă garantează cel mai bun loc.",
+            "en": "Experience the vibrant beachside atmosphere at this well-loved leisure area, where renting a sunbed early guarantees you the best spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelluccio di Parco Filiani",
+            "hu": "Castelluccio di Parco Filiani",
+            "ro": "Castelluccio di Parco Filiani",
+            "en": "Castelluccio di Parco Filiani"
+          },
+          "coords": [
+            14.065528,
+            42.603915
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses malerische Wahrzeichen inmitten üppigen Grüns und vergessen Sie Ihre Kamera nicht, um den atemberaubenden Panoramablick einzufangen.",
+            "hu": "Sétáljon körbe ez a festői, buja zöld növényzetben megbúvó nevezetesség körül, és ne felejtse el a fényképezőgépét, hogy megörökítse a lenyűgöző panorámát.",
+            "ro": "Plimbați-vă prin acest punct de reper pitoresc situat în mijlocul verdeții luxuriante și nu uitați aparatul foto pentru a surprinde vederile panoramice uimitoare.",
+            "en": "Wander around this picturesque landmark set amidst lush greenery, and don't forget your camera to capture the stunning panoramic views over the Adriatic coast."
+          }
+        },
+        {
+          "name": {
+            "de": "La pinetina",
+            "hu": "La pinetina",
+            "ro": "La pinetina",
+            "en": "La pinetina"
+          },
+          "coords": [
+            14.073466,
+            42.603399
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den ikonischen Pinien, die der Stadt ihren Namen geben, und breiten Sie eine Picknickdecke aus, um einen friedlichen späten Nachmittag zu genießen.",
+            "hu": "Pihenjen meg a városnak nevet adó ikonikus fenyőfák alatt, terítsen le egy pikniktakarót, és élvezze a békés késő délutánt a természet lágy ölén.",
+            "ro": "Relaxați-vă sub pinii iconici care dau numele orașului, întinzând o pătură de picnic pentru a vă bucura de o după-amiază târzie liniștită în natură.",
+            "en": "Unwind under the iconic pine trees that give the town its name, spreading out a picnic blanket to enjoy a peaceful late afternoon surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im historischen Zentrum, entdecken Sie die städtische Architektur und das Gemeindetheater, bevor es an die lebhafte Küste geht.\n\nGegen Mittag tauchen Sie am I due fratelli und Marco Polo in die lebendige Strandatmosphäre ein, wo das glitzernde Wasser zu einer erfrischenden Pause einlädt.\n\nDer Nachmittag führt Sie landeinwärts zum bezaubernden Castelluccio di Parco Filiani, einem Wahrzeichen mit herrlichem Panoramablick über das Meer.\n\nBeenden Sie den Tag entspannt unter den berühmten Pinien von La pinetina, während die Abendbrise Ihr Küstenabenteuer friedlich ausklingen lässt.",
+        "hu": "Kezdje sétáját a történelmi központban, fedezze fel a városi építészetet és a közösségi színházat, mielőtt a nyüzsgő tengerpart felé venné az irányt.\n\nDélben merüljön el az I due fratelli és a Marco Polo élénk strandhangulatában, ahol a csillogó víz egy frissítő pihenőre csábít.\n\nDélután tegyen egy kitérőt a varázslatos Castelluccio di Parco Filiani felé, amely lenyűgöző panorámát kínál a tengerre a zöldellő fák közül.\n\nZárja a napot a La pinetina híres fenyőfái alatt pihenve, miközben az esti szellő békésen lezárja parti sétáját.",
+        "ro": "Începeți turul de mers pe jos în centrul istoric, descoperind arhitectura municipală și teatrul comunitar înainte de a vă îndrepta spre coasta vibrantă.\n\nLa prânz, imersați-vă în atmosfera plină de viață de la I due fratelli și Marco Polo, unde apele strălucitoare vă invită la o pauză revigorantă.\n\nDupă-amiaza vă poartă spre interiorul țării la încântătorul Castelluccio di Parco Filiani, un reper cu vederi panoramice magnifice asupra mării.\n\nÎncheiați ziua relaxându-vă sub pinii faimoși de la La pinetina, în timp ce briza serii aduce un final pașnic aventurii de coastă.",
+        "en": "Start your walking tour in the historic center of Pineto, discovering its elegant municipal architecture and the local cultural heart at the community theater before heading towards the vibrant coastline.\n\nBy midday, immerse yourself in the lively beach atmosphere at I due fratelli and Marco Polo, where the sparkling Adriatic waters invite you for a refreshing break and a relaxed lunch nearby.\n\nThe afternoon takes you slightly inland to the enchanting Castelluccio di Parco Filiani, a stunning landmark surrounded by greenery that offers magnificent panoramic views over the sea.\n\nEnd your day unwinding at La pinetina, relaxing under the shade of the town's famous pine trees while the evening breeze brings a peaceful close to your coastal walking adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 2.68,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Da Gino",
+            "hu": "Da Gino",
+            "ro": "Da Gino",
+            "en": "Da Gino"
+          },
+          "coords": [
+            14.064896,
+            42.614535
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem lebhaften nördlichen Strandabschnitt, kommen Sie früh, um leicht einen Parkplatz und eine ruhige Morgenatmosphäre zu finden.",
+            "hu": "Kezdje a napot az északi partszakasz közelében ezen a nyüzsgő helyen, érkezzen korán, hogy könnyen parkolót találjon és élvezze a nyugodt reggeli hangulatot.",
+            "ro": "Începeți-vă ziua lângă plaja nordică în acest loc plin de viață, ajungând devreme pentru a găsi parcare ușoară și o atmosferă matinală liniștită la malul mării.",
+            "en": "Kick off your day near the northern beach stretch at this lively spot, arriving early to find easy parking and a tranquil morning atmosphere by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Felicioni",
+            "hu": "Felicioni",
+            "ro": "Felicioni",
+            "en": "Felicioni"
+          },
+          "coords": [
+            14.065824,
+            42.61325
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der gepflegten Wege dieses Küstenerholungsgebiets, perfekt für einen flotten Morgenspaziergang, um sich mit der frischen Meeresluft zu beleben.",
+            "hu": "Sétáljon végig a parti üdülőövezet gondozott ösvényein, amely tökéletes egy lendületes reggeli sétához a friss tengeri levegőn.",
+            "ro": "Plimbați-vă de-a lungul căilor bine întreținute ale acestei zone de agrement de coastă, perfectă pentru o plimbare matinală alertă și aer proaspăt de mare.",
+            "en": "Stroll along the well-maintained pathways of this coastal recreation area, perfect for a brisk morning walk to invigorate yourself with the fresh sea air."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Pineto",
+            "hu": "Municipio di Pineto",
+            "ro": "Municipio di Pineto",
+            "en": "Municipio di Pineto"
+          },
+          "coords": [
+            14.066978,
+            42.607813
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz von Pineto in diesem historischen Rathaus, bewundern Sie die elegante Architektur und holen Sie sich einen Stadtplan im Eingangsbereich.",
+            "hu": "Fedezze fel Pineto polgári központját ebben a történelmi városházában, gyönyörködjön elegáns építészetében, és szerezzen be egy várostérképet a bejáratnál.",
+            "ro": "Explorați inima civică a orașului Pineto în această clădire municipală istorică, admirând arhitectura sa elegantă și luând o hartă a orașului de la intrare.",
+            "en": "Explore the civic heart of Pineto in this historic municipal building, noting its elegant architecture while grabbing a local town map from the entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "La gondola d'oro",
+            "hu": "La gondola d'oro",
+            "ro": "La gondola d'oro",
+            "en": "La gondola d'oro"
+          },
+          "coords": [
+            14.071965,
+            42.605324
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem einladenden Küstenabschnitt, der eine großartige Mischung aus weichem Sand und komfortablen Einrichtungen für eine kurze Erfrischung bietet.",
+            "hu": "Tartson egy kis szünetet ezen a hívogató partszakaszon, amely a puha homok és a kényelmes létesítmények nagyszerű keverékét kínálja egy gyors déli felfrissüléshez.",
+            "ro": "Luați o pauză în această secțiune de coastă primitoare, care oferă un amestec excelent de nisip fin și facilități confortabile pentru o scurtă reîmprospătare de prânz.",
+            "en": "Take a break at this inviting coastal section, which offers a great mix of soft sand and comfortable facilities for a quick midday seaside refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "La capanna",
+            "hu": "La capanna",
+            "ro": "La capanna",
+            "en": "La capanna"
+          },
+          "coords": [
+            14.074314,
+            42.602169
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den rustikalen Charme dieses entspannten Strandabschnitts und nutzen Sie die Gelegenheit, ein Tretboot zu mieten oder einfach unter einem Schirm zu faulenzen.",
+            "hu": "Élvezze ennek a nyugodt vízparti területnek a rusztikus varázsát, ragadja meg a lehetőséget egy vízibicikli bérlésére, vagy egyszerűen csak pihenjen egy napernyő alatt.",
+            "ro": "Savurați farmecul rustic al acestei zone relaxate de plajă, profitând de ocazie pentru a închiria o hidrobicicletă sau pur și simplu pentru a vă relaxa sub o umbrelă.",
+            "en": "Savor the rustic charm of this relaxed beachside area, taking the opportunity to rent a pedal boat or simply lounge under a colorful beach umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Marco's Beach",
+            "hu": "Marco's Beach",
+            "ro": "Marco's Beach",
+            "en": "Marco's Beach"
+          },
+          "coords": [
+            14.075656,
+            42.600469
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Lassen Sie sich vom goldenen Sand und dem klaren Wasser dieses zentralen Strandes verzaubern und bringen Sie Ihre eigene Schnorchelausrüstung für das flache Ufer mit.",
+            "hu": "Hagyja, hogy elvarázsolja e központi strand aranyhomokja és tiszta vize, és fontolja meg saját sznorkelfelszerelésének elhozását a szelíd partvonal felfedezéséhez.",
+            "ro": "Lăsați-vă captivat de nisipul auriu și apele clare ale acestei plaje centrale și luați în considerare aducerea propriului echipament de snorkeling.",
+            "en": "Let the golden sands and clear waters of this central beach captivate you, and consider bringing your own snorkeling gear to explore the gentle shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "La Nelide",
+            "hu": "La Nelide",
+            "ro": "La Nelide",
+            "en": "La Nelide"
+          },
+          "coords": [
+            14.081195,
+            42.594397
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem ruhigen südlichen Ort, der idyllische Ausblicke für einen Abendspaziergang bietet, wenn die Sonne lange, warme Schatten wirft.",
+            "hu": "Zárja part menti utazását ezen a nyugodt déli helyen, amely idilli kilátást nyújt egy esti sétához, amikor a nap hosszú, meleg árnyékokat kezd vetni.",
+            "ro": "Încheiați-vă călătoria de coastă în acest loc sudic liniștit, oferind vederi idilice pentru o plimbare de seară pe măsură ce soarele aruncă umbre lungi și calde.",
+            "en": "Conclude your coastal journey at this tranquil southern spot, offering idyllic views for an evening stroll as the sun begins to cast long, warm shadows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am nördlichen Rand bei Da Gino und Felicioni, und radeln Sie gemütlich auf den Küstenwegen in der frischen, salzigen Morgenluft.\n\nFahren Sie ins Landesinnere zum historischen Municipio di Pineto, und kehren Sie dann für eine erholsame Mittagspause an die sonnige Küste bei La gondola d'oro zurück.\n\nSetzen Sie Ihre sanfte Fahrt nach Süden fort und halten Sie am rustikalen La capanna sowie am einladenden Marco's Beach, um den Nachmittag zu genießen.\n\nBeenden Sie Ihre Fahrradreise an der ruhigen Südspitze von La Nelide und beobachten Sie das Farbenspiel des Himmels, bevor Sie mit schönen Erinnerungen zurückradeln.",
+        "hu": "Kezdje kerékpártúráját az északi peremen, a Da Gino és a Felicioni közelében, kényelmesen tekerve a parti ösvényeken a friss, sós levegőben.\n\nKerekezzen a belvárosba a történelmi Municipio di Pineto megcsodálására, majd térjen vissza a napfényes partra a La gondola d'oro-hoz egy déli pihenőre.\n\nFolytassa útját dél felé, álljon meg a rusztikus La capanna-nál és a hívogató Marco's Beach-en, hogy élvezze a csodálatos délutáni partvidéket.\n\nZárja kerékpáros utazását a nyugodt La Nelide déli csücskénél, figyelve az ég színváltozását a békés vizek felett, mielőtt hazatekerne.",
+        "ro": "Începeți plimbarea cu bicicleta la marginea nordică lângă Da Gino și Felicioni, pedalând confortabil pe căile de coastă în aerul proaspăt al dimineții.\n\nPedalați spre interior pentru a admira clădirea istorică Municipio di Pineto, apoi întoarceți-vă pe coasta însorită la La gondola d'oro pentru prânz.\n\nContinuați-vă plimbarea lină spre sud, oprindu-vă la rustica La capanna și la nisipurile primitoare de la Marco's Beach pentru a vă bucura de după-amiază.\n\nÎncheiați-vă călătoria la extremitatea sudică senină de la La Nelide, privind cum cerul își schimbă culorile înainte de a pedala înapoi.",
+        "en": "Kick off your cycling trip along the northern edge at Da Gino and Felicioni, pedaling comfortably on the coastal paths while breathing in the fresh, salty morning air of the Adriatic.\n\nCycle inland to admire the historic Municipio di Pineto, then return to the sun-kissed coast at La gondola d'oro for a relaxing midday break amidst the lively beachside culture.\n\nContinue your smooth ride southwards, stopping at the rustic La capanna and the inviting sands of Marco's Beach to enjoy the best of Pineto's beautiful afternoon shoreline.\n\nConclude your bicycle journey at the serene southern tip of La Nelide, watching the sky change colors over the calm waters before pedaling back with wonderful coastal memories."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 2.97,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Nelide",
+            "hu": "La Nelide",
+            "ro": "La Nelide",
+            "en": "La Nelide"
+          },
+          "coords": [
+            14.081195,
+            42.594397
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem ruhigen südlichen Ort, der idyllische Ausblicke für einen Abendspaziergang bietet, wenn die Sonne lange, warme Schatten wirft.",
+            "hu": "Zárja part menti utazását ezen a nyugodt déli helyen, amely idilli kilátást nyújt egy esti sétához, amikor a nap hosszú, meleg árnyékokat kezd vetni.",
+            "ro": "Încheiați-vă călătoria de coastă în acest loc sudic liniștit, oferind vederi idilice pentru o plimbare de seară pe măsură ce soarele aruncă umbre lungi și calde.",
+            "en": "Conclude your coastal journey at this tranquil southern spot, offering idyllic views for an evening stroll as the sun begins to cast long, warm shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Marco's Beach",
+            "hu": "Marco's Beach",
+            "ro": "Marco's Beach",
+            "en": "Marco's Beach"
+          },
+          "coords": [
+            14.075656,
+            42.600469
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie sich vom goldenen Sand und dem klaren Wasser dieses zentralen Strandes verzaubern und bringen Sie Ihre eigene Schnorchelausrüstung für das flache Ufer mit.",
+            "hu": "Hagyja, hogy elvarázsolja e központi strand aranyhomokja és tiszta vize, és fontolja meg saját sznorkelfelszerelésének elhozását a szelíd partvonal felfedezéséhez.",
+            "ro": "Lăsați-vă captivat de nisipul auriu și apele clare ale acestei plaje centrale și luați în considerare aducerea propriului echipament de snorkeling.",
+            "en": "Let the golden sands and clear waters of this central beach captivate you, and consider bringing your own snorkeling gear to explore the gentle shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelluccio di Parco Filiani",
+            "hu": "Castelluccio di Parco Filiani",
+            "ro": "Castelluccio di Parco Filiani",
+            "en": "Castelluccio di Parco Filiani"
+          },
+          "coords": [
+            14.065528,
+            42.603915
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses malerische Wahrzeichen inmitten üppigen Grüns und vergessen Sie Ihre Kamera nicht, um den atemberaubenden Panoramablick einzufangen.",
+            "hu": "Sétáljon körbe ez a festői, buja zöld növényzetben megbúvó nevezetesség körül, és ne felejtse el a fényképezőgépét, hogy megörökítse a lenyűgöző panorámát.",
+            "ro": "Plimbați-vă prin acest punct de reper pitoresc situat în mijlocul verdeții luxuriante și nu uitați aparatul foto pentru a surprinde vederile panoramice uimitoare.",
+            "en": "Wander around this picturesque landmark set amidst lush greenery, and don't forget your camera to capture the stunning panoramic views over the Adriatic coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale di Pineto",
+            "hu": "Teatro Comunale di Pineto",
+            "ro": "Teatro Comunale di Pineto",
+            "en": "Teatro Comunale di Pineto"
+          },
+          "coords": [
+            14.065605,
+            42.607082
+          ],
+          "category": "cultural",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Gemeindetheater in die lokale Kultur ein und schauen Sie unbedingt am Schwarzen Brett nach den Abendvorstellungen während Ihres Aufenthalts.",
+            "hu": "Merüljön el a helyi kultúrában ebben a bájos közösségi színházban, és mindenképpen ellenőrizze a faliújságot az esti előadásokkal kapcsolatban.",
+            "ro": "Imersați-vă în cultura locală la acest teatru comunitar fermecător, asigurându-vă că verificați panoul de anunțuri pentru orice spectacol de seară în timpul șederii.",
+            "en": "Immerse yourself in local culture at this charming community theater, making sure to check the bulletin board for any evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Pineto",
+            "hu": "Municipio di Pineto",
+            "ro": "Municipio di Pineto",
+            "en": "Municipio di Pineto"
+          },
+          "coords": [
+            14.066978,
+            42.607813
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bürgerliche Herz von Pineto in diesem historischen Rathaus, bewundern Sie die elegante Architektur und holen Sie sich einen Stadtplan im Eingangsbereich.",
+            "hu": "Fedezze fel Pineto polgári központját ebben a történelmi városházában, gyönyörködjön elegáns építészetében, és szerezzen be egy várostérképet a bejáratnál.",
+            "ro": "Explorați inima civică a orașului Pineto în această clădire municipală istorică, admirând arhitectura sa elegantă și luând o hartă a orașului de la intrare.",
+            "en": "Explore the civic heart of Pineto in this historic municipal building, noting its elegant architecture while grabbing a local town map from the entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Gino",
+            "hu": "Da Gino",
+            "ro": "Da Gino",
+            "en": "Da Gino"
+          },
+          "coords": [
+            14.064896,
+            42.614535
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem lebhaften nördlichen Strandabschnitt, kommen Sie früh, um leicht einen Parkplatz und eine ruhige Morgenatmosphäre zu finden.",
+            "hu": "Kezdje a napot az északi partszakasz közelében ezen a nyüzsgő helyen, érkezzen korán, hogy könnyen parkolót találjon és élvezze a nyugodt reggeli hangulatot.",
+            "ro": "Începeți-vă ziua lângă plaja nordică în acest loc plin de viață, ajungând devreme pentru a găsi parcare ușoară și o atmosferă matinală liniștită la malul mării.",
+            "en": "Kick off your day near the northern beach stretch at this lively spot, arriving early to find easy parking and a tranquil morning atmosphere by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am ruhigen südlichen Abschnitt von La Nelide mit einem Spaziergang, bevor Sie zum goldenen Sand von Marco's Beach fahren.\n\nFahren Sie mittags ins Landesinnere zum wunderschönen Park rund um das Castelluccio di Parco Filiani, ein perfekter Rückzugsort mit fantastischer Aussicht.\n\nAm Nachmittag erkunden Sie das Stadtzentrum und besuchen das Teatro Comunale sowie das historische Municipio, wo das reiche Erbe Pinetos präsentiert wird.\n\nFahren Sie am Abend nach Norden ins lebhafte Da Gino-Viertel, um den Tag ausklingen zu lassen und die typisch italienische Küstendämmerung zu genießen.",
+        "hu": "Kezdje autós túráját a La Nelide nyugodt déli szakaszán egy sétával, mielőtt felhajtana a Marco's Beach aranyhomokos partjára egy gyors csobbanásra.\n\nDélben vezessen a Castelluccio di Parco Filiani körüli gyönyörű parkba, amely tökéletes déli menedéket és fantasztikus kilátást kínál a strandoktól távol.\n\nDélután irány a városközpont a kulturális látnivalókért, látogasson el a Teatro Comunale-ba és a történelmi városházába, amely bemutatja Pineto örökségét.\n\nEste vezessen északra a nyüzsgő Da Gino környékére, hogy lezárja a napot, és élvezze a pezsgő esti hangulatot a tengerparton.",
+        "ro": "Începeți turul cu mașina la secțiunea sudică liniștită de la La Nelide cu o plimbare, înainte de a conduce spre nisipurile aurii de la Marco's Beach.\n\nLa prânz, conduceți spre interiorul țării către parcul frumos din jurul Castelluccio di Parco Filiani, un refugiu perfect care oferă vederi fantastice.\n\nDupă-amiaza, mergeți în centrul orașului pentru a explora atracțiile culturale, vizitând Teatro Comunale și clădirea istorică Municipio di Pineto.\n\nSeara, conduceți spre nord în zona vibrantă Da Gino pentru a încheia ziua, bucurându-vă de atmosfera plină de viață și de amurgul de coastă italian.",
+        "en": "Begin your driven tour at the peaceful southern stretch of La Nelide, enjoying an unhurried morning stroll before driving up to the golden sands of Marco's Beach for a quick dip.\n\nDrive inland to the beautiful parklands surrounding Castelluccio di Parco Filiani, a perfect midday retreat offering historical charm and fantastic views away from the busy beaches.\n\nHead into the town center to explore the cultural highlights, visiting the Teatro Comunale and the historic Municipio, where Pineto's rich heritage is proudly on display.\n\nDrive north to the vibrant area of Da Gino to wrap up your day, taking in the lively evening atmosphere by the sea and enjoying the quintessential Italian coastal twilight."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "ma-casablanca-cities-v2",
+  "anchor": {
+    "name": "Casablanca",
+    "coords": [
+      -7.62,
+      33.59
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 1.63,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Vereinten Nationen",
+            "hu": "Egyesült Nemzetek tere",
+            "ro": "Piața Națiunilor Unite",
+            "en": "United Nations Square"
+          },
+          "coords": [
+            -7.618664,
+            33.594996
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und nutzen Sie die frühen Stunden für Fotos, bevor der große Trubel einsetzt.",
+            "hu": "Csodálja meg a modern építészetet, és használja ki a kora reggeli órákat a fotózásra, mielőtt beindul a nagy tömeg.",
+            "ro": "Admirați arhitectura modernă și profitați de orele dimineții pentru fotografii, înainte ca aglomerația să devină prea mare.",
+            "en": "Admire the modern architecture and take advantage of the early morning hours for photographs before the heavy crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fondation Abderrahman Slaoui",
+            "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+            "ro": "Muzeul Fundației Abderrahman Slaoui",
+            "en": "Abderrahman Slaoui Foundation Museum"
+          },
+          "coords": [
+            -7.622616,
+            33.592402
+          ],
+          "category": "museum",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie einzigartige marokkanische Schmuckstücke und Vintage-Plakate; planen Sie genug Zeit für die Details ein.",
+            "hu": "Fedezze fel az egyedi marokkói ékszereket és vintage plakátokat; hagyjon elég időt a lenyűgöző részletekre.",
+            "ro": "Descoperiți bijuterii marocane unice și postere de epocă; alocați suficient timp pentru a admira detaliile fascinante.",
+            "en": "Discover unique Moroccan jewelry and vintage posters; allow yourself plenty of time to fully appreciate the intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Arabischen Liga",
+            "hu": "Arab Liga Parkja",
+            "ro": "Parcul Ligii Arabe",
+            "en": "Arab League Park"
+          },
+          "coords": [
+            -7.624064,
+            33.588272
+          ],
+          "category": "park",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die majestätischen Palmenalleen und bringen Sie ein kühles Getränk für eine erholsame Pause mit.",
+            "hu": "Sétáljon végig a fenséges pálmafás sétányokon, és vigyen magával egy frissítő italt egy pihentető szünethez.",
+            "ro": "Plimbați-vă pe aleile maiestuoase mărginite de palmieri și aduceți o băutură răcoritoare pentru o pauză relaxantă.",
+            "en": "Stroll along the majestic palm-lined avenues and bring a refreshing drink with you to enjoy a relaxing break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa des Arts",
+            "hu": "Villa des Arts",
+            "ro": "Villa des Arts",
+            "en": "Villa des Arts"
+          },
+          "coords": [
+            -7.629555,
+            33.586425
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie zeitgenössische Kunst in einer wunderschönen Art-déco-Villa; der Eintritt ist oft frei, also ideal für Kulturfans.",
+            "hu": "Élvezze a kortárs művészetet egy gyönyörű art deco villában; a belépés gyakran ingyenes, így ideális a kultúra kedvelőinek.",
+            "ro": "Bucurați-vă de arta contemporană într-o superbă vilă art deco; intrarea este deseori gratuită, perfect pentru iubitorii de cultură.",
+            "en": "Enjoy contemporary art housed in a beautiful Art Deco villa; admission is often free, making it ideal for culture enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Twin Center",
+            "hu": "Twin Center",
+            "ro": "Twin Center",
+            "en": "Twin Center"
+          },
+          "coords": [
+            -7.632292,
+            33.586584
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Betrachten Sie die höchsten Gebäude der Stadt und besuchen Sie das Sky28 für einen atemberaubenden Panoramablick bei Sonnenuntergang.",
+            "hu": "Tekintse meg a város legmagasabb épületeit, és látogasson el a Sky28-ba, ahonnan lenyűgöző panoráma nyílik naplementekor.",
+            "ro": "Priviți cele mai înalte clădiri din oraș și vizitați Sky28 pentru o panoramă uimitoare asupra orașului la apus.",
+            "en": "Look up at the city's tallest buildings and visit Sky28 to enjoy a breathtaking panoramic view of the skyline at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Morgen beginnt am pulsierenden United Nations Square, dem Herzen von Casablanca. Die Mittagszeit verbringen wir in der Fondation Abderrahman Slaoui, um in marokkanische Kunst einzutauchen. Nachmittags bietet der Parc de la Ligue Arabe eine ruhige Oase mit Palmen für einen Spaziergang. Am Abend erkunden wir die Villa des Arts und bewundern das ikonische Twin Center.",
+        "hu": "Reggelünket a nyüzsgő Egyesült Nemzetek terén kezdjük, Casablanca szívében. A delet az Abderrahman Slaoui Alapítványban töltjük, ahol elmerülünk a marokkói művészet történetében. Délután a Parc de la Ligue Arabe egy békés, pálmafákkal árnyékolt oázist kínál a sétához. Az estét a Villa des Arts kiállításainak felfedezésével és a Twin Center megcsodálásával töltjük.",
+        "ro": "Dimineața noastră începe în Piața Națiunilor Unite, inima aglomerată a orașului Casablanca. La prânz explorăm Fundația Abderrahman Slaoui pentru a admira frumoasa istorie a artei marocane. După-amiaza, Parcul Ligii Arabe ne oferă o oază liniștită, cu palmieri, perfectă pentru o plimbare. Seara vizităm expozițiile contemporane de la Villa des Arts și admirăm faimosul Twin Center.",
+        "en": "Our morning begins at the vibrant United Nations Square, the bustling heart of Casablanca. Midday is spent at the Abderrahman Slaoui Foundation to immerse ourselves in magnificent Moroccan art history. In the afternoon, the Parc de la Ligue Arabe offers a peaceful, palm-shaded oasis for a relaxing stroll. We spend the evening exploring contemporary exhibits at Villa des Arts and admiring the iconic Twin Center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 4.42,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Attarik Foundation",
+            "hu": "Attarik Alapítvány",
+            "ro": "Fundația Attarik",
+            "en": "Attarik Foundation"
+          },
+          "coords": [
+            -7.619778,
+            33.606499
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Welt der Meteoriten ein und stellen Sie Fragen an das fachkundige Personal für ein interaktives Erlebnis.",
+            "hu": "Merüljön el a meteoritok világában, és tegyen fel kérdéseket a szakértő személyzetnek egy igazán interaktív élményért.",
+            "ro": "Pătrundeți în lumea meteoriților și puneți întrebări personalului expert pentru o experiență de neuitat și interactivă.",
+            "en": "Delve into the fascinating world of meteorites and don't hesitate to ask the expert staff questions for an interactive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Beth-El-Synagoge",
+            "hu": "Beth El Zsinagóga",
+            "ro": "Sinagoga Beth El",
+            "en": "Beth El Synagogue"
+          },
+          "coords": [
+            -7.626833,
+            33.595761
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser zentralen Synagoge, aber denken Sie an angemessene, respektvolle Kleidung.",
+            "hu": "Csodálja meg a központi zsinagóga lenyűgöző ólomüveg ablakait, de ne feledkezzen meg a megfelelő, tiszteletteljes öltözködésről.",
+            "ro": "Admirați vitraliile impresionante ale acestei sinagogi centrale, dar asigurați-vă că purtați o ținută respectuoasă și decentă.",
+            "en": "Admire the impressive stained-glass windows of this central synagogue, but remember to wear modest and respectful clothing."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Vereinten Nationen",
+            "hu": "Egyesült Nemzetek tere",
+            "ro": "Piața Națiunilor Unite",
+            "en": "United Nations Square"
+          },
+          "coords": [
+            -7.618664,
+            33.594996
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Erleben Sie den Kontrast zwischen alter Medina und moderner Stadt; ein idealer Ort, um das geschäftige Treiben zu beobachten.",
+            "hu": "Tapasztalja meg a régi medina és a modern város kontrasztját; ideális helyszín a nyüzsgő forgatag megfigyelésére.",
+            "ro": "Experimentați contrastul dintre vechea medina și orașul modern; este un loc ideal pentru a observa agitația urbană zilnică.",
+            "en": "Experience the striking contrast between the old medina and the modern city; it is an ideal spot for people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fondation Abderrahman Slaoui",
+            "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+            "ro": "Muzeul Fundației Abderrahman Slaoui",
+            "en": "Abderrahman Slaoui Foundation Museum"
+          },
+          "coords": [
+            -7.622616,
+            33.592402
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die einzigartige Sammlung orientalischer Kunst; das Café im obersten Stock bietet eine tolle Aussicht.",
+            "hu": "Szánjon időt az orientális művészet egyedülálló gyűjteményére; a legfelső emeleti kávézó nagyszerű kilátást nyújt.",
+            "ro": "Luați-vă timp pentru colecția unică de artă orientală; cafeneaua de la ultimul etaj oferă o priveliște minunată asupra zonei.",
+            "en": "Take your time exploring the unique collection of oriental art; the top-floor cafe also offers a fantastic city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Russische orthodoxe Kirche der Entschlafung",
+            "hu": "Szenderedés orosz ortodox templom",
+            "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+            "en": "Russian Orthodox Church of the Dormition"
+          },
+          "coords": [
+            -7.622635,
+            33.582016
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ruhige religiöse Gebäude mit seiner besonderen Architektur, die sich stark vom restlichen Casablanca abhebt.",
+            "hu": "Fedezze fel ezt a csendes vallási épületet, amelynek különleges építészete élesen elüt Casablanca többi részétől.",
+            "ro": "Descoperiți această clădire religioasă liniștită, cu o arhitectură deosebită, care contrastează puternic cu restul orașului Casablanca.",
+            "en": "Discover this peaceful religious building with its distinctive architecture that stands in stark contrast to the rest of Casablanca."
+          }
+        },
+        {
+          "name": {
+            "de": "Murdoch Park",
+            "hu": "Murdoch Park",
+            "ro": "Parcul Murdoch",
+            "en": "Murdoch Park"
+          },
+          "coords": [
+            -7.613173,
+            33.57942
+          ],
+          "category": "park",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Nutzen Sie die schattigen Wege des Parks für einen entspannten Spaziergang und lassen Sie den Tag hier in Ruhe ausklingen.",
+            "hu": "Használja ki a park árnyékos ösvényeit egy pihentető sétára, és hagyja, hogy a nap itt nyugodtan érjen véget.",
+            "ro": "Profitați de aleile umbrite ale parcului pentru o plimbare relaxantă și lăsați ziua să se încheie aici într-o atmosferă liniștită.",
+            "en": "Take advantage of the park's shaded pathways for a relaxing stroll and let the day gently wind down in this peaceful setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrradtour startet an der Attarik Foundation mit spannenden Wissenschaftsausstellungen. Mittags radeln wir zur wunderschönen Beth El Synagoge und weiter zum lebhaften United Nations Square. Nachmittags genießen wir das Musée Abderrahman Slaoui und entdecken die russisch-orthodoxe Kirche. Der Abend bricht an, während wir auf den grünen Wegen des Murdoch Parks entspannen.",
+        "hu": "A reggeli biciklitúra az Attarik Alapítvány tudományos kiállításaival indul. Délben a gyönyörű Beth El Zsinagógához tekerünk, majd a nyüzsgő Egyesült Nemzetek terére. Délután kulturális szünetet tartunk az Abderrahman Slaoui Múzeumban, és felfedezzük az orosz ortodox templomot. Az este közeledtével a zöldellő Murdoch Park ösvényein lazítunk és pihenjük ki a nap fáradalmait.",
+        "ro": "Turul matinal cu bicicleta începe la Fundația Attarik, plină de expoziții științifice fascinante. La prânz pedalăm spre superba Sinagogă Beth El și mai departe spre Piața Națiunilor Unite. În timpul după-amiezii ne bucurăm de o pauză culturală la Muzeul Abderrahman Slaoui și vizităm biserica ortodoxă rusă. Seara ne relaxăm pe aleile înverzite și liniștite din pitorescul Parc Murdoch.",
+        "en": "The morning cycling tour kicks off at the Attarik Foundation with its fascinating science exhibits. By midday, we pedal to the beautiful Beth El Synagogue and onwards to the lively United Nations Square. During the afternoon, we enjoy a cultural break at the Abderrahman Slaoui Museum and discover the Russian Orthodox Church. Evening arrives as we unwind gently in the lush, green pathways of Murdoch Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 7.35,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Theater Mohammed VI",
+            "hu": "VI. Mohammed Színház",
+            "ro": "Teatrul Mohammed VI",
+            "en": "Mohammed VI Theater"
+          },
+          "coords": [
+            -7.597061,
+            33.591495
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Fassade dieses wichtigen Kulturzentrums und prüfen Sie vorab, ob am Abend Aufführungen stattfinden.",
+            "hu": "Csodálja meg e fontos kulturális központ csodás homlokzatát, és előzetesen ellenőrizze, vannak-e esti előadások.",
+            "ro": "Admirați fațada magnifică a acestui important centru cultural și verificați din timp dacă au loc spectacole în acea seară.",
+            "en": "Admire the magnificent facade of this key cultural center and check in advance if there are any evening performances scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Murdoch Park",
+            "hu": "Murdoch Park",
+            "ro": "Parcul Murdoch",
+            "en": "Murdoch Park"
+          },
+          "coords": [
+            -7.613173,
+            33.57942
+          ],
+          "category": "park",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.89,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie die großen Rasenflächen; ideal, um kurz die Beine zu vertreten und frische Luft zu schnappen.",
+            "hu": "Parkoljon a közelben, és élvezze a nagy pázsitot; ideális arra, hogy kinyújtóztassa a lábát és friss levegőt szívjon.",
+            "ro": "Parcați în apropiere și bucurați-vă de peluzele mari; este locul ideal pentru a vă întinde picioarele și a respira aer curat.",
+            "en": "Park nearby and enjoy the expansive lawns; it is the perfect place to stretch your legs and get some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Russische orthodoxe Kirche der Entschlafung",
+            "hu": "Szenderedés orosz ortodox templom",
+            "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+            "en": "Russian Orthodox Church of the Dormition"
+          },
+          "coords": [
+            -7.622635,
+            33.582016
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Achten Sie auf die blauen Kuppeln, die ein seltenes Fotomotiv in Marokko darstellen; das Innere ist oft nur zu Gottesdiensten geöffnet.",
+            "hu": "Figyelje meg a kék kupolákat, amelyek ritka fotótémát jelentenek Marokkóban; a belső tér gyakran csak istentiszteletek idején nyitott.",
+            "ro": "Atenție la cupolele albastre, un motiv foto rar în Maroc; interiorul este adesea deschis doar în timpul slujbelor religioase.",
+            "en": "Look out for the blue domes, a rare photo subject in Morocco; the interior is usually open only during religious services."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Nadar",
+            "hu": "Galerie Nadar",
+            "ro": "Galeria Nadar",
+            "en": "Galerie Nadar"
+          },
+          "coords": [
+            -7.633406,
+            33.585938
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Erkunden Sie die sorgfältig kuratierte moderne marokkanische Kunst und sprechen Sie mit den Galeristen über lokale Künstler.",
+            "hu": "Fedezze fel a gondosan válogatott modern marokkói művészetet, és beszélgessen a galériásokkal a helyi alkotókról.",
+            "ro": "Explorați arta modernă marocană atent curatoriată și discutați cu proprietarii galeriei despre artiștii locali talentați.",
+            "en": "Explore the carefully curated modern Moroccan art and take the opportunity to speak with the gallerists about local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Vélodrome",
+            "hu": "Parc du Vélodrome",
+            "ro": "Parcul Vélodrome",
+            "en": "Parc du Vélodrome"
+          },
+          "coords": [
+            -7.645638,
+            33.589411
+          ],
+          "category": "park",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Dieser revitalisierte historische Radrennbahn-Park bietet eine tolle Atmosphäre für einen kurzen Spaziergang zwischen den Kunstgalerien.",
+            "hu": "Ez a felújított történelmi velodrom park nagyszerű atmoszférát kínál egy rövid sétához a művészeti galériák között.",
+            "ro": "Acest parc istoric al velodromului revitalizat oferă o atmosferă minunată pentru o scurtă plimbare între vizitele la galerii.",
+            "en": "This revitalized historic velodrome park offers a wonderful atmosphere for a short walk between your art gallery visits."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Atelier 21",
+            "hu": "L'Atelier 21",
+            "ro": "L'Atelier 21",
+            "en": "L'Atelier 21"
+          },
+          "coords": [
+            -7.643257,
+            33.586106
+          ],
+          "category": "museum",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Entdecken Sie avantgardistische Werke; diese Galerie ist bekannt dafür, die innovativsten Talente der marokkanischen Szene zu fördern.",
+            "hu": "Fedezze fel az avantgárd műveket; ez a galéria arról ismert, hogy a marokkói szcéna leginnovatívabb tehetségeit támogatja.",
+            "ro": "Descoperiți opere de avangardă; această galerie este faimoasă pentru promovarea celor mai inovatoare talente din scena marocană.",
+            "en": "Discover avant-garde works; this gallery is well-known for promoting the most innovative talents within the Moroccan art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Loft Art Gallery",
+            "hu": "Loft Art Gallery",
+            "ro": "Loft Art Gallery",
+            "en": "Loft Art Gallery"
+          },
+          "coords": [
+            -7.643821,
+            33.592298
+          ],
+          "category": "museum",
+          "arrive_at": "16:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den großformatigen Installationen beeindrucken; die Galerie ist ein Muss für Liebhaber afrikanischer Gegenwartskunst.",
+            "hu": "Hagyja magát lenyűgözni a nagyméretű installációktól; a galéria kötelező látnivaló az afrikai kortárs művészet kedvelőinek.",
+            "ro": "Lăsați-vă impresionați de instalațiile pe scară largă; galeria este o vizită obligatorie pentru fanii artei contemporane africane.",
+            "en": "Be impressed by the large-scale installations; this gallery is an absolute must-visit for lovers of contemporary African art."
+          }
+        },
+        {
+          "name": {
+            "de": "Beth-El-Synagoge",
+            "hu": "Beth El Zsinagóga",
+            "ro": "Sinagoga Beth El",
+            "en": "Beth El Synagogue"
+          },
+          "coords": [
+            -7.626833,
+            33.595761
+          ],
+          "category": "religious",
+          "arrive_at": "18:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weißen und goldenen Verzierungen dieser Synagoge, die als das Zentrum der jüdischen Gemeinde der Stadt gilt.",
+            "hu": "Csodálja meg a zsinagóga fehér és arany díszítéseit, amely a város zsidó közösségének központjaként szolgál napjainkban.",
+            "ro": "Admirați decorațiunile albe și aurii ale acestei sinagogi, considerată a fi centrul comunității evreiești din oraș.",
+            "en": "Admire the beautiful white and gold decorations of this synagogue, which serves as the vibrant center of the city's Jewish community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Erkundung beginnt am Théâtre Mohammed VI und führt uns dann zum grünen Murdoch Park. Mittags bestaunen wir die russisch-orthodoxe Kirche und starten unsere Kunsttour in der Galerie Nadar. Der Nachmittag ist der Kunst und Natur gewidmet, mit Besuchen im Parc du Vélodrome, L'Atelier 21 und der Loft Art Gallery. Den Abend verbringen wir an der eleganten Beth El Synagoge.",
+        "hu": "A reggeli autós felfedezés a VI. Mohammed Színháznál kezdődik, majd a zöldellő Murdoch Parkba hajtunk. Délben megcsodáljuk az egyedi orosz ortodox templomot, és a Galerie Nadarban megkezdjük művészeti körutunkat. A délutánt a művészetnek és természetnek szenteljük a Parc du Vélodrome, a L'Atelier 21 és a Loft Art Gallery érintésével. Az estét a lenyűgöző Beth El Zsinagóga elegáns díszítésének megcsodálásával töltjük.",
+        "ro": "Explorarea matinală cu mașina începe la Teatrul Mohammed VI, apoi conducem spre verdele Parc Murdoch. La prânz admirăm biserica ortodoxă rusă și începem turul de artă la Galeria Nadar. După-amiaza este dedicată artei și naturii, cu vizite la Parcul Vélodrome, L'Atelier 21 și Loft Art Gallery. Seara o petrecem admirând decorațiunile elegante ale superbei Sinagogi Beth El.",
+        "en": "Morning exploration by car starts at the Mohammed VI Theater, then we drive to the lush Murdoch Park. Midday is spent marveling at the unique Russian Orthodox Church and starting our art tour at Galerie Nadar. The afternoon is dedicated to art and nature, visiting Parc du Vélodrome, L'Atelier 21, and the Loft Art Gallery. We spend the evening admiring the elegant decorations at the stunning Beth El Synagogue."
+      }
+    }
+  }
+}

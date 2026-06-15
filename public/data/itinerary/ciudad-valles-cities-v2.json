@@ -1,0 +1,451 @@
+{
+  "city_id": "ciudad-valles-cities-v2",
+  "anchor": {
+    "name": "Ciudad Valles",
+    "coords": [
+      -99.0153,
+      21.9822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Farolito",
+            "hu": "El Farolito",
+            "ro": "El Farolito",
+            "en": "El Farolito"
+          },
+          "coords": [
+            -99.021002,
+            21.980546
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem lokalen Erholungszentrum, perfekt, um die lebhafte Gemeindeatmosphäre zu genießen, bevor Sie weitergehen.",
+            "hu": "Kezdje a reggelt ebben a helyi pihenőközpontban, amely tökéletes a vibráló közösségi légkör élvezetéhez a séta folytatása előtt.",
+            "ro": "Începeți dimineața la acest centru de recreere local, perfect pentru a vă bucura de atmosfera vibrantă a comunității înainte de a continua.",
+            "en": "Start your morning at this local recreational hub, perfect for soaking up the vibrant community atmosphere before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Juárez Denkmal",
+            "hu": "Juárez Emlékmű",
+            "ro": "Monumentul lui Juárez",
+            "en": "Juárez Monument"
+          },
+          "coords": [
+            -99.018826,
+            21.986368
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal für Benito Juárez mit seinen feinen Gravuren und bringen Sie einen Hut mit, da der Platz wenig Schatten bietet.",
+            "hu": "Csodálja meg Benito Juárez történelmi emlékművét és annak részletes metszeteit; hozzon kalapot, mert a tér kevés árnyékot nyújt a látogatóknak.",
+            "ro": "Admirați acest impresionant omagiu istoric adus lui Benito Juárez cu gravuri detaliate; aduceți o pălărie deoarece piața oferă puțină umbră.",
+            "en": "Admire this impressive historical tribute to Benito Juárez and notice the detailed engravings; bring a hat as the plaza offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Portal Jose",
+            "hu": "Portal Jose",
+            "ro": "Portal Jose",
+            "en": "Portal Jose"
+          },
+          "coords": [
+            -99.022272,
+            21.989801
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich unter den Bögen von Portal Jose aus, einem charmanten Erholungsort, ideal für ein schnelles Foto und ein erfrischendes kaltes Getränk.",
+            "hu": "Pihenjen a Portal Jose boltívei alatt, amely egy bájos pihenőhely, ideális egy gyors fotó elkészítéséhez és egy frissítő hideg ital elfogyasztásához.",
+            "ro": "Odihniți-vă sub arcadele de la Portal Jose, un loc de recreere fermecător, ideal pentru a face o fotografie rapidă și a savura o băutură rece.",
+            "en": "Rest under the arches of Portal Jose, a charming recreational spot ideal for snapping a quick photo and enjoying a refreshing cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "El Quijote Statue",
+            "hu": "El Quijote Szobor",
+            "ro": "Statuia El Quijote",
+            "en": "El Quijote Statue"
+          },
+          "coords": [
+            -99.02508,
+            21.990305
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese markante historische Statue von Don Quijote feiert das spanische literarische Erbe; besuchen Sie sie, wenn die Sonne dramatische Schatten wirft.",
+            "hu": "Don Quijote lenyűgöző történelmi szobra a spanyol irodalmi örökséget ünnepli; érdemes akkor jönni, amikor a nap drámai délutáni árnyékokat vet.",
+            "ro": "Această statuie istorică a lui Don Quijote celebrează moștenirea literară spaniolă; încercați să vizitați când soarele aruncă umbre dramatice.",
+            "en": "This striking historical statue of Don Quixote celebrates Spanish literary heritage; try visiting when the sun casts dramatic afternoon shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del Pueblo",
+            "hu": "Teatro del Pueblo",
+            "ro": "Teatro del Pueblo",
+            "en": "Teatro del Pueblo"
+          },
+          "coords": [
+            -99.026044,
+            21.991684
+          ],
+          "category": "cultural",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Überprüfen Sie vor Ihrem Besuch den lokalen Zeitplan dieses kulturellen Epizentrums, um eine Aufführung zu sehen oder die moderne Architektur zu bewundern.",
+            "hu": "Látogatás előtt ellenőrizze ennek a kulturális központnak a programját, hogy elcsípjen egy előadást, vagy csak csodálja meg modern építészetét.",
+            "ro": "Verificați programul local la acest epicentru cultural înainte de vizită pentru a prinde un spectacol sau pur și simplu admirați arhitectura.",
+            "en": "Check the local schedule at this cultural epicenter before your visit to catch a lively performance or simply admire its modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Voliere",
+            "hu": "Városi Madárház",
+            "ro": "Voliera Municipală",
+            "en": "Municipal Aviary"
+          },
+          "coords": [
+            -99.028166,
+            21.995479
+          ],
+          "category": "family",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit der Beobachtung tropischer Vögel in dieser familienfreundlichen Voliere; tragen Sie bequeme Schuhe für die Naturpfade.",
+            "hu": "Zárja a sétát színes trópusi madarak megfigyelésével ebben a családbarát madárházban; viseljen kényelmes cipőt a természetes ösvények bejárásához.",
+            "ro": "Încheiați plimbarea observând păsări tropicale colorate în această volieră; purtați încălțăminte confortabilă pentru a naviga ușor pe cărările naturale.",
+            "en": "End your walk observing colorful tropical birds in this family-friendly aviary; wear comfortable shoes to navigate the natural pathways easily."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Ciudad Valles beginnt am El Farolito. Mittags verfolgen Sie die historischen Wurzeln der Stadt am Monumento a Juárez und ruhen sich am charmanten Portal Jose aus. Der Nachmittag bringt Sie zum kulturell bedeutsamen Teatro del Pueblo und zu El Quijote. Schließlich entspannen Sie sich bei der Beobachtung der Vogelwelt in der Aviario Municipal.",
+        "hu": "Ciudad Valles-i sétája az El Farolito helyszínén kezdődik. Délben a Monumento a Juárez mellett elhaladva fedezi fel a történelmi gyökereket, majd a Portal Jose-nál pihen. A délután a kulturális Teatro del Pueblo és az El Quijote szoborhoz vezet. Végül a napot az Aviario Municipal színes madárvilágának megfigyelésével zárhatja.",
+        "ro": "Plimbarea prin Ciudad Valles începe la El Farolito, absorbind atmosfera locală. La amiază, veți urmări rădăcinile istorice trecând pe la Monumento a Juárez și odihnindu-vă la fermecătorul Portal Jose. După-amiaza vă aduce la Teatrul Poporului și El Quijote. În cele din urmă, vă veți relaxa observând păsările vibrante de la Aviario Municipal.",
+        "en": "Your walking journey through Ciudad Valles begins at El Farolito, soaking in the local ambiance. By midday, you will trace the city's historical roots passing the Monumento a Juárez and resting at the charming Portal Jose. The afternoon brings you to the culturally significant Teatro del Pueblo and El Quijote. Finally, you will unwind by observing vibrant birdlife at the Aviario Municipal."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tantocob Dinosaurier",
+            "hu": "Tantocob Dinoszauruszok",
+            "ro": "Dinozaurii Tantocob",
+            "en": "Tantocob Dinosaurs"
+          },
+          "coords": [
+            -99.020152,
+            21.974631
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour in diesem skurrilen Dinosaurierpark, einem Wahrzeichen, bei dem frühes Ankommen das beste Licht für kreative Fotos garantiert.",
+            "hu": "Kezdje kerékpártúráját ebben a mókás dinoszauruszparkban, ahol a korai érkezés biztosítja a legjobb fényviszonyokat a kreatív fotók elkészítéséhez.",
+            "ro": "Începeți turul cu bicicleta la acest parc excentric de dinozauri, un reper unde sosirea timpurie asigură lumina perfectă pentru fotografii.",
+            "en": "Start your bike tour at this quirky dinosaur park, a fun landmark where early arrival ensures the best lighting for your creative photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrauto Platon Mendez",
+            "hu": "Platon Mendez Tűzoltóautó",
+            "ro": "Mașina de Pompieri Platon Mendez",
+            "en": "Platon Mendez Fire Truck"
+          },
+          "coords": [
+            -99.019076,
+            21.976581
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem historischen Feuerwehrauto-Wahrzeichen zu Ehren lokaler Helden; es ist ein bunter, perfekter Stopp für einen Schnappschuss.",
+            "hu": "Álljon meg egy pillanatra ennél a helyi hősöket tisztelő régi tűzoltóautónál; ez egy gyors, de színes megálló, amely tökéletes egy fotóhoz.",
+            "ro": "Faceți o scurtă pauză la acest camion de pompieri de epocă care onorează eroii locali; este o oprire colorată, perfectă pentru o fotografie rapidă.",
+            "en": "Pause briefly at this vintage fire truck landmark honoring local heroes; it is a quick but colorful stop perfect for a snapshot on your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Miguel Hidalgo Denkmal",
+            "hu": "Miguel Hidalgo Emlékmű",
+            "ro": "Monumentul lui Miguel Hidalgo",
+            "en": "Miguel Hidalgo Monument"
+          },
+          "coords": [
+            -99.005847,
+            21.981765
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, diese historische Hommage an die mexikanische Unabhängigkeit zu würdigen; steigen Sie ab, um die Informationstafel zu lesen.",
+            "hu": "Szánjon egy percet a mexikói függetlenség történelmi emlékművének megcsodálására; érdemes megállni és elolvasni a részletes információs táblát.",
+            "ro": "Alocați un moment pentru a aprecia acest omagiu adus independenței mexicane; opriți-vă de pe bicicletă pentru a citi placa informativă detaliată.",
+            "en": "Take a moment to appreciate this historical tribute to Mexican independence; cycling past offers great angles, but stop to read the plaque."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Huastekisches Museum",
+            "hu": "Joaquín Meade Huasteca Regionális Múzeum",
+            "ro": "Muzeul Regional Huastec",
+            "en": "Joaquín Meade Huastec Regional Museum"
+          },
+          "coords": [
+            -99.009722,
+            21.981256
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die huastekische Kultur ein; schließen Sie Ihr Fahrrad draußen sicher ab und fragen Sie nach Sonderausstellungen.",
+            "hu": "Merüljön el a huasteca kultúrában ebben az átfogó múzeumban; zárja le biztonságosan kerékpárját kint, és érdeklődjön az időszaki kiállításokról.",
+            "ro": "Descoperiți cultura huastecă în acest muzeu cuprinzător; asigurați-vă bicicleta afară și întrebați personalul despre expozițiile temporare.",
+            "en": "Dive deep into Huastec culture in this comprehensive museum; lock your bike securely outside and ask the staff about temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Juárez Denkmal",
+            "hu": "Juárez Emlékmű",
+            "ro": "Monumentul lui Juárez",
+            "en": "Juárez Monument"
+          },
+          "coords": [
+            -99.018826,
+            21.986368
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wichtigen historischen Platz nach dem Museumsbesuch; der offene Raum ist ideal für eine kurze Pause und um Wasser zu trinken.",
+            "hu": "Pihenjen ezen a fontos történelmi téren a múzeum felfedezése után; a nyitott tér ideális egy rövid pihenőhöz és a folyadékpótláshoz.",
+            "ro": "Relaxați-vă în această piață istorică importantă după vizitarea muzeului; spațiul deschis este ideal pentru a lua o scurtă pauză de hidratare.",
+            "en": "Relax at this important historical square after exploring the museum; the open space is ideal for taking a short rest and rehydrating."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Los Arcos",
+            "hu": "Hotel Los Arcos",
+            "ro": "Hotel Los Arcos",
+            "en": "Hotel Los Arcos"
+          },
+          "coords": [
+            -99.015177,
+            21.998176
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt auf dem eleganten Gelände des Hotels Los Arcos; genießen Sie drinnen eine wohlverdiente Mahlzeit oder ein Erfrischungsgetränk.",
+            "hu": "Fejezze be az utat a Hotel Los Arcos elegáns területén; térjen be, hogy elfogyasszon egy jól megérdemelt ételt vagy frissítő italt az étteremben.",
+            "ro": "Încheiați plimbarea pe terenurile elegante ale Hotelului Los Arcos; mergeți înăuntru pentru a savura o masă binemeritată sau o băutură la restaurant.",
+            "en": "Conclude your ride at the elegant grounds of Hotel Los Arcos; head inside to enjoy a well-deserved meal or refreshing drink at the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer bei den Dinosaurios Tantocob und machen Sie ein Foto am alten Feuerwehrauto. Mittags fahren Sie zum Monumento a Hidalgo und tauchen im Museo Regional Huasteco in die Geschichte ein. Nachmittags radeln Sie zum Monumento a Juárez, um die Architektur zu bewundern. Beenden Sie den Tag mit einem erfrischenden Stopp im Hotel Los Arcos.",
+        "hu": "Kezdje kerékpáros kalandját a Dinosaurios Tantocobnál, majd fotózkodjon a régi tűzoltóautónál. Délben a történelemé a főszerep: tekerjen a Monumento a Hidalgohoz, és ismerje meg a múltat a Museo Regionalban. Délután cirkáljon a Monumento a Juárez felé az építészet megcsodálására. Zárja aktív napját egy frissítő pihenővel a Hotel Los Arcos területén.",
+        "ro": "Începeți aventura pe bicicletă la Dinosaurios Tantocob, urmată de o fotografie la vechiul camion de pompieri. La amiază, îndreptați-vă spre istorie, mergând la Monumento a Hidalgo și explorând trecutul la Museo Regional. După-amiaza, pedalați spre Monumento a Juárez pentru a admira arhitectura. Încheiați ziua cu o oprire revigorantă la Hotel Los Arcos.",
+        "en": "Kick off your cycling adventure at the quirky Dinosaurios Tantocob, followed by a quick photo at the vintage fire truck. Midday shifts towards history as you ride to the Monumento a Hidalgo and delve into indigenous past at the Museo Regional Huasteco. As afternoon sets in, cruise to the Monumento a Juárez to admire the architecture. End your active day with a refreshing stop at Hotel Los Arcos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 16.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tamuantzán Museum",
+            "hu": "Tamuantzán Múzeum",
+            "ro": "Muzeul Tamuantzán",
+            "en": "Tamuantzán Museum"
+          },
+          "coords": [
+            -98.997327,
+            21.966459
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour in diesem modernen Museum und entdecken Sie die reiche regionale Geschichte; nutzen Sie den ausgewiesenen Parkplatz.",
+            "hu": "Kezdje autós túráját a gazdag regionális történelem felfedezésével ebben a modern múzeumban; használja a kijelölt parkolót a forgalom elkerülése érdekében.",
+            "ro": "Începeți turul cu mașina descoperind istoria regională la acest muzeu modern; folosiți parcarea dedicată pentru a evita aglomerația stradală.",
+            "en": "Begin your driving tour discovering rich regional history at this modern museum; use the dedicated parking lot to avoid street congestion early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Zapata Denkmal",
+            "hu": "Zapata Emlékmű",
+            "ro": "Monumentul lui Zapata",
+            "en": "Zapata Monument"
+          },
+          "coords": [
+            -98.996387,
+            21.96657
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur einen Katzensprung vom Museum entfernt, ehrt dieses historische Denkmal den Revolutionsführer; parken Sie in der Nähe für ein tolles Foto.",
+            "hu": "A múzeumtól csak egy rövid ugrásra található ez a történelmi emlékmű, amely a forradalmi vezetőt tiszteli; parkoljon a közelben a tökéletes fotóhoz.",
+            "ro": "La o aruncătură de băț de muzeu, acest monument istoric îl onorează pe liderul revoluționar; parcați în apropiere pentru a face o fotografie.",
+            "en": "Just a short hop from the museum, this striking historical monument honors the revolutionary leader; park nearby and grab a photo from the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Huastekisches Museum",
+            "hu": "Joaquín Meade Huasteca Regionális Múzeum",
+            "ro": "Muzeul Regional Huastec",
+            "en": "Joaquín Meade Huastec Regional Museum"
+          },
+          "coords": [
+            -99.009722,
+            21.981256
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser kulturellen Einrichtung tiefer in das huastekische Erbe ein; suchen Sie sich am besten einen Parkplatz in einer Nebenstraße.",
+            "hu": "Merüljön el mélyebben a huasteca örökségben ebben a kulturális intézményben; az utcai parkolás nehéz lehet, keressen helyet egy szomszédos utcában.",
+            "ro": "Aprofundați moștenirea huastecă la această instituție culturală; parcarea stradală poate fi dificilă, așa că căutați un loc pe o stradă adiacentă.",
+            "en": "Delve deeper into Huastec heritage at this cultural institution; street parking can be tight, so look for a spot slightly down the adjacent road."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Voliere",
+            "hu": "Városi Madárház",
+            "ro": "Voliera Municipală",
+            "en": "Municipal Aviary"
+          },
+          "coords": [
+            -99.028166,
+            21.995479
+          ],
+          "category": "family",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Nachmittag umgeben von exotischen Vögeln in dieser familienfreundlichen Voliere; der geräumige Parkplatz ist sehr praktisch.",
+            "hu": "Élvezze a pihentető délutánt egzotikus madarakkal körülvéve ebben a madárházban; a tágas parkoló rendkívül kényelmes hozzáférést biztosít.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă printre păsări exotice în această volieră; zona de parcare spațioasă face accesul incredibil de convenabil.",
+            "en": "Enjoy a relaxing afternoon surrounded by exotic birds at this family-friendly aviary; the spacious parking area makes access incredibly convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "El Bañito Thermalbäder",
+            "hu": "El Bañito Termálfürdő",
+            "ro": "Băile Termale El Bañito",
+            "en": "El Bañito Thermal Baths"
+          },
+          "coords": [
+            -98.951516,
+            21.914862
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem bekannten Erholungsort, um in Thermalwasser zu baden; bringen Sie eigene Handtücher mit und kommen Sie vor Sonnenuntergang.",
+            "hu": "Vezessen ki erre a híres rekreációs helyre, és fürödjön a termálvizekben; hozzon saját törölközőt, és érkezzen naplemente előtt, hogy élvezze a medencéket.",
+            "ro": "Conduceți spre acest loc faimos de recreere pentru a vă scălda în ape termale; aduceți-vă propriile prosoape și ajungeți înainte de apus.",
+            "en": "Drive out to this famous recreational spot to soak in thermal waters; bring your own towels and arrive before sunset to fully enjoy the natural pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit tiefem kulturellem Eintauchen im Museo Tamuantzán, gefolgt vom imposanten Monumento a Zapata. Ihre mittägliche Erkundung führt Sie zum Museo Regional Huasteco. Besuchen Sie am Nachmittag die Aviario Municipal für einen Hauch von Natur. Wenn der Abend naht, fahren Sie hinaus nach El Bañito, um in den Thermalwässern zu entspannen.",
+        "hu": "Kezdje autós túráját a Museo Tamuantzán kulturális elmélyülésével, amelyet a Monumento a Zapata követ. A déli felfedezés a Museo Regional Huasteco felé viszi, hogy feltárja a régió örökségét. Délután látogasson el az Aviario Municipalba a természet közelségéért. Ahogy közeledik az este, vezessen ki az El Bañitóhoz, hogy a termálvizekben pihenjen.",
+        "ro": "Începeți turul auto cu o imersiune culturală la Museo Tamuantzán, urmat îndeaproape de Monumento a Zapata. Explorarea de la amiază vă duce la Museo Regional Huasteco pentru a descoperi moștenirea regiunii. După-amiaza, vizitați Aviario Municipal pentru un strop de natură. Seara, conduceți spre El Bañito pentru a vă relaxa în apele termale calde.",
+        "en": "Start your driving tour with deep cultural immersion at the Museo Tamuantzán, followed closely by the imposing Monumento a Zapata. Your midday exploration takes you to the Museo Regional Huasteco to further uncover the region's rich heritage. In the afternoon, visit the Aviario Municipal for a touch of nature. As evening approaches, drive out to El Bañito to relax in the thermal waters."
+      }
+    }
+  }
+}

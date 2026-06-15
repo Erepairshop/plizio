@@ -1,0 +1,543 @@
+{
+  "city_id": "greece-eretria-cities-v2",
+  "anchor": {
+    "name": "Eretria",
+    "coords": [
+      23.790167,
+      38.39709
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Eretria",
+            "hu": "Eretriai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Eretria",
+            "en": "Archaeological Museum of Eretria"
+          },
+          "coords": [
+            23.789496,
+            38.395903
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kompakten Museum antike eretrische Artefakte wie die atemberaubenden Terrakotta-Gorgonen am besten gleich früh morgens.",
+            "hu": "Fedezze fel az ókori eretriai leleteket, köztük a lenyűgöző terrakotta gorgókat ebben a kompakt múzeumban, lehetőleg még a déli hőség előtt.",
+            "ro": "Descoperiți artefacte eretriene antice, inclusiv gorgone uimitoare din teracotă, în acest muzeu compact, pe care e bine să-l vizitați dimineața.",
+            "en": "Discover ancient Eretrian artifacts including stunning terracotta gorgons at this compact museum, best visited early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Heroon",
+            "hu": "A Heroón",
+            "ro": "Heroon-ul",
+            "en": "The Heroon"
+          },
+          "coords": [
+            23.789733,
+            38.397879
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentalen Gräber der eretrischen Fürsten an dieser heiligen Stätte und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg az eretriai hercegek monumentális sírjait ezen a szent temetkezési helyen, és viseljen kényelmes, stabil cipőt a kavicsos talaj miatt.",
+            "ro": "Admirați mormintele monumentale ale prinților eretrieni în acest loc sacru și purtați încălțăminte robustă, deoarece terenul antic este denivelat.",
+            "en": "Admire the monumental tombs of Eretrian princes at this sacred burial site, and wear sturdy shoes as the surrounding ancient terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Nord-Gymnasium",
+            "hu": "Az Északi Gimnázium",
+            "ro": "Gimnaziul de Nord",
+            "en": "The North Gymnasium"
+          },
+          "coords": [
+            23.79283,
+            38.39867
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser antiken Sportanlage und achten Sie auf die gut erhaltenen Waschbecken, bevor Sie weiter in Richtung Süden gehen.",
+            "hu": "Fedezze fel ennek az ókori sport- és oktatási komplexumnak a romjait, különösen a jól megőrzött mosdómedencéket, mielőtt dél felé indulna tovább.",
+            "ro": "Explorați rămășițele acestui complex antic atletic și educațional, observând bazinele de spălare bine conservate înainte de a vă îndrepta spre sud.",
+            "en": "Explore the remains of this ancient athletic and educational complex, taking note of the well-preserved washing basins before heading south."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Thermen",
+            "hu": "A Fürdők",
+            "ro": "Băile",
+            "en": "The Baths"
+          },
+          "coords": [
+            23.793465,
+            38.397489
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das antike Alltagsleben in diesen öffentlichen Thermenruinen vor, deren ausgeklügeltes Heizsystem auf den Infotafeln erklärt wird.",
+            "hu": "Képzelje el az ókori polgárok mindennapjait e klasszikus fürdőromok között, ahol az információs táblák részletesen bemutatják a fűtési rendszert.",
+            "ro": "Imaginați-vă viața de zi cu zi a cetățenilor printre aceste ruine ale băilor publice clasice, unde panourile informative dezvăluie sistemul de încălzire.",
+            "en": "Imagine the daily life of ancient citizens among these classical public bath ruins, where checking the information boards reveals the heating system."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Ostsektor",
+            "hu": "A Keleti Szektor",
+            "ro": "Sectorul de Est",
+            "en": "The East Sector"
+          },
+          "coords": [
+            23.795114,
+            38.397813
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses faszinierende alte Wohn- und Geschäftsviertel und halten Sie Ausschau nach den schwachen Spuren kunstvoller Bodenmosaike.",
+            "hu": "Sétáljon végig az ókori város ezen lenyűgöző lakó- és kereskedelmi negyedén, és figyelje meg a kidolgozott padlómozaikok halványan kivehető nyomait.",
+            "ro": "Plimbați-vă prin acest cartier rezidențial și comercial fascinant al orașului antic, căutând urmele slabe ale mozaicurilor elaborate de pe podele.",
+            "en": "Wander through this fascinating residential and commercial neighborhood of the ancient city, looking out for faint traces of elaborate floor mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Thermen am Hafen",
+            "hu": "A Kikötői Fürdők",
+            "ro": "Băile din Port",
+            "en": "The Baths at the Harbor"
+          },
+          "coords": [
+            23.795285,
+            38.392596
+          ],
+          "category": "historical",
+          "arrive_at": "16:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesen Badeanlagen an der Küste mit herrlichem Meerblick, ideal für spektakuläre Fotos im weichen Licht der goldenen Stunde.",
+            "hu": "Zárja a történelmi túrát ezeknél a tengerparti fürdőromoknál, amelyek gyönyörű kilátást nyújtanak, tökéletes időzítéssel a naplemente fotózásához.",
+            "ro": "Încheiați-vă turul istoric la aceste ruine ale băilor de coastă care oferă vederi frumoase la mare, perfect sincronizate pentru fotografia la apus.",
+            "en": "Conclude your historical tour at these coastal bath ruins offering beautiful sea views, perfectly timed for golden hour photography near the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den Schätzen des Archäologischen Museums, bevor Sie zu den monumentalen Gräbern des Heroons schlendern. Mittags erreichen Sie die weitläufigen Ruinen des Nord-Gymnasiums, ein Zeugnis des klassischen bürgerlichen Lebens. Am Nachmittag erkunden Sie den Ostsektor und die antiken öffentlichen Thermen. Ihre Reise endet an den Hafenthermen, wo antike Ruinen bei Einbruch der Dunkelheit auf die beruhigenden Klänge des nahen Meeres treffen.",
+        "hu": "A reggel a Régészeti Múzeum kincsei között kezdődik, mielőtt elsétálna az ősi Heroón monumentális sírjához. A dél a pazar Északi Gimnázium romjaihoz vezet, amely a klasszikus polgári élet tanúja. Délután fedezze fel a Keleti szektor lakónegyedét és az ősi nyilvános fürdőket. A nap a kikötői fürdőknél ér véget, ahol az ókori romok és a közeli tenger hullámainak hangja találkozik az esti szürkületben.",
+        "ro": "Dimineața începe printre comorile Muzeului Arheologic înainte de a rătăci spre mormintele monumentale ale anticului Heroon. Amiaza vă aduce la ruinele întinse ale Gimnaziului de Nord, o dovadă a vieții civice clasice. După-amiaza, explorați machetele rezidențiale din Sectorul de Est și vechile băi publice. Călătoria dumneavoastră se încheie la Băile Portului, unde ruinele antice întâlnesc sunetele mării, odată cu lăsarea serii.",
+        "en": "Your morning starts among the treasures of the Archaeological Museum before wandering to the monumental tombs of the ancient Heroon. Midday brings you to the North Gymnasium's sprawling ruins, a testament to classical civic life and athletic prowess. In the afternoon, explore the residential layouts of the East Sector and the ancient public Baths. Your journey concludes at the Harbor Baths, where ancient ruins meet the soothing sounds of the nearby sea as evening falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:33",
+      "total_km": 1.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Eretria",
+            "hu": "Eretriai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Eretria",
+            "en": "Archaeological Museum of Eretria"
+          },
+          "coords": [
+            23.789496,
+            38.395903
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kompakten Museum antike eretrische Artefakte wie die atemberaubenden Terrakotta-Gorgonen am besten gleich früh morgens.",
+            "hu": "Fedezze fel az ókori eretriai leleteket, köztük a lenyűgöző terrakotta gorgókat ebben a kompakt múzeumban, lehetőleg még a déli hőség előtt.",
+            "ro": "Descoperiți artefacte eretriene antice, inclusiv gorgone uimitoare din teracotă, în acest muzeu compact, pe care e bine să-l vizitați dimineața.",
+            "en": "Discover ancient Eretrian artifacts including stunning terracotta gorgons at this compact museum, best visited early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Heroon",
+            "hu": "A Heroón",
+            "ro": "Heroon-ul",
+            "en": "The Heroon"
+          },
+          "coords": [
+            23.789733,
+            38.397879
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentalen Gräber der eretrischen Fürsten an dieser heiligen Stätte und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg az eretriai hercegek monumentális sírjait ezen a szent temetkezési helyen, és viseljen kényelmes, stabil cipőt a kavicsos talaj miatt.",
+            "ro": "Admirați mormintele monumentale ale prinților eretrieni în acest loc sacru și purtați încălțăminte robustă, deoarece terenul antic este denivelat.",
+            "en": "Admire the monumental tombs of Eretrian princes at this sacred burial site, and wear sturdy shoes as the surrounding ancient terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Nord-Gymnasium",
+            "hu": "Az Északi Gimnázium",
+            "ro": "Gimnaziul de Nord",
+            "en": "The North Gymnasium"
+          },
+          "coords": [
+            23.79283,
+            38.39867
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser antiken Sportanlage und achten Sie auf die gut erhaltenen Waschbecken, bevor Sie weiter in Richtung Süden gehen.",
+            "hu": "Fedezze fel ennek az ókori sport- és oktatási komplexumnak a romjait, különösen a jól megőrzött mosdómedencéket, mielőtt dél felé indulna tovább.",
+            "ro": "Explorați rămășițele acestui complex antic atletic și educațional, observând bazinele de spălare bine conservate înainte de a vă îndrepta spre sud.",
+            "en": "Explore the remains of this ancient athletic and educational complex, taking note of the well-preserved washing basins before heading south."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Thesmophoreion 1",
+            "hu": "A Theszmoforeion 1",
+            "ro": "Thesmophoreion-ul 1",
+            "en": "The Thesmophoreion 1"
+          },
+          "coords": [
+            23.794211,
+            38.399795
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Demeter-Heiligtum, in dem geheime Frauenfeste stattfanden, und achten Sie auf die antiken strukturellen Fundamente im hohen Gras.",
+            "hu": "Fedezze fel a Démétérnek szentelt szentélyt, ahol titkos női fesztiválokat tartottak, és figyelje meg a fűben megbúvó ősi alapzatokat a séta során.",
+            "ro": "Descoperiți sanctuarul dedicat lui Demeter, unde aveau loc festivaluri secrete pentru femei, căutând fundațiile structurale antice ascunse în iarbă.",
+            "en": "Discover the sanctuary dedicated to Demeter where secret women's festivals were held, keeping an eye out for ancient structural foundations in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentliches Brunnenhaus",
+            "hu": "Központi Kútáz",
+            "ro": "Casa Fântânii Publice",
+            "en": "Public Fountain House"
+          },
+          "coords": [
+            23.795542,
+            38.394768
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das komplexe Wassermanagement des antiken Eretria an diesem Brunnenhaus an, das man am besten mit einem Reiseführer versteht.",
+            "hu": "Tekintse meg az ókori Eretria vízgazdálkodását ennél a központi kútáznál, amelyet egy útikönyv rövid elolvasásával lehet a legkönnyebben megérteni.",
+            "ro": "Observați gestionarea apei din Eretria antică la această casă cu fântână centrală, cel mai bine înțeleasă cu o scurtă lectură a ghidului dumneavoastră.",
+            "en": "See the intricate water management of ancient Eretria at this central fountain house, which is best understood with a quick read of your guidebook."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Tholos",
+            "hu": "A Tholosz",
+            "ro": "Tholos-ul",
+            "en": "The Tholos"
+          },
+          "coords": [
+            23.795722,
+            38.393799
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das kreisförmige Fundament der Tholos, eines wichtigen Bürgergebäudes, und bleiben Sie auf den Wegen, um das Denkmal zu schützen.",
+            "hu": "Csodálja meg a Tholosz, egy fontos polgári épület kör alakú alapját, és maradjon a kijelölt ösvényeken, hogy megóvja ezt a törékeny műemléket.",
+            "ro": "Minunați-vă de fundația circulară a Tholosului, o clădire civică importantă, și rămâneți pe cărările marcate pentru a ajuta la conservarea sa.",
+            "en": "Marvel at the circular foundation of the Tholos, an important civic building, and stay on the marked paths to help preserve this fragile monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Heiligtum der Eileithyia",
+            "hu": "Eileithüia Szentélye",
+            "ro": "Sanctuarul Eileithyiei",
+            "en": "The Sanctuary of Eileithyia"
+          },
+          "coords": [
+            23.799472,
+            38.393653
+          ],
+          "category": "historical",
+          "arrive_at": "17:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den heiligen Bezirk der Göttin der Geburt am östlichen Stadtrand und bringen Sie ausreichend Wasser mit, da es hier kaum Schatten gibt.",
+            "hu": "Látogasson el a szülés istennőjének szent kerületébe a város keleti szélén, és vigyen magával elegendő vizet, mivel ezen a területen kevés az árnyék.",
+            "ro": "Vizitați incinta sacră a zeiței nașterii de la marginea estică a orașului, aducând apă suplimentară, deoarece această zonă oferă puțină umbră.",
+            "en": "Visit the sacred precinct of the childbirth goddess on the city's eastern edge, bringing extra water as this area offers little natural shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Geschichte, beginnend am Archäologischen Museum, gefolgt von einer Fahrt zum heiligen Heroon. Gegen Mittag radeln Sie zum Nord-Gymnasium und lüften die Geheimnisse des Thesmophoreion 1. Nachmittags fahren Sie am öffentlichen Brunnenhaus und am Tholos vorbei. Ihr aktiver Tag endet am Heiligtum der Eileithyia, wo Sie den ruhigen Ostrand der Stadt unter dem Abendhimmel genießen können.",
+        "hu": "Kerékpározzon a történelemben a Régészeti Múzeumtól indulva, majd tekerjen az ősi Heroón szent pihenőhelyére. Ahogy közeledik a dél, fedezze fel az Északi Gimnáziumot és a Theszmoforeion 1 titkait. A délutáni túra a Központi Kútázhoz és a kerek Tholoszhoz vezet. Aktív napja az Eileithüia szentélyénél ér véget, élvezve a város nyugodt keleti peremét a csillagos esti égbolt alatt.",
+        "ro": "Pedalați prin istorie pornind de la Muzeul Arheologic, urmat de o plimbare spre locul de odihnă al anticului Heroon. La amiază, mergeți spre Gimnaziul de Nord și descoperiți misterele Thesmophoreion 1. După-amiaza vă poartă pe lângă Casa Fântânii Publice și centrul civic de la Tholos. Ziua activă se încheie la Sanctuarul Eileithyiei, bucurându-vă de marginea estică liniștită a orașului.",
+        "en": "Cycle through history starting at the Archaeological Museum, followed by a quick ride to the sacred resting place of the ancient Heroon. As midday approaches, pedal to the North Gymnasium and uncover the mysteries of Thesmophoreion 1. Afternoon riding takes you past the Public Fountain House and the civic heart at the circular Tholos. Your active day ends at the Sanctuary of Eileithyia, enjoying the serene eastern edge of the city under the evening sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:48",
+      "total_km": 2.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Eretria",
+            "hu": "Eretriai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Eretria",
+            "en": "Archaeological Museum of Eretria"
+          },
+          "coords": [
+            23.789496,
+            38.395903
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kompakten Museum antike eretrische Artefakte wie die atemberaubenden Terrakotta-Gorgonen am besten gleich früh morgens.",
+            "hu": "Fedezze fel az ókori eretriai leleteket, köztük a lenyűgöző terrakotta gorgókat ebben a kompakt múzeumban, lehetőleg még a déli hőség előtt.",
+            "ro": "Descoperiți artefacte eretriene antice, inclusiv gorgone uimitoare din teracotă, în acest muzeu compact, pe care e bine să-l vizitați dimineața.",
+            "en": "Discover ancient Eretrian artifacts including stunning terracotta gorgons at this compact museum, best visited early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Thermen",
+            "hu": "A Fürdők",
+            "ro": "Băile",
+            "en": "The Baths"
+          },
+          "coords": [
+            23.793465,
+            38.397489
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das antike Alltagsleben in diesen öffentlichen Thermenruinen vor, deren ausgeklügeltes Heizsystem auf den Infotafeln erklärt wird.",
+            "hu": "Képzelje el az ókori polgárok mindennapjait e klasszikus fürdőromok között, ahol az információs táblák részletesen bemutatják a fűtési rendszert.",
+            "ro": "Imaginați-vă viața de zi cu zi a cetățenilor printre aceste ruine ale băilor publice clasice, unde panourile informative dezvăluie sistemul de încălzire.",
+            "en": "Imagine the daily life of ancient citizens among these classical public bath ruins, where checking the information boards reveals the heating system."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Ostsektor",
+            "hu": "A Keleti Szektor",
+            "ro": "Sectorul de Est",
+            "en": "The East Sector"
+          },
+          "coords": [
+            23.795114,
+            38.397813
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses faszinierende alte Wohn- und Geschäftsviertel und halten Sie Ausschau nach den schwachen Spuren kunstvoller Bodenmosaike.",
+            "hu": "Sétáljon végig az ókori város ezen lenyűgöző lakó- és kereskedelmi negyedén, és figyelje meg a kidolgozott padlómozaikok halványan kivehető nyomait.",
+            "ro": "Plimbați-vă prin acest cartier rezidențial și comercial fascinant al orașului antic, căutând urmele slabe ale mozaicurilor elaborate de pe podele.",
+            "en": "Wander through this fascinating residential and commercial neighborhood of the ancient city, looking out for faint traces of elaborate floor mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Das West-Tor",
+            "hu": "A Nyugati Kapu",
+            "ro": "Poarta de Vest",
+            "en": "The West Jib-Door"
+          },
+          "coords": [
+            23.794225,
+            38.400924
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Inspizieren Sie dieses bemerkenswert gut erhaltene antike Tor, das den Zugang zur Stadt kontrollierte, und treten Sie vorsichtig auf die Pflastersteine.",
+            "hu": "Vizsgálja meg ezt a figyelemre méltóan jól megőrzött ősi kaput, amely a városba való bejutást szabályozta, és lépjen óvatosan az eredeti köveken.",
+            "ro": "Inspectați această poartă antică remarcabil de bine conservată care controla accesul, pășind cu grijă peste pietrele de pavaj originale erodate.",
+            "en": "Inspect this remarkably well-preserved ancient gateway that controlled access to the city, stepping carefully over the original weathered paving stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Häuser auf der Akropolis",
+            "hu": "A házak az akropoliszon",
+            "ro": "Casele de pe acropolă",
+            "en": "The houses on the acropolis"
+          },
+          "coords": [
+            23.795444,
+            38.401525
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf, um die Überreste der großen Wohngebäude auf der Akropolis zu erkunden, und genießen Sie den weiten Blick auf den Golf von Euböa.",
+            "hu": "Túrázzon fel, hogy felfedezze az akropoliszon található nagyszerű lakóépületek maradványait, és élvezze a mérsékelt mászást követő pazar kilátást.",
+            "ro": "Urcați pentru a explora rămășițele structurilor rezidențiale de pe acropolă, recompensându-vă urcarea moderată cu vederi ample ale Golfului Evian.",
+            "en": "Hike up to explore the remnants of grand residential structures on the acropolis, rewarding your moderate climb with sweeping views of the Evian Gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Zisterne",
+            "hu": "A Ciszterna",
+            "ro": "Cisterna",
+            "en": "The Cistern"
+          },
+          "coords": [
+            23.796092,
+            38.40043
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die beeindruckende Technik dieses erhöhten Wasserspeichers und machen Sie sich bewusst, wie er einst die Akropolisbewohner versorgte.",
+            "hu": "Vizsgálja meg ennek a magaslati víztározónak a lenyűgöző mérnöki munkáját, és gondoljon bele, hogyan szolgálta ki a fenti akropolisz lakóit.",
+            "ro": "Examinați ingineria impresionantă a acestei cisterne de apă ridicate, făcându-vă un moment pentru a aprecia modul în care a servit locuitorii.",
+            "en": "Examine the impressive engineering of this elevated water storage facility, taking a moment to appreciate how it served the acropolis inhabitants above."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentliches Brunnenhaus",
+            "hu": "Központi Kútáz",
+            "ro": "Casa Fântânii Publice",
+            "en": "Public Fountain House"
+          },
+          "coords": [
+            23.795542,
+            38.394768
+          ],
+          "category": "historical",
+          "arrive_at": "17:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das komplexe Wassermanagement des antiken Eretria an diesem Brunnenhaus an, das man am besten mit einem Reiseführer versteht.",
+            "hu": "Tekintse meg az ókori Eretria vízgazdálkodását ennél a központi kútáznál, amelyet egy útikönyv rövid elolvasásával lehet a legkönnyebben megérteni.",
+            "ro": "Observați gestionarea apei din Eretria antică la această casă cu fântână centrală, cel mai bine înțeleasă cu o scurtă lectură a ghidului dumneavoastră.",
+            "en": "See the intricate water management of ancient Eretria at this central fountain house, which is best understood with a quick read of your guidebook."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Thermen am Hafen",
+            "hu": "A Kikötői Fürdők",
+            "ro": "Băile din Port",
+            "en": "The Baths at the Harbor"
+          },
+          "coords": [
+            23.795285,
+            38.392596
+          ],
+          "category": "historical",
+          "arrive_at": "18:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesen Badeanlagen an der Küste mit herrlichem Meerblick, ideal für spektakuläre Fotos im weichen Licht der goldenen Stunde.",
+            "hu": "Zárja a történelmi túrát ezeknél a tengerparti fürdőromoknál, amelyek gyönyörű kilátást nyújtanak, tökéletes időzítéssel a naplemente fotózásához.",
+            "ro": "Încheiați-vă turul istoric la aceste ruine ale băilor de coastă care oferă vederi frumoase la mare, perfect sincronizate pentru fotografia la apus.",
+            "en": "Conclude your historical tour at these coastal bath ruins offering beautiful sea views, perfectly timed for golden hour photography near the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie mühelos in die Antike, beginnend beim Museum, bevor Sie zu den weitläufigen klassischen Thermen und dem Ostsektor wechseln. Mittags fahren Sie kurz in Richtung Akropolis, um das West-Tor und die Häuserruinen zu besichtigen. Nachmittags untersuchen Sie die Technik der Zisterne und das öffentliche Brunnenhaus. Abends parken Sie in der Nähe der Hafenthermen und lassen den historischen Tag ausklingen.",
+        "hu": "Vezessen kényelmesen az ókorba, kezdve a Múzeumnál, mielőtt a kiterjedt klasszikus fürdőkhöz és a Keleti szektorhoz hajtana. Délben tegyen egy rövid utat az akropolisz felé, meglátogatva a nyugati kaput és a dombtetőn lévő házak romjait. Délután tanulmányozza a ciszterna mérnöki munkáját és a kútázat. Estére parkoljon le a kikötői fürdő közelében, és élvezze a történelmi nap lezárását a parti szellőben.",
+        "ro": "Conduceți fără efort în antichitate, începând de la Muzeu înainte de a sări la Băile clasice și Sectorul de Est. Amiaza prezintă o scurtă plimbare spre acropolă, vizitând Poarta de Vest și rămășițele caselor. După-amiaza continuă examinând ingineria cisternei antice și Casa Fântânii. Până seara, parcați lângă Băile Portului pentru a reflecta la o zi de istorie bogată, însoțită de briza coastei.",
+        "en": "Drive effortlessly into antiquity, beginning at the Museum before hopping to the sprawling classical Baths and East Sector. Midday features a short drive towards the acropolis, visiting the formidable West Jib-Door and the hilltop house remains. Your afternoon continues examining the ancient Cistern's engineering and the Public Fountain House. By evening, park near the Harbor Baths to reflect on a day of dense history accompanied by coastal breezes."
+      }
+    }
+  }
+}

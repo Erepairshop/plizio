@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-cavo-cities-v2",
+  "anchor": {
+    "name": "Cavo",
+    "coords": [
+      10.41966,
+      42.86185
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cavo beach",
+            "hu": "Cavo beach",
+            "ro": "Cavo beach",
+            "en": "Cavo beach"
+          },
+          "coords": [
+            10.420672,
+            42.862254
+          ],
+          "category": "recreational",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand an diesem zentralen Strand, der ideal für Familien ist, aber kommen Sie früh, um die besten Plätze direkt am klaren Wasser zu sichern.",
+            "hu": "Élvezze a finom homokot ezen a központi, családok számára is ideális strandon, de érkezzen korán, hogy a legjobb helyeket biztosítsa a tiszta víz mellett.",
+            "ro": "Bucurați-vă de nisipul fin de pe această plajă centrală, ideală pentru familii, dar veniți devreme pentru a prinde cele mai bune locuri lângă apa limpede.",
+            "en": "Enjoy the fine sand at this central beach that is ideal for families, but arrive early to secure the best spots right next to the crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cavo",
+            "hu": "Spiaggia di Cavo",
+            "ro": "Spiaggia di Cavo",
+            "en": "Spiaggia di Cavo"
+          },
+          "coords": [
+            10.424276,
+            42.857942
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser malerische Küstenabschnitt bietet eine wunderbare Aussicht auf das Meer; packen Sie unbedingt Badeschuhe ein, da der Untergrund teils steinig sein kann.",
+            "hu": "Ez a festői partszakasz csodálatos kilátást nyújt a tengerre; feltétlenül hozzon magával fürdőcipőt, mivel a talaj helyenként meglehetősen kavicsos lehet.",
+            "ro": "Această porțiune pitorească de coastă oferă priveliști minunate asupra mării; nu uitați să luați încălțăminte de apă, deoarece fundul poate fi stâncos.",
+            "en": "This picturesque stretch of coast offers wonderful views of the sea; be sure to pack some water shoes as the bottom can be quite rocky in certain places."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro Tonietti",
+            "hu": "Sepolcro Tonietti",
+            "ro": "Sepolcro Tonietti",
+            "en": "Sepolcro Tonietti"
+          },
+          "coords": [
+            10.412764,
+            42.865253
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur dieses historischen Mausoleums im Wald, und tragen Sie festes Schuhwerk für den etwas unebenen Zugangsweg hinauf.",
+            "hu": "Csodálja meg ennek az erdei történelmi mauzóleumnak a szecessziós építészetét, és viseljen zárt cipőt a kissé egyenetlen és meredek erdei megközelítéshez.",
+            "ro": "Admirați arhitectura Art Nouveau a acestui mausoleu istoric ascuns în pădure și purtați încălțăminte rezistentă pentru poteca ușor accidentată până acolo.",
+            "en": "Admire the Art Nouveau architecture of this historical mausoleum hidden in the woods, and wear sturdy shoes for the slightly uneven access path leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Frugoso",
+            "hu": "Spiaggia di Frugoso",
+            "ro": "Spiaggia di Frugoso",
+            "en": "Spiaggia di Frugoso"
+          },
+          "coords": [
+            10.415614,
+            42.869691
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Kiesstrand mit Blick auf die Inseln, und bringen Sie eine eigene Matte mit, um bequemer auf den Steinen zu liegen.",
+            "hu": "Pihenjen ezen a csendes kavicsos strandon, ahonnan csodás kilátás nyílik a szigetekre, és hozzon magával egy vastagabb matracot a kényelmesebb fekvéshez.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, cu vedere la insule, și aduceți o saltea groasă pentru a sta mai confortabil pe pietrele de pe mal.",
+            "en": "Relax on this quiet pebble beach with sweeping views of the offshore islands, and bring a thick mat to lie down comfortably on the somewhat hard stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Velesio",
+            "hu": "Spiaggia del Velesio",
+            "ro": "Spiaggia del Velesio",
+            "en": "Spiaggia del Velesio"
+          },
+          "coords": [
+            10.404919,
+            42.866486
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, die durch ihre wilde Natur fasziniert, aber denken Sie daran, ausreichend Wasser und Snacks für den Aufenthalt mitzubringen.",
+            "hu": "Fedezze fel ezt az eldugott, vad természetével lenyűgöző öblöt, de ne felejtsen el elegendő vizet és harapnivalót hozni a hosszabb, békés tartózkodáshoz.",
+            "ro": "Descoperiți acest golf ascuns care fascinează prin natura sa sălbatică, dar nu uitați să aduceți suficientă apă și gustări pentru șederea dumneavoastră.",
+            "en": "Discover this hidden cove that fascinates with its wild and untouched nature, but remember to bring plenty of water and snacks for your peaceful stay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit einem Spaziergang durch Cavo, atmen Sie die frische Meeresluft am zentralen Strand ein und gehen Sie zur weiten Spiaggia di Cavo.\nMidday: Wenn die Sonne höher steigt, entdecken Sie im Landesinneren das Sepolcro Tonietti, ein faszinierendes historisches Juwel inmitten der Bäume, das kühlen Schatten bietet.\nAfternoon: Setzen Sie Ihre Reise nach Norden zur Spiaggia di Frugoso fort, einem schönen Kiesstrand, wo Sie sich am klaren Wasser entspannen und die Aussicht genießen können.\nEvening: Beenden Sie Ihre Wandertour an der abgelegenen Spiaggia del Velesio. Bei Sonnenuntergang bietet die wilde Natur der Bucht einen friedlichen Abschluss Ihres Tages.",
+        "hu": "Morning: Kezdje a napot egy kellemes sétával Cavo városában, szívja be a friss tengeri levegőt a központi strandon, majd sétáljon el a tágas Spiaggia di Cavo felé.\nMidday: Ahogy a nap magasabbra hág, induljon a szárazföld felé, hogy felfedezze a fák között megbúvó Sepolcro Tonietti lenyűgöző történelmi mauzóleumát.\nAfternoon: Folytassa útját északra a Spiaggia di Frugoso-hoz, egy gyönyörű kavicsos strandhoz, ahol a kristálytiszta vizek mellett pihenhet és csodálhatja a kilátást.\nEvening: Zárja gyalogtúráját a félreeső Spiaggia del Velesio-n. Ahogy a nap lenyugszik, az öböl vad természeti környezete békés befejezést nyújt a napjának.",
+        "ro": "Morning: Începeți ziua cu o plimbare ușoară prin Cavo, respirând aerul proaspăt al mării pe plaja centrală, înainte de a vă îndrepta spre întinsa Spiaggia di Cavo.\nMidday: Pe măsură ce soarele urcă, aventurați-vă spre interior pentru a descoperi Sepolcro Tonietti, o comoară istorică ascunsă printre copaci, ce oferă un refugiu răcoros.\nAfternoon: Continuați călătoria spre nord către Spiaggia di Frugoso, o plajă superbă cu pietriș, unde vă puteți relaxa la apele clare și admira priveliștile.\nEvening: Încheiați turul de plimbare la izolata Spiaggia del Velesio. La apus, natura sălbatică ce înconjoară golful oferă un final pașnic și pitoresc al zilei.",
+        "en": "Morning: Start your day with a gentle stroll through Cavo, breathing in the fresh sea air at the central beach before heading to the sweeping Spiaggia di Cavo.\nMidday: As the sun climbs higher, venture inland to discover the Sepolcro Tonietti, a fascinating historical gem hidden among the trees that offers a cool, shaded retreat from the coastal heat.\nAfternoon: Continue your journey north to Spiaggia di Frugoso, a beautiful pebble beach where you can relax by the clear waters and enjoy the scenic views of the distant islands.\nEvening: Conclude your walking tour at the secluded Spiaggia del Velesio. As the sun sets, the wild nature surrounding the cove provides a peaceful and picturesque end to your day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cavo beach",
+            "hu": "Cavo beach",
+            "ro": "Cavo beach",
+            "en": "Cavo beach"
+          },
+          "coords": [
+            10.420672,
+            42.862254
+          ],
+          "category": "recreational",
+          "arrive_at": "09:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand an diesem zentralen Strand, der ideal für Familien ist, aber kommen Sie früh, um die besten Plätze direkt am klaren Wasser zu sichern.",
+            "hu": "Élvezze a finom homokot ezen a központi, családok számára is ideális strandon, de érkezzen korán, hogy a legjobb helyeket biztosítsa a tiszta víz mellett.",
+            "ro": "Bucurați-vă de nisipul fin de pe această plajă centrală, ideală pentru familii, dar veniți devreme pentru a prinde cele mai bune locuri lângă apa limpede.",
+            "en": "Enjoy the fine sand at this central beach that is ideal for families, but arrive early to secure the best spots right next to the crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro Tonietti",
+            "hu": "Sepolcro Tonietti",
+            "ro": "Sepolcro Tonietti",
+            "en": "Sepolcro Tonietti"
+          },
+          "coords": [
+            10.412764,
+            42.865253
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur dieses historischen Mausoleums im Wald, und tragen Sie festes Schuhwerk für den etwas unebenen Zugangsweg hinauf.",
+            "hu": "Csodálja meg ennek az erdei történelmi mauzóleumnak a szecessziós építészetét, és viseljen zárt cipőt a kissé egyenetlen és meredek erdei megközelítéshez.",
+            "ro": "Admirați arhitectura Art Nouveau a acestui mausoleu istoric ascuns în pădure și purtați încălțăminte rezistentă pentru poteca ușor accidentată până acolo.",
+            "en": "Admire the Art Nouveau architecture of this historical mausoleum hidden in the woods, and wear sturdy shoes for the slightly uneven access path leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Velesio",
+            "hu": "Spiaggia del Velesio",
+            "ro": "Spiaggia del Velesio",
+            "en": "Spiaggia del Velesio"
+          },
+          "coords": [
+            10.404919,
+            42.866486
+          ],
+          "category": "recreational",
+          "arrive_at": "11:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, die durch ihre wilde Natur fasziniert, aber denken Sie daran, ausreichend Wasser und Snacks für den Aufenthalt mitzubringen.",
+            "hu": "Fedezze fel ezt az eldugott, vad természetével lenyűgöző öblöt, de ne felejtsen el elegendő vizet és harapnivalót hozni a hosszabb, békés tartózkodáshoz.",
+            "ro": "Descoperiți acest golf ascuns care fascinează prin natura sa sălbatică, dar nu uitați să aduceți suficientă apă și gustări pentru șederea dumneavoastră.",
+            "en": "Discover this hidden cove that fascinates with its wild and untouched nature, but remember to bring plenty of water and snacks for your peaceful stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Semaforo di Monte Grosso",
+            "hu": "Semaforo di Monte Grosso",
+            "ro": "Semaforo di Monte Grosso",
+            "en": "Semaforo di Monte Grosso"
+          },
+          "coords": [
+            10.399353,
+            42.853179
+          ],
+          "category": "natural",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Signalposten für ein atemberaubendes Panorama über die Insel Elba; ein Fernglas macht die weite Aussicht noch unvergesslicher.",
+            "hu": "Mássza meg ezt a történelmi jelzőállomást az Elba szigetére nyíló lélegzetelállító panorámáért; egy távcső még felejthetetlenebbé teszi a hatalmas kilátást.",
+            "ro": "Urcați la acest post de semnalizare istoric pentru o panoramă uluitoare a insulei Elba; un binoclu va face priveliștea vastă cu atât mai de neuitat.",
+            "en": "Climb up to this historic signal post for a breathtaking panorama over Elba Island; bringing binoculars will make the sweeping coastal view even more unforgettable."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Fornacelle",
+            "hu": "Spiaggia delle Fornacelle",
+            "ro": "Spiaggia delle Fornacelle",
+            "en": "Spiaggia delle Fornacelle"
+          },
+          "coords": [
+            10.434865,
+            42.853098
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Dieser charmante, kleine Strand ist perfekt für einen entspannten Nachmittag, doch parken Sie Ihr Fahrrad oder Auto rechtzeitig, da der Platz stark begrenzt ist.",
+            "hu": "Ez a bájos, kis strand tökéletes egy pihentető délután eltöltéséhez, de időben parkolja le kerékpárját vagy autóját, mivel a hely erősen korlátozott.",
+            "ro": "Această mică plajă fermecătoare este perfectă pentru o după-amiază relaxantă, dar parcați bicicleta sau mașina din timp, deoarece spațiul este limitat.",
+            "en": "This charming, small beach is perfect for a relaxing afternoon under the sun, but park your bike or car early as the available space is extremely limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Direttore",
+            "hu": "Spiaggia del Direttore",
+            "ro": "Spiaggia del Direttore",
+            "en": "Spiaggia del Direttore"
+          },
+          "coords": [
+            10.442782,
+            42.847334
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Ruhe abseits der Massen an diesem abgelegenen Küstenstreifen, und nutzen Sie den späten Nachmittag für das beste Fotolicht.",
+            "hu": "Élvezze az abszolút nyugalmat a tömegtől távol ezen az eldugott partszakaszon, és használja ki a késő délutánt a legjobb fényképezési fényviszonyokhoz.",
+            "ro": "Bucurați-vă de liniștea absolută departe de mulțimi pe această porțiune izolată de coastă și profitați de după-amiaza târzie pentru cea mai bună lumină foto.",
+            "en": "Enjoy the absolute peace away from the crowds at this remote and beautiful coastal strip, and use the late afternoon hours for the best photographic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Schwingen Sie sich aufs Rad, spüren Sie die Morgenbrise am Strand von Cavo und radeln Sie dann landeinwärts, um die Architektur des Sepolcro Tonietti zu erkunden.\nMidday: Fahren Sie zur ruhigen Spiaggia del Velesio für eine erfrischende Pause und genießen Sie den Küstenweg vor dem anspruchsvollen, aber lohnenden Aufstieg.\nAfternoon: Kämpfen Sie sich hinauf zum Semaforo di Monte Grosso. Die Anstrengung wird durch den Panoramablick auf die üppige Landschaft und das azurblaue Wasser belohnt.\nEvening: Rollen Sie hinab zu den südöstlichen Stränden, halten Sie in Fornacelle und schließlich an der Spiaggia del Direttore, um das schwindende Licht zu beobachten.",
+        "hu": "Morning: Pattanjon kerékpárra, érezze a reggeli szellőt a Cavo strandon, majd tekerjen egy kicsit beljebb, hogy felfedezze a Sepolcro Tonietti csodás építészetét.\nMidday: Tekerjen a csendes Spiaggia del Velesio felé egy frissítő pihenőre, élvezze a parti utat, mielőtt megkezdené a kihívást jelentő, de hálás déli emelkedőt.\nAfternoon: Küzdje fel magát a Semaforo di Monte Grosso-hoz. Az erőfeszítést tökéletesen kárpótolja a sziget buja tájára és azúrkék vizeire nyíló panoráma.\nEvening: Guruljon le a délkeleti strandokhoz, álljon meg Fornacelle-nél, végül pedig a csendes Spiaggia del Direttore-nél, hogy nézze a hullámokon megcsillanó fényt.",
+        "ro": "Morning: Urcați pe bicicletă, simțiți briza dimineții la plaja Cavo, apoi pedalați ușor spre interior pentru a explora arhitectura magnifică a Sepolcro Tonietti.\nMidday: Mergeți spre liniștita Spiaggia del Velesio pentru o pauză revigorantă, bucurându-vă de drumul de coastă înainte de a începe urcarea provocatoare spre sud.\nAfternoon: Urcați dealurile spre Semaforo di Monte Grosso. Efortul este complet răsplătit de vederile panoramice asupra peisajului luxuriant și apelor azurii.\nEvening: Coborâți spre plajele din sud-est, oprindu-vă la Fornacelle și în final la liniștita Spiaggia del Direttore pentru a privi lumina estompându-se pe valuri.",
+        "en": "Morning: Hop on your bike and feel the morning breeze at Cavo beach, then pedal slightly inland to explore the magnificent architecture of the Sepolcro Tonietti.\nMidday: Ride towards the quiet Spiaggia del Velesio for a refreshing break, enjoying the coastal path before beginning the challenging but rewarding ascent south.\nAfternoon: Push up the hills to the Semaforo di Monte Grosso. The effort is completely paid off by the panoramic views of the island's lush landscape and azure waters.\nEvening: Freewheel down to the southeastern beaches, stopping at Fornacelle and finally the tranquil Spiaggia del Direttore to watch the fading light reflect on the waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sepolcro Tonietti",
+            "hu": "Sepolcro Tonietti",
+            "ro": "Sepolcro Tonietti",
+            "en": "Sepolcro Tonietti"
+          },
+          "coords": [
+            10.412764,
+            42.865253
+          ],
+          "category": "historical",
+          "arrive_at": "09:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur dieses historischen Mausoleums im Wald, und tragen Sie festes Schuhwerk für den etwas unebenen Zugangsweg hinauf.",
+            "hu": "Csodálja meg ennek az erdei történelmi mauzóleumnak a szecessziós építészetét, és viseljen zárt cipőt a kissé egyenetlen és meredek erdei megközelítéshez.",
+            "ro": "Admirați arhitectura Art Nouveau a acestui mausoleu istoric ascuns în pădure și purtați încălțăminte rezistentă pentru poteca ușor accidentată până acolo.",
+            "en": "Admire the Art Nouveau architecture of this historical mausoleum hidden in the woods, and wear sturdy shoes for the slightly uneven access path leading up."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Frugoso",
+            "hu": "Spiaggia di Frugoso",
+            "ro": "Spiaggia di Frugoso",
+            "en": "Spiaggia di Frugoso"
+          },
+          "coords": [
+            10.415614,
+            42.869691
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Kiesstrand mit Blick auf die Inseln, und bringen Sie eine eigene Matte mit, um bequemer auf den Steinen zu liegen.",
+            "hu": "Pihenjen ezen a csendes kavicsos strandon, ahonnan csodás kilátás nyílik a szigetekre, és hozzon magával egy vastagabb matracot a kényelmesebb fekvéshez.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, cu vedere la insule, și aduceți o saltea groasă pentru a sta mai confortabil pe pietrele de pe mal.",
+            "en": "Relax on this quiet pebble beach with sweeping views of the offshore islands, and bring a thick mat to lie down comfortably on the somewhat hard stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Semaforo di Monte Grosso",
+            "hu": "Semaforo di Monte Grosso",
+            "ro": "Semaforo di Monte Grosso",
+            "en": "Semaforo di Monte Grosso"
+          },
+          "coords": [
+            10.399353,
+            42.853179
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Signalposten für ein atemberaubendes Panorama über die Insel Elba; ein Fernglas macht die weite Aussicht noch unvergesslicher.",
+            "hu": "Mássza meg ezt a történelmi jelzőállomást az Elba szigetére nyíló lélegzetelállító panorámáért; egy távcső még felejthetetlenebbé teszi a hatalmas kilátást.",
+            "ro": "Urcați la acest post de semnalizare istoric pentru o panoramă uluitoare a insulei Elba; un binoclu va face priveliștea vastă cu atât mai de neuitat.",
+            "en": "Climb up to this historic signal post for a breathtaking panorama over Elba Island; bringing binoculars will make the sweeping coastal view even more unforgettable."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cavo",
+            "hu": "Spiaggia di Cavo",
+            "ro": "Spiaggia di Cavo",
+            "en": "Spiaggia di Cavo"
+          },
+          "coords": [
+            10.424276,
+            42.857942
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Dieser malerische Küstenabschnitt bietet eine wunderbare Aussicht auf das Meer; packen Sie unbedingt Badeschuhe ein, da der Untergrund teils steinig sein kann.",
+            "hu": "Ez a festői partszakasz csodálatos kilátást nyújt a tengerre; feltétlenül hozzon magával fürdőcipőt, mivel a talaj helyenként meglehetősen kavicsos lehet.",
+            "ro": "Această porțiune pitorească de coastă oferă priveliști minunate asupra mării; nu uitați să luați încălțăminte de apă, deoarece fundul poate fi stâncos.",
+            "en": "This picturesque stretch of coast offers wonderful views of the sea; be sure to pack some water shoes as the bottom can be quite rocky in certain places."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia delle Fornacelle",
+            "hu": "Spiaggia delle Fornacelle",
+            "ro": "Spiaggia delle Fornacelle",
+            "en": "Spiaggia delle Fornacelle"
+          },
+          "coords": [
+            10.434865,
+            42.853098
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieser charmante, kleine Strand ist perfekt für einen entspannten Nachmittag, doch parken Sie Ihr Fahrrad oder Auto rechtzeitig, da der Platz stark begrenzt ist.",
+            "hu": "Ez a bájos, kis strand tökéletes egy pihentető délután eltöltéséhez, de időben parkolja le kerékpárját vagy autóját, mivel a hely erősen korlátozott.",
+            "ro": "Această mică plajă fermecătoare este perfectă pentru o după-amiază relaxantă, dar parcați bicicleta sau mașina din timp, deoarece spațiul este limitat.",
+            "en": "This charming, small beach is perfect for a relaxing afternoon under the sun, but park your bike or car early as the available space is extremely limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Direttore",
+            "hu": "Spiaggia del Direttore",
+            "ro": "Spiaggia del Direttore",
+            "en": "Spiaggia del Direttore"
+          },
+          "coords": [
+            10.442782,
+            42.847334
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Ruhe abseits der Massen an diesem abgelegenen Küstenstreifen, und nutzen Sie den späten Nachmittag für das beste Fotolicht.",
+            "hu": "Élvezze az abszolút nyugalmat a tömegtől távol ezen az eldugott partszakaszon, és használja ki a késő délutánt a legjobb fényképezési fényviszonyokhoz.",
+            "ro": "Bucurați-vă de liniștea absolută departe de mulțimi pe această porțiune izolată de coastă și profitați de după-amiaza târzie pentru cea mai bună lumină foto.",
+            "en": "Enjoy the absolute peace away from the crowds at this remote and beautiful coastal strip, and use the late afternoon hours for the best photographic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie direkt zum beeindruckenden Sepolcro Tonietti, spazieren Sie auf schattigen Wegen und fahren Sie dann nach Norden zur schönen Spiaggia di Frugoso.\nMidday: Fahren Sie gen Süden zum Semaforo di Monte Grosso. Ein kurzer Spaziergang vom Parkplatz offenbart atemberaubende Panoramen der spektakulären Küste Elbas.\nAfternoon: Fahren Sie zurück zur Hauptspiaggia di Cavo für ein nachmittägliches Bad und genießen Sie die lebhafte Atmosphäre dieses beliebten Küstenabschnitts.\nEvening: Fahren Sie weiter auf der malerischen Küstenstraße zu den kleineren, intimeren Buchten wie Fornacelle und Spiaggia del Direttore für den perfekten Tagesabschluss.",
+        "hu": "Morning: Vezessen egyenesen a lenyűgöző Sepolcro Tonietti-hez, sétáljon az árnyékos ösvényeken, majd induljon északra a gyönyörű Spiaggia di Frugoso felé.\nMidday: Autózzon délre a Semaforo di Monte Grosso-hoz. A parkolótól egy rövid séta után lélegzetelállító panoráma tárul elénk Elba látványos partvonaláról.\nAfternoon: Térjen vissza a fő Spiaggia di Cavo-hoz egy délutáni úszásra, élvezve a népszerű partszakasz könnyű megközelíthetőségét és nyüzsgő hangulatát.\nEvening: Folytassa útját a festői parti úton a kisebb, meghittebb öblök, mint Fornacelle és a Spiaggia del Direttore felé, melyek tökéletes helyek a nap zárásához.",
+        "ro": "Morning: Conduceți direct la impresionantul Sepolcro Tonietti pentru a evita căldura, plimbându-vă pe trasee, apoi îndreptați-vă spre superba Spiaggia di Frugoso.\nMidday: Coborâți spre sud la Semaforo di Monte Grosso. O scurtă plimbare de la parcare dezvăluie panorame uluitoare care evidențiază coasta spectaculoasă a Elbei.\nAfternoon: Conduceți înapoi la Spiaggia di Cavo pentru o baie de după-amiază, bucurându-vă de accesul ușor și atmosfera vibrantă a acestei populare zone litorale.\nEvening: Continuați pe drumul de coastă spre golfurile mai mici și intime, precum Fornacelle și Spiaggia del Direttore, locuri perfecte pentru a încheia ziua.",
+        "en": "Morning: Drive straight to the impressive Sepolcro Tonietti to beat the heat, wandering the shaded trails, then head north to the lovely Spiaggia di Frugoso.\nMidday: Cruise south to the Semaforo di Monte Grosso. A short walk from your parking spot reveals breathtaking panoramas that highlight Elba's spectacular coastline.\nAfternoon: Drive back down to the main Spiaggia di Cavo for an afternoon swim, enjoying the easy access and vibrant atmosphere of this popular seaside stretch.\nEvening: Continue along the scenic coastal road to the smaller, more intimate coves like Fornacelle and Spiaggia del Direttore, perfect spots to end a beautiful day."
+      }
+    }
+  }
+}

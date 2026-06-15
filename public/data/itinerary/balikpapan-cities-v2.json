@@ -1,0 +1,543 @@
+{
+  "city_id": "balikpapan-cities-v2",
+  "anchor": {
+    "name": "Balikpapan",
+    "coords": [
+      116.828,
+      -1.255
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu AMD",
+            "hu": "Tugu AMD",
+            "ro": "Tugu AMD",
+            "en": "Tugu AMD"
+          },
+          "coords": [
+            116.835088,
+            -1.262901
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Denkmal der militärischen Entwicklung und bringen Sie einen Regenschirm mit, um die informativen Tafeln im Schatten zu lesen.",
+            "hu": "Fedezze fel ezt a katonai fejlesztéseket megörökítő történelmi emlékművet, és vigyen magával napernyőt, amíg az információs táblákat olvassa.",
+            "ro": "Explorați acest monument istoric dedicat dezvoltării militare și aduceți o umbrelă pentru umbră în timp ce citiți plăcile informative detaliate.",
+            "en": "Explore this historical monument commemorating the military development efforts, and bring an umbrella for shade while reading the informative plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Antasari",
+            "hu": "Antasari",
+            "ro": "Antasari",
+            "en": "Antasari"
+          },
+          "coords": [
+            116.837837,
+            -1.274427
+          ],
+          "category": "cultural",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale kulturelle Atmosphäre dieses Viertels ein und halten Sie entlang der Hauptstraße Ausschau nach authentischen Streetfood-Ständen.",
+            "hu": "Merüljön el ennek a nyüzsgő negyednek a helyi kulturális atmoszférájában, és keressen autentikus utcai árusokat a forgalmas főút mentén sétálva.",
+            "ro": "Cufundați-vă în atmosfera culturală locală a acestui cartier vibrant și căutați vânzătorii de mâncare stradală autentică de-a lungul drumului principal.",
+            "en": "Immerse yourself in the local cultural atmosphere of this vibrant neighborhood, keeping an eye out for authentic street food vendors along the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Perjuangan Rakyat Balikpapan",
+            "hu": "Monumen Perjuangan Rakyat Balikpapan",
+            "ro": "Monumen Perjuangan Rakyat Balikpapan",
+            "en": "Monumen Perjuangan Rakyat Balikpapan"
+          },
+          "coords": [
+            116.822274,
+            -1.279117
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mächtige Denkmal zu Ehren lokaler Freiheitskämpfer und kommen Sie am Nachmittag, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a függetlenségi harc helyi hősei előtt tisztelgő emlékművet, és érkezzen délután, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați acest monument impresionant dedicat eroilor locali ai luptei pentru independență și sosiți după-amiaza pentru cea mai bună lumină la fotografii.",
+            "en": "Admire this powerful monument honoring local heroes of the independence struggle, and arrive in the afternoon for the best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Monpera",
+            "hu": "Pantai Monpera",
+            "ro": "Pantai Monpera",
+            "en": "Pantai Monpera"
+          },
+          "coords": [
+            116.821298,
+            -1.280119
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Stadtstrand mit historischer Kulisse, aber achten Sie auf die Gezeiten, wenn Sie nah am sandigen Ufer spazieren wollen.",
+            "hu": "Pihenjen ezen a történelmi hátteréről ismert, népszerű városi strandon, de figyeljen az árapályra, ha közvetlenül a homokos parton szeretne sétálni.",
+            "ro": "Relaxați-vă pe această plajă urbană populară pentru fundalul său istoric, dar fiți atenți la maree dacă plănuiți să vă plimbați pe malul nisipos.",
+            "en": "Relax on this popular urban beach known for its historical backdrop, but be mindful of the tides if you plan to walk closely along the sandy shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemala Beach",
+            "hu": "Kemala Beach",
+            "ro": "Kemala Beach",
+            "en": "Kemala Beach"
+          },
+          "coords": [
+            116.817237,
+            -1.280946
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und den weichen Sand dieses Küstenabschnitts und holen Sie sich eine frische Kokosnuss, um sich abzukühlen.",
+            "hu": "Élvezze ennek a kedvelt partszakasznak a nyüzsgő hangulatát és puha homokját, majd hűsöljön egy friss kókuszdióval a közeli árusok egyikénél.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și nisipul fin al acestui loc iubit și luați o nucă de cocos proaspătă de la tarabele din apropiere.",
+            "en": "Enjoy the lively atmosphere and soft sands of this beloved coastal spot, and grab a fresh coconut from one of the nearby stalls to stay cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumah Panggung",
+            "hu": "Rumah Panggung",
+            "ro": "Rumah Panggung",
+            "en": "Rumah Panggung"
+          },
+          "coords": [
+            116.814843,
+            -1.276586
+          ],
+          "category": "landmark",
+          "arrive_at": "16:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur dieser hölzernen Pfahlbauten und tragen Sie bequeme Schuhe, um die unebenen Wege sicher zu meistern.",
+            "hu": "Fedezze fel ezeknek a hagyományos fa cölöpházaknak az építészetét, és viseljen kényelmes cipőt, hogy könnyedén közlekedjen az egyenetlen ösvényeken.",
+            "ro": "Descoperiți arhitectura tradițională a acestor case de lemn suspendate și purtați încălțăminte confortabilă pentru a naviga pe cărările denivelate.",
+            "en": "Discover the traditional architecture of these elevated wooden houses, and wear comfortable walking shoes to navigate the uneven surrounding pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Tugu AMD und führt in die Geschichte Balikpapans ein. Mittags erleben Sie das lebendige Antasari-Viertel. Der Nachmittag ist dem Gedenken am Monumen Perjuangan Rakyat und der Meeresbrise am Pantai Monpera gewidmet. Der Abend klingt mit einem Spaziergang am Kemala Beach und einem Blick auf die traditionellen Rumah Panggung-Häuser aus.",
+        "hu": "A délelőtt a történelmi Tugu AMD-nél indul, bemutatva Balikpapan örökségét. Délben az élénk Antasari negyed helyi kultúráját ismerheti meg. A délután folyamán a Monumen Perjuangan Rakyat hősies múltjával és a Pantai Monpera tengeri szellőjével találkozik. Az estét a Kemala Beach pihentető hangulata és a Rumah Panggung hagyományos házai zárják.",
+        "ro": "Dimineața începe la istoricul Tugu AMD, introducând patrimoniul orașului Balikpapan. La prânz explorăm cartierul vibrant Antasari, bogat în cultură locală. După-amiaza este dedicată onorării eroilor la Monumen Perjuangan Rakyat și brizei de la Pantai Monpera. Seara se încheie pe plaja Kemala și cu admirarea caselor tradiționale Rumah Panggung.",
+        "en": "Morning begins at the historic Tugu AMD, introducing Balikpapan's heritage. Midday moves through the vibrant Antasari district, rich in local culture. Afternoon is dedicated to honoring heroes at Monumen Perjuangan Rakyat and enjoying the sea breeze at Pantai Monpera. The evening wraps up with a relaxing stroll on Kemala Beach and viewing the unique Rumah Panggung houses."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:52",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dahor Heritage Balikpapan",
+            "hu": "Dahor Heritage Balikpapan",
+            "ro": "Dahor Heritage Balikpapan",
+            "en": "Dahor Heritage Balikpapan"
+          },
+          "coords": [
+            116.825931,
+            -1.235516
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese erhaltenen Ölhäuser aus der Kolonialzeit, die die Erdölgeschichte der Stadt erzählen, und besuchen Sie das kleine Museum im Inneren.",
+            "hu": "Fedezze fel ezeket a gyarmati korabeli olajosházakat, amelyek a város kőolajipari történelmét mesélik el, és nézze meg a benti kis múzeumot.",
+            "ro": "Explorați aceste case de petrol din era colonială care spun istoria petrolului a orașului și vizitați micul muzeu din interior pentru fotografii de epocă.",
+            "en": "Explore these preserved colonial-era oil houses that tell the city's petroleum history, and visit the small museum inside to see vintage photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kodam VI/MLW",
+            "hu": "Museum Kodam VI/MLW",
+            "ro": "Museum Kodam VI/MLW",
+            "en": "Museum Kodam VI/MLW"
+          },
+          "coords": [
+            116.817854,
+            -1.234051
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum mit historischen Waffen in die regionale Militärgeschichte ein und fragen Sie die Guides nach Details.",
+            "hu": "Merüljön el a regionális hadtörténetben ebben a régi fegyvereket bemutató múzeumban, és kérdezze a helyi idegenvezetőket a kiállítások részleteiről.",
+            "ro": "Pătrundeți în istoria militară regională la acest muzeu cuprinzător cu arme de epocă și întrebați ghizii locali pentru detalii despre exponate.",
+            "en": "Dive into regional military history at this comprehensive museum featuring vintage weaponry, and ask the local guides for insights into the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu AMD",
+            "hu": "Tugu AMD",
+            "ro": "Tugu AMD",
+            "en": "Tugu AMD"
+          },
+          "coords": [
+            116.835088,
+            -1.262901
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Denkmal der militärischen Entwicklung und bringen Sie einen Regenschirm mit, um die informativen Tafeln im Schatten zu lesen.",
+            "hu": "Fedezze fel ezt a katonai fejlesztéseket megörökítő történelmi emlékművet, és vigyen magával napernyőt, amíg az információs táblákat olvassa.",
+            "ro": "Explorați acest monument istoric dedicat dezvoltării militare și aduceți o umbrelă pentru umbră în timp ce citiți plăcile informative detaliate.",
+            "en": "Explore this historical monument commemorating the military development efforts, and bring an umbrella for shade while reading the informative plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Perjuangan Rakyat Balikpapan",
+            "hu": "Monumen Perjuangan Rakyat Balikpapan",
+            "ro": "Monumen Perjuangan Rakyat Balikpapan",
+            "en": "Monumen Perjuangan Rakyat Balikpapan"
+          },
+          "coords": [
+            116.822274,
+            -1.279117
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mächtige Denkmal zu Ehren lokaler Freiheitskämpfer und kommen Sie am Nachmittag, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a függetlenségi harc helyi hősei előtt tisztelgő emlékművet, és érkezzen délután, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați acest monument impresionant dedicat eroilor locali ai luptei pentru independență și sosiți după-amiaza pentru cea mai bună lumină la fotografii.",
+            "en": "Admire this powerful monument honoring local heroes of the independence struggle, and arrive in the afternoon for the best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Monpera",
+            "hu": "Pantai Monpera",
+            "ro": "Pantai Monpera",
+            "en": "Pantai Monpera"
+          },
+          "coords": [
+            116.821298,
+            -1.280119
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Stadtstrand mit historischer Kulisse, aber achten Sie auf die Gezeiten, wenn Sie nah am sandigen Ufer spazieren wollen.",
+            "hu": "Pihenjen ezen a történelmi hátteréről ismert, népszerű városi strandon, de figyeljen az árapályra, ha közvetlenül a homokos parton szeretne sétálni.",
+            "ro": "Relaxați-vă pe această plajă urbană populară pentru fundalul său istoric, dar fiți atenți la maree dacă plănuiți să vă plimbați pe malul nisipos.",
+            "en": "Relax on this popular urban beach known for its historical backdrop, but be mindful of the tides if you plan to walk closely along the sandy shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemala Beach",
+            "hu": "Kemala Beach",
+            "ro": "Kemala Beach",
+            "en": "Kemala Beach"
+          },
+          "coords": [
+            116.817237,
+            -1.280946
+          ],
+          "category": "recreational",
+          "arrive_at": "17:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und den weichen Sand dieses Küstenabschnitts und holen Sie sich eine frische Kokosnuss, um sich abzukühlen.",
+            "hu": "Élvezze ennek a kedvelt partszakasznak a nyüzsgő hangulatát és puha homokját, majd hűsöljön egy friss kókuszdióval a közeli árusok egyikénél.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și nisipul fin al acestui loc iubit și luați o nucă de cocos proaspătă de la tarabele din apropiere.",
+            "en": "Enjoy the lively atmosphere and soft sands of this beloved coastal spot, and grab a fresh coconut from one of the nearby stalls to stay cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Tour startet mit der Ölgeschichte im Dahor Heritage und der Militärhistorie im Kodam VI. Mittags radeln Sie in Richtung Süden zum Tugu AMD. Der Nachmittag bietet eine patriotische Pause am beeindruckenden Monumen Perjuangan Rakyat. Am Abend erwartet Sie ein perfekter Abschluss am Meer entlang der malerischen Strände Pantai Monpera und Kemala Beach.",
+        "hu": "A tekerés a város kőolajipari múltjával indul a Dahor Heritage-ben, majd a Kodam VI hadtörténetével folytatódik. Délben dél felé vesszük az irányt a Tugu AMD-hez. A délután hazafias megállót kínál a Monumen Perjuangan Rakyatnál a tengerpart előtt. Az este tökéletes tengerparti lezárást nyújt a Pantai Monpera és a Kemala Beach festői szakaszain.",
+        "ro": "Plimbarea începe explorând trecutul petrolier la Dahor Heritage și istoria militară la Kodam VI. La prânz pedalați spre sud către istoricul Tugu AMD. După-amiaza oferă o pauză patriotică la impresionantul Monumen Perjuangan Rakyat înainte de a ajunge pe coastă. Seara asigură un final perfect la malul mării, la Pantai Monpera și Kemala Beach.",
+        "en": "The ride starts by delving into the city's oil boom past at Dahor Heritage and military history at Kodam VI. Midday cycling takes you south towards the historic Tugu AMD. The afternoon offers a patriotic pause at the prominent Monumen Perjuangan Rakyat before hitting the coast. Evening provides a perfect seaside finish at the scenic stretches of Pantai Monpera and Kemala Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:20",
+      "total_km": 8.45,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Kodam VI/MLW",
+            "hu": "Museum Kodam VI/MLW",
+            "ro": "Museum Kodam VI/MLW",
+            "en": "Museum Kodam VI/MLW"
+          },
+          "coords": [
+            116.817854,
+            -1.234051
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum mit historischen Waffen in die regionale Militärgeschichte ein und fragen Sie die Guides nach Details.",
+            "hu": "Merüljön el a regionális hadtörténetben ebben a régi fegyvereket bemutató múzeumban, és kérdezze a helyi idegenvezetőket a kiállítások részleteiről.",
+            "ro": "Pătrundeți în istoria militară regională la acest muzeu cuprinzător cu arme de epocă și întrebați ghizii locali pentru detalii despre exponate.",
+            "en": "Dive into regional military history at this comprehensive museum featuring vintage weaponry, and ask the local guides for insights into the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Dahor Heritage Balikpapan",
+            "hu": "Dahor Heritage Balikpapan",
+            "ro": "Dahor Heritage Balikpapan",
+            "en": "Dahor Heritage Balikpapan"
+          },
+          "coords": [
+            116.825931,
+            -1.235516
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese erhaltenen Ölhäuser aus der Kolonialzeit, die die Erdölgeschichte der Stadt erzählen, und besuchen Sie das kleine Museum im Inneren.",
+            "hu": "Fedezze fel ezeket a gyarmati korabeli olajosházakat, amelyek a város kőolajipari történelmét mesélik el, és nézze meg a benti kis múzeumot.",
+            "ro": "Explorați aceste case de petrol din era colonială care spun istoria petrolului a orașului și vizitați micul muzeu din interior pentru fotografii de epocă.",
+            "en": "Explore these preserved colonial-era oil houses that tell the city's petroleum history, and visit the small museum inside to see vintage photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Griya Mulya Kost",
+            "hu": "Griya Mulya Kost",
+            "ro": "Griya Mulya Kost",
+            "en": "Griya Mulya Kost"
+          },
+          "coords": [
+            116.836508,
+            -1.257308
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf dieses markante Wohngebäude, das modernes lokales Leben widerspiegelt, und respektieren Sie dabei die Privatsphäre der Bewohner.",
+            "hu": "Vessen egy pillantást erre a jellegzetes lakóépületre, amely a modern helyi életet tükrözi, miközben tiszteletben tartja az ott élők magánéletét.",
+            "ro": "Aruncați o privire la acest punct de reper rezidențial distinct care reflectă viața modernă locală, respectând intimitatea locuitorilor pe durata vizitei.",
+            "en": "Take a quick look at this distinct residential landmark that reflects modern local living, while being respectful of the residents' privacy during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu AMD",
+            "hu": "Tugu AMD",
+            "ro": "Tugu AMD",
+            "en": "Tugu AMD"
+          },
+          "coords": [
+            116.835088,
+            -1.262901
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Denkmal der militärischen Entwicklung und bringen Sie einen Regenschirm mit, um die informativen Tafeln im Schatten zu lesen.",
+            "hu": "Fedezze fel ezt a katonai fejlesztéseket megörökítő történelmi emlékművet, és vigyen magával napernyőt, amíg az információs táblákat olvassa.",
+            "ro": "Explorați acest monument istoric dedicat dezvoltării militare și aduceți o umbrelă pentru umbră în timp ce citiți plăcile informative detaliate.",
+            "en": "Explore this historical monument commemorating the military development efforts, and bring an umbrella for shade while reading the informative plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Antasari",
+            "hu": "Antasari",
+            "ro": "Antasari",
+            "en": "Antasari"
+          },
+          "coords": [
+            116.837837,
+            -1.274427
+          ],
+          "category": "cultural",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale kulturelle Atmosphäre dieses Viertels ein und halten Sie entlang der Hauptstraße Ausschau nach authentischen Streetfood-Ständen.",
+            "hu": "Merüljön el ennek a nyüzsgő negyednek a helyi kulturális atmoszférájában, és keressen autentikus utcai árusokat a forgalmas főút mentén sétálva.",
+            "ro": "Cufundați-vă în atmosfera culturală locală a acestui cartier vibrant și căutați vânzătorii de mâncare stradală autentică de-a lungul drumului principal.",
+            "en": "Immerse yourself in the local cultural atmosphere of this vibrant neighborhood, keeping an eye out for authentic street food vendors along the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Perjuangan Rakyat Balikpapan",
+            "hu": "Monumen Perjuangan Rakyat Balikpapan",
+            "ro": "Monumen Perjuangan Rakyat Balikpapan",
+            "en": "Monumen Perjuangan Rakyat Balikpapan"
+          },
+          "coords": [
+            116.822274,
+            -1.279117
+          ],
+          "category": "historical",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mächtige Denkmal zu Ehren lokaler Freiheitskämpfer und kommen Sie am Nachmittag, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a függetlenségi harc helyi hősei előtt tisztelgő emlékművet, és érkezzen délután, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați acest monument impresionant dedicat eroilor locali ai luptei pentru independență și sosiți după-amiaza pentru cea mai bună lumină la fotografii.",
+            "en": "Admire this powerful monument honoring local heroes of the independence struggle, and arrive in the afternoon for the best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Monpera",
+            "hu": "Pantai Monpera",
+            "ro": "Pantai Monpera",
+            "en": "Pantai Monpera"
+          },
+          "coords": [
+            116.821298,
+            -1.280119
+          ],
+          "category": "recreational",
+          "arrive_at": "16:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Stadtstrand mit historischer Kulisse, aber achten Sie auf die Gezeiten, wenn Sie nah am sandigen Ufer spazieren wollen.",
+            "hu": "Pihenjen ezen a történelmi hátteréről ismert, népszerű városi strandon, de figyeljen az árapályra, ha közvetlenül a homokos parton szeretne sétálni.",
+            "ro": "Relaxați-vă pe această plajă urbană populară pentru fundalul său istoric, dar fiți atenți la maree dacă plănuiți să vă plimbați pe malul nisipos.",
+            "en": "Relax on this popular urban beach known for its historical backdrop, but be mindful of the tides if you plan to walk closely along the sandy shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemala Beach",
+            "hu": "Kemala Beach",
+            "ro": "Kemala Beach",
+            "en": "Kemala Beach"
+          },
+          "coords": [
+            116.817237,
+            -1.280946
+          ],
+          "category": "recreational",
+          "arrive_at": "18:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und den weichen Sand dieses Küstenabschnitts und holen Sie sich eine frische Kokosnuss, um sich abzukühlen.",
+            "hu": "Élvezze ennek a kedvelt partszakasznak a nyüzsgő hangulatát és puha homokját, majd hűsöljön egy friss kókuszdióval a közeli árusok egyikénél.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și nisipul fin al acestui loc iubit și luați o nucă de cocos proaspătă de la tarabele din apropiere.",
+            "en": "Enjoy the lively atmosphere and soft sands of this beloved coastal spot, and grab a fresh coconut from one of the nearby stalls to stay cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumah Panggung",
+            "hu": "Rumah Panggung",
+            "ro": "Rumah Panggung",
+            "en": "Rumah Panggung"
+          },
+          "coords": [
+            116.814843,
+            -1.276586
+          ],
+          "category": "landmark",
+          "arrive_at": "19:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur dieser hölzernen Pfahlbauten und tragen Sie bequeme Schuhe, um die unebenen Wege sicher zu meistern.",
+            "hu": "Fedezze fel ezeknek a hagyományos fa cölöpházaknak az építészetét, és viseljen kényelmes cipőt, hogy könnyedén közlekedjen az egyenetlen ösvényeken.",
+            "ro": "Descoperiți arhitectura tradițională a acestor case de lemn suspendate și purtați încălțăminte confortabilă pentru a naviga pe cărările denivelate.",
+            "en": "Discover the traditional architecture of these elevated wooden houses, and wear comfortable walking shoes to navigate the uneven surrounding pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem militärischen und industriellen Erbe bei Kodam VI und Dahor Heritage. Mittags passieren Sie das Griya Mulya Kost und den Tugu AMD. Der Nachmittag führt ins lebhafte Antasari-Viertel und zum Monumen Perjuangan Rakyat. Gegen Abend fahren Sie entspannt entlang der Küste von Pantai Monpera bis zum Kemala Beach und den Rumah Panggung-Häusern.",
+        "hu": "Kezdje a túrát a katonai és kőolajipari örökség felfedezésével a Kodam VI és a Dahor Heritage múzeumokban. Délben a Griya Mulya Kost és a Tugu AMD következik. A délután az élénk Antasari negyedbe és a Monumen Perjuangan Rakyat emlékműhöz vezet. Ahogy leszáll az este, autózzon a parton a Pantai Monperától a Kemala Beachig, végül a Rumah Panggungnál zárva a napot.",
+        "ro": "Începeți cu patrimoniul militar și petrolier la Kodam VI și Dahor Heritage. La prânz treceți pe lângă Griya Mulya Kost și reflectați la Tugu AMD. După-amiaza se mută în zona vibrantă Antasari și la grandiosul Monumen Perjuangan Rakyat. Odată cu lăsarea serii, conduceți de-a lungul coastei de la Pantai Monpera la Kemala Beach, încheind la casele Rumah Panggung.",
+        "en": "Kick off the drive exploring military and oil heritage at Kodam VI and Dahor Heritage. By midday, you'll pass the Griya Mulya Kost landmark and reflect at Tugu AMD. Afternoon shifts to the vibrant Antasari area and the grand Monumen Perjuangan Rakyat. As evening falls, cruise along the coast from Pantai Monpera to Kemala Beach, finishing near the traditional Rumah Panggung."
+      }
+    }
+  }
+}

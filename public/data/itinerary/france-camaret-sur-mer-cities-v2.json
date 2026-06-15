@@ -1,0 +1,520 @@
+{
+  "city_id": "france-camaret-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Camaret-sur-Mer",
+    "coords": [
+      -4.5969,
+      48.27727
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cimetière des bâteaux",
+            "hu": "Cimetière des bâteaux",
+            "ro": "Cimetière des bâteaux",
+            "en": "Cimetière des bâteaux"
+          },
+          "coords": [
+            -4.594076,
+            48.280733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerfallenden Holzrümpfe historischer Fischerboote, eine ergreifende Erinnerung an das maritime Erbe, aber respektieren Sie die Absperrungen.",
+            "hu": "Csodálja meg a történelmi halászhajók pusztuló fa hajótesteit a parton, de a megőrzésük érdekében kérjük, tartsa tiszteletben a kordonokat.",
+            "ro": "Admirați carenele din lemn în descompunere ale bărcilor de pescuit, o amintire a moștenirii maritime, dar respectați barierele pentru a le proteja.",
+            "en": "Admire the decaying wooden hulls of historical fishing boats on the shore, a poignant reminder of maritime heritage, but respect the barriers to preserve them."
+          }
+        },
+        {
+          "name": {
+            "de": "Alignements de Lagatjar",
+            "hu": "Alignements de Lagatjar",
+            "ro": "Alignements de Lagatjar",
+            "en": "Alignements de Lagatjar"
+          },
+          "coords": [
+            -4.609843,
+            48.273242
+          ],
+          "category": "landmark",
+          "arrive_at": "09:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen diesen rätselhaften Megalithen, die auf alte astronomische Ausrichtungen hindeuten, und nutzen Sie das weiche Morgenlicht für Fotos.",
+            "hu": "Sétáljon az ősi csillagászati tájolásokra utaló, titokzatos megalitikus állókövek között, amelyeket a lágy reggeli fényben a legjobb fotózni.",
+            "ro": "Plimbați-vă printre aceste pietre megalitice enigmatice care sugerează alinieri astronomice antice, cel mai bine fotografiate în lumina blândă a dimineții.",
+            "en": "Wander among these enigmatic megalithic standing stones that hint at ancient astronomical alignments, best photographed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+          },
+          "coords": [
+            -4.612105,
+            48.274737
+          ],
+          "category": "castle",
+          "arrive_at": "10:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des im Zweiten Weltkrieg zerstörten Küstenanwesens des Dichters und bringen Sie eine Windjacke mit, da die Klippen sehr ungeschützt sind.",
+            "hu": "Fedezze fel a költő II. világháborúban elpusztult tengerparti kúriájának lenyűgöző romjait, és hozzon széldzsekit, mivel a sziklák nagyon szelesek.",
+            "ro": "Explorați ruinele conacului de coastă al poetului, distrus în al Doilea Război Mondial, și aduceți o jachetă de vânt, deoarece stâncile sunt expuse.",
+            "en": "Explore the evocative ruins of the poet's coastal mansion, destroyed during WWII, and bring a windbreaker as the cliffs are fully exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pen Hat",
+            "hu": "Plage de Pen Hat",
+            "ro": "Plage de Pen Hat",
+            "en": "Plage de Pen Hat"
+          },
+          "coords": [
+            -4.617707,
+            48.276213
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Schönheit dieser unberührten Bucht, aber denken Sie daran, dass das Schwimmen hier wegen gefährlicher Strömungen streng verboten ist.",
+            "hu": "Élvezze ezen érintetlen öböl vad szépségét és a drámai hullámokat, de ne feledje, hogy a veszélyes áramlatok miatt a fürdőzés szigorúan tilos.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestui golf virgin, dar rețineți că înotul este strict interzis aici din cauza curenților periculoși.",
+            "en": "Enjoy the wild beauty and dramatic crashing waves at this pristine beach, though remember swimming is prohibited due to dangerous rip currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie du Toulinguet",
+            "hu": "Batterie du Toulinguet",
+            "ro": "Batterie du Toulinguet",
+            "en": "Batterie du Toulinguet"
+          },
+          "coords": [
+            -4.623862,
+            48.279598
+          ],
+          "category": "fortress",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckenden Küstenbefestigungen, die einst die Bucht bewachten, und lesen Sie die Infotafeln über ihre strategische Vergangenheit.",
+            "hu": "Fedezze fel ezeket a lenyűgöző part menti erődítményeket, amelyek egykor az öblöt őrizték, és olvassa el a stratégiai múltjukat részletező táblákat.",
+            "ro": "Descoperiți aceste fortificații de coastă impresionante care păzeau odată golful, făcându-vă timp să citiți plăcile informative despre trecutul lor.",
+            "en": "Discover these impressive coastal fortifications that once guarded the bay, taking time to read the informative plaques detailing their strategic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Le Toulinguet",
+            "hu": "Lighthouse Le Toulinguet",
+            "ro": "Lighthouse Le Toulinguet",
+            "en": "Lighthouse Le Toulinguet"
+          },
+          "coords": [
+            -4.628558,
+            48.28018
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean vom Fuß dieses ikonischen Leuchtturms, aber beachten Sie, dass der Turm selbst eine militärische Zone ist.",
+            "hu": "Élvezze a panorámás óceáni kilátást ezen ikonikus világítótorony lábától, de vegye figyelembe, hogy maga a torony katonai terület, így nem látogatható.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de la baza acestui far emblematic, dar rețineți că turnul în sine este o zonă militară închisă.",
+            "en": "Take in the panoramic ocean views from the base of this iconic lighthouse, but be aware that the tower itself is a military zone and not open to visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am ruhigen Bootsfriedhof und spüren Sie die maritime Geschichte, bevor Sie zu den alten Steinreihen wandern. Mittags erreichen Sie die Ruinen des Herrenhauses von Saint-Pol-Roux und die dramatischen Wellen des Strandes Pen Hat. Erkunden Sie am Nachmittag die Festungen von Toulinguet. Den Abschluss bilden die atemberaubenden Ausblicke am ikonischen Leuchtturm.",
+        "hu": "Kezdje a reggelt a csendes hajótemetőben, átérezve a tengerészeti múltat, mielőtt az ősi kősorokhoz sétálna. Délben Saint-Pol-Roux kúriájának romjai és a Pen Hat strand drámai hullámai várják. Délután fedezze fel a robusztus Toulinguet erődöket, és merüljön el a hadtörténetben. Zárja a napot az ikonikus világítótorony lenyűgöző kilátásával.",
+        "ro": "Începeți dimineața la cimitirul liniștit de bărci, simțind istoria maritimă înainte de a merge la aliniamentele antice. La prânz ajungeți la ruinele conacului Saint-Pol-Roux și la valurile dramatice de pe plaja Pen Hat. După-amiaza, explorați fortărețele robuste Toulinguet. Încheiați cu priveliști uimitoare la farul emblematic.",
+        "en": "Start your morning at the quiet boat cemetery, feeling the rich maritime history before walking to the mysterious ancient alignments. Midday brings you to the haunting ruins of Saint-Pol-Roux's manor and the dramatic crashing waves of Pen Hat beach. In the afternoon, explore the robust Toulinguet fortresses, taking in the military history. Conclude with stunning views at the iconic lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 6.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cimetière des bâteaux",
+            "hu": "Cimetière des bâteaux",
+            "ro": "Cimetière des bâteaux",
+            "en": "Cimetière des bâteaux"
+          },
+          "coords": [
+            -4.594076,
+            48.280733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerfallenden Holzrümpfe historischer Fischerboote, eine ergreifende Erinnerung an das maritime Erbe, aber respektieren Sie die Absperrungen.",
+            "hu": "Csodálja meg a történelmi halászhajók pusztuló fa hajótesteit a parton, de a megőrzésük érdekében kérjük, tartsa tiszteletben a kordonokat.",
+            "ro": "Admirați carenele din lemn în descompunere ale bărcilor de pescuit, o amintire a moștenirii maritime, dar respectați barierele pentru a le proteja.",
+            "en": "Admire the decaying wooden hulls of historical fishing boats on the shore, a poignant reminder of maritime heritage, but respect the barriers to preserve them."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pierre du Conseil",
+            "hu": "La Pierre du Conseil",
+            "ro": "La Pierre du Conseil",
+            "en": "La Pierre du Conseil"
+          },
+          "coords": [
+            -4.609483,
+            48.279179
+          ],
+          "category": "historical",
+          "arrive_at": "09:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen bedeutenden historischen Versammlungsstein in der Küstenlandschaft und tragen Sie festes Schuhwerk für die rauen Pfade.",
+            "hu": "Látogasson el ehhez a tengerparti tájba ágyazott történelmi jelentőségű gyülekező kőhöz, de viseljen masszív cipőt a zord ösvényeken való eligazodáshoz.",
+            "ro": "Vizitați această piatră istorică de adunare încorporată în peisajul de coastă, purtând încălțăminte rezistentă pentru a naviga pe potecile accidentate.",
+            "en": "Visit this significant historical gathering stone embedded in the coastal landscape, wearing sturdy shoes to navigate the surrounding rugged paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Le Toulinguet",
+            "hu": "Lighthouse Le Toulinguet",
+            "ro": "Lighthouse Le Toulinguet",
+            "en": "Lighthouse Le Toulinguet"
+          },
+          "coords": [
+            -4.628558,
+            48.28018
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean vom Fuß dieses ikonischen Leuchtturms, aber beachten Sie, dass der Turm selbst eine militärische Zone ist.",
+            "hu": "Élvezze a panorámás óceáni kilátást ezen ikonikus világítótorony lábától, de vegye figyelembe, hogy maga a torony katonai terület, így nem látogatható.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de la baza acestui far emblematic, dar rețineți că turnul în sine este o zonă militară închisă.",
+            "en": "Take in the panoramic ocean views from the base of this iconic lighthouse, but be aware that the tower itself is a military zone and not open to visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+            "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+          },
+          "coords": [
+            -4.612105,
+            48.274737
+          ],
+          "category": "castle",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des im Zweiten Weltkrieg zerstörten Küstenanwesens des Dichters und bringen Sie eine Windjacke mit, da die Klippen sehr ungeschützt sind.",
+            "hu": "Fedezze fel a költő II. világháborúban elpusztult tengerparti kúriájának lenyűgöző romjait, és hozzon széldzsekit, mivel a sziklák nagyon szelesek.",
+            "ro": "Explorați ruinele conacului de coastă al poetului, distrus în al Doilea Război Mondial, și aduceți o jachetă de vânt, deoarece stâncile sunt expuse.",
+            "en": "Explore the evocative ruins of the poet's coastal mansion, destroyed during WWII, and bring a windbreaker as the cliffs are fully exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Battle of the Atlantic Memorial",
+            "hu": "Battle of the Atlantic Memorial",
+            "ro": "Battle of the Atlantic Memorial",
+            "en": "Battle of the Atlantic Memorial"
+          },
+          "coords": [
+            -4.616433,
+            48.268273
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Museum auf den Klippen, das in einem ehemaligen Bunker untergebracht ist, Ihren Respekt und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Tisztelegjen ezen az egykori bunkerben helyet kapó sziklafalon álló múzeumban, és a látogatás megtervezése előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Prezentați-vă respectul la acest muzeu de pe stâncă, găzduit într-un fost buncăr, și verificați programul de funcționare sezonier înainte de vizită.",
+            "en": "Pay your respects at this solemn clifftop museum housed in a former bunker, and check the seasonal opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Veryac'h",
+            "hu": "Plage du Veryac'h",
+            "ro": "Plage du Veryac'h",
+            "en": "Plage du Veryac'h"
+          },
+          "coords": [
+            -4.612509,
+            48.262012
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand oder suchen Sie entlang der dramatischen Klippen nach Fossilien; kommen Sie im Sommer früh wegen der Parkplätze.",
+            "hu": "Pihenjen az aranyhomokos parton, vagy keressen kövületeket a drámai sziklák mentén, és nyáron érkezzen korán, hogy biztosítson parkolóhelyet magának.",
+            "ro": "Relaxați-vă pe nisipul auriu sau căutați fosile de-a lungul stâncilor dramatice ale acestei plaje, ajungând devreme pentru un loc de parcare vara.",
+            "en": "Relax on the golden sands or hunt for fossils along the dramatic cliffs of this sheltered beach, arriving early to secure a parking spot in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Alignements de Lagatjar",
+            "hu": "Alignements de Lagatjar",
+            "ro": "Alignements de Lagatjar",
+            "en": "Alignements de Lagatjar"
+          },
+          "coords": [
+            -4.609843,
+            48.273242
+          ],
+          "category": "landmark",
+          "arrive_at": "16:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen diesen rätselhaften Megalithen, die auf alte astronomische Ausrichtungen hindeuten, und nutzen Sie das weiche Morgenlicht für Fotos.",
+            "hu": "Sétáljon az ősi csillagászati tájolásokra utaló, titokzatos megalitikus állókövek között, amelyeket a lágy reggeli fényben a legjobb fotózni.",
+            "ro": "Plimbați-vă printre aceste pietre megalitice enigmatice care sugerează alinieri astronomice antice, cel mai bine fotografiate în lumina blândă a dimineții.",
+            "en": "Wander among these enigmatic megalithic standing stones that hint at ancient astronomical alignments, best photographed in the soft morning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum markanten Bootsfriedhof und entlang der Küste zu historischen Versammlungssteinen und hoch aufragenden Leuchttürmen. Genießen Sie mittags eine Fahrt zu den Ruinen des Herrenhauses und besuchen Sie das Atlantikwall-Mahnmal. Entspannen Sie sich nachmittags am Strand von Veryac'h. Gegen Abend radeln Sie über die mystischen Steine von Lagatjar zurück.",
+        "hu": "Tekerjen a lenyűgöző hajótemetőhöz, majd a part mentén fedezzen fel történelmi köveket és világítótornyokat. Élvezze a déli utazást a kúria romjaihoz, és látogasson el az Atlanti-csata Emlékművéhez. A délutánt a Veryac'h strandon pihenve töltheti. Ahogy közeledik az este, kerékpározzon vissza Lagatjar misztikus állókövei mellett.",
+        "ro": "Porniți spre cimitirul de bărci, apoi pedalați pe coastă pentru a descoperi pietre istorice și faruri falnice. Bucurați-vă de o plimbare la prânz spre ruinele conacului și vizitați Memorialul Bătăliei Atlanticului. Petreceți după-amiaza relaxându-vă la plaja Veryac'h. Pe măsură ce se apropie seara, pedalați înapoi pe la pietrele mistice din Lagatjar.",
+        "en": "Pedal off towards the striking boat cemetery, then cycle along the coast to uncover historic gathering stones and towering lighthouses. Enjoy a breezy midday ride to the evocative manor ruins and immerse yourself in the moving Battle of the Atlantic Memorial. Spend your afternoon relaxing at Veryac'h beach. As evening nears, cycle back via the mystical standing stones of Lagatjar."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmens de Rigonou",
+            "hu": "Dolmens de Rigonou",
+            "ro": "Dolmens de Rigonou",
+            "en": "Dolmens de Rigonou"
+          },
+          "coords": [
+            -4.576044,
+            48.276058
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie einen Schritt in die Vorgeschichte, indem Sie diese alten Grabkammern besuchen, und achten Sie darauf, die zerbrechliche Stätte nicht zu stören.",
+            "hu": "Lépjen vissza a történelembe ezen ősi sírkamrák meglátogatásával, és ügyeljen arra, hogy ne zavarja meg a törékeny és értékes régészeti lelőhelyet.",
+            "ro": "Întoarceți-vă în preistorie vizitând aceste camere funerare antice împrăștiate în peisaj, având grijă să nu deranjați situl arheologic fragil.",
+            "en": "Step back into prehistory by visiting these ancient burial chambers scattered in the landscape, taking care not to disturb the fragile archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Oeil de Pierre Chanteau",
+            "hu": "Oeil de Pierre Chanteau",
+            "ro": "Oeil de Pierre Chanteau",
+            "en": "Oeil de Pierre Chanteau"
+          },
+          "coords": [
+            -4.590695,
+            48.279294
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dieser einzigartigen Steinschnitzerei, die auf den Ozean blickt und ein hervorragendes, etwas verstecktes Fotomotiv in Hafennähe bietet.",
+            "hu": "Keresse meg ezt az egyedülálló, óceánra néző művészi kőfaragást, amely egy kiváló és kissé elrejtett fotózási lehetőséget kínál a kikötő közelében.",
+            "ro": "Căutați această sculptură unică în piatră care privește spre ocean, oferind o oportunitate excelentă și oarecum ascunsă de fotografie lângă port.",
+            "en": "Look for this unique artistic stone carving that gazes out toward the ocean, providing an excellent and somewhat hidden photo opportunity near the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière des bâteaux",
+            "hu": "Cimetière des bâteaux",
+            "ro": "Cimetière des bâteaux",
+            "en": "Cimetière des bâteaux"
+          },
+          "coords": [
+            -4.594076,
+            48.280733
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerfallenden Holzrümpfe historischer Fischerboote, eine ergreifende Erinnerung an das maritime Erbe, aber respektieren Sie die Absperrungen.",
+            "hu": "Csodálja meg a történelmi halászhajók pusztuló fa hajótesteit a parton, de a megőrzésük érdekében kérjük, tartsa tiszteletben a kordonokat.",
+            "ro": "Admirați carenele din lemn în descompunere ale bărcilor de pescuit, o amintire a moștenirii maritime, dar respectați barierele pentru a le proteja.",
+            "en": "Admire the decaying wooden hulls of historical fishing boats on the shore, a poignant reminder of maritime heritage, but respect the barriers to preserve them."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de 24cm",
+            "hu": "Batterie de 24cm",
+            "ro": "Batterie de 24cm",
+            "en": "Batterie de 24cm"
+          },
+          "coords": [
+            -4.625105,
+            48.2801
+          ],
+          "category": "fortress",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe dieser schweren Artilleriestellungen und bringen Sie eine Taschenlampe mit, wenn Sie in die dunklen Bunker schauen möchten.",
+            "hu": "Csodálja meg ezen nehéztüzérségi állások puszta méretét, és hozzon magával zseblámpát, ha óvatosan be szeretne kukkantani a sötét betonbunkerekbe.",
+            "ro": "Minunați-vă de scara uriașă a acestor amplasamente de artilerie grea, aducând o lanternă dacă doriți să priviți cu atenție în buncărele întunecate.",
+            "en": "Marvel at the sheer scale of these heavy artillery emplacements, bringing a flashlight if you want to carefully peek into the darkened concrete bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Kerbonn",
+            "hu": "Batterie de Kerbonn",
+            "ro": "Batterie de Kerbonn",
+            "en": "Batterie de Kerbonn"
+          },
+          "coords": [
+            -4.615912,
+            48.269269
+          ],
+          "category": "fortress",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen Komplex historischer Geschützbatterien und bleiben Sie auf den markierten Wegen, um die Küstenflora zu schützen.",
+            "hu": "Sétáljon végig a tengerre néző történelmi ágyúütegek kiterjedt komplexumán, és a parti flóra védelme érdekében maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin acest complex de baterii de tunuri istorice cu vedere la mare, asigurându-vă că rămâneți pe trasee pentru a proteja flora de coastă.",
+            "en": "Wander through this extensive complex of historic gun batteries overlooking the sea, ensuring you stick to the marked trails to protect the coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Battle of the Atlantic Memorial",
+            "hu": "Battle of the Atlantic Memorial",
+            "ro": "Battle of the Atlantic Memorial",
+            "en": "Battle of the Atlantic Memorial"
+          },
+          "coords": [
+            -4.616433,
+            48.268273
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Museum auf den Klippen, das in einem ehemaligen Bunker untergebracht ist, Ihren Respekt und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Tisztelegjen ezen az egykori bunkerben helyet kapó sziklafalon álló múzeumban, és a látogatás megtervezése előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Prezentați-vă respectul la acest muzeu de pe stâncă, găzduit într-un fost buncăr, și verificați programul de funcționare sezonier înainte de vizită.",
+            "en": "Pay your respects at this solemn clifftop museum housed in a former bunker, and check the seasonal opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Veryac'h",
+            "hu": "Plage du Veryac'h",
+            "ro": "Plage du Veryac'h",
+            "en": "Plage du Veryac'h"
+          },
+          "coords": [
+            -4.612509,
+            48.262012
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand oder suchen Sie entlang der dramatischen Klippen nach Fossilien; kommen Sie im Sommer früh wegen der Parkplätze.",
+            "hu": "Pihenjen az aranyhomokos parton, vagy keressen kövületeket a drámai sziklák mentén, és nyáron érkezzen korán, hogy biztosítson parkolóhelyet magának.",
+            "ro": "Relaxați-vă pe nisipul auriu sau căutați fosile de-a lungul stâncilor dramatice ale acestei plaje, ajungând devreme pentru un loc de parcare vara.",
+            "en": "Relax on the golden sands or hunt for fossils along the dramatic cliffs of this sheltered beach, arriving early to secure a parking spot in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den alten Dolmen von Rigonou und suchen Sie am Hafen nach versteckter Steinkunst und dem Bootsfriedhof. Mittags fahren Sie zum westlichsten Punkt, um riesige historische Artilleriebatterien zu erkunden. Ihr Nachmittag verlagert sich nach Süden zum ergreifenden Atlantik-Mahnmal. Beenden Sie den Tag am geschützten Strand von Veryac'h.",
+        "hu": "Autózzon ki korán az ősi Rigonou dolmenekhez, majd induljon a kikötő felé rejtett kőművészetet és a hajótemetőt keresve. Délben haladjon a legnyugatibb pontra, hogy felfedezze a masszív tüzérségi ütegeket. Délután délre veszi az irányt a megható Atlanti-csata Emlékművéhez. Zárja a napot a védett Veryac'h strand gyönyörű naplementéjével.",
+        "ro": "Conduceți devreme la dolmenele Rigonou, apoi spre port pentru a găsi artă ascunsă în piatră și cimitirul de bărci. La prânz, mergeți spre vest pentru a explora bateriile masive de artilerie istorică. După-amiaza se mută spre sud la emoționantul Memorial al Atlanticului. Încheiați ziua urmărind soarele coborând de pe frumoasa plajă Veryac'h.",
+        "en": "Drive out to the ancient Rigonou dolmens early, then head towards the port to find hidden stone art and the famous boat cemetery. Around midday, cruise to the far western point to explore massive historic artillery batteries overlooking the sea. Your afternoon shifts south to the poignant Atlantic Memorial. Finish the day watching the sun dip low from the beautiful, sheltered Veryac'h beach."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "ciudad-victoria-cities-v2",
+  "anchor": {
+    "name": "Ciudad Victoria",
+    "coords": [
+      -99.1332,
+      23.7369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Regional de Historia de Tamaulipas",
+            "hu": "Museo Regional de Historia de Tamaulipas",
+            "ro": "Museo Regional de Historia de Tamaulipas",
+            "en": "Museo Regional de Historia de Tamaulipas"
+          },
+          "coords": [
+            -99.156592,
+            23.736828
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte von Tamaulipas in diesem ehemaligen Asyl und fragen Sie an der Rezeption nach einem englischsprachigen Reiseführer.",
+            "hu": "Fedezze fel Tamaulipas történelmét ebben a lenyűgöző egykori menedékházban, és mindenképpen kérjen angol nyelvű útmutatót a recepciónál.",
+            "ro": "Explorați istoria vastă a statului Tamaulipas în acest fost azil impresionant și nu uitați să cereți un ghid în limba engleză la recepție.",
+            "en": "Explore the vast exhibits of Tamaulipas history in this striking former asylum, and be sure to ask for the English guidebook at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Amalia G. de Castillo Ledón",
+            "hu": "Teatro Amalia G. de Castillo Ledón",
+            "ro": "Teatro Amalia G. de Castillo Ledón",
+            "en": "Teatro Amalia G. de Castillo Ledón"
+          },
+          "coords": [
+            -99.151135,
+            23.732436
+          ],
+          "category": "cultural",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die lebendige Akustik dieses erstklassigen Saals und kommen Sie früh, um einen Kaffee zu trinken.",
+            "hu": "Csodálja meg e kiváló előadóterem modern építészetét és akusztikáját, de érkezzen korán, hogy ihasson egy kávét a közeli hangulatos téren.",
+            "ro": "Admirați arhitectura modernistă și acustica vibrantă a acestei săli de spectacole, ajungând devreme pentru a savura o cafea în piața din apropiere.",
+            "en": "Admire the modernist architecture and vibrant acoustics of this premier performance hall, arriving early to grab a coffee at the nearby plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumental Flag",
+            "hu": "Monumental Flag",
+            "ro": "Monumental Flag",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -99.152159,
+            23.732056
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die riesige mexikanische Flagge über der Skyline von Victoria, ein perfekter Ort für Panoramafotos während der goldenen Stunde.",
+            "hu": "Nézze meg a Victoria horizontja felett büszkén lobogó hatalmas mexikói zászlót, amely tökéletes helyszín a panorámafotókhoz az aranyórában.",
+            "ro": "Fiți martorii imensei steaguri mexicane care flutură mândru pe orizontul orașului Victoria, un loc perfect pentru fotografii la apus.",
+            "en": "Witness the immense Mexican flag waving proudly against the Victoria skyline, a perfect spot to snap panoramic photos during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Juárez",
+            "hu": "Teatro Juárez",
+            "ro": "Teatro Juárez",
+            "en": "Teatro Juárez"
+          },
+          "coords": [
+            -99.144665,
+            23.732464
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Theater, um seine elegante neoklassizistische Fassade zu bewundern und mehr über seine kulturelle Vergangenheit zu erfahren.",
+            "hu": "Lépjen be ebbe a történelmi színházba, hogy megcsodálja elegáns neoklasszikus homlokzatát, és olvassa el a múltját részletező táblákat.",
+            "ro": "Pășiți în acest teatru istoric pentru a aprecia fațada sa neoclasică elegantă, făcându-vă timp să citiți plăcile despre trecutul său cultural.",
+            "en": "Step into this historic theater to appreciate its elegant neoclassical facade, taking a moment to read the plaques detailing its cultural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal, Centro civico",
+            "hu": "Auditorio Municipal, Centro civico",
+            "ro": "Auditorio Municipal, Centro civico",
+            "en": "Auditorio Municipal, Centro civico"
+          },
+          "coords": [
+            -99.130583,
+            23.729313
+          ],
+          "category": "cultural",
+          "arrive_at": "13:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Erleben Sie die bürgerschaftliche Energie an diesem lebhaften Knotenpunkt, wo ein Blick auf die Veranstaltungstafel zu einem Gratiskonzert führen kann.",
+            "hu": "Tapasztalja meg a helyi energiákat ebben a nyüzsgő közösségi központban, ahol az eseménytábla ellenőrzése egy ingyenes koncerthez vezethet.",
+            "ro": "Simțiți energia civică locală în acest centru comunitar plin de viață, unde un panou de evenimente vă poate ghida spre un concert public gratuit.",
+            "en": "Experience the local civic energy at this bustling community hub, where checking the event board outside might lead you to a free public concert."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Zentrums, wo große Theater und Wahrzeichen die Bühne bereiten.\n\nGegen Mittag locken die üppigen Stadtparks, um der warmen Sonne zu entfliehen.\n\nAm Nachmittag tauchen Sie in die reiche regionale Geschichte der Museen und Denkmäler ein.\n\nWenn der Abend hereinbricht, bieten die Freizeiteinrichtungen einen lebhaften und perfekten Abschluss.",
+        "hu": "Kezdje a reggelt a történelmi központ felfedezésével, ahol grandiózus színházak és kulturális nevezetességek várják.\n\nDélben induljon a buja városi parkok felé, hogy elmeneküljön a meleg nap elől.\n\nDélután merüljön el a régió gazdag történelmében a város legjobb múzeumainak és emlékműveinek segítségével.\n\nAhogy leszáll az est, a vibráló szórakozóhelyek tökéletes és élénk lezárást kínálnak.",
+        "ro": "Începeți dimineața explorând centrul istoric, unde teatrele grandioase și reperele culturale dau tonul.\n\nLa prânz, îndreptați-vă spre parcurile urbane luxuriante pentru a scăpa de soarele cald.\n\nDupă-amiaza, pătrundeți în bogata istorie regională prezentată de cele mai bune muzee și monumente.\n\nOdată cu lăsarea serii, locațiile vibrante de recreere oferă un final perfect și plin de viață.",
+        "en": "Start your morning exploring the historic center, where grand theaters and cultural landmarks set the stage.\n\nBy midday, head towards the lush urban parks to escape the warm sun and enjoy a peaceful stroll.\n\nIn the afternoon, dive into the rich regional history showcased across the city's finest museums and monuments.\n\nAs evening falls, the vibrant recreational venues offer a perfect, lively end."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Estatal El Refugio",
+            "hu": "Parque Estatal El Refugio",
+            "ro": "Parque Estatal El Refugio",
+            "en": "Parque Estatal El Refugio"
+          },
+          "coords": [
+            -99.121577,
+            23.727196
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diese städtische Oase, um Vögel zu beobachten, und denken Sie an Mückenschutz in der Nähe des Wassers.",
+            "hu": "Tegyen egy nyugodt sétát ebben a buja városi oázisban, hogy őshonos madarakat figyeljen meg, és ne felejtsen el szúnyogriasztót hozni magával.",
+            "ro": "Faceți o plimbare liniștită prin această oază urbană luxuriantă pentru a observa păsări native, amintindu-vă să aduceți repelent de țânțari.",
+            "en": "Take a tranquil walk through this lush urban oasis to spot native birds, remembering to bring mosquito repellent if you visit near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Concha Acustica Siglo XXI",
+            "hu": "Concha Acustica Siglo XXI",
+            "ro": "Concha Acustica Siglo XXI",
+            "en": "Concha Acustica Siglo XXI"
+          },
+          "coords": [
+            -99.124341,
+            23.727478
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das Freiluftdesign dieser ikonischen Akustikmuschel, ein idealer Ort, um sich auszuruhen und sich die lebhaften Wochenendkonzerte vorzustellen.",
+            "hu": "Élvezze ennek az ikonikus akusztikus kagylónak a szabadtéri kialakítását, amely ideális hely a pihenésre, miközben elképzeli a hétvégi koncerteket.",
+            "ro": "Bucurați-vă de designul în aer liber al acestei scoici acustice iconice, un loc ideal pentru a vă odihni picioarele imaginându-vă concertele.",
+            "en": "Enjoy the open-air design of this iconic acoustic shell, an ideal place to rest your feet while imagining the lively concerts held on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotonda de los Tamaulipecos Ilustres",
+            "hu": "Rotonda de los Tamaulipecos Ilustres",
+            "ro": "Rotonda de los Tamaulipecos Ilustres",
+            "en": "Rotonda de los Tamaulipecos Ilustres"
+          },
+          "coords": [
+            -99.129409,
+            23.725787
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie den berühmten Persönlichkeiten von Tamaulipas an diesem Denkmal die Ehre, am besten mit einem Führer, um ihr Vermächtnis zu verstehen.",
+            "hu": "Rójja le tiszteletét Tamaulipas jeles személyiségei előtt ennél az emlékműnél, amelyet a legjobb egy helyi idegenvezetővel meglátogatni.",
+            "ro": "Aduceți un omagiu figurilor ilustre din Tamaulipas la acest monument solemn, vizitat ideal cu un ghid local pentru a le înțelege moștenirea.",
+            "en": "Pay your respects to the illustrious figures of Tamaulipas at this solemn monument, best visited with a local guide to understand their legacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Juárez",
+            "hu": "Teatro Juárez",
+            "ro": "Teatro Juárez",
+            "en": "Teatro Juárez"
+          },
+          "coords": [
+            -99.144665,
+            23.732464
+          ],
+          "category": "cultural",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Theater, um seine elegante neoklassizistische Fassade zu bewundern und mehr über seine kulturelle Vergangenheit zu erfahren.",
+            "hu": "Lépjen be ebbe a történelmi színházba, hogy megcsodálja elegáns neoklasszikus homlokzatát, és olvassa el a múltját részletező táblákat.",
+            "ro": "Pășiți în acest teatru istoric pentru a aprecia fațada sa neoclasică elegantă, făcându-vă timp să citiți plăcile despre trecutul său cultural.",
+            "en": "Step into this historic theater to appreciate its elegant neoclassical facade, taking a moment to read the plaques detailing its cultural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumental Flag",
+            "hu": "Monumental Flag",
+            "ro": "Monumental Flag",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -99.152159,
+            23.732056
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die riesige mexikanische Flagge über der Skyline von Victoria, ein perfekter Ort für Panoramafotos während der goldenen Stunde.",
+            "hu": "Nézze meg a Victoria horizontja felett büszkén lobogó hatalmas mexikói zászlót, amely tökéletes helyszín a panorámafotókhoz az aranyórában.",
+            "ro": "Fiți martorii imensei steaguri mexicane care flutură mândru pe orizontul orașului Victoria, un loc perfect pentru fotografii la apus.",
+            "en": "Witness the immense Mexican flag waving proudly against the Victoria skyline, a perfect spot to snap panoramic photos during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Historia de Tamaulipas",
+            "hu": "Museo Regional de Historia de Tamaulipas",
+            "ro": "Museo Regional de Historia de Tamaulipas",
+            "en": "Museo Regional de Historia de Tamaulipas"
+          },
+          "coords": [
+            -99.156592,
+            23.736828
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte von Tamaulipas in diesem ehemaligen Asyl und fragen Sie an der Rezeption nach einem englischsprachigen Reiseführer.",
+            "hu": "Fedezze fel Tamaulipas történelmét ebben a lenyűgöző egykori menedékházban, és mindenképpen kérjen angol nyelvű útmutatót a recepciónál.",
+            "ro": "Explorați istoria vastă a statului Tamaulipas în acest fost azil impresionant și nu uitați să cereți un ghid în limba engleză la recepție.",
+            "en": "Explore the vast exhibits of Tamaulipas history in this striking former asylum, and be sure to ask for the English guidebook at the front desk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Zentrums, wo große Theater und Wahrzeichen die Bühne bereiten.\n\nGegen Mittag locken die üppigen Stadtparks, um der warmen Sonne zu entfliehen.\n\nAm Nachmittag tauchen Sie in die reiche regionale Geschichte der Museen und Denkmäler ein.\n\nWenn der Abend hereinbricht, bieten die Freizeiteinrichtungen einen lebhaften und perfekten Abschluss.",
+        "hu": "Kezdje a reggelt a történelmi központ felfedezésével, ahol grandiózus színházak és kulturális nevezetességek várják.\n\nDélben induljon a buja városi parkok felé, hogy elmeneküljön a meleg nap elől.\n\nDélután merüljön el a régió gazdag történelmében a város legjobb múzeumainak és emlékműveinek segítségével.\n\nAhogy leszáll az est, a vibráló szórakozóhelyek tökéletes és élénk lezárást kínálnak.",
+        "ro": "Începeți dimineața explorând centrul istoric, unde teatrele grandioase și reperele culturale dau tonul.\n\nLa prânz, îndreptați-vă spre parcurile urbane luxuriante pentru a scăpa de soarele cald.\n\nDupă-amiaza, pătrundeți în bogata istorie regională prezentată de cele mai bune muzee și monumente.\n\nOdată cu lăsarea serii, locațiile vibrante de recreere oferă un final perfect și plin de viață.",
+        "en": "Start your morning exploring the historic center, where grand theaters and cultural landmarks set the stage.\n\nBy midday, head towards the lush urban parks to escape the warm sun and enjoy a peaceful stroll.\n\nIn the afternoon, dive into the rich regional history showcased across the city's finest museums and monuments.\n\nAs evening falls, the vibrant recreational venues offer a perfect, lively end."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cuerudo Tamaulipeco",
+            "hu": "Cuerudo Tamaulipeco",
+            "ro": "Cuerudo Tamaulipeco",
+            "en": "Cuerudo Tamaulipeco"
+          },
+          "coords": [
+            -99.093867,
+            23.719119
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese ikonische Statue, die die traditionellen Cowboys der Region feiert, und besuchen Sie sie bei Sonnenaufgang für das beste Licht.",
+            "hu": "Fényképezze le ezt az ikonikus szobrot, amely a régió hagyományos, bőrbe öltözött cowboyait ünnepli, és látogasson el ide napkeltekor a legjobb fényért.",
+            "ro": "Fotografiați această statuie iconică care celebrează cowboy-ii tradiționali ai regiunii și încercați să o vizitați la răsărit pentru cea mai bună lumină.",
+            "en": "Photograph this iconic statue celebrating the traditional leather-clad cowboys of the region, and try to visit at sunrise for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Aguila de la Libertad",
+            "hu": "Aguila de la Libertad",
+            "ro": "Aguila de la Libertad",
+            "en": "Aguila de la Libertad"
+          },
+          "coords": [
+            -99.098592,
+            23.750263
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Adlerskulptur, die die Unabhängigkeit symbolisiert, ein toller Stopp, um sich vor dem Messebesuch die Beine zu vertreten.",
+            "hu": "Csodálja meg a mexikói függetlenséget szimbolizáló impozáns sasszobrot, amely egy nagyszerű gyors megálló a vásárba indulás előtt.",
+            "ro": "Admirați sculptura impunătoare a vulturului ce simbolizează independența, o oprire rapidă excelentă pentru a vă dezmorți picioarele.",
+            "en": "Marvel at the imposing eagle sculpture that symbolizes Mexican independence, a great quick stop to stretch your legs before heading to the fair."
+          }
+        },
+        {
+          "name": {
+            "de": "Recorriendo Tamaulipas",
+            "hu": "Recorriendo Tamaulipas",
+            "ro": "Recorriendo Tamaulipas",
+            "en": "Recorriendo Tamaulipas"
+          },
+          "coords": [
+            -99.102238,
+            23.75244
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die künstlerische Darstellung der vielfältigen Regionen des Staates an diesem Denkmal und umrunden Sie es für verschiedene Blickwinkel.",
+            "hu": "Fedezze fel az állam különböző régióinak művészi ábrázolását ennél az emlékműnél, és szánjon időt arra, hogy körbesétálja az alapját.",
+            "ro": "Descoperiți reprezentarea artistică a diverselor regiuni ale statului la acest monument, făcându-vă timp să vă plimbați în jurul bazei sale.",
+            "en": "Discover the artistic representation of the state's diverse regions at this monument, taking time to walk around its base for different angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del Pueblo Feria Tamaulipas",
+            "hu": "Teatro del Pueblo Feria Tamaulipas",
+            "ro": "Teatro del Pueblo Feria Tamaulipas",
+            "en": "Teatro del Pueblo Feria Tamaulipas"
+          },
+          "coords": [
+            -99.104261,
+            23.752815
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die lebhafte Atmosphäre des Messegeländes an dieser weitläufigen Freiluftbühne, die Sie am besten mit einem frischen Churro genießen.",
+            "hu": "Érezze a vásártér élénk hangulatát ezen a tágas szabadtéri színpadon, amelyet a legjobb egy helyi árustól származó friss churrosszal átélni.",
+            "ro": "Simțiți atmosfera vibrantă a târgului la această scenă imensă în aer liber, care este cel mai bine savurată cu un churro proaspăt local.",
+            "en": "Feel the vibrant atmosphere of the fairgrounds at this expansive outdoor stage, which is best experienced with a fresh churro from a local vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Estatal El Refugio",
+            "hu": "Parque Estatal El Refugio",
+            "ro": "Parque Estatal El Refugio",
+            "en": "Parque Estatal El Refugio"
+          },
+          "coords": [
+            -99.121577,
+            23.727196
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diese städtische Oase, um Vögel zu beobachten, und denken Sie an Mückenschutz in der Nähe des Wassers.",
+            "hu": "Tegyen egy nyugodt sétát ebben a buja városi oázisban, hogy őshonos madarakat figyeljen meg, és ne felejtsen el szúnyogriasztót hozni magával.",
+            "ro": "Faceți o plimbare liniștită prin această oază urbană luxuriantă pentru a observa păsări native, amintindu-vă să aduceți repelent de țânțari.",
+            "en": "Take a tranquil walk through this lush urban oasis to spot native birds, remembering to bring mosquito repellent if you visit near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotonda de los Tamaulipecos Ilustres",
+            "hu": "Rotonda de los Tamaulipecos Ilustres",
+            "ro": "Rotonda de los Tamaulipecos Ilustres",
+            "en": "Rotonda de los Tamaulipecos Ilustres"
+          },
+          "coords": [
+            -99.129409,
+            23.725787
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie den berühmten Persönlichkeiten von Tamaulipas an diesem Denkmal die Ehre, am besten mit einem Führer, um ihr Vermächtnis zu verstehen.",
+            "hu": "Rójja le tiszteletét Tamaulipas jeles személyiségei előtt ennél az emlékműnél, amelyet a legjobb egy helyi idegenvezetővel meglátogatni.",
+            "ro": "Aduceți un omagiu figurilor ilustre din Tamaulipas la acest monument solemn, vizitat ideal cu un ghid local pentru a le înțelege moștenirea.",
+            "en": "Pay your respects to the illustrious figures of Tamaulipas at this solemn monument, best visited with a local guide to understand their legacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Historia de Tamaulipas",
+            "hu": "Museo Regional de Historia de Tamaulipas",
+            "ro": "Museo Regional de Historia de Tamaulipas",
+            "en": "Museo Regional de Historia de Tamaulipas"
+          },
+          "coords": [
+            -99.156592,
+            23.736828
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte von Tamaulipas in diesem ehemaligen Asyl und fragen Sie an der Rezeption nach einem englischsprachigen Reiseführer.",
+            "hu": "Fedezze fel Tamaulipas történelmét ebben a lenyűgöző egykori menedékházban, és mindenképpen kérjen angol nyelvű útmutatót a recepciónál.",
+            "ro": "Explorați istoria vastă a statului Tamaulipas în acest fost azil impresionant și nu uitați să cereți un ghid în limba engleză la recepție.",
+            "en": "Explore the vast exhibits of Tamaulipas history in this striking former asylum, and be sure to ask for the English guidebook at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Soley circus Ciudad Victoria",
+            "hu": "Soley circus Ciudad Victoria",
+            "ro": "Soley circus Ciudad Victoria",
+            "en": "Soley circus Ciudad Victoria"
+          },
+          "coords": [
+            -99.139066,
+            23.770803
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der aufregenden Akrobatik dieses beliebten Zirkus und buchen Sie im Voraus Tickets für die besten Plätze am Ring.",
+            "hu": "Zárja a napot ennek a kedvelt helyi cirkusznak az izgalmas akrobatikájával, és foglaljon előre jegyet a legjobb porond melletti helyekért.",
+            "ro": "Încheiați ziua cu acrobațiile emoționante și atmosfera festivă a acestui circ iubit, rezervând bilete în avans pentru cele mai bune locuri.",
+            "en": "End your day with the thrilling acrobatics and festive vibe of this beloved local circus, booking tickets in advance for the best ringside seats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Zentrums, wo große Theater und Wahrzeichen die Bühne bereiten.\n\nGegen Mittag locken die üppigen Stadtparks, um der warmen Sonne zu entfliehen.\n\nAm Nachmittag tauchen Sie in die reiche regionale Geschichte der Museen und Denkmäler ein.\n\nWenn der Abend hereinbricht, bieten die Freizeiteinrichtungen einen lebhaften und perfekten Abschluss.",
+        "hu": "Kezdje a reggelt a történelmi központ felfedezésével, ahol grandiózus színházak és kulturális nevezetességek várják.\n\nDélben induljon a buja városi parkok felé, hogy elmeneküljön a meleg nap elől.\n\nDélután merüljön el a régió gazdag történelmében a város legjobb múzeumainak és emlékműveinek segítségével.\n\nAhogy leszáll az est, a vibráló szórakozóhelyek tökéletes és élénk lezárást kínálnak.",
+        "ro": "Începeți dimineața explorând centrul istoric, unde teatrele grandioase și reperele culturale dau tonul.\n\nLa prânz, îndreptați-vă spre parcurile urbane luxuriante pentru a scăpa de soarele cald.\n\nDupă-amiaza, pătrundeți în bogata istorie regională prezentată de cele mai bune muzee și monumente.\n\nOdată cu lăsarea serii, locațiile vibrante de recreere oferă un final perfect și plin de viață.",
+        "en": "Start your morning exploring the historic center, where grand theaters and cultural landmarks set the stage.\n\nBy midday, head towards the lush urban parks to escape the warm sun and enjoy a peaceful stroll.\n\nIn the afternoon, dive into the rich regional history showcased across the city's finest museums and monuments.\n\nAs evening falls, the vibrant recreational venues offer a perfect, lively end."
+      }
+    }
+  }
+}

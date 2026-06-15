@@ -1,0 +1,451 @@
+{
+  "city_id": "ma-meknes-cities-v2",
+  "anchor": {
+    "name": "Meknes",
+    "coords": [
+      -5.5547,
+      33.8935
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dar Jamai Museum",
+            "hu": "Dar Jamai Múzeum",
+            "ro": "Muzeul Dar Jamai",
+            "en": "Dar Jamai Museum"
+          },
+          "coords": [
+            -5.566576,
+            33.893658
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie exquisite marokkanische Keramik und Holzarbeiten in diesem atemberaubenden Palast, aber blicken Sie nach oben, um die bemalten Zedernholzdecken zu schätzen.",
+            "hu": "Csodálja meg a marokkói kerámiákat és fafaragásokat ebben a lenyűgöző palotában, de feltétlenül nézzen fel a főudvar festett cédrusfa mennyezetének részleteire is.",
+            "ro": "Admirați ceramica marocană și prelucrarea tradițională a lemnului în acest palat uimitor, dar priviți în sus pentru a aprecia tavanele detaliate din lemn de cedru pictat.",
+            "en": "Admire exquisite Moroccan ceramics and traditional woodwork inside this stunning late 19th-century palace, but look up to appreciate the detailed painted cedar ceilings in the main courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Medrasa Bou Inania",
+            "hu": "Medrasa Bou Inania",
+            "ro": "Medrasa Bou Inania",
+            "en": "Medrasa Bou Inania"
+          },
+          "coords": [
+            -5.56527,
+            33.895154
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Meisterwerk merinidischer Architektur mit aufwendigen Zellige-Fliesen, und steigen Sie unbedingt auf das Dach, um einen Panoramablick auf die Medina zu genießen.",
+            "hu": "Fedezze fel a merinida építészet e remekművét, melyet bonyolult zellige csempék díszítenek, és mindenképpen másszon fel a tetőre a nyüzsgő medina páratlan panorámájáért.",
+            "ro": "Explorați această capodoperă a arhitecturii merinide, împodobită cu faianță zellige, și asigurați-vă că urcați pe acoperiș pentru o vedere panoramică excepțională a medinei.",
+            "en": "Explore this masterpiece of Merinid architecture adorned with intricate zellige tilework, and be sure to climb to the rooftop for an exceptional panoramic view of the bustling medina."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab el-jadid",
+            "hu": "Bab el-jadid",
+            "ro": "Bab el-jadid",
+            "en": "Bab el-jadid"
+          },
+          "coords": [
+            -5.569496,
+            33.89718
+          ],
+          "category": "landmark",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für dieses historische Medina-Tor, einen lebendigen Mittelpunkt des Alltags, das am besten im sanften Morgenlicht fotografiert wird.",
+            "hu": "Szánjon egy pillanatot erre a történelmi medinakapura, a helyi mindennapi élet vibráló központjára, amelyet a legjobb a lágy reggeli fényben fotózni, mielőtt megérkezne a tömeg.",
+            "ro": "Alocați un moment acestei porți istorice a medinei, un punct central al vieții cotidiene locale, cel mai bine de fotografiat în lumina blândă a dimineții, înainte de sosirea mulțimilor.",
+            "en": "Take a moment to appreciate this historic Medina gate which serves as a vibrant focal point of local daily life, best photographed in the soft morning light before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Meknes Museum",
+            "hu": "Meknesi Múzeum",
+            "ro": "Muzeul Meknes",
+            "en": "Meknes Museum"
+          },
+          "coords": [
+            -5.563819,
+            33.893237
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung regionaler Artefakte über das Erbe des Mittleren Atlas und fragen Sie die lokalen Führer nach Einblicken in den traditionellen Berberschmuck.",
+            "hu": "Fedezzen fel egy lenyűgöző regionális műtárgygyűjteményt, amely a Középső-Atlasz gazdag örökségét mutatja be, és kérjen a helyi idegenvezetőktől információkat a hagyományos berber ékszerekről.",
+            "ro": "Descoperiți o colecție fascinantă de artefacte regionale care ilustrează moștenirea bogată a Atlasului Mijlociu și întrebați ghizii locali despre expozițiile de bijuterii tradiționale berbere.",
+            "en": "Discover a fascinating collection of regional artifacts that chronicle the rich heritage of the Middle Atlas, and ask the local guides for insights into the traditional Berber jewelry displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab bouamair",
+            "hu": "Bab bouamair",
+            "ro": "Bab bouamair",
+            "en": "Bab bouamair"
+          },
+          "coords": [
+            -5.557717,
+            33.894152
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem imposanten kaiserlichen Tor, das einst die königlichen Viertel bewachte, und verfolgen Sie die verblassenden Inschriften, während Sie auf den Verkehr achten.",
+            "hu": "Álljon meg e lenyűgöző birodalmi kapu előtt, amely egykor a királyi negyedeket őrizte, és kövesse nyomon a falakon lévő halványodó feliratokat, ügyelve a mellette elhaladó forgalomra.",
+            "ro": "Stați în fața acestei porți imperiale impunătoare care păzea odinioară cartierele regale și urmăriți inscripțiile estompate, fiind în același timp atenți la traficul aglomerat din zonă.",
+            "en": "Stand before this imposing imperial gateway that once guarded the royal quarters, and trace the fading inscriptions on its walls while remaining mindful of the bustling traffic passing through."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Meknes mit einem Besuch des prächtigen Dar Jamai Museums. Anschließend führt Sie ein kurzer Spaziergang zur architektonisch beeindruckenden Medrasa Bou Inania im Herzen der Medina.\n\nZur Mittagszeit schlendern Sie zum Bab el-jadid, wo Sie das geschäftige Treiben der Einheimischen beobachten und die historische Atmosphäre dieser charmanten Königsstadt aufsaugen können.\n\nAm Nachmittag vertiefen Sie Ihr Wissen im Meknes Museum, das eine Fülle an regionalen Artefakten bietet. Lassen Sie sich von den detaillierten Ausstellungen und der reichen Geschichte der Region verzaubern.\n\nBeenden Sie Ihren Rundgang am imposanten Bab bouamair. Die sanfte Abendbeleuchtung verleiht diesem kaiserlichen Tor eine magische Aura, die perfekt ist, um den Tag in Marokko gemütlich ausklingen zu lassen.",
+        "hu": "Kezdje a napot Meknesben a csodálatos Dar Jamai Múzeum felfedezésével. Ezután egy rövid séta elvezeti az építészetileg lenyűgöző Medrasa Bou Inaniához a medina szívében, ahol elmerülhet a részletekben.\n\nDélidőben sétáljon el a Bab el-jadidhoz, ahol megfigyelheti a helyiek nyüzsgő életét, és magába szívhatja ennek a bájos királyi városnak a történelmi és vibráló hangulatát.\n\nDélután mélyítse el tudását a Meknesi Múzeumban, amely rengeteg regionális műtárgyat kínál. Hagyja, hogy elvarázsolják a részletes kiállítások és a Középső-Atlasz régió gazdag történelme.\n\nFejezze be a túrát az impozáns Bab bouamairnál. A lágy esti megvilágítás varázslatos aurát kölcsönöz ennek a birodalmi kapunak, amely tökéletes a marokkói nap kellemes lezárásához.",
+        "ro": "Începeți ziua în Meknes explorând magnificul Muzeu Dar Jamai. Apoi, o scurtă plimbare vă duce la uimitoarea Medrasa Bou Inania, o bijuterie arhitecturală situată chiar în inima medinei istorice.\n\nLa prânz, plimbați-vă spre Bab el-jadid, unde puteți observa viața de zi cu zi a localnicilor și puteți absorbi atmosfera vibrantă a acestui fermecător oraș imperial marocan.\n\nDupă-amiaza, aprofundați-vă cunoștințele la Muzeul Meknes, care oferă o multitudine de artefacte regionale. Lăsați-vă fermecați de expozițiile detaliate și de istoria bogată a Atlasului Mijlociu.\n\nÎncheiați-vă turul la impunătoarea poartă Bab bouamair. Iluminarea blândă de seară conferă acestei porți imperiale o aură magică, perfectă pentru a încheia o zi plină de descoperiri.",
+        "en": "Start your day in Meknes by exploring the magnificent Dar Jamai Museum. A short walk then takes you to the architecturally stunning Medrasa Bou Inania in the heart of the medina, full of intricate details.\n\nAt midday, stroll over to Bab el-jadid, where you can observe the bustling daily life of the locals and soak up the historical atmosphere of this charming imperial Moroccan city.\n\nIn the afternoon, deepen your knowledge at the Meknes Museum, which offers a wealth of regional artifacts. Let yourself be enchanted by the detailed exhibitions and the rich history of the Middle Atlas.\n\nEnd your walking tour at the imposing Bab bouamair. The soft evening lighting gives this imperial gate a magical aura that is perfect for winding down a busy day of exploring in Morocco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Théâtre en plein air Lahboul",
+            "hu": "Théâtre en plein air Lahboul",
+            "ro": "Théâtre en plein air Lahboul",
+            "en": "Théâtre en plein air Lahboul"
+          },
+          "coords": [
+            -5.563165,
+            33.899268
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante Freilichttheater im Park, das Natur und Kulturerbe wunderschön verbindet und einen ruhigen Ort bietet, um sich vor dem aktiven Tag auszuruhen.",
+            "hu": "Csodálja meg a parkban megbújó, bájos szabadtéri színházat, amely gyönyörűen ötvözi a természetet a kulturális örökséggel, nyugodt pihenőhelyet kínálva az aktív nap kezdete előtt.",
+            "ro": "Admirați acest fermecător teatru în aer liber situat în parc, care combină natura cu moștenirea culturală, oferind un loc liniștit pentru a vă odihni înainte de a începe ziua.",
+            "en": "Marvel at this charming open-air theater nestled within the park, which beautifully combines nature with cultural heritage, offering a serene spot to rest before starting your active day."
+          }
+        },
+        {
+          "name": {
+            "de": "Lahboul Zoo",
+            "hu": "Lahboul Állatkert",
+            "ro": "Grădina Zoologică Lahboul",
+            "en": "Lahboul Zoo"
+          },
+          "coords": [
+            -5.561604,
+            33.897605
+          ],
+          "category": "family",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Park mit einem bescheidenen Zoo, der einen friedlichen Rückzugsort bietet, und bringen Sie Wasser mit, um auf den schattigen Gartenwegen hydriert zu bleiben.",
+            "hu": "Sétáljon végig ezen a történelmi parkon és szerény állatkerten, amely békés menedéket kínál a családoknak, és hozzon magával vizet, hogy hidratált maradjon a fákkal árnyékolt ösvényeken.",
+            "ro": "Plimbați-vă prin acest parc istoric și grădină zoologică modestă, o retragere pașnică, și aduceți apă pentru a rămâne hidratat în timp ce mergeți pe aleile umbrite.",
+            "en": "Stroll through this historic park and modest zoo that offers a peaceful retreat for families, and bring some water to stay hydrated while walking along the shaded garden pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Medrasa Bou Inania",
+            "hu": "Medrasa Bou Inania",
+            "ro": "Medrasa Bou Inania",
+            "en": "Medrasa Bou Inania"
+          },
+          "coords": [
+            -5.56527,
+            33.895154
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Meisterwerk merinidischer Architektur mit aufwendigen Zellige-Fliesen, und steigen Sie unbedingt auf das Dach, um einen Panoramablick auf die Medina zu genießen.",
+            "hu": "Fedezze fel a merinida építészet e remekművét, melyet bonyolult zellige csempék díszítenek, és mindenképpen másszon fel a tetőre a nyüzsgő medina páratlan panorámájáért.",
+            "ro": "Explorați această capodoperă a arhitecturii merinide, împodobită cu faianță zellige, și asigurați-vă că urcați pe acoperiș pentru o vedere panoramică excepțională a medinei.",
+            "en": "Explore this masterpiece of Merinid architecture adorned with intricate zellige tilework, and be sure to climb to the rooftop for an exceptional panoramic view of the bustling medina."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum of Moulay Ismail",
+            "hu": "Moulay Ismail Mauzóleuma",
+            "ro": "Mausoleul lui Moulay Ismail",
+            "en": "Mausoleum of Moulay Ismail"
+          },
+          "coords": [
+            -5.562708,
+            33.891058
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie einem der größten Sultane Marokkos die letzte Ehre, wobei Nicht-Muslime den Komplex betreten können, aber ihre Schuhe ausziehen müssen, um das Grab von der Schwelle aus zu sehen.",
+            "hu": "Rójja le tiszteletét Marokkó egyik legnagyobb szultánjának végső nyughelyénél, ne feledje, hogy a nem muszlimok beléphetnek a komplexumba, de le kell venniük a cipőjüket a küszöbnél.",
+            "ro": "Prezentați-vă respectul la locul de odihnă al unuia dintre cei mai mari sultani ai Marocului, ținând cont că non-musulmanii pot intra în complex, dar trebuie să se descalțe pentru a vedea mormântul.",
+            "en": "Pay your respects at the final resting place of one of Morocco's greatest sultans, noting that non-Muslims can enter the complex but must remove their shoes to view the tomb from the threshold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab el Kari",
+            "hu": "Bab el Kari",
+            "ro": "Bab el Kari",
+            "en": "Bab el Kari"
+          },
+          "coords": [
+            -5.565282,
+            33.885557
+          ],
+          "category": "castle",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses weniger bekannte, aber ebenso prächtige historische Kasbah-Tor an, das fantastische Fotomöglichkeiten bietet, ohne die großen Menschenmengen der Haupteingänge.",
+            "hu": "Tekintse meg a kaszba kevésbé ismert, de ugyanolyan csodálatos történelmi kapuját, amely fantasztikus fotózási lehetőségeket kínál a fő városbejáratoknál tapasztalható tömeg nélkül.",
+            "ro": "Verificați această poartă istorică mai puțin cunoscută, dar la fel de magnifică a kasbah-ului, care oferă oportunități fantastice de fotografie fără mulțimile intense de la intrările principale.",
+            "en": "Check out this lesser-known but equally magnificent historical gateway of the kasbah, which offers fantastic photo opportunities without the intense crowds found at the main city entrances."
+          }
+        },
+        {
+          "name": {
+            "de": "Heri es Souani",
+            "hu": "Heri es Souani",
+            "ro": "Heri es Souani",
+            "en": "Heri es Souani"
+          },
+          "coords": [
+            -5.557333,
+            33.88076
+          ],
+          "category": "historical",
+          "arrive_at": "15:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die riesigen gewölbten Getreidespeicher, die von Moulay Ismail entworfen wurden, und bringen Sie eine Taschenlampe mit, um die dunkleren inneren Bögen vollständig zu erkunden.",
+            "hu": "Barangoljon a hatalmas boltozatos magtárakban, amelyeket Moulay Ismail tervezett hatalmas seregének etetésére, és hozzon zseblámpát a sötétebb belső boltívek teljes felfedezéséhez.",
+            "ro": "Plimbați-vă prin hambarele boltite colosale concepute de Moulay Ismail pentru a-și hrăni armata masivă și aduceți o lanternă pentru a explora complet arcadele interioare mai întunecate.",
+            "en": "Wander through the colossal vaulted granaries designed by Moulay Ismail to feed his massive army and thousands of horses, bringing a flashlight to fully explore the darker interior arches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Meknes beginnt am charmanten Théâtre en plein air Lahboul. Von dort aus ist es nur eine kurze Fahrt zum Lahboul Zoo, einem friedlichen Park, der sich ideal für einen entspannten Morgen eignet.\n\nMittags radeln Sie zur historischen Medrasa Bou Inania. Die ruhigen Innenhöfe bieten eine willkommene Pause, bevor Sie das majestätische Mausoleum von Moulay Ismail besichtigen.\n\nAm Nachmittag führt Sie Ihre Route weiter zum weniger besuchten, aber ebenso faszinierenden Bab el Kari. Genießen Sie die Fahrt entlang der alten Stadtmauern und die freie Sicht auf die beeindruckende Architektur.\n\nDer Tag endet an den kolossalen Getreidespeichern von Heri es Souani. Die magische Abendstimmung in diesen alten Gewölben ist der perfekte Abschluss für einen erlebnisreichen Tag auf dem Fahrrad.",
+        "hu": "A meknes-i kerékpártúra a bájos Théâtre en plein air Lahboul-nál kezdődik. Innen csak egy rövid út a Lahboul Állatkert, egy békés park, amely ideális egy pihentető, lassú reggeli kezdéshez.\n\nDélben tekerjen el a történelmi Medrasa Bou Inaniához. A csendes udvarok szívesen látott pihenőt nyújtanak, mielőtt meglátogatná Moulay Ismail fenséges mauzóleumát a város szívében.\n\nDélután az útvonal a kevésbé látogatott, de ugyanolyan lenyűgöző Bab el Karihoz vezet. Élvezze a régi városfalak mentén való utazást és a lenyűgöző építészetre nyíló akadálytalan kilátást.\n\nA nap a Heri es Souani kolosszális magtárainál ér véget. Ezekben az ősi boltozatokban uralkodó varázslatos esti hangulat tökéletes lezárása egy eseménydús, kerékpárral töltött napnak.",
+        "ro": "Turul dvs. cu bicicleta prin Meknes începe la fermecătorul Théâtre en plein air Lahboul. De acolo, este o plimbare scurtă până la Grădina Zoologică Lahboul, un parc liniștit ideal pentru o dimineață relaxantă.\n\nLa prânz, pedalați spre istorica Medrasa Bou Inania. Curțile liniștite oferă o pauză binevenită înainte de a vizita maiestuosul Mausoleu al lui Moulay Ismail din inima orașului.\n\nDupă-amiaza, traseul vă duce la poarta Bab el Kari, mai puțin vizitată, dar la fel de fascinantă. Bucurați-vă de călătoria de-a lungul vechilor ziduri ale orașului și de priveliștile impresionante.\n\nZiua se încheie la colosalele grânare din Heri es Souani. Atmosfera magică de seară din aceste bolți antice este finalul perfect pentru o zi plină de evenimente petrecută pe bicicletă.",
+        "en": "Your cycling tour through Meknes begins at the charming Théâtre en plein air Lahboul. From there, it is just a short ride to the Lahboul Zoo, a peaceful park ideal for a relaxing morning start.\n\nAt midday, pedal towards the historic Medrasa Bou Inania. The quiet courtyards offer a welcome break before you visit the majestic Mausoleum of Moulay Ismail in the heart of the imperial city.\n\nIn the afternoon, your route takes you to the less visited but equally fascinating Bab el Kari. Enjoy the ride along the ancient city walls and the unobstructed views of the impressive local architecture.\n\nThe day ends at the colossal granaries of Heri es Souani. The magical evening atmosphere in these ancient vaults is the perfect conclusion to an eventful and active day on your bicycle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang del Agdal",
+            "hu": "Étang del Agdal",
+            "ro": "Étang del Agdal",
+            "en": "Étang del Agdal"
+          },
+          "coords": [
+            -5.560019,
+            33.881308
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem riesigen historischen Stausee, der zur Bewässerung der königlichen Gärten angelegt wurde, und machen Sie einen Spaziergang entlang des großen Wasserbeckens.",
+            "hu": "Kezdje a reggelt ennél a hatalmas történelmi víztározónál, amelyet a királyi kertek öntözésére hoztak létre, és tegyen egy békés sétát a kiterjedt medence mentén a délutáni hőség beállta előtt.",
+            "ro": "Începeți dimineața la acest vast rezervor istoric creat pentru a iriga grădinile regale, făcând o plimbare pașnică de-a lungul bazinului expansiv înainte de a se lăsa căldura după-amiezii.",
+            "en": "Start your morning by this vast historic reservoir created to irrigate the royal gardens, taking a peaceful walk along the expansive water basin before the afternoon heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Heri es Souani",
+            "hu": "Heri es Souani",
+            "ro": "Heri es Souani",
+            "en": "Heri es Souani"
+          },
+          "coords": [
+            -5.557333,
+            33.88076
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die riesigen gewölbten Getreidespeicher, die von Moulay Ismail entworfen wurden, und bringen Sie eine Taschenlampe mit, um die dunkleren inneren Bögen vollständig zu erkunden.",
+            "hu": "Barangoljon a hatalmas boltozatos magtárakban, amelyeket Moulay Ismail tervezett hatalmas seregének etetésére, és hozzon zseblámpát a sötétebb belső boltívek teljes felfedezéséhez.",
+            "ro": "Plimbați-vă prin hambarele boltite colosale concepute de Moulay Ismail pentru a-și hrăni armata masivă și aduceți o lanternă pentru a explora complet arcadele interioare mai întunecate.",
+            "en": "Wander through the colossal vaulted granaries designed by Moulay Ismail to feed his massive army and thousands of horses, bringing a flashlight to fully explore the darker interior arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Royal",
+            "hu": "Palais Royal",
+            "ro": "Palais Royal",
+            "en": "Palais Royal"
+          },
+          "coords": [
+            -5.554538,
+            33.88665
+          ],
+          "category": "castle",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massiven Außenmauern und imposanten Tore der offiziellen königlichen Residenz vom weitläufigen Mechouar-Platz aus, da der öffentliche Zugang zum Innenpalast verboten ist.",
+            "hu": "Csodálja meg a meknes-i hivatalos királyi rezidencia masszív külső falait és impozáns kapuit a tágas mechouar térről, mivel a belső palotába szigorúan tilos a belépés a nyilvánosság számára.",
+            "ro": "Admirați zidurile exterioare masive și porțile impunătoare ale reședinței regale oficiale din marea piață mechouar, deoarece intrarea publicului în palatul interior este strict interzisă.",
+            "en": "Admire the massive exterior walls and imposing gates of the official royal residence in Meknes from the expansive mechouar square, as public entry to the inner palace is strictly prohibited."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum of Moulay Ismail",
+            "hu": "Moulay Ismail Mauzóleuma",
+            "ro": "Mausoleul lui Moulay Ismail",
+            "en": "Mausoleum of Moulay Ismail"
+          },
+          "coords": [
+            -5.562708,
+            33.891058
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie einem der größten Sultane Marokkos die letzte Ehre, wobei Nicht-Muslime den Komplex betreten können, aber ihre Schuhe ausziehen müssen, um das Grab von der Schwelle aus zu sehen.",
+            "hu": "Rójja le tiszteletét Marokkó egyik legnagyobb szultánjának végső nyughelyénél, ne feledje, hogy a nem muszlimok beléphetnek a komplexumba, de le kell venniük a cipőjüket a küszöbnél.",
+            "ro": "Prezentați-vă respectul la locul de odihnă al unuia dintre cei mai mari sultani ai Marocului, ținând cont că non-musulmanii pot intra în complex, dar trebuie să se descalțe pentru a vedea mormântul.",
+            "en": "Pay your respects at the final resting place of one of Morocco's greatest sultans, noting that non-Muslims can enter the complex but must remove their shoes to view the tomb from the threshold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Rha",
+            "hu": "Bab Rha",
+            "ro": "Bab Rha",
+            "en": "Bab Rha"
+          },
+          "coords": [
+            -5.568427,
+            33.891409
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die robuste Verteidigungsarchitektur dieses alten Tores entlang der Medina-Mauern und nutzen Sie es als bequemen Orientierungspunkt, bevor Sie tiefer in die Souks eintauchen.",
+            "hu": "Vizsgálja meg ennek az ősi kapunak a masszív védelmi építészetét a medina falai mentén, és használja kényelmes navigációs pontként a tájékozódáshoz, mielőtt mélyebbre merülne a souk-okba.",
+            "ro": "Examinați arhitectura defensivă robustă a acestei porți antice de-a lungul zidurilor Medinei și folosiți-o ca punct convenabil de navigație pentru a vă orienta înainte de a vă adânci în souk-uri.",
+            "en": "Examine the sturdy defensive architecture of this ancient gateway along the Medina walls, and use it as a convenient navigation point to orient yourself before delving deeper into the souks."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar Jamai Museum",
+            "hu": "Dar Jamai Múzeum",
+            "ro": "Muzeul Dar Jamai",
+            "en": "Dar Jamai Museum"
+          },
+          "coords": [
+            -5.566576,
+            33.893658
+          ],
+          "category": "museum",
+          "arrive_at": "15:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie exquisite marokkanische Keramik und Holzarbeiten in diesem atemberaubenden Palast, aber blicken Sie nach oben, um die bemalten Zedernholzdecken zu schätzen.",
+            "hu": "Csodálja meg a marokkói kerámiákat és fafaragásokat ebben a lenyűgöző palotában, de feltétlenül nézzen fel a főudvar festett cédrusfa mennyezetének részleteire is.",
+            "ro": "Admirați ceramica marocană și prelucrarea tradițională a lemnului în acest palat uimitor, dar priviți în sus pentru a aprecia tavanele detaliate din lemn de cedru pictat.",
+            "en": "Admire exquisite Moroccan ceramics and traditional woodwork inside this stunning late 19th-century palace, but look up to appreciate the detailed painted cedar ceilings in the main courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am weitreichenden Étang del Agdal, einem historischen Wasserbecken. Kurze Zeit später erreichen Sie die gewaltigen Getreidespeicher von Heri es Souani, die von der imperialen Macht zeugen.\n\nGegen Mittag fahren Sie weiter zum Palais Royal. Bewundern Sie die massiven Mauern und Tore von außen, bevor Sie das spirituelle Herz der Stadt, das Mausoleum von Moulay Ismail, besuchen.\n\nAm Nachmittag führt die Route zum Bab Rha, einem alten Tor entlang der historischen Medina-Mauern. Nutzen Sie diesen Halt, um die robuste Verteidigungsarchitektur der alten Königsstadt zu studieren.\n\nBeenden Sie Ihren Ausflug am Dar Jamai Museum. Dieses atemberaubende Gebäude bietet nicht nur faszinierende Kunst, sondern auch einen prachtvollen Garten, der sich wunderbar für einen Abendspaziergang eignet.",
+        "hu": "Kezdje az autós túrát a kiterjedt Étang del Agdal történelmi medencéjénél. Nem sokkal később eléri Heri es Souani hatalmas magtárait, amelyek a birodalmi hatalom lenyűgöző tanúbizonyságai.\n\nDél körül folytassa útját a Palais Royal felé. Csodálja meg a masszív falakat és kapukat kívülről, mielőtt meglátogatná a város spirituális szívét, Moulay Ismail lenyűgöző mauzóleumát.\n\nDélután az útvonal a Bab Rha-hoz vezet, egy ősi kapuhoz a medina falai mentén. Használja ki ezt a megállót, hogy tanulmányozza a régi királyi város robusztus védelmi építészetét.\n\nFejezze be a kirándulást a Dar Jamai Múzeumnál. Ez a lenyűgöző épület nemcsak lenyűgöző művészetet kínál, hanem egy csodálatos kertet is, amely tökéletes egy nyugodt esti sétához.",
+        "ro": "Începeți plimbarea cu mașina la vastul bazin istoric Étang del Agdal. La scurt timp, veți ajunge la uriașele grânare din Heri es Souani, o dovadă impresionantă a puterii imperiale de altădată.\n\nÎn jurul prânzului, continuați spre Palais Royal. Admirați zidurile masive și porțile din exterior înainte de a vizita inima spirituală a orașului, impresionantul Mausoleu al lui Moulay Ismail.\n\nDupă-amiaza, traseul duce la Bab Rha, o poartă antică de-a lungul zidurilor medinei. Profitați de această oprire pentru a studia arhitectura defensivă robustă a vechiului oraș regal marocan.\n\nÎncheiați-vă excursia la Muzeul Dar Jamai. Această clădire uimitoare nu oferă doar artă fascinantă, ci și o grădină magnifică, perfectă pentru o plimbare relaxantă de seară.",
+        "en": "Start your driving tour at the expansive Étang del Agdal historical water basin. A short time later, you will reach the massive granaries of Heri es Souani, an impressive testament to past imperial power.\n\nAround noon, continue your journey towards the Palais Royal. Admire the massive walls and gates from the outside before visiting the spiritual heart of the city, the awe-inspiring Mausoleum of Moulay Ismail.\n\nIn the afternoon, the route leads to Bab Rha, an ancient gateway along the medina walls. Take advantage of this stop to study the robust defensive architecture of the old royal city.\n\nEnd your excursion at the Dar Jamai Museum. This stunning building offers not only fascinating regional art but also a magnificent, peaceful garden that is perfect for a relaxing evening stroll."
+      }
+    }
+  }
+}

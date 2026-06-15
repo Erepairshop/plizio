@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-camaiore-cities-v2",
+  "anchor": {
+    "name": "Camaiore",
+    "coords": [
+      10.3,
+      43.933333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 1.84,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+          },
+          "coords": [
+            10.292759,
+            43.939273
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade dieser historischen Kirche der lokalen Andacht und bringen Sie eine Kamera für das perfekte Morgenlicht am Eingang mit.",
+            "hu": "Csodálja meg a helyi vallásos áhítatot tükröző történelmi templom egyszerű homlokzatát, és hozzon fényképezőgépet a gyönyörű bejárat reggeli megörökítéséhez.",
+            "ro": "Admirați fațada simplă a acestei biserici istorice pentru a înțelege devotamentul local și aduceți o cameră pentru a surprinde lumina dimineții la intrare.",
+            "en": "Admire the simple facade of this historic church to understand local religious devotion, and bring a camera to capture the morning light on its beautiful entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Comunale Camaiore",
+            "hu": "Piscina Comunale Camaiore",
+            "ro": "Piscina Comunale Camaiore",
+            "en": "Piscina Comunale Camaiore"
+          },
+          "coords": [
+            10.29936,
+            43.938045
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause in diesem modernen Gemeinschaftsbad, um das echte lokale Leben kennenzulernen, aber vergessen Sie Ihre Badekappe nicht.",
+            "hu": "Tartson egy frissítő szünetet ebben a modern közösségi medencében az igazi helyi élet megtapasztalásához, de legyen kéznél az itt kötelező úszósapka is.",
+            "ro": "Luați o pauză revigorantă la această piscină modernă pentru a simți viața locală autentică, păstrând la îndemână o cască de înot obligatorie la intrare.",
+            "en": "Take a refreshing break at this modern community pool to experience authentic local life, keeping a swimming cap handy as it is strictly required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria della Stella",
+            "hu": "Chiesa di Santa Maria della Stella",
+            "ro": "Chiesa di Santa Maria della Stella",
+            "en": "Chiesa di Santa Maria della Stella"
+          },
+          "coords": [
+            10.301577,
+            43.93934
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe spirituelle Atmosphäre dieser kleinen, bezaubernden Kirche mit ihren lokalen Kunstwerken und treten Sie leise ein, aus Respekt.",
+            "hu": "Fedezze fel a lenyűgöző helyi alkotásokat rejtő kis templom mély, spirituális atmoszféráját, és a csendes légkör megőrzése érdekében halkan lépjen be.",
+            "ro": "Descoperiți atmosfera spirituală profundă a acestei mici biserici pline de artă locală remarcabilă și pășiți liniștit înăuntru pentru a respecta ambianța.",
+            "en": "Discover the profound spiritual atmosphere of this small, charming church containing remarkable local artwork, and step inside quietly to respect the ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            10.304136,
+            43.938572
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Gebäude, das als Verwaltungszentrum der Stadt dient, und prüfen Sie die Aushängetafeln auf kulturelle Veranstaltungen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi épületet, amely a város adminisztratív központja, és figyelje a kinti hirdetőtáblákat a közelgő kulturális eseményekért.",
+            "ro": "Explorați această clădire istorică elegantă, inima administrativă a orașului, și verificați panourile de afară pentru a afla despre viitoarele evenimente.",
+            "en": "Explore this elegant historic building that serves as the administrative heart of the town, and check the notice boards outside for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Suffragio",
+            "hu": "Chiesa del Suffragio",
+            "ro": "Chiesa del Suffragio",
+            "en": "Chiesa del Suffragio"
+          },
+          "coords": [
+            10.303169,
+            43.939085
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die faszinierenden architektonischen Details dieses intimen Heiligtums und achten Sie besonders auf das reich verzierte Altarbild im Nachmittagslicht.",
+            "hu": "Figyelje meg ennek a meghitt szentélynek az izgalmas építészeti részleteit, különös tekintettel a délutáni fényben tündöklő, díszes és különleges oltárképre.",
+            "ro": "Observați detaliile arhitecturale fascinante ale acestui sanctuar intim, acordând atenție deosebită altarului ornamentat care captează lumina după-amiezii.",
+            "en": "Observe the intriguing architectural details of this intimate religious sanctuary, paying close attention to the ornate altarpiece that captures afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte sacra",
+            "hu": "Museo d'arte sacra",
+            "ro": "Museo d'arte sacra",
+            "en": "Museo d'arte sacra"
+          },
+          "coords": [
+            10.304728,
+            43.93705
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in jahrhundertelange Religionsgeschichte ein, indem Sie diese exquisiten Artefakte betrachten, und nehmen Sie sich Zeit für die tollen Wandteppiche.",
+            "hu": "Merüljön el a több évszázados vallástörténetben a lenyűgöző szent tárgyak megtekintésével, és szánjon egy kis extra időt a meglepően részletes kárpitokra is.",
+            "ro": "Cufundați-vă în secole de istorie religioasă admirând aceste artefacte sacre rafinate și alocați timp suplimentar pentru tapiseriile surprinzător de detaliate.",
+            "en": "Immerse yourself in centuries of religious history by viewing these exquisite sacred artifacts, and allocate extra time for the surprisingly detailed tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Vincenzo",
+            "hu": "Chiesa di San Vincenzo",
+            "ro": "Chiesa di San Vincenzo",
+            "en": "Chiesa di San Vincenzo"
+          },
+          "coords": [
+            10.306584,
+            43.936618
+          ],
+          "category": "religious",
+          "arrive_at": "15:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die harmonischen Proportionen dieser klassischen Kirche im Stadtzentrum und kommen Sie kurz vor Sonnenuntergang, um die Glocken zu hören.",
+            "hu": "Csodálja meg a központban álló klasszikus templomépület harmonikus arányait, és érkezzen közvetlenül naplemente előtt, hogy hallhassa az impozáns harangszót.",
+            "ro": "Minunați-vă de proporțiile armonioase ale acestei biserici clasice din centrul orașului și sosiți chiar înainte de apus pentru a auzi clopotele impresionante.",
+            "en": "Marvel at the harmonious proportions of this classical church building set in the town center, and arrive just before sunset to hear the impressive bells ring."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia di San Pietro",
+            "hu": "Badia di San Pietro",
+            "ro": "Badia di San Pietro",
+            "en": "Badia di San Pietro"
+          },
+          "coords": [
+            10.310514,
+            43.938479
+          ],
+          "category": "religious",
+          "arrive_at": "16:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Treten Sie durch das romanische Portal dieser alten Abtei, um das historische Gewicht zu spüren, und tragen Sie bequeme Schuhe für die unebenen Steinböden.",
+            "hu": "Lépjen át az ősi apátság lenyűgöző román stílusú portálján, hogy átérezze a történelmi múltat, és viseljen kényelmes cipőt az egyenetlen kőpadló miatt.",
+            "ro": "Pășiți prin portalul romanic al acestei vechi abații pentru a simți greutatea istorică și purtați pantofi comozi pentru a merge pe podelele inegale din piatră.",
+            "en": "Step through the impressive Romanesque portal of this ancient abbey to feel the historical weight, and wear comfortable walking shoes for the uneven stone floors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Camaiore empfängt Sie mit einem erfrischenden Start. Der westliche Teil der Stadt bietet eine sanfte Einführung in das tägliche Leben und die religiöse Hingabe, wo schöne historische Fassaden in der sanften Morgensonne erwachen.\n\nGegen Mittag ruft das historische Zentrum. Spazieren Sie an eleganten Verwaltungsgebäuden und charmanten kleinen Heiligtümern vorbei, die den architektonischen Charakter der Stadt prägen. Die perfekte Zeit für das Stadtzentrum.\n\nDer Nachmittag ist für tiefe künstlerische und kulturelle Eindrücke reserviert. Das Museum für sakrale Kunst und imposante mittelalterliche Bauten offenbaren das reiche spirituelle Erbe dieser malerischen toskanischen Stadt.\n\nBeenden Sie Ihren Tag in friedlicher Kontemplation. Ob Sie die steinernen Böden majestätischer Abteien erkunden oder die goldene Stunde in einer Landkirche genießen, der Abend bringt eine tiefe historische Ruhe in Ihre Reise.",
+        "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
+        "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
+        "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.93,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dei Santi Ansano e Vincenzo",
+            "hu": "Chiesa dei Santi Ansano e Vincenzo",
+            "ro": "Chiesa dei Santi Ansano e Vincenzo",
+            "en": "Chiesa dei Santi Ansano e Vincenzo"
+          },
+          "coords": [
+            10.30666,
+            43.94935
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser gut erhaltenen ländlichen Kirche inmitten von toskanischen Hügeln, und bringen Sie unbedingt eine Wasserflasche mit.",
+            "hu": "Élvezze a békés pillanatokat ebben a toszkán dombokkal körülvett, gyönyörűen megőrzött vidéki templomban, és hozzon vizet, mert a környéken kevés a bolt.",
+            "ro": "Bucurați-vă de un moment senin în această biserică rurală excelent conservată, și aduceți o sticlă de apă deoarece facilitățile sunt rare în această zonă.",
+            "en": "Enjoy a serene moment in this beautifully preserved rural church surrounded by Tuscan hills, and bring a water bottle since amenities are scarce in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia di San Pietro",
+            "hu": "Badia di San Pietro",
+            "ro": "Badia di San Pietro",
+            "en": "Badia di San Pietro"
+          },
+          "coords": [
+            10.310514,
+            43.938479
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Treten Sie durch das romanische Portal dieser alten Abtei, um das historische Gewicht zu spüren, und tragen Sie bequeme Schuhe für die unebenen Steinböden.",
+            "hu": "Lépjen át az ősi apátság lenyűgöző román stílusú portálján, hogy átérezze a történelmi múltat, és viseljen kényelmes cipőt az egyenetlen kőpadló miatt.",
+            "ro": "Pășiți prin portalul romanic al acestei vechi abații pentru a simți greutatea istorică și purtați pantofi comozi pentru a merge pe podelele inegale din piatră.",
+            "en": "Step through the impressive Romanesque portal of this ancient abbey to feel the historical weight, and wear comfortable walking shoes for the uneven stone floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte sacra",
+            "hu": "Museo d'arte sacra",
+            "ro": "Museo d'arte sacra",
+            "en": "Museo d'arte sacra"
+          },
+          "coords": [
+            10.304728,
+            43.93705
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Tauchen Sie in jahrhundertelange Religionsgeschichte ein, indem Sie diese exquisiten Artefakte betrachten, und nehmen Sie sich Zeit für die tollen Wandteppiche.",
+            "hu": "Merüljön el a több évszázados vallástörténetben a lenyűgöző szent tárgyak megtekintésével, és szánjon egy kis extra időt a meglepően részletes kárpitokra is.",
+            "ro": "Cufundați-vă în secole de istorie religioasă admirând aceste artefacte sacre rafinate și alocați timp suplimentar pentru tapiseriile surprinzător de detaliate.",
+            "en": "Immerse yourself in centuries of religious history by viewing these exquisite sacred artifacts, and allocate extra time for the surprisingly detailed tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            10.304136,
+            43.938572
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Gebäude, das als Verwaltungszentrum der Stadt dient, und prüfen Sie die Aushängetafeln auf kulturelle Veranstaltungen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi épületet, amely a város adminisztratív központja, és figyelje a kinti hirdetőtáblákat a közelgő kulturális eseményekért.",
+            "ro": "Explorați această clădire istorică elegantă, inima administrativă a orașului, și verificați panourile de afară pentru a afla despre viitoarele evenimente.",
+            "en": "Explore this elegant historic building that serves as the administrative heart of the town, and check the notice boards outside for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+            "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+          },
+          "coords": [
+            10.292759,
+            43.939273
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade dieser historischen Kirche der lokalen Andacht und bringen Sie eine Kamera für das perfekte Morgenlicht am Eingang mit.",
+            "hu": "Csodálja meg a helyi vallásos áhítatot tükröző történelmi templom egyszerű homlokzatát, és hozzon fényképezőgépet a gyönyörű bejárat reggeli megörökítéséhez.",
+            "ro": "Admirați fațada simplă a acestei biserici istorice pentru a înțelege devotamentul local și aduceți o cameră pentru a surprinde lumina dimineții la intrare.",
+            "en": "Admire the simple facade of this historic church to understand local religious devotion, and bring a camera to capture the morning light on its beautiful entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Rocco",
+            "hu": "Oratorio di San Rocco",
+            "ro": "Oratorio di San Rocco",
+            "en": "Oratorio di San Rocco"
+          },
+          "coords": [
+            10.314641,
+            43.928903
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten kleinen Oratorium für den Schutzpatron gegen Plagen und beachten Sie das rustikale Mauerwerk, das auf Fotos fantastisch aussieht.",
+            "hu": "Álljon meg a pestis ellen védelmező szentnek szentelt bájos kis oratóriumnál, és figyelje meg a rusztikus téglafalat, amely fantasztikusan mutat a fotókon.",
+            "ro": "Opriți-vă la acest mic oratoriu fermecător dedicat protectorului împotriva ciumei și observați zidăria rustică, care arată fantastic în fotografiile de călătorie.",
+            "en": "Pause at this charming little oratory dedicated to the protector against plagues, and notice the rustic brickwork which looks fantastic in your travel photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Santo Stefano",
+            "hu": "Pieve di Santo Stefano",
+            "ro": "Pieve di Santo Stefano",
+            "en": "Pieve di Santo Stefano"
+          },
+          "coords": [
+            10.328035,
+            43.93062
+          ],
+          "category": "religious",
+          "arrive_at": "15:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieser hervorragend erhaltenen mittelalterlichen Pfarrkirche auf einem Hügel, und packen Sie eine leichte Jacke für den frischen Wind ein.",
+            "hu": "Szívja magába a dombon büszkén álló, kiválóan megőrzött középkori plébániatemplom nyugalmát, és hozzon egy könnyű dzsekit, mert a tetőn gyakran fúj a szél.",
+            "ro": "Absorbiți liniștea acestei biserici parohiale medievale excelent conservate de pe deal și luați o jachetă subțire, deoarece în vârf poate adia un vânt rece.",
+            "en": "Absorb the tranquility of this outstandingly preserved medieval parish church standing proudly on a hill, and pack a light jacket as the hilltop can be breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Camaiore empfängt Sie mit einem erfrischenden Start. Der westliche Teil der Stadt bietet eine sanfte Einführung in das tägliche Leben und die religiöse Hingabe, wo schöne historische Fassaden in der sanften Morgensonne erwachen.\n\nGegen Mittag ruft das historische Zentrum. Spazieren Sie an eleganten Verwaltungsgebäuden und charmanten kleinen Heiligtümern vorbei, die den architektonischen Charakter der Stadt prägen. Die perfekte Zeit für das Stadtzentrum.\n\nDer Nachmittag ist für tiefe künstlerische und kulturelle Eindrücke reserviert. Das Museum für sakrale Kunst und imposante mittelalterliche Bauten offenbaren das reiche spirituelle Erbe dieser malerischen toskanischen Stadt.\n\nBeenden Sie Ihren Tag in friedlicher Kontemplation. Ob Sie die steinernen Böden majestätischer Abteien erkunden oder die goldene Stunde in einer Landkirche genießen, der Abend bringt eine tiefe historische Ruhe in Ihre Reise.",
+        "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
+        "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
+        "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 4.18,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pieve di Santo Stefano",
+            "hu": "Pieve di Santo Stefano",
+            "ro": "Pieve di Santo Stefano",
+            "en": "Pieve di Santo Stefano"
+          },
+          "coords": [
+            10.328035,
+            43.93062
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieser hervorragend erhaltenen mittelalterlichen Pfarrkirche auf einem Hügel, und packen Sie eine leichte Jacke für den frischen Wind ein.",
+            "hu": "Szívja magába a dombon büszkén álló, kiválóan megőrzött középkori plébániatemplom nyugalmát, és hozzon egy könnyű dzsekit, mert a tetőn gyakran fúj a szél.",
+            "ro": "Absorbiți liniștea acestei biserici parohiale medievale excelent conservate de pe deal și luați o jachetă subțire, deoarece în vârf poate adia un vânt rece.",
+            "en": "Absorb the tranquility of this outstandingly preserved medieval parish church standing proudly on a hill, and pack a light jacket as the hilltop can be breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Rocco",
+            "hu": "Oratorio di San Rocco",
+            "ro": "Oratorio di San Rocco",
+            "en": "Oratorio di San Rocco"
+          },
+          "coords": [
+            10.314641,
+            43.928903
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten kleinen Oratorium für den Schutzpatron gegen Plagen und beachten Sie das rustikale Mauerwerk, das auf Fotos fantastisch aussieht.",
+            "hu": "Álljon meg a pestis ellen védelmező szentnek szentelt bájos kis oratóriumnál, és figyelje meg a rusztikus téglafalat, amely fantasztikusan mutat a fotókon.",
+            "ro": "Opriți-vă la acest mic oratoriu fermecător dedicat protectorului împotriva ciumei și observați zidăria rustică, care arată fantastic în fotografiile de călătorie.",
+            "en": "Pause at this charming little oratory dedicated to the protector against plagues, and notice the rustic brickwork which looks fantastic in your travel photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte sacra",
+            "hu": "Museo d'arte sacra",
+            "ro": "Museo d'arte sacra",
+            "en": "Museo d'arte sacra"
+          },
+          "coords": [
+            10.304728,
+            43.93705
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie in jahrhundertelange Religionsgeschichte ein, indem Sie diese exquisiten Artefakte betrachten, und nehmen Sie sich Zeit für die tollen Wandteppiche.",
+            "hu": "Merüljön el a több évszázados vallástörténetben a lenyűgöző szent tárgyak megtekintésével, és szánjon egy kis extra időt a meglepően részletes kárpitokra is.",
+            "ro": "Cufundați-vă în secole de istorie religioasă admirând aceste artefacte sacre rafinate și alocați timp suplimentar pentru tapiseriile surprinzător de detaliate.",
+            "en": "Immerse yourself in centuries of religious history by viewing these exquisite sacred artifacts, and allocate extra time for the surprisingly detailed tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            10.304136,
+            43.938572
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Gebäude, das als Verwaltungszentrum der Stadt dient, und prüfen Sie die Aushängetafeln auf kulturelle Veranstaltungen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi épületet, amely a város adminisztratív központja, és figyelje a kinti hirdetőtáblákat a közelgő kulturális eseményekért.",
+            "ro": "Explorați această clădire istorică elegantă, inima administrativă a orașului, și verificați panourile de afară pentru a afla despre viitoarele evenimente.",
+            "en": "Explore this elegant historic building that serves as the administrative heart of the town, and check the notice boards outside for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia di San Pietro",
+            "hu": "Badia di San Pietro",
+            "ro": "Badia di San Pietro",
+            "en": "Badia di San Pietro"
+          },
+          "coords": [
+            10.310514,
+            43.938479
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Treten Sie durch das romanische Portal dieser alten Abtei, um das historische Gewicht zu spüren, und tragen Sie bequeme Schuhe für die unebenen Steinböden.",
+            "hu": "Lépjen át az ősi apátság lenyűgöző román stílusú portálján, hogy átérezze a történelmi múltat, és viseljen kényelmes cipőt az egyenetlen kőpadló miatt.",
+            "ro": "Pășiți prin portalul romanic al acestei vechi abații pentru a simți greutatea istorică și purtați pantofi comozi pentru a merge pe podelele inegale din piatră.",
+            "en": "Step through the impressive Romanesque portal of this ancient abbey to feel the historical weight, and wear comfortable walking shoes for the uneven stone floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Ansano e Vincenzo",
+            "hu": "Chiesa dei Santi Ansano e Vincenzo",
+            "ro": "Chiesa dei Santi Ansano e Vincenzo",
+            "en": "Chiesa dei Santi Ansano e Vincenzo"
+          },
+          "coords": [
+            10.30666,
+            43.94935
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser gut erhaltenen ländlichen Kirche inmitten von toskanischen Hügeln, und bringen Sie unbedingt eine Wasserflasche mit.",
+            "hu": "Élvezze a békés pillanatokat ebben a toszkán dombokkal körülvett, gyönyörűen megőrzött vidéki templomban, és hozzon vizet, mert a környéken kevés a bolt.",
+            "ro": "Bucurați-vă de un moment senin în această biserică rurală excelent conservată, și aduceți o sticlă de apă deoarece facilitățile sunt rare în această zonă.",
+            "en": "Enjoy a serene moment in this beautifully preserved rural church surrounded by Tuscan hills, and bring a water bottle since amenities are scarce in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Camaiore empfängt Sie mit einem erfrischenden Start. Der westliche Teil der Stadt bietet eine sanfte Einführung in das tägliche Leben und die religiöse Hingabe, wo schöne historische Fassaden in der sanften Morgensonne erwachen.\n\nGegen Mittag ruft das historische Zentrum. Spazieren Sie an eleganten Verwaltungsgebäuden und charmanten kleinen Heiligtümern vorbei, die den architektonischen Charakter der Stadt prägen. Die perfekte Zeit für das Stadtzentrum.\n\nDer Nachmittag ist für tiefe künstlerische und kulturelle Eindrücke reserviert. Das Museum für sakrale Kunst und imposante mittelalterliche Bauten offenbaren das reiche spirituelle Erbe dieser malerischen toskanischen Stadt.\n\nBeenden Sie Ihren Tag in friedlicher Kontemplation. Ob Sie die steinernen Böden majestätischer Abteien erkunden oder die goldene Stunde in einer Landkirche genießen, der Abend bringt eine tiefe historische Ruhe in Ihre Reise.",
+        "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
+        "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
+        "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      }
+    }
+  }
+}

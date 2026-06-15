@@ -1,0 +1,451 @@
+{
+  "city_id": "city-loule",
+  "anchor": {
+    "name": "Loule",
+    "coords": [
+      -8.0093,
+      37.1372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 1.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado de Loulé",
+            "hu": "Mercado de Loulé",
+            "ro": "Mercado de Loulé",
+            "en": "Mercado de Loulé"
+          },
+          "coords": [
+            -8.022348,
+            37.138281
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses belebten Marktes und probieren Sie unbedingt lokale Feigen und Mandeln.",
+            "hu": "Csodálja meg ennek a nyüzsgő piacnak a lenyűgöző építészetét, és mindenképpen kóstolja meg a helyi fügét és mandulát.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe pline de viață și asigurați-vă că gustați smochine și migdale locale.",
+            "en": "Admire the striking architecture of this bustling market and make sure to sample the local figs and almonds."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Misericórdia",
+            "hu": "Igreja da Misericórdia",
+            "ro": "Igreja da Misericórdia",
+            "en": "Igreja da Misericórdia"
+          },
+          "coords": [
+            -8.02205,
+            37.137037
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende manuelinische Portal dieser Kirche und achten Sie auf die kunstvollen Details der Fassade.",
+            "hu": "Tekintse meg a templom lenyűgöző Mánuel-stílusú portálját, és figyeljen a homlokzat bonyolult részleteire.",
+            "ro": "Priviți impresionantul portal manuelin al acestei biserici și acordați atenție detaliilor complicate ale fațadei.",
+            "en": "View the impressive Manueline portal of this church and pay attention to the intricate details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Loulé",
+            "hu": "Igreja Matriz de Loulé",
+            "ro": "Igreja Matriz de Loulé",
+            "en": "Igreja Matriz de Loulé"
+          },
+          "coords": [
+            -8.023542,
+            37.137423
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese gotische Pfarrkirche mit ihren wunderschönen Azulejos und genießen Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Látogasson el ebbe a gótikus plébániatemplomba, ahol csodálatos azulejo csempék találhatók, és élvezze a békés hangulatot.",
+            "ro": "Vizitați această biserică parohială gotică cu frumoasele sale plăci de azulejo și bucurați-vă de atmosfera pașnică din interior.",
+            "en": "Visit this Gothic parish church with its beautiful azulejo tiles and enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "In The Pink - Galeria Fotografia",
+            "hu": "In The Pink - Galeria Fotografia",
+            "ro": "In The Pink - Galeria Fotografia",
+            "en": "In The Pink - Galeria Fotografia"
+          },
+          "coords": [
+            -8.023206,
+            37.139674
+          ],
+          "category": "museum",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Fotokunst in dieser modernen Galerie und nehmen Sie sich Zeit für die wechselnden Ausstellungen.",
+            "hu": "Fedezze fel a kortárs fotóművészetet ebben a modern galériában, és szánjon időt a változatos időszaki kiállításokra.",
+            "ro": "Descoperiți arta fotografică contemporană în această galerie modernă și acordați-vă timp pentru expozițiile temporare.",
+            "en": "Discover contemporary photographic art in this modern gallery and take your time to appreciate the changing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bicas Velhas",
+            "hu": "Bicas Velhas",
+            "ro": "Bicas Velhas",
+            "en": "Bicas Velhas"
+          },
+          "coords": [
+            -8.024119,
+            37.13924
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Brunnen, einem wichtigen Wahrzeichen, um mehr über die traditionelle Wasserversorgung der Stadt zu erfahren.",
+            "hu": "Álljon meg ennél a történelmi kútnál, amely fontos nevezetesség, hogy többet megtudjon a város hagyományos vízellátásáról.",
+            "ro": "Opriți-vă la această fântână istorică, un reper important, pentru a afla mai multe despre alimentarea tradițională cu apă a orașului.",
+            "en": "Stop at this historic fountain, an important landmark, to learn more about the traditional water supply of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Loulé Criativo",
+            "hu": "Loulé Criativo",
+            "ro": "Loulé Criativo",
+            "en": "Loulé Criativo"
+          },
+          "coords": [
+            -8.02322,
+            37.141522
+          ],
+          "category": "cultural",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur ein und beobachten Sie Kunsthandwerker bei der Arbeit, während Sie einzigartige Souvenirs entdecken.",
+            "hu": "Merüljön el a helyi kultúrában, figyelje meg a kézműveseket munka közben, miközben egyedi szuveníreket fedez fel.",
+            "ro": "Cufundați-vă în cultura locală și urmăriți meșterii la lucru în timp ce descoperiți suveniruri unice de neuitat.",
+            "en": "Immerse yourself in the local culture and watch artisans at work while discovering unique and memorable souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Francisco X. D'Ataire Oliveira",
+            "hu": "Francisco X. D'Ataire Oliveira",
+            "ro": "Francisco X. D'Ataire Oliveira",
+            "en": "Francisco X. D'Ataire Oliveira"
+          },
+          "coords": [
+            -8.025686,
+            37.140532
+          ],
+          "category": "historical",
+          "arrive_at": "14:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Ort, der die reiche Vergangenheit von Loulé ehrt, und machen Sie ein Foto vom beeindruckenden Denkmal.",
+            "hu": "Fedezze fel ezt a történelmi helyszínt, amely Loulé gazdag múltját tiszteli, és készítsen egy fotót a lenyűgöző emlékműről.",
+            "ro": "Explorați acest loc istoric care onorează trecutul bogat al orașului Loulé și faceți o fotografie cu monumentul impresionant.",
+            "en": "Explore this historical site honoring the rich past of Loulé and take a photo of the impressive monument structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am lebhaften Markt und erkunden Sie die historische Altstadt. Mittags bewundern Sie die wunderschönen Kirchen und ihre Kunstwerke. Am Nachmittag tauchen Sie in die Welt der Fotografie und des lokalen Kunsthandwerks ein. Beenden Sie den Tag an den faszinierenden Denkmälern.",
+        "hu": "Kezdje a napot a nyüzsgő piacon, majd fedezze fel a történelmi óvárost. Délben csodálja meg a gyönyörű templomokat és műalkotásaikat. Délután merüljön el a fotográfia és a helyi kézművesség világában. Fejezze be a napot a lenyűgöző emlékműveknél.",
+        "ro": "Începeți ziua la piața plină de viață și explorați orașul vechi istoric. La prânz, admirați bisericile frumoase și operele lor de artă. După-amiaza, cufundați-vă în lumea fotografiei și a meșteșugurilor locale. Încheiați ziua la monumentele fascinante.",
+        "en": "Start the day at the bustling market and explore the historic old town. At midday, admire the beautiful churches and their intricate artworks. In the afternoon, immerse yourself in the world of photography and local crafts. End your day reflecting at the fascinating historical monuments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 2.37,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palácio Fonte da Pipa",
+            "hu": "Palácio Fonte da Pipa",
+            "ro": "Palácio Fonte da Pipa",
+            "en": "Palácio Fonte da Pipa"
+          },
+          "coords": [
+            -8.020018,
+            37.129081
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romantische Architektur dieses historischen Palastes und genießen Sie einen morgendlichen Spaziergang durch die verwilderten Gärten.",
+            "hu": "Csodálja meg ennek a történelmi palotának a romantikus építészetét, és tegyen egy reggeli sétát a vadregényes kertekben.",
+            "ro": "Admirați arhitectura romantică a acestui palat istoric și bucurați-vă de o plimbare matinală prin grădinile sale sălbatice.",
+            "en": "Admire the romantic architecture of this historic palace and enjoy a morning stroll through the overgrown estate gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Loulé",
+            "hu": "Mercado de Loulé",
+            "ro": "Mercado de Loulé",
+            "en": "Mercado de Loulé"
+          },
+          "coords": [
+            -8.022348,
+            37.138281
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses belebten Marktes und probieren Sie unbedingt lokale Feigen und Mandeln.",
+            "hu": "Csodálja meg ennek a nyüzsgő piacnak a lenyűgöző építészetét, és mindenképpen kóstolja meg a helyi fügét és mandulát.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe pline de viață și asigurați-vă că gustați smochine și migdale locale.",
+            "en": "Admire the striking architecture of this bustling market and make sure to sample the local figs and almonds."
+          }
+        },
+        {
+          "name": {
+            "de": "ArtCatto",
+            "hu": "ArtCatto",
+            "ro": "ArtCatto",
+            "en": "ArtCatto"
+          },
+          "coords": [
+            -8.020279,
+            37.138196
+          ],
+          "category": "museum",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die exklusiven Kunstwerke in dieser renommierten Galerie und lassen Sie sich von der kuratierten internationalen Sammlung inspirieren.",
+            "hu": "Tekintse meg az exkluzív műalkotásokat ebben a neves galériában, és merítsen ihletet a gondosan összeállított nemzetközi gyűjteményből.",
+            "ro": "Priviți operele de artă exclusive din această galerie renumită și lăsați-vă inspirat de colecția internațională atent selecționată.",
+            "en": "View the exclusive artworks in this renowned gallery and get inspired by the carefully curated international contemporary collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+            "hu": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+            "ro": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+            "en": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim"
+          },
+          "coords": [
+            -8.021257,
+            37.138827
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses Gebäudes und achten Sie auf die architektonischen Details aus dem neunzehnten Jahrhundert.",
+            "hu": "Fedezze fel ennek az épületnek a lenyűgöző történetét, és figyeljen a tizenkilencedik századi építészeti részletekre a séta során.",
+            "ro": "Descoperiți istoria fascinantă a acestei clădiri și acordați atenție detaliilor arhitecturale distinctive din secolul al nouălea.",
+            "en": "Discover the fascinating history of this building and pay close attention to the distinctive nineteenth-century architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santo António",
+            "hu": "Convento de Santo António",
+            "ro": "Convento de Santo António",
+            "en": "Convento de Santo António"
+          },
+          "coords": [
+            -8.031598,
+            37.141474
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieses historischen Klosters und bewundern Sie die erhaltenen Elemente der traditionellen religiösen Architektur.",
+            "hu": "Tapasztalja meg ennek a történelmi kolostornak a nyugalmát, és csodálja meg a hagyományos vallási építészet megőrzött elemeit.",
+            "ro": "Experimentați liniștea acestei mănăstiri istorice și admirați elementele bine conservate ale arhitecturii religioase tradiționale.",
+            "en": "Experience the tranquility of this historic convent and admire the well-preserved elements of traditional local religious architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine entspannte Radtour führt Sie zunächst zum romantischen Palast am Stadtrand. Danach radeln Sie ins Zentrum zum lebhaften Markt und zur Kunstgalerie. Am Nachmittag erkunden Sie historische Architektur in den charmanten Gassen. Der Ausflug endet am ruhigen Kloster im Westen.",
+        "hu": "Egy pihentető kerékpártúra először a város szélén található romantikus palotához vezet. Ezután a központba teker a nyüzsgő piachoz és a művészeti galériához. Délután történelmi építészetet fedez fel a hangulatos utcákon. A kirándulás a nyugati részen fekvő békés kolostornál ér véget.",
+        "ro": "O plimbare relaxantă cu bicicleta vă duce mai întâi la palatul romantic de la periferie. Apoi pedalați în centru la piața plină de viață și la galeria de artă. După-amiaza, explorați arhitectura istorică pe străduțele fermecătoare. Excursia se încheie la mănăstirea liniștită din vest.",
+        "en": "A relaxing bike ride takes you first to the romantic palace on the outskirts. Afterwards, cycle into the center to the bustling market and art gallery. In the afternoon, explore historical architecture along the charming streets. The trip ends at the peaceful convent in the west."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:36",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palácio Fonte da Pipa",
+            "hu": "Palácio Fonte da Pipa",
+            "ro": "Palácio Fonte da Pipa",
+            "en": "Palácio Fonte da Pipa"
+          },
+          "coords": [
+            -8.020018,
+            37.129081
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romantische Architektur dieses historischen Palastes und genießen Sie einen morgendlichen Spaziergang durch die verwilderten Gärten.",
+            "hu": "Csodálja meg ennek a történelmi palotának a romantikus építészetét, és tegyen egy reggeli sétát a vadregényes kertekben.",
+            "ro": "Admirați arhitectura romantică a acestui palat istoric și bucurați-vă de o plimbare matinală prin grădinile sale sălbatice.",
+            "en": "Admire the romantic architecture of this historic palace and enjoy a morning stroll through the overgrown estate gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Loulé",
+            "hu": "Mercado de Loulé",
+            "ro": "Mercado de Loulé",
+            "en": "Mercado de Loulé"
+          },
+          "coords": [
+            -8.022348,
+            37.138281
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses belebten Marktes und probieren Sie unbedingt lokale Feigen und Mandeln.",
+            "hu": "Csodálja meg ennek a nyüzsgő piacnak a lenyűgöző építészetét, és mindenképpen kóstolja meg a helyi fügét és mandulát.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe pline de viață și asigurați-vă că gustați smochine și migdale locale.",
+            "en": "Admire the striking architecture of this bustling market and make sure to sample the local figs and almonds."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Loulé",
+            "hu": "Igreja Matriz de Loulé",
+            "ro": "Igreja Matriz de Loulé",
+            "en": "Igreja Matriz de Loulé"
+          },
+          "coords": [
+            -8.023542,
+            37.137423
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese gotische Pfarrkirche mit ihren wunderschönen Azulejos und genießen Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Látogasson el ebbe a gótikus plébániatemplomba, ahol csodálatos azulejo csempék találhatók, és élvezze a békés hangulatot.",
+            "ro": "Vizitați această biserică parohială gotică cu frumoasele sale plăci de azulejo și bucurați-vă de atmosfera pașnică din interior.",
+            "en": "Visit this Gothic parish church with its beautiful azulejo tiles and enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Loulé Criativo",
+            "hu": "Loulé Criativo",
+            "ro": "Loulé Criativo",
+            "en": "Loulé Criativo"
+          },
+          "coords": [
+            -8.02322,
+            37.141522
+          ],
+          "category": "cultural",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur ein und beobachten Sie Kunsthandwerker bei der Arbeit, während Sie einzigartige Souvenirs entdecken.",
+            "hu": "Merüljön el a helyi kultúrában, figyelje meg a kézműveseket munka közben, miközben egyedi szuveníreket fedez fel.",
+            "ro": "Cufundați-vă în cultura locală și urmăriți meșterii la lucru în timp ce descoperiți suveniruri unice de neuitat.",
+            "en": "Immerse yourself in the local culture and watch artisans at work while discovering unique and memorable souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santo António",
+            "hu": "Convento de Santo António",
+            "ro": "Convento de Santo António",
+            "en": "Convento de Santo António"
+          },
+          "coords": [
+            -8.031598,
+            37.141474
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieses historischen Klosters und bewundern Sie die erhaltenen Elemente der traditionellen religiösen Architektur.",
+            "hu": "Tapasztalja meg ennek a történelmi kolostornak a nyugalmát, és csodálja meg a hagyományos vallási építészet megőrzött elemeit.",
+            "ro": "Experimentați liniștea acestei mănăstiri istorice și admirați elementele bine conservate ale arhitecturii religioase tradiționale.",
+            "en": "Experience the tranquility of this historic convent and admire the well-preserved elements of traditional local religious architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem den verlassenen Palast vor den Toren der Stadt. Später parken Sie zentral, um den Markt und die imposante Hauptkirche zu besichtigen. Der Nachmittag ist der lokalen Kultur und dem traditionellen Handwerk gewidmet. Den Abschluss bildet das friedliche Klostergelände.",
+        "hu": "Autóval kényelmesen eléri a város kapui előtt található elhagyatott palotát. Később a központban parkol, hogy meglátogassa a piacot és az impozáns főtemplomot. A délután a helyi kultúrának és a hagyományos kézművességnek van szentelve. A napot a békés kolostor területe zárja le.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la palatul abandonat din afara porților orașului. Mai târziu parcați central pentru a vizita piața și impunătoarea biserică principală. După-amiaza este dedicată culturii locale și meșteșugurilor tradiționale. Ziua se încheie la mănăstirea pașnică.",
+        "en": "By car, easily reach the abandoned palace outside the city gates. Later, park centrally to visit the market and the imposing main church. The afternoon is dedicated to local culture and observing traditional local craftsmanship. The day concludes at the peaceful convent grounds."
+      }
+    }
+  }
+}

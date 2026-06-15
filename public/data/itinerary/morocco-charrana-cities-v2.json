@@ -1,0 +1,451 @@
+{
+  "city_id": "morocco-charrana-cities-v2",
+  "anchor": {
+    "name": "Charrana",
+    "coords": [
+      -3.00749,
+      35.39013
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 1.41,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Charrana",
+            "hu": "Playa de Charrana",
+            "ro": "Playa de Charrana",
+            "en": "Playa de Charrana"
+          },
+          "coords": [
+            -3.005053,
+            35.392979
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen dieses breiten Sandstrandes, der perfekt zum Schwimmen ist; bringen Sie Ihre Schnorchelausrüstung am besten früh mit.",
+            "hu": "Élvezze a széles, homokos strand lágy hullámait, amely tökéletes az úszáshoz, ezért érdemes korán érkezni a búvárfelszereléssel a nagy hőség előtt.",
+            "ro": "Bucurați-vă de valurile blânde ale acestei plaje largi de nisip, perfectă pentru înot; aduceți echipamentul de snorkeling devreme pentru a evita soarele.",
+            "en": "Enjoy the gentle waves of this wide, sandy beach, which is perfect for swimming, so bring your snorkeling gear early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Charranes Beach",
+            "hu": "Charranes Beach",
+            "ro": "Charranes Beach",
+            "en": "Charranes Beach"
+          },
+          "coords": [
+            -3.008134,
+            35.389975
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Dieser unberührte Küstenabschnitt bietet raue natürliche Schönheit; ideal, um Ihr Handtuch in der Nähe der faszinierenden Felsformationen auszubreiten.",
+            "hu": "Ez az érintetlen partszakasz nyers természeti szépséget kínál, így ideális hely arra, hogy leterítse a törölközőjét a lenyűgöző sziklaalakzatok közelében.",
+            "ro": "Această porțiune de coastă neatinsă oferă o frumusețe naturală brută, fiind ideală pentru a vă așeza prosopul aproape de formațiunile stâncoase fascinante.",
+            "en": "This relatively untouched stretch of coastline provides a raw natural beauty, making it ideal to lay out your towel near the fascinating rock formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Embarcadero",
+            "hu": "Embarcadero",
+            "ro": "Embarcadero",
+            "en": "Embarcadero"
+          },
+          "coords": [
+            -3.008899,
+            35.388957
+          ],
+          "category": "recreational",
+          "arrive_at": "11:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem alten Meerespier für großartige Fotos des tiefblauen Wassers, aber tragen Sie Schuhe mit gutem Halt auf dem Beton.",
+            "hu": "Tartson egy kis szünetet ennél a régi tengeri mólónál, ahonnan remek fotókat készíthet, de mindenképpen viseljen jól tapadó cipőt a nedves betonon.",
+            "ro": "Faceți o pauză la acest vechi debarcader maritim care oferă oportunități excelente de fotografiere a apei albastre, dar purtați încălțăminte aderentă.",
+            "en": "Take a break at this old maritime pier that offers excellent photo opportunities of the deep blue water, but wear shoes with good grip on the concrete."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Salmonette",
+            "hu": "Plage Salmonette",
+            "ro": "Plage Salmonette",
+            "en": "Plage Salmonette"
+          },
+          "coords": [
+            -3.008526,
+            35.385654
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Diese charmante Bucht ist für ihre Ruhe bekannt; bringen Sie unbedingt eigene Snacks und Wasser mit, da es direkt am Strand keine Einrichtungen gibt.",
+            "hu": "Ez a hangulatos öböl közismerten csendes és eldugott, ezért mindenképpen hozzon magával saját rágcsálnivalót és vizet, mivel nincsenek büfék a közelben.",
+            "ro": "Acest golf fermecător este renumit de liniștit și izolat, așa că asigurați-vă că aduceți propriile gustări și apă, deoarece nu există facilități aici.",
+            "en": "This charming cove is famously quiet and secluded, so be sure to bring your own snacks and water as there are no immediate facilities right on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Bonita",
+            "hu": "Cala Bonita",
+            "ro": "Cala Bonita",
+            "en": "Cala Bonita"
+          },
+          "coords": [
+            -3.009796,
+            35.3819
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser wunderschönen, geschützten Bucht mit kristallklarem Wasser ausklingen – der perfekte Ort, um den Sonnenuntergang zu sehen.",
+            "hu": "Zárja a napot ebben a gyönyörűen védett, hihetetlenül tiszta vizű öbölben, amely a legkiválóbb végső helyszín a lenyűgöző naplemente megtekintéséhez.",
+            "ro": "Încheiați ziua în acest golf frumos protejat, care are ape incredibil de limpezi, devenind locul final perfect pentru a privi apusul soarelui liniștit.",
+            "en": "Wind down your day at this beautifully protected inlet that features incredibly clear waters, making it the perfect final spot to watch the sun go down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Playa de Charrana, wo die sanften Wellen und der feine Sand zum Entspannen einladen. Danach spazieren Sie gemütlich zum Charranes Beach, der für seine unberührte Schönheit bekannt ist. Am Nachmittag bietet das Embarcadero einen tollen Blick, bevor Sie an der Plage Salmonette Sonne tanken. Der Spaziergang endet an der idyllischen Cala Bonita mit einem tollen Sonnenuntergang.",
+        "hu": "Kezdje a napot a Playa de Charrana finom homokos partján, ahol a lágy hullámok tökéletes kikapcsolódást nyújtanak. Ezután sétáljon át a lenyűgöző szépségű Charranes Beach-re egy kis pihenésre. Délután az Embarcadero mólójáról csodálhatja meg a tengert, majd a Plage Salmonette napfényes strandja következik. A séta a festői Cala Bonita öbölben ér véget, ahol gyönyörű naplemente várja.",
+        "ro": "Începeți ziua pe nisipul fin al Playa de Charrana, unde valurile blânde vă invită la relaxare totală. Plimbați-vă apoi spre Charranes Beach, faimoasă pentru frumusețea sa naturală absolut intactă. După-amiaza oferă priveliști superbe la Embarcadero, urmate de o baie de soare pe Plage Salmonette. Această rută pitorească se încheie idilic la Cala Bonita, locul perfect pentru apus.",
+        "en": "Start your morning at Playa de Charrana, where the gentle waves and fine sand create a perfect relaxing vibe. Stroll down to Charranes Beach, well known for its completely unspoiled natural beauty. In the afternoon, the Embarcadero offers great maritime views before you soak up the sun at Plage Salmonette. Your coastal walking tour concludes peacefully at the idyllic Cala Bonita cove."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala Cañaveral 2",
+            "hu": "Cala Cañaveral 2",
+            "ro": "Cala Cañaveral 2",
+            "en": "Cala Cañaveral 2"
+          },
+          "coords": [
+            -3.003336,
+            35.408905
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer an dieser rauen nördlichen Bucht mit dramatischer Landschaft und behalten Sie die Gezeiten im Auge, bevor Sie spazieren.",
+            "hu": "Kezdje a kalandot ebben a drámai tájáról ismert, zord északi öbölben, és mindenképpen figyelje az árapályt, mielőtt felfedezné a varázslatos partot.",
+            "ro": "Începeți aventura în acest golf nordic accidentat, cunoscut pentru peisajul său dramatic, și urmăriți mereu mareele înainte de a explora țărmul stâncos.",
+            "en": "Kickstart your adventure at this rugged northern cove known for its dramatic landscape, and keep an eye on the tides before exploring the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Cañaveral",
+            "hu": "Cala Cañaveral",
+            "ro": "Cala Cañaveral",
+            "en": "Cala Cañaveral"
+          },
+          "coords": [
+            -3.005353,
+            35.405687
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Naturstrand ist weniger überlaufen als die südlichen und eignet sich hervorragend für ein friedliches Picknick mit Proviant.",
+            "hu": "Ez a kiterjedt természetes strand kevésbé zsúfolt, mint a déliek, így kiváló helyszín egy békés piknikhez, ha hoz magával elegendő finom enni-innivalót.",
+            "ro": "Această plajă naturală extinsă este mai puțin aglomerată decât cele din sud, fiind un loc excelent pentru un picnic liniștit, dacă vă aduceți provizii.",
+            "en": "This expansive natural beach is less crowded than those to the south, making it an excellent spot for a peaceful picnic if you bring your own supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Tramontana Beach",
+            "hu": "Tramontana Beach",
+            "ro": "Tramontana Beach",
+            "en": "Tramontana Beach"
+          },
+          "coords": [
+            -3.003336,
+            35.398452
+          ],
+          "category": "landmark",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die erfrischende Meeresbrise an diesem malerischen Strand und sichern Sie sich einen Platz in der Nähe der natürlichen Felswindschutze.",
+            "hu": "Érezze a frissítő tengeri szellőt ezen a festői strandon, és próbáljon helyet találni a természetes szélfogó sziklák közelében a kényelem érdekében.",
+            "ro": "Simțiți briza răcoroasă a mării pe această plajă pitorească și încercați să asigurați un loc lângă paravânturile naturale din stâncă pentru un plus de confort.",
+            "en": "Feel the refreshing sea breezes at this aptly named scenic beach, and try to secure a spot near the natural rock windbreaks for a more comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Charrana",
+            "hu": "Playa de Charrana",
+            "ro": "Playa de Charrana",
+            "en": "Playa de Charrana"
+          },
+          "coords": [
+            -3.005053,
+            35.392979
+          ],
+          "category": "recreational",
+          "arrive_at": "12:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen dieses breiten Sandstrandes, der perfekt zum Schwimmen ist; bringen Sie Ihre Schnorchelausrüstung am besten früh mit.",
+            "hu": "Élvezze a széles, homokos strand lágy hullámait, amely tökéletes az úszáshoz, ezért érdemes korán érkezni a búvárfelszereléssel a nagy hőség előtt.",
+            "ro": "Bucurați-vă de valurile blânde ale acestei plaje largi de nisip, perfectă pentru înot; aduceți echipamentul de snorkeling devreme pentru a evita soarele.",
+            "en": "Enjoy the gentle waves of this wide, sandy beach, which is perfect for swimming, so bring your snorkeling gear early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Embarcadero",
+            "hu": "Embarcadero",
+            "ro": "Embarcadero",
+            "en": "Embarcadero"
+          },
+          "coords": [
+            -3.008899,
+            35.388957
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem alten Meerespier für großartige Fotos des tiefblauen Wassers, aber tragen Sie Schuhe mit gutem Halt auf dem Beton.",
+            "hu": "Tartson egy kis szünetet ennél a régi tengeri mólónál, ahonnan remek fotókat készíthet, de mindenképpen viseljen jól tapadó cipőt a nedves betonon.",
+            "ro": "Faceți o pauză la acest vechi debarcader maritim care oferă oportunități excelente de fotografiere a apei albastre, dar purtați încălțăminte aderentă.",
+            "en": "Take a break at this old maritime pier that offers excellent photo opportunities of the deep blue water, but wear shoes with good grip on the concrete."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Cazón",
+            "hu": "Cala Cazón",
+            "ro": "Cala Cazón",
+            "en": "Cala Cazón"
+          },
+          "coords": [
+            -3.009145,
+            35.38382
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Unterwasserwelt dieser felsigen Bucht, aber packen Sie unbedingt feste Wasserschuhe ein, um sicher umherzugehen.",
+            "hu": "Fedezze fel az e köves öböl sekély vizében rejtőző tengeri élővilágot, de feltétlenül csomagoljon be masszív vizicipőt, hogy biztonságosan mozoghasson.",
+            "ro": "Explorați viața marină fascinantă care se ascunde în apele puțin adânci ale acestui golf stâncos, dar asigurați-vă că purtați încălțăminte de apă rezistentă.",
+            "en": "Explore the fascinating marine life hiding in the shallows of this rocky cove, but make sure to pack sturdy water shoes to navigate the seabed safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der abgelegenen Cala Cañaveral 2 und genießen Sie die frische morgendliche Meeresbrise. Fahren Sie südwärts zur benachbarten Cala Cañaveral und dann zum malerischen Tramontana Beach. Mittags lädt die belebte Playa de Charrana zu einer längeren Rast ein. Am Nachmittag passieren Sie das historische Embarcadero und beenden die Tour gemütlich an der friedlichen Cala Cazón.",
+        "hu": "Indítsa a kerékpártúrát a félreeső Cala Cañaveral 2 partján, és élvezze a friss, sós tengeri levegőt. Tekerjen dél felé a Cala Cañaveralhoz, majd a festői Tramontana Beach felé. Délben a pezsgő Playa de Charrana tökéletes helyszín egy hosszabb pihenőre. Délután guruljon el az Embarcadero mellett, és zárja a napot a békés Cala Cazón öböl hűsítő vizénél.",
+        "ro": "Începeți traseul cu bicicleta la retrasa Cala Cañaveral 2, bucurându-vă de briza sărată a mării. Pedalați spre sud către Cala Cañaveral și apoi la pitoreasca plajă Tramontana. La prânz, animata Playa de Charrana este locul ideal pentru o pauză relaxantă. După-amiaza treceți pe lângă Embarcadero și încheiați ziua perfect la apele liniștite din Cala Cazón.",
+        "en": "Kick off your cycling journey at the secluded Cala Cañaveral 2, breathing in the fresh morning sea breeze. Ride southwards to the neighboring Cala Cañaveral and the scenic Tramontana Beach. At midday, the lively Playa de Charrana provides an ideal spot for a longer rest. In the afternoon, cycle past the Embarcadero and finish your day smoothly at the peaceful Cala Cazón."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 2.83,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala Cañaveral",
+            "hu": "Cala Cañaveral",
+            "ro": "Cala Cañaveral",
+            "en": "Cala Cañaveral"
+          },
+          "coords": [
+            -3.005353,
+            35.405687
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Naturstrand ist weniger überlaufen als die südlichen und eignet sich hervorragend für ein friedliches Picknick mit Proviant.",
+            "hu": "Ez a kiterjedt természetes strand kevésbé zsúfolt, mint a déliek, így kiváló helyszín egy békés piknikhez, ha hoz magával elegendő finom enni-innivalót.",
+            "ro": "Această plajă naturală extinsă este mai puțin aglomerată decât cele din sud, fiind un loc excelent pentru un picnic liniștit, dacă vă aduceți provizii.",
+            "en": "This expansive natural beach is less crowded than those to the south, making it an excellent spot for a peaceful picnic if you bring your own supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Tramontana Beach",
+            "hu": "Tramontana Beach",
+            "ro": "Tramontana Beach",
+            "en": "Tramontana Beach"
+          },
+          "coords": [
+            -3.003336,
+            35.398452
+          ],
+          "category": "landmark",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die erfrischende Meeresbrise an diesem malerischen Strand und sichern Sie sich einen Platz in der Nähe der natürlichen Felswindschutze.",
+            "hu": "Érezze a frissítő tengeri szellőt ezen a festői strandon, és próbáljon helyet találni a természetes szélfogó sziklák közelében a kényelem érdekében.",
+            "ro": "Simțiți briza răcoroasă a mării pe această plajă pitorească și încercați să asigurați un loc lângă paravânturile naturale din stâncă pentru un plus de confort.",
+            "en": "Feel the refreshing sea breezes at this aptly named scenic beach, and try to secure a spot near the natural rock windbreaks for a more comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Charrana",
+            "hu": "Playa de Charrana",
+            "ro": "Playa de Charrana",
+            "en": "Playa de Charrana"
+          },
+          "coords": [
+            -3.005053,
+            35.392979
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen dieses breiten Sandstrandes, der perfekt zum Schwimmen ist; bringen Sie Ihre Schnorchelausrüstung am besten früh mit.",
+            "hu": "Élvezze a széles, homokos strand lágy hullámait, amely tökéletes az úszáshoz, ezért érdemes korán érkezni a búvárfelszereléssel a nagy hőség előtt.",
+            "ro": "Bucurați-vă de valurile blânde ale acestei plaje largi de nisip, perfectă pentru înot; aduceți echipamentul de snorkeling devreme pentru a evita soarele.",
+            "en": "Enjoy the gentle waves of this wide, sandy beach, which is perfect for swimming, so bring your snorkeling gear early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Charranes Beach",
+            "hu": "Charranes Beach",
+            "ro": "Charranes Beach",
+            "en": "Charranes Beach"
+          },
+          "coords": [
+            -3.008134,
+            35.389975
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Dieser unberührte Küstenabschnitt bietet raue natürliche Schönheit; ideal, um Ihr Handtuch in der Nähe der faszinierenden Felsformationen auszubreiten.",
+            "hu": "Ez az érintetlen partszakasz nyers természeti szépséget kínál, így ideális hely arra, hogy leterítse a törölközőjét a lenyűgöző sziklaalakzatok közelében.",
+            "ro": "Această porțiune de coastă neatinsă oferă o frumusețe naturală brută, fiind ideală pentru a vă așeza prosopul aproape de formațiunile stâncoase fascinante.",
+            "en": "This relatively untouched stretch of coastline provides a raw natural beauty, making it ideal to lay out your towel near the fascinating rock formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Salmonette",
+            "hu": "Plage Salmonette",
+            "ro": "Plage Salmonette",
+            "en": "Plage Salmonette"
+          },
+          "coords": [
+            -3.008526,
+            35.385654
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese charmante Bucht ist für ihre Ruhe bekannt; bringen Sie unbedingt eigene Snacks und Wasser mit, da es direkt am Strand keine Einrichtungen gibt.",
+            "hu": "Ez a hangulatos öböl közismerten csendes és eldugott, ezért mindenképpen hozzon magával saját rágcsálnivalót és vizet, mivel nincsenek büfék a közelben.",
+            "ro": "Acest golf fermecător este renumit de liniștit și izolat, așa că asigurați-vă că aduceți propriile gustări și apă, deoarece nu există facilități aici.",
+            "en": "This charming cove is famously quiet and secluded, so be sure to bring your own snacks and water as there are no immediate facilities right on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Bonita",
+            "hu": "Cala Bonita",
+            "ro": "Cala Bonita",
+            "en": "Cala Bonita"
+          },
+          "coords": [
+            -3.009796,
+            35.3819
+          ],
+          "category": "recreational",
+          "arrive_at": "14:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser wunderschönen, geschützten Bucht mit kristallklarem Wasser ausklingen – der perfekte Ort, um den Sonnenuntergang zu sehen.",
+            "hu": "Zárja a napot ebben a gyönyörűen védett, hihetetlenül tiszta vizű öbölben, amely a legkiválóbb végső helyszín a lenyűgöző naplemente megtekintéséhez.",
+            "ro": "Încheiați ziua în acest golf frumos protejat, care are ape incredibil de limpezi, devenind locul final perfect pentru a privi apusul soarelui liniștit.",
+            "en": "Wind down your day at this beautifully protected inlet that features incredibly clear waters, making it the perfect final spot to watch the sun go down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt an der wunderschönen Cala Cañaveral im Norden, perfekt für ruhige Morgenstunden. Fahren Sie anschließend bequem zum beliebten Tramontana Beach, um die Sonne zu genießen. Mittags erwartet Sie die lebhafte Playa de Charrana und der nahgelegene Charranes Beach. Der Nachmittag führt Sie zur Plage Salmonette, bevor Sie den Abend entspannt an der Cala Bonita ausklingen lassen.",
+        "hu": "Festői autózása az északi Cala Cañaveral lenyűgöző partjánál kezdődik, mely tökéletes a csendes reggelekhez. Vezessen kényelmesen a népszerű Tramontana Beach felé egy kis napozásra. Délben a nyüzsgő Playa de Charrana és a közeli Charranes Beach nyújt felejthetetlen élményt. Délután folytassa útját a Plage Salmonette felé, végül pedig pihenjen meg a Cala Bonita partján.",
+        "ro": "Plimbarea pitorească cu mașina începe la frumoasa Cala Cañaveral din nord, perfectă pentru dimineți liniștite. Conduceți apoi confortabil către populara Tramontana Beach pentru a vă bucura de soare. La prânz, Playa de Charrana și Charranes Beach vă așteaptă cu peisaje vii. După-amiaza vizitați Plage Salmonette, înainte de a încheia ziua într-o atmosferă relaxantă la Cala Bonita.",
+        "en": "Your scenic coastal drive begins at the stunning Cala Cañaveral in the north, perfect for a quiet morning. Drive comfortably down to the popular Tramontana Beach to soak up some beautiful rays. By midday, the vibrant Playa de Charrana and nearby Charranes Beach await. In the afternoon, cruise down to Plage Salmonette before winding down your day completely at Cala Bonita."
+      }
+    }
+  }
+}

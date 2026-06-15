@@ -1,0 +1,428 @@
+{
+  "city_id": "turkey-fatih-cities-v2",
+  "anchor": {
+    "name": "Fatih",
+    "coords": [
+      34.54626,
+      36.75749
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 2.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antike Stadt Soli-Pompeiopolis",
+            "hu": "Soli-Pompeiopolis Ókori Város",
+            "ro": "Orașul Antic Soli-Pompeiopolis",
+            "en": "Ancient City of Soli-Pompeiopolis"
+          },
+          "coords": [
+            34.539913,
+            36.745598
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen Säulen dieser antiken römischen Stadt, um ihre beeindruckende Größe zu spüren, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római város hatalmas oszlopait, hogy megcsodálhassa azok fenséges méretét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați coloanele mărețe ale acestui oraș antic roman pentru a-i aprecia scara maiestuoasă și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the grand columns of this ancient Roman city to appreciate its majestic scale, and be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarkophag (Soloi-Pompeiopolis)",
+            "hu": "Szarkofág (Soloi-Pompeiopolis)",
+            "ro": "Sarcofagul (Soloi-Pompeiopolis)",
+            "en": "Sarcophagus (Soloi-Pompeiopolis)"
+          },
+          "coords": [
+            34.536049,
+            36.745664
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Schnitzereien auf diesem antiken Sarkophag, um lokale Bestattungstraditionen zu verstehen, und bringen Sie ein Teleobjektiv für die Details mit.",
+            "hu": "Vizsgálja meg ezen az ősi szarkofágon a bonyolult faragásokat a helyi temetkezési hagyományok megismeréséhez, és hozzon magával teleobjektívet a finom részletek megörökítéséhez.",
+            "ro": "Examinați sculpturile complicate de pe acest sarcofag antic pentru a înțelege tradițiile funerare locale și aduceți un teleobiectiv pentru a surprinde detaliile fine.",
+            "en": "Examine the intricate carvings on this ancient sarcophagus to understand local burial traditions, and bring a zoom lens to capture the fine details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Bad",
+            "hu": "Római Fürdő",
+            "ro": "Baia Romană",
+            "en": "Roman Bath"
+          },
+          "coords": [
+            34.535925,
+            36.742584
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste dieser klassischen römischen Bäder, um sich den antiken Alltag vorzustellen, und kommen Sie früh am Tag, um der Nachmittagssonne zu entgehen.",
+            "hu": "Sétáljon végig ezeknek a klasszikus római fürdőknek a romjain, hogy elképzelje az ókori mindennapokat, és látogasson ide kora reggel, hogy elkerülje a délutáni erős napot.",
+            "ro": "Plimbați-vă prin rămășițele acestor băi romane clasice pentru a vă imagina viața de zi cu zi în antichitate și vizitați-le la începutul zilei pentru a evita soarele intens de după-amiază.",
+            "en": "Walk through the remains of these classical Roman baths to imagine daily life in antiquity, and visit early in the day to avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole",
+            "hu": "Nekropolisz",
+            "ro": "Necropolă",
+            "en": "Necropolis"
+          },
+          "coords": [
+            34.532978,
+            36.741993
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese antike Nekropole, um zu sehen, wie vergangene Zivilisationen ihre Toten ehrten, und bleiben Sie auf den Wegen, um die fragilen Ruinen zu schützen.",
+            "hu": "Barangoljon ebben az ősi nekropoliszban, hogy lássa, hogyan tisztelték halottaikat a múlt civilizációi, és maradjon a kijelölt ösvényeken a törékeny romok védelme érdekében.",
+            "ro": "Rătăciți prin această necropolă antică pentru a vedea cum își cinsteau morții civilizațiile trecute și rămâneți pe cărările marcate pentru a ajuta la protejarea acestor ruine.",
+            "en": "Wander around this ancient necropolis to see how past civilizations honored their dead, and keep to the marked paths to help preserve these fragile ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Pompeiopolis",
+            "hu": "Pompeiopolis Kikötő",
+            "ro": "Portul Pompeiopolis",
+            "en": "Pompeiopolis Harbor"
+          },
+          "coords": [
+            34.540969,
+            36.740095
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Besuchen Sie den antiken Hafen, wo einst Schiffe anlegten, was tolle Einblicke in historische Handelsnetze bietet, und genießen Sie hier für einen Moment die frische Meeresbrise.",
+            "hu": "Látogasson el az ősi kikötőbe, ahol egykor hajók horgonyoztak, kiváló betekintést nyújtva a történelmi kereskedelembe, és szánjon egy percet a tengeri szellő élvezetére.",
+            "ro": "Vizitați vechiul port unde acostau odată navele, oferind o perspectivă excelentă asupra rețelelor comerciale istorice, și luați-vă un moment pentru a vă bucura de briza mării.",
+            "en": "Visit the ancient harbor site where ships once docked, offering great insights into historical trade networks, and take a moment to enjoy the sea breeze here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand",
+            "hu": "Strand",
+            "ro": "Plajă",
+            "en": "Beach"
+          },
+          "coords": [
+            34.547519,
+            36.749929
+          ],
+          "category": "recreational",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem schönen Strandabschnitt, um sich nach der Erkundung antiker Ruinen zu erholen, und vergessen Sie nicht Sonnencreme und ein Handtuch für ein Bad.",
+            "hu": "Pihenjen meg ezen a kellemes strandszakaszon, hogy kikapcsolódjon az ókori romok felfedezése után, és ne felejtsen el naptejet és törölközőt hozni egy frissítő úszáshoz.",
+            "ro": "Relaxați-vă pe această porțiune plăcută de plajă pentru a vă destinde după explorarea ruinelor antice și nu uitați să luați cremă de soare și un prosop pentru o baie revigorantă.",
+            "en": "Relax on this pleasant stretch of beach to unwind after exploring ancient ruins, and don't forget to pack sunscreen and a towel for a refreshing swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie in Soli-Pompeiopolis und erkunden Sie die antiken Säulen und den wunderschön erhaltenen Sarkophag in der Nähe.\n\nSetzen Sie Ihre historische Reise durch die Römischen Bäder und die mysteriöse Nekropole unter der Sonne fort.\n\nSpazieren Sie zu den Hafenruinen von Pompeiopolis hinunter, um sich die einst blühenden maritimen Handelsrouten vorzustellen.\n\nBeenden Sie Ihre Wandertour entspannt am nahegelegenen Strand und lassen Sie die Wellen des Mittelmeers Ihre Müdigkeit wegspülen.",
+        "hu": "Kezdje a napot Soli-Pompeiopolisban, fedezze fel az ősi oszlopokat és a közelben található, gyönyörűen megőrzött szarkofágot.\n\nFolytassa történelmi utazását a római fürdőkön és a titokzatos nekropoliszon keresztül a verőfényes napsütésben.\n\nSétáljon le a pompeiopolisi kikötő romjaihoz, hogy elképzelje az egykor itt virágzó ősi tengeri kereskedelmi útvonalakat.\n\nZárja gyalogtúráját a közeli strandon pihenve, és hagyja, hogy a Földközi-tenger hullámai elmossák a fáradtságot.",
+        "ro": "Începeți la Soli-Pompeiopolis, explorând coloanele antice și sarcofagul frumos conservat din apropiere.\n\nContinuați-vă călătoria istorică prin Băile Romane și necropola misterioasă sub razele soarelui.\n\nCoborâți spre ruinele portului Pompeiopolis pentru a vă imagina vechile rute comerciale maritime care au înflorit aici.\n\nÎncheiați-vă turul pe jos relaxându-vă pe plaja din apropiere, lăsând valurile Mediteranei să vă spele oboseala.",
+        "en": "Start at Soli-Pompeiopolis, exploring the ancient columns and the beautifully preserved sarcophagus nearby.\n\nContinue your historical journey through the Roman Baths and the mysterious Necropolis under the sun.\n\nWander down to the Pompeiopolis Harbor ruins to imagine the ancient maritime trade routes that flourished here.\n\nEnd your walking tour by relaxing on the nearby beach, letting the Mediterranean waves wash away your fatigue."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 4.39,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Soli Hügel",
+            "hu": "Soli Halom",
+            "ro": "Movila Soli",
+            "en": "Soli Mound"
+          },
+          "coords": [
+            34.54223,
+            36.744974
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Hügel, der Schichten antiker Siedlungen offenbart, um die Geschichte der Region zu erfassen, und lesen Sie sich vorab in die Ausgrabungen ein.",
+            "hu": "Fedezze fel ezt a történelmi halmot, amely ősi települések rétegeit tárja fel a régió mély múltjának megértéséhez, és olvasson utána az ásatásoknak érkezés előtt.",
+            "ro": "Descoperiți această movilă istorică ce dezvăluie straturi de așezări antice pentru a înțelege istoria profundă a regiunii și citiți despre excavațiile sale înainte de a ajunge.",
+            "en": "Discover this historical mound revealing layers of ancient settlements to grasp the region's deep history, and read up on its excavations before you arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Stadt Soli-Pompeiopolis",
+            "hu": "Soli-Pompeiopolis Ókori Város",
+            "ro": "Orașul Antic Soli-Pompeiopolis",
+            "en": "Ancient City of Soli-Pompeiopolis"
+          },
+          "coords": [
+            34.539913,
+            36.745598
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen Säulen dieser antiken römischen Stadt, um ihre beeindruckende Größe zu spüren, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római város hatalmas oszlopait, hogy megcsodálhassa azok fenséges méretét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați coloanele mărețe ale acestui oraș antic roman pentru a-i aprecia scara maiestuoasă și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the grand columns of this ancient Roman city to appreciate its majestic scale, and be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserpark Mezitli",
+            "hu": "Mezitli Vízi Park",
+            "ro": "Parcul Acvatic Mezitli",
+            "en": "Mezitli Water Park"
+          },
+          "coords": [
+            34.537355,
+            36.749841
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Genießen Sie eine spaßige Pause in diesem lokalen Wasserpark, der toll für Familien ist, und versuchen Sie, wochentags am Morgen zu kommen, um Wochenendmassen zu meiden.",
+            "hu": "Élvezze a vidám pihenést ebben a helyi vízi parkban, amely nagyszerű a családok számára, és próbáljon meg hétköznap délelőtt érkezni, hogy elkerülje a hétvégi tömeget.",
+            "ro": "Bucurați-vă de o pauză plină de distracție la acest parc acvatic local, excelent pentru familii, și încercați să vizitați în diminețile din timpul săptămânii pentru a evita aglomerația.",
+            "en": "Enjoy a fun-filled break at this local water park which is great for families, and try to visit during weekday mornings to avoid the larger weekend crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand",
+            "hu": "Strand",
+            "ro": "Plajă",
+            "en": "Beach"
+          },
+          "coords": [
+            34.547519,
+            36.749929
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem schönen Strandabschnitt, um sich nach der Erkundung antiker Ruinen zu erholen, und vergessen Sie nicht Sonnencreme und ein Handtuch für ein Bad.",
+            "hu": "Pihenjen meg ezen a kellemes strandszakaszon, hogy kikapcsolódjon az ókori romok felfedezése után, és ne felejtsen el naptejet és törölközőt hozni egy frissítő úszáshoz.",
+            "ro": "Relaxați-vă pe această porțiune plăcută de plajă pentru a vă destinde după explorarea ruinelor antice și nu uitați să luați cremă de soare și un prosop pentru o baie revigorantă.",
+            "en": "Relax on this pleasant stretch of beach to unwind after exploring ancient ruins, and don't forget to pack sunscreen and a towel for a refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina Vergnügungspark",
+            "hu": "Mersin Marina Vidámpark",
+            "ro": "Parcul de Distracții Mersin Marina",
+            "en": "Mersin Marina Amusement Park"
+          },
+          "coords": [
+            34.565679,
+            36.769894
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.75,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem lebhaften Vergnügungspark nahe dem Yachthafen mit aufregenden Fahrgeschäften und holen Sie sich eine süße Leckerei für das perfekte Erlebnis.",
+            "hu": "Zárja a napot ebben a nyüzsgő vidámparkban a jachtkikötő közelében, és vegyen egy édes finomságot az egyik közeli standnál, hogy fokozza az élményt.",
+            "ro": "Încheiați-vă ziua în acest parc de distracții plin de viață de lângă portul de agrement pentru atracții palpitante și luați un desert de la o tarabă din apropiere pentru a completa experiența.",
+            "en": "End your day at this lively amusement park near the marina for thrilling rides, and grab a sweet treat from one of the nearby stalls to enhance the experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie nach Soli Höyük, um die frühesten Wurzeln der Gegend zu erfassen, bevor Sie die Säulen von Pompeiopolis bewundern.\n\nErfrischen Sie sich bei einem lustigen Stopp im Mezitli Wasserpark, einem tollen Ort zur Abkühlung in der Mittagshitze.\n\nFahren Sie in Richtung des Sandstrandes und nehmen Sie sich Zeit, um an den beruhigenden blauen Gewässern zu entspannen.\n\nTreten Sie weiter nach Osten zum lebhaften Marina Vergnügungspark für abendlichen Nervenkitzel und bunte Unterhaltung am Meer.",
+        "hu": "Kerékpározzon el a Soli Höyükhöz, hogy megismerje a terület legkorábbi gyökereit, mielőtt megcsodálná Pompeiopolis oszlopait.\n\nFrissüljön fel egy vidám megállóval a Mezitli Vízi Parkban, amely kiváló hely a hűsölésre a nap legmelegebb részében.\n\nKerékpározzon a helyi homokos tengerpart felé, és szánjon egy kis időt a pihenésre a megnyugtató kék vizek partján.\n\nTekerjen tovább kelet felé a nyüzsgő Marina Vidámparkba, ahol esti izgalmak és színes tengerparti szórakozás várja.",
+        "ro": "Pedalați până la Soli Höyük pentru a înțelege cele mai vechi rădăcini ale zonei înainte de a admira coloanele din Pompeiopolis.\n\nRăcoriți-vă cu o oprire distractivă la Parcul Acvatic Mezitli, un loc minunat pentru a scăpa de căldura din timpul zilei.\n\nMergeți spre țărmul nisipos al plajei locale, luându-vă timp pentru a vă odihni pe malul apelor albastre și liniștitoare.\n\nPedalați mai departe spre est până la Parcul de Distracții Marina pentru senzații tari de seară și divertisment colorat la malul mării.",
+        "en": "Cycle to Soli Höyük to grasp the area's earliest roots before admiring the grand columns of Pompeiopolis.\n\nRefresh yourself with a fun stop at the Mezitli Water Park, a great place to cool off during the heat of the day.\n\nRide towards the sandy shore of the local beach, taking some time to rest by the calming blue waters.\n\nPedal further east to the lively Marina Amusement Park for some evening thrills and colorful seaside entertainment."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 8.28,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Moschee Çiftlikköy",
+            "hu": "Çiftlikköy Régi Mecset",
+            "ro": "Vechea Moschee Çiftlikköy",
+            "en": "Çiftlikköy Old Mosque"
+          },
+          "coords": [
+            34.539613,
+            36.778317
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieser alten Moschee, um das lokale spirituelle Leben zu spüren, und denken Sie an angemessene Kleidung und die Gebetszeiten.",
+            "hu": "Csodálja meg ennek a régi mecsetnek a hagyományos építészetét, hogy megtapasztalja a helyi spirituális életet, és ne feledkezzen meg a szerény öltözködésről az imahelységeken.",
+            "ro": "Admirați arhitectura tradițională a acestei vechi moschei pentru a experimenta viața spirituală locală și amintiți-vă să vă îmbrăcați modest și să respectați orele de rugăciune.",
+            "en": "Admire the traditional architecture of this old mosque to experience local spiritual life, and remember to dress modestly and respect prayer times during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserpark Mezitli",
+            "hu": "Mezitli Vízi Park",
+            "ro": "Parcul Acvatic Mezitli",
+            "en": "Mezitli Water Park"
+          },
+          "coords": [
+            34.537355,
+            36.749841
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.17,
+          "tip_5lang": {
+            "de": "Genießen Sie eine spaßige Pause in diesem lokalen Wasserpark, der toll für Familien ist, und versuchen Sie, wochentags am Morgen zu kommen, um Wochenendmassen zu meiden.",
+            "hu": "Élvezze a vidám pihenést ebben a helyi vízi parkban, amely nagyszerű a családok számára, és próbáljon meg hétköznap délelőtt érkezni, hogy elkerülje a hétvégi tömeget.",
+            "ro": "Bucurați-vă de o pauză plină de distracție la acest parc acvatic local, excelent pentru familii, și încercați să vizitați în diminețile din timpul săptămânii pentru a evita aglomerația.",
+            "en": "Enjoy a fun-filled break at this local water park which is great for families, and try to visit during weekday mornings to avoid the larger weekend crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Stadt Soli-Pompeiopolis",
+            "hu": "Soli-Pompeiopolis Ókori Város",
+            "ro": "Orașul Antic Soli-Pompeiopolis",
+            "en": "Ancient City of Soli-Pompeiopolis"
+          },
+          "coords": [
+            34.539913,
+            36.745598
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen Säulen dieser antiken römischen Stadt, um ihre beeindruckende Größe zu spüren, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római város hatalmas oszlopait, hogy megcsodálhassa azok fenséges méretét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați coloanele mărețe ale acestui oraș antic roman pentru a-i aprecia scara maiestuoasă și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the grand columns of this ancient Roman city to appreciate its majestic scale, and be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Pompeiopolis",
+            "hu": "Pompeiopolis Kikötő",
+            "ro": "Portul Pompeiopolis",
+            "en": "Pompeiopolis Harbor"
+          },
+          "coords": [
+            34.540969,
+            36.740095
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Besuchen Sie den antiken Hafen, wo einst Schiffe anlegten, was tolle Einblicke in historische Handelsnetze bietet, und genießen Sie hier für einen Moment die frische Meeresbrise.",
+            "hu": "Látogasson el az ősi kikötőbe, ahol egykor hajók horgonyoztak, kiváló betekintést nyújtva a történelmi kereskedelembe, és szánjon egy percet a tengeri szellő élvezetére.",
+            "ro": "Vizitați vechiul port unde acostau odată navele, oferind o perspectivă excelentă asupra rețelelor comerciale istorice, și luați-vă un moment pentru a vă bucura de briza mării.",
+            "en": "Visit the ancient harbor site where ships once docked, offering great insights into historical trade networks, and take a moment to enjoy the sea breeze here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mersin Marina Vergnügungspark",
+            "hu": "Mersin Marina Vidámpark",
+            "ro": "Parcul de Distracții Mersin Marina",
+            "en": "Mersin Marina Amusement Park"
+          },
+          "coords": [
+            34.565679,
+            36.769894
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.97,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Marina Vergnügungspark, wo die lebendigen Lichter und die fröhliche Atmosphäre den Tag abrunden, und holen Sie sich eine süße Leckerei.",
+            "hu": "Fejezze be autós körútját a Marina Vidámparkban, ahol a vibráló fények és a vidám hangulat teszi teljessé a napot, és vegyen egy finom édességet.",
+            "ro": "Încheiați-vă plimbarea cu mașina la Parcul de Distracții Marina, unde luminile vibrante și atmosfera veselă desăvârșesc ziua, și luați un desert dulce.",
+            "en": "Conclude your drive at the Marina Amusement Park, where the vibrant lights and joyful atmosphere perfect the day, and grab a sweet treat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie hinauf zur alten Moschee von Çiftlikköy, um spirituelle Ruhe zu erleben, und dann nach Süden zur Küste.\n\nGenießen Sie den spritzigen Spaß im Mezitli Wasserpark, bevor Sie zu den spektakulären Ruinen von Soli-Pompeiopolis fahren.\n\nParken Sie nahe dem antiken Hafen, um über die reiche maritime Geschichte nachzudenken und den weiten Meerblick zu genießen.\n\nBeenden Sie Ihre Fahrt am Marina Vergnügungspark, wo die lebendigen Lichter und die fröhliche Atmosphäre den Tag abrunden.",
+        "hu": "Vezessen fel a Çiftlikköy Régi Mecsethez, hogy megtapasztalja a helyi spirituális nyugalmat, majd induljon dél felé a part felé.\n\nÉlvezze az izgalmas csobbanást a Mezitli Vízi Parkban, mielőtt átvezetne a látványos Soli-Pompeiopolis romjaihoz.\n\nParkoljon le az ősi kikötő közelében, hogy elmélkedjen a régió gazdag tengerészeti történelmén, és élvezze a tágas tengeri kilátást.\n\nFejezze be autós körútját a Marina Vidámparkban, ahol a vibráló fények és a vidám hangulat teszi teljessé a napot.",
+        "ro": "Conduceți până la Vechea Moschee Çiftlikköy pentru a experimenta liniștea spirituală locală, apoi îndreptați-vă spre sud, spre coastă.\n\nBucurați-vă de o baie plină de viață la Parcul Acvatic Mezitli înainte de a conduce către spectaculoasele ruine Soli-Pompeiopolis.\n\nParcați lângă vechiul port pentru a reflecta asupra bogatei istorii maritime a regiunii și bucurați-vă de priveliștile ample ale mării.\n\nÎncheiați-vă plimbarea cu mașina la Parcul de Distracții Marina, unde luminile vibrante și atmosfera veselă desăvârșesc ziua.",
+        "en": "Drive up to the Çiftlikköy Old Mosque to experience local spiritual tranquility, then head south towards the coast.\n\nEnjoy an exhilarating splash at the Mezitli Water Park before driving over to the spectacular Soli-Pompeiopolis ruins.\n\nPark near the ancient harbor to reflect on the region's rich maritime history and enjoy the expansive sea views.\n\nConclude your drive at the Marina Amusement Park, where the vibrant lights and joyful atmosphere perfect the day."
+      }
+    }
+  }
+}

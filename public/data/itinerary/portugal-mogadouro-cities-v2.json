@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-mogadouro-cities-v2",
+  "anchor": {
+    "name": "Mogadouro",
+    "coords": [
+      -6.7167,
+      41.3333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.44,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Municipal de Mogadouro",
+            "hu": "Piscina Municipal de Mogadouro",
+            "ro": "Piscina Municipal de Mogadouro",
+            "en": "Piscina Municipal de Mogadouro"
+          },
+          "coords": [
+            -6.718221,
+            41.334197
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie entspannt im städtischen Schwimmbad in den Tag und genießen Sie das klare Wasser als Erfrischung vor Ihrem Rundgang durch Mogadouro.",
+            "hu": "Kezdje a napot egy frissítő úszással a városi medencében, amely tökéletes ellazulást nyújt a mogadourói történelmi séta megkezdése előtt.",
+            "ro": "Începeți ziua relaxant la piscina municipală, bucurându-vă de apele răcoroase ca pregătire perfectă înainte de explorarea orașului Mogadouro.",
+            "en": "Start your day with a refreshing dip at the municipal pool, offering a relaxing transition before embarking on your historic walk through Mogadouro."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Mogadouro",
+            "hu": "Castelo de Mogadouro",
+            "ro": "Castelo de Mogadouro",
+            "en": "Castelo de Mogadouro"
+          },
+          "coords": [
+            -6.720319,
+            41.338266
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Festungsreste, die eine bedeutende Templergeschichte verbergen, und genießen Sie den atemberaubenden Panoramablick.",
+            "hu": "Fedezze fel a lenyűgöző középkori várromokat, amelyek mély templomos történelmet őriznek, és gyönyörködjön a környékre nyíló panorámában.",
+            "ro": "Explorați ruinele castelului medieval care ascund o istorie fascinantă a templierilor și oferiți-vă timp pentru a admira priveliștea panoramică.",
+            "en": "Explore the medieval castle ruins that conceal a deep Templar history, and make sure to climb to the highest point for a breathtaking panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Museu de Arqueologia de Mogadouro",
+            "hu": "Sala Museu de Arqueologia de Mogadouro",
+            "ro": "Sala Museu de Arqueologia de Mogadouro",
+            "en": "Sala Museu de Arqueologia de Mogadouro"
+          },
+          "coords": [
+            -6.715924,
+            41.340506
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Urgeschichte der Region ein und bewundern Sie antike Artefakte, die am besten mit einem Audioguide zu verstehen sind.",
+            "hu": "Merüljön el a régió lenyűgöző őstörténetében az ősi leleteket bemutató múzeumban, amelyet érdemes a helyi tárlatvezető magyarázataival felfedezni.",
+            "ro": "Scufundați-vă în preistoria fascinantă a regiunii admirând artefacte antice valoroase, cel mai bine explicate printr-un tur ghidat detaliat.",
+            "en": "Delve into the region's fascinating prehistory by examining valuable ancient artifacts, which are best appreciated with a local guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Menina a ler",
+            "hu": "Menina a ler",
+            "ro": "Menina a ler",
+            "en": "Menina a ler"
+          },
+          "coords": [
+            -6.711483,
+            41.342087
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten Statue, die die Liebe zur Literatur symbolisiert, und nutzen Sie das sanfte Licht für ein wunderschönes Erinnerungsfoto.",
+            "hu": "Álljon meg egy pillanatra ennél a kedves, olvasó lányt ábrázoló szobornál, és használja ki a lágy reggeli fényeket egy emlékezetes fényképhez.",
+            "ro": "Opriți-vă la această statuie fermecătoare care simbolizează dragostea pentru lectură și folosiți lumina blândă pentru o fotografie de neuitat.",
+            "en": "Pause at this charming statue symbolizing a love for literature, and take advantage of the soft morning light for a beautiful souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa das Artes e Ofícios",
+            "hu": "Casa das Artes e Ofícios",
+            "ro": "Casa das Artes e Ofícios",
+            "en": "Casa das Artes e Ofícios"
+          },
+          "coords": [
+            -6.713127,
+            41.3414
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Handwerkskunst von Trás-os-Montes in diesen Ausstellungsräumen und kaufen Sie ein authentisches, handgemachtes Souvenir.",
+            "hu": "Ismerje meg Trás-os-Montes hagyományos kézművességét ezen a kulturális helyszínen, és vásároljon egy autentikus, kézzel készített szuvenírt emlékbe.",
+            "ro": "Descoperiți meșteșugurile tradiționale din Trás-os-Montes în acest spațiu cultural și cumpărați un suvenir autentic realizat de artizani locali.",
+            "en": "Discover the traditional craftsmanship of Trás-os-Montes at this cultural hub, and pick up an authentic handmade souvenir to remember your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Rundgang beginnt erfrischend am städtischen Schwimmbad. Anschließend führt der Weg in das historische Herz von Mogadouro, wo das majestätische Castelo thront. Im Archäologischen Museum tauchen Sie tief in die Geschichte ein. Ein kurzer Stopp bei der Statue 'Menina a ler' leitet Sie weiter. Den Abschluss bildet die Casa das Artes, ein Zentrum der Kreativität.",
+        "hu": "A séta frissítő indulással kezdődik a városi medencénél. Ezt követően Mogadouro történelmi szívébe érünk, ahol a fenséges Castelo emelkedik. A Régészeti Múzeumban mélyen elmerülhet a helyi múltban. Egy rövid megálló az olvasó lány szobránál tökéletes átvezetés. A napot a Művészetek és Mesterségek Házában, a kreativitás központjában zárjuk.",
+        "ro": "Turul începe revigorant la piscina municipală. Traseul vă duce apoi în inima istorică a orașului Mogadouro, unde se înalță castelul maiestuos. La Muzeul de Arheologie vă veți scufunda adânc în istorie. O scurtă oprire la statuia fetei care citește adaugă un farmec aparte. Ziua se încheie la Casa Artelor, un adevărat centru al creativității locale.",
+        "en": "The walk starts refreshingly at the municipal pool. The route then leads into the historic heart of Mogadouro, where the majestic Castle stands tall. In the Archaeological Museum, you will dive deep into local history. A brief stop at the charming reading girl statue guides your way. The day concludes at the House of Arts, a vibrant center of creativity."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 6.27,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Menina a ler",
+            "hu": "Menina a ler",
+            "ro": "Menina a ler",
+            "en": "Menina a ler"
+          },
+          "coords": [
+            -6.711483,
+            41.342087
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten Statue, die die Liebe zur Literatur symbolisiert, und nutzen Sie das sanfte Licht für ein wunderschönes Erinnerungsfoto.",
+            "hu": "Álljon meg egy pillanatra ennél a kedves, olvasó lányt ábrázoló szobornál, és használja ki a lágy reggeli fényeket egy emlékezetes fényképhez.",
+            "ro": "Opriți-vă la această statuie fermecătoare care simbolizează dragostea pentru lectură și folosiți lumina blândă pentru o fotografie de neuitat.",
+            "en": "Pause at this charming statue symbolizing a love for literature, and take advantage of the soft morning light for a beautiful souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa das Artes e Ofícios",
+            "hu": "Casa das Artes e Ofícios",
+            "ro": "Casa das Artes e Ofícios",
+            "en": "Casa das Artes e Ofícios"
+          },
+          "coords": [
+            -6.713127,
+            41.3414
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Handwerkskunst von Trás-os-Montes in diesen Ausstellungsräumen und kaufen Sie ein authentisches, handgemachtes Souvenir.",
+            "hu": "Ismerje meg Trás-os-Montes hagyományos kézművességét ezen a kulturális helyszínen, és vásároljon egy autentikus, kézzel készített szuvenírt emlékbe.",
+            "ro": "Descoperiți meșteșugurile tradiționale din Trás-os-Montes în acest spațiu cultural și cumpărați un suvenir autentic realizat de artizani locali.",
+            "en": "Discover the traditional craftsmanship of Trás-os-Montes at this cultural hub, and pick up an authentic handmade souvenir to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Museu de Arqueologia de Mogadouro",
+            "hu": "Sala Museu de Arqueologia de Mogadouro",
+            "ro": "Sala Museu de Arqueologia de Mogadouro",
+            "en": "Sala Museu de Arqueologia de Mogadouro"
+          },
+          "coords": [
+            -6.715924,
+            41.340506
+          ],
+          "category": "museum",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Urgeschichte der Region ein und bewundern Sie antike Artefakte, die am besten mit einem Audioguide zu verstehen sind.",
+            "hu": "Merüljön el a régió lenyűgöző őstörténetében az ősi leleteket bemutató múzeumban, amelyet érdemes a helyi tárlatvezető magyarázataival felfedezni.",
+            "ro": "Scufundați-vă în preistoria fascinantă a regiunii admirând artefacte antice valoroase, cel mai bine explicate printr-un tur ghidat detaliat.",
+            "en": "Delve into the region's fascinating prehistory by examining valuable ancient artifacts, which are best appreciated with a local guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Mogadouro",
+            "hu": "Castelo de Mogadouro",
+            "ro": "Castelo de Mogadouro",
+            "en": "Castelo de Mogadouro"
+          },
+          "coords": [
+            -6.720319,
+            41.338266
+          ],
+          "category": "castle",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Festungsreste, die eine bedeutende Templergeschichte verbergen, und genießen Sie den atemberaubenden Panoramablick.",
+            "hu": "Fedezze fel a lenyűgöző középkori várromokat, amelyek mély templomos történelmet őriznek, és gyönyörködjön a környékre nyíló panorámában.",
+            "ro": "Explorați ruinele castelului medieval care ascund o istorie fascinantă a templierilor și oferiți-vă timp pentru a admira priveliștea panoramică.",
+            "en": "Explore the medieval castle ruins that conceal a deep Templar history, and make sure to climb to the highest point for a breathtaking panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotunda do lagar",
+            "hu": "Rotunda do lagar",
+            "ro": "Rotunda do lagar",
+            "en": "Rotunda do lagar"
+          },
+          "coords": [
+            -6.713743,
+            41.357488
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses Denkmal als Hommage an die Olivenölproduktion der Region und achten Sie auf die Details der alten Mühlsteine im Kreisverkehr.",
+            "hu": "Tekintse meg az olívaolaj-termelés előtt tisztelegő körforgalmi emlékművet, és figyelje meg a hagyományos malomkövek aprólékos részleteit.",
+            "ro": "Admirați acest monument din sensul giratoriu dedicat producției locale de ulei de măsline, observând detaliile vechilor pietre de moară tradiționale.",
+            "en": "Admire this roundabout monument dedicated to the region's olive oil heritage, taking note of the authentic antique millstones carefully displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta da Frágua",
+            "hu": "Porta da Frágua",
+            "ro": "Porta da Frágua",
+            "en": "Porta da Frágua"
+          },
+          "coords": [
+            -6.687754,
+            41.334089
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erleben Sie dieses natürliche Felsentor, das in der Vergangenheit als magischer Durchgang galt, und tragen Sie bequeme Schuhe für den felsigen Pfad.",
+            "hu": "Tapasztalja meg ennek a természetes sziklakapunak a varázsát, és mindenképpen viseljen kényelmes cipőt a sziklás, egyenetlen ösvény bejárásához.",
+            "ro": "Experimentați magia acestei porți naturale de stâncă spectaculoase și asigurați-vă că purtați încălțăminte confortabilă pentru traseul pietros.",
+            "en": "Experience the magic of this spectacular natural rock archway, ensuring you wear comfortable shoes to safely navigate the rugged, uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt entspannt im Zentrum nahe der kleinen Lesestatue und führt direkt zur Casa das Artes. Danach erkunden Sie das Archäologische Museum und die beeindruckenden Reste des Castelo. Die Route führt Sie anschließend aus dem Kern heraus zur Olivenöl-Rotunde. Am Nachmittag radeln Sie zur Porta da Frágua, einem magischen Naturdenkmal.",
+        "hu": "Kerékpártúrája a központban kezdődik az olvasó szobornál, majd a Művészetek Házához vezet. Ezt követően felfedezi a Régészeti Múzeumot és a Castelo lenyűgöző romjait. Az útvonal ezután kivezet az olívaolaj emlékműhöz. Kora délután elteker a Porta da Frágua különleges sziklaalakzatához, ahol megtapasztalhatja a természet igazi varázsát.",
+        "ro": "Turul pe bicicletă începe relaxant în centru, lângă statuia fetei, și duce spre Casa Artelor. Apoi explorați Muzeul de Arheologie și ruinele impresionante ale castelului. Traseul vă scoate apoi din centru spre monumentul uleiului de măsline. După-amiaza veți pedala până la Porta da Frágua, un monument natural cu adevărat magic și spectaculos.",
+        "en": "Your bike tour begins comfortably in the center near the reading statue, leading directly to the House of Arts. Next, you explore the Archaeological Museum and the impressive Castle ruins. The route then takes you out of the core to the olive oil roundabout. In the afternoon, you cycle out to Porta da Frágua, experiencing a truly magical natural rock monument."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelo de Mogadouro",
+            "hu": "Castelo de Mogadouro",
+            "ro": "Castelo de Mogadouro",
+            "en": "Castelo de Mogadouro"
+          },
+          "coords": [
+            -6.720319,
+            41.338266
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Festungsreste, die eine bedeutende Templergeschichte verbergen, und genießen Sie den atemberaubenden Panoramablick.",
+            "hu": "Fedezze fel a lenyűgöző középkori várromokat, amelyek mély templomos történelmet őriznek, és gyönyörködjön a környékre nyíló panorámában.",
+            "ro": "Explorați ruinele castelului medieval care ascund o istorie fascinantă a templierilor și oferiți-vă timp pentru a admira priveliștea panoramică.",
+            "en": "Explore the medieval castle ruins that conceal a deep Templar history, and make sure to climb to the highest point for a breathtaking panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira de Bastelo",
+            "hu": "Albufeira de Bastelo",
+            "ro": "Albufeira de Bastelo",
+            "en": "Albufeira de Bastelo"
+          },
+          "coords": [
+            -6.666234,
+            41.389871
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen Stausee, der sich hervorragend für eine entspannte Pause mit einem kleinen Picknick eignet.",
+            "hu": "Élvezze a békés hangulatot ezen az idilli víztározónál, amely tökéletes helyszínt biztosít egy csendes délutáni piknikhez és madármegfigyeléshez.",
+            "ro": "Bucurați-vă de liniștea acestui lac de acumulare pitoresc, fiind un loc absolut perfect pentru o pauză relaxantă și un picnic în aer liber.",
+            "en": "Enjoy the peaceful atmosphere of this scenic reservoir, providing a highly recommended setting for a quiet afternoon picnic and bird watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta da Frágua",
+            "hu": "Porta da Frágua",
+            "ro": "Porta da Frágua",
+            "en": "Porta da Frágua"
+          },
+          "coords": [
+            -6.687754,
+            41.334089
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Erleben Sie dieses natürliche Felsentor, das in der Vergangenheit als magischer Durchgang galt, und tragen Sie bequeme Schuhe für den felsigen Pfad.",
+            "hu": "Tapasztalja meg ennek a természetes sziklakapunak a varázsát, és mindenképpen viseljen kényelmes cipőt a sziklás, egyenetlen ösvény bejárásához.",
+            "ro": "Experimentați magia acestei porți naturale de stâncă spectaculoase și asigurați-vă că purtați încălțăminte confortabilă pentru traseul pietros.",
+            "en": "Experience the magic of this spectacular natural rock archway, ensuring you wear comfortable shoes to safely navigate the rugged, uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Figueira",
+            "hu": "Figueira",
+            "ro": "Figueira",
+            "en": "Figueira"
+          },
+          "coords": [
+            -6.732529,
+            41.317307
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Naturlandschaft abseits der Touristenpfade und atmen Sie die frische, reine Luft der unberührten portugiesischen Bergwelt.",
+            "hu": "Fedezze fel ezt az eldugott természeti csodát távol a zajtól, és élvezze a friss, tiszta levegőt a festői portugál hegyvidéki táj ölelésében.",
+            "ro": "Explorați acest peisaj natural fascinant departe de mulțimi și respirați aerul proaspăt al munților portughezi într-o atmosferă absolut liniștită.",
+            "en": "Explore this fascinating off-the-beaten-path natural landscape, breathing in the fresh air of the pristine Portuguese mountainous countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço de São Cristovão III",
+            "hu": "Baloiço de São Cristovão III",
+            "ro": "Baloiço de São Cristovão III",
+            "en": "Baloiço de São Cristovão III"
+          },
+          "coords": [
+            -6.734556,
+            41.316306
+          ],
+          "category": "landmark",
+          "arrive_at": "14:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schwingen Sie auf dieser berühmten Schaukel über das Tal und fangen Sie den perfekten Moment im goldenen Licht der späten Nachmittagssonne ein.",
+            "hu": "Hintázzon ezen a híres panorámahintán a völgy felett, és örökítse meg a tökéletes pillanatot a késő délutáni naplemente aranyfényeiben.",
+            "ro": "Legănați-vă deasupra văii pe acest leagăn faimos și asigurați-vă că surprindeți momentul perfect în lumina aurie a soarelui de după-amiază târzie.",
+            "en": "Swing high above the breathtaking valley on this famous viewpoint swing, capturing the absolute perfect moment during the golden late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Serra de Figueira",
+            "hu": "Serra de Figueira",
+            "ro": "Serra de Figueira",
+            "en": "Serra de Figueira"
+          },
+          "coords": [
+            -6.731036,
+            41.317661
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Fahrt durch dieses raue Gebirge und bewundern Sie die unendliche Weite der Natur bei einem spektakulären Sonnenuntergang.",
+            "hu": "Zárja a napot ennek a vadregényes hegységnek a felfedezésével, és gyönyörködjön a természet végtelen szépségében egy látványos naplemente során.",
+            "ro": "Încheiați ziua explorând acești munți sălbatici superbi și lăsați-vă fascinați de frumusețea infinită a naturii în timpul unui apus de soare spectaculos.",
+            "en": "Conclude your day by exploring this rugged mountain range, admiring the infinite beauty of pristine nature during a spectacular, colorful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour startet historisch am Castelo von Mogadouro. Eine kurze Fahrt bringt Sie in die friedliche Natur der Albufeira de Bastelo. Später bewundern Sie die imposante Porta da Frágua, bevor Sie in die Berge fahren. In der Region Figueira erwartet Sie wilde Natur und als Krönung schwingen Sie auf dem berühmten Baloiço hoch über dem majestätischen Tal.",
+        "hu": "Az autós túra a mogadourói Castelo felfedezésével indul. Egy rövid utazás után megérkezik a békés Albufeira de Bastelo víztározóhoz. Később megcsodálhatja a lenyűgöző Porta da Frágua sziklakaput, mielőtt a hegyekbe hajtana. A Figueira régió vad természete várja, a csúcspont pedig a híres hegyi hinta, amelyről fenséges panoráma nyílik a völgyre.",
+        "ro": "Excursia cu mașina începe istoric la Castelul Mogadouro. O scurtă călătorie vă duce în natura pașnică de la Albufeira de Bastelo. Mai târziu admirați impresionanta Porta da Frágua înainte de a conduce spre munți. În regiunea Figueira vă așteaptă o natură sălbatică, culminând cu leagănul panoramic de unde veți admira întreaga vale maiestuoasă.",
+        "en": "The road trip kicks off historically at the Castle of Mogadouro. A brief drive transports you to the peaceful surroundings of Albufeira de Bastelo. Later, you admire the imposing Porta da Frágua before driving into the mountains. In the Figueira region, wild nature awaits, culminating in a swing high above the valley for a spectacular panoramic conclusion."
+      }
+    }
+  }
+}

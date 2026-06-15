@@ -1,0 +1,405 @@
+{
+  "city_id": "sallanches",
+  "anchor": {
+    "name": "Sallanches",
+    "coords": [
+      6.6319,
+      45.9364
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Sallanches",
+            "hu": "Sallanches Városháza",
+            "ro": "Primăria din Sallanches",
+            "en": "Town Hall of Sallanches"
+          },
+          "coords": [
+            6.630617,
+            45.936645
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Sallanches, das als zentraler Orientierungspunkt dient, und beginnen Sie Ihren Rundgang am besten hier.",
+            "hu": "Csodálja meg Sallanches városházának elegáns építészetét, amely központi tájékozódási pontként szolgál, és innen érdemes elindítani a városi sétát.",
+            "ro": "Admirați arhitectura elegantă a primăriei din Sallanches, care servește drept punct de reper central, de unde este ideal să vă începeți plimbarea.",
+            "en": "Admire the elegant architecture of the Sallanches town hall, which serves as a central landmark and is the perfect starting point for your city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Jacques",
+            "hu": "Saint-Jacques Társaskáptalani Templom",
+            "ro": "Biserica Colegială Saint-Jacques",
+            "en": "Saint-Jacques Collegiate Church"
+          },
+          "coords": [
+            6.626183,
+            45.93705
+          ],
+          "category": "religious",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Stiftskirche mit ihren prachtvollen Altären und achten Sie auf die meisterhaften Holzschnitzereien im Innenraum.",
+            "hu": "Látogassa meg ezt a lenyűgöző társaskáptalani templomot, amely gyönyörű oltárairól ismert, és figyelje meg a mesteri fafaragásokat a belső térben.",
+            "ro": "Vizitați această biserică impresionantă cu altarele sale magnifice și acordați atenție sculpturilor din lemn de o măiestrie deosebită din interior.",
+            "en": "Visit this impressive collegiate church, known for its magnificent altars, and take a moment to appreciate the masterful wood carvings in the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Kápolna",
+            "ro": "Capela Imaculatei Concepții",
+            "en": "Chapelle de l'Immaculée-Conception"
+          },
+          "coords": [
+            6.623108,
+            45.935935
+          ],
+          "category": "religious",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, aber feine Kapelle, die einen Moment der Ruhe bietet, und beachten Sie die historischen Fresken an den Seitenwänden.",
+            "hu": "Fedezze fel ezt a kicsi, de annál szebb kápolnát, amely békés menedéket nyújt, és vegye szemügyre a történelmi freskókat az oldalfalakon.",
+            "ro": "Descoperiți această capelă mică, dar fermecătoare, care oferă un moment de liniște, și observați frescele istorice de pe pereții laterali.",
+            "en": "Discover this small but lovely chapel that offers a peaceful retreat, and take note of the beautiful historical frescoes adorning the side walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rubins - Alpenobservatorium",
+            "hu": "Rubins Kastély - Alpesi Obszervatórium",
+            "ro": "Castelul Rubins - Observatorul Alpilor",
+            "en": "Château de Rubins - Observatoire des Alpes"
+          },
+          "coords": [
+            6.624597,
+            45.93552
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Alpenmuseum im historischen Schloss, das die Natur der Berge interaktiv erklärt, wofür Sie sich unbedingt genug Zeit nehmen sollten.",
+            "hu": "Fedezze fel ezt a lenyűgöző alpesi múzeumot a történelmi kastélyban, amely interaktívan mutatja be a hegyvidéki természetet, így érdemes rászánni az időt.",
+            "ro": "Explorați acest muzeu alpin fascinant din castelul istoric, care explică interactiv natura montană, așa că asigurați-vă că aveți suficient timp.",
+            "en": "Explore this fascinating Alpine museum in the historic castle, which interactively explains the mountain environment, so make sure to allow enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Léon Curral",
+            "hu": "Léon Curral Kulturális Központ",
+            "ro": "Centrul Cultural Léon Curral",
+            "en": "Centre Culturel Léon Curral"
+          },
+          "coords": [
+            6.640327,
+            45.932988
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz der Stadt in diesem modernen Zentrum, und prüfen Sie vorab online, welche interessanten Ausstellungen oder Aufführungen stattfinden.",
+            "hu": "Tapasztalja meg a város kulturális szívét ebben a modern központban, és érdemes előre online ellenőrizni, milyen érdekes kiállítások vagy előadások zajlanak éppen.",
+            "ro": "Experimentați inima culturală a orașului în acest centru modern și verificați online în prealabil ce expoziții sau spectacole interesante au loc.",
+            "en": "Experience the cultural heart of the city in this modern center, and check online beforehand to see what interesting exhibitions or performances are scheduled."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Sallanches am malerischen Rathaus, bevor Sie die prächtige Stiftskirche Saint-Jacques besuchen. Mittags tauchen Sie im Château de Rubins tief in die alpenländische Naturgeschichte ein. Am Nachmittag schlendern Sie durch die Gassen und lassen die Eindrücke auf sich wirken. Gegen Abend erreichen Sie das Centre Culturel, wo der Tag kulturell ausklingt.",
+        "hu": "A reggel Sallanches szívében, a festői városházánál indul, mielőtt meglátogatná a lenyűgöző Saint-Jacques templomot. Délben a Château de Rubins kiállításain merülhet el az alpesi természet történetében. Délután sétáljon az utcákon, és hagyja, hogy a város hangulata magával ragadja. Kora este a kulturális központban fejezheti be ezt a tartalmas és nyugodt gyalogos túrát.",
+        "ro": "Dimineața începe în inima orașului Sallanches la primăria pitorească, înainte de a vizita magnifica biserică Saint-Jacques. La prânz, vă scufundați în istoria naturală alpină la Château de Rubins. După-amiaza, plimbați-vă pe străzi și lăsați atmosfera să vă captiveze. Spre seară, ajungeți la centrul cultural, unde ziua se încheie într-o notă artistică și relaxantă.",
+        "en": "The morning begins in the heart of Sallanches at the picturesque town hall before visiting the magnificent Saint-Jacques Collegiate Church. At midday, dive into Alpine natural history at the Château de Rubins. In the afternoon, stroll through the charming streets and soak up the local atmosphere. By evening, arrive at the cultural center, wrapping up your day with artistic flair."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Sallanches",
+            "hu": "Sallanches Városháza",
+            "ro": "Primăria din Sallanches",
+            "en": "Town Hall of Sallanches"
+          },
+          "coords": [
+            6.630617,
+            45.936645
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Sallanches, das als zentraler Orientierungspunkt dient, und beginnen Sie Ihren Rundgang am besten hier.",
+            "hu": "Csodálja meg Sallanches városházának elegáns építészetét, amely központi tájékozódási pontként szolgál, és innen érdemes elindítani a városi sétát.",
+            "ro": "Admirați arhitectura elegantă a primăriei din Sallanches, care servește drept punct de reper central, de unde este ideal să vă începeți plimbarea.",
+            "en": "Admire the elegant architecture of the Sallanches town hall, which serves as a central landmark and is the perfect starting point for your city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Jacques",
+            "hu": "Saint-Jacques Társaskáptalani Templom",
+            "ro": "Biserica Colegială Saint-Jacques",
+            "en": "Saint-Jacques Collegiate Church"
+          },
+          "coords": [
+            6.626183,
+            45.93705
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Stiftskirche mit ihren prachtvollen Altären und achten Sie auf die meisterhaften Holzschnitzereien im Innenraum.",
+            "hu": "Látogassa meg ezt a lenyűgöző társaskáptalani templomot, amely gyönyörű oltárairól ismert, és figyelje meg a mesteri fafaragásokat a belső térben.",
+            "ro": "Vizitați această biserică impresionantă cu altarele sale magnifice și acordați atenție sculpturilor din lemn de o măiestrie deosebită din interior.",
+            "en": "Visit this impressive collegiate church, known for its magnificent altars, and take a moment to appreciate the masterful wood carvings in the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rubins - Alpenobservatorium",
+            "hu": "Rubins Kastély - Alpesi Obszervatórium",
+            "ro": "Castelul Rubins - Observatorul Alpilor",
+            "en": "Château de Rubins - Observatoire des Alpes"
+          },
+          "coords": [
+            6.624597,
+            45.93552
+          ],
+          "category": "museum",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Alpenmuseum im historischen Schloss, das die Natur der Berge interaktiv erklärt, wofür Sie sich unbedingt genug Zeit nehmen sollten.",
+            "hu": "Fedezze fel ezt a lenyűgöző alpesi múzeumot a történelmi kastélyban, amely interaktívan mutatja be a hegyvidéki természetet, így érdemes rászánni az időt.",
+            "ro": "Explorați acest muzeu alpin fascinant din castelul istoric, care explică interactiv natura montană, așa că asigurați-vă că aveți suficient timp.",
+            "en": "Explore this fascinating Alpine museum in the historic castle, which interactively explains the mountain environment, so make sure to allow enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.642461,
+            45.94104
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser Kirche, die einen ruhigen Kontrast zum Stadtzentrum bietet und ideal für eine kurze Rast ist.",
+            "hu": "Csodálja meg ennek a templomnak az egyszerű, mégis méltóságteljes építészetét, amely nyugodt kontrasztot nyújt a városközponthoz képest, és ideális egy rövid pihenőre.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei biserici, care oferă un contrast liniștit față de centrul orașului și este ideală pentru un scurt popas.",
+            "en": "Admire the simple yet dignified architecture of this church, which offers a quiet contrast to the city center and is ideal for a short, peaceful rest."
+          }
+        },
+        {
+          "name": {
+            "de": "See der Inseln",
+            "hu": "Szigetek Tava",
+            "ro": "Lacul Insulelor",
+            "en": "Lake of the Isles"
+          },
+          "coords": [
+            6.649404,
+            45.924731
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Seenlandschaft mit Blick auf den Mont Blanc, wo Sie hervorragend spazieren gehen oder ein entspanntes Picknick am Ufer machen können.",
+            "hu": "Élvezze az idilli tóvidéket a Mont Blanc-ra nyíló kilátással, ahol kiválóan lehet sétálni, vagy egy pihentető pikniket tartani a vízparton.",
+            "ro": "Bucurați-vă de peisajul lacustru idilic cu vedere la Mont Blanc, unde puteți face o plimbare excelentă sau un picnic relaxant pe malul apei.",
+            "en": "Enjoy the idyllic lake scenery with a view of Mont Blanc, where you can take an excellent walk or have a relaxing picnic on the beautiful shores."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie gemütlich am Rathaus und radeln Sie zur historischen Stiftskirche. Gegen Mittag erkunden Sie das faszinierende Alpenmuseum im Château de Rubins. Nachmittags treten Sie in die Pedale und entdecken die ruhigere Kirche Saint-Martin abseits des Trubels. Der Tag endet entspannt an den malerischen Seen, wo sich das Mont-Blanc-Massiv im stillen Wasser spiegelt.",
+        "hu": "Induljon kényelmesen a városházától, és kerékpározzon a történelmi káptalani templomhoz. Dél körül fedezze fel a lenyűgöző alpesi múzeumot a Château de Rubins-ban. Délután tekerjen el a csendesebb Saint-Martin templomhoz, távolabb a nyüzsgéstől. A nap a festői tavaknál ér véget, ahol a Mont Blanc lenyűgöző masszívuma tükröződik a nyugodt vízfelszínen.",
+        "ro": "Începeți confortabil la primărie și pedalați până la biserica istorică. În jurul prânzului, explorați fascinantul muzeu alpin din Château de Rubins. După-amiaza, mergeți cu bicicleta spre biserica mai liniștită Saint-Martin. Ziua se încheie relaxant la lacurile pitorești, unde masivul Mont Blanc se reflectă impresionant în apele liniștite de la marginea orașului.",
+        "en": "Start comfortably at the town hall and pedal to the historic collegiate church. Around midday, explore the fascinating Alpine museum in the Château de Rubins. In the afternoon, cycle over to the quieter Saint-Martin Church away from the bustle. The day ends relaxingly at the picturesque lakes, where the Mont Blanc massif reflects beautifully in the still waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 9.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Sallanches",
+            "hu": "Sallanches Városháza",
+            "ro": "Primăria din Sallanches",
+            "en": "Town Hall of Sallanches"
+          },
+          "coords": [
+            6.630617,
+            45.936645
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Sallanches, das als zentraler Orientierungspunkt dient, und beginnen Sie Ihren Rundgang am besten hier.",
+            "hu": "Csodálja meg Sallanches városházának elegáns építészetét, amely központi tájékozódási pontként szolgál, és innen érdemes elindítani a városi sétát.",
+            "ro": "Admirați arhitectura elegantă a primăriei din Sallanches, care servește drept punct de reper central, de unde este ideal să vă începeți plimbarea.",
+            "en": "Admire the elegant architecture of the Sallanches town hall, which serves as a central landmark and is the perfect starting point for your city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Jacques",
+            "hu": "Saint-Jacques Társaskáptalani Templom",
+            "ro": "Biserica Colegială Saint-Jacques",
+            "en": "Saint-Jacques Collegiate Church"
+          },
+          "coords": [
+            6.626183,
+            45.93705
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Stiftskirche mit ihren prachtvollen Altären und achten Sie auf die meisterhaften Holzschnitzereien im Innenraum.",
+            "hu": "Látogassa meg ezt a lenyűgöző társaskáptalani templomot, amely gyönyörű oltárairól ismert, és figyelje meg a mesteri fafaragásokat a belső térben.",
+            "ro": "Vizitați această biserică impresionantă cu altarele sale magnifice și acordați atenție sculpturilor din lemn de o măiestrie deosebită din interior.",
+            "en": "Visit this impressive collegiate church, known for its magnificent altars, and take a moment to appreciate the masterful wood carvings in the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rubins - Alpenobservatorium",
+            "hu": "Rubins Kastély - Alpesi Obszervatórium",
+            "ro": "Castelul Rubins - Observatorul Alpilor",
+            "en": "Château de Rubins - Observatoire des Alpes"
+          },
+          "coords": [
+            6.624597,
+            45.93552
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Alpenmuseum im historischen Schloss, das die Natur der Berge interaktiv erklärt, wofür Sie sich unbedingt genug Zeit nehmen sollten.",
+            "hu": "Fedezze fel ezt a lenyűgöző alpesi múzeumot a történelmi kastélyban, amely interaktívan mutatja be a hegyvidéki természetet, így érdemes rászánni az időt.",
+            "ro": "Explorați acest muzeu alpin fascinant din castelul istoric, care explică interactiv natura montană, așa că asigurați-vă că aveți suficient timp.",
+            "en": "Explore this fascinating Alpine museum in the historic castle, which interactively explains the mountain environment, so make sure to allow enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "See der Inseln",
+            "hu": "Szigetek Tava",
+            "ro": "Lacul Insulelor",
+            "en": "Lake of the Isles"
+          },
+          "coords": [
+            6.649404,
+            45.924731
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Seenlandschaft mit Blick auf den Mont Blanc, wo Sie hervorragend spazieren gehen oder ein entspanntes Picknick am Ufer machen können.",
+            "hu": "Élvezze az idilli tóvidéket a Mont Blanc-ra nyíló kilátással, ahol kiválóan lehet sétálni, vagy egy pihentető pikniket tartani a vízparton.",
+            "ro": "Bucurați-vă de peisajul lacustru idilic cu vedere la Mont Blanc, unde puteți face o plimbare excelentă sau un picnic relaxant pe malul apei.",
+            "en": "Enjoy the idyllic lake scenery with a view of Mont Blanc, where you can take an excellent walk or have a relaxing picnic on the beautiful shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Arpenaz Wasserfall",
+            "hu": "Arpenaz Vízesés",
+            "ro": "Cascada Arpenaz",
+            "en": "Arpenaz Waterfall"
+          },
+          "coords": [
+            6.641494,
+            45.976095
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von diesem spektakulären, über 270 Meter in die Tiefe stürzenden Wasserfall beeindrucken, dessen sprühende Gischt an heißen Tagen für herrliche Erfrischung sorgt.",
+            "hu": "Hagyja, hogy lenyűgözze ez a látványos, több mint 270 méter magasból lezúduló vízesés, amelynek permete forró napokon csodálatos felfrissülést nyújt.",
+            "ro": "Lăsați-vă impresionați de această cascadă spectaculoasă, care cade de la peste 270 de metri, a cărei ceață oferă o răcorire minunată în zilele toride.",
+            "en": "Be impressed by this spectacular waterfall plunging over 270 meters, whose misty spray provides wonderful refreshment on a hot summer day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour startet im Zentrum mit dem Rathaus und der beeindruckenden Stiftskirche. Zur Mittagszeit tauchen Sie im Château de Rubins in die spannende Bergwelt der Alpen ein. Am Nachmittag fahren Sie gemütlich zu den Seen, um die herrliche Aussicht auf die Gipfel zu genießen. Das große Finale am späten Nachmittag bildet der majestätische Arpenaz-Wasserfall in der Natur.",
+        "hu": "Az autós túra a központban indul a városházával és a lenyűgöző templommal. Délben a Château de Rubins-ban merülhet el az Alpok izgalmas hegyvidéki világában. Délután kényelmesen elautózhat a tavakhoz, hogy élvezze a csodálatos hegyi panorámát. A késő délutáni nagy finálét pedig a természet lágy ölén található fenséges Arpenaz vízesés jelenti.",
+        "ro": "Turul cu mașina începe în centru cu primăria și biserica impresionantă. La prânz, vă cufundați în lumea montană la Château de Rubins. După-amiaza, conduceți confortabil spre lacuri pentru a vă bucura de priveliștile magnifice ale vârfurilor. Marele final din a doua parte a zilei este cascada maiestuoasă Arpenaz, care vă așteaptă în mijlocul naturii neîmblânzite.",
+        "en": "Your car tour starts in the center with the town hall and the impressive collegiate church. At midday, immerse yourself in the Alpine mountain world at the Château de Rubins. In the afternoon, take a scenic drive to the lakes to enjoy the magnificent views of the snowy peaks. The grand finale later in the day is the majestic Arpenaz Waterfall amidst pure nature."
+      }
+    }
+  }
+}

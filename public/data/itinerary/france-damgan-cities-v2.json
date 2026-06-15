@@ -1,0 +1,497 @@
+{
+  "city_id": "france-damgan-cities-v2",
+  "anchor": {
+    "name": "Damgan",
+    "coords": [
+      -2.5788,
+      47.5199
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "hu": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "ro": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "en": "Église Notre-Dame-de-Bonne-Nouvelle"
+          },
+          "coords": [
+            -2.578602,
+            47.520406
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser charmanten Kirche und werfen Sie unbedingt einen Blick auf die prächtigen Buntglasfenster, wenn das Nachmittagslicht einfällt.",
+            "hu": "Csodálja meg a bájos templom letisztult, elegáns építészetét, és mindenképpen figyelje meg a csodálatos ólomüveg ablakokat, amelyeken át gyönyörűen szűrődik be a napfény.",
+            "ro": "Admirați arhitectura simplă a acestei biserici fermecătoare și asigurați-vă că priviți superbele vitralii atunci când lumina soarelui de după-amiază le străpunge culorile.",
+            "en": "Admire the elegantly simple architecture of this charming church, and be sure to look closely at the stunning stained glass windows when the afternoon sunlight streams through."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.588799,
+            47.517317
+          ],
+          "category": "recreational",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand an diesem beliebten Hauptstrand von Damgan und bringen Sie am besten einen eigenen Sonnenschirm mit, um an warmen Nachmittagen Schatten zu haben.",
+            "hu": "Élvezze a finom homokot ezen a népszerű fő strandon, és mindenképpen hozzon magával napernyőt, hogy a forró nyári délutánokon is árnyékban, kellemesen tudjon pihenni a parton.",
+            "ro": "Bucurați-vă de nisipul fin de pe această plajă principală populară și aduceți-vă propria umbrelă de soare pentru a avea parte de umbră relaxantă în după-amiezile călduroase.",
+            "en": "Enjoy the pristine fine sand at this incredibly popular main beach, and remember to bring your own sun umbrella to secure a perfectly shaded spot on warm summer afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Landrezac",
+            "hu": "Plage de Landrezac",
+            "ro": "Plage de Landrezac",
+            "en": "Plage de Landrezac"
+          },
+          "coords": [
+            -2.566059,
+            47.515097
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Dieser Strandabschnitt bietet viel Ruhe für entspannte Spaziergänge, achten Sie jedoch auf die Gezeiten, um den besten Moment für ein erfrischendes Bad im Meer abzuwarten.",
+            "hu": "Ez a partszakasz tökéletes nyugalmat kínál a pihentető sétákhoz, de érdemes figyelni az árapály szintjét, hogy a legalkalmasabb pillanatban élvezhesse a frissítő fürdőzést.",
+            "ro": "Această porțiune de plajă oferă liniște pentru plimbări relaxante, dar fiți atenți la maree pentru a alege cel mai bun moment pentru o baie revigorantă în apele oceanului.",
+            "en": "This stretch of beach provides excellent tranquility for relaxing walks, but be sure to check the local tide times to catch the absolute best moment for a refreshing ocean dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Dune de Kervoyal",
+            "hu": "Dune de Kervoyal",
+            "ro": "Dune de Kervoyal",
+            "en": "Dune de Kervoyal"
+          },
+          "coords": [
+            -2.561585,
+            47.514349
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Naturschutzgebiet auf den markierten Wegen und nehmen Sie ein Fernglas mit, um die vielfältige lokale Vogelwelt aus der Ferne zu beobachten.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetvédelmi területet a kijelölt ösvényeken, és vigyen magával távcsövet a változatos helyi madárvilág tisztes távolból történő megfigyeléséhez.",
+            "ro": "Explorați această rezervație naturală fascinantă folosind traseele marcate și luați un binoclu cu dumneavoastră pentru a observa de la distanță bogata faună de păsări locale.",
+            "en": "Explore this fascinating natural reserve by staying carefully on the marked paths, and bring binoculars to observe the diverse array of local birdlife from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Paix",
+            "hu": "Chapelle Notre-Dame-de-la-Paix",
+            "ro": "Chapelle Notre-Dame-de-la-Paix",
+            "en": "Chapelle Notre-Dame-de-la-Paix"
+          },
+          "coords": [
+            -2.555472,
+            47.517007
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese malerische Kapelle ist ein Ort tiefer Stille in Meeresnähe, den Sie am besten frühmorgens besuchen, um die friedliche Atmosphäre ohne große Touristenmassen zu erleben.",
+            "hu": "Ez a festői kápolna a tenger közelében a mély csend szigete, amelyet érdemes a kora reggeli órákban felkeresni, hogy elkerülje a tömeget és átélje a hely békés atmoszféráját.",
+            "ro": "Această capelă pitorească de lângă ocean este un refugiu de liniște, pe care este ideal să-l vizitați dimineața devreme pentru a vă bucura de o atmosferă pașnică, fără aglomerație.",
+            "en": "This picturesque coastal chapel is a beautiful haven of silence, ideally visited early in the morning so you can fully appreciate its profoundly peaceful atmosphere without crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen von Damgan mit einem Besuch der zentralen Kirche, bevor wir an den weitläufigen Hauptstrand spazieren. Am Mittag erkunden wir den Plage de Landrezac, ein ruhiges Küstenidyll. Nachmittags führt der Weg zu den beeindruckenden Sanddünen von Kervoyal und der pittoresken Kapelle. Ein friedlicher Abendspaziergang durch die charmanten Gassen rundet dieses Erlebnis perfekt ab.",
+        "hu": "A nap Damgan szívében indul, a központi templom megtekintésével, majd a tágas fő strand felé sétálunk. Délben a csendes Plage de Landrezac partjainál frissülhetünk fel a sós óceáni levegőn. Délután a kervoyali homokdűnék lenyűgöző látványa és a festői kis kápolna nyújt felejthetetlen élményt. Kellemes, békés esti séta zárja a napot, felfedezve az apró utcák nyugodt hangulatát és szépségét.",
+        "ro": "Ziua începe în inima orașului Damgan cu o vizită la biserica centrală, urmată de o plimbare spre vasta plajă principală. La amiază explorăm coasta liniștită de la Plage de Landrezac. După-amiaza ne poartă printre dunele spectaculoase din Kervoyal și ne îndrumă pașii către o capelă pitorească cu vedere fermecătoare. O plimbare de seară pe străduțele liniștite încheie perfect această experiență.",
+        "en": "The day begins in the heart of Damgan with a visit to the central church, before strolling down to the expansive main beach. Midday invites a refreshing break on the tranquil shores of Plage de Landrezac. In the afternoon, explore the stunning Kervoyal sand dunes and discover the picturesque coastal chapel. A peaceful evening walk through the charming local streets perfectly completes the journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Saint-Guérin",
+            "hu": "Plage de Saint-Guérin",
+            "ro": "Plage de Saint-Guérin",
+            "en": "Plage de Saint-Guérin"
+          },
+          "coords": [
+            -2.606694,
+            47.513179
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser westliche Strand ist ideal für Familien mit flachem Wasser, aber packen Sie unbedingt Badeschuhe ein, da sich hier oftmals kleine Steine unter dem weichen Sand verbergen.",
+            "hu": "Ez a nyugati strand sekély vizével ideális választás családoknak, de feltétlenül csomagoljon fürdőcipőt, mivel a puha homok alatt sok helyen apró, éles kövek bújhatnak meg.",
+            "ro": "Această plajă vestică cu ape puțin adânci este perfectă pentru familii, însă purtați încălțăminte de apă deoarece adesea se ascund pietre ascuțite sub stratul de nisip fin.",
+            "en": "This western beach features shallow waters making it ideal for families, but pack some water shoes as small sharp stones are frequently hidden just beneath the soft sandy floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.588799,
+            47.517317
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand an diesem beliebten Hauptstrand von Damgan und bringen Sie am besten einen eigenen Sonnenschirm mit, um an warmen Nachmittagen Schatten zu haben.",
+            "hu": "Élvezze a finom homokot ezen a népszerű fő strandon, és mindenképpen hozzon magával napernyőt, hogy a forró nyári délutánokon is árnyékban, kellemesen tudjon pihenni a parton.",
+            "ro": "Bucurați-vă de nisipul fin de pe această plajă principală populară și aduceți-vă propria umbrelă de soare pentru a avea parte de umbră relaxantă în după-amiezile călduroase.",
+            "en": "Enjoy the pristine fine sand at this incredibly popular main beach, and remember to bring your own sun umbrella to secure a perfectly shaded spot on warm summer afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "hu": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "ro": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "en": "Église Notre-Dame-de-Bonne-Nouvelle"
+          },
+          "coords": [
+            -2.578602,
+            47.520406
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser charmanten Kirche und werfen Sie unbedingt einen Blick auf die prächtigen Buntglasfenster, wenn das Nachmittagslicht einfällt.",
+            "hu": "Csodálja meg a bájos templom letisztult, elegáns építészetét, és mindenképpen figyelje meg a csodálatos ólomüveg ablakokat, amelyeken át gyönyörűen szűrődik be a napfény.",
+            "ro": "Admirați arhitectura simplă a acestei biserici fermecătoare și asigurați-vă că priviți superbele vitralii atunci când lumina soarelui de după-amiază le străpunge culorile.",
+            "en": "Admire the elegantly simple architecture of this charming church, and be sure to look closely at the stunning stained glass windows when the afternoon sunlight streams through."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Landrezac",
+            "hu": "Plage de Landrezac",
+            "ro": "Plage de Landrezac",
+            "en": "Plage de Landrezac"
+          },
+          "coords": [
+            -2.566059,
+            47.515097
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieser Strandabschnitt bietet viel Ruhe für entspannte Spaziergänge, achten Sie jedoch auf die Gezeiten, um den besten Moment für ein erfrischendes Bad im Meer abzuwarten.",
+            "hu": "Ez a partszakasz tökéletes nyugalmat kínál a pihentető sétákhoz, de érdemes figyelni az árapály szintjét, hogy a legalkalmasabb pillanatban élvezhesse a frissítő fürdőzést.",
+            "ro": "Această porțiune de plajă oferă liniște pentru plimbări relaxante, dar fiți atenți la maree pentru a alege cel mai bun moment pentru o baie revigorantă în apele oceanului.",
+            "en": "This stretch of beach provides excellent tranquility for relaxing walks, but be sure to check the local tide times to catch the absolute best moment for a refreshing ocean dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Dune de Kervoyal",
+            "hu": "Dune de Kervoyal",
+            "ro": "Dune de Kervoyal",
+            "en": "Dune de Kervoyal"
+          },
+          "coords": [
+            -2.561585,
+            47.514349
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Naturschutzgebiet auf den markierten Wegen und nehmen Sie ein Fernglas mit, um die vielfältige lokale Vogelwelt aus der Ferne zu beobachten.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetvédelmi területet a kijelölt ösvényeken, és vigyen magával távcsövet a változatos helyi madárvilág tisztes távolból történő megfigyeléséhez.",
+            "ro": "Explorați această rezervație naturală fascinantă folosind traseele marcate și luați un binoclu cu dumneavoastră pentru a observa de la distanță bogata faună de păsări locale.",
+            "en": "Explore this fascinating natural reserve by staying carefully on the marked paths, and bring binoculars to observe the diverse array of local birdlife from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage de Kervoyal",
+            "hu": "Grande Plage de Kervoyal",
+            "ro": "Grande Plage de Kervoyal",
+            "en": "Grande Plage de Kervoyal"
+          },
+          "coords": [
+            -2.556541,
+            47.512387
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die bretonische Küste an diesem weitläufigen Strand, der sich ideal für ausgedehnte Spaziergänge bei Ebbe eignet, wenn der Sand schön fest ist.",
+            "hu": "Élvezze a lenyűgöző kilátást a breton partvidékre erről a hatalmas strandról, amely apály idején, amikor a homok kemény, különösen kiváló választás egy hosszú, frissítő sétára.",
+            "ro": "Bucurați-vă de vederea panoramică asupra coastei bretone de pe această plajă imensă, ideală pentru plimbări lungi la reflux, atunci când nisipul bătătorit este perfect pentru pași.",
+            "en": "Take in the incredibly wide views of the stunning Breton coast from this expansive beach, which is especially perfect for long scenic walks at low tide when the sand is firmly packed."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Kervoyal",
+            "hu": "Moulin de Kervoyal",
+            "ro": "Moulin de Kervoyal",
+            "en": "Moulin de Kervoyal"
+          },
+          "coords": [
+            -2.555872,
+            47.530445
+          ],
+          "category": "landmark",
+          "arrive_at": "16:38",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dieses charmante Mühlen-Wahrzeichen bietet ein fantastisches Fotomotiv, besonders am späten Nachmittag, wenn die Sonne das historische Steingebäude in ein warmes Licht taucht.",
+            "hu": "Ez a lenyűgöző szélmalom fantasztikus fotótémát szolgáltat, különösen a késő délutáni órákban, amikor az alacsonyan járó nap meleg, arany fénybe vonja a történelmi kőépületet.",
+            "ro": "Această moară de vânt fermecătoare reprezintă un subiect fotografic excelent, mai ales spre sfârșitul după-amiezii când soarele scaldă clădirea istorică din piatră în lumini calde.",
+            "en": "This charming historical windmill landmark provides a truly fantastic photo opportunity, particularly in the late afternoon when the setting sun bathes the stonework in a warm glow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten die Radtour am westlichen Plage de Saint-Guérin und fahren entspannt zum Grande Plage. Die Mittagspause verbringen wir nach einem Stopp an der Hauptkirche am herrlichen Strand von Landrezac. Nachmittags radeln wir durch die Dünenlandschaft von Kervoyal und genießen die weiten Sandstrände an der Küste. Am Abend erreichen wir als krönenden Abschluss die historische Mühle von Kervoyal.",
+        "hu": "A kerékpártúrát a nyugati Plage de Saint-Guérin partján kezdjük, majd a Grande Plage felé tekerünk. A déli pihenőt a központi templom érintésével a Landrezac tengerpart nyugalmas szakaszán töltjük el. Délután a kervoyali dűnék között gurulva élvezzük a tengeri panorámát és a frissítő parti szellőt. Az est közeledtével a történelmi kervoyali malomhoz érkezünk, amely tökéletes lezárása a napnak.",
+        "ro": "Turul pe bicicletă începe la Plage de Saint-Guérin în vest, continuând relaxant spre Grande Plage. După o oprire la biserica centrală, petrecem amiaza pe frumoasa plajă Landrezac. După-amiaza pedalăm prin peisajul dunelor din Kervoyal, admirând plajele întinse și briza oceanului de pe coasta bretonă. Seara ajungem la moara istorică din Kervoyal, un final perfect pentru o zi plină de explorări.",
+        "en": "We start our cycling tour at the western Plage de Saint-Guérin, riding smoothly towards the bustling Grande Plage. Midday offers a stop at the main church before relaxing on the beautiful Landrezac beach. In the afternoon, we cycle through the captivating Kervoyal dunes, taking in the vast sandy shorelines. Evening brings us to the historic Kervoyal mill, providing a perfect end to our adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin de Kervoyal",
+            "hu": "Moulin de Kervoyal",
+            "ro": "Moulin de Kervoyal",
+            "en": "Moulin de Kervoyal"
+          },
+          "coords": [
+            -2.555872,
+            47.530445
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses charmante Mühlen-Wahrzeichen bietet ein fantastisches Fotomotiv, besonders am späten Nachmittag, wenn die Sonne das historische Steingebäude in ein warmes Licht taucht.",
+            "hu": "Ez a lenyűgöző szélmalom fantasztikus fotótémát szolgáltat, különösen a késő délutáni órákban, amikor az alacsonyan járó nap meleg, arany fénybe vonja a történelmi kőépületet.",
+            "ro": "Această moară de vânt fermecătoare reprezintă un subiect fotografic excelent, mai ales spre sfârșitul după-amiezii când soarele scaldă clădirea istorică din piatră în lumini calde.",
+            "en": "This charming historical windmill landmark provides a truly fantastic photo opportunity, particularly in the late afternoon when the setting sun bathes the stonework in a warm glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Paix",
+            "hu": "Chapelle Notre-Dame-de-la-Paix",
+            "ro": "Chapelle Notre-Dame-de-la-Paix",
+            "en": "Chapelle Notre-Dame-de-la-Paix"
+          },
+          "coords": [
+            -2.555472,
+            47.517007
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese malerische Kapelle ist ein Ort tiefer Stille in Meeresnähe, den Sie am besten frühmorgens besuchen, um die friedliche Atmosphäre ohne große Touristenmassen zu erleben.",
+            "hu": "Ez a festői kápolna a tenger közelében a mély csend szigete, amelyet érdemes a kora reggeli órákban felkeresni, hogy elkerülje a tömeget és átélje a hely békés atmoszféráját.",
+            "ro": "Această capelă pitorească de lângă ocean este un refugiu de liniște, pe care este ideal să-l vizitați dimineața devreme pentru a vă bucura de o atmosferă pașnică, fără aglomerație.",
+            "en": "This picturesque coastal chapel is a beautiful haven of silence, ideally visited early in the morning so you can fully appreciate its profoundly peaceful atmosphere without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kervoyal",
+            "hu": "Plage de Kervoyal",
+            "ro": "Plage de Kervoyal",
+            "en": "Plage de Kervoyal"
+          },
+          "coords": [
+            -2.552309,
+            47.513281
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser etwas kleinere Strandabschnitt ist ideal, um fernab des großen Trubels zu entspannen, aber bringen Sie ein Picknick mit, da es in der direkten Umgebung keine Cafés gibt.",
+            "hu": "Ez a kisebb méretű partszakasz ideális a nyüzsgéstől távoli, csendes pihenésre, ám érdemes piknikkosárral készülni, mivel a közvetlen közelben nincsenek éttermek vagy kávézók.",
+            "ro": "Această porțiune mai mică de plajă este excelentă pentru a vă relaxa departe de aglomerație, dar aduceți un pachet cu provizii deoarece nu există cafenele în imediata apropiere.",
+            "en": "This slightly smaller beach area is absolutely perfect for unwinding far away from the main crowds, but remember to pack a picnic as there are no cafes immediately nearby to grab food."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage de Kervoyal",
+            "hu": "Grande Plage de Kervoyal",
+            "ro": "Grande Plage de Kervoyal",
+            "en": "Grande Plage de Kervoyal"
+          },
+          "coords": [
+            -2.556541,
+            47.512387
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die bretonische Küste an diesem weitläufigen Strand, der sich ideal für ausgedehnte Spaziergänge bei Ebbe eignet, wenn der Sand schön fest ist.",
+            "hu": "Élvezze a lenyűgöző kilátást a breton partvidékre erről a hatalmas strandról, amely apály idején, amikor a homok kemény, különösen kiváló választás egy hosszú, frissítő sétára.",
+            "ro": "Bucurați-vă de vederea panoramică asupra coastei bretone de pe această plajă imensă, ideală pentru plimbări lungi la reflux, atunci când nisipul bătătorit este perfect pentru pași.",
+            "en": "Take in the incredibly wide views of the stunning Breton coast from this expansive beach, which is especially perfect for long scenic walks at low tide when the sand is firmly packed."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "hu": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "ro": "Église Notre-Dame-de-Bonne-Nouvelle",
+            "en": "Église Notre-Dame-de-Bonne-Nouvelle"
+          },
+          "coords": [
+            -2.578602,
+            47.520406
+          ],
+          "category": "religious",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser charmanten Kirche und werfen Sie unbedingt einen Blick auf die prächtigen Buntglasfenster, wenn das Nachmittagslicht einfällt.",
+            "hu": "Csodálja meg a bájos templom letisztult, elegáns építészetét, és mindenképpen figyelje meg a csodálatos ólomüveg ablakokat, amelyeken át gyönyörűen szűrődik be a napfény.",
+            "ro": "Admirați arhitectura simplă a acestei biserici fermecătoare și asigurați-vă că priviți superbele vitralii atunci când lumina soarelui de după-amiază le străpunge culorile.",
+            "en": "Admire the elegantly simple architecture of this charming church, and be sure to look closely at the stunning stained glass windows when the afternoon sunlight streams through."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.588799,
+            47.517317
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand an diesem beliebten Hauptstrand von Damgan und bringen Sie am besten einen eigenen Sonnenschirm mit, um an warmen Nachmittagen Schatten zu haben.",
+            "hu": "Élvezze a finom homokot ezen a népszerű fő strandon, és mindenképpen hozzon magával napernyőt, hogy a forró nyári délutánokon is árnyékban, kellemesen tudjon pihenni a parton.",
+            "ro": "Bucurați-vă de nisipul fin de pe această plajă principală populară și aduceți-vă propria umbrelă de soare pentru a avea parte de umbră relaxantă în după-amiezile călduroase.",
+            "en": "Enjoy the pristine fine sand at this incredibly popular main beach, and remember to bring your own sun umbrella to secure a perfectly shaded spot on warm summer afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Saint-Guérin",
+            "hu": "Plage de Saint-Guérin",
+            "ro": "Plage de Saint-Guérin",
+            "en": "Plage de Saint-Guérin"
+          },
+          "coords": [
+            -2.606694,
+            47.513179
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieser westliche Strand ist ideal für Familien mit flachem Wasser, aber packen Sie unbedingt Badeschuhe ein, da sich hier oftmals kleine Steine unter dem weichen Sand verbergen.",
+            "hu": "Ez a nyugati strand sekély vizével ideális választás családoknak, de feltétlenül csomagoljon fürdőcipőt, mivel a puha homok alatt sok helyen apró, éles kövek bújhatnak meg.",
+            "ro": "Această plajă vestică cu ape puțin adânci este perfectă pentru familii, însă purtați încălțăminte de apă deoarece adesea se ascund pietre ascuțite sub stratul de nisip fin.",
+            "en": "This western beach features shallow waters making it ideal for families, but pack some water shoes as small sharp stones are frequently hidden just beneath the soft sandy floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Autotrip startet im Norden an der alten Mühle von Kervoyal, bevor wir die historische Kapelle besichtigen. Mittags geht es weiter zu den malerischen Stränden von Kervoyal, die zu einem Spaziergang am Meer einladen. Nachmittags führt die Fahrt ins Zentrum zur schönen Kirche und zum weitläufigen Grande Plage. Den Abend lassen wir ganz entspannt am westlichen Plage de Saint-Guérin ausklingen.",
+        "hu": "Autós utunkat északon, az öreg kervoyali malomnál kezdjük, majd megcsodáljuk a történelmi kápolnát. Délben a kervoyali partok festői szépsége hívogat egy kellemes tengerparti sétára a napsütésben. Délután a városközpontba hajtunk, ahol a központi templom és a hatalmas Grande Plage vár ránk nyüzsgő hangulatával. Az estét a nyugati Plage de Saint-Guérin békés dűnéinél zárjuk, a naplementét nézve.",
+        "ro": "Excursia auto începe în nord, la vechea moară Kervoyal, urmată de o vizită la capela istorică de pe coastă. La prânz, plajele pitorești din Kervoyal ne invită la o plimbare relaxantă sub soarele blând pe țărm. După-amiaza ne îndreptăm spre centru pentru a vedea biserica principală și peisajul deschis de la Grande Plage. Seara ne relaxăm pe deplin ascultând valurile la Plage de Saint-Guérin.",
+        "en": "Our driving tour kicks off in the north at the old Kervoyal mill, followed by a visit to the historic coastal chapel. Midday invites a relaxing seaside stroll along the picturesque and inviting Kervoyal beaches. In the afternoon, we drive to the center to see the main church and the expansive scenery of Grande Plage. We spend a deeply relaxing evening watching the waves at Plage de Saint-Guérin."
+      }
+    }
+  }
+}

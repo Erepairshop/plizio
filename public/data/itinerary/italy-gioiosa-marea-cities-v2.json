@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-gioiosa-marea-cities-v2",
+  "anchor": {
+    "name": "Gioiosa Marea",
+    "coords": [
+      14.89516,
+      38.17327
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiquarium Comunale",
+            "hu": "Antiquarium Comunale",
+            "ro": "Antiquarium Comunale",
+            "en": "Antiquarium Comunale"
+          },
+          "coords": [
+            14.896244,
+            38.17278
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte durch faszinierende archäologische Funde in diesem Museum und beachten Sie die informativen zweisprachigen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet lenyűgöző régészeti leleteken keresztül ebben a múzeumban, és figyelje meg a kétnyelvű információs paneleket a teljes megértéshez.",
+            "ro": "Explorați istoria locală prin descoperiri arheologice fascinante în acest muzeu compact și asigurați-vă că citiți panourile bilingve pentru un context complet.",
+            "en": "Explore local history through fascinating archaeological finds in this compact museum, and take note of the informative bilingual display panels for full context."
+          }
+        },
+        {
+          "name": {
+            "de": "Torretta",
+            "hu": "Torretta",
+            "ro": "Torretta",
+            "en": "Torretta"
+          },
+          "coords": [
+            14.893726,
+            38.172933
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieses historischen Wehrturms und bringen Sie Ihre Kamera mit, um die malerische Küstenlinie perfekt einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi védelmi toronynak az építészeti részleteit, és feltétlenül hozzon fényképezőgépet a környező partvidék megörökítéséhez.",
+            "ro": "Admirați detaliile arhitecturale ale acestui turn defensiv istoric, având grijă să aduceți aparatul foto pentru a surprinde perfect coasta pitorească din jur.",
+            "en": "Admire the architectural details of this historic defensive tower structure, making sure to bring your camera for excellent photos of the surrounding coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Tono",
+            "hu": "Grotta del Tono",
+            "ro": "Grotta del Tono",
+            "en": "Grotta del Tono"
+          },
+          "coords": [
+            14.895242,
+            38.17549
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende Küstenhöhle, welche die geologische Schönheit der Region hervorhebt, und tragen Sie feste Schuhe für das felsige Gelände.",
+            "hu": "Fedezze fel ezt az izgalmas tengerparti barlangot, amely a régió geológiai szépségét mutatja be, és viseljen masszív cipőt a sziklás terep biztonságos bejárásához.",
+            "ro": "Descoperiți această peșteră de coastă intrigantă care evidențiază frumusețea geologică a regiunii, purtând încălțăminte robustă pentru terenul stâncos.",
+            "en": "Discover this intriguing coastal cave formation that naturally highlights the region's geological beauty, wearing sturdy shoes to safely navigate the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Batolo",
+            "hu": "Palazzo Batolo",
+            "ro": "Palazzo Batolo",
+            "en": "Palazzo Batolo"
+          },
+          "coords": [
+            14.896776,
+            38.176374
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade dieses historisch bedeutsamen Palastes und bewundern Sie die aufwendigen Balkone, bevor Sie die angrenzenden Straßen erkunden.",
+            "hu": "Figyelje meg ennek a történelmileg jelentős helyi palotának az elegáns homlokzatát, és csodálja meg a bonyolult erkélyeket, mielőtt felfedezné a szomszédos utcákat.",
+            "ro": "Observați fațada elegantă a acestui palat local istoric, oprindu-vă pentru a admira balcoanele sale complicate înainte de a explora străzile adiacente.",
+            "en": "Observe the elegant facade of this historically significant local palace building, pausing to admire its intricate balconies before exploring the adjacent streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Santissima della Catena",
+            "hu": "Chiesa di Maria Santissima della Catena",
+            "ro": "Chiesa di Maria Santissima della Catena",
+            "en": "Chiesa di Maria Santissima della Catena"
+          },
+          "coords": [
+            14.898324,
+            38.175463
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre in dieser beliebten lokalen Kirche und bewundern Sie das wunderschöne Altarbild, während Sie respektvoll Stille bewahren.",
+            "hu": "Tapasztalja meg a nyugodt légkört ebben a kedvelt helyi templomban, és szánjon egy percet a gyönyörű oltárkép megcsodálására, miközben csendben marad.",
+            "ro": "Experimentați atmosfera senină din această biserică locală iubită, admirând frumoasa piesă de altar în timp ce păstrați liniștea și respectul cuvenit.",
+            "en": "Experience the serene atmosphere within this beloved local church, taking a moment to appreciate the beautiful altar piece while respectfully maintaining silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Convento",
+            "hu": "Chiesa del Convento",
+            "ro": "Chiesa del Convento",
+            "en": "Chiesa del Convento"
+          },
+          "coords": [
+            14.897302,
+            38.173625
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Klosterkirche, um traditionelle religiöse Kunst zu sehen, und prüfen Sie vorab die Öffnungszeiten, die sich oft zur Siesta ändern.",
+            "hu": "Lépjen be ebbe a történelmi kolostortemplomba a hagyományos vallási művészetért, és ne felejtse el ellenőrizni a szieszta miatt gyakran változó nyitvatartást.",
+            "ro": "Pășiți în această biserică istorică de mănăstire pentru a vedea arta religioasă, amintindu-vă să verificați programul de vizitare care se schimbă la siestă.",
+            "en": "Step inside this historic convent church to witness traditional religious art, and remember to check the specific opening hours which often change during siesta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Antiquarium und der historischen Torretta.\n\nMittags bewundern Sie die Grotta del Tono und die Fassade des Palazzo Batolo.\n\nDer Nachmittag führt Sie zur friedlichen Chiesa di Maria Santissima della Catena.\n\nBeenden Sie die Tour an der Chiesa del Convento.",
+        "hu": "A reggel az Antiquariumnál és a történelmi Torrettánál kezdődik.\n\nDélben csodálja meg a Grotta del Tono-t és a Palazzo Batolo homlokzatát.\n\nDélután látogasson el a békés Chiesa di Maria Santissima della Catena templomba.\n\nZárja sétáját a történelmi Chiesa del Convento templomnál.",
+        "ro": "Dimineața începe la Antiquarium și la istorica Torretta.\n\nLa prânz, admirați de coastă Grotta del Tono și fațada Palazzo Batolo.\n\nDupă-amiaza vă aduce la liniștita Chiesa di Maria Santissima della Catena.\n\nÎncheiați turul la Chiesa del Convento, bucurându-vă de cultura locală.",
+        "en": "Morning starts at the Antiquarium and the historic Torretta.\n\nMidday, admire the coastal Grotta del Tono and Palazzo Batolo's facade.\n\nAfternoon brings you to the peaceful Chiesa di Maria Santissima della Catena.\n\nConclude at Chiesa del Convento, enjoying the rich culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiquarium Comunale",
+            "hu": "Antiquarium Comunale",
+            "ro": "Antiquarium Comunale",
+            "en": "Antiquarium Comunale"
+          },
+          "coords": [
+            14.896244,
+            38.17278
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte durch faszinierende archäologische Funde in diesem Museum und beachten Sie die informativen zweisprachigen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet lenyűgöző régészeti leleteken keresztül ebben a múzeumban, és figyelje meg a kétnyelvű információs paneleket a teljes megértéshez.",
+            "ro": "Explorați istoria locală prin descoperiri arheologice fascinante în acest muzeu compact și asigurați-vă că citiți panourile bilingve pentru un context complet.",
+            "en": "Explore local history through fascinating archaeological finds in this compact museum, and take note of the informative bilingual display panels for full context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Convento",
+            "hu": "Chiesa del Convento",
+            "ro": "Chiesa del Convento",
+            "en": "Chiesa del Convento"
+          },
+          "coords": [
+            14.897302,
+            38.173625
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Klosterkirche, um traditionelle religiöse Kunst zu sehen, und prüfen Sie vorab die Öffnungszeiten, die sich oft zur Siesta ändern.",
+            "hu": "Lépjen be ebbe a történelmi kolostortemplomba a hagyományos vallási művészetért, és ne felejtse el ellenőrizni a szieszta miatt gyakran változó nyitvatartást.",
+            "ro": "Pășiți în această biserică istorică de mănăstire pentru a vedea arta religioasă, amintindu-vă să verificați programul de vizitare care se schimbă la siestă.",
+            "en": "Step inside this historic convent church to witness traditional religious art, and remember to check the specific opening hours which often change during siesta."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Batolo",
+            "hu": "Palazzo Batolo",
+            "ro": "Palazzo Batolo",
+            "en": "Palazzo Batolo"
+          },
+          "coords": [
+            14.896776,
+            38.176374
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade dieses historisch bedeutsamen Palastes und bewundern Sie die aufwendigen Balkone, bevor Sie die angrenzenden Straßen erkunden.",
+            "hu": "Figyelje meg ennek a történelmileg jelentős helyi palotának az elegáns homlokzatát, és csodálja meg a bonyolult erkélyeket, mielőtt felfedezné a szomszédos utcákat.",
+            "ro": "Observați fațada elegantă a acestui palat local istoric, oprindu-vă pentru a admira balcoanele sale complicate înainte de a explora străzile adiacente.",
+            "en": "Observe the elegant facade of this historically significant local palace building, pausing to admire its intricate balconies before exploring the adjacent streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Tono",
+            "hu": "Grotta del Tono",
+            "ro": "Grotta del Tono",
+            "en": "Grotta del Tono"
+          },
+          "coords": [
+            14.895242,
+            38.17549
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende Küstenhöhle, welche die geologische Schönheit der Region hervorhebt, und tragen Sie feste Schuhe für das felsige Gelände.",
+            "hu": "Fedezze fel ezt az izgalmas tengerparti barlangot, amely a régió geológiai szépségét mutatja be, és viseljen masszív cipőt a sziklás terep biztonságos bejárásához.",
+            "ro": "Descoperiți această peșteră de coastă intrigantă care evidențiază frumusețea geologică a regiunii, purtând încălțăminte robustă pentru terenul stâncos.",
+            "en": "Discover this intriguing coastal cave formation that naturally highlights the region's geological beauty, wearing sturdy shoes to safely navigate the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Capo Calavà",
+            "hu": "Lido Capo Calavà",
+            "ro": "Lido Capo Calavà",
+            "en": "Lido Capo Calavà"
+          },
+          "coords": [
+            14.912359,
+            38.18927
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der atemberaubenden Küstenlinie dieses beliebten Strandclubs und kommen Sie früh am Morgen an, um sich einen erstklassigen Platz zu sichern.",
+            "hu": "Pihenjen a lenyűgöző tengerparton ennél a népszerű strandklubnál, és érkezzen kora reggel, hogy maximális kényelmet biztosító napernyős helyet találjon.",
+            "ro": "Relaxați-vă pe țărmul uimitor la acest club de plajă popular, ajungând devreme dimineața pentru a obține un loc excelent cu o umbrelă pentru confort maxim.",
+            "en": "Relax on the stunning shoreline at this popular beach club area, arriving early in the morning to secure a prime spot with an umbrella for maximum comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Antiquarium und radeln Sie zur Chiesa del Convento.\n\nSehen Sie den Palazzo Batolo und fahren Sie zur Grotta del Tono.\n\nVerbringen Sie den Nachmittag mit einer Radtour zum schönen Lido Capo Calavà.\n\nBeenden Sie den Tag entspannt an den mediterranen Wellen.",
+        "hu": "Kezdje útját az Antiquariumnál, majd tekerjen a Chiesa del Convento templomhoz.\n\nNézze meg a Palazzo Batolót és tekerjen a Grotta del Tono felé.\n\nDélután kerékpározzon el a festői Lido Capo Calavà strandra.\n\nFejezze be a napot a Földközi-tenger gyönyörű hullámai mellett pihenve.",
+        "ro": "Începeți la Antiquarium, apoi pedalați spre Chiesa del Convento.\n\nVedeți Palazzo Batolo și mergeți la peștera Grotta del Tono.\n\nPetreceți după-amiaza pedalând spre frumosul Lido Capo Calavà.\n\nÎncheiați ziua relaxându-vă la soare lângă valurile uimitoare ale Mării Mediterane.",
+        "en": "Begin your bike ride at the Antiquarium, then pedal to Chiesa del Convento.\n\nNext, view Palazzo Batolo and ride to the coastal Grotta del Tono.\n\nSpend your afternoon cycling along the scenic roads to Lido Capo Calavà.\n\nFinish the day relaxing by the beautiful Mediterranean waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Michele Arcangelo",
+            "hu": "Chiesa di San Michele Arcangelo",
+            "ro": "Chiesa di San Michele Arcangelo",
+            "en": "Chiesa di San Michele Arcangelo"
+          },
+          "coords": [
+            14.891102,
+            38.15841
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche religiöse Stätte, die etwas weiter entfernt liegt, und nehmen Sie sich Zeit für ihre klassische Architektur vor der Weiterreise.",
+            "hu": "Látogasson el erre a békés, kissé távolabb fekvő vallási helyszínre, és szánjon időt a klasszikus építészet megcsodálására, mielőtt folytatná útját a városban.",
+            "ro": "Vizitați acest sit religios pașnic, situat ceva mai departe, luându-vă timp pentru a admira arhitectura sa clasică înainte de a vă continua călătoria.",
+            "en": "Visit this peaceful religious site situated slightly further afield, taking time to admire its classic architecture before continuing your journey through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Comunale",
+            "hu": "Antiquarium Comunale",
+            "ro": "Antiquarium Comunale",
+            "en": "Antiquarium Comunale"
+          },
+          "coords": [
+            14.896244,
+            38.17278
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokale Geschichte durch faszinierende archäologische Funde in diesem Museum und beachten Sie die informativen zweisprachigen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet lenyűgöző régészeti leleteken keresztül ebben a múzeumban, és figyelje meg a kétnyelvű információs paneleket a teljes megértéshez.",
+            "ro": "Explorați istoria locală prin descoperiri arheologice fascinante în acest muzeu compact și asigurați-vă că citiți panourile bilingve pentru un context complet.",
+            "en": "Explore local history through fascinating archaeological finds in this compact museum, and take note of the informative bilingual display panels for full context."
+          }
+        },
+        {
+          "name": {
+            "de": "Torretta",
+            "hu": "Torretta",
+            "ro": "Torretta",
+            "en": "Torretta"
+          },
+          "coords": [
+            14.893726,
+            38.172933
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieses historischen Wehrturms und bringen Sie Ihre Kamera mit, um die malerische Küstenlinie perfekt einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi védelmi toronynak az építészeti részleteit, és feltétlenül hozzon fényképezőgépet a környező partvidék megörökítéséhez.",
+            "ro": "Admirați detaliile arhitecturale ale acestui turn defensiv istoric, având grijă să aduceți aparatul foto pentru a surprinde perfect coasta pitorească din jur.",
+            "en": "Admire the architectural details of this historic defensive tower structure, making sure to bring your camera for excellent photos of the surrounding coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Batolo",
+            "hu": "Palazzo Batolo",
+            "ro": "Palazzo Batolo",
+            "en": "Palazzo Batolo"
+          },
+          "coords": [
+            14.896776,
+            38.176374
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade dieses historisch bedeutsamen Palastes und bewundern Sie die aufwendigen Balkone, bevor Sie die angrenzenden Straßen erkunden.",
+            "hu": "Figyelje meg ennek a történelmileg jelentős helyi palotának az elegáns homlokzatát, és csodálja meg a bonyolult erkélyeket, mielőtt felfedezné a szomszédos utcákat.",
+            "ro": "Observați fațada elegantă a acestui palat local istoric, oprindu-vă pentru a admira balcoanele sale complicate înainte de a explora străzile adiacente.",
+            "en": "Observe the elegant facade of this historically significant local palace building, pausing to admire its intricate balconies before exploring the adjacent streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Capo Calavà",
+            "hu": "Lido Capo Calavà",
+            "ro": "Lido Capo Calavà",
+            "en": "Lido Capo Calavà"
+          },
+          "coords": [
+            14.912359,
+            38.18927
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der atemberaubenden Küstenlinie dieses beliebten Strandclubs und kommen Sie früh am Morgen an, um sich einen erstklassigen Platz zu sichern.",
+            "hu": "Pihenjen a lenyűgöző tengerparton ennél a népszerű strandklubnál, és érkezzen kora reggel, hogy maximális kényelmet biztosító napernyős helyet találjon.",
+            "ro": "Relaxați-vă pe țărmul uimitor la acest club de plajă popular, ajungând devreme dimineața pentru a obține un loc excelent cu o umbrelă pentru confort maxim.",
+            "en": "Relax on the stunning shoreline at this popular beach club area, arriving early in the morning to secure a prime spot with an umbrella for maximum comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Chiesa di San Michele Arcangelo und dann zum Antiquarium.\n\nParken Sie zentral für die Torretta und den Palazzo Batolo.\n\nMachen Sie nachmittags eine kurze Fahrt zum herrlichen Lido Capo Calavà.\n\nVerbringen Sie den Abend in perfekter Strandatmosphäre.",
+        "hu": "Autózzon a Chiesa di San Michele Arcangelo templomhoz, majd az Antiquariumhoz.\n\nParkoljon le, hogy felfedezze a Torrettát és a Palazzo Batolót.\n\nDélután tegyen egy rövid utat a lenyűgöző Lido Capo Calavà strandra.\n\nTöltse az estét a tökéletes tengerparti hangulat élvezetével.",
+        "ro": "Conduceți la Chiesa di San Michele Arcangelo, apoi la Antiquarium.\n\nParcați central pentru a explora Torretta și grandiosul Palazzo Batolo.\n\nDupă-amiaza, faceți o scurtă plimbare până la superbul Lido Capo Calavà.\n\nPetreceți seara bucurându-vă de atmosfera perfectă pe plajă.",
+        "en": "Drive to Chiesa di San Michele Arcangelo, then head to the Antiquarium.\n\nPark centrally to explore Torretta and the grand Palazzo Batolo.\n\nIn the afternoon, take a quick drive to the gorgeous Lido Capo Calavà.\n\nSpend the evening enjoying the perfect beachfront atmosphere."
+      }
+    }
+  }
+}

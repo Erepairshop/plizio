@@ -1,0 +1,511 @@
+{
+  "city_id": "uk-fremington-cities-v2",
+  "anchor": {
+    "name": "Fremington",
+    "coords": [
+      -4.11,
+      51.07
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 2.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Muddlebridge",
+            "hu": "Muddlebridge",
+            "ro": "Muddlebridge",
+            "en": "Muddlebridge"
+          },
+          "coords": [
+            -4.111599,
+            51.072358
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Steinbrücke, um die malerische Dorfatmosphäre zu genießen, und halten Sie am Ufer Ausschau nach Tieren.",
+            "hu": "Sétáljon át a történelmi kőhídon a festői falusi hangulatért, és figyelje meg a vízparti élővilágot egy csendes reggeli séta során.",
+            "ro": "Traversați acest pod istoric de piatră pentru a savura atmosfera pitorească a satului și fiți atenți la fauna locală de lângă malul apei.",
+            "en": "Cross this historic stone bridge to appreciate the quaint village atmosphere and keep an eye out for local wildlife near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "The New Inn",
+            "hu": "The New Inn",
+            "ro": "The New Inn",
+            "en": "The New Inn"
+          },
+          "coords": [
+            -4.12336,
+            51.071875
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem traditionellen Pub voller lokaler Geschichte und probieren Sie unbedingt die regionalen Biere bei einem netten Gespräch.",
+            "hu": "Pihenjen meg ebben a helyi örökséggel teli hagyományos kocsmában, és feltétlenül kóstolja meg a regionális söröket a barátságos helyiekkel.",
+            "ro": "Relaxați-vă în acest pub tradițional plin de istorie locală și asigurați-vă că gustați berile regionale în timp ce discutați cu localnicii.",
+            "en": "Relax in this charming traditional pub filled with local heritage, and be sure to try their regional ales while chatting with friendly locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Fremington Manor",
+            "hu": "Fremington Manor",
+            "ro": "Fremington Manor",
+            "en": "Fremington Manor"
+          },
+          "coords": [
+            -4.12478,
+            51.073
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses herrschaftlichen Anwesens von den Wegen aus, um ohne Eintrittskarte in die Vergangenheit zu reisen.",
+            "hu": "Csodálja meg az impozáns történelmi udvarház klasszikus építészetét a környező ösvényekről, így belépőjegy nélkül is visszatérhet az időben.",
+            "ro": "Admirați arhitectura clasică a acestui conac impunător de pe potecile din jur pentru a face un pas înapoi în timp fără a avea nevoie de bilet.",
+            "en": "Admire the classic architecture of this stately historic manor from its surrounding paths to step back in time without needing an entry ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Fremington Pill",
+            "hu": "Fremington Pill",
+            "ro": "Fremington Pill",
+            "en": "Fremington Pill"
+          },
+          "coords": [
+            -4.118962,
+            51.075359
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Meeresarm, der für seine Vogelwelt bekannt ist, und bringen Sie ein Fernglas mit, um seltene Arten zu beobachten.",
+            "hu": "Fedezze fel ezt a gazdag madárvilágáról híres, békés árapály-öblöt, és hozzon magával távcsövet a sekély vizekben vadászó ritka fajokhoz.",
+            "ro": "Explorați acest estuar liniștit, faimos pentru păsările sale, și aduceți binoclul pentru a observa specii rare care vânează în apele puțin adânci.",
+            "en": "Explore this peaceful tidal inlet famous for its rich birdlife, and bring your binoculars to spot rare species hunting in the shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Fremington Quay",
+            "hu": "Fremington Quay",
+            "ro": "Fremington Quay",
+            "en": "Fremington Quay"
+          },
+          "coords": [
+            -4.122872,
+            51.075704
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime Vergangenheit am restaurierten Kai, wo Sie im Café einen heißen Kaffee genießen können, bevor Sie den Weg erkunden.",
+            "hu": "Fedezze fel a falu tengerészeti múltját a felújított történelmi rakparton, ahol a kávézóban felfrissülhet, mielőtt a tölcsértorkolatnál sétálna.",
+            "ro": "Descoperiți trecutul maritim la acest chei istoric restaurat, unde puteți lua o cafea fierbinte de la cafenea înainte de a vă plimba pe faleză.",
+            "en": "Discover the village's maritime past at this restored historic quay, where you can grab a hot coffee at the cafe before walking the estuary path."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarka Trail",
+            "hu": "Tarka Trail",
+            "ro": "Tarka Trail",
+            "en": "Tarka Trail"
+          },
+          "coords": [
+            -4.118634,
+            51.080702
+          ],
+          "category": "recreational",
+          "arrive_at": "16:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie auf diesem flachen Weg einer alten Bahnstrecke und genießen Sie die herrliche Küstenaussicht fernab vom Autoverkehr.",
+            "hu": "Kerékpározzon vagy sétáljon a régi vasútvonalon épült híres, sík ösvényen, élvezve a festői tengerparti kilátást a motoros forgalomtól távol.",
+            "ro": "Pedalați sau plimbați-vă pe acest drum plat faimos construit pe o veche cale ferată, bucurându-vă de priveliștile de coastă departe de trafic.",
+            "en": "Cycle or stroll along this famous flat path built on an old railway line, enjoying the scenic coastal views safely away from motorized traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihre Tour an der Muddlebridge, bewundern Sie das Wasser und schlendern Sie dann ins Dorfzentrum, um das historische New Inn zu entdecken.",
+          "midday": "Gegen Mittag bietet die Architektur von Fremington Manor einen Blick in die Vergangenheit, bevor Sie zu den ruhigen Ufern des Fremington Pill spazieren.",
+          "afternoon": "Verbringen Sie den Nachmittag am Fremington Quay, genießen Sie das maritime Erbe und trinken Sie einen Tee, während Sie die Gezeiten der Mündung beobachten.",
+          "evening": "Der Tag endet mit einem gemütlichen Spaziergang auf dem berühmten Tarka Trail, der einen atemberaubenden Sonnenuntergang über dem Wasser bietet."
+        },
+        "hu": {
+          "morning": "Kezdje sétáját a Muddlebridge-nél, megcsodálva a csendes reggeli vizet, majd sétáljon be a falu szívébe, hogy felfedezze a történelmi New Inn fogadót.",
+          "midday": "Délben a Fremington Manor bájos építészete nyújt bepillantást a múltba, ahonnan az út a Fremington Pill békés és madarakkal teli partjai felé vezet.",
+          "afternoon": "Töltse a délutánt a Fremington Quay felfedezésével, szívja magába a tengerészeti örökséget, és figyelje az árapály változását egy finom kávé mellett.",
+          "evening": "A nap a híres Tarka Trail mentén tett kellemes sétával zárul, amely lélegzetelállító naplementét kínál a vízen a falusi felfedezés befejezéseként."
+        },
+        "ro": {
+          "morning": "Începeți turul la Muddlebridge, admirând apele liniștite de dimineață înainte de a vă plimba prin centrul satului pentru a descoperi istoricul New Inn.",
+          "midday": "Până la prânz, arhitectura fermecătoare a Fremington Manor oferă o privire în trecut, conducându-vă apoi spre țărmurile liniștite de la Fremington Pill.",
+          "afternoon": "Petreceți după-amiaza la Fremington Quay, asimilând patrimoniul maritim și savurând o băutură caldă în timp ce urmăriți fluxul și refluxul estuarului.",
+          "evening": "Ziua se încheie cu o plimbare relaxantă pe faimosul Tarka Trail, care vă oferă un apus de soare uluitor deasupra apelor la finalul explorării."
+        },
+        "en": {
+          "morning": "Begin your walking tour at Muddlebridge, admiring the tranquil morning water flows before strolling into the village heart to discover the historic New Inn.",
+          "midday": "By midday, the charming architecture of Fremington Manor provides a glimpse into the past, leading you naturally toward the peaceful shores of Fremington Pill.",
+          "afternoon": "Spend the afternoon wandering through Fremington Quay, soaking in the maritime heritage and enjoying a warm drink as you watch the changing estuary tides.",
+          "evening": "The day concludes with a leisurely stroll along the famous Tarka Trail, offering a breathtaking sunset over the waters to end your village exploration."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 5.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Muddlebridge",
+            "hu": "Muddlebridge",
+            "ro": "Muddlebridge",
+            "en": "Muddlebridge"
+          },
+          "coords": [
+            -4.111599,
+            51.072358
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Steinbrücke, um die malerische Dorfatmosphäre zu genießen, und halten Sie am Ufer Ausschau nach Tieren.",
+            "hu": "Sétáljon át a történelmi kőhídon a festői falusi hangulatért, és figyelje meg a vízparti élővilágot egy csendes reggeli séta során.",
+            "ro": "Traversați acest pod istoric de piatră pentru a savura atmosfera pitorească a satului și fiți atenți la fauna locală de lângă malul apei.",
+            "en": "Cross this historic stone bridge to appreciate the quaint village atmosphere and keep an eye out for local wildlife near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "The New Inn",
+            "hu": "The New Inn",
+            "ro": "The New Inn",
+            "en": "The New Inn"
+          },
+          "coords": [
+            -4.12336,
+            51.071875
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem traditionellen Pub voller lokaler Geschichte und probieren Sie unbedingt die regionalen Biere bei einem netten Gespräch.",
+            "hu": "Pihenjen meg ebben a helyi örökséggel teli hagyományos kocsmában, és feltétlenül kóstolja meg a regionális söröket a barátságos helyiekkel.",
+            "ro": "Relaxați-vă în acest pub tradițional plin de istorie locală și asigurați-vă că gustați berile regionale în timp ce discutați cu localnicii.",
+            "en": "Relax in this charming traditional pub filled with local heritage, and be sure to try their regional ales while chatting with friendly locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Fremington Quay",
+            "hu": "Fremington Quay",
+            "ro": "Fremington Quay",
+            "en": "Fremington Quay"
+          },
+          "coords": [
+            -4.122872,
+            51.075704
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime Vergangenheit am restaurierten Kai, wo Sie im Café einen heißen Kaffee genießen können, bevor Sie den Weg erkunden.",
+            "hu": "Fedezze fel a falu tengerészeti múltját a felújított történelmi rakparton, ahol a kávézóban felfrissülhet, mielőtt a tölcsértorkolatnál sétálna.",
+            "ro": "Descoperiți trecutul maritim la acest chei istoric restaurat, unde puteți lua o cafea fierbinte de la cafenea înainte de a vă plimba pe faleză.",
+            "en": "Discover the village's maritime past at this restored historic quay, where you can grab a hot coffee at the cafe before walking the estuary path."
+          }
+        },
+        {
+          "name": {
+            "de": "Home Farm Marsh",
+            "hu": "Home Farm Marsh",
+            "ro": "Home Farm Marsh",
+            "en": "Home Farm Marsh"
+          },
+          "coords": [
+            -4.14265,
+            51.076792
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieser weitläufigen Feuchtgebiete, die sich perfekt für achtsame Spaziergänge und Naturbeobachtungen eignen.",
+            "hu": "Merüljön el a kiterjedt vizes élőhelyek nyugalmában, amelyek tökéletesek egy tudatos sétához és a változatos mocsári ökoszisztémák megfigyeléséhez.",
+            "ro": "Cufundați-vă în liniștea acestor zone umede vaste, perfecte pentru o plimbare conștientă și observarea ecosistemelor diverse din mlaștină.",
+            "en": "Immerse yourself in the tranquility of these vast natural wetlands, perfect for mindful walking and observing the diverse marshland ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarka Trail",
+            "hu": "Tarka Trail",
+            "ro": "Tarka Trail",
+            "en": "Tarka Trail"
+          },
+          "coords": [
+            -4.118634,
+            51.080702
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie auf diesem flachen Weg einer alten Bahnstrecke und genießen Sie die herrliche Küstenaussicht fernab vom Autoverkehr.",
+            "hu": "Kerékpározzon vagy sétáljon a régi vasútvonalon épült híres, sík ösvényen, élvezve a festői tengerparti kilátást a motoros forgalomtól távol.",
+            "ro": "Pedalați sau plimbați-vă pe acest drum plat faimos construit pe o veche cale ferată, bucurându-vă de priveliștile de coastă departe de trafic.",
+            "en": "Cycle or stroll along this famous flat path built on an old railway line, enjoying the scenic coastal views safely away from motorized traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Basett's Ridge",
+            "hu": "Basett's Ridge",
+            "ro": "Basett's Ridge",
+            "en": "Basett's Ridge"
+          },
+          "coords": [
+            -4.123976,
+            51.086519
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen malerischen Kamm, um atemberaubende Panoramafotos der Mündung zu machen, und besuchen Sie ihn am besten zur goldenen Stunde.",
+            "hu": "Mássza meg ezt a festői gerincet a lenyűgöző torkolati panorámákért, és időzítse látogatását az aranyórára a legszebb fényviszonyok érdekében.",
+            "ro": "Urcați pe această creastă pitorească pentru fotografii panoramice uimitoare ale estuarului, asigurându-vă că vizitați la ora de aur.",
+            "en": "Ascend this scenic ridge to capture stunning panoramic photographs of the estuary, making sure to visit during golden hour for the best light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihr Radabenteuer an der Muddlebridge, wärmen Sie sich auf und fahren Sie zum New Inn, um die dörfliche Atmosphäre zu genießen.",
+          "midday": "Die Mittagsfahrt bringt Sie schnell zum Fremington Quay, wo der maritime Charme perfekt durch die erfrischende Küstenbrise ergänzt wird.",
+          "afternoon": "Radeln Sie am Nachmittag zu den Feuchtgebieten von Home Farm Marsh und tauchen Sie in die raue natürliche Schönheit und Vogelwelt ein.",
+          "evening": "Beenden Sie den Tag auf dem Tarka Trail und fahren Sie zum Basett's Ridge, um in der Dämmerung einen herrlichen Panoramablick zu genießen."
+        },
+        "hu": {
+          "morning": "Indítsa kerékpáros kalandját a Muddlebridge-nél, majd guruljon a The New Inn felé, hogy magába szívja a falu kora reggeli, friss hangulatát.",
+          "midday": "A déli tekerés gyorsan eljuttatja a Fremington Quayhez, ahol a történelmi tengerészeti báj gyönyörűen kiegészül a frissítő tengerparti szellővel.",
+          "afternoon": "Délután pedálozzon tovább a Home Farm Marsh kiterjedt vizes élőhelyeihez, elmerülve az érintetlen természeti szépségben és a madárvilágban.",
+          "evening": "Zárja a napot a híres Tarka Trail-en siklva, majd érkezzen meg a Basett's Ridge-hez, hogy élvezze az alkonyat lenyűgöző panorámáját."
+        },
+        "ro": {
+          "morning": "Începeți aventura pe bicicletă la Muddlebridge, încălzindu-vă înainte de a pedala spre The New Inn pentru a simți atmosfera matinală a satului.",
+          "midday": "Plimbarea de prânz vă duce rapid la Fremington Quay, unde farmecul maritim istoric se completează perfect cu briza răcoroasă de coastă.",
+          "afternoon": "Pedalați mai departe către zonele umede vaste de la Home Farm Marsh după-amiaza, cufundându-vă în frumusețea naturală și diversitatea păsărilor.",
+          "evening": "Încheiați ziua alunecând lin pe faimosul Tarka Trail înainte de a ajunge la Basett's Ridge pentru a admira o panoramă uimitoare la amurg."
+        },
+        "en": {
+          "morning": "Kick off your cycling adventure at Muddlebridge, warming up your legs before rolling towards The New Inn to soak up the early village atmosphere.",
+          "midday": "The midday ride takes you quickly to Fremington Quay, where the historic maritime charm beautifully complements the refreshing coastal breeze.",
+          "afternoon": "Pedal onwards to the expansive wetlands of Home Farm Marsh in the afternoon, immersing yourself in the raw natural beauty and diverse local birdlife.",
+          "evening": "Wrap up the day gliding smoothly along the iconic Tarka Trail before reaching Basett's Ridge to take in a sweeping panoramic view at twilight."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.37,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Home Farm Marsh",
+            "hu": "Home Farm Marsh",
+            "ro": "Home Farm Marsh",
+            "en": "Home Farm Marsh"
+          },
+          "coords": [
+            -4.14265,
+            51.076792
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieser weitläufigen Feuchtgebiete, die sich perfekt für achtsame Spaziergänge und Naturbeobachtungen eignen.",
+            "hu": "Merüljön el a kiterjedt vizes élőhelyek nyugalmában, amelyek tökéletesek egy tudatos sétához és a változatos mocsári ökoszisztémák megfigyeléséhez.",
+            "ro": "Cufundați-vă în liniștea acestor zone umede vaste, perfecte pentru o plimbare conștientă și observarea ecosistemelor diverse din mlaștină.",
+            "en": "Immerse yourself in the tranquility of these vast natural wetlands, perfect for mindful walking and observing the diverse marshland ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Fremington Quay",
+            "hu": "Fremington Quay",
+            "ro": "Fremington Quay",
+            "en": "Fremington Quay"
+          },
+          "coords": [
+            -4.122872,
+            51.075704
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime Vergangenheit am restaurierten Kai, wo Sie im Café einen heißen Kaffee genießen können, bevor Sie den Weg erkunden.",
+            "hu": "Fedezze fel a falu tengerészeti múltját a felújított történelmi rakparton, ahol a kávézóban felfrissülhet, mielőtt a tölcsértorkolatnál sétálna.",
+            "ro": "Descoperiți trecutul maritim la acest chei istoric restaurat, unde puteți lua o cafea fierbinte de la cafenea înainte de a vă plimba pe faleză.",
+            "en": "Discover the village's maritime past at this restored historic quay, where you can grab a hot coffee at the cafe before walking the estuary path."
+          }
+        },
+        {
+          "name": {
+            "de": "The New Inn",
+            "hu": "The New Inn",
+            "ro": "The New Inn",
+            "en": "The New Inn"
+          },
+          "coords": [
+            -4.12336,
+            51.071875
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem traditionellen Pub voller lokaler Geschichte und probieren Sie unbedingt die regionalen Biere bei einem netten Gespräch.",
+            "hu": "Pihenjen meg ebben a helyi örökséggel teli hagyományos kocsmában, és feltétlenül kóstolja meg a regionális söröket a barátságos helyiekkel.",
+            "ro": "Relaxați-vă în acest pub tradițional plin de istorie locală și asigurați-vă că gustați berile regionale în timp ce discutați cu localnicii.",
+            "en": "Relax in this charming traditional pub filled with local heritage, and be sure to try their regional ales while chatting with friendly locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Muddlebridge",
+            "hu": "Muddlebridge",
+            "ro": "Muddlebridge",
+            "en": "Muddlebridge"
+          },
+          "coords": [
+            -4.111599,
+            51.072358
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Steinbrücke, um die malerische Dorfatmosphäre zu genießen, und halten Sie am Ufer Ausschau nach Tieren.",
+            "hu": "Sétáljon át a történelmi kőhídon a festői falusi hangulatért, és figyelje meg a vízparti élővilágot egy csendes reggeli séta során.",
+            "ro": "Traversați acest pod istoric de piatră pentru a savura atmosfera pitorească a satului și fiți atenți la fauna locală de lângă malul apei.",
+            "en": "Cross this historic stone bridge to appreciate the quaint village atmosphere and keep an eye out for local wildlife near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Basett's Ridge",
+            "hu": "Basett's Ridge",
+            "ro": "Basett's Ridge",
+            "en": "Basett's Ridge"
+          },
+          "coords": [
+            -4.123976,
+            51.086519
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen malerischen Kamm, um atemberaubende Panoramafotos der Mündung zu machen, und besuchen Sie ihn am besten zur goldenen Stunde.",
+            "hu": "Mássza meg ezt a festői gerincet a lenyűgöző torkolati panorámákért, és időzítse látogatását az aranyórára a legszebb fényviszonyok érdekében.",
+            "ro": "Urcați pe această creastă pitorească pentru fotografii panoramice uimitoare ale estuarului, asigurându-vă că vizitați la ora de aur.",
+            "en": "Ascend this scenic ridge to capture stunning panoramic photographs of the estuary, making sure to visit during golden hour for the best light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihre Fahrt am friedlichen Home Farm Marsh und genießen Sie die Weite, bevor Sie zum geschäftigen Fremington Quay fahren.",
+          "midday": "Kommen Sie mittags am Kai an, tauchen Sie in die maritime Geschichte ein und genießen Sie ein herzhaftes Mittagessen mit Blick auf die Mündung.",
+          "afternoon": "Eine kurze Fahrt am Nachmittag bringt Sie zum New Inn und zur Muddlebridge, wo Sie das dichte historische Erbe des Dorfzentrums erkunden können.",
+          "evening": "Der Tag endet mit einer Fahrt zum Basett's Ridge, der einen mühelosen Aussichtspunkt für einen spektakulären Sonnenuntergang auf dem Land bietet."
+        },
+        "hu": {
+          "morning": "Kezdje autós túráját a békés Home Farm Marshnál, élvezve a nyílt vizes élőhelyeket, mielőtt a nyüzsgő Fremington Quay felé venné az irányt.",
+          "midday": "Délben érkezzen meg a rakparthoz, merüljön el a tengerészeti történelemben, és fogyasszon el egy ebédet a csillogó torkolat vizére nézve.",
+          "afternoon": "Egy rövid délutáni út elviszi a The New Inn és a Muddlebridge területére, ahol kényelmesen felfedezheti a faluközpont sűrű történelmi örökségét.",
+          "evening": "A nap egy utolsó autózással zárul a Basett's Ridge-hez, amely egyedülálló kilátópontot nyújt egy látványos naplementéhez a devoni vidéken."
+        },
+        "ro": {
+          "morning": "Începeți plimbarea cu mașina la liniștitul Home Farm Marsh, bucurându-vă de zonele umede înainte de a vă îndrepta spre animatul Fremington Quay.",
+          "midday": "Sosind la chei la prânz, pătrundeți în istoria maritimă a zonei și luați un prânz copios având vedere la apele strălucitoare ale estuarului.",
+          "afternoon": "Un drum scurt după-amiaza vă aduce la The New Inn și Muddlebridge, unde puteți explora patrimoniul istoric bogat din centrul satului.",
+          "evening": "Ziua se încheie cu o scurtă călătorie spre Basett's Ridge, oferind un punct de observație fără efort pentru un apus spectaculos peisajului."
+        },
+        "en": {
+          "morning": "Start your scenic drive at the peaceful Home Farm Marsh, taking time to enjoy the open wetlands before heading to the bustling Fremington Quay.",
+          "midday": "Arriving at the quay by midday, dive into the area's rich maritime history and grab a hearty lunch overlooking the shimmering estuary waters.",
+          "afternoon": "A short drive in the afternoon brings you to The New Inn and Muddlebridge, where you can explore the dense historical heritage of the village core.",
+          "evening": "The day concludes with a final drive up to Basett's Ridge, providing an effortless vantage point for a spectacular sunset across the Devon countryside."
+        }
+      }
+    }
+  }
+}

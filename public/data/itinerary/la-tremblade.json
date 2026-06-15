@@ -1,0 +1,451 @@
+{
+  "city_id": "la-tremblade",
+  "anchor": {
+    "name": "La Tremblade",
+    "coords": [
+      -1.1417,
+      45.7694
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 11.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sacré-Cœur-Kirche",
+            "hu": "Sacré-Cœur templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            -1.142377,
+            45.768641
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses religiösen Zentrums und spüren Sie die friedliche Atmosphäre, am besten am kühlen Vormittag.",
+            "hu": "Csodálja meg e vallási központ lenyűgöző építészetét és békés hangulatát, majd érdemes korán érkezni a hűvösebb idő végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui lăcaș de cult, remarcând liniștea sa, și veniți dimineața pentru a evita căldura amiezii.",
+            "en": "Admire the striking architecture of this religious centerpiece, noting its peaceful ambiance, and visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Pop Corn Labyrinthe",
+            "hu": "Pop Corn Labyrinthe",
+            "ro": "Pop Corn Labyrinthe",
+            "en": "Pop Corn Labyrinthe"
+          },
+          "coords": [
+            -1.147223,
+            45.758046
+          ],
+          "category": "family",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch dieses unterhaltsame Maislabyrinth, das Spaß für alle Altersgruppen bietet, und bringen Sie unbedingt ausreichend Wasser mit.",
+            "hu": "Találjon ki ebből a vidám kukoricaútvesztőből, amely minden korosztálynak nevetést ígér, és ne felejtsen el bőséges ivóvizet hozni magával.",
+            "ro": "Găsiți ieșirea din acest labirint distractiv de porumb perfect pentru toate vârstele și nu uitați să aveți la voi o sticlă mare de apă.",
+            "en": "Navigate through this fun-filled corn maze that promises laughter for all ages, and make sure to bring plenty of water for the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Cité de l'Huitre",
+            "hu": "Cité de l'Huitre Élménypark",
+            "ro": "Parcul Tematic Cité de l'Huitre",
+            "en": "Cité de l'Huitre Theme Park"
+          },
+          "coords": [
+            -1.121656,
+            45.793635
+          ],
+          "category": "family",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 72,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Kultur ein und lernen Sie in diesem Park alles über die Austernzucht, wobei Sie den Tourenplan prüfen sollten.",
+            "hu": "Merüljön el a helyi tengeri kultúrában az osztrigatenyésztést bemutató parkban, és mindenképp ellenőrizze a napi vezetett túrák időpontjait.",
+            "ro": "Descoperiți cultura maritimă locală învățând despre cultivarea stridiilor în acest parc, și verificați programul tururilor ghidate de dimineață.",
+            "en": "Dive into local maritime culture by learning about oyster farming in this engaging park, and check the daily schedule for feeding times or tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Mus du Loup",
+            "hu": "Le Mus du Loup",
+            "ro": "Le Mus du Loup",
+            "en": "Le Mus du Loup"
+          },
+          "coords": [
+            -1.14791,
+            45.79772
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang an diesem wunderschönen Ort am Wasser, perfekt für die Vogelbeobachtung mit Ihrem Fernglas.",
+            "hu": "Élvezze a pihentető sétát ezen a gyönyörű vízparti természetes helyen, amely tökéletes madárleshez, ezért hozza magával a távcsövét is.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în acest frumos colț de natură de lângă apă, ideal pentru observarea păsărilor, aducând și binoclul.",
+            "en": "Enjoy a relaxing stroll along this beautiful natural spot near the water, perfect for bird watching, so remember to pack your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferienort Ronce-les-Bains",
+            "hu": "Ronce-les-Bains üdülőhely",
+            "ro": "Stațiunea Ronce-les-Bains",
+            "en": "Ronce-les-Bains Resort"
+          },
+          "coords": [
+            -1.169925,
+            45.789968
+          ],
+          "category": "recreational",
+          "arrive_at": "16:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen charmanten Küstenort, um die Meeresatmosphäre zu genießen, und probieren Sie ein lokales Café für ein kühles Getränk.",
+            "hu": "Sétáljon végig ezen a hangulatos tengerparti üdülőhelyen, hogy magába szívja a nyári atmoszférát, és üljön be egy kávézóba hűsölni.",
+            "ro": "Plimbați-vă prin această fermecătoare stațiune de coastă pentru a absorbi atmosfera mării și încercați o cafenea locală pentru o băutură rece.",
+            "en": "Stroll through this charming coastal resort town to soak up the seaside atmosphere, and try one of the local cafés for a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von La Tremblade an der ruhigen Sacré-Cœur-Kirche. Von dort aus führt ein morgendlicher Spaziergang zum verspielten Pop Corn Labyrinthe.\nNachdem Sie Appetit bekommen haben, gehen Sie weiter zum Parc d'attraction de La Cité de l'Huitre. Hier tauchen Sie tief in das berühmte Erbe der Austernzucht ein.\nDer Nachmittag lädt zu einem friedlichen Spaziergang entlang der Küste zum Le Mus du Loup ein, wo sanfte Wellen eine malerische Kulisse bieten.\nIhre Reise endet im lebhaften Ronce-les-Bains Resort. Beenden Sie Ihr Abenteuer mit einem wunderschönen Sonnenuntergang und einem erfrischenden lokalen Getränk.",
+        "hu": "A nap a történelmi La Tremblade szívében indul, a békés Sacré-Cœur templomnál. Egy frissítő reggeli séta után a játékos Pop Corn Labyrinthe várja a látogatókat.\nKésőbb sétáljon tovább a Parc d'attraction de La Cité de l'Huitre felé, ahol megismerheti a régió híres osztrigatenyésztési hagyományait és tengeri kultúráját.\nA délután folyamán a Le Mus du Loup kínál kellemes, part menti barangolást, ahol a finom hullámok és a természet békéje vár mindenkit.\nA túra a nyüzsgő Ronce-les-Bains üdülőhelyen ér véget. Zárja a sétát egy lenyűgöző naplemente megtekintésével a vízparton, finom ital kíséretében.",
+        "ro": "Ziua începe în inima istorică a orașului La Tremblade, la liniștita biserică Sacré-Cœur. O scurtă plimbare vă duce apoi către amuzantul Pop Corn Labyrinthe.\nApoi, îndreptați-vă spre Parc d'attraction de La Cité de l'Huitre. Aici vă veți cufunda în moștenirea celebră a cultivării stridiilor din această regiune minunată.\nDupă-amiaza vă invită la o plimbare pașnică pe coastă până la Le Mus du Loup, unde valurile blânde și natura oferă un decor deosebit de pitoresc.\nCălătoria se încheie în stațiunea animată Ronce-les-Bains. Finalizați aventura pietonală cu un apus superb și o băutură răcoritoare chiar pe malul apei.",
+        "en": "Your day begins in the historic heart of La Tremblade at the serene Sacré-Cœur Church. From there, a morning walk takes you through the charming streets down to the playful Pop Corn Labyrinthe.\nAfter working up an appetite, continue towards the Parc d'attraction de La Cité de l'Huitre. Here, you will dive deep into the region's famous oyster farming heritage and enjoy the maritime sights.\nThe afternoon invites a peaceful stroll along the coast to Le Mus du Loup, where the gentle waves and local wildlife provide a picturesque backdrop.\nYour journey concludes in the bustling Ronce-les-Bains Resort. End your walking adventure with a beautiful sunset view and a refreshing local beverage right by the water's edge."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 22.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sacré-Cœur-Kirche",
+            "hu": "Sacré-Cœur templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            -1.142377,
+            45.768641
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses religiösen Zentrums und spüren Sie die friedliche Atmosphäre, am besten am kühlen Vormittag.",
+            "hu": "Csodálja meg e vallási központ lenyűgöző építészetét és békés hangulatát, majd érdemes korán érkezni a hűvösebb idő végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui lăcaș de cult, remarcând liniștea sa, și veniți dimineața pentru a evita căldura amiezii.",
+            "en": "Admire the striking architecture of this religious centerpiece, noting its peaceful ambiance, and visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Cité de l'Huitre",
+            "hu": "Cité de l'Huitre Élménypark",
+            "ro": "Parcul Tematic Cité de l'Huitre",
+            "en": "Cité de l'Huitre Theme Park"
+          },
+          "coords": [
+            -1.121656,
+            45.793635
+          ],
+          "category": "family",
+          "arrive_at": "10:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Kultur ein und lernen Sie in diesem Park alles über die Austernzucht, wobei Sie den Tourenplan prüfen sollten.",
+            "hu": "Merüljön el a helyi tengeri kultúrában az osztrigatenyésztést bemutató parkban, és mindenképp ellenőrizze a napi vezetett túrák időpontjait.",
+            "ro": "Descoperiți cultura maritimă locală învățând despre cultivarea stridiilor în acest parc, și verificați programul tururilor ghidate de dimineață.",
+            "en": "Dive into local maritime culture by learning about oyster farming in this engaging park, and check the daily schedule for feeding times or tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferienort Ronce-les-Bains",
+            "hu": "Ronce-les-Bains üdülőhely",
+            "ro": "Stațiunea Ronce-les-Bains",
+            "en": "Ronce-les-Bains Resort"
+          },
+          "coords": [
+            -1.169925,
+            45.789968
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen charmanten Küstenort, um die Meeresatmosphäre zu genießen, und probieren Sie ein lokales Café für ein kühles Getränk.",
+            "hu": "Sétáljon végig ezen a hangulatos tengerparti üdülőhelyen, hogy magába szívja a nyári atmoszférát, és üljön be egy kávézóba hűsölni.",
+            "ro": "Plimbați-vă prin această fermecătoare stațiune de coastă pentru a absorbi atmosfera mării și încercați o cafenea locală pentru o băutură rece.",
+            "en": "Stroll through this charming coastal resort town to soak up the seaside atmosphere, and try one of the local cafés for a refreshing drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Cèpe",
+            "hu": "La Cèpe strand",
+            "ro": "Plaja La Cèpe",
+            "en": "La Cèpe Beach"
+          },
+          "coords": [
+            -1.177004,
+            45.793425
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand dieses geschützten Strandes mit ruhigen Wellen und kommen Sie früh, um einen guten Platz zu ergattern.",
+            "hu": "Pihenjen ennek a védett, finom homokos strandnak a nyugodt vizénél, amely ideális úszáshoz, de érkezzen korán, hogy jó helyet kapjon.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje ferite cu valuri calme, ideală pentru înot, dar veniți devreme pentru a prinde un loc bun.",
+            "en": "Relax on the fine sands of this sheltered beach with calm waves, making it ideal for swimming, though arrive early to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von La Coubre",
+            "hu": "La Coubre erdő",
+            "ro": "Pădurea La Coubre",
+            "en": "La Coubre Forest"
+          },
+          "coords": [
+            -1.216189,
+            45.77192
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Atmen Sie den Duft der Kiefern ein, während Sie durch diesen weiten Küstenwald wandern, und tragen Sie festes Schuhwerk für die sandigen Wege.",
+            "hu": "Szívja magába a fenyőillatot, miközben ezen a hatalmas tengerparti erdőn túrázik, és viseljen zárt cipőt a homokos, egyenetlen ösvényeken.",
+            "ro": "Respirați mirosul pinilor în timp ce vă plimbați prin această vastă pădure de coastă și purtați încălțăminte solidă pentru potecile nisipoase.",
+            "en": "Breathe in the scent of pine trees as you hike or cycle through this vast coastal forest, and wear sturdy shoes for the sandy and uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Pop Corn Labyrinthe",
+            "hu": "Pop Corn Labyrinthe",
+            "ro": "Pop Corn Labyrinthe",
+            "en": "Pop Corn Labyrinthe"
+          },
+          "coords": [
+            -1.147223,
+            45.758046
+          ],
+          "category": "family",
+          "arrive_at": "16:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.7,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch dieses unterhaltsame Maislabyrinth, das Spaß für alle Altersgruppen bietet, und bringen Sie unbedingt ausreichend Wasser mit.",
+            "hu": "Találjon ki ebből a vidám kukoricaútvesztőből, amely minden korosztálynak nevetést ígér, és ne felejtsen el bőséges ivóvizet hozni magával.",
+            "ro": "Găsiți ieșirea din acest labirint distractiv de porumb perfect pentru toate vârstele și nu uitați să aveți la voi o sticlă mare de apă.",
+            "en": "Navigate through this fun-filled corn maze that promises laughter for all ages, and make sure to bring plenty of water for the journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der majestätischen Kirche Sacré-Cœur, bevor Sie zur Küste fahren, um die faszinierende Cité de l'Huitre und ihre Austern zu erkunden.\nMittags erreichen Sie den lebhaften Ferienort Ronce-les-Bains, der der perfekte Ort ist, um sich auszuruhen und inmitten charmanter Architektur etwas zu essen.\nTreten Sie nachmittags entlang der Küste zum Plage de La Cèpe, um schnell zu schwimmen, und fahren Sie dann in die schattigen Pfade des Waldes La Coubre.\nBeenden Sie Ihren aktiven Tag, indem Sie zurück in die Stadt radeln, um das Pop Corn Labyrinthe zu bezwingen, ein wunderbarer Abschluss Ihrer Tour.",
+        "hu": "Indítsa a kerékpártúrát a fenséges Sacré-Cœur templomnál, mielőtt a part felé venné az irányt, hogy felfedezze az osztrigatenyésztés titkait a Cité de l'Huitre-ben.\nA déli órák a nyüzsgő Ronce-les-Bains üdülőhelyre vezetik, ahol a hangulatos tengerparti építészet közepette megpihenhet és falatozhat egy kicsit.\nDélután tekerjen végig a parton a Plage de La Cèpe-hez egy frissítő fürdőzésre, majd fedezze fel a La Coubre erdő illatos, árnyékos ösvényeit.\nAz aktív nap lezárásaként kerekezzen vissza a város felé a Pop Corn Labyrinthe-hez, amely igazán játékos befejezése lesz a La Tremblade-i kalandnak.",
+        "ro": "Începeți turul cu bicicleta la biserica Sacré-Cœur înainte de a pedala spre coastă pentru a explora Cité de l'Huitre și expozițiile sale fascinante.\nLa prânz veți ajunge în animata stațiune Ronce-les-Bains, locul perfect pentru a vă odihni și a savura o gustare printre clădirile cochete.\nDupă-amiaza, pedalați spre Plage de La Cèpe pentru o scurtă baie, apoi aventurați-vă pe traseele umbrite și parfumate din pădurea La Coubre.\nÎncheiați ziua activă întorcându-vă spre oraș pentru a cuceri labirintul Pop Corn, o modalitate minunat de relaxantă de a termina turul.",
+        "en": "Kick off your cycling tour at the majestic Sacré-Cœur Church before riding towards the coast to explore the fascinating Cité de l'Huitre and its oyster farming exhibits.\nMidday brings you to the lively Ronce-les-Bains Resort, offering a perfect spot to rest and grab a quick bite amidst the charming seaside architecture.\nIn the afternoon, pedal along the coast to Plage de La Cèpe for a quick swim, then venture into the fragrant and shady trails of La Coubre Forest.\nWrap up your active day by cycling back towards town to conquer the Pop Corn Labyrinthe, a wonderfully playful way to finish your tour in La Tremblade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sacré-Cœur-Kirche",
+            "hu": "Sacré-Cœur templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            -1.142377,
+            45.768641
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses religiösen Zentrums und spüren Sie die friedliche Atmosphäre, am besten am kühlen Vormittag.",
+            "hu": "Csodálja meg e vallási központ lenyűgöző építészetét és békés hangulatát, majd érdemes korán érkezni a hűvösebb idő végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui lăcaș de cult, remarcând liniștea sa, și veniți dimineața pentru a evita căldura amiezii.",
+            "en": "Admire the striking architecture of this religious centerpiece, noting its peaceful ambiance, and visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Cité de l'Huitre",
+            "hu": "Cité de l'Huitre Élménypark",
+            "ro": "Parcul Tematic Cité de l'Huitre",
+            "en": "Cité de l'Huitre Theme Park"
+          },
+          "coords": [
+            -1.121656,
+            45.793635
+          ],
+          "category": "family",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Kultur ein und lernen Sie in diesem Park alles über die Austernzucht, wobei Sie den Tourenplan prüfen sollten.",
+            "hu": "Merüljön el a helyi tengeri kultúrában az osztrigatenyésztést bemutató parkban, és mindenképp ellenőrizze a napi vezetett túrák időpontjait.",
+            "ro": "Descoperiți cultura maritimă locală învățând despre cultivarea stridiilor în acest parc, și verificați programul tururilor ghidate de dimineață.",
+            "en": "Dive into local maritime culture by learning about oyster farming in this engaging park, and check the daily schedule for feeding times or tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferienort Ronce-les-Bains",
+            "hu": "Ronce-les-Bains üdülőhely",
+            "ro": "Stațiunea Ronce-les-Bains",
+            "en": "Ronce-les-Bains Resort"
+          },
+          "coords": [
+            -1.169925,
+            45.789968
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen charmanten Küstenort, um die Meeresatmosphäre zu genießen, und probieren Sie ein lokales Café für ein kühles Getränk.",
+            "hu": "Sétáljon végig ezen a hangulatos tengerparti üdülőhelyen, hogy magába szívja a nyári atmoszférát, és üljön be egy kávézóba hűsölni.",
+            "ro": "Plimbați-vă prin această fermecătoare stațiune de coastă pentru a absorbi atmosfera mării și încercați o cafenea locală pentru o băutură rece.",
+            "en": "Stroll through this charming coastal resort town to soak up the seaside atmosphere, and try one of the local cafés for a refreshing drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von La Coubre",
+            "hu": "La Coubre erdő",
+            "ro": "Pădurea La Coubre",
+            "en": "La Coubre Forest"
+          },
+          "coords": [
+            -1.216189,
+            45.77192
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Atmen Sie den Duft der Kiefern ein, während Sie durch diesen weiten Küstenwald wandern, und tragen Sie festes Schuhwerk für die sandigen Wege.",
+            "hu": "Szívja magába a fenyőillatot, miközben ezen a hatalmas tengerparti erdőn túrázik, és viseljen zárt cipőt a homokos, egyenetlen ösvényeken.",
+            "ro": "Respirați mirosul pinilor în timp ce vă plimbați prin această vastă pădure de coastă și purtați încălțăminte solidă pentru potecile nisipoase.",
+            "en": "Breathe in the scent of pine trees as you hike or cycle through this vast coastal forest, and wear sturdy shoes for the sandy and uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Bouverie",
+            "hu": "La Bouverie strand",
+            "ro": "Plaja La Bouverie",
+            "en": "La Bouverie Beach"
+          },
+          "coords": [
+            -1.191467,
+            45.729353
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit und die Wellen dieses weitläufigen Ozeanstrandes, aber achten Sie auf die starken Strömungen beim Schwimmen.",
+            "hu": "Tapasztalja meg ennek a hatalmas óceáni strandnak a nyers szépségét és erős hullámait, de fürdőzésnél ügyeljen az erős áramlatokra.",
+            "ro": "Experimentați frumusețea brută și valurile puternice ale acestei plaje oceanice vaste, însă fiți prudenți la curenții puternici dacă intrați în apă.",
+            "en": "Experience the raw beauty and powerful waves of this expansive ocean beach, but be cautious of the strong currents if you plan to enter the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm La Coubre",
+            "hu": "La Coubre világítótorony",
+            "ro": "Farul La Coubre",
+            "en": "La Coubre Lighthouse"
+          },
+          "coords": [
+            -1.233333,
+            45.696667
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.9,
+          "tip_5lang": {
+            "de": "Steigen Sie die Wendeltreppe dieses hoch aufragenden Leuchtturms hinauf für atemberaubende Ausblicke und kaufen Sie Tickets vorab online.",
+            "hu": "Mássza meg a tornyosuló világítótorony csigalépcsőjét az öbölre nyíló lélegzetelállító panorámáért, a jegyét pedig érdemes előre online megvenni.",
+            "ro": "Urcați pe scara în spirală a acestui far înalt pentru vederi panoramice uluitoare asupra golfului și cumpărați-vă biletele online din timp.",
+            "en": "Climb the spiral staircase of this towering lighthouse for breathtaking panoramic views of the bay, and buy your tickets online in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der historischen Kirche Sacré-Cœur und führt Sie schnell zum Charme des Parc d'attraction de La Cité de l'Huitre an der Küste.\nFahren Sie zum beliebten Ronce-les-Bains Resort für eine Mittagspause und genießen Sie die Küstenbrise und die klassische französische Meeresatmosphäre.\nAm Nachmittag führt eine malerische Route durch die Kiefern des Waldes La Coubre, die direkt zu den atemberaubenden Weiten des Strandes La Bouverie führt.\nBeenden Sie Ihren Roadtrip mit der Besteigung des berühmten Leuchtturms La Coubre, der Sie mit einem unvergesslichen Panoramablick auf den Sonnenuntergang belohnt.",
+        "hu": "A festői autózás a történelmi Sacré-Cœur templomnál indul, ahonnan gyorsan elérheti a partvidéki Cité de l'Huitre parkot és az osztrigatenyésztést.\nVezessen át a népszerű Ronce-les-Bains üdülőhelyre egy déli pihenőre, ahol élvezheti a tengeri szellőt és a klasszikus francia tengerparti hangulatot.\nA délutáni program egy gyönyörű útvonal a La Coubre erdő magas fenyői között, amely egyenesen a lenyűgöző La Bouverie Beach óceáni szakaszához vezet.\nAz utazást az ikonikus La Coubre világítótorony megmászásával zárja, amely felejthetetlen, panorámás naplementével jutalmazza meg az egész partszakasz felett.",
+        "ro": "Plimbarea pitorească cu mașina începe la biserica Sacré-Cœur, ducându-vă rapid către parcul de atracții Cité de l'Huitre pentru a învăța despre stridii.\nConduceți până la populara stațiune Ronce-les-Bains pentru o pauză de prânz relaxantă, bucurându-vă de briza și atmosfera clasică franceză.\nDupă-amiaza, un traseu frumos prin pinii înalți din pădurea La Coubre vă va conduce direct spre plaja uluitoare cu ieșire la ocean, La Bouverie.\nÎncheiați călătoria urcând în farul emblematic La Coubre, unde un apus panoramic de neuitat peste întreaga regiune vă va recompensa efortul.",
+        "en": "Your scenic drive begins at the historic Sacré-Cœur Church, quickly bringing you to the coastal charm of the Parc d'attraction de La Cité de l'Huitre to learn about oysters.\nDrive over to the popular Ronce-les-Bains Resort for a refreshing midday break, enjoying the coastal breeze and the classic French seaside atmosphere.\nThe afternoon features a scenic route through the towering pines of La Coubre Forest, leading directly to the stunning oceanic stretches of La Bouverie Beach.\nConclude your road trip by ascending the iconic La Coubre Lighthouse, rewarding you with an unforgettable panoramic sunset view over the entire coastal region."
+      }
+    }
+  }
+}

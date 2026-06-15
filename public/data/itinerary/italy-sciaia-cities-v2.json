@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-sciaia-cities-v2",
+  "anchor": {
+    "name": "Sciaia",
+    "coords": [
+      17.95824,
+      40.65747
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 2.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana De Torres",
+            "hu": "Fontana De Torres",
+            "ro": "Fontana De Torres",
+            "en": "Fontana De Torres"
+          },
+          "coords": [
+            17.945519,
+            40.637563
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser elegante Brunnen aus dem 17. Jahrhundert ist ein toller Startpunkt, also machen Sie schnell ein Foto der feinen Details, bevor der Platz voll wird.",
+            "hu": "Ez az elegáns 17. századi szökőkút remek kiindulópont, így készítsen egy gyors fotót a bonyolult faragványokról, mielőtt a tér túlságosan zsúfolttá válna.",
+            "ro": "Această fântână elegantă din secolul al XVII-lea este un punct de plecare excelent, așa că faceți o fotografie cu sculpturile sale înainte ca piața să se aglomereze.",
+            "en": "This elegant 17th-century fountain is a great starting point, so snap a quick photo of the intricate carvings before the square gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Annunziata",
+            "hu": "Chiesa dell'Annunziata",
+            "ro": "Chiesa dell'Annunziata",
+            "en": "Chiesa dell'Annunziata"
+          },
+          "coords": [
+            17.948685,
+            40.637374
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um die beeindruckenden barocken Details zu bewundern, aber denken Sie an angemessene Kleidung für den Besuch.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megcsodálja barokk részleteit, de a látogatáshoz mindenképpen válasszon az alkalomhoz illő, visszafogott öltözetet.",
+            "ro": "Pășiți în această biserică frumoasă pentru a admira detaliile sale baroce, dar nu uitați să vă îmbrăcați decent și să păstrați liniștea în interior.",
+            "en": "Step inside this beautiful church to admire its baroque details, but remember to dress modestly and speak softly out of respect for the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Virgilio",
+            "hu": "Monumento a Virgilio",
+            "ro": "Monumento a Virgilio",
+            "en": "Monumento a Virgilio"
+          },
+          "coords": [
+            17.948007,
+            40.639755
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses Denkmal ehrt den großen römischen Dichter Vergil, der hier starb; genießen Sie den schönen Ausblick auf das Wasser von diesem ruhigen Aussichtspunkt.",
+            "hu": "Ez az emlékmű a nagy római költő, Vergilius előtt tiszteleg; élvezze a vízre nyíló csodálatos kilátást erről a békés és csendes kilátópontról.",
+            "ro": "Acest monument îl onorează pe marele poet roman Virgil; bucurați-vă de vederea superbă la apă de la acest punct de observație liniștit.",
+            "en": "This monument honors the great Roman poet Virgil who died here; enjoy the beautiful view of the water from this peaceful coastal vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Loggia del Palazzo Balsamo",
+            "hu": "Loggia del Palazzo Balsamo",
+            "ro": "Loggia del Palazzo Balsamo",
+            "en": "Loggia del Palazzo Balsamo"
+          },
+          "coords": [
+            17.944859,
+            40.640201
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reich verzierten Balkone dieses historischen Palastes, und achten Sie besonders auf die feinen steinernen Gesichter, die die Bögen stützen.",
+            "hu": "Csodálja meg e történelmi palota díszes erkélyeit, és fordítson különös figyelmet az íveket tartó, finoman kidolgozott kőarcokra.",
+            "ro": "Admirați balcoanele ornamentate ale acestui palat istoric și acordați o atenție deosebită fețelor de piatră fin detaliate care susțin arcadele impresionante.",
+            "en": "Admire the ornate balconies of this historic palace, paying special attention to the intricately carved stone faces that elegantly support the arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Comunale “Armando Scivales”",
+            "hu": "Pinacoteca Comunale “Armando Scivales”",
+            "ro": "Pinacoteca Comunale “Armando Scivales”",
+            "en": "Pinacoteca Comunale “Armando Scivales”"
+          },
+          "coords": [
+            17.943905,
+            40.639891
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier faszinierende lokale Kunstwerke, aber prüfen Sie vorher die Öffnungszeiten, da kleine städtische Galerien mittags oft schließen.",
+            "hu": "Fedezze fel a lenyűgöző helyi alkotásokat, de előzetesen ellenőrizze a nyitvatartási időt, mivel a kisebb városi galériák délben gyakran bezárnak.",
+            "ro": "Descoperiți aici opere de artă locale fascinante, dar verificați programul în prealabil, deoarece micile galerii municipale se închid adesea la prânz.",
+            "en": "Discover fascinating local artworks here, but be sure to check the hours beforehand as smaller municipal galleries often close for a midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di San Giovanni al Sepolcro",
+            "hu": "Tempio di San Giovanni al Sepolcro",
+            "ro": "Tempio di San Giovanni al Sepolcro",
+            "en": "Tempio di San Giovanni al Sepolcro"
+          },
+          "coords": [
+            17.942952,
+            40.638774
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser kreisförmige Tempel bietet eine mystische Atmosphäre aus der Zeit der Kreuzfahrer; achten Sie auf die verblassten Fresken an den alten Wänden.",
+            "hu": "Ez a kör alakú templom a keresztes lovagok korát idéző misztikus hangulatot áraszt; figyelje meg a régi falakon lévő elhalványult freskókat.",
+            "ro": "Acest templu circular oferă o atmosferă mistică din vremea cruciaților; căutați cu atenție frescele estompate de pe pereții antici curbați.",
+            "en": "This circular temple offers a mystical atmosphere from the Crusader era; look closely to spot the faded frescoes painted on the ancient curved walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Italian Sailor Monument",
+            "hu": "Italian Sailor Monument",
+            "ro": "Italian Sailor Monument",
+            "en": "Italian Sailor Monument"
+          },
+          "coords": [
+            17.947013,
+            40.644594
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses gigantische Denkmal in Form eines Steuerruders dominiert den Hafen; klettern Sie nach oben, um das beste Panorama der ganzen Stadt zu erleben.",
+            "hu": "Ez a gigantikus, hajókormányt formázó emlékmű uralja a kikötőt; másszon fel a tetejére, hogy a legjobb panorámát élvezhesse az egész városra.",
+            "ro": "Acest monument gigantic în formă de cârmă domină portul; urcați până la vârf pentru a vă bucura de cea mai bună panoramă asupra întregului oraș.",
+            "en": "This gigantic rudder-shaped monument dominates the harbor; make the effort to climb to the top for the absolute best panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag im historischen Herzen der Stadt mit einem gemütlichen Spaziergang vom eleganten Fontana De Torres zur barocken Chiesa dell'Annunziata. Am Vormittag erreichen wir das Wasser, wo das Monumento a Virgilio an alte Poesie erinnert, gefolgt von den architektonischen Wundern der Loggia del Palazzo Balsamo. Der Mittag ist der Kunst in der Pinacoteca gewidmet, bevor wir die mystische Architektur des Tempio di San Giovanni al Sepolcro bewundern. Wir beenden unsere zu Fuß zurückgelegte Entdeckungsreise am riesigen Italian Sailor Monument mit einem weiten Blick auf den Hafen.",
+        "hu": "A napot a történelmi központban kezdjük, egy kellemes sétával az elegáns Fontana De Torres-től a barokk Chiesa dell'Annunziata templomig. Délelőtt elérjük a vízpartot, ahol a Monumento a Virgilio a régi költészetet idézi, majd a Loggia del Palazzo Balsamo építészeti csodái következnek. A delet a művészetnek szenteljük a Pinacoteca galériában, mielőtt megcsodálnánk a Tempio di San Giovanni al Sepolcro misztikus kör alakú építészetét. Gyalogos túránkat a hatalmas Italian Sailor Monumentnél zárjuk, élvezve a kikötőre nyíló páratlan kilátást.",
+        "ro": "Începem ziua în inima istorică a orașului cu o plimbare plăcută de la eleganta Fontana De Torres la baroca Chiesa dell'Annunziata. Spre prânz, ajungem la apă unde Monumento a Virgilio amintește de poezia antică, urmat de minunile arhitecturale de la Loggia del Palazzo Balsamo. Dedicăm miezul zilei artei la Pinacoteca, înainte de a admira arhitectura mistică de la Tempio di San Giovanni al Sepolcro. Ne încheiem explorarea pietonală la masivul Italian Sailor Monument, cu o vedere panoramică superbă asupra întregului port.",
+        "en": "We start the day in the historical heart with a gentle stroll from the elegant Fontana De Torres to the baroque Chiesa dell'Annunziata. By late morning, we reach the water where Monumento a Virgilio recalls ancient poetry, followed by the architectural wonders of Loggia del Palazzo Balsamo. Midday is dedicated to local art at the Pinacoteca before admiring the mystical architecture of Tempio di San Giovanni al Sepolcro. We conclude our walking exploration at the massive Italian Sailor Monument with a sweeping view over the bustling harbor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Costiero Punta del Serrone",
+            "hu": "Parco Costiero Punta del Serrone",
+            "ro": "Parco Costiero Punta del Serrone",
+            "en": "Parco Costiero Punta del Serrone"
+          },
+          "coords": [
+            17.943451,
+            40.676705
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser Küstenpark ist perfekt zum morgendlichen Radfahren; bringen Sie eine Wasserflasche mit und genießen Sie die unberührte mediterrane Meeresbrise.",
+            "hu": "Ez a tengerparti park tökéletes a reggeli kerékpározáshoz; hozzon magával egy kulacs vizet, és élvezze az érintetlen mediterrán tengeri szellőt.",
+            "ro": "Acest parc de coastă este perfect pentru o plimbare matinală cu bicicleta; luați o sticlă cu apă și bucurați-vă de briza proaspătă a mării Mediterane.",
+            "en": "This coastal park is perfect for a morning bike ride; bring a water bottle and enjoy the crisp, unspoiled Mediterranean sea breeze before the sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria del Casale",
+            "hu": "Santa Maria del Casale",
+            "ro": "Santa Maria del Casale",
+            "en": "Santa Maria del Casale"
+          },
+          "coords": [
+            17.935138,
+            40.654347
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Die zweifarbige Fassade dieses Nationaldenkmals ist atemberaubend; ketten Sie Ihr Fahrrad sicher an und bewundern Sie die Fresken im Inneren.",
+            "hu": "Ennek a nemzeti emlékműnek a kétszínű homlokzata lélegzetelállító; zárja le biztonságosan a kerékpárját, és csodálja meg a benti freskókat.",
+            "ro": "Fațada în două culori a acestui monument național este uluitoare; legați-vă bicicleta în siguranță afară și admirați frescele impresionante din interior.",
+            "en": "The two-tone facade of this national monument is breathtaking; lock your bike securely outside and step in to admire the beautifully preserved frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Italian Sailor Monument",
+            "hu": "Italian Sailor Monument",
+            "ro": "Italian Sailor Monument",
+            "en": "Italian Sailor Monument"
+          },
+          "coords": [
+            17.947013,
+            40.644594
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem massiven Hafenwahrzeichen ist Pflicht; es bietet einen tollen Hintergrund für ein Erinnerungsfoto mit Ihrem Fahrrad.",
+            "hu": "Egy rövid megálló ennél a masszív kikötői tájékozódási pontnál kötelező; nagyszerű hátteret biztosít egy emlékezetes fotóhoz a kerékpárjával.",
+            "ro": "O scurtă oprire la acest punct de reper masiv al portului este obligatorie; oferă un fundal excelent pentru o fotografie de neuitat alături de bicicletă.",
+            "en": "A brief stop at this massive harbor landmark is mandatory; it provides a striking and dramatic backdrop for a memorable photo with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di San Teodoro d'Amasea",
+            "hu": "Statua di San Teodoro d'Amasea",
+            "ro": "Statua di San Teodoro d'Amasea",
+            "en": "Statua di San Teodoro d'Amasea"
+          },
+          "coords": [
+            17.945116,
+            40.647588
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese Statue feiert den Schutzpatron der Stadt; nutzen Sie den Platz hier für eine kleine Pause, bevor Sie Ihre historische Erkundung fortsetzen.",
+            "hu": "Ez a szobor a város védőszentjét ünnepli; használja ki a teret egy kis pihenésre, mielőtt folytatná történelmi felfedezőútját a városban.",
+            "ro": "Această statuie celebrează patronul orașului; folosiți spațiul de aici pentru o scurtă pauză de odihnă înainte de a vă continua explorarea istorică.",
+            "en": "This proud statue celebrates the city's patron saint; use the surrounding plaza to take a restful pause before continuing your historical exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte a Mare",
+            "hu": "Forte a Mare",
+            "ro": "Forte a Mare",
+            "en": "Forte a Mare"
+          },
+          "coords": [
+            17.968278,
+            40.656881
+          ],
+          "category": "fortress",
+          "arrive_at": "13:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Insel hinaus, um diese Seefestung zu sehen; die Brückenüberquerung ist spektakulär, aber achten Sie auf den starken Seitenwind.",
+            "hu": "Kerékpározzon ki a szigetre, hogy megnézze ezt a tengeri erődöt; a hídon való átkelés látványos, de vigyázzon az erős oldalszéllel az úton.",
+            "ro": "Pedalați până la insulă pentru a vedea această fortăreață maritimă; traversarea podului este spectaculoasă, dar fiți atenți la vântul lateral puternic.",
+            "en": "Pedal out towards the island to explore this massive sea fortress; the bridge crossing is spectacular, but be cautious of strong coastal crosswinds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten sportlich mit einer erfrischenden Radtour durch den Parco Costiero Punta del Serrone und genießen die salzige Meeresluft. Später am Vormittag erreichen wir die faszinierende Kirche Santa Maria del Casale, deren zweifarbige Fassade im Sonnenlicht erstrahlt. Danach radeln wir hinab zum geschäftigen Hafen, um das imposante Italian Sailor Monument zu bestaunen. Am Nachmittag passieren wir die historische Statua di San Teodoro d'Amasea, bevor unsere Tour mit einer unvergesslichen Fahrt zum Forte a Mare, der mächtigen Seefestung, ihren krönenden Abschluss findet.",
+        "hu": "Sportosan indítunk egy frissítő kerékpártúrával a Parco Costiero Punta del Serrone parkban, élvezve a sós tengeri levegőt. Később délelőtt elérjük a lenyűgöző Santa Maria del Casale templomot, melynek kétszínű homlokzata ragyog a napsütésben. Ezután leereszkedünk a forgalmas kikötőbe, hogy megcsodáljuk az impozáns Italian Sailor Monumentet. Délután elhaladunk a történelmi Statua di San Teodoro d'Amasea mellett, majd túránk egy felejthetetlen tekeréssel zárul a Forte a Mare, a hatalmas tengeri erőd felé.",
+        "ro": "Începem energic cu o plimbare revigorantă cu bicicleta prin Parco Costiero Punta del Serrone, bucurându-ne de aerul sărat al mării. Mai târziu în cursul dimineții, ajungem la fascinanta biserică Santa Maria del Casale, a cărei fațadă în două culori strălucește în soare. Coborâm apoi spre portul plin de viață pentru a admira impunătorul Italian Sailor Monument. După-amiaza trecem pe lângă istorica Statua di San Teodoro d'Amasea, înainte ca turul nostru să se încheie cu o plimbare memorabilă spre Forte a Mare, fortăreața maritimă.",
+        "en": "We kick off actively with a refreshing morning ride through Parco Costiero Punta del Serrone, soaking in the pristine coastal atmosphere. Later, we pedal inland to the striking Santa Maria del Casale, an architectural gem with its unique two-tone facade. The route then sweeps down to the harbor to greet the towering Italian Sailor Monument. In the afternoon, we pause at the historical Statua di San Teodoro d'Amasea before finishing with an unforgettable ride across the water to the massive sea fortress, Forte a Mare."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 10.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte a Mare",
+            "hu": "Forte a Mare",
+            "ro": "Forte a Mare",
+            "en": "Forte a Mare"
+          },
+          "coords": [
+            17.968278,
+            40.656881
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser gewaltigen Seefestung; parken Sie direkt vor den Toren und genießen Sie die noch ruhigen Morgenstunden am Wasser.",
+            "hu": "Kezdje a napot ennél a hatalmas tengeri erődnél; parkoljon le közvetlenül a kapuk előtt, és élvezze a még csendes, nyugodt reggeli órákat a vízparton.",
+            "ro": "Începeți ziua la această fortăreață maritimă masivă; parcați chiar la porți și bucurați-vă de orele liniștite ale dimineții pe malul apei albastre.",
+            "en": "Start your day at this massive sea fortress; park right near the main gates and enjoy the remarkably quiet morning hours by the glittering water."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria del Casale",
+            "hu": "Santa Maria del Casale",
+            "ro": "Santa Maria del Casale",
+            "en": "Santa Maria del Casale"
+          },
+          "coords": [
+            17.935138,
+            40.654347
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück landeinwärts zu dieser Kirche; es gibt hier ausreichend Parkplätze, sodass Sie die unglaublichen Fresken entspannt ansehen können.",
+            "hu": "Vezessen egy rövid szakaszt a szárazföld belseje felé ehhez a templomhoz; itt elegendő parkolóhely van, így nyugodtan megcsodálhatja a hihetetlen freskókat.",
+            "ro": "Conduceți pe o distanță scurtă spre interior până la această biserică; parcarea de aici este ușoară, permițându-vă să explorați frescele incredibile fără grabă.",
+            "en": "Drive a short distance inland to this historic church; the parking here is ample and easy, letting you take your time examining the incredible frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker",
+            "hu": "Bunker",
+            "ro": "Bunker",
+            "en": "Bunker"
+          },
+          "coords": [
+            17.944708,
+            40.676438
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese verborgenen militärischen Relikte an der Küste; tragen Sie festes Schuhwerk, da das Gelände um die alten Bunker herum etwas uneben ist.",
+            "hu": "Fedezze fel ezeket a rejtett katonai emlékeket a parton; viseljen erős, zárt cipőt, mivel a régi bunkerek körüli terep helyenként meglehetősen egyenetlen.",
+            "ro": "Explorați aceste relicve militare ascunse de pe coastă; purtați încălțăminte robustă, deoarece terenul din jurul vechilor buncăre poate fi destul de accidentat.",
+            "en": "Explore these hidden coastal military relics; be sure to wear sturdy shoes as the ground immediately surrounding the old bunkers is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Costiero Punta del Serrone",
+            "hu": "Parco Costiero Punta del Serrone",
+            "ro": "Parco Costiero Punta del Serrone",
+            "en": "Parco Costiero Punta del Serrone"
+          },
+          "coords": [
+            17.943451,
+            40.676705
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur eine Minute entfernt liegt dieser ruhige Naturpark; ideal für einen entspannten Spaziergang am Mittag mit fantastischem Blick auf das offene Meer.",
+            "hu": "Mindössze egy percre fekszik ez a csendes natúrpark; ideális egy pihentető déli sétához, ahonnan fantasztikus kilátás nyílik a nyílt tengerre.",
+            "ro": "La doar un minut distanță se află acest parc natural liniștit; ideal pentru o plimbare relaxantă la prânz, cu vederi fantastice către marea deschisă.",
+            "en": "Just a minute down the road is this tranquil nature park; it's absolutely ideal for a relaxing midday stroll with fantastic views of the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Brindisi",
+            "hu": "Municipio di Brindisi",
+            "ro": "Municipio di Brindisi",
+            "en": "Municipio di Brindisi"
+          },
+          "coords": [
+            17.945857,
+            40.638552
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag am prächtigen Rathaus; parken Sie in den Randbezirken und spazieren Sie das letzte Stück, um dem städtischen Verkehrschaos zu entgehen.",
+            "hu": "Zárja a napot a pompás városházánál; parkoljon le a külső kerületekben, és az utolsó szakaszt tegye meg gyalog, hogy elkerülje a városi forgalmat.",
+            "ro": "Încheiați ziua la magnifica primărie; parcați la marginea centrului și parcurgeți ultima distanță pe jos pentru a evita traficul aglomerat din oraș.",
+            "en": "Finish your road trip at the magnificent city hall; try to park on the edge of the historic center and walk the last bit to avoid narrow street traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließt sich die Weite der Stadt optimal, beginnend am beeindruckenden Forte a Mare, das stolz im Wasser thront. Danach fahren wir ein kurzes Stück landeinwärts, um die kunstvollen Fresken von Santa Maria del Casale zu bewundern. Gegen Mittag erkunden wir die raue Küstenlandschaft im Norden und entdecken die verborgenen Bunker aus vergangenen Zeiten. Nach einer entspannten Pause im Parco Costiero Punta del Serrone fahren wir zurück ins Herz der Stadt zum majestätischen Municipio di Brindisi.",
+        "hu": "Az autó tökéletesen feltárja a város tágasságát, kezdve a lenyűgöző Forte a Mare erőddel, amely büszkén trónol a vizeken. Ezt követően egy rövid szakaszon a szárazföld felé autózunk, hogy megcsodáljuk a Santa Maria del Casale művészi freskóit. Dél körül felfedezzük a zord északi partvidéket, és rábukkanunk a múlt rejtett bunkereire. A Parco Costiero Punta del Serrone parkban tett pihentető szünet után visszatérünk a város szívébe, a fenséges Municipio di Brindisi épületéhez.",
+        "ro": "Cu mașina, explorăm cu ușurință întinderea orașului, începând cu impresionantul Forte a Mare, care stă mândru pe apă. Conducem apoi o scurtă distanță spre interior pentru a admira frescele artistice de la Santa Maria del Casale. Spre prânz, explorăm peisajul de coastă accidentat din nord, descoperind buncărele ascunse din epocile trecute. După o pauză relaxantă în Parco Costiero Punta del Serrone, ne întoarcem în inima orașului la maiestuosul Municipio di Brindisi.",
+        "en": "Using a car opens up the broader scope of the city, starting right at the impressive Forte a Mare that sits proudly out on the water. We then drive a short distance inland to admire the stunning, historical frescoes of Santa Maria del Casale. By midday, we explore the rugged northern coastal landscape, discovering hidden World War II bunkers. After a relaxing and scenic pause at Parco Costiero Punta del Serrone, we cruise back into the city's heart to conclude at the majestic Municipio."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-castro-urdiales-cities-v2",
+  "anchor": {
+    "name": "Castro Urdiales",
+    "coords": [
+      -3.215,
+      43.384444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Mar Calafate",
+            "hu": "Museo del Mar Calafate",
+            "ro": "Museo del Mar Calafate",
+            "en": "Museo del Mar Calafate"
+          },
+          "coords": [
+            -3.216962,
+            43.384718
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe durch faszinierende Ausstellungen und prüfen Sie vorab die Öffnungszeiten, da diese je nach Jahreszeit variieren.",
+            "hu": "Fedezze fel Castro Urdiales gazdag tengerészeti örökségét a lenyűgöző kiállításokon keresztül, de előtte feltétlenül ellenőrizze az évszakonként változó nyitvatartást.",
+            "ro": "Explorați bogata moștenire maritimă prin expoziții fascinante și asigurați-vă că verificați programul de funcționare, deoarece acesta variază în funcție de sezon.",
+            "en": "Explore the rich maritime heritage of Castro Urdiales through fascinating exhibits, and make sure to check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro del castillo de Santa Ana",
+            "hu": "Faro del castillo de Santa Ana",
+            "ro": "Faro del castillo de Santa Ana",
+            "en": "Faro del castillo de Santa Ana"
+          },
+          "coords": [
+            -3.214692,
+            43.38456
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Leuchtturms an den Burgruinen und bringen Sie Ihre Kamera für spektakuläre Meerespanoramen mit.",
+            "hu": "Csodálja meg a történelmi világítótorony lenyűgöző építészetét a várromok hátterében, és hozzon magával fényképezőgépet az óceáni panorámához.",
+            "ro": "Admirați arhitectura uluitoare a acestui far istoric situat lângă ruinele castelului, aducând aparatul foto pentru panorame spectaculoase cu oceanul.",
+            "en": "Admire the striking architecture of this historic lighthouse set against the castle ruins, bringing your camera for spectacular ocean panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenal",
+            "hu": "Arenal",
+            "ro": "Arenal",
+            "en": "Arenal"
+          },
+          "coords": [
+            -3.217232,
+            43.381535
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang entlang dieses Erholungsgebiets, um die frische Meeresbrise zu genießen, und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Tegyen egy pihentető sétát ezen a rekreációs területen, élvezve a friss tengeri szellőt, kényelmes cipőt viselve a homokos és kövezett utakon.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei zone de agrement pentru a vă bucura de briza proaspătă, purtând încălțăminte confortabilă pentru aleile nisipoase.",
+            "en": "Take a relaxing stroll along this recreational area to enjoy the fresh sea breeze, wearing comfortable walking shoes for the sandy and paved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Acueducto Romano de El Chorrillo",
+            "hu": "Acueducto Romano de El Chorrillo",
+            "ro": "Acueducto Romano de El Chorrillo",
+            "en": "Acueducto Romano de El Chorrillo"
+          },
+          "coords": [
+            -3.226208,
+            43.381514
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bemerkenswerte Ingenieurskunst dieses antiken römischen Aquädukts in der Stadt und achten Sie auf die gut erhaltenen Details.",
+            "hu": "Fedezze fel a városban megbúvó ősi római vízvezeték figyelemre méltó mérnöki munkáját, ügyelve a jól megőrzött szerkezeti részletekre.",
+            "ro": "Descoperiți ingineria remarcabilă a acestui apeduct roman antic ascuns în oraș, acordând atenție detaliilor structurale bine conservate.",
+            "en": "Discover the remarkable engineering of this ancient Roman aqueduct hidden in the town, paying attention to the well-preserved structural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Ostende o Urdiales",
+            "hu": "Playa de Ostende o Urdiales",
+            "ro": "Playa de Ostende o Urdiales",
+            "en": "Playa de Ostende o Urdiales"
+          },
+          "coords": [
+            -3.225327,
+            43.386681
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am dunklen Sand dieses ikonischen Strandes und bringen Sie ein Handtuch mit, um die wunderschönen Farben der Dämmerung zu beobachten.",
+            "hu": "Pihenjen meg a híres strand sötét homokján, és hozzon magával egy törölközőt, hogy kényelmesen gyönyörködhessen a Kantábriai-tenger alkonyati színeiben.",
+            "ro": "Relaxați-vă pe nisipul închis la culoare al acestei plaje iconice, aducând un prosop pentru a admira culorile superbe ale crepusculului.",
+            "en": "Relax on the unique dark sands of this iconic beach, bringing a towel to sit back and watch the beautiful twilight colors over the Cantabrian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der maritimen Geschichte im örtlichen Museum, bevor Sie zum Leuchtturm gehen. Mittags spazieren Sie durch erholsame Freizeitanlagen nahe der Küste. Am Nachmittag entdecken Sie die beeindruckenden Überreste des römischen Aquädukts. Lassen Sie den Tag am wunderschönen Strand von Ostende entspannt ausklingen.",
+        "hu": "Kezdje a reggelt a helyi tengerészeti múzeumban, majd sétáljon el az ikonikus világítótoronyhoz. A déli órákban fedezze fel a tengerpart közeli kellemes pihenőhelyeket. Délután csodálja meg a lenyűgöző római vízvezeték maradványait. Zárja a napot az Ostende strand gyönyörű partján, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața explorând istoria maritimă la muzeul local înainte de a vă îndrepta spre farul iconic. La amiază, plimbați-vă prin zonele de agrement relaxante de lângă țărm. După-amiaza, descoperiți rămășițele impresionante ale apeductului roman. Încheiați-vă ziua relaxându-vă pe frumoasa plajă Ostende, la apus.",
+        "en": "Start your morning exploring the rich maritime history at the local museum before moving towards the iconic lighthouse. Midday takes you through relaxing recreational spots near the shore. In the afternoon, discover the impressive Roman aqueduct remnants. Conclude your day unwinding at the beautiful Ostende beach as the sun begins to set."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cueva de Urdiales o Aurelia",
+            "hu": "Cueva de Urdiales o Aurelia",
+            "ro": "Cueva de Urdiales o Aurelia",
+            "en": "Cueva de Urdiales o Aurelia"
+          },
+          "coords": [
+            -3.229322,
+            43.390206
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die faszinierenden natürlichen Formationen dieser historischen Höhle und bringen Sie eine kleine Taschenlampe mit, um die Wände zu bewundern.",
+            "hu": "Lépjen be a történelmi barlang lenyűgöző természetes képződményei közé, és hozzon magával egy kis zseblámpát a sziklafalak biztonságos megcsodálásához.",
+            "ro": "Pășiți în formațiunile naturale fascinante ale acestei peșteri istorice, aducând o mică lanternă pentru a admira în siguranță texturile pereților de stâncă.",
+            "en": "Step into the fascinating natural formations of this historic cave, bringing a small flashlight to safely admire the intriguing textures of the rock walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Ostende o Urdiales",
+            "hu": "Playa de Ostende o Urdiales",
+            "ro": "Playa de Ostende o Urdiales",
+            "en": "Playa de Ostende o Urdiales"
+          },
+          "coords": [
+            -3.225327,
+            43.386681
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am dunklen Sand dieses ikonischen Strandes und bringen Sie ein Handtuch mit, um die wunderschönen Farben der Dämmerung zu beobachten.",
+            "hu": "Pihenjen meg a híres strand sötét homokján, és hozzon magával egy törölközőt, hogy kényelmesen gyönyörködhessen a Kantábriai-tenger alkonyati színeiben.",
+            "ro": "Relaxați-vă pe nisipul închis la culoare al acestei plaje iconice, aducând un prosop pentru a admira culorile superbe ale crepusculului.",
+            "en": "Relax on the unique dark sands of this iconic beach, bringing a towel to sit back and watch the beautiful twilight colors over the Cantabrian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mar Calafate",
+            "hu": "Museo del Mar Calafate",
+            "ro": "Museo del Mar Calafate",
+            "en": "Museo del Mar Calafate"
+          },
+          "coords": [
+            -3.216962,
+            43.384718
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe durch faszinierende Ausstellungen und prüfen Sie vorab die Öffnungszeiten, da diese je nach Jahreszeit variieren.",
+            "hu": "Fedezze fel Castro Urdiales gazdag tengerészeti örökségét a lenyűgöző kiállításokon keresztül, de előtte feltétlenül ellenőrizze az évszakonként változó nyitvatartást.",
+            "ro": "Explorați bogata moștenire maritimă prin expoziții fascinante și asigurați-vă că verificați programul de funcționare, deoarece acesta variază în funcție de sezon.",
+            "en": "Explore the rich maritime heritage of Castro Urdiales through fascinating exhibits, and make sure to check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro del castillo de Santa Ana",
+            "hu": "Faro del castillo de Santa Ana",
+            "ro": "Faro del castillo de Santa Ana",
+            "en": "Faro del castillo de Santa Ana"
+          },
+          "coords": [
+            -3.214692,
+            43.38456
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Leuchtturms an den Burgruinen und bringen Sie Ihre Kamera für spektakuläre Meerespanoramen mit.",
+            "hu": "Csodálja meg a történelmi világítótorony lenyűgöző építészetét a várromok hátterében, és hozzon magával fényképezőgépet az óceáni panorámához.",
+            "ro": "Admirați arhitectura uluitoare a acestui far istoric situat lângă ruinele castelului, aducând aparatul foto pentru panorame spectaculoase cu oceanul.",
+            "en": "Admire the striking architecture of this historic lighthouse set against the castle ruins, bringing your camera for spectacular ocean panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Solarium",
+            "hu": "Solarium",
+            "ro": "Solarium",
+            "en": "Solarium"
+          },
+          "coords": [
+            -3.212489,
+            43.377956
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem friedlichen Küstenplatz und kommen Sie früh, um sich einen guten Platz am Wasser vor den Nachmittagsmassen zu sichern.",
+            "hu": "Élvezze a napsütést ezen a békés tengerparti pihenőhelyen, de érkezzen korán, hogy még a délutáni tömeg előtt találjon egy jó helyet a vízparton.",
+            "ro": "Bucurați-vă de soare în acest loc liniștit de pe coastă, ajungând devreme pentru a prinde un loc bun lângă apă înaintea aglomerației de după-amiază.",
+            "en": "Soak up the sun at this peaceful coastal lounging spot, arriving early to claim a good place by the water before the local afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Cotolino",
+            "hu": "Parque Cotolino",
+            "ro": "Parque Cotolino",
+            "en": "Parque Cotolino"
+          },
+          "coords": [
+            -3.207211,
+            43.375304
+          ],
+          "category": "natural",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppig grünen Pfade dieses malerischen Parks mit Blick auf die Klippen, was ihn zu einem idealen Ort für ein Picknick macht.",
+            "hu": "Sétáljon a sziklákra néző festői park buja zöld ösvényein, amely ideális helyszín egy békés piknikhez a helyi finomságokkal.",
+            "ro": "Plimbați-vă pe potecile verzi luxuriante ale acestui parc pitoresc cu vedere la stânci, acesta fiind un loc ideal pentru un picnic liniștit.",
+            "en": "Wander through the lush green paths of this scenic park overlooking the cliffs, making it an ideal spot for a peaceful picnic with local delicacies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der faszinierenden Aurelia-Höhle, um die morgendliche Natur zu genießen. Fahren Sie gemütlich zum Ostende-Strand und zum zentralen Meeresmuseum, um die Kultur einzuatmen. Der Mittag eignet sich perfekt zur Erkundung des Leuchtturms. Der Nachmittag endet entspannt mit einer Fahrt durch den Cotolino-Park.",
+        "hu": "Indítsa kerékpártúráját a lenyűgöző Aurelia-barlangnál, élvezve a reggeli természetet. Tekerjen el az Ostende strandhoz és a tengerészeti múzeumhoz, hogy magába szívja a kultúrát. A dél tökéletes a világítótorony és a napos partok felfedezésére. A délutánt egy kellemes kerékpározás zárja a Cotolino parkban.",
+        "ro": "Începeți turul cu bicicleta la fascinanta peșteră Aurelia pentru a vă bucura de natura matinală. Mergeți spre plaja Ostende și muzeul maritim central pentru a simți vibrația culturală. Amiaza este perfectă pentru a explora farul și colțurile însorite ale coastei. După-amiaza se încheie relaxant cu o plimbare prin parcul Cotolino.",
+        "en": "Kick off your cycling tour at the fascinating Aurelia cave to embrace the morning nature. Ride smoothly towards Ostende beach and the central maritime museum to soak in the cultural vibe. Midday is perfect for exploring the lighthouse and sunny coastal corners. The afternoon wraps up gracefully with a relaxing ride through Cotolino park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Viaducto de Dombergón",
+            "hu": "Viaducto de Dombergón",
+            "ro": "Viaducto de Dombergón",
+            "en": "Viaducto de Dombergón"
+          },
+          "coords": [
+            -3.226408,
+            43.366735
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Ausmaße dieses historischen Eisenbahnviadukts und suchen Sie vom unteren Weg aus den besten Fotowinkel.",
+            "hu": "Csodálja meg a történelmi vasúti viadukt lenyűgöző méreteit, és keresse meg az alsó ösvényekről a legjobb fotózási szöget a teljes magasság megörökítéséhez.",
+            "ro": "Minunați-vă de scara impresionantă a acestui viaduct feroviar istoric, găsind cel mai bun unghi fotografic de pe traseele inferioare.",
+            "en": "Marvel at the impressive scale of this historic railway viaduct, finding the best photographic angle from the lower trails to capture its full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Cueto",
+            "hu": "Monte Cueto",
+            "ro": "Monte Cueto",
+            "en": "Monte Cueto"
+          },
+          "coords": [
+            -3.208075,
+            43.366738
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel, um einen unvergleichlichen Panoramablick zu genießen, packen Sie viel Wasser ein und tragen Sie festes Schuhwerk.",
+            "hu": "Másszon fel erre a kiemelkedő dombra, hogy páratlan panorámát élvezhessen a partvidékre, bőséges vízzel és erős cipővel készülve az emelkedőre.",
+            "ro": "Urcați pe acest deal proeminent pentru a vă bucura de vederi panoramice inegalabile ale coastei, având la voi multă apă și încălțăminte rezistentă.",
+            "en": "Hike up this prominent hill to enjoy unparalleled panoramic views of the coastline, packing plenty of water and wearing sturdy shoes for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Cotolino-Arcisero",
+            "hu": "Castro de Cotolino-Arcisero",
+            "ro": "Castro de Cotolino-Arcisero",
+            "en": "Castro de Cotolino-Arcisero"
+          },
+          "coords": [
+            -3.206389,
+            43.37376
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser faszinierenden Küstensiedlung und gehen Sie vorsichtig über die felsigen Pfade, während Sie sich das prähistorische Leben vorstellen.",
+            "hu": "Fedezze fel a lenyűgöző tengerparti település ősi romjait, óvatosan haladva a sziklás ösvényeken, elképzelve az itteni történelem előtti életmódot.",
+            "ro": "Explorați ruinele antice ale acestei fascinante așezări de coastă, pășind cu grijă pe cărările stâncoase în timp ce vă imaginați stilul de viață preistoric.",
+            "en": "Explore the ancient ruins of this fascinating coastal settlement, treading carefully along the rocky paths while imagining the prehistoric lifestyle here."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro de Santa Ana",
+            "hu": "Faro de Santa Ana",
+            "ro": "Faro de Santa Ana",
+            "en": "Faro de Santa Ana"
+          },
+          "coords": [
+            -3.209008,
+            43.381106
+          ],
+          "category": "landmark",
+          "arrive_at": "13:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie die navigatorische Bedeutung dieses arbeitenden Leuchtturms und bemerken Sie, wie seine Position die Bucht bewacht, während Sie die Meeresbrise genießen.",
+            "hu": "Figyelje meg a működő világítótorony navigációs fontosságát, és élvezze a lágy tengeri szellőt, miközben a torony az egész öblöt őrzi.",
+            "ro": "Observați importanța pentru navigație a acestui far funcțional, observând cum poziția sa păzește golful în timp ce vă bucurați de briza mării.",
+            "en": "Observe the navigational importance of this working lighthouse, noticing how its position guards the bay while enjoying the gentle sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Acueducto Romano de El Chorrillo",
+            "hu": "Acueducto Romano de El Chorrillo",
+            "ro": "Acueducto Romano de El Chorrillo",
+            "en": "Acueducto Romano de El Chorrillo"
+          },
+          "coords": [
+            -3.226208,
+            43.381514
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bemerkenswerte Ingenieurskunst dieses antiken römischen Aquädukts in der Stadt und achten Sie auf die gut erhaltenen Details.",
+            "hu": "Fedezze fel a városban megbúvó ősi római vízvezeték figyelemre méltó mérnöki munkáját, ügyelve a jól megőrzött szerkezeti részletekre.",
+            "ro": "Descoperiți ingineria remarcabilă a acestui apeduct roman antic ascuns în oraș, acordând atenție detaliilor structurale bine conservate.",
+            "en": "Discover the remarkable engineering of this ancient Roman aqueduct hidden in the town, paying attention to the well-preserved structural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva de Urdiales o Aurelia",
+            "hu": "Cueva de Urdiales o Aurelia",
+            "ro": "Cueva de Urdiales o Aurelia",
+            "en": "Cueva de Urdiales o Aurelia"
+          },
+          "coords": [
+            -3.229322,
+            43.390206
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die faszinierenden natürlichen Formationen dieser historischen Höhle und bringen Sie eine kleine Taschenlampe mit, um die Wände zu bewundern.",
+            "hu": "Lépjen be a történelmi barlang lenyűgöző természetes képződményei közé, és hozzon magával egy kis zseblámpát a sziklafalak biztonságos megcsodálásához.",
+            "ro": "Pășiți în formațiunile naturale fascinante ale acestei peșteri istorice, aducând o mică lanternă pentru a admira în siguranță texturile pereților de stâncă.",
+            "en": "Step into the fascinating natural formations of this historic cave, bringing a small flashlight to safely admire the intriguing textures of the rock walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum historischen Dombergón-Viadukt für einen atemberaubenden Start. Mittags wandern Sie auf den Monte Cueto und erkunden die alten Ruinen von Arcisero mit Blick aufs Meer. Am Nachmittag besuchen Sie den beeindruckenden Leuchtturm Santa Ana und das römische Aquädukt. Ihre Fahrt endet wunderschön an der natürlichen Urdiales-Höhle.",
+        "hu": "Autózzon a történelmi Dombergón viadukthoz egy lenyűgöző napindítóért. Délben másszon fel a Monte Cueto-ra, és fedezze fel az ősi Arcisero romokat a tengerre nyíló kilátással. Délután látogassa meg a Santa Ana világítótornyot és a római vízvezetéket. A festői út a természetes Urdiales barlangnál ér véget.",
+        "ro": "Conduceți la viaductul istoric Dombergón pentru un început uimitor. La amiază, urcați pe Monte Cueto și explorați vechile ruine Arcisero cu vedere la mare. După-amiaza, vizitați farul impresionant Santa Ana și apeductul roman. Traseul pitoresc se încheie frumos la peștera naturală Urdiales.",
+        "en": "Drive to the historic Dombergón viaduct for a stunning start to your adventure. By midday, hike up Monte Cueto and explore the ancient Arcisero settlement ruins with breathtaking sea views. In the afternoon, visit the impressive Santa Ana lighthouse and the Roman aqueduct. Your scenic drive concludes beautifully at the natural Urdiales cave."
+      }
+    }
+  }
+}

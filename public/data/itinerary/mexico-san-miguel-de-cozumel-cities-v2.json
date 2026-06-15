@@ -1,0 +1,428 @@
+{
+  "city_id": "mexico-san-miguel-de-cozumel-cities-v2",
+  "anchor": {
+    "name": "San Miguel de Cozumel",
+    "coords": [
+      -86.94358,
+      20.50143
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 1.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monunento a Las Águilas",
+            "hu": "Monunento a Las Águilas",
+            "ro": "Monunento a Las Águilas",
+            "en": "Monunento a Las Águilas"
+          },
+          "coords": [
+            -86.950721,
+            20.510613
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Denkmal, das der stolzen Geschichte Mexikos gewidmet ist, und nutzen Sie das weiche Morgenlicht für außergewöhnliche Urlaubsfotos an der Promenade.",
+            "hu": "Csodálja meg a mexikói történelem előtt tisztelgő emlékművet, és használja ki a lágy reggeli fényeket a tökéletes nyaralási fotók elkészítéséhez a sétányon.",
+            "ro": "Admirați monumentul dedicat istoriei mândre a Mexicului și profitați de lumina blândă a dimineții pentru a face fotografii excelente de-a lungul promenadei.",
+            "en": "Admire the monument dedicated to Mexico's proud history and take advantage of the soft morning light for exceptional holiday photos along the waterfront promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Barefoot dive center",
+            "hu": "Barefoot dive center",
+            "ro": "Barefoot dive center",
+            "en": "Barefoot dive center"
+          },
+          "coords": [
+            -86.949526,
+            20.508325
+          ],
+          "category": "landmark",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses renommierte Tauchzentrum, um mehr über die lokale Meereswelt zu erfahren; buchen Sie Ihre Schnorcheltour idealerweise schon im Voraus.",
+            "hu": "Látogasson el ebbe a híres búvárközpontba, hogy megismerje a helyi tengeri élővilágot; érdemes a sznorkelezős túrákat már jó előre lefoglalni.",
+            "ro": "Vizitați acest centru de scufundări renumit pentru a afla mai multe despre viața marină locală; este recomandat să vă rezervați tururile de snorkeling în avans.",
+            "en": "Visit this renowned dive center to learn about the vibrant local marine life; it is highly recommended to book your snorkeling excursions well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Magic Scuba",
+            "hu": "Blue Magic Scuba",
+            "ro": "Blue Magic Scuba",
+            "en": "Blue Magic Scuba"
+          },
+          "coords": [
+            -86.947794,
+            20.512397
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein weiteres Highlight für Tauchfans in Cozumel, wo erfahrene Instruktoren wertvolle Tipps für die besten Riffe der Umgebung geben.",
+            "hu": "Fedezze fel Cozumel másik búvárparadicsomát, ahol a tapasztalt oktatók értékes tippeket adnak a környék legszebb korallzátonyainak felfedezéséhez.",
+            "ro": "Descoperiți un alt punct de atracție pentru scafandri în Cozumel, unde instructorii experimentați oferă sfaturi valoroase despre cele mai bune recife din zonă.",
+            "en": "Discover another highlight for diving enthusiasts in Cozumel, where experienced instructors gladly share valuable tips on exploring the best nearby reefs."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Azul",
+            "hu": "Galeria Azul",
+            "ro": "Galeria Azul",
+            "en": "Galeria Azul"
+          },
+          "coords": [
+            -86.944145,
+            20.512307
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den kunstvollen Glasgravuren und Fotografien inspirieren und erwerben Sie hier authentische Souvenirs direkt vom lokalen Künstler.",
+            "hu": "Merítsen ihletet a lenyűgöző üveggravírozásokból és fotókból, majd vásároljon autentikus, helyi művész által készített ajándéktárgyakat emlékbe.",
+            "ro": "Lăsați-vă inspirați de gravurile artistice în sticlă și de fotografii și achiziționați suveniruri autentice direct de la un artist local talentat.",
+            "en": "Get inspired by the intricate blown glass art and beautiful photography, making it the perfect spot to purchase authentic souvenirs directly from a local artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Los cinco soles",
+            "hu": "Los cinco soles",
+            "ro": "Los cinco soles",
+            "en": "Los cinco soles"
+          },
+          "coords": [
+            -86.946799,
+            20.514538
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang in diesem bekannten Geschäft für mexikanisches Kunsthandwerk und probieren Sie unbedingt die angebotenen Vanille-Spezialitäten.",
+            "hu": "Fejezze be a sétát ebben a híres mexikói kézműves boltban, és mindenképpen kóstolja meg a helyben kínált különleges, valódi vanília termékeket.",
+            "ro": "Încheiați-vă turul în acest magazin renumit de artizanat mexican și nu ratați ocazia de a degusta specialitățile delicioase cu vanilie oferite aici.",
+            "en": "Finish your walking tour at this famous Mexican handcraft store, and make sure to sample their premium quality vanilla products before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Cozumel beginnt am glitzernden Wasser beim historischen Monunento a Las Águilas. Die frische Brise begleitet Sie zu den bekannten Tauchzentren, wo Sie die Faszination der Unterwasserwelt hautnah erleben können.\n\nGegen Mittag tauchen Sie in die kreative Seele der Stadt ein. Die Galeria Azul lockt mit atemberaubender Glaskunst und lädt zum entspannten Stöbern ein.\n\nDer Nachmittag steht ganz im Zeichen der mexikanischen Tradition. Ein kurzer Spaziergang bringt Sie zu den bunten Regalen von Los cinco soles.\n\nAm späten Nachmittag können Sie den Tag gemütlich ausklingen lassen, während Sie die erworbenen Schätze betrachten und das karibische Flair genießen.",
+        "hu": "A reggel Cozumelben a csillogó vízparton, a történelmi Monunento a Las Águilas-nál kezdődik. A friss tengeri szellő elkíséri a híres búvárközpontokhoz, ahol közelebbről is megismerheti a víz alatti világot.\n\nDélben a város kreatív lelkébe csöppenhet. A Galeria Azul lenyűgöző üvegművészete magával ragadja, és kényelmes nézelődésre hívja a látogatókat.\n\nA délután a mexikói hagyományok jegyében telik. Egy rövid séta elviszi a Los cinco soles színes, élettel teli kézműves boltjába.\n\nKéső délután kényelmesen lezárhatja a napot, miközben a frissen beszerzett kincsekben gyönyörködik és átadja magát a karibi hangulatnak.",
+        "ro": "Dimineața în Cozumel începe la apele sclipitoare de lângă istoricul Monunento a Las Águilas. Briza proaspătă vă însoțește spre centrele de scufundări, unde veți descoperi magia lumii subacvatice.\n\nLa prânz, vă scufundați în sufletul creativ al orașului. Galeria Azul vă atrage cu arta sa uimitoare din sticlă și vă invită la o explorare relaxantă a frumosului.\n\nDupă-amiaza este dedicată în întregime tradițiilor mexicane. O scurtă plimbare vă duce la rafturile colorate și pline de viață de la Los cinco soles.\n\nSpre seară, puteți încheia ziua într-o notă relaxantă, admirând comorile achiziționate și savurând atmosfera caraibiană autentică.",
+        "en": "Morning in Cozumel starts by the sparkling waters at the historic Monunento a Las Águilas. The fresh breeze accompanies you to renowned dive centers where the magic of the ocean comes alive.\n\nBy midday, you immerse yourself in the city's creative soul. The stunning glass artistry at Galeria Azul provides a perfect, relaxing visual escape.\n\nThe afternoon is entirely dedicated to authentic Mexican culture. A short walk brings you to the vibrant and colorful displays at Los cinco soles.\n\nAs evening approaches, you can gently wind down your day, admiring your newfound local treasures while soaking in the unforgettable Caribbean vibe."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 5.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Puerto de Abrigo",
+            "hu": "Mirador Puerto de Abrigo",
+            "ro": "Mirador Puerto de Abrigo",
+            "en": "Mirador Puerto de Abrigo"
+          },
+          "coords": [
+            -86.940883,
+            20.527181
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick über den Hafen und achten Sie auf die einheimischen Vögel, die in den frühen Morgenstunden besonders aktiv sind.",
+            "hu": "Élvezze a kikötőre nyíló széles panorámát, és figyelje meg a helyi madárvilágot, amely a kora reggeli órákban a legaktívabb errefelé.",
+            "ro": "Bucurați-vă de vederea panoramică asupra portului și fiți atenți la păsările native, care sunt deosebit de active la primele ore ale dimineții.",
+            "en": "Enjoy the sweeping panoramic views of the harbor and keep an eye out for local seabirds, which are especially active during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunab Ku",
+            "hu": "Hunab Ku",
+            "ro": "Hunab Ku",
+            "en": "Hunab Ku"
+          },
+          "coords": [
+            -86.943621,
+            20.520548
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Highlight und tauchen Sie in die Maya-Kosmologie ein; eine Führung lohnt sich, um die tiefen symbolischen Bedeutungen zu verstehen.",
+            "hu": "Fedezze fel ezt a kulturális látványosságot és mélyedjen el a maja kozmológiában; érdemes tárlatvezetésen részt venni a szimbolika megértéséhez.",
+            "ro": "Explorați acest punct de atracție cultural și descoperiți cosmologia mayașă; se recomandă un tur ghidat pentru a înțelege semnificațiile simbolice profunde.",
+            "en": "Explore this cultural highlight and dive into Mayan cosmology; taking a guided tour is highly recommended to fully grasp the deep symbolic meanings."
+          }
+        },
+        {
+          "name": {
+            "de": "Los cinco soles",
+            "hu": "Los cinco soles",
+            "ro": "Los cinco soles",
+            "en": "Los cinco soles"
+          },
+          "coords": [
+            -86.946799,
+            20.514538
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und schlendern Sie durch die Gänge mit mexikanischer Kunst, wo Sie auch wunderbare Tequila-Verkostungen erleben können.",
+            "hu": "Parkolja le a kerékpárját biztonságosan, és sétáljon a mexikói művészeti alkotások között, ahol még nagyszerű tequila kóstolókon is részt vehet.",
+            "ro": "Parcați-vă bicicleta în siguranță și plimbați-vă printre rafturile cu artă mexicană, unde vă puteți bucura și de degustări excelente de tequila.",
+            "en": "Securely park your bike and wander through the vibrant aisles of Mexican folk art, where you can also enjoy delightful local tequila tastings."
+          }
+        },
+        {
+          "name": {
+            "de": "Monunento a Las Águilas",
+            "hu": "Monunento a Las Águilas",
+            "ro": "Monunento a Las Águilas",
+            "en": "Monunento a Las Águilas"
+          },
+          "coords": [
+            -86.950721,
+            20.510613
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Legen Sie eine kurze Pause am Denkmal ein und spüren Sie die historische Bedeutung dieses Ortes direkt an der lebhaften Hafenpromenade.",
+            "hu": "Tartson egy rövid pihenőt az emlékműnél, és érezze át a hely történelmi jelentőségét közvetlenül a nyüzsgő kikötői sétány mellett.",
+            "ro": "Faceți o scurtă pauză la monument și simțiți semnificația istorică a acestui loc situat chiar pe promenada plină de viață a portului.",
+            "en": "Take a short break at the monument and feel the historical significance of this landmark situated right on the lively harbor promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Domo Bachilleres Cozumel",
+            "hu": "Domo Bachilleres Cozumel",
+            "ro": "Domo Bachilleres Cozumel",
+            "en": "Domo Bachilleres Cozumel"
+          },
+          "coords": [
+            -86.953512,
+            20.490456
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.22,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Leben in diesem kulturellen Treffpunkt hautnah und informieren Sie sich über spontane Gemeindeveranstaltungen oder kleine Märkte.",
+            "hu": "Tapasztalja meg a helyi közösségi életet ezen a kulturális találkozóhelyen, és érdeklődjön az esetleges spontán eseményekről vagy piacokról.",
+            "ro": "Experimentați viața locală autentică în acest punct de întâlnire cultural și interesați-vă de evenimentele comunitare spontane sau de piețele mici.",
+            "en": "Experience authentic local life at this cultural gathering spot and ask around for any spontaneous community events or lively small markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Cruise Dock Shops",
+            "hu": "Cruise Dock Shops",
+            "ro": "Cruise Dock Shops",
+            "en": "Cruise Dock Shops"
+          },
+          "coords": [
+            -86.959077,
+            20.503492
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Schaufensterbummel an den Kreuzfahrtterminals; hier finden Sie die größten Duty-Free-Angebote der Insel.",
+            "hu": "Fejezze be a kerékpártúrát egy kellemes kirakatnézegetéssel a tengerjáró kikötőben; itt találja a sziget legnagyobb vámmentes üzleteit.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o sesiune de cumpărături la terminalele de croazieră; aici veți găsi cele mai bune oferte duty-free de pe insulă.",
+            "en": "End your cycling tour with some window shopping near the cruise terminals; you will find the largest selection of duty-free goods on the island here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt aktiv mit einem herrlichen Blick vom Mirador Puerto de Abrigo. Die frische Luft macht Sie bereit für die mystische Atmosphäre im Hunab Ku.\n\nZur Mittagszeit radeln Sie gemütlich durch die Straßen und erreichen Los cinco soles, ein wahres Fest für die Sinne, gefolgt von einem kurzen historischen Stopp am Monunento.\n\nDer Nachmittag bringt Sie tiefer ins lokale Geschehen. Am Domo Bachilleres spüren Sie den Herzschlag der Gemeinde Cozumels.\n\nIhre Tour endet entspannt bei den Cruise Dock Shops. Mit dem sanften Rauschen des Meeres im Hintergrund lassen Sie die vielen Eindrücke Revue passieren.",
+        "hu": "A nap aktívan indul a Mirador Puerto de Abrigo csodás kilátójából. A friss levegő felkészíti a Hunab Ku misztikus, történelmi atmoszférájának befogadására.\n\nDélben kényelmes tempóban teker végig az utcákon, hogy elérje a Los cinco soles színkavalkádját, majd a történelmi emlékműnél tartson egy rövid pihenőt.\n\nA délután folyamán még jobban elmerülhet a helyi mindennapokban. A Domo Bachilleresnél megtapasztalhatja Cozumel közösségének igazi lüktetésését.\n\nA túra kényelmesen zárul a Cruise Dock Shops forgatagában. A tenger lágy morajlásával a háttérben jólesően gondolhat vissza a nap élményeire.",
+        "ro": "Ziua începe activ cu o priveliște magnifică de la Mirador Puerto de Abrigo. Aerul proaspăt vă pregătește pentru atmosfera mistică și istorică de la Hunab Ku.\n\nLa prânz, pedalați liniștit pe străzi și ajungeți la Los cinco soles, o adevărată sărbătoare a simțurilor, urmată de o scurtă oprire istorică la monument.\n\nDupă-amiaza vă aduce mai aproape de viața locală autentică. La Domo Bachilleres veți simți pulsul adevărat al comunității calde din Cozumel.\n\nTurul se încheie relaxant la magazinele terminalului de croazieră. Cu sunetul blând al mării pe fundal, veți putea rememora impresiile minunate ale zilei.",
+        "en": "The day starts actively with a magnificent view from the Mirador Puerto de Abrigo. The fresh air beautifully sets up the mystical atmosphere at Hunab Ku.\n\nAround midday, you cycle leisurely through the streets to reach the vibrant Los cinco soles, followed by a brief historical pause at the monument.\n\nThe afternoon draws you deeper into authentic local life. At Domo Bachilleres, you can truly feel the vibrant heartbeat of Cozumel's community.\n\nYour tour concludes comfortably at the bustling Cruise Dock Shops. With the gentle sound of the sea in the background, reflect on a day well spent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 5.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Puerto de Abrigo",
+            "hu": "Mirador Puerto de Abrigo",
+            "ro": "Mirador Puerto de Abrigo",
+            "en": "Mirador Puerto de Abrigo"
+          },
+          "coords": [
+            -86.940883,
+            20.527181
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großzügigen Parkplatz am Aussichtspunkt und genießen Sie die ruhige Morgenstimmung, bevor die Stadt erwacht.",
+            "hu": "Használja ki a kilátó tágas parkolóját, és élvezze a csendes reggeli hangulatot, mielőtt a város teljesen felébredne.",
+            "ro": "Profitați de parcarea spațioasă de la punctul de belvedere și bucurați-vă de atmosfera liniștită a dimineții înainte ca orașul să se trezească.",
+            "en": "Take advantage of the spacious parking area at the viewpoint and enjoy the serene morning atmosphere before the city fully wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Azul",
+            "hu": "Galeria Azul",
+            "ro": "Galeria Azul",
+            "en": "Galeria Azul"
+          },
+          "coords": [
+            -86.944145,
+            20.512307
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Galerie früh, um in Ruhe die gläsernen Kunstwerke zu betrachten; Parkplätze finden Sie meist problemlos in den Seitenstraßen.",
+            "hu": "Érkezzen korán a galériába, hogy nyugodtan megcsodálhassa az üvegművészeti alkotásokat; a mellékutcákban általában könnyű parkolóhelyet találni.",
+            "ro": "Vizitați galeria devreme pentru a admira în liniște operele de artă din sticlă; parcarea se găsește destul de ușor pe străzile lăturalnice.",
+            "en": "Visit the gallery early to admire the glass artworks in peace; you can usually find convenient street parking on the nearby side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Monunento a Las Águilas",
+            "hu": "Monunento a Las Águilas",
+            "ro": "Monunento a Las Águilas",
+            "en": "Monunento a Las Águilas"
+          },
+          "coords": [
+            -86.950721,
+            20.510613
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um das Denkmal zu fotografieren, und achten Sie auf die Einbahnstraßenregelung entlang der Küstenstraße.",
+            "hu": "Álljon meg egy rövid fotózásra az emlékműnél, de közben ügyeljen a part menti úton érvényes egyirányú forgalmi szabályokra.",
+            "ro": "Opriți-vă scurt pentru a fotografia monumentul și fiți atenți la regulile de circulație cu sens unic de-a lungul drumului de coastă.",
+            "en": "Pull over briefly to photograph this striking monument, and pay close attention to the one-way traffic regulations along the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Cozumel Bar Hop Tour",
+            "hu": "Cozumel Bar Hop Tour",
+            "ro": "Cozumel Bar Hop Tour",
+            "en": "Cozumel Bar Hop Tour"
+          },
+          "coords": [
+            -86.959035,
+            20.498817
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Informieren Sie sich hier über die organisierten Touren auf der Ostseite der Insel, die eine großartige Ergänzung zu Ihrer Autofahrt darstellen.",
+            "hu": "Tájékozódjon itt a sziget keleti oldalára induló szervezett túrákról, amelyek remekül kiegészítik az autós kalandozást.",
+            "ro": "Informați-vă aici despre tururile organizate pe partea de est a insulei, care sunt o completare excelentă la călătoria dumneavoastră cu mașina.",
+            "en": "Gather information here about organized tours hitting the east side of the island, which make a brilliant addition to your scenic driving trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Caletita",
+            "hu": "Playa Caletita",
+            "ro": "Playa Caletita",
+            "en": "Playa Caletita"
+          },
+          "coords": [
+            -86.968457,
+            20.488083
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.54,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route an diesem charmanten Strand, wo Sie Ihr Auto bequem abstellen und sich im erfrischenden Ozeanwasser abkühlen können.",
+            "hu": "Zárja az utat ezen a hangulatos tengerparton, ahol kényelmesen leparkolhatja autóját, és felfrissülhet a hűsítő óceánban.",
+            "ro": "Încheiați-vă traseul pe această plajă fermecătoare, unde vă puteți parca mașina confortabil și vă puteți răcori în apele revigorante ale oceanului.",
+            "en": "Finish your driving route at this charming beach spot, where you can park easily and cool off in the refreshing ocean waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip startet spektakulär am Mirador Puerto de Abrigo mit Blick auf das weite Meer. Die bequeme Fahrt führt Sie schnell zur künstlerischen Galeria Azul.\n\nGegen Mittag cruisen Sie entspannt an der Küste entlang und legen einen Fotostopp am historischen Monunento a Las Águilas ein.\n\nDer frühe Nachmittag bietet Gelegenheit, sich am Cozumel Bar Hop Tour-Treffpunkt über spannende Inselfahrten zu informieren.\n\nDer Ausflug findet seinen perfekten Abschluss an der Playa Caletita. Parken Sie direkt am Wasser und genießen Sie die warme Karibiksonne am späten Nachmittag.",
+        "hu": "Autós túrája látványosan indul a Mirador Puerto de Abrigo kilátójából, ahonnan a tenger végtelenje tárul elénk. A kényelmes út hamar a művészi Galeria Azulhoz vezet.\n\nDélben nyugodtan krúzolhat a festői part mentén, miközben rövid fotószünetet tart a történelmi Monunento a Las Águilas-nál.\n\nA kora délután remek alkalmat kínál arra, hogy a Cozumel Bar Hop Tour találkozóhelyénél érdeklődjön az izgalmas szigettúrák felől.\n\nA kirándulás tökéletes lezárást kap a Playa Caletitán. Parkoljon le közvetlenül a vízparton, és élvezze a késő délutáni, meleg karibi napsütést.",
+        "ro": "Excursia dumneavoastră cu mașina începe spectaculos la Mirador Puerto de Abrigo, cu vedere la marea deschisă. Drumul confortabil vă duce rapid la artistica Galeria Azul.\n\nLa prânz, conduceți relaxat de-a lungul coastei și faceți o oprire foto la istoricul Monunento a Las Águilas.\n\nÎnceputul după-amiezii oferă o oportunitate excelentă de a afla mai multe despre tururile insulei la punctul de întâlnire Cozumel Bar Hop Tour.\n\nExcursia își găsește sfârșitul perfect la Playa Caletita. Parcați chiar lângă apă și bucurați-vă de soarele cald al Caraibelor în după-amiaza târzie.",
+        "en": "Your road trip begins spectacularly at Mirador Puerto de Abrigo with expansive ocean views. The easy drive quickly leads you to the highly artistic Galeria Azul.\n\nAround midday, you cruise relaxedly along the scenic coastline, making a quick photo stop at the historic Monunento a Las Águilas.\n\nThe early afternoon provides a great opportunity to stop by the Cozumel Bar Hop Tour gathering spot to gather ideas for future island adventures.\n\nThe excursion concludes perfectly at Playa Caletita. Park right next to the water and bask in the warm, late afternoon Caribbean sun."
+      }
+    }
+  }
+}

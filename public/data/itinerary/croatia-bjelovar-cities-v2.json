@@ -1,0 +1,520 @@
+{
+  "city_id": "croatia-bjelovar-cities-v2",
+  "anchor": {
+    "name": "Bjelovar",
+    "coords": [
+      16.8423,
+      45.8988
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eugen-Kvaternik-Platz",
+            "hu": "Eugen Kvaternik tér",
+            "ro": "Piața Eugen Kvaternik",
+            "en": "Eugen Kvaternik Square"
+          },
+          "coords": [
+            16.84223,
+            45.898704
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem Eugen-Kvaternik-Platz, dem grünen Herzen der Stadt, während Sie einen Kaffee auf einer nahegelegenen Terrasse genießen, bevor Sie Ihren Spaziergang beginnen.",
+            "hu": "Pihenjen az Eugen Kvaternik téren, a város zöld szívében, miközben elfogyaszt egy kávét egy közeli teraszon, mielőtt elkezdené a reggeli sétát.",
+            "ro": "Relaxați-vă în Piața Eugen Kvaternik, inima verde a orașului, savurând o cafea pe o terasă din apropiere înainte de a începe plimbarea.",
+            "en": "Relax at Eugen Kvaternik Square, the city's green heart, while enjoying a coffee on a nearby terrace before starting your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bjelovarer Theater",
+            "hu": "Bjelovári Színház",
+            "ro": "Teatrul din Bjelovar",
+            "en": "Bjelovarsko kazalište"
+          },
+          "coords": [
+            16.842265,
+            45.897594
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Bjelovarer Theaters, einem Zentrum der lokalen Künste, und prüfen Sie den Schaukasten auf abendliche Vorstellungen während Ihres Aufenthalts.",
+            "hu": "Csodálja meg a Bjelovári Színház elegáns homlokzatát, amely a helyi művészetek központja, és nézze meg a kirakatban az ott-tartózkodása alatti esti előadásokat.",
+            "ro": "Admirați fațada elegantă a Teatrului din Bjelovar, un centru al artelor locale, și verificați vitrina pentru viitoarele spectacole de seară din timpul șederii dumneavoastră.",
+            "en": "Admire the elegant facade of the Bjelovar Theatre, a hub of local arts, and check their window box for any upcoming evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkrieges",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului pentru Apărarea Patriei",
+            "en": "Stalni muzejski postav Domovinskog rata"
+          },
+          "coords": [
+            16.839253,
+            45.899822
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellung des Heimatkriegsmuseums, die die lokale Geschichte durch eindrucksvolle Artefakte würdigt, und bringen Sie Kleingeld für die optionale Spendenbox am Eingang mit.",
+            "hu": "Fedezze fel a Honvédő Háború Múzeumának kiállítását, amely hatásos tárgyakon keresztül tiszteleg a helyi történelem előtt, és hozzon aprópénzt a bejáratnál lévő adománydobozhoz.",
+            "ro": "Explorați expoziția Muzeului Războiului pentru Apărarea Patriei, care onorează istoria locală, și aduceți mărunt pentru cutia de donații opționale de la intrare.",
+            "en": "Explore the Homeland War Museum exhibition, which honors local history through impactful artifacts, and bring small change for the optional donation box at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stjepan-Radić-Platz",
+            "hu": "Stjepan Radić tér",
+            "ro": "Piața Stjepan Radić",
+            "en": "Stjepan Radić Square"
+          },
+          "coords": [
+            16.837302,
+            45.899162
+          ],
+          "category": "park",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang über den Stjepan-Radić-Platz, um seine Denkmäler zu sehen, und tragen Sie bequeme Schuhe, um die umliegenden Kopfsteinpflasterwege zu bewältigen.",
+            "hu": "Tegyen egy békés sétát a Stjepan Radić téren, hogy megnézze annak bájos emlékműveit, és viseljen kényelmes cipőt a környező macskaköves utak könnyű bejárásához.",
+            "ro": "Faceți o plimbare liniștită prin Piața Stjepan Radić pentru a vedea monumentele sale fermecătoare și purtați încălțăminte comodă pentru a naviga ușor pe aleile pietruite.",
+            "en": "Take a peaceful stroll across Stjepan Radić Square to see its charming monuments, and wear comfortable shoes to navigate the surrounding cobblestone paths easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der kroatischen Verteidiger",
+            "hu": "Horvát Védők Tere",
+            "ro": "Piața Apărătorilor Croați",
+            "en": "Square of Croatian defenders"
+          },
+          "coords": [
+            16.839954,
+            45.901632
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erweisen Sie am Platz der kroatischen Verteidiger, einem ruhigen Gedenkort, Ihren Respekt und besuchen Sie ihn am späten Nachmittag, um die nachdenkliche Atmosphäre zu erleben.",
+            "hu": "Rójja le tiszteletét a Horvát Védők Terén, egy csendes emlékhelyen, és látogasson el ide késő délután, hogy megtapasztalja annak nyugodt, elmélyült atmoszféráját.",
+            "ro": "Aduceți un omagiu în Piața Apărătorilor Croați, un spațiu memorial liniștit, și vizitați-o spre seară pentru a experimenta atmosfera sa reflectivă.",
+            "en": "Pay your respects at the Square of Croatian Defenders, a tranquil memorial space, and visit during the late afternoon to experience its quiet, reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Kultur",
+            "hu": "Kultúra Háza",
+            "ro": "Casa Culturii",
+            "en": "House of Culture"
+          },
+          "coords": [
+            16.844021,
+            45.900362
+          ],
+          "category": "cultural",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besuchen Sie das lebendige Haus der Kultur, ein architektonisches Juwel, das verschiedene Veranstaltungen beherbergt, und holen Sie sich an der Rezeption einen kostenlosen Zeitplan der Workshops.",
+            "hu": "Látogasson el a nyüzsgő Kultúra Házába, egy építészeti gyöngyszembe, és ugorjon be a recepcióra egy ingyenes havi művészeti workshop-programért.",
+            "ro": "Vizitați vibranta Casă a Culturii, o bijuterie arhitecturală, și opriți-vă la recepție pentru a lua un program gratuit al atelierelor artistice din acea lună.",
+            "en": "Visit the vibrant House of Culture, an architectural gem hosting various civic events, and stop by the front desk to grab a free schedule of the month's artistic workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade von Dr. Ivša Lebović",
+            "hu": "Dr. Ivša Lebović sétány",
+            "ro": "Promenada Dr. Ivša Lebović",
+            "en": "Promenade of Dr. Ivša Lebović"
+          },
+          "coords": [
+            16.846274,
+            45.900158
+          ],
+          "category": "park",
+          "arrive_at": "17:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag bei einem Spaziergang entlang der Promenade von Dr. Ivša Lebović unter schattigen Bäumen ausklingen und machen Sie Fotos in der goldenen Stunde.",
+            "hu": "Vezesse le a napot egy sétával a Dr. Ivša Lebović sétányon az árnyas fák alatt, és készítsen néhány aranyórás fotót a környező történelmi homlokzatok közelében.",
+            "ro": "Încheiați-vă ziua plimbându-vă pe Promenada Dr. Ivša Lebović sub copacii umbroși și faceți câteva fotografii la ora de aur lângă fațadele istorice din jur.",
+            "en": "Wind down your day walking along the Promenade of Dr. Ivša Lebović beneath the shaded trees, and snap some golden-hour photos near the historic surrounding facades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in den grünen zentralen Parks von Bjelovar und lassen Sie sich von der friedlichen Atmosphäre treiben. Am Mittag tauchen Sie im Theater in die Kultur und im Museum in die jüngere Geschichte ein. Der Nachmittag ist für die Besichtigung von Denkmälern auf ruhigen Plätzen reserviert. Ein abendlicher Spaziergang unter den Bäumen der Promenade rundet den perfekten Tag ab.",
+        "hu": "Kezdje a reggelt Bjelovar központi parkjainak zöldjében, átadva magát a békés hangulatnak. A dél a színház kulturális élményeit és a helyi múzeum történelmi elmélyülését hozza. A délután a csendes tereken található emlékművek felfedezésének ideje. Végül egy kora esti séta a sétány fái alatt teszi tökéletessé ezt a sétálós napot.",
+        "ro": "Începeți dimineața absorbind verdeața vibrantă a parcurilor centrale din Bjelovar, lăsând atmosfera pașnică să seteze un ritm relaxat. Amiaza aduce imersiune culturală la teatru și o scufundare în istoria recentă. După-amiaza este rezervată descoperirii monumentelor prin piețe liniștite. O plimbare de seară sub copacii promenadei completează o zi perfectă.",
+        "en": "Start your morning absorbing the vibrant greenery of Bjelovar’s central parks, letting the peaceful atmosphere set a relaxed pace. Midday brings cultural immersion at the theatre and a deep dive into recent history at the local museum. The afternoon is reserved for monument-spotting through tranquil squares. Finally, an evening stroll under the trees of the promenade rounds off a perfect walking day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eugen-Kvaternik-Platz",
+            "hu": "Eugen Kvaternik tér",
+            "ro": "Piața Eugen Kvaternik",
+            "en": "Eugen Kvaternik Square"
+          },
+          "coords": [
+            16.84223,
+            45.898704
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem Eugen-Kvaternik-Platz, dem grünen Herzen der Stadt, während Sie einen Kaffee auf einer nahegelegenen Terrasse genießen, bevor Sie Ihren Spaziergang beginnen.",
+            "hu": "Pihenjen az Eugen Kvaternik téren, a város zöld szívében, miközben elfogyaszt egy kávét egy közeli teraszon, mielőtt elkezdené a reggeli sétát.",
+            "ro": "Relaxați-vă în Piața Eugen Kvaternik, inima verde a orașului, savurând o cafea pe o terasă din apropiere înainte de a începe plimbarea.",
+            "en": "Relax at Eugen Kvaternik Square, the city's green heart, while enjoying a coffee on a nearby terrace before starting your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkrieges",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului pentru Apărarea Patriei",
+            "en": "Stalni muzejski postav Domovinskog rata"
+          },
+          "coords": [
+            16.839253,
+            45.899822
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellung des Heimatkriegsmuseums, die die lokale Geschichte durch eindrucksvolle Artefakte würdigt, und bringen Sie Kleingeld für die optionale Spendenbox am Eingang mit.",
+            "hu": "Fedezze fel a Honvédő Háború Múzeumának kiállítását, amely hatásos tárgyakon keresztül tiszteleg a helyi történelem előtt, és hozzon aprópénzt a bejáratnál lévő adománydobozhoz.",
+            "ro": "Explorați expoziția Muzeului Războiului pentru Apărarea Patriei, care onorează istoria locală, și aduceți mărunt pentru cutia de donații opționale de la intrare.",
+            "en": "Explore the Homeland War Museum exhibition, which honors local history through impactful artifacts, and bring small change for the optional donation box at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Kultur",
+            "hu": "Kultúra Háza",
+            "ro": "Casa Culturii",
+            "en": "House of Culture"
+          },
+          "coords": [
+            16.844021,
+            45.900362
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie das lebendige Haus der Kultur, ein architektonisches Juwel, das verschiedene Veranstaltungen beherbergt, und holen Sie sich an der Rezeption einen kostenlosen Zeitplan der Workshops.",
+            "hu": "Látogasson el a nyüzsgő Kultúra Házába, egy építészeti gyöngyszembe, és ugorjon be a recepcióra egy ingyenes havi művészeti workshop-programért.",
+            "ro": "Vizitați vibranta Casă a Culturii, o bijuterie arhitecturală, și opriți-vă la recepție pentru a lua un program gratuit al atelierelor artistice din acea lună.",
+            "en": "Visit the vibrant House of Culture, an architectural gem hosting various civic events, and stop by the front desk to grab a free schedule of the month's artistic workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade von Dr. Ivša Lebović",
+            "hu": "Dr. Ivša Lebović sétány",
+            "ro": "Promenada Dr. Ivša Lebović",
+            "en": "Promenade of Dr. Ivša Lebović"
+          },
+          "coords": [
+            16.846274,
+            45.900158
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag bei einem Spaziergang entlang der Promenade von Dr. Ivša Lebović unter schattigen Bäumen ausklingen und machen Sie Fotos in der goldenen Stunde.",
+            "hu": "Vezesse le a napot egy sétával a Dr. Ivša Lebović sétányon az árnyas fák alatt, és készítsen néhány aranyórás fotót a környező történelmi homlokzatok közelében.",
+            "ro": "Încheiați-vă ziua plimbându-vă pe Promenada Dr. Ivša Lebović sub copacii umbroși și faceți câteva fotografii la ora de aur lângă fațadele istorice din jur.",
+            "en": "Wind down your day walking along the Promenade of Dr. Ivša Lebović beneath the shaded trees, and snap some golden-hour photos near the historic surrounding facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Ilinac",
+            "hu": "Utvrda Ilinac",
+            "ro": "Cetatea Ilinac",
+            "en": "Utvrda Ilinac"
+          },
+          "coords": [
+            16.856089,
+            45.923486
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu den historischen Ruinen von Utvrda Ilinac, um alte Verteidigungsstrategien zu entdecken, und packen Sie ein leichtes Picknick ein, das Sie auf dem Grasgelände genießen können.",
+            "hu": "Kerékpározzon el az Utvrda Ilinac történelmi romjaihoz, hogy felfedezze az ősi regionális védelmi stratégiákat, és csomagoljon egy könnyű pikniket, amelyet a közeli füves területen elfogyaszthat.",
+            "ro": "Pedalați până la ruinele istorice Utvrda Ilinac pentru a descoperi strategiile antice de apărare și împachetați un picnic ușor pentru a-l savura pe terenul înierbat din apropiere.",
+            "en": "Cycle out to the historical ruins of Utvrda Ilinac to discover ancient regional defense strategies, and pack a light picnic to enjoy on the grassy grounds nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische ländliche Siedlung Lug",
+            "hu": "Római vidéki település Lug",
+            "ro": "Așezare rurală romană Lug",
+            "en": "Rimsko ruralno naselje Lug"
+          },
+          "coords": [
+            16.872595,
+            45.904226
+          ],
+          "category": "historical",
+          "arrive_at": "16:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in der ländlichen römischen Siedlung Lug, um faszinierende archäologische Spuren zu sehen, und bringen Sie eine Stirnlampe mit, wenn die Dämmerung naht.",
+            "hu": "Fejezze be kerékpártúráját a lugi római vidéki településen, hogy lenyűgöző régészeti nyomokat lásson, és hozzon magával fejlámpát, ha alkonyatkor tervezi felfedezni a romokat.",
+            "ro": "Încheiați-vă turul cu bicicleta la așezarea rurală romană Lug pentru a vedea urme arheologice fascinante și aduceți o lanternă frontală dacă intenționați să explorați ruinele la lăsarea serii.",
+            "en": "Conclude your bike tour at the Roman rural settlement Lug to see fascinating archaeological traces, and bring a headlamp if you plan to explore the ruins as dusk approaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf dem üppigen Hauptplatz der Stadt und tanken Sie frische Morgenluft. Gegen Mittag radeln Sie durch das Herz von Bjelovar, um wichtige Museen und architektonische Juwelen zu erleben. Am Nachmittag fordern Sie sich mit einer längeren Fahrt zu den faszinierenden Ruinen von Utvrda Ilinac heraus. Beenden Sie den Tag zwischen antiken römischen Überresten.",
+        "hu": "Indítsa kerékpáros utazását a város buja központi terén, magába szívva a friss reggeli levegőt. Dél körül tekerjen át Bjelovar szívén, hogy megtekintse a múzeumokat és az építészeti gyöngyszemeket. Délután tegye próbára magát egy hosszabb úttal az Utvrda Ilinac lenyűgöző romjaihoz. Zárja a napot az ókori római maradványok között, ahogy a nap kecsesen lenyugszik.",
+        "ro": "Începeți-vă călătoria cu bicicleta în piața centrală luxuriantă a orașului, bucurându-vă de aerul proaspăt. În jurul prânzului, pedalați prin inima orașului Bjelovar pentru a experimenta muzee și bijuterii arhitecturale. Pe măsură ce se lasă după-amiaza, provocați-vă cu o plimbare mai lungă până la ruinele de la Utvrda Ilinac. Încheiați ziua printre rămășițele romane antice.",
+        "en": "Kick off your cycling journey in the town's lush central square, fueling up with the fresh morning air. Around noon, pedal through the heart of Bjelovar to experience key museums and civic architectural gems. As the afternoon unfolds, challenge yourself with a slightly longer ride to the fascinating ruins of Utvrda Ilinac. End the day among ancient Roman remnants as the sun gracefully sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:42",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der kroatischen Verteidiger",
+            "hu": "Horvát Védők Tere",
+            "ro": "Piața Apărătorilor Croați",
+            "en": "Square of Croatian defenders"
+          },
+          "coords": [
+            16.839954,
+            45.901632
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie am Platz der kroatischen Verteidiger, einem ruhigen Gedenkort, Ihren Respekt und besuchen Sie ihn am späten Nachmittag, um die nachdenkliche Atmosphäre zu erleben.",
+            "hu": "Rójja le tiszteletét a Horvát Védők Terén, egy csendes emlékhelyen, és látogasson el ide késő délután, hogy megtapasztalja annak nyugodt, elmélyült atmoszféráját.",
+            "ro": "Aduceți un omagiu în Piața Apărătorilor Croați, un spațiu memorial liniștit, și vizitați-o spre seară pentru a experimenta atmosfera sa reflectivă.",
+            "en": "Pay your respects at the Square of Croatian Defenders, a tranquil memorial space, and visit during the late afternoon to experience its quiet, reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Heimatkrieges",
+            "hu": "Honvédő Háború Múzeuma",
+            "ro": "Muzeul Războiului pentru Apărarea Patriei",
+            "en": "Stalni muzejski postav Domovinskog rata"
+          },
+          "coords": [
+            16.839253,
+            45.899822
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellung des Heimatkriegsmuseums, die die lokale Geschichte durch eindrucksvolle Artefakte würdigt, und bringen Sie Kleingeld für die optionale Spendenbox am Eingang mit.",
+            "hu": "Fedezze fel a Honvédő Háború Múzeumának kiállítását, amely hatásos tárgyakon keresztül tiszteleg a helyi történelem előtt, és hozzon aprópénzt a bejáratnál lévő adománydobozhoz.",
+            "ro": "Explorați expoziția Muzeului Războiului pentru Apărarea Patriei, care onorează istoria locală, și aduceți mărunt pentru cutia de donații opționale de la intrare.",
+            "en": "Explore the Homeland War Museum exhibition, which honors local history through impactful artifacts, and bring small change for the optional donation box at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Brezovch",
+            "hu": "Brezovch",
+            "ro": "Brezovch",
+            "en": "Brezovch"
+          },
+          "coords": [
+            16.836164,
+            45.878862
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Brezovch, um in die ländliche Geschichte einzutauchen, und parken Sie Ihr Fahrzeug in der Nähe der Hauptkreuzung, bevor Sie die historischen Markierungen zu Fuß erkunden.",
+            "hu": "Vezessen ki Brezovch-ba, hogy visszalépjen a helyi vidéki történelembe, és parkolja le járművét a fő kereszteződés közelében, mielőtt gyalog felfedezné a történelmi jelzőket.",
+            "ro": "Conduceți până la Brezovch pentru a păși în istoria rurală locală și parcați vehiculul lângă intersecția principală înainte de a explora pe jos marcajele istorice liniștite.",
+            "en": "Drive out to Brezovch to step back into local rural history, and park your vehicle near the main crossroad before exploring the quiet historic markers on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plauna",
+            "hu": "Plauna",
+            "ro": "Plauna",
+            "en": "Plauna"
+          },
+          "coords": [
+            16.809327,
+            45.887741
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Überreste in Plauna, die ein Fenster in ältere Siedlungsepochen bieten, und tragen Sie feste Schuhe, da das Gelände schlammig sein kann.",
+            "hu": "Fedezze fel Plauna történelmi maradványait, amelyek ablakot nyitnak a régebbi települési korszakokra, és viseljen masszív csizmát, mivel a terület körül a terep sáros lehet.",
+            "ro": "Explorați rămășițele istorice din Plauna, oferind o fereastră către vechile ere de așezare, și purtați cizme rezistente, deoarece terenul din jurul sitului poate fi noroios.",
+            "en": "Explore the historic remnants in Plauna, providing a window into older Bjelovar-Bilogora settlement eras, and wear sturdy boots as the terrain around the site can be muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Nekropole Crkveno Polje",
+            "hu": "Crkveno Polje ősi nekropolisza",
+            "ro": "Necropola antică Crkveno Polje",
+            "en": "Novoseljani - antička nekropola Crkveno Polje"
+          },
+          "coords": [
+            16.869777,
+            45.891542
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antike Nekropole am Crkveno Polje, einer wichtigen archäologischen Zone, und bleiben Sie auf den markierten Wegen, um den empfindlichen Boden zu erhalten.",
+            "hu": "Csodálja meg a Crkveno Polje ősi nekropoliszát, amely egy fontos régészeti övezet, és maradjon a kijelölt ösvényeken a kényes történelmi talaj megőrzése érdekében.",
+            "ro": "Minunați-vă de vechea necropolă de la Crkveno Polje, o importantă zonă arheologică, și respectați căile marcate pentru a păstra terenul istoric delicat.",
+            "en": "Marvel at the ancient necropolis at Crkveno Polje, an important archaeological zone, and stick to the marked pathways to preserve the delicate historical ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Raspelo",
+            "hu": "Raspelo",
+            "ro": "Raspelo",
+            "en": "Raspelo"
+          },
+          "coords": [
+            16.869849,
+            45.893356
+          ],
+          "category": "historical",
+          "arrive_at": "16:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am historischen Raspelo-Denkmal, das eine tiefe kulturelle Bedeutung hat, und lesen Sie die kleine Bronzetafel, um Einblicke in seine traditionellen Ursprünge zu erhalten.",
+            "hu": "Álljon meg röviden a történelmi Raspelo emlékműnél, amely mély kulturális jelentőséggel bír a régió számára, és olvassa el a kis bronz táblát a hagyományos eredetről szóló betekintésért.",
+            "ro": "Opriți-vă scurt la monumentul istoric Raspelo, care are un sens cultural profund pentru regiune, și citiți mica placă de bronz pentru a afla despre originile sale tradiționale.",
+            "en": "Stop briefly at the historic Raspelo monument, which holds deep cultural meaning for the region, and read the small bronze plaque for insight into its traditional origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Donja Česmica",
+            "hu": "Donja Česmica",
+            "ro": "Donja Česmica",
+            "en": "Donja Česmica"
+          },
+          "coords": [
+            16.871558,
+            45.891052
+          ],
+          "category": "historical",
+          "arrive_at": "17:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour in Donja Česmica, um die gut erhaltene traditionelle Architektur zu sehen, und unterhalten Sie sich mit den freundlichen Einheimischen über versteckte Geschichten.",
+            "hu": "Fejezze be autós túráját Donja Česmica-ban, hogy megtekintse megőrzött hagyományos építészetét, és beszélgessen barátságos helyiekkel az útikönyvekben nem található rejtett történetekről.",
+            "ro": "Încheiați-vă turul cu mașina la Donja Česmica pentru a vedea arhitectura sa tradițională și discutați cu localnicii prietenoși pentru a descoperi povești ascunse negăsite în ghiduri.",
+            "en": "End your car tour at Donja Česmica to view its preserved traditional architecture, and converse with friendly locals to uncover hidden stories not found in guidebooks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem nachdenklichen Morgen am modernen Platz der Verteidiger, bevor Sie das Kriegsmuseum erkunden. Mittags geht es aufs Land, wo Sie historische Orte wie Brezovch ansteuern. Die Fahrt am Nachmittag führt Sie zu einer antiken Nekropole, die eine tiefere Schicht der Antike offenbart. Ein letzter Stopp in einem historischen Dorf schließt die Fahrt perfekt ab.",
+        "hu": "Autós utazása egy elmélyült reggellel kezdődik a Védők terén, mielőtt felfedezné a háborús múzeumot. A dél a vidékre vezet, ahol olyan történelmi helyeket kereshet fel, mint Brezovch és Plauna. A délutáni vezetés egy ősi nekropoliszhoz viszi, amely feltárja a régió ókorának egy mélyebb rétegét. Az autózást a helyi történelmi faluban tett utolsó megálló zárja tökéletesen.",
+        "ro": "Călătoria dumneavoastră începe cu o dimineață reflectivă în Piața Apărătorilor înainte de a explora muzeul de istorie al războiului. Amiaza face tranziția către mediul rural, conducând către marcaje istorice precum Brezovch și Plauna. Conducerea de după-amiază vă duce la o veche necropolă, dezvăluind o secțiune profundă a antichității. O oprire finală într-un sat istoric închide perfect traseul.",
+        "en": "Your road trip begins with a reflective morning at the modern Defenders Square before exploring Bjelovar's war history museum. Midday transitions to the countryside, driving to historical markers like Brezovch and Plauna where past eras echo. Afternoon driving leads you to an ancient necropolis, revealing a deeper layer of the region's antiquity. A final stop at a local historic village perfectly closes the drive."
+      }
+    }
+  }
+}

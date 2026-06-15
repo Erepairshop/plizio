@@ -1,0 +1,451 @@
+{
+  "city_id": "troarn",
+  "anchor": {
+    "name": "Troarn",
+    "coords": [
+      -0.1844,
+      49.1817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:23",
+      "total_km": 4.81,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Paterne",
+            "hu": "Église Saint-Paterne",
+            "ro": "Église Saint-Paterne",
+            "en": "Église Saint-Paterne"
+          },
+          "coords": [
+            -0.185403,
+            49.168531
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Morgenlicht und nehmen Sie sich Zeit für den friedlichen Friedhof direkt davor.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét a reggeli fényben, és szánjon egy percet a békés temető felfedezésére is közvetlenül kint.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice în lumina dimineții și rezervați-vă un moment pentru a explora cimitirul pașnic de afară.",
+            "en": "Admire the striking architecture of this historic church in the morning light, and take a moment to explore the peaceful graveyard right outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burger King Play King",
+            "hu": "Burger King Play King",
+            "ro": "Burger King Play King",
+            "en": "Burger King Play King"
+          },
+          "coords": [
+            -0.190676,
+            49.179349
+          ],
+          "category": "family",
+          "arrive_at": "10:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder an diesem familienfreundlichen Ort Energie abbauen, wo Sie einen schnellen Happen essen und den großen Spielbereich genießen können.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a családbarát megállón, ahol gyorsan bekaphat valamit, és élvezheti a tágas beltéri játszóteret.",
+            "ro": "Lăsați copiii să-și consume energia la această oprire pentru familii, unde puteți lua o gustare rapidă și vă puteți bucura de zona de joacă interioară.",
+            "en": "Let the kids burn off some energy at this family-friendly stop, where you can grab a quick bite and enjoy the spacious indoor play area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sannerville",
+            "hu": "Mairie de Sannerville",
+            "ro": "Mairie de Sannerville",
+            "en": "Mairie de Sannerville"
+          },
+          "coords": [
+            -0.224641,
+            49.179315
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem typisch französischen Rathaus, um sein klassisches städtisches Design zu würdigen, das stolz als Zentrum des lokalen Lebens steht.",
+            "hu": "Álljon meg ennél a jellegzetes francia városházánál, hogy megcsodálja a klasszikus építészeti stílust, amely a helyi polgári élet büszke központja.",
+            "ro": "Opriți-vă la această primărie tipic franceză pentru a aprecia designul său municipal clasic, care stă cu mândrie ca centru al vieții civice locale.",
+            "en": "Pause at this quintessential French town hall to appreciate its classic municipal design, which stands proudly as the center of local civic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            -0.221143,
+            49.183253
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene religiöse Stätte, um die Buntglasfenster zu bestaunen, und sprechen Sie aus Respekt vor Gläubigen leise.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött vallási helyszínre, csodálja meg a színes üvegablakokat, és beszéljen halkan a hívők iránti tiszteletből.",
+            "ro": "Pășiți în acest lăcaș religios frumos conservat pentru a admira vitraliile, păstrând vocea scăzută din respect pentru credincioșii prezenți acolo.",
+            "en": "Step inside this beautifully preserved religious site to marvel at its stained glass windows, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.22439,
+            49.188274
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang um diese bezaubernde Kirche, indem Sie die markante Steinfassade betrachten und einige Fotos von der ruhigen Straße machen.",
+            "hu": "Fejezze be a sétát e bájos templom körül, figyelje meg a jellegzetes kőhomlokzatot, és készítsen néhány fényképet a csendes utcáról indulás előtt.",
+            "ro": "Încheiați-vă plimbarea în jurul acestei biserici fermecătoare observând fațada sa distinctă de piatră, făcând câteva poze de pe strada liniștită.",
+            "en": "Conclude your walk around this charming church by noting its distinct stone façade, taking a few photos from the quiet street before departing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit der historischen Église Saint-Paterne, die eine friedliche Atmosphäre schafft. Machen Sie danach eine Pause im Burger King. Mittags passieren Sie die klassische Mairie de Sannerville. Am Nachmittag erkunden Sie die atemberaubende Église de la Nativité. Beenden Sie den Spaziergang, indem Sie die charmante Église Saint-Pierre bewundern.",
+        "hu": "A reggel a történelmi Église Saint-Paterne templommal indul, békés hangulatot teremtve. Ezután egy játékos pihenő következik a Burger Kingben. Délben a klasszikus Mairie de Sannerville mellett halad el. Délután fedezze fel a lenyűgöző Église de la Nativité templomot. Fejezze be kényelmes sétáját a bájos Église Saint-Pierre megcsodálásával, mielőtt hazatérne.",
+        "ro": "Dimineața începe cu biserica istorică Saint-Paterne, creând un ton pașnic. Apoi, faceți o pauză jucăușă la Burger King Play King. La amiază treceți pe lângă clasica Mairie de Sannerville. După-amiaza, explorați uimitoarea Église de la Nativité-de-Notre-Dame. Încheiați plimbarea relaxantă admirând fermecătoarea biserică Saint-Pierre înainte de a pleca.",
+        "en": "Your morning starts with the historic Église Saint-Paterne, setting a peaceful tone. Next, take a playful break at Burger King Play King. Midday brings you past the classic Mairie de Sannerville. In the afternoon, explore the stunning Église de la Nativité-de-Notre-Dame. Conclude your leisurely stroll by admiring the charming Église Saint-Pierre before heading home."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 6.88,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haras de Troarn",
+            "hu": "Haras de Troarn",
+            "ro": "Haras de Troarn",
+            "en": "Haras de Troarn"
+          },
+          "coords": [
+            -0.164196,
+            49.195031
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche reiterliche Erbe der Normandie auf diesem aktiven Gestüt, aber bleiben Sie unbedingt hinter den Zäunen, wenn Sie Pferde beobachten.",
+            "hu": "Tapasztalja meg Normandia gazdag lovas örökségét ezen az aktív ménesen, de ne felejtsen el a kerítések mögött maradni a lovak megfigyelése közben.",
+            "ro": "Experimentați bogata moștenire ecvestră a Normandiei la această herghelie activă, dar amintiți-vă să rămâneți în spatele gardurilor când priviți.",
+            "en": "Experience the rich equestrian heritage of Normandy at this active stud farm, but remember to stay behind the fences when observing the horses."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Bures",
+            "hu": "Manoir de Bures",
+            "ro": "Manoir de Bures",
+            "en": "Manoir de Bures"
+          },
+          "coords": [
+            -0.171146,
+            49.198798
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht der lokalen historischen Architektur in diesem beeindruckenden Herrenhaus und achten Sie auf die Details am Haupteingangstor.",
+            "hu": "Fedezze fel a helyi történelmi építészet nagyszerűségét ezen a lenyűgöző udvarházon, különös figyelmet fordítva a főbejárati kapu finom részleteire.",
+            "ro": "Descoperiți grandoarea arhitecturii istorice locale la acest conac impresionant, căutând detaliile complicate de pe poarta principală de la intrare.",
+            "en": "Discover the grandeur of local historical architecture at this impressive manor, looking out for the intricate details on the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            -0.221143,
+            49.183253
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene religiöse Stätte, um die Buntglasfenster zu bestaunen, und sprechen Sie aus Respekt vor Gläubigen leise.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött vallási helyszínre, csodálja meg a színes üvegablakokat, és beszéljen halkan a hívők iránti tiszteletből.",
+            "ro": "Pășiți în acest lăcaș religios frumos conservat pentru a admira vitraliile, păstrând vocea scăzută din respect pentru credincioșii prezenți acolo.",
+            "en": "Step inside this beautifully preserved religious site to marvel at its stained glass windows, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.22439,
+            49.188274
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang um diese bezaubernde Kirche, indem Sie die markante Steinfassade betrachten und einige Fotos von der ruhigen Straße machen.",
+            "hu": "Fejezze be a sétát e bájos templom körül, figyelje meg a jellegzetes kőhomlokzatot, és készítsen néhány fényképet a csendes utcáról indulás előtt.",
+            "ro": "Încheiați-vă plimbarea în jurul acestei biserici fermecătoare observând fațada sa distinctă de piatră, făcând câteva poze de pe strada liniștită.",
+            "en": "Conclude your walk around this charming church by noting its distinct stone façade, taking a few photos from the quiet street before departing."
+          }
+        },
+        {
+          "name": {
+            "de": "Eole aventure",
+            "hu": "Eole aventure",
+            "ro": "Eole aventure",
+            "en": "Eole aventure"
+          },
+          "coords": [
+            -0.223304,
+            49.202993
+          ],
+          "category": "family",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Abenteuerpark in einen Nachmittag voller Nervenkitzel ein, wo Sie unbedingt das Wakeboarden ausprobieren sollten.",
+            "hu": "Vesse bele magát egy délutáni szabadtéri izgalomba ebben a kalandparkban, ahol felejthetetlen élményért mindenképpen próbálja ki a kötélpályás wakeboardot.",
+            "ro": "Plonjați într-o după-amiază de senzații tari în aer liber la acest parc de aventuri, unde ar trebui să încercați wakeboard-ul pentru o experiență unică.",
+            "en": "Dive into an afternoon of outdoor thrills at this adventure park, where you should definitely try the cable wakeboarding for an unforgettable experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour inmitten der edlen Pferde des Haras de Troarn. Eine kurze Fahrt bringt Sie zum historischen Manoir de Bures. Mittags radeln Sie zur wunderschön erhaltenen Église de la Nativité. Nachdem Sie die Église Saint-Pierre besichtigt haben, verbringen Sie Ihren Nachmittag mit den aufregenden Outdoor-Aktivitäten im Park Eole aventure.",
+        "hu": "Kezdje kerékpáros útját a Haras de Troarn nemes lovai között. Egy rövid út a történelmi Manoir de Bures-hoz visz, bepillantást engedve a múltba. Délben a gyönyörűen megőrzött Église de la Nativité templomhoz teker. Az Église Saint-Pierre megtekintése után töltse a délutánt az izgalmas szabadtéri tevékenységekkel az Eole aventure parkban.",
+        "ro": "Începeți călătoria cu bicicleta printre caii nobili de la Haras de Troarn. O scurtă plimbare vă duce la istoricul Manoir de Bures pentru o privire în trecut. La amiază pedalați spre frumoasa biserică Nativité-de-Notre-Dame. După vizitarea bisericii Saint-Pierre, petreceți după-amiaza bucurându-vă de activitățile în aer liber de la Eole aventure.",
+        "en": "Kick off your cycling journey amidst the noble horses of Haras de Troarn. A short ride takes you to the historic Manoir de Bures for a glimpse into the past. Midday sees you pedaling towards the beautifully preserved Église de la Nativité-de-Notre-Dame. After viewing Église Saint-Pierre, spend your afternoon enjoying the exciting outdoor activities at Eole aventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 10.92,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Paterne",
+            "hu": "Église Saint-Paterne",
+            "ro": "Église Saint-Paterne",
+            "en": "Église Saint-Paterne"
+          },
+          "coords": [
+            -0.185403,
+            49.168531
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Morgenlicht und nehmen Sie sich Zeit für den friedlichen Friedhof direkt davor.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét a reggeli fényben, és szánjon egy percet a békés temető felfedezésére is közvetlenül kint.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice în lumina dimineții și rezervați-vă un moment pentru a explora cimitirul pașnic de afară.",
+            "en": "Admire the striking architecture of this historic church in the morning light, and take a moment to explore the peaceful graveyard right outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Banneville-la-Campagne",
+            "hu": "Mairie de Banneville-la-Campagne",
+            "ro": "Mairie de Banneville-la-Campagne",
+            "en": "Mairie de Banneville-la-Campagne"
+          },
+          "coords": [
+            -0.219387,
+            49.167994
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.47,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf dieses funktionale, aber malerische Rathaus, das den ruhigen, administrativen Herzschlag der Gemeinde widerspiegelt.",
+            "hu": "Vessen egy pillantást erre a funkcionális, mégis festői városháza épületére, amely tökéletesen tükrözi a község csendes, közigazgatási szívverését.",
+            "ro": "Aruncați o scurtă privire la această clădire funcțională, dar pitorească a primăriei, care reflectă perfect pulsul administrativ și liniștit al comunei.",
+            "en": "Take a brief look at this functional yet picturesque town hall building, which perfectly reflects the quiet, administrative heartbeat of the commune."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sannerville",
+            "hu": "Mairie de Sannerville",
+            "ro": "Mairie de Sannerville",
+            "en": "Mairie de Sannerville"
+          },
+          "coords": [
+            -0.224641,
+            49.179315
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem typisch französischen Rathaus, um sein klassisches städtisches Design zu würdigen, das stolz als Zentrum des lokalen Lebens steht.",
+            "hu": "Álljon meg ennél a jellegzetes francia városházánál, hogy megcsodálja a klasszikus építészeti stílust, amely a helyi polgári élet büszke központja.",
+            "ro": "Opriți-vă la această primărie tipic franceză pentru a aprecia designul său municipal clasic, care stă cu mândrie ca centru al vieții civice locale.",
+            "en": "Pause at this quintessential French town hall to appreciate its classic municipal design, which stands proudly as the center of local civic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            -0.221143,
+            49.183253
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene religiöse Stätte, um die Buntglasfenster zu bestaunen, und sprechen Sie aus Respekt vor Gläubigen leise.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött vallási helyszínre, csodálja meg a színes üvegablakokat, és beszéljen halkan a hívők iránti tiszteletből.",
+            "ro": "Pășiți în acest lăcaș religios frumos conservat pentru a admira vitraliile, păstrând vocea scăzută din respect pentru credincioșii prezenți acolo.",
+            "en": "Step inside this beautifully preserved religious site to marvel at its stained glass windows, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Eole aventure",
+            "hu": "Eole aventure",
+            "ro": "Eole aventure",
+            "en": "Eole aventure"
+          },
+          "coords": [
+            -0.223304,
+            49.202993
+          ],
+          "category": "family",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Abenteuerpark in einen Nachmittag voller Nervenkitzel ein, wo Sie unbedingt das Wakeboarden ausprobieren sollten.",
+            "hu": "Vesse bele magát egy délutáni szabadtéri izgalomba ebben a kalandparkban, ahol felejthetetlen élményért mindenképpen próbálja ki a kötélpályás wakeboardot.",
+            "ro": "Plonjați într-o după-amiază de senzații tari în aer liber la acest parc de aventuri, unde ar trebui să încercați wakeboard-ul pentru o experiență unică.",
+            "en": "Dive into an afternoon of outdoor thrills at this adventure park, where you should definitely try the cable wakeboarding for an unforgettable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Bures",
+            "hu": "Manoir de Bures",
+            "ro": "Manoir de Bures",
+            "en": "Manoir de Bures"
+          },
+          "coords": [
+            -0.171146,
+            49.198798
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht der lokalen historischen Architektur in diesem beeindruckenden Herrenhaus und achten Sie auf die Details am Haupteingangstor.",
+            "hu": "Fedezze fel a helyi történelmi építészet nagyszerűségét ezen a lenyűgöző udvarházon, különös figyelmet fordítva a főbejárati kapu finom részleteire.",
+            "ro": "Descoperiți grandoarea arhitecturii istorice locale la acest conac impresionant, căutând detaliile complicate de pe poarta principală de la intrare.",
+            "en": "Discover the grandeur of local historical architecture at this impressive manor, looking out for the intricate details on the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras de Troarn",
+            "hu": "Haras de Troarn",
+            "ro": "Haras de Troarn",
+            "en": "Haras de Troarn"
+          },
+          "coords": [
+            -0.164196,
+            49.195031
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche reiterliche Erbe der Normandie auf diesem aktiven Gestüt, aber bleiben Sie unbedingt hinter den Zäunen, wenn Sie Pferde beobachten.",
+            "hu": "Tapasztalja meg Normandia gazdag lovas örökségét ezen az aktív ménesen, de ne felejtsen el a kerítések mögött maradni a lovak megfigyelése közben.",
+            "ro": "Experimentați bogata moștenire ecvestră a Normandiei la această herghelie activă, dar amintiți-vă să rămâneți în spatele gardurilor când priviți.",
+            "en": "Experience the rich equestrian heritage of Normandy at this active stud farm, but remember to stay behind the fences when observing the horses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der ruhigen Église Saint-Paterne. Besuchen Sie zügig die Rathäuser von Banneville und Sannerville. Verbringen Sie den Mittag damit, die Église de la Nativité zu bestaunen, und fahren Sie dann für energiegeladenen Spaß zu Eole aventure. Lassen Sie den Tag ausklingen, indem Sie das Manoir de Bures und das aktive Haras de Troarn erkunden.",
+        "hu": "Kezdje autós útját a békés Église Saint-Paterne templomnál. Gyorsan látogassa meg Banneville és Sannerville helyi városházáit a polgári építészetük miatt. A delet a Église de la Nativité megcsodálásával töltse, majd irány az Eole aventure egy kis szórakozásért. Zárja a napot a nagyszerű Manoir de Bures és az aktív Haras de Troarn ménes felfedezésével.",
+        "ro": "Începeți traseul cu mașina la liniștita Église Saint-Paterne. Vizitați rapid primăriile locale din Banneville și Sannerville. Petreceți amiaza admirând biserica Nativité-de-Notre-Dame, apoi mergeți la Eole aventure pentru distracție. Încheiați ziua explorând impresionantul Manoir de Bures și activitatea ecvestră de la Haras de Troarn.",
+        "en": "Begin your drive at the serene Église Saint-Paterne. Swiftly visit the local town halls of Banneville-la-Campagne and Sannerville to appreciate their civic architecture. Spend midday marveling at Église de la Nativité-de-Notre-Dame, then head to Eole aventure for some energetic fun. Wrap up your day exploring the grand Manoir de Bures and the active Haras de Troarn."
+      }
+    }
+  }
+}

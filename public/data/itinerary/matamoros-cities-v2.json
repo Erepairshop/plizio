@@ -1,0 +1,497 @@
+{
+  "city_id": "matamoros-cities-v2",
+  "anchor": {
+    "name": "Matamoros",
+    "coords": [
+      -97.5028,
+      25.8675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:43",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Casamata",
+            "hu": "Museo Casamata",
+            "ro": "Museo Casamata",
+            "en": "Museo Casamata"
+          },
+          "coords": [
+            -97.497303,
+            25.877833
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise in diesem ehemaligen Fort, wo Artefakte die Vergangenheit zeigen; kommen Sie früh, um den schattigen Innenhof vor den Menschenmassen zu genießen.",
+            "hu": "Kezdje útját ebben az egykori erődben, ahol a leletek a múltat mutatják be; érkezzen korán, hogy még a tömeg előtt élvezhesse az árnyékos udvar nyugodt hangulatát.",
+            "ro": "Începeți călătoria în acest fost fort, unde artefactele dezvăluie istoria regiunii; ajungeți devreme pentru a vă bucura de curtea umbrită înainte de aglomerația tipică.",
+            "en": "Start your historical journey in this former fort, where military artifacts reveal the region's past; arrive early to enjoy the shaded courtyard before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galería Gallardo",
+            "hu": "Galería Gallardo",
+            "ro": "Galería Gallardo",
+            "en": "Galería Gallardo"
+          },
+          "coords": [
+            -97.50281,
+            25.881931
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem eleganten Galerieraum in die zeitgenössische regionale Kunst ein; überprüfen Sie das Programm, um einzigartige Werke lokaler Künstler zu finden.",
+            "hu": "Merüljön el a kortárs regionális művészetben ebben az elegáns galériában; érdemes ellenőrizni az időszaki kiállításokat, hogy egyedi helyi alkotókat is felfedezzen.",
+            "ro": "Cufundați-vă în arta regională contemporană în această galerie elegantă; verificarea programului expozițiilor temporare vă ajută să descoperiți artiști locali unici.",
+            "en": "Immerse yourself in contemporary regional art at this elegant gallery space; checking the schedule for temporary exhibitions can help you find unique local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro de la Reforma",
+            "hu": "Teatro de la Reforma",
+            "ro": "Teatro de la Reforma",
+            "en": "Teatro de la Reforma"
+          },
+          "coords": [
+            -97.504585,
+            25.881204
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade dieses Kulturzentrums, das seit einem Jahrhundert Veranstaltungen ausrichtet; vom Platz aus haben Sie den besten Fotowinkel.",
+            "hu": "Csodálja meg e kulturális központ neoklasszikus homlokzatát, amely évszázada ad otthont eseményeknek; a térről nyílik a legjobb és legszebb szög a fényképezéshez.",
+            "ro": "Admirați fațada neoclasică a acestui centru cultural care găzduiește evenimente de un secol; privindu-l din piață obțineți cel mai bun unghi pentru fotografiile dvs.",
+            "en": "Admire the neoclassical facade of this cultural hub which has hosted events for over a century; viewing it from the plaza gives the best angle for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo IRBAM",
+            "hu": "Museo IRBAM",
+            "ro": "Museo IRBAM",
+            "en": "Museo IRBAM"
+          },
+          "coords": [
+            -97.507421,
+            25.885529
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältigen Kunstsammlungen in diesem sorgfältig restaurierten Gebäude; wenn Sie Zeit im zweiten Stock verbringen, erwartet Sie ein ruhigeres Erlebnis.",
+            "hu": "Fedezze fel a sokszínű képzőművészeti gyűjteményeket ebben a gondosan felújított épületben; a második emeleti kiállításokon eltöltött idő csendesebb élményt kínál.",
+            "ro": "Explorați diversele colecții de arte plastice găzduite în această clădire meticulos restaurată; petrecerea timpului la etajul doi oferă o experiență mai liniștită.",
+            "en": "Explore the diverse fine arts collections housed within this meticulously restored building; spending time at the second-floor exhibits offers a quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del ferrocarril",
+            "hu": "Museo del ferrocarril",
+            "ro": "Museo del ferrocarril",
+            "en": "Museo del ferrocarril"
+          },
+          "coords": [
+            -97.508798,
+            25.885885
+          ],
+          "category": "museum",
+          "arrive_at": "15:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Entwicklung von Matamoros durch erhaltene Lokomotiven; verpassen Sie nicht die Waggons im Freien, die sich perfekt für schnelle Fotos eignen.",
+            "hu": "Ismerje meg Matamoros ipari fejlődését a megőrzött mozdonyokon és vasúti emlékeken keresztül; ne hagyja ki a szabadtéri kocsikat, amelyek tökéletesek a fotózáshoz.",
+            "ro": "Descoperiți evoluția industrială a orașului prin locomotive și memorabilii feroviare; nu ratați vagoanele în aer liber care sunt perfecte pentru o fotografie rapidă.",
+            "en": "Discover Matamoros' industrial evolution through preserved locomotives and railway memorabilia; don't miss the outdoor train cars which are perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Internacional Brownsville-Matamoros",
+            "hu": "Puente Internacional Brownsville-Matamoros",
+            "ro": "Puente Internacional Brownsville-Matamoros",
+            "en": "Puente Internacional Brownsville-Matamoros"
+          },
+          "coords": [
+            -97.5048,
+            25.89193
+          ],
+          "category": "landmark",
+          "arrive_at": "17:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem belebten Grenzübergang, der zwei Nationen verbindet; beobachten Sie den dynamischen Fluss und halten Sie Ihren Ausweis bereit.",
+            "hu": "Zárja sétáját a két nemzetet összekötő, nyüzsgő határátkelőhelyen; figyelje meg a dinamikus nemzetközi forgalmat, és tartsa kéznél az igazolványát a biztonság kedvéért.",
+            "ro": "Încheiați plimbarea la trecerea de frontieră aglomerată care leagă două națiuni; observați fluxul dinamic internațional și păstrați actul de identitate la îndemână.",
+            "en": "Conclude your walk at the bustling border crossing connecting two nations; observe the dynamic international flow and keep your ID handy if you approach the gateway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie den Tag im historischen Museo Casamata, um die Militärgeschichte von Matamoros zu verstehen. Schlendern Sie durch die Anlagen und tauchen Sie danach in der Galería Gallardo in die lokale Kunst ein.\nMittags: Das Teatro de la Reforma beeindruckt mit seiner Architektur. Nehmen Sie sich Zeit, die Fassade auf sich wirken zu lassen und die Atmosphäre der zentralen Plätze zu genießen, bevor Sie tiefer in die Stadtgeschichte eintauchen.\nNachmittags: Ein kurzer Spaziergang führt Sie zum Museo IRBAM und zum Museo del ferrocarril. Hier entdecken Sie feine Kunst und die industrielle Entwicklung, welche die gesamte Grenzregion geprägt hat.\nAbends: Der Tag endet am beeindruckenden Puente Internacional. Beobachten Sie das geschäftige Treiben an der Grenze im schwindenden Tageslicht und reflektieren Sie die einzigartige binationale Dynamik.",
+        "hu": "Délelőtt: Kezdje a napot a történelmi Museo Casamatában, hogy megértse Matamoros katonai múltját. Sétáljon a falak között, majd merüljön el a Galería Gallardo kortárs regionális művészeti kiállításaiban.\nDél: A Teatro de la Reforma építészete lenyűgöző látványt nyújt. Szánjon időt a homlokzat és a központi terek hangulatának élvezetére, mielőtt mélyebbre ásna a város gazdag kulturális örökségében.\nDélután: Rövid séta vezet a Museo IRBAM és a Museo del ferrocarril épületeihez. Itt a finom képzőművészetet és a régió ipari fejlődését is felfedezheti a szépen megőrzött vasúti emlékeken keresztül.\nEste: A nap a lenyűgöző Puente Internacionalnál ér véget. Figyelje a nyüzsgő határforgalmat az alkonyati fényekben, és tapasztalja meg a két ország közötti egyedülálló, dinamikus kapcsolatot.",
+        "ro": "Dimineața: Începeți ziua la istoricul Museo Casamata pentru a înțelege trecutul militar al orașului Matamoros. Plimbați-vă prin incintă și apoi cufundați-vă în expozițiile de artă locală de la Galería Gallardo.\nPrânz: Arhitectura Teatrului de la Reforma este o priveliște impresionantă. Făceți-vă timp pentru a vă bucura de fațadă și de atmosfera piețelor centrale înainte de a explora patrimoniul cultural bogat.\nDupă-amiaza: O scurtă plimbare vă duce la Museo IRBAM și Museo del ferrocarril. Aici veți descoperi artele plastice rafinate și dezvoltarea industrială care a modelat întreaga regiune de frontieră.\nSeara: Ziua se încheie la impresionantul Puente Internacional. Observați agitația de la graniță în lumina serii și reflectați asupra dinamicii binare unice care definește acest spațiu vibrant.",
+        "en": "Morning: Start the day at the historic Museo Casamata to understand the military past of Matamoros. Stroll through the grounds and then immerse yourself in local art exhibitions at Galería Gallardo.\nMidday: The architecture of the Teatro de la Reforma is an impressive sight. Take time to enjoy the facade and the atmosphere of the central plazas before exploring more of the city's rich heritage.\nAfternoon: A short walk takes you to Museo IRBAM and the Museo del ferrocarril. Here you will discover fine arts and the industrial development that has shaped the entire border region over the years.\nEvening: The day ends at the impressive Puente Internacional. Observe the bustling border traffic in the fading daylight and reflect on the unique binational dynamic that defines this vibrant area."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "C. Benito Juarez",
+            "hu": "C. Benito Juarez",
+            "ro": "C. Benito Juarez",
+            "en": "C. Benito Juarez"
+          },
+          "coords": [
+            -97.503478,
+            25.859902
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie in dieses historische Wohnviertel, das für seine traditionelle Architektur bekannt ist; nehmen Sie sich Zeit, um die kunstvollen Eisenarbeiten zu bewundern.",
+            "hu": "Tekerjen el ebbe a hagyományos építészetéről ismert, történelmi lakónegyedbe; szánjon egy kis időt arra, hogy megcsodálja a régi épületek díszes, kidolgozott vasmunkáit.",
+            "ro": "Pedalați spre această zonă istorică cunoscută pentru arhitectura sa tradițională; rezervați-vă un moment pentru a admira feroneria ornamentată a clădirilor mai vechi.",
+            "en": "Pedal to this historic residential area known for its traditional architecture; take a moment to admire the ornate ironwork on the older buildings while you explore."
+          }
+        },
+        {
+          "name": {
+            "de": "El Chapoteadero",
+            "hu": "El Chapoteadero",
+            "ro": "El Chapoteadero",
+            "en": "El Chapoteadero"
+          },
+          "coords": [
+            -97.493563,
+            25.861646
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kurze Pause in diesem lebhaften Erholungsgebiet, in dem sich Familien treffen; parken Sie Ihr Rad sicher und sitzen Sie am Wasser, um sich abzukühlen.",
+            "hu": "Tartson egy rövid pihenőt ezen a nyüzsgő rekreációs területen, ahol a helyiek gyülekeznek; parkolja le biztonságosan a kerékpárját, és hűsöljön a vízparton indulás előtt.",
+            "ro": "Bucurați-vă de o scurtă odihnă lângă această zonă de agrement plină de viață; parcați bicicleta în siguranță și așezați-vă lângă fântâni pentru a vă răcori puțin.",
+            "en": "Enjoy a brief rest near this lively recreational area where local families gather; park your bike securely and sit by the water features to cool down before riding."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casamata",
+            "hu": "Museo Casamata",
+            "ro": "Museo Casamata",
+            "en": "Museo Casamata"
+          },
+          "coords": [
+            -97.497303,
+            25.877833
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen Fort in die Militärgeschichte von Matamoros ein; schließen Sie Ihr Fahrrad am Haupttor ab und lesen Sie die Tafeln im Freien.",
+            "hu": "Merüljön el Matamoros katonai történelmében ebben a jól megőrzött egykori erődben; zárja le kerékpárját a főkapunál, és szánjon több időt a szabadtéri táblák elolvasására.",
+            "ro": "Aprofundați istoria militară din Matamoros în interiorul acestui fort bine conservat; legați bicicleta lângă poarta principală și citiți plăcuțele informative de afară.",
+            "en": "Delve into the military history of Matamoros inside this well-preserved redoubt; lock your bike near the main gate and spend extra time reading the outdoor plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro de la Reforma",
+            "hu": "Teatro de la Reforma",
+            "ro": "Teatro de la Reforma",
+            "en": "Teatro de la Reforma"
+          },
+          "coords": [
+            -97.504585,
+            25.881204
+          ],
+          "category": "cultural",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem majestätischen Theater, das als Zeugnis der lokalen darstellenden Künste steht; die umliegende Plaza bietet ausreichend Platz für schöne Fotos.",
+            "hu": "Tekerjen ehhez a fenséges színházhoz, amely a helyi előadóművészet emlékműveként áll; a környező tér bőséges helyet biztosít a lábak kinyújtóztatásához és a fotózáshoz.",
+            "ro": "Ciclati până la acest teatru maiestuos care este o mărturie a artelor spectacolului; piața înconjurătoare oferă spațiu amplu pentru a vă întinde picioarele și a face poze.",
+            "en": "Cycle up to this majestic theater that stands as a testament to local performing arts; the surrounding plaza provides ample space to stretch your legs and take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del ferrocarril",
+            "hu": "Museo del ferrocarril",
+            "ro": "Museo del ferrocarril",
+            "en": "Museo del ferrocarril"
+          },
+          "coords": [
+            -97.508798,
+            25.885885
+          ],
+          "category": "museum",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem faszinierenden Verkehrsmuseum mehr über das Eisenbahnerbe der Region; die Exponate im Freien sind groß genug, um sie nach dem Parken zu bewundern.",
+            "hu": "Ismerje meg a régió vasúti örökségét ebben a lenyűgöző közlekedési múzeumban; a szabadtéri kiállítási tárgyak elég nagyok ahhoz, hogy a parkolás után azonnal élvezze őket.",
+            "ro": "Aflați despre moștenirea feroviară a regiunii la acest fascinant muzeu al transporturilor; exponatele în aer liber sunt ușor de apreciat imediat după ce ați parcat.",
+            "en": "Learn about the region's railway heritage at this fascinating transport museum; the outdoor exhibits are large enough to appreciate easily right after you park up."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Internacional Brownsville-Matamoros",
+            "hu": "Puente Internacional Brownsville-Matamoros",
+            "ro": "Puente Internacional Brownsville-Matamoros",
+            "en": "Puente Internacional Brownsville-Matamoros"
+          },
+          "coords": [
+            -97.5048,
+            25.89193
+          ],
+          "category": "landmark",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie den internationalen Transit aus den sicheren Zonen in der Nähe des Übergangs; das Nachmittagslicht wirft wunderschöne Schatten auf die imposante Infrastruktur.",
+            "hu": "Figyelje a nemzetközi tranzitot az átkelő melletti biztonságos zónákból; a késő délutáni fények gyönyörű, hosszú árnyékokat vetnek a hatalmas, impozáns határinfrastruktúrára.",
+            "ro": "Urmăriți tranzitul internațional din zonele sigure desemnate lângă trecere; lumina după-amiezii aruncă umbre frumoase peste infrastructura de frontieră impunătoare.",
+            "en": "Watch the international transit from the designated safe zones near the crossing; the afternoon light casts beautiful shadows across the imposing border infrastructure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Ihre Radtour beginnt im historischen Viertel C. Benito Juarez. Genießen Sie die ruhige Morgenluft und bewundern Sie die traditionelle Architektur, bevor Sie zum El Chapoteadero weiterfahren.\nMittags: Am Wasser des El Chapoteadero können Sie sich wunderbar abkühlen. Danach radeln Sie zum Museo Casamata, wo Sie die beeindruckenden militärischen Artefakte der Region erkunden.\nNachmittags: Fahren Sie weiter zum majestätischen Teatro de la Reforma und zum Museo del ferrocarril. Die Strecken sind kurz, und die historischen Plätze bieten hervorragende Fotomotive.\nAbends: Beenden Sie die Tour in der Nähe des Puente Internacional. Die Abendstimmung taucht die grenzüberschreitende Infrastruktur in ein sanftes Licht, ideal für einen entspannten Tagesausklang.",
+        "hu": "Délelőtt: Kerékpártúrája a történelmi C. Benito Juarez negyedben kezdődik. Élvezze a csendes reggeli levegőt és csodálja meg a hagyományos építészetet, mielőtt továbbteker az El Chapoteadero felé.\nDél: Az El Chapoteadero vizeinél nagyszerűen lehűtheti magát. Ezután tekerjen a Museo Casamatához, ahol a régió lenyűgöző katonai múltját és megőrzött építészeti emlékeit fedezheti fel.\nDélután: Haladjon tovább a fenséges Teatro de la Reforma és a Museo del ferrocarril felé. A távolságok rövidek, a történelmi terek pedig kiváló fotótémákat és kellemes pihenőhelyeket kínálnak.\nEste: Fejezze be a túrát a Puente Internacional közelében. Az esti hangulat lágy fénybe burkolja a határokon átnyúló infrastruktúrát, amely tökéletes egy pihentető, elgondolkodtató napzáráshoz.",
+        "ro": "Dimineața: Turul cu bicicleta începe în cartierul istoric C. Benito Juarez. Bucurați-vă de aerul liniștit al dimineții și admirați arhitectura tradițională înainte de a pedala spre El Chapoteadero.\nPrânz: La apele de la El Chapoteadero vă puteți răcori minunat. Apoi pedalați spre Museo Casamata, unde explorați artefactele militare impresionante și istoria fascinantă a regiunii de frontieră.\nDupă-amiaza: Continuați spre maiestuosul Teatro de la Reforma și Museo del ferrocarril. Distanțele sunt scurte, iar piețele istorice oferă oportunități excelente pentru fotografii și momente de respiro.\nSeara: Încheiați turul în apropierea Puente Internacional. Atmosfera de seară scaldă infrastructura transfrontalieră într-o lumină blândă, ideală pentru o încheiere relaxantă a unei zile active.",
+        "en": "Morning: Your bike tour begins in the historic C. Benito Juarez neighborhood. Enjoy the quiet morning air and admire the traditional architecture before pedaling onward to El Chapoteadero.\nMidday: The waters at El Chapoteadero offer a wonderful chance to cool down. Afterward, cycle to the Museo Casamata, where you will explore the impressive military artifacts and history of the region.\nAfternoon: Continue to the majestic Teatro de la Reforma and the Museo del ferrocarril. The distances are short, and the historic plazas offer excellent photo opportunities and pleasant resting spots.\nEvening: Conclude the tour near the Puente Internacional. The evening atmosphere bathes the cross-border infrastructure in a soft light, providing an ideal and relaxing end to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 15.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Albercas Atlantis",
+            "hu": "Albercas Atlantis",
+            "ro": "Albercas Atlantis",
+            "en": "Albercas Atlantis"
+          },
+          "coords": [
+            -97.542357,
+            25.798615
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit etwas Freizeit in diesem beliebten Schwimmzentrum am Stadtrand; eigene Handtücher mitzubringen und pünktlich zur Öffnung da zu sein, ist ideal.",
+            "hu": "Kezdje a napot egy kis kikapcsolódással ebben a népszerű, külvárosi vízi központban; érdemes saját törölközőt hozni és nyitásra érkezni, hogy biztosan jó helyet találjon.",
+            "ro": "Începeți ziua cu puțină relaxare la acest popular centru acvatic situat la periferie; aducerea propriilor prosoape și sosirea la deschidere vă asigură un loc excelent.",
+            "en": "Kick off your day with some leisure at this popular aquatic center located on the outskirts; bringing your own towels and arriving right at opening ensures a great spot."
+          }
+        },
+        {
+          "name": {
+            "de": "C. Benito Juarez",
+            "hu": "C. Benito Juarez",
+            "ro": "C. Benito Juarez",
+            "en": "C. Benito Juarez"
+          },
+          "coords": [
+            -97.503478,
+            25.859902
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.8,
+          "tip_5lang": {
+            "de": "Fahren Sie durch diese charmante historische Allee, die von bedeutenden Sehenswürdigkeiten gesäumt ist; frühes Parken auf der Straße ermöglicht es Ihnen, zu Fuß zu gehen.",
+            "hu": "Vezessen végig ezen a bájos történelmi sugárúton, amelyet jelentős helyi nevezetességek szegélyeznek; a korai utcai parkolás lehetővé teszi a környék gyalogos felfedezését.",
+            "ro": "Conduceți pe acest bulevard istoric fermecător, plin de repere locale semnificative; găsirea unei parcări stradale devreme vă permite să explorați fațadele pe jos.",
+            "en": "Drive through this charming historical avenue lined with significant local landmarks; finding street parking early allows you to explore the nearby facades on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pilar Central",
+            "hu": "El Pilar Central",
+            "ro": "El Pilar Central",
+            "en": "El Pilar Central"
+          },
+          "coords": [
+            -97.513642,
+            25.873301
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wichtige historische Zentrum, das die architektonische Entwicklung der Stadt zeigt; suchen Sie in den angrenzenden Nebenstraßen nach bequemen Parkplätzen.",
+            "hu": "Látogasson el ebbe a fontos történelmi központba, amely a város építészeti fejlődését mutatja be; a forgalmas órákban a szomszédos mellékutcákban keressen parkolóhelyet.",
+            "ro": "Vizitați acest centru istoric important care prezintă evoluția arhitecturală a orașului; verificați străzile laterale adiacente pentru parcări convenabile la ore de vârf.",
+            "en": "Visit this important historical center that showcases the architectural evolution of the city; check the adjacent side streets for convenient parking during busy hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casamata",
+            "hu": "Museo Casamata",
+            "ro": "Museo Casamata",
+            "en": "Museo Casamata"
+          },
+          "coords": [
+            -97.497303,
+            25.877833
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem Festungsmuseum in die turbulente Vergangenheit von Matamoros ein; der kleine Parkplatz ist schnell voll, seien Sie also bereit, etwas zu Fuß zu gehen.",
+            "hu": "Lépjen be Matamoros viharos múltjába ebben az egykori erődből lett múzeumban; a kis parkoló gyorsan megtelik, így készüljön fel arra, hogy esetleg sétálnia kell egy blokkot.",
+            "ro": "Pășiți în trecutul turbulent al orașului Matamoros la acest fort distinct transformat în muzeu; parcarea mică se umple rapid, așa că fiți pregătiți să mergeți un pic pe jos.",
+            "en": "Step into Matamoros' turbulent past at this distinctive fort-turned-museum; the small parking area fills up quickly, so be prepared to walk a short block if needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Internacional Brownsville-Matamoros",
+            "hu": "Puente Internacional Brownsville-Matamoros",
+            "ro": "Puente Internacional Brownsville-Matamoros",
+            "en": "Puente Internacional Brownsville-Matamoros"
+          },
+          "coords": [
+            -97.5048,
+            25.89193
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie in die Nähe der internationalen Brücke, um das immense Ausmaß des grenzüberschreitenden Handels zu sehen; achten Sie auf die wechselnden Verkehrsmuster vor Ort.",
+            "hu": "Vezessen a nemzetközi híd közelébe, hogy tanúja lehessen a határon átnyúló kereskedelem hatalmas méreteinek; maradjon éber a változó forgalmi renddel kapcsolatban a zónában.",
+            "ro": "Conduceți lângă podul internațional pentru a asista la amploarea masivă a comerțului transfrontalier; rămâneți conștienți de schimbarea modelelor de trafic în zonele aglomerate.",
+            "en": "Drive near the international bridge to witness the massive scale of cross-border trade; remain aware of the changing traffic patterns as you navigate the busy sectors."
+          }
+        },
+        {
+          "name": {
+            "de": "Gladys Porter Zoo",
+            "hu": "Gladys Porter Zoo",
+            "ro": "Gladys Porter Zoo",
+            "en": "Gladys Porter Zoo"
+          },
+          "coords": [
+            -97.496259,
+            25.912316
+          ],
+          "category": "wildlife",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Grenze, um diesen berühmten Wildpark mit seinen vielfältigen Lebensräumen zu erleben; bequeme Wanderschuhe sind sehr empfehlenswert für den großen Zoo.",
+            "hu": "Lépje át a határt, és tapasztalja meg ezt a híres vadasparkot, amely változatos élőhelyeket kínál; kényelmes sétacipő viselése erősen ajánlott a hatalmas állatkert bejárásához.",
+            "ro": "Treceți granița pentru a experimenta acest parc renumit cu habitate diverse; purtarea de încălțăminte confortabilă de mers este foarte recomandată pentru explorarea sa vastă.",
+            "en": "Cross the border to experience this renowned wildlife park featuring diverse habitats; wearing comfortable walking shoes is highly recommended for exploring the large zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Sam's Memorial Pool",
+            "hu": "Sam's Memorial Pool",
+            "ro": "Sam's Memorial Pool",
+            "en": "Sam's Memorial Pool"
+          },
+          "coords": [
+            -97.495549,
+            25.91492
+          ],
+          "category": "recreational",
+          "arrive_at": "17:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre ausgedehnte Fahrt mit einem entspannenden Besuch in dieser historischen öffentlichen Schwimmanlage; die späten Nachmittagsstunden bieten oft mehr Ruhe.",
+            "hu": "Fejezze be a kiterjedt utazást egy pihentető látogatással ebben a történelmi, nyilvános uszodában; a késő délutáni órák általában nyugodtabb légkört kínálnak a levezetéshez.",
+            "ro": "Terminați-vă călătoria cu o vizită relaxantă la această piscină publică istorică; orele târzii ale după-amiezii oferă de obicei o atmosferă mai calmă pentru a vă destinde.",
+            "en": "Finish your extensive drive with a relaxing visit to this historic public swimming facility; the late afternoon hours usually offer a calmer atmosphere for winding down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Der Tag beginnt entspannt in den Albercas Atlantis am Stadtrand. Genießen Sie die Wasserlandschaft, bevor Sie mit dem Auto ins Stadtzentrum zur historischen C. Benito Juarez fahren.\nMittags: Entdecken Sie El Pilar Central und tauchen Sie im Museo Casamata tief in die Stadtgeschichte ein. Mit dem Auto lassen sich diese wichtigen Sehenswürdigkeiten bequem und zügig verbinden.\nNachmittags: Fahren Sie in Richtung Grenze zum Puente Internacional und überqueren Sie diese, um den Gladys Porter Zoo zu besuchen. Die vielfältige Tierwelt ist ein Highlight für jeden Reisenden.\nAbends: Nach einem erlebnisreichen Tag im Zoo bietet der Sam's Memorial Pool die perfekte Kulisse zum Entspannen. Lassen Sie den Abend bei einem ruhigen Spaziergang in der Umgebung ausklingen.",
+        "hu": "Délelőtt: A nap nyugodtan indul az Albercas Atlantis vízi központjában a város szélén. Élvezze a vizet, majd autózzon be a városközpontba a történelmi C. Benito Juarez sugárút környékére.\nDél: Fedezze fel az El Pilar Centralt, és merüljön el a város történelmében a Museo Casamatában. Autóval ezek a fontos látnivalók kényelmesen és gyorsan megközelíthetők a forgalmas nap során.\nDélután: Hajtson a határ felé, a Puente Internacionalhoz, majd keljen át, hogy meglátogassa a Gladys Porter Zoot. A változatos vadvilág és a tágas park minden utazó számára igazi fénypont.\nEste: Az állatkertben töltött eseménydús nap után a Sam's Memorial Pool tökéletes hátteret biztosít a kikapcsolódáshoz. Zárja az estét egy békés sétával és a környék csendjének élvezetével.",
+        "ro": "Dimineața: Ziua începe relaxant la Albercas Atlantis, la periferia orașului. Bucurați-vă de peisajul acvatic înainte de a conduce spre centrul orașului, la istorica C. Benito Juarez.\nPrânz: Descoperiți El Pilar Central și aprofundați istoria orașului la Museo Casamata. Cu mașina, aceste obiective turistice importante pot fi conectate confortabil și rapid în timpul zilei.\nDupă-amiaza: Conduceți spre graniță, la Puente Internacional, și traversați pentru a vizita Gladys Porter Zoo. Fauna diversă este un punct de atracție major pentru orice călător entuziast.\nSeara: După o zi plină de evenimente la grădina zoologică, Sam's Memorial Pool oferă cadrul perfect pentru relaxare. Încheiați seara cu o plimbare liniștită în împrejurimile calmante.",
+        "en": "Morning: The day begins relaxingly at the Albercas Atlantis on the outskirts. Enjoy the aquatic landscape before driving into the city center to explore the historic C. Benito Juarez avenue.\nMidday: Discover El Pilar Central and dive deep into the city's history at the Museo Casamata. By car, these important sights can be connected comfortably and quickly throughout the busy day.\nAfternoon: Drive towards the border at the Puente Internacional and cross over to visit the Gladys Porter Zoo. The diverse wildlife and spacious park are a major highlight for any traveler.\nEvening: After an eventful day exploring the zoo, Sam's Memorial Pool provides the perfect setting for relaxation. End the evening with a peaceful walk and enjoy the calm surroundings."
+      }
+    }
+  }
+}

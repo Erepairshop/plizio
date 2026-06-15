@@ -1,0 +1,612 @@
+{
+  "city_id": "spain-hellin-cities-v2",
+  "anchor": {
+    "name": "Hellín",
+    "coords": [
+      -1.703449,
+      38.51219
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 1.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eselsdenkmal",
+            "hu": "Szamár-emlékmű",
+            "ro": "Monumentul Măgarului",
+            "en": "Donkey Monument"
+          },
+          "coords": [
+            -1.70731,
+            38.510791
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
+            "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
+            "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
+            "hu": "Rózsafüzér Királynője Szentély",
+            "ro": "Sanctuarul Maicii Domnului a Rozariului",
+            "en": "Sanctuary of Our Lady of the Rosary"
+          },
+          "coords": [
+            -1.704299,
+            38.511768
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
+            "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
+            "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Karwoche",
+            "hu": "Nagyhét Múzeuma",
+            "ro": "Muzeul Săptămânii Mari",
+            "en": "Holy Week Museum"
+          },
+          "coords": [
+            -1.702891,
+            38.511718
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
+            "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
+            "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San Rafael",
+            "hu": "San Rafael Remetelak",
+            "ro": "Schitul San Rafael",
+            "en": "Hermitage of San Rafael"
+          },
+          "coords": [
+            -1.702687,
+            38.513573
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
+            "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            -1.700629,
+            38.513438
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
+            "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
+            "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Theater",
+            "hu": "Victoria Színház",
+            "ro": "Teatrul Victoria",
+            "en": "Victoria Theater"
+          },
+          "coords": [
+            -1.696754,
+            38.512118
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
+            "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
+            "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Jungfrau der Kiefer",
+            "hu": "Fenyőfa Szűzanya Emlékmű",
+            "ro": "Monumentul Fecioarei Pinului",
+            "en": "Monument to the Virgin of the Pine"
+          },
+          "coords": [
+            -1.69389,
+            38.512501
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
+            "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
+            "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am charmanten Eselsdenkmal, bevor Sie zum beeindruckenden Heiligtum spazieren, um die kunstvollen Altäre zu bewundern.\n\nTauchen Sie im Museo de la Semana Santa tief in die lokale Kultur ein und erkunden Sie die unglaublichen Festwagen, bevor Sie die friedliche Ermita de San Rafael besuchen.\n\nVerbringen Sie den Nachmittag damit, antike Schätze im Museo Municipal zu entdecken, und genießen Sie einen Spaziergang vorbei an der eleganten Fassade des Teatro Victoria.\n\nBeenden Sie Ihren Rundgang am Denkmal der Virgen del Pino, genießen Sie die Abendbrise und lassen Sie die reiche Geschichte von Hellín Revue passieren.",
+        "hu": "Kezdje a napot a bájos Szamár-emlékműnél, majd sétáljon át a lenyűgöző szentélyhez, hogy megcsodálja bonyolult oltárait.\n\nMerüljön el a helyi kultúrában a Museo de la Semana Santa lenyűgöző felvonulási kocsijai között, mielőtt ellátogatna a békés Ermita de San Rafael kápolnába.\n\nTöltse a délutánt ősi kincsek felfedezésével a Városi Múzeumban, majd tegyen egy kellemes sétát a Teatro Victoria elegáns homlokzata előtt.\n\nFejezze be a sétát a Virgen del Pino emlékművénél, élvezze az esti szellőt és elmélkedjen Hellín gazdag történelmi múltján.",
+        "ro": "Începeți explorarea la fermecătorul Monumentul Măgarului, apoi îndreptați-vă spre uimitorul Sanctuar pentru a admira altarele sale complexe.\n\nPătrundeți în cultura locală la Museo de la Semana Santa, explorând incredibilele care alegorice, înainte de a vizita pașnica Ermita de San Rafael.\n\nPetreceți-vă după-amiaza descoperind comori antice la Museo Municipal, apoi bucurați-vă de o plimbare relaxantă pe lângă fațada elegantă a Teatro Victoria.\n\nÎncheiați-vă turul pietonal la monumentul Virgen del Pino, bucurându-vă de briza serii și reflectând la istoria bogată a orașului Hellín.",
+        "en": "Start by meeting the charming Donkey Monument, then head to the stunning Sanctuary of Our Lady of the Rosary to admire its intricate altars.\n\nDive deep into local culture at the Holy Week Museum, exploring the incredible parade floats, before visiting the peaceful Hermitage of San Rafael.\n\nSpend your afternoon uncovering ancient treasures at the Municipal Museum, and then enjoy a leisurely walk past the elegant facade of the Victoria Theater.\n\nConclude your walking tour at the monument of the Virgin of the Pine, enjoying the evening breeze and reflecting on the rich historical tapestry of Hellín."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:35",
+      "total_km": 2.25,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreuz der Gefallenen",
+            "hu": "Az Elesettek Keresztje",
+            "ro": "Crucea Celor Căzuți",
+            "en": "Cross of the Fallen"
+          },
+          "coords": [
+            -1.700881,
+            38.507984
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses feierliche historische Kreuz für die Gefallenen und lesen Sie die umgebenden Informationstafeln, um den Kontext besser zu verstehen.",
+            "hu": "Tekintse meg ezt az elesetteknek szentelt ünnepélyes történelmi keresztet, és szánjon egy percet a környező kontextust bemutató panelek elolvasására is.",
+            "ro": "Observați această cruce istorică solemnă dedicată celor căzuți și faceți-vă timp să citiți panourile cu context istoric pentru o înțelegere mai profundă.",
+            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Eselsdenkmal",
+            "hu": "Szamár-emlékmű",
+            "ro": "Monumentul Măgarului",
+            "en": "Donkey Monument"
+          },
+          "coords": [
+            -1.70731,
+            38.510791
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
+            "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
+            "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
+            "hu": "Rózsafüzér Királynője Szentély",
+            "ro": "Sanctuarul Maicii Domnului a Rozariului",
+            "en": "Sanctuary of Our Lady of the Rosary"
+          },
+          "coords": [
+            -1.704299,
+            38.511768
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
+            "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
+            "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Karwoche",
+            "hu": "Nagyhét Múzeuma",
+            "ro": "Muzeul Săptămânii Mari",
+            "en": "Holy Week Museum"
+          },
+          "coords": [
+            -1.702891,
+            38.511718
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
+            "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
+            "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            -1.700629,
+            38.513438
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
+            "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
+            "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San Rafael",
+            "hu": "San Rafael Remetelak",
+            "ro": "Schitul San Rafael",
+            "en": "Hermitage of San Rafael"
+          },
+          "coords": [
+            -1.702687,
+            38.513573
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
+            "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Theater",
+            "hu": "Victoria Színház",
+            "ro": "Teatrul Victoria",
+            "en": "Victoria Theater"
+          },
+          "coords": [
+            -1.696754,
+            38.512118
+          ],
+          "category": "cultural",
+          "arrive_at": "16:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
+            "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
+            "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Jungfrau der Kiefer",
+            "hu": "Fenyőfa Szűzanya Emlékmű",
+            "ro": "Monumentul Fecioarei Pinului",
+            "en": "Monument to the Virgin of the Pine"
+          },
+          "coords": [
+            -1.69389,
+            38.512501
+          ],
+          "category": "historical",
+          "arrive_at": "17:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
+            "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
+            "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Radeln durch Hellín beginnt am feierlichen Kreuz der Gefallenen, bevor Sie eine kurze Fahrt zum skurrilen Eselsdenkmal und dem schönen Heiligtum unternehmen.\n\nRadeln Sie zum Museum der Karwoche, um mehr über die Trommeltraditionen von Hellín zu erfahren, und erkunden Sie dann die archäologischen Wunder des Städtischen Museums.\n\nNachdem Sie die Geschichte entdeckt haben, fahren Sie leicht bergauf zur bezaubernden Einsiedelei von San Rafael und genießen die friedliche Aussicht von oben.\n\nGleiten Sie für eine kulturelle Pause hinunter zum Victoria Theater und beenden Sie Ihr Radabenteuer schließlich am Denkmal der Jungfrau der Kiefer.",
+        "hu": "A hellíni kerékpározás az ünnepélyes Elesettek Keresztjénél kezdődik, majd egy rövid út vezet a mókás Szamár-emlékműhöz és a szép szentélyhez.\n\nKarikázzon el a Nagyhét Múzeumához, hogy megismerje a hellíni dobolási hagyományokat, majd fedezze fel a Városi Múzeum régészeti csodáit.\n\nA helyi történelem felfedezése után tekerjen fel kissé a bájos San Rafael Remetelakhoz, és élvezze a magasabb pontról nyíló nyugodt kilátást.\n\nGuruljon le a Victoria Színházhoz egy kulturális szünetre, majd fejezze be a kerékpáros kalandot a suttogó fenyőkkel körülvett Fenyőfa Szűzanyánál.",
+        "ro": "Pedalatul prin Hellín începe la solemna Cruce a Celor Căzuți înainte de a face o scurtă plimbare spre excentricul Monument al Măgarului și frumosul sanctuar.\n\nMergeți cu bicicleta la Muzeul Săptămânii Mari pentru a afla despre tradiția tobelor, apoi explorați minunile arheologice ale Muzeului Municipal.\n\nDupă ce descoperiți istoria locală, urcați ușor spre fermecătorul Schit San Rafael, bucurându-vă de priveliștile senine de pe terenul mai înalt.\n\nCoborâți spre Teatrul Victoria pentru o pauză culturală, încheind aventura pe două roți la monumentul Fecioarei Pinului înconjurat de pini șoptitori.",
+        "en": "Pedaling through Hellín starts at the solemn Cross of the Fallen before taking a short ride to the quirky Donkey Monument and the lovely sanctuary.\n\nCycle to the Holy Week Museum to learn about Hellín's drumming traditions, then safely park to explore the Municipal Museum's archaeological wonders.\n\nAfter discovering local history, ride up slightly to the charming Hermitage of San Rafael, soaking in the serene views from the higher ground before descending.\n\nGlide down to the Victoria Theater for a cultural pause, finally ending your cycling adventure at the monument of the Virgin of the Pine surrounded by whispering pines."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:15",
+      "total_km": 2.58,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallenbad",
+            "hu": "Fedett uszoda",
+            "ro": "Piscina acoperită",
+            "en": "Indoor Pool"
+          },
+          "coords": [
+            -1.695672,
+            38.504884
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Bad oder bewundern Sie die moderne Sportarchitektur; bringen Sie eine Badekappe mit, wenn Sie schwimmen.",
+            "hu": "Kezdje a reggelt egy frissítő úszással, vagy csak értékelje a modern sportépítészetet, és mindenképpen hozzon úszósapkát, ha be szeretne ugrani a vízbe.",
+            "ro": "Începeți dimineața cu o înot înviorător sau apreciați arhitectura sportivă modernă și asigurați-vă că aduceți o cască de înot dacă doriți să intrați.",
+            "en": "Start your morning with a refreshing swim or simply appreciate the modern sports architecture, just make sure to bring a swimming cap if you plan to dive in."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuz der Gefallenen",
+            "hu": "Az Elesettek Keresztje",
+            "ro": "Crucea Celor Căzuți",
+            "en": "Cross of the Fallen"
+          },
+          "coords": [
+            -1.700881,
+            38.507984
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses feierliche historische Kreuz für die Gefallenen und lesen Sie die umgebenden Informationstafeln, um den Kontext besser zu verstehen.",
+            "hu": "Tekintse meg ezt az elesetteknek szentelt ünnepélyes történelmi keresztet, és szánjon egy percet a környező kontextust bemutató panelek elolvasására is.",
+            "ro": "Observați această cruce istorică solemnă dedicată celor căzuți și faceți-vă timp să citiți panourile cu context istoric pentru o înțelegere mai profundă.",
+            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Eselsdenkmal",
+            "hu": "Szamár-emlékmű",
+            "ro": "Monumentul Măgarului",
+            "en": "Donkey Monument"
+          },
+          "coords": [
+            -1.70731,
+            38.510791
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
+            "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
+            "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
+            "hu": "Rózsafüzér Királynője Szentély",
+            "ro": "Sanctuarul Maicii Domnului a Rozariului",
+            "en": "Sanctuary of Our Lady of the Rosary"
+          },
+          "coords": [
+            -1.704299,
+            38.511768
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
+            "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
+            "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Karwoche",
+            "hu": "Nagyhét Múzeuma",
+            "ro": "Muzeul Săptămânii Mari",
+            "en": "Holy Week Museum"
+          },
+          "coords": [
+            -1.702891,
+            38.511718
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
+            "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
+            "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San Rafael",
+            "hu": "San Rafael Remetelak",
+            "ro": "Schitul San Rafael",
+            "en": "Hermitage of San Rafael"
+          },
+          "coords": [
+            -1.702687,
+            38.513573
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
+            "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            -1.700629,
+            38.513438
+          ],
+          "category": "museum",
+          "arrive_at": "15:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
+            "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
+            "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Theater",
+            "hu": "Victoria Színház",
+            "ro": "Teatrul Victoria",
+            "en": "Victoria Theater"
+          },
+          "coords": [
+            -1.696754,
+            38.512118
+          ],
+          "category": "cultural",
+          "arrive_at": "17:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
+            "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
+            "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Jungfrau der Kiefer",
+            "hu": "Fenyőfa Szűzanya Emlékmű",
+            "ro": "Monumentul Fecioarei Pinului",
+            "en": "Monument to the Virgin of the Pine"
+          },
+          "coords": [
+            -1.69389,
+            38.512501
+          ],
+          "category": "historical",
+          "arrive_at": "18:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
+            "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
+            "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Hallenbad, um einen Blick auf das lokale Leben zu werfen, und parken Sie dann bequem in der Nähe des historischen Kreuzes der Gefallenen.\n\nNutzen Sie Ihr Auto, um effizient zwischen dem großen Heiligtum und dem unumgänglichen Museum der Karwoche zu wechseln und der Mittagshitze zu entfliehen.\n\nBesuchen Sie die friedliche Einsiedelei von San Rafael und das umfassende Städtische Museum, und fahren Sie nahtlos zwischen diesen kulturellen Highlights hin und her.\n\nParken Sie am Victoria Theater, um die Architektur zu bewundern, und fahren Sie schließlich für einen ruhigen Sonnenuntergang zum Denkmal der Jungfrau der Kiefer.",
+        "hu": "Vezessen a Fedett uszodához, hogy belelásson a helyiek életébe, majd parkoljon le kényelmesen a történelmi Elesettek Keresztje és a Szamár-emlékmű közelében.\n\nHasználja autóját, hogy hatékonyan ugráljon a nagyszerű Szentély és a kihagyhatatlan Nagyhét Múzeuma között, elkerülve a déli hőséget.\n\nLátogasson el a békés San Rafael Remetelakhoz és az átfogó Városi Múzeumhoz, zökkenőmentesen autózva a város ezen kulturális csúcspontjai között.\n\nParkoljon le a Victoria Színház közelében, hogy megcsodálja az építészetet, majd tegye meg az utolsó utat a Fenyőfa Szűzanyához a naplemente nyugalmában.",
+        "ro": "Conduceți spre Piscina acoperită pentru a vedea viața locală, apoi parcați cu ușurință lângă istorica Cruce a Celor Căzuți și Monumentul Măgarului.\n\nFolosiți mașina pentru a vă deplasa eficient între grandiosul Sanctuar și inegalabilul Muzeu al Săptămânii Mari, evitând căldura amiezii.\n\nVizitați pașnicul Schit San Rafael și complexul Muzeu Municipal, conducând fără probleme între aceste puncte de atracție culturală esențiale.\n\nParcați lângă Teatrul Victoria pentru a-i admira arhitectura, apoi faceți ultima plimbare spre monumentul Fecioarei Pinului pentru un apus liniștit.",
+        "en": "Drive to the Indoor Pool to catch a glimpse of local life, then easily park near the historical Cross of the Fallen and the Donkey Monument.\n\nUse your car to hop efficiently between the grand Sanctuary and the unmissable Holy Week Museum, avoiding the midday heat in air-conditioned comfort.\n\nVisit the peaceful Hermitage of San Rafael and the comprehensive Municipal Museum, seamlessly driving between these essential cultural highlights of the city.\n\nPark near the Victoria Theater to admire its architecture, then make your final drive out to the monument of the Virgin of the Pine for a tranquil sunset finish."
+      }
+    }
+  }
+}

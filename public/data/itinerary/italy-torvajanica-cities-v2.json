@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-torvajanica-cities-v2",
+  "anchor": {
+    "name": "Torvajanica",
+    "coords": [
+      12.4632,
+      41.62072
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 2.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "arenile pescatori",
+            "hu": "arenile pescatori",
+            "ro": "arenile pescatori",
+            "en": "arenile pescatori"
+          },
+          "coords": [
+            12.460231,
+            41.621689
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weichen Sand dieses traditionellen Fischerstrandes, um das lokale maritime Leben zu spüren, am besten mit einem Kaffee am Morgen.",
+            "hu": "Sétáljon végig e hagyományos halászstrand puha homokján, hogy megtapasztalja a helyi tengeri életet, amit leginkább egy reggeli kávéval érdemes élvezni.",
+            "ro": "Plimbați-vă pe nisipul fin al acestei plaje tradiționale de pescari pentru a simți viața maritimă, cel mai bine savurată alături de o cafea matinală.",
+            "en": "Stroll along the soft sands of this traditional fishermen's beach to experience local maritime life, best enjoyed with a morning coffee from a nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "La Perla Nera",
+            "hu": "La Perla Nera",
+            "ro": "La Perla Nera",
+            "en": "La Perla Nera"
+          },
+          "coords": [
+            12.459224,
+            41.622442
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem einladenden Strandbad, wo die unberührte Küste perfekte Badebedingungen bietet, also denken Sie an Ihre Sonnencreme.",
+            "hu": "Pihenjen ezen a barátságos strandon, ahol az érintetlen part kiváló fürdőzési feltételeket kínál, ezért ne felejtse el magával hozni a kedvenc naptejét.",
+            "ro": "Relaxați-vă la această plajă primitoare unde coasta oferă condiții perfecte pentru înot, așa că nu uitați să vă aduceți crema de protecție solară preferată.",
+            "en": "Relax at this welcoming beach facility where the pristine waterfront offers perfect swimming conditions, so remember to bring your favorite sunblock."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiano",
+            "hu": "Schiano",
+            "ro": "Schiano",
+            "en": "Schiano"
+          },
+          "coords": [
+            12.458132,
+            41.623657
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Pause an diesem gepflegten Erholungsort mit ruhigen Wellen, ideal, um sich für den Nachmittag eine bequeme Sonnenliege zu mieten.",
+            "hu": "Élvezze a békés tengerparti pihenést ezen a nyugodt hullámairól ismert helyen, ahol érdemes egy kényelmes napozóágyat bérelni a délutáni kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de o pauză liniștită la acest loc de recreere cunoscut pentru valurile calme, fiind ideal să închiriați un șezlong confortabil pentru după-amiază.",
+            "en": "Enjoy a peaceful seaside break at this well-kept recreational spot known for its calm waves, making it ideal to rent a comfortable sunbed for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Miami Beach",
+            "hu": "Miami Beach",
+            "ro": "Miami Beach",
+            "en": "Miami Beach"
+          },
+          "coords": [
+            12.456976,
+            41.624454
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spüren Sie die lebhafte Küstenenergie in diesem beliebten Badeort mit hervorragenden Annehmlichkeiten und probieren Sie das lokale Eis am Eingang.",
+            "hu": "Érezze a vibráló tengerparti energiát ezen a kiváló felszereltségű népszerű fürdőhelyen, és kóstolja meg a bejáratnál kapható frissítő helyi fagylaltot.",
+            "ro": "Simțiți energia vibrantă a coastei la acest stabiliment balnear popular cu facilități excelente și gustați o înghețată locală răcoritoare de la intrare.",
+            "en": "Catch the vibrant coastal energy at this popular bathing establishment offering excellent amenities, and try the refreshing local gelato sold at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana di Torvaianica",
+            "hu": "Villa romana di Torvaianica",
+            "ro": "Villa romana di Torvaianica",
+            "en": "Villa romana di Torvaianica"
+          },
+          "coords": [
+            12.473759,
+            41.616637
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden antiken Ruinen dieser römischen Villa, die die reiche Geschichte zeigen, aber tragen Sie feste Schuhe für das staubige Gelände.",
+            "hu": "Fedezze fel e római villa lenyűgöző ősi romjait, amelyek a régió gazdag történelmét mutatják be, de viseljen zárt cipőt a poros területen való sétához.",
+            "ro": "Descoperiți ruinele antice fascinante ale acestei vile romane care ilustrează istoria bogată, dar purtați încălțăminte comodă pentru terenul prăfuit.",
+            "en": "Discover the fascinating ancient ruins of this Roman villa that showcase the region's rich history, but wear sturdy shoes for walking around the dusty site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang am arenile pescatori und geht nahtlos ins Entspannen bei La Perla Nera und Schiano über. Mittags erwartet Sie am Miami Beach noch mehr Strandglück unter der warmen Sonne. Am Nachmittag verlassen Sie die Küste, um in die Geschichte der faszinierenden Villa romana di Torvaianica einzutauchen. Der Abend gehört ganz den antiken Erinnerungen und dem maritimen Charme.",
+        "hu": "A reggel egy pihentető sétával indul az arenile pescatori mentén, majd a La Perla Nera és a Schiano partjainál folytatódik a lazítás. A délben még több tengerparti élmény várja a Miami Beach pezsgő homokján. Délután maga mögött hagyja a partvonalat, hogy felfedezze a lenyűgöző Villa romana di Torvaianica történelmi romjait. Az este folyamán felidézheti az ókori emlékeket és a parti báj varázsát.",
+        "ro": "Dimineața începe cu o plimbare relaxantă de-a lungul arenile pescatori, continuând cu momente de odihnă la La Perla Nera și Schiano. La prânz, soarele cald vă așteaptă pe nisipurile pline de viață de la Miami Beach. După-amiaza, lăsați coasta în urmă pentru a păși în istoria fascinantă a Vilei romane de la Torvaianica. Seara este momentul perfect pentru a reflecta asupra farmecului antic și maritim.",
+        "en": "Morning starts with a relaxing stroll along the arenile pescatori, moving smoothly into coastal lounging at La Perla Nera and Schiano. Midday brings more beachside bliss as you reach the lively sands of Miami Beach under the warm sun. In the afternoon, you leave the shoreline behind to step into history at the fascinating Villa romana di Torvaianica. The evening is yours to reflect on ancient times and seaside charms."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa romana di Torvaianica",
+            "hu": "Villa romana di Torvaianica",
+            "ro": "Villa romana di Torvaianica",
+            "en": "Villa romana di Torvaianica"
+          },
+          "coords": [
+            12.473759,
+            41.616637
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden antiken Ruinen dieser römischen Villa, die die reiche Geschichte zeigen, aber tragen Sie feste Schuhe für das staubige Gelände.",
+            "hu": "Fedezze fel e római villa lenyűgöző ősi romjait, amelyek a régió gazdag történelmét mutatják be, de viseljen zárt cipőt a poros területen való sétához.",
+            "ro": "Descoperiți ruinele antice fascinante ale acestei vile romane care ilustrează istoria bogată, dar purtați încălțăminte comodă pentru terenul prăfuit.",
+            "en": "Discover the fascinating ancient ruins of this Roman villa that showcase the region's rich history, but wear sturdy shoes for walking around the dusty site."
+          }
+        },
+        {
+          "name": {
+            "de": "arenile pescatori",
+            "hu": "arenile pescatori",
+            "ro": "arenile pescatori",
+            "en": "arenile pescatori"
+          },
+          "coords": [
+            12.460231,
+            41.621689
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weichen Sand dieses traditionellen Fischerstrandes, um das lokale maritime Leben zu spüren, am besten mit einem Kaffee am Morgen.",
+            "hu": "Sétáljon végig e hagyományos halászstrand puha homokján, hogy megtapasztalja a helyi tengeri életet, amit leginkább egy reggeli kávéval érdemes élvezni.",
+            "ro": "Plimbați-vă pe nisipul fin al acestei plaje tradiționale de pescari pentru a simți viața maritimă, cel mai bine savurată alături de o cafea matinală.",
+            "en": "Stroll along the soft sands of this traditional fishermen's beach to experience local maritime life, best enjoyed with a morning coffee from a nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Era dei Dinosauri",
+            "hu": "L'Era dei Dinosauri",
+            "ro": "L'Era dei Dinosauri",
+            "en": "L'Era dei Dinosauri"
+          },
+          "coords": [
+            12.459252,
+            41.63339
+          ],
+          "category": "landmark",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden Dinosaurierpark mit lebensgroßen Modellen, der ein absolutes Muss ist, wenn Sie mit Kindern reisen.",
+            "hu": "Lépjen vissza az időben ebben a lenyűgöző dinoszauruszparkban, amely életnagyságú modellekkel várja, és kötelező program, ha gyerekekkel utazik.",
+            "ro": "Întoarceți-vă în timp la acest parc de dinozauri cu modele preistorice în mărime naturală, o atracție obligatorie dacă sunteți în vacanță cu copiii.",
+            "en": "Step back in time at this engaging dinosaur park featuring life-sized prehistoric models, which is an absolute must-visit if you are traveling with children."
+          }
+        },
+        {
+          "name": {
+            "de": "La Laguna dei Pirati",
+            "hu": "La Laguna dei Pirati",
+            "ro": "La Laguna dei Pirati",
+            "en": "La Laguna dei Pirati"
+          },
+          "coords": [
+            12.457142,
+            41.633338
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihrer Fantasie freien Lauf in diesem Themenbereich mit Wasserbahnen, weshalb es ratsam ist, trockene Wechselkleidung für die Familie mitzubringen.",
+            "hu": "Engedje szabadjára fantáziáját ezen a kalóz tematikájú vizes játszótéren, ezért bölcs dolog egy váltás száraz ruhát is hozni a család minden tagjának.",
+            "ro": "Lăsați-vă imaginația să zboare la această zonă de distracții cu pirați și atracții acvatice, deci este recomandat să aduceți haine de schimb uscate.",
+            "en": "Let your imagination run wild at this pirate-themed amusement area filled with water rides, making it wise to bring a change of dry clothes for the family."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadio dei Delfini",
+            "hu": "Stadio dei Delfini",
+            "ro": "Stadio dei Delfini",
+            "en": "Stadio dei Delfini"
+          },
+          "coords": [
+            12.454858,
+            41.633929
+          ],
+          "category": "landmark",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die intelligenten Meerestiere bei den Shows in diesem spektakulären Delfinstadion, also prüfen Sie den Zeitplan früh für gute Plätze.",
+            "hu": "Csodálja meg az intelligens tengeri élőlényeket és a show-kat ebben a delfinstadionban, ezért a jó helyekért érdemes korán ellenőrizni a napi menetrendet.",
+            "ro": "Admirați animalele marine inteligente și spectacolele acvatice la acest stadion de delfini spectaculos, așa că verificați programul devreme pentru locuri bune.",
+            "en": "Marvel at the intelligent marine life and engaging aquatic shows at this spectacular dolphin stadium, so check the daily schedule early to secure good seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Malibu",
+            "hu": "Malibu",
+            "ro": "Malibu",
+            "en": "Malibu"
+          },
+          "coords": [
+            12.455824,
+            41.634554
+          ],
+          "category": "landmark",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem stilvollen Wahrzeichen mit fantastischem Sonnenuntergangsblick, wo eine vorherige Tischreservierung sehr zu empfehlen ist.",
+            "hu": "Zárja a napot ezen az elegáns vízparti helyen, amely fantasztikus naplementés kilátást kínál a tengerre, és ahol erősen ajánlott előre asztalt foglalni.",
+            "ro": "Încheiați ziua la acest reper elegant de pe plajă oferind vederi fantastice la apus, unde rezervarea unei mese în avans este extrem de recomandată.",
+            "en": "End your day at this stylish beachfront landmark offering fantastic sunset views over the sea, where booking a seaside table in advance is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt an der antiken Villa romana di Torvaianica, gefolgt von einer frischen Fahrt zum ruhigen arenile pescatori. Mittags erreichen Sie die L'Era dei Dinosauri für einen spannenden Ausflug in die Urzeit. Der Nachmittag ist voller Aufregung in der Laguna dei Pirati und im Stadio dei Delfini. Schließlich können Sie den Abend mit einem malerischen Blick auf das Malibu entspannt ausklingen lassen.",
+        "hu": "Kerékpáros kalandja a Villa romana di Torvaianica felfedezésével kezdődik, majd egy frissítő tekerés következik az arenile pescatorihoz. Dél körül eléri a L'Era dei Dinosauri parkot, amely izgalmas visszatérést kínál az őskorba. A délutánt a La Laguna dei Pirati és a Stadio dei Delfini lenyűgöző show-műsorai töltik ki. Végül a Malibu festői esti látképében gyönyörködve pihenheti ki a nap fáradalmait.",
+        "ro": "Aventura pe bicicletă începe explorând Villa romana di Torvaianica, urmată de o plimbare revigorantă spre arenile pescatori. La prânz veți ajunge la incredibila L'Era dei Dinosauri, făcând un pas distractiv în preistorie. După-amiaza este plină de emoție la La Laguna dei Pirati și la spectacolele de la Stadio dei Delfini. În cele din urmă, vă puteți relaxa admirând priveliștea pitorească de seară de la Malibu.",
+        "en": "Your cycling adventure begins exploring the ancient Villa romana di Torvaianica, followed by a breezy ride to the calming arenile pescatori. By midday, you'll reach the incredible L'Era dei Dinosauri, taking a fun step back into the prehistoric age. The afternoon is filled with excitement at La Laguna dei Pirati and the Stadio dei Delfini shows. Finally, you can unwind with a scenic evening view at Malibu."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:25",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "antico casale",
+            "hu": "antico casale",
+            "ro": "antico casale",
+            "en": "antico casale"
+          },
+          "coords": [
+            12.480469,
+            41.634676
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Architektur dieses alten Bauernhauses, das das traditionelle Landleben zeigt, und bringen Sie Ihre Kamera für charmante Details mit.",
+            "hu": "Csodálja meg ezen ősi parasztház rusztikus építészetét, amely a hagyományos vidéki életet mutatja be, és hozza magával fényképezőgépét a fotózáshoz.",
+            "ro": "Admirați arhitectura rustică a acestei vechi ferme care evidențiază viața rurală tradițională și aduceți aparatul foto pentru a surprinde detaliile sale de epocă.",
+            "en": "Admire the rustic architecture of this ancient farmhouse that highlights traditional rural life, and bring your camera to capture its charming vintage details."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Era dei Dinosauri",
+            "hu": "L'Era dei Dinosauri",
+            "ro": "L'Era dei Dinosauri",
+            "en": "L'Era dei Dinosauri"
+          },
+          "coords": [
+            12.459252,
+            41.63339
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden Dinosaurierpark mit lebensgroßen Modellen, der ein absolutes Muss ist, wenn Sie mit Kindern reisen.",
+            "hu": "Lépjen vissza az időben ebben a lenyűgöző dinoszauruszparkban, amely életnagyságú modellekkel várja, és kötelező program, ha gyerekekkel utazik.",
+            "ro": "Întoarceți-vă în timp la acest parc de dinozauri cu modele preistorice în mărime naturală, o atracție obligatorie dacă sunteți în vacanță cu copiii.",
+            "en": "Step back in time at this engaging dinosaur park featuring life-sized prehistoric models, which is an absolute must-visit if you are traveling with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadio dei Delfini",
+            "hu": "Stadio dei Delfini",
+            "ro": "Stadio dei Delfini",
+            "en": "Stadio dei Delfini"
+          },
+          "coords": [
+            12.454858,
+            41.633929
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die intelligenten Meerestiere bei den Shows in diesem spektakulären Delfinstadion, also prüfen Sie den Zeitplan früh für gute Plätze.",
+            "hu": "Csodálja meg az intelligens tengeri élőlényeket és a show-kat ebben a delfinstadionban, ezért a jó helyekért érdemes korán ellenőrizni a napi menetrendet.",
+            "ro": "Admirați animalele marine inteligente și spectacolele acvatice la acest stadion de delfini spectaculos, așa că verificați programul devreme pentru locuri bune.",
+            "en": "Marvel at the intelligent marine life and engaging aquatic shows at this spectacular dolphin stadium, so check the daily schedule early to secure good seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Cancun",
+            "hu": "Cancun",
+            "ro": "Cancun",
+            "en": "Cancun"
+          },
+          "coords": [
+            12.456975,
+            41.635156
+          ],
+          "category": "landmark",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser an tropische Resorts angelehnten Attraktion, perfekt, um sich zwischendurch mit einem bunten Cocktail zu erfrischen.",
+            "hu": "Szívja magába az élénk atmoszférát ezen a trópusi üdülőhelyeket idéző látványosságon, amely tökéletes egy színes, frissítő koktél elfogyasztására.",
+            "ro": "Bucurați-vă de atmosfera plină de viață la această atracție inspirată de stațiunile tropicale, perfectă pentru a savura un cocktail colorat răcoritor.",
+            "en": "Soak up the lively atmosphere at this vibrant attraction modeled after tropical resorts, perfect for grabbing a colorful cocktail to refresh yourself midway."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Mar",
+            "hu": "Playa del Mar",
+            "ro": "Playa del Mar",
+            "en": "Playa del Mar"
+          },
+          "coords": [
+            12.447739,
+            41.632616
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weiten Küstenabschnitt mit feinem Sand, der viel offenen Platz für ein spontanes Picknick am Strand am Nachmittag bietet.",
+            "hu": "Pihenjen a lágy hullámok mellett ezen a finom homokjáról ismert, kiterjedt partszakaszon, amely rengeteg nyitott teret kínál egy délutáni tengerparti piknikhez.",
+            "ro": "Relaxați-vă pe valurile blânde la această porțiune întinsă de coastă cunoscută pentru nisipul fin, oferind spațiu deschis pentru un picnic pe plajă.",
+            "en": "Unwind by the gentle waves at this expansive stretch of shoreline known for fine sand, offering plenty of open space for a spontaneous afternoon beach picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Liboclà",
+            "hu": "Liboclà",
+            "ro": "Liboclà",
+            "en": "Liboclà"
+          },
+          "coords": [
+            12.445156,
+            41.634079
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine herrliche Stunde in diesem gemütlichen Erholungsgebiet mit herrlichem Blick auf das Tyrrhenische Meer, wo Sie lokale Fischer sehen können.",
+            "hu": "Töltsön el egy kellemes órát ezen a hangulatos rekreációs területen, ahonnan gyönyörű kilátás nyílik a tengerre, és megfigyelheti a helyi halászokat.",
+            "ro": "Petreceți o oră minunată în această zonă de recreere confortabilă, cu vederi frumoase la Marea Tireniană, unde puteți urmări pescarii locali la lucru.",
+            "en": "Spend a delightful hour at this cozy recreational area offering beautiful views of the Tyrrhenian Sea, where you can watch local fishermen tending their nets."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana di Torvaianica",
+            "hu": "Villa romana di Torvaianica",
+            "ro": "Villa romana di Torvaianica",
+            "en": "Villa romana di Torvaianica"
+          },
+          "coords": [
+            12.473759,
+            41.616637
+          ],
+          "category": "historical",
+          "arrive_at": "17:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden antiken Ruinen dieser römischen Villa, die die reiche Geschichte zeigen, aber tragen Sie feste Schuhe für das staubige Gelände.",
+            "hu": "Fedezze fel e római villa lenyűgöző ősi romjait, amelyek a régió gazdag történelmét mutatják be, de viseljen zárt cipőt a poros területen való sétához.",
+            "ro": "Descoperiți ruinele antice fascinante ale acestei vile romane care ilustrează istoria bogată, dar purtați încălțăminte comodă pentru terenul prăfuit.",
+            "en": "Discover the fascinating ancient ruins of this Roman villa that showcase the region's rich history, but wear sturdy shoes for walking around the dusty site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit dem rustikalen antico casale, bevor Sie in den Familienspaß von L'Era dei Dinosauri eintauchen. Die Mittagsspannung geht im Stadio dei Delfini und im Themenbereich Cancun weiter. Am Nachmittag cruisen Sie zur Playa del Mar und nach Liboclà für etwas Küstenentspannung. Beenden Sie den Tag versunken in den zeitlosen Ruinen der antiken römischen Villa di Torvaianica.",
+        "hu": "Kezdje autós útját a rusztikus antico casale megtekintésével, majd vesse bele magát a családi szórakozásba a L'Era dei Dinosauri parkban. A déli izgalmak a Stadio dei Delfini és a Cancun területén folytatódnak. Délután a Playa del Mar és a Liboclà felé veszi az irányt egy kis tengerparti pihenésre. A mozgalmas napot a Villa romana di Torvaianica időtlen romjai között elmerülve zárhatja le.",
+        "ro": "Începeți plimbarea admirând rusticul antico casale, înainte de a vă bucura de distracția de la L'Era dei Dinosauri. Emoția de la prânz continuă la Stadio dei Delfini și atracția Cancun. După-amiaza, conduceți spre Playa del Mar și Liboclà pentru o binemeritată relaxare pe litoral. Încheiați-vă ziua plină de evenimente cufundați în ruinele atemporale ale Vilei romane de la Torvaianica.",
+        "en": "Start driving by admiring the rustic antico casale before plunging into family fun at L'Era dei Dinosauri. The midday excitement continues at the Stadio dei Delfini and the vibrant Cancun themed area. In the afternoon, cruise over to Playa del Mar and Liboclà for some much-needed shoreline relaxation. Finish your eventful daytrip immersed in the timeless ruins of the Villa romana di Torvaianica."
+      }
+    }
+  }
+}

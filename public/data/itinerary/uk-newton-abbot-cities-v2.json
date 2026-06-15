@@ -1,0 +1,405 @@
+{
+  "city_id": "uk-newton-abbot-cities-v2",
+  "anchor": {
+    "name": "Newton Abbot",
+    "coords": [
+      -3.6087,
+      50.5403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Leonard's Tower",
+            "hu": "St Leonard's Tower",
+            "ro": "Turnul St Leonard",
+            "en": "St Leonard's Tower"
+          },
+          "coords": [
+            -3.612623,
+            50.529387
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur des St Leonard's Tower, dem einzigen Überrest einer alten Kapelle, und fotografieren Sie ihn am besten von der Straßenecke.",
+            "hu": "Csodálja meg a St Leonard's Tower gótikus építészetét, amely egy ősi kápolna egyetlen maradványa, és készítsen nagyszerű fotót a szomszédos utcasarokról.",
+            "ro": "Admirați arhitectura medievală a Turnului St Leonard, singura rămășiță a unei capele străvechi, și faceți o fotografie perfectă chiar de la colțul străzii adiacente.",
+            "en": "Admire the striking medieval architecture of St Leonard's Tower, the sole remnant of an ancient chapel, and snap a perfect photo from the adjoining street corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Passmore Edwards Public Library",
+            "hu": "Passmore Edwards Public Library",
+            "ro": "Passmore Edwards Public Library",
+            "en": "Passmore Edwards Public Library"
+          },
+          "coords": [
+            -3.613083,
+            50.530472
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante viktorianische Gebäude zum Gedenken an John Passmore Edwards, wo Sie im gut beleuchteten Lesesaal in Ruhe lokale Archive durchstöbern können.",
+            "hu": "Fedezze fel ezt az elegáns viktoriánus épületet, amelyet John Passmore Edwards emlékére emeltek, és böngésszen csendesen a helyi archívumokban a világos olvasóteremben.",
+            "ro": "Explorați această clădire victoriană elegantă ridicată în memoria lui John Passmore Edwards, unde puteți răsfoi în liniște arhivele locale în sala de lectură luminoasă.",
+            "en": "Explore this elegant Victorian building built to memorialize John Passmore Edwards, where you can quietly browse local archives in the beautifully lit reading room."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexandra Theatre",
+            "hu": "Alexandra Theatre",
+            "ro": "Teatrul Alexandra",
+            "en": "Alexandra Theatre"
+          },
+          "coords": [
+            -3.611666,
+            50.53092
+          ],
+          "category": "cultural",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre im historischen Alexandra Theatre, einer ehemaligen Getreidebörse, und prüfen Sie die Tageskasse auf Tickets für Abendvorstellungen.",
+            "hu": "Szívja magába a kulturális atmoszférát a történelmi Alexandra Színházban, amely egykor gabonatőzsde volt, és nézze meg a napi jegypénztár tábláját esti előadásokért.",
+            "ro": "Bucurați-vă de atmosfera culturală vibrantă de la istoricul Teatru Alexandra, inițial o bursă de cereale, și verificați panoul casei de bilete pentru spectacolele de seară.",
+            "en": "Soak up the vibrant cultural atmosphere at the historic Alexandra Theatre, originally a corn exchange, and check the daily box office board for evening performance tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Newton Abbot Town and GWR Museum",
+            "hu": "Newton Abbot Town and GWR Museum",
+            "ro": "Newton Abbot Town and GWR Museum",
+            "en": "Newton Abbot Town and GWR Museum"
+          },
+          "coords": [
+            -3.614282,
+            50.528733
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den enormen Einfluss der Great Western Railway auf diese historische Marktstadt, indem Sie die interaktiven Eisenbahnausstellungen im ersten Stock besuchen.",
+            "hu": "Ismerje meg a Great Western Railway mélyreható hatását erre a történelmi mezővárosra az első emeleten található interaktív és látványos vasúti kiállítások megtekintésével.",
+            "ro": "Descoperiți impactul profund al căilor ferate Great Western asupra acestui oraș-târg istoric, vizionând exponatele feroviare interactive situate la primul etaj proaspăt renovat.",
+            "en": "Discover the profound impact of the Great Western Railway on this historic market town by viewing the interactive rail exhibits located on the newly renovated first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Courtenay Park",
+            "hu": "Courtenay Park",
+            "ro": "Courtenay Park",
+            "en": "Courtenay Park"
+          },
+          "coords": [
+            -3.601088,
+            50.528924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen alten Bäumen und einem reizvollen Garten für die Sinne im Courtenay Park, einer perfekten grünen Oase gegenüber dem Bahnhof für ein ruhiges Picknick.",
+            "hu": "Pihenjen a Courtenay Park öreg fái és hangulatos érzékszervekre ható kertje között, amely tökéletes zöld oázis az állomással szemben egy csendes délutáni piknikhez.",
+            "ro": "Relaxați-vă printre copacii maturi și o fermecătoare grădină senzorială din Courtenay Park, o oază verde perfectă vizavi de gară, unde vă puteți bucura de un picnic liniștit.",
+            "en": "Relax among mature specimen trees and a charming sensory garden in Courtenay Park, a perfect green oasis right across from the station where you can enjoy a quiet picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Fußgängerreise im Herzen von Newton Abbot und begrüßen den Morgen am legendären St Leonard's Tower. Dieser mittelalterliche Überlebende gibt den historischen Ton des Tages an. Nur einen kurzen Spaziergang entfernt bietet die elegante Public Library einen Moment viktorianischer architektonischer Pracht.\n\nDer Mittag rückt näher, während wir am kulturell lebendigen Alexandra Theatre vorbeischlendern. Es war ursprünglich eine Getreidebörse und repräsentiert die Entwicklung der Stadt. Wir erreichen bald das Stadt- und GWR-Museum, um in das faszinierende Eisenbahnerbe der Region einzutauchen.\n\nWährend der Nachmittag langsam hereinbricht, lassen wir das geschäftige zentrale Museum hinter uns und machen uns auf den Weg zu grüneren Gefilden. Die reiche Vergangenheit der Stadt weicht ruhigen Landschaften. Courtenay Park liegt gegenüber dem Bahnhof und bietet einen willkommenen Rückzugsort.\n\nDer Abend hüllt unsere Reiseroute in die ruhige Umarmung des Courtenay Park. Nach einem Tag voller bürgerlicher Geschichte und Eisenbahnsagen bietet das Entspannen zwischen diesen alten Bäumen den perfekten, ruhigen Abschluss unserer Erkundung der charmanten Stadt in Devon.",
+        "hu": "Gyalogos utunkat Newton Abbot szívében kezdjük, az ikonikus St Leonard's Towernél köszöntve a reggelt. Ez a középkori túlélő gyönyörűen megadja a nap történelmi alaphangját. Csak egy rövid sétára innen az elegáns Passmore Edwards Közkönyvtár kínál egy pillanatnyi viktoriánus építészeti pompát.\n\nA dél közeledtével elsétálunk a kulturálisan pezsgő Alexandra Színház mellett. Eredetileg fontos gabonatőzsdeként a város fejlődését jelképezi. Hamarosan elérjük a Városi és GWR Múzeumot, hogy elmerüljünk a régió lenyűgöző vasúti örökségében.\n\nAhogy a délután lassan beköszönt, magunk mögött hagyjuk a nyüzsgő központi múzeumot, és zöldebb tájak felé vesszük az irányt. A város gazdag múltja fokozatosan átadja helyét a békés tájaknak. A vasútállomással szemben elterülő Courtenay Park hívogató menedéket kínál.\n\nAz este a Courtenay Park nyugodt ölelésében zárja útitervünket. A polgári történelemben és vasúti mondákban gazdag nap után az öreg fák közötti pihenés tökéletes és csendes lezárást nyújt a bájos devoni város felfedezésének.",
+        "ro": "Ne începem călătoria pietonală în inima orașului Newton Abbot, salutând dimineața la iconicul Turn St Leonard. Această supraviețuitoare medievală dă perfect tonul istoric al zilei. La o scurtă plimbare, eleganta Bibliotecă Publică Passmore Edwards oferă un moment de grandoare arhitecturală victoriană.\n\nMiezul zilei se apropie în timp ce ne plimbăm pe lângă Teatrul Alexandra, un centru cultural vibrant. Inițial o bursă de cereale, reprezintă evoluția orașului. Ajungem rapid la Muzeul Orașului și al GWR, scufundându-ne adânc în fascinanta moștenire feroviară a regiunii.\n\nPe măsură ce după-amiaza se instalează ușor, lăsăm în urmă muzeul central plin de viață și ne îndreptăm spre pășuni mai verzi. Trecutul bogat al orașului lasă locul peisajelor pașnice. Courtenay Park apare chiar vizavi de gară, oferind o evadare primitoare.\n\nSeara învăluie itinerariul nostru în îmbrățișarea senină a Courtenay Park. După o zi bogată în istorie civică și legende feroviare, relaxarea printre acești copaci bătrâni oferă concluzia perfectă și liniștită pentru explorarea fermecătorului nostru oraș din Devon.",
+        "en": "We start our pedestrian journey in the heart of Newton Abbot, greeting the morning at the iconic St Leonard's Tower. This lone medieval survivor beautifully sets the historical tone for the day. Just a short walk away, the elegant Passmore Edwards Public Library offers a moment of Victorian architectural grandeur.\n\nMidday approaches as we wander past the culturally vibrant Alexandra Theatre. Originally an important corn exchange, it represents the town's evolution. We quickly reach the Newton Abbot Town and GWR Museum, diving deep into the region's fascinating railway legacy.\n\nAs the afternoon gently sets in, we leave the bustling central museum behind and make our way toward greener pastures. The town’s rich past gradually gives way to peaceful landscapes. Courtenay Park emerges just opposite the train station, offering a welcoming escape.\n\nEvening wraps around our itinerary in the serene embrace of Courtenay Park. After a day rich in civic history and railway lore, relaxing among these mature trees provides the perfect, quiet conclusion to our charming Devon town exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jetty Marsh Local Nature Reserve",
+            "hu": "Jetty Marsh Local Nature Reserve",
+            "ro": "Rezervația Naturală Jetty Marsh",
+            "en": "Jetty Marsh Local Nature Reserve"
+          },
+          "coords": [
+            -3.609525,
+            50.539858
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die ruhigen Feuchtgebiete von Jetty Marsh mit ihrer vielfältigen Vogelwelt, und bringen Sie ein Fernglas mit, um Eisvögel an den Uferwegen zu beobachten.",
+            "hu": "Sétáljon a Jetty Marsh madárvilágban gazdag békés vizes élőhelyein, és feltétlenül hozzon magával távcsövet, hogy megfigyelhesse a jégmadarakat a nyugodt vízparti ösvényeken.",
+            "ro": "Plimbați-vă prin zonele umede liniștite pline de păsări la Jetty Marsh, aducând binoclul pentru a observa pescărașii albaștri de-a lungul traseelor senine pe malul apei.",
+            "en": "Wander through tranquil wetlands teeming with diverse local birdlife at Jetty Marsh, bringing binoculars to spot kingfishers along the serene waterside trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuckers Maltings",
+            "hu": "Tuckers Maltings",
+            "ro": "Tuckers Maltings",
+            "en": "Tuckers Maltings"
+          },
+          "coords": [
+            -3.599252,
+            50.532088
+          ],
+          "category": "museum",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Braugeschichte in Tuckers Maltings, einer der letzten funktionierenden Mälzereien Englands, und nehmen Sie an einer Führung mit Bierverkostung teil.",
+            "hu": "Tapasztalja meg a hagyományos sörfőzés történetét a Tuckers Maltingsban, Anglia egyik utolsó működő malátázójában, és csatlakozzon egy vezetett túrához kóstolóval.",
+            "ro": "Experimentați istoria tradițională a berăritului în Tuckers Maltings, una dintre ultimele fabrici de malț funcționale din Anglia, și alăturați-vă unui tur ghidat cu degustare.",
+            "en": "Experience traditional brewing history inside Tuckers Maltings, one of England's last working malthouses, and join a guided tour to sample the freshly crafted local ales."
+          }
+        },
+        {
+          "name": {
+            "de": "St Leonard's Tower",
+            "hu": "St Leonard's Tower",
+            "ro": "Turnul St Leonard",
+            "en": "St Leonard's Tower"
+          },
+          "coords": [
+            -3.612623,
+            50.529387
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur des St Leonard's Tower, dem einzigen Überrest einer alten Kapelle, und fotografieren Sie ihn am besten von der Straßenecke.",
+            "hu": "Csodálja meg a St Leonard's Tower gótikus építészetét, amely egy ősi kápolna egyetlen maradványa, és készítsen nagyszerű fotót a szomszédos utcasarokról.",
+            "ro": "Admirați arhitectura medievală a Turnului St Leonard, singura rămășiță a unei capele străvechi, și faceți o fotografie perfectă chiar de la colțul străzii adiacente.",
+            "en": "Admire the striking medieval architecture of St Leonard's Tower, the sole remnant of an ancient chapel, and snap a perfect photo from the adjoining street corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Bradley Manor",
+            "hu": "Bradley Manor",
+            "ro": "Bradley Manor",
+            "en": "Bradley Manor"
+          },
+          "coords": [
+            -3.625936,
+            50.526189
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Bradley Manor, einem unberührten Kalkstein-Herrenhaus, ins Mittelalter ein und erkunden Sie die üppigen umliegenden Wälder über die markierten Wanderwege.",
+            "hu": "Lépjen vissza a középkorba a Bradley Manor érintetlen mészkő kúriájában, és mindenképpen fedezze fel a buja környező erdőket a jól kijelölt, festői sétautakon.",
+            "ro": "Pășiți înapoi în perioada medievală la Bradley Manor, un conac impecabil din piatră de var, și asigurați-vă că explorați pădurile luxuriante din jur pe traseele marcate.",
+            "en": "Step back into the medieval period at Bradley Manor, an unspoiled limestone manor house, and make sure to explore the lush surrounding woodlands via the marked walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Forde House",
+            "hu": "Forde House",
+            "ro": "Forde House",
+            "en": "Forde House"
+          },
+          "coords": [
+            -3.5957,
+            50.5273
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die jakobinische Architektur des Forde House, das einst königliche Gäste beherbergte, und tragen Sie bequeme Schuhe, um über die historischen Rasenflächen zu spazieren.",
+            "hu": "Csodálja meg a Forde House bonyolult jakabkori építészetét, amely egykor királyi vendégeket fogadott, és viseljen kényelmes cipőt a hatalmas történelmi pázsitok bejárásához.",
+            "ro": "Minunați-vă de arhitectura iacobină complexă a Forde House, care a găzduit odată regalitatea, și purtați încălțăminte confortabilă pentru a vă plimba pe peluzele sale istorice.",
+            "en": "Marvel at the intricate Jacobean architecture of Forde House, which once hosted royalty, and wear comfortable shoes to freely stroll across its expansive historic lawns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Radfahren beginnt im ruhigen Naturschutzgebiet Jetty Marsh, ein perfekter frischer Start zur Tierbeobachtung. Wir radeln dann sanft in Richtung Stadtzentrum und kommen bei Tuckers Maltings an, um das authentische industrielle Erbe der Brauereigeschichte Devons zu genießen.\n\nBis zum Mittag bringen uns unsere Räder in den historischen Kern, wo wir am St Leonard's Tower Halt machen. Dieser mittelalterliche Überrest steht stolz inmitten des städtischen Treibens und verbindet alte Zeiten mit modernem Handel.\n\nAm Nachmittag fahren wir hinaus zum großen Bradley Manor. Die mittelalterlichen Kalksteinmauern inmitten einer sanften grünen Waldlandschaft bieten eine unglaublich malerische Kulisse für unser weiteres Abenteuer auf zwei Rädern.\n\nWenn die abendlichen Schatten länger werden, erreichen wir das majestätische Forde House. Die jakobinische Fassade und die weitläufigen Rasenflächen belohnen unsere Radtour und bilden einen majestätischen und erholsamen Abschluss.",
+        "hu": "A kerékpározás a Jetty Marsh csendes vizes élőhelyén kezdődik, amely tökéletes friss kezdés a vadvilág megfigyeléséhez. Ezután simán tekerünk a városközpont felé, és megérkezünk a Tuckers Maltingshoz, hogy megkóstoljuk a devoni sörfőzés autentikus ipari örökségét.\n\nDélre a kerekeink a történelmi magba visznek minket, megállva a St Leonard's Towernél. Ez a középkori maradvány büszkén áll a városi forgatag közepette, összekötve az ősi időket a modern kereskedelemmel.\n\nA délután folyamán kifelé lovagolunk a nagyszerű Bradley Manorhoz. A dombos zöld erdőkben található középkori mészkőfalak hihetetlenül festői hátteret biztosítanak folytatódó kétkerekű kalandunkhoz.\n\nAhogy az esti árnyékok hosszabbra nyúlnak, megérkezünk a fenséges Forde House-hoz. A jakabkori homlokzat és a tágas pázsit megjutalmazza kerékpáros erőfeszítéseinket, fenséges és pihentető lezárást adva aktív túránknak.",
+        "ro": "Ciclismul începe la rezervația naturală liniștită Jetty Marsh, un început proaspăt perfect pentru a observa fauna sălbatică. Apoi pedalăm ușor spre centrul orașului, ajungând la Tuckers Maltings pentru a savura autentica moștenire industrială a berăritului din Devon.\n\nPână la prânz, roțile noastre ne aduc în centrul istoric, oprindu-ne la Turnul St Leonard. Această rămășiță medievală stă mândră în mijlocul fluxului urban, făcând legătura între timpurile străvechi și comerțul modern.\n\nDupă-amiaza ne găsește mergând spre mărețul Bradley Manor. Situați în mijlocul unei păduri verzi și ondulate, pereții medievali de calcar oferă un fundal incredibil de pitoresc pentru aventura noastră continuă pe două roți.\n\nPe măsură ce umbrele serii se lungesc, ajungem la maiestuoasa Forde House. Fațada iacobină grandioasă și peluzele spațioase răsplătesc eforturile noastre de ciclism, oferind o concluzie maiestuoasă și relaxantă a turului nostru activ.",
+        "en": "Cycling begins at the tranquil Jetty Marsh Local Nature Reserve, a perfect fresh start observing wildlife. We then pedal smoothly toward the town center, arriving at Tuckers Maltings to savor the authentic industrial heritage of Devon's brewing history.\n\nBy midday, our wheels bring us to the historic core, stopping at St Leonard's Tower. This medieval remnant stands proudly amidst the urban flow, bridging ancient times with modern commerce.\n\nThe afternoon sees us riding outwards to the grand Bradley Manor. Set within rolling green woodland, the medieval limestone walls offer an incredibly picturesque backdrop for our continued two-wheeled adventure.\n\nAs evening shadows lengthen, we arrive at the majestic Forde House. The grand Jacobean facade and spacious lawns reward our cycling efforts, providing a majestic and restful conclusion to our active tour of Newton Abbot."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hackney Marshes Local Nature Reserve",
+            "hu": "Hackney Marshes Local Nature Reserve",
+            "ro": "Rezervația Naturală Hackney Marshes",
+            "en": "Hackney Marshes Local Nature Reserve"
+          },
+          "coords": [
+            -3.59118,
+            50.540644
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Uferatmosphäre in den Hackney Marshes, einem erstklassigen Ort für ökologische Entdeckungen, und bleiben Sie in nassen Monaten auf den Holzstegen.",
+            "hu": "Élvezze a békés folyóparti atmoszférát a Hackney Marshes ökológiai felfedezésekre ideális területén, és a csapadékosabb hónapokban maradjon a megemelt fapallókon.",
+            "ro": "Bucurați-vă de atmosfera liniștită de pe malul râului la Hackney Marshes, un loc excelent pentru descoperiri ecologice, și rămâneți pe pasarelele din lemn în lunile umede.",
+            "en": "Embrace the tranquil riverside atmosphere at Hackney Marshes, a prime spot for ecological discovery, and stick to the elevated boardwalks during the wetter spring months."
+          }
+        },
+        {
+          "name": {
+            "de": "Newton Abbot Racecourse",
+            "hu": "Newton Abbot Racecourse",
+            "ro": "Hipodromul Newton Abbot",
+            "en": "Newton Abbot Racecourse"
+          },
+          "coords": [
+            -3.59778,
+            50.5386
+          ],
+          "category": "recreational",
+          "arrive_at": "10:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie den Nervenkitzel des lokalen Sporterbes auf dem Newton Abbot Racecourse, und kommen Sie an Renntagen frühzeitig, um sich einen guten Platz auf der Tribüne zu sichern.",
+            "hu": "Érezze a helyi sportörökség izgalmát a Newton Abbot Lóversenypályán, és versenynapokon érkezzen korán, hogy biztosítsa a tökéletes helyét a fő lelátón.",
+            "ro": "Simțiți fiorul patrimoniului sportiv local la Hipodromul Newton Abbot, și ajungeți devreme în zilele de cursă pentru a vă asigura un loc excelent în tribuna principală.",
+            "en": "Feel the thrill of local sports heritage at the Newton Abbot Racecourse, one of Britain's leading summer jumps tracks, and arrive early on race days to secure a grandstand seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Berry's Wood Hillfort",
+            "hu": "Berry's Wood Hillfort",
+            "ro": "Berry's Wood Hillfort",
+            "en": "Berry's Wood Hillfort"
+          },
+          "coords": [
+            -3.629017,
+            50.527937
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie eisenzeitliche Geheimnisse im Berry's Wood Hillfort, einem alten Erdwall im Wald, und tragen Sie feste Schuhe, um die unebenen Waldwege gut bewältigen zu können.",
+            "hu": "Fedezze fel a vaskori titkokat a Berry's Wood Hillfort fák között megbúvó ősi erődítményénél, és viseljen túracipőt a rögös, burkolatlan erdei ösvények bejárásához.",
+            "ro": "Descoperiți secretele Epocii Fierului la Berry's Wood Hillfort, o veche lucrare defensivă ascunsă în copaci, și purtați cizme robuste pentru a naviga pe potecile împădurite accidentate.",
+            "en": "Uncover Iron Age secrets at Berry's Wood Hillfort, an ancient defensive earthwork hidden in the trees, and wear sturdy boots to navigate the rugged, unpaved woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bradley Manor",
+            "hu": "Bradley Manor",
+            "ro": "Bradley Manor",
+            "en": "Bradley Manor"
+          },
+          "coords": [
+            -3.625936,
+            50.526189
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Bradley Manor, einem unberührten Kalkstein-Herrenhaus, ins Mittelalter ein und erkunden Sie die üppigen umliegenden Wälder über die markierten Wanderwege.",
+            "hu": "Lépjen vissza a középkorba a Bradley Manor érintetlen mészkő kúriájában, és mindenképpen fedezze fel a buja környező erdőket a jól kijelölt, festői sétautakon.",
+            "ro": "Pășiți înapoi în perioada medievală la Bradley Manor, un conac impecabil din piatră de var, și asigurați-vă că explorați pădurile luxuriante din jur pe traseele marcate.",
+            "en": "Step back into the medieval period at Bradley Manor, an unspoiled limestone manor house, and make sure to explore the lush surrounding woodlands via the marked walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Forde House",
+            "hu": "Forde House",
+            "ro": "Forde House",
+            "en": "Forde House"
+          },
+          "coords": [
+            -3.5957,
+            50.5273
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die jakobinische Architektur des Forde House, das einst königliche Gäste beherbergte, und tragen Sie bequeme Schuhe, um über die historischen Rasenflächen zu spazieren.",
+            "hu": "Csodálja meg a Forde House bonyolult jakabkori építészetét, amely egykor királyi vendégeket fogadott, és viseljen kényelmes cipőt a hatalmas történelmi pázsitok bejárásához.",
+            "ro": "Minunați-vă de arhitectura iacobină complexă a Forde House, care a găzduit odată regalitatea, și purtați încălțăminte confortabilă pentru a vă plimba pe peluzele sale istorice.",
+            "en": "Marvel at the intricate Jacobean architecture of Forde House, which once hosted royalty, and wear comfortable shoes to freely stroll across its expansive historic lawns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können wir die malerischen Außenbezirke erkunden, angefangen bei den wunderschönen Hackney Marshes. Nach einem friedlichen Morgenspaziergang in der Natur fahren wir zum Newton Abbot Racecourse, um die lokale Reitsportatmosphäre zu genießen.\n\nBis zum Mittag taucht unser Roadtrip tief in die Geschichte ein, während wir uns dem Berry's Wood Hillfort nähern. Versteckt zwischen alten Bäumen erfordert dieser Wall aus der Eisenzeit eine kurze Wanderung, die jedoch mit großer Resonanz belohnt.\n\nDer Nachmittag geht nahtlos in großartigere Anwesen über, wenn wir am Bradley Manor parken. Das romantische mittelalterliche Herrenhaus ist wunderschön erhalten und lädt zu gemütlichen Spaziergängen durch die Wälder ein.\n\nWir beenden unseren Autotagesausflug am herrlichen Forde House. Das reiche jakobinische Äußere leuchtet wunderbar im Abendlicht. Ein Spaziergang über die weitläufigen Rasenflächen bietet einen zutiefst befriedigenden Abschluss einer umfassenden Tour.",
+        "hu": "A vezetés lehetővé teszi számunkra a festői külvárosok felfedezését, a gyönyörű mocsaras Hackney Marshes-nál kezdve. A békés természetbeni séta után átvezetünk a lóversenypályára, hogy magunkba szívjuk a lovas izgalmakat.\n\nDélre az autós túránk mély történelembe nyúlik, ahogy a Berry's Wood Hillforthoz közeledünk. Az ősi fák között megbúvó vaskori földsánc rövid túrát igényel, de a mély történelmi jelentőség bőségesen kárpótol.\n\nA délután zökkenőmentesen vált át nagyszerűbb birtokokra, amint leparkolunk a Bradley Manornál. A romantikus középkori kúria gyönyörűen megőrzött, hívogató sétákat kínálva a festői környező erdőkben, mielőtt újra útnak indulunk.\n\nAutós egynapos kirándulásunkat a pompás Forde House-nál zárjuk. A gazdag jakabkori külső csodálatosan ragyog az esti fényben. A kiterjedt pázsiton való barangolás mélységesen kielégítő végét jelenti a Newton Abbot körüli átfogó motoros túrának.",
+        "ro": "Condusul ne permite să explorăm periferiile pitorești, începând de la frumoasele zone umede Hackney Marshes. După o plimbare matinală liniștită în natură, ne îndreptăm spre Hipodromul Newton Abbot pentru a ne bucura de entuziasmul ecvestru local.\n\nPână la prânz, excursia noastră rutieră pătrunde în istoria profundă, pe măsură ce ne apropiem de Berry's Wood Hillfort. Ascunsă printre copaci bătrâni, această fortificație din Epoca Fierului necesită o scurtă drumeție care merită efortul.\n\nDupă-amiaza trece fluid către moșii mai grandioase, în timp ce parcăm la Bradley Manor. Conacul medieval romantic este frumos conservat, invitând la plimbări pe îndelete prin pădurile pitorești înconjurătoare înainte de a porni din nou la drum.\n\nNe încheiem excursia rutieră la splendida Forde House. Exteriorul bogat iacobin strălucește minunat în lumina serii. Plimbarea pe peluzele întinse oferă un sfârșit profund satisfăcător pentru un tur motorizat cuprinzător al orașului Newton Abbot.",
+        "en": "Driving allows us to explore the scenic outskirts, beginning at the beautifully marshy Hackney Marshes. After a peaceful morning walk among nature, we drive over to the Newton Abbot Racecourse to soak in some local equestrian excitement.\n\nBy midday, our road trip delves into deep history as we approach Berry's Wood Hillfort. Hidden among ancient trees, this Iron Age earthwork requires a brief trek but thoroughly rewards the effort with profound historical resonance.\n\nThe afternoon transitions seamlessly into grander estates as we park at Bradley Manor. The romantic medieval manor house stands beautifully preserved, inviting leisurely strolls through its picturesque surrounding woodlands before we hit the road again.\n\nWe conclude our driving day trip at the splendid Forde House. The rich Jacobean exterior glows wonderfully in the evening light. Wandering the extensive lawns provides a deeply satisfying end to a comprehensive motorized tour of Newton Abbot."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "colomiers",
+  "anchor": {
+    "name": "Colomiers",
+    "coords": [
+      1.3358,
+      43.6128
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            1.339544,
+            43.612688
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster in diesem ruhigen Heiligtum im Stadtzentrum, und respektieren Sie die Stille beim Morgengebet.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző üvegablakait, amely egy békés szentély a város szívében, és tartsa tiszteletben a csendet.",
+            "ro": "Admirați vitraliile acestei biserici istorice, un sanctuar liniștit în inima orașului, și nu uitați să respectați tăcerea în timpul rugăciunilor.",
+            "en": "Admire the stained glass in this historic church, a serene sanctuary in the city heart, and remember to respect the silence during morning prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Duroch",
+            "hu": "Parc Duroch",
+            "ro": "Parc Duroch",
+            "en": "Parc Duroch"
+          },
+          "coords": [
+            1.340456,
+            43.611217
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang unter den alten Bäumen dieser grünen Lunge, die einen perfekten schattigen Rückzugsort für ein Picknick bietet.",
+            "hu": "Tegyen egy kényelmes sétát a zöld tüdejének számító park ősi fái alatt, amely tökéletes árnyékos menedéket nyújt egy kis piknikezéshez.",
+            "ro": "Bucurați-vă de o plimbare sub copacii seculari ai acestui plămân verde, care oferă un refugiu umbrit perfect dacă aduceți un mic picnic.",
+            "en": "Take a leisurely walk under the ancient trees of this beautiful green lung, which offers a perfect shaded retreat if you bring a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon Blanc Henri Molina",
+            "hu": "Pavillon Blanc Henri Molina",
+            "ro": "Pavillon Blanc Henri Molina",
+            "en": "Pavillon Blanc Henri Molina"
+          },
+          "coords": [
+            1.334934,
+            43.609385
+          ],
+          "category": "cultural",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie markante zeitgenössische Architektur und lokale Ausstellungen in diesem kulturellen Zentrum, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a kortárs építészetet és a helyi kiállításokat ebben a pezsgő kulturális központban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți arhitectura contemporană și expozițiile locale la acest hub cultural, dar verificați programul de funcționare înainte de a vizita.",
+            "en": "Discover striking contemporary architecture and local exhibitions at this vibrant cultural hub, but check the opening hours beforehand as they change."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Nautique Jean Vauchère",
+            "hu": "Espace Nautique Jean Vauchère",
+            "ro": "Espace Nautique Jean Vauchère",
+            "en": "Espace Nautique Jean Vauchère"
+          },
+          "coords": [
+            1.33335,
+            43.60872
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie moderne Schwimmanlagen und Entspannung in diesem erstklassigen Freizeitzentrum, also packen Sie Ihre Badesachen für eine Abkühlung ein.",
+            "hu": "Élvezze a modern medencéket és az ellazulást ebben az elsőrangú szabadidőközpontban, ezért mindenképp csomagoljon fürdőruhát egy frissítő úszáshoz.",
+            "ro": "Bucurați-vă de piscinele moderne și de relaxare la acest centru de top, așa că puneți-vă costumul de baie pentru o baie răcoritoare la amiază.",
+            "en": "Enjoy modern swimming facilities and aquatic relaxation at this top-notch recreational center, so pack your swimsuit for a refreshing midday dip."
+          }
+        },
+        {
+          "name": {
+            "de": "La Naspe",
+            "hu": "La Naspe",
+            "ro": "La Naspe",
+            "en": "La Naspe"
+          },
+          "coords": [
+            1.330828,
+            43.618887
+          ],
+          "category": "family",
+          "arrive_at": "14:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bringen Sie die Kinder in dieses einladende Familiengebiet, das für seine weitläufigen Spielplätze bekannt und ideal für einen aktiven Nachmittag ist.",
+            "hu": "Hozza el a gyerekeket ebbe a barátságos, tágas játszóterekről ismert parkba, amely ideális a délutáni energiák biztonságos levezetésére.",
+            "ro": "Aduceți copiii în această zonă familială primitoare, cunoscută pentru locurile sale de joacă, ideală pentru a consuma energia după-amiezii.",
+            "en": "Bring the kids to this welcoming family area known for its spacious playgrounds and safe environment, ideal for burning off some afternoon energy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der ruhigen Église Sainte-Radegonde und genießen Sie die friedliche Atmosphäre.\n\nGehen Sie weiter zum Parc Duroch für einen Spaziergang im Grünen, bevor Sie die modernen Kunstwerke und Architektur des Pavillon Blanc erkunden.\n\nNach dem kulturellen Eintauchen können Sie sich im Espace Nautique bei etwas Wassersport erfrischen.\n\nBeenden Sie den Tag im La Naspe, wo die familienfreundliche und sichere Umgebung einen perfekten, entspannten Abend für alle bietet.",
+        "hu": "Kezdje a reggelt a békés Église Sainte-Radegonde templomnál, élvezve a nyugodt és áhítatos légkört.\n\nFolytassa a napot a Parc Duroch-ban egy sétával a természetben, mielőtt elmerülne a Pavillon Blanc lenyűgöző kortárs kiállításaiban.\n\nA kulturális feltöltődés után frissüljön fel az Espace Nautique modern medencéiben.\n\nZárja a napot a La Naspe parkban, ahol a családbarát környezet és a tágas játszóterek tökéletes, pihentető estét kínálnak mindenkinek.",
+        "ro": "Începeți dimineața la liniștita Église Sainte-Radegonde, bucurându-vă de atmosfera pașnică din inima orașului.\n\nContinuați spre Parc Duroch pentru o scurtă plimbare în natură înainte de a explora expozițiile contemporane de la Pavillon Blanc.\n\nDupă o imersiune culturală fascinantă, reîmprospătați-vă la Espace Nautique cu activități acvatice distractive.\n\nÎncheiați ziua la La Naspe, unde mediul familial relaxant oferă o seară perfectă pentru toate vârstele.",
+        "en": "Start your morning at the serene Église Sainte-Radegonde, soaking in the peaceful atmosphere right in the city center.\n\nContinue to Parc Duroch for a nature walk before delving into the contemporary exhibits at the impressive Pavillon Blanc.\n\nAfter a deep cultural immersion, refresh yourself at the Espace Nautique with some aquatic fun and relaxation.\n\nConclude the day at La Naspe, where the family-friendly surroundings provide a perfect, relaxed evening for everyone."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Naspe",
+            "hu": "La Naspe",
+            "ro": "La Naspe",
+            "en": "La Naspe"
+          },
+          "coords": [
+            1.330828,
+            43.618887
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag und lassen Sie die Kinder auf den sicheren Spielplätzen spielen, während Sie die ruhige grüne Umgebung genießen.",
+            "hu": "Kezdje itt a napot, és hagyja, hogy a gyerekek biztonságosan játszanak a tágas terekben, miközben Ön élvezi a békés, zöld környezetet.",
+            "ro": "Începeți ziua aici și lăsați copiii să se joace în siguranță pe terenurile de joacă, în timp ce vă bucurați de mediul verde și liniștit.",
+            "en": "Start your day here and let the kids play safely on the expansive playgrounds while you soak in the peaceful, green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            1.339544,
+            43.612688
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster in diesem ruhigen Heiligtum im Stadtzentrum, und respektieren Sie die Stille beim Morgengebet.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző üvegablakait, amely egy békés szentély a város szívében, és tartsa tiszteletben a csendet.",
+            "ro": "Admirați vitraliile acestei biserici istorice, un sanctuar liniștit în inima orașului, și nu uitați să respectați tăcerea în timpul rugăciunilor.",
+            "en": "Admire the stained glass in this historic church, a serene sanctuary in the city heart, and remember to respect the silence during morning prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Duroch",
+            "hu": "Parc Duroch",
+            "ro": "Parc Duroch",
+            "en": "Parc Duroch"
+          },
+          "coords": [
+            1.340456,
+            43.611217
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Eingang und machen Sie einen gemütlichen Spaziergang unter den alten Bäumen, perfekt für eine kurze Entspannung.",
+            "hu": "Parkolja le kerékpárját a bejáratnál, és tegyen egy kényelmes sétát a park ősi fái alatt, amely tökéletes egy rövid, csendes pihenéshez.",
+            "ro": "Parcați bicicleta la intrare și bucurați-vă de o plimbare sub copacii seculari, un loc perfect pentru o scurtă relaxare în natură.",
+            "en": "Park your bike at the entrance and take a leisurely walk under the ancient trees of this beautiful park, perfect for a short natural retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon Blanc Henri Molina",
+            "hu": "Pavillon Blanc Henri Molina",
+            "ro": "Pavillon Blanc Henri Molina",
+            "en": "Pavillon Blanc Henri Molina"
+          },
+          "coords": [
+            1.334934,
+            43.609385
+          ],
+          "category": "cultural",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie markante zeitgenössische Architektur und lokale Ausstellungen in diesem kulturellen Zentrum, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a kortárs építészetet és a helyi kiállításokat ebben a pezsgő kulturális központban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți arhitectura contemporană și expozițiile locale la acest hub cultural, dar verificați programul de funcționare înainte de a vizita.",
+            "en": "Discover striking contemporary architecture and local exhibitions at this vibrant cultural hub, but check the opening hours beforehand as they change."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Armurier",
+            "hu": "Château de l'Armurier",
+            "ro": "Château de l'Armurier",
+            "en": "Château de l'Armurier"
+          },
+          "coords": [
+            1.344218,
+            43.599731
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände dieses eleganten historischen Anwesens und tragen Sie bequeme Schuhe für die unebenen, charmanten Wege der Anlage.",
+            "hu": "Fedezze fel ennek az elegáns történelmi birtoknak a területét, és viseljen kényelmes cipőt a kastély egyenetlen, romantikus ösvényein.",
+            "ro": "Explorați terenurile acestei moșii istorice elegante și purtați încălțăminte confortabilă pentru aleile inegale din jurul proprietății.",
+            "en": "Explore the grounds of this elegant historic estate that echoes the rich past of the region, and wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Pêcheurs",
+            "hu": "Lac des Pêcheurs",
+            "ro": "Lac des Pêcheurs",
+            "en": "Lac des Pêcheurs"
+          },
+          "coords": [
+            1.349151,
+            43.579187
+          ],
+          "category": "natural",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses Sees, der für seine Artenvielfalt bekannt ist und ein idealer Ort für den späten Nachmittag ist.",
+            "hu": "Pihenjen meg a csendes vizű tónál, amely gazdag élővilágáról ismert, így csodálatos helyszíne egy békés késő délutáni kikapcsolódásnak.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac cunoscut pentru biodiversitatea sa bogată, un loc minunat pentru o seară liniștită.",
+            "en": "Relax by the tranquil waters of this fishing lake known for its rich biodiversity, making it a wonderful spot for a quiet late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Park La Naspe und genießen Sie die frische Morgenluft in dieser grünen Weite.\n\nRadeln Sie in Richtung Stadtzentrum, um die Église Sainte-Radegonde zu besichtigen und im Parc Duroch kurz zu rasten.\n\nAm Nachmittag erkunden Sie den beeindruckenden Pavillon Blanc, bevor Sie zum historischen Château de l'Armurier fahren.\n\nBeenden Sie Ihren aktiven Tag am idyllischen Lac des Pêcheurs, wo Sie die ruhige Atmosphäre am Wasser genießen können.",
+        "hu": "Kezdje a kerékpáros napot a La Naspe parkban, élvezve a friss reggeli levegőt a zöld környezetben.\n\nFeleljen a városközpont felé, hogy meglátogassa az Église Sainte-Radegonde-ot, és pihenjen meg röviden a Parc Duroch árnyékában.\n\nDélután fedezze fel a lenyűgöző Pavillon Blanc-t, mielőtt elkerékpározna a történelmi Château de l'Armurier kastélyhoz.\n\nZárja aktív napját a festői Lac des Pêcheurs partján, ahol csendes, vízparti nyugalomban gyönyörködhet.",
+        "ro": "Începeți ziua de ciclism la La Naspe, bucurându-vă de aerul proaspăt al dimineții în acest spațiu verde relaxant.\n\nPedalați spre centrul orașului pentru a vizita Église Sainte-Radegonde și a vă odihni scurt în Parc Duroch.\n\nÎn timpul după-amiezii, explorați impresionantul Pavillon Blanc înainte de a merge cu bicicleta la istoricul Château de l'Armurier.\n\nÎncheiați ziua activă la Lac des Pêcheurs, relaxându-vă în atmosfera liniștită de pe malul apei.",
+        "en": "Kick off your cycling day at La Naspe, enjoying the fresh morning air in this expansive and peaceful green space.\n\nPedal towards the city center to visit the historic Église Sainte-Radegonde and rest briefly under the trees in Parc Duroch.\n\nIn the afternoon, explore the striking Pavillon Blanc before riding down to discover the historic Château de l'Armurier.\n\nFinish your active day at Lac des Pêcheurs, finding relaxation and a beautiful atmosphere right by the calm waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 6.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pavillon Blanc Henri Molina",
+            "hu": "Pavillon Blanc Henri Molina",
+            "ro": "Pavillon Blanc Henri Molina",
+            "en": "Pavillon Blanc Henri Molina"
+          },
+          "coords": [
+            1.334934,
+            43.609385
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie markante zeitgenössische Architektur und lokale Ausstellungen in diesem kulturellen Zentrum, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a kortárs építészetet és a helyi kiállításokat ebben a pezsgő kulturális központban, de indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți arhitectura contemporană și expozițiile locale la acest hub cultural, dar verificați programul de funcționare înainte de a vizita.",
+            "en": "Discover striking contemporary architecture and local exhibitions at this vibrant cultural hub, but check the opening hours beforehand as they change."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Radegonde",
+            "hu": "Église Sainte-Radegonde",
+            "ro": "Église Sainte-Radegonde",
+            "en": "Église Sainte-Radegonde"
+          },
+          "coords": [
+            1.339544,
+            43.612688
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster in diesem ruhigen Heiligtum im Stadtzentrum, und respektieren Sie die Stille beim Morgengebet.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző üvegablakait, amely egy békés szentély a város szívében, és tartsa tiszteletben a csendet.",
+            "ro": "Admirați vitraliile acestei biserici istorice, un sanctuar liniștit în inima orașului, și nu uitați să respectați tăcerea în timpul rugăciunilor.",
+            "en": "Admire the stained glass in this historic church, a serene sanctuary in the city heart, and remember to respect the silence during morning prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Armurier",
+            "hu": "Château de l'Armurier",
+            "ro": "Château de l'Armurier",
+            "en": "Château de l'Armurier"
+          },
+          "coords": [
+            1.344218,
+            43.599731
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände dieses eleganten historischen Anwesens und tragen Sie bequeme Schuhe für die unebenen, charmanten Wege der Anlage.",
+            "hu": "Fedezze fel ennek az elegáns történelmi birtoknak a területét, és viseljen kényelmes cipőt a kastély egyenetlen, romantikus ösvényein.",
+            "ro": "Explorați terenurile acestei moșii istorice elegante și purtați încălțăminte confortabilă pentru aleile inegale din jurul proprietății.",
+            "en": "Explore the grounds of this elegant historic estate that echoes the rich past of the region, and wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Vieux Pigeonnier",
+            "hu": "Lac du Vieux Pigeonnier",
+            "ro": "Lac du Vieux Pigeonnier",
+            "en": "Lac du Vieux Pigeonnier"
+          },
+          "coords": [
+            1.35877,
+            43.585528
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie lokale Vögel in diesem malerischen Naturschutzgebiet, das den alten Taubenschlag bewahrt, idealerweise mit einem Fernglas.",
+            "hu": "Figyelje meg a helyi madarakat ebben a festői természetvédelmi területen, és hozzon magával távcsövet a vadvilág zavartalan megfigyeléséhez.",
+            "ro": "Observați păsările locale în această rezervație pitorească, care păstrează vechiul porumbar, un loc ideal de vizitat cu binoclul.",
+            "en": "Spot local birds at this picturesque natural reserve that preserves the old dovecote heritage, best visited with binoculars for wildlife watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des pêcheurs de la Ramée",
+            "hu": "Lac des pêcheurs de la Ramée",
+            "ro": "Lac des pêcheurs de la Ramée",
+            "en": "Lac des pêcheurs de la Ramée"
+          },
+          "coords": [
+            1.361446,
+            43.57005
+          ],
+          "category": "natural",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen See, der für Outdoor-Sport beliebt ist, und kommen Sie früh, um einen guten Platz am Wasser zu finden.",
+            "hu": "Kapcsolódjon ki ezen a hatalmas, szabadtéri sportokról ismert tóparton, és érkezzen időben, hogy biztosítson egy jó helyet a víz közelében.",
+            "ro": "Relaxați-vă la această destinație vastă pe marginea lacului, populară pentru sporturi, și sosiți devreme pentru un loc bun lângă apă.",
+            "en": "Unwind at this expansive lakeside destination popular for outdoor sports and relaxation, arriving early to secure a good spot near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem Eintauchen in die zeitgenössische Kultur im ikonischen Pavillon Blanc Henri Molina.\n\nFahren Sie zur nahegelegenen Église Sainte-Radegonde, um ein Stück spiritueller Geschichte zu erleben, bevor Sie nach Süden aufbrechen.\n\nVerbringen Sie Ihren Nachmittag damit, das historische Gelände des charmanten Château de l'Armurier zu erkunden.\n\nSchließen Sie Ihren Roadtrip ab, indem Sie die friedlichen Ufer des Lac du Vieux Pigeonnier und des Lac des pêcheurs de la Ramée besuchen.",
+        "hu": "Kezdje a napot a kortárs kultúra felfedezésével az ikonikus Pavillon Blanc Henri Molina épületében.\n\nVezessen át a közeli Église Sainte-Radegonde templomhoz egy kis spirituális történelemért, majd induljon dél felé.\n\nTöltse a délutánt a lenyűgöző és történelmi Château de l'Armurier kastély területének bebarangolásával.\n\nZárja az autós kirándulást a Lac du Vieux Pigeonnier és a Lac des pêcheurs de la Ramée békés, természetközeli partjainak felfedezésével.",
+        "ro": "Începeți cu o vizită culturală contemporană la iconicul Pavillon Blanc Henri Molina din inima orașului.\n\nConduceți spre apropiata Église Sainte-Radegonde pentru o notă de istorie spirituală, apoi îndreptați-vă spre sud.\n\nPetreceți-vă după-amiaza plimbându-vă prin zonele pitorești ale istoricului Château de l'Armurier.\n\nÎncheiați-vă excursia explorând malurile liniștite de la Lac du Vieux Pigeonnier și Lac des pêcheurs de la Ramée.",
+        "en": "Begin with a dive into contemporary culture at the iconic and visually striking Pavillon Blanc Henri Molina.\n\nDrive over to the nearby Église Sainte-Radegonde for a touch of spiritual history, then head south out of the center.\n\nSpend your afternoon wandering the grounds of the elegant and historic Château de l'Armurier.\n\nWrap up your road trip exploring the serene shores and abundant nature of Lac du Vieux Pigeonnier and Lac des pêcheurs de la Ramée."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-saint-pierre-quiberon-cities-v2",
+  "anchor": {
+    "name": "Saint-Pierre-Quiberon",
+    "coords": [
+      -3.13033,
+      47.51985
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 2.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de Roc-en-Aud",
+            "hu": "Dolmen de Roc-en-Aud",
+            "ro": "Dolmen de Roc-en-Aud",
+            "en": "Dolmen de Roc-en-Aud"
+          },
+          "coords": [
+            -3.136055,
+            47.524315
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem beeindruckenden Megalith-Dolmen, um die antiken Wurzeln zu spüren, aber tragen Sie festes Schuhwerk auf dem unebenen Boden.",
+            "hu": "Kezdje a napot ennél a lenyűgöző megalitikus dolmennél, hogy megérezze a vidék ősi gyökereit, de viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Începeți ziua la acest dolmen megalitic impresionant pentru a simți rădăcinile antice ale zonei, dar purtați încălțăminte robustă pe terenul accidentat.",
+            "en": "Start your day at this impressive megalithic dolmen to grasp the area's ancient roots, but wear sturdy shoes as the ground is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lotivy",
+            "hu": "Chapelle Notre-Dame-de-Lotivy",
+            "ro": "Chapelle Notre-Dame-de-Lotivy",
+            "en": "Chapelle Notre-Dame-de-Lotivy"
+          },
+          "coords": [
+            -3.14405,
+            47.527557
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante bretonische Kapelle, die Seeleuten seit Jahrhunderten den Weg weist, und genießen Sie die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg ezt a bájos breton kápolnát, amely évszázadok óta vezeti a tengerészeket, és élvezze a benti békés atmoszférát.",
+            "ro": "Admirați această capelă bretonă fermecătoare care a ghidat marinarii de secole și bucurați-vă de atmosfera pașnică din interior.",
+            "en": "Admire this charming Breton chapel which has guided sailors for centuries, and take a moment to enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Renaron",
+            "hu": "Dolmen de Renaron",
+            "ro": "Dolmen de Renaron",
+            "en": "Dolmen de Renaron"
+          },
+          "coords": [
+            -3.147258,
+            47.528191
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Grabbau-Monument, das neolithische Handwerkskunst zeigt, und fotografieren Sie es am besten im weichen Vormittagslicht.",
+            "hu": "Fedezze fel ezt a lenyűgöző romos síremléket, amely a neolitikus kézművességet dicséri, és amelyet a lágy késő délelőtti fényben érdemes fotózni.",
+            "ro": "Explorați acest fascinant monument funerar în ruină care evidențiază măiestria neolitică, cel mai bine de fotografiat în lumina blândă a dimineții târzii.",
+            "en": "Explore this fascinating ruined burial monument highlighting Neolithic craftsmanship, best photographed in the soft late-morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Arche de Port Blanc",
+            "hu": "Arche de Port Blanc",
+            "ro": "Arche de Port Blanc",
+            "en": "Arche de Port Blanc"
+          },
+          "coords": [
+            -3.153755,
+            47.522048
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen dramatischen, vom wilden Ozean geformten Felsbogen, aber halten Sie beim Fotografieren unbedingt Sicherheitsabstand zu den Klippen.",
+            "hu": "Csodálja meg a vad óceán által vájt drámai sziklaívet, de fotózás közben maradjon biztonságos távolságban az instabil sziklafalaktól.",
+            "ro": "Admirați această arcadă naturală dramatică sculptată de oceanul sălbatic, dar păstrați distanța de siguranță față de marginile instabile când faceți poze.",
+            "en": "Marvel at this dramatic natural rock arch carved by the wild ocean, but stay safely back from the unstable cliff edges when taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Blanc",
+            "hu": "Port Blanc",
+            "ro": "Port Blanc",
+            "en": "Port Blanc"
+          },
+          "coords": [
+            -3.154451,
+            47.520817
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand zwischen schroffen Klippen, und bringen Sie eine Windjacke gegen die frische Atlantikbrise mit.",
+            "hu": "Pihenjen ezen a festői homokos partszakaszon a zord sziklák között, és hozzon magával széldzsekit, mert az atlanti szél itt elég erős.",
+            "ro": "Relaxați-vă pe această plajă pitorească cuibărită între stânci abrupte, aducând o jachetă de vânt deoarece briza oceanului este destul de rece aici.",
+            "en": "Relax on this picturesque stretch of sand nestled between rugged cliffs, bringing a windbreaker since the Atlantic breezes are brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Port Blanc",
+            "hu": "Dolmen de Port Blanc",
+            "ro": "Dolmen de Port Blanc",
+            "en": "Dolmen de Port Blanc"
+          },
+          "coords": [
+            -3.155751,
+            47.523924
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein weiteres prähistorisches Erbe nur wenige Schritte vom Strand entfernt und lesen Sie die Informationstafel für historische Details.",
+            "hu": "Fedezzen fel egy újabb történelem előtti örökséget csak pár lépésre a strandtól, és olvassa el az információs táblát a történelmi kontextusért.",
+            "ro": "Descoperiți încă o moștenire preistorică la câțiva pași de plajă, verificând placa informativă pentru contextul istoric.",
+            "en": "Discover another piece of prehistoric heritage just steps from the beach, checking the informational plaque for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des douaniers",
+            "hu": "Maison des douaniers",
+            "ro": "Maison des douaniers",
+            "en": "Maison des douaniers"
+          },
+          "coords": [
+            -3.159295,
+            47.52366
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem historischen Zollhaus mit Panoramablick auf das Meer, ideal für den spektakulären Sonnenuntergang.",
+            "hu": "Zárja sétáját ennél a történelmi vámháznál, amely panorámás tengeri kilátást nyújt, és tökéletes hely a lenyűgöző naplemente megtekintéséhez.",
+            "ro": "Încheiați plimbarea la această casă vamală istorică cu vedere panoramică la mare, perfectă pentru a admira un apus spectaculos peste valuri.",
+            "en": "Conclude your walk at this historic customs house offering panoramic sea views, perfect for watching the spectacular sunset over the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt zwischen alten Steinen am Dolmen von Roc-en-Aud und mit einem friedlichen Halt an der Lotivy-Kapelle. Mittags erreichen Sie die wilde Küste, wo die Arche de Port Blanc die raue Kraft des Ozeans offenbart. Den Nachmittag verbringen Sie entspannt am Strand von Port Blanc und an seinem Megalithen. Wenn der Abend naht, bietet das historische Zollhaus einen unvergleichlichen Aussichtspunkt für einen atemberaubenden Atlantik-Sonnenuntergang.",
+        "hu": "A reggel az ősi kövek között indul a Roc-en-Aud dolmennél, majd egy békés pihenő következik a Lotivy kápolnánál. Délre eléri a vad partot, ahol az Arche de Port Blanc az óceán nyers erejét mutatja be. A délutánt a Port Blanc homokján pihenve és a közeli megalit felfedezésével töltheti. Ahogy leszáll az est, a történelmi vámház páratlan kilátást nyújt a lenyűgöző atlanti naplementére.",
+        "ro": "Dimineața începe printre pietre antice la dolmenul Roc-en-Aud, urmată de o oprire pașnică la capela Lotivy. La prânz, veți ajunge pe coasta sălbatică, unde Arche de Port Blanc arată forța oceanului. După-amiaza este petrecută relaxându-vă pe nisipurile de la Port Blanc și explorând megalitul din apropiere. Odată cu lăsarea serii, casa vamală istorică oferă un punct de belvedere de neegalat pentru un apus spectaculos.",
+        "en": "Your morning starts among ancient stones, feeling the mystic breeze at the Roc-en-Aud dolmen before a peaceful stop at the Lotivy chapel. By midday, you'll reach the wild coast, where the dramatic Arche de Port Blanc showcases the ocean's raw power. The afternoon is spent relaxing on the sands of Port Blanc and exploring its nearby megalith. As evening falls, the historic customs house offers an unparalleled vantage point for a stunning Atlantic sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 2.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tumulus à coffres de Mané-Becker-Noz",
+            "hu": "Tumulus à coffres de Mané-Becker-Noz",
+            "ro": "Tumulus à coffres de Mané-Becker-Noz",
+            "en": "Tumulus à coffres de Mané-Becker-Noz"
+          },
+          "coords": [
+            -3.140526,
+            47.512932
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem komplexen prähistorischen Grabhügel und parken Sie Ihr Fahrrad vorsichtig, da die Stätte geschützt ist.",
+            "hu": "Indítsa a biciklitúrát ennél az összetett történelem előtti sírhalomnál, és óvatosan parkolja le a kerékpárt, mivel a terület védett.",
+            "ro": "Începeți plimbarea cu bicicleta la acest tumul funerar preistoric complex, parcând cu grijă bicicleta deoarece situl este protejat.",
+            "en": "Kick off your ride at this intricate prehistoric burial mound, parking your bike carefully as the site is protected."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue Surf",
+            "hu": "Point de vue Surf",
+            "ro": "Point de vue Surf",
+            "en": "Point de vue Surf"
+          },
+          "coords": [
+            -3.151739,
+            47.515604
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem beliebten Aussichtspunkt, um den Surfern in den Wellen zuzusehen, und nutzen Sie ein Fernglas für die beste Sicht.",
+            "hu": "Álljon meg ennél a népszerű kilátópontnál, hogy nézze a szörfösöket a hullámokon, és használjon távcsövet a legjobb élményért.",
+            "ro": "Opriți-vă la acest punct de belvedere popular pentru a privi surferii, folosind un binoclu pentru cele mai bune imagini.",
+            "en": "Pause at this popular vantage point to watch surfers tackle the impressive swells, using binoculars for the best action views."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue de la pointe de Kergroix",
+            "hu": "Point de vue de la pointe de Kergroix",
+            "ro": "Point de vue de la pointe de Kergroix",
+            "en": "Point de vue de la pointe de Kergroix"
+          },
+          "coords": [
+            -3.152367,
+            47.510944
+          ],
+          "category": "natural",
+          "arrive_at": "11:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie weiter die Küste hinunter, um den weiten Blick auf die Halbinsel Quiberon zu genießen, und halten Sie Ihren Hut bei dem starken Wind gut fest.",
+            "hu": "Tekerjen tovább a parton, hogy élvezze a Quiberon-félsziget lenyűgöző látványát, és fogja erősen a kalapját az erős parti szélben.",
+            "ro": "Pedalați mai jos pe coastă pentru vederi panoramice ale peninsulei Quiberon, ținându-vă bine pălăria din cauza vântului puternic de coastă.",
+            "en": "Cycle further down the coast to enjoy sweeping views of the rugged Quiberon peninsula, holding onto your hat in the strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tertre-tumulus",
+            "hu": "Tertre-tumulus",
+            "ro": "Tertre-tumulus",
+            "en": "Tertre-tumulus"
+          },
+          "coords": [
+            -3.149494,
+            47.50326
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diesen faszinierenden alten Hügel, der Geheimnisse der frühen Siedler birgt, und bleiben Sie auf dem markierten Weg.",
+            "hu": "Vizsgálja meg ezt az ősi halmot, amely a félsziget korai telepeseinek titkait őrzi, és maradjon a kijelölt ösvényen a helyszín védelme érdekében.",
+            "ro": "Inspectați acest tumul antic intrigant care ascunde secretele primilor coloniști, rămânând pe poteca marcată pentru a proteja situl.",
+            "en": "Inspect this intriguing ancient mound that whispers secrets of the peninsula's early settlers, staying on the marked path to preserve the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Tertre tumulaire",
+            "hu": "Tertre tumulaire",
+            "ro": "Tertre tumulaire",
+            "en": "Tertre tumulaire"
+          },
+          "coords": [
+            -3.150982,
+            47.503822
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenradtour an diesem benachbarten Grabmal und genießen Sie die ruhige Atmosphäre, bevor Sie ins Dorf zurückkehren.",
+            "hu": "Fejezze be a parti kerékpártúrát ennél a szomszédos síremléknél, élvezve a csendes légkört, mielőtt visszatérne a faluba.",
+            "ro": "Încheiați turul de coastă pe bicicletă la acest monument funerar învecinat, bucurându-vă de atmosfera liniștită înainte de a vă întoarce în sat.",
+            "en": "Finish your coastal cycling tour at this neighboring burial monument, enjoying the quiet ambiance before heading back to the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt landeinwärts am faszinierenden Grabhügel Mané-Becker-Noz, wo Sie die ruhige Morgenstimmung genießen. Mittags geht es zu den spektakulären Aussichtspunkten der Küste, um Surfer auf den Atlantikwellen zu beobachten. Am Nachmittag schlängelt sich der Weg nach Süden, um die alten Geheimnisse des Tertre-Tumulus zu lüften. Der Tag endet ruhig am benachbarten Tumulus mit Gedanken an die tiefgreifende Geschichte der Region.",
+        "hu": "A kerékpáros utazás kissé beljebb, a lenyűgöző Mané-Becker-Noz sírhalomnál kezdődik a csendes reggeli légkörben. Délben a lenyűgöző parti kilátókhoz ér, ahol megfigyelheti az atlanti hullámokat meglovagoló szörfösöket. Délután az út délre kanyarodik, hogy felfedje a Tertre-tumulus füves halmai alatt rejlő ősi titkokat. A nap csendesen zárul a szomszédos tumulusnál, elmélkedve a régió mély történelmén.",
+        "ro": "Călătoria pe bicicletă începe în interior la fascinantul tumul Mané-Becker-Noz, bucurându-vă de atmosfera liniștită a dimineții. Prânzul vă duce direct la punctele de belvedere de coastă unde puteți privi surferii înfruntând valurile. După-amiaza, drumul șerpuiește spre sud pentru a descoperi secretele antice ascunse în tumulul Tertre. Ziua se încheie liniștit la tumulul învecinat, reflectând asupra istoriei profunde a regiunii.",
+        "en": "The cycling journey begins slightly inland with the fascinating Mané-Becker-Noz burial mound, soaking up the quiet morning atmosphere. Midday takes you straight to the spectacular coastal viewpoints where you can watch surfers conquering the Atlantic swells. In the afternoon, the path winds southward to uncover the ancient secrets hidden within the grassy mounds of Tertre-tumulus. The day concludes quietly at the neighboring tumulus, reflecting on the region's deep history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 5.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tertre-tumulus",
+            "hu": "Tertre-tumulus",
+            "ro": "Tertre-tumulus",
+            "en": "Tertre-tumulus"
+          },
+          "coords": [
+            -3.149494,
+            47.50326
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour im Süden an diesem mysteriösen Grabhügel und parken Sie am Straßenrand, um das grasbewachsene Gelände zu erkunden.",
+            "hu": "Kezdje az autós túrát délen, ennél a rejtélyes sírhalomnál, az út szélén parkolva, hogy biztonságosan felfedezze a füves terepet.",
+            "ro": "Începeți turul auto în sud, la acest misterios tumul funerar, parcând pe marginea drumului pentru a explora în siguranță terenul înierbat.",
+            "en": "Start your driving tour in the south at this mysterious burial mound, parking on the roadside shoulders to explore the grassy terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue de la pointe de Kergroix",
+            "hu": "Point de vue de la pointe de Kergroix",
+            "ro": "Point de vue de la pointe de Kergroix",
+            "en": "Point de vue de la pointe de Kergroix"
+          },
+          "coords": [
+            -3.152367,
+            47.510944
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie die Küste hinauf zu diesem spektakulären Klippen-Aussichtspunkt mit Meerblick, und behalten Sie Kinder in der Nähe des Abgrunds im Auge.",
+            "hu": "Vezessen fel a part mentén ehhez a lenyűgöző szikla-kilátóhoz, és a perem közelében fokozottan ügyeljen a gyerekekre.",
+            "ro": "Conduceți de-a lungul coastei către acest punct de belvedere spectaculos, supraveghind copiii cu mare atenție aproape de margine.",
+            "en": "Drive up the coast to this spectacular cliffside viewpoint offering dramatic ocean vistas, keeping a close eye on children near the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus à coffres de Mané-Becker-Noz",
+            "hu": "Tumulus à coffres de Mané-Becker-Noz",
+            "ro": "Tumulus à coffres de Mané-Becker-Noz",
+            "en": "Tumulus à coffres de Mané-Becker-Noz"
+          },
+          "coords": [
+            -3.140526,
+            47.512932
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie etwas landeinwärts, um diesen einzigartigen Steinkistengrabhügel zu entdecken, und nutzen Sie das GPS für den unmarkierten Feldweg.",
+            "hu": "Haladjon kissé beljebb, hogy felfedezze ezt az egyedülálló kőládás sírhalmot, és használja a GPS-t a jelöletlen vidéki út megtalálásához.",
+            "ro": "Îndreptați-vă ușor spre interior pentru a descoperi acest tumul unic, folosind GPS-ul mașinii pentru a găsi drumul rural nemarcat.",
+            "en": "Head slightly inland to discover this unique cist grave tumulus, using your car's GPS to find the unmarked rural access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Arche de Port Blanc",
+            "hu": "Arche de Port Blanc",
+            "ro": "Arche de Port Blanc",
+            "en": "Arche de Port Blanc"
+          },
+          "coords": [
+            -3.153755,
+            47.522048
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Kehren Sie zur wilden Küste zurück, um diesen ikonischen Felsbogen zu fotografieren, und parken Sie auf dem nahegelegenen ausgewiesenen Parkplatz.",
+            "hu": "Térjen vissza a vad partra, hogy lefotózza ezt az ikonikus, hullámok által vájt sziklaívet, a közeli kijelölt parkolóban hagyva az autót.",
+            "ro": "Reveniți pe coasta sălbatică pentru a fotografia această arcadă de stâncă emblematică, parcând în lotul amenajat aflat la scurtă distanță.",
+            "en": "Return to the wild coast to photograph this iconic rock arch formed by crashing waves, parking in the designated lot a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Traezh ar Fozoù",
+            "hu": "Traezh ar Fozoù",
+            "ro": "Traezh ar Fozoù",
+            "en": "Traezh ar Fozoù"
+          },
+          "coords": [
+            -3.157665,
+            47.527494
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem abgelegenen Strand, der für seine raue Schönheit bekannt ist, ideal für ein Picknick mit bretonischen Köstlichkeiten.",
+            "hu": "Tartson egy pihentető szünetet ezen a zord szépségéről ismert eldugott strandon, amely tökéletes egy helyi finomságokkal teli piknikhez.",
+            "ro": "Luați o pauză relaxantă pe această plajă retrasă cunoscută pentru frumusețea sa aspră, perfectă pentru un picnic cu delicatese bretone locale.",
+            "en": "Take a relaxing break on this secluded beach known for its rugged beauty, perfect for a picnic with local Breton delicacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus de Beg-en-Aud",
+            "hu": "Tumulus de Beg-en-Aud",
+            "ro": "Tumulus de Beg-en-Aud",
+            "en": "Tumulus de Beg-en-Aud"
+          },
+          "coords": [
+            -3.159289,
+            47.528023
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen markanten Grabhügel am Meer, der über die Halbinsel wacht, und tragen Sie flache Schuhe für den kurzen Aufstieg vom Strand.",
+            "hu": "Fedezze fel ezt a tengerparti sírhalmot, amely a félsziget felett őrködik, és viseljen lapos cipőt a strandról felvezető rövid túrához.",
+            "ro": "Explorați acest tumul maritim proeminent care veghează asupra peninsulei, purtând pantofi fără toc pentru scurta drumeție de la plajă.",
+            "en": "Explore this prominent seaside burial mound that watches over the peninsula, wearing flat shoes for the short hike up from the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Roc-en-Aud",
+            "hu": "Dolmen de Roc-en-Aud",
+            "ro": "Dolmen de Roc-en-Aud",
+            "en": "Dolmen de Roc-en-Aud"
+          },
+          "coords": [
+            -3.136055,
+            47.524315
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem prächtigen Dolmen zwischen den Häusern, und kommen Sie vor der Dämmerung, um die riesigen Steinplatten zu bewundern.",
+            "hu": "Zárja a napot ennél a házak között megbúvó csodálatos dolmennél, és érkezzen sötétedés előtt, hogy teljes mértékben értékelni tudja a hatalmas kőlapokat.",
+            "ro": "Încheiați ziua conducând spre acest dolmen magnific ascuns printre case, ajungând înainte de lăsarea întunericului pentru a aprecia dalele imense.",
+            "en": "End your day driving to this magnificent dolmen nestled among the houses, arriving before dusk to fully appreciate its immense stone slabs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an den südlichen Grabhügeln, wo Sie die Vorgeschichte in der frischen Morgenluft erkunden. Gegen Mittag bieten die schroffen Klippen an der Pointe de Kergroix und der Felsbogen von Port Blanc atemberaubende Küstenszenarien. Einen entspannten Nachmittag verbringen Sie am Strand Traezh ar Fozoù und am darüberliegenden Tumulus. Der Abend nähert sich, während Sie landeinwärts fahren, um die massiven Steine des Roc-en-Aud-Dolmens zu bewundern.",
+        "hu": "Indítsa útját a déli sírhalmoknál, felfedezve az őstörténetet a friss reggeli levegőben. Dél közeledtével a Pointe de Kergroix zord sziklái és a Port Blanc-i sziklaív lélegzetelállító parti tájat kínálnak. A délutánt kényelmesen, a Traezh ar Fozoù strandon pihenve és a tengerparti tumulus megmászásával töltheti. Az este közeledtével beljebb vezet, hogy megcsodálja a Roc-en-Aud dolmen hatalmas köveit.",
+        "ro": "Începeți turul auto la tumulii funerari din sud, descoperind preistoria în aerul proaspăt al dimineții. Pe măsură ce se apropie prânzul, stâncile abrupte de la Pointe de Kergroix și arcada uimitoare de la Port Blanc oferă peisaje uluitoare. Veți petrece o după-amiază relaxantă pe plaja Traezh ar Fozoù și urcând la tumulul maritim. Seara se apropie în timp ce conduceți spre interior pentru a admira pietrele masive ale dolmenului Roc-en-Aud.",
+        "en": "Embark on your drive starting at the southern burial mounds, uncovering prehistory while the morning air is still fresh. As midday approaches, the rugged cliffs at Pointe de Kergroix and the striking rock arch of Port Blanc offer breathtaking coastal scenery. You'll spend a leisurely afternoon relaxing at Traezh ar Fozoù beach and hiking up to its prominent seaside tumulus. Evening approaches as you drive inland to admire the massive stones of the Roc-en-Aud dolmen."
+      }
+    }
+  }
+}

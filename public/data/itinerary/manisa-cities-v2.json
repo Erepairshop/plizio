@@ -1,0 +1,520 @@
+{
+  "city_id": "manisa-cities-v2",
+  "anchor": {
+    "name": "Manisa",
+    "coords": [
+      27.4269,
+      38.614
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:05",
+      "total_km": 1.34,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sultan-Moschee",
+            "hu": "Sultan-mecset",
+            "ro": "Moscheea Sultan",
+            "en": "Sultan Camii"
+          },
+          "coords": [
+            27.427271,
+            38.61081
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante osmanische Architektur der Sultan-Moschee, die für Ayşe Hafsa Sultan erbaut wurde, und besuchen Sie den Innenhof früh, um der Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg a Sultan-mecset elegáns oszmán építészetét, amelyet Ayşe Hafsa szultánának építettek, és érkezzen korán, hogy elkerülje a déli hőséget a békés udvaron.",
+            "ro": "Admirați arhitectura otomană elegantă a moscheii Sultan, construită pentru Ayşe Hafsa Sultan, și vizitați curtea devreme pentru a evita căldura amiezii într-o liniște deplină.",
+            "en": "Admire the elegant Ottoman architecture of Sultan Camii, built for Ayşe Hafsa Sultan, and visit early to experience the peaceful courtyard before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu-Moschee",
+            "hu": "Ulu-mecset",
+            "ro": "Moscheea Ulu",
+            "en": "Ulu Camii"
+          },
+          "coords": [
+            27.430136,
+            38.608104
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Ulu-Moschee aus der Seldschukenzeit am Hang des Berges Spil und genießen Sie den Panoramablick über die Stadt von der erhöhten Terrasse.",
+            "hu": "Fedezze fel a lenyűgöző szeldzsuk kori Ulu-mecsetet a Spil-hegy lejtőin, és szánjon egy pillanatot a városra nyíló panorámás kilátás megcsodálására a magaslati teraszról.",
+            "ro": "Explorați impresionanta Moschee Ulu din epoca selgiucizilor de pe pantele Muntelui Spil și rezervați-vă un moment pentru a vă bucura de priveliștea panoramică a orașului.",
+            "en": "Explore the striking Seljuk-era Ulu Camii on the slopes of Mount Spil, where you should take a moment to enjoy the panoramic views over the city from its elevated terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Göktaşlı-Moschee",
+            "hu": "Göktaşlı-mecset",
+            "ro": "Moscheea Göktaşlı",
+            "en": "Göktaşlı Mosque"
+          },
+          "coords": [
+            27.433295,
+            38.609121
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die filigranen Details der Göktaşlı-Moschee, einer kleineren, aber wunderschön erhaltenen Stätte, an der zu den Gebetszeiten strenge Kleidungsvorschriften gelten.",
+            "hu": "Fedezze fel a Göktaşlı-mecset finom részleteit, egy kisebb, de gyönyörűen megőrzött vallási helyszínt, ahol az imaidők alatt szigorúan betartják a konzervatív öltözködést.",
+            "ro": "Descoperiți detaliile complicate ale Moscheii Göktaşlı, un sit religios mai mic, dar frumos conservat, unde ținuta conservatoare este strict respectată în timpul rugăciunilor locale.",
+            "en": "Discover the intricate details of Göktaşlı Mosque, a smaller but beautifully preserved religious site where conservative dress is strictly observed during local prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Hatuniye-Moschee",
+            "hu": "Hatuniye-mecset",
+            "ro": "Moscheea Hatuniye",
+            "en": "Hatuniye Cami"
+          },
+          "coords": [
+            27.434145,
+            38.612849
+          ],
+          "category": "religious",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kulturell bedeutsame Hatuniye-Moschee, die für ihr elegantes Minarett bekannt ist und sich ideal für eine ruhige Besinnung am späten Vormittag eignet.",
+            "hu": "Látogasson el a kulturálisan jelentős Hatuniye-mecsethez, amely elegáns minaretjéről ismert, és tökéletes helyszínt nyújt egy kis csendes elmélkedéshez a késő délelőtt folyamán.",
+            "ro": "Vizitați Moscheea Hatuniye, semnificativă cultural, cunoscută pentru minaretul său elegant și atmosfera senină, perfectă pentru reflecție liniștită la sfârșitul dimineții.",
+            "en": "Visit the culturally significant Hatuniye Cami, known for its elegant minaret and serene atmosphere, making it a perfect spot for quiet reflection in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaybey-Moschee",
+            "hu": "Alaybey-mecset",
+            "ro": "Moscheea Alaybey",
+            "en": "Alaybey Camii"
+          },
+          "coords": [
+            27.438952,
+            38.614145
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die historische Alaybey-Moschee, um ihre klassischen architektonischen Linien zu bewundern, und respektieren Sie die Gläubigen, indem Sie im Gebetssaal leise sprechen.",
+            "hu": "Lépjen be a történelmi Alaybey-mecsetbe, hogy értékelje klasszikus építészeti vonalait, és tisztelje a helyi hívőket azzal, hogy az imateremben csak halkan beszél.",
+            "ro": "Intrați în istorica Moschee Alaybey pentru a-i aprecia liniile arhitecturale clasice și asigurați-vă că respectați credincioșii vorbind încet în interiorul sălii de rugăciune.",
+            "en": "Step into the historical Alaybey Camii to appreciate its classic architectural lines, and make sure to respect the local worshippers by speaking softly within the prayer hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Manisa beginnt mit den großen historischen Denkmälern aus der osmanischen Zeit. Bis zum Mittag schlendern Sie durch verwinkelte Gassen und entdecken den spirituellen Kern der Altstadt. Am Nachmittag geht die Reise weiter mit beeindruckenden Moscheen am Hang und weiten Ausblicken. Sie lassen den Abend bei den letzten ruhigen Stationen dieser antiken Stadt besinnlich ausklingen.",
+        "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
+        "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
+        "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 3.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manisa-Museum",
+            "hu": "Manisa Múzeum",
+            "ro": "Muzeul Manisa",
+            "en": "Manisa Müzesi"
+          },
+          "coords": [
+            27.401075,
+            38.614846
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Manisa-Museum in die regionale Geschichte ein und planen Sie mindestens eine Stunde ein, um die antiken Mosaike und archäologischen Funde zu bewundern.",
+            "hu": "Merüljön el a régió történelmében a Manisa Múzeumban, gazdag régészeti leleteivel, és szánjon legalább egy órát az ősi mozaikok és szobrok teljes megismerésére.",
+            "ro": "Cufundați-vă în istoria regională la Muzeul Manisa cu bogatele sale descoperiri arheologice și alocați cel puțin o oră pentru a aprecia pe deplin mozaicurile și statuile antice.",
+            "en": "Immerse yourself in regional history at the Manisa Museum with its rich archaeological finds, and allocate at least an hour to fully appreciate the ancient mosaics and statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Arap Alanı-Moschee",
+            "hu": "Arap Alanı-mecset",
+            "ro": "Moscheea Arap Alanı",
+            "en": "Arap Alanı Camii"
+          },
+          "coords": [
+            27.416867,
+            38.606833
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Beobachten Sie den einzigartigen Gemeinschaftscharakter der Arap Alanı-Moschee, wo leicht ausziehbare Schuhe den Zugang zum mit Teppich ausgelegten Bereich erleichtern.",
+            "hu": "Figyelje meg az Arap Alanı-mecset egyedi közösségi jellegét, egy igazi helyi kincset, ahol a könnyen levehető cipők viselése sokkal kényelmesebbé teszi a belépést.",
+            "ro": "Observați caracterul comunitar unic al Moscheii Arap Alanı, o bijuterie de cartier unde purtarea unor pantofi ușor de descălțat face intrarea mult mai convenabilă.",
+            "en": "Observe the unique community character of Arap Alanı Camii, a neighborhood gem where wearing easily removable shoes makes entering the carpeted area much more convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaköy Attar Hoca Moschee",
+            "hu": "Karaköy Attar Hoca-mecset",
+            "ro": "Moscheea Karaköy Attar Hoca",
+            "en": "Karaköy Attar Hoca Camii"
+          },
+          "coords": [
+            27.420244,
+            38.608639
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefen lokalen Wurzeln der Karaköy Attar Hoca Moschee, einem bescheidenen, spirituellen Ort, der sich perfekt für eine kurze Pause vom Trubel der Stadt eignet.",
+            "hu": "Tapasztalja meg a mély helyi gyökereket a Karaköy Attar Hoca-mecsetben, egy szerény, mégis nagy tiszteletben álló spirituális helyszínen, amely tökéletes egy rövid pihenőre.",
+            "ro": "Experimentați rădăcinile locale profunde la Moscheea Karaköy Attar Hoca, un loc spiritual modest, dar venerat, perfect pentru o scurtă pauză de la străzile aglomerate ale orașului.",
+            "en": "Experience the deep local roots at Karaköy Attar Hoca Camii, a modest yet highly revered spiritual site perfect for a brief break from the bustling city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Hacı Yahya Moschee",
+            "hu": "Hacı Yahya-mecset",
+            "ro": "Moscheea Hacı Yahya",
+            "en": "Hacı Yahya Camii"
+          },
+          "coords": [
+            27.419238,
+            38.608427
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das traditionelle Mauerwerk der Hacı Yahya Moschee in der Altstadt und denken Sie daran, ein Kopftuch mitzunehmen, wenn Sie diesen Ort betreten möchten.",
+            "hu": "Csodálja meg a régi negyedben megbúvó Hacı Yahya-mecset hagyományos falazatát, és ne felejtsen el kendőt vinni magával, ha be szeretne menni az épületbe.",
+            "ro": "Minunați-vă de zidăria tradițională a Moscheii Hacı Yahya ascunsă în cartierul vechi și amintiți-vă să purtați o eșarfă dacă intenționați să intrați în timpul explorărilor.",
+            "en": "Marvel at the traditional masonry of Hacı Yahya Camii tucked away in the older district, and remember to carry a scarf if you plan to enter during your local explorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Moschee",
+            "hu": "Sultan-mecset",
+            "ro": "Moscheea Sultan",
+            "en": "Sultan Camii"
+          },
+          "coords": [
+            27.427271,
+            38.61081
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante osmanische Architektur der Sultan-Moschee, die für Ayşe Hafsa Sultan erbaut wurde, und besuchen Sie den Innenhof früh, um der Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg a Sultan-mecset elegáns oszmán építészetét, amelyet Ayşe Hafsa szultánának építettek, és érkezzen korán, hogy elkerülje a déli hőséget a békés udvaron.",
+            "ro": "Admirați arhitectura otomană elegantă a moscheii Sultan, construită pentru Ayşe Hafsa Sultan, și vizitați curtea devreme pentru a evita căldura amiezii într-o liniște deplină.",
+            "en": "Admire the elegant Ottoman architecture of Sultan Camii, built for Ayşe Hafsa Sultan, and visit early to experience the peaceful courtyard before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu-Moschee",
+            "hu": "Ulu-mecset",
+            "ro": "Moscheea Ulu",
+            "en": "Ulu Camii"
+          },
+          "coords": [
+            27.430136,
+            38.608104
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Ulu-Moschee aus der Seldschukenzeit am Hang des Berges Spil und genießen Sie den Panoramablick über die Stadt von der erhöhten Terrasse.",
+            "hu": "Fedezze fel a lenyűgöző szeldzsuk kori Ulu-mecsetet a Spil-hegy lejtőin, és szánjon egy pillanatot a városra nyíló panorámás kilátás megcsodálására a magaslati teraszról.",
+            "ro": "Explorați impresionanta Moschee Ulu din epoca selgiucizilor de pe pantele Muntelui Spil și rezervați-vă un moment pentru a vă bucura de priveliștea panoramică a orașului.",
+            "en": "Explore the striking Seljuk-era Ulu Camii on the slopes of Mount Spil, where you should take a moment to enjoy the panoramic views over the city from its elevated terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Dervişali-Moschee",
+            "hu": "Dervişali-mecset",
+            "ro": "Moscheea Dervişali",
+            "en": "Dervişali Camii"
+          },
+          "coords": [
+            27.430946,
+            38.616298
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an der Dervişali-Moschee, die für ihr markantes Minarett bekannt ist und einen perfekten, besinnlichen Abschluss für einen Tag voller historischer Sehenswürdigkeiten bietet.",
+            "hu": "Fejezze be spirituális túráját a Dervişali-mecsetnél, amely jellegzetes minaretjéről ismert, és tökéletes, elmélkedő lezárást kínál egy történelmi városnézéssel teli napnak.",
+            "ro": "Încheiați turul dumneavoastră spiritual la Moscheea Dervişali, remarcabilă pentru minaretul său distinct și împrejurimile calme, oferind un final perfect pentru o zi de vizitare.",
+            "en": "Conclude your spiritual tour at Dervişali Camii, notable for its distinct minaret and calm surroundings, offering a perfect reflective end to a day of historical sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Manisa beginnt mit den großen historischen Denkmälern aus der osmanischen Zeit. Bis zum Mittag schlendern Sie durch verwinkelte Gassen und entdecken den spirituellen Kern der Altstadt. Am Nachmittag geht die Reise weiter mit beeindruckenden Moscheen am Hang und weiten Ausblicken. Sie lassen den Abend bei den letzten ruhigen Stationen dieser antiken Stadt besinnlich ausklingen.",
+        "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
+        "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
+        "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 4.93,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Manisa-Museum",
+            "hu": "Manisa Múzeum",
+            "ro": "Muzeul Manisa",
+            "en": "Manisa Müzesi"
+          },
+          "coords": [
+            27.401075,
+            38.614846
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Manisa-Museum in die regionale Geschichte ein und planen Sie mindestens eine Stunde ein, um die antiken Mosaike und archäologischen Funde zu bewundern.",
+            "hu": "Merüljön el a régió történelmében a Manisa Múzeumban, gazdag régészeti leleteivel, és szánjon legalább egy órát az ősi mozaikok és szobrok teljes megismerésére.",
+            "ro": "Cufundați-vă în istoria regională la Muzeul Manisa cu bogatele sale descoperiri arheologice și alocați cel puțin o oră pentru a aprecia pe deplin mozaicurile și statuile antice.",
+            "en": "Immerse yourself in regional history at the Manisa Museum with its rich archaeological finds, and allocate at least an hour to fully appreciate the ancient mosaics and statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Arap Alanı-Moschee",
+            "hu": "Arap Alanı-mecset",
+            "ro": "Moscheea Arap Alanı",
+            "en": "Arap Alanı Camii"
+          },
+          "coords": [
+            27.416867,
+            38.606833
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Beobachten Sie den einzigartigen Gemeinschaftscharakter der Arap Alanı-Moschee, wo leicht ausziehbare Schuhe den Zugang zum mit Teppich ausgelegten Bereich erleichtern.",
+            "hu": "Figyelje meg az Arap Alanı-mecset egyedi közösségi jellegét, egy igazi helyi kincset, ahol a könnyen levehető cipők viselése sokkal kényelmesebbé teszi a belépést.",
+            "ro": "Observați caracterul comunitar unic al Moscheii Arap Alanı, o bijuterie de cartier unde purtarea unor pantofi ușor de descălțat face intrarea mult mai convenabilă.",
+            "en": "Observe the unique community character of Arap Alanı Camii, a neighborhood gem where wearing easily removable shoes makes entering the carpeted area much more convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Moschee",
+            "hu": "Sultan-mecset",
+            "ro": "Moscheea Sultan",
+            "en": "Sultan Camii"
+          },
+          "coords": [
+            27.427271,
+            38.61081
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante osmanische Architektur der Sultan-Moschee, die für Ayşe Hafsa Sultan erbaut wurde, und besuchen Sie den Innenhof früh, um der Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg a Sultan-mecset elegáns oszmán építészetét, amelyet Ayşe Hafsa szultánának építettek, és érkezzen korán, hogy elkerülje a déli hőséget a békés udvaron.",
+            "ro": "Admirați arhitectura otomană elegantă a moscheii Sultan, construită pentru Ayşe Hafsa Sultan, și vizitați curtea devreme pentru a evita căldura amiezii într-o liniște deplină.",
+            "en": "Admire the elegant Ottoman architecture of Sultan Camii, built for Ayşe Hafsa Sultan, and visit early to experience the peaceful courtyard before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu-Moschee",
+            "hu": "Ulu-mecset",
+            "ro": "Moscheea Ulu",
+            "en": "Ulu Camii"
+          },
+          "coords": [
+            27.430136,
+            38.608104
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Ulu-Moschee aus der Seldschukenzeit am Hang des Berges Spil und genießen Sie den Panoramablick über die Stadt von der erhöhten Terrasse.",
+            "hu": "Fedezze fel a lenyűgöző szeldzsuk kori Ulu-mecsetet a Spil-hegy lejtőin, és szánjon egy pillanatot a városra nyíló panorámás kilátás megcsodálására a magaslati teraszról.",
+            "ro": "Explorați impresionanta Moschee Ulu din epoca selgiucizilor de pe pantele Muntelui Spil și rezervați-vă un moment pentru a vă bucura de priveliștea panoramică a orașului.",
+            "en": "Explore the striking Seljuk-era Ulu Camii on the slopes of Mount Spil, where you should take a moment to enjoy the panoramic views over the city from its elevated terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Göktaşlı-Moschee",
+            "hu": "Göktaşlı-mecset",
+            "ro": "Moscheea Göktaşlı",
+            "en": "Göktaşlı Mosque"
+          },
+          "coords": [
+            27.433295,
+            38.609121
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die filigranen Details der Göktaşlı-Moschee, einer kleineren, aber wunderschön erhaltenen Stätte, an der zu den Gebetszeiten strenge Kleidungsvorschriften gelten.",
+            "hu": "Fedezze fel a Göktaşlı-mecset finom részleteit, egy kisebb, de gyönyörűen megőrzött vallási helyszínt, ahol az imaidők alatt szigorúan betartják a konzervatív öltözködést.",
+            "ro": "Descoperiți detaliile complicate ale Moscheii Göktaşlı, un sit religios mai mic, dar frumos conservat, unde ținuta conservatoare este strict respectată în timpul rugăciunilor locale.",
+            "en": "Discover the intricate details of Göktaşlı Mosque, a smaller but beautifully preserved religious site where conservative dress is strictly observed during local prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Hatuniye-Moschee",
+            "hu": "Hatuniye-mecset",
+            "ro": "Moscheea Hatuniye",
+            "en": "Hatuniye Cami"
+          },
+          "coords": [
+            27.434145,
+            38.612849
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kulturell bedeutsame Hatuniye-Moschee, die für ihr elegantes Minarett bekannt ist und sich ideal für eine ruhige Besinnung am späten Vormittag eignet.",
+            "hu": "Látogasson el a kulturálisan jelentős Hatuniye-mecsethez, amely elegáns minaretjéről ismert, és tökéletes helyszínt nyújt egy kis csendes elmélkedéshez a késő délelőtt folyamán.",
+            "ro": "Vizitați Moscheea Hatuniye, semnificativă cultural, cunoscută pentru minaretul său elegant și atmosfera senină, perfectă pentru reflecție liniștită la sfârșitul dimineții.",
+            "en": "Visit the culturally significant Hatuniye Cami, known for its elegant minaret and serene atmosphere, making it a perfect spot for quiet reflection in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaybey-Moschee",
+            "hu": "Alaybey-mecset",
+            "ro": "Moscheea Alaybey",
+            "en": "Alaybey Camii"
+          },
+          "coords": [
+            27.438952,
+            38.614145
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die historische Alaybey-Moschee, um ihre klassischen architektonischen Linien zu bewundern, und respektieren Sie die Gläubigen, indem Sie im Gebetssaal leise sprechen.",
+            "hu": "Lépjen be a történelmi Alaybey-mecsetbe, hogy értékelje klasszikus építészeti vonalait, és tisztelje a helyi hívőket azzal, hogy az imateremben csak halkan beszél.",
+            "ro": "Intrați în istorica Moschee Alaybey pentru a-i aprecia liniile arhitecturale clasice și asigurați-vă că respectați credincioșii vorbind încet în interiorul sălii de rugăciune.",
+            "en": "Step into the historical Alaybey Camii to appreciate its classic architectural lines, and make sure to respect the local worshippers by speaking softly within the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Dervişali-Moschee",
+            "hu": "Dervişali-mecset",
+            "ro": "Moscheea Dervişali",
+            "en": "Dervişali Camii"
+          },
+          "coords": [
+            27.430946,
+            38.616298
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an der Dervişali-Moschee, die für ihr markantes Minarett bekannt ist und einen perfekten, besinnlichen Abschluss für einen Tag voller historischer Sehenswürdigkeiten bietet.",
+            "hu": "Fejezze be spirituális túráját a Dervişali-mecsetnél, amely jellegzetes minaretjéről ismert, és tökéletes, elmélkedő lezárást kínál egy történelmi városnézéssel teli napnak.",
+            "ro": "Încheiați turul dumneavoastră spiritual la Moscheea Dervişali, remarcabilă pentru minaretul său distinct și împrejurimile calme, oferind un final perfect pentru o zi de vizitare.",
+            "en": "Conclude your spiritual tour at Dervişali Camii, notable for its distinct minaret and calm surroundings, offering a perfect reflective end to a day of historical sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Manisa beginnt mit den großen historischen Denkmälern aus der osmanischen Zeit. Bis zum Mittag schlendern Sie durch verwinkelte Gassen und entdecken den spirituellen Kern der Altstadt. Am Nachmittag geht die Reise weiter mit beeindruckenden Moscheen am Hang und weiten Ausblicken. Sie lassen den Abend bei den letzten ruhigen Stationen dieser antiken Stadt besinnlich ausklingen.",
+        "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
+        "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
+        "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      }
+    }
+  }
+}

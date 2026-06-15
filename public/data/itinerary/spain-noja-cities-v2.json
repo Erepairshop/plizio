@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-noja-cities-v2",
+  "anchor": {
+    "name": "Noja",
+    "coords": [
+      -3.52101,
+      43.48133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa-palacio de Cilla",
+            "hu": "Casa-palacio de Cilla",
+            "ro": "Casa-palacio de Cilla",
+            "en": "Casa-palacio de Cilla"
+          },
+          "coords": [
+            -3.529642,
+            43.478985
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses historischen Palastes, und achten Sie auf die steinernen Wappen, die eine lange Familiengeschichte erzählen.",
+            "hu": "Csodálja meg a történelmi palota masszív kőépítészetét, és figyelje meg a faragott címereket, amelyek gazdag családi múltról mesélnek.",
+            "ro": "Admirați arhitectura robustă a acestui palat istoric și căutați blazoanele din piatră care povestesc despre un trecut familial bogat.",
+            "en": "Admire the robust architecture of this historic palace, and look closely at the carved stone coats of arms that hint at a rich family history."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorio de aves de la Marisma Victoria",
+            "hu": "Observatorio de aves de la Marisma Victoria",
+            "ro": "Observatorio de aves de la Marisma Victoria",
+            "en": "Observatorio de aves de la Marisma Victoria"
+          },
+          "coords": [
+            -3.513561,
+            43.472817
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältige Vogelwelt in diesen ruhigen Feuchtgebieten; bringen Sie ein Fernglas mit, um die Zugvögel besser sehen zu können.",
+            "hu": "Figyelje meg a változatos madárvilágot ezen a csendes vizenyős területen; érdemes távcsövet hozni a vonuló madarak jobb megfigyeléséhez.",
+            "ro": "Observați diversitatea de păsări din aceste zone umede liniștite; aduceți un binoclu pentru o vedere mai bună a speciilor migratoare.",
+            "en": "Observe the diverse birdlife thriving in these quiet wetlands; bring binoculars to get a closer look at the seasonal migratory species."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Ris",
+            "hu": "Playa de Ris",
+            "ro": "Playa de Ris",
+            "en": "Playa de Ris"
+          },
+          "coords": [
+            -3.529396,
+            43.492149
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, feinen Sandstrand, der ideal für einen ausgedehnten Spaziergang am Meer oder ein erfrischendes Bad am Vormittag ist.",
+            "hu": "Élvezze a hosszú, finom homokos tengerpartot, amely tökéletes egy kellemes tengerparti sétához vagy egy frissítő délelőtti fürdőzéshez.",
+            "ro": "Bucurați-vă de întinderea largă de nisip fin, locul perfect pentru o plimbare relaxantă pe țărm sau o baie revigorantă de dimineață.",
+            "en": "Enjoy the wide expanse of fine golden sand, making it the perfect spot for a leisurely stroll by the sea or a refreshing morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Monte de la Cabra",
+            "hu": "Mirador Monte de la Cabra",
+            "ro": "Mirador Monte de la Cabra",
+            "en": "Mirador Monte de la Cabra"
+          },
+          "coords": [
+            -3.534302,
+            43.493519
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Aussichtspunkt für ein spektakuläres Panorama über die Küste und das Meer; der kurze Anstieg lohnt sich absolut.",
+            "hu": "Másszon fel erre a kilátópontra, ahonnan látványos panoráma nyílik a tengerpartra; a rövid, de meredek séta mindenképpen megéri az erőfeszítést.",
+            "ro": "Urcați la acest punct de belvedere pentru o panoramă spectaculoasă asupra coastei și a oceanului; scurta urcare merită cu siguranță efortul.",
+            "en": "Climb up to this viewpoint for a spectacular panoramic sweep of the coastline and the sea; the short ascent is absolutely worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Cuarezo",
+            "hu": "Playa Cuarezo",
+            "ro": "Playa Cuarezo",
+            "en": "Playa Cuarezo"
+          },
+          "coords": [
+            -3.540499,
+            43.492797
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser intimeren Bucht, wo die schützenden Felsen eine ruhige und windgeschützte Atmosphäre für Sonnenbader schaffen.",
+            "hu": "Pihenjen meg ebben a meghittebb öbölben, ahol a sziklák természetes védelmet nyújtanak a szél ellen, tökéletes környezetet teremtve a napozáshoz.",
+            "ro": "Relaxați-vă în acest golf mai intim, unde stâncile oferă protecție naturală împotriva vântului, creând o atmosferă ideală pentru plajă.",
+            "en": "Relax at this more intimate cove, where the surrounding rocks provide natural shelter from the wind, creating a perfect atmosphere for sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Los Cuarezos",
+            "hu": "Cala Los Cuarezos",
+            "ro": "Cala Los Cuarezos",
+            "en": "Cala Los Cuarezos"
+          },
+          "coords": [
+            -3.544001,
+            43.494244
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser idyllischen Bucht ausklingen; die bei Ebbe freigelegten Felsenpools sind ein faszinierendes Paradies für Entdecker.",
+            "hu": "Zárja a napot ezen az idilli öbölben; az apálykor előbukkanó sziklamedencék lenyűgöző felfedeznivalót kínálnak a természetkedvelőknek.",
+            "ro": "Încheiați ziua în acest golf idilic; la reflux, bazinele naturale din stânci devin un paradis fascinant pentru explorarea vieții marine.",
+            "en": "End your day at this idyllic little cove; the rock pools exposed at low tide offer a fascinating mini-ecosystem for curious explorers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am historischen Casa-palacio de Cilla, bevor Sie durch die Natur zum Victoria-Feuchtgebiet spazieren. Mittags lockt der weitläufige Sandstrand Playa de Ris zur Entspannung am Meer. Nachmittags steigen Sie zum Mirador Monte de la Cabra hinauf, um das Panorama zu bewundern. Abends laden die felsigen Buchten Cuarezo und Cala Los Cuarezos zum Ausklang ein.",
+        "hu": "Kezdje a napot a történelmi Casa-palacio de Cilla-nál, majd tegyen egy sétát a Victoria vizes élőhely madaraihoz. Délben a Playa de Ris tágas homokos partja kínál tökéletes tengerparti kikapcsolódást. Délután másszon fel a Mirador Monte de la Cabra kilátóhoz a lenyűgöző panorámáért. Este a Cuarezo és a Cala Los Cuarezos sziklás öbleiben pihenheti ki magát.",
+        "ro": "Începeți la istoricul Casa-palacio de Cilla, apoi plimbați-vă spre zonele umede Victoria. La prânz, plaja întinsă Playa de Ris vă așteaptă pentru relaxare pe coastă. După-amiaza, urcați la punctul de belvedere Monte de la Cabra pentru o panoramă uimitoare a mării. Seara, încheiați ziua explorând golfurile stâncoase fermecătoare Cuarezo și Cala Los Cuarezos.",
+        "en": "Start at the historic Casa-palacio de Cilla before a nature walk to the Victoria wetlands to spot migrating birds. Midday brings you to the expansive Playa de Ris for coastal relaxation. In the afternoon, head up to the Monte de la Cabra viewpoint for breathtaking Cantabrian Sea vistas. Wind down your evening exploring the rocky, golden coves of Cuarezo and Los Cuarezos."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de las Marismas",
+            "hu": "Casa de las Marismas",
+            "ro": "Casa de las Marismas",
+            "en": "Casa de las Marismas"
+          },
+          "coords": [
+            -3.547062,
+            43.48158
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem Zentrum das Ökosystem der Feuchtgebiete kennen, bevor Sie mit dem Rad direkt zu den faszinierenden Salzwiesen fahren.",
+            "hu": "Ismerkedjen meg a vizes élőhelyek ökoszisztémájával ebben a központban, mielőtt közvetlenül a sós mocsarakhoz tekerne.",
+            "ro": "Învățați despre ecosistemul zonelor umede la acest centru înainte de a pedala direct pentru a vedea mlaștinile sărate îndeaproape.",
+            "en": "Learn about the wetland ecosystem at this informative center before cycling directly out to see the fascinating salt marshes up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Mareas",
+            "hu": "Casa de las Mareas",
+            "ro": "Casa de las Mareas",
+            "en": "Casa de las Mareas"
+          },
+          "coords": [
+            -3.546498,
+            43.482958
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie, wie die Gezeiten die lokale Geschichte prägten; die interaktiven Ausstellungen bieten einen tollen Kontext für Ihre Radtour.",
+            "hu": "Fedezze fel, hogyan formálta az árapály a helyi történelmet; az interaktív kiállítások remek hátteret adnak a tengerparti tekeréshez.",
+            "ro": "Descoperiți cum mareele au modelat istoria locală; expozițiile interactive oferă un context excelent pentru plimbarea dumneavoastră pe coastă.",
+            "en": "Discover how tides shaped the local history; the interactive exhibits here offer a great context for your coastal cycling adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de Santa Olaja",
+            "hu": "Molino de Santa Olaja",
+            "ro": "Molino de Santa Olaja",
+            "en": "Molino de Santa Olaja"
+          },
+          "coords": [
+            -3.549399,
+            43.48618
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gut erhaltene Gezeitenmühle, um die geniale historische Ingenieurskunst zu verstehen, die die Kraft des Ozeans nutzte.",
+            "hu": "Fedezze fel ezt a kiválóan megőrzött árapálymalmot, hogy megértse azt a zseniális mérnöki munkát, amely az óceán erejét hasznosította.",
+            "ro": "Explorați această moară de maree bine conservată pentru a înțelege ingineria istorică ingenioasă care a valorificat puterea oceanului.",
+            "en": "Explore this remarkably preserved tidal mill to understand the ingenious historical engineering that harnessed the power of the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino del Joyel",
+            "hu": "Molino del Joyel",
+            "ro": "Molino del Joyel",
+            "en": "Molino del Joyel"
+          },
+          "coords": [
+            -3.541011,
+            43.486578
+          ],
+          "category": "historical",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie ein weiteres schönes Beispiel der lokalen Mühlengeschichte; machen Sie hier eine Pause, um die friedliche Landschaft zu genießen.",
+            "hu": "Tekintsen meg egy másik szép példát a helyi malomiparra; tartson itt pihenőt, és élvezze a történelem és a természet békés találkozását.",
+            "ro": "Vedeți un alt exemplu frumos al moștenirii locale a morilor; faceți o pauză aici pentru a aprecia peisajul natural liniștit.",
+            "en": "See another fine example of local milling heritage; pause here to appreciate the peaceful blend of natural scenery and rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de animales Joyel",
+            "hu": "Parque de animales Joyel",
+            "ro": "Parque de animales Joyel",
+            "en": "Parque de animales Joyel"
+          },
+          "coords": [
+            -3.54379,
+            43.488385
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause von den historischen Stätten, um die regionale Tierwelt in einer weitläufigen, natürlichen Umgebung zu beobachten.",
+            "hu": "Tartson szünetet a történelmi látnivalók között, és figyelje meg a regionális vadvilágot egy tágas, természetes környezetben.",
+            "ro": "Luați o pauză de la siturile istorice pentru a observa fauna regională într-un mediu natural, spațios, potrivit pentru o plimbare scurtă.",
+            "en": "Take a break from historical sites to observe regional wildlife in a spacious, natural environment suitable for a quick, relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Cava",
+            "hu": "Playa de la Cava",
+            "ro": "Playa de la Cava",
+            "en": "Playa de la Cava"
+          },
+          "coords": [
+            -3.548677,
+            43.490896
+          ],
+          "category": "recreational",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer wohlverdienten Pause an diesem schönen Strand und parken Sie Ihr Rad sicher, um den Sonnenuntergang zu genießen.",
+            "hu": "Fejezze be kerékpártúráját ezen a gyönyörű strandon, biztonságosan leparkolva a biciklit, hogy kiélvezhesse a csodás naplementét.",
+            "ro": "Încheiați traseul de ciclism cu o odihnă binemeritată pe această plajă frumoasă, lăsând bicicleta parcată în siguranță pentru a admira apusul.",
+            "en": "End your cycling route with a well-deserved rest on this beautiful beach, leaving your bike securely parked to enjoy the sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch Nojas lehrreiches Zentrum, beginnend mit Casa de las Marismas und der Gezeitenausstellung Casa de las Mareas. Mittags erkunden Sie die historische Mechanik der restaurierten Mühle Santa Olaja. Nachmittags setzen Sie Ihre Reise zum Molino del Joyel fort und besuchen den nahegelegenen Tierpark. Den Tag beenden Sie entspannt am wunderschönen Strand Playa de la Cava.",
+        "hu": "Tekerjen át Noja oktatási központján, kezdve a Casa de las Marismas-szal és a Casa de las Mareas árapály-kiállításával. Délben fedezze fel a felújított Santa Olaja malom történelmi mechanikáját. Délután folytassa útját a Molino del Joyel felé, majd látogasson el az állatparkba. A napot a gyönyörű Playa de la Cava homokos partján zárhatja egy jól megérdemelt pihenéssel.",
+        "ro": "Pedalați prin inima educațională a orașului Noja, începând cu Casa de las Marismas și expoziția despre maree Casa de las Mareas. La amiază, explorați mecanica istorică a morii restaurate Santa Olaja. După-amiaza, continuați călătoria la Molino del Joyel, urmată de o vizită la parcul de animale din apropiere. Terminați ziua pe nisipul relaxant al plajei Playa de la Cava.",
+        "en": "Pedal through Noja's educational heart, starting with the Casa de las Marismas and the tide-focused Casa de las Mareas. Midday, cycle towards the coastal mills to explore the fascinating mechanics of Molino de Santa Olaja. Continue your afternoon journey of heritage at Molino del Joyel and the adjacent animal park. Finish the day unwinding on the beautiful sands of Playa de la Cava."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatorio de aves de la Marisma Victoria",
+            "hu": "Observatorio de aves de la Marisma Victoria",
+            "ro": "Observatorio de aves de la Marisma Victoria",
+            "en": "Observatorio de aves de la Marisma Victoria"
+          },
+          "coords": [
+            -3.513561,
+            43.472817
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe für einen kurzen Spaziergang zur Aussichtsplattform; morgens lassen sich Reiher und andere Wasservögel am besten beobachten.",
+            "hu": "Parkoljon a közelben, és sétáljon el a kilátóhoz; a reggelek a legjobbak a gémek és más vízimadarak megfigyelésére.",
+            "ro": "Parcați în apropiere pentru o scurtă plimbare până la platforma de observație; diminețile sunt cele mai bune pentru a vedea stârci și alte păsări.",
+            "en": "Park nearby and take a short walk to the observation deck; mornings are best for spotting herons and other beautiful wetland bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Evecan",
+            "hu": "Evecan",
+            "ro": "Evecan",
+            "en": "Evecan"
+          },
+          "coords": [
+            -3.54084,
+            43.478189
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bemerkenswerte lokale Wahrzeichen; es bietet einen faszinierenden Einblick in die kulturelle Vergangenheit der Region.",
+            "hu": "Látogasson el ehhez a figyelemre méltó helyi nevezetességhez; lenyűgöző bepillantást nyújt a régió kulturális múltjába.",
+            "ro": "Vizitați acest punct de reper local notabil; oferă o privire fascinantă asupra trecutului cultural al regiunii înainte de a conduce mai departe.",
+            "en": "Visit this notable local landmark; it offers a quick but fascinating glimpse into the region's cultural past before driving onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de Santa Olaja",
+            "hu": "Molino de Santa Olaja",
+            "ro": "Molino de Santa Olaja",
+            "en": "Molino de Santa Olaja"
+          },
+          "coords": [
+            -3.549399,
+            43.48618
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung durch diese restaurierte Gezeitenmühle teil, um die beeindruckende Holzmechanik bei Flut in Aktion zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán ebben az árapálymalomban, hogy működés közben láthassa a lenyűgöző famachinériát a dagály idején.",
+            "ro": "Faceți turul ghidat al acestei mori de maree restaurate pentru a vedea mașinăriile sale impresionante din lemn în acțiune în timpul fluxului.",
+            "en": "Take the guided tour of this restored tidal mill to see its impressive wooden machinery in action during the dramatic tidal changes."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Barcos",
+            "hu": "Playa de los Barcos",
+            "ro": "Playa de los Barcos",
+            "en": "Playa de los Barcos"
+          },
+          "coords": [
+            -3.543096,
+            43.495874
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie an die Küste zu diesem malerischen Strand, wo oft alte Fischerboote ruhen und wunderbare Fotomotive bieten.",
+            "hu": "Vezessen a partra ehhez a festői strandhoz, ahol a megpihenő régi halászcsónakok csodálatos fotózási lehetőségeket kínálnak.",
+            "ro": "Conduceți spre coastă și bucurați-vă de această plajă pitorească unde bărcile vechi de pescuit oferă oportunități fotografice minunate.",
+            "en": "Drive to the coast and enjoy this picturesque beach where old fishing boats often rest, offering wonderful and rustic photographic opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Monte de la Cabra",
+            "hu": "Mirador Monte de la Cabra",
+            "ro": "Mirador Monte de la Cabra",
+            "en": "Mirador Monte de la Cabra"
+          },
+          "coords": [
+            -3.534302,
+            43.493519
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Fuß des Hügels und gehen Sie das letzte Stück zu Fuß, um fantastische Panoramafotos der rauen Küste zu machen.",
+            "hu": "Hajtson a domb lábához, és tegye meg gyalog az utolsó szakaszt, hogy lenyűgöző panorámaképeket készíthessen a zord kantábriai partvidékről.",
+            "ro": "Conduceți până la bază și mergeți ultima porțiune pe jos spre belvedere, asigurându-vă că faceți fotografii panoramice ale coastei accidentate.",
+            "en": "Drive up to the base and walk the final stretch to the overlook, ensuring you capture panoramic photos of the rugged Cantabrian coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Ris",
+            "hu": "Playa de Ris",
+            "ro": "Playa de Ris",
+            "en": "Playa de Ris"
+          },
+          "coords": [
+            -3.529396,
+            43.492149
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Abend und machen Sie einen gemütlichen Spaziergang bei Sonnenuntergang entlang dieses weitläufigen, goldenen Strandes.",
+            "hu": "Parkolja le autóját estére, és tegyen egy kellemes naplementés sétát ezen a hatalmas kiterjedésű, aranyhomokos strandon.",
+            "ro": "Parcați mașina pentru seară și faceți o plimbare relaxantă la apus de-a lungul acestei plaje expansive, cunoscută pentru nisipul său auriu.",
+            "en": "Park your car for the evening and take a leisurely sunset walk along this expansive beach, well known for its golden sand and lovely surf."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Vogelbeobachtung in die Victoria-Feuchtgebiete und erkunden Sie anschließend das kulturelle Wahrzeichen Evecan. Mittags besichtigen Sie die wunderschön restaurierte Gezeitenmühle Santa Olaja. Am Nachmittag fahren Sie zur Nordküste, halten am Playa de los Barcos und genießen die Aussicht vom Monte de la Cabra. Abends lockt der Strand Playa de Ris.",
+        "hu": "Autózzon reggel a Victoria vizes élőhelyekre madárlesre, majd fedezze fel Evecan kulturális nevezetességét. Délben látogasson el a gyönyörűen felújított Santa Olaja árapálymalomba. Délután vegye az irányt az északi part felé, álljon meg a Playa de los Barcos-nál, és élvezze a kilátást a Monte de la Cabra-ról. Az estét a hatalmas Playa de Ris homokos tengerpartján zárhatja.",
+        "ro": "Conduceți dimineața spre zonele umede Victoria, apoi îndreptați-vă spre vest pentru a explora reperul cultural Evecan. La prânz, vizitați moara de maree Santa Olaja, frumos restaurată. După-amiaza, mergeți pe coasta de nord, oprindu-vă la Playa de los Barcos pentru a admira priveliștea de la Monte de la Cabra. Seara, concluzionați traseul pe superba plajă Playa de Ris.",
+        "en": "Drive to the Victoria wetlands for early birdwatching, then head west to explore the cultural landmark of Evecan. Midday, visit the beautifully restored Molino de Santa Olaja to see the ancient tidal mills. In the afternoon, cruise to the northern coast, stopping at Playa de los Barcos before taking in the Monte de la Cabra views. Conclude your evening walking Playa de Ris."
+      }
+    }
+  }
+}

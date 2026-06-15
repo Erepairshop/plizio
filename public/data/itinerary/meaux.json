@@ -1,0 +1,589 @@
+{
+  "city_id": "meaux",
+  "anchor": {
+    "name": "Meaux",
+    "coords": [
+      2.8878,
+      48.9594
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Hôtel de Ville)",
+            "hu": "Városháza (Hôtel de Ville)",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            2.877896,
+            48.958424
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses im Herzen von Meaux und machen Sie ein Foto vom Vorplatz, bevor es voll wird.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét Meaux szívében, és készítsen egy korai fotót a tágas előtérről, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice din inima orașului Meaux și faceți o fotografie din piațeta frontală înainte de aglomerație.",
+            "en": "Admire the elegant architecture of this historic town hall in the heart of Meaux, and snap a quick photo from the front plaza before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Saint-Étienne Katedrális",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            2.878876,
+            48.960292
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende gotische Pracht dieser Kathedrale, deren Bauhütte Jahrhunderte überspannte, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek a gótikus katedrálisnak a lenyűgöző pompáját, amelynek építése évszázadokig tartott, és szenteljen különös figyelmet a színes üvegablakoknak.",
+            "ro": "Descoperiți splendoarea gotică a acestei catedrale a cărei construcție a durat secole, acordând o atenție deosebită magnificelor vitralii luminoase.",
+            "en": "Discover the stunning Gothic splendor of this cathedral whose construction spanned centuries, paying special attention to the magnificent stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Brie de Meaux",
+            "hu": "Maison du Brie de Meaux",
+            "ro": "Maison du Brie de Meaux",
+            "en": "Maison du Brie de Meaux"
+          },
+          "coords": [
+            2.877985,
+            48.960572
+          ],
+          "category": "culinary",
+          "arrive_at": "10:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des berühmten Brie-Käses ein und nehmen Sie an einer Verkostung teil, um den authentischen Geschmack der Region zu erleben.",
+            "hu": "Merüljön el a híres Brie sajt történetében ezen az interaktív kiállításon, és mindenképpen vegyen részt egy kóstolón, hogy átélje a régió ízvilágát.",
+            "ro": "Cufundați-vă în istoria celebrei brânze Brie la această expoziție și asigurați-vă că participați la o degustare pentru a experimenta gustul autentic.",
+            "en": "Dive into the history of the famous Brie cheese at this interactive exhibition, and make sure to join a tasting session to experience the region's authentic flavor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bossuet-Garten",
+            "hu": "Bossuet Kert",
+            "ro": "Grădina Bossuet",
+            "en": "Bossuet Garden"
+          },
+          "coords": [
+            2.87626,
+            48.960608
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschönen, von Le Nôtre entworfenen französischen Garten und genießen Sie die Ruhe auf einer der schattigen Bänke.",
+            "hu": "Pihenjen meg ebben a gyönyörű, Le Nôtre által tervezett, mértani pontosságú francia kertben, és élvezze a békés hangulatot az egyik árnyékos padon.",
+            "ro": "Relaxați-vă în această frumoasă grădină franceză proiectată de celebrul Le Nôtre și bucurați-vă de liniște pe una dintre băncile umbrite ale parcului.",
+            "en": "Relax in this beautifully geometric French garden designed by the famous Le Nôtre, and enjoy the peaceful atmosphere while resting on a shaded bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Luxembourg",
+            "hu": "Luxembourg Színház",
+            "ro": "Teatrul Luxembourg",
+            "en": "Luxembourg Theatre"
+          },
+          "coords": [
+            2.878817,
+            48.954729
+          ],
+          "category": "cultural",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markante Fassade dieses kulturellen Zentrums von Meaux, das sich perfekt für einen kurzen Architektur-Fotostopp auf Ihrem Spaziergang eignet.",
+            "hu": "Csodálja meg Meaux kulturális központjának jellegzetes homlokzatát, amely tökéletes egy rövid, építészeti témájú fotózáshoz a városi sétája során.",
+            "ro": "Admirați fațada distinctivă a acestui centru cultural efervescent din Meaux, care este perfect pentru o scurtă oprire foto în timpul plimbării dumneavoastră.",
+            "en": "Marvel at the distinctive facade of this bustling cultural center in Meaux, which is perfectly suited for a brief architectural photo stop during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Brasserie de Meaux",
+            "hu": "Brasserie de Meaux",
+            "ro": "Brasserie de Meaux",
+            "en": "Brasserie de Meaux"
+          },
+          "coords": [
+            2.879447,
+            48.955115
+          ],
+          "category": "culinary",
+          "arrive_at": "13:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokal gebraute Craft-Bier in dieser gemütlichen Brasserie, die sich ideal für eine erfrischende Pause mit authentischem Flair anbietet.",
+            "hu": "Kóstolja meg a helyben főzött kézműves söröket ebben a hangulatos sörözőben, amely ideális helyszín egy frissítő és autentikus délutáni pihenőhöz.",
+            "ro": "Degustați berea artizanală produsă local în această braserie primitoare, care oferă locul ideal pentru o pauză răcoritoare cu un fler autentic regional.",
+            "en": "Taste the locally brewed craft beer in this welcoming brasserie, which provides an ideal setting for a refreshing break with an authentic regional flair."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Meaux",
+            "hu": "Meaux-i Templom",
+            "ro": "Templul din Meaux",
+            "en": "Temple of Meaux"
+          },
+          "coords": [
+            2.887502,
+            48.958149
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses schlichte, aber historisch bedeutsame protestantische Gotteshaus und beachten Sie die klaren architektonischen Linien des Gebäudes.",
+            "hu": "Látogasson el ebbe az egyszerű, de történelmileg jelentős protestáns templomba, és figyelje meg az épület letisztult, visszafogott építészeti vonalait.",
+            "ro": "Vizitați acest lăcaș de cult protestant simplu, dar plin de importanță istorică, remarcând liniile arhitecturale clare și atmosfera sa contemplativă.",
+            "en": "Visit this simple yet historically significant Protestant place of worship, noting its clean architectural lines and deeply contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Meaux plage",
+            "hu": "Meaux plage",
+            "ro": "Meaux plage",
+            "en": "Meaux plage"
+          },
+          "coords": [
+            2.884162,
+            48.948651
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem charmanten Flussstrand der Marne, der an warmen Tagen der perfekte Ort für ein gemütliches Picknick ist.",
+            "hu": "Élvezze a nyugodt hangulatot a Marne folyó ezen bájos partján, amely meleg napokon tökéletes helyszínt biztosít egy kellemes, vízparti piknikhez.",
+            "ro": "Bucurați-vă de atmosfera relaxată de pe această plajă fermecătoare de pe râul Marne, locul perfect pentru un picnic liniștit în zilele mai călduroase.",
+            "en": "Enjoy the relaxed atmosphere at this charming river beach along the Marne, making it the perfect spot for a leisurely picnic on warmer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Meaux, wo das elegante Rathaus und die majestätische Kathedrale auf Sie warten.\n\nMittags tauchen Sie im Maison du Brie in die kulinarische Geschichte ein, gefolgt von einem entspannten Spaziergang durch den Bossuet-Garten.\n\nDer Nachmittag steht im Zeichen von Kultur und Erfrischung im Theater und in der lokalen Brasserie.\n\nBeenden Sie den Tag entspannt am Marne-Ufer beim Meaux plage.",
+        "hu": "Kezdje a napot Meaux szívében, ahol az elegáns városháza és a fenséges katedrális várja.\n\nDélben merüljön el a kulináris történelemben a Maison du Brie kiállításán, majd tegyen egy pihentető sétát a Bossuet kertben.\n\nA délutánt a kultúra és a felfrissülés jegyében töltse a színháznál és egy helyi sörözőben.\n\nZárja a napot lazítva a Marne partján, a Meaux plage finom homokján.",
+        "ro": "Începeți ziua în inima orașului Meaux, unde vă așteaptă primăria elegantă și catedrala maiestuoasă.\n\nLa amiază, cufundați-vă în istoria culinară la Maison du Brie, urmată de o plimbare prin Grădina Bossuet.\n\nDupă-amiaza este dedicată culturii și reîmprospătării cu opriri la teatru și la o braserie.\n\nÎncheiați ziua relaxându-vă pe malul râului Marne, la fermecătoarea Meaux plage.",
+        "en": "Begin your day in the heart of Meaux, where the elegant Town Hall and majestic cathedral await.\n\nAt midday, dive into culinary history at the Maison du Brie, followed by a relaxing stroll through the Bossuet Garden.\n\nThe afternoon is dedicated to culture and refreshment with stops at the theater and a local brasserie.\n\nConclude your day unwinding along the Marne riverbanks at Meaux plage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Hôtel de Ville)",
+            "hu": "Városháza (Hôtel de Ville)",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            2.877896,
+            48.958424
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses im Herzen von Meaux und machen Sie ein Foto vom Vorplatz, bevor es voll wird.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét Meaux szívében, és készítsen egy korai fotót a tágas előtérről, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice din inima orașului Meaux și faceți o fotografie din piațeta frontală înainte de aglomerație.",
+            "en": "Admire the elegant architecture of this historic town hall in the heart of Meaux, and snap a quick photo from the front plaza before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bossuet-Garten",
+            "hu": "Bossuet Kert",
+            "ro": "Grădina Bossuet",
+            "en": "Bossuet Garden"
+          },
+          "coords": [
+            2.87626,
+            48.960608
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschönen, von Le Nôtre entworfenen französischen Garten und genießen Sie die Ruhe auf einer der schattigen Bänke.",
+            "hu": "Pihenjen meg ebben a gyönyörű, Le Nôtre által tervezett, mértani pontosságú francia kertben, és élvezze a békés hangulatot az egyik árnyékos padon.",
+            "ro": "Relaxați-vă în această frumoasă grădină franceză proiectată de celebrul Le Nôtre și bucurați-vă de liniște pe una dintre băncile umbrite ale parcului.",
+            "en": "Relax in this beautifully geometric French garden designed by the famous Le Nôtre, and enjoy the peaceful atmosphere while resting on a shaded bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Saint-Étienne Katedrális",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            2.878876,
+            48.960292
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende gotische Pracht dieser Kathedrale, deren Bauhütte Jahrhunderte überspannte, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek a gótikus katedrálisnak a lenyűgöző pompáját, amelynek építése évszázadokig tartott, és szenteljen különös figyelmet a színes üvegablakoknak.",
+            "ro": "Descoperiți splendoarea gotică a acestei catedrale a cărei construcție a durat secole, acordând o atenție deosebită magnificelor vitralii luminoase.",
+            "en": "Discover the stunning Gothic splendor of this cathedral whose construction spanned centuries, paying special attention to the magnificent stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Grande Guerre",
+            "hu": "Első Világháború Múzeuma",
+            "ro": "Muzeul Marelui Război",
+            "en": "Museum of the Great War"
+          },
+          "coords": [
+            2.904167,
+            48.971389
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unglaublich umfangreiche Sammlung dieses modernen Museums zum Ersten Weltkrieg und planen Sie genügend Zeit für die interaktiven Displays ein.",
+            "hu": "Fedezze fel az Első Világháború Múzeumának hihetetlenül gazdag gyűjteményét, és szánjon elegendő időt az interaktív, elgondolkodtató kiállítási tárgyakra.",
+            "ro": "Descoperiți colecția incredibil de vastă a acestui muzeu modern dedicat Primului Război Mondial, alocând suficient timp pentru expozițiile interactive.",
+            "en": "Discover the incredibly vast collection of this modern World War I museum, ensuring you allocate plenty of time to explore the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Amerikanisches Denkmal",
+            "hu": "Amerikai Emlékmű",
+            "ro": "Monumentul American",
+            "en": "American Monument"
+          },
+          "coords": [
+            2.905,
+            48.973
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses imposante Denkmal, das an die amerikanische Unterstützung erinnert, und genießen Sie den weiten Blick über das historische Umland.",
+            "hu": "Látogassa meg ezt az impozáns emlékművet, amely az amerikai támogatásnak állít emléket, és élvezze a történelmi tájra nyíló széles, panorámás kilátást.",
+            "ro": "Vizitați acest monument impunător care comemorează sprijinul american și bucurați-vă de o vedere panoramică largă asupra peisajului istoric înconjurător.",
+            "en": "Visit this imposing monument commemorating American support during the war, and take in the wide, panoramic views over the surrounding historic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Pâtis",
+            "hu": "Parc du Pâtis",
+            "ro": "Parc du Pâtis",
+            "en": "Parc du Pâtis"
+          },
+          "coords": [
+            2.889742,
+            48.944373
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen Naturpark mit seinen vielen Seen, der sich wunderbar für die Vogelbeobachtung oder eine kleine Radtour eignet.",
+            "hu": "Sétáljon át ezen a hatalmas, tavakkal teli natúrparkon, amely csodálatos lehetőséget kínál a madármegfigyelésre vagy egy rövidebb, frissítő kerékpározásra.",
+            "ro": "Plimbați-vă prin acest vast parc natural presărat cu lacuri, care este minunat pentru observarea păsărilor sau pentru o scurtă plimbare revigorantă.",
+            "en": "Stroll through this vast nature park dotted with lakes, which is wonderful for bird watching or enjoying a brief, refreshing bike ride along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Meaux plage",
+            "hu": "Meaux plage",
+            "ro": "Meaux plage",
+            "en": "Meaux plage"
+          },
+          "coords": [
+            2.884162,
+            48.948651
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem charmanten Flussstrand der Marne, der an warmen Tagen der perfekte Ort für ein gemütliches Picknick ist.",
+            "hu": "Élvezze a nyugodt hangulatot a Marne folyó ezen bájos partján, amely meleg napokon tökéletes helyszínt biztosít egy kellemes, vízparti piknikhez.",
+            "ro": "Bucurați-vă de atmosfera relaxată de pe această plajă fermecătoare de pe râul Marne, locul perfect pentru un picnic liniștit în zilele mai călduroase.",
+            "en": "Enjoy the relaxed atmosphere at this charming river beach along the Marne, making it the perfect spot for a leisurely picnic on warmer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein fahrradfreundlicher Start am Rathaus führt Sie direkt in den symmetrischen Bossuet-Garten und zur Kathedrale.\n\nGegen Mittag radeln Sie zum beeindruckenden Museum des Ersten Weltkriegs, wo Sie tief in die Geschichte eintauchen.\n\nNach einem kurzen Halt am amerikanischen Denkmal führt die Route nach Süden in die weite Natur.\n\nLassen Sie den Nachmittag im Parc du Pâtis und am Flussstrand ausklingen.",
+        "hu": "Egy kerékpárosbarát kezdés a városházánál egyenesen a szimmetrikus Bossuet kerthez és a katedrálishoz vezet.\n\nDél körül tekerjen el a lenyűgöző Első Világháborús Múzeumhoz, ahol elmélyülhet a történelemben.\n\nAz amerikai emlékműnél tett rövid megálló után dél felé, a természetbe vezet az út.\n\nTöltse a délután hátralévő részét a Parc du Pâtis felfedezésével és a folyóparti strandon.",
+        "ro": "Un început prietenos cu bicicleta la primărie vă duce direct la Grădina Bossuet și la catedrală.\n\nLa prânz, pedalați către impresionantul Muzeu al Marelui Război pentru o incursiune istorică.\n\nDupă o scurtă oprire la monumentul american, traseul se îndreaptă spre sud, în natură.\n\nPetreceți după-amiaza târzie explorând Parc du Pâtis și relaxându-vă pe plaja râului.",
+        "en": "A bike-friendly start at the Town Hall leads you directly to the symmetrical Bossuet Garden and the cathedral.\n\nAround midday, pedal to the impressive Museum of the Great War for a deep historical dive.\n\nFollowing a quick stop at the American Monument, your route heads south into expansive nature.\n\nSpend the late afternoon exploring Parc du Pâtis and unwinding at the river beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 20.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Hôtel de Ville)",
+            "hu": "Városháza (Hôtel de Ville)",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            2.877896,
+            48.958424
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses im Herzen von Meaux und machen Sie ein Foto vom Vorplatz, bevor es voll wird.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét Meaux szívében, és készítsen egy korai fotót a tágas előtérről, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice din inima orașului Meaux și faceți o fotografie din piațeta frontală înainte de aglomerație.",
+            "en": "Admire the elegant architecture of this historic town hall in the heart of Meaux, and snap a quick photo from the front plaza before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Brie de Meaux",
+            "hu": "Maison du Brie de Meaux",
+            "ro": "Maison du Brie de Meaux",
+            "en": "Maison du Brie de Meaux"
+          },
+          "coords": [
+            2.877985,
+            48.960572
+          ],
+          "category": "culinary",
+          "arrive_at": "09:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des berühmten Brie-Käses ein und nehmen Sie an einer Verkostung teil, um den authentischen Geschmack der Region zu erleben.",
+            "hu": "Merüljön el a híres Brie sajt történetében ezen az interaktív kiállításon, és mindenképpen vegyen részt egy kóstolón, hogy átélje a régió ízvilágát.",
+            "ro": "Cufundați-vă în istoria celebrei brânze Brie la această expoziție și asigurați-vă că participați la o degustare pentru a experimenta gustul autentic.",
+            "en": "Dive into the history of the famous Brie cheese at this interactive exhibition, and make sure to join a tasting session to experience the region's authentic flavor."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Grande Guerre",
+            "hu": "Első Világháború Múzeuma",
+            "ro": "Muzeul Marelui Război",
+            "en": "Museum of the Great War"
+          },
+          "coords": [
+            2.904167,
+            48.971389
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unglaublich umfangreiche Sammlung dieses modernen Museums zum Ersten Weltkrieg und planen Sie genügend Zeit für die interaktiven Displays ein.",
+            "hu": "Fedezze fel az Első Világháború Múzeumának hihetetlenül gazdag gyűjteményét, és szánjon elegendő időt az interaktív, elgondolkodtató kiállítási tárgyakra.",
+            "ro": "Descoperiți colecția incredibil de vastă a acestui muzeu modern dedicat Primului Război Mondial, alocând suficient timp pentru expozițiile interactive.",
+            "en": "Discover the incredibly vast collection of this modern World War I museum, ensuring you allocate plenty of time to explore the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Amerikanisches Denkmal",
+            "hu": "Amerikai Emlékmű",
+            "ro": "Monumentul American",
+            "en": "American Monument"
+          },
+          "coords": [
+            2.905,
+            48.973
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses imposante Denkmal, das an die amerikanische Unterstützung erinnert, und genießen Sie den weiten Blick über das historische Umland.",
+            "hu": "Látogassa meg ezt az impozáns emlékművet, amely az amerikai támogatásnak állít emléket, és élvezze a történelmi tájra nyíló széles, panorámás kilátást.",
+            "ro": "Vizitați acest monument impunător care comemorează sprijinul american și bucurați-vă de o vedere panoramică largă asupra peisajului istoric înconjurător.",
+            "en": "Visit this imposing monument commemorating American support during the war, and take in the wide, panoramic views over the surrounding historic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Pâtis",
+            "hu": "Parc du Pâtis",
+            "ro": "Parc du Pâtis",
+            "en": "Parc du Pâtis"
+          },
+          "coords": [
+            2.889742,
+            48.944373
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen Naturpark mit seinen vielen Seen, der sich wunderbar für die Vogelbeobachtung oder eine kleine Radtour eignet.",
+            "hu": "Sétáljon át ezen a hatalmas, tavakkal teli natúrparkon, amely csodálatos lehetőséget kínál a madármegfigyelésre vagy egy rövidebb, frissítő kerékpározásra.",
+            "ro": "Plimbați-vă prin acest vast parc natural presărat cu lacuri, care este minunat pentru observarea păsărilor sau pentru o scurtă plimbare revigorantă.",
+            "en": "Stroll through this vast nature park dotted with lakes, which is wonderful for bird watching or enjoying a brief, refreshing bike ride along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachthafen von Meaux",
+            "hu": "Meaux-i Jachtkikötő",
+            "ro": "Portul de Agrement din Meaux",
+            "en": "Port de Plaisance de Meaux"
+          },
+          "coords": [
+            2.926989,
+            48.919343
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Flanieren Sie entlang dieses malerischen Jachthafens, beobachten Sie die bunten Boote und gönnen Sie sich ein Eis in einem der kleinen Cafés am Wasser.",
+            "hu": "Sétáljon végig ezen a festői kikötőn, figyelje meg a színes hajókat, és kényeztesse magát egy finom fagylalttal valamelyik vízparti kis kávézóban.",
+            "ro": "Plimbați-vă de-a lungul acestui port de agrement pitoresc, urmăriți bărcile colorate și savurați o înghețată la una dintre micile cafenele de pe mal.",
+            "en": "Stroll along this picturesque marina, watch the colorful boats bobbing in the water, and treat yourself to an ice cream from a small waterfront cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-römische Mauern",
+            "hu": "Gall-római Falak",
+            "ro": "Zidurile Galo-Romane",
+            "en": "Gallo-Roman Walls"
+          },
+          "coords": [
+            2.88146,
+            48.906403
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken römischen Festungsmauern und stellen Sie sich das geschäftige Treiben der Stadt vor zwei Jahrtausenden vor.",
+            "hu": "Fedezze fel ezeknek az ősi római erődítményfalaknak a lenyűgöző maradványait, és képzelje el a város nyüzsgő életét több mint kétezer évvel ezelőtt.",
+            "ro": "Explorați rămășițele fascinante ale acestor ziduri fortificate romane antice și imaginați-vă forfota orașului de acum mai bine de două milenii.",
+            "en": "Explore the fascinating remains of these ancient Roman fortification walls, imagining the bustling daily life of the city more than two millennia ago."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Saint-Étienne Katedrális",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            2.878876,
+            48.960292
+          ],
+          "category": "religious",
+          "arrive_at": "16:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende gotische Pracht dieser Kathedrale, deren Bauhütte Jahrhunderte überspannte, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek a gótikus katedrálisnak a lenyűgöző pompáját, amelynek építése évszázadokig tartott, és szenteljen különös figyelmet a színes üvegablakoknak.",
+            "ro": "Descoperiți splendoarea gotică a acestei catedrale a cărei construcție a durat secole, acordând o atenție deosebită magnificelor vitralii luminoase.",
+            "en": "Discover the stunning Gothic splendor of this cathedral whose construction spanned centuries, paying special attention to the magnificent stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die Kontraste von Meaux vom Rathaus bis zum berühmten Brie-Museum zu erkunden.\n\nMittags fahren Sie zum Museum des Ersten Weltkriegs und dem nahegelegenen Monument, wo Parkplätze meist verfügbar sind.\n\nAm Nachmittag geht es weiter zum Parc du Pâtis und zum charmanten Jachthafen im Süden.\n\nDer Tag endet faszinierend an den gallo-römischen Mauern und der beleuchteten Kathedrale.",
+        "hu": "Használja autóját, hogy felfedezze Meaux kontrasztjait a városházától a híres Brie múzeumig.\n\nDélben vezessen az Első Világháborús Múzeumhoz és a közeli emlékműhöz, ahol könnyen parkolhat.\n\nDélután folytassa útját a Parc du Pâtis és a déli, hangulatos kikötő felé.\n\nA nap lenyűgöző módon ér véget a gall-római falaknál és a kivilágított katedrálisnál.",
+        "ro": "Folosiți mașina pentru a explora contrastele orașului Meaux, de la primărie la faimosul muzeu Brie.\n\nLa amiază, conduceți către Muzeul Marelui Război și monumentul din apropiere.\n\nDupă-amiaza continuă spre Parc du Pâtis și fermecătorul port de agrement din sud.\n\nZiua se încheie fascinant la zidurile galo-romane antice și înapoi la catedrala spectaculos iluminată.",
+        "en": "Use your car to easily explore the contrasts of Meaux, starting from the Town Hall to the famous Brie museum.\n\nAt midday, drive to the Museum of the Great War and the nearby monument, where parking is plentiful.\n\nThe afternoon takes you further south to Parc du Pâtis and the charming marina.\n\nYour day concludes fascinatingly at the ancient Gallo-Roman walls and the illuminated cathedral."
+      }
+    }
+  }
+}

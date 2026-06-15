@@ -1,0 +1,520 @@
+{
+  "city_id": "portugal-agua-de-alto-cities-v2",
+  "anchor": {
+    "name": "Água de Alto",
+    "coords": [
+      -25.45601,
+      37.72054
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:57",
+      "total_km": 3.19,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Degredo",
+            "hu": "Praia do Degredo",
+            "ro": "Praia do Degredo",
+            "en": "Praia do Degredo"
+          },
+          "coords": [
+            -25.455171,
+            37.716397
+          ],
+          "category": "recreational",
+          "arrive_at": "09:07",
+          "stay_min": 85,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie am dunklen Vulkansand dieser versteckten Bucht, die ruhige Erholung bietet, und bringen Sie eigenes Wasser mit, da die Infrastruktur begrenzt ist.",
+            "hu": "Pihenjen meg ennek az eldugott vulkáni öbölnek a sötét homokján, amely tökéletes nyugalmat kínál, de hozzon magával vizet, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă pe nisipul vulcanic închis al acestui golf ascuns care oferă o evadare liniștită, însă asigurați-vă că aduceți apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the dark volcanic sands of this hidden cove, which offers a serene escape, and be sure to bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Pedro",
+            "hu": "Igreja de São Pedro",
+            "ro": "Igreja de São Pedro",
+            "en": "Igreja de São Pedro"
+          },
+          "coords": [
+            -25.438229,
+            37.715698
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieser historischen Pfarrkirche, die das spirituelle Leben der Stadt prägt, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi plébániatemplomnak a gyönyörű építészetét, amely a város hitéletének központja, és érkezzen kora reggel a legszebb fényekért.",
+            "ro": "Admirați arhitectura rafinată a acestei biserici parohiale istorice care ancorează viața spirituală a orașului și vizitați-o devreme pentru lumina matinală superbă.",
+            "en": "Admire the exquisite architecture of this historic parish church that anchors the town's spiritual life, and visit early to catch the beautiful morning light through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Olarias da Villa",
+            "hu": "Olarias da Villa",
+            "ro": "Olarias da Villa",
+            "en": "Olarias da Villa"
+          },
+          "coords": [
+            -25.439289,
+            37.714076
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum die traditionellen Töpfertechniken der Azoren und kaufen Sie vor der Abreise ein handgefertigtes Keramik-Souvenir.",
+            "hu": "Ismerje meg az Azori-szigetek hagyományos fazekas technikáit ebben a hangulatos múzeumban, és vásároljon egy kézzel készített kerámia emléktárgyat a helyi kézművesektől.",
+            "ro": "Descoperiți tehnicile tradiționale de olărit din Azore în acest muzeu fermecător și cumpărați un suvenir din ceramică lucrat manual direct de la meșterii locali.",
+            "en": "Discover the traditional pottery techniques of the Azores in this charming museum, and pick up a handmade ceramic souvenir directly from the local artisans before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Corpo Santo",
+            "hu": "Praia do Corpo Santo",
+            "ro": "Praia do Corpo Santo",
+            "en": "Praia do Corpo Santo"
+          },
+          "coords": [
+            -25.437743,
+            37.713874
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Stadtstrand, an dem sich historisch die örtlichen Fischer versammelten, und nehmen Sie ein kurzes Bad im ruhigen Wasser.",
+            "hu": "Sétáljon végig ezen a festői városi strandon, ahol egykor a helyi halászok gyülekeztek, és mártózzon meg a csendes vizben a délutáni felfedezés folytatása előtt.",
+            "ro": "Plimbați-vă pe această plajă pitorească a orașului, unde se adunau istoric pescarii locali, și faceți o baie rapidă în apele calme înainte de a continua explorarea.",
+            "en": "Stroll along this scenic town beach where local fishermen historically gathered, and take a quick dip in the calm waters before continuing your afternoon exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Vila Franca do Campo",
+            "hu": "Câmara Municipal de Vila Franca do Campo",
+            "ro": "Câmara Municipal de Vila Franca do Campo",
+            "en": "Câmara Municipal de Vila Franca do Campo"
+          },
+          "coords": [
+            -25.435737,
+            37.715135
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie die großartige Fassade des Rathauses, das das Erdbeben von 1522 überstand, und prüfen Sie das Schwarze Brett auf kostenlose kulturelle Veranstaltungen.",
+            "hu": "Tekintse meg a városháza impozáns homlokzatát, amely túlélte az 1522-es földrengést, és vessen egy pillantást a hirdetőtáblára az ingyenes kulturális programokért.",
+            "ro": "Admirați fațada grandioasă a primăriei care a supraviețuit cutremurului din 1522 și verificați panoul informativ pentru eventuale evenimente culturale gratuite.",
+            "en": "Take a moment to appreciate the grand facade of the town hall that survived the 1522 earthquake, and check the notice board for any free cultural events happening during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Senhor Bom Jesus da Pedra",
+            "hu": "Igreja do Senhor Bom Jesus da Pedra",
+            "ro": "Igreja do Senhor Bom Jesus da Pedra",
+            "en": "Igreja do Senhor Bom Jesus da Pedra"
+          },
+          "coords": [
+            -25.436993,
+            37.715373
+          ],
+          "category": "religious",
+          "arrive_at": "15:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kulturell bedeutsame, dem Herrn des Steins gewidmete Kapelle und genießen Sie einen ruhigen Moment im Innenhof, um die friedliche Atmosphäre aufzusaugen.",
+            "hu": "Fedezze fel ezt a kulturálisan jelentős, a Kő Urának szentelt kápolnát, és töltsön el egy csendes pillanatot az udvaron, élvezve a békés, elmélkedő légkört.",
+            "ro": "Explorați această capelă cu importanță culturală dedicată Domnului Pietrei și petreceți un moment de liniște în curte pentru a absorbi atmosfera pașnică și contemplativă.",
+            "en": "Explore this culturally significant chapel dedicated to the Lord of the Stone, and take a quiet moment in the courtyard to absorb the peaceful, contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Vila Franca do Campo",
+            "hu": "Museu Municipal de Vila Franca do Campo",
+            "ro": "Museu Municipal de Vila Franca do Campo",
+            "en": "Museu Municipal de Vila Franca do Campo"
+          },
+          "coords": [
+            -25.431091,
+            37.717362
+          ],
+          "category": "museum",
+          "arrive_at": "16:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen in die reiche Meeres- und Landwirtschaftsgeschichte von Vila Franca do Campo ein und fragen Sie das Personal nach Details.",
+            "hu": "Merüljön el Vila Franca do Campo gazdag tengerészeti és mezőgazdasági múltjában a lenyűgöző kiállításokon keresztül, és kérdezze bátran a személyzetet a tárgyak történetéről.",
+            "ro": "Aprofundați istoria maritimă și agricolă bogată a Vila Franca do Campo prin expoziții fascinante și cereți personalului poveștile ascunse din spatele artefactelor.",
+            "en": "Delve into the rich maritime and agricultural history of Vila Franca do Campo through fascinating exhibits, and ask the knowledgeable staff for the hidden stories behind the artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Küstenbrise am Praia do Degredo, wo dunkler Vulkansand und die Wellen des Atlantiks eine friedliche Einführung in die Naturschönheit bieten. Nach diesem entspannten Start machen Sie sich auf den malerischen Weg ins historische Zentrum von Vila Franca do Campo.\n\nGegen Mittag schlendern Sie durch das historische Zentrum zur majestätischen Igreja de São Pedro, einem Zeugnis des tief verwurzelten lokalen Glaubens. Tauchen Sie anschließend in die regionale Handwerkskunst im Olarias da Villa ein und entdecken Sie zeitlose Töpfertraditionen.\n\nDer Nachmittag lädt Sie ein, am Wasser des Praia do Corpo Santo zu entspannen, bevor Sie den Bürgerstolz der Câmara Municipal bewundern. Setzen Sie Ihre gemütliche Erkundung zur historischen Igreja do Senhor Bom Jesus da Pedra fort und genießen Sie die ruhige, kulturell reiche Umgebung.\n\nBeenden Sie Ihren Rundgang im Museu Municipal, wo die umfangreichen Ausstellungen das maritime und landwirtschaftliche Erbe der Azoren zusammenfügen. Wenn der Abend hereinbricht, werden die Erinnerungen an Vulkanlandschaften und reiches Erbe den perfekten Abschluss bilden.",
+        "hu": "Kezdje a reggelt a tengerparti szellővel a Praia do Degredo strandon, ahol a sötét vulkáni homok és az Atlanti-óceán hullámai békés bevezetést nyújtanak a sziget szépségébe. A nyugodt atmoszféra élvezete után induljon el a festői sétára Vila Franca do Campo történelmi központja felé.\n\nAhogy közeledik a dél, sétáljon a történelmi központban, és látogassa meg a fenséges Igreja de São Pedro templomot, a helyi hit szimbólumát. Nem sokkal ezután merüljön el a regionális kézművességben az Olarias da Villa múzeumban, felfedezve a közösség több évszázados fazekas hagyományait.\n\nA délután pihenésre hív a Praia do Corpo Santo partjainál, mielőtt megcsodálná a Câmara Municipal impozáns épületét. Folytassa a kényelmes felfedezést a történelmi Igreja do Senhor Bom Jesus da Pedra templomhoz, értékelve a nyugodt és kulturálisan gazdag környezetet.\n\nZárja sétáját a Museu Municipalban, ahol az átfogó kiállítások bemutatják az Azori-szigetek tengerészeti és mezőgazdasági örökségét. Ahogy leszáll az est, a vulkáni tájak és a gazdag múlt emlékei tökéletes lezárást nyújtanak egy élményekkel teli, csodálatos napnak.",
+        "ro": "Începeți dimineața bucurându-vă de briza de coastă la Praia do Degredo, unde nisipul vulcanic și valurile Atlanticului creează o introducere liniștită în frumusețea insulei. După ce absorbiți atmosfera pașnică, porniți într-o plimbare pitorească spre inima istorică a Vila Franca do Campo.\n\nPe măsură ce se apropie prânzul, plimbați-vă prin centrul istoric pentru a vizita maiestuoasa Igreja de São Pedro. La scurt timp, pătrundeți în măiestria regională la Olarias da Villa, descoperind tradițiile atemporale de olărit care au modelat comunitatea de secole întregi.\n\nDupă-amiaza vă invită să vă relaxați la Praia do Corpo Santo înainte de a admira mândria civică întruchipată de Câmara Municipal. Continuați explorarea pe îndelete spre istorica Igreja do Senhor Bom Jesus da Pedra, apreciind împrejurimile liniștite și pline de istorie culturală.\n\nÎncheiați-vă plimbarea la Museu Municipal, unde expozițiile vaste recompun moștenirea maritimă și agricolă a Insulelor Azore. Odată cu lăsarea serii, amintirile peisajelor vulcanice și ale bogatului patrimoniu vor rămâne, marcând finalul perfect al unei zile pline.",
+        "en": "Begin your morning by embracing the coastal breeze at Praia do Degredo, where the dark volcanic sand and rolling Atlantic waves create a serene introduction to the island's natural beauty. After soaking in the peaceful atmosphere, start your scenic walk towards the historic heart of Vila Franca do Campo.\n\nAs midday approaches, wander the historic center to visit the majestic Igreja de São Pedro, a testament to deep-rooted local faith. Shortly after, dive into regional craftsmanship at Olarias da Villa, discovering the timeless pottery traditions that have shaped the community for centuries.\n\nThe afternoon invites you to relax by the waters of Praia do Corpo Santo before marveling at the civic pride embodied in the Câmara Municipal. Continue your leisurely exploration to the historic Igreja do Senhor Bom Jesus da Pedra, appreciating the tranquil and culturally rich surroundings.\n\nConclude your walking tour at the Museu Municipal, where the expansive exhibits piece together the maritime and agricultural legacy of the Azores. As evening falls, the memories of volcanic landscapes and rich heritage will linger, marking the perfect end to a fulfilling day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Degredo",
+            "hu": "Praia do Degredo",
+            "ro": "Praia do Degredo",
+            "en": "Praia do Degredo"
+          },
+          "coords": [
+            -25.455171,
+            37.716397
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie am dunklen Vulkansand dieser versteckten Bucht, die ruhige Erholung bietet, und bringen Sie eigenes Wasser mit, da die Infrastruktur begrenzt ist.",
+            "hu": "Pihenjen meg ennek az eldugott vulkáni öbölnek a sötét homokján, amely tökéletes nyugalmat kínál, de hozzon magával vizet, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă pe nisipul vulcanic închis al acestui golf ascuns care oferă o evadare liniștită, însă asigurați-vă că aduceți apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the dark volcanic sands of this hidden cove, which offers a serene escape, and be sure to bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Olarias da Villa",
+            "hu": "Olarias da Villa",
+            "ro": "Olarias da Villa",
+            "en": "Olarias da Villa"
+          },
+          "coords": [
+            -25.439289,
+            37.714076
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum die traditionellen Töpfertechniken der Azoren und kaufen Sie vor der Abreise ein handgefertigtes Keramik-Souvenir.",
+            "hu": "Ismerje meg az Azori-szigetek hagyományos fazekas technikáit ebben a hangulatos múzeumban, és vásároljon egy kézzel készített kerámia emléktárgyat a helyi kézművesektől.",
+            "ro": "Descoperiți tehnicile tradiționale de olărit din Azore în acest muzeu fermecător și cumpărați un suvenir din ceramică lucrat manual direct de la meșterii locali.",
+            "en": "Discover the traditional pottery techniques of the Azores in this charming museum, and pick up a handmade ceramic souvenir directly from the local artisans before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Santa Catarina",
+            "hu": "Ermida de Santa Catarina",
+            "ro": "Ermida de Santa Catarina",
+            "en": "Ermida de Santa Catarina"
+          },
+          "coords": [
+            -25.434456,
+            37.714624
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, wunderschön gepflegte Einsiedelei, die die typische azoreanische Frömmigkeit widerspiegelt, und betrachten Sie die aufwendigen Fliesenarbeiten.",
+            "hu": "Látogasson el ebbe a kis, gyönyörűen karbantartott remetelakba, amely a tipikus azori áhítatot tükrözi, és csendben figyelje meg a falakon lévő bonyolult csempemintákat.",
+            "ro": "Vizitați acest mic schit frumos întreținut care reflectă devotamentul tipic azorean și observați lucrările complexe de faianță de pe pereți păstrând o liniște respectuoasă.",
+            "en": "Visit this small, beautifully maintained hermitage that reflects typical Azorean devotion, and observe the intricate tilework on the walls while maintaining a respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Estrela do Mar",
+            "hu": "Estrela do Mar",
+            "ro": "Estrela do Mar",
+            "en": "Estrela do Mar"
+          },
+          "coords": [
+            -25.431308,
+            37.714451
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Wahrzeichen der Küste, das das dramatische Zusammentreffen von Vulkangestein und Atlantik zeigt, und nutzen Sie den perfekten Ort für ein Landschaftsfoto.",
+            "hu": "Csodálja meg ezt a tengerparti nevezetességet, amely tökéletesen mutatja be a vulkáni kőzetek és az óceán találkozását, ami ideális helyszín egy tájkép elkészítéséhez.",
+            "ro": "Admirați acest punct de reper de coastă care surprinde perfect întâlnirea dramatică dintre roca vulcanică și ocean, fiind locul ideal pentru o fotografie panoramică a peisajului.",
+            "en": "Admire this coastal landmark that perfectly captures the dramatic meeting of volcanic rock and the Atlantic ocean, making it an ideal spot to snap a wide-angle landscape photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Vila Franca do Campo",
+            "hu": "Museu Municipal de Vila Franca do Campo",
+            "ro": "Museu Municipal de Vila Franca do Campo",
+            "en": "Museu Municipal de Vila Franca do Campo"
+          },
+          "coords": [
+            -25.431091,
+            37.717362
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen in die reiche Meeres- und Landwirtschaftsgeschichte von Vila Franca do Campo ein und fragen Sie das Personal nach Details.",
+            "hu": "Merüljön el Vila Franca do Campo gazdag tengerészeti és mezőgazdasági múltjában a lenyűgöző kiállításokon keresztül, és kérdezze bátran a személyzetet a tárgyak történetéről.",
+            "ro": "Aprofundați istoria maritimă și agricolă bogată a Vila Franca do Campo prin expoziții fascinante și cereți personalului poveștile ascunse din spatele artefactelor.",
+            "en": "Delve into the rich maritime and agricultural history of Vila Franca do Campo through fascinating exhibits, and ask the knowledgeable staff for the hidden stories behind the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Senhora da Paz",
+            "hu": "Miradouro da Senhora da Paz",
+            "ro": "Miradouro da Senhora da Paz",
+            "en": "Miradouro da Senhora da Paz"
+          },
+          "coords": [
+            -25.431552,
+            37.727933
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Treppen zu diesem Aussichtspunkt, um mit atemberaubenden Panoramen der Stadt belohnt zu werden, aber seien Sie vorsichtig, da die Stufen rutschig sein können.",
+            "hu": "Mássza meg az ehhez a dombtetőn lévő kilátóhoz vezető lépcsőket a lélegzetelállító panorámáért, de legyen óvatos, mert a fokok nedves időben csúszósak lehetnek.",
+            "ro": "Urcați treptele impresionante către acest punct de belvedere pentru o panoramă uluitoare a orașului și a insulei, dar fiți precaut deoarece treptele pot fi alunecoase.",
+            "en": "Climb the impressive stairs to this hilltop viewpoint to be rewarded with breathtaking panoramas of the town and islet, but be cautious as the steps can be slippery when wet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am Praia do Degredo, wo Sie die kühle Meeresbrise und den Klang der Atlantikwellen genießen. Mit viel Energie radeln Sie über die wunderschönen Küstenstraßen zum kulturellen Herzen der Stadt und bereiten sich auf einen Tag voller Entdeckungen vor.\n\nGegen Mittag erkunden Sie die zarte Schönheit der Ermida de Santa Catarina, einer spirituell bedeutenden Stätte. Radeln Sie von dort zum Olarias da Villa, um die traditionelle azoreanische Töpferkunst zu bewundern, bevor Sie an der Küstenformation Estrela do Mar eine Pause einlegen.\n\nVerbringen Sie Ihren Nachmittag damit, im Museu Municipal die lokale Geschichte zu entdecken, wo die Ausstellungen tiefe Einblicke in die Vergangenheit der Insel bieten. Die Fahrt zwischen den Stationen lässt Sie die charmante Architektur von Vila Franca do Campo voll und ganz aufsaugen.\n\nBeenden Sie Ihre Radtour mit einer lohnenden Fahrt bergauf zum Miradouro da Senhora da Paz. Wenn die Sonne tiefer sinkt, bietet der weite Panoramablick über die Stadt und die berühmte kleine Insel einen atemberaubenden und unvergesslichen Abschluss Ihrer azoreanischen Erkundung.",
+        "hu": "Kezdje kerékpáros kalandját a Praia do Degredo strandon, élvezve a hűvös reggeli tengeri szellőt és az Atlanti-óceán hullámainak ritmusát. Tele energiával tekerjen végig a gyönyörű parti utakon a város kulturális központja felé, felkészülve a gazdag felfedezésekkel teli napra.\n\nDél körül fedezze fel az Ermida de Santa Catarina finom szépségét, amely kis mérete ellenére nagy spirituális jelentőséggel bír. Innen tekerjen át az Olarias da Villa múzeumba, hogy szemtanúja legyen a hagyományos azori fazekasságnak, majd tartson szünetet az Estrela do Mar partjánál.\n\nTöltse a délutánt a helyi történelem megismerésével a Museu Municipalban, ahol a kiállítások mély bepillantást engednek a sziget lenyűgöző múltjába. A megállók közötti kellemes utazás lehetővé teszi, hogy teljesen magába szívja Vila Franca do Campo bájos építészetét és hangulatát.\n\nZárja kerékpáros útját egy fárasztó, de kifizetődő emelkedővel a Miradouro da Senhora da Paz kilátóhoz. Ahogy a nap lemenőben van, a városra és a híres szigetre nyíló lenyűgöző panoráma lélegzetelállító és felejthetetlen befejezést nyújt az azori felfedezőútnak.",
+        "ro": "Începeți-vă aventura cu bicicleta la Praia do Degredo, bucurându-vă de briza răcoroasă a mării și de sunetul ritmic al valurilor Atlanticului. Plin de energie, pedalați pe drumurile de coastă spre inima culturală a orașului, pregătindu-vă pentru o zi plină de descoperiri.\n\nÎn jurul prânzului, explorați frumusețea delicată a Ermida de Santa Catarina, un loc de mare importanță spirituală. De acolo, pedalați spre Olarias da Villa pentru a vedea arta tradițională a olăritului, înainte de a face o pauză pitorească la impresionanta formațiune Estrela do Mar.\n\nPetreceți-vă după-amiaza descoperind istoria locală la Museu Municipal, unde expozițiile oferă o privire profundă asupra trecutului insulei. Plimbarea lină dintre opriri vă permite să absorbiți pe deplin arhitectura fermecătoare și atmosfera primitoare din Vila Franca do Campo.\n\nÎncheiați-vă călătoria cu o plimbare plină de satisfacții pe deal spre Miradouro da Senhora da Paz. Pe măsură ce soarele coboară, vederile panoramice asupra orașului și faimoasei insulițe oferă o concluzie uluitoare și de neuitat pentru explorarea dumneavoastră din Azore.",
+        "en": "Kick off your cycling adventure at Praia do Degredo, enjoying the cool morning sea breeze and the rhythmic sound of the Atlantic waves. With your energy high, pedal through the beautiful coastal roads toward the cultural heart of the town, preparing for a day of rich discoveries.\n\nAround noon, explore the delicate beauty of the Ermida de Santa Catarina, a small but spiritually significant site. From there, cycle over to Olarias da Villa to witness the traditional artistry of Azorean pottery before taking a scenic pause at the impressive coastal formation of Estrela do Mar.\n\nSpend your afternoon uncovering local history at the Museu Municipal, where the exhibits offer a deep dive into the island's fascinating past. The smooth ride between stops allows you to fully absorb the charming architecture and the welcoming atmosphere of Vila Franca do Campo.\n\nEnd your biking journey with a rewarding, challenging uphill ride to the Miradouro da Senhora da Paz. As the sun begins to lower, the sweeping panoramic views over the town and the famous islet provide a breathtaking and unforgettable conclusion to your Azorean exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 5.22,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Degredo",
+            "hu": "Praia do Degredo",
+            "ro": "Praia do Degredo",
+            "en": "Praia do Degredo"
+          },
+          "coords": [
+            -25.455171,
+            37.716397
+          ],
+          "category": "recreational",
+          "arrive_at": "09:01",
+          "stay_min": 85,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie am dunklen Vulkansand dieser versteckten Bucht, die ruhige Erholung bietet, und bringen Sie eigenes Wasser mit, da die Infrastruktur begrenzt ist.",
+            "hu": "Pihenjen meg ennek az eldugott vulkáni öbölnek a sötét homokján, amely tökéletes nyugalmat kínál, de hozzon magával vizet, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă pe nisipul vulcanic închis al acestui golf ascuns care oferă o evadare liniștită, însă asigurați-vă că aduceți apă, deoarece facilitățile sunt limitate.",
+            "en": "Relax on the dark volcanic sands of this hidden cove, which offers a serene escape, and be sure to bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Island of Vila Franca",
+            "hu": "Island of Vila Franca",
+            "ro": "Island of Vila Franca",
+            "en": "Island of Vila Franca"
+          },
+          "coords": [
+            -25.443687,
+            37.705818
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Bootsfahrt zu diesem atemberaubenden, überfluteten Vulkankrater, der nun als natürlicher Pool dient, und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Tegyen egy rövid hajóutat ehhez a lenyűgöző, vulkáni kráterből kialakult természetes medencéhez, és ne felejtse el magával vinni a sznorkelfelszerelését a tengeri élővilághoz.",
+            "ro": "Faceți o scurtă excursie cu barca către acest uimitor crater vulcanic scufundat care funcționează ca o piscină naturală și nu uitați echipamentul de snorkeling.",
+            "en": "Take a short boat trip to this stunning submerged volcanic crater crater now functioning as a natural pool, and don't forget your snorkeling gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Olarias da Villa",
+            "hu": "Olarias da Villa",
+            "ro": "Olarias da Villa",
+            "en": "Olarias da Villa"
+          },
+          "coords": [
+            -25.439289,
+            37.714076
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum die traditionellen Töpfertechniken der Azoren und kaufen Sie vor der Abreise ein handgefertigtes Keramik-Souvenir.",
+            "hu": "Ismerje meg az Azori-szigetek hagyományos fazekas technikáit ebben a hangulatos múzeumban, és vásároljon egy kézzel készített kerámia emléktárgyat a helyi kézművesektől.",
+            "ro": "Descoperiți tehnicile tradiționale de olărit din Azore în acest muzeu fermecător și cumpărați un suvenir din ceramică lucrat manual direct de la meșterii locali.",
+            "en": "Discover the traditional pottery techniques of the Azores in this charming museum, and pick up a handmade ceramic souvenir directly from the local artisans before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Vila Franca do Campo",
+            "hu": "Câmara Municipal de Vila Franca do Campo",
+            "ro": "Câmara Municipal de Vila Franca do Campo",
+            "en": "Câmara Municipal de Vila Franca do Campo"
+          },
+          "coords": [
+            -25.435737,
+            37.715135
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Betrachten Sie die großartige Fassade des Rathauses, das das Erdbeben von 1522 überstand, und prüfen Sie das Schwarze Brett auf kostenlose kulturelle Veranstaltungen.",
+            "hu": "Tekintse meg a városháza impozáns homlokzatát, amely túlélte az 1522-es földrengést, és vessen egy pillantást a hirdetőtáblára az ingyenes kulturális programokért.",
+            "ro": "Admirați fațada grandioasă a primăriei care a supraviețuit cutremurului din 1522 și verificați panoul informativ pentru eventuale evenimente culturale gratuite.",
+            "en": "Take a moment to appreciate the grand facade of the town hall that survived the 1522 earthquake, and check the notice board for any free cultural events happening during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Senhor Bom Jesus da Pedra",
+            "hu": "Igreja do Senhor Bom Jesus da Pedra",
+            "ro": "Igreja do Senhor Bom Jesus da Pedra",
+            "en": "Igreja do Senhor Bom Jesus da Pedra"
+          },
+          "coords": [
+            -25.436993,
+            37.715373
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kulturell bedeutsame, dem Herrn des Steins gewidmete Kapelle und genießen Sie einen ruhigen Moment im Innenhof, um die friedliche Atmosphäre aufzusaugen.",
+            "hu": "Fedezze fel ezt a kulturálisan jelentős, a Kő Urának szentelt kápolnát, és töltsön el egy csendes pillanatot az udvaron, élvezve a békés, elmélkedő légkört.",
+            "ro": "Explorați această capelă cu importanță culturală dedicată Domnului Pietrei și petreceți un moment de liniște în curte pentru a absorbi atmosfera pașnică și contemplativă.",
+            "en": "Explore this culturally significant chapel dedicated to the Lord of the Stone, and take a quiet moment in the courtyard to absorb the peaceful, contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Vila Franca do Campo",
+            "hu": "Museu Municipal de Vila Franca do Campo",
+            "ro": "Museu Municipal de Vila Franca do Campo",
+            "en": "Museu Municipal de Vila Franca do Campo"
+          },
+          "coords": [
+            -25.431091,
+            37.717362
+          ],
+          "category": "museum",
+          "arrive_at": "15:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen in die reiche Meeres- und Landwirtschaftsgeschichte von Vila Franca do Campo ein und fragen Sie das Personal nach Details.",
+            "hu": "Merüljön el Vila Franca do Campo gazdag tengerészeti és mezőgazdasági múltjában a lenyűgöző kiállításokon keresztül, és kérdezze bátran a személyzetet a tárgyak történetéről.",
+            "ro": "Aprofundați istoria maritimă și agricolă bogată a Vila Franca do Campo prin expoziții fascinante și cereți personalului poveștile ascunse din spatele artefactelor.",
+            "en": "Delve into the rich maritime and agricultural history of Vila Franca do Campo through fascinating exhibits, and ask the knowledgeable staff for the hidden stories behind the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Senhora da Paz",
+            "hu": "Miradouro da Senhora da Paz",
+            "ro": "Miradouro da Senhora da Paz",
+            "en": "Miradouro da Senhora da Paz"
+          },
+          "coords": [
+            -25.431552,
+            37.727933
+          ],
+          "category": "natural",
+          "arrive_at": "17:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Treppen zu diesem Aussichtspunkt, um mit atemberaubenden Panoramen der Stadt belohnt zu werden, aber seien Sie vorsichtig, da die Stufen rutschig sein können.",
+            "hu": "Mássza meg az ehhez a dombtetőn lévő kilátóhoz vezető lépcsőket a lélegzetelállító panorámáért, de legyen óvatos, mert a fokok nedves időben csúszósak lehetnek.",
+            "ro": "Urcați treptele impresionante către acest punct de belvedere pentru o panoramă uluitoare a orașului și a insulei, dar fiți precaut deoarece treptele pot fi alunecoase.",
+            "en": "Climb the impressive stairs to this hilltop viewpoint to be rewarded with breathtaking panoramas of the town and islet, but be cautious as the steps can be slippery when wet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem Halt am Praia do Degredo und atmen Sie die frische Morgenluft ein, bevor Sie zum Yachthafen fahren. Eine kurze Bootsfahrt zur spektakulären Insel Vila Franca enthüllt einen versunkenen Vulkankrater, der einen beeindruckenden Ton für den Tag setzt.\n\nZurück auf dem Festland fahren Sie bequem zum Olarias da Villa, um die traditionelle azoreanische Keramikkunst zu erleben. Parken Sie dann nahe dem Stadtzentrum, um die historische Architektur der Câmara Municipal zu bewundern, die das widerstandsfähige bürgerliche Erbe der Siedlung repräsentiert.\n\nSetzen Sie Ihre motorisierte Route zur zentral gelegenen Igreja do Senhor Bom Jesus da Pedra fort und gönnen Sie sich einen ruhigen Moment. Kurz darauf bieten die Ausstellungen im Museu Municipal ein breiteres Verständnis für die Entwicklung der Stadt seit ihren frühen maritimen Tagen.\n\nDie Bequemlichkeit eines Autos macht den steilen Aufstieg zum Miradouro da Senhora da Paz am Abend mühelos. Von diesem herrlichen Aussichtspunkt aus blicken Sie auf die üppigen Konturen der Insel und das Meer und fangen unvergessliche Sonnenuntergangserinnerungen ein.",
+        "hu": "Kezdje autós túráját egy békés megállóval a Praia do Degredo strandon, majd friss reggeli levegővel a tüdejében vegye az irányt a kikötő felé. Egy rövid hajóút a látványos Vila Franca szigetre felfed egy lenyűgöző elsüllyedt vulkáni krátert, amely megalapozza az egész nap hangulatát.\n\nVisszatérve a szárazföldre, hajtson kényelmesen az Olarias da Villa múzeumhoz, hogy szemtanúja legyen az azori kerámiakészítés évszázados mesterségének. Ezután parkoljon le a központ közelében, és csodálja meg a Câmara Municipal történelmi építészetét, amely a település polgári örökségét tükrözi.\n\nFolytassa autós útját a központi fekvésű Igreja do Senhor Bom Jesus da Pedra templomhoz, amely egy pillanatnyi csendes elmélkedést kínál. Röviddel ezután a Museu Municipal átfogó kiállításai szélesebb körű megértést nyújtanak a város fejlődéséről a korai tengerészeti napoktól kezdve.\n\nAz autó kényelme erőfeszítés nélkülivé teszi a meredek kapaszkodót a Miradouro da Senhora da Paz kilátóhoz az este közeledtével. Ebből a csodálatos kilátópontból tekintsen végig a sziget buja vonalain és a tengeren, hogy felejthetetlen naplementés emlékeket gyűjtsön útja végén.",
+        "ro": "Începeți turul cu mașina cu o oprire liniștită la Praia do Degredo, înainte de a vă îndrepta spre port. O scurtă plimbare cu barca către spectaculoasa Insulă Vila Franca dezvăluie un uimitor crater vulcanic scufundat, stabilind un ton plin de admirație pentru întreaga zi.\n\nRevenind pe continent, conduceți confortabil spre Olarias da Villa pentru a vedea meșteșugul secularei ceramici azorene. Apoi, parcați aproape de centrul orașului pentru a admira arhitectura istorică a Câmara Municipal, reprezentând perfect moștenirea civică a acestei așezări de coastă.\n\nContinuați ruta motorizată spre centrala Igreja do Senhor Bom Jesus da Pedra, permițând un moment de reflecție liniștită. La scurt timp, expozițiile cuprinzătoare de la Museu Municipal oferă o înțelegere mai largă a evoluției orașului din primele sale zile maritime.\n\nConfortul mașinii face ca urcarea abruptă spre Miradouro da Senhora da Paz să fie lipsită de efort spre seară. Din acest punct de observație magnific, priviți contururile luxuriante ale insulei și oceanul, captând amintiri de neuitat la apus înainte de a vă încheia călătoria.",
+        "en": "Start your driving tour with a peaceful stop at Praia do Degredo, breathing in the fresh morning air before heading toward the marina. A brief boat trip to the spectacular Island of Vila Franca reveals a stunning sunken volcanic crater, setting an awe-inspiring tone for the entire day.\n\nReturning to the mainland, drive comfortably to Olarias da Villa to witness the generations-old craft of Azorean ceramics. Then, park near the town center to admire the historical architecture of the Câmara Municipal, perfectly representing the resilient civic heritage of this coastal settlement.\n\nContinue your motorized route to the centrally located Igreja do Senhor Bom Jesus da Pedra, allowing a moment of quiet reflection inside. Shortly after, the comprehensive exhibits at the Museu Municipal provide a broader understanding of the town's evolution from its early maritime days.\n\nThe convenience of a car makes the steep ascent to the Miradouro da Senhora da Paz effortless as evening approaches. From this magnificent vantage point, look out over the island's lush contours and the ocean beyond, capturing unforgettable sunset memories before concluding your journey."
+      }
+    }
+  }
+}

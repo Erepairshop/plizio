@@ -1,0 +1,474 @@
+{
+  "city_id": "france-bagnoles-de-l-orne-cities-v2",
+  "anchor": {
+    "name": "Bagnoles-de-l'Orne",
+    "coords": [
+      -0.411111,
+      48.555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel Beaumont - Le Château des Arts",
+            "hu": "Hôtel Beaumont - Le Château des Arts",
+            "ro": "Hôtel Beaumont - Le Château des Arts",
+            "en": "Hôtel Beaumont - Le Château des Arts"
+          },
+          "coords": [
+            -0.412573,
+            48.554052
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Belle-Époque-Architektur dieses Kulturzentrums und nehmen Sie sich Zeit für die Kunstausstellungen in den restaurierten Räumen.",
+            "hu": "Csodálja meg ennek a kulturális központnak a gyönyörű Belle Époque építészetét, és szánjon időt a szépen felújított termekben rendezett művészeti kiállításokra.",
+            "ro": "Admirați arhitectura rafinată Belle Époque a acestui centru cultural și alocați-vă timp pentru a explora expozițiile de artă din camerele frumos restaurate.",
+            "en": "Admire the exquisite Belle Époque architecture of this cultural center, and take a moment to explore the art exhibitions hosted inside the beautifully restored rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien champ de tir",
+            "hu": "Ancien champ de tir",
+            "ro": "Ancien champ de tir",
+            "en": "Ancien champ de tir"
+          },
+          "coords": [
+            -0.415473,
+            48.554735
+          ],
+          "category": "historical",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ehemaligen, von der Natur zurückeroberten militärischen Schießstand und tragen Sie feste Wanderschuhe für das leicht unebene historische Gelände.",
+            "hu": "Fedezze fel ezt a természet által visszahódított egykori katonai lőteret, és viseljen masszív túracipőt a kissé egyenetlen történelmi terepen való kényelmes sétához.",
+            "ro": "Explorați acest fost poligon de tragere militar recuperat de natură și purtați încălțăminte robustă de drumeție pentru a naviga confortabil pe terenul istoric denivelat.",
+            "en": "Explore this former military shooting range that is now reclaimed by nature, and wear sturdy walking shoes to comfortably navigate the slightly uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "b'o resort spa thermal",
+            "hu": "b'o resort spa thermal",
+            "ro": "b'o resort spa thermal",
+            "en": "b'o resort spa thermal"
+          },
+          "coords": [
+            -0.416733,
+            48.554756
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie das verjüngende Mineralwasser dieses berühmten Thermalbads und buchen Sie Ihre entspannenden Massagen in der Hochsaison unbedingt einige Tage im Voraus.",
+            "hu": "Tapasztalja meg a híres termálfürdő fiatalító ásványvizeinek jótékony hatását, és főszezonban feltétlenül foglalja le a pihentető masszázsokat legalább néhány nappal előre.",
+            "ro": "Experimentați apele minerale de întinerire ale acestui faimos centru termal și asigurați-vă că rezervați tratamentele de masaj relaxant cu câteva zile înainte în sezon.",
+            "en": "Experience the rejuvenating mineral waters of this famous thermal spa, and be sure to book your relaxing massage treatments at least a few days in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Roc au Chien",
+            "hu": "Roc au Chien",
+            "ro": "Roc au Chien",
+            "en": "Roc au Chien"
+          },
+          "coords": [
+            -0.41857,
+            48.55482
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Felsvorsprung für atemberaubende Panoramablicke auf das bewaldete Tal und bringen Sie ein Weitwinkelobjektiv für perfekte Landschaftsaufnahmen mit.",
+            "hu": "Másszon fel erre a látványos sziklakibúvásra, ahonnan lélegzetelállító panoráma nyílik az erdős völgyre, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Urcați pe acest afloriment stâncos pentru vederi panoramice uluitoare ale văii împădurite și aduceți un obiectiv cu unghi larg pentru a surprinde perfect peisajul spectaculos.",
+            "en": "Climb to this spectacular rocky outcrop for breathtaking panoramic views of the forested valley, and bring a wide-angle lens to capture the stunning landscape perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Roche Bagnoles",
+            "hu": "Château de la Roche Bagnoles",
+            "ro": "Château de la Roche Bagnoles",
+            "en": "Château de la Roche Bagnoles"
+          },
+          "coords": [
+            -0.421309,
+            48.553062
+          ],
+          "category": "castle",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche architektonische Erbe dieses majestätischen Schlosses im Wald und machen Sie einen Spaziergang um das Gelände, um die Fassaden zu bewundern.",
+            "hu": "Fedezze fel ennek az erdőben megbúvó fenséges kastélynak a gazdag építészeti örökségét, és tegyen egy csendes sétát a kerületén a gyönyörűen megőrzött homlokzatokért.",
+            "ro": "Descoperiți bogata moștenire arhitecturală a acestui castel maiestuos cuibărit în pădure și faceți o plimbare liniștită pe perimetru pentru a aprecia fațadele conservate.",
+            "en": "Discover the rich architectural heritage of this majestic castle nestled in the woods, and take a quiet stroll around the perimeter to appreciate the beautifully preserved facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Madeleine",
+            "hu": "Église Sainte-Madeleine",
+            "ro": "Église Sainte-Madeleine",
+            "en": "Église Sainte-Madeleine"
+          },
+          "coords": [
+            -0.425165,
+            48.549468
+          ],
+          "category": "religious",
+          "arrive_at": "15:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um ihre friedliche Atmosphäre und die Buntglasfenster zu bewundern, und besuchen Sie sie am besten frühmorgens für das beste Licht.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja békés hangulatát és ólomüveg ablakait, de mindenképpen a kora reggeli órákban látogasson el a legjobb fényviszonyokért.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a admira atmosfera sa liniștită și vitraliile colorate, asigurându-vă că o vizitați dimineața devreme pentru cea mai bună lumină.",
+            "en": "Step inside this charming church to admire its peaceful atmosphere and stained glass windows, making sure to visit during early morning hours for the best natural light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem eleganten Belle-Époque-Charme im Hôtel Beaumont, gefolgt von einem faszinierenden Blick auf die Geschichte der Stadt am alten Schießstand. Die Mittagszeit bietet völlige Entspannung im renommierten b'o Resort Spa, das die Sinne belebt. Der Nachmittag bringt einen energiegeladenen Aufstieg zum Roc au Chien für atemberaubende Ausblicke und einen Spaziergang um das Château de la Roche. Der Abend endet friedlich an der Église Sainte-Madeleine.",
+        "hu": "A reggel a Hôtel Beaumont elegáns Belle Époque bájával indul, majd a város történelmébe tekinthetünk be a régi lőtéren. A dél a híres b'o resort spaban kínál teljes ellazulást és felfrissülést. Délután egy energikus mászás következik a Roc au Chien kilátóhoz a lélegzetelállító panorámáért, majd egy séta a Château de la Roche körül. Az este békésen zárul a gyönyörű Église Sainte-Madeleine templomnál.",
+        "ro": "Dimineața începe cu eleganța Belle Époque la Hôtel Beaumont, urmată de o privire fascinantă asupra istoriei orașului la vechiul poligon de tragere. La amiază vă puteți relaxa complet la renumitul b'o resort spa, revigorându-vă simțurile. După-amiaza aduce o urcare energică pe Roc au Chien pentru vederi uluitoare, ducând la o plimbare în jurul Château de la Roche. Seara se încheie liniștit la superba Église Sainte-Madeleine.",
+        "en": "Morning begins with the elegant Belle Époque charm at Hôtel Beaumont, followed by a fascinating look at the town's history at the old shooting range. Midday offers utter relaxation at the renowned b'o resort spa, rejuvenating the senses. Afternoon brings an energetic climb up Roc au Chien for breathtaking views, leading into a stroll around Château de la Roche. The evening concludes peacefully at the beautiful Église Sainte-Madeleine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel Beaumont - Le Château des Arts",
+            "hu": "Hôtel Beaumont - Le Château des Arts",
+            "ro": "Hôtel Beaumont - Le Château des Arts",
+            "en": "Hôtel Beaumont - Le Château des Arts"
+          },
+          "coords": [
+            -0.412573,
+            48.554052
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Belle-Époque-Architektur dieses Kulturzentrums und nehmen Sie sich Zeit für die Kunstausstellungen in den restaurierten Räumen.",
+            "hu": "Csodálja meg ennek a kulturális központnak a gyönyörű Belle Époque építészetét, és szánjon időt a szépen felújított termekben rendezett művészeti kiállításokra.",
+            "ro": "Admirați arhitectura rafinată Belle Époque a acestui centru cultural și alocați-vă timp pentru a explora expozițiile de artă din camerele frumos restaurate.",
+            "en": "Admire the exquisite Belle Époque architecture of this cultural center, and take a moment to explore the art exhibitions hosted inside the beautifully restored rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "b'o resort spa thermal",
+            "hu": "b'o resort spa thermal",
+            "ro": "b'o resort spa thermal",
+            "en": "b'o resort spa thermal"
+          },
+          "coords": [
+            -0.416733,
+            48.554756
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das verjüngende Mineralwasser dieses berühmten Thermalbads und buchen Sie Ihre entspannenden Massagen in der Hochsaison unbedingt einige Tage im Voraus.",
+            "hu": "Tapasztalja meg a híres termálfürdő fiatalító ásványvizeinek jótékony hatását, és főszezonban feltétlenül foglalja le a pihentető masszázsokat legalább néhány nappal előre.",
+            "ro": "Experimentați apele minerale de întinerire ale acestui faimos centru termal și asigurați-vă că rezervați tratamentele de masaj relaxant cu câteva zile înainte în sezon.",
+            "en": "Experience the rejuvenating mineral waters of this famous thermal spa, and be sure to book your relaxing massage treatments at least a few days in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Empreintes prehistoriques",
+            "hu": "Empreintes prehistoriques",
+            "ro": "Empreintes prehistoriques",
+            "en": "Empreintes prehistoriques"
+          },
+          "coords": [
+            -0.423635,
+            48.559526
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese faszinierenden prähistorischen Fußabdrücke im Stein und achten Sie auf die kleinen Informationstafeln, die die geologische Bedeutung der Stätte erklären.",
+            "hu": "Csodálja meg ezeket a kőben megőrzött lenyűgöző történelem előtti lábnyomokat, és keresse a közeli kis információs táblákat, amelyek elmagyarázzák a helyszín jelentőségét.",
+            "ro": "Minunați-vă de aceste fascinante amprente preistorice păstrate în piatră și căutați micile plăci informative din apropiere care explică semnificația geologică a sitului.",
+            "en": "Marvel at these fascinating prehistoric footprints preserved in stone, and look for the small informational plaques nearby that explain the geological significance of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Velo Rail",
+            "hu": "Velo Rail",
+            "ro": "Velo Rail",
+            "en": "Velo Rail"
+          },
+          "coords": [
+            -0.415942,
+            48.561807
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie ein einzigartiges Tretabenteuer entlang der alten Eisenbahnschienen durch den üppigen Wald und denken Sie an ausreichend Wasser und Sonnencreme für die Aktivität.",
+            "hu": "Élvezze az egyedülálló pedálozós kalandot a régi vasúti síneken a buja erdőn keresztül, és ne felejtsen el sok vizet és naptejet hozni ehhez az aktív szabadtéri programhoz.",
+            "ro": "Bucurați-vă de o aventură unică pedalând pe vechile șine de cale ferată prin pădurea luxuriantă și nu uitați să aduceți multă apă și cremă de soare pentru această activitate.",
+            "en": "Enjoy a unique pedaling adventure along the old railway tracks through the lush forest, and remember to bring plenty of water and sunscreen for this active outdoor activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Accrobranches Le Bois",
+            "hu": "Accrobranches Le Bois",
+            "ro": "Accrobranches Le Bois",
+            "en": "Accrobranches Le Bois"
+          },
+          "coords": [
+            -0.409425,
+            48.558324
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie sich den spannenden Baumkronen-Abenteuerparcours für alle Schwierigkeitsgrade und kommen Sie früh am Morgen, um den Menschenmassen zuvorzukommen.",
+            "hu": "Tedd próbára magad a minden tudásszintnek megfelelő izgalmas lombkorona-kalandpályákon, és érkezz kora reggel, hogy elkerüld a tömeget és élvezd a hűvösebb időt.",
+            "ro": "Provocați-vă pe traseele palpitante de aventură printre copaci potrivite pentru toate nivelurile și ajungeți dimineața devreme pentru a evita aglomerația și temperaturile ridicate.",
+            "en": "Challenge yourself on the thrilling treetop adventure courses suited for all skill levels, and arrive early in the morning to beat the crowds and enjoy cooler temperatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré Saint-Ortaire",
+            "hu": "Prieuré Saint-Ortaire",
+            "ro": "Prieuré Saint-Ortaire",
+            "en": "Prieuré Saint-Ortaire"
+          },
+          "coords": [
+            -0.411298,
+            48.564717
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Priorat im Wald, um seine tiefe spirituelle Ruhe zu schätzen, und nehmen Sie sich Zeit für die meditativen Wege rund um die alte Kapelle.",
+            "hu": "Látogasson el ebbe az erdőben rejtőző történelmi kolostorba, hogy megtapasztalja mély spirituális nyugalmát, és szánjon időt az ősi kápolnát körülvevő meditatív utakra.",
+            "ro": "Vizitați acest priorat istoric ascuns în pădure pentru a aprecia liniștea sa spirituală și faceți-vă timp pentru a vă plimba pe cărările meditative din jurul capelei vechi.",
+            "en": "Visit this historic priory hidden in the forest to appreciate its deep spiritual tranquility, and take time to walk the quiet meditative paths surrounding the ancient chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit Kunst im Hôtel Beaumont, bevor Sie sich am berühmten Thermalbad ausruhen. Mittags fahren Sie weiter ins Grüne, wo prähistorische Fußabdrücke tiefe Geschichte offenbaren. Am Nachmittag genießen Sie aktive Erholung beim Treten der Velo Rail und auf den spannenden Baumkronenpfaden bei Accrobranches Le Bois. Der aktive Tag endet mit einem friedlichen, besinnlichen Besuch im ruhigen Prieuré Saint-Ortaire.",
+        "hu": "Kezdje a kerékpáros napot a Hôtel Beaumont művészeti kiállításaival, mielőtt megpihenne az ikonikus termálfürdőnél. Délben mélyebbre kalandozhat a zöld környezetben, ahol ősi történelem előtti lábnyomok tárják fel a múltat. Délután élvezze az aktív kikapcsolódást a Velo Rail pedálozásával és az Accrobranches Le Bois izgalmas lombkorona-ösvényeivel. Az aktív nap a békés Prieuré Saint-Ortaire csendes meglátogatásával ér véget.",
+        "ro": "Începeți ziua de ciclism explorând artele la Hôtel Beaumont înainte de a vă odihni lângă iconicul spa termal. La amiază vă aventurați mai departe în împrejurimile verzi, unde amprentele preistorice dezvăluie istoria profundă. După-amiaza, bucurați-vă de recreere activă pedalând pe Velo Rail și navigând pe traseele captivante de la Accrobranches Le Bois. Ziua activă se încheie cu o vizită pașnică la serenul Prieuré Saint-Ortaire.",
+        "en": "Start your cycling day exploring the arts at Hôtel Beaumont before resting by the iconic thermal spa. Midday takes you further into the green surroundings, where ancient prehistoric footprints reveal deep history. In the afternoon, enjoy active recreation pedaling the Velo Rail and navigating the exciting treetop trails at Accrobranches Le Bois. Your active day ends with a peaceful, reflective visit to the serene Prieuré Saint-Ortaire."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Couterne",
+            "hu": "Château de Couterne",
+            "ro": "Château de Couterne",
+            "en": "Château de Couterne"
+          },
+          "coords": [
+            -0.413257,
+            48.535272
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Schlosses aus dem 16. Jahrhundert und schlendern Sie durch die weitläufigen Parkanlagen, um kleine versteckte Seen zu entdecken.",
+            "hu": "Csodálja meg a 16. századi kastély lenyűgöző tégla- és kőépítészetét, és sétáljon végig a kiterjedt környező parkon, hogy felfedezze a kis eldugott tavakat a területen.",
+            "ro": "Admirați arhitectura impresionantă din cărămidă și piatră a acestui castel din secolul al XVI-lea și plimbați-vă prin parcul vast din jur pentru a descoperi lacuri ascunse.",
+            "en": "Admire the impressive brick and stone architecture of this 16th-century chateau, and stroll through the extensive surrounding parkland to discover small hidden lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            -0.423257,
+            48.547837
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bescheidenen, aber historisch bedeutsamen Tempel inne, um über die religiöse Vielfalt der Region nachzudenken, und respektieren Sie die ruhige Atmosphäre.",
+            "hu": "Álljon meg ennél a szerény, mégis történelmileg jelentős templomnál, hogy elgondolkodjon a régió vallási sokszínűségén, és tartsa tiszteletben a csendes légkört.",
+            "ro": "Opriți-vă la acest templu modest, dar semnificativ din punct de vedere istoric, pentru a reflecta asupra diversității religioase și respectați atmosfera liniștită.",
+            "en": "Pause at this modest yet historically significant temple to reflect on the region's religious diversity, and respect the quiet atmosphere if local services are taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Roche Bagnoles",
+            "hu": "Château de la Roche Bagnoles",
+            "ro": "Château de la Roche Bagnoles",
+            "en": "Château de la Roche Bagnoles"
+          },
+          "coords": [
+            -0.421309,
+            48.553062
+          ],
+          "category": "castle",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche architektonische Erbe dieses majestätischen Schlosses im Wald und machen Sie einen Spaziergang um das Gelände, um die Fassaden zu bewundern.",
+            "hu": "Fedezze fel ennek az erdőben megbúvó fenséges kastélynak a gazdag építészeti örökségét, és tegyen egy csendes sétát a kerületén a gyönyörűen megőrzött homlokzatokért.",
+            "ro": "Descoperiți bogata moștenire arhitecturală a acestui castel maiestuos cuibărit în pădure și faceți o plimbare liniștită pe perimetru pentru a aprecia fațadele conservate.",
+            "en": "Discover the rich architectural heritage of this majestic castle nestled in the woods, and take a quiet stroll around the perimeter to appreciate the beautifully preserved facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel Beaumont - Le Château des Arts",
+            "hu": "Hôtel Beaumont - Le Château des Arts",
+            "ro": "Hôtel Beaumont - Le Château des Arts",
+            "en": "Hôtel Beaumont - Le Château des Arts"
+          },
+          "coords": [
+            -0.412573,
+            48.554052
+          ],
+          "category": "cultural",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Belle-Époque-Architektur dieses Kulturzentrums und nehmen Sie sich Zeit für die Kunstausstellungen in den restaurierten Räumen.",
+            "hu": "Csodálja meg ennek a kulturális központnak a gyönyörű Belle Époque építészetét, és szánjon időt a szépen felújított termekben rendezett művészeti kiállításokra.",
+            "ro": "Admirați arhitectura rafinată Belle Époque a acestui centru cultural și alocați-vă timp pentru a explora expozițiile de artă din camerele frumos restaurate.",
+            "en": "Admire the exquisite Belle Époque architecture of this cultural center, and take a moment to explore the art exhibitions hosted inside the beautifully restored rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Gué aux Biches",
+            "hu": "Château du Gué aux Biches",
+            "ro": "Château du Gué aux Biches",
+            "en": "Château du Gué aux Biches"
+          },
+          "coords": [
+            -0.436096,
+            48.56745
+          ],
+          "category": "castle",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Gelände dieses wunderschönen Anwesens, das für seine reiche lokale Geschichte bekannt ist, und bringen Sie ein Fernglas zur Vogelbeobachtung mit.",
+            "hu": "Fedezze fel e gyönyörű birtok lenyűgöző parkját, amely gazdag helyi történelméről ismert, és hozzon magával távcsövet a kertekben kínálkozó kiváló madármegfigyeléshez.",
+            "ro": "Explorați terenurile fascinante ale acestei proprietăți frumoase cunoscute pentru istoria sa bogată și aduceți un binoclu pentru oportunități excelente de observare a păsărilor.",
+            "en": "Explore the fascinating grounds of this beautiful estate known for its rich local history, and bring a pair of binoculars for excellent birdwatching opportunities in the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré Saint-Ortaire",
+            "hu": "Prieuré Saint-Ortaire",
+            "ro": "Prieuré Saint-Ortaire",
+            "en": "Prieuré Saint-Ortaire"
+          },
+          "coords": [
+            -0.411298,
+            48.564717
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Priorat im Wald, um seine tiefe spirituelle Ruhe zu schätzen, und nehmen Sie sich Zeit für die meditativen Wege rund um die alte Kapelle.",
+            "hu": "Látogasson el ebbe az erdőben rejtőző történelmi kolostorba, hogy megtapasztalja mély spirituális nyugalmát, és szánjon időt az ősi kápolnát körülvevő meditatív utakra.",
+            "ro": "Vizitați acest priorat istoric ascuns în pădure pentru a aprecia liniștea sa spirituală și faceți-vă timp pentru a vă plimba pe cărările meditative din jurul capelei vechi.",
+            "en": "Visit this historic priory hidden in the forest to appreciate its deep spiritual tranquility, and take time to walk the quiet meditative paths surrounding the ancient chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt im Süden am imposanten Château de Couterne, das reich an historischer Bedeutung ist. Bis zum Mittag besuchen Sie den ruhigen lokalen Tempel, bevor Sie die wunderschöne Umgebung des Château de la Roche Bagnoles bewundern. Die Nachmittagsstopps umfassen das kulturelle Herz im Hôtel Beaumont und eine Fahrt zum majestätischen Château du Gué aux Biches. Der Abend bricht herein, während Sie das Waldheiligtum Prieuré Saint-Ortaire erkunden.",
+        "hu": "Az autós túra délen kezdődik az impozáns és történelmileg jelentős Château de Couterne kastélynál. Délben meglátogatja a csendes helyi Templomot, majd megcsodálja a Château de la Roche Bagnoles gyönyörű környezetét. A délutáni megállók között szerepel a Hôtel Beaumont kulturális központja, majd egy festői autózás a fenséges Château du Gué aux Biches felé. Az este lassan ereszkedik le, miközben a Prieuré Saint-Ortaire nyugodt erdei szentélyét fedezi fel.",
+        "ro": "Turul cu mașina începe în sud la impunătorul Château de Couterne, bogat în semnificații istorice. Până la amiază veți vizita liniștitul Temple local înainte de a admira cadrul frumos al Château de la Roche Bagnoles. Opririle de după-amiază includ inima culturală de la Hôtel Beaumont, urmată de o plimbare pitorească spre maiestuosul Château du Gué aux Biches. Seara se lasă ușor în timp ce explorați sanctuarul Prieuré Saint-Ortaire.",
+        "en": "The driving tour commences south at the imposing Château de Couterne, rich with historical significance. By midday, you'll visit the quiet local Temple before admiring the beautiful setting of Château de la Roche Bagnoles. Afternoon stops include the cultural heart at Hôtel Beaumont, followed by a scenic drive to the majestic Château du Gué aux Biches. Evening falls gently as you explore the deeply calming forest sanctuary of Prieuré Saint-Ortaire."
+      }
+    }
+  }
+}

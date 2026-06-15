@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-myrina-cities-v2",
+  "anchor": {
+    "name": "Myrina",
+    "coords": [
+      25.06345,
+      39.87542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Poseidon-Statur",
+            "hu": "Poszeidón-szobor",
+            "ro": "Statuia lui Poseidon",
+            "en": "Poseidon Statue"
+          },
+          "coords": [
+            25.060794,
+            39.874075
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese markante Küstenstatue, die das reiche maritime Erbe symbolisiert, und nutzen Sie das sanfte Morgenlicht für hervorragende Fotos entlang der Bucht.",
+            "hu": "Csodálja meg a gazdag tengeri örökséget szimbolizáló, feltűnő parti szobrot, és használja ki a lágy reggeli fényeket a kiváló fotók elkészítéséhez.",
+            "ro": "Admirați această statuie de coastă impresionantă, care simbolizează bogata moștenire maritimă, profitând de lumina blândă a dimineții pentru fotografii excelente.",
+            "en": "Admire this striking coastal statue symbolizing the rich maritime heritage, taking advantage of the soft morning light for excellent photos along the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourkikos Gialos",
+            "hu": "Tourkikos Gialos",
+            "ro": "Tourkikos Gialos",
+            "en": "Tourkikos Gialos"
+          },
+          "coords": [
+            25.060806,
+            39.872796
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang an diesem malerischen Strand mit seinen charmanten Tavernen, ideal, um das authentische Inselflair zu erleben und einen Kaffee zu trinken.",
+            "hu": "Tegyen egy pihentető sétát ezen a festői strandon, amely hangulatos tavernákból áll, és ideális arra, hogy egy kávé mellett megtapasztalja az autentikus szigeti hangulatot.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe această plajă pitorească mărginită de taverne fermecătoare, ideală pentru a experimenta vibrația autentică a insulei la o cafea.",
+            "en": "Enjoy a relaxing stroll along this picturesque beach lined with charming tavernas, ideal for experiencing the authentic island vibe while sipping a local coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Myrina",
+            "hu": "Ókori Myrina",
+            "ro": "Myrina Antică",
+            "en": "Ancient Myrina"
+          },
+          "coords": [
+            25.055247,
+            39.877517
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen der klassischen Stadt, wobei Sie festes Schuhwerk tragen sollten, um die unebenen archäologischen Pfade sicher zu meistern.",
+            "hu": "Fedezze fel a klasszikus város lenyűgöző romjait; viseljen kényelmes, zárt cipőt, hogy biztonságosan navigálhasson az egyenetlen régészeti ösvényeken.",
+            "ro": "Explorați ruinele fascinante ale orașului clasic, purtând încălțăminte rezistentă pentru a naviga în siguranță pe traseele arheologice denivelate din zonă.",
+            "en": "Explore the fascinating ruins of the classical city, making sure to wear sturdy walking shoes to safely navigate the uneven archaeological pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Dapia von Limnos",
+            "hu": "Limnos Dapiája",
+            "ro": "Dapia din Lemnos",
+            "en": "Dapia of Lemnos"
+          },
+          "coords": [
+            25.065683,
+            39.873887
+          ],
+          "category": "castle",
+          "arrive_at": "12:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Festungsarchitektur, die Myrina einst vor Invasoren schützte, und achten Sie auf die Panoramablicke von den alten Burgmauern.",
+            "hu": "Csodálja meg az erődépítészetet, amely egykor Myrinát védte a betolakodóktól, és élvezze a régi várfalakról nyíló panorámás kilátást.",
+            "ro": "Minunați-vă de arhitectura fortăreței care a protejat cândva Myrina de invadatori, căutând priveliștile panoramice de pe zidurile vechi ale castelului.",
+            "en": "Marvel at the fortress architecture that once protected Myrina from invaders, being sure to seek out the panoramic views from the old castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Limnos",
+            "hu": "Limnosz Múzeum",
+            "ro": "Muzeul Lemnos",
+            "en": "Lemnos Museum"
+          },
+          "coords": [
+            25.062345,
+            39.880301
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand sorgfältig kuratierter prähistorischer Artefakte in die Vergangenheit ein und beginnen Sie Ihren Rundgang im Erdgeschoss, um die Chronologie besser zu verstehen.",
+            "hu": "Merüljön el a múltban a gondosan válogatott őskori tárgyakon keresztül, és kezdje a földszinten, hogy jobban megértse a sziget kronológiáját.",
+            "ro": "Cufundați-vă în trecut prin artefacte preistorice atent selectate, începând cu parterul pentru a înțelege mai bine cronologia insulei.",
+            "en": "Immerse yourself in the past through carefully curated prehistoric artifacts, starting on the ground floor to better understand the island's chronology."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal Pesonton Ierolokhiton",
+            "hu": "Pesonton Ierolokhiton emlékmű",
+            "ro": "Monumentul Pesonton Ierolokhiton",
+            "en": "Mnemeio Pesonton Ierolokhiton"
+          },
+          "coords": [
+            25.062657,
+            39.881442
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses feierliche Denkmal, das die lokalen Helden ehrt, und nutzen Sie den nahen, ruhigen Park für eine besinnliche Pause nach der Museumstour.",
+            "hu": "Látogasson el a helyi hősök előtt tisztelgő ünnepélyes emlékműhöz, és használja ki a közeli, csendes parkot egy csendes pihenésre a múzeumi túra után.",
+            "ro": "Vizitați acest monument solemn ce onorează eroii locali, folosind parcul liniștit din apropiere pentru o pauză contemplativă după turul muzeului.",
+            "en": "Visit this solemn monument honoring local heroes, using the nearby tranquil park area for a reflective break after your museum tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag in Myrina beginnt entspannt mit der symbolträchtigen Poseidon-Statue und einem Kaffee am Tourkikos Gialos. Danach tauchen wir in die Geschichte des antiken Myrina ein.\nMittags erkunden wir die beeindruckende Festung Dapia, deren Mauern atemberaubende Ausblicke bieten. Die Meeresbrise ist hier besonders angenehm.\nAm Nachmittag steht die Kultur im Mittelpunkt: Das Museum von Limnos präsentiert faszinierende Fundstücke. Ein kurzer Spaziergang bringt uns zum ruhigen Heldendenkmal.\nDer Abend klingt gemächlich in den Gassen rund um das Zentrum aus. Genießen Sie die entspannte Atmosphäre der Ägäis bei einem Glas Wein.",
+        "hu": "A délelőtt Myrinában a Poszeidón-szoborral és egy frissítő sétával indul a Tourkikos Gialosnál. Ezt követően az ókori romok közé vezet az utunk.\nDélben a lenyűgöző Dapia erődöt fedezzük fel, amelynek falairól páratlan kilátás nyílik a tengerre. A hűvös szellő itt igazán felüdítő.\nDélután a kultúráé a főszerep: a Limnosz Múzeum gazdag leleteit tanulmányozzuk, majd a helyi hősök csendes emlékművénél pihenünk meg.\nAz este nyugodtan telik a központ sikátoraiban. Élvezze az Égei-tenger pihentető hangulatát egy pohár bor kíséretében.",
+        "ro": "Dimineața în Myrina începe cu impunătoarea statuie a lui Poseidon și o promenadă la Tourkikos Gialos, înainte de a păși printre ruinele Anticei Myrina.\nLa prânz explorăm fortăreața Dapia, unde zidurile seculare ne oferă o panoramă uluitoare. Briza marină face urcușul mult mai plăcut aici.\nDupă-amiaza este dedicată culturii la Muzeul Lemnos, plin de artefacte preistorice, urmat de un scurt popas la monumentul eroilor, plin de liniște.\nSeara se încheie domol pe străduțele centrale, perfecte pentru a savura atmosfera mării Egee la o terasă locală primitoare.",
+        "en": "Morning in Myrina starts with the iconic Poseidon statue and a refreshing stroll along Tourkikos Gialos, before stepping back in time at Ancient Myrina.\nMidday takes us to the impressive Dapia fortress, where the old walls offer breathtaking views. The sea breeze here is particularly refreshing.\nAfternoon shifts to cultural immersion at the Lemnos Museum, exploring its rich prehistoric finds, followed by a quiet moment at the local heroes' monument.\nThe evening winds down gracefully in the center’s charming alleys. Enjoy the relaxing Aegean atmosphere with a local dinner or a glass of wine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Die Windmühle",
+            "hu": "A Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            25.065421,
+            39.868846
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses wunderschön erhaltene Wahrzeichen am Meer und kommen Sie früh, um die ruhige Atmosphäre für klassische griechische Architekturaufnahmen zu genießen.",
+            "hu": "Tekintse meg ezt a gyönyörűen megőrzött tengerparti nevezetességet, és érkezzen korán, hogy élvezze a csendes hangulatot a klasszikus görög építészeti fotókhoz.",
+            "ro": "Priviți acest punct de reper pe malul mării frumos conservat și veniți devreme pentru a vă bucura de atmosfera liniștită pentru fotografii de arhitectură.",
+            "en": "View this beautifully preserved seaside landmark, arriving early to enjoy the quiet atmosphere for classic Greek architectural photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourkikos Gialos",
+            "hu": "Tourkikos Gialos",
+            "ro": "Tourkikos Gialos",
+            "en": "Tourkikos Gialos"
+          },
+          "coords": [
+            25.060806,
+            39.872796
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Legen Sie eine Radelpause an der schönen Bucht ein und parken Sie Ihr Fahrrad in der Nähe der Cafés, um ein erfrischendes Getränk zu genießen.",
+            "hu": "Tartson egy kerékpáros szünetet a gyönyörű öbölben, és parkolja le a kerékpárt a kávézók közelében, hogy élvezzen egy frissítő italt.",
+            "ro": "Faceți o pauză de ciclism în golful frumos și parcați bicicleta lângă cafenele pentru a vă bucura de o băutură răcoritoare locală.",
+            "en": "Take a cycling break at the beautiful bay, easily parking your bike near the waterfront cafes to enjoy a refreshing local beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Myrina",
+            "hu": "Ókori Myrina",
+            "ro": "Myrina Antică",
+            "en": "Ancient Myrina"
+          },
+          "coords": [
+            25.055247,
+            39.877517
+          ],
+          "category": "historical",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Ruinen der klassischen Stadt; binden Sie Ihr Fahrrad am Eingang fest, da das Gelände unebene Wanderwege aufweist.",
+            "hu": "Fedezze fel a klasszikus város hatalmas romjait; kösse le kerékpárját a bejáratnál, mivel a területen egyenetlen sétautak találhatók.",
+            "ro": "Explorați ruinele vaste ale orașului clasic; legați-vă bicicleta la intrare, deoarece zona prezintă cărări de plimbare denivelate.",
+            "en": "Explore the vast ruins of the classical city; secure your bike at the entrance as the site features uneven walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Limnos",
+            "hu": "Limnosz Múzeum",
+            "ro": "Muzeul Lemnos",
+            "en": "Lemnos Museum"
+          },
+          "coords": [
+            25.062345,
+            39.880301
+          ],
+          "category": "museum",
+          "arrive_at": "11:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand sorgfältig kuratierter prähistorischer Artefakte in die Vergangenheit ein und beginnen Sie Ihren Rundgang im Erdgeschoss.",
+            "hu": "Merüljön el a múltban a gondosan válogatott őskori tárgyakon keresztül, és kezdje a földszinten, hogy jobban megértse a sziget kronológiáját.",
+            "ro": "Cufundați-vă în trecut prin artefacte preistorice atent selectate, începând cu parterul pentru a înțelege mai bine cronologia insulei.",
+            "en": "Immerse yourself in the past through carefully curated prehistoric artifacts, starting on the ground floor to better understand the island's chronology."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Myrina",
+            "hu": "Történelem előtti Myrina",
+            "ro": "Myrina Preistorică",
+            "en": "Prehistoric Myrina"
+          },
+          "coords": [
+            25.064008,
+            39.883272
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie weiter zu den beeindruckenden Fundamenten früherer Zivilisationen und verpassen Sie nicht die informativen Schautafeln vor Ort.",
+            "hu": "Kerékpározzon tovább a korábbi civilizációk lenyűgöző alapjaihoz, és ne hagyja ki a helyszínen található informatív táblákat.",
+            "ro": "Cumpăniți mai departe spre fundațiile impresionante ale civilizațiilor anterioare, asigurându-vă că nu ratați panourile informative locale.",
+            "en": "Cycle further along to the impressive foundations of earlier civilizations, making sure not to miss the informative display panels on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Manos",
+            "hu": "Manos",
+            "ro": "Manos",
+            "en": "Manos"
+          },
+          "coords": [
+            25.062769,
+            39.885709
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 77,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie die Radtour an diesem entspannten Küstenabschnitt ausklingen; es ist der perfekte Ort für ein abendliches Picknick bei Sonnenuntergang.",
+            "hu": "Fejezze be a kerékpártúrát ezen a nyugodt tengerparti szakaszon; ez a tökéletes hely egy esti naplementés piknikhez.",
+            "ro": "Încheiați turul cu bicicleta pe această porțiune de coastă relaxantă; este locul perfect pentru un picnic de seară la apusul soarelui.",
+            "en": "Conclude your cycling tour along this relaxed coastal stretch; it serves as the perfect spot for an evening sunset picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrradtour startet an der malerischen Windmühle, wo eine frische Brise weht. Ein kurzer Tritt in die Pedale bringt uns zum charmanten Strand Tourkikos Gialos.\nMittags verlassen wir die Küste, um die antiken Ruinen von Myrina zu entdecken. Die Wege dorthin lassen sich herrlich mit dem Rad erkunden.\nAm Nachmittag radeln wir ins Zentrum zum Lemnos Museum. Von dort ist es nur ein Katzensprung zum Ausgrabungsgelände des prähistorischen Myrina.\nDen Tag lassen wir in Manos gemütlich ausklingen. Die abendliche Fahrt entlang des Wassers bei Sonnenuntergang bleibt unvergesslich.",
+        "hu": "Kerékpártúránk a festői szélmalomnál indul, ahol friss szellő fúj. Egy rövid tekerés elvisz minket a bájos Tourkikos Gialos strandhoz.\nDélben elhagyjuk a partot, hogy felfedezzük az ókori Myrina romjait. Az oda vezető utak csodálatosan felfedezhetők kerékpárral.\nDélután a központba pedálozunk a Limnosz Múzeumhoz. Innen csak egy kőhajításnyira van az őskori Myrina ásatási területe.\nA napot Manosban fejezzük be nyugodtan. Az esti kerékpározás a víz mentén, naplemente idején, felejthetetlen élmény marad.",
+        "ro": "Turul nostru cu bicicleta începe la moara de vânt pitorească, unde bate o briză proaspătă. O scurtă pedalare ne duce la fermecătoarea plajă Tourkikos Gialos.\nLa prânz părăsim coasta pentru a descoperi ruinele antice din Myrina. Traseele de acolo sunt minunate pentru a fi explorate cu bicicleta.\nDupă-amiaza ne îndreptăm spre centru către Muzeul Lemnos. De acolo este doar o aruncătură de băț până la situl de excavare al Myrinei Preistorice.\nÎncheiem ziua relaxant în Manos. Călătoria de seară de-a lungul apei la apus rămâne de neuitat și plină de farmec.",
+        "en": "Our cycling tour starts at the picturesque windmill, enjoying a fresh coastal breeze. A quick pedal takes us to the charming Tourkikos Gialos beach.\nMidday we weave through town to discover the ancient ruins of Myrina. The surrounding routes are a delight to explore on two wheels.\nAfternoon involves cycling into the center for the Lemnos Museum. From there, it's just a short ride to the fascinating prehistoric excavation site.\nWe conclude the day at Manos with a relaxed vibe. The evening ride along the water as the sun sets will remain an unforgettable memory."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Platy",
+            "hu": "Platy strand",
+            "ro": "Plaja Platy",
+            "en": "Platy Beach"
+          },
+          "coords": [
+            25.063671,
+            39.857033
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen Sandstrand und parken Sie in Strandnähe, um gleich am Morgen eine erfrischende Abkühlung zu genießen.",
+            "hu": "Kezdje a napot ezen a kiterjedt homokos strandon, és parkoljon le a közelben, hogy reggel azonnal élvezhesse a frissítő fürdőzést.",
+            "ro": "Începeți ziua pe această plajă extinsă de nisip, parcând în apropiere pentru a vă bucura de o baie răcoritoare chiar de dimineață.",
+            "en": "Begin your day at this expansive sandy beach, utilizing the nearby parking to enjoy a refreshing morning dip right away."
+          }
+        },
+        {
+          "name": {
+            "de": "Dapia von Limnos",
+            "hu": "Limnos Dapiája",
+            "ro": "Dapia din Lemnos",
+            "en": "Dapia of Lemnos"
+          },
+          "coords": [
+            25.065683,
+            39.873887
+          ],
+          "category": "castle",
+          "arrive_at": "10:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur historischen Festung; stellen Sie Ihr Auto am Fuß des Hügels ab, da die Straßen zur Burg eng und steil sind.",
+            "hu": "Vezessen a történelmi erődhöz; hagyja autóját a domb lábánál, mivel a várhoz vezető utak szűkek és meredekek.",
+            "ro": "Mergeți spre fortăreața istorică; lăsați mașina la poalele dealului, deoarece drumurile spre castel sunt înguste și abrupte.",
+            "en": "Drive up to the historic fortress; leave your car at the base of the hill as the roads leading to the castle are narrow and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Myrina",
+            "hu": "Ókori Myrina",
+            "ro": "Myrina Antică",
+            "en": "Ancient Myrina"
+          },
+          "coords": [
+            25.055247,
+            39.877517
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen der klassischen Stadt; die öffentlichen Parkplätze sind hier ausreichend vorhanden.",
+            "hu": "Fedezze fel a klasszikus város lenyűgöző romjait; a nyilvános parkolók itt megfelelő számban állnak rendelkezésre.",
+            "ro": "Explorați ruinele fascinante ale orașului clasic; parcările publice sunt suficiente în această zonă centrală.",
+            "en": "Explore the fascinating ruins of the classical city; taking advantage of the ample public parking available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Limnos",
+            "hu": "Limnosz Múzeum",
+            "ro": "Muzeul Lemnos",
+            "en": "Lemnos Museum"
+          },
+          "coords": [
+            25.062345,
+            39.880301
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte ein und nutzen Sie die klimatisierten Räume für eine Pause von der sommerlichen Mittagshitze.",
+            "hu": "Merüljön el a történelemben, és használja ki a légkondicionált tereket, hogy tartson egy kis szünetet a nyári hőségben.",
+            "ro": "Cufundați-vă în istorie și folosiți camerele cu aer condiționat pentru a lua o pauză de la căldura verii de la amiază.",
+            "en": "Dive into history while utilizing the air-conditioned exhibition rooms for a welcome break from the midday summer heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der zypriotischen Kämpfer",
+            "hu": "Ciprusi harcosok emlékműve",
+            "ro": "Monumentul luptătorilor ciprioți",
+            "en": "Memorial of the Cypriot Fighters"
+          },
+          "coords": [
+            25.063894,
+            39.885911
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem respektvollen Denkmal und genießen Sie die ruhige Atmosphäre, die zur Reflexion einlädt.",
+            "hu": "Álljon meg röviden ennél a tiszteletteljes emlékműnél, és élvezze a csendes hangulatot, amely gondolkodásra hív.",
+            "ro": "Opriți-vă scurt la acest monument respectuos și bucurați-vă de atmosfera liniștită care vă invită la reflecție și reculegere.",
+            "en": "Stop briefly at this respectful memorial, taking a moment to appreciate the quiet atmosphere that invites peaceful reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Artemis",
+            "hu": "Artemisz szentélye",
+            "ro": "Sanctuarul lui Artemis",
+            "en": "Sactuary of Artemis"
+          },
+          "coords": [
+            25.062205,
+            39.893568
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bedeutende Ausgrabungsstätte nördlich der Stadt und tragen Sie Sonnenschutz, da es hier wenig Schatten gibt.",
+            "hu": "Látogasson el erre a fontos ásatási helyszínre a várostól északra, és viseljen naptejet, mivel itt kevés árnyék található.",
+            "ro": "Vizitați acest important sit arheologic la nord de oraș și purtați protecție solară, deoarece există puțină umbră aici.",
+            "en": "Visit this significant archaeological site north of town, making sure to wear sun protection as there is very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Aulonas",
+            "hu": "Aulonas",
+            "ro": "Aulonas",
+            "en": "Aulonas"
+          },
+          "coords": [
+            25.066142,
+            39.896757
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 77,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den ereignisreichen Roadtrip mit Entspannung pur an diesem nördlichen Küstenabschnitt, weit weg vom Trubel.",
+            "hu": "Fejezze be az eseménydús autós utazást tiszta pihenéssel ezen az északi tengerparti szakaszon, távol a nyüzsgéstől.",
+            "ro": "Încheiați călătoria cu mașina plină de evenimente cu o relaxare pură pe această porțiune de coastă nordică, departe de agitație.",
+            "en": "End the eventful road trip with pure relaxation on this northern stretch of coastline, enjoying the tranquility away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unseren Roadtrip ganz im Süden am weitläufigen Strand Platy für einen entspannten Morgen. Von dort fahren wir gemütlich in die Stadt zur historischen Dapia.\nMittags parken wir zentral, um die eindrucksvollen archäologischen Stätten von Myrina in Ruhe zu besichtigen. Das Museum bietet im Anschluss eine kühle, kulturelle Auszeit.\nAm Nachmittag steuern wir unseren Wagen weiter nach Norden. Das Denkmal der zypriotischen Kämpfer ist ein ruhiger Zwischenstopp auf dem Weg zum Heiligtum der Artemis.\nDer Abend gehört der Erholung in Aulonas. An der nördlichen Küste lassen wir den Tag abseits des Trubels bei herrlichen Aussichten ausklingen.",
+        "hu": "Autós utazásunkat délen, a kiterjedt Platy strandon kezdjük egy pihentető reggellel. Innen kényelmesen autózunk a városba, a történelmi Dapiához.\nDélben a központban parkolunk, hogy nyugodtan megnézhessük Myrina lenyűgöző régészeti lelőhelyeit. A múzeum hűvös, kulturális pihenőt kínál.\nDélután észak felé vesszük az irányt autónkkal. A ciprusi harcosok emlékműve csendes megálló az Artemisz szentélye felé vezető úton.\nAz este a pihenésé Aulonasban. Az északi parton, a nyüzsgéstől távol fejezzük be a napot, miközben csodálatos kilátásban gyönyörködhetünk.",
+        "ro": "Ne începem călătoria în sud, la plaja întinsă Platy, pentru o dimineață relaxantă. De acolo conducem confortabil spre oraș, spre istorica fortăreață Dapia.\nLa prânz parcăm central pentru a vedea în liniște siturile arheologice impresionante din Myrina. Muzeul oferă o pauză culturală și răcoroasă.\nDupă-amiaza ne îndreptăm cu mașina mai spre nord. Monumentul luptătorilor ciprioți este o oprire liniștită pe drumul către Sanctuarul lui Artemis.\nSeara aparține relaxării în Aulonas. Pe coasta de nord, departe de agitație, încheiem ziua bucurându-ne de priveliștile magnifice asupra mării.",
+        "en": "We start our road trip in the south at the expansive Platy Beach for a relaxed morning. From there, it's a short scenic drive into town to the historic Dapia.\nMidday involves central parking to explore the impressive archaeological sites of Ancient Myrina. The museum then offers a cool, cultural retreat.\nIn the afternoon, we steer our car further north. The Memorial of the Cypriot Fighters serves as a quiet stopover on the way to the Sanctuary of Artemis.\nThe evening belongs to recreation in Aulonas. On this northern coast, away from the hustle, we end the day taking in the magnificent sea views."
+      }
+    }
+  }
+}

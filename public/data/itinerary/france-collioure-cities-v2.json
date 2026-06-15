@@ -1,0 +1,451 @@
+{
+  "city_id": "france-collioure-cities-v2",
+  "anchor": {
+    "name": "Collioure",
+    "coords": [
+      3.080833,
+      42.525556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien lavoir",
+            "hu": "Ancien lavoir",
+            "ro": "Ancien lavoir",
+            "en": "Ancien lavoir"
+          },
+          "coords": [
+            3.081892,
+            42.525942
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am alten Waschhaus von Collioure, einem ruhigen historischen Ort, wo Sie das glitzernde Wasser am Morgen am besten für Fotos nutzen können.",
+            "hu": "Kezdje a napját Collioure régi mosóházánál, amely egy békés történelmi helyszín, ahol érdemes a reggeli fényeket kihasználni a legjobb fotók elkészítéséhez.",
+            "ro": "Începeți ziua la vechea spălătorie din Collioure, un loc istoric liniștit, unde este recomandat să profitați de luminile dimineții pentru fotografii perfecte.",
+            "en": "Start your day at the old washhouse of Collioure, a peaceful historical spot where you should take advantage of the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église reformée de France",
+            "hu": "Église reformée de France",
+            "ro": "Église reformée de France",
+            "en": "Église reformée de France"
+          },
+          "coords": [
+            3.082161,
+            42.524319
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz der reformierten Kirche, die einen Einblick in das lokale Erbe bietet, und achten Sie besonders auf die feinen architektonischen Details.",
+            "hu": "Csodálja meg a református templom visszafogott eleganciáját, amely bepillantást enged a helyi örökségbe, és figyeljen a finom építészeti részletekre a bejáratnál.",
+            "ro": "Admirați eleganța simplă a bisericii reformate, care oferă o privire asupra moștenirii locale, și acordați atenție detaliilor arhitecturale fine de la intrare.",
+            "en": "Admire the understated elegance of the reformed church, offering a glimpse into local heritage, and pay close attention to the fine architectural details near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Royal de Collioure",
+            "hu": "Château Royal de Collioure",
+            "ro": "Château Royal de Collioure",
+            "en": "Château Royal de Collioure"
+          },
+          "coords": [
+            3.084846,
+            42.525548
+          ],
+          "category": "castle",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gewaltigen Mauern dieses königlichen Schlosses direkt am Meer und steigen Sie unbedingt auf die Zinnen, um einen atemberaubenden Blick auf die Bucht zu genießen.",
+            "hu": "Fedezze fel ennek a tengerparti királyi kastélynak a hatalmas falait, és mindenképpen másszon fel a bástyákra, hogy lélegzetelállító kilátásban legyen része az öbölre.",
+            "ro": "Explorați zidurile masive ale acestui castel regal de pe malul mării și asigurați-vă că urcați pe bastioane pentru a vă bucura de o vedere uluitoare asupra golfului.",
+            "en": "Explore the massive walls of this seaside royal castle, and be sure to climb the battlements to enjoy a breathtaking view of the picturesque bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Le musée d’Art Moderne de Collioure",
+            "hu": "Le musée d’Art Moderne de Collioure",
+            "ro": "Le musée d’Art Moderne de Collioure",
+            "en": "Le musée d’Art Moderne de Collioure"
+          },
+          "coords": [
+            3.088026,
+            42.523594
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Meisterwerke, die von Collioure inspiriert wurden, und nehmen Sie sich Zeit für die Wechselausstellungen lokaler Künstler.",
+            "hu": "Fedezze fel a Collioure által ihletett színes mesterműveket, és hagyjon elegendő időt a helyi kortárs művészek időszaki kiállításainak megtekintésére is.",
+            "ro": "Descoperiți capodoperele colorate inspirate de Collioure și rezervați-vă timp suficient pentru a vizita și expozițiile temporare ale artiștilor contemporani locali.",
+            "en": "Discover the colorful masterpieces inspired by Collioure, and make sure to leave enough time to browse the temporary exhibitions featuring local contemporary artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue n°7 - Sur le clocher de Collioure",
+            "hu": "Point de vue n°7 - Sur le clocher de Collioure",
+            "ro": "Point de vue n°7 - Sur le clocher de Collioure",
+            "en": "Point de vue n°7 - Sur le clocher de Collioure"
+          },
+          "coords": [
+            3.085474,
+            42.524068
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen herrlichen Panoramablick auf den berühmten Glockenturm, der sich besonders am Nachmittag für perfekte Erinnerungsfotos eignet.",
+            "hu": "Élvezze a csodálatos panorámát a híres harangtoronyra ebből a kilátópontból, amely különösen a délutáni órákban kínál tökéletes fényeket a fotózáshoz.",
+            "ro": "Bucurați-vă de o panoramă magnifică asupra celebrului turn de biserică din acest punct de belvedere, ideal mai ales după-amiaza pentru fotografii perfecte.",
+            "en": "Enjoy a magnificent panoramic view of the famous bell tower from this viewpoint, which offers the perfect lighting for memorable photographs in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Collioure",
+            "hu": "Collioure",
+            "ro": "Collioure",
+            "en": "Collioure"
+          },
+          "coords": [
+            3.087024,
+            42.527326
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einem entspannten Spaziergang an der Küste von Collioure, wo Sie sich in einem der kleinen Cafés am Wasser wunderbar erholen können.",
+            "hu": "Fejezze be a sétát egy pihentető tengerparti andalgással Collioure partjainál, ahol érdemes beülni egy vízparti kávézóba, hogy felszívja a hely hangulatát.",
+            "ro": "Încheiați turul cu o plimbare relaxantă pe coasta din Collioure, unde merită să vă așezați la o cafenea pe malul apei pentru a absorbi atmosfera locală.",
+            "en": "End your walk with a relaxing stroll along the coast of Collioure, where you should sit down at a waterfront cafe to fully absorb the charming local atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang durch Collioure beginnt an den historischen Wahrzeichen. Sie besuchen das alte Waschhaus und die reformierte Kirche.\n\nAm Mittag steht das majestätische Château Royal auf dem Programm, gefolgt von einer inspirierenden Reise durch das Kunstmuseum für moderne Kunst.\n\nDer Nachmittag bietet spektakuläre Ausblicke vom Aussichtspunkt auf den Glockenturm, bevor Sie die malerische Küstenlinie weiter erkunden.\n\nDer Tag endet mit einem erholsamen Aufenthalt in der natürlichen Umgebung von Collioure, wo Sie den Charme der Küste bei Sonnenuntergang genießen können.",
+        "hu": "A séta Collioure történelmi látványosságainál kezdődik, felfedezve a régi mosóházat és a helyi református templom nyugodt környezetét.\n\nDélben a fenséges királyi kastély a fő attrakció, amelyet a modern művészeti múzeum lenyűgöző és színes kiállításai követnek.\n\nA délután látványos kilátást kínál a híres harangtoronyra, mielőtt tovább folytatná a festői partszakasz felfedezését.\n\nA nap a természetes környezetben ér véget, ahol Collioure partjainál megpihenve élvezheti a tengerpart esti, romantikus varázsát.",
+        "ro": "Plimbarea începe cu atracțiile istorice din Collioure. Veți vizita vechea spălătorie și mediul liniștit al bisericii reformate.\n\nLa prânz, atracția principală este castelul regal maiestuos, urmat de expozițiile fascinante și colorate ale muzeului de artă modernă.\n\nDupă-amiaza oferă vederi spectaculoase asupra celebrului turn al bisericii, înainte de a continua explorarea coastei pitorești.\n\nZiua se încheie în mediul natural din Collioure, unde vă puteți relaxa pe coastă și vă puteți bucura de magia romantică a serii.",
+        "en": "The walk through Collioure starts at the historic landmarks. You will explore the old washhouse and the peaceful setting of the reformed church.\n\nAt midday, the majestic royal castle takes center stage, followed by an inspiring journey through the colorful exhibits of the modern art museum.\n\nThe afternoon offers spectacular views of the famous bell tower before you continue to explore the picturesque coastline of the town.\n\nThe day ends with a relaxing stay in the natural surroundings of Collioure, where you can enjoy the romantic evening charm of the seaside."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église reformée de France",
+            "hu": "Église reformée de France",
+            "ro": "Église reformée de France",
+            "en": "Église reformée de France"
+          },
+          "coords": [
+            3.082161,
+            42.524319
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz der reformierten Kirche, die einen Einblick in das lokale Erbe bietet, und achten Sie besonders auf die feinen architektonischen Details.",
+            "hu": "Csodálja meg a református templom visszafogott eleganciáját, amely bepillantást enged a helyi örökségbe, és figyeljen a finom építészeti részletekre a bejáratnál.",
+            "ro": "Admirați eleganța simplă a bisericii reformate, care oferă o privire asupra moștenirii locale, și acordați atenție detaliilor arhitecturale fine de la intrare.",
+            "en": "Admire the understated elegance of the reformed church, offering a glimpse into local heritage, and pay close attention to the fine architectural details near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Royal de Collioure",
+            "hu": "Château Royal de Collioure",
+            "ro": "Château Royal de Collioure",
+            "en": "Château Royal de Collioure"
+          },
+          "coords": [
+            3.084846,
+            42.525548
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gewaltigen Mauern dieses königlichen Schlosses direkt am Meer und steigen Sie unbedingt auf die Zinnen, um einen atemberaubenden Blick auf die Bucht zu genießen.",
+            "hu": "Fedezze fel ennek a tengerparti királyi kastélynak a hatalmas falait, és mindenképpen másszon fel a bástyákra, hogy lélegzetelállító kilátásban legyen része az öbölre.",
+            "ro": "Explorați zidurile masive ale acestui castel regal de pe malul mării și asigurați-vă că urcați pe bastioane pentru a vă bucura de o vedere uluitoare asupra golfului.",
+            "en": "Explore the massive walls of this seaside royal castle, and be sure to climb the battlements to enjoy a breathtaking view of the picturesque bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Le musée d’Art Moderne de Collioure",
+            "hu": "Le musée d’Art Moderne de Collioure",
+            "ro": "Le musée d’Art Moderne de Collioure",
+            "en": "Le musée d’Art Moderne de Collioure"
+          },
+          "coords": [
+            3.088026,
+            42.523594
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Meisterwerke, die von Collioure inspiriert wurden, und nehmen Sie sich Zeit für die Wechselausstellungen lokaler Künstler.",
+            "hu": "Fedezze fel a Collioure által ihletett színes mesterműveket, és hagyjon elegendő időt a helyi kortárs művészek időszaki kiállításainak megtekintésére is.",
+            "ro": "Descoperiți capodoperele colorate inspirate de Collioure și rezervați-vă timp suficient pentru a vizita și expozițiile temporare ale artiștilor contemporani locali.",
+            "en": "Discover the colorful masterpieces inspired by Collioure, and make sure to leave enough time to browse the temporary exhibitions featuring local contemporary artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin",
+            "hu": "Moulin",
+            "ro": "Moulin",
+            "en": "Moulin"
+          },
+          "coords": [
+            3.089468,
+            42.523187
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Mühle, die majestätisch über den Hügeln thront, und nutzen Sie den ruhigen Ort für eine kurze Rast abseits des Touristentrubels.",
+            "hu": "Látogasson el a dombok felett fenségesen magasodó régi malomhoz, és használja ki ezt a békés helyet egy rövid pihenőre a turisták zajától távol.",
+            "ro": "Vizitați vechea moară care se înalță maiestuos deasupra dealurilor și folosiți acest loc liniștit pentru o scurtă odihnă departe de agitația turistică.",
+            "en": "Visit the old mill perched majestically above the hills, and use this peaceful spot for a short break away from the usual tourist hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Saint-Elme",
+            "hu": "Fort Saint-Elme",
+            "ro": "Fort Saint-Elme",
+            "en": "Fort Saint-Elme"
+          },
+          "coords": [
+            3.093856,
+            42.518653
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radeln Sie hinauf zu diesem beeindruckenden sternförmigen Fort und buchen Sie im Voraus eine Führung, um mehr über die militärische Geschichte der Region zu erfahren.",
+            "hu": "Kerekezzen fel ehhez a lenyűgöző csillag alakú erődhöz, és foglaljon előre vezetett túrát, hogy mélyebben megismerje a régió katonai történelmét.",
+            "ro": "Pedalați până la acest impresionant fort în formă de stea și rezervați-vă un tur ghidat în avans pentru a afla mai multe despre istoria militară a regiunii.",
+            "en": "Cycle up to this impressive star-shaped fort, and be sure to book a guided tour in advance to learn more about the fascinating military history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "La Balette",
+            "hu": "La Balette",
+            "ro": "La Balette",
+            "en": "La Balette"
+          },
+          "coords": [
+            3.08918,
+            42.524587
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an der wunderschönen Bucht von La Balette ausklingen, wo Sie bei einem Glas lokalen Weins den Sonnenuntergang über dem Meer beobachten können.",
+            "hu": "Zárja a napot a gyönyörű La Balette öbölnél, ahol egy pohár helyi bor kíséretében csodálhatja meg a tenger felett lemenő napot a túra végén.",
+            "ro": "Încheiați ziua în frumosul golf La Balette, unde puteți admira apusul de soare peste mare savurând un pahar de vin local la sfârșitul excursiei.",
+            "en": "End the day at the beautiful cove of La Balette, where you can watch the sun set over the sea with a glass of local wine at the end of your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt im Stadtzentrum mit einem Besuch der reformierten Kirche, bevor Sie die massiven Mauern des Château Royal erkunden.\n\nNach der Kunst im Museum radeln Sie hinauf zur historischen Mühle, die einen ersten schönen Blick auf die umliegende Landschaft bietet.\n\nEine etwas anspruchsvollere Fahrt bringt Sie zum beeindruckenden Fort Saint-Elme, wo Sie in die reiche militärische Vergangenheit eintauchen.\n\nDie Route endet an der Bucht von La Balette, dem perfekten Ort, um sich nach der Fahrt zu entspannen und das Rauschen der Wellen zu genießen.",
+        "hu": "A kerékpártúra a városközpontban kezdődik a református templom megtekintésével, mielőtt felfedezné a királyi kastély hatalmas falait.\n\nA múzeumban tett látogatás után felteker a történelmi malomhoz, amely gyönyörű kilátást nyújt a környező mediterrán tájra.\n\nEgy kissé nagyobb kihívást jelentő út az impozáns Fort Saint-Elme-hez vezet, ahol elmerülhet a régió gazdag katonai múltjában.\n\nAz útvonal a festői La Balette öbölben ér véget, amely tökéletes hely a kikapcsolódásra és a hullámok hangjának élvezetére a tekerés után.",
+        "ro": "Turul cu bicicleta începe în centrul orașului cu o vizită la biserica reformată, înainte de a explora zidurile masive ale castelului regal.\n\nDupă vizita la muzeu, pedalați până la moara istorică, care oferă o primă priveliște frumoasă asupra peisajului mediteranean înconjurător.\n\nO plimbare mai provocatoare vă duce la impresionantul Fort Saint-Elme, unde vă puteți scufunda în trecutul militar bogat al regiunii.\n\nTraseul se termină în pitorescul golf La Balette, locul perfect pentru a vă relaxa și a vă bucura de sunetul valurilor după pedalat.",
+        "en": "The bike tour begins in the city center with a visit to the reformed church before you explore the massive walls of the royal castle.\n\nAfter taking in the art at the museum, you pedal up to the historic mill, which offers a beautiful first look at the surrounding Mediterranean landscape.\n\nA slightly more challenging ride brings you to the impressive Fort Saint-Elme, where you can delve into the region's rich military past.\n\nThe route concludes at the picturesque La Balette cove, the perfect spot to relax and enjoy the soothing sound of the waves after riding."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Royal de Collioure",
+            "hu": "Château Royal de Collioure",
+            "ro": "Château Royal de Collioure",
+            "en": "Château Royal de Collioure"
+          },
+          "coords": [
+            3.084846,
+            42.525548
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gewaltigen Mauern dieses königlichen Schlosses direkt am Meer und steigen Sie unbedingt auf die Zinnen, um einen atemberaubenden Blick auf die Bucht zu genießen.",
+            "hu": "Fedezze fel ennek a tengerparti királyi kastélynak a hatalmas falait, és mindenképpen másszon fel a bástyákra, hogy lélegzetelállító kilátásban legyen része az öbölre.",
+            "ro": "Explorați zidurile masive ale acestui castel regal de pe malul mării și asigurați-vă că urcați pe bastioane pentru a vă bucura de o vedere uluitoare asupra golfului.",
+            "en": "Explore the massive walls of this seaside royal castle, and be sure to climb the battlements to enjoy a breathtaking view of the picturesque bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermitage de Notre-Dame de Consolation",
+            "hu": "Ermitage de Notre-Dame de Consolation",
+            "ro": "Ermitage de Notre-Dame de Consolation",
+            "en": "Ermitage de Notre-Dame de Consolation"
+          },
+          "coords": [
+            3.068071,
+            42.509341
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser friedlichen Einsiedelei in den Bergen und nehmen Sie sich Zeit für einen kurzen Waldspaziergang, um die spirituelle Atmosphäre voll auszukosten.",
+            "hu": "Autózzon el ehhez a békés hegyi remetelakhoz, és szánjon időt egy rövid erdei sétára, hogy teljes mértékben átélhesse a hely különleges, spirituális atmoszféráját.",
+            "ro": "Conduceți către acest schit pașnic din munți și faceți o scurtă plimbare prin pădure pentru a experimenta pe deplin atmosfera spirituală a locului.",
+            "en": "Drive up to this peaceful mountain hermitage and take time for a short forest walk to fully experience the unique and spiritual atmosphere of the location."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Dugommier",
+            "hu": "Fort Dugommier",
+            "ro": "Fort Dugommier",
+            "en": "Fort Dugommier"
+          },
+          "coords": [
+            3.085988,
+            42.513629
+          ],
+          "category": "fortress",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen von Fort Dugommier, das eine strategische Position einnimmt, und tragen Sie festes Schuhwerk, da das Gelände rund um die Festung uneben ist.",
+            "hu": "Fedezze fel a stratégiai pozíciót elfoglaló Fort Dugommier romjait, és viseljen kényelmes cipőt, mivel az erőd körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Explorați ruinele Fortului Dugommier, care ocupă o poziție strategică, și purtați încălțăminte confortabilă, deoarece terenul din jurul cetății este neregulat.",
+            "en": "Explore the ruins of Fort Dugommier, which occupies a strategic position, and wear sturdy shoes as the terrain around the historic fortress can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Saint-Elme",
+            "hu": "Fort Saint-Elme",
+            "ro": "Fort Saint-Elme",
+            "en": "Fort Saint-Elme"
+          },
+          "coords": [
+            3.093856,
+            42.518653
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie hinauf zu diesem beeindruckenden sternförmigen Fort und buchen Sie im Voraus eine Führung, um mehr über die militärische Geschichte der Region zu erfahren.",
+            "hu": "Kerekezzen fel ehhez a lenyűgöző csillag alakú erődhöz, és foglaljon előre vezetett túrát, hogy mélyebben megismerje a régió katonai történelmét.",
+            "ro": "Pedalați până la acest impresionant fort în formă de stea și rezervați-vă un tur ghidat în avans pentru a afla mai multe despre istoria militară a regiunii.",
+            "en": "Cycle up to this impressive star-shaped fort, and be sure to book a guided tour in advance to learn more about the fascinating military history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Racou",
+            "hu": "Plage du Racou",
+            "ro": "Plage du Racou",
+            "en": "Plage du Racou"
+          },
+          "coords": [
+            3.055828,
+            42.537958
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Sandstrand, der ideal für Familien ist, und kommen Sie am späten Nachmittag, um den sanften Wellen zu lauschen.",
+            "hu": "Pihenjen ezen a festői homokos strandon, amely ideális családok számára is, és érkezzen késő délután, hogy a lágy hullámok hangjában gyönyörködhessen.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip, ideală pentru familii, și ajungeți la sfârșitul după-amiezii pentru a asculta sunetul blând al valurilor.",
+            "en": "Relax on this picturesque sandy beach, which is ideal for families, and arrive in the late afternoon to listen to the gentle sound of the waves at the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit dem majestätischen Château Royal, gefolgt von einer malerischen Fahrt in die Berge zur friedlichen Einsiedelei Notre-Dame.\n\nSie setzen die historische Erkundung fort und besuchen die Ruinen von Fort Dugommier, das tief in die strategische Bedeutung der Region blicken lässt.\n\nAm Nachmittag fahren Sie zum markanten Fort Saint-Elme, von dem aus Sie einen unvergleichlichen Panoramablick über die gesamte Küste haben.\n\nDer Ausflug endet am entspannten Plage du Racou, wo Sie den Tag bei einem wunderschönen Strandspaziergang am Mittelmeer ruhig ausklingen lassen.",
+        "hu": "Az autós túra a fenséges királyi kastélynál indul, majd egy festői utazás következik a hegyekbe, a békés Notre-Dame remetelakhoz.\n\nA történelmi felfedezést a Fort Dugommier romjainál folytatja, amely mély bepillantást enged a régió stratégiai jelentőségébe és múltjába.\n\nDélután a lenyűgöző Fort Saint-Elme-hez vezet az út, ahonnan páratlan panorámás kilátás nyílik a teljes partszakaszra és a tengerre.\n\nA kirándulás a békés Plage du Racou strandon ér véget, ahol egy csodálatos tengerparti sétával nyugodtan zárhatja le az élménydús napot.",
+        "ro": "Călătoria cu mașina începe la maiestuosul castel regal, urmată de un drum pitoresc în munți către pașnicul schit Notre-Dame.\n\nContinuarea explorării istorice se face la ruinele Fortului Dugommier, care oferă o perspectivă profundă asupra importanței strategice a regiunii.\n\nDupă-amiaza vă îndreptați spre impresionantul Fort Saint-Elme, de unde aveți o vedere panoramică inegalabilă asupra întregii coaste.\n\nExcursia se încheie la liniștita Plage du Racou, unde vă puteți încheia ziua în liniște cu o minunată plimbare pe plaja Mării Mediterane.",
+        "en": "The drive begins with the majestic royal castle, followed by a scenic journey into the mountains to the peaceful Notre-Dame hermitage.\n\nYou continue the historical exploration at the ruins of Fort Dugommier, providing a deep dive into the strategic significance of the region.\n\nIn the afternoon, you drive to the striking Fort Saint-Elme, which affords an unparalleled panoramic view across the entire coastline.\n\nThe trip concludes at the relaxing Plage du Racou, where you can peacefully end the day with a wonderful walk along the Mediterranean beach."
+      }
+    }
+  }
+}

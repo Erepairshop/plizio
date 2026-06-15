@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-sottomarina-cities-v2",
+  "anchor": {
+    "name": "Sottomarina",
+    "coords": [
+      12.29389,
+      45.2149
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 1.93,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Cattedrale di Santa Maria Assunta",
+            "ro": "Cattedrale di Santa Maria Assunta",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            12.277254,
+            45.216915
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser historischen Kathedrale, spüren Sie die spirituelle Ruhe und achten Sie besonders auf die kunstvollen Altarbilder im Inneren.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak a pompás építészetét, érezze át a spirituális nyugalmat, és figyeljen a belső tér művészi oltárképeire.",
+            "ro": "Admirați arhitectura magnifică a acestei catedrale istorice, simțiți liniștea spirituală și acordați o atenție deosebită picturilor artistice de pe altarul din interior.",
+            "en": "Admire the magnificent architecture of this historic cathedral, feel the spiritual tranquility, and pay special attention to the ornate altarpieces inside during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Chiesa di San Francesco",
+            "ro": "Chiesa di San Francesco",
+            "en": "Chiesa di San Francesco"
+          },
+          "coords": [
+            12.277745,
+            45.218015
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser charmanten Kirche, die eine Oase der Ruhe bietet; besuchen Sie sie am frühen Vormittag, um dem Trubel der Stadt zu entfliehen.",
+            "hu": "Fedezze fel e bájos templom gazdag történelmét, amely a béke oázisát kínálja; látogasson el ide kora délelőtt, hogy elmeneküljön a város zajától.",
+            "ro": "Descoperiți istoria bogată a acestei biserici fermecătoare, care oferă o oază de liniște; vizitați-o dimineața devreme pentru a scăpa de agitația orașului.",
+            "en": "Discover the rich history of this charming church offering an oasis of peace, and try visiting it in the early morning to escape the bustling noise of the surrounding city."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Della Santissima Trinità",
+            "hu": "Chiesa Della Santissima Trinità",
+            "ro": "Chiesa Della Santissima Trinità",
+            "en": "Chiesa Della Santissima Trinità"
+          },
+          "coords": [
+            12.279392,
+            45.219526
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Kunstwerke in diesem Gotteshaus, das ein tiefes kulturelles Erbe bewahrt; eine kleine Spende hilft oft beim Erhalt der Einrichtung.",
+            "hu": "Tekintse meg a lenyűgöző műalkotásokat ebben a mély kulturális örökséget őrző templomban; egy kis adomány gyakran segít a létesítmény fenntartásában.",
+            "ro": "Priviți operele de artă impresionante din acest lăcaș de cult care păstrează o moștenire profundă; o mică donație ajută adesea la întreținerea facilității.",
+            "en": "View the impressive artworks within this place of worship preserving a deep cultural heritage, and remember that a small donation helps maintain this historical sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Caterina",
+            "hu": "Santa Caterina",
+            "ro": "Santa Caterina",
+            "en": "Santa Caterina"
+          },
+          "coords": [
+            12.281024,
+            45.219834
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische Atmosphäre dieser historischen Stätte, die eng mit der lokalen Geschichte verwoben ist; achten Sie auf die detaillierten Fresken an den Wänden.",
+            "hu": "Tapasztalja meg ennek a helyi történelemmel szorosan összefonódó történelmi helyszínnek az autentikus atmoszféráját; figyeljen a falakon lévő részletes freskókra.",
+            "ro": "Experimentați atmosfera autentică a acestui sit istoric, strâns împletit cu istoria locală; acordați atenție frescelor detaliate de pe pereții interiori.",
+            "en": "Experience the authentic atmosphere of this historical site deeply intertwined with local history, and make sure to look closely at the detailed frescoes on the interior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "hu": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "ro": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "en": "Museo di zoologia marina \"Giuseppe Olivi\""
+          },
+          "coords": [
+            12.281014,
+            45.222446
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Meereswelt der Adria ein, lernen Sie seltene Spezies kennen und buchen Sie Ihr Ticket am besten vorab online, um lange Warteschlangen zu meiden.",
+            "hu": "Merüljön el az Adria lenyűgöző tengeri világában, ismerjen meg ritka fajokat, és a hosszú sorban állás elkerülése érdekében érdemes előre online jegyet foglalnia.",
+            "ro": "Scufundați-vă în lumea marină fascinantă a Adriaticii, cunoașteți specii rare și rezervați-vă biletul online în avans pentru a evita cozile lungi.",
+            "en": "Dive into the fascinating marine world of the Adriatic, learn about rare local species, and book your ticket online in advance to easily avoid long waiting lines at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Andrea",
+            "hu": "Chiesa di Sant'Andrea",
+            "ro": "Chiesa di Sant'Andrea",
+            "en": "Chiesa di Sant'Andrea"
+          },
+          "coords": [
+            12.28007,
+            45.221433
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Diese malerische Kirche besticht durch ihre elegante Fassade und beherbergt wertvolle Reliquien; ein perfekter Ort für stille Reflexion nach einem Spaziergang durch die Gassen.",
+            "hu": "Ez a festői templom elegáns homlokzatával hódít és értékes ereklyéket őriz; tökéletes hely egy csendes elmélkedéshez a sikátorokban tett séta után.",
+            "ro": "Această biserică pitorească impresionează prin fațada sa elegantă și adăpostește relicve valoroase; un loc perfect pentru reflecție tăcută după o plimbare pe străduțe.",
+            "en": "This picturesque church captivates with its elegant facade and valuable relics, making it a perfect spot for quiet reflection after a stroll through the narrow local alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa San Martino Vescovo",
+            "hu": "Chiesa San Martino Vescovo",
+            "ro": "Chiesa San Martino Vescovo",
+            "en": "Chiesa San Martino Vescovo"
+          },
+          "coords": [
+            12.29022,
+            45.215313
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Rundgang in dieser friedvollen Kirche ab, die mit ihrer schlichten Schönheit besticht; achten Sie auf die besonderen Lichteinfälle am späten Nachmittag.",
+            "hu": "Zárja sétáját ebben a békés templomban, amely egyszerű szépségével hódít; figyelje meg a különleges fényviszonyokat a késő délutáni órákban.",
+            "ro": "Încheiați-vă turul în această biserică pașnică, care impresionează prin frumusețea sa simplă; acordați atenție luminilor speciale din orele târzii ale după-amiezii.",
+            "en": "Conclude your walk in this peaceful church that captivates with its simple beauty, and keep an eye out for the stunning natural light effects streaming in during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Chioggia beginnt mit der majestätischen Kathedrale, deren spirituelle Ruhe Sie perfekt auf den Tag einstimmt, gefolgt von versteckten historischen Kirchen. Mittags erkunden Sie die beeindruckende marine Artenvielfalt im lokalen Museum, das eine kühle und faszinierende Pause bietet. Am Nachmittag schlendern Sie entspannt durch die Gassen zu weiteren sakralen Schätzen. Der Abend klingt an der Kirche San Martino Vescovo aus, wo die goldenen Stunden die Architektur in ein warmes Licht tauchen.",
+        "hu": "A reggel a fenséges katedrálissal kezdődik, amelynek spirituális nyugalma tökéletesen megalapozza a napot, majd rejtett történelmi templomok következnek. Délben a helyi múzeumban fedezheti fel a lenyűgöző tengeri biodiverzitást, ami hűvös és érdekes pihenőt nyújt. Délután kényelmesen sétálhat a sikátorokban további szakrális kincsekhez. Az estét a San Martino Vescovo templomnál zárja, ahol a naplemente meleg fénybe öltözteti az építészetet.",
+        "ro": "Dimineața începe cu catedrala maiestuoasă, a cărei liniște spirituală vă pregătește perfect pentru zi, urmată de biserici istorice ascunse. La prânz, explorați biodiversitatea marină impresionantă la muzeul local, oferind o pauză răcoroasă și fascinantă. După-amiaza vă plimbați relaxat pe străduțe spre alte comori sacre. Seara se încheie la biserica San Martino Vescovo, unde lumina caldă a soarelui de apus îmbrățișează arhitectura.",
+        "en": "Your morning starts with the majestic cathedral, whose spiritual tranquility perfectly sets the tone for the day, followed by exploring hidden historical churches. At midday, discover the impressive marine biodiversity at the local museum, which offers a cool and fascinating break from the sun. In the afternoon, stroll leisurely through the narrow alleys to uncover more sacred local treasures. The evening concludes at the San Martino Vescovo church, where the golden hour bathes the architecture in a warm, beautiful light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 4.43,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "hu": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "ro": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "en": "Museo di zoologia marina \"Giuseppe Olivi\""
+          },
+          "coords": [
+            12.281014,
+            45.222446
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Meereswelt der Adria ein, lernen Sie seltene Spezies kennen und buchen Sie Ihr Ticket am besten vorab online, um lange Warteschlangen zu meiden.",
+            "hu": "Merüljön el az Adria lenyűgöző tengeri világában, ismerjen meg ritka fajokat, és a hosszú sorban állás elkerülése érdekében érdemes előre online jegyet foglalnia.",
+            "ro": "Scufundați-vă în lumea marină fascinantă a Adriaticii, cunoașteți specii rare și rezervați-vă biletul online în avans pentru a evita cozile lungi.",
+            "en": "Dive into the fascinating marine world of the Adriatic, learn about rare local species, and book your ticket online in advance to easily avoid long waiting lines at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Cattedrale di Santa Maria Assunta",
+            "ro": "Cattedrale di Santa Maria Assunta",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            12.277254,
+            45.216915
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser historischen Kathedrale, spüren Sie die spirituelle Ruhe und achten Sie besonders auf die kunstvollen Altarbilder im Inneren.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak a pompás építészetét, érezze át a spirituális nyugalmat, és figyeljen a belső tér művészi oltárképeire.",
+            "ro": "Admirați arhitectura magnifică a acestei catedrale istorice, simțiți liniștea spirituală și acordați o atenție deosebită picturilor artistice de pe altarul din interior.",
+            "en": "Admire the magnificent architecture of this historic cathedral, feel the spiritual tranquility, and pay special attention to the ornate altarpieces inside during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna di Lourdes e Santa Maria Goretti",
+            "hu": "Chiesa della Madonna di Lourdes e Santa Maria Goretti",
+            "ro": "Chiesa della Madonna di Lourdes e Santa Maria Goretti",
+            "en": "Chiesa della Madonna di Lourdes e Santa Maria Goretti"
+          },
+          "coords": [
+            12.294701,
+            45.219595
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.39,
+          "tip_5lang": {
+            "de": "Diese moderne Kirche bietet einen interessanten Kontrast zu den historischen Bauten der Region; nutzen Sie die ruhige Umgebung für eine kurze, entspannende Pause.",
+            "hu": "Ez a modern templom érdekes kontrasztot alkot a régió történelmi épületeivel; használja ki a csendes környezetet egy rövid, pihentető szünetre.",
+            "ro": "Această biserică modernă oferă un contrast interesant față de clădirile istorice din regiune; profitați de mediul liniștit pentru o scurtă pauză relaxantă.",
+            "en": "This modern church offers an interesting architectural contrast to the historical buildings of the region, so take advantage of the quiet surroundings for a short relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Tropical",
+            "hu": "Bagni Tropical",
+            "ro": "Bagni Tropical",
+            "en": "Bagni Tropical"
+          },
+          "coords": [
+            12.30056,
+            45.226977
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem herrlichen Strandabschnitt mit exzellentem Service, spüren Sie den feinen Sand und mieten Sie sich frühzeitig eine Liege für den perfekten Tag.",
+            "hu": "Pihenjen ezen a kiváló szolgáltatásokat nyújtó, csodálatos strandszakaszon, érezze a finom homokot, és béreljen időben napágyat a tökéletes naphoz.",
+            "ro": "Relaxați-vă pe această plajă minunată cu servicii excelente, simțiți nisipul fin și închiriați un șezlong din timp pentru o zi perfectă la mare.",
+            "en": "Relax on this wonderful stretch of beach offering excellent service, feel the fine sand underfoot, and rent a sunbed early to guarantee a perfectly comfortable day by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Diga Sottomarina",
+            "hu": "Diga Sottomarina",
+            "ro": "Diga Sottomarina",
+            "en": "Diga Sottomarina"
+          },
+          "coords": [
+            12.292204,
+            45.230182
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses beeindruckenden Damms, genießen Sie den Panoramablick auf das Meer und tragen Sie unbedingt bequeme Schuhe für den etwas längeren, windigen Weg.",
+            "hu": "Sétáljon végig ezen a lenyűgöző gáton, élvezze a tengerre nyíló panorámát, és mindenképpen viseljen kényelmes cipőt a kissé hosszú, szeles úthoz.",
+            "ro": "Plimbați-vă de-a lungul acestui baraj impresionant, bucurați-vă de vederea panoramică la mare și purtați neapărat încălțăminte confortabilă pentru drumul lung și vântos.",
+            "en": "Walk along this impressive dam, enjoy the sweeping panoramic views of the open sea, and be sure to wear comfortable shoes for the slightly long and breezy coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "In Diga",
+            "hu": "In Diga",
+            "ro": "In Diga",
+            "en": "In Diga"
+          },
+          "coords": [
+            12.300852,
+            45.229368
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Treiben in dieser beliebten Freizeitanlage, kosten Sie lokale Snacks an den Ständen und bleiben Sie bis zum Sonnenuntergang für spektakuläre Fotos.",
+            "hu": "Tapasztalja meg a nyüzsgést ebben a népszerű szabadidős létesítményben, kóstolja meg a helyi falatokat, és maradjon naplementéig a látványos fotókért.",
+            "ro": "Experimentați agitația din această facilitate de agrement populară, gustați gustări locale la tarabe și rămâneți până la apus pentru fotografii spectaculoase.",
+            "en": "Experience the lively atmosphere in this popular recreational area, taste delicious local snacks at the stands, and stay until sunset to capture some truly spectacular ocean photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie sportlich am Meeresmuseum, bevor Sie in die historische Atmosphäre der Kathedrale von Chioggia eintauchen und die morgendliche Brise genießen. Mittags radeln Sie zügig nach Sottomarina, um die moderne Architektur der lokalen Kirchen und die lebhaften Straßen zu bewundern. Der Nachmittag gehört dem Strand an den Bagni Tropical, wo Sand und Meer zur perfekten Entspannung einladen. Zum Abendessen radeln Sie zum Damm, um den Sonnenuntergang über dem offenen Meer bei In Diga zu feiern.",
+        "hu": "Kezdje a napot sportosan a Tengerészeti Múzeumnál, mielőtt elmerülne a katedrális történelmi hangulatában, élvezve a reggeli szellőt. Délben tempósan tekerjen Sottomarinába, hogy megcsodálja a helyi templomok modern építészetét és a nyüzsgő utcákat. A délután a Bagni Tropical strandjáé, ahol a homok és a tenger tökéletes kikapcsolódást nyújt. Vacsora előtt tekerjen a gáthoz, hogy megünnepelje a naplementét a nyílt tenger felett az In Diga-nál.",
+        "ro": "Începeți sportiv la Muzeul Mării, înainte de a vă scufunda în atmosfera istorică a catedralei, bucurându-vă de briza dimineții. La prânz, pedalați rapid spre Sottomarina pentru a admira arhitectura modernă a bisericilor locale și străzile pline de viață. După-amiaza aparține plajei la Bagni Tropical, unde nisipul și marea vă invită la relaxare. Seara, mergeți cu bicicleta spre baraj pentru a sărbători apusul de soare peste marea deschisă la In Diga.",
+        "en": "Start your day actively at the marine museum before diving into the historical atmosphere of the local cathedral while enjoying the fresh morning breeze. At midday, cycle briskly towards Sottomarina to admire the modern architecture of the local churches and the lively, bustling streets. The afternoon belongs to the sandy shores of Bagni Tropical, where the beach and sea invite perfect relaxation. For the evening, ride out to the scenic dam to celebrate a magnificent open-sea sunset at In Diga."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.13,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parrocchia San Giovanni Battista",
+            "hu": "Parrocchia San Giovanni Battista",
+            "ro": "Parrocchia San Giovanni Battista",
+            "en": "Parrocchia San Giovanni Battista"
+          },
+          "coords": [
+            12.276352,
+            45.201707
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche am Morgen, um ihre spirituelle Bedeutung für die Einheimischen zu verstehen und die Ruhe vor dem Ansturm der Touristen zu genießen.",
+            "hu": "Látogassa meg ezt a bájos plébániatemplomot reggel, hogy megértse spirituális jelentőségét a helyiek számára, és élvezze a nyugalmat a turisták rohama előtt.",
+            "ro": "Vizitați această biserică parohială fermecătoare dimineața pentru a înțelege importanța sa spirituală pentru localnici și bucurați-vă de liniște înainte de aglomerația turiștilor.",
+            "en": "Visit this charming parish church in the morning to understand its spiritual significance for the locals and to enjoy the tranquility before the main rush of tourists arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario della Beata Vergine della Navicella",
+            "hu": "Santuario della Beata Vergine della Navicella",
+            "ro": "Santuario della Beata Vergine della Navicella",
+            "en": "Santuario della Beata Vergine della Navicella"
+          },
+          "coords": [
+            12.283498,
+            45.195687
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses tief verehrte Heiligtum, das mit faszinierenden Legenden verbunden ist; respektieren Sie die Stille und tragen Sie angemessene, schulterbedeckende Kleidung.",
+            "hu": "Fedezze fel ezt a mélyen tisztelt, lenyűgöző legendákhoz fűződő szentélyt; tartsa tiszteletben a csendet, és viseljen megfelelő, vállakat takaró ruházatot.",
+            "ro": "Descoperiți acest sanctuar profund venerat, asociat cu legende fascinante; respectați liniștea și purtați îmbrăcăminte adecvată, care să vă acopere umerii.",
+            "en": "Discover this deeply venerated sanctuary associated with fascinating local legends, respect the peaceful silence, and wear appropriate clothing that comfortably covers your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santo Spirito",
+            "hu": "Chiesa Santo Spirito",
+            "ro": "Chiesa Santo Spirito",
+            "en": "Chiesa Santo Spirito"
+          },
+          "coords": [
+            12.288572,
+            45.205253
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser Kirche, die einen faszinierenden Einblick in die religiöse Architektur der Region bietet, und nutzen Sie die Bänke für eine kurze Rast.",
+            "hu": "Csodálja meg e templom egyszerű eleganciáját, amely lenyűgöző bepillantást nyújt a régió vallási építészetébe, és használja a padokat egy rövid pihenőre.",
+            "ro": "Admirați eleganța simplă a acestei biserici, care oferă o perspectivă fascinantă asupra arhitecturii religioase a regiunii și folosiți băncile pentru o scurtă odihnă.",
+            "en": "Admire the simple elegance of this church offering a fascinating glimpse into the region's religious architecture, and use the comfortable wooden benches for a short, peaceful rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santa Maria Assunta",
+            "hu": "Cattedrale di Santa Maria Assunta",
+            "ro": "Cattedrale di Santa Maria Assunta",
+            "en": "Cattedrale di Santa Maria Assunta"
+          },
+          "coords": [
+            12.277254,
+            45.216915
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser historischen Kathedrale, spüren Sie die spirituelle Ruhe und achten Sie besonders auf die kunstvollen Altarbilder im Inneren.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak a pompás építészetét, érezze át a spirituális nyugalmat, és figyeljen a belső tér művészi oltárképeire.",
+            "ro": "Admirați arhitectura magnifică a acestei catedrale istorice, simțiți liniștea spirituală și acordați o atenție deosebită picturilor artistice de pe altarul din interior.",
+            "en": "Admire the magnificent architecture of this historic cathedral, feel the spiritual tranquility, and pay special attention to the ornate altarpieces inside during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "hu": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "ro": "Museo di zoologia marina \"Giuseppe Olivi\"",
+            "en": "Museo di zoologia marina \"Giuseppe Olivi\""
+          },
+          "coords": [
+            12.281014,
+            45.222446
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Meereswelt der Adria ein, lernen Sie seltene Spezies kennen und buchen Sie Ihr Ticket am besten vorab online, um lange Warteschlangen zu meiden.",
+            "hu": "Merüljön el az Adria lenyűgöző tengeri világában, ismerjen meg ritka fajokat, és a hosszú sorban állás elkerülése érdekében érdemes előre online jegyet foglalnia.",
+            "ro": "Scufundați-vă în lumea marină fascinantă a Adriaticii, cunoașteți specii rare și rezervați-vă biletul online în avans pentru a evita cozile lungi.",
+            "en": "Dive into the fascinating marine world of the Adriatic, learn about rare local species, and book your ticket online in advance to easily avoid long waiting lines at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Tropical",
+            "hu": "Bagni Tropical",
+            "ro": "Bagni Tropical",
+            "en": "Bagni Tropical"
+          },
+          "coords": [
+            12.30056,
+            45.226977
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem herrlichen Strandabschnitt mit exzellentem Service, spüren Sie den feinen Sand und mieten Sie sich frühzeitig eine Liege für den perfekten Tag.",
+            "hu": "Pihenjen ezen a kiváló szolgáltatásokat nyújtó, csodálatos strandszakaszon, érezze a finom homokot, és béreljen időben napágyat a tökéletes naphoz.",
+            "ro": "Relaxați-vă pe această plajă minunată cu servicii excelente, simțiți nisipul fin și închiriați un șezlong din timp pentru o zi perfectă la mare.",
+            "en": "Relax on this wonderful stretch of beach offering excellent service, feel the fine sand underfoot, and rent a sunbed early to guarantee a perfectly comfortable day by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "In Diga",
+            "hu": "In Diga",
+            "ro": "In Diga",
+            "en": "In Diga"
+          },
+          "coords": [
+            12.300852,
+            45.229368
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Treiben in dieser beliebten Freizeitanlage, kosten Sie lokale Snacks an den Ständen und bleiben Sie bis zum Sonnenuntergang für spektakuläre Fotos.",
+            "hu": "Tapasztalja meg a nyüzsgést ebben a népszerű szabadidős létesítményben, kóstolja meg a helyi falatokat, és maradjon naplementéig a látványos fotókért.",
+            "ro": "Experimentați agitația din această facilitate de agrement populară, gustați gustări locale la tarabe și rămâneți până la apus pentru fotografii spectaculoase.",
+            "en": "Experience the lively atmosphere in this popular recreational area, taste delicious local snacks at the stands, and stay until sunset to capture some truly spectacular ocean photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im südlichen Chioggia bei der Kirche San Giovanni Battista und dem faszinierenden Santuario della Navicella. Gegen Mittag fahren Sie ins Zentrum, parken in der Nähe der majestätischen Kathedrale und besuchen das kühle, lehrreiche Meeresmuseum. Am Nachmittag wechseln Sie an die Küste von Sottomarina, wo die Bagni Tropical pure Entspannung unter der italienischen Sonne garantieren. Der Tag endet spektakulär am äußersten Damm bei In Diga, wo das Meer in abendlichen Farben leuchtet.",
+        "hu": "Autós túrája Chioggia déli részén kezdődik a San Giovanni Battista templomnál és a lenyűgöző Santuario della Navicella szentélynél. Dél körül a központba hajt, leparkol a fenséges katedrális közelében, és ellátogat a hűvös, tanulságos Tengerészeti Múzeumba. Délután a sottomarinai partra vált, ahol a Bagni Tropical tiszta kikapcsolódást ígér az olasz nap alatt. A nap látványosan ér véget a külső gátnál, az In Diga-nál, ahol a tenger esti színekben pompázik.",
+        "ro": "Turul cu mașina începe în sudul orașului Chioggia, la biserica San Giovanni Battista și la fascinantul Santuario della Navicella. În jurul prânzului, conduceți spre centru, parcați lângă maiestuoasa catedrală și vizitați muzeul maritim răcoros și educativ. După-amiaza, vă mutați pe coasta din Sottomarina, unde Bagni Tropical garantează relaxare pură sub soarele italian. Ziua se încheie spectaculos la barajul exterior de la In Diga, unde marea strălucește în culori de seară.",
+        "en": "Your car tour begins in southern Chioggia at the San Giovanni Battista church and the deeply fascinating Santuario della Navicella sanctuary. Around midday, drive towards the center, park near the majestic main cathedral, and visit the cool, highly educational marine museum. In the afternoon, transition to the Sottomarina coast, where Bagni Tropical guarantees pure relaxation under the warm Italian sun. The day ends spectacularly at the outer dam near In Diga, where the ocean glows in evening colors."
+      }
+    }
+  }
+}

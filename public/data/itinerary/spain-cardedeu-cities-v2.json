@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-cardedeu-cities-v2",
+  "anchor": {
+    "name": "Cardedeu",
+    "coords": [
+      2.3575,
+      41.639722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.356162,
+            41.6386
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur dieser Pfarrkirche mit ihrem gut erhaltenen Glockenturm und kommen Sie früh, um das Morgenlicht auf der historischen Fassade zu genießen.",
+            "hu": "Csodálja meg a plébániatemplom lenyűgöző középkori építészetét és jó állapotban fennmaradt harangtornyát, majd érkezzen korán, hogy élvezhesse a történelmi homlokzatot megvilágító reggeli fényeket.",
+            "ro": "Admirați arhitectura medievală impresionantă a acestei biserici parohiale, remarcând turnul clopotniței excelent conservat, și vizitați devreme pentru a vă bucura de lumina dimineții pe fațada istorică.",
+            "en": "Admire the striking medieval architecture of this parish church, noting the beautifully preserved bell tower, and visit early to enjoy the morning light illuminating its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arxiu Tomàs Balvey",
+            "hu": "Museu Arxiu Tomàs Balvey",
+            "ro": "Museu Arxiu Tomàs Balvey",
+            "en": "Museu Arxiu Tomàs Balvey"
+          },
+          "coords": [
+            2.354868,
+            41.637892
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende lokale Geschichte und eine beeindruckende alte Apothekensammlung. Fragen Sie unbedingt das Personal nach den kunstvoll verzierten keramischen Apothekengefäßen.",
+            "hu": "Fedezze fel a lenyűgöző helytörténetet és egy lenyűgöző ősi patika gyűjteményt, és feltétlenül kérdezze meg a személyzetet a bonyolult díszítésű kerámia patikaedények történetéről.",
+            "ro": "Descoperiți istoria locală fascinantă și o colecție impresionantă de farmacie antică aici, asigurându-vă că întrebați personalul despre borcanele farmaceutice din ceramică decorate cu migală.",
+            "en": "Discover the fascinating local history and an impressive ancient pharmacy collection here, making sure to ask the staff about the intricately decorated ceramic apothecary jars."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Montserrat",
+            "hu": "Torre Montserrat",
+            "ro": "Torre Montserrat",
+            "en": "Torre Montserrat"
+          },
+          "coords": [
+            2.360701,
+            41.637312
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die eleganten modernistischen Linien dieses markanten lokalen Turms zu würdigen, und blicken Sie von der Straße nach oben, um die floralen Motive der Balkone zu sehen.",
+            "hu": "Szánjon egy percet ennek a jellegzetes helyi toronynak az elegáns modernista vonalainak megcsodálására, és nézzen fel az utcaszintről, hogy megfigyelhesse a felső erkélyekbe vésett gyönyörű virágmotívumokat.",
+            "ro": "Luați-vă un moment pentru a aprecia liniile moderniste elegante ale acestui turn local distinctiv, privind în sus de la nivelul străzii pentru a observa frumoasele motive florale gravate pe balcoanele superioare.",
+            "en": "Take a moment to appreciate the elegant modernist lines of this distinctive local tower, looking up from the street level to spot the beautiful floral motifs etched into its upper balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment ibèric de Can Suari",
+            "hu": "Jaciment ibèric de Can Suari",
+            "ro": "Jaciment ibèric de Can Suari",
+            "en": "Jaciment ibèric de Can Suari"
+          },
+          "coords": [
+            2.376558,
+            41.624333
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Antike ein, während Sie die Überreste dieser iberischen Siedlung erkunden, und tragen Sie feste Wanderschuhe, da das Gelände um diese faszinierenden archäologischen Ruinen sehr uneben ist.",
+            "hu": "Lépjen vissza az ókorba, miközben felfedezi ezen ibériai település maradványait, és viseljen masszív túracipőt, mivel a lenyűgöző régészeti romok körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Pășiți înapoi în vremuri antice în timp ce explorați rămășițele acestei așezări iberice și purtați încălțăminte de drumeție robustă, deoarece terenul din jurul acestor ruine arheologice este destul de denivelat.",
+            "en": "Step back into ancient times as you explore the remnants of this Iberian settlement, and wear sturdy walking shoes since the terrain around these fascinating archeological ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Campus Zona Residencial Sant Josep",
+            "hu": "Campus Zona Residencial Sant Josep",
+            "ro": "Campus Zona Residencial Sant Josep",
+            "en": "Campus Zona Residencial Sant Josep"
+          },
+          "coords": [
+            2.369547,
+            41.622296
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Erholungsgebiet, das sich perfekt zum Abschalten nach einem Sightseeing-Tag eignet, und bringen Sie ein kleines Picknick mit, das Sie auf den schattigen Grasflächen genießen können.",
+            "hu": "Pihenjen ebben a kiterjedt rekreációs övezetben, amely tökéletes kikapcsolódást nyújt egy városnézéssel töltött nap után, és hozzon magával egy kis pikniket, amelyet az árnyékos füves foltokon fogyaszthat el.",
+            "ro": "Relaxați-vă în această zonă extinsă de recreere, perfectă pentru deconectare după o zi de vizite, și aduceți un mic picnic pentru a-l savura pe zonele cu iarbă umbrită răspândite pe terenurile pașnice.",
+            "en": "Relax in this expansive recreational area perfect for unwinding after a day of sightseeing, and bring a small picnic to enjoy on the shaded grassy patches scattered throughout the peaceful grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Cardedeu in der markanten Església de Santa Maria, wo sich mittelalterliche Architektur mit der Stille des Morgens verbindet. Schlendern Sie dann zum Museu Arxiu Tomàs Balvey, um die lokale Geschichte und die alte Apotheke zu entdecken.\nNachdem Sie das Museum erkundet haben, können Sie die eleganten modernistischen Details des Torre Montserrat bewundern, bevor Sie entspannt nach Süden spazieren. Lassen Sie sich vom Charme der Straßen leiten, während Sie sich den älteren archäologischen Schätzen der Region nähern.\nErreichen Sie das Jaciment ibèric de Can Suari und reisen Sie in die Vergangenheit, um die alten iberischen Wurzeln der Gegend zu entdecken. Verbringen Sie Zeit damit, durch die Ruinen zu wandern und sich das Leben derer vorzustellen, die vor Jahrhunderten hier wandelten.\nBeenden Sie Ihre Wanderung auf dem grünen Campus Zona Residencial Sant Josep. Entspannen Sie sich in diesem friedlichen Erholungsgebiet, genießen Sie die sanfte Abendbrise und lassen Sie die verschiedenen historischen Epochen des Tages entspannt Revue passieren.",
+        "hu": "Kezdje a napot Cardedeu szívében a lenyűgöző Església de Santa Maria meglátogatásával, ahol a középkori építészet és a reggeli nyugalom találkozik. Ezután sétáljon át a Museu Arxiu Tomàs Balvey-be, és fedezze fel a lenyűgöző helytörténetet és az ősi patikát.\nA múzeum felfedezése után csodálja meg a Torre Montserrat elegáns, modernista részleteit, mielőtt kényelmes sétát tenne dél felé. Hagyja, hogy a város utcáinak varázsa elkalauzolja a modern nevezetességektől a régió régebbi, régészeti kincsei felé.\nÉrkezzen meg a Jaciment ibèric de Can Suari-hoz, visszalépve az időben, hogy felfedezze a terület ősi ibériai gyökereit. Szánjon elegendő időt a romok bejárására, és képzelje el azok mindennapi életét, akik évszázadokkal ezelőtt itt jártak.\nFejezze be gyalogos utazását a buja Campus Zona Residencial Sant Josep területén. Kapcsolódjon ki ebben a békés rekreációs övezetben, élvezze a lágy esti szellőt, és elmélkedjen a nap folyamán felfedezett sokszínű történelmi korszakokon.",
+        "ro": "Începeți-vă ziua în inima orașului Cardedeu vizitând impresionanta Església de Santa Maria, unde arhitectura medievală se îmbină cu liniștea dimineții. Apoi, plimbați-vă spre Museu Arxiu Tomàs Balvey pentru a descoperi istoria locală și faimoasa sa farmacie antică.\nDupă explorarea muzeului, admirați detaliile moderniste elegante ale Torre Montserrat înainte de a face o plimbare relaxantă spre sud. Lăsați farmecul străzilor să vă ghideze pe măsură ce treceți de la repere moderne către comorile arheologice mai vechi ale regiunii.\nAjungeți la Jaciment ibèric de Can Suari, întorcându-vă în timp pentru a descoperi rădăcinile iberice antice ale zonei. Petreceți timp rătăcind prin ruine, imaginându-vă viața de zi cu zi a celor care au pășit pe aceste pământuri cu secole în urmă.\nÎncheiați-vă călătoria pe jos la luxuriantul Campus Zona Residencial Sant Josep. Relaxați-vă în această zonă pașnică de recreere, bucurându-vă de briza blândă a serii și reflectând la diversele epoci istorice pe care le-ați explorat pe parcursul întregii zile.",
+        "en": "Begin your day in the heart of Cardedeu by visiting the striking Església de Santa Maria, where medieval architecture meets morning tranquility. Then, stroll over to the Museu Arxiu Tomàs Balvey to discover fascinating local history and its renowned ancient pharmacy.\nMidday: After exploring the museum, admire the elegant modernist details of Torre Montserrat before taking a leisurely walk south. Let the charm of the city streets guide you as you transition from modern landmarks toward the region's older, archaeological treasures.\nAfternoon: Arrive at the Jaciment ibèric de Can Suari, stepping back in time to uncover the ancient Iberian roots of the area. Spend ample time wandering through the ruins, imagining the daily lives of those who walked these grounds centuries ago.\nEvening: Conclude your walking journey at the lush Campus Zona Residencial Sant Josep. Unwind in this peaceful recreational area, enjoying the gentle evening breeze and reflecting on the diverse historical epochs you've explored throughout the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 6.56,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.356162,
+            41.6386
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur dieser Pfarrkirche mit ihrem gut erhaltenen Glockenturm und kommen Sie früh, um das Morgenlicht auf der historischen Fassade zu genießen.",
+            "hu": "Csodálja meg a plébániatemplom lenyűgöző középkori építészetét és jó állapotban fennmaradt harangtornyát, majd érkezzen korán, hogy élvezhesse a történelmi homlokzatot megvilágító reggeli fényeket.",
+            "ro": "Admirați arhitectura medievală impresionantă a acestei biserici parohiale, remarcând turnul clopotniței excelent conservat, și vizitați devreme pentru a vă bucura de lumina dimineții pe fațada istorică.",
+            "en": "Admire the striking medieval architecture of this parish church, noting the beautifully preserved bell tower, and visit early to enjoy the morning light illuminating its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arxiu Tomàs Balvey",
+            "hu": "Museu Arxiu Tomàs Balvey",
+            "ro": "Museu Arxiu Tomàs Balvey",
+            "en": "Museu Arxiu Tomàs Balvey"
+          },
+          "coords": [
+            2.354868,
+            41.637892
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende lokale Geschichte und eine beeindruckende alte Apothekensammlung. Fragen Sie unbedingt das Personal nach den kunstvoll verzierten keramischen Apothekengefäßen.",
+            "hu": "Fedezze fel a lenyűgöző helytörténetet és egy lenyűgöző ősi patika gyűjteményt, és feltétlenül kérdezze meg a személyzetet a bonyolult díszítésű kerámia patikaedények történetéről.",
+            "ro": "Descoperiți istoria locală fascinantă și o colecție impresionantă de farmacie antică aici, asigurându-vă că întrebați personalul despre borcanele farmaceutice din ceramică decorate cu migală.",
+            "en": "Discover the fascinating local history and an impressive ancient pharmacy collection here, making sure to ask the staff about the intricately decorated ceramic apothecary jars."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Montserrat",
+            "hu": "Torre Montserrat",
+            "ro": "Torre Montserrat",
+            "en": "Torre Montserrat"
+          },
+          "coords": [
+            2.360701,
+            41.637312
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die eleganten modernistischen Linien dieses markanten lokalen Turms zu würdigen, und blicken Sie von der Straße nach oben, um die floralen Motive der Balkone zu sehen.",
+            "hu": "Szánjon egy percet ennek a jellegzetes helyi toronynak az elegáns modernista vonalainak megcsodálására, és nézzen fel az utcaszintről, hogy megfigyelhesse a felső erkélyekbe vésett gyönyörű virágmotívumokat.",
+            "ro": "Luați-vă un moment pentru a aprecia liniile moderniste elegante ale acestui turn local distinctiv, privind în sus de la nivelul străzii pentru a observa frumoasele motive florale gravate pe balcoanele superioare.",
+            "en": "Take a moment to appreciate the elegant modernist lines of this distinctive local tower, looking up from the street level to spot the beautiful floral motifs etched into its upper balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Pere",
+            "hu": "Sant Pere",
+            "ro": "Sant Pere",
+            "en": "Sant Pere"
+          },
+          "coords": [
+            2.335544,
+            41.62546
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde religiöse Stätte, die eine friedliche Atmosphäre abseits des geschäftigen Zentrums bietet, und setzen Sie sich auf die nahegelegenen Bänke, um die Ruhe des alten Mauerwerks zu genießen.",
+            "hu": "Látogasson el erre a bájos vallási helyszínre, amely békés légkörrel büszkélkedhet a nyüzsgő központtól távol, és üljön le a közeli padokra, hogy teljesen magába szívja az ősi kőműves munkák nyugalmát.",
+            "ro": "Vizitați acest sit religios fermecător care se mândrește cu o atmosferă pașnică departe de centrul plin de viață, luându-vă un moment pentru a sta pe băncile din apropiere și a absorbi liniștea zidăriei antice.",
+            "en": "Visit this charming religious site that boasts a peaceful atmosphere away from the bustling center, taking a moment to sit on the nearby benches to fully absorb the tranquility of the ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromlec de Pins Rosers",
+            "hu": "Cromlec de Pins Rosers",
+            "ro": "Cromlec de Pins Rosers",
+            "en": "Cromlec de Pins Rosers"
+          },
+          "coords": [
+            2.3628,
+            41.62087
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese rätselhaften prähistorischen stehenden Steine in der Landschaft und stellen Sie sicher, dass Sie am späten Nachmittag ankommen, um die dramatischen Schatten zu sehen, die über das Denkmal fallen.",
+            "hu": "Csodálja meg ezeket a rejtélyes, tájba simuló őskori állóköveket, és ügyeljen arra, hogy késő délután érkezzen, hogy láthassa a drámai, hosszú árnyékokat, amelyek erre az ősi emlékműre vetülnek.",
+            "ro": "Minunați-vă de aceste pietre preistorice enigmatice așezate în peisaj, asigurându-vă că ajungeți în a doua parte a după-amiezii pentru a vedea umbrele lungi proiectate dramatic peste acest monument antic.",
+            "en": "Marvel at these enigmatic prehistoric standing stones nestled within the landscape, ensuring you arrive during the late afternoon to see the long shadows cast dramatically across this ancient monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment ibèric de Can Suari",
+            "hu": "Jaciment ibèric de Can Suari",
+            "ro": "Jaciment ibèric de Can Suari",
+            "en": "Jaciment ibèric de Can Suari"
+          },
+          "coords": [
+            2.376558,
+            41.624333
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Antike ein, während Sie die Überreste dieser iberischen Siedlung erkunden, und tragen Sie feste Wanderschuhe, da das Gelände um diese faszinierenden archäologischen Ruinen sehr uneben ist.",
+            "hu": "Lépjen vissza az ókorba, miközben felfedezi ezen ibériai település maradványait, és viseljen masszív túracipőt, mivel a lenyűgöző régészeti romok körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Pășiți înapoi în vremuri antice în timp ce explorați rămășițele acestei așezări iberice și purtați încălțăminte de drumeție robustă, deoarece terenul din jurul acestor ruine arheologice este destul de denivelat.",
+            "en": "Step back into ancient times as you explore the remnants of this Iberian settlement, and wear sturdy walking shoes since the terrain around these fascinating archeological ruins can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der majestätischen Església de Santa Maria und genießen Sie die Atmosphäre, bevor Sie zum Museu Arxiu Tomàs Balvey radeln. Tauchen Sie hier in die Vergangenheit von Cardedeu ein und bestaunen Sie die antiken Apothekenausstellungen.\nRadeln Sie weiter, um einen Blick auf die markante Architektur des Torre Montserrat zu werfen. Genießen Sie danach eine malerische und erfrischende Fahrt aus dem Zentrum heraus zum ruhigen Gelände von Sant Pere, einer schönen religiösen Stätte in natürlicher Umgebung.\nSetzen Sie Ihre Reise durch die malerische Landschaft zum Cromlec de Pins Rosers fort. Nehmen Sie sich Zeit, diese faszinierenden prähistorischen Steine zu erkunden, und lassen Sie sich von der geheimnisvollen Aura dieses alten Ortes Jahrtausende zurückversetzen.\nBeenden Sie Ihre Fahrt am Jaciment ibèric de Can Suari und navigieren Sie über die Wege rund um die Ruinen. Wenn die Sonne untergeht, bieten die alten iberischen Fundamente eine spektakuläre Kulisse, um den Tag der aktiven historischen Erkundung Revue passieren zu lassen.",
+        "hu": "Kezdje kerékpártúráját a fenséges Església de Santa Maria-nál, majd tekerjen át a Museu Arxiu Tomàs Balvey-be. Itt merüljön el Cardedeu múltjában, és csodálja meg a gyönyörűen fennmaradt, antik gyógyszertári kiállításokat, mielőtt tovább indulna a városban.\nTekerjen tovább, hogy megcsodálja a Torre Montserrat lenyűgöző építészetét. Ezután élvezze a festői és frissítő biciklitúrát a nyüzsgő központból kifelé a Sant Pere nyugodt területére, amely egy gyönyörű vallási helyszín, természetes nyugalommal övezve.\nFolytassa útját a festői tájon keresztül a Cromlec de Pins Rosers felé. Szánjon időt ezeknek a lenyűgöző őskori köveknek a felfedezésére, hagyva, hogy az ősi helyszín titokzatos aurája évezredekkel repítse vissza az időben ezen a békés délutánon.\nFejezze be a túrát a Jaciment ibèric de Can Suari-nál, navigálva a romok körüli ösvényeken. Ahogy a nap lemegy, az ősi ibériai alapok látványos hátteret biztosítanak az aktív történelmi felfedezésekkel teli csodálatos nap lezárásához és az elcsendesedéshez.",
+        "ro": "Începeți-vă turul cu bicicleta la maiestuoasa Església de Santa Maria, absorbind atmosfera istorică înainte de o plimbare rapidă spre Museu Arxiu Tomàs Balvey. Aici, scufundați-vă în trecutul orașului Cardedeu și minunați-vă de expozițiile de farmacie antică.\nPedalați pentru a arunca o privire la arhitectura impresionantă a Torre Montserrat. Apoi, bucurați-vă de o plimbare pitorească și revigorantă cu bicicleta din centrul aglomerat către terenurile liniștite de la Sant Pere, un loc religios minunat, înconjurat de natură.\nContinuați-vă călătoria prin peisajul pitoresc până la Cromlec de Pins Rosers. Luați-vă timp pentru a explora aceste pietre preistorice fascinante, permițând aurei misterioase a acestui sit antic să vă transporte înapoi cu mii de ani în timp.\nTerminați-vă plimbarea la Jaciment ibèric de Can Suari, navigând pe traseele accidentate din jurul ruinelor. Pe măsură ce soarele apune, fundațiile iberice antice oferă un fundal spectaculos pentru a reflecta asupra unei zile minunate de explorare istorică activă.",
+        "en": "Morning: Kick off your cycling tour at the majestic Església de Santa Maria, soaking in its historical atmosphere before a quick ride to the Museu Arxiu Tomàs Balvey. Here, dive deep into Cardedeu's past and marvel at the beautifully preserved antique apothecary displays.\nMidday: Pedal over to catch a glimpse of the Torre Montserrat's striking architecture. Afterward, enjoy a scenic and refreshing bike ride out of the bustling center towards the tranquil grounds of Sant Pere, a lovely religious site surrounded by natural serenity.\nAfternoon: Continue your journey through the picturesque landscape to the Cromlec de Pins Rosers. Take your time to explore these fascinating prehistoric stones, allowing the mysterious aura of this ancient site to transport you back thousands of years.\nEvening: Finish your ride at the Jaciment ibèric de Can Suari, navigating the rugged trails around the ruins. As the sun begins to set, the ancient Iberian foundations offer a spectacular backdrop for reflecting on a wonderful day of active historical exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.18,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.356162,
+            41.6386
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur dieser Pfarrkirche mit ihrem gut erhaltenen Glockenturm und kommen Sie früh, um das Morgenlicht auf der historischen Fassade zu genießen.",
+            "hu": "Csodálja meg a plébániatemplom lenyűgöző középkori építészetét és jó állapotban fennmaradt harangtornyát, majd érkezzen korán, hogy élvezhesse a történelmi homlokzatot megvilágító reggeli fényeket.",
+            "ro": "Admirați arhitectura medievală impresionantă a acestei biserici parohiale, remarcând turnul clopotniței excelent conservat, și vizitați devreme pentru a vă bucura de lumina dimineții pe fațada istorică.",
+            "en": "Admire the striking medieval architecture of this parish church, noting the beautifully preserved bell tower, and visit early to enjoy the morning light illuminating its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arxiu Tomàs Balvey",
+            "hu": "Museu Arxiu Tomàs Balvey",
+            "ro": "Museu Arxiu Tomàs Balvey",
+            "en": "Museu Arxiu Tomàs Balvey"
+          },
+          "coords": [
+            2.354868,
+            41.637892
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende lokale Geschichte und eine beeindruckende alte Apothekensammlung. Fragen Sie unbedingt das Personal nach den kunstvoll verzierten keramischen Apothekengefäßen.",
+            "hu": "Fedezze fel a lenyűgöző helytörténetet és egy lenyűgöző ősi patika gyűjteményt, és feltétlenül kérdezze meg a személyzetet a bonyolult díszítésű kerámia patikaedények történetéről.",
+            "ro": "Descoperiți istoria locală fascinantă și o colecție impresionantă de farmacie antică aici, asigurându-vă că întrebați personalul despre borcanele farmaceutice din ceramică decorate cu migală.",
+            "en": "Discover the fascinating local history and an impressive ancient pharmacy collection here, making sure to ask the staff about the intricately decorated ceramic apothecary jars."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Julià del Fou",
+            "hu": "Sant Julià del Fou",
+            "ro": "Sant Julià del Fou",
+            "en": "Sant Julià del Fou"
+          },
+          "coords": [
+            2.380508,
+            41.648219
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Dorfkirche, die einen authentischen Einblick in das spirituelle Erbe der Region bietet, und denken Sie daran, die Ruhezeiten zu respektieren, falls Sie während der Gebetszeiten kommen.",
+            "hu": "Fedezze fel ezt a történelmi vidéki templomot, amely hiteles bepillantást nyújt a régió spirituális örökségébe, és ne feledje tiszteletben tartani a csendes órákat, ha a helyi ima vagy mise idején látogat.",
+            "ro": "Explorați această biserică istorică rurală care oferă o privire autentică asupra moștenirii spirituale a regiunii și amintiți-vă să respectați orele de liniște dacă vizitați în timpul rugăciunilor sau slujbelor locale.",
+            "en": "Explore this historic countryside church which offers an authentic glimpse into the region's spiritual heritage, and remember to respect the quiet hours if you visit during local prayer or mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            2.401961,
+            41.636161
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.19,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem lebhaften städtischen Schwimmbadkomplex ab, der über ausgezeichnete lokale Einrichtungen verfügt. Bringen Sie unbedingt Handtuch und Sonnencreme für ein erfrischendes Bad im Sommer mit.",
+            "hu": "Hűtse le magát ebben a nyüzsgő közösségi uszodakomplexumban, amely kiváló helyi felszereltséggel rendelkezik, így érdemes saját törölközőt és naptejet hozni egy frissítő déli csobbanáshoz a meleg nyári hónapokban.",
+            "ro": "Răcoriți-vă în acest complex vibrant de piscine comunitare care dispune de facilități locale excelente, fiind ideal să vă aduceți propriul prosop și cremă de soare pentru o baie răcoritoare în lunile calde de vară.",
+            "en": "Cool off in this vibrant community swimming pool complex that features excellent local amenities, making it ideal to bring your own towel and sunscreen for a refreshing midday dip during warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment ibèric de Can Suari",
+            "hu": "Jaciment ibèric de Can Suari",
+            "ro": "Jaciment ibèric de Can Suari",
+            "en": "Jaciment ibèric de Can Suari"
+          },
+          "coords": [
+            2.376558,
+            41.624333
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.39,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Antike ein, während Sie die Überreste dieser iberischen Siedlung erkunden, und tragen Sie feste Wanderschuhe, da das Gelände um diese faszinierenden archäologischen Ruinen sehr uneben ist.",
+            "hu": "Lépjen vissza az ókorba, miközben felfedezi ezen ibériai település maradványait, és viseljen masszív túracipőt, mivel a lenyűgöző régészeti romok körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Pășiți înapoi în vremuri antice în timp ce explorați rămășițele acestei așezări iberice și purtați încălțăminte de drumeție robustă, deoarece terenul din jurul acestor ruine arheologice este destul de denivelat.",
+            "en": "Step back into ancient times as you explore the remnants of this Iberian settlement, and wear sturdy walking shoes since the terrain around these fascinating archeological ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Campus Zona Residencial Sant Josep",
+            "hu": "Campus Zona Residencial Sant Josep",
+            "ro": "Campus Zona Residencial Sant Josep",
+            "en": "Campus Zona Residencial Sant Josep"
+          },
+          "coords": [
+            2.369547,
+            41.622296
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Erholungsgebiet, das sich perfekt zum Abschalten nach einem Sightseeing-Tag eignet, und bringen Sie ein kleines Picknick mit, das Sie auf den schattigen Grasflächen genießen können.",
+            "hu": "Pihenjen ebben a kiterjedt rekreációs övezetben, amely tökéletes kikapcsolódást nyújt egy városnézéssel töltött nap után, és hozzon magával egy kis pikniket, amelyet az árnyékos füves foltokon fogyaszthat el.",
+            "ro": "Relaxați-vă în această zonă extinsă de recreere, perfectă pentru deconectare după o zi de vizite, și aduceți un mic picnic pentru a-l savura pe zonele cu iarbă umbrită răspândite pe terenurile pașnice.",
+            "en": "Relax in this expansive recreational area perfect for unwinding after a day of sightseeing, and bring a small picnic to enjoy on the shaded grassy patches scattered throughout the peaceful grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromlec de Pins Rosers",
+            "hu": "Cromlec de Pins Rosers",
+            "ro": "Cromlec de Pins Rosers",
+            "en": "Cromlec de Pins Rosers"
+          },
+          "coords": [
+            2.3628,
+            41.62087
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese rätselhaften prähistorischen stehenden Steine in der Landschaft und stellen Sie sicher, dass Sie am späten Nachmittag ankommen, um die dramatischen Schatten zu sehen, die über das Denkmal fallen.",
+            "hu": "Csodálja meg ezeket a rejtélyes, tájba simuló őskori állóköveket, és ügyeljen arra, hogy késő délután érkezzen, hogy láthassa a drámai, hosszú árnyékokat, amelyek erre az ősi emlékműre vetülnek.",
+            "ro": "Minunați-vă de aceste pietre preistorice enigmatice așezate în peisaj, asigurându-vă că ajungeți în a doua parte a după-amiezii pentru a vedea umbrele lungi proiectate dramatic peste acest monument antic.",
+            "en": "Marvel at these enigmatic prehistoric standing stones nestled within the landscape, ensuring you arrive during the late afternoon to see the long shadows cast dramatically across this ancient monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der beeindruckenden Església de Santa Maria. Fahren Sie schnell zum nahegelegenen Museu Arxiu Tomàs Balvey, wo Sie in die fesselnde lokale Geschichte eintauchen und die seltenen antiken Apothekenartefakte bewundern können.\nFahren Sie bequem in die Außenbezirke zum friedlichen Sant Julià del Fou und genießen Sie den ländlichen Charme. Nach dieser spirituellen Pause fahren Sie zur Piscina Municipal, wo Sie eine erholsame Pause oder einen Spaziergang um die sonnigen Anlagen machen können.\nNavigieren Sie nach Süden zum Jaciment ibèric de Can Suari. Parken Sie in der Nähe, wandern Sie durch diese iberischen Ruinen und fahren Sie danach entspannt zum grünen Gelände des Campus Zona Residencial Sant Josep, um sich am späten Nachmittag zurückzuziehen.\nBeenden Sie Ihren Roadtrip am alten Cromlec de Pins Rosers. Die Bequemlichkeit eines Autos ermöglicht es Ihnen, Ihre Ankunft perfekt auf die goldene Stunde abzustimmen, sodass Sie die mystischen Steine im Abendlicht erleben können, bevor Sie zurückfahren.",
+        "hu": "Kezdje a festői autózást a lenyűgöző Església de Santa Maria-nál. Gyorsan ugorjon át a közeli Museu Arxiu Tomàs Balvey-be, ahol elmélyedhet a magával ragadó helytörténetben, és megcsodálhatja a ritka antik gyógyszertári leleteket a délelőtt folyamán.\nVezessen kényelmesen a külváros felé a békés Sant Julià del Fou-hoz, élvezve a vidéki varázst útközben. E spirituális szünet után irány a Piscina Municipal egy felfrissítő pihenésre vagy egy pihentető sétára a napfényes, élettel teli létesítmények körül.\nNavigáljon dél felé a Jaciment ibèric de Can Suari felé. Parkoljon le a közelben, sétáljon át ezeken a kivételes ibériai romokon, majd ezt követően könnyedén térjen át a Campus Zona Residencial Sant Josep buja területére egy pihentető délutáni elvonulásra.\nFejezze be autós utazását az ősi Cromlec de Pins Rosers-nél. Az autó kényelme lehetővé teszi, hogy tökéletesen időzítse érkezését az aranyórára, és megtapasztalja a misztikus állóköveket a gyönyörű esti fényben fürödve, mielőtt elindulna visszafelé.",
+        "ro": "Începeți-vă călătoria pitorească la impresionanta Església de Santa Maria. Treceți rapid la Museu Arxiu Tomàs Balvey din apropiere, unde vă puteți scufunda în istoria locală captivantă și puteți admira artefactele rare ale farmaciei antice chiar în prima parte a zilei.\nConduceți confortabil spre periferie pentru a vizita pașnicul Sant Julià del Fou, bucurându-vă de farmecul rural. După această pauză spirituală, îndreptați-vă spre Piscina Municipal pentru o pauză revitalizantă sau o plimbare relaxantă în jurul facilităților sale însorite.\nNavigați spre sud către Jaciment ibèric de Can Suari. Parcați în apropiere și rătăciți prin aceste ruine arheologice iberice, trecând cu ușurință după aceea la terenurile luxuriante ale Campus Zona Residencial Sant Josep pentru o retragere de după-amiază odihnitoare.\nÎncheiați-vă excursia la vechiul Cromlec de Pins Rosers. Confortul mașinii vă permite să vă sincronizați perfect sosirea pentru ora de aur, lăsându-vă să experimentați pietrele mistice scăldate în lumina frumoasă a serii înainte de a vă întoarce din nou.",
+        "en": "Morning: Start your scenic drive at the impressive Església de Santa Maria, setting a historical tone for the day. Quickly hop over to the nearby Museu Arxiu Tomàs Balvey, where you can delve into captivating local history and admire the rare antique pharmacy artifacts.\nMidday: Drive comfortably towards the outskirts to visit the peaceful Sant Julià del Fou, enjoying the rural charm along the way. Following this spiritual pause, head to the Piscina Municipal for a revitalizing break or a relaxing stroll around its vibrant, sunny facilities.\nAfternoon: Navigate your way south to the Jaciment ibèric de Can Suari. Park nearby and wander through these exceptional Iberian archaeological ruins, easily transitioning afterward to the lush grounds of the Campus Zona Residencial Sant Josep for a restful afternoon retreat.\nEvening: Conclude your road trip at the ancient Cromlec de Pins Rosers. The convenience of a car allows you to perfectly time your arrival for golden hour, letting you experience the mystical standing stones bathed in beautiful evening light before heading back."
+      }
+    }
+  }
+}

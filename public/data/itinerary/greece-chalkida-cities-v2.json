@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-chalkida-cities-v2",
+  "anchor": {
+    "name": "Chalkida",
+    "coords": [
+      23.59469,
+      38.46237
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.78,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Archäologisches Museum von Chalkida",
+            "hu": "Halkída Régi Régészeti Múzeuma",
+            "ro": "Vechiul Muzeu Arheologic din Chalkida",
+            "en": "Palaio Arkhaiologiko Mouseio Khalkidas"
+          },
+          "coords": [
+            23.594012,
+            38.462966
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike Artefakte aus Euböa, die das reiche Erbe der Insel beleuchten, und kommen Sie früh, um die Ausstellungsstücke vor dem Ansturm zu genießen.",
+            "hu": "Fedezze fel az Euboia sziget gazdag örökségét bemutató ókori leleteket, és érkezzen korán, hogy még a tömeg előtt megcsodálhassa a kiállítást.",
+            "ro": "Descoperiți artefacte antice din Euboea care evidențiază patrimoniul insulei și sosiți devreme pentru a vă bucura de exponate înainte de aglomerație.",
+            "en": "Discover ancient artifacts from Euboea that highlight the island's rich heritage, and arrive early to enjoy the exhibits before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Chalkida",
+            "hu": "Halkída Városháza",
+            "ro": "Primăria din Chalkida",
+            "en": "Demarkheio Khalkidas"
+          },
+          "coords": [
+            23.592641,
+            38.465051
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Betrachten Sie die neoklassizistische Eleganz dieses stolzen Symbols der lokalen Verwaltung und entspannen Sie sich auf den nahegelegenen Bänken am Wasser.",
+            "hu": "Figyelje meg a helyi közigazgatás büszke szimbólumának számító neoklasszikus épületet, és pihenjen meg a közeli, vízpartra néző padokon.",
+            "ro": "Observați eleganța neoclasică a clădirii care reprezintă un simbol al guvernării locale și relaxați-vă pe băncile din apropiere cu vedere la apă.",
+            "en": "Observe the neoclassical elegance of the City Hall building which stands as a proud symbol of local governance, and relax on the nearby waterfront benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lela Karagianni",
+            "hu": "Lela Karagianni szobra",
+            "ro": "Statuia Lelei Karagianni",
+            "en": "Agalma Lela Karagianne"
+          },
+          "coords": [
+            23.592964,
+            38.466235
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erweisen Sie der heldenhaften griechischen Widerstandskämpferin die Ehre und lesen Sie die Tafeln, die ihren immensen Mut im Zweiten Weltkrieg detailliert beschreiben.",
+            "hu": "Tisztelegjen a hősies görög ellenállási vezető szobra előtt, és szánjon időt a második világháborús bátorságát részletező emléktáblák elolvasására.",
+            "ro": "Aduceți un omagiu eroinei rezistenței grecești și citiți plăcile din jur care detaliază curajul ei imens din timpul celui de-al Doilea Război Mondial.",
+            "en": "Pay tribute at the statue of the heroic Greek resistance leader, and take time to read the surrounding plaques detailing her immense WWII bravery."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanischer Brunnen",
+            "hu": "Oszmán kút",
+            "ro": "Fântâna Otomană",
+            "en": "Othomanike Pege"
+          },
+          "coords": [
+            23.591376,
+            38.46147
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die komplizierten Details dieses historischen Brunnens, der die vielfältige Vergangenheit der Stadt widerspiegelt, und bringen Sie eine Kamera für tolle Fotos mit.",
+            "hu": "Csodálja meg a város változatos múltját tükröző történelmi oszmán kút részleteit, és hozzon magával fényképezőgépet a díszes kőfaragások megörökítéséhez.",
+            "ro": "Admirați detaliile complicate ale acestei fântâni istorice care reflectă trecutul divers al orașului și aduceți un aparat foto pentru a capta lucrătura în piatră.",
+            "en": "Admire the intricate details of this historic Ottoman fountain reflecting the city's diverse past, and bring a camera to capture its ornate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Kirche",
+            "hu": "Agia Paraszkevi templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Agia Paraskeue"
+          },
+          "coords": [
+            23.588794,
+            38.462858
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende byzantinische Architektur dieser der Schutzpatronin von Chalkida gewidmeten Basilika und kleiden Sie sich beim Betreten bescheiden.",
+            "hu": "Csodálja meg Halkída védőszentjének szentelt bazilika lenyűgöző bizánci építészetét, és a helyi szokások tiszteletben tartása végett öltözzön szerényen.",
+            "ro": "Minunați-vă de arhitectura bizantină impresionantă a acestei bazilici dedicate sfântului patron din Chalkida și îmbrăcați-vă modest la intrare.",
+            "en": "Marvel at the impressive Byzantine architecture of this historic basilica dedicated to the patron saint of Chalkida, and dress modestly when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Karambaba (Skulpturensammlung)",
+            "hu": "Karampampa erőd (Szoborgyűjtemény)",
+            "ro": "Cetatea Karampampa (Colecția de Sculpturi)",
+            "en": "Kastro Karampampa (Sulloge Glupton)"
+          },
+          "coords": [
+            23.583175,
+            38.465291
+          ],
+          "category": "museum",
+          "arrive_at": "14:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Festung aus dem 17. Jahrhundert mit Panoramablick über die Meerenge, und tragen Sie feste Schuhe, da die Steinwege uneben sind.",
+            "hu": "Fedezze fel a 17. századi, tengerszorosra néző erődöt, és viseljen kényelmes sétacipőt, mivel az ősi köves utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați fortăreața impunătoare din secolul al XVII-lea, care oferă vederi panoramice asupra strâmtorii, și purtați încălțăminte de mers robustă.",
+            "en": "Explore the imposing 17th-century fortress offering panoramic views over the Euripus Strait, and wear sturdy walking shoes for the uneven stone pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Chalkida, wo die Morgensonne die neoklassizistische Architektur und die antiken Schätze des Museums wunderbar beleuchtet.\nWenn der Mittag naht, schlendern Sie an der lebhaften Uferpromenade entlang und bewundern historische Denkmäler sowie den wunderschönen osmanischen Brunnen.\nVerbringen Sie Ihren Nachmittag damit, die majestätische Kirche Agia Paraskevi zu erkunden, bevor Sie den malerischen Aufstieg zur beeindruckenden Festung auf dem Hügel beginnen.\nLassen Sie den Tag auf dem Kastro Karampampa ausklingen und genießen Sie den weiten Blick auf die Gezeiten, während der Abend über der Meerenge von Euripus hereinbricht.",
+        "hu": "Kezdje a gyalogos túrát Halkída szívében, ahol a reggeli napfény csodásan megvilágítja a neoklasszikus építészetet és a múzeum ókori kincseit.\nDélidőben sétáljon végig a nyüzsgő vízparton, gyönyörködjön a történelmi műemlékekben és a város utcáin megbújó, gyönyörű oszmán kútban.\nA délutánt az impozáns Agia Paraszkevi templom felfedezésével töltse, mielőtt megkezdené a festői kaptatót a dombtetőn álló, tekintélyes erődítményhez.\nZárja a napot a Karampampa erőd tetején, ahonnan csodálatos kilátás nyílik a változó árapályra, miközben leszáll az est az Euriposz-szoros felett.",
+        "ro": "Începeți turul de mers pe jos în inima orașului Chalkida, unde soarele dimineții luminează arhitectura neoclasică și comorile antice ale muzeului.\nPe măsură ce se apropie prânzul, plimbați-vă de-a lungul falezei vibrante, admirând monumente istorice și frumoasa fântână otomană ascunsă pe străzile orașului.\nPetreceți după-amiaza explorând maiestuoasa biserică Agia Paraskevi, înainte de a începe urcarea pitorească spre fortăreața impunătoare de pe deal.\nÎncheiați ziua în vârful Kastro Karampampa, bucurându-vă de priveliști ample asupra mareelor schimbătoare, în timp ce seara se lasă peste strâmtoare.",
+        "en": "Begin your walking tour in the heart of Chalkida, where the morning sun illuminates the neoclassical architecture and ancient museum treasures.\nAs midday approaches, stroll along the vibrant waterfront, taking in historic monuments and the beautiful Ottoman fountain tucked into the city streets.\nSpend your afternoon exploring the majestic Agia Paraskeue church before making the scenic ascent towards the commanding hilltop fortress.\nConclude your day atop Kastro Karampampa, enjoying sweeping views of the changing tides as evening falls over the beautiful Euripus Strait."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 2.34,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal des Leutnants Ioakeim Pantelakis",
+            "hu": "Joakim Pantelakisz hadnagy emlékműve",
+            "ro": "Monumentul Locotenentului Ioakeim Pantelakis",
+            "en": "Mnemeio Uposmenagou Ioakeim Pantelake"
+          },
+          "coords": [
+            23.591303,
+            38.474224
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie das Andenken an den gefallenen Piloten an diesem feierlichen Denkmal und kommen Sie an einem klaren Tag, um die friedliche Küstenumgebung zu genießen.",
+            "hu": "Tisztelegjen az elesett pilóta emléke előtt ennél az ünnepélyes emlékműnél, és látogasson el ide egy tiszta napon, hogy élvezhesse a békés tengerparti környezetet.",
+            "ro": "Onorați memoria pilotului căzut la acest monument solemn și vizitați într-o zi senină pentru a aprecia pe deplin împrejurimile pașnice de coastă.",
+            "en": "Honor the memory of the fallen pilot at this solemn monument, and visit on a clear day to fully appreciate the peaceful coastal surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Lela Karagianni",
+            "hu": "Lela Karagianni szobra",
+            "ro": "Statuia Lelei Karagianni",
+            "en": "Agalma Lela Karagianne"
+          },
+          "coords": [
+            23.592964,
+            38.466235
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um den heldenhaften Widerstand von Lela Karagianni zu würdigen, deren Mut eine zentrale Rolle in der modernen griechischen Geschichte spielte.",
+            "hu": "Álljon meg egy pillanatra, és emlékezzen meg Lela Karagianni hősies ellenállásáról, akinek bátorsága kulcsszerepet játszott a modern görög történelemben.",
+            "ro": "Opriți-vă pentru a aprecia rezistența eroică a Lelei Karagianni, al cărei curaj a jucat un rol esențial în istoria modernă a Greciei.",
+            "en": "Pause to appreciate the heroic resistance of Lela Karagianni, whose bravery played a pivotal role in modern Greek history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Chalkida",
+            "hu": "Halkída Városháza",
+            "ro": "Primăria din Chalkida",
+            "en": "Demarkheio Khalkidas"
+          },
+          "coords": [
+            23.592641,
+            38.465051
+          ],
+          "category": "historical",
+          "arrive_at": "09:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher in der Nähe und betrachten Sie die feinen architektonischen Details dieses zentralen Knotenpunkts des bürgerlichen Lebens in Chalkida.",
+            "hu": "Parkolja le kerékpárját biztonságosan a közelben, és vegye szemügyre a halkídai polgári élet e központi csomópontjának finom építészeti részleteit.",
+            "ro": "Parcați bicicleta în siguranță în apropiere și priviți detaliile arhitecturale fine ale acestui punct central al vieții civice din oraș.",
+            "en": "Park your bike safely nearby and take in the fine architectural details of this central hub of civic life in Chalkida."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Archäologisches Museum von Chalkida",
+            "hu": "Halkída Régi Régészeti Múzeuma",
+            "ro": "Vechiul Muzeu Arheologic din Chalkida",
+            "en": "Palaio Arkhaiologiko Mouseio Khalkidas"
+          },
+          "coords": [
+            23.594012,
+            38.462966
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche antike Geschichte der Region und nehmen Sie sich Zeit für die beeindruckende Sammlung klassischer und hellenistischer Funde.",
+            "hu": "Merüljön el a régió gazdag ókori történelmében, és szánjon elegendő időt a klasszikus és hellenisztikus leletek lenyűgöző gyűjteményére.",
+            "ro": "Cufundați-vă în istoria antică bogată a regiunii și acordați-vă timp pentru impresionanta colecție de descoperiri clasice și elenistice.",
+            "en": "Delve into the rich ancient history of the region and allow ample time to appreciate the impressive collection of classical and Hellenistic finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Kirche",
+            "hu": "Agia Paraszkevi templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Agia Paraskeue"
+          },
+          "coords": [
+            23.588794,
+            38.462858
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Radeln Sie zur historischen Basilika hinüber und bewundern Sie die Holzschnitzereien, die das friedliche Innere dieses bedeutenden Heiligtums schmücken.",
+            "hu": "Tekerjen át a történelmi bazilikához, és csodálja meg a jelentős szentély békés belső terét díszítő aprólékos fafaragásokat.",
+            "ro": "Mergeți cu bicicleta până la bazilica istorică și admirați sculpturile în lemn care decorează interiorul liniștit al acestui sanctuar important.",
+            "en": "Cycle over to the historic basilica and admire the intricate wood carvings that decorate the peaceful interior of this important sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab von Yiannis Skarimpas",
+            "hu": "Jiannisz Szkarimpasz sírja",
+            "ro": "Mormântul lui Giannis Skarimpas",
+            "en": "Taphos Gianne Skarimpa"
+          },
+          "coords": [
+            23.585592,
+            38.464836
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Besuchen Sie die letzte Ruhestätte des berühmten griechischen Schriftstellers und verbinden Sie diesen Halt mit dem nahe gelegenen Aufstieg zur Burg.",
+            "hu": "Látogasson el a híres görög író végső nyughelyére, és kösse össze ezt a megállót a közeli várba vezető kerékpáros emelkedővel.",
+            "ro": "Vizitați locul de veci al celebrului scriitor grec și combinați această oprire cu urcarea pe bicicletă spre castelul din apropiere.",
+            "en": "Visit the final resting place of the celebrated Greek writer, easily combining this stop with your ride up toward the adjacent fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Karambaba (Skulpturensammlung)",
+            "hu": "Karampampa erőd (Szoborgyűjtemény)",
+            "ro": "Cetatea Karampampa (Colecția de Sculpturi)",
+            "en": "Kastro Karampampa (Sulloge Glupton)"
+          },
+          "coords": [
+            23.583175,
+            38.465291
+          ],
+          "category": "museum",
+          "arrive_at": "14:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer herausfordernden Bergauffahrt, die mit einem unvergleichlichen Blick auf die Meerenge von oben belohnt wird.",
+            "hu": "Zárja kerékpártúráját egy kihívást jelentő emelkedővel, amelyet a tengerszorosra nyíló, felülmúlhatatlan panoráma jutalmaz.",
+            "ro": "Încheiați turul pe bicicletă cu o urcare provocatoare, care va fi răsplătită cu o priveliște de neegalat asupra strâmtorii de sus.",
+            "en": "Finish your cycling tour with a challenging uphill ride that rewards you with an unparalleled vantage point over the strait."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer in den ruhigen nördlichen Gebieten, besuchen Sie markante Denkmäler, bevor Sie in das geschäftige Stadtzentrum radeln.\nNavigieren Sie um die Mittagszeit durch die belebten Straßen, um elegante zivile Gebäude zu bewundern und tief in Chalkidas antike archäologische Geschichte einzutauchen.\nFahren Sie am Nachmittag über die alte Brücke, um wichtige religiöse Stätten und die Ruhestätte renommierter lokaler Schriftsteller zu entdecken.\nBeenden Sie Ihre Fahrt an der spektakulären Karampampa-Festung und belohnen Sie Ihre körperliche Anstrengung mit einem atemberaubenden Blick über die Küste Euböas.",
+        "hu": "Kezdje kerékpáros kalandját a békés északi területeken, látogasson el a lenyűgöző emlékművekhez, majd tekerjen be a nyüzsgő városközpontba.\nDélidőben navigáljon az élettel teli utcákon, csodálja meg az elegáns polgári épületeket, és merüljön el Halkída ókori régészeti történelmében.\nDélután kerekezzen át a régi hídon, hogy felfedezze a fontos vallási helyszíneket és a neves helyi írók végső nyughelyét.\nZárja útját a látványos Karampampa erődnél, ahol a fizikai erőfeszítést az euboiai partokra nyíló lélegzetelállító kilátás koronázza meg.",
+        "ro": "Începeți aventura pe bicicletă în zonele nordice liniștite, vizitând monumente uimitoare înainte de a pedala spre centrul plin de viață al orașului.\nNavigați pe străzile animate în jurul prânzului pentru a admira clădiri civice elegante și a pătrunde adânc în istoria arheologică antică a orașului Chalkida.\nDupă-amiaza, traversați vechiul pod pentru a descoperi situri religioase importante și locul de odihnă al unor scriitori locali renumiți.\nÎncheiați cursa la spectaculoasa fortăreață Karampampa, răsplătindu-vă efortul fizic cu o priveliște uluitoare asupra coastei Euboea.",
+        "en": "Start your cycling adventure in the peaceful northern areas, visiting striking monuments before pedaling towards the bustling city center.\nNavigate the lively streets around midday to admire elegant civic buildings and dive deep into Chalkida's ancient archaeological history.\nIn the afternoon, ride across the old bridge to discover important religious sites and the resting place of renowned local writers.\nEnd your ride at the spectacular Karampampa Fortress, rewarding your physical effort with a breathtaking view over the Euboean coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 4.87,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hohe Brücke von Euripos",
+            "hu": "Euriposz Magas Híd",
+            "ro": "Podul Înalt Euripus",
+            "en": "Upsele Gephura Euripou"
+          },
+          "coords": [
+            23.590817,
+            38.444887
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die moderne Schrägseilbrücke und parken Sie am ausgewiesenen Aussichtspunkt für die besten Weitwinkelfotos der Meerenge.",
+            "hu": "Hajtson át a modern ferdekábeles hídon, és parkoljon le a kijelölt kilátópontnál, hogy elkészítse a legjobb nagylátószögű fotókat a tengerszorosról.",
+            "ro": "Traversați podul modern hobanat și parcați la punctul de belvedere desemnat pentru cele mai bune fotografii cu unghi larg ale strâmtorii.",
+            "en": "Cross the modern cable-stayed bridge and park at the designated viewpoint for the best wide-angle photos spanning the unique tidal currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Chalkida <<Arethousa>>",
+            "hu": "Halkída Régészeti Múzeuma <<Arethusza>>",
+            "ro": "Muzeul Arheologic din Chalkida <<Arethousa>>",
+            "en": "Arkhaiologiko Mouseio Khalkidas <<Arethousa>>"
+          },
+          "coords": [
+            23.61028,
+            38.457474
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte in diesem restaurierten Fabrikgebäude ein und nutzen Sie die interaktiven Multimedia-Ausstellungen.",
+            "hu": "Merüljön el a lenyűgöző ipartörténetben ebben a gyönyörűen felújított gyárépületben, és szánjon időt az interaktív multimédiás kiállításokra.",
+            "ro": "Aprofundați istoria industrială fascinantă expusă în această clădire de fabrică restaurată și alocați timp suplimentar pentru exponatele multimedia interactive.",
+            "en": "Delve into the fascinating industrial and ancient history displayed in this beautifully restored factory building, allocating time for multimedia exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Folkloremuseum von Chalkida",
+            "hu": "Halkída Néprajzi Múzeuma",
+            "ro": "Muzeul de Folclor din Chalkida",
+            "en": "Laographiko Mouseio Khalkidas"
+          },
+          "coords": [
+            23.593376,
+            38.4599
+          ],
+          "category": "museum",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Zeit zurück, um traditionelle Kostüme zu betrachten, und fragen Sie das Personal nach der Herkunft der filigranen Stickereien.",
+            "hu": "Lépjen vissza az időben a hagyományos viseletek megtekintésével, és kérdezze a barátságos személyzetet a kiállított hímzések pontos eredetéről.",
+            "ro": "Întoarceți-vă în timp privind costumele tradiționale și întrebați personalul prietenos despre originile specifice ale broderiilor complicate expuse.",
+            "en": "Step back in time viewing traditional costumes, and ask the friendly staff about the specific origins of the intricate embroidery on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie \"Dimitris Mytaras\"",
+            "hu": "\"Dimitrisz Mütarasz\" Városi Képtár",
+            "ro": "Galeria Municipală de Artă „Dimitris Mytaras”",
+            "en": "Demotike Pinakotheke \"Demetres Mutaras\""
+          },
+          "coords": [
+            23.590324,
+            38.460028
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den lebhaften zeitgenössischen Kunstwerken inspirieren und prüfen Sie die Eingangstafel auf aktuelle temporäre Ausstellungen.",
+            "hu": "Merítsen ihletet a galériában található élénk, kortárs műalkotásokból, és ellenőrizze a bejáratnál az időszaki kiállítások aktuális kínálatát.",
+            "ro": "Lăsați-vă inspirat de operele de artă contemporană vibrante și verificați panoul de la intrare pentru informații despre orice expoziție temporară.",
+            "en": "Be inspired by the vibrant contemporary artworks housed in this civic gallery, and check the entrance board for information on temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskevi Kirche",
+            "hu": "Agia Paraszkevi templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Agia Paraskeue"
+          },
+          "coords": [
+            23.588794,
+            38.462858
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Parken Sie an den ausgewiesenen Plätzen nahe dem Zentrum, um dieses große byzantinische Wahrzeichen zu besuchen, das die Identität der Stadt prägt.",
+            "hu": "Parkoljon a központhoz közeli, kijelölt helyeken, hogy kényelmesen felkereshesse ezt a város arculatát meghatározó, nagyszerű bizánci műemléket.",
+            "ro": "Parcați în locurile desemnate din apropierea centrului pentru a vizita acest mare reper bizantin care definește identitatea orașului.",
+            "en": "Park in designated spots near the center to easily visit this grand Byzantine landmark that profoundly defines the city's spiritual identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab von Yiannis Skarimpas",
+            "hu": "Jiannisz Szkarimpasz sírja",
+            "ro": "Mormântul lui Giannis Skarimpas",
+            "en": "Taphos Gianne Skarimpa"
+          },
+          "coords": [
+            23.585592,
+            38.464836
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem historischen Denkmal, um das lokale literarische Erbe vor der Fahrt zur hochgelegenen Burg zu würdigen.",
+            "hu": "Tegyen egy rövid kitérőt ennél a történelmi emlékműnél, hogy tisztelegjen a helyi irodalmi örökség előtt, mielőtt felhajt a várba.",
+            "ro": "Faceți o scurtă oprire la acest monument istoric pentru a aprecia patrimoniul literar local înainte de a conduce spre castelul situat pe deal.",
+            "en": "Make a short stop at this historical monument to appreciate the local literary heritage before driving up to the elevated castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Karambaba (Skulpturensammlung)",
+            "hu": "Karampampa erőd (Szoborgyűjtemény)",
+            "ro": "Cetatea Karampampa (Colecția de Sculpturi)",
+            "en": "Kastro Karampampa (Sulloge Glupton)"
+          },
+          "coords": [
+            23.583175,
+            38.465291
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Nutzen Sie den bequemen Parkplatz am Eingang und verbringen Sie den späten Nachmittag damit, die historischen Steinmetzarbeiten zu erkunden.",
+            "hu": "Használja ki a bejárat melletti kényelmes parkolót, és töltse a késő délutánt a lenyűgöző történelmi kőfaragások felfedezésével.",
+            "ro": "Profitați de parcarea convenabilă de la intrare și petreceți după-amiaza târziu explorând lucrările istorice în piatră din interiorul zidurilor cetății.",
+            "en": "Take advantage of the convenient parking by the entrance and spend the late afternoon exploring the historical stonework inside the fortress walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens nach Süden, um die beeindruckende Hohe Brücke zu überqueren und die Größe der Meerenge zu bewundern, bevor Sie das moderne Arethousa-Museum besuchen.\nKehren Sie zur Mittagszeit ins Stadtzentrum zurück, um die reiche Folklore und die lebendigen Kunstgalerien zu erkunden, die Chalkidas moderne Kulturlandschaft prägen.\nVerbringen Sie den Nachmittag damit, byzantinischer Geschichte in der großen Basilika Agia Paraskevi nachzuspüren und historische Stätten auf der Festlandseite zu besichtigen.\nFahren Sie gegen Abend hinauf zum Kastro Karampampa, wo die imposanten Mauern den perfekten Aussichtspunkt bieten, um zu beobachten, wie die Lichter der Stadt angehen.",
+        "hu": "Reggel vezessen délre, keljen át a lenyűgöző Magas Hídon, és csodálja meg a tengerszoros méreteit, mielőtt ellátogatna a modern Arethusza múzeumba.\nDélre térjen vissza a városközpontba, hogy felfedezze a gazdag folklórt és a vibráló művészeti galériákat, amelyek Halkída modern kulturális arculatát alkotják.\nA délutánt szentelje a bizánci történelemnek a nagyszerű Agia Paraszkevi bazilikánál, és fedezze fel a szárazföldi oldal további történelmi nevezetességeit.\nKora este hajtson fel a Karampampa erődhöz, ahol a tekintélyes falak tökéletes kilátópontot nyújtanak a város kigyulladó fényeinek megtekintéséhez.",
+        "ro": "Conduceți spre sud pentru a traversa impresionantul Pod Înalt dimineața, admirând scara măreață a strâmtorii înainte de a vizita muzeul modern Arethousa.\nÎntoarceți-vă în centrul orașului la prânz pentru a explora folclorul bogat și galeriile de artă vibrante care definesc peisajul cultural modern al orașului Chalkida.\nPetreceți după-amiaza urmărind istoria bizantină la grandioasa bazilică Agia Paraskevi și explorând siturile istorice de pe partea continentală.\nConduceți până la Kastro Karampampa pe măsură ce se apropie seara, unde zidurile impunătoare oferă punctul de observație perfect pentru a privi luminile orașului.",
+        "en": "Drive south to cross the impressive High Bridge in the morning, taking in the grand scale of the strait before visiting the modern Arethousa museum.\nReturn to the city center by midday to explore the rich folklore and vibrant art galleries that define Chalkida's modern cultural landscape.\nSpend the afternoon tracing Byzantine history at the grand basilica of Agia Paraskeue and exploring the historic sites on the mainland side.\nDrive up to Kastro Karampampa as evening approaches, where the imposing walls provide the perfect vantage point to watch the city lights flicker on."
+      }
+    }
+  }
+}

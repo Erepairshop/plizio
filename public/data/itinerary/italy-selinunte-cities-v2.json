@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-selinunte-cities-v2",
+  "anchor": {
+    "name": "Selinunte",
+    "coords": [
+      12.84042,
+      37.58395
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple D",
+            "hu": "Temple D",
+            "ro": "Temple D",
+            "en": "Temple D"
+          },
+          "coords": [
+            12.824984,
+            37.583625
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dorischen Säulen von Tempel D, um die antike Architektur zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a D-templom dór oszlopait az ókori görög építészet megértéséhez, és viseljen kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Admirați coloanele dorice ale Templului D pentru a înțelege arhitectura greacă antică și purtați încălțăminte comodă pe terenul destul de accidentat.",
+            "en": "Admire the imposing Doric columns of Temple D to truly grasp the scale of ancient Greek architecture, and be sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Polluce",
+            "hu": "Torre Polluce",
+            "ro": "Torre Polluce",
+            "en": "Torre Polluce"
+          },
+          "coords": [
+            12.824503,
+            37.581993
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wehrturm mit herrlichem Küstenblick und bringen Sie eine Windjacke mit, da die Meeresbrise hier stark sein kann.",
+            "hu": "Fedezze fel ezt a történelmi védőtornyot, amely lenyűgöző tengerparti kilátást nyújt, és hozzon széldzsekit, mivel a tengeri szellő nagyon erős lehet.",
+            "ro": "Explorați acest turn defensiv istoric care oferă vederi uimitoare la coastă și aduceți o jachetă, deoarece briza mării poate fi destul de puternică.",
+            "en": "Explore this historical defensive tower that offers striking coastal views, and bring a windbreaker as the sea breeze can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptistery",
+            "hu": "Baptistery",
+            "ro": "Baptistery",
+            "en": "Baptistery"
+          },
+          "coords": [
+            12.821564,
+            37.58384
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses antiken christlichen Baptisteriums zwischen heidnischen Tempeln und betrachten Sie die erhaltenen Mosaikfragmente.",
+            "hu": "Fedezze fel ennek az ősi keresztény keresztelőkápolnának a romjait a pogány templomok között, és vizsgálja meg közelebbről a fennmaradt mozaikokat.",
+            "ro": "Descoperiți ruinele acestui vechi baptisteriu creștin situat printre temple păgâne și priviți cu mare atenție la fragmentele de mozaic supraviețuitoare.",
+            "en": "Discover the fascinating ruins of this ancient Christian baptistery nestled among pagan temples, and look closely at the surviving mosaic fragments."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Nord",
+            "hu": "Porta Nord",
+            "ro": "Porta Nord",
+            "en": "Porta Nord"
+          },
+          "coords": [
+            12.825162,
+            37.586015
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das beeindruckende Nordtor, um die antike Stadtverteidigung zu verstehen, und beachten Sie die massiven Steinblöcke der Mauern.",
+            "hu": "Sétáljon át az északi kapun, hogy megértse a város ősi védelmét, és figyelje meg az építéséhez használt hatalmas, lenyűgöző méretű kőtömböket.",
+            "ro": "Plimbați-vă prin poarta nordică pentru a înțelege vechea apărare a orașului și observați blocurile masive de piatră folosite la construcția sa.",
+            "en": "Walk through the impressive northern gate to understand the city's ancient defenses, and notice the massive stone blocks used in its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora",
+            "hu": "Agora",
+            "ro": "Agora",
+            "en": "Agora"
+          },
+          "coords": [
+            12.824604,
+            37.588635
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stehen Sie in der riesigen Agora, um sich das antike bürgerliche Leben vorzustellen, und bringen Sie viel Wasser mit, da es hier keinen Schatten gibt.",
+            "hu": "Álljon meg a hatalmas Agorán, hogy elképzelje az ókori polgári életet, és hozzon magával sok vizet, mivel ezen a területen szinte egyáltalán nincs árnyék.",
+            "ro": "Stați în vasta Agora pentru a vă imagina inima vieții civice antice și aduceți multă apă cu dumneavoastră, deoarece nu există umbră în această zonă.",
+            "en": "Stand in the vast Agora to imagine the bustling heart of ancient civic life, and bring plenty of water as there is virtually no shade in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen inmitten der kolossalen Ruinen von Tempel D auf der Akropolis. Spazieren Sie dann zum Torre Polluce, um die weiten Küstenpanoramen zu genießen, die einst von antiken Wächtern bewacht wurden, und spüren Sie den Atem der Geschichte.\n\nMittags offenbaren sich die historischen Schichten von Selinunte, wenn Sie die faszinierenden Überreste des Baptisteriums erkunden. Die mediterrane Sonne hebt das komplexe Mauerwerk hervor und macht den kurzen Spaziergang zur Porta Nord zu einer Reise durch die Zeit.\n\nDer Nachmittag führt Sie tiefer in die Verteidigungsanlagen der antiken Stadt. Untersuchen Sie an der Porta Nord die massiven Befestigungsanlagen, bevor Sie weiter zur riesigen Agora gehen, dem einstigen pulsierenden Herzen des bürgerlichen und kommerziellen Lebens.\n\nWenn der Abend naht, verweilen Sie in der Agora, wo die goldene Stunde lange, dramatische Schatten wirft. Denken Sie an die geschäftigen Menschenmengen zurück, die einst diesen Platz füllten, bevor Sie den Park langsam verlassen und Ihr Abenteuer beenden.",
+        "hu": "Kezdje a reggelt az Akropoliszon található D-templom kolosszális romjai között, engedve, hogy a dór oszlopok visszarepítsék az időben. Ezután sétáljon el a Torre Polluce-hoz, és gyönyörködjön a lenyűgöző tengerparti panorámában.\n\nDélben Selinunte történelmi rétegei tárulnak fel, ahogy felfedezi a keresztelőkápolna lenyűgöző maradványait. A mediterrán napfény kiemeli a bonyolult kőfaragásokat, így a Porta Nordhoz vezető rövid séta egy igazi időutazásnak tűnik.\n\nA délután a város ősi védelmi struktúráiba vezet. A Porta Nordnál vizsgálja meg a hatalmas erődítményeket, mielőtt továbbhaladna az Agora hatalmas kiterjedése felé, amely egykor a polgári és kereskedelmi élet lüktető szíve volt.\n\nAz este közeledtével időzzön el az Agorán, ahol az aranyóra hosszú, drámai árnyékokat vet a romokra. Gondoljon a nyüzsgő tömegre, amely egykor megtöltötte ezt a teret, mielőtt lassan elhagyná a régészeti parkot.",
+        "ro": "Începeți dimineața printre ruinele colosale ale Templului D de pe Acropole, lăsând coloanele dorice să vă poarte înapoi în timp. Pe măsură ce aerul se încălzește, plimbați-vă spre Torre Polluce pentru a admira panoramele de coastă spectaculoase.\n\nLa amiază, straturile istorice din Selinunte se dezvăluie în timp ce explorați rămășițele fascinante ale Baptisteriului. Soarele mediteranean evidențiază piatra complexă, făcând scurta plimbare spre Porta Nord să pară o călătorie prin istorie.\n\nDupă-amiaza vă aduce mai adânc în structurile defensive ale orașului antic. La Porta Nord, examinați fortificațiile masive înainte de a continua spre vasta întindere a Agorei, odată inima palpitantă a vieții civice și comerciale din Selinunte.\n\nPe măsură ce se apropie seara, zăboviți în Agora, unde ora de aur aruncă umbre lungi și dramatice peste ruine. Reflectați la mulțimile pline de viață care umpleau cândva această piață, înainte de a ieși încet din parcul arheologic.",
+        "en": "Start your morning amidst the colossal ruins of Temple D on the Acropolis, letting the sheer scale of the Doric columns transport you back in time. As the morning air warms up, stroll over to Torre Polluce to take in the sweeping coastal panoramas that ancient sentinels once guarded.\n\nBy midday, the historical layers of Selinunte reveal themselves as you explore the intriguing remains of the Baptistery, a testament to the transition of eras. The Mediterranean sun highlights the intricate stonework, making the short walk to Porta Nord feel like a journey through history.\n\nThe afternoon brings you deeper into the ancient city's defensive structures. At Porta Nord, examine the massive fortifications that protected this thriving metropolis before continuing towards the vast expanse of the Agora, the once-beating heart of Selinunte's civic and commercial life.\n\nAs evening approaches, linger in the Agora, where the golden hour casts long, dramatic shadows across the ruins. Reflect on the bustling crowds that once filled this immense square before slowly making your way out of the archaeological park, concluding your historical walking adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 2.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Agora",
+            "hu": "Agora",
+            "ro": "Agora",
+            "en": "Agora"
+          },
+          "coords": [
+            12.824604,
+            37.588635
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stehen Sie in der riesigen Agora, um sich das antike bürgerliche Leben vorzustellen, und bringen Sie viel Wasser mit, da es hier keinen Schatten gibt.",
+            "hu": "Álljon meg a hatalmas Agorán, hogy elképzelje az ókori polgári életet, és hozzon magával sok vizet, mivel ezen a területen szinte egyáltalán nincs árnyék.",
+            "ro": "Stați în vasta Agora pentru a vă imagina inima vieții civice antice și aduceți multă apă cu dumneavoastră, deoarece nu există umbră în această zonă.",
+            "en": "Stand in the vast Agora to imagine the bustling heart of ancient civic life, and bring plenty of water as there is virtually no shade in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Manuzza",
+            "hu": "Torre Manuzza",
+            "ro": "Torre Manuzza",
+            "en": "Torre Manuzza"
+          },
+          "coords": [
+            12.827687,
+            37.589818
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen erhöhten mittelalterlichen Turm für einen Panoramablick auf den archäologischen Park und nutzen Sie ein Teleobjektiv für Fotos.",
+            "hu": "Látogasson el ehhez a középkori toronyhoz, hogy panorámás kilátást kapjon a régészeti parkra, és használjon teleobjektívet a nagyszerű fotókhoz.",
+            "ro": "Vizitați acest turn medieval înalt pentru o perspectivă panoramică a întregului parc arheologic și folosiți un teleobiectiv pentru fotografii grozave.",
+            "en": "Visit this elevated medieval tower to get a panoramic perspective of the entire archaeological park, and a zoom lens is perfect for great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Nord",
+            "hu": "Porta Nord",
+            "ro": "Porta Nord",
+            "en": "Porta Nord"
+          },
+          "coords": [
+            12.825162,
+            37.586015
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das beeindruckende Nordtor, um die antike Stadtverteidigung zu verstehen, und beachten Sie die massiven Steinblöcke der Mauern.",
+            "hu": "Sétáljon át az északi kapun, hogy megértse a város ősi védelmét, és figyelje meg az építéséhez használt hatalmas, lenyűgöző méretű kőtömböket.",
+            "ro": "Plimbați-vă prin poarta nordică pentru a înțelege vechea apărare a orașului și observați blocurile masive de piatră folosite la construcția sa.",
+            "en": "Walk through the impressive northern gate to understand the city's ancient defenses, and notice the massive stone blocks used in its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple D",
+            "hu": "Temple D",
+            "ro": "Temple D",
+            "en": "Temple D"
+          },
+          "coords": [
+            12.824984,
+            37.583625
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dorischen Säulen von Tempel D, um die antike Architektur zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a D-templom dór oszlopait az ókori görög építészet megértéséhez, és viseljen kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Admirați coloanele dorice ale Templului D pentru a înțelege arhitectura greacă antică și purtați încălțăminte comodă pe terenul destul de accidentat.",
+            "en": "Admire the imposing Doric columns of Temple D to truly grasp the scale of ancient Greek architecture, and be sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Polluce",
+            "hu": "Torre Polluce",
+            "ro": "Torre Polluce",
+            "en": "Torre Polluce"
+          },
+          "coords": [
+            12.824503,
+            37.581993
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Wehrturm mit herrlichem Küstenblick und bringen Sie eine Windjacke mit, da die Meeresbrise hier stark sein kann.",
+            "hu": "Fedezze fel ezt a történelmi védőtornyot, amely lenyűgöző tengerparti kilátást nyújt, és hozzon széldzsekit, mivel a tengeri szellő nagyon erős lehet.",
+            "ro": "Explorați acest turn defensiv istoric care oferă vederi uimitoare la coastă și aduceți o jachetă, deoarece briza mării poate fi destul de puternică.",
+            "en": "Explore this historical defensive tower that offers striking coastal views, and bring a windbreaker as the sea breeze can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Ex Porto Antico Selinunte",
+            "hu": "Spiaggia Ex Porto Antico Selinunte",
+            "ro": "Spiaggia Ex Porto Antico Selinunte",
+            "en": "Spiaggia Ex Porto Antico Selinunte"
+          },
+          "coords": [
+            12.818572,
+            37.582648
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Strand des antiken Hafens, um die maritime Vergangenheit der Stadt zu spüren, und packen Sie ein leichtes Picknick für die Pause ein.",
+            "hu": "Pihenjen az ókori kikötő strandján, hogy kapcsolódjon a város tengeri múltjához, és csomagoljon egy könnyű pikniket, amit a hullámok mellett élvezhet.",
+            "ro": "Relaxați-vă pe plaja vechiului port pentru a vă conecta cu trecutul maritim și împachetați un picnic ușor pentru a vă bucura de valurile blânde.",
+            "en": "Relax on the sands of the ancient harbor beach to connect with the city's maritime past, and pack a light picnic to enjoy by the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanctuary of Hera matronly",
+            "hu": "Sanctuary of Hera matronly",
+            "ro": "Sanctuary of Hera matronly",
+            "en": "Sanctuary of Hera matronly"
+          },
+          "coords": [
+            12.817715,
+            37.586425
+          ],
+          "category": "historical",
+          "arrive_at": "17:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses heilige Heiligtum der Hera, um in lokale religiöse Praktiken einzutauchen, und achten Sie auf die Überreste antiker Altäre in der Nähe.",
+            "hu": "Fedezze fel a Hérának szentelt szentélyt, hogy elmélyedjen a helyi vallási gyakorlatokban, és figyelje meg az ősi oltárok közeli maradványait.",
+            "ro": "Explorați acest sanctuar dedicat Herei pentru a pătrunde în practicile religioase locale și căutați cu atenție rămășițele altarelor antice din apropiere.",
+            "en": "Explore this sacred sanctuary dedicated to Hera to delve into local religious practices, and look out for the remnants of ancient altars nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der weitläufigen Agora und radeln Sie dann zum erhöhten Torre Manuzza. Die sanfte Morgenbrise macht das Radfahren zwischen den Ruinen zu einer Freude und bietet weite Ausblicke.\n\nMittags fahren Sie zur Porta Nord, um die robusten Befestigungen zu inspizieren. Ein kurzer Weg führt zurück zur Akropolis, wo die Säulen von Tempel D eine monumentale Kulisse bilden.\n\nRadeln Sie südwärts zur Küste, halten Sie am Torre Polluce für Meerblick und fahren Sie zum antiken Hafenstrand. Der Wechsel von Tempeln zu sanften Wellen ist eine erfrischende Abwechslung.\n\nBeenden Sie Ihren Tag, indem Sie nach Westen zum Heiligtum der Hera radeln. Die friedliche Atmosphäre wird durch das weiche Abendlicht perfekt ergänzt.",
+        "hu": "Kezdje kerékpártúráját a hatalmas Agorán, mielőtt a magasabban fekvő Torre Manuzza felé pedálozna. A lágy reggeli szellő örömmé teszi a romok közötti kerékpározást, és nagyszerű kilátást nyújt.\n\nDélben tekerjen a Porta Nord felé a város ősi erődítményeinek megtekintéséhez. Egy rövid út visszavisz az Akropoliszra, ahol a D-templom oszlopai monumentális hátteret biztosítanak.\n\nKerékpározzon délre, álljon meg a Torre Pollucénél a tengeri kilátásért, majd guruljon le az ókori kikötő strandjára. Ez a váltás frissítő változatosságot kínál.\n\nFejezze be a napot azzal, hogy nyugat felé teker a Héra szentélyhez. Ennek az ősi helynek a békés hangulatát tökéletesen kiegészíti a lágy esti fény.",
+        "ro": "Începeți turul cu bicicleta la vasta Agora, pedalând apoi spre Torre Manuzza. Briza blândă a dimineții face ca mersul cu bicicleta printre aceste ruine antice să fie o bucurie absolută, oferind vederi minunate.\n\nLa amiază, mergeți spre Porta Nord pentru a inspecta fortificațiile antice. O scurtă pedalare vă duce înapoi spre Acropole, unde coloanele Templului D oferă un fundal monumental.\n\nCălătoriți spre sud spre coastă, oprindu-vă la Torre Polluce pentru vederi la mare, înainte de a coborî la vechea plajă a portului. Tranziția este extrem de revigorantă.\n\nÎncheiați-vă ziua pedalând spre vest până la Sanctuarul Herei. Atmosfera pașnică a acestui sit antic este perfect completată de lumina blândă a serii de vară.",
+        "en": "Kick off your cycling tour at the sprawling Agora, navigating the ancient pathways before pedaling to the elevated Torre Manuzza. The gentle morning breeze makes cycling between these ancient ruins an absolute joy, offering sweeping views of the entire park.\n\nAs the sun climbs higher, ride towards Porta Nord to inspect the city's robust ancient fortifications. A short pedal takes you back towards the Acropolis, where Temple D's massive columns provide a monumental backdrop for your midday historical exploration.\n\nCycle south towards the coast, stopping at Torre Polluce for stunning sea views before riding down to the Spiaggia Ex Porto Antico. The transition from monumental temples to the gentle waves of the ancient harbor offers a refreshing change of pace and scenery.\n\nConclude your day by cycling west to the Sanctuary of Hera matronly. The peaceful, sacred atmosphere of this ancient site is perfectly complemented by the soft evening light, providing a serene and majestic finish to your two-wheeled adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:21",
+      "total_km": 3.25,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempio M",
+            "hu": "Tempio M",
+            "ro": "Tempio M",
+            "en": "Tempio M"
+          },
+          "coords": [
+            12.815372,
+            37.589516
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die mysteriösen Ruinen von Tempel M, um über seine Bedeutung nachzudenken, und kommen Sie früh für das beste Morgenlicht zum Fotografieren.",
+            "hu": "Vizsgálja meg az M-templom rejtélyes romjait, hogy elgondolkodjon annak ismeretlen dedikációján, és érkezzen korán a köveken megcsillanó reggeli fényekért.",
+            "ro": "Investigați ruinele misterioase ale Templului M pentru a medita asupra dedicării sale necunoscute și ajungeți devreme pentru lumina glorioasă a dimineții.",
+            "en": "Investigate the mysterious ruins of Temple M to ponder its unknown dedication, and arrive early to photograph the golden morning light on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Precinct of Zeus Meilichios",
+            "hu": "Precinct of Zeus Meilichios",
+            "ro": "Precinct of Zeus Meilichios",
+            "en": "Precinct of Zeus Meilichios"
+          },
+          "coords": [
+            12.816929,
+            37.58738
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen faszinierenden Bezirk, um mehr über den Kult des Zeus Meilichios zu erfahren, und beachten Sie die markanten Doppelstelen.",
+            "hu": "Sétáljon végig ezen a lenyűgöző területen, hogy megismerje a Zeusz Meilichiosz kultuszt, és figyelje meg az ősi szentélyeket jelző jellegzetes kettős sztéléket.",
+            "ro": "Plimbați-vă prin această zonă pentru a învăța despre cultul lui Zeus Meilichios și observați stelele gemene distinctive care marchează altarele antice.",
+            "en": "Wander through this fascinating precinct to learn about the cult of Zeus Meilichios, and notice the distinctive twin stelae that mark the ancient shrines."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanctuary of Hera matronly",
+            "hu": "Sanctuary of Hera matronly",
+            "ro": "Sanctuary of Hera matronly",
+            "en": "Sanctuary of Hera matronly"
+          },
+          "coords": [
+            12.817715,
+            37.586425
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses heilige Heiligtum der Hera, um in lokale religiöse Praktiken einzutauchen, und achten Sie auf die Überreste antiker Altäre in der Nähe.",
+            "hu": "Fedezze fel a Hérának szentelt szentélyt, hogy elmélyedjen a helyi vallási gyakorlatokban, és figyelje meg az ősi oltárok közeli maradványait.",
+            "ro": "Explorați acest sanctuar dedicat Herei pentru a pătrunde în practicile religioase locale și căutați cu atenție rămășițele altarelor antice din apropiere.",
+            "en": "Explore this sacred sanctuary dedicated to Hera to delve into local religious practices, and look out for the remnants of ancient altars nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Tilotta",
+            "hu": "Casa Tilotta",
+            "ro": "Casa Tilotta",
+            "en": "Casa Tilotta"
+          },
+          "coords": [
+            12.821624,
+            37.590545
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie den Grundriss der Casa Tilotta, um Einblicke in die antike Wohnarchitektur zu erhalten, und beachten Sie die Raumaufteilung um den Hof.",
+            "hu": "Figyelje meg a Casa Tilotta elrendezését, hogy betekintést nyerjen az ősi lakóépítészetbe, és vegye észre, hogyan rendeződnek a szobák a belső udvar körül.",
+            "ro": "Observați aspectul Casa Tilotta pentru a înțelege arhitectura domestică antică și rețineți cum camerele sunt aranjate frumos în jurul curții centrale.",
+            "en": "Observe the layout of Casa Tilotta to gain insight into ancient domestic architecture, and note how the rooms are arranged around a central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Agora",
+            "hu": "Agora",
+            "ro": "Agora",
+            "en": "Agora"
+          },
+          "coords": [
+            12.824604,
+            37.588635
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stehen Sie in der riesigen Agora, um sich das antike bürgerliche Leben vorzustellen, und bringen Sie viel Wasser mit, da es hier keinen Schatten gibt.",
+            "hu": "Álljon meg a hatalmas Agorán, hogy elképzelje az ókori polgári életet, és hozzon magával sok vizet, mivel ezen a területen szinte egyáltalán nincs árnyék.",
+            "ro": "Stați în vasta Agora pentru a vă imagina inima vieții civice antice și aduceți multă apă cu dumneavoastră, deoarece nu există umbră în această zonă.",
+            "en": "Stand in the vast Agora to imagine the bustling heart of ancient civic life, and bring plenty of water as there is virtually no shade in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple D",
+            "hu": "Temple D",
+            "ro": "Temple D",
+            "en": "Temple D"
+          },
+          "coords": [
+            12.824984,
+            37.583625
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dorischen Säulen von Tempel D, um die antike Architektur zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a D-templom dór oszlopait az ókori görög építészet megértéséhez, és viseljen kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Admirați coloanele dorice ale Templului D pentru a înțelege arhitectura greacă antică și purtați încălțăminte comodă pe terenul destul de accidentat.",
+            "en": "Admire the imposing Doric columns of Temple D to truly grasp the scale of ancient Greek architecture, and be sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Zabbara",
+            "hu": "Lido Zabbara",
+            "ro": "Lido Zabbara",
+            "en": "Lido Zabbara"
+          },
+          "coords": [
+            12.831829,
+            37.582217
+          ],
+          "category": "recreational",
+          "arrive_at": "17:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gut ausgestatteten Strand, um das klare Mittelmeerwasser zu genießen, und mieten Sie in den Sommermonaten vorab eine Sonnenliege.",
+            "hu": "Kapcsolódjon ki ezen a jól felszerelt strandon, hogy élvezze a tiszta mediterrán vizeket, és fontolja meg egy napágy előzetes bérlését a nyári hónapokban.",
+            "ro": "Relaxați-vă la această plajă bine echipată pentru a vă bucura de apele mediteraneene și luați în considerare închirierea unui șezlong în lunile de vară.",
+            "en": "Unwind at this well-equipped beach facility to enjoy clear Mediterranean waters, and consider renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Tukè",
+            "hu": "Lido Tukè",
+            "ro": "Lido Tukè",
+            "en": "Lido Tukè"
+          },
+          "coords": [
+            12.838855,
+            37.581756
+          ],
+          "category": "recreational",
+          "arrive_at": "18:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem Ort mit herrlichem Sonnenuntergang und holen Sie sich ein erfrischendes lokales Getränk vom nahegelegenen Kiosk.",
+            "hu": "Fejezze be a napot ezen a pihentető tengerparti helyen, amely nagyszerű naplementét kínál, és vegyen egy frissítő helyi italt a közeli kioszkból.",
+            "ro": "Încheiați ziua în acest loc de coastă relaxant care oferă vederi minunate la apus și luați o băutură locală răcoritoare de la chioșcul din apropiere.",
+            "en": "End your day at this relaxing coastal spot offering great sunset views, and grab a refreshing local beverage from the nearby kiosk before finding a seat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am mysteriösen Tempel M und genießen Sie die ruhige Morgenstimmung. Eine kurze Fahrt bringt Sie zum Bezirk des Zeus Meilichios, wo antike Kultpraktiken inmitten der Ruinen lebendig werden.\n\nFahren Sie zur archäologischen Hauptzone, erkunden Sie das Heiligtum der Hera und fahren Sie dann zur Casa Tilotta. Das Auto überbrückt mühelos die Entfernungen zwischen den Stadtbereichen.\n\nBesuchen Sie das Herz der antiken Stadt, die riesige Agora, und fahren Sie dann zur Akropolis, um Tempel D zu bestaunen. Die Nachmittagssonne bringt die warmen Töne des Steins wunderbar zur Geltung.\n\nVerlassen Sie den Park und fahren Sie entlang der Küste zum Lido Zabbara für einen Spaziergang. Parken Sie schließlich in der Nähe des Lido Tukè, um den perfekten mediterranen Sonnenuntergang zu beobachten.",
+        "hu": "Kezdje autós útvonalát a rejtélyes M-templomnál, élvezve a csendes reggeli elszigeteltséget. Egy nagyon rövid út elviszi a Zeusz Meilichiosz területre, ahol az ősi kultikus gyakorlatok életre kelnek a romok között.\n\nVezessen a fő régészeti övezet felé, fedezze fel a Héra szentélyt, majd induljon északra a Casa Tilottához. Az autó kényelme lehetővé teszi a távolságok könnyed áthidalását.\n\nIrány az ókori város szíve a hatalmas Agorával, majd vezessen egy kicsit az Akropoliszhoz, hogy megcsodálja a D-templomot. A délutáni napfény kiemeli a kövek meleg tónusait.\n\nHagyja el a parkot, és vezessen kelet felé a part mentén a Lido Zabbarához egy délutáni tengerparti sétára. Végül parkoljon le a Lido Tukè közelében a naplemente megtekintéséhez.",
+        "ro": "Începeți traseul cu mașina la misteriosul Templu M, bucurându-vă de izolarea dimineții. Un drum foarte scurt vă aduce în zona lui Zeus Meilichios, unde practicile antice de cult prind viață printre ruine.\n\nConduceți spre zona arheologică principală, explorând Sanctuarul Herei înainte de a vă îndrepta spre Casa Tilotta. Mașina vă permite să acoperiți ușor distanțele din acest parc imens.\n\nMergeți în inima orașului antic la vasta Agora, apoi conduceți scurt spre Acropole pentru a vă minuna de Templul D. Soarele de după-amiază scoate în evidență tonurile calde ale pietrei antice.\n\nPărăsiți parcul și conduceți spre est de-a lungul coastei până la Lido Zabbara pentru o plimbare pe litoral. În cele din urmă, parcați lângă Lido Tukè pentru a privi un apus de soare spectaculos.",
+        "en": "Begin your driving itinerary at the mysterious Tempio M on the Gaggera hill, enjoying the quiet morning isolation. A very short drive brings you to the Precinct of Zeus Meilichios, where ancient cult practices come to life amidst the scattered ruins.\n\nDrive towards the main archaeological zone, exploring the Sanctuary of Hera matronly before heading north to Casa Tilotta. The convenience of a car allows you to effortlessly bridge the distances between the distinct residential, sacred, and civic areas of Selinunte.\n\nHead to the heart of the ancient city to walk the immense Agora, then take a short drive to the Acropolis to marvel at Temple D. The afternoon sun brings out the warm tones of the stone, perfect for capturing the grandeur of these classical monuments.\n\nLeave the archaeological park and drive east along the coast to Lido Zabbara for a late afternoon seaside stroll. Finally, park near Lido Tukè to watch a spectacular Mediterranean sunset, enjoying a relaxing end to a history-filled day."
+      }
+    }
+  }
+}

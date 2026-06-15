@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-costa-daurada-cities-v2",
+  "anchor": {
+    "name": "Costa Daurada",
+    "coords": [
+      1.48539,
+      41.17394
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 1.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja de Cal Guinovart",
+            "hu": "Platja de Cal Guinovart",
+            "ro": "Platja de Cal Guinovart",
+            "en": "Platja de Cal Guinovart"
+          },
+          "coords": [
+            1.490291,
+            41.171475
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Küstenspaziergang an diesem herrlichen Sandstrand, wo ruhige morgendliche Gewässer das perfekte, erfrischende Bad vor dem Ansturm bieten.",
+            "hu": "Kezdje tengerparti sétáját ezen a gyönyörű homokos szakaszon, ahol a csendes reggeli vizek tökéletes, frissítő úszást kínálnak a délutáni tömeg érkezése előtt.",
+            "ro": "Începeți plimbarea de coastă pe această fâșie superbă de nisip, unde apele liniștite ale dimineții oferă o baie perfectă înainte de sosirea mulțimilor.",
+            "en": "Start your coastal walk at this beautiful sandy stretch where calm morning waters offer the perfect, refreshing swim before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Pelliceta",
+            "hu": "Platja de la Pelliceta",
+            "ro": "Platja de la Pelliceta",
+            "en": "Platja de la Pelliceta"
+          },
+          "coords": [
+            1.48275,
+            41.168912
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser bezaubernden, kleineren Bucht mit kristallklarem Wasser, einem idealen Ort, um Ihr Handtuch früh für ungestörtes Sonnenbaden auszubreiten.",
+            "hu": "Pihenjen meg ebben a bájos, kisebb öbölben, amely kristálytiszta vizével ideális hely arra, hogy korán kiterítse törölközőjét egy zavartalan napozáshoz.",
+            "ro": "Relaxați-vă în acest golfuleț fermecător cu ape cristaline, un loc ideal pentru a vă întinde prosopul devreme și a vă bucura de soare netulburat de nimeni.",
+            "en": "Unwind at this charming, smaller cove which boasts crystal-clear waters, making it an ideal spot to spread your towel early for undisturbed sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Radio",
+            "hu": "Museu de la Radio",
+            "ro": "Museu de la Radio",
+            "en": "Museu de la Radio"
+          },
+          "coords": [
+            1.48103,
+            41.167911
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung des Rundfunks durch eine riesige Sammlung alter Radios, aber prüfen Sie vor dem Besuch die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a műsorszórás lenyűgöző fejlődését a régi rádiók hatalmas gyűjteményén keresztül, de látogatás előtt mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți evoluția fascinantă a radiodifuziunii printr-o vastă colecție de aparate vintage, dar nu uitați să verificați programul de funcționare sezonier în prealabil.",
+            "en": "Discover the fascinating evolution of broadcasting through a vast collection of vintage radios, but remember to check the seasonal opening hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta de la Guineu",
+            "hu": "Platja de la Punta de la Guineu",
+            "ro": "Platja de la Punta de la Guineu",
+            "en": "Platja de la Punta de la Guineu"
+          },
+          "coords": [
+            1.479496,
+            41.168409
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast zwischen goldenem Sand und Felsvorsprüngen an diesem malerischen Ort, perfekt für unvergessliche Fotos im weichen Nachmittagslicht.",
+            "hu": "Csodálja meg az aranyhomok és a sziklás kiemelkedések lenyűgöző kontrasztját ezen a festői ponton, amely tökéletes emlékezetes fotók készítéséhez a lágy délutáni fényben.",
+            "ro": "Admirați contrastul izbitor dintre nisipul auriu și aflorimentele stâncoase în acest punct pitoresc, perfect pentru a surprinde fotografii memorabile în lumina blândă.",
+            "en": "Admire the striking contrast between golden sands and rocky outcrops at this scenic point, perfect for snapping memorable photos during the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "el Tir de la Gallina",
+            "hu": "el Tir de la Gallina",
+            "ro": "el Tir de la Gallina",
+            "en": "el Tir de la Gallina"
+          },
+          "coords": [
+            1.47538,
+            41.167306
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Aussichtspunkt mit weitem Panoramablick über das Mittelmeer. Tragen Sie jedoch feste Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes kilátót, amely széles panorámát nyújt a Földközi-tengerre, ezért feltétlenül viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați acest punct de belvedere natural uimitor care oferă panorame vaste asupra Mării Mediterane, așa că purtați încălțăminte robustă pentru cărările inegale.",
+            "en": "Explore this stunning natural viewpoint that offers sweeping panoramic vistas over the Mediterranean sea, so be sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Mare de Déu de Berà",
+            "hu": "Ermita Mare de Déu de Berà",
+            "ro": "Ermita Mare de Déu de Berà",
+            "en": "Ermita Mare de Déu de Berà"
+          },
+          "coords": [
+            1.472318,
+            41.166636
+          ],
+          "category": "religious",
+          "arrive_at": "15:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, historische Küstenkapelle, um die weiß getünchte Architektur zu bewundern, wobei bescheidene Kleidung respektvoll erbeten wird.",
+            "hu": "Lépjen be ebbe a békés, történelmi tengerparti kápolnába, hogy megcsodálja fehérre meszelt építészetét, bár a szerény öltözet viselése tiszteletteljesen elvárt.",
+            "ro": "Pășiți în această capelă de coastă istorică și liniștită pentru a-i aprecia arhitectura văruită, deși o ținută decentă este solicitată cu respect la intrare.",
+            "en": "Step into this serene, historical coastal chapel to appreciate its whitewashed architecture and peaceful ambiance, though modest attire is respectfully requested."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der erfrischenden Meeresbrise am weichen goldenen Sand von Cal Guinovart und La Pelliceta.\n\nGegen Mittag wechseln Sie von der glitzernden Küste in die faszinierende Welt der Rundfunkgeschichte im örtlichen Radiomuseum.\n\nVerbringen Sie Ihren Nachmittag damit, atemberaubende Fotos des Mittelmeers von den schroffen Aussichtspunkten an der Punta de la Guineu aufzunehmen.\n\nWenn der Abend naht, finden Sie Ruhe in der weiß getünchten Küsteneinsiedelei und lassen einen wunderschön ausgewogenen Tag ausklingen.",
+        "hu": "Kezdje a reggelt a frissítő tengeri szellővel Cal Guinovart és La Pelliceta puha, aranyszínű homokos partjainál.\n\nDélre váltson a csillogó partvonalról a rádiózás történelmének lenyűgöző világába a helyi rádiómúzeumban.\n\nTöltse a délutánt azzal, hogy lenyűgöző fotókat készít a Földközi-tengerről a Punta de la Guineu és az el Tir de la Gallina sziklás kilátóiból.\n\nAhogy közeledik az este, találjon nyugalmat a fehérre meszelt tengerparti remetelakban, elgondolkodva a kultúra és a természet kiegyensúlyozott napján.",
+        "ro": "Începeți dimineața simțind briza răcoroasă a mării pe nisipurile aurii și fine de la Cal Guinovart și La Pelliceta.\n\nLa prânz, treceți de la țărmul strălucitor în domeniul fascinant al istoriei radiodifuziunii, explorând muzeul local dedicat.\n\nPetreceți-vă după-amiaza surprinzând fotografii uimitoare ale Mediteranei din punctele de belvedere stâncoase de la Punta de la Guineu.\n\nPe măsură ce se apropie seara, găsiți liniștea la schitul alb de coastă, reflectând la o zi perfect echilibrată între cultură și natură.",
+        "en": "Begin your morning feeling the refreshing sea breeze along the soft golden sands of Cal Guinovart and La Pelliceta.\n\nBy midday, transition from the sparkling shoreline into the fascinating realm of broadcasting history at the local radio museum.\n\nSpend your afternoon capturing stunning photographs of the Mediterranean from the rugged viewpoints at Punta de la Guineu and el Tir de la Gallina.\n\nAs evening approaches, find tranquility at the whitewashed coastal hermitage, reflecting on a beautifully balanced day of culture and nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 3.73,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Berà Arch",
+            "hu": "Berà Arch",
+            "ro": "Berà Arch",
+            "en": "Berà Arch"
+          },
+          "coords": [
+            1.469146,
+            41.173309
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen außergewöhnlich gut erhaltenen antiken römischen Triumphbogen auf der historischen Via Augusta, am besten vom ausgewiesenen sicheren Fußgängerweg aus.",
+            "hu": "Csodálja meg ezt a kivételesen jól megőrzött ókori római diadalívet a történelmi Via Augustán, amely a kijelölt biztonságos gyalogos sétányról látható a legjobban.",
+            "ro": "Admirați acest arc de triumf roman antic, excepțional de bine conservat, situat pe istorica Via Augusta, cel mai bine vizionat de pe pasarela pietonală sigură.",
+            "en": "Marvel at this exceptionally well-preserved ancient Roman triumphal arch straddling the historic Via Augusta, best viewed from the designated safe pedestrian walkway."
+          }
+        },
+        {
+          "name": {
+            "de": "Cal Piles",
+            "hu": "Cal Piles",
+            "ro": "Cal Piles",
+            "en": "Cal Piles"
+          },
+          "coords": [
+            1.468675,
+            41.174837
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche regionale Erbe an diesem traditionellen historischen Bauwerk, wo eine Audioführung Ihr Verständnis der lokalen Traditionen erheblich verbessern kann.",
+            "hu": "Fedezze fel a gazdag regionális örökséget ennél a hagyományos történelmi épületnél, ahol egy vezetett audiótúra jelentősen elmélyítheti a helyi hagyományok megértését.",
+            "ro": "Descoperiți bogata moștenire regională la această structură istorică tradițională, unde un tur audio ghidat vă poate îmbunătăți semnificativ înțelegerea tradițiilor locale.",
+            "en": "Uncover the rich regional heritage at this traditional historical structure, where a guided audio tour can significantly enhance your understanding of local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Mare de Déu de Berà",
+            "hu": "Ermita Mare de Déu de Berà",
+            "ro": "Ermita Mare de Déu de Berà",
+            "en": "Ermita Mare de Déu de Berà"
+          },
+          "coords": [
+            1.472318,
+            41.166636
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, historische Küstenkapelle, um die weiß getünchte Architektur zu bewundern, wobei bescheidene Kleidung respektvoll erbeten wird.",
+            "hu": "Lépjen be ebbe a békés, történelmi tengerparti kápolnába, hogy megcsodálja fehérre meszelt építészetét, bár a szerény öltözet viselése tiszteletteljesen elvárt.",
+            "ro": "Pășiți în această capelă de coastă istorică și liniștită pentru a-i aprecia arhitectura văruită, deși o ținută decentă este solicitată cu respect la intrare.",
+            "en": "Step into this serene, historical coastal chapel to appreciate its whitewashed architecture and peaceful ambiance, though modest attire is respectfully requested."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Capellans",
+            "hu": "Platja dels Capellans",
+            "ro": "Platja dels Capellans",
+            "en": "Platja dels Capellans"
+          },
+          "coords": [
+            1.473903,
+            41.16684
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte, familienfreundliche Atmosphäre an diesem schönen, geschützten Strand, der hervorragende Einrichtungen und flaches Wasser für sicheres Schwimmen bietet.",
+            "hu": "Élvezze a nyüzsgő, családbarát hangulatot ezen a gyönyörű, védett strandon, amely kiváló felszereltséget és sekély vizet biztosít a biztonságos, pihentető úszáshoz.",
+            "ro": "Bucurați-vă de atmosfera plină de viață la această plajă frumoasă și adăpostită, care oferă facilități excelente și ape puțin adânci, ideale pentru înot relaxant și sigur.",
+            "en": "Enjoy the lively, family-friendly atmosphere at this beautiful, sheltered beach, which provides excellent facilities and shallow waters ideal for safe, relaxing swims."
+          }
+        },
+        {
+          "name": {
+            "de": "el Tir de la Gallina",
+            "hu": "el Tir de la Gallina",
+            "ro": "el Tir de la Gallina",
+            "en": "el Tir de la Gallina"
+          },
+          "coords": [
+            1.47538,
+            41.167306
+          ],
+          "category": "natural",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Aussichtspunkt mit weitem Panoramablick über das Mittelmeer. Tragen Sie jedoch feste Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes kilátót, amely széles panorámát nyújt a Földközi-tengerre, ezért feltétlenül viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Explorați acest punct de belvedere natural uimitor care oferă panorame vaste asupra Mării Mediterane, așa că purtați încălțăminte robustă pentru cărările inegale.",
+            "en": "Explore this stunning natural viewpoint that offers sweeping panoramic vistas over the Mediterranean sea, so be sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Radio",
+            "hu": "Museu de la Radio",
+            "ro": "Museu de la Radio",
+            "en": "Museu de la Radio"
+          },
+          "coords": [
+            1.48103,
+            41.167911
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung des Rundfunks durch eine riesige Sammlung alter Radios, aber prüfen Sie vor dem Besuch die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a műsorszórás lenyűgöző fejlődését a régi rádiók hatalmas gyűjteményén keresztül, de látogatás előtt mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți evoluția fascinantă a radiodifuziunii printr-o vastă colecție de aparate vintage, dar nu uitați să verificați programul de funcționare sezonier în prealabil.",
+            "en": "Discover the fascinating evolution of broadcasting through a vast collection of vintage radios, but remember to check the seasonal opening hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Francàs",
+            "hu": "Platja del Francàs",
+            "ro": "Platja del Francàs",
+            "en": "Platja del Francàs"
+          },
+          "coords": [
+            1.501683,
+            41.174782
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre lebhafte Küstenreise an diesem weitläufigen Feinsandstrand, wo ein gemütlicher Sonnenuntergangsspaziergang einen spektakulär bunten Abschluss Ihres Tages bietet.",
+            "hu": "Zárja élénk tengerparti utazását ezen a kiterjedt, finom homokos strandon, ahol egy kényelmes naplemente-séta látványosan színes befejezést kínál csodálatos napjának.",
+            "ro": "Încheiați-vă călătoria vibrantă pe coastă la această plajă întinsă cu nisip fin, unde o plimbare relaxantă la apus oferă un sfârșit spectaculos și colorat al zilei.",
+            "en": "Conclude your vibrant coastal journey at this expansive, fine-sand beach where taking a leisurely sunset stroll offers a spectacularly colorful end to your wonderful day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit der Bewunderung eines antiken römischen Triumphbogens und der Erkundung der historischen Überreste von Cal Piles.\n\nRadeln Sie mittags in Richtung Küste, um die friedliche Einsiedelei am Meer zu entdecken und an den familienfreundlichen Ufern von Platja dels Capellans zu entspannen.\n\nGenießen Sie am Nachmittag eine malerische Fahrt entlang der natürlichen Klippen von el Tir de la Gallina, bevor Sie in Vintage-Sammlungen eintauchen.\n\nBeenden Sie Ihren aktiven Tag mit einer Radtour zu den weiten Sandstränden von Platja del Francàs, wo das schwindende Licht den Küstenhimmel in leuchtende Farben taucht.",
+        "hu": "Kezdje kerékpáros kalandját egy ókori római diadalív megcsodálásával és a Cal Piles történelmi maradványainak felfedezésével.\n\nDélben tekerjen a partvonal felé, hogy felfedezze a békés tengerparti remetelakot, és pihenjen a Platja dels Capellans családbarát partjain.\n\nDélután élvezze a festői utazást az el Tir de la Gallina természetes sziklái mentén, mielőtt elmerülne a Rádiómúzeum régi gyűjteményeiben.\n\nZárja aktív napját azzal, hogy elteker a Platja del Francàs kiterjedt homokjához, ahol a halványuló fény élénk naplemente színekre festi az eget.",
+        "ro": "Începeți-vă aventura pe bicicletă admirând un arc de triumf roman antic și explorând rămășițele istorice fascinante de la Cal Piles.\n\nPedalați spre coastă la prânz pentru a descoperi schitul liniștit de la malul mării și a vă relaxa pe țărmurile plajei Platja dels Capellans.\n\nDupă-amiaza, bucurați-vă de o plimbare pitorească de-a lungul stâncilor de la el Tir de la Gallina, înainte de a explora muzeul radio.\n\nÎncheiați-vă ziua activă pedalând spre nisipurile întinse de la Platja del Francàs, unde lumina estompată pictează cerul în culori vibrante de apus.",
+        "en": "Kick off your cycling adventure by marveling at an ancient Roman triumphal arch and exploring the storied historical remnants of Cal Piles.\n\nPedal towards the coastline at midday to discover the peaceful seaside hermitage and relax on the family-friendly shores of Platja dels Capellans.\n\nIn the afternoon, enjoy a scenic ride along the natural cliffs of el Tir de la Gallina before immersing yourself in vintage collections at the Radio Museum.\n\nConclude your active day by cycling to the expansive sands of Platja del Francàs, where the fading light paints the coastal sky in vibrant sunset colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.57,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masieta del Virgili",
+            "hu": "Masieta del Virgili",
+            "ro": "Masieta del Virgili",
+            "en": "Masieta del Virgili"
+          },
+          "coords": [
+            1.473545,
+            41.19429
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, während Sie die rustikalen Überreste dieses ländlichen Anwesens erkunden, und bringen Sie Wasser mit, da die Annehmlichkeiten hier sehr begrenzt sind.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi ennek a vidéki birtoknak a rusztikus maradványait, és hozzon magával vizet, mivel a kényelmi szolgáltatások meglehetősen korlátozottak.",
+            "ro": "Întoarceți-vă în timp în timp ce explorați rămășițele rustice ale acestei moșii rurale, aducând cu voi apă, deoarece facilitățile din această locație interioară sunt destul de limitate.",
+            "en": "Step back in time as you explore the rustic remnants of this rural estate, bringing a bottle of water since amenities in this serene inland location are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Corral del Xicu",
+            "hu": "Corral del Xicu",
+            "ro": "Corral del Xicu",
+            "en": "Corral del Xicu"
+          },
+          "coords": [
+            1.471826,
+            41.189666
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die authentischen architektonischen Details dieses alten Viehpferchs, ein Zeugnis der landwirtschaftlichen Vergangenheit der Gegend, erreichbar über unbefestigte Wege.",
+            "hu": "Vizsgálja meg ennek a régi állatkarámnak az autentikus építészeti részleteit, amely a terület mezőgazdasági múltjának bizonyítéka, és könnyen megközelíthető a földutakon.",
+            "ro": "Examinați detaliile arhitecturale autentice ale acestui vechi țarc de vite, o dovadă a trecutului agricol al zonei, ușor accesibil prin traseele rurale neasfaltate.",
+            "en": "Examine the authentic architectural details of this old livestock corral, a testament to the area's agricultural past, easily accessed via the unpaved country trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Berà Arch",
+            "hu": "Berà Arch",
+            "ro": "Berà Arch",
+            "en": "Berà Arch"
+          },
+          "coords": [
+            1.469146,
+            41.173309
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen außergewöhnlich gut erhaltenen antiken römischen Triumphbogen auf der historischen Via Augusta, am besten vom ausgewiesenen sicheren Fußgängerweg aus.",
+            "hu": "Csodálja meg ezt a kivételesen jól megőrzött ókori római diadalívet a történelmi Via Augustán, amely a kijelölt biztonságos gyalogos sétányról látható a legjobban.",
+            "ro": "Admirați acest arc de triumf roman antic, excepțional de bine conservat, situat pe istorica Via Augusta, cel mai bine vizionat de pe pasarela pietonală sigură.",
+            "en": "Marvel at this exceptionally well-preserved ancient Roman triumphal arch straddling the historic Via Augusta, best viewed from the designated safe pedestrian walkway."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja Llarga de Berà",
+            "hu": "Platja Llarga de Berà",
+            "ro": "Platja Llarga de Berà",
+            "en": "Platja Llarga de Berà"
+          },
+          "coords": [
+            1.464816,
+            41.16521
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem wunderbar langen Abschnitt aus goldenem Sand, der für seine angenehme Meeresbrise bekannt ist, die auch heiße Mittagsstunden angenehm macht.",
+            "hu": "Szívja magába a napsugarakat ezen a csodálatosan hosszú, aranyhomokos szakaszon, amely kellemes tengeri szellőiről ismert, így a legforróbb déli órák is elviselhetők.",
+            "ro": "Bucurați-vă de soare pe această întindere lungă și minunată de nisip auriu, cunoscută pentru briza mării plăcută care face chiar și orele calde ale amiezii foarte confortabile.",
+            "en": "Soak up the sun on this wonderfully long stretch of golden sand, known for its pleasant sea breeze that makes even the hottest midday hours feel incredibly comfortable."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Mare de Déu de Berà",
+            "hu": "Ermita Mare de Déu de Berà",
+            "ro": "Ermita Mare de Déu de Berà",
+            "en": "Ermita Mare de Déu de Berà"
+          },
+          "coords": [
+            1.472318,
+            41.166636
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, historische Küstenkapelle, um die weiß getünchte Architektur zu bewundern, wobei bescheidene Kleidung respektvoll erbeten wird.",
+            "hu": "Lépjen be ebbe a békés, történelmi tengerparti kápolnába, hogy megcsodálja fehérre meszelt építészetét, bár a szerény öltözet viselése tiszteletteljesen elvárt.",
+            "ro": "Pășiți în această capelă de coastă istorică și liniștită pentru a-i aprecia arhitectura văruită, deși o ținută decentă este solicitată cu respect la intrare.",
+            "en": "Step into this serene, historical coastal chapel to appreciate its whitewashed architecture and peaceful ambiance, though modest attire is respectfully requested."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Radio",
+            "hu": "Museu de la Radio",
+            "ro": "Museu de la Radio",
+            "en": "Museu de la Radio"
+          },
+          "coords": [
+            1.48103,
+            41.167911
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung des Rundfunks durch eine riesige Sammlung alter Radios, aber prüfen Sie vor dem Besuch die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a műsorszórás lenyűgöző fejlődését a régi rádiók hatalmas gyűjteményén keresztül, de látogatás előtt mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți evoluția fascinantă a radiodifuziunii printr-o vastă colecție de aparate vintage, dar nu uitați să verificați programul de funcționare sezonier în prealabil.",
+            "en": "Discover the fascinating evolution of broadcasting through a vast collection of vintage radios, but remember to check the seasonal opening hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Francàs",
+            "hu": "Platja del Francàs",
+            "ro": "Platja del Francàs",
+            "en": "Platja del Francàs"
+          },
+          "coords": [
+            1.501683,
+            41.174782
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre lebhafte Küstenreise an diesem weitläufigen Feinsandstrand, wo ein gemütlicher Sonnenuntergangsspaziergang einen spektakulär bunten Abschluss Ihres Tages bietet.",
+            "hu": "Zárja élénk tengerparti utazását ezen a kiterjedt, finom homokos strandon, ahol egy kényelmes naplemente-séta látványosan színes befejezést kínál csodálatos napjának.",
+            "ro": "Încheiați-vă călătoria vibrantă pe coastă la această plajă întinsă cu nisip fin, unde o plimbare relaxantă la apus oferă un sfârșit spectaculos și colorat al zilei.",
+            "en": "Conclude your vibrant coastal journey at this expansive, fine-sand beach where taking a leisurely sunset stroll offers a spectacularly colorful end to your wonderful day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Landesinneren und navigieren Sie auf ländlichen Wegen, um das authentische landwirtschaftliche Erbe von Masieta del Virgili zu entdecken.\n\nFahren Sie gegen Mittag an die Küste, bewundern Sie den majestätischen Berà-Bogen und genießen Sie eine sonnenverwöhnte Pause an der Platja Llarga.\n\nVerbringen Sie einen faszinierenden Nachmittag mit dem Besuch der ruhigen Einsiedelei am Meer und tauchen Sie im örtlichen Museum in die Rundfunkgeschichte ein.\n\nBeenden Sie Ihren abwechslungsreichen Roadtrip mit einem Parkplatz in der Nähe der Platja del Francàs, wo Sie sich im goldenen Sand bei Einbruch der Abenddämmerung entspannen können.",
+        "hu": "Kezdje a reggelt a szárazföld belsejében, vidéki utakon navigálva, hogy felfedezze a Masieta del Virgili és a Corral del Xicu autentikus mezőgazdasági örökségét.\n\nDél körül vezessen le a partra, álljon meg megcsodálni a fenséges Berà diadalívet, mielőtt élvezné a napsütötte szünetet a Platja Llarga strandon.\n\nTöltsön el egy lenyűgöző délutánt a békés tengerparti remetelak meglátogatásával és a helyi múzeum rádiózási történelmébe való elmerüléssel.\n\nFejezze be változatos autós utazását a Platja del Francàs közelében parkolva, ahol megpihenhet az aranyhomokon, ahogy a szürkület leszáll a Costa Dauradára.",
+        "ro": "Începeți dimineața în interiorul țării, navigând pe cărări rurale pentru a descoperi moștenirea agricolă autentică păstrată la Masieta del Virgili și Corral del Xicu.\n\nLa prânz, conduceți spre coastă, oprindu-vă pentru a admira maiestuosul Arc Berà înainte de a vă bucura de o pauză lungă și însorită la Platja Llarga.\n\nPetreceți o după-amiază fascinantă vizitând schitul liniștit de la malul mării și scufundându-vă în istoria radiodifuziunii la muzeul local.\n\nTerminați-vă călătoria parcând lângă Platja del Francàs, unde vă puteți relaxa pe nisipurile aurii în timp ce amurgul se lasă ușor peste Costa Daurada.",
+        "en": "Start your morning inland, navigating rural paths to uncover the authentic agricultural heritage preserved at Masieta del Virgili and Corral del Xicu.\n\nBy midday, drive down to the coast, stopping to admire the majestic Berà Arch before enjoying a long, sun-drenched pause at Platja Llarga.\n\nSpend a fascinating afternoon visiting the serene seaside hermitage and diving into eclectic broadcasting history at the local museum.\n\nFinish your diverse road trip parking near Platja del Francàs, where you can unwind on the golden sands as dusk gently settles over the Costa Daurada."
+      }
+    }
+  }
+}

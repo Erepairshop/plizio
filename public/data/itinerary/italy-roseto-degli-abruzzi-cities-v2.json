@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-roseto-degli-abruzzi-cities-v2",
+  "anchor": {
+    "name": "Roseto degli Abruzzi",
+    "coords": [
+      14.01446,
+      42.67758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Maria Santissima Assunta",
+            "hu": "Chiesa di Maria Santissima Assunta",
+            "ro": "Chiesa di Maria Santissima Assunta",
+            "en": "Chiesa di Maria Santissima Assunta"
+          },
+          "coords": [
+            14.011967,
+            42.679795
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, eines spirituellen Zentrums, aber kleiden Sie sich angemessen, um die lokalen Bräuche zu respektieren.",
+            "hu": "Csodáld meg a központi templom gyönyörű freskóit, egy fontos vallási központot, de ne feledd a visszafogott öltözködést a helyi szokások tisztelete miatt.",
+            "ro": "Admirați frescele frumoase din această biserică centrală, un important centru spiritual, dar amintiți-vă să vă îmbrăcați modest pentru a respecta obiceiurile.",
+            "en": "Admire the beautiful frescoes in this central church, an important spiritual hub, but remember to dress modestly before entering to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Villa comunale",
+            "hu": "Arena Villa comunale",
+            "ro": "Arena Villa comunale",
+            "en": "Arena Villa comunale"
+          },
+          "coords": [
+            14.014909,
+            42.674926
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Pinien in dieser historischen Arena, ideal für eine Mittagspause, und holen Sie sich einen Espresso in der Nähe.",
+            "hu": "Pihenj meg a történelmi aréna ősi fenyőfái alatt, amely tökéletes egy déli szünethez, és vegyél egy gyors eszpresszót vagy fagylaltot a közeli árusoktól.",
+            "ro": "Relaxați-vă sub pinii antici din această arenă istorică publică, perfectă pentru o pauză, și cumpărați un espresso rapid sau o înghețată de la chioșcuri.",
+            "en": "Relax under the ancient pine trees in this historical public arena, perfect for a midday break, and grab a quick espresso or gelato from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Bollabeach",
+            "hu": "Bollabeach",
+            "ro": "Bollabeach",
+            "en": "Bollabeach"
+          },
+          "coords": [
+            14.018502,
+            42.675722
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie barfuß auf dem goldenen Sand dieses Küstenortes und genießen Sie die Adria-Brise, aber kommen Sie früh, um einen guten Liegestuhl zu sichern.",
+            "hu": "Sétálj mezítláb az aranyhomokon ezen a népszerű partszakaszon, élvezve az Adriai szellőt, de érkezz korán, hogy biztosíts magadnak egy jó napozóágyat.",
+            "ro": "Plimbați-vă desculți pe nisipul auriu al acestei plaje populare, bucurându-vă de briza Adriaticii, dar sosiți devreme pentru a prinde un șezlong bun.",
+            "en": "Walk barefoot on the pristine golden sands of this popular coastal spot, enjoying the Adriatic breeze, but arrive early to secure a prime sunbathing chair."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore",
+            "hu": "Chiesa del Sacro Cuore",
+            "ro": "Chiesa del Sacro Cuore",
+            "en": "Chiesa del Sacro Cuore"
+          },
+          "coords": [
+            14.016543,
+            42.670923
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur dieses modernen Heiligtums, das einen ruhigen Rückzugsort bietet, und prüfen Sie die Tafel für abendliche Chorauftritte.",
+            "hu": "Fedezd fel e modern szentély békés építészetét, amely nyugodt menedéket nyújt a nap elől, és nézd meg a hirdetőtáblán az esti kórusfellépések idejét.",
+            "ro": "Descoperiți arhitectura serenă a acestui sanctuar modern, ce oferă un refugiu liniștit de soare, și verificați avizierul pentru orele corului de seară.",
+            "en": "Discover the serene architecture of this modern sanctuary, which offers a peaceful retreat from the sun, and check the notice board for evening choir times."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti di guerra",
+            "hu": "Monumento ai caduti di guerra",
+            "ro": "Monumento ai caduti di guerra",
+            "en": "Monumento ai caduti di guerra"
+          },
+          "coords": [
+            14.0235,
+            42.670189
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Kriegerdenkmal, das lokale Helden ehrt und tiefen Kontext bietet, Ihren Respekt, und besuchen Sie es zur goldenen Stunde für Fotos.",
+            "hu": "Ród le tiszteletedet ezen az ünnepélyes háborús emlékművön, amely helyi hősöket tisztel, és látogass el ide az aranyórában a legjobb fotók elkészítéséhez.",
+            "ro": "Aduceți un omagiu la acest monument solemn ce onorează eroii locali cu un context istoric profund, și vizitați-l la ora de aur pentru cele mai bune poze.",
+            "en": "Pay your respects at this solemn war memorial that honors local heroes, providing deep historical context, and visit during golden hour for the best photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Roseto, indem Sie die spirituelle Schönheit der Hauptkirche bewundern.\n\nBewegen Sie sich in Richtung Arena Villa Comunale für eine entspannte Pause unter den Pinien.\n\nVerbringen Sie einen faulen Nachmittag am Sandstrand Bollabeach, bevor Sie das Heiligtum Sacro Cuore besuchen.\n\nBeenden Sie Ihren Küstenspaziergang am ergreifenden Kriegerdenkmal bei Sonnenuntergang.",
+        "hu": "Kezdje a napot Roseto degli Abruzzi szívében, a központi templom lenyűgöző spirituális szépségével.\n\nHaladjon tovább a történelmi Arena Villa Comunale felé egy pihentető délelőtti szünetre a fenyők között.\n\nTöltsön egy lusta délutánt a Bollabeach aranyhomokján, majd látogassa meg a Sacro Cuore szentélyt.\n\nZárja tengerparti sétáját a megható háborús emlékműnél, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți-vă ziua în inima Roseto degli Abruzzi, admirând frumusețea spirituală a bisericii centrale.\n\nMergeți spre istorica Arena Villa Comunale pentru o pauză relaxantă la mijlocul dimineții printre pini.\n\nPetreceți o după-amiază leneșă pe nisipul auriu de la Bollabeach înainte de a vizita sanctuarul Sacro Cuore.\n\nÎncheiați-vă plimbarea pe coastă la monumentul de război pe măsură ce soarele apune.",
+        "en": "Begin your day in the heart of Roseto degli Abruzzi, admiring the spiritual beauty of the main central church.\n\nMove towards the historic Arena Villa Comunale for a relaxed mid-morning break among the pine trees.\n\nSpend a lazy afternoon on the golden sands of Bollabeach before visiting the tranquil Sacro Cuore sanctuary.\n\nConclude your coastal walk at the poignant war memorial as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "BellavistaMare",
+            "hu": "BellavistaMare",
+            "ro": "BellavistaMare",
+            "en": "BellavistaMare"
+          },
+          "coords": [
+            14.011458,
+            42.686274
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit Meerblick entlang dieser unberührten nördlichen Promenade und achten Sie auf spezielle Radwege, um stets sicher zu bleiben.",
+            "hu": "Kezdd a kerékpártúrát a lenyűgöző óceáni kilátással ezen az északi sétányon, és mindig ügyelj a kijelölt kerékpárutakra, hogy biztonságban maradhass végig.",
+            "ro": "Începeți traseul de ciclism admirând priveliștile oceanului de-a lungul acestei promenade nordice, și fiți atenți la pistele de biciclete pentru siguranță.",
+            "en": "Start your cycling route by taking in sweeping ocean views along this pristine northern promenade, keeping an eye out for dedicated bike lanes to stay safe."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Santissima Assunta",
+            "hu": "Chiesa di Maria Santissima Assunta",
+            "ro": "Chiesa di Maria Santissima Assunta",
+            "en": "Chiesa di Maria Santissima Assunta"
+          },
+          "coords": [
+            14.011967,
+            42.679795
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, eines spirituellen Zentrums, aber kleiden Sie sich angemessen, um die lokalen Bräuche zu respektieren.",
+            "hu": "Csodáld meg a központi templom gyönyörű freskóit, egy fontos vallási központot, de ne feledd a visszafogott öltözködést a helyi szokások tisztelete miatt.",
+            "ro": "Admirați frescele frumoase din această biserică centrală, un important centru spiritual, dar amintiți-vă să vă îmbrăcați modest pentru a respecta obiceiurile.",
+            "en": "Admire the beautiful frescoes in this central church, an important spiritual hub, but remember to dress modestly before entering to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Villa comunale",
+            "hu": "Arena Villa comunale",
+            "ro": "Arena Villa comunale",
+            "en": "Arena Villa comunale"
+          },
+          "coords": [
+            14.014909,
+            42.674926
+          ],
+          "category": "cultural",
+          "arrive_at": "11:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Pinien in dieser historischen Arena, ideal für eine Mittagspause, und holen Sie sich einen Espresso in der Nähe.",
+            "hu": "Pihenj meg a történelmi aréna ősi fenyőfái alatt, amely tökéletes egy déli szünethez, és vegyél egy gyors eszpresszót vagy fagylaltot a közeli árusoktól.",
+            "ro": "Relaxați-vă sub pinii antici din această arenă istorică publică, perfectă pentru o pauză, și cumpărați un espresso rapid sau o înghețată de la chioșcuri.",
+            "en": "Relax under the ancient pine trees in this historical public arena, perfect for a midday break, and grab a quick espresso or gelato from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Bollabeach",
+            "hu": "Bollabeach",
+            "ro": "Bollabeach",
+            "en": "Bollabeach"
+          },
+          "coords": [
+            14.018502,
+            42.675722
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie barfuß auf dem goldenen Sand dieses Küstenortes und genießen Sie die Adria-Brise, aber kommen Sie früh, um einen guten Liegestuhl zu sichern.",
+            "hu": "Sétálj mezítláb az aranyhomokon ezen a népszerű partszakaszon, élvezve az Adriai szellőt, de érkezz korán, hogy biztosíts magadnak egy jó napozóágyat.",
+            "ro": "Plimbați-vă desculți pe nisipul auriu al acestei plaje populare, bucurându-vă de briza Adriaticii, dar sosiți devreme pentru a prinde un șezlong bun.",
+            "en": "Walk barefoot on the pristine golden sands of this popular coastal spot, enjoying the Adriatic breeze, but arrive early to secure a prime sunbathing chair."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti di guerra",
+            "hu": "Monumento ai caduti di guerra",
+            "ro": "Monumento ai caduti di guerra",
+            "en": "Monumento ai caduti di guerra"
+          },
+          "coords": [
+            14.0235,
+            42.670189
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Kriegerdenkmal, das lokale Helden ehrt und tiefen Kontext bietet, Ihren Respekt, und besuchen Sie es zur goldenen Stunde für Fotos.",
+            "hu": "Ród le tiszteletedet ezen az ünnepélyes háborús emlékművön, amely helyi hősöket tisztel, és látogass el ide az aranyórában a legjobb fotók elkészítéséhez.",
+            "ro": "Aduceți un omagiu la acest monument solemn ce onorează eroii locali cu un context istoric profund, și vizitați-l la ora de aur pentru cele mai bune poze.",
+            "en": "Pay your respects at this solemn war memorial that honors local heroes, providing deep historical context, and visit during golden hour for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Beata Teresa di Calcutta",
+            "hu": "Chiesa della Beata Teresa di Calcutta",
+            "ro": "Chiesa della Beata Teresa di Calcutta",
+            "en": "Chiesa della Beata Teresa di Calcutta"
+          },
+          "coords": [
+            14.009905,
+            42.65914
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser modernen Kirche, die Mutter Teresa gewidmet ist, beachten Sie das Design und nutzen Sie den ruhigen Garten zur Reflexion.",
+            "hu": "Fejezd be utazásod ennél a modern templomnál, amelyet Teréz anyának szenteltek, és használd a szomszédos csendes kertet egy kis személyes elmélkedésre.",
+            "ro": "Încheiați-vă călătoria la această biserică contemporană dedicată Maicii Tereza, observând designul minimalist, și folosiți grădina pentru reflecție.",
+            "en": "Conclude your trip at this contemporary church dedicated to Mother Teresa, noting its minimalist design, and use the adjacent quiet garden for reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im nördlichen BellavistaMare und genießen Sie die morgendliche Meeresbrise.\n\nRadeln Sie sanft ins Stadtzentrum, um die Hauptkirche zu erkunden und eine Pause an der Villa zu machen.\n\nFahren Sie entlang der sonnigen Küste nach Süden und halten Sie am Bollabeach, um ins Wasser zu tauchen.\n\nBeenden Sie die Reise am Kriegerdenkmal und dem ruhigen Heiligtum von Mutter Teresa.",
+        "hu": "Kezdje kerékpáros kalandját az északi BellavistaMare strandnál, élvezve a frissítő reggeli tengeri szellőt.\n\nTekerjen be a városközpontba a főtemplom felfedezéséhez és egy gyors falathoz a közösségi villánál.\n\nLovagoljon délre a napos partvonal mentén, megállva a Bollabeachnél, hogy megmártsa lábát az Adriában.\n\nFejezze be útját a háborús emlékműnél és Teréz anya csendes, modern szentélyénél.",
+        "ro": "Începeți-vă aventura cu bicicleta la nordul BellavistaMare, bucurându-vă de briza răcoroasă a dimineții.\n\nPedați ușor spre centrul orașului pentru a explora biserica principală și a lua o gustare la vila comunală.\n\nMergeți spre sud de-a lungul coastei însorite, oprindu-vă la Bollabeach pentru a vă bucura de Marea Adriatică.\n\nTerminați-vă călătoria lângă monumentul de război și sanctuarul liniștit al Maicii Tereza.",
+        "en": "Kick off your cycling adventure at the northern BellavistaMare, enjoying the refreshing morning sea breeze.\n\nPedal smoothly into the town center to explore the main church and grab a quick bite at the communal villa.\n\nRide south along the sunny coastline, pausing at Bollabeach to dip your toes in the Adriatic Sea.\n\nFinish your journey by the war memorial and Mother Teresa's quiet, modern sanctuary."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Rocco",
+            "hu": "Chiesa di San Rocco",
+            "ro": "Chiesa di San Rocco",
+            "en": "Chiesa di San Rocco"
+          },
+          "coords": [
+            13.983915,
+            42.677948
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese alte Kirche im historischen Montepagano, um seltene Artefakte zu sehen, aber beachten Sie die begrenzten morgendlichen Öffnungszeiten.",
+            "hu": "Lépj be ebbe az ősi templomba a történelmi Montepagano negyedben a ritka vallási tárgyakért, de gondosan ellenőrizd a korlátozott reggeli nyitvatartást.",
+            "ro": "Pășiți în această biserică veche din istoricul Montepagano pentru a vedea artefacte rare, dar notați cu atenție orele limitate de deschidere matinală.",
+            "en": "Step inside this ancient church in the historic Montepagano district to view rare religious artifacts, but note the limited morning opening hours carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Lazzaretto",
+            "hu": "Antico Lazzaretto",
+            "ro": "Antico Lazzaretto",
+            "en": "Antico Lazzaretto"
+          },
+          "coords": [
+            13.988024,
+            42.67756
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ehemalige Quarantänestation, um die maritime Geschichte zu entdecken, und halten Sie an, um die detaillierten englischen Tafeln zu lesen.",
+            "hu": "Fedezd fel ezt a lenyűgöző egykori karanténállomást, hogy megismerd a tengerészeti történelmet, és állj meg elolvasni a részletes angol nyelvű táblákat.",
+            "ro": "Explorați această fostă stație de carantină pentru a descoperi istoria maritimă și evoluția sănătății, oprindu-vă să citiți plăcuțele detaliate în engleză.",
+            "en": "Explore this fascinating former quarantine station to uncover maritime history and public health evolution, stopping to read the detailed English placards."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa madre della Santissima Annunziata",
+            "hu": "Chiesa madre della Santissima Annunziata",
+            "ro": "Chiesa madre della Santissima Annunziata",
+            "en": "Chiesa madre della Santissima Annunziata"
+          },
+          "coords": [
+            13.990323,
+            42.677206
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die großartige Architektur dieser Mutterkirche, die die Skyline dominiert, und tragen Sie feste Schuhe für das steile Kopfsteinpflaster hier.",
+            "hu": "Csodáld meg ezen anyatemplom nagyszerű építészetét, amely uralja a helyi dombtető látképét, és viselj kényelmes cipőt a meredek macskaköves utcák miatt.",
+            "ro": "Minunați-vă de arhitectura grandioasă a acestei biserici mamă care domină orizontul, și purtați încălțăminte robustă pentru străzile abrupte pietruite.",
+            "en": "Marvel at the grand architecture of this mother church which dominates the local hilltop skyline, and wear sturdy walking shoes for the steep cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanchi Di Diodoro",
+            "hu": "Calanchi Di Diodoro",
+            "ro": "Calanchi Di Diodoro",
+            "en": "Calanchi Di Diodoro"
+          },
+          "coords": [
+            13.997879,
+            42.687647
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen markanten Tonlandschaften, um dramatische Erosionsmuster zu sehen, und bringen Sie viel Wasser mit, da es hier sehr wenig Schatten gibt.",
+            "hu": "Túrázz fel ezekhez a lenyűgöző agyagképződményekhez a drámai természeti erózió megfigyelésére, de vigyél sok vizet, mivel nagyon kevés árnyék áll rendelkezésre.",
+            "ro": "Urcați spre aceste pământuri argiloase izbitoare pentru a vedea modele naturale de eroziune, luând multă apă deoarece există foarte puțină umbră disponibilă.",
+            "en": "Hike up to these striking clay badlands to witness dramatic natural erosion patterns, carrying plenty of water since there is very little shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Santissima Assunta",
+            "hu": "Chiesa di Maria Santissima Assunta",
+            "ro": "Chiesa di Maria Santissima Assunta",
+            "en": "Chiesa di Maria Santissima Assunta"
+          },
+          "coords": [
+            14.011967,
+            42.679795
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken dieser zentralen Kirche, eines spirituellen Zentrums, aber kleiden Sie sich angemessen, um die lokalen Bräuche zu respektieren.",
+            "hu": "Csodáld meg a központi templom gyönyörű freskóit, egy fontos vallási központot, de ne feledd a visszafogott öltözködést a helyi szokások tisztelete miatt.",
+            "ro": "Admirați frescele frumoase din această biserică centrală, un important centru spiritual, dar amintiți-vă să vă îmbrăcați modest pentru a respecta obiceiurile.",
+            "en": "Admire the beautiful frescoes in this central church, an important spiritual hub, but remember to dress modestly before entering to respect local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Villa comunale",
+            "hu": "Arena Villa comunale",
+            "ro": "Arena Villa comunale",
+            "en": "Arena Villa comunale"
+          },
+          "coords": [
+            14.014909,
+            42.674926
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Pinien in dieser historischen Arena, ideal für eine Mittagspause, und holen Sie sich einen Espresso in der Nähe.",
+            "hu": "Pihenj meg a történelmi aréna ősi fenyőfái alatt, amely tökéletes egy déli szünethez, és vegyél egy gyors eszpresszót vagy fagylaltot a közeli árusoktól.",
+            "ro": "Relaxați-vă sub pinii antici din această arenă istorică publică, perfectă pentru o pauză, și cumpărați un espresso rapid sau o înghețată de la chioșcuri.",
+            "en": "Relax under the ancient pine trees in this historical public arena, perfect for a midday break, and grab a quick espresso or gelato from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti di guerra",
+            "hu": "Monumento ai caduti di guerra",
+            "ro": "Monumento ai caduti di guerra",
+            "en": "Monumento ai caduti di guerra"
+          },
+          "coords": [
+            14.0235,
+            42.670189
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Kriegerdenkmal, das lokale Helden ehrt und tiefen Kontext bietet, Ihren Respekt, und besuchen Sie es zur goldenen Stunde für Fotos.",
+            "hu": "Ród le tiszteletedet ezen az ünnepélyes háborús emlékművön, amely helyi hősöket tisztel, és látogass el ide az aranyórában a legjobb fotók elkészítéséhez.",
+            "ro": "Aduceți un omagiu la acest monument solemn ce onorează eroii locali cu un context istoric profund, și vizitați-l la ora de aur pentru cele mai bune poze.",
+            "en": "Pay your respects at this solemn war memorial that honors local heroes, providing deep historical context, and visit during golden hour for the best photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh ins historische Montepagano, um San Rocco und das faszinierende Antico Lazzaretto zu entdecken.\n\nGenießen Sie die majestätische Santissima Annunziata vor einer kurzen Fahrt zu den Calanchi Di Diodoro.\n\nFahren Sie am Nachmittag zur belebten Küste hinab, um die zentrale Kirche und die öffentliche Arena zu besuchen.\n\nBeenden Sie Ihren Roadtrip, indem Sie am markanten Küstenkriegerdenkmal Ihren tiefen Respekt erweisen.",
+        "hu": "Vezessen fel a történelmi Montepaganóba korán a nap folyamán, hogy felfedezze San Roccót és az egykori Lazzarettót.\n\nÉlvezze a fenséges Santissima Annunziatát, mielőtt egy rövid úton elérné a lenyűgöző Calanchi Di Diodorót.\n\nEreszkedjen le a nyüzsgő partra délután, hogy meglátogassa a központi templomot és pihenjen az arénában.\n\nZárja le festői autós túráját a tengerparti háborús emlékműnél, leróva tiszteletét a helyi hősök előtt.",
+        "ro": "Conduceți spre istoricul Montepagano devreme în zi pentru a descoperi San Rocco și fascinantul Antico Lazzaretto.\n\nBucurați-vă de măreața Santissima Annunziata înainte de a face o scurtă călătorie spre Calanchi Di Diodoro.\n\nCoborâți pe coasta plină de viață după-amiaza pentru a vizita biserica centrală și a vă relaxa la arena publică.\n\nÎncheiați-vă excursia cu mașina aducând omagii la monumentul de război proeminent de pe coasta mării.",
+        "en": "Drive up to historic Montepagano early in the day to discover San Rocco and the fascinating Antico Lazzaretto.\n\nEnjoy the majestic Santissima Annunziata before taking a short drive to the striking Calanchi Di Diodoro.\n\nDescend to the bustling coast in the afternoon to visit the central church and relax at the public arena.\n\nWrap up your scenic road trip by paying respects at the prominent coastal war memorial."
+      }
+    }
+  }
+}

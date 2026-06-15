@@ -1,0 +1,566 @@
+{
+  "city_id": "italy-milano-marittima-cities-v2",
+  "anchor": {
+    "name": "Milano Marittima",
+    "coords": [
+      12.34818,
+      44.27748
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stella Maris",
+            "hu": "Stella Maris",
+            "ro": "Stella Maris",
+            "en": "Stella Maris"
+          },
+          "coords": [
+            12.345489,
+            44.280881
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser Kirche, die die lokale Gemeinde prägt, und kommen Sie morgens, um das schöne Licht zu genießen.",
+            "hu": "Csodálja meg e templom feltűnő modern építészetét, amely a helyi közösség horgonya, és próbáljon a reggeli mise idején érkezni a gyönyörű fényekért.",
+            "ro": "Admirați arhitectura modernă impresionantă a acestei biserici care ancorează comunitatea locală și încercați să o vizitați dimineața pentru lumina superbă.",
+            "en": "Admire the striking modern architecture of this church that anchors the local community, and try to visit during morning mass for beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bicio Papao",
+            "hu": "Bicio Papao",
+            "ro": "Bicio Papao",
+            "en": "Bicio Papao"
+          },
+          "coords": [
+            12.352927,
+            44.279831
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandatmosphäre in dieser berühmten Seaside-Lounge, wo Sie einen erfrischenden Cocktail bei Adria-Meeresbrise genießen können.",
+            "hu": "Tapasztalja meg a nyüzsgő tengerparti hangulatot ebben a híres parti lounge-ban, ahol egy frissítő koktélt kortyolgatva élvezheti az adriai szellőt.",
+            "ro": "Experimentați atmosfera vibrantă de la această faimoasă locație pe plajă, unde puteți savura un cocktail răcoritor bucurându-vă de briza Mării Adriatice.",
+            "en": "Experience the vibrant beach atmosphere at this famous seaside lounge, where you can sip a refreshing cocktail while enjoying the Adriatic sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentlicher Strand",
+            "hu": "Nyilvános strand",
+            "ro": "Plaja Publică",
+            "en": "Public Beach"
+          },
+          "coords": [
+            12.353711,
+            44.277914
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den einladenden goldenen Sand des öffentlichen Strandes und bringen Sie ein kleines Handtuch mit, falls Sie Ihre Füße baden möchten.",
+            "hu": "Sétáljon végig a hívogató aranyhomokos nyilvános strandon az érintetlen partvonalért, és hozzon egy kis törölközőt, ha szeretné megmártani a lábát.",
+            "ro": "Plimbați-vă pe nisipul auriu primitor al plajei publice pentru a aprecia litoralul intact și aduceți un prosop mic dacă doriți să vă răcoriți picioarele.",
+            "en": "Stroll along the inviting golden sands of the public beach to appreciate the unspoiled coastline, and bring a small towel if you wish to dip your toes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Oreste",
+            "hu": "Bagno Oreste",
+            "ro": "Bagno Oreste",
+            "en": "Bagno Oreste"
+          },
+          "coords": [
+            12.354964,
+            44.272745
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser klassischen Badeanstalt der Riviera, die die italienische Strandkultur bewahrt, aber kommen Sie früh für die besten Liegen.",
+            "hu": "Pihenjen ebben a klasszikus riviérai fürdőhelyben, amely gyönyörűen őrzi az olasz strandkultúrát, de érkezzen korán a legjobb napágyak biztosításáért.",
+            "ro": "Relaxați-vă la acest stabiliment clasic care păstrează minunat cultura balneară italiană, dar ajungeți devreme pentru a obține cele mai bune șezlonguri.",
+            "en": "Relax at this classic Riviera bathing establishment that beautifully preserves Italian beach culture, but arrive early to secure the best sunbed spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Aldo Spallicci",
+            "hu": "Parco Aldo Spallicci",
+            "ro": "Parco Aldo Spallicci",
+            "en": "Parco Aldo Spallicci"
+          },
+          "coords": [
+            12.351573,
+            44.266519
+          ],
+          "category": "park",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die duftenden Pinien dieses weitläufigen Parks, der einen kühlen Rückzugsort bietet, und halten Sie Ausschau nach den Eichhörnchen.",
+            "hu": "Sétáljon át e kiterjedt park illatos fenyőfái között, amely hűvös természeti menedéket nyújt, és tartsa nyitva a szemét a barátságos helyi mókusokra.",
+            "ro": "Plimbați-vă printre pinii parfumați ai acestui parc întins, care oferă un refugiu natural răcoros, și fiți atenți la veverițele locale prietenoase.",
+            "en": "Wander through the fragrant pine trees of this expansive park which provides a cool natural retreat, and keep an eye out for the friendly local squirrels."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSA - Salzmuseum",
+            "hu": "MUSA - Sómúzeum",
+            "ro": "MUSA - Muzeul Sării",
+            "en": "MUSA - Salt Museum"
+          },
+          "coords": [
+            12.350072,
+            44.262863
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Cervias reiches Salz-Erbe anhand faszinierender Werkzeuge in diesem Museum und vergessen Sie nicht, etwas süßes Salz als Souvenir zu kaufen.",
+            "hu": "Fedezze fel Cervia gazdag sókészítő örökségét a lenyűgöző ősi eszközökön keresztül, és ne felejtsen el egy kis édes sót venni egyedi emlékként.",
+            "ro": "Descoperiți moștenirea salină a Cerviei prin unelte antice fascinante în acest muzeu și nu uitați să cumpărați sare dulce ca suvenir unic și deosebit.",
+            "en": "Discover Cervia's rich salt-making heritage through fascinating ancient tools in this museum, and don't forget to buy some sweet salt as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Cervia",
+            "hu": "Cerviai világítótorony",
+            "ro": "Farul din Cervia",
+            "en": "Cervia Lighthouse"
+          },
+          "coords": [
+            12.354795,
+            44.266495
+          ],
+          "category": "landmark",
+          "arrive_at": "16:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag, indem Sie diesen historischen Leuchtturm bewundern, der Seeleute leitet, und nutzen Sie diesen perfekten Ort für Sonnenuntergangsfotos.",
+            "hu": "Zárja a napot ennek a történelmi világítótoronynak a megcsodálásával, amely tökéletes helyszínt biztosít a hangulatos naplementés fényképek készítéséhez.",
+            "ro": "Încheiați-vă ziua admirând acest far istoric care a ghidat marinarii de generații, locul fiind ideal pentru fotografii atmosferice la apusul soarelui.",
+            "en": "End your day by admiring this historic lighthouse that has safely guided sailors for generations, making it the perfect spot for atmospheric sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in Milano Marittima mit der modernen Stella Maris und führt Sie zu den lebhaften Ufern, wo der öffentliche Strand und schicke Bars warten.\n\nMittags tauchen Sie im Bagno Oreste in den klassischen italienischen Strandlebensstil ein und genießen das beruhigende Rauschen der Adria.\n\nAm Nachmittag führt die Route durch den erfrischenden Schatten des Parco Aldo Spallicci bis ins historische Salzsiedezentrum von Cervia.\n\nDer Abend nähert sich, während Sie das faszinierende Salzmuseum MUSA erkunden, und endet perfekt am stimmungsvollen Leuchtturm Faro di Cervia.",
+        "hu": "A reggel Milano Marittimában kezdődik a modern Stella Maris-szal, majd a nyüzsgő partra vezet, ahol a nyilvános strand és az elegáns bárok várják.\n\nDélben elmerülhet a klasszikus olasz strandéletstílusban a Bagno Oreste területén, élvezve az Adriai-tenger hullámainak megnyugtató hangját.\n\nDélután az útvonal a Parco Aldo Spallicci hűsítő árnyékán keresztül halad befelé, végül eljutva Cervia történelmi sókészítő központjába.\n\nAz este közeledtével felfedezheti a lenyűgöző MUSA sómúzeumot, és az utazást a hangulatos cerviai világítótorony mellett fejezheti be.",
+        "ro": "Dimineața începe în Milano Marittima cu moderna Stella Maris, trecând spre țărmurile vibrante unde vă așteaptă plaja publică și barurile elegante.\n\nLa prânz, vă cufundați în stilul clasic de plajă italian la Bagno Oreste, bucurându-vă de sunetul liniștitor al valurilor Mării Adriatice.\n\nDupă-amiaza, traseul se îndreaptă spre interior prin umbra răcoroasă a Parcului Aldo Spallicci, ducând la centrul istoric de fabricare a sării din Cervia.\n\nSeara se apropie explorând intrigantul muzeu al sării MUSA, încheind perfect călătoria la farul atmosferic Faro di Cervia.",
+        "en": "Your morning starts in Milano Marittima with the modern Stella Maris, transitioning to the vibrant shores where the public beach and chic lounge bars await.\n\nBy midday, you immerse yourself in the classic Italian beach lifestyle at Bagno Oreste, enjoying the soothing sound of the Adriatic waves.\n\nIn the afternoon, the route turns inland through the refreshing shade of Parco Aldo Spallicci, eventually leading to Cervia's historic salt-making core.\n\nThe evening approaches as you explore the intriguing MUSA salt museum, concluding your journey perfectly by the atmospheric Faro di Cervia."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 5.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schmetterlingshaus",
+            "hu": "Pillangóház",
+            "ro": "Casa Fluturilor",
+            "en": "Butterfly House"
+          },
+          "coords": [
+            12.336214,
+            44.278618
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in ein tropisches Gewächshaus mit Hunderten von bunten Schmetterlingen und tragen Sie helle Kleidung, damit sie auf Ihnen landen.",
+            "hu": "Merüljön el egy több száz színes egzotikus pillangóval teli trópusi üvegházban, és viseljen élénk színű ruhákat, hogy akár Önre is rászálljanak.",
+            "ro": "Cufundați-vă într-o seră tropicală plină cu sute de fluturi exotici colorați și purtați haine deschise la culoare pentru ca aceștia să aterizeze pe voi.",
+            "en": "Immerse yourself in a tropical greenhouse fluttering with hundreds of colorful exotic butterflies, and wear bright clothing so they might land on you."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna del Pino",
+            "hu": "Madonna del Pino",
+            "ro": "Madonna del Pino",
+            "en": "Madonna del Pino"
+          },
+          "coords": [
+            12.324317,
+            44.272974
+          ],
+          "category": "religious",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Schrein inmitten des alten Pinienwaldes, um tiefen Frieden zu spüren, und nehmen Sie sich einen Moment für die Stille.",
+            "hu": "Fedezze fel ezt az ősi fenyőerdőben megbúvó, nyugodt szentélyt, hogy mély békét érezzen, és szánjon egy percet a csend és a természet élvezetére.",
+            "ro": "Explorați acest altar liniștit, ascuns printre pinii seculari, pentru a simți o pace profundă și acordați-vă un moment pentru a aprecia liniștea naturii.",
+            "en": "Explore this tranquil shrine nestled quietly among the ancient pine forest to feel a profound sense of peace, taking a moment to appreciate the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna della Neve",
+            "hu": "Madonna della Neve",
+            "ro": "Madonna della Neve",
+            "en": "Madonna della Neve"
+          },
+          "coords": [
+            12.336627,
+            44.261688
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, die die tiefe religiöse Hingabe der lokalen Salzarbeiter widerspiegelt, und beachten Sie die schlichte Fassade.",
+            "hu": "Látogassa meg ezt a történelmileg jelentős templomot, amely a helyi sómunkások vallási áhítatát tükrözi, és figyelje meg gyönyörűen visszafogott homlokzatát.",
+            "ro": "Vizitați această biserică istorică ce reflectă devotamentul religios al lucrătorilor locali din saline și remarcați fațada sa frumos subevaluată.",
+            "en": "Visit this historically significant church that reflects the deep religious devotion of the local salt workers, noting its beautifully understated facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Antonio di Padova",
+            "hu": "Sant'Antonio di Padova",
+            "ro": "Sant'Antonio di Padova",
+            "en": "Sant'Antonio di Padova"
+          },
+          "coords": [
+            12.348368,
+            44.263138
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese elegante Kirche, die eng mit der Geschichte der Franziskaner verbunden ist, um die Kunstwerke bei respektvoller Stille zu bewundern.",
+            "hu": "Lépjen be ebbe a ferences történelemhez szorosan kötődő elegáns templomba, hogy megcsodálja a nyugodt vallási műalkotásokat, tiszteletteljes csendben.",
+            "ro": "Pășiți în această biserică elegantă legată de istoria franciscană pentru a admira operele de artă religioasă senine, păstrând o liniște respectuoasă.",
+            "en": "Step into this elegant church closely linked to Franciscan history to admire the serene religious artworks, ensuring you maintain a respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria del Suffragio",
+            "hu": "Santa Maria del Suffragio",
+            "ro": "Santa Maria del Suffragio",
+            "en": "Santa Maria del Suffragio"
+          },
+          "coords": [
+            12.348907,
+            44.261568
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, das atemberaubende Kruzifix in diesem architektonischen Juwel zu betrachten, und zünden Sie während Ihres Besuchs eine Kerze an.",
+            "hu": "Szánjon időt a Cervia ezen figyelemre méltó építészeti gyöngyszemében található lenyűgöző feszület tanulmányozására, és fontolja meg egy gyertya gyújtását.",
+            "ro": "Acordați-vă timp pentru a studia crucifixul uimitor din această bijuterie arhitecturală a Cerviei și luați în considerare aprinderea unei lumânări.",
+            "en": "Take time to study the stunning crucifix housed inside this notable architectural gem of Cervia, and consider lighting a candle during your short visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Cervia",
+            "hu": "Cerviai Városi Színház",
+            "ro": "Teatrul Municipal din Cervia",
+            "en": "Municipal Theater of Cervia"
+          },
+          "coords": [
+            12.349433,
+            44.259602
+          ],
+          "category": "cultural",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses Stadttheaters aus dem 19. Jahrhundert, das das kulturelle Herz ist, und prüfen Sie den Veranstaltungsplan.",
+            "hu": "Csodálja meg ennek a 19. századi városi színháznak az elegáns építészetét, amely a város kulturális szíve, és ellenőrizze az esti előadások menetrendjét.",
+            "ro": "Minunați-vă de arhitectura elegantă de secol XIX a acestui teatru municipal, inima culturală a orașului, și verificați programul pentru spectacole.",
+            "en": "Marvel at the elegant 19th-century architecture of this municipal theater which is the cultural heart of the city, checking the schedule for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSA - Salzmuseum",
+            "hu": "MUSA - Sómúzeum",
+            "ro": "MUSA - Muzeul Sării",
+            "en": "MUSA - Salt Museum"
+          },
+          "coords": [
+            12.350072,
+            44.262863
+          ],
+          "category": "museum",
+          "arrive_at": "14:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Cervias reiches Salz-Erbe anhand faszinierender Werkzeuge in diesem Museum und vergessen Sie nicht, etwas süßes Salz als Souvenir zu kaufen.",
+            "hu": "Fedezze fel Cervia gazdag sókészítő örökségét a lenyűgöző ősi eszközökön keresztül, és ne felejtsen el egy kis édes sót venni egyedi emlékként.",
+            "ro": "Descoperiți moștenirea salină a Cerviei prin unelte antice fascinante în acest muzeu și nu uitați să cumpărați sare dulce ca suvenir unic și deosebit.",
+            "en": "Discover Cervia's rich salt-making heritage through fascinating ancient tools in this museum, and don't forget to buy some sweet salt as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Cervia",
+            "hu": "Cerviai világítótorony",
+            "ro": "Farul din Cervia",
+            "en": "Cervia Lighthouse"
+          },
+          "coords": [
+            12.354795,
+            44.266495
+          ],
+          "category": "landmark",
+          "arrive_at": "16:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag, indem Sie diesen historischen Leuchtturm bewundern, der Seeleute leitet, und nutzen Sie diesen perfekten Ort für Sonnenuntergangsfotos.",
+            "hu": "Zárja a napot ennek a történelmi világítótoronynak a megcsodálásával, amely tökéletes helyszínt biztosít a hangulatos naplementés fényképek készítéséhez.",
+            "ro": "Încheiați-vă ziua admirând acest far istoric care a ghidat marinarii de generații, locul fiind ideal pentru fotografii atmosferice la apusul soarelui.",
+            "en": "End your day by admiring this historic lighthouse that has safely guided sailors for generations, making it the perfect spot for atmospheric sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der Natur der Casa delle Farfalle und radeln Sie dann durch alte Pinienwälder zum friedlichen Schrein Madonna del Pino.\n\nGegen Mittag führt Ihre Fahrt weiter Richtung Cervia und hüpft zwischen historischen Kirchen wie Madonna della Neve und Sant'Antonio umher.\n\nDer Nachmittag bietet architektonische Wunder, wenn Sie Santa Maria del Suffragio und das elegante Teatro Comunale erreichen.\n\nWenn der Abend hereinbricht, entdecken Sie im MUSA das Erbe der lokalen Salzarbeiter und beobachten schließlich den Sonnenuntergang am Leuchtturm.",
+        "hu": "Kezdje a napot a természet lágy ölén a Casa delle Farfalléban, majd tekerjen ősi fenyőerdőkön keresztül a Madonna del Pino békés szentélyéhez.\n\nDél körül az útja Cervia felé folytatódik, és olyan történelmi templomok között halad, mint a Madonna della Neve és a Sant'Antonio.\n\nA délután építészeti csodákat kínál, amikor eléri a Santa Maria del Suffragio-t és az elegáns Teatro Comunale-t, feltárva a város lelkét.\n\nEstefelé felfedezi a helyi sómunkások örökségét a MUSA múzeumban, végül pedig a cerviai világítótorony közelében nézi meg a naplementét.",
+        "ro": "Începeți ziua înconjurat de natură la Casa delle Farfalle, apoi pedalați prin păduri seculare de pini până la altarul pașnic Madonna del Pino.\n\nÎn jurul prânzului, cursa continuă spre Cervia, vizitând biserici istorice precum Madonna della Neve și Sant'Antonio.\n\nDupă-amiaza oferă minuni arhitecturale când ajungeți la Santa Maria del Suffragio și elegantul Teatro Comunale, dezvăluind sufletul orașului.\n\nOdată cu lăsarea serii, veți descoperi moștenirea la MUSA, urmărind în cele din urmă apusul soarelui lângă farul emblematic din Cervia.",
+        "en": "Kick off your day surrounded by nature at Casa delle Farfalle, then pedal smoothly through ancient pine forests to the peaceful shrine of Madonna del Pino.\n\nAround midday, your ride continues towards Cervia, hopping between deeply historic churches like Madonna della Neve and Sant'Antonio.\n\nThe afternoon offers architectural wonders as you reach Santa Maria del Suffragio and the elegant Teatro Comunale, revealing the town's artistic soul.\n\nAs evening falls, you will discover the legacy of local salt workers at MUSA, eventually watching the sun set near the iconic Cervia lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Madonna del Pino",
+            "hu": "Madonna del Pino",
+            "ro": "Madonna del Pino",
+            "en": "Madonna del Pino"
+          },
+          "coords": [
+            12.324317,
+            44.272974
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Schrein inmitten des alten Pinienwaldes, um tiefen Frieden zu spüren, und nehmen Sie sich einen Moment für die Stille.",
+            "hu": "Fedezze fel ezt az ősi fenyőerdőben megbúvó, nyugodt szentélyt, hogy mély békét érezzen, és szánjon egy percet a csend és a természet élvezetére.",
+            "ro": "Explorați acest altar liniștit, ascuns printre pinii seculari, pentru a simți o pace profundă și acordați-vă un moment pentru a aprecia liniștea naturii.",
+            "en": "Explore this tranquil shrine nestled quietly among the ancient pine forest to feel a profound sense of peace, taking a moment to appreciate the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmetterlingshaus",
+            "hu": "Pillangóház",
+            "ro": "Casa Fluturilor",
+            "en": "Butterfly House"
+          },
+          "coords": [
+            12.336214,
+            44.278618
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in ein tropisches Gewächshaus mit Hunderten von bunten Schmetterlingen und tragen Sie helle Kleidung, damit sie auf Ihnen landen.",
+            "hu": "Merüljön el egy több száz színes egzotikus pillangóval teli trópusi üvegházban, és viseljen élénk színű ruhákat, hogy akár Önre is rászálljanak.",
+            "ro": "Cufundați-vă într-o seră tropicală plină cu sute de fluturi exotici colorați și purtați haine deschise la culoare pentru ca aceștia să aterizeze pe voi.",
+            "en": "Immerse yourself in a tropical greenhouse fluttering with hundreds of colorful exotic butterflies, and wear bright clothing so they might land on you."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Maris",
+            "hu": "Stella Maris",
+            "ro": "Stella Maris",
+            "en": "Stella Maris"
+          },
+          "coords": [
+            12.345489,
+            44.280881
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser Kirche, die die lokale Gemeinde prägt, und kommen Sie morgens, um das schöne Licht zu genießen.",
+            "hu": "Csodálja meg e templom feltűnő modern építészetét, amely a helyi közösség horgonya, és próbáljon a reggeli mise idején érkezni a gyönyörű fényekért.",
+            "ro": "Admirați arhitectura modernă impresionantă a acestei biserici care ancorează comunitatea locală și încercați să o vizitați dimineața pentru lumina superbă.",
+            "en": "Admire the striking modern architecture of this church that anchors the local community, and try to visit during morning mass for beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna del Mare",
+            "hu": "Madonna del Mare",
+            "ro": "Madonna del Mare",
+            "en": "Madonna del Mare"
+          },
+          "coords": [
+            12.354439,
+            44.280696
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses maritime Denkmal zum Schutz der Fischer der Adriaküste und genießen Sie den weiten Panoramablick auf das offene glitzernde Meer.",
+            "hu": "Fedezze fel ezt az adriai part halászainak védelmére szentelt tengeri emlékművet, és élvezze a nyílt tengerre nyíló lenyűgöző panorámát a partról.",
+            "ro": "Descoperiți acest monument maritim dedicat protejării pescarilor de pe coasta Adriaticii și bucurați-vă de priveliștile panoramice vaste asupra mării.",
+            "en": "Discover this maritime monument dedicated to protecting the fishermen of the Adriatic coast, and enjoy the sweeping panoramic views of the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Aldo Spallicci",
+            "hu": "Parco Aldo Spallicci",
+            "ro": "Parco Aldo Spallicci",
+            "en": "Parco Aldo Spallicci"
+          },
+          "coords": [
+            12.351573,
+            44.266519
+          ],
+          "category": "park",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die duftenden Pinien dieses weitläufigen Parks, der einen kühlen Rückzugsort bietet, und halten Sie Ausschau nach den Eichhörnchen.",
+            "hu": "Sétáljon át e kiterjedt park illatos fenyőfái között, amely hűvös természeti menedéket nyújt, és tartsa nyitva a szemét a barátságos helyi mókusokra.",
+            "ro": "Plimbați-vă printre pinii parfumați ai acestui parc întins, care oferă un refugiu natural răcoros, și fiți atenți la veverițele locale prietenoase.",
+            "en": "Wander through the fragrant pine trees of this expansive park which provides a cool natural retreat, and keep an eye out for the friendly local squirrels."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Cervia",
+            "hu": "Cerviai Városi Színház",
+            "ro": "Teatrul Municipal din Cervia",
+            "en": "Municipal Theater of Cervia"
+          },
+          "coords": [
+            12.349433,
+            44.259602
+          ],
+          "category": "cultural",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Architektur dieses Stadttheaters aus dem 19. Jahrhundert, das das kulturelle Herz ist, und prüfen Sie den Veranstaltungsplan.",
+            "hu": "Csodálja meg ennek a 19. századi városi színháznak az elegáns építészetét, amely a város kulturális szíve, és ellenőrizze az esti előadások menetrendjét.",
+            "ro": "Minunați-vă de arhitectura elegantă de secol XIX a acestui teatru municipal, inima culturală a orașului, și verificați programul pentru spectacole.",
+            "en": "Marvel at the elegant 19th-century architecture of this municipal theater which is the cultural heart of the city, checking the schedule for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna della Neve",
+            "hu": "Madonna della Neve",
+            "ro": "Madonna della Neve",
+            "en": "Madonna della Neve"
+          },
+          "coords": [
+            12.336627,
+            44.261688
+          ],
+          "category": "religious",
+          "arrive_at": "15:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, die die tiefe religiöse Hingabe der lokalen Salzarbeiter widerspiegelt, und beachten Sie die schlichte Fassade.",
+            "hu": "Látogassa meg ezt a történelmileg jelentős templomot, amely a helyi sómunkások vallási áhítatát tükrözi, és figyelje meg gyönyörűen visszafogott homlokzatát.",
+            "ro": "Vizitați această biserică istorică ce reflectă devotamentul religios al lucrătorilor locali din saline și remarcați fațada sa frumos subevaluată.",
+            "en": "Visit this historically significant church that reflects the deep religious devotion of the local salt workers, noting its beautifully understated facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt friedlich bei der Madonna del Pino, bevor Sie schnell zu den farbenfrohen tropischen Ausstellungen der Casa delle Farfalle aufbrechen.\n\nMittags navigieren Sie zum Küstencharme von Stella Maris und dem historischen Monument Madonna del Mare mit herrlichem Blick auf die Adria.\n\nAm Nachmittag parken Sie am Parco Aldo Spallicci für einen Spaziergang und fahren dann ins Herz von Cervia zum majestätischen Teatro Comunale.\n\nBei Einbruch der Dämmerung endet Ihre Reise an der historisch reichen Madonna della Neve, die das einzigartige maritime Erbe perfekt widerspiegelt.",
+        "hu": "Autóútja békésen indul a Madonna del Pino-nál, mielőtt a Casa delle Farfalle vibráló trópusi kiállításaihoz indulna egy színes délelőttre.\n\nDélben navigáljon a Stella Maris parti varázsához és a történelmi Madonna del Mare emlékműhöz, élvezve a széles tengeri kilátást az Adriai-tengeren.\n\nDélután parkoljon le a Parco Aldo Spallicci közelében egy sétára, majd vegye az irányt Cervia szívébe a fenséges Teatro Comunale megcsodálására.\n\nAlkonyatkor az utazás a történelmileg gazdag Madonna della Neve-nél ér véget, amely tökéletesen tükrözi a régió tengeri örökségét.",
+        "ro": "Plimbarea dvs. cu mașina începe pașnic la Madonna del Pino înainte de a vă îndrepta spre exponatele tropicale vibrante de la Casa delle Farfalle.\n\nLa prânz, navigați spre farmecul de coastă al Stella Maris și monumentul istoric Madonna del Mare, bucurându-vă de priveliști marine pe Adriatică.\n\nDupă-amiaza, parcați lângă Parcul Aldo Spallicci pentru o plimbare răcoroasă, apoi mergeți în inima Cerviei pentru elegantul Teatro Comunale.\n\nLa lăsarea amurgului, călătoria se încheie la Madonna della Neve, plină de istorie, reflectând perfect moștenirea maritimă unică a regiunii.",
+        "en": "Your drive begins peacefully at Madonna del Pino before heading quickly to the vibrant tropical exhibits of Casa delle Farfalle for a colorful morning.\n\nBy midday, navigate to the coastal charm of Stella Maris and the historic Madonna del Mare monument, enjoying broad sea views along the Adriatic.\n\nIn the afternoon, park near Parco Aldo Spallicci for a refreshing walk, then head into the heart of Cervia to admire the majestic Teatro Comunale.\n\nAs twilight approaches, your journey concludes at the historically rich Madonna della Neve, reflecting perfectly on the region's unique maritime heritage."
+      }
+    }
+  }
+}

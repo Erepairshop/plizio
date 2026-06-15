@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-centro-cities-v2",
+  "anchor": {
+    "name": "Centro",
+    "coords": [
+      13.72867,
+      43.30687
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Rossini",
+            "hu": "Teatro Rossini",
+            "ro": "Teatro Rossini",
+            "en": "Teatro Rossini"
+          },
+          "coords": [
+            13.727996,
+            43.306847
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses prächtige kulturelle Herzstück für seine klassische Architektur, und buchen Sie Ihre Tickets am besten schon frühzeitig online.",
+            "hu": "Csodálja meg a klasszikus építészetű színházat, amely a város kulturális szíve, és érdemes a jegyeket jó előre, online lefoglalni az előadásokra.",
+            "ro": "Admirați acest teatru clasic care este inima culturală a orașului, dar amintiți-vă să rezervați biletele din timp online pentru a prinde locuri.",
+            "en": "Admire this grand cultural centerpiece known for its classic architecture, and remember to book your tickets well in advance online to secure a seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pietro Apostolo",
+            "hu": "Chiesa di San Pietro Apostolo",
+            "ro": "Chiesa di San Pietro Apostolo",
+            "en": "Chiesa di San Pietro Apostolo"
+          },
+          "coords": [
+            13.729354,
+            43.306578
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser zentralen Kirche mit ihren schönen Fresken, aber achten Sie auf respektvolle Kleidung beim Betreten.",
+            "hu": "Fedezze fel ennek a központi templomnak a nyugodt légkörét és gyönyörű freskóit, de ügyeljen a visszafogott öltözködésre a belépés során.",
+            "ro": "Descoperiți atmosfera liniștită a acestei biserici centrale pline de fresce, dar asigurați-vă că purtați o ținută decentă înainte de a intra.",
+            "en": "Discover the serene atmosphere and beautiful frescoes of this central church, making sure to wear respectful, shoulder-covering attire when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Cluana",
+            "hu": "Lido Cluana",
+            "ro": "Lido Cluana",
+            "en": "Lido Cluana"
+          },
+          "coords": [
+            13.731612,
+            43.307847
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise an diesem historischen Wahrzeichen am Wasser, das sich perfekt für ein kurzes Foto in den Vormittagsstunden eignet.",
+            "hu": "Élvezze a friss tengeri szellőt ennél a történelmi vízparti látványosságnál, amely tökéletes helyszín egy gyors délelőtti fotó elkészítéséhez.",
+            "ro": "Bucurați-vă de briza mării la acest punct de reper istoric pe faleză, fiind locul perfect pentru o fotografie rapidă în lumina dimineții târzii.",
+            "en": "Enjoy the fresh sea breeze at this historic waterfront landmark, which provides the perfect backdrop for a quick photo during the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Cristo Re",
+            "hu": "Chiesa di Cristo Re",
+            "ro": "Chiesa di Cristo Re",
+            "en": "Chiesa di Cristo Re"
+          },
+          "coords": [
+            13.727944,
+            43.310595
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses imposante religiöse Bauwerk wegen seiner modernen Linienführung und nutzen Sie das wunderbare Lichtspiel der großen Fenster.",
+            "hu": "Látogassa meg ezt az impozáns vallási épületet modern vonalvezetéséért, és figyelje meg a hatalmas ablakokon át beszűrődő csodás fényeket.",
+            "ro": "Vizitați această clădire religioasă impunătoare pentru liniile sale moderne și profitați de lumina superbă care pătrunde prin ferestrele mari.",
+            "en": "Visit this imposing religious building for its modern architectural lines, and take a moment to appreciate the beautiful light from its large windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Ausiliatrice",
+            "hu": "Santa Maria Ausiliatrice",
+            "ro": "Santa Maria Ausiliatrice",
+            "en": "Santa Maria Ausiliatrice"
+          },
+          "coords": [
+            13.720716,
+            43.30839
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche bietet eine Oase der Ruhe abseits des Trubels; bringen Sie etwas Kleingeld für die Opferkerzen im Hauptschiff mit.",
+            "hu": "Ez a bájos templom a nyugalom oázisát kínálja a nyüzsgéstől távol; hozzon magával némi aprópénzt, ha szeretne gyertyát gyújtani a főhajóban.",
+            "ro": "Această biserică fermecătoare oferă o oază de liniște departe de agitație; aduceți niște mărunt dacă doriți să aprindeți o lumânare în navă.",
+            "en": "This charming church provides an oasis of calm away from the bustle; carry some small change if you wish to light a votive candle in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Marone",
+            "hu": "Chiesa di San Marone",
+            "ro": "Chiesa di San Marone",
+            "en": "Chiesa di San Marone"
+          },
+          "coords": [
+            13.723066,
+            43.305582
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser historischen Pilgerstätte ab, deren Krypta besonders sehenswert ist, und kommen Sie am besten nach der Siesta.",
+            "hu": "Zárja sétáját ennél a történelmi zarándokhelynél, amelynek kriptája különösen érdekes, és érdemes a szieszta utáni órákban felkeresni.",
+            "ro": "Încheiați turul la acest loc istoric de pelerinaj, a cărui criptă merită văzută, și programați-vă vizita ideal după orele de siestă.",
+            "en": "Conclude your walk at this historic pilgrimage site, where the crypt is particularly noteworthy, planning your visit right after the afternoon siesta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am majestätischen Teatro Rossini, dem kulturellen Herzen der Stadt. Am Vormittag erkunden Sie die zentralen Kirchen und architektonischen Highlights, bevor Sie das historische Küstengebäude Lido Cluana erreichen. Der Nachmittag bietet entspannte Spaziergänge zu den beeindruckenden Gotteshäusern. Am Abend genießen Sie die ruhige Atmosphäre in den Gassen rund um San Marone.",
+        "hu": "Sétája a fenséges Teatro Rossini épületénél, a város kulturális szívében veszi kezdetét. Délelőtt a központi templomokat és az építészeti remekeket fedezi fel, majd a tengerparti Lido Cluana felé veszi az irányt. A délután folyamán lenyűgöző szakrális építmények között sétálhat. Este a San Marone körüli történelmi utcácskák nyugodt atmoszférájában pihenheti ki a nap fáradalmait.",
+        "ro": "Plimbarea începe la maiestuosul Teatro Rossini, inima culturală a orașului. În prima parte a zilei explorați bisericile centrale și atracțiile arhitecturale, îndreptându-vă spre Lido Cluana de pe coastă. După-amiaza vă aduce plimbări relaxante către lăcașurile de cult impresionante ale zonei. Seara, vă veți bucura de atmosfera liniștită de pe străduțele istorice din jurul San Marone.",
+        "en": "Your walking tour begins at the majestic Teatro Rossini, the cultural heart of the city. Midday will find you exploring central churches and the historic coastal structure of Lido Cluana. The afternoon is dedicated to discovering the area's impressive religious sanctuaries and hidden squares. As evening falls, you will soak in the serene atmosphere surrounding the historic San Marone church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Eugenia",
+            "hu": "Villa Eugenia",
+            "ro": "Villa Eugenia",
+            "en": "Villa Eugenia"
+          },
+          "coords": [
+            13.710453,
+            43.306139
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an dieser prachtvollen historischen Villa, deren Gärten sich ideal für einen entspannten morgendlichen Spaziergang eignen.",
+            "hu": "Kezdje kerékpártúráját ennél a lenyűgöző történelmi villánál, amelynek kertjei ideálisak egy rövid, pihentető kora reggeli sétához.",
+            "ro": "Începeți turul pe bicicletă la această vilă istorică superbă, ale cărei grădini sunt ideale pentru o plimbare relaxantă la prima oră a dimineții.",
+            "en": "Start your cycling tour at this magnificent historical villa, utilizing its beautiful gardens for a peaceful morning stroll before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Marone",
+            "hu": "Chiesa di San Marone",
+            "ro": "Chiesa di San Marone",
+            "en": "Chiesa di San Marone"
+          },
+          "coords": [
+            13.723066,
+            43.305582
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die archaische Struktur dieser Kirche und stellen Sie Ihr Fahrrad am besten direkt am vorgesehenen Platz neben dem Eingang ab.",
+            "hu": "Csodálja meg a templom ősi szerkezetét, és a kerékpárját biztonságosan lezárva hagyhatja a közvetlenül a bejárat melletti kijelölt tárolóban.",
+            "ro": "Admirați structura arhaică a acestei biserici și asigurați-vă că lăsați bicicleta încuiată în siguranță la suportul de lângă intrarea principală.",
+            "en": "Admire the ancient structure of this important local church, and make sure to lock your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Rossini",
+            "hu": "Teatro Rossini",
+            "ro": "Teatro Rossini",
+            "en": "Teatro Rossini"
+          },
+          "coords": [
+            13.727996,
+            43.306847
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätische Fassade dieses Theaters; parken Sie das Rad in den Seitenstraßen, um die Architektur ungestört zu fotografieren.",
+            "hu": "Tapasztalja meg a színház fenséges homlokzatát; parkolja le a bringát a mellékutcákban, hogy zavartalanul fotózhassa az építészetet.",
+            "ro": "Observați fațada maiestuoasă a teatrului și parcați bicicleta pe străzile laterale pentru a obține o fotografie neobstrucționată a clădirii.",
+            "en": "Experience the majestic facade of this cultural hub, pausing to park your bike safely on a side street to snap an unobstructed architectural photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Cluana",
+            "hu": "Lido Cluana",
+            "ro": "Lido Cluana",
+            "en": "Lido Cluana"
+          },
+          "coords": [
+            13.731612,
+            43.307847
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie an diesem eleganten Küstengebäude vorbei und genießen Sie ein köstliches Eis von einem der vielen kleinen Kioske in der direkten Nähe.",
+            "hu": "Tekerjen el emellett az elegáns tengerparti épület mellett, és kóstoljon meg egy finom fagylaltot a közvetlen közelben található kioszkok egyikében.",
+            "ro": "Pedalați pe lângă această clădire de coastă elegantă și savurați o înghețată delicioasă de la unul dintre chioșcurile din imediata apropiere.",
+            "en": "Cycle past this elegant coastal structure and treat yourself to a delicious artisan gelato from one of the small local kiosks located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti di Tutte le Guerre",
+            "hu": "Monumento ai Caduti di Tutte le Guerre",
+            "ro": "Monumento ai Caduti di Tutte le Guerre",
+            "en": "Monumento ai Caduti di Tutte le Guerre"
+          },
+          "coords": [
+            13.738736,
+            43.300098
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem ergreifenden Denkmal inne, um die lokalen Gefallenen zu ehren, bevor Sie weiter zum grünen Flusspark radeln.",
+            "hu": "Álljon meg egy pillanatra ennél a megható emlékműnél, hogy tisztelegjen a helyi hősök előtt, mielőtt továbbteker a folyóparti zöld parkba.",
+            "ro": "Opriți-vă scurt la acest monument emoționant pentru a onora eroii locali, înainte de a pedala mai departe spre parcul verde de lângă râu.",
+            "en": "Pause briefly at this poignant monument to honor local historical figures before hopping back on your bike towards the nearby green river park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Fluviale del Fiume Chienti",
+            "hu": "Parco Fluviale del Fiume Chienti",
+            "ro": "Parco Fluviale del Fiume Chienti",
+            "en": "Parco Fluviale del Fiume Chienti"
+          },
+          "coords": [
+            13.73819,
+            43.294205
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den malerischen Radwegen entlang des Flusses und bringen Sie ein kleines Picknick für eine ausgedehnte Rast im Grünen mit.",
+            "hu": "Pihenjen a folyó menti festői kerékpárutakon, és hozzon magával egy kis piknikkosarat egy hosszabb, zöldövezeti kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe pistele pitorești de biciclete de-a lungul râului și aduceți un mic picnic pentru o odihnă prelungită în mijlocul naturii.",
+            "en": "Relax on the scenic cycling paths stretching along the river, and pack a light picnic to enjoy a leisurely afternoon break surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie an der historischen Villa Eugenia und genießen die frische Morgenluft. Bis zum Mittag radeln Sie durch das Stadtzentrum, vorbei an kulturellen Perlen wie dem Teatro Rossini bis hin zur Küste. Der Nachmittag führt Sie zu bedeutenden Monumenten und ruhigeren Vierteln im Süden. Den Abend lassen Sie gemütlich auf den malerischen Wegen des Flussparks ausklingen.",
+        "hu": "A történelmi Villa Eugenia mellől indulva élvezheti a friss reggeli levegőt kerékpárján. Kora délutánra átteker a városközponton, érintve a Teatro Rossini lenyűgöző épületét és a partvidéket. A délután folyamán fontos emlékművek és csendesebb déli negyedek várják. Az estét a folyóparti park festői ösvényein, a természet közelségében, kényelmes tempóban zárhatja.",
+        "ro": "Turul pe bicicletă începe la istorica Villa Eugenia, bucurându-vă de aerul proaspăt al dimineții. Până la prânz veți pedala prin centrul orașului, trecând pe lângă Teatro Rossini spre coastă. După-amiaza vă poartă spre monumente importante și cartiere mai liniștite din sud. Seara se va încheia relaxant pe traseele pitorești ale parcului fluvial, în mijlocul naturii.",
+        "en": "Starting your cycling journey at the historic Villa Eugenia allows you to enjoy the crisp morning air. By midday, you'll be riding through the vibrant city center, admiring the Teatro Rossini and heading towards the coast. The afternoon invites you to explore monumental statues and quieter southern neighborhoods. Your evening concludes beautifully with a relaxing ride in the serene river park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Conti",
+            "hu": "Villa Conti",
+            "ro": "Villa Conti",
+            "en": "Villa Conti"
+          },
+          "coords": [
+            13.700453,
+            43.315688
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in diesem prächtigen Anwesen; nutzen Sie den großzügigen Parkplatz am Rand, um Kratzer am Mietwagen zu vermeiden.",
+            "hu": "Kezdje a napot ezen a pompás birtokon; használja a tágas külső parkolót, hogy elkerülje a bérautó esetleges sérüléseit a szűk beállókban.",
+            "ro": "Începeți ziua la această proprietate splendidă; folosiți parcarea spațioasă de la margine pentru a evita zgârierea mașinii închiriate.",
+            "en": "Begin your day exploring this grand estate, making sure to use the spacious perimeter parking lot to avoid any scratches on your vehicle."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Parrocchiale di S. Gabriele dell'Addolorata",
+            "hu": "Chiesa Parrocchiale di S. Gabriele dell'Addolorata",
+            "ro": "Chiesa Parrocchiale di S. Gabriele dell'Addolorata",
+            "en": "Chiesa Parrocchiale di S. Gabriele dell'Addolorata"
+          },
+          "coords": [
+            13.719307,
+            43.31596
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese spirituelle Gemeinde; die Parkmöglichkeiten sind hier gut, aber meiden Sie die Zeiten direkt vor den Gottesdiensten.",
+            "hu": "Látogassa meg ezt a spirituális közösséget; a parkolási lehetőségek jók, de kerülje a közvetlenül a misék előtti zsúfolt időszakokat.",
+            "ro": "Vizitați această comunitate spirituală; parcarea este facilă aici, dar încercați să evitați momentele aglomerate chiar înainte de slujbe.",
+            "en": "Visit this welcoming spiritual community where parking is usually plentiful, though it's best to avoid arriving exactly when a mass is starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancetta civitanovese",
+            "hu": "Lancetta civitanovese",
+            "ro": "Lancetta civitanovese",
+            "en": "Lancetta civitanovese"
+          },
+          "coords": [
+            13.723246,
+            43.316478
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festungsanlage ausgiebig und lassen Sie keine Wertsachen sichtbar im Auto liegen, während Sie herumspazieren.",
+            "hu": "Fedezze fel alaposan ezt a történelmi erődítményt, és ügyeljen arra, hogy ne hagyjon látható helyen értéktárgyakat az autójában a séta alatt.",
+            "ro": "Explorați pe îndelete această fortificație istorică și asigurați-vă că nu lăsați obiecte de valoare la vedere în mașină în timpul vizitei.",
+            "en": "Explore this historical fortification thoroughly, always remembering to keep all valuables safely hidden out of sight inside your parked car."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Cristo Re",
+            "hu": "Chiesa di Cristo Re",
+            "ro": "Chiesa di Cristo Re",
+            "en": "Chiesa di Cristo Re"
+          },
+          "coords": [
+            13.727944,
+            43.310595
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese Kirche beeindruckt mit moderner Architektur; parken Sie am besten in den umliegenden Straßen, wo das Parken oft kostenlos möglich ist.",
+            "hu": "A templom lenyűgöző modern építészettel bír; a legcélszerűbb a környező utcákban parkolni, ahol gyakran ingyenes helyeket is találhat.",
+            "ro": "Biserica impresionează prin arhitectura modernă; cel mai bine este să parcați pe străzile din jur, unde parcarea este adesea gratuită.",
+            "en": "This church impresses with its modern architecture; try parking in the surrounding residential streets where you can often find free spots."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giuseppe Operaio",
+            "hu": "San Giuseppe Operaio",
+            "ro": "San Giuseppe Operaio",
+            "en": "San Giuseppe Operaio"
+          },
+          "coords": [
+            13.720858,
+            43.297696
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische lokale Atmosphäre dieser Kirche im südlichen Teil, die leicht mit dem Auto abseits des Hauptverkehrs erreichbar ist.",
+            "hu": "Élje át e déli részen fekvő templom autentikus helyi atmoszféráját, amely autóval is könnyen megközelíthető, távol a fő forgalmi dugóktól.",
+            "ro": "Experimentați atmosfera locală autentică a acestei biserici din zona de sud, ușor accesibilă cu mașina, departe de traficul principal.",
+            "en": "Experience the authentic local atmosphere of this southern church, which is easily accessible by car and nicely situated away from heavy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Alla Cavalleria",
+            "hu": "Alla Cavalleria",
+            "ro": "Alla Cavalleria",
+            "en": "Alla Cavalleria"
+          },
+          "coords": [
+            13.734958,
+            43.298972
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem historischen Ort; hier finden Sie oft ruhige Parkplätze, ideal für einen entspannten späten Nachmittag.",
+            "hu": "Zárja kirándulását ezen a történelmi helyszínen; itt gyakran talál nyugodt parkolóhelyeket, ami ideális egy csendes késő délutáni sétához.",
+            "ro": "Încheiați-vă excursia în acest loc istoric; aici veți găsi adesea locuri de parcare liniștite, ideale pentru o după-amiază târzie relaxantă.",
+            "en": "Conclude your drive at this intriguing historical site, where you will generally find quiet parking areas ideal for a relaxing late afternoon visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt an der weitläufigen Villa Conti im Norden. Mittags navigieren Sie durch die Stadtbezirke, um versteckte Festungen und moderne Kirchenarchitektur zu bewundern. Am Nachmittag erkunden Sie die authentischen südlichen Viertel und besuchen lokale Gemeindekirchen fernab des Trubels. Der Abend endet stilvoll an historischen Stätten mit wunderbarem Licht.",
+        "hu": "Autós körútja az északi részen fekvő, tágas Villa Conti birtokánál veszi nyugodt kezdetét. Délben a város különböző kerületeit átszelve rejtett erődítményeket és modern templomokat csodálhat meg. Délután a déli, autentikus negyedek helyi gyülekezeteit keresheti fel, távol a turisták zajától. Az estét a történelmi emlékhelyek csodálatos, lemenő napfényében zárhatja.",
+        "ro": "Turul cu mașina începe într-un ritm relaxat la spațioasa Villa Conti din nord. La prânz veți naviga prin diversele cartiere pentru a admira fortificații ascunse și arhitectură bisericească modernă. După-amiaza veți explora zonele sudice autentice, vizitând biserici locale liniștite. Seara se va încheia frumos la siturile istorice, luminate spectaculos la asfințit.",
+        "en": "Your driving tour sets off with a relaxing morning at the sprawling Villa Conti in the north. Midday involves navigating through distinct neighborhoods to uncover hidden fortifications and modern religious architecture. The afternoon focuses on the authentic southern districts, visiting quiet local churches. Evening falls beautifully over historical sites, offering stunning twilight views."
+      }
+    }
+  }
+}

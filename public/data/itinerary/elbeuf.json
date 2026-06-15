@@ -1,0 +1,543 @@
+{
+  "city_id": "elbeuf",
+  "anchor": {
+    "name": "Elbeuf",
+    "coords": [
+      1.0083,
+      49.2858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la fabrique des savoirs",
+            "hu": "Musée de la fabrique des savoirs",
+            "ro": "Musée de la fabrique des savoirs",
+            "en": "Musée de la fabrique des savoirs"
+          },
+          "coords": [
+            1.00584,
+            49.284993
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche industrielle Erbe von Elbeuf in diesem umfassenden Museum und vergessen Sie nicht, die temporären Ausstellungen im obersten Stockwerk zu besuchen.",
+            "hu": "Fedezze fel Elbeuf gazdag ipari örökségét ebben az átfogó múzeumban, és mindenképpen nézze meg a legfelső emeleten található időszaki kiállításokat.",
+            "ro": "Explorați bogata moștenire industrială a orașului Elbeuf în acest muzeu cuprinzător și asigurați-vă că vizitați expozițiile temporare de la ultimul etaj.",
+            "en": "Explore the rich industrial heritage of Elbeuf in this comprehensive museum, and make sure to check the temporary exhibitions on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Immaculée-Conception",
+            "hu": "Église de l'Immaculée-Conception",
+            "ro": "Église de l'Immaculée-Conception",
+            "en": "Église de l'Immaculée-Conception"
+          },
+          "coords": [
+            1.008025,
+            49.285193
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser ruhigen Kirche, indem Sie sie außerhalb der Stoßzeiten betreten, um die beste Beleuchtung zu genießen.",
+            "hu": "Csodálja meg ennek a békés templomnak a gyönyörű ólomüveg ablakait, és térjen be a csendesebb órákban a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați frumoasele vitralii ale acestei biserici liniștite, intrând discret în afara orelor de vârf pentru a beneficia de cea mai bună iluminare.",
+            "en": "Admire the beautiful stained glass windows of this serene church, stepping inside quietly during off-peak hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Bains Douches",
+            "hu": "Théâtre des Bains Douches",
+            "ro": "Théâtre des Bains Douches",
+            "en": "Théâtre des Bains Douches"
+          },
+          "coords": [
+            1.004043,
+            49.28626
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Architektur dieses ehemaligen öffentlichen Badehauses, das zum Theater umgebaut wurde, und prüfen Sie den lokalen Spielplan im Voraus.",
+            "hu": "Csodálja meg ennek az egykori nyilvános fürdőből kialakított színháznak az egyedi építészetét, és előre ellenőrizze a helyi műsort.",
+            "ro": "Minunați-vă de arhitectura unică a acestei foste băi publice transformate în teatru, verificând în avans programul local pentru repetițiile de după-amiază.",
+            "en": "Marvel at the unique architecture of this former public bathhouse turned theater, checking the local schedule in advance for afternoon rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Cirque-théâtre",
+            "hu": "Cirque-théâtre",
+            "ro": "Cirque-théâtre",
+            "en": "Cirque-théâtre"
+          },
+          "coords": [
+            1.010938,
+            49.290726
+          ],
+          "category": "cultural",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie eines der seltenen permanenten Rundtheater in Frankreich und buchen Sie frühzeitig eine Führung, um die beeindruckende Kuppelstruktur aus der Nähe zu sehen.",
+            "hu": "Fedezze fel Franciaország egyik ritka állandó körszínházát, és foglaljon időben vezetett túrát, hogy közelről is láthassa a lenyűgöző kupolaszerkezetet.",
+            "ro": "Descoperiți unul dintre rarele teatre circulare permanente din Franța, rezervând din timp un tur ghidat pentru a vedea de aproape structura impresionantă a cupolei.",
+            "en": "Discover one of the rare permanent circular theaters in France, booking a guided tour early to see the impressive dome structure up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie d'Elbeuf",
+            "hu": "Mairie d'Elbeuf",
+            "ro": "Mairie d'Elbeuf",
+            "en": "Mairie d'Elbeuf"
+          },
+          "coords": [
+            1.007132,
+            49.292067
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die prächtige Fassade des Rathauses zu würdigen, das als stolzes Symbol der Bürgergeschichte gilt, und entspannen Sie auf den Bänken in der Nähe.",
+            "hu": "Szánjon egy percet a városháza nagyszerű homlokzatának megcsodálására, amely a polgári történelem büszke szimbóluma, és pihenjen meg a közeli padokon.",
+            "ro": "Acordați-vă un moment pentru a aprecia fațada grandioasă a primăriei, care stă ca un mândru simbol al istoriei civice, și relaxați-vă pe băncile din apropiere.",
+            "en": "Take a moment to appreciate the grand facade of the town hall, which stands as a proud symbol of civic history, and relax on the benches nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Church",
+            "hu": "Saint-Jean Church",
+            "ro": "Saint-Jean Church",
+            "en": "Saint-Jean Church"
+          },
+          "coords": [
+            1.003964,
+            49.291503
+          ],
+          "category": "religious",
+          "arrive_at": "15:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, die für ihren majestätischen Turm bekannt ist, und betrachten Sie das kunstvolle Mauerwerk genau, bevor Sie sich auf dem angrenzenden Platz kurz ausruhen.",
+            "hu": "Látogassa meg ezt a fenséges tornyáról ismert történelmi templomot, nézze meg közelebbről a bonyolult kőfaragásokat, mielőtt megpihenne a szomszédos téren.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru turla sa maiestuoasă, privind cu atenție zidăria complicată înainte de a vă odihni puțin în piața adiacentă.",
+            "en": "Visit this historical church known for its majestic spire, looking closely at the intricate stonework before taking a short rest in the adjacent square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in Elbeufs reiche industrielle und kulturelle Vergangenheit durch spannende Museen.\n\nMittags verlagert sich der Fokus auf die spirituelle Seite der Stadt mit einem Besuch in der friedlichen Kirche und dem einzigartigen ehemaligen Badehaus-Theater.\n\nDer Nachmittag ist der Erkundung des lebhaften Stadtzentrums und seiner architektonischen Höhepunkte gewidmet, darunter das berühmte Rundtheater.\n\nDer Abend schließt Ihre Reise mit einem entspannenden Spaziergang um das historische Rathaus und die majestätische Kirche Saint-Jean ab.",
+        "hu": "A délelőtt Elbeuf gazdag ipari és kulturális múltjának elmélyült felfedezésével indul izgalmas múzeumi látogatásokkal.\n\nA dél a város spirituális oldala felé mozdul el, megtekintve a békés templomot és az egyedülálló, egykori fürdőből kialakított színházat.\n\nA délután a nyüzsgő városközpont és annak építészeti gyöngyszemeinek, köztük a híres körszínháznak a felfedezésének van szentelve.\n\nAz este a történelmi városháza és a fenséges Saint-Jean templom körüli pihentető sétával zárja utazását.",
+        "ro": "Dimineața începe cu o incursiune profundă în trecutul industrial și cultural bogat al orașului Elbeuf, explorând muzee fascinante.\n\nLa prânz accentul se mută pe latura spirituală a orașului, cu o vizită la biserica liniștită și la teatrul unic amenajat într-o fostă baie publică.\n\nDupă-amiaza este dedicată explorării centrului vibrant al orașului și a punctelor sale de atracție arhitecturale, inclusiv faimosul teatru circular.\n\nSeara vă încheie călătoria cu o plimbare relaxantă în jurul primăriei istorice și a maiestuoasei biserici Saint-Jean.",
+        "en": "Morning begins with a deep dive into Elbeuf's rich industrial and cultural past, thoroughly exploring fascinating local museums.\n\nMidday shifts the focus to the city's spiritual side with a visit to a peaceful church and the highly unique former bathhouse theater.\n\nThe afternoon is dedicated to exploring the vibrant town center and its architectural highlights, including the famous circular theater.\n\nEvening wraps up your journey with a relaxing stroll around the historical town hall and the majestic Saint-Jean Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:26",
+      "total_km": 4.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fabrique des Savoirs",
+            "hu": "Fabrique des Savoirs",
+            "ro": "Fabrique des Savoirs",
+            "en": "Fabrique des Savoirs"
+          },
+          "coords": [
+            1.0,
+            49.2833
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die hier untergebrachte regionale Natur- und Industriegeschichte ein und nehmen Sie sich zusätzliche Zeit für die faszinierenden Textilindustrie-Ausstellungen.",
+            "hu": "Merüljön el az itt található regionális természeti és ipartörténetben, és szánjon extra időt a lenyűgöző textilipari kiállításokra.",
+            "ro": "Pătrundeți în istoria naturală și industrială regională găzduită aici, alocând timp suplimentar pentru expozițiile fascinante ale industriei textile.",
+            "en": "Dive into the regional natural and industrial history housed here, allocating extra time for the fascinating textile industry exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la fabrique des savoirs",
+            "hu": "Musée de la fabrique des savoirs",
+            "ro": "Musée de la fabrique des savoirs",
+            "en": "Musée de la fabrique des savoirs"
+          },
+          "coords": [
+            1.00584,
+            49.284993
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche industrielle Erbe von Elbeuf in diesem umfassenden Museum und vergessen Sie nicht, die temporären Ausstellungen im obersten Stockwerk zu besuchen.",
+            "hu": "Fedezze fel Elbeuf gazdag ipari örökségét ebben az átfogó múzeumban, és mindenképpen nézze meg a legfelső emeleten található időszaki kiállításokat.",
+            "ro": "Explorați bogata moștenire industrială a orașului Elbeuf în acest muzeu cuprinzător și asigurați-vă că vizitați expozițiile temporare de la ultimul etaj.",
+            "en": "Explore the rich industrial heritage of Elbeuf in this comprehensive museum, and make sure to check the temporary exhibitions on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Immaculée-Conception",
+            "hu": "Église de l'Immaculée-Conception",
+            "ro": "Église de l'Immaculée-Conception",
+            "en": "Église de l'Immaculée-Conception"
+          },
+          "coords": [
+            1.008025,
+            49.285193
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser ruhigen Kirche, indem Sie sie außerhalb der Stoßzeiten betreten, um die beste Beleuchtung zu genießen.",
+            "hu": "Csodálja meg ennek a békés templomnak a gyönyörű ólomüveg ablakait, és térjen be a csendesebb órákban a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați frumoasele vitralii ale acestei biserici liniștite, intrând discret în afara orelor de vârf pentru a beneficia de cea mai bună iluminare.",
+            "en": "Admire the beautiful stained glass windows of this serene church, stepping inside quietly during off-peak hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cirque-théâtre",
+            "hu": "Cirque-théâtre",
+            "ro": "Cirque-théâtre",
+            "en": "Cirque-théâtre"
+          },
+          "coords": [
+            1.010938,
+            49.290726
+          ],
+          "category": "cultural",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie eines der seltenen permanenten Rundtheater in Frankreich und buchen Sie frühzeitig eine Führung, um die beeindruckende Kuppelstruktur aus der Nähe zu sehen.",
+            "hu": "Fedezze fel Franciaország egyik ritka állandó körszínházát, és foglaljon időben vezetett túrát, hogy közelről is láthassa a lenyűgöző kupolaszerkezetet.",
+            "ro": "Descoperiți unul dintre rarele teatre circulare permanente din Franța, rezervând din timp un tur ghidat pentru a vedea de aproape structura impresionantă a cupolei.",
+            "en": "Discover one of the rare permanent circular theaters in France, booking a guided tour early to see the impressive dome structure up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie d'Elbeuf",
+            "hu": "Mairie d'Elbeuf",
+            "ro": "Mairie d'Elbeuf",
+            "en": "Mairie d'Elbeuf"
+          },
+          "coords": [
+            1.007132,
+            49.292067
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die prächtige Fassade des Rathauses zu würdigen, das als stolzes Symbol der Bürgergeschichte gilt, und entspannen Sie auf den Bänken in der Nähe.",
+            "hu": "Szánjon egy percet a városháza nagyszerű homlokzatának megcsodálására, amely a polgári történelem büszke szimbóluma, és pihenjen meg a közeli padokon.",
+            "ro": "Acordați-vă un moment pentru a aprecia fațada grandioasă a primăriei, care stă ca un mândru simbol al istoriei civice, și relaxați-vă pe băncile din apropiere.",
+            "en": "Take a moment to appreciate the grand facade of the town hall, which stands as a proud symbol of civic history, and relax on the benches nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Church",
+            "hu": "Saint-Jean Church",
+            "ro": "Saint-Jean Church",
+            "en": "Saint-Jean Church"
+          },
+          "coords": [
+            1.003964,
+            49.291503
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, die für ihren majestätischen Turm bekannt ist, und betrachten Sie das kunstvolle Mauerwerk genau, bevor Sie sich auf dem angrenzenden Platz kurz ausruhen.",
+            "hu": "Látogassa meg ezt a fenséges tornyáról ismert történelmi templomot, nézze meg közelebbről a bonyolult kőfaragásokat, mielőtt megpihenne a szomszédos téren.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru turla sa maiestuoasă, privind cu atenție zidăria complicată înainte de a vă odihni puțin în piața adiacentă.",
+            "en": "Visit this historical church known for its majestic spire, looking closely at the intricate stonework before taking a short rest in the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            0.998105,
+            49.290935
+          ],
+          "category": "religious",
+          "arrive_at": "16:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser wunderschön erhaltenen Pfarrkirche und spazieren Sie um sie herum, um das klassische normannische Design zu würdigen.",
+            "hu": "Élvezze e gyönyörűen megőrzött plébániatemplom békés hangulatát, és sétálja körbe, hogy teljes mértékben értékelhesse klasszikus normann dizájnját.",
+            "ro": "Bucurați-vă de ambianța pașnică a acestei biserici parohiale frumos conservate, plimbându-vă prin exterior pentru a aprecia pe deplin designul său clasic normand.",
+            "en": "Enjoy the peaceful ambiance of this beautifully preserved parish church, walking around the exterior to fully appreciate its classic Norman design."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa du Buquet",
+            "hu": "Villa du Buquet",
+            "ro": "Villa du Buquet",
+            "en": "Villa du Buquet"
+          },
+          "coords": [
+            0.975337,
+            49.293646
+          ],
+          "category": "landmark",
+          "arrive_at": "17:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände dieses eleganten historischen Wahrzeichens etwas außerhalb des Zentrums und bringen Sie eine Kamera mit, um seine Architektur einzufangen.",
+            "hu": "Fedezze fel a központon kívül található elegáns történelmi nevezetesség területét, és hozzon magával fényképezőgépet a csodálatos építészet megörökítéséhez.",
+            "ro": "Explorați terenurile acestui reper istoric elegant, situat puțin în afara centrului, aducând o cameră pentru a surprinde arhitectura sa magnifică.",
+            "en": "Explore the grounds of this elegant historical landmark situated slightly out of the center, bringing a camera to capture its magnificent architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Radtag beginnt mit einem umfassenden Besuch der herausragenden Museen der Stadt, die Elbeufs industrielle Wurzeln zeigen.\n\nZur Mittagszeit radeln Sie gemütlich zwischen den religiösen Stätten, um die Architektur der schönen Kirchen und historischen Stätten zu bewundern.\n\nDer Nachmittag lädt Sie ein, das pulsierende Rathausviertel und das bemerkenswerte architektonische Meisterwerk, das Rundtheater, zu entdecken.\n\nEin abendlicher Ausflug aus dem Zentrum führt Sie zu einer atemberaubenden Villa, bei der Sie die Vorstadtlandschaft bei Sonnenuntergang genießen.",
+        "hu": "A kerékpáros nap a város kiemelkedő múzeumainak átfogó meglátogatásával kezdődik, amelyek Elbeuf ipari gyökereit mutatják be.\n\nDélben kényelmesen tekerhet a vallási helyszínek között, megcsodálva a gyönyörű templomok építészetét és a történelmi látnivalókat.\n\nA délután meghívja Önt, hogy felfedezze a nyüzsgő városháza negyedet és a figyelemre méltó építészeti remekművet, a körszínházat.\n\nEgy kora esti kiruccanás a központból egy lenyűgöző villához vezet, ahol naplementekor élvezheti a külvárosi tájat.",
+        "ro": "Ziua de ciclism începe cu o vizită cuprinzătoare la muzeele remarcabile ale orașului, care prezintă rădăcinile industriale ale orașului Elbeuf.\n\nLa prânz veți pedala pe îndelete între locurile religioase, admirând arhitectura bisericilor frumoase și a siturilor istorice.\n\nDupă-amiaza vă invită să descoperiți cartierul vibrant al primăriei și remarcabila capodoperă arhitecturală, teatrul circular.\n\nO scurtă plimbare de seară în afara centrului vă va duce la o vilă uimitoare, permițându-vă să vă bucurați de peisajul suburban la apus.",
+        "en": "The cycling day begins with a comprehensive visit to the city's outstanding museums, showcasing Elbeuf's industrial roots.\n\nMidday has you pedaling leisurely between religious sites, admiring the architecture of beautiful churches and historic venues.\n\nThe afternoon invites you to discover the vibrant town hall district and the remarkable architectural masterpiece that is the circular theater.\n\nAn early evening ride out of the center takes you to a stunning villa, letting you enjoy the suburban scenery at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa du Buquet",
+            "hu": "Villa du Buquet",
+            "ro": "Villa du Buquet",
+            "en": "Villa du Buquet"
+          },
+          "coords": [
+            0.975337,
+            49.293646
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Gelände dieses eleganten historischen Wahrzeichens etwas außerhalb des Zentrums und bringen Sie eine Kamera mit, um seine Architektur einzufangen.",
+            "hu": "Fedezze fel a központon kívül található elegáns történelmi nevezetesség területét, és hozzon magával fényképezőgépet a csodálatos építészet megörökítéséhez.",
+            "ro": "Explorați terenurile acestui reper istoric elegant, situat puțin în afara centrului, aducând o cameră pentru a surprinde arhitectura sa magnifică.",
+            "en": "Explore the grounds of this elegant historical landmark situated slightly out of the center, bringing a camera to capture its magnificent architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            0.998105,
+            49.290935
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser wunderschön erhaltenen Pfarrkirche und spazieren Sie um sie herum, um das klassische normannische Design zu würdigen.",
+            "hu": "Élvezze e gyönyörűen megőrzött plébániatemplom békés hangulatát, és sétálja körbe, hogy teljes mértékben értékelhesse klasszikus normann dizájnját.",
+            "ro": "Bucurați-vă de ambianța pașnică a acestei biserici parohiale frumos conservate, plimbându-vă prin exterior pentru a aprecia pe deplin designul său clasic normand.",
+            "en": "Enjoy the peaceful ambiance of this beautifully preserved parish church, walking around the exterior to fully appreciate its classic Norman design."
+          }
+        },
+        {
+          "name": {
+            "de": "Fabrique des Savoirs",
+            "hu": "Fabrique des Savoirs",
+            "ro": "Fabrique des Savoirs",
+            "en": "Fabrique des Savoirs"
+          },
+          "coords": [
+            1.0,
+            49.2833
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die hier untergebrachte regionale Natur- und Industriegeschichte ein und nehmen Sie sich zusätzliche Zeit für die faszinierenden Textilindustrie-Ausstellungen.",
+            "hu": "Merüljön el az itt található regionális természeti és ipartörténetben, és szánjon extra időt a lenyűgöző textilipari kiállításokra.",
+            "ro": "Pătrundeți în istoria naturală și industrială regională găzduită aici, alocând timp suplimentar pentru expozițiile fascinante ale industriei textile.",
+            "en": "Dive into the regional natural and industrial history housed here, allocating extra time for the fascinating textile industry exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Bains Douches",
+            "hu": "Théâtre des Bains Douches",
+            "ro": "Théâtre des Bains Douches",
+            "en": "Théâtre des Bains Douches"
+          },
+          "coords": [
+            1.004043,
+            49.28626
+          ],
+          "category": "cultural",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Architektur dieses ehemaligen öffentlichen Badehauses, das zum Theater umgebaut wurde, und prüfen Sie den lokalen Spielplan im Voraus.",
+            "hu": "Csodálja meg ennek az egykori nyilvános fürdőből kialakított színháznak az egyedi építészetét, és előre ellenőrizze a helyi műsort.",
+            "ro": "Minunați-vă de arhitectura unică a acestei foste băi publice transformate în teatru, verificând în avans programul local pentru repetițiile de după-amiază.",
+            "en": "Marvel at the unique architecture of this former public bathhouse turned theater, checking the local schedule in advance for afternoon rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la fabrique des savoirs",
+            "hu": "Musée de la fabrique des savoirs",
+            "ro": "Musée de la fabrique des savoirs",
+            "en": "Musée de la fabrique des savoirs"
+          },
+          "coords": [
+            1.00584,
+            49.284993
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche industrielle Erbe von Elbeuf in diesem umfassenden Museum und vergessen Sie nicht, die temporären Ausstellungen im obersten Stockwerk zu besuchen.",
+            "hu": "Fedezze fel Elbeuf gazdag ipari örökségét ebben az átfogó múzeumban, és mindenképpen nézze meg a legfelső emeleten található időszaki kiállításokat.",
+            "ro": "Explorați bogata moștenire industrială a orașului Elbeuf în acest muzeu cuprinzător și asigurați-vă că vizitați expozițiile temporare de la ultimul etaj.",
+            "en": "Explore the rich industrial heritage of Elbeuf in this comprehensive museum, and make sure to check the temporary exhibitions on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Church",
+            "hu": "Saint-Jean Church",
+            "ro": "Saint-Jean Church",
+            "en": "Saint-Jean Church"
+          },
+          "coords": [
+            1.003964,
+            49.291503
+          ],
+          "category": "religious",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, die für ihren majestätischen Turm bekannt ist, und betrachten Sie das kunstvolle Mauerwerk genau, bevor Sie sich auf dem angrenzenden Platz kurz ausruhen.",
+            "hu": "Látogassa meg ezt a fenséges tornyáról ismert történelmi templomot, nézze meg közelebbről a bonyolult kőfaragásokat, mielőtt megpihenne a szomszédos téren.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru turla sa maiestuoasă, privind cu atenție zidăria complicată înainte de a vă odihni puțin în piața adiacentă.",
+            "en": "Visit this historical church known for its majestic spire, looking closely at the intricate stonework before taking a short rest in the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cirque-théâtre",
+            "hu": "Cirque-théâtre",
+            "ro": "Cirque-théâtre",
+            "en": "Cirque-théâtre"
+          },
+          "coords": [
+            1.010938,
+            49.290726
+          ],
+          "category": "cultural",
+          "arrive_at": "16:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie eines der seltenen permanenten Rundtheater in Frankreich und buchen Sie frühzeitig eine Führung, um die beeindruckende Kuppelstruktur aus der Nähe zu sehen.",
+            "hu": "Fedezze fel Franciaország egyik ritka állandó körszínházát, és foglaljon időben vezetett túrát, hogy közelről is láthassa a lenyűgöző kupolaszerkezetet.",
+            "ro": "Descoperiți unul dintre rarele teatre circulare permanente din Franța, rezervând din timp un tur ghidat pentru a vedea de aproape structura impresionantă a cupolei.",
+            "en": "Discover one of the rare permanent circular theaters in France, booking a guided tour early to see the impressive dome structure up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto zu reisen erleichtert den Start an der eleganten Villa außerhalb des Zentrums und bringt Sie schnell ins historische Herz von Elbeuf.\n\nMittags tauchen Sie durch hervorragend kuratierte Museen tief in das reiche Erbe der Industriegeschichte der Stadt ein.\n\nDer Nachmittag verbindet den Besuch des ungewöhnlichen alten Badehaus-Theaters mit einer beeindruckenden Kirchenarchitektur.\n\nIhr Abend führt Sie zum berühmten Rundtheater und ermöglicht Ihnen einen grandiosen architektonischen Abschluss des ereignisreichen Tages.",
+        "hu": "Az autóval történő utazás megkönnyíti a kezdést az elegáns, központon kívüli villánál, majd gyorsan Elbeuf történelmi szívébe visz.\n\nDélben a kiválóan gondozott múzeumok révén mélyen elmerülhet a város ipartörténetének gazdag örökségében.\n\nA délután ötvözi a szokatlan egykori fürdőszínház meglátogatását a lenyűgöző templomi építészettel.\n\nAz este a híres körszínházhoz vezeti, ami nagyszerű építészeti befejezést nyújt ennek az eseménydús napnak.",
+        "ro": "Conducerea face ușoară începerea la vila elegantă din afara centrului, aducându-vă rapid în inima istorică a orașului Elbeuf.\n\nLa prânz vă adânciți în bogata moștenire a istoriei industriale a orașului prin muzee excelent organizate.\n\nDupă-amiaza combină o vizită la teatrul neobișnuit din fosta baie cu arhitectura impresionantă a bisericilor.\n\nSeara vă ghidează către faimosul teatru circular, oferind o încheiere arhitecturală grandioasă a unei zile pline de evenimente.",
+        "en": "Driving makes it easy to begin at the elegant villa outside the center, bringing you swiftly into the historical heart of Elbeuf.\n\nMidday finds you delving deep into the rich heritage of the town's industrial history through excellently curated museums.\n\nThe afternoon combines a visit to the unusual former bathhouse theater with some impressive church architecture.\n\nYour evening guides you to the famous circular theater, providing a grand architectural conclusion to an eventful day."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "kendari-cities-v2",
+  "anchor": {
+    "name": "Kendari",
+    "coords": [
+      122.59,
+      -3.984
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Rakyat Lapulu",
+            "hu": "Pasar Rakyat Lapulu",
+            "ro": "Pasar Rakyat Lapulu",
+            "en": "Pasar Rakyat Lapulu"
+          },
+          "coords": [
+            122.584993,
+            -3.981629
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das authentische Leben auf diesem belebten Markt mit frischen Produkten; tragen Sie bequeme Schuhe für die engen, lebhaften Gänge.",
+            "hu": "Fedezze fel az igazi helyi életet ezen a nyüzsgő, friss termékeket kínáló piacon; viseljen kényelmes cipőt a szűk, élénk sorok bejárásához.",
+            "ro": "Descoperiți viața locală autentică la această piață plină de produse proaspete; purtați pantofi confortabili pentru a naviga pe culoarele înguste.",
+            "en": "Discover authentic local life at this bustling market offering fresh produce; wear comfortable shoes to navigate the lively, narrow aisles."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Sentral Kota Lama",
+            "hu": "Pasar Sentral Kota Lama",
+            "ro": "Pasar Sentral Kota Lama",
+            "en": "Pasar Sentral Kota Lama"
+          },
+          "coords": [
+            122.578804,
+            -3.970876
+          ],
+          "category": "cultural",
+          "arrive_at": "10:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie Kendaris historisches Handelszentrum voller Textilien und Gewürze; denken Sie daran, höflich mit den freundlichen Händlern zu feilschen.",
+            "hu": "Tapasztalja meg Kendari történelmi, textíliákkal és fűszerekkel teli kereskedelmi központját; ne felejtsen el udvariasan alkudni a barátságos árusokkal.",
+            "ro": "Experimentați inima comercială istorică din Kendari, plină de textile și condimente; nu uitați să negociați politicos cu vânzătorii prietenoși.",
+            "en": "Experience Kendari's historical commercial heart filled with textiles and spices; remember to bargain politely with the friendly local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempat Pelelangan Ikan Kendari",
+            "hu": "Tempat Pelelangan Ikan Kendari",
+            "ro": "Tempat Pelelangan Ikan Kendari",
+            "en": "Tempat Pelelangan Ikan Kendari"
+          },
+          "coords": [
+            122.572489,
+            -3.97112
+          ],
+          "category": "cultural",
+          "arrive_at": "11:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die energiegeladenen Fischauktionen direkt am Hafen; kommen Sie früh, um den besten Fang des Tages aus nächster Nähe zu sehen.",
+            "hu": "Figyelje meg az energikus halárveréseket közvetlenül a kikötőben, amelyek a tengeri kultúrát mutatják be; érkezzen korán a legjobb fogásért.",
+            "ro": "Urmăriți licitațiile energice de pește chiar lângă port, care prezintă cultura maritimă; ajungeți devreme pentru a vedea cea mai bună captură a zilei.",
+            "en": "Watch the energetic fish auctions right by the harbor, showcasing maritime culture; arrive early to witness the best catch of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "GKKA Indonesia Cabang Kendari",
+            "hu": "GKKA Indonesia Cabang Kendari",
+            "ro": "GKKA Indonesia Cabang Kendari",
+            "en": "GKKA Indonesia Cabang Kendari"
+          },
+          "coords": [
+            122.57257,
+            -3.969025
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese friedliche protestantische Kirche, die der Gemeinde dient; bewahren Sie ein ruhiges Verhalten, wenn Sie das schlichte Innere betrachten.",
+            "hu": "Csodálja meg ezt a békés helyi protestáns templomot, amely a közösséget szolgálja; őrizze meg a csendet, amikor megtekinti a szerény belső teret.",
+            "ro": "Admirați această biserică protestantă pașnică ce servește comunitatea; mențineți un comportament liniștit când îi vizitați interiorul modest.",
+            "en": "Admire this peaceful local Protestant church that serves the nearby community; maintain a quiet demeanor when viewing its modest interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Bethel Tabernakel Kendari",
+            "hu": "Gereja Bethel Tabernakel Kendari",
+            "ro": "Gereja Bethel Tabernakel Kendari",
+            "en": "Gereja Bethel Tabernakel Kendari"
+          },
+          "coords": [
+            122.570146,
+            -3.968024
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese markant strukturierte Kirche bietet einen ruhigen Abschluss Ihres Spaziergangs; ruhen Sie sich einen Moment auf den schattigen Bänken draußen aus.",
+            "hu": "Ez a jellegzetes szerkezetű helyi templom nyugodt befejezést kínál sétájának; pihenjen meg egy pillanatra az árnyékos padokon a főcsarnok előtt.",
+            "ro": "Această biserică locală structurată distinct oferă un final calm plimbării; odihniți-vă un moment pe băncile umbrite din afara sălii principale.",
+            "en": "This distinctively structured local church offers a calm end to your walk; rest for a moment on the shaded benches outside the main hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die lebhafte Atmosphäre im Pasar Rakyat Lapulu aufzusaugen. Erkunden Sie die geschäftigen Stände, während die Händler frische Produkte verkaufen.\nGehen Sie weiter zum historischen Herzen der Stadt, um den Pasar Sentral Kota Lama zu erkunden. Der lebhafte Handel mit Textilien und Gewürzen wird Ihre Sinne umhüllen und den Handelsgeist der Region zeigen.\nSetzen Sie Ihren Weg zum Wasser fort, um den lebhaften Tempat Pelelangan Ikan zu erleben. Die energiegeladene Fischauktion am Nachmittag unterstreicht die tiefe Verbundenheit der Stadt mit dem Meer.\nBeenden Sie Ihren Rundgang mit einem Besuch der nahe gelegenen GKKA- und Bethel-Tabernakel-Kirchen. Diese bescheidenen religiösen Wahrzeichen bieten eine ruhige Atmosphäre zum Abschluss.",
+        "hu": "Kezdje a reggelt a Pasar Rakyat Lapulu nyüzsgő atmoszférájának magába szívásával. Fedezze fel a nyüzsgő standokat, miközben az árusok friss termékeket árulnak a városban.\nIrány a város történelmi szíve, a Pasar Sentral Kota Lama. A textíliák és fűszerek élénk kereskedelme elvarázsolja az érzékeit, bemutatva a régió kereskedelmi szellemét.\nFolytassa útját a vízpart felé, hogy megtapasztalja az élénk Tempat Pelelangan Ikan-t. A délutáni halárverés rávilágít a város tengerhez fűződő mély kapcsolatára.\nZárja gyalogtúráját a közeli GKKA és a Bétel Tabernákulum templomok felkeresésével. Ezek a szerény vallási nevezetességek csendes és elgondolkodtató légkört kínálnak.",
+        "ro": "Începeți dimineața absorbind atmosfera plină de viață de la Pasar Rakyat Lapulu. Explorați tarabele pline de viață, unde vânzătorii oferă o privire autentică asupra vieții din Kendari.\nÎndreptați-vă spre inima istorică a orașului pentru a naviga prin Pasar Sentral Kota Lama. Comerțul plin de viață cu textile și condimente vă va învălui simțurile, arătând spiritul comercial.\nContinuați spre malul apei pentru a experimenta plinul de viață Tempat Pelelangan Ikan. Licitația energică de pește de după-amiază evidențiază legătura profundă a orașului cu marea.\nÎncheiați-vă turul pietonal vizitând bisericile din apropiere GKKA și Bethel Tabernakel. Aceste repere religioase modeste oferă o atmosferă liniștită și reflexivă.",
+        "en": "Start your morning absorbing the lively atmosphere at Pasar Rakyat Lapulu. Explore the bustling stalls as vendors sell fresh produce, offering a genuine glimpse into daily life in Kendari.\nHead towards the historic heart of the city to navigate Pasar Sentral Kota Lama. The lively trading of textiles and local spices will envelop your senses, showcasing the region's commercial spirit.\nContinue towards the waterfront to experience the lively Tempat Pelelangan Ikan. The energetic afternoon fish auction highlights the city’s deep connection to the sea and the fishing community.\nConclude your walking tour by visiting the nearby GKKA and Bethel Tabernakel churches. These modest religious landmarks offer a quiet and reflective atmosphere as your day comes to an end."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+          },
+          "coords": [
+            122.517741,
+            -3.97719
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das reiche ethnische Erbe von Südost-Sulawesi; sehen Sie sich zuerst die Haupthalle mit den komplizierten traditionellen Textilien an.",
+            "hu": "Tudjon meg többet Délkelet-Sulawesi gazdag etnikai örökségéről a hagyományos tárgyakon keresztül; először a főterem bonyolult textíliáit nézze meg.",
+            "ro": "Aflați despre bogata moștenire etnică a regiunii prin artefacte tradiționale; vizitați mai întâi sala principală pentru textilele tradiționale complicate.",
+            "en": "Learn about Southeast Sulawesi's rich ethnic heritage through traditional artifacts; check the main hall first for the intricate traditional textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Religi Sultra",
+            "hu": "Tugu Religi Sultra",
+            "ro": "Tugu Religi Sultra",
+            "en": "Tugu Religi Sultra"
+          },
+          "coords": [
+            122.517353,
+            -3.97567
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses große Monument, das religiöse Harmonie symbolisiert; machen Sie die besten Fotos vom zentralen Hof aus gegen den hellen Himmel.",
+            "hu": "Csodálja meg ezt a vallási harmóniát jelképező, hatalmas emlékművet; készítse a legjobb fotókat a központi udvarról a világos égbolt hátterével.",
+            "ro": "Minunați-vă de acest monument măreț care simbolizează armonia religioasă; faceți cele mai bune fotografii din curtea centrală împotriva cerului senin.",
+            "en": "Marvel at this grand monument symbolizing religious harmony; capture the best photos from the central courtyard against the bright sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Menara",
+            "hu": "Tugu Menara",
+            "ro": "Tugu Menara",
+            "en": "Tugu Menara"
+          },
+          "coords": [
+            122.519673,
+            -3.961799
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieser historische Turm ist ein stolzes regionales Symbol; parken Sie Ihr Fahrrad sicher in der Nähe, bevor Sie die angelegten Gärten erkunden.",
+            "hu": "Ez a történelmi torony büszke regionális ikon; parkolja le kerékpárját biztonságosan a közelben, mielőtt felfedezné a parkosított területeket.",
+            "ro": "Acest turn istoric reprezintă o mândră icoană regională; parcați-vă bicicleta în siguranță înainte de a explora zonele amenajate din jur.",
+            "en": "This historical tower stands as a proud regional icon; park your bike securely nearby before exploring the surrounding landscaped areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Katolik Santo Clemens",
+            "hu": "Gereja Katolik Santo Clemens",
+            "ro": "Gereja Katolik Santo Clemens",
+            "en": "Gereja Katolik Santo Clemens"
+          },
+          "coords": [
+            122.523709,
+            -3.96242
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine bemerkenswerte katholische Kirche, die Glaube und lokales Design verbindet; halten Sie Ihre Stimme während der Gebetszeiten leise.",
+            "hu": "Nevezetes katolikus templom, amely ötvözi a hitet és a helyi dizájnt; tartsa csendben a hangját az imaidők alatt.",
+            "ro": "O biserică catolică notabilă cu atingeri arhitecturale unice care îmbină credința și designul local; păstrați vocea scăzută în timpul orelor de rugăciune.",
+            "en": "A notable Catholic church with unique architectural touches blending faith and local design; keep your voice low during prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Kibaid Kendari",
+            "hu": "Gereja Kibaid Kendari",
+            "ro": "Gereja Kibaid Kendari",
+            "en": "Gereja Kibaid Kendari"
+          },
+          "coords": [
+            122.546606,
+            -3.965413
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beachten Sie das schlichte, aber elegante Design dieser Gemeindekirche; ein großartiger Ort, um die Fahrradtour zu unterbrechen und die Atmosphäre zu genießen.",
+            "hu": "Figyelje meg ennek a közösségi templomnak az egyszerű, mégis elegáns kialakítását; nagyszerű hely a biciklizés megszakítására és a hangulat élvezetére.",
+            "ro": "Observați designul simplu, dar elegant al acestei biserici comunitare; este un loc minunat pentru a întrerupe plimbarea cu bicicleta și a vă bucura de vibrație.",
+            "en": "Notice the simple yet elegant design of this community church; it is a great spot to pause your bike ride and enjoy the peaceful vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempat Pelelangan Ikan Kendari",
+            "hu": "Tempat Pelelangan Ikan Kendari",
+            "ro": "Tempat Pelelangan Ikan Kendari",
+            "en": "Tempat Pelelangan Ikan Kendari"
+          },
+          "coords": [
+            122.572489,
+            -3.97112
+          ],
+          "category": "cultural",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamische Küstenkultur auf dem Fischmarkt; der nahegelegene Hafen bietet atemberaubende Ausblicke auf den Sonnenuntergang.",
+            "hu": "Tapasztalja meg a dinamikus tengerparti kultúrát a halpiacon; a közeli kikötő lenyűgöző naplemente kilátást kínál a biciklitúra befejezéséhez.",
+            "ro": "Experimentați cultura de coastă dinamică la piața de pește; portul din apropiere oferă priveliști uimitoare la apus pentru a vă încheia călătoria.",
+            "en": "Experience the dynamic coastal culture at the fish market; the nearby harbor offers stunning sunset views to end your biking trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour, indem Sie im Provinzmuseum in die Geschichte eintauchen und die faszinierenden kulturellen Artefakte von Südost-Sulawesi entdecken. Es ist ein inspirierender Start.\nRadeln Sie hinunter zu den legendären Monumenten Tugu Religi Sultra und Tugu Menara. Sie sind zentral für Kendaris Identität und repräsentieren historische Verbundenheit.\nFahren Sie weiter durch die Straßen der Stadt, um die spirituelle Vielfalt zu beobachten, vorbei an den Kirchen Santo Clemens und Kibaid in ruhigen Vierteln.\nBeenden Sie Ihr Radabenteuer am lebhaften Tempat Pelelangan Ikan an der Bucht. Genießen Sie die erfrischende Meeresbrise und die maritimen Aktivitäten am Abend.",
+        "hu": "Kezdje kerékpáros utazását azzal, hogy elmerül a történelemben a tartományi múzeumban, felfedezve Délkelet-Szulavézi lenyűgöző kulturális emlékeit.\nKerékpározzon le az ikonikus Tugu Religi Sultra és a Tugu Menara felé. Ezek a tornyosuló emlékművek a harmónia és a történelmi büszkeség gyönyörű üzenetét képviselik.\nLovagoljon tovább a város utcáin, hogy megfigyelje a spirituális sokszínűséget, elhaladva a Santo Clemens és a Kibaid templomok mellett a csendes környékeken.\nFejezze be kerékpáros kalandját az öböl menti nyüzsgő Tempat Pelelangan Ikan-ban. Élvezze a frissítő tengeri szellőt és a tengeri tevékenységeket a naplementében.",
+        "ro": "Începeți călătoria cu bicicleta scufundându-vă în istorie la muzeul provincial, descoperind fascinantele artefacte culturale din Sulawesi de Sud-Est.\nPedalați spre iconicele Tugu Religi Sultra și Tugu Menara. Aceste monumente falnice sunt esențiale pentru identitatea orașului, reprezentând armonia culturală.\nCălătoriți prin străzile orașului pentru a observa diversitatea spirituală, trecând pe lângă bisericile Santo Clemens și Kibaid în cartiere pașnice.\nÎncheiați-vă aventura pe bicicletă la animatul Tempat Pelelangan Ikan lângă golf. Bucurați-vă de briza răcoritoare a mării și de activitățile maritime la apus.",
+        "en": "Begin your cycling journey by immersing yourself in history at the provincial museum, discovering the fascinating cultural artifacts of Southeast Sulawesi.\nPedal down to the iconic Tugu Religi Sultra and Tugu Menara. These towering monuments are central to Kendari's identity, representing a beautiful message of unity and historical pride.\nRide onwards through the city streets to observe its spiritual diversity, passing by Santo Clemens and Kibaid churches. The relaxed afternoon cycling reveals quiet neighborhoods.\nFinish your cycling adventure at the lively Tempat Pelelangan Ikan by the bay. Enjoy the refreshing sea breeze and vibrant maritime activities as the evening gently settles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 16,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Andunouho",
+            "hu": "Pasar Andunouho",
+            "ro": "Pasar Andunouho",
+            "en": "Pasar Andunouho"
+          },
+          "coords": [
+            122.540602,
+            -4.000394
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit lokalen Snacks auf diesem traditionellen Markt; bringen Sie kleines Bargeld mit, um leichter bei den traditionellen Lebensmittelverkäufern einzukaufen.",
+            "hu": "Kezdje a napot helyi harapnivalók kóstolásával ezen a hagyományos piacon; hozzon magával aprópénzt, hogy könnyebben fizethessen a hagyományos árusoknál.",
+            "ro": "Începeți-vă ziua degustând gustări locale la această piață tradițională; aduceți bani mici pentru tranzacții mai ușoare cu vânzătorii tradiționali de alimente.",
+            "en": "Start your day tasting local snacks at this traditional market; bring small cash for easier transactions with the traditional food vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Muhajirin",
+            "hu": "Masjid Nurul Muhajirin",
+            "ro": "Masjid Nurul Muhajirin",
+            "en": "Masjid Nurul Muhajirin"
+          },
+          "coords": [
+            122.55581,
+            -4.008927
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser geräumigen Moschee; achten Sie darauf, dass Sie sich bescheiden kleiden und die Gebetsbereiche während Ihres Besuchs respektieren.",
+            "hu": "Csodálja meg e tágas mecset gyönyörű építészetét; ügyeljen a szerény öltözködésre, és tartsa tiszteletben az imaterületeket látogatása során.",
+            "ro": "Admirați arhitectura frumoasă a acestei moschei spațioase; asigurați-vă că vă îmbrăcați modest și respectați zonele de rugăciune în timpul vizitei.",
+            "en": "Admire the beautiful architecture of this spacious mosque; ensure you dress modestly and respect the prayer areas during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+            "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+          },
+          "coords": [
+            122.517741,
+            -3.97719
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die indigenen Kulturen von Sulawesi ein; nehmen Sie sich Zeit für die beeindruckende Sammlung traditioneller Waffen und Kostüme.",
+            "hu": "Merüljön el mélyen Sulawesi őslakos kultúráiban és történelmében; szánjon időt a hagyományos fegyverek és jelmezek lenyűgöző gyűjteményére.",
+            "ro": "Scufundați-vă adânc în culturile indigene din Sulawesi; alocați timp pentru impresionanta colecție de arme și costume tradiționale.",
+            "en": "Dive deep into Sulawesi’s indigenous cultures and history; allocate time for the impressive collection of traditional weaponry and costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Religi Sultra",
+            "hu": "Tugu Religi Sultra",
+            "ro": "Tugu Religi Sultra",
+            "en": "Tugu Religi Sultra"
+          },
+          "coords": [
+            122.517353,
+            -3.97567
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses hoch aufragende Bauwerk ist das Herzstück von Kendaris religiöser Harmonie; gehen Sie um den riesigen Platz herum, um die monumentalen Ausmaße zu würdigen.",
+            "hu": "Ez a tornyosuló építmény Kendari vallási harmóniájának szíve; sétáljon körbe hatalmas terén, hogy értékelje a monumentális méreteket.",
+            "ro": "Această structură impunătoare este inima armoniei religioase din Kendari; plimbați-vă prin vasta sa piață pentru a aprecia amploarea monumentală.",
+            "en": "This towering structure is the heart of Kendari's religious harmony; walk around its vast square to appreciate the monumental scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Religi Sultra Letter Sign",
+            "hu": "Tugu Religi Sultra Letter Sign",
+            "ro": "Tugu Religi Sultra Letter Sign",
+            "en": "Tugu Religi Sultra Letter Sign"
+          },
+          "coords": [
+            122.514757,
+            -3.974449
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotospot am Wahrzeichen der Stadt; rahmen Sie Ihr Foto so ein, dass sowohl die hellen Buchstaben als auch das Monument dahinter zu sehen sind.",
+            "hu": "Népszerű fotózási pont, amely kiemeli a város ikonikus terét; úgy állítsa be a fotót, hogy a fényes betűk és a mögötte lévő emlékmű is látszódjon.",
+            "ro": "Un loc popular pentru fotografii; încadrați-vă fotografia pentru a include atât literele strălucitoare, cât și monumentul din spate.",
+            "en": "A popular photo spot highlighting the city's iconic square; frame your shot to include both the bright letters and the monument behind."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Menara",
+            "hu": "Tugu Menara",
+            "ro": "Tugu Menara",
+            "en": "Tugu Menara"
+          },
+          "coords": [
+            122.519673,
+            -3.961799
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante historische Wahrzeichen; das nachmittägliche Licht wirft wunderschöne Schatten, die sich perfekt für die Fotografie eignen.",
+            "hu": "Fedezze fel ezt a feltűnő történelmi nevezetességet; a délutáni fény gyönyörű árnyékokat vet, amelyek tökéletesek a fotózáshoz.",
+            "ro": "Explorați acest reper istoric izbitor care comemorează istoria locală; lumina după-amiezii aruncă umbre frumoase, perfecte pentru fotografie.",
+            "en": "Explore this striking historical landmark that commemorates local history; the afternoon light casts beautiful shadows perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Sentral Kota Lama",
+            "hu": "Pasar Sentral Kota Lama",
+            "ro": "Pasar Sentral Kota Lama",
+            "en": "Pasar Sentral Kota Lama"
+          },
+          "coords": [
+            122.578804,
+            -3.970876
+          ],
+          "category": "cultural",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt im geschäftigen Marktgebiet der Altstadt; das Parken kann eng werden, nutzen Sie daher die ausgewiesenen Parkplätze nahe dem Haupteingang.",
+            "hu": "Fejezze be a vezetést az óváros forgalmas piacánál; a parkolás nehézkes lehet, ezért használja a főbejárat közelében kijelölt parkolókat.",
+            "ro": "Încheiați-vă călătoria în zona aglomerată a pieței din orașul vechi; parcarea poate fi dificilă, așa că utilizați locurile desemnate de lângă intrarea principală.",
+            "en": "Conclude your drive in the old town's busy market area; parking can be tight, so use the designated lots near the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die südlichen Vororte für einen authentischen Morgen am Pasar Andunouho, gefolgt von einem friedlichen Besuch der Masjid Nurul Muhajirin. Diese Stopps bieten ein authentisches Gefühl.\nFahren Sie ins Stadtzentrum, um das Museum Negeri zu erkunden, wo die reiche Geschichte und ethnische Vielfalt von Südost-Sulawesi stolz präsentiert werden.\nVerbringen Sie Ihren Nachmittag damit, den monumentalen Tugu Religi Sultra und Tugu Menara zu entdecken. Diese Wahrzeichen feiern kulturelle Harmonie und regionale Identität.\nFahren Sie in das historische Viertel, um den energiegeladenen Pasar Sentral Kota Lama zu erleben. Gegen Abend bieten die Straßen einen fantastischen Abschluss Ihrer Tour durch Kendari.",
+        "hu": "Vezessen a déli külvárosokba egy autentikus délelőttért a Pasar Andunouho-ban, amelyet a Masjid Nurul Muhajirin békés látogatása követ. Ezek az állomások valódi ízelítőt nyújtanak a városból.\nIrány a városközpont, hogy felfedezze a Museum Negeri-t, ahol Délkelet-Szulavézi gazdag történelme és etnikai sokszínűsége büszkén jelenik meg.\nTöltse a délutánt a monumentális Tugu Religi Sultra és a Tugu Menara felfedezésével. Ezek a nevezetességek büszkén ünneplik a kulturális harmóniát és a regionális identitást.\nVezessen a történelmi negyedbe, hogy megtapasztalja az energikus Pasar Sentral Kota Lama-t. Az est közeledtével a nyüzsgő kereskedelmi utcák fantasztikus érzékszervi élménnyel zárják a túrát.",
+        "ro": "Conduceți spre suburbiile sudice pentru o dimineață la Pasar Andunouho, urmată de o vizită pașnică la Masjid Nurul Muhajirin. Aceste prime opriri oferă o senzație autentică pentru comunitate.\nÎndreptați-vă spre centrul orașului pentru a explora Muzeul Negeri, unde istoria bogată și diversitatea etnică a regiunii sunt expuse cu mândrie. Expozițiile oferă perspective profunde.\nPetreceți-vă după-amiaza descoperind monumentalul Tugu Religi Sultra și Tugu Menara. Aceste repere celebrează armonia culturală și identitatea regională, înconjurate de piețe expansive.\nConduceți în cartierul istoric pentru a experimenta Pasar Sentral Kota Lama. Pe măsură ce se apropie seara, străzile comerciale oferă un final fantastic și senzorial turului cu mașina.",
+        "en": "Drive to the southern suburbs for an authentic morning at Pasar Andunouho, followed by a peaceful visit to Masjid Nurul Muhajirin. These initial stops offer a genuine feel for Kendari's vibrant community.\nHead to the city center to explore the Museum Negeri, where the rich history and ethnic diversity of Southeast Sulawesi are proudly displayed. The well-curated exhibits provide deep insights.\nSpend your afternoon discovering the monumental Tugu Religi Sultra and Tugu Menara. These landmarks proudly celebrate cultural harmony and regional identity, surrounded by expansive plazas.\nDrive to the historic quarter to experience the energetic Pasar Sentral Kota Lama. As evening approaches, the bustling trading streets offer a fantastic sensory end to your comprehensive driving tour."
+      }
+    }
+  }
+}

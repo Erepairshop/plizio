@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-azpeitia-cities-v2",
+  "anchor": {
+    "name": "Azpeitia",
+    "coords": [
+      -2.265278,
+      43.181944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sanagustin kulturgunea",
+            "hu": "Sanagustin kulturgunea",
+            "ro": "Sanagustin kulturgunea",
+            "en": "Sanagustin kulturgunea"
+          },
+          "coords": [
+            -2.265877,
+            43.18394
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in diesem lebendigen Kulturzentrum in einer ehemaligen Kirche, um lokale Kunst zu bewundern, und prüfen Sie das Programm für abendliche Veranstaltungen.",
+            "hu": "Kezdje a napot ebben a vibráló kulturális központban, amely egy egykori templomban kapott helyet, és érdemes megnézni a helyi művészeti kiállításokat és az esti programokat.",
+            "ro": "Începeți ziua în acest centru cultural vibrant, situat într-o fostă biserică, pentru a admira arta locală, și verificați programul pentru evenimentele de seară.",
+            "en": "Start your day at this vibrant cultural center housed in a former church to admire local art, and be sure to check their schedule for upcoming evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinamoa sormen gunea",
+            "hu": "Dinamoa sormen gunea",
+            "ro": "Dinamoa sormen gunea",
+            "en": "Dinamoa sormen gunea"
+          },
+          "coords": [
+            -2.264162,
+            43.186153
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen innovativen Raum für kreatives Schaffen, wo lokale Künstler arbeiten, und nehmen Sie sich Zeit für einen kurzen Rundgang durch die offenen Werkstätten.",
+            "hu": "Fedezze fel ezt az innovatív alkotóteret, ahol helyi művészek dolgoznak, és szánjon időt egy rövid sétára a nyitott műhelyek és érdekes projektek között.",
+            "ro": "Descoperiți acest spațiu inovator de creație unde lucrează artiști locali și alocați-vă timp pentru un scurt tur al atelierelor deschise fascinante.",
+            "en": "Discover this innovative creative space where local artists work, and take your time for a short tour through the open workshops and fascinating projects."
+          }
+        },
+        {
+          "name": {
+            "de": "Tren Museoa",
+            "hu": "Tren Museoa",
+            "ro": "Tren Museoa",
+            "en": "Tren Museoa"
+          },
+          "coords": [
+            -2.260939,
+            43.184188
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der baskischen Eisenbahnen ein und bestaunen Sie die beeindruckende Sammlung alter Lokomotiven, idealerweise bei einer Fahrt mit dem Dampfzug.",
+            "hu": "Merüljön el a baszk vasutak történelmében a régi mozdonyok lenyűgöző gyűjteményének megtekintésével, és ha teheti, próbálja ki a nosztalgia gőzöst is.",
+            "ro": "Pătrundeți în istoria căilor ferate basce admirând colecția impresionantă de locomotive vechi și, dacă este posibil, bucurați-vă de o plimbare cu trenul cu aburi.",
+            "en": "Delve into the history of Basque railways by marveling at the impressive collection of old locomotives, and ideally hop on the steam train for a nostalgic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Azpeitiko Zezenplaza",
+            "hu": "Azpeitiko Zezenplaza",
+            "ro": "Azpeitiko Zezenplaza",
+            "en": "Azpeitiko Zezenplaza"
+          },
+          "coords": [
+            -2.26337,
+            43.18164
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Stierkampfarena, die für ihre traditionelle Architektur bekannt ist, und achten Sie auf die kunstvollen Details an den Haupttoren.",
+            "hu": "Tekintse meg ezt a hagyományos építészetéről ismert történelmi bikaviadal-arénát, és figyelje meg a főkapuk lenyűgöző, művészi részleteit.",
+            "ro": "Vizitați această arenă istorică de coride, cunoscută pentru arhitectura sa tradițională, și acordați atenție detaliilor artistice impresionante de la porțile principale.",
+            "en": "Visit this historic bullring known for its traditional architecture, and pay close attention to the intricate artistic details adorning its main gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskusta",
+            "hu": "Eskusta",
+            "ro": "Eskusta",
+            "en": "Eskusta"
+          },
+          "coords": [
+            -2.258972,
+            43.190844
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem historischen Wahrzeichen, das einen Einblick in die Vergangenheit der Region bietet, und genießen Sie die ruhige Atmosphäre der Umgebung.",
+            "hu": "Fejezze be a sétát ennél a történelmi nevezetességnél, amely bepillantást enged a régió múltjába, és élvezze a környék békés, nyugodt hangulatát.",
+            "ro": "Încheiați-vă plimbarea la acest punct de reper istoric, care oferă o privire în trecutul regiunii, și bucurați-vă de atmosfera liniștită a împrejurimilor.",
+            "en": "Conclude your walk at this historic landmark offering a glimpse into the region's past, and take a moment to enjoy the peaceful atmosphere of the surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Azpeitia, wo historische Architektur auf moderne baskische Kultur trifft. Genießen Sie die kreative Atmosphäre in den umgebauten Kulturzentren. Nachmittags tauchen Sie im Eisenbahnmuseum in die industrielle Vergangenheit der Region ein. Der Abend endet an einem ruhigen historischen Wahrzeichen, das einen perfekten Abschluss bietet.",
+        "hu": "A napja Azpeitia szívében kezdődik, ahol a történelmi építészet a modern baszk kultúrával találkozik. Élvezze a kreatív légkört az átalakított kulturális központokban. Délután a vasútmúzeumban elmerülhet a régió ipari múltjában. Az estét egy békés történelmi nevezetességnél zárja, amely tökéletes befejezése a napnak.",
+        "ro": "Ziua dumneavoastră începe în inima orașului Azpeitia, unde arhitectura istorică întâlnește cultura bască modernă. Bucurați-vă de atmosfera creativă în centrele culturale transformate. După-amiaza, pătrundeți în trecutul industrial al regiunii la muzeul căilor ferate. Seara se încheie la un punct de reper istoric pașnic, oferind o concluzie perfectă.",
+        "en": "Your day begins in the heart of Azpeitia, where historic architecture meets modern Basque culture. Enjoy the creative atmosphere in the transformed cultural centers. In the afternoon, dive into the region's industrial past at the railway museum. The evening concludes at a peaceful historic landmark, offering a perfect and relaxing finish."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Azpeitiko Zezenplaza",
+            "hu": "Azpeitiko Zezenplaza",
+            "ro": "Azpeitiko Zezenplaza",
+            "en": "Azpeitiko Zezenplaza"
+          },
+          "coords": [
+            -2.26337,
+            43.18164
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an der Stierkampfarena, um die traditionelle Bauweise zu bewundern, bevor Sie in Richtung Zentrum radeln.",
+            "hu": "Kezdje kerékpártúráját a bikaviadal-arénánál, hogy megcsodálja a hagyományos építészetet, mielőtt a belváros felé venné az irányt.",
+            "ro": "Începeți turul cu bicicleta la arena de coride pentru a admira arhitectura tradițională înainte de a pedala spre centrul orașului.",
+            "en": "Start your bike tour at the historic bullring to admire its traditional architecture before pedaling towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanagustin kulturgunea",
+            "hu": "Sanagustin kulturgunea",
+            "ro": "Sanagustin kulturgunea",
+            "en": "Sanagustin kulturgunea"
+          },
+          "coords": [
+            -2.265877,
+            43.18394
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem Kulturzentrum in einer ehemaligen Kirche, um die einzigartige Kombination aus historischen Mauern und moderner Kunst zu sehen.",
+            "hu": "Tartson egy rövid pihenőt ennél az egykori templomban működő kulturális központnál, hogy lássa a történelmi falak és a modern művészet egyedi ötvözetét.",
+            "ro": "Faceți o scurtă oprire la acest centru cultural dintr-o fostă biserică pentru a vedea combinația unică de ziduri istorice și artă modernă.",
+            "en": "Make a short stop at this cultural center inside a former church to witness the unique combination of historic walls and modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Tren Museoa",
+            "hu": "Tren Museoa",
+            "ro": "Tren Museoa",
+            "en": "Tren Museoa"
+          },
+          "coords": [
+            -2.260939,
+            43.184188
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Welt der Eisenbahnen in diesem großartigen Museum und nutzen Sie die Gelegenheit, authentische Dampflokomotiven aus der Nähe zu betrachten.",
+            "hu": "Fedezze fel a vasutak lenyűgöző világát ebben a nagyszerű múzeumban, és használja ki a lehetőséget, hogy testközelből is megnézze az autentikus gőzmozdonyokat.",
+            "ro": "Explorați lumea fascinantă a căilor ferate în acest muzeu excelent și profitați de ocazie pentru a vedea îndeaproape locomotive cu aburi autentice.",
+            "en": "Explore the fascinating world of railways in this excellent museum, and take the opportunity to see authentic steam locomotives up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekomuseoa",
+            "hu": "Ekomuseoa",
+            "ro": "Ekomuseoa",
+            "en": "Ekomuseoa"
+          },
+          "coords": [
+            -2.277333,
+            43.175745
+          ],
+          "category": "museum",
+          "arrive_at": "12:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Ökomuseum mehr über das traditionelle Landleben und die baskische Natur, indem Sie sich Zeit für die interaktiven Exponate nehmen.",
+            "hu": "Tudjon meg többet a hagyományos vidéki életről és a baszk természetről az ökomúzeumban, és szánjon időt az interaktív kiállítási tárgyak felfedezésére.",
+            "ro": "Aflați mai multe despre viața rurală tradițională și natura bască la ecomuzeu, acordându-vă timp pentru a interacționa cu exponatele.",
+            "en": "Learn more about traditional rural life and Basque nature at the ecomuseum by taking your time to engage with the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiolako Basilika",
+            "hu": "Loiolako Basilika",
+            "ro": "Loiolako Basilika",
+            "en": "Loiolako Basilika"
+          },
+          "coords": [
+            -2.28281,
+            43.174277
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Architektur dieser monumentalen Basilika, die dem Heiligen Ignatius gewidmet ist, und betreten Sie das prachtvolle Innere.",
+            "hu": "Csodálja meg ennek a Loyolai Szent Ignácnak szentelt monumentális bazilikának a lenyűgöző barokk építészetét, és mindenképpen lépjen be a díszes belső térbe.",
+            "ro": "Admirați impresionanta arhitectură barocă a acestei bazilici monumentale dedicate Sfântului Ignațiu și asigurați-vă că pășiți în interiorul grandios.",
+            "en": "Admire the impressive Baroque architecture of this monumental basilica dedicated to Saint Ignatius, and make sure to step inside the magnificent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Ugarteigaran",
+            "hu": "Ugarteigaran",
+            "ro": "Ugarteigaran",
+            "en": "Ugarteigaran"
+          },
+          "coords": [
+            -2.302827,
+            43.176149
+          ],
+          "category": "recreational",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrer Radtour in diesem Erholungsgebiet am Flussufer, das sich perfekt für ein ruhiges Picknick im Grünen eignet.",
+            "hu": "Kerékpártúrája után pihenjen meg ebben a folyóparti rekreációs övezetben, amely tökéletes helyszínt biztosít egy nyugodt, zöldövezeti piknikhez.",
+            "ro": "Relaxați-vă după plimbarea cu bicicleta în această zonă de recreere pe malul râului, care este perfectă pentru un picnic liniștit în natură.",
+            "en": "Relax after your bike ride in this riverside recreational area, which provides the perfect setting for a peaceful picnic surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Azpeitia flexibel und dynamisch. Der Vormittag bietet eine reizvolle Mischung aus kulturellen Highlights und beeindruckenden Zügen. Mittags führt Sie die Route zum majestätischen Ignatius-Heiligtum, einem architektonischen Meisterwerk. Schließlich entspannen Sie sich in einem grünen Erholungsgebiet am malerischen Flussufer.",
+        "hu": "Kerékpárral rugalmasan és dinamikusan fedezheti fel Azpeitiát. A délelőtt a kulturális látnivalók és a lenyűgöző vonatok izgalmas keverékét kínálja. Délben az útvonal a fenséges Ignác-szentélyhez, egy igazi építészeti remekműhöz vezet. Végül egy zöld rekreációs területen pihenhet meg a festői folyópart mentén.",
+        "ro": "Cu bicicleta explorați Azpeitia într-un mod flexibil și dinamic. Dimineața oferă un amestec încântător de atracții culturale și trenuri impresionante. La prânz, traseul vă duce la sanctuarul maiestuos al lui Ignațiu, o capodoperă arhitecturală. În cele din urmă, vă relaxați într-o zonă verde de recreere de-a lungul malului pitoresc al râului.",
+        "en": "By bike, you can explore Azpeitia flexibly and dynamically. The morning offers a delightful mix of cultural highlights and impressive historic trains. At midday, your route leads to the majestic sanctuary of Saint Ignatius, a true architectural masterpiece. Finally, you can relax in a green recreational area along the picturesque riverbank."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tren Museoa",
+            "hu": "Tren Museoa",
+            "ro": "Tren Museoa",
+            "en": "Tren Museoa"
+          },
+          "coords": [
+            -2.260939,
+            43.184188
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Besuch des Eisenbahnmuseums, um historische baskische Züge zu bewundern, und parken Sie bequem in der Nähe des Eingangs.",
+            "hu": "Kezdje a napot a vasútmúzeum meglátogatásával, hogy megcsodálja a történelmi baszk vonatokat, és parkoljon kényelmesen a bejárat közelében.",
+            "ro": "Începeți-vă ziua vizitând muzeul căilor ferate pentru a admira trenurile istorice basce și parcați convenabil aproape de intrare.",
+            "en": "Start your day by visiting the railway museum to admire historical Basque trains, and park your car conveniently close to the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiolako Basilika",
+            "hu": "Loiolako Basilika",
+            "ro": "Loiolako Basilika",
+            "en": "Loiolako Basilika"
+          },
+          "coords": [
+            -2.28281,
+            43.174277
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser majestätischen Barockbasilika, dem Geburtsort von Ignatius von Loyola, und nehmen Sie sich Zeit für den imposanten Kuppelbau.",
+            "hu": "Vezessen el ehhez a fenséges barokk bazilikához, Loyolai Szent Ignác szülőhelyéhez, és szánjon időt az impozáns kupola megcsodálására.",
+            "ro": "Conduceți către această bazilică barocă maiestuoasă, locul de naștere al lui Ignațiu de Loyola, și alocați-vă timp pentru a admira cupola impunătoare.",
+            "en": "Drive to this majestic Baroque basilica, the birthplace of Ignatius of Loyola, and take your time to marvel at its imposing dome structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Ugarteigaran",
+            "hu": "Ugarteigaran",
+            "ro": "Ugarteigaran",
+            "en": "Ugarteigaran"
+          },
+          "coords": [
+            -2.302827,
+            43.176149
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Legen Sie eine entspannte Pause in diesem Naturgebiet ein, ideal für einen kurzen Spaziergang oder ein kleines Picknick abseits des Stadttrubels.",
+            "hu": "Tartson egy pihentető szünetet ezen a természeti területen, amely ideális egy rövid sétához vagy egy kis piknikhez, távol a város zajától.",
+            "ro": "Faceți o pauză relaxantă în această zonă naturală, ideală pentru o scurtă plimbare sau un mic picnic departe de agitația orașului.",
+            "en": "Take a relaxing break in this natural area, which is ideal for a short walk or a small picnic away from the hustle and bustle of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiolako San Inazioren estatua",
+            "hu": "Loiolako San Inazioren estatua",
+            "ro": "Loiolako San Inazioren estatua",
+            "en": "Loiolako San Inazioren estatua"
+          },
+          "coords": [
+            -2.284559,
+            43.198494
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Denkmal zu Ehren des Heiligen Ignatius an, um die feinen Details der Statue und die umliegende Landschaft zu fotografieren.",
+            "hu": "Álljon meg ennél a Szent Ignác tiszteletére emelt történelmi emlékműnél, hogy lefotózza a szobor finom részleteit és a környező tájat.",
+            "ro": "Opriți la acest monument istoric în onoarea Sfântului Ignațiu pentru a fotografia detaliile fine ale statuii și peisajul înconjurător.",
+            "en": "Stop at this historical monument in honor of Saint Ignatius to photograph the fine details of the statue and the beautiful surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Eskusta",
+            "hu": "Eskusta",
+            "ro": "Eskusta",
+            "en": "Eskusta"
+          },
+          "coords": [
+            -2.258972,
+            43.190844
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zu dieser historischen Stätte, die alte baskische Traditionen widerspiegelt, und erkunden Sie die gut erhaltenen Strukturen des Komplexes.",
+            "hu": "Haladjon tovább ehhez a történelmi helyszínhez, amely a régi baszk hagyományokat tükrözi, és fedezze fel a komplexum jól megőrzött építményeit.",
+            "ro": "Conduceți mai departe către acest sit istoric, care reflectă vechile tradiții basce, și explorați structurile bine conservate ale complexului.",
+            "en": "Drive further to this historical site reflecting old Basque traditions, and take time to explore the well-preserved structures of the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Arauntza",
+            "hu": "Arauntza",
+            "ro": "Arauntza",
+            "en": "Arauntza"
+          },
+          "coords": [
+            -2.243574,
+            43.192319
+          ],
+          "category": "natural",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem weitläufigen Naturgebiet ausklingen, wo Sie bei einem Spaziergang die frische Luft und die tolle Aussicht genießen können.",
+            "hu": "Zárja a napot ezen a kiterjedt természeti területen, ahol egy séta keretében élvezheti a friss levegőt és a nagyszerű kilátást.",
+            "ro": "Încheiați ziua în această zonă naturală extinsă, unde vă puteți bucura de aer curat și de priveliști minunate în timpul unei plimbări.",
+            "en": "End your day in this expansive natural area, where you can enjoy the fresh air and stunning views during a late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht Ihnen eine bequeme Reise zu den wichtigsten Sehenswürdigkeiten rund um Azpeitia. Morgens entdecken Sie spannende Museen und barocke Architektur. Nach einem entspannten Nachmittag an historischen Denkmälern fahren Sie weiter in die Natur. Der Tag endet friedlich in der malerischen Umgebung von Arauntza fernab des Stadtzentrums.",
+        "hu": "Az autó kényelmes utazást tesz lehetővé Azpeitia legfontosabb látnivalóihoz. Reggel izgalmas múzeumokat és lenyűgöző barokk építészetet fedezhet fel. Egy történelmi emlékműveknél eltöltött pihentető délután után továbbhajt a természetbe. A nap békésen ér véget Arauntza festői környezetében, távol a nyüzsgő városközponttól.",
+        "ro": "Mașina vă permite o călătorie confortabilă către principalele atracții din jurul orașului Azpeitia. Dimineața veți descoperi muzee fascinante și arhitectură barocă. După o după-amiază relaxantă explorând monumente istorice, conduceți mai departe în natură. Ziua se termină pașnic în împrejurimile pitorești din Arauntza, departe de centrul orașului.",
+        "en": "The car allows for a comfortable journey to the main attractions around Azpeitia. In the morning, you will discover fascinating museums and stunning Baroque architecture. After a relaxing afternoon exploring historical monuments, you drive further into nature. The day ends peacefully in the picturesque surroundings of Arauntza, away from the bustling city center."
+      }
+    }
+  }
+}

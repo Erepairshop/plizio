@@ -1,0 +1,405 @@
+{
+  "city_id": "spain-cazorla-cities-v2",
+  "anchor": {
+    "name": "Cazorla",
+    "coords": [
+      -3.004084,
+      37.913636
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 0.51,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Cazorla",
+            "hu": "Ayuntamiento de Cazorla",
+            "ro": "Ayuntamiento de Cazorla",
+            "en": "Ayuntamiento de Cazorla"
+          },
+          "coords": [
+            -3.001855,
+            37.910822
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses im Zentrum von Cazorla und holen Sie sich im Touristenbüro eine lokale Karte.",
+            "hu": "Csodálja meg a történelmi városháza klasszikus építészetét Cazorla szívében, és térjen be a közeli turisztikai irodába egy részletes helyi térképért.",
+            "ro": "Admirați arhitectura clasică a acestei primării istorice din centrul orașului Cazorla și treceți pe la biroul de turism pentru o hartă locală detaliată.",
+            "en": "Admire the classic architecture of this historic town hall in the heart of Cazorla, and pop into the nearby tourist office for a detailed local map."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcón del Pintor Zabaleta",
+            "hu": "Balcón del Pintor Zabaleta",
+            "ro": "Balcón del Pintor Zabaleta",
+            "en": "Balcón del Pintor Zabaleta"
+          },
+          "coords": [
+            -3.001673,
+            37.909841
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das weiße Dorf von diesem malerischen Balkon, der am besten im sanften Morgenlicht fotografiert wird.",
+            "hu": "Élvezze a lélegzetelállító panorámát a fehérre meszelt falura erről a festői erkélyről, amelyet a legjobb a lágy reggeli fényben lencsevégre kapni.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra satului alb de pe acest balcon pitoresc, cel mai bine fotografiat în lumina blândă a dimineții.",
+            "en": "Enjoy breathtaking panoramic views of the whitewashed village from this picturesque balcony, best photographed in the soft morning light before crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Temático de Especies Amenazadas",
+            "hu": "Centro Temático de Especies Amenazadas",
+            "ro": "Centro Temático de Especies Amenazadas",
+            "en": "Centro Temático de Especies Amenazadas"
+          },
+          "coords": [
+            -3.000604,
+            37.90933
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Tierwelt und den Naturschutz in diesem spannenden Museum, in dem interaktive Ausstellungen Familien begeistern.",
+            "hu": "Fedezze fel a régió változatos vadvilágát és a természetvédelmi erőfeszítéseket ebben az izgalmas múzeumban, ahol az interaktív kiállítások lekötik a családokat.",
+            "ro": "Descoperiți fauna diversă și eforturile de conservare în acest muzeu captivant, unde expozițiile interactive îl fac extrem de educativ pentru familii.",
+            "en": "Discover the region's diverse wildlife and conservation efforts in this engaging museum, where interactive exhibits make it highly educational for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Bóveda del río Cerezuelo",
+            "hu": "Bóveda del río Cerezuelo",
+            "ro": "Bóveda del río Cerezuelo",
+            "en": "Bóveda del río Cerezuelo"
+          },
+          "coords": [
+            -2.999783,
+            37.907941
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses faszinierende Steingewölbe über dem sprudelnden Fluss und tragen Sie festes Schuhwerk, um den feuchten Tunnel sicher zu durchqueren.",
+            "hu": "Sétáljon át ezen a lenyűgöző, csobogó folyó fölé épült kőboltozaton, és viseljen masszív cipőt a nedves, hangulatos alagút biztonságos bejárásához.",
+            "ro": "Plimbați-vă prin această boltă de piatră fascinantă construită peste râul învolburat și purtați încălțăminte solidă pentru a naviga în siguranță tunelul umed.",
+            "en": "Walk through this fascinating stone vault built seamlessly over the bubbling river, and wear sturdy shoes to navigate the damp, atmospheric tunnel safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de la Yedra",
+            "hu": "Castillo de la Yedra",
+            "ro": "Castillo de la Yedra",
+            "en": "Castillo de la Yedra"
+          },
+          "coords": [
+            -3.001131,
+            37.907841
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser gut erhaltenen maurischen Festung hinauf, um die historischen Ausstellungen zu erkunden, und seien Sie auf einen steilen Aufstieg gefasst.",
+            "hu": "Másszon fel ebbe a jól megőrzött mór erődbe a történelmi kiállítások felfedezéséhez, és készüljön fel egy meredek emelkedőre, amely lenyűgöző kilátást nyújt.",
+            "ro": "Urcați la această fortăreață maură bine conservată pentru a-i explora expozițiile istorice și fiți pregătiți pentru o urcare abruptă cu vederi uimitoare.",
+            "en": "Climb up to this well-preserved Moorish fortress to explore its historical exhibits, and be prepared for a steep ascent that rewards with stunning valley vistas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Aufnahme der bürgerlichen Atmosphäre am großen Rathaus. Die historischen Straßen erwachen langsam zum Leben, während Sie sich zu den nahe gelegenen Aussichtspunkten begeben.\n\nGegen Mittag führt Ihre Reise zum engagierten Wildtiermuseum. Hier erhalten Sie entscheidenden Kontext über den umliegenden Naturpark, bevor Sie Ihre Erkundung fortsetzen.\n\nAm Nachmittag entdecken Sie das faszinierende Steingewölbe, das sich über den Fluss spannt. Diese bemerkenswerte technische Leistung ebnet den Weg für das Verteidigungserbe der Stadt.\n\nBeenden Sie den Tag an der ikonischen Festung, die das gesamte Tal überblickt. Die dramatischen Nachmittagsschatten über der Landschaft werden unvergessliche Erinnerungen schaffen.",
+        "hu": "Kezdje a reggelt a nagyszerű városháza polgári hangulatának magába szívásával. A történelmi utcák lassan életre kelnek, ahogy a közeli festői kilátók felé veszi az irányt.\n\nDélben útja az elkötelezett vadvilág múzeumhoz vezet. Itt döntő kontextust kap a környező természeti parkról, mielőtt folytatná a felfedezést.\n\nDélután fedezze fel a folyó felett átívelő lenyűgöző kőboltozatot. Ez a figyelemre méltó mérnöki teljesítmény tökéletesen kikövezi az utat a város védelmi örökségéhez.\n\nZárja a napot az ikonikus erődnél, amely az egész völgyre néz. A tájra vetülő drámai délutáni árnyékok felejthetetlen végső emlékeket nyújtanak.",
+        "ro": "Începeți-vă dimineața absorbind atmosfera civică de la marea primărie. Străzile istorice vor prinde încet viață pe măsură ce vă îndreptați spre punctele de belvedere panoramice din apropiere.\n\nLa prânz, călătoria dumneavoastră duce la muzeul dedicat faunei sălbatice. Aici veți obține un context crucial despre parcul natural înconjurător înainte de explorare.\n\nDupă-amiaza, descoperiți bolta fascinantă de piatră care se întinde peste râu. Această remarcabilă realizare inginerească deschide calea perfect pentru moștenirea defensivă a orașului.\n\nÎncheiați ziua la fortăreața iconică cu vedere la întreaga vale. Umbrele dramatice ale după-amiezii aruncate peste peisaj vor oferi amintiri finale de neuitat.",
+        "en": "Start your morning absorbing the civic atmosphere at the grand town hall. The historic streets will slowly come to life as you make your way towards the scenic viewpoints nearby.\n\nBy midday, your journey leads to the dedicated wildlife museum. Here you'll gain crucial context about the surrounding natural park before continuing your exploration.\n\nIn the afternoon, discover the intriguing stone vault stretching over the river. This remarkable engineering feat paves the way perfectly for the town's defensive legacy.\n\nConclude the day at the iconic fortress overlooking the entire valley. The dramatic afternoon shadows cast over the landscape will provide unforgettable final memories."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 1.72,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tren Turístico",
+            "hu": "Tren Turístico",
+            "ro": "Tren Turístico",
+            "en": "Tren Turístico"
+          },
+          "coords": [
+            -3.002744,
+            37.912844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Fahrt mit dem charmanten Touristenzug, um die wichtigsten Sehenswürdigkeiten bequem zu erkunden und die hügelige Stadt kennenzulernen.",
+            "hu": "Tegyen egy pihentető utazást ezzel a bájos turistavonattal a főbb nevezetességek kényelmes felfedezéséhez, ami tökéletes bevezetés a dombos városba.",
+            "ro": "Faceți o plimbare relaxantă cu acest trenuleț turistic fermecător pentru a vedea cu ușurință principalele repere, o introducere perfectă în orașul deluros.",
+            "en": "Take a relaxing ride on this charming tourist train to easily survey the major landmarks, making it a perfect gentle introduction to the town's hilly terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Conservatorio de Música Maestro Paterna",
+            "hu": "Conservatorio de Música Maestro Paterna",
+            "ro": "Conservatorio de Música Maestro Paterna",
+            "en": "Conservatorio de Música Maestro Paterna"
+          },
+          "coords": [
+            -3.001515,
+            37.911856
+          ],
+          "category": "cultural",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz dieses lebendigen Musikkonservatoriums und achten Sie auf spontane klassische Aufführungen im Innenhof.",
+            "hu": "Értékelje e nyüzsgő zenei konzervatórium építészeti eleganciáját, és nézze meg a helyi programot az udvaron tartott rögtönzött klasszikus előadásokért.",
+            "ro": "Apreciați eleganța arhitecturală a acestui conservator de muzică vibrant și verificați programul local pentru spectacole clasice improvizate în curte.",
+            "en": "Appreciate the architectural elegance of this vibrant music conservatory, and check the local schedule for impromptu classical performances in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Merenderos de Cazorla",
+            "hu": "Merenderos de Cazorla",
+            "ro": "Merenderos de Cazorla",
+            "en": "Merenderos de Cazorla"
+          },
+          "coords": [
+            -2.995963,
+            37.912483
+          ],
+          "category": "natural",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Packen Sie lokale Oliven und Käse ein, um an diesen schattigen Picknickplätzen inmitten unberührter Natur eine friedliche Auszeit vom Stadtzentrum zu genießen.",
+            "hu": "Csomagoljon helyi olajbogyót és sajtot, és élvezze ezeket az érintetlen természet által körülvett, árnyékos piknikezőhelyeket, amelyek békés menedéket nyújtanak.",
+            "ro": "Împachetați măsline și brânză locală pentru a vă bucura de aceste locuri de picnic umbrite din mijlocul naturii, o retragere liniștită departe de centru.",
+            "en": "Pack some local olives and cheese to enjoy at these shaded picnic spots surrounded by pristine nature, offering a peaceful retreat away from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Torreón La Atalaya",
+            "hu": "Torreón La Atalaya",
+            "ro": "Torreón La Atalaya",
+            "en": "Torreón La Atalaya"
+          },
+          "coords": [
+            -2.990948,
+            37.918887
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser alten Wachturmruine, um ihre reiche Verteidigungsgeschichte zu entdecken, und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Túrázzon fel ehhez az ősi őrtorony romhoz, hogy felfedezze gazdag védelmi történelmét, és időzítse látogatását késő délutánra, amikor a kövek ragyognak.",
+            "ro": "Urcați la această ruină antică a turnului de veghe pentru a-i descoperi istoria defensivă și vizitați-o după-amiaza târziu când piatra strălucește.",
+            "en": "Hike up to this ancient watchtower ruin to uncover its rich defensive history, and time your visit for late afternoon when the stonework glows remarkably."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Torre del Reloj",
+            "ro": "Torre del Reloj",
+            "en": "Torre del Reloj"
+          },
+          "coords": [
+            -2.992805,
+            37.920799
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Renaissance-Uhrturm, der den Platz dominiert, und lauschen Sie den Glocken, die durch die engen Gassen hallen.",
+            "hu": "Álljon meg e lenyűgöző reneszánsz óratorony előtt, amely uralja a teret, és szánjon egy pillanatot arra, hogy meghallgassa a szűk utcákon visszhangzó harangokat.",
+            "ro": "Stați în fața acestui impresionant turn cu ceas renascentist care domină piața și ascultați pentru un moment clopotele răsunând pe străzile înguste.",
+            "en": "Stand before this impressive Renaissance clock tower which dominates the square, and take a moment to listen to the bells echoing through the narrow streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie sanft mit einem Blick auf die Route des Touristenzuges, bevor Sie in Richtung des musikalischen Herzens der Stadt radeln. Die frische Luft sorgt für eine erfrischende morgendliche Fahrt.\n\nFahren Sie gegen Mittag leicht bergauf, um die ruhigen Picknickplätze zu erreichen. Umgeben von Natur ist es der perfekte Ort, um Ihre Beine auszuruhen und die reine Bergluft einzuatmen.\n\nDer nachmittägliche Aufstieg führt Sie zu den alten Wachturmruinen. Von diesem erhöhten Aussichtspunkt belohnt der weite Blick auf die historische Stadt Ihre Fahrradmühen.\n\nBeenden Sie Ihre Route in der Nähe des beeindruckenden Uhrturms. Seine läutenden Glocken sind ein triumphaler Abschluss eines aktiven und kulturell bereichernden Tages.",
+        "hu": "Kezdje lágyan a turistavonat útvonalának megtekintésével, mielőtt a város zenei szíve felé pedálozna. A friss levegő frissítő reggeli utazást tesz lehetővé.\n\nDélben merészkedjen kissé felfelé, hogy elérje a békés piknikezőhelyeket. A természettel körülvéve tökéletes hely a lábak pihentetésére és a tiszta hegyi levegő belélegzésére.\n\nA délutáni emelkedő megismerteti az ősi őrtorony romjaival. Ebből a megemelt kilátóból a történelmi városra nyíló pazar kilátás megjutalmazza a kerékpáros erőfeszítéseket.\n\nFejezze be útját a lenyűgöző óratorony közelében. A kongó harangok diadalmas lezárást nyújtanak egy aktív és kulturálisan gazdagító napnak a dombos vidéken.",
+        "ro": "Începeți ușor cu o privire asupra traseului trenului turistic înainte de a pedala spre inima muzicală a orașului. Aerul curat oferă o plimbare revigorantă de dimineață.\n\nUrcați ușor la prânz pentru a ajunge la zonele pașnice de picnic. Înconjurat de natură, este locul perfect pentru a vă odihni picioarele și a respira aerul pur de munte.\n\nUrcușul de după-amiază vă prezintă ruinele antice ale turnului de veghe. Din acest punct de observație ridicat, priveliștea asupra orașului istoric vă va răsplăti eforturile.\n\nTerminați-vă traseul lângă impresionantul turn cu ceas. Clopotele sale răsunătoare servesc ca o concluzie triumfătoare a unei zile active și pline de cultură.",
+        "en": "Embark on a gentle start with a look at the tourist train route before pedaling towards the musical heart of the town. The crisp air makes for a refreshing morning ride.\n\nVenture slightly uphill by midday to reach the peaceful picnic areas. Surrounded by nature, it is the perfect spot to rest your legs and breathe in the pure mountain air.\n\nThe afternoon climb introduces you to the ancient watchtower ruins. From this elevated vantage point, the sweeping views of the historic town will reward your cycling efforts.\n\nFinish your route near the impressive clock tower. Its ringing bells serve as a triumphant conclusion to an active and culturally enriching day traversing the hilly landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 5.91,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorio del Parque del Cristo del Consuelo",
+            "hu": "Auditorio del Parque del Cristo del Consuelo",
+            "ro": "Auditorio del Parque del Cristo del Consuelo",
+            "en": "Auditorio del Parque del Cristo del Consuelo"
+          },
+          "coords": [
+            -3.003943,
+            37.916111
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den üppigen Park zu diesem Freiluftauditorium, einem schönen kulturellen Zentrum, in dem im Sommer oft abendliche Proben stattfinden.",
+            "hu": "Sétáljon át a buja parkon, hogy megtalálja ezt a szabadtéri nézőteret, amely egy kedves kulturális központ, ahol nyáron gyakran elcsíphet esti próbákat.",
+            "ro": "Plimbați-vă prin parcul luxuriant pentru a găsi acest auditoriu în aer liber, un centru cultural minunat unde vara puteți surprinde repetiții seara.",
+            "en": "Stroll through the lush park to find this open-air auditorium, a lovely cultural hub where you can often catch evening rehearsals during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo Salvatierra",
+            "hu": "Castillo Salvatierra",
+            "ro": "Castillo Salvatierra",
+            "en": "Castillo Salvatierra"
+          },
+          "coords": [
+            -3.006787,
+            37.901054
+          ],
+          "category": "castle",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Ruinen dieser weniger bekannten mittelalterlichen Burg, die viel Geschichte bietet, aber seien Sie vorsichtig auf den felsigen Wegen.",
+            "hu": "Fedezze fel ennek a kevésbé ismert középkori várnak a zord romjait, amely mély történelmi hangulatot áraszt, de legyen óvatos a jelöletlen sziklás utakon.",
+            "ro": "Explorați ruinele aspre ale acestui castel medieval mai puțin cunoscut, care oferă un sentiment profund de istorie, dar fiți precauți pe cărările stâncoase.",
+            "en": "Explore the rugged ruins of this lesser-known medieval castle that offers a profound sense of history, but be cautious on the unmarked rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Riogazas",
+            "hu": "Mirador Riogazas",
+            "ro": "Mirador Riogazas",
+            "en": "Mirador Riogazas"
+          },
+          "coords": [
+            -2.996905,
+            37.894888
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem außergewöhnlichen natürlichen Aussichtspunkt, um weite Bergpanoramen zu bewundern, und bringen Sie ein Fernglas für die Adler mit.",
+            "hu": "Vezessen fel ehhez a kivételes természetes kilátóhoz a hegyek pazar panorámájáért, és hozzon magával távcsövet a tiszta égen szárnyaló sasok megfigyeléséhez.",
+            "ro": "Conduceți până la acest punct de belvedere natural excepțional pentru panorame uluitoare ale munților și aduceți binoclu pentru a observa vulturii.",
+            "en": "Drive up to this exceptional natural viewpoint to behold sweeping panoramas of the mountains, and bring binoculars to spot soaring eagles in the clear sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Reloj",
+            "hu": "Torre del Reloj",
+            "ro": "Torre del Reloj",
+            "en": "Torre del Reloj"
+          },
+          "coords": [
+            -2.992805,
+            37.920799
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.89,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Renaissance-Uhrturm, der den Platz dominiert, und lauschen Sie den Glocken, die durch die engen Gassen hallen.",
+            "hu": "Álljon meg e lenyűgöző reneszánsz óratorony előtt, amely uralja a teret, és szánjon egy pillanatot arra, hogy meghallgassa a szűk utcákon visszhangzó harangokat.",
+            "ro": "Stați în fața acestui impresionant turn cu ceas renascentist care domină piața și ascultați pentru un moment clopotele răsunând pe străzile înguste.",
+            "en": "Stand before this impressive Renaissance clock tower which dominates the square, and take a moment to listen to the bells echoing through the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de La Iruela",
+            "hu": "Castillo de La Iruela",
+            "ro": "Castillo de La Iruela",
+            "en": "Castillo de La Iruela"
+          },
+          "coords": [
+            -2.98989,
+            37.921026
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese dramatische Festung, die auf einer felsigen Formation thront, und bleiben Sie unbedingt für den magischen Sonnenuntergang über den alten Mauern.",
+            "hu": "Csodálja meg ezt a drámai erődöt, amely egy csipkézett sziklaképződményen magasodik, és mindenképpen maradjon a varázslatos naplementéig, amely megfesti a falakat.",
+            "ro": "Minunați-vă de această fortăreață dramatică cocoțată pe o formațiune stâncoasă și asigurați-vă că rămâneți pentru apusul magic care pictează zidurile antice.",
+            "en": "Marvel at this dramatic fortress perched precariously on a jagged rock formation, ensuring you stay for the magical sunset that paints the ancient walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie für einen ruhigen Morgenspaziergang zum angenehmen Park-Auditorium. Das Parken ist hier unkompliziert und bietet einen entspannten Start in den Tag.\n\nSetzen Sie Ihre Fahrt zu den mittelalterlichen Ruinen in der rauen Landschaft fort. Ein anschließender Stopp am Aussichtspunkt in den Bergen bietet unvergleichliche Panoramen.\n\nKehren Sie am Nachmittag näher ins Zentrum zurück, um vor dem großen Uhrturm zu stehen. Er bietet eine faszinierende historische Pause von den malerischen Fahrstrecken.\n\nKrönen Sie den Tag mit einer kurzen Fahrt zur spektakulären benachbarten Festung. Zu beobachten, wie der Sonnenuntergang seine goldenen Farben über die alten Steinmauern wirft, ist absolut magisch.",
+        "hu": "Vezessen el a kellemes parki nézőtérhez egy csendes reggeli sétára. A parkolás itt általában egyszerű, ami nyugodt alaphangot ad a régió felfedezéséhez.\n\nFolytassa útját a zord tájon megbúvó középkori romok felé. A hegyi kilátónál tett későbbi megálló páratlan panorámát kínál a hatalmas természeti környezetre.\n\nDélután térjen vissza a központhoz, hogy a grandiózus óratorony előtt álljon. Lenyűgöző történelmi szünetet biztosít a festői autós útvonalakból.\n\nKoronázza meg a napot egy rövid autóúttal a látványos szomszédos erődbe. Megnézni, ahogy a naplemente arany árnyalatot vet az ősi kőfalakra, varázslatos élmény.",
+        "ro": "Conduceți spre plăcutul auditoriu din parc pentru o plimbare liniștită dimineața. Parcarea este simplă aici, stabilind un ton relaxat pentru o zi de explorare.\n\nContinuați-vă drumul spre ruinele medievale cuibărite în peisajul accidentat. O oprire ulterioară la punctul de belvedere montan oferă panorame de neegalat.\n\nDupă-amiaza, întoarceți-vă mai aproape de centru pentru a sta în fața marelui turn cu ceas. Oferă o pauză istorică fascinantă de la rutele pitorești de conducere.\n\nÎncheiați ziua cu o scurtă plimbare cu mașina până la spectaculoasa fortăreață vecină. A privi cum apusul aruncă nuanțe aurii peste zidurile antice este o experiență magică.",
+        "en": "Drive out to the pleasant park auditorium for a quiet morning stroll. Parking is generally straightforward here, setting a relaxed tone for a day exploring the region's broader landmarks.\n\nContinue your drive towards the medieval ruins nestled in the rugged landscape. A subsequent stop at the mountain viewpoint offers unparalleled panoramas of the vast natural surroundings.\n\nBy the afternoon, return closer to the center to stand before the grand clock tower. It provides a fascinating historical break from the scenic driving routes.\n\nCap off the day with a short drive to the spectacular neighboring fortress. Watching the sunset cast its golden hue over the ancient stone walls is an absolutely magical experience."
+      }
+    }
+  }
+}

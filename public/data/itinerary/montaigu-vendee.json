@@ -1,0 +1,474 @@
+{
+  "city_id": "montaigu-vendee",
+  "anchor": {
+    "name": "Montaigu-Vendée",
+    "coords": [
+      -1.3136,
+      46.9742
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.46,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Montaigu",
+            "hu": "Château de Montaigu",
+            "ro": "Château de Montaigu",
+            "en": "Château de Montaigu"
+          },
+          "coords": [
+            -1.313726,
+            46.97403
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der mittelalterlichen Festung, die die Geschichte von Montaigu prägte, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a Montaigu történelmét formáló középkori erődítmény romantikus maradványait, és viseljen kényelmes cipőt az egyenetlen utakon az alapos bejáráshoz.",
+            "ro": "Descoperiți rămășițele fortăreței medievale care a modelat istoria localității Montaigu și purtați încălțăminte comodă pentru aleile ușor accidentate.",
+            "en": "Discover the remnants of the medieval fortress that shaped Montaigu's fascinating history, and make sure to wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -1.312078,
+            46.975949
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser zentralen Kirche, die ein Ort der Ruhe ist, und besuchen Sie sie am besten während der Vormittagsmesse.",
+            "hu": "Csodálja meg e központi fekvésű templom lenyűgöző építészetét, amely a béke szigete, és a legjobb élmény érdekében látogasson el ide a délelőtti órákban.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, un veritabil refugiu de liniște, și vizitați-o dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the impressive architecture of this central church, a true haven of peace, and try to visit during the morning hours to enjoy the quietest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des associations",
+            "hu": "Maison des associations",
+            "ro": "Maison des associations",
+            "en": "Maison des associations"
+          },
+          "coords": [
+            -1.316704,
+            46.979118
+          ],
+          "category": "castle",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschöne schlossartige Gebäude, das das kulturelle Leben der Stadt bereichert, und werfen Sie einen Blick auf die Veranstaltungstafeln.",
+            "hu": "Fedezze fel ezt a gyönyörű, kastélyszerű épületet, amely a város kulturális életének központja, és mindenképpen vesse vigyázó szemét az aktuális programtáblákra.",
+            "ro": "Explorați această clădire splendidă cu aspect de castel care îmbogățește viața culturală a orașului și verificați panourile cu evenimente pentru surprize.",
+            "en": "Explore this beautiful castle-like building that enriches the cultural life of the town, and make sure to check the event boards for any ongoing local exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Val d'Asson",
+            "hu": "Parc du Val d'Asson",
+            "ro": "Parc du Val d'Asson",
+            "en": "Parc du Val d'Asson"
+          },
+          "coords": [
+            -1.307532,
+            46.974885
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Park, der grüne Erholung mitten in der Stadt bietet, und bringen Sie eine Picknickdecke für eine entspannte Pause mit.",
+            "hu": "Sétáljon végig ezen a festői parkon, amely zöld kikapcsolódást kínál a város szívében, és hozzon magával egy pikniktakarót a tökéletes délutáni pihenéshez.",
+            "ro": "Plimbați-vă prin acest parc pitoresc care oferă o oază de verdeață în inima orașului și aduceți o pătură de picnic pentru a vă bucura de o pauză relaxantă.",
+            "en": "Stroll through this picturesque park that offers green relaxation right in the city center, and consider bringing a cozy picnic blanket for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludi Planet",
+            "hu": "Ludi Planet",
+            "ro": "Ludi Planet",
+            "en": "Ludi Planet"
+          },
+          "coords": [
+            -1.332677,
+            46.975907
+          ],
+          "category": "family",
+          "arrive_at": "14:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.88,
+          "tip_5lang": {
+            "de": "Erleben Sie einen unterhaltsamen Nachmittag in diesem familienfreundlichen Zentrum voller Aktivitäten, und buchen Sie Ihre Eintrittskarten vorab im Internet.",
+            "hu": "Töltsön el egy szórakoztató délutánt ebben a családbarát, izgalmas játékokkal teli központban, és a sorban állás elkerülése végett vegye meg jegyét online.",
+            "ro": "Petreceți o după-amiază distractivă în acest centru de activități ideal pentru familii și rezervați-vă biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Enjoy a fun-filled afternoon in this family-friendly activity center packed with exciting games, and book your tickets online in advance to skip the waiting lines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Morgen mit einer Reise in die reiche Vergangenheit von Montaigu-Vendée. Erkunden Sie beeindruckende architektonische Meisterwerke, majestätische Schlösser und sakrale Bauten, die von der historischen Bedeutung dieser charmanten französischen Gemeinde zeugen.\n\nMidday: Zur Mittagszeit laden die idyllischen Parks und malerischen Plätze der Stadt zu einer wohlverdienten Pause ein. Genießen Sie die entspannte Atmosphäre im Grünen, während Sie sich mit einem kleinen Picknick stärken und die lokale Umgebung auf sich wirken lassen.\n\nAfternoon: Der Nachmittag steht ganz im Zeichen von Familienunterhaltung und verborgenen Schätzen. Besuchen Sie spannende Freizeitstätten, die sowohl Kinder als auch Erwachsene begeistern, oder erkunden Sie abgelegenere historische Stätten abseits der großen Touristenströme.\n\nEvening: Lassen Sie den Tag mit einem Ausflug zu den beeindruckenden historischen Brücken ausklingen. Die sanfte Abendsonne taucht die alten Steinstrukturen in ein warmes Licht und bietet die perfekte Kulisse, um die gesammelten Eindrücke in aller Ruhe Revue passieren zu lassen.",
+        "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
+        "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
+        "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 7.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc du Val d'Asson",
+            "hu": "Parc du Val d'Asson",
+            "ro": "Parc du Val d'Asson",
+            "en": "Parc du Val d'Asson"
+          },
+          "coords": [
+            -1.307532,
+            46.974885
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Park, der grüne Erholung mitten in der Stadt bietet, und bringen Sie eine Picknickdecke für eine entspannte Pause mit.",
+            "hu": "Sétáljon végig ezen a festői parkon, amely zöld kikapcsolódást kínál a város szívében, és hozzon magával egy pikniktakarót a tökéletes délutáni pihenéshez.",
+            "ro": "Plimbați-vă prin acest parc pitoresc care oferă o oază de verdeață în inima orașului și aduceți o pătură de picnic pentru a vă bucura de o pauză relaxantă.",
+            "en": "Stroll through this picturesque park that offers green relaxation right in the city center, and consider bringing a cozy picnic blanket for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montaigu",
+            "hu": "Château de Montaigu",
+            "ro": "Château de Montaigu",
+            "en": "Château de Montaigu"
+          },
+          "coords": [
+            -1.313726,
+            46.97403
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der mittelalterlichen Festung, die die Geschichte von Montaigu prägte, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a Montaigu történelmét formáló középkori erődítmény romantikus maradványait, és viseljen kényelmes cipőt az egyenetlen utakon az alapos bejáráshoz.",
+            "ro": "Descoperiți rămășițele fortăreței medievale care a modelat istoria localității Montaigu și purtați încălțăminte comodă pentru aleile ușor accidentate.",
+            "en": "Discover the remnants of the medieval fortress that shaped Montaigu's fascinating history, and make sure to wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -1.312078,
+            46.975949
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser zentralen Kirche, die ein Ort der Ruhe ist, und besuchen Sie sie am besten während der Vormittagsmesse.",
+            "hu": "Csodálja meg e központi fekvésű templom lenyűgöző építészetét, amely a béke szigete, és a legjobb élmény érdekében látogasson el ide a délelőtti órákban.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, un veritabil refugiu de liniște, și vizitați-o dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the impressive architecture of this central church, a true haven of peace, and try to visit during the morning hours to enjoy the quietest atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludi Planet",
+            "hu": "Ludi Planet",
+            "ro": "Ludi Planet",
+            "en": "Ludi Planet"
+          },
+          "coords": [
+            -1.332677,
+            46.975907
+          ],
+          "category": "family",
+          "arrive_at": "12:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Erleben Sie einen unterhaltsamen Nachmittag in diesem familienfreundlichen Zentrum voller Aktivitäten, und buchen Sie Ihre Eintrittskarten vorab im Internet.",
+            "hu": "Töltsön el egy szórakoztató délutánt ebben a családbarát, izgalmas játékokkal teli központban, és a sorban állás elkerülése végett vegye meg jegyét online.",
+            "ro": "Petreceți o după-amiază distractivă în acest centru de activități ideal pentru familii și rezervați-vă biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Enjoy a fun-filled afternoon in this family-friendly activity center packed with exciting games, and book your tickets online in advance to skip the waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Senardière",
+            "hu": "Chapelle de la Senardière",
+            "ro": "Chapelle de la Senardière",
+            "en": "Chapelle de la Senardière"
+          },
+          "coords": [
+            -1.342463,
+            46.971081
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche kleine Kapelle, die einen tiefen historischen Charme versprüht, und achten Sie besonders auf die feinen Details am Altar.",
+            "hu": "Látogasson el ebbe a békés kis kápolnába, amely mély történelmi bájjal büszkélkedhet, és szenteljen különös figyelmet az oltár lenyűgöző, finom részleteinek.",
+            "ro": "Vizitați această capelă liniștită care emană un farmec istoric profund și acordați o atenție deosebită detaliilor arhitecturale delicate din jurul altarului.",
+            "en": "Visit this tranquil little chapel that exudes a profound historical charm, and pay special attention to the delicate architectural details carved around the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sénard Bridge",
+            "hu": "Sénard Bridge",
+            "ro": "Sénard Bridge",
+            "en": "Sénard Bridge"
+          },
+          "coords": [
+            -1.357,
+            47.011
+          ],
+          "category": "historical",
+          "arrive_at": "15:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.56,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese faszinierende historische Brücke, die eine perfekte Kulisse für Fotos bietet, und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Keljen át ezen a lenyűgöző történelmi hídon, amely tökéletes hátteret biztosít a fotózáshoz, és érkezzen naplementekor a legszebb fények megörökítéséhez.",
+            "ro": "Traversați acest pod istoric fascinant care oferă un fundal perfect pentru fotografii și veniți la apusul soarelui pentru a beneficia de cea mai bună lumină.",
+            "en": "Cross this fascinating historical bridge that provides a perfect backdrop for stunning photographs, and try to arrive at sunset to capture the magical golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Morgen mit einer Reise in die reiche Vergangenheit von Montaigu-Vendée. Erkunden Sie beeindruckende architektonische Meisterwerke, majestätische Schlösser und sakrale Bauten, die von der historischen Bedeutung dieser charmanten französischen Gemeinde zeugen.\n\nMidday: Zur Mittagszeit laden die idyllischen Parks und malerischen Plätze der Stadt zu einer wohlverdienten Pause ein. Genießen Sie die entspannte Atmosphäre im Grünen, während Sie sich mit einem kleinen Picknick stärken und die lokale Umgebung auf sich wirken lassen.\n\nAfternoon: Der Nachmittag steht ganz im Zeichen von Familienunterhaltung und verborgenen Schätzen. Besuchen Sie spannende Freizeitstätten, die sowohl Kinder als auch Erwachsene begeistern, oder erkunden Sie abgelegenere historische Stätten abseits der großen Touristenströme.\n\nEvening: Lassen Sie den Tag mit einem Ausflug zu den beeindruckenden historischen Brücken ausklingen. Die sanfte Abendsonne taucht die alten Steinstrukturen in ein warmes Licht und bietet die perfekte Kulisse, um die gesammelten Eindrücke in aller Ruhe Revue passieren zu lassen.",
+        "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
+        "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
+        "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 10.18,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des associations",
+            "hu": "Maison des associations",
+            "ro": "Maison des associations",
+            "en": "Maison des associations"
+          },
+          "coords": [
+            -1.316704,
+            46.979118
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschöne schlossartige Gebäude, das das kulturelle Leben der Stadt bereichert, und werfen Sie einen Blick auf die Veranstaltungstafeln.",
+            "hu": "Fedezze fel ezt a gyönyörű, kastélyszerű épületet, amely a város kulturális életének központja, és mindenképpen vesse vigyázó szemét az aktuális programtáblákra.",
+            "ro": "Explorați această clădire splendidă cu aspect de castel care îmbogățește viața culturală a orașului și verificați panourile cu evenimente pentru surprize.",
+            "en": "Explore this beautiful castle-like building that enriches the cultural life of the town, and make sure to check the event boards for any ongoing local exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montaigu",
+            "hu": "Château de Montaigu",
+            "ro": "Château de Montaigu",
+            "en": "Château de Montaigu"
+          },
+          "coords": [
+            -1.313726,
+            46.97403
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der mittelalterlichen Festung, die die Geschichte von Montaigu prägte, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a Montaigu történelmét formáló középkori erődítmény romantikus maradványait, és viseljen kényelmes cipőt az egyenetlen utakon az alapos bejáráshoz.",
+            "ro": "Descoperiți rămășițele fortăreței medievale care a modelat istoria localității Montaigu și purtați încălțăminte comodă pentru aleile ușor accidentate.",
+            "en": "Discover the remnants of the medieval fortress that shaped Montaigu's fascinating history, and make sure to wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludi Planet",
+            "hu": "Ludi Planet",
+            "ro": "Ludi Planet",
+            "en": "Ludi Planet"
+          },
+          "coords": [
+            -1.332677,
+            46.975907
+          ],
+          "category": "family",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Erleben Sie einen unterhaltsamen Nachmittag in diesem familienfreundlichen Zentrum voller Aktivitäten, und buchen Sie Ihre Eintrittskarten vorab im Internet.",
+            "hu": "Töltsön el egy szórakoztató délutánt ebben a családbarát, izgalmas játékokkal teli központban, és a sorban állás elkerülése végett vegye meg jegyét online.",
+            "ro": "Petreceți o după-amiază distractivă în acest centru de activități ideal pentru familii și rezervați-vă biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Enjoy a fun-filled afternoon in this family-friendly activity center packed with exciting games, and book your tickets online in advance to skip the waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Senardière",
+            "hu": "Chapelle de la Senardière",
+            "ro": "Chapelle de la Senardière",
+            "en": "Chapelle de la Senardière"
+          },
+          "coords": [
+            -1.342463,
+            46.971081
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche kleine Kapelle, die einen tiefen historischen Charme versprüht, und achten Sie besonders auf die feinen Details am Altar.",
+            "hu": "Látogasson el ebbe a békés kis kápolnába, amely mély történelmi bájjal büszkélkedhet, és szenteljen különös figyelmet az oltár lenyűgöző, finom részleteinek.",
+            "ro": "Vizitați această capelă liniștită care emană un farmec istoric profund și acordați o atenție deosebită detaliilor arhitecturale delicate din jurul altarului.",
+            "en": "Visit this tranquil little chapel that exudes a profound historical charm, and pay special attention to the delicate architectural details carved around the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            -1.339974,
+            46.959973
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser prachtvollen Kirche in Boufféré und nehmen Sie sich Zeit, die wunderschönen farbigen Glasfenster im Inneren zu bewundern.",
+            "hu": "Fedezze fel a Boufféré-ben található templom spirituális nyugalmát, és szánjon időt a belső tér csodálatos, színes ólomüveg ablakainak alapos megcsodálására.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici magnifice din Boufféré și acordați-vă timp pentru a admira vitraliile colorate superbe din interiorul său.",
+            "en": "Discover the profound spiritual tranquility of this magnificent church in Boufféré, and take your time to admire the stunningly vibrant stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie déléguée de Boufféré",
+            "hu": "Mairie déléguée de Boufféré",
+            "ro": "Mairie déléguée de Boufféré",
+            "en": "Mairie déléguée de Boufféré"
+          },
+          "coords": [
+            -1.341866,
+            46.959502
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf dieses typisch französische Rathausgebäude, das die lokale Verwaltung repräsentiert, und nutzen Sie den Platz für eine kleine Rast.",
+            "hu": "Vessen egy pillantást erre a jellegzetes francia városházára, amely a helyi közigazgatást képviseli, és használja ki az előtte lévő teret egy rövid, pihentető szünetre.",
+            "ro": "Aruncați o privire la această primărie tipic franțuzească ce reprezintă administrația locală și profitați de piațeta din față pentru o scurtă pauză relaxantă.",
+            "en": "Take a quick look at this quintessential French town hall representing local administration, and utilize the small square in front of it for a brief, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sénard Bridge",
+            "hu": "Sénard Bridge",
+            "ro": "Sénard Bridge",
+            "en": "Sénard Bridge"
+          },
+          "coords": [
+            -1.357,
+            47.011
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.83,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese faszinierende historische Brücke, die eine perfekte Kulisse für Fotos bietet, und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Keljen át ezen a lenyűgöző történelmi hídon, amely tökéletes hátteret biztosít a fotózáshoz, és érkezzen naplementekor a legszebb fények megörökítéséhez.",
+            "ro": "Traversați acest pod istoric fascinant care oferă un fundal perfect pentru fotografii și veniți la apusul soarelui pentru a beneficia de cea mai bună lumină.",
+            "en": "Cross this fascinating historical bridge that provides a perfect backdrop for stunning photographs, and try to arrive at sunset to capture the magical golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Morgen mit einer Reise in die reiche Vergangenheit von Montaigu-Vendée. Erkunden Sie beeindruckende architektonische Meisterwerke, majestätische Schlösser und sakrale Bauten, die von der historischen Bedeutung dieser charmanten französischen Gemeinde zeugen.\n\nMidday: Zur Mittagszeit laden die idyllischen Parks und malerischen Plätze der Stadt zu einer wohlverdienten Pause ein. Genießen Sie die entspannte Atmosphäre im Grünen, während Sie sich mit einem kleinen Picknick stärken und die lokale Umgebung auf sich wirken lassen.\n\nAfternoon: Der Nachmittag steht ganz im Zeichen von Familienunterhaltung und verborgenen Schätzen. Besuchen Sie spannende Freizeitstätten, die sowohl Kinder als auch Erwachsene begeistern, oder erkunden Sie abgelegenere historische Stätten abseits der großen Touristenströme.\n\nEvening: Lassen Sie den Tag mit einem Ausflug zu den beeindruckenden historischen Brücken ausklingen. Die sanfte Abendsonne taucht die alten Steinstrukturen in ein warmes Licht und bietet die perfekte Kulisse, um die gesammelten Eindrücke in aller Ruhe Revue passieren zu lassen.",
+        "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
+        "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
+        "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      }
+    }
+  }
+}

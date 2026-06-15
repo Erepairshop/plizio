@@ -1,0 +1,428 @@
+{
+  "city_id": "pluvigner",
+  "anchor": {
+    "name": "Pluvigner",
+    "coords": [
+      -3.0103,
+      47.7758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 1.9,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Ti Douar Alre",
+            "hu": "Ti Douar Alre",
+            "ro": "Ti Douar Alre",
+            "en": "Ti Douar Alre"
+          },
+          "coords": [
+            -3.006603,
+            47.773855
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ti Douar Alre die reiche bretonische Kultur und Geschichte, und informieren Sie sich am Eingang über aktuelle Ausstellungen, um nichts zu verpassen.",
+            "hu": "Fedezze fel a gazdag breton kultúrát és történelmet a Ti Douar Alre épületében, és a bejáratnál érdeklődjön az aktuális kiállításokról, hogy semmiről se maradjon le.",
+            "ro": "Descoperiți bogata cultură și istorie bretonă la Ti Douar Alre și verificați expozițiile actuale la intrare pentru a nu rata detaliile importante.",
+            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Guigner",
+            "hu": "Saint-Guigner templom",
+            "ro": "Biserica Saint-Guigner",
+            "en": "Saint-Guigner Church"
+          },
+          "coords": [
+            -3.010714,
+            47.77481
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
+            "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le StanG - Kulturzentrum",
+            "hu": "Le StanG Kulturális Központ",
+            "ro": "Centrul Cultural Le StanG",
+            "en": "Le StanG Cultural Center"
+          },
+          "coords": [
+            -3.00889,
+            47.778327
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
+            "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Guénaël",
+            "hu": "Saint-Guénaël kápolna",
+            "ro": "Capela Saint-Guénaël",
+            "en": "Chapelle Saint-Guénaël"
+          },
+          "coords": [
+            -3.003097,
+            47.787582
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre der historischen Kapelle Saint-Guénaël, ein wahres architektonisches Juwel, und tragen Sie bequeme Schuhe für den kurzen Spaziergang dorthin.",
+            "hu": "Élvezze a történelmi Saint-Guénaël kápolna, ennek az igazi építészeti ékszerdoboznak a békés hangulatát, és viseljen kényelmes cipőt a rövid sétához.",
+            "ro": "Bucurați-vă de atmosfera liniștită a istoricei Capele Saint-Guénaël, o adevărată bijuterie arhitecturală, și purtați încălțăminte comodă pentru scurta plimbare până acolo.",
+            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die bretonische Kultur bei Ti Douar Alre. \n\nDanach führt der Weg zur beeindruckenden Kirche Saint-Guigner im Herzen von Pluvigner. \n\nAm Nachmittag bietet das moderne Kulturzentrum Le StanG spannende Ausstellungen und regionale Kunst. \n\nZum Abschluss spazieren Sie zur friedlichen Chapelle Saint-Guénaël, wo der Tag besinnlich ausklingt.",
+        "hu": "Kezdje a napot a breton kultúra felfedezésével a Ti Douar Alre kulturális központban. \n\nEzt követően sétáljon el a város szívében található, lenyűgöző Saint-Guigner templomhoz. \n\nDélután a modern Le StanG várja Önt izgalmas regionális művészeti kiállításokkal és programokkal. \n\nZárja a napot egy kellemes sétával a békés Chapelle Saint-Guénaël kápolnához.",
+        "ro": "Începeți ziua explorând cultura bretonă fascinantă la centrul cultural Ti Douar Alre. \n\nApoi, plimbați-vă spre impresionanta Biserică Saint-Guigner, inima spirituală a orașului. \n\nDupă-amiaza, descoperiți arta regională la modernul centru cultural Le StanG. \n\nÎncheiați ziua cu o scurtă plimbare către liniștita Capelă Saint-Guénaël pentru momente de relaxare.",
+        "en": "Start your day with a deep dive into Breton culture at the Ti Douar Alre cultural center. \n\nNext, take a short walk to the impressive Saint-Guigner Church in the heart of Pluvigner. \n\nIn the afternoon, explore exciting regional art and exhibitions at the modern Le StanG. \n\nFinish the day with a relaxing stroll to the peaceful Chapelle Saint-Guénaël for quiet reflection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ti Douar Alre",
+            "hu": "Ti Douar Alre",
+            "ro": "Ti Douar Alre",
+            "en": "Ti Douar Alre"
+          },
+          "coords": [
+            -3.006603,
+            47.773855
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ti Douar Alre die reiche bretonische Kultur und Geschichte, und informieren Sie sich am Eingang über aktuelle Ausstellungen, um nichts zu verpassen.",
+            "hu": "Fedezze fel a gazdag breton kultúrát és történelmet a Ti Douar Alre épületében, és a bejáratnál érdeklődjön az aktuális kiállításokról, hogy semmiről se maradjon le.",
+            "ro": "Descoperiți bogata cultură și istorie bretonă la Ti Douar Alre și verificați expozițiile actuale la intrare pentru a nu rata detaliile importante.",
+            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Guigner",
+            "hu": "Saint-Guigner templom",
+            "ro": "Biserica Saint-Guigner",
+            "en": "Saint-Guigner Church"
+          },
+          "coords": [
+            -3.010714,
+            47.77481
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
+            "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le StanG - Kulturzentrum",
+            "hu": "Le StanG Kulturális Központ",
+            "ro": "Centrul Cultural Le StanG",
+            "en": "Le StanG Cultural Center"
+          },
+          "coords": [
+            -3.00889,
+            47.778327
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
+            "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Guénaël",
+            "hu": "Saint-Guénaël kápolna",
+            "ro": "Capela Saint-Guénaël",
+            "en": "Chapelle Saint-Guénaël"
+          },
+          "coords": [
+            -3.003097,
+            47.787582
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre der historischen Kapelle Saint-Guénaël, ein wahres architektonisches Juwel, und tragen Sie bequeme Schuhe für den kurzen Spaziergang dorthin.",
+            "hu": "Élvezze a történelmi Saint-Guénaël kápolna, ennek az igazi építészeti ékszerdoboznak a békés hangulatát, és viseljen kényelmes cipőt a rövid sétához.",
+            "ro": "Bucurați-vă de atmosfera liniștită a istoricei Capele Saint-Guénaël, o adevărată bijuterie arhitecturală, și purtați încălțăminte comodă pentru scurta plimbare până acolo.",
+            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Keronic",
+            "hu": "Château de Keronic",
+            "ro": "Château de Keronic",
+            "en": "Château de Keronic"
+          },
+          "coords": [
+            -3.030484,
+            47.791441
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Anlagen des Château de Keronic, das von aristokratischer Geschichte zeugt, und machen Sie Fotos von der Hauptfassade am frühen Nachmittag.",
+            "hu": "Fedezze fel a Château de Keronic arisztokratikus történelmet őrző lenyűgöző birtokát, és készítsen nagyszerű fotókat a főhomlokzatról a kora délutáni órákban.",
+            "ro": "Explorați domeniul fascinant al Château de Keronic, care mărturisește istoria aristocratică, și faceți fotografii ale fațadei principale la începutul după-amiezii.",
+            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Talhouët",
+            "hu": "Talhouëti régészeti lelőhely",
+            "ro": "Situl arheologic Talhouët",
+            "en": "Site archéologique de Talhouët"
+          },
+          "coords": [
+            -3.018211,
+            47.756946
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit ein an der archäologischen Stätte von Talhouët, wo Ruinen Geschichten erzählen, und bleiben Sie auf den markierten Wegen, um das Gebiet zu schützen.",
+            "hu": "Merüljön el az ókori múltban a talhouëti régészeti lelőhelyen, ahol a romok történeteket mesélnek, és a terület védelme érdekében maradjon a kijelölt ösvényeken.",
+            "ro": "Pătrundeți în trecutul antic la situl arheologic din Talhouët, unde ruinele spun povești străvechi, și rămâneți pe potecile marcate pentru a proteja zona.",
+            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet kulturell bei Ti Douar Alre, gefolgt von der Kirche Saint-Guigner. \n\nZur Mittagszeit lockt das Le StanG mit moderner lokaler Kunst und kreativer Atmosphäre. \n\nNachmittags radeln Sie zur historischen Chapelle Saint-Guénaël und weiter zum imposanten Château de Keronic. \n\nDen Abend verbringen Sie mit antiken Entdeckungen an der archäologischen Stätte von Talhouët.",
+        "hu": "Kerékpártúrája a Ti Douar Alre kulturális élményével indul, majd a Saint-Guigner templomot érinti. \n\nDélben a Le StanG modern helyi művészete és kreatív légköre várja Önt. \n\nDélután a Chapelle Saint-Guénaël érintésével tekerjen el az impozáns Château de Keronic kastélyhoz. \n\nAz estét a talhouëti régészeti lelőhely ősi titkainak felfedezésével töltheti.",
+        "ro": "Turul pe bicicletă începe cultural la Ti Douar Alre, urmat de Biserica Saint-Guigner. \n\nLa prânz, centrul Le StanG vă atrage cu arta sa locală modernă și atmosfera creativă. \n\nDupă-amiaza, pedalați spre Capela Saint-Guénaël și apoi către impunătorul Château de Keronic. \n\nSeara o petreceți descoperind misterele antice la situl arheologic din Talhouët.",
+        "en": "Your bike tour starts with culture at Ti Douar Alre, followed by a stop at Saint-Guigner Church. \n\nAt midday, Le StanG invites you to explore modern local art in a highly creative atmosphere. \n\nIn the afternoon, cycle past the Chapelle Saint-Guénaël to the impressive Château de Keronic. \n\nSpend your evening uncovering ancient mysteries at the Talhouët archaeological site."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 13.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Guigner",
+            "hu": "Saint-Guigner templom",
+            "ro": "Biserica Saint-Guigner",
+            "en": "Saint-Guigner Church"
+          },
+          "coords": [
+            -3.010714,
+            47.77481
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
+            "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le StanG - Kulturzentrum",
+            "hu": "Le StanG Kulturális Központ",
+            "ro": "Centrul Cultural Le StanG",
+            "en": "Le StanG Cultural Center"
+          },
+          "coords": [
+            -3.00889,
+            47.778327
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
+            "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
+            "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Keronic",
+            "hu": "Château de Keronic",
+            "ro": "Château de Keronic",
+            "en": "Château de Keronic"
+          },
+          "coords": [
+            -3.030484,
+            47.791441
+          ],
+          "category": "castle",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Anlagen des Château de Keronic, das von aristokratischer Geschichte zeugt, und machen Sie Fotos von der Hauptfassade am frühen Nachmittag.",
+            "hu": "Fedezze fel a Château de Keronic arisztokratikus történelmet őrző lenyűgöző birtokát, és készítsen nagyszerű fotókat a főhomlokzatról a kora délutáni órákban.",
+            "ro": "Explorați domeniul fascinant al Château de Keronic, care mărturisește istoria aristocratică, și faceți fotografii ale fațadei principale la începutul după-amiezii.",
+            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Guy",
+            "hu": "Saint-Guy kápolna",
+            "ro": "Capela Saint-Guy",
+            "en": "Saint-Guy Chapel"
+          },
+          "coords": [
+            -3.064113,
+            47.780701
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der charmanten und abgelegenen Kapelle Saint-Guy verzaubern, die für ihre Schlichtheit bekannt ist, und nehmen Sie sich Zeit für einen Moment der Stille.",
+            "hu": "Hagyja, hogy elvarázsolja az egyszerűségéről ismert, bájos és eldugott Saint-Guy kápolna, és szánjon egy kis időt a csendes elmélkedésre ezen a békés helyen.",
+            "ro": "Lăsați-vă fermecați de fermecătoarea și izolata Capelă Saint-Guy, cunoscută pentru simplitatea sa, și acordați-vă timp pentru un moment de liniște.",
+            "en": "Let yourself be enchanted by the charming and secluded Saint-Guy Chapel, known for its simplicity, and take a moment to enjoy the peaceful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame d'Ortuay",
+            "hu": "Notre-Dame d'Ortuay kápolna",
+            "ro": "Capela Notre-Dame d'Ortuay",
+            "en": "Notre-Dame d'Ortuay Chapel"
+          },
+          "coords": [
+            -3.089468,
+            47.75804
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Bedeutung der Kapelle Notre-Dame d'Ortuay tief im bretonischen Land, und achten Sie auf die kunstvollen Steinarbeiten rund um das Portal.",
+            "hu": "Fedezze fel a breton vidék mélyén megbúvó Notre-Dame d'Ortuay kápolna spirituális jelentőségét, és figyelje meg a kapu körüli kidolgozott kőfaragásokat.",
+            "ro": "Descoperiți semnificația spirituală a Capelei Notre-Dame d'Ortuay din inima regiunii bretone și acordați atenție sculpturilor detaliate în piatră din jurul portalului.",
+            "en": "Discover the spiritual significance of the Notre-Dame d'Ortuay Chapel deep in the Breton countryside, and pay attention to the detailed stonework around the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Talhouët",
+            "hu": "Talhouëti régészeti lelőhely",
+            "ro": "Situl arheologic Talhouët",
+            "en": "Site archéologique de Talhouët"
+          },
+          "coords": [
+            -3.018211,
+            47.756946
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit ein an der archäologischen Stätte von Talhouët, wo Ruinen Geschichten erzählen, und bleiben Sie auf den markierten Wegen, um das Gebiet zu schützen.",
+            "hu": "Merüljön el az ókori múltban a talhouëti régészeti lelőhelyen, ahol a romok történeteket mesélnek, és a terület védelme érdekében maradjon a kijelölt ösvényeken.",
+            "ro": "Pătrundeți în trecutul antic la situl arheologic din Talhouët, unde ruinele spun povești străvechi, și rămâneți pe potecile marcate pentru a proteja zona.",
+            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Autotrip beginnt an der zentralen Kirche Saint-Guigner, gefolgt von lokaler Kunst im Le StanG. \n\nGegen Mittag fahren Sie zum Château de Keronic, um die prächtige Architektur zu bewundern. \n\nAm Nachmittag erkunden Sie die ländlichen Juwelen, beginnend mit der malerischen Kapelle Saint-Guy. \n\nNach der Kapelle Notre-Dame d'Ortuay endet der Tag an der historischen archäologischen Stätte von Talhouët.",
+        "hu": "Az autós túra a központi Saint-Guigner templomnál kezdődik, majd a Le StanG művészetével folytatódik. \n\nDélben látogasson el a Château de Keronic kastélyhoz, és csodálja meg pompás építészetét. \n\nDélután vidéki ékszereket fedezhet fel, köztük a festői Saint-Guy és Notre-Dame d'Ortuay kápolnákat. \n\nA nap a talhouëti régészeti lelőhely ősi romjai között ér véget.",
+        "ro": "Excursia cu mașina începe la Biserica Saint-Guigner, continuând cu arta de la Le StanG. \n\nLa prânz, conduceți spre Château de Keronic pentru a admira arhitectura sa magnifică. \n\nDupă-amiaza, explorați bijuteriile rurale, inclusiv pitoreștile capele Saint-Guy și Notre-Dame d'Ortuay. \n\nZiua se încheie cu descoperiri fascinante la situl arheologic istoric din Talhouët.",
+        "en": "Your driving tour begins at Saint-Guigner Church, followed by contemporary art at Le StanG. \n\nAround midday, drive to the Château de Keronic to admire its magnificent architecture and grounds. \n\nIn the afternoon, explore rural gems including the picturesque Saint-Guy and Notre-Dame d'Ortuay chapels. \n\nThe day concludes with fascinating discoveries at the historic archaeological site of Talhouët."
+      }
+    }
+  }
+}

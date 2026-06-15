@@ -1,0 +1,497 @@
+{
+  "city_id": "united-kingdom-holkham-cities-v2",
+  "anchor": {
+    "name": "Holkham",
+    "coords": [
+      0.803056,
+      52.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leicester Coke Monument",
+            "hu": "Leicester Coke Monument",
+            "ro": "Leicester Coke Monument",
+            "en": "Leicester Coke Monument"
+          },
+          "coords": [
+            0.804039,
+            52.956591
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem hochaufragenden Denkmal für den Agrarpionier Coke of Norfolk, das einen tollen Blick über das weite Anwesen bietet.",
+            "hu": "Kezdje a reggelt a mezőgazdasági úttörő, Coke of Norfolk előtt tisztelgő magas emlékműnél, amely távolabbról kiváló kilátást nyújt a birtokra.",
+            "ro": "Începeți dimineața la acest monument impunător dedicat pionierului agricol Coke din Norfolk, admirând de la distanță priveliștea excelentă a domeniului.",
+            "en": "Start your morning at this towering monument honoring agricultural pioneer Coke of Norfolk, offering excellent views of the estate if you stand back."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Withburga",
+            "hu": "Saint Withburga",
+            "ro": "Saint Withburga",
+            "en": "Saint Withburga"
+          },
+          "coords": [
+            0.794473,
+            52.957171
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische, in der Landschaft verborgene Kirche, deren friedliche Umgebung ein perfekter Ort für stille Reflexion ist.",
+            "hu": "Fedezze fel ezt a tájba simuló, történelmi templomot, ahol a békés környezet tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Explorați această biserică istorică ascunsă în peisaj, unde împrejurimile pașnice reprezintă locul perfect pentru o reflecție liniștită.",
+            "en": "Explore this historic church hidden within the landscape, where peaceful surroundings make it a perfect spot for quiet reflection before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Walled Garden",
+            "hu": "Walled Garden",
+            "ro": "Walled Garden",
+            "en": "Walled Garden"
+          },
+          "coords": [
+            0.792144,
+            52.951308
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschön restaurierten Gärten, bewundern Sie die bunte Blumenpracht und nehmen Sie sich Zeit für die historischen Gewächshäuser.",
+            "hu": "Sétáljon végig a gyönyörűen felújított kerteken, csodálja meg a virágokat és a történelmi üvegházakat, amelyek igazán különleges hangulatot árasztanak.",
+            "ro": "Plimbați-vă prin aceste grădini frumos restaurate pentru a vedea aranjamente florale vibrante, făcându-vă timp să admirați serele istorice din sticlă.",
+            "en": "Walk through these beautifully restored gardens to see vibrant floral displays and heritage vegetables, taking time to admire the historic glasshouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Hall",
+            "hu": "Holkham Hall",
+            "ro": "Holkham Hall",
+            "en": "Holkham Hall"
+          },
+          "coords": [
+            0.803026,
+            52.950131
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die palladianische Architektur dieses prächtigen Herrenhauses und achten Sie gleich beim Eintreten auf die atemberaubende Decke der Marmorhalle.",
+            "hu": "Csodálja meg ennek a csodálatos kastélynak a palladiánus építészetét, és belépéskor ne felejtsen el felnézni a lenyűgöző Márványcsarnok mennyezetére.",
+            "ro": "Admirați arhitectura paladiană a acestui conac magnific și nu uitați să priviți tavanul uimitor al Sălii de Marmură atunci când pășiți înăuntru.",
+            "en": "Marvel at the Palladian architecture of this magnificent stately home, and make sure to look up at the stunning Marble Hall ceiling as you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Stories Experience",
+            "hu": "Holkham Stories Experience",
+            "ro": "Holkham Stories Experience",
+            "en": "Holkham Stories Experience"
+          },
+          "coords": [
+            0.805588,
+            52.949999
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in die reiche Geschichte des Anwesens ein, was besonders für Familien eine tolle, spielerische Erfahrung ist.",
+            "hu": "Merüljön el a birtok gazdag történelmében az interaktív kiállításokon keresztül, amelyek különösen a játékosan tanulni vágyó családok számára ideálisak.",
+            "ro": "Scufundați-vă în bogata istorie a domeniului prin expoziții interactive, care sunt deosebit de atractive pentru familiile care doresc să învețe distrându-se.",
+            "en": "Immerse yourself in the rich history of the estate through interactive exhibits, which are especially great for families wanting to learn in a fun way."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Park",
+            "hu": "Holkham Park",
+            "ro": "Holkham Park",
+            "en": "Holkham Park"
+          },
+          "coords": [
+            0.804171,
+            52.942422
+          ],
+          "category": "landmark",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den weitläufigen Wildpark mit seinen alten Bäumen und dem schimmernden See, halten Sie jedoch stets respektvollen Abstand zu den Tieren.",
+            "hu": "Sétáljon végig a kiterjedt szarvasparkban a hatalmas fákkal és a csillogó tóval, de tartson tisztes távolságot a szabadon kószáló vadon élő állatoktól.",
+            "ro": "Plimbați-vă prin parcul întins de cerbi, cu copacii săi bătrâni și lacul strălucitor, păstrând o distanță respectuoasă față de fauna sălbatică.",
+            "en": "Wander through the sprawling deer park with its ancient trees and shimmering lake, keeping a respectful distance from the free-roaming wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wandertour beginnt am Leicester Coke Monument und führt dann zur friedlichen Kirche Saint Withburga. Mittags bewundern Sie den bunten Walled Garden und das prächtige Holkham Hall. Am Nachmittag tauchen Sie in der Holkham Stories Experience in die lokale Geschichte ein. Der Tag endet mit einem entspannenden Spaziergang durch den weitläufigen Holkham Park inmitten der Natur.",
+        "hu": "Gyalogos túrája a Leicester Coke emlékműnél kezdődik, majd a békés Saint Withburga templom felé veszi az irányt. Délben a Walled Garden és a Holkham Hall várja. Délután a Holkham Stories Experience segítségével merülhet el a helyi örökségben. A nap egy pihentető sétával zárul a kiterjedt Holkham Park lenyűgöző természeti környezetében.",
+        "ro": "Turul dumneavoastră pietonal începe la monumentul Leicester Coke înainte de a vă îndrepta spre biserica Saint Withburga. La prânz veți descoperi superba Walled Garden și Holkham Hall. După-amiaza, veți explora istoria locală la Holkham Stories Experience. Ziua se încheie cu o plimbare relaxantă prin parcul întins Holkham, înconjurat de natură.",
+        "en": "Your walking tour begins at the towering Leicester Coke Monument before heading to the peaceful Saint Withburga church. Midday brings you to the vibrant Walled Garden and the architectural marvel of Holkham Hall. In the afternoon, you will delve into local heritage at the Holkham Stories Experience. The day concludes with a relaxing stroll through the expansive Holkham Park, surrounded by nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Leicester Coke Monument",
+            "hu": "Leicester Coke Monument",
+            "ro": "Leicester Coke Monument",
+            "en": "Leicester Coke Monument"
+          },
+          "coords": [
+            0.804039,
+            52.956591
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem hochaufragenden Denkmal für den Agrarpionier Coke of Norfolk, das einen tollen Blick über das weite Anwesen bietet.",
+            "hu": "Kezdje a reggelt a mezőgazdasági úttörő, Coke of Norfolk előtt tisztelgő magas emlékműnél, amely távolabbról kiváló kilátást nyújt a birtokra.",
+            "ro": "Începeți dimineața la acest monument impunător dedicat pionierului agricol Coke din Norfolk, admirând de la distanță priveliștea excelentă a domeniului.",
+            "en": "Start your morning at this towering monument honoring agricultural pioneer Coke of Norfolk, offering excellent views of the estate if you stand back."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Withburga",
+            "hu": "Saint Withburga",
+            "ro": "Saint Withburga",
+            "en": "Saint Withburga"
+          },
+          "coords": [
+            0.794473,
+            52.957171
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische, in der Landschaft verborgene Kirche, deren friedliche Umgebung ein perfekter Ort für stille Reflexion ist.",
+            "hu": "Fedezze fel ezt a tájba simuló, történelmi templomot, ahol a békés környezet tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Explorați această biserică istorică ascunsă în peisaj, unde împrejurimile pașnice reprezintă locul perfect pentru o reflecție liniștită.",
+            "en": "Explore this historic church hidden within the landscape, where peaceful surroundings make it a perfect spot for quiet reflection before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Walled Garden",
+            "hu": "Walled Garden",
+            "ro": "Walled Garden",
+            "en": "Walled Garden"
+          },
+          "coords": [
+            0.792144,
+            52.951308
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschön restaurierten Gärten, bewundern Sie die bunte Blumenpracht und nehmen Sie sich Zeit für die historischen Gewächshäuser.",
+            "hu": "Sétáljon végig a gyönyörűen felújított kerteken, csodálja meg a virágokat és a történelmi üvegházakat, amelyek igazán különleges hangulatot árasztanak.",
+            "ro": "Plimbați-vă prin aceste grădini frumos restaurate pentru a vedea aranjamente florale vibrante, făcându-vă timp să admirați serele istorice din sticlă.",
+            "en": "Walk through these beautifully restored gardens to see vibrant floral displays and heritage vegetables, taking time to admire the historic glasshouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Hall",
+            "hu": "Holkham Hall",
+            "ro": "Holkham Hall",
+            "en": "Holkham Hall"
+          },
+          "coords": [
+            0.803026,
+            52.950131
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die palladianische Architektur dieses prächtigen Herrenhauses und achten Sie gleich beim Eintreten auf die atemberaubende Decke der Marmorhalle.",
+            "hu": "Csodálja meg ennek a csodálatos kastélynak a palladiánus építészetét, és belépéskor ne felejtsen el felnézni a lenyűgöző Márványcsarnok mennyezetére.",
+            "ro": "Admirați arhitectura paladiană a acestui conac magnific și nu uitați să priviți tavanul uimitor al Sălii de Marmură atunci când pășiți înăuntru.",
+            "en": "Marvel at the Palladian architecture of this magnificent stately home, and make sure to look up at the stunning Marble Hall ceiling as you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Stories Experience",
+            "hu": "Holkham Stories Experience",
+            "ro": "Holkham Stories Experience",
+            "en": "Holkham Stories Experience"
+          },
+          "coords": [
+            0.805588,
+            52.949999
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in die reiche Geschichte des Anwesens ein, was besonders für Familien eine tolle, spielerische Erfahrung ist.",
+            "hu": "Merüljön el a birtok gazdag történelmében az interaktív kiállításokon keresztül, amelyek különösen a játékosan tanulni vágyó családok számára ideálisak.",
+            "ro": "Scufundați-vă în bogata istorie a domeniului prin expoziții interactive, care sunt deosebit de atractive pentru familiile care doresc să învețe distrându-se.",
+            "en": "Immerse yourself in the rich history of the estate through interactive exhibits, which are especially great for families wanting to learn in a fun way."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Park",
+            "hu": "Holkham Park",
+            "ro": "Holkham Park",
+            "en": "Holkham Park"
+          },
+          "coords": [
+            0.804171,
+            52.942422
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den weitläufigen Wildpark mit seinen alten Bäumen und dem schimmernden See, halten Sie jedoch stets respektvollen Abstand zu den Tieren.",
+            "hu": "Sétáljon végig a kiterjedt szarvasparkban a hatalmas fákkal és a csillogó tóval, de tartson tisztes távolságot a szabadon kószáló vadon élő állatoktól.",
+            "ro": "Plimbați-vă prin parcul întins de cerbi, cu copacii săi bătrâni și lacul strălucitor, păstrând o distanță respectuoasă față de fauna sălbatică.",
+            "en": "Wander through the sprawling deer park with its ancient trees and shimmering lake, keeping a respectful distance from the free-roaming wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Naturist Beach",
+            "hu": "Holkham Naturist Beach",
+            "ro": "Holkham Naturist Beach",
+            "en": "Holkham Naturist Beach"
+          },
+          "coords": [
+            0.806266,
+            52.971897
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weiten, unberührten goldenen Sandstrand, der für seine befreiende Atmosphäre und die schönen Küstendünen bekannt ist.",
+            "hu": "Zárja a napot ezen a hatalmas, érintetlen, aranyhomokos partszakaszon, amely felszabadító légköréről és a tengert keretező gyönyű dűnéiről ismert.",
+            "ro": "Încheiați-vă ziua de-a lungul acestei vaste întinderi de nisip auriu neatins, cunoscută pentru atmosfera sa eliberatoare și dunele de coastă frumoase.",
+            "en": "End your day along this vast, unspoiled stretch of golden sand, known for its liberating atmosphere and beautiful coastal dunes perfectly framing the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer am Coke Monument und radeln Sie zur ruhigen Saint Withburga. Mittags erkunden Sie den farbenfrohen Walled Garden und das große Holkham Hall. Nachmittags bietet die Holkham Stories Experience interaktive Geschichte, gefolgt von einer Fahrt durch den Holkham Park. Radeln Sie schließlich zum riesigen Holkham Beach, um die abendliche Meeresbrise zu genießen.",
+        "hu": "Kezdje kerékpáros kalandját a Coke emlékműnél, majd tekerjen a Saint Withburga csendes területére. Dél körül fedezze fel a Walled Garden virágait és a grandiózus Holkham Hallt. Később a Holkham Stories kínál interaktív történelmet, majd tekerjen át a Holkham Parkon. Végül a hatalmas Holkham Beach partján élvezheti az esti tengerparti szellőt.",
+        "ro": "Începeți aventura cu bicicleta la Monumentul Coke, apoi pedalați spre curtea liniștită a Saint Withburga. Pe la prânz, explorați Walled Garden și mărețul Holkham Hall. După-amiaza, Holkham Stories oferă istorie interactivă, urmată de o plimbare prin Holkham Park. În cele din urmă, pedalați până la vasta plajă Holkham pentru a vă bucura de briza mării.",
+        "en": "Start your cycling adventure at the Coke Monument, then pedal to the quiet grounds of Saint Withburga. Around midday, explore the colourful Walled Garden and the grand Holkham Hall. As the afternoon unfolds, the Holkham Stories Experience offers interactive history, followed by a ride through Holkham Park. Finally, pedal out to the vast Holkham Beach to enjoy the evening coastal breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Withburga",
+            "hu": "Saint Withburga",
+            "ro": "Saint Withburga",
+            "en": "Saint Withburga"
+          },
+          "coords": [
+            0.794473,
+            52.957171
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische, in der Landschaft verborgene Kirche, deren friedliche Umgebung ein perfekter Ort für stille Reflexion ist.",
+            "hu": "Fedezze fel ezt a tájba simuló, történelmi templomot, ahol a békés környezet tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
+            "ro": "Explorați această biserică istorică ascunsă în peisaj, unde împrejurimile pașnice reprezintă locul perfect pentru o reflecție liniștită.",
+            "en": "Explore this historic church hidden within the landscape, where peaceful surroundings make it a perfect spot for quiet reflection before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Walled Garden",
+            "hu": "Walled Garden",
+            "ro": "Walled Garden",
+            "en": "Walled Garden"
+          },
+          "coords": [
+            0.792144,
+            52.951308
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschön restaurierten Gärten, bewundern Sie die bunte Blumenpracht und nehmen Sie sich Zeit für die historischen Gewächshäuser.",
+            "hu": "Sétáljon végig a gyönyörűen felújított kerteken, csodálja meg a virágokat és a történelmi üvegházakat, amelyek igazán különleges hangulatot árasztanak.",
+            "ro": "Plimbați-vă prin aceste grădini frumos restaurate pentru a vedea aranjamente florale vibrante, făcându-vă timp să admirați serele istorice din sticlă.",
+            "en": "Walk through these beautifully restored gardens to see vibrant floral displays and heritage vegetables, taking time to admire the historic glasshouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Hall",
+            "hu": "Holkham Hall",
+            "ro": "Holkham Hall",
+            "en": "Holkham Hall"
+          },
+          "coords": [
+            0.803026,
+            52.950131
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die palladianische Architektur dieses prächtigen Herrenhauses und achten Sie gleich beim Eintreten auf die atemberaubende Decke der Marmorhalle.",
+            "hu": "Csodálja meg ennek a csodálatos kastélynak a palladiánus építészetét, és belépéskor ne felejtsen el felnézni a lenyűgöző Márványcsarnok mennyezetére.",
+            "ro": "Admirați arhitectura paladiană a acestui conac magnific și nu uitați să priviți tavanul uimitor al Sălii de Marmură atunci când pășiți înăuntru.",
+            "en": "Marvel at the Palladian architecture of this magnificent stately home, and make sure to look up at the stunning Marble Hall ceiling as you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisk",
+            "hu": "Obelisk",
+            "ro": "Obelisk",
+            "en": "Obelisk"
+          },
+          "coords": [
+            0.801862,
+            52.942033
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem markanten historischen Obelisken hinauf, der direkt auf das Herrenhaus ausgerichtet ist und den perfekten Fotostandort bietet.",
+            "hu": "Túrázzon fel a kastéllyal egy vonalban lévő, lenyűgöző történelmi obeliszkhez, amely a klasszikus tájfotózás végső és legszebb kilátópontját nyújtja.",
+            "ro": "Urcați până la acest obelisc istoric impresionant, aliniat direct cu Conacul, care oferă punctul de observație suprem pentru fotografii de peisaj clasice.",
+            "en": "Hike up to this striking historical obelisk aligned directly with the Hall, providing the ultimate vantage point for classic landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Park",
+            "hu": "Holkham Park",
+            "ro": "Holkham Park",
+            "en": "Holkham Park"
+          },
+          "coords": [
+            0.804171,
+            52.942422
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den weitläufigen Wildpark mit seinen alten Bäumen und dem schimmernden See, halten Sie jedoch stets respektvollen Abstand zu den Tieren.",
+            "hu": "Sétáljon végig a kiterjedt szarvasparkban a hatalmas fákkal és a csillogó tóval, de tartson tisztes távolságot a szabadon kószáló vadon élő állatoktól.",
+            "ro": "Plimbați-vă prin parcul întins de cerbi, cu copacii săi bătrâni și lacul strălucitor, păstrând o distanță respectuoasă față de fauna sălbatică.",
+            "en": "Wander through the sprawling deer park with its ancient trees and shimmering lake, keeping a respectful distance from the free-roaming wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Holkham Naturist Beach",
+            "hu": "Holkham Naturist Beach",
+            "ro": "Holkham Naturist Beach",
+            "en": "Holkham Naturist Beach"
+          },
+          "coords": [
+            0.806266,
+            52.971897
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weiten, unberührten goldenen Sandstrand, der für seine befreiende Atmosphäre und die schönen Küstendünen bekannt ist.",
+            "hu": "Zárja a napot ezen a hatalmas, érintetlen, aranyhomokos partszakaszon, amely felszabadító légköréről és a tengert keretező gyönyörű dűnéiről ismert.",
+            "ro": "Încheiați-vă ziua de-a lungul acestei vaste întinderi de nisip auriu neatins, cunoscută pentru atmosfera sa eliberatoare și dunele de coastă frumoase.",
+            "en": "End your day along this vast, unspoiled stretch of golden sand, known for its liberating atmosphere and beautiful coastal dunes perfectly framing the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur ruhigen Kirche Saint Withburga, die den friedlichen Ton angibt. Gegen Mittag schlendern Sie durch den Walled Garden und bewundern die Innenräume von Holkham Hall. Ihr Nachmittag umfasst eine kurze Fahrt zum historischen Obelisken und zu den Hirschen im Holkham Park. Beenden Sie den Tag mit einer Fahrt an die Küste für einen Spaziergang am weiten Sandstrand von Holkham Beach.",
+        "hu": "Vezessen az első állomásra, a békés Saint Withburga templomhoz. Délre bejárja a Walled Garden területét és megcsodálja a Holkham Hall lenyűgöző belső tereit. Délután egy rövid autózás következik a történelmi obeliszkhez és a Holkham Park szarvasaihoz. Zárja a napot a tengerpartra autózva, és tegyen egy nagy sétát a Holkham Beach végtelen homokdűnéi között.",
+        "ro": "Conduceți spre prima oprire la biserica senină Saint Withburga, dând un ton pașnic. Până la prânz, veți rătăci prin Walled Garden și veți admira interioarele din Holkham Hall. După-amiaza include un scurt drum spre Obeliscul istoric și cerbii din Holkham Park. Încheiați ziua conducând până pe coastă pentru o plimbare pe nisipurile plajei Holkham.",
+        "en": "Drive to your first stop at the serene Saint Withburga church, setting a peaceful tone. By midday, you will have wandered the Walled Garden and admired the stunning interiors of Holkham Hall. Your afternoon features a short drive to the historic Obelisk and the roaming deer of Holkham Park. Finish your day driving up to the coast for a walk along the vast, sweeping sands of Holkham Beach."
+      }
+    }
+  }
+}

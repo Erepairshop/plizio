@@ -1,0 +1,474 @@
+{
+  "city_id": "ma-oujda-cities-v2",
+  "anchor": {
+    "name": "Oujda",
+    "coords": [
+      -1.91,
+      34.68
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Sidi Abdelwahab",
+            "hu": "Bab Sidi Abdelwahab",
+            "ro": "Bab Sidi Abdelwahab",
+            "en": "Bab Sidi Abdelwahab"
+          },
+          "coords": [
+            -1.910056,
+            34.679918
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Tores, dem Haupteingang der Medina, und kommen Sie früh für Fotos ohne Menschenmassen.",
+            "hu": "Csodálja meg ennek a történelmi kapunak, a medina főbejáratának építészetét, és érkezzen korán, hogy tömeg nélkül készíthessen fotókat.",
+            "ro": "Admirați arhitectura impresionantă a acestei porți istorice, intrarea principală în medina, și ajungeți devreme pentru fotografii libere.",
+            "en": "Admire the striking architecture of this historic gate, which once served as the main entrance to the medina, and arrive early for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Souk El Ma",
+            "hu": "Souk El Ma",
+            "ro": "Souk El Ma",
+            "en": "Souk El Ma"
+          },
+          "coords": [
+            -1.913717,
+            34.680263
+          ],
+          "category": "landmark",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelles marokkanisches Handwerk auf diesem lebhaften historischen Wassermarkt und feilschen Sie freundlich um ein authentisches Souvenir.",
+            "hu": "Fedezze fel a hagyományos marokkói kézművességet ezen a történelmi vízpiacon, és alkudozzon barátságosan egy gyönyörű, autentikus szuvenírért.",
+            "ro": "Descoperiți meșteșugurile tradiționale marocane în această piață istorică de apă, cunoscută pentru atmosfera sa, și negociați pentru un suvenir autentic.",
+            "en": "Discover traditional Moroccan craftsmanship at this historical water market, known for its vibrant local atmosphere, and bargain amicably for a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Trois Fontaines",
+            "hu": "Les Trois Fontaines",
+            "ro": "Les Trois Fontaines",
+            "en": "Les Trois Fontaines"
+          },
+          "coords": [
+            -1.913393,
+            34.678993
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese drei historischen Brunnen, die einst die Medina lebenswichtig versorgten, und achten Sie auf die aufwendigen Zellige-Kacheln der Fassade.",
+            "hu": "Tekintse meg ezt a három történelmi kutat, amelyek egykor a medinát látták el friss vízzel, és figyelje meg a bonyolult Zellige csempék lenyűgöző mintáit.",
+            "ro": "Vizitați aceste trei fântâni istorice care alimentau cândva medina cu apă proaspătă, acordând atenție deosebită plăcilor complicate de faianță Zellige.",
+            "en": "Visit these three historic fountains that once crucially supplied the medina with fresh water, paying close attention to the intricate Zellige tilework."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Lalla Meryem",
+            "hu": "Musée Lalla Meryem",
+            "ro": "Musée Lalla Meryem",
+            "en": "Musée Lalla Meryem"
+          },
+          "coords": [
+            -1.91444,
+            34.677452
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte innerhalb dieser wunderschönen Anlage ein, spazieren Sie durch den ruhigen Garten und betrachten Sie die Waffensammlung.",
+            "hu": "Merüljön el a helyi történelemben ezen a gyönyörű helyszínen, sétáljon a csendes kertben, és szánjon időt a hagyományos fegyvergyűjtemény megtekintésére.",
+            "ro": "Aprofundați istoria locală în acest cadru arhitectural deosebit, plimbați-vă prin grădina liniștită și studiați cu atenție colecția tradițională de arme.",
+            "en": "Dive into local history within this beautiful architectural setting, stroll through the tranquil garden, and take your time examining the weapons collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar Sebti",
+            "hu": "Dar Sebti",
+            "ro": "Dar Sebti",
+            "en": "Dar Sebti"
+          },
+          "coords": [
+            -1.911985,
+            34.677241
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen prachtvollen Palast aus dem 20. Jahrhundert und bewundern Sie die detailreichen Holzschnitzereien während eines gemütlichen Rundgangs.",
+            "hu": "Fedezze fel ezt a gazdag kereskedő által épített 20. századi palotát, és csodálja meg a művészi fafaragásokat egy nyugodt, építészeti séta során.",
+            "ro": "Explorați acest palat magnific din secolul al XX-lea construit de un comerciant bogat și admirați sculpturile complicate în lemn în timpul unui tur relaxant.",
+            "en": "Explore this magnificent 20th-century palace built by a wealthy merchant, and make sure to admire the intricate wood carvings during an architectural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie D'Art Maghreb Al Arabi",
+            "hu": "Galerie D'Art Maghreb Al Arabi",
+            "ro": "Galerie D'Art Maghreb Al Arabi",
+            "en": "Galerie D'Art Maghreb Al Arabi"
+          },
+          "coords": [
+            -1.912261,
+            34.678202
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den Werken nordafrikanischer Künstler inspirieren und fragen Sie das Personal nach der tieferen Bedeutung der abstrakten Ausstellungsstücke.",
+            "hu": "Merítsen ihletet az észak-afrikai kortárs művészek alkotásaiból, és kérdezze bátran a kurátorokat az absztrakt művek kulturális és történelmi jelentéséről.",
+            "ro": "Lăsați-vă inspirat de lucrările artiștilor contemporani nord-africani și nu ezitați să întrebați curatorii despre semnificația pieselor de artă abstractă.",
+            "en": "Get inspired by the diverse works of contemporary North African artists, and feel free to ask the curators about the deeper meaning behind the abstract pieces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am imposanten Bab Sidi Abdelwahab, dem historischen Eingangstor zur Altstadt von Oujda. Tauchen Sie anschließend in die lebhaften Gassen ein und besuchen Sie den traditionellen Souk El Ma und die charmanten Les Trois Fontaines. Der Nachmittag ist der Kultur gewidmet, mit tiefen Einblicken im Musée Lalla Meryem und dem beeindruckenden Palast Dar Sebti. Abends bewundern Sie Kunst in der Galerie.",
+        "hu": "Kezdje a napot az impozáns Bab Sidi Abdelwahabnál, Oujda medinájának történelmi kapujánál. Ezután merüljön el a nyüzsgő sikátorokban, fedezze fel a hagyományos Souk El Ma piacot és a Les Trois Fontaines-t. A délután a kultúráé: a Musée Lalla Meryem és a lenyűgöző Dar Sebti palota várja. Este a Galerie D'Art Maghreb Al Arabi kortárs művészeti kiállításait érdemes megcsodálni.",
+        "ro": "Începeți la impunătorul Bab Sidi Abdelwahab, poarta istorică de intrare în medina din Oujda. Cufundați-vă în străduțele pline de viață, explorând piața tradițională Souk El Ma și fermecătoarele Les Trois Fontaines. După-amiaza este dedicată culturii, vizitând Muzeul Lalla Meryem și impresionantul palat Dar Sebti. Seara, admirați arta locală la Galerie D'Art Maghreb Al Arabi.",
+        "en": "Start at the imposing Bab Sidi Abdelwahab, the historic gateway to Oujda's medina. Dive into the bustling alleys to explore the traditional Souk El Ma and the charming Les Trois Fontaines. The afternoon is dedicated to culture, with deep insights at the Musée Lalla Meryem and the stunning Dar Sebti palace. In the evening, admire regional masterpieces at the Galerie D'Art Maghreb Al Arabi."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 4.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Sidi Abdelwahab",
+            "hu": "Bab Sidi Abdelwahab",
+            "ro": "Bab Sidi Abdelwahab",
+            "en": "Bab Sidi Abdelwahab"
+          },
+          "coords": [
+            -1.910056,
+            34.679918
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an diesem ikonischen Tor, einem Erbe der Stadt, und nutzen Sie die Morgenkühle, bevor die umliegenden Märkte zu geschäftig werden.",
+            "hu": "Kezdje biciklis túráját ennél az ikonikus kapunál, a helyi örökség részénél, és használja ki a reggeli hűvöst, mielőtt a környező piacok túlzsúfolttá válnak.",
+            "ro": "Începeți turul pe bicicletă la această poartă emblematică, o piesă esențială de patrimoniu, și profitați de răcoarea dimineții înainte de aglomerație.",
+            "en": "Start your bike tour at this iconic gate, an essential piece of local heritage, and take advantage of the morning chill before the markets become too busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Ahl Jamel",
+            "hu": "Bab Ahl Jamel",
+            "ro": "Bab Ahl Jamel",
+            "en": "Bab Ahl Jamel"
+          },
+          "coords": [
+            -1.917248,
+            34.681206
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses kleinere, aber authentische Tor der Medina und parken Sie Ihr Rad kurz sicher, um die feinen architektonischen Details zu betrachten.",
+            "hu": "Csodálja meg a medina e kisebb, de autentikus kapuját, amely megőrizte történelmi báját, és parkolja le a biciklit egy percre a részletek megfigyeléséhez.",
+            "ro": "Admirați această poartă mai mică, dar autentică a medinei, care își păstrează farmecul istoric, și parcați bicicleta pentru a observa detaliile arhitecturale.",
+            "en": "Admire this smaller yet highly authentic medina gate, which retains its historical charm, and park your bike briefly to closely observe its architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Mueée régional du mouvement national",
+            "hu": "Mueée régional du mouvement national",
+            "ro": "Mueée régional du mouvement national",
+            "en": "Mueée régional du mouvement national"
+          },
+          "coords": [
+            -1.915373,
+            34.678065
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den mutigen marokkanischen Widerstand und nehmen Sie sich Zeit, die beeindruckenden historischen Fotografien im ersten Stock zu studieren.",
+            "hu": "Tudjon meg többet a bátor marokkói ellenállásról, és szánjon időt a megható történelmi fényképek tanulmányozására, amelyek az első emeleten találhatók.",
+            "ro": "Aflați mai multe despre curajoasa mișcare de rezistență marocană și faceți-vă timp pentru a studia fotografiile istorice expuse permanent la primul etaj.",
+            "en": "Learn more about the courageous Moroccan resistance movement, and take your time to thoroughly study the poignant historical photographs exhibited on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohamed VI Theatre",
+            "hu": "Mohamed VI Theatre",
+            "ro": "Mohamed VI Theatre",
+            "en": "Mohamed VI Theatre"
+          },
+          "coords": [
+            -1.930441,
+            34.67881
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.38,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die moderne Fassade dieses riesigen Kulturzentrums und prüfen Sie das Programm, falls Sie später eine abendliche Aufführung sehen möchten.",
+            "hu": "Fényképezze le ennek a hatalmas kulturális helyszínnek a modern homlokzatát, és ellenőrizze a műsort egy esetleges esti színházi előadás megtekintéséhez.",
+            "ro": "Fotografiați fațada excepțional de modernă a acestui vast spațiu cultural și verificați programul zilnic în cazul în care doriți să asistați la o reprezentație.",
+            "en": "Photograph the exceptionally modern facade of this massive cultural venue, and check the daily schedule at the entrance in case you want to catch a performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel d'Oujda",
+            "hu": "Centre Culturel d'Oujda",
+            "ro": "Centre Culturel d'Oujda",
+            "en": "Centre Culturel d'Oujda"
+          },
+          "coords": [
+            -1.919441,
+            34.690222
+          ],
+          "category": "cultural",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Zentrum der städtischen Kunstszene und schauen Sie im malerischen Innenhof vorbei, wo oft spannende temporäre Ausstellungen stattfinden.",
+            "hu": "Látogasson el a városi művészeti élet e nyüzsgő központjába, és mindenképpen nézzen be a belső udvarra, ahol lenyűgöző időszaki kiállításokat tartanak.",
+            "ro": "Vizitați acest centru vibrant al scenei artistice urbane, dedicat expresiei locale, și verificați curtea interioară unde au loc adesea expoziții temporare.",
+            "en": "Visit this vibrant center of the urban art scene, dedicated to local expression, and be sure to check the interior courtyard where temporary exhibitions are held."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie d'Art",
+            "hu": "Galerie d'Art",
+            "ro": "Galerie d'Art",
+            "en": "Galerie d'Art"
+          },
+          "coords": [
+            -1.918389,
+            34.691491
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Radtour mit vielfältiger zeitgenössischer Kunst ab und suchen Sie sich ein nahegelegenes Café, um die Eindrücke des Tages Revue passieren zu lassen.",
+            "hu": "Zárja kerékpáros túráját színes kortárs művészeti kiállításokkal, majd keressen egy közeli kávézót, ahol nyugodtan átgondolhatja a nap kulturális élményeit.",
+            "ro": "Încheiați turul pe bicicletă admirând expoziții de artă contemporană și găsiți o cafenea în apropiere pentru a vă relaxa și a reflecta asupra impresiilor zilei.",
+            "en": "Conclude your cycling tour by browsing the colorful contemporary art exhibits, and easily find a nearby medina café where you can relax and process the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt am ikonischen Stadttor Bab Sidi Abdelwahab, bevor es zum ruhigeren Bab Ahl Jamel weitergeht. Mittags lernen Sie im Museum der Nationalbewegung die jüngere Geschichte Marokkos kennen und radeln dann zum modernen Mohamed VI Theater. Am späten Nachmittag erkunden Sie das kulturelle Zentrum von Oujda. Beenden Sie die Tour in der Galerie d'Art und genießen Sie die abendliche Brise.",
+        "hu": "A biciklis túra az ikonikus Bab Sidi Abdelwahab kapunál kezdődik, majd a csendesebb Bab Ahl Jamel felé folytatódik. Délben a Nemzeti Mozgalom Múzeumában ismerkedhet meg Marokkó történelmével, majd a modern V. Mohamed Színházhoz teker. Késő délután fedezze fel Oujda kulturális központját, a napot pedig a Galerie d'Art kiállításain és a friss esti levegőn zárja le.",
+        "ro": "Turul pe bicicletă începe la emblematica poartă Bab Sidi Abdelwahab, trecând apoi spre mai liniștita Bab Ahl Jamel. La prânz, descoperiți istoria recentă a Marocului la Muzeul Mișcării Naționale, apoi pedalați spre modernul Teatru Mohamed VI. După-amiaza târziu este perfectă pentru a explora Centrul Cultural din Oujda, încheind ziua la Galerie d'Art cu o expoziție relaxantă.",
+        "en": "Your cycling tour begins at the iconic Bab Sidi Abdelwahab gate before heading to the quieter Bab Ahl Jamel. At midday, discover Morocco's recent history at the National Movement Museum, then ride to the modern Mohamed VI Theatre. The late afternoon is perfect for exploring Oujda's Cultural Center, ending your active day at the Galerie d'Art enjoying the cool evening breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 7.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Roma",
+            "hu": "Roma",
+            "ro": "Roma",
+            "en": "Roma"
+          },
+          "coords": [
+            -1.900721,
+            34.655649
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Überreste südlich des Stadtzentrums und parken Sie bequem am Straßenrand, um einen kurzen, ruhigen Spaziergang in der Natur zu genießen.",
+            "hu": "Fedezze fel az antik romokat közvetlenül a városközponttól délre, és parkoljon kényelmesen az út szélén egy rövid, békés természetben tett séta erejéig.",
+            "ro": "Descoperiți vestigiile antice situate la sud de centrul orașului și parcați convenabil pe marginea drumului pentru a vă bucura de o scurtă plimbare liniștită.",
+            "en": "Discover the ancient structural ruins located just south of the city center, and conveniently park your vehicle along the roadside to enjoy a brief, peaceful walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Ethnographique Lalla Aicha",
+            "hu": "Musée Ethnographique Lalla Aicha",
+            "ro": "Musée Ethnographique Lalla Aicha",
+            "en": "Musée Ethnographique Lalla Aicha"
+          },
+          "coords": [
+            -1.907608,
+            34.673804
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.11,
+          "tip_5lang": {
+            "de": "Erforschen Sie die faszinierenden traditionellen Trachten der Region; das Museum verfügt meistens über einen eigenen kleinen Parkplatz direkt neben dem Haupteingang.",
+            "hu": "Fedezze fel a régió lenyűgöző hagyományos népviseleteit és eszközeit; a múzeumnak általában saját kis parkolója van a látogatók számára a bejárat mellett.",
+            "ro": "Explorați costumele tradiționale fascinante ale regiunii; muzeul dispune de obicei de o mică parcare dedicată pentru vizitatori, chiar lângă intrarea principală.",
+            "en": "Explore the region's fascinating traditional costumes and historical tools; the museum usually has a dedicated small parking area directly adjacent to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dar Sebti",
+            "hu": "Dar Sebti",
+            "ro": "Dar Sebti",
+            "en": "Dar Sebti"
+          },
+          "coords": [
+            -1.911985,
+            34.677241
+          ],
+          "category": "landmark",
+          "arrive_at": "12:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätischen Empfangsräume dieses Gebäudes, das für kulturelle Events genutzt wird, und profitieren Sie von den nahegelegenen Parkplätzen.",
+            "hu": "Tekintse meg ennek a csodás történelmi épületnek a fenséges fogadótermeit, amelyeket kulturális eseményekre használnak, kihasználva a közeli parkolóhelyeket.",
+            "ro": "Vizitați sălile de recepție maiestuoase ale acestei clădiri istorice, folosită pentru evenimente culturale, profitând la maximum de locurile de parcare din apropiere.",
+            "en": "Visit the majestic reception rooms of this historic building, which is beautifully maintained and often used for cultural events, using the nearby parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohamed VI Theatre",
+            "hu": "Mohamed VI Theatre",
+            "ro": "Mohamed VI Theatre",
+            "en": "Mohamed VI Theatre"
+          },
+          "coords": [
+            -1.930441,
+            34.67881
+          ],
+          "category": "cultural",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eindrucksvolle zeitgenössische marokkanische Baukunst von außen und nutzen Sie die großzügigen Parkmöglichkeiten direkt vor Ort für Fotos.",
+            "hu": "Csodálja meg az impozáns kortárs marokkói építészetet kívülről, és használja ki a közvetlenül a helyszínen található tágas parkolási lehetőségeket egy fotózáshoz.",
+            "ro": "Admirați arhitectura marocană contemporană impresionantă din exterior și profitați de facilitățile generoase de parcare aflate chiar la fața locului pentru fotografii.",
+            "en": "Admire the impressive contemporary Moroccan architecture from the outside, and easily utilize the spacious parking facilities directly on site to take a photo walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel d'Oujda",
+            "hu": "Centre Culturel d'Oujda",
+            "ro": "Centre Culturel d'Oujda",
+            "en": "Centre Culturel d'Oujda"
+          },
+          "coords": [
+            -1.919441,
+            34.690222
+          ],
+          "category": "cultural",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über lokale Kunstprojekte und prüfen Sie die Bibliothek des Zentrums, die eine reiche Sammlung an regionaler Literatur mit gutem Autozugang bietet.",
+            "hu": "Tájékozódjon a vonzó helyi művészeti projektekről, és nézze meg a központ nyilvános könyvtárát, amely gazdag regionális irodalmi gyűjteménnyel várja az autóval érkezőket.",
+            "ro": "Informați-vă despre proiectele de artă locale și verificați biblioteca publică a centrului, care oferă o colecție bogată de literatură cu acces auto foarte ușor.",
+            "en": "Learn about engaging local art projects, and check out the center's public library, which offers a surprisingly rich collection of literature with easy car access."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc d'Attraction et d'Animation d'Oujda",
+            "hu": "Parc d'Attraction et d'Animation d'Oujda",
+            "ro": "Parc d'Attraction et d'Animation d'Oujda",
+            "en": "Parc d'Attraction et d'Animation d'Oujda"
+          },
+          "coords": [
+            -1.912032,
+            34.697859
+          ],
+          "category": "family",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Genießen Sie lustige Fahrgeschäfte und Spazierwege mit der Familie; die späten Nachmittagsstunden bieten das angenehmste Klima und ausreichend Parkraum für den Besuch.",
+            "hu": "Élvezze a szórakoztató körhintákat és sétányokat az egész családdal; a késő délutáni órák nyújtják a legkellemesebb klímát és bőséges parkolóhelyet a látogatáshoz.",
+            "ro": "Bucurați-vă de atracții distractive și alei de plimbare cu familia; orele târzii ale după-amiezii oferă cea mai plăcută climă și spațiu amplu de parcare pentru vizită.",
+            "en": "Enjoy fun amusement rides and walking paths with the entire family; the late afternoon hours definitely offer the most pleasant climate and ample parking space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt im Süden bei der historischen Stätte Roma, um ein Stück antiker Atmosphäre zu erleben. Fahren Sie weiter zum Musée Ethnographique Lalla Aicha für tiefgehende lokale Einblicke, gefolgt von der Pracht des Dar Sebti Palastes. Nachmittags erwartet Sie das moderne Mohamed VI Theater und das Centre Culturel. Abends können Sie im Freizeitpark entspannen und die Lichter der Stadt genießen.",
+        "hu": "Kezdje útját délen a Roma történelmi helyszínénél, hogy átélje az ókori atmoszférát. Folytassa a Musée Ethnographique Lalla Aicha-ban a helyi szokások megismerésével, majd csodálja meg a Dar Sebti palotát. Délután az V. Mohamed Színház és a Kulturális Központ várja. Az estét a helyi vidámparkban töltheti, ahol kipihenheti a nap fáradalmait és élvezheti a város fényeit.",
+        "ro": "Începeți traseul în sud, la situl istoric Roma, pentru o experiență antică unică. Continuați cu o vizită aprofundată la Muzeul Etnografic Lalla Aicha, urmată de grandoarea palatului Dar Sebti. După-amiaza este rezervată arhitecturii moderne a Teatrului Mohamed VI și Centrului Cultural. Seara, relaxați-vă la parcul de distracții, bucurându-vă de luminile vibrante ale orașului.",
+        "en": "Start your drive in the south at the Roma historical site to experience a touch of antiquity. Continue to the Lalla Aicha Ethnographic Museum for deep local insights, followed by the grandeur of Dar Sebti palace. Your afternoon features the modern architecture of the Mohamed VI Theatre and the Cultural Center. In the evening, relax at the local amusement park and enjoy the city's vibrant lights."
+      }
+    }
+  }
+}

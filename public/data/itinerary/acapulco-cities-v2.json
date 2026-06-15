@@ -1,0 +1,474 @@
+{
+  "city_id": "acapulco-cities-v2",
+  "anchor": {
+    "name": "Acapulco",
+    "coords": [
+      -99.8901,
+      16.8634
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Tamarindos",
+            "hu": "Tamarindos Strand",
+            "ro": "Playa Tamarindos",
+            "en": "Tamarindos Beach"
+          },
+          "coords": [
+            -99.894709,
+            16.855614
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand an der Playa Tamarindos, einem perfekten Ort für Familien, wo Sie früh morgens die Fischer beim Einholen des frischen Fangs beobachten können.",
+            "hu": "Élvezze a puha homokot a Tamarindos strandon, amely ideális hely családok számára, és érkezzen kora reggel, hogy megfigyelhesse a halászok mindennapi munkáját a parton.",
+            "ro": "Bucurați-vă de nisipul fin de la Playa Tamarindos, o plajă excelentă pentru familii, unde cel mai bine este să ajungeți dimineața devreme pentru a vedea pescarii locali.",
+            "en": "Enjoy the soft sand at Playa Tamarindos, an excellent spot for families where arriving early in the morning lets you watch local fishermen bringing in their fresh daily catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Bahía",
+            "hu": "Mirador de la Bahía Kilátó",
+            "ro": "Mirador de la Bahía",
+            "en": "Mirador de la Bahía Viewpoint"
+          },
+          "coords": [
+            -99.897847,
+            16.854412
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Aussicht vom Mirador de la Bahía, der einen Panoramablick über ganz Acapulco bietet, und bringen Sie unbedingt eine Kamera für tolle Fotos mit.",
+            "hu": "Csodálja meg a lélegzetelállító kilátást a Mirador de la Bahíáról, amely panorámás rálátást nyújt egész Acapulcóra, és ne felejtsen el fényképezőgépet hozni a remek fotókhoz.",
+            "ro": "Admirați priveliștea spectaculoasă de la Mirador de la Bahía, care oferă o panoramă asupra întregului Acapulco, și nu uitați să aduceți un aparat foto pentru imagini superbe.",
+            "en": "Admire the spectacular views from Mirador de la Bahía, which offers a sweeping panorama over all of Acapulco, and be sure to bring your camera for truly unforgettable photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Las Hamacas",
+            "hu": "Las Hamacas Strand",
+            "ro": "Playa Las Hamacas",
+            "en": "Las Hamacas Beach"
+          },
+          "coords": [
+            -99.899191,
+            16.853203
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der Playa Las Hamacas, einem historischen Strandabschnitt in der Bucht, und probieren Sie unbedingt die lokalen Meeresfrüchte in den nahen Restaurants.",
+            "hu": "Pihenjen a Playa Las Hamacas nevű történelmi strandszakaszon az öböl szívében, és mindenképpen kóstolja meg a közeli tengerparti éttermek friss tengeri különlegességeit.",
+            "ro": "Relaxați-vă pe Playa Las Hamacas, o porțiune istorică de plajă din inima golfului, și asigurați-vă că degustați fructele de mare proaspete la restaurantele din apropiere.",
+            "en": "Relax on Playa Las Hamacas, a historic stretch of beach in the heart of the bay, and be sure to sample the fresh seafood specialties at the many nearby waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+            "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+            "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+            "en": "Acapulco Historical Museum Fort of San Diego"
+          },
+          "coords": [
+            -99.902381,
+            16.85015
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Acapulcos im Fuerte de San Diego, einer sternförmigen Festung, deren Besuch am Nachmittag zu empfehlen ist, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel Acapulco gazdag történelmét a csillag alakú San Diego erődben, amelyet érdemes a kora délutáni órákban felkeresni, hogy elkerülje a legnagyobb trópusi hőséget.",
+            "ro": "Descoperiți istoria bogată a orașului în fortăreața în formă de stea San Diego, pe care este recomandat să o vizitați după-amiaza pentru a evita căldura intensă a amiezii.",
+            "en": "Discover the rich history of Acapulco in the star-shaped Fort of San Diego, which is highly recommended to visit in the early afternoon to escape the intense tropical heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las 7 regiones",
+            "hu": "Hét Régió Múzeuma",
+            "ro": "Muzeul celor 7 Regiuni",
+            "en": "Museum of the 7 Regions"
+          },
+          "coords": [
+            -99.903922,
+            16.849847
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die kulturelle Vielfalt im Museo de las 7 regiones, das die indigene Kunst präsentiert, wobei Sie etwa eine Stunde für die detaillierten Exponate einplanen sollten.",
+            "hu": "Ismerje meg a kulturális sokszínűséget a Hét Régió Múzeumában, amely az őslakosok művészetét mutatja be, és szánjon legalább egy órát a részletes kiállítási tárgyak megtekintésére.",
+            "ro": "Învățați despre diversitatea culturală la Muzeul celor 7 Regiuni, care prezintă arta indigenă, și alocați cel puțin o oră pentru a examina cu atenție exponatele detaliate.",
+            "en": "Learn about cultural diversity at the Museum of the 7 Regions, which showcases indigenous art, and allocate at least an hour to carefully examine the finely detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro",
+            "hu": "Színház",
+            "ro": "Teatrul",
+            "en": "Theater"
+          },
+          "coords": [
+            -99.908892,
+            16.848693
+          ],
+          "category": "cultural",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am örtlichen Teatro, einem kulturellen Zentrum, in dem Sie sich vorab über das aktuelle Programm informieren sollten, um vielleicht eine Abendvorstellung zu erleben.",
+            "hu": "Fejezze be a napot a helyi Színházban, amely fontos kulturális központ, és érdemes előre tájékozódni az aktuális programokról, hogy elcsípjen egy esti előadást vagy koncertet.",
+            "ro": "Încheiați ziua la Teatrul local, un centru cultural important, și verificați programul în avans pentru a avea șansa de a prinde un spectacol sau un concert de seară excelent.",
+            "en": "End your day at the local Theater, a significant cultural hub where you should check the schedule in advance for a chance to catch an excellent evening performance or concert."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang durch Acapulco beginnt an der Playa Tamarindos, wo das sanfte Meeresrauschen einen entspannten Start in den Tag verspricht, bevor wir zum Aussichtspunkt gehen. / Am Mittag erreichen wir die historische Playa Las Hamacas, wo zahlreiche Restaurants mit fangfrischem Fisch auf uns warten. / Der Nachmittag gehört der Geschichte, wenn wir das imposante Fuerte de San Diego und das faszinierende Museo de las 7 regiones erkunden. / Am Abend lassen wir die Eindrücke am städtischen Teatro ausklingen, wo oft abwechslungsreiche kulturelle Veranstaltungen angeboten werden.",
+        "hu": "Acapulcói sétánk a Playa Tamarindos homokján indul, ahol a tenger lágy zúgása tökéletes kezdést biztosít a napnak, mielőtt felsétálunk a kilátóhoz. / Délben elérjük a történelmi Playa Las Hamacas partját, ahol számos étterem vár ránk a friss fogásokkal. / A délután a történelemé, amikor felfedezzük a lenyűgöző San Diego erődöt és az izgalmas Hét Régió Múzeumát. / Az estét a városi Színház közelében zárjuk, ahol gyakran kínálnak változatos kulturális programokat az érdeklődőknek.",
+        "ro": "Plimbarea noastră prin Acapulco începe pe Playa Tamarindos, unde sunetul blând al mării promite un început relaxant înainte de a urca la punctul de belvedere. / La prânz ajungem la istorica Playa Las Hamacas, unde numeroase restaurante ne așteaptă cu pește proaspăt prins. / După-amiaza este dedicată istoriei, explorând impresionanta Fortăreață San Diego și fascinantul Muzeu al celor 7 Regiuni. / Seara încheiem ziua la Teatrul municipal, unde se oferă adesea o gamă variată de evenimente culturale interesante.",
+        "en": "Our walking tour of Acapulco begins at Playa Tamarindos, where the gentle sound of the sea promises a relaxing start to the day before heading to the viewpoint. / At midday, we reach the historic Playa Las Hamacas, where numerous waterfront restaurants await us with freshly caught seafood. / The afternoon belongs to history as we explore the imposing Fort of San Diego and the fascinating Museum of the 7 Regions. / In the evening, we wind down at the municipal Theater, a vibrant hub that frequently hosts a diverse range of cultural events."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Papagayo",
+            "hu": "Papagayo Strand",
+            "ro": "Playa Papagayo",
+            "en": "Papagayo Beach"
+          },
+          "coords": [
+            -99.880485,
+            16.858874
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie sportlich an der Playa Papagayo, einem lebhaften Strand mit breitem Sandstreifen, der sich ideal für morgendliche Aktivitäten und einen erfrischenden ersten Schwumm eignet.",
+            "hu": "Kezdje sportosan a napot a Playa Papagayo széles, homokos strandján, amely ideális helyszín a reggeli testmozgáshoz és egy frissítő úszáshoz a csendesebb kora reggeli órákban.",
+            "ro": "Începeți ziua sportiv la Playa Papagayo, o plajă largă de nisip ideală pentru activitățile matinale și pentru o primă baie răcoritoare în apele calme înainte de aglomerație.",
+            "en": "Start your day actively at Playa Papagayo, a broad sandy beach that is perfectly suited for morning exercise and a refreshing first swim in the calm waters before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Hornos",
+            "hu": "Hornos Strand",
+            "ro": "Playa Hornos",
+            "en": "Hornos Beach"
+          },
+          "coords": [
+            -99.889989,
+            16.857274
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre an der Playa Hornos, deren sanfte Wellen zum Verweilen einladen, und mieten Sie sich einen Liegestuhl für maximalen Komfort am Vormittag.",
+            "hu": "Élvezze a nyugodtabb légkört a Playa Hornoson, ahol a szelíd hullámok pihenésre csábítanak, és béreljen egy napágyat, hogy maximális kényelemben tölthesse el a délelőttöt.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită la Playa Hornos, unde valurile blânde te invită la relaxare, și închiriați un șezlong pentru confort maxim în timpul dimineții calde.",
+            "en": "Enjoy the quieter atmosphere at Playa Hornos, where gentle waves invite you to relax, and consider renting a comfortable lounge chair for maximum enjoyment during the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Las Hamacas",
+            "hu": "Las Hamacas Strand",
+            "ro": "Playa Las Hamacas",
+            "en": "Las Hamacas Beach"
+          },
+          "coords": [
+            -99.899191,
+            16.853203
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich nach der Radtour eine Erholungspause an der Playa Las Hamacas, wo Sie direkt am Strand ein erfrischendes Getränk genießen sollten.",
+            "hu": "Jutalmazza meg magát egy kis pihenővel a Playa Las Hamacas partján, és mindenképpen fogyasszon el egy frissítő trópusi italt közvetlenül a homokos parton.",
+            "ro": "Răsfățați-vă cu o pauză după pedalare pe Playa Las Hamacas, unde ar trebui să savurați o băutură răcoritoare direct pe plaja nisipoasă.",
+            "en": "Treat yourself to a rest after your ride at Playa Las Hamacas, where you should grab a refreshing tropical drink right on the sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+            "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+            "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+            "en": "Acapulco Historical Museum Fort of San Diego"
+          },
+          "coords": [
+            -99.902381,
+            16.85015
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, um das beeindruckende Fuerte de San Diego zu besuchen, das spannende Einblicke in Acapulcos Piratengeschichte und Architektur bietet.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, hogy felfedezze a lenyűgöző San Diego erődöt, amely izgalmas betekintést nyújt Acapulco kalózokkal teli történelmébe.",
+            "ro": "Parcați-vă bicicleta în siguranță pentru a vizita impresionanta Fortăreață San Diego, care oferă o privire fascinantă asupra istoriei pirateriei din Acapulco.",
+            "en": "Securely park your bike to explore the impressive Fort of San Diego, which offers fascinating insights into Acapulco's pirate history and colonial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tlacopanocha",
+            "hu": "Tlacopanocha Strand",
+            "ro": "Playa Tlacopanocha",
+            "en": "Tlacopanocha Beach"
+          },
+          "coords": [
+            -99.907688,
+            16.845175
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Treiben an der kleinen Playa Tlacopanocha, einem charmanten Fischerstrand, an dem Sie fangfrischen Fisch ausprobieren können.",
+            "hu": "Tapasztalja meg a helyi pezsgést a bájos Playa Tlacopanocha halászstrandon, ahol lehetőség nyílik megkóstolni a legfrissebb, egyenesen a tengerből fogott halakat.",
+            "ro": "Experimentați atmosfera locală la mica Playa Tlacopanocha, o plajă fermecătoare de pescari unde puteți degusta cel mai proaspăt pește proaspăt prins.",
+            "en": "Experience the local vibe at the small Playa Tlacopanocha, a charming fisherman's beach where you have the perfect opportunity to try freshly caught fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Aguada",
+            "hu": "La Aguada Strand",
+            "ro": "Playa La Aguada",
+            "en": "La Aguada Beach"
+          },
+          "coords": [
+            -99.901042,
+            16.839433
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an der abgelegenen Playa La Aguada, wo Sie in Ruhe den atemberaubenden Sonnenuntergang über dem Pazifik genießen können.",
+            "hu": "Zárja a kerékpártúrát az eldugott Playa La Aguada strandon, ahol békében és csendben élvezheti a Csendes-óceán felett lemenő nap lélegzetelállító látványát.",
+            "ro": "Încheiați turul cu bicicleta pe plaja retrasă La Aguada, unde vă puteți bucura în liniște de un apus de soare uimitor deasupra Oceanului Pacific.",
+            "en": "Conclude your bike tour at the secluded Playa La Aguada, where you can peacefully enjoy a stunning sunset over the Pacific Ocean away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet energiegeladen an der weiten Playa Papagayo, wo die kühle Brise des Morgens perfekte Bedingungen für eine erste entspannte Fahrt entlang der Küste schafft. / Gegen Mittag radeln wir über die ruhige Playa Hornos zur Playa Las Hamacas, wo sich eine wohlverdiente Pause mit köstlichen lokalen Spezialitäten anbietet. / Am Nachmittag tauchen wir im Fuerte de San Diego in die koloniale Vergangenheit ein und setzen unsere Tour zur belebten Playa Tlacopanocha fort. / Den Abschluss bildet die idyllische Playa La Aguada, wo wir bei abendlichem Licht die ruhige Atmosphäre abseits des großen Trubels genießen können.",
+        "hu": "A kerékpártúra energikusan indul a tágas Playa Papagayón, ahol a reggeli hűvös szellő tökéletes feltételeket teremt egy laza parti tekeréshez. / Dél körül a nyugodt Playa Hornoson keresztül a Playa Las Hamacas felé vesszük az irányt, amely ideális egy ízletes ebédszünethez. / Délután a San Diego erődben elmerülünk a gyarmati múltban, majd folytatjuk utunkat a nyüzsgő Playa Tlacopanocha partjára. / A napot az idillikus Playa La Aguadán zárjuk, ahol az esti fényekben élvezhetjük a nagy nyüzsgéstől távolabbi, békés és csendes légkört.",
+        "ro": "Turul cu bicicleta începe plin de energie pe întinsa Playa Papagayo, unde briza răcoroasă a dimineții creează condiții perfecte pentru o primă plimbare pe coastă. / În jurul prânzului pedalăm pe liniștita Playa Hornos spre Playa Las Hamacas, care oferă oportunitatea perfectă pentru o pauză delicioasă. / După-amiaza ne cufundăm în trecutul colonial la Fortul San Diego și ne continuăm traseul spre animata Playa Tlacopanocha. / Turul se încheie pe idilica Playa La Aguada, unde putem savura atmosfera liniștită departe de agitație în lumina caldă a serii.",
+        "en": "The bike tour kicks off energetically at the expansive Playa Papagayo, where the cool morning breeze creates perfect conditions for a relaxed coastal ride. / Around midday, we pedal past the tranquil Playa Hornos to Playa Las Hamacas, offering a well-deserved break filled with delicious local delicacies. / In the afternoon, we delve into the colonial past at the Fort of San Diego and continue our journey to the lively Playa Tlacopanocha. / The tour concludes at the idyllic Playa La Aguada, where we can enjoy the peaceful atmosphere away from the crowds in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 14.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Zone Palma Sola",
+            "hu": "Palma Sola Régészeti Zóna",
+            "ro": "Zona Arheologică Palma Sola",
+            "en": "Palma Sola Archaeological Zone"
+          },
+          "coords": [
+            -99.90125,
+            16.886304
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Petroglyphen in der archäologischen Zone Palma Sola, wo festes Schuhwerk empfohlen wird, da das Gelände teilweise uneben ist.",
+            "hu": "Csodálja meg az ősi sziklarajzokat a Palma Sola régészeti zónában, és mindenképpen viseljen zárt cipőt, mivel a terep helyenként egyenetlen és köves.",
+            "ro": "Admirați petroglifele antice din zona arheologică Palma Sola și asigurați-vă că purtați încălțăminte robustă, deoarece terenul poate fi destul de accidentat.",
+            "en": "Marvel at the ancient petroglyphs at the Palma Sola archaeological zone, and make sure to wear sturdy shoes as the terrain can be somewhat uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Condesa",
+            "hu": "Condesa Strand",
+            "ro": "Playa Condesa",
+            "en": "Condesa Beach"
+          },
+          "coords": [
+            -99.868746,
+            16.856672
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der belebten Playa Condesa im Herzen der goldenen Zone, wo Sie viele Parkmöglichkeiten in der Nähe der beliebten Strandclubs finden.",
+            "hu": "Pihenjen a nyüzsgő Playa Condesa partján az Arany Zóna szívében, ahol könnyen találhat parkolóhelyet a legnépszerűbb tengerparti klubok és éttermek közelében.",
+            "ro": "Relaxați-vă pe animata Playa Condesa din inima Zonei de Aur, unde veți găsi numeroase locuri de parcare aproape de cele mai populare cluburi de plajă.",
+            "en": "Relax at the bustling Playa Condesa in the heart of the Golden Zone, where you will easily find parking near some of the most popular beach clubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Icacos",
+            "hu": "Icacos Strand",
+            "ro": "Playa Icacos",
+            "en": "Icacos Beach"
+          },
+          "coords": [
+            -99.857635,
+            16.845225
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das ruhigere Wasser der weitläufigen Playa Icacos ein, die sich ideal für Familien eignet und über hervorragende sanitäre Einrichtungen verfügt.",
+            "hu": "Merüljön el a kiterjedt Playa Icacos csendesebb vizeiben, amely ideális választás családok számára, és kiváló mosdókkal, valamint kényelmi szolgáltatásokkal rendelkezik.",
+            "ro": "Scufundați-vă în apele mai liniștite ale vastei plaje Icacos, care este ideală pentru familii și dispune de facilități sanitare și de plajă excelente.",
+            "en": "Dive into the calmer waters of the expansive Playa Icacos, which is ideal for families and features excellent public restrooms and beach facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+            "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+            "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+            "en": "Acapulco Historical Museum Fort of San Diego"
+          },
+          "coords": [
+            -99.902381,
+            16.85015
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das prächtige Fuerte de San Diego, um die koloniale Vergangenheit der Stadt zu verstehen, und nutzen Sie den kostenlosen Parkplatz am Eingang.",
+            "hu": "Tekintse meg a csodálatos San Diego erődöt, hogy megértse a város gyarmati múltját, és bátran használja a bejáratnál található ingyenes parkolóhelyeket.",
+            "ro": "Vizitați magnifica Fortăreață San Diego pentru a înțelege trecutul colonial al orașului și profitați de locurile de parcare gratuite situate la intrare.",
+            "en": "Visit the magnificent Fort of San Diego to understand the city's colonial past, and be sure to take advantage of the free parking available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Aguada",
+            "hu": "La Aguada Strand",
+            "ro": "Playa La Aguada",
+            "en": "La Aguada Beach"
+          },
+          "coords": [
+            -99.901042,
+            16.839433
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an der malerischen Playa La Aguada, die sich perfekt für einen späten Nachmittagsspaziergang fernab der Touristenmassen eignet.",
+            "hu": "Élvezze a festői Playa La Aguada nyugodt légkörét, amely tökéletes helyszínt biztosít egy késő délutáni sétához, távol a turisták megszokott tömegétől.",
+            "ro": "Bucurați-vă de atmosfera relaxată la pitoreasca Playa La Aguada, care este perfectă pentru o plimbare de la sfârșitul după-amiezii, departe de aglomerația turistică.",
+            "en": "Enjoy the laid-back atmosphere at the picturesque Playa La Aguada, which provides the perfect setting for a late afternoon stroll far from the usual tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Bahía",
+            "hu": "Mirador de la Bahía Kilátó",
+            "ro": "Mirador de la Bahía",
+            "en": "Mirador de la Bahía Viewpoint"
+          },
+          "coords": [
+            -99.897847,
+            16.854412
+          ],
+          "category": "natural",
+          "arrive_at": "16:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie bei Sonnenuntergang zum Mirador de la Bahía hinauf, um die magische Abendbeleuchtung Acapulcos aus der Vogelperspektive zu fotografieren.",
+            "hu": "Autózzon fel a Mirador de la Bahía kilátóhoz naplementekor, hogy madártávlatból fényképezhesse le Acapulco varázslatos és lenyűgöző esti kivilágítását.",
+            "ro": "Conduceți până la Mirador de la Bahía la apusul soarelui pentru a fotografia iluminatul magic de seară al Acapulcului de la o înălțime panoramică absolut uimitoare.",
+            "en": "Drive up to the Mirador de la Bahía at sunset to photograph the magical evening lighting of Acapulco from an absolutely stunning bird's-eye perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour beginnt hoch über der Bucht bei der archäologischen Stätte Palma Sola, wo alte Petroglyphen im kühlen Morgenlicht am besten zur Geltung kommen. / Zur Mittagszeit cruisen wir entlang der Küste zu den beliebten Stränden Condesa und Icacos, die mit hervorragenden Restaurants und Wassersport locken. / Der Nachmittag führt uns zurück ins Zentrum zur massiven Festung San Diego und zu einem kurzen Abstecher an die authentische Playa La Aguada. / Zum Sonnenuntergang fahren wir hinauf zum Mirador de la Bahía, um den Tag mit einem spektakulären Panoramablick über das Lichtermeer Acapulcos ausklingen zu lassen.",
+        "hu": "Autóstúránk a magasan az öböl felett fekvő Palma Sola régészeti lelőhelyen kezdődik, ahol az ősi sziklarajzok a reggeli fényben mutatnak a legjobban. / Délben végigkocsikázunk a parton a népszerű Condesa és Icacos strandokig, amelyek kiváló éttermekkel és vízisportokkal csábítanak. / A délután visszavezet minket a központba, a masszív San Diego erődhöz, majd egy rövid kitérőt teszünk az autentikus Playa La Aguadára. / Naplementekor felhajtunk a Mirador de la Bahía kilátóhoz, hogy egy látványos, az egész kivilágított várost átfogó panorámával zárjuk a napot.",
+        "ro": "Turul nostru auto începe sus deasupra golfului la situl arheologic Palma Sola, unde petroglifele antice sunt cel mai bine vizibile în lumina rece a dimineții. / La prânz conducem de-a lungul coastei către popularele plaje Condesa și Icacos, care atrag cu restaurante excelente și sporturi nautice. / După-amiaza ne întoarcem în centru la masiva Fortăreață San Diego și facem o scurtă oprire la autentica plajă La Aguada. / La apus urcăm la Mirador de la Bahía pentru a încheia ziua cu o priveliște panoramică spectaculoasă asupra mării de lumini din Acapulco.",
+        "en": "Our driving tour begins high above the bay at the Palma Sola archaeological site, where ancient petroglyphs are best appreciated in the cool morning light. / At midday, we cruise along the coast to the popular Condesa and Icacos beaches, which tempt visitors with excellent restaurants and water sports. / The afternoon leads us back downtown to the massive Fort of San Diego and a brief detour to the authentic Playa La Aguada. / At sunset, we drive up to the Mirador de la Bahía to cap off the day with a spectacular panoramic view over Acapulco's sea of lights."
+      }
+    }
+  }
+}

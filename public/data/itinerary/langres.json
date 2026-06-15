@@ -1,0 +1,474 @@
+{
+  "city_id": "langres",
+  "anchor": {
+    "name": "Langres",
+    "coords": [
+      5.3331,
+      47.8625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:02",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte des Moulins",
+            "hu": "Porte des Moulins",
+            "ro": "Porte des Moulins",
+            "en": "Porte des Moulins"
+          },
+          "coords": [
+            5.3328,
+            47.8587
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem majestätischen Stadttor aus dem 17. Jahrhundert, das den Zugang zur Stadt kontrollierte, und achten Sie auf die militärische Architektur.",
+            "hu": "Kezdje a napot ennél a 17. századi fenséges kapunál, amely egykor a város bejáratát védte, és figyelje meg a lenyűgöző katonai építészetet, mielőtt beljebb indulna.",
+            "ro": "Începeți ziua la această poartă maiestuoasă din secolul al XVII-lea care controla accesul în oraș și admirați arhitectura militară înainte de a vă îndrepta spre centru.",
+            "en": "Start your day at this majestic 17th-century gate that once controlled access to the city, and notice the intricate military architecture before heading inwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Navarre et d'Orval",
+            "hu": "Tour de Navarre et d'Orval",
+            "ro": "Tour de Navarre et d'Orval",
+            "en": "Tour de Navarre et d'Orval"
+          },
+          "coords": [
+            5.3283,
+            47.8602
+          ],
+          "category": "fortress",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen massiven Artillerieturm aus der Renaissance mit unglaublich dicken Mauern und steigen Sie unbedingt zum beeindruckenden Fachwerkdach hinauf.",
+            "hu": "Fedezze fel ezt a hatalmas, reneszánsz tüzérségi tornyot a vastag falaival, és mindenképpen másszon fel a lenyűgöző favázas tetőszerkezethez egyedi fotókért.",
+            "ro": "Explorați acest turn masiv de artilerie renascentist cu ziduri incredibil de groase și asigurați-vă că urcați până la impresionantul acoperiș din lemn pentru fotografii unice.",
+            "en": "Explore this massive Renaissance artillery tower boasting incredibly thick walls, and be sure to climb to the stunning timber-framed roof structure for unique photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire",
+            "hu": "Musée d'Art et d'Histoire",
+            "ro": "Musée d'Art et d'Histoire",
+            "en": "Musée d'Art et d'Histoire"
+          },
+          "coords": [
+            5.333332,
+            47.864622
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe von Langres von der Römerzeit bis heute in diesem modernen Museum und nehmen Sie sich Zeit für das beeindruckende Bacchus-Mosaik.",
+            "hu": "Ismerje meg Langres gazdag örökségét a római kortól napjainkig ebben a modern múzeumban, és szánjon külön időt a földszinten található csodálatos Bacchus-mozaikra.",
+            "ro": "Descoperiți moștenirea bogată a orașului Langres, din epoca romană până în prezent, în acest muzeu modern, acordând timp suplimentar superbului mozaic al lui Bacchus.",
+            "en": "Discover Langres' rich heritage from Roman times to the present day in this modern museum, taking extra time to admire the striking Bacchus mosaic on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Mammès",
+            "hu": "Cathédrale Saint-Mammès",
+            "ro": "Cathédrale Saint-Mammès",
+            "en": "Cathédrale Saint-Mammès"
+          },
+          "coords": [
+            5.335278,
+            47.864167
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Mischung aus Romanik und Gotik in dieser Kathedrale und achten Sie auf die farbenfrohen Wandteppiche, die im Sommer ausgestellt sind.",
+            "hu": "Csodálja meg a román és gótikus stílusok harmonikus keveredését ebben a lenyűgöző katedrálisban, és nézze meg közelebbről a nyáron kiállított élénk falikárpitokat.",
+            "ro": "Admirați amestecul armonios de stiluri romanice și gotice în această catedrală grandioasă și priviți îndeaproape tapiseriile vibrante expuse în transept în timpul verii.",
+            "en": "Admire the harmonious blend of Romanesque and Gothic styles in this grand cathedral, and look closely at the vibrant tapestries displayed in the transept during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Lumières Denis Diderot",
+            "hu": "Maison des Lumières Denis Diderot",
+            "ro": "Maison des Lumières Denis Diderot",
+            "en": "Maison des Lumières Denis Diderot"
+          },
+          "coords": [
+            5.331652,
+            47.866582
+          ],
+          "category": "museum",
+          "arrive_at": "15:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben und die Ideen des berühmten Philosophen Denis Diderot ein und nutzen Sie den interaktiven Audioguide für tiefere Einblicke in die Aufklärung.",
+            "hu": "Merüljön el a híres filozófus, Denis Diderot életében és eszméiben a szülővárosában, és használja az interaktív hangosvezetőt a felvilágosodás korának megértéséhez.",
+            "ro": "Aprofundați viața și ideile celebrului filosof Denis Diderot în orașul său natal, folosind ghidul audio interactiv pentru a înțelege mai bine epoca Iluminismului.",
+            "en": "Delve into the life and ideas of the famous philosopher Denis Diderot in his hometown, utilizing the interactive audio guide for deeper context on the Enlightenment era."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Langres",
+            "hu": "Remparts de Langres",
+            "ro": "Remparts de Langres",
+            "en": "Remparts de Langres"
+          },
+          "coords": [
+            5.344423,
+            47.876964
+          ],
+          "category": "fortress",
+          "arrive_at": "17:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der längsten durchgehenden Stadtmauer Europas, um spektakuläre Ausblicke zu genießen, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Sétáljon végig Európa leghosszabb összefüggő városfalán a látványos panorámáért, és időzítse a látogatást késő délutánra a legjobb fényviszonyok érdekében.",
+            "ro": "Plimbați-vă de-a lungul celor mai lungi ziduri fortificate continue din Europa pentru vederi panoramice spectaculoase, de preferință după-amiaza târziu pentru lumină perfectă.",
+            "en": "Walk along the longest continuous fortified walls in Europe to enjoy spectacular panoramic views, ideally visiting late in the afternoon for the best golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Porte des Moulins und tauchen Sie im beeindruckenden Tour de Navarre et d'Orval in die militärische Vergangenheit von Langres ein.\nMidday: Gehen Sie weiter ins historische Zentrum, um das faszinierende Musée d'Art et d'Histoire zu erkunden und die prächtige Cathédrale Saint-Mammès zu bewundern.\nAfternoon: Erfahren Sie in der Maison des Lumières mehr über die Aufklärung, bevor Sie einen malerischen Spaziergang entlang der alten Remparts de Langres beginnen.\nEvening: Beenden Sie Ihre Reise mit dem weiten Blick auf den Sonnenuntergang von der Stadtmauer oder entspannen Sie sich am ruhigen Wasser eines nahegelegenen Sees.",
+        "hu": "Morning: Kezdje a napot a történelmi Porte des Moulins kapunál, és merüljön el Langres katonai múltjában a lenyűgöző Tour de Navarre et d'Orval felfedezésével.\nMidday: Haladjon beljebb a történelmi központba, hogy felfedezze a lenyűgöző Musée d'Art et d'Histoire kiállításait, majd csodálja meg a fenséges Cathédrale Saint-Mammès-t.\nAfternoon: Ismerkedjen meg a felvilágosodással a Maison des Lumières-ben, mielőtt egy hosszú, festői sétára indulna az ősi Remparts de Langres mentén.\nEvening: Fejezze be az utazást a városfalakról nyíló lenyűgöző naplemente látványával, vagy pihenjen meg egy közeli tó békés partján a nap végén.",
+        "ro": "Morning: Începeți ziua traversând istorica Porte des Moulins și scufundați-vă în trecutul militar al orașului Langres la impresionantul Tour de Navarre et d'Orval.\nMidday: Îndreptați-vă spre centrul istoric pentru a explora fascinantul Musée d'Art et d'Histoire, apoi admirați magnifica Cathédrale Saint-Mammès.\nAfternoon: Aflați despre Iluminism la Maison des Lumières, înainte de a începe o plimbare lungă și pitorească de-a lungul vechilor Remparts de Langres.\nEvening: Încheiați-vă călătoria admirând apusul panoramic de pe zidurile fortificate sau relaxându-vă pe malurile liniștite ale unui lac din apropiere.",
+        "en": "Morning: Start your day by crossing the historic Porte des Moulins and diving into Langres' military past at the impressive Tour de Navarre et d'Orval.\nMidday: Head deeper into the historic center to explore the fascinating Musée d'Art et d'Histoire, then marvel at the magnificent Cathédrale Saint-Mammès.\nAfternoon: Learn about the Enlightenment at the Maison des Lumières, before beginning a long, scenic walk along the ancient Remparts de Langres.\nEvening: Finish your journey taking in the sweeping sunset views from the fortified walls, or if you ventured out, relaxing by the tranquil waters of a nearby lake."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte des Moulins",
+            "hu": "Porte des Moulins",
+            "ro": "Porte des Moulins",
+            "en": "Porte des Moulins"
+          },
+          "coords": [
+            5.3328,
+            47.8587
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem majestätischen Stadttor aus dem 17. Jahrhundert, das den Zugang zur Stadt kontrollierte, und achten Sie auf die militärische Architektur.",
+            "hu": "Kezdje a napot ennél a 17. századi fenséges kapunál, amely egykor a város bejáratát védte, és figyelje meg a lenyűgöző katonai építészetet, mielőtt beljebb indulna.",
+            "ro": "Începeți ziua la această poartă maiestuoasă din secolul al XVII-lea care controla accesul în oraș și admirați arhitectura militară înainte de a vă îndrepta spre centru.",
+            "en": "Start your day at this majestic 17th-century gate that once controlled access to the city, and notice the intricate military architecture before heading inwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Navarre et d'Orval",
+            "hu": "Tour de Navarre et d'Orval",
+            "ro": "Tour de Navarre et d'Orval",
+            "en": "Tour de Navarre et d'Orval"
+          },
+          "coords": [
+            5.3283,
+            47.8602
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen massiven Artillerieturm aus der Renaissance mit unglaublich dicken Mauern und steigen Sie unbedingt zum beeindruckenden Fachwerkdach hinauf.",
+            "hu": "Fedezze fel ezt a hatalmas, reneszánsz tüzérségi tornyot a vastag falaival, és mindenképpen másszon fel a lenyűgöző favázas tetőszerkezethez egyedi fotókért.",
+            "ro": "Explorați acest turn masiv de artilerie renascentist cu ziduri incredibil de groase și asigurați-vă că urcați până la impresionantul acoperiș din lemn pentru fotografii unice.",
+            "en": "Explore this massive Renaissance artillery tower boasting incredibly thick walls, and be sure to climb to the stunning timber-framed roof structure for unique photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Lumières Denis Diderot",
+            "hu": "Maison des Lumières Denis Diderot",
+            "ro": "Maison des Lumières Denis Diderot",
+            "en": "Maison des Lumières Denis Diderot"
+          },
+          "coords": [
+            5.331652,
+            47.866582
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben und die Ideen des berühmten Philosophen Denis Diderot ein und nutzen Sie den interaktiven Audioguide für tiefere Einblicke in die Aufklärung.",
+            "hu": "Merüljön el a híres filozófus, Denis Diderot életében és eszméiben a szülővárosában, és használja az interaktív hangosvezetőt a felvilágosodás korának megértéséhez.",
+            "ro": "Aprofundați viața și ideile celebrului filosof Denis Diderot în orașul său natal, folosind ghidul audio interactiv pentru a înțelege mai bine epoca Iluminismului.",
+            "en": "Delve into the life and ideas of the famous philosopher Denis Diderot in his hometown, utilizing the interactive audio guide for deeper context on the Enlightenment era."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Mammès",
+            "hu": "Cathédrale Saint-Mammès",
+            "ro": "Cathédrale Saint-Mammès",
+            "en": "Cathédrale Saint-Mammès"
+          },
+          "coords": [
+            5.335278,
+            47.864167
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Mischung aus Romanik und Gotik in dieser Kathedrale und achten Sie auf die farbenfrohen Wandteppiche, die im Sommer ausgestellt sind.",
+            "hu": "Csodálja meg a román és gótikus stílusok harmonikus keveredését ebben a lenyűgöző katedrálisban, és nézze meg közelebbről a nyáron kiállított élénk falikárpitokat.",
+            "ro": "Admirați amestecul armonios de stiluri romanice și gotice în această catedrală grandioasă și priviți îndeaproape tapiseriile vibrante expuse în transept în timpul verii.",
+            "en": "Admire the harmonious blend of Romanesque and Gothic styles in this grand cathedral, and look closely at the vibrant tapestries displayed in the transept during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Langres",
+            "hu": "Remparts de Langres",
+            "ro": "Remparts de Langres",
+            "en": "Remparts de Langres"
+          },
+          "coords": [
+            5.344423,
+            47.876964
+          ],
+          "category": "fortress",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der längsten durchgehenden Stadtmauer Europas, um spektakuläre Ausblicke zu genießen, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Sétáljon végig Európa leghosszabb összefüggő városfalán a látványos panorámáért, és időzítse a látogatást késő délutánra a legjobb fényviszonyok érdekében.",
+            "ro": "Plimbați-vă de-a lungul celor mai lungi ziduri fortificate continue din Europa pentru vederi panoramice spectaculoase, de preferință după-amiaza târziu pentru lumină perfectă.",
+            "en": "Walk along the longest continuous fortified walls in Europe to enjoy spectacular panoramic views, ideally visiting late in the afternoon for the best golden hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Liez",
+            "hu": "Lac de la Liez",
+            "ro": "Lac de la Liez",
+            "en": "Lac de la Liez"
+          },
+          "coords": [
+            5.400614,
+            47.86922
+          ],
+          "category": "natural",
+          "arrive_at": "16:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am größten der vier Seen rund um Langres, wo Sie ein Tretboot mieten oder einfach einen ruhigen Spaziergang am Ufer abseits des Stadtzentrums genießen können.",
+            "hu": "Pihenjen a Langres-t körülvevő négy tó közül a legnagyobbnál, ahol vízibiciklit bérelhet, vagy csak tehet egy békés sétát a parton, távol a város zajától.",
+            "ro": "Relaxați-vă la cel mai mare dintre cele patru lacuri din jurul orașului Langres, unde puteți închiria o hidrobicicletă sau pur și simplu vă puteți bucura de o plimbare liniștită.",
+            "en": "Relax by the largest of the four lakes surrounding Langres, where you can rent a pedal boat or simply enjoy a peaceful walk along the shoreline away from the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Porte des Moulins und tauchen Sie im beeindruckenden Tour de Navarre et d'Orval in die militärische Vergangenheit von Langres ein.\nMidday: Gehen Sie weiter ins historische Zentrum, um das faszinierende Musée d'Art et d'Histoire zu erkunden und die prächtige Cathédrale Saint-Mammès zu bewundern.\nAfternoon: Erfahren Sie in der Maison des Lumières mehr über die Aufklärung, bevor Sie einen malerischen Spaziergang entlang der alten Remparts de Langres beginnen.\nEvening: Beenden Sie Ihre Reise mit dem weiten Blick auf den Sonnenuntergang von der Stadtmauer oder entspannen Sie sich am ruhigen Wasser eines nahegelegenen Sees.",
+        "hu": "Morning: Kezdje a napot a történelmi Porte des Moulins kapunál, és merüljön el Langres katonai múltjában a lenyűgöző Tour de Navarre et d'Orval felfedezésével.\nMidday: Haladjon beljebb a történelmi központba, hogy felfedezze a lenyűgöző Musée d'Art et d'Histoire kiállításait, majd csodálja meg a fenséges Cathédrale Saint-Mammès-t.\nAfternoon: Ismerkedjen meg a felvilágosodással a Maison des Lumières-ben, mielőtt egy hosszú, festői sétára indulna az ősi Remparts de Langres mentén.\nEvening: Fejezze be az utazást a városfalakról nyíló lenyűgöző naplemente látványával, vagy pihenjen meg egy közeli tó békés partján a nap végén.",
+        "ro": "Morning: Începeți ziua traversând istorica Porte des Moulins și scufundați-vă în trecutul militar al orașului Langres la impresionantul Tour de Navarre et d'Orval.\nMidday: Îndreptați-vă spre centrul istoric pentru a explora fascinantul Musée d'Art et d'Histoire, apoi admirați magnifica Cathédrale Saint-Mammès.\nAfternoon: Aflați despre Iluminism la Maison des Lumières, înainte de a începe o plimbare lungă și pitorească de-a lungul vechilor Remparts de Langres.\nEvening: Încheiați-vă călătoria admirând apusul panoramic de pe zidurile fortificate sau relaxându-vă pe malurile liniștite ale unui lac din apropiere.",
+        "en": "Morning: Start your day by crossing the historic Porte des Moulins and diving into Langres' military past at the impressive Tour de Navarre et d'Orval.\nMidday: Head deeper into the historic center to explore the fascinating Musée d'Art et d'Histoire, then marvel at the magnificent Cathédrale Saint-Mammès.\nAfternoon: Learn about the Enlightenment at the Maison des Lumières, before beginning a long, scenic walk along the ancient Remparts de Langres.\nEvening: Finish your journey taking in the sweeping sunset views from the fortified walls, or if you ventured out, relaxing by the tranquil waters of a nearby lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 12.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte des Moulins",
+            "hu": "Porte des Moulins",
+            "ro": "Porte des Moulins",
+            "en": "Porte des Moulins"
+          },
+          "coords": [
+            5.3328,
+            47.8587
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem majestätischen Stadttor aus dem 17. Jahrhundert, das den Zugang zur Stadt kontrollierte, und achten Sie auf die militärische Architektur.",
+            "hu": "Kezdje a napot ennél a 17. századi fenséges kapunál, amely egykor a város bejáratát védte, és figyelje meg a lenyűgöző katonai építészetet, mielőtt beljebb indulna.",
+            "ro": "Începeți ziua la această poartă maiestuoasă din secolul al XVII-lea care controla accesul în oraș și admirați arhitectura militară înainte de a vă îndrepta spre centru.",
+            "en": "Start your day at this majestic 17th-century gate that once controlled access to the city, and notice the intricate military architecture before heading inwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Navarre et d'Orval",
+            "hu": "Tour de Navarre et d'Orval",
+            "ro": "Tour de Navarre et d'Orval",
+            "en": "Tour de Navarre et d'Orval"
+          },
+          "coords": [
+            5.3283,
+            47.8602
+          ],
+          "category": "fortress",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen massiven Artillerieturm aus der Renaissance mit unglaublich dicken Mauern und steigen Sie unbedingt zum beeindruckenden Fachwerkdach hinauf.",
+            "hu": "Fedezze fel ezt a hatalmas, reneszánsz tüzérségi tornyot a vastag falaival, és mindenképpen másszon fel a lenyűgöző favázas tetőszerkezethez egyedi fotókért.",
+            "ro": "Explorați acest turn masiv de artilerie renascentist cu ziduri incredibil de groase și asigurați-vă că urcați până la impresionantul acoperiș din lemn pentru fotografii unice.",
+            "en": "Explore this massive Renaissance artillery tower boasting incredibly thick walls, and be sure to climb to the stunning timber-framed roof structure for unique photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Mammès",
+            "hu": "Cathédrale Saint-Mammès",
+            "ro": "Cathédrale Saint-Mammès",
+            "en": "Cathédrale Saint-Mammès"
+          },
+          "coords": [
+            5.335278,
+            47.864167
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Mischung aus Romanik und Gotik in dieser Kathedrale und achten Sie auf die farbenfrohen Wandteppiche, die im Sommer ausgestellt sind.",
+            "hu": "Csodálja meg a román és gótikus stílusok harmonikus keveredését ebben a lenyűgöző katedrálisban, és nézze meg közelebbről a nyáron kiállított élénk falikárpitokat.",
+            "ro": "Admirați amestecul armonios de stiluri romanice și gotice în această catedrală grandioasă și priviți îndeaproape tapiseriile vibrante expuse în transept în timpul verii.",
+            "en": "Admire the harmonious blend of Romanesque and Gothic styles in this grand cathedral, and look closely at the vibrant tapestries displayed in the transept during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Langres",
+            "hu": "Remparts de Langres",
+            "ro": "Remparts de Langres",
+            "en": "Remparts de Langres"
+          },
+          "coords": [
+            5.344423,
+            47.876964
+          ],
+          "category": "fortress",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der längsten durchgehenden Stadtmauer Europas, um spektakuläre Ausblicke zu genießen, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Sétáljon végig Európa leghosszabb összefüggő városfalán a látványos panorámáért, és időzítse a látogatást késő délutánra a legjobb fényviszonyok érdekében.",
+            "ro": "Plimbați-vă de-a lungul celor mai lungi ziduri fortificate continue din Europa pentru vederi panoramice spectaculoase, de preferință după-amiaza târziu pentru lumină perfectă.",
+            "en": "Walk along the longest continuous fortified walls in Europe to enjoy spectacular panoramic views, ideally visiting late in the afternoon for the best golden hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Liez",
+            "hu": "Lac de la Liez",
+            "ro": "Lac de la Liez",
+            "en": "Lac de la Liez"
+          },
+          "coords": [
+            5.400614,
+            47.86922
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am größten der vier Seen rund um Langres, wo Sie ein Tretboot mieten oder einfach einen ruhigen Spaziergang am Ufer abseits des Stadtzentrums genießen können.",
+            "hu": "Pihenjen a Langres-t körülvevő négy tó közül a legnagyobbnál, ahol vízibiciklit bérelhet, vagy csak tehet egy békés sétát a parton, távol a város zajától.",
+            "ro": "Relaxați-vă la cel mai mare dintre cele patru lacuri din jurul orașului Langres, unde puteți închiria o hidrobicicletă sau pur și simplu vă puteți bucura de o plimbare liniștită.",
+            "en": "Relax by the largest of the four lakes surrounding Langres, where you can rent a pedal boat or simply enjoy a peaceful walk along the shoreline away from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Charmes",
+            "hu": "Lac de Charmes",
+            "ro": "Lac de Charmes",
+            "en": "Lac de Charmes"
+          },
+          "coords": [
+            5.381205,
+            47.912958
+          ],
+          "category": "natural",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem ruhigen, wunderschönen Stausee, der sich perfekt für ein abendliches Picknick eignet, während Sie den Sonnenuntergang beobachten.",
+            "hu": "Zárja kirándulását ennél a nyugodt, festői víztározónál, amely tökéletes helyszín egy esti piknikhez, miközben a naplemente fényeit csodálja a víz felett.",
+            "ro": "Încheiați-vă excursia la acest lac de acumulare senin și pitoresc, care este locul perfect pentru un picnic de seară în timp ce priviți apusul soarelui peste apă.",
+            "en": "Conclude your excursion at this serene, naturally beautiful reservoir, which is perfect for an evening picnic as you watch the sun set over the tranquil waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Porte des Moulins und tauchen Sie im beeindruckenden Tour de Navarre et d'Orval in die militärische Vergangenheit von Langres ein.\nMidday: Gehen Sie weiter ins historische Zentrum, um das faszinierende Musée d'Art et d'Histoire zu erkunden und die prächtige Cathédrale Saint-Mammès zu bewundern.\nAfternoon: Erfahren Sie in der Maison des Lumières mehr über die Aufklärung, bevor Sie einen malerischen Spaziergang entlang der alten Remparts de Langres beginnen.\nEvening: Beenden Sie Ihre Reise mit dem weiten Blick auf den Sonnenuntergang von der Stadtmauer oder entspannen Sie sich am ruhigen Wasser eines nahegelegenen Sees.",
+        "hu": "Morning: Kezdje a napot a történelmi Porte des Moulins kapunál, és merüljön el Langres katonai múltjában a lenyűgöző Tour de Navarre et d'Orval felfedezésével.\nMidday: Haladjon beljebb a történelmi központba, hogy felfedezze a lenyűgöző Musée d'Art et d'Histoire kiállításait, majd csodálja meg a fenséges Cathédrale Saint-Mammès-t.\nAfternoon: Ismerkedjen meg a felvilágosodással a Maison des Lumières-ben, mielőtt egy hosszú, festői sétára indulna az ősi Remparts de Langres mentén.\nEvening: Fejezze be az utazást a városfalakról nyíló lenyűgöző naplemente látványával, vagy pihenjen meg egy közeli tó békés partján a nap végén.",
+        "ro": "Morning: Începeți ziua traversând istorica Porte des Moulins și scufundați-vă în trecutul militar al orașului Langres la impresionantul Tour de Navarre et d'Orval.\nMidday: Îndreptați-vă spre centrul istoric pentru a explora fascinantul Musée d'Art et d'Histoire, apoi admirați magnifica Cathédrale Saint-Mammès.\nAfternoon: Aflați despre Iluminism la Maison des Lumières, înainte de a începe o plimbare lungă și pitorească de-a lungul vechilor Remparts de Langres.\nEvening: Încheiați-vă călătoria admirând apusul panoramic de pe zidurile fortificate sau relaxându-vă pe malurile liniștite ale unui lac din apropiere.",
+        "en": "Morning: Start your day by crossing the historic Porte des Moulins and diving into Langres' military past at the impressive Tour de Navarre et d'Orval.\nMidday: Head deeper into the historic center to explore the fascinating Musée d'Art et d'Histoire, then marvel at the magnificent Cathédrale Saint-Mammès.\nAfternoon: Learn about the Enlightenment at the Maison des Lumières, before beginning a long, scenic walk along the ancient Remparts de Langres.\nEvening: Finish your journey taking in the sweeping sunset views from the fortified walls, or if you ventured out, relaxing by the tranquil waters of a nearby lake."
+      }
+    }
+  }
+}

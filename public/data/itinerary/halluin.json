@@ -1,0 +1,474 @@
+{
+  "city_id": "halluin",
+  "anchor": {
+    "name": "Halluin",
+    "coords": [
+      3.1247,
+      50.7828
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Halluin",
+            "hu": "Halluin Városháza",
+            "ro": "Primăria Halluin",
+            "en": "Halluin Town Hall"
+          },
+          "coords": [
+            3.124923,
+            50.782669
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante städtische Architektur dieses zentralen Wahrzeichens, das das Grenzerbe der Stadt widerspiegelt, und beginnen Sie hier Ihren Tag auf dem Hauptplatz.",
+            "hu": "Csodálja meg ennek a központi, határmenti örökséget tükröző nevezetességnek a lenyűgöző polgári építészetét, és kezdje itt a napot a főtér feltérképezésével.",
+            "ro": "Admirați arhitectura civică impresionantă a acestui punct de reper central care reflectă moștenirea de graniță a orașului și începeți-vă ziua aici pentru a vă orienta.",
+            "en": "Admire the striking civic architecture of this central landmark, which reflects the town's border heritage, and start your day here to orient yourself around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hilaire-Kirche",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            3.127941,
+            50.782562
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre Buntglasfenster und die friedliche Atmosphäre zu genießen, und sprechen Sie leise, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat és a békés légkört, miközben halkan beszél, hiszen ez ma is egy aktív istentiszteleti hely.",
+            "ro": "Pășiți în această biserică istorică pentru a aprecia vitraliile și atmosfera sa liniștită, menținând o voce scăzută, deoarece rămâne un lăcaș de cult activ.",
+            "en": "Step inside this historic church to appreciate its stained glass windows and peaceful atmosphere, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Halluin",
+            "hu": "Halluini Szélmalom",
+            "ro": "Moara de Vânt Halluin",
+            "en": "Halluin Windmill"
+          },
+          "coords": [
+            3.13452,
+            50.7772
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche landwirtschaftliche Vergangenheit der Region an dieser ikonischen Windmühle und besuchen Sie sie am Wochenende, wenn die Innenmechanismen oft gezeigt werden.",
+            "hu": "Fedezze fel a régió gazdag mezőgazdasági múltját ennél az ikonikus, felújított szélmalomnál, és próbálja hétvégére időzíteni a látogatást a belső mechanizmusok megtekintéséhez.",
+            "ro": "Descoperiți trecutul agricol bogat al regiunii la această moară de vânt restaurată și încercați să o vizitați în weekend când mecanismele interioare sunt uneori expuse.",
+            "en": "Discover the rich agricultural past of the region at this iconic restored windmill, and try to visit during the weekend when the interior mechanisms are sometimes displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeugdsite Zuidstraat",
+            "hu": "Jeugdsite Zuidstraat",
+            "ro": "Jeugdsite Zuidstraat",
+            "en": "Jeugdsite Zuidstraat"
+          },
+          "coords": [
+            3.137591,
+            50.789328
+          ],
+          "category": "family",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie die jüngeren Familienmitglieder in diesem familienfreundlichen Erholungsgebiet etwas Energie abbauen, das hervorragende Freiflächen für eine Nachmittagspause bietet.",
+            "hu": "Hagyja, hogy a fiatalabbak levezessék az energiájukat ezen a családbarát rekreációs területen, amely kiváló nyitott tereket kínál egy gyors, délutáni pihenőhöz.",
+            "ro": "Lăsați membrii mai tineri ai grupului să-și consume energia în acest spațiu de recreere pentru familii, care oferă zone deschise excelente pentru o pauză rapidă de după-amiază.",
+            "en": "Let the younger members of your group burn off some energy at this family-friendly recreational space, which offers excellent open areas for a quick mid-afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von Halluin",
+            "hu": "Halluin Kikötő",
+            "ro": "Portul de Agrement Halluin",
+            "en": "Marina of Halluin"
+          },
+          "coords": [
+            3.120169,
+            50.790809
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote in diesem malerischen Yachthafen am Fluss, einem perfekten Ort, um sich auf einer Bank auszuruhen, während Sie ein Lunchpaket am Kanal genießen.",
+            "hu": "Figyelje a csónakok ringatózását ezen a festői folyóparti kikötőn, amely tökéletes hely arra, hogy megpihenjen egy padon, miközben a csatorna partján elfogyasztja a tízóraiját.",
+            "ro": "Urmăriți bărcile pe apă în acest port pitoresc de pe râu, un loc perfect pentru a vă odihni picioarele pe o bancă în timp ce savurați un prânz la pachet lângă canal.",
+            "en": "Watch the boats gently bob on the water at this picturesque riverside marina, a perfect spot to rest your legs on a bench while enjoying a packed lunch by the canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Halluin mit dem majestätischen Rathaus und der ruhigen Saint-Hilaire-Kirche. Der Mittag lädt zu einem gemütlichen Spaziergang zur ikonischen Windmühle ein. Am Nachmittag steuern Sie die lokalen Freizeitanlagen für Familien an. Der Tag endet mit einem friedlichen Sonnenuntergang am malerischen Yachthafen von Halluin.",
+        "hu": "A nap Halluin történelmi központjában kezdődik, a fenséges Városháza és a békés Saint-Hilaire templom felfedezésével. Délben egy kényelmes sétát teszünk az ikonikus szélmalomhoz. Délután a helyi családbarát rekreációs terek felé vesszük az irányt, élvezve a nyugodt hangulatot. A nap egy gyönyörű naplementével zárul a festői kikötőnél.",
+        "ro": "Ziua începe în inima istorică din Halluin, admirând Primăria maiestuoasă și Biserica senină Saint-Hilaire. La amiază urmează o plimbare spre emblematica Moară de vânt, un simbol al trecutului. După-amiaza vă veți îndrepta spre spațiile locale de recreere pentru familii. Ziua se încheie cu o priveliște liniștită la apus la pitorescul port de pe râu.",
+        "en": "Your day begins in the historic heart of Halluin, taking in the majestic Town Hall and the serene Saint-Hilaire Church. Midday invites a leisurely stroll to the iconic Halluin Windmill, a testament to the region's agricultural past. In the afternoon, you will head towards the local family recreational spaces. The day ends with a peaceful sunset view at the scenic Marina of Halluin."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Halluin",
+            "hu": "Halluin Városháza",
+            "ro": "Primăria Halluin",
+            "en": "Halluin Town Hall"
+          },
+          "coords": [
+            3.124923,
+            50.782669
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante städtische Architektur dieses zentralen Wahrzeichens, das das Grenzerbe der Stadt widerspiegelt, und beginnen Sie hier Ihren Tag auf dem Hauptplatz.",
+            "hu": "Csodálja meg ennek a központi, határmenti örökséget tükröző nevezetességnek a lenyűgöző polgári építészetét, és kezdje itt a napot a főtér feltérképezésével.",
+            "ro": "Admirați arhitectura civică impresionantă a acestui punct de reper central care reflectă moștenirea de graniță a orașului și începeți-vă ziua aici pentru a vă orienta.",
+            "en": "Admire the striking civic architecture of this central landmark, which reflects the town's border heritage, and start your day here to orient yourself around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hilaire-Kirche",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            3.127941,
+            50.782562
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre Buntglasfenster und die friedliche Atmosphäre zu genießen, und sprechen Sie leise, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat és a békés légkört, miközben halkan beszél, hiszen ez ma is egy aktív istentiszteleti hely.",
+            "ro": "Pășiți în această biserică istorică pentru a aprecia vitraliile și atmosfera sa liniștită, menținând o voce scăzută, deoarece rămâne un lăcaș de cult activ.",
+            "en": "Step inside this historic church to appreciate its stained glass windows and peaceful atmosphere, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Halluin",
+            "hu": "Halluini Szélmalom",
+            "ro": "Moara de Vânt Halluin",
+            "en": "Halluin Windmill"
+          },
+          "coords": [
+            3.13452,
+            50.7772
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche landwirtschaftliche Vergangenheit der Region an dieser ikonischen Windmühle und besuchen Sie sie am Wochenende, wenn die Innenmechanismen oft gezeigt werden.",
+            "hu": "Fedezze fel a régió gazdag mezőgazdasági múltját ennél az ikonikus, felújított szélmalomnál, és próbálja hétvégére időzíteni a látogatást a belső mechanizmusok megtekintéséhez.",
+            "ro": "Descoperiți trecutul agricol bogat al regiunii la această moară de vânt restaurată și încercați să o vizitați în weekend când mecanismele interioare sunt uneori expuse.",
+            "en": "Discover the rich agricultural past of the region at this iconic restored windmill, and try to visit during the weekend when the interior mechanisms are sometimes displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la tuilerie",
+            "hu": "Étang de la tuilerie",
+            "ro": "Étang de la tuilerie",
+            "en": "Étang de la tuilerie"
+          },
+          "coords": [
+            3.117026,
+            50.774973
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um diesen ehemaligen Ziegeleiteich, der zum Naturschutzgebiet wurde, und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Tegyen egy pihentető sétát ez a korábbi téglagyári tóból lett természetvédelmi terület körül, és hozzon magával távcsövet, ha szereti a madármegfigyelést a nyugodt természetben.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui fost iaz transformat în rezervație naturală și aduceți un binoclu dacă vă place observarea păsărilor în medii senine.",
+            "en": "Take a relaxing stroll around this former brickyard pond turned nature reserve, bringing a pair of binoculars if you enjoy birdwatching in serene natural environments."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von Halluin",
+            "hu": "Halluin Kikötő",
+            "ro": "Portul de Agrement Halluin",
+            "en": "Marina of Halluin"
+          },
+          "coords": [
+            3.120169,
+            50.790809
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote in diesem malerischen Yachthafen am Fluss, einem perfekten Ort, um sich auf einer Bank auszuruhen, während Sie ein Lunchpaket am Kanal genießen.",
+            "hu": "Figyelje a csónakok ringatózását ezen a festői folyóparti kikötőn, amely tökéletes hely arra, hogy megpihenjen egy padon, miközben a csatorna partján elfogyasztja a tízóraiját.",
+            "ro": "Urmăriți bărcile pe apă în acest port pitoresc de pe râu, un loc perfect pentru a vă odihni picioarele pe o bancă în timp ce savurați un prânz la pachet lângă canal.",
+            "en": "Watch the boats gently bob on the water at this picturesque riverside marina, a perfect spot to rest your legs on a bench while enjoying a packed lunch by the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Huppel De Pup",
+            "hu": "Huppel De Pup",
+            "ro": "Huppel De Pup",
+            "en": "Huppel De Pup"
+          },
+          "coords": [
+            3.13948,
+            50.791372
+          ],
+          "category": "family",
+          "arrive_at": "14:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie spannende Aktivitäten an diesem beliebten lokalen Familienort nahe der Grenze, aber überprüfen Sie unbedingt im Voraus die saisonalen Öffnungszeiten.",
+            "hu": "Élvezze a lebilincselő tevékenységeket ezen a kedvelt, határhoz közeli családi helyen, de előzetesen ellenőrizze a szezonális nyitvatartást az esetleges csalódások elkerülése végett.",
+            "ro": "Bucurați-vă de activități captivante în acest loc popular pentru familii de lângă graniță, asigurându-vă că verificați programul de funcționare sezonier în avans.",
+            "en": "Enjoy engaging activities at this beloved local family spot near the border, making sure to check their seasonal opening hours ahead of time to avoid disappointment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Radtour durch das Zentrum, bevor Sie zur berühmten Windmühle gleiten. Mittags fahren Sie zum Étang de la tuilerie, um die Natur zu genießen. Am Nachmittag folgen Sie den Wasserwegen zum lebhaften Yachthafen. Der Abend führt Sie zum lebendigen Huppel De Pup, um ein fantastisches Radabenteuer abzuschließen.",
+        "hu": "Reggel a központban tekerünk, majd elsiklunk a híres szélmalomhoz. A déli órákban az Étang de la tuilerie-hez látogatunk el egy gyönyörű természetközeli kikapcsolódásra. Délután a vízi utakat követve érjük el a nyüzsgő kikötőt. Az este a nyüzsgő Huppel De Pup területére vezet, hogy megkoronázzuk ezt a fantasztikus kerékpáros kalandot.",
+        "ro": "Începeți dimineața pedalând prin centru pentru a vedea Primăria, înainte de a aluneca spre faimoasa Moară de vânt. La amiază vizitați Étang de la tuilerie pentru o evadare în natură. După-amiaza, veți urma căile navigabile până la vibrantul port de pe râu. Seara vă aduce în zona plină de viață Huppel De Pup pentru a încheia aventura.",
+        "en": "Start your morning pedaling through the center to see the Town Hall and Church before gliding down to the famous Windmill. Midday takes you out to the Étang de la tuilerie for a beautiful nature escape. By afternoon, you will follow the waterways to the vibrant Marina of Halluin. Evening brings you to the lively Huppel De Pup area to cap off a fantastic cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de la tuilerie",
+            "hu": "Étang de la tuilerie",
+            "ro": "Étang de la tuilerie",
+            "en": "Étang de la tuilerie"
+          },
+          "coords": [
+            3.117026,
+            50.774973
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um diesen ehemaligen Ziegeleiteich, der zum Naturschutzgebiet wurde, und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Tegyen egy pihentető sétát ez a korábbi téglagyári tóból lett természetvédelmi terület körül, és hozzon magával távcsövet, ha szereti a madármegfigyelést a nyugodt természetben.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui fost iaz transformat în rezervație naturală și aduceți un binoclu dacă vă place observarea păsărilor în medii senine.",
+            "en": "Take a relaxing stroll around this former brickyard pond turned nature reserve, bringing a pair of binoculars if you enjoy birdwatching in serene natural environments."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Halluin",
+            "hu": "Halluini Szélmalom",
+            "ro": "Moara de Vânt Halluin",
+            "en": "Halluin Windmill"
+          },
+          "coords": [
+            3.13452,
+            50.7772
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche landwirtschaftliche Vergangenheit der Region an dieser ikonischen Windmühle und besuchen Sie sie am Wochenende, wenn die Innenmechanismen oft gezeigt werden.",
+            "hu": "Fedezze fel a régió gazdag mezőgazdasági múltját ennél az ikonikus, felújított szélmalomnál, és próbálja hétvégére időzíteni a látogatást a belső mechanizmusok megtekintéséhez.",
+            "ro": "Descoperiți trecutul agricol bogat al regiunii la această moară de vânt restaurată și încercați să o vizitați în weekend când mecanismele interioare sunt uneori expuse.",
+            "en": "Discover the rich agricultural past of the region at this iconic restored windmill, and try to visit during the weekend when the interior mechanisms are sometimes displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hilaire-Kirche",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            3.127941,
+            50.782562
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre Buntglasfenster und die friedliche Atmosphäre zu genießen, und sprechen Sie leise, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat és a békés légkört, miközben halkan beszél, hiszen ez ma is egy aktív istentiszteleti hely.",
+            "ro": "Pășiți în această biserică istorică pentru a aprecia vitraliile și atmosfera sa liniștită, menținând o voce scăzută, deoarece rămâne un lăcaș de cult activ.",
+            "en": "Step inside this historic church to appreciate its stained glass windows and peaceful atmosphere, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Halluin",
+            "hu": "Halluin Városháza",
+            "ro": "Primăria Halluin",
+            "en": "Halluin Town Hall"
+          },
+          "coords": [
+            3.124923,
+            50.782669
+          ],
+          "category": "civic",
+          "arrive_at": "12:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante städtische Architektur dieses zentralen Wahrzeichens, das das Grenzerbe der Stadt widerspiegelt, und beginnen Sie hier Ihren Tag auf dem Hauptplatz.",
+            "hu": "Csodálja meg ennek a központi, határmenti örökséget tükröző nevezetességnek a lenyűgöző polgári építészetét, és kezdje itt a napot a főtér feltérképezésével.",
+            "ro": "Admirați arhitectura civică impresionantă a acestui punct de reper central care reflectă moștenirea de graniță a orașului și începeți-vă ziua aici pentru a vă orienta.",
+            "en": "Admire the striking civic architecture of this central landmark, which reflects the town's border heritage, and start your day here to orient yourself around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen von Halluin",
+            "hu": "Halluin Kikötő",
+            "ro": "Portul de Agrement Halluin",
+            "en": "Marina of Halluin"
+          },
+          "coords": [
+            3.120169,
+            50.790809
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote in diesem malerischen Yachthafen am Fluss, einem perfekten Ort, um sich auf einer Bank auszuruhen, während Sie ein Lunchpaket am Kanal genießen.",
+            "hu": "Figyelje a csónakok ringatózását ezen a festői folyóparti kikötőn, amely tökéletes hely arra, hogy megpihenjen egy padon, miközben a csatorna partján elfogyasztja a tízóraiját.",
+            "ro": "Urmăriți bărcile pe apă în acest port pitoresc de pe râu, un loc perfect pentru a vă odihni picioarele pe o bancă în timp ce savurați un prânz la pachet lângă canal.",
+            "en": "Watch the boats gently bob on the water at this picturesque riverside marina, a perfect spot to rest your legs on a bench while enjoying a packed lunch by the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Huppel De Pup",
+            "hu": "Huppel De Pup",
+            "ro": "Huppel De Pup",
+            "en": "Huppel De Pup"
+          },
+          "coords": [
+            3.13948,
+            50.791372
+          ],
+          "category": "family",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie spannende Aktivitäten an diesem beliebten lokalen Familienort nahe der Grenze, aber überprüfen Sie unbedingt im Voraus die saisonalen Öffnungszeiten.",
+            "hu": "Élvezze a lebilincselő tevékenységeket ezen a kedvelt, határhoz közeli családi helyen, de előzetesen ellenőrizze a szezonális nyitvatartást az esetleges csalódások elkerülése végett.",
+            "ro": "Bucurați-vă de activități captivante în acest loc popular pentru familii de lângă graniță, asigurându-vă că verificați programul de funcționare sezonier în avans.",
+            "en": "Enjoy engaging activities at this beloved local family spot near the border, making sure to check their seasonal opening hours ahead of time to avoid disappointment."
+          }
+        },
+        {
+          "name": {
+            "de": "AvonTUURKE",
+            "hu": "AvonTUURKE",
+            "ro": "AvonTUURKE",
+            "en": "AvonTUURKE"
+          },
+          "coords": [
+            3.161005,
+            50.793712
+          ],
+          "category": "family",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Familienabenteuer in dieser weitläufigen, auf Erkundung ausgelegten Aktivitätszone und denken Sie an bequeme Wanderschuhe für die Herausforderungen im Freien.",
+            "hu": "Zárja a családi kalandot ebben a hatalmas, felfedezésre szabott tevékenységi zónában, és ne felejtsen el kényelmes sétacipőt viselni a szabadtéri kihívások teljesítéséhez.",
+            "ro": "Încheiați aventura în familie în această zonă extinsă de activități concepută pentru explorare, amintindu-vă să purtați pantofi confortabili pentru provocările în aer liber.",
+            "en": "Wrap up your family adventure at this sprawling activity zone tailored for exploration, remembering to wear comfortable walking shoes to fully navigate the outdoor challenges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt am ruhigen Étang de la tuilerie, bevor Sie zur historischen Windmühle und Kirche fahren. Gegen Mittag navigieren Sie für einen kurzen Halt am Rathaus ins Stadtzentrum. Der Nachmittag ist zum Entspannen am wunderschönen Yachthafen reserviert. Gegen Abend runden familienfreundliche Stopps die entspannte Reise perfekt ab.",
+        "hu": "Az autós kirándulás a békés Étang de la tuilerie-nél kezdődik, mielőtt a történelmi szélmalomhoz és a templomhoz hajtanánk. Dél körül a városközpontba érve teszünk egy gyors kitérőt a Városházánál. A délutánt a gyönyörű kikötőben való pihenésnek szenteljük. Ahogy közeledik az este, a családbarát megállók tökéletesen lezárják az utazást.",
+        "ro": "Călătoria dvs. cu mașina începe la liniștitul Étang de la tuilerie, înainte de a vă îndrepta spre Moara de vânt istorică. În jurul prânzului, veți naviga în centrul orașului pentru o scurtă oprire la Primărie. După-amiaza este rezervată relaxării la port. Spre seară, opririle pentru familii la Huppel De Pup încheie perfect această călătorie.",
+        "en": "Your road trip starts at the peaceful Étang de la tuilerie, setting a tranquil tone before heading to the historic Windmill and Church. Around noon, you will navigate the town center for a quick stop at the Town Hall. The afternoon is reserved for unwinding at the beautiful Marina. As evening approaches, family-friendly stops at Huppel De Pup and AvonTUURKE perfectly conclude the journey."
+      }
+    }
+  }
+}

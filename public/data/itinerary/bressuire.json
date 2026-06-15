@@ -1,0 +1,474 @@
+{
+  "city_id": "bressuire",
+  "anchor": {
+    "name": "Bressuire",
+    "coords": [
+      -0.4886,
+      46.84
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bressuire Museum",
+            "hu": "Bressuire Múzeum",
+            "ro": "Muzeul Bressuire",
+            "en": "Bressuire Museum"
+          },
+          "coords": [
+            -0.492898,
+            46.842055
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
+            "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
+            "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -0.491552,
+            46.841862
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
+            "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Crèche animée",
+            "hu": "Crèche animée",
+            "ro": "Crèche animée",
+            "en": "Crèche animée"
+          },
+          "coords": [
+            -0.493917,
+            46.841932
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den Charme dieser animierten Krippe, die Besucher jeden Alters begeistert, wobei Sie vorab die genauen Betriebszeiten prüfen sollten.",
+            "hu": "Tapasztalja meg ennek az animált betlehemnek a varázsát, amely minden korosztályt elbűvöl, bár érdemes előre ellenőrizni a nyitvatartási időt.",
+            "ro": "Experimentați farmecul acestei scene de naștere animate care încântă vizitatorii de toate vârstele, deși ar trebui să verificați programul de funcționare.",
+            "en": "Experience the charm of this automated nativity scene that delights visitors of all ages, though you should check the local schedule for operating hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Cyprien Church",
+            "hu": "Saint-Cyprien templom",
+            "ro": "Biserica Saint-Cyprien",
+            "en": "Saint-Cyprien Church"
+          },
+          "coords": [
+            -0.50161,
+            46.839844
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
+            "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
+            "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Jeunesse",
+            "hu": "Espace Jeunesse",
+            "ro": "Espace Jeunesse",
+            "en": "Espace Jeunesse"
+          },
+          "coords": [
+            -0.489777,
+            46.832889
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch dieses Jugendzentrum, das ein hervorragender Ort ist, um mit einem Kaffee das lokale Leben zu beobachten.",
+            "hu": "Élvezze a sétát ebben a fiatalokat támogató közösségi központban, amely kiváló hely arra, hogy egy kávéval a kezében figyelje a helyi életet.",
+            "ro": "Bucurați-vă de o plimbare prin acest centru comunitar dedicat tinerilor, un loc excelent pentru a savura o cafea și a observa viața locală.",
+            "en": "Enjoy a relaxing stroll through this community hub that fosters youth culture, making it an excellent spot to sit with a coffee and watch local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressuire Castle",
+            "hu": "Bressuire-i vár",
+            "ro": "Castelul Bressuire",
+            "en": "Bressuire Castle"
+          },
+          "coords": [
+            -0.470353,
+            46.825861
+          ],
+          "category": "fortress",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
+            "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem reichen Erbe von Bressuire im zentralen Museum, gefolgt von einem Besuch der beeindruckenden Église Notre-Dame.\n\nGegen Mittag können Sie die charmante Crèche animée bewundern, bevor Sie einen ruhigen Spaziergang zur historisch bedeutsamen Kirche Saint-Cyprien unternehmen.\n\nVerbringen Sie den frühen Nachmittag entspannt im Espace Jeunesse, wo Sie die lokale Kultur aufsaugen und eine wohlverdiente Ruhepause genießen.\n\nBeenden Sie Ihren Rundgang am monumentalen Schloss von Bressuire, wo das goldene Abendlicht die imposanten mittelalterlichen Ruinen zum Leben erweckt.",
+        "hu": "Kezdje a napot Bressuire gazdag örökségének megismerésével a központi múzeumban, majd látogasson el a lenyűgöző Église Notre-Dame-ba.\n\nDélben csodálja meg a bájos animált betlehemet, mielőtt egy békés sétát tenne a történelmileg jelentős Saint-Cyprien templom felé.\n\nKora délután pihenjen az Espace Jeunesse területén, szívja magába a helyi kultúrát és élvezze a jól megérdemelt pihenést.\n\nFejezze be a gyalogos túrát a monumentális bressuire-i várnál, ahol az aranyló esti fények életre keltik az impozáns középkori romokat.",
+        "ro": "Începeți ziua descoperind patrimoniul bogat al orașului Bressuire la muzeul central, urmat de o vizită la impresionanta Église Notre-Dame.\n\nÎn jurul prânzului, admirați fermecătoarea Crèche animée înainte de a face o plimbare liniștită spre biserica istorică Saint-Cyprien.\n\nPetreceți-vă prima parte a după-amiezii relaxându-vă la Espace Jeunesse, absorbind cultura locală și bucurându-vă de un moment de odihnă.\n\nÎncheiați-vă turul pietonal la monumentalul Castel Bressuire, unde lumina aurie a serii readuce la viață ruinele medievale impunătoare.",
+        "en": "Start your day immersing in the rich heritage of Bressuire at the central museum, followed by a visit to the striking Église Notre-Dame.\n\nAround midday, marvel at the charming Crèche animée before taking a peaceful stroll towards the historically significant Saint-Cyprien Church.\n\nSpend your early afternoon relaxing at the Espace Jeunesse, absorbing the local culture and enjoying a well-deserved moment of rest.\n\nConclude your walking tour at the monumental Bressuire Castle, where the golden evening light brings the imposing medieval ruins back to life."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            -0.460471,
+            46.855341
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser etwas abgelegenen Kapelle mit schönen Steinarbeiten und bringen Sie eine Kamera für die malerische Landschaft mit.",
+            "hu": "Találjon békére ebben a kissé félreeső, gyönyörű kőfaragásokkal díszített kápolnában, és hozzon magával fényképezőgépet a festői táj megörökítéséhez.",
+            "ro": "Găsiți liniștea în această capelă retrasă, cu lucrări frumoase din piatră, și aduceți un aparat foto pentru a surprinde peisajul pitoresc din jur.",
+            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressuire Museum",
+            "hu": "Bressuire Múzeum",
+            "ro": "Muzeul Bressuire",
+            "en": "Bressuire Museum"
+          },
+          "coords": [
+            -0.492898,
+            46.842055
+          ],
+          "category": "museum",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
+            "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
+            "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -0.491552,
+            46.841862
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
+            "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Cyprien Church",
+            "hu": "Saint-Cyprien templom",
+            "ro": "Biserica Saint-Cyprien",
+            "en": "Saint-Cyprien Church"
+          },
+          "coords": [
+            -0.50161,
+            46.839844
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
+            "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
+            "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressuire Castle",
+            "hu": "Bressuire-i vár",
+            "ro": "Castelul Bressuire",
+            "en": "Bressuire Castle"
+          },
+          "coords": [
+            -0.470353,
+            46.825861
+          ],
+          "category": "fortress",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
+            "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de La Coussaie",
+            "hu": "Château de La Coussaie",
+            "ro": "Château de La Coussaie",
+            "en": "Château de La Coussaie"
+          },
+          "coords": [
+            -0.498205,
+            46.816504
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Schloss, das Sie am besten bei einer spannenden Führung durch die prächtigen Säle erleben.",
+            "hu": "Lépjen vissza az időben ebben az elegáns kastélyban, amely a regionális arisztokrata örökséget mutatja be, és élvezze a fő csarnokok vezetett túráját.",
+            "ro": "Întoarceți-vă în timp în acest castel istoric elegant, care prezintă patrimoniul aristocratic regional, savurat cel mai bine printr-un tur ghidat al sălilor.",
+            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zur ruhigen Kapelle Notre-Dame-de-Bon-Secours für einen friedlichen Morgen und erkunden Sie anschließend das faszinierende Museum von Bressuire.\n\nRollen Sie in den historischen Stadtkern, um sowohl die Église Notre-Dame als auch die Kirche Saint-Cyprien zu bewundern und die Architektur zu genießen.\n\nEine kurze Radtour bringt Sie zu den hoch aufragenden Ruinen des Schlosses Bressuire, einer Festung, die ein echtes Gefühl für die mittelalterliche Vergangenheit vermittelt.\n\nBeenden Sie Ihre Radtour mit einer angenehmen Route nach Süden zum eleganten Château de La Coussaie und lassen Sie den Tag bei Sonnenuntergang Revue passieren.",
+        "hu": "Tekerjen el a békés Notre-Dame-de-Bon-Secours kápolnához a reggeli nyugalomért, majd biciklizzen vissza a lenyűgöző Bressuire Múzeumhoz.\n\nGuruljon be a város történelmi központjába, hogy megcsodálja a Notre-Dame és a Saint-Cyprien templomok lenyűgöző építészeti szépségét útközben.\n\nEgy rövid bicikliút elviszi a hatalmas bressuire-i vár romjaihoz, egy hihetetlen erődhöz, amely igazi középkori hangulatot áraszt.\n\nFejezze be kerékpáros útját egy kellemes délre tartó tekeréssel az elegáns Château de La Coussaie-hez, és gondoljon vissza a napra a naplementében.",
+        "ro": "Porniți cu bicicleta spre liniștita Capelă Notre-Dame-de-Bon-Secours, apoi întoarceți-vă pentru a explora fascinantul Muzeu Bressuire.\n\nCălătoriți spre centrul istoric al orașului pentru a admira atât Église Notre-Dame, cât și Biserica Saint-Cyprien, bucurându-vă de frumusețea arhitecturală.\n\nO scurtă plimbare cu bicicleta vă duce la ruinele grandioase ale Castelului Bressuire, o fortăreață care oferă un sentiment autentic al trecutului medieval.\n\nÎncheiați călătoria cu bicicleta printr-un traseu plăcut spre sud către elegantul Château de La Coussaie, reflectând asupra zilei la apus.",
+        "en": "Pedal out to the tranquil Chapelle Notre-Dame-de-Bon-Secours to start your morning in peace, then cycle back to explore the fascinating Bressuire Museum.\n\nRoll into the historic core of the city to admire both Église Notre-Dame and Saint-Cyprien Church, taking in the architectural beauty along the way.\n\nA short bike ride takes you to the towering ruins of Bressuire Castle, an incredible fortress that offers a true sense of the region's medieval past.\n\nFinish your cycling journey with a pleasant route south to the elegant Château de La Coussaie, reflecting on the day as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de La Coussaie",
+            "hu": "Château de La Coussaie",
+            "ro": "Château de La Coussaie",
+            "en": "Château de La Coussaie"
+          },
+          "coords": [
+            -0.498205,
+            46.816504
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Schloss, das Sie am besten bei einer spannenden Führung durch die prächtigen Säle erleben.",
+            "hu": "Lépjen vissza az időben ebben az elegáns kastélyban, amely a regionális arisztokrata örökséget mutatja be, és élvezze a fő csarnokok vezetett túráját.",
+            "ro": "Întoarceți-vă în timp în acest castel istoric elegant, care prezintă patrimoniul aristocratic regional, savurat cel mai bine printr-un tur ghidat al sălilor.",
+            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressuire Castle",
+            "hu": "Bressuire-i vár",
+            "ro": "Castelul Bressuire",
+            "en": "Bressuire Castle"
+          },
+          "coords": [
+            -0.470353,
+            46.825861
+          ],
+          "category": "fortress",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
+            "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressuire Museum",
+            "hu": "Bressuire Múzeum",
+            "ro": "Muzeul Bressuire",
+            "en": "Bressuire Museum"
+          },
+          "coords": [
+            -0.492898,
+            46.842055
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
+            "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
+            "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -0.491552,
+            46.841862
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
+            "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
+            "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Cyprien Church",
+            "hu": "Saint-Cyprien templom",
+            "ro": "Biserica Saint-Cyprien",
+            "en": "Saint-Cyprien Church"
+          },
+          "coords": [
+            -0.50161,
+            46.839844
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
+            "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
+            "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            -0.460471,
+            46.855341
+          ],
+          "category": "religious",
+          "arrive_at": "15:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser etwas abgelegenen Kapelle mit schönen Steinarbeiten und bringen Sie eine Kamera für die malerische Landschaft mit.",
+            "hu": "Találjon békére ebben a kissé félreeső, gyönyörű kőfaragásokkal díszített kápolnában, és hozzon magával fényképezőgépet a festői táj megörökítéséhez.",
+            "ro": "Găsiți liniștea în această capelă retrasă, cu lucrări frumoase din piatră, și aduceți un aparat foto pentru a surprinde peisajul pitoresc din jur.",
+            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour abseits des Zentrums beim prächtigen Château de La Coussaie und tauchen Sie direkt in die edle Geschichte der Gegend ein.\n\nFahren Sie zum Schloss Bressuire, um auf den mittelalterlichen Festungsmauern zu spazieren, gefolgt von einem Besuch im lokalen Museum für tiefere Einblicke.\n\nParken Sie zentral, um die herrliche Église Notre-Dame und die historische Kirche Saint-Cyprien zu erkunden und durch die charmanten Straßen zu schlendern.\n\nMachen Sie eine letzte malerische Fahrt zur Kapelle Notre-Dame-de-Bon-Secours und genießen Sie die ruhige ländliche Atmosphäre, bevor Sie zurückkehren.",
+        "hu": "Kezdje az autós túrát a központtól távolabb fekvő pompás Château de La Coussaie-nél, és merüljön el a régió nemesi történelmében.\n\nVezessen a bressuire-i várhoz, hogy sétáljon a középkori várfalakon, majd látogasson el a helyi múzeumba a gazdag kultúra jobb megértéséhez.\n\nParkoljon a központban, hogy felfedezze a csodálatos Notre-Dame-t és a történelmi Saint-Cyprien templomot a városközpont hangulatos utcáin.\n\nTegyen egy utolsó, festői autózást a Notre-Dame-de-Bon-Secours kápolnához, élvezve a nyugodt vidéki hangulatot a visszatérés előtt.",
+        "ro": "Începeți-vă turul cu mașina departe de centru la grandiosul Château de La Coussaie, scufundându-vă direct în istoria nobilă a zonei.\n\nConduceți până la Castelul Bressuire pentru a vă plimba pe meterezele medievale, urmat de o vizită la muzeul local pentru a înțelege mai bine cultura.\n\nParcați central pentru a explora magnifica Église Notre-Dame și biserica istorică Saint-Cyprien, navigând pe străzile fermecătoare ale centrului.\n\nFaceți o ultimă plimbare pitorească cu mașina până la Capela Notre-Dame-de-Bon-Secours, bucurându-vă de atmosfera rurală liniștită înainte de întoarcere.",
+        "en": "Begin your driving tour away from the center at the grand Château de La Coussaie, diving straight into the noble history of the area.\n\nDrive over to Bressuire Castle to walk the medieval ramparts, followed by a visit to the local museum to further understand the town's rich culture.\n\nPark centrally to explore the magnificent Église Notre-Dame and the historic Saint-Cyprien Church, navigating the charming streets of the city center.\n\nTake a final, scenic evening drive out to the Chapelle Notre-Dame-de-Bon-Secours, enjoying the tranquil countryside atmosphere before heading back."
+      }
+    }
+  }
+}

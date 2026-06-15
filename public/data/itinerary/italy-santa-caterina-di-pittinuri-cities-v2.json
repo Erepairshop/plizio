@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-santa-caterina-di-pittinuri-cities-v2",
+  "anchor": {
+    "name": "Santa Caterina di Pittinuri",
+    "coords": [
+      8.49161,
+      40.1048
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Santa Caterina",
+            "hu": "Spiaggia di Santa Caterina",
+            "ro": "Spiaggia di Santa Caterina",
+            "en": "Spiaggia di Santa Caterina"
+          },
+          "coords": [
+            8.490054,
+            40.104644
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser geschützten Bucht mit kristallklarem Wasser für ein morgendliches Bad, aber kommen Sie früh, um einen guten Platz auf dem Kiesstrand zu sichern.",
+            "hu": "Pihenjen ezen a védett öbölben, amelynek kristálytiszta vize tökéletes a reggeli úszáshoz, de érkezzen korán, hogy biztosítson magának egy jó helyet a kavicsos homokon.",
+            "ro": "Relaxați-vă în acest golf adăpostit cu ape cristaline perfecte pentru înot, dar ajungeți devreme pentru a vă asigura un loc bun pe nisipul pietros înainte de aglomerație.",
+            "en": "Relax at this sheltered bay with crystal-clear waters perfect for morning swims, but arrive early to secure a good spot on the pebbly sand before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Betili",
+            "hu": "Betili",
+            "ro": "Betili",
+            "en": "Betili"
+          },
+          "coords": [
+            8.492286,
+            40.104447
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese antiken heiligen Steine, die tiefe Einblicke in die prähistorische sardische Kultur bieten; tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Csodálja meg ezeket az ősi szent köveket, amelyek mély betekintést nyújtanak a történelem előtti szardíniai kultúrába, ezért viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Admirați aceste pietre sacre antice care oferă perspective profunde asupra culturii sarde preistorice, așadar purtați încălțăminte robustă pentru a naviga terenul accidentat.",
+            "en": "Marvel at these ancient sacred stones that offer profound insights into prehistoric Sardinian culture, so remember to wear sturdy shoes to safely navigate the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala di Santa Caterina",
+            "hu": "Cala di Santa Caterina",
+            "ro": "Cala di Santa Caterina",
+            "en": "Cala di Santa Caterina"
+          },
+          "coords": [
+            8.489888,
+            40.100437
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Kalksteinklippen, die diese Bucht einrahmen und ideale Fotomotive bieten; bringen Sie jedoch eigenen Sonnenschutz für Ihren Komfort mit.",
+            "hu": "Élvezze a festői öblöt keretező drámai mészkősziklákat, amelyek ideálisak fotózáshoz, de a kényelem érdekében erősen ajánlott saját napernyőt is magával hoznia.",
+            "ro": "Bucurați-vă de stâncile dramatice de calcar care încadrează acest golfuleț pitoresc, fiind un loc ideal pentru fotografii, deși este recomandat să aduceți propria umbră.",
+            "en": "Enjoy the dramatic limestone cliffs framing this picturesque cove, making it an ideal spot for photography, though bringing your own shade is highly recommended for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Scoglio del Genovese",
+            "hu": "Scoglio del Genovese",
+            "ro": "Scoglio del Genovese",
+            "en": "Scoglio del Genovese"
+          },
+          "coords": [
+            8.486811,
+            40.096729
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten Felsformationen in diesem zerklüfteten Küstenabschnitt und bringen Sie ein Fernglas mit, um lokale Seevögel in den hohen Spalten zu entdecken.",
+            "hu": "Figyelje meg a kék tengerből kiemelkedő lenyűgöző sziklaalakzatokat ezen a vad partvidéken, és hozzon magával távcsövet a magas hasadékokban fészkelő tengeri madarakhoz.",
+            "ro": "Observați formațiunile stâncoase impresionante care se ridică din marea azurie pe această coastă accidentată și aduceți un binoclu pentru a observa păsările marine locale.",
+            "en": "Observe the striking rock formations jutting from the azure sea which define this rugged coastline, and bring binoculars to spot local seabirds nesting in the high crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco di S'Archittu",
+            "hu": "Arco di S'Archittu",
+            "ro": "Arco di S'Archittu",
+            "en": "Arco di S'Archittu"
+          },
+          "coords": [
+            8.487836,
+            40.094812
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden, von Wind und Wellen geformten Kalksteinbogens und besuchen Sie ihn zur goldenen Stunde für spektakuläre Fotos im Sonnenuntergang.",
+            "hu": "Sétáljon végig a szél és a hullámok által formált lenyűgöző természetes mészkőíven, és látogasson el ide naplemente idején, hogy csodálatos fotókat készíthessen a fényekről.",
+            "ro": "Plimbați-vă de-a lungul impresionantului arc natural de calcar format de vânt și valuri și vizitați-l la ora de aur pentru fotografii spectaculoase cu soarele apunând.",
+            "en": "Walk along the impressive natural limestone arch shaped by wind and waves over millennia, and visit during golden hour for spectacular photos of the sun setting through it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di S'Archittu",
+            "hu": "Spiaggia di S'Archittu",
+            "ro": "Spiaggia di S'Archittu",
+            "en": "Spiaggia di S'Archittu"
+          },
+          "coords": [
+            8.49077,
+            40.091043
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem sichelförmigen Strand direkt neben dem berühmten natürlichen Bogen, der sichere Schwimmbedingungen und einfachen Zugang zu nahegelegenen Cafés bietet.",
+            "hu": "Pihenjen ezen a félhold alakú strandon a híres természetes ív mellett, amely biztonságos úszást és könnyű hozzáférést biztosít a közeli kávézókhoz egy frissítő uzsonnához.",
+            "ro": "Relaxați-vă pe această plajă în formă de semilună lângă celebrul arc natural, care oferă condiții sigure de înot și acces ușor la cafenelele din apropiere pentru o gustare.",
+            "en": "Unwind on this crescent-shaped beach right next to the famous natural arch, providing safe swimming conditions and easy access to nearby cafes for a refreshing afternoon snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der mediterranen Sonne an der einladenden Spiaggia di Santa Caterina.\n\nDer Mittag lädt zu einem historischen Abstecher zu den Betili-Steinen und einer Pause in der Cala di Santa Caterina ein.\n\nBewundern Sie nachmittags den rauen Scoglio del Genovese und den Arco di S'Archittu.\n\nAm Abend können Sie an der ruhigen Spiaggia di S'Archittu am Wasser entspannen.",
+        "hu": "Kezdje a reggelt a mediterrán napsütés élvezetével a barátságos Spiaggia di Santa Caterina strandon.\n\nA dél egy történelmi kitérőre csábít a Betili kövekhez, majd a Cala di Santa Caterina öbölben pihenhet.\n\nDélután csodálja meg a vad Scoglio del Genovese sziklát és a híres Arco di S'Archittu ívet.\n\nAhogy közeledik az este, lazítson a Spiaggia di S'Archittu hullámai mellett.",
+        "ro": "Începeți dimineața bucurându-vă de soarele mediteranean la primitoarea Spiaggia di Santa Caterina.\n\nAmiaza invită la un ocol istoric la pietrele Betili, urmat de o pauză la Cala di Santa Caterina.\n\nDupă-amiaza, admirați stânca izolată Scoglio del Genovese și faimosul Arco di S'Archittu.\n\nOdată cu lăsarea serii, relaxați-vă pe malul mării la Spiaggia di S'Archittu.",
+        "en": "Start your morning absorbing the Mediterranean sun at the welcoming Spiaggia di Santa Caterina.\n\nMidday invites a historical detour to the ancient Betili stones, followed by a relaxing pause at Cala di Santa Caterina.\n\nIn the afternoon, marvel at the rugged Scoglio del Genovese and the iconic Arco di S'Archittu.\n\nAs evening falls, relax by the gently rolling waves at Spiaggia di S'Archittu."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Su Riu e sa Ide",
+            "hu": "Su Riu e sa Ide",
+            "ro": "Su Riu e sa Ide",
+            "en": "Su Riu e sa Ide"
+          },
+          "coords": [
+            8.487025,
+            40.112278
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Küstengeographie, wo Süßwasser auf das salzige Mittelmeer trifft, und bringen Sie eine leichte Jacke für die kühle Meeresbrise mit.",
+            "hu": "Fedezze fel a lenyűgöző parti földrajzot, ahol az édesvíz találkozik a sós Földközi-tengerrel, amit a hűvös szél miatt egy könnyű kabátban érdemes a legjobban felfedezni.",
+            "ro": "Descoperiți geografia fascinantă a coastei unde apa dulce se întâlnește cu Marea Mediterană, creând un microclimat unic cel mai bine explorat cu o jachetă ușoară în vânt.",
+            "en": "Discover the fascinating coastal geography where fresh water meets the salty Mediterranean sea, creating a unique microclimate best explored with a light jacket in the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Santa Caterina",
+            "hu": "Spiaggia di Santa Caterina",
+            "ro": "Spiaggia di Santa Caterina",
+            "en": "Spiaggia di Santa Caterina"
+          },
+          "coords": [
+            8.490054,
+            40.104644
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser geschützten Bucht mit kristallklarem Wasser für ein morgendliches Bad, aber kommen Sie früh, um einen guten Platz auf dem Kiesstrand zu sichern.",
+            "hu": "Pihenjen ezen a védett öbölben, amelynek kristálytiszta vize tökéletes a reggeli úszáshoz, de érkezzen korán, hogy biztosítson magának egy jó helyet a kavicsos homokon.",
+            "ro": "Relaxați-vă în acest golf adăpostit cu ape cristaline perfecte pentru înot, dar ajungeți devreme pentru a vă asigura un loc bun pe nisipul pietros înainte de aglomerație.",
+            "en": "Relax at this sheltered bay with crystal-clear waters perfect for morning swims, but arrive early to secure a good spot on the pebbly sand before the afternoon crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco di S'Archittu",
+            "hu": "Arco di S'Archittu",
+            "ro": "Arco di S'Archittu",
+            "en": "Arco di S'Archittu"
+          },
+          "coords": [
+            8.487836,
+            40.094812
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden, von Wind und Wellen geformten Kalksteinbogens und besuchen Sie ihn zur goldenen Stunde für spektakuläre Fotos im Sonnenuntergang.",
+            "hu": "Sétáljon végig a szél és a hullámok által formált lenyűgöző természetes mészkőíven, és látogasson el ide naplemente idején, hogy csodálatos fotókat készíthessen a fényekről.",
+            "ro": "Plimbați-vă de-a lungul impresionantului arc natural de calcar format de vânt și valuri și vizitați-l la ora de aur pentru fotografii spectaculoase cu soarele apunând.",
+            "en": "Walk along the impressive natural limestone arch shaped by wind and waves over millennia, and visit during golden hour for spectacular photos of the sun setting through it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia dei Preti",
+            "hu": "Spiaggia dei Preti",
+            "ro": "Spiaggia dei Preti",
+            "en": "Spiaggia dei Preti"
+          },
+          "coords": [
+            8.492681,
+            40.088248
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses bei Einheimischen beliebten Küstenabschnitts, wo Badeschuhe unerlässlich sind, um den felsigen Einstieg ins Wasser sicher zu meistern.",
+            "hu": "Tapasztalja meg ennek a helyiek által kedvelt, kevésbé ismert partszakasznak a nyugodt légkörét, ahol a vízicipő elengedhetetlen a sziklás tengerbe jutáshoz.",
+            "ro": "Experimentați atmosfera liniștită a acestei porțiuni de coastă mai puțin cunoscute preferate de localnici, unde aducerea pantofilor de apă este esențială printre pietre.",
+            "en": "Experience the tranquil atmosphere of this lesser-known stretch of coastline favored by locals, where bringing water shoes is essential to navigate the rocky entry safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Su Puttu",
+            "hu": "Torre di Su Puttu",
+            "ro": "Torre di Su Puttu",
+            "en": "Torre di Su Puttu"
+          },
+          "coords": [
+            8.489259,
+            40.086271
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieses historischen spanischen Wachturms hinauf, der einen Panoramablick über den gesamten Golf bietet, aber seien Sie vorsichtig an den ungesicherten Kanten.",
+            "hu": "Másszon fel ehhez a történelmi spanyol őrtoronyromhoz, amely panorámás kilátást nyújt az egész öbölre, de legyen rendkívül óvatos az omladozó és elkerítetlen széleknél.",
+            "ro": "Urcați la ruinele acestui turn de veghe spaniol istoric care oferă vederi panoramice asupra întregului golf, dar fiți extrem de atenți la marginile prăbușite și neîngrădite.",
+            "en": "Climb up to this historic Spanish watchtower ruins offering panoramic views over the entire gulf, but be extremely careful near the crumbling and completely unfenced edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cornus",
+            "hu": "Nuraghe Cornus",
+            "ro": "Nuraghe Cornus",
+            "en": "Nuraghe Cornus"
+          },
+          "coords": [
+            8.498051,
+            40.086614
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Überreste der alten Nuraghenkultur in der sardischen Geschichte und engagieren Sie einen lokalen Führer, um die Steinarhitektur zu verstehen.",
+            "hu": "Fedezze fel az ősi nuraghé civilizáció lenyűgöző maradványait Szardínia történetében, és béreljen fel egy helyi idegenvezetőt a bonyolult kőépítészet teljes megértéséhez.",
+            "ro": "Explorați rămășițele evocatoare ale vechii civilizații Nuragice adânc înrădăcinate în istoria Sardiniei și angajați un ghid local pentru a înțelege arhitectura complexă.",
+            "en": "Explore the evocative remnants of ancient Nuragic civilization deeply rooted in Sardinian history, and hire a local guide to fully understand the complex stone architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt mit der frischen Meeresbrise am Su Riu e sa Ide, bevor Sie zur Spiaggia di Santa Caterina fahren.\n\nMittags erreichen Sie den spektakulären Arco di S'Archittu und die ruhige Spiaggia dei Preti.\n\nFahren Sie nachmittags nach Süden zur Torre di Su Puttu, um die herrliche Aussicht zu genießen.\n\nBeenden Sie den Tag mit der Erkundung der antiken Ruinen von Nuraghe Cornus.",
+        "hu": "Kerékpáros kalandja a friss tengeri szellővel kezdődik a Su Riu e sa Ide partjánál, mielőtt a Spiaggia di Santa Caterina felé venné az irányt.\n\nDélben a lenyűgöző Arco di S'Archittu és a nyugodt Spiaggia dei Preti várja, hogy felfedezze.\n\nDélután tekerjen délre a Torre di Su Puttu toronyhoz a végtelen tengeri panorámáért.\n\nZárja a napot az ősi Nuraghe Cornus romjainak felfedezésével az este közeledtével.",
+        "ro": "Aventura dvs. cu bicicleta începe cu briza proaspătă de pe coastă la Su Riu e sa Ide înainte de a merge la Spiaggia di Santa Caterina.\n\nAmiaza vă aduce la faimosul Arco di S'Archittu și la liniștita plajă Spiaggia dei Preti.\n\nDupă-amiaza, pedalați spre sud pentru a admira priveliștile superbe de la Torre di Su Puttu.\n\nÎncheiați ziua explorând misterioasele ruine antice Nuraghe Cornus.",
+        "en": "Your biking adventure begins with the fresh coastal breezes at Su Riu e sa Ide before heading to Spiaggia di Santa Caterina.\n\nMidday brings you to the spectacular limestone curves of Arco di S'Archittu and the serene Spiaggia dei Preti.\n\nIn the afternoon, cycle south to admire the breathtaking panoramic views from Torre di Su Puttu.\n\nConclude your active day by exploring the ancient Nuraghe Cornus ruins at a leisurely pace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Su Riu e sa Ide",
+            "hu": "Su Riu e sa Ide",
+            "ro": "Su Riu e sa Ide",
+            "en": "Su Riu e sa Ide"
+          },
+          "coords": [
+            8.487025,
+            40.112278
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Küstengeographie, wo Süßwasser auf das salzige Mittelmeer trifft, und bringen Sie eine leichte Jacke für die kühle Meeresbrise mit.",
+            "hu": "Fedezze fel a lenyűgöző parti földrajzot, ahol az édesvíz találkozik a sós Földközi-tengerrel, amit a hűvös szél miatt egy könnyű kabátban érdemes a legjobban felfedezni.",
+            "ro": "Descoperiți geografia fascinantă a coastei unde apa dulce se întâlnește cu Marea Mediterană, creând un microclimat unic cel mai bine explorat cu o jachetă ușoară în vânt.",
+            "en": "Discover the fascinating coastal geography where fresh water meets the salty Mediterranean sea, creating a unique microclimate best explored with a light jacket in the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Betili",
+            "hu": "Betili",
+            "ro": "Betili",
+            "en": "Betili"
+          },
+          "coords": [
+            8.492286,
+            40.104447
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese antiken heiligen Steine, die tiefe Einblicke in die prähistorische sardische Kultur bieten; tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Csodálja meg ezeket az ősi szent köveket, amelyek mély betekintést nyújtanak a történelem előtti szardíniai kultúrába, ezért viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Admirați aceste pietre sacre antice care oferă perspective profunde asupra culturii sarde preistorice, așadar purtați încălțăminte robustă pentru a naviga terenul accidentat.",
+            "en": "Marvel at these ancient sacred stones that offer profound insights into prehistoric Sardinian culture, so remember to wear sturdy shoes to safely navigate the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di S'Archittu",
+            "hu": "Spiaggia di S'Archittu",
+            "ro": "Spiaggia di S'Archittu",
+            "en": "Spiaggia di S'Archittu"
+          },
+          "coords": [
+            8.49077,
+            40.091043
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem sichelförmigen Strand direkt neben dem berühmten natürlichen Bogen, der sichere Schwimmbedingungen und einfachen Zugang zu nahegelegenen Cafés bietet.",
+            "hu": "Pihenjen ezen a félhold alakú strandon a híres természetes ív mellett, amely biztonságos úszást és könnyű hozzáférést biztosít a közeli kávézókhoz egy frissítő uzsonnához.",
+            "ro": "Relaxați-vă pe această plajă în formă de semilună lângă celebrul arc natural, care oferă condiții sigure de înot și acces ușor la cafenelele din apropiere pentru o gustare.",
+            "en": "Unwind on this crescent-shaped beach right next to the famous natural arch, providing safe swimming conditions and easy access to nearby cafes for a refreshing afternoon snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco di S'Archittu",
+            "hu": "Arco di S'Archittu",
+            "ro": "Arco di S'Archittu",
+            "en": "Arco di S'Archittu"
+          },
+          "coords": [
+            8.487836,
+            40.094812
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des beeindruckenden, von Wind und Wellen geformten Kalksteinbogens und besuchen Sie ihn zur goldenen Stunde für spektakuläre Fotos im Sonnenuntergang.",
+            "hu": "Sétáljon végig a szél és a hullámok által formált lenyűgöző természetes mészkőíven, és látogasson el ide naplemente idején, hogy csodálatos fotókat készíthessen a fényekről.",
+            "ro": "Plimbați-vă de-a lungul impresionantului arc natural de calcar format de vânt și valuri și vizitați-l la ora de aur pentru fotografii spectaculoase cu soarele apunând.",
+            "en": "Walk along the impressive natural limestone arch shaped by wind and waves over millennia, and visit during golden hour for spectacular photos of the sun setting through it."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Su Puttu",
+            "hu": "Torre di Su Puttu",
+            "ro": "Torre di Su Puttu",
+            "en": "Torre di Su Puttu"
+          },
+          "coords": [
+            8.489259,
+            40.086271
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieses historischen spanischen Wachturms hinauf, der einen Panoramablick über den gesamten Golf bietet, aber seien Sie vorsichtig an den ungesicherten Kanten.",
+            "hu": "Másszon fel ehhez a történelmi spanyol őrtoronyromhoz, amely panorámás kilátást nyújt az egész öbölre, de legyen rendkívül óvatos az omladozó és elkerítetlen széleknél.",
+            "ro": "Urcați la ruinele acestui turn de veghe spaniol istoric care oferă vederi panoramice asupra întregului golf, dar fiți extrem de atenți la marginile prăbușite și neîngrădite.",
+            "en": "Climb up to this historic Spanish watchtower ruins offering panoramic views over the entire gulf, but be extremely careful near the crumbling and completely unfenced edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cornus",
+            "hu": "Nuraghe Cornus",
+            "ro": "Nuraghe Cornus",
+            "en": "Nuraghe Cornus"
+          },
+          "coords": [
+            8.498051,
+            40.086614
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Überreste der alten Nuraghenkultur in der sardischen Geschichte und engagieren Sie einen lokalen Führer, um die Steinarhitektur zu verstehen.",
+            "hu": "Fedezze fel az ősi nuraghé civilizáció lenyűgöző maradványait Szardínia történetében, és béreljen fel egy helyi idegenvezetőt a bonyolult kőépítészet teljes megértéséhez.",
+            "ro": "Explorați rămășițele evocatoare ale vechii civilizații Nuragice adânc înrădăcinate în istoria Sardiniei și angajați un ghid local pentru a înțelege arhitectura complexă.",
+            "en": "Explore the evocative remnants of ancient Nuragic civilization deeply rooted in Sardinian history, and hire a local guide to fully understand the complex stone architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Capanna",
+            "hu": "Spiaggia della Capanna",
+            "ro": "Spiaggia della Capanna",
+            "en": "Spiaggia della Capanna"
+          },
+          "coords": [
+            8.490052,
+            40.08535
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem friedlichen Strand inmitten wilder mediterraner Macchia und nehmen Sie Ihren Müll mit, um die unberührte Natur der Umgebung zu erhalten.",
+            "hu": "Fejezze be a napját ezen a csendes, vad mediterrán bozótossal körülvett strandon, és vigye magával a szemetet, hogy segítsen megőrizni a környezet érintetlen természetét.",
+            "ro": "Încheiați-vă ziua pe această plajă retrasă înconjurată de vegetație mediteraneană sălbatică, luând gunoiul cu dumneavoastră pentru a ajuta la conservarea naturii imaculate.",
+            "en": "Finish your day at this peaceful and secluded beach surrounded by wild Mediterranean scrub, taking your trash with you to help preserve the pristine nature of the environment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie für einen erfrischenden Start zum Su Riu e sa Ide und dann weiter zu den prähistorischen Betili-Steinen.\n\nDer Mittag ist perfekt zum Sonnenbaden an der Spiaggia di S'Archittu und am nahegelegenen Kalksteinbogen.\n\nVerbringen Sie den Nachmittag am Torre di Su Puttu und mit der faszinierenden Geschichte im Nuraghe Cornus.\n\nDer Abend bringt pure Entspannung im mediterranen Ambiente der Spiaggia della Capanna.",
+        "hu": "Vezessen a Su Riu e sa Ide ponthoz egy frissítő reggeli kezdésért, majd térjen át a Betili őskori rejtélyére.\n\nA dél tökéletes a napozásra a Spiaggia di S'Archittu strandon és a természetes kőív izgalmas felfedezésére.\n\nDélutánját töltse a Torre di Su Puttu kilátójánál és a Nuraghe Cornus történelmében elmélyülve.\n\nAz este teljes kikapcsolódást és nyugalmat nyújt a festői Spiaggia della Capanna partján.",
+        "ro": "Conduceți spre Su Riu e sa Ide pentru un început de dimineață răcoritor, apoi mergeți la pietrele preistorice Betili.\n\nAmiaza este perfectă pentru a face plajă la Spiaggia di S'Archittu și a vă plimba pe arcul natural din apropiere.\n\nPetreceți după-amiaza la Torre di Su Puttu și aprofundând istoria sardă la Nuraghe Cornus.\n\nSeara aduce o relaxare totală în liniștea de la Spiaggia della Capanna, printre valuri și natură.",
+        "en": "Drive to Su Riu e sa Ide for a refreshing morning start, then quickly transition to the prehistoric mystery of Betili.\n\nMidday is perfect for sunbathing at Spiaggia di S'Archittu and walking around the nearby natural limestone arch.\n\nSpend your afternoon capturing panoramic views at Torre di Su Puttu and delving into Nuragic history at Cornus.\n\nThe evening brings total relaxation amidst the wild coastal beauty of Spiaggia della Capanna."
+      }
+    }
+  }
+}

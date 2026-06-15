@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-galani-cities-v2",
+  "anchor": {
+    "name": "Galani",
+    "coords": [
+      24.49403,
+      37.19145
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Taxiarches",
+            "hu": "Taxiarches Kolostor",
+            "ro": "Mănăstirea Taxiarches",
+            "en": "Monastery of Taxiarches"
+          },
+          "coords": [
+            24.499934,
+            37.192379
+          ],
+          "category": "castle",
+          "arrive_at": "09:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses imposante, festungsartige Kloster mit seinen Fresken und bringen Sie unbedingt ein Tuch mit, um Ihre Schultern im heiligen Raum zu bedecken.",
+            "hu": "Fedezze fel ezt a lenyűgöző, erődszerű kolostort és freskóit, de ne felejtsen el egy könnyű sálat hozni a vállai eltakarására a szent terekbe való belépés előtt.",
+            "ro": "Descoperiți această mănăstire impunătoare ca o fortăreață și frescele sale, aducând o eșarfă ușoară pentru a vă acoperi umerii la intrarea în spațiile sacre.",
+            "en": "Discover this imposing fortress-like monastery and its rich frescoes, making sure to bring a light scarf to cover your shoulders before entering the sacred spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia e Skopiane",
+            "hu": "Panagia e Skopiane",
+            "ro": "Panagia e Skopiane",
+            "en": "Panagia e Skopiane"
+          },
+          "coords": [
+            24.516917,
+            37.191999
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kykladische Architektur dieser wunderschönen Kirche am Meer und kommen Sie am späten Vormittag, wenn die Sonne die weiße Kuppel hell erleuchtet.",
+            "hu": "Csodálja meg ennek a gyönyörű tengerparti templomnak a kükladikus építészetét, és érkezzen késő délelőtt, hogy lássa, ahogy a nap megvilágítja a fehér kupolát.",
+            "ro": "Admirați arhitectura cicladică a acestei frumoase biserici pe malul mării și vizitați-o dimineața târziu pentru a vedea soarele iluminând cupola sa albă strălucitoare.",
+            "en": "Admire the classic Cycladic architecture of this beautiful church by the sea, and time your visit for late morning to see the sun illuminate its whitewashed dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorino",
+            "hu": "Vorino",
+            "ro": "Vorino",
+            "en": "Vorino"
+          },
+          "coords": [
+            24.513614,
+            37.200266
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern von Vorino, wo das stille Wasser zum Schwimmen einlädt, und packen Sie Snacks ein, da es hier kaum Einrichtungen gibt.",
+            "hu": "Pihenjen Vorino békés partjainál, ahol a nyugodt vizű tenger kiváló úszási lehetőséget kínál, és hozzon magával vizet és nasit a korlátozott szolgáltatások miatt.",
+            "ro": "Relaxați-vă pe țărmurile pașnice din Vorino, unde apele calme sunt perfecte pentru înot, și aduceți-vă apă și gustări, deoarece facilitățile de aici sunt limitate.",
+            "en": "Relax on the peaceful shores of Vorino, where the calm waters offer excellent swimming, and pack your own water and snacks as there are limited facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platis Gialos",
+            "hu": "Platis Gialos",
+            "ro": "Platis Gialos",
+            "en": "Platis Gialos"
+          },
+          "coords": [
+            24.512236,
+            37.203698
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und das kristallklare Wasser dieses beliebten Strandes und nutzen Sie die nahegelegenen Tavernen für frische Meeresfrüchte.",
+            "hu": "Élvezze e népszerű strand aranyhomokját és kristálytiszta vizét, és használja ki a közeli tavernákat, hogy frissen fogott tenger gyümölcseit kóstoljon ebédre.",
+            "ro": "Bucurați-vă de nisipul auriu și apele cristaline ale acestei plaje populare, profitând de tavernele din apropiere pentru a gusta fructe de mare proaspete la prânz.",
+            "en": "Enjoy the golden sands and crystal-clear waters of this popular beach, taking advantage of the nearby tavernas to taste some freshly caught seafood for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Parasparia Bucht",
+            "hu": "Parasparia-öböl",
+            "ro": "Golful Parasparia",
+            "en": "Parasparia Bay"
+          },
+          "coords": [
+            24.501778,
+            37.205356
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatische Aussicht auf die Küste an dieser Bucht und bringen Sie feste Schuhe mit, um die felsigen Pfade zu den besten Aussichtspunkten zu meistern.",
+            "hu": "Gyönyörködjön a drámai tengerparti kilátásban ennél az öbölnél, és hozzon strapabíró túracipőt, hogy biztonságosan eligazodjon a legjobb kilátókhoz vezető utakon.",
+            "ro": "Admirați priveliștile dramatice de coastă la acest golf uimitor, aducând încălțăminte robustă pentru a naviga în siguranță pe potecile stâncoase spre punctele de belvedere.",
+            "en": "Take in the dramatic coastal views at this stunning bay, bringing sturdy walking shoes to safely navigate the rocky paths that lead down to the best vantage points."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt nahe dem Zentrum mit einem Besuch in einem mittelalterlichen Kloster. Mittags locken charmante Kapellen am Meer und versteckte Küstenparks im Osten. Am Nachmittag erwarten Sie goldene Sandstrände für pure Entspannung. Der Abend endet mit einem malerischen Blick über die nördlichen Buchten.",
+        "hu": "A reggel a központ közelében indul egy lenyűgöző középkori kolostor felfedezésével. A délidő kelet felé hív, hogy tengerparti kápolnákat és parkokat fedezzen fel. Délután aranyhomokos strandok várják a tökéletes kikapcsolódást. Az este a drámai északi öblök feletti festői kilátással zárul.",
+        "ro": "Dimineața începe aproape de centru cu o vizită la o mănăstire medievală impresionantă. La prânz, mergeți spre est pentru a descoperi capele fermecătoare și parcuri de coastă. După-amiaza, nisipurile aurii vă așteaptă pentru relaxare totală. Seara se încheie cu priveliști pitorești asupra golfurilor din nord.",
+        "en": "Morning starts near the center with a spiritual dive into a stunning medieval monastery. Midday invites you eastward to discover charming seaside chapels and hidden coastal parks. In the afternoon, golden sands await at the main beaches for ultimate relaxation. Evening concludes with scenic views over the dramatic northern bays."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Taxiarches",
+            "hu": "Taxiarches Kolostor",
+            "ro": "Mănăstirea Taxiarches",
+            "en": "Monastery of Taxiarches"
+          },
+          "coords": [
+            24.499934,
+            37.192379
+          ],
+          "category": "castle",
+          "arrive_at": "09:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses imposante, festungsartige Kloster mit seinen Fresken und bringen Sie unbedingt ein Tuch mit, um Ihre Schultern im heiligen Raum zu bedecken.",
+            "hu": "Fedezze fel ezt a lenyűgöző, erődszerű kolostort és freskóit, de ne felejtsen el egy könnyű sálat hozni a vállai eltakarására a szent terekbe való belépés előtt.",
+            "ro": "Descoperiți această mănăstire impunătoare ca o fortăreață și frescele sale, aducând o eșarfă ușoară pentru a vă acoperi umerii la intrarea în spațiile sacre.",
+            "en": "Discover this imposing fortress-like monastery and its rich frescoes, making sure to bring a light scarf to cover your shoulders before entering the sacred spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Parasparia Bucht",
+            "hu": "Parasparia-öböl",
+            "ro": "Golful Parasparia",
+            "en": "Parasparia Bay"
+          },
+          "coords": [
+            24.501778,
+            37.205356
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatische Aussicht auf die Küste an dieser Bucht und bringen Sie feste Schuhe mit, um die felsigen Pfade zu den besten Aussichtspunkten zu meistern.",
+            "hu": "Gyönyörködjön a drámai tengerparti kilátásban ennél az öbölnél, és hozzon strapabíró túracipőt, hogy biztonságosan eligazodjon a legjobb kilátókhoz vezető utakon.",
+            "ro": "Admirați priveliștile dramatice de coastă la acest golf uimitor, aducând încălțăminte robustă pentru a naviga în siguranță pe potecile stâncoase spre punctele de belvedere.",
+            "en": "Take in the dramatic coastal views at this stunning bay, bringing sturdy walking shoes to safely navigate the rocky paths that lead down to the best vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala Bucht",
+            "hu": "Skala-öböl",
+            "ro": "Golful Skala",
+            "en": "Skala Bay"
+          },
+          "coords": [
+            24.48833,
+            37.205669
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Fischerboote, die im Hafen dieser malerischen Bucht schaukeln, und halten Sie Ihre Kamera bereit für die authentische maritime Atmosphäre.",
+            "hu": "Figyelje meg, ahogy a kis halászhajók ringatóznak ennek a festői öbölnek a kikötőjében, és készítse elő fényképezőgépét a sziget autentikus tengeri hangulatához.",
+            "ro": "Priviți bărcile mici de pescuit legănându-se în portul acestui golf pitoresc și pregătiți camera foto pentru a surprinde atmosfera maritimă autentică a insulei.",
+            "en": "Watch the small fishing boats gently bob in the harbor of this picturesque bay, and have your camera ready to capture the authentic maritime atmosphere of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala",
+            "hu": "Skala",
+            "ro": "Skala",
+            "en": "Skala"
+          },
+          "coords": [
+            24.477686,
+            37.204187
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der lebhaften Uferpromenade von Skala mit ihren Geschäften und Cafés, dem perfekten Ort für ein handgemachtes Souvenir oder ein kühles Getränk.",
+            "hu": "Sétáljon végig Skala nyüzsgő vízpartján, ahol könnyen talál helyi boltokat, így tökéletes hely egy kézzel készített ajándék vagy egy hideg ital beszerzéséhez.",
+            "ro": "Plimbați-vă pe faleza vibrantă din Skala, unde veți găsi ușor cafenele, fiind locul perfect pentru a cumpăra un suvenir realizat manual sau o băutură rece.",
+            "en": "Stroll along the vibrant waterfront of Skala, where you can easily find local shops and cafes, making it the perfect spot to pick up a handmade souvenir or a cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Sikamia",
+            "hu": "Sikamia",
+            "ro": "Sikamia",
+            "en": "Sikamia"
+          },
+          "coords": [
+            24.474581,
+            37.196411
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand und halten Sie Ausschau nach schattigen Plätzen unter den Tamarisken, da hier meist keine Sonnenschirme verfügbar sind.",
+            "hu": "Kapcsolódjon ki ezen az érintetlen strandon, és keressen árnyékos helyeket a tamariszkuszfák alatt, mivel itt általában nincsenek bérelhető napernyők.",
+            "ro": "Relaxați-vă în această zonă de plajă virgină, căutând locuri umbrite sub arborii de tamarix, deoarece de obicei nu există umbrele de soare disponibile aici.",
+            "en": "Unwind at this secluded and unspoiled beach area, keeping an eye out for the shaded spots under the tamarisk trees since umbrellas are usually not available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gialoudi",
+            "hu": "Gialoudi",
+            "ro": "Gialoudi",
+            "en": "Gialoudi"
+          },
+          "coords": [
+            24.466616,
+            37.195242
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem ruhigen Küstenabschnitt, der im sanften Nachmittagslicht besonders schön ist, breiten Sie Ihr Handtuch aus und genießen Sie die Brise.",
+            "hu": "Fejezze be a felfedezést ezen a csendes partszakaszon, amely a délutáni fényben különösen szép, ezért terítse ki a törölközőjét, és élvezze a békés szellőt.",
+            "ro": "Încheiați explorarea pe această porțiune liniștită de coastă, care este deosebit de frumoasă în lumina după-amiezii, întindeți-vă prosopul și bucurați-vă de briză.",
+            "en": "End your exploration at this quiet stretch of coastline, which is particularly beautiful as the afternoon light softens, so lay out your towel and enjoy the peaceful breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an historischen Festungen, bevor Sie nach Norden zu atemberaubenden Buchten radeln. Mittags fahren Sie auf malerischen Routen nach Westen zu lebhaften Uferorten. Der Nachmittag ist für ruhige, unberührte Strände reserviert, die sich perfekt zum Schwimmen eignen. Der Abend naht an den stillsten westlichen Buchten.",
+        "hu": "Kezdje a kerékpározást a történelmi erődítményeknél, majd tekerjen északra a lélegzetelállító öblök felé. Délben induljon nyugatra a festői útvonalakon a nyüzsgő vízparti falvakhoz. A délután a csendes, érintetlen strandoké, melyek tökéletesek egy úszáshoz. Az este a legnyugatibb öblök nyugalmával köszönt be.",
+        "ro": "Începeți plimbarea cu bicicleta la fortificațiile istorice înainte de a pedala spre nord către golfurile uluitoare. La prânz, mergeți spre vest pentru a ajunge la comunitățile vibrante de pe malul apei. După-amiaza este rezervată plajelor liniștite și virgine. Seara se apropie în timp ce ajungeți în cele mai liniștite golfuri vestice.",
+        "en": "Kick off your ride exploring historic inland fortifications before pedaling north to breathtaking coastal bays. By midday, cycle west along the scenic routes to reach bustling waterfront communities. The afternoon is reserved for tranquil, unspoiled beaches perfect for a quick swim. Evening approaches as you reach the quietest western coves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Taxiarches",
+            "hu": "Taxiarches Kolostor",
+            "ro": "Mănăstirea Taxiarches",
+            "en": "Monastery of Taxiarches"
+          },
+          "coords": [
+            24.499934,
+            37.192379
+          ],
+          "category": "castle",
+          "arrive_at": "09:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses imposante, festungsartige Kloster mit seinen Fresken und bringen Sie unbedingt ein Tuch mit, um Ihre Schultern im heiligen Raum zu bedecken.",
+            "hu": "Fedezze fel ezt a lenyűgöző, erődszerű kolostort és freskóit, de ne felejtsen el egy könnyű sálat hozni a vállai eltakarására a szent terekbe való belépés előtt.",
+            "ro": "Descoperiți această mănăstire impunătoare ca o fortăreață și frescele sale, aducând o eșarfă ușoară pentru a vă acoperi umerii la intrarea în spațiile sacre.",
+            "en": "Discover this imposing fortress-like monastery and its rich frescoes, making sure to bring a light scarf to cover your shoulders before entering the sacred spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia e Skopiane",
+            "hu": "Panagia e Skopiane",
+            "ro": "Panagia e Skopiane",
+            "en": "Panagia e Skopiane"
+          },
+          "coords": [
+            24.516917,
+            37.191999
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kykladische Architektur dieser wunderschönen Kirche am Meer und kommen Sie am späten Vormittag, wenn die Sonne die weiße Kuppel hell erleuchtet.",
+            "hu": "Csodálja meg ennek a gyönyörű tengerparti templomnak a kükladikus építészetét, és érkezzen késő délelőtt, hogy lássa, ahogy a nap megvilágítja a fehér kupolát.",
+            "ro": "Admirați arhitectura cicladică a acestei frumoase biserici pe malul mării și vizitați-o dimineața târziu pentru a vedea soarele iluminând cupola sa albă strălucitoare.",
+            "en": "Admire the classic Cycladic architecture of this beautiful church by the sea, and time your visit for late morning to see the sun illuminate its whitewashed dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Platis Gialos",
+            "hu": "Platis Gialos",
+            "ro": "Platis Gialos",
+            "en": "Platis Gialos"
+          },
+          "coords": [
+            24.512236,
+            37.203698
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und das kristallklare Wasser dieses beliebten Strandes und nutzen Sie die nahegelegenen Tavernen für frische Meeresfrüchte.",
+            "hu": "Élvezze e népszerű strand aranyhomokját és kristálytiszta vizét, és használja ki a közeli tavernákat, hogy frissen fogott tenger gyümölcseit kóstoljon ebédre.",
+            "ro": "Bucurați-vă de nisipul auriu și apele cristaline ale acestei plaje populare, profitând de tavernele din apropiere pentru a gusta fructe de mare proaspete la prânz.",
+            "en": "Enjoy the golden sands and crystal-clear waters of this popular beach, taking advantage of the nearby tavernas to taste some freshly caught seafood for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Parasparia Bucht",
+            "hu": "Parasparia-öböl",
+            "ro": "Golful Parasparia",
+            "en": "Parasparia Bay"
+          },
+          "coords": [
+            24.501778,
+            37.205356
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatische Aussicht auf die Küste an dieser Bucht und bringen Sie feste Schuhe mit, um die felsigen Pfade zu den besten Aussichtspunkten zu meistern.",
+            "hu": "Gyönyörködjön a drámai tengerparti kilátásban ennél az öbölnél, és hozzon strapabíró túracipőt, hogy biztonságosan eligazodjon a legjobb kilátókhoz vezető utakon.",
+            "ro": "Admirați priveliștile dramatice de coastă la acest golf uimitor, aducând încălțăminte robustă pentru a naviga în siguranță pe potecile stâncoase spre punctele de belvedere.",
+            "en": "Take in the dramatic coastal views at this stunning bay, bringing sturdy walking shoes to safely navigate the rocky paths that lead down to the best vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala Bucht",
+            "hu": "Skala-öböl",
+            "ro": "Golful Skala",
+            "en": "Skala Bay"
+          },
+          "coords": [
+            24.48833,
+            37.205669
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Fischerboote, die im Hafen dieser malerischen Bucht schaukeln, und halten Sie Ihre Kamera bereit für die authentische maritime Atmosphäre.",
+            "hu": "Figyelje meg, ahogy a kis halászhajók ringatóznak ennek a festői öbölnek a kikötőjében, és készítse elő fényképezőgépét a sziget autentikus tengeri hangulatához.",
+            "ro": "Priviți bărcile mici de pescuit legănându-se în portul acestui golf pitoresc și pregătiți camera foto pentru a surprinde atmosfera maritimă autentică a insulei.",
+            "en": "Watch the small fishing boats gently bob in the harbor of this picturesque bay, and have your camera ready to capture the authentic maritime atmosphere of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Sikamia",
+            "hu": "Sikamia",
+            "ro": "Sikamia",
+            "en": "Sikamia"
+          },
+          "coords": [
+            24.474581,
+            37.196411
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand und halten Sie Ausschau nach schattigen Plätzen unter den Tamarisken, da hier meist keine Sonnenschirme verfügbar sind.",
+            "hu": "Kapcsolódjon ki ezen az érintetlen strandon, és keressen árnyékos helyeket a tamariszkuszfák alatt, mivel itt általában nincsenek bérelhető napernyők.",
+            "ro": "Relaxați-vă în această zonă de plajă virgină, căutând locuri umbrite sub arborii de tamarix, deoarece de obicei nu există umbrele de soare disponibile aici.",
+            "en": "Unwind at this secluded and unspoiled beach area, keeping an eye out for the shaded spots under the tamarisk trees since umbrellas are usually not available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gialoudi",
+            "hu": "Gialoudi",
+            "ro": "Gialoudi",
+            "en": "Gialoudi"
+          },
+          "coords": [
+            24.466616,
+            37.195242
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem ruhigen Küstenabschnitt, der im sanften Nachmittagslicht besonders schön ist, breiten Sie Ihr Handtuch aus und genießen Sie die Brise.",
+            "hu": "Fejezze be a felfedezést ezen a csendes partszakaszon, amely a délutáni fényben különösen szép, ezért terítse ki a törölközőjét, és élvezze a békés szellőt.",
+            "ro": "Încheiați explorarea pe această porțiune liniștită de coastă, care este deosebit de frumoasă în lumina după-amiezii, întindeți-vă prosopul și bucurați-vă de briză.",
+            "en": "End your exploration at this quiet stretch of coastline, which is particularly beautiful as the afternoon light softens, so lay out your towel and enjoy the peaceful breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit monumentaler Architektur im Landesinneren, bevor es nach Osten zu spirituellen Orten am Meer geht. Die Fahrt am Mittag führt Sie zu beliebten Küstenstreifen mit feinem Sand und kristallklarem Wasser. Navigieren Sie am Nachmittag zu den nördlichen Klippen. Der Abend bricht herein, wenn Sie an ruhigen westlichen Buchten parken.",
+        "hu": "Az autózás a monumentális szárazföldi építészettel indul, majd kelet felé halad a tengerparti szentélyek felé. A déli vezetés népszerű partokra visz, ahol a finom homok kristálytiszta vízzel találkozik. Délután járja be az északi sziklákat a legjobb fotókért. Az este akkor köszönt be, amikor a nyugati öblöknél parkol le naplementekor.",
+        "ro": "Călătoria auto începe cu arhitectură monumentală înainte de a vă îndrepta spre est, spre sanctuarele de pe litoral. Condusul la prânz vă aduce pe plajele populare, cu nisip fin și apă cristalină. După-amiaza, navigați pe stâncile nordice pentru fotografii imbatabile. Seara coboară în timp ce parcați la golfurile vestice senine.",
+        "en": "Your drive begins seamlessly with monumental inland architecture before heading east to spiritual seaside sanctuaries. Midday driving brings you to popular coastal strips where fine sand meets crystal water. In the afternoon, navigate the sweeping northern cliffs for unbeatable photography. Evening descends as you park by the serene western bays for sunset."
+      }
+    }
+  }
+}

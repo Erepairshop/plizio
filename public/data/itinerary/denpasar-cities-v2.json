@@ -1,0 +1,428 @@
+{
+  "city_id": "denpasar-cities-v2",
+  "anchor": {
+    "name": "Denpasar",
+    "coords": [
+      115.2167,
+      -8.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gereja Katolik Santo Yoseph",
+            "hu": "Szent József Katolikus Templom",
+            "ro": "Biserica Catolică Sf. Iosif",
+            "en": "Gereja Katolik Santo Yoseph"
+          },
+          "coords": [
+            115.220278,
+            -8.65589
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die balinesisch inspirierte Architektur dieser einzigartigen katholischen Kirche, die für ihre geschnitzten Details bekannt ist, und achten Sie auf die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a templom egyedi, balinéz stílusú faragásait, amelyek ötvözik a helyi és katolikus hagyományokat, de a látogatás során feltétlenül takarja el a vállait és a térdeit.",
+            "ro": "Admirați arhitectura acestei biserici catolice ce integrează sculpturi tradiționale balineze, reflectând armonia culturală, și asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Marvel at the unique Balinese-inspired carvings of this Catholic church that reflect incredible cultural harmony, and remember to dress modestly before stepping inside for a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Badung-Denkmal",
+            "hu": "Badung Háborús Emlékmű",
+            "ro": "Memorialul Războiului Badung",
+            "en": "Badung War Memorial"
+          },
+          "coords": [
+            115.217737,
+            -8.656456
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Denkmal mehr über den heldenhaften Puputan-Widerstand gegen die niederländischen Kolonialherren, am besten am frühen Vormittag, wenn das Licht ideal für Fotos ist.",
+            "hu": "Ismerje meg a holland gyarmatosítók elleni hősi ellenállás történetét ennél az emlékműnél, és érdemes még délelőtt érkezni, amikor a fényviszonyok tökéletesek a fényképezéshez.",
+            "ro": "Descoperiți istoria rezistenței eroice împotriva coloniștilor olandezi la acest memorial impresionant și vizitați-l dimineața devreme pentru a prinde cea mai bună lumină pentru poze.",
+            "en": "Learn about the heroic Puputan resistance against Dutch colonizers at this prominent memorial, and try to visit early in the day when the morning light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Bali",
+            "hu": "Bali Múzeum",
+            "ro": "Muzeul Bali",
+            "en": "Museum Bali"
+          },
+          "coords": [
+            115.2187,
+            -8.657611
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte der Insel anhand der beeindruckenden Artefakte und traditionellen Pavillons, und nehmen Sie sich Zeit für den wunderschönen Innenhof.",
+            "hu": "Fedezze fel a sziget gazdag kulturális történelmét az itt kiállított lenyűgöző tárgyakon keresztül, és mindenképpen szánjon időt a csodálatos, hagyományos belső udvar bejárására.",
+            "ro": "Explorați bogata istorie culturală a insulei prin intermediul artefactelor uimitoare și pavilioanelor tradiționale, și nu ratați o plimbare relaxantă prin frumoasa curte interioară.",
+            "en": "Explore the island's rich cultural history through the impressive array of artifacts and traditional pavilions, and make sure to allow enough time to enjoy the beautiful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Obstgroßmarkt",
+            "hu": "Nagybani gyümölcspiac",
+            "ro": "Piața angro de fructe",
+            "en": "Wholesale fruit market"
+          },
+          "coords": [
+            115.213922,
+            -8.656605
+          ],
+          "category": "cultural",
+          "arrive_at": "13:07",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das bunte Treiben dieses lebhaften Marktes voller exotischer Früchte, wo Sie unbedingt frische Mangostan oder Rambutan probieren und etwas um den Preis feilschen sollten.",
+            "hu": "Merüljön el a nyüzsgő piac színes forgatagában, ahol egzotikus gyümölcsök tömkelege várja, és feltétlenül kóstolja meg a friss mangosztánt, miközben bátran alkudozik az árusokkal.",
+            "ro": "Cufundați-vă în atmosfera vibrantă a acestei piețe pline de fructe exotice și asigurați-vă că degustați mangustan sau rambutan proaspăt, negociind prețul cu vânzătorii locali.",
+            "en": "Immerse yourself in the vibrant atmosphere of this bustling market filled with exotic fruits, and be sure to taste fresh mangosteen while politely bargaining with the local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Verlassenes M'A Kaufhaus",
+            "hu": "Elhagyatott M'A áruház",
+            "ro": "Magazinul M'A abandonat",
+            "en": "M'A Department Store (abandoned)"
+          },
+          "coords": [
+            115.214783,
+            -8.660874
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die verlassenen Überreste dieses einst florierenden Kaufhauses, das heute eine faszinierende urbane Ruine darstellt, aber seien Sie beim Erkunden der Umgebung vorsichtig.",
+            "hu": "Tekintse meg az egykor virágzó áruház elhagyatott maradványait, amely ma lenyűgöző városi romként áll, de legyen óvatos a környék felfedezésekor a törmelékek és akadályok miatt.",
+            "ro": "Observați rămășițele abandonate ale acestui magazin cândva prosper, acum o ruină urbană fascinantă, dar fiți extrem de precauți atunci când explorați împrejurimile pline de moloz.",
+            "en": "Observe the abandoned remains of this once-thriving department store that now stands as a fascinating urban ruin, but exercise caution regarding uneven surfaces when walking around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit den feinen Schnitzereien der katholischen Kirche. Am Vormittag spazieren Sie zum Badung-Denkmal und erfahren mehr über den historischen Widerstand. Nachmittags tauchen Sie im Bali-Museum tief in die Inselkultur ein. Später schlendern Sie zum Großmarkt für exotische Früchte. Den Abschluss bildet die faszinierende Ruine des M'A-Kaufhauses.",
+        "hu": "Kezdje a napot a katolikus templom finom faragványainak megcsodálásával. Délelőtt sétáljon el a Badung emlékműhöz, és ismerje meg a történelmi ellenállást. Délután a Bali Múzeumban mélyedhet el a sziget kultúrájában. Később a nagybani gyümölcspiac trópusi ízei csábítják. A napot a M'A áruház izgalmas, elhagyatott romjainál zárja.",
+        "ro": "Începeți ziua admirând sculpturile fine ale bisericii catolice. În cursul dimineții, plimbați-vă până la Memorialul Badung pentru o lecție de istorie. După-amiaza vă aduce la Muzeul Bali pentru a aprofunda cultura insulei. Mai târziu, savurați fructe exotice la piața angro. Ziua se încheie la fascinantele ruine ale magazinului M'A.",
+        "en": "Start your day admiring the delicate carvings of the Catholic church. In the morning, stroll over to the Badung War Memorial to learn about local historical resistance. Your afternoon is spent diving deep into island culture at the Bali Museum. Later, enjoy the vibrant colors of the wholesale fruit market. End the day at the fascinating ruins of the M'A store."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Bali",
+            "hu": "Bali Múzeum",
+            "ro": "Muzeul Bali",
+            "en": "Museum Bali"
+          },
+          "coords": [
+            115.2187,
+            -8.657611
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte der Insel anhand der beeindruckenden Artefakte und traditionellen Pavillons, und nehmen Sie sich Zeit für den wunderschönen Innenhof.",
+            "hu": "Fedezze fel a sziget gazdag kulturális történelmét az itt kiállított lenyűgöző tárgyakon keresztül, és mindenképpen szánjon időt a csodálatos, hagyományos belső udvar bejárására.",
+            "ro": "Explorați bogata istorie culturală a insulei prin intermediul artefactelor uimitoare și pavilioanelor tradiționale, și nu ratați o plimbare relaxantă prin frumoasa curte interioară.",
+            "en": "Explore the island's rich cultural history through the impressive array of artifacts and traditional pavilions, and make sure to allow enough time to enjoy the beautiful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Banteng Liar",
+            "hu": "Monumen Banteng Liar",
+            "ro": "Monumen Banteng Liar",
+            "en": "Monumen Banteng Liar"
+          },
+          "coords": [
+            115.210309,
+            -8.654892
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Denkmal, das an die Unabhängigkeitskämpfer der Insel erinnert, und lesen Sie die Inschriften, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Látogasson el ehhez a történelmi emlékműhöz, amely a sziget függetlenségi harcosainak állít emléket, és olvassa el a feliratokat, hogy mélyebben megértse a helyi történelmet.",
+            "ro": "Vizitați acest monument istoric care onorează luptătorii pentru independența insulei și citiți inscripțiile pentru a înțelege mai bine istoria zbuciumată și curajul localnicilor.",
+            "en": "Visit this striking historical monument dedicated to the island's independence fighters, and take a moment to read the informative inscriptions to grasp the local history deeply."
+          }
+        },
+        {
+          "name": {
+            "de": "Ida Tjokorda Pemecutan IX",
+            "hu": "Ida Tjokorda Pemecutan IX",
+            "ro": "Ida Tjokorda Pemecutan IX",
+            "en": "Ida Tjokorda Pemecutan IX"
+          },
+          "coords": [
+            115.209884,
+            -8.658323
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem bedeutenden historischen Ort, der eng mit der balinesischen Königsfamilie verbunden ist, Respekt und achten Sie auf die kunstvollen traditionellen Verzierungen.",
+            "hu": "Tisztelegjen ezen a fontos történelmi helyszínen, amely szorosan kötődik a balinéz királyi családhoz, és figyelje meg a lenyűgözően részletes, hagyományos építészeti elemeket.",
+            "ro": "Aduceți un omagiu acestui loc istoric important asociat cu familia regală balineză și acordați o atenție deosebită ornamentelor arhitecturale tradiționale sculptate cu măiestrie.",
+            "en": "Pay your respects at this important historical site closely associated with the Balinese royal family, and pay close attention to the intricate traditional architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Senggol Pemedilan",
+            "hu": "Senggol Pemedilan",
+            "ro": "Senggol Pemedilan",
+            "en": "senggol pemedilan"
+          },
+          "coords": [
+            115.208418,
+            -8.65841
+          ],
+          "category": "cultural",
+          "arrive_at": "13:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses abendlichen Straßenmarktes, wo Sie unbedingt die authentischen lokalen Snacks wie Satay probieren sollten, während Sie das Treiben beobachten.",
+            "hu": "Élvezze a nyüzsgő esti utcai piac hangulatát, ahol mindenképpen kóstolja meg az autentikus helyi harapnivalókat, például a sate-t, miközben az asztaloknál a helyieket figyeli.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestei piețe stradale de seară și asigurați-vă că gustați din preparatele locale autentice, precum frigăruile, la unul dintre standuri.",
+            "en": "Enjoy the lively atmosphere of this evening street market, where you absolutely must try authentic local snacks like satay while finding a small table to watch the world go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Putra Mandiri",
+            "hu": "Putra Mandiri",
+            "ro": "Putra Mandiri",
+            "en": "Putra Mandiri"
+          },
+          "coords": [
+            115.200753,
+            -8.668049
+          ],
+          "category": "cultural",
+          "arrive_at": "14:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Kulturzentrum traditionelle Handwerkskunst und lokale Kunstwerke, und nutzen Sie die Gelegenheit, einzigartige handgefertigte Souvenirs direkt von den Künstlern zu erwerben.",
+            "hu": "Fedezze fel a hagyományos kézműves termékeket és művészeti alkotásokat ebben a kulturális központban, és vásároljon egyedi, kézzel készített szuveníreket közvetlenül az alkotóktól.",
+            "ro": "Descoperiți meșteșugurile tradiționale și operele de artă locale în acest centru cultural și profitați de ocazie pentru a achiziționa suveniruri unice direct de la creatorii lor.",
+            "en": "Discover traditional crafts and local artworks at this engaging cultural center, and take the opportunity to purchase unique handmade souvenirs directly from the talented artists."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter Templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Gereja Santo Petrus, Monang Maning"
+          },
+          "coords": [
+            115.197727,
+            -8.66592
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, die einen ruhigen Rückzugsort vom städtischen Trubel bietet, und bewundern Sie die schlichte, aber elegante Architektur während eines kurzen Rundgangs.",
+            "hu": "Látogasson el ebbe a békés templomba, amely nyugodt menedéket nyújt a város zajától, és csodálja meg az egyszerű, de elegáns építészetet egy rövid séta keretében a környéken.",
+            "ro": "Vizitați această biserică liniștită care oferă un refugiu plăcut de agitația orașului și admirați arhitectura sa simplă, dar elegantă, în timpul unei scurte plimbări prin curte.",
+            "en": "Visit this peaceful church that offers a calm retreat from the urban hustle, and admire its simple yet elegant architectural design while enjoying a quiet walk around the grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Bali-Museum und erkunden Sie die reiche Kulturgeschichte der Insel. Danach radeln Sie zum Monumen Banteng Liar, um mehr über die lokale Unabhängigkeit zu erfahren. Am Nachmittag besuchen Sie den historischen Ort Ida Tjokorda Pemecutan IX und den Markt Senggol Pemedilan. Bewundern Sie Kunst bei Putra Mandiri und enden bei der friedlichen Kirche in Monang Maning.",
+        "hu": "Kezdje kerékpártúráját a Bali Múzeumnál, felfedezve a sziget gazdag múltját. Ezután tekerjen a Monumen Banteng Liar emlékműhöz a függetlenségi történelemért. Délután látogasson el Ida Tjokorda Pemecutan IX történelmi helyszínére és a Senggol Pemedilan piacra. Később fedezze fel a Putra Mandiri kézműves központot, végül pedig pihenjen meg egy békés helyi templomnál.",
+        "ro": "Începeți turul cu bicicleta la Muzeul Bali, explorând istoria culturală a insulei. Apoi, pedalați spre Monumen Banteng Liar pentru a afla despre independența locală. După-amiaza, vizitați situl istoric Ida Tjokorda Pemecutan IX și piața Senggol Pemedilan. Descoperiți meșteșugurile la Putra Mandiri și încheiați ziua activă la biserica liniștită din Monang Maning.",
+        "en": "Kick off your bike tour at the Bali Museum, exploring the island's history. Next, ride to Monumen Banteng Liar for stories of local independence. In the afternoon, visit the historic site of Ida Tjokorda Pemecutan IX and the lively Senggol Pemedilan market. Browse traditional crafts at Putra Mandiri before finishing your active day at a peaceful local church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Bali",
+            "hu": "Bali Múzeum",
+            "ro": "Muzeul Bali",
+            "en": "Museum Bali"
+          },
+          "coords": [
+            115.2187,
+            -8.657611
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte der Insel anhand der beeindruckenden Artefakte und traditionellen Pavillons, und nehmen Sie sich Zeit für den wunderschönen Innenhof.",
+            "hu": "Fedezze fel a sziget gazdag kulturális történelmét az itt kiállított lenyűgöző tárgyakon keresztül, és mindenképpen szánjon időt a csodálatos, hagyományos belső udvar bejárására.",
+            "ro": "Explorați bogata istorie culturală a insulei prin intermediul artefactelor uimitoare și pavilioanelor tradiționale, și nu ratați o plimbare relaxantă prin frumoasa curte interioară.",
+            "en": "Explore the island's rich cultural history through the impressive array of artifacts and traditional pavilions, and make sure to allow enough time to enjoy the beautiful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Sari Winangun",
+            "hu": "Sari Winangun Piac",
+            "ro": "Piața Sari Winangun",
+            "en": "Pasar Sari Winangun"
+          },
+          "coords": [
+            115.182161,
+            -8.657471
+          ],
+          "category": "cultural",
+          "arrive_at": "10:59",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den authentischen Alltag auf diesem traditionellen Markt, wo Sie frische Gewürze und lokale Produkte finden, aber vergessen Sie nicht, Ihr Verhandlungsgeschick einzusetzen.",
+            "hu": "Tapasztalja meg a helyiek mindennapi életét ezen a hagyományos piacon, ahol friss fűszereket talál, de ne felejtse el bevetni az alkudozási képességeit a legjobb árak eléréséhez.",
+            "ro": "Experimentați viața de zi cu zi a localnicilor în această piață tradițională unde veți găsi condimente proaspete, dar nu uitați să vă folosiți abilitățile de negociere cu vânzătorii.",
+            "en": "Experience authentic daily life at this traditional market where you can find fresh local spices, but do not forget to practice your bargaining skills to get the best possible prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla Syuhada",
+            "hu": "Musholla Syuhada",
+            "ro": "Musholla Syuhada",
+            "en": "Musholla Syuhada"
+          },
+          "coords": [
+            115.182538,
+            -8.661932
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses kleine, aber feine islamische Gebetshaus, das die religiöse Vielfalt Balis unterstreicht, und verhalten Sie sich beim Fotografieren von außen stets respektvoll.",
+            "hu": "Tekintse meg ezt a kis iszlám imaházat, amely Bali vallási sokszínűségét jelképezi, és ügyeljen arra, hogy mindig tiszteletteljesen viselkedjen, amikor kívülről fényképeket készít.",
+            "ro": "Observați această mică casă de rugăciune islamică ce subliniază diversitatea religioasă a insulei Bali și asigurați-vă că păstrați o atitudine respectuoasă atunci când faceți poze.",
+            "en": "Observe this small but significant Islamic prayer house that highlights Bali's religious diversity, and always maintain a respectful distance when taking photographs from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditioneller Markt Dalung",
+            "hu": "Dalung Hagyományos Piac",
+            "ro": "Piața Tradițională Dalung",
+            "en": "Pasar Tradisional Dalung"
+          },
+          "coords": [
+            115.174638,
+            -8.629639
+          ],
+          "category": "cultural",
+          "arrive_at": "12:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie auf diesem großen Markt eine unglaubliche Vielfalt an lokalen Waren und Lebensmitteln, ideal um authentische balinesische Snacks zu probieren, die frisch zubereitet werden.",
+            "hu": "Fedezze fel ezen a hatalmas piacon a helyi áruk és élelmiszerek hihetetlen választékát, amely tökéletes hely a frissen készített, autentikus balinéz harapnivalók kipróbálására.",
+            "ro": "Descoperiți o varietate incredibilă de produse și alimente locale în această piață mare, ideală pentru a gusta din preparatele și gustările autentice balineze gătite proaspăt.",
+            "en": "Discover an incredible variety of local goods and foods at this large traditional market, making it the ideal spot to try freshly prepared and highly authentic Balinese street snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Tritunggal Mahakudus",
+            "hu": "Szentháromság Templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Gereja Tritunggal Mahakudus, Tuka"
+          },
+          "coords": [
+            115.161669,
+            -8.614891
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die außergewöhnliche Architektur dieser historischen Kirche in Tuka, die balinesische Elemente integriert, und nehmen Sie sich Zeit für einen Moment der Stille im Inneren.",
+            "hu": "Csodálja meg a tukai történelmi templom különleges építészetét, amely gyönyörűen integrálja a balinéz elemeket, és szánjon egy kis időt a belső tér csendes, nyugodt szemlélődésére.",
+            "ro": "Admirați arhitectura excepțională a acestei biserici istorice din Tuka ce îmbină perfect elementele balineze și acordați-vă câteva momente de liniște pentru a aprecia interiorul.",
+            "en": "Admire the exceptional architecture of this historic church in Tuka that beautifully integrates Balinese design elements, and take a moment of silence to appreciate the calm interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Ausflug beginnt am Museum Bali, dem perfekten Ort, um die Kultur der Insel kennenzulernen. Danach fahren Sie zum Markt Sari Winangun, um in den authentischen Alltag einzutauchen. Am Nachmittag bewundern Sie die kleine Musholla Syuhada. Später erwartet Sie das rege Treiben auf dem Markt in Dalung. Den Tag beschließen Sie an der einzigartigen Kirche in Tuka.",
+        "hu": "Autós kirándulása a Bali Múzeumnál indul, ahol elmerülhet a helyi kultúrában. Ezután a Sari Winangun piacra hajt, hogy megtapasztalja a mindennapi életet. Délután a Musholla Syuhada kis imaházát csodálhatja meg. Később a dalungi hagyományos piac pezsgő forgataga várja. A napot a tukai egyedülálló, balinéz stílusú templomnál zárja.",
+        "ro": "Excursia cu mașina începe la Muzeul Bali, locul perfect pentru a descoperi cultura insulei. Apoi conduceți către piața Sari Winangun pentru o experiență autentică. După-amiaza, admirați modesta dar importanta Musholla Syuhada. Mai târziu, vă așteaptă agitația pieței tradiționale din Dalung. Ziua se încheie la biserica cu o arhitectură unică din Tuka.",
+        "en": "Your driving trip begins at the Bali Museum, a perfect starting point to understand island culture. Drive next to Pasar Sari Winangun to experience authentic daily life. In the afternoon, admire the modest yet significant Musholla Syuhada. Later, navigate to the bustling Dalung Traditional Market. Conclude your journey at the uniquely designed church in Tuka."
+      }
+    }
+  }
+}

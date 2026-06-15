@@ -1,0 +1,451 @@
+{
+  "city_id": "douai",
+  "anchor": {
+    "name": "Douai",
+    "coords": [
+      3.0792,
+      50.3708
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Beffroi de Douai",
+            "hu": "Beffroi de Douai",
+            "ro": "Beffroi de Douai",
+            "en": "Beffroi de Douai"
+          },
+          "coords": [
+            3.080644,
+            50.367961
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den beeindruckenden gotischen Glockenturm für einen Panoramablick, aber buchen Sie Ihre Führung im Voraus, da die Plätze begrenzt sind.",
+            "hu": "Mássza meg az impozáns gótikus harangtornyot a panorámáért, de érdemes előre lefoglalni a vezetett túrát, mivel a csoportok létszáma szigorúan korlátozott.",
+            "ro": "Urcați în impresionantul turn gotic pentru o panoramă superbă asupra orașului, dar rezervați turul ghidat în avans deoarece locurile sunt limitate.",
+            "en": "Climb the impressive Gothic belfry for panoramic views of the city, but book your guided tour in advance as group sizes are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            3.080936,
+            50.367712
+          ],
+          "category": "civic",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reich verzierte Fassade des historischen Rathauses und nutzen Sie die Gelegenheit für einen Abstecher zum nahegelegenen Tourismusbüro.",
+            "hu": "Csodálja meg a történelmi városháza díszes homlokzatát, és szánjon egy percet a részletekre, mielőtt betérne a közeli turisztikai irodába információért.",
+            "ro": "Admirați fațada ornamentată a primăriei istorice, luându-vă un moment pentru a aprecia detaliile înainte de a vizita biroul de turism din apropiere.",
+            "en": "Admire the ornate facade of this historic city hall, taking a moment to appreciate the intricate details before visiting the nearby tourist office."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Pierre",
+            "hu": "Collégiale Saint-Pierre",
+            "ro": "Collégiale Saint-Pierre",
+            "en": "Collégiale Saint-Pierre"
+          },
+          "coords": [
+            3.081723,
+            50.370092
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gewaltige Stiftskirche mit ihren bemerkenswerten Proportionen und verpassen Sie nicht die beeindruckende Orgel über dem Haupteingang.",
+            "hu": "Fedezze fel ezt a lenyűgöző arányokkal rendelkező, hatalmas társaskáptalani templomot, és feltétlenül vegye szemügyre a főbejárat feletti nagy orgonát.",
+            "ro": "Explorați această biserică colegială masivă cu proporțiile sale remarcabile și nu ratați marea orgă situată chiar deasupra intrării principale vestice.",
+            "en": "Explore this massive collegiate church with its remarkable proportions, and don't miss the grand organ located just above the main western entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais de Justice",
+            "hu": "Palais de Justice",
+            "ro": "Palais de Justice",
+            "en": "Palais de Justice"
+          },
+          "coords": [
+            3.077739,
+            50.370666
+          ],
+          "category": "civic",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassizistische Architektur des ehemaligen Parlaments, die am besten vom Vorplatz im hellen Morgenlicht zur Geltung kommt.",
+            "hu": "Csodálja meg a volt parlament épületének klasszicista építészetét, amely a legjobban az előtérből élvezhető, ahol a napfény kiemeli a kőmunkát.",
+            "ro": "Minunați-vă de arhitectura clasică a fostei clădiri a parlamentului, cel mai bine admirată din piața din față unde lumina scoate în evidență detaliile.",
+            "en": "Marvel at the classical architecture of the former parliament building, best viewed from the front square where the light highlights its stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Chartreuse",
+            "hu": "Musée de la Chartreuse",
+            "ro": "Musée de la Chartreuse",
+            "en": "Musée de la Chartreuse"
+          },
+          "coords": [
+            3.075556,
+            50.374722
+          ],
+          "category": "museum",
+          "arrive_at": "12:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das in einem ehemaligen Kloster untergebrachte Kunstmuseum und planen Sie eine Stunde für die flämische Gemäldesammlung ein.",
+            "hu": "Sétáljon végig az egykori kolostorban kialakított szépművészeti múzeumban, legalább egy órát szánva a lenyűgöző flamand festménygyűjteményre.",
+            "ro": "Plimbați-vă prin acest muzeu de arte frumoase dintr-o fostă mănăstire, dedicând cel puțin o oră pentru colecția impresionantă de pictură flamandă.",
+            "en": "Wander through this fine arts museum set in a former monastery, dedicating at least an hour to fully appreciate the impressive Flemish painting collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Plantes",
+            "hu": "Jardin des Plantes",
+            "ro": "Jardin des Plantes",
+            "en": "Jardin des Plantes"
+          },
+          "coords": [
+            3.072385,
+            50.36849
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem botanischen Garten und bringen Sie einen kleinen Snack für eine Pause auf einer der schattigen Bänke am Wasser mit.",
+            "hu": "Pihenjen meg ebben a bájos botanikus kertben, és hozzon magával egy kis harapnivalót, amit az árnyékos padok egyikén, a vízfelületnél fogyaszthat el.",
+            "ro": "Relaxați-vă în această grădină botanică fermecătoare, aducând o gustare ușoară de savurat pe una dintre băncile umbrite de lângă ochiul de apă central.",
+            "en": "Relax in this charming botanical garden, bringing a light snack to enjoy on one of the shaded benches near the picturesque central water feature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im historischen Herzen von Douai, wo Sie den hoch aufragenden Glockenturm und das elegante Rathaus bewundern. Mittags entdecken Sie prächtige Zivilbauten und die beeindruckende Stiftskirche Saint-Pierre. Der Nachmittag ist den reichen Kunstsammlungen im Chartreuse-Museum gewidmet. Gegen Abend entspannen Sie sich bei einem friedlichen Spaziergang im Jardin des Plantes.",
+        "hu": "Reggele Douai történelmi szívében indul, megcsodálva a magasodó harangtornyot és az elegáns városházát. Délben lenyűgöző polgári épületek és a lenyűgöző Saint-Pierre templom várja. A délutánt a Chartreuse múzeum gazdag szépművészeti gyűjteményeinek szentelheti. Ahogy közeledik az este, kapcsolódjon ki egy békés sétával a Jardin des Plantes zöldjében.",
+        "ro": "Dimineața începe în inima istorică a orașului Douai, admirând clopotnița falnică și primăria elegantă. La prânz, vizitați clădiri civice grandioase și impresionanta biserică colegială Saint-Pierre. După-amiaza este dedicată colecțiilor bogate de arte frumoase de la muzeul Chartreuse. Pe măsură ce se apropie seara, relaxați-vă cu o plimbare în Jardin des Plantes.",
+        "en": "Your morning starts in the historic heart of Douai, admiring the towering belfry and elegant town hall. Midday takes you through grandiose civic buildings and the impressive Saint-Pierre collegiate church. The afternoon is dedicated to the rich fine arts collections at the Chartreuse museum. As evening approaches, unwind with a peaceful stroll in the Jardin des Plantes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin des Plantes",
+            "hu": "Jardin des Plantes",
+            "ro": "Jardin des Plantes",
+            "en": "Jardin des Plantes"
+          },
+          "coords": [
+            3.072385,
+            50.36849
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit einem ruhigen Spaziergang durch den Garten und nutzen Sie die praktischen Fahrradständer direkt am Haupteingang.",
+            "hu": "Kezdje a kerékpáros napot egy békés sétával a botanikus kertben, használva a főbejárat közelében kényelmesen elhelyezett kerékpártárolókat.",
+            "ro": "Începeți ziua de ciclism cu o plimbare pașnică prin grădina botanică, folosind parcarea convenabilă pentru biciclete situată chiar lângă intrarea principală.",
+            "en": "Start your cycling day with a peaceful stroll through the botanical garden, utilizing the convenient bike racks located right near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Chartreuse",
+            "hu": "Musée de la Chartreuse",
+            "ro": "Musée de la Chartreuse",
+            "en": "Musée de la Chartreuse"
+          },
+          "coords": [
+            3.075556,
+            50.374722
+          ],
+          "category": "museum",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab, um die Kunstsammlungen im Renaissance-Gebäude zu erkunden, und besuchen Sie unbedingt den ruhigen Klostergarten.",
+            "hu": "Parkolja le kerékpárját, hogy felfedezze a reneszánsz épület csodálatos művészeti gyűjteményeit, de semmiképp se hagyja ki a hátsó csendes kolostorkertet.",
+            "ro": "Parcați bicicleta pentru a explora colecțiile magnifice de artă din clădirea renascentistă, asigurându-vă că vizitați și grădina liniștită a mănăstirii.",
+            "en": "Park your bike to explore the magnificent art collections inside this Renaissance building, making sure to visit the quiet cloister garden at the back."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi de Douai",
+            "hu": "Beffroi de Douai",
+            "ro": "Beffroi de Douai",
+            "en": "Beffroi de Douai"
+          },
+          "coords": [
+            3.080644,
+            50.367961
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem berühmten Glockenspiel des UNESCO-gelisteten Turms, eine perfekte musikalische Untermalung für Ihre Fahrt durch die Altstadt.",
+            "hu": "Hallgassa meg az UNESCO-listás harangtoronyból felcsendülő híres harangjátékot, amely tökéletes hangélményt nyújt a történelmi belvárosi tekeréshez.",
+            "ro": "Ascultați celebrul carilon sunând din clopotnița protejată UNESCO, un acompaniament auditiv perfect pentru cursa dumneavoastră prin centrul istoric.",
+            "en": "Listen to the famous carillon bells ringing from the UNESCO-listed belfry, a perfect audible treat to accompany your ride through the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Valenciennes",
+            "hu": "Porte de Valenciennes",
+            "ro": "Porte de Valenciennes",
+            "en": "Porte de Valenciennes"
+          },
+          "coords": [
+            3.087757,
+            50.367015
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch das gut erhaltene mittelalterliche Stadttor und halten Sie kurz an, um die Verteidigungsarchitektur des Bauwerks zu bewundern.",
+            "hu": "Kerékpározzon át ezen a jól megőrzött középkori kőkapun, és álljon meg egy pillanatra, hogy megcsodálja a védelmi építészetet az út folytatása előtt.",
+            "ro": "Pedalați prin această poartă medievală din piatră bine conservată, oprindu-vă scurt pentru a admira arhitectura defensivă înainte de a continua pe drum.",
+            "en": "Cycle through this well-preserved medieval stone gatehouse, stopping briefly to admire the defensive architecture before continuing along the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            3.086289,
+            50.366652
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beeindruckende Pfarrkirche nahe der Stadttore und ruhen Sie sich im ruhigen Innenraum aus, der Kontrast zu den belebten Straßen bietet.",
+            "hu": "Látogassa meg ezt a lenyűgöző plébániatemplomot a városkapuk közelében, és pihenjen meg a nyugodt belső térben, amely ellentétben áll a kinti nyüzsgéssel.",
+            "ro": "Vizitați această impresionantă biserică parohială de lângă porțile orașului, odihnindu-vă un moment în interiorul liniștit care contrastează cu străzile aglomerate.",
+            "en": "Visit this impressive parish church near the city gates, taking a moment to rest in the tranquil interior which contrasts with the bustling streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Charles-Fenain",
+            "hu": "Parc Charles-Fenain",
+            "ro": "Parc Charles-Fenain",
+            "en": "Parc Charles-Fenain"
+          },
+          "coords": [
+            3.06715,
+            50.38899
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in diesem weitläufigen Park und nutzen Sie die breiten, flachen Wege, die sich hervorragend für ein entspanntes Radfahren eignen.",
+            "hu": "Zárja a kerékpáros útvonalat ebben a tágas zöld parkban, kihasználva a széles, sík ösvényeket, amelyek kiválóak egy kényelmes és biztonságos délutáni tekeréshez.",
+            "ro": "Încheiați traseul de biciclete în acest parc verde spațios, utilizând aleile largi și plate care sunt excelente pentru o sesiune de ciclism de după-amiază.",
+            "en": "End your biking route in this spacious green park, utilizing the wide, flat paths that are excellent for a leisurely and safe afternoon cycling session."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Fahrradabenteuer beginnt sanft mit einer morgendlichen Fahrt zur botanischen Ruhe des Jardin des Plantes. Mittags begegnen Sie der monumentalen Geschichte von Douai und halten an der prächtigen Chartreuse und dem ikonischen Glockenturm. Nachmittags radeln Sie zum markanten Porte de Valenciennes. Der Tag endet mit einer entspannten Radtour im Parc Charles-Fenain.",
+        "hu": "A kerékpáros kaland egy finom reggeli gurulással indul a Jardin des Plantes botanikai nyugalmába. Délben Douai monumentális történelmével találkozik, megállva a csodás Chartreuse és az ikonikus harangtorony előtt. Délután tekerjen ki a lenyűgöző Porte de Valenciennes kapuhoz és a Notre-Dame templomhoz. A nap egy kényelmes kerékpározással zárul a Parc Charles-Fenain fáinak árnyékában.",
+        "ro": "Aventura pe bicicletă începe ușor cu o plimbare matinală către liniștea botanică din Jardin des Plantes. Prânzul vă aduce față în față cu istoria monumentală, oprindu-vă la magnifica Chartreuse și iconica clopotniță. După-amiaza, pedalați spre impresionanta Porte de Valenciennes și Notre-Dame. Ziua se încheie cu o sesiune de ciclism relaxantă în Parc Charles-Fenain.",
+        "en": "The biking adventure begins gently with a morning ride to the botanical tranquility of the Jardin des Plantes. Midday brings you face-to-face with Douai's monumental history, stopping at the magnificent Chartreuse and the iconic belfry. During the afternoon, pedal out to the striking Porte de Valenciennes and Notre-Dame. The day concludes with a leisurely cycling session in Parc Charles-Fenain."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Collégiale Saint-Pierre",
+            "hu": "Collégiale Saint-Pierre",
+            "ro": "Collégiale Saint-Pierre",
+            "en": "Collégiale Saint-Pierre"
+          },
+          "coords": [
+            3.081723,
+            50.370092
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit der Suche nach einem Parkplatz an der Straße, um dieses riesige religiöse Backsteinmonument sicher betrachten zu können.",
+            "hu": "Kezdje az autós túrát egy közeli utcai parkolóhely keresésével, majd csodálja meg ezt a hatalmas téglaépítésű vallási emlékművet, amely uralja a várost.",
+            "ro": "Începeți turul cu mașina găsind o parcare pe stradă pentru a admira acest vast monument religios din cărămidă care domină orizontul istoric al orașului.",
+            "en": "Start your driving tour by finding nearby street parking to marvel at this vast brick-built religious monument that dominates Douai's historic skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi de Douai",
+            "hu": "Beffroi de Douai",
+            "ro": "Beffroi de Douai",
+            "en": "Beffroi de Douai"
+          },
+          "coords": [
+            3.080644,
+            50.367961
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie in der zentralen Tiefgarage, um bequem zum Glockenturmplatz zu gelangen, wo Sie sehen können, wie der Jacquemart die Bronzeglocken schlägt.",
+            "hu": "Parkoljon a központi mélygarázsban a harangtorony terének könnyű megközelítéséhez, ahol láthatja, ahogy a mechanikus figura megüti a bronz harangokat.",
+            "ro": "Parcați în parcajul subteran central pentru acces ușor la piața clopotniței, unde puteți urmări figurina mecanică lovind clopotele grele de bronz.",
+            "en": "Park at the central underground garage for easy access to the belfry square, where you can watch the mechanical jacquemart strike the heavy bronze bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Chartreuse",
+            "hu": "Musée de la Chartreuse",
+            "ro": "Musée de la Chartreuse",
+            "en": "Musée de la Chartreuse"
+          },
+          "coords": [
+            3.075556,
+            50.374722
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto auf dem Museumsparkplatz stehen und entdecken Sie Meisterwerke in Mauern, die zahlreiche historische Belagerungen überstanden haben.",
+            "hu": "Hagyja járművét a múzeum kijelölt parkolózónájában, és lépjen be, hogy felfedezze a számos történelmi ostromot túlélt falak között őrzött remekműveket.",
+            "ro": "Lăsați vehiculul în parcarea dedicată a muzeului și pășiți înăuntru pentru a descoperi capodopere adăpostite între zidurile ce au supraviețuit multor asedii.",
+            "en": "Leave your vehicle in the museum's dedicated parking zone and step inside to discover masterpieces housed within walls that survived numerous historic sieges."
+          }
+        },
+        {
+          "name": {
+            "de": "La Scarpe",
+            "hu": "La Scarpe",
+            "ro": "La Scarpe",
+            "en": "La Scarpe"
+          },
+          "coords": [
+            3.100951,
+            50.390876
+          ],
+          "category": "natural",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den malerischen Flussufern für einen schönen Spaziergang und parken Sie bequem in den umliegenden Wohnstraßen in Wassernähe.",
+            "hu": "Vezessen a festői folyópart felé egy kellemes sétára, könnyedén parkolva a közeli lakóutcákban, mielőtt találna egy szép helyet közvetlenül a víz mellett.",
+            "ro": "Conduceți spre malurile pitorești ale râului pentru o plimbare, parcând ușor pe străzile rezidențiale din apropiere înainte de a găsi un loc bun lângă apă.",
+            "en": "Drive toward the picturesque river banks to enjoy a scenic walk, parking easily on the nearby residential streets before finding a nice spot by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkeos",
+            "hu": "Arkeos",
+            "ro": "Arkeos",
+            "en": "Arkeos"
+          },
+          "coords": [
+            3.129909,
+            50.409206
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem modernen archäologischen Park mit vielen kostenlosen Parkplätzen und planen Sie Ihren Besuch rund um die interaktiven Rekonstruktionen.",
+            "hu": "Vezessen ki ehhez a modern régészeti parkhoz, ahol bőséges ingyenes parkoló várja, és tervezze a látogatást a középkori élet interaktív rekonstrukcióira.",
+            "ro": "Conduceți către acest parc arheologic modern cu multă parcare gratuită, planificând vizita în jurul reconstrucțiilor interactive ale vieții medievale.",
+            "en": "Drive out to this modern archaeological park with abundant free parking, planning your visit around the interactive reconstructions of medieval life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen navigieren Sie bequem zu den architektonischen Wundern von Douai, beginnend mit der monumentalen Collégiale Saint-Pierre und dem zentralen Glockenturm. Der Mittag konzentriert sich auf die kulturelle Erkundung in den großen Hallen des Chartreuse-Museums. Ihr Nachmittag geht in die malerischen Ufer der Scarpe über. Beenden Sie den Tag mit einer Fahrt zum immersiven Erlebnis im Arkeos-Museum.",
+        "hu": "A reggeli vezetés kényelmesen elkalauzolja Douai építészeti csodáihoz, a monumentális Collégiale Saint-Pierre templomtól a legendás központi harangtoronyig. A délidő a mély kulturális felfedezésre fókuszál a Chartreuse múzeum hatalmas termeiben. A délután folyamán a Scarpe folyó festői és csendes partjaira autózik. Zárja a napot az Arkeos múzeum interaktív régészeti élményével.",
+        "ro": "Dimineața cu mașina vă permite să navigați confortabil prin minunile arhitecturale, începând cu monumentala biserică Saint-Pierre și clopotnița centrală. Prânzul se concentrează pe o explorare culturală profundă în marile săli ale muzeului Chartreuse. După-amiaza face tranziția către malurile naturale și senine ale râului Scarpe. Încheiați ziua conducând spre experiența captivantă de la Arkeos.",
+        "en": "Morning driving lets you comfortably navigate Douai's architectural marvels, beginning with the monumental Collégiale Saint-Pierre and the legendary central belfry. Midday focuses on deep cultural exploration within the grand halls of the Chartreuse museum. Your afternoon transitions to the serene natural banks of the Scarpe river. End the day driving out to the immersive Arkeos museum experience."
+      }
+    }
+  }
+}

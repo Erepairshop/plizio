@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-fira-cities-v2",
+  "anchor": {
+    "name": "Fira",
+    "coords": [
+      25.4333,
+      36.4167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum of Prehistoric Thera",
+            "hu": "Museum of Prehistoric Thera",
+            "ro": "Museum of Prehistoric Thera",
+            "en": "Museum of Prehistoric Thera"
+          },
+          "coords": [
+            25.432597,
+            36.416497
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aschekonservierten Ruinen des antiken Akrotiri, die eine minoische Kultur offenbaren, und kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel az ősi Akrotiri hamu alatt megőrzött romjait, amelyek egy élénk minószi kultúrát tárnak fel, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți ruinele conservate în cenușă ale vechiului Akrotiri care dezvăluie o cultură minoică și veniți devreme pentru a evita aglomerația de turiști.",
+            "en": "Discover the ash-preserved ruins of ancient Akrotiri that reveal a vibrant Minoan culture, and visit early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pontian Genocide Monument",
+            "hu": "Pontian Genocide Monument",
+            "ro": "Pontian Genocide Monument",
+            "en": "Pontian Genocide Monument"
+          },
+          "coords": [
+            25.432154,
+            36.418788
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ergreifenden Denkmal für die Pontosgriechen, das einen ruhigen Moment der Besinnung bietet und leicht am Hauptplatz zu finden ist.",
+            "hu": "Álljon meg egy pillanatra ennél a pontoszi görögöknek szentelt emlékműnél, amely csendes elmélkedést kínál, és könnyen megtalálható a nyüzsgő főtér mellett.",
+            "ro": "Opriți-vă la acest memorial emoționant dedicat grecilor pontici, care oferă un moment de reflecție, fiind ușor de găsit chiar lângă piața principală.",
+            "en": "Pause at this poignant memorial dedicated to the Pontic Greeks which offers a quiet moment of reflection, easily found just off the bustling main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Archaeological Museum of Thera",
+            "hu": "Archaeological Museum of Thera",
+            "ro": "Archaeological Museum of Thera",
+            "en": "Archaeological Museum of Thera"
+          },
+          "coords": [
+            25.431097,
+            36.420014
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Sammlung hellenistischer Skulpturen, die die Geschichte der Insel nachzeichnen, und kaufen Sie ein Kombiticket, um zu sparen.",
+            "hu": "Csodálja meg a hellenisztikus és római szobrok lenyűgöző gyűjteményét, amely a sziget történetét követi nyomon, és vegyen kombinált jegyet a spórolásért.",
+            "ro": "Admirați colecția impresionantă de sculpturi elenistice care urmăresc istoria insulei și cumpărați un bilet combinat pentru a economisi niște bani.",
+            "en": "Admire the impressive collection of Hellenistic and Roman sculptures that trace the island's long history, but buy a combined ticket to save money."
+          }
+        },
+        {
+          "name": {
+            "de": "The three bells of Fira",
+            "hu": "The three bells of Fira",
+            "ro": "The three bells of Fira",
+            "en": "The three bells of Fira"
+          },
+          "coords": [
+            25.428546,
+            36.42333
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die legendäre Kirche mit blauer Kuppel über der Caldera und versuchen Sie, die Aussicht vom oberen Parkplatz für den besten Winkel einzufangen.",
+            "hu": "Fényképezze le az ikonikus kék kupolás templomot a kaldera felett, és próbálja meg a felső parkolóból megörökíteni a kilátást a legjobb szög érdekében.",
+            "ro": "Fotografiați biserica iconică cu cupolă albastră ce domină caldera și încercați să surprindeți vederea din parcarea superioară pentru cel mai bun unghi.",
+            "en": "Photograph the iconic blue-domed church overlooking the stunning caldera, and try to capture the view from the upper parking area for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "folklore museum",
+            "hu": "folklore museum",
+            "ro": "folklore museum",
+            "en": "folklore museum"
+          },
+          "coords": [
+            25.434559,
+            36.423087
+          ],
+          "category": "museum",
+          "arrive_at": "13:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie ein traditionelles Höhlenhaus aus dem 19. Jahrhundert, um das authentische Inselleben zu erleben, und erkunden Sie die historische Weinkellerei.",
+            "hu": "Lépjen be egy hagyományos 19. századi barlangházba, hogy megtapasztalja az autentikus szigeti életet, időt szánva a hagyományos borászati eszközökre.",
+            "ro": "Pășiți într-o casă tradițională peșteră din secolul 19 pentru a experimenta viața autentică a insulei, alocând timp pentru a explora vechea cramă.",
+            "en": "Step into a traditional 19th-century cave house to experience authentic Santorini island life, taking time to examine the traditional winery setup."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Fira mit der faszinierenden Vorgeschichte von Thera und einem ruhigen Moment am Pontos-Denkmal. Später erkunden wir klassische Skulpturen, bevor wir die berühmten blauen Kuppeln am Mittag erreichen. Der Nachmittag bietet einen authentischen Einblick in das traditionelle Inselleben. Ein perfekter und malerischer Spaziergang durch Santorins Herz.",
+        "hu": "Kezdje a reggelt Firában Théra lenyűgöző őstörténetével és egy csendes pillanattal a Pontoszi emlékműnél. Később klasszikus szobrokat fedezünk fel, mielőtt délben elérjük a híres kék kupolákat. A délután hiteles bepillantást nyújt a hagyományos szigeti életbe. Tökéletes és festői séta Szantorini szívében, élvezve a páratlan kilátást.",
+        "ro": "Începeți dimineața în Fira cu preistoria fascinantă a Therei și un moment de liniște la monumentul pontic. Mai târziu vom explora sculpturi clasice, înainte de a ajunge la faimoasele cupole albastre la prânz. După-amiaza oferă o privire autentică în viața tradițională a insulei. O plimbare perfectă și pitorească prin inima Santoriniului.",
+        "en": "Start your morning in Fira with the fascinating prehistory of Thera and a quiet moment at the Pontic Monument. Later, we explore classical sculptures before reaching the famous blue domes by midday. The afternoon provides an authentic glimpse into traditional island life. A perfect and highly scenic walk through the heart of Santorini."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pontian Genocide Monument",
+            "hu": "Pontian Genocide Monument",
+            "ro": "Pontian Genocide Monument",
+            "en": "Pontian Genocide Monument"
+          },
+          "coords": [
+            25.432154,
+            36.418788
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ergreifenden Denkmal für die Pontosgriechen, das einen ruhigen Moment der Besinnung bietet und leicht am Hauptplatz zu finden ist.",
+            "hu": "Álljon meg egy pillanatra ennél a pontoszi görögöknek szentelt emlékműnél, amely csendes elmélkedést kínál, és könnyen megtalálható a nyüzsgő főtér mellett.",
+            "ro": "Opriți-vă la acest memorial emoționant dedicat grecilor pontici, care oferă un moment de reflecție, fiind ușor de găsit chiar lângă piața principală.",
+            "en": "Pause at this poignant memorial dedicated to the Pontic Greeks which offers a quiet moment of reflection, easily found just off the bustling main square."
+          }
+        },
+        {
+          "name": {
+            "de": "The three bells of Fira",
+            "hu": "The three bells of Fira",
+            "ro": "The three bells of Fira",
+            "en": "The three bells of Fira"
+          },
+          "coords": [
+            25.428546,
+            36.42333
+          ],
+          "category": "natural",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die legendäre Kirche mit blauer Kuppel über der Caldera und versuchen Sie, die Aussicht vom oberen Parkplatz für den besten Winkel einzufangen.",
+            "hu": "Fényképezze le az ikonikus kék kupolás templomot a kaldera felett, és próbálja meg a felső parkolóból megörökíteni a kilátást a legjobb szög érdekében.",
+            "ro": "Fotografiați biserica iconică cu cupolă albastră ce domină caldera și încercați să surprindeți vederea din parcarea superioară pentru cel mai bun unghi.",
+            "en": "Photograph the iconic blue-domed church overlooking the stunning caldera, and try to capture the view from the upper parking area for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.426287,
+            36.429547
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bezaubernde Klippenkloster, das dem Heiligen Nikolaus gewidmet ist, und denken Sie daran, dezente Kleidung für den Eintritt zu tragen.",
+            "hu": "Fedezze fel ezt a bájos, Szent Miklósnak szentelt sziklafalon álló kolostort, de ne felejtsen el szerény ruházatot viselni a belépéshez.",
+            "ro": "Explorați această fermecătoare mănăstire pe stâncă dedicată Sfântului Nicolae, amintindu-vă să purtați haine modeste pentru a vi se permite intrarea.",
+            "en": "Explore this charming cliffside monastery dedicated to Saint Nicholas, offering serene panoramic views, but remember to wear modest clothing for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Skaros",
+            "hu": "Skaros",
+            "ro": "Skaros",
+            "en": "Skaros"
+          },
+          "coords": [
+            25.418219,
+            36.43244
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dem felsigen Vorgebirge, das einst die mittelalterliche Hauptstadt beherbergte, und tragen Sie festes Schuhwerk für die unebenen Festungstreppen.",
+            "hu": "Túrázzon ki ahhoz a drámai sziklás hegyfokhoz, amely egykor a középkori fővárosnak adott otthont, és viseljen masszív cipőt a romos erőd lépcsőihez.",
+            "ro": "Faceți o drumeție către promontoriul stâncos care odată găzduia capitala medievală, purtând încălțăminte rezistentă pentru a naviga pe scările inegale.",
+            "en": "Hike out to the dramatic rocky promontory that once housed the medieval capital, wearing sturdy shoes to navigate the crumbling and uneven fortress stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle of Skaros",
+            "hu": "Castle of Skaros",
+            "ro": "Castle of Skaros",
+            "en": "Castle of Skaros"
+          },
+          "coords": [
+            25.419835,
+            36.432711
+          ],
+          "category": "castle",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der Festung Skaros, die den Piraten standhielt, und genießen Sie den atemberaubenden Blick über die Ägäis.",
+            "hu": "Fedezze fel Skaros erődítményének lenyűgöző maradványait, amely ellenállt a kalózoknak, és élvezze a lenyűgöző kilátást az Égei-tengerre.",
+            "ro": "Explorați ruinele fascinante ale cetății Skaros, care a rezistat piraților, și bucurați-vă de priveliștile uluitoare asupra Mării Egee.",
+            "en": "Explore the fascinating remains of the Skaros fortress which withstood pirate attacks, and enjoy the breathtaking views over the Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "folklore museum",
+            "hu": "folklore museum",
+            "ro": "folklore museum",
+            "en": "folklore museum"
+          },
+          "coords": [
+            25.434559,
+            36.423087
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betreten Sie ein traditionelles Höhlenhaus aus dem 19. Jahrhundert, um das authentische Inselleben zu erleben, und erkunden Sie die historische Weinkellerei.",
+            "hu": "Lépjen be egy hagyományos 19. századi barlangházba, hogy megtapasztalja az autentikus szigeti életet, időt szánva a hagyományos borászati eszközökre.",
+            "ro": "Pășiți într-o casă tradițională peșteră din secolul 19 pentru a experimenta viața autentică a insulei, alocând timp pentru a explora vechea cramă.",
+            "en": "Step into a traditional 19th-century cave house to experience authentic Santorini island life, taking time to examine the traditional winery setup."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Radtag beginnt mit Kultur und herrlichen Ausblicken auf die berühmten Kuppeln der Caldera. Gegen Mittag fahren wir weiter zum majestätischen Skaros, um Ruinen und Geschichte auf der Klippe zu entdecken. Am Nachmittag radeln wir zurück ins Herz von Fira für eine Dosis authentischer lokaler Folklore. Eine sportliche und unvergessliche Art, die Schönheit Santorins zu erleben.",
+        "hu": "A kerékpáros nap kultúrával és a kaldera híres kupoláinak csodálatos kilátásával kezdődik. Dél körül a fenséges Skaros felé vesszük az irányt, hogy romokat és történelmet fedezzünk fel a sziklákon. Délután visszatekerünk Fira szívébe egy kis autentikus helyi folklórért. Sportos és emlékezetes módja annak, hogy megtapasztaljuk Szantorini szépségét.",
+        "ro": "Ziua de ciclism începe cu cultură și priveliști superbe ale faimoaselor cupole ale calderei. Pe la prânz ne îndreptăm spre mărețul Skaros pentru a descoperi ruine și istorie pe stânci. După-amiaza pedalăm înapoi în inima orașului Fira pentru o doză de folclor local autentic. Un mod sportiv și memorabil de a experimenta frumusețea Santoriniului.",
+        "en": "The biking day starts with culture and gorgeous views of the caldera's famous domes. Around midday, we push onward to the majestic Skaros to uncover ruins and history on the cliffside. In the afternoon, we cycle back into the heart of Fira for a dose of authentic local folklore. A sporty and memorable way to experience Santorini's beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Asmis Kolaitou",
+            "hu": "Asmis Kolaitou",
+            "ro": "Asmis Kolaitou",
+            "en": "Asmis Kolaitou"
+          },
+          "coords": [
+            25.436692,
+            36.403677
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem weniger bekannten Museum abseits der Hauptstraßen in regionale Sammlungen ein und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el az egyedi regionális gyűjteményekben ebben a kevésbé ismert, főutcáktól távol eső múzeumban, és látogatás előtt ellenőrizze a nyitvatartást.",
+            "ro": "Explorați colecțiile regionale în acest muzeu mai puțin cunoscut, departe de străzile principale, verificând orarul sezonier înainte de vizită.",
+            "en": "Delve into unique regional collections at this lesser-known museum away from the main streets, and check their seasonal opening hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Prehistoric Thera",
+            "hu": "Museum of Prehistoric Thera",
+            "ro": "Museum of Prehistoric Thera",
+            "en": "Museum of Prehistoric Thera"
+          },
+          "coords": [
+            25.432597,
+            36.416497
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die aschekonservierten Ruinen des antiken Akrotiri, die eine minoische Kultur offenbaren, und kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel az ősi Akrotiri hamu alatt megőrzött romjait, amelyek egy élénk minószi kultúrát tárnak fel, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți ruinele conservate în cenușă ale vechiului Akrotiri care dezvăluie o cultură minoică și veniți devreme pentru a evita aglomerația de turiști.",
+            "en": "Discover the ash-preserved ruins of ancient Akrotiri that reveal a vibrant Minoan culture, and visit early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Faros Akrotiriou-Oias (Thiras Thesi Kalnteras)",
+            "hu": "Faros Akrotiriou-Oias (Thiras Thesi Kalnteras)",
+            "ro": "Faros Akrotiriou-Oias (Thiras Thesi Kalnteras)",
+            "en": "Faros Akrotiriou-Oias (Thiras Thesi Kalnteras)"
+          },
+          "coords": [
+            25.396589,
+            36.412238
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Klippen, die einen unglaublichen Aussichtspunkt über die Ägäis bieten, und kommen Sie etwas früher für einen guten Platz.",
+            "hu": "Csodálja meg a drámai tengerparti sziklákat, amelyek hihetetlen kilátást nyújtanak az Égei-tengerre, és érkezzen egy kicsit korábban a jó helyért.",
+            "ro": "Admirați stâncile dramatice de coastă care oferă un punct de observație incredibil asupra Mării Egee și sosiți mai devreme pentru a prinde un loc bun.",
+            "en": "Marvel at the dramatic coastal cliffs providing an incredible vantage point over the Aegean Sea, and arrive a bit earlier to secure a good viewing spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle of Skaros",
+            "hu": "Castle of Skaros",
+            "ro": "Castle of Skaros",
+            "en": "Castle of Skaros"
+          },
+          "coords": [
+            25.419835,
+            36.432711
+          ],
+          "category": "castle",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der Festung Skaros, die den Piraten standhielt, und genießen Sie den atemberaubenden Blick über die Ägäis.",
+            "hu": "Fedezze fel Skaros erődítményének lenyűgöző maradványait, amely ellenállt a kalózoknak, és élvezze a lenyűgöző kilátást az Égei-tengerre.",
+            "ro": "Explorați ruinele fascinante ale cetății Skaros, care a rezistat piraților, și bucurați-vă de priveliștile uluitoare asupra Mării Egee.",
+            "en": "Explore the fascinating remains of the Skaros fortress which withstood pirate attacks, and enjoy the breathtaking views over the Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Exhibition Volkan Pizza Santorini",
+            "hu": "Exhibition Volkan Pizza Santorini",
+            "ro": "Exhibition Volkan Pizza Santorini",
+            "en": "Exhibition Volkan Pizza Santorini"
+          },
+          "coords": [
+            25.428448,
+            36.422348
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine einzigartige Ausstellung, die kulinarische Geschichte mit lokaler Kinokultur verbindet, zusammen mit einem Stück ihrer berühmten Pizza.",
+            "hu": "Élvezze a kulináris történelmet és a helyi mozikultúrát ötvöző egyedülálló kiállítást a csillagok alatt, kiegészítve mindezt egy szelet híres pizzájukkal.",
+            "ro": "Bucurați-vă de o expoziție unică ce îmbină istoria culinară cu cultura cinematografică sub stele, acompaniată cu o felie din celebra lor pizza.",
+            "en": "Enjoy a unique exhibition blending culinary history with local cinema culture under the stars, pairing your viewing with a slice of their famous pizza."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die heutige Fahrt enthüllt verborgene Museumsschätze im Süden von Fira, bevor wir uns den prähistorischen Wundern widmen. Am Mittag fahren wir zu den atemberaubenden Ausblicken an der Küste und den dramatischen Burgruinen. Der Nachmittag wird entspannt mit einer Mischung aus Essen und lokaler Kinogeschichte. Ein komfortabler Roadtrip über die Insel.",
+        "hu": "A mai autózás rejtett múzeumi kincseket tár fel Fira déli részén, mielőtt az őskori csodáknak szentelnénk magunkat. Délben a lenyűgöző tengerparti kilátások és a drámai várromok felé vesszük az irányt. A délután pihentető lesz a gasztronómia és a helyi mozi történelmének ötvözetével. Kényelmes autós túra a szigeten.",
+        "ro": "Plimbarea de azi dezvăluie comori muzeale ascunse la sud de Fira, înainte de a ne îndrepta spre minunile preistorice. La prânz conducem spre priveliștile uluitoare de coastă și ruinele dramatice ale cetății. După-amiaza se va încheia relaxant cu un amestec de gastronomie și istoria cinematografiei locale. O călătorie auto confortabilă pe insulă.",
+        "en": "Today's drive uncovers hidden museum treasures south of Fira before diving into prehistoric wonders. By midday, we cruise out to stunning coastal viewpoints and dramatic castle ruins. The afternoon winds down delightfully with a blend of food and local cinema history. A comfortable road trip revealing the extremities of the island."
+      }
+    }
+  }
+}

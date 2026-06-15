@@ -1,0 +1,451 @@
+{
+  "city_id": "turkey-yesilkoy-cities-v2",
+  "anchor": {
+    "name": "Yeşilköy",
+    "coords": [
+      28.82256,
+      40.95898
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 1.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sanat Evi ve Kent Müzesi",
+            "hu": "Sanat Evi ve Kent Müzesi",
+            "ro": "Sanat Evi ve Kent Müzesi",
+            "en": "Sanat Evi ve Kent Müzesi"
+          },
+          "coords": [
+            28.821174,
+            40.955987
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in dieser charmanten Holzvilla, die die kulturelle Vergangenheit Yeşilköys perfekt bewahrt, aber kommen Sie früh, um die Kunstausstellungen in Ruhe zu genießen.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos fakúriában, amely tökéletesen megőrzi Yeşilköy kulturális múltját, de érkezzen korán, hogy elkerülje a délutáni tömeget a művészeti kiállításokon.",
+            "ro": "Explorați moștenirea locală în acest conac fermecător din lemn care păstrează perfect trecutul cultural din Yeşilköy, dar sosiți devreme pentru a evita aglomerația și a vă bucura de artă.",
+            "en": "Explore local heritage in this charming wooden mansion that perfectly preserves Yeşilköy's cultural past, but arrive early to avoid afternoon crowds and fully enjoy the art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşilköy Bezmi Alem Cami",
+            "hu": "Yeşilköy Bezmi Alem Cami",
+            "ro": "Yeşilköy Bezmi Alem Cami",
+            "en": "Yeşilköy Bezmi Alem Cami"
+          },
+          "coords": [
+            28.820605,
+            40.958021
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der späten osmanischen Zeit dieser historischen Moschee nahe der Küste und denken Sie an angemessene Kleidung für den friedlichen Innenraum.",
+            "hu": "Csodálja meg ennek a part menti történelmi mecsetnek az elegáns késő oszmán építészetét, és ne feledjen szerényen öltözni, mielőtt belépne a békés belső tér teljes átéléséhez.",
+            "ro": "Admirați arhitectura elegantă otomană târzie a acestei moschei istorice de lângă coastă și amintiți-vă să vă îmbrăcați decent înainte de a intra pentru a aprecia interiorul său liniștit.",
+            "en": "Admire the elegant late Ottoman architecture of this historic mosque near the coast, and remember to dress modestly before stepping inside to appreciate its peaceful interior ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+            "hu": "Szent Efrém Szír Ortodox Templom",
+            "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+            "en": "The Syriac Orthodox Church of St Ephrem"
+          },
+          "coords": [
+            28.824622,
+            40.959771
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erleben Sie moderne Religionsgeschichte in dieser neu erbauten syrischen Kirche mit atemberaubendem Mauerwerk, überprüfen Sie jedoch vorab die Besuchszeiten, da diese variieren können.",
+            "hu": "Legyen tanúja a modern vallástörténetnek ebben az újonnan épült, lenyűgöző kőműves munkájú szír templomban, de előre ellenőrizze a látogatási időket a közösségi szertartások miatt.",
+            "ro": "Asistați la istoria religioasă modernă la această biserică siriacă recent construită cu lucrări uimitoare în piatră, verificând programul în avans deoarece accesul poate fi restricționat.",
+            "en": "Witness modern religious history at this newly built Syriac church with stunning stonework, checking visiting hours in advance since access can be restricted during community services."
+          }
+        },
+        {
+          "name": {
+            "de": "Dornier Do 28 D-1",
+            "hu": "Dornier Do 28 D-1",
+            "ro": "Dornier Do 28 D-1",
+            "en": "Dornier Do 28 D-1"
+          },
+          "coords": [
+            28.826523,
+            40.963225
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Luftfahrtbegeisterte werden dieses im Freien ausgestellte zweimotorige Oldtimer-Flugzeug lieben, also bringen Sie ein Zoomobjektiv mit, um die einzigartigen Retro-Details einzufangen.",
+            "hu": "A repülés szerelmesei imádni fogják ezt a büszkén kiállított, régi kétmotoros repülőgépet, így érdemes zoomobjektívet hozni, hogy megörökítse a szabad ég alatti egyedi retró részleteket.",
+            "ro": "Pasionații de aviație vor adora să vadă această aeronavă bimotor vintage expusă cu mândrie în aer liber, așa că aduceți un obiectiv cu zoom pentru a surprinde detaliile sale retro.",
+            "en": "Aviation enthusiasts will love spotting this vintage twin-engine aircraft displayed proudly outdoors, so bring a zoom lens to capture its unique retro details against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mecidiye Camii",
+            "hu": "Mecidiye Camii",
+            "ro": "Mecidiye Camii",
+            "en": "Mecidiye Camii"
+          },
+          "coords": [
+            28.831313,
+            40.960542
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aufwendigen Fliesenarbeiten und den ruhigen Innenhof dieses Juwels im Viertel und nehmen Sie sich einen Moment Zeit, um auf den schattigen Bänken die Atmosphäre aufzusaugen.",
+            "hu": "Csodálja meg a környék ezen gyöngyszemének bonyolult csempézését és nyugodt udvarát, majd pihenjen egy pillanatot az árnyékos padokon, hogy magába szívja a helyi atmoszférát.",
+            "ro": "Minunați-vă de faianța complicată și de curtea calmă a acestei bijuterii de cartier, luându-vă un moment pentru a vă așeza pe băncile umbrite și a absorbi atmosfera locală autentică.",
+            "en": "Marvel at the intricate tile work and calm courtyard of this neighborhood gem, taking a moment to sit quietly on the shaded benches outside to soak up the local atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Stadtmuseum von Yeşilköy. Tauchen Sie durch faszinierende Artefakte in die Geschichte des Viertels ein, bevor Sie auf die ruhigen, von Bäumen gesäumten Straßen zurückkehren.\n\nZur Mittagszeit besuchen Sie spirituelle Wahrzeichen, angefangen bei der eleganten Bezmi Alem Moschee. Ein kurzer Spaziergang bringt Sie zur modernen syrischen Kirche, einem architektonischen Meisterwerk.\n\nAm Nachmittag entdecken Sie ein Relikt der Luftfahrt: das Dornier-Flugzeugdenkmal. Schlendern Sie die gepflegten Wege entlang und genießen Sie die Vorstadtidylle, die diese Gegend prägt.\n\nBeenden Sie Ihre Tour an der historischen Mecidiye Moschee. Entspannen Sie in ihrem friedlichen Innenhof, während das späte Nachmittagslicht einen wunderbaren Tag in Yeşilköy sanft ausklingen lässt.",
+        "hu": "Kezdje a reggelt a kedves helyi múzeumban. Merüljön el a városrész történetében a lenyűgöző tárgyakon keresztül, mielőtt újra kilépne Yeşilköy csendes, fákkal szegélyezett utcáira.\n\nDélben spirituális nevezetességek felé vezet az útja, kezdve az elegáns Bezmi Alem mecsettel. Egy rövid sétára csodálja meg a modern szír templomot, a környék építészeti remekművét.\n\nDélután fedezze fel a repülés egyedi emlékét, a Dornier repülőgép-emlékművet. Sétáljon a gondozott ösvényeken, és élvezze a külvárosi nyugalmat, amely a környéket jellemzi.\n\nZárja gyalogtúráját a történelmi Mecidiye mecsetnél. Pihenjen meg a békés udvaron, miközben a késő délutáni fény lágyul, elgondolkodva a Yeşilköyben töltött csodálatos napon.",
+        "ro": "Începeți dimineața la frumosul muzeu local. Pătrundeți în istoria cartierului prin artefacte fascinante înainte de a ieși pe străzile liniștite și mărginite de copaci din Yeşilköy.\n\nLa prânz, vizitați repere spirituale, începând cu eleganta Moschee Bezmi Alem. La o scurtă plimbare, minunați-vă de moderna Biserică Siriacă, o capodoperă arhitecturală a zonei.\n\nDupă-amiaza, descoperiți o relicvă unică a aviației, monumentul aeronavei Dornier. Plimbați-vă pe aleile bine îngrijite, bucurându-vă de liniștea suburbană care definește cartierul.\n\nÎncheiați-vă turul pietonal la istorica Moschee Mecidiye. Relaxați-vă în curtea sa pașnică, în timp ce lumina după-amiezii târzii se domolește, reflectând la o zi minunată în Yeşilköy.",
+        "en": "Start your morning at the lovely local museum. Delve into neighborhood history through fascinating artifacts before stepping back out onto the quiet, tree-lined streets of Yeşilköy.\n\nMidday leads you to spiritual landmarks, beginning with the elegant Bezmi Alem Cami. A short walk away, marvel at the modern Syriac Church, an architectural masterpiece of the area.\n\nIn the afternoon, discover a unique aviation relic, the Dornier aircraft monument. Stroll along the well-kept pathways taking in the suburban serenity that defines the neighborhood.\n\nConclude your walking tour at the historic Mecidiye Mosque. Unwind in its peaceful courtyard as the late afternoon light softens, reflecting on a wonderful day out in Yeşilköy."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Çiroz Strand",
+            "hu": "Çiroz Strand",
+            "ro": "Plaja Çiroz",
+            "en": "Çiroz Beach"
+          },
+          "coords": [
+            28.813707,
+            40.95642
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses beliebten Küstenabschnitts mit Blick auf das Marmarameer und packen Sie Sonnencreme ein, da schattige Plätze oft schnell vergeben sind.",
+            "hu": "Pihenjen a Márvány-tengerre néző, népszerű helyi partszakasz homokos strandján, de vigyen magával naptejet és törölközőt, mivel az árnyékos helyeket a korán kelők gyorsan elfoglalják.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei întinderi locale populare cu vedere la Marea Marmara, împachetând cremă de protecție solară deoarece locurile umbrite sunt ocupate rapid.",
+            "en": "Relax on the sandy shores of this popular local stretch overlooking the Marmara Sea, packing sunscreen and a beach towel since shaded spots are often claimed quickly by early birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanat Evi ve Kent Müzesi",
+            "hu": "Sanat Evi ve Kent Müzesi",
+            "ro": "Sanat Evi ve Kent Müzesi",
+            "en": "Sanat Evi ve Kent Müzesi"
+          },
+          "coords": [
+            28.821174,
+            40.955987
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in dieser charmanten Holzvilla, die die kulturelle Vergangenheit Yeşilköys perfekt bewahrt, aber kommen Sie früh, um die Kunstausstellungen in Ruhe zu genießen.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos fakúriában, amely tökéletesen megőrzi Yeşilköy kulturális múltját, de érkezzen korán, hogy elkerülje a délutáni tömeget a művészeti kiállításokon.",
+            "ro": "Explorați moștenirea locală în acest conac fermecător din lemn care păstrează perfect trecutul cultural din Yeşilköy, dar sosiți devreme pentru a evita aglomerația și a vă bucura de artă.",
+            "en": "Explore local heritage in this charming wooden mansion that perfectly preserves Yeşilköy's cultural past, but arrive early to avoid afternoon crowds and fully enjoy the art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşilköy Bezmi Alem Cami",
+            "hu": "Yeşilköy Bezmi Alem Cami",
+            "ro": "Yeşilköy Bezmi Alem Cami",
+            "en": "Yeşilköy Bezmi Alem Cami"
+          },
+          "coords": [
+            28.820605,
+            40.958021
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der späten osmanischen Zeit dieser historischen Moschee nahe der Küste und denken Sie an angemessene Kleidung für den friedlichen Innenraum.",
+            "hu": "Csodálja meg ennek a part menti történelmi mecsetnek az elegáns késő oszmán építészetét, és ne feledjen szerényen öltözni, mielőtt belépne a békés belső tér teljes átéléséhez.",
+            "ro": "Admirați arhitectura elegantă otomană târzie a acestei moschei istorice de lângă coastă și amintiți-vă să vă îmbrăcați decent înainte de a intra pentru a aprecia interiorul său liniștit.",
+            "en": "Admire the elegant late Ottoman architecture of this historic mosque near the coast, and remember to dress modestly before stepping inside to appreciate its peaceful interior ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+            "hu": "Szent Efrém Szír Ortodox Templom",
+            "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+            "en": "The Syriac Orthodox Church of St Ephrem"
+          },
+          "coords": [
+            28.824622,
+            40.959771
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erleben Sie moderne Religionsgeschichte in dieser neu erbauten syrischen Kirche mit atemberaubendem Mauerwerk, überprüfen Sie jedoch vorab die Besuchszeiten, da diese variieren können.",
+            "hu": "Legyen tanúja a modern vallástörténetnek ebben az újonnan épült, lenyűgöző kőműves munkájú szír templomban, de előre ellenőrizze a látogatási időket a közösségi szertartások miatt.",
+            "ro": "Asistați la istoria religioasă modernă la această biserică siriacă recent construită cu lucrări uimitoare în piatră, verificând programul în avans deoarece accesul poate fi restricționat.",
+            "en": "Witness modern religious history at this newly built Syriac church with stunning stonework, checking visiting hours in advance since access can be restricted during community services."
+          }
+        },
+        {
+          "name": {
+            "de": "Mecidiye Camii",
+            "hu": "Mecidiye Camii",
+            "ro": "Mecidiye Camii",
+            "en": "Mecidiye Camii"
+          },
+          "coords": [
+            28.831313,
+            40.960542
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die aufwendigen Fliesenarbeiten und den ruhigen Innenhof dieses Juwels im Viertel und nehmen Sie sich einen Moment Zeit, um auf den schattigen Bänken die Atmosphäre aufzusaugen.",
+            "hu": "Csodálja meg a környék ezen gyöngyszemének bonyolult csempézését és nyugodt udvarát, majd pihenjen egy pillanatot az árnyékos padokon, hogy magába szívja a helyi atmoszférát.",
+            "ro": "Minunați-vă de faianța complicată și de curtea calmă a acestei bijuterii de cartier, luându-vă un moment pentru a vă așeza pe băncile umbrite și a absorbi atmosfera locală autentică.",
+            "en": "Marvel at the intricate tile work and calm courtyard of this neighborhood gem, taking a moment to sit quietly on the shaded benches outside to soak up the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Yeşilköy",
+            "hu": "Yeşilköy Világítótorony",
+            "ro": "Farul Yeşilköy",
+            "en": "Yeşilköy Lighthouse"
+          },
+          "coords": [
+            28.83891,
+            40.95855
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Schlendern Sie zu dem ikonischen historischen Leuchtturm, der seit Generationen Seeleute leitet, und planen Sie Ihren Besuch zum Sonnenuntergang, wenn die Aussicht atemberaubend ist.",
+            "hu": "Sétáljon le az ikonikus történelmi világítótoronyhoz, amely generációk óta irányítja a tengerészeket, és mindenképpen időzítse a látogatását naplementekor a lélegzetelállító kilátásért.",
+            "ro": "Plimbați-vă până la farul istoric iconic care a ghidat marinarii de generații, asigurându-vă că vizitați la apus, când priveliștile de coastă sunt absolut uluitoare și perfecte.",
+            "en": "Stroll down to the iconic historic lighthouse that has guided sailors for generations, making sure to time your visit for sunset when the coastal views are absolutely breathtaking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie hinunter zum Çiroz Strand für eine erfrischende Morgenbrise. Der sanfte Küstenweg bietet einen perfekten Start, bevor Sie landeinwärts zum Herzen dieses historischen Vororts von Istanbul fahren.\n\nZur Mittagszeit schließen Sie Ihr Fahrrad in der Nähe des Stadtmuseums ab. Nach der Erkundung des lokalen Erbes erwartet Sie eine kurze Fahrt zur detailreichen Bezmi Alem Moschee.\n\nAm Nachmittag führt Sie Ihre Radtour zur modernen syrischen Kirche, gefolgt von der Mecidiye Moschee. Die flachen Straßen machen den Wechsel zwischen diesen Kulturstätten völlig mühelos.\n\nFahren Sie zum spektakulären Leuchtturm von Yeşilköy, wenn der Abend naht. Die Strandpromenade erwacht zum Leben und bietet einen herrlichen Panoramablick auf das schimmernde Marmarameer.",
+        "hu": "Tekerjen le a Çiroz strandra egy frissítő reggeli szellőért. A szelíd tengerparti ösvény tökéletes kezdést kínál, mielőtt befelé pedálozna e történelmi isztambuli külváros szívébe.\n\nDélben és ebédidőben kösse le kerékpárját a Városi Múzeum közelében. A helyi örökség felfedezése után tegyen egy rövid utat, hogy megcsodálja a közeli, gyönyörűen részletezett Bezmi Alem mecsetet.\n\nDélutáni kerékpározása a modern szír templomhoz, majd a Mecidiye mecsethez folytatódik. A sík utcák teljesen zökkenőmentessé teszik az átmenetet ezen kulturális helyszínek között.\n\nAz este közeledtével lovagoljon ki a látványos Yeşilköy világítótoronyhoz. A tengerparti sétány megelevenedik, és lenyűgöző panorámát nyújt a csillogó Márvány-tenger felett.",
+        "ro": "Pedalați până la Plaja Çiroz pentru o briză răcoroasă de dimineață. Traseul de coastă oferă un început perfect înainte de a merge cu bicicleta spre inima acestei suburbii istorice a Istanbulului.\n\nLa prânz, legați bicicleta lângă Muzeul Orașului. După ce ați absorbit moștenirea locală, faceți o scurtă plimbare pentru a admira Moscheea Bezmi Alem, cu detaliile sale frumoase.\n\nCiclismul de după-amiază continuă către moderna Biserică Siriacă, urmată de Moscheea Mecidiye. Străzile plate fac ca tranziția între aceste diverse situri culturale să fie fără efort.\n\nMergeți spre spectaculosul Far Yeşilköy la lăsarea serii. Promenada de pe malul mării prinde viață, oferind o vedere panoramică superbă la apus asupra mării strălucitoare Marmara.",
+        "en": "Pedal down to Çiroz Beach for a refreshing morning breeze. The gentle coastal path offers a perfect start before cycling inland towards the heart of this historical Istanbul suburb.\n\nFor lunch and midday exploration, lock your bike near the City Museum. After absorbing local heritage, take a short ride to admire the beautifully detailed Bezmi Alem Mosque nearby.\n\nYour afternoon cycling continues to the modern Syriac Church, followed by Mecidiye Mosque. The flat streets make transitioning between these diverse cultural sites completely effortless.\n\nRide out to the spectacular Yeşilköy Lighthouse as evening approaches. The seaside promenade comes alive, providing a gorgeous panoramic sunset view of the shimmering Marmara Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 4.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leroz Lunapark Florya",
+            "hu": "Leroz Lunapark Florya",
+            "ro": "Leroz Lunapark Florya",
+            "en": "Leroz Lunapark Florya"
+          },
+          "coords": [
+            28.804474,
+            40.962246
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wecken Sie Ihr inneres Kind mit den klassischen Fahrgeschäften in diesem Vergnügungspark am Meer auf und halten Sie etwas Kleingeld für traditionelle türkische Zuckerwatte bereit.",
+            "hu": "Hozza elő gyermeki énjét a klasszikus játékokkal és a vidám hangulattal ebben a tengerparti vidámparkban, de tartson magánál aprópénzt a hagyományos török vattacukor vásárlásához.",
+            "ro": "Scoateți la iveală copilul din voi cu atracțiile clasice și atmosfera plină de viață la acest parc de distracții, păstrând la îndemână mărunțiș pentru a cumpăra vată de zahăr tradițională.",
+            "en": "Bring out your inner child with the classic rides and lively atmosphere at this seaside amusement park, keeping some small cash handy for buying traditional Turkish cotton candy."
+          }
+        },
+        {
+          "name": {
+            "de": "Çiroz Strand",
+            "hu": "Çiroz Strand",
+            "ro": "Plaja Çiroz",
+            "en": "Çiroz Beach"
+          },
+          "coords": [
+            28.813707,
+            40.95642
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses beliebten Küstenabschnitts mit Blick auf das Marmarameer und packen Sie Sonnencreme ein, da schattige Plätze oft schnell vergeben sind.",
+            "hu": "Pihenjen a Márvány-tengerre néző, népszerű helyi partszakasz homokos strandján, de vigyen magával naptejet és törölközőt, mivel az árnyékos helyeket a korán kelők gyorsan elfoglalják.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei întinderi locale populare cu vedere la Marea Marmara, împachetând cremă de protecție solară deoarece locurile umbrite sunt ocupate rapid.",
+            "en": "Relax on the sandy shores of this popular local stretch overlooking the Marmara Sea, packing sunscreen and a beach towel since shaded spots are often claimed quickly by early birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanat Evi ve Kent Müzesi",
+            "hu": "Sanat Evi ve Kent Müzesi",
+            "ro": "Sanat Evi ve Kent Müzesi",
+            "en": "Sanat Evi ve Kent Müzesi"
+          },
+          "coords": [
+            28.821174,
+            40.955987
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in dieser charmanten Holzvilla, die die kulturelle Vergangenheit Yeşilköys perfekt bewahrt, aber kommen Sie früh, um die Kunstausstellungen in Ruhe zu genießen.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos fakúriában, amely tökéletesen megőrzi Yeşilköy kulturális múltját, de érkezzen korán, hogy elkerülje a délutáni tömeget a művészeti kiállításokon.",
+            "ro": "Explorați moștenirea locală în acest conac fermecător din lemn care păstrează perfect trecutul cultural din Yeşilköy, dar sosiți devreme pentru a evita aglomerația și a vă bucura de artă.",
+            "en": "Explore local heritage in this charming wooden mansion that perfectly preserves Yeşilköy's cultural past, but arrive early to avoid afternoon crowds and fully enjoy the art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Nice Ajax Raketenmonument",
+            "hu": "Nice Ajax Rakéta-emlékmű",
+            "ro": "Monumentul Rachetei Nice Ajax",
+            "en": "Nice Ajax Füzesi"
+          },
+          "coords": [
+            28.825573,
+            40.964474
+          ],
+          "category": "landmark",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein unerwartetes Stück Geschichte des Kalten Krieges beim Betrachten dieses ausgemusterten Raketendenkmals und machen Sie ein schnelles Foto, während Sie mehr darüber erfahren.",
+            "hu": "Fedezze fel a hidegháború történelmének egy váratlan szeletét a nyugdíjazott rakéta-emlékműnél, álljon meg egy gyors fotóra, miközben Törökország huszadik század közepi múltjáról tanul.",
+            "ro": "Descoperiți o felie neașteptată de istorie a Războiului Rece vizionând acest monument al unei rachete retrase, oprindu-vă pentru o fotografie rapidă în timp ce aflați despre trecutul militar.",
+            "en": "Discover an unexpected slice of Cold War history by viewing this retired missile monument, stopping for a quick photo op while learning about Turkey's mid-century military past."
+          }
+        },
+        {
+          "name": {
+            "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+            "hu": "Szent Efrém Szír Ortodox Templom",
+            "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+            "en": "The Syriac Orthodox Church of St Ephrem"
+          },
+          "coords": [
+            28.824622,
+            40.959771
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Erleben Sie moderne Religionsgeschichte in dieser neu erbauten syrischen Kirche mit atemberaubendem Mauerwerk, überprüfen Sie jedoch vorab die Besuchszeiten, da diese variieren können.",
+            "hu": "Legyen tanúja a modern vallástörténetnek ebben az újonnan épült, lenyűgöző kőműves munkájú szír templomban, de előre ellenőrizze a látogatási időket a közösségi szertartások miatt.",
+            "ro": "Asistați la istoria religioasă modernă la această biserică siriacă recent construită cu lucrări uimitoare în piatră, verificând programul în avans deoarece accesul poate fi restricționat.",
+            "en": "Witness modern religious history at this newly built Syriac church with stunning stonework, checking visiting hours in advance since access can be restricted during community services."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Yeşilköy",
+            "hu": "Yeşilköy Világítótorony",
+            "ro": "Farul Yeşilköy",
+            "en": "Yeşilköy Lighthouse"
+          },
+          "coords": [
+            28.83891,
+            40.95855
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.21,
+          "tip_5lang": {
+            "de": "Schlendern Sie zu dem ikonischen historischen Leuchtturm, der seit Generationen Seeleute leitet, und planen Sie Ihren Besuch zum Sonnenuntergang, wenn die Aussicht atemberaubend ist.",
+            "hu": "Sétáljon le az ikonikus történelmi világítótoronyhoz, amely generációk óta irányítja a tengerészeket, és mindenképpen időzítse a látogatását naplementekor a lélegzetelállító kilátásért.",
+            "ro": "Plimbați-vă până la farul istoric iconic care a ghidat marinarii de generații, asigurându-vă că vizitați la apus, când priveliștile de coastă sunt absolut uluitoare și perfecte.",
+            "en": "Stroll down to the iconic historic lighthouse that has guided sailors for generations, making sure to time your visit for sunset when the coastal views are absolutely breathtaking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Rande von Florya mit einem Stopp im lokalen Lunapark. Machen Sie einen gemütlichen Strandspaziergang, bevor Sie nach Osten fahren, um am Çiroz Strand zu entspannen.\n\nParken Sie mittags in der Nähe des Stadtmuseums, um die Wurzeln von Yeşilköy zu erkunden. Danach ist es nur eine kurze Fahrt, um überraschende Militärgeschichte am Ajax-Raketendenkmal zu entdecken.\n\nVerbringen Sie den späten Nachmittag damit, vorbei an üppigen Gärten zur syrisch-orthodoxen Kirche zu fahren. Die ruhigen Straßen bieten ausreichend Parkplätze, sodass Sie die Steinfassade bewundern können.\n\nBeenden Sie Ihre Fahrt am Wahrzeichen, dem Leuchtturm von Yeşilköy. Es ist das perfekte Küstenfinale, wo Sie parken und bei Einbruch der Dunkelheit die Meeresbrise und frischen Fischgeruch genießen können.",
+        "hu": "Kezdje autós túráját Florya szélén egy vidám megállóval a helyi Lunaparkban. Tegyen egy kényelmes tengerparti sétát, mielőtt kissé keletre hajtana, hogy a Çiroz strand homokján pihenjen.\n\nDélben parkoljon le a Városi Múzeum közelében, hogy felfedezze Yeşilköy gyökereit. Ezután könnyű út vezet a meglepő hadtörténethez, az impozáns Ajax rakétaemlékmű parkjához.\n\nA késő délutánt töltse azzal, hogy buja kertek mellett elhaladva eléri a Szír Ortodox Templomot. A csendes utcák bőséges parkolóhelyet kínálnak, így nyugodtan megcsodálhatja a kőhomlokzatot.\n\nZárja útját az ikonikus Yeşilköy világítótoronynál. Ez a tökéletes tengerparti finálé, ahol parkolhat és tehet egy alkonyati sétát, miközben élvezi a tengeri szellőt és a friss hal illatát.",
+        "ro": "Începeți turul cu mașina la marginea orașului Florya cu o oprire distractivă la Lunapark-ul local. Faceți o plimbare pe malul mării înainte de a conduce ușor spre est pentru a vă relaxa pe Plaja Çiroz.\n\nParcați lângă Muzeul Orașului la prânz pentru a explora rădăcinile cartierului Yeşilköy. Apoi, este o călătorie scurtă pentru a descoperi o istorie militară surprinzătoare la monumentul rachetei Ajax.\n\nPetreceți după-amiaza târziu conducând pe lângă grădini luxuriante pentru a ajunge la Biserica Ortodoxă Siriacă. Străzile liniștite oferă parcare amplă pentru a admira fațada din piatră.\n\nÎncheiați-vă călătoria la iconicul Far Yeşilköy. Este finalul de coastă perfect, unde puteți parca și face o plimbare la amurg, bucurându-vă de briza mării și de aromele de pește proaspăt.",
+        "en": "Begin your driving tour at the edge of Florya with a fun stop at the local Lunapark. Take a leisurely seaside walk before driving slightly east to relax on the sands of Çiroz Beach.\n\nPark near the City Museum midday to explore Yeşilköy’s roots. Once done, it’s an easy drive to discover surprising military history at the impressive Ajax Missile monument park.\n\nSpend the late afternoon driving past lush gardens to reach the Syriac Orthodox Church. The area's calm streets offer ample parking, letting you take your time admiring the stone facade.\n\nEnd your drive at the iconic Yeşilköy Lighthouse. It’s the perfect coastal finale, where you can park and take a twilight stroll while enjoying the sea breeze and fresh fish aromas."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-q1813948-cities-v2",
+  "anchor": {
+    "name": "Heswall",
+    "coords": [
+      -3.405,
+      53.331
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "South Avenue Spielplatz",
+            "hu": "South Avenue Játszótér",
+            "ro": "Locul de joacă South Avenue",
+            "en": "South Avenue Play Area"
+          },
+          "coords": [
+            -3.405833,
+            53.329884
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf diesem angenehmen Spielplatz, der ideal ist, damit die Kinder sich austoben können, während Sie einen Kaffee genießen.",
+            "hu": "Kezdje a napját ebben a kellemes játszótéren, ahol a gyerekek levezethetik az energiájukat, miközben ön egy közeli kávézóból hozott kávét kortyolgat.",
+            "ro": "Începeți ziua în acest loc de joacă plăcut, perfect pentru ca cei mici să își consume energia în timp ce savurați o cafea de la o cafenea din apropiere.",
+            "en": "Start your day at this pleasant neighborhood play area, a perfect spot to let kids run off energy while you enjoy a morning coffee from a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stätte Prestatyn",
+            "hu": "Prestatyni Római Lelőhely",
+            "ro": "Situl Roman Prestatyn",
+            "en": "Prestatyn Roman Site"
+          },
+          "coords": [
+            -3.409385,
+            53.324371
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses faszinierenden römischen Badehauses, aber tragen Sie feste Schuhe, da der Boden recht uneben und steinig sein kann.",
+            "hu": "Fedezze fel e lenyűgöző római fürdő romjait, hogy megértse az ókori higiéniai szokásokat, de viseljen masszív cipőt, mivel a talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele acestei băi romane fascinante pentru a înțelege practicile antice de igienă, dar purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Explore the remains of this fascinating Roman bathhouse to understand ancient hygiene practices, but be sure to wear sturdy shoes as the ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Graig Fawr Stehender Stein",
+            "hu": "Graig Fawr Állókő",
+            "ro": "Piatra Verticală Graig Fawr",
+            "en": "Graig Fawr Standing Stone"
+          },
+          "coords": [
+            -3.408,
+            53.309823
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten stehenden Stein, der die Landschaft seit Jahrtausenden bewacht, und bringen Sie eine Kamera für den tollen Panoramablick mit.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta őrzi a tájat, és feltétlenül hozzon magával fényképezőgépet a domboldalról nyíló panoráma miatt.",
+            "ro": "Admirați această piatră verticală străveche ce păzește peisajul de milenii și aduceți un aparat foto pentru a surprinde vederea panoramică de pe deal.",
+            "en": "Marvel at this ancient standing stone that has guarded the landscape for millennia, and bring a camera for the stunning panoramic views from the hillside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleimine Talargoch - White Sand Vein Schacht",
+            "hu": "Talargoch Ólombánya - White Sand Vein Akna",
+            "ro": "Mina de Plumb Talargoch - Puțul White Sand Vein",
+            "en": "Talargoch Lead Mine - White Sand Vein Shaft"
+          },
+          "coords": [
+            -3.416347,
+            53.309199
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit der Region an diesem historischen Minenschacht, aber bleiben Sie zu Ihrer Sicherheit auf den markierten Wegen.",
+            "hu": "Fedezze fel a régió ipari múltját ennél a történelmi bányaaknánál, de a saját biztonsága érdekében szigorúan maradjon a kijelölt ösvényeken.",
+            "ro": "Descoperiți trecutul industrial al regiunii la acest puț de mină istoric, dar rămâneți strict pe potecile marcate pentru a vă asigura siguranța.",
+            "en": "Discover the region's industrial past at this historic mine shaft, but stay strictly on the marked paths to ensure your safety around the old workings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleimine Talargoch - Förderschacht",
+            "hu": "Talargoch Ólombánya - Főakna",
+            "ro": "Mina de Plumb Talargoch - Puțul Principal",
+            "en": "Talargoch Lead Mine - Drawing Shaft"
+          },
+          "coords": [
+            -3.417993,
+            53.308017
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Bergbautour an diesem Hauptförderschacht, der einst voller Aktivität war, und nehmen Sie sich Zeit für die informativen Schautafeln.",
+            "hu": "Fejezze be bányászattörténeti túráját ennél a fő aknánál, amely egykor nyüzsgött a tevékenységtől, és szánjon időt az információs táblák elolvasására.",
+            "ro": "Încheiați turul istoriei miniere la acest puț principal care odinioară forfotea de activitate și faceți-vă timp să citiți panourile informative detaliate.",
+            "en": "Complete your mining history tour at this main drawing shaft which once bustled with activity, and take time to read the informative interpretation panels."
+          }
+        },
+        {
+          "name": {
+            "de": "1860 gefundene Römische Münzen",
+            "hu": "1860-ban talált Római Érmék",
+            "ro": "Monede Romane descoperite în 1860",
+            "en": "Roman Coins found A.D. 1860"
+          },
+          "coords": [
+            -3.412019,
+            53.306529
+          ],
+          "category": "historical",
+          "arrive_at": "16:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Stehen Sie genau dort, wo 1860 ein bedeutender römischer Münzschatz gefunden wurde, und besuchen Sie danach das örtliche Museum für ähnliche Funde.",
+            "hu": "Álljon azon a helyen, ahol 1860-ban jelentős római érmekincset tártak fel, és utána érdemes felkeresni a helyi múzeumot a hasonló leletek megtekintéséhez.",
+            "ro": "Stați chiar pe locul unde a fost descoperit un tezaur de monede romane în 1860 și luați în considerare vizitarea muzeului local pentru a vedea astfel de artefacte.",
+            "en": "Stand on the very spot where a significant hoard of Roman coins was unearthed in 1860, and consider visiting the local museum afterwards to see similar finds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem entspannten Morgen auf dem örtlichen Spielplatz und genießen Sie die Atmosphäre, bevor Sie in die römische Vergangenheit der Stadt eintauchen.\n\nGegen Mittag unternehmen Sie einen malerischen Spaziergang zum majestätischen Graig Fawr, wo alte stehende Steine auf eine atemberaubende Naturtopographie treffen.\n\nDer Nachmittag ist der Erkundung der Überreste des lokalen Bleibergbaus gewidmet und Sie entdecken alte Schächte, die Geschichten von harter Arbeit erzählen.\n\nBeenden Sie Ihre Wanderung genau an dem Ort, an dem römische Münzen entdeckt wurden, und reflektieren Sie über die Geschichte, während die Abenddämmerung hereinbricht.",
+        "hu": "Kezdje egy nyugodt reggellel a helyi játszótéren, élvezve a közösségi hangulatot, mielőtt elmerülne a város mély múltjában a lenyűgöző római lelőhelyen.\n\nAz ebédszünet közeledtével induljon el egy festői sétára a fenséges Graig Fawr felé, ahol az ősi állókövek találkoznak a lenyűgöző természeti domborzattal.\n\nA délutánt a helyi ólombányászat maradványainak felfedezésére szánjuk; a régi aknák kemény munkáról és gazdag geológiáról mesélnek a látogatóknak.\n\nZárja gyalogos túráját azon a helyen, ahol az ősi római érméket felfedezték, elgondolkodva a lába alatt húzódó történelmi rétegeken, miközben leszáll az est.",
+        "ro": "Începeți cu o dimineață relaxantă la locul de joacă local, absorbind atmosfera comunității înainte de a explora trecutul roman fascinant al orașului.\n\nLa apropierea prânzului, porniți într-o plimbare pitorească spre maiestuosul Graig Fawr, unde pietrele antice întâlnesc o topografie naturală uimitoare.\n\nDupă-amiaza este dedicată explorării rămășițelor industriei locale de minerit, descoperind puțuri vechi care spun povești despre munca grea a localnicilor.\n\nÎncheiați-vă plimbarea exact pe locul unde au fost descoperite monedele romane antice, reflectând la straturile de istorie de sub picioarele dumneavoastră la apus.",
+        "en": "Start with a relaxed morning at the local play area, taking in the community vibe before delving into the town's deep past at the fascinating Roman site.\n\nAs lunchtime approaches, embark on a scenic stroll towards the majestic Graig Fawr, where ancient standing stones meet stunning natural topography.\n\nThe afternoon is dedicated to exploring the remnants of the local lead mining industry, discovering old shafts that tell tales of hard labor and rich geology.\n\nConclude your walking journey at the very spot where ancient Roman coins were discovered, reflecting on the layers of history beneath your feet as dusk settles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ffordd Idwal Spielplatz",
+            "hu": "Ffordd Idwal Játszótér",
+            "ro": "Locul de joacă Ffordd Idwal",
+            "en": "Ffordd Idwal Play Area"
+          },
+          "coords": [
+            -3.423056,
+            53.33851
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour in der Nähe dieses Parks, der sich perfekt für eine kurze Dehnung eignet, bevor Sie die längeren Küstenwege befahren.",
+            "hu": "Kezdje kerékpártúráját e családbarát park közelében, amely tökéletes egy gyors bemelegítésre a hosszabb tengerparti ösvények meghódítása előtt.",
+            "ro": "Începeți turul cu bicicleta lângă acest parc familial, perfect pentru o scurtă încălzire înainte de a porni pe traseele de coastă mai lungi.",
+            "en": "Kick off your cycling tour near this family-friendly park, perfect for a quick stretch or adjusting your bike seat before hitting the longer coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Beach Minigolf",
+            "hu": "Central Beach Minigolf",
+            "ro": "Central Beach Minigolf",
+            "en": "Central Beach Crazy Golf"
+          },
+          "coords": [
+            -3.411884,
+            53.341269
+          ],
+          "category": "family",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Freunde zu einer lustigen Runde Minigolf direkt am Strand heraus, und vergessen Sie Ihre Sonnencreme nicht, da es hier wenig Schatten gibt.",
+            "hu": "Hívja ki barátait egy vidám minigolf partira közvetlenül a parton, de ne felejtsen el naptejet hozni, mivel nagyon kevés árnyék található a pályán.",
+            "ro": "Provocați-vă prietenii la o rundă de minigolf distractivă chiar pe plajă și nu uitați să luați cremă de soare, deoarece pe teren este foarte puțină umbră.",
+            "en": "Challenge your friends to a fun round of crazy golf right by the beach, and don't forget to pack some sunscreen as there is very little shade on the course."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Prestatyn",
+            "hu": "Prestatyn Vára",
+            "ro": "Castelul Prestatyn",
+            "en": "Prestatyn Castle"
+          },
+          "coords": [
+            -3.394617,
+            53.338575
+          ],
+          "category": "castle",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die grasbewachsenen Hügel, die die Überreste dieser normannischen Burg markieren, und genießen Sie ein ruhiges Picknick am Nachmittag.",
+            "hu": "Sétáljon a füves dombok között, amelyek e normann vár romjait jelzik; ez egy békés hely, amely tökéletes egy csendes délutáni piknikhez a szabadban.",
+            "ro": "Plimbați-vă printre movilele înierbate ce marchează ruinele acestui castel normand, un loc liniștit perfect pentru un picnic de după-amiază în aer liber.",
+            "en": "Wander around the grassy mounds that mark the remains of this Norman motte-and-bailey castle, a serene spot perfect for a quiet afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Shore Road (Küstenstraße)",
+            "hu": "Shore Road (Parti út)",
+            "ro": "Shore Road (Drumul de coastă)",
+            "en": "Shore Road"
+          },
+          "coords": [
+            -3.377585,
+            53.345266
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Radtour am Meer entlang dieses malerischen Abschnitts, aber achten Sie auf die starke Küstenbrise, die das Treten erschwert.",
+            "hu": "Élvezze a frissítő tengerparti kerékpározást e festői szakaszon, de ügyeljen az erős parti szelekre, amelyek néha megnehezíthetik a tekerést.",
+            "ro": "Bucurați-vă de o plimbare revigorantă cu bicicleta de-a lungul acestei coaste pitorești, dar fiți atenți la briza mării care poate îngreuna pedalarea.",
+            "en": "Enjoy a refreshing seaside cycle along this scenic natural stretch, but be mindful of the strong coastal breezes that can sometimes make pedaling a bit tougher."
+          }
+        },
+        {
+          "name": {
+            "de": "Seashore Vergnügungspark",
+            "hu": "Seashore Szórakozóhely",
+            "ro": "Parcul de Distracții Seashore",
+            "en": "Seashore Amusements"
+          },
+          "coords": [
+            -3.367182,
+            53.343285
+          ],
+          "category": "family",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in nostalgischen Spaß mit den klassischen Arcade-Spielen am Meer, und halten Sie viel Kleingeld bereit, um alle Automaten zu genießen.",
+            "hu": "Merüljön el a nosztalgikus szórakozásban a klasszikus tengerparti játéktermekben, és győződjön meg róla, hogy van elég aprópénze az automatákhoz.",
+            "ro": "Scufundați-vă în distracția nostalgică cu jocurile clasice arcade de pe malul mării și asigurați-vă că aveți destul mărunt pentru toate aparatele.",
+            "en": "Dive into nostalgic fun with the classic arcade games by the sea, and make sure you have plenty of small change handy to enjoy all the vintage machines."
+          }
+        },
+        {
+          "name": {
+            "de": "St Elmo's Sommerhaus",
+            "hu": "St Elmo Nyaralója",
+            "ro": "Casa de Vară St Elmo",
+            "en": "St Elmo's Summer House"
+          },
+          "coords": [
+            -3.375351,
+            53.325121
+          ],
+          "category": "historical",
+          "arrive_at": "15:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem historischen Sommerhaus hinauf, um einen spektakulären Sonnenuntergang zu erleben, aber bringen Sie eine Taschenlampe für den Rückweg mit.",
+            "hu": "Másszon fel ehhez a történelmi nyaralóhoz, hogy szemtanúja legyen egy látványos naplementének, de a visszaúthoz mindenképpen hozzon magával zseblámpát.",
+            "ro": "Urcați la această casă de vară istorică pentru a vedea un apus spectaculos peste peisaj, deși ar trebui să aduceți o lanternă pentru drumul de întoarcere.",
+            "en": "Climb up to this historic summer house to witness a spectacular sunset over the landscape, though you should bring a flashlight for the journey back down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in der Nähe eines familienfreundlichen Parks, bevor Sie zum Strand radeln, um eine lustige Runde Minigolf am Meer zu spielen.\n\nSetzen Sie Ihre Fahrt zu den historischen Burghügeln fort und machen Sie eine wohlverdiente Pause im Grünen, bevor Sie auf den malerischen Küstenstraßen radeln.\n\nVerbringen Sie den Nachmittag mit klassischen Vergnügungsangeboten am Meer, wo die Nostalgie und die Lichter der Spielhallen einen tollen Kontrast bieten.\n\nBeenden Sie den Tag mit einem stetigen Aufstieg zum historischen Sommerhaus und belohnen Sie Ihre Anstrengung mit einem Panoramablick im Zwielicht.",
+        "hu": "Kezdje kerékpáros kalandját egy családbarát park közelében, mielőtt a tengerpartra tekerne egy vidám és könnyed minigolf partira a hullámok mellett.\n\nFolytassa útját a történelmi várdombokhoz, és tartson egy jól megérdemelt pihenőt a zöldellő növényzetben, mielőtt a szeles tengerparti utakra térne.\n\nTöltse a délutánt a klasszikus tengerparti szórakozóhelyeken, ahol a nosztalgia és a játéktermek fényei izgalmas kontrasztot nyújtanak a természetjárással szemben.\n\nZárja a napot egy egyenletes kapaszkodóval a történelmi nyaralóhoz, amely egy lenyűgöző panorámával jutalmazza fizikai erőfeszítéseit az alkonyati égbolt alatt.",
+        "ro": "Începeți aventura pe bicicletă lângă un parc familial înainte de a pedala spre plajă pentru o rundă distractivă și relaxantă de minigolf pe malul mării.\n\nContinuați-vă călătoria spre movilele istorice ale castelului, luând o pauză binemeritată printre verdeață, înainte de a porni pe drumurile de coastă pitorești.\n\nPetreceți-vă după-amiaza bucurându-vă de distracțiile clasice de la malul mării, unde luminile de la arcade oferă un contrast palpitant față de natură.\n\nTerminați ziua cu o urcare constantă către casa de vară istorică, răsplătindu-vă efortul fizic cu vederi panoramice uimitoare sub cerul de la amurg.",
+        "en": "Kick off your cycling adventure near a family-friendly park before pedaling over to the beach for a fun and lighthearted round of crazy golf by the sea.\n\nContinue your ride to the historic castle mounds, taking a well-deserved break amidst the greenery before hitting the scenic and breezy coastal shore roads.\n\nSpend your afternoon enjoying the classic seafront amusements, where a burst of nostalgia and arcade lights provides a thrilling contrast to the nature ride.\n\nFinish the day with a steady climb to the historic summer house, rewarding your physical effort with sweeping panoramic views under the painted twilight sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pentre Ffynnon Teich",
+            "hu": "Pentre Ffynnon Tó",
+            "ro": "Iazul Pentre Ffynnon",
+            "en": "Pentre Ffynnon Pond"
+          },
+          "coords": [
+            -3.30318,
+            53.307196
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem ruhigen Naturteich, einem hervorragenden Ort für die morgendliche Vogelbeobachtung, also vergessen Sie Ihr Fernglas nicht.",
+            "hu": "Kezdje autós útját ennél a nyugodt természetes tónál, amely kiváló hely a reggeli madármegfigyeléshez, ezért ne felejtse el magával hozni a távcsövét.",
+            "ro": "Începeți traseul cu mașina la acest iaz natural liniștit, un loc excelent pentru observarea păsărilor, deci nu uitați să luați binoclul pentru vederi optime.",
+            "en": "Start your scenic drive at this tranquil natural pond, an excellent place for morning birdwatching, so remember to pack your binoculars for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischteich",
+            "hu": "Halastó",
+            "ro": "Iazul cu Pești",
+            "en": "Fish Pond"
+          },
+          "coords": [
+            -3.332782,
+            53.322996
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Pausieren Sie am ruhigen Wasser des Fischteichs, um die Spiegelungen der Umgebung zu genießen, und machen Sie einige ruhige und schöne Naturfotos.",
+            "hu": "Tartson szünetet a Halastó nyugodt vizeinél, hogy élvezze a környező növényzet tükröződését, ami csodálatos megállóvá teszi természetfotók készítéséhez.",
+            "ro": "Faceți o pauză la apele liniștite ale Iazului cu Pești pentru a admira reflexiile verdeții, un loc minunat pentru a surprinde fotografii senine din natură.",
+            "en": "Pause by the calm waters of the Fish Pond to enjoy the reflections of the surrounding greenery, making it a wonderful stop to capture some serene nature photos."
+          }
+        },
+        {
+          "name": {
+            "de": "St Elmo's Sommerhaus",
+            "hu": "St Elmo Nyaralója",
+            "ro": "Casa de Vară St Elmo",
+            "en": "St Elmo's Summer House"
+          },
+          "coords": [
+            -3.375351,
+            53.325121
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie in die Nähe dieses historischen Sommerhauses für einen tollen Panoramablick, aber stellen Sie sich auf einen kurzen Fußweg vom nächsten Parkplatz ein.",
+            "hu": "Autózzon fel e történelmi nyaraló közelébe, hogy szemtanúja legyen egy látványos panorámának, de készüljön fel egy rövid sétára a legközelebbi parkolótól.",
+            "ro": "Conduceți aproape de această casă de vară istorică pentru o priveliște panoramică, dar fiți pregătiți pentru o scurtă plimbare pe jos de la cea mai apropiată parcare.",
+            "en": "Drive up near this historic summer house to witness a spectacular panoramic view, but be prepared for a short uphill walk from the nearest parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Prestatyn",
+            "hu": "Prestatyn Vára",
+            "ro": "Castelul Prestatyn",
+            "en": "Prestatyn Castle"
+          },
+          "coords": [
+            -3.394617,
+            53.338575
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um die grasbewachsenen Hügel dieser ehemaligen normannischen Burg zu erkunden, und lesen Sie die interessanten Informationstafeln.",
+            "hu": "Parkoljon a közelben, hogy felfedezze e korábbi normann vár füves dombjait, amely egy lenyűgöző történelmi megálló tele informatív táblákkal.",
+            "ro": "Parcați în apropiere pentru a explora movilele înierbate ale acestui fost castel normand, o oprire istorică unde panourile informative adaugă un context minunat.",
+            "en": "Park nearby to explore the grassy mounds of this former Norman castle, a fascinating historical pitstop where a quick read of the info boards adds great context."
+          }
+        },
+        {
+          "name": {
+            "de": "Graig Fawr Stehender Stein",
+            "hu": "Graig Fawr Állókő",
+            "ro": "Piatra Verticală Graig Fawr",
+            "en": "Graig Fawr Standing Stone"
+          },
+          "coords": [
+            -3.408,
+            53.309823
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Halten Sie an, um diesen alten stehenden Stein zu bewundern, der die Landschaft seit Jahrtausenden bewacht und ein perfektes Fotomotiv bietet.",
+            "hu": "Húzódjon félre, hogy megcsodálja ezt az ősi állókövet, amely évezredek óta őrzi a tájat, és tökéletes lehetőséget kínál egy gyors, történelmi fotózásra.",
+            "ro": "Trageți pe dreapta pentru a admira această piatră străveche ce a păzit peisajul milenii întregi, oferind o oportunitate perfectă și rapidă pentru o fotografie.",
+            "en": "Pull over to marvel at this ancient standing stone that has guarded the landscape for millennia, offering a perfect, quick historical photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleimine Talargoch - Förderschacht",
+            "hu": "Talargoch Ólombánya - Főakna",
+            "ro": "Mina de Plumb Talargoch - Puțul Principal",
+            "en": "Talargoch Lead Mine - Drawing Shaft"
+          },
+          "coords": [
+            -3.417993,
+            53.308017
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an diesem historischen Minenschacht, um das reiche industrielle Erbe der Gegend zu schätzen, mit bequemen Parkplätzen direkt am Gelände.",
+            "hu": "Zárja autós túráját ennél a történelmi bányaaknánál, hogy megcsodálja a környék ipari örökségét, kényelmes parkolási lehetőséggel a fő helyszín mellett.",
+            "ro": "Încheiați turul cu mașina la acest puț de mină istoric pentru a aprecia patrimoniul industrial al zonei, cu parcare convenabilă chiar lângă situl principal.",
+            "en": "Conclude your driving tour at this historic mine shaft to appreciate the area's rich industrial heritage, with convenient parking right next to the main site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der Erkundung der ruhigen Naturteiche am Stadtrand, die einen friedlichen Start in einen geschäftigen Tag voller Besichtigungen bieten.\n\nFahren Sie zum höher gelegenen historischen Sommerhaus und den alten normannischen Burghügeln und tauchen Sie in das reiche architektonische Erbe der Hügel ein.\n\nDie Nachmittagsfahrt führt Sie zum beeindruckenden alten stehenden Stein, einem historischen Wunder am Straßenrand, das Sie mit prähistorischen Zeiten verbindet.\n\nBeenden Sie Ihre Reise an den historischen Minenschächten der Region und beobachten Sie die Relikte der Industrie, während die untergehende Sonne lange Schatten wirft.",
+        "hu": "Kezdje autós túráját a külvárosi nyugodt természetes tavak felfedezésével, amelyek békés tükröződést és csendes indulást kínálnak a sűrű városnéző naphoz.\n\nNavigáljon a magasan fekvő történelmi nyaraló és a régi normann várdombok felé, elmerülve a lankás dombok gazdag építészeti örökségében és történelmében.\n\nA délutáni autózás az lenyűgöző ősi állókőhöz visz; ez egy gyors út menti történelmi csoda, amely közvetlenül a történelem előtti időkbe repíti a látogatót.\n\nFejezze be utazását a régió történelmi bányaaknáinál, megfigyelve az ipar relikviáit, miközben a lemenő nap hosszú, drámai árnyékokat vet a romokra.",
+        "ro": "Începeți turul cu mașina explorând iazurile naturale liniștite de la periferie, care oferă reflexii pașnice și un început calm pentru o zi plină de vizite.\n\nNavigați către casa de vară istorică înaltă și movilele vechiului castel normand, scufundându-vă în bogatul patrimoniu arhitectural al dealurilor unduitoare.\n\nDrumul de după-amiază vă duce la impresionanta piatră străveche, o minune istorică rapidă de pe marginea drumului, care vă conectează cu timpurile preistorice.\n\nÎncheiați-vă călătoria la puțurile miniere istorice ale regiunii, observând relicvele industriei în timp ce soarele apune și aruncă umbre lungi peste ruine.",
+        "en": "Start your driving tour exploring the tranquil natural ponds on the outskirts, offering peaceful reflections and a quiet start to a busy day of sightseeing.\n\nNavigate towards the elevated historic summer house and the old Norman castle mounds, immersing yourself in the rich architectural heritage of the rolling hills.\n\nThe afternoon drive takes you to the impressive ancient standing stone, a quick roadside historical marvel that connects you directly to prehistoric times.\n\nWrap up your journey at the region's historic mining shafts, observing the relics of industry as the setting sun casts long, dramatic shadows over the ruins."
+      }
+    }
+  }
+}

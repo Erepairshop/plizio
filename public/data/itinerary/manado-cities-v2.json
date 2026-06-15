@@ -1,0 +1,474 @@
+{
+  "city_id": "manado-cities-v2",
+  "anchor": {
+    "name": "Manado",
+    "coords": [
+      124.842,
+      1.4748
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 3.66,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale des Heiligsten Herzens Mariens",
+            "hu": "Mária Legszentebb Szíve Katedrális",
+            "ro": "Catedrala Inima Preasfântă a Mariei",
+            "en": "Sacred Heart of Mary Cathedral"
+          },
+          "coords": [
+            124.837237,
+            1.483308
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser bedeutenden katholischen Kathedrale, die als spiritueller Anker in Manado dient, und besuchen Sie sie zur Morgenmesse.",
+            "hu": "Csodálja meg ennek a kiemelkedő katolikus katedrálisnak a lenyűgöző építészetét, amely Manado spirituális központja, és érkezzen a reggeli misére a legjobb fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestei catedrale catolice, care servește drept ancoră spirituală în Manado, și vizitați-o la slujba de dimineață pentru o lumină perfectă.",
+            "en": "Admire the striking architecture of this prominent Catholic cathedral which serves as a spiritual anchor in Manado, and visit during morning mass for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatliches Museum Nordsulawesi",
+            "hu": "Észak-Szulavézi Állami Múzeum",
+            "ro": "Muzeul de Stat Sulawesi de Nord",
+            "en": "North Sulawesi State Museum"
+          },
+          "coords": [
+            124.844748,
+            1.48829
+          ],
+          "category": "museum",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche kulturelle Erbe und die traditionellen Artefakte von Nordsulawesi in diesem staatlichen Museum und nehmen Sie einen lokalen Führer mit.",
+            "hu": "Fedezze fel Észak-Szulavézi gazdag kulturális örökségét és hagyományos műtárgyait ebben az állami múzeumban, és mindenképpen fogadjon helyi vezetőt a mélyebb megértéshez.",
+            "ro": "Explorați bogata moștenire culturală și artefactele tradiționale din Sulawesi de Nord în acest muzeu de stat, asigurându-vă că aduceți un ghid local pentru detalii fascinante.",
+            "en": "Explore the rich cultural heritage and traditional artifacts of North Sulawesi housed within this state museum, making sure to bring a local guide for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ignatius Kirche",
+            "hu": "Szent Ignác Templom",
+            "ro": "Biserica Sfântul Ignațiu",
+            "en": "Saint Ignatius Church"
+          },
+          "coords": [
+            124.845909,
+            1.49149
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schätzen Sie die ruhige Atmosphäre und historische Bedeutung dieser schönen, dem Heiligen Ignatius gewidmeten Kirche, indem Sie einen Moment im friedlichen Kirchenschiff sitzen.",
+            "hu": "Értékelje a Szent Ignácnak szentelt gyönyörű templom nyugodt légkörét és történelmi jelentőségét, és szánjon egy pillanatot a békés főhajóban való csendes elmélkedésre.",
+            "ro": "Apreciați atmosfera senină și semnificația istorică a acestei frumoase biserici închinate Sfântului Ignațiu, luându-vă un moment de liniște în naosul pașnic și primitor.",
+            "en": "Appreciate the serene atmosphere and historical significance of this beautiful church dedicated to Saint Ignatius, taking a moment to sit quietly in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Ban Hin Kiong Tempel",
+            "hu": "Ban Hin Kiong Templom",
+            "ro": "Templul Ban Hin Kiong",
+            "en": "Ban Hin Kiong Temple"
+          },
+          "coords": [
+            124.844839,
+            1.493887
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhaften Farben und kunstvollen Schnitzereien des ältesten buddhistischen Tempels in Manado, wobei Sie vor dem Betreten der heiligen Hallen die Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg Manado legrégebbi buddhista templomának élénk színeit és bonyolult faragásait, ügyelve arra, hogy vegye le a cipőjét a szent belső termekbe való belépés előtt.",
+            "ro": "Experimentați culorile vibrante și sculpturile complicate ale celui mai vechi templu budist din Manado, asigurându-vă că vă scoateți pantofii înainte de a intra în sălile sacre.",
+            "en": "Experience the vibrant colors and intricate carvings of the oldest Buddhist temple in Manado, ensuring you remove your shoes before entering the sacred inner halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensfürst-Kirche",
+            "hu": "Béke Fejedelme Templom",
+            "ro": "Biserica Prințului Păcii",
+            "en": "Prince of Peace Church"
+          },
+          "coords": [
+            124.856208,
+            1.480111
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einladende lokale Gemeinde, bekannt als die Kirche des Friedefürsten, die einen Einblick in die alltägliche Hingabe der lokalen christlichen Gemeinschaft bietet.",
+            "hu": "Fedezze fel ezt a hívogató helyi egyházközséget, a Béke Fejedelmének Templomát, amely bepillantást enged a helyi keresztény közösség mindennapi áhítatába és hitéletébe.",
+            "ro": "Descoperiți această parohie locală primitoare, cunoscută sub numele de Biserica Prințului Păcii, care oferă o perspectivă asupra devotamentului zilnic al comunității creștine.",
+            "en": "Discover this welcoming local parish known as the Church of the Prince of Peace, offering a glimpse into the everyday devotion of the local Christian community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang beginnt im Herzen von Manado und taucht tief in die religiöse Geschichte ein. Gegen Mittag besuchen wir die faszinierenden Gänge des Provinzmuseums. Der Nachmittag bietet einen nahtlosen Übergang zu historischen Heiligtümern und einem beeindruckenden buddhistischen Tempel. Am Abend blicken wir auf einen Tag voller vielfältiger kultureller Erlebnisse zurück.",
+        "hu": "Sétánk Manado szívében kezdődik, elmerülve a város vallási történetében. Délben a tartományi múzeum folyosóin sétálunk, felfedezve az ősi leleteket. A délután folyamatosan tér át a történelmi szentélyek és egy lenyűgöző buddhista templom felfedezésére. Ahogy leszáll az est, visszatekintünk a sokszínű kulturális élményekkel teli napra.",
+        "ro": "Turul nostru de mers pe jos începe în inima orașului Manado, pătrunzând în istoria sa religioasă. La amiază ajungem pe coridoarele vibrante ale muzeului provincial, descoperind artefacte. După-amiaza se schimbă perfect pentru a explora sanctuare istorice și un templu budist. Pe măsură ce se lasă seara, reflectăm la o zi plină de experiențe culturale diverse.",
+        "en": "Our walking tour begins in the heart of Manado, diving straight into its colonial and religious history. Midday brings us to the vibrant corridors of the provincial museum, uncovering ancient artifacts. The afternoon seamlessly shifts to explore historic sanctuaries and a stunning Buddhist temple. As evening sets in, we reflect on a day filled with diverse cultural experiences."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 9.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Jesu des Guten Hirten",
+            "hu": "Jézus a Jó Pásztor Templom",
+            "ro": "Biserica Isus Bunul Păstor",
+            "en": "Jesus the Good Shepherd Church"
+          },
+          "coords": [
+            124.843494,
+            1.463135
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche des Guten Hirten, um ihr modernes Design kombiniert mit traditionellen indonesischen Elementen zu sehen, und prüfen Sie den Zeitplan der Gottesdienste.",
+            "hu": "Látogasson el a Jó Pásztor Templomba, hogy megfigyelje a modern dizájn és a hagyományos indonéz elemek egyedülálló ötvözetét, elkerülve a forgalmas istentiszteleti időszakokat.",
+            "ro": "Vizitați Biserica Bunului Păstor pentru a observa designul său modern combinat cu elemente tradiționale indoneziene, verificând programul local pentru a evita orele aglomerate.",
+            "en": "Visit the Good Shepherd Church to observe its unique modern design combined with traditional Indonesian elements, checking the local schedule to avoid busy service times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Heiligsten Herzens Mariens",
+            "hu": "Mária Legszentebb Szíve Katedrális",
+            "ro": "Catedrala Inima Preasfântă a Mariei",
+            "en": "Sacred Heart of Mary Cathedral"
+          },
+          "coords": [
+            124.837237,
+            1.483308
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser bedeutenden katholischen Kathedrale, die als spiritueller Anker in Manado dient, und besuchen Sie sie zur Morgenmesse.",
+            "hu": "Csodálja meg ennek a kiemelkedő katolikus katedrálisnak a lenyűgöző építészetét, amely Manado spirituális központja, és érkezzen a reggeli misére a legjobb fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestei catedrale catolice, care servește drept ancoră spirituală în Manado, și vizitați-o la slujba de dimineață pentru o lumină perfectă.",
+            "en": "Admire the striking architecture of this prominent Catholic cathedral which serves as a spiritual anchor in Manado, and visit during morning mass for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatliches Museum Nordsulawesi",
+            "hu": "Észak-Szulavézi Állami Múzeum",
+            "ro": "Muzeul de Stat Sulawesi de Nord",
+            "en": "North Sulawesi State Museum"
+          },
+          "coords": [
+            124.844748,
+            1.48829
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche kulturelle Erbe und die traditionellen Artefakte von Nordsulawesi in diesem staatlichen Museum und nehmen Sie einen lokalen Führer mit.",
+            "hu": "Fedezze fel Észak-Szulavézi gazdag kulturális örökségét és hagyományos műtárgyait ebben az állami múzeumban, és mindenképpen fogadjon helyi vezetőt a mélyebb megértéshez.",
+            "ro": "Explorați bogata moștenire culturală și artefactele tradiționale din Sulawesi de Nord în acest muzeu de stat, asigurându-vă că aduceți un ghid local pentru detalii fascinante.",
+            "en": "Explore the rich cultural heritage and traditional artifacts of North Sulawesi housed within this state museum, making sure to bring a local guide for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Ban Hin Kiong Tempel",
+            "hu": "Ban Hin Kiong Templom",
+            "ro": "Templul Ban Hin Kiong",
+            "en": "Ban Hin Kiong Temple"
+          },
+          "coords": [
+            124.844839,
+            1.493887
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhaften Farben und kunstvollen Schnitzereien des ältesten buddhistischen Tempels in Manado, wobei Sie vor dem Betreten der heiligen Hallen die Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg Manado legrégebbi buddhista templomának élénk színeit és bonyolult faragásait, ügyelve arra, hogy vegye le a cipőjét a szent belső termekbe való belépés előtt.",
+            "ro": "Experimentați culorile vibrante și sculpturile complicate ale celui mai vechi templu budist din Manado, asigurându-vă că vă scoateți pantofii înainte de a intra în sălile sacre.",
+            "en": "Experience the vibrant colors and intricate carvings of the oldest Buddhist temple in Manado, ensuring you remove your shoes before entering the sacred inner halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Rosenkranzkönigin",
+            "hu": "Szent Rózsafüzér Királynője Templom",
+            "ro": "Biserica Regina Sfântului Rozariu",
+            "en": "Holy Rosary Queen Church"
+          },
+          "coords": [
+            124.847296,
+            1.511934
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.03,
+          "tip_5lang": {
+            "de": "Beobachten Sie die anmutige Marienverehrung in der Kirche der Heiligen Rosenkranzkönigin und genießen Sie das ruhigere, leicht erhöhte Wohnviertel rund um diese spirituelle Stätte.",
+            "hu": "Figyelje meg a kecses Mária-tiszteletet a Szent Rózsafüzér Királynője Templomban, miközben élvezi az e spirituális helyet körülvevő csendesebb, kissé megemelt lakóövezetet.",
+            "ro": "Observați devoțiunea mariană grațioasă la Biserica Regina Sfântului Rozariu, bucurându-vă de cartierul rezidențial mai liniștit și ușor ridicat care înconjoară acest loc spiritual.",
+            "en": "Observe the graceful Marian devotion at the Holy Rosary Queen Church, enjoying the quieter, slightly elevated residential neighborhood that surrounds this spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensfürst-Kirche",
+            "hu": "Béke Fejedelme Templom",
+            "ro": "Biserica Prințului Păcii",
+            "en": "Prince of Peace Church"
+          },
+          "coords": [
+            124.856208,
+            1.480111
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.67,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einladende lokale Gemeinde, bekannt als die Kirche des Friedefürsten, die einen Einblick in die alltägliche Hingabe der lokalen christlichen Gemeinschaft bietet.",
+            "hu": "Fedezze fel ezt a hívogató helyi egyházközséget, a Béke Fejedelmének Templomát, amely bepillantást enged a helyi keresztény közösség mindennapi áhítatába és hitéletébe.",
+            "ro": "Descoperiți această parohie locală primitoare, cunoscută sub numele de Biserica Prințului Păcii, care oferă o perspectivă asupra devotamentului zilnic al comunității creștine.",
+            "en": "Discover this welcoming local parish known as the Church of the Prince of Peace, offering a glimpse into the everyday devotion of the local Christian community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in den südlichen Vororten und besuchen Sie schöne Kirchen. Wenn es wärmer wird, radeln Sie ins Zentrum, um das lokale Museum zu erkunden. Die Nachmittagsfahrt führt Sie am farbenfrohen Ban Hin Kiong Tempel vorbei, bevor es leicht in die Küstenhügel hinaufgeht. Die sanfte Abendbrise begleitet Sie auf der letzten Strecke.",
+        "hu": "Kezdje kerékpáros kalandját a déli külvárosokban, gyönyörű templomokat látogatva. Ahogy a nap felmelegszik, tekerjen a nyüzsgő központ felé, hogy felfedezze a helyi múzeumot. A délutáni lovaglás elviszi a színes Ban Hin Kiong templom mellett, mielőtt kissé feljebb indulna a dombokon. A kellemes esti szellő kíséri majd a túra legutolsó szakaszán.",
+        "ro": "Începeți-vă aventura cu bicicleta în suburbiile sudice, vizitând biserici frumoase. Pe măsură ce ziua se încălzește, pedalați spre centrul plin de viață pentru a explora muzeul local. Plimbarea de după-amiază vă duce pe lângă templul colorat Ban Hin Kiong înainte de a urca ușor pe dealurile de coastă. Briza blândă de seară vă însoțește ultima etapă.",
+        "en": "Start your cycling adventure in the southern suburbs, visiting beautiful modern and traditional churches. As the day warms up, pedal towards the bustling center to explore the local museum's rich exhibits. Afternoon riding takes you past the colorful Ban Hin Kiong temple before heading up slightly into the coastal hills. The gentle evening breeze accompanies the final stretch."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 21.74,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Christkönigskirche",
+            "hu": "Krisztus Király Templom",
+            "ro": "Biserica Cristos Regele",
+            "en": "Christ the King Church"
+          },
+          "coords": [
+            124.884187,
+            1.401378
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise in der Christkönigskirche in Kembes, um den tiefen Glauben des Minahasa-Volkes zu erleben, und genießen Sie die malerische Aussicht auf die Berge.",
+            "hu": "Kezdje utazását a kembesi Krisztus Király Templomban, hogy megtapasztalja a minahasa nép mély hitét, és mindenképpen gyönyörködjön a közeli festői hegyi kilátásban is.",
+            "ro": "Începeți-vă călătoria la Biserica Cristos Regele din Kembes pentru a experimenta credința profundă a poporului minahasan, asigurându-vă că admirați priveliștile montane din apropiere.",
+            "en": "Start your journey at Christ the King Church in Kembes to experience the profound faith of the Minahasan people, ensuring you take in the scenic mountain views nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michaelskirche",
+            "hu": "Szent Mihály Templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Saint Michael's Church"
+          },
+          "coords": [
+            124.872091,
+            1.4736
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie die St.-Michaels-Kirche, um ihre robuste Architektur und den starken Gemeinschaftsgeist zu würdigen, die die tief verwurzelten christlichen Traditionen widerspiegeln.",
+            "hu": "Térjen be a Szent Mihály-templomba, hogy értékelje masszív építészetét és erős közösségi szellemét, amely a környező terület mélyen gyökerező keresztény hagyományait tükrözi.",
+            "ro": "Opriți-vă la Biserica Sfântul Mihail pentru a aprecia arhitectura sa robustă și spiritul comunitar puternic, care reflectă tradițiile creștine adânc înrădăcinate din zona înconjurătoare.",
+            "en": "Stop by Saint Michael's Church to appreciate its sturdy architecture and strong community spirit, reflecting the deeply rooted Christian traditions of the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensfürst-Kirche",
+            "hu": "Béke Fejedelme Templom",
+            "ro": "Biserica Prințului Păcii",
+            "en": "Prince of Peace Church"
+          },
+          "coords": [
+            124.856208,
+            1.480111
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einladende lokale Gemeinde, bekannt als die Kirche des Friedefürsten, die einen Einblick in die alltägliche Hingabe der lokalen christlichen Gemeinschaft bietet.",
+            "hu": "Fedezze fel ezt a hívogató helyi egyházközséget, a Béke Fejedelmének Templomát, amely bepillantást enged a helyi keresztény közösség mindennapi áhítatába és hitéletébe.",
+            "ro": "Descoperiți această parohie locală primitoare, cunoscută sub numele de Biserica Prințului Păcii, care oferă o perspectivă asupra devotamentului zilnic al comunității creștine.",
+            "en": "Discover this welcoming local parish known as the Church of the Prince of Peace, offering a glimpse into the everyday devotion of the local Christian community."
+          }
+        },
+        {
+          "name": {
+            "de": "Ban Hin Kiong Tempel",
+            "hu": "Ban Hin Kiong Templom",
+            "ro": "Templul Ban Hin Kiong",
+            "en": "Ban Hin Kiong Temple"
+          },
+          "coords": [
+            124.844839,
+            1.493887
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.98,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhaften Farben und kunstvollen Schnitzereien des ältesten buddhistischen Tempels in Manado, wobei Sie vor dem Betreten der heiligen Hallen die Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg Manado legrégebbi buddhista templomának élénk színeit és bonyolult faragásait, ügyelve arra, hogy vegye le a cipőjét a szent belső termekbe való belépés előtt.",
+            "ro": "Experimentați culorile vibrante și sculpturile complicate ale celui mai vechi templu budist din Manado, asigurându-vă că vă scoateți pantofii înainte de a intra în sălile sacre.",
+            "en": "Experience the vibrant colors and intricate carvings of the oldest Buddhist temple in Manado, ensuring you remove your shoes before entering the sacred inner halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau vom Heiligen Herzen",
+            "hu": "Szent Szív Miasszonyunk Templom",
+            "ro": "Biserica Maica Domnului a Sfintei Inimi",
+            "en": "Our Lady of the Sacred Heart Church"
+          },
+          "coords": [
+            124.87061,
+            1.492766
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.87,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit zum Nachdenken in der Kirche Unserer Lieben Frau vom Heiligen Herzen und bemerken Sie die harmonische Mischung aus lokaler Kultur und katholischer Symbolik.",
+            "hu": "Szánjon egy pillanatot az elmélkedésre a Szent Szív Miasszonyunk templomában, megfigyelve a helyi kultúra és a katolikus szimbolika harmonikus keverékét az élénk üvegablakokon.",
+            "ro": "Luați-vă un moment de reflecție la Biserica Maica Domnului a Sfintei Inimi, remarcând amestecul armonios de cultură locală și simbolism catolic din vitraliile sale vibrante.",
+            "en": "Take a moment to reflect at the Our Lady of the Sacred Heart Church, noticing the harmonious blend of local culture and Catholic symbolism in its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Veronika von Binasco",
+            "hu": "Binascoi Szent Veronika Templom",
+            "ro": "Biserica Sfânta Veronica de Binasco",
+            "en": "Saint Veronica of Binasco Church"
+          },
+          "coords": [
+            124.893123,
+            1.500041
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.62,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige, der Heiligen Veronika von Binasco gewidmete Gemeinde und achten Sie auf das kunstvolle hölzerne Altarbild von erfahrenen Handwerkern der Minahasa-Region.",
+            "hu": "Látogasson el a Binascoi Szent Veronikának szentelt egyedülálló plébániára, és figyeljen a minahasai régió képzett kézművesei által készített bonyolult fa oltárkép részleteire.",
+            "ro": "Vizitați această parohie unică dedicată Sfintei Veronica de Binasco, acordând atenție retablului din lemn complicat creat de artizani pricepuți din regiunea pitorească Minahasa.",
+            "en": "Visit this unique parish dedicated to Saint Veronica of Binasco, paying attention to the intricate wooden altarpiece crafted by skilled artisans from the Minahasa region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mutter Teresa von Kalkutta Kirche",
+            "hu": "Kalkuttai Teréz Anya Templom",
+            "ro": "Biserica Maica Tereza de Calcutta",
+            "en": "Mother Teresa of Calcutta Church"
+          },
+          "coords": [
+            124.90277,
+            1.536977
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.23,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser inspirierenden modernen Kirche, die Mutter Teresa gewidmet ist, und nehmen Sie sich Zeit für einen Spaziergang durch die gepflegten Gärten.",
+            "hu": "Fejezze be túráját ebben az inspiráló modern templomban, amelyet Teréz anyának szenteltek, és szánjon időt a jól karbantartott kertekben való sétára, amelyek békés menedéket nyújtanak.",
+            "ro": "Încheiați-vă turul la această biserică modernă și inspiratoare dedicată Maicii Tereza, făcându-vă timp să vă plimbați prin grădinile sale bine întreținute ce oferă un refugiu pașnic.",
+            "en": "End your tour at this inspiring modern church dedicated to Mother Teresa, taking time to walk through its well-maintained gardens that offer a peaceful retreat from the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten mit dem Auto an den malerischen Berghängen von Kembes und bewundern das spirituelle Erbe. Die mittägliche Fahrt bringt uns näher ans Zentrum, wo wir an prächtigen Kathedralen anhalten. Der Nachmittag ermöglicht es uns, bequem zwischen verschiedenen nördlichen Gemeinden zu wechseln. Wir beenden den Tag mit einem ruhigen Halt in den stillen Vororten.",
+        "hu": "Autóval indulunk Kembes festői peremvidékeiről, megcsodálva a régió spirituális örökségét. A déli vezetés közelebb hoz minket a nyüzsgő központhoz, megállva a csodálatos katedrálisoknál. A délután lehetővé teszi számunkra, hogy kényelmesen ugráljunk a különböző északi plébániák között. A napot egy nyugodt megállóval zárjuk a csendes külvárosban.",
+        "ro": "Plecăm cu mașina de la marginile pitorești ale munților Kembes, admirând moștenirea spirituală a regiunii. Conducerea la amiază ne aduce mai aproape de centrul plin de viață, oprindu-ne la catedrale magnifice. După-amiaza ne permite să sărim confortabil între diverse parohii din nord. Încheiem ziua cu o oprire senină în suburbiile liniștite.",
+        "en": "We set off by car from the scenic mountain fringes of Kembes, marveling at the region's spiritual heritage. Midday driving brings us closer to the lively center, stopping at magnificent cathedrals and traditional sanctuaries. The afternoon allows us to comfortably hop between diverse northern parishes without breaking a sweat. We conclude the day with a serene stop in the quiet suburbs."
+      }
+    }
+  }
+}

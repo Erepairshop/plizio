@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-anavissos-cities-v2",
+  "anchor": {
+    "name": "Anavissos",
+    "coords": [
+      23.93099,
+      37.73664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Κεντρική παραλία Σαρωνίδας",
+            "hu": "Κεντρική παραλία Σαρωνίδας",
+            "ro": "Κεντρική παραλία Σαρωνίδας",
+            "en": "Κεντρική παραλία Σαρωνίδας"
+          },
+          "coords": [
+            23.905002,
+            37.748505
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am zentralen Strand von Saronida, wo ruhiges Wasser auf lebhafte Strandcafés trifft, und kommen Sie früh, um die besten Sonnenliegen zu ergattern.",
+            "hu": "Pihenjen Saronida központi strandján, ahol a nyugodt vizek és a nyüzsgő kávézók találkoznak, és érkezzen korán, hogy a legjobb napágyakat foglalhassa el.",
+            "ro": "Relaxați-vă pe plaja centrală din Saronida, unde apele liniștite întâlnesc cafenele animate, și sosiți devreme pentru a prinde cele mai bune șezlonguri.",
+            "en": "Relax at the central beach of Saronida, where calm waters meet lively beachside cafes, and arrive early to secure the best sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Second Beach of Saronis",
+            "hu": "Second Beach of Saronis",
+            "ro": "Second Beach of Saronis",
+            "en": "Second Beach of Saronis"
+          },
+          "coords": [
+            23.904374,
+            37.742413
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre dieses Sandstrandes, der sich perfekt für Familien eignet, und bringen Sie Ihre eigene Schnorchelausrüstung mit, um das klare Wasser zu erkunden.",
+            "hu": "Élvezze ennek a családok számára tökéletes homokos partnak a nyugodtabb hangulatát, és hozzon magával saját búvárfelszerelést a tiszta vizek felfedezéséhez.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită a acestei plaje de nisip perfecte pentru familii și aduceți propriul echipament de snorkeling pentru a explora apele limpezi.",
+            "en": "Enjoy the quieter atmosphere of this sandy beach that is perfect for families, and bring your own snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Bar",
+            "hu": "Beach Bar",
+            "ro": "Beach Bar",
+            "en": "Beach Bar"
+          },
+          "coords": [
+            23.904812,
+            37.735515
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen erfrischenden Cocktail in dieser lebhaften Strandbar direkt am Meer, wo Sie am späten Vormittag die beste Musikauswahl erleben.",
+            "hu": "Kényeztesse magát egy frissítő koktéllal ebben a tengerparti, nyüzsgő bárban, ahol késő délelőtt a legjobb a zenei felhozatal.",
+            "ro": "Răsfățați-vă cu un cocktail revigorant la acest bar animat pe malul mării, unde selecția muzicală este cea mai bună spre sfârșitul dimineții.",
+            "en": "Treat yourself to a refreshing cocktail at this lively beachfront bar, where the music selection is best enjoyed in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "N.O. Mauro Lithari",
+            "hu": "N.O. Mauro Lithari",
+            "ro": "N.O. Mauro Lithari",
+            "en": "N.O. Mauro Lithari"
+          },
+          "coords": [
+            23.90435,
+            37.731448
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Wassersportler oder versuchen Sie sich selbst beim Segeln an diesem organisierten Club, wobei Sie die starken Nachmittagswinde für das beste Erlebnis nutzen sollten.",
+            "hu": "Figyelje a vízisportok szerelmeseit, vagy próbálja ki a vitorlázást ebben a szervezett klubban, kihasználva az erős délutáni szeleket a legjobb élmény érdekében.",
+            "ro": "Urmăriți entuziaștii sporturilor nautice sau încercați navigația la acest club organizat, profitând de vânturile puternice de după-amiază pentru o experiență optimă.",
+            "en": "Watch water sports enthusiasts or try sailing at this organized club, taking advantage of the strong afternoon winds for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden",
+            "hu": "Eden",
+            "ro": "Eden",
+            "en": "Eden"
+          },
+          "coords": [
+            23.907243,
+            37.727843
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese wunderschön angelegte Küstenpromenade, die ein paradiesisches Flair versprüht, und bleiben Sie unbedingt bis zum magischen Sonnenuntergang.",
+            "hu": "Sétáljon végig ezen a gyönyörűen parkosított, paradicsomi hangulatot árasztó tengerparti sétányon, és mindenképpen maradjon a varázslatos naplementéig.",
+            "ro": "Plimbați-vă pe această promenadă de coastă frumos amenajată care emană o atmosferă de paradis și asigurați-vă că rămâneți până la apusul magic.",
+            "en": "Stroll through this beautifully landscaped coastal promenade that exudes a paradisiacal flair, and be sure to stay until the magical sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am lebhaften Zentralstrand von Saronida, wo morgendliche Frische zum Verweilen einlädt. Gegen Mittag schlendern wir gemütlich nach Süden und entdecken ruhigere Buchten. Der Nachmittag steht im Zeichen von Wassersport und erfrischenden Getränken an der Küste. Am Abend lassen wir den Tag am eleganten Strand Eden bei einem atemberaubenden Sonnenuntergang ausklingen.",
+        "hu": "A nap a nyüzsgő Saronida központi strandon indul, ahol a reggeli frissesség maradásra csábít. Dél körül kényelmesen sétálunk dél felé, felfedezve a csendesebb öblöket. A délután a vízi sportok és a frissítő parti italok jegyében telik. Este az elegáns Eden strandon, egy lélegzetelállító naplemente kíséretében zárjuk a napot.",
+        "ro": "Ziua începe pe plaja centrală animată din Saronida, unde prospețimea dimineții te invită să zăbovești. Pe la prânz ne plimbăm lejer spre sud, descoperind golfuri mai liniștite. După-amiaza este dedicată sporturilor nautice și băuturilor răcoritoare pe coastă. Seara ne încheiem ziua la plaja elegantă Eden, însoțiți de un apus uimitor.",
+        "en": "The day begins at the vibrant central beach of Saronida, where the morning freshness invites you to linger. Around noon we take a leisurely stroll south, discovering quieter coves. The afternoon is dedicated to water sports and refreshing coastal drinks. In the evening, we end our day at the elegant Eden beach, accompanied by a breathtaking sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Κεντρική παραλία Σαρωνίδας",
+            "hu": "Κεντρική παραλία Σαρωνίδας",
+            "ro": "Κεντρική παραλία Σαρωνίδας",
+            "en": "Κεντρική παραλία Σαρωνίδας"
+          },
+          "coords": [
+            23.905002,
+            37.748505
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am zentralen Strand von Saronida, wo ruhiges Wasser auf lebhafte Strandcafés trifft, und kommen Sie früh, um die besten Sonnenliegen zu ergattern.",
+            "hu": "Pihenjen Saronida központi strandján, ahol a nyugodt vizek és a nyüzsgő kávézók találkoznak, és érkezzen korán, hogy a legjobb napágyakat foglalhassa el.",
+            "ro": "Relaxați-vă pe plaja centrală din Saronida, unde apele liniștite întâlnesc cafenele animate, și sosiți devreme pentru a prinde cele mai bune șezlonguri.",
+            "en": "Relax at the central beach of Saronida, where calm waters meet lively beachside cafes, and arrive early to secure the best sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Second Beach of Saronis",
+            "hu": "Second Beach of Saronis",
+            "ro": "Second Beach of Saronis",
+            "en": "Second Beach of Saronis"
+          },
+          "coords": [
+            23.904374,
+            37.742413
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre dieses Sandstrandes, der sich perfekt für Familien eignet, und bringen Sie Ihre eigene Schnorchelausrüstung mit, um das klare Wasser zu erkunden.",
+            "hu": "Élvezze ennek a családok számára tökéletes homokos partnak a nyugodtabb hangulatát, és hozzon magával saját búvárfelszerelést a tiszta vizek felfedezéséhez.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită a acestei plaje de nisip perfecte pentru familii și aduceți propriul echipament de snorkeling pentru a explora apele limpezi.",
+            "en": "Enjoy the quieter atmosphere of this sandy beach that is perfect for families, and bring your own snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Bar",
+            "hu": "Beach Bar",
+            "ro": "Beach Bar",
+            "en": "Beach Bar"
+          },
+          "coords": [
+            23.904812,
+            37.735515
+          ],
+          "category": "recreational",
+          "arrive_at": "11:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen erfrischenden Cocktail in dieser lebhaften Strandbar direkt am Meer, wo Sie am späten Vormittag die beste Musikauswahl erleben.",
+            "hu": "Kényeztesse magát egy frissítő koktéllal ebben a tengerparti, nyüzsgő bárban, ahol késő délelőtt a legjobb a zenei felhozatal.",
+            "ro": "Răsfățați-vă cu un cocktail revigorant la acest bar animat pe malul mării, unde selecția muzicală este cea mai bună spre sfârșitul dimineții.",
+            "en": "Treat yourself to a refreshing cocktail at this lively beachfront bar, where the music selection is best enjoyed in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "N.O. Mauro Lithari",
+            "hu": "N.O. Mauro Lithari",
+            "ro": "N.O. Mauro Lithari",
+            "en": "N.O. Mauro Lithari"
+          },
+          "coords": [
+            23.90435,
+            37.731448
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Wassersportler oder versuchen Sie sich selbst beim Segeln an diesem organisierten Club, wobei Sie die starken Nachmittagswinde für das beste Erlebnis nutzen sollten.",
+            "hu": "Figyelje a vízisportok szerelmeseit, vagy próbálja ki a vitorlázást ebben a szervezett klubban, kihasználva az erős délutáni szeleket a legjobb élmény érdekében.",
+            "ro": "Urmăriți entuziaștii sporturilor nautice sau încercați navigația la acest club organizat, profitând de vânturile puternice de după-amiază pentru o experiență optimă.",
+            "en": "Watch water sports enthusiasts or try sailing at this organized club, taking advantage of the strong afternoon winds for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden",
+            "hu": "Eden",
+            "ro": "Eden",
+            "en": "Eden"
+          },
+          "coords": [
+            23.907243,
+            37.727843
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese wunderschön angelegte Küstenpromenade, die ein paradiesisches Flair versprüht, und bleiben Sie unbedingt bis zum magischen Sonnenuntergang.",
+            "hu": "Sétáljon végig ezen a gyönyörűen parkosított, paradicsomi hangulatot árasztó tengerparti sétányon, és mindenképpen maradjon a varázslatos naplementéig.",
+            "ro": "Plimbați-vă pe această promenadă de coastă frumos amenajată care emană o atmosferă de paradis și asigurați-vă că rămâneți până la apusul magic.",
+            "en": "Stroll through this beautifully landscaped coastal promenade that exudes a paradisiacal flair, and be sure to stay until the magical sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Skalakia Anabussou",
+            "hu": "Skalakia Anabussou",
+            "ro": "Skalakia Anabussou",
+            "en": "Skalakia Anabussou"
+          },
+          "coords": [
+            23.912511,
+            37.719556
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten \"kleinen Treppen\", die zu versteckten Badebuchten führen, und tragen Sie festes Schuhwerk, da der felsige Abstieg rutschig sein kann.",
+            "hu": "Fedezze fel a rejtett fürdőöblökhöz vezető hangulatos \"kis lépcsőket\", és viseljen zárt cipőt, mivel a sziklás lejtő csúszós lehet.",
+            "ro": "Descoperiți \"micile scări\" fermecătoare care duc la golfuri ascunse pentru înot și purtați încălțăminte robustă deoarece coborârea stâncoasă poate fi alunecoasă.",
+            "en": "Discover the charming \"little stairs\" leading to hidden swimming coves, and wear sturdy shoes as the rocky descent can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Agiou Nikolaou",
+            "hu": "Paralia Agiou Nikolaou",
+            "ro": "Paralia Agiou Nikolaou",
+            "en": "Paralia Agiou Nikolaou"
+          },
+          "coords": [
+            23.922295,
+            37.718336
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Halbinsel mit ihrer kleinen Kirche, die eine beeindruckende Kulisse für Fotos bietet, und packen Sie Snacks ein, da es hier keine Geschäfte gibt.",
+            "hu": "Látogasson el erre a festői félszigetre a kis templomával, amely lenyűgöző hátteret biztosít a fotózáshoz, és hozzon rágcsálnivalót, mert nincsenek üzletek a közelben.",
+            "ro": "Vizitați această peninsulă pitorească cu mica sa biserică, care oferă un fundal uimitor pentru fotografii, și luați gustări deoarece nu există magazine în jur.",
+            "en": "Visit this picturesque peninsula with its small church that provides a stunning backdrop for photos, and pack snacks as there are no nearby shops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour in Saronida und genießen Sie die kühle Meeresbrise auf Ihrem Weg entlang der Riviera. Mittags laden Beach Bars zu entspannten Pausen ein, bevor Sie weite Ausblicke bei Mauro Lithari sammeln. Nachmittags radeln wir zu den charmanten \"kleinen Treppen\", wo das Wasser kristallklar ist. Der Ausflug endet an der malerischen Halbinsel von Agios Nikolaos im Abendlicht.",
+        "hu": "Kezdje kerékpártúráját Saronidában, és élvezze a hűvös tengeri szellőt a Riviéra mentén haladva. Délben a tengerparti bárok hívogatnak egy kis pihenésre, mielőtt megcsodálná a Mauro Lithari panorámáját. Délután a hangulatos \"kis lépcsőkhöz\" tekerünk, ahol kristálytiszta a víz. A kirándulás Agios Nikolaos festői félszigetén ér véget az esti fényekben.",
+        "ro": "Începeți turul cu bicicleta în Saronida și bucurați-vă de briza răcoroasă pe drumul de-a lungul Rivierei. La prânz, barurile de pe plajă vă invită la pauze relaxante, înainte de a admira priveliștile de la Mauro Lithari. După-amiaza pedalăm spre „micile scări” fermecătoare, unde apa este cristalină. Excursia se încheie pe peninsula pitorească Agios Nikolaos în lumina serii.",
+        "en": "Start your bike tour in Saronida and enjoy the cool sea breeze on your way along the Riviera. At noon, beach bars invite you to relaxing breaks before you take in the wide views at Mauro Lithari. In the afternoon we cycle to the charming \"little stairs\", where the water is crystal clear. The trip ends at the picturesque peninsula of Agios Nikolaos in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Παραλία Αναβύσσου",
+            "hu": "Παραλία Αναβύσσου",
+            "ro": "Παραλία Αναβύσσου",
+            "en": "Παραλία Αναβύσσου"
+          },
+          "coords": [
+            23.938634,
+            37.724163
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache Wasser und den weichen Sand an diesem weitläufigen Strand, der sich ideal für Windsurfer eignet, und mieten Sie Ihre Ausrüstung direkt vor Ort.",
+            "hu": "Élvezze a sekély vizet és a puha homokot ezen a hatalmas strandon, amely ideális a szörfösök számára, és béreljen felszerelést közvetlenül a helyszínen.",
+            "ro": "Bucurați-vă de apa puțin adâncă și nisipul fin pe această plajă imensă, ideală pentru windsurfing, și închiriați echipamentul direct de la fața locului.",
+            "en": "Enjoy the shallow water and soft sand on this expansive beach that is ideal for windsurfers, and rent your equipment right on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Agiou Nikolaou",
+            "hu": "Paralia Agiou Nikolaou",
+            "ro": "Paralia Agiou Nikolaou",
+            "en": "Paralia Agiou Nikolaou"
+          },
+          "coords": [
+            23.922295,
+            37.718336
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.58,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Halbinsel mit ihrer kleinen Kirche, die eine beeindruckende Kulisse für Fotos bietet, und packen Sie Snacks ein, da es hier keine Geschäfte gibt.",
+            "hu": "Látogasson el erre a festői félszigetre a kis templomával, amely lenyűgöző hátteret biztosít a fotózáshoz, és hozzon rágcsálnivalót, mert nincsenek üzletek a közelben.",
+            "ro": "Vizitați această peninsulă pitorească cu mica sa biserică, care oferă un fundal uimitor pentru fotografii, și luați gustări deoarece nu există magazine în jur.",
+            "en": "Visit this picturesque peninsula with its small church that provides a stunning backdrop for photos, and pack snacks as there are no nearby shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Skalakia Anabussou",
+            "hu": "Skalakia Anabussou",
+            "ro": "Skalakia Anabussou",
+            "en": "Skalakia Anabussou"
+          },
+          "coords": [
+            23.912511,
+            37.719556
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten \"kleinen Treppen\", die zu versteckten Badebuchten führen, und tragen Sie festes Schuhwerk, da der felsige Abstieg rutschig sein kann.",
+            "hu": "Fedezze fel a rejtett fürdőöblökhöz vezető hangulatos \"kis lépcsőket\", és viseljen zárt cipőt, mivel a sziklás lejtő csúszós lehet.",
+            "ro": "Descoperiți \"micile scări\" fermecătoare care duc la golfuri ascunse pentru înot și purtați încălțăminte robustă deoarece coborârea stâncoasă poate fi alunecoasă.",
+            "en": "Discover the charming \"little stairs\" leading to hidden swimming coves, and wear sturdy shoes as the rocky descent can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ktima 48",
+            "hu": "Ktima 48",
+            "ro": "Ktima 48",
+            "en": "Ktima 48"
+          },
+          "coords": [
+            23.915413,
+            37.719178
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Veranstaltungsortes direkt an der Küste, und erkundigen Sie sich vorher nach öffentlichen Veranstaltungen, um das Gelände betreten zu können.",
+            "hu": "Csodálja meg ennek a tengerparti rendezvényhelyszínnek az elegáns építészetét, és előzetesen érdeklődjön a nyilvános eseményekről, hogy bejuthasson a területre.",
+            "ro": "Admirați arhitectura elegantă a acestei locații de evenimente de pe coastă și interesați-vă din timp de evenimentele publice pentru a putea intra pe domeniu.",
+            "en": "Admire the elegant architecture of this seaside event venue, and inquire in advance about public events to be able to enter the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden",
+            "hu": "Eden",
+            "ro": "Eden",
+            "en": "Eden"
+          },
+          "coords": [
+            23.907243,
+            37.727843
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese wunderschön angelegte Küstenpromenade, die ein paradiesisches Flair versprüht, und bleiben Sie unbedingt bis zum magischen Sonnenuntergang.",
+            "hu": "Sétáljon végig ezen a gyönyörűen parkosított, paradicsomi hangulatot árasztó tengerparti sétányon, és mindenképpen maradjon a varázslatos naplementéig.",
+            "ro": "Plimbați-vă pe această promenadă de coastă frumos amenajată care emană o atmosferă de paradis și asigurați-vă că rămâneți până la apusul magic.",
+            "en": "Stroll through this beautifully landscaped coastal promenade that exudes a paradisiacal flair, and be sure to stay until the magical sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Κεντρική παραλία Σαρωνίδας",
+            "hu": "Κεντρική παραλία Σαρωνίδας",
+            "ro": "Κεντρική παραλία Σαρωνίδας",
+            "en": "Κεντρική παραλία Σαρωνίδας"
+          },
+          "coords": [
+            23.905002,
+            37.748505
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am zentralen Strand von Saronida, wo ruhiges Wasser auf lebhafte Strandcafés trifft, und kommen Sie früh, um die besten Sonnenliegen zu ergattern.",
+            "hu": "Pihenjen Saronida központi strandján, ahol a nyugodt vizek és a nyüzsgő kávézók találkoznak, és érkezzen korán, hogy a legjobb napágyakat foglalhassa el.",
+            "ro": "Relaxați-vă pe plaja centrală din Saronida, unde apele liniștite întâlnesc cafenele animate, și sosiți devreme pentru a prinde cele mai bune șezlonguri.",
+            "en": "Relax at the central beach of Saronida, where calm waters meet lively beachside cafes, and arrive early to secure the best sunbeds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir die Athener Riviera und starten am berühmten Surf-Strand von Anavissos. Zur Mittagszeit besuchen wir die kleine Kirche von Agios Nikolaos und genießen die dramatische Felsküste. Am Nachmittag fahren wir nordwärts und entspannen an den gepflegten Anlagen von Eden und Skalakia. Der Tag gipfelt an der zentralen Küste von Saronida, wo Tavernen zum Abendessen einladen.",
+        "hu": "Autóval fedezzük fel az athéni Riviérát, a híres anavisszosi szörfös strandról indulva. Délben meglátogatjuk Agios Nikolaos kis templomát, és élvezzük a drámai sziklás partot. Délután észak felé haladunk, és megpihenünk Eden és Skalakia gondozott parkjaiban. A nap a központi Saronida partján csúcsosodik ki, ahol tavernák hívogatnak vacsorára.",
+        "ro": "Cu mașina explorăm Riviera Ateniană, pornind de la faimoasa plajă de surf din Anavissos. La prânz vizităm mica biserică din Agios Nikolaos și ne bucurăm de coasta stâncoasă dramatică. După-amiaza ne îndreptăm spre nord și ne relaxăm în facilitățile îngrijite de la Eden și Skalakia. Ziua culminează pe coasta centrală a Saronidei, unde tavernele vă invită la cină.",
+        "en": "By car, we explore the Athenian Riviera, starting at the famous surfing beach of Anavissos. At lunchtime we visit the small church of Agios Nikolaos and enjoy the dramatic rocky coastline. In the afternoon we drive north and relax at the well-kept facilities of Eden and Skalakia. The day culminates on the central coast of Saronida, where taverns invite you to dinner."
+      }
+    }
+  }
+}

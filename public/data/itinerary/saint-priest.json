@@ -1,0 +1,497 @@
+{
+  "city_id": "saint-priest",
+  "anchor": {
+    "name": "Saint-Priest",
+    "coords": [
+      4.9439,
+      45.6964
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 1.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Charles Ottina",
+            "hu": "Place Charles Ottina",
+            "ro": "Piața Charles Ottina",
+            "en": "Place Charles Ottina"
+          },
+          "coords": [
+            4.936752,
+            45.694391
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das moderne Herz von Saint-Priest an der Place Charles Ottina, einem lebendigen Zentrum, das sich perfekt für einen Kaffee eignet.",
+            "hu": "Fedezze fel Saint-Priest modern szívét a nyüzsgő Place Charles Ottina téren, amely tökéletes a helyi élet megfigyelésére, egy kávé kíséretében.",
+            "ro": "Explorați inima modernă a orașului Saint-Priest în Piața Charles Ottina, un centru civic plin de viață, și savurați o cafea la o terasă din apropiere.",
+            "en": "Explore the modern heart of Saint-Priest at Place Charles Ottina, a lively civic hub perfect for observing local life, and grab a coffee at a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Médiathèque François Mitterrand",
+            "hu": "Médiathèque François Mitterrand",
+            "ro": "Médiathèque François Mitterrand",
+            "en": "Médiathèque François Mitterrand"
+          },
+          "coords": [
+            4.936397,
+            45.694686
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Kulturzentrum mit beeindruckender Architektur und suchen Sie sich einen ruhigen Leseplatz im obersten Stockwerk.",
+            "hu": "Látogasson el ebbe az impresszív építészetű modern kulturális központba, ahol a felső szinten könnyen találhat egy csendes olvasósarkot pihenéshez.",
+            "ro": "Vizitați acest centru cultural contemporan cu o arhitectură impresionantă și colecții vaste, unde puteți găsi un loc liniștit de lectură la etaj.",
+            "en": "Visit this contemporary cultural center boasting impressive architecture and vast collections, where you can easily find a quiet reading spot on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de la Paix",
+            "hu": "Église Notre-Dame de la Paix",
+            "ro": "Biserica Notre-Dame de la Paix",
+            "en": "Église Notre-Dame de la Paix"
+          },
+          "coords": [
+            4.934789,
+            45.693566
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser friedlichen Kirche, die eine ruhige Atmosphäre bietet; achten Sie jedoch auf die Zeiten der Gottesdienste.",
+            "hu": "Csodálja meg e békés templom visszafogott eleganciáját, amely nyugodt légkört kínál az elmélyüléshez; kérjük, tartsa tiszteletben a misék időpontjait.",
+            "ro": "Admirați eleganța discretă a acestei biserici liniștite, care oferă o atmosferă senină pentru reflecție; vă rugăm să respectați orele slujbelor.",
+            "en": "Admire the understated elegance of this peaceful church, offering a serene atmosphere for reflection away from the city noise, and respect local service times."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade Jacques Joly",
+            "hu": "Stade Jacques Joly",
+            "ro": "Stadionul Jacques Joly",
+            "en": "Stade Jacques Joly"
+          },
+          "coords": [
+            4.94003,
+            45.69574
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie den lokalen Sportsgeist in diesem gepflegten Stadion, das sich ideal für ein Wochenendspiel oder einen flotten Spaziergang eignet.",
+            "hu": "Tapasztalja meg a helyi sportéletet ebben a jól karbantartott közösségi stadionban, amely ideális egy hétvégi meccs megnézéséhez vagy egy kis sétához.",
+            "ro": "Simțiți spiritul sportiv local pe acest stadion comunitar bine întreținut, ideal pentru a viziona un meci sau pentru a face o plimbare în jurul său.",
+            "en": "Experience the local sporting spirit at this well-maintained community stadium, ideal for catching a weekend match or enjoying a brisk walk around the perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Village",
+            "hu": "Le Village",
+            "ro": "Le Village",
+            "en": "Le Village"
+          },
+          "coords": [
+            4.942617,
+            45.697663
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Village, wo charmante alte Straßen die traditionelle Seele bewahren; tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon át a történelmi Village negyeden, ahol hangulatos régi utcák őrzik a hagyományokat; a macskaköves utakon érdemes kényelmes cipőt viselnie.",
+            "ro": "Plimbați-vă prin cartierul istoric Village, unde străzile vechi își păstrează sufletul tradițional; purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Stroll through the historic Village area, where charming old streets preserve the town's traditional soul; wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Priest",
+            "hu": "Château de Saint-Priest",
+            "ro": "Castelul Saint-Priest",
+            "en": "Château de Saint-Priest"
+          },
+          "coords": [
+            4.944,
+            45.6967
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Architektur dieses restaurierten Renaissanceschlosses und prüfen Sie den Zeitplan für die saisonalen Kunstausstellungen.",
+            "hu": "Fedezze fel ennek a felújított reneszánsz kastélynak a fenséges építészetét, és mindenképpen érdeklődjön az aktuális szezonális művészeti kiállításokról.",
+            "ro": "Descoperiți arhitectura maiestuoasă a acestui castel renascentist restaurat, o adevărată bijuterie, și verificați programul expozițiilor de artă sezoniere.",
+            "en": "Discover the majestic architecture of this restored Renaissance castle, a true historical gem of the region, and check the schedule for seasonal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Parc du Château",
+            "ro": "Parcul Castelului",
+            "en": "Parc du Château"
+          },
+          "coords": [
+            4.943576,
+            45.696463
+          ],
+          "category": "recreational",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Gärten rund um das Schloss, die in den wärmeren Monaten perfekte Picknickplätze unter jahrhundertealten Bäumen bieten.",
+            "hu": "Pihenjen a kastélyt körülvevő kiterjedt, gyönyörűen parkosított kertekben, amelyek tökéletes piknikezőhelyeket kínálnak az évszázados fák hűs árnyékában.",
+            "ro": "Relaxați-vă în grădinile întinse și frumos amenajate din jurul castelului, care oferă locuri perfecte pentru picnic sub copaci seculari în lunile calde.",
+            "en": "Relax in the expansive, beautifully landscaped gardens surrounding the castle, offering perfect picnic spots under century-old trees during the warmer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der Place Charles Ottina, bevor Sie die Médiathèque erkunden. Mittags besuchen Sie die Église Notre-Dame de la Paix und das Stade Jacques Joly. Am Nachmittag entdecken Sie den historischen Charme von Le Village und das majestätische Château de Saint-Priest. Beenden Sie den Tag mit einem entspannenden Spaziergang im Parc du Château.",
+        "hu": "Kezdje a reggelt a Place Charles Ottina téren, majd merüljön el a modern Médiathèque kínálatában. Délben látogasson el az Église Notre-Dame de la Paix templomba és a Stade Jacques Joly-hoz. Délután fedezze fel a történelmi Le Village negyedet és a fenséges Château de Saint-Priest kastélyt. Zárja a napot egy kellemes esti sétával a Parc du Château békés fái alatt.",
+        "ro": "Începeți dimineața cu o plimbare în Piața Charles Ottina înainte de a explora moderna Médiathèque. La prânz, vizitați Église Notre-Dame de la Paix și Stadionul Jacques Joly. După-amiaza, descoperiți farmecul istoric din Le Village și maiestuosul Château de Saint-Priest. Încheiați ziua cu o plimbare relaxantă de seară prin întinsul Parc du Château.",
+        "en": "Start your morning with a refreshing walk around Place Charles Ottina before diving into the extensive collections of the nearby modern Médiathèque. Midday brings you to the peaceful Église Notre-Dame de la Paix, followed by a local sporting vibe at Stade Jacques Joly. In the afternoon, discover the historic charm of Le Village and the majestic Château de Saint-Priest. Conclude your day with a relaxing evening stroll in the vast, serene Parc du Château."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Charles Ottina",
+            "hu": "Place Charles Ottina",
+            "ro": "Piața Charles Ottina",
+            "en": "Place Charles Ottina"
+          },
+          "coords": [
+            4.936752,
+            45.694391
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das moderne Herz von Saint-Priest an der Place Charles Ottina, einem lebendigen Zentrum, das sich perfekt für einen Kaffee eignet.",
+            "hu": "Fedezze fel Saint-Priest modern szívét a nyüzsgő Place Charles Ottina téren, amely tökéletes a helyi élet megfigyelésére, egy kávé kíséretében.",
+            "ro": "Explorați inima modernă a orașului Saint-Priest în Piața Charles Ottina, un centru civic plin de viață, și savurați o cafea la o terasă din apropiere.",
+            "en": "Explore the modern heart of Saint-Priest at Place Charles Ottina, a lively civic hub perfect for observing local life, and grab a coffee at a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de la Paix",
+            "hu": "Église Notre-Dame de la Paix",
+            "ro": "Biserica Notre-Dame de la Paix",
+            "en": "Église Notre-Dame de la Paix"
+          },
+          "coords": [
+            4.934789,
+            45.693566
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser friedlichen Kirche, die eine ruhige Atmosphäre bietet; achten Sie jedoch auf die Zeiten der Gottesdienste.",
+            "hu": "Csodálja meg e békés templom visszafogott eleganciáját, amely nyugodt légkört kínál az elmélyüléshez; kérjük, tartsa tiszteletben a misék időpontjait.",
+            "ro": "Admirați eleganța discretă a acestei biserici liniștite, care oferă o atmosferă senină pentru reflecție; vă rugăm să respectați orele slujbelor.",
+            "en": "Admire the understated elegance of this peaceful church, offering a serene atmosphere for reflection away from the city noise, and respect local service times."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Priest",
+            "hu": "Château de Saint-Priest",
+            "ro": "Castelul Saint-Priest",
+            "en": "Château de Saint-Priest"
+          },
+          "coords": [
+            4.944,
+            45.6967
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Architektur dieses restaurierten Renaissanceschlosses und prüfen Sie den Zeitplan für die saisonalen Kunstausstellungen.",
+            "hu": "Fedezze fel ennek a felújított reneszánsz kastélynak a fenséges építészetét, és mindenképpen érdeklődjön az aktuális szezonális művészeti kiállításokról.",
+            "ro": "Descoperiți arhitectura maiestuoasă a acestui castel renascentist restaurat, o adevărată bijuterie, și verificați programul expozițiilor de artă sezoniere.",
+            "en": "Discover the majestic architecture of this restored Renaissance castle, a true historical gem of the region, and check the schedule for seasonal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Parc du Château",
+            "ro": "Parcul Castelului",
+            "en": "Parc du Château"
+          },
+          "coords": [
+            4.943576,
+            45.696463
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Gärten rund um das Schloss, die in den wärmeren Monaten perfekte Picknickplätze unter jahrhundertealten Bäumen bieten.",
+            "hu": "Pihenjen a kastélyt körülvevő kiterjedt, gyönyörűen parkosított kertekben, amelyek tökéletes piknikezőhelyeket kínálnak az évszázados fák hűs árnyékában.",
+            "ro": "Relaxați-vă în grădinile întinse și frumos amenajate din jurul castelului, care oferă locuri perfecte pentru picnic sub copaci seculari în lunile calde.",
+            "en": "Relax in the expansive, beautifully landscaped gardens surrounding the castle, offering perfect picnic spots under century-old trees during the warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Saint-Priest",
+            "hu": "Fort de Saint-Priest",
+            "ro": "Fortul Saint-Priest",
+            "en": "Fort de Saint-Priest"
+          },
+          "coords": [
+            4.96631,
+            45.6947
+          ],
+          "category": "fortress",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robuste Militärarchitektur dieses beeindruckenden Forts aus dem 19. Jahrhundert bei einer Führung; buchen Sie Ihren Besuch im Voraus.",
+            "hu": "Fedezze fel ennek a 19. századi erődnek a robusztus katonai építészetét az izgalmas vezetett túrákon; érdemes előre lefoglalni a látogatás időpontját.",
+            "ro": "Explorați arhitectura militară robustă a acestui fort din secolul al XIX-lea prin tururi ghidate; este recomandat să vă rezervați vizita în avans.",
+            "en": "Explore the robust 19th-century military architecture of this impressive fort, which offers guided tours revealing its strategic past; book your visit in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "LET'S JUMP - trampoline parc",
+            "hu": "LET'S JUMP - trambulinpark",
+            "ro": "LET'S JUMP - parc de trambuline",
+            "en": "LET'S JUMP - trampoline parc"
+          },
+          "coords": [
+            4.974653,
+            45.709927
+          ],
+          "category": "family",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Toben Sie sich in diesem riesigen Indoor-Trampolinpark aus, der mit seinen zahlreichen Sprungzonen die ideale Schlechtwetteraktivität für Familien ist.",
+            "hu": "Vezesse le az energiáit ebben a hatalmas fedett trambulinparkban, amely ugráló zónáival és akadálypályáival ideális esős napi program az egész családnak.",
+            "ro": "Consumați-vă energia în acest parc de trambuline indoor, dotat cu diverse zone de sărituri și trasee cu obstacole, fiind o activitate ideală pentru familii.",
+            "en": "Burn off some energy at this massive indoor trampoline park featuring various jumping zones and obstacle courses, making it an ideal rainy-day activity for kids."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zur Place Charles Ottina und weiter zur Église Notre-Dame de la Paix. Mittags erreichen Sie das majestätische Château de Saint-Priest und entspannen im Parc du Château. Die Nachmittagsfahrt führt Sie zum beeindruckenden Fort de Saint-Priest. Der Abend endet mit viel Energie und Spaß im riesigen LET'S JUMP Trampolinpark.",
+        "hu": "Indítsa a napot két keréken a Place Charles Ottina téren, majd guruljon el az Église Notre-Dame de la Paix felé. Délben tekerjen fel a Château de Saint-Priest kastélyhoz, és pihenjen a Parc du Château zöldjében. A délutáni túra a Fort de Saint-Priest történelmi erődjéhez vezet. Az estét vidám ugrálással zárhatja a hatalmas LET'S JUMP trambulinparkban.",
+        "ro": "Începeți ziua pedalând prin Piața Charles Ottina și opriți-vă la biserica liniștită Église Notre-Dame de la Paix. La prânz, mergeți spre Château de Saint-Priest și relaxați-vă în Parc du Château. Plimbarea de după-amiază vă duce la impresionantul Fort de Saint-Priest. Seara se încheie cu multă energie și distracție la parcul de trambuline LET'S JUMP.",
+        "en": "Pedal into your day at Place Charles Ottina, quickly moving to the serene Église Notre-Dame de la Paix for a quiet morning moment. By midday, cycle up to the majestic Château de Saint-Priest and enjoy a well-deserved rest in the lush Parc du Château. The afternoon ride takes you to the impressive Fort de Saint-Priest for a touch of military history. Your evening finishes with energetic fun at the massive LET'S JUMP trampoline park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Saint-Priest",
+            "hu": "Château de Saint-Priest",
+            "ro": "Castelul Saint-Priest",
+            "en": "Château de Saint-Priest"
+          },
+          "coords": [
+            4.944,
+            45.6967
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Architektur dieses restaurierten Renaissanceschlosses und prüfen Sie den Zeitplan für die saisonalen Kunstausstellungen.",
+            "hu": "Fedezze fel ennek a felújított reneszánsz kastélynak a fenséges építészetét, és mindenképpen érdeklődjön az aktuális szezonális művészeti kiállításokról.",
+            "ro": "Descoperiți arhitectura maiestuoasă a acestui castel renascentist restaurat, o adevărată bijuterie, și verificați programul expozițiilor de artă sezoniere.",
+            "en": "Discover the majestic architecture of this restored Renaissance castle, a true historical gem of the region, and check the schedule for seasonal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Parc du Château",
+            "ro": "Parcul Castelului",
+            "en": "Parc du Château"
+          },
+          "coords": [
+            4.943576,
+            45.696463
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Gärten rund um das Schloss, die in den wärmeren Monaten perfekte Picknickplätze unter jahrhundertealten Bäumen bieten.",
+            "hu": "Pihenjen a kastélyt körülvevő kiterjedt, gyönyörűen parkosított kertekben, amelyek tökéletes piknikezőhelyeket kínálnak az évszázados fák hűs árnyékában.",
+            "ro": "Relaxați-vă în grădinile întinse și frumos amenajate din jurul castelului, care oferă locuri perfecte pentru picnic sub copaci seculari în lunile calde.",
+            "en": "Relax in the expansive, beautifully landscaped gardens surrounding the castle, offering perfect picnic spots under century-old trees during the warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Saint-Priest",
+            "hu": "Fort de Saint-Priest",
+            "ro": "Fortul Saint-Priest",
+            "en": "Fort de Saint-Priest"
+          },
+          "coords": [
+            4.96631,
+            45.6947
+          ],
+          "category": "fortress",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robuste Militärarchitektur dieses beeindruckenden Forts aus dem 19. Jahrhundert bei einer Führung; buchen Sie Ihren Besuch im Voraus.",
+            "hu": "Fedezze fel ennek a 19. századi erődnek a robusztus katonai építészetét az izgalmas vezetett túrákon; érdemes előre lefoglalni a látogatás időpontját.",
+            "ro": "Explorați arhitectura militară robustă a acestui fort din secolul al XIX-lea prin tururi ghidate; este recomandat să vă rezervați vizita în avans.",
+            "en": "Explore the robust 19th-century military architecture of this impressive fort, which offers guided tours revealing its strategic past; book your visit in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Perches",
+            "hu": "Lac des Perches",
+            "ro": "Lac des Perches",
+            "en": "Lac des Perches"
+          },
+          "coords": [
+            4.93074,
+            45.717792
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Schönheit dieses Sees, ein Paradies für die Vogelwelt und Angler, und bringen Sie ein Fernglas für morgendliche Tierbeobachtungen mit.",
+            "hu": "Élvezze e békés tó nyugodt szépségét, amely a helyi madárvilág és a horgászok paradicsoma; hozzon magával távcsövet a kora reggeli madármegfigyeléshez.",
+            "ro": "Bucurați-vă de frumusețea liniștită a acestui lac, un refugiu pentru păsări și pasionații de pescuit; aduceți un binoclu pentru observarea faunei dimineața.",
+            "en": "Enjoy the tranquil beauty of this serene lake, a haven for local birdlife and fishing enthusiasts, and bring binoculars for early morning wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Feuilly",
+            "hu": "Lac Feuilly",
+            "ro": "Lac Feuilly",
+            "en": "Lac Feuilly"
+          },
+          "coords": [
+            4.927285,
+            45.71525
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang an den Ufern dieses malerischen kleinen Sees, der von üppiger Vegetation umgeben und perfekt für einen ruhigen Nachmittag ist.",
+            "hu": "Tegyen egy békés sétát ennek a festői, buja növényzettel körülvett kis tónak a partján, amely tökéletes helyszínt biztosít egy csendes délutáni olvasáshoz.",
+            "ro": "Faceți o plimbare pașnică pe malurile acestui mic lac pitoresc înconjurat de vegetație luxuriantă, perfect potrivit pentru o după-amiază liniștită de lectură.",
+            "en": "Take a peaceful stroll along the shores of this picturesque small lake surrounded by lush vegetation, perfectly suited for a quiet afternoon reading session."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pyramide",
+            "hu": "La Pyramide",
+            "ro": "La Pyramide",
+            "en": "La Pyramide"
+          },
+          "coords": [
+            4.950678,
+            45.689722
+          ],
+          "category": "family",
+          "arrive_at": "15:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive Ausstellungen in diesem markanten pyramidenförmigen Veranstaltungsort, der den ganzen Sommer über Workshops für Kinder anbietet.",
+            "hu": "Vegyen részt interaktív programokon ebben a jellegzetes piramis alakú központban, ahol egész nyáron izgalmas, családbarát kreatív workshopokat tartanak.",
+            "ro": "Bucurați-vă de expoziții interactive și activități pentru familie în această clădire în formă de piramidă, care oferă ateliere pentru copii pe timpul verii.",
+            "en": "Engage with interactive exhibits and family-friendly activities at this distinctive pyramid-shaped venue, where workshops for children run throughout the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am Château de Saint-Priest und spazieren Sie durch den angrenzenden Parc du Château. Mittags fahren Sie zum beeindruckenden Fort de Saint-Priest für eine spannende Führung. Verbringen Sie den Nachmittag in der Natur an den Seen Lac des Perches und Lac Feuilly. Abends besuchen Sie die markante La Pyramide für Familienunterhaltung.",
+        "hu": "Kezdje autós túráját a történelmi Château de Saint-Priest kastélynál, és tegyen egy sétát a Parc du Château kertjeiben. Délben vezessen át a Fort de Saint-Priest lenyűgöző katonai erődjéhez. A délutánt a Lac des Perches és a közeli Lac Feuilly tavak természetes nyugalmában töltheti. Kora este látogasson el a különleges La Pyramide családbarát központjába.",
+        "ro": "Începeți turul cu mașina la Château de Saint-Priest și faceți o plimbare în Parc du Château. La prânz, conduceți spre impresionantul Fort de Saint-Priest pentru o lecție de istorie. Petreceți după-amiaza bucurându-vă de liniștea naturală oferită de Lac des Perches și Lac Feuilly. Seara, îndreptați-vă către La Pyramide pentru divertisment în familie.",
+        "en": "Begin your driving tour at the historic Château de Saint-Priest, exploring its grand architecture before taking a short walk in the adjacent Parc du Château. Midday drives you out to the impressive military structures of Fort de Saint-Priest for a guided tour. Spend your afternoon enjoying the natural tranquility of Lac des Perches and the nearby Lac Feuilly. As evening falls, head to the iconic La Pyramide for engaging family entertainment."
+      }
+    }
+  }
+}

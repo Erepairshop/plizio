@@ -1,0 +1,474 @@
+{
+  "city_id": "le-lavandou",
+  "anchor": {
+    "name": "Le Lavandou",
+    "coords": [
+      6.3678,
+      43.1378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Le Lavandou",
+            "hu": "Le Lavandou kikötője",
+            "ro": "Portul din Le Lavandou",
+            "en": "Port of Le Lavandou"
+          },
+          "coords": [
+            6.3741,
+            43.13696
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Yachten und Fischerboote in diesem belebten Yachthafen, denn hier schlägt das maritime Herz der Stadt; kommen Sie früh, um die frischeste Brise zu genießen.",
+            "hu": "Csodálja meg a jachtokat és halászhajókat a nyüzsgő kikötőben, hiszen itt dobog a város tengeri szíve; érkezzen korán, hogy élvezze a legfrissebb reggeli szellőt.",
+            "ro": "Admirați iahturile și bărcile de pescari în acest port plin de viață, deoarece aici este inima maritimă a orașului; veniți devreme pentru a vă bucura de briza proaspătă.",
+            "en": "Admire the yachts and fishing boats in this bustling marina, as this is the maritime heart of the town; arrive early to enjoy the freshest morning breeze along the docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstrand von Le Lavandou",
+            "hu": "Le Lavandou fő strandja",
+            "ro": "Plaja din Le Lavandou",
+            "en": "Le Lavandou Beach"
+          },
+          "coords": [
+            6.366332,
+            43.135418
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das klare Wasser am Hauptstrand der Stadt, der perfekt für Familien ist; bringen Sie Ihre eigene Strandmatte für mehr Komfort mit.",
+            "hu": "Élvezze a finom homokot és a tiszta vizet a város fő strandján, mely ideális családoknak; hozzon magával saját strandmatracot a maximális kényelem és pihenés érdekében.",
+            "ro": "Bucurați-vă de nisipul fin și apa limpede la plaja principală a orașului, care este perfectă pentru familii; aduceți-vă propria rogojină de plajă pentru un confort maxim.",
+            "en": "Enjoy the fine sand and clear waters at the town's main beach, which is perfect for families; bring your own beach mat for maximum comfort and an easy spot to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Saint-Louis templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            6.370968,
+            43.13852
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche Gotteshaus mit seiner typisch provenzalischen Architektur, das Ruhe bietet; achten Sie auf die wunderschönen Buntglasfenster im Inneren.",
+            "hu": "Fedezze fel ezt a békés, tipikusan provanszi építészetű templomot, mely igazi nyugalmat áraszt; figyelje meg a csodálatos ólomüveg ablakokat a hűvös belső térben.",
+            "ro": "Descoperiți acest lăcaș de cult pașnic cu arhitectură tipic provensală, care oferă un refugiu liniștit; acordați atenție vitraliilor superbe din interiorul răcoros.",
+            "en": "Discover this peaceful church featuring typical Provencal architecture that offers a quiet retreat; pay attention to the gorgeous stained glass windows in the cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Saint-Clair",
+            "hu": "Saint-Clair strand",
+            "ro": "Plaja Saint-Clair",
+            "en": "Saint-Clair Beach"
+          },
+          "coords": [
+            6.380807,
+            43.139252
+          ],
+          "category": "natural",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der für sein kristallklares Wasser berühmt ist; kommen Sie außerhalb der Hauptsaison, um den Menschenmassen zu entgehen.",
+            "hu": "Pihenjen ezen a festői strandon, amely kristálytiszta vizéről híres; érdemes a főszezonon kívül érkezni, hogy elkerülje a tömeget és élvezze a természet csendjét.",
+            "ro": "Relaxați-vă pe această plajă pitorească, renumită pentru apele sale cristaline; este recomandat să veniți în afara sezonului de vârf pentru a evita aglomerația.",
+            "en": "Relax on this picturesque beach that is famous for its crystal-clear waters and lovely setting; try to arrive outside of peak season to avoid crowds and secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Théo",
+            "hu": "Villa Théo",
+            "ro": "Villa Théo",
+            "en": "Villa Théo"
+          },
+          "coords": [
+            6.381806,
+            43.145457
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Haus, das heute als Kunstzentrum dient und Werke lokaler Künstler zeigt; prüfen Sie die aktuellen Ausstellungszeiten vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely ma művészeti központként helyi alkotók munkáit mutatja be; látogatás előtt érdemes ellenőrizni az aktuális kiállítások nyitvatartását.",
+            "ro": "Explorați această casă istorică, acum centru de artă ce expune lucrări ale artiștilor locali; verificați programul expozițiilor actuale înainte de a vă planifica vizita.",
+            "en": "Explore this historic house, which now serves as an art center showcasing works by local artists; make sure to check the current exhibition hours before planning your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Hafen, beobachten Sie die Boote und atmen Sie die salzige Meeresluft ein. Am Vormittag bietet der Hauptstrand perfekte Bedingungen zum Entspannen. Nachmittags erwartet Sie die Kirche Saint-Louis mit ihrer charmanten Architektur und friedlichen Atmosphäre, bevor Sie zum malerischen Strand Saint-Clair weiterspazieren. Den Abend lassen Sie in der Villa Théo ausklingen.",
+        "hu": "Kezdje a reggelt a kikötőben, figyelje a ringatózó hajókat, és szívja magába a tengeri levegőt. Délelőtt a fő strand tökéletes pihenést kínál a lágy homokon. Délután várja a Saint-Louis templom bájos építészete, majd folytassa útját a festői Saint-Clair partjára. Az estét a Villa Théo művészeti kiállításainak és történelmi aurájának felfedezésével zárhatja, mely tökéletes befejezés.",
+        "ro": "Începeți dimineața la port, admirând bărcile și bucurându-vă de aerul proaspăt al mării Mediterane. Până la prânz, plaja principală din Le Lavandou vă oferă soare și relaxare. După-amiaza, descoperiți farmecul bisericii Saint-Louis și frumusețea ascunsă a plajei Saint-Clair. Încheiați ziua explorând expozițiile fascinante de artă de la Villa Théo, un loc plin de istorie și cultură.",
+        "en": "Start your morning at the bustling port, watching the boats while breathing in the fresh sea air. By late morning, the main beach offers perfect conditions for sunbathing and relaxation. In the afternoon, discover the charming architecture of Saint-Louis Church before strolling to the picturesque Saint-Clair Beach. End your evening taking in the wonderful art exhibitions at historic Villa Théo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Le Lavandou",
+            "hu": "Le Lavandou kikötője",
+            "ro": "Portul din Le Lavandou",
+            "en": "Port of Le Lavandou"
+          },
+          "coords": [
+            6.3741,
+            43.13696
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Yachten und Fischerboote in diesem belebten Yachthafen, denn hier schlägt das maritime Herz der Stadt; kommen Sie früh, um die frischeste Brise zu genießen.",
+            "hu": "Csodálja meg a jachtokat és halászhajókat a nyüzsgő kikötőben, hiszen itt dobog a város tengeri szíve; érkezzen korán, hogy élvezze a legfrissebb reggeli szellőt.",
+            "ro": "Admirați iahturile și bărcile de pescari în acest port plin de viață, deoarece aici este inima maritimă a orașului; veniți devreme pentru a vă bucura de briza proaspătă.",
+            "en": "Admire the yachts and fishing boats in this bustling marina, as this is the maritime heart of the town; arrive early to enjoy the freshest morning breeze along the docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Théo",
+            "hu": "Villa Théo",
+            "ro": "Villa Théo",
+            "en": "Villa Théo"
+          },
+          "coords": [
+            6.381806,
+            43.145457
+          ],
+          "category": "museum",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Haus, das heute als Kunstzentrum dient und Werke lokaler Künstler zeigt; prüfen Sie die aktuellen Ausstellungszeiten vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely ma művészeti központként helyi alkotók munkáit mutatja be; látogatás előtt érdemes ellenőrizni az aktuális kiállítások nyitvatartását.",
+            "ro": "Explorați această casă istorică, acum centru de artă ce expune lucrări ale artiștilor locali; verificați programul expozițiilor actuale înainte de a vă planifica vizita.",
+            "en": "Explore this historic house, which now serves as an art center showcasing works by local artists; make sure to check the current exhibition hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Fossette",
+            "hu": "La Fossette strand",
+            "ro": "Plaja La Fossette",
+            "en": "Plage de la Fossette"
+          },
+          "coords": [
+            6.394933,
+            43.145305
+          ],
+          "category": "recreational",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Baden Sie in dieser ruhigeren Bucht, die von viel Grün umgeben ist und ideal zum Schnorcheln ist; Badeschuhe sind wegen einiger felsiger Stellen empfehlenswert.",
+            "hu": "Fürödjön ebben a csendesebb, zölddel körülvett öbölben, mely kiválóan alkalmas sznorkelezésre; a sziklás részek miatt fürdőcipő viselése erősen ajánlott.",
+            "ro": "Înotați în acest golf mai liniștit, înconjurat de verdeață și ideal pentru snorkeling; se recomandă purtarea pantofilor de apă din cauza unor zone stâncoase ascunse.",
+            "en": "Bathe in this quieter bay, which is surrounded by lush greenery and is ideal for snorkeling; wearing water shoes is highly recommended due to some hidden rocky areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Aiguebelle",
+            "hu": "Aiguebelle strand",
+            "ro": "Plaja Aiguebelle",
+            "en": "Plage d'Aiguebelle"
+          },
+          "coords": [
+            6.403158,
+            43.149152
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten Strand mit goldenem Sand, der auch als 'Die Reizende' bekannt ist; mieten Sie sich einen Liegestuhl für einen besonders entspannten Nachmittag.",
+            "hu": "Látogasson el erre az aranohomokos strandra, melyet 'Bájosnak' is neveznek; béreljen egy napágyat a maximális kényelemért egy igazán pihentető, tengerparti délutánhoz.",
+            "ro": "Vizitați această plajă fermecătoare cu nisip auriu, cunoscută și sub numele de 'Cea Fermecătoare'; închiriați un șezlong pentru o după-amiază extrem de relaxantă.",
+            "en": "Visit this charming beach with golden sand, affectionately known as 'The Charming One'; consider renting a sun lounger for a particularly relaxing afternoon by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Jean Blanc",
+            "hu": "Jean Blanc strand",
+            "ro": "Plaja Jean Blanc",
+            "en": "Plage de Jean Blanc"
+          },
+          "coords": [
+            6.412401,
+            43.149514
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wilden, von Pinien gesäumten Strand mit atemberaubend klarem Wasser; der steile Zugang erfordert gutes Schuhwerk, ist aber die Mühe absolut wert.",
+            "hu": "Fedezze fel ezt a vad, fenyőkkel szegélyezett strandot, melynek vize lenyűgözően tiszta; a meredek lejutás jó cipőt igényel, de a látvány és a nyugalom mindenért kárpótol.",
+            "ro": "Descoperiți această plajă sălbatică mărginită de pini, cu o apă uluitor de clară; accesul abrupt necesită încălțăminte bună, dar peisajul merită din plin efortul.",
+            "en": "Discover this wild, pine-fringed beach that boasts breathtakingly clear waters; the steep access requires good footwear, but the spectacular scenery is absolutely worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Le Layet",
+            "hu": "Le Layet strand",
+            "ro": "Plaja Le Layet",
+            "en": "Plage du Layet"
+          },
+          "coords": [
+            6.420387,
+            43.148329
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die entspannte Atmosphäre an diesem kleinen, feinen Sandstrand, der bei Einheimischen beliebt ist; bringen Sie eigene Snacks mit, da die Auswahl begrenzt ist.",
+            "hu": "Tapasztalja meg a laza hangulatot ezen a kis, finom homokos strandon, melyet a helyiek is kedvelnek; hozzon magával saját rágcsálnivalót, mivel az ellátás meglehetősen korlátozott.",
+            "ro": "Experimentați atmosfera relaxată de pe această plajă mică, cu nisip fin, foarte populară printre localnici; aduceți propriile gustări, deoarece opțiunile sunt destul de limitate.",
+            "en": "Experience the relaxed atmosphere at this small, fine sandy beach that is very popular with locals; bring your own snacks as the options for purchasing food are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pramousquier",
+            "hu": "Pramousquier strand",
+            "ro": "Plaja Pramousquier",
+            "en": "Plage de Pramousquier"
+          },
+          "coords": [
+            6.447719,
+            43.152103
+          ],
+          "category": "recreational",
+          "arrive_at": "16:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem weitläufigen Strand ausklingen, der dunkleren Sand und ruhiges Wasser bietet; ideal für einen romantischen Abendspaziergang bei Sonnenuntergang.",
+            "hu": "Zárja a napot ezen a tágas strandon, amely sötétebb homokot és kifejezetten nyugodt vizet kínál; ez a hely ideális egy romantikus, naplemente körüli esti tengerparti sétához.",
+            "ro": "Încheiați ziua pe această plajă întinsă, care oferă un nisip mai închis la culoare și ape liniștite; este locul ideal pentru o plimbare romantică la lăsarea serii, pe malul mării.",
+            "en": "End your day at this spacious beach, which offers darker sand and calm, inviting waters; it is an ideal location for a romantic evening stroll as the sun sets over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am lebhaften Hafen, gefolgt von einer kunstvollen Entdeckung in der Villa Théo. Mittags radeln Sie entlang der Küste zum ruhigen Strand de la Fossette. Der Nachmittag ist geprägt von Buchten-Hopping über Aiguebelle, Jean Blanc und Layet, wo jede Bucht ihren eigenen Reiz hat. Abends erreichen Sie den weitläufigen Strand von Pramousquier für einen entspannten Tagesabschluss.",
+        "hu": "A kerékpártúra a nyüzsgő kikötőből indul, majd a Villa Théo lenyűgöző művészeti gyűjteményével folytatódik. Délben a part mentén tekerjen a nyugodt Plage de la Fossette-hez. A délután folyamán egymást követik a csodálatos öblök: Aiguebelle, Jean Blanc és Layet várja önt kristálytiszta vízzel. Estére megérkezik a tágas Pramousquier strandra, ahol megpihenhet egy fárasztó de szép nap után.",
+        "ro": "Turul cu bicicleta începe în portul plin de viață, urmat de o incursiune culturală la Villa Théo. La amiază, pedalați de-a lungul coastei pitorești spre plaja liniștită Fossette. După-amiaza este dedicată descoperirii unor golfuri fermecătoare precum Aiguebelle, Jean Blanc și Layet, fiecare cu o frumusețe aparte. Seara, ajungeți la plaja întinsă Pramousquier pentru a vă relaxa la apus.",
+        "en": "Your cycling tour begins at the vibrant port, followed by an inspiring cultural stop at Villa Théo. At midday, ride along the stunning coastline to the peaceful Plage de la Fossette. The afternoon is a wonderful beach-hopping adventure visiting the picturesque bays of Aiguebelle, Jean Blanc, and Layet. By evening, you'll reach the spacious Pramousquier Beach for a relaxing sunset finish."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 13.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Cabasson",
+            "hu": "Cabasson strand",
+            "ro": "Plaja Cabasson",
+            "en": "Plage de Cabasson"
+          },
+          "coords": [
+            6.32429,
+            43.099421
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den herrlichen Blick auf das Fort de Brégançon von diesem geschützten Naturstrand aus; achten Sie auf die Parkgebühren in der Hochsaison.",
+            "hu": "Élvezze a lenyűgöző kilátást a Fort de Brégançonra erről a védett, természetes strandról; főszezonban érdemes előre felkészülni a parkolási díjakra és a helyhiányra.",
+            "ro": "Bucurați-vă de vederea magnifică spre Fort de Brégançon de pe această plajă naturală protejată; fiți atenți la taxele de parcare care pot fi destul de ridicate în sezonul de vârf.",
+            "en": "Enjoy the magnificent view of the Fort de Brégançon from this beautifully protected natural beach; be mindful of parking fees which can be quite high during the peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad (Sentier du Littoral)",
+            "hu": "Parti ösvény (Sentier du Littoral)",
+            "ro": "Poteca de coastă (Sentier du Littoral)",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            6.346591,
+            43.089897
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der zerklüfteten Küste und genießen Sie spektakuläre Ausblicke auf das tiefblaue Meer; feste Wanderschuhe und ausreichend Wasser sind ein Muss.",
+            "hu": "Túrázzon a csipkézett partvidék mentén, ahonnan látványos kilátás nyílik a mélykék tengerre; a kényelmes túracipő és a bőséges ivóvíz feltétlenül szükséges ezen az útvonalon.",
+            "ro": "Drumeți de-a lungul coastei accidentate și bucurați-vă de priveliști spectaculoase asupra mării de un albastru profund; încălțămintea robustă și apa din belșug sunt absolut necesare.",
+            "en": "Hike along the rugged coastline to enjoy truly spectacular panoramic views of the deep blue sea; wearing sturdy walking shoes and bringing plenty of water is an absolute must."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de la Tripe",
+            "hu": "Calanque de la Tripe",
+            "ro": "Calanque de la Tripe",
+            "en": "Calanque de la Tripe"
+          },
+          "coords": [
+            6.343784,
+            43.090882
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte kleine Bucht, die durch ihre wilde Schönheit und Abgeschiedenheit besticht; ideal für Fotografen, die unberührte Naturmotive suchen.",
+            "hu": "Fedezze fel ezt a rejtett kis öblöt, mely vad szépségével és lenyűgöző elszigeteltségével hódít; kiváló célpont fotósoknak, akik érintetlen természeti motívumokat keresnek itt.",
+            "ro": "Descoperiți acest mic golf ascuns, care impresionează prin frumusețea sa sălbatică și izolarea deplină; este un loc ideal pentru fotografii care caută motive naturale intacte.",
+            "en": "Discover this hidden little cove, which impresses with its wild, untamed beauty and perfect isolation; it is an ideal spot for photographers seeking truly untouched natural scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Saint-Louis templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            6.370968,
+            43.13852
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche Gotteshaus mit seiner typisch provenzalischen Architektur, das Ruhe bietet; achten Sie auf die wunderschönen Buntglasfenster im Inneren.",
+            "hu": "Fedezze fel ezt a békés, tipikusan provanszi építészetű templomot, mely igazi nyugalmat áraszt; figyelje meg a csodálatos ólomüveg ablakokat a hűvös belső térben.",
+            "ro": "Descoperiți acest lăcaș de cult pașnic cu arhitectură tipic provensală, care oferă un refugiu liniștit; acordați atenție vitraliilor superbe din interiorul răcoros.",
+            "en": "Discover this peaceful church featuring typical Provencal architecture that offers a quiet retreat; pay attention to the gorgeous stained glass windows in the cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Théo",
+            "hu": "Villa Théo",
+            "ro": "Villa Théo",
+            "en": "Villa Théo"
+          },
+          "coords": [
+            6.381806,
+            43.145457
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Haus, das heute als Kunstzentrum dient und Werke lokaler Künstler zeigt; prüfen Sie die aktuellen Ausstellungszeiten vor Ihrem Besuch.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely ma művészeti központként helyi alkotók munkáit mutatja be; látogatás előtt érdemes ellenőrizni az aktuális kiállítások nyitvatartását.",
+            "ro": "Explorați această casă istorică, acum centru de artă ce expune lucrări ale artiștilor locali; verificați programul expozițiilor actuale înainte de a vă planifica vizita.",
+            "en": "Explore this historic house, which now serves as an art center showcasing works by local artists; make sure to check the current exhibition hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Cavalière",
+            "hu": "Cavalière strand",
+            "ro": "Plaja Cavalière",
+            "en": "Plage de Cavalière"
+          },
+          "coords": [
+            6.430173,
+            43.150378
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Erleben Sie diesen großen Familienstrand, der eine breite Palette an tollen Wassersportaktivitäten bietet; perfekt für alle, die neben dem Sonnenbaden auch etwas Action suchen.",
+            "hu": "Tapasztalja meg ezt a hatalmas családi strandot, amely a vízi sportok lenyűgözően széles választékát kínálja; tökéletes azoknak, akik a napozás mellett némi aktív kikapcsolódást is keresnek.",
+            "ro": "Experimentați această plajă mare pentru familii, care oferă o gamă largă de sporturi nautice excelente; perfectă pentru oricine caută puțină acțiune pe lângă clasica plajă.",
+            "en": "Experience this large family-friendly beach, which offers a wonderfully wide range of great water sports; it is perfect for anyone looking for some action in addition to sunbathing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Plage de Cabasson und genießen Sie die unberührte Naturkulisse. Der Vormittag lädt zu einer Wanderung auf dem Küstenpfad und einem Stopp an der Calanque de la Tripe ein. Nachmittags fahren Sie zurück ins Zentrum, um die Kirche Saint-Louis und die Villa Théo zu besichtigen. Den Abend verbringen Sie am feinsandigen Strand von Cavalière bei einem herrlichen Sonnenuntergang.",
+        "hu": "Autózzon reggel a Plage de Cabassonhoz, és élvezze az érintetlen természeti környezetet. A délelőtt egy felfedező sétára hív a festői parti ösvényen és a Calanque de la Tripe-nél. Délután visszatérve a központba, tekintse meg a Saint-Louis templomot és a történelmi Villa Théo-t. Az estét a gyönyörű Cavalière strandon töltheti, figyelve a lenyugvó nap sugarait a nyugodt tenger felett.",
+        "ro": "Conduceți dimineața spre plaja Cabasson, bucurându-vă de peisajul natural spectaculos și sălbatic. La prânz, explorați poteca de coastă și opriți-vă la fermecătoarea Calanque de la Tripe. După-amiaza, reveniți în centrul orașului pentru a vizita biserica Saint-Louis și fascinanta Villa Théo. Seara este perfectă pentru a vă relaxa pe nisipul fin al plajei Cavalière în timp ce admirați apusul.",
+        "en": "Drive out to Plage de Cabasson in the morning to experience a truly unspoiled natural setting. Midday invites you to explore the stunning Coastal Path and the hidden Calanque de la Tripe. In the afternoon, head back to town to visit the charming Saint-Louis Church and the historic Villa Théo. Spend your evening relaxing on the fine sands of Cavalière Beach as the sun sets over the sea."
+      }
+    }
+  }
+}

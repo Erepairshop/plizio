@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-cupra-marittima-cities-v2",
+  "anchor": {
+    "name": "Cupra Marittima",
+    "coords": [
+      13.85876,
+      43.02502
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:04",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Basso",
+            "hu": "Chiesa di San Basso",
+            "ro": "Chiesa di San Basso",
+            "en": "Chiesa di San Basso"
+          },
+          "coords": [
+            13.857929,
+            43.024818
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken und die ruhige Atmosphäre dieser alten Kirche, und überprüfen Sie die Öffnungszeiten an der Tür vor Ihrem Besuch.",
+            "hu": "Csodálja meg a gyönyörű freskókat és az ősi templom békés hangulatát, de látogatás előtt mindenképpen ellenőrizze a bejáratnál kifüggesztett nyitvatartást.",
+            "ro": "Admirați frescele frumoase și atmosfera senină a acestei biserici antice și asigurați-vă că verificați programul pe ușă înainte de a vă planifica vizita.",
+            "en": "Admire the beautiful frescoes and serene atmosphere of this ancient church, and be sure to check the opening hours on the door before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Museo Archeologico",
+            "ro": "Museo Archeologico",
+            "en": "Museo Archeologico"
+          },
+          "coords": [
+            13.856909,
+            43.021905
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Picener durch faszinierende lokale Artefakte, aber bringen Sie eine leichte Jacke mit, da die Räume recht kühl sind.",
+            "hu": "Fedezze fel a picenusok gazdag történelmét a lenyűgöző helyi leleteken keresztül, de hozzon magával egy könnyű kabátot, mert a kiállítótermek elég hűvösek.",
+            "ro": "Descoperiți istoria bogată a picenilor prin artefacte locale fascinante, dar nu uitați să luați o jachetă ușoară, deoarece sălile de expoziție sunt destul de răcoroase.",
+            "en": "Discover the rich Picene history through fascinating local artifacts, but remember to bring a light jacket as the exhibition rooms are kept quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Giorgio Calcagno",
+            "hu": "Belvedere Giorgio Calcagno",
+            "ro": "Belvedere Giorgio Calcagno",
+            "en": "Belvedere Giorgio Calcagno"
+          },
+          "coords": [
+            13.857869,
+            43.022354
+          ],
+          "category": "natural",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Adriaküste von dieser bezaubernden Terrasse, und kommen Sie an einem klaren Morgen für das beste Licht.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Adriai-partra erről a bájos teraszról, és próbáljon meg egy tiszta reggelen érkezni a legjobb fotós fényekért.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale coastei Adriatice de pe această terasă fermecătoare și încercați să ajungeți într-o dimineață senină pentru fotografii.",
+            "en": "Enjoy breathtaking panoramic views of the Adriatic coast from this charming terrace, and try to arrive on a clear morning for the best photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Sentiero Naturalistico",
+            "hu": "Sentiero Naturalistico",
+            "ro": "Sentiero Naturalistico",
+            "en": "Sentiero Naturalistico"
+          },
+          "coords": [
+            13.8589,
+            43.023727
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie auf diesem malerischen Naturpfad umgeben von üppiger mediterraner Vegetation, und tragen Sie bequeme Schuhe, um die unebenen Wege sicher zu meistern.",
+            "hu": "Sétáljon ezen a festői ösvényen a buja mediterrán növényzet között, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson az enyhén egyenetlen szakaszokon.",
+            "ro": "Plimbați-vă de-a lungul acestui traseu pitoresc înconjurat de vegetație mediteraneană luxuriantă, purtând pantofi confortabili pentru a naviga în siguranță pe cărări.",
+            "en": "Stroll along this scenic nature trail surrounded by lush Mediterranean vegetation, wearing comfortable walking shoes to navigate the slightly uneven paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalet La Cuna",
+            "hu": "Chalet La Cuna",
+            "ro": "Chalet La Cuna",
+            "en": "Chalet La Cuna"
+          },
+          "coords": [
+            13.861184,
+            43.02457
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand und genießen Sie das Küstenflair an diesem lebhaften Ort, wo ein erfrischendes lokales Getränk die perfekte Nachmittagspause abrundet.",
+            "hu": "Pihenjen a homokos tengerparton, és élvezze a part menti hangulatot ezen a nyüzsgő helyen, ahol egy frissítő helyi ital teszi teljessé a tökéletes délutáni szünetet.",
+            "ro": "Relaxați-vă pe plaja cu nisip și bucurați-vă de atmosfera de coastă în acest loc plin de viață, unde comandarea unei băuturi locale desăvârșește pauza de după-amiază.",
+            "en": "Relax on the sandy beach and soak up the coastal vibe at this lively spot, where ordering a refreshing local beverage completes a perfect afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im friedlichen Zentrum bei der Chiesa di San Basso, wo Sie die ruhige historische Atmosphäre auf sich wirken lassen können. Ein kurzer Spaziergang führt Sie zum Museo Archeologico mit seinen antiken picenischen Artefakten.\n\nGegen Mittag schlendern Sie zum atemberaubenden Belvedere Giorgio Calcagno, um die endlose Aussicht auf die blaue Adria in vollen Zügen zu genießen.\n\nDer Nachmittag lädt Sie ein, sich auf dem sanft gewundenen Sentiero Naturalistico mit der Natur zu verbinden, wo die mediterrane Flora in der salzigen Meeresbrise gedeiht.\n\nBeenden Sie Ihre Tour am Chalet La Cuna, einem Strandlokal, wo Sie im Sand entspannen und die Farben des Abends bewundern können.",
+        "hu": "A reggel a békés városközpontban, a Chiesa di San Basso templomnál indul. Egy rövid séta elvezet a Museo Archeologico épületéhez, amely a régió legkorábbi lakóinak történetét meséli el az ősi picenus leleteken keresztül.\n\nDélben sétáljon a lélegzetelállító Belvedere Giorgio Calcagno felé, és csodálja meg a kék Adriai-tengerre nyíló végtelen kilátást és a tengerpart szépségét.\n\nA délután a természettel való kapcsolódásra hív a lágyan kanyargó Sentiero Naturalistico mentén, ahol a sós tengeri szélben virágzik a mediterrán növényvilág.\n\nZárja a gyalogtúrát a Chalet La Cuna nyüzsgő tengerparti pontjánál, ahol megpihenhet a homokban, és élvezheti a gyönyörű esti színeket a víz felett.",
+        "ro": "Dimineața începe în inima pașnică a orașului la Chiesa di San Basso. O scurtă plimbare vă duce la Museo Archeologico, plin de artefacte antice picene care spun povestea celor mai vechi locuitori ai regiunii fascinante.\n\nLa amiază, mergeți spre uluitorul Belvedere Giorgio Calcagno pentru a admira priveliștile nesfârșite ale Mării Adriatice albastre și a vă bucura de briza proaspătă.\n\nDupă-amiaza vă invită să vă conectați cu natura pe Sentiero Naturalistico, un traseu șerpuit unde flora mediteraneană înflorește în adierea sărată a mării.\n\nÎncheiați turul la Chalet La Cuna, un loc plin de viață pe plajă unde vă puteți relaxa pe nisip și vă puteți bucura de culorile frumoase ale serii peste apă.",
+        "en": "Morning begins in the peaceful heart of the town at Chiesa di San Basso, where you can absorb the quiet historical atmosphere. A short stroll leads to the Museo Archeologico, filled with ancient Picene artifacts that tell the story of the region's earliest inhabitants.\n\nBy midday, walk towards the breathtaking Belvedere Giorgio Calcagno to admire the endless views of the blue Adriatic Sea.\n\nThe afternoon invites you to connect with nature along the gently winding Sentiero Naturalistico, where the Mediterranean flora flourishes in the salty sea breeze.\n\nConclude your walking tour at Chalet La Cuna, a lively beach spot where you can relax on the sands and enjoy the beautiful evening colors over the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Nazzareno Tomassetti",
+            "hu": "Casa Museo Nazzareno Tomassetti",
+            "ro": "Casa Museo Nazzareno Tomassetti",
+            "en": "Casa Museo Nazzareno Tomassetti"
+          },
+          "coords": [
+            13.860303,
+            43.022525
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die fantasievollen Skulpturen und den Arbeitsplatz des lokalen Künstlers, und sprechen Sie mit den freundlichen Kuratoren für tiefere Einblicke.",
+            "hu": "Fedezze fel a helyi művész fantáziadús szobrait és alkotóműhelyét, és szánjon időt a barátságos kurátorokkal való beszélgetésre a mélyebb betekintés érdekében.",
+            "ro": "Explorați sculpturile pline de imaginație și spațiul de lucru al artistului local, făcându-vă timp pentru a discuta cu curatorii pentru a înțelege mai bine viața sa.",
+            "en": "Explore the imaginative sculptures and creative workspace of the local artist, taking time to chat with the friendly curators for deeper insights into his life."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana con ninfeo",
+            "hu": "Villa romana con ninfeo",
+            "ro": "Villa romana con ninfeo",
+            "en": "Villa romana con ninfeo"
+          },
+          "coords": [
+            13.857292,
+            43.029277
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, um das bemerkenswert erhaltene römische Nymphäum zu sehen, und verwenden Sie ein polarisiertes Objektiv für die besten Fotodetails.",
+            "hu": "Lépjen vissza az időben a figyelemreméltóan fennmaradt római nymphaeum megtekintéséhez, és használjon polárszűrőt a kameráján a legjobb részletek megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp pentru a vedea nimfeul roman și ruinele antice remarcabil de bine conservate și folosiți o lentilă polarizată pentru a surprinde cele mai bune detalii.",
+            "en": "Step back in time to view the remarkably preserved Roman nymphaeum and ancient ruins, and use a polarized lens on your camera to capture the best details."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Archeologico Naturalistico",
+            "hu": "Parco Archeologico Naturalistico",
+            "ro": "Parco Archeologico Naturalistico",
+            "en": "Parco Archeologico Naturalistico"
+          },
+          "coords": [
+            13.853408,
+            43.034166
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen Park, der archäologische Funde mit der Natur verbindet, und bringen Sie eine Wasserflasche mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Barangoljon ebben a hatalmas parkban, amely ötvözi az ősi régészeti leleteket a természettel, de hozzon magával kulacsot, mert a belső létesítmények korlátozottak.",
+            "ro": "Plimbați-vă prin acest parc care îmbină descoperirile arheologice antice cu natura, asigurându-vă că aduceți o sticlă de apă, deoarece facilitățile sunt destul de limitate.",
+            "en": "Wander through this expansive park blending ancient archaeological finds with nature, ensuring you bring a water bottle since facilities are somewhat limited inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Padre Erminio Martelli",
+            "hu": "Anfiteatro Padre Erminio Martelli",
+            "ro": "Anfiteatro Padre Erminio Martelli",
+            "en": "Anfiteatro Padre Erminio Martelli"
+          },
+          "coords": [
+            13.858261,
+            43.035036
+          ],
+          "category": "cultural",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erleben Sie die beeindruckende Akustik dieses Freiluft-Amphitheaters, und überprüfen Sie den lokalen Veranstaltungskalender, da hier oft Freiluft-Events stattfinden.",
+            "hu": "Tapasztalja meg a szabadtéri amfiteátrum lenyűgöző akusztikáját, és előzetesen ellenőrizze a programot, mivel időnként szabadtéri rendezvényeknek is otthont ad.",
+            "ro": "Experimentați acustica impresionantă a acestui amfiteatru în aer liber, verificând programul în prealabil, deoarece uneori găzduiește evenimente și spectacole.",
+            "en": "Experience the impressive acoustics and historical ambiance of this outdoor amphitheater, checking the local schedule beforehand as it sometimes hosts open-air events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Malacologico Piceno",
+            "hu": "Museo Malacologico Piceno",
+            "ro": "Museo Malacologico Piceno",
+            "en": "Museo Malacologico Piceno"
+          },
+          "coords": [
+            13.855613,
+            43.038809
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eine der weltgrößten Sammlungen von Muscheln in diesem einzigartigen Museum, und nehmen Sie sich viel Zeit für die detaillierten Mikromuscheln.",
+            "hu": "Csodálja meg a világ egyik legnagyobb tengerikagyló-gyűjteményét ebben a múzeumban, és szánjon bőséges időt a hihetetlenül részletes mikrokagylók megtekintésére.",
+            "ro": "Minunați-vă de una dintre cele mai mari colecții de scoici din lume în acest muzeu unic, acordându-vă suficient timp pentru a viziona micro-scoicile incredibil de detaliate.",
+            "en": "Marvel at one of the world's largest collections of sea shells in this unique museum, allowing yourself plenty of time to view the incredibly detailed micro-shells."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung lokaler Kreativität im Casa Museo Nazzareno Tomassetti. Von dort radeln Sie nach Norden, um die bemerkenswert erhaltene Villa romana con ninfeo in Ruhe zu entdecken.\n\nMittags erreichen Sie den weitläufigen Parco Archeologico Naturalistico. Hier können Sie sanft über Wege fahren, die antike Geschichte wunderbar mit der ruhigen Natur verbinden.\n\nAm Nachmittag besuchen Sie das Anfiteatro Padre Erminio Martelli. Seine beeindruckende Struktur bietet einen faszinierenden Einblick in die klassische Vergangenheit und Kultur.\n\nIhre Radtour endet am Museo Malacologico Piceno, wo Sie eine erstaunlich große Muschelsammlung bestaunen können, bevor Sie am Abend entspannt zurückfahren.",
+        "hu": "Kezdje kerékpáros napját a helyi kreativitás felfedezésével a Casa Museo Nazzareno Tomassetti-ben. Innen tekerjen északra, hogy felfedezze a figyelemre méltóan fennmaradt Villa romana con ninfeo-t.\n\nA dél a kiterjedt Parco Archeologico Naturalistico-hoz vezet. Itt kényelmesen gurulhat olyan ösvényeken, amelyek gyönyörűen ötvözik az ókori történelmet a csendes természeti környezettel.\n\nDélután látogasson el az Anfiteatro Padre Erminio Martelli-hez. A lenyűgöző építmény lenyűgöző bepillantást enged a klasszikus múltba és a helyi kulturális örökségbe.\n\nKerékpárútja a Museo Malacologico Piceno-nál ér véget, ahol megcsodálhatja a lenyűgöző kagylógyűjteményt, mielőtt egy békés esti tekeréssel visszatérne a kiindulópontra.",
+        "ro": "Începeți ziua de ciclism explorând creativitatea la Casa Museo Nazzareno Tomassetti. De acolo, pedalați spre nord pentru a descoperi Villa romana con ninfeo, un sit roman remarcabil de bine conservat.\n\nLa amiază ajungeți în Parco Archeologico Naturalistico. Aici vă puteți plimba pe cărări care îmbină frumos istoria antică cu mediul natural liniștit și relaxant al zonei.\n\nDupă-amiaza, vizitați Anfiteatro Padre Erminio Martelli. Structura sa impresionantă oferă o privire fascinantă asupra trecutului clasic și a patrimoniului cultural local.\n\nCălătoria se termină la Museo Malacologico Piceno, unde puteți admira o colecție uimitor de mare de scoici înainte de o plimbare liniștită de seară spre casă.",
+        "en": "Start your cycling day exploring local creativity at Casa Museo Nazzareno Tomassetti, setting an inspiring tone for the morning. From there, pedal north to uncover the remarkably preserved Villa romana con ninfeo.\n\nMidday brings you to the sprawling Parco Archeologico Naturalistico. Here, you can gently ride through pathways that beautifully merge ancient history with the tranquil natural environment.\n\nIn the afternoon, visit the Anfiteatro Padre Erminio Martelli. Its impressive structure offers a fascinating glimpse into the classical past and local cultural heritage.\n\nYour bike journey finishes at the Museo Malacologico Piceno, where you can marvel at an astoundingly large collection of shells before a peaceful evening ride back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 2.64,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Sant'Andrea",
+            "hu": "Castello di Sant'Andrea",
+            "ro": "Castello di Sant'Andrea",
+            "en": "Castello di Sant'Andrea"
+          },
+          "coords": [
+            13.859763,
+            43.01642
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser historischen Burg auf dem Hügel für einen herrlichen Meerblick hinauf, und seien Sie vorsichtig auf den steilen und rutschigen Wegen.",
+            "hu": "Sétáljon fel ennek a történelmi hegytetőn álló kastélynak a romjaihoz a tengerre néző csodás kilátásért, de ügyeljen a meredek feljárókra, amelyek nedvesen csúszósak lehetnek.",
+            "ro": "Urcați la ruinele acestui castel istoric de pe deal pentru vederi impresionante asupra mării, având grijă la abordările abrupte care pot fi destul de alunecoase.",
+            "en": "Walk up to the ruins of this historic hilltop castle for commanding views over the sea, taking care on the steep approaches which can be quite slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Museo Archeologico",
+            "ro": "Museo Archeologico",
+            "en": "Museo Archeologico"
+          },
+          "coords": [
+            13.856909,
+            43.021905
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Picener durch faszinierende lokale Artefakte, aber bringen Sie eine leichte Jacke mit, da die Räume recht kühl sind.",
+            "hu": "Fedezze fel a picenusok gazdag történelmét a lenyűgöző helyi leleteken keresztül, de hozzon magával egy könnyű kabátot, mert a kiállítótermek elég hűvösek.",
+            "ro": "Descoperiți istoria bogată a picenilor prin artefacte locale fascinante, dar nu uitați să luați o jachetă ușoară, deoarece sălile de expoziție sunt destul de răcoroase.",
+            "en": "Discover the rich Picene history through fascinating local artifacts, but remember to bring a light jacket as the exhibition rooms are kept quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana con ninfeo",
+            "hu": "Villa romana con ninfeo",
+            "ro": "Villa romana con ninfeo",
+            "en": "Villa romana con ninfeo"
+          },
+          "coords": [
+            13.857292,
+            43.029277
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, um das bemerkenswert erhaltene römische Nymphäum zu sehen, und verwenden Sie ein polarisiertes Objektiv für die besten Fotodetails.",
+            "hu": "Lépjen vissza az időben a figyelemreméltóan fennmaradt római nymphaeum megtekintéséhez, és használjon polárszűrőt a kameráján a legjobb részletek megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp pentru a vedea nimfeul roman și ruinele antice remarcabil de bine conservate și folosiți o lentilă polarizată pentru a surprinde cele mai bune detalii.",
+            "en": "Step back in time to view the remarkably preserved Roman nymphaeum and ancient ruins, and use a polarized lens on your camera to capture the best details."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Archeologico Naturalistico",
+            "hu": "Parco Archeologico Naturalistico",
+            "ro": "Parco Archeologico Naturalistico",
+            "en": "Parco Archeologico Naturalistico"
+          },
+          "coords": [
+            13.853408,
+            43.034166
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen weitläufigen Park, der archäologische Funde mit der Natur verbindet, und bringen Sie eine Wasserflasche mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Barangoljon ebben a hatalmas parkban, amely ötvözi az ősi régészeti leleteket a természettel, de hozzon magával kulacsot, mert a belső létesítmények korlátozottak.",
+            "ro": "Plimbați-vă prin acest parc care îmbină descoperirile arheologice antice cu natura, asigurându-vă că aduceți o sticlă de apă, deoarece facilitățile sunt destul de limitate.",
+            "en": "Wander through this expansive park blending ancient archaeological finds with nature, ensuring you bring a water bottle since facilities are somewhat limited inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Malacologico Piceno",
+            "hu": "Museo Malacologico Piceno",
+            "ro": "Museo Malacologico Piceno",
+            "en": "Museo Malacologico Piceno"
+          },
+          "coords": [
+            13.855613,
+            43.038809
+          ],
+          "category": "museum",
+          "arrive_at": "13:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eine der weltgrößten Sammlungen von Muscheln in diesem einzigartigen Museum, und nehmen Sie sich viel Zeit für die detaillierten Mikromuscheln.",
+            "hu": "Csodálja meg a világ egyik legnagyobb tengerikagyló-gyűjteményét ebben a múzeumban, és szánjon bőséges időt a hihetetlenül részletes mikrokagylók megtekintésére.",
+            "ro": "Minunați-vă de una dintre cele mai mari colecții de scoici din lume în acest muzeu unic, acordându-vă suficient timp pentru a viziona micro-scoicile incredibil de detaliate.",
+            "en": "Marvel at one of the world's largest collections of sea shells in this unique museum, allowing yourself plenty of time to view the incredibly detailed micro-shells."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an den malerischen südlichen Ruinen des Castello di Sant'Andrea. Eine kurze Fahrt ins Stadtzentrum bringt Sie zum Museo Archeologico und seinen reichen historischen Schätzen.\n\nMittags fahren Sie etwas nach Norden zur Villa romana con ninfeo. Die antike Architektur bietet die perfekte Kulisse, um die tiefen römischen Wurzeln der Region zu verstehen.\n\nParken Sie am Nachmittag beim Parco Archeologico Naturalistico. Machen Sie einen gemütlichen Spaziergang durch die grünen archäologischen Pfade, bevor Sie weiterfahren.\n\nDer Tag endet im Museo Malacologico Piceno im äußersten Norden. Tauchen Sie in die marine Biodiversität ein, bevor Sie eine entspannte abendliche Fahrt entlang der Küste genießen.",
+        "hu": "Autóútja a Castello di Sant'Andrea festői déli romjainál kezdődik, ahonnan remek kilátás nyílik. Egy rövid út a városközpontba elvezeti a Museo Archeologico épületéhez és kincseihez.\n\nDélben navigáljon kissé északra a Villa romana con ninfeo felé. Az ókori építészet tökéletes hátteret biztosít a régió mély római gyökereinek megértéséhez és felfedezéséhez.\n\nDélután parkoljon le a Parco Archeologico Naturalistico közelében. Tegyen egy kényelmes sétát a zöld régészeti ösvényeken, mielőtt folytatná festői tengerparti útját.\n\nA nap a távoli északi Museo Malacologico Piceno-nál zárul. Merüljön el a világ tengeri biológiai sokféleségében, majd élvezze a pihentető esti autózást a tengerpart mentén.",
+        "ro": "Călătoria cu mașina începe la ruinele sudice ale Castello di Sant'Andrea, oferind vederi spectaculoase. Un scurt drum spre centru vă aduce la Museo Archeologico și comorile sale istorice.\n\nLa amiază, navigați ușor spre nord până la Villa romana con ninfeo. Arhitectura antică oferă un fundal perfect pentru a înțelege rădăcinile romane profunde ale acestei regiuni.\n\nDupă-amiaza, parcați lângă Parco Archeologico Naturalistico. Faceți o plimbare relaxantă prin traseele arheologice verzi înainte de a vă continua drumul pitoresc pe coastă.\n\nZiua se încheie la Museo Malacologico Piceno din extremitatea nordică. Pătrundeți în biodiversitatea marină a lumii înainte de a vă bucura de o plimbare relaxantă de seară pe țărm.",
+        "en": "Your drive begins at the scenic southern ruins of Castello di Sant'Andrea, offering commanding early morning views. A short drive to the town center brings you to the Museo Archeologico and its rich historical treasures.\n\nBy midday, navigate slightly north to the Villa romana con ninfeo. The ancient architecture provides a perfect backdrop for understanding the deep Roman roots of the region.\n\nIn the afternoon, park near the Parco Archeologico Naturalistico. Take a leisurely stroll through the green archaeological trails before continuing your scenic coastal drive.\n\nThe day concludes at the expansive Museo Malacologico Piceno in the far north. Dive into the world's marine biodiversity before enjoying a relaxed evening drive along the shore."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-marinella-di-sarzana-cities-v2",
+  "anchor": {
+    "name": "Marinella di Sarzana",
+    "coords": [
+      10.0166,
+      44.0483
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Luni",
+            "hu": "Museo Archeologico Nazionale di Luni",
+            "ro": "Museo Archeologico Nazionale di Luni",
+            "en": "Museo Archeologico Nazionale di Luni"
+          },
+          "coords": [
+            10.016678,
+            44.063739
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit der Erkundung der reichen römischen Artefakte, die Lunis antiken Wohlstand offenbaren, und holen Sie sich unbedingt einen kostenlosen Lageplan am Eingang.",
+            "hu": "Kezdje a reggelt az ókori Luni gazdagságát bemutató lenyűgöző római leletek felfedezésével, és a bejáratnál mindenképpen kérjen egy ingyenes térképet a sétához.",
+            "ro": "Începeți dimineața explorând artefactele romane bogate care dezvăluie prosperitatea antică a orașului Luni și asigurați-vă că luați o hartă gratuită de la intrare pentru a vă ghida pașii.",
+            "en": "Start your morning exploring the rich Roman artifacts that reveal Luni's ancient prosperity, and be sure to pick up a free site map at the entrance to guide your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica cristiana di Luni",
+            "hu": "Basilica cristiana di Luni",
+            "ro": "Basilica cristiana di Luni",
+            "en": "Basilica cristiana di Luni"
+          },
+          "coords": [
+            10.014728,
+            44.063764
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eindrucksvollen Ruinen dieser frühchristlichen Basilika, die den religiösen Wandel der Stadt verdeutlichen, und denken Sie daran, dass das beste Licht für Fotos kurz vor Mittag ist.",
+            "hu": "Csodálja meg e kora keresztény bazilika sokatmondó romjait, amelyek a város vallási átalakulását jelzik, és ne feledje, hogy a legjobb fényviszonyok a fotózáshoz dél előtt vannak.",
+            "ro": "Admirați ruinele evocatoare ale acestei bazilici creștine timpurii care subliniază tranziția religioasă a orașului, ținând cont că cea mai bună lumină pentru fotografii este chiar înainte de prânz.",
+            "en": "Admire the evocative ruins of this early Christian basilica which highlights the city's religious transition, keeping in mind that the best lighting for photos is just before noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa dei Mosaici",
+            "hu": "Casa dei Mosaici",
+            "ro": "Casa dei Mosaici",
+            "en": "Casa dei Mosaici"
+          },
+          "coords": [
+            10.017403,
+            44.064763
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die sorgfältig erhaltenen Bodenmosaike in diesem alten Patrizierhaus und betreten Sie die markierten Holzstege vorsichtig, um die empfindlichen Kunstwerke zu schützen.",
+            "hu": "Csodálja meg a gondosan megőrzött padlómozaikokat ebben az ősi patríciusházban, és finoman lépkedjen a kijelölt fa járdákon, hogy segítsen megvédeni a kényes alkotásokat.",
+            "ro": "Minunați-vă de mozaicurile de pe podea meticulos conservate în interiorul acestei vechi case patriciene și pășiți ușor pe pasarelele din lemn desemnate pentru a proteja arta delicată.",
+            "en": "Marvel at the meticulously preserved floor mosaics inside this ancient patrician house, and step lightly along the designated wooden walkways to help protect the delicate artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano di Luni",
+            "hu": "Teatro Romano di Luni",
+            "ro": "Teatro Romano di Luni",
+            "en": "Teatro Romano di Luni"
+          },
+          "coords": [
+            10.020221,
+            44.064855
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der großen Bühne des römischen Theaters, wo einst antike Dramen aufgeführt wurden, und nehmen Sie sich einen Moment Zeit, um die zweisprachigen Informationstafeln entlang des Randes zu lesen.",
+            "hu": "Álljon meg a római színház nagy színpada előtt, ahol egykor ókori drámákat adtak elő, és szánjon egy pillanatot a perem mentén elhelyezett kétnyelvű információs táblák elolvasására.",
+            "ro": "Stați în fața scenei grandioase a teatrului roman unde odinioară se jucau drame antice și acordați-vă un moment pentru a citi plăcile informative bilingve presărate pe perimetru.",
+            "en": "Stand before the grand stage of the Roman theater where ancient dramas were once performed, and take a moment to read the bilingual informational plaques scattered along the perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro romano di Luni",
+            "hu": "Anfiteatro romano di Luni",
+            "ro": "Anfiteatro romano di Luni",
+            "en": "Anfiteatro romano di Luni"
+          },
+          "coords": [
+            10.022388,
+            44.062636
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem gut erhaltenen elliptischen Amphitheater, in dem einst Gladiatorenkämpfe stattfanden, und tragen Sie festes Schuhwerk, um das grasbewachsene und unebene Gelände bequem zu bewältigen.",
+            "hu": "Zárja sétáját ennél a jó állapotban fennmaradt elliptikus amfiteátrumnál, amely egykor gladiátorjátékoknak adott otthont, és viseljen masszív cipőt a füves, egyenetlen terepen való kényelmes közlekedéshez.",
+            "ro": "Încheiați-vă turul pietonal la acest amfiteatru eliptic bine conservat care a găzduit odată jocuri cu gladiatori, purtând încălțăminte rezistentă pentru a naviga confortabil pe terenul ierbos și denivelat.",
+            "en": "Conclude your walking tour at this well-preserved elliptical amphitheater that once hosted gladiatorial games, wearing sturdy shoes to comfortably navigate the grassy and uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Archäologischen Museum von Luni, wo die römischen Wurzeln dieser Küstengegend entdeckt werden.\n\nGegen Mittag spazieren wir an der frühchristlichen Basilika vorbei und verfolgen Jahrhunderte der Religionsgeschichte in den ruhigen Ruinen.\n\nAm Nachmittag bieten die atemberaubende Casa dei Mosaici und das antike Römische Theater einen Einblick in das Patrizierleben.\n\nDer Abend bricht sanft herein, wenn wir das große Amphitheater erreichen und uns das Brüllen antiker Menschenmengen vorstellen.",
+        "hu": "A reggel a Luni Régészeti Múzeumban kezdődik, ahol feltárjuk e partvidék római kori gyökereit.\n\nDélben elsétálunk a kora keresztény bazilika mellett, nyomon követve a vallástörténet évszázadait a csendes romok között.\n\nDélután a lélegzetelállító Casa dei Mosaici és az ókori római színház nyújt bepillantást a patríciusok életébe.\n\nAz este lágyan ereszkedik le, amikor elérjük a nagyszerű amfiteátrumot, elképzelve az egykori tömegek morajlását.",
+        "ro": "Dimineața începe la Muzeul Arheologic Luni, descoperind rădăcinile romane ale acestei zone de coastă.\n\nLa amiază, ne plimbăm pe lângă bazilica creștină timpurie, urmărind secole de istorie religioasă în ruinele liniștite.\n\nDupă-amiaza, uluitoarea Casa dei Mosaici și Teatrul Roman antic oferă o privire în viața patriciană.\n\nSeara coboară încet pe măsură ce ajungem la marele Amfiteatru, imaginându-ne vuietul mulțimilor antice.",
+        "en": "Morning begins at the Luni Archaeological Museum, unearthing the Roman roots of this coastal area.\n\nBy midday, we walk past the early Christian basilica, tracing centuries of religious history in the quiet ruins.\n\nIn the afternoon, the breathtaking Casa dei Mosaici and the ancient Roman Theater offer a glimpse into patrician life and public entertainment.\n\nEvening falls softly as we reach the grand Amphitheater, imagining the roar of ancient crowds before wrapping up our journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 3.73,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno Italia",
+            "hu": "Bagno Italia",
+            "ro": "Bagno Italia",
+            "en": "Bagno Italia"
+          },
+          "coords": [
+            9.99272,
+            44.050182
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit einer erfrischenden Meeresbrise und einem atemberaubenden Blick auf die Küste in diesem beliebten Strandclub, wobei Sie sich unbedingt noch einen schnellen Espresso am Kiosk gönnen sollten.",
+            "hu": "Kezdje a biciklitúrát a frissítő tengeri szellővel és a lenyűgöző tengerparti kilátással ennél a népszerű strandklubnál, és indulás előtt mindenképpen igyon egy gyors eszpresszót a helyi kioszkban.",
+            "ro": "Începeți plimbarea cu bicicleta cu o briză răcoroasă a oceanului și vederi uimitoare ale coastei la acest club de plajă popular, asigurându-vă că luați un espresso rapid la chioșcul local înainte de a porni.",
+            "en": "Start your bike ride with a refreshing ocean breeze and stunning coastal views at this popular beach club, making sure to grab a quick espresso at the local kiosk before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "monumento a Carlo Fabbricotti",
+            "hu": "monumento a Carlo Fabbricotti",
+            "ro": "monumento a Carlo Fabbricotti",
+            "en": "monumento a Carlo Fabbricotti"
+          },
+          "coords": [
+            10.010304,
+            44.050179
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Halten Sie inne, um an diesem Denkmal für den bedeutenden lokalen Unternehmer, der die Marmorindustrie der Region prägte, nachzudenken, und nutzen Sie die schattigen Bänke in der Nähe für eine kurze Pause.",
+            "hu": "Tartson egy kis szünetet ennél az emlékműnél, amely a régió márványiparát formáló kiemelkedő helyi vállalkozó előtt tiszteleg, és használja ki a közeli árnyékos padokat egy rövid pihenőre.",
+            "ro": "Faceți o pauză pentru a reflecta la acest omagiu adus proeminentului antreprenor local care a modelat industria marmurei din regiune, profitând de băncile umbrite din apropiere pentru o scurtă odihnă.",
+            "en": "Pause to reflect at this tribute to the prominent local entrepreneur who shaped the region's marble industry, taking advantage of the nearby shaded benches for a brief rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro Portus Lunea",
+            "hu": "Faro Portus Lunea",
+            "ro": "Faro Portus Lunea",
+            "en": "Faro Portus Lunea"
+          },
+          "coords": [
+            10.010534,
+            44.059864
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Leuchtturm, der einst den antiken Seeverkehr leitete, und bringen Sie Ihre Kamera mit, um den auffälligen Kontrast zwischen dem alten Stein und dem blauen Himmel einzufangen.",
+            "hu": "Fedezze fel ezt a történelmi világítótornyot, amely egykor az ókori tengeri forgalmat irányította, és hozza magával a fényképezőgépét, hogy megörökítse a régi kő és a kék ég lenyűgöző kontrasztját.",
+            "ro": "Explorați acest far istoric care a ghidat odată traficul maritim antic și aduceți camera pentru a surprinde contrastul izbitor dintre piatra veche și cerul albastru.",
+            "en": "Explore this historic lighthouse structure that once guided ancient maritime traffic, and bring your camera to capture the striking contrast between the old stone and the blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunnel Multimediale Luni Experience",
+            "hu": "Tunnel Multimediale Luni Experience",
+            "ro": "Tunnel Multimediale Luni Experience",
+            "en": "Tunnel Multimediale Luni Experience"
+          },
+          "coords": [
+            10.007034,
+            44.061007
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die interaktiven Projektionen, die die Geschichte der römischen Stadt rekonstruieren, und überprüfen Sie den Zeitplan im Voraus online, um die englischsprachige Vorführung zu sehen.",
+            "hu": "Merüljön el az interaktív vetítésekben, amelyek rekonstruálják a római város történelmét, és előzetesen ellenőrizze az online menetrendet, hogy elcsípje az angol nyelvű közvetítést.",
+            "ro": "Cufundați-vă în proiecțiile interactive care reconstruiesc istoria orașului roman, verificând programul online în avans pentru a prinde transmisiunea în limba engleză.",
+            "en": "Immerse yourself in the interactive projections that reconstruct the Roman city's history, checking the schedule online in advance to catch the English language broadcast."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosaici di Oceano e del Circo Massimo",
+            "hu": "Mosaici di Oceano e del Circo Massimo",
+            "ro": "Mosaici di Oceano e del Circo Massimo",
+            "en": "Mosaici di Oceano e del Circo Massimo"
+          },
+          "coords": [
+            10.018524,
+            44.063453
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag mit der Besichtigung dieser unglaublichen Mosaike mit mythologischen Szenen, die am besten im späten Nachmittagslicht zur Geltung kommen, das die lebhaften antiken Farben hervorhebt.",
+            "hu": "Zárja a kerékpáros napot ezeknek a mitológiai jeleneteket ábrázoló hihetetlen mozaikoknak a megtekintésével, amelyeket a legjobban a késő délutáni fényben lehet értékelni, ami kiemeli az élénk ősi színeket.",
+            "ro": "Încheiați-vă ziua de ciclism vizionând aceste mozaicuri incredibile care înfățișează scene mitologice, cel mai bine apreciate în lumina târzie a după-amiezii care scoate în evidență culorile antice vii.",
+            "en": "End your cycling day by viewing these incredible mosaics depicting mythological scenes, best appreciated in the late afternoon light which brings out the vivid ancient colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten den Tag am Bagno Italia und genießen die frische Meeresbrise, bevor es ins Landesinnere geht.\n\nAm Mittag radeln wir zum Denkmal von Carlo Fabbricotti, das das lokale Marmorerbe ehrt.\n\nUnser Nachmittag ist dem antiken Hafen gewidmet, mit Besuchen des historischen Faro Portus Lunea und des interaktiven Luni Experience Tunnels.\n\nWenn der Abend naht, leuchten die spektakulären Mosaike im schwindenden Licht und beenden unsere Fahrt.",
+        "hu": "A napot a Bagno Italiánál kezdjük, élvezve a friss tengeri szellőt, mielőtt a szárazföld belseje felé vennénk az irányt.\n\nDélben a Carlo Fabbricotti emlékműhöz tekerünk, tisztelegve a helyi márványörökség előtt.\n\nDélutánunkat az ókori kikötőnek szenteljük, meglátogatva a történelmi Faro Portus Luneát és a lenyűgöző Luni Experience Alagutat.\n\nAhogy közeledik az este, a látványos mozaikok melegen ragyognak a halványuló fényben, lezárva túránkat.",
+        "ro": "Începem ziua la Bagno Italia, bucurându-ne de briza proaspătă a mării înainte de a ne îndrepta spre interior.\n\nLa amiază pedalăm către monumentul lui Carlo Fabbricotti, onorând moștenirea locală a marmurei.\n\nDupă-amiaza este dedicată portului antic, vizitând istoricul Faro Portus Lunea și Tunelul imersiv Luni Experience.\n\nPe măsură ce se apropie seara, mozaicurile spectaculoase strălucesc cald în lumina palidă, încheind plimbarea.",
+        "en": "We kick off the day at Bagno Italia, enjoying the fresh sea breeze and sandy stretches before heading inland.\n\nMidday finds us pedaling to the monument of Carlo Fabbricotti, honoring the local marble heritage.\n\nOur afternoon is dedicated to the ancient port, visiting the historic Faro Portus Lunea and the immersive Luni Experience Tunnel.\n\nAs evening approaches, the spectacular Ocean and Circus Maximus mosaics glow warmly in the fading light, concluding our ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 7.53,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro di Marina di Carrara",
+            "hu": "Faro di Marina di Carrara",
+            "ro": "Faro di Marina di Carrara",
+            "en": "Faro di Marina di Carrara"
+          },
+          "coords": [
+            10.036892,
+            44.036256
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour am Leuchtturm des modernen Hafens, um ein Gefühl für die heutige maritime Bedeutung der Region zu bekommen, da in den frühen Morgenstunden leicht kostenlose Parkplätze zu finden sind.",
+            "hu": "Kezdje autós túráját a modern kikötő világítótornyánál, hogy érzékelje a régió jelenlegi tengeri jelentőségét, mivel a korai órákban könnyen talál bőséges és ingyenes parkolóhelyet.",
+            "ro": "Începeți turul cu mașina la farul portului modern pentru a vă face o idee despre importanța maritimă actuală a regiunii, găsind cu ușurință parcare gratuită amplă în apropiere în primele ore.",
+            "en": "Begin your driving tour at the modern port's lighthouse to get a sense of the region's current maritime importance, easily finding ample free parking nearby during the early hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Italia",
+            "hu": "Bagno Italia",
+            "ro": "Bagno Italia",
+            "en": "Bagno Italia"
+          },
+          "coords": [
+            9.99272,
+            44.050182
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Fahren Sie an die Küste für einen entspannenden Vormittagsspaziergang entlang der Sandstrände dieses klassischen italienischen Strandbads, wo Sie eine Sonnenliege für eine kurze Pause mit Blick auf das Ligurische Meer mieten können.",
+            "hu": "Vezessen le a partra egy pihentető délelőtti sétára ennek a klasszikus olasz strandnak a homokos partjain, ahol akár napozóágyat is bérelhet egy rövid pihenőre a Ligur-tenger felé nézve.",
+            "ro": "Conduceți până la coastă pentru o plimbare relaxantă la mijlocul dimineții de-a lungul malurilor nisipoase ale acestui lido clasic italian, unde puteți închiria un șezlong pentru o scurtă pauză cu fața la Marea Ligurică.",
+            "en": "Drive down to the coast for a relaxing mid-morning stroll along the sandy shores of this classic Italian lido, where you can rent a sunbed for a short break facing the Ligurian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro romano di Luni",
+            "hu": "Anfiteatro romano di Luni",
+            "ro": "Anfiteatro romano di Luni",
+            "en": "Anfiteatro romano di Luni"
+          },
+          "coords": [
+            10.022388,
+            44.062636
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erreichen Sie die spektakulären Ruinen des Amphitheaters, genau wenn die Mittagssonne die Arena beleuchtet, und nutzen Sie den ausgewiesenen Besucherparkplatz, der sich nur wenige Schritte vom Eingang entfernt befindet.",
+            "hu": "Érkezzen meg az amfiteátrum látványos romjaihoz, épp amikor a déli nap megvilágítja az arénát, és használja a bejárattól mindössze néhány lépésre található kijelölt látogatói parkolót.",
+            "ro": "Ajungeți la ruinele spectaculoase ale amfiteatrului exact când soarele amiezii luminează arena și utilizați zona de parcare pentru vizitatori desemnată situată la doar câțiva pași de intrare.",
+            "en": "Arrive at the spectacular ruins of the amphitheater just as the midday sun illuminates the arena, and use the designated visitor parking area located just a few steps from the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+            "hu": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+            "ro": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+            "en": "Museo Archeologico Nazionale di Luni - Sezione epigrafica"
+          },
+          "coords": [
+            10.018496,
+            44.065568
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die faszinierende Sammlung antiker römischer Inschriften und Steinmetzarbeiten, und bitten Sie das Museumspersonal unbedingt um die englische Übersetzungsanleitung, um die lateinischen Texte vollständig zu verstehen.",
+            "hu": "Merüljön el az ókori római feliratok és kőfaragványok lenyűgöző gyűjteményében, és mindenképpen kérje a múzeumi személyzettől az angol nyelvű fordítási útmutatót a latin szövegek teljes megértéséhez.",
+            "ro": "Pătrundeți în colecția fascinantă de inscripții și lucrări în piatră romane antice, asigurându-vă că cereți personalului muzeului ghidul de traducere în limba engleză pentru a înțelege pe deplin textele latine.",
+            "en": "Delve into the fascinating collection of ancient Roman inscriptions and stonework, making sure to ask the museum staff for the English translation guide to fully understand the Latin texts."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+            "hu": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+            "ro": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+            "en": "Museo Archeologico Nazionale di Luni - Architettura sacra"
+          },
+          "coords": [
+            10.017516,
+            44.065949
+          ],
+          "category": "museum",
+          "arrive_at": "15:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren kulturellen Roadtrip mit der Untersuchung der komplizierten architektonischen Elemente antiker Tempel, und nehmen Sie sich zusätzliche Zeit, um im örtlichen Buchladen nach Souvenirs zu stöbern, bevor er schließt.",
+            "hu": "Fejezze be kulturális autós utazását az ókori templomok bonyolult építészeti elemeinek tanulmányozásával, és hagyjon magának extra időt a helyszíni könyvesboltban szuvenírek böngészésére, mielőtt az bezár.",
+            "ro": "Terminați-vă călătoria culturală examinând elementele arhitecturale complicate ale templelor antice, acordându-vă timp suplimentar pentru a răsfoi librăria din incintă pentru suveniruri înainte de a se închide.",
+            "en": "Finish your cultural road trip examining the intricate architectural elements of ancient temples, allowing yourself extra time to browse the on-site bookshop for souvenirs before it closes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt am modernen Leuchtturm von Marina di Carrara, der uns mit der aktiven maritimen Kultur der Region verbindet.\n\nGegen Mittag fahren wir zum Bagno Italia, um eine kurze, sonnige Pause am wunderschönen Ligurischen Meer zu genießen.\n\nAm Nachmittag geht es in die antike Welt, wo wir das riesige Römische Amphitheater von Luni erkunden.\n\nDen Abend verbringen wir damit, die architektonischen Flügel des Archäologischen Nationalmuseums zu bestaunen.",
+        "hu": "A vezetés a Marina di Carrara modern világítótornyánál kezdődik, amely összeköt minket a régió aktív tengeri kultúrájával.\n\nDélben átgurulunk a Bagno Italiához, hogy élvezzük a rövid, napos pihenőt a gyönyörű Ligur-tengernél.\n\nDélután az ókori világ felé vesszük az irányt, és felfedezzük a Luni kolosszális római amfiteátrumát.\n\nAz estét a Nemzeti Régészeti Múzeum építészeti szárnyainak csodálatával töltjük, mélyen megérintve a történelemtől.",
+        "ro": "Călătoria începe la Farul modern din Marina di Carrara, conectându-ne la cultura maritimă activă a regiunii.\n\nLa amiază, conducem spre Bagno Italia pentru a ne bucura de un scurt răgaz însorit lângă frumoasa Mare Ligurică.\n\nDupă-amiaza ne îndreptăm spre lumea antică, explorând colosalul Amfiteatru Roman din Luni și împrejurimile sale.\n\nSeara este petrecută minunându-ne de aripile de arhitectură sacră și epigrafică ale Muzeului Național Arheologic.",
+        "en": "The drive starts at the modern Lighthouse of Marina di Carrara, connecting us to the region's active maritime culture.\n\nBy midday, we cruise over to Bagno Italia to enjoy a brief, sunny respite by the beautiful Ligurian Sea.\n\nIn the afternoon, we head to the ancient world, exploring the colossal Roman Amphitheater of Luni and its surroundings.\n\nEvening is spent marveling at the National Archaeological Museum's epigraphic and sacred architecture wings, deeply moved by history."
+      }
+    }
+  }
+}

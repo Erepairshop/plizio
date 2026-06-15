@@ -1,0 +1,451 @@
+{
+  "city_id": "united-kingdom-mevagissey-cities-v2",
+  "anchor": {
+    "name": "Mevagissey",
+    "coords": [
+      -4.7874,
+      50.2702
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Welt der Modelleisenbahnen",
+            "hu": "Modellvasutak Világa",
+            "ro": "Lumea Căilor Ferate Miniaturale",
+            "en": "World of Model Railways"
+          },
+          "coords": [
+            -4.788757,
+            50.269493
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine magische Miniaturwelt, die den Charme kornischer Eisenbahnen einfängt, perfekt für einen nostalgischen Start in den Tag.",
+            "hu": "Fedezd fel a varázslatos miniatűr világot, amely megragadja a cornwalli vasutak báját, és tökéletes egy nosztalgikus napindításhoz.",
+            "ro": "Descoperiți o lume miniaturală magică ce surprinde farmecul căilor ferate din Cornwall, perfectă pentru un început de zi nostalgic.",
+            "en": "Discover a magical miniature world that captures the charm of Cornish railways, perfect for a nostalgic start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevagissey Meeresaquarium",
+            "hu": "Mevagissey Tengeri Akvárium",
+            "ro": "Acvariul Marin Mevagissey",
+            "en": "Mevagissey Marine Aquarium"
+          },
+          "coords": [
+            -4.785445,
+            50.268737
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Meeresfauna der örtlichen Küste in einer alten Rettungsbootstation und ziehen Sie eine kleine Spende zur Unterstützung in Betracht.",
+            "hu": "Fedezd fel a helyi tengerpart lenyűgöző élővilágát egy régi mentőcsónak-állomáson, és fontold meg egy kis adománnyal a természetvédelmi erőfeszítéseik támogatását.",
+            "ro": "Explorați fauna marină fascinantă a coastei locale găzduită într-o veche stație de bărci de salvare și luați în considerare o mică donație pentru eforturile lor.",
+            "en": "Explore the fascinating marine life of the local coast housed in an old lifeboat station, and consider making a small donation to support their conservation efforts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevagissey Museum",
+            "hu": "Mevagissey Múzeum",
+            "ro": "Muzeul Mevagissey",
+            "en": "Mevagissey Museum"
+          },
+          "coords": [
+            -4.78427,
+            50.27013
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf drei Etagen mit faszinierenden Ausstellungsstücken in die reiche See- und Schmuggelgeschichte des Dorfes ein, aber gehen Sie auf den steilen Treppen vorsichtig.",
+            "hu": "Merülj el a falu gazdag tengerészeti és csempésztörténelmében a három emeletnyi kiállításon, és ügyelj a lépteidre a meredek lépcsőkön.",
+            "ro": "Pătrundeți în istoria maritimă și de contrabandă a satului pe parcursul a trei etaje fascinante, având grijă la scările destul de abrupte.",
+            "en": "Delve into the rich maritime and smuggling history of the village across three floors of fascinating exhibits, taking your time on the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter",
+            "hu": "Szent Péter",
+            "ro": "Sfântul Petru",
+            "en": "St Peter"
+          },
+          "coords": [
+            -4.790523,
+            50.273605
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in den Bänken neue Energie zu tanken.",
+            "hu": "Csodáld meg e történelmi templom gyönyörű építészetét és békés hangulatát, és szánj egy pillanatot a csendes pihenésre a padokon.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică a acestei biserici istorice, luându-vă un moment pentru a vă odihni în liniște pe bănci.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of this historic church, taking a moment to sit quietly in the pews to recharge."
+          }
+        },
+        {
+          "name": {
+            "de": "Polstreath Strand",
+            "hu": "Polstreath-part",
+            "ro": "Plaja Polstreath",
+            "en": "Polstreath"
+          },
+          "coords": [
+            -4.783493,
+            50.274862
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem atemberaubenden, abgelegenen Kiesstrand mit herrlichem Blick auf die Küste, aber seien Sie auf den anspruchsvollen Abstieg vorbereitet.",
+            "hu": "Pihenj ezen a lenyűgöző, eldugott kavicsos strandon, amely lélegzetelállító kilátást nyújt, de készülj fel a meredek parti ösvényen való nehéz lejutásra.",
+            "ro": "Relaxați-vă pe această plajă uimitoare cu pietriș și vederi coastale uluitoare, dar fiți pregătiți pentru coborârea dificilă pe poteca abruptă.",
+            "en": "Relax on this stunning, secluded shingle beach offering breathtaking coastal views, but be prepared for the challenging climb down the steep coastal path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen eingetaucht in den nostalgischen Charme von Miniaturzügen. Entdecken Sie am Mittag die lokale Unterwasserwelt und die reiche Schmuggelgeschichte von Mevagissey. Der Nachmittag führt Sie in eine friedliche Kirche, wo Sie neue Kraft tanken können. Genießen Sie am Abend einen ruhigen Sonnenuntergang am Strand.",
+        "hu": "Kezdd a reggelt a miniatűr vonatok nosztalgikus bájával. Délben fedezd fel a helyi tengeri élővilágot, és merülj el Mevagissey gazdag csempészmúltjában. A délután egy békés történelmi templomba vezet, ahol feltöltődhetsz. Az este közeledtével élvezd a csendes naplementét egy eldugott kavicsos tengerparton.",
+        "ro": "Începeți dimineața învăluiți în farmecul nostalgic al trenulețelor miniaturale. La prânz, descoperiți viața marină locală și pătrundeți în istoria contrabandiștilor. După-amiaza vă duce la o biserică istorică pașnică pentru a vă reîncărca. Seara, bucurați-vă de un apus liniștit pe o plajă retrasă cu pietriș.",
+        "en": "Start your morning immersed in the nostalgic charm of miniature trains. By midday, discover local marine life and delve into Mevagissey's rich smuggling history. The afternoon takes you to a peaceful historic church to recharge your spirit. As evening approaches, enjoy a tranquil sunset on a secluded shingle beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Boddingtons Beeren",
+            "hu": "Boddington Bogyói",
+            "ro": "Fructele de Pădure Boddington",
+            "en": "Boddington’s Berries"
+          },
+          "coords": [
+            -4.799298,
+            50.269512
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit dem Besuch dieser bekannten lokalen Obstfarm, um deren berühmte Erdbeermarmelade, eine echte kornische Delikatesse, zu probieren.",
+            "hu": "Kezdd a reggelt egy látogatással ezen a híres helyi gyümölcsfarmon, hogy megkóstold a híres eperlekvárjukat, ami igazi cornwalli csemege.",
+            "ro": "Începeți dimineața vizitând această fermă locală de fructe pentru a gusta faimoasa lor dulceață de căpșuni, o adevărată delicatesă din Cornwall.",
+            "en": "Start your morning by visiting this famous local fruit farm to taste their renowned strawberry jam, a true Cornish delicacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Welt der Modelleisenbahnen",
+            "hu": "Modellvasutak Világa",
+            "ro": "Lumea Căilor Ferate Miniaturale",
+            "en": "World of Model Railways"
+          },
+          "coords": [
+            -4.788757,
+            50.269493
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine magische Miniaturwelt, die den Charme kornischer Eisenbahnen einfängt, perfekt für einen nostalgischen Start in den Tag.",
+            "hu": "Fedezd fel a varázslatos miniatűr világot, amely megragadja a cornwalli vasutak báját, és tökéletes egy nosztalgikus napindításhoz.",
+            "ro": "Descoperiți o lume miniaturală magică ce surprinde farmecul căilor ferate din Cornwall, perfectă pentru un început de zi nostalgic.",
+            "en": "Discover a magical miniature world that captures the charm of Cornish railways, perfect for a nostalgic start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevagissey Museum",
+            "hu": "Mevagissey Múzeum",
+            "ro": "Muzeul Mevagissey",
+            "en": "Mevagissey Museum"
+          },
+          "coords": [
+            -4.78427,
+            50.27013
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf drei Etagen mit faszinierenden Ausstellungsstücken in die reiche See- und Schmuggelgeschichte des Dorfes ein, aber gehen Sie auf den steilen Treppen vorsichtig.",
+            "hu": "Merülj el a falu gazdag tengerészeti és csempésztörténelmében a három emeletnyi kiállításon, és ügyelj a lépteidre a meredek lépcsőkön.",
+            "ro": "Pătrundeți în istoria maritimă și de contrabandă a satului pe parcursul a trei etaje fascinante, având grijă la scările destul de abrupte.",
+            "en": "Delve into the rich maritime and smuggling history of the village across three floors of fascinating exhibits, taking your time on the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Polkirt Strand",
+            "hu": "Polkirt-part",
+            "ro": "Plaja Polkirt",
+            "en": "Polkirt Beach"
+          },
+          "coords": [
+            -4.783928,
+            50.264649
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kurze Rast am Meer an diesem kleinen, malerischen Strand und nutzen Sie die Gelegenheit, sich die Beine zu vertreten.",
+            "hu": "Tarts egy rövid pihenőt a tengerparton ezen a kis, festői strandon, és használd ki az alkalmat a lábaid kinyújtóztatására a további kerékpározás előtt.",
+            "ro": "Bucurați-vă de o scurtă odihnă la malul mării pe această mică și pitorească plajă, profitând de ocazie pentru a vă dezmorți picioarele.",
+            "en": "Enjoy a brief rest by the sea at this small, picturesque beach, and use the opportunity to stretch your legs before biking further."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosshügel",
+            "hu": "Kastély-hegy",
+            "ro": "Dealul Castelului",
+            "en": "Castle Hill"
+          },
+          "coords": [
+            -4.806521,
+            50.259616
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem historischen Aussichtspunkt hinauf, um einen weiten Panoramablick auf die Küste zu genießen, und überprüfen Sie Ihre Bremsen für die Abfahrt.",
+            "hu": "Tekerj fel erre a történelmi kilátópontra a tengerpart lenyűgöző panorámájáért, és ügyelj a fékekre a lejtmenet során.",
+            "ro": "Urcați pe bicicletă până la acest punct de observație istoric pentru vederi panoramice ale coastei, asigurându-vă că frânele funcționează perfect la coborâre.",
+            "en": "Cycle up to this historical vantage point for sweeping panoramic views of the coastline, keeping your brakes in check for the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet West Bodrugan Wood",
+            "hu": "West Bodrugan Wood Természetvédelmi Terület",
+            "ro": "Rezervația Naturală West Bodrugan Wood",
+            "en": "West Bodrugan Wood Nature Reserve"
+          },
+          "coords": [
+            -4.800256,
+            50.257386
+          ],
+          "category": "natural",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen friedlichen, alten Wald voller lokaler Wildtiere und schließen Sie Ihr Fahrrad am Eingang sicher ab, um die inneren Pfade zu wandern.",
+            "hu": "Fedezd fel ezt a békés, ősi erdőt, amely tele van helyi vadvilággal, és zárd le biztonságosan a kerékpárod a bejáratnál a túrázáshoz.",
+            "ro": "Explorați această rezervație forestieră antică, plină de viață sălbatică, și asigurați-vă bicicleta la intrare pentru a face o drumeție pe poteci.",
+            "en": "Explore this peaceful ancient woodland teeming with local wildlife, and lock your bike securely at the entrance to hike the inner trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit süßen Erdbeerleckereien, bevor Sie zu einer charmanten Miniatureisenbahn fahren. Ihr Mittag bietet tiefe Einblicke in die Seefahrtsgeschichte und eine erfrischende Strandpause. Radeln Sie am Nachmittag zu einem historischen Aussichtspunkt. Beenden Sie den Tag im Naturreservat.",
+        "hu": "Indítsd a reggelt édes epres finomságokkal, mielőtt a bájos miniatűr vasúthoz kerekezel. A délidő a helyi tengerészeti történelem és egy frissítő tengerparti pihenő jegyében telik. Délután tekerj fel egy történelmi kilátópontra a lenyűgöző panorámáért. Zárásként kerékpározz át egy ősi erdei rezervátumon.",
+        "ro": "Începeți dimineața cu delicii dulci cu căpșuni înainte de a merge la o fermecătoare cale ferată miniaturală. Prânzul vine cu o incursiune în istoria maritimă și o odihnă pe plajă. După-amiaza, pedalați către un punct de observație istoric. Încheiați ziua trecând printr-o rezervație forestieră antică.",
+        "en": "Kick off the morning with sweet strawberry treats before heading to a charming miniature railway. Your midday unfolds with a deep dive into local maritime history and a refreshing beachside rest. In the afternoon, pedal up to a historic vantage point for stunning views. Conclude your day cycling through an ancient woodland reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Die verlorenen Gärten von Heligan",
+            "hu": "Heligan Elveszett Kertjei",
+            "ro": "Grădinile Pierdute din Heligan",
+            "en": "The Lost Gardens of Heligan"
+          },
+          "coords": [
+            -4.807308,
+            50.284032
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese weltbekannten, romantisch restaurierten Gärten und kommen Sie früh an, um den Massen bei den berühmten Schlammskulpturen zuvorzukommen.",
+            "hu": "Sétálj végig ezeken a világhírű, romantikusan felújított kerteken, és érkezz korán, hogy elkerüld a tömeget az ikonikus sárszobroknál.",
+            "ro": "Plimbați-vă prin aceste grădini restaurate, renumite în întreaga lume, și ajungeți devreme pentru a evita aglomerația la sculpturile iconice de noroi.",
+            "en": "Wander through these world-renowned, romantic restored gardens, and arrive early to beat the crowds to the iconic mud sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligen",
+            "hu": "Mindenszentek",
+            "ro": "Toți Sfinții",
+            "en": "All Saints"
+          },
+          "coords": [
+            -4.78076,
+            50.291735
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante und ruhige Kirche, um die historischen Buntglasfenster zu bewundern, und parken Sie rücksichtsvoll auf dem kleinen angrenzenden Parkplatz.",
+            "hu": "Lépj be ebbe a bájos és nyugodt templomba, hogy megcsodáld a történelmi ólomüveg ablakokat, és ügyelj a tiszteletteljes parkolásra a kis területen.",
+            "ro": "Pășiți în această biserică fermecătoare și liniștită pentru a admira vitraliile istorice, având grijă să parcați respectuos în mica parcare alăturată.",
+            "en": "Step inside this charming and tranquil church to admire its historic stained glass, taking care to park respectfully in the small adjoining lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Seepferdchen",
+            "hu": "A Csikóhal",
+            "ro": "Căluțul de Mare",
+            "en": "The Seahorse"
+          },
+          "coords": [
+            -4.78545,
+            50.28753
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erholsame Pause in diesem familienfreundlichen Freizeitzentrum, das eine tolle Aussicht auf die Bucht und einen perfekten Ort für einen schnellen Kaffee bietet.",
+            "hu": "Tarts egy pihentető szünetet ebben a családbarát szabadidőközpontban, amely nagyszerű kilátást nyújt az öbölre, és tökéletes hely egy gyors kávéra.",
+            "ro": "Luați o pauză relaxantă la acest centru de recreere pentru familii, care oferă vederi minunate asupra golfului și un loc perfect pentru o cafea rapidă.",
+            "en": "Take a relaxing break at this family-friendly recreational centre, offering great views of the bay and a perfect spot for a quick coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Pentewan Strand",
+            "hu": "Pentewan-part",
+            "ro": "Plaja Pentewan",
+            "en": "Pentewan Beach"
+          },
+          "coords": [
+            -4.781222,
+            50.28787
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten, goldenen Sandstrand entlang, der sich perfekt zum Schwimmen eignet, und denken Sie daran, die Gezeitenzeiten zu überprüfen.",
+            "hu": "Sétálj végig ezen a hatalmas, aranyszínű homokos strandon, amely tökéletes az úszáshoz, és ne felejtsd el ellenőrizni az árapály idejét fürdés előtt.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi vaste de nisip auriu, perfectă pentru înot, și nu uitați să verificați orarul mareelor înainte de a intra în apă.",
+            "en": "Stroll along this vast stretch of golden sand that is perfect for swimming, and remember to check the tide times before heading into the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevagissey Museum",
+            "hu": "Mevagissey Múzeum",
+            "ro": "Muzeul Mevagissey",
+            "en": "Mevagissey Museum"
+          },
+          "coords": [
+            -4.78427,
+            50.27013
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf drei Etagen mit faszinierenden Ausstellungsstücken in die reiche See- und Schmuggelgeschichte des Dorfes ein, aber gehen Sie auf den steilen Treppen vorsichtig.",
+            "hu": "Merülj el a falu gazdag tengerészeti és csempésztörténelmében a három emeletnyi kiállításon, és ügyelj a lépteidre a meredek lépcsőkön.",
+            "ro": "Pătrundeți în istoria maritimă și de contrabandă a satului pe parcursul a trei etaje fascinante, având grijă la scările destul de abrupte.",
+            "en": "Delve into the rich maritime and smuggling history of the village across three floors of fascinating exhibits, taking your time on the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Colona Strand",
+            "hu": "Colona-part",
+            "ro": "Plaja Colona",
+            "en": "Colona Beach"
+          },
+          "coords": [
+            -4.770533,
+            50.25541
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem ruhigen, versteckten Juwel von einem Strand mit spektakulären Sonnenuntergängen und packen Sie eine warme Jacke für die kühle Abendbrise ein.",
+            "hu": "Fejezd be a napod ezen a csendes, rejtett tengerparti gyöngyszemen, csodáld meg a látványos naplementét, de pakolj meleg kabátot a hűvös esti szellő miatt.",
+            "ro": "Încheiați-vă ziua pe această plajă liniștită și ascunsă, bucurându-vă de apusuri spectaculoase și luând o jachetă caldă pentru briza răcoroasă de seară.",
+            "en": "End your day at this quiet, hidden gem of a beach with spectacular sunsets, packing a warm jacket for the cool evening coastal breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um weltberühmte romantische Gärten zu erkunden, und besuchen Sie eine malerische Kirche. Der Mittag bietet Entspannung in einem Küstenzentrum und einen Spaziergang im Sand. Nachmittags entdecken Sie Schmuggelgeheimnisse im Dorfmuseum. Parken Sie abends in Strandnähe und beobachten Sie die Sterne.",
+        "hu": "Autózz ki korán a világhírű romantikus kertekhez, majd látogass el egy festői templomba. A délidő kikapcsolódást kínál egy part menti központban és sétát az aranyhomokon. Délután fedezd fel a csempésztitkokat a falumúzeumban. Este parkolj le egy eldugott strand közelében, és nézd, ahogy feljönnek a csillagok.",
+        "ro": "Conduceți devreme pentru a explora grădinile romantice faimoase, apoi vizitați o biserică istorică pitorească. Prânzul oferă relaxare la un centru de coastă urmată de o plimbare pe nisip. După-amiaza, descoperiți secretele contrabandei la muzeu. Seara, parcați lângă o plajă retrasă și priviți stelele pe cer.",
+        "en": "Drive out early to explore world-famous romantic gardens, then visit a quaint historic church. Midday offers relaxation at a coastal recreation centre followed by a walk on golden sands. In the afternoon, uncover smuggling secrets at the village museum. As evening falls, park near a secluded beach and watch the stars appear."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-turrimanna-cities-v2",
+  "anchor": {
+    "name": "Turrimanna",
+    "coords": [
+      8.51662,
+      39.90694
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Area 39",
+            "hu": "Area 39",
+            "ro": "Area 39",
+            "en": "Area 39"
+          },
+          "coords": [
+            8.516381,
+            39.906033
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie dieses lebhafte Erholungsgebiet, das sich ideal für eine Pause eignet, aber bringen Sie unbedingt einen Hut mit, da es an sonnigen Tagen kaum Schatten gibt.",
+            "hu": "Élvezze ezt az élettel teli szabadidős parkot, amely tökéletes egy reggeli pihenéshez, de ne felejtsen el kalapot hozni, mert a napos időszakokban kevés az árnyék a területen.",
+            "ro": "Bucurați-vă de acest loc de recreere plin de viață perfect pentru o pauză, dar nu uitați să luați o pălărie deoarece umbra poate fi limitată în timpul zilelor însorite.",
+            "en": "Enjoy this vibrant recreational spot with spacious areas perfect for a relaxing morning break, but remember to bring a hat as shade can be quite limited during sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Stella Maris",
+            "hu": "Santa Maria Stella Maris",
+            "ro": "Santa Maria Stella Maris",
+            "en": "Santa Maria Stella Maris"
+          },
+          "coords": [
+            8.517997,
+            39.907495
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante örtliche Kirche, um die friedliche Atmosphäre zu bewundern, und versuchen Sie, außerhalb der Messezeiten zu kommen, um die Stille zu genießen.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megcsodálja békés hangulatát és modern építészetét, és próbálja meg a misék közötti időben látogatni a teljes csend érdekében.",
+            "ro": "Pășiți în această biserică locală fermecătoare pentru a-i admira ambianța pașnică, și încercați să o vizitați în afara orelor de slujbă pentru a vă bucura de liniștea deplină.",
+            "en": "Step inside this charming local church to admire its peaceful ambiance and beautiful modern architecture, and try to visit when there is no mass to fully appreciate the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Area grandi eventi Torregrande",
+            "hu": "Area grandi eventi Torregrande",
+            "ro": "Area grandi eventi Torregrande",
+            "en": "Area grandi eventi Torregrande"
+          },
+          "coords": [
+            8.519041,
+            39.909757
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses dynamische Veranstaltungsgelände, auf dem oft Konzerte am Meer stattfinden, und prüfen Sie vorher das Programm, um eine Live-Aufführung zu erleben.",
+            "hu": "Nézze meg ezt a dinamikus rendezvényteret, amely gyakran ad otthont helyi koncerteknek a tengerparton, ezért érdemes előre tájékozódni a programokról az esetleges fellépések miatt.",
+            "ro": "Verificați acest spațiu dinamic care găzduiește adesea adunări locale lângă mare, așa că verificați programul evenimentelor din timp pentru a prinde o performanță live.",
+            "en": "Check out this dynamic event space which often hosts local gatherings and concerts by the sea, so look up the event schedule beforehand to catch a potential live performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Pontile",
+            "hu": "Spiaggia del Pontile",
+            "ro": "Spiaggia del Pontile",
+            "en": "Spiaggia del Pontile"
+          },
+          "coords": [
+            8.53354,
+            39.895915
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Sandstrand entlang, der fantastische Ausblicke auf den Pier bietet, und bringen Sie bequeme Schuhe für einen längeren Uferspaziergang mit.",
+            "hu": "Sétáljon végig ezen a festői homokos tengerparton, amely fantasztikus kilátást nyújt a hosszú mólóra, és hozzon kényelmes cipőt, ha hosszabb parti sétára indulna.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje pitorești care oferă vederi fantastice la debarcader, și aduceți încălțăminte confortabilă pentru o plimbare prelungită pe țărmul mării.",
+            "en": "Walk along this scenic stretch of sandy beach offering fantastic views of the long pier and the sparkling sea, and bring comfortable shoes for an extended stroll along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Perlite",
+            "hu": "Spiaggia della Perlite",
+            "ro": "Spiaggia della Perlite",
+            "en": "Spiaggia della Perlite"
+          },
+          "coords": [
+            8.536147,
+            39.893285
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigeren Bucht, die für ihre besonderen geologischen Merkmale bekannt ist, und packen Sie ein Picknick sowie ein Handtuch für einen friedlichen Nachmittag ein.",
+            "hu": "Pihenjen ezen a csendesebb homokos öblön, amely különleges geológiai képződményeiről ismert, így ideális, ha egy könnyű piknikkel és törölközővel készül a békés délutánra.",
+            "ro": "Relaxați-vă la acest golf mai liniștit cu nisip cunoscut pentru apele sale limpezi, făcându-l ideal pentru un mic picnic și pentru a vă întinde un prosop într-o după-amiază.",
+            "en": "Relax at this quieter sandy bay known for its distinctive geological features and clear waters, making it ideal to pack a light picnic and a towel for a peaceful late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem gemütlichen Spaziergang durch die Grünflächen der Area 39, der Sie auf die entspannte Küstenatmosphäre einstimmt. Mittags erkunden Sie das friedliche, moderne Innere der Santa Maria Stella Maris und besuchen dann die lebendigen Veranstaltungsplätze. Genießen Sie am Nachmittag einen langen Spaziergang zur Spiaggia del Pontile, um die frische Meeresbrise und die weiten Horizonte aufzusaugen. Der Abend klingt an den ruhigen Ufern der Spiaggia della Perlite aus, wo der Sonnenuntergang das Wasser erstrahlen lässt.",
+        "hu": "A reggel egy kényelmes sétával indul az Area 39 zöldövezetében, amely rögtön ráhangolja a laza parti hangulatra. A délidő a Santa Maria Stella Maris békés, modern belső terének felfedezésével telik, majd a közeli rendezvénytér nyüzsgését élvezheti. Délután tegyen egy hosszú, festői sétát a Spiaggia del Pontile felé, hogy belélegezze a friss tengeri szellőt és megcsodálja a horizontot. Az estét a Spiaggia della Perlite csendes partjainál zárhatja, ahol a lemenő nap ragyogó színekre festi az eget.",
+        "ro": "Dimineața începe cu o plimbare relaxantă prin spațiile verzi din Area 39, introducându-vă într-o atmosferă de coastă. La amiază vă veți afla explorând interiorul pașnic al Santa Maria Stella Maris, urmat de o vizită în spațiile de evenimente deschise. După-amiaza, bucurați-vă de o plimbare lungă până la Spiaggia del Pontile pentru a respira briza proaspătă a mării și a admira orizonturile. Seara se încheie pe țărmul liniștit de la Spiaggia della Perlite, unde apusul pictează cerul în nuanțe strălucitoare.",
+        "en": "Your morning starts with a leisurely stroll through the green spaces of Area 39, easing you into a relaxed coastal vibe. Midday finds you exploring the peaceful modern interior of Santa Maria Stella Maris, followed by a lively visit to the open event spaces nearby. In the afternoon, enjoy a long scenic walk down to Spiaggia del Pontile to breathe in the fresh sea breeze and admire the vast horizons. The evening rounds off on the quiet shores of Spiaggia della Perlite, where the sunset paints the sky in brilliant hues over the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Su Pottu",
+            "hu": "Torre di Su Pottu",
+            "ro": "Torre di Su Pottu",
+            "en": "Torre di Su Pottu"
+          },
+          "coords": [
+            8.511541,
+            39.920085
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen robusten Küstenwachturm, der einst die Küste vor Piratenangriffen schützte, und machen Sie die besten Fotos von der Westseite im weichen Morgenlicht.",
+            "hu": "Csodálja meg ezt a masszív őrtornyot, amely évszázadokkal ezelőtt a kalóztámadásoktól védte a partot, és a legjobb fotókat a nyugati oldalról készítheti a kora reggeli fényben.",
+            "ro": "Admirați acest turn de veghe de coastă robust care odată apăra țărmurile de raidurile piraților, și faceți cele mai bune fotografii din partea de vest în lumina dimineții timpurii.",
+            "en": "Admire this sturdy coastal watchtower that once defended shores from pirate raids centuries ago, and capture the best photographs from the western side during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuccuru Is Arrius",
+            "hu": "Cuccuru Is Arrius",
+            "ro": "Cuccuru Is Arrius",
+            "en": "Cuccuru Is Arrius"
+          },
+          "coords": [
+            8.503071,
+            39.920509
+          ],
+          "category": "landmark",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende archäologische Stätte, an der einst antike Nuraghen-Gemeinschaften florierten, und tragen Sie festes Schuhwerk, da die Wege ziemlich uneben sein können.",
+            "hu": "Fedezze fel ezt a jelentős régészeti lelőhelyet, ahol egykor ősi nurághi közösségek éltek, és viseljen strapabíró lábbelit, mivel az ösvények itt egyenetlenek és sziklásak lehetnek.",
+            "ro": "Explorați acest sit arheologic semnificativ unde comunitățile antice nuragice au prosperat odinioară, și purtați încălțăminte robustă deoarece potecile pot fi neregulate și stâncoase.",
+            "en": "Explore this significant archaeological site where ancient Nuragic communities once thrived, and wear sturdy footwear as the pathways around the ruins can be uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo civico Giovanni Marongiu",
+            "hu": "Museo civico Giovanni Marongiu",
+            "ro": "Museo civico Giovanni Marongiu",
+            "en": "Museo civico Giovanni Marongiu"
+          },
+          "coords": [
+            8.525244,
+            39.924838
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Giganten von Mont'e Prama und lokale Artefakte in diesem hervorragenden Museum, und planen Sie mindestens anderthalb Stunden für die Ausstellungen ein.",
+            "hu": "Fedezze fel a Mont'e Prama-i óriásokat és a helyi leleteket ebben a kiváló múzeumban, és szánjon legalább másfél órát arra, hogy részletesen megtekinthesse a kiállított tárgyakat.",
+            "ro": "Descoperiți fascinanții Giganți de la Mont'e Prama și artefactele locale din acest muzeu excelent, și alocați cel puțin o oră și jumătate pentru a vizita toate expozițiile detaliate.",
+            "en": "Discover the fascinating Giants of Mont'e Prama and local artifacts housed in this excellent museum, and allocate at least an hour to fully absorb the detailed exhibits inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Scaiu Nou",
+            "hu": "Scaiu Nou",
+            "ro": "Scaiu Nou",
+            "en": "Scaiu Nou"
+          },
+          "coords": [
+            8.525011,
+            39.92581
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie tief durch an diesem schönen Uferbereich, der sich perfekt zur Beobachtung der Tierwelt eignet, und bringen Sie ein Fernglas mit, wenn Sie gerne die Vögel am Wasser beobachten.",
+            "hu": "Vegyen egy mély lélegzetet ezen a szép vízparti területen, amely tökéletes a madárvilág megfigyelésére, és hozzon magával egy kis távcsövet, ha szereti a lagúna melletti madárleseket.",
+            "ro": "Respirați aer curat în această zonă deschisă pe malul apei, perfectă pentru a observa fauna locală, și luați un binoclu mic cu voi dacă vă bucurați de observarea păsărilor de coastă.",
+            "en": "Take a deep breath at this open waterfront area perfect for observing fishermen and local wildlife, and carry small binoculars if you enjoy birdwatching by the coastal lagoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Stella Maris",
+            "hu": "Santa Maria Stella Maris",
+            "ro": "Santa Maria Stella Maris",
+            "en": "Santa Maria Stella Maris"
+          },
+          "coords": [
+            8.517997,
+            39.907495
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante örtliche Kirche, um die friedliche Atmosphäre zu bewundern, und versuchen Sie, außerhalb der Messezeiten zu kommen, um die Stille zu genießen.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megcsodálja békés hangulatát és modern építészetét, és próbálja meg a misék közötti időben látogatni a teljes csend érdekében.",
+            "ro": "Pășiți în această biserică locală fermecătoare pentru a-i admira ambianța pașnică, și încercați să o vizitați în afara orelor de slujbă pentru a vă bucura de liniștea deplină.",
+            "en": "Step inside this charming local church to admire its peaceful ambiance and beautiful modern architecture, and try to visit when there is no mass to fully appreciate the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Area grandi eventi Torregrande",
+            "hu": "Area grandi eventi Torregrande",
+            "ro": "Area grandi eventi Torregrande",
+            "en": "Area grandi eventi Torregrande"
+          },
+          "coords": [
+            8.519041,
+            39.909757
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses dynamische Veranstaltungsgelände, auf dem oft Konzerte am Meer stattfinden, und prüfen Sie vorher das Programm, um eine Live-Aufführung zu erleben.",
+            "hu": "Nézze meg ezt a dinamikus rendezvényteret, amely gyakran ad otthont helyi koncerteknek a tengerparton, ezért érdemes előre tájékozódni a programokról az esetleges fellépések miatt.",
+            "ro": "Verificați acest spațiu dinamic care găzduiește adesea adunări locale lângă mare, așa că verificați programul evenimentelor din timp pentru a prinde o performanță live.",
+            "en": "Check out this dynamic event space which often hosts local gatherings and concerts by the sea, so look up the event schedule beforehand to catch a potential live performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am historischen Torre di Su Pottu, bevor Sie zu den antiken Ruinen von Cuccuru Is Arrius weiterradeln. Mittags tauchen Sie im renommierten Giovanni Marongiu Museum in die reiche Lokalgeschichte ein, gefolgt von einer Fahrt entlang der Uferpromenade von Scaiu Nou. Ihr Nachmittag beinhaltet einen Stopp an der modernen Santa Maria Stella Maris, um deren Architektur zu bewundern. Beenden Sie den Tag schließlich auf den Torregrande-Veranstaltungsplätzen und genießen Sie die abendliche Küstenatmosphäre.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Torre di Su Pottu toronynál, mielőtt áttekerne Cuccuru Is Arrius ősi romjaihoz. Délben a híres Giovanni Marongiu Múzeumban merülhet el a helyi történelemben, majd egy frissítő tekerés vár a Scaiu Nou vízpartján. A délután folyamán megáll a modern Santa Maria Stella Maris templomnál, hogy megcsodálja a letisztult építészetet. Végül a napot a Torregrande rendezvénytér körül fejezi be, élvezve az estét a tengerparti nyüzsgésben.",
+        "ro": "Începeți turul cu bicicleta la istoricul Torre di Su Pottu înainte de a pedala către ruinele antice din Cuccuru Is Arrius. La amiază, vă veți scufunda în istoria locală la renumitul Muzeu Giovanni Marongiu, urmat de o plimbare plăcută de-a lungul apei la Scaiu Nou. După-amiaza include o oprire la biserica modernă Santa Maria Stella Maris pentru a-i aprecia arhitectura. În cele din urmă, încheiați ziua pedalând în jurul spațiilor de evenimente din Torregrande, bucurându-vă de atmosferă.",
+        "en": "Kick off your cycling tour at the historic Torre di Su Pottu before pedaling over to the ancient ruins of Cuccuru Is Arrius. By midday, you will delve into rich local history at the renowned Giovanni Marongiu Museum, followed by a breezy ride along the Scaiu Nou waterfront. Your afternoon features a stop at the modern Santa Maria Stella Maris to appreciate its architecture. Finally, end your day cycling around the Torregrande event spaces, soaking up the coastal evening atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo civico Giovanni Marongiu",
+            "hu": "Museo civico Giovanni Marongiu",
+            "ro": "Museo civico Giovanni Marongiu",
+            "en": "Museo civico Giovanni Marongiu"
+          },
+          "coords": [
+            8.525244,
+            39.924838
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Giganten von Mont'e Prama und lokale Artefakte in diesem hervorragenden Museum, und planen Sie mindestens anderthalb Stunden für die Ausstellungen ein.",
+            "hu": "Fedezze fel a Mont'e Prama-i óriásokat és a helyi leleteket ebben a kiváló múzeumban, és szánjon legalább másfél órát arra, hogy részletesen megtekinthesse a kiállított tárgyakat.",
+            "ro": "Descoperiți fascinanții Giganți de la Mont'e Prama și artefactele locale din acest muzeu excelent, și alocați cel puțin o oră și jumătate pentru a vizita toate expozițiile detaliate.",
+            "en": "Discover the fascinating Giants of Mont'e Prama and local artifacts housed in this excellent museum, and allocate at least an hour to fully absorb the detailed exhibits inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuccuru Is Arrius",
+            "hu": "Cuccuru Is Arrius",
+            "ro": "Cuccuru Is Arrius",
+            "en": "Cuccuru Is Arrius"
+          },
+          "coords": [
+            8.503071,
+            39.920509
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende archäologische Stätte, an der einst antike Nuraghen-Gemeinschaften florierten, und tragen Sie festes Schuhwerk, da die Wege ziemlich uneben sein können.",
+            "hu": "Fedezze fel ezt a jelentős régészeti lelőhelyet, ahol egykor ősi nurághi közösségek éltek, és viseljen strapabíró lábbelit, mivel az ösvények itt egyenetlenek és sziklásak lehetnek.",
+            "ro": "Explorați acest sit arheologic semnificativ unde comunitățile antice nuragice au prosperat odinioară, și purtați încălțăminte robustă deoarece potecile pot fi neregulate și stâncoase.",
+            "en": "Explore this significant archaeological site where ancient Nuragic communities once thrived, and wear sturdy footwear as the pathways around the ruins can be uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Su Pottu",
+            "hu": "Torre di Su Pottu",
+            "ro": "Torre di Su Pottu",
+            "en": "Torre di Su Pottu"
+          },
+          "coords": [
+            8.511541,
+            39.920085
+          ],
+          "category": "tower",
+          "arrive_at": "12:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen robusten Küstenwachturm, der einst die Küste vor Piratenangriffen schützte, und machen Sie die besten Fotos von der Westseite im weichen Morgenlicht.",
+            "hu": "Csodálja meg ezt a masszív őrtornyot, amely évszázadokkal ezelőtt a kalóztámadásoktól védte a partot, és a legjobb fotókat a nyugati oldalról készítheti a kora reggeli fényben.",
+            "ro": "Admirați acest turn de veghe de coastă robust care odată apăra țărmurile de raidurile piraților, și faceți cele mai bune fotografii din partea de vest în lumina dimineții timpurii.",
+            "en": "Admire this sturdy coastal watchtower that once defended shores from pirate raids centuries ago, and capture the best photographs from the western side during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Stella Maris",
+            "hu": "Santa Maria Stella Maris",
+            "ro": "Santa Maria Stella Maris",
+            "en": "Santa Maria Stella Maris"
+          },
+          "coords": [
+            8.517997,
+            39.907495
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante örtliche Kirche, um die friedliche Atmosphäre zu bewundern, und versuchen Sie, außerhalb der Messezeiten zu kommen, um die Stille zu genießen.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megcsodálja békés hangulatát és modern építészetét, és próbálja meg a misék közötti időben látogatni a teljes csend érdekében.",
+            "ro": "Pășiți în această biserică locală fermecătoare pentru a-i admira ambianța pașnică, și încercați să o vizitați în afara orelor de slujbă pentru a vă bucura de liniștea deplină.",
+            "en": "Step inside this charming local church to admire its peaceful ambiance and beautiful modern architecture, and try to visit when there is no mass to fully appreciate the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Area 39",
+            "hu": "Area 39",
+            "ro": "Area 39",
+            "en": "Area 39"
+          },
+          "coords": [
+            8.516381,
+            39.906033
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie dieses lebhafte Erholungsgebiet, das sich ideal für eine Pause eignet, aber bringen Sie unbedingt einen Hut mit, da es an sonnigen Tagen kaum Schatten gibt.",
+            "hu": "Élvezze ezt az élettel teli szabadidős parkot, amely tökéletes egy reggeli pihenéshez, de ne felejtsen el kalapot hozni, mert a napos időszakokban kevés az árnyék a területen.",
+            "ro": "Bucurați-vă de acest loc de recreere plin de viață perfect pentru o pauză, dar nu uitați să luați o pălărie deoarece umbra poate fi limitată în timpul zilelor însorite.",
+            "en": "Enjoy this vibrant recreational spot with spacious areas perfect for a relaxing morning break, but remember to bring a hat as shade can be quite limited during sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Perlite",
+            "hu": "Spiaggia della Perlite",
+            "ro": "Spiaggia della Perlite",
+            "en": "Spiaggia della Perlite"
+          },
+          "coords": [
+            8.536147,
+            39.893285
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigeren Bucht, die für ihre besonderen geologischen Merkmale bekannt ist, und packen Sie ein Picknick sowie ein Handtuch für einen friedlichen Nachmittag ein.",
+            "hu": "Pihenjen ezen a csendesebb homokos öblön, amely különleges geológiai képződményeiről ismert, így ideális, ha egy könnyű piknikkel és törölközővel készül a békés délutánra.",
+            "ro": "Relaxați-vă la acest golf mai liniștit cu nisip cunoscut pentru apele sale limpezi, făcându-l ideal pentru un mic picnic și pentru a vă întinde un prosop într-o după-amiază.",
+            "en": "Relax at this quieter sandy bay known for its distinctive geological features and clear waters, making it ideal to pack a light picnic and a towel for a peaceful late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zum außergewöhnlichen Giovanni Marongiu Museum, um den Massen zu entgehen und die antiken Riesenstatuen zu bestaunen. Mittags führt Sie Ihre Route zu den archäologischen Wundern von Cuccuru Is Arrius und der historischen Torre di Su Pottu. Am Nachmittag wechseln Sie in die belebten Strandbereiche, beginnend mit einer friedlichen Besinnung in der Santa Maria Stella Maris. Der Abend lässt sich wunderbar an der ruhigen Spiaggia della Perlite nach einem Besuch der Area 39 ausklingen.",
+        "hu": "Reggel vezessen egyenesen a kiváló Giovanni Marongiu Múzeumhoz, hogy elkerülje a tömeget, és megcsodálja az ősi óriásszobrokat. Délben az útja Cuccuru Is Arrius régészeti csodáihoz és a történelmi Torre di Su Pottu partvédő tornyához vezet. Délután a nyüzsgő tengerparti övezetekbe látogat, kezdve egy kis békés elmélyüléssel a Santa Maria Stella Maris templomban. Az estét a gyönyörű és csendes Spiaggia della Perlite partján töltheti el az Area 39 park felfedezése után.",
+        "ro": "Conduceți direct la excepționalul Muzeu Giovanni Marongiu dimineața pentru a evita aglomerația și a admira statuile antice uriașe. La amiază, traseul vă duce la minunile arheologice din Cuccuru Is Arrius și la fortificațiile istorice din Torre di Su Pottu. După-amiaza, veți trece către zonele aglomerate de lângă plajă, începând cu o pauză liniștită în interiorul bisericii Santa Maria Stella Maris. Seara este petrecută perfect relaxându-vă pe frumoasa Spiaggia della Perlite după explorarea Area 39.",
+        "en": "Drive straight to the exceptional Giovanni Marongiu Museum in the morning to beat the crowds and marvel at the ancient giant statues. For midday, your route takes you to the archaeological wonders of Cuccuru Is Arrius and the historic coastal defense of Torre di Su Pottu. In the afternoon, you will transition to the bustling beachside areas, starting with a peaceful reflection inside Santa Maria Stella Maris. The evening is perfectly spent unwinding at the beautiful and calm Spiaggia della Perlite after exploring Area 39."
+      }
+    }
+  }
+}

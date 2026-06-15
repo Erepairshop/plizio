@@ -1,0 +1,451 @@
+{
+  "city_id": "sarrebourg",
+  "anchor": {
+    "name": "Sarrebourg",
+    "coords": [
+      7.0539,
+      48.7347
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 3.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sarrebourg Town Hall",
+            "hu": "Sarrebourg Town Hall",
+            "ro": "Sarrebourg Town Hall",
+            "en": "Sarrebourg Town Hall"
+          },
+          "coords": [
+            7.051275,
+            48.73465
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
+            "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Barthélemy Church",
+            "hu": "Saint-Barthélemy Church",
+            "ro": "Saint-Barthélemy Church",
+            "en": "Saint-Barthélemy Church"
+          },
+          "coords": [
+            7.05148,
+            48.734791
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses majestätische Gotteshaus, um die atemberaubenden Buntglasfenster zu bestaunen, und achten Sie bei Sonnenschein auf den detailreichen Hochaltar.",
+            "hu": "Lépjen be ebbe a fenséges templomba, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és napsütéses időben figyelje meg a főoltár bonyolult, csodás részleteit.",
+            "ro": "Pășiți în acest lăcaș de cult maiestuos pentru a admira vitraliile uimitoare și priviți cu atenție detaliile complicate ale altarului principal în zilele însorite.",
+            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Cordeliers Chapel",
+            "hu": "Cordeliers Chapel",
+            "ro": "Cordeliers Chapel",
+            "en": "Cordeliers Chapel"
+          },
+          "coords": [
+            7.053185,
+            48.73527
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
+            "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
+            "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of the Pays de Sarrebourg",
+            "hu": "Museum of the Pays de Sarrebourg",
+            "ro": "Museum of the Pays de Sarrebourg",
+            "en": "Museum of the Pays de Sarrebourg"
+          },
+          "coords": [
+            7.055456,
+            48.746971
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
+            "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
+            "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kidiplay",
+            "hu": "Kidiplay",
+            "ro": "Kidiplay",
+            "en": "Kidiplay"
+          },
+          "coords": [
+            7.075143,
+            48.73632
+          ],
+          "category": "family",
+          "arrive_at": "13:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.88,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder auf diesem lebhaften Indoor-Spielplatz mit Rutschen Energie abbauen und trinken Sie einen Kaffee in der Eltern-Lounge, während Sie zuschauen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen az élénk beltéri játszótéren, és igyon egy kávét a szülők társalgójában, miközben szemmel tartja őket.",
+            "ro": "Lăsați copiii să-și consume energia în acest loc de joacă interior plin cu tobogane și savurați o cafea la salonul părinților în timp ce îi supravegheați.",
+            "en": "Let your kids burn off energy in this vibrant indoor playground filled with slides, and grab a coffee at the parents' lounge while maintaining a watchful eye."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des Rathauses von Saarburg und der Kirche Saint-Barthélemy. Mittags besuchen Sie die Chapelle des Cordeliers mit ihrem Chagall-Fenster. Am Nachmittag tauchen Sie im Museum in die Geschichte ein. Lassen Sie den Tag ausklingen, während die Kleinen im Kidiplay ihre überschüssige Energie abbauen.",
+        "hu": "Kezdje a reggelt a sarrebourg-i városháza és a közeli Saint-Barthélemy templom felfedezésével. Délben a Cordeliers kápolnába vezet az út, ahol Chagall ablakai találhatók. Délután merüljön el a történelemben a helyi múzeumban. Zárja a napot egy lazítással, amíg a legkisebbek a Kidiplay fedett játszóterén vezetik le az energiájukat.",
+        "ro": "Începeți dimineața explorând eleganta Primărie din Sarrebourg și biserica Saint-Barthélemy. La prânz mergeți la Capela Cordeliers, cu vitraliile sale uimitoare. După-amiaza, scufundați-vă în istorie la Muzeul din Sarrebourg. Încheiați ziua lăsându-i pe cei mici să se joace liber în parcul de distracții interior Kidiplay.",
+        "en": "Start your morning exploring the elegant Sarrebourg Town Hall and the nearby Saint-Barthélemy Church. Midday takes you to the Cordeliers Chapel, home to the breathtaking Chagall window. In the afternoon, immerse yourself in history at the Museum of the Pays de Sarrebourg. Wrap up the day letting the little ones run free at the indoor playground, Kidiplay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 8.72,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sarrebourg Town Hall",
+            "hu": "Sarrebourg Town Hall",
+            "ro": "Sarrebourg Town Hall",
+            "en": "Sarrebourg Town Hall"
+          },
+          "coords": [
+            7.051275,
+            48.73465
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
+            "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Barthélemy Church",
+            "hu": "Saint-Barthélemy Church",
+            "ro": "Saint-Barthélemy Church",
+            "en": "Saint-Barthélemy Church"
+          },
+          "coords": [
+            7.05148,
+            48.734791
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses majestätische Gotteshaus, um die atemberaubenden Buntglasfenster zu bestaunen, und achten Sie bei Sonnenschein auf den detailreichen Hochaltar.",
+            "hu": "Lépjen be ebbe a fenséges templomba, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és napsütéses időben figyelje meg a főoltár bonyolult, csodás részleteit.",
+            "ro": "Pășiți în acest lăcaș de cult maiestuos pentru a admira vitraliile uimitoare și priviți cu atenție detaliile complicate ale altarului principal în zilele însorite.",
+            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Cordeliers Chapel",
+            "hu": "Cordeliers Chapel",
+            "ro": "Cordeliers Chapel",
+            "en": "Cordeliers Chapel"
+          },
+          "coords": [
+            7.053185,
+            48.73527
+          ],
+          "category": "religious",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
+            "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
+            "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of the Pays de Sarrebourg",
+            "hu": "Museum of the Pays de Sarrebourg",
+            "ro": "Museum of the Pays de Sarrebourg",
+            "en": "Museum of the Pays de Sarrebourg"
+          },
+          "coords": [
+            7.055456,
+            48.746971
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
+            "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
+            "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-Roman Villa of Saint-Ulrich",
+            "hu": "Gallo-Roman Villa of Saint-Ulrich",
+            "ro": "Gallo-Roman Villa of Saint-Ulrich",
+            "en": "Gallo-Roman Villa of Saint-Ulrich"
+          },
+          "coords": [
+            7.01724,
+            48.758205
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.08,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser alten Villa, um sich das römische Leben in Gallien vorzustellen, und tragen Sie bequeme Schuhe, da das Gelände sehr uneben ist.",
+            "hu": "Barangoljon az ősi villa kiterjedt romjai között, hogy elképzelje a galliai római életet, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen lehet.",
+            "ro": "Plimbați-vă prin ruinele extinse ale acestei vile antice pentru a vă imagina viața romană din Galia și purtați pantofi confortabili, deoarece terenul este accidentat.",
+            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf sur Pistes",
+            "hu": "Minigolf sur Pistes",
+            "ro": "Minigolf sur Pistes",
+            "en": "Minigolf sur Pistes"
+          },
+          "coords": [
+            7.03624,
+            48.722743
+          ],
+          "category": "family",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.17,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer lustigen Partie Minigolf auf gut gepflegten Anlagen heraus und kommen Sie am späten Nachmittag, um der Mittagshitze zu entgehen.",
+            "hu": "Hívja ki családját egy szórakoztató minigolf meccsre a jól karbantartott pályákon, és látogasson el késő délután, hogy elkerülje a legnagyobb déli hőséget.",
+            "ro": "Provocați-vă familia la un joc distractiv de minigolf pe terenuri bine întreținute și vizitați în timpul după-amiezii târzii pentru a evita căldura de la prânz.",
+            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am historischen Rathaus und der Kirche Saint-Barthélemy. Mittags bestaunen Sie das Chagall-Fenster in der Chapelle des Cordeliers, bevor Sie das Museum besuchen. Am Nachmittag radeln Sie zur galloromanischen Villa von Saint-Ulrich. Beenden Sie Ihren aktiven Tag mit einer entspannten Partie Minigolf.",
+        "hu": "Kezdje kerékpártúráját a történelmi városházánál és a Saint-Barthélemy templomnál. Délben csodálja meg a Chagall ólomüveget a Cordeliers kápolnában, majd a múzeumban. Délután tekerjen ki a Saint-Ulrich-i lenyűgöző gall-római villához. Zárja az aktív napot egy pihentető és vidám minigolf játékkal.",
+        "ro": "Începeți turul cu bicicleta la Primăria istorică și biserica Saint-Barthélemy. La prânz admirați vitraliile Chagall din Capela Cordeliers și vizitați muzeul. După-amiaza, mergeți la fascinanta vilă galo-romană Saint-Ulrich. Terminați ziua activă cu un joc relaxat de minigolf pe traseele bine întreținute.",
+        "en": "Kick off your cycling tour at the historic Town Hall and the nearby Saint-Barthélemy Church. For midday, marvel at the Chagall stained glass in the Cordeliers Chapel before exploring the regional museum. In the afternoon, ride out to the fascinating Gallo-Roman Villa of Saint-Ulrich. Finish your active day with a relaxed game of mini-golf."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 21.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sarrebourg Town Hall",
+            "hu": "Sarrebourg Town Hall",
+            "ro": "Sarrebourg Town Hall",
+            "en": "Sarrebourg Town Hall"
+          },
+          "coords": [
+            7.051275,
+            48.73465
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
+            "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cordeliers Chapel",
+            "hu": "Cordeliers Chapel",
+            "ro": "Cordeliers Chapel",
+            "en": "Cordeliers Chapel"
+          },
+          "coords": [
+            7.053185,
+            48.73527
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
+            "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
+            "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of the Pays de Sarrebourg",
+            "hu": "Museum of the Pays de Sarrebourg",
+            "ro": "Museum of the Pays de Sarrebourg",
+            "en": "Museum of the Pays de Sarrebourg"
+          },
+          "coords": [
+            7.055456,
+            48.746971
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
+            "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
+            "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-Roman Villa of Saint-Ulrich",
+            "hu": "Gallo-Roman Villa of Saint-Ulrich",
+            "ro": "Gallo-Roman Villa of Saint-Ulrich",
+            "en": "Gallo-Roman Villa of Saint-Ulrich"
+          },
+          "coords": [
+            7.01724,
+            48.758205
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.08,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser alten Villa, um sich das römische Leben in Gallien vorzustellen, und tragen Sie bequeme Schuhe, da das Gelände sehr uneben ist.",
+            "hu": "Barangoljon az ősi villa kiterjedt romjai között, hogy elképzelje a galliai római életet, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen lehet.",
+            "ro": "Plimbați-vă prin ruinele extinse ale acestei vile antice pentru a vă imagina viața romană din Galia și purtați pantofi confortabili, deoarece terenul este accidentat.",
+            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Stock",
+            "hu": "Étang du Stock",
+            "ro": "Étang du Stock",
+            "en": "Étang du Stock"
+          },
+          "coords": [
+            6.920409,
+            48.755707
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.12,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den schimmernden Wassern dieses riesigen Sees, einem Paradies für Naturliebhaber, und bringen Sie ein kleines Picknick für das Ufer mit.",
+            "hu": "Pihenjen ennek a hatalmas tónak a csillogó vize mellett, amely a természet szerelmeseinek paradicsoma, és hozzon magával pikniket a festői, békés partra.",
+            "ro": "Relaxați-vă pe malul apelor strălucitoare ale acestui lac masiv, un paradis al naturii și aduceți un mic dejun pentru a vă bucura de el pe țărmul său pitoresc.",
+            "en": "Relax by the shimmering waters of this massive lake, a paradise for nature lovers, and bring a light picnic to enjoy on its peaceful, picturesque shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf sur Pistes",
+            "hu": "Minigolf sur Pistes",
+            "ro": "Minigolf sur Pistes",
+            "en": "Minigolf sur Pistes"
+          },
+          "coords": [
+            7.03624,
+            48.722743
+          ],
+          "category": "family",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.34,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer lustigen Partie Minigolf auf gut gepflegten Anlagen heraus und kommen Sie am späten Nachmittag, um der Mittagshitze zu entgehen.",
+            "hu": "Hívja ki családját egy szórakoztató minigolf meccsre a jól karbantartott pályákon, és látogasson el késő délután, hogy elkerülje a legnagyobb déli hőséget.",
+            "ro": "Provocați-vă familia la un joc distractiv de minigolf pe terenuri bine întreținute și vizitați în timpul după-amiezii târzii pentru a evita căldura de la prânz.",
+            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Rathaus und besuchen Sie dann die Chapelle des Cordeliers. Verbringen Sie die Mittagszeit mit einem Ausflug in die Vergangenheit im Museum und den Ruinen der galloromanischen Villa. Später fahren Sie zum ruhigen See Étang du Stock. Beenden Sie die Tour mit einer lustigen Partie Minigolf.",
+        "hu": "Kezdje autós túráját a városházánál, majd irány a Cordeliers kápolna egy kis művészi inspirációért. A delet a múzeumban és a gall-római villa kiterjedt romjainál töltse. Később tegyen egy festői autózást a nyugodt Étang du Stock tóhoz. Zárja a napot egy vidám, családi minigolf bajnoksággal a pályákon.",
+        "ro": "Începeți cu mașina la Primăria impunătoare, apoi vizitați Capela Cordeliers. Petreceți prânzul explorând trecutul la Muzeu și ruinele extinse ale Vilei Galo-Romane. Mai târziu, faceți o plimbare pitorească până la lacul liniștit Étang du Stock. Încheiați traseul cu un joc de familie distractiv de minigolf.",
+        "en": "Begin your drive at the grand Town Hall, then head to the Cordeliers Chapel for some artistic inspiration. Spend your midday delving into the past at the Museum and the expansive Gallo-Roman Villa ruins. Later, take a scenic drive to the tranquil Étang du Stock lake. Conclude the itinerary with a fun-filled family game of mini-golf."
+      }
+    }
+  }
+}

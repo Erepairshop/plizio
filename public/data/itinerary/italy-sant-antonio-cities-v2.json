@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-sant-antonio-cities-v2",
+  "anchor": {
+    "name": "Sant'Antonio",
+    "coords": [
+      17.09013,
+      38.92011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 2.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Seleno",
+            "hu": "Seleno",
+            "ro": "Seleno",
+            "en": "Seleno"
+          },
+          "coords": [
+            17.088428,
+            38.910418
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenatmosphäre von Seleno, wo kristallklares Wasser zu einem erfrischenden morgendlichen Bad einlädt, aber vergessen Sie Ihre Badeschuhe für das felsige Ufer nicht.",
+            "hu": "Élvezze Seleno békés parti hangulatát, ahol a kristálytiszta víz frissítő reggeli csobbanásra csábít, de a sziklás partszakasz miatt feltétlenül hozzon magával vízicipőt.",
+            "ro": "Bucurați-vă de atmosfera senină de coastă din Seleno, unde apele cristaline vă invită la o baie matinală răcoritoare, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Enjoy the serene coastal atmosphere of Seleno, where crystal-clear waters invite you for a refreshing morning dip, but be sure to bring water shoes for the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+          },
+          "coords": [
+            17.098143,
+            38.905214
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Aquarium in die reiche Meeresartenvielfalt des Ionischen Meeres ein, wobei Sie die lehrreichen Ausstellungen am besten außerhalb der Mittagszeit besuchen.",
+            "hu": "Merüljön el a Jón-tenger gazdag tengeri biodiverzitásában ebben a modern akváriumban, amelynek oktatási kiállításait érdemes a déli csúcsidőn kívül megtekinteni, elkerülve az iskolai csoportokat.",
+            "ro": "Scufundați-vă în bogata biodiversitate marină a Mării Ionice la acest acvariu modern, unde expozițiile educative sunt cel mai bine explorate în afara orelor de prânz pentru a evita aglomerația.",
+            "en": "Dive into the rich marine biodiversity of the Ionian Sea at this modern aquarium, where educational exhibits are best enjoyed outside peak midday hours to avoid large school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+          },
+          "coords": [
+            17.100897,
+            38.905422
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses tief verehrte historische Heiligtum der Madonna Greca, wo ein Moment der Stille am alten Brunnen ein tiefes Gefühl für das lokale spirituelle Erbe vermittelt.",
+            "hu": "Fedezze fel ezt a Madonna Grecának szentelt, mélyen tisztelt történelmi szentélyt, ahol az ősi kút melletti csendes pillanatok mély betekintést nyújtanak a helyi spirituális örökségbe.",
+            "ro": "Descoperiți acest sanctuar istoric profund venerat dedicat Madonnei Greca, unde un moment de reculegere la vechea fântână vă va oferi o conexiune autentică cu moștenirea spirituală.",
+            "en": "Discover this deeply revered historical sanctuary dedicated to the Madonna Greca, where taking a moment of silence by the ancient well offers a profound sense of local spiritual heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Grande",
+            "hu": "Spiaggia Grande",
+            "ro": "Spiaggia Grande",
+            "en": "Spiaggia Grande"
+          },
+          "coords": [
+            17.103079,
+            38.905924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand der Spiaggia Grande, einem perfekten Ort zum Sonnenbaden, wobei Sie früh ankommen sollten, um sich die besten Plätze vor dem nachmittäglichen Ansturm zu sichern.",
+            "hu": "Pihenjen a Spiaggia Grande aranyló homokján, amely tökéletes hely napozáshoz és úszáshoz, de érkezzen korán, hogy biztosítsa a legjobb helyeket a délutáni tömeg előtt.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Spiaggia Grande, locul perfect pentru plajă și înot, deși este recomandat să ajungeți devreme pentru a prinde cele mai bune locuri înainte de aglomerație.",
+            "en": "Unwind on the golden sands of Spiaggia Grande, a perfect spot for sunbathing and swimming, though arriving early secures the best spots before the afternoon crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vecchia",
+            "hu": "Torre Vecchia",
+            "ro": "Torre Vecchia",
+            "en": "Torre Vecchia"
+          },
+          "coords": [
+            17.099392,
+            38.900025
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur der Torre Vecchia, eines alten Küstenverteidigungsturms, der besonders im warmen Licht der goldenen Stunde eine spektakuläre Kulisse für Fotografien bietet.",
+            "hu": "Csodálja meg a Torre Vecchia impozáns építészetét, ezt az ősi partvédelmi tornyot, amely különösen az aranyóra meleg fényeiben nyújt lenyűgöző hátteret a fotózáshoz.",
+            "ro": "Admirați arhitectura impunătoare a Torre Vecchia, un vechi turn de apărare a coastei care oferă un fundal spectaculos pentru fotografii, în special în timpul luminii calde de la ora de aur.",
+            "en": "Admire the imposing architecture of Torre Vecchia, an ancient coastal defense tower that provides a spectacular backdrop for photography, especially during the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem erfrischenden Spaziergang entlang der Küste nach Seleno und atmen Sie die Brise des Ionischen Meeres ein. Tauchen Sie gegen Mittag im Aquarium in die Unterwasserwelt ein. Am Nachmittag können Sie im Heiligtum der Madonna Greca die lokalen spirituellen Wurzeln zurückverfolgen, bevor Sie an der Spiaggia Grande entspannen. Lassen Sie sich am Abend von der Torre Vecchia in die Vergangenheit zurückversetzen, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a part mentén Seleno felé, beszívva a Jón-tenger friss levegőjét. Dél körül merüljön el a lenyűgöző víz alatti világban az Akváriumban. Délután fedezze fel a helyi spirituális gyökereket a Madonna Greca szentélynél, majd pihenjen a Spiaggia Grande homokján. Ahogy leszáll az est, az impozáns Torre Vecchia repítse vissza az időben a tenger feletti naplementében.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă pe coastă spre Seleno, respirând briza Mării Ionice. În jurul prânzului, explorați lumea subacvatică fascinantă la Acvariu, îmbinând învățarea cu relaxarea. După-amiaza, descoperiți rădăcinile spirituale locale la sanctuarul Madonna Greca, înainte de a vă relaxa la Spiaggia Grande. La lăsarea serii, impunătorul Torre Vecchia vă va transporta înapoi în timp.",
+        "en": "Start your morning with a refreshing stroll along the coastline to Seleno, breathing in the fresh Ionian breeze. Around midday, dive into the fascinating underwater world at the Aquarium, blending learning with relaxation. In the afternoon, trace the local spiritual roots at the Madonna Greca sanctuary before unwinding on the sands of Spiaggia Grande. As evening falls, let Torre Vecchia transport you back in time."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pietra di Nastase tombe neolitico",
+            "hu": "Pietra di Nastase tombe neolitico",
+            "ro": "Pietra di Nastase tombe neolitico",
+            "en": "Pietra di Nastase tombe neolitico"
+          },
+          "coords": [
+            17.085954,
+            38.926734
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden neolithischen Gräber, die bei Pietra di Nastase direkt in den Fels gehauen wurden, eine antike Stätte, für die festes Schuhwerk sehr zu empfehlen ist.",
+            "hu": "Fedezze fel a közvetlenül a sziklába vájt lenyűgöző neolitikus sírokat a Pietra di Nastasénál, amelynek egyenetlen terepén az ősi helyszín bejárásához erősen ajánlott a masszív lábbeli viselése.",
+            "ro": "Explorați fascinantele morminte neolitice săpate direct în stâncă la Pietra di Nastase, un sit antic unde încălțămintea robustă este foarte recomandată pentru a naviga pe terenul accidentat.",
+            "en": "Explore the fascinating Neolithic tombs carved directly into the rock at Pietra di Nastase, an ancient site where sturdy footwear is highly recommended for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Seleno",
+            "hu": "Seleno",
+            "ro": "Seleno",
+            "en": "Seleno"
+          },
+          "coords": [
+            17.088428,
+            38.910418
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenatmosphäre von Seleno, wo kristallklares Wasser zu einem erfrischenden morgendlichen Bad einlädt, aber vergessen Sie Ihre Badeschuhe für das felsige Ufer nicht.",
+            "hu": "Élvezze Seleno békés parti hangulatát, ahol a kristálytiszta víz frissítő reggeli csobbanásra csábít, de a sziklás partszakasz miatt feltétlenül hozzon magával vízicipőt.",
+            "ro": "Bucurați-vă de atmosfera senină de coastă din Seleno, unde apele cristaline vă invită la o baie matinală răcoritoare, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Enjoy the serene coastal atmosphere of Seleno, where crystal-clear waters invite you for a refreshing morning dip, but be sure to bring water shoes for the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+          },
+          "coords": [
+            17.098143,
+            38.905214
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Aquarium in die reiche Meeresartenvielfalt des Ionischen Meeres ein, wobei Sie die lehrreichen Ausstellungen am besten außerhalb der Mittagszeit besuchen.",
+            "hu": "Merüljön el a Jón-tenger gazdag tengeri biodiverzitásában ebben a modern akváriumban, amelynek oktatási kiállításait érdemes a déli csúcsidőn kívül megtekinteni, elkerülve az iskolai csoportokat.",
+            "ro": "Scufundați-vă în bogata biodiversitate marină a Mării Ionice la acest acvariu modern, unde expozițiile educative sunt cel mai bine explorate în afara orelor de prânz pentru a evita aglomerația.",
+            "en": "Dive into the rich marine biodiversity of the Ionian Sea at this modern aquarium, where educational exhibits are best enjoyed outside peak midday hours to avoid large school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+          },
+          "coords": [
+            17.100897,
+            38.905422
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses tief verehrte historische Heiligtum der Madonna Greca, wo ein Moment der Stille am alten Brunnen ein tiefes Gefühl für das lokale spirituelle Erbe vermittelt.",
+            "hu": "Fedezze fel ezt a Madonna Grecának szentelt, mélyen tisztelt történelmi szentélyt, ahol az ősi kút melletti csendes pillanatok mély betekintést nyújtanak a helyi spirituális örökségbe.",
+            "ro": "Descoperiți acest sanctuar istoric profund venerat dedicat Madonnei Greca, unde un moment de reculegere la vechea fântână vă va oferi o conexiune autentică cu moștenirea spirituală.",
+            "en": "Discover this deeply revered historical sanctuary dedicated to the Madonna Greca, where taking a moment of silence by the ancient well offers a profound sense of local spiritual heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Capo Bianco",
+            "hu": "Capo Bianco",
+            "ro": "Capo Bianco",
+            "en": "Capo Bianco"
+          },
+          "coords": [
+            17.114288,
+            38.912064
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen weißen Klippen von Capo Bianco, die mit dem azurblauen Meer kontrastieren, ein atemberaubender Aussichtspunkt, an dem Sie unbedingt eigenen Schatten mitbringen sollten.",
+            "hu": "Csodálja meg a Capo Bianco drámai fehér szikláit, ahogy a tengerkék vízzel kontrasztot alkotnak, és ne felejtsen el saját árnyékolót és vizet hozni ehhez a lélegzetelállító kilátóponthoz.",
+            "ro": "Admirați stâncile albe dramatice de la Capo Bianco în contrast cu marea azurie, un punct de belvedere uluitor unde aducerea propriei umbrele și a apei este esențială pentru confort.",
+            "en": "Marvel at the dramatic white cliffs of Capo Bianco contrasting with the azure sea, a breathtaking viewpoint where bringing your own shade and water is essential for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vecchia",
+            "hu": "Torre Vecchia",
+            "ro": "Torre Vecchia",
+            "en": "Torre Vecchia"
+          },
+          "coords": [
+            17.099392,
+            38.900025
+          ],
+          "category": "landmark",
+          "arrive_at": "16:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur der Torre Vecchia, eines alten Küstenverteidigungsturms, der besonders im warmen Licht der goldenen Stunde eine spektakuläre Kulisse für Fotografien bietet.",
+            "hu": "Csodálja meg a Torre Vecchia impozáns építészetét, ezt az ősi partvédelmi tornyot, amely különösen az aranyóra meleg fényeiben nyújt lenyűgöző hátteret a fotózáshoz.",
+            "ro": "Admirați arhitectura impunătoare a Torre Vecchia, un vechi turn de apărare a coastei care oferă un fundal spectaculos pentru fotografii, în special în timpul luminii calde de la ora de aur.",
+            "en": "Admire the imposing architecture of Torre Vecchia, an ancient coastal defense tower that provides a spectacular backdrop for photography, especially during the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie heute Morgen bei den alten neolithischen Gräbern von Pietra di Nastase in die Geschichte, gefolgt von einer Fahrt zur Ruhe der Küste von Seleno. Bereichern Sie Ihre Reise am Mittag mit einem Besuch im Aquarium und am heiligen Brunnen der Madonna Greca. Verbringen Sie einen sonnigen Nachmittag auf dem Rad zu den weißen Klippen von Capo Bianco. Beenden Sie Ihren aktiven Tag an der Torre Vecchia.",
+        "hu": "Reggel tekerjen a történelembe a Pietra di Nastase ősi neolitikus sírjainál, majd ereszkedjen le Seleno nyugodt partjaihoz. Délben gazdagítsa utazását az Akvárium és a Madonna Greca szent kútjának meglátogatásával. Töltsön el egy napfényes délutánt a Capo Bianco drámai fehér sziklái felé kerékpározva, amely felejthetetlen kilátást nyújt. Zárja aktív napját a Torre Vecchia-nál a tengerparti szellőben.",
+        "ro": "Porniți de dimineață spre istoria antică a mormintelor neolitice de la Pietra di Nastase, urmată de o plimbare brizoasă spre coasta liniștită din Seleno. La prânz, îmbogățiți-vă călătoria cu o vizită la Acvariu și la fântâna sacră Madonna Greca. Petreceți o după-amiază însorită pedalând spre stâncile albe dramatice de la Capo Bianco. Încheiați-vă ziua activă la Torre Vecchia, lăsând briza mării să vă răcorească.",
+        "en": "Pedal into history this morning at the ancient Neolithic tombs of Pietra di Nastase, followed by a breezy ride down to the coastal calm of Seleno. By midday, enrich your journey with a visit to the Aquarium and the sacred well of the Madonna Greca. Spend a sun-drenched afternoon cycling toward the dramatic white cliffs of Capo Bianco, offering unforgettable views. End your active day at Torre Vecchia."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:35",
+      "total_km": 8.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Vurga",
+            "hu": "Vurga",
+            "ro": "Vurga",
+            "en": "Vurga"
+          },
+          "coords": [
+            17.064536,
+            38.917139
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung in der ruhigen Oase von Vurga, wo die natürliche Schönheit der Küste gut erhalten ist, was sie zu einem großartigen Ort für friedliche Meditation macht.",
+            "hu": "Kezdje felfedezését Vurga nyugodt oázisában, ahol a part menti természeti szépség nagyszerűen megmaradt, így kiváló hely a csendes meditációra, még mielőtt a nap túlságosan felmelegedne.",
+            "ro": "Începeți explorarea la oaza liniștită din Vurga, unde frumusețea naturală de coastă este bine conservată, devenind un loc minunat pentru o meditație pașnică înainte să se încălzească.",
+            "en": "Start your exploration at the tranquil oasis of Vurga, where the natural coastal beauty is well-preserved, making it a great spot for peaceful meditation before the day gets hot."
+          }
+        },
+        {
+          "name": {
+            "de": "Capo Piccolo",
+            "hu": "Capo Piccolo",
+            "ro": "Capo Piccolo",
+            "en": "Capo Piccolo"
+          },
+          "coords": [
+            17.071901,
+            38.91535
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rauen Charme der Küste von Capo Piccolo, ein weniger bekanntes Juwel, wo Sie ungestörte Ausblicke genießen können, sofern Sie die leicht versteckten Pfade vorsichtig begehen.",
+            "hu": "Fedezze fel a Capo Piccolo partszakaszának zord varázsát, amely egy kevésbé ismert gyöngyszem, ahol zsúfoltság nélküli kilátást élvezhet, feltéve, hogy óvatosan halad a rejtett ösvényeken.",
+            "ro": "Descoperiți farmecul accidentat al coastei de la Capo Piccolo, o bijuterie mai puțin cunoscută unde vă puteți bucura de priveliști neaglomerate, dacă parcurgeți cu atenție cărările ușor ascunse.",
+            "en": "Discover the rugged charm of Capo Piccolo's coastline, a lesser-known gem where you can enjoy uncrowded views, provided you navigate the slightly hidden pathways with care."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietra di Nastase tombe neolitico",
+            "hu": "Pietra di Nastase tombe neolitico",
+            "ro": "Pietra di Nastase tombe neolitico",
+            "en": "Pietra di Nastase tombe neolitico"
+          },
+          "coords": [
+            17.085954,
+            38.926734
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden neolithischen Gräber, die bei Pietra di Nastase direkt in den Fels gehauen wurden, eine antike Stätte, für die festes Schuhwerk sehr zu empfehlen ist.",
+            "hu": "Fedezze fel a közvetlenül a sziklába vájt lenyűgöző neolitikus sírokat a Pietra di Nastasénál, amelynek egyenetlen terepén az ősi helyszín bejárásához erősen ajánlott a masszív lábbeli viselése.",
+            "ro": "Explorați fascinantele morminte neolitice săpate direct în stâncă la Pietra di Nastase, un sit antic unde încălțămintea robustă este foarte recomandată pentru a naviga pe terenul accidentat.",
+            "en": "Explore the fascinating Neolithic tombs carved directly into the rock at Pietra di Nastase, an ancient site where sturdy footwear is highly recommended for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Seleno",
+            "hu": "Seleno",
+            "ro": "Seleno",
+            "en": "Seleno"
+          },
+          "coords": [
+            17.088428,
+            38.910418
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenatmosphäre von Seleno, wo kristallklares Wasser zu einem erfrischenden Bad einlädt, aber vergessen Sie Ihre Badeschuhe für das felsige Ufer nicht.",
+            "hu": "Élvezze Seleno békés parti hangulatát, ahol a kristálytiszta víz frissítő csobbanásra csábít, de a sziklás partszakasz miatt feltétlenül hozzon magával vízicipőt.",
+            "ro": "Bucurați-vă de atmosfera senină de coastă din Seleno, unde apele cristaline vă invită la o baie răcoritoare, dar nu uitați să aduceți încălțăminte de apă pentru țărmul stâncos.",
+            "en": "Enjoy the serene coastal atmosphere of Seleno, where crystal-clear waters invite you for a refreshing dip, but be sure to bring water shoes for the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+            "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+          },
+          "coords": [
+            17.098143,
+            38.905214
+          ],
+          "category": "museum",
+          "arrive_at": "14:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Aquarium in die reiche Meeresartenvielfalt des Ionischen Meeres ein, wobei Sie die lehrreichen Ausstellungen am besten in Ruhe betrachten können.",
+            "hu": "Merüljön el a Jón-tenger gazdag tengeri biodiverzitásában ebben a modern akváriumban, amelynek oktatási kiállításait érdemes nyugodt tempóban végigjárni és élvezni a látványt.",
+            "ro": "Scufundați-vă în bogata biodiversitate marină a Mării Ionice la acest acvariu modern, unde expozițiile educative sunt cel mai bine explorate în propriul ritm, oferind o lecție relaxantă.",
+            "en": "Dive into the rich marine biodiversity of the Ionian Sea at this modern aquarium, where educational exhibits are best enjoyed at a leisurely pace to appreciate the local ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+            "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+          },
+          "coords": [
+            17.100897,
+            38.905422
+          ],
+          "category": "historical",
+          "arrive_at": "16:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses tief verehrte historische Heiligtum der Madonna Greca, wo ein Moment der Stille am alten Brunnen ein tiefes Gefühl für das lokale spirituelle Erbe vermittelt.",
+            "hu": "Fedezze fel ezt a Madonna Grecának szentelt, mélyen tisztelt történelmi szentélyt, ahol az ősi kút melletti csendes pillanatok mély betekintést nyújtanak a helyi spirituális örökségbe.",
+            "ro": "Descoperiți acest sanctuar istoric profund venerat dedicat Madonnei Greca, unde un moment de reculegere la vechea fântână vă va oferi o conexiune autentică cu moștenirea spirituală.",
+            "en": "Discover this deeply revered historical sanctuary dedicated to the Madonna Greca, where taking a moment of silence by the ancient well offers a profound sense of local spiritual heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Capo Bianco",
+            "hu": "Capo Bianco",
+            "ro": "Capo Bianco",
+            "en": "Capo Bianco"
+          },
+          "coords": [
+            17.114288,
+            38.912064
+          ],
+          "category": "recreational",
+          "arrive_at": "17:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen weißen Klippen von Capo Bianco, die mit dem azurblauen Meer kontrastieren, ein atemberaubender Aussichtspunkt, an dem Sie unbedingt eigenen Schatten mitbringen sollten.",
+            "hu": "Csodálja meg a Capo Bianco drámai fehér szikláit, ahogy a tengerkék vízzel kontrasztot alkotnak, és ne felejtsen el saját árnyékolót és vizet hozni ehhez a lélegzetelállító kilátóponthoz.",
+            "ro": "Admirați stâncile albe dramatice de la Capo Bianco în contrast cu marea azurie, un punct de belvedere uluitor unde aducerea propriei umbrele și a apei este esențială pentru confort.",
+            "en": "Marvel at the dramatic white cliffs of Capo Bianco contrasting with the azure sea, a breathtaking viewpoint where bringing your own shade and water is essential for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vecchia",
+            "hu": "Torre Vecchia",
+            "ro": "Torre Vecchia",
+            "en": "Torre Vecchia"
+          },
+          "coords": [
+            17.099392,
+            38.900025
+          ],
+          "category": "landmark",
+          "arrive_at": "18:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur der Torre Vecchia, eines alten Küstenverteidigungsturms, der besonders im warmen Licht der goldenen Stunde eine spektakuläre Kulisse für Fotografien bietet.",
+            "hu": "Csodálja meg a Torre Vecchia impozáns építészetét, ezt az ősi partvédelmi tornyot, amely különösen az aranyóra meleg fényeiben nyújt lenyűgöző hátteret a fotózáshoz.",
+            "ro": "Admirați arhitectura impunătoare a Torre Vecchia, un vechi turn de apărare a coastei care oferă un fundal spectaculos pentru fotografii, în special în timpul luminii calde de la ora de aur.",
+            "en": "Admire the imposing architecture of Torre Vecchia, an ancient coastal defense tower that provides a spectacular backdrop for photography, especially during the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um die friedlichen westlichen Ufer bei Vurga und Capo Piccolo zu genießen. Gehen Sie am späten Vormittag bei den faszinierenden Gräbern von Pietra di Nastase in die Geschichte über, bevor Sie nach Seleno fahren. Verbringen Sie den Nachmittag mit einem nahtlosen Wechsel zwischen dem Aquarium und der historischen Stätte Madonna Greca. Lassen Sie den Tag an den Klippen ausklingen.",
+        "hu": "Induljon korán, hogy Vurga és Capo Piccolo békés nyugati partjainál élvezhesse a reggeli nyugalmat. Késő délelőtt váltson a történelemre a lenyűgöző Pietra di Nastase síroknál, mielőtt a központi partra, Selenóba hajtana. A délutánt könnyedén feloszthatja az Akvárium és a történelmi Madonna Greca helyszín között. A nap végén autózzon el a lenyűgöző Capo Bianco sziklák mellett, és nézze meg a szürkületet.",
+        "ro": "Conduceți devreme pentru a vă bucura de țărmurile pașnice din vest la Vurga și Capo Piccolo. Faceți tranziția spre istorie dimineața târziu la fascinantele morminte Pietra di Nastase, înainte de a vă îndrepta spre Seleno. Petreceți-vă după-amiaza alternând între Acvariu și situl istoric Madonna Greca. Pe măsură ce ziua se încheie, conduceți pe lângă stâncile uimitoare de la Capo Bianco la amurg.",
+        "en": "Drive out early to embrace the peaceful western shores at Vurga and Capo Piccolo, soaking in the morning tranquility. Transition to history by late morning at the fascinating Pietra di Nastase tombs before heading to the central coast at Seleno. Spend your afternoon seamlessly hopping between the Aquarium and the historic Madonna Greca site. As the day ends, cruise past the stunning Capo Bianco cliffs."
+      }
+    }
+  }
+}

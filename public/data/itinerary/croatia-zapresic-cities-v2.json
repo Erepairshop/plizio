@@ -1,0 +1,405 @@
+{
+  "city_id": "croatia-zapresic-cities-v2",
+  "anchor": {
+    "name": "Zaprešić",
+    "coords": [
+      15.805,
+      45.858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Crveno dječje igralište",
+            "hu": "Crveno dječje igralište",
+            "ro": "Crveno dječje igralište",
+            "en": "Crveno dječje igralište"
+          },
+          "coords": [
+            15.801341,
+            45.861852
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen auf diesem roten Spielplatz, der ideal ist, um die Energie der Kinder zu wecken, während Sie sich einen Kaffee holen.",
+            "hu": "Kezdje a reggelt ezen a piros témájú játszótéren, amely tökéletes a gyerekek energiájának levezetésére, miközben ön iszik egy kávét.",
+            "ro": "Începeți dimineața la acest loc de joacă cu tematică roșie, perfect pentru a trezi energia copiilor în timp ce savurați o cafea în apropiere.",
+            "en": "Start your morning at this vibrant red-themed playground, perfect for waking up the kids' energy while you grab a nearby coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavo dječje igralište",
+            "hu": "Plavo dječje igralište",
+            "ro": "Plavo dječje igralište",
+            "en": "Plavo dječje igralište"
+          },
+          "coords": [
+            15.79859,
+            45.861524
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Familienspaziergang zu diesem blauen Spielplatz fort, der eine entspannende Umgebung und sichere Klettergerüste bietet.",
+            "hu": "Folytassa a családi sétát ehhez a kék témájú játszótérhez, amely pihentető környezetet és biztonságos mászókákat kínál a kisebbeknek.",
+            "ro": "Continuați plimbarea în familie spre acest loc de joacă albastru, oferind un mediu relaxant și structuri sigure de cățărat pentru copii.",
+            "en": "Continue your family stroll to this blue-themed playground, offering a relaxing environment and safe climbing structures for younger children."
+          }
+        },
+        {
+          "name": {
+            "de": "Dječje igralište \"Zaprešić\"",
+            "hu": "Dječje igralište \"Zaprešić\"",
+            "ro": "Dječje igralište \"Zaprešić\"",
+            "en": "Dječje igralište \"Zaprešić\""
+          },
+          "coords": [
+            15.797122,
+            45.866373
+          ],
+          "category": "family",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kleinen diesen städtischen Spielplatz genießen, der für seine gut gepflegten Schaukeln und die Nähe zur Bäckerei bekannt ist.",
+            "hu": "Hagyja, hogy a kicsik élvezzék ezt a központi játszóteret, amely jól karbantartott hintáiról és a helyi pékség közelségéről ismert.",
+            "ro": "Lăsați micuții să se bucure de acest loc de joacă central, cunoscut pentru leagănele sale bine întreținute și proximitatea de o brutărie.",
+            "en": "Let the little ones enjoy this central municipal playground, known for its well-maintained swings and close proximity to the town's bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerija Skurjeni",
+            "hu": "Galerija Skurjeni",
+            "ro": "Galerija Skurjeni",
+            "en": "Galerija Skurjeni"
+          },
+          "coords": [
+            15.804558,
+            45.870902
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige naive Kunst von Matija Skurjeni in dieser ruhigen Galerie und achten Sie auf die Details seiner Traumbilder.",
+            "hu": "Csodálja meg Matija Skurjeni egyedi naiv művészetét ebben a csendes galériában, időt szánva az álomszerű festmények bonyolult részleteire.",
+            "ro": "Admirați arta naivă unică a lui Matija Skurjeni în această galerie liniștită, luându-vă timp pentru a examina detaliile picturilor sale.",
+            "en": "Admire the unique naive art of Matija Skurjeni in this tranquil gallery, taking time to examine the intricate details of his dreamlike paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Novi dvori",
+            "hu": "Novi dvori",
+            "ro": "Novi dvori",
+            "en": "Novi dvori"
+          },
+          "coords": [
+            15.806816,
+            45.872707
+          ],
+          "category": "castle",
+          "arrive_at": "13:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem historischen Schlosskomplex des Banus Jelačić und bringen Sie eine Kamera für die neugotische Architektur mit.",
+            "hu": "Fejezze be sétáját a Jelačić bán egykori birtokán, és mindenképp hozzon fényképezőgépet a lenyűgöző neogótikus építészet megörökítéséhez.",
+            "ro": "Încheiați plimbarea la acest complex istoric deținut cândva de Banul Jelačić, aducând o cameră pentru a surprinde arhitectura neogotică.",
+            "en": "Conclude your walk at this historic castle complex once owned by Ban Jelačić, bringing a camera to capture the stunning neo-Gothic architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit Familienspaß auf den lebhaften Spielplätzen im Stadtzentrum.\nSetzen Sie Ihre Erkundung fort und verbinden Sie aktive Spielzeit mit einem Stadtbummel.\nTauchen Sie in der ruhigen Skurjeni-Galerie in die Welt der Kunst und Traumbilder ein.\nLassen Sie den Tag im weitläufigen Anwesen Novi dvori ausklingen und genießen Sie das historische Flair.",
+        "hu": "Kezdje a reggelt családi szórakozással a helyi játszótereken a városközpontban.\nFolytassa a városi parkok felfedezését, ötvözve az aktív játékidőt egy pihentető sétával.\nLépjen át a művészet birodalmába a csendes Skurjeni Galériában, megcsodálva az álomszerű remekműveket.\nFejezze be a napot a nagyszerű Novi dvori birtokon, elmerülve a Jelačić örökség történelmi hangulatában.",
+        "ro": "Începeți dimineața cu distracție în familie la locurile de joacă vibrante din centrul orașului.\nContinuați explorarea parcurilor municipale, îmbinând timpul activ de joacă cu o plimbare relaxantă.\nTreceți în tărâmul artei la liniștita Galerie Skurjeni, admirând capodopere de vis.\nÎncheiați la grandioasa moșie Novi dvori, absorbind ambianța istorică a moștenirii Jelačić.",
+        "en": "Begin the day with family fun at the vibrant local playgrounds in the city center.\nContinue exploring the municipal parks, blending active playtime with a relaxing urban stroll.\nTransition into the realm of art at the tranquil Skurjeni Gallery, admiring dreamlike masterpieces.\nConclude at the grand Novi dvori estate, soaking in the historical ambiance of the Jelačić legacy."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zajarki",
+            "hu": "Zajarki",
+            "ro": "Zajarki",
+            "en": "Zajarki"
+          },
+          "coords": [
+            15.803938,
+            45.843231
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Fahrt am Hauptsee Zajarki, einem hervorragenden Ort zur Vogelbeobachtung am Morgen, bevor die Menschenmassen eintreffen.",
+            "hu": "Kezdje a kerékpározást a fő Zajarki-tónál, amely kiváló hely a reggeli madármegfigyeléshez, mielőtt megérkezik a tömeg.",
+            "ro": "Începeți cursa la lacul principal Zajarki, un loc excelent pentru observarea păsărilor dimineața înainte de sosirea mulțimilor.",
+            "en": "Kick off your ride at the main Zajarki lake, an excellent spot for morning birdwatching and breathing in the fresh air before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Zajarki - malo jezero",
+            "hu": "Zajarki - malo jezero",
+            "ro": "Zajarki - malo jezero",
+            "en": "Zajarki - malo jezero"
+          },
+          "coords": [
+            15.801919,
+            45.846405
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie zum kleineren, ruhigeren See nebenan, wo Sie sich kurz an den grasbewachsenen Ufern ausruhen und die Wasserspiegelungen genießen können.",
+            "hu": "Tekerjen át a közeli, kisebb, csendesebb tóhoz, ahol rövid pihenőt tarthat a füves parton, és élvezheti a víz békés tükröződését.",
+            "ro": "Pedalați până la lacul mai mic și mai liniștit din apropiere, unde vă puteți odihni scurt pe malul înierbat pentru a admira reflexiile apei.",
+            "en": "Pedal over to the smaller, quieter lake nearby, where you can take a brief rest on the grassy banks to enjoy the peaceful water reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Lužnica",
+            "hu": "Dvorac Lužnica",
+            "ro": "Dvorac Lužnica",
+            "en": "Dvorac Lužnica"
+          },
+          "coords": [
+            15.780202,
+            45.866791
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige barocke Schloss, das von Nonnen geführt wird, und schieben Sie Ihr Fahrrad durch den schönen englischen Park.",
+            "hu": "Fedezze fel ezt az apácák által vezetett csodálatos barokk kastélyt, és tolja végig kerékpárját a gyönyörűen parkosított angol stílusú kerten.",
+            "ro": "Explorați acest castel baroc magnific administrat de călugărițe și asigurați-vă că plimbați bicicleta prin parcul frumos amenajat în stil englezesc.",
+            "en": "Explore this magnificent baroque castle managed by nuns, and be sure to walk your bike through the beautifully landscaped English-style park."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Brdovec",
+            "hu": "Muzej Brdovec",
+            "ro": "Muzej Brdovec",
+            "en": "Muzej Brdovec"
+          },
+          "coords": [
+            15.769959,
+            45.864476
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in diesem charmanten Regionalmuseum und achten Sie besonders auf die archäologischen Funde aus der Region.",
+            "hu": "Fedezze fel a helyi örökséget ebben a bájos regionális múzeumban, különös figyelmet fordítva a Zaprešić környéki régészeti leletekre.",
+            "ro": "Descoperiți patrimoniul local în acest fermecător muzeu regional, acordând o atenție deosebită descoperirilor arheologice din zona Zaprešić.",
+            "en": "Discover the local heritage in this charming regional museum, paying special attention to the archaeological finds from the Zaprešić area."
+          }
+        },
+        {
+          "name": {
+            "de": "Novi dvori",
+            "hu": "Novi dvori",
+            "ro": "Novi dvori",
+            "en": "Novi dvori"
+          },
+          "coords": [
+            15.806816,
+            45.872707
+          ],
+          "category": "castle",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag auf dem Anwesen der Familie Jelačić und steigen Sie ab, um entlang der historischen Allee zum Herrenhaus zu spazieren.",
+            "hu": "Fejezze be kerékpáros napját a Jelačić család birtokán, leszállva a nyeregből, hogy végigsétáljon a kúriához vezető történelmi fasoron.",
+            "ro": "Încheiați ziua de ciclism la proprietatea familiei Jelačić, descălecând pentru a vă plimba de-a lungul aleii istorice mărginite de copaci.",
+            "en": "Finish your biking day at the Jelačić family estate, dismounting to walk along the historic tree-lined avenue that leads up to the manor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie hinunter zu den ruhigen Seen von Zajarki und beginnen Sie Ihren Tag mit frischer Luft.\nFahren Sie nach Westen zum Schloss Lužnica und erleben Sie seine atemberaubende barocke Architektur.\nTreten Sie in die Pedale in Richtung Museum Brdovec, um regionale archäologische Schätze zu entdecken.\nErreichen Sie den majestätischen Komplex Novi dvori und ruhen Sie sich unter den alten Bäumen aus.",
+        "hu": "Tekerjen le a nyugodt Zajarki-tavakhoz, friss levegővel és víztükröződéssel indítva a napot.\nUtazzon nyugat felé a Lužnica kastélyhoz, és tapasztalja meg lenyűgöző barokk építészetét és kertjeit.\nTekerjen a Brdovec Múzeum felé, hogy felfedezze a regionális régészeti kincseket és a helyi történelmet.\nÉrkezzen meg a fenséges Novi dvori komplexumhoz, megpihentetve lábait az ősi, fákkal övezett sugárutakon.",
+        "ro": "Ciclism către lacurile liniștite Zajarki, începând ziua cu aer proaspăt și reflexii pe apă.\nCălătoriți spre vest către Castelul Lužnica, experimentând arhitectura sa barocă și grădinile uimitoare.\nPedalați spre Muzeul Brdovec pentru a descoperi comori arheologice regionale și istoria locală.\nAjungeți la complexul maiestuos Novi dvori, odihnindu-vă picioarele sub aleile antice mărginite de copaci.",
+        "en": "Cycle down to the serene Zajarki lakes, starting your day with fresh air and water reflections.\nJourney westward to the Lužnica Castle, experiencing its stunning baroque architecture and gardens.\nPedal towards the Brdovec Museum to uncover regional archaeological treasures and local history.\nArrive at the majestic Novi dvori complex, resting your legs under the ancient, tree-lined avenues."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 24.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jezera Strmec",
+            "hu": "Jezera Strmec",
+            "ro": "Jezera Strmec",
+            "en": "Jezera Strmec"
+          },
+          "coords": [
+            15.801011,
+            45.825467
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesen weitläufigen Naturschutzseen und parken Sie in der Nähe des Eingangs, um einen Morgenspaziergang auf den Pfaden zu genießen.",
+            "hu": "Vezessen le ezekhez a kiterjedt természetvédelmi tavakhoz, parkoljon a bejárat közelében, és tegyen egy reggeli sétát a jól jelzett horgászösvényeken.",
+            "ro": "Conduceți spre aceste lacuri de rezervație naturală extinse, parcând lângă intrare pentru a vă bucura de o plimbare matinală pe traseele marcate.",
+            "en": "Drive down to these expansive nature reserve lakes, parking near the entrance to enjoy a morning stroll along the well-marked fishing trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej automobila Ferdinand Budicki",
+            "hu": "Muzej automobila Ferdinand Budicki",
+            "ro": "Muzej automobila Ferdinand Budicki",
+            "en": "Muzej automobila Ferdinand Budicki"
+          },
+          "coords": [
+            15.82564,
+            45.872002
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die kroatische Autogeschichte ein, wo Oldtimer-Liebhaber nach seltenen Vintage-Modellen suchen sollten.",
+            "hu": "Merüljön el Horvátország autózási történelmében ebben az egyedülálló múzeumban, ahol a klasszikus autók rajongói ritka veterán modelleket is láthatnak.",
+            "ro": "Cufundați-vă în istoria automobilismului croat în acest muzeu unic, unde pasionații de mașini clasice ar trebui să caute modelele vintage rare.",
+            "en": "Immerse yourself in Croatia's motoring history at this unique museum, where classic car enthusiasts should look out for the rare vintage models."
+          }
+        },
+        {
+          "name": {
+            "de": "Novi dvori",
+            "hu": "Novi dvori",
+            "ro": "Novi dvori",
+            "en": "Novi dvori"
+          },
+          "coords": [
+            15.806816,
+            45.872707
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem ausgewiesenen Parkplatz, um das Anwesen Jelačić zu erkunden, und nehmen Sie sich Zeit für den Getreidespeicher und die Kapelle.",
+            "hu": "Parkoljon a kijelölt területen a lenyűgöző Jelačić birtok felfedezéséhez, és szánjon időt a magtár és a neogótikus családi kápolna megcsodálására.",
+            "ro": "Parcați în zona desemnată pentru a explora impresionanta proprietate Jelačić, păstrând timp pentru a admira grânarul și capela familiei.",
+            "en": "Park at the designated area to explore the impressive Jelačić estate, saving time to admire the granary and the neo-Gothic family chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Lužnica",
+            "hu": "Dvorac Lužnica",
+            "ro": "Dvorac Lužnica",
+            "en": "Dvorac Lužnica"
+          },
+          "coords": [
+            15.780202,
+            45.866791
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie eine kurze Strecke zu diesem beeindruckenden Barockschloss aus dem 18. Jahrhundert und bewundern Sie die schöne Fassade und den Park.",
+            "hu": "Vezessen el ehhez a lenyűgöző 18. századi barokk kastélyhoz, és szánjon egy percet a gyönyörű homlokzat és a környező park értékelésére.",
+            "ro": "Conduceți o scurtă distanță până la acest uimitor castel baroc din secolul al XVIII-lea, apreciind fațada frumoasă și parcul înconjurător.",
+            "en": "Drive a short distance to this stunning 18th-century baroque castle, taking a moment to appreciate the beautiful facade and the surrounding parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Park prirode Medvednica",
+            "hu": "Park prirode Medvednica",
+            "ro": "Park prirode Medvednica",
+            "en": "Park prirode Medvednica"
+          },
+          "coords": [
+            15.973717,
+            45.903644
+          ],
+          "category": "natural",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 15.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit einer malerischen Fahrt in den Naturpark, bringen Sie eine Jacke mit, um die kühlere Luft und den Sonnenuntergang zu genießen.",
+            "hu": "Fejezze be autós utazását a hegyi természetvédelmi park festői útján, és hozzon kabátot a hűvösebb levegő és a panorámás naplemente élvezetéhez.",
+            "ro": "Încheiați excursia cu o plimbare pitorească spre parcul natural montan, aducând o jachetă pentru a vă bucura de aerul mai rece și de apusul panoramic.",
+            "en": "End your road trip with a scenic drive up the mountain nature park, bringing a jacket to enjoy the cooler air and panoramic sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den weitläufigen Strmec-Seen für einen erfrischenden Morgenspaziergang.\nFahren Sie in die Stadt, um die Oldtimer-Sammlung im Automuseum Ferdinand Budicki zu bewundern.\nBesichtigen Sie die historischen Schlösser Novi dvori und Lužnica und bewundern Sie die aristokratische Architektur.\nFahren Sie in den Naturpark Medvednica und genießen Sie auf der malerischen Route den Panoramablick.",
+        "hu": "Vezessen el a kiterjedt Strmec tavakhoz egy frissítő reggeli sétára a vízparton.\nIrány a város, hogy felpörgesse motorjait a Ferdinand Budicki Autómúzeum veterán gyűjteményében.\nJárja be Novi dvori és Lužnica történelmi kastélyait, megcsodálva az arisztokratikus építészetet.\nMásszon fel a Medvednica Természetvédelmi Parkba egy festői autózásra, élvezve a panorámát és a hűvösebb klímát.",
+        "ro": "Conduceți spre lacurile Strmec extinse pentru o plimbare matinală revigorantă pe malul apei.\nMergeți în oraș pentru a tura motoarele la colecția vintage a Muzeului de Automobile Ferdinand Budicki.\nVizitați castelele istorice Novi dvori și Lužnica, minunându-vă de arhitectura aristocratică.\nUrcați în Parcul Natural Medvednica pentru o plimbare pitorească, bucurându-vă de vederi panoramice.",
+        "en": "Drive to the expansive Strmec lakes for a refreshing morning walk by the water's edge.\nHead into town to rev your engines at the Ferdinand Budicki Automobile Museum's vintage collection.\nTour the historic castles of Novi dvori and Lužnica, marveling at aristocratic architecture.\nAscend into Medvednica Nature Park for a scenic drive, enjoying panoramic views and a cooler climate."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-dakovo-cities-v2",
+  "anchor": {
+    "name": "Đakovo",
+    "coords": [
+      18.411,
+      45.308
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Biskupski dvor",
+            "hu": "Biskupski dvor",
+            "ro": "Biskupski dvor",
+            "en": "Biskupski dvor"
+          },
+          "coords": [
+            18.411142,
+            45.307204
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz des historischen Bischofspalastes, der das Erbe der Region prägt, und achten Sie auf die aufwendigen Details der Fassade.",
+            "hu": "Csodálja meg a történelmi püspöki palota építészeti eleganciáját, amely a régió örökségét formálja, és figyeljen a homlokzat bonyolult részleteire az udvaron.",
+            "ro": "Admirați eleganța arhitecturală a palatului episcopal istoric, care a modelat moștenirea regiunii, și acordați atenție detaliilor complexe ale fațadei din curte.",
+            "en": "Admire the architectural elegance of the historical Bishop's Palace that shaped the region's heritage, and pay close attention to the intricate facade details outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej biskupa J.J. Strossmayera",
+            "hu": "Muzej biskupa J.J. Strossmayera",
+            "ro": "Muzej biskupa J.J. Strossmayera",
+            "en": "Muzej biskupa J.J. Strossmayera"
+          },
+          "coords": [
+            18.411243,
+            45.308148
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie wertvolle religiöse Kunst und historische Artefakte, die von Bischof Strossmayer gesammelt wurden, und nehmen Sie sich Zeit für die faszinierende Gemäldegalerie.",
+            "hu": "Fedezze fel a Strossmayer püspök által gyűjtött értékes vallási művészeti és történelmi tárgyakat, és szánjon időt a lenyűgöző festménygaléria alapos megtekintésére.",
+            "ro": "Descoperiți arta religioasă valoroasă și artefactele istorice colectate de episcopul Strossmayer și luați-vă timp pentru a explora galeria fascinantă de picturi unice.",
+            "en": "Discover valuable religious art and historical artifacts collected by Bishop Strossmayer, and make sure to take your time exploring the fascinating painting gallery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom kulture",
+            "hu": "Dom kulture",
+            "ro": "Dom kulture",
+            "en": "Dom kulture"
+          },
+          "coords": [
+            18.4122,
+            45.3105
+          ],
+          "category": "cultural",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das pulsierende kulturelle Leben der Stadt in diesem zentralen Veranstaltungsort, und informieren Sie sich am Eingang über aktuelle Aufführungen oder lokale Ausstellungen.",
+            "hu": "Tapasztalja meg a város lüktető kulturális életét ebben a központi intézményben, és a bejáratnál tájékozódjon az aktuális előadásokról vagy a helyi kiállításokról.",
+            "ro": "Experimentați viața culturală vibrantă a orașului în acest loc central și verificați la intrare programul pentru a prinde o reprezentație sau o expoziție de artă locală.",
+            "en": "Experience the vibrant cultural life of the city in this central venue, and check the entrance board to catch a live performance or browse through the local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Đakovštine",
+            "hu": "Muzej Đakovštine",
+            "ro": "Muzej Đakovštine",
+            "en": "Muzej Đakovštine"
+          },
+          "coords": [
+            18.409064,
+            45.313436
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Ethnographie und Geschichte der Region Đakovo ein und bestaunen Sie die farbenfrohen traditionellen Trachten, die im Hauptsaal ausgestellt sind.",
+            "hu": "Merüljön el Đakovo régiójának gazdag néprajzában és történelmében, miközben megcsodálja a főteremben kiállított, lenyűgözően színes, hagyományos népviseleteket és tárgyakat.",
+            "ro": "Pătrundeți în etnografia și istoria bogată a regiunii Đakovo, în timp ce vă minunați de costumele tradiționale colorate expuse cu mare grijă în holul principal al muzeului.",
+            "en": "Delve into the rich ethnography and history of the Đakovo region, making sure to marvel at the vibrant traditional costumes displayed prominently in the main exhibition hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Državna ergela lipicanaca Đakovo",
+            "hu": "Državna ergela lipicanaca Đakovo",
+            "ro": "Državna ergela lipicanaca Đakovo",
+            "en": "Državna ergela lipicanaca Đakovo"
+          },
+          "coords": [
+            18.422816,
+            45.310111
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen und weltberühmten Lipizzaner-Pferde hautnah in diesem historischen Gestüt, und buchen Sie am besten eine Führung für tiefere Einblicke.",
+            "hu": "Figyelje meg testközelből a fenséges és világhírű lipicai lovakat ebben a történelmi ménesben, és érdemes vezetett túrát foglalni a mélyebb betekintés és élmény érdekében.",
+            "ro": "Observați de aproape maiestuoșii și faimoșii cai lipițani în această herghelie istorică, și vă recomandăm să rezervați un tur ghidat pentru a afla detalii fascinante.",
+            "en": "Observe the majestic and world-famous Lipizzan horses up close at this historical stud farm, and it is highly recommended to book a guided tour for deeper insights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am beeindruckenden Bischofspalast. Am Vormittag tauchen Sie im Strossmayer-Museum in die reiche sakrale Kunst ein. Nach einem Mittagessen erkunden Sie das kulturelle Zentrum Dom kulture. Der Nachmittag ist der regionalen Geschichte im Muzej Đakovštine gewidmet. Schließlich beenden Sie den Tag bei den edlen Lipizzanern auf dem majestätischen Staatsgestüt.",
+        "hu": "Kezdje a napot a lenyűgöző Püspöki Palotánál. A délelőtt folyamán merüljön el a gazdag szakrális művészetben a Strossmayer Múzeumban. Egy kellemes ebéd után fedezze fel a Dom kulture kulturális központot. A délutánt a regionális történelemnek szenteljük a Muzej Đakovštine-ban. Végül a napot a fenséges lipicai lovak társaságában zárja a világhírű állami ménesbirtokon.",
+        "ro": "Începeți ziua la impresionantul Palat Episcopal. Dimineața, cufundați-vă în bogata artă sacră la Muzeul Strossmayer. După un prânz plăcut, explorați centrul cultural Dom kulture. După-amiaza este dedicată istoriei regionale la Muzeul Đakovštine. În cele din urmă, încheiați ziua în compania cailor nobili lipițani la faimoasa herghelie de stat, plină de istorie.",
+        "en": "Start your day at the impressive Bishop's Palace. In the morning, dive into rich sacred art at the Strossmayer Museum. After a pleasant lunch, explore the Dom kulture cultural center. The afternoon is dedicated to regional history at the fascinating Muzej Đakovštine. Finally, end your day in the company of the noble Lipizzan horses at the majestic and famous state stud farm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Biskupski dvor",
+            "hu": "Biskupski dvor",
+            "ro": "Biskupski dvor",
+            "en": "Biskupski dvor"
+          },
+          "coords": [
+            18.411142,
+            45.307204
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz des historischen Bischofspalastes, der das Erbe der Region prägt, und achten Sie auf die aufwendigen Details der Fassade.",
+            "hu": "Csodálja meg a történelmi püspöki palota építészeti eleganciáját, amely a régió örökségét formálja, és figyeljen a homlokzat bonyolult részleteire az udvaron.",
+            "ro": "Admirați eleganța arhitecturală a palatului episcopal istoric, care a modelat moștenirea regiunii, și acordați atenție detaliilor complexe ale fațadei din curte.",
+            "en": "Admire the architectural elegance of the historical Bishop's Palace that shaped the region's heritage, and pay close attention to the intricate facade details outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej biskupa J.J. Strossmayera",
+            "hu": "Muzej biskupa J.J. Strossmayera",
+            "ro": "Muzej biskupa J.J. Strossmayera",
+            "en": "Muzej biskupa J.J. Strossmayera"
+          },
+          "coords": [
+            18.411243,
+            45.308148
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie wertvolle religiöse Kunst und historische Artefakte, die von Bischof Strossmayer gesammelt wurden, und nehmen Sie sich Zeit für die faszinierende Gemäldegalerie.",
+            "hu": "Fedezze fel a Strossmayer püspök által gyűjtött értékes vallási művészeti és történelmi tárgyakat, és szánjon időt a lenyűgöző festménygaléria alapos megtekintésére.",
+            "ro": "Descoperiți arta religioasă valoroasă și artefactele istorice colectate de episcopul Strossmayer și luați-vă timp pentru a explora galeria fascinantă de picturi unice.",
+            "en": "Discover valuable religious art and historical artifacts collected by Bishop Strossmayer, and make sure to take your time exploring the fascinating painting gallery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Đakovštine",
+            "hu": "Muzej Đakovštine",
+            "ro": "Muzej Đakovštine",
+            "en": "Muzej Đakovštine"
+          },
+          "coords": [
+            18.409064,
+            45.313436
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Ethnographie und Geschichte der Region Đakovo ein und bestaunen Sie die farbenfrohen traditionellen Trachten, die im Hauptsaal ausgestellt sind.",
+            "hu": "Merüljön el Đakovo régiójának gazdag néprajzában és történelmében, miközben megcsodálja a főteremben kiállított, lenyűgözően színes, hagyományos népviseleteket és tárgyakat.",
+            "ro": "Pătrundeți în etnografia și istoria bogată a regiunii Đakovo, în timp ce vă minunați de costumele tradiționale colorate expuse cu mare grijă în holul principal al muzeului.",
+            "en": "Delve into the rich ethnography and history of the Đakovo region, making sure to marvel at the vibrant traditional costumes displayed prominently in the main exhibition hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Državna ergela lipicanaca Đakovo",
+            "hu": "Državna ergela lipicanaca Đakovo",
+            "ro": "Državna ergela lipicanaca Đakovo",
+            "en": "Državna ergela lipicanaca Đakovo"
+          },
+          "coords": [
+            18.422816,
+            45.310111
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen und weltberühmten Lipizzaner-Pferde hautnah in diesem historischen Gestüt, und buchen Sie am besten eine Führung für tiefere Einblicke.",
+            "hu": "Figyelje meg testközelből a fenséges és világhírű lipicai lovakat ebben a történelmi ménesben, és érdemes vezetett túrát foglalni a mélyebb betekintés és élmény érdekében.",
+            "ro": "Observați de aproape maiestuoșii și faimoșii cai lipițani în această herghelie istorică, și vă recomandăm să rezervați un tur ghidat pentru a afla detalii fascinante.",
+            "en": "Observe the majestic and world-famous Lipizzan horses up close at this historical stud farm, and it is highly recommended to book a guided tour for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Školsko igralište",
+            "hu": "Školsko igralište",
+            "ro": "Školsko igralište",
+            "en": "Školsko igralište"
+          },
+          "coords": [
+            18.413982,
+            45.320096
+          ],
+          "category": "family",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine entspannte Pause auf diesem beliebten Spielplatz, wo Kinder unbeschwert toben können, während Sie auf den schattigen Bänken neue Energie tanken.",
+            "hu": "Tartson egy pihentető szünetet ezen a népszerű játszótéren, ahol a gyerekek felhőtlenül szaladgálhatnak, miközben Ön az árnyékos padokon ülve feltöltődhet energiával.",
+            "ro": "Luați o pauză relaxantă la acest loc de joacă popular, unde copiii pot alerga în voie, în timp ce dumneavoastră vă reîncărcați bateriile stând pe băncile umbrite din apropiere.",
+            "en": "Take a relaxing break at this popular playground where children can run around freely, while you comfortably recharge your energy sitting on the convenient shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Jošava",
+            "hu": "Jošava",
+            "ro": "Jošava",
+            "en": "Jošava"
+          },
+          "coords": [
+            18.441365,
+            45.330909
+          ],
+          "category": "natural",
+          "arrive_at": "16:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt in diesem ruhigen Naturgebiet am See, das sich perfekt für einen gemütlichen Spaziergang oder ein kleines Picknick im Grünen eignet.",
+            "hu": "Szakadjon ki a város zajából ezen a békés, tóparti természeti területen, amely tökéletes helyszínt biztosít egy kellemes sétához vagy egy rögtönzött piknikhez a zöldben.",
+            "ro": "Evadați din agitația orașului în această zonă naturală liniștită de pe malul lacului, perfectă pentru o plimbare relaxantă sau un mic picnic la umbra copacilor bătrâni.",
+            "en": "Escape the hustle and bustle of the city at this peaceful lakeside natural area, which is absolutely perfect for a leisurely afternoon stroll or a small picnic in the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt am historischen Bischofspalast. Am Vormittag radeln Sie zu den Museen der Stadt, um Kunst und Geschichte zu erleben. Zur Mittagszeit besuchen Sie das berühmte Lipizzaner-Gestüt. Danach bietet der Spielplatz eine kurze Verschnaufpause. Am späten Nachmittag fahren Sie gemütlich zum Jošava-See, wo Sie den Tag in der Natur ruhig ausklingen lassen.",
+        "hu": "Kezdje kerékpártúráját a történelmi Püspöki Palotánál. Délelőtt kerekezzen el a város múzeumaihoz, hogy felfedezze a művészetet és történelmet. Ebédidőben látogassa meg a híres lipicai ménest. Ezután a játszótér rövid, pihentető szünetet kínál. Késő délután kényelmesen tekerjen a Jošava-tóhoz, ahol a természet lágy ölén, békésen fejezheti be ezt a tartalmas napot.",
+        "ro": "Începeți turul cu bicicleta la istoricul Palat Episcopal. Dimineața, pedalați spre muzeele orașului pentru artă și istorie. La prânz, vizitați faimoasa herghelie de cai lipițani. După aceea, locul de joacă oferă un scurt moment de respiro. Spre sfârșitul după-amiezii, mergeți relaxat spre Lacul Jošava, unde puteți încheia ziua liniștit, înconjurat de frumusețea naturii.",
+        "en": "Start your bike tour smoothly at the historical Bishop's Palace. In the morning, pedal to the city's museums to experience local art and history. At lunchtime, visit the famous Lipizzan stud farm. Afterwards, the playground offers a short, relaxing breathing space. In the late afternoon, ride comfortably to Lake Jošava, where you can quietly end the day in nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 18.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Biskupski dvor",
+            "hu": "Biskupski dvor",
+            "ro": "Biskupski dvor",
+            "en": "Biskupski dvor"
+          },
+          "coords": [
+            18.411142,
+            45.307204
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz des historischen Bischofspalastes, der das Erbe der Region prägt, und achten Sie auf die aufwendigen Details der Fassade.",
+            "hu": "Csodálja meg a történelmi püspöki palota építészeti eleganciáját, amely a régió örökségét formálja, és figyeljen a homlokzat bonyolult részleteire az udvaron.",
+            "ro": "Admirați eleganța arhitecturală a palatului episcopal istoric, care a modelat moștenirea regiunii, și acordați atenție detaliilor complexe ale fațadei din curte.",
+            "en": "Admire the architectural elegance of the historical Bishop's Palace that shaped the region's heritage, and pay close attention to the intricate facade details outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Državna ergela lipicanaca Đakovo",
+            "hu": "Državna ergela lipicanaca Đakovo",
+            "ro": "Državna ergela lipicanaca Đakovo",
+            "en": "Državna ergela lipicanaca Đakovo"
+          },
+          "coords": [
+            18.422816,
+            45.310111
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die majestätischen und weltberühmten Lipizzaner-Pferde hautnah in diesem historischen Gestüt, und buchen Sie am besten eine Führung für tiefere Einblicke.",
+            "hu": "Figyelje meg testközelből a fenséges és világhírű lipicai lovakat ebben a történelmi ménesben, és érdemes vezetett túrát foglalni a mélyebb betekintés és élmény érdekében.",
+            "ro": "Observați de aproape maiestuoșii și faimoșii cai lipițani în această herghelie istorică, și vă recomandăm să rezervați un tur ghidat pentru a afla detalii fascinante.",
+            "en": "Observe the majestic and world-famous Lipizzan horses up close at this historical stud farm, and it is highly recommended to book a guided tour for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Đakovštine",
+            "hu": "Muzej Đakovštine",
+            "ro": "Muzej Đakovštine",
+            "en": "Muzej Đakovštine"
+          },
+          "coords": [
+            18.409064,
+            45.313436
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Ethnographie und Geschichte der Region Đakovo ein und bestaunen Sie die farbenfrohen traditionellen Trachten, die im Hauptsaal ausgestellt sind.",
+            "hu": "Merüljön el Đakovo régiójának gazdag néprajzában és történelmében, miközben megcsodálja a főteremben kiállított, lenyűgözően színes, hagyományos népviseleteket és tárgyakat.",
+            "ro": "Pătrundeți în etnografia și istoria bogată a regiunii Đakovo, în timp ce vă minunați de costumele tradiționale colorate expuse cu mare grijă în holul principal al muzeului.",
+            "en": "Delve into the rich ethnography and history of the Đakovo region, making sure to marvel at the vibrant traditional costumes displayed prominently in the main exhibition hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Školsko igralište",
+            "hu": "Školsko igralište",
+            "ro": "Školsko igralište",
+            "en": "Školsko igralište"
+          },
+          "coords": [
+            18.413982,
+            45.320096
+          ],
+          "category": "family",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine entspannte Pause auf diesem beliebten Spielplatz, wo Kinder unbeschwert toben können, während Sie auf den schattigen Bänken neue Energie tanken.",
+            "hu": "Tartson egy pihentető szünetet ezen a népszerű játszótéren, ahol a gyerekek felhőtlenül szaladgálhatnak, miközben Ön az árnyékos padokon ülve feltöltődhet energiával.",
+            "ro": "Luați o pauză relaxantă la acest loc de joacă popular, unde copiii pot alerga în voie, în timp ce dumneavoastră vă reîncărcați bateriile stând pe băncile umbrite din apropiere.",
+            "en": "Take a relaxing break at this popular playground where children can run around freely, while you comfortably recharge your energy sitting on the convenient shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Jošava",
+            "hu": "Jošava",
+            "ro": "Jošava",
+            "en": "Jošava"
+          },
+          "coords": [
+            18.441365,
+            45.330909
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt in diesem ruhigen Naturgebiet am See, das sich perfekt für einen gemütlichen Spaziergang oder ein kleines Picknick im Grünen eignet.",
+            "hu": "Szakadjon ki a város zajából ezen a békés, tóparti természeti területen, amely tökéletes helyszínt biztosít egy kellemes sétához vagy egy rögtönzött piknikhez a zöldben.",
+            "ro": "Evadați din agitația orașului în această zonă naturală liniștită de pe malul lacului, perfectă pentru o plimbare relaxantă sau un mic picnic la umbra copacilor bătrâni.",
+            "en": "Escape the hustle and bustle of the city at this peaceful lakeside natural area, which is absolutely perfect for a leisurely afternoon stroll or a small picnic in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlinac",
+            "hu": "Mlinac",
+            "ro": "Mlinac",
+            "en": "Mlinac"
+          },
+          "coords": [
+            18.308028,
+            45.297948
+          ],
+          "category": "natural",
+          "arrive_at": "16:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur und die beruhigende Atmosphäre rund um Mlinac, ein idealer Ort, um die malerische Landschaft und die frische Luft abseits der Massen zu erleben.",
+            "hu": "Élvezze a Mlinac körüli érintetlen természetet és a nyugtató légkört, ami ideális hely arra, hogy megtapasztalja a festői tájat és a friss levegőt távol a tömegtől.",
+            "ro": "Bucurați-vă de natura neatinsă și de atmosfera liniștitoare din jurul Mlinac, un loc ideal pentru a experimenta peisajul pitoresc și aerul proaspăt departe de aglomerație.",
+            "en": "Enjoy the untouched nature and soothing atmosphere around Mlinac, an ideal spot to experience the picturesque local landscape and fresh air completely away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip durch Đakovo beginnt am majestätischen Bischofspalast. Danach fahren Sie direkt zum weltbekannten Lipizzaner-Gestüt. Mittags tauchen Sie im Muzej Đakovštine in die lokale Historie ein. Am Nachmittag bietet ein kurzer Stopp am Spielplatz Abwechslung, bevor Sie zum idyllischen Jošava-See weiterfahren. Den Sonnenuntergang genießen Sie fernab der Stadt in der ruhigen Natur von Mlinac.",
+        "hu": "Đakovói autós kirándulása a fenséges Püspöki Palotánál kezdődik. Ezután egyenesen a világhírű lipicai méneshez hajt. Délben a Muzej Đakovštine-ban merülhet el a helyi történelemben. Délután a játszótér egy rövid kikapcsolódást kínál, mielőtt továbbutazna az idilli Jošava-tóhoz. A naplementét a várostól távol, a békés Mlinac lenyűgöző természetében élvezheti.",
+        "ro": "Excursia dvs. cu mașina începe la maiestuosul Palat Episcopal. Apoi conduceți direct la faimoasa herghelie de lipițani. La prânz, aprofundați istoria locală la Muzej Đakovštine. După-amiaza, o scurtă oprire la locul de joacă aduce varietate, înainte de a continua spre lacul idilic Jošava. Vă veți bucura de apusul soarelui departe de oraș, în natura liniștită de la Mlinac.",
+        "en": "Your road trip through Đakovo begins at the majestic Bishop's Palace. Afterwards, drive straight to the world-famous Lipizzan stud farm. At noon, dive into local history at the Muzej Đakovštine. In the afternoon, a short stop at the playground provides variety before continuing to the idyllic Lake Jošava. You will enjoy the sunset away from the city in the quiet nature of Mlinac."
+      }
+    }
+  }
+}

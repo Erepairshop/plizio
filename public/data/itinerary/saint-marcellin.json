@@ -1,0 +1,497 @@
+{
+  "city_id": "saint-marcellin",
+  "anchor": {
+    "name": "Saint-Marcellin",
+    "coords": [
+      5.3197,
+      45.1517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            5.320478,
+            45.153908
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem zentralen Platz, um die Architektur zu bewundern, aber holen Sie sich früh einen Kaffee, da die Plätze schnell belegt sind.",
+            "hu": "Kezdje a reggelt ezen a központi téren, hogy megcsodálja a helyi építészetet, de igyon egy kávét korán, mert a helyek gyorsan betelnek a piacnapokon.",
+            "ro": "Începeți dimineața în această piață centrală pentru a admira arhitectura locală, dar luați-vă o cafea devreme, deoarece locurile se ocupă rapid.",
+            "en": "Start your morning at this central square to admire the local architecture, but grab a coffee early as seating fills up fast on market days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcellin",
+            "hu": "Saint-Marcellin templom",
+            "ro": "Biserica Saint-Marcellin",
+            "en": "Saint-Marcellin Church"
+          },
+          "coords": [
+            5.319615,
+            45.152617
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Buntglasfenster, die die Geschichte der Stadt widerspiegeln, und besuchen Sie die Kirche im besten Morgenlicht.",
+            "hu": "Figyelje meg a város történelmét tükröző gyönyörű ólomüveg ablakokat, és próbáljon meg akkor érkezni, amikor a reggeli fény átvilágít a hajón.",
+            "ro": "Observați vitraliile frumoase care reflectă istoria orașului și încercați să vizitați când lumina dimineții pătrunde direct prin nava principală.",
+            "en": "Notice the beautiful stained glass windows that reflect the town's history, and try to visit when the morning light streams directly through the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Mollard",
+            "hu": "Château du Mollard",
+            "ro": "Château du Mollard",
+            "en": "Château du Mollard"
+          },
+          "coords": [
+            5.314892,
+            45.154647
+          ],
+          "category": "castle",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Burg, die einst das Tal bewachte, und tragen Sie festes Schuhwerk, da die Wege um die Ruinen recht uneben sind.",
+            "hu": "Fedezze fel a völgyet egykor őrző történelmi kastély romjait, és viseljen masszív cipőt, mivel a romok körüli ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați ruinele acestui castel istoric care păzea odată valea, purtând încălțăminte rezistentă, deoarece cărările din jurul ruinelor pot fi denivelate.",
+            "en": "Explore the remains of this historic castle that once guarded the valley, wearing sturdy shoes since the paths around the ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Bastion du Joud",
+            "hu": "Le Bastion du Joud",
+            "ro": "Le Bastion du Joud",
+            "en": "Le Bastion du Joud"
+          },
+          "coords": [
+            5.322973,
+            45.155482
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese alte Festung bietet großartige Einblicke in die Verteidigung der Region, also gehen Sie an den Mauern entlang, um die beste Perspektive zu erhalten.",
+            "hu": "Ez az ősi erődítmény nagyszerű bepillantást enged a régió védelmi múltjába, ezért sétáljon végig a megőrzött falakon a legjobb történelmi perspektíváért.",
+            "ro": "Această veche fortificație oferă o perspectivă excelentă asupra trecutului defensiv al regiunii, așa că plimbați-vă de-a lungul zidurilor păstrate.",
+            "en": "This ancient fortification offers great insights into the region's defensive past, so walk along the preserved walls to get the best historical perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungskirche",
+            "hu": "Urunk Színeváltozása templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Église de la Transfiguration"
+          },
+          "coords": [
+            5.342464,
+            45.148663
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in dieser religiösen Stätte, um ihren Charme zu genießen, und betrachten Sie die geschnitzten hölzernen Altarelemente.",
+            "hu": "Töltsön el egy csendes pillanatot ezen a nyugodt vallási helyen, hogy értékelje rusztikus varázsát, és nézze meg alaposan a faragott fa oltárképeket.",
+            "ro": "Luați-vă un moment de liniște în acest loc religios pentru a aprecia farmecul său rustic și priviți cu atenție piesele de altar din lemn sculptate meticulos.",
+            "en": "Take a quiet moment inside this serene religious site to appreciate its rustic charm, and look closely at the meticulously carved wooden altar pieces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am belebten Place d'Armes, bevor Sie die historische Kirche Saint-Marcellin besuchen. \n\n Mittags erreichen Sie die mittelalterlichen Überreste des Château du Mollard und die Festung Le Bastion du Joud. \n\n Spazieren Sie am Nachmittag nach Osten, um die ruhige Église de la Transfiguration zu entdecken. \n\n Beenden Sie den Abend bei einem Abendessen und reflektieren Sie das reiche Erbe.",
+        "hu": "Kezdje a nyüzsgő Place d'Armes téren, majd látogasson el a történelmi Saint-Marcellin templomba. \n\n Délben fedezze fel a Château du Mollard középkori romjait és a Le Bastion du Joud ősi erődítményeit. \n\n Délután tegyen egy festői sétát kelet felé, hogy felfedezze a nyugodt Église de la Transfigurationt. \n\n Zárja az estét egy helyi vacsorával, visszatekintve a város gazdag kulturális örökségére.",
+        "ro": "Începeți la vibranta Place d'Armes, înainte de a vizita biserica istorică Saint-Marcellin. \n\n La amiază ajungeți la rămășițele medievale ale Château du Mollard și la vechile fortificații de la Le Bastion du Joud. \n\n După-amiază, faceți o plimbare pitorească spre est pentru a descoperi senina Biserică a Schimbării la Față. \n\n Încheiați seara cu o cină locală, reflectând asupra patrimoniului bogat.",
+        "en": "Start at the lively Place d'Armes before visiting the historic Saint-Marcellin Church. \n\n Midday brings you to the medieval remnants of Château du Mollard and the ancient fortifications of Le Bastion du Joud. \n\n In the afternoon, take a scenic stroll eastwards to discover the serene Église de la Transfiguration. \n\n Conclude your evening with a relaxed local dinner, reflecting on the city's rich heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 10.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            5.320478,
+            45.153908
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem zentralen Platz, um die Architektur zu bewundern, aber holen Sie sich früh einen Kaffee, da die Plätze schnell belegt sind.",
+            "hu": "Kezdje a reggelt ezen a központi téren, hogy megcsodálja a helyi építészetet, de igyon egy kávét korán, mert a helyek gyorsan betelnek a piacnapokon.",
+            "ro": "Începeți dimineața în această piață centrală pentru a admira arhitectura locală, dar luați-vă o cafea devreme, deoarece locurile se ocupă rapid.",
+            "en": "Start your morning at this central square to admire the local architecture, but grab a coffee early as seating fills up fast on market days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcellin",
+            "hu": "Saint-Marcellin templom",
+            "ro": "Biserica Saint-Marcellin",
+            "en": "Saint-Marcellin Church"
+          },
+          "coords": [
+            5.319615,
+            45.152617
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Buntglasfenster, die die Geschichte der Stadt widerspiegeln, und besuchen Sie die Kirche im besten Morgenlicht.",
+            "hu": "Figyelje meg a város történelmét tükröző gyönyörű ólomüveg ablakokat, és próbáljon meg akkor érkezni, amikor a reggeli fény átvilágít a hajón.",
+            "ro": "Observați vitraliile frumoase care reflectă istoria orașului și încercați să vizitați când lumina dimineții pătrunde direct prin nava principală.",
+            "en": "Notice the beautiful stained glass windows that reflect the town's history, and try to visit when the morning light streams directly through the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Bastion du Joud",
+            "hu": "Le Bastion du Joud",
+            "ro": "Le Bastion du Joud",
+            "en": "Le Bastion du Joud"
+          },
+          "coords": [
+            5.322973,
+            45.155482
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese alte Festung bietet großartige Einblicke in die Verteidigung der Region, also gehen Sie an den Mauern entlang, um die beste Perspektive zu erhalten.",
+            "hu": "Ez az ősi erődítmény nagyszerű bepillantást enged a régió védelmi múltjába, ezért sétáljon végig a megőrzött falakon a legjobb történelmi perspektíváért.",
+            "ro": "Această veche fortificație oferă o perspectivă excelentă asupra trecutului defensiv al regiunii, așa că plimbați-vă de-a lungul zidurilor păstrate.",
+            "en": "This ancient fortification offers great insights into the region's defensive past, so walk along the preserved walls to get the best historical perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Véran",
+            "hu": "Saint-Véran templom",
+            "ro": "Biserica Saint-Véran",
+            "en": "Église Saint-Véran"
+          },
+          "coords": [
+            5.332944,
+            45.174258
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Diese friedliche Kirche bildet einen architektonischen Kontrast zum Stadtzentrum und ist am späten Nachmittag ein perfekter Ort für schöne Fotografien.",
+            "hu": "Ez a békés templom szép építészeti kontrasztot nyújt a városközponthoz képest, így tökéletes helyszín a fotózáshoz a késő délutáni órákban.",
+            "ro": "Această biserică liniștită oferă un contrast arhitectural frumos față de centrul orașului, fiind locul perfect pentru fotografie în orele târzii ale după-amiezii.",
+            "en": "This peaceful church provides a lovely architectural contrast to the town center, making it a perfect spot for photography during the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungskirche",
+            "hu": "Urunk Színeváltozása templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Église de la Transfiguration"
+          },
+          "coords": [
+            5.342464,
+            45.148663
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in dieser religiösen Stätte, um ihren Charme zu genießen, und betrachten Sie die geschnitzten hölzernen Altarelemente.",
+            "hu": "Töltsön el egy csendes pillanatot ezen a nyugodt vallási helyen, hogy értékelje rusztikus varázsát, és nézze meg alaposan a faragott fa oltárképeket.",
+            "ro": "Luați-vă un moment de liniște în acest loc religios pentru a aprecia farmecul său rustic și priviți cu atenție piesele de altar din lemn sculptate meticulos.",
+            "en": "Take a quiet moment inside this serene religious site to appreciate its rustic charm, and look closely at the meticulously carved wooden altar pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jardin Ferroviaire",
+            "hu": "Le Jardin Ferroviaire",
+            "ro": "Le Jardin Ferroviaire",
+            "en": "Le Jardin Ferroviaire"
+          },
+          "coords": [
+            5.283288,
+            45.143871
+          ],
+          "category": "family",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Familien werden diesen Miniatur-Eisenbahngarten lieben, der Natur und Technik verbindet; planen Sie zusätzliche Zeit für die interaktiven Ausstellungen ein.",
+            "hu": "A családok imádni fogják ezt a természetet és mechanikát ötvöző miniatűr vasútkertet, ezért hagyjon extra időt a gyerekeket lenyűgöző interaktív kiállításokra.",
+            "ro": "Familiile vor adora această grădină feroviară în miniatură care îmbină natura și mecanica, așa că alocați timp suplimentar pentru expozițiile interactive.",
+            "en": "Families will love this miniature railway garden blending nature and mechanics, so allow extra time for the interactive exhibits that fascinate children."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Pauvres",
+            "hu": "Château des Pauvres",
+            "ro": "Château des Pauvres",
+            "en": "Château des Pauvres"
+          },
+          "coords": [
+            5.287328,
+            45.14398
+          ],
+          "category": "castle",
+          "arrive_at": "15:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses einzigartig benannten Anwesens, indem Sie die Informationstafeln lesen und die Landschaft genießen.",
+            "hu": "Fedezze fel az egyedi nevű birtok lenyűgöző történetét az információs táblák elolvasásával, és élvezze a környező festői tájat a saját tempójában.",
+            "ro": "Descoperiți povestea intrigantă din spatele acestui domeniu cu nume unic citind panourile informative și bucurați-vă de peisajul pitoresc înconjurător.",
+            "en": "Discover the intriguing story behind this uniquely named estate by reading the information boards, and enjoy the surrounding scenic landscape at your own pace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Place d'Armes und der nahegelegenen zentralen Kirche. \n\n Radeln Sie am Le Bastion du Joud vorbei und dann nach Norden zur ruhigen Église Saint-Véran. \n\n Verbringen Sie den Nachmittag damit, den interaktiven Jardin Ferroviaire und das Château des Pauvres zu erkunden. \n\n Kehren Sie abends ins Zentrum zurück und genießen Sie ein wohlverdientes Essen nach einem aktiven Tag.",
+        "hu": "Indítsa a kerékpártúrát a Place d'Armes téren és a közeli központi templomnál. \n\n Tekerjen el a Le Bastion du Joud mellett, majd észak felé a békés Église Saint-Véranhoz. \n\n Délután kerekezzen délre, és fedezze fel a Le Jardin Ferroviaire-t és a Château des Pauvrest. \n\n Este térjen vissza a központba, és élvezze a jól megérdemelt vacsorát egy aktív, városnézéssel töltött nap után.",
+        "ro": "Începeți plimbarea cu bicicleta la Place d'Armes și la biserica centrală din apropiere. \n\n Pedalați pe lângă Le Bastion du Joud, apoi spre nord către liniștita Église Saint-Véran. \n\n Petreceți după-amiaza mergând spre sud pentru a explora Le Jardin Ferroviaire și intrigantul Château des Pauvres. \n\n Reveniți în centru pe măsură ce se lasă seara, bucurându-vă de o masă binemeritată după o zi activă.",
+        "en": "Kick off your ride at the Place d'Armes and the nearby central church. \n\n Pedal past Le Bastion du Joud, then cycle north to admire the peaceful Église Saint-Véran. \n\n Spend your afternoon riding south to explore the interactive Le Jardin Ferroviaire and the intriguing Château des Pauvres. \n\n Return to the center as evening falls, enjoying a well-earned meal after an active day exploring the town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            5.320478,
+            45.153908
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem zentralen Platz, um die Architektur zu bewundern, aber holen Sie sich früh einen Kaffee, da die Plätze schnell belegt sind.",
+            "hu": "Kezdje a reggelt ezen a központi téren, hogy megcsodálja a helyi építészetet, de igyon egy kávét korán, mert a helyek gyorsan betelnek a piacnapokon.",
+            "ro": "Începeți dimineața în această piață centrală pentru a admira arhitectura locală, dar luați-vă o cafea devreme, deoarece locurile se ocupă rapid.",
+            "en": "Start your morning at this central square to admire the local architecture, but grab a coffee early as seating fills up fast on market days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcellin",
+            "hu": "Saint-Marcellin templom",
+            "ro": "Biserica Saint-Marcellin",
+            "en": "Saint-Marcellin Church"
+          },
+          "coords": [
+            5.319615,
+            45.152617
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Buntglasfenster, die die Geschichte der Stadt widerspiegeln, und besuchen Sie die Kirche im besten Morgenlicht.",
+            "hu": "Figyelje meg a város történelmét tükröző gyönyörű ólomüveg ablakokat, és próbáljon meg akkor érkezni, amikor a reggeli fény átvilágít a hajón.",
+            "ro": "Observați vitraliile frumoase care reflectă istoria orașului și încercați să vizitați când lumina dimineții pătrunde direct prin nava principală.",
+            "en": "Notice the beautiful stained glass windows that reflect the town's history, and try to visit when the morning light streams directly through the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jardin Ferroviaire",
+            "hu": "Le Jardin Ferroviaire",
+            "ro": "Le Jardin Ferroviaire",
+            "en": "Le Jardin Ferroviaire"
+          },
+          "coords": [
+            5.283288,
+            45.143871
+          ],
+          "category": "family",
+          "arrive_at": "10:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Familien werden diesen Miniatur-Eisenbahngarten lieben, der Natur und Technik verbindet; planen Sie zusätzliche Zeit für die interaktiven Ausstellungen ein.",
+            "hu": "A családok imádni fogják ezt a természetet és mechanikát ötvöző miniatűr vasútkertet, ezért hagyjon extra időt a gyerekeket lenyűgöző interaktív kiállításokra.",
+            "ro": "Familiile vor adora această grădină feroviară în miniatură care îmbină natura și mecanica, așa că alocați timp suplimentar pentru expozițiile interactive.",
+            "en": "Families will love this miniature railway garden blending nature and mechanics, so allow extra time for the interactive exhibits that fascinate children."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Pauvres",
+            "hu": "Château des Pauvres",
+            "ro": "Château des Pauvres",
+            "en": "Château des Pauvres"
+          },
+          "coords": [
+            5.287328,
+            45.14398
+          ],
+          "category": "castle",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses einzigartig benannten Anwesens, indem Sie die Informationstafeln lesen und die Landschaft genießen.",
+            "hu": "Fedezze fel az egyedi nevű birtok lenyűgöző történetét az információs táblák elolvasásával, és élvezze a környező festői tájat a saját tempójában.",
+            "ro": "Descoperiți povestea intrigantă din spatele acestui domeniu cu nume unic citind panourile informative și bucurați-vă de peisajul pitoresc înconjurător.",
+            "en": "Discover the intriguing story behind this uniquely named estate by reading the information boards, and enjoy the surrounding scenic landscape at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkloster",
+            "hu": "Karmelita kolostor",
+            "ro": "Mănăstirea Carmelită",
+            "en": "Carmelite Convent"
+          },
+          "coords": [
+            5.339888,
+            45.121636
+          ],
+          "category": "monastic",
+          "arrive_at": "13:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel in diesem klösterlichen Rückzugsort, dessen friedliche Atmosphäre perfekt zum Nachdenken ist, bewahren Sie jedoch respektvolle Stille.",
+            "hu": "Lépjen ki a nyüzsgésből ezen a kolostori elvonulóhelyen, ahol a békés légkör tökéletes az elmélkedésre, csak ne felejtsen el tiszteletteljes csendet tartani.",
+            "ro": "Îndepărtați-vă de agitație la această retragere monahală, unde atmosfera pașnică este perfectă pentru reflecție, amintindu-vă doar să păstrați o tăcere respectuoasă.",
+            "en": "Step away from the bustle at this monastic retreat, where the peaceful atmosphere is perfect for reflection, just remember to maintain respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungskirche",
+            "hu": "Urunk Színeváltozása templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Église de la Transfiguration"
+          },
+          "coords": [
+            5.342464,
+            45.148663
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in dieser religiösen Stätte, um ihren Charme zu genießen, und betrachten Sie die geschnitzten hölzernen Altarelemente.",
+            "hu": "Töltsön el egy csendes pillanatot ezen a nyugodt vallási helyen, hogy értékelje rusztikus varázsát, és nézze meg alaposan a faragott fa oltárképeket.",
+            "ro": "Luați-vă un moment de liniște în acest loc religios pentru a aprecia farmecul său rustic și priviți cu atenție piesele de altar din lemn sculptate meticulos.",
+            "en": "Take a quiet moment inside this serene religious site to appreciate its rustic charm, and look closely at the meticulously carved wooden altar pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Véran",
+            "hu": "Saint-Véran templom",
+            "ro": "Biserica Saint-Véran",
+            "en": "Église Saint-Véran"
+          },
+          "coords": [
+            5.332944,
+            45.174258
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Diese friedliche Kirche bildet einen architektonischen Kontrast zum Stadtzentrum und ist am späten Nachmittag ein perfekter Ort für schöne Fotografien.",
+            "hu": "Ez a békés templom szép építészeti kontrasztot nyújt a városközponthoz képest, így tökéletes helyszín a fotózáshoz a késő délutáni órákban.",
+            "ro": "Această biserică liniștită oferă un contrast arhitectural frumos față de centrul orașului, fiind locul perfect pentru fotografie în orele târzii ale după-amiezii.",
+            "en": "This peaceful church provides a lovely architectural contrast to the town center, making it a perfect spot for photography during the late afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Stadtzentrum am Place d'Armes und der wunderschönen Kirche Saint-Marcellin. \n\n Fahren Sie nach Süden, um den Jardin Ferroviaire und das historische Château des Pauvres zu besuchen. \n\n Fahren Sie am Nachmittag zum ruhigen Karmeliterkloster, bevor Sie zur Église Saint-Véran zurückkehren. \n\n Beenden Sie Ihre Fahrt am Abend und entspannen Sie in einem traditionellen Restaurant.",
+        "hu": "Kezdje a városközpontban, a Place d'Armes téren és a gyönyörű Saint-Marcellin templomnál. \n\n Vezessen délre, hogy meglátogassa a Jardin Ferroviaire-t és a Château des Pauvres történelmi területét. \n\n Délután hajtson el a nyugodt Karmelita kolostorhoz, mielőtt visszatérne az Église Saint-Véranhoz. \n\n Zárja a festői utazást kora este, egy hagyományos helyi étteremben pihenve.",
+        "ro": "Începeți în centrul orașului la Place d'Armes și frumoasa biserică Saint-Marcellin. \n\n Conduceți spre sud pentru a vizita Jardin Ferroviaire și domeniul istoric Château des Pauvres. \n\n După-amiază, conduceți către mănăstirea Carmelită înainte de a vă întoarce la Église Saint-Véran. \n\n Încheiați-vă călătoria pitorească odată cu lăsarea serii, relaxându-vă la un restaurant tradițional din oraș.",
+        "en": "Start with the town's core at Place d'Armes and the beautiful Saint-Marcellin Church. \n\n Drive south to visit the whimsical Jardin Ferroviaire and the historical grounds of Château des Pauvres. \n\n In the afternoon, drive out to the serene Carmelite Convent before heading back to see Église Saint-Véran. \n\n Conclude your scenic drive as evening sets in, relaxing at a traditional restaurant in town."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-astypalaia-cities-v2",
+  "anchor": {
+    "name": "Astypalaia",
+    "coords": [
+      26.37578,
+      36.58003
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Steno",
+            "hu": "Steno",
+            "ro": "Steno",
+            "en": "Steno"
+          },
+          "coords": [
+            26.366826,
+            36.578079
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand von Steno, einem perfekten Ort, um die schmalste Stelle der Insel zu betrachten, und vergessen Sie nicht, Sonnencreme für Ihr morgendliches Bad mitzubringen.",
+            "hu": "Pihenjen meg a homokos Steno tengerparton, ahonnan kiválóan megfigyelhető a sziget legkeskenyebb pontja, és mindenképpen hozzon magával naptejet a reggeli úszáshoz.",
+            "ro": "Relaxați-vă pe nisipul fin al plajei Steno, un loc perfect pentru a admira cel mai îngust punct al insulei, și nu uitați să luați cremă de protecție solară pentru baia matinală.",
+            "en": "Relax on the sandy shores of Steno beach, a perfect spot to observe the island's narrowest point, and make sure to bring plenty of sunscreen for your morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plakes",
+            "hu": "Plakes",
+            "ro": "Plakes",
+            "en": "Plakes"
+          },
+          "coords": [
+            26.375301,
+            36.574202
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markanten flachen Felsformationen von Plakes, wo das kristallklare Wasser zum Schnorcheln einlädt, also packen Sie Ihre Badeschuhe für den steinigen Meeresboden ein.",
+            "hu": "Fedezze fel a Plakes lenyűgöző, lapos sziklaképződményeit, ahol a kristálytiszta víz sznorkelezésre hívogat, így érdemes vízicipőt csomagolnia a köves tengerfenék miatt.",
+            "ro": "Descoperiți formațiunile stâncoase plate de la Plakes, unde apele cristaline vă invită la snorkeling, așa că aduceți-vă încălțămintea de apă pentru a păși pe fundul stâncos.",
+            "en": "Discover the striking flat rock formations of Plakes where the crystal-clear waters invite you for snorkeling, so pack your water shoes to comfortably navigate the rocky seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteroromaika Loutra me psephidota",
+            "hu": "Usteroromaika Loutra me psephidota",
+            "ro": "Usteroromaika Loutra me psephidota",
+            "en": "Usteroromaika Loutra me psephidota"
+          },
+          "coords": [
+            26.38733,
+            36.579701
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen spätrömischen Bäder mit ihren kunstvollen Mosaiken, die antiken Luxus zeigen, und betrachten Sie die geometrischen Muster am besten im Mittagslicht.",
+            "hu": "Csodálja meg a gyönyörűen fennmaradt késő római fürdőket és a bonyolult mozaikokat, amelyek az ókori luxust idézik, és figyelje meg jól a geometriai mintákat a déli napfényben.",
+            "ro": "Admirați băile romane târzii minunat conservate, cu mozaicurile lor complexe ce reflectă luxul antic, și priviți de aproape modelele geometrice care ies în evidență în lumina amiezii.",
+            "en": "Admire the beautifully preserved late Roman baths with their intricate mosaics that showcase ancient luxury, and look closely at the geometric patterns best visible in the midday light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iero Artemidos Astupalaias",
+            "hu": "Iero Artemidos Astupalaias",
+            "ro": "Iero Artemidos Astupalaias",
+            "en": "Iero Artemidos Astupalaias"
+          },
+          "coords": [
+            26.383806,
+            36.583482
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Heiligtum der Artemis in die tief verwurzelte Religionsgeschichte der Insel ein und tragen Sie feste Wanderschuhe, da die umliegenden antiken Pfade recht uneben sind.",
+            "hu": "Lépjen vissza az időben az Artemisz-szentélyben, hogy megértse a sziget mélyen gyökerező vallási történetét, és viseljen kényelmes túracipőt az egyenetlen ókori ösvények miatt.",
+            "ro": "Pășiți înapoi în timp la Sanctuarul lui Artemis pentru a înțelege istoria religioasă a insulei și purtați încălțăminte robustă, deoarece cărările antice din jur sunt destul de accidentate.",
+            "en": "Step back in time at the Sanctuary of Artemis to understand the island's deep-rooted religious history, and wear sturdy walking shoes as the surrounding ancient paths are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Harbour Beach",
+            "hu": "Blue Harbour Beach",
+            "ro": "Blue Harbour Beach",
+            "en": "Blue Harbour Beach"
+          },
+          "coords": [
+            26.38332,
+            36.572297
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Blue Harbour Beach, einem ruhigen Zufluchtsort mit makellos blauem Wasser für ein spätes Bad, aber bringen Sie eigene Snacks mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Kapcsolódjon ki a Blue Harbour strandon, amelynek kristálytiszta kék vize tökéletes a késő délutáni úszáshoz, de hozzon magával rágcsálnivalót, mivel a helyi szolgáltatások korlátozottak.",
+            "ro": "Destindeți-vă la Blue Harbour Beach, un refugiu liniștit cu ape de un albastru imaculat perfecte pentru o baie târzie, dar luați-vă propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Unwind at Blue Harbour Beach, a serene escape with pristine blue waters perfect for your late afternoon dip, but remember to bring your own snacks as local facilities are very limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Meer in Steno, wo die schmale Landbrücke der Insel atemberaubende Küstenblicke bietet. Entlang der Küste führt der Weg zu den flachen Felsen von Plakes.\nBis zum Mittag erreichen wir landeinwärts die spätrömischen Bäder. Die erhaltenen Mosaike bieten einen lebhaften Einblick in den antiken Luxus.\nAm Nachmittag tauchen wir im Heiligtum der Artemis weiter in die Vergangenheit ein und spüren die mythologischen Wurzeln von Astypalaia.\nGegen Abend endet die Reise am Blue Harbour Beach. Der ruhige Sonnenuntergang über dem kristallklaren Wasser ist das perfekte Finale des Tages.",
+        "hu": "A reggel a tengernél kezdődik Stenóban, ahol a sziget keskeny földhídja lélegzetelállító kilátást nyújt. A part mentén sétálva elérjük a Plakes különleges lapos szikláit.\nDélre a szárazföld belseje felé vesszük az irányt, hogy felfedezzük a késő római fürdőket. A mozaikok élénk képet adnak az egykori luxusról.\nA délután folyamán az Artemisz-szentélyben még messzebb utazunk az időben, elmerülve Astypalaia mély mitológiai gyökereiben.\nAz este közeledtével az utazás a Blue Harbour strandon ér véget. A tiszta víz feletti békés naplemente tökéletes befejezése a napnak.",
+        "ro": "Dimineața începe la mare, la Steno, unde puntea îngustă de pământ a insulei oferă priveliști uimitoare. Urmând țărmul, plimbarea ne poartă spre rocile plate unice de la Plakes.\nLa prânz, ne îndreptăm spre interior pentru a descoperi băile romane târzii. Mozaicurile conservate oferă o imagine vie a luxului antic.\nDupă-amiaza continuă cu o întoarcere în timp la Sanctuarul lui Artemis, permițându-vă să absorbiți rădăcinile mitologice profunde ale insulei Astypalaia.\nOdată cu lăsarea serii, călătoria se încheie la Blue Harbour Beach. Apusul liniștit peste apele imaculate este finalul perfect al zilei.",
+        "en": "Morning begins by the sea at Steno, where the island's narrow land bridge offers breathtaking coastal views. Following the shoreline, the walk transitions gracefully to the unique flat rocks of Plakes, an ideal setting for quiet reflection.\nBy midday, we move inland to discover the late Roman baths. The preserved mosaics provide a vivid glimpse into the ancient luxuries once enjoyed here.\nThe afternoon continues with a step further back in time at the Sanctuary of Artemis, allowing you to absorb the profound mythological roots of Astypalaia.\nAs evening approaches, the journey ends at Blue Harbour Beach. The tranquil sunset over the pristine waters serves as a perfect finale to a day of exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mamounia",
+            "hu": "Mamounia",
+            "ro": "Mamounia",
+            "en": "Mamounia"
+          },
+          "coords": [
+            26.357883,
+            36.566374
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer am ruhigen Erholungsort Mamounia, wo Sie die Morgenbrise belebt, und dehnen Sie sich kurz am Ufer, bevor Sie Ihre Fahrradtour über die Insel fortsetzen.",
+            "hu": "Kezdje kalandját a Mamounia békés pihenőhelyén, ahol a reggeli szellő energiával tölti fel, és nyújtson egyet a part mentén, mielőtt folytatná a szigeti kerékpározást.",
+            "ro": "Începeți aventura în zona de recreere liniștită de la Mamounia, unde briza dimineții vă revitalizează, și faceți câteva exerciții de întindere pe țărm înainte de a continua pe bicicletă.",
+            "en": "Start your adventure at Mamounia's tranquil recreational spot where the morning breeze energizes you, and take a moment to stretch by the shoreline before continuing your biking journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Steno",
+            "hu": "Steno",
+            "ro": "Steno",
+            "en": "Steno"
+          },
+          "coords": [
+            26.366826,
+            36.578079
+          ],
+          "category": "recreational",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand von Steno, einem perfekten Ort, um die schmalste Stelle der Insel zu betrachten, und vergessen Sie nicht, Sonnencreme für Ihr morgendliches Bad mitzubringen.",
+            "hu": "Pihenjen meg a homokos Steno tengerparton, ahonnan kiválóan megfigyelhető a sziget legkeskenyebb pontja, és mindenképpen hozzon magával naptejet a reggeli úszáshoz.",
+            "ro": "Relaxați-vă pe nisipul fin al plajei Steno, un loc perfect pentru a admira cel mai îngust punct al insulei, și nu uitați să luați cremă de protecție solară pentru baia matinală.",
+            "en": "Relax on the sandy shores of Steno beach, a perfect spot to observe the island's narrowest point, and make sure to bring plenty of sunscreen for your morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plakes",
+            "hu": "Plakes",
+            "ro": "Plakes",
+            "en": "Plakes"
+          },
+          "coords": [
+            26.375301,
+            36.574202
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markanten flachen Felsformationen von Plakes, wo das kristallklare Wasser zum Schnorcheln einlädt, also packen Sie Ihre Badeschuhe für den steinigen Meeresboden ein.",
+            "hu": "Fedezze fel a Plakes lenyűgöző, lapos sziklaképződményeit, ahol a kristálytiszta víz sznorkelezésre hívogat, így érdemes vízicipőt csomagolnia a köves tengerfenék miatt.",
+            "ro": "Descoperiți formațiunile stâncoase plate de la Plakes, unde apele cristaline vă invită la snorkeling, așa că aduceți-vă încălțămintea de apă pentru a păși pe fundul stâncos.",
+            "en": "Discover the striking flat rock formations of Plakes where the crystal-clear waters invite you for snorkeling, so pack your water shoes to comfortably navigate the rocky seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteroromaika Loutra me psephidota",
+            "hu": "Usteroromaika Loutra me psephidota",
+            "ro": "Usteroromaika Loutra me psephidota",
+            "en": "Usteroromaika Loutra me psephidota"
+          },
+          "coords": [
+            26.38733,
+            36.579701
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen spätrömischen Bäder mit ihren kunstvollen Mosaiken, die antiken Luxus zeigen, und betrachten Sie die geometrischen Muster am besten im Mittagslicht.",
+            "hu": "Csodálja meg a gyönyörűen fennmaradt késő római fürdőket és a bonyolult mozaikokat, amelyek az ókori luxust idézik, és figyelje meg jól a geometriai mintákat a déli napfényben.",
+            "ro": "Admirați băile romane târzii minunat conservate, cu mozaicurile lor complexe ce reflectă luxul antic, și priviți de aproape modelele geometrice care ies în evidență în lumina amiezii.",
+            "en": "Admire the beautifully preserved late Roman baths with their intricate mosaics that showcase ancient luxury, and look closely at the geometric patterns best visible in the midday light."
+          }
+        },
+        {
+          "name": {
+            "de": "Eroon ton Gallon Skhoinontas",
+            "hu": "Eroon ton Gallon Skhoinontas",
+            "ro": "Eroon ton Gallon Skhoinontas",
+            "en": "Eroon ton Gallon Skhoinontas"
+          },
+          "coords": [
+            26.393585,
+            36.575776
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das französische Heldendenkmal bei Skhoinontas, um über die moderne Geschichte der Insel nachzudenken, und lesen Sie die Tafeln aufmerksam, um diese Ehrung zu würdigen.",
+            "hu": "Látogasson el a Skhoinontas-i francia hősök emlékművéhez, hogy megemlékezzen a sziget modern történelméről, és figyelmesen olvassa el az információs táblákat a teljes megértéshez.",
+            "ro": "Vizitați Monumentul Eroilor Francezi de la Skhoinontas pentru a reflecta asupra istoriei moderne a insulei și citiți cu atenție plăcuțele informative pentru a aprecia acest tribut istoric.",
+            "en": "Visit the French Heroes Monument at Skhoinontas to reflect on the island's modern history, and read the informative plaques carefully to fully appreciate this solemn historical tribute."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilike tou Karekle",
+            "hu": "Basilike tou Karekle",
+            "ro": "Basilike tou Karekle",
+            "en": "Basilike tou Karekle"
+          },
+          "coords": [
+            26.395843,
+            36.576681
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Karekli-Basilika, einem frühchristlichen Wahrzeichen mit faszinierenden Architekturresten, und machen Sie die besten Fotos während der späten Nachmittagssonne.",
+            "hu": "Fedezze fel a Karekli-bazilika romjait, egy kora keresztény műemléket, amely lenyűgöző építészeti maradványokat rejt, és készítsen csodás fotókat a késő délutáni aranyórában.",
+            "ro": "Explorați ruinele Bazilicii Karekli, un punct de reper creștin timpuriu cu rămășițe arhitecturale fascinante, și surprindeți cele mai bune fotografii în lumina aurie a după-amiezii târzii.",
+            "en": "Explore the ruins of Karekli Basilica, an early Christian landmark showcasing fascinating architectural remnants, and capture the best photographs during the golden hour of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an den ruhigen Ufern von Mamounia, wo die frische Morgenluft ein flottes Tempo vorgibt, bevor Sie zum Sandstrand von Steno weiterradeln.\nWenn es wärmer wird, weicht ein kurzer Stopp an den Felsen von Plakes dem historischen Wunder der spätrömischen Bäder als kulturelles Mittagsintermezzo.\nDer Nachmittag ist der jüngeren Geschichte am französischen Heldendenkmal in Skhoinontas gewidmet, während Sie über malerische Inselpfade radeln.\nDer Abend bricht sanft herein, während Sie die antike Karekli-Basilika erkunden. Die Ruinen bilden einen unvergesslichen Abschluss.",
+        "hu": "A kerékpáros utazás Mamounia csendes partjainál kezdődik, ahol a friss reggeli levegő megadja a lendületet, mielőtt a Steno homokos strandja felé pedálozna.\nAhogy melegszik a nap, a Plakes szikláinál tett rövid pihenő után a késő római fürdők történelmi csodája következik egy kulturális déli kitérőként.\nA délutánt a közelmúlt történelmének szenteljük a Skhoinontas-i francia hősök emlékművénél, festői szigeti utakon haladva.\nAz este lágyan ereszkedik le, miközben az ősi Karekli-bazilikát fedezi fel. A történelmi romok emlékezetes lezárást nyújtanak egy aktív napnak.",
+        "ro": "Călătoria cu bicicleta începe pe țărmul liniștit de la Mamounia, lăsând aerul proaspăt al dimineții să stabilească un ritm alert înainte de a pedala spre plaja Steno.\nPe măsură ce ziua se încălzește, o scurtă oprire la rocile de la Plakes face loc minunii istorice a băilor romane târzii, oferind un interludiu cultural.\nDupă-amiaza este dedicată istoriei mai recente la Monumentul Eroilor Francezi din Skhoinontas, pedalând pe cărări pitorești.\nSeara se lasă ușor în timp ce explorați Bazilica Karekli. Briza răcoroasă și ruinele istorice creează o concluzie memorabilă a unei zile active.",
+        "en": "Your cycling journey starts at the tranquil shores of Mamounia, letting the fresh morning air set a vigorous pace before pedaling towards the sandy expanse of Steno beach.\nAs the day warms up, a brief stop at the striking rocks of Plakes gives way to the historical wonder of the late Roman baths, offering a cultural midday interlude.\nThe afternoon is dedicated to tracing more recent history at the French Heroes Monument in Skhoinontas, pedaling through scenic island paths.\nEvening falls gently as you explore the ancient Karekli Basilica. The cooling breeze and historical ruins create a memorable conclusion to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Psile Ammos",
+            "hu": "Psile Ammos",
+            "ro": "Psile Ammos",
+            "en": "Psile Ammos"
+          },
+          "coords": [
+            26.383856,
+            36.590801
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den feinen Sand von Psile Ammos, einem wunderschönen Küstenort mit tollem Morgenblick, und legen Sie Ihr Handtuch früh aus, um den besten Platz am Wasser zu sichern.",
+            "hu": "Süllyessze lábujjait a Psile Ammos finom homokjába, amely egy gyönyörű, páratlan reggeli kilátást nyújtó tengerpart, és terítse le törölközőjét korán, hogy a legjobb helyet szerezze meg.",
+            "ro": "Afundați-vă degetele în nisipul fin de la Psile Ammos, un superb loc de coastă cu priveliști matinale inegalabile, și așezați-vă prosopul devreme pentru a prinde cel mai bun loc lângă valuri.",
+            "en": "Dig your toes into the fine sand at Psile Ammos, a gorgeous coastal spot offering unparalleled morning views, and set up your towel early to claim the best spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Iero Artemidos Astupalaias",
+            "hu": "Iero Artemidos Astupalaias",
+            "ro": "Iero Artemidos Astupalaias",
+            "en": "Iero Artemidos Astupalaias"
+          },
+          "coords": [
+            26.383806,
+            36.583482
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Heiligtum der Artemis in die tief verwurzelte Religionsgeschichte der Insel ein und tragen Sie feste Wanderschuhe, da die umliegenden antiken Pfade recht uneben sind.",
+            "hu": "Lépjen vissza az időben az Artemisz-szentélyben, hogy megértse a sziget mélyen gyökerező vallási történetét, és viseljen kényelmes túracipőt az egyenetlen ókori ösvények miatt.",
+            "ro": "Pășiți înapoi în timp la Sanctuarul lui Artemis pentru a înțelege istoria religioasă a insulei și purtați încălțăminte robustă, deoarece cărările antice din jur sunt destul de accidentate.",
+            "en": "Step back in time at the Sanctuary of Artemis to understand the island's deep-rooted religious history, and wear sturdy walking shoes as the surrounding ancient paths are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteroromaika Loutra me psephidota",
+            "hu": "Usteroromaika Loutra me psephidota",
+            "ro": "Usteroromaika Loutra me psephidota",
+            "en": "Usteroromaika Loutra me psephidota"
+          },
+          "coords": [
+            26.38733,
+            36.579701
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen spätrömischen Bäder mit ihren kunstvollen Mosaiken, die antiken Luxus zeigen, und betrachten Sie die geometrischen Muster am besten im Mittagslicht.",
+            "hu": "Csodálja meg a gyönyörűen fennmaradt késő római fürdőket és a bonyolult mozaikokat, amelyek az ókori luxust idézik, és figyelje meg jól a geometriai mintákat a déli napfényben.",
+            "ro": "Admirați băile romane târzii minunat conservate, cu mozaicurile lor complexe ce reflectă luxul antic, și priviți de aproape modelele geometrice care ies în evidență în lumina amiezii.",
+            "en": "Admire the beautifully preserved late Roman baths with their intricate mosaics that showcase ancient luxury, and look closely at the geometric patterns best visible in the midday light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bai",
+            "hu": "Bai",
+            "ro": "Bai",
+            "en": "Bai"
+          },
+          "coords": [
+            26.40214,
+            36.582629
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie Halt am charmanten Strand von Bai, dessen abgeschiedene Atmosphäre einen perfekten Rückzugsort bietet, und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu erkunden.",
+            "hu": "Álljon meg Bai bájos strandján, ahol a félreeső atmoszféra tökéletes déli menedéket nyújt, és hozza magával sznorkelfelszerelését, hogy teljesen felfedezhesse a rejtett tengeri élőlényeket.",
+            "ro": "Opriți-vă la plaja fermecătoare din Bai, unde atmosfera retrasă oferă un refugiu perfect la prânz, și aduceți-vă echipamentul de snorkeling pentru a explora viața marină ascunsă sub apă.",
+            "en": "Stop by the charming beach of Bai where the secluded atmosphere provides a perfect midday retreat, and bring your snorkeling gear to fully explore the vibrant marine life hidden underwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilike tou Karekle",
+            "hu": "Basilike tou Karekle",
+            "ro": "Basilike tou Karekle",
+            "en": "Basilike tou Karekle"
+          },
+          "coords": [
+            26.395843,
+            36.576681
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Karekli-Basilika, einem frühchristlichen Wahrzeichen mit faszinierenden Architekturresten, und machen Sie die besten Fotos während der späten Nachmittagssonne.",
+            "hu": "Fedezze fel a Karekli-bazilika romjait, egy kora keresztény műemléket, amely lenyűgöző építészeti maradványokat rejt, és készítsen csodás fotókat a késő délutáni aranyórában.",
+            "ro": "Explorați ruinele Bazilicii Karekli, un punct de reper creștin timpuriu cu rămășițe arhitecturale fascinante, și surprindeți cele mai bune fotografii în lumina aurie a după-amiezii târzii.",
+            "en": "Explore the ruins of Karekli Basilica, an early Christian landmark showcasing fascinating architectural remnants, and capture the best photographs during the golden hour of the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Eroon ton Gallon Skhoinontas",
+            "hu": "Eroon ton Gallon Skhoinontas",
+            "ro": "Eroon ton Gallon Skhoinontas",
+            "en": "Eroon ton Gallon Skhoinontas"
+          },
+          "coords": [
+            26.393585,
+            36.575776
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das französische Heldendenkmal bei Skhoinontas, um über die moderne Geschichte der Insel nachzudenken, und lesen Sie die Tafeln aufmerksam, um diese Ehrung zu würdigen.",
+            "hu": "Látogasson el a Skhoinontas-i francia hősök emlékművéhez, hogy megemlékezzen a sziget modern történelméről, és figyelmesen olvassa el az információs táblákat a teljes megértéshez.",
+            "ro": "Vizitați Monumentul Eroilor Francezi de la Skhoinontas pentru a reflecta asupra istoriei moderne a insulei și citiți cu atenție plăcuțele informative pentru a aprecia acest tribut istoric.",
+            "en": "Visit the French Heroes Monument at Skhoinontas to reflect on the island's modern history, and read the informative plaques carefully to fully appreciate this solemn historical tribute."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Harbour Beach",
+            "hu": "Blue Harbour Beach",
+            "ro": "Blue Harbour Beach",
+            "en": "Blue Harbour Beach"
+          },
+          "coords": [
+            26.38332,
+            36.572297
+          ],
+          "category": "recreational",
+          "arrive_at": "16:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Blue Harbour Beach, einem ruhigen Zufluchtsort mit makellos blauem Wasser für ein spätes Bad, aber bringen Sie eigene Snacks mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Kapcsolódjon ki a Blue Harbour strandon, amelynek kristálytiszta kék vize tökéletes a késő délutáni úszáshoz, de hozzon magával rágcsálnivalót, mivel a helyi szolgáltatások korlátozottak.",
+            "ro": "Destindeți-vă la Blue Harbour Beach, un refugiu liniștit cu ape de un albastru imaculat perfecte pentru o baie târzie, dar luați-vă propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Unwind at Blue Harbour Beach, a serene escape with pristine blue waters perfect for your late afternoon dip, but remember to bring your own snacks as local facilities are very limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt über Astypalaia beginnt bei Psile Ammos, wo Sie parken und den makellosen Morgensand genießen können, bevor es zum antiken Heiligtum der Artemis geht.\nDer Mittag lädt zur Erkundung der faszinierenden Vergangenheit in den spätrömischen Bädern ein, gefolgt von einer erholsamen Pause in der Bucht von Bai.\nDie Nachmittagsfahrt führt durch historische Überreste, mit Stopps an der Karekli-Basilika und dem französischen Heldendenkmal in Skhoinontas.\nIhr Roadtrip endet wunderbar am Blue Harbour Beach. Die abendliche Küstenfahrt zurück bietet atemberaubende Sonnenuntergänge über der Ägäis.",
+        "hu": "Az Astypalaia-i autózás Psile Ammosnál kezdődik, ahol könnyedén leparkolhat, és élvezheti a reggeli homokot, mielőtt az ősi Artemisz-szentélyhez hajtana.\nA dél a sziget múltjának felfedezésére hív a késő római fürdőknél, amelyet egy pihentető szünet követ a gyönyörű, eldugott Bai öbölben.\nA délutáni autózás történelmi emlékek között kanyarog, megállva a Karekli-bazilikánál és tisztelegve a francia hősök emlékművénél Skhoinontasban.\nAz autós kirándulás a Blue Harbour strandon ér véget. Az esti tengerparti út lenyűgöző naplementés kilátást nyújt az Égei-tengerre.",
+        "ro": "Plimbarea cu mașina prin Astypalaia începe la Psile Ammos, unde puteți parca ușor pentru a vă bucura de nisipul matinal înainte de a merge la Sanctuarul lui Artemis.\nPrânzul vă invită să explorați trecutul fascinant al insulei la băile romane târzii, urmat de o pauză relaxantă și pitorească în golful izolat Bai.\nConducerea de după-amiază se împletește printre vestigii istorice, oprindu-se la Bazilica Karekli și la Monumentul Eroilor Francezi din Skhoinontas.\nCălătoria se încheie minunat la Blue Harbour Beach. Drumul de coastă la întoarcere oferă priveliști uimitoare ale apusului pe Marea Egee.",
+        "en": "Driving across Astypalaia begins at Psile Ammos, where you can easily park and enjoy the pristine morning sands before heading to the ancient Sanctuary of Artemis.\nMidday invites exploration of the island's fascinating past at the late Roman baths, followed by a relaxing and scenic break at the beautiful, secluded bay of Bai.\nThe afternoon drive weaves through historic remnants, stopping at the Karekli Basilica and paying respects at the French Heroes Monument at Skhoinontas.\nYour road trip concludes wonderfully at Blue Harbour Beach. The evening coastal drive back offers stunning sunset vistas across the Aegean."
+      }
+    }
+  }
+}

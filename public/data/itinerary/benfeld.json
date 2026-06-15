@@ -1,0 +1,451 @@
+{
+  "city_id": "benfeld",
+  "anchor": {
+    "name": "Benfeld",
+    "coords": [
+      7.5922,
+      48.3706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 0.87,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Square du Rempart",
+            "hu": "Square du Rempart",
+            "ro": "Square du Rempart",
+            "en": "Square du Rempart"
+          },
+          "coords": [
+            7.593992,
+            48.368567
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Festung, um die Geschichte von Benfeld zu spüren, und bringen Sie bequeme Schuhe für unebene Wege mit.",
+            "hu": "Sétáljon az ősi erődítmények maradványai mentén, hogy átérezze Benfeld történelmét, és hozzon kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechii fortărețe pentru a simți istoria orașului Benfeld și aduceți încălțăminte confortabilă pentru aleile denivelate.",
+            "en": "Stroll along the remnants of the ancient fortress to feel Benfeld's history, and bring comfortable walking shoes to navigate the uneven stone paths easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            7.595096,
+            48.368495
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden architektonischen Details dieser friedlichen Kirche und vergessen Sie nicht, nach der schönen historischen Orgel Ausschau zu halten.",
+            "hu": "Csodálja meg ennek a békés templomnak a lenyűgöző építészeti részleteit, és ne felejtse el megnézni a gyönyörű történelmi orgonát sem.",
+            "ro": "Admirați detaliile arhitecturale impresionante ale acestei biserici liniștite și nu uitați să căutați frumoasa orgă istorică expusă înăuntru.",
+            "en": "Admire the impressive architectural details of this peaceful church, and do not forget to look up to see the beautifully crafted historical pipe organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Benfeld",
+            "hu": "Benfeld Városháza",
+            "ro": "Primăria Benfeld",
+            "en": "Benfeld Town Hall"
+          },
+          "coords": [
+            7.59498,
+            48.3691
+          ],
+          "category": "civic",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Renaissance-Juwel aus dem 16. Jahrhundert mit seinem markanten Uhrenturm; fotografieren Sie die Fassade am besten vormittags bei klarem Licht.",
+            "hu": "Fedezze fel ezt a 16. századi reneszánsz gyöngyszemet a feltűnő óratornyával; a homlokzatot érdemes a délelőtti világos fényviszonyok mellett lefotózni.",
+            "ro": "Descoperiți această bijuterie renascentistă din secolul al XVI-lea cu turnul său cu ceas; cel mai bine este să fotografiați fațada în lumina dimineții.",
+            "en": "Discover this 16th-century Renaissance jewel featuring a striking clock tower; make sure to photograph its facade in the clear and bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "La Récrée des Loulous",
+            "hu": "La Récrée des Loulous",
+            "ro": "La Récrée des Loulous",
+            "en": "La Récrée des Loulous"
+          },
+          "coords": [
+            7.596617,
+            48.373097
+          ],
+          "category": "family",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Ein fantastischer Ort für Familien mit Kindern, der viel Raum zum Spielen bietet; planen Sie zusätzliche Zeit ein, wenn Sie an Wochenenden hierher kommen.",
+            "hu": "Fantasztikus hely gyerekekkel érkező családok számára, rengeteg játéktérrel; szánjon rá több időt, ha zsúfoltabb hétvégéken látogat el ide.",
+            "ro": "Un loc fantastic pentru familiile cu copii, oferind spațiu amplu pentru joacă; alocați timp suplimentar dacă plănuiți să veniți în weekendurile aglomerate.",
+            "en": "A fantastic spot for families with children offering ample space for active play; be sure to allocate extra time if you plan to visit on busy weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Europe",
+            "hu": "Place de l'Europe",
+            "ro": "Place de l'Europe",
+            "en": "Place de l'Europe"
+          },
+          "coords": [
+            7.600138,
+            48.372773
+          ],
+          "category": "family",
+          "arrive_at": "13:53",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem modernen Platz, der das heutige städtische Leben von Benfeld widerspiegelt, und setzen Sie sich auf eine Bank, um Leute zu beobachten.",
+            "hu": "Pihenjen ezen a modern téren, amely Benfeld mai városi életét tükrözi, és üljön le egy padra, hogy figyelje a helyiek mindennapi nyüzsgését.",
+            "ro": "Relaxați-vă în această piață modernă care reflectă viața urbană actuală din Benfeld și așezați-vă pe o bancă pentru a observa trecătorii și atmosfera.",
+            "en": "Relax in this modern square that reflects Benfeld's present-day urban life, and grab a seat on one of the benches for an excellent session of people-watching."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen: Beginnen Sie Ihren Tag mit der Erkundung der alten Stadtmauern und der friedlichen Kirche Saint-Laurent.\n\nMittag: Bewundern Sie die Renaissance-Architektur des charmanten Rathauses im Herzen von Benfeld.\n\nNachmittag: Genießen Sie eine entspannte Zeit im La Récrée des Loulous, perfekt für die ganze Familie.\n\nAbend: Lassen Sie den Tag auf der Place de l'Europe ausklingen und beobachten Sie das abendliche Treiben.",
+        "hu": "Reggel: Kezdje a napot a régi városfalak és a békés Saint-Laurent templom felfedezésével a központban.\n\nDél: Csodálja meg a bájos városháza lenyűgöző reneszánsz építészetét Benfeld szívében sétálva.\n\nDélután: Töltsön el egy pihentető időt a La Récrée des Loulous-ban, amely tökéletes program az egész családnak.\n\nEste: Zárja a napot a Place de l'Europe téren, figyelve a helyiek esti pezsgését és a városi életet.",
+        "ro": "Dimineața: Începeți ziua explorând vechile ziduri ale orașului și pașnica Biserică Saint-Laurent din centru.\n\nPrânz: Admirați arhitectura renascentistă a fermecătoarei primării situată chiar în inima orașului Benfeld.\n\nDupă-amiază: Bucurați-vă de un timp de relaxare la La Récrée des Loulous, un loc perfect pentru întreaga familie.\n\nSeara: Încheiați ziua în Place de l'Europe, observând forfota de seară și viața urbană liniștită a localnicilor.",
+        "en": "Morning: Start your day by exploring the town's ancient defensive walls and the peaceful Saint-Laurent Church.\n\nMidday: Admire the beautiful Renaissance architecture of the charming town hall right in the heart of Benfeld.\n\nAfternoon: Enjoy some relaxing downtime at La Récrée des Loulous, offering an engaging space for the whole family.\n\nEvening: Wind down at Place de l'Europe, finding a comfortable bench to observe the gentle evening bustle."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de l'Europe",
+            "hu": "Place de l'Europe",
+            "ro": "Place de l'Europe",
+            "en": "Place de l'Europe"
+          },
+          "coords": [
+            7.600138,
+            48.372773
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem modernen Platz, der das heutige städtische Leben von Benfeld widerspiegelt, und setzen Sie sich auf eine Bank, um Leute zu beobachten.",
+            "hu": "Pihenjen ezen a modern téren, amely Benfeld mai városi életét tükrözi, és üljön le egy padra, hogy figyelje a helyiek mindennapi nyüzsgését.",
+            "ro": "Relaxați-vă în această piață modernă care reflectă viața urbană actuală din Benfeld și așezați-vă pe o bancă pentru a observa trecătorii și atmosfera.",
+            "en": "Relax in this modern square that reflects Benfeld's present-day urban life, and grab a seat on one of the benches for an excellent session of people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Benfeld",
+            "hu": "Benfeld Városháza",
+            "ro": "Primăria Benfeld",
+            "en": "Benfeld Town Hall"
+          },
+          "coords": [
+            7.59498,
+            48.3691
+          ],
+          "category": "civic",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Renaissance-Juwel aus dem 16. Jahrhundert mit seinem markanten Uhrenturm; fotografieren Sie die Fassade am besten vormittags bei klarem Licht.",
+            "hu": "Fedezze fel ezt a 16. századi reneszánsz gyöngyszemet a feltűnő óratornyával; a homlokzatot érdemes a délelőtti világos fényviszonyok mellett lefotózni.",
+            "ro": "Descoperiți această bijuterie renascentistă din secolul al XVI-lea cu turnul său cu ceas; cel mai bine este să fotografiați fațada în lumina dimineții.",
+            "en": "Discover this 16th-century Renaissance jewel featuring a striking clock tower; make sure to photograph its facade in the clear and bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            7.595096,
+            48.368495
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden architektonischen Details dieser friedlichen Kirche und vergessen Sie nicht, nach der schönen historischen Orgel Ausschau zu halten.",
+            "hu": "Csodálja meg ennek a békés templomnak a lenyűgöző építészeti részleteit, és ne felejtse el megnézni a gyönyörű történelmi orgonát sem.",
+            "ro": "Admirați detaliile arhitecturale impresionante ale acestei biserici liniștite și nu uitați să căutați frumoasa orgă istorică expusă înăuntru.",
+            "en": "Admire the impressive architectural details of this peaceful church, and do not forget to look up to see the beautifully crafted historical pipe organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Square du Rempart",
+            "hu": "Square du Rempart",
+            "ro": "Square du Rempart",
+            "en": "Square du Rempart"
+          },
+          "coords": [
+            7.593992,
+            48.368567
+          ],
+          "category": "family",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Festung, um die Geschichte von Benfeld zu spüren, und bringen Sie bequeme Schuhe für unebene Wege mit.",
+            "hu": "Sétáljon az ősi erődítmények maradványai mentén, hogy átérezze Benfeld történelmét, és hozzon kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechii fortărețe pentru a simți istoria orașului Benfeld și aduceți încălțăminte confortabilă pentru aleile denivelate.",
+            "en": "Stroll along the remnants of the ancient fortress to feel Benfeld's history, and bring comfortable walking shoes to navigate the uneven stone paths easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Benfelder See",
+            "hu": "Benfeld-tó",
+            "ro": "Lacul Benfeld",
+            "en": "Benfeld Lake"
+          },
+          "coords": [
+            7.61103,
+            48.3648
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Genießen Sie den See für einen ruhigen Spaziergang oder eine sommerliche Erfrischung; packen Sie ein Picknick ein, um die Natur abseits des Stadtzentrums zu erleben.",
+            "hu": "Élvezze a tavat egy békés sétához vagy egy nyári frissítőhöz; csomagoljon pikniket, hogy a városközponttól távol is élvezhesse a természet szépségét.",
+            "ro": "Bucurați-vă de lac pentru o plimbare liniștită sau o răcorire de vară; luați un picnic pentru a experimenta frumusețea naturii departe de centrul orașului.",
+            "en": "Enjoy the local lake for a peaceful stroll or a refreshing summer dip; pack a light picnic to fully experience the beauty of nature away from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Zembs",
+            "hu": "Zembs folyó",
+            "ro": "Râul Zembs",
+            "en": "La Zembs River"
+          },
+          "coords": [
+            7.641258,
+            48.357288
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den unberührten Ufern dieses Flusses entlang, um die Vogelwelt zu beobachten, und tragen Sie Mückenschutz, besonders in den späten Nachmittagsstunden.",
+            "hu": "Sétáljon e folyó érintetlen partján a madárvilág megfigyeléséhez, és használjon szúnyogriasztót, különösen a késő délutáni órákban a víz közelében.",
+            "ro": "Plimbați-vă de-a lungul malurilor imaculate ale acestui râu pentru a observa păsările și purtați spray împotriva insectelor, mai ales la sfârșitul după-amiezii.",
+            "en": "Walk along the pristine banks of this river for excellent birdwatching, and remember to apply insect repellent, especially during the late afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen: Beginnen Sie Ihre Radtour auf dem modernen Platz und fahren Sie zum ikonischen Renaissance-Rathaus.\n\nMittag: Besuchen Sie die Kirche und radeln Sie zu den historischen Stadtmauern für eine kurze Pause.\n\nNachmittag: Fahren Sie aus dem Zentrum hinaus, um die weiten Flächen am malerischen Benfelder See zu genießen.\n\nAbend: Beenden Sie Ihren aktiven Tag mit einer ruhigen Fahrt entlang der Zembs und genießen Sie den Sonnenuntergang.",
+        "hu": "Reggel: Kezdje kerékpártúráját a modern téren, majd tekerjen el az ikonikus reneszánsz városházához.\n\nDél: Látogasson el a templomhoz, és guruljon át a történelmi városfalakhoz egy rövid múltidéző pihenőre.\n\nDélután: Tekerjen ki a központból, hogy élvezze a festői Benfeld-tó körüli tágas, zöld területeket.\n\nEste: Zárja aktív napját a Zembs folyó mentén, gyönyörködve a vízen tükröződő békés naplementében.",
+        "ro": "Dimineața: Începeți turul cu bicicleta în piața modernă înainte de a vă îndrepta spre emblematica primărie.\n\nPrânz: Vizitați biserica centrală și pedalați scurt până la meterezele istorice pentru o pauză relaxantă.\n\nDupă-amiază: Ieșiți din centrul istoric pentru a vă bucura de spațiile deschise din jurul pitorescului lac Benfeld.\n\nSeara: Încheiați ziua activă mergând de-a lungul râului Zembs, bucurându-vă de un apus de soare liniștit.",
+        "en": "Morning: Kick off your cycling tour in the modern square before heading to the iconic Renaissance town hall.\n\nMidday: Visit the central church and take a short ride to the historic ramparts for a quick historical break.\n\nAfternoon: Pedal out of the historic center to enjoy the wide-open spaces around the scenic Benfeld lake.\n\nEvening: Finish your active day by riding along the Zembs River, enjoying the tranquil sunset over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Square du Rempart",
+            "hu": "Square du Rempart",
+            "ro": "Square du Rempart",
+            "en": "Square du Rempart"
+          },
+          "coords": [
+            7.593992,
+            48.368567
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Festung, um die Geschichte von Benfeld zu spüren, und bringen Sie bequeme Schuhe für unebene Wege mit.",
+            "hu": "Sétáljon az ősi erődítmények maradványai mentén, hogy átérezze Benfeld történelmét, és hozzon kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechii fortărețe pentru a simți istoria orașului Benfeld și aduceți încălțăminte confortabilă pentru aleile denivelate.",
+            "en": "Stroll along the remnants of the ancient fortress to feel Benfeld's history, and bring comfortable walking shoes to navigate the uneven stone paths easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Benfeld",
+            "hu": "Benfeld Városháza",
+            "ro": "Primăria Benfeld",
+            "en": "Benfeld Town Hall"
+          },
+          "coords": [
+            7.59498,
+            48.3691
+          ],
+          "category": "civic",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Renaissance-Juwel aus dem 16. Jahrhundert mit seinem markanten Uhrenturm; fotografieren Sie die Fassade am besten vormittags bei klarem Licht.",
+            "hu": "Fedezze fel ezt a 16. századi reneszánsz gyöngyszemet a feltűnő óratornyával; a homlokzatot érdemes a délelőtti világos fényviszonyok mellett lefotózni.",
+            "ro": "Descoperiți această bijuterie renascentistă din secolul al XVI-lea cu turnul său cu ceas; cel mai bine este să fotografiați fațada în lumina dimineții.",
+            "en": "Discover this 16th-century Renaissance jewel featuring a striking clock tower; make sure to photograph its facade in the clear and bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            7.595096,
+            48.368495
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden architektonischen Details dieser friedlichen Kirche und vergessen Sie nicht, nach der schönen historischen Orgel Ausschau zu halten.",
+            "hu": "Csodálja meg ennek a békés templomnak a lenyűgöző építészeti részleteit, és ne felejtse el megnézni a gyönyörű történelmi orgonát sem.",
+            "ro": "Admirați detaliile arhitecturale impresionante ale acestei biserici liniștite și nu uitați să căutați frumoasa orgă istorică expusă înăuntru.",
+            "en": "Admire the impressive architectural details of this peaceful church, and do not forget to look up to see the beautifully crafted historical pipe organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Huttenheimer See",
+            "hu": "Huttenheim-tó",
+            "ro": "Lacul Huttenheim",
+            "en": "Huttenheim Lake"
+          },
+          "coords": [
+            7.581426,
+            48.343885
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Ein abgelegener und ruhiger See, ideal für Naturliebhaber; bringen Sie ein Fernglas mit, da dieser Ort weniger überlaufen ist und wilde Tiere anzieht.",
+            "hu": "Elszigetelt és nyugodt tó, ideális a természet szerelmeseinek; hozzon távcsövet, mivel ez a hely kevésbé zsúfolt, és gyakran vonzza a vadon élő állatokat.",
+            "ro": "Un lac retras și liniștit, ideal pentru iubitorii de natură; aduceți binoclul, deoarece acest loc este mai puțin aglomerat și atrage animale sălbatice locale.",
+            "en": "A secluded and tranquil lake ideal for dedicated nature lovers; bring binoculars as this uncrowded spot frequently attracts a variety of local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Benfelder See",
+            "hu": "Benfeld-tó",
+            "ro": "Lacul Benfeld",
+            "en": "Benfeld Lake"
+          },
+          "coords": [
+            7.61103,
+            48.3648
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den See für einen ruhigen Spaziergang oder eine sommerliche Erfrischung; packen Sie ein Picknick ein, um die Natur abseits des Stadtzentrums zu erleben.",
+            "hu": "Élvezze a tavat egy békés sétához vagy egy nyári frissítőhöz; csomagoljon pikniket, hogy a városközponttól távol is élvezhesse a természet szépségét.",
+            "ro": "Bucurați-vă de lac pentru o plimbare liniștită sau o răcorire de vară; luați un picnic pentru a experimenta frumusețea naturii departe de centrul orașului.",
+            "en": "Enjoy the local lake for a peaceful stroll or a refreshing summer dip; pack a light picnic to fully experience the beauty of nature away from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Zembs",
+            "hu": "Zembs folyó",
+            "ro": "Râul Zembs",
+            "en": "La Zembs River"
+          },
+          "coords": [
+            7.641258,
+            48.357288
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den unberührten Ufern dieses Flusses entlang, um die Vogelwelt zu beobachten, und tragen Sie Mückenschutz, besonders in den späten Nachmittagsstunden.",
+            "hu": "Sétáljon e folyó érintetlen partján a madárvilág megfigyeléséhez, és használjon szúnyogriasztót, különösen a késő délutáni órákban a víz közelében.",
+            "ro": "Plimbați-vă de-a lungul malurilor imaculate ale acestui râu pentru a observa păsările și purtați spray împotriva insectelor, mai ales la sfârșitul după-amiezii.",
+            "en": "Walk along the pristine banks of this river for excellent birdwatching, and remember to apply insect repellent, especially during the late afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen: Fahren Sie direkt ins historische Zentrum, um die Stadtmauern und das Haupt-Rathaus zu erkunden.\n\nMittag: Nach dem Besuch der Kirche fahren Sie aus der Stadt zum ruhigen Huttenheimer See für Natur pur.\n\nNachmittag: Fahren Sie zurück zum Benfelder See und parken Sie in der Nähe für einen entspannten Spaziergang.\n\nAbend: Beenden Sie Ihren Roadtrip nahe der Zembs und genießen Sie die ruhige natürliche Umgebung in vollen Zügen.",
+        "hu": "Reggel: Hajtson be a történelmi központba, hogy felfedezze a bájos városfalakat és a fő városházát.\n\nDél: A templom megtekintése után induljon el a békés Huttenheim-tóhoz, hogy élvezze a természetet.\n\nDélután: Térjen vissza a benfeldi fő tóhoz, parkoljon le a közelben, és nyújtóztassa ki a lábát egy sétával.\n\nEste: Fejezze be autós kirándulását a Zembs folyó közelében, kiélvezve a nyugodt természeti környezetet.",
+        "ro": "Dimineața: Conduceți direct în centrul istoric pentru a explora meterezele fermecătoare și primăria principală.\n\nPrânz: După o vizită la biserica locală, conduceți în afara orașului spre liniștitul lac Huttenheim.\n\nDupă-amiază: Îndreptați-vă spre lacul principal din Benfeld, parcând în apropiere pentru o plimbare pe mal.\n\nSeara: Încheiați-vă excursia cu mașina lângă râul Zembs, savurând mediul natural calm înainte de plecare.",
+        "en": "Morning: Drive straight into the historic center to explore the charming ramparts and the main town hall.\n\nMidday: After a visit to the local church, drive out of town to the serene Huttenheim lake for nature views.\n\nAfternoon: Head back towards Benfeld's main lake, parking nearby to stretch your legs with a lakeside walk.\n\nEvening: Conclude your road trip near the Zembs River, savoring the calm natural environment before departing."
+      }
+    }
+  }
+}

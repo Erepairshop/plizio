@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-otocac-cities-v2",
+  "anchor": {
+    "name": "Otočac",
+    "coords": [
+      15.238,
+      44.869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gacka-Park der kroatischen Erinnerung",
+            "hu": "Gačanski Horvát Emlékpark",
+            "ro": "Parcul Memoriei Croate Gačanski",
+            "en": "Gačanski Park of Croatian Memory"
+          },
+          "coords": [
+            15.236997,
+            44.869186
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
+            "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
+            "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Fortica",
+            "hu": "Fortica Erőd",
+            "ro": "Cetatea Fortica",
+            "en": "Fortica Fortress"
+          },
+          "coords": [
+            15.233907,
+            44.872759
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
+            "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Inin vrh",
+            "hu": "Inin vrh",
+            "ro": "Inin vrh",
+            "en": "Inin vrh"
+          },
+          "coords": [
+            15.233433,
+            44.881684
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine belebende Wanderung auf diese natürliche Erhebung für einen weiten Blick auf das Gacka-Tal und bringen Sie ausreichend Wasser für den sonnigen Aufstieg mit.",
+            "hu": "Élvezze a frissítő túrát ezen a természetes magaslaton a Gacka-völgy lenyűgöző kilátásáért, és mindenképpen vigyen magával bőséges vizet a napos, kitett emelkedőre.",
+            "ro": "Bucurați-vă de o drumeție revigorantă pe această altitudine naturală pentru priveliști vaste ale văii Gacka, asigurându-vă că aduceți multă apă pentru ascensiunea însorită.",
+            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Poljički vrh",
+            "hu": "Poljički vrh",
+            "ro": "Poljički vrh",
+            "en": "Poljički vrh"
+          },
+          "coords": [
+            15.220516,
+            44.883182
+          ],
+          "category": "natural",
+          "arrive_at": "13:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Aussichtspunkt, der fantastische Fotomotive der üppig grünen Landschaft bietet und sich ideal für ein leckeres Picknick eignet.",
+            "hu": "Pihenjen meg teljesen ezen a békés kilátóponton, amely fantasztikus fotózási lehetőségeket kínál a buja zöld tájakról, és a leginkább egy finom csomagolt ebéddel élvezhető.",
+            "ro": "Relaxați-vă complet la acest punct de belvedere pașnic ce oferă oportunități fotografice fantastice ale peisajelor verzi luxuriante, savurate ideal cu un prânz la pachet.",
+            "en": "Relax completely at this peaceful viewpoint offering fantastic photo opportunities of the lush green landscapes, ideally experienced with a delicious packed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Gacka",
+            "hu": "Gacka folyó",
+            "ro": "Râul Gacka",
+            "en": "Gacka River"
+          },
+          "coords": [
+            15.210793,
+            44.862499
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
+            "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
+            "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Gedenkpark, um die lokale Kultur aufzunehmen.\n\nSteigen Sie dann zu den alten Fortica-Ruinen hinauf, um den besten Panoramablick zu genießen.\n\nMittags geht es über wunderschöne hügelige Pfade zum Inin vrh und Poljički vrh.\n\nBeenden Sie Ihren Nachmittag schließlich mit einem Spaziergang am friedlichen Gacka-Fluss.",
+        "hu": "Kezdje a reggelt az emlékparkban, hogy magába szívja a helyi kultúrát.\n\nEzután másszon fel az ősi Fortica romjaihoz a legjobb panorámás kilátásért.\n\nDélben gyönyörű dombos ösvényeken halad át az Inin vrh és a Poljički vrh felé.\n\nVégül zárja a délutánt egy sétával a békés Gacka folyó partján.",
+        "ro": "Începeți dimineața în parcul memorial pentru a absorbi cultura locală.\n\nApoi, urcați la ruinele antice Fortica pentru a vă bucura de cele mai bune priveliști panoramice.\n\nLa prânz explorați traseele deluroase frumoase spre Inin vrh și Poljički vrh.\n\nÎn final, încheiați după-amiaza plimbându-vă pe malul liniștit al râului Gacka.",
+        "en": "Start your morning at the memory park to absorb the local culture.\n\nThen, ascend to the ancient Fortica ruins to enjoy the best panoramic views.\n\nMidday takes you through beautiful rolling trails to Inin vrh and Poljički vrh.\n\nFinally, end your afternoon strolling by the tranquil Gacka river."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gacka-Park der kroatischen Erinnerung",
+            "hu": "Gačanski Horvát Emlékpark",
+            "ro": "Parcul Memoriei Croate Gačanski",
+            "en": "Gačanski Park of Croatian Memory"
+          },
+          "coords": [
+            15.236997,
+            44.869186
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
+            "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
+            "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Fortica",
+            "hu": "Fortica Erőd",
+            "ro": "Cetatea Fortica",
+            "en": "Fortica Fortress"
+          },
+          "coords": [
+            15.233907,
+            44.872759
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
+            "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Inin vrh",
+            "hu": "Inin vrh",
+            "ro": "Inin vrh",
+            "en": "Inin vrh"
+          },
+          "coords": [
+            15.233433,
+            44.881684
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine belebende Wanderung auf diese natürliche Erhebung für einen weiten Blick auf das Gacka-Tal und bringen Sie ausreichend Wasser für den sonnigen Aufstieg mit.",
+            "hu": "Élvezze a frissítő túrát ezen a természetes magaslaton a Gacka-völgy lenyűgöző kilátásáért, és mindenképpen vigyen magával bőséges vizet a napos, kitett emelkedőre.",
+            "ro": "Bucurați-vă de o drumeție revigorantă pe această altitudine naturală pentru priveliști vaste ale văii Gacka, asigurându-vă că aduceți multă apă pentru ascensiunea însorită.",
+            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Milešnjak",
+            "hu": "Milešnjak",
+            "ro": "Milešnjak",
+            "en": "Milešnjak"
+          },
+          "coords": [
+            15.225922,
+            44.891211
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigen, unberührten Naturort abseits der geschäftigen Massen, der sich ideal zur Vogelbeobachtung eignet, aber bleiben Sie unbedingt auf den Wegen.",
+            "hu": "Fedezze fel ezt a csendes, érintetlen természeti helyet távol a nyüzsgő tömegtől, amely ideális madármegfigyelésre, de mindenképpen maradjon szorosan a kijelölt ösvényeken.",
+            "ro": "Descoperiți acest loc natural liniștit și neatins, departe de aglomerația plină de viață, ideal pentru observarea păsărilor, dar asigurați-vă că rămâneți pe traseele marcate.",
+            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastik",
+            "hu": "Rastik",
+            "ro": "Rastik",
+            "en": "Rastik"
+          },
+          "coords": [
+            15.212382,
+            44.87994
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Atmen Sie in diesem ruhigen, von üppigem Grün umgebenen Naturwaldgebiet tief und erfrischend durch, was sich perfekt für eine beruhigende Meditation am späten Nachmittag eignet.",
+            "hu": "Vegyen egy mély, frissítő lélegzetet ebben a buja zöld növényzettel körülvett békés erdei területen, amely tökéletesen alkalmas egy nyugtató, késő délutáni meditációs ülésre.",
+            "ro": "Respirați adânc și revigorant în această zonă naturală de pădure senină înconjurată de verdeață luxuriantă, care este perfect potrivită pentru o sesiune de meditație calmantă.",
+            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Gacka",
+            "hu": "Gacka folyó",
+            "ro": "Râul Gacka",
+            "en": "Gacka River"
+          },
+          "coords": [
+            15.210793,
+            44.862499
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
+            "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
+            "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Radtour vom zentralen Gedenkpark voller Geschichte.\n\nRadeln Sie hinauf zu den historischen Fortica-Ruinen für einen beeindruckenden morgendlichen Blick.\n\nGenießen Sie einen aktiven Mittag bei der Erkundung der üppigen Nordrouten von Milešnjak und Rastik.\n\nBeenden Sie Ihre Fahrt am berühmten Fluss Gacka, um sich zu entspannen.",
+        "hu": "Kezdje a napot a történelemmel teli központi emlékparkból indulva.\n\nTekekerjen fel a történelmi Fortica romjaihoz egy lenyűgöző reggeli kilátásért.\n\nÉlvezze az aktív delet Milešnjak és Rastik buja északi útvonalainak felfedezésével.\n\nFejezze be az utat az ikonikus Gacka folyónál, hogy ellazítsa izmait.",
+        "ro": "Începeți-vă ziua pedalând din parcul memorial central, plin de istorie.\n\nUrcați spre ruinele istorice Fortica pentru o priveliște matinală dominantă.\n\nBucurați-vă de un prânz activ explorând rutele nordice luxuriante din Milešnjak și Rastik.\n\nÎncheiați cursa pe malul faimosului râu Gacka pentru a vă relaxa mușchii.",
+        "en": "Kick off your day by pedaling from the central memory park, full of history.\n\nCycle up to the historic Fortica ruins for a commanding morning view.\n\nEnjoy an active midday exploring the lush northern routes of Milešnjak and Rastik.\n\nConclude your ride down by the iconic Gacka river to relax your muscles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gacka-Park der kroatischen Erinnerung",
+            "hu": "Gačanski Horvát Emlékpark",
+            "ro": "Parcul Memoriei Croate Gačanski",
+            "en": "Gačanski Park of Croatian Memory"
+          },
+          "coords": [
+            15.236997,
+            44.869186
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
+            "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
+            "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Fortica",
+            "hu": "Fortica Erőd",
+            "ro": "Cetatea Fortica",
+            "en": "Fortica Fortress"
+          },
+          "coords": [
+            15.233907,
+            44.872759
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
+            "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Milešnjak",
+            "hu": "Milešnjak",
+            "ro": "Milešnjak",
+            "en": "Milešnjak"
+          },
+          "coords": [
+            15.225922,
+            44.891211
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigen, unberührten Naturort abseits der geschäftigen Massen, der sich ideal zur Vogelbeobachtung eignet, aber bleiben Sie unbedingt auf den Wegen.",
+            "hu": "Fedezze fel ezt a csendes, érintetlen természeti helyet távol a nyüzsgő tömegtől, amely ideális madármegfigyelésre, de mindenképpen maradjon szorosan a kijelölt ösvényeken.",
+            "ro": "Descoperiți acest loc natural liniștit și neatins, departe de aglomerația plină de viață, ideal pentru observarea păsărilor, dar asigurați-vă că rămâneți pe traseele marcate.",
+            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastik",
+            "hu": "Rastik",
+            "ro": "Rastik",
+            "en": "Rastik"
+          },
+          "coords": [
+            15.212382,
+            44.87994
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Atmen Sie in diesem ruhigen, von üppigem Grün umgebenen Naturwaldgebiet tief und erfrischend durch, was sich perfekt für eine beruhigende Meditation am späten Nachmittag eignet.",
+            "hu": "Vegyen egy mély, frissítő lélegzetet ebben a buja zöld növényzettel körülvett békés erdei területen, amely tökéletesen alkalmas egy nyugtató, késő délutáni meditációs ülésre.",
+            "ro": "Respirați adânc și revigorant în această zonă naturală de pădure senină înconjurată de verdeață luxuriantă, care este perfect potrivită pentru o sesiune de meditație calmantă.",
+            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Gacka",
+            "hu": "Gacka folyó",
+            "ro": "Râul Gacka",
+            "en": "Gacka River"
+          },
+          "coords": [
+            15.210793,
+            44.862499
+          ],
+          "category": "landmark",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
+            "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
+            "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Perin vrh",
+            "hu": "Perin vrh",
+            "ro": "Perin vrh",
+            "en": "Perin vrh"
+          },
+          "coords": [
+            15.225236,
+            44.8436
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren unvergesslichen Tagesausflug an diesem markanten südlichen Gipfel für einen atemberaubenden Sonnenuntergang, aber kehren Sie rechtzeitig vor der Dunkelheit um.",
+            "hu": "Zárja emlékezetes egynapos kirándulását ezen a kiemelkedő déli csúcson egy igazán lenyűgöző naplementével, bár ne felejtsen el biztonságosan visszaindulni a teljes sötétség előtt.",
+            "ro": "Încheiați-vă călătoria memorabilă de o zi pe acest vârf sudic proeminent pentru a prinde un apus cu adevărat uimitor, deși ar trebui să vă întoarceți în siguranță înainte de noapte.",
+            "en": "Conclude your memorable day trip at this prominent southern peak to catch a truly stunning sunset, though you should remember to head back safely before it gets completely dark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie bequem mit einem Besuch im kulturellen Gedenkpark im Stadtzentrum.\n\nMachen Sie eine kurze Fahrt zu den Fortica-Ruinen, bevor Sie die nördlichen Landschaften erkunden.\n\nVerbringen Sie Ihren Mittag damit, die verschiedenen natürlichen Gipfel von Milešnjak und Rastik zu entdecken.\n\nSchließen Sie mit einem Halt an der Gacka und einem wunderschönen Sonnenuntergang am Perin vrh ab.",
+        "hu": "Kezdje kényelmesen a kulturális emlékpark meglátogatásával a városközpontban.\n\nTegyen egy rövid utat a Fortica romjaihoz, mielőtt felfedezné az északi tájakat.\n\nTöltse a delet Milešnjak és Rastik változatos természeti csúcsainak és erdeinek felfedezésével.\n\nZárja egy festői megállóval a Gackánál, majd egy gyönyörű naplementével a Perin vrhnél.",
+        "ro": "Începeți confortabil vizitând parcul memorial cultural din centrul orașului.\n\nFaceți o scurtă plimbare cu mașina până la ruinele Fortica înainte de a explora peisajele nordice.\n\nPetreceți-vă prânzul descoperind diversele vârfuri naturale și păduri din Milešnjak și Rastik.\n\nÎncheiați cu o oprire pitorească la Gacka, urmată de un apus superb la Perin vrh.",
+        "en": "Start comfortably by visiting the cultural memory park in the town center.\n\nTake a short drive to the Fortica ruins before exploring the northern landscapes.\n\nSpend your midday discovering the varied natural peaks and woodlands of Milešnjak and Rastik.\n\nEnd with a scenic stop at Gacka, followed by a gorgeous sunset at Perin vrh."
+      }
+    }
+  }
+}

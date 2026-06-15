@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-huatulco-cities-v2",
+  "anchor": {
+    "name": "Huatulco",
+    "coords": [
+      -96.122778,
+      15.759444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado de artesanias de Santa Cruz Huatulco",
+            "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+            "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+            "en": "Mercado de artesanias de Santa Cruz Huatulco"
+          },
+          "coords": [
+            -96.132763,
+            15.754927
+          ],
+          "category": "market",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen lebhaften Markt, um authentisches Kunsthandwerk zu finden, wobei Sie Bargeld für bessere Verhandlungsmöglichkeiten mitbringen sollten.",
+            "hu": "Fedezze fel ezt a nyüzsgő piacot az autentikus oaxacai kézműves termékekért, és mindenképpen hozzon készpénzt a jobb alkupozíció érdekében.",
+            "ro": "Explorați această piață vibrantă pentru a găsi meșteșuguri autentice și asigurați-vă că aveți numerar la dumneavoastră pentru oportunități mai bune de negociere.",
+            "en": "Explore this vibrant market to find authentic Oaxacan crafts and vibrant textiles, making sure to bring cash for better bargaining opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Fisherman's Beach",
+            "hu": "Fisherman's Beach",
+            "ro": "Fisherman's Beach",
+            "en": "Fisherman's Beach"
+          },
+          "coords": [
+            -96.126405,
+            15.753168
+          ],
+          "category": "beach",
+          "arrive_at": "10:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser und beobachten Sie die Fischerboote, während Sie früh ankommen, um sich einen erstklassigen Platz im weichen Sand zu sichern.",
+            "hu": "Élvezze a nyugodt vizeket és figyelje meg a beérkező halászhajókat, majd érkezzen korán, hogy biztosítson magának egy remek helyet a puha homokon.",
+            "ro": "Bucurați-vă de apele liniștite și observați bărcile locale de pescari, sosind devreme pentru a vă asigura un loc excelent pe nisipul fin.",
+            "en": "Enjoy the calm waters and observe the local fishing boats coming in with their fresh catch, arriving early to secure a prime spot on the soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa San Andres",
+            "hu": "Playa San Andres",
+            "ro": "Playa San Andres",
+            "en": "Playa San Andres"
+          },
+          "coords": [
+            -96.125067,
+            15.75116
+          ],
+          "category": "beach",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen, von Vegetation gesäumten Strand und vergessen Sie nicht Ihre Schnorchelausrüstung, um die flachen Gewässer zu erkunden.",
+            "hu": "Pihenjen ezen a trópusi növényzettel övezett, festői strandon, és ne felejtse el magával hozni a búvárfelszerelését, hogy felfedezze a sekély vizeket.",
+            "ro": "Relaxați-vă pe această plajă pitorească și liniștită, mărginită de vegetație, și nu uitați să luați echipamentul de snorkeling pentru a explora apele puțin adânci.",
+            "en": "Relax on this picturesque, serene beach lined with tropical vegetation, and don't forget to pack your snorkeling gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Paraíso",
+            "hu": "Punta Paraíso",
+            "ro": "Punta Paraíso",
+            "en": "Punta Paraíso"
+          },
+          "coords": [
+            -96.124887,
+            15.7501
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von diesem felsigen Vorgebirge aus und bringen Sie ein Weitwinkelobjektiv mit, um die atemberaubende Küste zu fotografieren.",
+            "hu": "Gyönyörködjön a panorámás óceáni kilátásban erről a sziklás hegyfokról, és hozzon magával széles látószögű lencsét a lenyűgöző partvidék megörökítéséhez.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de pe acest promontoriu stâncos, aducând o cameră cu unghi larg pentru a surprinde coasta uimitoare de sus.",
+            "en": "Take in the panoramic ocean views from this rocky promontory, bringing a wide-angle camera lens to capture the stunning coastline from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Chahue",
+            "hu": "Playa Chahue",
+            "ro": "Playa Chahue",
+            "en": "Playa Chahue"
+          },
+          "coords": [
+            -96.12296,
+            15.759723
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Zehen in den unberührten, weiten weißen Sand dieser Bucht sinken, aber achten Sie auf die starken Unterströmungen, falls Sie schwimmen gehen.",
+            "hu": "Süppesztse lábujjait e népszerű öböl érintetlen, hatalmas fehér homokjába, de legyen óvatos az erős alsó áramlatokkal, ha úgy dönt, hogy úszni megy.",
+            "ro": "Afundați-vă picioarele în nisipul alb și curat al acestui golf popular, dar aveți grijă la curenții puternici dacă vă decideți să mergeți la înot.",
+            "en": "Sink your toes into the pristine, expansive white sands of this popular bay, but be cautious of the strong undercurrents if you decide to go swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den lebhaften Farben und Aromen des örtlichen Kunsthandwerksmarktes. Mittags entspannen Sie sich an den charmanten Ufern der Strände Fisherman's und San Andres. Nachmittags blicken Sie von Punta Paraíso auf den pazifischen Horizont. Der Abend endet an der Playa Chahue, wo Sie das Farbenspiel des Himmels über dem weiten Sand beobachten.",
+        "hu": "A reggel a helyi kézműves piac élénk színeivel és illataival kezdődik. A délidő a Fisherman's és a San Andres strandok bájos partjaira viszi egy nyugodt pihenésre. Délután a Punta Paraíso felől tekinthet ki a csendes-óceáni horizontra. Az este a Playa Chahue-n zárul, ahol megfigyelheti, ahogy az égbolt színei átalakulnak a hatalmas homoktenger felett.",
+        "ro": "Dimineața începe cu culorile și aromele vibrante ale pieței locale de artizanat. La amiază vă relaxați pe țărmurile fermecătoare ale plajelor Fisherman's și San Andres. După-amiaza, priviți orizontul Pacificului din Punta Paraíso. Seara se încheie la Playa Chahue, unde puteți urmări cum culorile cerului se schimbă deasupra nisipurilor vaste.",
+        "en": "Morning begins with the vibrant colors and aromas of the local craft market. Midday takes you to the charming shores of Fisherman's and San Andres beaches for peaceful relaxation. In the afternoon, gaze at the Pacific horizon from Punta Paraíso. The evening concludes at Playa Chahue, where you can watch the colors of the sky shift over the vast sands."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado de artesanias de Santa Cruz Huatulco",
+            "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+            "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+            "en": "Mercado de artesanias de Santa Cruz Huatulco"
+          },
+          "coords": [
+            -96.132763,
+            15.754927
+          ],
+          "category": "market",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen lebhaften Markt, um authentisches Kunsthandwerk zu finden, wobei Sie Bargeld für bessere Verhandlungsmöglichkeiten mitbringen sollten.",
+            "hu": "Fedezze fel ezt a nyüzsgő piacot az autentikus oaxacai kézműves termékekért, és mindenképpen hozzon készpénzt a jobb alkupozíció érdekében.",
+            "ro": "Explorați această piață vibrantă pentru a găsi meșteșuguri autentice și asigurați-vă că aveți numerar la dumneavoastră pentru oportunități mai bune de negociere.",
+            "en": "Explore this vibrant market to find authentic Oaxacan crafts and vibrant textiles, making sure to bring cash for better bargaining opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Chahue",
+            "hu": "Playa Chahue",
+            "ro": "Playa Chahue",
+            "en": "Playa Chahue"
+          },
+          "coords": [
+            -96.12296,
+            15.759723
+          ],
+          "category": "beach",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Zehen in den unberührten, weiten weißen Sand dieser Bucht sinken, aber achten Sie auf die starken Unterströmungen, falls Sie schwimmen gehen.",
+            "hu": "Süppesztse lábujjait e népszerű öböl érintetlen, hatalmas fehér homokjába, de legyen óvatos az erős alsó áramlatokkal, ha úgy dönt, hogy úszni megy.",
+            "ro": "Afundați-vă picioarele în nisipul alb și curat al acestui golf popular, dar aveți grijă la curenții puternici dacă vă decideți să mergeți la înot.",
+            "en": "Sink your toes into the pristine, expansive white sands of this popular bay, but be cautious of the strong undercurrents if you decide to go swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Esperanza",
+            "hu": "Playa La Esperanza",
+            "ro": "Playa La Esperanza",
+            "en": "Playa La Esperanza"
+          },
+          "coords": [
+            -96.117908,
+            15.762575
+          ],
+          "category": "beach",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die mächtigen Wellen an diesem schönen, aber rauen Strand, der sich besser zum Surfen als zum entspannten Schwimmen eignet.",
+            "hu": "Nézze meg a partnak csapódó erőteljes hullámokat ezen a gyönyörű, de viharos strandon, amely inkább szörfözésre, mintsem hétköznapi úszásra alkalmas.",
+            "ro": "Priviți valurile puternice care se sparg de țărm pe această plajă frumoasă, dar turbulentă, mult mai potrivită pentru surfing decât pentru un înot obișnuit.",
+            "en": "Watch the powerful waves crash against the shore at this beautiful but turbulent beach, which is better suited for surfing than for casual swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa El Tejón",
+            "hu": "Playa El Tejón",
+            "ro": "Playa El Tejón",
+            "en": "Playa El Tejón"
+          },
+          "coords": [
+            -96.112296,
+            15.763404
+          ],
+          "category": "beach",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ziehen Sie sich in diese abgelegene und intime Bucht zurück, und bringen Sie Ihre eigenen Snacks und Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Vonuljon vissza ebbe a nyugodt légköréről ismert, eldugott kis öbölbe, és hozzon magával saját harapnivalót és vizet, mivel nincsenek létesítmények a közelben.",
+            "ro": "Retrageți-vă în acest golf izolat, cunoscut pentru atmosfera sa liniștită, și aduceți-vă propriile gustări și apă, deoarece nu există facilități în apropiere.",
+            "en": "Retreat to this secluded and intimate cove known for its tranquil atmosphere, bringing your own snacks and water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa El Arrocito",
+            "hu": "Playa El Arrocito",
+            "ro": "Playa El Arrocito",
+            "en": "Playa El Arrocito"
+          },
+          "coords": [
+            -96.104192,
+            15.758865
+          ],
+          "category": "beach",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften, flachen Wellen, die perfekt für Familien mit Kindern sind, und essen Sie köstliche Meeresfrüchte im kleinen rustikalen Restaurant am Sand.",
+            "hu": "Élvezze a finom, sekély hullámokat, amelyek tökéletesek kisgyermekes családok számára, és egyen egy finom tengeri ételt a homokon található kis rusztikus étteremben.",
+            "ro": "Bucurați-vă de valurile blânde și puțin adânci, perfecte pentru familiile cu copii, și luați o masă delicioasă de fructe de mare la micul restaurant de pe nisip.",
+            "en": "Enjoy the gentle, shallow waves perfect for families with small children, and grab a delicious seafood meal at the small rustic restaurant right on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Paraíso",
+            "hu": "Punta Paraíso",
+            "ro": "Punta Paraíso",
+            "en": "Punta Paraíso"
+          },
+          "coords": [
+            -96.124887,
+            15.7501
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von diesem felsigen Vorgebirge aus und bringen Sie ein Weitwinkelobjektiv mit, um die atemberaubende Küste zu fotografieren.",
+            "hu": "Gyönyörködjön a panorámás óceáni kilátásban erről a sziklás hegyfokról, és hozzon magával széles látószögű lencsét a lenyűgöző partvidék megörökítéséhez.",
+            "ro": "Admirați priveliștile panoramice ale oceanului de pe acest promontoriu stâncos, aducând o cameră cu unghi larg pentru a surprinde coasta uimitoare de sus.",
+            "en": "Take in the panoramic ocean views from this rocky promontory, bringing a wide-angle camera lens to capture the stunning coastline from above."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf dem lokalen Markt, bevor Sie zur beliebten Playa Chahue fahren. Der Mittag bietet kontrastreiche Erlebnisse, wenn Sie von den Wellen bei La Esperanza zur Abgeschiedenheit von El Tejón radeln. Der Nachmittag ist perfekt für Meeresfrüchte in El Arrocito. Beenden Sie den Tag mit dem majestätischen Blick auf den Ozean in Punta Paraíso.",
+        "hu": "Kezdje a kerékpártúrát a helyi piacon, majd tekerjen a népszerű Playa Chahue-hoz. A délidő kontrasztos élményeket kínál, ahogy a La Esperanza hullámaitól az El Tejón nyugalmáig teker. A délután tökéletes egy tengeri ebédszünethez az El Arrocito-n. Fejezze be az aktív napot a fenséges óceáni kilátás megtekintésével a Punta Paraíso-nál.",
+        "ro": "Începeți turul cu bicicleta explorând piața locală înainte de a pedala spre populara Playa Chahue. Amiaza oferă experiențe contrastante pe măsură ce vă deplasați de la valurile din La Esperanza la liniștea din El Tejón. După-amiaza este perfectă pentru o gustare marină la El Arrocito. Încheiați ziua activă admirând priveliștea de la Punta Paraíso.",
+        "en": "Kick off your cycling tour by browsing the local market before riding to the popular Playa Chahue. Midday offers contrasting experiences as you pedal from the rolling waves of La Esperanza to the tranquil seclusion of El Tejón. The afternoon is perfect for a seafood break at El Arrocito. Finish your active day taking in the majestic ocean views at Punta Paraíso."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blow Hole",
+            "hu": "Blow Hole",
+            "ro": "Blow Hole",
+            "en": "Blow Hole"
+          },
+          "coords": [
+            -96.127229,
+            15.738256
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakuläre Naturgewalt, wenn Meerwasser durch eine Felsspalte schießt, wobei Sie einen sicheren Abstand halten sollten, um nicht nass zu werden.",
+            "hu": "Legyen tanúja a természet látványos erejének, amint a tengervíz kitör egy sziklahasadékból, és tartson biztonságos távolságot, nehogy eláztassa az erős permet.",
+            "ro": "Asistați la forța spectaculoasă a naturii pe măsură ce apa erupă printr-o crevasă stâncoasă, păstrând o distanță sigură pentru a nu fi udat de stropii puternici.",
+            "en": "Witness the spectacular force of nature as seawater erupts through a rocky crevice, keeping a safe distance to avoid getting drenched by the powerful spray."
+          }
+        },
+        {
+          "name": {
+            "de": "Fisherman's Beach",
+            "hu": "Fisherman's Beach",
+            "ro": "Fisherman's Beach",
+            "en": "Fisherman's Beach"
+          },
+          "coords": [
+            -96.126405,
+            15.753168
+          ],
+          "category": "beach",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser und beobachten Sie die Fischerboote, während Sie früh ankommen, um sich einen erstklassigen Platz im weichen Sand zu sichern.",
+            "hu": "Élvezze a nyugodt vizeket és figyelje meg a beérkező halászhajókat, majd érkezzen korán, hogy biztosítson magának egy remek helyet a puha homokon.",
+            "ro": "Bucurați-vă de apele liniștite și observați bărcile locale de pescari, sosind devreme pentru a vă asigura un loc excelent pe nisipul fin.",
+            "en": "Enjoy the calm waters and observe the local fishing boats coming in with their fresh catch, arriving early to secure a prime spot on the soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Chahue",
+            "hu": "Playa Chahue",
+            "ro": "Playa Chahue",
+            "en": "Playa Chahue"
+          },
+          "coords": [
+            -96.12296,
+            15.759723
+          ],
+          "category": "beach",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Zehen in den unberührten, weiten weißen Sand dieser Bucht sinken, aber achten Sie auf die starken Unterströmungen, falls Sie schwimmen gehen.",
+            "hu": "Süppesztse lábujjait e népszerű öböl érintetlen, hatalmas fehér homokjába, de legyen óvatos az erős alsó áramlatokkal, ha úgy dönt, hogy úszni megy.",
+            "ro": "Afundați-vă picioarele în nisipul alb și curat al acestui golf popular, dar aveți grijă la curenții puternici dacă vă decideți să mergeți la înot.",
+            "en": "Sink your toes into the pristine, expansive white sands of this popular bay, but be cautious of the strong undercurrents if you decide to go swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Manzanilla",
+            "hu": "Playa Manzanilla",
+            "ro": "Playa Manzanilla",
+            "en": "Playa Manzanilla"
+          },
+          "coords": [
+            -96.099074,
+            15.764715
+          ],
+          "category": "beach",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weichen Sand dieses gut erschlossenen Strandbereichs und nutzen Sie die verfügbaren Liegenverleihe für einen sehr komfortablen Aufenthalt.",
+            "hu": "Pihenjen ennek a jól kiépített strandnak a puha homokján, és használja ki a bérelhető napozóágyakat, valamint a közeli kényelmi szolgáltatásokat a kényelmes tartózkodáshoz.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei zone de plajă bine dezvoltate, profitând de închirierile de șezlonguri și de facilitățile din apropiere pentru un sejur confortabil.",
+            "en": "Lounge on the soft sands of this well-developed beach area, taking advantage of the available lounger rentals and nearby amenities for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Tornillo",
+            "hu": "Playa Tornillo",
+            "ro": "Playa Tornillo",
+            "en": "Playa Tornillo"
+          },
+          "coords": [
+            -96.099976,
+            15.767017
+          ],
+          "category": "beach",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der sanft geschwungenen Küste dieser unberührten Bucht und packen Sie Sonnencreme ein, da es hier wenig natürlichen Schatten gibt.",
+            "hu": "Tegyél egy kényelmes sétát ezen érintetlen öböl finoman ívelt partvonala mentén, és vigyél magaddal naptejet, mivel a terület nagyon kevés természetes árnyékot kínál.",
+            "ro": "Faceți o plimbare liniștită de-a lungul țărmului curbat al acestui golf imaculat și nu uitați crema de soare, deoarece zona oferă foarte puțină umbră naturală.",
+            "en": "Take a leisurely stroll along the gently curving shoreline of this pristine bay, packing sunscreen as the area offers very little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Ventura",
+            "hu": "Playa Ventura",
+            "ro": "Playa Ventura",
+            "en": "Playa Ventura"
+          },
+          "coords": [
+            -96.097916,
+            15.764406
+          ],
+          "category": "beach",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel, in dem der Dschungel auf den Ozean trifft, und tragen Sie feste Wasserschuhe, um die Felsen im klaren Wasser zu überwinden.",
+            "hu": "Fedezze fel ezt a rejtett gyöngyszemet, ahol a dzsungel találkozik az óceánnal, és viseljen masszív vízi cipőt, hogy navigáljon az elszórt sziklák között a vízben.",
+            "ro": "Descoperiți această bijuterie ascunsă unde jungla întâlnește oceanul, purtând pantofi de apă rezistenți pentru a naviga printre pietrele împrăștiate în apa cristalină.",
+            "en": "Discover this hidden gem where the jungle meets the ocean, wearing sturdy water shoes to navigate the scattered rocks as you enter the clear turquoise water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Secreta",
+            "hu": "Playa Secreta",
+            "ro": "Playa Secreta",
+            "en": "Playa Secreta"
+          },
+          "coords": [
+            -96.097073,
+            15.763088
+          ],
+          "category": "beach",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem atemberaubend ruhigen und isolierten Stück Paradies und kommen Sie am späten Nachmittag, um einen privaten Sonnenuntergang zu erleben.",
+            "hu": "Fejezze be a napját ezen a lélegzetelállítóan csendes és elszigetelt paradicsomi helyen, és érkezzen késő délután, hogy egy igazán varázslatos naplementét láthasson.",
+            "ro": "Încheiați-vă ziua în acest colț de paradis uluitor de liniștit și izolat, sosind după-amiaza târziu pentru a experimenta un apus de soare cu adevărat magic și privat.",
+            "en": "End your day at this breathtakingly quiet and isolated slice of paradise, arriving in the late afternoon to experience a truly magical and private sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am spektakulären Blow Hole, wo die Kraft des Ozeans dramatische Fontänen erzeugt. Mittags entspannen Sie am Fisherman's Beach und an der weitläufigen Playa Chahue. Der Nachmittag wird zu einem Küsten-Roadtrip, der zwischen den Buchten von Manzanilla, Tornillo und Ventura wechselt. Entspannen Sie sich schließlich an der unberührten Playa Secreta.",
+        "hu": "Az utazás a látványos Blow Hole-nál kezdődik, ahol az óceán ereje drámai vízsugarakat hoz létre. A délidőt a Fisherman's strand és a hatalmas Playa Chahue puha homokján töltheti. A délután egy tengerparti autózássá alakul a Manzanilla, Tornillo és Ventura festői öblei között. Pihenjen meg teljesen az érintetlen Playa Secreta partján alkonyatkor.",
+        "ro": "Călătoria începe la spectaculosul Blow Hole, unde forțele oceanului creează jeturi dramatice de apă. Amiaza este petrecută relaxându-vă pe nisipurile fine de la Fisherman's Beach și Playa Chahue. După-amiaza devine o excursie pe coastă, trecând prin golfurile pitorești Manzanilla, Tornillo și Ventura. Relaxați-vă complet pe imaculata Playa Secreta la lăsarea serii.",
+        "en": "Your drive begins at the spectacular Blow Hole, where ocean forces create dramatic sprays. Midday is spent unwinding on the soft sands of Fisherman's Beach and the expansive Playa Chahue. The afternoon turns into a coastal road trip, hopping between the scenic coves of Manzanilla, Tornillo, and Ventura. Unwind completely at the pristine Playa Secreta at dusk."
+      }
+    }
+  }
+}

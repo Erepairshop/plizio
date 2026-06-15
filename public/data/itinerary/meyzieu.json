@@ -1,0 +1,474 @@
+{
+  "city_id": "meyzieu",
+  "anchor": {
+    "name": "Meyzieu",
+    "coords": [
+      5.0028,
+      45.7664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 8.78,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Sébastien",
+            "hu": "Saint-Sébastien Templom",
+            "ro": "Biserica Saint-Sébastien",
+            "en": "Saint-Sébastien Church"
+          },
+          "coords": [
+            4.999739,
+            45.761054
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die das Zentrum von Meyzieu prägt, und achten Sie auf das weiche Morgenlicht durch die Buntglasfenster.",
+            "hu": "Csodálja meg a történelmi templom letisztult eleganciáját, amely Meyzieu központját díszíti, és érkezzen kora reggel, hogy a színes üvegablakokon át beszűrődő fényt élvezhesse.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care ancorează centrul orașului Meyzieu și ajungeți dimineața devreme pentru a prinde lumina blândă prin vitralii.",
+            "en": "Admire the simple elegance of this historic church anchoring the center of Meyzieu, and arrive early in the morning to catch the soft light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Vortex Experience VR",
+            "hu": "Vortex Experience VR",
+            "ro": "Vortex Experience VR",
+            "en": "Vortex Experience VR"
+          },
+          "coords": [
+            4.980291,
+            45.766906
+          ],
+          "category": "family",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Tauchen Sie in unglaubliche virtuelle Welten ein, die Spaß für die ganze Familie bieten, und buchen Sie Ihre Sitzung im Voraus, um lange Wartezeiten an Wochenenden zu vermeiden.",
+            "hu": "Merüljön el a hihetetlen virtuális világokban, amelyek az egész családnak szórakozást nyújtanak, de mindenképp foglaljon előre időpontot, hogy elkerülje a hétvégi sorban állást.",
+            "ro": "Pătrundeți în lumi virtuale incredibile care oferă distracție pentru toată familia și asigurați-vă că rezervați sesiunea în avans pentru a evita cozile lungi din weekend.",
+            "en": "Dive into incredible virtual worlds offering fun for the entire family, and make sure to book your session in advance online to avoid long waiting times during the busy weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Grand Large",
+            "hu": "Le Grand Large",
+            "ro": "Le Grand Large",
+            "en": "Le Grand Large"
+          },
+          "coords": [
+            4.996075,
+            45.78584
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.43,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses beeindruckenden Stausees, der perfekt für Spaziergänge am Ufer ist, und packen Sie ein Picknick ein, um die entspannte Atmosphäre voll auszukosten.",
+            "hu": "Élvezze a lenyűgöző víztározó tágasságát, amely tökéletes egy vízparti sétához, és hozzon magával piknikkosarat, hogy a természet lágy ölén tölthesse el a pihentető ebédszünetet.",
+            "ro": "Bucurați-vă de întinderea acestui rezervor impresionant, perfect pentru plimbări pe malul apei, și luați la pachet un picnic pentru a savura pe deplin atmosfera relaxantă la prânz.",
+            "en": "Enjoy the vastness of this impressive reservoir that is absolutely perfect for waterfront strolls, and pack a picnic basket to fully savor the relaxing atmosphere during your break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Miribel-Jonage",
+            "hu": "Parc de Miribel-Jonage",
+            "ro": "Parc de Miribel-Jonage",
+            "en": "Parc de Miribel-Jonage"
+          },
+          "coords": [
+            5.0112,
+            45.787529
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses riesige Naturschutzgebiet mit seinen dichten Wäldern und klaren Gewässern, und mieten Sie ein kleines Boot, um die versteckten Buchten des Parks zu entdecken.",
+            "hu": "Fedezze fel ezt a hatalmas természetvédelmi területet sűrű erdőivel és tiszta vizeivel, és béreljen egy kis csónakot, hogy zavartalanul felfedezhesse a park rejtett, csendes öbleit.",
+            "ro": "Explorați această rezervație naturală uriașă cu pădurile sale dese și apele limpezi și închiriați o barcă mică pentru a descoperi golfurile ascunse și liniștite ale parcului.",
+            "en": "Explore this immense nature reserve featuring dense forests and crystal-clear waters, and consider renting a small boat to easily discover the hidden, tranquil coves of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Meyzieu",
+            "hu": "Fort de Meyzieu",
+            "ro": "Fort de Meyzieu",
+            "en": "Fort de Meyzieu"
+          },
+          "coords": [
+            5.01185,
+            45.7556
+          ],
+          "category": "fortress",
+          "arrive_at": "16:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 3.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Überreste dieser alten Festungsanlage, die von der militärischen Vergangenheit zeugt, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a masszív maradványait, amely a katonai múltról tanúskodik, és viseljen kényelmes, zárt cipőt a kissé egyenetlen és kavicsos kőutak miatt.",
+            "ro": "Descoperiți rămășițele robuste ale acestei fortărețe vechi care stau mărturie trecutului militar și purtați încălțăminte solidă pentru a naviga în siguranță pe cărările pietruite.",
+            "en": "Discover the robust remains of this old fortress that stand as a stark testament to the region's military past, and wear sturdy walking shoes to safely navigate the uneven stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Zentrum von Meyzieu mit einem Besuch der historischen Kirche und aufregenden VR-Erlebnissen. Mittags führt Sie ein gemütlicher Spaziergang zum Le Grand Large, wo Sie bei einem Picknick am Wasser neue Energie tanken können. Der Nachmittag ist ganz der Erkundung der dichten Wälder und idyllischen Ufer des Parc de Miribel-Jonage gewidmet. Den perfekten Abschluss bildet ein entspannter Abendspaziergang zum Fort de Meyzieu, wo Sie die reiche Geschichte der Region bei Sonnenuntergang auf sich wirken lassen können.",
+        "hu": "Kezdje a napot Meyzieu csendes központjában a történelmi templom és az izgalmas VR-élmények felfedezésével. Délben egy kellemes séta vezet a Le Grand Large partjához, amely tökéletes helyszín egy vízparti piknikhez. A délutánt a Parc de Miribel-Jonage buja erdeinek és békés ösvényeinek szentelheti, ahol a természet közelsége teljesen feltölti. Az estét egy hosszú sétával zárhatja dél felé, a Fort de Meyzieu történelmi romjainál, miközben a lemenő nap fénye bevilágítja a régi erődítmény falait.",
+        "ro": "Începeți ziua în centrul liniștit al orașului Meyzieu, vizitând biserica istorică și bucurându-vă de experiențe VR captivante. La amiază, o plimbare pitorească vă duce la Le Grand Large, locul perfect pentru un picnic pe malul apei. După-amiaza este dedicată explorării pădurilor dese și a țărmurilor idilice din vasta rezervație Parc de Miribel-Jonage. Încheiați seara cu o plimbare spre sud pentru a descoperi ruinele robuste ale Fortului Meyzieu, absorbind istoria fascinantă a regiunii la apus.",
+        "en": "Start your day in the quiet center of Meyzieu by exploring the historic church and diving into exciting VR experiences. By midday, a leisurely walk takes you to the scenic shores of Le Grand Large, offering the perfect setting for a waterfront picnic. Spend your afternoon wandering through the sprawling forests and idyllic trails of the impressive Parc de Miribel-Jonage nature reserve. Conclude the day with a long evening walk south to the sturdy ruins of Fort de Meyzieu, soaking in the region's rich military history at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 10.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Sébastien",
+            "hu": "Saint-Sébastien Templom",
+            "ro": "Biserica Saint-Sébastien",
+            "en": "Saint-Sébastien Church"
+          },
+          "coords": [
+            4.999739,
+            45.761054
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die das Zentrum von Meyzieu prägt, und achten Sie auf das weiche Morgenlicht durch die Buntglasfenster.",
+            "hu": "Csodálja meg a történelmi templom letisztult eleganciáját, amely Meyzieu központját díszíti, és érkezzen kora reggel, hogy a színes üvegablakokon át beszűrődő fényt élvezhesse.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care ancorează centrul orașului Meyzieu și ajungeți dimineața devreme pentru a prinde lumina blândă prin vitralii.",
+            "en": "Admire the simple elegance of this historic church anchoring the center of Meyzieu, and arrive early in the morning to catch the soft light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Meyzieu",
+            "hu": "Fort de Meyzieu",
+            "ro": "Fort de Meyzieu",
+            "en": "Fort de Meyzieu"
+          },
+          "coords": [
+            5.01185,
+            45.7556
+          ],
+          "category": "fortress",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Überreste dieser alten Festungsanlage, die von der militärischen Vergangenheit zeugt, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a masszív maradványait, amely a katonai múltról tanúskodik, és viseljen kényelmes, zárt cipőt a kissé egyenetlen és kavicsos kőutak miatt.",
+            "ro": "Descoperiți rămășițele robuste ale acestei fortărețe vechi care stau mărturie trecutului militar și purtați încălțăminte solidă pentru a naviga în siguranță pe cărările pietruite.",
+            "en": "Discover the robust remains of this old fortress that stand as a stark testament to the region's military past, and wear sturdy walking shoes to safely navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Grand Large",
+            "hu": "Le Grand Large",
+            "ro": "Le Grand Large",
+            "en": "Le Grand Large"
+          },
+          "coords": [
+            4.996075,
+            45.78584
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.56,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses beeindruckenden Stausees, der perfekt für Spaziergänge am Ufer ist, und packen Sie ein Picknick ein, um die entspannte Atmosphäre voll auszukosten.",
+            "hu": "Élvezze a lenyűgöző víztározó tágasságát, amely tökéletes egy vízparti sétához, és hozzon magával piknikkosarat, hogy a természet lágy ölén tölthesse el a pihentető ebédszünetet.",
+            "ro": "Bucurați-vă de întinderea acestui rezervor impresionant, perfect pentru plimbări pe malul apei, și luați la pachet un picnic pentru a savura pe deplin atmosfera relaxantă la prânz.",
+            "en": "Enjoy the vastness of this impressive reservoir that is absolutely perfect for waterfront strolls, and pack a picnic basket to fully savor the relaxing atmosphere during your break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanal von Jonage",
+            "hu": "Jonage Csatorna",
+            "ro": "Canalul Jonage",
+            "en": "Jonage Canal"
+          },
+          "coords": [
+            4.991667,
+            45.794722
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie entlang dieses malerischen Kanals, der eine ruhige Flucht aus der Stadt bietet, und bringen Sie Insektenspray mit, da es in der Nähe des Wassers Mücken gibt.",
+            "hu": "Sétáljon vagy kerékpározzon e festői csatorna mentén, amely csendes menedéket nyújt a város zajától, és hozzon magával szúnyogriasztót a víz közelsége miatt a nyári hónapokban.",
+            "ro": "Plimbați-vă sau pedalați de-a lungul acestui canal pitoresc, care oferă o evadare liniștită, și aduceți spray împotriva insectelor deoarece pot fi destui țânțari în apropierea apei.",
+            "en": "Cycle or walk leisurely along this picturesque canal that offers a wonderfully quiet escape from the city, and remember to bring bug repellent due to mosquitoes near the calm water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Miribel-Jonage",
+            "hu": "Parc de Miribel-Jonage",
+            "ro": "Parc de Miribel-Jonage",
+            "en": "Parc de Miribel-Jonage"
+          },
+          "coords": [
+            5.0112,
+            45.787529
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses riesige Naturschutzgebiet mit seinen dichten Wäldern und klaren Gewässern, und mieten Sie ein kleines Boot, um die versteckten Buchten des Parks zu entdecken.",
+            "hu": "Fedezze fel ezt a hatalmas természetvédelmi területet sűrű erdőivel és tiszta vizeivel, és béreljen egy kis csónakot, hogy zavartalanul felfedezhesse a park rejtett, csendes öbleit.",
+            "ro": "Explorați această rezervație naturală uriașă cu pădurile sale dese și apele limpezi și închiriați o barcă mică pentru a descoperi golfurile ascunse și liniștite ale parcului.",
+            "en": "Explore this immense nature reserve featuring dense forests and crystal-clear waters, and consider renting a small boat to easily discover the hidden, tranquil coves of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Allivoz-See",
+            "hu": "Allivoz-tó",
+            "ro": "Lacul Allivoz",
+            "en": "Lake Allivoz"
+          },
+          "coords": [
+            4.978195,
+            45.79987
+          ],
+          "category": "natural",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Ufern dieses kleinen Sees, der ein verstecktes Juwel für Vogelbeobachter ist, und bringen Sie ein Fernglas mit, um die heimische Tierwelt zu studieren.",
+            "hu": "Pihenjen meg a kis tó csendes partjainál, amely a madármegfigyelők rejtett gyöngyszeme, és hozzon magával távcsövet, hogy megcsodálhassa a helyi madárvilág gazdag változatosságát.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui mic lac, care este o bijuterie ascunsă pentru iubitorii de păsări, și aduceți un binoclu pentru a observa diversitatea faunei locale.",
+            "en": "Relax on the serene shores of this small lake which serves as a hidden gem for bird watchers, and be sure to bring a pair of binoculars to properly admire the local wildlife activity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet kulturell an der Kirche und führt schnell zum beeindruckenden Fort de Meyzieu im Süden. Gegen Mittag radeln Sie nordwärts zu den glitzernden Gewässern des Le Grand Large, wo Sie eine entspannte Pause einlegen. Der Nachmittag bietet eine malerische Fahrt entlang des ruhigen Canal de Jonage hinein in das grüne Herz des Parc de Miribel-Jonage. Lassen Sie den Tag entspannt am friedlichen Lac des Allivoz ausklingen, während Sie die Abendstimmung am ruhigen Seeufer genießen.",
+        "hu": "Kerékpártúrája a templomnál kezdődik, majd gyorsan délre, a lenyűgöző Fort de Meyzieu erődítményéhez vezet. Délben észak felé veszi az irányt, hogy a Le Grand Large csillogó vizeinél tartson egy pihentető ebédszünetet. A délután folyamán a festői Canal de Jonage mentén pedálozva fedezheti fel a Parc de Miribel-Jonage zöldellő szívét. Zárja a napot a békés Lac des Allivoz partján, ahol a nyugodt vizet figyelve gyönyörködhet az est csendes és harmonikus atmoszférájában.",
+        "ro": "Turul dumneavoastră pe bicicletă începe cultural la biserică și coboară rapid spre impresionantul Fort Meyzieu din sud. Până la prânz, pedalați spre nord către apele strălucitoare ale Le Grand Large pentru o pauză binemeritată. După-amiaza oferă o plimbare pitorească de-a lungul liniștitului Canal de Jonage, direct în inima verde a Parcului Miribel-Jonage. Încheiați ziua relaxându-vă pe malurile pașnice ale Lacului Allivoz, bucurându-vă de atmosfera senină de seară a apei.",
+        "en": "Your cycling tour begins with local culture at the church before heading swiftly south to the impressive remains of Fort de Meyzieu. By midday, you will pedal north to the sparkling waters of Le Grand Large for a well-deserved, refreshing break. The afternoon features a highly scenic ride along the tranquil Canal de Jonage, leading you deep into the green heart of Parc de Miribel-Jonage. End your active day unwinding by the peaceful shores of Lac des Allivoz, taking in the serene evening atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 10.87,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort de Meyzieu",
+            "hu": "Fort de Meyzieu",
+            "ro": "Fort de Meyzieu",
+            "en": "Fort de Meyzieu"
+          },
+          "coords": [
+            5.01185,
+            45.7556
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Überreste dieser alten Festungsanlage, die von der militärischen Vergangenheit zeugt, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ennek az ősi erődítménynek a masszív maradványait, amely a katonai múltról tanúskodik, és viseljen kényelmes, zárt cipőt a kissé egyenetlen és kavicsos kőutak miatt.",
+            "ro": "Descoperiți rămășițele robuste ale acestei fortărețe vechi care stau mărturie trecutului militar și purtați încălțăminte solidă pentru a naviga în siguranță pe cărările pietruite.",
+            "en": "Discover the robust remains of this old fortress that stand as a stark testament to the region's military past, and wear sturdy walking shoes to safely navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Sébastien",
+            "hu": "Saint-Sébastien Templom",
+            "ro": "Biserica Saint-Sébastien",
+            "en": "Saint-Sébastien Church"
+          },
+          "coords": [
+            4.999739,
+            45.761054
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche, die das Zentrum von Meyzieu prägt, und achten Sie auf das weiche Morgenlicht durch die Buntglasfenster.",
+            "hu": "Csodálja meg a történelmi templom letisztult eleganciáját, amely Meyzieu központját díszíti, és érkezzen kora reggel, hogy a színes üvegablakokon át beszűrődő fényt élvezhesse.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice care ancorează centrul orașului Meyzieu și ajungeți dimineața devreme pentru a prinde lumina blândă prin vitralii.",
+            "en": "Admire the simple elegance of this historic church anchoring the center of Meyzieu, and arrive early in the morning to catch the soft light filtering through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Vortex Experience VR",
+            "hu": "Vortex Experience VR",
+            "ro": "Vortex Experience VR",
+            "en": "Vortex Experience VR"
+          },
+          "coords": [
+            4.980291,
+            45.766906
+          ],
+          "category": "family",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Tauchen Sie in unglaubliche virtuelle Welten ein, die Spaß für die ganze Familie bieten, und buchen Sie Ihre Sitzung im Voraus, um lange Wartezeiten an Wochenenden zu vermeiden.",
+            "hu": "Merüljön el a hihetetlen virtuális világokban, amelyek az egész családnak szórakozást nyújtanak, de mindenképp foglaljon előre időpontot, hogy elkerülje a hétvégi sorban állást.",
+            "ro": "Pătrundeți în lumi virtuale incredibile care oferă distracție pentru toată familia și asigurați-vă că rezervați sesiunea în avans pentru a evita cozile lungi din weekend.",
+            "en": "Dive into incredible virtual worlds offering fun for the entire family, and make sure to book your session in advance online to avoid long waiting times during the busy weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "See des Simondières",
+            "hu": "Simondières-tó",
+            "ro": "Lacul Simondières",
+            "en": "Lake Simondières"
+          },
+          "coords": [
+            4.973103,
+            45.799747
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.68,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses charmante Gewässer, das von üppigem Grün umgeben ist, und kommen Sie am späten Nachmittag, um atemberaubende Spiegelungen der Bäume im Wasser zu fotografieren.",
+            "hu": "Sétálja körbe ezt a buja növényzettel övezett, elbűvölő tavat, és időzítse a látogatást késő délutánra, hogy lenyűgöző fényképeket készíthessen a fák vízben tükröződő sziluettjéről.",
+            "ro": "Plimbați-vă în jurul acestei ape fermecătoare înconjurate de verdeață luxuriantă și veniți după-amiaza târziu pentru a fotografia reflexiile uimitoare ale copacilor pe suprafața lacului.",
+            "en": "Walk entirely around this charming body of water surrounded by lush greenery, and time your visit for the late afternoon to photograph the stunning tree reflections on the calm surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Bletta-See",
+            "hu": "Bletta-tó",
+            "ro": "Lacul Bletta",
+            "en": "Lake Bletta"
+          },
+          "coords": [
+            4.964939,
+            45.79901
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Stille an diesem abgelegenen See, der ideal für ein ungestörtes Picknick ist, und vergessen Sie nicht, eine Decke für das weiche, aber feuchte Gras einzupacken.",
+            "hu": "Élvezze a tökéletes csendet ezen a félreeső tavon, amely ideális egy zavartalan piknikhez, de ne felejtsen el vízálló takarót csomagolni, mivel a fű gyakran harmatos és kissé nedves.",
+            "ro": "Bucurați-vă de liniștea absolută la acest lac retras, ideal pentru un picnic neîntrerupt, și nu uitați să împachetați o pătură rezistentă la apă pentru a sta confortabil pe iarba umedă.",
+            "en": "Enjoy the absolute silence at this secluded lake that is perfectly suited for an undisturbed picnic, and do not forget to pack a waterproof blanket to sit comfortably on the damp grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanal von Jonage",
+            "hu": "Jonage Csatorna",
+            "ro": "Canalul Jonage",
+            "en": "Jonage Canal"
+          },
+          "coords": [
+            4.991667,
+            45.794722
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie entlang dieses malerischen Kanals, der eine ruhige Flucht aus der Stadt bietet, und bringen Sie Insektenspray mit, da es in der Nähe des Wassers Mücken gibt.",
+            "hu": "Sétáljon vagy kerékpározzon e festői csatorna mentén, amely csendes menedéket nyújt a város zajától, és hozzon magával szúnyogriasztót a víz közelsége miatt a nyári hónapokban.",
+            "ro": "Plimbați-vă sau pedalați de-a lungul acestui canal pitoresc, care oferă o evadare liniștită, și aduceți spray împotriva insectelor deoarece pot fi destui țânțari în apropierea apei.",
+            "en": "Cycle or walk leisurely along this picturesque canal that offers a wonderfully quiet escape from the city, and remember to bring bug repellent due to mosquitoes near the calm water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Miribel-Jonage",
+            "hu": "Parc de Miribel-Jonage",
+            "ro": "Parc de Miribel-Jonage",
+            "en": "Parc de Miribel-Jonage"
+          },
+          "coords": [
+            5.0112,
+            45.787529
+          ],
+          "category": "natural",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses riesige Naturschutzgebiet mit seinen dichten Wäldern und klaren Gewässern, und mieten Sie ein kleines Boot, um die versteckten Buchten des Parks zu entdecken.",
+            "hu": "Fedezze fel ezt a hatalmas természetvédelmi területet sűrű erdőivel és tiszta vizeivel, és béreljen egy kis csónakot, hogy zavartalanul felfedezhesse a park rejtett, csendes öbleit.",
+            "ro": "Explorați această rezervație naturală uriașă cu pădurile sale dese și apele limpezi și închiriați o barcă mică pentru a descoperi golfurile ascunse și liniștite ale parcului.",
+            "en": "Explore this immense nature reserve featuring dense forests and crystal-clear waters, and consider renting a small boat to easily discover the hidden, tranquil coves of the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer faszinierenden Fahrt zum Fort de Meyzieu, gefolgt von einer Besichtigung der Kirche und modernen VR-Abenteuern. Mittags fahren Sie bequem zu den abgelegenen Naturjuwelen Lac des Simondières und Lac de la Bletta für ein Picknick. Am Nachmittag erkunden Sie die malerischen Ufer des Canal de Jonage und genießen die frische Brise in der Natur. Den perfekten Abend verbringen Sie im weitläufigen Parc de Miribel-Jonage, wo Sie die Ruhe der Landschaft entspannt auskosten können.",
+        "hu": "A nap a Fort de Meyzieu lenyűgöző romjainak felfedezésével indul, amit a helyi templom és modern VR-kalandok követnek. Délben kényelmesen elautózhat a Lac des Simondières és a Lac de la Bletta rejtett természeti kincseihez egy csendes ebédszünetre. Délután a Canal de Jonage festői partjait járhatja be, élvezve a víz közelségét és a tiszta levegőt. Az estét a hatalmas Parc de Miribel-Jonage területén töltheti, ahol a természet nyugalma tökéletes lezárást nyújt a napnak.",
+        "ro": "Ziua începe cu o plimbare fascinantă la Fortul Meyzieu, urmată de o vizită la biserica centrală și aventuri moderne VR. La prânz, conduceți confortabil către bijuteriile naturale ascunse Lac des Simondières și Lac de la Bletta pentru o pauză relaxantă. După-amiaza vă invită să explorați malurile pitorești ale Canalului Jonage, bucurându-vă de briza proaspătă. Petreceți seara perfectă în vastul Parc Miribel-Jonage, unde puteți savura pe deplin liniștea și peisajele idilice.",
+        "en": "Your day trip starts with a fascinating drive to Fort de Meyzieu, followed by a visit to the central church and some modern VR adventures. By midday, drive comfortably to the secluded natural gems of Lac des Simondières and Lac de la Bletta for a relaxing lunch break. The afternoon invites you to explore the scenic banks of the Canal de Jonage, enjoying the fresh, cooling breeze. Spend a perfect evening in the expansive Parc de Miribel-Jonage, fully savoring the absolute tranquility of the landscape."
+      }
+    }
+  }
+}

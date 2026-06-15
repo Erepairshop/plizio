@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-galaxidi-cities-v2",
+  "anchor": {
+    "name": "Galaxidi",
+    "coords": [
+      22.383611,
+      38.376667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 1.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Agia Paraskeue",
+            "hu": "Agia Paraskeue",
+            "ro": "Agia Paraskeue",
+            "en": "Agia Paraskeue"
+          },
+          "coords": [
+            22.385608,
+            38.377033
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreiche Sonnenuhr an dieser schönen Kirche und kleiden Sie sich für den Innenbesuch stets angemessen.",
+            "hu": "Csodálja meg a templom lenyűgöző napóráját, és ügyeljen a visszafogott öltözködésre a belső tér látogatásakor.",
+            "ro": "Admirați ceasul solar detaliat de pe această biserică frumoasă și asigurați-vă că purtați o ținută decentă înăuntru.",
+            "en": "Admire the beautifully detailed sundial on this lovely church, and be sure to wear modest clothing for your visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Laographiko Mouseio Galaxidiou",
+            "hu": "Laographiko Mouseio Galaxidiou",
+            "ro": "Laographiko Mouseio Galaxidiou",
+            "en": "Laographiko Mouseio Galaxidiou"
+          },
+          "coords": [
+            22.384678,
+            38.378006
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die reiche maritime Geschichte von Galaxidi und fragen Sie das Personal nach englischen Broschüren.",
+            "hu": "Fedezze fel Galaxidi gazdag tengerészeti történelmét ebben a múzeumban, és kérjen angol nyelvű tájékoztatót a bejáratnál.",
+            "ro": "Descoperiți istoria maritimă bogată a orașului Galaxidi în acest muzeu și cereți un pliant în limba engleză la intrare.",
+            "en": "Discover the rich maritime history of Galaxidi in this fascinating museum, and ask the helpful staff for an English brochure."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            22.386442,
+            38.377964
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Holzschnitzerei in dieser byzantinischen Kirche und kommen Sie am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg a lenyűgöző fafaragásokat ebben a bizánci templomban, és érkezzen kora reggel a legszebb természetes fényviszonyokért.",
+            "ro": "Minunați-vă de sculpturile impresionante din lemn din această biserică bizantină și veniți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the magnificent wood carvings in this Byzantine church, and aim to visit in the early morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "O Taphos tou Lokrou",
+            "hu": "O Taphos tou Lokrou",
+            "ro": "O Taphos tou Lokrou",
+            "en": "O Taphos tou Lokrou"
+          },
+          "coords": [
+            22.387501,
+            38.373846
+          ],
+          "category": "landmark",
+          "arrive_at": "12:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses antike Grabmal, das historische Einblicke bietet, und tragen Sie festes Schuhwerk für den unebenen Weg dorthin.",
+            "hu": "Fedezze fel ezt az ősi síremléket, amely történelmi betekintést nyújt, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați acest mormânt antic care oferă perspective istorice și purtați încălțăminte robustă pentru poteca neuniformă de acces.",
+            "en": "Explore this ancient tomb that offers fascinating historical insights, and wear sturdy walking shoes for the uneven path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Skoules Mikri Megali",
+            "hu": "Skoules Mikri Megali",
+            "ro": "Skoules Mikri Megali",
+            "en": "Skoules Mikri Megali"
+          },
+          "coords": [
+            22.390293,
+            38.377363
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem malerischen Erholungsgebiet am Wasser und bringen Sie ein kleines Picknick mit, um die Aussicht zu genießen.",
+            "hu": "Pihenjen ebben a festői vízparti rekreációs övezetben, és hozzon magával egy kis pikniket a lenyűgöző kilátás élvezetéhez.",
+            "ro": "Relaxați-vă în această zonă pitorească de recreere pe malul apei și aduceți un picnic pentru a vă bucura de priveliștile superbe.",
+            "en": "Relax in this picturesque waterfront recreational area, and bring along a light picnic to fully enjoy the magnificent coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Monia",
+            "hu": "Monia",
+            "ro": "Monia",
+            "en": "Monia"
+          },
+          "coords": [
+            22.390583,
+            38.37831
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang durch dieses charmante Gebiet und vergessen Sie Ihre Kamera für tolle Landschaftsaufnahmen nicht.",
+            "hu": "Élvezze a csendes sétát ezen a bájos területen, és ne felejtse el magával hozni a fényképezőgépét a remek tájképekhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin această zonă fermecătoare și nu uitați aparatul foto pentru fotografii excelente.",
+            "en": "Enjoy a peaceful stroll through this charming natural area, and do not forget to bring your camera for some excellent landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Besuch der wunderschönen Agia Paraskeue, gefolgt von lokaler Geschichte im Schifffahrtsmuseum. Mittags geht es weiter zur Agios Nikolaos Kirche mit ihren Holzschnitzereien. Der Nachmittag ist für die Geschichte am Taphos tou Lokrou und einen entspannten Spaziergang am Meer bei Skoules reserviert. Abends lockt der Charme der Küste bei Monia.",
+        "hu": "A reggel a gyönyörű Agia Paraskeue meglátogatásával kezdődik, majd a Tengerészeti Múzeumban merülünk el a helyi történelemben. Délben az Agios Nikolaos templom fafaragásait csodálhatjuk meg. A délután az O Taphos tou Lokrou ősi történelméé és egy pihentető tengerparti sétáé a Skoules közelében. Kora este élvezze a part menti Monia nyugodt varázsát és csendjét.",
+        "ro": "Dimineața începe la frumoasa Agia Paraskeue, urmată de o incursiune în istoria locală la Muzeul Maritim. La prânz explorăm biserica Agios Nikolaos cu sculpturile sale uimitoare. După-amiaza este rezervată pentru istoria antică la O Taphos tou Lokrou și o plimbare relaxantă la malul mării, la Skoules. Pe seară, bucurați-vă de farmecul liniștit al coastei la Monia.",
+        "en": "Morning begins with a serene visit to the beautiful Agia Paraskeue, followed by a deep dive into local heritage at the Maritime Museum. Midday unfolds with a stop at Agios Nikolaos, admiring its wood carvings. The afternoon is reserved for history at O Taphos tou Lokrou and a relaxing stroll by the sea at Skoules. As evening sets in, enjoy the quiet coastal charm of Monia."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 2.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalaphates",
+            "hu": "Kalaphates",
+            "ro": "Kalaphates",
+            "en": "Kalaphates"
+          },
+          "coords": [
+            22.376342,
+            38.385641
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses wunderschönen Erholungsgebietes und halten Sie nach kleinen Booten Ausschau, die gemütlich vorbeifahren.",
+            "hu": "Sétáljon végig ezen a gyönyörű rekreációs területen, és figyelje meg a lassan elhaladó, hangulatos kis csónakokat.",
+            "ro": "Plimbați-vă de-a lungul acestei frumoase zone de recreere și urmăriți bărcile mici care trec pe îndelete pe apele liniștite.",
+            "en": "Take a leisurely walk along this beautiful recreational area and keep an eye out for the small, charming boats passing peacefully by."
+          }
+        },
+        {
+          "name": {
+            "de": "Laographiko Mouseio Galaxidiou",
+            "hu": "Laographiko Mouseio Galaxidiou",
+            "ro": "Laographiko Mouseio Galaxidiou",
+            "en": "Laographiko Mouseio Galaxidiou"
+          },
+          "coords": [
+            22.384678,
+            38.378006
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die reiche maritime Geschichte von Galaxidi und fragen Sie das Personal nach englischen Broschüren.",
+            "hu": "Fedezze fel Galaxidi gazdag tengerészeti történelmét ebben a múzeumban, és kérjen angol nyelvű tájékoztatót a bejáratnál.",
+            "ro": "Descoperiți istoria maritimă bogată a orașului Galaxidi în acest muzeu și cereți un pliant în limba engleză la intrare.",
+            "en": "Discover the rich maritime history of Galaxidi in this fascinating museum, and ask the helpful staff for an English brochure."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            22.386442,
+            38.377964
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Holzschnitzerei in dieser byzantinischen Kirche und kommen Sie am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg a lenyűgöző fafaragásokat ebben a bizánci templomban, és érkezzen kora reggel a legszebb természetes fényviszonyokért.",
+            "ro": "Minunați-vă de sculpturile impresionante din lemn din această biserică bizantină și veniți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the magnificent wood carvings in this Byzantine church, and aim to visit in the early morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Giannakes",
+            "hu": "Giannakes",
+            "ro": "Giannakes",
+            "en": "Giannakes"
+          },
+          "coords": [
+            22.39409,
+            38.376203
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verweilen Sie in dieser ruhigen Bucht, die perfekt für eine Pause ist, und bringen Sie Sonnencreme für die schattenlosen Abschnitte mit.",
+            "hu": "Töltsön el egy kis időt ebben a nyugodt öbölben, és feltétlenül hozzon magával naptejet az árnyék nélküli szakaszokra.",
+            "ro": "Petreceți timp în acest golf liniștit, perfect pentru o pauză, și aduceți cremă de protecție solară pentru porțiunile fără umbră.",
+            "en": "Linger in this tranquil bay which is perfect for a relaxing break, and be sure to bring sunscreen for the unshaded sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Kentri",
+            "hu": "Kentri",
+            "ro": "Kentri",
+            "en": "Kentri"
+          },
+          "coords": [
+            22.395196,
+            38.379848
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Küstenatmosphäre in diesem Park und setzen Sie sich auf eine der Bänke, um das Meer zu beobachten.",
+            "hu": "Tapasztalja meg az idilli tengerparti hangulatot ebben a parkban, és üljön le egy padra, hogy zavartalanul nézhesse a tengert.",
+            "ro": "Experimentați atmosfera de coastă idilică în acest parc și așezați-vă pe o bancă pentru a privi pur și simplu marea relaxantă.",
+            "en": "Experience the idyllic coastal atmosphere in this park, and take a seat on one of the benches to simply watch the relaxing sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Petalo",
+            "hu": "Petalo",
+            "ro": "Petalo",
+            "en": "Petalo"
+          },
+          "coords": [
+            22.396051,
+            38.382283
+          ],
+          "category": "landmark",
+          "arrive_at": "15:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick von diesem Wahrzeichen aus und besuchen Sie es am späten Nachmittag für spektakuläre Fotos.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a nevezetességből, és látogasson el ide késő délután a látványos fényképek kedvéért.",
+            "ro": "Bucurați-vă de priveliștea uluitoare de la acest reper și vizitați-l la sfârșitul după-amiezii pentru fotografii cu adevărat spectaculoase.",
+            "en": "Take in the breathtaking panoramic views from this landmark, and aim to visit in the late afternoon for truly spectacular photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am ruhigen Ufer von Kalaphates und führt zum bereichernden Museum von Galaxidi. Mittags erreichen Sie die prächtige Kirche Agios Nikolaos, gefolgt von einer Fahrt entlang der Küste. Am Nachmittag erkunden Sie die Ufer von Giannakes und Kentri. Der Abend belohnt Sie mit spektakulären Panoramablicken vom Aussichtspunkt Petalo.",
+        "hu": "Kerékpáros kalandja a nyugodt Kalaphates vízparton kezdődik, majd a Galaxidi Múzeum gazdag kiállításához vezet. Délben érkezik a fenséges Agios Nikolaos templomhoz, amelyet egy frissítő parti tekerés követ. Délután fedezze fel Giannakes és Kentri nyugodt partjait a napsütésben. Az este látványos panorámával jutalmazza a Petalo kilátópontról.",
+        "ro": "Aventura pe bicicletă începe pe malul apei la Kalaphates, ducând spre o vizită interesantă la Muzeul Galaxidi. Prânzul vă aduce la biserica Agios Nikolaos, urmată de o plimbare revigorantă pe coastă. După-amiaza explorați țărmurile liniștite de la Giannakes și Kentri sub razele soarelui. Seara vă răsplătește cu vederi panoramice spectaculoase de la Petalo.",
+        "en": "Your cycling adventure kicks off at the serene Kalaphates waterfront, leading to an enriching visit at the Galaxidi Museum. Midday brings you to the grand Agios Nikolaos church, followed by a breezy ride along the coast. In the afternoon, explore the tranquil shores of Giannakes and Kentri, soaking in the sun. Evening rewards you with spectacular panoramic views from Petalo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 4.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mone Soteros",
+            "hu": "Mone Soteros",
+            "ro": "Mone Soteros",
+            "en": "Mone Soteros"
+          },
+          "coords": [
+            22.365552,
+            38.362514
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses spirituelle Kloster in den Hügeln und respektieren Sie die Stille, während Sie die alten Fresken bewundern.",
+            "hu": "Látogasson el ebbe a dombokon fekvő spirituális kolostorba, és tartsa tiszteletben a csendet, miközben a régi freskókat csodálja.",
+            "ro": "Vizitați această mănăstire spirituală situată pe dealuri și respectați liniștea în timp ce admirați frescele sale vechi și valoroase.",
+            "en": "Visit this deeply spiritual monastery nestled in the hills, and respect the quiet atmosphere while admiring its ancient frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ag. Athanasios fort",
+            "hu": "Ag. Athanasios fort",
+            "ro": "Ag. Athanasios fort",
+            "en": "Ag. Athanasios fort"
+          },
+          "coords": [
+            22.360778,
+            38.366229
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser historischen Festung, die spannende Geschichten birgt, und achten Sie auf unebene Steine beim Gehen.",
+            "hu": "Fedezze fel ennek a történelmi erődnek a romjait, és ügyeljen a laza, egyenetlen kövekre séta közben az egész területen.",
+            "ro": "Explorați ruinele acestui fort istoric care ascunde povești captivante și aveți grijă la pietrele inegale în timp ce vă plimbați.",
+            "en": "Explore the fascinating ruins of this historical fort, and tread carefully over the loose, uneven stones while walking around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "O Taphos tou Lokrou",
+            "hu": "O Taphos tou Lokrou",
+            "ro": "O Taphos tou Lokrou",
+            "en": "O Taphos tou Lokrou"
+          },
+          "coords": [
+            22.387501,
+            38.373846
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses antike Grabmal, das historische Einblicke bietet, und tragen Sie festes Schuhwerk für den unebenen Weg dorthin.",
+            "hu": "Fedezze fel ezt az ősi síremléket, amely történelmi betekintést nyújt, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați acest mormânt antic care oferă perspective istorice și purtați încălțăminte robustă pentru poteca neuniformă de acces.",
+            "en": "Explore this ancient tomb that offers fascinating historical insights, and wear sturdy walking shoes for the uneven path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Laographiko Mouseio Galaxidiou",
+            "hu": "Laographiko Mouseio Galaxidiou",
+            "ro": "Laographiko Mouseio Galaxidiou",
+            "en": "Laographiko Mouseio Galaxidiou"
+          },
+          "coords": [
+            22.384678,
+            38.378006
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die reiche maritime Geschichte von Galaxidi und fragen Sie das Personal nach englischen Broschüren.",
+            "hu": "Fedezze fel Galaxidi gazdag tengerészeti történelmét ebben a múzeumban, és kérjen angol nyelvű tájékoztatót a bejáratnál.",
+            "ro": "Descoperiți istoria maritimă bogată a orașului Galaxidi în acest muzeu și cereți un pliant în limba engleză la intrare.",
+            "en": "Discover the rich maritime history of Galaxidi in this fascinating museum, and ask the helpful staff for an English brochure."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            22.386442,
+            38.377964
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Holzschnitzerei in dieser byzantinischen Kirche und kommen Sie am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg a lenyűgöző fafaragásokat ebben a bizánci templomban, és érkezzen kora reggel a legszebb természetes fényviszonyokért.",
+            "ro": "Minunați-vă de sculpturile impresionante din lemn din această biserică bizantină și veniți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the magnificent wood carvings in this Byzantine church, and aim to visit in the early morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Petalo",
+            "hu": "Petalo",
+            "ro": "Petalo",
+            "en": "Petalo"
+          },
+          "coords": [
+            22.396051,
+            38.382283
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick von diesem Wahrzeichen aus und besuchen Sie es am späten Nachmittag für spektakuläre Fotos.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a nevezetességből, és látogasson el ide késő délután a látványos fényképek kedvéért.",
+            "ro": "Bucurați-vă de priveliștea uluitoare de la acest reper și vizitați-l la sfârșitul după-amiezii pentru fotografii cu adevărat spectaculoase.",
+            "en": "Take in the breathtaking panoramic views from this landmark, and aim to visit in the late afternoon for truly spectacular photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit dem ruhigen Kloster Mone Soteros in den Hügeln, gefolgt von den Ruinen der Festung Ag. Athanasios. Mittags geht es zurück ins Zentrum, um das Grabmal Taphos tou Lokrou und das Schifffahrtsmuseum zu entdecken. Der Nachmittag wird bei der Kirche Agios Nikolaos verbracht. Gegen Abend fahren Sie zum Petalo, um einen atemberaubenden Sonnenuntergang zu erleben.",
+        "hu": "Kezdje autós túráját a dombok között fekvő Mone Soteros kolostornál, majd látogasson el az Ag. Athanasios erőd romjaihoz. Délben térjen vissza a központba, hogy felfedezze az ősi Taphos tou Lokrou-t és a Tengerészeti Múzeumot. A délutánt az Agios Nikolaos kézműves remekeinek szenteljük. Ahogy közeledik az este, hajtson a Petalo ponthoz egy csodás naplementéért.",
+        "ro": "Începeți traseul cu liniștita mănăstire Mone Soteros din dealuri, urmată de ruinele fortului Ag. Athanasios. La prânz vă întoarceți în centru pentru a descoperi mormântul Taphos tou Lokrou și Muzeul Maritim. După-amiaza este petrecută admirând măiestria de la Agios Nikolaos. Pe măsură ce se apropie seara, conduceți până la Petalo pentru un apus uimitor.",
+        "en": "Start your drive with the tranquil Mone Soteros monastery in the hills, followed by the rugged ruins of the Ag. Athanasios fort. Midday takes you back toward the town center to discover the ancient Taphos tou Lokrou and local maritime history. The afternoon is spent admiring the craftsmanship at Agios Nikolaos. As evening approaches, drive out to Petalo for a stunning sunset."
+      }
+    }
+  }
+}

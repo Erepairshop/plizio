@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-calafell-cities-v2",
+  "anchor": {
+    "name": "Calafell",
+    "coords": [
+      1.5683,
+      41.19997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de la Santa Creu",
+            "hu": "Església de la Santa Creu",
+            "ro": "Església de la Santa Creu",
+            "en": "Església de la Santa Creu"
+          },
+          "coords": [
+            1.56852,
+            41.201739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser wunderschönen Kirche in der Oberstadt und prüfen Sie die Aushänge bezüglich der begrenzten Öffnungszeiten.",
+            "hu": "Csodálja meg a felsővárosban fekvő gyönyörű középkori templom építészetét, és mindenképpen ellenőrizze a hirdetőtáblán a korlátozott nyitvatartást.",
+            "ro": "Admirați arhitectura medievală a acestei frumoase biserici din orașul de sus și nu uitați să verificați panoul informativ pentru programul de vizitare.",
+            "en": "Admire the medieval architecture of this beautiful church perched in the upper town, and remember to check the notice board for limited open hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Masia de la Sínia",
+            "hu": "Masia de la Sínia",
+            "ro": "Masia de la Sínia",
+            "en": "Masia de la Sínia"
+          },
+          "coords": [
+            1.567772,
+            41.192769
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses traditionelle katalanische Bauernhaus, das die landwirtschaftliche Vergangenheit zeigt, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a hagyományos katalán parasztházat, amely a régió mezőgazdasági múltját idézi, de viseljen erős cipőt az egyenetlen ösvények miatt.",
+            "ro": "Explorați această fermă tradițională catalană care evidențiază trecutul agricol al regiunii, dar purtați încălțăminte solidă deoarece cărările pot fi denivelate.",
+            "en": "Explore this traditional Catalan farmhouse which highlights the region's agricultural past, but wear sturdy shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Vil·la Romana del Vilarenc",
+            "hu": "Vil·la Romana del Vilarenc",
+            "ro": "Vil·la Romana del Vilarenc",
+            "en": "Vil·la Romana del Vilarenc"
+          },
+          "coords": [
+            1.569906,
+            41.191603
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen und antiken Bäder dieser römischen Villa am besten am frühen Nachmittag, um die Schautafeln in Ruhe zu studieren.",
+            "hu": "Fedezze fel ennek a római villának és ősi fürdőinek lenyűgöző romjait kora délután, hogy tömeg nélkül élvezhesse az információs táblákat.",
+            "ro": "Descoperiți ruinele fascinante și băile antice ale acestei vile romane la începutul după-amiezii, pentru a citi plăcuțele informative în liniște.",
+            "en": "Discover the fascinating ruins of this Roman villa and its ancient baths, best visited in the early afternoon to enjoy the informative plaques without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisternes de la Vil·a Romana de \"El Vilarenc\"",
+            "hu": "Cisternes de la Vil·a Romana de \"El Vilarenc\"",
+            "ro": "Cisternes de la Vil·a Romana de \"El Vilarenc\"",
+            "en": "Cisternes de la Vil·a Romana de \"El Vilarenc\""
+          },
+          "coords": [
+            1.571736,
+            41.190511
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden antiken Wasserspeicher direkt neben der Villa und bringen Sie ein Weitwinkelobjektiv mit, um die Größe der Anlage festzuhalten.",
+            "hu": "Csodálja meg a villa melletti lenyűgöző ókori víztároló rendszert, és hozzon magával nagylátószögű objektívet, hogy megörökítse a mérnöki munka valódi léptékét.",
+            "ro": "Admirați impresionantele sisteme antice de stocare a apei de lângă vilă și aduceți un obiectiv cu unghi larg pentru a surprinde amploarea ingineriei romane.",
+            "en": "Marvel at the impressive ancient water storage systems right next to the villa, and bring a wide-angle lens to capture the true scale of the ancient engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre d'Interpretació del Calafell Pescador \"La Confraria\"",
+            "hu": "Centre d'Interpretació del Calafell Pescador \"La Confraria\"",
+            "ro": "Centre d'Interpretació del Calafell Pescador \"La Confraria\"",
+            "en": "Centre d'Interpretació del Calafell Pescador \"La Confraria\""
+          },
+          "coords": [
+            1.56985,
+            41.186689
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über das reiche maritime Erbe der lokalen Fischergemeinde und nehmen Sie sich Zeit für die interaktiven Multimedia-Displays im Erdgeschoss.",
+            "hu": "Ismerje meg a helyi halászközösség gazdag tengeri örökségét, és feltétlenül próbálja ki a földszinten található interaktív multimédiás kijelzőket.",
+            "ro": "Aflați despre bogata moștenire maritimă a comunității locale de pescari și alocați timp pentru a interacționa cu expozițiile multimedia de la parter.",
+            "en": "Learn about the rich maritime heritage of the local fishing community here, and take time to interact with the multimedia displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Casa Barral",
+            "hu": "Museu Casa Barral",
+            "ro": "Museu Casa Barral",
+            "en": "Museu Casa Barral"
+          },
+          "coords": [
+            1.568503,
+            41.186711
+          ],
+          "category": "museum",
+          "arrive_at": "16:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in das ehemalige Haus des Verlegers Carlos Barral, um Literaturgeschichte zu erleben, wobei die Holzbalkone hervorragende Fotomotive bieten.",
+            "hu": "Lépjen be Carlos Barral kiadó egykori otthonába, és élje át a huszadik század közepének irodalmi történelmét; a faerkélyekről remek fotókat készíthet.",
+            "ro": "Pășiți în fosta casă a editorului Carlos Barral pentru a simți istoria literară, remarcând balcoanele din lemn care oferă locuri excelente pentru fotografii.",
+            "en": "Step into the former home of publisher Carlos Barral to experience mid-century literary history, noting that the wooden balconies offer excellent photo spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im hochgelegenen historischen Zentrum mit der ruhigen Anmut der Església de la Santa Creu. Danach steigen Sie sanft hinab, um in der Masia de la Sínia die landwirtschaftliche Vergangenheit Calafells zu entdecken. Mittags reisen Sie in der Zeit zurück, während Sie die römische Villa Vilarenc und ihre antiken Zisternen erkunden. Der Nachmittag führt Sie in das maritime Viertel, wo das Fischereimuseum das Leben am Mittelmeer dokumentiert. Am Abend erreichen Sie das Museu Casa Barral, ein literarisches Refugium in Strandnähe, das Ihre historische Reise abrundet.",
+        "hu": "A reggel a magasan fekvő történelmi magban kezdődik az Església de la Santa Creu templomnál. Ezután a síkság felé ereszkedve felfedezheti Calafell múltját a Masia de la Sínia épületénél. A délben a Vil·la Romana del Vilarenc és az ősi ciszternák romjai között sétálva az ókorba repülhet vissza. A délután a tengerészeti negyedbe csábít, ahol a halászcéh múzeuma a Földközi-tengeri életet mutatja be. Az estét a Museu Casa Barral irodalmi menedékhelyén töltheti, amely tökéletes tengerparti lezárása a napnak.",
+        "ro": "Dimineața începe în centrul istoric elevat, cu grația liniștită a bisericii Església de la Santa Creu. Apoi coborâți ușor pentru a descoperi trecutul agricol al zonei la Masia de la Sínia. La prânz veți călători înapoi în timp, explorând ruinele vilei romane Vilarenc și cisternele sale antice. După-amiaza vă invită în cartierul maritim, unde muzeul breslei pescarilor detaliază viața pe Marea Mediterană. Seara vă găsește la Museu Casa Barral, un refugiu literar situat perfect lângă plajă pentru a încheia ziua.",
+        "en": "Morning begins in the elevated historic core, starting with the quiet grace of Església de la Santa Creu. You will then descend gently towards the plain to uncover Calafell's agricultural past at Masia de la Sínia. Midday transports you back in time as you wander the ruins of the Vil·la Romana del Vilarenc and its adjacent ancient cisterns. Afternoon invites you to the maritime district, where the fishing guild's museum details a life intertwined with the Mediterranean Sea. Evening finds you at Museu Casa Barral, an inspiring literary haven perfectly situated near the beach to conclude your historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Turó de la Font",
+            "hu": "Turó de la Font",
+            "ro": "Turó de la Font",
+            "en": "Turó de la Font"
+          },
+          "coords": [
+            1.558625,
+            41.204796
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen malerischen Hügel für einen Panoramablick über die Küstenebene und bringen Sie Wasser mit, da es entlang der Wege keine Einrichtungen gibt.",
+            "hu": "Túrázzon fel erre a festői dombra, ahonnan panorámás kilátás nyílik a tengerpartra; hozzon sok vizet, mert a tanösvényeken nincsenek szolgáltatások.",
+            "ro": "Urcați pe acest deal pitoresc pentru a vă bucura de vederi panoramice asupra coastei și aduceți apă din abundență, deoarece nu există facilități pe trasee.",
+            "en": "Hike up this scenic hill to enjoy panoramic views over the coastal plain, bringing plenty of water since there are no facilities along the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de la Santa Creu",
+            "hu": "Església de la Santa Creu",
+            "ro": "Església de la Santa Creu",
+            "en": "Església de la Santa Creu"
+          },
+          "coords": [
+            1.56852,
+            41.201739
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser wunderschönen Kirche in der Oberstadt und prüfen Sie die Aushänge bezüglich der begrenzten Öffnungszeiten.",
+            "hu": "Csodálja meg a felsővárosban fekvő gyönyörű középkori templom építészetét, és mindenképpen ellenőrizze a hirdetőtáblán a korlátozott nyitvatartást.",
+            "ro": "Admirați arhitectura medievală a acestei frumoase biserici din orașul de sus și nu uitați să verificați panoul informativ pentru programul de vizitare.",
+            "en": "Admire the medieval architecture of this beautiful church perched in the upper town, and remember to check the notice board for limited open hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Vil·la Romana del Vilarenc",
+            "hu": "Vil·la Romana del Vilarenc",
+            "ro": "Vil·la Romana del Vilarenc",
+            "en": "Vil·la Romana del Vilarenc"
+          },
+          "coords": [
+            1.569906,
+            41.191603
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen und antiken Bäder dieser römischen Villa am besten am frühen Nachmittag, um die Schautafeln in Ruhe zu studieren.",
+            "hu": "Fedezze fel ennek a római villának és ősi fürdőinek lenyűgöző romjait kora délután, hogy tömeg nélkül élvezhesse az információs táblákat.",
+            "ro": "Descoperiți ruinele fascinante și băile antice ale acestei vile romane la începutul după-amiezii, pentru a citi plăcuțele informative în liniște.",
+            "en": "Discover the fascinating ruins of this Roman villa and its ancient baths, best visited in the early afternoon to enjoy the informative plaques without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            1.573109,
+            41.190946
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser historischen Pfarrkirche nahe den römischen Ruinen und bewundern Sie im Inneren den fein gearbeiteten Holzaltar.",
+            "hu": "Értékelje a római romok közelében álló történelmi plébániatemplom békés hangulatát, és lépjen be, hogy megcsodálja a finoman kidolgozott faoltárt.",
+            "ro": "Apreciați ambianța pașnică a acestei biserici parohiale istorice de lângă ruinele romane și intrați pentru a admira altarul din lemn fin prelucrat.",
+            "en": "Appreciate the peaceful ambiance of this historic parish church near the Roman ruins, and step inside to admire the finely crafted wooden altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Pere Pescador",
+            "hu": "Església de Sant Pere Pescador",
+            "ro": "Església de Sant Pere Pescador",
+            "en": "Església de Sant Pere Pescador"
+          },
+          "coords": [
+            1.572394,
+            41.188778
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese modernistische Kirche des Schutzpatrons der Fischer und betrachten Sie die Buntglasfenster, die lebendig maritime Szenen darstellen.",
+            "hu": "Látogasson el a halászok védőszentjének szentelt modernista templomba, és nézze meg közelebbről a tengeri jeleneteket ábrázoló élénk ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică modernistă dedicată sfântului patron al pescarilor și priviți vitraliile care descriu cu vivacitate scene maritime locale.",
+            "en": "Visit this modernist church dedicated to the patron saint of fishermen, and look closely at the stained glass windows that vividly depict maritime scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Madrigueres",
+            "hu": "Platja de les Madrigueres",
+            "ro": "Platja de les Madrigueres",
+            "en": "Platja de les Madrigueres"
+          },
+          "coords": [
+            1.557391,
+            41.184797
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem natürlichen Strandreservat abseits der Touristengebiete und packen Sie Snacks ein, da diese Küstenlinie wunderbar unbebaut bleibt.",
+            "hu": "Pihenjen ezen a természetes strandrezervátumon, távol a fő turistaövezetektől; hozzon magával rágcsálnivalót, mivel a partszakasz teljesen beépítetlen.",
+            "ro": "Relaxați-vă în această rezervație naturală de plajă, departe de zonele turistice aglomerate, și luați-vă propriile gustări pentru a vă bucura de peisajul sălbatic.",
+            "en": "Relax at this natural beach reserve away from the main tourist areas, and pack your own snacks as it preserves a beautiful, undeveloped coastline feel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Eroberung des Turó de la Font und genießen Sie die weite Aussicht, bevor Sie zur historischen Església de la Santa Creu hinuntergleiten. Mittags radeln Sie zur beeindruckenden Vil·la Romana del Vilarenc, um antike Geschichte zu erkunden, mit einem kurzen Halt an der Santa Maria. Am Nachmittag nähern Sie sich der Küste mit einem Besuch der modernistischen Església de Sant Pere Pescador. Der Abend dient der Entspannung, wenn Sie an der Platja de les Madrigueres den Sonnenuntergang über dem unberührten Strand beobachten.",
+        "hu": "Kezdje a kerékpáros napot a Turó de la Font meghódításával, majd ereszkedjen le a történelmi Església de la Santa Creu templomhoz a friss reggeli levegőn. A délidőben tekerjen el a lenyűgöző Vil·la Romana del Vilarenc romjaihoz, és tartson egy rövid pihenőt a Santa Maria templomnál. A délután a part felé viszi, ahol megnézheti a modernista Església de Sant Pere Pescador templomot. Az estét a relaxációnak szentelheti a Platja de les Madrigueres természetes homokos partján, figyelve a lenyugvó napot.",
+        "ro": "Începeți ziua de ciclism cucerind Turó de la Font, bucurându-vă de priveliști naturale înainte de a aluneca spre istorica Església de la Santa Creu. Prânzul vă poartă pedalând spre impresionanta Vil·la Romana del Vilarenc, urmărind istoria antică cu o scurtă pauză la Santa Maria. După-amiaza vă apropie de coastă cu o vizită la biserica modernistă Església de Sant Pere Pescador. Seara este menită relaxării, sosind la Platja de les Madrigueres pentru a privi apusul peste o întindere frumoasă de nisip natural.",
+        "en": "Start your cycling day by conquering Turó de la Font, enjoying sweeping nature views in the brisk morning air before gliding down to the historic Església de la Santa Creu. Midday rolls along nicely as you pedal to the impressive Vil·la Romana del Vilarenc, tracing ancient history before a brief pause at Santa Maria. Afternoon brings you closer to the coast with a quick visit to the modernist Església de Sant Pere Pescador. The evening is meant for relaxation, arriving at Platja de les Madrigueres to watch the sunset over a beautifully preserved stretch of natural sand."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masia Rabassó",
+            "hu": "Masia Rabassó",
+            "ro": "Masia Rabassó",
+            "en": "Masia Rabassó"
+          },
+          "coords": [
+            1.545528,
+            41.199755
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die robuste Architektur dieses historischen landwirtschaftlichen Anwesens vom umlaufenden Weg aus, da es sich um Privateigentum handelt.",
+            "hu": "Tekintse meg ennek a történelmi mezőgazdasági birtoknak az erős építészetét a peremút felől, mivel az épület jelenleg is magántulajdonban van.",
+            "ro": "Observați arhitectura robustă a acestei moșii agricole istorice de pe cărarea perimetrală, având în vedere că situl rămâne o proprietate privată.",
+            "en": "See the sturdy architecture of this historical agricultural estate, though you will need to observe it from the perimeter path as it remains private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Masía Catalá",
+            "hu": "Masía Catalá",
+            "ro": "Masía Catalá",
+            "en": "Masía Catalá"
+          },
+          "coords": [
+            1.544123,
+            41.194702
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die schöne Fassade dieses klassischen katalanischen Herrenhauses am westlichen Stadtrand, am besten vormittags für optimales Sonnenlicht.",
+            "hu": "Fényképezze le a nyugati külvárosban található klasszikus katalán udvarház gyönyörű homlokzatát, ahová a legjobb fényviszonyok érdekében délelőtt érdemes érkezni.",
+            "ro": "Fotografiați fațada frumoasă a acestui conac catalan clasic de la periferia vestică, sosind la mijlocul dimineții pentru cea mai bună lumină solară.",
+            "en": "Photograph the beautiful facade of this classic Catalan manor house in the western outskirts, arriving in the mid-morning for the best sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallissa de Ca la Quima",
+            "hu": "Pallissa de Ca la Quima",
+            "ro": "Pallissa de Ca la Quima",
+            "en": "Pallissa de Ca la Quima"
+          },
+          "coords": [
+            1.56456,
+            41.204263
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rustikalen Charme dieser historischen Scheune in den oberen Straßen, die von ländlichen Traditionen und alten Handwerkstechniken zeugt.",
+            "hu": "Vizsgálja meg ennek a felső utcákban megbújó, vidéki hagyományokról árulkodó történelmi pajtaépületnek a rusztikus és egyben történelmi varázsát.",
+            "ro": "Examinați farmecul rustic al acestei structuri istorice de hambar care șoptește despre tradițiile rurale, aflată pe străzile liniștite din cartierul de sus.",
+            "en": "Examine the rustic charm of this historical barn structure that whispers of rural traditions, standing quietly tucked away in the upper neighborhood streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Vil·la Romana del Vilarenc",
+            "hu": "Vil·la Romana del Vilarenc",
+            "ro": "Vil·la Romana del Vilarenc",
+            "en": "Vil·la Romana del Vilarenc"
+          },
+          "coords": [
+            1.569906,
+            41.191603
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen und antiken Bäder dieser römischen Villa am besten am frühen Nachmittag, um die Schautafeln in Ruhe zu studieren.",
+            "hu": "Fedezze fel ennek a római villának és ősi fürdőinek lenyűgöző romjait kora délután, hogy tömeg nélkül élvezhesse az információs táblákat.",
+            "ro": "Descoperiți ruinele fascinante și băile antice ale acestei vile romane la începutul după-amiezii, pentru a citi plăcuțele informative în liniște.",
+            "en": "Discover the fascinating ruins of this Roman villa and its ancient baths, best visited in the early afternoon to enjoy the informative plaques without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Casa Barral",
+            "hu": "Museu Casa Barral",
+            "ro": "Museu Casa Barral",
+            "en": "Museu Casa Barral"
+          },
+          "coords": [
+            1.568503,
+            41.186711
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Treten Sie ein in das ehemalige Haus des Verlegers Carlos Barral, um Literaturgeschichte zu erleben, wobei die Holzbalkone hervorragende Fotomotive bieten.",
+            "hu": "Lépjen be Carlos Barral kiadó egykori otthonába, és élje át a huszadik század közepének irodalmi történelmét; a faerkélyekről remek fotókat készíthet.",
+            "ro": "Pășiți în fosta casă a editorului Carlos Barral pentru a simți istoria literară, remarcând balcoanele din lemn care oferă locuri excelente pentru fotografii.",
+            "en": "Step into the former home of publisher Carlos Barral to experience mid-century literary history, noting that the wooden balconies offer excellent photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Madrigueres",
+            "hu": "Platja de les Madrigueres",
+            "ro": "Platja de les Madrigueres",
+            "en": "Platja de les Madrigueres"
+          },
+          "coords": [
+            1.557391,
+            41.184797
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem natürlichen Strandreservat abseits der Touristengebiete und packen Sie Snacks ein, da diese Küstenlinie wunderbar unbebaut bleibt.",
+            "hu": "Pihenjen ezen a természetes strandrezervátumon, távol a fő turistaövezetektől; hozzon magával rágcsálnivalót, mivel a partszakasz teljesen beépítetlen.",
+            "ro": "Relaxați-vă în această rezervație naturală de plajă, departe de zonele turistice aglomerate, și luați-vă propriile gustări pentru a vă bucura de peisajul sălbatic.",
+            "en": "Relax at this natural beach reserve away from the main tourist areas, and pack your own snacks as it preserves a beautiful, undeveloped coastline feel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am westlichen Stadtrand bei den historischen Landgütern Masia Rabassó und Masía Catalá. Zur Mittagszeit steuern Sie die Altstadt an, um die rustikale Pallissa de Ca la Quima zu bewundern, gefolgt von einem Stopp an der Vil·la Romana del Vilarenc. Der Nachmittag verbindet Geschichte mit Literatur, wenn Sie nahe dem Museu Casa Barral parken, um das maritime Flair zu genießen. Der Abend verspricht einen ruhigen Abschluss an der unberührten Platja de les Madrigueres, einem wunderschönen Naturstrand.",
+        "hu": "A festői autózás a város nyugati peremén kezdődik, ahol meglátogatja a Masia Rabassó és a Masía Catalá történelmi birtokait. Délben az óváros felé veszi az irányt, hogy megcsodálja a rusztikus Pallissa de Ca la Quima épületét, majd a Vil·la Romana del Vilarenc római romjait. A délután ötvözi a történelmet az irodalommal a Museu Casa Barral környékén, ahol átélheti a tengerparti hangulatot. Az est egy érintetlen természeti csoda, a Platja de les Madrigueres partjának békés látványával zárul.",
+        "ro": "Traseul cu mașina începe la marginea vestică, vizitând moșiile rurale istorice Masia Rabassó și Masía Catalá în lumina dimineții. La prânz, navigați spre centrul vechi pentru a admira rustica Pallissa de Ca la Quima, urmată de o oprire fascinantă la Vil·la Romana del Vilarenc. După-amiaza îmbină istoria cu literatura pe măsură ce parcați lângă Museu Casa Barral pentru a explora atmosfera maritimă. Seara promite un final senin la Platja de les Madrigueres, o plajă naturală nealterată.",
+        "en": "Your scenic drive starts on the western edge of town, visiting the historic rural estates of Masia Rabassó and Masía Catalá as the morning mist lifts. Midday navigation takes you towards the old town to admire the rustic Pallissa de Ca la Quima, followed by a fascinating stop at the Vil·la Romana del Vilarenc. Afternoon seamlessly blends history with literature as you park near the Museu Casa Barral to explore the mid-century maritime vibe. Evening promises a serene finish as you drive out to the pristine Platja de les Madrigueres, an unspoiled natural beach."
+      }
+    }
+  }
+}

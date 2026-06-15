@@ -1,0 +1,474 @@
+{
+  "city_id": "denmark-hornbaek-cities-v2",
+  "anchor": {
+    "name": "Hornbæk",
+    "coords": [
+      12.458333,
+      56.091389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hornbæk Kirke",
+            "hu": "Hornbæk Kirke",
+            "ro": "Hornbæk Kirke",
+            "en": "Hornbæk Kirke"
+          },
+          "coords": [
+            12.458429,
+            56.091362
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante alte Kirche, um die friedliche Atmosphäre zu genießen, aber achten Sie auf die Öffnungszeiten, da diese für Touristen variieren können.",
+            "hu": "Látogasson el ebbe a bájos régi templomba a békés hangulatért, de mindenképpen ellenőrizze a nyitvatartást, mivel az a turisták számára változó lehet a nap folyamán.",
+            "ro": "Vizitați această biserică veche și fermecătoare pentru atmosfera ei pașnică, dar verificați programul de vizitare, deoarece acesta se poate schimba pentru turiști.",
+            "en": "Visit this charming old church to enjoy its peaceful atmosphere, but make sure to check the opening hours as they can vary for tourists throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurbadet",
+            "hu": "Kurbadet",
+            "ro": "Kurbadet",
+            "en": "Kurbadet"
+          },
+          "coords": [
+            12.453816,
+            56.091702
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser beliebten Wellnesseinrichtung, um neue Energie zu tanken, und buchen Sie Ihre Behandlungen unbedingt im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Töltődjön fel ebben a népszerű wellness létesítményben, és a hosszú várakozási idők elkerülése érdekében mindenképpen jó előre foglalja le a kívánt kezeléseket.",
+            "ro": "Relaxați-vă în această facilitate de wellness populară pentru a vă reîncărca bateriile și asigurați-vă că rezervați tratamentele din timp pentru a evita așteptarea.",
+            "en": "Relax in this popular wellness facility to recharge your energy, and make sure to book your treatments well in advance to avoid any unexpected waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Strand",
+            "hu": "Hornbæk Strand",
+            "ro": "Hornbæk Strand",
+            "en": "Hornbæk Strand"
+          },
+          "coords": [
+            12.441215,
+            56.093652
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand an diesem atemberaubenden Strand, bringen Sie jedoch an sonnigen Tagen ausreichend Sonnencreme und Ihre eigene Verpflegung mit.",
+            "hu": "Élvezze a finom fehér homokot ezen a lenyűgöző tengerparton, de a napos időszakokban ne felejtsen el elegendő naptejet és saját frissítőket hozni magával.",
+            "ro": "Bucurați-vă de nisipul fin și alb pe această plajă uimitoare, dar nu uitați să aduceți suficientă cremă de protecție solară și propriile gustări în zilele însorite.",
+            "en": "Enjoy the fine white sand on this stunning beach, but remember to bring plenty of sunscreen and your own refreshments during the busy and sunny summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Hundestrand",
+            "hu": "Hornbæk Hundestrand",
+            "ro": "Hornbæk Hundestrand",
+            "en": "Hornbæk Hundestrand"
+          },
+          "coords": [
+            12.465089,
+            56.092939
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, aber denken Sie daran, ausreichend Trinkwasser für Ihr Haustier mitzubringen.",
+            "hu": "Hagyja, hogy négylábú barátja szabadon szaladgáljon ezen a kutyás strandon, de feltétlenül vigyen magával elegendő friss ivóvizet a kedvence számára a melegben.",
+            "ro": "Lăsați-vă câinele să alerge liber pe această plajă special amenajată, dar asigurați-vă că aduceți suficientă apă proaspătă de băut pentru animalul dumneavoastră.",
+            "en": "Let your four-legged friend run freely on this dedicated dog beach, but make sure to bring plenty of fresh drinking water for your pet during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Stranden ved Hornbæk Plantage",
+            "hu": "Stranden ved Hornbæk Plantage",
+            "ro": "Stranden ved Hornbæk Plantage",
+            "en": "Stranden ved Hornbæk Plantage"
+          },
+          "coords": [
+            12.486682,
+            56.0918
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küstenlandschaft am Waldrand, tragen Sie jedoch bequeme Schuhe, da der Weg durch die Plantage etwas uneben und sandig sein kann.",
+            "hu": "Csodálja meg a festői tengerparti tájat az erdő szélén, de viseljen kényelmes cipőt, mivel az ültetvényen keresztül vezető út kissé egyenetlen és homokos lehet.",
+            "ro": "Admirați peisajul de coastă pitoresc de la marginea pădurii, dar purtați pantofi confortabili, deoarece poteca prin plantație poate fi ușor denivelată și nisipoasă.",
+            "en": "Admire the picturesque coastal scenery right at the edge of the forest, but wear comfortable shoes as the path through the plantation can be quite uneven and sandy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag im Herzen von Hornbæk an der charmanten alten Kirche und genießen Sie die spirituelle Ruhe.\nMidday: Erholen Sie sich im Kurbadet, bevor Sie zum weichen weißen Sand des berühmten Hornbæk Strandes schlendern.\nAfternoon: Setzen Sie Ihren Spaziergang an der Küste fort und beobachten Sie spielende Hunde am speziellen Hundestrand.\nEvening: Beenden Sie Ihre Tour am ruhigen Strand der Hornbæk Plantage und lauschen Sie dem sanften Rauschen der Wellen.",
+        "hu": "Morning: Kezdje a napot Hornbæk szívében a hangulatos régi templomnál, és élvezze annak csendes, spirituális nyugalmát.\nMidday: Frissüljön fel a Kurbadetben, mielőtt lesétálna a híres Hornbæk Strand finom, fehér homokos partjára pihenni.\nAfternoon: Folytassa sétáját a festői tengerparton, és nézze meg a hullámokban játszó kutyákat a kijelölt kutyás strandon.\nEvening: Zárja a túrát a Hornbæk Plantage csendes strandján, miközben a lemenő nap fényeiben és a tenger zúgásában gyönyörködik.",
+        "ro": "Morning: Începeți ziua în inima orașului Hornbæk la biserica fermecătoare și bucurați-vă de liniștea spirituală.\nMidday: Revigorați-vă la Kurbadet înainte de a vă plimba pe nisipul alb și fin al renumitei plaje Hornbæk Strand.\nAfternoon: Continuați-vă plimbarea de-a lungul coastei și urmăriți câinii jucându-se fericiți pe plaja dedicată lor.\nEvening: Încheiați-vă turul pe plaja liniștită de la Hornbæk Plantage, ascultând sunetul blând al valurilor la apus.",
+        "en": "Morning: Start your day in the heart of Hornbæk at the charming old church, soaking in its quiet and spiritual tranquility.\nMidday: Rejuvenate yourself at Kurbadet before strolling down to relax on the fine white sands of the famous Hornbæk Strand.\nAfternoon: Continue your coastal walk and enjoy watching the playful pets run freely at the dedicated local dog beach.\nEvening: Conclude your scenic walking tour at the serene beach by the Hornbæk Plantation as you listen to the gentle waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teglhøj",
+            "hu": "Teglhøj",
+            "ro": "Teglhøj",
+            "en": "Teglhøj"
+          },
+          "coords": [
+            12.431374,
+            56.081952
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Grabhügel aus der Antike, bringen Sie jedoch Insektenschutzmittel mit, wenn Sie in den Sommermonaten hierher kommen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi halomsírt az ókorból, de feltétlenül vigyen magával rovarriasztót, ha a melegebb nyári hónapokban látogat el ide.",
+            "ro": "Explorați această movilă funerară istorică fascinantă din antichitate, dar asigurați-vă că aduceți un spray împotriva insectelor dacă vizitați în lunile de vară.",
+            "en": "Explore this fascinating historical burial mound dating back to antiquity, but be sure to bring some insect repellent if you are visiting during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Strand",
+            "hu": "Hornbæk Strand",
+            "ro": "Hornbæk Strand",
+            "en": "Hornbæk Strand"
+          },
+          "coords": [
+            12.441215,
+            56.093652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand an diesem atemberaubenden Strand, bringen Sie jedoch an sonnigen Tagen ausreichend Sonnencreme und Ihre eigene Verpflegung mit.",
+            "hu": "Élvezze a finom fehér homokot ezen a lenyűgöző tengerparton, de a napos időszakokban ne felejtsen el elegendő naptejet és saját frissítőket hozni magával.",
+            "ro": "Bucurați-vă de nisipul fin și alb pe această plajă uimitoare, dar nu uitați să aduceți suficientă cremă de protecție solară și propriile gustări în zilele însorite.",
+            "en": "Enjoy the fine white sand on this stunning beach, but remember to bring plenty of sunscreen and your own refreshments during the busy and sunny summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurbadet",
+            "hu": "Kurbadet",
+            "ro": "Kurbadet",
+            "en": "Kurbadet"
+          },
+          "coords": [
+            12.453816,
+            56.091702
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser beliebten Wellnesseinrichtung, um neue Energie zu tanken, und buchen Sie Ihre Behandlungen unbedingt im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Töltődjön fel ebben a népszerű wellness létesítményben, és a hosszú várakozási idők elkerülése érdekében mindenképpen jó előre foglalja le a kívánt kezeléseket.",
+            "ro": "Relaxați-vă în această facilitate de wellness populară pentru a vă reîncărca bateriile și asigurați-vă că rezervați tratamentele din timp pentru a evita așteptarea.",
+            "en": "Relax in this popular wellness facility to recharge your energy, and make sure to book your treatments well in advance to avoid any unexpected waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Kirke",
+            "hu": "Hornbæk Kirke",
+            "ro": "Hornbæk Kirke",
+            "en": "Hornbæk Kirke"
+          },
+          "coords": [
+            12.458429,
+            56.091362
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante alte Kirche, um die friedliche Atmosphäre zu genießen, aber achten Sie auf die Öffnungszeiten, da diese für Touristen variieren können.",
+            "hu": "Látogasson el ebbe a bájos régi templomba a békés hangulatért, de mindenképpen ellenőrizze a nyitvatartást, mivel az a turisták számára változó lehet a nap folyamán.",
+            "ro": "Vizitați această biserică veche și fermecătoare pentru atmosfera ei pașnică, dar verificați programul de vizitare, deoarece acesta se poate schimba pentru turiști.",
+            "en": "Visit this charming old church to enjoy its peaceful atmosphere, but make sure to check the opening hours as they can vary for tourists throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Hundestrand",
+            "hu": "Hornbæk Hundestrand",
+            "ro": "Hornbæk Hundestrand",
+            "en": "Hornbæk Hundestrand"
+          },
+          "coords": [
+            12.465089,
+            56.092939
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, aber denken Sie daran, ausreichend Trinkwasser für Ihr Haustier mitzubringen.",
+            "hu": "Hagyja, hogy négylábú barátja szabadon szaladgáljon ezen a kutyás strandon, de feltétlenül vigyen magával elegendő friss ivóvizet a kedvence számára a melegben.",
+            "ro": "Lăsați-vă câinele să alerge liber pe această plajă special amenajată, dar asigurați-vă că aduceți suficientă apă proaspătă de băut pentru animalul dumneavoastră.",
+            "en": "Let your four-legged friend run freely on this dedicated dog beach, but make sure to bring plenty of fresh drinking water for your pet during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Stranden ved Hornbæk Plantage",
+            "hu": "Stranden ved Hornbæk Plantage",
+            "ro": "Stranden ved Hornbæk Plantage",
+            "en": "Stranden ved Hornbæk Plantage"
+          },
+          "coords": [
+            12.486682,
+            56.0918
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küstenlandschaft am Waldrand, tragen Sie jedoch bequeme Schuhe, da der Weg durch die Plantage etwas uneben und sandig sein kann.",
+            "hu": "Csodálja meg a festői tengerparti tájat az erdő szélén, de viseljen kényelmes cipőt, mivel az ültetvényen keresztül vezető út kissé egyenetlen és homokos lehet.",
+            "ro": "Admirați peisajul de coastă pitoresc de la marginea pădurii, dar purtați pantofi confortabili, deoarece poteca prin plantație poate fi ușor denivelată și nisipoasă.",
+            "en": "Admire the picturesque coastal scenery right at the edge of the forest, but wear comfortable shoes as the path through the plantation can be quite uneven and sandy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie zum alten Grabhügel Teglhøj und tauchen Sie in die faszinierende prähistorische Geschichte der Region ein.\nMidday: Fahren Sie zur Küste hinab, um den belebten Hornbæk Strand zu erleben und im Kurbadet zu entspannen.\nAfternoon: Besuchen Sie die historische Kirche und radeln Sie weiter zum Hundestrand, um die fröhliche Atmosphäre zu genießen.\nEvening: Beenden Sie Ihr Fahrradabenteuer am malerischen Strand der Plantage, während die Abendsonne das Meer in warmes Licht taucht.",
+        "hu": "Morning: Kerekezzen el az ősi Teglhøj halomsírhoz, és merüljön el a régió lenyűgöző történelem előtti múltjában.\nMidday: Tekerjen le a partra, élvezze a nyüzsgő Hornbæk Strandot, és pihenjen egyet a híres Kurbadet fürdőjében.\nAfternoon: Látogasson el a történelmi templomhoz, majd biciklizzen tovább a kutyás strandra a vidám tengerparti hangulatért.\nEvening: Fejezze be kerékpáros kalandját az ültetvény festői strandján, miközben az esti naplemente meleg fénybe öltözteti a tengert.",
+        "ro": "Morning: Mergeți cu bicicleta până la vechiul tumul Teglhøj și pătrundeți în istoria preistorică fascinantă a regiunii noastre.\nMidday: Coborâți spre coastă pentru a experimenta plaja plină de viață Hornbæk Strand și relaxați-vă la Kurbadet.\nAfternoon: Vizitați biserica istorică și pedalați până la plaja pentru câini pentru a vă bucura de atmosfera veselă de acolo.\nEvening: Încheiați-vă aventura pe două roți pe plaja pitorească a plantației, în timp ce soarele apune peste marea calmă.",
+        "en": "Morning: Cycle out to the ancient Teglhøj burial mound and immerse yourself in the fascinating prehistoric history of the region.\nMidday: Ride down to the beautiful coast to experience the lively Hornbæk Strand and relax your muscles at Kurbadet.\nAfternoon: Visit the historic local church and pedal onwards to the dedicated dog beach to enjoy its cheerful seaside atmosphere.\nEvening: Finish your cycling adventure at the picturesque plantation beach as the evening sun casts a warm glow over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 10.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stenhøj",
+            "hu": "Stenhøj",
+            "ro": "Stenhøj",
+            "en": "Stenhøj"
+          },
+          "coords": [
+            12.428122,
+            56.078908
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse dieses prähistorischen Steingrabs in ruhiger Umgebung, und vergessen Sie nicht, festes Schuhwerk für das unebene Gelände anzuziehen.",
+            "hu": "Fedezze fel a történelem előtti kősír titkait egy csendes környezetben, és ne felejtsen el masszív lábbelit viselni, mivel a környező terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți secretele acestui mormânt de piatră preistoric într-un cadru liniștit și nu uitați să purtați încălțăminte solidă pentru a naviga pe terenul accidentat.",
+            "en": "Discover the secrets of this prehistoric stone tomb in a quiet setting, and do not forget to wear sturdy footwear to safely navigate the surrounding uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Teglhøj",
+            "hu": "Teglhøj",
+            "ro": "Teglhøj",
+            "en": "Teglhøj"
+          },
+          "coords": [
+            12.431374,
+            56.081952
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Grabhügel aus der Antike, bringen Sie jedoch Insektenschutzmittel mit, wenn Sie in den Sommermonaten hierher kommen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi halomsírt az ókorból, de feltétlenül vigyen magával rovarriasztót, ha a melegebb nyári hónapokban látogat el ide.",
+            "ro": "Explorați această movilă funerară istorică fascinantă din antichitate, dar asigurați-vă că aduceți un spray împotriva insectelor dacă vizitați în lunile de vară.",
+            "en": "Explore this fascinating historical burial mound dating back to antiquity, but be sure to bring some insect repellent if you are visiting during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Kirke",
+            "hu": "Hornbæk Kirke",
+            "ro": "Hornbæk Kirke",
+            "en": "Hornbæk Kirke"
+          },
+          "coords": [
+            12.458429,
+            56.091362
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante alte Kirche, um die friedliche Atmosphäre zu genießen, aber achten Sie auf die Öffnungszeiten, da diese für Touristen variieren können.",
+            "hu": "Látogasson el ebbe a bájos régi templomba a békés hangulatért, de mindenképpen ellenőrizze a nyitvatartást, mivel az a turisták számára változó lehet a nap folyamán.",
+            "ro": "Vizitați această biserică veche și fermecătoare pentru atmosfera ei pașnică, dar verificați programul de vizitare, deoarece acesta se poate schimba pentru turiști.",
+            "en": "Visit this charming old church to enjoy its peaceful atmosphere, but make sure to check the opening hours as they can vary for tourists throughout the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hornbæk Strand",
+            "hu": "Hornbæk Strand",
+            "ro": "Hornbæk Strand",
+            "en": "Hornbæk Strand"
+          },
+          "coords": [
+            12.441215,
+            56.093652
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand an diesem atemberaubenden Strand, bringen Sie jedoch an sonnigen Tagen ausreichend Sonnencreme und Ihre eigene Verpflegung mit.",
+            "hu": "Élvezze a finom fehér homokot ezen a lenyűgöző tengerparton, de a napos időszakokban ne felejtsen el elegendő naptejet és saját frissítőket hozni magával.",
+            "ro": "Bucurați-vă de nisipul fin și alb pe această plajă uimitoare, dar nu uitați să aduceți suficientă cremă de protecție solară și propriile gustări în zilele însorite.",
+            "en": "Enjoy the fine white sand on this stunning beach, but remember to bring plenty of sunscreen and your own refreshments during the busy and sunny summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Odinshyrehøi",
+            "hu": "Odinshyrehøi",
+            "ro": "Odinshyrehøi",
+            "en": "Odinshyrehøi"
+          },
+          "coords": [
+            12.487075,
+            56.079402
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von diesem historischen Hügel mit mythologischer Bedeutung, packen Sie jedoch eine leichte Jacke ein, da es hier oft recht windig ist.",
+            "hu": "Élvezze a kilátást erről a mitológiai jelentőségű történelmi dombról, de feltétlenül csomagoljon be egy könnyű kabátot, mivel a csúcson gyakran elég szeles az idő.",
+            "ro": "Bucurați-vă de priveliștea de pe acest deal istoric cu semnificație mitologică, dar împachetați o jachetă ușoară, deoarece în vârf poate fi adesea destul de vântos.",
+            "en": "Enjoy the beautiful view from this historical hill with mythological significance, but make sure to pack a light jacket as it can often get quite windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Stranden ved Hornbæk Plantage",
+            "hu": "Stranden ved Hornbæk Plantage",
+            "ro": "Stranden ved Hornbæk Plantage",
+            "en": "Stranden ved Hornbæk Plantage"
+          },
+          "coords": [
+            12.486682,
+            56.0918
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küstenlandschaft am Waldrand, tragen Sie jedoch bequeme Schuhe, da der Weg durch die Plantage etwas uneben und sandig sein kann.",
+            "hu": "Csodálja meg a festői tengerparti tájat az erdő szélén, de viseljen kényelmes cipőt, mivel az ültetvényen keresztül vezető út kissé egyenetlen és homokos lehet.",
+            "ro": "Admirați peisajul de coastă pitoresc de la marginea pădurii, dar purtați pantofi confortabili, deoarece poteca prin plantație poate fi ușor denivelată și nisipoasă.",
+            "en": "Admire the picturesque coastal scenery right at the edge of the forest, but wear comfortable shoes as the path through the plantation can be quite uneven and sandy."
+          }
+        },
+        {
+          "name": {
+            "de": "Swimming Pool",
+            "hu": "Swimming Pool",
+            "ro": "Swimming Pool",
+            "en": "Swimming Pool"
+          },
+          "coords": [
+            12.512438,
+            56.080755
+          ],
+          "category": "recreational",
+          "arrive_at": "16:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich an einem heißen Nachmittag in diesem gepflegten Schwimmbad ab, aber überprüfen Sie online die aktuellen Eintrittspreise und saisonalen Öffnungszeiten.",
+            "hu": "Hűtse le magát ezen a jól karbantartott úszómedencénél egy forró délutánon, de indulás előtt mindenképpen ellenőrizze az aktuális belépőárakat és a nyitvatartást.",
+            "ro": "Răcoriți-vă la această piscină bine întreținută într-o după-amiază fierbinte, dar verificați online prețurile actuale de intrare și programul sezonier de funcționare.",
+            "en": "Cool off at this well-maintained swimming pool on a hot afternoon, but be sure to check the current admission prices and seasonal opening hours online before you go."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zu den alten Grabhügeln Stenhøj und Teglhøj, um die faszinierenden historischen Wurzeln von Hornbæk zu entdecken.\nMidday: Kehren Sie ins Zentrum zurück, bewundern Sie die alte Kirche und verbringen Sie erholsame Stunden am beliebten Hornbæk Strand.\nAfternoon: Fahren Sie nach Osten, um den mythischen Odinshyrehøi zu erklimmen, und besuchen Sie danach die friedliche Küste der Plantage.\nEvening: Runden Sie diesen abwechslungsreichen Tag mit einem erfrischenden Bad im lokalen Schwimmbad ab, bevor die Dämmerung hereinbricht.",
+        "hu": "Morning: Vezessen el Stenhøj és Teglhøj ősi halomsírjaihoz, hogy felfedezze Hornbæk lenyűgöző történelmi és kulturális gyökereit.\nMidday: Térjen vissza a központba, csodálja meg a régi templomot, és töltsön el néhány pihentető órát a népszerű Hornbæk Strandon.\nAfternoon: Induljon kelet felé a mitikus Odinshyrehøi megmászására, majd látogasson el az ültetvény békés tengerparti szakaszára.\nEvening: Zárja ezt a változatos napot egy frissítő úszással a helyi jól felszerelt uszodában, mielőtt leszállna a nyugodt est.",
+        "ro": "Morning: Conduceți la vechile movile funerare Stenhøj și Teglhøj pentru a descoperi fascinantele rădăcini istorice ale orașului Hornbæk.\nMidday: Întoarceți-vă în centru, admirați biserica veche și petreceți câteva ore de relaxare pe faimoasa plajă Hornbæk Strand.\nAfternoon: Mergeți spre est pentru a urca pe miticul Odinshyrehøi, apoi vizitați coasta liniștită a plantației din apropiere.\nEvening: Încheiați această zi plină de evenimente cu o baie revigorantă la piscina locală bine întreținută înainte de lăsarea serii.",
+        "en": "Morning: Drive out to the ancient burial mounds of Stenhøj and Teglhøj to discover the fascinating historical roots of Hornbæk.\nMidday: Return to the town center, admire the classic old church, and spend a few relaxing hours on the popular Hornbæk Strand.\nAfternoon: Head east to climb the mythical Odinshyrehøi for great views, then visit the peaceful coastal stretch of the plantation.\nEvening: Round off your eventful day trip with a refreshing swim at the well-maintained local swimming pool before dusk settles."
+      }
+    }
+  }
+}

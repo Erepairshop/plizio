@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-guadix-cities-v2",
+  "anchor": {
+    "name": "Guadix",
+    "coords": [
+      -3.13922,
+      37.29932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Catedralicio Donum Fidei",
+            "hu": "Museo Catedralicio Donum Fidei",
+            "ro": "Museo Catedralicio Donum Fidei",
+            "en": "Museo Catedralicio Donum Fidei"
+          },
+          "coords": [
+            -3.136036,
+            37.301286
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses reiche Diözesanmuseum, das exquisite sakrale Kunst zeigt, und achten Sie besonders auf die beeindruckenden Renaissance-Kelche in der Haupthalle.",
+            "hu": "Fedezze fel ezt a lenyűgöző egyházmegyei múzeumot, amely szakrális művészetet mutat be, és mindenképpen vegye szemügyre a reneszánsz kelyheket a főteremben.",
+            "ro": "Explorați acest bogat muzeu diecezan care prezintă artă sacră rafinată și istorie locală, asigurându-vă că admirați uimitoarele potire renascentiste din sala principală.",
+            "en": "Explore this rich diocesan museum showcasing exquisite sacred art and local history, making sure to notice the stunning Renaissance chalices on display in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de la Concepción",
+            "hu": "Convento de la Concepción",
+            "ro": "Convento de la Concepción",
+            "en": "Convento de la Concepción"
+          },
+          "coords": [
+            -3.136917,
+            37.300064
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie den friedlichen Kreuzgang dieses historischen Klosters, das eine wichtige Rolle im religiösen Leben spielte, und respektieren Sie die Stille bei Ihrem Besuch.",
+            "hu": "Csodálja meg e történelmi kolostor békés kerengőjét, amely fontos szerepet játszott a helyi vallási életben, és ne felejtse el tiszteletben tartani a csendet.",
+            "ro": "Admirați mănăstirea pașnică a acestui complex istoric, care a jucat un rol crucial în viața religioasă, și amintiți-vă să păstrați liniștea în timpul vizitei.",
+            "en": "Admire the peaceful cloister of this historical convent, which played a crucial role in local religious life, and remember to respect the silence while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba de Guadix",
+            "hu": "Alcazaba de Guadix",
+            "ro": "Alcazaba de Guadix",
+            "en": "Alcazaba de Guadix"
+          },
+          "coords": [
+            -3.137314,
+            37.29863
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die alten Mauern dieser maurischen Festung für ein atemberaubendes Panorama der Sierra Nevada, aber tragen Sie unbedingt festes Schuhwerk für die unebenen Wege.",
+            "hu": "Mássza meg e mór erődítmény ősi falait a Sierra Nevada lélegzetelállító panorámájáért, de feltétlenül viseljen masszív cipőt az egyenetlen, sziklás ösvények miatt.",
+            "ro": "Urcați pe zidurile antice ale acestei fortărețe maure pentru o panoramă uluitoare a Sierra Nevada, dar asigurați-vă că purtați încălțăminte robustă pentru căile stâncoase.",
+            "en": "Climb the ancient walls of this Moorish fortress for a breathtaking panorama of the Sierra Nevada, but be sure to wear sturdy shoes for the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Pintor Julio Visconti",
+            "hu": "Casa Museo Pintor Julio Visconti",
+            "ro": "Casa Museo Pintor Julio Visconti",
+            "en": "Casa Museo Pintor Julio Visconti"
+          },
+          "coords": [
+            -3.13519,
+            37.298498
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses wunderschöne Herrenhaus voller Aquarelle und Antiquitäten, und prüfen Sie vorher die Öffnungszeiten, da diese in der Nebensaison oft wechseln.",
+            "hu": "Sétáljon végig ezen a gyönyörű, akvarellekkel és régiségekkel teli nemesi házon, és előzetesen ellenőrizze a nyitvatartást, mivel az a holtszezonban gyakran változik.",
+            "ro": "Plimbați-vă prin această frumoasă casă nobiliară plină de acuarele și antichități și verificați în prealabil orele de deschidere, deoarece se schimbă adesea în extrasezon.",
+            "en": "Wander through this beautiful noble house filled with fine watercolors and antiques, and check the opening hours beforehand as they often change during the low season."
+          }
+        },
+        {
+          "name": {
+            "de": "Cerámica Gabarrón",
+            "hu": "Cerámica Gabarrón",
+            "ro": "Cerámica Gabarrón",
+            "en": "Cerámica Gabarrón"
+          },
+          "coords": [
+            -3.138423,
+            37.298733
+          ],
+          "category": "museum",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionellen Töpfertechniken von Guadix in dieser authentischen Werkstatt und kaufen Sie einen kleinen, handgefertigten Tonkrug als einzigartiges Souvenir.",
+            "hu": "Fedezze fel Guadix hagyományos fazekas technikáit ebben az autentikus műhelyben, és fontolja meg egy kis, kézzel készített agyagkancsó vásárlását egyedi szuvenírként.",
+            "ro": "Descoperiți tehnicile tradiționale de olărit din Guadix în acest atelier autentic și luați în considerare achiziționarea unui ulcior mic de lut ca un suvenir local unic.",
+            "en": "Discover the traditional pottery techniques of Guadix in this authentic workshop, and consider buying a small, handcrafted clay pitcher as a unique local souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+          },
+          "coords": [
+            -3.142305,
+            37.294839
+          ],
+          "category": "museum",
+          "arrive_at": "16:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diese faszinierenden Höhlenwohnungen, um den troglodytischen Lebensstil der Region zu verstehen, und bringen Sie eine leichte Jacke mit, da es drinnen kühl bleibt.",
+            "hu": "Lépjen be ezekbe a lenyűgöző barlanglakásokba, hogy megértse a régió életmódját, és hozzon magával egy könnyű kabátot, mivel bent nyáron is hűvös van.",
+            "ro": "Pășiți în aceste fascinante locuințe rupestre pentru a înțelege stilul de viață troglodit al regiunii și aduceți o jachetă ușoară, deoarece înăuntru rămâne răcoare mereu.",
+            "en": "Step inside these fascinating cave dwellings to understand the troglodyte lifestyle of the region, and bring a light jacket as it stays cool inside even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Padre Poveda",
+            "hu": "Mirador Padre Poveda",
+            "ro": "Mirador Padre Poveda",
+            "en": "Mirador Padre Poveda"
+          },
+          "coords": [
+            -3.141279,
+            37.294514
+          ],
+          "category": "natural",
+          "arrive_at": "18:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Blick auf das einzigartige Höhlenviertel und die markanten Schornsteine, und kommen Sie kurz vor Sonnenuntergang für das beste Licht.",
+            "hu": "Élvezze a látványos kilátást az egyedülálló barlangnegyedre és a feltűnő kéményekre, és érkezzen közvetlenül naplemente előtt a fotózáshoz legalkalmasabb fényviszonyokért.",
+            "ro": "Bucurați-vă de o vedere spectaculoasă asupra cartierului unic de peșteri și a coșurilor de fum uimitoare, ajungând chiar înainte de apus pentru cea mai bună lumină.",
+            "en": "Enjoy a spectacular view over the unique cave neighborhood and the striking chimney tops, arriving just before sunset for the best lighting for your photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des reichen Erbes von Guadix rund um das Kathedralenmuseum. Steigen Sie mittags zur großartigen Alcazaba hinauf, um atemberaubende Panoramen zu genießen, bevor Sie lokale Kunst entdecken. Tauchen Sie nachmittags in das Höhlenviertel ein, um authentische Töpferwaren zu sehen. Beenden Sie den Abend am Poveda-Aussichtspunkt bei einem magischen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Guadix gazdag örökségének felfedezésével a katedrális múzeuma és a békés kolostor körül. Délben másszon fel az Alcazabához a lenyűgöző panorámákért. Délután merüljön el a barlangnegyedben, hogy autentikus fazekas termékeket és barlanglakásokat lásson. Este zárja a napot a Poveda kilátóponton egy varázslatos naplementével, ahonnan csodás kilátás nyílik.",
+        "ro": "Începeți-vă dimineața explorând bogata moștenire a orașului Guadix în jurul muzeului Catedralei și al Mănăstirii. Până la amiază, urcați la Alcazaba pentru panorame uluitoare. După-amiaza, scufundați-vă în cartierul fascinant al peșterilor pentru a vedea ceramică autentică și locuințe troglodite. Încheiați seara la punctul de belvedere Poveda pentru un apus magic.",
+        "en": "Start your morning exploring the rich heritage of Guadix around the imposing Cathedral museum and the peaceful Convent. By midday, climb up to the grand Alcazaba for stunning panoramas before discovering local noble arts. In the afternoon, dive into the fascinating cave district to see authentic pottery and troglodyte dwellings. Conclude your evening at the Poveda viewpoint for a magical sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 3.09,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de San Miguel",
+            "hu": "Iglesia de San Miguel",
+            "ro": "Iglesia de San Miguel",
+            "en": "Iglesia de San Miguel"
+          },
+          "coords": [
+            -3.138998,
+            37.301579
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie den beeindruckenden Mudejar-Turm und die schönen Altäre in dieser historischen Kirche, und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre.",
+            "hu": "Vegye észre a lenyűgöző mudéjar tornyot és a gyönyörű oltárképeket ebben a történelmi templomban, és szánjon egy percet a tömegtől távoli nyugodt légkör értékelésére.",
+            "ro": "Observați impresionantul turn mudejar și frumoasele altare din această biserică istorică, acordându-vă un moment pentru a aprecia atmosfera liniștită, departe de aglomerație.",
+            "en": "Notice the impressive Mudejar tower and beautiful altarpieces inside this historic church, taking a moment to appreciate the quiet atmosphere away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Excavación arqueológica en el Callejón de la Tahona",
+            "hu": "Excavación arqueológica en el Callejón de la Tahona",
+            "ro": "Excavación arqueológica en el Callejón de la Tahona",
+            "en": "Excavación arqueológica en el Callejón de la Tahona"
+          },
+          "coords": [
+            -3.137803,
+            37.301811
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden römischen Ruinen, die derzeit ausgegraben werden, um die Geschichte von Guadix zu erfassen, und lesen Sie die Tafeln langsam durch.",
+            "hu": "Figyelje meg a jelenleg feltárás alatt álló lenyűgöző római romokat Guadix történelmének megértéséhez, és lassan olvassa el a tájékoztató táblákat az elrendezéshez.",
+            "ro": "Observați ruinele romane fascinante aflate în prezent în excavare pentru a înțelege istoria profundă a orașului Guadix și citiți panourile informative cu atenție.",
+            "en": "Observe the fascinating Roman ruins currently under excavation to grasp the deep history of Guadix, and read the informative panels slowly to understand the layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Catedralicio Donum Fidei",
+            "hu": "Museo Catedralicio Donum Fidei",
+            "ro": "Museo Catedralicio Donum Fidei",
+            "en": "Museo Catedralicio Donum Fidei"
+          },
+          "coords": [
+            -3.136036,
+            37.301286
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses reiche Diözesanmuseum, das exquisite sakrale Kunst zeigt, und achten Sie besonders auf die beeindruckenden Renaissance-Kelche in der Haupthalle.",
+            "hu": "Fedezze fel ezt a lenyűgöző egyházmegyei múzeumot, amely szakrális művészetet mutat be, és mindenképpen vegye szemügyre a reneszánsz kelyheket a főteremben.",
+            "ro": "Explorați acest bogat muzeu diecezan care prezintă artă sacră rafinată și istorie locală, asigurându-vă că admirați uimitoarele potire renascentiste din sala principală.",
+            "en": "Explore this rich diocesan museum showcasing exquisite sacred art and local history, making sure to notice the stunning Renaissance chalices on display in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba de Guadix",
+            "hu": "Alcazaba de Guadix",
+            "ro": "Alcazaba de Guadix",
+            "en": "Alcazaba de Guadix"
+          },
+          "coords": [
+            -3.137314,
+            37.29863
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die alten Mauern dieser maurischen Festung für ein atemberaubendes Panorama der Sierra Nevada, aber tragen Sie unbedingt festes Schuhwerk für die unebenen Wege.",
+            "hu": "Mássza meg e mór erődítmény ősi falait a Sierra Nevada lélegzetelállító panorámájáért, de feltétlenül viseljen masszív cipőt az egyenetlen, sziklás ösvények miatt.",
+            "ro": "Urcați pe zidurile antice ale acestei fortărețe maure pentru o panoramă uluitoare a Sierra Nevada, dar asigurați-vă că purtați încălțăminte robustă pentru căile stâncoase.",
+            "en": "Climb the ancient walls of this Moorish fortress for a breathtaking panorama of the Sierra Nevada, but be sure to wear sturdy shoes for the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Cerro de la Bala",
+            "hu": "Mirador del Cerro de la Bala",
+            "ro": "Mirador del Cerro de la Bala",
+            "en": "Mirador del Cerro de la Bala"
+          },
+          "coords": [
+            -3.137773,
+            37.292784
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Aussichtspunkt über die weite Landschaft mit weiß getünchten Häusern und zerklüfteten Bergen, und stellen Sie sicher, dass Ihr Kamera-Akku voll ist.",
+            "hu": "Tekintsen le a fehérre meszelt házak és a csipkézett hegyek elterülő tájára erről a kilátóról, ügyelve arra, hogy a fényképezőgép akkumulátora teljesen fel legyen töltve.",
+            "ro": "Priviți peisajul întins cu case văruite și munți stâncoși din acest punct de belvedere, asigurându-vă că bateria aparatului foto este complet încărcată pentru poze.",
+            "en": "Look out over the sprawling landscape of whitewashed houses and jagged mountains from this viewpoint, making sure your camera battery is fully charged for the shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+          },
+          "coords": [
+            -3.142305,
+            37.294839
+          ],
+          "category": "museum",
+          "arrive_at": "14:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Betreten Sie diese faszinierenden Höhlenwohnungen, um den troglodytischen Lebensstil der Region zu verstehen, und bringen Sie eine leichte Jacke mit, da es drinnen kühl bleibt.",
+            "hu": "Lépjen be ezekbe a lenyűgöző barlanglakásokba, hogy megértse a régió életmódját, és hozzon magával egy könnyű kabátot, mivel bent nyáron is hűvös van.",
+            "ro": "Pășiți în aceste fascinante locuințe rupestre pentru a înțelege stilul de viață troglodit al regiunii și aduceți o jachetă ușoară, deoarece înăuntru rămâne răcoare mereu.",
+            "en": "Step inside these fascinating cave dwellings to understand the troglodyte lifestyle of the region, and bring a light jacket as it stays cool inside even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Paulenca",
+            "hu": "Torre de Paulenca",
+            "ro": "Torre de Paulenca",
+            "en": "Torre de Paulenca"
+          },
+          "coords": [
+            -3.157601,
+            37.297809
+          ],
+          "category": "tower",
+          "arrive_at": "16:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Reisen Sie zu diesem alten Wehrturm, der die fruchtbaren Ebenen der Region bewachte, aber seien Sie sich bewusst, dass die umliegenden Wege nach Regen schlammig sein können.",
+            "hu": "Látogasson el ehhez az ősi védőtoronyhoz, amely a régió termékeny síkságait őrizte, de vegye figyelembe, hogy a környező ösvények egy heves esőzés után sárosak lehetnek.",
+            "ro": "Călătoriți la acest vechi turn de apărare care păzea câmpiile fertile ale regiunii, dar fiți conștienți că potecile din jur pot fi noroioase după ploi abundente.",
+            "en": "Journey to this ancient defensive tower that guarded the fertile plains of the region, but be aware that the surrounding paths can be muddy after a heavy rainfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Kirche San Miguel, bevor Sie durch die römischen Ausgrabungen schlendern. Die Mittagszeit ist ideal, um das Museum zu erkunden und zur maurischen Alcazaba aufzusteigen. Verbringen Sie den Nachmittag damit, zum Höhlenmuseum zu radeln. Beenden Sie Ihre Fahrt mit einer abenteuerlichen Reise hinaus zum alten Paulenca-Turm in der Abenddämmerung.",
+        "hu": "Kezdje kerékpártúráját a történelmi San Miguel templomnál, majd sétáljon át a római régészeti ásatásokon. A délidő tökéletes a Múzeum felfedezésére és a mór Alcazaba megmászására. Délután kerekezzen a lenyűgöző barlangmúzeumhoz, hogy megismerje a helyi hagyományokat. Fejezze be túráját egy kalandos utazással az ősi Paulenca toronyhoz, ahonnan remek a kilátás.",
+        "ro": "Începeți turul cu bicicleta la biserica istorică San Miguel înainte de a rătăci prin excavațiile arheologice romane. Amiaza este perfectă pentru a explora muzeul Catedralei și a urca la Alcazaba. Petreceți-vă după-amiaza mergând spre fascinantul muzeu al peșterilor pentru a învăța despre tradițiile locale. Încheiați plimbarea cu o călătorie spre turnul antic Paulenca.",
+        "en": "Kick off your cycling tour at the historic San Miguel church before wandering through the nearby Roman archaeological excavations. Midday is perfect for exploring the Cathedral museum and tackling the climb to the Moorish Alcazaba. Spend your afternoon cruising to the fascinating cave museum to learn about local traditions. Wrap up your ride with an adventurous journey out to the ancient Paulenca tower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 3.87,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Magdalena",
+            "hu": "Mirador Magdalena",
+            "ro": "Mirador Magdalena",
+            "en": "Mirador Magdalena"
+          },
+          "coords": [
+            -3.140632,
+            37.301125
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Panoramablick auf die einzigartige Skyline der Stadt von diesem erhöhten Punkt, und nutzen Sie die Plakette, um die Wahrzeichen zu identifizieren.",
+            "hu": "Kezdje a napot a város egyedülálló látképének panorámájával erről a magaslati pontról, és használja a közeli térképtáblát a főbb nevezetességek azonosításához.",
+            "ro": "Începeți-vă ziua cu vederi panoramice ale liniei orizontului unic al orașului din acest loc înalt și utilizați placa hărții din apropiere pentru a identifica reperele.",
+            "en": "Start your day with sweeping panoramic views of the city's unique skyline from this elevated spot, and use the nearby map plaque to identify the major landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Mira de Amescua",
+            "hu": "Teatro Mira de Amescua",
+            "ro": "Teatro Mira de Amescua",
+            "en": "Teatro Mira de Amescua"
+          },
+          "coords": [
+            -3.134989,
+            37.30043
+          ],
+          "category": "cultural",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schätzen Sie die elegante Fassade dieses klassischen Theaters, das nach einem lokalen Dramatiker benannt ist, und werfen Sie einen Blick in die Lobby, falls sie offen ist.",
+            "hu": "Értékelje e klasszikus, híres helyi drámaíróról elnevezett színház elegáns homlokzatát, és pillantson be az előcsarnokba, ha az ajtók nyitva vannak a próbák alatt.",
+            "ro": "Apreciați fațada elegantă a acestui teatru clasic numit după un faimos dramaturg local și aruncați o privire în hol dacă ușile sunt deschise dimineața.",
+            "en": "Appreciate the elegant façade of this classic theater named after a famous local dramatist, and peek inside the lobby if the doors are open during morning rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Catedralicio Donum Fidei",
+            "hu": "Museo Catedralicio Donum Fidei",
+            "ro": "Museo Catedralicio Donum Fidei",
+            "en": "Museo Catedralicio Donum Fidei"
+          },
+          "coords": [
+            -3.136036,
+            37.301286
+          ],
+          "category": "museum",
+          "arrive_at": "10:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses reiche Diözesanmuseum, das exquisite sakrale Kunst zeigt, und achten Sie besonders auf die beeindruckenden Renaissance-Kelche in der Haupthalle.",
+            "hu": "Fedezze fel ezt a lenyűgöző egyházmegyei múzeumot, amely szakrális művészetet mutat be, és mindenképpen vegye szemügyre a reneszánsz kelyheket a főteremben.",
+            "ro": "Explorați acest bogat muzeu diecezan care prezintă artă sacră rafinată și istorie locală, asigurându-vă că admirați uimitoarele potire renascentiste din sala principală.",
+            "en": "Explore this rich diocesan museum showcasing exquisite sacred art and local history, making sure to notice the stunning Renaissance chalices on display in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de la Concepción",
+            "hu": "Convento de la Concepción",
+            "ro": "Convento de la Concepción",
+            "en": "Convento de la Concepción"
+          },
+          "coords": [
+            -3.136917,
+            37.300064
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie den friedlichen Kreuzgang dieses historischen Klosters, das eine wichtige Rolle im religiösen Leben spielte, und respektieren Sie die Stille bei Ihrem Besuch.",
+            "hu": "Csodálja meg e történelmi kolostor békés kerengőjét, amely fontos szerepet játszott a helyi vallási életben, és ne felejtse el tiszteletben tartani a csendet.",
+            "ro": "Admirați mănăstirea pașnică a acestui complex istoric, care a jucat un rol crucial în viața religioasă, și amintiți-vă să păstrați liniștea în timpul vizitei.",
+            "en": "Admire the peaceful cloister of this historical convent, which played a crucial role in local religious life, and remember to respect the silence while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+            "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+          },
+          "coords": [
+            -3.142305,
+            37.294839
+          ],
+          "category": "museum",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese faszinierenden Höhlenwohnungen, um den troglodytischen Lebensstil der Region zu verstehen, und bringen Sie eine leichte Jacke mit, da es drinnen kühl bleibt.",
+            "hu": "Lépjen be ezekbe a lenyűgöző barlanglakásokba, hogy megértse a régió életmódját, és hozzon magával egy könnyű kabátot, mivel bent nyáron is hűvös van.",
+            "ro": "Pășiți în aceste fascinante locuințe rupestre pentru a înțelege stilul de viață troglodit al regiunii și aduceți o jachetă ușoară, deoarece înăuntru rămâne răcoare mereu.",
+            "en": "Step inside these fascinating cave dwellings to understand the troglodyte lifestyle of the region, and bring a light jacket as it stays cool inside even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Padre Poveda",
+            "hu": "Mirador Padre Poveda",
+            "ro": "Mirador Padre Poveda",
+            "en": "Mirador Padre Poveda"
+          },
+          "coords": [
+            -3.141279,
+            37.294514
+          ],
+          "category": "natural",
+          "arrive_at": "14:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Blick auf das einzigartige Höhlenviertel und die markanten Schornsteine, und kommen Sie kurz vor Sonnenuntergang für das beste Licht.",
+            "hu": "Élvezze a látványos kilátást az egyedülálló barlangnegyedre és a feltűnő kéményekre, és érkezzen közvetlenül naplemente előtt a fotózáshoz legalkalmasabb fényviszonyokért.",
+            "ro": "Bucurați-vă de o vedere spectaculoasă asupra cartierului unic de peșteri și a coșurilor de fum uimitoare, ajungând chiar înainte de apus pentru cea mai bună lumină.",
+            "en": "Enjoy a spectacular view over the unique cave neighborhood and the striking chimney tops, arriving just before sunset for the best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandera competición en pared",
+            "hu": "Bandera competición en pared",
+            "ro": "Bandera competición en pared",
+            "en": "Bandera competición en pared"
+          },
+          "coords": [
+            -3.151987,
+            37.311381
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schauen Sie sich dieses ungewöhnliche Wahrzeichen an, das die lokale Rennkultur der Gegend widerspiegelt, und machen Sie einen schnellen, aber markanten Fotostopp.",
+            "hu": "Nézze meg ezt a szokatlan nevezetességet, amely a terület helyi versenycultúráját tükrözi, ami egy gyors, de rendkívül jellegzetes fotómegállót kínál a város szélén.",
+            "ro": "Vedeți acest punct de reper neobișnuit care reflectă cultura locală a curselor, constituind o oprire foto rapidă, dar extrem de distinctivă la marginea orașului.",
+            "en": "Check out this unusual landmark that reflects the local racing culture of the area, making for a quick but highly distinctive photo stop on the outskirts of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Magdalena-Aussichtspunkt für einen morgendlichen Überblick, bevor Sie beim Theater parken. Schlendern Sie mittags am Concepción-Kloster vorbei und fahren Sie dann nach Süden zu den Höhlenvierteln. Der Nachmittag ist der Erkundung der Höhlenwohnungen und dem Genuss der Poveda-Aussicht gewidmet. Beenden Sie den Roadtrip an dem skurrilen Rennsport-Wahrzeichen.",
+        "hu": "Kezdje festői autózását a Magdalena kilátónál egy reggeli áttekintésért, mielőtt az elegáns színház és a múzeum közelében parkolna. Ebédidőben sétáljon el a hangulatos Concepción kolostor mellett, majd vezessen délre. A délután a barlanglakások felfedezésének és a Poveda kilátás élvezetének van szentelve. Fejezze be útját a mókás versenysport emlékműnél a város szélén.",
+        "ro": "Începeți traseul pitoresc la belvederea Magdalena pentru o vedere matinală înainte de a parca lângă teatrul elegant. La prânz, plimbați-vă pe lângă fermecătoarea Mănăstire Concepción înainte de a conduce spre sud spre cartierele de peșteri. După-amiaza este dedicată explorării locuințelor troglodite și savurării priveliștilor Poveda. Încheiați-vă călătoria la reperul curselor.",
+        "en": "Begin your scenic drive at Magdalena viewpoint for a sweeping morning overview before parking near the elegant theater and Cathedral museum. For lunch, stroll past the charming Conception Convent before driving south to the unique cave neighborhoods. The afternoon is dedicated to exploring the troglodyte dwellings and enjoying the Poveda vistas. End your road trip at the quirky racing landmark."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "mexico-mazunte-cities-v2",
+  "anchor": {
+    "name": "Mazunte",
+    "coords": [
+      -96.553444,
+      15.667833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Mexicano de la Tortuga",
+            "hu": "Centro Mexicano de la Tortuga",
+            "ro": "Centro Mexicano de la Tortuga",
+            "en": "Centro Mexicano de la Tortuga"
+          },
+          "coords": [
+            -96.551772,
+            15.666522
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Meeresschildkröten-Schutzgebiet, das sich der Erhaltung widmet, und kommen Sie früh, um die interaktiven Fütterungen zu erleben.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengeriteknős-menedékhelyet, amely a megőrzésre összpontosít, és érkezzen korán, hogy részt vehessen az interaktív etetéseken.",
+            "ro": "Explorați acest fascinant sanctuar de broaște țestoase marine dedicat conservării și ajungeți devreme pentru a prinde sesiunile interactive de hrănire.",
+            "en": "Explore the fascinating sea turtle sanctuary dedicated to conservation efforts across Mexico, and arrive early to catch the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Rinconcito",
+            "hu": "Playa Rinconcito",
+            "ro": "Playa Rinconcito",
+            "en": "Playa Rinconcito"
+          },
+          "coords": [
+            -96.553658,
+            15.664322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieser geschützten Bucht mit sanften Wellen, aber bringen Sie unbedingt eigenen Sonnenschutz mit, da Schirme selten sind.",
+            "hu": "Pihenjen e hangulatos és védett öböl aranyhomokján, ahol a hullámok szelídek, de mindenképpen hozzon saját napernyőt, mivel az árnyékos hely ritkaság.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui golf adăpostit cu valuri blânde, dar asigurați-vă că aduceți propria umbrelă de soare deoarece umbra este rară.",
+            "en": "Relax on the golden sands of this charming and sheltered cove where the waves are perfectly gentle, but be sure to bring your own shade as umbrellas are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Whales tour",
+            "hu": "Bálnales",
+            "ro": "Turul balenelor",
+            "en": "Whales tour"
+          },
+          "coords": [
+            -96.547402,
+            15.664609
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie ein unvergessliches Ozeanabenteuer, um majestätische Wale vor der Küste zu beobachten, und packen Sie unbedingt ein Fernglas für die besten Ausblicke ein.",
+            "hu": "Vegyen részt egy felejthetetlen óceáni kalandon a fenséges bálnák megfigyelésére, és ne felejtsen el távcsövet hozni a legjobb panorámás kilátás érdekében.",
+            "ro": "Porniți într-o aventură oceanică de neuitat pentru a observa balene maiestuoase și nu uitați să împachetați binoclul pentru cele mai bune vederi panoramice.",
+            "en": "Embark on an unforgettable ocean adventure to spot majestic migrating whales off the Oaxacan coast, and remember to pack binoculars for the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mermejita Circus",
+            "hu": "Mermejita Cirkusz",
+            "ro": "Mermejita Circus",
+            "en": "Mermejita Circus"
+          },
+          "coords": [
+            -96.55994,
+            15.663212
+          ],
+          "category": "cultural",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebhafte Kulturzentrum mit lokaler Akrobatik und Zirkuskunst, und sichern Sie sich frühzeitig einen Platz in der ersten Reihe für das beste Erlebnis.",
+            "hu": "Fedezze fel ezt a nyüzsgő kulturális központot, ahol helyi művészek mutatnak be akrobatikát, és foglaljon helyet az első sorban a legjobb élmény érdekében.",
+            "ro": "Descoperiți acest centru cultural vibrant unde artiștii locali prezintă acrobații și arte de circ, și ocupați un loc în primul rând pentru cea mai bună experiență.",
+            "en": "Discover this vibrant cultural hub where local artists showcase incredible acrobatics and circus arts, and grab a front-row seat early for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Mermejita",
+            "hu": "Playa Mermejita",
+            "ro": "Playa Mermejita",
+            "en": "Playa Mermejita"
+          },
+          "coords": [
+            -96.564872,
+            15.663437
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen schwarzen Vulkansand und die mächtigen Wellen dieser wilden Küste, aber bleiben Sie am Ufer, da das Schwimmen hier unsicher ist.",
+            "hu": "Csodálja meg e vad partvonal drámai fekete vulkáni homokját és hatalmas hullámait, de maradjon a parton sétálva, mivel az úszás itt kifejezetten veszélyes.",
+            "ro": "Admirați nisipul vulcanic negru dramatic și valurile puternice ale acestei coaste sălbatice, dar rămâneți la plimbări pe plajă deoarece înotul este periculos.",
+            "en": "Marvel at the dramatic black volcanic sands and powerful crashing waves of this untamed shoreline, but stick to walking along the beach since swimming is unsafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador",
+            "hu": "Mirador",
+            "ro": "Mirador",
+            "en": "Mirador"
+          },
+          "coords": [
+            -96.55702,
+            15.65833
+          ],
+          "category": "natural",
+          "arrive_at": "16:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zum südlichsten Punkt des Bundesstaates für einen atemberaubenden Sonnenuntergang, und tragen Sie feste Schuhe für die unebenen, felsigen Pfade.",
+            "hu": "Túrázzon fel az állam legdélebbi pontjára egy lélegzetelállító naplemente megtekintéséhez, és viseljen masszív cipőt a sziklás, egyenetlen ösvények miatt.",
+            "ro": "Urcați până în cel mai sudic punct al statului pentru un apus de soare uluitor, și purtați încălțăminte robustă pentru traseele stâncoase și denivelate.",
+            "en": "Hike up to the southernmost point of the state to witness a truly breathtaking sunset over the Pacific, and wear sturdy shoes for the rocky and uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pescador",
+            "hu": "El Pescador",
+            "ro": "El Pescador",
+            "en": "El Pescador"
+          },
+          "coords": [
+            -96.557158,
+            15.659253
+          ],
+          "category": "recreational",
+          "arrive_at": "16:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ikonischen Ort mit authentischem Küstenflair, und bestellen Sie den frischen Fang des Tages, während Sie den Sonnenuntergang genießen.",
+            "hu": "Pihenjen ezen az ikonikus helyi ponton, amely tengerparti hangulatáról ismert, és rendelje meg a nap fogását, miközben élvezi a lenyűgöző naplemente látványát.",
+            "ro": "Relaxați-vă în acest loc iconic cunoscut pentru atmosfera sa de coastă, și comandați captura zilei în timp ce vă bucurați de priveliștile uimitoare la apus.",
+            "en": "Unwind at this iconic local spot known for its authentic coastal vibe and fresh ocean breezes, and order the catch of the day while enjoying the sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit faszinierendem Meeresleben im Schildkrötenzentrum. Mittags tanken Sie Sonne an einer sanften Bucht, bevor Sie zu einem atemberaubenden Walbeobachtungs-Abenteuer aufbrechen. Am Nachmittag genießen Sie Zirkuskunst und erkunden die dunklen Strände der wilden Küste. Beenden Sie den Tag mit einem spektakulären Sonnenuntergang und frischen Meeresfrüchten.",
+        "hu": "Kezdje a reggelt a tengeri élővilág megismerésével a teknősközpontban. Délben élvezze a napsütést a csendes öbölben, mielőtt egy izgalmas bálnalesre indulna. Délután csodálja meg a cirkuszi művészeteket és fedezze fel a vad partvonal drámai vulkáni homokját. Zárja a napot a Punta Cometa lenyűgöző naplementéjével és egy tengeri vacsorával a vízparton.",
+        "ro": "Începeți dimineața învățând despre viața marină la centrul de broaște țestoase. La prânz, bucurați-vă de soare într-un golf blând înainte de o aventură uluitoare de observare a balenelor. După-amiaza, savurați arta circului și explorați nisipurile vulcanice dramatice ale coastei. Încheiați ziua cu un apus spectaculos la Punta Cometa și fructe de mare proaspete.",
+        "en": "Start your morning learning about incredible marine life and conservation at the local turtle center. By midday, soak up the sun at a gentle local cove before heading out on a breathtaking whale-watching adventure. In the afternoon, enjoy vibrant circus arts and explore the dramatic volcanic sands of the coastline. End the day with a spectacular sunset at Punta Cometa and fresh seafood."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Mexicano de la Tortuga",
+            "hu": "Centro Mexicano de la Tortuga",
+            "ro": "Centro Mexicano de la Tortuga",
+            "en": "Centro Mexicano de la Tortuga"
+          },
+          "coords": [
+            -96.551772,
+            15.666522
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Meeresschildkröten-Schutzgebiet, das sich der Erhaltung widmet, und kommen Sie früh, um die interaktiven Fütterungen zu erleben.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengeriteknős-menedékhelyet, amely a megőrzésre összpontosít, és érkezzen korán, hogy részt vehessen az interaktív etetéseken.",
+            "ro": "Explorați acest fascinant sanctuar de broaște țestoase marine dedicat conservării și ajungeți devreme pentru a prinde sesiunile interactive de hrănire.",
+            "en": "Explore the fascinating sea turtle sanctuary dedicated to conservation efforts across Mexico, and arrive early to catch the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Rinconcito",
+            "hu": "Playa Rinconcito",
+            "ro": "Playa Rinconcito",
+            "en": "Playa Rinconcito"
+          },
+          "coords": [
+            -96.553658,
+            15.664322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieser geschützten Bucht mit sanften Wellen, aber bringen Sie unbedingt eigenen Sonnenschutz mit, da Schirme selten sind.",
+            "hu": "Pihenjen e hangulatos és védett öböl aranyhomokján, ahol a hullámok szelídek, de mindenképpen hozzon saját napernyőt, mivel az árnyékos hely ritkaság.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui golf adăpostit cu valuri blânde, dar asigurați-vă că aduceți propria umbrelă de soare deoarece umbra este rară.",
+            "en": "Relax on the golden sands of this charming and sheltered cove where the waves are perfectly gentle, but be sure to bring your own shade as umbrellas are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Aragón",
+            "hu": "Aragón",
+            "ro": "Aragón",
+            "en": "Aragón"
+          },
+          "coords": [
+            -96.534179,
+            15.663178
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses ruhigen, malerischen Küstenabschnitts abseits der Massen, und denken Sie daran, ausreichend Wasser für den sonnigen Weg einzupacken.",
+            "hu": "Sétáljon végig ezen a csendes és festői partszakaszon, távol a turisták tömegétől, és ne felejtsen el bőséges ivóvizet csomagolni a napos, meleg sétához, hogy felfrissüljön.",
+            "ro": "Plimbați-vă de-a lungul acestei fâșii de coastă pitorești, departe de mulțimile de turiști, și nu uitați să luați multă apă pentru plimbarea însorită.",
+            "en": "Stroll along this quiet and picturesque coastal stretch perfect for escaping the main tourist crowds, and remember to pack plenty of water for your sunny walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Las Cuevitas",
+            "hu": "Playa Las Cuevitas",
+            "ro": "Playa Las Cuevitas",
+            "en": "Playa Las Cuevitas"
+          },
+          "coords": [
+            -96.529503,
+            15.66167
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie versteckte Felsnischen und kristallklare Gezeitentümpel an diesem Strand, und planen Sie Ihren Besuch bei Ebbe, um die Höhlen sicher zu erkunden.",
+            "hu": "Fedezze fel a rejtett sziklaüregeket és árapály-medencéket ezen az eldugott strandon, és időzítse látogatását apályra a kis barlangok biztonságos felfedezéséhez.",
+            "ro": "Descoperiți nișe stâncoase ascunse și bazine de maree cristaline la această plajă izolată, și programați-vă vizita la reflux pentru a explora peșterile în siguranță.",
+            "en": "Discover hidden rocky alcoves and crystal-clear tide pools at this secluded pocket beach, and time your visit for low tide to safely explore the small caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Mermejita",
+            "hu": "Playa Mermejita",
+            "ro": "Playa Mermejita",
+            "en": "Playa Mermejita"
+          },
+          "coords": [
+            -96.564872,
+            15.663437
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen schwarzen Vulkansand und die mächtigen Wellen dieser wilden Küste, aber bleiben Sie am Ufer, da das Schwimmen hier unsicher ist.",
+            "hu": "Csodálja meg e vad partvonal drámai fekete vulkáni homokját és hatalmas hullámait, de maradjon a parton sétálva, mivel az úszás itt kifejezetten veszélyes.",
+            "ro": "Admirați nisipul vulcanic negru dramatic și valurile puternice ale acestei coaste sălbatice, dar rămâneți la plimbări pe plajă deoarece înotul este periculos.",
+            "en": "Marvel at the dramatic black volcanic sands and powerful crashing waves of this untamed shoreline, but stick to walking along the beach since swimming is unsafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador",
+            "hu": "Mirador",
+            "ro": "Mirador",
+            "en": "Mirador"
+          },
+          "coords": [
+            -96.55702,
+            15.65833
+          ],
+          "category": "natural",
+          "arrive_at": "16:33",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zum südlichsten Punkt des Bundesstaates für einen atemberaubenden Sonnenuntergang, und tragen Sie feste Schuhe für die unebenen, felsigen Pfade.",
+            "hu": "Túrázzon fel az állam legdélebbi pontjára egy lélegzetelállító naplemente megtekintéséhez, és viseljen masszív cipőt a sziklás, egyenetlen ösvények miatt.",
+            "ro": "Urcați până în cel mai sudic punct al statului pentru un apus de soare uluitor, și purtați încălțăminte robustă pentru traseele stâncoase și denivelate.",
+            "en": "Hike up to the southernmost point of the state to witness a truly breathtaking sunset over the Pacific, and wear sturdy shoes for the rocky and uneven trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt am renommierten Schildkröten-Schutzgebiet. Radeln Sie mittags entlang der malerischen Küste, um ruhige Buchten fernab der Massen zu entdecken. Am Nachmittag fahren Sie an schroffen Ufern mit dramatischen Wellen und dunklem Sand vorbei. Beenden Sie Ihren aktiven Tag, indem Sie Ihr Fahrrad parken und zum berühmtesten Aussichtspunkt der Region für den Sonnenuntergang wandern.",
+        "hu": "Kerékpártúrája a teknősmenedékhelynél kezdődik, amely ideális a reggeli látogatásra. Délben tekerjen a festői parton, hogy felfedezzen csendes, eldugott öblöket. Délután kerékpározzon el a drámai hullámokkal és sötét homokkal jellemezhető sziklás partok mellett. Zárja az aktív napot a kerékpár leparkolásával és egy túrával a régió leghíresebb panorámás naplemente pontjához.",
+        "ro": "Plimbarea începe la renumitul sanctuar de țestoase, perfect dimineața. Pedalați de-a lungul coastei la prânz pentru a descoperi golfuri liniștite și ascunse. După-amiaza, mergeți cu bicicleta pe lângă țărmuri accidentate cu valuri dramatice și nisip întunecat. Încheiați ziua parcând bicicleta și urcând la cel mai faimos punct panoramic pentru a admira apusul spectaculos.",
+        "en": "Your ride begins at the renowned turtle sanctuary, perfect for an early morning visit. Pedal along the scenic coast by midday to discover tranquil bays and hidden coves away from the crowds. In the afternoon, cycle past rugged shorelines characterized by dramatic waves and dark sands. Conclude your active day by parking your bike and hiking to the region's most famous panoramic sunset spot."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Los Mangos",
+            "hu": "Los Mangos",
+            "ro": "Los Mangos",
+            "en": "Los Mangos"
+          },
+          "coords": [
+            -96.520095,
+            15.665351
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das üppige tropische Grün und die entspannte Atmosphäre dieses ökologischen Gebiets, und tragen Sie Mückenschutz auf, um Insekten abzuwehren.",
+            "hu": "Merüljön el ennek a gyönyörű ökológiai területnek a buja trópusi növényzetében és nyugodt légkörében, és használjon rovarriasztót a szúnyogok távol tartása érdekében.",
+            "ro": "Scufundați-vă în verdeața tropicală luxuriantă și atmosfera relaxată a acestei zone ecologice, și purtați repelent pentru insecte pentru a ține țânțarii la distanță.",
+            "en": "Immerse yourself in the lush tropical greenery and relaxed atmosphere of this beautiful ecological area, and wear insect repellent to keep the mosquitoes at bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Conchita",
+            "hu": "Playa La Conchita",
+            "ro": "Playa La Conchita",
+            "en": "Playa La Conchita"
+          },
+          "coords": [
+            -96.53042,
+            15.661941
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur dieser ruhigen, weniger bekannten Bucht, die sich ideal für Spaziergänge eignet, und bringen Sie eine Tasche für Muscheln mit.",
+            "hu": "Élvezze ennek a kevésbé ismert, csendes öbölnek az érintetlen természeti szépségét, amely ideális a sétákhoz, és hozzon magával egy zacskót a kagylók gyűjtéséhez.",
+            "ro": "Bucurați-vă de frumusețea naturală curată a acestui golf liniștit, ideal pentru plimbări meditative, și aduceți o pungă mică pentru a colecta scoici netede.",
+            "en": "Enjoy the pristine natural beauty of this lesser-known tranquil bay that is ideal for meditative walks, and bring a small bag to collect smooth seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Aragón",
+            "hu": "Aragón",
+            "ro": "Aragón",
+            "en": "Aragón"
+          },
+          "coords": [
+            -96.534179,
+            15.663178
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses ruhigen, malerischen Küstenabschnitts abseits der Massen, und denken Sie daran, ausreichend Wasser für den sonnigen Weg einzupacken.",
+            "hu": "Sétáljon végig ezen a csendes és festői partszakaszon, távol a turisták tömegétől, és ne felejtsen el bőséges ivóvizet csomagolni a napos, meleg sétához, hogy felfrissüljön.",
+            "ro": "Plimbați-vă de-a lungul acestei fâșii de coastă pitorești, departe de mulțimile de turiști, și nu uitați să luați multă apă pentru plimbarea însorită.",
+            "en": "Stroll along this quiet and picturesque coastal stretch perfect for escaping the main tourist crowds, and remember to pack plenty of water for your sunny walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Mexicano de la Tortuga",
+            "hu": "Centro Mexicano de la Tortuga",
+            "ro": "Centro Mexicano de la Tortuga",
+            "en": "Centro Mexicano de la Tortuga"
+          },
+          "coords": [
+            -96.551772,
+            15.666522
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende Meeresschildkröten-Schutzgebiet, das sich der Erhaltung widmet, und kommen Sie früh, um die interaktiven Fütterungen zu erleben.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengeriteknős-menedékhelyet, amely a megőrzésre összpontosít, és érkezzen korán, hogy részt vehessen az interaktív etetéseken.",
+            "ro": "Explorați acest fascinant sanctuar de broaște țestoase marine dedicat conservării și ajungeți devreme pentru a prinde sesiunile interactive de hrănire.",
+            "en": "Explore the fascinating sea turtle sanctuary dedicated to conservation efforts across Mexico, and arrive early to catch the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Whales tour",
+            "hu": "Bálnales",
+            "ro": "Turul balenelor",
+            "en": "Whales tour"
+          },
+          "coords": [
+            -96.547402,
+            15.664609
+          ],
+          "category": "landmark",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie ein unvergessliches Ozeanabenteuer, um majestätische Wale vor der Küste zu beobachten, und packen Sie unbedingt ein Fernglas für die besten Ausblicke ein.",
+            "hu": "Vegyen részt egy felejthetetlen óceáni kalandon a fenséges bálnák megfigyelésére, és ne felejtsen el távcsövet hozni a legjobb panorámás kilátás érdekében.",
+            "ro": "Porniți într-o aventură oceanică de neuitat pentru a observa balene maiestuoase și nu uitați să împachetați binoclul pentru cele mai bune vederi panoramice.",
+            "en": "Embark on an unforgettable ocean adventure to spot majestic migrating whales off the Oaxacan coast, and remember to pack binoculars for the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador",
+            "hu": "Mirador",
+            "ro": "Mirador",
+            "en": "Mirador"
+          },
+          "coords": [
+            -96.55702,
+            15.65833
+          ],
+          "category": "natural",
+          "arrive_at": "16:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zum südlichsten Punkt des Bundesstaates für einen atemberaubenden Sonnenuntergang, und tragen Sie feste Schuhe für die unebenen, felsigen Pfade.",
+            "hu": "Túrázzon fel az állam legdélebbi pontjára egy lélegzetelállító naplemente megtekintéséhez, és viseljen masszív cipőt a sziklás, egyenetlen ösvények miatt.",
+            "ro": "Urcați până în cel mai sudic punct al statului pentru un apus de soare uluitor, și purtați încălțăminte robustă pentru traseele stâncoase și denivelate.",
+            "en": "Hike up to the southernmost point of the state to witness a truly breathtaking sunset over the Pacific, and wear sturdy shoes for the rocky and uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Mermejita Circus",
+            "hu": "Mermejita Cirkusz",
+            "ro": "Mermejita Circus",
+            "en": "Mermejita Circus"
+          },
+          "coords": [
+            -96.55994,
+            15.663212
+          ],
+          "category": "cultural",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebhafte Kulturzentrum mit lokaler Akrobatik und Zirkuskunst, und sichern Sie sich frühzeitig einen Platz in der ersten Reihe für das beste Erlebnis.",
+            "hu": "Fedezze fel ezt a nyüzsgő kulturális központot, ahol helyi művészek mutatnak be akrobatikát, és foglaljon helyet az első sorban a legjobb élmény érdekében.",
+            "ro": "Descoperiți acest centru cultural vibrant unde artiștii locali prezintă acrobații și arte de circ, și ocupați un loc în primul rând pentru cea mai bună experiență.",
+            "en": "Discover this vibrant cultural hub where local artists showcase incredible acrobatics and circus arts, and grab a front-row seat early for the best experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh in die üppigen ökologischen Zonen und genießen Sie die Morgenbrise. Mittags cruisen Sie die Küste hinab, um friedliche, unbekanntere Ufer und das Schildkrötenzentrum zu besuchen. Der Nachmittag bietet eine aufregende Bootstour und beeindruckende Aussichtspunkte. Der Abend klingt entspannt mit lokalen Zirkusvorstellungen und einem Abendessen unter dem ozeanischen Sternenhimmel aus.",
+        "hu": "Vezessen kora reggel a buja ökológiai övezetek felé, és élvezze a frissítő szellőt. Délben hajtson végig a parton, látogasson el csendesebb strandokra és az oktató teknősközpontba. A délután egy izgalmas hajótúrával és lenyűgöző tengerparti kilátópontokkal folytatódik. Az este csodálatosan zárul helyi cirkuszi előadásokkal és egy ízletes vacsorával a csillagos oaxacai égbolt alatt.",
+        "ro": "Conduceți devreme spre zonele ecologice luxuriante pentru a savura briza dimineții. La prânz, coborâți pe coastă pentru a vizita țărmuri liniștite și centrul de țestoase. După-amiaza aduce un tur interesant cu barca și puncte de belvedere de coastă impresionante. Seara se încheie frumos cu spectacole locale de circ și o cină relaxantă sub impresionantul cer înstelat din Oaxaca.",
+        "en": "Drive out early to lush ecological zones and enjoy the refreshing morning breeze. By midday, cruise down the coast to visit peaceful, lesser-known shores and explore the educational turtle center. Your afternoon shifts to an exciting boat tour followed by awe-inspiring coastal viewpoints. The evening winds down beautifully with local circus performances and dinner under the starry Oaxacan sky."
+      }
+    }
+  }
+}

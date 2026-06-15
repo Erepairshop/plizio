@@ -1,0 +1,497 @@
+{
+  "city_id": "leguevin",
+  "anchor": {
+    "name": "Léguevin",
+    "coords": [
+      1.2331,
+      43.5989
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de jeux du Boulodrome",
+            "hu": "Aire de jeux du Boulodrome",
+            "ro": "Aire de jeux du Boulodrome",
+            "en": "Aire de jeux du Boulodrome"
+          },
+          "coords": [
+            1.231885,
+            43.601328
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen auf diesem schönen lokalen Spielplatz, wo Sie entspannte Boule-Spiele beobachten können, indem Sie einen Kaffee mitbringen.",
+            "hu": "Kezdje a reggelt ezen a kedves helyi játszótéren, ahol alkalmi pétanque-játékokat nézhet, ezért vegyen egy kávét a közelben, és élvezze a falu nyugodt hangulatát.",
+            "ro": "Începeți dimineața la acest loc de joacă local minunat unde puteți urmări partide amicale de petanque, așa că luați o cafea și bucurați-vă de atmosfera relaxată.",
+            "en": "Start your morning at this lovely local playground where you can watch casual boules games, so grab a coffee nearby and enjoy the laid-back village atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Mouline",
+            "hu": "Lac de la Mouline",
+            "ro": "Lac de la Mouline",
+            "en": "Lac de la Mouline"
+          },
+          "coords": [
+            1.239577,
+            43.601985
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser ruhige lokale See bietet eine fantastische Flucht mit seiner lebhaften Vogelwelt und schattigen Ufern; bringen Sie eine Decke für eine morgendliche Pause mit.",
+            "hu": "Ez a nyugodt helyi tó fantasztikus menedéket kínál élénk madárvilágával és árnyékos partjaival, ezért hozzon magával egy takarót a békés délelőtti pihenéshez.",
+            "ro": "Acest lac local liniștit oferă o evadare fantastică cu păsările sale vibrante și malurile umbrite, așa că aduceți o pătură pentru o odihnă matinală foarte plăcută.",
+            "en": "This serene local lake offers a fantastic escape with its vibrant birdlife and shaded banks, making it perfect to bring a small blanket for a tranquil morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Petitis",
+            "hu": "Lac des Petitis",
+            "ro": "Lac des Petitis",
+            "en": "Lac des Petitis"
+          },
+          "coords": [
+            1.234464,
+            43.595192
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen Gewässer und die reiche Flora an diesem kompakten Naturort, der sich ideal für einen kurzen Spaziergang eignet, wenn Sie bequeme Schuhe tragen.",
+            "hu": "Csodálja meg a békés vizeket és a gazdag növényvilágot ezen a kompakt természetes helyen, amely ideális egy rövid sétához, ha kényelmes sétacipőt visel a felfedezéshez.",
+            "ro": "Admirați apele pașnice și flora bogată în acest loc natural compact, care este ideal pentru o scurtă plimbare dacă vă amintiți să purtați pantofi comozi de mers.",
+            "en": "Admire the peaceful waters and rich surrounding flora at this compact natural spot, which is ideal for a brief stroll if you remember to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de jeux de Hilès",
+            "hu": "Aire de jeux de Hilès",
+            "ro": "Aire de jeux de Hilès",
+            "en": "Aire de jeux de Hilès"
+          },
+          "coords": [
+            1.224586,
+            43.594175
+          ],
+          "category": "family",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in diesem familienfreundlichen Erholungsgebiet mit gepflegten Geräten und suchen Sie sich eine schattige Bank für einen kurzen Snack.",
+            "hu": "Tartson egy jól megérdemelt szünetet ezen a családbarát, jól karbantartott eszközökkel felszerelt pihenőhelyen, és keressen egy árnyékos padot egy gyors harapnivalóhoz.",
+            "ro": "Luați o pauză bine meritată în această zonă de agrement familială cu echipamente bine întreținute și căutați o bancă la umbră pentru a savura o gustare rapidă așezați.",
+            "en": "Take a well-deserved break at this family-friendly recreational area featuring well-maintained equipment, and keep an eye out for shaded benches to eat a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Lutché",
+            "hu": "Étang de Lutché",
+            "ro": "Étang de Lutché",
+            "en": "Étang de Lutché"
+          },
+          "coords": [
+            1.192662,
+            43.601417
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen Teich, der für sein Ökosystem und sanfte Wanderwege bekannt ist, aber denken Sie an Mückenschutz in den wärmeren Nachmittagsstunden.",
+            "hu": "Fedezze fel ezt a kiterjedt tavat, amely kivételes vízi ökoszisztémájáról és ösvényeiről ismert, de ne felejtsen el szúnyogriasztót hozni a melegebb délutáni órákra.",
+            "ro": "Explorați acest iaz vast cunoscut pentru ecosistemul său acvatic excepțional și traseele blânde, dar asigurați-vă că aveți repelent de țânțari în orele calde de după-amiază.",
+            "en": "Explore this expansive pond known for its exceptional aquatic ecosystem and gentle walking trails, but be sure to carry mosquito repellent during the warmer afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Léguevin mit einem entspannten Morgen auf den lokalen Spielplätzen und genießen Sie die sanfte Gemeinschaftsatmosphäre.\nMittags verlagert sich das Geschehen von den Dorfstraßen an die ruhigen Ufer des Lac de la Mouline und des Lac des Petitis, wo das Grün einen perfekten Rastplatz bietet.\nDer Nachmittag lädt Sie ein, weiter nach draußen zu schlendern und den malerischen Wegen zu folgen, die zum abgelegeneren und wunderbar friedlichen Étang de Lutché führen.\nBeenden Sie Ihre Wandertour, während die Sonne über dem Étang de Lutché untergeht und Sie über die unberührte Schönheit und das gemächliche Tempo dieser Gemeinde nachdenken.",
+        "hu": "Kezdje a napot Léguevin szívében egy nyugodt reggellel a helyi játszótereken, magába szívva a szelíd közösségi hangulatot, mielőtt a természet felé venné az irányt.\nA dél felé közeledve a falu utcáiról a Lac de la Mouline és a Lac des Petitis békés partjaira váltunk, ahol a buja zöld növényzet tökéletes pihenési környezetet biztosít.\nA délután arra csábít, hogy távolabb sétáljon, követve a festői ösvényeket, amelyek a távolabbi és csodálatosan békés Étang de Lutché felé vezetnek a nap hátralévő részében.\nZárja gyalogtúráját, amint a nap lemenőben van az Étang de Lutché felett, visszagondolva ennek a bájos francia községnek a természetes szépségére és nyugodt tempójára.",
+        "ro": "Începeți ziua în inima localității Léguevin cu o dimineață relaxată la zonele de joacă locale, absorbind atmosfera blândă a comunității înainte de a vă îndrepta spre natură.\nLa prânz se face trecerea de la străzile satului la malurile senine de la Lac de la Mouline și Lac des Petitis, unde verdeața luxuriantă oferă un mediu perfect de odihnă.\nDupă-amiaza vă invită să vă plimbați mai departe, urmând potecile pitorești care duc spre Étang de Lutché, un loc mai izolat și minunat de pașnic pentru relaxare deplină.\nÎncheiați turul de plimbare pe măsură ce soarele coboară peste Étang de Lutché, reflectând asupra frumuseții naturale și a ritmului negrăbit al acestei fermecătoare comune franceze.",
+        "en": "Start your day in the heart of Léguevin with a relaxed morning at the local play areas, soaking in the gentle community vibe before heading towards nature.\nMidday brings a shift from village streets to the serene shores of Lac de la Mouline and Lac des Petitis, where the lush greens provide a perfect resting environment.\nThe afternoon invites you to stroll further outwards, tracing the scenic pathways leading toward the more remote and wonderfully peaceful Étang de Lutché.\nConclude your walking tour as the sun lowers over Étang de Lutché, reflecting on the natural beauty and the unhurried pace of this charming French commune."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 16.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de jeux du Boulodrome",
+            "hu": "Aire de jeux du Boulodrome",
+            "ro": "Aire de jeux du Boulodrome",
+            "en": "Aire de jeux du Boulodrome"
+          },
+          "coords": [
+            1.231885,
+            43.601328
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen auf diesem schönen lokalen Spielplatz, wo Sie entspannte Boule-Spiele beobachten können, indem Sie einen Kaffee mitbringen.",
+            "hu": "Kezdje a reggelt ezen a kedves helyi játszótéren, ahol alkalmi pétanque-játékokat nézhet, ezért vegyen egy kávét a közelben, és élvezze a falu nyugodt hangulatát.",
+            "ro": "Începeți dimineața la acest loc de joacă local minunat unde puteți urmări partide amicale de petanque, așa că luați o cafea și bucurați-vă de atmosfera relaxată.",
+            "en": "Start your morning at this lovely local playground where you can watch casual boules games, so grab a coffee nearby and enjoy the laid-back village atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Mouline",
+            "hu": "Lac de la Mouline",
+            "ro": "Lac de la Mouline",
+            "en": "Lac de la Mouline"
+          },
+          "coords": [
+            1.239577,
+            43.601985
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser ruhige lokale See bietet eine fantastische Flucht mit seiner lebhaften Vogelwelt und schattigen Ufern; bringen Sie eine Decke für eine morgendliche Pause mit.",
+            "hu": "Ez a nyugodt helyi tó fantasztikus menedéket kínál élénk madárvilágával és árnyékos partjaival, ezért hozzon magával egy takarót a békés délelőtti pihenéshez.",
+            "ro": "Acest lac local liniștit oferă o evadare fantastică cu păsările sale vibrante și malurile umbrite, așa că aduceți o pătură pentru o odihnă matinală foarte plăcută.",
+            "en": "This serene local lake offers a fantastic escape with its vibrant birdlife and shaded banks, making it perfect to bring a small blanket for a tranquil morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Bouconne",
+            "hu": "Wald von Bouconne",
+            "ro": "Wald von Bouconne",
+            "en": "Wald von Bouconne"
+          },
+          "coords": [
+            1.25,
+            43.63333
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen riesigen, üppigen Wald, der als grüne Lunge der Region dient und endlose schattige Wege bietet, auf denen Sie unbedingt den markierten Pfaden folgen sollten.",
+            "hu": "Merüljön el ebben a hatalmas, buja erdőben, amely a régió zöld tüdejeként szolgál végtelen árnyékos ösvényekkel, ahol mindenképpen érdemes a kijelölt utakon maradnia.",
+            "ro": "Cufundați-vă în această pădure masivă și luxuriantă care servește drept plămân verde al regiunii, oferind poteci umbrite nesfârșite unde trebuie să rămâneți pe traseele marcate.",
+            "en": "Immerse yourself in this massive lush forest that serves as the green lung of the region, providing endless shaded pathways where you should definitely stick to the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Bordette",
+            "hu": "Lac de la Bordette",
+            "ro": "Lac de la Bordette",
+            "en": "Lac de la Bordette"
+          },
+          "coords": [
+            1.228417,
+            43.640093
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein abgelegeneres Naturparadies an diesem malerischen, von dichter Vegetation umgebenen See, der ein perfekter Ort ist, um atemberaubende Landschaftsfotos zu machen.",
+            "hu": "Fedezzen fel egy eldugottabb természetes menedéket ennél a festői, sűrű növényzettel körülvett tónál, amely tökéletes hely lenyűgöző tájképek készítéséhez a kirándulás során.",
+            "ro": "Descoperiți un refugiu natural mai retras la acest lac pitoresc înconjurat de vegetație deasă, fiind un loc perfect pentru a surprinde câteva fotografii de peisaj uluitoare.",
+            "en": "Discover a more secluded natural retreat at this picturesque lake surrounded by thick vegetation, making it a perfect picturesque spot to capture some stunning landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Belloc",
+            "hu": "Étang de Belloc",
+            "ro": "Étang de Belloc",
+            "en": "Étang de Belloc"
+          },
+          "coords": [
+            1.174211,
+            43.611551
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührten Spiegelungen und die ruhige Isolation dieses versteckten Teiches, wo das Mitbringen eines Fernglases Ihr lokales Vogelbeobachtungserlebnis bereichern wird.",
+            "hu": "Élvezze a vidéken megbúvó rejtett tó érintetlen tükröződéseit és csendes elszigeteltségét, ahol egy távcső hozatala nagyban javítja a helyi madármegfigyelési élményt.",
+            "ro": "Bucurați-vă de reflexiile imaculate și de izolarea liniștită a acestui iaz ascuns la țară, unde aducerea unui binoclu vă va îmbunătăți considerabil experiența de observare a păsărilor.",
+            "en": "Enjoy the pristine reflections and quiet isolation of this hidden pond tucked away in the countryside, where bringing binoculars will greatly enhance your local birdwatching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Lutché",
+            "hu": "Étang de Lutché",
+            "ro": "Étang de Lutché",
+            "en": "Étang de Lutché"
+          },
+          "coords": [
+            1.192662,
+            43.601417
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen Teich, der für sein Ökosystem und sanfte Wanderwege bekannt ist, aber denken Sie an Mückenschutz in den wärmeren Nachmittagsstunden.",
+            "hu": "Fedezze fel ezt a kiterjedt tavat, amely kivételes vízi ökoszisztémájáról és ösvényeiről ismert, de ne felejtsen el szúnyogriasztót hozni a melegebb délutáni órákra.",
+            "ro": "Explorați acest iaz vast cunoscut pentru ecosistemul său acvatic excepțional și traseele blânde, dar asigurați-vă că aveți repelent de țânțari în orele calde de după-amiază.",
+            "en": "Explore this expansive pond known for its exceptional aquatic ecosystem and gentle walking trails, but be sure to carry mosquito repellent during the warmer afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Petitis",
+            "hu": "Lac des Petitis",
+            "ro": "Lac des Petitis",
+            "en": "Lac des Petitis"
+          },
+          "coords": [
+            1.234464,
+            43.595192
+          ],
+          "category": "natural",
+          "arrive_at": "17:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen Gewässer und die reiche Flora an diesem kompakten Naturort, der sich ideal für einen kurzen Spaziergang eignet, wenn Sie bequeme Schuhe tragen.",
+            "hu": "Csodálja meg a békés vizeket és a gazdag növényvilágot ezen a kompakt természetes helyen, amely ideális egy rövid sétához, ha kényelmes sétacipőt visel a felfedezéshez.",
+            "ro": "Admirați apele pașnice și flora bogată în acest loc natural compact, care este ideal pentru o scurtă plimbare dacă vă amintiți să purtați pantofi comozi de mers.",
+            "en": "Admire the peaceful waters and rich surrounding flora at this compact natural spot, which is ideal for a brief stroll if you remember to wear comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt in den charmanten Parks der Stadt und führt schnell in das dichte, weitläufige Blätterdach des berühmten Waldes von Bouconne für frische Morgenluft.\nGegen Mittag führen Sie die Wege tief in den Wald und weiter zum Lac de la Bordette, wo Schatten und Wasser eine kühle, erfrischende Pause vom Treten in die Pedale bieten.\nDie Nachmittagsfahrt führt westwärts durch die Landschaft zum Étang de Belloc und Lutché und bietet weite Ausblicke und ununterbrochene Wege für eine zügige, malerische Reise.\nBeenden Sie den Tag auf dem Rückweg zum Stadtzentrum am Lac des Petitis und lassen Sie Ihre Beine ruhen, während die Abenddämmerung über den ruhigen Gewässern hereinbricht.",
+        "hu": "Kerékpáros kalandja a város hangulatos parkjaiból indul, majd gyorsan átvált a híres Wald von Bouconne sűrű, kiterjedt lombkoronájára, hogy friss reggeli levegőt szívjon.\nDélre az ösvények mélyen az erdőbe és a Lac de la Bordette felé visznek, ahol az árnyék és a víz hűvös, frissítő szünetet teremt a hosszas és fárasztó pedálozásból.\nA délutáni tekerés nyugat felé söpör végig a tájon az Étang de Belloc és a Lutché felé, hatalmas nyitott kilátást és megszakítás nélküli ösvényeket kínálva a gyors utazáshoz.\nFejezze be a napot a városközpont felé kanyarodva a Lac des Petitisnél, pihentetve a lábát, miközben az alkonyat gyönyörűen leereszkedik a helyi tavak nyugtató vizére.",
+        "ro": "Aventura pe bicicletă începe în parcurile fermecătoare ale orașului, trecând rapid la coronamentul dens al faimoasei păduri Wald von Bouconne pentru aerul proaspăt matinal.\nPână la prânz, traseele vă duc adânc în pădure și mai departe către Lac de la Bordette, unde umbra și apa creează o pauză răcoroasă și revigorantă de la pedalat intens.\nPlimbarea de după-amiază traversează peisajul spre vest până la Étang de Belloc și Lutché, oferind priveliști vaste și poteci neîntrerupte perfecte pentru o călătorie pitorească.\nÎncheiați ziua întorcându-vă spre centrul orașului la Lac des Petitis, lăsându-vă picioarele să se odihnească în timp ce amurgul se lasă frumos peste apele liniștitoare.",
+        "en": "Your cycling adventure begins with the town's charming parks, quickly transitioning to the dense, sprawling canopy of the famous Wald von Bouconne for fresh morning air.\nBy midday, the trails take you deep into the forest and onwards to Lac de la Bordette, where the shade and water create a cool, refreshing break from pedaling.\nThe afternoon ride sweeps westward across the landscape to Étang de Belloc and Lutché, offering vast open views and uninterrupted paths perfect for a brisk, scenic journey.\nEnd the day winding back toward the town center at Lac des Petitis, letting your legs rest as dusk settles beautifully over the calming waters of the local lakes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 16.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de jeux de Hilès",
+            "hu": "Aire de jeux de Hilès",
+            "ro": "Aire de jeux de Hilès",
+            "en": "Aire de jeux de Hilès"
+          },
+          "coords": [
+            1.224586,
+            43.594175
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in diesem familienfreundlichen Erholungsgebiet mit gepflegten Geräten und suchen Sie sich eine schattige Bank für einen kurzen Snack.",
+            "hu": "Tartson egy jól megérdemelt szünetet ezen a családbarát, jól karbantartott eszközökkel felszerelt pihenőhelyen, és keressen egy árnyékos padot egy gyors harapnivalóhoz.",
+            "ro": "Luați o pauză bine meritată în această zonă de agrement familială cu echipamente bine întreținute și căutați o bancă la umbră pentru a savura o gustare rapidă așezați.",
+            "en": "Take a well-deserved break at this family-friendly recreational area featuring well-maintained equipment, and keep an eye out for shaded benches to eat a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Lutché",
+            "hu": "Étang de Lutché",
+            "ro": "Étang de Lutché",
+            "en": "Étang de Lutché"
+          },
+          "coords": [
+            1.192662,
+            43.601417
+          ],
+          "category": "natural",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen Teich, der für sein Ökosystem und sanfte Wanderwege bekannt ist, aber denken Sie an Mückenschutz in den wärmeren Nachmittagsstunden.",
+            "hu": "Fedezze fel ezt a kiterjedt tavat, amely kivételes vízi ökoszisztémájáról és ösvényeiről ismert, de ne felejtsen el szúnyogriasztót hozni a melegebb délutáni órákra.",
+            "ro": "Explorați acest iaz vast cunoscut pentru ecosistemul său acvatic excepțional și traseele blânde, dar asigurați-vă că aveți repelent de țânțari în orele calde de după-amiază.",
+            "en": "Explore this expansive pond known for its exceptional aquatic ecosystem and gentle walking trails, but be sure to carry mosquito repellent during the warmer afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Belloc",
+            "hu": "Étang de Belloc",
+            "ro": "Étang de Belloc",
+            "en": "Étang de Belloc"
+          },
+          "coords": [
+            1.174211,
+            43.611551
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührten Spiegelungen und die ruhige Isolation dieses versteckten Teiches, wo das Mitbringen eines Fernglases Ihr lokales Vogelbeobachtungserlebnis bereichern wird.",
+            "hu": "Élvezze a vidéken megbúvó rejtett tó érintetlen tükröződéseit és csendes elszigeteltségét, ahol egy távcső hozatala nagyban javítja a helyi madármegfigyelési élményt.",
+            "ro": "Bucurați-vă de reflexiile imaculate și de izolarea liniștită a acestui iaz ascuns la țară, unde aducerea unui binoclu vă va îmbunătăți considerabil experiența de observare a păsărilor.",
+            "en": "Enjoy the pristine reflections and quiet isolation of this hidden pond tucked away in the countryside, where bringing binoculars will greatly enhance your local birdwatching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Bordette",
+            "hu": "Lac de la Bordette",
+            "ro": "Lac de la Bordette",
+            "en": "Lac de la Bordette"
+          },
+          "coords": [
+            1.228417,
+            43.640093
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein abgelegeneres Naturparadies an diesem malerischen, von dichter Vegetation umgebenen See, der ein perfekter Ort ist, um atemberaubende Landschaftsfotos zu machen.",
+            "hu": "Fedezzen fel egy eldugottabb természetes menedéket ennél a festői, sűrű növényzettel körülvett tónál, amely tökéletes hely lenyűgöző tájképek készítéséhez a kirándulás során.",
+            "ro": "Descoperiți un refugiu natural mai retras la acest lac pitoresc înconjurat de vegetație deasă, fiind un loc perfect pentru a surprinde câteva fotografii de peisaj uluitoare.",
+            "en": "Discover a more secluded natural retreat at this picturesque lake surrounded by thick vegetation, making it a perfect picturesque spot to capture some stunning landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Bouconne",
+            "hu": "Wald von Bouconne",
+            "ro": "Wald von Bouconne",
+            "en": "Wald von Bouconne"
+          },
+          "coords": [
+            1.25,
+            43.63333
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen riesigen, üppigen Wald, der als grüne Lunge der Region dient und endlose schattige Wege bietet, auf denen Sie unbedingt den markierten Pfaden folgen sollten.",
+            "hu": "Merüljön el ebben a hatalmas, buja erdőben, amely a régió zöld tüdejeként szolgál végtelen árnyékos ösvényekkel, ahol mindenképpen érdemes a kijelölt utakon maradnia.",
+            "ro": "Cufundați-vă în această pădure masivă și luxuriantă care servește drept plămân verde al regiunii, oferind poteci umbrite nesfârșite unde trebuie să rămâneți pe traseele marcate.",
+            "en": "Immerse yourself in this massive lush forest that serves as the green lung of the region, providing endless shaded pathways where you should definitely stick to the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Mouline",
+            "hu": "Lac de la Mouline",
+            "ro": "Lac de la Mouline",
+            "en": "Lac de la Mouline"
+          },
+          "coords": [
+            1.239577,
+            43.601985
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Dieser ruhige lokale See bietet eine fantastische Flucht mit seiner lebhaften Vogelwelt und schattigen Ufern; bringen Sie eine Decke für eine morgendliche Pause mit.",
+            "hu": "Ez a nyugodt helyi tó fantasztikus menedéket kínál élénk madárvilágával és árnyékos partjaival, ezért hozzon magával egy takarót a békés délelőtti pihenéshez.",
+            "ro": "Acest lac local liniștit oferă o evadare fantastică cu păsările sale vibrante și malurile umbrite, așa că aduceți o pătură pentru o odihnă matinală foarte plăcută.",
+            "en": "This serene local lake offers a fantastic escape with its vibrant birdlife and shaded banks, making it perfect to bring a small blanket for a tranquil morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Petitis",
+            "hu": "Lac des Petitis",
+            "ro": "Lac des Petitis",
+            "en": "Lac des Petitis"
+          },
+          "coords": [
+            1.234464,
+            43.595192
+          ],
+          "category": "natural",
+          "arrive_at": "16:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen Gewässer und die reiche Flora an diesem kompakten Naturort, der sich ideal für einen kurzen Spaziergang eignet, wenn Sie bequeme Schuhe tragen.",
+            "hu": "Csodálja meg a békés vizeket és a gazdag növényvilágot ezen a kompakt természetes helyen, amely ideális egy rövid sétához, ha kényelmes sétacipőt visel a felfedezéshez.",
+            "ro": "Admirați apele pașnice și flora bogată în acest loc natural compact, care este ideal pentru o scurtă plimbare dacă vă amintiți să purtați pantofi comozi de mers.",
+            "en": "Admire the peaceful waters and rich surrounding flora at this compact natural spot, which is ideal for a brief stroll if you remember to wear comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem kurzen Halt auf dem Familienspielplatz, bevor Sie zu den westlichen Seen fahren; Étang de Lutché und Belloc bieten atemberaubende morgendliche Spiegelungen.\nGegen Mittag navigieren Sie auf den ruhigen Landstraßen zum Lac de la Bordette und halten an, um den Übergang von offenen landwirtschaftlichen Feldern zu dichten Waldrändern zu schätzen.\nVerbringen Sie den Nachmittag damit, den riesigen Wald von Bouconne zu erkunden, und lassen Sie das Auto stehen, während Sie unter den monumentalen Bäumen kurze Spaziergänge machen.\nBeenden Sie den Roadtrip, indem Sie zu Léguevins näheren Naturstätten zurückkehren und mit einem friedlichen Moment am Abend am Lac des Petitis direkt am Stadtrand abschließen.",
+        "hu": "Kezdje egy gyors megállóval a családi játszótéren, mielőtt a nyugati tavakhoz hajtana; az Étang de Lutché és a Belloc lenyűgöző reggeli tükröződéseket kínál egymástól percekre.\nDél körül navigáljon a csendes vidéki utakon a Lac de la Bordette felé, megállva, hogy értékelje a nyitott mezőgazdasági területekről a sűrű erdők határai felé történő átmenetet.\nTöltse a délutánt a hatalmas Wald von Bouconne felfedezésével, pihentesse az autót, miközben rövid sétákat tesz a természetvédelmi területet uraló monumentális fák alatt.\nZárja az autós kirándulást azzal, hogy visszatér Léguevin közelebbi természetes helyeihez, és egy békés esti pillanattal fejezi be a Lac des Petitisnél, a város szélén.",
+        "ro": "Începeți cu o scurtă oprire la locul de joacă înainte de a conduce spre lacurile vestice; Étang de Lutché și Belloc oferă reflexii matinale uimitoare la doar câteva minute distanță.\nÎn jurul prânzului, navigați pe drumurile rurale liniștite până la Lac de la Bordette, oprindu-vă pentru a aprecia tranziția de la câmpurile agricole deschise la marginile pădurii.\nPetreceți după-amiaza explorând masiva Wald von Bouconne, lăsând mașina să se odihnească în timp ce faceți plimbări scurte sub copacii monumentali din această rezervație.\nÎncheiați călătoria rutieră întorcându-vă la locurile naturale mai apropiate de Léguevin, terminând cu un moment pașnic de seară la Lac des Petitis, chiar la marginea orașului.",
+        "en": "Start with a quick stop at the family playground before driving out to the western lakes; Étang de Lutché and Belloc provide stunning morning reflections just minutes apart.\nAround midday, navigate the quiet rural roads up to Lac de la Bordette, stopping to appreciate the transition from open agricultural fields to the dense woodland borders.\nSpend the afternoon exploring the massive Wald von Bouconne, letting the car rest while you take short walks under the monumental trees that dominate this nature reserve.\nConclude the road trip by circling back to Léguevin's closer natural spots, wrapping up with a peaceful evening moment at Lac des Petitis right by the town's edge."
+      }
+    }
+  }
+}

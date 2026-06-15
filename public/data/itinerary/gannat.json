@@ -1,0 +1,474 @@
+{
+  "city_id": "gannat",
+  "anchor": {
+    "name": "Gannat",
+    "coords": [
+      3.1983,
+      46.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 1.02,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Hennequin",
+            "hu": "Place Hennequin",
+            "ro": "Piața Hennequin",
+            "en": "Place Hennequin"
+          },
+          "coords": [
+            3.197906,
+            46.100098
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
+            "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
+            "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            3.198685,
+            46.100281
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
+            "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Yves-Machelon",
+            "hu": "Yves-Machelon Múzeum",
+            "ro": "Muzeul Yves-Machelon",
+            "en": "Musée Yves-Machelon"
+          },
+          "coords": [
+            3.196572,
+            46.101487
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum faszinierende lokale Geschichte und seltene archäologische Funde, aber denken Sie an etwas Bargeld für den reibungslosen Eintritt.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a ritka régészeti leleteket ebben a múzeumban, de ne felejtsen el némi készpénzt hozni a kis belépődíjra.",
+            "ro": "Descoperiți istoria locală fascinantă și artefacte arheologice rare în acest muzeu, dar nu uitați să aveți la voi puțin numerar pentru taxa de intrare rapidă.",
+            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gannat",
+            "hu": "Gannat Kastélya",
+            "ro": "Castelul din Gannat",
+            "en": "Castle of Gannat"
+          },
+          "coords": [
+            3.196204,
+            46.099756
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
+            "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            3.189619,
+            46.103055
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese malerische Kirche bietet einen friedlichen Rückzugsort mit schönen Buntglasfenstern, also nähern Sie sich leise, um die Atmosphäre zu respektieren.",
+            "hu": "Ez a festői templom békés menedéket kínál gyönyörű ólomüveg ablakokkal, ezért csendben közeledjen, hogy tiszteletben tartsa az ősi épület nyugalmát.",
+            "ro": "Această biserică pitorească oferă un refugiu liniștit cu vitralii frumoase, așa că apropiați-vă în liniște pentru a respecta atmosfera senină a structurii.",
+            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Herzen von Gannat, wo das lebendige Treiben am zentralen Platz nahtlos in die stille Erhabenheit der historischen Stadtkirche übergeht. Tauchen Sie anschließend im nahen Museum in die reiche, vielschichtige Geschichte der gesamten Region ein.\n\nZur Mittagszeit lockt die imposante Festungsanlage, die stolz über das Stadtbild wacht und tiefe Einblicke in die strategische Vergangenheit der Gegend gewährt. Die kurzen Wege erlauben eine entspannte Erkundung ohne jegliche Eile.\n\nAm Nachmittag führt ein kurzer, malerischer Spaziergang aus dem dicht bebauten Zentrum hinaus zu einer weiteren, überaus idyllisch gelegenen Kirche. Hier finden Sie einen Moment der perfekten inneren Ruhe, um die vielen Eindrücke zu verarbeiten.\n\nDer frühe Abend lädt dazu ein, die Erlebnisse dieses rein fussläufigen Tages in den charmanten Altstadtgassen von Gannat nachklingen zu lassen, während die untergehende Sonne die historischen Fassaden in weiches Licht taucht.",
+        "hu": "A délelőtt Gannat szívében kezdődik, ahol a központi tér pezsgése zökkenőmentesen olvad egybe a történelmi templom csendes nagyszerűségével. Ezt követően merüljön el a közeli múzeumban a régió gazdag, sokrétű történelmében.\n\nDélben az impozáns erődítmény csábít, amely büszkén őrködik a városkép felett, és mély bepillantást enged a környék stratégiai múltjába. A rövid távolságok lehetővé teszik a nyugodt, sietség nélküli felfedezést.\n\nDélután egy rövid, festői séta vezet ki a sűrűn beépített központból egy másik, rendkívül idilli fekvésű templomhoz. Itt megtalálhatja a tökéletes belső nyugalom pillanatát, hogy feldolgozza a sok csodás élményt.\n\nA kora este arra hív, hogy a mai, kizárólag gyalogos nap élményeit Gannat hangulatos óvárosi utcáin hagyja lecsengeni, miközben a lemenő nap lágy fénybe öltözteti a történelmi kőhomlokzatokat.",
+        "ro": "Dimineața începe în inima orașului Gannat, unde forfota din piața centrală se îmbină perfect cu măreția liniștită a bisericii istorice. Ulterior, scufundați-vă în muzeul din apropiere pentru a descoperi istoria bogată și complexă a întregii regiuni.\n\nLa prânz, impunătoarea cetate, care veghează cu mândrie asupra peisajului urban, atrage vizitatorii oferind o perspectivă profundă asupra trecutului strategic al zonei. Distanțele scurte permit o explorare relaxată, fără grabă.\n\nDupă-amiaza, o scurtă și pitorească plimbare vă conduce din centrul dens construit către o altă biserică situată într-un cadru deosebit de idilic. Aici veți găsi un moment de liniște interioară perfectă pentru a asimila impresiile.\n\nSeara devreme vă invită să lăsați experiențele acestei zile pietonale să rezoneze în străduțele fermecătoare ale orașului vechi Gannat, în timp ce soarele apune și scaldă fațadele istorice într-o lumină blândă.",
+        "en": "The morning begins in the very heart of Gannat, where the gentle buzz of the central square seamlessly blends into the quiet grandeur of the historic local church. Afterwards, immerse yourself in the rich, multifaceted history of the region at the nearby museum.\n\nAt midday, the imposing fortress beckons, standing proudly over the townscape and offering deep insights into the strategic past of the area. The short walking distances allow for a relaxed exploration without feeling rushed at all.\n\nIn the afternoon, a short, picturesque stroll leads out of the densely built center to another exceptionally idyllic church. Here you will find a moment of perfect inner peace to process the multitude of visual and historical impressions.\n\nEarly evening invites you to let the experiences of this purely pedestrian day linger in the charming old town streets of Gannat, while the setting sun bathes the ancient stone facades in a soft, warm light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 7.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Hennequin",
+            "hu": "Place Hennequin",
+            "ro": "Piața Hennequin",
+            "en": "Place Hennequin"
+          },
+          "coords": [
+            3.197906,
+            46.100098
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
+            "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
+            "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gannat",
+            "hu": "Gannat Kastélya",
+            "ro": "Castelul din Gannat",
+            "en": "Castle of Gannat"
+          },
+          "coords": [
+            3.196204,
+            46.099756
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
+            "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            3.189619,
+            46.103055
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese malerische Kirche bietet einen friedlichen Rückzugsort mit schönen Buntglasfenstern, also nähern Sie sich leise, um die Atmosphäre zu respektieren.",
+            "hu": "Ez a festői templom békés menedéket kínál gyönyörű ólomüveg ablakokkal, ezért csendben közeledjen, hogy tiszteletben tartsa az ősi épület nyugalmát.",
+            "ro": "Această biserică pitorească oferă un refugiu liniștit cu vitralii frumoase, așa că apropiați-vă în liniște pentru a respecta atmosfera senină a structurii.",
+            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleopolis",
+            "hu": "Paleopolis",
+            "ro": "Paleopolis",
+            "en": "Paleopolis"
+          },
+          "coords": [
+            3.16613,
+            46.113821
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem weitläufigen Dinosaurierpark in die prähistorische Welt ein und kommen Sie früh an, um den Massen zu entgehen und gut zu parken.",
+            "hu": "Merüljön el a történelem előtti világban ebben a kiterjedt dinoszauruszparkban, és érkezzen korán, hogy elkerülje a tömeget és jó parkolóhelyet találjon.",
+            "ro": "Pătrundeți în lumea preistorică la acest vast parc de dinozauri, ajungând devreme pentru a evita aglomerația și a asigura un loc de parcare bun la intrare.",
+            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de La Motte-Mazerier",
+            "hu": "La Motte-Mazerier Kastélya",
+            "ro": "Castelul La Motte-Mazerier",
+            "en": "Château de La Motte-Mazerier"
+          },
+          "coords": [
+            3.185855,
+            46.122254
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses elegante Landschloss, das von üppigem Grün umgeben ist, und bleiben Sie auf den markierten Außenwegen, da das Innere privat ist.",
+            "hu": "Csodálja meg ezt az elegáns, buja növényzettel körülvett vidéki kastélyt, és maradjon a kijelölt külső utakon, mivel a belső tér nagyrészt magántulajdon.",
+            "ro": "Minunați-vă de acest elegant castel de țară înconjurat de verdeață luxuriantă și rămâneți pe cărările exterioare marcate, deoarece interiorul este privat.",
+            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            3.198685,
+            46.100281
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
+            "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour startet komfortabel im Stadtzentrum, wo Sie nach einem schnellen Überblick auf dem Hauptplatz sofort das majestätische Schloss erkunden können. Die frische Luft macht wach für die nahen historischen Entdeckungen.\n\nGegen Mittag radeln Sie entspannt in die Randbezirke zu einer ruhigen Pfarrkirche, bevor die Route Sie aus der Stadt hinaus in die prähistorische Welt eines weitläufigen Freizeitparks führt. Die abwechslungsreichen Wege bieten dabei stets schöne Aussichten.\n\nAm Nachmittag durchqueren Sie grüne Landschaften, um ein beeindruckendes, ländliches Château zu erreichen, das zum Innehalten einlädt. Die sanften Hügel der Umgebung machen das Radeln zu einem großen Vergnügen für Naturfreunde.\n\nDer späte Nachmittag führt Sie zurück ins Zentrum zur gotischen Hauptkirche, wo diese abwechslungsreiche und aktive Route ihren gebührenden Abschluss findet, während Sie sich auf ein wohlverdientes Abendessen freuen können.",
+        "hu": "A kerékpártúra kényelmesen, a városközpontban indul, ahol a főtér gyors áttekintése után azonnal felfedezheti a fenséges kastélyt. A friss levegő felébreszti a közeli történelmi felfedezésekhez szükséges kíváncsiságot.\n\nDél körül lazán elteker a külső kerületekbe egy csendes plébániatemplomhoz, mielőtt az útvonal kivezet a városból egy kiterjedt szabadidőpark történelem előtti világába. A változatos utak végig csodás kilátást nyújtanak.\n\nDélután zöldellő tájakon halad keresztül, hogy elérjen egy lenyűgöző, vidéki kastélyt, amely tökéletes egy kis pihenőre. A környék szelíd dombjai miatt a kerékpározás nagy élvezet a természet szerelmeseinek.\n\nA késő délután visszavezeti Önt a központba, a gótikus főtemplomhoz, ahol ez a változatos és aktív útvonal méltóképpen zárul, miközben már egy jól megérdemelt vacsorára is bátran gondolhat.",
+        "ro": "Turul dumneavoastră cu bicicleta începe confortabil în centrul orașului, unde, după o privire de ansamblu în piața principală, puteți explora imediat castelul maiestuos. Aerul proaspăt vă trezește interesul pentru descoperirile istorice apropiate.\n\nÎn jurul prânzului, pedalați relaxat spre periferie, către o biserică parohială liniștită, înainte ca traseul să vă scoată din oraș spre lumea preistorică a unui vast parc de agrement. Cărările variate oferă priveliști frumoase pe tot parcursul.\n\nDupă-amiaza veți traversa peisaje verzi pentru a ajunge la un impresionant castel rural, care vă invită la o scurtă pauză. Colinele domoale din împrejurimi fac din ciclism o adevărată plăcere pentru iubitorii de natură.\n\nDupă-amiaza târziu vă conduce înapoi în centru, la biserica principală gotică, unde acest traseu variat și activ își găsește o încheiere binemeritată, în timp ce vă puteți gândi cu bucurie la o cină delicioasă.",
+        "en": "Your bike tour starts comfortably in the city center, where after a quick overview of the main square you can immediately explore the majestic castle. The fresh morning air awakens you for the nearby historical discoveries ahead.\n\nAround midday, you pedal casually to the outskirts to a quiet parish church, before the route leads you out of the city into the prehistoric world of an expansive recreational park. The varied paths consistently offer beautiful views.\n\nIn the afternoon, you ride through verdant landscapes to reach an impressive, rural château that invites you to pause and reflect. The gentle hills of the surrounding area make cycling a great pleasure for true nature lovers.\n\nLate afternoon leads you back to the center to the striking main Gothic church, where this varied and active route finds its fitting conclusion, allowing you to eagerly look forward to a very well-deserved dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 6.77,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Gannat",
+            "hu": "Gannat Kastélya",
+            "ro": "Castelul din Gannat",
+            "en": "Castle of Gannat"
+          },
+          "coords": [
+            3.196204,
+            46.099756
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
+            "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Yves-Machelon",
+            "hu": "Yves-Machelon Múzeum",
+            "ro": "Muzeul Yves-Machelon",
+            "en": "Musée Yves-Machelon"
+          },
+          "coords": [
+            3.196572,
+            46.101487
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum faszinierende lokale Geschichte und seltene archäologische Funde, aber denken Sie an etwas Bargeld für den reibungslosen Eintritt.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a ritka régészeti leleteket ebben a múzeumban, de ne felejtsen el némi készpénzt hozni a kis belépődíjra.",
+            "ro": "Descoperiți istoria locală fascinantă și artefacte arheologice rare în acest muzeu, dar nu uitați să aveți la voi puțin numerar pentru taxa de intrare rapidă.",
+            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Hennequin",
+            "hu": "Place Hennequin",
+            "ro": "Piața Hennequin",
+            "en": "Place Hennequin"
+          },
+          "coords": [
+            3.197906,
+            46.100098
+          ],
+          "category": "civic",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
+            "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
+            "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Sainte-Croix Templom",
+            "ro": "Biserica Sainte-Croix",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            3.198685,
+            46.100281
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
+            "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleopolis",
+            "hu": "Paleopolis",
+            "ro": "Paleopolis",
+            "en": "Paleopolis"
+          },
+          "coords": [
+            3.16613,
+            46.113821
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem weitläufigen Dinosaurierpark in die prähistorische Welt ein und kommen Sie früh an, um den Massen zu entgehen und gut zu parken.",
+            "hu": "Merüljön el a történelem előtti világban ebben a kiterjedt dinoszauruszparkban, és érkezzen korán, hogy elkerülje a tömeget és jó parkolóhelyet találjon.",
+            "ro": "Pătrundeți în lumea preistorică la acest vast parc de dinozauri, ajungând devreme pentru a evita aglomerația și a asigura un loc de parcare bun la intrare.",
+            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Saint-Saturnin Templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "Église Saint-Saturnin"
+          },
+          "coords": [
+            3.189185,
+            46.124915
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante, weniger bekannte Dorfkirche, um ihre historischen rustikalen Fresken zu beobachten, und bringen Sie eine warme Jacke mit.",
+            "hu": "Lépjen be ebbe a bájos, kevésbé ismert falusi templomba, hogy megfigyelje történelmi rusztikus freskóit, és vigyen magával kabátot a hűvös belső tér miatt.",
+            "ro": "Pășiți în această biserică de sat fermecătoare și mai puțin cunoscută pentru a observa frescele sale rustice, aducând o jachetă deoarece interiorul este răcoros.",
+            "en": "Step into this charming, lesser-known village church to observe its historic rustic frescoes, making sure to bring a jacket as the stone interior is quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de La Motte-Mazerier",
+            "hu": "La Motte-Mazerier Kastélya",
+            "ro": "Castelul La Motte-Mazerier",
+            "en": "Château de La Motte-Mazerier"
+          },
+          "coords": [
+            3.185855,
+            46.122254
+          ],
+          "category": "castle",
+          "arrive_at": "15:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses elegante Landschloss, das von üppigem Grün umgeben ist, und bleiben Sie auf den markierten Außenwegen, da das Innere privat ist.",
+            "hu": "Csodálja meg ezt az elegáns, buja növényzettel körülvett vidéki kastélyt, és maradjon a kijelölt külső utakon, mivel a belső tér nagyrészt magántulajdon.",
+            "ro": "Minunați-vă de acest elegant castel de țară înconjurat de verdeață luxuriantă și rămâneți pe cărările exterioare marcate, deoarece interiorul este privat.",
+            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser motorisierte Ausflug beginnt tief in der Vergangenheit am eindrucksvollen Schloss von Gannat, wo Sie Ihr Fahrzeug bequem parken können. Das angrenzende Museum vertieft anschließend Ihr Verständnis für die reiche lokale Geschichte der Stadt.\n\nGegen Mittag steuern Sie den lebhaften Marktplatz an, um eine kurze urbane Pause einzulegen, gefolgt von einer Besichtigung der nahegelegenen Hauptkirche. Die Flexibilität des Autos macht diesen Wechsel der Szenerie völlig stressfrei und angenehm.\n\nAm Nachmittag verlassen Sie das städtische Zentrum und tauchen im familienfreundlichen Paleopolis in die aufregende Welt der Dinosaurier ein. Diese Fahrt ins Grüne bietet einen tollen Kontrast zu den vormittäglichen kulturellen Sehenswürdigkeiten.\n\nDer späte Nachmittag führt Sie weiter durch die malerischen Ausläufer zu einer idyllischen Dorfkirche und endet schließlich an einem prächtigen ländlichen Château. Hier lassen Sie den dynamischen Tag fernab der Hektik ganz entspannt ausklingen.",
+        "hu": "Ez a motoros kirándulás a múltban, Gannat lenyűgöző kastélyánál kezdődik, ahol kényelmesen leparkolhatja járművét. A szomszédos múzeum ezután elmélyíti megértését a város gazdag és sokszínű helyi történelmével kapcsolatban.\n\nDél körül a nyüzsgő főtér felé veszi az irányt egy rövid városi pihenőre, amelyet a közeli főtemplom meglátogatása követ. Az autó nyújtotta rugalmasság ezt a helyszínváltást teljesen stresszmentessé és hihetetlenül kényelmessé teszi.\n\nDélután elhagyja a városközpontot, és a családbarát Paleopolisban belemerül a dinoszauruszok izgalmas világába. Ez a zöldövezeti autózás nagyszerű kontrasztot kínál a délelőtti komolyabb kulturális és történelmi látnivalókhoz képest.\n\nA késő délután továbbvezeti Önt a festői peremvidéken egy idilli falusi templomhoz, végül pedig egy csodálatos vidéki kastélynál ér véget. Itt, távol a nyüzsgéstől, teljesen nyugodtan és elégedetten zárhatja ezt a dinamikus napot.",
+        "ro": "Această excursie motorizată începe adânc în trecut, la impresionantul castel din Gannat, unde vă puteți parca vehiculul confortabil. Muzeul adiacent vă va aprofunda apoi înțelegerea bogatei istorii locale a acestui oraș fascinant.\n\nÎn jurul prânzului, vă îndreptați spre piața plină de viață pentru o scurtă pauză urbană, urmată de o vizită la biserica principală din apropiere. Flexibilitatea mașinii face această schimbare de peisaj complet lipsită de stres și foarte plăcută.\n\nDupă-amiaza, părăsiți centrul urban și vă cufundați în lumea captivantă a dinozaurilor la Paleopolis, un loc ideal pentru familii. Această plimbare cu mașina spre zonele verzi oferă un contrast excelent cu atracțiile culturale de dimineață.\n\nDupă-amiaza târziu vă poartă mai departe prin periferiile pitorești către o biserică de sat idilică și se încheie la un magnific castel rural. Aici, departe de agitație, lăsați această zi dinamică să se încheie într-o atmosferă complet relaxată.",
+        "en": "This motorized excursion begins deep in the past at the impressive Castle of Gannat, where you can easily park your vehicle right outside. The adjacent museum then deepens your understanding of the surprisingly rich local history of the town.\n\nAround midday, you drive to the bustling main square for a short urban break, followed closely by a visit to the nearby principal church. The flexibility of having a car makes this quick change of scenery completely stress-free and enjoyable.\n\nIn the afternoon, you leave the urban center entirely and dive into the exciting world of dinosaurs at the family-friendly Paleopolis. This drive into the green outskirts offers a fantastic contrast to the morning's intense cultural and historical sights.\n\nLate afternoon leads you further through the picturesque outskirts to an idyllic village church, finally ending at a magnificent rural château. Here, far away from any hustle, you can let this highly dynamic day come to a completely relaxed end."
+      }
+    }
+  }
+}

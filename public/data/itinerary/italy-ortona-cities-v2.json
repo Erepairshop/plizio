@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-ortona-cities-v2",
+  "anchor": {
+    "name": "Ortona",
+    "coords": [
+      14.40391,
+      42.34964
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 1.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento ai Caduti",
+            "hu": "Monumento ai Caduti",
+            "ro": "Monumento ai Caduti",
+            "en": "Monumento ai Caduti"
+          },
+          "coords": [
+            14.402825,
+            42.351895
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen an diesem feierlichen Denkmal, das Ortonas schwere Opfer im Zweiten Weltkrieg widerspiegelt, und halten Sie vor der Erkundung kurz inne.",
+            "hu": "Tisztelegjen az elesettek előtt ezen az ünnepélyes emlékművön, amely Ortona második világháborús áldozatait jelképezi, majd tartson egy kis csendes elmélkedést.",
+            "ro": "Onorați eroii căzuți la acest memorial solemn ce reflectă sacrificiile grele ale Ortonei din Al Doilea Război Mondial, luând un moment de liniște înaintea explorării.",
+            "en": "Honor the fallen at this solemn memorial reflecting Ortona's heavy WWII sacrifices, and take a moment of quiet reflection before exploring the nearby historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Battle of Ortona 1943 Museum",
+            "hu": "Battle of Ortona 1943 Museum",
+            "ro": "Battle of Ortona 1943 Museum",
+            "en": "Battle of Ortona 1943 Museum"
+          },
+          "coords": [
+            14.403659,
+            42.353112
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des kleinen Stalingrads durch fesselnde Artefakte ein, aber kommen Sie früh, um die detaillierten englischen Tafeln in Ruhe zu lesen.",
+            "hu": "Merüljön el a kis Sztálingrád megrázó történelmében a lebilincselő tárgyakon keresztül, de érkezzen korán, hogy kapkodás nélkül olvashassa el a feliratokat.",
+            "ro": "Aprofundați istoria cutremurătoare a Micului Stalingrad prin artefacte captivante, dar veniți devreme pentru a citi plăcuțele detaliate fără a vă simți grăbiți.",
+            "en": "Dive into the harrowing Little Stalingrad history through gripping artifacts, but arrive early to read the detailed English plaques without feeling overly rushed."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Cascella",
+            "hu": "Pinacoteca Cascella",
+            "ro": "Pinacoteca Cascella",
+            "en": "Pinacoteca Cascella"
+          },
+          "coords": [
+            14.40427,
+            42.355305
+          ],
+          "category": "museum",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartigen zeitgenössischen und klassischen Kunstwerke in dieser kulturellen Oase und achten Sie besonders auf die feine lokale Malerei.",
+            "hu": "Csodálja meg a kortárs és klasszikus műalkotásokat ebben a kulturális menedékben, különös figyelmet fordítva a helyi festők mesterműveinek árnyalt megvilágítására.",
+            "ro": "Admirați capodoperele contemporane și clasice în acest sanctuar cultural, acordând o atenție deosebită iluminării subtile a operelor pictorilor talentați locali.",
+            "en": "Admire the magnificent contemporary and classical artworks in this cultural haven, paying special attention to the nuanced lighting of local painters' masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Tommaso Apostolo",
+            "hu": "Basilica di San Tommaso Apostolo",
+            "ro": "Basilica di San Tommaso Apostolo",
+            "en": "Basilica di San Tommaso Apostolo"
+          },
+          "coords": [
+            14.404441,
+            42.357254
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Kathedrale, die die Reliquien des Apostels Thomas bewahrt, und bedecken Sie Ihre Schultern, bevor Sie die reich verzierte Krypta betreten.",
+            "hu": "Csodálja meg a Szent Tamás apostol ereklyéit őrző lenyűgöző katedrálist, de ne felejtse el eltakarni a vállát, mielőtt belépne a szent, díszes kriptába.",
+            "ro": "Admirați grandioasa catedrală ce adăpostește moaștele Sfântului Toma Apostolul și amintiți-vă să vă acoperiți umerii înainte de a intra în cripta sacră și ornată.",
+            "en": "Marvel at the grand cathedral safeguarding the relics of St. Thomas the Apostle, and remember to cover your shoulders before entering the sacred, ornate crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            14.406189,
+            42.358838
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante Küstenfestung mit Panoramablick auf die Adria, aber tragen Sie festes Schuhwerk, da die Steinwege sehr uneben und rutschig sein können.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti erődöt, ahonnan panorámás kilátás nyílik az Adriai-tengerre, de viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă impresionantă, ce oferă vederi panoramice spre Marea Adriatică, dar purtați încălțăminte robustă deoarece aleile sunt inegale.",
+            "en": "Explore this striking coastal fortress offering panoramic Adriatic Sea views, but wear sturdy walking shoes as the stone pathways can be quite uneven and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Ortona",
+            "hu": "Faro di Ortona",
+            "ro": "Faro di Ortona",
+            "en": "Faro di Ortona"
+          },
+          "coords": [
+            14.408576,
+            42.359108
+          ],
+          "category": "landmark",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang und beobachten Sie die Wellen am funktionierenden Leuchtturm. Bringen Sie eine leichte Jacke mit, da die Meeresbrise kühl werden kann.",
+            "hu": "Zárja a sétát a világítótorony közelében a hullámok játékát figyelve, és hozzon magával egy könnyű kabátot, mert a tengeri szellő meglepően hűvössé válhat.",
+            "ro": "Încheiați plimbarea privind valurile spărgându-se lângă acest far funcțional și luați o jachetă subțire, deoarece briza mării tinde să devină surprinzător de rece.",
+            "en": "End your walk watching the waves crash against the pier near this functional lighthouse, bringing a light jacket as the sea breeze tends to get surprisingly chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit feierlicher Besinnung am örtlichen Denkmal, bevor Sie im Museum zur Schlacht von Ortona tief in die packende Geschichte eintauchen.\n\nMittags erwartet Sie ein künstlerischer Wechsel in der Pinacoteca Cascella, gefolgt von der prächtigen Kathedrale, die antike Reliquien bewahrt.\n\nNachmittagsbrisen begrüßen Sie, während Sie die imposante aragonesische Burg erkunden, die über die spektakuläre Mittelmeerküste wacht.\n\nDer Abend endet in der Nähe des Hafens, wo Sie das Leuchten des Leuchtturms beobachten und den kühlen Adriawind spüren.",
+        "hu": "A reggel ünnepélyes elmélkedéssel indul a helyi emlékműnél, mielőtt elmerülne a második világháborús történelemben az ortonai csata múzeumában.\n\nA dél művészeti élményeket tartogat a Pinacoteca Cascella lenyűgöző gyűjteményével és az ősi ereklyéket őrző csodálatos helyi katedrális meglátogatásával.\n\nDélutáni szellő fogadja a fenséges aragóniai vár felfedezésekor, amely a város látványos mediterrán partvonala felett őrködik.\n\nAz este a kikötő közelében ér véget, ahol a világítótorony ritmikus villogása és a hűvös adriai szél békésen zárja le a tartalmas napot.",
+        "ro": "Dimineața începe cu o reflecție solemnă la memorialul local, înainte de a pătrunde adânc în istoria captivantă a celui de-Al Doilea Război Mondial la muzeul bătăliei.\n\nPrânzul aduce o schimbare artistică admirând lucrările de la Pinacoteca Cascella și vizitând grandioasa catedrală ce protejează relicve antice valoroase.\n\nBriza după-amiezii vă întâmpină explorând impunătorul Castel Aragonez, care stă de pază deasupra coastei mediteraneene spectaculoase a orașului.\n\nSeara se încheie lângă port, privind sclipirea ritmică a farului și simțind vântul răcoros al Adriaticii închizând blând o zi perfectă.",
+        "en": "Morning starts with solemn reflection at the local memorial before diving deep into the gripping WWII history at the Battle of Ortona Museum.\n\nMidday brings an artistic shift as you admire fine works at Pinacoteca Cascella and wander toward the grand cathedral safeguarding ancient relics.\n\nAfternoon breezes greet you as you explore the imposing Aragonese Castle, standing guard over the town's spectacular Mediterranean coastline.\n\nEvening concludes near the port, watching the rhythmic flash of the lighthouse and feeling the cool Adriatic wind gently close out the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria delle Grazie",
+            "hu": "Chiesa di Santa Maria delle Grazie",
+            "ro": "Chiesa di Santa Maria delle Grazie",
+            "en": "Chiesa di Santa Maria delle Grazie"
+          },
+          "coords": [
+            14.400688,
+            42.35479
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie ruhige Renaissance-Details in dieser friedlichen Kirche und sitzen Sie still in den hinteren Bänken, um die bemerkenswert authentische Atmosphäre aufzunehmen.",
+            "hu": "Fedezze fel a csendes reneszánsz részleteket ebben a békés templomban, és üljön le halkan a hátsó padokba, hogy teljesen magába szívja a spirituális légkört.",
+            "ro": "Descoperiți detalii renascentiste senine în această biserică pașnică și așezați-vă liniștit în ultimele rânduri pentru a absorbi atmosfera sa profund spirituală.",
+            "en": "Discover serene Renaissance details inside this peaceful church, and sit quietly in the back pews to fully absorb its remarkably authentic and spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti",
+            "hu": "Monumento ai Caduti",
+            "ro": "Monumento ai Caduti",
+            "en": "Monumento ai Caduti"
+          },
+          "coords": [
+            14.402825,
+            42.351895
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen an diesem feierlichen Denkmal, das Ortonas schwere Opfer im Zweiten Weltkrieg widerspiegelt, und halten Sie vor der Erkundung kurz inne.",
+            "hu": "Tisztelegjen az elesettek előtt ezen az ünnepélyes emlékművön, amely Ortona második világháborús áldozatait jelképezi, majd tartson egy kis csendes elmélkedést.",
+            "ro": "Onorați eroii căzuți la acest memorial solemn ce reflectă sacrificiile grele ale Ortonei din Al Doilea Război Mondial, luând un moment de liniște înaintea explorării.",
+            "en": "Honor the fallen at this solemn memorial reflecting Ortona's heavy WWII sacrifices, and take a moment of quiet reflection before exploring the nearby historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Battle of Ortona 1943 Museum",
+            "hu": "Battle of Ortona 1943 Museum",
+            "ro": "Battle of Ortona 1943 Museum",
+            "en": "Battle of Ortona 1943 Museum"
+          },
+          "coords": [
+            14.403659,
+            42.353112
+          ],
+          "category": "museum",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des kleinen Stalingrads durch fesselnde Artefakte ein, aber kommen Sie früh, um die detaillierten englischen Tafeln in Ruhe zu lesen.",
+            "hu": "Merüljön el a kis Sztálingrád megrázó történelmében a lebilincselő tárgyakon keresztül, de érkezzen korán, hogy kapkodás nélkül olvashassa el a feliratokat.",
+            "ro": "Aprofundați istoria cutremurătoare a Micului Stalingrad prin artefacte captivante, dar veniți devreme pentru a citi plăcuțele detaliate fără a vă simți grăbiți.",
+            "en": "Dive into the harrowing Little Stalingrad history through gripping artifacts, but arrive early to read the detailed English plaques without feeling overly rushed."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosa dei Venti",
+            "hu": "Rosa dei Venti",
+            "ro": "Rosa dei Venti",
+            "en": "Rosa dei Venti"
+          },
+          "coords": [
+            14.405809,
+            42.356637
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause an diesem schönen Aussichtspunkt mit herrlichem Meerblick und machen Sie ein Panoramabild, bevor die Mittagssonne die Farben verblasst.",
+            "hu": "Tartson egy jól megérdemelt szünetet ezen a gyönyörű kilátóponton, amely lenyűgöző tengeri panorámát kínál, és készítsen tökéletes fotót még a déli napfény előtt.",
+            "ro": "Luați o pauză binemeritată la acest punct de belvedere încântător ce oferă priveliști maritime uimitoare, surprinzând o fotografie panoramică perfectă.",
+            "en": "Take a well-deserved break at this lovely viewpoint offering stunning maritime vistas, capturing a perfect panoramic photo before the midday sun washes out the colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            14.406189,
+            42.358838
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante Küstenfestung mit Panoramablick auf die Adria, aber tragen Sie festes Schuhwerk, da die Steinwege sehr uneben und rutschig sein können.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti erődöt, ahonnan panorámás kilátás nyílik az Adriai-tengerre, de viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă impresionantă, ce oferă vederi panoramice spre Marea Adriatică, dar purtați încălțăminte robustă deoarece aleile sunt inegale.",
+            "en": "Explore this striking coastal fortress offering panoramic Adriatic Sea views, but wear sturdy walking shoes as the stone pathways can be quite uneven and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Eldorado",
+            "hu": "Lido Eldorado",
+            "ro": "Lido Eldorado",
+            "en": "Lido Eldorado"
+          },
+          "coords": [
+            14.412264,
+            42.345249
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses beliebten Strandclubs und mieten Sie am frühen Nachmittag eine bequeme Sonnenliege, um einen perfekten Platz zu sichern.",
+            "hu": "Pihenjen e népszerű strandklub homokos szakaszain, és béreljen kényelmes napágyat még kora délután, hogy garantáltan tökéletes, tengerparti helye legyen.",
+            "ro": "Relaxați-vă pe porțiunile de nisip ale acestui club de plajă popular, închiriind un șezlong confortabil la începutul după-amiezii pentru a garanta un loc la mare.",
+            "en": "Relax on the sandy stretches of this popular recreational beach club, renting a comfortable sunbed early in the afternoon to guarantee a perfect seafront spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt mit ruhigen Momenten in einer Renaissancekirche und führt dann über Plätze, die die Opfer der 40er Jahre ehren.\n\nDas Radeln am Mittag führt zum tiefgreifenden WWII-Museum, gefolgt von Küstenwegen, die spektakuläre Aussichtspunkte an der Rosa dei Venti bieten.\n\nNachmittags erreichen Sie die imposante aragonesische Burg, wo Sie Ihr Fahrrad abstellen und die historischen Steinwälle über dem Meer erkunden können.\n\nDer Abend lädt zu einer längeren Fahrt zum Lido Eldorado ein, um sich am Sandstrand auszuruhen, während die Sonne langsam am Horizont untergeht.",
+        "hu": "A reggeli tekerés békés pillanatokkal indul egy reneszánsz templomnál, majd olyan tereken gurul át, amelyek az 1940-es évek elveszett hősei előtt tisztelegnek.\n\nA déli kerékpározás a második világháborús múzeumhoz vezet, majd parti utakon halad tovább, lenyűgöző kilátást nyújtva a Rosa dei Venti pihenőnél.\n\nA délután az impozáns aragóniai várhoz vezet, ahol leparkolhatja a kerékpárt, és bebarangolhatja a tenger feletti történelmi kőbástyákat.\n\nAz este egy hosszabb útra csábít a Lido Eldorado felé, ahol a homokos tengerparton pihentetheti a lábát, miközben a mediterrán nap lassan leereszkedik.",
+        "ro": "Plimbarea matinală începe cu momente pașnice la o biserică renascentistă, alunecând apoi prin piețe ce onorează eroii din anii 1940 plini de turbulențe.\n\nCălătoria de la prânz duce la muzeul dedicat războiului, urmată de trasee de coastă ce oferă puncte de belvedere spectaculoase la Rosa dei Venti.\n\nDupă-amiaza vă aduce la impunătorul Castel Aragonez, unde vă puteți lăsa bicicleta pentru a explora zidurile istorice de piatră deasupra mării.\n\nSeara invită la o cursă mai lungă spre Lido Eldorado, odihnindu-vă pe plaja de nisip în timp ce priviți cum soarele mediteranean începe încet să apună.",
+        "en": "Your morning ride kicks off with peaceful moments at a Renaissance church, then glides through city squares honoring those lost during the turbulent 1940s.\n\nMidday pedaling leads to the profound WWII museum, followed by coastal paths offering spectacular vantage points at the Rosa dei Venti overlook.\n\nAfternoon brings you to the imposing Aragonese Castle, where you can park your bike and wander the historic stone ramparts above the sea.\n\nEvening invites a longer ride to Lido Eldorado, resting your legs on the sandy beach while watching the Mediterranean sun slowly begin to fade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 3.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Gully Battlefield",
+            "hu": "The Gully Battlefield",
+            "ro": "The Gully Battlefield",
+            "en": "The Gully Battlefield"
+          },
+          "coords": [
+            14.408976,
+            42.342267
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das unheimliche Gelände dieses wichtigen Schauplatzes des Zweiten Weltkriegs, lesen Sie die Tafeln und tragen Sie geeignetes Schuhwerk für das raue Gelände.",
+            "hu": "Sétáljon végig ezen a jelentős második világháborús ütközet kísérteties helyszínén, olvassa el a tájékoztatókat, és viseljen megfelelő lábbelit a durva terephez.",
+            "ro": "Plimbați-vă prin terenurile bântuitoare ale acestei majore bătălii din Al Doilea Război Mondial, citind panourile în timp ce purtați încălțăminte de exterior adecvată.",
+            "en": "Walk through the haunting grounds of this major WWII clash point, reading the informative markers while wearing appropriate footwear for the rough outdoor terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "28 Dicembre 1943",
+            "hu": "28 Dicembre 1943",
+            "ro": "28 Dicembre 1943",
+            "en": "28 Dicembre 1943"
+          },
+          "coords": [
+            14.392787,
+            42.347542
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden Denkmal die Ehre, das einen entscheidenden Tag in Ortonas Befreiung markiert, und nehmen Sie sich Zeit für die zivilen Opfer.",
+            "hu": "Rójja le tiszteletét ennél a megrendítő emlékműnél, amely Ortona felszabadulásának egyik sorsdöntő napját jelöli, időt szakítva a mély áldozatok csendes tiszteletére.",
+            "ro": "Aduceți-vă omagiile la acest memorial emoționant ce marchează o zi crucială în eliberarea Ortonei, luându-vă timp pentru a onora profundele sacrificii militare.",
+            "en": "Pay your respects at this poignant memorial marking a pivotal day in Ortona’s liberation, taking time to silently honor the profound civilian and military sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Carmine",
+            "hu": "Chiesa della Madonna del Carmine",
+            "ro": "Chiesa della Madonna del Carmine",
+            "en": "Chiesa della Madonna del Carmine"
+          },
+          "coords": [
+            14.401339,
+            42.357863
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Hingabe in dieser bezaubernden Viertelkirche, bemerken Sie die gut erhaltenen Fresken und bewahren Sie während Ihres Besuchs respektvolle Stille.",
+            "hu": "Tapasztalja meg a helyi áhítatot ebben a bájos szomszédsági templomban, figyelembe véve a gyönyörűen megőrzött freskókat, miközben tiszteletteljes csendet tart.",
+            "ro": "Experimentați devotamentul local în interiorul acestei fermecătoare biserici de cartier, remarcând frescele frumos conservate în timp ce păstrați liniștea.",
+            "en": "Experience local devotion inside this charming neighborhood church, noticing the beautifully preserved frescoes while maintaining a respectful silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Tommaso Apostolo",
+            "hu": "Basilica di San Tommaso Apostolo",
+            "ro": "Basilica di San Tommaso Apostolo",
+            "en": "Basilica di San Tommaso Apostolo"
+          },
+          "coords": [
+            14.404441,
+            42.357254
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Kathedrale, die die Reliquien des Apostels Thomas bewahrt, und bedecken Sie Ihre Schultern, bevor Sie die reich verzierte Krypta betreten.",
+            "hu": "Csodálja meg a Szent Tamás apostol ereklyéit őrző lenyűgöző katedrálist, de ne felejtse el eltakarni a vállát, mielőtt belépne a szent, díszes kriptába.",
+            "ro": "Admirați grandioasa catedrală ce adăpostește moaștele Sfântului Toma Apostolul și amintiți-vă să vă acoperiți umerii înainte de a intra în cripta sacră și ornată.",
+            "en": "Marvel at the grand cathedral safeguarding the relics of St. Thomas the Apostle, and remember to cover your shoulders before entering the sacred, ornate crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Aragonese",
+            "hu": "Castello Aragonese",
+            "ro": "Castello Aragonese",
+            "en": "Castello Aragonese"
+          },
+          "coords": [
+            14.406189,
+            42.358838
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese markante Küstenfestung mit Panoramablick auf die Adria, aber tragen Sie festes Schuhwerk, da die Steinwege sehr uneben und rutschig sein können.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti erődöt, ahonnan panorámás kilátás nyílik az Adriai-tengerre, de viseljen kényelmes cipőt az egyenetlen kőutak miatt.",
+            "ro": "Explorați această fortăreață de coastă impresionantă, ce oferă vederi panoramice spre Marea Adriatică, dar purtați încălțăminte robustă deoarece aleile sunt inegale.",
+            "en": "Explore this striking coastal fortress offering panoramic Adriatic Sea views, but wear sturdy walking shoes as the stone pathways can be quite uneven and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Ortona",
+            "hu": "Faro di Ortona",
+            "ro": "Faro di Ortona",
+            "en": "Faro di Ortona"
+          },
+          "coords": [
+            14.408576,
+            42.359108
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang und beobachten Sie die Wellen am funktionierenden Leuchtturm. Bringen Sie eine leichte Jacke mit, da die Meeresbrise kühl werden kann.",
+            "hu": "Zárja a sétát a világítótorony közelében a hullámok játékát figyelve, és hozzon magával egy könnyű kabátot, mert a tengeri szellő meglepően hűvössé válhat.",
+            "ro": "Încheiați plimbarea privind valurile spărgându-se lângă acest far funcțional și luați o jachetă subțire, deoarece briza mării tinde să devină surprinzător de rece.",
+            "en": "End your walk watching the waves crash against the pier near this functional lighthouse, bringing a light jacket as the sea breeze tends to get surprisingly chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt führt Sie direkt an den Stadtrand, um das unheimliche Gully-Schlachtfeld zu begehen und sich mit den Spuren des Zweiten Weltkriegs zu verbinden.\n\nMittags fahren Sie in die Stadt, um markante Kriegerdenkmäler und eine exquisite Viertelkirche zu besuchen, die für ihre ruhige Atmosphäre bekannt ist.\n\nDer Nachmittag konzentriert sich auf den historischen Kern mit Besuchen der prächtigen Basilika und der monumentalen aragonesischen Burg an der Felsküste.\n\nDer Abend endet in der Nähe des funktionierenden Leuchtturms, wo Sie nach einem kurzen Spaziergang vom Auto aus die frische Seeluft und den Hafenblick genießen.",
+        "hu": "A reggeli autózás egyenesen a külvárosba visz, hogy bejárja a megrázó Gully csatateret, mélyen átérezve a heves második világháborús harcok helyszínét.\n\nA dél közelebb hozza a belvároshoz, ahol feltűnő háborús emlékműveket és egy csendes, spirituális hangulatáról ismert, kiváló kerületi templomot látogat meg.\n\nA délután a történelmi központra összpontosít, zökkenőmentesen áttérve a lenyűgöző Bazilikára és a drámai sziklás partra néző monumentális aragóniai várra.\n\nAz este a működő világítótorony közelében zárul, lehetővé téve egy rövid sétát az autótól, hogy élvezze a friss tengeri levegőt és a kikötői kilátást.",
+        "ro": "Condusul matinal vă duce direct la periferie pentru a explora terenul de luptă Gully, conectându-vă profund cu pământul ce a văzut lupte crâncene în război.\n\nPrânzul vă aduce mai aproape de oraș pentru a vizita memoriale de război izbitoare și o biserică rafinată de cartier, cunoscută pentru liniștea sa.\n\nDupă-amiaza se concentrează pe centrul istoric, ajungând la grandioasa Basilică și monumentalul Castel Aragonez ce privește peste coasta stâncoasă dramatică.\n\nSeara se încheie lângă farul operațional, permițându-vă o scurtă plimbare de la mașină pentru a vă bucura de aerul rece și vederea portului.",
+        "en": "Morning driving takes you directly to the outskirts to walk the harrowing Gully Battlefield, connecting deeply with the land that saw fierce WWII combat.\n\nMidday brings you closer to town to visit striking wartime memorials and an exquisite neighborhood church known for its quiet, spiritual ambiance.\n\nAfternoon focuses on the historic core, hopping seamlessly to the grand Basilica and the monumental Aragonese Castle overlooking the dramatic rocky coast.\n\nEvening wraps up near the operational lighthouse, letting you take a short stroll from the car to enjoy the brisk sea air and sweeping port views."
+      }
+    }
+  }
+}

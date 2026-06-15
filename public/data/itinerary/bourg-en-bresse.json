@@ -1,0 +1,474 @@
+{
+  "city_id": "bourg-en-bresse",
+  "anchor": {
+    "name": "Bourg-en-Bresse",
+    "coords": [
+      5.2281,
+      46.2047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            5.22669,
+            46.205683
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses zentralen Gebäudes und prüfen Sie die Aushänge, um lokale Veranstaltungen während Ihres Besuchs zu entdecken.",
+            "hu": "Csodálja meg e központi épület klasszikus építészetét, és tekintse meg a hirdetőtáblákat a látogatása idején zajló helyi kulturális eseményekért.",
+            "ro": "Admirați arhitectura clasică a acestei clădiri civice centrale și verificați avizierele pentru evenimentele locale care au loc în timpul vizitei dumneavoastră.",
+            "en": "Admire the classical architecture of this central civic building, and check the notice boards for local events taking place during your visit to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame de Bourg",
+            "hu": "Bourg-i Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame din Bourg",
+            "en": "Notre-Dame Cathedral of Bourg"
+          },
+          "coords": [
+            5.227296,
+            46.20574
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissancefassade dieser Kathedrale und versuchen Sie, früh am Morgen zu kommen, wenn das Innere in ein weiches, sanftes Licht getaucht ist.",
+            "hu": "Csodálja meg e fenséges katedrális reneszánsz homlokzatát, és próbáljon kora reggel érkezni, amikor a belső teret gyönyörű, lágy fény árasztja el.",
+            "ro": "Minunați-vă de fațada renascentistă a acestei catedrale magnifice și încercați să o vizitați dimineața devreme, când interiorul este scăldat într-o lumină blândă.",
+            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobinertor",
+            "hu": "Jacobins-kapu",
+            "ro": "Poarta Iacobinilor",
+            "en": "Jacobins Gate"
+          },
+          "coords": [
+            5.226694,
+            46.203389
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen gut erhaltenen Überrest der mittelalterlichen Stadtmauer und nehmen Sie sich Zeit für die Plakette, die seine strategische Bedeutung erklärt.",
+            "hu": "Fedezze fel a középkori városfalak e jól megőrzött maradványát, és szánjon egy percet az emléktábla elolvasására, amely elmagyarázza annak stratégiai jelentőségét.",
+            "ro": "Descoperiți această rămășiță bine conservată a zidurilor medievale ale orașului și faceți-vă timp să citiți placa ce explică importanța sa istorică strategică.",
+            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Apotheke des Hôtel-Dieu",
+            "hu": "Hôtel-Dieu Patika",
+            "ro": "Farmacia Hôtel-Dieu",
+            "en": "Hôtel-Dieu Apothecary"
+          },
+          "coords": [
+            5.2333,
+            46.2005
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen erhaltenen Holzschränken und Gefäßen, aber denken Sie daran, dass das Fotografieren ohne Blitz oft erforderlich ist.",
+            "hu": "Lépjen vissza az időben a tökéletesen megőrzött faszekrények és üvegek között, de ne feledje, hogy a műtárgyak védelme érdekében vaku nélkül fényképezzen.",
+            "ro": "Pășiți înapoi în timp printre dulapurile și borcanele de lemn perfect conservate, dar rețineți că fotografierea fără bliț este necesară pentru a proteja obiectele.",
+            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Kloster von Brou",
+            "hu": "Brou Királyi Kolostor",
+            "ro": "Mănăstirea Regală din Brou",
+            "en": "Royal Monastery of Brou"
+          },
+          "coords": [
+            5.236213,
+            46.197983
+          ],
+          "category": "monastic",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
+            "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
+            "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Brou",
+            "hu": "Brou Múzeum",
+            "ro": "Muzeul din Brou",
+            "en": "Brou Museum"
+          },
+          "coords": [
+            5.2366,
+            46.1974
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch drei verschiedene Kreuzgänge mit umfangreichen Kunstsammlungen und lassen Sie schwere Rucksäcke an der Garderobe, um alles bequem zu betrachten.",
+            "hu": "Barangoljon a három különálló kolostor kiterjedt művészeti gyűjteményeiben, és hagyja nehéz hátizsákját a ruhatárban, hogy kényelmesen megtekinthesse a kiállításokat.",
+            "ro": "Plimbați-vă prin trei mănăstiri distincte care găzduiesc colecții de artă și lăsați rucsacurile grele la garderobă pentru a naviga confortabil printre exponate.",
+            "en": "Wander through three distinct cloisters housing extensive art collections, and leave your heavier backpacks in the cloakroom to comfortably navigate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Bourg-en-Bresse, bewundern Sie das Rathaus und betreten Sie die historische Kathedrale Notre-Dame. Schlendern Sie mittags am alten Jacobins-Tor vorbei und erkunden Sie die faszinierende Apotheke Hôtel-Dieu. Am Nachmittag können Sie das Königliche Kloster Brou bewundern, ein Meisterwerk der Flamboyant-Gotik. Beenden Sie Ihren Tag im Museum von Brou.",
+        "hu": "Kezdje a reggelt Bourg-en-Bresse szívében a városháza megcsodálásával, majd lépjen be a történelmi Notre-Dame katedrálisba. Délben sétáljon el az ősi Jacobins-kapu mellett, és fedezze fel a Hôtel-Dieu Patika lenyűgöző faszekrényeit. Délután csodálja meg a Brou Királyi Kolostort, amely a lángoló gótikus építészet remekműve. Sétáját este a Brou Múzeum gyűjteményeinek felfedezésével zárja.",
+        "ro": "Începeți dimineața în inima orașului Bourg-en-Bresse, admirând măreția Primăriei înainte de a păși în istorica Catedrală Notre-Dame. Până la prânz, treceți pe lângă vechea Poartă Jacobins și explorați fascinantele dulapuri ale Farmaciei Hôtel-Dieu. După-amiaza, minunați-vă de Mănăstirea Regală din Brou. Încheiați-vă plimbarea explorând colecțiile de artă din Muzeul Brou adiacent.",
+        "en": "Start your morning in the heart of Bourg-en-Bresse, admiring the civic grandeur of the Town Hall before stepping into the historic Notre-Dame Cathedral. By midday, wander past the ancient Jacobins Gate and explore the wooden cabinets of the Hôtel-Dieu Apothecary. In the afternoon, marvel at the Royal Monastery of Brou. Conclude your tour exploring the art collections within the Brou Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Theater von Bourg-en-Bresse",
+            "hu": "Bourg-en-Bresse-i Színház",
+            "ro": "Teatrul din Bourg-en-Bresse",
+            "en": "Bourg-en-Bresse Theater"
+          },
+          "coords": [
+            5.225506,
+            46.206483
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die kulturelle Atmosphäre dieses modernen Theaters und fragen Sie am Vormittag an der Kasse nach möglichen Last-Minute-Tickets für die Abendvorstellung.",
+            "hu": "Élvezze e modern előadó-művészeti helyszín vibráló kulturális atmoszféráját, és reggel érdeklődjön a jegypénztárnál az esetleges utolsó pillanatos belépőkért.",
+            "ro": "Bucurați-vă de atmosfera culturală vibrantă a acestui teatru modern și verificați casa de bilete dimineața pentru eventuale bilete de ultim moment la spectacole.",
+            "en": "Take in the vibrant cultural atmosphere of this modern performing arts venue, and check their box office in the morning for potential last-minute show tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobinertor",
+            "hu": "Jacobins-kapu",
+            "ro": "Poarta Iacobinilor",
+            "en": "Jacobins Gate"
+          },
+          "coords": [
+            5.226694,
+            46.203389
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen gut erhaltenen Überrest der mittelalterlichen Stadtmauer und nehmen Sie sich Zeit für die Plakette, die seine strategische Bedeutung erklärt.",
+            "hu": "Fedezze fel a középkori városfalak e jól megőrzött maradványát, és szánjon egy percet az emléktábla elolvasására, amely elmagyarázza annak stratégiai jelentőségét.",
+            "ro": "Descoperiți această rămășiță bine conservată a zidurilor medievale ale orașului și faceți-vă timp să citiți placa ce explică importanța sa istorică strategică.",
+            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Mechanographie",
+            "hu": "Mechanográfiai Múzeum",
+            "ro": "Muzeul de Mecanografie",
+            "en": "Musee de la Mecanographie"
+          },
+          "coords": [
+            5.231325,
+            46.202047
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte früher Schreibmaschinen ein und bitten Sie die sachkundigen Freiwilligen um eine kurze Vorführung der ältesten Geräte.",
+            "hu": "Merüljön el a korai számítástechnika és az írógépek lenyűgöző történetében, és kérjen az önkéntes személyzettől egy gyors bemutatót a legrégebbi gépekről.",
+            "ro": "Pătrundeți în istoria fascinantă a primelor mașini de scris și calculatoare și rugați personalul voluntar să vă ofere o scurtă demonstrație a celor mai vechi mașini.",
+            "en": "Delve into the fascinating history of early computing and typewriters, and ask the knowledgeable volunteer staff for a quick demonstration of the oldest machines."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Kloster von Brou",
+            "hu": "Brou Királyi Kolostor",
+            "ro": "Mănăstirea Regală din Brou",
+            "en": "Royal Monastery of Brou"
+          },
+          "coords": [
+            5.236213,
+            46.197983
+          ],
+          "category": "monastic",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
+            "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
+            "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pennesuyt",
+            "hu": "Pennesuyt Kastély",
+            "ro": "Castelul Pennesuyt",
+            "en": "Chateau de Pennesuyt"
+          },
+          "coords": [
+            5.254399,
+            46.201935
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses historischen Anwesens von außen und tragen Sie festes Schuhwerk, um die umliegenden Waldwege bequem zu erkunden.",
+            "hu": "Csodálja meg e történelmi birtok impozáns építészetét a pereméről, és viseljen masszív túracipőt, hogy kényelmesen felfedezhesse a környező erdei ösvényeket.",
+            "ro": "Admirați arhitectura impunătoare a acestui domeniu istoric din perimetrul său și purtați pantofi rezistenți pentru a explora confortabil cărările împădurite din jur.",
+            "en": "Admire the imposing architecture of this historical estate from its perimeter, and wear sturdy walking shoes to comfortably explore the surrounding wooded paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bouvent",
+            "hu": "Bouvent Szabadidőpark",
+            "ro": "Parcul de Agrement Bouvent",
+            "en": "Bouvent Leisure Park"
+          },
+          "coords": [
+            5.25953,
+            46.19161
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am See oder genießen Sie einen Spaziergang auf den Naturpfaden, und bringen Sie ein leichtes Picknick mit, das Sie an den Holztischen genießen können.",
+            "hu": "Pihenjen a tó partján, vagy tegyen egy kellemes sétát a gondozott tanösvényeken, és ne felejtsen el egy könnyű pikniket hozni, amit a kijelölt faasztaloknál elfogyaszthat.",
+            "ro": "Relaxați-vă lângă lac sau bucurați-vă de o plimbare pe potecile naturale bine întreținute și nu uitați să aduceți un picnic ușor pentru a-l savura la mesele de lemn.",
+            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit dem modernen Äußeren des Theaters von Bourg-en-Bresse, bevor Sie zum historischen Jacobins-Tor radeln. Schließen Sie mittags Ihr Fahrrad ab, um das faszinierende Musee de la Mecanographie zu erkunden. Am Nachmittag besuchen Sie das berühmte Königliche Kloster Brou und fahren dann etwas weiter zum imposanten Chateau de Pennesuyt. Beenden Sie Ihren aktiven Tag im Bouvent Leisure Park am ruhigen See.",
+        "hu": "Indítsa kerékpáros napját a Bourg-en-Bresse-i Színház modern külsejének megcsodálásával, mielőtt a történelmi Jacobins-kapuhoz tekerne. Délben zárja le kerékpárját, hogy felfedezze az izgalmas Musee de la Mecanographie-t. A délután az ikonikus Brou Királyi Kolostorhoz vezet, majd kissé kifelé, hogy megtekintse az impozáns Chateau de Pennesuyt-t. Aktív napját a Bouvent Szabadidőpark friss levegőjén fejezze be.",
+        "ro": "Începeți ziua de ciclism admirând exteriorul modern al Teatrului din Bourg-en-Bresse înainte de a pedala către istorica Poartă Jacobins. La prânz, asigurați-vă bicicleta pentru a explora Muzeul de Mecanografie. După-amiaza vă duce la emblematica Mănăstire Regală din Brou și apoi puțin mai departe pentru a vedea impunătorul Castel de Pennesuyt. Încheiați-vă ziua activă respirând aerul proaspăt din Parcul de Agrement Bouvent.",
+        "en": "Kick off your cycling day admiring the modern exterior of the Bourg-en-Bresse Theater before pedaling to the historic Jacobins Gate. By midday, lock your bike to explore the intriguing Musee de la Mecanographie and its vintage typewriters. Your afternoon takes you to the iconic Royal Monastery of Brou and then slightly outwards to view the imposing Chateau de Pennesuyt. End your active day breathing the fresh air at Bouvent Leisure Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Loras",
+            "hu": "Hôtel de Loras",
+            "ro": "Hôtel de Loras",
+            "en": "Hôtel de Loras"
+          },
+          "coords": [
+            5.222536,
+            46.205567
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das elegante Mauerwerk dieses Herrenhauses und fotografieren Sie die Fassade im Morgenlicht, wenn die architektonischen Details besonders gut zur Geltung kommen.",
+            "hu": "Figyelje meg e magánkúria elegáns kőművesmunkáját és klasszikus arányait, és fotózza le a homlokzatát a reggeli fényben, amikor az építészeti részletek kiemelkednek.",
+            "ro": "Observați zidăria elegantă și proporțiile clasice ale acestui conac privat și fotografiați fațada sa în lumina dimineții, când detaliile arhitecturale ies în evidență.",
+            "en": "Observe the elegant stonework and classical proportions of this private mansion, and capture its facade in the morning light when the architectural details pop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame de Bourg",
+            "hu": "Bourg-i Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame din Bourg",
+            "en": "Notre-Dame Cathedral of Bourg"
+          },
+          "coords": [
+            5.227296,
+            46.20574
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissancefassade dieser Kathedrale und versuchen Sie, früh am Morgen zu kommen, wenn das Innere in ein weiches, sanftes Licht getaucht ist.",
+            "hu": "Csodálja meg e fenséges katedrális reneszánsz homlokzatát, és próbáljon kora reggel érkezni, amikor a belső teret gyönyörű, lágy fény árasztja el.",
+            "ro": "Minunați-vă de fațada renascentistă a acestei catedrale magnifice și încercați să o vizitați dimineața devreme, când interiorul este scăldat într-o lumină blândă.",
+            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Apotheke des Hôtel-Dieu",
+            "hu": "Hôtel-Dieu Patika",
+            "ro": "Farmacia Hôtel-Dieu",
+            "en": "Hôtel-Dieu Apothecary"
+          },
+          "coords": [
+            5.2333,
+            46.2005
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen erhaltenen Holzschränken und Gefäßen, aber denken Sie daran, dass das Fotografieren ohne Blitz oft erforderlich ist.",
+            "hu": "Lépjen vissza az időben a tökéletesen megőrzött faszekrények és üvegek között, de ne feledje, hogy a műtárgyak védelme érdekében vaku nélkül fényképezzen.",
+            "ro": "Pășiți înapoi în timp printre dulapurile și borcanele de lemn perfect conservate, dar rețineți că fotografierea fără bliț este necesară pentru a proteja obiectele.",
+            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Kloster von Brou",
+            "hu": "Brou Királyi Kolostor",
+            "ro": "Mănăstirea Regală din Brou",
+            "en": "Royal Monastery of Brou"
+          },
+          "coords": [
+            5.236213,
+            46.197983
+          ],
+          "category": "monastic",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
+            "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
+            "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bouvent",
+            "hu": "Bouvent Szabadidőpark",
+            "ro": "Parcul de Agrement Bouvent",
+            "en": "Bouvent Leisure Park"
+          },
+          "coords": [
+            5.25953,
+            46.19161
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am See oder genießen Sie einen Spaziergang auf den Naturpfaden, und bringen Sie ein leichtes Picknick mit, das Sie an den Holztischen genießen können.",
+            "hu": "Pihenjen a tó partján, vagy tegyen egy kellemes sétát a gondozott tanösvényeken, és ne felejtsen el egy könnyű pikniket hozni, amit a kijelölt faasztaloknál elfogyaszthat.",
+            "ro": "Relaxați-vă lângă lac sau bucurați-vă de o plimbare pe potecile naturale bine întreținute și nu uitați să aduceți un picnic ușor pentru a-l savura la mesele de lemn.",
+            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables."
+          }
+        },
+        {
+          "name": {
+            "de": "Taschentheater",
+            "hu": "Zsebszínház",
+            "ro": "Teatrul de Buzunar",
+            "en": "Theatre de Poche"
+          },
+          "coords": [
+            5.218616,
+            46.197942
+          ],
+          "category": "cultural",
+          "arrive_at": "16:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieses charmanten kleinen Taschentheaters und besuchen Sie danach die angrenzenden Cafés, um bei einem Kaffee über Kultur zu plaudern.",
+            "hu": "Szívja magába e bájos kis zsebszínház intim atmoszféráját, majd térjen be a szomszédos kávézókba, hogy egy kávé mellett megvitassa a helyi kulturális életet.",
+            "ro": "Impregnați-vă de atmosfera intimă a acestui mic teatru de buzunar fermecător și treceți apoi pe la cafenelele adiacente pentru a discuta despre scena culturală locală.",
+            "en": "Soak in the intimate atmosphere of this charming little pocket theater, and drop by the adjacent cafes afterward to discuss the local cultural scene over coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am eleganten Hotel de Loras und bewundern Sie dessen klassische Fassade, bevor Sie einen kurzen Halt an der Kathedrale Notre-Dame einlegen. Mittags besuchen Sie die perfekt erhaltene Apotheke Hôtel-Dieu und fahren dann kurz zum unumgänglichen Königlichen Kloster Brou. Verbringen Sie den Nachmittag in der Natur des schönen Freizeitparks Bouvent. Beenden Sie Ihren Tagesausflug mit einer Fahrt zum Theatre de Poche.",
+        "hu": "Kezdje autós túráját az elegáns Hotel de Loras-nál, majd tegyen egy rövid megállót a csodálatos Notre-Dame katedrálisnál. A dél a tökéletesen megőrzött Hôtel-Dieu Patikához vezet, amelyet egy rövid út követ a kihagyhatatlan Brou Királyi Kolostorhoz. Töltse a délutánt a természetben, a központon kívül fekvő gyönyörű Bouvent Szabadidőparkban. Zárja egynapos kirándulását azzal, hogy visszavezet a városba a bájos Theatre de Poche közelébe.",
+        "ro": "Începeți turul cu mașina la elegantul Hotel de Loras, admirându-i fațada clasică înainte de o scurtă oprire la magnifica Catedrală Notre-Dame. Amiaza vă aduce la Farmacia Hôtel-Dieu perfect conservată, urmată de o scurtă plimbare până la Mănăstirea Regală din Brou. Petreceți-vă după-amiaza bucurându-vă de natură în frumosul Parc de Agrement Bouvent de la marginea orașului. Încheiați-vă excursia conducând înapoi pentru o seară lângă Theatre de Poche.",
+        "en": "Begin your driving tour at the elegant Hotel de Loras, soaking in its classical facade before a quick stop at the magnificent Notre-Dame Cathedral. Midday brings you to the perfectly preserved Hôtel-Dieu Apothecary, followed by a short drive to the unmissable Royal Monastery of Brou. Spend your afternoon enjoying nature and open spaces at the beautiful Bouvent Leisure Park just outside the center. Conclude your day trip near the charming Theatre de Poche."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "indonesia-pulau-weh-cities-v2",
+  "anchor": {
+    "name": "Pulau Weh",
+    "coords": [
+      95.313267,
+      5.834853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cot Labubau",
+            "hu": "Cot Labubau",
+            "ro": "Cot Labubau",
+            "en": "Cot Labubau"
+          },
+          "coords": [
+            95.324444,
+            5.856667
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur auf dem Cot Labubau, der perfekte Fotomotive bietet, aber vergessen Sie Ihr Mückenspray für diesen Ausflug nicht.",
+            "hu": "Élvezze az érintetlen természetet a Cot Labubau dombvidékén, amely tökéletes fotótémákat kínál, de mindenképpen hozzon magával szúnyogriasztót.",
+            "ro": "Bucurați-vă de peisajele naturale virgine de la Cot Labubau, un loc perfect pentru fotografii, dar nu uitați să luați cu dumneavoastră un spray repelent.",
+            "en": "Enjoy the pristine natural views from Cot Labubau, a serene spot that offers perfect photo opportunities, but remember to bring mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Teupin Panah",
+            "hu": "Cot Teupin Panah",
+            "ro": "Cot Teupin Panah",
+            "en": "Cot Teupin Panah"
+          },
+          "coords": [
+            95.313663,
+            5.858622
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die üppige Küstenvegetation am Cot Teupin Panah, einem idealen Ort zur Vogelbeobachtung, wofür Sie am besten ein Fernglas einpacken.",
+            "hu": "Csodálja meg a buja tengerparti növényzetet a Cot Teupin Panah területén, amely ideális madármegfigyeléshez, ezért hozzon magával távcsövet.",
+            "ro": "Admirați vegetația luxuriantă de coastă la Cot Teupin Panah, un loc ideal pentru observarea păsărilor, așa că împachetați un binoclu pentru vizită.",
+            "en": "Admire the lush coastal vegetation at Cot Teupin Panah, an ideal spot for birdwatching, so pack your binoculars for the best experience here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Drien Klah",
+            "hu": "Cot Drien Klah",
+            "ro": "Cot Drien Klah",
+            "en": "Cot Drien Klah"
+          },
+          "coords": [
+            95.308342,
+            5.854327
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Landschaften des Cot Drien Klah, die den wahren Geist der Insel einfangen, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Tapasztalja meg a Cot Drien Klah érintetlen tájainak nyers szépségét, amely tökéletesen tükrözi a sziget szellemét, és viseljen kényelmes túracipőt.",
+            "ro": "Experimentați frumusețea brută a peisajelor neatinse de la Cot Drien Klah, care captează perfect spiritul insulei, și purtați încălțăminte robustă.",
+            "en": "Experience the raw beauty of Cot Drien Klah's untouched landscapes, which perfectly capture the island's spirit, and wear sturdy shoes for walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Krueng",
+            "hu": "Teluk Teupin Krueng",
+            "ro": "Teluk Teupin Krueng",
+            "en": "Teluk Teupin Krueng"
+          },
+          "coords": [
+            95.288889,
+            5.844722
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Gewässer des Teluk Teupin Krueng, einer herrlichen Bucht, die sich am Nachmittag hervorragend zum Schnorcheln anbietet.",
+            "hu": "Fedezze fel a Teluk Teupin Krueng nyugodt vizeit, egy lenyűgöző öblöt, amely a délutáni órákban kiválóan alkalmas egy frissítő sznorkelezésre.",
+            "ro": "Descoperiți apele calme din Teluk Teupin Krueng, un golf magnific, fiind o destinație de neratat pentru o sesiune de snorkeling după-amiaza.",
+            "en": "Discover the calm waters of Teluk Teupin Krueng, a magnificent natural bay with rich marine life, making it a must-visit for afternoon snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterwasservulkan",
+            "hu": "Víz alatti vulkán",
+            "ro": "Vulcanul Subacvatic",
+            "en": "Underwater Volcano"
+          },
+          "coords": [
+            95.287544,
+            5.840892
+          ],
+          "category": "landmark",
+          "arrive_at": "15:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das einzigartige geologische Wunder des Unterwasservulkans mit seinen blubbernden Quellen, das am besten mit einem Guide erkundet wird.",
+            "hu": "Csodálja meg a víz alatti vulkán geológiai csodáját és a pezsgő hőforrásokat, amelyeket a legbiztonságosabb egy helyi búvárvezetővel felfedezni.",
+            "ro": "Minunați-vă de minunea geologică unică a Vulcanului Subacvatic cu izvoarele sale termale, cel mai bine explorat alături de un ghid de scufundări.",
+            "en": "Marvel at the unique geological wonder of the Underwater Volcano with its fascinating bubbling thermal vents, best explored with a local dive guide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang in den üppigen nördlichen Hügeln und genießen Sie die unberührte Natur des Cot Labubau.\n\nGegen Mittag setzen Sie Ihre Wanderung zum Cot Teupin Panah und Cot Drien Klah fort, wo die kühlende Meeresbrise Erfrischung bietet.\n\nAm Nachmittag steigen Sie zur westlichen Bucht von Teluk Teupin Krueng hinab, wo ruhiges Wasser zu einer erholsamen Pause am Strand einlädt.\n\nBeenden Sie Ihren Tag am spektakulären Unterwasservulkan, dessen geothermale Aktivität bei Sonnenuntergang für einen unvergesslichen Abschluss sorgt.",
+        "hu": "Kezdje a gyalogtúrát az északi buja dombokon, és élvezze a Cot Labubau érintetlen természeti szépségét a reggeli napfényben.\n\nDél közeledtével folytassa útját a Cot Teupin Panah és a Cot Drien Klah felé, ahol a hűsítő tengeri szellő kíséri a túrát.\n\nDélután ereszkedjen le a Teluk Teupin Krueng nyugati öbléhez, ahol a kristálytiszta, nyugodt víz tökéletes pihenést kínál.\n\nZárja a napot a lenyűgöző víz alatti vulkánnál, amelynek geotermikus jelenségei a naplemente fényeiben felejthetetlen élményt nyújtanak.",
+        "ro": "Începeți turul de mers pe jos traversând dealurile nordice luxuriante, admirând frumusețea naturală virgină de la Cot Labubau.\n\nSpre prânz, continuați-vă drumeția spre Cot Teupin Panah și Cot Drien Klah, unde briza de coastă oferă o ușurare binevenită.\n\nDupă-amiaza, coborâți spre golful vestic Teluk Teupin Krueng, ale cărui ape calme vă invită să vă odihniți picioarele obosite.\n\nÎncheiați-vă ziua la incredibilul Vulcan Subacvatic, o minune geotermală care oferă un final de zi cu adevărat dramatic și de neuitat.",
+        "en": "Begin your walking tour traversing the lush northern hills, taking in the serene natural beauty of Cot Labubau in the morning light.\n\nAs midday approaches, continue your trek towards Cot Teupin Panah and Cot Drien Klah, where the coastal breeze provides welcome relief.\n\nIn the afternoon, descend towards the western bay of Teluk Teupin Krueng, where calm waters invite you to rest your feet.\n\nConclude your day at the incredible Underwater Volcano, a geothermal marvel that provides an unforgettable and dramatic end to your island adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cot Abe Ukee",
+            "hu": "Cot Abe Ukee",
+            "ro": "Cot Abe Ukee",
+            "en": "Cot Abe Ukee"
+          },
+          "coords": [
+            95.335156,
+            5.826185
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie das weite Panorama am Cot Abe Ukee, einem hochgelegenen natürlichen Aussichtspunkt, der sich perfekt für einen Besuch am frühen Morgen eignet.",
+            "hu": "Gyönyörködjön a széles panorámában a Cot Abe Ukee dombon, egy magaslati természetes kilátóponton, amely ideális a kora reggeli látogatáshoz.",
+            "ro": "Admirați panoramele ample de la Cot Abe Ukee, un punct de belvedere natural la altitudine, ideal pentru o vizită dis-de-dimineață.",
+            "en": "Take in the sweeping panoramas at Cot Abe Ukee, an elevated natural vantage point offering spectacular views, ideal for an early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Mapadon",
+            "hu": "Cot Mapadon",
+            "ro": "Cot Mapadon",
+            "en": "Cot Mapadon"
+          },
+          "coords": [
+            95.329306,
+            5.822709
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das raue Gelände des Cot Mapadon, um die einheimische Flora zu beobachten, und nehmen Sie stets ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a Cot Mapadon egyenetlen terepét az őshonos növényvilág megfigyeléséhez, és mindenképpen vigyen magával elegendő ivóvizet.",
+            "ro": "Explorați terenul accidentat de la Cot Mapadon pentru a observa flora nativă în habitatul ei și asigurați-vă că transportați multă apă potabilă.",
+            "en": "Explore the rugged terrain of Cot Mapadon to witness native flora in its undisturbed habitat, and be sure to carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Lueng Angen",
+            "hu": "Cot Lueng Angen",
+            "ro": "Cot Lueng Angen",
+            "en": "Cot Lueng Angen"
+          },
+          "coords": [
+            95.326051,
+            5.83405
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresbrise am Cot Lueng Angen ein, einer ruhigen Oase abseits der Massen, perfekt für ein entspanntes Picknick zur Mittagszeit.",
+            "hu": "Szívja magába a friss óceáni szellőt a Cot Lueng Angen dombon, egy tömegtől távoli békés menedéken, amely tökéletes egy déli piknikhez.",
+            "ro": "Respirați briza proaspătă a oceanului la Cot Lueng Angen, un refugiu natural liniștit, perfect pentru o pauză de picnic la amiază.",
+            "en": "Breathe in the fresh ocean breeze at Cot Lueng Angen, a tranquil natural haven away from the crowds, perfect for a peaceful midday picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Labubau",
+            "hu": "Cot Labubau",
+            "ro": "Cot Labubau",
+            "en": "Cot Labubau"
+          },
+          "coords": [
+            95.324444,
+            5.856667
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur auf dem Cot Labubau, der perfekte Fotomotive bietet, aber vergessen Sie Ihr Mückenspray für diesen Ausflug nicht.",
+            "hu": "Élvezze az érintetlen természetet a Cot Labubau dombvidékén, amely tökéletes fotótémákat kínál, de mindenképpen hozzon magával szúnyogriasztót.",
+            "ro": "Bucurați-vă de peisajele naturale virgine de la Cot Labubau, un loc perfect pentru fotografii, dar nu uitați să luați cu dumneavoastră un spray repelent.",
+            "en": "Enjoy the pristine natural views from Cot Labubau, a serene spot that offers perfect photo opportunities, but remember to bring mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Teupin Panah",
+            "hu": "Cot Teupin Panah",
+            "ro": "Cot Teupin Panah",
+            "en": "Cot Teupin Panah"
+          },
+          "coords": [
+            95.313663,
+            5.858622
+          ],
+          "category": "natural",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die üppige Küstenvegetation am Cot Teupin Panah, einem idealen Ort zur Vogelbeobachtung, wofür Sie am besten ein Fernglas einpacken.",
+            "hu": "Csodálja meg a buja tengerparti növényzetet a Cot Teupin Panah területén, amely ideális madármegfigyeléshez, ezért hozzon magával távcsövet.",
+            "ro": "Admirați vegetația luxuriantă de coastă la Cot Teupin Panah, un loc ideal pentru observarea păsărilor, așa că împachetați un binoclu pentru vizită.",
+            "en": "Admire the lush coastal vegetation at Cot Teupin Panah, an ideal spot for birdwatching, so pack your binoculars for the best experience here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Drien Klah",
+            "hu": "Cot Drien Klah",
+            "ro": "Cot Drien Klah",
+            "en": "Cot Drien Klah"
+          },
+          "coords": [
+            95.308342,
+            5.854327
+          ],
+          "category": "natural",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Landschaften des Cot Drien Klah, die den wahren Geist der Insel einfangen, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Tapasztalja meg a Cot Drien Klah érintetlen tájainak nyers szépségét, amely tökéletesen tükrözi a sziget szellemét, és viseljen kényelmes túracipőt.",
+            "ro": "Experimentați frumusețea brută a peisajelor neatinse de la Cot Drien Klah, care captează perfect spiritul insulei, și purtați încălțăminte robustă.",
+            "en": "Experience the raw beauty of Cot Drien Klah's untouched landscapes, which perfectly capture the island's spirit, and wear sturdy shoes for walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Krueng",
+            "hu": "Teluk Teupin Krueng",
+            "ro": "Teluk Teupin Krueng",
+            "en": "Teluk Teupin Krueng"
+          },
+          "coords": [
+            95.288889,
+            5.844722
+          ],
+          "category": "landmark",
+          "arrive_at": "17:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Gewässer des Teluk Teupin Krueng, einer herrlichen Bucht, die sich am späten Nachmittag hervorragend zum Entspannen anbietet.",
+            "hu": "Fedezze fel a Teluk Teupin Krueng nyugodt vizeit, egy lenyűgöző öblöt, amely a késő délutáni órákban kiválóan alkalmas a teljes kikapcsolódásra.",
+            "ro": "Descoperiți apele calme din Teluk Teupin Krueng, un golf magnific, fiind o destinație perfectă pentru o sesiune relaxantă de seară.",
+            "en": "Discover the calm waters of Teluk Teupin Krueng, a magnificent natural bay with rich marine life, making it a perfect final stop to unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour in den südöstlichen Höhen bei Cot Abe Ukee und Cot Mapadon, wo Sie frische Morgenluft und fantastische Panoramen erwarten.\n\nZur Mittagszeit radeln Sie gemütlich zum Cot Lueng Angen, dessen kühler Meereswind eine herrliche Erfrischung vor dem nächsten Etappenziel bietet.\n\nAm Nachmittag führt Sie die Route in den üppigen Norden zu Cot Labubau, Cot Teupin Panah und Cot Drien Klah, allesamt ruhige Naturparadiese.\n\nIhre Tour endet entspannt in der Bucht von Teluk Teupin Krueng, wo Sie den Tag am ruhigen Wasser mit Blick auf den Sonnenuntergang ausklingen lassen.",
+        "hu": "Kezdje kerékpártúráját a délkeleti magaslatokon, a Cot Abe Ukee és a Cot Mapadon környékén, ahol friss reggeli levegő és lenyűgöző panoráma várja.\n\nDélben tekerjen el a Cot Lueng Angen békés dombjához, ahol a tengerparti szellő kiváló felfrissülést nyújt az ebédidőben.\n\nDélután fedezze fel az északi rész buja természeti pontjait, mint a Cot Labubau, a Cot Teupin Panah és a Cot Drien Klah, amelyek mind érintetlen csodák.\n\nTúrája a Teluk Teupin Krueng nyugodt öblében ér véget, ahol a naplementét csodálva pihenheti ki a nap kellemes fáradalmait.",
+        "ro": "Începeți turul cu bicicleta în zonele înalte de sud-est, la Cot Abe Ukee și Cot Mapadon, unde vă așteaptă aerul proaspăt și panorame fantastice.\n\nLa prânz, pedalați ușor spre Cot Lueng Angen, unde briza răcoroasă a oceanului oferă o împrospătare perfectă înaintea următoarei etape.\n\nDupă-amiaza, traseul vă duce spre nordul luxuriant la Cot Labubau, Cot Teupin Panah și Cot Drien Klah, toate fiind paradisuri naturale liniștite.\n\nTurul se încheie relaxant în golful Teluk Teupin Krueng, unde puteți admira apusul soarelui reflectat în apele blânde și calme.",
+        "en": "Start your cycling tour in the southeastern heights at Cot Abe Ukee and Cot Mapadon, enjoying fresh morning air and sweeping island panoramas.\n\nBy midday, pedal your way to the peaceful Cot Lueng Angen, where the cool ocean breeze provides the perfect setting for a restful break.\n\nIn the afternoon, your route leads north to Cot Labubau, Cot Teupin Panah, and Cot Drien Klah, uncovering the island's untouched natural havens.\n\nYour ride gracefully concludes at the calm bay of Teluk Teupin Krueng, an idyllic spot to unwind and watch the sun dip below the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:39",
+      "total_km": 10.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Cot Leumo Mate",
+            "hu": "Cot Leumo Mate",
+            "ro": "Cot Leumo Mate",
+            "en": "Cot Leumo Mate"
+          },
+          "coords": [
+            95.31859,
+            5.813296
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Cot Leumo Mate, wo atemberaubende Küstenklippen auf das Meer treffen, eine perfekte Kulisse für Ihre ersten Urlaubsfotos.",
+            "hu": "Kezdje útját a Cot Leumo Mate-nál, ahol a lenyűgöző tengerparti sziklák találkoznak a tengerrel, tökéletes hátteret adva az első nyaralási fotóknak.",
+            "ro": "Începeți la Cot Leumo Mate, unde stâncile de coastă se întâlnesc cu marea, oferind un fundal uimitor pentru primele fotografii de vacanță.",
+            "en": "Start your journey at Cot Leumo Mate, where breathtaking coastal cliffs meet the sea, offering a stunning backdrop for your first vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Mapadon",
+            "hu": "Cot Mapadon",
+            "ro": "Cot Mapadon",
+            "en": "Cot Mapadon"
+          },
+          "coords": [
+            95.329306,
+            5.822709
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das raue Gelände des Cot Mapadon, um die einheimische Flora zu beobachten, und nehmen Sie stets ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a Cot Mapadon egyenetlen terepét az őshonos növényvilág megfigyeléséhez, és mindenképpen vigyen magával elegendő ivóvizet.",
+            "ro": "Explorați terenul accidentat de la Cot Mapadon pentru a observa flora nativă în habitatul ei și asigurați-vă că transportați multă apă potabilă.",
+            "en": "Explore the rugged terrain of Cot Mapadon to witness native flora in its undisturbed habitat, and be sure to carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Abe Ukee",
+            "hu": "Cot Abe Ukee",
+            "ro": "Cot Abe Ukee",
+            "en": "Cot Abe Ukee"
+          },
+          "coords": [
+            95.335156,
+            5.826185
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das weite Panorama am Cot Abe Ukee, einem hochgelegenen natürlichen Aussichtspunkt, der sich perfekt für einen Besuch am frühen Morgen eignet.",
+            "hu": "Gyönyörködjön a széles panorámában a Cot Abe Ukee dombon, egy magaslati természetes kilátóponton, amely ideális a kora reggeli látogatáshoz.",
+            "ro": "Admirați panoramele ample de la Cot Abe Ukee, un punct de belvedere natural la altitudine, ideal pentru o vizită dis-de-dimineață.",
+            "en": "Take in the sweeping panoramas at Cot Abe Ukee, an elevated natural vantage point offering spectacular views, ideal for an early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Lueng Angen",
+            "hu": "Cot Lueng Angen",
+            "ro": "Cot Lueng Angen",
+            "en": "Cot Lueng Angen"
+          },
+          "coords": [
+            95.326051,
+            5.83405
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresbrise am Cot Lueng Angen ein, einer ruhigen Oase abseits der Massen, perfekt für ein entspanntes Picknick zur Mittagszeit.",
+            "hu": "Szívja magába a friss óceáni szellőt a Cot Lueng Angen dombon, egy tömegtől távoli békés menedéken, amely tökéletes egy déli piknikhez.",
+            "ro": "Respirați briza proaspătă a oceanului la Cot Lueng Angen, un refugiu natural liniștit, perfect pentru o pauză de picnic la amiază.",
+            "en": "Breathe in the fresh ocean breeze at Cot Lueng Angen, a tranquil natural haven away from the crowds, perfect for a peaceful midday picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Labubau",
+            "hu": "Cot Labubau",
+            "ro": "Cot Labubau",
+            "en": "Cot Labubau"
+          },
+          "coords": [
+            95.324444,
+            5.856667
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur auf dem Cot Labubau, der perfekte Fotomotive bietet, aber vergessen Sie Ihr Mückenspray für diesen Ausflug nicht.",
+            "hu": "Élvezze az érintetlen természetet a Cot Labubau dombvidékén, amely tökéletes fotótémákat kínál, de mindenképpen hozzon magával szúnyogriasztót.",
+            "ro": "Bucurați-vă de peisajele naturale virgine de la Cot Labubau, un loc perfect pentru fotografii, dar nu uitați să luați cu dumneavoastră un spray repelent.",
+            "en": "Enjoy the pristine natural views from Cot Labubau, a serene spot that offers perfect photo opportunities, but remember to bring mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Teupin Panah",
+            "hu": "Cot Teupin Panah",
+            "ro": "Cot Teupin Panah",
+            "en": "Cot Teupin Panah"
+          },
+          "coords": [
+            95.313663,
+            5.858622
+          ],
+          "category": "natural",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die üppige Küstenvegetation am Cot Teupin Panah, einem idealen Ort zur Vogelbeobachtung, wofür Sie am besten ein Fernglas einpacken.",
+            "hu": "Csodálja meg a buja tengerparti növényzetet a Cot Teupin Panah területén, amely ideális madármegfigyeléshez, ezért hozzon magával távcsövet.",
+            "ro": "Admirați vegetația luxuriantă de coastă la Cot Teupin Panah, un loc ideal pentru observarea păsărilor, așa că împachetați un binoclu pentru vizită.",
+            "en": "Admire the lush coastal vegetation at Cot Teupin Panah, an ideal spot for birdwatching, so pack your binoculars for the best experience here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cot Drien Klah",
+            "hu": "Cot Drien Klah",
+            "ro": "Cot Drien Klah",
+            "en": "Cot Drien Klah"
+          },
+          "coords": [
+            95.308342,
+            5.854327
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Landschaften des Cot Drien Klah, die den wahren Geist der Insel einfangen, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Tapasztalja meg a Cot Drien Klah érintetlen tájainak nyers szépségét, amely tökéletesen tükrözi a sziget szellemét, és viseljen kényelmes túracipőt.",
+            "ro": "Experimentați frumusețea brută a peisajelor neatinse de la Cot Drien Klah, care captează perfect spiritul insulei, și purtați încălțăminte robustă.",
+            "en": "Experience the raw beauty of Cot Drien Klah's untouched landscapes, which perfectly capture the island's spirit, and wear sturdy shoes for walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Teluk Teupin Krueng",
+            "hu": "Teluk Teupin Krueng",
+            "ro": "Teluk Teupin Krueng",
+            "en": "Teluk Teupin Krueng"
+          },
+          "coords": [
+            95.288889,
+            5.844722
+          ],
+          "category": "landmark",
+          "arrive_at": "16:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Gewässer des Teluk Teupin Krueng, einer herrlichen Bucht, die sich am Nachmittag hervorragend zum Entspannen anbietet.",
+            "hu": "Fedezze fel a Teluk Teupin Krueng nyugodt vizeit, egy lenyűgöző öblöt, amely a délutáni órákban kiválóan alkalmas a teljes kikapcsolódásra.",
+            "ro": "Descoperiți apele calme din Teluk Teupin Krueng, un golf magnific, fiind o destinație perfectă pentru o sesiune relaxantă de după-amiază.",
+            "en": "Discover the calm waters of Teluk Teupin Krueng, a magnificent natural bay with rich marine life, making it a perfect spot to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterwasservulkan",
+            "hu": "Víz alatti vulkán",
+            "ro": "Vulcanul Subacvatic",
+            "en": "Underwater Volcano"
+          },
+          "coords": [
+            95.287544,
+            5.840892
+          ],
+          "category": "landmark",
+          "arrive_at": "17:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das einzigartige geologische Wunder des Unterwasservulkans mit seinen blubbernden Quellen, das am besten mit einem Guide erkundet wird.",
+            "hu": "Csodálja meg a víz alatti vulkán geológiai csodáját és a pezsgő hőforrásokat, amelyeket a legbiztonságosabb egy helyi búvárvezetővel felfedezni.",
+            "ro": "Minunați-vă de minunea geologică unică a Vulcanului Subacvatic cu izvoarele sale termale, cel mai bine explorat alături de un ghid de scufundări.",
+            "en": "Marvel at the unique geological wonder of the Underwater Volcano with its fascinating bubbling thermal vents, best explored with a local dive guide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt dramatisch an den beeindruckenden südlichen Klippen von Cot Leumo Mate, bevor Sie ins Landesinnere zum Cot Mapadon und Cot Abe Ukee fahren.\n\nAm Mittag überqueren Sie die Insel in Richtung Cot Lueng Angen und Cot Labubau, wobei das Auto bequeme Wechsel zwischen diesen unberührten Naturwundern ermöglicht.\n\nDer Nachmittag ist den malerischen nördlichen Kaps bei Cot Teupin Panah und Cot Drien Klah gewidmet, wo Sie die reiche Flora der Insel bequem erkunden können.\n\nZum Abend hin fahren Sie an die Westküste zu den ruhigen Gewässern des Teluk Teupin Krueng und beenden den Tag am faszinierenden Unterwasservulkan.",
+        "hu": "Autós túrája drámai módon a Cot Leumo Mate déli szikláinál indul, mielőtt befelé, a Cot Mapadon és a Cot Abe Ukee dombok felé venné az irányt.\n\nDélben a szigetet átszelve a Cot Lueng Angen és a Cot Labubau felé halad, élvezve a kényelmes utazást ezen érintetlen természeti csodák között.\n\nA délutánt az északi öblöknek szentelheti a Cot Teupin Panah és a Cot Drien Klah mentén, kényelmesen felfedezve a sziget gazdag növényvilágát.\n\nEstefelé haladjon a nyugati part felé, ahol a Teluk Teupin Krueng nyugalma várja, és zárja a napot a lenyűgöző víz alatti vulkán látványával.",
+        "ro": "Excursia cu mașina începe dramatic la stâncile sudice impresionante de la Cot Leumo Mate, înainte de a vă îndrepta spre interior la Cot Mapadon și Cot Abe Ukee.\n\nLa amiază, traversați insula spre Cot Lueng Angen și Cot Labubau, mașina permițând transferuri confortabile între aceste minuni naturale virgine.\n\nDupă-amiaza este dedicată capurilor nordice pitorești de la Cot Teupin Panah și Cot Drien Klah, unde puteți explora confortabil flora bogată a insulei.\n\nSpre seară, conduceți pe coasta de vest la apele liniștite din Teluk Teupin Krueng, încheind ziua la fascinantul Vulcan Subacvatic.",
+        "en": "Your road trip begins dramatically at the impressive southern cliffs of Cot Leumo Mate before heading inland towards Cot Mapadon and Cot Abe Ukee.\n\nBy midday, cross the island towards Cot Lueng Angen and Cot Labubau, allowing the car to provide comfortable hops between these pristine natural wonders.\n\nThe afternoon is dedicated to the scenic northern capes at Cot Teupin Panah and Cot Drien Klah, where you can comfortably explore the island's rich flora.\n\nAs evening approaches, drive to the western coast to enjoy the tranquil waters of Teluk Teupin Krueng, ending your day at the fascinating Underwater Volcano."
+      }
+    }
+  }
+}

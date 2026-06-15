@@ -1,0 +1,451 @@
+{
+  "city_id": "sweden-upplands-vasby-cities-v2",
+  "anchor": {
+    "name": "Upplands Väsby",
+    "coords": [
+      17.9,
+      59.52
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:14",
+      "total_km": 3.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhuset Messingen",
+            "hu": "Kulturhuset Messingen",
+            "ro": "Kulturhuset Messingen",
+            "en": "Kulturhuset Messingen"
+          },
+          "coords": [
+            17.901865,
+            59.521121
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebendige Kulturzentrum, um die moderne schwedische Architektur zu bewundern, und werfen Sie einen Blick auf das Erdgeschoss für heutige kostenlose Veranstaltungen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális központot a modern svéd építészet megcsodálásához, és feltétlenül ellenőrizze a földszinti hirdetőtáblát az ingyenes eseményekért.",
+            "ro": "Explorați acest centru cultural vibrant pentru a aprecia arhitectura suedeză modernă și nu uitați să verificați panoul de la parter pentru evenimentele comunitare gratuite de astăzi.",
+            "en": "Explore this vibrant cultural hub to appreciate modern Swedish architecture and be sure to check the ground-floor bulletin for today's free community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Väsby konsthall",
+            "hu": "Väsby konsthall",
+            "ro": "Väsby konsthall",
+            "en": "Väsby konsthall"
+          },
+          "coords": [
+            17.914707,
+            59.525746
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Tauchen Sie in zeitgenössische Kunstausstellungen ein, die regionale Talente hervorheben, und fragen Sie das Galeriepersonal nach dem Kauf einzigartiger Drucke.",
+            "hu": "Merüljön el a regionális tehetségeket bemutató kortárs művészeti kiállításokban, és kérdezze meg a galéria munkatársait az egyedi nyomatok közvetlen megvásárlásáról.",
+            "ro": "Captivați-vă în expozițiile de artă contemporană care evidențiază talentele regionale și întrebați personalul despre achiziționarea unor printuri unice direct de la artiști.",
+            "en": "Dive into local contemporary art exhibitions that highlight regional talent, and ask the gallery staff about purchasing unique prints directly from the featured artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Zamores kulle",
+            "hu": "Zamores kulle",
+            "ro": "Zamores kulle",
+            "en": "Zamores kulle"
+          },
+          "coords": [
+            17.893897,
+            59.517331
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen alten Grabhügel, um sich mit Schwedens Eisenzeit zu verbinden, und tragen Sie festes Schuhwerk, da die grasbewachsenen Hänge nach Regen rutschig sind.",
+            "hu": "Mássza meg ezt az ősi sírhalmot, hogy kapcsolódjon Svédország vaskori történelméhez, és viseljen masszív cipőt, mivel a füves lejtők eső után nagyon csúszósak lehetnek.",
+            "ro": "Urcați pe acest tumul antic pentru a vă conecta cu istoria epocii fierului din Suedia și purtați încălțăminte robustă, deoarece pantele pot fi alunecoase după ploaie.",
+            "en": "Climb this ancient burial mound to connect with Sweden's iron age history, and wear sturdy walking shoes as the grassy slopes can be quite slippery after a morning rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Vilunda ättehage",
+            "hu": "Vilunda ättehage",
+            "ro": "Vilunda ättehage",
+            "en": "Vilunda ättehage"
+          },
+          "coords": [
+            17.905336,
+            59.51398
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen prähistorischen Gräbern, um das Ausmaß antiker Siedlungen zu begreifen, und bringen Sie ein Weitwinkelobjektiv für die waldige Atmosphäre mit.",
+            "hu": "Sétáljon az őskori sírok között, hogy megértse az ősi települések méretét, és hozzon magával nagylátószögű objektívet a hangulatos erdei környezet megörökítéséhez.",
+            "ro": "Plimbați-vă printre aceste morminte preistorice pentru a înțelege amploarea așezărilor antice și aduceți un obiectiv superangular pentru a surprinde atmosfera pădurii.",
+            "en": "Wander among these well-preserved prehistoric graves to grasp the sheer scale of ancient settlements, and bring a wide-angle lens to capture the atmospheric woodland setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingagrav",
+            "hu": "Vikingagrav",
+            "ro": "Vikingagrav",
+            "en": "Vikingagrav"
+          },
+          "coords": [
+            17.906219,
+            59.507312
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese markante Wikingergrabstätte, um Bestattungsrituale der Vergangenheit zu entdecken, und verbinden Sie Ihren Besuch mit dem nahegelegenen Freilichtmuseum.",
+            "hu": "Vizsgálja meg ezt a jellegzetes viking sírhelyet a múlt lenyűgöző temetkezési rituáléinak felfedezéséhez, és kösse össze látogatását a közeli szabadtéri múzeummal.",
+            "ro": "Inspectați acest mormânt viking distinct pentru a descoperi ritualuri de înmormântare din trecut și combinați vizita cu muzeul în aer liber din apropiere pentru context istoric.",
+            "en": "Inspect this distinct Viking grave site to uncover fascinating burial rituals of the past, and combine your visit with the nearby open-air museum for a complete historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingagården Gunnes gård",
+            "hu": "Vikingagården Gunnes gård",
+            "ro": "Vikingagården Gunnes gård",
+            "en": "Vikingagården Gunnes gård"
+          },
+          "coords": [
+            17.906797,
+            59.508401
+          ],
+          "category": "museum",
+          "arrive_at": "17:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Reisen Sie auf diesem rekonstruierten Wikingerhof in die Vergangenheit, um nordisches Erbe zu erleben, und planen Sie Ihren Besuch für den frühen Nachmittag für eine Führung.",
+            "hu": "Lépjen vissza az időben ezen a gondosan rekonstruált viking tanyán az északi örökség megtapasztalásához, és időzítse látogatását kora délutánra egy vezetett túrához.",
+            "ro": "Întoarceți-vă în timp la această fermă vikingă reconstruită pentru a experimenta moștenirea nordică și programați-vă vizita la începutul după-amiezii pentru un tur ghidat.",
+            "en": "Step back in time at this meticulously reconstructed Viking farmstead to experience authentic Nordic heritage, and time your visit for early afternoon to join a guided historical tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit moderner schwedischer Kultur im Messingen und lokaler Kunst. Mittags geht es nach draußen, um alte Wikinger-Grabhügel zu erkunden. Der Nachmittag wird damit verbracht, tiefgründige Geschichte bei den Runensteinen zu entschlüsseln. Der Abend endet perfekt auf einem rekonstruierten Wikingerhof.",
+        "hu": "A reggel a modern svéd kultúrával indul a Messingenben és a kortárs művészettel. A dél a szabadban telik az ősi viking sírhalmok felfedezésével. A délután a mély történelem kibogozásával telik a rúnakövek és a végső sírok között. Az este tökéletesen zárul egy rekonstruált viking tanyán.",
+        "ro": "Dimineața începe cu cultura suedeză modernă la Messingen și arta locală. La prânz ieșim în aer liber pentru a explora tumulii vikingi antici. După-amiaza este dedicată istoriei profunde la pietrele runice și ultimele morminte. Seara se încheie perfect la o fermă vikingă frumos reconstruită.",
+        "en": "Morning starts with modern Swedish culture at Messingen and contemporary local art. Midday moves outdoors to explore ancient Viking burial mounds that dot the landscape. Afternoon is spent unravelling deep history at the runestones and final gravesites. Evening concludes perfectly at a beautifully reconstructed Viking farm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 6.57,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stora Väsby slott",
+            "hu": "Stora Väsby slott",
+            "ro": "Stora Väsby slott",
+            "en": "Stora Väsby slott"
+          },
+          "coords": [
+            17.905555,
+            59.532364
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Eleganz dieses Anwesens, um den aristokratischen schwedischen Lebensstil zu erleben, und fotografieren Sie die symmetrischen Gärten am Morgen.",
+            "hu": "Csodálja meg e nagybirtok barokk eleganciáját a svéd arisztokrata életmód megfigyeléséhez, és fotózza le a pompás szimmetrikus kerteket még a déli napsütés előtt.",
+            "ro": "Admirați eleganța barocă a acestui mare domeniu pentru a vedea stilul de viață aristocratic suedez și fotografiați grădinile simetrice magnifice chiar înainte de prânz.",
+            "en": "Admire the baroque elegance of this grand estate to witness aristocratic Swedish lifestyle, and photograph the magnificent symmetrical gardens right before the sun gets too high."
+          }
+        },
+        {
+          "name": {
+            "de": "Väsby konsthall",
+            "hu": "Väsby konsthall",
+            "ro": "Väsby konsthall",
+            "en": "Väsby konsthall"
+          },
+          "coords": [
+            17.914707,
+            59.525746
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Tauchen Sie in zeitgenössische Kunstausstellungen ein, die regionale Talente hervorheben, und fragen Sie das Galeriepersonal nach dem Kauf einzigartiger Drucke.",
+            "hu": "Merüljön el a regionális tehetségeket bemutató kortárs művészeti kiállításokban, és kérdezze meg a galéria munkatársait az egyedi nyomatok közvetlen megvásárlásáról.",
+            "ro": "Captivați-vă în expozițiile de artă contemporană care evidențiază talentele regionale și întrebați personalul despre achiziționarea unor printuri unice direct de la artiști.",
+            "en": "Dive into local contemporary art exhibitions that highlight regional talent, and ask the gallery staff about purchasing unique prints directly from the featured artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhuset Messingen",
+            "hu": "Kulturhuset Messingen",
+            "ro": "Kulturhuset Messingen",
+            "en": "Kulturhuset Messingen"
+          },
+          "coords": [
+            17.901865,
+            59.521121
+          ],
+          "category": "cultural",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebendige Kulturzentrum, um die moderne schwedische Architektur zu bewundern, und werfen Sie einen Blick auf das Erdgeschoss für heutige kostenlose Veranstaltungen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális központot a modern svéd építészet megcsodálásához, és feltétlenül ellenőrizze a földszinti hirdetőtáblát az ingyenes eseményekért.",
+            "ro": "Explorați acest centru cultural vibrant pentru a aprecia arhitectura suedeză modernă și nu uitați să verificați panoul de la parter pentru evenimentele comunitare gratuite de astăzi.",
+            "en": "Explore this vibrant cultural hub to appreciate modern Swedish architecture and be sure to check the ground-floor bulletin for today's free community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingagården Gunnes gård",
+            "hu": "Vikingagården Gunnes gård",
+            "ro": "Vikingagården Gunnes gård",
+            "en": "Vikingagården Gunnes gård"
+          },
+          "coords": [
+            17.906797,
+            59.508401
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Reisen Sie auf diesem rekonstruierten Wikingerhof in die Vergangenheit, um nordisches Erbe zu erleben, und planen Sie Ihren Besuch für den frühen Nachmittag für eine Führung.",
+            "hu": "Lépjen vissza az időben ezen a gondosan rekonstruált viking tanyán az északi örökség megtapasztalásához, és időzítse látogatását kora délutánra egy vezetett túrához.",
+            "ro": "Întoarceți-vă în timp la această fermă vikingă reconstruită pentru a experimenta moștenirea nordică și programați-vă vizita la începutul după-amiezii pentru un tur ghidat.",
+            "en": "Step back in time at this meticulously reconstructed Viking farmstead to experience authentic Nordic heritage, and time your visit for early afternoon to join a guided historical tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Trollholmen",
+            "hu": "Trollholmen",
+            "ro": "Trollholmen",
+            "en": "Trollholmen"
+          },
+          "coords": [
+            17.928465,
+            59.479985
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.38,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dieser malerischen kleinen Halbinsel für friedliche Vogelbeobachtungen, und packen Sie ein leichtes Picknick ein, um es auf den Holzbänken am Wasser zu genießen.",
+            "hu": "Pihenjen ezen a festői kis félszigeten egy kis békés madármegfigyeléshez, és csomagoljon egy könnyű pikniket, amelyet a nyugodt vizekre néző fapadokon fogyaszthat el.",
+            "ro": "Relaxați-vă pe această mică peninsulă pitorească pentru a privi păsările și împachetați un picnic ușor pentru a-l savura pe băncile de lemn cu vedere la apele calme.",
+            "en": "Relax on this picturesque little island peninsula for some peaceful birdwatching, and pack a light picnic to enjoy on the wooden benches overlooking the calm waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt eine Fahrt zur barocken Eleganz von Stora Väsby vor der modernen Kunst. Mittags verlagert sich der Fokus auf das lebendige Gemeindezentrum im Kulturhuset. Der Nachmittag nimmt Sie mit auf eine historische Reise durch den authentischen Wikingerhof. Der Abend belohnt Sie mit Natur pur auf Trollholmen.",
+        "hu": "A reggel kellemes kerékpározást hoz Stora Väsby barokk eleganciájához, majd jöhet a modern művészet. A dél a Kulturhuset nyüzsgő közösségi szíve felé tolódik. A délután egy történelmi utazásra visz az autentikus viking tanyán keresztül. Az este pedig békés természeti kikapcsolódással jutalmaz Trollholmenben.",
+        "ro": "Dimineața aduce o plimbare plăcută către eleganța barocă de la Stora Väsby, înainte de arta modernă. La amiază ne mutăm în inima comunității la Kulturhuset. După-amiaza te poartă într-o călătorie istorică la ferma vikingă autentică. Seara te răsplătește cu o evadare liniștită în natură la Trollholmen.",
+        "en": "Morning brings a pleasant ride to the baroque elegance of Stora Väsby before exploring modern art. Midday shifts toward the lively community heart at Kulturhuset. Afternoon takes you on a historical journey through the authentic Viking farmstead. Evening rewards you with a peaceful nature escape at Trollholmen."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 10.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hammarby kyrka",
+            "hu": "Hammarby kyrka",
+            "ro": "Hammarby kyrka",
+            "en": "Hammarby kyrka"
+          },
+          "coords": [
+            17.923425,
+            59.537437
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterlichen Fresken in dieser ruhigen Steinkirche für einen Einblick in den alten Glauben, und achten Sie auf gelegentliche abendliche Chorauftritte.",
+            "hu": "Csodálja meg a középkori freskókat ebben a csendes kőtemplomban az ősi hit bepillantásához, és nézze meg a hirdetőtáblát az alkalmi esti kóruselőadások miatt.",
+            "ro": "Admirați frescele medievale din interiorul acestei biserici liniștite din piatră pentru o privire asupra credinței antice și verificați avizierul pentru spectacole corale.",
+            "en": "Marvel at the medieval frescoes inside this tranquil stone church for a glimpse into ancient faith, and check the notice board for occasional evening choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Väsby slott",
+            "hu": "Stora Väsby slott",
+            "ro": "Stora Väsby slott",
+            "en": "Stora Väsby slott"
+          },
+          "coords": [
+            17.905555,
+            59.532364
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Eleganz dieses Anwesens, um den aristokratischen schwedischen Lebensstil zu erleben, und fotografieren Sie die symmetrischen Gärten am Morgen.",
+            "hu": "Csodálja meg e nagybirtok barokk eleganciáját a svéd arisztokrata életmód megfigyeléséhez, és fotózza le a pompás szimmetrikus kerteket még a déli napsütés előtt.",
+            "ro": "Admirați eleganța barocă a acestui mare domeniu pentru a vedea stilul de viață aristocratic suedez și fotografiați grădinile simetrice magnifice chiar înainte de prânz.",
+            "en": "Admire the baroque elegance of this grand estate to witness aristocratic Swedish lifestyle, and photograph the magnificent symmetrical gardens right before the sun gets too high."
+          }
+        },
+        {
+          "name": {
+            "de": "Eds kyrka",
+            "hu": "Eds kyrka",
+            "ro": "Eds kyrka",
+            "en": "Eds kyrka"
+          },
+          "coords": [
+            17.868357,
+            59.507878
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.41,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um die gut erhaltene mittelalterliche Architektur zu bewundern, und genießen Sie einen ruhigen Moment auf dem angrenzenden Friedhof.",
+            "hu": "Látogassa meg ezt a történelmi templomot a gyönyörűen megőrzött középkori építészet megfigyeléséhez, és töltsön egy csendes pillanatot a tavasszal különösen békés szomszédos templomkertben.",
+            "ro": "Vizitați această biserică istorică pentru a observa arhitectura medievală frumos conservată și petreceți un moment liniștit în cimitirul alăturat, foarte senin primăvara.",
+            "en": "Visit this historic church to observe the beautifully preserved medieval architecture, and take a quiet moment in the adjacent churchyard which is particularly serene in spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Edsby slott",
+            "hu": "Edsby slott",
+            "ro": "Edsby slott",
+            "en": "Edsby slott"
+          },
+          "coords": [
+            17.868444,
+            59.511208
+          ],
+          "category": "castle",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie die üppigen Anlagen rund um dieses charmante Herrenhaus, um den schwedischen Landadel zu erleben, und suchen Sie nach den klassischen Runensteinen in der Nähe.",
+            "hu": "Fedezze fel a bájos udvarház körüli buja birtokot a svéd vidéki nemesség megtapasztalásához, és keresse meg a közelben található klasszikus rúnaköveket.",
+            "ro": "Explorați terenurile luxuriante din jurul acestui conac fermecător pentru a experimenta noblețea rurală suedeză și căutați pietrele runice clasice situate în apropiere.",
+            "en": "Explore the lush grounds surrounding this charming manor to experience a slice of Swedish countryside nobility, and look for the classic runestones situated nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingagården Gunnes gård",
+            "hu": "Vikingagården Gunnes gård",
+            "ro": "Vikingagården Gunnes gård",
+            "en": "Vikingagården Gunnes gård"
+          },
+          "coords": [
+            17.906797,
+            59.508401
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.16,
+          "tip_5lang": {
+            "de": "Reisen Sie auf diesem rekonstruierten Wikingerhof in die Vergangenheit, um nordisches Erbe zu erleben, und planen Sie Ihren Besuch für den frühen Nachmittag für eine Führung.",
+            "hu": "Lépjen vissza az időben ezen a gondosan rekonstruált viking tanyán az északi örökség megtapasztalásához, és időzítse látogatását kora délutánra egy vezetett túrához.",
+            "ro": "Întoarceți-vă în timp la această fermă vikingă reconstruită pentru a experimenta moștenirea nordică și programați-vă vizita la începutul după-amiezii pentru un tur ghidat.",
+            "en": "Step back in time at this meticulously reconstructed Viking farmstead to experience authentic Nordic heritage, and time your visit for early afternoon to join a guided historical tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bollstanäs strand",
+            "hu": "Bollstanäs strand",
+            "ro": "Bollstanäs strand",
+            "en": "Bollstanäs strand"
+          },
+          "coords": [
+            17.96334,
+            59.499654
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lokalen Sandstrand für ein erfrischendes Bad im See, und kommen Sie am späten Nachmittag, um einen guten Platz für den Sonnenuntergang zu ergattern.",
+            "hu": "Lazítson ezen a helyi homokos strandon egy frissítő tóparti úszáshoz, és érkezzen késő délután, hogy jó helyet biztosítson a tökéletes vízi naplemente látványához.",
+            "ro": "Relaxați-vă pe această plajă locală cu nisip pentru o înot revigorant în lac și ajungeți târziu după-amiaza pentru a prinde un loc bun cu vederi perfecte la apus.",
+            "en": "Unwind at this local sandy beach to enjoy a refreshing swim in the lake, and arrive late in the afternoon to secure a good spot with perfect sunset views over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt Sie zum alten Glauben in der Kirche von Hammarby und den großen Anwesen von Stora Väsby. Mittags verbindet Sie historischer Charme an der Eds-Kirche und dem Schloss. Der Nachmittag taucht Sie vollständig in die Freilichtgeschichte von Gunnes gård ein. Der Abend bietet einen ruhigen Abschluss am Sandstrand.",
+        "hu": "A reggel a Hammarby templom ősi hitéhez és Stora Väsby nagybirtokaihoz vezet. A dél összekapcsolja Önt az Eds templom és a közeli kastély történelmi bájával. A délután teljesen elmeríti a Gunnes gård szabadtéri történelmében. Az este nyugodt lezárást nyújt a homokos tóparton.",
+        "ro": "Dimineața vă conduce prin credința antică la biserica Hammarby și grandiosul Stora Väsby. Prânzul vă conectează cu farmecul istoric la biserica Eds și castelul său. După-amiaza vă scufundă complet în istoria vie în aer liber la Gunnes gård. Seara oferă o încheiere liniștită pe malurile nisipoase ale lacului.",
+        "en": "Morning drives you through ancient faith at Hammarby church and the grand estates of Stora Väsby. Midday connects you with historical charm at Eds church and its nearby medieval castle. Afternoon immerses you fully in open-air living history at Gunnes gård. Evening provides a tranquil wrap-up by the sandy lake shores."
+      }
+    }
+  }
+}

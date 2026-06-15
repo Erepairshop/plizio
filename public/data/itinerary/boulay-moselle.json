@@ -1,0 +1,497 @@
+{
+  "city_id": "boulay-moselle",
+  "anchor": {
+    "name": "Boulay-Moselle",
+    "coords": [
+      6.4936,
+      49.1833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:28",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Vendée",
+            "hu": "Place de la Vendée",
+            "ro": "Place de la Vendée",
+            "en": "Place de la Vendée"
+          },
+          "coords": [
+            6.498242,
+            49.184382
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur an diesem zentralen Platz von Boulay-Moselle, der einen idealen Ausgangspunkt bietet, um in den umliegenden Cafés einen morgendlichen Kaffee zu genießen.",
+            "hu": "Csodálja meg a varázslatos építészetet Boulay-Moselle központi terén, amely ideális kiindulópont arra, hogy a környező kávézók egyikében élvezze a reggeli kávéját.",
+            "ro": "Admirați arhitectura fermecătoare în această piață centrală din Boulay-Moselle, care reprezintă un punct de plecare ideal pentru a savura o cafea de dimineață la cafenelele din jur.",
+            "en": "Admire the charming architecture in this central square of Boulay-Moselle, which provides an ideal starting point to enjoy a morning coffee at the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            6.499219,
+            49.183408
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende neugotische Struktur dieser Kirche, die das Stadtbild prägt, und achten Sie auf die prächtigen Buntglasfenster, wenn die Vormittagssonne hineinscheint.",
+            "hu": "Fedezze fel ennek a templomnak a lenyűgöző neogótikus szerkezetét, amely meghatározza a városképet, és figyelje meg a csodás ólomüveg ablakokat, amikor a délelőtti napfény átsüt rajtuk.",
+            "ro": "Descoperiți structura neogotică impresionantă a acestei biserici care domină peisajul urban și observați vitraliile magnifice atunci când soarele dimineții le luminează.",
+            "en": "Discover the impressive neo-Gothic structure of this church that dominates the cityscape, and look out for the magnificent stained glass windows when the morning sun shines through."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Sainte-Croix",
+            "hu": "Sainte-Croix kápolna",
+            "ro": "Capela Sainte-Croix",
+            "en": "Chapelle de la Sainte-Croix"
+          },
+          "coords": [
+            6.498221,
+            49.180603
+          ],
+          "category": "landmark",
+          "arrive_at": "10:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Wahrzeichen, das eine ruhige Atmosphäre bietet, und bringen Sie eine Kamera mit, um die gut erhaltenen architektonischen Details der Fassade festzuhalten.",
+            "hu": "Látogasson el ehhez a történelmi nevezetességhez, amely nyugodt légkört áraszt, és hozzon magával fényképezőgépet, hogy megörökítse a homlokzat jól megőrzött építészeti részleteit.",
+            "ro": "Vizitați acest obiectiv istoric care oferă o atmosferă liniștită și aduceți un aparat foto pentru a surprinde detaliile arhitecturale bine conservate ale fațadei.",
+            "en": "Visit this historical landmark that offers a tranquil atmosphere, and bring a camera to capture the well-preserved architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Salette",
+            "hu": "Notre-Dame-de-la-Salette kápolna",
+            "ro": "Capela Notre-Dame-de-la-Salette",
+            "en": "Chapelle Notre-Dame-de-la-Salette"
+          },
+          "coords": [
+            6.502182,
+            49.188331
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser reizvollen Kapelle am Waldrand, wo Sie nach der Besichtigung einen kurzen, erholsamen Spaziergang auf den nahegelegenen Naturpfaden unternehmen können.",
+            "hu": "Tapasztalja meg az erdő szélén álló bájos kápolna spirituális nyugalmát, ahol a látogatás után tehet egy rövid, pihentető sétát a közeli ösvényeken.",
+            "ro": "Experimentați liniștea spirituală a acestei capele fermecătoare de la marginea pădurii, unde, după vizită, puteți face o scurtă plimbare relaxantă pe potecile din apropiere.",
+            "en": "Experience the spiritual tranquility of this charming chapel on the edge of the woods, where you can take a short, relaxing stroll along the nearby nature trails after visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Saint-Laurent kápolna",
+            "ro": "Capela Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            6.459323,
+            49.188024
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser ländlichen Kapelle, die tief in der regionalen Geschichte verwurzelt ist, und parken Sie Ihr Fahrrad oder Auto am Straßenrand, da es keine großen Parkplätze gibt.",
+            "hu": "Csodálja meg a régió történelmében mélyen gyökerező vidéki kápolna egyszerű eleganciáját, és parkolja le kerékpárját vagy autóját az út szélén, mivel nincsenek nagy parkolók.",
+            "ro": "Admirați eleganța simplă a acestei capele rurale adânc înrădăcinate în istoria regională și parcați bicicleta sau mașina pe marginea drumului, deoarece nu există parcări mari.",
+            "en": "Admire the simple elegance of this rural chapel deeply rooted in regional history, and park your bike or car on the side of the road as there are no large parking lots available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig am Place de la Vendée, gefolgt von einem Besuch der majestätischen Kirche Saint-Étienne. Mittags erkunden Sie die historischen Details der Kapelle Sainte-Croix im Herzen der Stadt. Der Nachmittag führt Sie zur charmanten Chapelle Notre-Dame-de-la-Salette am Waldrand. Am frühen Abend schließen Sie Ihre Fußtour bei der ländlichen Chapelle Saint-Laurent mit einem Spaziergang ab.",
+        "hu": "A reggel nyugodtan indul a Place de la Vendée téren, majd a fenséges Saint-Étienne templom következik. Délben a város szívében található Sainte-Croix kápolna történelmi részleteit fedezheti fel. A délután a bájos Notre-Dame-de-la-Salette kápolnához vezet az erdő szélén. Kora este egy kellemes sétával zárja a túrát a vidéki Saint-Laurent kápolnánál.",
+        "ro": "Dimineața începe liniștit în Place de la Vendée, urmată de o vizită la maiestuoasa Biserică Saint-Étienne. La prânz, explorați detaliile istorice ale Capelei Sainte-Croix din inima orașului. După-amiaza vă conduce la fermecătoarea Capelă Notre-Dame-de-la-Salette de la marginea pădurii. Seara devreme încheiați turul pietonal cu o plimbare spre Capela rurală Saint-Laurent.",
+        "en": "The morning starts peacefully at Place de la Vendée, followed by a visit to the majestic Saint-Étienne Church. By midday, explore the historical details of Chapelle de la Sainte-Croix in the heart of the city. The afternoon leads you to the charming Chapelle Notre-Dame-de-la-Salette on the edge of the woods. In the early evening, conclude your walking tour at the rural Chapelle Saint-Laurent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:35",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Vendée",
+            "hu": "Place de la Vendée",
+            "ro": "Place de la Vendée",
+            "en": "Place de la Vendée"
+          },
+          "coords": [
+            6.498242,
+            49.184382
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur an diesem zentralen Platz von Boulay-Moselle, der einen idealen Ausgangspunkt bietet, um in den umliegenden Cafés einen morgendlichen Kaffee zu genießen.",
+            "hu": "Csodálja meg a varázslatos építészetet Boulay-Moselle központi terén, amely ideális kiindulópont arra, hogy a környező kávézók egyikében élvezze a reggeli kávéját.",
+            "ro": "Admirați arhitectura fermecătoare în această piață centrală din Boulay-Moselle, care reprezintă un punct de plecare ideal pentru a savura o cafea de dimineață la cafenelele din jur.",
+            "en": "Admire the charming architecture in this central square of Boulay-Moselle, which provides an ideal starting point to enjoy a morning coffee at the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            6.499219,
+            49.183408
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende neugotische Struktur dieser Kirche, die das Stadtbild prägt, und achten Sie auf die prächtigen Buntglasfenster, wenn die Vormittagssonne hineinscheint.",
+            "hu": "Fedezze fel ennek a templomnak a lenyűgöző neogótikus szerkezetét, amely meghatározza a városképet, és figyelje meg a csodás ólomüveg ablakokat, amikor a délelőtti napfény átsüt rajtuk.",
+            "ro": "Descoperiți structura neogotică impresionantă a acestei biserici care domină peisajul urban și observați vitraliile magnifice atunci când soarele dimineții le luminează.",
+            "en": "Discover the impressive neo-Gothic structure of this church that dominates the cityscape, and look out for the magnificent stained glass windows when the morning sun shines through."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Sainte-Croix",
+            "hu": "Sainte-Croix kápolna",
+            "ro": "Capela Sainte-Croix",
+            "en": "Chapelle de la Sainte-Croix"
+          },
+          "coords": [
+            6.498221,
+            49.180603
+          ],
+          "category": "landmark",
+          "arrive_at": "10:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Wahrzeichen, das eine ruhige Atmosphäre bietet, und bringen Sie eine Kamera mit, um die gut erhaltenen architektonischen Details der Fassade festzuhalten.",
+            "hu": "Látogasson el ehhez a történelmi nevezetességhez, amely nyugodt légkört áraszt, és hozzon magával fényképezőgépet, hogy megörökítse a homlokzat jól megőrzött építészeti részleteit.",
+            "ro": "Vizitați acest obiectiv istoric care oferă o atmosferă liniștită și aduceți un aparat foto pentru a surprinde detaliile arhitecturale bine conservate ale fațadei.",
+            "en": "Visit this historical landmark that offers a tranquil atmosphere, and bring a camera to capture the well-preserved architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Boulay",
+            "hu": "Boulay Városháza",
+            "ro": "Primăria Boulay",
+            "en": "Boulay Town Hall"
+          },
+          "coords": [
+            6.509502,
+            49.154481
+          ],
+          "category": "civic",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das bürgerliche Herz der Gemeinde in diesem prächtigen Rathausgebäude, in dessen Nähe sich oft lokale Märkte befinden, auf denen Sie regionale Spezialitäten probieren können.",
+            "hu": "Tekintse meg a település polgári központját ebben a pompás városházában, amelynek közelében gyakran találni helyi piacokat, ahol megkóstolhatja a regionális specialitásokat.",
+            "ro": "Contemplați centrul civic al comunității în această clădire magnifică a primăriei, în apropierea căreia se organizează adesea piețe locale unde puteți degusta specialități regionale.",
+            "en": "Contemplate the civic heart of the community at this magnificent town hall building, near which local markets are often held where you can taste regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Clément",
+            "hu": "Saint-Clément kápolna",
+            "ro": "Capela Saint-Clément",
+            "en": "Chapelle Saint-Clément"
+          },
+          "coords": [
+            6.482355,
+            49.161895
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, aber faszinierende historische Kapelle im südwestlichen Teil der Stadt, die sich ideal für einen kurzen Stopp während Ihrer ausgedehnten Fahrrad- oder Autotour eignet.",
+            "hu": "Fedezze fel ezt a kis, de lenyűgöző történelmi kápolnát a város délnyugati részén, amely ideális egy rövid megállóra a hosszabb kerékpáros vagy autós túra során.",
+            "ro": "Explorați această capelă istorică mică, dar fascinantă, din partea de sud-vest a orașului, care este ideală pentru o scurtă oprire în timpul turului dumneavoastră mai lung cu bicicleta sau mașina.",
+            "en": "Explore this small but fascinating historical chapel in the southwestern part of the city, which is ideal for a quick stop during your extended bike or car tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Saint-Laurent kápolna",
+            "ro": "Capela Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            6.459323,
+            49.188024
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser ländlichen Kapelle, die tief in der regionalen Geschichte verwurzelt ist, und parken Sie Ihr Fahrrad oder Auto am Straßenrand, da es keine großen Parkplätze gibt.",
+            "hu": "Csodálja meg a régió történelmében mélyen gyökerező vidéki kápolna egyszerű eleganciáját, és parkolja le kerékpárját vagy autóját az út szélén, mivel nincsenek nagy parkolók.",
+            "ro": "Admirați eleganța simplă a acestei capele rurale adânc înrădăcinate în istoria regională și parcați bicicleta sau mașina pe marginea drumului, deoarece nu există parcări mari.",
+            "en": "Admire the simple elegance of this rural chapel deeply rooted in regional history, and park your bike or car on the side of the road as there are no large parking lots available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet entspannt im Stadtzentrum am Place de la Vendée und der beeindruckenden Kirche Saint-Étienne. Gegen Mittag radeln Sie vorbei an der Sainte-Croix Kapelle zum prächtigen Rathaus von Boulay. Am Nachmittag führt die Route weiter zur abgelegenen Chapelle Saint-Clément im Südwesten. Den Abend lassen Sie an der idyllischen Chapelle Saint-Laurent bei einer gemütlichen Fahrt ausklingen.",
+        "hu": "Kerékpártúrája nyugodtan indul a városközpontban a Place de la Vendée téren és a Saint-Étienne templomnál. Dél körül a Sainte-Croix kápolna mellett elhaladva a lenyűgöző városházához tekerhet. Délután az út a délnyugatra fekvő eldugott Saint-Clément kápolnához vezet. Az estét a festői Saint-Laurent kápolnánál egy kényelmes utazással zárhatja.",
+        "ro": "Turul cu bicicleta începe relaxat în centrul orașului la Place de la Vendée și Biserica Saint-Étienne. Spre prânz, pedalați pe lângă Capela Sainte-Croix spre impresionanta primărie. După-amiaza, traseul continuă spre Capela izolată Saint-Clément din sud-vest. Seara vă bucurați de o plimbare confortabilă care se încheie la idilica Capelă Saint-Laurent.",
+        "en": "Your bike tour starts reasonably in the city center at Place de la Vendée and the impressive Saint-Étienne Church. Around midday, pedal past the Sainte-Croix Chapel to the majestic town hall. The afternoon route continues to the secluded Chapelle Saint-Clément in the southwest. Wind down your evening at the idyllic Chapelle Saint-Laurent after a pleasant ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 19.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Vendée",
+            "hu": "Place de la Vendée",
+            "ro": "Place de la Vendée",
+            "en": "Place de la Vendée"
+          },
+          "coords": [
+            6.498242,
+            49.184382
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur an diesem zentralen Platz von Boulay-Moselle, der einen idealen Ausgangspunkt bietet, um in den umliegenden Cafés einen morgendlichen Kaffee zu genießen.",
+            "hu": "Csodálja meg a varázslatos építészetet Boulay-Moselle központi terén, amely ideális kiindulópont arra, hogy a környező kávézók egyikében élvezze a reggeli kávéját.",
+            "ro": "Admirați arhitectura fermecătoare în această piață centrală din Boulay-Moselle, care reprezintă un punct de plecare ideal pentru a savura o cafea de dimineață la cafenelele din jur.",
+            "en": "Admire the charming architecture in this central square of Boulay-Moselle, which provides an ideal starting point to enjoy a morning coffee at the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Étienne Kirche",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            6.499219,
+            49.183408
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende neugotische Struktur dieser Kirche, die das Stadtbild prägt, und achten Sie auf die prächtigen Buntglasfenster, wenn die Vormittagssonne hineinscheint.",
+            "hu": "Fedezze fel ennek a templomnak a lenyűgöző neogótikus szerkezetét, amely meghatározza a városképet, és figyelje meg a csodás ólomüveg ablakokat, amikor a délelőtti napfény átsüt rajtuk.",
+            "ro": "Descoperiți structura neogotică impresionantă a acestei biserici care domină peisajul urban și observați vitraliile magnifice atunci când soarele dimineții le luminează.",
+            "en": "Discover the impressive neo-Gothic structure of this church that dominates the cityscape, and look out for the magnificent stained glass windows when the morning sun shines through."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Salette",
+            "hu": "Notre-Dame-de-la-Salette kápolna",
+            "ro": "Capela Notre-Dame-de-la-Salette",
+            "en": "Chapelle Notre-Dame-de-la-Salette"
+          },
+          "coords": [
+            6.502182,
+            49.188331
+          ],
+          "category": "religious",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser reizvollen Kapelle am Waldrand, wo Sie nach der Besichtigung einen kurzen, erholsamen Spaziergang auf den nahegelegenen Naturpfaden unternehmen können.",
+            "hu": "Tapasztalja meg az erdő szélén álló bájos kápolna spirituális nyugalmát, ahol a látogatás után tehet egy rövid, pihentető sétát a közeli ösvényeken.",
+            "ro": "Experimentați liniștea spirituală a acestei capele fermecătoare de la marginea pădurii, unde, după vizită, puteți face o scurtă plimbare relaxantă pe potecile din apropiere.",
+            "en": "Experience the spiritual tranquility of this charming chapel on the edge of the woods, where you can take a short, relaxing stroll along the nearby nature trails after visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Laurent",
+            "hu": "Saint-Laurent kápolna",
+            "ro": "Capela Saint-Laurent",
+            "en": "Chapelle Saint-Laurent"
+          },
+          "coords": [
+            6.459323,
+            49.188024
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser ländlichen Kapelle, die tief in der regionalen Geschichte verwurzelt ist, und parken Sie Ihr Fahrrad oder Auto am Straßenrand, da es keine großen Parkplätze gibt.",
+            "hu": "Csodálja meg a régió történelmében mélyen gyökerező vidéki kápolna egyszerű eleganciáját, és parkolja le kerékpárját vagy autóját az út szélén, mivel nincsenek nagy parkolók.",
+            "ro": "Admirați eleganța simplă a acestei capele rurale adânc înrădăcinate în istoria regională și parcați bicicleta sau mașina pe marginea drumului, deoarece nu există parcări mari.",
+            "en": "Admire the simple elegance of this rural chapel deeply rooted in regional history, and park your bike or car on the side of the road as there are no large parking lots available."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Boulay",
+            "hu": "Boulay-erdő",
+            "ro": "Pădurea Boulay",
+            "en": "Boulay Forest"
+          },
+          "coords": [
+            6.407273,
+            49.160627
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur dieses weitreichenden Waldes, der eine perfekte Flucht aus dem Stadtleben bietet, und tragen Sie bequeme Wanderschuhe für die unbefestigten Pfade.",
+            "hu": "Élvezze e hatalmas erdő érintetlen természetét, amely tökéletes menekülést kínál a városi élet elől, és viseljen kényelmes túracipőt a burkolatlan ösvényeken való sétához.",
+            "ro": "Bucurați-vă de natura neatinsă a acestei păduri întinse, care oferă o evadare perfectă din viața urbană, și purtați pantofi de drumeție confortabili pentru potecile neasfaltate.",
+            "en": "Enjoy the untouched nature of this expansive forest, which offers a perfect escape from city life, and wear comfortable hiking shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Clément",
+            "hu": "Saint-Clément kápolna",
+            "ro": "Capela Saint-Clément",
+            "en": "Chapelle Saint-Clément"
+          },
+          "coords": [
+            6.482355,
+            49.161895
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, aber faszinierende historische Kapelle im südwestlichen Teil der Stadt, die sich ideal für einen kurzen Stopp während Ihrer ausgedehnten Fahrrad- oder Autotour eignet.",
+            "hu": "Fedezze fel ezt a kis, de lenyűgöző történelmi kápolnát a város délnyugati részén, amely ideális egy rövid megállóra a hosszabb kerékpáros vagy autós túra során.",
+            "ro": "Explorați această capelă istorică mică, dar fascinantă, din partea de sud-vest a orașului, care este ideală pentru o scurtă oprire în timpul turului dumneavoastră mai lung cu bicicleta sau mașina.",
+            "en": "Explore this small but fascinating historical chapel in the southwestern part of the city, which is ideal for a quick stop during your extended bike or car tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Boulay",
+            "hu": "Boulay Városháza",
+            "ro": "Primăria Boulay",
+            "en": "Boulay Town Hall"
+          },
+          "coords": [
+            6.509502,
+            49.154481
+          ],
+          "category": "civic",
+          "arrive_at": "14:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das bürgerliche Herz der Gemeinde in diesem prächtigen Rathausgebäude, in dessen Nähe sich oft lokale Märkte befinden, auf denen Sie regionale Spezialitäten probieren können.",
+            "hu": "Tekintse meg a település polgári központját ebben a pompás városházában, amelynek közelében gyakran találni helyi piacokat, ahol megkóstolhatja a regionális specialitásokat.",
+            "ro": "Contemplați centrul civic al comunității în această clădire magnifică a primăriei, în apropierea căreia se organizează adesea piețe locale unde puteți degusta specialități regionale.",
+            "en": "Contemplate the civic heart of the community at this magnificent town hall building, near which local markets are often held where you can taste regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Sainte-Croix",
+            "hu": "Sainte-Croix kápolna",
+            "ro": "Capela Sainte-Croix",
+            "en": "Chapelle de la Sainte-Croix"
+          },
+          "coords": [
+            6.498221,
+            49.180603
+          ],
+          "category": "landmark",
+          "arrive_at": "14:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Wahrzeichen, das eine ruhige Atmosphäre bietet, und bringen Sie eine Kamera mit, um die gut erhaltenen architektonischen Details der Fassade festzuhalten.",
+            "hu": "Látogasson el ehhez a történelmi nevezetességhez, amely nyugodt légkört áraszt, és hozzon magával fényképezőgépet, hogy megörökítse a homlokzat jól megőrzött építészeti részleteit.",
+            "ro": "Vizitați acest obiectiv istoric care oferă o atmosferă liniștită și aduceți un aparat foto pentru a surprinde detaliile arhitecturale bine conservate ale fațadei.",
+            "en": "Visit this historical landmark that offers a tranquil atmosphere, and bring a camera to capture the well-preserved architectural details of its facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Zentrum an der Place de la Vendée und der historischen Kirche Saint-Étienne, gefolgt von der Salette-Kapelle. Mittags fahren Sie zur Chapelle Saint-Laurent und verbringen erholsame Stunden im weitläufigen Wald von Boulay. Der Nachmittag bietet kulturelle Einblicke bei der Chapelle Saint-Clément und dem imposanten Rathaus. Abends beenden Sie die Tour an der ruhigen Sainte-Croix Kapelle.",
+        "hu": "A nap a központban indul a Place de la Vendée és a történelmi Saint-Étienne templomnál, melyet a Salette-kápolna követ. Délben a Saint-Laurent kápolnához hajt, majd pihentető órákat tölt a Boulay-erdőben. A délután kulturális betekintést nyújt a Saint-Clément kápolnánál és az impozáns városházánál. Este a túrát a békés Sainte-Croix kápolnánál zárja.",
+        "ro": "Ziua începe în centru, la Place de la Vendée și biserica istorică Saint-Étienne, urmate de Capela Salette. La prânz conduceți la Capela Saint-Laurent și petreceți ore de relaxare în întinsa Pădure Boulay. După-amiaza oferă perspective culturale la Capela Saint-Clément și la primăria impunătoare. Seara încheiați turul la liniștita Capelă Sainte-Croix.",
+        "en": "The day begins in the center at Place de la Vendée and the historical Saint-Étienne Church, followed by the Salette Chapel. At midday, drive to Chapelle Saint-Laurent and spend relaxing hours in the expansive Boulay Forest. The afternoon offers cultural insights at Chapelle Saint-Clément and the imposing town hall. In the evening, end your tour at the peaceful Sainte-Croix Chapel."
+      }
+    }
+  }
+}

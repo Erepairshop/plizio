@@ -1,0 +1,520 @@
+{
+  "city_id": "bailly-romainvilliers",
+  "anchor": {
+    "name": "Bailly-Romainvilliers",
+    "coords": [
+      2.8231,
+      48.8469
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Bassins de Bailly",
+            "hu": "Les Bassins de Bailly",
+            "ro": "Les Bassins de Bailly",
+            "en": "Les Bassins de Bailly"
+          },
+          "coords": [
+            2.821825,
+            48.850625
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser zivilen Wasserbecken und spazieren Sie am Rand entlang, um einen entspannten Tagesbeginn zu haben.",
+            "hu": "Élvezze e polgári medencék nyugodt atmoszféráját, és sétáljon egyet a part mentén a pihentető napkezdés érdekében.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestor bazine civice și plimbați-vă pe marginea apei pentru un început de zi relaxant.",
+            "en": "Enjoy the tranquil atmosphere of these civic pools and take a stroll along the edge for a relaxing start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.81108,
+            48.839805
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche, und betreten Sie sie leise, um die friedliche Stille im Inneren aufzunehmen.",
+            "hu": "Csodálja meg e templom egyszerű, de elegáns építészetét, és lépjen be halkan, hogy magába szívja a benti békés csendet.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și intrați încet pentru a absorbi liniștea pașnică din interior.",
+            "en": "Admire the simple yet elegant architecture of this church, and step inside quietly to absorb the peaceful silence within."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-Golf",
+            "hu": "Mini-Golf",
+            "ro": "Mini-Golf",
+            "en": "Mini-Golf"
+          },
+          "coords": [
+            2.814437,
+            48.836319
+          ],
+          "category": "family",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer lustigen Runde Minigolf auf diesem gut gepflegten Platz heraus, ideal für eine aktive Pause am Vormittag.",
+            "hu": "Hívja ki családját egy vidám minigolf mérkőzésre ezen a jól karbantartott pályán, amely ideális egy aktív délelőtti szünethez.",
+            "ro": "Provoacă-ți familia la o rundă distractivă de minigolf pe acest teren bine întreținut, ideal pentru o pauză activă de dimineață.",
+            "en": "Challenge your family to a fun round of mini-golf on this well-maintained course, ideal for an active mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Springs Pool",
+            "hu": "Blue Springs Pool",
+            "ro": "Blue Springs Pool",
+            "en": "Blue Springs Pool"
+          },
+          "coords": [
+            2.814695,
+            48.835335
+          ],
+          "category": "family",
+          "arrive_at": "11:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den erfrischenden Becken ab und nutzen Sie die Schließfächer, um Ihre Wertsachen sicher aufzubewahren, während Sie schwimmen.",
+            "hu": "Hűtse le magát a frissítő medencékben, és használja az értékmegőrzőket, hogy biztonságban tudja holmiját úszás közben.",
+            "ro": "Răcoriți-vă în piscinele revigorante și folosiți dulapurile disponibile pentru a vă păstra în siguranță obiectele de valoare în timp ce înotați.",
+            "en": "Cool off in the refreshing pools and make sure to use the available lockers to keep your valuables safe while you swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Game Town",
+            "hu": "Game Town",
+            "ro": "Game Town",
+            "en": "Game Town"
+          },
+          "coords": [
+            2.815331,
+            48.830425
+          ],
+          "category": "family",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Welt der Arcade-Spiele ein und besorgen Sie sich vorher ausreichend Spielmarken, um Unterbrechungen zu vermeiden.",
+            "hu": "Merüljön el az árkád játékok színes világában, és szerezzen be előre elegendő zsetont, hogy elkerülje a megszakításokat.",
+            "ro": "Pătrundeți în lumea colorată a jocurilor arcade și asigurați-vă că achiziționați suficiente jetoane în prealabil pentru a evita întreruperile.",
+            "en": "Dive into the colorful world of arcade games, and be sure to grab enough tokens beforehand to avoid any interruptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Action Factory",
+            "hu": "Action Factory",
+            "ro": "Action Factory",
+            "en": "Action Factory"
+          },
+          "coords": [
+            2.816834,
+            48.830342
+          ],
+          "category": "family",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit in den Kletterbereichen und interaktiven Herausforderungen dieses riesigen Indoor-Spielplatzes, der für alle Altersgruppen geeignet ist.",
+            "hu": "Tesztelje ügyességét a mászófalakon és az interaktív kihívásokon ebben a hatalmas beltéri játszóházban, amely minden korosztálynak megfelel.",
+            "ro": "Testați-vă agilitatea pe zonele de alpinism și provocările interactive ale acestui uriaș loc de joacă interior, potrivit pentru toate vârstele.",
+            "en": "Test your agility on the climbing areas and interactive challenges of this huge indoor playground, perfect for all age groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Villages Nature Waterpark",
+            "hu": "Les Villages Nature Waterpark",
+            "ro": "Les Villages Nature Waterpark",
+            "en": "Les Villages Nature Waterpark"
+          },
+          "coords": [
+            2.817663,
+            48.828963
+          ],
+          "category": "family",
+          "arrive_at": "14:27",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Tages mit adrenalingeladenen Rutschen und Wellenbädern; bringen Sie eigene Handtücher mit, um Zeit an der Ausleihe zu sparen.",
+            "hu": "Töltse a nap hátralévő részét az adrenalindús csúszdákon és a hullámmedencékben; hozzon saját törölközőt, hogy időt takarítson meg.",
+            "ro": "Petreceți restul zilei pe tobogane pline de adrenalină și în piscinele cu valuri; aduceți-vă propriile prosoape pentru a economisi timp.",
+            "en": "Spend the rest of the day enjoying adrenaline-pumping slides and wave pools; bring your own towels to save time at the rental desk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Bailly-Romainvilliers mit einem Spaziergang um die Bassins de Bailly. Am späten Vormittag bietet die Église Notre-Dame-de-l'Assomption einen Moment der Besinnung. Der Nachmittag ist ganz der Unterhaltung gewidmet, von Minigolf bis hin zu den Spielen in der Game Town und Action Factory. Der Abend klingt im fantastischen Wasserpark der Villages Nature entspannt und erfrischt aus.",
+        "hu": "Kezdje a napot Bailly-Romainvilliers-ben egy sétával a Les Bassins de Bailly körül. Késő délelőtt az Église Notre-Dame-de-l'Assomption nyújt elmélkedésre alkalmas pillanatokat. A délután a szórakozásé, a minigolftól kezdve a Game Town és az Action Factory játékaiig. Az estét a Villages Nature lenyűgöző víziparkjában töltheti lazán és felfrissülve.",
+        "ro": "Începeți ziua în Bailly-Romainvilliers cu o plimbare liniștită în jurul Les Bassins de Bailly. Dimineața târziu, Église Notre-Dame-de-l'Assomption oferă un moment de reflecție. După-amiaza este dedicată distracției, de la minigolf la jocurile din Game Town și Action Factory. Seara se încheie cu relaxare și prospețime în fantasticul parc acvatic din Villages Nature.",
+        "en": "Start your day in Bailly-Romainvilliers with a calm stroll around Les Bassins de Bailly. In the late morning, the Église Notre-Dame-de-l'Assomption provides a moment of reflection. The afternoon is completely dedicated to fun, from mini-golf to the thrilling games in Game Town and Action Factory. Your evening concludes with a relaxing and refreshing splash in the amazing Villages Nature Waterpark."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc des Communes",
+            "hu": "Parc des Communes",
+            "ro": "Parc des Communes",
+            "en": "Parc des Communes"
+          },
+          "coords": [
+            2.792551,
+            48.84469
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die grünen Wege dieses weitläufigen Parks und nutzen Sie die frühen Morgenstunden für eine besonders friedliche Atmosphäre.",
+            "hu": "Kerekezzen végig a park zöldellő ösvényein, és használja ki a kora reggeli órákat a különösen békés hangulatért.",
+            "ro": "Pedalați pe cărările verzi ale acestui parc spațios și profitați de orele dimineții devreme pentru o atmosferă deosebit de liniștită.",
+            "en": "Cycle through the green paths of this expansive park and take advantage of the early morning hours for an especially peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf Paris Val d'Europe",
+            "hu": "Golf Paris Val d'Europe",
+            "ro": "Golf Paris Val d'Europe",
+            "en": "Golf Paris Val d'Europe"
+          },
+          "coords": [
+            2.80917,
+            48.85652
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause, um die perfekt gepflegten Greens dieses renommierten Golfplatzes zu betrachten, und prüfen Sie vorab die Öffnungszeiten des Clubhauses.",
+            "hu": "Tartson egy kis szünetet, hogy megcsodálja e neves golfpálya tökéletesen karbantartott gyepét, és előre ellenőrizze a klubház nyitvatartását.",
+            "ro": "Faceți o pauză pentru a privi gazonul perfect întreținut al acestui renumit teren de golf și verificați programul clubului în avans.",
+            "en": "Take a break to gaze at the perfectly manicured greens of this renowned golf course, and check the clubhouse opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bassins de Bailly",
+            "hu": "Les Bassins de Bailly",
+            "ro": "Les Bassins de Bailly",
+            "en": "Les Bassins de Bailly"
+          },
+          "coords": [
+            2.821825,
+            48.850625
+          ],
+          "category": "civic",
+          "arrive_at": "11:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser zivilen Wasserbecken und spazieren Sie am Rand entlang, um einen entspannten Tagesbeginn zu haben.",
+            "hu": "Élvezze e polgári medencék nyugodt atmoszféráját, és sétáljon egyet a part mentén a pihentető napkezdés érdekében.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestor bazine civice și plimbați-vă pe marginea apei pentru un început de zi relaxant.",
+            "en": "Enjoy the tranquil atmosphere of these civic pools and take a stroll along the edge for a relaxing start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.81108,
+            48.839805
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche, und betreten Sie sie leise, um die friedliche Stille im Inneren aufzunehmen.",
+            "hu": "Csodálja meg e templom egyszerű, de elegáns építészetét, és lépjen be halkan, hogy magába szívja a benti békés csendet.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și intrați încet pentru a absorbi liniștea pașnică din interior.",
+            "en": "Admire the simple yet elegant architecture of this church, and step inside quietly to absorb the peaceful silence within."
+          }
+        },
+        {
+          "name": {
+            "de": "Villages Nature Paris",
+            "hu": "Villages Nature Paris",
+            "ro": "Villages Nature Paris",
+            "en": "Villages Nature Paris"
+          },
+          "coords": [
+            2.82162,
+            48.8264
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die nachhaltige Architektur und die vielseitigen Gärten dieser innovativen Anlage, die perfekt für Naturliebhaber konzipiert ist.",
+            "hu": "Fedezze fel ezen innovatív létesítmény fenntartható építészetét és sokoldalú kertjeit, amelyet kifejezetten a természetkedvelőknek terveztek.",
+            "ro": "Descoperiți arhitectura durabilă și grădinile diverse ale acestei facilități inovatoare, care este concepută perfect pentru iubitorii de natură.",
+            "en": "Discover the sustainable architecture and versatile gardens of this innovative facility, which is designed perfectly for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Labyrinthe Nature Val d’Europe 77",
+            "hu": "Labyrinthe Nature Val d’Europe 77",
+            "ro": "Labyrinthe Nature Val d’Europe 77",
+            "en": "Labyrinthe Nature Val d’Europe 77"
+          },
+          "coords": [
+            2.835396,
+            48.819013
+          ],
+          "category": "family",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verirren Sie sich auf lustige Weise in diesem Natur-Labyrinth, aber vergessen Sie nicht, festes Schuhwerk für die unebenen Pfade zu tragen.",
+            "hu": "Tévedjen el szórakoztató módon ebben a természetes útvesztőben, de ne felejtsen el masszív lábbelit viselni az egyenetlen ösvényekhez.",
+            "ro": "Pierdeți-vă într-un mod distractiv în acest labirint natural, dar nu uitați să purtați încălțăminte solidă pentru potecile denivelate.",
+            "en": "Get lost in a fun way in this natural labyrinth, but don't forget to wear sturdy footwear for the sometimes uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Roadtrip durch Bailly-Romainvilliers startet am exklusiven Golfplatz und den ruhigen Bassins de Bailly. Mittags erkunden Sie die Natur im Parc des Communes und besichtigen die charmante Kirche des Ortes. Der Nachmittag wird actionreich mit einem Besuch in den Villages Nature und dem angeschlossenen Wasserpark. Ein unterhaltsamer Ausflug zum Natur-Labyrinth rundet diesen abwechslungsreichen Tag perfekt ab.",
+        "hu": "A Bailly-Romainvilliers-i autós túra az exkluzív golfpályán és a nyugodt Bassins de Bailly-nél indul. Délben felfedezheti a Parc des Communes természetét és megtekintheti a bájos helyi templomot. A délután akciódús lesz a Villages Nature és a hozzá tartozó vízipark meglátogatásával. Egy szórakoztató kitérő a természetes útvesztőhöz tökéletesen zárja ezt a változatos napot.",
+        "ro": "O excursie cu mașina prin Bailly-Romainvilliers începe la terenul de golf exclusivist și la liniștitele Bassins de Bailly. La prânz explorați natura din Parc des Communes și vizitați fermecătoarea biserică locală. După-amiaza va fi plină de acțiune cu o vizită la Villages Nature și parcul său acvatic. O excursie distractivă la labirintul natural completează perfect această zi variată.",
+        "en": "A road trip through Bailly-Romainvilliers starts at the exclusive golf course and the tranquil Bassins de Bailly. At midday, explore the nature in Parc des Communes and visit the charming local church. The afternoon becomes action-packed with a visit to Villages Nature and its attached waterpark. A fun trip to the natural labyrinth perfectly rounds off this varied day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Golf Paris Val d'Europe",
+            "hu": "Golf Paris Val d'Europe",
+            "ro": "Golf Paris Val d'Europe",
+            "en": "Golf Paris Val d'Europe"
+          },
+          "coords": [
+            2.80917,
+            48.85652
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause, um die perfekt gepflegten Greens dieses renommierten Golfplatzes zu betrachten, und prüfen Sie vorab die Öffnungszeiten des Clubhauses.",
+            "hu": "Tartson egy kis szünetet, hogy megcsodálja e neves golfpálya tökéletesen karbantartott gyepét, és előre ellenőrizze a klubház nyitvatartását.",
+            "ro": "Faceți o pauză pentru a privi gazonul perfect întreținut al acestui renumit teren de golf și verificați programul clubului în avans.",
+            "en": "Take a break to gaze at the perfectly manicured greens of this renowned golf course, and check the clubhouse opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bassins de Bailly",
+            "hu": "Les Bassins de Bailly",
+            "ro": "Les Bassins de Bailly",
+            "en": "Les Bassins de Bailly"
+          },
+          "coords": [
+            2.821825,
+            48.850625
+          ],
+          "category": "civic",
+          "arrive_at": "10:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser zivilen Wasserbecken und spazieren Sie am Rand entlang, um einen entspannten Tagesbeginn zu haben.",
+            "hu": "Élvezze e polgári medencék nyugodt atmoszféráját, és sétáljon egyet a part mentén a pihentető napkezdés érdekében.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestor bazine civice și plimbați-vă pe marginea apei pentru un început de zi relaxant.",
+            "en": "Enjoy the tranquil atmosphere of these civic pools and take a stroll along the edge for a relaxing start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Communes",
+            "hu": "Parc des Communes",
+            "ro": "Parc des Communes",
+            "en": "Parc des Communes"
+          },
+          "coords": [
+            2.792551,
+            48.84469
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die grünen Wege dieses weitläufigen Parks und nutzen Sie die frühen Morgenstunden für eine besonders friedliche Atmosphäre.",
+            "hu": "Kerekezzen végig a park zöldellő ösvényein, és használja ki a kora reggeli órákat a különösen békés hangulatért.",
+            "ro": "Pedalați pe cărările verzi ale acestui parc spațios și profitați de orele dimineții devreme pentru o atmosferă deosebit de liniștită.",
+            "en": "Cycle through the green paths of this expansive park and take advantage of the early morning hours for an especially peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.81108,
+            48.839805
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche, und betreten Sie sie leise, um die friedliche Stille im Inneren aufzunehmen.",
+            "hu": "Csodálja meg e templom egyszerű, de elegáns építészetét, és lépjen be halkan, hogy magába szívja a benti békés csendet.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și intrați încet pentru a absorbi liniștea pașnică din interior.",
+            "en": "Admire the simple yet elegant architecture of this church, and step inside quietly to absorb the peaceful silence within."
+          }
+        },
+        {
+          "name": {
+            "de": "Villages Nature Paris",
+            "hu": "Villages Nature Paris",
+            "ro": "Villages Nature Paris",
+            "en": "Villages Nature Paris"
+          },
+          "coords": [
+            2.82162,
+            48.8264
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die nachhaltige Architektur und die vielseitigen Gärten dieser innovativen Anlage, die perfekt für Naturliebhaber konzipiert ist.",
+            "hu": "Fedezze fel ezen innovatív létesítmény fenntartható építészetét és sokoldalú kertjeit, amelyet kifejezetten a természetkedvelőknek terveztek.",
+            "ro": "Descoperiți arhitectura durabilă și grădinile diverse ale acestei facilități inovatoare, care este concepută perfect pentru iubitorii de natură.",
+            "en": "Discover the sustainable architecture and versatile gardens of this innovative facility, which is designed perfectly for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Villages Nature Waterpark",
+            "hu": "Les Villages Nature Waterpark",
+            "ro": "Les Villages Nature Waterpark",
+            "en": "Les Villages Nature Waterpark"
+          },
+          "coords": [
+            2.817663,
+            48.828963
+          ],
+          "category": "family",
+          "arrive_at": "13:46",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Tages mit adrenalingeladenen Rutschen und Wellenbädern; bringen Sie eigene Handtücher mit, um Zeit an der Ausleihe zu sparen.",
+            "hu": "Töltse a nap hátralévő részét az adrenalindús csúszdákon és a hullámmedencékben; hozzon saját törölközőt, hogy időt takarítson meg.",
+            "ro": "Petreceți restul zilei pe tobogane pline de adrenalină și în piscinele cu valuri; aduceți-vă propriile prosoape pentru a economisi timp.",
+            "en": "Spend the rest of the day enjoying adrenaline-pumping slides and wave pools; bring your own towels to save time at the rental desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Labyrinthe Nature Val d’Europe 77",
+            "hu": "Labyrinthe Nature Val d’Europe 77",
+            "ro": "Labyrinthe Nature Val d’Europe 77",
+            "en": "Labyrinthe Nature Val d’Europe 77"
+          },
+          "coords": [
+            2.835396,
+            48.819013
+          ],
+          "category": "family",
+          "arrive_at": "15:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Verirren Sie sich auf lustige Weise in diesem Natur-Labyrinth, aber vergessen Sie nicht, festes Schuhwerk für die unebenen Pfade zu tragen.",
+            "hu": "Tévedjen el szórakoztató módon ebben a természetes útvesztőben, de ne felejtsen el masszív lábbelit viselni az egyenetlen ösvényekhez.",
+            "ro": "Pierdeți-vă într-un mod distractiv în acest labirint natural, dar nu uitați să purtați încălțăminte solidă pentru potecile denivelate.",
+            "en": "Get lost in a fun way in this natural labyrinth, but don't forget to wear sturdy footwear for the sometimes uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Roadtrip durch Bailly-Romainvilliers startet am exklusiven Golfplatz und den ruhigen Bassins de Bailly. Mittags erkunden Sie die Natur im Parc des Communes und besichtigen die charmante Kirche des Ortes. Der Nachmittag wird actionreich mit einem Besuch in den Villages Nature und dem angeschlossenen Wasserpark. Ein unterhaltsamer Ausflug zum Natur-Labyrinth rundet diesen abwechslungsreichen Tag perfekt ab.",
+        "hu": "A Bailly-Romainvilliers-i autós túra az exkluzív golfpályán és a nyugodt Bassins de Bailly-nél indul. Délben felfedezheti a Parc des Communes természetét és megtekintheti a bájos helyi templomot. A délután akciódús lesz a Villages Nature és a hozzá tartozó vízipark meglátogatásával. Egy szórakoztató kitérő a természetes útvesztőhöz tökéletesen zárja ezt a változatos napot.",
+        "ro": "O excursie cu mașina prin Bailly-Romainvilliers începe la terenul de golf exclusivist și la liniștitele Bassins de Bailly. La prânz explorați natura din Parc des Communes și vizitați fermecătoarea biserică locală. După-amiaza va fi plină de acțiune cu o vizită la Villages Nature și parcul său acvatic. O excursie distractivă la labirintul natural completează perfect această zi variată.",
+        "en": "A road trip through Bailly-Romainvilliers starts at the exclusive golf course and the tranquil Bassins de Bailly. At midday, explore the nature in Parc des Communes and visit the charming local church. The afternoon becomes action-packed with a visit to Villages Nature and its attached waterpark. A fun trip to the natural labyrinth perfectly rounds off this varied day."
+      }
+    }
+  }
+}

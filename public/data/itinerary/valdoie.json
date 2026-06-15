@@ -1,0 +1,520 @@
+{
+  "city_id": "valdoie",
+  "anchor": {
+    "name": "Valdoie",
+    "coords": [
+      6.8419,
+      47.6672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 5.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Valdoie",
+            "hu": "Valdoie Városháza",
+            "ro": "Primăria Valdoie",
+            "en": "Valdoie Town Hall"
+          },
+          "coords": [
+            6.839108,
+            47.667746
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Rathauses, die die lokale Geschichte widerspiegelt, und machen Sie am frühen Morgen ein schnelles Foto am Haupteingang.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely a helyi történelmet tükrözi, és készítsen egy gyors fotót a főbejáratnál, lehetőleg még a kora reggeli órákban.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care reflectă istoria locală, și faceți o fotografie rapidă la intrarea principală dimineața devreme, când e liniște.",
+            "en": "Admire the elegant architecture of Valdoie's civic center, which reflects local history, and consider taking a quick photo by the main entrance early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kirche",
+            "hu": "Szent József Templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            6.842679,
+            47.667334
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses friedliche Heiligtum ein, um die wunderschönen Buntglasfenster zu betrachten, und denken Sie an die nötige Stille während der Morgengottesdienste.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megtekinthesse a gyönyörű ólomüveg ablakokat, és ügyeljen a csendre, mivel a reggeli misék még tarthatnak odabent.",
+            "ro": "Pășiți în acest sanctuar pașnic pentru a admira vitraliile sale frumoase și păstrați liniștea, deoarece slujbele de dimineață ar putea fi în plină desfășurare.",
+            "en": "Step inside this peaceful sanctuary to view its beautiful stained glass windows, and remember to maintain silence as morning services might be taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Valdoie",
+            "hu": "Valdoie Gát",
+            "ro": "Barajul Valdoie",
+            "en": "Valdoie Dam"
+          },
+          "coords": [
+            6.846699,
+            47.673547
+          ],
+          "category": "civic",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Beobachten Sie die beeindruckende Technik dieses historischen Wasserbauwerks vom markierten Aussichtspunkt aus, um die kaskadierenden Wassermassen sicher zu fotografieren.",
+            "hu": "Figyelje meg a történelmi vízügyi építmény lenyűgöző mérnöki munkáját a kijelölt kilátópontról, hogy biztonságosan megörökíthesse a vízesésként lezúduló vizet.",
+            "ro": "Observați ingineria impresionantă a acestei structuri istorice de management al apei de la punctul de observare pentru a fotografia în siguranță cascadele spectaculoase.",
+            "en": "Observe the impressive engineering of this historic water management structure from the designated viewing point to safely capture the cascading waters on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Cravanche",
+            "hu": "Cravanche-tó",
+            "ro": "Iazul Cravanche",
+            "en": "Étang de Cravanche"
+          },
+          "coords": [
+            6.830644,
+            47.652275
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen Naturteich, der ein Paradies für lokale Vogelarten ist, und bringen Sie ein Fernglas für die beste Vogelbeobachtung vom Weg aus mit.",
+            "hu": "Sétáljon egyet a nyugodt természetes tó partján, amely a helyi madárvilág menedéke, és hozzon magával távcsövet a legjobb ösvény menti madármegfigyelési élményhez.",
+            "ro": "Plimbați-vă pe perimetrul liniștit al acestui iaz natural, un refugiu pentru păsările locale, și aduceți binoclul pentru cea mai bună experiență de observare.",
+            "en": "Stroll around the tranquil perimeter of this natural pond, which is a haven for local birdlife, and bring binoculars for the best birdwatching experience from the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Bull",
+            "hu": "Bull-tó",
+            "ro": "Iazul Bull",
+            "en": "Étang Bull"
+          },
+          "coords": [
+            6.84596,
+            47.645254
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses malerischen Ortes, der sich perfekt für eine Nachmittagspause eignet, aber bleiben Sie unbedingt auf den markierten Wegen.",
+            "hu": "Pihenjen meg a festői tó nyugodt vizénél, amely tökéletes egy délutáni pihenéshez, de maradjon a jelzett ösvényeken a törékeny vizes élőhely védelme érdekében.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui loc pitoresc, perfect pentru odihna de după-amiază, dar rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Relax by the calm waters of this picturesque spot perfect for an afternoon rest, but remember to stay on marked trails to protect the fragile wetland ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum und bewundern Sie die Architektur und die friedliche Kirche. Gegen Mittag wechseln Sie zu den beeindruckenden Wasserbauwerken wie dem Damm. Der Nachmittag lädt zur Erkundung der ruhigen Naturteiche am Stadtrand ein. Lassen Sie den Tag mit einem entspannenden Spaziergang an den malerischen Naturstätten ausklingen und genießen Sie Valdoies Charme.",
+        "hu": "Kezdje a reggelt a történelmi központban, megcsodálva a polgári építészetet és a békés templomot. Délben sétáljon el a város lenyűgöző vízügyi építményeihez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot egy pihentető sétával a festői természeti helyszíneken, elmerülve Valdoie csendes varázsában.",
+        "ro": "Începeți dimineața în centrul istoric, admirând arhitectura civică și biserica pașnică. La prânz, îndreptați-vă spre structurile impresionante de gestionare a apei, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu o plimbare relaxantă de seară pe lângă locurile naturale pitorești, reflectând la farmecul orașului.",
+        "en": "Begin your morning in the historic center, admiring the civic architecture and peaceful church. By midday, transition towards the town's impressive water management structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing evening walk by the scenic natural spots, reflecting on Valdoie's quiet charm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 13.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Valdoie",
+            "hu": "Valdoie Városháza",
+            "ro": "Primăria Valdoie",
+            "en": "Valdoie Town Hall"
+          },
+          "coords": [
+            6.839108,
+            47.667746
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Rathauses, die die lokale Geschichte widerspiegelt, und machen Sie am frühen Morgen ein schnelles Foto am Haupteingang.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely a helyi történelmet tükrözi, és készítsen egy gyors fotót a főbejáratnál, lehetőleg még a kora reggeli órákban.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care reflectă istoria locală, și faceți o fotografie rapidă la intrarea principală dimineața devreme, când e liniște.",
+            "en": "Admire the elegant architecture of Valdoie's civic center, which reflects local history, and consider taking a quick photo by the main entrance early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kirche",
+            "hu": "Szent József Templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            6.842679,
+            47.667334
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses friedliche Heiligtum ein, um die wunderschönen Buntglasfenster zu betrachten, und denken Sie an die nötige Stille während der Morgengottesdienste.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megtekinthesse a gyönyörű ólomüveg ablakokat, és ügyeljen a csendre, mivel a reggeli misék még tarthatnak odabent.",
+            "ro": "Pășiți în acest sanctuar pașnic pentru a admira vitraliile sale frumoase și păstrați liniștea, deoarece slujbele de dimineață ar putea fi în plină desfășurare.",
+            "en": "Step inside this peaceful sanctuary to view its beautiful stained glass windows, and remember to maintain silence as morning services might be taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Valdoie",
+            "hu": "Valdoie Gát",
+            "ro": "Barajul Valdoie",
+            "en": "Valdoie Dam"
+          },
+          "coords": [
+            6.846699,
+            47.673547
+          ],
+          "category": "civic",
+          "arrive_at": "10:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Beobachten Sie die beeindruckende Technik dieses historischen Wasserbauwerks vom markierten Aussichtspunkt aus, um die kaskadierenden Wassermassen sicher zu fotografieren.",
+            "hu": "Figyelje meg a történelmi vízügyi építmény lenyűgöző mérnöki munkáját a kijelölt kilátópontról, hogy biztonságosan megörökíthesse a vízesésként lezúduló vizet.",
+            "ro": "Observați ingineria impresionantă a acestei structuri istorice de management al apei de la punctul de observare pentru a fotografia în siguranță cascadele spectaculoase.",
+            "en": "Observe the impressive engineering of this historic water management structure from the designated viewing point to safely capture the cascading waters on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Savoureuse",
+            "hu": "Savoureuse Folyópart",
+            "ro": "Malurile Râului Savoureuse",
+            "en": "Savoureuse River Banks"
+          },
+          "coords": [
+            6.852421,
+            47.693989
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Radtour entlang der gewundenen, von üppigem Grün gesäumten Flussufer und achten Sie auf die unbefestigten Naturpfade in Ufernähe.",
+            "hu": "Élvezze a frissítő kerékpározást a kanyargós, buja zölddel övezett folyóparti ösvényeken, és figyeljen a burkolatlan természetes utakra a part közelében.",
+            "ro": "Bucurați-vă de o plimbare revigorantă cu bicicleta de-a lungul traseelor șerpuite, caracterizate de verdeață luxuriantă, și fiți atenți pe potecile naturale neasfaltate.",
+            "en": "Enjoy a refreshing bike ride along the winding river trails, characterized by lush greenery, and stay alert when navigating the unpaved natural paths near the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Gauthier",
+            "hu": "Gauthier-tó",
+            "ro": "Iazul Gauthier",
+            "en": "Étang Gauthier"
+          },
+          "coords": [
+            6.823854,
+            47.695705
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen versteckten, von dichtem Laub umgebenen See, der tiefe Entspannung bietet, und packen Sie ein leichtes Picknick ein, um die Natur voll zu genießen.",
+            "hu": "Fedezze fel ezt a sűrű lombozattal körülvett, eldugott, festői tavat, amely mély relaxációt kínál, és hozzon magával egy könnyű pikniket a zavartalan természet élvezetéhez.",
+            "ro": "Descoperiți acest lac pitoresc ascuns, înconjurat de frunziș dens, și pregătiți un picnic ușor pentru a vă bucura pe deplin de ambianța naturală netulburată.",
+            "en": "Discover this hidden scenic lake surrounded by dense foliage that offers deep relaxation, and pack a light picnic to fully enjoy the undisturbed natural ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Véronne",
+            "hu": "Véronne-tó",
+            "ro": "Iazul Véronne",
+            "en": "Étang de la Véronne"
+          },
+          "coords": [
+            6.811745,
+            47.688651
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in diesem weitläufigen Wasserreservat ein, das für seine spiegelnden Reflexionen bekannt ist, und nutzen Sie das sanfte Nachmittagslicht für Fotos.",
+            "hu": "Szívja magába a friss levegőt ezen a hatalmas, tükörszerű tükröződéseiről ismert vízi rezervátumban, és használja ki a lágy délutáni fényeket a lenyűgöző tájképekhez.",
+            "ro": "Respirați aer curat la această rezervație acvatică expansivă cunoscută pentru reflexiile sale și folosiți lumina blândă de după-amiază pentru fotografii spectaculoase.",
+            "en": "Breathe in the fresh air at this expansive aquatic reserve known for mirror-like reflections, and utilize the soft afternoon light for truly spectacular landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Square du Souvenir",
+            "hu": "Square du Souvenir",
+            "ro": "Square du Souvenir",
+            "en": "Square du Souvenir"
+          },
+          "coords": [
+            6.860666,
+            47.63566
+          ],
+          "category": "civic",
+          "arrive_at": "15:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen zivilen Denkmal inne, das dem lokalen Erbe gewidmet ist, und nehmen Sie sich Zeit, um die Inschriften der Informationstafeln zu lesen.",
+            "hu": "Álljon meg egy pillanatra ezen a helyi örökségnek és emlékezésnek szentelt ünnepélyes polgári emlékműnél, és olvassa el a régió történelmi küzdelmeit bemutató táblákat.",
+            "ro": "Opriți-vă la acest memorial civic solemn dedicat moștenirii locale și citiți plăcile inscripționate care detaliază luptele istorice și sacrificiile din această regiune.",
+            "en": "Pause at this solemn civic memorial dedicated to local heritage and remembrance, and take a moment to read the inscribed plaques that detail the region's historical struggles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum und bewundern Sie die Architektur und die friedliche Kirche. Gegen Mittag wechseln Sie zu den beeindruckenden Wasserbauwerken wie dem Damm. Der Nachmittag lädt zur Erkundung der ruhigen Naturteiche am Stadtrand ein. Lassen Sie den Tag mit einem entspannenden Besuch am Denkmal ausklingen und genießen Sie Valdoies Geschichte.",
+        "hu": "Kezdje a reggelt a történelmi központban, megcsodálva a polgári építészetet és a békés templomot. Délben tekerjen el a város lenyűgöző vízügyi építményeihez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot az emlékműnél, tisztelegve a város történelme és helyi öröksége előtt.",
+        "ro": "Începeți dimineața în centrul istoric, admirând arhitectura civică și biserica pașnică. La prânz, pedalați spre structurile impresionante de gestionare a apei, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu un moment de respect la memorial, reflectând la istoria fascinantă a regiunii.",
+        "en": "Begin your morning in the historic center, admiring the civic architecture and peaceful church. By midday, transition towards the town's impressive water management structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing moment at the heritage square, reflecting on Valdoie's past."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.65,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Square du Souvenir",
+            "hu": "Square du Souvenir",
+            "ro": "Square du Souvenir",
+            "en": "Square du Souvenir"
+          },
+          "coords": [
+            6.860666,
+            47.63566
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen zivilen Denkmal inne, das dem lokalen Erbe gewidmet ist, und nehmen Sie sich Zeit, um die Inschriften der Informationstafeln zu lesen.",
+            "hu": "Álljon meg egy pillanatra ezen a helyi örökségnek és emlékezésnek szentelt ünnepélyes polgári emlékműnél, és olvassa el a régió történelmi küzdelmeit bemutató táblákat.",
+            "ro": "Opriți-vă la acest memorial civic solemn dedicat moștenirii locale și citiți plăcile inscripționate care detaliază luptele istorice și sacrificiile din această regiune.",
+            "en": "Pause at this solemn civic memorial dedicated to local heritage and remembrance, and take a moment to read the inscribed plaques that detail the region's historical struggles."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Bull",
+            "hu": "Bull-tó",
+            "ro": "Iazul Bull",
+            "en": "Étang Bull"
+          },
+          "coords": [
+            6.84596,
+            47.645254
+          ],
+          "category": "natural",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses malerischen Ortes, der sich perfekt für eine Morgengehpause eignet, aber bleiben Sie unbedingt auf den markierten Wegen.",
+            "hu": "Pihenjen meg a festői tó nyugodt vizénél, amely tökéletes egy reggeli pihenéshez, de maradjon a jelzett ösvényeken a törékeny vizes élőhely védelme érdekében.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui loc pitoresc, perfect pentru odihna de dimineață, dar rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Relax by the calm waters of this picturesque spot perfect for a morning rest, but remember to stay on marked trails to protect the fragile wetland ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Valdoie",
+            "hu": "Valdoie Városháza",
+            "ro": "Primăria Valdoie",
+            "en": "Valdoie Town Hall"
+          },
+          "coords": [
+            6.839108,
+            47.667746
+          ],
+          "category": "civic",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Rathauses, die die lokale Geschichte widerspiegelt, und machen Sie vor dem Mittagessen ein Foto am Haupteingang.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely a helyi történelmet tükrözi, és készítsen egy gyors fotót a főbejáratnál, mielőtt folytatná az útját.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care reflectă istoria locală, și faceți o fotografie rapidă la intrarea principală înainte de prânz.",
+            "en": "Admire the elegant architecture of Valdoie's civic center, which reflects local history, and consider taking a quick photo by the main entrance before midday."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Joseph-Kirche",
+            "hu": "Szent József Templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint-Joseph Church"
+          },
+          "coords": [
+            6.842679,
+            47.667334
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses friedliche Heiligtum ein, um die wunderschönen Buntglasfenster zu betrachten, und genießen Sie die spirituelle Ruhe des historischen Bauwerks.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megtekinthesse a gyönyörű ólomüveg ablakokat, és élvezze a történelmi épület spirituális nyugalmát a város szívében.",
+            "ro": "Pășiți în acest sanctuar pașnic pentru a admira vitraliile sale frumoase și bucurați-vă de liniștea spirituală a acestei clădiri istorice magnifice.",
+            "en": "Step inside this peaceful sanctuary to view its beautiful stained glass windows, and enjoy the spiritual quietude of this historical building in the heart of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm Valdoie",
+            "hu": "Valdoie Gát",
+            "ro": "Barajul Valdoie",
+            "en": "Valdoie Dam"
+          },
+          "coords": [
+            6.846699,
+            47.673547
+          ],
+          "category": "civic",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Beobachten Sie die beeindruckende Technik dieses historischen Wasserbauwerks vom markierten Aussichtspunkt aus, um die kaskadierenden Wassermassen sicher zu fotografieren.",
+            "hu": "Figyelje meg a történelmi vízügyi építmény lenyűgöző mérnöki munkáját a kijelölt kilátópontról, hogy biztonságosan megörökíthesse a vízesésként lezúduló vizet.",
+            "ro": "Observați ingineria impresionantă a acestei structuri istorice de management al apei de la punctul de observare pentru a fotografia în siguranță cascadele spectaculoase.",
+            "en": "Observe the impressive engineering of this historic water management structure from the designated viewing point to safely capture the cascading waters on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Véronne",
+            "hu": "Véronne-tó",
+            "ro": "Iazul Véronne",
+            "en": "Étang de la Véronne"
+          },
+          "coords": [
+            6.811745,
+            47.688651
+          ],
+          "category": "natural",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in diesem weitläufigen Wasserreservat ein, das für seine spiegelnden Reflexionen bekannt ist, und genießen Sie hier Ihr mitgebrachtes Mittagessen.",
+            "hu": "Szívja magába a friss levegőt ezen a hatalmas, tükörszerű tükröződéseiről ismert vízi rezervátumban, és fogyassza el az ebédjét a természet lágy ölén.",
+            "ro": "Respirați aer curat la această rezervație acvatică expansivă cunoscută pentru reflexiile sale și bucurați-vă de un prânz liniștit în inima naturii.",
+            "en": "Breathe in the fresh air at this expansive aquatic reserve known for mirror-like reflections, and enjoy a packed lunch surrounded by peaceful woodland scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Gauthier",
+            "hu": "Gauthier-tó",
+            "ro": "Iazul Gauthier",
+            "en": "Étang Gauthier"
+          },
+          "coords": [
+            6.823854,
+            47.695705
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen versteckten, von dichtem Laub umgebenen See, der tiefe Entspannung bietet, und wandern Sie auf den kurzen, schattigen Wegen entlang des Wassers.",
+            "hu": "Fedezze fel ezt a sűrű lombozattal körülvett, eldugott, festői tavat, amely mély relaxációt kínál, és sétáljon egyet az árnyékos parti ösvényeken.",
+            "ro": "Descoperiți acest lac pitoresc ascuns, înconjurat de frunziș dens, care oferă o relaxare profundă și faceți o plimbare scurtă pe cărările umbrite.",
+            "en": "Discover this hidden scenic lake surrounded by dense foliage that offers deep relaxation, and take a short stroll along the shaded pathways bordering the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Savoureuse",
+            "hu": "Savoureuse Folyópart",
+            "ro": "Malurile Râului Savoureuse",
+            "en": "Savoureuse River Banks"
+          },
+          "coords": [
+            6.852421,
+            47.693989
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Spaziergang entlang der gewundenen, von üppigem Grün gesäumten Flussufer und tragen Sie feste Schuhe für die unbefestigten Naturpfade.",
+            "hu": "Élvezze a frissítő sétát a kanyargós, buja zölddel övezett folyóparti ösvényeken, és viseljen masszív cipőt a burkolatlan természetes utak kényelmes bejárásához.",
+            "ro": "Bucurați-vă de o plimbare revigorantă de-a lungul traseelor șerpuite, caracterizate de verdeață luxuriantă, și purtați încălțăminte robustă pentru potecile naturale.",
+            "en": "Enjoy a refreshing walk along the winding river trails, characterized by lush greenery, and wear sturdy walking shoes to comfortably navigate the unpaved natural paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Denkmal und am ruhigen Bull-See. Gegen Mittag wechseln Sie ins Zentrum und zu den beeindruckenden Wasserbauwerken wie dem Damm. Der Nachmittag lädt zur Erkundung der ruhigen Naturteiche am Stadtrand ein. Lassen Sie den Tag mit einem entspannenden Spaziergang am Flussufer ausklingen und genießen Sie Valdoies Natur.",
+        "hu": "Kezdje a reggelt a történelmi emlékműnél és a békés Bull-tónál. Délben hajtson be a központba a templomhoz és a lenyűgöző vízügyi építményekhez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot egy pihentető sétával a festői folyóparton, elmerülve a helyi varázsban.",
+        "ro": "Începeți dimineața la memorialul istoric și la pașnicul iaz Bull. La prânz, conduceți spre centru pentru a vedea biserica și structurile impresionante, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu o plimbare relaxantă de seară pe malul râului, reflectând la frumusețea locului.",
+        "en": "Begin your morning at the historic memorial and the peaceful Bull pond. By midday, drive into the center for the church and the impressive water structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing evening walk by the scenic river banks, reflecting on Valdoie's nature."
+      }
+    }
+  }
+}

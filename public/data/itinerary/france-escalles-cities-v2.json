@@ -1,0 +1,543 @@
+{
+  "city_id": "france-escalles-cities-v2",
+  "anchor": {
+    "name": "Escalles",
+    "coords": [
+      1.71361,
+      50.91798
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Maxime",
+            "hu": "Église Saint-Maxime",
+            "ro": "Église Saint-Maxime",
+            "en": "Église Saint-Maxime"
+          },
+          "coords": [
+            1.713546,
+            50.916621
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser historischen Dorfkirche, die einen friedlichen Rückzugsort bietet, und respektieren Sie dabei stets die lokalen Gottesdienste.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a bájos kőépítészetét, amely békés menedéket nyújt, ezért ügyeljen a helyi szertartások tiszteletben tartására látogatása során.",
+            "ro": "Admirați arhitectura fermecătoare de piatră a acestei biserici istorice, care servește drept un refugiu pașnic, așa că nu uitați să respectați slujbele locale în timpul vizitei.",
+            "en": "Admire the charming stone architecture of this historic village church, which serves as a peaceful retreat, so remember to respect local services and ceremonies while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin d'Escalles",
+            "hu": "Moulin d'Escalles",
+            "ro": "Moulin d'Escalles",
+            "en": "Moulin d'Escalles"
+          },
+          "coords": [
+            1.724455,
+            50.915787
+          ],
+          "category": "landmark",
+          "arrive_at": "10:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses malerische Überbleibsel der lokalen Mühlengeschichte bietet ein wunderbares Fotomotiv, also versuchen Sie früh hier zu sein, um das Morgenlicht ohne Menschenmassen einzufangen.",
+            "hu": "A helyi malomipari történelem e festői maradványa csodálatos fotózási lehetőséget kínál a táj hátterével, így próbáljon meg korán érkezni a reggeli fények megörökítéséhez.",
+            "ro": "Această rămășiță pitorească a istoriei morăritului local oferă o oportunitate minunată de a face fotografii, așa că încercați să ajungeți devreme pentru lumina clară a dimineții.",
+            "en": "This quaint remnant of local milling history provides a wonderful photo opportunity against the landscape, so try arriving early to capture the morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont d'Hubert",
+            "hu": "Mont d'Hubert",
+            "ro": "Mont d'Hubert",
+            "en": "Mont d'Hubert"
+          },
+          "coords": [
+            1.721465,
+            50.921927
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese Erhebung, um den Panoramablick über die Küstenfelder zu genießen, aber tragen Sie feste Schuhe, da die grasbewachsenen Pfade nach Regen rutschig sein können.",
+            "hu": "Másszon fel erre a természeti magaslatra, hogy megtapasztalja a partvidéki mezők panorámáját, de feltétlenül viseljen masszív cipőt, mivel a füves ösvények csúszósak lehetnek.",
+            "ro": "Urcați pe această înălțime naturală pentru a experimenta vederi panoramice ale coastei, dar purtați încălțăminte rezistentă, deoarece traseele cu iarbă pot fi alunecoase după ploaie.",
+            "en": "Hike up this stunning natural elevation to experience panoramic views of the coastal fields, but be sure to wear sturdy shoes as the grassy trails can be quite slippery after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie MKB Lindemann (Atlantik Wall)",
+            "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+            "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+            "en": "Batterie MKB Lindemann (Atlantik Wall)"
+          },
+          "coords": [
+            1.735922,
+            50.932585
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser stark befestigten Artilleriebatterie des Atlantikwalls und bringen Sie eine Taschenlampe mit, wenn Sie in die tieferen Bunker blicken möchten.",
+            "hu": "Fedezze fel az Atlanti Fal ezen erősen megerősített tüzérségi ütegének romjait, és hozzon zseblámpát, ha be szeretne kukkantani a mélyebb, sötétebb háborús bunkerekbe.",
+            "ro": "Explorați ruinele impunătoare ale acestei baterii de artilerie din Zidul Atlanticului și aduceți o lanternă dacă doriți să priviți cu atenție în buncărele mai adânci și umbrite.",
+            "en": "Explore the imposing ruins of this heavily fortified Atlantic Wall artillery battery, and bring a flashlight if you wish to peer into the deeper, shadowed World War II bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument to the Dover Patrol",
+            "hu": "Monument to the Dover Patrol",
+            "ro": "Monument to the Dover Patrol",
+            "en": "Monument to the Dover Patrol"
+          },
+          "coords": [
+            1.7099,
+            50.924848
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Dieser Obelisk zu Ehren der Seestreitkräfte des Ersten Weltkriegs markiert den Punkt nahe England und ist ein idealer, wenn auch windiger Ort für historische Reflexionen.",
+            "hu": "Az első világháború haditengerészeti erőinek tiszteletére emelt magas obeliszk jelzi az Angliához legközelebb eső pontot, így ideális, bár szeles helyszín a történelmi elmélkedéshez.",
+            "ro": "Ridicat în onoarea forțelor navale din Primul Război Mondial, acest grandios obelisc este un loc ideal, deși destul de vântos, pentru o reflecție istorică deasupra mării.",
+            "en": "Standing tall in honor of the naval forces of World War I, this grand obelisk marks the closest point to England, making it an ideal, albeit windy, spot for historical reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Blanc-Nez",
+            "hu": "Cap Blanc-Nez",
+            "ro": "Cap Blanc-Nez",
+            "en": "Cap Blanc-Nez"
+          },
+          "coords": [
+            1.71106,
+            50.926328
+          ],
+          "category": "landmark",
+          "arrive_at": "14:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese dramatischen Kreidefelsen bieten den besten Aussichtspunkt in Nordfrankreich; halten Sie also an klaren Tagen Ausschau, wenn die White Cliffs of Dover sichtbar sind.",
+            "hu": "Ezek a drámai fehér mészkősziklák a legjobb kilátást nyújtják a Csatornára, így figyeljen a tiszta napokra, amikor a doveri fehér sziklák látványosan kirajzolódnak a távolban.",
+            "ro": "Aceste stânci dramatice oferă cel mai bun punct de belvedere din nordul Franței, așa că fiți atenți în zilele senine când Stâncile Albe din Dover devin vizibile în mod spectaculos.",
+            "en": "These dramatic white chalk cliffs offer arguably the best vantage point in northern France, so keep an eye out for clear days when the White Cliffs of Dover are spectacularly visible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im malerischen Herzen von Escalles und genießen Sie die historische Atmosphäre.\nDer Weg führt hinauf zu atemberaubenden natürlichen Erhebungen und verbindet üppige Landschaft mit weiten Meeresblicken.\nWir tauchen in dunklere Kapitel der Geschichte ein und erkunden die schroffen Bunkerruinen des Atlantikwalls.\nBeenden Sie Ihre Wanderung auf den monumentalen Kreidefelsen, spüren Sie den rauen Wind und blicken Sie nach England.",
+        "hu": "Kezdje a napot Escalles festői szívében, és élvezze a történelmi hangulatot, mielőtt útnak indul.\nAz ösvény lélegzetelállító természeti magaslatokra vezet, ötvözve a buja vidéket a hatalmas óceáni kilátással.\nA történelem sötétebb fejezeteibe merülünk, felfedezve az Atlanti Fal zord tengerparti bunkerromjait.\nFejezze be túráját a monumentális mészkősziklákon állva, érezze a vad szelet, és tekintsen Anglia felé.",
+        "ro": "Începeți ziua în inima pitorească a orașului Escalles, bucurându-vă de atmosfera istorică înainte de a porni la drum.\nTraseul duce la înălțimi naturale uluitoare, combinând peisajul luxuriant cu vederi imense la ocean.\nNe scufundăm în capitole mai întunecate ale istoriei explorând ruinele accidentate ale buncărelor de coastă din Zidul Atlanticului.\nÎncheiați drumeția stând pe stâncile monumentale de cretă, simțind vântul aspru și privind spre Anglia.",
+        "en": "Start the day in the quaint heart of Escalles, taking in the historical ambiance before setting off.\nThe trail leads up to breathtaking natural elevations, blending lush countryside with immense ocean vistas.\nWe plunge into the darker chapters of history exploring the rugged coastal bunker ruins of the Atlantic Wall.\nEnd your hike standing on the monumental chalk cliffs, feeling the fierce wind and gazing toward England."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mont de Sombre",
+            "hu": "Mont de Sombre",
+            "ro": "Mont de Sombre",
+            "en": "Mont de Sombre"
+          },
+          "coords": [
+            1.712775,
+            50.899398
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Wanderung durch die sanften Hügel im Landesinneren, aber denken Sie daran, Ihr eigenes Wasser mitzubringen, da es keine Einrichtungen in der Nähe gibt.",
+            "hu": "Élvezze a békés barangolást e festői hegycsúcs szárazföldi dombjain, de ne felejtsen el saját vizet hozni magával, mivel a közelben nincsenek turisztikai létesítmények.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin dealurile interioare ondulate ale acestui vârf, dar nu uitați să vă aduceți propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Enjoy a peaceful ramble through the rolling inland hills of this scenic summit, but remember to bring your own water and snacks as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maxime",
+            "hu": "Église Saint-Maxime",
+            "ro": "Église Saint-Maxime",
+            "en": "Église Saint-Maxime"
+          },
+          "coords": [
+            1.713546,
+            50.916621
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser historischen Dorfkirche, die einen friedlichen Rückzugsort bietet, und respektieren Sie dabei stets die lokalen Gottesdienste.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a bájos kőépítészetét, amely békés menedéket nyújt, ezért ügyeljen a helyi szertartások tiszteletben tartására látogatása során.",
+            "ro": "Admirați arhitectura fermecătoare de piatră a acestei biserici istorice, care servește drept un refugiu pașnic, așa că nu uitați să respectați slujbele locale în timpul vizitei.",
+            "en": "Admire the charming stone architecture of this historic village church, which serves as a peaceful retreat, so remember to respect local services and ceremonies while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin d'Escalles",
+            "hu": "Moulin d'Escalles",
+            "ro": "Moulin d'Escalles",
+            "en": "Moulin d'Escalles"
+          },
+          "coords": [
+            1.724455,
+            50.915787
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses malerische Überbleibsel der lokalen Mühlengeschichte bietet ein wunderbares Fotomotiv, also versuchen Sie früh hier zu sein, um das Morgenlicht ohne Menschenmassen einzufangen.",
+            "hu": "A helyi malomipari történelem e festői maradványa csodálatos fotózási lehetőséget kínál a táj hátterével, így próbáljon meg korán érkezni a reggeli fények megörökítéséhez.",
+            "ro": "Această rămășiță pitorească a istoriei morăritului local oferă o oportunitate minunată de a face fotografii, așa că încercați să ajungeți devreme pentru lumina clară a dimineții.",
+            "en": "This quaint remnant of local milling history provides a wonderful photo opportunity against the landscape, so try arriving early to capture the morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont d'Hubert",
+            "hu": "Mont d'Hubert",
+            "ro": "Mont d'Hubert",
+            "en": "Mont d'Hubert"
+          },
+          "coords": [
+            1.721465,
+            50.921927
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese Erhebung, um den Panoramablick über die Küstenfelder zu genießen, aber tragen Sie feste Schuhe, da die grasbewachsenen Pfade nach Regen rutschig sein können.",
+            "hu": "Másszon fel erre a természeti magaslatra, hogy megtapasztalja a partvidéki mezők panorámáját, de feltétlenül viseljen masszív cipőt, mivel a füves ösvények csúszósak lehetnek.",
+            "ro": "Urcați pe această înălțime naturală pentru a experimenta vederi panoramice ale coastei, dar purtați încălțăminte rezistentă, deoarece traseele cu iarbă pot fi alunecoase după ploaie.",
+            "en": "Hike up this stunning natural elevation to experience panoramic views of the coastal fields, but be sure to wear sturdy shoes as the grassy trails can be quite slippery after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument to the Dover Patrol",
+            "hu": "Monument to the Dover Patrol",
+            "ro": "Monument to the Dover Patrol",
+            "en": "Monument to the Dover Patrol"
+          },
+          "coords": [
+            1.7099,
+            50.924848
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieser Obelisk zu Ehren der Seestreitkräfte des Ersten Weltkriegs markiert den Punkt nahe England und ist ein idealer, wenn auch windiger Ort für historische Reflexionen.",
+            "hu": "Az első világháború haditengerészeti erőinek tiszteletére emelt magas obeliszk jelzi az Angliához legközelebb eső pontot, így ideális, bár szeles helyszín a történelmi elmélkedéshez.",
+            "ro": "Ridicat în onoarea forțelor navale din Primul Război Mondial, acest grandios obelisc este un loc ideal, deși destul de vântos, pentru o reflecție istorică deasupra mării.",
+            "en": "Standing tall in honor of the naval forces of World War I, this grand obelisk marks the closest point to England, making it an ideal, albeit windy, spot for historical reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Blanc-Nez",
+            "hu": "Cap Blanc-Nez",
+            "ro": "Cap Blanc-Nez",
+            "en": "Cap Blanc-Nez"
+          },
+          "coords": [
+            1.71106,
+            50.926328
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese dramatischen Kreidefelsen bieten den besten Aussichtspunkt in Nordfrankreich; halten Sie also an klaren Tagen Ausschau, wenn die White Cliffs of Dover sichtbar sind.",
+            "hu": "Ezek a drámai fehér mészkősziklák a legjobb kilátást nyújtják a Csatornára, így figyeljen a tiszta napokra, amikor a doveri fehér sziklák látványosan kirajzolódnak a távolban.",
+            "ro": "Aceste stânci dramatice oferă cel mai bun punct de belvedere din nordul Franței, așa că fiți atenți în zilele senine când Stâncile Albe din Dover devin vizibile în mod spectaculos.",
+            "en": "These dramatic white chalk cliffs offer arguably the best vantage point in northern France, so keep an eye out for clear days when the White Cliffs of Dover are spectacularly visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie MKB Lindemann (Atlantik Wall)",
+            "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+            "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+            "en": "Batterie MKB Lindemann (Atlantik Wall)"
+          },
+          "coords": [
+            1.735922,
+            50.932585
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser stark befestigten Artilleriebatterie des Atlantikwalls und bringen Sie eine Taschenlampe mit, wenn Sie in die tieferen Bunker blicken möchten.",
+            "hu": "Fedezze fel az Atlanti Fal ezen erősen megerősített tüzérségi ütegének romjait, és hozzon zseblámpát, ha be szeretne kukkantani a mélyebb, sötétebb háborús bunkerekbe.",
+            "ro": "Explorați ruinele impunătoare ale acestei baterii de artilerie din Zidul Atlanticului și aduceți o lanternă dacă doriți să priviți cu atenție în buncărele mai adânci și umbrite.",
+            "en": "Explore the imposing ruins of this heavily fortified Atlantic Wall artillery battery, and bring a flashlight if you wish to peer into the deeper, shadowed World War II bunkers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie nach Süden zu den ruhigen Hügeln im Landesinneren, bevor Sie zum Aufwärmen ins historische Dorfzentrum zurückkehren.\nBewältigen Sie die steilen Küstenpfade, belohnt durch atemberaubende Hügelpanoramen und alte Mühlenwahrzeichen.\nDie Route führt Sie direkt an den Rand der Klippe und balanciert historische Denkmäler mit weiten Küstenpanoramen.\nBeenden Sie die Fahrt mit der Erkundung schwerer Betonfestungen, ein dramatisches Ende einer unglaublich abwechslungsreichen Küstenreise.",
+        "hu": "Kerékpározzon délre a nyugodt szárazföldi dombokhoz, mielőtt visszagurulna a történelmi faluközpontba bemelegíteni.\nKüzdje le a meredek parti ösvényeket, amelyeket lenyűgöző hegytetői panorámák és régi malmok jutalmaznak.\nAz útvonal egyenesen a szikla szélére vezet, egyensúlyba hozva a történelmi emlékműveket a hatalmas parti panorámákkal.\nFejezze be az utat súlyos beton erődítmények felfedezésével, ami drámai befejezése egy hihetetlenül változatos parti utazásnak.",
+        "ro": "Mergeți cu bicicleta spre sud spre dealurile liniștite înainte de a vă întoarce în centrul istoric al satului pentru a vă încălzi.\nTreceți prin potecile abrupte de coastă, fiind răsplătiți de panorame uluitoare și repere vechi de morărit.\nTraseul vă duce chiar la marginea stâncii, echilibrând monumentele istorice cu panoramele vaste de coastă.\nTerminați plimbarea explorând fortărețe grele de beton, un final dramatic pentru o călătorie de coastă incredibil de variată.",
+        "en": "Cycle south to the tranquil inland hills before rolling back into the historic village center to warm up.\nPower through the steep coastal paths, rewarded by stunning hilltop panoramas and old milling landmarks.\nThe route takes you right to the cliff's edge, balancing historical monuments with vast coastal panoramas.\nFinish the ride exploring heavy concrete fortresses, a dramatic ending to an incredibly varied coastal journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mont de Sombre",
+            "hu": "Mont de Sombre",
+            "ro": "Mont de Sombre",
+            "en": "Mont de Sombre"
+          },
+          "coords": [
+            1.712775,
+            50.899398
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Wanderung durch die sanften Hügel im Landesinneren, aber denken Sie daran, Ihr eigenes Wasser mitzubringen, da es keine Einrichtungen in der Nähe gibt.",
+            "hu": "Élvezze a békés barangolást e festői hegycsúcs szárazföldi dombjain, de ne felejtsen el saját vizet hozni magával, mivel a közelben nincsenek turisztikai létesítmények.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin dealurile interioare ondulate ale acestui vârf, dar nu uitați să vă aduceți propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Enjoy a peaceful ramble through the rolling inland hills of this scenic summit, but remember to bring your own water and snacks as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maxime",
+            "hu": "Église Saint-Maxime",
+            "ro": "Église Saint-Maxime",
+            "en": "Église Saint-Maxime"
+          },
+          "coords": [
+            1.713546,
+            50.916621
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Steinarchitektur dieser historischen Dorfkirche, die einen friedlichen Rückzugsort bietet, und respektieren Sie dabei stets die lokalen Gottesdienste.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a bájos kőépítészetét, amely békés menedéket nyújt, ezért ügyeljen a helyi szertartások tiszteletben tartására látogatása során.",
+            "ro": "Admirați arhitectura fermecătoare de piatră a acestei biserici istorice, care servește drept un refugiu pașnic, așa că nu uitați să respectați slujbele locale în timpul vizitei.",
+            "en": "Admire the charming stone architecture of this historic village church, which serves as a peaceful retreat, so remember to respect local services and ceremonies while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin d'Escalles",
+            "hu": "Moulin d'Escalles",
+            "ro": "Moulin d'Escalles",
+            "en": "Moulin d'Escalles"
+          },
+          "coords": [
+            1.724455,
+            50.915787
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieses malerische Überbleibsel der lokalen Mühlengeschichte bietet ein wunderbares Fotomotiv, also versuchen Sie früh hier zu sein, um das Morgenlicht ohne Menschenmassen einzufangen.",
+            "hu": "A helyi malomipari történelem e festői maradványa csodálatos fotózási lehetőséget kínál a táj hátterével, így próbáljon meg korán érkezni a reggeli fények megörökítéséhez.",
+            "ro": "Această rămășiță pitorească a istoriei morăritului local oferă o oportunitate minunată de a face fotografii, așa că încercați să ajungeți devreme pentru lumina clară a dimineții.",
+            "en": "This quaint remnant of local milling history provides a wonderful photo opportunity against the landscape, so try arriving early to capture the morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont d'Hubert",
+            "hu": "Mont d'Hubert",
+            "ro": "Mont d'Hubert",
+            "en": "Mont d'Hubert"
+          },
+          "coords": [
+            1.721465,
+            50.921927
+          ],
+          "category": "natural",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese Erhebung, um den Panoramablick über die Küstenfelder zu genießen, aber tragen Sie feste Schuhe, da die grasbewachsenen Pfade nach Regen rutschig sein können.",
+            "hu": "Másszon fel erre a természeti magaslatra, hogy megtapasztalja a partvidéki mezők panorámáját, de feltétlenül viseljen masszív cipőt, mivel a füves ösvények csúszósak lehetnek.",
+            "ro": "Urcați pe această înălțime naturală pentru a experimenta vederi panoramice ale coastei, dar purtați încălțăminte rezistentă, deoarece traseele cu iarbă pot fi alunecoase după ploaie.",
+            "en": "Hike up this stunning natural elevation to experience panoramic views of the coastal fields, but be sure to wear sturdy shoes as the grassy trails can be quite slippery after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument to the Dover Patrol",
+            "hu": "Monument to the Dover Patrol",
+            "ro": "Monument to the Dover Patrol",
+            "en": "Monument to the Dover Patrol"
+          },
+          "coords": [
+            1.7099,
+            50.924848
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieser Obelisk zu Ehren der Seestreitkräfte des Ersten Weltkriegs markiert den Punkt nahe England und ist ein idealer, wenn auch windiger Ort für historische Reflexionen.",
+            "hu": "Az első világháború haditengerészeti erőinek tiszteletére emelt magas obeliszk jelzi az Angliához legközelebb eső pontot, így ideális, bár szeles helyszín a történelmi elmélkedéshez.",
+            "ro": "Ridicat în onoarea forțelor navale din Primul Război Mondial, acest grandios obelisc este un loc ideal, deși destul de vântos, pentru o reflecție istorică deasupra mării.",
+            "en": "Standing tall in honor of the naval forces of World War I, this grand obelisk marks the closest point to England, making it an ideal, albeit windy, spot for historical reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Blanc-Nez",
+            "hu": "Cap Blanc-Nez",
+            "ro": "Cap Blanc-Nez",
+            "en": "Cap Blanc-Nez"
+          },
+          "coords": [
+            1.71106,
+            50.926328
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese dramatischen Kreidefelsen bieten den besten Aussichtspunkt in Nordfrankreich; halten Sie also an klaren Tagen Ausschau, wenn die White Cliffs of Dover sichtbar sind.",
+            "hu": "Ezek a drámai fehér mészkősziklák a legjobb kilátást nyújtják a Csatornára, így figyeljen a tiszta napokra, amikor a doveri fehér sziklák látványosan kirajzolódnak a távolban.",
+            "ro": "Aceste stânci dramatice oferă cel mai bun punct de belvedere din nordul Franței, așa că fiți atenți în zilele senine când Stâncile Albe din Dover devin vizibile în mod spectaculos.",
+            "en": "These dramatic white chalk cliffs offer arguably the best vantage point in northern France, so keep an eye out for clear days when the White Cliffs of Dover are spectacularly visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie MKB Lindemann (Atlantik Wall)",
+            "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+            "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+            "en": "Batterie MKB Lindemann (Atlantik Wall)"
+          },
+          "coords": [
+            1.735922,
+            50.932585
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser stark befestigten Artilleriebatterie des Atlantikwalls und bringen Sie eine Taschenlampe mit, wenn Sie in die tieferen Bunker blicken möchten.",
+            "hu": "Fedezze fel az Atlanti Fal ezen erősen megerősített tüzérségi ütegének romjait, és hozzon zseblámpát, ha be szeretne kukkantani a mélyebb, sötétebb háborús bunkerekbe.",
+            "ro": "Explorați ruinele impunătoare ale acestei baterii de artilerie din Zidul Atlanticului și aduceți o lanternă dacă doriți să priviți cu atenție în buncărele mai adânci și umbrite.",
+            "en": "Explore the imposing ruins of this heavily fortified Atlantic Wall artillery battery, and bring a flashlight if you wish to peer into the deeper, shadowed World War II bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+            "hu": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+            "ro": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+            "en": "Usine de construction du Tunnel sous la Manche (1876-1883)"
+          },
+          "coords": [
+            1.729488,
+            50.937462
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treten Sie an diesem stimmungsvollen Ort des verlassenen Versuchs, den Ärmelkanaltunnel zu graben, ins 19. Jahrhundert zurück, wobei rund um die historischen Ruinen vorsichtige Schritte geboten sind.",
+            "hu": "Lépjen vissza a 19. század végére a Csalagút legkorábbi fúrási kísérletének hangulatos helyszínén, ahol óvatos léptekre van szükség a történelmi ipari romok körül.",
+            "ro": "Întoarceți-vă în secolul al XIX-lea în acest loc al primei încercări abandonate de a săpa Tunelul Mânecii, unde sunt necesari pași atenți în jurul ruinelor industriale.",
+            "en": "Step back into the late 19th century at the atmospheric site of the earliest, abandoned attempt to dig the Channel Tunnel, where careful steps are required around the ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine kurze Fahrt ins Landesinnere ermöglicht eine friedliche Morgenwanderung abseits der belebten Küstentouristenrouten.\nVerbinden Sie nahtlos die Dorfarchitektur mit den ikonischen nordfranzösischen Klippen und malerischen Aussichtspunkten.\nFahren Sie am majestätischen Kap entlang und halten Sie an berühmten maritimen Denkmälern und steilen Kreideabfällen.\nSchließen Sie ab, indem Sie faszinierende militärische und technische Ruinen untersuchen, die an der zerklüfteten Küste verstreut sind.",
+        "hu": "Egy gyors szárazföldi autózás békés reggeli túrát tesz lehetővé a nyüzsgő part menti turistaútvonalaktól távol.\nZökkenőmentesen kösse össze a falu építészetét az ikonikus észak-francia sziklákkal és a festői kilátókkal.\nVezessen végig a fenséges fokon, megállva híres tengerészeti emlékműveknél és meredek mészkőleszakadásoknál.\nZárásként fedezze fel a zord partvonalon elszórtan található lenyűgöző katonai és mérnöki romokat.",
+        "ro": "Un drum scurt în interior permite o drumeție pașnică de dimineață departe de rutele turistice aglomerate de coastă.\nConectați fără probleme arhitectura satului cu stâncile iconice din nordul Franței și punctele de belvedere pitorești.\nConduceți de-a lungul capului maiestuos, făcând opriri la monumente maritime faimoase și coborâri abrupte de cretă.\nÎncheiați prin investigarea ruinelor militare și inginerești fascinante împrăștiate de-a lungul țărmului accidentat.",
+        "en": "A quick drive inland allows for a peaceful morning hike away from the bustling coastal tourist routes.\nSeamlessly connect the village architecture with the iconic northern French cliffs and scenic viewing points.\nDrive along the majestic cape, making stops at famous maritime monuments and sheer chalk drop-offs.\nConclude by investigating fascinating military and engineering ruins scattered along the rugged shoreline."
+      }
+    }
+  }
+}

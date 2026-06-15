@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-treverbyn-cities-v2",
+  "anchor": {
+    "name": "Treverbyn",
+    "coords": [
+      -4.7849,
+      50.3688
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Treverbyn Kirche",
+            "hu": "Treverbyn-templom",
+            "ro": "Biserica Treverbyn",
+            "en": "Treverbyn Church"
+          },
+          "coords": [
+            -4.779634,
+            50.372237
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne viktorianische Architektur dieses friedlichen Wahrzeichens und halten Sie inne, bevor Sie am Aushang nach Veranstaltungen suchen.",
+            "hu": "Csodálja meg ennek a békés viktoriánus nevezetességnek a gyönyörű építészetét, és pihenjen meg egy pillanatra, mielőtt megnézi a falu hirdetőtábláját.",
+            "ro": "Admirați frumoasa arhitectură victoriană a acestui reper pașnic și luați-vă un moment de reflecție înainte de a verifica panoul cu evenimente locale.",
+            "en": "Admire the beautiful Victorian architecture of this peaceful local landmark and take a moment to reflect before checking the village noticeboard for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Stenalees Teich",
+            "hu": "Stenalees-tó",
+            "ro": "Iazul Stenalees",
+            "en": "Stenalees Pond"
+          },
+          "coords": [
+            -4.78808,
+            50.367766
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen, historischen Teich aus der Zeit des Tonabbaus und bringen Sie ein Fernglas mit, um die einheimischen Wasservögel zu beobachten.",
+            "hu": "Sétálja körbe ezt az agyagbányászat múltját tükröző, nyugodt történelmi tavat, és hozzon magával távcsövet a helyi vízimadarak könnyebb megfigyeléséhez.",
+            "ro": "Plimbați-vă în jurul acestui iaz liniștit ce reflectă trecutul minier, luând cu voi un binoclu pentru a observa mai ușor păsările de apă din zonă.",
+            "en": "Walk around this tranquil historic pond that reflects the area's clay mining past, bringing a pair of binoculars to easily spot the local water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wheal Martyn",
+            "hu": "Wheal Martyn",
+            "ro": "Wheal Martyn",
+            "en": "Wheal Martyn"
+          },
+          "coords": [
+            -4.807,
+            50.3654
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte von Cornwalls Porzellanerde-Industrie in diesem Museum und tragen Sie festes Schuhwerk für die Wanderwege.",
+            "hu": "Fedezze fel Cornwall porcelánföld-iparának lenyűgöző történetét ebben az interaktív múzeumban, és viseljen masszív cipőt a szabadtéri ösvényekhez.",
+            "ro": "Descoperiți istoria fascinantă a industriei caolinului din Cornwall în acest muzeu interactiv și purtați încălțăminte robustă pentru traseele în aer liber.",
+            "en": "Discover the fascinating history of Cornwall's china clay industry in this interactive museum and wear sturdy shoes to safely explore the outdoor trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Carclaze Steinbruch",
+            "hu": "Carclaze kőbánya",
+            "ro": "Cariera Carclaze",
+            "en": "Carclaze Quarry"
+          },
+          "coords": [
+            -4.771674,
+            50.365656
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Blicken Sie in den riesigen Krater dieses historischen Steinbruchs, der die Landschaft prägte, und kommen Sie an einem klaren Nachmittag wegen des blauen Wassers.",
+            "hu": "Tekintsen le a helyi tájat formáló történelmi kőbánya hatalmas kráterébe, és látogasson el egy tiszta délutánon, hogy megcsodálja a lenyűgöző kék vizet.",
+            "ro": "Priviți în craterul masiv al acestei cariere istorice ce a modelat peisajul și veniți într-o după-amiază senină pentru a aprecia apele uimitor de albastre.",
+            "en": "Gaze into the massive crater of this historic quarry that shaped the local landscape, visiting on a clear afternoon to appreciate the stunning blue waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bugle Band Hall",
+            "hu": "Bugle Band Hall",
+            "ro": "Bugle Band Hall",
+            "en": "Bugle Band Hall"
+          },
+          "coords": [
+            -4.758651,
+            50.373463
+          ],
+          "category": "cultural",
+          "arrive_at": "15:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das musikalische Erbe des Dorfes in dieser traditionellen Musikhalle, wo ein Blick auf den Probenplan Ihnen vielleicht Live-Musik beschert.",
+            "hu": "Tapasztalja meg a falu gazdag zenei örökségét ebben a hagyományos zeneteremben, ahol a próbabeosztás ellenőrzésével akár egy élő előadást is elcsíphet.",
+            "ro": "Experimentați moștenirea muzicală a satului la această sală tradițională, unde verificarea programului de repetiții vă poate oferi o reprezentație live.",
+            "en": "Experience the rich musical heritage of the village at this traditional band hall, where checking the rehearsal schedule might treat you to a live performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem ruhigen Charme der Kirche von Treverbyn, bevor es zum historischen Teich von Stenalees geht. Mittags erkunden Sie das Erbe der Porzellanerde in Wheal Martyn. Nachmittags genießen Sie die Aussicht am Carclaze-Steinbruch. Der Tag klingt an der Bugle Band Hall aus.",
+        "hu": "A reggel a Treverbyn-templom csendes varázsával indul, mielőtt a történelmi Stenalees-tóhoz sétálna. Délben a Wheal Martyn agyagbányászatát ismerheti meg. Délután a Carclaze kőbánya drámai kilátásában gyönyörködhet. A nap a Bugle Band Hall kulturális helyszínén ér véget.",
+        "ro": "Dimineața începe cu farmecul liniștit al Bisericii Treverbyn înainte de a merge la istoricul Iaz Stenalees. La prânz explorați moștenirea caolinului la Wheal Martyn. După-amiaza vă poartă pe lângă priveliștile carierei Carclaze, iar ziua se încheie cultural la Bugle Band Hall.",
+        "en": "Morning begins with the quiet charm of Treverbyn Church before moving to the historic Stenalees Pond. Midday explores the china clay heritage at Wheal Martyn. Afternoon takes you past the dramatic views of Carclaze Quarry. The day winds down at the cultural Bugle Band Hall."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Treverbyn Kirche",
+            "hu": "Treverbyn-templom",
+            "ro": "Biserica Treverbyn",
+            "en": "Treverbyn Church"
+          },
+          "coords": [
+            -4.779634,
+            50.372237
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne viktorianische Architektur dieses friedlichen Wahrzeichens und halten Sie inne, bevor Sie am Aushang nach Veranstaltungen suchen.",
+            "hu": "Csodálja meg ennek a békés viktoriánus nevezetességnek a gyönyörű építészetét, és pihenjen meg egy pillanatra, mielőtt megnézi a falu hirdetőtábláját.",
+            "ro": "Admirați frumoasa arhitectură victoriană a acestui reper pașnic și luați-vă un moment de reflecție înainte de a verifica panoul cu evenimente locale.",
+            "en": "Admire the beautiful Victorian architecture of this peaceful local landmark and take a moment to reflect before checking the village noticeboard for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Croft Farm Campingplatz",
+            "hu": "Croft Farm Kemping",
+            "ro": "Campingul Croft Farm",
+            "en": "Croft Farm Campsite"
+          },
+          "coords": [
+            -4.753501,
+            50.378827
+          ],
+          "category": "family",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem familienfreundlichen, von viel Grün umgebenen Ort und kaufen Sie im kleinen Laden frische regionale Produkte für ein Picknick.",
+            "hu": "Élvezze a pihenést ezen a buja zölddel körülvett, családbarát helyen, és vásároljon friss helyi termékeket a kis boltjukból egy tökéletes piknikhez.",
+            "ro": "Bucurați-vă de o pauză relaxantă în acest loc pitoresc, înconjurat de verdeață, și cumpărați produse locale proaspete de la magazinul lor pentru un picnic.",
+            "en": "Enjoy a relaxing break at this family-friendly spot surrounded by lush greenery, buying some fresh local produce from their small shop for a perfect picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bugle Band Hall",
+            "hu": "Bugle Band Hall",
+            "ro": "Bugle Band Hall",
+            "en": "Bugle Band Hall"
+          },
+          "coords": [
+            -4.758651,
+            50.373463
+          ],
+          "category": "cultural",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie das musikalische Erbe des Dorfes in dieser traditionellen Musikhalle, wo ein Blick auf den Probenplan Ihnen vielleicht Live-Musik beschert.",
+            "hu": "Tapasztalja meg a falu gazdag zenei örökségét ebben a hagyományos zeneteremben, ahol a próbabeosztás ellenőrzésével akár egy élő előadást is elcsíphet.",
+            "ro": "Experimentați moștenirea muzicală a satului la această sală tradițională, unde verificarea programului de repetiții vă poate oferi o reprezentație live.",
+            "en": "Experience the rich musical heritage of the village at this traditional band hall, where checking the rehearsal schedule might treat you to a live performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Clay Trails",
+            "hu": "Clay Trails",
+            "ro": "Traseele Clay",
+            "en": "Clay Trails"
+          },
+          "coords": [
+            -4.745,
+            50.361
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Navigieren Sie auf den malerischen Wegen durch die ehemaligen Tonabbaugebiete und nehmen Sie viel Wasser mit, da schattige Plätze an sonnigen Tagen selten sind.",
+            "hu": "Járja be a korábbi agyagbányászati vidékeken kanyargó festői ösvényeket, és hozzon magával sok vizet, mivel a napos délutánokon ritkák az árnyékos helyek.",
+            "ro": "Parcurgeți cărările pitorești ce șerpuiesc prin fostele peisaje miniere, aducând multă apă cu voi, deoarece locurile umbrite sunt rare în după-amiezile însorite.",
+            "en": "Navigate the picturesque pathways winding through former clay mining landscapes, bringing plenty of water as shaded spots are scarce during the sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden Project",
+            "hu": "Eden Project",
+            "ro": "Eden Project",
+            "en": "Eden Project"
+          },
+          "coords": [
+            -4.744722,
+            50.361944
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die futuristischen Biome mit den verschiedenen Ökosystemen und seien Sie gleich zur Öffnungszeit da, um dem Andrang im Regenwald-Dom zu entgehen.",
+            "hu": "Csodálja meg a világ különféle ökoszisztémáit bemutató futurisztikus biomokat, és érkezzen rögtön nyitásra, hogy elkerülje a tömeget az Esőerdő kupolánál.",
+            "ro": "Minunați-vă de biomezii futuriști ce găzduiesc diverse ecosisteme globale și ajungeți fix la deschidere pentru a evita aglomerația la cupola Pădurii Tropicale.",
+            "en": "Marvel at the futuristic biomes housing diverse ecosystems from around the globe, and arrive right at opening time to beat the crowds at the Rainforest dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Carclaze Steinbruch",
+            "hu": "Carclaze kőbánya",
+            "ro": "Cariera Carclaze",
+            "en": "Carclaze Quarry"
+          },
+          "coords": [
+            -4.771674,
+            50.365656
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Blicken Sie in den riesigen Krater dieses historischen Steinbruchs, der die Landschaft prägte, und kommen Sie an einem klaren Nachmittag wegen des blauen Wassers.",
+            "hu": "Tekintsen le a helyi tájat formáló történelmi kőbánya hatalmas kráterébe, és látogasson el egy tiszta délutánon, hogy megcsodálja a lenyűgöző kék vizet.",
+            "ro": "Priviți în craterul masiv al acestei cariere istorice ce a modelat peisajul și veniți într-o după-amiază senină pentru a aprecia apele uimitor de albastre.",
+            "en": "Gaze into the massive crater of this historic quarry that shaped the local landscape, visiting on a clear afternoon to appreciate the stunning blue waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens von der Kirche in Treverbyn los und machen Sie Halt an der Croft Farm. Mittags passieren Sie die Bugle Band Hall und erreichen die Clay Trails. Nachmittags besuchen Sie das Eden Project. Der Abend endet mit dem Sonnenuntergang am Carclaze-Steinbruch.",
+        "hu": "Kerékpározzon el a Treverbyn-templomtól a friss reggeli levegőn, és álljon meg a Croft Farmon. Délben suhanjon el a Bugle Band Hall mellett a festői Clay Trails felé. Délután a hatalmas Eden Projecthez érkezik. Az estét a Carclaze kőbánya felett lenyugvó nap látványa zárja.",
+        "ro": "Porniți cu bicicleta de la Biserica Treverbyn în aerul dimineții, oprind scurt la Croft Farm. La amiază pedalați pe lângă Bugle Band Hall spre pitoreștile Clay Trails. După-amiaza vă aduce la Proiectul Eden, iar seara se încheie cu un apus la Cariera Carclaze.",
+        "en": "Cycle out from Treverbyn Church in the crisp morning air, stopping for a quick visit at Croft Farm. Midday speeds past Bugle Band Hall and hits the picturesque Clay Trails. Afternoon brings you to the grand Eden Project. Evening finishes with a sunset look at Carclaze Quarry."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 15.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Roche Rock",
+            "hu": "Roche Rock",
+            "ro": "Roche Rock",
+            "en": "Roche Rock"
+          },
+          "coords": [
+            -4.828254,
+            50.402001
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Klettern Sie auf den gezackten Granitfelsen zur verfallenen Einsiedlerkapelle und tragen Sie Kleidung, die im rauen Gelände auch mal etwas staubig werden darf.",
+            "hu": "Mássza meg a csipkézett gránitsziklát a tetején lévő romos remetekápolnáig, és viseljen olyan ruhát, amit nem sajnál, ha egy kicsit poros lesz a zord terepen.",
+            "ro": "Urcați pe stânca de granit accidentată până la capela ruinată a pustnicului din vârf, purtând haine pe care nu vă deranjează să le prăfuiți puțin pe traseu.",
+            "en": "Climb the jagged granite outcrop to reach the ruined hermit's chapel at the top, wearing clothes you don't mind getting a bit dusty from the rugged terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxulyan Tal",
+            "hu": "Luxulyan-völgy",
+            "ro": "Valea Luxulyan",
+            "en": "Luxulyan Valley"
+          },
+          "coords": [
+            -4.744,
+            50.39
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses waldreiche Tal, um das beeindruckende Treffry-Viadukt zu entdecken, und achten Sie auf rutschige Steine in der Nähe des Flussufers.",
+            "hu": "Barangoljon ebben a sűrű erdős völgyben, hogy felfedezze az elrejtett impozáns Treffry viaduktot, és vigyázzon a folyópart melletti csúszós kövekre.",
+            "ro": "Rătăciți prin această vale împădurită pentru a găsi impresionantul viaduct Treffry și aveți grijă la pietrele alunecoase din apropierea malului râului.",
+            "en": "Wander through this deeply wooded valley to find the impressive Treffry Viaduct hidden within, keeping an eye out for slippery rocks near the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden Project",
+            "hu": "Eden Project",
+            "ro": "Eden Project",
+            "en": "Eden Project"
+          },
+          "coords": [
+            -4.744722,
+            50.361944
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die futuristischen Biome mit den verschiedenen Ökosystemen und seien Sie gleich zur Öffnungszeit da, um dem Andrang im Regenwald-Dom zu entgehen.",
+            "hu": "Csodálja meg a világ különféle ökoszisztémáit bemutató futurisztikus biomokat, és érkezzen rögtön nyitásra, hogy elkerülje a tömeget az Esőerdő kupolánál.",
+            "ro": "Minunați-vă de biomezii futuriști ce găzduiesc diverse ecosisteme globale și ajungeți fix la deschidere pentru a evita aglomerația la cupola Pădurii Tropicale.",
+            "en": "Marvel at the futuristic biomes housing diverse ecosystems from around the globe, and arrive right at opening time to beat the crowds at the Rainforest dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Wheal Martyn",
+            "hu": "Wheal Martyn",
+            "ro": "Wheal Martyn",
+            "en": "Wheal Martyn"
+          },
+          "coords": [
+            -4.807,
+            50.3654
+          ],
+          "category": "museum",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte von Cornwalls Porzellanerde-Industrie in diesem Museum und tragen Sie festes Schuhwerk für die Wanderwege.",
+            "hu": "Fedezze fel Cornwall porcelánföld-iparának lenyűgöző történetét ebben az interaktív múzeumban, és viseljen masszív cipőt a szabadtéri ösvényekhez.",
+            "ro": "Descoperiți istoria fascinantă a industriei caolinului din Cornwall în acest muzeu interactiv și purtați încălțăminte robustă pentru traseele în aer liber.",
+            "en": "Discover the fascinating history of Cornwall's china clay industry in this interactive museum and wear sturdy shoes to safely explore the outdoor trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Stenalees Teich",
+            "hu": "Stenalees-tó",
+            "ro": "Iazul Stenalees",
+            "en": "Stenalees Pond"
+          },
+          "coords": [
+            -4.78808,
+            50.367766
+          ],
+          "category": "natural",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen, historischen Teich aus der Zeit des Tonabbaus und bringen Sie ein Fernglas mit, um die einheimischen Wasservögel zu beobachten.",
+            "hu": "Sétálja körbe ezt az agyagbányászat múltját tükröző, nyugodt történelmi tavat, és hozzon magával távcsövet a helyi vízimadarak könnyebb megfigyeléséhez.",
+            "ro": "Plimbați-vă în jurul acestui iaz liniștit ce reflectă trecutul minier, luând cu voi un binoclu pentru a observa mai ușor păsările de apă din zonă.",
+            "en": "Walk around this tranquil historic pond that reflects the area's clay mining past, bringing a pair of binoculars to easily spot the local water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Treverbyn Kirche",
+            "hu": "Treverbyn-templom",
+            "ro": "Biserica Treverbyn",
+            "en": "Treverbyn Church"
+          },
+          "coords": [
+            -4.779634,
+            50.372237
+          ],
+          "category": "religious",
+          "arrive_at": "16:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne viktorianische Architektur dieses friedlichen Wahrzeichens und halten Sie inne, bevor Sie am Aushang nach Veranstaltungen suchen.",
+            "hu": "Csodálja meg ennek a békés viktoriánus nevezetességnek a gyönyörű építészetét, és pihenjen meg egy pillanatra, mielőtt megnézi a falu hirdetőtábláját.",
+            "ro": "Admirați frumoasa arhitectură victoriană a acestui reper pașnic și luați-vă un moment de reflecție înainte de a verifica panoul cu evenimente locale.",
+            "en": "Admire the beautiful Victorian architecture of this peaceful local landmark and take a moment to reflect before checking the village noticeboard for events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach dem Frühstück zum dramatischen Roche Rock und besuchen Sie danach die friedlichen Wälder des Luxulyan Valley. Mittags bestaunen Sie das Eden Project. Nachmittags tauchen Sie in Wheal Martyn in die Lokalgeschichte ein, mit einem späten Halt am Teich von Stenalees.",
+        "hu": "Reggeli után vezessen el a drámai Roche Rockhoz, majd menjen a Luxulyan-völgy erdeibe. Délben az Eden Project biomjait csodálhatja meg. Délután a Wheal Martyn helytörténetébe merül, ezt követi a Stenalees-tó. Az este a Treverbyn-templom közelében ér véget.",
+        "ro": "Conduceți spre stânca Roche imediat după micul dejun, apoi explorați pădurile din Valea Luxulyan. Prânzul este petrecut minunându-vă de biomezii Eden. După-amiaza se aprofundează istoria la Wheal Martyn și poposiți la Iazul Stenalees. Seara se termină lângă Biserica Treverbyn.",
+        "en": "Drive up to the dramatic Roche Rock right after breakfast, then head over to the peaceful woodlands of Luxulyan Valley. Midday is spent marveling at the Eden Project's biomes. Afternoon delves into local history at Wheal Martyn, followed by a late stop at Stenalees Pond. Evening ends near Treverbyn Church."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-santa-margarida-de-montbui-nucli-antic-cities-v2",
+  "anchor": {
+    "name": "Santa Margarida de Montbui-nucli antic",
+    "coords": [
+      1.607856,
+      41.556738
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forn de Ciment del Camí del Cementeri",
+            "hu": "Forn de Ciment del Camí del Cementeri",
+            "ro": "Forn de Ciment del Camí del Cementeri",
+            "en": "Forn de Ciment del Camí del Cementeri"
+          },
+          "coords": [
+            1.608707,
+            41.556588
+          ],
+          "category": "historical",
+          "arrive_at": "09:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Zementofen, der von der industriellen Vergangenheit zeugt, und achten Sie dabei besonders auf die alten Brennkammern.",
+            "hu": "Fedezze fel ezt a történelmi cementkemencét, amely a múlt ipari örökségét őrzi, és figyelje meg a régi égetőkamrák lenyűgöző szerkezetét közelről.",
+            "ro": "Explorați acest cuptor istoric de ciment care mărturisește trecutul industrial și asigurați-vă că purtați încălțăminte adecvată pentru a vă apropia în siguranță.",
+            "en": "Discover this historical cement kiln that bears witness to the area's industrial past, and make sure to closely examine its robust brickwork firing chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Margarida",
+            "hu": "Santa Margarida",
+            "ro": "Santa Margarida",
+            "en": "Santa Margarida"
+          },
+          "coords": [
+            1.605062,
+            41.556535
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche Kirche, die als spirituelles Herzstück der Gemeinde gilt, und genießen Sie die friedliche Atmosphäre bei einem Moment der Stille.",
+            "hu": "Látogasson el ebbe a békés templomba, amely a közösség vallási központja, és töltsön el néhány csendes percet a nyugalmat árasztó, történelmi falak között.",
+            "ro": "Vizitați această biserică pitorească ce servește drept centru spiritual al comunității și bucurați-vă de atmosfera liniștită pentru o scurtă meditație.",
+            "en": "Visit this serene church that serves as the spiritual heart of the local community, and take a moment to enjoy the peaceful atmosphere away from the bustling streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabanya de Vinya",
+            "hu": "Cabanya de Vinya",
+            "ro": "Cabanya de Vinya",
+            "en": "Cabanya de Vinya"
+          },
+          "coords": [
+            1.586475,
+            41.554251
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese traditionelle Weinberghütte aus Trockenmauerwerk und bringen Sie eine Kamera mit, um die rustikale Architektur im weichen Sonnenlicht festzuhalten.",
+            "hu": "Csodálja meg ezt a hagyományos, száraz kőből épült szőlőhegyi kunyhót, és hozzon magával fényképezőgépet, hogy megörökítse a rusztikus építészeti megoldásokat.",
+            "ro": "Admirați această colibă tradițională din piatră seacă, folosită odinioară în podgorii, și luați-vă un aparat foto pentru a surprinde detaliile rustice fascinante.",
+            "en": "Admire this traditional dry stone vineyard hut that showcases ancient agricultural practices, and bring a camera to capture its rustic charm in the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Barraca de pedra seca 17445",
+            "hu": "Barraca de pedra seca 17445",
+            "ro": "Barraca de pedra seca 17445",
+            "en": "Barraca de pedra seca 17445"
+          },
+          "coords": [
+            1.583481,
+            41.555478
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese meisterhaft errichtete Steinhütte, die den Bauern einst Schutz bot, und achten Sie auf die präzise, mörtellose Bauweise der Wände.",
+            "hu": "Vizsgálja meg ezt a mesterien megépített kőkunyhót, amely egykor menedéket nyújtott a gazdáknak, és figyelje meg a habarcs nélküli, precíz falazási technikát.",
+            "ro": "Cercetați această colibă din piatră construită cu măiestrie pentru a adăposti fermierii și observați tehnica precisă de îmbinare a rocilor fără niciun pic de mortar.",
+            "en": "Examine this masterfully built stone hut that once sheltered farmers from the elements, and pay close attention to the precise, mortarless construction of its walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Tossa",
+            "hu": "Castell de la Tossa",
+            "ro": "Castell de la Tossa",
+            "en": "Castell de la Tossa"
+          },
+          "coords": [
+            1.579858,
+            41.555176
+          ],
+          "category": "castle",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Burg und klettern Sie vorsichtig hinauf, um das beeindruckende Panorama der Umgebung zu genießen.",
+            "hu": "Fedezze fel e középkori vár lenyűgöző romjait, és másszon fel óvatosan a magasabb pontokra, ahonnan páratlan panoráma nyílik a környező gyönyörű tájra.",
+            "ro": "Explorați ruinele fascinante ale acestui castel medieval și urcați cu grijă la punctele de belvedere pentru a vă bucura de o panoramă superbă a întregii regiuni.",
+            "en": "Explore the fascinating ruins of this medieval castle, and climb carefully to the higher vantage points to enjoy a sweeping panoramic view of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Tossa de Montbui",
+            "hu": "Tossa de Montbui",
+            "ro": "Tossa de Montbui",
+            "en": "Tossa de Montbui"
+          },
+          "coords": [
+            1.581516,
+            41.557017
+          ],
+          "category": "natural",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet mit seiner reichen Flora, und bleiben Sie unbedingt auf den markierten Pfaden, um die sensible Natur zu schonen.",
+            "hu": "Túrázzon végig ezen a gyönyörű természeti területen, amely gazdag növényvilággal büszkélkedhet, és maradjon a kijelölt ösvényeken az élővilág védelme érdekében.",
+            "ro": "Drumeți prin această frumoasă rezervație naturală cu o floră bogată și asigurați-vă că rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Hike through this beautiful natural reserve that boasts a rich variety of local flora, and make sure to stay on the marked trails to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum mit dem alten Zementofen und der charmanten Kirche Santa Margarida. Mittags wandern Sie hinaus in die ländliche Umgebung, um die alten Steinhütten der Winzer zu erkunden. Am Nachmittag erreichen Sie schließlich die faszinierende mittelalterliche Burg Tossa, von der Sie eine tolle Aussicht haben. Der Abend klingt im malerischen Naturgebiet Tossa de Montbui bei einem gemütlichen Spaziergang entspannt aus.",
+        "hu": "A reggel a történelmi központban indul, a régi cementkemence és a hangulatos Santa Margarida templom felfedezésével. Délben a vidék felé vesszük az irányt, hogy megcsodáljuk a szőlőmunkások ősi kőkunyhóit. Délután felkapaszkodunk a Tossa lenyűgöző középkori várához, ahonnan pazar kilátás nyílik a tájra. Az estét a Tossa de Montbui festői természeti környezetében egy kellemes, levezető sétával zárjuk.",
+        "ro": "Dimineața începe în centrul istoric cu vechiul cuptor de ciment și fermecătoarea biserică Santa Margarida. La prânz, vă plimbați spre zona rurală pentru a explora vechile colibe de piatră ale viticultorilor. După-amiaza veți ajunge la fascinantul castel medieval Tossa, care oferă o priveliște minunată. Seara se încheie relaxant în zona naturală pitorească Tossa de Montbui cu o plimbare liniștită.",
+        "en": "The morning begins in the historical center, exploring the old cement kiln and the charming Santa Margarida church. By midday, you hike out towards the countryside to admire the ancient stone huts built by early vineyard workers. In the afternoon, you will reach the fascinating medieval Tossa castle, offering sweeping views of the entire region. The evening winds down beautifully with a relaxing stroll through the Tossa de Montbui natural area."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Margarida",
+            "hu": "Santa Margarida",
+            "ro": "Santa Margarida",
+            "en": "Santa Margarida"
+          },
+          "coords": [
+            1.605062,
+            41.556535
+          ],
+          "category": "religious",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche Kirche, die als spirituelles Herzstück der Gemeinde gilt, und genießen Sie die friedliche Atmosphäre bei einem Moment der Stille.",
+            "hu": "Látogasson el ebbe a békés templomba, amely a közösség vallási központja, és töltsön el néhány csendes percet a nyugalmat árasztó, történelmi falak között.",
+            "ro": "Vizitați această biserică pitorească ce servește drept centru spiritual al comunității și bucurați-vă de atmosfera liniștită pentru o scurtă meditație.",
+            "en": "Visit this serene church that serves as the spiritual heart of the local community, and take a moment to enjoy the peaceful atmosphere away from the bustling streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Forn de Ciment del Camí del Cementeri",
+            "hu": "Forn de Ciment del Camí del Cementeri",
+            "ro": "Forn de Ciment del Camí del Cementeri",
+            "en": "Forn de Ciment del Camí del Cementeri"
+          },
+          "coords": [
+            1.608707,
+            41.556588
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Zementofen, der von der industriellen Vergangenheit zeugt, und achten Sie dabei besonders auf die alten Brennkammern.",
+            "hu": "Fedezze fel ezt a történelmi cementkemencét, amely a múlt ipari örökségét őrzi, és figyelje meg a régi égetőkamrák lenyűgöző szerkezetét közelről.",
+            "ro": "Explorați acest cuptor istoric de ciment care mărturisește trecutul industrial și asigurați-vă că purtați încălțăminte adecvată pentru a vă apropia în siguranță.",
+            "en": "Discover this historical cement kiln that bears witness to the area's industrial past, and make sure to closely examine its robust brickwork firing chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Tossa",
+            "hu": "Castell de la Tossa",
+            "ro": "Castell de la Tossa",
+            "en": "Castell de la Tossa"
+          },
+          "coords": [
+            1.579858,
+            41.555176
+          ],
+          "category": "castle",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Burg und klettern Sie vorsichtig hinauf, um das beeindruckende Panorama der Umgebung zu genießen.",
+            "hu": "Fedezze fel e középkori vár lenyűgöző romjait, és másszon fel óvatosan a magasabb pontokra, ahonnan páratlan panoráma nyílik a környező gyönyörű tájra.",
+            "ro": "Explorați ruinele fascinante ale acestui castel medieval și urcați cu grijă la punctele de belvedere pentru a vă bucura de o panoramă superbă a întregii regiuni.",
+            "en": "Explore the fascinating ruins of this medieval castle, and climb carefully to the higher vantage points to enjoy a sweeping panoramic view of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Font del Salvatge",
+            "hu": "Font del Salvatge",
+            "ro": "Font del Salvatge",
+            "en": "Font del Salvatge"
+          },
+          "coords": [
+            1.581629,
+            41.56017
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause an dieser idyllischen Quelle, um sich mit frischem Wasser zu erfrischen, bevor Sie Ihre spannende Erkundungstour fortsetzen.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ennél az idillikus forrásnál, és frissítse fel magát a hűvös vízzel, mielőtt folytatná a környék izgalmas felfedezését.",
+            "ro": "Faceți o pauză binemeritată la acest izvor idilic pentru a vă răcori cu apă proaspătă înainte de a vă continua turul captivant de explorare a împrejurimilor.",
+            "en": "Take a well-deserved break at this idyllic spring to refresh yourself with cool water before continuing your exciting exploration of the surrounding natural landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de Collbàs",
+            "hu": "Mare de Déu de Collbàs",
+            "ro": "Mare de Déu de Collbàs",
+            "en": "Mare de Déu de Collbàs"
+          },
+          "coords": [
+            1.608399,
+            41.544271
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Heiligtum im Süden der Stadt und planen Sie etwas Zeit ein, um die friedvolle Einsamkeit abseits des Trubels zu genießen.",
+            "hu": "Látogasson el ebbe a bájos, városközponttól délre fekvő szentélybe, és szánjon egy kis időt arra, hogy elmerüljön a távolabbi vidék békés és nyugalmas magányában.",
+            "ro": "Vizitați acest sanctuar religios fermecător din sudul orașului și planificați-vă timp pentru a vă bucura de singurătatea pașnică, departe de agitația cotidiană.",
+            "en": "Visit this charming religious sanctuary located south of the main town, and plan to spend some extra time enjoying the peaceful solitude away from the typical crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina i pistes municipals",
+            "hu": "Piscina i pistes municipals",
+            "ro": "Piscina i pistes municipals",
+            "en": "Piscina i pistes municipals"
+          },
+          "coords": [
+            1.61785,
+            41.532693
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag aktiv auf diesen städtischen Freizeitanlagen, und bringen Sie unbedingt Schwimmzeug mit, um sich an heißen Sommertagen wunderbar abzukühlen.",
+            "hu": "Zárja aktívan a napot ezen a városi sportközponton, és mindenképpen hozzon magával fürdőruhát, hogy a meleg nyári napokon egy frissítő csobbanással hűsölhessen.",
+            "ro": "Încheiați-vă ziua activ la aceste baze de agrement municipale și nu uitați să aduceți costumul de baie pentru a vă răcori în apă în zilele toride de vară.",
+            "en": "End your day actively at these municipal recreational facilities, and make sure to bring your swimsuit to cool off in the water during those hot summer afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit einer Radtour zur Kirche Santa Margarida und dem historischen Zementofen in der Nähe. Gegen Mittag fahren Sie bergauf zum Castell de la Tossa, um die Ruinen und die idyllische Quelle Font del Salvatge zu besichtigen. Der Nachmittag führt Sie weiter in den Süden zur abgelegenen Kirche Mare de Déu de Collbàs. Beenden Sie den Tag erfrischt an den städtischen Schwimmbädern und Sportanlagen.",
+        "hu": "Indítsa a reggelt egy kerékpártúrával a Santa Margarida templomhoz és a közeli történelmi cementkemencéhez. Dél körül a Castell de la Tossa felé tekerünk, hogy felfedezzük a várromokat és az idilli Font del Salvatge forrást. Délután dél felé haladunk, egészen a távoli Mare de Déu de Collbàs szentélyig. A napot egy frissítő fürdőzéssel zárhatja a városi medencéknél és sportpályáknál.",
+        "ro": "Începeți dimineața cu o plimbare cu bicicleta la biserica Santa Margarida și la cuptorul de ciment istoric din apropiere. La prânz, urcați spre Castell de la Tossa pentru a vizita ruinele și izvorul idilic Font del Salvatge. După-amiaza vă conduce spre sud, la biserica izolată Mare de Déu de Collbàs. Încheiați-vă ziua revigorant la piscinele și terenurile de sport municipale.",
+        "en": "Start the morning with a crisp bike ride to the Santa Margarida church and the nearby historical cement kiln. Around midday, pedal uphill toward Castell de la Tossa to explore the impressive ruins and the idyllic Font del Salvatge spring. The afternoon takes you further south to the secluded Mare de Déu de Collbàs sanctuary. End your active day feeling completely refreshed at the local municipal pools and sports facilities."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 8.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forn de Ciment del Camí del Cementeri",
+            "hu": "Forn de Ciment del Camí del Cementeri",
+            "ro": "Forn de Ciment del Camí del Cementeri",
+            "en": "Forn de Ciment del Camí del Cementeri"
+          },
+          "coords": [
+            1.608707,
+            41.556588
+          ],
+          "category": "historical",
+          "arrive_at": "09:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Zementofen, der von der industriellen Vergangenheit zeugt, und achten Sie dabei besonders auf die alten Brennkammern.",
+            "hu": "Fedezze fel ezt a történelmi cementkemencét, amely a múlt ipari örökségét őrzi, és figyelje meg a régi égetőkamrák lenyűgöző szerkezetét közelről.",
+            "ro": "Explorați acest cuptor istoric de ciment care mărturisește trecutul industrial și asigurați-vă că purtați încălțăminte adecvată pentru a vă apropia în siguranță.",
+            "en": "Discover this historical cement kiln that bears witness to the area's industrial past, and make sure to closely examine its robust brickwork firing chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Barraca del Mula Blanca",
+            "hu": "Barraca del Mula Blanca",
+            "ro": "Barraca del Mula Blanca",
+            "en": "Barraca del Mula Blanca"
+          },
+          "coords": [
+            1.629825,
+            41.558505
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Steinhaus, das von den landwirtschaftlichen Wurzeln zeugt, und tragen Sie feste Schuhe, da der Weg dorthin teilweise etwas uneben ist.",
+            "hu": "Fedezze fel ezt a történelmi kőépületet, amely a mezőgazdasági gyökerekről tanúskodik, és viseljen túracipőt, mivel az oda vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Descoperiți această colibă istorică de piatră care amintește de rădăcinile agricole și purtați încălțăminte solidă, deoarece cărarea de acces poate fi accidentată.",
+            "en": "Discover this historical stone shelter that highlights the region's agricultural roots, and wear sturdy walking shoes as the path leading to it can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Margarida",
+            "hu": "Santa Margarida",
+            "ro": "Santa Margarida",
+            "en": "Santa Margarida"
+          },
+          "coords": [
+            1.605062,
+            41.556535
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beschauliche Kirche, die als spirituelles Herzstück der Gemeinde gilt, und genießen Sie die friedliche Atmosphäre bei einem Moment der Stille.",
+            "hu": "Látogasson el ebbe a békés templomba, amely a közösség vallási központja, és töltsön el néhány csendes percet a nyugalmat árasztó, történelmi falak között.",
+            "ro": "Vizitați această biserică pitorească ce servește drept centru spiritual al comunității și bucurați-vă de atmosfera liniștită pentru o scurtă meditație.",
+            "en": "Visit this serene church that serves as the spiritual heart of the local community, and take a moment to enjoy the peaceful atmosphere away from the bustling streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de Collbàs",
+            "hu": "Mare de Déu de Collbàs",
+            "ro": "Mare de Déu de Collbàs",
+            "en": "Mare de Déu de Collbàs"
+          },
+          "coords": [
+            1.608399,
+            41.544271
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Heiligtum im Süden der Stadt und planen Sie etwas Zeit ein, um die friedvolle Einsamkeit abseits des Trubels zu genießen.",
+            "hu": "Látogasson el ebbe a bájos, városközponttól délre fekvő szentélybe, és szánjon egy kis időt arra, hogy elmerüljön a távolabbi vidék békés és nyugalmas magányában.",
+            "ro": "Vizitați acest sanctuar religios fermecător din sudul orașului și planificați-vă timp pentru a vă bucura de singurătatea pașnică, departe de agitația cotidiană.",
+            "en": "Visit this charming religious sanctuary located south of the main town, and plan to spend some extra time enjoying the peaceful solitude away from the typical crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de la Tossa",
+            "hu": "Castell de la Tossa",
+            "ro": "Castell de la Tossa",
+            "en": "Castell de la Tossa"
+          },
+          "coords": [
+            1.579858,
+            41.555176
+          ],
+          "category": "castle",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Burg und klettern Sie vorsichtig hinauf, um das beeindruckende Panorama der Umgebung zu genießen.",
+            "hu": "Fedezze fel e középkori vár lenyűgöző romjait, és másszon fel óvatosan a magasabb pontokra, ahonnan páratlan panoráma nyílik a környező gyönyörű tájra.",
+            "ro": "Explorați ruinele fascinante ale acestui castel medieval și urcați cu grijă la punctele de belvedere pentru a vă bucura de o panoramă superbă a întregii regiuni.",
+            "en": "Explore the fascinating ruins of this medieval castle, and climb carefully to the higher vantage points to enjoy a sweeping panoramic view of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Tossa de Montbui",
+            "hu": "Tossa de Montbui",
+            "ro": "Tossa de Montbui",
+            "en": "Tossa de Montbui"
+          },
+          "coords": [
+            1.581516,
+            41.557017
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet mit seiner reichen Flora, und bleiben Sie unbedingt auf den markierten Pfaden, um die sensible Natur zu schonen.",
+            "hu": "Túrázzon végig ezen a gyönyörű természeti területen, amely gazdag növényvilággal büszkélkedhet, és maradjon a kijelölt ösvényeken az élővilág védelme érdekében.",
+            "ro": "Drumeți prin această frumoasă rezervație naturală cu o floră bogată și asigurați-vă că rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Hike through this beautiful natural reserve that boasts a rich variety of local flora, and make sure to stay on the marked trails to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt gemütlich mit einem kurzen Stopp am historischen Zementofen und der östlichen Steinhütte Barraca del Mula Blanca. Am Mittag fahren Sie zurück ins Zentrum zur Kirche Santa Margarida und anschließend zum südlichen Heiligtum Collbàs. Nachmittags erwartet Sie die majestätische Burg Tossa, deren Ruinen die Landschaft dominieren. Der Abend bietet dann ruhige Naturerlebnisse im herrlichen Tossa de Montbui.",
+        "hu": "A nap kényelmesen indul a történelmi cementkemencénél és a keleti Barraca del Mula Blanca kőkunyhónál. Délben visszatérünk a központba a Santa Margarida templomhoz, majd délre a Collbàs szentélyhez hajtunk. Délután a fenséges Tossa vár várja, amelynek romjai uralják a lenyűgöző tájat. Az este pedig csendes természeti élményeket kínál a gyönyörű Tossa de Montbui területén.",
+        "ro": "Ziua începe lejer cu o oprire la cuptorul de ciment istoric și la coliba de piatră estică Barraca del Mula Blanca. La prânz, conduceți înapoi în centru spre biserica Santa Margarida și apoi spre sanctuarul sudic Collbàs. După-amiaza vă așteaptă maiestuosul castel Tossa, ale cărui ruine domină peisajul. Seara oferă experiențe naturale liniștite în superba zonă Tossa de Montbui.",
+        "en": "The day starts comfortably with a quick stop at the historic cement kiln and the eastern stone hut Barraca del Mula Blanca. At midday, drive back into the center to visit the Santa Margarida church and then the southern Collbàs sanctuary. The afternoon features the majestic Tossa castle, whose impressive ruins completely dominate the landscape. The evening offers quiet nature experiences in the beautiful Tossa de Montbui area."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "steinheim-an-der-murr",
+  "anchor": {
+    "name": "Steinheim an der Murr",
+    "coords": [
+      9.2833,
+      48.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Klostermuseum Steinheim",
+            "hu": "Steinheimi Kolostormúzeum",
+            "ro": "Muzeul Mănăstirii Steinheim",
+            "en": "Steinheim Monastery Museum"
+          },
+          "coords": [
+            9.278214,
+            48.966257
+          ],
+          "category": "Museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Klosters, das tiefe Einblicke in das religiöse Erbe bietet, und schnappen Sie sich am Eingang unbedingt den Audioguide.",
+            "hu": "Fedezze fel ennek a történelmi kolostornak a maradványait, amely mély betekintést nyújt a helyi vallási örökségbe, és ne felejtse el kérni az audioguide-ot a bejáratnál.",
+            "ro": "Explorați rămășițele acestei mănăstiri istorice care oferă perspective profunde asupra moștenirii religioase și nu uitați să luați ghidul audio de la intrare.",
+            "en": "Explore the remnants of this historic monastery which offers profound insights into local religious heritage, and don't forget to grab the audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinheimer Schlössle",
+            "hu": "Steinheimer Schlössle",
+            "ro": "Steinheimer Schlössle",
+            "en": "Steinheimer Schlössle"
+          },
+          "coords": [
+            9.280465,
+            48.966118
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieser Adelsresidenz, die Jahrhunderte regionaler Geschichte widerspiegelt, aber tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Csodálja meg e nemesi rezidencia elegáns építészetét, amely évszázadok történetét tükrözi, de viseljen kényelmes cipőt a kinti macskaköves utakra.",
+            "ro": "Admirați arhitectura elegantă a acestei reședințe nobiliare, care reflectă secole de istorie regională, dar purtați pantofi comozi pentru aleile pietruite de afară.",
+            "en": "Admire the elegant architecture of this noble residence that reflects centuries of regional history, but wear comfortable shoes for the uneven cobblestone paths outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Urmenschenmuseum",
+            "hu": "Ősember Múzeum",
+            "ro": "Muzeul Omului Preistoric",
+            "en": "Prehistoric Man Museum"
+          },
+          "coords": [
+            9.27931,
+            48.9648
+          ],
+          "category": "Museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Schädel des Homo steinheimensis, der diese Stadt weltbekannt machte, und besuchen Sie die interaktiven Ausstellungen im zweiten Stock.",
+            "hu": "Fedezze fel a lenyűgöző Homo steinheimensis koponyát, amely a várost a térképre tette, és feltétlenül nézze meg az interaktív kiállításokat a második emeleten.",
+            "ro": "Descoperiți craniul fascinant de Homo steinheimensis care face orașul faimos și asigurați-vă că verificați expozițiile interactive de la etajul al doilea.",
+            "en": "Discover the fascinating Homo steinheimensis skull that puts this town on the archaeological map, and be sure to check the interactive exhibits on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Steinheim",
+            "hu": "Steinheimi Várrom",
+            "ro": "Ruinele Castelului Steinheim",
+            "en": "Steinheim Castle Ruins"
+          },
+          "coords": [
+            9.292585,
+            48.960463
+          ],
+          "category": "castle",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese mittelalterlichen Ruinen, die einen weiten Blick über das Tal bieten, und packen Sie eine leichte Jacke ein, da es oben windig werden kann.",
+            "hu": "Sétáljon végig ezeken a hangulatos középkori romokon, amelyekről pazar kilátás nyílik a völgyre, és vigyen magával egy vékony kabátot, mert a csúcson szeles lehet.",
+            "ro": "Plimbați-vă prin aceste ruine medievale evocatoare, care oferă o panoramă superbă asupra văii, și luați o jachetă subțire, deoarece sus poate fi destul de vânt.",
+            "en": "Wander through these evocative medieval ruins which command a sweeping view of the valley below, and pack a light jacket as it can get windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Schaubeck",
+            "hu": "Schaubeck Kastély",
+            "ro": "Castelul Schaubeck",
+            "en": "Schaubeck Castle"
+          },
+          "coords": [
+            9.28975,
+            48.9738
+          ],
+          "category": "Castles & palaces",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gut erhaltenen Renaissance-Details dieses historischen Weinguts und buchen Sie vorab eine Weinprobe, um Ihren Besuch zu einem besonderen Erlebnis zu machen.",
+            "hu": "Csodálja meg ennek a szőlőbirtokon fekvő történelmi kastélynak a reneszánsz részleteit, és érdemes előre borkóstoló túrát foglalni a teljes élmény érdekében.",
+            "ro": "Minunați-vă de detaliile renascentiste ale acestui conac istoric situat printre podgorii și încercați să rezervați o degustare de vinuri în avans pentru o vizită perfectă.",
+            "en": "Marvel at the well-preserved Renaissance details of this historic estate set among vineyards, and try to book a guided wine-tasting tour in advance to enhance your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Eintauchen in die Geschichte im ehemaligen Kloster. Mittags bewundern Sie adeliges Erbe, bevor Sie den berühmten Urmenschen-Schädel der Stadt treffen. Der Nachmittag belohnt Sie mit einem Spaziergang zu Panoramaburgruinen über dem Tal. Gegen Abend spazieren Sie zum prächtigen Schloss Schaubeck für einen majestätischen Abschluss.",
+        "hu": "Kezdje a reggelt a történelemben való elmerüléssel az egykori kolostorban, érezve a spirituális visszhangokat. Délben csodálja meg az arisztokrata örökséget, majd találkozzon az ősember koponyájával. A délután jutalma egy túra a völgyre néző panorámás kastélyromokhoz. Ahogy közeledik az este, sétáljon el a nagyszerű Schaubeck-kastély felé a fenséges befejezésért.",
+        "ro": "Începeți dimineața cufundându-vă în istorie la fosta mănăstire. La prânz, admirați moștenirea aristocratică înainte de a întâlni celebrul craniu antic al orașului. După-amiaza vă răsplătește cu o drumeție la ruinele panoramice ale castelului ce domină valea. Spre seară, plimbați-vă spre mărețul Castel Schaubeck pentru un final cu adevărat maiestuos al excursiei.",
+        "en": "Start your morning diving into history at the former monastery, feeling the spiritual echoes. By midday, marvel at aristocratic heritage before meeting the town’s famous ancient skull. The afternoon rewards you with a trek to panoramic castle ruins overlooking the valley. As evening approaches, stroll towards the grand Schaubeck Castle for a majestic end to your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:59",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wellarium",
+            "hu": "Wellarium",
+            "ro": "Wellarium",
+            "en": "Wellarium"
+          },
+          "coords": [
+            9.266495,
+            48.973638
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Freizeitbad im Grünen und kommen Sie an Wochenenden frühzeitig, um sich einen guten Platz auf der Liegewiese zu sichern.",
+            "hu": "Pihenjen ebben a tágas, zöldellő növényzettel körülvett szabadtéri medencekomplexumban, és hétvégén érkezzen korán, hogy jó helyet kapjon a napozógyepen.",
+            "ro": "Relaxați-vă la acest complex de piscine în aer liber, înconjurat de verdeață, și sosiți devreme în weekend pentru a ocupa un loc bun pe peluza pentru plajă.",
+            "en": "Relax at this spacious outdoor leisure pool complex surrounded by lush greenery, and arrive early on weekends to secure a prime spot on the sunbathing lawn."
+          }
+        },
+        {
+          "name": {
+            "de": "Klostermuseum Steinheim",
+            "hu": "Steinheimi Kolostormúzeum",
+            "ro": "Muzeul Mănăstirii Steinheim",
+            "en": "Steinheim Monastery Museum"
+          },
+          "coords": [
+            9.278214,
+            48.966257
+          ],
+          "category": "Museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Klosters, das tiefe Einblicke in das religiöse Erbe bietet, und schnappen Sie sich am Eingang unbedingt den Audioguide.",
+            "hu": "Fedezze fel ennek a történelmi kolostornak a maradványait, amely mély betekintést nyújt a helyi vallási örökségbe, és ne felejtse el kérni az audioguide-ot a bejáratnál.",
+            "ro": "Explorați rămășițele acestei mănăstiri istorice care oferă perspective profunde asupra moștenirii religioase și nu uitați să luați ghidul audio de la intrare.",
+            "en": "Explore the remnants of this historic monastery which offers profound insights into local religious heritage, and don't forget to grab the audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Urmenschenmuseum",
+            "hu": "Ősember Múzeum",
+            "ro": "Muzeul Omului Preistoric",
+            "en": "Prehistoric Man Museum"
+          },
+          "coords": [
+            9.27931,
+            48.9648
+          ],
+          "category": "Museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Schädel des Homo steinheimensis, der diese Stadt weltbekannt machte, und besuchen Sie die interaktiven Ausstellungen im zweiten Stock.",
+            "hu": "Fedezze fel a lenyűgöző Homo steinheimensis koponyát, amely a várost a térképre tette, és feltétlenül nézze meg az interaktív kiállításokat a második emeleten.",
+            "ro": "Descoperiți craniul fascinant de Homo steinheimensis care face orașul faimos și asigurați-vă că verificați expozițiile interactive de la etajul al doilea.",
+            "en": "Discover the fascinating Homo steinheimensis skull that puts this town on the archaeological map, and be sure to check the interactive exhibits on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Steinheim",
+            "hu": "Steinheimi Várrom",
+            "ro": "Ruinele Castelului Steinheim",
+            "en": "Steinheim Castle Ruins"
+          },
+          "coords": [
+            9.292585,
+            48.960463
+          ],
+          "category": "castle",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese mittelalterlichen Ruinen, die einen weiten Blick über das Tal bieten, und packen Sie eine leichte Jacke ein, da es oben windig werden kann.",
+            "hu": "Sétáljon végig ezeken a hangulatos középkori romokon, amelyekről pazar kilátás nyílik a völgyre, és vigyen magával egy vékony kabátot, mert a csúcson szeles lehet.",
+            "ro": "Plimbați-vă prin aceste ruine medievale evocatoare, care oferă o panoramă superbă asupra văii, și luați o jachetă subțire, deoarece sus poate fi destul de vânt.",
+            "en": "Wander through these evocative medieval ruins which command a sweeping view of the valley below, and pack a light jacket as it can get windy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Blankenstein",
+            "hu": "Blankenstein Vár",
+            "ro": "Castelul Blankenstein",
+            "en": "Blankenstein Castle"
+          },
+          "coords": [
+            9.302492,
+            48.966418
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser alten Befestigungsanlage, um die Verteidigungsgeschichte der Region zu entdecken, und bringen Sie Wasser mit, da es unterwegs keine Kioske gibt.",
+            "hu": "Túrázzon fel ehhez az ősi erődítményhez, hogy felfedezze a régió védelmi történelmét, és vigyen magával vizet, mivel az ösvényen nincsenek büfék.",
+            "ro": "Urcați până la această veche fortificație pentru a descoperi istoria defensivă a regiunii și aduceți apă, deoarece pe traseu nu există facilități comerciale.",
+            "en": "Hike up to this ancient fortification site to uncover layers of regional defensive history, and bring your own water bottle as there are no facilities on the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Schaubeck",
+            "hu": "Schaubeck Kastély",
+            "ro": "Castelul Schaubeck",
+            "en": "Schaubeck Castle"
+          },
+          "coords": [
+            9.28975,
+            48.9738
+          ],
+          "category": "Castles & palaces",
+          "arrive_at": "16:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gut erhaltenen Renaissance-Details dieses historischen Weinguts und buchen Sie vorab eine Weinprobe, um Ihren Besuch zu einem besonderen Erlebnis zu machen.",
+            "hu": "Csodálja meg ennek a szőlőbirtokon fekvő történelmi kastélynak a reneszánsz részleteit, és érdemes előre borkóstoló túrát foglalni a teljes élmény érdekében.",
+            "ro": "Minunați-vă de detaliile renascentiste ale acestui conac istoric situat printre podgorii și încercați să rezervați o degustare de vinuri în avans pentru o vizită perfectă.",
+            "en": "Marvel at the well-preserved Renaissance details of this historic estate set among vineyards, and try to book a guided wine-tasting tour in advance to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bottwartal",
+            "hu": "Bottwar-völgy",
+            "ro": "Valea Bottwar",
+            "en": "Bottwar Valley"
+          },
+          "coords": [
+            9.28791,
+            48.9737
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "18:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der malerischen Uferwege, die die ruhige Schönheit der regionalen Natur zeigen, und halten Sie am Wasser Ausschau nach einheimischen Vogelarten.",
+            "hu": "Sétáljon végig a festői folyóparti ösvényeken, amelyek bemutatják a régió természetének nyugodt szépségét, és figyelje meg a víz közelében élő helyi madárfajokat.",
+            "ro": "Plimbați-vă pe potecile pitorești de pe malul râului, care arată frumusețea liniștită a naturii din regiune, și urmăriți speciile locale de păsări în apropierea apei.",
+            "en": "Stroll along the scenic riverside paths that showcase the tranquil beauty of the region's nature, keeping an eye out for local bird species near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour mit einem aktiven Morgen im örtlichen Freibad. Radeln Sie mittags ins Stadtzentrum, um Mönche und Urmenschen in den Museen zu entdecken. Nachmittags treten Sie in die Pedale zu schroffen Ruinen mit herrlichem Blick auf die Region. Lassen Sie Ihr Radabenteuer mit einer abendlichen Fahrt vorbei an Weinbergsschlössern in das ruhige Bottwartal ausklingen.",
+        "hu": "Indítsa a túrát egy energizáló reggellel a helyi szabadtéri medencekomplexumban. Guruljon be a városközpontba délben, és fedezze fel a szerzeteseket és az ősembereket a múzeumokban. A délutáni tekerés zord romokhoz visz, ahonnan pazar kilátás nyílik a régióra. Zárja kerékpáros kalandját egy esti suhanással a szőlőhegyi kastélyok mellett a csendes Bottwar-völgybe.",
+        "ro": "Începeți plimbarea cu o dimineață energizantă la complexul de piscine în aer liber. Ajungeți în centrul orașului la prânz pentru a descoperi călugări și oameni preistorici. Pedalarea de după-amiază vă duce la ruine cu vederi impunătoare asupra regiunii. Încheiați-vă aventura pe două roți alunecând pe lângă castele cu podgorii spre liniștita Vale Bottwar la lăsarea serii.",
+        "en": "Kick off your ride with an energizing morning at the local outdoor pool complex. Roll into the town center for midday museum hopping, discovering both monks and prehistoric men. Afternoon pedaling takes you to rugged ruins with commanding views of the region. Wind down your cycling adventure with an evening glide past vineyard castles and into the serene Bottwar Valley."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:01",
+      "total_km": 10.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römischer Hafen",
+            "hu": "Római Kikötő",
+            "ro": "Portul Roman",
+            "en": "Roman Port"
+          },
+          "coords": [
+            9.25278,
+            48.950944
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie an der Stelle des antiken römischen Hafens, um das Ausmaß des frühen Flusshandels zu begreifen, und lesen Sie die Tafeln, um sich die alten Docks vorzustellen.",
+            "hu": "Álljon meg az ókori római kikötő helyén, hogy megértse a korai folyami kereskedelem méretét, és olvassa el a táblákat a múlt nyüzsgő dokkjainak elképzeléséhez.",
+            "ro": "Stați pe locul vechiului port roman pentru a înțelege scara comerțului fluvial timpuriu aici și citiți panourile informative pentru a vizualiza docurile aglomerate din trecut.",
+            "en": "Stand at the site of the ancient Roman port to grasp the scale of early river trade here, and read the informative panels to visualize the bustling docks of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "BrezelMuseum",
+            "hu": "Perecmúzeum",
+            "ro": "Muzeul Covrigului",
+            "en": "Pretzel Museum"
+          },
+          "coords": [
+            9.296817,
+            48.94503
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem einzigartigen kulinarischen Museum mehr über die Ursprünge der weltberühmten Brezel und holen Sie sich frische Kostproben aus der angeschlossenen Bäckerei.",
+            "hu": "Élvezze a világhírű perec eredetének megismerését ebben az egyedülálló gasztronómiai múzeumban, és vegyen frissen sült kóstolókat a szomszédos pékségből.",
+            "ro": "Bucurați-vă să aflați despre originile faimosului covrig în acest muzeu culinar unic și luați câteva mostre proaspăt coapte de la brutăria conectată.",
+            "en": "Delight in learning about the origins of the world-famous pretzel at this unique culinary museum, and pick up some freshly baked samples from the connected bakery shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Urmenschenmuseum",
+            "hu": "Ősember Múzeum",
+            "ro": "Muzeul Omului Preistoric",
+            "en": "Prehistoric Man Museum"
+          },
+          "coords": [
+            9.27931,
+            48.9648
+          ],
+          "category": "Museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Schädel des Homo steinheimensis, der diese Stadt weltbekannt machte, und besuchen Sie die interaktiven Ausstellungen im zweiten Stock.",
+            "hu": "Fedezze fel a lenyűgöző Homo steinheimensis koponyát, amely a várost a térképre tette, és feltétlenül nézze meg az interaktív kiállításokat a második emeleten.",
+            "ro": "Descoperiți craniul fascinant de Homo steinheimensis care face orașul faimos și asigurați-vă că verificați expozițiile interactive de la etajul al doilea.",
+            "en": "Discover the fascinating Homo steinheimensis skull that puts this town on the archaeological map, and be sure to check the interactive exhibits on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinheimer Schlössle",
+            "hu": "Steinheimer Schlössle",
+            "ro": "Steinheimer Schlössle",
+            "en": "Steinheimer Schlössle"
+          },
+          "coords": [
+            9.280465,
+            48.966118
+          ],
+          "category": "castle",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieser Adelsresidenz, die Jahrhunderte regionaler Geschichte widerspiegelt, aber tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Csodálja meg e nemesi rezidencia elegáns építészetét, amely évszázadok történetét tükrözi, de viseljen kényelmes cipőt a kinti macskaköves utakra.",
+            "ro": "Admirați arhitectura elegantă a acestei reședințe nobiliare, care reflectă secole de istorie regională, dar purtați pantofi comozi pentru aleile pietruite de afară.",
+            "en": "Admire the elegant architecture of this noble residence that reflects centuries of regional history, but wear comfortable shoes for the uneven cobblestone paths outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Schaubeck",
+            "hu": "Schaubeck Kastély",
+            "ro": "Castelul Schaubeck",
+            "en": "Schaubeck Castle"
+          },
+          "coords": [
+            9.28975,
+            48.9738
+          ],
+          "category": "Castles & palaces",
+          "arrive_at": "15:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gut erhaltenen Renaissance-Details dieses historischen Weinguts und buchen Sie vorab eine Weinprobe, um Ihren Besuch zu einem besonderen Erlebnis zu machen.",
+            "hu": "Csodálja meg ennek a szőlőbirtokon fekvő történelmi kastélynak a reneszánsz részleteit, és érdemes előre borkóstoló túrát foglalni a teljes élmény érdekében.",
+            "ro": "Minunați-vă de detaliile renascentiste ale acestui conac istoric situat printre podgorii și încercați să rezervați o degustare de vinuri în avans pentru o vizită perfectă.",
+            "en": "Marvel at the well-preserved Renaissance details of this historic estate set among vineyards, and try to book a guided wine-tasting tour in advance to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenbuckele",
+            "hu": "Hexenbuckele",
+            "ro": "Hexenbuckele",
+            "en": "Hexenbuckele"
+          },
+          "coords": [
+            9.307456,
+            48.977693
+          ],
+          "category": "historical",
+          "arrive_at": "16:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Denken Sie an diesem mit lokalen Legenden verbundenen Gedenkort über die dunkleren Kapitel der Geschichte nach und kommen Sie am späten Nachmittag für eine ruhigere Atmosphäre.",
+            "hu": "Elmélkedjen a történelem sötétebb fejezetein ezen a helyi legendákhoz kapcsolódó emlékhelyen, és látogasson el késő délután a csendesebb, elmélyültebb légkörért.",
+            "ro": "Contemplați capitolele mai întunecate ale istoriei la acest memorial legat de legendele locale și vizitați-l după-amiaza târziu pentru o atmosferă mai liniștită și reflexivă.",
+            "en": "Contemplate the darker chapters of history at this memorial site linked to local legends, and visit during the late afternoon for a quieter, more reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuersee",
+            "hu": "Feuersee",
+            "ro": "Feuersee",
+            "en": "Feuersee"
+          },
+          "coords": [
+            9.327254,
+            48.992249
+          ],
+          "category": "natural",
+          "arrive_at": "18:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses malerischen kleinen Sees mitten in der Natur, der ein perfekter letzter Halt ist, um die Dämmerung zu genießen.",
+            "hu": "Lazítson ennek a természetben gyönyörűen elhelyezkedő festői kis tónak a nyugodt vize mellett, amely tökéletes utolsó állomás egy békés alkonyati pillanat élvezetéhez.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui mic lac pitoresc situat în natură, care servește ca o oprire finală perfectă pentru a vă bucura de un moment de amurg liniștit.",
+            "en": "Unwind by the calm waters of this picturesque small lake situated beautifully in nature, which serves as a perfect final stop to enjoy a peaceful twilight moment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum antiken römischen Hafen und atmen Sie die morgendliche Uferatmosphäre ein. Der Mittag verwöhnt Sie mit dem Brezelmuseum und tiefgreifenden prähistorischen Entdeckungen. Verbringen Sie den Nachmittag mit der Erkundung historischer Schlösser und mysteriöser Legenden am Stadtrand. Ihr Ausflug endet wunderschön am ruhigen Wasser des Feuersees.",
+        "hu": "Vezessen először az ókori római kikötőhöz, és szívja magába a kora reggeli folyóparti hangulatot. A dél a perecmúzeum érdekességeivel és mélyreható őskori felfedezésekkel kényezteti. A délutánt a történelmi kastélyok és a város szélén található titokzatos legendák felfedezésével tölti. Kirándulása csodálatosan zárul a Feuersee nyugodt vize közelében alkonyatkor.",
+        "ro": "Conduceți mai întâi la vechiul port roman, respirând atmosfera matinală a malului râului. Prânzul vă aduce surprizele Muzeului Covrigului și descoperiri preistorice profunde. Petreceți după-amiaza explorând castele istorice și legende misterioase la marginea orașului. Excursia se încheie minunat, parcând lângă apele calme ale lacului Feuersee la apus.",
+        "en": "Drive first to the ancient Roman port, breathing in the early morning riverside atmosphere. Midday treats you to the quirks of the Pretzel Museum and profound prehistoric discoveries. Spend the afternoon exploring historic local castles and mysterious legends on the town's edge. Your day trip concludes beautifully by parking near the calm waters of Feuersee at twilight."
+      }
+    }
+  }
+}

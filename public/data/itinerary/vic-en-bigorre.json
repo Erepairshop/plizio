@@ -1,0 +1,474 @@
+{
+  "city_id": "vic-en-bigorre",
+  "anchor": {
+    "name": "Vic-en-Bigorre",
+    "coords": [
+      0.0531,
+      43.3856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vic-en-Bigorre Market Hall",
+            "hu": "Vic-en-Bigorre Market Hall",
+            "ro": "Vic-en-Bigorre Market Hall",
+            "en": "Vic-en-Bigorre Market Hall"
+          },
+          "coords": [
+            0.054532,
+            43.384799
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
+            "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
+            "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin Church",
+            "ro": "Saint-Martin Church",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            0.054207,
+            43.385894
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Elemente dieser historischen Kirche im Stadtzentrum, prüfen Sie jedoch vorab das schwarze Brett auf die aktuellen Öffnungszeiten.",
+            "hu": "Csodálja meg a történelmi belvárosi templom gótikus építészeti elemeit, azonban a látogatás előtt mindenképpen ellenőrizze a faliújságon a nyitvatartási időt.",
+            "ro": "Admirați elementele gotice frumoase ale acestei biserici istorice din centrul orașului, dar verificați orarul de pe panoul informativ înainte de a o vizita.",
+            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Octav",
+            "hu": "L'Octav",
+            "ro": "L'Octav",
+            "en": "L'Octav"
+          },
+          "coords": [
+            0.055122,
+            43.387276
+          ],
+          "category": "cultural",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
+            "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
+            "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Journet",
+            "hu": "Hôtel de Journet",
+            "ro": "Hôtel de Journet",
+            "en": "Hôtel de Journet"
+          },
+          "coords": [
+            0.0534,
+            43.388089
+          ],
+          "category": "castle",
+          "arrive_at": "11:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Fassade dieser historischen Adelsresidenz, die die Architektur prägt, am besten fotografiert im weichen Licht des Nachmittags.",
+            "hu": "Csodálja meg ennek a városképet meghatározó történelmi nemesi rezidenciának az elegáns homlokzatát, amelyet érdemes a lágy délutáni fényekben lencsevégre kapni.",
+            "ro": "Minunați-vă de fațada elegantă a acestei reședințe nobiliare istorice care definește arhitectura orașului, de preferat fotografiată în lumina blândă a după-amiezii.",
+            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine Intercommunale",
+            "hu": "Piscine Intercommunale",
+            "ro": "Piscine Intercommunale",
+            "en": "Piscine Intercommunale"
+          },
+          "coords": [
+            0.049403,
+            43.385633
+          ],
+          "category": "family",
+          "arrive_at": "12:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im örtlichen Schwimmbad mit seinen familienfreundlichen Einrichtungen, aber bringen Sie richtige Badesachen mit, da Shorts nicht erlaubt sind.",
+            "hu": "Pihenjen és hűsöljön a helyi közösségi medencében, amely családbarát szolgáltatásokat nyújt, de hozzon megfelelő fürdőruhát, mert a strandnadrág nem megengedett.",
+            "ro": "Relaxați-vă și răcoriți-vă la piscina comunitară care oferă facilități pentru familii, dar nu uitați să aduceți un costum de baie adecvat deoarece șorturile sunt interzise.",
+            "en": "Relax and cool off at the local community pool which offers family-friendly amenities, but remember to bring a proper swimsuit as long beach shorts are not allowed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in das lebhafte Markttreiben eintauchen, gefolgt von einem ruhigen Besuch der historischen Kirche Saint-Martin.\nSpazieren Sie mittags zum L'Octav, um das kulturelle Leben der Stadt zu erkunden, und suchen Sie sich einen gemütlichen Ort für ein regionales Mittagessen.\nVerbringen Sie den Nachmittag damit, das architektonische Erbe der Stadt zu bewundern, insbesondere die elegante Fassade des Hôtel de Journet.\nBeenden Sie Ihre Tour mit einem erfrischenden Bad in der Piscine Intercommunale, der perfekten Möglichkeit, nach dem Erkunden zu entspannen.",
+        "hu": "Kezdje a reggelt a pezsgő helyi életbe való elmerüléssel a fedett piacon, majd tegyen egy békés látogatást a történelmi Saint-Martin templomban.\nDélben sétáljon át a L'Octav-hoz, hogy felfedezze a város kulturális ütőerét, majd keressen egy hangulatos helyet egy kényelmes regionális ebédhez.\nTöltse a délutánt a város építészeti örökségének megcsodálásával, amelyet a Hôtel de Journet elegáns homlokzata koronáz meg.\nZárja a gyalogos túrát egy frissítő csobbanással a Piscine Intercommunale medencéjében, amely tökéletes levezetés a városnézés után.",
+        "ro": "Începeți-vă dimineața plonjând în viața locală vibrantă la piața acoperită, urmată de o vizită senină la istorica Biserică Saint-Martin.\nLa prânz, plimbați-vă până la L'Octav pentru a explora pulsul cultural al orașului, apoi găsiți un loc confortabil pentru un prânz regional liniștit.\nPetreceți-vă după-amiaza admirând patrimoniul arhitectural al orașului, evidențiat de fațada elegantă a spectaculosului Hôtel de Journet.\nÎncheiați-vă turul pietonal cu o baie revigorantă la Piscine Intercommunale, un mod perfect de a vă relaxa după explorarea orașului.",
+        "en": "Start your morning by immersing yourself in the vibrant local life at the covered market, followed by a serene visit to the historic Saint-Martin Church.\nFor midday, stroll over to L'Octav to explore the town's cultural pulse, then find a cozy spot nearby for a leisurely regional lunch.\nSpend your afternoon admiring the town's architectural heritage, highlighted by the elegant facade of the Hôtel de Journet.\nConclude your walking tour with a refreshing dip at the Piscine Intercommunale, a perfect way to unwind after exploring the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vic-en-Bigorre Market Hall",
+            "hu": "Vic-en-Bigorre Market Hall",
+            "ro": "Vic-en-Bigorre Market Hall",
+            "en": "Vic-en-Bigorre Market Hall"
+          },
+          "coords": [
+            0.054532,
+            43.384799
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
+            "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
+            "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Church",
+            "hu": "Saint-Martin Church",
+            "ro": "Saint-Martin Church",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            0.054207,
+            43.385894
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Elemente dieser historischen Kirche im Stadtzentrum, prüfen Sie jedoch vorab das schwarze Brett auf die aktuellen Öffnungszeiten.",
+            "hu": "Csodálja meg a történelmi belvárosi templom gótikus építészeti elemeit, azonban a látogatás előtt mindenképpen ellenőrizze a faliújságon a nyitvatartási időt.",
+            "ro": "Admirați elementele gotice frumoase ale acestei biserici istorice din centrul orașului, dar verificați orarul de pe panoul informativ înainte de a o vizita.",
+            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrum Bigorra",
+            "hu": "Castrum Bigorra",
+            "ro": "Castrum Bigorra",
+            "en": "Castrum Bigorra"
+          },
+          "coords": [
+            0.027346,
+            43.373458
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grundmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a régiót egykor őrző középkori erődítmény ősi alapjait és maradványait, de mindenképpen viseljen strapabíró túracipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați fundațiile antice ale acestei fortărețe medievale care odată păzea întreaga regiune, purtând încălțăminte de mers robustă pentru terenul istoric accidentat.",
+            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Site archéologique de Castetbieilh",
+            "hu": "Site archéologique de Castetbieilh",
+            "ro": "Site archéologique de Castetbieilh",
+            "en": "Site archéologique de Castetbieilh"
+          },
+          "coords": [
+            0.028965,
+            43.373323
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise durch diese antiken Ruinen, die frühe Siedlungen offenbaren, und nehmen Sie in den wärmeren Sommermonaten eine kleine Wasserflasche mit.",
+            "hu": "Repüljön vissza az időben ezeknek a korai településeket feltáró ősi romoknak a bejárásával, és a melegebb nyári hónapokban mindig tartson magánál egy kis üveg vizet.",
+            "ro": "Întoarceți-vă în timp plimbându-vă prin aceste ruine antice care dezvăluie așezări timpurii, având la voi o sticlă mică de apă în timpul lunilor mai calde de vară.",
+            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Prieuré",
+            "hu": "Le Prieuré",
+            "ro": "Le Prieuré",
+            "en": "Le Prieuré"
+          },
+          "coords": [
+            0.030264,
+            43.372018
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser von Natur umgebenen alten religiösen Stätte, und achten Sie darauf, Ihre Stimme zu senken, um die Ruhe zu wahren.",
+            "hu": "Élvezze ennek a természettel teljesen körülvett régi vallási helyszínnek a békés atmoszféráját, és ügyeljen arra, hogy halkan beszéljen a nyugodt környezet tiszteletben tartásáért.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui vechi sit religios înconjurat de natură, asigurându-vă că mențineți un ton scăzut pentru a respecta mediul liniștit.",
+            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Octav",
+            "hu": "L'Octav",
+            "ro": "L'Octav",
+            "en": "L'Octav"
+          },
+          "coords": [
+            0.055122,
+            43.387276
+          ],
+          "category": "cultural",
+          "arrive_at": "14:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
+            "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
+            "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer am lebhaften Markt, um frische Snacks zu besorgen, und radeln Sie dann zur nahegelegenen Kirche Saint-Martin.\nVerlassen Sie gegen Mittag das Zentrum und fahren Sie südwärts zu den beeindruckenden mittelalterlichen Überresten von Castrum Bigorra.\nVerbringen Sie den Nachmittag damit, die benachbarte archäologische Stätte und das friedliche Gelände des Le Prieuré in der Natur zu entdecken.\nWenn der Abend naht, radeln Sie zurück in das Herz von Vic-en-Bigorre, um vor dem Abendessen eine kulturelle Veranstaltung im L'Octav zu genießen.",
+        "hu": "Indítsa kerékpáros kalandját a nyüzsgő központi piacon, szerezzen be friss helyi rágcsálnivalókat, majd tekerjen el a közeli Saint-Martin templomhoz.\nDél körül hagyja maga mögött a városközpontot, és induljon délre a Castrum Bigorra lenyűgöző középkori maradványai felé egy történelmi felfedezőútra.\nDélutánját a szomszédos régészeti lelőhely és a Le Prieuré békés területének felfedezésével töltheti, elmerülve a természet lágy ölében.\nAz este közeledtével kerekezzen vissza Vic-en-Bigorre szívébe, hogy a vacsora előtt még megnézzen egy kulturális eseményt a L'Octav központban.",
+        "ro": "Începeți aventura pe bicicletă la piața centrală pentru a lua gustări proaspete, apoi pedalați ușor până la Biserica Saint-Martin din apropiere.\nÎn jurul prânzului, părăsiți centrul orașului și mergeți spre sud către rămășițele medievale impresionante ale Castrum Bigorra pentru o explorare.\nPetreceți după-amiaza descoperind situl arheologic adiacent și terenurile pașnice de la Le Prieuré, bucurându-vă de împrejurimile naturale.\nOdată cu lăsarea serii, întoarceți-vă cu bicicleta în inima orașului Vic-en-Bigorre pentru a vă bucura de un eveniment cultural la L'Octav.",
+        "en": "Kick off your biking adventure at the bustling central market to gather some fresh local snacks, then pedal lightly to the nearby Saint-Martin Church.\nAround midday, leave the town center behind and ride southward towards the impressive medieval remnants of Castrum Bigorra for a historical exploration.\nSpend your afternoon discovering the adjacent archaeological site and the peaceful grounds of Le Prieuré, soaking in the natural surroundings.\nAs evening approaches, cycle back into the heart of Vic-en-Bigorre to enjoy a cultural event or exhibition at L'Octav before dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nazaire",
+            "hu": "Église Saint-Nazaire",
+            "ro": "Église Saint-Nazaire",
+            "en": "Église Saint-Nazaire"
+          },
+          "coords": [
+            0.076666,
+            43.403536
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante ländliche Kirche, die für ihren regionalen Charakter bekannt ist, und parken Sie Ihr Auto respektvoll nahe dem kleinen angrenzenden Friedhof.",
+            "hu": "Látogassa meg ezt a jellegzetes regionális karakteréről ismert bájos vidéki templomot, és autóját tisztelettudóan a helyszín melletti kis temető közelében parkolja le.",
+            "ro": "Vizitați această biserică rurală fermecătoare cunoscută pentru caracterul ei regional distinct, parcându-vă mașina cu respect lângă micul cimitir adiacent sitului.",
+            "en": "Visit this charming rural church known for its distinct regional character and quiet setting, parking your car respectfully near the small cemetery adjacent to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Octav",
+            "hu": "L'Octav",
+            "ro": "L'Octav",
+            "en": "L'Octav"
+          },
+          "coords": [
+            0.055122,
+            43.387276
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
+            "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
+            "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Vic-en-Bigorre Market Hall",
+            "hu": "Vic-en-Bigorre Market Hall",
+            "ro": "Vic-en-Bigorre Market Hall",
+            "en": "Vic-en-Bigorre Market Hall"
+          },
+          "coords": [
+            0.054532,
+            43.384799
+          ],
+          "category": "civic",
+          "arrive_at": "10:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
+            "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
+            "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Journet",
+            "hu": "Hôtel de Journet",
+            "ro": "Hôtel de Journet",
+            "en": "Hôtel de Journet"
+          },
+          "coords": [
+            0.0534,
+            43.388089
+          ],
+          "category": "castle",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Fassade dieser historischen Adelsresidenz, die die Architektur prägt, am besten fotografiert im weichen Licht des Nachmittags.",
+            "hu": "Csodálja meg ennek a városképet meghatározó történelmi nemesi rezidenciának az elegáns homlokzatát, amelyet érdemes a lágy délutáni fényekben lencsevégre kapni.",
+            "ro": "Minunați-vă de fațada elegantă a acestei reședințe nobiliare istorice care definește arhitectura orașului, de preferat fotografiată în lumina blândă a după-amiezii.",
+            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrum Bigorra",
+            "hu": "Castrum Bigorra",
+            "ro": "Castrum Bigorra",
+            "en": "Castrum Bigorra"
+          },
+          "coords": [
+            0.027346,
+            43.373458
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grundmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a régiót egykor őrző középkori erődítmény ősi alapjait és maradványait, de mindenképpen viseljen strapabíró túracipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați fundațiile antice ale acestei fortărețe medievale care odată păzea întreaga regiune, purtând încălțăminte de mers robustă pentru terenul istoric accidentat.",
+            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Site archéologique de Castetbieilh",
+            "hu": "Site archéologique de Castetbieilh",
+            "ro": "Site archéologique de Castetbieilh",
+            "en": "Site archéologique de Castetbieilh"
+          },
+          "coords": [
+            0.028965,
+            43.373323
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise durch diese antiken Ruinen, die frühe Siedlungen offenbaren, und nehmen Sie in den wärmeren Sommermonaten eine kleine Wasserflasche mit.",
+            "hu": "Repüljön vissza az időben ezeknek a korai településeket feltáró ősi romoknak a bejárásával, és a melegebb nyári hónapokban mindig tartson magánál egy kis üveg vizet.",
+            "ro": "Întoarceți-vă în timp plimbându-vă prin aceste ruine antice care dezvăluie așezări timpurii, având la voi o sticlă mică de apă în timpul lunilor mai calde de vară.",
+            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Prieuré",
+            "hu": "Le Prieuré",
+            "ro": "Le Prieuré",
+            "en": "Le Prieuré"
+          },
+          "coords": [
+            0.030264,
+            43.372018
+          ],
+          "category": "religious",
+          "arrive_at": "15:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser von Natur umgebenen alten religiösen Stätte, und achten Sie darauf, Ihre Stimme zu senken, um die Ruhe zu wahren.",
+            "hu": "Élvezze ennek a természettel teljesen körülvett régi vallási helyszínnek a békés atmoszféráját, és ügyeljen arra, hogy halkan beszéljen a nyugodt környezet tiszteletben tartásáért.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui vechi sit religios înconjurat de natură, asigurându-vă că mențineți un ton scăzut pentru a respecta mediul liniștit.",
+            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour etwas außerhalb an der charmanten Église Saint-Nazaire und fahren Sie dann ins Zentrum zum kulturellen L'Octav.\nParken Sie mittags nahe der Markthalle, um das lokale Treiben zu erleben und zu Mittag zu essen, bevor Sie das Hôtel de Journet besichtigen.\nFahren Sie am Nachmittag zum südlichen historischen Komplex, um das Castrum Bigorra und die angrenzenden archäologischen Ruinen zu erkunden.\nBeenden Sie den Tag mit einer kurzen Fahrt zum Le Prieuré und genießen Sie die friedliche Atmosphäre der Landschaft im Sonnenuntergang.",
+        "hu": "Kezdje az autós túrát a központon kívül található bájos Église Saint-Nazaire templomnál, majd hajtson be a városba a L'Octav kulturális központjához.\nDélben parkoljon le a piac közelében, hogy megtapasztalja a nyüzsgő kereskedelmet és megebédeljen, majd tegyen egy rövid kitérőt a Hôtel de Journet-hez.\nDélután vezessen ki a déli történelmi övezethez, hogy alaposan felfedezze a Castrum Bigorra erődítményt és a szomszédos régészeti romokat.\nZárja a napot egy rövid autóúttal a Le Prieuré-hoz, és élvezze a vidéki táj békés atmoszféráját, miközben a nap lassan nyugovóra tér.",
+        "ro": "Începeți turul auto la fermecătoarea Église Saint-Nazaire, apoi îndreptați-vă înapoi în oraș pentru a vizita centrul cultural L'Octav.\nLa prânz, parcați lângă piața centrală pentru a experimenta comerțul local și a lua prânzul, urmat de o vizită scurtă la Hôtel de Journet.\nDupă-amiaza, conduceți spre complexul istoric sudic pentru a explora amănunțit atât Castrum Bigorra, cât și ruinele arheologice adiacente.\nÎncheiați ziua cu o scurtă plimbare cu mașina la Le Prieuré, bucurându-vă de atmosfera senină a mediului rural pe măsură ce soarele apune.",
+        "en": "Begin your driving tour just outside the main center at the charming Église Saint-Nazaire, then head back into town to visit the cultural hub of L'Octav.\nFor midday, park near the central market hall to experience the vibrant local trade and grab lunch, then briefly visit the nearby Hôtel de Journet.\nIn the afternoon, drive out to the southern historical cluster to thoroughly explore both the Castrum Bigorra and the adjacent archaeological ruins.\nFinish your day with a short drive to Le Prieuré, taking in the serene atmosphere and beautiful countryside setting as the sun begins to set."
+      }
+    }
+  }
+}

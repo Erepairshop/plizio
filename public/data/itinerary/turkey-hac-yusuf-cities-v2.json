@@ -1,0 +1,428 @@
+{
+  "city_id": "turkey-hac-yusuf-cities-v2",
+  "anchor": {
+    "name": "Hacı Yusuf",
+    "coords": [
+      27.97501,
+      40.35865
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Trinite Church",
+            "hu": "Saint Trinite Church",
+            "ro": "Saint Trinite Church",
+            "en": "Saint Trinite Church"
+          },
+          "coords": [
+            27.972094,
+            40.359062
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruinenartige Saint Trinite Kirche mit ihrer bewegten Geschichte, und achten Sie auf die verbliebenen architektonischen Details des Mauerwerks.",
+            "hu": "Fedezze fel a történelmi Saint Trinite templom romjait, és figyelje meg a falmaradványokon még látható lenyűgöző egykori építészeti részleteket.",
+            "ro": "Explorați ruinele bisericii istorice Saint Trinite și acordați atenție detaliilor arhitecturale care au supraviețuit pe zidurile de piatră antice.",
+            "en": "Explore the historic Saint Trinite Church ruins, and pay close attention to the fascinating architectural details still visible on the ancient stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Art Bella",
+            "hu": "Art Bella",
+            "ro": "Art Bella",
+            "en": "Art Bella"
+          },
+          "coords": [
+            27.973202,
+            40.357197
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kunstgalerie Art Bella für lokale Ausstellungen und nehmen Sie sich Zeit, die Werke aufstrebender türkischer Künstler zu bewundern.",
+            "hu": "Látogasson el az Art Bella galériába a helyi kiállításokért, és szánjon időt a feltörekvő török kortárs művészek alkotásainak megcsodálására a belső térben.",
+            "ro": "Vizitați galeria Art Bella pentru expoziții locale și faceți-vă timp să admirați lucrările captivante ale artiștilor contemporani turci emergenți.",
+            "en": "Visit the Art Bella gallery to experience local exhibitions, and take your time admiring the inspiring works created by emerging Turkish contemporary artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunç Başaran Kültür Merkezi",
+            "hu": "Tunç Başaran Kültür Merkezi",
+            "ro": "Tunç Başaran Kültür Merkezi",
+            "en": "Tunç Başaran Kültür Merkezi"
+          },
+          "coords": [
+            27.970023,
+            40.357329
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses Kulturzentrum feiert den berühmten Regisseur Tunç Başaran; prüfen Sie das aktuelle Programm vorab für spannende Filmvorführungen oder Theaterstücke.",
+            "hu": "Ez a központ a híres rendező, Tunç Başaran előtt tiszteleg; érdemes előre ellenőrizni a programot, hátha elcsíphet egy helyi színházi előadást.",
+            "ro": "Acest centru cultural îl celebrează pe faimosul regizor Tunç Başaran; verificați programul în avans pentru a prinde o proiecție de film sau o piesă locală.",
+            "en": "This vibrant cultural center celebrates famous director Tunç Başaran; check their schedule beforehand to catch an engaging local play or film screening."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+          },
+          "coords": [
+            27.970212,
+            40.356245
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Verwaltungsgebäudes, das am besten im sanften Licht des späten Vormittags für Fotos zur Geltung kommt.",
+            "hu": "Csodálja meg ennek a történelmi közigazgatási épületnek az elegáns építészetét, amely a délelőtti fényekben mutatja a legszebb arcát a fotózáshoz.",
+            "ro": "Admirați arhitectura acestei clădiri administrative istorice, care oferă un cadru excelent pentru fotografii deosebite în lumina blândă a dimineții.",
+            "en": "Admire the elegant architecture of this historic administrative building, which provides an excellent backdrop for photography in the soft morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Haydar Çavuş Mosque",
+            "hu": "Haydar Çavuş Mosque",
+            "ro": "Haydar Çavuş Mosque",
+            "en": "Haydar Çavuş Mosque"
+          },
+          "coords": [
+            27.970271,
+            40.354135
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese zentrale Moschee besticht durch ihre klassisch osmanischen Linien; ziehen Sie am Eingang Ihre Schuhe aus und genießen Sie die friedliche Atmosphäre drinnen.",
+            "hu": "Ez a központi mecset klasszikus oszmán stílusával hódít; a bejáratnál vegye le a cipőjét, és élvezze a belső tér békés, csendes atmoszféráját a város szívében.",
+            "ro": "Această moschee centrală impresionează prin stilul ei otoman clasic; descălțați-vă la intrare și bucurați-vă de atmosfera pașnică din interiorul său răcoros.",
+            "en": "This central mosque impresses with its classic Ottoman design; remember to remove your shoes at the entrance and enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Camii",
+            "hu": "Ulu Camii",
+            "ro": "Ulu Camii",
+            "en": "Ulu Camii"
+          },
+          "coords": [
+            27.972383,
+            40.351899
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an der großen Ulu Camii, wo das prächtige Interieur und die wunderschöne Kalligrafie eine besinnliche Atmosphäre schaffen.",
+            "hu": "Zárja sétáját a lenyűgöző Ulu Camii-nél, ahol a gyönyörű kalligráfia és a hatalmas belső tér elmélyült, nyugodt légkört teremt a nap végére.",
+            "ro": "Încheiați-vă turul la marea Ulu Camii, unde interiorul magnific și caligrafia frumoasă creează o atmosferă contemplativă, perfectă pentru relaxare.",
+            "en": "Conclude your walking tour at the grand Ulu Camii, where the magnificent interior space and beautiful calligraphy create a deeply contemplative atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in Hacı Yusuf an den Ruinen der Saint Trinite Kirche und tauchen Sie in die Vergangenheit ein. Ein kurzer Spaziergang führt zur Art Bella, die Sie mit lokaler Kunst in die Gegenwart holt.\nGegen Mittag erkunden Sie das Tunç Başaran Kültür Merkezi, das das filmische Erbe der Türkei feiert. Dies ist der perfekte Zeitpunkt für ein schnelles lokales Mittagessen in der Nähe.\nDer frühe Nachmittag ist dem imposanten Balıkesir-Gebäude gewidmet. Seine historische Architektur bietet eine tolle Kulisse, während Sie in das religiöse Zentrum schlendern.\nBeenden Sie Ihren Tag in der spirituellen Ruhe der Haydar Çavuş Moschee und der großen Ulu Camii. Der abendliche Gebetsruf hallt durch die Straßen und bietet einen friedlichen Abschluss.",
+        "hu": "Kezdje a reggelt a Saint Trinite templom romjainál, elmerülve Hacı Yusuf múltjában. Egy rövid séta elvezeti az Art Bella galériába, amely kortárs helyi művészettel téríti vissza a jelenbe.\nDélben fedezze fel a Tunç Başaran Kulturális Központot, amely a török filmművészet örökségét ünnepli. Ez a tökéletes alkalom egy gyors helyi ebédre a környéken.\nA kora délutánt a lenyűgöző Balıkesir közigazgatási épületének szenteljük. Történelmi építészete tökéletes hátteret biztosít, miközben a város vallási központja felé sétál.\nZárja a napot a Haydar Çavuş mecset és a hatalmas Ulu Camii spirituális nyugalmában. Az esti imára hívó hang végigzeng az utcákon, békés befejezést kínálva sétájának.",
+        "ro": "Începeți dimineața printre ruinele Bisericii Saint Trinite, cufundându-vă în trecutul din Hacı Yusuf. O scurtă plimbare vă duce la Art Bella, aducându-vă în prezent prin arta contemporană.\nLa amiază veți explora Centrul Cultural Tunç Başaran, care celebrează patrimoniul cinematografic turcesc. Este un moment excelent pentru a lua un prânz rapid și delicios în apropiere.\nÎnceputul după-amiezii este dedicat impunătoarei clădiri administrative Balıkesir. Arhitectura sa istorică oferă un fundal perfect în timp ce vă îndreptați spre centrul religios.\nÎncheiați ziua admirând liniștea spirituală a Moscheii Haydar Çavuş și a marii Ulu Camii. Chemarea la rugăciune de seară răsună pe străzi, oferind o concluzie cu adevărat pașnică.",
+        "en": "Start your morning diving into Hacı Yusuf’s past at the Saint Trinite Church ruins, imagining its former grandeur. A short stroll leads to Art Bella, bringing you back to the present with local contemporary art.\nAs midday arrives, you will explore the Tunç Başaran Kültür Merkezi, celebrating Turkey's cinematic heritage. It is a great moment to grab a quick local lunch nearby.\nThe early afternoon is dedicated to the imposing Balıkesir Büyükşehir Belediyesi building. Its historic architecture provides a perfect backdrop as you meander towards the religious center of town.\nEnd your day admiring the spiritual serenity of Haydar Çavuş Mosque and the grand Ulu Camii. The evening call to prayer echoes through the streets, offering a truly peaceful conclusion to your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bandırma Red Lighthouse",
+            "hu": "Bandırma Red Lighthouse",
+            "ro": "Bandırma Red Lighthouse",
+            "en": "Bandırma Red Lighthouse"
+          },
+          "coords": [
+            27.958431,
+            40.358519
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum roten Leuchtturm für einen weiten Blick auf das Marmarameer; die frische Brise hier ist besonders am frühen Morgen wunderbar erfrischend.",
+            "hu": "Kerékpározzon el a piros világítótoronyhoz a Márvány-tengerre nyíló kilátásért; a friss tengeri szellő itt különösen a kora reggeli órákban nagyon frissítő.",
+            "ro": "Pedalați până la farul roșu pentru o vedere amplă asupra Mării Marmara; briza proaspătă de aici este deosebit de revigorantă dimineața devreme.",
+            "en": "Cycle to the bright red lighthouse for sweeping views of the Sea of Marmara; the fresh coastal breeze here is especially refreshing in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+            "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+          },
+          "coords": [
+            27.970212,
+            40.356245
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Verwaltungsgebäudes, das am besten im sanften Licht des späten Vormittags für Fotos zur Geltung kommt.",
+            "hu": "Csodálja meg ennek a történelmi közigazgatási épületnek az elegáns építészetét, amely a délelőtti fényekben mutatja a legszebb arcát a fotózáshoz.",
+            "ro": "Admirați arhitectura acestei clădiri administrative istorice, care oferă un cadru excelent pentru fotografii deosebite în lumina blândă a dimineții.",
+            "en": "Admire the elegant architecture of this historic administrative building, which provides an excellent backdrop for photography in the soft morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Trinite Church",
+            "hu": "Saint Trinite Church",
+            "ro": "Saint Trinite Church",
+            "en": "Saint Trinite Church"
+          },
+          "coords": [
+            27.972094,
+            40.359062
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruinenartige Saint Trinite Kirche mit ihrer bewegten Geschichte, und achten Sie auf die verbliebenen architektonischen Details des Mauerwerks.",
+            "hu": "Fedezze fel a történelmi Saint Trinite templom romjait, és figyelje meg a falmaradványokon még látható lenyűgöző egykori építészeti részleteket.",
+            "ro": "Explorați ruinele bisericii istorice Saint Trinite și acordați atenție detaliilor arhitecturale care au supraviețuit pe zidurile de piatră antice.",
+            "en": "Explore the historic Saint Trinite Church ruins, and pay close attention to the fascinating architectural details still visible on the ancient stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandırma Bilim ve Sanat Merkezi",
+            "hu": "Bandırma Bilim ve Sanat Merkezi",
+            "ro": "Bandırma Bilim ve Sanat Merkezi",
+            "en": "Bandırma Bilim ve Sanat Merkezi"
+          },
+          "coords": [
+            27.973036,
+            40.350682
+          ],
+          "category": "cultural",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Zentrum für Wissenschaft und Kunst interaktive Exponate, die besonders für kreative Köpfe und junge Forscher sehr inspirierend sind.",
+            "hu": "Fedezze fel ebben a tudományos és művészeti központban az interaktív kiállításokat, amelyek nagyszerű élményt nyújtanak a kreatív elmék és kíváncsiak számára.",
+            "ro": "Descoperiți expozițiile interactive din acest centru de știință și artă, oferind o experiență deosebit de inspirată pentru mințile creative și curioase.",
+            "en": "Discover interactive exhibits in this center for science and art, offering an incredibly inspiring experience for both creative minds and curious explorers."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiyatro Kyzikos",
+            "hu": "Tiyatro Kyzikos",
+            "ro": "Tiyatro Kyzikos",
+            "en": "Tiyatro Kyzikos"
+          },
+          "coords": [
+            27.964234,
+            40.348292
+          ],
+          "category": "cultural",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen modernen kulturellen Treffpunkt für Theatervorstellungen; werfen Sie einen Blick auf die Plakatwände, um kommende lokale Events zu sehen.",
+            "hu": "Látogassa meg ezt a modern kulturális találkozóhelyet; vessen egy pillantást a hirdetőtáblákra, hogy értesüljön a közelgő izgalmas helyi színházi eseményekről.",
+            "ro": "Vizitați acest punct cultural modern dedicat teatrului; aruncați o privire la panourile de afișaj pentru a descoperi viitoarele evenimente locale atractive.",
+            "en": "Visit this modern cultural hub dedicated to theater performances; take a quick look at the billboards outside to spot exciting upcoming local events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen an der Küste ist belebend; starten Sie Ihre Tour am Roten Leuchtturm von Bandırma. Die frische Meeresbrise gibt Energie, während Sie zum historischen Verwaltungsgebäude radeln.\nMittags erkunden Sie die Ruinen der Saint Trinite Kirche. Die Fahrt durch diese historischen Straßen vermittelt ein tolles Gefühl für die Stadt und verbindet die Küste mit den alten Vierteln.\nAm Nachmittag radeln Sie zum Wissenschafts- und Kunstzentrum. Dieser kreative Knotenpunkt ist ein lebendiger Ort, an dem sich Wissenschaft und Kunst treffen – perfekt für eine Pause.\nIhre Tour endet am Tiyatro Kyzikos, wenn der Abend naht. Parken Sie Ihr Fahrrad und reflektieren Sie über die reiche Mischung aus maritimer Geschichte, Kultur und Kunst der Stadt.",
+        "hu": "A reggel a parton igazán frissítő; kezdje a túrát a piros világítótoronynál. A tengeri szellő energiával tölti fel, miközben a történelmi közigazgatási épület felé kerékpározik.\nDélben a történelmi Saint Trinite templom romjait fedezi fel. A történelmi utcákon való kerékpározás remekül összeköti a vízparti sétányt és a régi, hangulatos városrészeket.\nDélután tekerjen el a Bandırma Tudományos és Művészeti Központba. Ez a kreatív csomópont egy nyüzsgő hely, ahol a tudomány és a helyi művészet találkozik, ideális egy kis pihenőre.\nA túra a Tiyatro Kyzikosnál ér véget az este közeledtével. Parkolja le a kerékpárt, és gondoljon vissza a város gazdag tengerészeti, kulturális és művészeti örökségére.",
+        "ro": "Dimineața pe coastă este revigorantă; începeți cursa la Farul Roșu. Briza mării vă energizează în timp ce pedalați spre clădirea istorică a administrației orașului.\nLa amiază veți explora ruinele Bisericii Saint Trinite. Mersul pe bicicletă prin aceste străzi istorice oferă un sentiment fantastic de scară și conectează faleza de cartierele vechi.\nDupă-amiaza, pedalați către Centrul de Știință și Artă. Acest hub creativ este un loc plin de viață unde știința se intersectează cu arta, perfect pentru o pauză stimulativă.\nCursa se încheie la Tiyatro Kyzikos odată cu lăsarea serii. Parcați bicicleta și reflectați la amestecul bogat de istorie maritimă, cultură și artă sub lumina soarelui la apus.",
+        "en": "Morning along the coast is invigorating; kick off your ride at the Bandırma Red Lighthouse. The crisp sea breeze energizes you as you cycle towards the historic city administration building.\nMidday finds you exploring the ruins of the Saint Trinite Church. Cycling through these historic streets gives a fantastic sense of scale and connects the waterfront to the old neighborhoods.\nIn the afternoon, pedal over to the Bandırma Bilim ve Sanat Merkezi. This creative hub is a lively spot where science and local art intersect, perfect for a stimulating afternoon break.\nYour ride concludes at Tiyatro Kyzikos as evening approaches. Park your bike and reflect on the city's rich blend of maritime history, culture, and arts under the fading sunlight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paşabayırı Natural Protected Area",
+            "hu": "Paşabayırı Natural Protected Area",
+            "ro": "Paşabayırı Natural Protected Area",
+            "en": "Paşabayırı Natural Protected Area"
+          },
+          "coords": [
+            27.9491,
+            40.351518
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur in diesem Schutzgebiet; tragen Sie bequeme Schuhe für einen kurzen Morgenspaziergang abseits des städtischen Trubels.",
+            "hu": "Élvezze az érintetlen természetet ebben a védett övezetben; viseljen kényelmes cipőt egy rövid, frissítő reggeli sétához távol a városi zajtól és forgatagtól.",
+            "ro": "Bucurați-vă de natura virgină din această arie protejată; purtați pantofi confortabili pentru o scurtă plimbare matinală departe de agitația orașului.",
+            "en": "Enjoy the unspoiled nature within this protected area; be sure to wear comfortable walking shoes for a refreshing morning stroll away from the urban bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahçe Teşhir Alanı",
+            "hu": "Bahçe Teşhir Alanı",
+            "ro": "Bahçe Teşhir Alanı",
+            "en": "Bahçe Teşhir Alanı"
+          },
+          "coords": [
+            27.953578,
+            40.347595
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Freilichtmuseum; die ausgestellten antiken Artefakte bieten einen faszinierenden Einblick in die reiche Geschichte der Region.",
+            "hu": "Fedezze fel ezt a történelmi szabadtéri kiállítóteret; a kiállított ősi leletek lenyűgöző bepillantást engednek a régió gazdag történelmi múltjába.",
+            "ro": "Explorați această expoziție istorică în aer liber; artefactele antice expuse oferă o privire fascinantă asupra istoriei bogate a acestei regiuni.",
+            "en": "Explore this historic open-air exhibition space; the ancient artifacts on display offer a fascinating glimpse into the rich, layered history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandırma Green Lighthouse",
+            "hu": "Bandırma Green Lighthouse",
+            "ro": "Bandırma Green Lighthouse",
+            "en": "Bandırma Green Lighthouse"
+          },
+          "coords": [
+            27.957595,
+            40.356089
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie zum grünen Leuchtturm, um ein ruhiges Foto von den ein- und ausfahrenden Schiffen im Hafen von Bandırma zu machen.",
+            "hu": "Parkoljon le a közelben, és sétáljon el a zöld világítótoronyhoz, hogy nyugodt fotókat készíthessen a bandirmai kikötőben közlekedő hajókról a vízparton.",
+            "ro": "Parcați în apropiere și plimbați-vă până la farul verde pentru a face o fotografie liniștită a navelor care intră și ies din portul aglomerat Bandırma.",
+            "en": "Park nearby and stroll to the green lighthouse to snap a peaceful photograph of the ships gently gliding in and out of the bustling port of Bandırma."
+          }
+        },
+        {
+          "name": {
+            "de": "Haydar Çavuş Mosque",
+            "hu": "Haydar Çavuş Mosque",
+            "ro": "Haydar Çavuş Mosque",
+            "en": "Haydar Çavuş Mosque"
+          },
+          "coords": [
+            27.970271,
+            40.354135
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Diese zentrale Moschee besticht durch ihre klassisch osmanischen Linien; ziehen Sie am Eingang Ihre Schuhe aus und genießen Sie die friedliche Atmosphäre drinnen.",
+            "hu": "Ez a központi mecset klasszikus oszmán stílusával hódít; a bejáratnál vegye le a cipőjét, és élvezze a belső tér békés, csendes atmoszféráját a város szívében.",
+            "ro": "Această moschee centrală impresionează prin stilul ei otoman clasic; descălțați-vă la intrare și bucurați-vă de atmosfera pașnică din interiorul său răcoros.",
+            "en": "This central mosque impresses with its classic Ottoman design; remember to remove your shoes at the entrance and enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Trinite Church",
+            "hu": "Saint Trinite Church",
+            "ro": "Saint Trinite Church",
+            "en": "Saint Trinite Church"
+          },
+          "coords": [
+            27.972094,
+            40.359062
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruinenartige Saint Trinite Kirche mit ihrer bewegten Geschichte, und achten Sie auf die verbliebenen architektonischen Details des Mauerwerks.",
+            "hu": "Fedezze fel a történelmi Saint Trinite templom romjait, és figyelje meg a falmaradványokon még látható lenyűgöző egykori építészeti részleteket.",
+            "ro": "Explorați ruinele bisericii istorice Saint Trinite și acordați atenție detaliilor arhitecturale care au supraviețuit pe zidurile de piatră antice.",
+            "en": "Explore the historic Saint Trinite Church ruins, and pay close attention to the fascinating architectural details still visible on the ancient stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour abseits des dichten Zentrums im üppigen Naturschutzgebiet Paşabayırı. Genießen Sie einen ruhigen Morgenspaziergang in der Natur vor der Fahrt zu den Ausstellungen.\nGegen Mittag erreichen Sie das Freilichtmuseum Bahçe Teşhir Alanı. Nach einem Ausflug in die Antike bringt Sie eine kurze Fahrt zur Küste, um den charmanten grünen Leuchtturm zu sehen.\nAm Nachmittag fahren Sie in den belebten Kern, um die Haydar Çavuş Moschee zu besuchen. Das Auto bietet Komfort beim Wechsel vom windigen Ufer zur ruhigen religiösen Architektur.\nAm späten Nachmittag parken Sie nahe den Ruinen der Saint Trinite Kirche. Das schwindende Licht wirft wunderschöne Schatten auf die alten Steine und bietet ein dramatisches Ende.",
+        "hu": "Kezdje az autós túrát a sűrű központtól távolabb, a buja Paşabayırı Természetvédelmi Területen. Élvezze a csendes reggeli sétát a természetben, mielőtt a városi kiállítások felé hajtana.\nDélre eléri a Bahçe Teşhir Alanı szabadtéri kiállításait. Az ókorba tett kirándulás után egy nagyon rövid út a parthoz vezet, hogy megnézze a bájos zöld világítótornyot.\nDélután haladjon a nyüzsgő központ felé a Haydar Çavuş mecset megtekintéséhez. Az autó kényelmet nyújt, ahogy a szeles vízpartról a nyugodt vallási építészet felé halad.\nAhogy a késő délután estébe hajlik, parkoljon le a Saint Trinite templom romjai közelében. A halványuló fény gyönyörű árnyékokat vet az ősi kövekre, drámai lezárást nyújtva.",
+        "ro": "Începeți turul auto departe de centrul aglomerat, în luxurianta Arie Protejată Paşabayırı. Bucurați-vă de o plimbare liniștită în natură înainte de a conduce spre expozițiile istorice.\nLa amiază ajungeți la expozițiile în aer liber Bahçe Teşhir Alanı. După o scufundare în antichitate, un drum scurt vă duce pe coastă pentru a vedea fermecătorul Far Verde.\nDupă-amiaza, navigați spre centrul plin de viață pentru a vizita Moscheea Haydar Çavuş. Mașina oferă confort în timp ce vă deplasați de la faleza aerisită la arhitectura religioasă.\nSpre seară, parcați aproape de ruinele Bisericii Saint Trinite. Lumina care apune aruncă umbre frumoase pe pietrele antice, oferind un final dramatic pentru excursia dumneavoastră.",
+        "en": "Start your driving tour away from the dense center at the lush Paşabayırı Natural Protected Area. Enjoy a tranquil morning walk in nature before driving towards the city's historical exhibits.\nBy midday, you arrive at the Bahçe Teşhir Alanı open-air displays. Following a dive into antiquity, a very short drive takes you to the coast to view the charming Bandırma Green Lighthouse.\nIn the afternoon, navigate towards the bustling core to visit the Haydar Çavuş Mosque. The car provides comfort as you move from the breezy waterfront to the serene religious architecture.\nAs late afternoon turns to evening, park near the Saint Trinite Church ruins. The fading light casts beautiful shadows on the ancient stones, providing a dramatic end to your road trip."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "malta-paradise-bay-cities-v2",
+  "anchor": {
+    "name": "Paradise Bay",
+    "coords": [
+      14.332616,
+      35.985853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paradise Bay Resort Beach",
+            "hu": "Paradise Bay Resort Beach",
+            "ro": "Paradise Bay Resort Beach",
+            "en": "Paradise Bay Resort Beach"
+          },
+          "coords": [
+            14.330977,
+            35.986986
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Morgenwasser und den malerischen Blick auf Gozo von diesem schönen Strand aus, aber kommen Sie früh, um eine Sonnenliege zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli vizet és a Gozóra nyíló festői kilátást erről a kellemes strandról, de érkezzen korán, hogy biztosítson magának egy napágyat.",
+            "ro": "Bucurați-vă de apele calme ale dimineții și de priveliștile pitorești spre Gozo de pe această plajă, dar ajungeți devreme pentru a vă asigura un șezlong.",
+            "en": "Enjoy the calm morning waters and scenic views of Gozo from this lovely resort beach, but arrive early to secure a comfortable sunbed before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "MV Rozi",
+            "hu": "MV Rozi",
+            "ro": "MV Rozi",
+            "en": "MV Rozi"
+          },
+          "coords": [
+            14.326638,
+            35.989826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das berühmte Unterwasserwrack, das bei Tauchern beliebt ist, und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu erkunden.",
+            "hu": "Csodálja meg a búvárok körében népszerű híres víz alatti roncsot, és hozzon magával búvárfelszerelést, hogy felfedezze a part menti tengeri élőlényeket.",
+            "ro": "Admirați faimoasa epavă subacvatică populară printre scafandri și aduceți-vă echipamentul de snorkeling pentru a explora viața marină de lângă coastă.",
+            "en": "Admire the famous underwater wreck popular with divers, and bring your snorkeling gear to explore the marine life near the rocky coastal vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Paradise Bay",
+            "hu": "Paradise Bay",
+            "ro": "Paradise Bay",
+            "en": "Paradise Bay"
+          },
+          "coords": [
+            14.332518,
+            35.981958
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen weißen Sand dieser ikonischen, geschlossenen Bucht und steigen Sie die nahegelegenen Stufen hinauf für ein tolles Foto.",
+            "hu": "Pihenjen ennek az ikonikus zárt öbölnek a puha fehér homokján, és fontolja meg, hogy felmegy a közeli lépcsőkön egy hihetetlen panorámakép készítéséhez.",
+            "ro": "Relaxați-vă pe nisipul alb și moale al acestui golf iconic închis și luați în considerare urcarea treptelor din apropiere pentru o fotografie panoramică.",
+            "en": "Relax on the soft white sands of this iconic enclosed bay, and consider walking up the nearby steps for an incredible panoramic photograph of the cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterija ta' Wied Musa",
+            "hu": "Batterija ta' Wied Musa",
+            "ro": "Batterija ta' Wied Musa",
+            "en": "Batterija ta' Wied Musa"
+          },
+          "coords": [
+            14.342123,
+            35.986753
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Küstenbatterie, die von den Johannitern erbaut wurde, und gehen Sie vorsichtig entlang der unebenen Verteidigungsmauern.",
+            "hu": "Fedezze fel ezt a Szent János-lovagok által épített, impozáns történelmi tengerparti üteget, óvatosan lépkedve az egyenetlen védőfalakon a tengeri szellőben.",
+            "ro": "Explorați această baterie istorică de coastă construită de Cavalerii Sfântului Ioan, pășind cu grijă de-a lungul zidurilor defensive pentru briza mării.",
+            "en": "Explore this imposing historic coastal battery built by the Knights of St. John, treading carefully along the uneven defensive walls to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal-Bir Redoubt",
+            "hu": "Tal-Bir Redoubt",
+            "ro": "Tal-Bir Redoubt",
+            "en": "Tal-Bir Redoubt"
+          },
+          "coords": [
+            14.346501,
+            35.98578
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Militärarchitektur dieser gut erhaltenen maltesischen Redoute und tragen Sie unbedingt feste Wanderschuhe für die Felswege.",
+            "hu": "Fedezze fel ennek a jól karbantartott máltai redoutnak a lenyűgöző katonai építészetét, és mindenképpen viseljen masszív túracipőt a sziklás parti utakon.",
+            "ro": "Descoperiți arhitectura militară fascinantă a acestui redut maltez bine conservat și asigurați-vă că purtați încălțăminte robustă pentru cărările stâncoase.",
+            "en": "Discover the fascinating military architecture of this well-preserved Maltese redoubt, and make sure to wear sturdy walking shoes for the rocky coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am weichen Sand des Paradise Bay Resort Strandes, gefolgt von einem Spaziergang zum Wrack der MV Rozi. Mittags erreichen Sie die unberührte Schönheit der Paradise Bay, wo kristallklares Wasser zu einer Pause einlädt. Am Nachmittag bietet die historische Batterija ta' Wied Musa faszinierende Einblicke in die Vergangenheit der Region. Der Abend endet an der gut erhaltenen Tal-Bir Redoute bei einem herrlichen Sonnenuntergang.",
+        "hu": "A reggel a Paradise Bay Resort Beach puha homokján kezdődik, majd egy festői tengerparti séta következik az MV Rozi roncshoz. Délben a Paradise Bay érintetlen természeti szépsége várja, ahol a kristálytiszta víz pihenésre csábít. Délután a történelmi Batterija ta' Wied Musa nyújt lenyűgöző bepillantást a régió védelmi múltjába. Az este a jól megőrzött Tal-Bir Redoubtnál zárul, miközben a nap lenyugszik Málta partjainál.",
+        "ro": "Dimineața începe pe nisipul moale de la Paradise Bay Resort Beach, urmată de o plimbare spre epava MV Rozi. La prânz, frumusețea naturală a Paradise Bay vă invită la o pauză relaxantă la soare. După-amiaza, bateria istorică Batterija ta' Wied Musa oferă o perspectivă fascinantă asupra trecutului defensiv al regiunii. Seara se încheie la redutul bine conservat Tal-Bir, odată cu apusul soarelui peste coasta malteză.",
+        "en": "Morning begins with a refreshing visit to the soft sands of Paradise Bay Resort Beach, followed by a scenic coastal stroll to view the submerged MV Rozi. Midday brings you to the pristine natural beauty of Paradise Bay proper, where crystal clear waters invite a relaxing break under the Mediterranean sun. In the afternoon, the historical Batterija ta' Wied Musa offers fascinating insights into the region's defensive past. The evening concludes at the well-preserved Tal-Bir Redoubt, as the sun sets over Malta's stunning northern coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paradise Bay Resort Beach",
+            "hu": "Paradise Bay Resort Beach",
+            "ro": "Paradise Bay Resort Beach",
+            "en": "Paradise Bay Resort Beach"
+          },
+          "coords": [
+            14.330977,
+            35.986986
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Morgenwasser und den malerischen Blick auf Gozo von diesem schönen Strand aus, aber kommen Sie früh, um eine Sonnenliege zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli vizet és a Gozóra nyíló festői kilátást erről a kellemes strandról, de érkezzen korán, hogy biztosítson magának egy napágyat.",
+            "ro": "Bucurați-vă de apele calme ale dimineții și de priveliștile pitorești spre Gozo de pe această plajă, dar ajungeți devreme pentru a vă asigura un șezlong.",
+            "en": "Enjoy the calm morning waters and scenic views of Gozo from this lovely resort beach, but arrive early to secure a comfortable sunbed before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "MV Rozi",
+            "hu": "MV Rozi",
+            "ro": "MV Rozi",
+            "en": "MV Rozi"
+          },
+          "coords": [
+            14.326638,
+            35.989826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das berühmte Unterwasserwrack, das bei Tauchern beliebt ist, und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu erkunden.",
+            "hu": "Csodálja meg a búvárok körében népszerű híres víz alatti roncsot, és hozzon magával búvárfelszerelést, hogy felfedezze a part menti tengeri élőlényeket.",
+            "ro": "Admirați faimoasa epavă subacvatică populară printre scafandri și aduceți-vă echipamentul de snorkeling pentru a explora viața marină de lângă coastă.",
+            "en": "Admire the famous underwater wreck popular with divers, and bring your snorkeling gear to explore the marine life near the rocky coastal vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Paradise Bay",
+            "hu": "Paradise Bay",
+            "ro": "Paradise Bay",
+            "en": "Paradise Bay"
+          },
+          "coords": [
+            14.332518,
+            35.981958
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen weißen Sand dieser ikonischen, geschlossenen Bucht und steigen Sie die nahegelegenen Stufen hinauf für ein tolles Foto.",
+            "hu": "Pihenjen ennek az ikonikus zárt öbölnek a puha fehér homokján, és fontolja meg, hogy felmegy a közeli lépcsőkön egy hihetetlen panorámakép készítéséhez.",
+            "ro": "Relaxați-vă pe nisipul alb și moale al acestui golf iconic închis și luați în considerare urcarea treptelor din apropiere pentru o fotografie panoramică.",
+            "en": "Relax on the soft white sands of this iconic enclosed bay, and consider walking up the nearby steps for an incredible panoramic photograph of the cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Il-Latnija",
+            "hu": "Il-Latnija",
+            "ro": "Il-Latnija",
+            "en": "Il-Latnija"
+          },
+          "coords": [
+            14.328602,
+            35.977455
+          ],
+          "category": "landmark",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante geologische Sinkloch-Phänomen inmitten rauer Natur und halten Sie einen sicheren Abstand zu den bröckelnden Kalksteinkanten.",
+            "hu": "Csodálja meg ezt a zord természet által körülvett, lenyűgöző geológiai víznyelő jelenséget, biztonságos távolságot tartva a törékeny, omladozó mészkő szélektől.",
+            "ro": "Minunați-vă de acest fenomen geologic uimitor înconjurat de natură aspră, păstrând o distanță sigură de marginile fragile și sfărâmicioase de calcar.",
+            "en": "Marvel at this striking geological sinkhole phenomenon surrounded by rugged nature, keeping a safe distance from the fragile, crumbling limestone edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Qassisu",
+            "hu": "Ta' Qassisu",
+            "ro": "Ta' Qassisu",
+            "en": "Ta' Qassisu"
+          },
+          "coords": [
+            14.32476,
+            35.978363
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem spektakulären Naturdenkmal auf die Klippen, ideal für eine kurze Pause, um die Wellen zu beobachten.",
+            "hu": "Élvezze az átfogó, drámai sziklaparti kilátást erről a látványos természeti nevezetességről, amely ideális egy rövid pihenőre a hullámok megfigyelésére.",
+            "ro": "Bucurați-vă de priveliștile dramatice de pe stânci de la acest reper natural spectaculos, ideal pentru o scurtă pauză pentru a privi valurile mării.",
+            "en": "Take in the sweeping, dramatic cliffside views from this spectacular natural landmark, ideal for a short break to watch the Mediterranean waves crashing below."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterija ta' Wied Musa",
+            "hu": "Batterija ta' Wied Musa",
+            "ro": "Batterija ta' Wied Musa",
+            "en": "Batterija ta' Wied Musa"
+          },
+          "coords": [
+            14.342123,
+            35.986753
+          ],
+          "category": "landmark",
+          "arrive_at": "15:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Küstenbatterie, die von den Johannitern erbaut wurde, und gehen Sie vorsichtig entlang der unebenen Verteidigungsmauern.",
+            "hu": "Fedezze fel ezt a Szent János-lovagok által épített, impozáns történelmi tengerparti üteget, óvatosan lépkedve az egyenetlen védőfalakon a tengeri szellőben.",
+            "ro": "Explorați această baterie istorică de coastă construită de Cavalerii Sfântului Ioan, pășind cu grijă de-a lungul zidurilor defensive pentru briza mării.",
+            "en": "Explore this imposing historic coastal battery built by the Knights of St. John, treading carefully along the uneven defensive walls to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal-Bir Redoubt",
+            "hu": "Tal-Bir Redoubt",
+            "ro": "Tal-Bir Redoubt",
+            "en": "Tal-Bir Redoubt"
+          },
+          "coords": [
+            14.346501,
+            35.98578
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Militärarchitektur dieser gut erhaltenen maltesischen Redoute und tragen Sie unbedingt feste Wanderschuhe für die Felswege.",
+            "hu": "Fedezze fel ennek a jól karbantartott máltai redoutnak a lenyűgöző katonai építészetét, és mindenképpen viseljen masszív túracipőt a sziklás parti utakon.",
+            "ro": "Descoperiți arhitectura militară fascinantă a acestui redut maltez bine conservat și asigurați-vă că purtați încălțăminte robustă pentru cărările stâncoase.",
+            "en": "Discover the fascinating military architecture of this well-preserved Maltese redoubt, and make sure to wear sturdy walking shoes for the rocky coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am lebhaften Paradise Bay Resort Beach, bevor Sie zum Aussichtspunkt der MV Rozi radeln. Mittags fahren Sie zur wunderschönen Paradise Bay und erkunden dann das geologische Sinkloch Il-Latnija. Die Nachmittagsfahrt führt Sie zum Ta' Qassisu für Panoramablicke und weiter zur historischen Batterija ta' Wied Musa. Der Abend bricht an der Tal-Bir Redoute herein, ein friedlicher Abschluss für einen aktiven Tag.",
+        "hu": "Kerékpáros kalandja a vibráló Paradise Bay Resort Beach-en indul, majd az MV Rozi tengerparti kilátópontjához teker. Délre a gyönyörű Paradise Bay felé veszi az irányt, majd felfedezi az Il-Latnija drámai geológiai víznyelőjét. A délutáni út a Ta' Qassisuhoz vezet a sziklaparti panorámáért, majd a történelmi Batterija ta' Wied Musa következik. Az este a Tal-Bir Redoubtnál köszönt be, békés történelmi hangulatot biztosítva.",
+        "ro": "Aventura dvs. cu bicicleta începe la Paradise Bay Resort Beach înainte de a pedala spre punctul de belvedere MV Rozi. La prânz, veți merge spre superba Paradise Bay, explorând apoi scufundarea geologică de la Il-Latnija. Plimbarea de după-amiază continuă spre Ta' Qassisu pentru priveliști panoramice și spre bateria istorică Batterija ta' Wied Musa. Seara se lasă la Tal-Bir Redoubt, oferind o atmosferă istorică liniștită.",
+        "en": "Your cycling adventure kicks off at the vibrant Paradise Bay Resort Beach before pedaling past the coastal vantage point of MV Rozi. By midday, you'll cycle towards the gorgeous main Paradise Bay, dipping into the water before exploring the dramatic geological sinkhole of Il-Latnija. The afternoon ride continues to Ta' Qassisu for panoramic cliffside vistas, then smoothly transitioning to historical exploration at Batterija ta' Wied Musa. Evening falls as you reach Tal-Bir Redoubt, offering a peaceful historic atmosphere to wrap up an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:26",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Paradise Bay Resort Beach",
+            "hu": "Paradise Bay Resort Beach",
+            "ro": "Paradise Bay Resort Beach",
+            "en": "Paradise Bay Resort Beach"
+          },
+          "coords": [
+            14.330977,
+            35.986986
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Morgenwasser und den malerischen Blick auf Gozo von diesem schönen Strand aus, aber kommen Sie früh, um eine Sonnenliege zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli vizet és a Gozóra nyíló festői kilátást erről a kellemes strandról, de érkezzen korán, hogy biztosímagának egy napágyat.",
+            "ro": "Bucurați-vă de apele calme ale dimineții și de priveliștile pitorești spre Gozo de pe această plajă, dar ajungeți devreme pentru a vă asigura un șezlong.",
+            "en": "Enjoy the calm morning waters and scenic views of Gozo from this lovely resort beach, but arrive early to secure a comfortable sunbed before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "MV Rozi",
+            "hu": "MV Rozi",
+            "ro": "MV Rozi",
+            "en": "MV Rozi"
+          },
+          "coords": [
+            14.326638,
+            35.989826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das berühmte Unterwasserwrack, das bei Tauchern beliebt ist, und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu erkunden.",
+            "hu": "Csodálja meg a búvárok körében népszerű híres víz alatti roncsot, és hozzon magával búvárfelszerelést, hogy felfedezze a part menti tengeri élőlényeket.",
+            "ro": "Admirați faimoasa epavă subacvatică populară printre scafandri și aduceți-vă echipamentul de snorkeling pentru a explora viața marină de lângă coastă.",
+            "en": "Admire the famous underwater wreck popular with divers, and bring your snorkeling gear to explore the marine life near the rocky coastal vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Paradise Bay",
+            "hu": "Paradise Bay",
+            "ro": "Paradise Bay",
+            "en": "Paradise Bay"
+          },
+          "coords": [
+            14.332518,
+            35.981958
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen weißen Sand dieser ikonischen, geschlossenen Bucht und steigen Sie die nahegelegenen Stufen hinauf für ein tolles Foto.",
+            "hu": "Pihenjen ennek az ikonikus zárt öbölnek a puha fehér homokján, és fontolja meg, hogy felmegy a közeli lépcsőkön egy hihetetlen panorámakép készítéséhez.",
+            "ro": "Relaxați-vă pe nisipul alb și moale al acestui golf iconic închis și luați în considerare urcarea treptelor din apropiere pentru o fotografie panoramică.",
+            "en": "Relax on the soft white sands of this iconic enclosed bay, and consider walking up the nearby steps for an incredible panoramic photograph of the cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Qassisu",
+            "hu": "Ta' Qassisu",
+            "ro": "Ta' Qassisu",
+            "en": "Ta' Qassisu"
+          },
+          "coords": [
+            14.32476,
+            35.978363
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem spektakulären Naturdenkmal auf die Klippen, ideal für eine kurze Pause, um die Wellen zu beobachten.",
+            "hu": "Élvezze az átfogó, drámai sziklaparti kilátást erről a látványos természeti nevezetességről, amely ideális egy rövid pihenőre a hullámok megfigyelésére.",
+            "ro": "Bucurați-vă de priveliștile dramatice de pe stânci de la acest reper natural spectaculos, ideal pentru o scurtă pauză pentru a privi valurile mării.",
+            "en": "Take in the sweeping, dramatic cliffside views from this spectacular natural landmark, ideal for a short break to watch the Mediterranean waves crashing below."
+          }
+        },
+        {
+          "name": {
+            "de": "Għadira Nature Reserve",
+            "hu": "Għadira Nature Reserve",
+            "ro": "Għadira Nature Reserve",
+            "en": "Għadira Nature Reserve"
+          },
+          "coords": [
+            14.347464,
+            35.970179
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie verschiedene Zugvogelarten, die in diesem ruhigen Feuchtgebiet rasten, und denken Sie an ein Fernglas für die beste Tierbeobachtung.",
+            "hu": "Figyelje meg a különféle vándormadárfajokat, amelyek ezen a nyugodt vizes élőhelyen pihennek, és ne felejtsen el távcsövet csomagolni a legjobb élményért.",
+            "ro": "Observați diverse specii de păsări migratoare care se odihnesc în acest habitat liniștit și amintiți-vă să împachetați binoclul pentru cea mai bună experiență.",
+            "en": "Spot diverse migratory bird species resting in this tranquil wetland habitat, and remember to pack binoculars for the best wildlife observation experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal-Bir Redoubt",
+            "hu": "Tal-Bir Redoubt",
+            "ro": "Tal-Bir Redoubt",
+            "en": "Tal-Bir Redoubt"
+          },
+          "coords": [
+            14.346501,
+            35.98578
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Militärarchitektur dieser gut erhaltenen maltesischen Redoute und tragen Sie unbedingt feste Wanderschuhe für die Felswege.",
+            "hu": "Fedezze fel ennek a jól karbantartott máltai redoutnak a lenyűgöző katonai építészetét, és mindenképpen viseljen masszív túracipőt a sziklás parti utakon.",
+            "ro": "Descoperiți arhitectura militară fascinantă a acestui redut maltez bine conservat și asigurați-vă că purtați încălțăminte robustă pentru cărările stâncoase.",
+            "en": "Discover the fascinating military architecture of this well-preserved Maltese redoubt, and make sure to wear sturdy walking shoes for the rocky coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterija ta' Wied Musa",
+            "hu": "Batterija ta' Wied Musa",
+            "ro": "Batterija ta' Wied Musa",
+            "en": "Batterija ta' Wied Musa"
+          },
+          "coords": [
+            14.342123,
+            35.986753
+          ],
+          "category": "landmark",
+          "arrive_at": "16:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Küstenbatterie, die von den Johannitern erbaut wurde, und gehen Sie vorsichtig entlang der unebenen Verteidigungsmauern.",
+            "hu": "Fedezze fel ezt a Szent János-lovagok által épített, impozáns történelmi tengerparti üteget, óvatosan lépkedve az egyenetlen védőfalakon a tengeri szellőben.",
+            "ro": "Explorați această baterie istorică de coastă construită de Cavalerii Sfântului Ioan, pășind cu grijă de-a lungul zidurilor defensive pentru briza mării.",
+            "en": "Explore this imposing historic coastal battery built by the Knights of St. John, treading carefully along the uneven defensive walls to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Little Armier Beach",
+            "hu": "Little Armier Beach",
+            "ro": "Little Armier Beach",
+            "en": "Little Armier Beach"
+          },
+          "coords": [
+            14.359343,
+            35.989538
+          ],
+          "category": "recreational",
+          "arrive_at": "17:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an diesem familienfreundlichen Sandstrand mit klarem Wasser ausklingen und mieten Sie ein Tretboot, um die sanften Wellen zu erkunden.",
+            "hu": "Vezesse le a napot ezen a családbarát homokos strandon, tiszta türkizkék vízzel, béreljen egy vizibiciklit a lágy hullámok felfedezéséhez naplemente előtt.",
+            "ro": "Încheiați-vă ziua pe această plajă cu nisip, prietenoasă pentru familii, cu ape limpezi turcoaz, închiriind o hidrobicicletă pentru a explora valurile blânde.",
+            "en": "Wind down your day at this family-friendly sandy beach with clear turquoise waters, renting a local paddleboat to explore the gentle waves before sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Halt am Paradise Bay Resort Strand, gefolgt von einem kurzen Sprung zur MV Rozi. Mittags entspannen Sie sich in der wunderschönen Paradise Bay und fahren dann zu den Klippen von Ta' Qassisu. Entdecken Sie am Nachmittag die Artenvielfalt im Għadira-Naturreservat und die Militärgeschichte an der Tal-Bir Redoute. Die Reise endet abends mit der Batterija ta' Wied Musa und dem Sonnenuntergang am Little Armier Beach.",
+        "hu": "Kezdje autós túráját egy frissítő reggeli megállóval a Paradise Bay Resort Beach-en, majd tegyen egy gyors kitérőt az MV Rozi felé. A dél a lenyűgöző Paradise Bay-ben telik, majd egy festői autózás következik a Ta' Qassisu magasodó szikláihoz. Délután fedezze fel a Għadira Természetvédelmi Terület gazdag biodiverzitását és a Tal-Bir Redoubt katonai múltját. Az utazás este a Batterija ta' Wied Musa-val és a Little Armier Beach-i naplementével zárul.",
+        "ro": "Începeți turul cu mașina cu o oprire matinală la Paradise Bay Resort Beach, urmată de o scurtă vizită la MV Rozi. La prânz vă veți relaxa în uimitoarea Paradise Bay, urmată de o plimbare pitorească spre stâncile din Ta' Qassisu. După-amiaza, descoperiți biodiversitatea de la Għadira Nature Reserve și explorați istoria militară la Tal-Bir Redoubt. Călătoria se încheie seara la Batterija ta' Wied Musa și la apusul de la Little Armier Beach.",
+        "en": "Start your driving tour with a refreshing morning stop at Paradise Bay Resort Beach, followed by a quick hop to view the historic MV Rozi dive site. Midday features relaxation at the stunning main Paradise Bay, followed by a scenic drive to the towering cliffs of Ta' Qassisu. During the afternoon, discover the rich biodiversity at Għadira Nature Reserve and delve into military history at the impressive Tal-Bir Redoubt. The journey concludes beautifully in the evening with visits to Batterija ta' Wied Musa and sunset at Little Armier Beach."
+      }
+    }
+  }
+}

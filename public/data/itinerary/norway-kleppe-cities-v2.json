@@ -1,0 +1,497 @@
+{
+  "city_id": "norway-kleppe-cities-v2",
+  "anchor": {
+    "name": "Kleppe",
+    "coords": [
+      5.62,
+      58.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturschutzgebiet Grudevatn",
+            "hu": "Grudevatn Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Grudevatn",
+            "en": "Grudevatn Nature Reserve"
+          },
+          "coords": [
+            5.624554,
+            58.80165
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die reiche Vogelwelt von den ausgewiesenen Beobachtungspunkten, aber denken Sie daran, für die beste Sicht ein eigenes Fernglas mitzubringen.",
+            "hu": "Élvezze a gazdag madárvilágot a kijelölt megfigyelőpontokról, de ne felejtsen el saját távcsövet hozni a legjobb kilátás érdekében.",
+            "ro": "Bucurați-vă de fauna aviară bogată de la punctele de observație desemnate, dar nu uitați să vă aduceți propriul binoclu pentru cea mai bună vedere.",
+            "en": "Enjoy the rich birdlife from the designated observation points, but remember to bring your own binoculars for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Grudevatn Tierschutzgebiet",
+            "hu": "Grudevatn Állatvédelmi Terület",
+            "ro": "Sanctuarul de Animale Grudevatn",
+            "en": "Grudevatn Animal Sanctuary"
+          },
+          "coords": [
+            5.624072,
+            58.800386
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieses Schutzgebiet ist für Zugvögel von entscheidender Bedeutung, bleiben Sie also bitte auf den markierten Wegen, um die Tierwelt nicht zu stören.",
+            "hu": "Ez a védett terület létfontosságú a vándormadarak számára, ezért kérjük, maradjon a kijelölt ösvényeken, hogy ne zavarja a vadvilágot.",
+            "ro": "Această zonă protejată este crucială pentru păsările migratoare, așa că vă rugăm să rămâneți pe traseele marcate pentru a nu deranja fauna.",
+            "en": "This protected area is crucial for migrating birds, so please stay on the marked trails to avoid disturbing the wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristinahuset",
+            "hu": "Kristinahuset",
+            "ro": "Kristinahuset",
+            "en": "Kristinahuset"
+          },
+          "coords": [
+            5.643323,
+            58.786042
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Haus, um authentische lokale Architektur zu sehen, und fragen Sie unbedingt den Führer nach den Ursprüngen des Gebäudes.",
+            "hu": "Lépjen be ebbe a történelmi házba, hogy megtekintse az autentikus helyi építészetet, és feltétlenül kérdezze meg az idegenvezetőt az épület eredetéről.",
+            "ro": "Pășiți în această casă istorică pentru a vedea arhitectura locală autentică și asigurați-vă că întrebați ghidul despre originile clădirii.",
+            "en": "Step into this historical house to see authentic local architecture, and make sure to ask the guide about the building's origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Klepp",
+            "hu": "Klepp Néprajzi Múzeum",
+            "ro": "Muzeul Satului Klepp",
+            "en": "Klepp Folk Museum"
+          },
+          "coords": [
+            5.622743,
+            58.770512
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die landwirtschaftlichen Wurzeln der Region durch faszinierende Ausstellungen und verpassen Sie nicht den Abschnitt mit den traditionellen landwirtschaftlichen Geräten.",
+            "hu": "Fedezze fel a régió mezőgazdasági gyökereit lenyűgöző kiállításokon keresztül, és ne hagyja ki a hagyományos mezőgazdasági eszközöket bemutató részt.",
+            "ro": "Explorați rădăcinile agricole ale regiunii prin expoziții fascinante și nu ratați secțiunea instrumentelor agricole tradiționale.",
+            "en": "Explore the agricultural roots of the region through fascinating exhibits, and don't miss the traditional farming tools section."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Klepp",
+            "hu": "Klepp templom",
+            "ro": "Biserica Klepp",
+            "en": "Klepp Church"
+          },
+          "coords": [
+            5.624412,
+            58.773341
+          ],
+          "category": "religious",
+          "arrive_at": "16:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie das wunderschöne hölzerne Innere dieser traditionellen Kirche, aber prüfen Sie vorher den örtlichen Zeitplan, da sie für Gottesdienste geschlossen sein könnte.",
+            "hu": "Csodálja meg e hagyományos templom gyönyörű fa belső terét, de előzetesen ellenőrizze a helyi menetrendet, mivel istentiszteletek miatt zárva lehet.",
+            "ro": "Admirați interiorul frumos din lemn al acestei biserici tradiționale, dar verificați programul local în prealabil, deoarece ar putea fi închisă pentru slujbe.",
+            "en": "Admire the beautiful wooden interior of this traditional church, but check the local schedule beforehand as it may be closed for services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleppevarden",
+            "hu": "Kleppevarden",
+            "ro": "Kleppevarden",
+            "en": "Kleppevarden"
+          },
+          "coords": [
+            5.62133,
+            58.775871
+          ],
+          "category": "natural",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser historischen Leuchtfeuerstelle hinauf, um einen Panoramablick über Jæren zu genießen, und bringen Sie eine Windjacke mit, da es oben sehr windig wird.",
+            "hu": "Túrázzon fel ehhez a történelmi jelzőtűz-helyszínhez a Jæren feletti panorámáért, és hozzon magával széldzsekit, mert a csúcson nagyon szeles az idő.",
+            "ro": "Urcați până la acest sit istoric de semnalizare pentru vederi panoramice asupra Jæren și aduceți o jachetă de vânt, deoarece sus devine foarte vântos.",
+            "en": "Hike up to this historic beacon site for panoramic views over Jæren, and bring a windbreaker as it gets very breezy at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Beginnen Sie Ihren Tag mit einem erfrischenden Spaziergang durch das Grudevatn naturreservat und genießen Sie die ruhigen Feuchtgebiete und die reiche Vogelwelt.\nMid: Fahren Sie in Richtung Süden, um das Erbe von Kleppe zu entdecken, und besuchen Sie das historische Kristinahuset sowie das Klepp bygdemuseum.\nA: Setzen Sie Ihren Spaziergang zur zentralen Klepp kyrkje fort, einem wunderschönen religiösen Wahrzeichen der Gemeindegeschichte.\nE: Beenden Sie Ihren Abend mit einer kurzen Wanderung zum Kleppevarden und genießen Sie die frische Luft und den Sonnenuntergang.",
+        "hu": "M: Kezdje a napot egy frissítő sétával a Grudevatn naturreservat körül, gyönyörködve a békés vizes élőhelyekben és a gazdag madárvilágban.\nMid: Induljon dél felé Kleppe örökségének felfedezésére, meglátogatva a történelmi Kristinahuset-et és az átfogó Klepp bygdemuseumot.\nA: Folytassa sétáját a központi Klepp kyrkje-hez, egy gyönyörű vallási nevezetességhez, amely a helyi közösség történelmét őrzi.\nE: Fejezze be az estét egy rövid túrával a Kleppevardenre, élvezve a friss levegőt és a régió feletti panorámás naplementét.",
+        "ro": "M: Începeți ziua cu o plimbare revigorantă prin Grudevatn naturreservat, admirând zonele umede liniștite și fauna aviară bogată.\nMid: Îndreptați-vă spre sud pentru a descoperi patrimoniul din Kleppe, vizitând istorica Kristinahuset și muzeul agricol Klepp.\nA: Continuați plimbarea către biserica centrală Klepp kyrkje, un reper religios frumos care ancorează istoria comunității locale.\nE: Încheiați seara cu o scurtă drumeție până la Kleppevarden, bucurându-vă de aerul proaspăt și de priveliștile panoramice ale apusului.",
+        "en": "M: Start your day with a refreshing walk around Grudevatn naturreservat, taking in the serene wetlands and rich local birdlife.\nMid: Head slightly south to discover Kleppe's heritage, visiting the historical Kristinahuset and the comprehensive Klepp bygdemuseum.\nA: Continue your stroll to the central Klepp kyrkje, a beautiful religious landmark that anchors the local community's history.\nE: Finish your evening with a short hike up to Kleppevarden, enjoying the fresh air and panoramic sunset views over the region."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Bore",
+            "hu": "Bore templom",
+            "ro": "Biserica Bore",
+            "en": "Bore Church"
+          },
+          "coords": [
+            5.598874,
+            58.794943
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese malerische Kirche bietet eine friedliche Atmosphäre zur Besinnung, nehmen Sie sich also einen Moment Zeit, um über ihren gepflegten historischen Friedhof zu spazieren.",
+            "hu": "Ez a festői templom békés légkört kínál az elmélkedéshez, ezért szánjon egy percet arra, hogy sétáljon egyet a jól gondozott történelmi temetőjében.",
+            "ro": "Această biserică pitorească oferă o atmosferă pașnică pentru reflecție, așa că acordați-vă un moment pentru a vă plimba prin cimitirul ei istoric bine întreținut.",
+            "en": "This quaint church offers a peaceful atmosphere for reflection, so take a moment to walk around its well-kept historical cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Friedhof von Bore",
+            "hu": "Bore Régi Temető",
+            "ro": "Vechiul Cimitir Bore",
+            "en": "Bore Old Cemetery"
+          },
+          "coords": [
+            5.579464,
+            58.790075
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grabsteine, die die Geschichte früher Siedler erzählen, und tragen Sie festes Schuhwerk, da der Boden recht uneben sein kann.",
+            "hu": "Fedezze fel az ősi sírköveket, amelyek a korai telepesek történetét mesélik el, és viseljen masszív cipőt, mivel a talaj meglehetősen egyenetlen lehet.",
+            "ro": "Explorați pietrele funerare antice care spun povestea primilor coloniști și purtați încălțăminte rezistentă, deoarece terenul poate fi destul de denivelat.",
+            "en": "Explore the ancient tombstones that tell the story of early settlers, and wear sturdy shoes as the ground can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Grudevatn",
+            "hu": "Grudevatn Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Grudevatn",
+            "en": "Grudevatn Nature Reserve"
+          },
+          "coords": [
+            5.624554,
+            58.80165
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die reiche Vogelwelt von den ausgewiesenen Beobachtungspunkten, aber denken Sie daran, für die beste Sicht ein eigenes Fernglas mitzubringen.",
+            "hu": "Élvezze a gazdag madárvilágot a kijelölt megfigyelőpontokról, de ne felejtsen el saját távcsövet hozni a legjobb kilátás érdekében.",
+            "ro": "Bucurați-vă de fauna aviară bogată de la punctele de observație desemnate, dar nu uitați să vă aduceți propriul binoclu pentru cea mai bună vedere.",
+            "en": "Enjoy the rich birdlife from the designated observation points, but remember to bring your own binoculars for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristinahuset",
+            "hu": "Kristinahuset",
+            "ro": "Kristinahuset",
+            "en": "Kristinahuset"
+          },
+          "coords": [
+            5.643323,
+            58.786042
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Haus, um authentische lokale Architektur zu sehen, und fragen Sie unbedingt den Führer nach den Ursprüngen des Gebäudes.",
+            "hu": "Lépjen be ebbe a történelmi házba, hogy megtekintse az autentikus helyi építészetet, és feltétlenül kérdezze meg az idegenvezetőt az épület eredetéről.",
+            "ro": "Pășiți în această casă istorică pentru a vedea arhitectura locală autentică și asigurați-vă că întrebați ghidul despre originile clădirii.",
+            "en": "Step into this historical house to see authentic local architecture, and make sure to ask the guide about the building's origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Klepp",
+            "hu": "Klepp Néprajzi Múzeum",
+            "ro": "Muzeul Satului Klepp",
+            "en": "Klepp Folk Museum"
+          },
+          "coords": [
+            5.622743,
+            58.770512
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die landwirtschaftlichen Wurzeln der Region durch faszinierende Ausstellungen und verpassen Sie nicht den Abschnitt mit den traditionellen landwirtschaftlichen Geräten.",
+            "hu": "Fedezze fel a régió mezőgazdasági gyökereit lenyűgöző kiállításokon keresztül, és ne hagyja ki a hagyományos mezőgazdasági eszközöket bemutató részt.",
+            "ro": "Explorați rădăcinile agricole ale regiunii prin expoziții fascinante și nu ratați secțiunea instrumentelor agricole tradiționale.",
+            "en": "Explore the agricultural roots of the region through fascinating exhibits, and don't miss the traditional farming tools section."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Klepp",
+            "hu": "Klepp templom",
+            "ro": "Biserica Klepp",
+            "en": "Klepp Church"
+          },
+          "coords": [
+            5.624412,
+            58.773341
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie das wunderschöne hölzerne Innere dieser traditionellen Kirche, aber prüfen Sie vorher den örtlichen Zeitplan, da sie für Gottesdienste geschlossen sein könnte.",
+            "hu": "Csodálja meg e hagyományos templom gyönyörű fa belső terét, de előzetesen ellenőrizze a helyi menetrendet, mivel istentiszteletek miatt zárva lehet.",
+            "ro": "Admirați interiorul frumos din lemn al acestei biserici tradiționale, dar verificați programul local în prealabil, deoarece ar putea fi închisă pentru slujbe.",
+            "en": "Admire the beautiful wooden interior of this traditional church, but check the local schedule beforehand as it may be closed for services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleppevarden",
+            "hu": "Kleppevarden",
+            "ro": "Kleppevarden",
+            "en": "Kleppevarden"
+          },
+          "coords": [
+            5.62133,
+            58.775871
+          ],
+          "category": "natural",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser historischen Leuchtfeuerstelle hinauf, um einen Panoramablick über Jæren zu genießen, und bringen Sie eine Windjacke mit, da es oben sehr windig wird.",
+            "hu": "Túrázzon fel ehhez a történelmi jelzőtűz-helyszínhez a Jæren feletti panorámáért, és hozzon magával széldzsekit, mert a csúcson nagyon szeles az idő.",
+            "ro": "Urcați până la acest sit istoric de semnalizare pentru vederi panoramice asupra Jæren și aduceți o jachetă de vânt, deoarece sus devine foarte vântos.",
+            "en": "Hike up to this historic beacon site for panoramic views over Jæren, and bring a windbreaker as it gets very breezy at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Radeln Sie zur historischen Bore kyrkje und ihrem alten Friedhof und genießen Sie die ruhige Morgenbrise der norwegischen Landschaft.\nMid: Fahren Sie nach Norden zum Grudevatn naturreservat für eine Naturpause, bevor Sie die Architektur des Kristinahuset erkunden.\nA: Fahren Sie zurück ins Zentrum von Kleppe, um im Museum mehr über landwirtschaftliche Traditionen zu erfahren und die Kirche zu besuchen.\nE: Krönen Sie Ihr Fahrradabenteuer mit einem sanften Aufstieg zum Kleppevarden und genießen Sie die weite Aussicht auf die Landschaft.",
+        "hu": "M: Tekerjen a történelmi Bore kyrkje és ősi temetője felé, élvezve a norvég vidék csendes reggeli szellőjét.\nMid: Kerékpározzon északra a Grudevatn naturreservathoz egy természetközeli pihenőre, mielőtt felfedezné a Kristinahuset építészetét.\nA: Térjen vissza Kleppe központjába, hogy megismerje a mezőgazdasági hagyományokat a múzeumban, és meglátogassa a helyi templomot.\nE: Fejezze be kerékpáros kalandját egy enyhe emelkedővel a Kleppevardenhez, ahonnan lenyűgöző kilátás nyílik a környező tájra.",
+        "ro": "M: Pedalați spre istorica Bore kyrkje și cimitirul său antic, bucurându-vă de briza calmă a dimineții din mediul rural norvegian.\nMid: Mergeți cu bicicleta spre nord până la Grudevatn naturreservat pentru o pauză în natură înainte de a explora Kristinahuset.\nA: Întoarceți-vă în centrul orașului Kleppe pentru a afla despre tradițiile agricole la muzeu și vizitați biserica locală.\nE: Încheiați aventura cu bicicleta cu o urcare blândă spre Kleppevarden, admirând priveliștile vaste ale peisajelor înconjurătoare.",
+        "en": "M: Pedal your way to the historic Bore kyrkje and its ancient cemetery, enjoying the calm morning breeze of the Norwegian countryside.\nMid: Cycle north to the Grudevatn naturreservat for a peaceful nature break before exploring the charming architecture of Kristinahuset.\nA: Ride back into the center of Kleppe to learn about agricultural traditions at the museum and visit the striking local church.\nE: Cap off your cycling adventure with a gentle ascent to Kleppevarden, taking in the sweeping views of the surrounding landscapes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stokkelandsvatnet See",
+            "hu": "Stokkelandsvatnet tó",
+            "ro": "Lacul Stokkelandsvatnet",
+            "en": "Stokkelandsvatnet Lake"
+          },
+          "coords": [
+            5.72873,
+            58.821962
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des malerischen und bei Einheimischen beliebten Uferwegs und halten Sie Ausschau nach den freundlichen Enten, die sich in der Nähe des Parkplatzes versammeln.",
+            "hu": "Sétáljon végig a helyiek körében népszerű, festői tóparti ösvényen, és figyelje a parkoló közelében gyülekező barátságos kacsákat.",
+            "ro": "Plimbați-vă de-a lungul traseului pitoresc de pe malul lacului, popular printre localnici, și fiți atenți la rațele prietenoase care se adună lângă parcare.",
+            "en": "Walk along the scenic lakeside trail which is popular with locals, and keep an eye out for the friendly ducks gathering near the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Bore",
+            "hu": "Bore templom",
+            "ro": "Biserica Bore",
+            "en": "Bore Church"
+          },
+          "coords": [
+            5.598874,
+            58.794943
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.1,
+          "tip_5lang": {
+            "de": "Diese malerische Kirche bietet eine friedliche Atmosphäre zur Besinnung, nehmen Sie sich also einen Moment Zeit, um über ihren gepflegten historischen Friedhof zu spazieren.",
+            "hu": "Ez a festői templom békés légkört kínál az elmélkedéshez, ezért szánjon egy percet arra, hogy sétáljon egyet a jól gondozott történelmi temetőjében.",
+            "ro": "Această biserică pitorească oferă o atmosferă pașnică pentru reflecție, așa că acordați-vă un moment pentru a vă plimba prin cimitirul ei istoric bine întreținut.",
+            "en": "This quaint church offers a peaceful atmosphere for reflection, so take a moment to walk around its well-kept historical cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Friedhof von Bore",
+            "hu": "Bore Régi Temető",
+            "ro": "Vechiul Cimitir Bore",
+            "en": "Bore Old Cemetery"
+          },
+          "coords": [
+            5.579464,
+            58.790075
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grabsteine, die die Geschichte früher Siedler erzählen, und tragen Sie festes Schuhwerk, da der Boden recht uneben sein kann.",
+            "hu": "Fedezze fel az ősi sírköveket, amelyek a korai telepesek történetét mesélik el, és viseljen masszív cipőt, mivel a talaj meglehetősen egyenetlen lehet.",
+            "ro": "Explorați pietrele funerare antice care spun povestea primilor coloniști și purtați încălțăminte rezistentă, deoarece terenul poate fi destul de denivelat.",
+            "en": "Explore the ancient tombstones that tell the story of early settlers, and wear sturdy shoes as the ground can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksmuseum Klepp",
+            "hu": "Klepp Néprajzi Múzeum",
+            "ro": "Muzeul Satului Klepp",
+            "en": "Klepp Folk Museum"
+          },
+          "coords": [
+            5.622743,
+            58.770512
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die landwirtschaftlichen Wurzeln der Region durch faszinierende Ausstellungen und verpassen Sie nicht den Abschnitt mit den traditionellen landwirtschaftlichen Geräten.",
+            "hu": "Fedezze fel a régió mezőgazdasági gyökereit lenyűgöző kiállításokon keresztül, és ne hagyja ki a hagyományos mezőgazdasági eszközöket bemutató részt.",
+            "ro": "Explorați rădăcinile agricole ale regiunii prin expoziții fascinante și nu ratați secțiunea instrumentelor agricole tradiționale.",
+            "en": "Explore the agricultural roots of the region through fascinating exhibits, and don't miss the traditional farming tools section."
+          }
+        },
+        {
+          "name": {
+            "de": "Orrevatnet See",
+            "hu": "Orrevatnet tó",
+            "ro": "Lacul Orrevatnet",
+            "en": "Orrevatnet Lake"
+          },
+          "coords": [
+            5.551306,
+            58.757058
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Dieser große See ist ein perfekter Ort zum Fotografieren und zur Vogelbeobachtung, versuchen Sie also anzukommen, wenn das Nachmittagslicht atemberaubende Reflexionen erzeugt.",
+            "hu": "Ez a nagy tó tökéletes hely fotózásra és madármegfigyelésre, ezért próbáljon meg akkor érkezni, amikor a délutáni fény lenyűgöző tükröződéseket hoz létre.",
+            "ro": "Acest lac mare este un loc perfect pentru fotografie și observarea păsărilor, așa că încercați să ajungeți când lumina după-amiezii creează reflexii uimitoare.",
+            "en": "This large lake is a perfect spot for photography and birdwatching, so try arriving when the afternoon light creates stunning reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Horpestadvatnet See",
+            "hu": "Horpestadvatnet tó",
+            "ro": "Lacul Horpestadvatnet",
+            "en": "Horpestadvatnet Lake"
+          },
+          "coords": [
+            5.572327,
+            58.7382
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses weniger bekannten Sees und packen Sie ein paar Snacks für ein ruhiges Picknick an seinen grasbewachsenen Ufern vor der Dämmerung ein.",
+            "hu": "Élvezze e kevésbé ismert tó nyugodt légkörét, és csomagoljon be néhány rágcsálnivalót egy csendes piknikhez a füves partokon még sötétedés előtt.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui lac mai puțin cunoscut și împachetați câteva gustări pentru un picnic liniștit pe malurile sale ierboase înainte de amurg.",
+            "en": "Enjoy the tranquil atmosphere of this lesser-known lake, and pack some snacks for a quiet picnic on its grassy banks before dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Beginnen Sie Ihre Autotour am weitläufigen Stokkelandsvatnet, einem idealen Ort für einen morgendlichen Spaziergang am Wasser.\nMid: Fahren Sie nach Westen in Richtung Küste, um die Bore-Stätten zu besuchen, bevor Sie im Klepp bygdemuseum in die Geschichte eintauchen.\nA: Nehmen Sie eine malerische Route nach Süden zum Orrevatnet, einem großen See, der für seine hervorragende Vogelbeobachtung bekannt ist.\nE: Beenden Sie Ihre Reise am ruhigen Horpestadvatnet und genießen Sie die stille Reflexion des Abendlichts auf dem Wasser.",
+        "hu": "M: Kezdje autós túráját a kiterjedt Stokkelandsvatnetnél, amely ideális hely egy békés reggeli sétához a vízparton.\nMid: Vezessen nyugat felé a part felé, hogy meglátogassa a történelmi Bore helyszíneket, mielőtt elmerülne a mezőgazdasági történelemben.\nA: Tegyen egy festői utat délre az Orrevatnethez, egy nagy és festői tóhoz, amely kiváló madármegfigyeléséről és nyugalmáról ismert.\nE: Fejezze be utazását a csendes Horpestadvatnetnél, élvezve az esti fény tükröződését a vízen, mielőtt hazaindulna.",
+        "ro": "M: Începeți turul cu mașina la întinsul Stokkelandsvatnet, un loc ideal pentru o plimbare matinală liniștită pe malul apei.\nMid: Conduceți spre vest către coastă pentru a vizita siturile istorice Bore înainte de a aprofunda istoria agricolă la muzeu.\nA: Urmați un traseu pitoresc spre sud până la Orrevatnet, un lac mare și pitoresc cunoscut pentru observarea excelentă a păsărilor.\nE: Încheiați-vă călătoria la liniștitul Horpestadvatnet, bucurându-vă de reflexia tăcută a luminii de seară pe apă.",
+        "en": "M: Start your driving tour at the expansive Stokkelandsvatnet, an ideal spot for a peaceful morning stroll along the water's edge.\nMid: Cruise west towards the coast to visit the historic Bore sites before delving into local farming history at the Klepp bygdemuseum.\nA: Take a scenic route south to Orrevatnet, a large and picturesque lake known for its excellent birdwatching and calming environment.\nE: End your journey at the tranquil Horpestadvatnet, enjoying the quiet reflection of the evening light on the water before heading home."
+      }
+    }
+  }
+}

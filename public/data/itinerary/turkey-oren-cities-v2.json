@@ -1,0 +1,451 @@
+{
+  "city_id": "turkey-oren-cities-v2",
+  "anchor": {
+    "name": "Ören",
+    "coords": [
+      26.93602,
+      39.50011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 1.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Adramytteion",
+            "hu": "Adramytteion",
+            "ro": "Adramytteion",
+            "en": "Adramytteion"
+          },
+          "coords": [
+            26.936093,
+            39.498655
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Überreste der antiken Stadt Adramytteion, um in die tiefe Geschichte der Region einzutauchen, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Adramytteion régészeti romjait, hogy elmélyedjen a régió gazdag történelmében, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele arheologice ale anticului Adramytteion pentru a aprofunda istoria bogată a regiunii și purtați încălțăminte confortabilă pentru terenul neregulat.",
+            "en": "Explore the archaeological ruins of ancient Adramytteion to delve into the rich history of the region, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Paprika Beach",
+            "hu": "Paprika Beach",
+            "ro": "Paprika Beach",
+            "en": "Paprika Beach"
+          },
+          "coords": [
+            26.9326,
+            39.495425
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Paprika Beach, der für seinen feinen Sand und das klare Wasser bekannt ist, und bringen Sie Sonnencreme für einen perfekten Nachmittag mit.",
+            "hu": "Pihenjen a festői Paprika Beach finom homokján és kristálytiszta vizében, és hozzon magával naptejet egy tökéletes délutáni kikapcsolódáshoz a parton.",
+            "ro": "Relaxați-vă pe nisipul fin de la Paprika Beach, o plajă pitorească cu ape cristaline, și aduceți loțiune de plajă pentru o după-amiază perfectă la soare.",
+            "en": "Relax on the pristine sands of the picturesque Paprika Beach, known for its crystal-clear waters, and bring sunscreen for a perfect afternoon getaway."
+          }
+        },
+        {
+          "name": {
+            "de": "Ören Halk Plajı",
+            "hu": "Ören Halk Plajı",
+            "ro": "Ören Halk Plajı",
+            "en": "Ören Halk Plajı"
+          },
+          "coords": [
+            26.93296,
+            39.500853
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter die Einheimischen am beliebten Ören Halk Plajı, der eine lebhafte Atmosphäre bietet, und mieten Sie frühzeitig einen Liegestuhl, um den besten Platz zu sichern.",
+            "hu": "Vegyüljön el a helyiekkel a népszerű Ören Halk Plajı nyüzsgő strandján, és béreljen korán napágyat, hogy biztosítsa a legjobb helyet a tengerparti pihenéshez.",
+            "ro": "Amestecați-vă printre localnici pe populara plajă publică Ören Halk Plajı, bucurându-vă de atmosfera vibrantă, și închiriați un șezlong devreme pentru cel mai bun loc.",
+            "en": "Mingle with the locals at the popular Ören Halk Plajı, offering a vibrant coastal atmosphere, and rent a sunbed early in the day to secure the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Adramytteion Ancient Harbor",
+            "hu": "Adramytteion Ancient Harbor",
+            "ro": "Adramytteion Ancient Harbor",
+            "en": "Adramytteion Ancient Harbor"
+          },
+          "coords": [
+            26.931134,
+            39.504661
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Überreste des antiken Hafens von Adramytteion, die von maritimer Vergangenheit zeugen, und kommen Sie bei Sonnenuntergang für spektakuläre Fotos.",
+            "hu": "Csodálja meg Adramytteion ősi kikötőjének történelmi maradványait, amelyek a tengeri múltról tanúskodnak, és érkezzen naplementekor a lenyűgöző fényképek elkészítéséhez.",
+            "ro": "Admirați vestigiile istorice ale anticului port Adramytteion, martori ai trecutului maritim glorios, și veniți la apus pentru a surprinde fotografii spectaculoase cu marea.",
+            "en": "Marvel at the historical remains of the ancient Adramytteion harbor, a testament to its maritime past, and arrive at sunset to capture truly spectacular coastal photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ören Açık Hava Tiyatrosu",
+            "hu": "Ören Açık Hava Tiyatrosu",
+            "ro": "Ören Açık Hava Tiyatrosu",
+            "en": "Ören Açık Hava Tiyatrosu"
+          },
+          "coords": [
+            26.93656,
+            39.503261
+          ],
+          "category": "cultural",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freilufttheater von Ören, das lokale Kulturveranstaltungen in einer charmanten Umgebung bietet, und überprüfen Sie den aktuellen Spielplan auf abendliche Aufführungen.",
+            "hu": "Látogasson el az Ören Szabadtéri Színházba, amely helyi kulturális eseményeknek ad otthont bájos környezetben, és ellenőrizze az esti előadások aktuális műsorrendjét.",
+            "ro": "Vizitați teatrul în aer liber din Ören, care găzduiește evenimente culturale locale într-un cadru fermecător, și verificați programul pentru eventuale spectacole de seară.",
+            "en": "Visit the Ören Open Air Theater, which hosts vibrant local cultural events in a charming outdoor setting, and check the current schedule for evening performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem faszinierenden Spaziergang durch die historischen Ruinen von Adramytteion. Gegen Mittag entspannen Sie sich am malerischen Paprika Beach mit seinem feinen Sand. Am Nachmittag lockt der lebhafte Ören Halk Plajı, bevor Sie den antiken Hafen erkunden. Der Abend endet kulturell im stimmungsvollen Freilufttheater von Ören.",
+        "hu": "Kezdje a napot egy lenyűgöző sétával Adramytteion ősi romjai között. Délben pihenjen a festői Paprika Beach finom homokján, majd élvezze a tengerparti napsütést. Délután a nyüzsgő Ören Halk Plajı strandja és az ősi kikötő történelmi emlékei várják. Az estét a hangulatos Ören Szabadtéri Színház kulturális programjaival zárhatja tökéletesen.",
+        "ro": "Începeți ziua cu o plimbare fascinantă prin ruinele istorice din Adramytteion. La prânz, relaxați-vă pe nisipul fin al plajei Paprika și bucurați-vă de soare. După-amiaza vă atrage vibranta plajă publică Ören Halk Plajı, urmată de o vizită la portul antic. Seara se încheie cultural la teatrul în aer liber din Ören, într-o atmosferă fermecătoare.",
+        "en": "Start your morning with a fascinating walk through the historical ruins of Adramytteion. By midday, relax on the pristine sands of the picturesque Paprika Beach. In the afternoon, enjoy the lively atmosphere of Ören Halk Plajı before exploring the ancient harbor's remains. Your evening concludes with local culture at the charming Ören Open Air Theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 5.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "hu": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "ro": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "en": "Bizimköy Hareketli Etnoğrafya Galerisi"
+          },
+          "coords": [
+            26.946993,
+            39.485555
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelles Handwerk in der beweglichen ethnografischen Galerie Bizimköy, die faszinierende Einblicke bietet, und nehmen Sie sich Zeit für die mechanischen Displays.",
+            "hu": "Fedezze fel a hagyományos mesterségeket a Bizimköy mozgó néprajzi galériában, és szánjon elegendő időt a lenyűgöző mechanikus bemutatók részletes megtekintésére.",
+            "ro": "Descoperiți meșteșugurile tradiționale la galeria etnografică animată Bizimköy, care oferă perspective fascinante, și alocați timp pentru a studia exponatele mecanice.",
+            "en": "Discover traditional crafts at the Bizimköy animated ethnographic gallery, offering fascinating cultural insights, and take your time to appreciate the mechanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Burhaniye Belediyesi Sanat Evi Resim Atölyesi",
+            "hu": "Burhaniye Belediyesi Sanat Evi Resim Atölyesi",
+            "ro": "Burhaniye Belediyesi Sanat Evi Resim Atölyesi",
+            "en": "Burhaniye Belediyesi Sanat Evi Resim Atölyesi"
+          },
+          "coords": [
+            26.933544,
+            39.485204
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale Kunstwerke im Kunsthaus der Gemeinde Burhaniye, das die kreative Seele der Region widerspiegelt, und sprechen Sie mit den anwesenden Künstlern über ihre Werke.",
+            "hu": "Csodálja meg a helyi művészeti alkotásokat a Burhaniye önkormányzati művészeti házban, és bátran beszélgessen a jelen lévő alkotókkal a kiállított festményekről.",
+            "ro": "Admirați operele de artă locale la Casa de Artă a municipalității Burhaniye, care reflectă spiritul creativ al zonei, și discutați cu artiștii prezenți despre lucrările lor.",
+            "en": "Admire local artworks at the Burhaniye Municipality Art House, reflecting the region's creative spirit, and chat with resident artists about their painting techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Öğretmenler Mahallesi Halk Plajı",
+            "hu": "Öğretmenler Mahallesi Halk Plajı",
+            "ro": "Öğretmenler Mahallesi Halk Plajı",
+            "en": "Öğretmenler Mahallesi Halk Plajı"
+          },
+          "coords": [
+            26.931362,
+            39.488564
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am Strand des Lehrerviertels, der sich ideal für eine erfrischende Badepause eignet, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a tanárok negyedének csendes strandját, amely ideális egy frissítő úszáshoz a meleg napon, és hozzon magával saját törölközőt a kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a plajei din cartierul profesorilor, ideală pentru o baie răcoritoare, și aduceți propriul prosop pentru a vă relaxa confortabil pe nisip.",
+            "en": "Enjoy the tranquil atmosphere at the Teachers' Neighborhood Beach, perfect for a refreshing midday swim, and bring your own towel to relax comfortably on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Adramytteion",
+            "hu": "Adramytteion",
+            "ro": "Adramytteion",
+            "en": "Adramytteion"
+          },
+          "coords": [
+            26.936093,
+            39.498655
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Überreste der antiken Stadt Adramytteion, um in die tiefe Geschichte der Region einzutauchen, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Adramytteion régészeti romjait, hogy elmélyedjen a régió gazdag történelmében, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele arheologice ale anticului Adramytteion pentru a aprofunda istoria bogată a regiunii și purtați încălțăminte confortabilă pentru terenul neregulat.",
+            "en": "Explore the archaeological ruins of ancient Adramytteion to delve into the rich history of the region, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ören Açık Hava Tiyatrosu",
+            "hu": "Ören Açık Hava Tiyatrosu",
+            "ro": "Ören Açık Hava Tiyatrosu",
+            "en": "Ören Açık Hava Tiyatrosu"
+          },
+          "coords": [
+            26.93656,
+            39.503261
+          ],
+          "category": "cultural",
+          "arrive_at": "15:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Freilufttheater von Ören, das lokale Kulturveranstaltungen in einer charmanten Umgebung bietet, und überprüfen Sie den aktuellen Spielplan auf abendliche Aufführungen.",
+            "hu": "Látogasson el az Ören Szabadtéri Színházba, amely helyi kulturális eseményeknek ad otthont bájos környezetben, és ellenőrizze az esti előadások aktuális műsorrendjét.",
+            "ro": "Vizitați teatrul în aer liber din Ören, care găzduiește evenimente culturale locale într-un cadru fermecător, și verificați programul pentru eventuale spectacole de seară.",
+            "en": "Visit the Ören Open Air Theater, which hosts vibrant local cultural events in a charming outdoor setting, and check the current schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahmet Akın Kültür Merkezi",
+            "hu": "Ahmet Akın Kültür Merkezi",
+            "ro": "Ahmet Akın Kültür Merkezi",
+            "en": "Ahmet Akın Kültür Merkezi"
+          },
+          "coords": [
+            26.96024,
+            39.502835
+          ],
+          "category": "cultural",
+          "arrive_at": "16:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Kulturzentrum Ahmet Akın für moderne Ausstellungen und spannende Gemeindeveranstaltungen, und informieren Sie sich am Eingang über das Tagesprogramm.",
+            "hu": "Látogasson el az Ahmet Akın Kulturális Központba, ahol modern kiállítások és közösségi események várják, és a bejáratnál tájékozódjon az aktuális napi programokról.",
+            "ro": "Vizitați Centrul Cultural Ahmet Akın pentru expoziții moderne și evenimente comunitare interesante, și verificați la intrare programul activităților din acea zi.",
+            "en": "Visit the Ahmet Akın Cultural Center for modern exhibitions and engaging community events, and check the daily schedule at the entrance to plan your visit accordingly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit faszinierenden Einblicken in die lokale Kultur in der ethnografischen Galerie Bizimköy. Gegen Mittag radeln Sie zum Kunsthaus Burhaniye und genießen anschließend eine Pause am Strand des Lehrerviertels. Am Nachmittag erkunden Sie die antiken Ruinen von Adramytteion und das Freilufttheater. Der Abend klingt im modernen Kulturzentrum Ahmet Akın aus.",
+        "hu": "Kezdje kerékpártúráját a helyi kultúra felfedezésével a Bizimköy néprajzi galériában. Délben tekerjen a Burhaniye Művészeti Házhoz, majd tartson egy frissítő pihenőt a tengerparton. Délután fedezze fel Adramytteion ősi romjait és az Ören Szabadtéri Színházat. Az estét a modern Ahmet Akın Kulturális Központ programjaival zárhatja a város szívében.",
+        "ro": "Începeți turul cu bicicleta explorând cultura locală la galeria etnografică Bizimköy. La prânz, pedalați spre Casa de Artă Burhaniye și faceți o pauză pe plaja liniștită. După-amiaza, vizitați ruinele antice din Adramytteion și teatrul în aer liber din apropiere. Seara se încheie relaxant la modernul Centru Cultural Ahmet Akın.",
+        "en": "Start your cycling tour with fascinating insights into local heritage at the Bizimköy ethnographic gallery. By midday, ride to the Burhaniye Art House, followed by a relaxing break at the beach. In the afternoon, explore the ancient ruins of Adramytteion and the open-air theater. Your active day concludes beautifully at the modern Ahmet Akın Cultural Center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ahmet Akın Kültür Merkezi",
+            "hu": "Ahmet Akın Kültür Merkezi",
+            "ro": "Ahmet Akın Kültür Merkezi",
+            "en": "Ahmet Akın Kültür Merkezi"
+          },
+          "coords": [
+            26.96024,
+            39.502835
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Kulturzentrum Ahmet Akın für moderne Ausstellungen und spannende Gemeindeveranstaltungen, und informieren Sie sich am Eingang über das Tagesprogramm.",
+            "hu": "Látogasson el az Ahmet Akın Kulturális Központba, ahol modern kiállítások és közösségi események várják, és a bejáratnál tájékozódjon az aktuális napi programokról.",
+            "ro": "Vizitați Centrul Cultural Ahmet Akın pentru expoziții moderne și evenimente comunitare interesante, și verificați la intrare programul activităților din acea zi.",
+            "en": "Visit the Ahmet Akın Cultural Center for modern exhibitions and engaging community events, and check the daily schedule at the entrance to plan your visit accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "hu": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "ro": "Bizimköy Hareketli Etnoğrafya Galerisi",
+            "en": "Bizimköy Hareketli Etnoğrafya Galerisi"
+          },
+          "coords": [
+            26.946993,
+            39.485555
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelles Handwerk in der beweglichen ethnografischen Galerie Bizimköy, die faszinierende Einblicke bietet, und nehmen Sie sich Zeit für die mechanischen Displays.",
+            "hu": "Fedezze fel a hagyományos mesterségeket a Bizimköy mozgó néprajzi galériában, és szánjon elegendő időt a lenyűgöző mechanikus bemutatók részletes megtekintésére.",
+            "ro": "Descoperiți meșteșugurile tradiționale la galeria etnografică animată Bizimköy, care oferă perspective fascinante, și alocați timp pentru a studia exponatele mecanice.",
+            "en": "Discover traditional crafts at the Bizimköy animated ethnographic gallery, offering fascinating cultural insights, and take your time to appreciate the mechanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Mesut Ağacık Cami",
+            "hu": "Mesut Ağacık Cami",
+            "ro": "Mesut Ağacık Cami",
+            "en": "Mesut Ağacık Cami"
+          },
+          "coords": [
+            26.928888,
+            39.482589
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Betrachten Sie die friedliche Architektur der Mesut Ağacık Moschee, die einen ruhigen Ort der Besinnung bietet, und achten Sie auf angemessene Kleidung beim Betreten.",
+            "hu": "Tekintse meg a Mesut Ağacık mecset békés építészetét, amely nyugodt helyet kínál az elmélkedésre, és ügyeljen a megfelelő, szerény öltözködésre a belépéskor.",
+            "ro": "Admirați arhitectura pașnică a moscheii Mesut Ağacık, un loc perfect pentru contemplare liniștită, și asigurați-vă că purtați haine modeste la intrarea în lăcaș.",
+            "en": "Admire the peaceful architecture of the Mesut Ağacık Mosque, offering a quiet space for contemplation, and ensure you wear modest clothing when entering the premises."
+          }
+        },
+        {
+          "name": {
+            "de": "Adramytteion",
+            "hu": "Adramytteion",
+            "ro": "Adramytteion",
+            "en": "Adramytteion"
+          },
+          "coords": [
+            26.936093,
+            39.498655
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologischen Überreste der antiken Stadt Adramytteion, um in die tiefe Geschichte der Region einzutauchen, und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi Adramytteion régészeti romjait, hogy elmélyedjen a régió gazdag történelmében, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele arheologice ale anticului Adramytteion pentru a aprofunda istoria bogată a regiunii și purtați încălțăminte confortabilă pentru terenul neregulat.",
+            "en": "Explore the archaeological ruins of ancient Adramytteion to delve into the rich history of the region, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Adramytteion Ancient Harbor",
+            "hu": "Adramytteion Ancient Harbor",
+            "ro": "Adramytteion Ancient Harbor",
+            "en": "Adramytteion Ancient Harbor"
+          },
+          "coords": [
+            26.931134,
+            39.504661
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Überreste des antiken Hafens von Adramytteion, die von maritimer Vergangenheit zeugen, und kommen Sie bei Sonnenuntergang für spektakuläre Fotos.",
+            "hu": "Csodálja meg Adramytteion ősi kikötőjének történelmi maradványait, amelyek a tengeri múltról tanúskodnak, és érkezzen naplementekor a lenyűgöző fényképek elkészítéséhez.",
+            "ro": "Admirați vestigiile istorice ale anticului port Adramytteion, martori ai trecutului maritim glorios, și veniți la apus pentru a surprinde fotografii spectaculoase cu marea.",
+            "en": "Marvel at the historical remains of the ancient Adramytteion harbor, a testament to its maritime past, and arrive at sunset to capture truly spectacular coastal photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayaz Beach",
+            "hu": "Ayaz Beach",
+            "ro": "Ayaz Beach",
+            "en": "Ayaz Beach"
+          },
+          "coords": [
+            26.934332,
+            39.507104
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag am wunderschönen Ayaz Beach ausklingen, der für seine entspannte Atmosphäre bekannt ist, und genießen Sie ein kühles Getränk in einem nahegelegenen Café.",
+            "hu": "Zárja a napot a gyönyörű Ayaz Beach homokján, amely nyugodt légköréről ismert, és fogyasszon el egy hűsítő italt az egyik közeli hangulatos tengerparti kávézóban.",
+            "ro": "Încheiați ziua pe frumoasa plajă Ayaz, renumită pentru atmosfera sa relaxantă de seară, și savurați o băutură rece la o cafenea confortabilă de pe litoral.",
+            "en": "Wind down your day at the beautiful Ayaz Beach, renowned for its relaxing evening atmosphere, and grab a cold drink from one of the cozy nearby coastal cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt morgens am modernen Kulturzentrum Ahmet Akın. Danach fahren Sie zur ethnografischen Galerie Bizimköy und besuchen die nahegelegene Mesut Ağacık Moschee. Am Nachmittag reisen Sie in die Vergangenheit und besichtigen die antike Stadt Adramytteion sowie ihren historischen Hafen. Zum Ausklang des Tages entspannen Sie am friedlichen Ayaz Beach.",
+        "hu": "Autós kirándulása a modern Ahmet Akın Kulturális Központban indul. Ezt követően látogasson el a Bizimköy néprajzi galériába, majd a közeli Mesut Ağacık mecsetbe. Délután utazzon vissza az időben Adramytteion ősi városának és történelmi kikötőjének felfedezésével. A nap végén a békés Ayaz Beach kínál tökéletes helyszínt a teljes kikapcsolódásra.",
+        "ro": "Călătoria cu mașina începe dimineața la modernul Centru Cultural Ahmet Akın. Apoi conduceți spre galeria etnografică Bizimköy și vizitați moscheea Mesut Ağacık. După-amiaza călătoriți înapoi în timp, explorând orașul antic Adramytteion și portul său istoric. Ziua se încheie cu un apus relaxant pe plaja pașnică Ayaz.",
+        "en": "Your driving tour begins at the modern Ahmet Akın Cultural Center in the morning. Next, drive to the Bizimköy ethnographic gallery and the nearby Mesut Ağacık Mosque. In the afternoon, travel back in time by exploring the ancient city of Adramytteion and its historic harbor. You will end your day relaxing by the sea at the peaceful Ayaz Beach."
+      }
+    }
+  }
+}

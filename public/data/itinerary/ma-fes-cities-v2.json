@@ -1,0 +1,428 @@
+{
+  "city_id": "ma-fes-cities-v2",
+  "anchor": {
+    "name": "Fes",
+    "coords": [
+      -5.0003,
+      34.0331
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Meryem",
+            "hu": "Musée Meryem",
+            "ro": "Musée Meryem",
+            "en": "Musée Meryem"
+          },
+          "coords": [
+            -5.009804,
+            34.038677
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses intime Museum mit einer reichen Auswahl an marokkanischen Künsten und Traditionen; kommen Sie früh, um die Stücke in Ruhe zu betrachten.",
+            "hu": "Fedezze fel ezt a meghitt múzeumot, amely a marokkói művészetek gazdag választékát kínálja; érkezzen korán, hogy elkerülje a déli tömeget.",
+            "ro": "Descoperiți acest muzeu intim care oferă o gamă bogată de arte și tradiții marocane; ajungeți devreme pentru a vă bucura de exponate în liniște.",
+            "en": "Discover this intimate museum offering a rich array of Moroccan arts and traditions; arrive early to enjoy a quiet viewing before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Word @ work",
+            "hu": "Word @ work",
+            "ro": "Word @ work",
+            "en": "Word @ work"
+          },
+          "coords": [
+            -4.998836,
+            34.037402
+          ],
+          "category": "cultural",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur an diesem lebendigen Treffpunkt ein, wo moderne Ideen auf Fassi-Erbe treffen; prüfen Sie vorab den Veranstaltungsplan.",
+            "hu": "Ismerkedjen meg a helyi kultúrával ezen a nyüzsgő közösségi helyen, ahol a modern ötletek találkoznak a hagyományokkal; érdemes előre megnézni a programjukat.",
+            "ro": "Interacționați cu cultura locală în acest spațiu comunitar vibrant, unde ideile moderne întâlnesc moștenirea Fassi; verificați programul evenimentelor înainte de vizită.",
+            "en": "Engage with local culture at this vibrant community spot where modern ideas meet traditional Fassi heritage; check their event schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fly center plus",
+            "hu": "Fly center plus",
+            "ro": "Fly center plus",
+            "en": "Fly center plus"
+          },
+          "coords": [
+            -4.996192,
+            34.037903
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Kulturzentrum für Jugend und moderne Ausdrucksformen im Herzen der Neustadt; ein toller Ort, um lokale Künstler zu treffen.",
+            "hu": "Fedezze fel ezt az ifjúságnak és a modern kifejezésmódoknak szentelt kulturális központot az újváros szívében; kiváló hely helyi művészek megismerésére.",
+            "ro": "Explorați acest centru cultural dedicat tinerilor și expresiilor moderne în inima orașului nou; este un loc minunat pentru a cunoaște artiști locali.",
+            "en": "Explore this cultural hub dedicated to youth and modern expressions in the heart of the new city; it's a great place to meet local artists and creatives."
+          }
+        },
+        {
+          "name": {
+            "de": "Orientaliste Art Gallery",
+            "hu": "Orientaliste Art Gallery",
+            "ro": "Orientaliste Art Gallery",
+            "en": "Orientaliste Art Gallery"
+          },
+          "coords": [
+            -4.995425,
+            34.035815
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie atemberaubende orientalistische Gemälde und Antiquitäten, die Marokkos romantische Vergangenheit einfangen; der Galerist teilt gerne sein Wissen.",
+            "hu": "Csodálja meg a lenyűgöző orientalista festményeket és régiségeket, amelyek Marokkó romantikus múltját idézik; kérdezze bátran a galéria tulajdonosát.",
+            "ro": "Admirați picturi orientaliste uimitoare și antichități care surprind trecutul romantic al Marocului; nu ezitați să discutați cu proprietarul galeriei pentru context istoric.",
+            "en": "Admire stunning orientalist paintings and antiques that capture Morocco's romantic past; take your time speaking with the gallery owner for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Cendrillon",
+            "hu": "Cendrillon",
+            "ro": "Cendrillon",
+            "en": "Cendrillon"
+          },
+          "coords": [
+            -4.998513,
+            34.039714
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bekannte lokale Wahrzeichen, das den Retro-Charme der Ville Nouvelle einfängt; es ist eine perfekte Kulisse für nachmittägliche Fotos.",
+            "hu": "Álljon meg ennél az ismert helyi nevezetességnél, amely az újváros retro báját idézi; tökéletes hátteret nyújt egy délutáni fotózáshoz a sétája végén.",
+            "ro": "Opriți-vă la acest punct de reper local cunoscut, care surprinde farmecul retro al Ville Nouvelle; este un fundal perfect pentru o sesiune foto de după-amiază.",
+            "en": "Stop by this well-known local landmark that captures the retro charm of the Ville Nouvelle; it is a perfect backdrop for an afternoon photography session."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im kulturellen Herzen der Ville Nouvelle im Musée Meryem und genießen Sie die ruhigen Künste und Traditionen. Am Mittag erleben Sie den modernen Puls von Fes in Gemeinschaftszentren wie Word @ work und Fly center plus. Verbringen Sie den Nachmittag mit orientalistischen Meisterwerken aus der romantischen Vergangenheit der Stadt. Beenden Sie den Tag am Retro-Charme von Cendrillon im Abendlicht.",
+        "hu": "Kezdje a reggelt az újváros kulturális szívében, a Musée Meryemben, elmélyülve a művészetekben és hagyományokban. Délben tapasztalja meg Fes modern lüktetését a Word @ work és a Fly center plus közösségi tereiben. A nyugodt délutánt a város romantikus múltját idéző orientalista mesterművek megcsodálásával töltheti. Zárja a napot egy kellemes esti sétával a Cendrillon retro bája mellett, ahogy a város kivilágosodik.",
+        "ro": "Începeți dimineața explorând inima culturală a Ville Nouvelle la Musée Meryem, bucurându-vă de artele și tradițiile senine. La prânz, simțiți pulsul modern al orașului Fes la centre comunitare precum Word @ work și Fly center plus. Petreceți o după-amiază relaxantă admirând capodopere orientaliste care amintesc de trecutul romantic al orașului. Încheiați ziua cu o plimbare plăcută de seară pe lângă farmecul retro de la Cendrillon.",
+        "en": "Start your morning exploring the cultural heart of the Ville Nouvelle at Musée Meryem, soaking in the serene arts and traditions. By midday, engage with the modern pulse of Fes at community hubs like Word @ work and Fly center plus. Spend a leisurely afternoon admiring orientalist masterpieces that recall the city's romantic past. Conclude your day with a pleasant evening walk past the retro charm of Cendrillon as the city lights up."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Royal Palace",
+            "hu": "Royal Palace",
+            "ro": "Royal Palace",
+            "en": "Royal Palace"
+          },
+          "coords": [
+            -4.993727,
+            34.055273
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakulären goldenen Tore von Dar el Makhzen, ein architektonisches Meisterwerk; beachten Sie, dass nur die Außenseite fotografiert werden darf.",
+            "hu": "Csodálja meg a Dar el Makhzen látványos aranykapuit, egy igazi építészeti remekművet; vegye figyelembe, hogy csak kívülről lehet fényképezni a palotát.",
+            "ro": "Admirați porțile de aur spectaculoase ale Dar el Makhzen, o capodoperă arhitecturală; rețineți că puteți fotografia doar exteriorul, deoarece intrarea este interzisă.",
+            "en": "Marvel at the spectacular golden gates of Dar el Makhzen, an architectural masterpiece; note that you can only photograph the exterior as entry is restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Jnan Sbil Gardens",
+            "hu": "Jnan Sbil Gardens",
+            "ro": "Jnan Sbil Gardens",
+            "en": "Jnan Sbil Gardens"
+          },
+          "coords": [
+            -4.987844,
+            34.058555
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese friedlichen botanischen Gärten mit Springbrunnen, Bambus und exotischen Pflanzen; bleiben Sie auf den gepflasterten Wegen, um die Flora zu schonen.",
+            "hu": "Sétáljon végig ezeken a békés botanikus kerteken, amelyek tele vannak szökőkutakkal és bambusszal; maradjon a kikövezett utakon a növényzet védelme érdekében.",
+            "ro": "Plimbați-vă prin aceste grădini botanice liniștite, pline de fântâni, bambus și plante exotice; rămâneți pe cărările pavate pentru a proteja flora delicată.",
+            "en": "Stroll through these peaceful botanical gardens filled with fountains, bamboo, and exotic plants; stay on the paved paths to respect the delicate flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Semmarine",
+            "hu": "Bab Semmarine",
+            "ro": "Bab Semmarine",
+            "en": "Bab Semmarine"
+          },
+          "coords": [
+            -4.989977,
+            34.054261
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses historische Verteidigungstor, das die alte Medina mit den neueren Vierteln verbindet; ein fantastischer Ort, um das geschäftige Leben von Fes zu beobachten.",
+            "hu": "Haladjon át ezen a történelmi védőkapun, amely összeköti a régi Medinát az újabb negyedekkel; nagyszerű hely a nyüzsgő feszi mindennapok megfigyelésére.",
+            "ro": "Treceți prin această poartă istorică defensivă care leagă vechea Medina de cartierele mai noi; este un loc fantastic pentru a observa viața de zi cu zi agitată din Fes.",
+            "en": "Pass through this historic defensive gate that bridges the old Medina and the newer quarters; it is a fantastic spot to observe the bustling daily life of Fes."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaouia of Moulay Idriss II",
+            "hu": "Zaouia of Moulay Idriss II",
+            "ro": "Zaouia of Moulay Idriss II",
+            "en": "Zaouia of Moulay Idriss II"
+          },
+          "coords": [
+            -4.987665,
+            34.054548
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie das aufwendig verzierte Äußere dieses heiligen Mausoleums; Nicht-Muslime dürfen nicht eintreten, aber die Holzschnitzereien sind atemberaubend.",
+            "hu": "Figyelje meg a városalapítónak szentelt mauzóleum díszes külsejét; nem muszlimok nem léphetnek be, de a fafaragások kívülről is lenyűgözőek.",
+            "ro": "Observați exteriorul decorat complex al acestui mausoleu sacru dedicat fondatorului orașului; non-musulmanii nu pot intra, dar sculpturile din lemn sunt uimitoare.",
+            "en": "Observe the intricately decorated exterior of this sacred mausoleum dedicated to the city's founder; non-Muslims cannot enter, but the carved woodwork is stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "Borj Sidi Bounafae",
+            "hu": "Borj Sidi Bounafae",
+            "ro": "Borj Sidi Bounafae",
+            "en": "Borj Sidi Bounafae"
+          },
+          "coords": [
+            -4.988737,
+            34.053403
+          ],
+          "category": "castle",
+          "arrive_at": "13:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser imposanten Festung aus dem 16. Jahrhundert mit Panoramablick auf die Medina; steigen Sie kurz vor Sonnenuntergang auf die höchste Mauer.",
+            "hu": "Fejezze be kerékpározását ennél az impozáns 16. századi erődnél, amely panorámás kilátást nyújt az egész medinára; másszon fel a legmagasabb bástyára naplemente előtt.",
+            "ro": "Încheiați cursa la această fortăreață impunătoare din secolul al XVI-lea, care oferă vederi panoramice asupra medinei; urcați pe cel mai înalt meterez chiar înainte de apus.",
+            "en": "End your ride at this imposing 16th-century fortress offering sweeping panoramic views of the entire medina; climb to the highest rampart just before sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an den goldenen Toren des Königspalastes im weichen Morgenlicht. Wenn es wärmer wird, finden Sie Schatten und Ruhe auf den Wegen der Jnan Sbil Gärten. Radeln Sie am Nachmittag zur historischen Medina, vorbei am monumentalen Bab Semmarine und der heiligen Zaouia. Beenden Sie Ihre Fahrt mit dem Aufstieg zum Borj Sidi Bounafae für einen spektakulären Panoramablick bei Sonnenuntergang.",
+        "hu": "Kezdje kerékpáros kalandját a Királyi Palota lenyűgöző aranykapuinál a reggeli fényben. Ahogy melegszik a nap, találjon árnyékot és nyugalmat a Jnan Sbil kertek buja ösvényein. Délután tekerjen a történelmi Medina felé, elhaladva a monumentális Bab Semmarine és a szent Zaouia of Moulay Idriss II mellett. Fejezze be az utat a Borj Sidi Bounafae-nál egy látványos naplementével.",
+        "ro": "Începeți aventura pe bicicletă la porțile de aur uimitoare ale Palatului Regal, surprinzând lumina dimineții. Pe măsură ce ziua se încălzește, găsiți umbră și liniște mergând prin cărările luxuriante ale grădinilor Jnan Sbil. După-amiaza, pedalați spre Medina istorică, trecând pe lângă monumentalul Bab Semmarine și sacra Zaouia a lui Moulay Idriss II. Terminați cursa urcând la Borj Sidi Bounafae pentru un apus panoramic spectaculos.",
+        "en": "Begin your cycling adventure at the awe-inspiring golden gates of the Royal Palace, capturing the morning light. As the day warms up, find shade and tranquility riding through the lush pathways of Jnan Sbil Gardens. In the afternoon, pedal towards the historic Medina, passing the monumental Bab Semmarine and the sacred Zaouia of Moulay Idriss II. Finish your ride ascending to Borj Sidi Bounafae for a spectacular panoramic sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Meryem",
+            "hu": "Musée Meryem",
+            "ro": "Musée Meryem",
+            "en": "Musée Meryem"
+          },
+          "coords": [
+            -5.009804,
+            34.038677
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses intime Museum mit einer reichen Auswahl an marokkanischen Künsten und Traditionen; kommen Sie früh, um die Stücke in Ruhe zu betrachten.",
+            "hu": "Fedezze fel ezt a meghitt múzeumot, amely a marokkói művészetek gazdag választékát kínálja; érkezzen korán, hogy elkerülje a déli tömeget.",
+            "ro": "Descoperiți acest muzeu intim care oferă o gamă bogată de arte și tradiții marocane; ajungeți devreme pentru a vă bucura de exponate în liniște.",
+            "en": "Discover this intimate museum offering a rich array of Moroccan arts and traditions; arrive early to enjoy a quiet viewing before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Orientaliste Art Gallery",
+            "hu": "Orientaliste Art Gallery",
+            "ro": "Orientaliste Art Gallery",
+            "en": "Orientaliste Art Gallery"
+          },
+          "coords": [
+            -4.995425,
+            34.035815
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie atemberaubende orientalistische Gemälde und Antiquitäten, die Marokkos romantische Vergangenheit einfangen; der Galerist teilt gerne sein Wissen.",
+            "hu": "Csodálja meg a lenyűgöző orientalista festményeket és régiségeket, amelyek Marokkó romantikus múltját idézik; kérdezze bátran a galéria tulajdonosát.",
+            "ro": "Admirați picturi orientaliste uimitoare și antichități care surprind trecutul romantic al Marocului; nu ezitați să discutați cu proprietarul galeriei pentru context istoric.",
+            "en": "Admire stunning orientalist paintings and antiques that capture Morocco's romantic past; take your time speaking with the gallery owner for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandwich Benmaseoud",
+            "hu": "Sandwich Benmaseoud",
+            "ro": "Sandwich Benmaseoud",
+            "en": "Sandwich Benmaseoud"
+          },
+          "coords": [
+            -4.985331,
+            34.024652
+          ],
+          "category": "landmark",
+          "arrive_at": "12:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie ein lokales kulinarisches Wahrzeichen, das für schnelle, herzhafte Snacks bei den Einwohnern von Fes beliebt ist; nehmen Sie sich ein Sandwich zum Mitnehmen.",
+            "hu": "Próbálja ki ezt a helyi kulináris nevezetességet, amely a fesziek körében népszerű a gyors, ízletes falatokról; kérjen egy szendvicset elvitelre, és élvezze útközben.",
+            "ro": "Experimentați un punct de reper culinar local cunoscut pentru gustările rapide și savuroase, preferat de locuitorii din Fes; luați un sandviș la pachet și savurați-l în apropiere.",
+            "en": "Experience a local culinary landmark known for quick, savory bites favored by Fassi residents; grab a sandwich to go and enjoy it at a nearby scenic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cass-croute",
+            "hu": "Cass-croute",
+            "ro": "Cass-croute",
+            "en": "Cass-croute"
+          },
+          "coords": [
+            -4.997662,
+            34.045097
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beachten Sie dieses klassische lokale Lokal, das die unprätentiöse Street-Food-Kultur der modernen Stadt repräsentiert; es bietet einen tollen Einblick in den Alltag.",
+            "hu": "Vegye észre ezt a klasszikus helyi étkezdét, amely a modern város szerény street food kultúráját képviseli; remek bepillantást nyújt Fes mindennapi ritmusába.",
+            "ro": "Observați acest local clasic care reprezintă cultura culinară stradală fără pretenții a orașului modern; oferă o imagine excelentă asupra ritmului de zi cu zi din Fes.",
+            "en": "Notice this classic local eatery representing the unpretentious street food culture of the modern city; it offers a great glimpse into the everyday rhythm of Fes."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Palace",
+            "hu": "Royal Palace",
+            "ro": "Royal Palace",
+            "en": "Royal Palace"
+          },
+          "coords": [
+            -4.993727,
+            34.055273
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakulären goldenen Tore von Dar el Makhzen, ein architektonisches Meisterwerk; beachten Sie, dass nur die Außenseite fotografiert werden darf.",
+            "hu": "Csodálja meg a Dar el Makhzen látványos aranykapuit, egy igazi építészeti remekművet; vegye figyelembe, hogy csak kívülről lehet fényképezni a palotát.",
+            "ro": "Admirați porțile de aur spectaculoase ale Dar el Makhzen, o capodoperă arhitecturală; rețineți că puteți fotografia doar exteriorul, deoarece intrarea este interzisă.",
+            "en": "Marvel at the spectacular golden gates of Dar el Makhzen, an architectural masterpiece; note that you can only photograph the exterior as entry is restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Jnan Sbil Gardens",
+            "hu": "Jnan Sbil Gardens",
+            "ro": "Jnan Sbil Gardens",
+            "en": "Jnan Sbil Gardens"
+          },
+          "coords": [
+            -4.987844,
+            34.058555
+          ],
+          "category": "park",
+          "arrive_at": "14:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese friedlichen botanischen Gärten mit Springbrunnen, Bambus und exotischen Pflanzen; bleiben Sie auf den gepflasterten Wegen, um die Flora zu schonen.",
+            "hu": "Sétáljon végig ezeken a békés botanikus kerteken, amelyek tele vannak szökőkutakkal és bambusszal; maradjon a kikövezett utakon a növényzet védelme érdekében.",
+            "ro": "Plimbați-vă prin aceste grădini botanice liniștite, pline de fântâni, bambus și plante exotice; rămâneți pe cărările pavate pentru a proteja flora delicată.",
+            "en": "Stroll through these peaceful botanical gardens filled with fountains, bamboo, and exotic plants; stay on the paved paths to respect the delicate flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Ville Nouvelle, um im Musée Meryem marokkanische Traditionen und anschließend die exquisite Orientaliste Art Gallery zu entdecken. Machen Sie mittags eine Pause bei Sandwich Benmaseoud und beobachten Sie das Treiben rund um Cass-croute. Am Nachmittag erleben Sie monumentale Geschichte an den Toren des Königspalastes. Parken Sie schließlich bei den Jnan Sbil Gärten für einen friedlichen Abendspaziergang.",
+        "hu": "Vezessen reggel az újvárosba, hogy felfedezze a marokkói hagyományokat a Musée Meryemben, majd a lenyűgöző Orientaliste Art Gallery-ben. Délben tartson egy gyors szünetet a Sandwich Benmaseoud-nál, és figyelje meg a mindennapi nyüzsgést a Cass-croute körül. Délutánja a monumentális történelem felé fordul a Királyi Palota kapuinak fenséges látványával. Végül parkoljon le a Jnan Sbil kertek közelében egy békés esti sétához.",
+        "ro": "Conduceți spre Ville Nouvelle în această dimineață pentru a descoperi tradițiile marocane la Musée Meryem, urmate de rafinata Galerie de Artă Orientalistă. La prânz, faceți o scurtă pauză pentru a gusta aromele locale la Sandwich Benmaseoud și pentru a observa agitația din jurul Cass-croute. După-amiaza se îndreaptă spre istoria monumentală, cu o vedere la porțile Palatului Regal. În cele din urmă, parcați lângă Grădinile Jnan Sbil pentru o plimbare de seară.",
+        "en": "Drive to the Ville Nouvelle this morning to uncover Moroccan traditions at Musée Meryem followed by the exquisite Orientaliste Art Gallery. Midday, take a quick break to taste the local flavor at Sandwich Benmaseoud and spot the everyday hustle around Cass-croute. Your afternoon shifts to monumental history with a majestic view of the Royal Palace gates. Finally, park near Jnan Sbil Gardens to enjoy a peaceful evening stroll among the fountains."
+      }
+    }
+  }
+}

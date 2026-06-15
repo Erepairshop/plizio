@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-naxos-cities-v2",
+  "anchor": {
+    "name": "Naxos",
+    "coords": [
+      25.47076,
+      37.06001
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Phos Gallery",
+            "hu": "Phos Galéria",
+            "ro": "Galeria Phos",
+            "en": "Phos Gallery"
+          },
+          "coords": [
+            25.481774,
+            37.063019
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in dieser gemütlichen Galerie, die das Licht der Insel einfängt, und kommen Sie früh, um die Stille zu genießen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a sziget fényét megörökítő hangulatos galériában, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți arta locală în această galerie primitoare ce surprinde lumina insulei și sosiți devreme pentru a vă bucura de exponate în liniște.",
+            "en": "Discover local art in this cozy gallery capturing the island's light, and arrive early to enjoy the exhibits before the afternoon rush."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos Mparotsi-Gratsia",
+            "hu": "Purgos Mparotsi-Gratsia",
+            "ro": "Purgos Mparotsi-Gratsia",
+            "en": "Purgos Mparotsi-Gratsia"
+          },
+          "coords": [
+            25.483509,
+            37.063303
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die venezianische Architektur dieses gut erhaltenen Turms und bringen Sie ein Weitwinkelobjektiv für perfekte Fotos mit.",
+            "hu": "Csodálja meg a jól megőrzött torony lenyűgöző velencei építészetét, és hozzon magával széles látószögű objektívet a pompás fotókhoz.",
+            "ro": "Admirați arhitectura venețiană a acestui turn bine conservat și aduceți un obiectiv grandangular pentru a surprinde amploarea sa reală.",
+            "en": "Admire the imposing Venetian architecture of this well-preserved tower, and bring a wide-angle lens to capture its true majestic scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos Markopolite-Papadakou",
+            "hu": "Purgos Markopolite-Papadakou",
+            "ro": "Purgos Markopolite-Papadakou",
+            "en": "Purgos Markopolite-Papadakou"
+          },
+          "coords": [
+            25.48589,
+            37.06316
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Herrenhaus und tragen Sie festes Schuhwerk für das raue Gelände rundum.",
+            "hu": "Lépjen vissza az időben e történelmi erődített udvarház falai között, és viseljen kényelmes cipőt a sziklás környék felfedezéséhez.",
+            "ro": "Călătoriți în timp la acest conac fortificat care păzea valea și purtați încălțăminte robustă pentru a explora terenul accidentat.",
+            "en": "Step back in time at this historic fortified mansion that guarded the valley, and wear sturdy shoes for walking around its rugged grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Agioi Apostoloi",
+            "hu": "Agioi Apostoloi",
+            "ro": "Agioi Apostoloi",
+            "en": "Agioi Apostoloi"
+          },
+          "coords": [
+            25.487385,
+            37.060307
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten Fresken in dieser byzantinischen Kirche, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg a békés bizánci templom ősi freskóit, de ügyeljen a szerény öltözködésre és beszéljen halkan a tiszteletjes látogatás során.",
+            "ro": "Admirați frescele antice din această biserică bizantină liniștită, amintindu-vă să vă îmbrăcați modest și să vorbiți încet la interior.",
+            "en": "Marvel at the ancient frescoes inside this serene Byzantine church, but remember to dress modestly and speak softly during your peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos Markopolite - Kalabrou",
+            "hu": "Purgos Markopolite - Kalabrou",
+            "ro": "Purgos Markopolite - Kalabrou",
+            "en": "Purgos Markopolite - Kalabrou"
+          },
+          "coords": [
+            25.491128,
+            37.060578
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem markanten historischen Turm und genießen Sie das Licht der goldenen Stunde auf seinen Steinmauern.",
+            "hu": "Zárja sétáját ennél a Naxosz nemesi múltjáról mesélő lenyűgöző történelmi toronynál, és élvezze az aranyóra fényét a kőfalakon.",
+            "ro": "Încheiați plimbarea la acest turn istoric remarcabil ce dezvăluie trecutul nobil, bucurându-vă de lumina apusului pe zidurile sale vechi.",
+            "en": "End your walk at this striking historic tower that tells the tale of Naxos' noble past, and enjoy the golden hour light striking its stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Phos Gallery, bevor Sie in die venezianische Geschichte eintauchen. Mittags können Sie die beeindruckenden, von Adelsfamilien erbauten Festungstürme aus nächster Nähe betrachten. Am Nachmittag finden Sie Ruhe in der historischen Kirche Agioi Apostoloi. Der Abend klingt an einem weiteren monumentalen Turm im warmen Licht der Dämmerung aus.",
+        "hu": "Kezdje a reggelt a Naxosz kreatív lüktetését bemutató Phos Galériában, mielőtt elmerülne a sziget velencei történelmében. A dél a nemesi családok által épített erődített tornyok közeli megismerését hozza. Délután békére lelhet a történelmi Agioi Apostoloi templomban. Az estét egy újabb, a szürkület meleg fényében fürdő monumentális torony látványa zárja le.",
+        "ro": "Începeți dimineața explorând pulsul creativ din Naxos la Galeria Phos înainte de a pătrunde în istoria venețiană. La amiază veți admira de aproape turnurile fortificate construite de familiile nobile. După-amiaza veți găsi liniște la biserica istorică Agioi Apostoloi. Seara se încheie la un alt turn monumental, scăldat în lumina caldă a amurgului mediteranean.",
+        "en": "Start your morning exploring the creative pulse of Naxos at the Phos Gallery before moving into the island's rich Venetian history. Midday brings a close-up look at impressive fortified towers built by noble families. In the afternoon, you will find peace at the historic Agioi Apostoloi church. The evening concludes gracefully at another monumental tower bathed in the warm light of dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nekrotapheio tou Tsikalariou",
+            "hu": "Nekrotapheio tou Tsikalariou",
+            "ro": "Nekrotapheio tou Tsikalariou",
+            "en": "Nekrotapheio tou Tsikalariou"
+          },
+          "coords": [
+            25.462657,
+            37.064494
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden Friedhof der geometrischen Epoche mit seinen alten Steinen und besuchen Sie ihn am besten früh am Morgen.",
+            "hu": "Fedezze fel ezt a lenyűgöző geometrikus kori temetőt az ősi állókövekkel, és érkezzen kora reggel a legkellemesebb és legtitokzatosabb fényekért.",
+            "ro": "Explorați acest cimitir fascinant din era geometrică cu pietrele sale străvechi și vizitați-l dimineața devreme pentru cele mai bune umbre.",
+            "en": "Explore this fascinating geometric-era cemetery with its ancient standing stones, and visit early in the morning for the most atmospheric shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Apano Kastro",
+            "hu": "Apano Kastro",
+            "ro": "Apano Kastro",
+            "en": "Apano Kastro"
+          },
+          "coords": [
+            25.460208,
+            37.066989
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen Burgruinen, die einen atemberaubenden Panoramablick bieten, und packen Sie ausreichend Wasser für den Aufstieg ein.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző várromhoz, ahonnan lélegzetelállító panoráma nyílik a szigetre, és vigyen magával elegendő ivóvizet.",
+            "ro": "Urcați la aceste ruine impresionante ale castelului ce oferă vederi panoramice uluitoare, asigurându-vă că aveți suficientă apă la voi.",
+            "en": "Hike up to these impressive castle ruins offering breathtaking panoramic views of the island, and pack plenty of water for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Phos Gallery",
+            "hu": "Phos Galéria",
+            "ro": "Galeria Phos",
+            "en": "Phos Gallery"
+          },
+          "coords": [
+            25.481774,
+            37.063019
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in dieser gemütlichen Galerie, die das Licht der Insel einfängt, und kommen Sie früh, um die Stille zu genießen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a sziget fényét megörökítő hangulatos galériában, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți arta locală în această galerie primitoare ce surprinde lumina insulei și sosiți devreme pentru a vă bucura de exponate în liniște.",
+            "en": "Discover local art in this cozy gallery capturing the island's light, and arrive early to enjoy the exhibits before the afternoon rush."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Triada Kaloxulou",
+            "hu": "Agia Triada Kaloxulou",
+            "ro": "Agia Triada Kaloxulou",
+            "en": "Agia Triada Kaloxulou"
+          },
+          "coords": [
+            25.48935,
+            37.065263
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Herz des Dorfes in dieser gepflegten Kirche und prüfen Sie die lokalen Zeiten, um die Glocken zu hören.",
+            "hu": "Fedezze fel a falu spirituális központját ebben a gyönyörűen karbantartott templomban, és nézze meg az időrendet a harangszóhoz.",
+            "ro": "Descoperiți inima spirituală a satului în această biserică frumos întreținută și verificați programul local pentru a auzi clopotele bătând.",
+            "en": "Discover the spiritual heart of the village in this beautifully maintained church, and check local schedules to hear the traditional bells ringing."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Damiotissa",
+            "hu": "Panagia Damiotissa",
+            "ro": "Panagia Damiotissa",
+            "en": "Panagia Damiotissa"
+          },
+          "coords": [
+            25.488447,
+            37.069034
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe an dieser charmanten religiösen Stätte im Grünen und nehmen Sie sich einen Moment Zeit, um sich auf den Bänken auszuruhen.",
+            "hu": "Találjon nyugalmat ezen a bájos, buja növényzettel körülvett vallási helyszínen, és pihenjen meg egy pillanatra a kinti kőpadokon.",
+            "ro": "Găsiți liniște în acest loc religios fermecător înconjurat de verdeață luxuriantă și odihniți-vă pe băncile de piatră de la exterior.",
+            "en": "Find tranquility in this charming religious site surrounded by lush greenery, and take a moment to rest on the stone benches outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum alten Friedhof von Tsikalario, um der Hitze zu entgehen. Später können Sie sich bei einer Fahrt hinauf zu den Ruinen von Apano Kastro herausfordern. Nach dem Mittagessen radeln Sie hinunter zur Phos Gallery, um lokale Kunst zu genießen. Ihr aktiver Tag klingt mit ruhigen Besuchen zweier wunderschöner lokaler Kirchen in der Landschaft aus.",
+        "hu": "Tekerjen ki korán Tsikalario titokzatos ősi temetőjébe, még a hőség beállta előtt. Később kihívást jelenthet az Apano Kastro romjaihoz vezető út a lenyűgöző kilátásért. Ebéd után kerékpározzon le a Phos Galériához egy kis művészeti feltöltődésre. Az aktív nap a tájban megbúvó két gyönyörű helyi templom békés meglátogatásával ér véget kellemesen.",
+        "ro": "Pedalați devreme spre cimitirul antic din Tsikalario pentru a evita căldura. Mai târziu, urcați spre ruinele de la Apano Kastro pentru vederi panoramice uluitoare. După prânz, coborâți spre Galeria Phos pentru a vă bucura de arta locală. Ziua activă se încheie cu vizite liniștite la două biserici locale frumoase, ascunse în peisajul rural pitoresc.",
+        "en": "Pedal out early to the mysterious ancient cemetery of Tsikalario to beat the heat. As the day warms up, challenge yourself with a ride up to the ruins of Apano Kastro for sweeping island views. After lunch, cycle down to the cultural hub of Phos Gallery to enjoy some local art. Your active day winds down with tranquil visits to two beautiful local churches nestled in the landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 8.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Purgos Athalassas",
+            "hu": "Purgos Athalassas",
+            "ro": "Purgos Athalassas",
+            "en": "Purgos Athalassas"
+          },
+          "coords": [
+            25.469469,
+            37.045401
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem Küstenturm, der einst vor Piraten schützte, und achten Sie auf die ursprünglichen Verteidigungsdetails.",
+            "hu": "Kezdje útját ennél a part menti toronynál, amely egykor a kalózoktól védett, és figyelje meg az eredeti védelmi építészeti részleteket.",
+            "ro": "Începeți traseul la acest turn de coastă ce oferea protecție împotriva piraților și căutați detaliile arhitecturale defensive originale.",
+            "en": "Start your drive at this imposing coastal tower that once guarded against pirates, and look for the original defensive architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos tou Massena",
+            "hu": "Purgos tou Massena",
+            "ro": "Purgos tou Massena",
+            "en": "Purgos tou Massena"
+          },
+          "coords": [
+            25.447611,
+            37.068522
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen großen Turm auf dem Lande, der das feudale Naxos repräsentiert, und bewundern Sie ihn respektvoll von den öffentlichen Wegen.",
+            "hu": "Látogassa meg ezt a vidéki tornyot, amely a feudális Naxoszt képviseli, és tiszteletteljesen csodálja meg szerkezetét a nyilvános ösvényekről.",
+            "ro": "Vizitați acest turn grandios din mediul rural, reprezentând Naxosul feudal, și admirați-i structura cu respect de pe aleile publice.",
+            "en": "Visit this grand tower nestled in the countryside representing feudal Naxos, and respectfully admire its structure from the public pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekrotapheio tou Tsikalariou",
+            "hu": "Nekrotapheio tou Tsikalariou",
+            "ro": "Nekrotapheio tou Tsikalariou",
+            "en": "Nekrotapheio tou Tsikalariou"
+          },
+          "coords": [
+            25.462657,
+            37.064494
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden Friedhof der geometrischen Epoche mit seinen alten Steinen und besuchen Sie ihn am besten früh am Morgen.",
+            "hu": "Fedezze fel ezt a lenyűgöző geometrikus kori temetőt az ősi állókövekkel, és érkezzen kora reggel a legkellemesebb és legtitokzatosabb fényekért.",
+            "ro": "Explorați acest cimitir fascinant din era geometrică cu pietrele sale străvechi și vizitați-l dimineața devreme pentru cele mai bune umbre.",
+            "en": "Explore this fascinating geometric-era cemetery with its ancient standing stones, and visit early in the morning for the most atmospheric shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Damiotissa",
+            "hu": "Panagia Damiotissa",
+            "ro": "Panagia Damiotissa",
+            "en": "Panagia Damiotissa"
+          },
+          "coords": [
+            25.488447,
+            37.069034
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe an dieser charmanten religiösen Stätte im Grünen und nehmen Sie sich einen Moment Zeit, um sich auf den Bänken auszuruhen.",
+            "hu": "Találjon nyugalmat ezen a bájos, buja növényzettel körülvett vallási helyszínen, és pihenjen meg egy pillanatra a kinti kőpadokon.",
+            "ro": "Găsiți liniște în acest loc religios fermecător înconjurat de verdeață luxuriantă și odihniți-vă pe băncile de piatră de la exterior.",
+            "en": "Find tranquility in this charming religious site surrounded by lush greenery, and take a moment to rest on the stone benches outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Purgos Markopolite - Kalabrou",
+            "hu": "Purgos Markopolite - Kalabrou",
+            "ro": "Purgos Markopolite - Kalabrou",
+            "en": "Purgos Markopolite - Kalabrou"
+          },
+          "coords": [
+            25.491128,
+            37.060578
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem markanten historischen Turm und genießen Sie das Licht der goldenen Stunde auf seinen Steinmauern.",
+            "hu": "Zárja sétáját ennél a Naxosz nemesi múltjáról mesélő lenyűgöző történelmi toronynál, és élvezze az aranyóra fényét a kőfalakon.",
+            "ro": "Încheiați plimbarea la acest turn istoric remarcabil ce dezvăluie trecutul nobil, bucurându-vă de lumina apusului pe zidurile sale vechi.",
+            "en": "End your walk at this striking historic tower that tells the tale of Naxos' noble past, and enjoy the golden hour light striking its stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt im Süden an der Festung Purgos Athalassas. Am späten Vormittag fahren Sie ins Landesinnere, um den Purgos tou Massena und den Friedhof von Tsikalario zu bewundern. Die Nachmittagsfahrt führt durch Zentral-Naxos mit einem Halt an der Panagia Damiotissa. Bei Sonnenuntergang erreichen Sie Ihren letzten historischen Turm.",
+        "hu": "Az autós túra délen, a Purgos Athalassas lenyűgöző parti erődjénél kezdődik. Késő délelőtt a szárazföld belseje felé veszi az irányt, a Purgos tou Massena és a Tsikalario temető felfedezésére. A délutáni út Naxosz középső részén kanyarog, megállva a Panagia Damiotissa templomnál. Naplementekor érkezik az utolsó történelmi toronyhoz a festői úton.",
+        "ro": "Călătoria cu mașina începe în sud, la fortăreața de coastă Purgos Athalassas. Spre prânz vă îndreptați spre interior pentru a admira Purgos tou Massena și cimitirul antic Tsikalario. Drumul de după-amiază șerpuiește prin centrul Naxosului, oprindu-se la Panagia Damiotissa. La apus, ajungeți la ultimul turn istoric, bucurându-vă de peisaj.",
+        "en": "Your road trip begins in the south at the imposing coastal fortress of Purgos Athalassas. Late morning takes you inland to admire the classic structure of Purgos tou Massena and the ancient Tsikalario cemetery. The afternoon drive weaves through central Naxos, stopping for quiet reflection at Panagia Damiotissa. As the sun sets, arrive at your final historic tower, enjoying the scenic drive."
+      }
+    }
+  }
+}

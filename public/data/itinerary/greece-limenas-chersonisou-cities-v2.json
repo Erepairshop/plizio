@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-limenas-chersonisou-cities-v2",
+  "anchor": {
+    "name": "Limenas Chersonisou",
+    "coords": [
+      25.39854,
+      35.31242
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 2.73,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sarakino-Brunnen",
+            "hu": "Sarakino szökőkút",
+            "ro": "Fântâna Sarakino",
+            "en": "Sarakino Fountain"
+          },
+          "coords": [
+            25.391706,
+            35.319902
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die römischen Mosaike, die diesen antiken Brunnen schmücken, und kommen Sie früh, um die Details im weichen Licht ohne harte Schatten zu fotografieren.",
+            "hu": "Csodálja meg az ősi szökőkutat díszítő bonyolult római mozaikokat, és érkezzen korán, hogy a részleteket még a déli, erős napfény előtt lencsevégre kaphassa.",
+            "ro": "Admirați mozaicurile romane complexe care decorează această fântână antică și ajungeți devreme pentru a fotografia detaliile înainte de a apărea umbrele dure.",
+            "en": "Marvel at the intricate Roman mosaics decorating this ancient fountain, and arrive early to photograph the details before the harsh midday sun creates shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquaworld Aquarium",
+            "hu": "Aquaworld Akvárium",
+            "ro": "Acvariul Aquaworld",
+            "en": "Aquaworld Aquarium"
+          },
+          "coords": [
+            25.389504,
+            35.317282
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Meereswelt und gerettete Reptilien in diesem interaktiven Zentrum, wobei Sie Ihren Besuch passend zu den Fütterungen planen sollten.",
+            "hu": "Fedezze fel a helyi tengeri élővilágot és a mentett hüllőket ebben az interaktív központban, és időzítse a látogatását az oktatási célú etetési programokra.",
+            "ro": "Descoperiți viața marină locală și reptilele salvate la acest centru interactiv, asigurându-vă că vizita se suprapune cu sesiunile educative de hrănire.",
+            "en": "Discover local marine life and rescued reptiles at this interactive conservation center, making sure to time your visit for the educational feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.404171,
+            35.310618
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Küstenkirche mit Meerblick und respektieren Sie die Bräuche durch angemessene, bedeckende Kleidung.",
+            "hu": "Élvezze a tengerre néző, festői tengerparti templom nyugodt hangulatát, és tartsa tiszteletben a helyi szokásokat azzal, hogy szerény öltözékben lép be.",
+            "ro": "Bucurați-vă de atmosfera senină a acestei biserici pitorești de pe coastă și respectați obiceiurile locale purtând o ținută decentă înainte de a intra.",
+            "en": "Take in the serene atmosphere of this picturesque coastal church overlooking the sea, and respect local customs by dressing modestly before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Star Beach",
+            "hu": "Star Beach",
+            "ro": "Star Beach",
+            "en": "Star Beach"
+          },
+          "coords": [
+            25.404634,
+            35.30869
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie im goldenen Sand und genießen Sie die Energie dieses Strandes, aber bringen Sie eigene Handtücher und Sonnencreme mit, um Kosten zu sparen.",
+            "hu": "Pihenjen az aranyhomokos parton és élvezze az élénk strand energiáját, de hozzon saját törölközőt és naptejet, hogy elkerülje a magas bérleti díjakat.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje pline de energie, dar aduceți propriile prosoape și loțiuni solare pentru a evita prețurile ridicate locale.",
+            "en": "Relax on the golden sands and enjoy the energetic vibe of this lively beach park, but bring your own towels and sunscreen to avoid paying premium resort prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Lychnostatis",
+            "hu": "Lychnostatis Múzeum",
+            "ro": "Muzeul Lychnostatis",
+            "en": "Museum Lychnostatis"
+          },
+          "coords": [
+            25.411224,
+            35.306362
+          ],
+          "category": "museum",
+          "arrive_at": "15:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kretische Kultur in wunderschön rekonstruierten Inselhäusern und fragen Sie das Personal nach den interaktiven Workshops im Innenhof.",
+            "hu": "Ismerje meg a krétai kultúrát a gyönyörűen rekonstruált szigeti házakon keresztül, és kérdezze a barátságos személyzetet az udvaron tartott interaktív műhelyekről.",
+            "ro": "Explorați cultura cretană prin intermediul caselor insulare frumos reconstruite și întrebați personalul amabil despre atelierele interactive din curtea interioară.",
+            "en": "Explore traditional Cretan culture through beautifully reconstructed island homes, and ask the friendly staff about the interactive workshops held in the courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Hafen beim antiken Sarakino-Brunnen. Spazieren Sie dann zum Aquaworld Aquarium, um faszinierende Meeresbewohner zu sehen.\n\nMittags führt ein Küstenweg zur malerischen Kirche Agios Nikolaos, wo Sie die Ruhe am Meer genießen.\n\nNachmittags lockt der Star Beach mit goldenem Sand und lebhafter Atmosphäre.\n\nBeenden Sie den Tag im Freilichtmuseum Lychnostatis.",
+        "hu": "Kezdje a napot a kikötőben, a Sarakino szökőkút római mozaikjainak megcsodálásával, majd sétáljon át az Aquaworld Akváriumba.\n\nDélben tegyen egy tengerparti sétát a festői Agios Nikolaos templomhoz, és élvezze a hullámok közelségét.\n\nDélután lazítson a nyüzsgő Star Beach aranyhomokos partján.\n\nEste zárja a sétát a Lychnostatis Múzeum hagyományos krétai falujának varázslatos hangulatában.",
+        "ro": "Începeți ziua lângă port admirând mozaicurile Fântânii Sarakino, apoi plimbați-vă până la Acvariul Aquaworld pentru a vedea creaturi marine fascinante.\n\nLa prânz, bucurați-vă de o plimbare pe coastă spre pitoreasca biserică Agios Nikolaos.\n\nDupă-amiaza relaxați-vă pe nisipurile aurii de la Star Beach.\n\nSeara încheiați turul la Muzeul Lychnostatis, explorând cultura cretană tradițională.",
+        "en": "Start the day near the harbor by admiring the intricate Roman mosaics of the Sarakino Fountain, then stroll over to the Aquaworld Aquarium to interact with rescued marine life.\n\nMidday: Enjoy a coastal walk towards the picturesque Agios Nikolaos church.\n\nAfternoon: Head over to Star Beach to soak up the Mediterranean sunshine.\n\nEvening: Conclude your walking tour at the traditional Museum Lychnostatis."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 3.93,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für ländliches Leben",
+            "hu": "Vidéki Élet Múzeuma",
+            "ro": "Muzeul Vieții Rurale",
+            "en": "Museum of Rural Life"
+          },
+          "coords": [
+            25.384936,
+            35.307392
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesem Freilichtmuseum authentische Agrargeschichte, wofür festes Schuhwerk auf den unebenen Steinwegen der Anlage dringend empfohlen wird.",
+            "hu": "Utazzon vissza az időben és tapasztalja meg a hiteles mezőgazdasági történelmet ebben a szabadtéri múzeumban, ahol az egyenetlen kőutakon zárt cipő viselése ajánlott.",
+            "ro": "Întoarceți-vă în timp pentru a experimenta istoria agricolă autentică la acest muzeu în aer liber, unde încălțămintea robustă este esențială pe cărările pietruite.",
+            "en": "Step back in time to experience authentic agricultural history at this outdoor museum, where sturdy walking shoes are highly recommended for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquaworld Aquarium",
+            "hu": "Aquaworld Akvárium",
+            "ro": "Acvariul Aquaworld",
+            "en": "Aquaworld Aquarium"
+          },
+          "coords": [
+            25.389504,
+            35.317282
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Meereswelt und gerettete Reptilien in diesem interaktiven Zentrum, wobei Sie Ihren Besuch passend zu den Fütterungen planen sollten.",
+            "hu": "Fedezze fel a helyi tengeri élővilágot és a mentett hüllőket ebben az interaktív központban, és időzítse a látogatását az oktatási célú etetési programokra.",
+            "ro": "Descoperiți viața marină locală și reptilele salvate la acest centru interactiv, asigurându-vă că vizita se suprapune cu sesiunile educative de hrănire.",
+            "en": "Discover local marine life and rescued reptiles at this interactive conservation center, making sure to time your visit for the educational feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarakino-Brunnen",
+            "hu": "Sarakino szökőkút",
+            "ro": "Fântâna Sarakino",
+            "en": "Sarakino Fountain"
+          },
+          "coords": [
+            25.391706,
+            35.319902
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die römischen Mosaike, die diesen antiken Brunnen schmücken, und kommen Sie früh, um die Details im weichen Licht ohne harte Schatten zu fotografieren.",
+            "hu": "Csodálja meg az ősi szökőkutat díszítő bonyolult római mozaikokat, és érkezzen korán, hogy a részleteket még a déli, erős napfény előtt lencsevégre kaphassa.",
+            "ro": "Admirați mozaicurile romane complexe care decorează această fântână antică și ajungeți devreme pentru a fotografia detaliile înainte de a apărea umbrele dure.",
+            "en": "Marvel at the intricate Roman mosaics decorating this ancient fountain, and arrive early to photograph the details before the harsh midday sun creates shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.404171,
+            35.310618
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.54,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Küstenkirche mit Meerblick und respektieren Sie die Bräuche durch angemessene, bedeckende Kleidung.",
+            "hu": "Élvezze a tengerre néző, festői tengerparti templom nyugodt hangulatát, és tartsa tiszteletben a helyi szokásokat azzal, hogy szerény öltözékben lép be.",
+            "ro": "Bucurați-vă de atmosfera senină a acestei biserici pitorești de pe coastă și respectați obiceiurile locale purtând o ținută decentă înainte de a intra.",
+            "en": "Take in the serene atmosphere of this picturesque coastal church overlooking the sea, and respect local customs by dressing modestly before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Star Beach",
+            "hu": "Star Beach",
+            "ro": "Star Beach",
+            "en": "Star Beach"
+          },
+          "coords": [
+            25.404634,
+            35.30869
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie im goldenen Sand und genießen Sie die Energie dieses Strandes, aber bringen Sie eigene Handtücher und Sonnencreme mit, um Kosten zu sparen.",
+            "hu": "Pihenjen az aranyhomokos parton és élvezze az élénk strand energiáját, de hozzon saját törölközőt és naptejet, hogy elkerülje a magas bérleti díjakat.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje pline de energie, dar aduceți propriile prosoape și loțiuni solare pentru a evita prețurile ridicate locale.",
+            "en": "Relax on the golden sands and enjoy the energetic vibe of this lively beach park, but bring your own towels and sunscreen to avoid paying premium resort prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Lychnostatis",
+            "hu": "Lychnostatis Múzeum",
+            "ro": "Muzeul Lychnostatis",
+            "en": "Museum Lychnostatis"
+          },
+          "coords": [
+            25.411224,
+            35.306362
+          ],
+          "category": "museum",
+          "arrive_at": "16:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kretische Kultur in wunderschön rekonstruierten Inselhäusern und fragen Sie das Personal nach den interaktiven Workshops im Innenhof.",
+            "hu": "Ismerje meg a krétai kultúrát a gyönyörűen rekonstruált szigeti házakon keresztül, és kérdezze a barátságos személyzetet az udvaron tartott interaktív műhelyekről.",
+            "ro": "Explorați cultura cretană prin intermediul caselor insulare frumos reconstruite și întrebați personalul amabil despre atelierele interactive din curtea interioară.",
+            "en": "Explore traditional Cretan culture through beautifully reconstructed island homes, and ask the friendly staff about the interactive workshops held in the courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Museum für ländliches Leben, um das kretische Erbe zu erkunden, und besuchen Sie danach das Aquaworld Aquarium.\n\nMittags fahren Sie zum Sarakino-Brunnen und weiter zur fotogenen Küstenkirche Agios Nikolaos.\n\nNachmittags führt der Weg zum belebten Star Beach für eine entspannte Pause.\n\nAbends beenden Sie die Tour im traditionellen Ambiente des Museums Lychnostatis.",
+        "hu": "Kerekezzen el a Vidéki Élet Múzeumához a krétai örökség felfedezésére, majd guruljon le a partra az Aquaworld Akváriumhoz.\n\nDélben folytassa útját az ókori Sarakino szökőkúthoz, majd a tengerparti Agios Nikolaos templomhoz.\n\nDélután a kerékpárút a Star Beach élénk homokjához vezet egy kis pihenésre.\n\nEste fejezze be a napot a Lychnostatis Múzeum gyönyörű, hagyományos udvarainak bejárásával.",
+        "ro": "Pedalați dimineața spre Muzeul Vieții Rurale pentru o introducere istorică, apoi coborâți spre Acvariul Aquaworld.\n\nLa prânz, mergeți spre Fântâna antică Sarakino și biserica Agios Nikolaos de pe coastă.\n\nDupă-amiaza, traseul vă duce la nisipurile vibrante de la Star Beach pentru relaxare.\n\nSeara, încheiați plimbarea admirând arhitectura tradițională la Muzeul Lychnostatis.",
+        "en": "Cycle out to the Museum of Rural Life for an immersive start, exploring the agricultural heritage of Crete before pedaling to Aquaworld Aquarium.\n\nMidday: Continue your ride past the ancient Sarakino Fountain, then reach the deeply photogenic seaside church of Agios Nikolaos.\n\nAfternoon: Enjoy a well-deserved break by the crystal-clear waters of Star Beach.\n\nEvening: Finish at Museum Lychnostatis."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:42",
+      "total_km": 7.61,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für ländliches Leben",
+            "hu": "Vidéki Élet Múzeuma",
+            "ro": "Muzeul Vieții Rurale",
+            "en": "Museum of Rural Life"
+          },
+          "coords": [
+            25.384936,
+            35.307392
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesem Freilichtmuseum authentische Agrargeschichte, wofür festes Schuhwerk auf den unebenen Steinwegen der Anlage dringend empfohlen wird.",
+            "hu": "Utazzon vissza az időben és tapasztalja meg a hiteles mezőgazdasági történelmet ebben a szabadtéri múzeumban, ahol az egyenetlen kőutakon zárt cipő viselése ajánlott.",
+            "ro": "Întoarceți-vă în timp pentru a experimenta istoria agricolă autentică la acest muzeu în aer liber, unde încălțămintea robustă este esențială pe cărările pietruite.",
+            "en": "Step back in time to experience authentic agricultural history at this outdoor museum, where sturdy walking shoes are highly recommended for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Saradari",
+            "hu": "Saradari",
+            "ro": "Saradari",
+            "en": "Saradari"
+          },
+          "coords": [
+            25.385519,
+            35.331062
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.63,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare, flache Wasser dieser geschützten Felsbuchten, aber kommen Sie früh, um sich einen der begehrten Plätze am Kieselstrand zu sichern.",
+            "hu": "Élvezze a védett, sziklás öblök kristálytiszta, sekély vizét, de érkezzen kora reggel, hogy biztosan találjon egy kényelmes helyet a kis kavicsos strandon.",
+            "ro": "Bucurați-vă de apele cristaline și puțin adânci ale acestor golfuri stâncoase adăpostite, dar veniți devreme pentru a prinde un loc confortabil pe plaja cu pietriș.",
+            "en": "Enjoy the crystal-clear, shallow waters of these sheltered rocky coves, but arrive early in the morning to secure a comfortable spot on the small pebble beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserpark",
+            "hu": "Aquapark",
+            "ro": "Parc acvatic",
+            "en": "Water park"
+          },
+          "coords": [
+            25.383817,
+            35.324177
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich in aufregende Rutschen und Strömungskanäle dieses Wasserparks und mieten Sie gleich am Eingang ein sicheres Schließfach für Ihre Wertsachen.",
+            "hu": "Csobbanjon az izgalmas csúszdákon és a lassan csörgedező folyókon, de a bejáratnál ne felejtsen el biztonságos szekrényt bérelni értékei védelme érdekében.",
+            "ro": "Scufundați-vă în toboganele palpitante și râurile lente ale acestui parc acvatic, neuitând să închiriați un dulap sigur la intrare pentru a vă proteja bunurile.",
+            "en": "Dive into thrilling slides and lazy rivers at this expansive aquatic destination, remembering to rent a secure locker upon entry to keep your valuables safe all day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarakino-Brunnen",
+            "hu": "Sarakino szökőkút",
+            "ro": "Fântâna Sarakino",
+            "en": "Sarakino Fountain"
+          },
+          "coords": [
+            25.391706,
+            35.319902
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Bewundern Sie die römischen Mosaike, die diesen antiken Brunnen schmücken, und kommen Sie früh, um die Details im weichen Licht ohne harte Schatten zu fotografieren.",
+            "hu": "Csodálja meg az ősi szökőkutat díszítő bonyolult római mozaikokat, és érkezzen korán, hogy a részleteket még a déli, erős napfény előtt lencsevégre kaphassa.",
+            "ro": "Admirați mozaicurile romane complexe care decorează această fântână antică și ajungeți devreme pentru a fotografia detaliile înainte de a apărea umbrele dure.",
+            "en": "Marvel at the intricate Roman mosaics decorating this ancient fountain, and arrive early to photograph the details before the harsh midday sun creates shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            25.404171,
+            35.310618
+          ],
+          "category": "historical",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.54,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Küstenkirche mit Meerblick und respektieren Sie die Bräuche durch angemessene, bedeckende Kleidung.",
+            "hu": "Élvezze a tengerre néző, festői tengerparti templom nyugodt hangulatát, és tartsa tiszteletben a helyi szokásokat azzal, hogy szerény öltözékben lép be.",
+            "ro": "Bucurați-vă de atmosfera senină a acestei biserici pitorești de pe coastă și respectați obiceiurile locale purtând o ținută decentă înainte de a intra.",
+            "en": "Take in the serene atmosphere of this picturesque coastal church overlooking the sea, and respect local customs by dressing modestly before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Lychnostatis",
+            "hu": "Lychnostatis Múzeum",
+            "ro": "Muzeul Lychnostatis",
+            "en": "Museum Lychnostatis"
+          },
+          "coords": [
+            25.411224,
+            35.306362
+          ],
+          "category": "museum",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kretische Kultur in wunderschön rekonstruierten Inselhäusern und fragen Sie das Personal nach den interaktiven Workshops im Innenhof.",
+            "hu": "Ismerje meg a krétai kultúrát a gyönyörűen rekonstruált szigeti házakon keresztül, és kérdezze a barátságos személyzetet az udvaron tartott interaktív műhelyekről.",
+            "ro": "Explorați cultura cretană prin intermediul caselor insulare frumos reconstruite și întrebați personalul amabil despre atelierele interactive din curtea interioară.",
+            "en": "Explore traditional Cretan culture through beautifully reconstructed island homes, and ask the friendly staff about the interactive workshops held in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Nana Water Park",
+            "hu": "Nana Water Park",
+            "ro": "Nana Water Park",
+            "en": "Nana Water Park"
+          },
+          "coords": [
+            25.420783,
+            35.301761
+          ],
+          "category": "recreational",
+          "arrive_at": "17:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Erleben Sie familienfreundlichen Wasserspaß mit vielfältigen Becken, und holen Sie sich Snacks außerhalb der Stoßzeiten, um lange Warteschlangen zu vermeiden.",
+            "hu": "Tapasztalja meg a családbarát vízi szórakozást a változatos medencékkel, és vásároljon rágcsálnivalót a csúcsidőn kívül, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Experimentați distracția acvatică pentru familie cu piscine variate și luați o gustare în afara orelor de vârf pentru a evita cozile lungi din timpul prânzului.",
+            "en": "Experience family-friendly aquatic fun with varied pools and thrilling drops, and grab a quick snack during off-peak hours to avoid the lengthy lunchtime queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Museum für ländliches Leben und weiter zu den ruhigen Buchten von Saradari.\n\nMittags bietet der Wasserpark aufregende Rutschen, gefolgt von einem kurzen Stopp am historischen Sarakino-Brunnen.\n\nNachmittags fahren Sie zur Küstenkirche Agios Nikolaos und erkunden das traditionelle Museum Lychnostatis.\n\nAbends erwartet Sie zum Abschluss noch mehr Spaß im Nana Water Park.",
+        "hu": "Vezessen a Vidéki Élet Múzeumához, majd irány Saradari festői, védett öbleinek tiszta vize.\n\nDélben a helyi Aquapark nyújt izgalmas csúszdázást, majd tegyen egy rövid megállót a Sarakino szökőkútnál.\n\nDélután látogasson el az Agios Nikolaos templomhoz és a hagyományos Lychnostatis Múzeumhoz.\n\nEste a Nana Water Park medencéi nyújtanak tökéletes befejezést a nap lezárásaként.",
+        "ro": "Conduceți spre Muzeul Vieții Rurale pentru istoria agricolă, apoi spre golfurile liniștite din Saradari.\n\nLa prânz, parcul acvatic oferă distracție cu adrenalină, urmat de o scurtă oprire la Fântâna istorică Sarakino.\n\nDupă-amiaza vizitați biserica Agios Nikolaos și muzeul tradițional Lychnostatis.\n\nSeara, relaxați-vă peisajul cu distracția acvatică de la Nana Water Park.",
+        "en": "Morning: Drive to the Museum of Rural Life to delve into traditional farming history, then cruise up to the scenic and sheltered coves of Saradari.\n\nMidday: Hop into the car and visit the local Water Park, followed by a quick stop to photograph the historic Sarakino Fountain.\n\nAfternoon: Drive along the coast to Agios Nikolaos church and Museum Lychnostatis.\n\nEvening: Wrap up at Nana Water Park."
+      }
+    }
+  }
+}

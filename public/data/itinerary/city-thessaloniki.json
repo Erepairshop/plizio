@@ -1,0 +1,451 @@
+{
+  "city_id": "city-thessaloniki",
+  "anchor": {
+    "name": "Thessaloniki",
+    "coords": [
+      22.9444,
+      40.6401
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Giahoudi Haman Türkisches Bad",
+            "hu": "Giahoudi Haman Török Fürdő",
+            "ro": "Baia Turcească Giahoudi Haman",
+            "en": "Giahoudi Haman Turkish Bath"
+          },
+          "coords": [
+            22.940761,
+            40.634652
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Architektur dieses historischen osmanischen Bades, das an die multikulturelle Vergangenheit erinnert, und kommen Sie früh zum ungestörten Fotografieren.",
+            "hu": "Fedezze fel ennek a történelmi oszmán fürdőnek a lenyűgöző építészetét, amely a város multikulturális múltját őrzi, és érkezzen korán, hogy zavartalanul fotózhasson.",
+            "ro": "Descoperiți arhitectura impresionantă a acestei băi otomane istorice, care amintește de trecutul multicultural al orașului, și veniți devreme pentru a fotografia detaliile în liniște.",
+            "en": "Discover the impressive architecture of this historical Ottoman bath, echoing the city's multicultural past, and arrive early to photograph the intricate details without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romanum",
+            "hu": "Római Fórum",
+            "ro": "Forumul Roman",
+            "en": "Romaiki Agora"
+          },
+          "coords": [
+            22.945874,
+            40.637703
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen des antiken Forums, das einst das pulsierende Herz der Stadt war, und tragen Sie bequeme Schuhe für das sehr unebene Gelände.",
+            "hu": "Fedezze fel az ókori fórum jól megőrzött romjait, amely egykor a város lüktető szíve volt, és viseljen kényelmes cipőt az egyenetlen, sziklás terep miatt.",
+            "ro": "Explorați ruinele bine conservate ale forumului antic, odinioară inima pulsantă a orașului, și purtați încălțăminte confortabilă pentru a naviga în siguranță pe terenul neregulat.",
+            "en": "Explore the well-preserved ruins of the ancient Roman Forum, once the pulsating heart of the city, and wear comfortable shoes to navigate the highly uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Hagia Sophia",
+            "hu": "Hagia Szophia",
+            "ro": "Hagia Sofia",
+            "en": "Hagia Sophia"
+          },
+          "coords": [
+            22.94699,
+            40.632803
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Mosaike dieser byzantinischen Kirche, die zum UNESCO-Weltkulturerbe gehört, und achten Sie darauf, beim Betreten angemessene Kleidung zu tragen.",
+            "hu": "Csodálja meg ennek az UNESCO Világörökség részét képező bizánci templomnak a pompás mozaikjait, és ügyeljen a megfelelő, tiszteletteljes öltözékre a belépéskor.",
+            "ro": "Admirați mozaicurile magnifice ale acestei biserici bizantine, parte a patrimoniului mondial UNESCO, și asigurați-vă că purtați o ținută decentă și respectuoasă la intrare.",
+            "en": "Admire the magnificent mosaics of this Byzantine church, a recognized UNESCO World Heritage site, and make sure to wear respectful, modest clothing when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Makedonischen Kampfes",
+            "hu": "Macedón Küzdelem Múzeuma",
+            "ro": "Muzeul Luptei Macedonene",
+            "en": "Museum of the Macedonian Struggle"
+          },
+          "coords": [
+            22.943632,
+            40.630849
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die turbulente moderne Geschichte Griechenlands anhand faszinierender Exponate ein und nehmen Sie sich ausreichend Zeit für die detaillierten Erklärungen.",
+            "hu": "Merüljön el Görögország viharos modern történelmében a lenyűgöző kiállítási tárgyak segítségével, és szánjon elég időt a részletes angol nyelvű magyarázatok elolvasására.",
+            "ro": "Pătrundeți în istoria modernă turbulentă a Greciei prin intermediul exponatelor fascinante și rezervați-vă timp generos pentru explicațiile detaliate disponibile în muzeu.",
+            "en": "Dive into the turbulent modern history of Greece through fascinating artifacts and exhibits, and allocate plenty of time to read the highly detailed descriptive panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeriusbogen",
+            "hu": "Galerius diadalív",
+            "ro": "Arcul lui Galerius",
+            "en": "Arch of Galerius"
+          },
+          "coords": [
+            22.951805,
+            40.6322
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die detailreichen Reliefs dieses römischen Triumphbogens, ein Symbol imperialer Macht, und nutzen Sie das weiche Nachmittagslicht für die besten Fotos der Skulpturen.",
+            "hu": "Csodálja meg e római diadalív részletgazdag domborműveit, a birodalmi hatalom szimbólumát, és használja ki a lágy délutáni fényeket a szobrok megörökítéséhez.",
+            "ro": "Admirați reliefurile detaliate ale acestui arc de triumf roman, un simbol al puterii imperiale, și profitați de lumina blândă a după-amiezii pentru cele mai bune fotografii.",
+            "en": "Marvel at the detailed reliefs of this Roman triumphal arch, a lasting symbol of imperial power, and utilize the soft afternoon light for the best photographs of the sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Weißer Turm von Thessaloniki",
+            "hu": "Thesszaloniki Fehér Tornya",
+            "ro": "Turnul Alb din Salonic",
+            "en": "White Tower of Thessaloniki"
+          },
+          "coords": [
+            22.94838,
+            40.626327
+          ],
+          "category": "castle",
+          "arrive_at": "16:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem ikonischen Wahrzeichen aus, das über die Uferpromenade wacht, und kaufen Sie Ihr Ticket vorab online, um Warteschlangen zu umgehen.",
+            "hu": "Élvezze a panorámát ebből az ikonikus, a tengerparti sétányt őrző épületből, és vegye meg a jegyét előre online, hogy elkerülje a rendkívül hosszú sorban állást.",
+            "ro": "Bucurați-vă de vederea panoramică de pe acest monument emblematic care veghează asupra promenadei și cumpărați-vă biletul online în avans pentru a evita cozile lungi.",
+            "en": "Enjoy panoramic views from this iconic landmark that watches over the waterfront promenade, and purchase your ticket online in advance to bypass the notoriously long queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen starten Sie bei den historischen Thermen und dem römischen Forum, wo Sie in die antike Geschichte eintauchen. Mittags bewundern Sie die byzantinische Pracht der Hagia Sophia und erkunden die reiche Vergangenheit im Museum. Der Nachmittag führt Sie zum Galeriusbogen, einem wahren Meisterwerk. Den Abend lassen Sie am Weißen Turm mit herrlichem Blick auf die lebhafte Küste ausklingen.",
+        "hu": "Reggel a történelmi fürdőknél és a római fórumnál kezd, ahol elmerülhet az ókori történelemben. Délben a Hagia Sophia bizánci pompáját és a múzeum gazdag múltját csodálhatja meg. A délután a Galerius diadalívhez vezet, amely egy igazi római mestermű. Az estét a Fehér Toronynál zárja, ahonnan csodálatos kilátás nyílik az élettel teli, hangulatos tengerparti sétányra.",
+        "ro": "Dimineața începe la băile istorice și la forumul roman, unde vă cufundați în istoria antică. La prânz admirați splendoarea bizantină a Hagia Sophia și explorați trecutul bogat la muzeu. După-amiaza vă conduce la Arcul lui Galerius, o adevărată capodoperă romană. Seara se încheie la Turnul Alb, cu o vedere minunată asupra promenadei pline de viață de pe litoral.",
+        "en": "Start your morning at the historic baths and the Roman Forum, immersing yourself in ancient history. Midday invites you to admire the Byzantine splendor of Hagia Sophia and explore the rich past at the museum. The afternoon leads you to the Arch of Galerius, a true Roman masterpiece. Conclude your evening at the White Tower, enjoying magnificent views of the vibrant waterfront promenade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Staatliches Konservatorium Thessaloniki",
+            "hu": "Thesszaloniki Állami Konzervatórium",
+            "ro": "Conservatorul de Stat din Salonic",
+            "en": "State Conservatory of Thessaloniki"
+          },
+          "coords": [
+            22.937737,
+            40.637699
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende historische Gebäude, das einst als Bank fungierte und heute musikalische Talente fördert, und lauschen Sie den Klängen im Innenhof.",
+            "hu": "Tekintse meg ezt a lenyűgöző történelmi épületet, amely egykor bankként működött, ma zenei tehetségeket gondoz, és hallgassa a dallamokat a belső udvaron.",
+            "ro": "Priviți această clădire istorică impresionantă, fostă bancă ce sprijină astăzi talentele muzicale, și ascultați melodiile care răsună adesea din curtea interioară.",
+            "en": "Admire the impressive historical building, once a bustling bank and now nurturing musical talent, and pause in the courtyard to listen to the echoes of live practice sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum Romanum",
+            "hu": "Római Fórum",
+            "ro": "Forumul Roman",
+            "en": "Romaiki Agora"
+          },
+          "coords": [
+            22.945874,
+            40.637703
+          ],
+          "category": "historical",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen dieses antiken Marktplatzes, der einst das Zentrum des öffentlichen Lebens war, und stellen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab.",
+            "hu": "Sétáljon végig ennek az ókori piactérnek a romjain, amely egykor a közélet központja volt, és parkolja le kerékpárját biztonságosan a kijelölt tárolóknál.",
+            "ro": "Plimbați-vă printre ruinele acestei piețe antice, care a fost cândva centrul vieții publice, și parcați-vă bicicleta în siguranță la suporturile special amenajate din apropiere.",
+            "en": "Stroll through the ruins of this ancient marketplace that was once the bustling center of public life, and safely lock your bike at the designated racks just outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeriusbogen",
+            "hu": "Galerius diadalív",
+            "ro": "Arcul lui Galerius",
+            "en": "Arch of Galerius"
+          },
+          "coords": [
+            22.951805,
+            40.6322
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Skulpturen, die den römischen Sieg feiern, und nutzen Sie den nahegelegenen Fußgängerbereich für eine entspannte Pause fernab des Verkehrs.",
+            "hu": "Nézze meg a római győzelmet ünneplő művészi szobrokat, és használja a közeli sétálóutcát egy pihentető szünetre, távol a forgalom zajától.",
+            "ro": "Priviți sculpturile artistice care celebrează victoria romană și folosiți zona pietonală din apropiere pentru o pauză relaxantă, departe de zgomotul traficului intens.",
+            "en": "View the ornate sculptures celebrating Roman victory, and take advantage of the nearby pedestrian-only zones for a relaxing break away from the heavy city traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Teloglion-Stiftung für Kunst",
+            "hu": "Teloglion Művészeti Alapítvány",
+            "ro": "Fundația de Artă Teloglion",
+            "en": "Teloglion Foundation of Art A.U.Th."
+          },
+          "coords": [
+            22.960703,
+            40.632632
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Gebäude faszinierende zeitgenössische Kunstausstellungen der Universität und überprüfen Sie vorab die Website auf aktuelle Sonderausstellungen.",
+            "hu": "Fedezze fel az egyetem modern épületében található lenyűgöző kortárs művészeti kiállításokat, és előzetesen ellenőrizze a weboldalt az aktuális tárlatok miatt.",
+            "ro": "Descoperiți expozițiile fascinante de artă contemporană ale universității în această clădire modernă și verificați site-ul în prealabil pentru expozițiile temporare actuale.",
+            "en": "Discover fascinating contemporary art exhibitions hosted by the university in this modern building, and check their website beforehand for current temporary galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Aristoteleion",
+            "hu": "Aristoteleion",
+            "ro": "Aristoteleion",
+            "en": "Aristoteleion"
+          },
+          "coords": [
+            22.949731,
+            40.626502
+          ],
+          "category": "cultural",
+          "arrive_at": "14:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die kulturelle Energie an diesem bekannten Theater, das als Zentrum der Künste gilt, und machen Sie einen entspannten Spaziergang über den großen Platz.",
+            "hu": "Érezze a kulturális energiát ennél az ismert színháznál, amely az előadóművészetek központja, és tegyen egy pihentető sétát a közvetlenül mellette fekvő nagy téren.",
+            "ro": "Simțiți energia culturală la acest teatru renumit, considerat centrul artelor spectacolului, și faceți o plimbare relaxantă prin marea piață adiacentă.",
+            "en": "Feel the cultural energy at this renowned theater, widely considered the center of performing arts, and take a leisurely stroll across the adjacent grand public square."
+          }
+        },
+        {
+          "name": {
+            "de": "Weißer Turm von Thessaloniki",
+            "hu": "Thesszaloniki Fehér Tornya",
+            "ro": "Turnul Alb din Salonic",
+            "en": "White Tower of Thessaloniki"
+          },
+          "coords": [
+            22.94838,
+            40.626327
+          ],
+          "category": "castle",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den historischen Mauern dieses maritimen Turms beeindrucken und nutzen Sie die wunderbaren Radwege an der Promenade direkt vor der Tür.",
+            "hu": "Hagyja, hogy lenyűgözzék ennek a tengeri toronynak a történelmi falai, és használja ki a kiváló, közvetlenül az ajtó előtt húzódó parti kerékpárutakat.",
+            "ro": "Lăsați-vă impresionați de zidurile istorice ale acestui turn maritim și folosiți pistele excelente de biciclete de pe promenada situată chiar în fața ușii.",
+            "en": "Be impressed by the historical stone walls of this maritime tower, and make full use of the excellent, safe coastal bike paths located right outside its heavy doors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt rhythmisch am Staatskonservatorium, bevor Sie zu den antiken Steinen des römischen Forums radeln. Mittags beeindruckt der Galeriusbogen mit seinen feinen Details. Nachmittags erwartet Sie moderne Kunst in der Teloglion-Stiftung, gefolgt vom kulturellen Flair am Aristoteleion. Der Ausflug endet klassisch am Weißen Turm mit dem weiten Blick auf das ruhige Mittelmeer.",
+        "hu": "A nap ritmikusan indul az Állami Konzervatóriumnál, mielőtt a római fórum ókori köveihez kerékpározik. Délben a Galerius diadalív nyűgöz le finom részleteivel. Délután modern művészet várja a Teloglion Alapítványnál, majd az Aristoteleion kulturális hangulata. A kirándulás a Fehér Toronynál ér véget, ahonnan széles kilátás nyílik a nyugodt Földközi-tengerre.",
+        "ro": "Ziua începe ritmic la Conservatorul de Stat, înainte de a pedala spre pietrele antice ale forumului roman. La prânz, Arcul lui Galerius impresionează cu detaliile sale fine. După-amiaza vă așteaptă arta modernă la Fundația Teloglion, urmată de atmosfera culturală de la Aristoteleion. Excursia se termină clasic la Turnul Alb, cu vederea vastă asupra liniștitei Mării Mediterane.",
+        "en": "The day starts rhythmically at the State Conservatory before you pedal to the ancient stones of the Roman Forum. Midday brings you to the intricately detailed Arch of Galerius. In the afternoon, modern art awaits at the Teloglion Foundation, followed by the cultural flair of the Aristoteleion. Your ride ends classically at the White Tower with vast views of the Mediterranean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Zeitenlik",
+            "hu": "Zeitenlik Múzeum",
+            "ro": "Muzeul Zeitenlik",
+            "en": "Moyseio Zeitenlik"
+          },
+          "coords": [
+            22.93416,
+            40.654948
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser ergreifenden Gedenkstätte für die Gefallenen des Ersten Weltkriegs Ihren Respekt und bringen Sie Blumen mit, um sie an den stillen Gräbern niederzulegen.",
+            "hu": "Tiszelegjen az első világháború áldozatai előtt ezen a megható emlékhelyen, és hozzon magával virágot, hogy elhelyezhesse az egykori katonák csendes sírjainál.",
+            "ro": "Aduceți un omagiu victimelor Primului Război Mondial la acest memorial emoționant și aduceți flori cu dumneavoastră pentru a le așeza pe mormintele tăcute ale soldaților.",
+            "en": "Pay your respects to the fallen soldiers of World War I at this poignant memorial site, and bring a small bouquet of flowers to lay at the deeply moving, quiet graves."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatliches Museum für Zeitgenössische Kunst",
+            "hu": "Állami Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Stat de Artă Contemporană",
+            "en": "Kratiko Moyseio Sygchronis Technis"
+          },
+          "coords": [
+            22.93161,
+            40.658175
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Sammlung russischer Avantgarde in diesem modernen Museum, das eine einzigartige Perspektive bietet, und nutzen Sie die Schließfächer für Ihre Taschen.",
+            "hu": "Fedezze fel az orosz avantgárd gazdag gyűjteményét ebben a modern múzeumban, amely egyedi perspektívát nyújt, és használja a zárható szekrényeket a táskái számára.",
+            "ro": "Descoperiți colecția bogată de avangardă rusă din acest muzeu modern, care oferă o perspectivă unică, și folosiți dulapurile sigure disponibile pentru a vă lăsa gențile.",
+            "en": "Discover the incredibly rich collection of Russian avant-garde art in this modern museum, and use the convenient on-site lockers to safely store your heavy day bags."
+          }
+        },
+        {
+          "name": {
+            "de": "Vlatadon-Kloster",
+            "hu": "Vlatadon kolostor",
+            "ro": "Mănăstirea Vlatadon",
+            "en": "Vlatadon Monastery"
+          },
+          "coords": [
+            22.954373,
+            40.641887
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die grandiosen Ausblicke über die Stadt von diesem alten Kloster aus und respektieren Sie die Stille bei Ihrem Besuch.",
+            "hu": "Élvezze a békés atmoszférát és a lenyűgöző kilátást a városra ebből a régi kolostorból, és látogatása során tartsa tiszteletben az itt élő szerzetesek csendjét.",
+            "ro": "Bucurați-vă de atmosfera pașnică și de priveliștile grandioase asupra orașului de la această veche mănăstire și respectați liniștea absolută în timpul vizitei dumneavoastră.",
+            "en": "Enjoy the deeply peaceful atmosphere and the grandiose views over the entire city from this old monastery, remembering to respect the silence of the practicing monks."
+          }
+        },
+        {
+          "name": {
+            "de": "Heptapyrgio",
+            "hu": "Heptapyrgio",
+            "ro": "Heptapyrgio",
+            "en": "Heptapyrgio"
+          },
+          "coords": [
+            22.962037,
+            40.644218
+          ],
+          "category": "castle",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Mauern dieser byzantinischen und osmanischen Festung, die einst als Gefängnis diente, und kommen Sie bei Sonnenuntergang für magisches Licht.",
+            "hu": "Fedezze fel ennek a bizánci és oszmán erődnek a masszív falait, amely egykor börtönként is szolgált, és érkezzen naplementekor a varázslatos fotós fényekért.",
+            "ro": "Explorați zidurile masive ale acestei fortărețe bizantine și otomane, care a servit cândva drept închisoare, și veniți la apus pentru o lumină absolut magică.",
+            "en": "Explore the massive stone walls of this Byzantine and Ottoman fortress that once served as a prison, and arrive just before sunset to experience truly magical light."
+          }
+        },
+        {
+          "name": {
+            "de": "Weißer Turm von Thessaloniki",
+            "hu": "Thesszaloniki Fehér Tornya",
+            "ro": "Turnul Alb din Salonic",
+            "en": "White Tower of Thessaloniki"
+          },
+          "coords": [
+            22.94838,
+            40.626327
+          ],
+          "category": "castle",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem monumentalen Turm und parken Sie Ihr Auto in einem der kostenpflichtigen Parkhäuser in der Nähe, da Straßenparkplätze selten sind.",
+            "hu": "Fejezze be az utat ennél a monumentális toronynál, és parkoljon a közeli fizetős parkolóházak egyikében, mivel az utcai parkolóhelyek rendkívül ritkák.",
+            "ro": "Încheiați-vă călătoria la acest turn monumental și parcați mașina într-una dintre parcările cu plată din apropiere, deoarece locurile de parcare pe stradă sunt foarte rare.",
+            "en": "End your drive at this monumental defensive tower, and be sure to park your car in one of the nearby paid parking garages, as street parking is exceedingly rare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem besinnlichen Besuch am Zeitenlik, gefolgt von der lebhaften russischen Avantgarde im staatlichen Kunstmuseum. Gegen Mittag fahren Sie hinauf zum Vlatadon-Kloster, wo Sie Ruhe und eine tolle Aussicht finden. Am Nachmittag erkunden Sie die alten Mauern des Heptapyrgio. Zum Abschluss fahren Sie hinab an die Küste zum markanten Weißen Turm.",
+        "hu": "A nap a Zeitenlik csendes tiszteletadásával indul, majd az állami művészeti múzeum élénk orosz avantgárdja következik. Dél körül a Vlatadon kolostorhoz autózik, ahol nyugalom és remek kilátás várja. Délután a Heptapyrgio ősi falait fedezi fel a dombtetőn. Zárásként pedig leereszkedik a partra, a város jelképének számító, tengerre néző Fehér Toronyhoz.",
+        "ro": "Ziua dvs. începe cu o vizită contemplativă la Zeitenlik, urmată de avangarda rusă vibrantă la muzeul de artă. În jurul prânzului, conduceți până la Mănăstirea Vlatadon, unde găsiți liniște și o priveliște minunată. După-amiaza explorați zidurile vechi ale Heptapyrgio. În încheiere, coborâți spre coastă pentru a vizita Turnul Alb, emblema incontestabilă a orașului.",
+        "en": "Your day begins with a contemplative visit to Zeitenlik, followed by vibrant Russian avant-garde art at the state museum. Around midday, drive up to Vlatadon Monastery, where tranquility and stunning views await. In the afternoon, you explore the ancient walls of Heptapyrgio. Finally, descend to the beautiful coastline to admire the iconic White Tower at sunset."
+      }
+    }
+  }
+}

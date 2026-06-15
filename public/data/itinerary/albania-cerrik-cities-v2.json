@@ -1,0 +1,520 @@
+{
+  "city_id": "albania-cerrik-cities-v2",
+  "anchor": {
+    "name": "Cërrik",
+    "coords": [
+      19.9753,
+      41.0319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 9.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kashaj-See",
+            "hu": "Kashaj-tó",
+            "ro": "Lacul Kashaj",
+            "en": "Lake Kashaj"
+          },
+          "coords": [
+            19.967039,
+            40.965447
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 85,
+          "hop_from_prev_min": 112,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Wanderung am Kashaj-See, um die unberührten morgendlichen Spiegelungen zu genießen, also bringen Sie bequeme wasserdichte Schuhe mit.",
+            "hu": "Kezdje a túrát a Kashaj-tónál, hogy élvezze a reggeli vízi tükröződéseket, ezért mindenképpen vízálló cipőt hozzon magával a sáros partokhoz.",
+            "ro": "Începeți drumeția la Lacul Kashaj pentru a admira reflexiile matinale pe apă, așa că aduceți încălțăminte impermeabilă pentru malurile noroioase.",
+            "en": "Start your hike at Lake Kashaj to enjoy the pristine morning reflections on the water, so bring comfortable waterproof shoes for the muddy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulzës-See",
+            "hu": "Ulzës-tó",
+            "ro": "Lacul Ulzës",
+            "en": "Lake Ulzës"
+          },
+          "coords": [
+            19.96916,
+            40.968493
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zum Ulzës-See, dessen ruhige Umgebung ideal für ein Picknick ist, packen Sie also lokale Snacks aus Cërrik ein.",
+            "hu": "Egy rövid sétával eléri az Ulzës-tavat, amelynek nyugodt környezete ideális egy csendes piknikhez, így csomagoljon be helyi harapnivalókat Cërrikből.",
+            "ro": "O scurtă plimbare vă duce la Lacul Ulzës, perfect pentru un picnic liniștit, așa că luați cu voi câteva gustări locale cumpărate din Cërrik.",
+            "en": "A short stroll brings you to Lake Ulzës, known for its tranquil environment which is ideal for a quiet picnic, so pack some local snacks from Cërrik."
+          }
+        },
+        {
+          "name": {
+            "de": "Katundit-See",
+            "hu": "Katundit-tó",
+            "ro": "Lacul Katundit",
+            "en": "Lake Katundit"
+          },
+          "coords": [
+            19.973116,
+            40.965221
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie weiter zum Katundit-See, um die vielfältige Wasserflora der Region zu bewundern, wofür sich eine Pflanzenbestimmungs-App als nützlich erweist.",
+            "hu": "Folytassa útját a Katundit-tóhoz, hogy megcsodálja a régió változatos vízi növényvilágát, amihez érdemes egy növényhatározó alkalmazást is letöltenie.",
+            "ro": "Continuați spre Lacul Katundit pentru a admira flora acvatică diversă a regiunii, fiind înțelept să aveți la îndemână o aplicație de identificare.",
+            "en": "Continue to Lake Katundit to admire the diverse aquatic flora native to the region, making it wise to carry a field guide or plant identification app."
+          }
+        },
+        {
+          "name": {
+            "de": "Miloshit-See",
+            "hu": "Miloshit-tó",
+            "ro": "Lacul Miloshit",
+            "en": "Lake Miloshit"
+          },
+          "coords": [
+            19.979155,
+            40.963874
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die sanften Hänge um den Miloshit-See für hervorragende Panoramafotos, also halten Sie Ihr Weitwinkelobjektiv für die weite Landschaft bereit.",
+            "hu": "Fedezze fel a Miloshit-tó körüli lankákat a kiváló panorámaképekért, ezért készítse elő a nagylátószögű objektívet a kiterjedt táj megörökítéséhez.",
+            "ro": "Explorați pantele blânde din jurul Lacului Miloshit pentru fotografii panoramice excelente, așa că pregătiți obiectivul superangular pentru peisaj.",
+            "en": "Explore the gentle slopes around Lake Miloshit for excellent panoramic photos, so prepare your wide-angle lens for capturing the expansive landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bicit-See",
+            "hu": "Bicit-tó",
+            "ro": "Lacul Bicit",
+            "en": "Lake Bicit"
+          },
+          "coords": [
+            19.978618,
+            40.960701
+          ],
+          "category": "natural",
+          "arrive_at": "16:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Wanderung am Bicit-See im sanften Licht des späten Nachmittags, und vergessen Sie nicht, Insektenschutzmittel aufzutragen.",
+            "hu": "Zárja túráját a békés Bicit-tónál a késő délutáni lágy fényekben, és mindenképpen használjon rovarriasztót a vízpart közelében a kényelem érdekében.",
+            "ro": "Încheiați drumeția la serena apă a Lacului Bicit în lumina blândă a după-amiezii și asigurați-vă că folosiți repelent împotriva insectelor pe mal.",
+            "en": "Conclude your walk at the serene Lake Bicit as the late afternoon light softens the views, and be sure to apply insect repellent near the water edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag südlich von Cërrik am Kashaj-See und atmen Sie die frische Morgenluft ein, während Sie das spiegelglatte Wasser betrachten. Ein perfekter Start in den Tag.\nGegen Mittag spazieren Sie zum Ulzës- und Katundit-See. Die ruhigen Wege zwischen diesen Seen bieten rustikalen Charme und eine friedliche Kulisse für ein kleines Picknick in der Natur.\nAm Nachmittag folgen Sie den Pfaden zum Miloshit-See. Die Landschaft öffnet sich und präsentiert sanfte Hügel, die von der tiefer stehenden Sonne wunderschön in Szene gesetzt werden.\nBeenden Sie Ihre Wandertour am Bicit-See. Die Abendstimmung hier ist unglaublich friedlich und bietet einen Moment der Besinnung am Wasser, bevor Sie sich auf den Rückweg machen.",
+        "hu": "Kezdje a napot Cërriktől délre a Kashaj-tónál, szívja magába a friss reggeli levegőt, miközben a tükörsima vízfelszínt figyeli. A lágy fények tökéletes indulást biztosítanak.\nDél közeledtével sétáljon az Ulzës- és a Katundit-tó felé. A csendes ösvények rusztikus bájt és békés környezetet kínálnak egy könnyed, természetben elköltött piknikhez.\nDélután kövesse a Miloshit-tóhoz vezető ösvényeket. A táj kitárul, dombokat és változatos növényvilágot tárva elénk, amelyeket a lemenő nap gyönyörűen kiemel.\nZárja a gyalogtúrát a Bicit-tónál. Az esti hangulat itt hihetetlenül békés, csendes elmélyülést kínálva a vízparton, mielőtt lassan visszaindulna a szállására.",
+        "ro": "Începeți ziua la sud de Cërrik, la Lacul Kashaj, respirând aerul proaspăt în timp ce observați suprafața apei ca o oglindă. Lumina blândă oferă un start perfect.\nSpre prânz, plimbați-vă spre Lacul Ulzës și Lacul Katundit. Cărările liniștite oferă un farmec rustic și un cadru pașnic pentru un picnic ușor, împachetat în mijlocul naturii.\nDupă-amiaza, urmați traseele spre Lacul Miloshit. Peisajul se deschide, prezentând dealuri ondulate și o floră diversă, frumos evidențiate de soarele care coboară.\nÎncheiați drumeția la Lacul Bicit. Atmosfera de seară este incredibil de senină, oferind un moment de reflecție liniștită la malul apei înainte de a vă întoarce încet.",
+        "en": "Begin your day south of Cërrik at Lake Kashaj, breathing in the fresh morning air while observing the mirror-like water surface. The gentle morning light makes for a perfect start.\nAs midday approaches, stroll towards Lake Ulzës and Lake Katundit. The quiet paths between these lakes offer rustic charm and a peaceful setting for a light, packed picnic in nature.\nIn the afternoon, follow the trails to Lake Miloshit. The landscape opens up, presenting rolling hills and diverse flora that are beautifully highlighted by the lowering sun.\nEnd your walking tour at Lake Bicit. The evening atmosphere here is incredibly serene, offering a quiet moment of reflection by the water before you slowly make your way back."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 12.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Shalësit-Stausee",
+            "hu": "Shalësit-víztározó",
+            "ro": "Rezervorul Shalësit",
+            "en": "Shalësit Reservoir"
+          },
+          "coords": [
+            19.945421,
+            41.008448
+          ],
+          "category": "natural",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag am Shalësit-Stausee, um den lokalen Fischern zuzusehen, also halten Sie respektvollen Abstand, um sie nicht zu stören.",
+            "hu": "Kezdje a kerékpáros napot a Shalësit-víztározónál, hogy megfigyelje a helyi halászokat, de tartson tisztes távolságot a munkájuk tiszteletben tartása végett.",
+            "ro": "Începeți ziua de ciclism la Rezervorul Shalësit pentru a observa pescarii locali, așa că păstrați o distanță respectuoasă pentru a nu-i deranja.",
+            "en": "Kick off your cycling day at the Shalësit Reservoir to watch local fishermen cast their early nets, so maintain a quiet distance to respect their work."
+          }
+        },
+        {
+          "name": {
+            "de": "Xibrakës-Stausee",
+            "hu": "Xibrakës-víztározó",
+            "ro": "Rezervorul Xibrakës",
+            "en": "Xibrakës Reservoir"
+          },
+          "coords": [
+            19.929762,
+            41.011776
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zum nahegelegenen Xibrakës-Stausee, wo die dichte Vegetation viel Schatten bietet, was ihn zu einem perfekten Ort zum Wasserauffüllen macht.",
+            "hu": "Tekerjen át a közeli Xibrakës-víztározóhoz, ahol a sűrű növényzet remek árnyékot nyújt, így tökéletes helyszín a kulacsok újratöltésére a pihenés alatt.",
+            "ro": "Pedalați spre Rezervorul Xibrakës, unde vegetația densă oferă o umbră excelentă, fiind un loc perfect pentru a vă reumple sticla cu apă.",
+            "en": "Ride over to the nearby Xibrakës Reservoir where the dense surrounding vegetation offers great shade, making it a perfect spot to refill your water."
+          }
+        },
+        {
+          "name": {
+            "de": "Thatë-See",
+            "hu": "Thatë-tó",
+            "ro": "Lacul Thatë",
+            "en": "Lake Thatë"
+          },
+          "coords": [
+            19.939086,
+            40.987639
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das flache Wasser des Thatë-Sees, ein saisonales ökologisches Wunder, also parken Sie Ihr Fahrrad sicher, bevor Sie an die Ufer gehen.",
+            "hu": "Fedezze fel a Thatë-tó sekély vizeit, amely egy lenyűgöző szezonális ökológiai csoda, így zárja le biztonságosan a kerékpárt, mielőtt a partra sétál.",
+            "ro": "Descoperiți apele puțin adânci ale Lacului Thatë, o minune ecologică sezonieră, așa că asigurați-vă bicicleta înainte de a merge pe malurile moi.",
+            "en": "Discover the shallow waters of Lake Thatë, an intriguing seasonal ecological wonder, so park your bike securely before walking close to the soft banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kashtës-See",
+            "hu": "Kashtës-tó",
+            "ro": "Lacul Kashtës",
+            "en": "Lake Kashtës"
+          },
+          "coords": [
+            19.947433,
+            40.985541
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Am Kashtës-See können Sie Amphibien in ihrem natürlichen Lebensraum entlang des Schilfs beobachten, also bewegen Sie sich leise und halten Sie Ausschau.",
+            "hu": "Érkezzen a Kashtës-tóhoz, hogy kétéltűeket figyeljen meg a nádasok mentén, így mozogjon halkan, és tartsa nyitva a szemét a békák és gőték után.",
+            "ro": "Ajungeți la Lacul Kashtës pentru a observa amfibienii în habitatul lor natural, așa că mișcați-vă în liniște și căutați cu atenție broaște și tritoni.",
+            "en": "Arrive at Lake Kashtës to observe amphibians in their natural habitat along the reeds, so move quietly and keep your eyes peeled for frogs and newts."
+          }
+        },
+        {
+          "name": {
+            "de": "Godes-See",
+            "hu": "Godes-tó",
+            "ro": "Lacul Godes",
+            "en": "Lake Godes"
+          },
+          "coords": [
+            19.963473,
+            40.976958
+          ],
+          "category": "natural",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Horizont am Godes-See, der die Nachmittagssonne wunderbar einfängt, weshalb sich hier polarisierte Sonnenbrillen empfehlen.",
+            "hu": "Élvezze a tágas horizontot a Godes-tónál, amely gyönyörűen befogja a délutáni napsütést, ezért itt erősen ajánlott a polarizált napszemüveg viselete.",
+            "ro": "Bucurați-vă de orizontul larg la Lacul Godes care captează minunat soarele după-amiezii, fiind foarte recomandat să purtați ochelari polarizați.",
+            "en": "Enjoy the expansive horizon at Lake Godes which catches the afternoon sun beautifully, making it highly recommended to wear polarized sunglasses here."
+          }
+        },
+        {
+          "name": {
+            "de": "Komnecit-See",
+            "hu": "Komnecit-tó",
+            "ro": "Lacul Komnecit",
+            "en": "Lake Komnecit"
+          },
+          "coords": [
+            19.956869,
+            40.966808
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Landschaft zum Komnecit-See, einem weniger besuchten Juwel, wo Sie der Menge entfliehen und die Stille der Natur genießen können.",
+            "hu": "Tekerjen át a vidéken a Komnecit-tóhoz, egy kevésbé látogatott gyöngyszemhez, ahol elmenekülhet a tömeg elől, így csak adja át magát a természet csendjének.",
+            "ro": "Pedalați prin mediul rural spre Lacul Komnecit, o bijuterie mai puțin vizitată unde puteți scăpa de aglomerație și să îmbrățișați liniștea naturii.",
+            "en": "Pedal through the countryside to reach Lake Komnecit, a less-visited gem where you can truly escape the crowds, so embrace the silence of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Kashaj-See",
+            "hu": "Kashaj-tó",
+            "ro": "Lacul Kashaj",
+            "en": "Lake Kashaj"
+          },
+          "coords": [
+            19.967039,
+            40.965447
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route am Kashaj-See, um die goldene Stunde im ruhigen Wasser zu betrachten, und stellen Sie sicher, dass Ihre Fahrradlichter bereit sind.",
+            "hu": "Fejezze be kerékpártúráját a Kashaj-tónál a nyugodt vízben tükröződő aranyóra alatt, de ellenőrizze a kerékpárlámpáit a biztonságos visszaúthoz.",
+            "ro": "Încheiați traseul la Lacul Kashaj pentru a privi ora de aur reflectată pe apa calmă, asigurându-vă că luminile bicicletei sunt gata pentru întoarcere.",
+            "en": "Finish your cycling route at Lake Kashaj to watch the golden hour reflect perfectly on the calm water, ensuring your bike lights are ready for the ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Shalësit-Stausee. Die klare Morgenluft und der Anblick früher lokaler Fischer schaffen einen authentischen, erfrischenden Start in Ihre Tour.\nGegen Mittag radeln Sie durch die schattigen Wege in Richtung Xibrakës und Thatë-See. Die wechselnde Umgebung und saisonalen Gewässer bieten viel natürliche Faszination.\nDie Nachmittagsroute führt Sie an den ruhigen Ufern von Kashtës und Godes vorbei. Das goldene Licht auf dem Wasser ist eine hervorragende Kulisse, während Sie auf Feldwegen radeln.\nBeenden Sie den Tag auf dem Weg zum Komnecit- und Kashaj-See. Das ruhige Abendleuchten über dem Wasser bietet einen wunderschönen, lohnenden Abschluss eines langen Radtages.",
+        "hu": "A kerékpáros kaland a Shalësit-víztározónál kezdődik. A friss reggeli levegő és a korai halászok látványa autentikus, élénkítő kezdést biztosít az egész napos utazáshoz.\nDél körül tekerjen az árnyékos utakon Xibrakës és a Thatë-tó felé. A változó környezet és a szezonális vizek rengeteg természeti érdekességet kínálnak a déli felfedezéshez.\nA délutáni útvonal a Kashtës és Godes nyugodt partjai mellett halad el. A vizeken átsuhanó aranyló fény kiváló hátteret biztosít a földutakon való kerékpározáshoz.\nFejezze be a napot a Komnecit és végül a Kashaj-tó felé kanyarogva. A víz feletti békés esti ragyogás gyönyörű és hálás lezárása a nyeregben töltött hosszú napnak.",
+        "ro": "Aventura pe bicicletă începe la Rezervorul Shalësit. Aerul proaspăt matinal și vederea pescarilor timpurii creează un start autentic și revigorant pentru traseul tău.\nPână la prânz, pedalează pe potecile umbrite spre Xibrakës și Lacul Thatë. Mediul schimbător și apele sezoniere oferă multă fascinație naturală pentru explorarea de prânz.\nTraseul de după-amiază te poartă pe lângă malurile liniștite de la Kashtës și Godes. Lumina aurie de pe apă reprezintă un fundal excelent în timp ce pedalezi pe drumuri de pământ.\nÎncheie ziua mergând spre Komnecit și Lacul Kashaj. Strălucirea senină a serii peste apă oferă un final frumos și plin de satisfacții pentru o zi lungă petrecută în șa.",
+        "en": "Your cycling adventure begins at the Shalësit Reservoir. The crisp morning air and the sight of early local fishermen create an authentic, invigorating start to your ride.\nBy midday, pedal through the shaded paths toward Xibrakës and Lake Thatë. The changing environment and seasonal waters offer plenty of natural intrigue for your midday exploration.\nThe afternoon route takes you past the calm shores of Kashtës and Godes. The golden light sweeping across these waters makes for an excellent backdrop as you cycle along dirt paths.\nFinish the day weaving through the fields to Komnecit and finally Lake Kashaj. The serene evening glow over the water provides a beautiful, rewarding end to a long day on the saddle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 16.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Shalësit-Stausee",
+            "hu": "Shalësit-víztározó",
+            "ro": "Rezervorul Shalësit",
+            "en": "Shalësit Reservoir"
+          },
+          "coords": [
+            19.945421,
+            41.008448
+          ],
+          "category": "natural",
+          "arrive_at": "09:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Shalësit-Stausee, um die morgendliche Nebelstimmung zu erleben, und nutzen Sie die breiten Schotterplätze zum sicheren Parken.",
+            "hu": "Vezessen ki a Shalësit-víztározóhoz a ködös reggeli hangulat megtapasztalásához, és használja a széles kavicsos lehajtókat az autó biztonságos parkolásához.",
+            "ro": "Conduceți spre Rezervorul Shalësit pentru atmosfera cețoasă matinală și folosiți refugiile largi cu pietriș pentru a parca mașina în siguranță.",
+            "en": "Drive out to the Shalësit Reservoir to experience the misty morning atmosphere, and use the wide gravel pull-offs to park your car safely off the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Xibrakës-Stausee",
+            "hu": "Xibrakës-víztározó",
+            "ro": "Rezervorul Xibrakës",
+            "en": "Xibrakës Reservoir"
+          },
+          "coords": [
+            19.929762,
+            41.011776
+          ],
+          "category": "natural",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zum Xibrakës-Stausee mit Blick auf die bewaldeten Hügel und bringen Sie unbedingt ein Makroobjektiv für großartige Naturaufnahmen mit.",
+            "hu": "Folytassa útját a Xibrakës-víztározóhoz, ahonnan lenyűgöző kilátás nyílik az erdős dombokra, így mindenképpen hozzon magával makróobjektívet is.",
+            "ro": "Continuați spre Rezervorul Xibrakës pentru vederi uimitoare ale dealurilor împădurite, asigurându-vă că aveți un obiectiv macro pentru fotografii de natură.",
+            "en": "Continue to the Xibrakës Reservoir for striking views of the forested hills reflecting on the surface, making sure to bring a macro lens for nature shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjatë-See",
+            "hu": "Gjatë-tó",
+            "ro": "Lacul Gjatë",
+            "en": "Lake Gjatë"
+          },
+          "coords": [
+            19.905652,
+            40.983611
+          ],
+          "category": "natural",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Halten Sie am einzigartig geformten Gjatë-See mit seinen kurvigen Ufern, die sich perfekt für einen kurzen Spaziergang eignen, um sich die Beine zu vertreten.",
+            "hu": "Álljon meg az egyedi formájú Gjatë-tónál, melynek kanyargós partjai tökéletesek egy kis lábnyújtós sétához, ezért tartsa kéznél a túracipőjét.",
+            "ro": "Opriți la Lacul Gjatë, cu formă unică, ale cărui țărmuri șerpuite sunt perfecte pentru o plimbare scurtă, așa că țineți încălțămintea de mers la îndemână.",
+            "en": "Stop by the uniquely shaped Lake Gjatë which features winding shores perfect for a short leg-stretching walk, so keep your walking shoes accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Strehës-See",
+            "hu": "Strehës-tó",
+            "ro": "Lacul Strehës",
+            "en": "Lake Strehës"
+          },
+          "coords": [
+            19.926956,
+            40.978018
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strehës-See, um die besondere Wasservegetation zu sehen, und bereiten Sie einen Picknickkorb für ein Mittagessen in der Natur vor.",
+            "hu": "Vezessen le a Strehës-tóhoz, hogy megnézze a jellegzetes vízi növényzetet, és készítsen elő egy kis piknikkosarat a békés ebédszünethez.",
+            "ro": "Coborâți spre Lacul Strehës pentru a vedea vegetația acvatică distinctă și pregătiți un mic coș de picnic pentru a savura prânzul într-un decor liniștit.",
+            "en": "Drive down to Lake Strehës to see the distinct aquatic vegetation, and prepare a small picnic basket to enjoy lunch with a tranquil natural backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Thatë-See",
+            "hu": "Thatë-tó",
+            "ro": "Lacul Thatë",
+            "en": "Lake Thatë"
+          },
+          "coords": [
+            19.939086,
+            40.987639
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Thatë-See, um mehr über die saisonalen Schwankungen des Wasserspiegels zu erfahren, wodurch die Zugangswege jedoch recht uneben sind.",
+            "hu": "Látogasson el a Thatë-tóhoz a helyi vízszint szezonális ingadozásainak megfigyelésére, ami lenyűgöző, bár a megközelítési útvonalak eléggé egyenetlenek.",
+            "ro": "Vizitați Lacul Thatë pentru a înțelege fluctuațiile sezoniere ale apei, ceea ce e fascinant, dar înseamnă că potecile de acces pot fi destul de denivelate.",
+            "en": "Visit Lake Thatë to learn about the seasonal fluctuations of the local water tables, which is fascinating but means the approach paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kashtës-See",
+            "hu": "Kashtës-tó",
+            "ro": "Lacul Kashtës",
+            "en": "Lake Kashtës"
+          },
+          "coords": [
+            19.947433,
+            40.985541
+          ],
+          "category": "natural",
+          "arrive_at": "14:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zum Kashtës-See, einem Paradies für Vogelaktivitäten am Nachmittag, also kurbeln Sie die Fenster herunter und lauschen Sie.",
+            "hu": "Egy rövid autózás a Kashtës-tóhoz visz, amely délután a madarak paradicsoma, így húzza le az ablakokat, hogy hallhassa a helyi madárdalokat.",
+            "ro": "O scurtă cursă vă duce la Lacul Kashtës, un refugiu pentru păsări după-amiaza, așa că deschideți geamurile pentru a asculta cântecele lor vibrante.",
+            "en": "A brief drive takes you to Lake Kashtës, a haven for bird activity in the afternoon, so roll down your windows to listen to the vibrant local birdcalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Godes-See",
+            "hu": "Godes-tó",
+            "ro": "Lacul Godes",
+            "en": "Lake Godes"
+          },
+          "coords": [
+            19.963473,
+            40.976958
+          ],
+          "category": "natural",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie am Godes-See, um die wechselnden Farben des Spätnachmittagshimmels einzufangen, und parken Sie dabei vollständig abseits der Feldwege.",
+            "hu": "Húzódjon le a Godes-tónál, hogy megörökítse a késő délutáni égbolt változó színeit a vízen, és ügyeljen arra, hogy a szűk földutakon kívül parkoljon.",
+            "ro": "Opriți la Lacul Godes pentru a capta culorile schimbătoare ale cerului de după-amiază pe apă, asigurându-vă că parcați complet în afara drumurilor de pământ.",
+            "en": "Pull over at Lake Godes to capture the shifting colors of the late afternoon sky on the water, ensuring you park entirely off the narrow dirt tracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Miloshit-See",
+            "hu": "Miloshit-tó",
+            "ro": "Lacul Miloshit",
+            "en": "Lake Miloshit"
+          },
+          "coords": [
+            19.979155,
+            40.963874
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Miloshit-See für einen ungestörten Blick auf den Sonnenuntergang, die perfekte Zeit, um eine Thermoskanne mit Tee zu genießen.",
+            "hu": "Zárja a festői autózást a Miloshit-tónál egy zavartalan naplemente megtekintésével, ami tökéletes alkalom arra, hogy elővegyen egy termosz meleg teát.",
+            "ro": "Încheiați plimbarea la Lacul Miloshit pentru un apus neobstrucționat, fiind momentul perfect să scoateți un termos cu ceai cald pentru a vă relaxa.",
+            "en": "Conclude your scenic drive at Lake Miloshit for an unobstructed sunset view, making it the perfect time to pull out a thermos of warm tea to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am Shalësit-Stausee, wenn sich der Morgennebel lichtet. Die kurze Fahrt von Cërrik lässt Sie schnell in die üppige Natur der Region eintauchen.\nWenn der Tag wärmer wird, navigieren Sie über ländliche Straßen zu den Seen Xibrakës und Gjatë. Diese Gewässer sind hervorragende mittägliche Haltepunkte für ein Picknick.\nErkunden Sie am Nachmittag die zentralen Dumrea-Seen wie Strehës, Thatë und Kashtës. Jeder Halt offenbart eine andere ökologische Facette dieser bemerkenswert seenreichen Region.\nBeenden Sie Ihren Roadtrip an den Seen Godes und Miloshit. Zu beobachten, wie sich der Himmel über dem weiten Wasser lila färbt, sorgt für einen tiefentspannten Abend.",
+        "hu": "Kezdje a festői autózást a Shalësit-víztározónál, ahogy a reggeli köd felszáll. A Cërrikből induló rövid út gyorsan elmeríti Önt a régió buja, nyugodt természeti szépségében.\nAhogy a nap melegszik, navigáljon a vidéki utakon a Xibrakës- és Gjatë-tavakhoz. Ezek a kanyargós vizek kiváló déli megállóhelyeket biztosítanak egy rövid sétához és az ebédhez.\nDélután fedezze fel a központi Dumrea-tavakat, mint a Strehës, a Thatë és a Kashtës. Minden megálló egy újabb ökológiai arcát mutatja meg ennek a tavakban gazdag régiónak.\nZárja az autós túrát a Godes- és Miloshit-tavaknál. A tágas víz felett lilára és narancssárgára színeződő égbolt látványa mélyen pihentető estét nyújt a visszautazás előtt.",
+        "ro": "Începeți plimbarea pitorească la Rezervorul Shalësit pe măsură ce ceața matinală se ridică. Scurta distanță din Cërrik vă cufundă rapid în frumusețea naturală luxuriantă a regiunii.\nPe măsură ce ziua se încălzește, navigați pe drumurile rurale spre lacurile Xibrakës și Gjatë. Aceste ape oferă puncte excelente de oprire la prânz pentru o scurtă plimbare și prânz.\nÎn timpul după-amiezii, explorați lacurile centrale Dumrea, precum Strehës, Thatë și Kashtës. Fiecare oprire dezvăluie o altă fațetă ecologică a acestei regiuni bogate în lacuri.\nÎncheiați excursia la lacurile Godes și Miloshit. Privind cum cerul devine purpuriu și portocaliu peste apa întinsă creează o seară profund relaxantă înainte de a conduce înapoi.",
+        "en": "Start your scenic drive at the Shalësit Reservoir as the morning mist lifts. The short drive from Cërrik quickly immerses you in the region's lush, tranquil natural beauty.\nAs the day warms up, navigate the rural roads to the Xibrakës and Gjatë lakes. These winding water bodies provide excellent midday stopping points for a quick stroll and a packed lunch.\nDuring the afternoon, explore the central Dumrea lakes like Strehës, Thatë, and Kashtës. Each stop reveals a different ecological facet of this remarkably lake-rich Albanian region.\nWrap up your road trip at the Godes and Miloshit lakes. Watching the sky turn purple and orange over the expansive water makes for a deeply relaxing evening before driving back."
+      }
+    }
+  }
+}

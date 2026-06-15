@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-lefkogia-cities-v2",
+  "anchor": {
+    "name": "Lefkogia",
+    "coords": [
+      24.44369,
+      35.1782
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Esel-Rettungsstation",
+            "hu": "Szamármenedék",
+            "ro": "Sanctuarul Măgarilor",
+            "en": "Donkey Sanctuary"
+          },
+          "coords": [
+            24.442076,
+            35.177671
+          ],
+          "category": "landmark",
+          "arrive_at": "09:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
+            "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
+            "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi Mosóház",
+            "ro": "Vechea Spălătorie",
+            "en": "Old Washhouse"
+          },
+          "coords": [
+            24.441291,
+            35.175957
+          ],
+          "category": "landmark",
+          "arrive_at": "10:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
+            "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
+            "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Timios Stavros",
+            "hu": "Timios Stavros",
+            "ro": "Timios Stavros",
+            "en": "Timios Stavros"
+          },
+          "coords": [
+            24.44387,
+            35.168965
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
+            "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammoudi Strand",
+            "hu": "Ammoudi Strand",
+            "ro": "Plaja Ammoudi",
+            "en": "Ammoudi Beach"
+          },
+          "coords": [
+            24.420395,
+            35.170822
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand mit kristallklarem Wasser, der sich ideal zum Schwimmen eignet, und mieten Sie frühzeitig einen Sonnenschirm, um der Mittagssonne zu entgehen.",
+            "hu": "Pihenjen ezen a kristálytiszta vizű, festői strandon, amely tökéletes egy frissítő úszáshoz, és érdemes minél korábban napernyőt bérelni, hogy elkerülje az erős déli napsütést.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu ape cristaline, ideală pentru înot, și închiriați o umbrelă de soare din timp pentru a vă proteja de soarele puternic de la amiază.",
+            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikro Ammoudi FKK-Strand",
+            "hu": "Mikro Ammoudi Nudista Strand",
+            "ro": "Plaja de Nudiști Mikro Ammoudi",
+            "en": "Mikro Ammoudi Nudist Beach"
+          },
+          "coords": [
+            24.418774,
+            35.172542
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen abgelegenen FKK-Strand für ein ungestörtes Naturerlebnis an der Küste, aber seien Sie sich bewusst, dass es hier keine großen touristischen Einrichtungen gibt.",
+            "hu": "Látogasson el erre az eldugott nudista strandra a zavartalan, természetközeli élményért, de vegye figyelembe, hogy itt nincsenek kiépített turisztikai létesítmények vagy büfék.",
+            "ro": "Vizitați această plajă de nudiști retrasă pentru o experiență naturală netulburată pe coastă, dar rețineți că aici nu există facilități turistice majore sau umbrele de închiriat.",
+            "en": "Visit this secluded nudist beach for an undisturbed natural coastal experience, but be mindful that there are no major tourist facilities, so you must bring your own snacks and shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Lefkogia beginnt mit einem Besuch der Esel-Rettungsstation, gefolgt vom historischen Waschhaus des Dorfes. Gegen Mittag wandern Sie in Richtung Küste und genießen den Ausblick beim Timios Stavros. Der Nachmittag steht ganz im Zeichen der Entspannung am Ammoudi Strand. Den Tag lassen Sie dann an der ruhigen Bucht von Mikro Ammoudi entspannt ausklingen.",
+        "hu": "A reggel Lefkogiában egy kedves szamármenedék meglátogatásával indul, majd a történelmi mosóházat csodálhatja meg. Dél körül a part felé sétál, és megpihen a Timios Stavros kilátópontnál. A délután folyamán a gyönyörű Ammoudi strandon frissülhet fel. A napot végül a Mikro Ammoudi békés és természetközeli öblében zárja, ahol zavartalanul pihenhet a naplementében.",
+        "ro": "Dimineața în Lefkogia începe cu o vizită la sanctuarul măgarilor, urmată de vechea spălătorie a satului. La prânz, vă îndreptați spre coastă, admirând priveliștea de la Timios Stavros. După-amiaza este dedicată relaxării depline pe frumoasa plajă Ammoudi. Seara se încheie liniștit pe plaja retrasă Mikro Ammoudi, ascultând valurile mării sub lumina caldă a apusului.",
+        "en": "Your morning in Lefkogia starts by meeting the gentle residents of the donkey sanctuary, followed by a glimpse into local history at the old washhouse. Around midday, you will hike towards the scenic coast, taking in the panoramic views at Timios Stavros. The afternoon is dedicated to soaking up the sun at Ammoudi Beach, before winding down peacefully at Mikro Ammoudi."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:23",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi Mosóház",
+            "ro": "Vechea Spălătorie",
+            "en": "Old Washhouse"
+          },
+          "coords": [
+            24.441291,
+            35.175957
+          ],
+          "category": "landmark",
+          "arrive_at": "09:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
+            "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
+            "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Esel-Rettungsstation",
+            "hu": "Szamármenedék",
+            "ro": "Sanctuarul Măgarilor",
+            "en": "Donkey Sanctuary"
+          },
+          "coords": [
+            24.442076,
+            35.177671
+          ],
+          "category": "landmark",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
+            "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
+            "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+          }
+        },
+        {
+          "name": {
+            "de": "Preveli Brücke",
+            "hu": "Preveli Híd",
+            "ro": "Podul Preveli",
+            "en": "Preveli Bridge"
+          },
+          "coords": [
+            24.466069,
+            35.174116
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese beeindruckende alte Steinbrücke aus der venezianischen Epoche, die ein tolles Fotomotiv bietet, und tragen Sie bequeme Schuhe für die unebenen Pflastersteine.",
+            "hu": "Sétáljon át ezen a velencei korból származó, lenyűgöző régi kőhídon, amely kiváló fotótéma, és viseljen kényelmes cipőt, mivel a történelmi macskaköves burkolat meglehetősen egyenetlen.",
+            "ro": "Traversați acest pod vechi de piatră impresionant din epoca venețiană, o locație excelentă pentru fotografii, și purtați încălțăminte confortabilă pentru pietrele de pavaj inegale.",
+            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Unteres Preveli-Kloster",
+            "hu": "Alsó Preveli Kolostor",
+            "ro": "Mănăstirea Inferioară Preveli",
+            "en": "Lower Preveli Monastery"
+          },
+          "coords": [
+            24.466076,
+            35.170679
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses historisch bedeutsame Kloster, um mehr über die spirituelle Geschichte Kretas zu erfahren, und achten Sie darauf, beim Betreten angemessene Kleidung zu tragen.",
+            "hu": "Tekintse meg ezt a történelmileg jelentős kolostort, hogy elmélyedjen Kréta spirituális múltjában, és ügyeljen arra, hogy a belépéshez a vallási helyszínekhez illő öltözéket viseljen.",
+            "ro": "Vizitați această mănăstire cu semnificație istorică pentru a învăța despre moștenirea spirituală a Cretei și asigurați-vă că purtați haine decente, care să vă acopere umerii și genunchii.",
+            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Timios Stavros",
+            "hu": "Timios Stavros",
+            "ro": "Timios Stavros",
+            "en": "Timios Stavros"
+          },
+          "coords": [
+            24.44387,
+            35.168965
+          ],
+          "category": "natural",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
+            "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Skinaria Strand",
+            "hu": "Skinaria Strand",
+            "ro": "Plaja Skinaria",
+            "en": "Skinaria Beach"
+          },
+          "coords": [
+            24.421862,
+            35.166136
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Unterwasserwelt an diesem von Felsen umgebenen Strand, der ein Paradies für Schnorchler ist, und vergessen Sie nicht Ihre Taucherbrille mitzubringen.",
+            "hu": "Fedezze fel a lenyűgöző víz alatti világot ezen a sziklákkal övezett strandon, amely valóságos paradicsom a sznorkelezők számára, és semmiképp se felejtse otthon a búvárszemüvegét.",
+            "ro": "Explorați lumea subacvatică impresionantă de la această plajă înconjurată de stânci, un paradis pentru amatorii de snorkeling, și nu uitați să vă aduceți masca de scufundări.",
+            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten den Tag mit dem alten Waschhaus und radeln dann zur Esel-Station. Mittags erkunden Sie die historische Preveli-Brücke und das nahegelegene untere Kloster, das tief in die kretische Geschichte blicken lässt. Am Nachmittag radeln Sie zum Timios Stavros und genießen die weite Aussicht. Zum Abschluss entspannen Sie sich am fantastischen Strand von Skinaria.",
+        "hu": "A napot a történelmi mosóháznál kezdi, majd átteker a helyi szamármenedékhez. Délben felfedezi a lenyűgöző Preveli kőhidat és a közeli alsó kolostort, elmerülve a sziget gazdag múltjában. Délután a Timios Stavros kilátóhoz kerékpározik, ahonnan pazar tengerparti panoráma fogadja. A nap fáradalmait végül a festői Skinaria strandon, a kristálytiszta habok között pihenheti ki.",
+        "ro": "Începeți ziua la vechea spălătorie, apoi pedalați spre sanctuarul de măgari. La prânz, explorați podul istoric Preveli și mănăstirea inferioară din apropiere, o adevărată comoară arhitecturală. După-amiaza vă duce la Timios Stavros pentru priveliști panoramice spectaculoase. Vă veți încheia ziua relaxându-vă complet pe nisipul fin al minunatei plaje Skinaria.",
+        "en": "Start your day cycling to the historic washhouse and the heartwarming donkey sanctuary. Midday brings you to the fascinating Preveli Bridge and the historically significant Lower Monastery. In the afternoon, you will pedal towards the rugged coast to enjoy the views at Timios Stavros, before finishing your active day with a well-deserved swim at beautiful Skinaria Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Esel-Rettungsstation",
+            "hu": "Szamármenedék",
+            "ro": "Sanctuarul Măgarilor",
+            "en": "Donkey Sanctuary"
+          },
+          "coords": [
+            24.442076,
+            35.177671
+          ],
+          "category": "landmark",
+          "arrive_at": "09:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
+            "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
+            "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi Mosóház",
+            "ro": "Vechea Spălătorie",
+            "en": "Old Washhouse"
+          },
+          "coords": [
+            24.441291,
+            35.175957
+          ],
+          "category": "landmark",
+          "arrive_at": "10:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
+            "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
+            "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Preveli Brücke",
+            "hu": "Preveli Híd",
+            "ro": "Podul Preveli",
+            "en": "Preveli Bridge"
+          },
+          "coords": [
+            24.466069,
+            35.174116
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese beeindruckende alte Steinbrücke aus der venezianischen Epoche, die ein tolles Fotomotiv bietet, und tragen Sie bequeme Schuhe für die unebenen Pflastersteine.",
+            "hu": "Sétáljon át ezen a velencei korból származó, lenyűgöző régi kőhídon, amely kiváló fotótéma, és viseljen kényelmes cipőt, mivel a történelmi macskaköves burkolat meglehetősen egyenetlen.",
+            "ro": "Traversați acest pod vechi de piatră impresionant din epoca venețiană, o locație excelentă pentru fotografii, și purtați încălțăminte confortabilă pentru pietrele de pavaj inegale.",
+            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Unteres Preveli-Kloster",
+            "hu": "Alsó Preveli Kolostor",
+            "ro": "Mănăstirea Inferioară Preveli",
+            "en": "Lower Preveli Monastery"
+          },
+          "coords": [
+            24.466076,
+            35.170679
+          ],
+          "category": "religious",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses historisch bedeutsame Kloster, um mehr über die spirituelle Geschichte Kretas zu erfahren, und achten Sie darauf, beim Betreten angemessene Kleidung zu tragen.",
+            "hu": "Tekintse meg ezt a történelmileg jelentős kolostort, hogy elmélyedjen Kréta spirituális múltjában, és ügyeljen arra, hogy a belépéshez a vallási helyszínekhez illő öltözéket viseljen.",
+            "ro": "Vizitați această mănăstire cu semnificație istorică pentru a învăța despre moștenirea spirituală a Cretei și asigurați-vă că purtați haine decente, care să vă acopere umerii și genunchii.",
+            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Timios Stavros",
+            "hu": "Timios Stavros",
+            "ro": "Timios Stavros",
+            "en": "Timios Stavros"
+          },
+          "coords": [
+            24.44387,
+            35.168965
+          ],
+          "category": "natural",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
+            "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammoudi Strand",
+            "hu": "Ammoudi Strand",
+            "ro": "Plaja Ammoudi",
+            "en": "Ammoudi Beach"
+          },
+          "coords": [
+            24.420395,
+            35.170822
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand mit kristallklarem Wasser, der sich ideal zum Schwimmen eignet, und mieten Sie frühzeitig einen Sonnenschirm, um der Mittagssonne zu entgehen.",
+            "hu": "Pihenjen ezen a kristálytiszta vizű, festői strandon, amely tökéletes egy frissítő úszáshoz, és érdemes minél korábban napernyőt bérelni, hogy elkerülje az erős déli napsütést.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu ape cristaline, ideală pentru înot, și închiriați o umbrelă de soare din timp pentru a vă proteja de soarele puternic de la amiază.",
+            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Skinaria Strand",
+            "hu": "Skinaria Strand",
+            "ro": "Plaja Skinaria",
+            "en": "Skinaria Beach"
+          },
+          "coords": [
+            24.421862,
+            35.166136
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Unterwasserwelt an diesem von Felsen umgebenen Strand, der ein Paradies für Schnorchler ist, und vergessen Sie nicht Ihre Taucherbrille mitzubringen.",
+            "hu": "Fedezze fel a lenyűgöző víz alatti világot ezen a sziklákkal övezett strandon, amely valóságos paradicsom a sznorkelezők számára, és semmiképp se felejtse otthon a búvárszemüvegét.",
+            "ro": "Explorați lumea subacvatică impresionantă de la această plajă înconjurată de stânci, un paradis pentru amatorii de snorkeling, și nu uitați să vă aduceți masca de scufundări.",
+            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt entspannt an der Esel-Rettungsstation und dem historischen Waschhaus von Lefkogia. Gegen Mittag fahren Sie zur venezianischen Preveli-Brücke und dem beeindruckenden unteren Kloster. Am Nachmittag bringt Sie Ihr Auto zum Aussichtspunkt Timios Stavros und anschließend an die idyllische Küste. Lassen Sie den Tag entspannt am Ammoudi und Skinaria Strand ausklingen.",
+        "hu": "Az utazás a kedves szamármenedék és a történelmi falu központi mosóházának meglátogatásával indul. Dél körül a velencei Preveli hídhoz és a lenyűgöző alsó kolostorhoz autózik, ahol megismerheti Kréta múltját. Délután a Timios Stavros kilátópont felé veszi az irányt, majd megérkezik a mesés partvidékre. A nap végét az Ammoudi és Skinaria strandok kristálytiszta vizénél élvezheti.",
+        "ro": "Călătoria începe liniștit la sanctuarul de măgari și la spălătoria istorică din Lefkogia. La prânz, conduceți spre podul venețian Preveli și impresionanta mănăstire inferioară. După-amiaza, mașina vă duce la punctul de belvedere Timios Stavros și apoi coborâți pe coasta idilică. Încheiați ziua perfect relaxându-vă la plajele spectaculoase Ammoudi și Skinaria.",
+        "en": "Your drive begins with visits to the charming donkey sanctuary and the traditional village washhouse. Midday takes you inland to discover the Venetian Preveli Bridge and the solemn Lower Monastery. In the afternoon, you will cruise towards the scenic coast, stopping at Timios Stavros for sweeping vistas, before spending your evening relaxing at Ammoudi and Skinaria beaches."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "norderney",
+  "anchor": {
+    "name": "Norderney",
+    "coords": [
+      7.1469,
+      53.7072
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 1.86,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Conversationshaus",
+            "hu": "Conversationshaus",
+            "ro": "Conversationshaus",
+            "en": "Conversationshaus"
+          },
+          "coords": [
+            7.145108,
+            53.704337
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieses historischen Kurhauses und besuchen Sie die Touristeninformation, um sich eine Inselfibel zu sichern.",
+            "hu": "Csodálja meg a történelmi fürdőház elegáns építészetét, és keresse fel a turisztikai irodát egy ingyenes szigeti térképért és programfüzetért.",
+            "ro": "Admirați arhitectura elegantă a acestei clădiri istorice balneare și vizitați biroul de turism pentru a lua o hartă detaliată a insulei.",
+            "en": "Marvel at the elegant architecture of this historical spa building and pop into the tourist information center to grab a free island map."
+          }
+        },
+        {
+          "name": {
+            "de": "bade:haus",
+            "hu": "bade:haus",
+            "ro": "bade:haus",
+            "en": "bade:haus"
+          },
+          "coords": [
+            7.143653,
+            53.704299
+          ],
+          "category": "family",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie Europas größtes Thalasso-Zentrum für tiefe Entspannung, aber buchen Sie Ihre Wellness-Anwendungen unbedingt ein paar Tage im Voraus.",
+            "hu": "Élvezze Európa legnagyobb thalasso központjának mély relaxációját, de mindenképpen foglalja le a wellness kezeléseket néhány nappal előre.",
+            "ro": "Bucurați-vă de relaxare profundă în cel mai mare centru de talasoterapie din Europa, dar asigurați-vă că rezervați tratamentele în avans.",
+            "en": "Enjoy deep relaxation at Europe's largest thalassotherapy center, but make sure to book your wellness treatments a few days in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bathing Museum",
+            "hu": "Fürdőmúzeum",
+            "ro": "Muzeul Balnear",
+            "en": "Bathing Museum"
+          },
+          "coords": [
+            7.143823,
+            53.701871
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der deutschen Badekultur ein und achten Sie auf die originalen historischen Strandkörbe im Erdgeschoss.",
+            "hu": "Merüljön el a német fürdőkultúra lenyűgöző történetében, és figyelje meg az eredeti történelmi strandkosarakat a földszinti kiállítótérben.",
+            "ro": "Descoperiți istoria fascinantă a culturii balneare germane și fiți atenți la cabinele de plajă istorice originale expuse la parterul muzeului.",
+            "en": "Dive into the fascinating history of German bathing culture and make sure to check out the original historical beach chairs on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Weststrand",
+            "hu": "Weststrand",
+            "ro": "Weststrand",
+            "en": "Weststrand"
+          },
+          "coords": [
+            7.144526,
+            53.700951
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang und lassen Sie sich in der Strandbar einen heißen Sanddornsaft bei Meerblick schmecken.",
+            "hu": "Sétáljon végig ezen a tágas homokos tengerparton, és kóstoljon meg egy forró homoktövislevet a tengerparti bárban, miközben a hullámokat nézi.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje cu nisip fin și savurați un suc fierbinte de cătină la barul de pe plajă în timp ce admirați marea.",
+            "en": "Stroll along this expansive sandy beach and enjoy a hot sea buckthorn juice at the beach bar while taking in the stunning ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Seehunde",
+            "hu": "Fókák",
+            "ro": "Foci",
+            "en": "Seals"
+          },
+          "coords": [
+            7.143358,
+            53.706549
+          ],
+          "category": "family",
+          "arrive_at": "14:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Seehunde in ihrem natürlichen Lebensraum, aber halten Sie ausreichend Abstand und bringen Sie ein gutes Fernglas mit.",
+            "hu": "Figyelje meg a fókákat természetes élőhelyükön, de tartson megfelelő távolságot, és hozzon magával egy jó távcsövet a legjobb élményért.",
+            "ro": "Observați focile în habitatul lor natural, dar păstrați o distanță sigură și aduceți un binoclu bun pentru a nu le deranja liniștea.",
+            "en": "Observe the local seals in their natural habitat, but keep a respectful distance and bring a good pair of binoculars for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienhöhe",
+            "hu": "Marienhöhe",
+            "ro": "Marienhöhe",
+            "en": "Marienhöhe"
+          },
+          "coords": [
+            7.138389,
+            53.707028
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Lassen Sie sich im Café in diesem historischen Pavillon nieder und genießen Sie ein Stück ostfriesische Torte mit Blick auf die Nordsee.",
+            "hu": "Üljön le a történelmi pavilon kávézójában, és élvezzen egy szelet kelet-fríz tortát, miközben az Északi-tenger hullámaiban gyönyörködik.",
+            "ro": "Luați loc la cafeneaua din acest pavilion istoric și savurați o felie de tort tradițional cu o vedere panoramică spectaculoasă la Marea Nordului.",
+            "en": "Take a seat in the café inside this historical pavilion and enjoy a slice of East Frisian cake with a spectacular view of the North Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiser Wilhelm Monument",
+            "hu": "Vilmos császár emlékmű",
+            "ro": "Monumentul Kaiser Wilhelm",
+            "en": "Kaiser Wilhelm Monument"
+          },
+          "coords": [
+            7.144774,
+            53.708522
+          ],
+          "category": "landmark",
+          "arrive_at": "17:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante Denkmal aus Steinen verschiedener deutscher Städte, das ein idealer Treffpunkt für den abendlichen Spaziergang ist.",
+            "hu": "Tekintse meg ezt a különböző német városok köveiből emelt emlékművet, amely ideális találkozóhely egy kora esti, naplementés sétához.",
+            "ro": "Admirați acest monument format din pietre din diverse orașe germane, fiind un punct de întâlnire ideal pentru o plimbare de seară relaxantă.",
+            "en": "Examine this unique monument made of stones from various German cities, which serves as a great central meeting point for an evening walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im historischen Herzen von Norderney. Mittags erkunden Sie die Bäderkultur und den Strand. Nachmittags grüßen die Seehunde am Ufer. Der Abend klingt majestätisch am Kaiser-Wilhelm-Denkmal aus.",
+        "hu": "Kezdje a napot Norderney történelmi szívében. Délben fedezze fel a fürdőkultúrát és a tengerpartot. Délután a fókák köszöntik a parton. Az este fenségesen zárul a Vilmos császár emlékműnél.",
+        "ro": "Începeți ziua în inima istorică a insulei Norderney. La prânz, explorați cultura balneară și plaja. După-amiaza, admirați focile pe țărm. Seara se încheie maiestuos la Monumentul Kaiser Wilhelm.",
+        "en": "Start your day in the historical heart of Norderney. At midday, explore the bathing culture and the beach. In the afternoon, the seals greet you on the shore. The evening ends majestically at the Kaiser Wilhelm Monument."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 10.92,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Conversationshaus",
+            "hu": "Conversationshaus",
+            "ro": "Conversationshaus",
+            "en": "Conversationshaus"
+          },
+          "coords": [
+            7.145108,
+            53.704337
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieses historischen Kurhauses und besuchen Sie die Touristeninformation, um sich eine Inselfibel zu sichern.",
+            "hu": "Csodálja meg a történelmi fürdőház elegáns építészetét, és keresse fel a turisztikai irodát egy ingyenes szigeti térképért és programfüzetért.",
+            "ro": "Admirați arhitectura elegantă a acestei clădiri istorice balneare și vizitați biroul de turism pentru a lua o hartă detaliată a insulei.",
+            "en": "Marvel at the elegant architecture of this historical spa building and pop into the tourist information center to grab a free island map."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerhaus-Museum",
+            "hu": "Fischerhaus-Museum",
+            "ro": "Fischerhaus-Museum",
+            "en": "Fischerhaus-Museum"
+          },
+          "coords": [
+            7.144062,
+            53.703008
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Leben der Inselbewohner in vergangenen Jahrhunderten und achten Sie auf die liebevoll restaurierten traditionellen Trachten.",
+            "hu": "Ismerje meg a szigetlakók múlt századi életét, és fordítson különös figyelmet a gondosan felújított hagyományos népviseleti ruhákra.",
+            "ro": "Explorați viața insularilor din secolele trecute și acordați atenție costumelor tradiționale restaurate cu grijă din cadrul expoziției.",
+            "en": "Explore the life of islanders in past centuries and pay special attention to the carefully restored traditional costumes on display here."
+          }
+        },
+        {
+          "name": {
+            "de": "Norderney Kap",
+            "hu": "Norderney Kap",
+            "ro": "Norderney Kap",
+            "en": "Norderney Kap"
+          },
+          "coords": [
+            7.156542,
+            53.710229
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie das berühmte nautische Wahrzeichen der Insel und nutzen Sie die Infotafeln, um mehr über die maritime Navigation zu lernen.",
+            "hu": "Fényképezze le a sziget híres tengerészeti mérföldkövét, és olvassa el az információs táblákat, hogy többet tudjon meg a tengeri navigációról.",
+            "ro": "Fotografiați celebrul reper nautic al insulei și folosiți panourile informative pentru a afla mai multe despre istoria navigației maritime.",
+            "en": "Photograph the island's famous nautical landmark and use the information boards to learn more about the history of maritime navigation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapspielplatz",
+            "hu": "Kapspielplatz",
+            "ro": "Kapspielplatz",
+            "en": "Kapspielplatz"
+          },
+          "coords": [
+            7.161303,
+            53.71268
+          ],
+          "category": "family",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem maritimen Themenspielplatz toben, während Sie sich auf den umliegenden Holzbänken im Schatten ausruhen.",
+            "hu": "Hagyja, hogy a gyerekek ezen a tengeri témájú játszótéren játsszanak, miközben ön megpihen a környező fapadokon a fák árnyékában.",
+            "ro": "Lăsați copiii să se joace pe acest loc de joacă cu tematică maritimă în timp ce vă odihniți pe băncile de lemn din apropiere, la umbră.",
+            "en": "Let the kids burn off energy at this maritime-themed playground while you take a well-deserved rest on the surrounding wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Norderney Lighthouse",
+            "hu": "Norderney világítótorony",
+            "ro": "Farul din Norderney",
+            "en": "Norderney Lighthouse"
+          },
+          "coords": [
+            7.2296,
+            53.7093
+          ],
+          "category": "landmark",
+          "arrive_at": "14:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.46,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen dieses majestätischen Leuchtturms hinauf, um ein unvergleichliches Panorama über das Wattenmeer zu genießen.",
+            "hu": "Mássza meg ennek a fenséges világítótoronynak a lépcsőit, hogy páratlan panorámában gyönyörködhessen a Watt-tenger felett.",
+            "ro": "Urcați treptele acestui far maiestuos pentru a vă bucura de o panoramă de neegalat asupra Mării Wadden și a peisajului insular.",
+            "en": "Climb the steps of this majestic lighthouse to enjoy an unparalleled panoramic view over the Wadden Sea and the surrounding island."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumskreuzer Otto Schülke",
+            "hu": "Otto Schülke múzeumhajó",
+            "ro": "Nava muzeu Otto Schülke",
+            "en": "Museumskreuzer Otto Schülke"
+          },
+          "coords": [
+            7.166442,
+            53.703789
+          ],
+          "category": "museum",
+          "arrive_at": "14:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.16,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Seenotrettungskreuzer von innen und erfahren Sie spannende Details über die mutigen Rettungsmissionen.",
+            "hu": "Látogasson el ebbe a történelmi tengeri mentőhajóba, és tudjon meg izgalmas részleteket a bátor mentőakciókról és a legénység életéről.",
+            "ro": "Vizitați interiorul acestui crucișător istoric de salvare pe mare și aflați detalii captivante despre misiunile curajoase de salvare.",
+            "en": "Tour the inside of this historical sea rescue cruiser and learn exciting details about the brave rescue missions and the crew's daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalparkhaus",
+            "hu": "Nemzeti Park Látogatóközpont",
+            "ro": "Centrul Parcului Național",
+            "en": "Nationalparkhaus"
+          },
+          "coords": [
+            7.161901,
+            53.698556
+          ],
+          "category": "museum",
+          "arrive_at": "16:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktiven Ausstellungen zum Wattenmeer und verpassen Sie nicht das faszinierende Skelett eines echten Pottwals.",
+            "hu": "Fedezze fel a Watt-tenger interaktív kiállításait, és ne hagyja ki a lenyűgöző valódi ámbráscet csontvázát az épület fő csarnokában.",
+            "ro": "Descoperiți expozițiile interactive despre Marea Wadden și nu ratați scheletul fascinant al unui cașalot adevărat din holul principal.",
+            "en": "Discover the interactive exhibitions about the Wadden Sea and do not miss the fascinating skeleton of a real sperm whale in the main hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom urbanen Kurzentrum zu den Dünenlandschaften. Mittags erwartet Sie das Kap und ein Spielplatz. Nachmittags beeindrucken Leuchtturm und Museumskreuzer. Abends ruft das Wattenmeer im Nationalparkhaus.",
+        "hu": "Kerékpározzon a városi fürdőközpontból a dűnés tájak felé. Délben a fok és egy játszótér várja. Délután a világítótorony és a mentőhajó nyűgöz le. Este a Watt-tenger hívogat a Nemzeti Park házában.",
+        "ro": "Pedalați din centrul urban către peisajele cu dune. La prânz vă așteaptă capul și un loc de joacă. După-amiaza, farul și nava de salvare impresionează. Seara, Marea Wadden cheamă la Casa Parcului Național.",
+        "en": "Cycle from the urban spa center to the dune landscapes. At midday, the cape and a playground await. In the afternoon, the lighthouse and rescue cruiser impress. The evening calls the Wadden Sea at the National Park House."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 10.61,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalparkhaus",
+            "hu": "Nemzeti Park Látogatóközpont",
+            "ro": "Centrul Parcului Național",
+            "en": "Nationalparkhaus"
+          },
+          "coords": [
+            7.161901,
+            53.698556
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktiven Ausstellungen zum Wattenmeer und verpassen Sie nicht das faszinierende Skelett eines echten Pottwals.",
+            "hu": "Fedezze fel a Watt-tenger interaktív kiállításait, és ne hagyja ki a lenyűgöző valódi ámbráscet csontvázát az épület fő csarnokában.",
+            "ro": "Descoperiți expozițiile interactive despre Marea Wadden și nu ratați scheletul fascinant al unui cașalot adevărat din holul principal.",
+            "en": "Discover the interactive exhibitions about the Wadden Sea and do not miss the fascinating skeleton of a real sperm whale in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Norderney Lighthouse",
+            "hu": "Norderney világítótorony",
+            "ro": "Farul din Norderney",
+            "en": "Norderney Lighthouse"
+          },
+          "coords": [
+            7.2296,
+            53.7093
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen dieses majestätischen Leuchtturms hinauf, um ein unvergleichliches Panorama über das Wattenmeer zu genießen.",
+            "hu": "Mássza meg ennek a fenséges világítótoronynak a lépcsőit, hogy páratlan panorámában gyönyörködhessen a Watt-tenger felett.",
+            "ro": "Urcați treptele acestui far maiestuos pentru a vă bucura de o panoramă de neegalat asupra Mării Wadden și a peisajului insular.",
+            "en": "Climb the steps of this majestic lighthouse to enjoy an unparalleled panoramic view over the Wadden Sea and the surrounding island."
+          }
+        },
+        {
+          "name": {
+            "de": "Norderney Kap",
+            "hu": "Norderney Kap",
+            "ro": "Norderney Kap",
+            "en": "Norderney Kap"
+          },
+          "coords": [
+            7.156542,
+            53.710229
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.46,
+          "tip_5lang": {
+            "de": "Fotografieren Sie das berühmte nautische Wahrzeichen der Insel und nutzen Sie die Infotafeln, um mehr über die maritime Navigation zu lernen.",
+            "hu": "Fényképezze le a sziget híres tengerészeti mérföldkövét, és olvassa el az információs táblákat, hogy többet tudjon meg a tengeri navigációról.",
+            "ro": "Fotografiați celebrul reper nautic al insulei și folosiți panourile informative pentru a afla mai multe despre istoria navigației maritime.",
+            "en": "Photograph the island's famous nautical landmark and use the information boards to learn more about the history of maritime navigation."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienhöhe",
+            "hu": "Marienhöhe",
+            "ro": "Marienhöhe",
+            "en": "Marienhöhe"
+          },
+          "coords": [
+            7.138389,
+            53.707028
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Lassen Sie sich im Café in diesem historischen Pavillon nieder und genießen Sie ein Stück ostfriesische Torte mit Blick auf die Nordsee.",
+            "hu": "Üljön le a történelmi pavilon kávézójában, és élvezzen egy szelet kelet-fríz tortát, miközben az Északi-tenger hullámaiban gyönyörködik.",
+            "ro": "Luați loc la cafeneaua din acest pavilion istoric și savurați o felie de tort tradițional cu o vedere panoramică spectaculoasă la Marea Nordului.",
+            "en": "Take a seat in the café inside this historical pavilion and enjoy a slice of East Frisian cake with a spectacular view of the North Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "bade:haus",
+            "hu": "bade:haus",
+            "ro": "bade:haus",
+            "en": "bade:haus"
+          },
+          "coords": [
+            7.143653,
+            53.704299
+          ],
+          "category": "family",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Genießen Sie Europas größtes Thalasso-Zentrum für tiefe Entspannung, aber buchen Sie Ihre Wellness-Anwendungen unbedingt ein paar Tage im Voraus.",
+            "hu": "Élvezze Európa legnagyobb thalasso központjának mély relaxációját, de mindenképpen foglalja le a wellness kezeléseket néhány nappal előre.",
+            "ro": "Bucurați-vă de relaxare profundă în cel mai mare centru de talasoterapie din Europa, dar asigurați-vă că rezervați tratamentele în avans.",
+            "en": "Enjoy deep relaxation at Europe's largest thalassotherapy center, but make sure to book your wellness treatments a few days in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie die Naturwunder der Insel im Osten. Mittags erobern Sie den majestätischen Leuchtturm. Nachmittags spazieren Sie um das Kap und die Marienhöhe. Der Abend endet tiefenentspannt im Thalasso-Zentrum.",
+        "hu": "Fedezze fel a sziget természeti csodáit keleten. Délben hódítsa meg a fenséges világítótoronyt. Délután sétáljon a fok és a Marienhöhe körül. Az este mély relaxációval zárul a Thalasso központban.",
+        "ro": "Descoperiți minunile naturale ale insulei din est. La prânz cuceriți farul maiestuos. După-amiaza, plimbați-vă în jurul capului și Marienhöhe. Seara se încheie cu relaxare profundă în centrul Thalasso.",
+        "en": "Experience the island's natural wonders in the east. At midday, conquer the majestic lighthouse. In the afternoon, stroll around the cape and Marienhöhe. The evening ends with deep relaxation at the Thalasso center."
+      }
+    }
+  }
+}

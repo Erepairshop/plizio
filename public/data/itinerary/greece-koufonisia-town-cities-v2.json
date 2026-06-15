@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-koufonisia-town-cities-v2",
+  "anchor": {
+    "name": "Koufonisia Town",
+    "coords": [
+      25.6,
+      36.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ammos",
+            "hu": "Ammos",
+            "ro": "Ammos",
+            "en": "Ammos"
+          },
+          "coords": [
+            25.602308,
+            36.931673
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
+            "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
+            "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Loutro beach",
+            "hu": "Loutro beach",
+            "ro": "Loutro beach",
+            "en": "Loutro beach"
+          },
+          "coords": [
+            25.596221,
+            36.931586
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Loutro-Strand bietet einen ruhigen Rückzugsort mit kristallklarem, flachem Wasser, ideal für Familien, also bringen Sie unbedingt Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "A Loutro strand békés menedéket kínál kristálytiszta, sekély vizeivel, amely ideális családok számára, ezért mindenképpen hozzon magával saját sznorkelfelszerelést.",
+            "ro": "Plaja Loutro oferă un refugiu liniștit cu ape de mică adâncime, ideale pentru familii, așa că nu uitați să vă aduceți propriul echipament pentru snorkeling.",
+            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Limni beach",
+            "hu": "Limni beach",
+            "ro": "Limni beach",
+            "en": "Limni beach"
+          },
+          "coords": [
+            25.610699,
+            36.931587
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die kiesigen Ufer von Limni bilden einen dramatischen Küstenkontrast zu den Sandstränden und eignen sich hervorragend für Fotos, jedoch sind Badeschuhe sehr zu empfehlen.",
+            "hu": "A Limni kavicsos partja drámai tengerparti kontrasztot nyújt a homokos strandokhoz képest, és kiválóan alkalmas fotózásra, bár a vízicipő használata erősen ajánlott.",
+            "ro": "Țărmurile cu pietriș de la Limni oferă un contrast de coastă dramatic față de plajele cu nisip, fiind excelente pentru fotografii, deși încălțămintea de apă este recomandată.",
+            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Foinikas",
+            "hu": "Foinikas",
+            "ro": "Foinikas",
+            "en": "Foinikas"
+          },
+          "coords": [
+            25.613723,
+            36.934191
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Berühmt für seine einladende Taverne und das türkisfarbene Wasser, ist Foinikas der ultimative Ort zum Entspannen am Mittag, wo Sie unbedingt die frischen Meeresfrüchte probieren sollten.",
+            "hu": "A barátságos tavernájáról és türkizkék vizéről híres Foinikas a tökéletes déli pihenőhely, ahol mindenképpen érdemes megkóstolni a friss helyi tengeri herkentyűket.",
+            "ro": "Faimoasă pentru taverna sa primitoare și apele turcoaz, Foinikas este locul ideal pentru o pauză relaxantă la prânz, unde trebuie neapărat să gustați fructele de mare proaspete.",
+            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Fanos",
+            "hu": "Fanos",
+            "ro": "Fanos",
+            "en": "Fanos"
+          },
+          "coords": [
+            25.616388,
+            36.936037
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mit einer lebhaften Strandbar und fröhlicher Atmosphäre zieht Fanos ein junges Publikum an, also schnappen Sie sich einen erfrischenden Cocktail und genießen Sie die Musik.",
+            "hu": "A nyüzsgő strandbárral és energikus légkörrel rendelkező Fanos vidám tömeget vonz, ezért kérjen egy frissítő koktélt, és élvezze a pezsgő szigeti zenét.",
+            "ro": "Având un bar pe plajă vibrant și o atmosferă plină de energie, Fanos atrage o mulțime veselă, așa că luați un cocktail răcoritor și bucurați-vă de muzica insulei.",
+            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music."
+          }
+        },
+        {
+          "name": {
+            "de": "Italida",
+            "hu": "Italida",
+            "ro": "Italida",
+            "en": "Italida"
+          },
+          "coords": [
+            25.619875,
+            36.936513
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Italida gilt als einer der schönsten Strände der Insel und besticht durch goldenen Sand und unberührtes Wasser, aber denken Sie daran, dass es keinen natürlichen Schatten gibt.",
+            "hu": "A sziget egyik legszebb strandjaként számon tartott Italida arany homokkal és érintetlen vízzel büszkélkedhet, de ne feledje, hogy itt egyáltalán nincs természetes árnyék.",
+            "ro": "Considerată una dintre cele mai uimitoare plaje de pe insulă, Italida se mândrește cu nisip auriu și ape imaculate, dar rețineți că nu există absolut deloc umbră naturală.",
+            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Tag am Ammos, wo Sie den weichen Sand direkt am Hafen spüren, bevor ein sanfter Spaziergang Sie zu den ruhigen Ufern des Loutro-Strandes führt.\nMittags: Wenn die Sonne höher steigt, erkunden Sie die Kieselsteine von Limni und besuchen Sie dann Foinikas, um ein köstliches Mittagessen mit Meeresfrüchten am blauen Wasser zu genießen.\nNachmittags: Nach dem Ausruhen lädt die lebhafte Atmosphäre am Fanos zu einem erfrischenden Getränk an der Strandbar ein, begleitet von fröhlicher Inselmusik und warmen Ägäis-Brisen.\nAbends: Beenden Sie Ihren Spaziergang am majestätischen Italida-Strand, wo die späte Nachmittagssonne einen goldenen Schimmer auf die unberührte Landschaft wirft und den perfekten Abschluss bietet.",
+        "hu": "Délelőtt: Kezdje a napot az Ammos finom homokján, közvetlenül a kikötő mellett, mielőtt egy kellemes séta elvezet a Loutro strand békés partjaira, ahol a sekély víz hívogat.\nDél: Ahogy a nap magasabbra hág, fedezze fel a Limni kavicsos textúráit, majd irány Foinikas, hogy élvezze a pompás tengeri ebédet a vibrálóan kék tengerparton.\nDélután: Pihenés után a Fanos élénk hangulata egy frissítő italra csábít a strandbárban, amelyet a vidám szigeti zene és a langyos égei-tengeri szellő kísér.\nEste: Fejezze be sétáját a fenséges Italida strandon, ahol a késő délutáni napfény aranyló fényt vet az érintetlen tájra, ami tökéletes befejezése ennek a csodás napnak.",
+        "ro": "Dimineața: Începeți ziua la Ammos, simțind nisipul fin chiar lângă port, înainte ca o plimbare ușoară să vă poarte spre țărmurile pașnice și primitoare ale plajei Loutro.\nPrânz: Pe măsură ce soarele urcă, explorați texturile pietroase ale plajei Limni, apoi îndreptați-vă spre Foinikas pentru un prânz delicios cu fructe de mare lângă apele albastre.\nDupă-amiaza: După odihnă, atmosfera plină de viață de la Fanos vă invită la o băutură răcoritoare la barul de pe plajă, acompaniată de muzica veselă a insulei și briza caldă.\nSeara: Încheiați plimbarea la maiestuoasa plajă Italida, unde soarele târziu de după-amiază aruncă o strălucire aurie peste peisajul virgin, oferind un final perfect zilei.",
+        "en": "Morning: Begin your day at Ammos, feeling the soft sand between your toes right by the port, before a gentle stroll takes you to the peaceful shores of Loutro beach.\nMidday: As the sun climbs higher, explore the pebbly textures of Limni beach, and then head over to Foinikas to enjoy a delightful seafood lunch by the vibrant blue waters.\nAfternoon: After resting, the lively atmosphere at Fanos calls for a refreshing drink at the beach bar, accompanied by cheerful island music and warm Aegean breezes.\nEvening: Conclude your walk at the majestic Italida beach, where the late afternoon sun casts a golden glow over the untouched landscape, offering a perfect end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ammos",
+            "hu": "Ammos",
+            "ro": "Ammos",
+            "en": "Ammos"
+          },
+          "coords": [
+            25.602308,
+            36.931673
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
+            "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
+            "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Limni beach",
+            "hu": "Limni beach",
+            "ro": "Limni beach",
+            "en": "Limni beach"
+          },
+          "coords": [
+            25.610699,
+            36.931587
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die kiesigen Ufer von Limni bilden einen dramatischen Küstenkontrast zu den Sandstränden und eignen sich hervorragend für Fotos, jedoch sind Badeschuhe sehr zu empfehlen.",
+            "hu": "A Limni kavicsos partja drámai tengerparti kontrasztot nyújt a homokos strandokhoz képest, és kiválóan alkalmas fotózásra, bár a vízicipő használata erősen ajánlott.",
+            "ro": "Țărmurile cu pietriș de la Limni oferă un contrast de coastă dramatic față de plajele cu nisip, fiind excelente pentru fotografii, deși încălțămintea de apă este recomandată.",
+            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Foinikas",
+            "hu": "Foinikas",
+            "ro": "Foinikas",
+            "en": "Foinikas"
+          },
+          "coords": [
+            25.613723,
+            36.934191
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Berühmt für seine einladende Taverne und das türkisfarbene Wasser, ist Foinikas der ultimative Ort zum Entspannen am Mittag, wo Sie unbedingt die frischen Meeresfrüchte probieren sollten.",
+            "hu": "A barátságos tavernájáról és türkizkék vizéről híres Foinikas a tökéletes déli pihenőhely, ahol mindenképpen érdemes megkóstolni a friss helyi tengeri herkentyűket.",
+            "ro": "Faimoasă pentru taverna sa primitoare și apele turcoaz, Foinikas este locul ideal pentru o pauză relaxantă la prânz, unde trebuie neapărat să gustați fructele de mare proaspete.",
+            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Fanos",
+            "hu": "Fanos",
+            "ro": "Fanos",
+            "en": "Fanos"
+          },
+          "coords": [
+            25.616388,
+            36.936037
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mit einer lebhaften Strandbar und fröhlicher Atmosphäre zieht Fanos ein junges Publikum an, also schnappen Sie sich einen erfrischenden Cocktail und genießen Sie die Musik.",
+            "hu": "A nyüzsgő strandbárral és energikus légkörrel rendelkező Fanos vidám tömeget vonz, ezért kérjen egy frissítő koktélt, és élvezze a pezsgő szigeti zenét.",
+            "ro": "Având un bar pe plajă vibrant și o atmosferă plină de energie, Fanos atrage o mulțime veselă, așa că luați un cocktail răcoritor și bucurați-vă de muzica insulei.",
+            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music."
+          }
+        },
+        {
+          "name": {
+            "de": "Italida",
+            "hu": "Italida",
+            "ro": "Italida",
+            "en": "Italida"
+          },
+          "coords": [
+            25.619875,
+            36.936513
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Italida gilt als einer der schönsten Strände der Insel und besticht durch goldenen Sand und unberührtes Wasser, aber denken Sie daran, dass es keinen natürlichen Schatten gibt.",
+            "hu": "A sziget egyik legszebb strandjaként számon tartott Italida arany homokkal és érintetlen vízzel büszkélkedhet, de ne feledje, hogy itt egyáltalán nincs természetes árnyék.",
+            "ro": "Considerată una dintre cele mai uimitoare plaje de pe insulă, Italida se mândrește cu nisip auriu și ape imaculate, dar rețineți că nu există absolut deloc umbră naturală.",
+            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Pori",
+            "hu": "Pori",
+            "ro": "Pori",
+            "en": "Pori"
+          },
+          "coords": [
+            25.621903,
+            36.944874
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Als herrliche, windgeschützte Bucht in Halbmondform ist Pori ein atemberaubendes Paradies, also machen Sie unbedingt einen Spaziergang zu den nahegelegenen Meereshöhlen.",
+            "hu": "A szélvédett, félhold alakú pompás öbölként elterülő Pori egy lélegzetelállító paradicsom, ezért tegyen egy sétát a közeli tengeri barlangokhoz egy kis extra kalandért.",
+            "ro": "O magnifică baia în formă de semilună care vă protejează de vânt, Pori este un paradis uluitor, așa că faceți o plimbare până la peșterile marine din apropiere.",
+            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihre Radtour direkt in der Stadt am Ammos und saugen Sie die frühe Inselatmosphäre auf, bevor Sie gemütlich zur einzigartigen Felsküste von Limni radeln.\nMittags: Die kurze Fahrt nach Foinikas belohnt Sie mit einem hervorragenden Ort für eine Mittagspause, gefolgt von einem Stopp in Fanos, um die energiegeladene Atmosphäre zu genießen.\nNachmittags: Radeln Sie weiter zu den unberührten goldenen Sandstränden von Italida, einem atemberaubenden Küstenabschnitt, wo Sie ganz in die natürliche Schönheit eintauchen können.\nAbends: Ihre letzte Fahrt bringt Sie zur prächtigen, halbmondförmigen Bucht von Pori, die spektakuläre Ausblicke und eine ruhige Umgebung bietet, um den Sonnenuntergang zu genießen.",
+        "hu": "Délelőtt: Kezdje kerékpártúráját a városban, az Ammosnál, magába szívva a korai szigeti hangulatot, mielőtt könnyedén áttekerne a Limni strand egyedülálló sziklás partvonalához.\nDél: A rövid út Foinikasba egy kiváló déli pihenőhellyel jutalmazza meg, amelyet egy gyors megálló követ a Fanosnál, ahol élvezheti az energikus légkört és a hűsítő tengert.\nDélután: Folytassa útját az Italida érintetlen aranyhomokja felé, amely egy lenyűgöző partszakasz, ahol teljesen elmerülhet Koufonisia természetes szépségében és békéjében.\nEste: Az utolsó tekerés eljuttat Pori fenséges, félhold alakú öblébe, amely látványos kilátást és nyugodt környezetet kínál a lazításhoz, miközben a nap lemegy az Égei-tenger felett.",
+        "ro": "Dimineața: Începeți turul cu bicicleta chiar în oraș la Ammos, absorbind atmosfera matinală, înainte de a pedala ușor spre coasta stâncoasă și unică de la plaja Limni.\nPrânz: Scurta călătorie către Foinikas vă răsplătește cu un loc excelent pentru prânz, urmat de o oprire rapidă la Fanos pentru a vă bucura de ambianța energică și marea răcoroasă.\nDupă-amiaza: Continuați să pedalați spre nisipurile aurii și imaculate de la Italida, o întindere de coastă uimitoare unde vă puteți cufunda complet în frumusețea naturală a insulei.\nSeara: Ultima plimbare vă aduce la magnificul golf în formă de semilună Pori, oferind vederi spectaculoase și un mediu senin pentru relaxare, în timp ce soarele apune peste mare.",
+        "en": "Morning: Kick off your cycling tour right in town at Ammos, soaking up the early island vibes before easily pedaling your way to the unique rocky coastline of Limni beach.\nMidday: The short ride to Foinikas rewards you with an excellent spot for a midday break, followed by a quick stop at Fanos to enjoy the energetic ambiance and refreshing sea.\nAfternoon: Continue cycling towards the pristine golden sands of Italida, a stunning stretch of coastline where you can fully immerse yourself in the natural beauty of Koufonisia.\nEvening: Your final ride brings you to the magnificent crescent bay of Pori, offering spectacular views and a serene environment to relax as the sun sets over the Aegean Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 20.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ammos",
+            "hu": "Ammos",
+            "ro": "Ammos",
+            "en": "Ammos"
+          },
+          "coords": [
+            25.602308,
+            36.931673
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
+            "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
+            "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pori",
+            "hu": "Pori",
+            "ro": "Pori",
+            "en": "Pori"
+          },
+          "coords": [
+            25.621903,
+            36.944874
+          ],
+          "category": "recreational",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Als herrliche, windgeschützte Bucht in Halbmondform ist Pori ein atemberaubendes Paradies, also machen Sie unbedingt einen Spaziergang zu den nahegelegenen Meereshöhlen.",
+            "hu": "A szélvédett, félhold alakú pompás öbölként elterülő Pori egy lélegzetelállító paradicsom, ezért tegyen egy sétát a közeli tengeri barlangokhoz egy kis extra kalandért.",
+            "ro": "O magnifică baia în formă de semilună care vă protejează de vânt, Pori este un paradis uluitor, așa că faceți o plimbare până la peșterile marine din apropiere.",
+            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Panormos",
+            "hu": "Panormos",
+            "ro": "Panormos",
+            "en": "Panormos"
+          },
+          "coords": [
+            25.538706,
+            36.95854
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.6,
+          "tip_5lang": {
+            "de": "Panormos ist eine abgeschiedene, von wunderschönen Palmen gesäumte Oase, die einen ruhigen Rückzugsort vom Trubel bietet, aber packen Sie unbedingt reichlich Trinkwasser ein.",
+            "hu": "A Panormos egy gyönyörű pálmafákkal szegélyezett, eldugott menedék, amely békés kikapcsolódást kínál a nyüzsgéstől távol, de feltétlenül csomagoljon bőséges ivóvizet.",
+            "ro": "Panormos este un refugiu retras mărginit de palmieri superbi, oferind o evadare liniștită din zonele aglomerate, dar asigurați-vă că aveți la voi multă apă potabilă.",
+            "en": "Panormos is a secluded haven lined with beautiful palm trees, offering a tranquil escape from the bustling areas, but make sure to pack plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Kleido",
+            "hu": "Paralia Kleido",
+            "ro": "Paralia Kleido",
+            "en": "Paralia Kleido"
+          },
+          "coords": [
+            25.559867,
+            36.987022
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Dieses versteckte Juwel belohnt Besucher mit absoluter Ruhe und unberührter Naturschönheit, perfekt zum Sonnenbaden, vorausgesetzt, Sie bringen alle nötigen Vorräte mit.",
+            "hu": "Ez a rejtett gyöngyszem abszolút nyugalommal és érintetlen természeti szépséggel jutalmazza a látogatókat, amely tökéletes a napozáshoz, feltéve, ha minden szükséges felszerelést magával hoz.",
+            "ro": "Această bijuterie ascunsă răsplătește vizitatorii cu o liniște absolută și o frumusețe naturală neatinsă, fiind perfectă pentru plajă, cu condiția să aduceți provizii.",
+            "en": "This hidden gem rewards visitors with absolute tranquility and untouched natural beauty, making it perfect for sunbathing, provided you bring all necessary supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Loutro beach",
+            "hu": "Loutro beach",
+            "ro": "Loutro beach",
+            "en": "Loutro beach"
+          },
+          "coords": [
+            25.596221,
+            36.931586
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Der Loutro-Strand bietet einen ruhigen Rückzugsort mit kristallklarem, flachem Wasser, ideal für Familien, also bringen Sie unbedingt Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "A Loutro strand békés menedéket kínál kristálytiszta, sekély vizeivel, amely ideális családok számára, ezért mindenképpen hozzon magával saját sznorkelfelszerelést.",
+            "ro": "Plaja Loutro oferă un refugiu liniștit cu ape de mică adâncime, ideale pentru familii, așa că nu uitați să vă aduceți propriul echipament pentru snorkeling.",
+            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Roadtrip am Ammos, um die ersten Sonnenstrahlen einzufangen, und fahren Sie dann bequem nach Pori, um in den geschützten Gewässern ausgiebig zu schwimmen.\nMittags: Fahren Sie weiter zum abgelegenen Panormos, wo der Schatten wunderschöner Palmen und die einsame Küste einen idyllischen Ort für ein ruhiges, entspanntes Picknick am Mittag bieten.\nNachmittags: Eine kurze Fahrt bringt Sie nach Paralia Kleido, einem versteckten Juwel, das absolute Ruhe und unberührte Natur bietet, weit weg von den typischen Touristenmassen.\nAbends: Fahren Sie zurück in Richtung Stadt und beenden Sie Ihre Reise am Loutro-Strand, wo Sie beobachten können, wie der Himmel über dem flachen Wasser seine Farben ändert.",
+        "hu": "Délelőtt: Kezdje autós szigettúráját az Ammosnál, hogy elkapja az első napsugarakat, majd vezessen kényelmesen Poriba egy hosszabb, békés délelőtti fürdőzésre a védett vizekben.\nDél: Vegye az irányt a távolabbi Panormos felé, ahol a gyönyörű pálmafák árnyéka és az eldugott partvonal idilli helyet teremt egy csendes, pihentető déli piknikhez.\nDélután: Egy rövid autóút a Paralia Kleido felé visz, egy rejtett gyöngyszemhez, amely abszolút nyugalmat és érintetlen természeti tájat kínál, távol a tipikus turistatömegektől.\nEste: Vezessen vissza a város felé, és fejezze be az utazást a Loutro strandon, ahol a sekély, békés víz felett gyönyörködhet az égbolt változó színeiben, mielőtt vacsorázni indulna.",
+        "ro": "Dimineața: Începeți excursia cu mașina la Ammos pentru a prinde primele raze de soare, apoi conduceți confortabil spre Pori pentru o dimineață prelungită de înot în ape limpezi și adăpostite.\nPrânz: Îndreptați-vă spre izolatul Panormos, unde umbra palmierilor superbi și țărmul retras creează un loc idilic pentru un picnic de prânz liniștit și relaxant în mijlocul naturii.\nDupă-amiaza: Un drum scurt vă aduce la Paralia Kleido, o bijuterie ascunsă care oferă o liniște absolută și un peisaj natural virgin, departe de aglomerația turistică tipică.\nSeara: Conduceți înapoi spre oraș și încheiați-vă călătoria la plaja Loutro, unde puteți urmări cum cerul își schimbă culorile peste apele puțin adânci, înainte de a merge la cină.",
+        "en": "Morning: Start your island road trip at Ammos to catch the first gentle rays of the sun, then drive comfortably out to Pori for an extended morning of swimming in clear, sheltered waters.\nMidday: Head further out to the remote Panormos, where the shade of beautiful palm trees and secluded shoreline create an idyllic spot for a quiet, relaxing midday picnic.\nAfternoon: A short drive brings you to Paralia Kleido, a hidden gem offering absolute tranquility and untouched natural scenery, far away from the typical tourist crowds.\nEvening: Drive back towards the town and conclude your journey at Loutro beach, where you can watch the sky change colors over the shallow, peaceful waters before heading to dinner."
+      }
+    }
+  }
+}

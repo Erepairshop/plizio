@@ -1,0 +1,451 @@
+{
+  "city_id": "ernee",
+  "anchor": {
+    "name": "Ernée",
+    "coords": [
+      -0.9328,
+      48.2969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Pannard",
+            "hu": "Pannard-kastély",
+            "ro": "Castelul Pannard",
+            "en": "Pannard Castle"
+          },
+          "coords": [
+            -0.94318,
+            48.30323
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme des Schlosses Pannard, die von reicher lokaler Geschichte zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a Pannard-kastély impozáns tornyait, amelyek a gazdag helyi történelemről mesélnek, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Admirați turnurile impunătoare ale Castelului Pannard care vorbesc despre bogata istorie locală și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Admire the imposing towers of Pannard Castle that speak of rich local history, and be sure to wear sturdy shoes for walking the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Naturschutzgebiet Bizeuls",
+            "hu": "Bizeuls Regionális Természetvédelmi Terület",
+            "ro": "Rezervația naturală regională Bizeuls",
+            "en": "Bizeuls Regional Nature Reserve"
+          },
+          "coords": [
+            -0.927892,
+            48.312125
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Feuchtgebiete des Bizeuls-Reservats, bleiben Sie leise, um seltene Vögel zu sichten, aber vergessen Sie im Sommer Ihr Mückenspray nicht.",
+            "hu": "Fedezze fel a Bizeuls rezervátum élettel teli vizes élőhelyeit, csendben figyelve a ritka vándormadarakat, de nyáron ne felejtse otthon a szúnyogriasztót.",
+            "ro": "Explorați zonele umede pline de viață ale rezervației Bizeuls, păstrând liniștea pentru a zări păsări migratoare rare, dar nu uitați spray-ul împotriva țânțarilor vara.",
+            "en": "Explore the vibrant wetlands of the Bizeuls reserve, keeping quiet to spot rare migratory birds, but don't forget your mosquito repellent in the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Louis Derbré",
+            "hu": "Louis Derbré Kulturális Tér",
+            "ro": "Spațiul Cultural Louis Derbré",
+            "en": "Espace Culturel Louis Derbré"
+          },
+          "coords": [
+            -0.914707,
+            48.300123
+          ],
+          "category": "cultural",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie riesige, beeindruckende Bronzeskulpturen an diesem einzigartigen kulturellen Ort im Freien, und versuchen Sie, an einem sonnigen Tag zu kommen.",
+            "hu": "Fedezzen fel hatalmas, lenyűgöző bronzszobrokat ezen az egyedülálló szabadtéri kulturális helyszínen, és próbáljon meg napos időben jönni a fényjáték miatt.",
+            "ro": "Descoperiți sculpturi masive și impresionante din bronz în acest spațiu cultural unic în aer liber și încercați să-l vizitați într-o zi însorită pentru reflexii spectaculoase.",
+            "en": "Discover massive, awe-inspiring bronze sculptures in this unique outdoor cultural space, and try to visit on a sunny day when the metal brilliantly reflects the light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von Charné",
+            "hu": "Charné kápolna",
+            "ro": "Capela din Charné",
+            "en": "Chapelle de Charné"
+          },
+          "coords": [
+            -0.918802,
+            48.296933
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, alte Kapelle, um ihre atemberaubenden mittelalterlichen Fresken zu betrachten, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
+            "hu": "Lépjen be ebbe a békés, ősi kápolnába, hogy megcsodálja lenyűgöző középkori freskóit, és hozzon egy könnyű kabátot, mivel a kőbelső egész évben hűvös marad.",
+            "ro": "Pășiți în această capelă veche și liniștită pentru a observa frescele sale medievale uimitoare și aduceți o jachetă ușoară, deoarece interiorul din piatră este destul de răcoros.",
+            "en": "Step inside this peaceful, ancient chapel to observe its stunning medieval frescoes, and bring a light jacket as the stone interior remains quite cool all year round."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Ernée, genießen Sie die majestätische Atmosphäre des Schlosses Pannard und die frische Morgenluft.\n\nGegen Mittag tauchen Sie in die reiche Artenvielfalt der Bizeuls-Feuchtgebiete ein und genießen eine friedliche Mittagspause in der unberührten Natur.\n\nDer Nachmittag ist der Kunst im Espace Culturel Louis Derbré gewidmet, wo monumentale Bronzeskulpturen einen faszinierenden Dialog mit dem Himmel führen.\n\nBeenden Sie Ihren Spaziergang mit einem ruhigen Besuch der Kapelle von Charné und lassen Sie die historischen Entdeckungen des Tages im warmen Abendlicht Revue passieren.",
+        "hu": "Kezdje a napot Ernée történelmi szívében, élvezve a Pannard-kastély fenséges hangulatát és a friss reggeli levegőt, mielőtt a zöldbe indulna.\n\nDél közeledtével merüljön el a Bizeuls vizes élőhelyek gazdag biodiverzitásában, élvezve a békés ebédszünetet a helyi növény- és állatvilág körében.\n\nA délután a művészeté a Louis Derbré Kulturális Térben, ahol a monumentális bronzszobrok lenyűgöző párbeszédet folytatnak a nyitott éggel.\n\nZárja sétáját a Charné kápolna békés esti látogatásával, visszagondolva a nap történelmi felfedezéseire, miközben a lemenő nap megvilágítja a falakat.",
+        "ro": "Începeți-vă ziua plimbându-vă prin inima istorică a orașului Ernée, admirând atmosfera Castelului Pannard și aerul proaspăt al dimineții.\n\nLa prânz, cufundați-vă în bogata biodiversitate a zonelor umede Bizeuls, bucurându-vă de o pauză liniștită înconjurați de floră și faună.\n\nDupă-amiaza este dedicată artei la Espace Culturel Louis Derbré, unde sculpturile monumentale din bronz creează un dialog fascinant cu cerul deschis.\n\nÎncheiați-vă călătoria cu o vizită senină la Capela din Charné, reflectând asupra descoperirilor zilei în timp ce soarele apune peste pietrele antice.",
+        "en": "Start your day walking through the historic heart of Ernée, taking in the majestic atmosphere of Pannard Castle and the crisp morning air before continuing to the lush natural landscapes just outside the urban center.\n\nAs noon approaches, immerse yourself in the rich biodiversity of the Bizeuls wetlands, enjoying a peaceful lunch break surrounded by native flora and fauna while listening to the soothing sounds of nature.\n\nThe afternoon is dedicated to art and culture at the expansive Espace Culturel Louis Derbré, where monumental bronze sculptures create a fascinating dialogue with the open sky and surrounding greenery.\n\nConclude your walking journey with a serene evening visit to the Chapelle de Charné, reflecting on the day's historical and cultural discoveries as the sun sets and bathes the ancient stone walls in warm light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de la Contrie",
+            "hu": "Dolmen de la Contrie",
+            "ro": "Dolmen de la Contrie",
+            "en": "Dolmen de la Contrie"
+          },
+          "coords": [
+            -0.9347,
+            48.3273
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses antike megalithische Bauwerk, das prähistorische Bestattungspraktiken offenbart, und folgen Sie dem kleinen Feldweg für den besten Fotowinkel.",
+            "hu": "Csodálja meg ezt az ősi megalitikus építményt, amely történelem előtti temetkezési szokásokat tár fel, és kövesse a mögötte lévő kis ösvényt a legjobb fotókért.",
+            "ro": "Minunați-vă de această structură megalitică antică ce dezvăluie practici funerare preistorice și urmați mica potecă de pământ din spate pentru cel mai bun unghi fotografic.",
+            "en": "Marvel at this ancient megalithic structure revealing prehistoric burial practices, and follow the small dirt path behind it for the best photographic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Naturschutzgebiet Bizeuls",
+            "hu": "Bizeuls Regionális Természetvédelmi Terület",
+            "ro": "Rezervația naturală regională Bizeuls",
+            "en": "Bizeuls Regional Nature Reserve"
+          },
+          "coords": [
+            -0.927892,
+            48.312125
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Feuchtgebiete des Bizeuls-Reservats, bleiben Sie leise, um seltene Vögel zu sichten, aber vergessen Sie im Sommer Ihr Mückenspray nicht.",
+            "hu": "Fedezze fel a Bizeuls rezervátum élettel teli vizes élőhelyeit, csendben figyelve a ritka vándormadarakat, de nyáron ne felejtse otthon a szúnyogriasztót.",
+            "ro": "Explorați zonele umede pline de viață ale rezervației Bizeuls, păstrând liniștea pentru a zări păsări migratoare rare, dar nu uitați spray-ul împotriva țânțarilor vara.",
+            "en": "Explore the vibrant wetlands of the Bizeuls reserve, keeping quiet to spot rare migratory birds, but don't forget your mosquito repellent in the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Louis Derbré",
+            "hu": "Louis Derbré Kulturális Tér",
+            "ro": "Spațiul Cultural Louis Derbré",
+            "en": "Espace Culturel Louis Derbré"
+          },
+          "coords": [
+            -0.914707,
+            48.300123
+          ],
+          "category": "cultural",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie riesige, beeindruckende Bronzeskulpturen an diesem einzigartigen kulturellen Ort im Freien, und versuchen Sie, an einem sonnigen Tag zu kommen.",
+            "hu": "Fedezzen fel hatalmas, lenyűgöző bronzszobrokat ezen az egyedülálló szabadtéri kulturális helyszínen, és próbáljon meg napos időben jönni a fényjáték miatt.",
+            "ro": "Descoperiți sculpturi masive și impresionante din bronz în acest spațiu cultural unic în aer liber și încercați să-l vizitați într-o zi însorită pentru reflexii spectaculoase.",
+            "en": "Discover massive, awe-inspiring bronze sculptures in this unique outdoor cultural space, and try to visit on a sunny day when the metal brilliantly reflects the light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pannard",
+            "hu": "Pannard-kastély",
+            "ro": "Castelul Pannard",
+            "en": "Pannard Castle"
+          },
+          "coords": [
+            -0.94318,
+            48.30323
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme des Schlosses Pannard, die von reicher lokaler Geschichte zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a Pannard-kastély impozáns tornyait, amelyek a gazdag helyi történelemről mesélnek, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Admirați turnurile impunătoare ale Castelului Pannard care vorbesc despre bogata istorie locală și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Admire the imposing towers of Pannard Castle that speak of rich local history, and be sure to wear sturdy shoes for walking the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von Charné",
+            "hu": "Charné kápolna",
+            "ro": "Capela din Charné",
+            "en": "Chapelle de Charné"
+          },
+          "coords": [
+            -0.918802,
+            48.296933
+          ],
+          "category": "religious",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, alte Kapelle, um ihre atemberaubenden mittelalterlichen Fresken zu betrachten, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
+            "hu": "Lépjen be ebbe a békés, ősi kápolnába, hogy megcsodálja lenyűgöző középkori freskóit, és hozzon egy könnyű kabátot, mivel a kőbelső egész évben hűvös marad.",
+            "ro": "Pășiți în această capelă veche și liniștită pentru a observa frescele sale medievale uimitoare și aduceți o jachetă ușoară, deoarece interiorul din piatră este destul de răcoros.",
+            "en": "Step inside this peaceful, ancient chapel to observe its stunning medieval frescoes, and bring a light jacket as the stone interior remains quite cool all year round."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserspielplatz Montenay",
+            "hu": "Montenay vízi játszótér",
+            "ro": "Parcul acvatic Montenay",
+            "en": "Montenay Water Park Games"
+          },
+          "coords": [
+            -0.898742,
+            48.289132
+          ],
+          "category": "family",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Nachmittag in diesem familienfreundlichen Seepark mit zahlreichen Wasseraktivitäten, und packen Sie einen Picknickkorb für die schattigen Wiesen.",
+            "hu": "Töltsön el egy pihentető délutánt ezen a családbarát tónál, amely számos vízi programot kínál, és csomagoljon piknikkosarat, hogy élvezhesse az árnyékos füves területeket.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă în acest parc acvatic potrivit pentru familii și pregătiți un coș de picnic pentru a profita la maximum de zonele cu iarbă umbrite.",
+            "en": "Enjoy a relaxing afternoon at this family-friendly lake park with numerous water activities, and pack a picnic basket to make the most of the shaded grassy areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie aktiv und radeln Sie zum antiken Dolmen de la Contrie, spüren Sie die Brise und fahren Sie weiter zum ruhigen Naturschutzgebiet Bizeuls.\n\nGenießen Sie die Mittagssonne inmitten monumentaler Kunst im Espace Culturel Louis Derbré, einem perfekten Ort, um sich kurz auszuruhen.\n\nIhre Nachmittagsfahrt führt Sie am imposanten Schloss Pannard und der ruhigen Kapelle von Charné vorbei, die wunderbare Kontraste bieten.\n\nBeenden Sie Ihre Radtour entspannt am See Montenay, wo das ruhige Wasser den Sonnenuntergang spiegelt und den aktiven Tag perfekt ausklingen lässt.",
+        "hu": "Indítsa aktívan a napot az ősi Dolmen de la Contrie felé pedálozva, majd folytassa útját a békés Bizeuls természetvédelmi terület irányába.\n\nÉlvezze a déli napsütést a monumentális művészetek között a Louis Derbré Kulturális Térben, amely tökéletes helyszín egy rövid pihenőre.\n\nA délutáni túra az impozáns Pannard-kastély és a csendes Charné kápolna mellett halad el, elragadó építészeti kontrasztokat kínálva.\n\nFejezze be kerékpártúráját a Montenay tópartján, ahol a nyugodt esti vizek tükrözik a naplementét, tökéletes lezárást nyújtva az aktív napnak.",
+        "ro": "Începeți dimineața pedalând spre anticul Dolmen de la Contrie, simțind briza revigorantă înainte de a vă îndrepta spre rezervația Bizeuls.\n\nBucurați-vă de soarele amiezii înconjurați de artă monumentală la Espace Culturel Louis Derbré, un loc perfect pentru a vă odihni picioarele.\n\nPlimbarea de după-amiază vă poartă pe lângă impunătorul Castel Pannard și liniștita Capelă din Charné, oferind contraste arhitecturale încântătoare.\n\nTerminați turul cu bicicleta relaxându-vă la lacul Montenay, unde apele liniștite de seară reflectă apusul perfect.",
+        "en": "Kick off an active morning by pedaling to the ancient Dolmen de la Contrie, feeling the refreshing breeze as you cycle through history before navigating towards the serene Bizeuls nature reserve for a quiet break.\n\nEnjoy the midday sun surrounded by monumental art at Espace Culturel Louis Derbré, a perfect spot to rest your legs and marvel at massive bronze works before heading back towards the town's historical landmarks.\n\nYour afternoon ride takes you past the imposing Pannard Castle and the tranquil Chapelle de Charné, offering delightful architectural contrasts that are easily appreciated from the comfortable pace of your bicycle saddle.\n\nFinish your cycling tour with a relaxing glide down to the Jeux plan d'eau Montenay, where the calm evening waters reflect the sunset, providing a perfect, family-friendly atmosphere to wind down your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 13.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption templom",
+            "ro": "Biserica Notre-Dame de l'Assomption",
+            "en": "Church of Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -0.997804,
+            48.306762
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser historischen Kirche, und achten Sie auf die bunten Buntglasfenster, die man am besten morgens betrachtet.",
+            "hu": "Csodálja meg ennek a közösséget összefogó történelmi templomnak a lenyűgöző építészeti részleteit, és keresse a bonyolult ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați detaliile arhitecturale izbitoare ale acestei biserici istorice și căutați vitraliile complicate care sunt cel mai bine văzute dimineața.",
+            "en": "Admire the striking architectural details of this historic church that anchors the community, and look out for the intricate stained glass windows best viewed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pannard",
+            "hu": "Pannard-kastély",
+            "ro": "Castelul Pannard",
+            "en": "Pannard Castle"
+          },
+          "coords": [
+            -0.94318,
+            48.30323
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme des Schlosses Pannard, die von reicher lokaler Geschichte zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg a Pannard-kastély impozáns tornyait, amelyek a gazdag helyi történelemről mesélnek, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Admirați turnurile impunătoare ale Castelului Pannard care vorbesc despre bogata istorie locală și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Admire the imposing towers of Pannard Castle that speak of rich local history, and be sure to wear sturdy shoes for walking the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Contrie",
+            "hu": "Dolmen de la Contrie",
+            "ro": "Dolmen de la Contrie",
+            "en": "Dolmen de la Contrie"
+          },
+          "coords": [
+            -0.9347,
+            48.3273
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses antike megalithische Bauwerk, das prähistorische Bestattungspraktiken offenbart, und folgen Sie dem kleinen Feldweg für den besten Fotowinkel.",
+            "hu": "Csodálja meg ezt az ősi megalitikus építményt, amely történelem előtti temetkezési szokásokat tár fel, és kövesse a mögötte lévő kis ösvényt a legjobb fotókért.",
+            "ro": "Minunați-vă de această structură megalitică antică ce dezvăluie practici funerare preistorice și urmați mica potecă de pământ din spate pentru cel mai bun unghi fotografic.",
+            "en": "Marvel at this ancient megalithic structure revealing prehistoric burial practices, and follow the small dirt path behind it for the best photographic angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Naturschutzgebiet Bizeuls",
+            "hu": "Bizeuls Regionális Természetvédelmi Terület",
+            "ro": "Rezervația naturală regională Bizeuls",
+            "en": "Bizeuls Regional Nature Reserve"
+          },
+          "coords": [
+            -0.927892,
+            48.312125
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Feuchtgebiete des Bizeuls-Reservats, bleiben Sie leise, um seltene Vögel zu sichten, aber vergessen Sie im Sommer Ihr Mückenspray nicht.",
+            "hu": "Fedezze fel a Bizeuls rezervátum élettel teli vizes élőhelyeit, csendben figyelve a ritka vándormadarakat, de nyáron ne felejtse otthon a szúnyogriasztót.",
+            "ro": "Explorați zonele umede pline de viață ale rezervației Bizeuls, păstrând liniștea pentru a zări păsări migratoare rare, dar nu uitați spray-ul împotriva țânțarilor vara.",
+            "en": "Explore the vibrant wetlands of the Bizeuls reserve, keeping quiet to spot rare migratory birds, but don't forget your mosquito repellent in the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Louis Derbré",
+            "hu": "Louis Derbré Kulturális Tér",
+            "ro": "Spațiul Cultural Louis Derbré",
+            "en": "Espace Culturel Louis Derbré"
+          },
+          "coords": [
+            -0.914707,
+            48.300123
+          ],
+          "category": "cultural",
+          "arrive_at": "14:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie riesige, beeindruckende Bronzeskulpturen an diesem einzigartigen kulturellen Ort im Freien, und versuchen Sie, an einem sonnigen Tag zu kommen.",
+            "hu": "Fedezzen fel hatalmas, lenyűgöző bronzszobrokat ezen az egyedülálló szabadtéri kulturális helyszínen, és próbáljon meg napos időben jönni a fényjáték miatt.",
+            "ro": "Descoperiți sculpturi masive și impresionante din bronz în acest spațiu cultural unic în aer liber și încercați să-l vizitați într-o zi însorită pentru reflexii spectaculoase.",
+            "en": "Discover massive, awe-inspiring bronze sculptures in this unique outdoor cultural space, and try to visit on a sunny day when the metal brilliantly reflects the light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von Charné",
+            "hu": "Charné kápolna",
+            "ro": "Capela din Charné",
+            "en": "Chapelle de Charné"
+          },
+          "coords": [
+            -0.918802,
+            48.296933
+          ],
+          "category": "religious",
+          "arrive_at": "15:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, alte Kapelle, um ihre atemberaubenden mittelalterlichen Fresken zu betrachten, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
+            "hu": "Lépjen be ebbe a békés, ősi kápolnába, hogy megcsodálja lenyűgöző középkori freskóit, és hozzon egy könnyű kabátot, mivel a kőbelső egész évben hűvös marad.",
+            "ro": "Pășiți în această capelă veche și liniștită pentru a observa frescele sale medievale uimitoare și aduceți o jachetă ușoară, deoarece interiorul din piatră este destul de răcoros.",
+            "en": "Step inside this peaceful, ancient chapel to observe its stunning medieval frescoes, and bring a light jacket as the stone interior remains quite cool all year round."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gervais-et-Saint-Protais",
+            "hu": "Saint-Gervais-et-Saint-Protais templom",
+            "ro": "Biserica Saint-Gervais-et-Saint-Protais",
+            "en": "Église Saint-Gervais-et-Saint-Protais"
+          },
+          "coords": [
+            -0.894683,
+            48.288374
+          ],
+          "category": "religious",
+          "arrive_at": "16:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bemerkenswerten religiösen Artefakte in dieser wunderschön erhaltenen Kirche, und fragen Sie höflich den Hausmeister nach den versteckten Chorstühlen.",
+            "hu": "Vizsgálja meg a figyelemre méltó vallási leleteket ebben a gyönyörűen megőrzött templomban, és kérdezze meg udvariasan a gondnokot, ha szeretné látni a rejtett kórusüléseket.",
+            "ro": "Examinați artefactele religioase remarcabile găzduite în această biserică frumos conservată și întrebați politicos îngrijitorul dacă doriți să vedeți stranele ascunse ale corului.",
+            "en": "Examine the remarkable religious artifacts housed within this beautifully preserved church, and politely ask the local caretaker if you wish to see the hidden choir stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der großen Kirche Notre-Dame de l'Assomption und fahren Sie bequem zur mittelalterlichen Pracht des Schlosses Pannard.\n\nFahren Sie weiter aufs Land, um den prähistorischen Dolmen de la Contrie zu entdecken, gefolgt von einem Spaziergang in den Bizeuls-Feuchtgebieten.\n\nDer Nachmittag bietet eine Fahrt zu den Skulpturen im Kulturraum Louis Derbré und einen Stopp an der malerischen Kapelle von Charné.\n\nBeenden Sie Ihre Tour an der Kirche Saint-Gervais-et-Saint-Protais und genießen Sie die abendliche Atmosphäre vor einem verdienten Abendessen.",
+        "hu": "Kezdje autós túráját a lenyűgöző Notre-Dame de l'Assomption templomnál, majd vezessen a Pannard-kastély középkori pompája felé a tiszta égen.\n\nUtazzon tovább a vidékre, hogy felfedezze az ősi Dolmen de la Contrie-t, majd tegyen egy frissítő déli sétát a Bizeuls vizes élőhelyein.\n\nA délután kényelmes autózást tartogat a Louis Derbré szobraihoz és egy gyors megállót a festői Charné kápolnánál, sietség nélkül.\n\nZárja utazását a bájos Saint-Gervais-et-Saint-Protais templomnál, élvezve a békés szürkületi hangulatot, mielőtt visszatérne a központba.",
+        "ro": "Începeți turul cu mașina la grandioasa Biserică Notre-Dame de l'Assomption, mergând spre splendoarea medievală a Castelului Pannard.\n\nConduceți spre mediul rural pentru a descoperi Dolmenul preistoric de la Contrie, urmat de o plimbare răcoritoare la prânz în rezervația Bizeuls.\n\nDupă-amiaza include o deplasare confortabilă la sculpturile monumentale de la Spațiul Cultural Louis Derbré și o oprire la Capela din Charné.\n\nÎncheiați călătoria vizitând fermecătoarea Biserică Saint-Gervais-et-Saint-Protais, bucurându-vă de atmosfera pașnică a crepuscului.",
+        "en": "Embark on a comprehensive driving tour starting at the grand Church of Notre-Dame de l'Assomption, smoothly cruising through Ernée's outskirts to reach the medieval splendor of Pannard Castle under the clear morning sky.\n\nDrive further into the countryside to uncover the prehistoric Dolmen de la Contrie, followed by a refreshing midday walk in the Bizeuls wetlands, easily accessible and perfect for breaking up your driving itinerary.\n\nThe afternoon features a comfortable drive to the monumental sculptures at the Louis Derbré Cultural Space and a quick stop at the picturesque Chapelle de Charné, maximizing your sightseeing without feeling rushed.\n\nWrap up your extensive car journey by visiting the charming Église Saint-Gervais-et-Saint-Protais, enjoying the peaceful twilight atmosphere before heading back to the town center for a well-deserved traditional dinner."
+      }
+    }
+  }
+}

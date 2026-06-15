@@ -1,0 +1,497 @@
+{
+  "city_id": "chalonnes-sur-loire",
+  "anchor": {
+    "name": "Chalonnes-sur-Loire",
+    "coords": [
+      -0.7639,
+      47.3506
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.767088,
+            47.354109
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses historischen Zentrums, aber achten Sie auf angemessene Kleidung und prüfen Sie vorab die lokalen Messezeiten.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, de ne felejtsen el szerényen öltözködni és előre ellenőrizni a helyi misék időpontját a látogatás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, dar asigurați-vă că sunteți îmbrăcați decent și verificați programul slujbelor locale în prealabil.",
+            "en": "Admire the striking architecture of this historic religious center, but remember to dress modestly and check local mass times before planning an inside visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Chaux",
+            "hu": "Four à Chaux",
+            "ro": "Four à Chaux",
+            "en": "Four à Chaux"
+          },
+          "coords": [
+            -0.774365,
+            47.358129
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit an diesen historischen Kalköfen, wo festes Schuhwerk dringend empfohlen wird, um das unebene Gelände sicher zu erkunden.",
+            "hu": "Fedezze fel a régió ipari múltját ezeknél a történelmi mészégetőknél, ahol erős túracipő viselése erősen ajánlott a sziklás, egyenetlen terepen való biztonságos sétához.",
+            "ro": "Descoperiți trecutul industrial al regiunii la aceste cuptoare de var istorice, unde încălțămintea robustă este recomandată pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Discover the region's industrial past at these historic lime kilns, where sturdy walking shoes are highly recommended to safely navigate the uneven stone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurille",
+            "hu": "Saint-Maurille templom",
+            "ro": "Biserica Saint-Maurille",
+            "en": "Saint-Maurille Church"
+          },
+          "coords": [
+            -0.75866,
+            47.352476
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gut erhaltene Kirche, um die Glasfenster zu bewundern, und besuchen Sie sie am besten am frühen Morgen, um das schönste natürliche Licht zu genießen.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött templomba, hogy megcsodálja az ólomüveg ablakokat, és próbálja meg a kora reggeli órákban meglátogatni a legjobb természetes fényért.",
+            "ro": "Pășiți în această biserică frumos conservată pentru a-i aprecia vitraliile și încercați să o vizitați la primele ore ale dimineții pentru cea mai bună lumină naturală.",
+            "en": "Step inside this beautifully preserved church to appreciate its stained glass windows, and try visiting during the early morning hours for the best natural interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinberge Coteaux du Layon",
+            "hu": "Coteaux du Layon Szőlőültetvények",
+            "ro": "Podgoriile Coteaux du Layon",
+            "en": "Coteaux du Layon Vineyards"
+          },
+          "coords": [
+            -0.756369,
+            47.350654
+          ],
+          "category": "culinary",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten süßen Weißweine aus diesen malerischen Weinbergen und buchen Sie unbedingt vorab eine Weinprobe, um eine Führung der Winzer zu garantieren.",
+            "hu": "Kóstolja meg a festői szőlőültetvényeken termelt híres édes fehérborokat, és mindenképpen foglaljon előre borkóstolót, hogy biztosítson magának egy vezetett túrát.",
+            "ro": "Gustați renumitele vinuri albe dulci produse în aceste podgorii pitorești și asigurați-vă că rezervați o degustare în avans pentru a prinde un tur ghidat cu localnicii.",
+            "en": "Taste the renowned sweet white wines produced in these scenic vineyards, and be sure to book a tasting session in advance to secure a guided tour with the local vintners."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de Rocampaille",
+            "hu": "Rocher de Rocampaille",
+            "ro": "Rocher de Rocampaille",
+            "en": "Rocher de Rocampaille"
+          },
+          "coords": [
+            -0.73986,
+            47.338016
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese markante historische Felsformation für einen atemberaubenden Panoramablick, der sich als idealer Ort für fantastische Landschaftsaufnahmen anbietet.",
+            "hu": "Mássza meg ezt a kiemelkedő történelmi sziklaképződményt a lélegzetelállító panorámáért, amely ideális helyszínt biztosít lenyűgöző tájképek és fotók készítéséhez a túrán.",
+            "ro": "Urcați pe această formațiune stâncoasă istorică pentru o vedere panoramică uluitoare a împrejurimilor, fiind un loc ideal pentru a surprinde fotografii de peisaj uimitoare.",
+            "en": "Climb this prominent historical rock formation for a breathtaking panoramic view of the surroundings, making it an ideal spot to capture stunning landscape photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Pracht der Kirche Notre-Dame und den industriellen Echos von Four à Chaux. Mittags bewundern Sie die Schönheit von Saint-Maurille. Der Nachmittag entfaltet sich in den Weinbergen von Coteaux du Layon. Der Abend belohnt Sie mit der Aussicht vom Rocher de Rocampaille.",
+        "hu": "A reggel a Notre-Dame templom pompájával és a Four à Chaux ipari emlékeivel indul. A dél a Saint-Maurille templom lenyűgöző szépségét hozza el. A délután a Coteaux du Layon édes szőlőültetvényei között telik. Az este a Rocher de Rocampaille panorámájával jutalmazza meg a sétát.",
+        "ro": "Dimineața începe cu grandoarea bisericii Notre-Dame și cu ecourile industriale de la Four à Chaux. Prânzul vă aduce la frumusețea bisericii Saint-Maurille. După-amiaza se desfășoară printre podgoriile dulci Coteaux du Layon. Seara vă răsplătește plimbarea cu vederi de la Rocher de Rocampaille.",
+        "en": "Morning begins with the grandeur of Notre-Dame Church and the industrial echoes of Four à Chaux. Midday brings you to the intricate beauty of Saint-Maurille Church. Afternoon unfolds among the sweet Coteaux du Layon Vineyards. Evening rewards your walk with sweeping views from Rocher de Rocampaille."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 17.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.767088,
+            47.354109
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses historischen Zentrums, aber achten Sie auf angemessene Kleidung und prüfen Sie vorab die lokalen Messezeiten.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, de ne felejtsen el szerényen öltözködni és előre ellenőrizni a helyi misék időpontját a látogatás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, dar asigurați-vă că sunteți îmbrăcați decent și verificați programul slujbelor locale în prealabil.",
+            "en": "Admire the striking architecture of this historic religious center, but remember to dress modestly and check local mass times before planning an inside visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Chaux",
+            "hu": "Four à Chaux",
+            "ro": "Four à Chaux",
+            "en": "Four à Chaux"
+          },
+          "coords": [
+            -0.774365,
+            47.358129
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit an diesen historischen Kalköfen, wo festes Schuhwerk dringend empfohlen wird, um das unebene Gelände sicher zu erkunden.",
+            "hu": "Fedezze fel a régió ipari múltját ezeknél a történelmi mészégetőknél, ahol erős túracipő viselése erősen ajánlott a sziklás, egyenetlen terepen való biztonságos sétához.",
+            "ro": "Descoperiți trecutul industrial al regiunii la aceste cuptoare de var istorice, unde încălțămintea robustă este recomandată pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Discover the region's industrial past at these historic lime kilns, where sturdy walking shoes are highly recommended to safely navigate the uneven stone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Quais der Loire",
+            "hu": "Loire-parti sétány",
+            "ro": "Faleza Râului Loara",
+            "en": "Loire River Quays"
+          },
+          "coords": [
+            -0.859627,
+            47.357326
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der friedlichen Uferpromenade entlang, um die Natur der Loire zu genießen, und packen Sie ein leichtes Picknick ein, um Ihren entspannten Nachmittag abzurunden.",
+            "hu": "Sétáljon végig a csendes folyóparton, hogy megtapasztalja a Loire természeti szépségét, és csomagoljon be egy könnyű pikniket, hogy fokozza a délutáni pihenést a víz mellett.",
+            "ro": "Plimbați-vă pe faleza liniștită pentru a experimenta frumusețea naturală a Loarei, unde un mic picnic va îmbunătăți după-amiaza dumneavoastră relaxantă pe malul apei blânde.",
+            "en": "Stroll along the tranquil riverfront to experience the natural beauty of the Loire, where packing a light picnic will enhance your relaxing afternoon by the gently flowing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinberge Coteaux du Layon",
+            "hu": "Coteaux du Layon Szőlőültetvények",
+            "ro": "Podgoriile Coteaux du Layon",
+            "en": "Coteaux du Layon Vineyards"
+          },
+          "coords": [
+            -0.756369,
+            47.350654
+          ],
+          "category": "culinary",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.7,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten süßen Weißweine aus diesen malerischen Weinbergen und buchen Sie unbedingt vorab eine Weinprobe, um eine Führung der Winzer zu garantieren.",
+            "hu": "Kóstolja meg a festői szőlőültetvényeken termelt híres édes fehérborokat, és mindenképpen foglaljon előre borkóstolót, hogy biztosítson magának egy vezetett túrát.",
+            "ro": "Gustați renumitele vinuri albe dulci produse în aceste podgorii pitorești și asigurați-vă că rezervați o degustare în avans pentru a prinde un tur ghidat cu localnicii.",
+            "en": "Taste the renowned sweet white wines produced in these scenic vineyards, and be sure to book a tasting session in advance to secure a guided tour with the local vintners."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Montaigu",
+            "hu": "Petit Montaigu",
+            "ro": "Petit Montaigu",
+            "en": "Petit Montaigu"
+          },
+          "coords": [
+            -0.746994,
+            47.330694
+          ],
+          "category": "castle",
+          "arrive_at": "14:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser charmanten kleinen Burg, die von mittelalterlichen Zeiten flüstert, und achten Sie auf die alten Steinmauern, die recht brüchig und rutschig sind.",
+            "hu": "Fedezze fel ennek a bájos kis kastélynak a romjait, amely a középkorról suttog, és vigyázzon a lépéseire az ősi kőfalak körül, amelyek meglehetősen törékenyek és csúszósak.",
+            "ro": "Explorați ruinele acestui castel fermecător care șoptește povești din epocile medievale și aveți grijă pe unde călcați în jurul zidurilor vechi care pot fi destul de fragile.",
+            "en": "Explore the ruins of this charming smaller castle that whispers tales of medieval times, and watch your step around the ancient stone walls which can be quite fragile and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Montaigu",
+            "hu": "Grand Montaigu",
+            "ro": "Grand Montaigu",
+            "en": "Grand Montaigu"
+          },
+          "coords": [
+            -0.751287,
+            47.330202
+          ],
+          "category": "castle",
+          "arrive_at": "15:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem imposanten Festungsrest mit hervorragender Aussicht, wo Sie bis zum späten Nachmittag verweilen sollten, um das perfekte goldene Licht zu erleben.",
+            "hu": "Zárja történelmi utazását ennél az impozáns erődnél, amely lenyűgöző kilátást nyújt, ahol a késő délutáni órákban való időzés tökéletes aranyórás megvilágítást biztosít.",
+            "ro": "Încheiați-vă călătoria istorică la această rămășiță impunătoare a cetății, unde zăbovirea până la sfârșitul după-amiezii vă va oferi o iluminare perfectă de aur pentru poze.",
+            "en": "Conclude your historical journey at this imposing fortress remnant offering commanding views, where lingering until late afternoon provides the perfect golden hour illumination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Kirche Notre-Dame und radeln Sie rasch zu den historischen Öfen von Four à Chaux. Genießen Sie mittags die Brise an den Quais der Loire. Der Nachmittag lädt zu einer malerischen Tour durch die Weinberge ein. Gegen Abend erobern Sie die historischen Gipfel von Montaigu.",
+        "hu": "Kezdje a kerékpározást a Notre-Dame templomnál, és tekerjen el a történelmi mészégetőkig. Délben érezze a hűsítő szellőt a nyugodt Loire-parti sétányokon. A délután festői útvonalat kínál a Coteaux du Layon szőlői között. Ahogy közeledik az este, hódítsa meg Montaigu ikercsúcsainak történelmi romjait.",
+        "ro": "Începeți-vă plimbarea la biserica Notre-Dame, pedalând rapid spre cuptoarele istorice Four à Chaux. La prânz, simțiți briza pe falezele liniștite ale Loarei. După-amiaza invită la o rută pitorească prin podgoriile Coteaux du Layon. Spre seară, cuceriți vârfurile gemene istorice de la Montaigu.",
+        "en": "Kick off your ride at Notre-Dame Church, pedaling swiftly to the historic Four à Chaux kilns. By midday, breeze along the serene Loire River Quays. The afternoon invites a scenic cycling route through the Coteaux du Layon Vineyards. As evening nears, conquer the twin historical peaks of Montaigu."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 11.85,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Quais der Loire",
+            "hu": "Loire-parti sétány",
+            "ro": "Faleza Râului Loara",
+            "en": "Loire River Quays"
+          },
+          "coords": [
+            -0.859627,
+            47.357326
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der friedlichen Uferpromenade entlang, um die Natur der Loire zu genießen, und packen Sie ein leichtes Picknick ein, um Ihren entspannten Nachmittag abzurunden.",
+            "hu": "Sétáljon végig a csendes folyóparton, hogy megtapasztalja a Loire természeti szépségét, és csomagoljon be egy könnyű pikniket, hogy fokozza a délutáni pihenést a víz mellett.",
+            "ro": "Plimbați-vă pe faleza liniștită pentru a experimenta frumusețea naturală a Loarei, unde un mic picnic va îmbunătăți după-amiaza dumneavoastră relaxantă pe malul apei blânde.",
+            "en": "Stroll along the tranquil riverfront to experience the natural beauty of the Loire, where packing a light picnic will enhance your relaxing afternoon by the gently flowing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Chaux",
+            "hu": "Four à Chaux",
+            "ro": "Four à Chaux",
+            "en": "Four à Chaux"
+          },
+          "coords": [
+            -0.774365,
+            47.358129
+          ],
+          "category": "historical",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit an diesen historischen Kalköfen, wo festes Schuhwerk dringend empfohlen wird, um das unebene Gelände sicher zu erkunden.",
+            "hu": "Fedezze fel a régió ipari múltját ezeknél a történelmi mészégetőknél, ahol erős túracipő viselése erősen ajánlott a sziklás, egyenetlen terepen való biztonságos sétához.",
+            "ro": "Descoperiți trecutul industrial al regiunii la aceste cuptoare de var istorice, unde încălțămintea robustă este recomandată pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Discover the region's industrial past at these historic lime kilns, where sturdy walking shoes are highly recommended to safely navigate the uneven stone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.767088,
+            47.354109
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses historischen Zentrums, aber achten Sie auf angemessene Kleidung und prüfen Sie vorab die lokalen Messezeiten.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, de ne felejtsen el szerényen öltözködni és előre ellenőrizni a helyi misék időpontját a látogatás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, dar asigurați-vă că sunteți îmbrăcați decent și verificați programul slujbelor locale în prealabil.",
+            "en": "Admire the striking architecture of this historic religious center, but remember to dress modestly and check local mass times before planning an inside visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurille",
+            "hu": "Saint-Maurille templom",
+            "ro": "Biserica Saint-Maurille",
+            "en": "Saint-Maurille Church"
+          },
+          "coords": [
+            -0.75866,
+            47.352476
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gut erhaltene Kirche, um die Glasfenster zu bewundern, und besuchen Sie sie am besten am frühen Morgen, um das schönste natürliche Licht zu genießen.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött templomba, hogy megcsodálja az ólomüveg ablakokat, és próbálja meg a kora reggeli órákban meglátogatni a legjobb természetes fényért.",
+            "ro": "Pășiți în această biserică frumos conservată pentru a-i aprecia vitraliile și încercați să o vizitați la primele ore ale dimineții pentru cea mai bună lumină naturală.",
+            "en": "Step inside this beautifully preserved church to appreciate its stained glass windows, and try visiting during the early morning hours for the best natural interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinberge Coteaux du Layon",
+            "hu": "Coteaux du Layon Szőlőültetvények",
+            "ro": "Podgoriile Coteaux du Layon",
+            "en": "Coteaux du Layon Vineyards"
+          },
+          "coords": [
+            -0.756369,
+            47.350654
+          ],
+          "category": "culinary",
+          "arrive_at": "13:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten süßen Weißweine aus diesen malerischen Weinbergen und buchen Sie unbedingt vorab eine Weinprobe, um eine Führung der Winzer zu garantieren.",
+            "hu": "Kóstolja meg a festői szőlőültetvényeken termelt híres édes fehérborokat, és mindenképpen foglaljon előre borkóstolót, hogy biztosítson magának egy vezetett túrát.",
+            "ro": "Gustați renumitele vinuri albe dulci produse în aceste podgorii pitorești și asigurați-vă că rezervați o degustare în avans pentru a prinde un tur ghidat cu localnicii.",
+            "en": "Taste the renowned sweet white wines produced in these scenic vineyards, and be sure to book a tasting session in advance to secure a guided tour with the local vintners."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de Rocampaille",
+            "hu": "Rocher de Rocampaille",
+            "ro": "Rocher de Rocampaille",
+            "en": "Rocher de Rocampaille"
+          },
+          "coords": [
+            -0.73986,
+            47.338016
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese markante historische Felsformation für einen atemberaubenden Panoramablick, der sich als idealer Ort für fantastische Landschaftsaufnahmen anbietet.",
+            "hu": "Mássza meg ezt a kiemelkedő történelmi sziklaképződményt a lélegzetelállító panorámáért, amely ideális helyszínt biztosít lenyűgöző tájképek és fotók készítéséhez a túrán.",
+            "ro": "Urcați pe această formațiune stâncoasă istorică pentru o vedere panoramică uluitoare a împrejurimilor, fiind un loc ideal pentru a surprinde fotografii de peisaj uimitoare.",
+            "en": "Climb this prominent historical rock formation for a breathtaking panoramic view of the surroundings, making it an ideal spot to capture stunning landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Montaigu",
+            "hu": "Petit Montaigu",
+            "ro": "Petit Montaigu",
+            "en": "Petit Montaigu"
+          },
+          "coords": [
+            -0.746994,
+            47.330694
+          ],
+          "category": "castle",
+          "arrive_at": "15:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser charmanten kleinen Burg, die von mittelalterlichen Zeiten flüstert, und achten Sie auf die alten Steinmauern, die recht brüchig und rutschig sind.",
+            "hu": "Fedezze fel ennek a bájos kis kastélynak a romjait, amely a középkorról suttog, és vigyázzon a lépéseire az ősi kőfalak körül, amelyek meglehetősen törékenyek és csúszósak.",
+            "ro": "Explorați ruinele acestui castel fermecător care șoptește povești din epocile medievale și aveți grijă pe unde călcați în jurul zidurilor vechi care pot fi destul de fragile.",
+            "en": "Explore the ruins of this charming smaller castle that whispers tales of medieval times, and watch your step around the ancient stone walls which can be quite fragile and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Montaigu",
+            "hu": "Grand Montaigu",
+            "ro": "Grand Montaigu",
+            "en": "Grand Montaigu"
+          },
+          "coords": [
+            -0.751287,
+            47.330202
+          ],
+          "category": "castle",
+          "arrive_at": "16:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem imposanten Festungsrest mit hervorragender Aussicht, wo Sie bis zum späten Nachmittag verweilen sollten, um das perfekte goldene Licht zu erleben.",
+            "hu": "Zárja történelmi utazását ennél az impozáns erődnél, amely lenyűgöző kilátást nyújt, ahol a késő délutáni órákban való időzés tökéletes aranyórás megvilágítást biztosít.",
+            "ro": "Încheiați-vă călătoria istorică la această rămășiță impunătoare a cetății, unde zăbovirea până la sfârșitul după-amiezii vă va oferi o iluminare perfectă de aur pentru poze.",
+            "en": "Conclude your historical journey at this imposing fortress remnant offering commanding views, where lingering until late afternoon provides the perfect golden hour illumination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den Ufern der Loire und dann zum robusten Four à Chaux. Mittags erkunden Sie die spirituellen Zentren an den Kirchen Notre-Dame und Saint-Maurille. Verbringen Sie den Nachmittag bei den üppigen Weinbergen der Region. Abendliche Fahrten führen zu weiten Ausblicken bei den Montaigu-Burgen.",
+        "hu": "Autózzon korán a Loire partjára, majd haladjon a zord mészégetők felé. Délben fedezze fel a város spirituális központjait, a Notre-Dame és Saint-Maurille templomokat. Töltse a délutánt a buja szőlőültetvények helyi örökségének megismerésével. Az esti utazás a Montaigu kastélyok lenyűgöző kilátásaihoz vezet.",
+        "ro": "Conduceți devreme spre falezele Loarei, apoi mergeți spre robustul Four à Chaux. Prânzul explorează inimile spirituale la bisericile Notre-Dame și Saint-Maurille. Petreceți-vă după-amiaza degustând patrimoniul local la podgoriile luxuriante. Conducerile de seară duc la panorame ample la castelele Montaigu.",
+        "en": "Drive early to the Loire River Quays, then head to the rugged Four à Chaux. Midday explores the spiritual hearts of the city at Notre-Dame and Saint-Maurille churches. Spend your afternoon sampling local heritage at the lush vineyards. Evening drives lead to sweeping vistas at Montaigu castles."
+      }
+    }
+  }
+}

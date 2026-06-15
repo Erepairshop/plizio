@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-south-hallsands-cities-v2",
+  "anchor": {
+    "name": "South Hallsands",
+    "coords": [
+      -3.65882,
+      50.23435
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallsands",
+            "hu": "Hallsands",
+            "ro": "Hallsands",
+            "en": "Hallsands"
+          },
+          "coords": [
+            -3.659572,
+            50.238606
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringlichen Ruinen des vom Meer weggespülten Dorfes Hallsands und bringen Sie Ihre Kamera für dramatische Küstenaufnahmen von der Plattform mit.",
+            "hu": "Fedezze fel a tenger által elsodort Hallsands falu kísérteties romjait, és hozzon magával fényképezőgépet a drámai tengerparti felvételekhez a biztonságos kilátóból.",
+            "ro": "Descoperiți ruinele satului Hallsands, măturat de mare, și aduceți un aparat foto pentru cadre de coastă dramatice realizate de pe platforma sigură de vizionare.",
+            "en": "Discover the haunting ruins of Hallsands village, swept away by the sea, and bring a camera for dramatic coastal shots from the safe viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "The London Inn",
+            "hu": "The London Inn",
+            "ro": "The London Inn",
+            "en": "The London Inn"
+          },
+          "coords": [
+            -3.658414,
+            50.233854
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische Küstengasthaus ein, um das maritime Erbe zu erleben, und probieren Sie unbedingt das lokale Bier mit frischen Meeresfrüchten aus Devon.",
+            "hu": "Lépjen be ebbe a történelmi tengerparti fogadóba, hogy magába szívja a tengeri örökséget, és mindenképpen kóstolja meg a helyi sört a friss devoni tenger gyümölcseivel.",
+            "ro": "Pășiți în acest han istoric de la malul mării pentru a absorbi patrimoniul său maritim și asigurați-vă că gustați berea locală alături de fructe de mare proaspete.",
+            "en": "Step into this historical seaside inn to soak up its rich maritime heritage, and be sure to try the local ale paired with fresh Devon seafood before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Mattiscombe Sand",
+            "hu": "Great Mattiscombe Sand",
+            "ro": "Great Mattiscombe Sand",
+            "en": "Great Mattiscombe Sand"
+          },
+          "coords": [
+            -3.660258,
+            50.2206
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Sandstrand zwischen schroffen Klippen, aber tragen Sie festes Schuhwerk, da der steile Abstieg recht anspruchsvoll sein kann.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely zord sziklák között fekszik, de viseljen masszív túracipőt, mivel a meredek ereszkedés kihívást jelenthet.",
+            "ro": "Relaxați-vă pe această plajă imaculată de nisip, ascunsă între stânci abrupte, dar purtați încălțăminte rezistentă, deoarece coborârea abruptă poate fi destul de dificilă.",
+            "en": "Relax on this pristine stretch of sandy beach nestled between rugged cliffs, but wear sturdy walking shoes as the steep descent can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris' Beach",
+            "hu": "Harris' Beach",
+            "ro": "Plaja Harris",
+            "en": "Harris' Beach"
+          },
+          "coords": [
+            -3.67373,
+            50.221129
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Erholungsort mit ruhigem Wasser und kommen Sie früh mit einem Picknick, da es hier angenehmerweise keine Geschäfte gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen az eldugott partszakaszon, amely nyugodt vizeket kínál, és érkezzen korán egy piknikkel, mivel itt nincsenek kiépített létesítmények.",
+            "ro": "Evadați din aglomerație în acest loc retras, cu ape calme, și sosiți devreme cu un picnic, deoarece facilitățile turistice lipsesc cu desăvârșire aici pentru liniște.",
+            "en": "Escape the crowds at this secluded recreational spot offering calm waters, and arrive early with a picnic since local amenities are pleasantly non-existent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Start Point Lighthouse",
+            "hu": "Start Point Lighthouse",
+            "ro": "Farul Start Point",
+            "en": "Start Point Lighthouse"
+          },
+          "coords": [
+            -3.642286,
+            50.222476
+          ],
+          "category": "landmark",
+          "arrive_at": "15:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten Leuchtturm aus dem 19. Jahrhundert und buchen Sie im Voraus eine Führung, um Zugang zum atemberaubenden Laternenraum zu erhalten.",
+            "hu": "Csodálja meg ezt a 19. századi világítótornyot, amely a hajókat vezeti a veszélyes parton, és foglaljon előre tárlatvezetést, hogy bejusson a lenyűgöző lámpaszobába.",
+            "ro": "Admirați acest far impresionant din secolul al XIX-lea și rezervați un tur ghidat în avans pentru a avea acces la superba cameră a lanternei, cu vederi panoramice.",
+            "en": "Marvel at this striking 19th-century lighthouse guiding vessels along the dangerous coast, and book a guided tour in advance to access the breathtaking lantern room."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den eindringlichen Ruinen von Hallsands und spüren Sie die raue Kraft des Meeres.\nGegen Mittag können Sie sich im The London Inn bei einem Pub-Mittagessen und maritimen Geschichten aufwärmen.\nAm Nachmittag wandern Sie zu den Stränden von Great Mattiscombe Sand und Harris' Beach für unberührte Entspannung.\nBeenden Sie den Tag am ikonischen Start Point Lighthouse, dessen Licht die wilden Klippen beleuchtet.",
+        "hu": "Kezdje a reggelt Hallsands kísérteties romjainál, érezve a tenger nyers erejét.\nDélben húzódjon be a The London Inn melegébe egy klasszikus kocsmai ebédre és tengeri történetekre.\nDélután túrázzon le a Great Mattiscombe Sand és a Harris' Beach drámai partjaihoz az érintetlen pihenésért.\nFejezze be a napot a Start Point Lighthouse ikonikus világítótornyánál, ahogy a naplemente megvilágítja a sziklákat.",
+        "ro": "Începeți dimineața explorând ruinele obsedante din Hallsands, simțind puterea brută a mării.\nLa prânz, retrageți-vă în căldura hanului The London Inn pentru un prânz clasic și povești despre patrimoniul maritim.\nDupă-amiaza, coborâți spre plajele dramatice Great Mattiscombe Sand și Harris' Beach pentru o relaxare nealterată.\nÎncheiați ziua privindu-vă soarele apunând în spatele farului emblematic Start Point, luminând stâncile.",
+        "en": "Start your morning exploring the haunting, historic ruins of Hallsands, feeling the raw power of the sea.\nBy midday, retreat into the warmth of The London Inn for a classic pub lunch and tales of maritime heritage.\nIn the afternoon, hike down to the dramatic shores of Great Mattiscombe Sand and Harris' Beach for unspoiled relaxation.\nEnd the day watching the sun dip behind the iconic Start Point Lighthouse, illuminating the wild coastal cliffs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Forest and Beach",
+            "hu": "Forest and Beach",
+            "ro": "Forest and Beach",
+            "en": "Forest and Beach"
+          },
+          "coords": [
+            -3.672578,
+            50.254632
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich mit der Natur in diesem einzigartigen Waldstück an der Küste und halten Sie Ausschau nach der Vogelwelt, während Sie auf den Öko-Pfaden wandern.",
+            "hu": "Kerüljön kapcsolatba a természettel ebben a tengerparttal találkozó egyedülálló erdőben, és figyelje a változatos madárvilágot a jól jelzett öko-ösvényeken haladva.",
+            "ro": "Conectați-vă cu natura în această pădure unică la malul mării și urmăriți diversitatea de păsări, pășind ușor pe traseele ecologice extrem de bine marcate din zonă.",
+            "en": "Connect with nature at this unique woodland meeting the coastline, and keep an eye out for diverse birdlife while treading lightly on the well-marked eco-trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Beesands",
+            "hu": "Beesands",
+            "ro": "Beesands",
+            "en": "Beesands"
+          },
+          "coords": [
+            -3.655435,
+            50.255937
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Kiesstrand dieses traditionellen Fischerdorfes entlang und holen Sie sich ein frisches Krabbensandwich für ein echtes Devon-Erlebnis.",
+            "hu": "Sétáljon végig a hagyományos halászfalu festői kavicsos strandján, és vegyen egy friss rákos szendvicset egy helyi bódéból az autentikus devoni élményért.",
+            "ro": "Plimbați-vă pe plaja cu pietriș a acestui sat de pescari și cumpărați un sandviș cu crab proaspăt de la un stand local pentru o experiență autentică din Devon.",
+            "en": "Wander along the scenic shingle beach of this traditional fishing village, and grab a fresh crab sandwich from a local stall for an authentic Devonshire experience."
+          }
+        },
+        {
+          "name": {
+            "de": "St Andrews Church",
+            "hu": "St Andrews templom",
+            "ro": "Biserica St Andrews",
+            "en": "St Andrews Church"
+          },
+          "coords": [
+            -3.657202,
+            50.252399
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser historischen Kirche vor ländlicher Kulisse und nehmen Sie sich einen Moment Zeit, um die alten Grabsteine zu erkunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a békés építészetét vidéki környezetben, és szánjon egy percet a templomkert ősi sírköveinek felfedezésére.",
+            "ro": "Admirați arhitectura pașnică a acestui sit religios istoric pe un fundal rural și luați-vă un moment pentru a explora pietrele funerare antice din curtea bisericii.",
+            "en": "Admire the peaceful architecture of this historic religious site set against a rural backdrop, and take a moment to explore the ancient tombstones in the churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Hallsands",
+            "hu": "Hallsands",
+            "ro": "Hallsands",
+            "en": "Hallsands"
+          },
+          "coords": [
+            -3.659572,
+            50.238606
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringlichen Ruinen des vom Meer weggespülten Dorfes Hallsands und bringen Sie Ihre Kamera für dramatische Küstenaufnahmen von der Plattform mit.",
+            "hu": "Fedezze fel a tenger által elsodort Hallsands falu kísérteties romjait, és hozzon magával fényképezőgépet a drámai tengerparti felvételekhez a biztonságos kilátóból.",
+            "ro": "Descoperiți ruinele satului Hallsands, măturat de mare, și aduceți un aparat foto pentru cadre de coastă dramatice realizate de pe platforma sigură de vizionare.",
+            "en": "Discover the haunting ruins of Hallsands village, swept away by the sea, and bring a camera for dramatic coastal shots from the safe viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "The London Inn",
+            "hu": "The London Inn",
+            "ro": "The London Inn",
+            "en": "The London Inn"
+          },
+          "coords": [
+            -3.658414,
+            50.233854
+          ],
+          "category": "historical",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische Küstengasthaus ein, um das maritime Erbe zu erleben, und probieren Sie unbedingt das lokale Bier mit frischen Meeresfrüchten aus Devon.",
+            "hu": "Lépjen be ebbe a történelmi tengerparti fogadóba, hogy magába szívja a tengeri örökséget, és mindenképpen kóstolja meg a helyi sört a friss devoni tenger gyümölcseivel.",
+            "ro": "Pășiți în acest han istoric de la malul mării pentru a absorbi patrimoniul său maritim și asigurați-vă că gustați berea locală alături de fructe de mare proaspete.",
+            "en": "Step into this historical seaside inn to soak up its rich maritime heritage, and be sure to try the local ale paired with fresh Devon seafood before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Mattiscombe Sand",
+            "hu": "Great Mattiscombe Sand",
+            "ro": "Great Mattiscombe Sand",
+            "en": "Great Mattiscombe Sand"
+          },
+          "coords": [
+            -3.660258,
+            50.2206
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Sandstrand zwischen schroffen Klippen, aber tragen Sie festes Schuhwerk, da der steile Abstieg recht anspruchsvoll sein kann.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely zord sziklák között fekszik, de viseljen masszív túracipőt, mivel a meredek ereszkedés kihívást jelenthet.",
+            "ro": "Relaxați-vă pe această plajă imaculată de nisip, ascunsă între stânci abrupte, dar purtați încălțăminte rezistentă, deoarece coborârea abruptă poate fi destul de dificilă.",
+            "en": "Relax on this pristine stretch of sandy beach nestled between rugged cliffs, but wear sturdy walking shoes as the steep descent can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Start Point Lighthouse",
+            "hu": "Start Point Lighthouse",
+            "ro": "Farul Start Point",
+            "en": "Start Point Lighthouse"
+          },
+          "coords": [
+            -3.642286,
+            50.222476
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten Leuchtturm aus dem 19. Jahrhundert und buchen Sie im Voraus eine Führung, um Zugang zum atemberaubenden Laternenraum zu erhalten.",
+            "hu": "Csodálja meg ezt a 19. századi világítótornyot, amely a hajókat vezeti a veszélyes parton, és foglaljon előre tárlatvezetést, hogy bejusson a lenyűgöző lámpaszobába.",
+            "ro": "Admirați acest far impresionant din secolul al XIX-lea și rezervați un tur ghidat în avans pentru a avea acces la superba cameră a lanternei, cu vederi panoramice.",
+            "en": "Marvel at this striking 19th-century lighthouse guiding vessels along the dangerous coast, and book a guided tour in advance to access the breathtaking lantern room."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zu den üppigen Pfaden von Forest and Beach und atmen Sie die frische Küstenwaldluft ein.\nMittags fahren Sie durch das Fischerdorf Beesands zur historischen St Andrews Church.\nVerbringen Sie den Nachmittag damit, an den Ruinen von Hallsands vorbeizurollen und sich am Great Mattiscombe Sand auszuruhen.\nIhre Abendfahrt endet triumphierend am Start Point Lighthouse mit Panoramablick über den Ärmelkanal.",
+        "hu": "Kerékpározzon ki korán a Forest and Beach buja ösvényeihez, beszívva a friss parti erdei levegőt.\nDélben a hagyományos Beesands halászfalun keresztül a történelmi St Andrews templomhoz érkezik.\nDélutánját a Hallsands romjai melletti gurulással és a Great Mattiscombe Sand strandján való pihenéssel töltheti.\nAz esti utazás a Start Point világítótoronynál ér véget, panorámás kilátással a La Manche csatornára.",
+        "ro": "Mergeți cu bicicleta devreme spre traseele din Forest and Beach, respirând aerul proaspăt de coastă.\nLa prânz, treceți prin satul tradițional Beesands până la istorica Biserică St Andrews.\nPetreceți după-amiaza trecând pe lângă ruinele din Hallsands și odihnindu-vă la Great Mattiscombe Sand.\nCursa de seară se termină triumfător la Farul Start Point, oferind vederi panoramice peste Canalul Mânecii.",
+        "en": "Cycle out early to the lush trails of Forest and Beach, breathing in the fresh coastal woodland air.\nMidday brings you through the traditional fishing village of Beesands to the historic St Andrews Church.\nSpend your afternoon rolling past the striking ruins of Hallsands and resting at Great Mattiscombe Sand.\nYour evening ride finishes triumphantly at Start Point Lighthouse, offering panoramic views over the English Channel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Forest and Beach",
+            "hu": "Forest and Beach",
+            "ro": "Forest and Beach",
+            "en": "Forest and Beach"
+          },
+          "coords": [
+            -3.672578,
+            50.254632
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich mit der Natur in diesem einzigartigen Waldstück an der Küste und halten Sie Ausschau nach der Vogelwelt, während Sie auf den Öko-Pfaden wandern.",
+            "hu": "Kerüljön kapcsolatba a természettel ebben a tengerparttal találkozó egyedülálló erdőben, és figyelje a változatos madárvilágot a jól jelzett öko-ösvényeken haladva.",
+            "ro": "Conectați-vă cu natura în această pădure unică la malul mării și urmăriți diversitatea de păsări, pășind ușor pe traseele ecologice extrem de bine marcate din zonă.",
+            "en": "Connect with nature at this unique woodland meeting the coastline, and keep an eye out for diverse birdlife while treading lightly on the well-marked eco-trails."
+          }
+        },
+        {
+          "name": {
+            "de": "St Andrews Church",
+            "hu": "St Andrews templom",
+            "ro": "Biserica St Andrews",
+            "en": "St Andrews Church"
+          },
+          "coords": [
+            -3.657202,
+            50.252399
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieser historischen Kirche vor ländlicher Kulisse und nehmen Sie sich einen Moment Zeit, um die alten Grabsteine zu erkunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a békés építészetét vidéki környezetben, és szánjon egy percet a templomkert ősi sírköveinek felfedezésére.",
+            "ro": "Admirați arhitectura pașnică a acestui sit religios istoric pe un fundal rural și luați-vă un moment pentru a explora pietrele funerare antice din curtea bisericii.",
+            "en": "Admire the peaceful architecture of this historic religious site set against a rural backdrop, and take a moment to explore the ancient tombstones in the churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Beesands",
+            "hu": "Beesands",
+            "ro": "Beesands",
+            "en": "Beesands"
+          },
+          "coords": [
+            -3.655435,
+            50.255937
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Kiesstrand dieses traditionellen Fischerdorfes entlang und holen Sie sich ein frisches Krabbensandwich für ein echtes Devon-Erlebnis.",
+            "hu": "Sétáljon végig a hagyományos halászfalu festői kavicsos strandján, és vegyen egy friss rákos szendvicset egy helyi bódéból az autentikus devoni élményért.",
+            "ro": "Plimbați-vă pe plaja cu pietriș a acestui sat de pescari și cumpărați un sandviș cu crab proaspăt de la un stand local pentru o experiență autentică din Devon.",
+            "en": "Wander along the scenic shingle beach of this traditional fishing village, and grab a fresh crab sandwich from a local stall for an authentic Devonshire experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hallsands",
+            "hu": "Hallsands",
+            "ro": "Hallsands",
+            "en": "Hallsands"
+          },
+          "coords": [
+            -3.659572,
+            50.238606
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringlichen Ruinen des vom Meer weggespülten Dorfes Hallsands und bringen Sie Ihre Kamera für dramatische Küstenaufnahmen von der Plattform mit.",
+            "hu": "Fedezze fel a tenger által elsodort Hallsands falu kísérteties romjait, és hozzon magával fényképezőgépet a drámai tengerparti felvételekhez a biztonságos kilátóból.",
+            "ro": "Descoperiți ruinele satului Hallsands, măturat de mare, și aduceți un aparat foto pentru cadre de coastă dramatice realizate de pe platforma sigură de vizionare.",
+            "en": "Discover the haunting ruins of Hallsands village, swept away by the sea, and bring a camera for dramatic coastal shots from the safe viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "The London Inn",
+            "hu": "The London Inn",
+            "ro": "The London Inn",
+            "en": "The London Inn"
+          },
+          "coords": [
+            -3.658414,
+            50.233854
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische Küstengasthaus ein, um das maritime Erbe zu erleben, und probieren Sie unbedingt das lokale Bier mit frischen Meeresfrüchten aus Devon.",
+            "hu": "Lépjen be ebbe a történelmi tengerparti fogadóba, hogy magába szívja a tengeri örökséget, és mindenképpen kóstolja meg a helyi sört a friss devoni tenger gyümölcseivel.",
+            "ro": "Pășiți în acest han istoric de la malul mării pentru a absorbi patrimoniul său maritim și asigurați-vă că gustați berea locală alături de fructe de mare proaspete.",
+            "en": "Step into this historical seaside inn to soak up its rich maritime heritage, and be sure to try the local ale paired with fresh Devon seafood before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Mattiscombe Sand",
+            "hu": "Great Mattiscombe Sand",
+            "ro": "Great Mattiscombe Sand",
+            "en": "Great Mattiscombe Sand"
+          },
+          "coords": [
+            -3.660258,
+            50.2206
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Sandstrand zwischen schroffen Klippen, aber tragen Sie festes Schuhwerk, da der steile Abstieg recht anspruchsvoll sein kann.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely zord sziklák között fekszik, de viseljen masszív túracipőt, mivel a meredek ereszkedés kihívást jelenthet.",
+            "ro": "Relaxați-vă pe această plajă imaculată de nisip, ascunsă între stânci abrupte, dar purtați încălțăminte rezistentă, deoarece coborârea abruptă poate fi destul de dificilă.",
+            "en": "Relax on this pristine stretch of sandy beach nestled between rugged cliffs, but wear sturdy walking shoes as the steep descent can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Harris' Beach",
+            "hu": "Harris' Beach",
+            "ro": "Plaja Harris",
+            "en": "Harris' Beach"
+          },
+          "coords": [
+            -3.67373,
+            50.221129
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Erholungsort mit ruhigem Wasser und kommen Sie früh mit einem Picknick, da es hier angenehmerweise keine Geschäfte gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen az eldugott partszakaszon, amely nyugodt vizeket kínál, és érkezzen korán egy piknikkel, mivel itt nincsenek kiépített létesítmények.",
+            "ro": "Evadați din aglomerație în acest loc retras, cu ape calme, și sosiți devreme cu un picnic, deoarece facilitățile turistice lipsesc cu desăvârșire aici pentru liniște.",
+            "en": "Escape the crowds at this secluded recreational spot offering calm waters, and arrive early with a picnic since local amenities are pleasantly non-existent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Start Point Lighthouse",
+            "hu": "Start Point Lighthouse",
+            "ro": "Farul Start Point",
+            "en": "Start Point Lighthouse"
+          },
+          "coords": [
+            -3.642286,
+            50.222476
+          ],
+          "category": "landmark",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten Leuchtturm aus dem 19. Jahrhundert und buchen Sie im Voraus eine Führung, um Zugang zum atemberaubenden Laternenraum zu erhalten.",
+            "hu": "Csodálja meg ezt a 19. századi világítótornyot, amely a hajókat vezeti a veszélyes parton, és foglaljon előre tárlatvezetést, hogy bejusson a lenyűgöző lámpaszobába.",
+            "ro": "Admirați acest far impresionant din secolul al XIX-lea și rezervați un tur ghidat în avans pentru a avea acces la superba cameră a lanternei, cu vederi panoramice.",
+            "en": "Marvel at this striking 19th-century lighthouse guiding vessels along the dangerous coast, and book a guided tour in advance to access the breathtaking lantern room."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie für einen ruhigen Morgenspaziergang zum Forest and Beach und besuchen Sie dann die malerische St Andrews Church.\nGenießen Sie mittags die lebhafte Atmosphäre in Beesands, bevor Sie das historische Dorf Hallsands erkunden.\nIhr Nachmittag bietet einen herzhaften Stopp im The London Inn, gefolgt von sonnigen Momenten am Harris' Beach.\nBeenden Sie Ihren Roadtrip am Abend am spektakulären Start Point Lighthouse.",
+        "hu": "Vezessen fel a Forest and Beach területére egy reggeli sétára, majd látogassa meg a festői St Andrews templomot.\nDélben élvezze a Beesands nyüzsgő hangulatát, mielőtt felfedezné Hallsands történelmi, elsüllyedt faluját.\nDélutánja egy kiadós megállóval folytatódik a The London Innben, majd napsütéses pillanatokkal a Harris' Beach-en.\nFejezze be autós utazását este a látványos Start Point világítótoronynál, figyelve a pásztázó fénysugarakat.",
+        "ro": "Conduceți spre Forest and Beach pentru o plimbare liniștită, apoi vizitați pitoreasca Biserică St Andrews.\nLa prânz, bucurați-vă de atmosfera din Beesands înainte de a explora satul istoric scufundat Hallsands.\nDupă-amiaza se desfășoară cu o oprire copioasă la The London Inn, urmată de momente însorite la plaja Harris.\nÎncheiați excursia seara, la spectaculosul Far Start Point, urmărind fasciculele sale luminoase deasupra mării.",
+        "en": "Drive up to Forest and Beach for a tranquil morning walk, then visit the quaint St Andrews Church.\nBy midday, enjoy the vibrant atmosphere at Beesands before exploring the historic, sunken village of Hallsands.\nYour afternoon unfolds with a hearty stop at The London Inn, followed by sunny moments at Harris' Beach.\nConclude your road trip as evening falls at the spectacular Start Point Lighthouse, watching the sweeping beams."
+      }
+    }
+  }
+}

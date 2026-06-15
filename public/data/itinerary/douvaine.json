@@ -1,0 +1,474 @@
+{
+  "city_id": "douvaine",
+  "anchor": {
+    "name": "Douvaine",
+    "coords": [
+      6.3036,
+      46.305
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Loup",
+            "hu": "Église Saint-Loup",
+            "ro": "Église Saint-Loup",
+            "en": "Église Saint-Loup"
+          },
+          "coords": [
+            6.299155,
+            46.305527
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in dieser friedlichen Kirche, in der das Licht durch die bunten Fenster fällt, und kommen Sie früh, um die Stille zu genießen.",
+            "hu": "Kezdje a reggelt ebben a békés templomban, ahol a fény gyönyörűen világítja meg az üvegablakokat, de érkezzen korán a teljes csend élvezetéért.",
+            "ro": "Începeți dimineața la această biserică liniștită unde lumina evidențiază vitraliile superbe, dar ajungeți devreme pentru a vă bucura de momentele de calm.",
+            "en": "Start your morning at this serene church where the early light highlights its beautiful stained glass, but arrive early to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir Chapuis",
+            "hu": "Manoir Chapuis",
+            "ro": "Manoir Chapuis",
+            "en": "Manoir Chapuis"
+          },
+          "coords": [
+            6.298133,
+            46.305866
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Herrenhauses, das die adlige Vergangenheit widerspiegelt, und suchen Sie den besten Fotowinkel auf den Wegen.",
+            "hu": "Csodálja meg a történelmi udvarház elegáns építészetét, amely a régió nemesi múltját tükrözi, és keresse meg a legjobb fotószögeket a környező utakon.",
+            "ro": "Admirați arhitectura elegantă a acestui conac istoric care reflectă trecutul nobil al regiunii și încercați să-l vedeți de pe aleile înconjurătoare pentru poze bune.",
+            "en": "Admire the elegant architecture of this historic manor which reflects the region's noble past, and try to view it from the surrounding pathways for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Troches",
+            "hu": "Château de Troches",
+            "ro": "Château de Troches",
+            "en": "Château de Troches"
+          },
+          "coords": [
+            6.300416,
+            46.302742
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die imposanten Steinmauern dieses klassischen Schlosses, das die Landschaft dominiert, und achten Sie besonders auf die feinen Details über dem Haupttor.",
+            "hu": "Fedezze fel e klasszikus kastély lenyűgöző kőfalait, amely uralja a tájat, és feltétlenül figyelje meg a főkapu feletti finom, részletgazdag faragásokat.",
+            "ro": "Descoperiți zidurile impunătoare de piatră ale acestui castel clasic ce domină peisajul și fiți atenți la detaliile complicate de deasupra porții principale de acces.",
+            "en": "Discover the imposing stone walls of this classic castle that dominates the landscape, keeping an eye out for the intricate details above the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison forte de Chilly",
+            "hu": "Maison forte de Chilly",
+            "ro": "Maison forte de Chilly",
+            "en": "Maison forte de Chilly"
+          },
+          "coords": [
+            6.314096,
+            46.301765
+          ],
+          "category": "castle",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Befestigungen dieses mittelalterlichen Festungshauses im Tal und tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster in der Nähe.",
+            "hu": "Járja be ennek a völgyet védő középkori erődítménynek a masszív falait, és mindenképpen kényelmes cipőt viseljen a környékbeli egyenetlen macskakövek miatt.",
+            "ro": "Explorați fortificațiile robuste ale acestei case fortificate medievale care proteja valea și purtați neapărat încălțăminte comodă pentru piatra cubică denivelată.",
+            "en": "Explore the robust fortifications of this medieval strong house that protected the valley, and definitely wear comfortable shoes for the uneven cobblestones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Cinéma Philippe Piccot",
+            "hu": "Musée du Cinéma Philippe Piccot",
+            "ro": "Musée du Cinéma Philippe Piccot",
+            "en": "Musée du Cinéma Philippe Piccot"
+          },
+          "coords": [
+            6.318609,
+            46.305735
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit seltenen Filmgeräten in diesem einzigartigen Museum und verpassen Sie nicht den interaktiven Ausstellungsraum vor den Schließungszeiten.",
+            "hu": "Fejezze be a napot a ritka, régi filmes eszközök felfedezésével ebben az egyedi múzeumban, és zárás előtt semmiképp se hagyja ki az interaktív kiállítótermet.",
+            "ro": "Încheiați-vă ziua explorând echipamente cinematografice rare în acest muzeu unic și nu ratați sala de expoziții interactivă de la etaj înainte de ora închiderii.",
+            "en": "Finish your day exploring rare vintage film equipment in this unique museum, and don't miss the interactive exhibition room on the second floor before closing time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen erkundet den historischen Kern und beginnt ruhig in Saint-Loup. Mittags tauchen Sie in die majestätische Architektur des Manoir Chapuis und des Château de Troches ein. Der Nachmittag führt Sie zur robusten Maison forte de Chilly. Am Abend schließt der Tag wunderbar mit seltenen Funden im Kinomuseum ab.",
+        "hu": "A reggel a történelmi központot fedezi fel, békésen indulva a Saint-Loup templomnál. Délben a Manoir Chapuis és a Château de Troches fenséges építészetében merülhet el. A délután a robusztus Maison forte de Chilly-hez vezet. Az estét a helyi mozimúzeum különleges kincseinek felfedezése zárja.",
+        "ro": "Dimineața explorează centrul istoric, începând liniștit la Saint-Loup. La prânz vă adânciți în arhitectura maiestuoasă de la Manoir Chapuis și Château de Troches. După-amiaza vă duce la robusta Maison forte de Chilly. Seara se încheie frumos cu descoperiri rare la muzeul cinematografiei.",
+        "en": "Morning explores the central historic core, starting quietly at Saint-Loup. Midday delves into the majestic architecture of Manoir Chapuis and Château de Troches. Afternoon wanders past the robust Maison forte de Chilly. Evening concludes beautifully with rare finds at the local cinema museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Loup",
+            "hu": "Église Saint-Loup",
+            "ro": "Église Saint-Loup",
+            "en": "Église Saint-Loup"
+          },
+          "coords": [
+            6.299155,
+            46.305527
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in dieser friedlichen Kirche, in der das Licht durch die bunten Fenster fällt, und kommen Sie früh, um die Stille zu genießen.",
+            "hu": "Kezdje a reggelt ebben a békés templomban, ahol a fény gyönyörűen világítja meg az üvegablakokat, de érkezzen korán a teljes csend élvezetéért.",
+            "ro": "Începeți dimineața la această biserică liniștită unde lumina evidențiază vitraliile superbe, dar ajungeți devreme pentru a vă bucura de momentele de calm.",
+            "en": "Start your morning at this serene church where the early light highlights its beautiful stained glass, but arrive early to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir Chapuis",
+            "hu": "Manoir Chapuis",
+            "ro": "Manoir Chapuis",
+            "en": "Manoir Chapuis"
+          },
+          "coords": [
+            6.298133,
+            46.305866
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Herrenhauses, das die adlige Vergangenheit widerspiegelt, und suchen Sie den besten Fotowinkel auf den Wegen.",
+            "hu": "Csodálja meg a történelmi udvarház elegáns építészetét, amely a régió nemesi múltját tükrözi, és keresse meg a legjobb fotószögeket a környező utakon.",
+            "ro": "Admirați arhitectura elegantă a acestui conac istoric care reflectă trecutul nobil al regiunii și încercați să-l vedeți de pe aleile înconjurătoare pentru poze bune.",
+            "en": "Admire the elegant architecture of this historic manor which reflects the region's noble past, and try to view it from the surrounding pathways for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'orphelinat d'Aubonne",
+            "hu": "Chapelle de l'orphelinat d'Aubonne",
+            "ro": "Chapelle de l'orphelinat d'Aubonne",
+            "en": "Chapelle de l'orphelinat d'Aubonne"
+          },
+          "coords": [
+            6.285867,
+            46.300865
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung in dieser kleinen, aber historisch bedeutsamen Kapelle und lesen Sie die Gedenktafeln, die ihre einzigartige Geschichte erzählen.",
+            "hu": "Tartson egy kis szünetet ebben a kicsi, de történelmileg jelentős kápolnában, és feltétlenül olvassa el az egyedi eredetét részletező külső emléktáblákat.",
+            "ro": "Luați-vă un moment de reflecție în această capelă mică, dar semnificativă istoric, și asigurați-vă că citiți plăcile comemorative care detaliază originile sale.",
+            "en": "Take a moment of reflection in this small but historically significant chapel, and be sure to read the commemorative plaques outside detailing its unique origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Troches",
+            "hu": "Château de Troches",
+            "ro": "Château de Troches",
+            "en": "Château de Troches"
+          },
+          "coords": [
+            6.300416,
+            46.302742
+          ],
+          "category": "castle",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die imposanten Steinmauern dieses klassischen Schlosses, das die Landschaft dominiert, und achten Sie besonders auf die feinen Details über dem Haupttor.",
+            "hu": "Fedezze fel e klasszikus kastély lenyűgöző kőfalait, amely uralja a tájat, és feltétlenül figyelje meg a főkapu feletti finom, részletgazdag faragásokat.",
+            "ro": "Descoperiți zidurile impunătoare de piatră ale acestui castel clasic ce domină peisajul și fiți atenți la detaliile complicate de deasupra porții principale de acces.",
+            "en": "Discover the imposing stone walls of this classic castle that dominates the landscape, keeping an eye out for the intricate details above the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Cinéma Philippe Piccot",
+            "hu": "Musée du Cinéma Philippe Piccot",
+            "ro": "Musée du Cinéma Philippe Piccot",
+            "en": "Musée du Cinéma Philippe Piccot"
+          },
+          "coords": [
+            6.318609,
+            46.305735
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit seltenen Filmgeräten in diesem einzigartigen Museum und verpassen Sie nicht den interaktiven Ausstellungsraum vor den Schließungszeiten.",
+            "hu": "Fejezze be a napot a ritka, régi filmes eszközök felfedezésével ebben az egyedi múzeumban, és zárás előtt semmiképp se hagyja ki az interaktív kiállítótermet.",
+            "ro": "Încheiați-vă ziua explorând echipamente cinematografice rare în acest muzeu unic și nu ratați sala de expoziții interactivă de la etaj înainte de ora închiderii.",
+            "en": "Finish your day exploring rare vintage film equipment in this unique museum, and don't miss the interactive exhibition room on the second floor before closing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Thénières",
+            "hu": "Château de Thénières",
+            "ro": "Château de Thénières",
+            "en": "Château de Thénières"
+          },
+          "coords": [
+            6.325749,
+            46.303634
+          ],
+          "category": "castle",
+          "arrive_at": "15:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem prächtigen Anwesen mit weitem Blick über die Umgebung und parken Sie Ihr Fahrrad am unteren Tor für einen leichteren Aufstieg.",
+            "hu": "Zárja kerékpártúráját ezen a csodálatos birtokon, amely panorámás kilátást nyújt a környékre, és hagyja a biciklijét az alsó kapuknál a könnyebb gyalogos séta érdekében.",
+            "ro": "Încheiați turul cu bicicleta la această proprietate magnifică cu vederi ample, parcându-vă bicicleta lângă porțile inferioare pentru o plimbare mai ușoară la deal.",
+            "en": "Conclude your bike tour at this magnificent estate with sweeping views of the surrounding area, parking your bike near the lower gates for an easier uphill walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Radtour beginnt entspannt an der Saint-Loup Kirche und dem eleganten Manoir Chapuis. Mittags fahren Sie zur malerischen Waisenhauskapelle und zum massiven Château de Troches. Der Nachmittag bringt Sie rasch zum Kinomuseum. Der Abend endet mit einer Fahrt zum wunderschönen Château de Thénières.",
+        "hu": "A reggeli kerékpározás lazán indul a Saint-Loup templomnál és az elegáns Manoir Chapuis-nál. Délben a festői árvaházi kápolnához és a masszív Château de Troches-hoz teker. A délután elviszi a mozimúzeumhoz. Az este egy gyönyörű naplemente körüli tekeréssel zárul a Château de Thénières közelében.",
+        "ro": "Plimbarea matinală cu bicicleta începe relaxat la Saint-Loup și elegantul Manoir Chapuis. La prânz pedalați spre pitoreasca capelă a orfelinatului și masivul Château de Troches. După-amiaza vă duce rapid la muzeul cinematografiei. Seara se termină cu o cursă plăcută la Château de Thénières.",
+        "en": "Morning pedal begins comfortably at Saint-Loup and the elegant Manoir Chapuis. Midday takes you out to the scenic orphanage chapel and the massive Château de Troches. Afternoon speeds up toward the cinema museum. Evening finishes with a wonderful ride near the grounds of Château de Thénières."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Affre",
+            "hu": "Église Saint-Affre",
+            "ro": "Église Saint-Affre",
+            "en": "Église Saint-Affre"
+          },
+          "coords": [
+            6.310279,
+            46.292126
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip in dieser friedlichen südlichen Pfarrei, die für ihre ruhige Atmosphäre bekannt ist, und prüfen Sie das lokale Brett auf Gemeindeereignisse.",
+            "hu": "Kezdje autós utazását ebben a békés déli plébánián, amely nyugodt légköréről ismert, és sétálva nézze meg a helyi hirdetőtáblát a közösségi események miatt.",
+            "ro": "Începeți călătoria cu mașina la această parohie sudică pașnică, cunoscută pentru atmosfera sa liniștită, verificând panoul local pentru evenimente comunitare.",
+            "en": "Begin your road trip at this peaceful southern parish known for its tranquil atmosphere, checking the local board for community events as you walk through the small yard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Église Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            6.328392,
+            46.299293
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die traditionelle Architektur dieser gut erhaltenen Kirche und nutzen Sie den kleinen Parkplatz direkt gegenüber für einen schnellen, stressfreien Besuch.",
+            "hu": "Csodálja meg ennek a jól karbantartott templomnak a hagyományos építészetét, és használja az utca túloldalán lévő kis parkolót egy gyors, problémamentes látogatáshoz.",
+            "ro": "Minunați-vă de arhitectura tradițională a acestei biserici bine conservate și folosiți mica parcare de peste drum pentru o vizită rapidă și lipsită de griji.",
+            "en": "Marvel at the traditional religious architecture of this well-preserved church, and utilize the small parking area just across the street for a quick, hassle-free visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison forte de Chilly",
+            "hu": "Maison forte de Chilly",
+            "ro": "Maison forte de Chilly",
+            "en": "Maison forte de Chilly"
+          },
+          "coords": [
+            6.314096,
+            46.301765
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Befestigungen dieses mittelalterlichen Festungshauses im Tal und tragen Sie bequeme Schuhe für das unebene Kopfsteinpflaster in der Nähe.",
+            "hu": "Járja be ennek a völgyet védő középkori erődítménynek a masszív falait, és mindenképpen kényelmes cipőt viseljen a környékbeli egyenetlen macskakövek miatt.",
+            "ro": "Explorați fortificațiile robuste ale acestei case fortificate medievale care proteja valea și purtați neapărat încălțăminte comodă pentru piatra cubică denivelată.",
+            "en": "Explore the robust fortifications of this medieval strong house that protected the valley, and definitely wear comfortable shoes for the uneven cobblestones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Troches",
+            "hu": "Château de Troches",
+            "ro": "Château de Troches",
+            "en": "Château de Troches"
+          },
+          "coords": [
+            6.300416,
+            46.302742
+          ],
+          "category": "castle",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die imposanten Steinmauern dieses klassischen Schlosses, das die Landschaft dominiert, und achten Sie besonders auf die feinen Details über dem Haupttor.",
+            "hu": "Fedezze fel e klasszikus kastély lenyűgöző kőfalait, amely uralja a tájat, és feltétlenül figyelje meg a főkapu feletti finom, részletgazdag faragásokat.",
+            "ro": "Descoperiți zidurile impunătoare de piatră ale acestui castel clasic ce domină peisajul și fiți atenți la detaliile complicate de deasupra porții principale de acces.",
+            "en": "Discover the imposing stone walls of this classic castle that dominates the landscape, keeping an eye out for the intricate details above the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Loup",
+            "hu": "Église Saint-Loup",
+            "ro": "Église Saint-Loup",
+            "en": "Église Saint-Loup"
+          },
+          "coords": [
+            6.299155,
+            46.305527
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in dieser friedlichen Kirche, in der das Licht durch die bunten Fenster fällt, und kommen Sie früh, um die Stille zu genießen.",
+            "hu": "Kezdje a reggelt ebben a békés templomban, ahol a fény gyönyörűen világítja meg az üvegablakokat, de érkezzen korán a teljes csend élvezetéért.",
+            "ro": "Începeți dimineața la această biserică liniștită unde lumina evidențiază vitraliile superbe, dar ajungeți devreme pentru a vă bucura de momentele de calm.",
+            "en": "Start your morning at this serene church where the early light highlights its beautiful stained glass, but arrive early to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Cinéma Philippe Piccot",
+            "hu": "Musée du Cinéma Philippe Piccot",
+            "ro": "Musée du Cinéma Philippe Piccot",
+            "en": "Musée du Cinéma Philippe Piccot"
+          },
+          "coords": [
+            6.318609,
+            46.305735
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit seltenen Filmgeräten in diesem einzigartigen Museum und verpassen Sie nicht den interaktiven Ausstellungsraum vor den Schließungszeiten.",
+            "hu": "Fejezze be a napot a ritka, régi filmes eszközök felfedezésével ebben az egyedi múzeumban, és zárás előtt semmiképp se hagyja ki az interaktív kiállítótermet.",
+            "ro": "Încheiați-vă ziua explorând echipamente cinematografice rare în acest muzeu unic și nu ratați sala de expoziții interactivă de la etaj înainte de ora închiderii.",
+            "en": "Finish your day exploring rare vintage film equipment in this unique museum, and don't miss the interactive exhibition room on the second floor before closing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.334356,
+            46.315916
+          ],
+          "category": "religious",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Reise an dieser nördlichen Kirche mit ihren beeindruckenden Gewölbedecken ab und nehmen Sie sich Zeit für den kunstvollen hölzernen Altar.",
+            "hu": "Fejezze be az utazást ennél az északi templomnál, amely lenyűgöző boltíves mennyezettel büszkélkedhet, és hagyjon időt a bonyolult faoltár megcsodálására is.",
+            "ro": "Încheiați-vă excursia la această biserică nordică ce se mândrește cu tavane boltite impresionante, lăsând timp pentru a admira altarul complicat din lemn.",
+            "en": "Wrap up your trip at this northern church boasting impressive vaulted ceilings, leaving extra time to admire the intricate wooden altar pieces before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt am Morgen startet im Süden bei den beschaulichen Kirchen Saint-Affre und Saint-Étienne. Mittags navigieren Sie zu den beeindruckenden Festungen von Chilly und Troches im Zentrum. Der Nachmittag geht fließend in Besuche der zentralen Kirche und des Museums über. Abends fahren Sie kurz nach Norden zu Saint-Jean-Baptiste.",
+        "hu": "A reggeli vezetés délen, a békés Saint-Affre és Saint-Étienne templomoknál kezdődik. Délben a Chilly és Troches lenyűgöző központi erődítményeihez navigál. A délután zökkenőmentesen vált át a központi templom és múzeum látogatására. Az este egy rövid északi úttal zárul a Saint-Jean-Baptiste templomhoz.",
+        "ro": "Condusul de dimineață începe în sud la pașnicele biserici Saint-Affre și Saint-Étienne. La prânz navigați către fortificațiile centrale din Chilly și Troches. După-amiaza trece fără efort la biserica centrală și muzeu. Seara se încheie cu un scurt drum spre nord la Saint-Jean-Baptiste.",
+        "en": "Morning driving starts in the south at the peaceful Saint-Affre and Saint-Étienne churches. Midday navigates the impressive central fortifications of Chilly and Troches. Afternoon transitions smoothly to the central church and cinema museum. Evening winds down with a short drive north to Saint-Jean-Baptiste."
+      }
+    }
+  }
+}

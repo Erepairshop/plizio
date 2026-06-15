@@ -1,0 +1,497 @@
+{
+  "city_id": "albania-velipoje-cities-v2",
+  "anchor": {
+    "name": "Velipojë",
+    "coords": [
+      19.430022,
+      41.864758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plazhi Panorama",
+            "hu": "Plazhi Panorama",
+            "ro": "Plazhi Panorama",
+            "en": "Plazhi Panorama"
+          },
+          "coords": [
+            19.422031,
+            41.862256
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den breiten Sandstrand und das flache Wasser, ideal für Familien mit Kindern, aber kommen Sie früh, um die besten Sonnenschirme zu sichern.",
+            "hu": "Élvezze a széles homokos partszakaszt és a sekély vizet, amely ideális gyermekes családoknak, de érkezzen korán, hogy biztosítsa a legjobb napernyőket.",
+            "ro": "Bucurați-vă de întinderea largă de nisip și de apele puțin adânci, ideale pentru familiile cu copii, dar ajungeți devreme pentru a prinde cele mai bune umbrele.",
+            "en": "Enjoy the wide sandy stretches and shallow waters here, which make it ideal for families with children, but arrive early to secure the best parasols."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi Jakaj",
+            "hu": "Plazhi Jakaj",
+            "ro": "Plazhi Jakaj",
+            "en": "Plazhi Jakaj"
+          },
+          "coords": [
+            19.423124,
+            41.86223
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang an diesem ruhigen Küstenabschnitt, wo die sanften Wellen eine beruhigende Atmosphäre für den Morgen schaffen.",
+            "hu": "Tegyen egy pihentető sétát ezen a nyugodt partszakaszon, ahol a szelíd hullámok nyugtató atmoszférát teremtenek egy békés reggeli sétához.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei secțiuni liniștite de coastă, unde valurile blânde creează o atmosferă perfectă pentru dimineață.",
+            "en": "Take a relaxing stroll along this tranquil section of the coast, where the gentle waves create a soothing atmosphere perfect for a peaceful morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Public Beach",
+            "hu": "Public Beach",
+            "ro": "Public Beach",
+            "en": "Public Beach"
+          },
+          "coords": [
+            19.42436,
+            41.862073
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mischen Sie sich an diesem lebhaften zentralen Strand unter die Einheimischen und nutzen Sie die nahegelegenen Kioske für ein erfrischendes Kaltgetränk.",
+            "hu": "Vegyüljön el a helyiekkel ezen a népszerű és élénk központi strandon, és használja ki a közeli kioszkokat egy gyors és hűsítő italra.",
+            "ro": "Amestecați-vă cu localnicii pe această plajă centrală plină de viață, profitând de chioșcurile din apropiere pentru o băutură rece și răcoritoare.",
+            "en": "Mingle with the locals at this popular and lively central beach area, taking advantage of the nearby kiosks for a quick and refreshing cold beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Stela Beach",
+            "hu": "Stela Beach",
+            "ro": "Stela Beach",
+            "en": "Stela Beach"
+          },
+          "coords": [
+            19.426547,
+            41.861589
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen dieses lebhaften Strandabschnitts und machen Sie eine Pause für frische Meeresfrüchte in den Restaurants.",
+            "hu": "Pihenjen ezen az élénk partszakaszon a jól karbantartott napozóágyakon, és tartson szünetet egy friss tenger gyümölcsei falatra a szomszédos éttermekben.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute ale acestei plaje animate, luând o pauză pentru o gustare cu fructe de mare proaspete la restaurantele alăturate.",
+            "en": "Relax on the well-maintained sunbeds of this lively beach section, taking a break for a fresh seafood snack at one of the adjacent seaside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazh Publik",
+            "hu": "Plazh Publik",
+            "ro": "Plazh Publik",
+            "en": "Plazh Publik"
+          },
+          "coords": [
+            19.437762,
+            41.859802
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufige Küste des östlichen öffentlichen Strandes, die viel Platz für Strandspiele bietet, bringen Sie jedoch eigenen Sonnenschutz mit.",
+            "hu": "Fedezze fel a keleti nyilvános strand tágas partvonalát, amely bőséges helyet kínál a strandjátékokhoz, bár érdemes saját árnyékolót hoznia.",
+            "ro": "Descoperiți linia de coastă expansivă a plajei publice estice, oferind mult spațiu deschis pentru jocuri, deși ar trebui să vă aduceți propria umbrelă.",
+            "en": "Discover the expansive shoreline of the eastern public beach, offering plenty of open space for beach games, though you should bring your own shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramsar Site",
+            "hu": "Ramsar Site",
+            "ro": "Ramsar Site",
+            "en": "Ramsar Site"
+          },
+          "coords": [
+            19.443435,
+            41.863497
+          ],
+          "category": "natural",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührte Natur dieses geschützten Feuchtgebiets und halten Sie Ausschau nach seltenen Vogelarten, aber denken Sie an bequeme Wanderschuhe.",
+            "hu": "Fedezze fel ennek a védett vizes élőhelynek az érintetlen természeti szépségét, figyelve a ritka madárfajokra, de ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Explorați frumusețea naturală neatinsă a acestei zone umede protejate, căutând specii rare de păsări, dar nu uitați să purtați pantofi confortabili de mers.",
+            "en": "Explore the untouched natural beauty of this protected wetland area, keeping your eyes peeled for rare bird species, but remember to wear comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang an den westlichen Ufern und spüren Sie den weichen Sand. Wenn der Tag wärmer wird, schlendern Sie durch die lebhaften zentralen Strände und genießen die Meeresbrise. Der Nachmittag bietet eine Abwechslung, wenn Sie zu den östlichen Strandabschnitten laufen. Beenden Sie den Tag mit der Erkundung der Naturwunder des geschützten Ramsar-Gebiets, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt egy pihentető sétával a nyugati partokon, érezve a puha homokot a Plazhi Panorama-nál. Ahogy a nap melegszik, végigsétál az élénk központi strandokon, élvezve a frissítő tengeri szellőt. A délután változatosságot kínál, ahogy a keleti nyilvános szakaszok felé halad. Zárja a napot a védett Ramsar-terület természeti csodáinak felfedezésével, figyelve a naplementét a vizes élőhelyek felett.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă de-a lungul țărmurilor vestice, simțind nisipul fin. Pe măsură ce ziua se încălzește, veți rătăci prin plajele centrale pline de viață, bucurându-vă de briza mării. După-amiaza oferă o schimbare de ritm în timp ce mergeți spre zonele publice estice. Încheiați-vă ziua explorând minunile naturale ale zonei protejate Ramsar, privind apusul de soare peste zonele umede.",
+        "en": "Begin your morning with a relaxing stroll along the western shores, feeling the soft sand at Plazhi Panorama. As the day warms up, you'll wander through the lively central beaches, mingling with locals and enjoying the refreshing sea breeze. The afternoon offers a change of pace as you walk towards the eastern public stretches. Conclude your day exploring the natural wonders of the protected Ramsar Site, watching the sunset over the wetlands."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gjoleka",
+            "hu": "Gjoleka",
+            "ro": "Gjoleka",
+            "en": "Gjoleka"
+          },
+          "coords": [
+            19.414406,
+            41.860604
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag am westlichen Rand, wo sich der Sand weicher anfühlt, und genießen Sie die ruhige Atmosphäre vor dem Mittagstrubel.",
+            "hu": "Kezdje a strandnapot a nyugati szélén, ahol a homok puhábbnak tűnik, élvezve a félreesőbb atmoszférát a déli tömeg megérkezése előtt.",
+            "ro": "Începeți ziua de plajă la marginea vestică, unde nisipul se simte mai fin, bucurându-vă de o atmosferă mai retrasă înainte de sosirea aglomerației.",
+            "en": "Start your beach day at the western edge where the sand feels softer, enjoying a more secluded atmosphere before the midday crowds begin to arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kompleksi Elita",
+            "hu": "Kompleksi Elita",
+            "ro": "Kompleksi Elita",
+            "en": "Kompleksi Elita"
+          },
+          "coords": [
+            19.415017,
+            41.86189
+          ],
+          "category": "recreational",
+          "arrive_at": "10:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie den Komfort dieses organisierten Strandkomplexes, der hervorragende Annehmlichkeiten und saubere Einrichtungen für ein angenehmes Bad bietet.",
+            "hu": "Tapasztalja meg ennek a szervezett strandkomplexumnak a kényelmét, amely kiváló szolgáltatásokat és tiszta létesítményeket kínál egy kellemes úszáshoz.",
+            "ro": "Experimentați confortul acestui complex de plajă organizat, care oferă facilități excelente și curate, fiind o oprire excelentă pentru o înotare confortabilă.",
+            "en": "Experience the comfort of this organized beach complex, which offers excellent amenities and clean facilities, making it a great stop for a comfortable swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Velipoja Beach",
+            "hu": "Velipoja Beach",
+            "ro": "Velipoja Beach",
+            "en": "Velipoja Beach"
+          },
+          "coords": [
+            19.417133,
+            41.859825
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie den Hauptabschnitt des ikonischen Strandes entlang, berühmt für seinen therapeutischen Sand, und bewundern Sie die weite Aussicht auf die Adria.",
+            "hu": "Sétáljon végig az ikonikus Velipoja strand fő szakaszán, amely híres gyógyhatású homokjáról, és csodálja meg az Adriai-tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Plimbați-vă de-a lungul secțiunii principale a plajei iconice, renumită pentru nisipul său terapeutic, și admirați priveliștile panoramice ale Mării Adriatice.",
+            "en": "Walk along the main stretch of the iconic Velipoja Beach, famous for its therapeutic sand, and take a moment to admire the sweeping views of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi Panorama",
+            "hu": "Plazhi Panorama",
+            "ro": "Plazhi Panorama",
+            "en": "Plazhi Panorama"
+          },
+          "coords": [
+            19.422031,
+            41.862256
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den breiten Sandstrand und das flache Wasser, ideal für Familien mit Kindern, aber kommen Sie früh, um die besten Sonnenschirme zu sichern.",
+            "hu": "Élvezze a széles homokos partszakaszt és a sekély vizet, amely ideális gyermekes családoknak, de érkezzen korán, hogy biztosítsa a legjobb napernyőket.",
+            "ro": "Bucurați-vă de întinderea largă de nisip și de apele puțin adânci, ideale pentru familiile cu copii, dar ajungeți devreme pentru a prinde cele mai bune umbrele.",
+            "en": "Enjoy the wide sandy stretches and shallow waters here, which make it ideal for families with children, but arrive early to secure the best parasols."
+          }
+        },
+        {
+          "name": {
+            "de": "Stela Beach",
+            "hu": "Stela Beach",
+            "ro": "Stela Beach",
+            "en": "Stela Beach"
+          },
+          "coords": [
+            19.426547,
+            41.861589
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen dieses lebhaften Strandabschnitts und machen Sie eine Pause für frische Meeresfrüchte in den Restaurants.",
+            "hu": "Pihenjen ezen az élénk partszakaszon a jól karbantartott napozóágyakon, és tartson szünetet egy friss tenger gyümölcsei falatra a szomszédos éttermekben.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute ale acestei plaje animate, luând o pauză pentru o gustare cu fructe de mare proaspete la restaurantele alăturate.",
+            "en": "Relax on the well-maintained sunbeds of this lively beach section, taking a break for a fresh seafood snack at one of the adjacent seaside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazh Publik",
+            "hu": "Plazh Publik",
+            "ro": "Plazh Publik",
+            "en": "Plazh Publik"
+          },
+          "coords": [
+            19.437762,
+            41.859802
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufige Küste des östlichen öffentlichen Strandes, die viel Platz für Strandspiele bietet, bringen Sie jedoch eigenen Sonnenschutz mit.",
+            "hu": "Fedezze fel a keleti nyilvános strand tágas partvonalát, amely bőséges helyet kínál a strandjátékokhoz, bár érdemes saját árnyékolót hoznia.",
+            "ro": "Descoperiți linia de coastă expansivă a plajei publice estice, oferind mult spațiu deschis pentru jocuri, deși ar trebui să vă aduceți propria umbrelă.",
+            "en": "Discover the expansive shoreline of the eastern public beach, offering plenty of open space for beach games, though you should bring your own shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramsar Site",
+            "hu": "Ramsar Site",
+            "ro": "Ramsar Site",
+            "en": "Ramsar Site"
+          },
+          "coords": [
+            19.443435,
+            41.863497
+          ],
+          "category": "natural",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührte Natur dieses geschützten Feuchtgebiets und halten Sie Ausschau nach seltenen Vogelarten, aber denken Sie an bequeme Wanderschuhe.",
+            "hu": "Fedezze fel ennek a védett vizes élőhelynek az érintetlen természeti szépségét, figyelve a ritka madárfajokra, de ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Explorați frumusețea naturală neatinsă a acestei zone umede protejate, căutând specii rare de păsări, dar nu uitați să purtați pantofi confortabili de mers.",
+            "en": "Explore the untouched natural beauty of this protected wetland area, keeping your eyes peeled for rare bird species, but remember to wear comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom ruhigen westlichen Rand bei Gjoleka und genießen Sie die kühle Morgenluft auf dem Weg vorbei an den Strandkomplexen. Am Mittag erreichen Sie das lebhafte Herz des Velipoja-Strandes für ein erfrischendes Bad. Nachmittags fahren Sie auf den sandigen Wegen zu den weitläufigen östlichen Ufern. Ihre Fahrt endet am ruhigen Ramsar-Gebiet, einem perfekten Ort, um die Beine auszuruhen und die Natur zu genießen.",
+        "hu": "Tekerjen a csendes nyugati szélétől, a Gjoleka partjától, élvezve a hűvös reggeli levegőt, miközben elhalad a strandkomplexumok mellett. A dél a Velipoja strand nyüzsgő szívébe hozza, ahol megmártózhat a tengerben. Délután kerékpározzon a homokos utakon a tágas keleti partok felé. Az utazás a nyugodt Ramsar-területnél ér véget, amely tökéletes hely a lábak pihentetésére és a természettel való kapcsolatteremtésre.",
+        "ro": "Pedalați de la marginea liniștită a vestului la Gjoleka, bucurându-vă de aerul răcoros al dimineții. La prânz veți ajunge în inima vibrantă a plajei Velipoja, unde puteți face o baie răcoritoare. După-amiaza, mergeți cu bicicleta de-a lungul cărărilor nisipoase către țărmurile estice expansive. Călătoria se încheie la zona liniștită Ramsar, un loc perfect pentru a vă odihni picioarele și a vă conecta cu natura.",
+        "en": "Pedal your way from the quiet western edge at Gjoleka, enjoying the cool morning air as you glide past the beach complexes. Midday brings you to the vibrant heart of Velipoja Beach, where you can easily park your bike and take a dip. In the afternoon, cycle along the sandy paths towards the expansive eastern shores. Your ride finishes at the serene Ramsar Site, a perfect place to rest your legs and connect with nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ramsar Site",
+            "hu": "Ramsar Site",
+            "ro": "Ramsar Site",
+            "en": "Ramsar Site"
+          },
+          "coords": [
+            19.443435,
+            41.863497
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührte Natur dieses geschützten Feuchtgebiets und halten Sie Ausschau nach seltenen Vogelarten, aber denken Sie an bequeme Wanderschuhe.",
+            "hu": "Fedezze fel ennek a védett vizes élőhelynek az érintetlen természeti szépségét, figyelve a ritka madárfajokra, de ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Explorați frumusețea naturală neatinsă a acestei zone umede protejate, căutând specii rare de păsări, dar nu uitați să purtați pantofi confortabili de mers.",
+            "en": "Explore the untouched natural beauty of this protected wetland area, keeping your eyes peeled for rare bird species, but remember to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazh Publik",
+            "hu": "Plazh Publik",
+            "ro": "Plazh Publik",
+            "en": "Plazh Publik"
+          },
+          "coords": [
+            19.437762,
+            41.859802
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufige Küste des östlichen öffentlichen Strandes, die viel Platz für Strandspiele bietet, bringen Sie jedoch eigenen Sonnenschutz mit.",
+            "hu": "Fedezze fel a keleti nyilvános strand tágas partvonalát, amely bőséges helyet kínál a strandjátékokhoz, bár érdemes saját árnyékolót hoznia.",
+            "ro": "Descoperiți linia de coastă expansivă a plajei publice estice, oferind mult spațiu deschis pentru jocuri, deși ar trebui să vă aduceți propria umbrelă.",
+            "en": "Discover the expansive shoreline of the eastern public beach, offering plenty of open space for beach games, though you should bring your own shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stela Beach",
+            "hu": "Stela Beach",
+            "ro": "Stela Beach",
+            "en": "Stela Beach"
+          },
+          "coords": [
+            19.426547,
+            41.861589
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen dieses lebhaften Strandabschnitts und machen Sie eine Pause für frische Meeresfrüchte in den Restaurants.",
+            "hu": "Pihenjen ezen az élénk partszakaszon a jól karbantartott napozóágyakon, és tartson szünetet egy friss tenger gyümölcsei falatra a szomszédos éttermekben.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute ale acestei plaje animate, luând o pauză pentru o gustare cu fructe de mare proaspete la restaurantele alăturate.",
+            "en": "Relax on the well-maintained sunbeds of this lively beach section, taking a break for a fresh seafood snack at one of the adjacent seaside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi Panorama",
+            "hu": "Plazhi Panorama",
+            "ro": "Plazhi Panorama",
+            "en": "Plazhi Panorama"
+          },
+          "coords": [
+            19.422031,
+            41.862256
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den breiten Sandstrand und das flache Wasser, ideal für Familien mit Kindern, aber kommen Sie früh, um die besten Sonnenschirme zu sichern.",
+            "hu": "Élvezze a széles homokos partszakaszt és a sekély vizet, amely ideális gyermekes családoknak, de érkezzen korán, hogy biztosítsa a legjobb napernyőket.",
+            "ro": "Bucurați-vă de întinderea largă de nisip și de apele puțin adânci, ideale pentru familiile cu copii, dar ajungeți devreme pentru a prinde cele mai bune umbrele.",
+            "en": "Enjoy the wide sandy stretches and shallow waters here, which make it ideal for families with children, but arrive early to secure the best parasols."
+          }
+        },
+        {
+          "name": {
+            "de": "Velipoja Beach",
+            "hu": "Velipoja Beach",
+            "ro": "Velipoja Beach",
+            "en": "Velipoja Beach"
+          },
+          "coords": [
+            19.417133,
+            41.859825
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den Hauptabschnitt des ikonischen Strandes entlang, berühmt für seinen therapeutischen Sand, und bewundern Sie die weite Aussicht auf die Adria.",
+            "hu": "Sétáljon végig az ikonikus Velipoja strand fő szakaszán, amely híres gyógyhatású homokjáról, és csodálja meg az Adriai-tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Plimbați-vă de-a lungul secțiunii principale a plajei iconice, renumită pentru nisipul său terapeutic, și admirați priveliștile panoramice ale Mării Adriatice.",
+            "en": "Walk along the main stretch of the iconic Velipoja Beach, famous for its therapeutic sand, and take a moment to admire the sweeping views of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjoleka",
+            "hu": "Gjoleka",
+            "ro": "Gjoleka",
+            "en": "Gjoleka"
+          },
+          "coords": [
+            19.414406,
+            41.860604
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag am westlichen Rand, wo sich der Sand weicher anfühlt, und genießen Sie die ruhige Atmosphäre vor dem Mittagstrubel.",
+            "hu": "Kezdje a strandnapot a nyugati szélén, ahol a homok puhábbnak tűnik, élvezve a félreesőbb atmoszférát a déli tömeg megérkezése előtt.",
+            "ro": "Începeți ziua de plajă la marginea vestică, unde nisipul se simte mai fin, bucurându-vă de o atmosferă mai retrasă înainte de sosirea aglomerației.",
+            "en": "Start your beach day at the western edge where the sand feels softer, enjoying a more secluded atmosphere before the midday crowds begin to arrive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im ruhigen Ramsar-Gebiet und tauchen Sie in die morgendliche Stille der Feuchtgebiete ein. Gegen Mittag fahren Sie zu den beliebten öffentlichen Stränden und genießen die lebhaften zentralen Badeorte. Verbringen Sie den Nachmittag auf den gut ausgestatteten Sonnenliegen des berühmten Strandes. Beenden Sie den Tag, indem Sie zum westlichen Rand bei Gjoleka fahren, um einen ruhigen Sonnenuntergang zu erleben.",
+        "hu": "Kezdje autós túráját a nyugodt Ramsar-területen, elmerülve a part menti vizes élőhelyek reggeli nyugalmában. Ahogy közeledik a dél, hajtson a népszerű nyilvános strandok felé, élvezve a központi fürdőhelyeket. Töltse a délutánt a híres Velipoja strand jól felszerelt napozóágyain pihenve. Fejezze be a napot a távoli nyugati csücsökben, Gjolekában, egy csendes és festői naplemente kíséretében.",
+        "ro": "Începeți turul cu mașina la liniștitul sit Ramsar, cufundându-vă în calmul matinal al zonelor umede de coastă. Pe măsură ce se apropie prânzul, conduceți spre plajele publice populare, bucurându-vă de locurile centrale de scăldat. Petreceți-vă după-amiaza relaxându-vă pe șezlongurile bine echipate de pe renumita plajă. Terminați ziua conducând spre extremitatea vestică la Gjoleka pentru un apus liniștit.",
+        "en": "Kick off your driving tour at the tranquil Ramsar Site, immersing yourself in the morning calm of the coastal wetlands. As midday approaches, drive towards the popular public beaches, enjoying quick hops between the lively central bathing spots. Spend your afternoon unwinding on the well-equipped sunbeds of the famous Velipoja Beach. Finish the day by driving to the far western tip at Gjoleka for a quiet and picturesque sunset."
+      }
+    }
+  }
+}

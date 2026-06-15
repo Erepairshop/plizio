@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-janjina-cities-v2",
+  "anchor": {
+    "name": "Janjina",
+    "coords": [
+      17.4281,
+      42.925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Općina Janjina",
+            "hu": "Općina Janjina",
+            "ro": "Općina Janjina",
+            "en": "Općina Janjina"
+          },
+          "coords": [
+            17.429333,
+            42.925408
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das zentrale Verwaltungsgebäude dieser ruhigen Gemeinde, das historische Einblicke in die Verwaltung der Halbinsel bietet, während Sie lokale Karten besorgen.",
+            "hu": "Fedezze fel e csendes község központi igazgatási épületét, amely történelmi betekintést nyújt a félsziget irányításába, miközben helyi térképeket gyűjt.",
+            "ro": "Descoperiți punctul administrativ central al acestei comune liniștite, care oferă o perspectivă istorică asupra guvernării peninsulei, în timp ce colectați hărți locale.",
+            "en": "Discover the central administrative landmark of this tranquil municipality, offering historical insight into the peninsula's governance while you collect local maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.424535,
+            42.927813
+          ],
+          "category": "natural",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser alten Hügelfestungsruine hinauf, um den Panoramablick über die Weinberge von Pelješac zu genießen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Túrázzon fel ehhez az ősi hegyi erődromhoz, hogy megcsodálja a Pelješac szőlőültetvényeire nyíló panorámát, és ne felejtsen el masszív túracipőt viselni.",
+            "ro": "Urcați la această ruină antică de fortăreață pe deal pentru a admira vederi panoramice peste podgoriile Pelješac, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Hike up to this ancient hill fort ruin to admire panoramic views over the Pelješac vineyards, making sure to wear sturdy shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Vodice",
+            "hu": "Vodice",
+            "ro": "Vodice",
+            "en": "Vodice"
+          },
+          "coords": [
+            17.420851,
+            42.909885
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.01,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Bucht, wo kristallklares Wasser auf üppige Pinienwälder trifft, und bringen Sie Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Pihenjen ebben a nyugodt, rekreációs öbölben, ahol a kristálytiszta víz buja fenyvesekkel találkozik, és hozzon magával saját búvárfelszerelést a tengeri élőlényekhez.",
+            "ro": "Relaxați-vă în acest golf de agrement senin, unde apele cristaline întâlnesc păduri luxuriante de pini, aducând propriul echipament de snorkeling pentru a explora.",
+            "en": "Relax at this serene recreational bay where crystal-clear waters meet lush pine forests, bringing your own snorkeling gear to explore the diverse marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljut",
+            "hu": "Ljut",
+            "ro": "Ljut",
+            "en": "Ljut"
+          },
+          "coords": [
+            17.428676,
+            42.905954
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen rauen natürlichen Küstenabschnitt, der für seine dramatischen Felsformationen bekannt ist, ideal für einen Spaziergang vor der Mittagshitze.",
+            "hu": "Fedezze fel ezt a drámai sziklaalakzatairól ismert, zord természeti partszakaszt, amely tökéletes egy békés tengerparti sétához a legnagyobb hőség előtt.",
+            "ro": "Explorați această porțiune naturală de coastă accidentată, cunoscută pentru formațiunile sale stâncoase, perfectă pentru o plimbare liniștită de-a lungul mării.",
+            "en": "Explore this rugged natural coastal stretch known for its dramatic rock formations, perfect for a peaceful coastal walk if you arrive before the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučica",
+            "hu": "Lučica",
+            "ro": "Lučica",
+            "en": "Lučica"
+          },
+          "coords": [
+            17.429742,
+            42.902156
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten kleinen Hafen, genießen Sie die sanfte Meeresbrise und beobachten Sie die Fischerboote bei der täglichen Rückkehr.",
+            "hu": "Kapcsolódjon ki ezen a bájos kis kikötőben és pihenőhelyen, élvezze a lágy tengeri szellőt, és figyelje a napi fogással hazatérő helyi halászhajókat.",
+            "ro": "Relaxați-vă în acest mic port fermecător și loc de agrement, bucurându-vă de briza blândă a mării și privind bărcile locale de pescuit care se întorc cu captura.",
+            "en": "Unwind at this charming small harbor and recreational spot, enjoying the gentle sea breeze and watching local fishing boats returning with the daily catch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im ruhigen Zentrum von Janjina, bevor Sie zum Aussichtspunkt Gradina aufsteigen. Mittags steigen Sie gemütlich zur Südküste von Vodice hinab. Am Nachmittag folgen Sie der felsigen Küste in Richtung Ljut. Der Abend klingt sanft am Hafen von Lučica aus, wo kleine Fischerboote im Zwielicht schaukeln.",
+        "hu": "A reggel Janjina csendes központjában indul, majd felkapaszkodunk a Gradina kilátóhoz. A dél egy kellemes ereszkedést hoz Vodice déli partjaihoz. Délután kövesse a sziklás partvonalat Ljut felé. Az este kellemesen zárul a Lučica kikötőjében, figyelve a szürkületben ringatózó kis halászhajókat.",
+        "ro": "Dimineața începe în centrul liniștit al localității Janjina, urcând spre punctul de belvedere Gradina. Amiaza aduce o coborâre plăcută spre țărmurile sudice din Vodice. După-amiaza, urmați coasta stâncoasă spre Ljut. Seara se încheie la portul Lučica, privind bărcile mici de pescuit legănându-se în amurg.",
+        "en": "Morning starts in the quiet center of Janjina before ascending to the Gradina viewpoint. Midday brings a leisurely descent through the Mediterranean scrub to the southern shores of Vodice. In the afternoon, trace the rocky coastline towards Ljut. The evening concludes gently at the Lučica harbor, watching small fishing boats bob in the twilight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 7.47,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Općina Janjina",
+            "hu": "Općina Janjina",
+            "ro": "Općina Janjina",
+            "en": "Općina Janjina"
+          },
+          "coords": [
+            17.429333,
+            42.925408
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das zentrale Verwaltungsgebäude dieser ruhigen Gemeinde, das historische Einblicke in die Verwaltung der Halbinsel bietet, während Sie lokale Karten besorgen.",
+            "hu": "Fedezze fel e csendes község központi igazgatási épületét, amely történelmi betekintést nyújt a félsziget irányításába, miközben helyi térképeket gyűjt.",
+            "ro": "Descoperiți punctul administrativ central al acestei comune liniștite, care oferă o perspectivă istorică asupra guvernării peninsulei, în timp ce colectați hărți locale.",
+            "en": "Discover the central administrative landmark of this tranquil municipality, offering historical insight into the peninsula's governance while you collect local maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Mali Prinos",
+            "hu": "Mali Prinos",
+            "ro": "Mali Prinos",
+            "en": "Mali Prinos"
+          },
+          "coords": [
+            17.443546,
+            42.929227
+          ],
+          "category": "natural",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese unberührte Naturlandschaft mit ihrer vielfältigen mediterranen Flora und halten Sie Ausschau nach seltenen Vogelarten im dichten Gebüsch.",
+            "hu": "Sétáljon végig ezen az érintetlen természeti tájon, amely változatos mediterrán flórát kínál, és tartsa nyitva a szemét a sűrű bokrokban fészkelő ritka madarak miatt.",
+            "ro": "Plimbați-vă prin acest peisaj natural neatins care oferă o floră mediteraneană diversă, fiind cu ochii în patru după specii rare de păsări care cuibăresc aici.",
+            "en": "Stroll through this untouched natural landscape offering diverse Mediterranean flora, keeping an eye out for rare bird species that nest in the dense bushes."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Drače",
+            "hu": "Uvala Drače",
+            "ro": "Uvala Drače",
+            "en": "Uvala Drače"
+          },
+          "coords": [
+            17.449851,
+            42.929872
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im flachen Wasser dieser malerischen Nordbucht, die für ihre Austernzuchttradition und das hervorragende Licht am frühen Morgen bekannt ist.",
+            "hu": "Ússzon ennek a festői északi öbölnek a sekély vizében, amely híres az osztrigatenyésztési hagyományairól és a kiváló kora reggeli fényviszonyokról a fotózáshoz.",
+            "ro": "Înotați în apele liniștite ale acestui pitoresc golf nordic, faimos pentru tradițiile sale de cultivare a stridiilor și pentru lumina excelentă a dimineții.",
+            "en": "Swim in the tranquil, shallow waters of this picturesque northern bay, famous for its oyster farming traditions and excellent early morning lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.424535,
+            42.927813
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.07,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser alten Hügelfestungsruine hinauf, um den Panoramablick über die Weinberge von Pelješac zu genießen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Túrázzon fel ehhez az ősi hegyi erődromhoz, hogy megcsodálja a Pelješac szőlőültetvényeire nyíló panorámát, és ne felejtsen el masszív túracipőt viselni.",
+            "ro": "Urcați la această ruină antică de fortăreață pe deal pentru a admira vederi panoramice peste podgoriile Pelješac, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Hike up to this ancient hill fort ruin to admire panoramic views over the Pelješac vineyards, making sure to wear sturdy shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Nudist beach",
+            "hu": "Nudist beach",
+            "ro": "Nudist beach",
+            "en": "Nudist beach"
+          },
+          "coords": [
+            17.413501,
+            42.911905
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Genießen Sie ein befreites Sonnenbad an diesem abgelegenen FKK-Kieselstrand und packen Sie viel Wasser und Sonnencreme ein, da der natürliche Schatten begrenzt ist.",
+            "hu": "Élvezze a felszabadult napozást ezen a félreeső, naturista kavicsos strandon, és vigyen magával bőséges vizet és naptejet, mivel a természetes árnyék korlátozott.",
+            "ro": "Bucurați-vă de o experiență de plajă eliberatoare pe această plajă retrasă cu pietriș pentru nudiști, împachetând apă și cremă de soare, deoarece umbra e redusă.",
+            "en": "Enjoy a liberated sunbathing experience at this secluded, clothing-optional pebble beach, packing plenty of water and sunscreen as natural shade is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučica",
+            "hu": "Lučica",
+            "ro": "Lučica",
+            "en": "Lučica"
+          },
+          "coords": [
+            17.429742,
+            42.902156
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten kleinen Hafen, genießen Sie die sanfte Meeresbrise und beobachten Sie die Fischerboote bei der täglichen Rückkehr.",
+            "hu": "Kapcsolódjon ki ezen a bájos kis kikötőben és pihenőhelyen, élvezze a lágy tengeri szellőt, és figyelje a napi fogással hazatérő helyi halászhajókat.",
+            "ro": "Relaxați-vă în acest mic port fermecător și loc de agrement, bucurându-vă de briza blândă a mării și privind bărcile locale de pescuit care se întorc cu captura.",
+            "en": "Unwind at this charming small harbor and recreational spot, enjoying the gentle sea breeze and watching local fishing boats returning with the daily catch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer kurzen Fahrt vom Gemeindezentrum ins grüne Mali Prinos. Kühlen Sie sich mittags mit einem Bad in Uvala Drače ab, bevor Sie an Gradina vorbeifahren. Die Nachmittagssonne verbringen Sie perfekt am abgelegenen FKK-Strand im Süden. Beenden Sie Ihren Tag in Lučica mit Blick auf den wunderschönen Sonnenuntergang.",
+        "hu": "Kezdje egy gyors tekeréssel a központból a zöldellő Mali Prinos felé. Délben frissüljön fel egy csobbanással az Uvala Drače öbölben, majd tekerjen el a történelmi Gradina mellett. A délutánt a déli, félreeső naturista strandon érdemes tölteni. Zárja a napot Lučicában, élvezve a tengerparti naplementét.",
+        "ro": "Începeți cu o pedalare rapidă din centrul spre Mali Prinos. La amiază, răcoriți-vă cu o baie în Uvala Drače, înainte de a pedala pe lângă istorica Gradina. Soarele după-amiezii este perfect petrecut la plaja retrasă pentru nudiști din sud. Încheiați-vă ziua la Lučica, bucurându-vă de apusul de soare pe coastă.",
+        "en": "Begin with a quick pedal from the municipal center into the verdant Mali Prinos. Around midday, cool off with a refreshing dip at Uvala Drače before cycling inland past the historical Gradina. Afternoon sunshine is perfectly spent at the secluded Nudist beach in the south. Wrap up your day at Lučica, enjoying the coastal sunset views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.12,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Općina Janjina",
+            "hu": "Općina Janjina",
+            "ro": "Općina Janjina",
+            "en": "Općina Janjina"
+          },
+          "coords": [
+            17.429333,
+            42.925408
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das zentrale Verwaltungsgebäude dieser ruhigen Gemeinde, das historische Einblicke in die Verwaltung der Halbinsel bietet, während Sie lokale Karten besorgen.",
+            "hu": "Fedezze fel e csendes község központi igazgatási épületét, amely történelmi betekintést nyújt a félsziget irányításába, miközben helyi térképeket gyűjt.",
+            "ro": "Descoperiți punctul administrativ central al acestei comune liniștite, care oferă o perspectivă istorică asupra guvernării peninsulei, în timp ce colectați hărți locale.",
+            "en": "Discover the central administrative landmark of this tranquil municipality, offering historical insight into the peninsula's governance while you collect local maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Motoružnice",
+            "hu": "Motoružnice",
+            "ro": "Motoružnice",
+            "en": "Motoružnice"
+          },
+          "coords": [
+            17.400996,
+            42.927954
+          ],
+          "category": "natural",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.32,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in dieses abgelegene Naturschutzgebiet, das durch eine raue Karsttopographie gekennzeichnet ist, wo ein Weitwinkelobjektiv die weiten Ausblicke einfängt.",
+            "hu": "Merészkedjen el ebbe a karsztos domborzat által jellemzett távoli természetvédelmi területre, ahol egy nagylátószögű objektív segít megörökíteni a hatalmas kilátást.",
+            "ro": "Aventură-te în această rezervație naturală îndepărtată, caracterizată prin topografia carstică accidentată, unde un obiectiv superangular va capta peisajele vaste.",
+            "en": "Venture out to this remote natural reserve characterized by rugged karst topography, where a wide-angle lens will help capture the sweeping, untouched vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.424535,
+            42.927813
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser alten Hügelfestungsruine hinauf, um den Panoramablick über die Weinberge von Pelješac zu genießen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Túrázzon fel ehhez az ősi hegyi erődromhoz, hogy megcsodálja a Pelješac szőlőültetvényeire nyíló panorámát, és ne felejtsen el masszív túracipőt viselni.",
+            "ro": "Urcați la această ruină antică de fortăreață pe deal pentru a admira vederi panoramice peste podgoriile Pelješac, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Hike up to this ancient hill fort ruin to admire panoramic views over the Pelješac vineyards, making sure to wear sturdy shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Drače",
+            "hu": "Uvala Drače",
+            "ro": "Uvala Drače",
+            "en": "Uvala Drače"
+          },
+          "coords": [
+            17.449851,
+            42.929872
+          ],
+          "category": "natural",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.07,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im flachen Wasser dieser malerischen Nordbucht, die für ihre Austernzuchttradition und das hervorragende Licht am frühen Morgen bekannt ist.",
+            "hu": "Ússzon ennek a festői északi öbölnek a sekély vizében, amely híres az osztrigatenyésztési hagyományairól és a kiváló kora reggeli fényviszonyokról a fotózáshoz.",
+            "ro": "Înotați în apele liniștite ale acestui pitoresc golf nordic, faimos pentru tradițiile sale de cultivare a stridiilor și pentru lumina excelentă a dimineții.",
+            "en": "Swim in the tranquil, shallow waters of this picturesque northern bay, famous for its oyster farming traditions and excellent early morning lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Vodice",
+            "hu": "Vodice",
+            "ro": "Vodice",
+            "en": "Vodice"
+          },
+          "coords": [
+            17.420851,
+            42.909885
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Bucht, wo kristallklares Wasser auf üppige Pinienwälder trifft, und bringen Sie Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Pihenjen ebben a nyugodt, rekreációs öbölben, ahol a kristálytiszta víz buja fenyvesekkel találkozik, és hozzon magával saját búvárfelszerelést a tengeri élőlényekhez.",
+            "ro": "Relaxați-vă în acest golf de agrement senin, unde apele cristaline întâlnesc păduri luxuriante de pini, aducând propriul echipament de snorkeling pentru a explora.",
+            "en": "Relax at this serene recreational bay where crystal-clear waters meet lush pine forests, bringing your own snorkeling gear to explore the diverse marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučica",
+            "hu": "Lučica",
+            "ro": "Lučica",
+            "en": "Lučica"
+          },
+          "coords": [
+            17.429742,
+            42.902156
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten kleinen Hafen, genießen Sie die sanfte Meeresbrise und beobachten Sie die Fischerboote bei der täglichen Rückkehr.",
+            "hu": "Kapcsolódjon ki ezen a bájos kis kikötőben és pihenőhelyen, élvezze a lágy tengeri szellőt, és figyelje a napi fogással hazatérő helyi halászhajókat.",
+            "ro": "Relaxați-vă în acest mic port fermecător și loc de agrement, bucurându-vă de briza blândă a mării și privind bărcile locale de pescuit care se întorc cu captura.",
+            "en": "Unwind at this charming small harbor and recreational spot, enjoying the gentle sea breeze and watching local fishing boats returning with the daily catch."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK",
+            "hu": "FKK",
+            "ro": "FKK",
+            "en": "FKK"
+          },
+          "coords": [
+            17.445363,
+            42.895524
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Verbringen Sie Ihren späten Nachmittag in diesem Paradies für Naturisten und schätzen Sie das kristallklare Wasser, während Sie den schönen Sonnenuntergang genießen.",
+            "hu": "Töltse a késő délutánt ezen a dedikált naturista menedékhelyen, értékelve a kristálytiszta vizet és a tiszteletteljes légkört, miközben elmerül a gyönyörű naplementében.",
+            "ro": "Petreceți după-amiaza târziu în acest paradis naturist, apreciind apele cristaline și atmosfera respectuoasă în timp ce vă bucurați de apusul frumos de soare.",
+            "en": "Spend your late afternoon at this dedicated naturist haven, appreciating the pristine waters and respectful atmosphere while soaking up the beautiful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom Herzen Janjinas los, um die rauen westlichen Grenzen von Motoružnice zu erkunden. Mittags fahren Sie zurück über die Halbinsel zu den Gewässern von Uvala Drače. Der Nachmittag bietet einen schnellen Abstecher in die südlichen Buchten von Vodice und Lučica. Beenden Sie Ihre Tour am ruhigen FKK-Strand.",
+        "hu": "Vezessen Janjina szívéből Motoružnice zord nyugati határainak felfedezésére. A dél visszaviszi a félszigeten Gradinán át Uvala Drače békés vizeihez. A délután egy gyors ugrást jelent Vodice és Lučica déli öbleihez. Fejezze be átfogó tengerparti túráját a békés FKK strandon.",
+        "ro": "Conduceți din inima Janjina pentru a explora limitele vestice din Motoružnice. Amiaza vă duce înapoi peste peninsulă spre apele liniștite din Uvala Drače. După-amiaza implică o coborâre rapidă spre golfurile sudice Vodice și Lučica. Terminați-vă turul complet al coastei la plaja liniștită FKK.",
+        "en": "Drive out from the heart of Janjina to explore the rugged western limits of Motoružnice. Midday takes you back across the peninsula past Gradina to the serene waters of Uvala Drače. The afternoon involves a quick hop down to the southern coves of Vodice and Lučica. Finish your comprehensive coastal tour at the peaceful FKK beach."
+      }
+    }
+  }
+}

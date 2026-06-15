@@ -1,0 +1,520 @@
+{
+  "city_id": "uk-aberystwyth-cities-v2",
+  "anchor": {
+    "name": "Aberystwyth",
+    "coords": [
+      -4.0667,
+      52.4167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vale of Rheidol Railway",
+            "hu": "Vale of Rheidol Vasút",
+            "ro": "Vale of Rheidol Railway",
+            "en": "Vale of Rheidol Railway"
+          },
+          "coords": [
+            -4.07909,
+            52.41114
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Nostalgie der Schmalspur-Dampfzüge in die kambrischen Berge und kommen Sie frühzeitig, um sich einen bequemen Fensterplatz zu sichern.",
+            "hu": "Tapasztalja meg a cambriai hegyekbe induló keskeny nyomtávú gőzösök nosztalgiáját, és érkezzen korán, hogy biztosítson magának egy kényelmes ablak melletti ülést.",
+            "ro": "Experimentați nostalgia trenurilor cu aburi pe ecartament îngust spre Munții Cambrieni și sosiți devreme pentru a vă asigura un loc confortabil la fereastră.",
+            "en": "Experience the nostalgia of narrow-gauge steam trains departing for the scenic Cambrian Mountains, and arrive early to secure a comfortable window seat."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "Déli Strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -4.090812,
+            52.412364
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang an diesem ruhigeren Kiesel- und Sandstrand, perfekt für friedliche Meerblicke, aber tragen Sie feste Schuhe für die Steine.",
+            "hu": "Élvezze a pihentető sétát ezen a csendesebb kavicsos és homokos parton, amely tökéletes a tengeri kilátáshoz, de a köveken való sétáláshoz viseljen masszív cipőt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe acest țărm mai liniștit de pietriș și nisip, perfect pentru vederi la mare, dar purtați încălțăminte robustă pentru pietre.",
+            "en": "Enjoy a relaxing stroll along this quieter pebble and sand shoreline, perfect for peaceful sea views, but be sure to wear sturdy shoes for walking on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Aberystwyth",
+            "hu": "Aberystwythi Kastély",
+            "ro": "Castelul Aberystwyth",
+            "en": "Aberystwyth Castle"
+          },
+          "coords": [
+            -4.089504,
+            52.413278
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atmosphärischen Ruinen dieser edwardianischen Festung mit Meerblick und kommen Sie am späten Nachmittag für das beste natürliche Licht auf den Steinen.",
+            "hu": "Fedezze fel az Edward-kori tengerparti erődítmény hangulatos romjait, és látogasson el késő délután, hogy a legjobb természetes fényben csodálhassa meg az ősi köveket.",
+            "ro": "Explorați ruinele atmosferice ale acestei fortărețe eduardiene cu vedere la mare și vizitați spre seară pentru cea mai bună lumină naturală pe pietrele antice.",
+            "en": "Explore the atmospheric ruins of this Edwardian fortress overlooking the sea, and visit at late afternoon for the best natural lighting on the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes College",
+            "hu": "Öreg Kollégium",
+            "ro": "Colegiul Vechi",
+            "en": "Old College"
+          },
+          "coords": [
+            -4.08827,
+            52.4149
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieses historischen Universitätsgebäudes und nehmen Sie sich Zeit für die filigranen Steinmetzarbeiten der Fassade.",
+            "hu": "Csodálja meg a történelmi egyetemi épület lenyűgöző neogótikus építészetét, és szánjon időt a lenyűgöző homlokzat finom kőfaragásainak aprólékos megfigyelésére.",
+            "ro": "Admirați impresionanta arhitectură neogotică a acestei clădiri universitare istorice, alocând timp pentru a observa sculpturile complicate în piatră de pe fațadă.",
+            "en": "Admire the striking Gothic Revival architecture of this historic university building, taking time to notice the intricate stone carvings along its impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ceredigion Museum",
+            "hu": "Ceredigion Múzeum",
+            "ro": "Muzeul Ceredigion",
+            "en": "Ceredigion Museum"
+          },
+          "coords": [
+            -4.083858,
+            52.416418
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte in einem wunderschön erhaltenen edwardianischen Theater, wo Sie unbedingt die faszinierenden traditionellen walisischen Trachten ansehen sollten.",
+            "hu": "Fedezze fel a helyi történelmet egy gyönyörűen megőrzött Edward-kori színházban, ahol mindenképpen érdemes megnézni a hagyományos walesi népviseletet bemutató kiállítást.",
+            "ro": "Descoperiți istoria locală într-un teatru eduardian frumos conservat, unde ar trebui cu siguranță să examinați expozițiile fascinante de costume tradiționale galeze.",
+            "en": "Discover local history inside a beautifully preserved Edwardian theatre, where you should definitely check out the fascinating traditional Welsh costume exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberystwyth Standseilbahn",
+            "hu": "Aberystwythi Sikló",
+            "ro": "Funicularul Aberystwyth",
+            "en": "Aberystwyth Cliff Railway"
+          },
+          "coords": [
+            -4.08329,
+            52.423388
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der längsten elektrischen Standseilbahn Großbritanniens für spektakuläre Ausblicke auf die Bucht und sichern Sie sich die vorderen Plätze für tolle Fotos.",
+            "hu": "Utazzon Nagy-Britannia leghosszabb siklójával a látványos öbölbeli kilátásért, és mindenképpen foglalja el az első üléseket a legjobb fényképezési lehetőségekhez.",
+            "ro": "Mergeți cu cel mai lung funicular electric din Marea Britanie pentru vederi spectaculoase ale golfului, asigurându-vă că luați locurile din față pentru fotografii.",
+            "en": "Ride the longest funicular electric cliff railway in Britain for spectacular bay views, making sure to grab the front seats in the carriage for the best photo ops."
+          }
+        },
+        {
+          "name": {
+            "de": "Constitution Hill",
+            "hu": "Constitution-hegy",
+            "ro": "Dealul Constitution",
+            "en": "Constitution Hill"
+          },
+          "coords": [
+            -4.083,
+            52.425
+          ],
+          "category": "natural",
+          "arrive_at": "16:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die walisische Küste vom Gipfel und bringen Sie eine leichte Jacke mit, da die Meeresbrise auch an wärmeren Tagen kühl sein kann.",
+            "hu": "Gyönyörködjön a walesi partvidék panorámájában a csúcsról, és hozzon egy könnyű kabátot, mivel a tengeri szellő a melegebb napokon is meglehetősen hűvös lehet.",
+            "ro": "Admirați vederile panoramice ale coastei galeze de pe vârf și aduceți o jachetă ușoară, deoarece briza mării poate fi destul de rece chiar și în zilele calde.",
+            "en": "Take in panoramic views of the Welsh coastline from the summit, and bring a light jacket as the sea breeze can be quite chilly even on warmer sunny afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Beginnen Sie Ihren Morgen am historischen Bahnhof, saugen Sie das industrielle Erbe auf und spazieren Sie zum ruhigen South Beach. \n2. Gegen Mittag tauchen Sie in die mittelalterliche Geschichte von Aberystwyth Castle ein und bewundern die neogotische Fassade des Old College. \n3. Verbringen Sie den Nachmittag damit, die reiche walisische Kultur im wunderschönen Ceredigion Museum zu entdecken, das in einem alten Theater untergebracht ist. \n4. Am späten Nachmittag fahren Sie mit der Standseilbahn zum Constitution Hill, wo Sie den goldenen Sonnenuntergang über der Bucht bewundern können.",
+        "hu": "1. Kezdje a reggelt a történelmi vasútállomáson, majd sétáljon dél felé, hogy élvezze a South Beach nyugodt, óceánparti hangulatát a friss levegőn. \n2. Délidőben fedezze fel az aberystwythi kastély középkori történelmét, és csodálja meg a híres Old College lenyűgöző neogótikus homlokzatát a közelben. \n3. A kora délutánt a gazdag walesi kultúra és a műtárgyak felfedezésével töltheti a csodálatosan egyedi, egy régi színházban helyet kapó Ceredigion Múzeumban. \n4. Késő délután utazzon fel a bájos siklóval a Constitution Hillre, és figyelje, ahogy a naplemente aranyos árnyalatokat vet a hatalmas öbölre.",
+        "ro": "1. Începeți dimineața la gara istorică, absorbind moștenirea industrială înainte de a merge spre sud pentru a vă bucura de atmosfera liniștită a plajei de sud. \n2. La apropierea prânzului, explorați istoria medievală a Castelului Aberystwyth și admirați fațada neogotică impresionantă a faimosului Old College din apropiere. \n3. Petreceți după-amiaza descoperind bogata cultură galeză în minunatul Muzeu Ceredigion, găzduit într-un vechi teatru cu o arhitectură deosebit de elegantă. \n4. După-amiaza târziu, luați funicularul spre Constitution Hill și priviți cum apusul aruncă nuanțe aurii peste vastul golf al orașului înainte de cină.",
+        "en": "1. Start your morning at the historic railway station, soaking up the industrial heritage before walking south to enjoy the tranquil atmosphere of South Beach. \n2. As midday approaches, delve into the medieval history of Aberystwyth Castle and admire the striking neo-Gothic facade of the famous Old College nearby. \n3. Spend your early afternoon discovering rich Welsh culture and artifacts in the wonderfully unique Ceredigion Museum, housed in an old theatre. \n4. In the late afternoon, take the delightful cliff railway up to Constitution Hill, watching the sunset cast golden hues across the vast bay before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalbibliothek von Wales",
+            "hu": "Walesi Nemzeti Könyvtár",
+            "ro": "Biblioteca Națională a Țării Galilor",
+            "en": "National Library of Wales"
+          },
+          "coords": [
+            -4.068469,
+            52.414384
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie alte Manuskripte in einer der großen Bibliotheken Großbritanniens und besuchen Sie das hochgelegene Café für hervorragenden Kaffee mit Stadtpanorama.",
+            "hu": "Böngésszen ősi kéziratokat és művészeti alkotásokat Nagy-Britannia egyik nagyszerű könyvtárában, és térjen be a kávézóba egy kiváló kávéra a lenyűgöző panorámával.",
+            "ro": "Răsfoiți manuscrise antice în una dintre marile biblioteci ale Marii Britanii și opriți-vă la cafeneaua situată la înălțime pentru o cafea cu panorame uimitoare.",
+            "en": "Browse ancient manuscripts and art in one of Britain's great libraries, and stop by the elevated cafe for excellent coffee accompanied by stunning town panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Tan-y-bwlch",
+            "hu": "Tan-y-bwlch Strand",
+            "ro": "Plaja Tan-y-bwlch",
+            "en": "Traeth Tan-y-bwlch"
+          },
+          "coords": [
+            -4.090894,
+            52.400945
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Kiesstrand mit Naturschutzgebiet, der ein idealer Ort für Vogelbeobachtungen ist, wenn Sie Ihr Fernglas mitbringen.",
+            "hu": "Meneküljön el a tömeg elől ezen a távoli, természetvédelmi területekkel határolt kavicsos strandon, amely ideális hely a madármegfigyeléshez, ha hoz magával távcsövet.",
+            "ro": "Scăpați de aglomerație pe această plajă cu pietriș susținută de rezervații naturale, un loc ideal pentru observarea păsărilor dacă aduceți binoclul cu dumneavoastră.",
+            "en": "Escape the crowds at this remote shingle beach backed by nature reserves, which is an ideal spot for birdwatching if you bring your own binoculars along with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Aberystwyth",
+            "hu": "Aberystwythi Kastély",
+            "ro": "Castelul Aberystwyth",
+            "en": "Aberystwyth Castle"
+          },
+          "coords": [
+            -4.089504,
+            52.413278
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atmosphärischen Ruinen dieser edwardianischen Festung mit Meerblick und kommen Sie am späten Nachmittag für das beste natürliche Licht auf den Steinen.",
+            "hu": "Fedezze fel az Edward-kori tengerparti erődítmény hangulatos romjait, és látogasson el késő délután, hogy a legjobb természetes fényben csodálhassa meg az ősi köveket.",
+            "ro": "Explorați ruinele atmosferice ale acestei fortărețe eduardiene cu vedere la mare și vizitați spre seară pentru cea mai bună lumină naturală pe pietrele antice.",
+            "en": "Explore the atmospheric ruins of this Edwardian fortress overlooking the sea, and visit at late afternoon for the best natural lighting on the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            -4.090986,
+            52.41389
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie inne an dieser eindrucksvollen Bronzestatue an der Strandpromenade, die den lokalen Helden vor der dramatischen Kulisse der Meereswellen Tribut zollt.",
+            "hu": "Álljon meg egy percre emlékezni ennél a tengerparti bronzszobornál, amely a helyi hősök előtt tiszteleg az óceán morajló hullámainak drámai háttere előtt állva.",
+            "ro": "Opriți-vă pentru a reflecta la această statuie de bronz de pe faleză, oferind un tribut solemn eroilor locali pe fundalul dramatic al valurilor oceanului.",
+            "en": "Pause to reflect at this evocative bronze statue on the seafront, offering a solemn tribute to local heroes against the dramatic backdrop of crashing ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "North Beach",
+            "hu": "Északi Strand",
+            "ro": "Plaja de Nord",
+            "en": "North Beach"
+          },
+          "coords": [
+            -4.086171,
+            52.419498
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Sand- und Kieselstrand mit viktorianischen Stadthäusern und genießen Sie ein traditionelles Eis von einem der Kioske in der Nähe.",
+            "hu": "Pihenjen ezen a népszerű homokos és kavicsos partszakaszon a színes viktoriánus házak mellett, és élvezzen egy hagyományos fagylaltot a közeli pavilonok egyikéből.",
+            "ro": "Relaxați-vă pe această plajă populară de nisip și pietriș punctată de case victoriene colorate și savurați o înghețată tradițională de la unul dintre chioșcurile din apropiere.",
+            "en": "Relax on this popular sand and shingle stretch dotted with colorful Victorian townhouses, and enjoy a traditional seaside ice cream from one of the nearby kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Constitution Hill",
+            "hu": "Constitution-hegy",
+            "ro": "Dealul Constitution",
+            "en": "Constitution Hill"
+          },
+          "coords": [
+            -4.083,
+            52.425
+          ],
+          "category": "natural",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die walisische Küste vom Gipfel und bringen Sie eine leichte Jacke mit, da die Meeresbrise auch an wärmeren Tagen kühl sein kann.",
+            "hu": "Gyönyörködjön a walesi partvidék panorámájában a csúcsról, és hozzon egy könnyű kabátot, mivel a tengeri szellő a melegebb napokon is meglehetősen hűvös lehet.",
+            "ro": "Admirați vederile panoramice ale coastei galeze de pe vârf și aduceți o jachetă ușoară, deoarece briza mării poate fi destul de rece chiar și în zilele calde.",
+            "en": "Take in panoramic views of the Welsh coastline from the summit, and bring a light jacket as the sea breeze can be quite chilly even on warmer sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Clarach",
+            "hu": "Clarach Strand",
+            "ro": "Plaja Clarach",
+            "en": "Clarach Beach"
+          },
+          "coords": [
+            -4.080977,
+            52.43437
+          ],
+          "category": "recreational",
+          "arrive_at": "16:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geschützte Bucht, die bei Ebbe beliebt für Felsenpools ist, und erreichen Sie sie über den malerischen Küstenpfad für eine atemberaubende Wanderung.",
+            "hu": "Fedezze fel ezt a védett öblöt, amely apálykor népszerű a sziklamedencék miatt, és közelítse meg a festői parti ösvényen keresztül egy lélegzetelállító túrához.",
+            "ro": "Descoperiți acest golf adăpostit popular pentru bălțile stâncoase la reflux și accesați-l pe poteca de coastă scenică pentru o drumeție cu adevărat uluitoare.",
+            "en": "Discover this sheltered bay popular for rock pooling at low tide, and access it via the scenic coastal path for a truly breathtaking hike along the Welsh cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Beginnen Sie Ihre Radtour hoch über der Stadt in der großartigen Nationalbibliothek, um literarische Schätze und den morgendlichen Panoramablick zu genießen. \n2. Radeln Sie nach Süden zur abgelegenen Schönheit von Traeth Tan-y-bwlch, einem ruhigen Kiesstrand, bevor Sie zurück zu den historischen Burgruinen fahren. \n3. Erkunden Sie das mittelalterliche Aberystwyth Castle und das Kriegsdenkmal, bevor Sie entlang der lebhaften Promenade von North Beach weiterradeln. \n4. Beenden Sie Ihren aktiven Tag mit dem Aufstieg zum Constitution Hill und der Fahrt zur wunderschönen Clarach Bay, wo die Meeresbrise Sie belohnt.",
+        "hu": "1. Kezdje a kerékpártúrát a város felett magasodó Nemzeti Könyvtárban, ahol irodalmi kincseket és reggeli panorámás kilátást élvezhet a tengerre. \n2. Tekerjen dél felé a Traeth Tan-y-bwlch távoli szépségéhez, amely tökéletes a nyüzsgés elől való menekülésre, mielőtt visszatérne a várromokhoz. \n3. Fedezze fel a középkori aberystwythi kastélyt és a háborús emlékművet, majd kerékpározzon végig a North Beach élettel teli, hangulatos sétányán. \n4. Fejezze be az aktív napot a Constitution Hill megmászásával és a gyönyörű Clarach-öbölbe való eljutással, ahol a parti szellő frissíti fel estére.",
+        "ro": "1. Începeți turul cu bicicleta deasupra orașului la magnifica Bibliotecă Națională, admirând comori literare și vederi panoramice de dimineață. \n2. Pedalați spre sud către frumusețea izolată a plajei Traeth Tan-y-bwlch, o plajă liniștită perfectă pentru a scăpa de agitație înainte de a reveni la ruine. \n3. Explorați Castelul medieval Aberystwyth și onorați eroii la Monumentul Eroilor, apoi pedalați de-a lungul promenadei vibrante de la North Beach. \n4. Încheiați ziua activă urcând pe Constitution Hill și continuând spre frumosul golf Clarach, unde briza coastei vă recompensează călătoria de seară.",
+        "en": "1. Kick off your cycling tour high above the town at the magnificent National Library, taking in literary treasures and panoramic morning views. \n2. Pedal southward to the remote beauty of Traeth Tan-y-bwlch, a quiet shingle beach perfect for escaping the bustle before riding back to the historic ruins. \n3. Explore the medieval Aberystwyth Castle and honor local heroes at the War Memorial, then cycle along the vibrant promenade of North Beach. \n4. Finish your active day by ascending Constitution Hill and riding onward to the beautiful Clarach Bay, where the coastal breeze rewards your evening journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand von Clarach",
+            "hu": "Clarach Strand",
+            "ro": "Plaja Clarach",
+            "en": "Clarach Beach"
+          },
+          "coords": [
+            -4.080977,
+            52.43437
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geschützte Bucht, die bei Ebbe beliebt für Felsenpools ist, und erreichen Sie sie über den malerischen Küstenpfad für eine atemberaubende Wanderung.",
+            "hu": "Fedezze fel ezt a védett öblöt, amely apálykor népszerű a sziklamedencék miatt, és közelítse meg a festői parti ösvényen keresztül egy lélegzetelállító túrához.",
+            "ro": "Descoperiți acest golf adăpostit popular pentru bălțile stâncoase la reflux și accesați-l pe poteca de coastă scenică pentru o drumeție cu adevărat uluitoare.",
+            "en": "Discover this sheltered bay popular for rock pooling at low tide, and access it via the scenic coastal path for a truly breathtaking hike along the Welsh cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Constitution Hill",
+            "hu": "Constitution-hegy",
+            "ro": "Dealul Constitution",
+            "en": "Constitution Hill"
+          },
+          "coords": [
+            -4.083,
+            52.425
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die walisische Küste vom Gipfel und bringen Sie eine leichte Jacke mit, da die Meeresbrise auch an wärmeren Tagen kühl sein kann.",
+            "hu": "Gyönyörködjön a walesi partvidék panorámájában a csúcsról, és hozzon egy könnyű kabátot, mivel a tengeri szellő a melegebb napokon is meglehetősen hűvös lehet.",
+            "ro": "Admirați vederile panoramice ale coastei galeze de pe vârf și aduceți o jachetă ușoară, deoarece briza mării poate fi destul de rece chiar și în zilele calde.",
+            "en": "Take in panoramic views of the Welsh coastline from the summit, and bring a light jacket as the sea breeze can be quite chilly even on warmer sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalbibliothek von Wales",
+            "hu": "Walesi Nemzeti Könyvtár",
+            "ro": "Biblioteca Națională a Țării Galilor",
+            "en": "National Library of Wales"
+          },
+          "coords": [
+            -4.068469,
+            52.414384
+          ],
+          "category": "cultural",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie alte Manuskripte in einer der großen Bibliotheken Großbritanniens und besuchen Sie das hochgelegene Café für hervorragenden Kaffee mit Stadtpanorama.",
+            "hu": "Böngésszen ősi kéziratokat és művészeti alkotásokat Nagy-Britannia egyik nagyszerű könyvtárában, és térjen be a kávézóba egy kiváló kávéra a lenyűgöző panorámával.",
+            "ro": "Răsfoiți manuscrise antice în una dintre marile biblioteci ale Marii Britanii și opriți-vă la cafeneaua situată la înălțime pentru o cafea cu panorame uimitoare.",
+            "en": "Browse ancient manuscripts and art in one of Britain's great libraries, and stop by the elevated cafe for excellent coffee accompanied by stunning town panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Ceredigion Museum",
+            "hu": "Ceredigion Múzeum",
+            "ro": "Muzeul Ceredigion",
+            "en": "Ceredigion Museum"
+          },
+          "coords": [
+            -4.083858,
+            52.416418
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte in einem wunderschön erhaltenen edwardianischen Theater, wo Sie unbedingt die faszinierenden traditionellen walisischen Trachten ansehen sollten.",
+            "hu": "Fedezze fel a helyi történelmet egy gyönyörűen megőrzött Edward-kori színházban, ahol mindenképpen érdemes megnézni a hagyományos walesi népviseletet bemutató kiállítást.",
+            "ro": "Descoperiți istoria locală într-un teatru eduardian frumos conservat, unde ar trebui cu siguranță să examinați expozițiile fascinante de costume tradiționale galeze.",
+            "en": "Discover local history inside a beautifully preserved Edwardian theatre, where you should definitely check out the fascinating traditional Welsh costume exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Aberystwyth",
+            "hu": "Aberystwythi Kastély",
+            "ro": "Castelul Aberystwyth",
+            "en": "Aberystwyth Castle"
+          },
+          "coords": [
+            -4.089504,
+            52.413278
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atmosphärischen Ruinen dieser edwardianischen Festung mit Meerblick und kommen Sie am späten Nachmittag für das beste natürliche Licht auf den Steinen.",
+            "hu": "Fedezze fel az Edward-kori tengerparti erődítmény hangulatos romjait, és látogasson el késő délután, hogy a legjobb természetes fényben csodálhassa meg az ősi köveket.",
+            "ro": "Explorați ruinele atmosferice ale acestei fortărețe eduardiene cu vedere la mare și vizitați spre seară pentru cea mai bună lumină naturală pe pietrele antice.",
+            "en": "Explore the atmospheric ruins of this Edwardian fortress overlooking the sea, and visit at late afternoon for the best natural lighting on the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Tan-y-bwlch",
+            "hu": "Tan-y-bwlch Strand",
+            "ro": "Plaja Tan-y-bwlch",
+            "en": "Traeth Tan-y-bwlch"
+          },
+          "coords": [
+            -4.090894,
+            52.400945
+          ],
+          "category": "recreational",
+          "arrive_at": "16:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Kiesstrand mit Naturschutzgebiet, der ein idealer Ort für Vogelbeobachtungen ist, wenn Sie Ihr Fernglas mitbringen.",
+            "hu": "Meneküljön el a tömeg elől ezen a távoli, természetvédelmi területekkel határolt kavicsos strandon, amely ideális hely a madármegfigyeléshez, ha hoz magával távcsövet.",
+            "ro": "Scăpați de aglomerație pe această plajă cu pietriș susținută de rezervații naturale, un loc ideal pentru observarea păsărilor dacă aduceți binoclul cu dumneavoastră.",
+            "en": "Escape the crowds at this remote shingle beach backed by nature reserves, which is an ideal spot for birdwatching if you bring your own binoculars along with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1. Fahren Sie früh zum Clarach Beach, um die raue Küstenlandschaft in der frischen Morgenluft zu genießen und dem sanften Rauschen der Meereswellen zu lauschen. \n2. Fahren Sie als Nächstes zum Constitution Hill für weite Ausblicke, bevor Sie in der grandiosen Nationalbibliothek in die keltische Geschichte eintauchen. \n3. Nach dem Mittagessen parken Sie im Stadtzentrum, um das Ceredigion Museum und die dramatischen Meeresruinen von Aberystwyth Castle zu entdecken. \n4. Beenden Sie Ihre Autotour am friedlichen Naturschutzgebiet Traeth Tan-y-bwlch und beobachten Sie, wie die Sonne über dem ruhigen Kiesstrand untergeht.",
+        "hu": "1. Vezessen ki korán a Clarach Beach-re, hogy a friss reggeli levegőn élvezze a zord tengerparti tájat, és hallgassa az óceán hullámainak lágy morajlását. \n2. Ezután irány a Constitution Hill a lenyűgöző kilátásért, majd látogasson el a walesi Nemzeti Könyvtárba, hogy elmerüljön a kelta történelemben. \n3. Ebéd után parkoljon le a városközpont közelében, és fedezze fel a Ceredigion Múzeum kiállításait, valamint az aberystwythi kastély tengerparti romjait. \n4. Fejezze be autós túráját a békés Traeth Tan-y-bwlch természetvédelmi területen, figyelve, ahogy a nap a horizont alá bukik a csendes part felett.",
+        "ro": "1. Conduceți devreme la Clarach Beach pentru a vă bucura de peisajul de coastă stâncos în aerul proaspăt al dimineții, ascultând valurile blânde ale oceanului. \n2. Apoi, mergeți la Constitution Hill pentru vederi ample înainte de a naviga spre măreața Bibliotecă Națională pentru a vă scufunda în istoria celtică. \n3. După prânz, parcați aproape de centru pentru a descoperi exponatele de la Muzeul Ceredigion și ruinele dramatice de la malul mării ale Castelului Aberystwyth. \n4. Încheiați turul cu mașina la rezervația naturală liniștită Traeth Tan-y-bwlch, urmărind soarele cum apune peste țărmurile tăcute de pietriș.",
+        "en": "1. Drive out to Clarach Beach early to enjoy the rugged coastal scenery in the fresh morning air, listening to the gentle crash of the ocean waves. \n2. Next, head to Constitution Hill for expansive views before navigating to the grand National Library of Wales to immerse yourself in Celtic history and art. \n3. After lunch, park near the town center to discover the fascinating exhibits at the Ceredigion Museum and the dramatic seaside ruins of Aberystwyth Castle. \n4. Conclude your driving tour at the peaceful Traeth Tan-y-bwlch nature reserve, watching the sun dip below the horizon over the quiet shingle shores."
+      }
+    }
+  }
+}

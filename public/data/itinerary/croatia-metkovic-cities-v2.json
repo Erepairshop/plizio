@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-metkovic-cities-v2",
+  "anchor": {
+    "name": "Metković",
+    "coords": [
+      17.648,
+      43.053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Prirodoslovni muzej",
+            "hu": "Prirodoslovni muzej",
+            "ro": "Prirodoslovni muzej",
+            "en": "Prirodoslovni muzej"
+          },
+          "coords": [
+            17.648316,
+            43.052393
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
+            "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
+            "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetog Ilije",
+            "hu": "crkva svetog Ilije",
+            "ro": "crkva svetog Ilije",
+            "en": "crkva svetog Ilije"
+          },
+          "coords": [
+            17.650421,
+            43.0525
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
+            "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetno kino",
+            "hu": "Ljetno kino",
+            "ro": "Ljetno kino",
+            "en": "Ljetno kino"
+          },
+          "coords": [
+            17.653007,
+            43.053581
+          ],
+          "category": "cultural",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur an diesem stimmungsvollen Freiluft-Veranstaltungsort, den Sie am besten an lauen Sommerabenden besuchen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ezen a hangulatos szabadtéri helyszínen, amelyet a legjobb a meleg nyári estéken meglátogatni, amikor a helyi események zajlanak.",
+            "ro": "Experimentați cultura locală în acest spațiu în aer liber plin de atmosferă, cel mai bine vizitat în serile calde de vară când au loc evenimente locale.",
+            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučki most",
+            "hu": "Lučki most",
+            "ro": "Lučki most",
+            "en": "Lučki most"
+          },
+          "coords": [
+            17.652341,
+            43.054644
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Halten Sie auf dieser ikonischen Brücke über die Neretva inne, um atemberaubende Fotos der Stadt zu schießen, die zur goldenen Stunde besonders schön ist.",
+            "hu": "Álljon meg ezen az ikonikus hídon, amely keresztezi a Neretva folyót, hogy lenyűgöző fotókat készítsen a városról, amely különösen szép az aranyórában.",
+            "ro": "Opriți-vă pe acest pod iconic peste râul Neretva pentru a surprinde fotografii uimitoare ale orașului, deosebit de frumos în timpul orei de aur.",
+            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave in Predolac",
+            "hu": "Cave in Predolac",
+            "ro": "Cave in Predolac",
+            "en": "Cave in Predolac"
+          },
+          "coords": [
+            17.658349,
+            43.046289
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
+            "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der reichen Naturgeschichte im örtlichen Museum. Spazieren Sie gegen Mittag zur historischen Kirche des Heiligen Elias, um die Aussicht zu genießen. Am Nachmittag erleben Sie die kulturelle Atmosphäre im Sommerkino und überqueren die Hafenbrücke. Beenden Sie den Tag mit einer faszinierenden Höhlenerkundung.",
+        "hu": "Kezdje a reggelt a helyi múzeum gazdag természettudományi kiállításával. Délben sétáljon fel a történelmi Szent Illés-templomhoz a panorámáért. Délután élvezze a kulturális hangulatot a nyári moziban, és keljen át az ikonikus kikötői hídon. Zárja a napot a Predolac-barlang lenyűgöző felfedezésével.",
+        "ro": "Începeți dimineața explorând istoria naturală la muzeul local. La prânz, urcați la biserica istorică Sf. Ilie pentru vederi panoramice. După-amiaza, bucurați-vă de atmosfera culturală de la Cinema de vară și traversați emblematicul Pod al Portului. Încheiați-vă ziua cu o explorare fascinantă a Peșterii Predolac.",
+        "en": "Start your morning exploring the rich natural history at the local museum. As midday approaches, stroll up to the historic Church of St. Elijah for panoramic views. In the afternoon, enjoy the cultural vibe at the Summer Cinema and cross the iconic Port Bridge. Conclude your day with a fascinating exploration of the Predolac Cave."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "igraliste vrtica",
+            "hu": "igraliste vrtica",
+            "ro": "igraliste vrtica",
+            "en": "igraliste vrtica"
+          },
+          "coords": [
+            17.644192,
+            43.053205
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem sicheren und farbenfrohen örtlichen Spielplatz Energie abbauen, der auch schattige Sitzbereiche für Eltern bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a biztonságos helyi játszótéren, amely árnyékos ülőhelyeket is kínál a szülők számára.",
+            "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă local sigur și colorat, care oferă și zone cu scaune umbrite pentru relaxarea părinților.",
+            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Prirodoslovni muzej",
+            "hu": "Prirodoslovni muzej",
+            "ro": "Prirodoslovni muzej",
+            "en": "Prirodoslovni muzej"
+          },
+          "coords": [
+            17.648316,
+            43.052393
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
+            "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
+            "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetog Ilije",
+            "hu": "crkva svetog Ilije",
+            "ro": "crkva svetog Ilije",
+            "en": "crkva svetog Ilije"
+          },
+          "coords": [
+            17.650421,
+            43.0525
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
+            "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetno kino",
+            "hu": "Ljetno kino",
+            "ro": "Ljetno kino",
+            "en": "Ljetno kino"
+          },
+          "coords": [
+            17.653007,
+            43.053581
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur an diesem stimmungsvollen Freiluft-Veranstaltungsort, den Sie am besten an lauen Sommerabenden besuchen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ezen a hangulatos szabadtéri helyszínen, amelyet a legjobb a meleg nyári estéken meglátogatni, amikor a helyi események zajlanak.",
+            "ro": "Experimentați cultura locală în acest spațiu în aer liber plin de atmosferă, cel mai bine vizitat în serile calde de vară când au loc evenimente locale.",
+            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place."
+          }
+        },
+        {
+          "name": {
+            "de": "Lučki most",
+            "hu": "Lučki most",
+            "ro": "Lučki most",
+            "en": "Lučki most"
+          },
+          "coords": [
+            17.652341,
+            43.054644
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie auf dieser ikonischen Brücke über die Neretva inne, um atemberaubende Fotos der Stadt zu schießen, die zur goldenen Stunde besonders schön ist.",
+            "hu": "Álljon meg ezen az ikonikus hídon, amely keresztezi a Neretva folyót, hogy lenyűgöző fotókat készítsen a városról, amely különösen szép az aranyórában.",
+            "ro": "Opriți-vă pe acest pod iconic peste râul Neretva pentru a surprinde fotografii uimitoare ale orașului, deosebit de frumos în timpul orei de aur.",
+            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave in Predolac",
+            "hu": "Cave in Predolac",
+            "ro": "Cave in Predolac",
+            "en": "Cave in Predolac"
+          },
+          "coords": [
+            17.658349,
+            43.046289
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
+            "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetog Nikole biskupa",
+            "hu": "crkva svetog Nikole biskupa",
+            "ro": "crkva svetog Nikole biskupa",
+            "en": "crkva svetog Nikole biskupa"
+          },
+          "coords": [
+            17.644289,
+            43.060931
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, dem Heiligen Nikolaus gewidmete Pfarrkirche, um ihre modernen Buntglasfenster zu bewundern, und prüfen Sie vorher den Messeplan.",
+            "hu": "Látogasson el ebbe a Szent Miklósnak szentelt békés plébániatemplomba, hogy megcsodálja modern ólomüveg ablakait, de előtte ellenőrizze a misék rendjét.",
+            "ro": "Vizitați această biserică parohială senină dedicată Sfântului Nicolae pentru a aprecia vitraliile sale moderne, asigurându-vă că verificați programul slujbelor.",
+            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf dem örtlichen Spielplatz, bevor Sie zum Naturkundemuseum fahren. Mittags geht es zur historischen Kirche des Heiligen Elias und zum Sommerkino. Am Nachmittag radeln Sie über die Hafenbrücke, um die Predolac-Höhle zu erkunden. Abends genießen Sie eine friedliche Fahrt zur modernen Kirche des Heiligen Nikolaus.",
+        "hu": "Kezdje a napot a helyi játszótéren, mielőtt a Természettudományi Múzeumba kerekezne. Délben a történelmi Szent Illés-templomhoz és a nyári mozihoz vezet az útja. Délután kerékpározzon át a kikötői hídon a Predolac-barlanghoz. Kora este élvezze a békés tekerést a modern Szent Miklós-templomhoz.",
+        "ro": "Începeți-vă ziua la locul de joacă local înainte de a merge la Muzeul de Istorie Naturală. Prânzul vă duce la biserica istorică Sf. Ilie și la zona animată a cinematografului. După-amiaza, pedalați peste Podul Portului pentru a explora Peștera Predolac. Seara, bucurați-vă de o plimbare liniștită până la biserica modernă Sf. Nicolae.",
+        "en": "Kick off your day at the local playground before heading to the Natural History Museum. Midday takes you to the historic Church of St. Elijah and the lively Summer Cinema area. In the afternoon, cycle across the Port Bridge to explore the Predolac Cave. As evening falls, enjoy a peaceful ride to the modern Church of St. Nicholas."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 12.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "crkva svetog Nikole biskupa",
+            "hu": "crkva svetog Nikole biskupa",
+            "ro": "crkva svetog Nikole biskupa",
+            "en": "crkva svetog Nikole biskupa"
+          },
+          "coords": [
+            17.644289,
+            43.060931
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, dem Heiligen Nikolaus gewidmete Pfarrkirche, um ihre modernen Buntglasfenster zu bewundern, und prüfen Sie vorher den Messeplan.",
+            "hu": "Látogasson el ebbe a Szent Miklósnak szentelt békés plébániatemplomba, hogy megcsodálja modern ólomüveg ablakait, de előtte ellenőrizze a misék rendjét.",
+            "ro": "Vizitați această biserică parohială senină dedicată Sfântului Nicolae pentru a aprecia vitraliile sale moderne, asigurându-vă că verificați programul slujbelor.",
+            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "igraliste vrtica",
+            "hu": "igraliste vrtica",
+            "ro": "igraliste vrtica",
+            "en": "igraliste vrtica"
+          },
+          "coords": [
+            17.644192,
+            43.053205
+          ],
+          "category": "family",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem sicheren und farbenfrohen örtlichen Spielplatz Energie abbauen, der auch schattige Sitzbereiche für Eltern bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a biztonságos helyi játszótéren, amely árnyékos ülőhelyeket is kínál a szülők számára.",
+            "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă local sigur și colorat, care oferă și zone cu scaune umbrite pentru relaxarea părinților.",
+            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Prirodoslovni muzej",
+            "hu": "Prirodoslovni muzej",
+            "ro": "Prirodoslovni muzej",
+            "en": "Prirodoslovni muzej"
+          },
+          "coords": [
+            17.648316,
+            43.052393
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
+            "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
+            "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetog Ilije",
+            "hu": "crkva svetog Ilije",
+            "ro": "crkva svetog Ilije",
+            "en": "crkva svetog Ilije"
+          },
+          "coords": [
+            17.650421,
+            43.0525
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
+            "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave in Predolac",
+            "hu": "Cave in Predolac",
+            "ro": "Cave in Predolac",
+            "en": "Cave in Predolac"
+          },
+          "coords": [
+            17.658349,
+            43.046289
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
+            "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Svitavsko jezero",
+            "hu": "Svitavsko jezero",
+            "ro": "Svitavsko jezero",
+            "en": "Svitavsko jezero"
+          },
+          "coords": [
+            17.773338,
+            43.034451
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Nachmittag an diesem malerischen natürlichen See, ideal für ein Picknick, aber bringen Sie eigene Vorräte mit, da es kaum Einrichtungen gibt.",
+            "hu": "Töltsön el egy békés délutánt e festői természetes tó mellett, amely tökéletes piknikezéshez és madármegfigyeléshez, de hozzon magával enni- és innivalót.",
+            "ro": "Bucurați-vă de o după-amiază liniștită la acest lac natural pitoresc, perfect pentru un picnic, dar nu uitați să aduceți propriile provizii.",
+            "en": "Enjoy a tranquil afternoon by this picturesque natural lake, perfect for a picnic and birdwatching, but remember to bring your own supplies as facilities are sparse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem Besuch der ruhigen Kirche St. Nikolaus und des familienfreundlichen Spielplatzes. Mittags tauchen Sie im Naturkundemuseum in die lokale Ökologie ein und besuchen die Kirche des Heiligen Elias. Am Nachmittag steht die faszinierende Predolac-Höhle an. Beenden Sie Ihren Roadtrip mit dem Sonnenuntergang am Svitavsko-See.",
+        "hu": "Kezdje az autós túrát a békés Szent Miklós-templom és a családbarát játszótér meglátogatásával. Délben merüljön el a helyi ökológiában a Természettudományi Múzeumban, majd nézze meg a történelmi Szent Illés-templomot. Délután a lenyűgöző Predolac-barlang következik. Fejezze be az utat a Svitavsko-tó naplementéjének élvezetével.",
+        "ro": "Începeți-vă plimbarea cu o vizită la biserica senină Sf. Nicolae și la locul de joacă pentru familii. La prânz, aprofundați ecologia locală la Muzeul de Istorie Naturală și vizitați biserica istorică Sf. Ilie. După-amiaza include o oprire la fascinanta Peșteră Predolac. Încheiați-vă excursia bucurându-vă de apusul soarelui la Lacul Svitavsko.",
+        "en": "Begin your scenic drive with a visit to the serene Church of St. Nicholas and the family-friendly playground. At midday, dive into local ecology at the Natural History Museum and visit the historic Church of St. Elijah. Your afternoon features a stop at the fascinating Predolac Cave. Finish your road trip enjoying the sunset at Svitavsko Lake."
+      }
+    }
+  }
+}

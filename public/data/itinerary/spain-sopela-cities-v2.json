@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-sopela-cities-v2",
+  "anchor": {
+    "name": "Sopela",
+    "coords": [
+      -2.98383,
+      43.38027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "San Pedro",
+            "hu": "San Pedro",
+            "ro": "San Pedro",
+            "en": "San Pedro"
+          },
+          "coords": [
+            -2.983485,
+            43.38023
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche San Pedro, deren Renaissance-Architektur fasziniert, und genießen Sie die ruhige Atmosphäre bei einem frühen Besuch am Morgen.",
+            "hu": "Látogassa meg a San Pedro templomot, amelynek reneszánsz építészete lenyűgöző, és élvezze a csendes hangulatot egy korai séta során a történelmi falak között.",
+            "ro": "Vizitați biserica San Pedro, a cărei arhitectură renascentistă fascinează, și bucurați-vă de atmosfera liniștită într-o plimbare matinală printre zidurile istorice.",
+            "en": "Visit the San Pedro church, whose Renaissance architecture is truly fascinating, and enjoy the tranquil atmosphere during an early morning stroll through its historic walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua Angus Young AC/DC",
+            "hu": "Estatua Angus Young AC/DC",
+            "ro": "Estatua Angus Young AC/DC",
+            "en": "Estatua Angus Young AC/DC"
+          },
+          "coords": [
+            -2.979925,
+            43.382989
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit der Bronzestatue von Angus Young, die den Rock'n'Roll-Geist ehrt, und besuchen Sie diesen kuriosen Ort am besten bei gutem Tageslicht.",
+            "hu": "Készítsen egy fotót az Angus Young bronzszoborral, amely a rock and roll szellemét hirdeti, és érdemes nappali fénynél felkeresni ezt a különleges emlékhelyet.",
+            "ro": "Faceți o fotografie cu statuia de bronz a lui Angus Young, care onorează spiritul rock and roll, și vizitați acest loc inedit mai ales în lumina zilei.",
+            "en": "Snap a photo with the bronze statue of Angus Young honoring the rock and roll spirit, and make sure to visit this quirky memorial during good daylight for the best shots."
+          }
+        },
+        {
+          "name": {
+            "de": "El Sitio",
+            "hu": "El Sitio",
+            "ro": "El Sitio",
+            "en": "El Sitio"
+          },
+          "coords": [
+            -2.990444,
+            43.391524
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Küstenlandschaft am El Sitio, einem perfekten Ort zum Entspannen, und bringen Sie bequeme Schuhe für die malerischen Klippenpfade mit.",
+            "hu": "Élvezze a lenyűgöző tengerparti tájat El Sitio környékén, amely tökéletes a pihenésre, és hozzon magával kényelmes cipőt a festői sziklaösvények bejárásához.",
+            "ro": "Bucurați-vă de peisajul de coastă uimitor de la El Sitio, perfect pentru relaxare, și aduceți încălțăminte confortabilă pentru traseele pitorești de pe stânci.",
+            "en": "Enjoy the stunning coastal scenery at El Sitio, a perfect spot for unwinding, and be sure to bring comfortable shoes to explore the picturesque cliffside trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Atxabiribil",
+            "hu": "Atxabiribil",
+            "ro": "Atxabiribil",
+            "en": "Atxabiribil"
+          },
+          "coords": [
+            -2.993182,
+            43.39036
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Atxabiribil, der bei Surfern sehr beliebt ist, und sichern Sie sich frühzeitig einen guten Platz in der warmen Nachmittagssonne.",
+            "hu": "Pihenjen Atxabiribil aranyhomokos strandján, amely a szörfösök körében is népszerű, és érkezzen korán, hogy biztosítson magának egy jó helyet a délutáni napsütésben.",
+            "ro": "Relaxați-vă pe plaja cu nisip auriu din Atxabiribil, foarte populară printre surferi, și asigurați-vă că ajungeți devreme pentru a prinde un loc bun la soarele după-amiezii.",
+            "en": "Relax on the golden sands of Atxabiribil beach, highly popular among local surfers, and make sure to claim a good spot early to soak in the warm afternoon sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Arrietara",
+            "hu": "Arrietara",
+            "ro": "Arrietara",
+            "en": "Arrietara"
+          },
+          "coords": [
+            -2.99696,
+            43.388137
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die spektakulären Wellen am Arrietara Strand, der als wahres Surferparadies gilt, und nutzen Sie die fantastischen Fotomotive bei Sonnenuntergang.",
+            "hu": "Figyelje meg a látványos hullámokat az Arrietara strandon, amely igazi szörfparadicsom, és használja ki a fantasztikus fotózási lehetőségeket a lenyugvó nap fényében.",
+            "ro": "Admirați valurile spectaculoase pe plaja Arrietara, un adevărat paradis al surferilor, și profitați de oportunitățile fantastice de fotografiere la apusul soarelui.",
+            "en": "Watch the spectacular waves roll in at Arrietara beach, renowned as a surfing paradise, and take advantage of the fantastic photography opportunities as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem ruhigen Spaziergang durch Sopelas Zentrum und der Bewunderung lokaler Architektur. Mittags zieht es uns an die majestätische Küste, wo salzige Luft und Klippenpanoramen warten. Der Nachmittag steht ganz im Zeichen der Strände und der warmen Sonne am Atxabiribil. Der Abend endet mit einem entspannten Sonnenuntergang an den tosenden Wellen von Arrietara.",
+        "hu": "A reggel egy csendes sétával indul Sopela hangulatos központjában, megcsodálva a helyi építészetet. Délben a fenséges tengerpart felé vesszük az irányt, élvezve a sós levegőt és a sziklás panorámát. A délután a strandokról szól, fürdőzve a napfényben Atxabiribil partjainál. Az este egy pihentető naplemente-nézéssel zárul Arrietara hullámai felett.",
+        "ro": "Dimineața începe cu o plimbare liniștită prin centrul pitoresc al orașului Sopela, admirând arhitectura locală. La amiază ne îndreptăm spre coasta maiestuoasă, bucurându-ne de aerul sărat și de priveliștile stâncilor. După-amiaza este dedicată plajelor, absorbind soarele la Atxabiribil. Seara se încheie cu un apus de soare relaxant peste valurile învolburate de la Arrietara.",
+        "en": "Morning begins with a quiet stroll through Sopela’s charming center, admiring local architecture and a quirky rock monument. Midday shifts towards the majestic coastline, embracing the salty air and scenic cliff views. Afternoon is all about the beaches, soaking in the sun at Atxabiribil. Evening concludes with a relaxing sunset watch over the crashing waves at Arrietara."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Memorial del Cinturòn de Hierro",
+            "hu": "Museo Memorial del Cinturòn de Hierro",
+            "ro": "Museo Memorial del Cinturòn de Hierro",
+            "en": "Museo Memorial del Cinturòn de Hierro"
+          },
+          "coords": [
+            -2.995868,
+            43.364285
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Memorial-Museum tiefgreifende Einblicke in den Spanischen Bürgerkrieg und nehmen Sie sich ausreichend Zeit, um die detaillierten Exponate zu studieren.",
+            "hu": "Fedezze fel a polgárháború történelmi mélységeit az Emlékmúzeumban, és szánjon elegendő időt a részletgazdag, felkavaró kiállítási tárgyak alapos tanulmányozására.",
+            "ro": "Descoperiți informații profunde despre Războiul Civil Spaniol la Muzeul Memorial și alocați-vă suficient timp pentru a studia cu atenție exponatele detaliate.",
+            "en": "Discover profound insights into the Spanish Civil War at the Memorial Museum, and allow yourself plenty of time to fully absorb the detailed historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Túmulo Saierri",
+            "hu": "Túmulo Saierri",
+            "ro": "Túmulo Saierri",
+            "en": "Túmulo Saierri"
+          },
+          "coords": [
+            -2.976496,
+            43.366462
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken Grabhügel Túmulo Saierri, ein faszinierendes prähistorisches Relikt, und kombinieren Sie diesen Besuch mit einer leichten Wanderung durch die Natur.",
+            "hu": "Fedezze fel az ősi Túmulo Saierri sírhalmot, amely lenyűgöző történelem előtti emlék, és kösse össze ezt a látogatást egy kellemes, könnyű túrával a környező természetben.",
+            "ro": "Explorați vechiul tumul Saierri, o fascinantă relicvă preistorică, și combinați această vizită cu o drumeție ușoară și relaxantă prin peisajele naturale înconjurătoare.",
+            "en": "Explore the ancient Túmulo Saierri burial mound, a fascinating prehistoric relic, and combine this visit with a gentle hike through the surrounding natural landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pedro",
+            "hu": "San Pedro",
+            "ro": "San Pedro",
+            "en": "San Pedro"
+          },
+          "coords": [
+            -2.983485,
+            43.38023
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche San Pedro, deren Renaissance-Architektur fasziniert, und genießen Sie die ruhige Atmosphäre bei einem frühen Besuch am Morgen.",
+            "hu": "Látogassa meg a San Pedro templomot, amelynek reneszánsz építészete lenyűgöző, és élvezze a csendes hangulatot egy korai séta során a történelmi falak között.",
+            "ro": "Vizitați biserica San Pedro, a cărei arhitectură renascentistă fascinează, și bucurați-vă de atmosfera liniștită într-o plimbare matinală printre zidurile istorice.",
+            "en": "Visit the San Pedro church, whose Renaissance architecture is truly fascinating, and enjoy the tranquil atmosphere during an early morning stroll through its historic walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker",
+            "hu": "Bunker",
+            "ro": "Bunker",
+            "en": "Bunker"
+          },
+          "coords": [
+            -3.008402,
+            43.38062
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Bunker als stummen Zeugen vergangener Konflikte und nutzen Sie die strategische Lage für einen weiten Blick über die raue Küstenlinie.",
+            "hu": "Tekintse meg ezt a történelmi bunkert, a múltbeli konfliktusok néma tanúját, és élvezze a stratégiai elhelyezkedésből nyíló széles, lenyűgöző kilátást a zord partvonalra.",
+            "ro": "Vizitați acest buncăr istoric ca martor tăcut al conflictelor trecute și profitați de locația sa strategică pentru o vedere panoramică asupra coastei accidentate.",
+            "en": "Visit this historical bunker acting as a silent witness to past conflicts, and take advantage of its strategic location for a sweeping view over the rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Barinatxe",
+            "hu": "Barinatxe",
+            "ro": "Barinatxe",
+            "en": "Barinatxe"
+          },
+          "coords": [
+            -3.006027,
+            43.383533
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Natur am FKK-freundlichen Strand Barinatxe, der für sein wildes Ambiente bekannt ist, und wagen Sie einen Gleitschirmflug von den nahen Klippen.",
+            "hu": "Élvezze a hatalmas természetet a nudistabarát Barinatxe strandon, amely vad hangulatáról ismert, és próbálja ki a siklóernyőzést a közeli, meredek sziklafalakról indulva.",
+            "ro": "Bucurați-vă de natura vastă pe plaja Barinatxe, cunoscută pentru atmosfera sa sălbatică, și îndrăzniți să încercați un zbor cu parapanta de pe stâncile din apropiere.",
+            "en": "Enjoy the expansive nature at the naturist-friendly Barinatxe beach, known for its wild vibe, and dare to try paragliding from the steep cliffs situated just nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Arrietara",
+            "hu": "Arrietara",
+            "ro": "Arrietara",
+            "en": "Arrietara"
+          },
+          "coords": [
+            -2.99696,
+            43.388137
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie die spektakulären Wellen am Arrietara Strand, der als wahres Surferparadies gilt, und nutzen Sie die fantastischen Fotomotive bei Sonnenuntergang.",
+            "hu": "Figyelje meg a látványos hullámokat az Arrietara strandon, amely igazi szörfparadicsom, és használja ki a fantasztikus fotózási lehetőségeket a lenyugvó nap fényében.",
+            "ro": "Admirați valurile spectaculoase pe plaja Arrietara, un adevărat paradis al surferilor, și profitați de oportunitățile fantastice de fotografiere la apusul soarelui.",
+            "en": "Watch the spectacular waves roll in at Arrietara beach, renowned as a surfing paradise, and take advantage of the fantastic photography opportunities as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen enthüllt tiefgründige Geschichte im Memorial-Museum und antike Grabhügel im grünen Umland. Mittags kehren Sie ins lebhafte Stadtzentrum zurück, um die Kirche San Pedro zu besichtigen. Der Nachmittag geht in eine Küstenerkundung über, bei der versteckte Bunker entdeckt werden. Der Abend klingt an den Stränden Barinatxe und Arrietara mit einer frischen Brise aus.",
+        "hu": "A reggel a Történelmi Múzeumban és az ősi sírhalmoknál fedi fel a múltat a zöldellő külvárosban. Délben visszatérünk a nyüzsgő városközpontba a San Pedro templomhoz. A délután a partvidék felfedezésébe csap át, rejtett háborús bunkereket kutatva a sziklák mentén. Az este a Barinatxe és Arrietara strandokon ér véget egy frissítő óceáni szellő kíséretében.",
+        "ro": "Dimineața descoperă istoria profundă la Muzeul Memorial și tumulii antici de la periferia verde. La amiază vă întoarceți în centrul vibrant al orașului pentru a vedea biserica istorică San Pedro. După-amiaza face tranziția către explorarea coastei, descoperind buncăre ascunse pe stânci. Seara se estompează la Barinatxe și Arrietara cu o briză răcoroasă a oceanului.",
+        "en": "The morning uncovers deep history at the Memorial Museum and ancient burial mounds in the lush outskirts. Midday brings you back to the vibrant town center to see the historic San Pedro church. Afternoon transitions into coastal exploration, discovering hidden wartime bunkers along the cliffs. Evening fades away at Barinatxe and Arrietara with a refreshing ocean breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Andra Maria",
+            "hu": "Andra Maria",
+            "ro": "Andra Maria",
+            "en": "Andra Maria"
+          },
+          "coords": [
+            -2.961548,
+            43.376552
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz der Andra Maria Kirche, ein wunderschönes Zeugnis lokaler Baukunst, und respektieren Sie die Stille während der Gottesdienstzeiten.",
+            "hu": "Csodálja meg az Andra Maria templom egyszerű eleganciáját, amely a helyi építészet szép példája, és mindenképpen tartsa tiszteletben a csendet a szertartások ideje alatt.",
+            "ro": "Admirați eleganța simplă a bisericii Andra Maria, o mărturie frumoasă a arhitecturii locale, și respectați întotdeauna liniștea în timpul orelor de slujbă religioasă.",
+            "en": "Admire the simple elegance of the Andra Maria church, a beautiful testament to local architecture, and always respect the profound silence during active service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Aranbaltza III",
+            "hu": "Aranbaltza III",
+            "ro": "Aranbaltza III",
+            "en": "Aranbaltza III"
+          },
+          "coords": [
+            -2.968148,
+            43.399175
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bedeutende archäologische Stätte Aranbaltza III, die Neanderthaler-Spuren birgt, und lesen Sie sich vorab ein, um die historischen Schichten zu verstehen.",
+            "hu": "Fedezze fel az Aranbaltza III régészeti lelőhelyet, amely neandervölgyi nyomokat rejt, és olvasson utána előre, hogy jobban megértse a történelem különböző rétegeit.",
+            "ro": "Descoperiți importantul sit arheologic Aranbaltza III, care ascunde urme de neanderthalieni, și informați-vă în prealabil pentru a înțelege straturile sale istorice.",
+            "en": "Discover the crucial archaeological site of Aranbaltza III revealing Neanderthal traces, and read up beforehand to fully understand its deeply layered historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Atxabiribil",
+            "hu": "Atxabiribil",
+            "ro": "Atxabiribil",
+            "en": "Atxabiribil"
+          },
+          "coords": [
+            -2.993182,
+            43.39036
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Atxabiribil, der bei Surfern sehr beliebt ist, und sichern Sie sich frühzeitig einen guten Platz in der warmen Nachmittagssonne.",
+            "hu": "Pihenjen Atxabiribil aranyhomokos strandján, amely a szörfösök körében is népszerű, és érkezzen korán, hogy biztosítson magának egy jó helyet a délutáni napsütésben.",
+            "ro": "Relaxați-vă pe plaja cu nisip auriu din Atxabiribil, foarte populară printre surferi, și asigurați-vă că ajungeți devreme pentru a prinde un loc bun la soarele după-amiezii.",
+            "en": "Relax on the golden sands of Atxabiribil beach, highly popular among local surfers, and make sure to claim a good spot early to soak in the warm afternoon sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pedro",
+            "hu": "San Pedro",
+            "ro": "San Pedro",
+            "en": "San Pedro"
+          },
+          "coords": [
+            -2.983485,
+            43.38023
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche San Pedro, deren Renaissance-Architektur fasziniert, und genießen Sie die ruhige Atmosphäre bei einem frühen Besuch am Morgen.",
+            "hu": "Látogassa meg a San Pedro templomot, amelynek reneszánsz építészete lenyűgöző, és élvezze a csendes hangulatot egy korai séta során a történelmi falak között.",
+            "ro": "Vizitați biserica San Pedro, a cărei arhitectură renascentistă fascinează, și bucurați-vă de atmosfera liniștită într-o plimbare matinală printre zidurile istorice.",
+            "en": "Visit the San Pedro church, whose Renaissance architecture is truly fascinating, and enjoy the tranquil atmosphere during an early morning stroll through its historic walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen Saierrikolanda I",
+            "hu": "Dolmen Saierrikolanda I",
+            "ro": "Dolmen Saierrikolanda I",
+            "en": "Dolmen Saierrikolanda I"
+          },
+          "coords": [
+            -2.967802,
+            43.36303
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Dolmen Saierrikolanda I, ein beeindruckendes Megalithgrab inmitten der Natur, und bringen Sie eine Karte mit, da die versteckten Pfade oft unmarkiert sind.",
+            "hu": "Látogasson el a Dolmen Saierrikolanda I megalitikus sírjához a természet lágy ölén, és vigyen magával térképet, mivel a rejtett erdei ösvények gyakran nincsenek jelölve.",
+            "ro": "Vizitați Dolmen Saierrikolanda I, un mormânt megalitic impresionant în mijlocul naturii, și aduceți o hartă deoarece cărările ascunse sunt deseori complet nemarcate.",
+            "en": "Visit the Dolmen Saierrikolanda I, an impressive megalithic tomb deep in nature, and bring a reliable map since these hidden forest paths are frequently entirely unmarked."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Memorial del Cinturòn de Hierro",
+            "hu": "Museo Memorial del Cinturòn de Hierro",
+            "ro": "Museo Memorial del Cinturòn de Hierro",
+            "en": "Museo Memorial del Cinturòn de Hierro"
+          },
+          "coords": [
+            -2.995868,
+            43.364285
+          ],
+          "category": "museum",
+          "arrive_at": "14:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Memorial-Museum tiefgreifende Einblicke in den Spanischen Bürgerkrieg und nehmen Sie sich ausreichend Zeit, um die detaillierten Exponate zu studieren.",
+            "hu": "Fedezze fel a polgárháború történelmi mélységeit az Emlékmúzeumban, és szánjon elegendő időt a részletgazdag, felkavaró kiállítási tárgyak alapos tanulmányozására.",
+            "ro": "Descoperiți informații profunde despre Războiul Civil Spaniol la Muzeul Memorial și alocați-vă suficient timp pentru a studia cu atenție exponatele detaliate.",
+            "en": "Discover profound insights into the Spanish Civil War at the Memorial Museum, and allow yourself plenty of time to fully absorb the detailed historical exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine malerische Morgenfahrt führt zur ruhigen Kirche Andra Maria und den faszinierenden archäologischen Ausgrabungen. Mittags bietet sich ein erfrischender Stopp an der Küste an, bevor es ins Zentrum geht. Der Nachmittag taucht bei den antiken Dolmen tief in prähistorische Geheimnisse ein. Der Abend endet besinnlich mit einem Besuch im Museum des Spanischen Bürgerkriegs.",
+        "hu": "Egy festői reggeli autózás elvisz a békés Andra Maria templomhoz és a lenyűgöző régészeti ásatásokhoz. A dél egy frissítő tengerparti megállót kínál, mielőtt visszatérnénk a történelmi városközpontba. A délután történelem előtti rejtélyekbe nyúlik az ősi dolmeneknél. Az este a Polgárháborús Emlékmúzeum elgondolkodtató látogatásával zárul a nap végén.",
+        "ro": "O plimbare pitorească de dimineață vă duce la liniștita biserică Andra Maria și la săpăturile arheologice fascinante. Amiaza oferă o oprire revigorantă pe coastă înainte de a reveni în centrul istoric. După-amiaza pătrunde în misterele preistorice la dolmenele antice înconjurate de pădure. Seara se încheie cu o vizită reflexivă la Muzeul Memorial al Războiului Civil.",
+        "en": "A scenic morning drive takes you to the serene Andra Maria church and the fascinating archaeological digs of Aranbaltza. Midday offers a refreshing coastal stop before returning to the historic town center. Afternoon delves into prehistoric mysteries at the ancient dolmens surrounded by deep forest. Evening wraps up with a reflective visit to the Civil War Memorial Museum."
+      }
+    }
+  }
+}

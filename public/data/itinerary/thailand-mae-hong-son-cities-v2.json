@@ -1,0 +1,658 @@
+{
+  "city_id": "thailand-mae-hong-son-cities-v2",
+  "anchor": {
+    "name": "Mae Hong Son",
+    "coords": [
+      97.97,
+      19.301111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 3.45,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Hua Wiang",
+            "hu": "Wat Hua Wiang",
+            "ro": "Wat Hua Wiang",
+            "en": "Wat Hua Wiang"
+          },
+          "coords": [
+            97.965869,
+            19.302587
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Holzarchitektur dieses zentralen Tempels, der einen verehrten Bronze-Buddha beherbergt, und denken Sie an angemessene Kleidung.",
+            "hu": "Csodáld meg a központi templom gyönyörű faépítészetét és a tisztelt bronz Buddhát, de ne feledkezz meg a visszafogott öltözködésről a belépés előtt.",
+            "ro": "Admirați arhitectura superbă din lemn a acestui templu central, care adăpostește un Buddha de bronz venerat, și asigurați-vă că sunteți îmbrăcați decent.",
+            "en": "Admire the beautiful wooden architecture of this central temple, which houses a revered bronze Buddha, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "San Jao Chang Muang Ma Schrein",
+            "hu": "San Jao Chang Muang Ma szentély",
+            "ro": "Altarul San Jao Chang Muang Ma",
+            "en": "San Jao Chang Muang Ma shrine"
+          },
+          "coords": [
+            97.964506,
+            19.305984
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen animistisch-buddhistischen Schrein der Schutzgeister und achten Sie auf die faszinierenden Holzelefanten in der Umgebung.",
+            "hu": "Fedezd fel a városvédő szellemeknek szentelt animista-buddhista szentélyt, és figyeld meg az itt elszórtan található lenyűgöző fa elefántfaragásokat.",
+            "ro": "Explorați acest altar animist-budist dedicat spiritelor protectoare ale orașului și căutați sculpturile fascinante de elefanți din lemn împrăștiate în jur.",
+            "en": "Explore this unique animist-Buddhist shrine dedicated to city guardian spirits, and look out for the fascinating wooden elephant carvings scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chong Kham",
+            "hu": "Wat Chong Kham",
+            "ro": "Wat Chong Kham",
+            "en": "Wat Chong Kham"
+          },
+          "coords": [
+            97.967967,
+            19.29795
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Dieser atemberaubende Tempelkomplex spiegelt sich magisch im Wasser des Sees wider, bringen Sie also ein Weitwinkelobjektiv für das perfekte Foto mit.",
+            "hu": "Ez a lenyűgöző tóparti templomkomplexum varázslatosan tükröződik a vízben, ezért hozz magaddal nagylátószögű objektívet a tökéletes fotókhoz.",
+            "ro": "Acest complex de temple de pe malul lacului se reflectă magic în apă, așa că aduceți un obiectiv cu unghi larg pentru a surprinde turlele aurii.",
+            "en": "This stunning lakeside temple complex looks magical reflecting in the water, so bring a wide-angle lens to capture the golden spires perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Praya Singhanat Raja Denkmal",
+            "hu": "Praya Singhanat Raja emlékmű",
+            "ro": "Monumentul Praya Singhanat Raja",
+            "en": "Praya Singhanat Raja monument"
+          },
+          "coords": [
+            97.964072,
+            19.296155
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erweisen Sie der Statue des ersten Herrschers der Stadt, die das historische Zentrum markiert, Ihren Respekt, aber treten Sie wegen des Verkehrs etwas zurück.",
+            "hu": "Ródd le tiszteleted a város első uralkodójának szobra előtt a történelmi központban, de állj kissé hátrébb a forgalmas körforgalom elkerülése érdekében.",
+            "ro": "Aduceți un omagiu statuii primului conducător al orașului, dar stați puțin mai în spate pentru a evita aglomerația din sensul giratoriu.",
+            "en": "Pay respects at the statue of the city's first ruler, which marks the true historical center, but stand slightly back to avoid the busy traffic circle."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Kam Ko",
+            "hu": "Wat Kam Ko",
+            "ro": "Wat Kam Ko",
+            "en": "Wat Kam Ko"
+          },
+          "coords": [
+            97.963925,
+            19.297543
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bekannt für den überdachten Gehweg und das burmesische Dach, ist dieser Tempel ideal für einen ruhigen Moment abseits der Touristenpfade.",
+            "hu": "A fedett sétányáról és burmai stílusú tetejéről ismert templom ideális egy csendes, meditációs pillanatra, távol a fő turistautaktól.",
+            "ro": "Cunoscut pentru aleea acoperită și acoperișul în stil birmanez, acest templu pașnic este ideal pentru un moment liniștit departe de traseul turistic.",
+            "en": "Known for its covered walkway and Burmese-style roof, this peaceful temple is ideal for a quiet moment of meditation away from the main tourist trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Non Tempel",
+            "hu": "Wat Phra Non templom",
+            "ro": "Templul Wat Phra Non",
+            "en": "Wat Phra Non temple"
+          },
+          "coords": [
+            97.963103,
+            19.298598
+          ],
+          "category": "landmark",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Im Inneren finden Sie einen 12 Meter langen liegenden Buddha im birmanischen Stil, gehen Sie jedoch vorsichtig auf den knarrenden alten Holzböden.",
+            "hu": "Bent egy hatalmas, 12 méteres burmai stílusú fekvő Buddhát találsz, de lépkedj óvatosan a nyikorgó, antik fapadlókon.",
+            "ro": "Înăuntru veți găsi un Buddha înclinat masiv de 12 metri în stil birmanez, deși ar trebui să pășiți ușor pe podelele vechi din lemn care scârțâie.",
+            "en": "Inside you'll find a massive 12-meter reclining Buddha built in the Burmese style, though you should step lightly on the creaky antique wooden floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Kong Mu",
+            "hu": "Wat Phra That Doi Kong Mu",
+            "ro": "Wat Phra That Doi Kong Mu",
+            "en": "Wat Phra That Doi Kong Mu"
+          },
+          "coords": [
+            97.960325,
+            19.299982
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser Hügeltempel bietet die spektakulärste Aussicht über Mae Hong Son und ist der perfekte Ort, um sich nach dem steilen Aufstieg abzukühlen.",
+            "hu": "Ez a hegytetőn álló templom kínálja a leglátványosabb kilátást a városra, és tökéletes hely a hűsölésre a meredek kapaszkodó után.",
+            "ro": "Acest templu de pe deal oferă cea mai spectaculoasă vedere asupra orașului și este locul perfect pentru a vă răcori în briză după o urcare abruptă.",
+            "en": "This hilltop temple offers the most spectacular view over Mae Hong Son, making it the perfect spot to cool down in the breeze after the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Der letzte Sonnenuntergang Thailands",
+            "hu": "Thaiföld utolsó naplementéje",
+            "ro": "Ultimul apus de soare al Thailandei",
+            "en": "Last Sunset of Thailand"
+          },
+          "coords": [
+            97.958925,
+            19.300002
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Ausblick über die Bergkämme an der Grenze zu Myanmar und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Légy tanúja egy lélegzetelállító naplementének a mianmari határ hegygerincei felett, de érkezz korán, hogy jó fotós helyet találj.",
+            "ro": "Fiți martori la o panoramă uluitoare peste crestele muntoase de la granița cu Myanmar, dar ajungeți puțin mai devreme pentru o priveliște bună.",
+            "en": "Witness a breathtaking scenic view across the mountain ridges bordering Myanmar, but arrive a bit early to claim a good spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night Market"
+          },
+          "coords": [
+            97.967085,
+            19.300071
+          ],
+          "category": "cultural",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Probieren Sie unglaubliches Streetfood rund um den wunderschön beleuchteten See und denken Sie daran, kleines Bargeld mitzunehmen.",
+            "hu": "Kóstolj meg hihetetlen északi thai utcai ételeket a gyönyörűen kivilágított tó körül, és vigyél magaddal aprópénzt a könnyebb fizetésért.",
+            "ro": "Gustați preparate incredibile de tip street food în jurul lacului frumos iluminat și nu uitați să purtați bani mărunți pentru tranzacții.",
+            "en": "Sample incredible Shan and Northern Thai street food around the beautifully illuminated lake, and remember to carry small cash for easier transactions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im zentralen Bezirk und besuchen Sie das historische Wat Hua Wiang sowie lokale Schreine, bevor die Hitze des Tages einsetzt. Erkunden Sie die faszinierende Architektur und die reiche lokale Kultur.\n\nMittags schlendern Sie um den berühmten See am Wat Chong Kham und genießen die ruhige Atmosphäre. Machen Sie kurze Stopps an nahegelegenen Monumenten und ruhigen Tempeln.\n\nDer Nachmittag bringt einen lohnenden, wenn auch steilen Aufstieg zum Doi Kong Mu. Die sanfte Brise auf dem Hügel und der spektakuläre Talblick belohnen jede Anstrengung und bieten tolle Fotomotive.\n\nBeenden Sie den Tag auf dem lebhaften Nachtmarkt. Probieren Sie lokale Delikatessen direkt am Ufer des magisch beleuchteten Sees und lassen Sie den entspannten Abend gemütlich ausklingen.",
+        "hu": "Kezdd a reggelt a központi negyedben, fedezd fel a történelmi Wat Hua Wiangot és a helyi szentélyeket, mielőtt túl meleg lesz. Ismerd meg a város lenyűgöző faépítészetét és nyugodt vallási életét.\n\nDélben sétálj a Wat Chong Kham tó körül, és élvezd a békés templomi hangulatot. Járd be a közeli burmai stílusú épületeket és emlékműveket, miközben magadba szívod a hely szellemét.\n\nDélután egy kellemes, de kihívást jelentő séta vezet a Doi Kong Mu hegyre. A fáradságért a hűsítő hegyi szellő és a lenyűgöző völgyi panoráma kárpótol a naplemente fényében.\n\nZárd a napot a nyüzsgő éjszakai piacon, ahol ízletes helyi falatokat kóstolhatsz. Sétálj a kivilágított tóparton, és élvezd az észak-thaiföldi gasztronómia különlegességeit.",
+        "ro": "Începeți dimineața explorând cartierul central, vizitând istoricul Wat Hua Wiang și altarele locale înainte să se încălzească. Admirați arhitectura remarcabilă și moștenirea spirituală a orașului.\n\nLa prânz, plimbați-vă în jurul lacului Wat Chong Kham și bucurați-vă de atmosfera pașnică. Vizitați monumentele istorice și templele liniștite din apropiere, perfecte pentru meditație.\n\nDupă-amiaza aduce o urcare plină de satisfacții spre Doi Kong Mu. Priveliștea panoramică asupra văii și briza montană proaspătă transformă acest loc într-un refugiu perfect pentru fotografii.\n\nÎncheiați ziua la piața de noapte animată pentru gustări locale delicioase. Bucurați-vă de atmosfera vibrantă de pe malul lacului și gustați din specialitățile tradiționale thailandeze.",
+        "en": "Start your morning exploring the central district, visiting the historic Wat Hua Wiang and local shrines before it gets too hot. Take in the beautiful wooden architecture and the deep spiritual roots.\n\nBy midday, wander around the iconic Wat Chong Kham lake area and soak in the tranquil atmosphere. Explore the nearby Burmese-style temples and monuments that define the city's rich history.\n\nThe afternoon brings a gentle but rewarding climb up to Doi Kong Mu for panoramic valley views. The cool breeze at the hilltop offers a refreshing break and excellent photo opportunities.\n\nConclude your day at the lively Night Market for tasty local snacks. Enjoy the vibrant street food scene by the beautifully illuminated lake to wrap up an unforgettable exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 6.65,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Don Chedi Tempel",
+            "hu": "Wat Don Chedi templom",
+            "ro": "Templul Wat Don Chedi",
+            "en": "Wat Don Chedi temple"
+          },
+          "coords": [
+            97.96129,
+            19.3068
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strahlend weiße Stupa, die stolz in diesem ruhigen lokalen Tempel steht, der am besten früh am Morgen besucht wird.",
+            "hu": "Csodáld meg a büszkén álló, ragyogó fehér sztúpát ebben a csendes helyi templomban, amelyet a legjobb kora reggel, lágy fényekben látogatni.",
+            "ro": "Admirați stupa albă strălucitoare care stă mândră în acest templu local liniștit, cel mai bine de vizitat dimineața devreme pentru o lumină fină.",
+            "en": "Admire the gleaming white stupa standing proudly in this quiet local temple, which is best visited early in the morning for the softest lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Hua Wiang",
+            "hu": "Wat Hua Wiang",
+            "ro": "Wat Hua Wiang",
+            "en": "Wat Hua Wiang"
+          },
+          "coords": [
+            97.965869,
+            19.302587
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Holzarchitektur dieses zentralen Tempels, der einen verehrten Bronze-Buddha beherbergt, und denken Sie an angemessene Kleidung.",
+            "hu": "Csodáld meg a központi templom gyönyörű faépítészetét és a tisztelt bronz Buddhát, de ne feledkezz meg a visszafogott öltözködésről a belépés előtt.",
+            "ro": "Admirați arhitectura superbă din lemn a acestui templu central, care adăpostește un Buddha de bronz venerat, și asigurați-vă că sunteți îmbrăcați decent.",
+            "en": "Admire the beautiful wooden architecture of this central temple, which houses a revered bronze Buddha, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "San Jao Chang Muang Ma Schrein",
+            "hu": "San Jao Chang Muang Ma szentély",
+            "ro": "Altarul San Jao Chang Muang Ma",
+            "en": "San Jao Chang Muang Ma shrine"
+          },
+          "coords": [
+            97.964506,
+            19.305984
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen animistisch-buddhistischen Schrein der Schutzgeister und achten Sie auf die faszinierenden Holzelefanten in der Umgebung.",
+            "hu": "Fedezd fel a városvédő szellemeknek szentelt animista-buddhista szentélyt, és figyeld meg az itt elszórtan található lenyűgöző fa elefántfaragásokat.",
+            "ro": "Explorați acest altar animist-budist dedicat spiritelor protectoare ale orașului și căutați sculpturile fascinante de elefanți din lemn împrăștiate în jur.",
+            "en": "Explore this unique animist-Buddhist shrine dedicated to city guardian spirits, and look out for the fascinating wooden elephant carvings scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Pha Ang Tempel",
+            "hu": "Wat Pha Ang templom",
+            "ro": "Templul Wat Pha Ang",
+            "en": "Wat Pha Ang temple"
+          },
+          "coords": [
+            97.965668,
+            19.317377
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Dieses versteckte Juwel etwas außerhalb des Zentrums bietet aufwendige Holzschnitzereien und einen friedlichen Rückzugsort in der Natur.",
+            "hu": "A központtól kissé távolabb eső rejtett gyöngyszem bonyolult fafaragásokkal és békés, természetközeli visszavonulási lehetőséggel büszkélkedhet.",
+            "ro": "Această bijuterie ascunsă oferă sculpturi complicate din lemn și un refugiu pașnic dacă respectați intimitatea călugărilor de acolo.",
+            "en": "Located slightly out of the center, this hidden gem features intricate woodcarvings and provides a peaceful retreat if you respect the monks' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Chinesischer Tempel",
+            "hu": "Kínai templom",
+            "ro": "Templul chinezesc",
+            "en": "Chinese temple"
+          },
+          "coords": [
+            97.974099,
+            19.313245
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen kulturellen Wandel mit roten Laternen und Drachenmotiven und genießen Sie den duftenden Weihrauch im ruhigen Innenhof.",
+            "hu": "Tapasztalj meg egy kulturális váltást az élénkpiros lámpásokkal és sárkánymotívumokkal, és élvezd az udvaron terjengő illatos füstölőket.",
+            "ro": "Experimentați o schimbare culturală distinctă cu felinare roșii și motive de dragoni și bucurați-vă de tămâia parfumată din curte.",
+            "en": "Experience a distinct cultural shift with vibrant red lanterns and dragon motifs, and take a moment to enjoy the fragrant incense in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chong Kham",
+            "hu": "Wat Chong Kham",
+            "ro": "Wat Chong Kham",
+            "en": "Wat Chong Kham"
+          },
+          "coords": [
+            97.967967,
+            19.29795
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Dieser atemberaubende Tempelkomplex spiegelt sich magisch im Wasser des Sees wider, bringen Sie also ein Weitwinkelobjektiv für das perfekte Foto mit.",
+            "hu": "Ez a lenyűgöző tóparti templomkomplexum varázslatosan tükröződik a vízben, ezért hozz magaddal nagylátószögű objektívet a tökéletes fotókhoz.",
+            "ro": "Acest complex de temple de pe malul lacului se reflectă magic în apă, așa că aduceți un obiectiv cu unghi larg pentru a surprinde turlele aurii.",
+            "en": "This stunning lakeside temple complex looks magical reflecting in the water, so bring a wide-angle lens to capture the golden spires perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Kong Mu",
+            "hu": "Wat Phra That Doi Kong Mu",
+            "ro": "Wat Phra That Doi Kong Mu",
+            "en": "Wat Phra That Doi Kong Mu"
+          },
+          "coords": [
+            97.960325,
+            19.299982
+          ],
+          "category": "religious",
+          "arrive_at": "13:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Dieser Hügeltempel bietet die spektakulärste Aussicht über Mae Hong Son und ist der perfekte Ort, um sich nach dem steilen Aufstieg abzukühlen.",
+            "hu": "Ez a hegytetőn álló templom kínálja a leglátványosabb kilátást a városra, és tökéletes hely a hűsölésre a meredek kapaszkodó után.",
+            "ro": "Acest templu de pe deal oferă cea mai spectaculoasă vedere asupra orașului și este locul perfect pentru a vă răcori în briză după o urcare abruptă.",
+            "en": "This hilltop temple offers the most spectacular view over Mae Hong Son, making it the perfect spot to cool down in the breeze after the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night Market"
+          },
+          "coords": [
+            97.967085,
+            19.300071
+          ],
+          "category": "cultural",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie unglaubliches Streetfood rund um den wunderschön beleuchteten See und denken Sie daran, kleines Bargeld mitzunehmen.",
+            "hu": "Kóstolj meg hihetetlen északi thai utcai ételeket a gyönyörűen kivilágított tó körül, és vigyél magaddal aprópénzt a könnyebb fizetésért.",
+            "ro": "Gustați preparate incredibile de tip street food în jurul lacului frumos iluminat și nu uitați să purtați bani mărunți pentru tranzacții.",
+            "en": "Sample incredible Shan and Northern Thai street food around the beautifully illuminated lake, and remember to carry small cash for easier transactions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt am Wat Don Chedi, gefolgt vom zentralen Wat Hua Wiang. Das Fahrrad bietet die ideale Freiheit, um in Ruhe durch die morgendlichen Straßen zu navigieren.\n\nMittags radeln Sie weiter nach Norden zu versteckteren Orten wie dem Wat Pha Ang und dem malerischen chinesischen Tempel, wo Sie eine faszinierende kulturelle Vielfalt abseits des Trubels erwartet.\n\nAm Nachmittag führt der Weg zurück in die Stadt, zunächst zum ikonischen Wat Chong Kham See und schließlich hinauf zum Doi Kong Mu, um eine wohlverdiente Abkühlung bei toller Aussicht zu genießen.\n\nIhre Tour endet praktisch direkt am Nachtmarkt. Stellen Sie Ihr Fahrrad ab und belohnen Sie sich mit exzellenten lokalen Gerichten und frischen Säften entlang des Ufers.",
+        "hu": "Kezdd a kerékpártúrát a csendes Wat Don Chedi-nél, majd irány a központi Wat Hua Wiang. A bicikli ideális szabadságot ad a reggeli utcák kényelmes felfedezéséhez.\n\nDélben tekerj északabbra a rejtettebb Wat Pha Ang és a festői kínai templom felé, ahol a nyüzsgéstől távol a város kulturális sokszínűsége fogad.\n\nDélután gurulj vissza a központba, az ikonikus Wat Chong Kham tóhoz, majd vállalj be egy kihívást a Doi Kong Mu hegyre a lenyűgöző panorámáért.\n\nA túra a nyüzsgő éjszakai piacon ér véget. Támaszd le a kerékpárt, és jutalmazd meg magad kiváló helyi ételekkel a kivilágított tóparton.",
+        "ro": "Începeți turul cu bicicleta la liniștitul Wat Don Chedi, urmat de centralul Wat Hua Wiang. Bicicleta vă oferă libertatea ideală pentru a naviga confortabil pe străzile dimineții.\n\nLa prânz, pedalați spre nord, la Wat Pha Ang și pitorescul templu chinezesc, unde veți descoperi o diversitate culturală fascinantă departe de agitație.\n\nDupă-amiaza, drumul vă duce înapoi în oraș, la emblematicul lac Wat Chong Kham și, în final, pe dealul Doi Kong Mu pentru a vă bucura de aer curat și priveliști superbe.\n\nTurul se termină la piața de noapte vibrantă. Parcați bicicleta și recompensați-vă cu preparate locale excelente și sucuri proaspete de-a lungul apei.",
+        "en": "Start your bike tour peacefully at Wat Don Chedi, followed by the central Wat Hua Wiang. Cycling offers the ideal freedom to comfortably navigate the quiet morning streets.\n\nBy midday, ride further north to more hidden gems like Wat Pha Ang and the picturesque Chinese temple, experiencing a fascinating cultural shift away from the busy center.\n\nIn the afternoon, cruise back toward the iconic Wat Chong Kham lake area, before challenging yourself to the Doi Kong Mu climb to enjoy the refreshing breeze and views.\n\nYour tour concludes conveniently at the bustling Night Market. Park your bike and reward yourself with excellent local street food and fresh juices along the shore."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 5.95,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Moungkol Tararam",
+            "hu": "Wat Moungkol Tararam",
+            "ro": "Wat Moungkol Tararam",
+            "en": "Wat Moungkol Tararam"
+          },
+          "coords": [
+            97.958578,
+            19.278195
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser südliche Tempel bietet einen ruhigen, wenig besuchten Einblick in das tägliche Klosterleben und ist ein friedlicher Ausgangspunkt für Ihre Tour.",
+            "hu": "Ez a déli templom csendes, eldugott bepillantást enged a mindennapi kolostori életbe, ami tökéletes, nyugodt kezdése a városnézésnek.",
+            "ro": "Acest templu din sud oferă o privire liniștită asupra vieții monahale de zi cu zi, fiind un punct de plecare senin pentru explorarea orașului.",
+            "en": "This southern temple offers a quiet, uncrowded glimpse into daily monastic life, making it a serene starting point for your city exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Praya Singhanat Raja Denkmal",
+            "hu": "Praya Singhanat Raja emlékmű",
+            "ro": "Monumentul Praya Singhanat Raja",
+            "en": "Praya Singhanat Raja monument"
+          },
+          "coords": [
+            97.964072,
+            19.296155
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erweisen Sie der Statue des ersten Herrschers der Stadt, die das historische Zentrum markiert, Ihren Respekt, aber treten Sie wegen des Verkehrs etwas zurück.",
+            "hu": "Ródd le tiszteleted a város első uralkodójának szobra előtt a történelmi központban, de állj kissé hátrébb a forgalmas körforgalom elkerülése érdekében.",
+            "ro": "Aduceți un omagiu statuii primului conducător al orașului, dar stați puțin mai în spate pentru a evita aglomerația din sensul giratoriu.",
+            "en": "Pay respects at the statue of the city's first ruler, which marks the true historical center, but stand slightly back to avoid the busy traffic circle."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chong Kham",
+            "hu": "Wat Chong Kham",
+            "ro": "Wat Chong Kham",
+            "en": "Wat Chong Kham"
+          },
+          "coords": [
+            97.967967,
+            19.29795
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Dieser atemberaubende Tempelkomplex spiegelt sich magisch im Wasser des Sees wider, bringen Sie also ein Weitwinkelobjektiv für das perfekte Foto mit.",
+            "hu": "Ez a lenyűgöző tóparti templomkomplexum varázslatosan tükröződik a vízben, ezért hozz magaddal nagylátószögű objektívet a tökéletes fotókhoz.",
+            "ro": "Acest complex de temple de pe malul lacului se reflectă magic în apă, așa că aduceți un obiectiv cu unghi larg pentru a surprinde turlele aurii.",
+            "en": "This stunning lakeside temple complex looks magical reflecting in the water, so bring a wide-angle lens to capture the golden spires perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Hua Wiang",
+            "hu": "Wat Hua Wiang",
+            "ro": "Wat Hua Wiang",
+            "en": "Wat Hua Wiang"
+          },
+          "coords": [
+            97.965869,
+            19.302587
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Holzarchitektur dieses zentralen Tempels, der einen verehrten Bronze-Buddha beherbergt, und denken Sie an angemessene Kleidung.",
+            "hu": "Csodáld meg a központi templom gyönyörű faépítészetét és a tisztelt bronz Buddhát, de ne feledkezz meg a visszafogott öltözködésről a belépés előtt.",
+            "ro": "Admirați arhitectura superbă din lemn a acestui templu central, care adăpostește un Buddha de bronz venerat, și asigurați-vă că sunteți îmbrăcați decent.",
+            "en": "Admire the beautiful wooden architecture of this central temple, which houses a revered bronze Buddha, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Non Tempel",
+            "hu": "Wat Phra Non templom",
+            "ro": "Templul Wat Phra Non",
+            "en": "Wat Phra Non temple"
+          },
+          "coords": [
+            97.963103,
+            19.298598
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Im Inneren finden Sie einen 12 Meter langen liegenden Buddha im birmanischen Stil, gehen Sie jedoch vorsichtig auf den knarrenden alten Holzböden.",
+            "hu": "Bent egy hatalmas, 12 méteres burmai stílusú fekvő Buddhát találsz, de lépkedj óvatosan a nyikorgó, antik fapadlókon.",
+            "ro": "Înăuntru veți găsi un Buddha înclinat masiv de 12 metri în stil birmanez, deși ar trebui să pășiți ușor pe podelele vechi din lemn care scârțâie.",
+            "en": "Inside you'll find a massive 12-meter reclining Buddha built in the Burmese style, though you should step lightly on the creaky antique wooden floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Kong Mu",
+            "hu": "Wat Phra That Doi Kong Mu",
+            "ro": "Wat Phra That Doi Kong Mu",
+            "en": "Wat Phra That Doi Kong Mu"
+          },
+          "coords": [
+            97.960325,
+            19.299982
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Dieser Hügeltempel bietet die spektakulärste Aussicht über Mae Hong Son und ist der perfekte Ort, um sich nach dem steilen Aufstieg abzukühlen.",
+            "hu": "Ez a hegytetőn álló templom kínálja a leglátványosabb kilátást a városra, és tökéletes hely a hűsölésre a meredek kapaszkodó után.",
+            "ro": "Acest templu de pe deal oferă cea mai spectaculoasă vedere asupra orașului și este locul perfect pentru a vă răcori în briză după o urcare abruptă.",
+            "en": "This hilltop temple offers the most spectacular view over Mae Hong Son, making it the perfect spot to cool down in the breeze after the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Der letzte Sonnenuntergang Thailands",
+            "hu": "Thaiföld utolsó naplementéje",
+            "ro": "Ultimul apus de soare al Thailandei",
+            "en": "Last Sunset of Thailand"
+          },
+          "coords": [
+            97.958925,
+            19.300002
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Ausblick über die Bergkämme an der Grenze zu Myanmar und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Légy tanúja egy lélegzetelállító naplementének a mianmari határ hegygerincei felett, de érkezz korán, hogy jó fotós helyet találj.",
+            "ro": "Fiți martori la o panoramă uluitoare peste crestele muntoase de la granița cu Myanmar, dar ajungeți puțin mai devreme pentru o priveliște bună.",
+            "en": "Witness a breathtaking scenic view across the mountain ridges bordering Myanmar, but arrive a bit early to claim a good spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "MHS CERT 2",
+            "hu": "MHS CERT 2",
+            "ro": "MHS CERT 2",
+            "en": "MHS CERT 2"
+          },
+          "coords": [
+            97.968673,
+            19.294296
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schauen Sie sich dieses architektonische Gebäude an, das moderne lokale Entwicklungen hervorhebt, aber überprüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Állj meg ennél a modern helyi fejlesztéseket bemutató ikonikus épületnél, de előtte ellenőrizd a belső kiállítások nyitvatartását.",
+            "ro": "Opriți-vă la această clădire care evidențiază dezvoltarea locală modernă, dar verificați programul dacă doriți să vedeți expozițiile interne.",
+            "en": "Stop by this landmark architectural building that highlights modern local development, but double-check opening hours if you plan to view any exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night Market"
+          },
+          "coords": [
+            97.967085,
+            19.300071
+          ],
+          "category": "cultural",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Probieren Sie unglaubliches Streetfood rund um den wunderschön beleuchteten See und denken Sie daran, kleines Bargeld mitzunehmen.",
+            "hu": "Kóstolj meg hihetetlen északi thai utcai ételeket a gyönyörűen kivilágított tó körül, és vigyél magaddal aprópénzt a könnyebb fizetésért.",
+            "ro": "Gustați preparate incredibile de tip street food în jurul lacului frumos iluminat și nu uitați să purtați bani mărunți pentru tranzacții.",
+            "en": "Sample incredible Shan and Northern Thai street food around the beautifully illuminated lake, and remember to carry small cash for easier transactions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie im ruhigen Süden beim Wat Moungkol Tararam, wo Sie die morgendliche Friedlichkeit ohne Parkplatzprobleme genießen. Fahren Sie dann in Richtung des historischen Zentrums.\n\nZur Mittagszeit navigieren Sie bequem zwischen den großen Tempelclustern rund um Wat Chong Kham und Wat Hua Wiang. Das Auto ermöglicht es Ihnen, mehrere Sehenswürdigkeiten zügig zu kombinieren.\n\nNachmittags fahren Sie hinauf zum Doi Kong Mu. Die Bergstraße ist gut ausgebaut und führt Sie mühelos zu den besten Aussichtspunkten für einen unvergesslichen Blick ins weite Tal.\n\nIhr Tag endet im Zentrum. Parken Sie Ihr Fahrzeug sicher und spazieren Sie zum lebhaften Nachtmarkt am Seeufer, um die authentische lokale Esskultur voll auszukosten.",
+        "hu": "Az autós túra a déli Wat Moungkol Tararamnál indul, ahol parkolási gondok nélkül élvezheted a reggeli békét. Ezután gurulj a történelmi központ nevezetességei felé.\n\nDélben kényelmesen közlekedhetsz a Wat Chong Kham és a Wat Hua Wiang templomai között. Az autóval gyorsan és fáradtság nélkül hidalhatod át az egyes csomópontok közötti távolságokat.\n\nDélután vezess fel a Doi Kong Mu hegyre. A jól kiépített hegyi út fáradtság nélkül visz fel a legszebb kilátópontokhoz, ahol lenyűgöző panoráma vár a völgy felett.\n\nA nap a központban zárul. Parkold le biztonságban az autót, és sétálj le a nyüzsgő éjszakai piacra a tóparton, hogy megkóstold a legjobb északi thai finomságokat.",
+        "ro": "Cu mașina începeți în sudul liniștit, la Wat Moungkol Tararam, bucurându-vă de pacea dimineții fără probleme de parcare. Apoi îndreptați-vă spre centrul istoric.\n\nLa prânz, navigați confortabil între grupurile mari de temple din jurul Wat Chong Kham și Wat Hua Wiang. Mașina vă permite să combinați mai multe atracții rapid.\n\nDupă-amiaza, conduceți sus spre Doi Kong Mu. Drumul de munte este bine întreținut și vă duce fără efort la cele mai bune puncte de belvedere pentru o panoramă de neuitat.\n\nZiua dumneavoastră se termină în centru. Parcați vehiculul în siguranță și plimbați-vă la piața de noapte animată de pe malul lacului pentru a vă bucura de cultura gastronomică locală.",
+        "en": "Start your driving route in the quiet south at Wat Moungkol Tararam, enjoying the peaceful morning without any parking hassles. From there, head straight into the historical center.\n\nBy midday, comfortably navigate between the major temple clusters around Wat Chong Kham and Wat Hua Wiang. The car allows you to swiftly hop between the central landmarks with ease.\n\nIn the afternoon, drive up the winding road to Doi Kong Mu. The well-maintained mountain route brings you effortlessly to the best viewpoints for an unforgettable scenic overlook.\n\nYour day wraps up back in town. Park securely and take a short walk to the lively lakeside Night Market to fully experience the authentic local food culture before heading back."
+      }
+    }
+  }
+}

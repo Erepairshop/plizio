@@ -1,0 +1,520 @@
+{
+  "city_id": "valleiry",
+  "anchor": {
+    "name": "Valleiry",
+    "coords": [
+      5.9681,
+      46.1081
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Valleiry",
+            "hu": "Valleiry Városháza",
+            "ro": "Primăria Valleiry",
+            "en": "Valleiry Town Hall"
+          },
+          "coords": [
+            5.967743,
+            46.108032
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur des Rathauses von Valleiry, das lokale Verwaltung verkörpert, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Csodálja meg a Valleiry városháza letisztult építészetét, amely a helyi közigazgatást testesíti meg, és ellenőrizze a hirdetőtáblákat a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă a primăriei din Valleiry, inima administrației locale, și verificați avizierele pentru a fi la curent cu evenimentele comunității.",
+            "en": "Admire the clean architecture of the Valleiry Town Hall, which embodies local administration, and check the public notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templomtér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            5.965585,
+            46.107028
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem charmanten Kirchplatz, einem idealen Ort, um das tägliche Treiben der Einheimischen bei einem kurzen Spaziergang zu beobachten.",
+            "hu": "Pihenjen meg a hangulatos templomtéren, amely ideális hely arra, hogy egy rövid séta során megfigyelje a helyiek mindennapi életét és találkozásait.",
+            "ro": "Relaxați-vă în fermecătoarea piață a bisericii, un loc ideal pentru a observa agitația zilnică a localnicilor în timpul unei scurte plimbări de dimineață.",
+            "en": "Relax in the charming Church Square, an ideal spot to observe the daily bustle of the locals and enjoy a peaceful moment during your morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Chenex",
+            "hu": "Lac de Chenex",
+            "ro": "Lac de Chenex",
+            "en": "Lac de Chenex"
+          },
+          "coords": [
+            5.982588,
+            46.102914
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am Lac de Chenex, einem malerischen kleinen See, wo Sie auf einer Bank entspannen und die umgebende Natur beobachten können.",
+            "hu": "Élvezze a csendes légkört a Lac de Chenex-nél, egy festői kis tónál, ahol megpihenhet egy padon, és megfigyelheti a környező természet csodáit.",
+            "ro": "Bucurați-vă de atmosfera liniștită la Lac de Chenex, un mic lac pitoresc, unde vă puteți relaxa pe o bancă și observa frumusețea naturii înconjurătoare.",
+            "en": "Enjoy the tranquil atmosphere at Lac de Chenex, a picturesque small lake where you can relax on a bench and observe the beautiful surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption-de-Marie",
+            "hu": "Église de l'Assomption-de-Marie",
+            "ro": "Église de l'Assomption-de-Marie",
+            "en": "Église de l'Assomption-de-Marie"
+          },
+          "coords": [
+            5.994313,
+            46.104619
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese traditionelle Kirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie besonders auf die schönen Details am Holzaltar.",
+            "hu": "Látogasson el ebbe a hagyományos templomba, amely békés légköréről ismert, és fordítson különös figyelmet a faoltár gyönyörűen kidolgozott részleteire.",
+            "ro": "Vizitați această biserică tradițională, cunoscută pentru atmosfera sa liniștită, și acordați o atenție deosebită detaliilor frumoase de pe altarul din lemn.",
+            "en": "Visit this traditional church, widely known for its peaceful atmosphere, and pay special attention to the beautifully crafted details on the wooden altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Vuache",
+            "hu": "Mont Vuache",
+            "ro": "Mont Vuache",
+            "en": "Mont Vuache"
+          },
+          "coords": [
+            5.977485,
+            46.088897
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden des Mont Vuache, um atemberaubende Panoramablicke zu genießen, und bringen Sie feste Schuhe für den steilen Aufstieg mit.",
+            "hu": "Túrázzon a Mont Vuache festői ösvényein, hogy lenyűgöző panorámát élvezhessen, és mindenképpen hozzon magával túracipőt a meredekebb szakaszokhoz.",
+            "ro": "Drumeți pe potecile pitorești ale Mont Vuache pentru a vă bucura de vederi panoramice uimitoare și asigurați-vă că aduceți încălțăminte solidă pentru urcuș.",
+            "en": "Hike along the scenic trails of Mont Vuache to enjoy stunning panoramic views, and make sure to wear sturdy hiking shoes to safely tackle the steep ascents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Valleiry am Rathaus und spazieren Sie zum ruhigen Kirchplatz. Setzen Sie Ihren Weg zum friedlichen Lac de Chenex fort, um die unberührte Natur zu genießen. Am Nachmittag erkunden Sie die wunderschöne Église de l'Assomption-de-Marie. Beenden Sie Ihr Wanderabenteuer mit einem lohnenden Aufstieg auf den malerischen Pfaden des Mont Vuache.",
+        "hu": "Kezdje a napot Valleiry szívében, a városházánál, majd tegyen egy békés sétát a közeli templomtérre. Folytassa útját a nyugodt Lac de Chenex felé, hogy élvezze az érintetlen természetet. Délután fedezze fel a gyönyörű Église de l'Assomption-de-Marie-t. Sétás kalandját a Mont Vuache festői ösvényein tett fárasztó, de kifizetődő túrával fejezheti be a késő délutáni órákban.",
+        "ro": "Începeți ziua în inima orașului Valleiry la Primărie, apoi faceți o scurtă plimbare liniștită până la Piața Bisericii. Continuați pe jos spre liniștitul Lac de Chenex pentru a vă bucura de natura curată. După-amiaza, explorați frumoasa Église de l'Assomption-de-Marie. Încheiați-vă aventura cu o drumeție satisfăcătoare pe potecile pitorești ale celebrului Mont Vuache.",
+        "en": "Begin your day in the heart of Valleiry at the Town Hall, then take a short, peaceful stroll to the nearby Church Square. Continue your walk towards the tranquil Lac de Chenex to enjoy the pristine natural surroundings. In the afternoon, explore the beautiful Église de l'Assomption-de-Marie. Finish your walking adventure with a rewarding hike up the scenic trails of Mont Vuache."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Valleiry",
+            "hu": "Valleiry Városháza",
+            "ro": "Primăria Valleiry",
+            "en": "Valleiry Town Hall"
+          },
+          "coords": [
+            5.967743,
+            46.108032
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur des Rathauses von Valleiry, das lokale Verwaltung verkörpert, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Csodálja meg a Valleiry városháza letisztult építészetét, amely a helyi közigazgatást testesíti meg, és ellenőrizze a hirdetőtáblákat a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă a primăriei din Valleiry, inima administrației locale, și verificați avizierele pentru a fi la curent cu evenimentele comunității.",
+            "en": "Admire the clean architecture of the Valleiry Town Hall, which embodies local administration, and check the public notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templomtér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            5.965585,
+            46.107028
+          ],
+          "category": "recreational",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem charmanten Kirchplatz, einem idealen Ort, um das tägliche Treiben der Einheimischen bei einem kurzen Spaziergang zu beobachten.",
+            "hu": "Pihenjen meg a hangulatos templomtéren, amely ideális hely arra, hogy egy rövid séta során megfigyelje a helyiek mindennapi életét és találkozásait.",
+            "ro": "Relaxați-vă în fermecătoarea piață a bisericii, un loc ideal pentru a observa agitația zilnică a localnicilor în timpul unei scurte plimbări de dimineață.",
+            "en": "Relax in the charming Church Square, an ideal spot to observe the daily bustle of the locals and enjoy a peaceful moment during your morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Chenex",
+            "hu": "Lac de Chenex",
+            "ro": "Lac de Chenex",
+            "en": "Lac de Chenex"
+          },
+          "coords": [
+            5.982588,
+            46.102914
+          ],
+          "category": "natural",
+          "arrive_at": "10:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am Lac de Chenex, einem malerischen kleinen See, wo Sie auf einer Bank entspannen und die umgebende Natur beobachten können.",
+            "hu": "Élvezze a csendes légkört a Lac de Chenex-nél, egy festői kis tónál, ahol megpihenhet egy padon, és megfigyelheti a környező természet csodáit.",
+            "ro": "Bucurați-vă de atmosfera liniștită la Lac de Chenex, un mic lac pitoresc, unde vă puteți relaxa pe o bancă și observa frumusețea naturii înconjurătoare.",
+            "en": "Enjoy the tranquil atmosphere at Lac de Chenex, a picturesque small lake where you can relax on a bench and observe the beautiful surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption-de-Marie",
+            "hu": "Église de l'Assomption-de-Marie",
+            "ro": "Église de l'Assomption-de-Marie",
+            "en": "Église de l'Assomption-de-Marie"
+          },
+          "coords": [
+            5.994313,
+            46.104619
+          ],
+          "category": "religious",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese traditionelle Kirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie besonders auf die schönen Details am Holzaltar.",
+            "hu": "Látogasson el ebbe a hagyományos templomba, amely békés légköréről ismert, és fordítson különös figyelmet a faoltár gyönyörűen kidolgozott részleteire.",
+            "ro": "Vizitați această biserică tradițională, cunoscută pentru atmosfera sa liniștită, și acordați o atenție deosebită detaliilor frumoase de pe altarul din lemn.",
+            "en": "Visit this traditional church, widely known for its peaceful atmosphere, and pay special attention to the beautifully crafted details on the wooden altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Humilly",
+            "hu": "Château d'Humilly",
+            "ro": "Château d'Humilly",
+            "en": "Château d'Humilly"
+          },
+          "coords": [
+            6.000218,
+            46.12098
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen des Château d'Humilly, die von vergangenen Zeiten zeugen, und machen Sie tolle Fotos von den alten, verwitterten Steinmauern.",
+            "hu": "Fedezze fel a Château d'Humilly lenyűgöző romjait, amelyek letűnt időkről tanúskodnak, és készítsen nagyszerű fotókat a régi, viharvert kőfalakról a délutáni fényben.",
+            "ro": "Explorați ruinele fascinante ale Château d'Humilly, care stau mărturie vremurilor trecute, și faceți fotografii grozave ale zidurilor vechi de piatră în lumina după-amiezii.",
+            "en": "Explore the fascinating ruins of Château d'Humilly, which bear witness to bygone times, and take great photos of the old, weathered stone walls in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuilerie romaine",
+            "hu": "Tuilerie romaine",
+            "ro": "Tuilerie romaine",
+            "en": "Tuilerie romaine"
+          },
+          "coords": [
+            5.96647,
+            46.133249
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der römischen Ziegelei, die einen Einblick in die antike Industrie bieten, und lesen Sie die Informationstafeln für mehr historischen Kontext.",
+            "hu": "Fedezze fel a római téglagyár maradványait, amelyek bepillantást engednek az ókori iparba, és olvassa el a tájékoztató táblákat a történelmi kontextus megértéséhez.",
+            "ro": "Descoperiți rămășițele fabricii romane de țigle, care oferă o privire în industria antică, și citiți panourile informative pentru un context istoric mai detaliat.",
+            "en": "Discover the remains of the Roman tile factory, which offer a glimpse into ancient industry, and read the on-site information panels for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Borne n°1",
+            "hu": "Borne n°1",
+            "ro": "Borne n°1",
+            "en": "Borne n°1"
+          },
+          "coords": [
+            5.957345,
+            46.128565
+          ],
+          "category": "landmark",
+          "arrive_at": "15:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Grenzstein, der die alten territorialen Linien markiert, und nutzen Sie die Gelegenheit für ein schnelles Erinnerungsfoto an der Grenze.",
+            "hu": "Látogassa meg ezt a történelmi határkövet, amely a régi területi vonalakat jelöli, és használja ki a lehetőséget egy gyors emlékkép elkészítésére a határvonalon.",
+            "ro": "Vizitați această piatră de hotar istorică, ce marchează vechile linii teritoriale, și profitați de ocazie pentru a face o fotografie rapidă de amintire chiar la graniță.",
+            "en": "Visit this historical boundary stone that marks the old territorial lines, and take the opportunity to snap a quick souvenir photo standing right on the border line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Rathaus zum hübschen Kirchplatz und genießen Sie eine erfrischende Fahrt zum Lac de Chenex. Mittags fahren Sie durch die malerische Landschaft zur traditionellen Assomption-de-Marie-Kirche. Der Nachmittag ist der Erkundung des historischen Château d'Humilly und der römischen Ziegelruinen gewidmet. Beenden Sie Ihren Radtag an der symbolischen Grenzmarkierung Borne n°1.",
+        "hu": "Kerekezzen a városházától a szép templomtérig, majd élvezze a frissítő reggeli utat a Lac de Chenex-hez. Délben tekerjen át a festői vidéken, hogy meglátogassa a hagyományos Assomption-de-Marie templomot. A délután a történelmi Château d'Humilly és a római cserépromok felfedezésének van szentelve. Kerékpáros napját a szimbolikus Borne n°1 határkőnél fejezheti be az este közeledtével.",
+        "ro": "Pedalați de la primărie până la piața bisericii, apoi bucurați-vă de o plimbare revigorantă până la Lac de Chenex. La prânz, mergeți cu bicicleta prin peisajul pitoresc pentru a vizita biserica Assomption-de-Marie. După-amiaza este dedicată explorării istoricului Château d'Humilly și ruinelor romane. Încheiați ziua de ciclism la reperul simbolic de graniță Borne n°1 la lăsarea serii.",
+        "en": "Pedal from the civic center to the lovely church square, then enjoy a refreshing morning ride to Lac de Chenex. By midday, cycle through the picturesque countryside to visit the traditional Assomption-de-Marie church. The afternoon is dedicated to exploring the historic Château d'Humilly and the Roman tile ruins. Finish your cycling day at the symbolic Borne n°1 boundary marker."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 13.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Valleiry",
+            "hu": "Valleiry Városháza",
+            "ro": "Primăria Valleiry",
+            "en": "Valleiry Town Hall"
+          },
+          "coords": [
+            5.967743,
+            46.108032
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur des Rathauses von Valleiry, das lokale Verwaltung verkörpert, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
+            "hu": "Csodálja meg a Valleiry városháza letisztult építészetét, amely a helyi közigazgatást testesíti meg, és ellenőrizze a hirdetőtáblákat a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă a primăriei din Valleiry, inima administrației locale, și verificați avizierele pentru a fi la curent cu evenimentele comunității.",
+            "en": "Admire the clean architecture of the Valleiry Town Hall, which embodies local administration, and check the public notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templomtér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            5.965585,
+            46.107028
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem charmanten Kirchplatz, einem idealen Ort, um das tägliche Treiben der Einheimischen bei einem kurzen Spaziergang zu beobachten.",
+            "hu": "Pihenjen meg a hangulatos templomtéren, amely ideális hely arra, hogy egy rövid séta során megfigyelje a helyiek mindennapi életét és találkozásait.",
+            "ro": "Relaxați-vă în fermecătoarea piață a bisericii, un loc ideal pentru a observa agitația zilnică a localnicilor în timpul unei scurte plimbări de dimineață.",
+            "en": "Relax in the charming Church Square, an ideal spot to observe the daily bustle of the locals and enjoy a peaceful moment during your morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Chenex",
+            "hu": "Lac de Chenex",
+            "ro": "Lac de Chenex",
+            "en": "Lac de Chenex"
+          },
+          "coords": [
+            5.982588,
+            46.102914
+          ],
+          "category": "natural",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am Lac de Chenex, einem malerischen kleinen See, wo Sie auf einer Bank entspannen und die umgebende Natur beobachten können.",
+            "hu": "Élvezze a csendes légkört a Lac de Chenex-nél, egy festői kis tónál, ahol megpihenhet egy padon, és megfigyelheti a környező természet csodáit.",
+            "ro": "Bucurați-vă de atmosfera liniștită la Lac de Chenex, un mic lac pitoresc, unde vă puteți relaxa pe o bancă și observa frumusețea naturii înconjurătoare.",
+            "en": "Enjoy the tranquil atmosphere at Lac de Chenex, a picturesque small lake where you can relax on a bench and observe the beautiful surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de l'Assomption-de-Marie",
+            "hu": "Église de l'Assomption-de-Marie",
+            "ro": "Église de l'Assomption-de-Marie",
+            "en": "Église de l'Assomption-de-Marie"
+          },
+          "coords": [
+            5.994313,
+            46.104619
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese traditionelle Kirche, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie besonders auf die schönen Details am Holzaltar.",
+            "hu": "Látogasson el ebbe a hagyományos templomba, amely békés légköréről ismert, és fordítson különös figyelmet a faoltár gyönyörűen kidolgozott részleteire.",
+            "ro": "Vizitați această biserică tradițională, cunoscută pentru atmosfera sa liniștită, și acordați o atenție deosebită detaliilor frumoase de pe altarul din lemn.",
+            "en": "Visit this traditional church, widely known for its peaceful atmosphere, and pay special attention to the beautifully crafted details on the wooden altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Humilly",
+            "hu": "Château d'Humilly",
+            "ro": "Château d'Humilly",
+            "en": "Château d'Humilly"
+          },
+          "coords": [
+            6.000218,
+            46.12098
+          ],
+          "category": "castle",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen des Château d'Humilly, die von vergangenen Zeiten zeugen, und machen Sie tolle Fotos von den alten, verwitterten Steinmauern.",
+            "hu": "Fedezze fel a Château d'Humilly lenyűgöző romjait, amelyek letűnt időkről tanúskodnak, és készítsen nagyszerű fotókat a régi, viharvert kőfalakról a délutáni fényben.",
+            "ro": "Explorați ruinele fascinante ale Château d'Humilly, care stau mărturie vremurilor trecute, și faceți fotografii grozave ale zidurilor vechi de piatră în lumina după-amiezii.",
+            "en": "Explore the fascinating ruins of Château d'Humilly, which bear witness to bygone times, and take great photos of the old, weathered stone walls in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuilerie romaine",
+            "hu": "Tuilerie romaine",
+            "ro": "Tuilerie romaine",
+            "en": "Tuilerie romaine"
+          },
+          "coords": [
+            5.96647,
+            46.133249
+          ],
+          "category": "historical",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der römischen Ziegelei, die einen Einblick in die antike Industrie bieten, und lesen Sie die Informationstafeln für mehr historischen Kontext.",
+            "hu": "Fedezze fel a római téglagyár maradványait, amelyek bepillantást engednek az ókori iparba, és olvassa el a tájékoztató táblákat a történelmi kontextus megértéséhez.",
+            "ro": "Descoperiți rămășițele fabricii romane de țigle, care oferă o privire în industria antică, și citiți panourile informative pentru un context istoric mai detaliat.",
+            "en": "Discover the remains of the Roman tile factory, which offer a glimpse into ancient industry, and read the on-site information panels for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Borne n°1",
+            "hu": "Borne n°1",
+            "ro": "Borne n°1",
+            "en": "Borne n°1"
+          },
+          "coords": [
+            5.957345,
+            46.128565
+          ],
+          "category": "landmark",
+          "arrive_at": "14:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Grenzstein, der die alten territorialen Linien markiert, und nutzen Sie die Gelegenheit für ein schnelles Erinnerungsfoto an der Grenze.",
+            "hu": "Látogassa meg ezt a történelmi határkövet, amely a régi területi vonalakat jelöli, és használja ki a lehetőséget egy gyors emlékkép elkészítésére a határvonalon.",
+            "ro": "Vizitați această piatră de hotar istorică, ce marchează vechile linii teritoriale, și profitați de ocazie pentru a face o fotografie rapidă de amintire chiar la graniță.",
+            "en": "Visit this historical boundary stone that marks the old territorial lines, and take the opportunity to snap a quick souvenir photo standing right on the border line."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Vuache",
+            "hu": "Mont Vuache",
+            "ro": "Mont Vuache",
+            "en": "Mont Vuache"
+          },
+          "coords": [
+            5.977485,
+            46.088897
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden des Mont Vuache, um atemberaubende Panoramablicke zu genießen, und bringen Sie feste Schuhe für den steilen Aufstieg mit.",
+            "hu": "Túrázzon a Mont Vuache festői ösvényein, hogy lenyűgöző panorámát élvezhessen, és mindenképpen hozzon magával túracipőt a meredekebb szakaszokhoz.",
+            "ro": "Drumeți pe potecile pitorești ale Mont Vuache pentru a vă bucura de vederi panoramice uimitoare și asigurați-vă că aduceți încălțăminte solidă pentru urcuș.",
+            "en": "Hike along the scenic trails of Mont Vuache to enjoy stunning panoramic views, and make sure to wear sturdy hiking shoes to safely tackle the steep ascents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Rathaus und dem Hauptplatz im Zentrum von Valleiry. Mittags machen Sie eine malerische Fahrt vorbei am Lac de Chenex und besuchen die nahegelegene traditionelle Kirche. Verbringen Sie Ihren Nachmittag damit, historische Highlights im Château d'Humilly und der antiken römischen Fabrik zu entdecken. Fahren Sie schließlich zum Wahrzeichen Borne n°1 und zum Mont Vuache.",
+        "hu": "Kezdje autós túráját a városházánál és a főtéren Valleiry központjában. Délben tegyen egy festői utazást a Lac de Chenex mellett, és álljon meg a közeli hagyományos templomnál. A délutánt a történelmi látnivalók, a Château d'Humilly és az ókori római gyár felfedezésével töltheti. Végül vezessen a Borne n°1 emlékműhöz, és élvezze az esti kilátást a csodálatos Mont Vuache hegyről.",
+        "ro": "Începeți turul cu mașina la primărie și în piața principală din centrul orașului Valleiry. La prânz, faceți o plimbare pitorească pe lângă Lac de Chenex și vizitați biserica tradițională. Petreceți-vă după-amiaza descoperind atracțiile istorice la Château d'Humilly și vechea fabrică romană. În cele din urmă, conduceți la Borne n°1 și bucurați-vă de priveliștile de seară de pe Mont Vuache.",
+        "en": "Start your driving tour at the town hall and the main square in the center of Valleiry. By midday, take a scenic drive past Lac de Chenex and stop to visit the nearby traditional local church. Spend your afternoon discovering historical highlights at Château d'Humilly and the ancient Roman factory. Finally, drive to the Borne n°1 landmark and enjoy the evening vistas from Mont Vuache."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "tulum-cities-v2",
+  "anchor": {
+    "name": "Tulum",
+    "coords": [
+      -87.4654,
+      20.2114
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dzonot Wayak Cenote",
+            "hu": "Dzonot Wayak Cenote",
+            "ro": "Dzonot Wayak Cenote",
+            "en": "Dzonot Wayak Cenote"
+          },
+          "coords": [
+            -87.465362,
+            20.21156
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie am Morgen die erfrischenden, kristallklaren Gewässer dieser familienfreundlichen Cenote, aber kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Kezdje a reggelt ennek a családbarát cenoténak a kristálytiszta, frissítő vizében fürödve, de érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Începeți dimineața explorând apele cristaline și răcoroase ale acestui cenote perfect pentru familii, dar sosiți devreme pentru a evita aglomerația.",
+            "en": "Start your morning exploring the refreshing crystal-clear waters of this family-friendly cenote, but arrive early to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Diving Cenotes dive center",
+            "hu": "Diving Cenotes dive center",
+            "ro": "Diving Cenotes dive center",
+            "en": "Diving Cenotes dive center"
+          },
+          "coords": [
+            -87.467347,
+            20.210526
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse der Unterwasserhöhlen mit erfahrenen lokalen Führern, und buchen Sie Ihre Tauchausrüstung in der Hochsaison rechtzeitig.",
+            "hu": "Fedezze fel a víz alatti barlangrendszerek titkait szakértő helyi vezetőkkel, és főszezonban jó előre foglalja le a szükséges búvárfelszerelést.",
+            "ro": "Descoperiți secretele peșterilor subacvatice alături de ghizi locali experți și asigurați-vă că rezervați echipamentul de scufundări din timp.",
+            "en": "Discover the secrets of underwater cave systems with expert local guides, and make sure to book your diving equipment well in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -87.462498,
+            20.208254
+          ],
+          "category": "cultural",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch lebhafte lokale Kunstausstellungen in das reiche Maya-Erbe der Region ein, und prüfen Sie den Zeitplan für traditionelle Tanzaufführungen.",
+            "hu": "Merüljön el a régió gazdag maja örökségében a helyi művészeti kiállításokon keresztül, és érdemes előre tájékozódni a hagyományos táncelőadások időpontjairól.",
+            "ro": "Cufundați-vă în bogata moștenire mayașă a regiunii prin expoziții de artă locală vibrantă și verificați programul pentru spectacole de dans tradițional.",
+            "en": "Immerse yourself in the region's rich Mayan heritage through vibrant local art exhibits, and check the schedule for traditional dance performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlos",
+            "hu": "Carlos",
+            "ro": "Carlos",
+            "en": "Carlos"
+          },
+          "coords": [
+            -87.456612,
+            20.208651
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser charmante lokale Ort bietet einen wunderbaren Einblick in das authentische Leben von Tulum; bringen Sie Kleingeld für erfrischende Getränke mit.",
+            "hu": "Ez a hangulatos helyi pont csodálatos bepillantást enged az autentikus tulumi életbe, ezért hozzon magával aprópénzt a frissítő italok kifizetéséhez.",
+            "ro": "Acest loc fermecător oferă o perspectivă minunată asupra vieții autentice din Tulum, așa că aduceți mărunt pentru a cumpăra cu ușurință băuturi răcoritoare.",
+            "en": "This charming local spot offers a wonderful glimpse into authentic Tulum life, so bring small change to easily purchase refreshing drinks from vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Aldea Zama",
+            "hu": "Cenote Aldea Zama",
+            "ro": "Cenote Aldea Zama",
+            "en": "Cenote Aldea Zama"
+          },
+          "coords": [
+            -87.459147,
+            20.202838
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Kalksteinformationen dieses wunderschönen Naturbeckens, und tragen Sie Wasserschuhe, um auf den rutschigen Felsen sicher zu gehen.",
+            "hu": "Csodálja meg a gyönyörű természetes medencét szegélyező lenyűgöző mészkőalakzatokat, és viseljen vízicipőt a csúszós sziklaszéleken való biztonságos közlekedéshez.",
+            "ro": "Admirați formațiunile de calcar dramatice care înconjoară această piscină naturală superbă și purtați încălțăminte de apă pentru a naviga marginile stâncoase.",
+            "en": "Marvel at the dramatic limestone formations framing this beautiful natural pool, and wear water shoes to safely navigate the slippery rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramid of positive thinking",
+            "hu": "Pyramid of positive thinking",
+            "ro": "Pyramid of positive thinking",
+            "en": "Pyramid of positive thinking"
+          },
+          "coords": [
+            -87.460954,
+            20.197711
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie das einzigartige moderne Design dieser faszinierenden künstlerischen Struktur, die am besten im warmen Licht des späten Nachmittags fotografiert wird.",
+            "hu": "Tekintse meg ennek a lenyűgöző művészeti építménynek az egyedi modern dizájnját, amelyet a késő délutáni meleg aranyfényben a legjobb lefotózni.",
+            "ro": "Contemplați designul modern și unic al acestei structuri artistice fascinante, care este cel mai bine de fotografiat în lumina caldă a după-amiezii.",
+            "en": "Contemplate the unique modern design of this fascinating artistic structure, which is best photographed in the warm golden light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Tour im Herzen des Pueblos mit einem erfrischenden Bad in der Cenote Dzonot Wayak. Der Mittag bringt kulturelles Eintauchen in der Casa de la Cultura, wo lokale Kunst die Seele von Tulum offenbart. Am Nachmittag führen Sie lebhafte Straßen zur wunderschönen Cenote Aldea Zama. Beenden Sie Ihren Spaziergang an der Pyramide des positiven Denkens, während die Sonne untergeht.",
+        "hu": "Kezdje sétáját a pueblo szívében, egyenesen a Dzonot Wayak Cenote frissítő vizébe csobbanva. A dél a kulturális elmélyülésé a Casa de la Cultura falai között, ahol a helyi művészet feltárja Tulum lelkét. A délutáni árnyékok a nyüzsgő utcákon át a gyönyörű Cenote Aldea Zama felé vezetnek. Fejezze be sétáját a Pozitív gondolkodás piramisánál a naplementében.",
+        "ro": "Începeți turul de mers pe jos în inima orașului făcând o baie în apele răcoroase ale Cenote Dzonot Wayak. Prânzul aduce imersiune culturală la Casa de la Cultura, unde arta locală dezvăluie sufletul Tulumului. Umbrele după-amiezii vă poartă prin străzile vibrante spre superba Cenote Aldea Zama. Încheiați plimbarea la Piramida gândirii pozitive în timp ce soarele apune.",
+        "en": "Start your walking tour in the heart of the pueblo by diving straight into the refreshing waters of the Dzonot Wayak Cenote. Midday brings cultural immersion at the Casa de la Cultura, where local art and history reveal the soul of Tulum. Afternoon shadows lead you through the vibrant streets to the naturally beautiful Cenote Aldea Zama. Conclude your stroll at the Pyramid of positive thinking as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple of Doom",
+            "hu": "Temple of Doom",
+            "ro": "Temple of Doom",
+            "en": "Temple of Doom"
+          },
+          "coords": [
+            -87.457272,
+            20.229175
+          ],
+          "category": "natural",
+          "arrive_at": "09:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Springen Sie in die aufregenden Tiefen dieses dramatischen Sinklochs für abenteuerlustige Taucher, aber denken Sie an Ihre umweltfreundliche Sonnencreme.",
+            "hu": "Ugorjon be a kalandvágyó búvárok által kedvelt, lenyűgöző víznyelő izgalmas mélységébe, de ne felejtsen el magával hozni környezetbarát naptejet.",
+            "ro": "Săriți în adâncurile palpitante ale acestui cenote dramatic preferat de scafandri aventuroși, dar nu uitați să aduceți propria cremă de soare ecologică.",
+            "en": "Leap into the exhilarating depths of this dramatic sinkhole favored by adventurous divers, but remember to bring your own eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "No way",
+            "hu": "No way",
+            "ro": "No way",
+            "en": "No way"
+          },
+          "coords": [
+            -87.462519,
+            20.222484
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die skurrile Geschichte hinter diesem markanten lokalen Wahrzeichen, und halten Sie Ihre Kamera bereit, um die Street-Art zu fotografieren.",
+            "hu": "Fedezze fel e furcsa nevű helyi nevezetesség történetét a közeli lakosokkal beszélgetve, és tartsa készenlétben a fényképezőgépét a falfestmények miatt.",
+            "ro": "Descoperiți istoria ciudată din spatele acestui reper local discutând cu rezidenții din apropiere și păstrați aparatul foto pregătit pentru arta stradală.",
+            "en": "Uncover the quirky history behind this distinctively named local landmark by chatting with nearby residents, and keep your camera ready for street art."
+          }
+        },
+        {
+          "name": {
+            "de": "Dzonot Wayak Cenote",
+            "hu": "Dzonot Wayak Cenote",
+            "ro": "Dzonot Wayak Cenote",
+            "en": "Dzonot Wayak Cenote"
+          },
+          "coords": [
+            -87.465362,
+            20.21156
+          ],
+          "category": "family",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie am Morgen die erfrischenden, kristallklaren Gewässer dieser familienfreundlichen Cenote, aber kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Kezdje a reggelt ennek a családbarát cenoténak a kristálytiszta, frissítő vizében fürödve, de érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Începeți dimineața explorând apele cristaline și răcoroase ale acestui cenote perfect pentru familii, dar sosiți devreme pentru a evita aglomerația.",
+            "en": "Start your morning exploring the refreshing crystal-clear waters of this family-friendly cenote, but arrive early to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -87.462498,
+            20.208254
+          ],
+          "category": "cultural",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch lebhafte lokale Kunstausstellungen in das reiche Maya-Erbe der Region ein, und prüfen Sie den Zeitplan für traditionelle Tanzaufführungen.",
+            "hu": "Merüljön el a régió gazdag maja örökségében a helyi művészeti kiállításokon keresztül, és érdemes előre tájékozódni a hagyományos táncelőadások időpontjairól.",
+            "ro": "Cufundați-vă în bogata moștenire mayașă a regiunii prin expoziții de artă locală vibrantă și verificați programul pentru spectacole de dans tradițional.",
+            "en": "Immerse yourself in the region's rich Mayan heritage through vibrant local art exhibits, and check the schedule for traditional dance performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Aldea Zama",
+            "hu": "Cenote Aldea Zama",
+            "ro": "Cenote Aldea Zama",
+            "en": "Cenote Aldea Zama"
+          },
+          "coords": [
+            -87.459147,
+            20.202838
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Kalksteinformationen dieses wunderschönen Naturbeckens, und tragen Sie Wasserschuhe, um auf den rutschigen Felsen sicher zu gehen.",
+            "hu": "Csodálja meg a gyönyörű természetes medencét szegélyező lenyűgöző mészkőalakzatokat, és viseljen vízicipőt a csúszós sziklaszéleken való biztonságos közlekedéshez.",
+            "ro": "Admirați formațiunile de calcar dramatice care înconjoară această piscină naturală superbă și purtați încălțăminte de apă pentru a naviga marginile stâncoase.",
+            "en": "Marvel at the dramatic limestone formations framing this beautiful natural pool, and wear water shoes to safely navigate the slippery rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramid of positive thinking",
+            "hu": "Pyramid of positive thinking",
+            "ro": "Pyramid of positive thinking",
+            "en": "Pyramid of positive thinking"
+          },
+          "coords": [
+            -87.460954,
+            20.197711
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie das einzigartige moderne Design dieser faszinierenden künstlerischen Struktur, die am besten im warmen Licht des späten Nachmittags fotografiert wird.",
+            "hu": "Tekintse meg ennek a lenyűgöző művészeti építménynek az egyedi modern dizájnját, amelyet a késő délutáni meleg aranyfényben a legjobb lefotózni.",
+            "ro": "Contemplați designul modern și unic al acestei structuri artistice fascinante, care este cel mai bine de fotografiat în lumina caldă a după-amiezii.",
+            "en": "Contemplate the unique modern design of this fascinating artistic structure, which is best photographed in the warm golden light of late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie an den Stadtrand, um den aufregenden Tempel des Schicksals zu erkunden. Wenn der Tag wärmer wird, treten Sie zurück in Richtung Zentrum, um die Casa de la Cultura zu entdecken. Ihre nachmittägliche Fahrt verbindet Sie mit den kristallklaren Becken der Cenote Aldea Zama. Lassen Sie den Tag mit einer gemütlichen Fahrt zur kontemplativen Pyramide ausklingen.",
+        "hu": "Kerékpározzon a városhatárig, és kezdje a reggelt az izgalmas Végzet Temploma víznyelőinek felfedezésével. Ahogy melegszik az idő, tekerjen vissza a központba a Casa de la Cultura kulturális kincseihez. A délutáni túra a Cenote Aldea Zama kristálytiszta medencéihez visz. Zárja a napot egy kellemes utazással a Pozitív gondolkodás piramisához.",
+        "ro": "Pedalați spre marginea orașului pentru a explora cenotele palpitante de la Templul Destinului. Pe măsură ce ziua se încălzește, întoarceți-vă spre centru pentru a descoperi Casa de la Cultura. Călătoria de după-amiază vă conectează cu bazinele cristaline de la Cenote Aldea Zama. Încheiați cu o plimbare ușoară spre contemplativa Piramidă a gândirii pozitive.",
+        "en": "Cycle past the town limits to start your morning exploring the thrilling sinkholes at the Temple of Doom. As the day warms up, pedal back towards the center to uncover local landmarks and immerse yourself in the Casa de la Cultura. Your afternoon ride connects you with the crystalline pools of Cenote Aldea Zama. Wind down with a gentle cycle to the contemplative Pyramid of positive thinking."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple of Doom",
+            "hu": "Temple of Doom",
+            "ro": "Temple of Doom",
+            "en": "Temple of Doom"
+          },
+          "coords": [
+            -87.457272,
+            20.229175
+          ],
+          "category": "natural",
+          "arrive_at": "09:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Springen Sie in die aufregenden Tiefen dieses dramatischen Sinklochs für abenteuerlustige Taucher, aber denken Sie an Ihre umweltfreundliche Sonnencreme.",
+            "hu": "Ugorjon be a kalandvágyó búvárok által kedvelt, lenyűgöző víznyelő izgalmas mélységébe, de ne felejtsen el magával hozni környezetbarát naptejet.",
+            "ro": "Săriți în adâncurile palpitante ale acestui cenote dramatic preferat de scafandri aventuroși, dar nu uitați să aduceți propria cremă de soare ecologică.",
+            "en": "Leap into the exhilarating depths of this dramatic sinkhole favored by adventurous divers, but remember to bring your own eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -87.462498,
+            20.208254
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch lebhafte lokale Kunstausstellungen in das reiche Maya-Erbe der Region ein, und prüfen Sie den Zeitplan für traditionelle Tanzaufführungen.",
+            "hu": "Merüljön el a régió gazdag maja örökségében a helyi művészeti kiállításokon keresztül, és érdemes előre tájékozódni a hagyományos táncelőadások időpontjairól.",
+            "ro": "Cufundați-vă în bogata moștenire mayașă a regiunii prin expoziții de artă locală vibrantă și verificați programul pentru spectacole de dans tradițional.",
+            "en": "Immerse yourself in the region's rich Mayan heritage through vibrant local art exhibits, and check the schedule for traditional dance performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramid of positive thinking",
+            "hu": "Pyramid of positive thinking",
+            "ro": "Pyramid of positive thinking",
+            "en": "Pyramid of positive thinking"
+          },
+          "coords": [
+            -87.460954,
+            20.197711
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie das einzigartige moderne Design dieser faszinierenden künstlerischen Struktur, die am besten im warmen Licht des späten Nachmittags fotografiert wird.",
+            "hu": "Tekintse meg ennek a lenyűgöző művészeti építménynek az egyedi modern dizájnját, amelyet a késő délutáni meleg aranyfényben a legjobb lefotózni.",
+            "ro": "Contemplați designul modern și unic al acestei structuri artistice fascinante, care este cel mai bine de fotografiat în lumina caldă a după-amiezii.",
+            "en": "Contemplate the unique modern design of this fascinating artistic structure, which is best photographed in the warm golden light of late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Coco Beach",
+            "hu": "Coco Beach",
+            "ro": "Coco Beach",
+            "en": "Coco Beach"
+          },
+          "coords": [
+            -87.453243,
+            20.163997
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sand dieses ikonischen Küstenabschnitts mit Blick auf die Karibik, und kommen Sie vor dem Mittag für ein schattiges Bett.",
+            "hu": "Pihenjen meg a Karib-tengerre néző ikonikus partszakasz érintetlen, fehér homokján, és érkezzen dél előtt, hogy biztosan találjon árnyékos napozóágyat.",
+            "ro": "Relaxați-vă pe nisipul alb imaculat al acestei zone de coastă iconice spre Caraibe și sosiți înainte de prânz pentru a prinde un șezlong la umbră.",
+            "en": "Relax on the pristine white sands of this iconic coastal stretch overlooking the Caribbean, and arrive before midday to secure the perfect shaded sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Dune boutique hotel",
+            "hu": "Dune boutique hotel",
+            "ro": "Dune boutique hotel",
+            "en": "Dune boutique hotel"
+          },
+          "coords": [
+            -87.454544,
+            20.159434
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Barfuß-Luxus in diesem trendigen Strandhotel im Bohème-Stil, wo Sie einen exquisiten Craft-Cocktail direkt am Rand des Ozeans genießen können.",
+            "hu": "Tapasztalja meg a mezítlábas luxust ebben a bohém, stílusos tengerparti szállodában, ahol kiváló kézműves koktélokat fogyaszthat közvetlenül a vízparton.",
+            "ro": "Experimentați luxul relaxat la această proprietate pe plajă în stil boem-șic, unde puteți savura un cocktail artizanal rafinat chiar la marginea oceanului.",
+            "en": "Experience barefoot luxury at this bohemian-chic beachfront property, where you can enjoy an exquisite craft cocktail right at the ocean's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanan",
+            "hu": "Kanan",
+            "ro": "Kanan",
+            "en": "Kanan"
+          },
+          "coords": [
+            -87.458451,
+            20.150973
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie durch die skurrilen Holznester dieses außergewöhnlichen Öko-Resorts für atemberaubende Meerblicke, aber buchen Sie rechtzeitig zum Sonnenuntergang.",
+            "hu": "Másszon fel e különleges öko-üdülőhely mesebeli fa fészkeibe a lélegzetelállító tengeri panorámáért, de időben foglaljon helyet a naplemente megtekintéséhez.",
+            "ro": "Urcați prin cuiburile capricioase din lemn ale acestui eco-resort extraordinar pentru vederi panoramice uluitoare la ocean, dar rezervați din timp pentru apus.",
+            "en": "Ascend through the whimsical wooden nests of this extraordinary eco-resort for breathtaking panoramic ocean views, but book a sunset reservation early."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa violeta",
+            "hu": "Casa violeta",
+            "ro": "Casa violeta",
+            "en": "Casa violeta"
+          },
+          "coords": [
+            -87.460385,
+            20.143582
+          ],
+          "category": "recreational",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem ruhigen spirituellen Rückzugsort am Strand ausklingen, und nehmen Sie an der abendlichen Yoga-Sitzung zur Entspannung teil.",
+            "hu": "Zárja a napot ezen a nyugodt, tengerparti spirituális menedékhelyen, és fontolja meg a részvételt az alkonyati jógaórán a tökéletes ellazulás érdekében.",
+            "ro": "Încheiați ziua la acest refugiu spiritual senin de pe plajă și luați în considerare participarea la sesiunea lor de yoga la amurg pentru relaxare totală.",
+            "en": "Wind down your day at this serene spiritual retreat on the beach, and consider joining their twilight yoga session for ultimate coastal relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie etwas nach Norden, um den Tag am mysteriösen Tempel des Schicksals zu beginnen. Der Mittag lädt zu einer kurzen Fahrt in die Stadt zur Casa de la Cultura ein, bevor es nach Süden geht. Verbringen Sie den Nachmittag entlang der spektakulären Strandzone zwischen Coco Beach und Kanan. Beenden Sie Ihre luxuriöse Fahrt in der Casa Violeta zum Sonnenuntergang.",
+        "hu": "Vezessen egy kicsit északra, és kezdje a napot a Végzet Templomának titokzatos mélységeiben. Délben gyors kitérőt tehet a városba a Casa de la Cultura felé, mielőtt délnek venné az irányt. Töltse a délutánt a látványos tengerparti övezetben, olyan elegáns pihenőhelyeket felkeresve, mint a Coco Beach és a Kanan. Fejezze be luxusútját a Casa Violetában.",
+        "ro": "Conduceți puțin spre nord pentru a începe ziua explorând adâncurile de la Templul Destinului. Prânzul invită la o plimbare înapoi în oraș pentru perspective culturale la Casa de la Cultura înainte de a vă îndrepta spre sud. Petreceți după-amiaza pe plaja spectaculoasă, între Coco Beach și Kanan. Încheiați cursa de lux la Casa Violeta la apus.",
+        "en": "Drive slightly north to kick off your day exploring the mysterious depths of the Temple of Doom. Midday invites a quick drive back into town for cultural insights at Casa de la Cultura before heading south. Spend the entire afternoon cruising along the spectacular beach zone, hopping between chic recreational spots like Coco Beach and Kanan. Finish your luxurious drive at Casa Violeta for sunset."
+      }
+    }
+  }
+}

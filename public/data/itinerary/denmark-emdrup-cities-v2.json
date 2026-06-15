@@ -1,0 +1,428 @@
+{
+  "city_id": "denmark-emdrup-cities-v2",
+  "anchor": {
+    "name": "Emdrup",
+    "coords": [
+      12.53,
+      55.72
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grundtvigskirche",
+            "hu": "Grundtvig-templom",
+            "ro": "Biserica Grundtvig",
+            "en": "Grundtvig's Church"
+          },
+          "coords": [
+            12.533894,
+            55.716584
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gewaltige, aus Millionen von gelben Ziegelsteinen erbaute Kirche und kommen Sie früh, um das magische Licht im Hauptschiff zu fotografieren.",
+            "hu": "Csodálja meg a sárga téglák millióiból épült monumentális templomot, és érkezzen korán, hogy elcsípje a varázslatos fényeket a főhajóban.",
+            "ro": "Admirați biserica monumentală construită din milioane de cărămizi galbene și veniți devreme pentru a fotografia lumina magică din nava principală.",
+            "en": "Marvel at the massive church built from millions of yellow bricks, and arrive early to capture the magical morning light streaming into the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Lersøparken",
+            "hu": "Lersøparken",
+            "ro": "Lersøparken",
+            "en": "Lersøparken"
+          },
+          "coords": [
+            12.543701,
+            55.709613
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Grünflächen dieses ruhigen Parks und bringen Sie eine kleine Picknickdecke mit, um sich unter den alten Bäumen auszuruhen.",
+            "hu": "Élvezze a hatalmas zöldterületeket ebben a csendes parkban, és hozzon magával egy pikniktakarót, hogy megpihenjen az öreg fák árnyékában.",
+            "ro": "Bucurați-vă de spațiile verzi vaste ale acestui parc liniștit și aduceți o pătură de picnic pentru a vă relaxa sub copacii seculari.",
+            "en": "Enjoy the expansive green spaces of this tranquil park, and bring along a small picnic blanket to rest comfortably beneath the mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "David Risley Gallery",
+            "hu": "David Risley Galéria",
+            "ro": "Galeria David Risley",
+            "en": "David Risley Gallery"
+          },
+          "coords": [
+            12.527776,
+            55.707612
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie spannende Werke der zeitgenössischen Kunst in dieser Galerie und fragen Sie das Personal nach den verborgenen Details der aktuellen Ausstellung.",
+            "hu": "Fedezze fel a kortárs művészet izgalmas alkotásait ebben a galériában, és bátran kérdezze a személyzetet az aktuális kiállítás rejtett részleteiről.",
+            "ro": "Descoperiți opere captivante de artă contemporană în această galerie și întrebați personalul despre detaliile ascunse ale expoziției actuale.",
+            "en": "Discover exciting works of contemporary art in this gallery, and don't hesitate to ask the staff about the hidden details of the current exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbie Museum",
+            "hu": "Barbie Múzeum",
+            "ro": "Muzeul Barbie",
+            "en": "Barbie Museum"
+          },
+          "coords": [
+            12.52557,
+            55.697266
+          ],
+          "category": "museum",
+          "arrive_at": "13:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die nostalgische Welt tausender Puppen und achten Sie besonders auf die seltenen Vintage-Modelle aus den frühen 1960er Jahren.",
+            "hu": "Merüljön el a több ezer baba nosztalgikus világában, és figyeljen különösen a ritka, korai 1960-as évekből származó vintage modellekre.",
+            "ro": "Pătrundeți în lumea nostalgică a mii de păpuși și acordați o atenție deosebită modelelor rare de epocă din anii 1960.",
+            "en": "Dive into the nostalgic world of thousands of dolls, and pay special attention to the rare, well-preserved vintage models from the early 1960s."
+          }
+        },
+        {
+          "name": {
+            "de": "Gandhiparken",
+            "hu": "Gandhiparken",
+            "ro": "Gandhiparken",
+            "en": "Gandhiparken"
+          },
+          "coords": [
+            12.523573,
+            55.697834
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser kleinen, aber feinen Grünanlage und nutzen Sie die Bänke am Wegesrand für eine entspannte Pause.",
+            "hu": "Zárja a napot ebben a kis, de bájos parkban, és használja a sétány menti padokat egy pihentető szünetre.",
+            "ro": "Încheiați-vă ziua în acest parc mic, dar fermecător, și folosiți băncile de pe marginea aleii pentru o pauză relaxantă.",
+            "en": "Finish your day in this small but charming green space, and use the comfortable pathway benches to enjoy a thoroughly relaxing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens bewundern wir die imposante Architektur der Grundtvigskirche, bevor wir im Lersøparken die Natur genießen. Mittags führt uns der Weg in die David Risley Gallery, ein Zentrum für zeitgenössische Kunst. Nachmittags erwartet uns das faszinierende Barbie Museum mit seinen bunten Ausstellungen. Der Tag endet entspannt im Gandhiparken, wo wir die friedliche Atmosphäre der Stadt ausklingen lassen.",
+        "hu": "Reggel a Grundtvig-templom lenyűgöző építészetével kezdünk, majd a Lersøparken zöldjében frissülünk fel. Délben a David Risley Galéria kortárs művészeti kiállításait fedezzük fel. Délután a különleges Barbie Múzeum vár ránk, amely minden korosztályt elvarázsol. A napot a Gandhiparken békés környezetében zárjuk, élvezve a koppenhágai estét.",
+        "ro": "Dimineața admirăm arhitectura impresionantă a Bisericii Grundtvig, urmată de o plimbare relaxantă în Lersøparken. La prânz, explorăm arta contemporană la Galeria David Risley. După-amiaza ne bucurăm de o vizită inedită la Muzeul Barbie, plin de culoare și istorie. Seara se încheie liniștit în Gandhiparken, un loc perfect pentru a reflecta asupra zilei.",
+        "en": "In the morning, we marvel at the striking expressionist architecture of Grundtvig's Church before taking a stroll through Lersøparken. Midday brings us to the David Risley Gallery to admire contemporary art pieces. The afternoon features a quirky and colorful visit to the Barbie Museum. We wrap up our day relaxing in Gandhiparken, enjoying the peaceful evening vibe of the neighborhood."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Buddinge Batteri",
+            "hu": "Buddinge Batteri",
+            "ro": "Buddinge Batteri",
+            "en": "Buddinge Battery"
+          },
+          "coords": [
+            12.500453,
+            55.739047
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Militäranlagen, die heute von Natur überwuchert sind, und sichern Sie Ihr Fahrrad am besten direkt am Haupteingang.",
+            "hu": "Fedezze fel a természet által benőtt régi katonai létesítményeket, és kerékpárját a legjobb, ha közvetlenül a főbejáratnál rögzíti.",
+            "ro": "Explorați vechile instalații militare, acum invadate de natură, și asigurați-vă bicicleta chiar la intrarea principală.",
+            "en": "Explore the old military installations that are now overgrown by nature, and be sure to lock your bike securely right at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinghøj Batteri",
+            "hu": "Tinghøj Batteri",
+            "ro": "Tinghøj Batteri",
+            "en": "Tinghøj Battery"
+          },
+          "coords": [
+            12.491487,
+            55.735213
+          ],
+          "category": "fortress",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen Wälle dieses historischen Forts und achten Sie auf unebene Pfade, falls Sie Ihre Fahrradschuhe tragen.",
+            "hu": "Sétáljon végig a történelmi erőd jól megőrzött sáncain, és ügyeljen az egyenetlen utakra, ha kerékpáros cipőt visel.",
+            "ro": "Plimbați-vă de-a lungul meterezelor bine conservate ale acestui fort istoric și aveți grijă la potecile inegale dacă purtați încălțăminte de ciclism.",
+            "en": "Stroll along the remarkably well-preserved ramparts of this historic fort, and watch out for uneven paths if you are wearing cycling shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Garhøj",
+            "hu": "Garhøj",
+            "ro": "Garhøj",
+            "en": "Garhøj"
+          },
+          "coords": [
+            12.505633,
+            55.729163
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der Geschichte dieses alten Hügelgrabes faszinieren und nutzen Sie die Infotafeln vor Ort für spannende Hintergründe.",
+            "hu": "Hagyja, hogy lenyűgözze ennek az ősi halomsírnak a története, és használja a helyszíni információs táblákat az izgalmas háttér-információkért.",
+            "ro": "Lăsați-vă fascinați de istoria acestui tumul antic și folosiți panourile informative de la fața locului pentru detalii de fundal captivante.",
+            "en": "Let yourself be fascinated by the ancient history of this burial mound, and read the on-site information boards for some highly engaging context."
+          }
+        },
+        {
+          "name": {
+            "de": "Grundtvigskirche",
+            "hu": "Grundtvig-templom",
+            "ro": "Biserica Grundtvig",
+            "en": "Grundtvig's Church"
+          },
+          "coords": [
+            12.533894,
+            55.716584
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gewaltige, aus Millionen von gelben Ziegelsteinen erbaute Kirche und kommen Sie früh, um das magische Licht im Hauptschiff zu fotografieren.",
+            "hu": "Csodálja meg a sárga téglák millióiból épült monumentális templomot, és érkezzen korán, hogy elcsípje a varázslatos fényeket a főhajóban.",
+            "ro": "Admirați biserica monumentală construită din milioane de cărămizi galbene și veniți devreme pentru a fotografia lumina magică din nava principală.",
+            "en": "Marvel at the massive church built from millions of yellow bricks, and arrive early to capture the magical morning light streaming into the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellahøj",
+            "hu": "Bellahøj",
+            "ro": "Bellahøj",
+            "en": "Bellahøj"
+          },
+          "coords": [
+            12.51049,
+            55.702572
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie durch diese architektonisch bedeutende Gegend mit Dänemarks ersten Hochhäusern und genießen Sie die Aussicht von der leichten Anhöhe.",
+            "hu": "Tekerjen át ezen az építészetileg jelentős környéken, ahol Dánia első felhőkarcolói állnak, és élvezze a kilátást a szelíd emelkedőről.",
+            "ro": "Pedalați prin această zonă cu importanță arhitecturală, unde se află primii zgârie-nori din Danemarca, și bucurați-vă de priveliștea de pe colină.",
+            "en": "Cycle through this architecturally significant neighborhood featuring Denmark's first high-rises, and enjoy the lovely views from the gentle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellahøj Freilichtbühne",
+            "hu": "Bellahøj Szabadtéri Színpad",
+            "ro": "Scena în aer liber Bellahøj",
+            "en": "Bellahøj Open-Air Stage"
+          },
+          "coords": [
+            12.508703,
+            55.702834
+          ],
+          "category": "cultural",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser historischen Freilichtbühne im Grünen und prüfen Sie vorher online, ob vielleicht eine lokale Abendveranstaltung stattfindet.",
+            "hu": "Pihenjen meg ennél a zöldellő történelmi szabadtéri színpadnál, és előzetesen ellenőrizze online, hogy van-e esetleg valamilyen helyi esti rendezvény.",
+            "ro": "Relaxați-vă la această scenă istorică în aer liber înconjurată de verdeață și verificați online în prealabil dacă are loc un eveniment local de seară.",
+            "en": "Unwind at this historic open-air stage surrounded by greenery, and check online beforehand to see if a local evening event is scheduled."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet sportlich bei der historischen Befestigungsanlage Buddinge Batteri, gefolgt vom nahegelegenen Tinghøj Batteri. Mittags radeln wir zum Garhøj und besichtigen anschließend die majestätische Grundtvigskirche. Der Nachmittag bringt uns in den Stadtteil Bellahøj, wo wir historische Pfade erkunden. Abends genießen wir die freie Luft an der Bellahøj Friluftsscene und blicken auf einen aktiven Tag zurück.",
+        "hu": "A reggel sportosan indul a Buddinge Batteri erődítményénél, amelyet a közeli Tinghøj Batteri követ. Délben a Garhøjhoz tekerünk, majd meglátogatjuk a fenséges Grundtvig-templomot. Délután a Bellahøj negyedbe érkezünk, ahol történelmi ösvényeket barangolunk be. Este a Bellahøj Friluftsscene szabadtéri színpadánál pihenünk meg egy aktív nap után.",
+        "ro": "Dimineața începe în forță la fortificația istorică Buddinge Batteri, urmată de Tinghøj Batteri. La prânz pedalăm spre Garhøj, vizitând apoi maiestuoasa Biserică Grundtvig. După-amiaza ajungem în cartierul Bellahøj pentru a explora poteci istorice. Seara ne relaxăm în aer liber la Bellahøj Friluftsscene, după o zi plină de mișcare.",
+        "en": "Our morning kicks off actively at the historic Buddinge Battery, followed quickly by the nearby Tinghøj Battery. Midday finds us cycling to Garhøj before marveling at the majestic Grundtvig's Church. The afternoon brings us to the Bellahøj area, where we trace historical pathways. We finish the evening outdoors at the Bellahøj Friluftsscene, reflecting on a highly active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mindelunden",
+            "hu": "Mindelunden",
+            "ro": "Mindelunden",
+            "en": "Mindelunden"
+          },
+          "coords": [
+            12.565933,
+            55.72589
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen würdevollen Gedenkpark am frühen Morgen, wenn der Nebel noch über den Gräbern liegt, und parken Sie direkt auf dem Besucherparkplatz.",
+            "hu": "Látogassa meg ezt a méltóságteljes emlékparkot kora reggel, amikor a köd még a sírok felett lebeg, és parkoljon közvetlenül a látogatói parkolóban.",
+            "ro": "Vizitați acest parc memorial plin de demnitate dis-de-dimineață, când ceața încă plutește deasupra mormintelor, și parcați în parcarea vizitatorilor.",
+            "en": "Visit this dignified memorial park early in the morning for a serene atmosphere, and park your car conveniently in the dedicated visitor lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ellehøi",
+            "hu": "Ellehøi",
+            "ro": "Ellehøi",
+            "en": "Ellehøi"
+          },
+          "coords": [
+            12.540923,
+            55.730895
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Stätte und tragen Sie festes Schuhwerk, da das Gelände rund um das Denkmal oft feucht und rutschig ist.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi helyszínt, és viseljen zárt cipőt, mivel az emlékmű körüli terep gyakran nedves és csúszós.",
+            "ro": "Explorați acest sit istoric fascinant și purtați încălțăminte rezistentă, deoarece terenul din jurul monumentului este adesea umed și alunecos.",
+            "en": "Explore this fascinating historical site up close, but make sure to wear sturdy shoes as the surrounding ground can often be quite damp and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Grundtvigskirche",
+            "hu": "Grundtvig-templom",
+            "ro": "Biserica Grundtvig",
+            "en": "Grundtvig's Church"
+          },
+          "coords": [
+            12.533894,
+            55.716584
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gewaltige, aus Millionen von gelben Ziegelsteinen erbaute Kirche und kommen Sie früh, um das magische Licht im Hauptschiff zu fotografieren.",
+            "hu": "Csodálja meg a sárga téglák millióiból épült monumentális templomot, és érkezzen korán, hogy elcsípje a varázslatos fényeket a főhajóban.",
+            "ro": "Admirați biserica monumentală construită din milioane de cărămizi galbene și veniți devreme pentru a fotografia lumina magică din nava principală.",
+            "en": "Marvel at the massive church built from millions of yellow bricks, and arrive early to capture the magical morning light streaming into the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Guldbergs Plads",
+            "hu": "Guldbergs Plads",
+            "ro": "Guldbergs Plads",
+            "en": "Guldbergs Plads"
+          },
+          "coords": [
+            12.553899,
+            55.697207
+          ],
+          "category": "park",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie das pulsierende Stadtteilleben auf diesem Platz und holen Sie sich einen Kaffee bei den lokalen Röstern gleich um die Ecke.",
+            "hu": "Élvezze a nyüzsgő városi életet ezen a téren, és szerezzen be egy kávét a helyi pörkölőktől közvetlenül a sarkon.",
+            "ro": "Bucurați-vă de viața vibrantă a cartierului în această piață și luați o cafea de la prăjitoriile locale aflate chiar după colț.",
+            "en": "Soak up the vibrant neighborhood life buzzing through this lively square, and grab an artisanal coffee from the local roasters just around the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Nørrebroparken",
+            "hu": "Nørrebroparken",
+            "ro": "Nørrebroparken",
+            "en": "Nørrebroparken"
+          },
+          "coords": [
+            12.541915,
+            55.695359
+          ],
+          "category": "park",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie über die breiten Wege dieses Parks, der einst eine Eisenbahnstrecke war, und lassen Sie Ihr Auto auf den ausgewiesenen Parkflächen in der Nähe.",
+            "hu": "Sétáljon végig a park széles ösvényein, amely egykor vasútvonal volt, és hagyja autóját a közeli kijelölt parkolóhelyeken.",
+            "ro": "Plimbați-vă pe aleile largi ale acestui parc, odinioară o linie de cale ferată, și lăsați mașina în locurile de parcare amenajate din apropiere.",
+            "en": "Stroll along the broad pathways of this park that used to be a railway line, and leave your car safely in the designated parking zones nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser motorisierter Ausflug beginnt im beeindruckenden Mindelunden, einem Ort der Erinnerung und Ruhe. Vormittags fahren wir zum Ellehøi, um in die tiefe Geschichte der Region einzutauchen. Gegen Mittag erreichen wir die Grundtvigskirche, deren Architektur uns den Atem rauben wird. Nachmittags parken wir nahe Guldbergs Plads, und der Tag endet mit einem herrlichen Spaziergang durch den weitläufigen Nørrebroparken.",
+        "hu": "Autós kirándulásunk az impozáns Mindelundenben kezdődik, amely az emlékezés és a nyugalom helyszíne. Délelőtt az Ellehøi-hoz vezetünk, hogy elmerüljünk a régió mély történelmében. Dél körül érjük el a Grundtvig-templomot, amelynek építészete elállítja a lélegzetünket. Délután a Guldbergs Plads közelében parkolunk, és a napot egy csodálatos sétával zárjuk a tágas Nørrebroparkenben.",
+        "ro": "Excursia noastră motorizată începe în impresionantul Mindelunden, un loc de amintire și liniște. Dimineața conducem spre Ellehøi pentru a pătrunde în istoria profundă a regiunii. În jurul prânzului ajungem la Biserica Grundtvig, a cărei arhitectură ne va tăia respirația. După-amiaza parcăm lângă Guldbergs Plads, iar ziua se încheie cu o plimbare superbă prin vastul Nørrebroparken.",
+        "en": "Our driving tour commences at the moving Mindelunden memorial park, offering a moment of quiet reflection. Later in the morning, we drive to Ellehøi to dive into the deep local history. Around noon, we arrive at the breathtakingly beautiful Grundtvig's Church. The afternoon sees us parking near Guldbergs Plads, and our evening concludes perfectly with a lovely stroll through Nørrebroparken."
+      }
+    }
+  }
+}

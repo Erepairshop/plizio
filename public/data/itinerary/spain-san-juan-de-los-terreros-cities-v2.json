@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-san-juan-de-los-terreros-cities-v2",
+  "anchor": {
+    "name": "San Juan de los Terreros",
+    "coords": [
+      -1.66367,
+      37.36081
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Mar Serena",
+            "hu": "Playa Mar Serena",
+            "ro": "Playa Mar Serena",
+            "en": "Playa Mar Serena"
+          },
+          "coords": [
+            -1.670864,
+            37.357247
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das ruhige Wasser dieses familienfreundlichen Strandes, aber kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a finom homokot és a nyugodt vizet ezen a családbarát strandon, de érkezzen korán, hogy biztosan találjon egy jó árnyékos helyet magának.",
+            "ro": "Bucurați-vă de nisipul fin și apele liniștite ale acestei plaje perfecte pentru familii, dar veniți devreme pentru a vă asigura un loc bun la soare.",
+            "en": "Enjoy the fine golden sand and calm shallow waters of this family-friendly beach, but arrive early to secure a good spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Mar Rabiosa",
+            "hu": "Playa Mar Rabiosa",
+            "ro": "Playa Mar Rabiosa",
+            "en": "Playa Mar Rabiosa"
+          },
+          "coords": [
+            -1.667096,
+            37.358075
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine, malerische Bucht mit exzellenten Bademöglichkeiten, packen Sie jedoch Wasserschuhe ein, um die felsigen Ränder zu erkunden.",
+            "hu": "Fedezze fel ezt a festői kis öblöt, amely kiváló fürdési lehetőségeket kínál, de vigyen magával vízicipőt a sziklás szélek biztonságos felfedezéséhez.",
+            "ro": "Descoperiți acest mic golf pitoresc care oferă condiții excelente de înot, dar luați-vă încălțăminte de apă pentru a explora marginile stâncoase.",
+            "en": "Discover this small, picturesque cove offering excellent swimming conditions, but make sure to pack water shoes to safely explore its rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala La Invencible",
+            "hu": "Cala La Invencible",
+            "ro": "Cala La Invencible",
+            "en": "Cala La Invencible"
+          },
+          "coords": [
+            -1.656473,
+            37.356393
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie im kristallklaren Wasser dieser versteckten Bucht, wo die Meeresfauna beeindruckend ist; bringen Sie Ihre eigene Ausrüstung mit.",
+            "hu": "Sznorkelezzen ennek a rejtett öbölnek a kristálytiszta vizében, ahol a tengeri élővilág lenyűgöző; mindenképpen hozza el a saját felszerelését.",
+            "ro": "Faceți snorkeling în apele cristaline ale acestui golf ascuns, unde fauna marină este impresionantă; asigurați-vă că aduceți propriul echipament.",
+            "en": "Snorkel in the crystal-clear waters of this hidden cove where the marine life is quite impressive; be sure to bring your own gear as there are no rentals."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Juan de los Terreros",
+            "hu": "Castillo de San Juan de los Terreros",
+            "ro": "Castillo de San Juan de los Terreros",
+            "en": "Castillo de San Juan de los Terreros"
+          },
+          "coords": [
+            -1.651901,
+            37.357222
+          ],
+          "category": "castle",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese Küstenfestung aus dem 18. Jahrhundert wegen ihrer spektakulären Aussicht, und buchen Sie die virtuelle Führung im Voraus.",
+            "hu": "Látogassa meg ezt a 18. századi tengerparti erődöt a látványos panorámáért, és érdemes előre lefoglalni a lenyűgöző virtuális valóság túrát is.",
+            "ro": "Vizitați această fortăreață de coastă din secolul al XVIII-lea pentru priveliștile sale spectaculoase și rezervați turul virtual cu anticipație.",
+            "en": "Visit this 18th-century coastal fortress for its spectacular panoramic views, and remember to book the virtual reality tour in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+          },
+          "coords": [
+            -1.651016,
+            37.351762
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vulkanischen Inseln, die wichtigen Seevögeln Schutz bieten; ein Fernglas ist ideal, um die nistenden Arten besser zu beobachten.",
+            "hu": "Csodálja meg a vulkanikus szigeteket, amelyek tengeri madaraknak adnak otthont; egy távcső ideális a fészkelő fajok részletesebb megfigyeléséhez.",
+            "ro": "Admirați insulele vulcanice care oferă adăpost păsărilor marine; un binoclu este ideal pentru a observa mai bine speciile care cuibăresc aici.",
+            "en": "Admire the volcanic islands that provide vital shelter to marine birds; bringing binoculars is ideal to better observe the nesting species from the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einem entspannten Spaziergang entlang der goldenen Strände von Mar Serena und Mar Rabiosa im Herzen des Ortes. Mittags entdecken Sie die versteckte Bucht Cala La Invencible mit ihrem kristallklaren Wasser. Am Nachmittag erklimmen Sie die historische Burg Castillo de San Juan für einen fantastischen Panoramablick. Abends bewundern Sie die unberührten Inseln im Abendlicht.",
+        "hu": "A nap egy pihentető sétával indul a Mar Serena és a Mar Rabiosa aranyhomokos tengerpartjain a város szívében. Délben felfedezzük a rejtett Cala La Invencible öblöt és annak kristálytiszta vizét. Délután megmásszuk a történelmi Castillo de San Juan várat a fantasztikus panorámáért. Este a partról megcsodáljuk az érintetlen vulkanikus szigetek sziluettjét a lemenő nap fényében.",
+        "ro": "Ziua începe cu o plimbare relaxantă de-a lungul plajelor aurii Mar Serena și Mar Rabiosa, aflate în inima stațiunii. La prânz veți descoperi golful ascuns Cala La Invencible și apele sale cristaline. După-amiaza veți urca la istoricul castel San Juan pentru o panoramă fantastică asupra coastei. Seara veți admira silueta insulelor vulcanice protejate în lumina caldă a apusului.",
+        "en": "The day begins with a relaxing stroll along the golden sands of Mar Serena and Mar Rabiosa in the heart of town. At midday, discover the hidden cove of Cala La Invencible with its crystal-clear waters. In the afternoon, climb up to the historic Castillo de San Juan for a fantastic panoramic view of the coast. The evening ends admiring the pristine volcanic islands in the sunset light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa La Entrevista",
+            "hu": "Playa La Entrevista",
+            "ro": "Playa La Entrevista",
+            "en": "Playa La Entrevista"
+          },
+          "coords": [
+            -1.683684,
+            37.345598
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren, von Palmen gesäumten Strand mit seiner faszinierenden geologischen Geschichte, perfekt für einen ruhigen Spaziergang.",
+            "hu": "Pihenjen ezen a csendesebb, pálmafákkal szegélyezett és lenyűgöző geológiai múlttal rendelkező strandon, amely tökéletes egy nyugodt sétához.",
+            "ro": "Relaxați-vă pe această plajă mai liniștită, mărginită de palmieri, cu istoria sa geologică fascinantă, perfectă pentru o plimbare revigorantă.",
+            "en": "Relax on this quieter, palm-fringed beach with its fascinating geological background, making it the perfect spot for a peaceful seaside stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Terreros",
+            "hu": "Playa de Terreros",
+            "ro": "Playa de Terreros",
+            "en": "Playa de Terreros"
+          },
+          "coords": [
+            -1.67409,
+            37.35539
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den belebtesten Strand der Gegend mit seinem weichen Sand und nutzen Sie die hervorragenden Strandbars für ein authentisches Mittagessen.",
+            "hu": "Látogasson el a környék legnyüzsgőbb, finom homokos strandjára, és próbálja ki a kiváló parti bárokat egy autentikus és finom ebédhez.",
+            "ro": "Vizitați cea mai animată plajă din zonă, cu nisipul său fin, și profitați de excelentele baruri pe plajă pentru un prânz spaniol autentic.",
+            "en": "Visit the liveliest beach in the area with its soft sand, and take advantage of the excellent beach bars to enjoy an authentic local lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Mar Rabiosa",
+            "hu": "Playa Mar Rabiosa",
+            "ro": "Playa Mar Rabiosa",
+            "en": "Playa Mar Rabiosa"
+          },
+          "coords": [
+            -1.667096,
+            37.358075
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine, malerische Bucht mit exzellenten Bademöglichkeiten, packen Sie jedoch Wasserschuhe ein, um die felsigen Ränder zu erkunden.",
+            "hu": "Fedezze fel ezt a festői kis öblöt, amely kiváló fürdési lehetőségeket kínál, de vigyen magával vízicipőt a sziklás szélek biztonságos felfedezéséhez.",
+            "ro": "Descoperiți acest mic golf pitoresc care oferă condiții excelente de înot, dar luați-vă încălțăminte de apă pentru a explora marginile stâncoase.",
+            "en": "Discover this small, picturesque cove offering excellent swimming conditions, but make sure to pack water shoes to safely explore its rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Juan de los Terreros",
+            "hu": "Castillo de San Juan de los Terreros",
+            "ro": "Castillo de San Juan de los Terreros",
+            "en": "Castillo de San Juan de los Terreros"
+          },
+          "coords": [
+            -1.651901,
+            37.357222
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese Küstenfestung aus dem 18. Jahrhundert wegen ihrer spektakulären Aussicht, und buchen Sie die virtuelle Führung im Voraus.",
+            "hu": "Látogassa meg ezt a 18. századi tengerparti erődöt a látványos panorámáért, és érdemes előre lefoglalni a lenyűgöző virtuális valóság túrát is.",
+            "ro": "Vizitați această fortăreață de coastă din secolul al XVIII-lea pentru priveliștile sale spectaculoase și rezervați turul virtual cu anticipație.",
+            "en": "Visit this 18th-century coastal fortress for its spectacular panoramic views, and remember to book the virtual reality tour in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa la Carolina",
+            "hu": "Playa la Carolina",
+            "ro": "Playa la Carolina",
+            "en": "Playa la Carolina"
+          },
+          "coords": [
+            -1.644118,
+            37.371648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die wildere Schönheit dieses Strandes mit seinen sanften Dünen, aber achten Sie auf die manchmal starken Strömungen beim Schwimmen.",
+            "hu": "Élvezze e strand vadabb szépségét és finom homokdűnéit, de fürdőzéskor mindig ügyeljen a helyenként előforduló erős tengeráramlatokra.",
+            "ro": "Bucurați-vă de frumusețea mai sălbatică a acestei plaje cu dune, dar fiți atenți la curenții care pot fi uneori puternici atunci când înotați.",
+            "en": "Enjoy the wilder natural beauty of this beach and its gentle dunes, but always pay attention to the sometimes strong currents when swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Playa La Entrevista und genießen Sie die frische Meeresbrise. Fahren Sie weiter zur lebhaften Playa de Terreros und zur familienfreundlichen Playa Mar Rabiosa für eine Erfrischung. Nachmittags radeln Sie leicht bergauf zum historischen Castillo, um die Küste von oben zu sehen. Beenden Sie den Tag an der malerischen Playa la Carolina am Strand.",
+        "hu": "Kezdje a kerékpártúrát a csendes Playa La Entrevista parton, élvezve a friss tengeri szellőt. Tekerjen tovább a nyüzsgő Playa de Terreros és a családbarát Mar Rabiosa strandokhoz egy kis frissítő fürdőzésre. Délután egy enyhe emelkedőn jussunk fel a történelmi várkastélyhoz a csodás kilátásért. A napot a festői Playa la Carolina finom homokos partján zárjuk pihenéssel.",
+        "ro": "Începeți turul cu bicicleta la liniștita Playa La Entrevista, bucurându-vă de briza mării. Pedalați apoi spre vibranta Playa de Terreros și Mar Rabiosa, potrivite pentru o baie răcoroasă. După-amiaza urcați ușor spre castelul istoric pentru a admira coasta de la înălțime. Încheiați ziua relaxându-vă pe nisipul fin al pitoreștii plaje La Carolina.",
+        "en": "Start your cycling tour at the quiet Playa La Entrevista, enjoying the fresh sea breeze along the coast. Ride on to the vibrant Playa de Terreros and family-friendly Mar Rabiosa for a refreshing swim. In the afternoon, pedal up the gentle incline to the historic castle to view the coastline from above. End your active day relaxing on the picturesque sands of Playa la Carolina."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa la Carolina",
+            "hu": "Playa la Carolina",
+            "ro": "Playa la Carolina",
+            "en": "Playa la Carolina"
+          },
+          "coords": [
+            -1.644118,
+            37.371648
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die wildere Schönheit dieses Strandes mit seinen sanften Dünen, aber achten Sie auf die manchmal starken Strömungen beim Schwimmen.",
+            "hu": "Élvezze e strand vadabb szépségét és finom homokdűnéit, de fürdőzéskor mindig ügyeljen a helyenként előforduló erős tengeráramlatokra.",
+            "ro": "Bucurați-vă de frumusețea mai sălbatică a acestei plaje cu dune, dar fiți atenți la curenții care pot fi uneori puternici atunci când înotați.",
+            "en": "Enjoy the wilder natural beauty of this beach and its gentle dunes, but always pay attention to the sometimes strong currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Juan de los Terreros",
+            "hu": "Castillo de San Juan de los Terreros",
+            "ro": "Castillo de San Juan de los Terreros",
+            "en": "Castillo de San Juan de los Terreros"
+          },
+          "coords": [
+            -1.651901,
+            37.357222
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese Küstenfestung aus dem 18. Jahrhundert wegen ihrer spektakulären Aussicht, und buchen Sie die virtuelle Führung im Voraus.",
+            "hu": "Látogassa meg ezt a 18. századi tengerparti erődöt a látványos panorámáért, és érdemes előre lefoglalni a lenyűgöző virtuális valóság túrát is.",
+            "ro": "Vizitați această fortăreață de coastă din secolul al XVIII-lea pentru priveliștile sale spectaculoase și rezervați turul virtual cu anticipație.",
+            "en": "Visit this 18th-century coastal fortress for its spectacular panoramic views, and remember to book the virtual reality tour in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+            "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+          },
+          "coords": [
+            -1.651016,
+            37.351762
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vulkanischen Inseln, die wichtigen Seevögeln Schutz bieten; ein Fernglas ist ideal, um die nistenden Arten besser zu beobachten.",
+            "hu": "Csodálja meg a vulkanikus szigeteket, amelyek tengeri madaraknak adnak otthont; egy távcső ideális a fészkelő fajok részletesebb megfigyeléséhez.",
+            "ro": "Admirați insulele vulcanice care oferă adăpost păsărilor marine; un binoclu este ideal pentru a observa mai bine speciile care cuibăresc aici.",
+            "en": "Admire the volcanic islands that provide vital shelter to marine birds; bringing binoculars is ideal to better observe the nesting species from the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Terreros",
+            "hu": "Playa de Terreros",
+            "ro": "Playa de Terreros",
+            "en": "Playa de Terreros"
+          },
+          "coords": [
+            -1.67409,
+            37.35539
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den belebtesten Strand der Gegend mit seinem weichen Sand und nutzen Sie die hervorragenden Strandbars für ein authentisches Mittagessen.",
+            "hu": "Látogasson el a környék legnyüzsgőbb, finom homokos strandjára, és próbálja ki a kiváló parti bárokat egy autentikus és finom ebédhez.",
+            "ro": "Vizitați cea mai animată plajă din zonă, cu nisipul său fin, și profitați de excelentele baruri pe plajă pentru un prânz spaniol autentic.",
+            "en": "Visit the liveliest beach in the area with its soft sand, and take advantage of the excellent beach bars to enjoy an authentic local lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Bellavista",
+            "hu": "Playa Bellavista",
+            "ro": "Playa Bellavista",
+            "en": "Playa Bellavista"
+          },
+          "coords": [
+            -1.67914,
+            37.350582
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen weitläufigen, ruhigen Sandstrand für ein entspanntes Sonnenbad, ideal um dem Trubel der zentralen Strände am Nachmittag zu entfliehen.",
+            "hu": "Használja ki ezt a tágas, csendes homokos strandot egy pihentető napozásra, amely ideális a központi strandok délutáni nyüzsgésének elkerülésére.",
+            "ro": "Profitați de această plajă spațioasă și liniștită pentru a face plajă, ideală pentru a scăpa de agitația plajelor centrale în timpul după-amiezii.",
+            "en": "Take advantage of this spacious, quiet sandy beach for a relaxing sunbath, making it an ideal escape from the bustle of the central beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa La Entrevista",
+            "hu": "Playa La Entrevista",
+            "ro": "Playa La Entrevista",
+            "en": "Playa La Entrevista"
+          },
+          "coords": [
+            -1.683684,
+            37.345598
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren, von Palmen gesäumten Strand mit seiner faszinierenden geologischen Geschichte, perfekt für einen ruhigen Spaziergang.",
+            "hu": "Pihenjen ezen a csendesebb, pálmafákkal szegélyezett és lenyűgöző geológiai múlttal rendelkező strandon, amely tökéletes egy nyugodt sétához.",
+            "ro": "Relaxați-vă pe această plajă mai liniștită, mărginită de palmieri, cu istoria sa geologică fascinantă, perfectă pentru o plimbare revigorantă.",
+            "en": "Relax on this quieter, palm-fringed beach with its fascinating geological background, making it the perfect spot for a peaceful seaside stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an der herrlichen Playa la Carolina, bevor es voll wird, und genießen Sie die Ruhe. Fahren Sie dann zum Castillo und zum Aussichtspunkt, um die historische Festung und die Naturinseln zu bewundern. Am Nachmittag geht es ins Zentrum zur beliebten Playa de Terreros für eine Pause am Meer. Der Abend klingt entspannt an den ruhigen Stränden Bellavista und La Entrevista aus.",
+        "hu": "Kezdje a napot a gyönyörű Playa la Carolina strandon a tömeg érkezése előtt, élvezve a reggeli nyugalmat. Ezután hajtson a várhoz és a kilátóhoz, hogy megcsodálja a történelmi erődöt és a vulkanikus szigeteket. Délután irány a központi Playa de Terreros egy tengerparti pihenésre. Az este kellemes levezetéssel zárul a nyugodt Bellavista és La Entrevista partoknál.",
+        "ro": "Începeți ziua la superba plajă La Carolina înainte să se aglomereze, bucurându-vă de liniștea dimineții. Conduceți apoi spre castel și punctul de belvedere pentru a admira fortăreața și insulele naturale. După-amiaza mergeți în centru la populara Playa de Terreros pentru o pauză relaxantă la mare. Seara se încheie liniștit pe plajele retrase Bellavista și La Entrevista.",
+        "en": "Start your day at the gorgeous Playa la Carolina before the crowds arrive, enjoying the early morning peace. Drive up to the castle and the scenic viewpoint to admire the historic fortress and the protected islands. In the afternoon, head into the center to the popular Playa de Terreros for a seaside break. The evening winds down beautifully at the quiet Bellavista and La Entrevista beaches."
+      }
+    }
+  }
+}

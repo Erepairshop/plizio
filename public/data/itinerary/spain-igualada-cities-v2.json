@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-igualada-cities-v2",
+  "anchor": {
+    "name": "Igualada",
+    "coords": [
+      1.617222,
+      41.581111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ledermuseum von Igualada",
+            "hu": "Igualada Bőrmúzeuma",
+            "ro": "Muzeul Pielăriei din Igualada",
+            "en": "Leather Museum of Igualada"
+          },
+          "coords": [
+            1.613843,
+            41.577161
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie die reiche Geschichte der Lederherstellung in dieser faszinierenden Fabrik und achten Sie auf die historischen Werkzeuge.",
+            "hu": "Fedezze fel a bőrgyártás gazdag történetét ebben a lenyűgöző gyárépületben, és ne hagyja ki a korabeli, hagyományos munkaeszközöket sem.",
+            "ro": "Explorați istoria bogată a producției de piele în această fabrică fascinantă și asigurați-vă că nu ratați uneltele tradiționale de epocă.",
+            "en": "Explore the rich history of leather manufacturing in this fascinating former factory, and be sure to look closely at the vintage traditional tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen Plaça de la Creu",
+            "hu": "Plaça de la Creu szökőkút",
+            "ro": "Fântâna Plaça de la Creu",
+            "en": "Plaça de la Creu Fountain"
+          },
+          "coords": [
+            1.615178,
+            41.578645
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das erfrischende Ambiente an diesem charmanten historischen Brunnen, einem perfekten Ort für ein kurzes Foto im Herzen der Stadt.",
+            "hu": "Élvezze a frissítő hangulatot ennél a bájos történelmi kútnál, amely tökéletes helyszín egy gyors fotóhoz a város szívében.",
+            "ro": "Bucurați-vă de atmosfera răcoritoare la această fântână istorică fermecătoare, un loc perfect pentru o fotografie rapidă în inima orașului.",
+            "en": "Enjoy the refreshing ambiance at this charming historical fountain, which serves as a perfect spot for a quick photo in the city's heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Portal d'en Vives Tor",
+            "hu": "Portal d'en Vives kapu",
+            "ro": "Poarta Portal d'en Vives",
+            "en": "Portal d'en Vives Gate"
+          },
+          "coords": [
+            1.616665,
+            41.578018
+          ],
+          "category": "fortress",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Durchqueren Sie dieses alte Stadttor, das einst Teil der Verteidigungsmauern war, und stellen Sie sich das mittelalterliche Leben von Igualada vor.",
+            "hu": "Sétáljon át ezen az ősi városkapun, amely egykor a védőfalak része volt, és képzelje el a középkori Igualada nyüzsgő mindennapjait.",
+            "ro": "Treceți prin această poartă antică a orașului, odată parte a zidurilor de apărare, și imaginați-vă viața medievală vibrantă din Igualada.",
+            "en": "Walk through this ancient city gate that was once part of the defensive walls, and take a moment to imagine medieval life in vibrant Igualada."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            1.618291,
+            41.578754
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Renaissance-Fassade dieser majestätischen Kirche und achten Sie besonders auf das prächtige Retabel im Inneren.",
+            "hu": "Csodálja meg e fenséges templom lenyűgöző reneszánsz homlokzatát, és szenteljen különös figyelmet a gazdagon díszített belső oltárképnek.",
+            "ro": "Admirați impresionanta fațadă renascentistă a acestei biserici maiestuoase și acordați o atenție deosebită retablului magnific din interior.",
+            "en": "Admire the impressive Renaissance facade of this majestic church, and pay special attention to the richly decorated magnificent altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Ateneu Igualadí",
+            "hu": "Ateneu Igualadí Színház",
+            "ro": "Teatrul Ateneu Igualadí",
+            "en": "Ateneu Igualadí Theater"
+          },
+          "coords": [
+            1.62041,
+            41.5798
+          ],
+          "category": "cultural",
+          "arrive_at": "13:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses kulturelle Zentrum, dessen historische Architektur beeindruckt, und werfen Sie einen Blick auf das laufende Veranstaltungsprogramm.",
+            "hu": "Fedezze fel ezt a kulturális központot, amelynek történelmi építészete magával ragadó, és nézze meg a folyamatban lévő izgalmas programokat.",
+            "ro": "Descoperiți acest centru cultural a cărui arhitectură istorică impresionează și aruncați o privire la programul captivant de evenimente în curs.",
+            "en": "Discover this lively cultural center whose historical architecture truly impresses, and check out the ongoing exciting community event program."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurora Theater",
+            "hu": "Aurora Színház",
+            "ro": "Teatrul Aurora",
+            "en": "Aurora Theater"
+          },
+          "coords": [
+            1.616943,
+            41.58095
+          ],
+          "category": "cultural",
+          "arrive_at": "14:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebhafte moderne Theater und informieren Sie sich am Ticketschalter über aktuelle lokale und zeitgenössische Aufführungen.",
+            "hu": "Látogasson el ebbe a nyüzsgő modern színházba, és érdeklődjön a jegypénztárnál a legújabb helyi és kortárs előadásokról.",
+            "ro": "Vizitați acest teatru modern plin de viață și întrebați la casa de bilete despre cele mai recente spectacole locale și contemporane.",
+            "en": "Visit this vibrant modern theater, and be sure to ask at the ticket counter about the latest local and contemporary artistic performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem faszinierenden Einblick in die lokale Lederindustrie. Am Vormittag spazieren Sie an charmanten historischen Brunnen und alten Stadttoren vorbei, die Igualadas reiche Vergangenheit erlebbar machen. Der Nachmittag ist der prächtigen Basilika und dem beeindruckenden Ateneu gewidmet. Lassen Sie den Tag mit einem Hauch von lokaler Kultur am Theater entspannt ausklingen.",
+        "hu": "Kezdje a napot a helyi bőripar lenyűgöző történetének megismerésével. Délelőtt sétáljon el a bájos történelmi kutak és ősi városkapuk mellett, amelyek Igualada gazdag múltját idézik. A délutánt a fenséges bazilika és a lenyűgöző Ateneu felfedezésének szenteljük. Zárja a napot a színháznál, átadva magát a helyi kultúra és művészet pezsgő hangulatának.",
+        "ro": "Începeți ziua cu o perspectivă fascinantă asupra industriei locale a pielăriei. Dimineața, plimbați-vă pe lângă fântâni istorice fermecătoare și porți vechi ale orașului, retrăind trecutul bogat al Igualadei. După-amiaza este dedicată maiestuoasei bazilici și impresionantului Ateneu. Încheiați ziua relaxant la teatru, bucurându-vă de o notă vibrantă de cultură locală.",
+        "en": "Start your day with a fascinating insight into the local leather industry's heritage. Midday, stroll past charming historical fountains and ancient city gates that bring Igualada's rich past to life. The afternoon is dedicated to exploring the majestic basilica and the impressive Ateneu building. Conclude your day with a touch of local culture at the modern theater in a relaxed atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sagrada Família",
+            "hu": "Sagrada Família templom",
+            "ro": "Biserica Sagrada Família",
+            "en": "Sagrada Família Church"
+          },
+          "coords": [
+            1.617642,
+            41.586121
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche und nutzen Sie das wunderbare Morgenlicht für faszinierende architektonische Fotos.",
+            "hu": "Csodálja meg e lenyűgöző templom modern építészetét, és használja ki a csodálatos reggeli fényeket a lenyűgöző építészeti fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura modernă a acestei biserici impresionante și profitați de lumina minunată a dimineții pentru fotografii arhitecturale fascinante.",
+            "en": "Admire the modern architecture of this impressive church building, and make sure to take advantage of the beautiful morning light for great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Balsareny Lokomotive Nr. 27",
+            "hu": "27-es Balsareny Mozdony",
+            "ro": "Locomotiva Balsareny nr. 27",
+            "en": "Balsareny Locomotive No. 27"
+          },
+          "coords": [
+            1.615762,
+            41.582597
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese historische Lokomotive, ein echtes Industriedenkmal, und achten Sie auf die gut erhaltenen mechanischen Details an den Rädern.",
+            "hu": "Tekintse meg ezt a történelmi mozdonyt, amely egy igazi ipari műemlék, és figyelje meg a kerekeken lévő jól megőrzött mechanikai részleteket.",
+            "ro": "Priviți această locomotivă istorică, un adevărat monument industrial, și acordați atenție detaliilor mecanice bine conservate de pe roți.",
+            "en": "Take a look at this historical locomotive, a true industrial monument, and carefully observe the well-preserved mechanical details on its large wheels."
+          }
+        },
+        {
+          "name": {
+            "de": "Asyl Sant Crist",
+            "hu": "Sant Crist Menedékhely",
+            "ro": "Azilul Sant Crist",
+            "en": "Asylum of Sant Crist"
+          },
+          "coords": [
+            1.609737,
+            41.582862
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der beeindruckenden modernistischen Architektur dieses religiösen Asyls verzaubern und genießen Sie die Ruhe im Außenbereich.",
+            "hu": "Hagyja, hogy elvarázsolja e vallási menedékhely lenyűgöző modernista építészete, és élvezze a csendet és békét a tágas külső udvaron sétálva.",
+            "ro": "Lăsați-vă fermecați de arhitectura modernistă impresionantă a acestui azil religios și bucurați-vă de liniștea din curtea exterioară spațioasă.",
+            "en": "Let yourself be enchanted by the impressive modernist architecture of this religious asylum, and enjoy a moment of absolute peace in the outdoor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledermuseum von Igualada",
+            "hu": "Igualada Bőrmúzeuma",
+            "ro": "Muzeul Pielăriei din Igualada",
+            "en": "Leather Museum of Igualada"
+          },
+          "coords": [
+            1.613843,
+            41.577161
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erforschen Sie die reiche Geschichte der Lederherstellung in dieser faszinierenden Fabrik und achten Sie auf die historischen Werkzeuge.",
+            "hu": "Fedezze fel a bőrgyártás gazdag történetét ebben a lenyűgöző gyárépületben, és ne hagyja ki a korabeli, hagyományos munkaeszközöket sem.",
+            "ro": "Explorați istoria bogată a producției de piele în această fabrică fascinantă și asigurați-vă că nu ratați uneltele tradiționale de epocă.",
+            "en": "Explore the rich history of leather manufacturing in this fascinating former factory, and be sure to look closely at the vintage traditional tools."
+          }
+        },
+        {
+          "name": {
+            "de": "El Bou de Montbui",
+            "hu": "El Bou de Montbui",
+            "ro": "El Bou de Montbui",
+            "en": "El Bou de Montbui"
+          },
+          "coords": [
+            1.608078,
+            41.575383
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende historische Wahrzeichen in der Natur und tragen Sie unbedingt festes Schuhwerk für den kurzen Weg dorthin.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi mérföldkövet a természetben, és mindenképpen viseljen kényelmes, zárt cipőt a rövid erdei sétához.",
+            "ro": "Explorați acest fascinant punct de reper istoric în natură și asigurați-vă că purtați încălțăminte robustă pentru scurta plimbare până acolo.",
+            "en": "Explore this fascinating historical landmark set in nature, and make sure you wear sturdy walking shoes for the short natural path leading to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Vilanova del Camí",
+            "hu": "Vilanova del Camí Városháza",
+            "ro": "Primăria Vilanova del Camí",
+            "en": "Vilanova del Camí Town Hall"
+          },
+          "coords": [
+            1.634126,
+            41.572251
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem historischen Rathausgebäude, das die lokale Verwaltung repräsentiert, und erkunden Sie den belebten Platz davor.",
+            "hu": "Fejezze be a túrát ennél a történelmi városháza épületnél, amely a helyi közigazgatást képviseli, és fedezze fel az előtte lévő nyüzsgő teret.",
+            "ro": "Încheiați-vă turul la această clădire istorică a primăriei, care reprezintă administrația locală, și explorați piața plină de viață din fața ei.",
+            "en": "Finish your cycling tour at this historical town hall building representing local administration, and take time to explore the lively square in front of it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Norden bei der beeindruckenden Sagrada Família. Anschließend radeln Sie an industriellen Relikten und modernistischen Meisterwerken wie dem Asil del Sant Crist vorbei. Am Nachmittag tauchen Sie im Ledermuseum tief in die Industriehistorie ein und erkunden die historischen Naturpfade am Bou de Montbui. Der Ausflug endet entspannt am Rathausplatz der Nachbargemeinde.",
+        "hu": "Kerékpártúrája északon, a lenyűgöző Sagrada Família templománál kezdődik. Ezután ipari emlékek és olyan modernista remekművek mellett teker el, mint az Asil del Sant Crist. Délután elmerülhet a bőrmúzeum ipartörténetében, és felfedezheti a Bou de Montbui természeti ösvényeit. A kirándulás a szomszédos település városháza előtti terén ér kellemes véget.",
+        "ro": "Turul dumneavoastră cu bicicleta începe în nord, la impresionanta Sagrada Família. Apoi pedalați pe lângă relicve industriale și capodopere moderniste, precum Asil del Sant Crist. După-amiaza vă scufundați în istoria industrială la muzeul pielăriei și explorați potecile naturii de la Bou de Montbui. Excursia se încheie relaxant în piața primăriei din comunitatea vecină.",
+        "en": "Your bike tour begins in the north at the impressive Sagrada Família church. Afterwards, you will cycle past industrial relics and modernist masterpieces like the Asil del Sant Crist. In the afternoon, dive deep into industrial history at the leather museum and explore the historical nature trails at Bou de Montbui. The trip ends pleasantly at the town hall square of the neighboring community."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Villa von l'Espelt",
+            "hu": "L'Espelt Római Villa",
+            "ro": "Vila Romană l'Espelt",
+            "en": "Roman Villa of l'Espelt"
+          },
+          "coords": [
+            1.599787,
+            41.598578
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Reisen Sie in die römische Zeit zurück, während Sie diese archäologischen Ruinen erkunden, und achten Sie auf die gut erhaltenen Mosaikfragmente.",
+            "hu": "Utazzon vissza a római korba, miközben felfedezi ezeket a régészeti romokat, és figyelje meg a kiállított, remekül megőrzött ősi mozaiktöredékeket.",
+            "ro": "Călătoriți înapoi în epoca romană în timp ce explorați aceste ruine arheologice și acordați atenție fragmentelor de mozaic antic bine conservate.",
+            "en": "Travel back in time to the Roman era as you explore these archaeological ruins, and look closely for the surprisingly well-preserved ancient mosaic fragments."
+          }
+        },
+        {
+          "name": {
+            "de": "Asyl Sant Crist",
+            "hu": "Sant Crist Menedékhely",
+            "ro": "Azilul Sant Crist",
+            "en": "Asylum of Sant Crist"
+          },
+          "coords": [
+            1.609737,
+            41.582862
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der beeindruckenden modernistischen Architektur dieses religiösen Asyls verzaubern und genießen Sie die Ruhe im Außenbereich.",
+            "hu": "Hagyja, hogy elvarázsolja e vallási menedékhely lenyűgöző modernista építészete, és élvezze a csendet és békét a tágas külső udvaron sétálva.",
+            "ro": "Lăsați-vă fermecați de arhitectura modernistă impresionantă a acestui azil religios și bucurați-vă de liniștea din curtea exterioară spațioasă.",
+            "en": "Let yourself be enchanted by the impressive modernist architecture of this religious asylum, and enjoy a moment of absolute peace in the outdoor area."
+          }
+        },
+        {
+          "name": {
+            "de": "El Bou de Montbui",
+            "hu": "El Bou de Montbui",
+            "ro": "El Bou de Montbui",
+            "en": "El Bou de Montbui"
+          },
+          "coords": [
+            1.608078,
+            41.575383
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende historische Wahrzeichen in der Natur und tragen Sie unbedingt festes Schuhwerk für den kurzen Weg dorthin.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi mérföldkövet a természetben, és mindenképpen viseljen kényelmes, zárt cipőt a rövid erdei sétához.",
+            "ro": "Explorați acest fascinant punct de reper istoric în natură și asigurați-vă că purtați încălțăminte robustă pentru scurta plimbare până acolo.",
+            "en": "Explore this fascinating historical landmark set in nature, and make sure you wear sturdy walking shoes for the short natural path leading to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ledermuseum von Igualada",
+            "hu": "Igualada Bőrmúzeuma",
+            "ro": "Muzeul Pielăriei din Igualada",
+            "en": "Leather Museum of Igualada"
+          },
+          "coords": [
+            1.613843,
+            41.577161
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie die reiche Geschichte der Lederherstellung in dieser faszinierenden Fabrik und achten Sie auf die historischen Werkzeuge.",
+            "hu": "Fedezze fel a bőrgyártás gazdag történetét ebben a lenyűgöző gyárépületben, és ne hagyja ki a korabeli, hagyományos munkaeszközöket sem.",
+            "ro": "Explorați istoria bogată a producției de piele în această fabrică fascinantă și asigurați-vă că nu ratați uneltele tradiționale de epocă.",
+            "en": "Explore the rich history of leather manufacturing in this fascinating former factory, and be sure to look closely at the vintage traditional tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            1.618291,
+            41.578754
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Renaissance-Fassade dieser majestätischen Kirche und achten Sie besonders auf das prächtige Retabel im Inneren.",
+            "hu": "Csodálja meg e fenséges templom lenyűgöző reneszánsz homlokzatát, és szenteljen különös figyelmet a gazdagon díszített belső oltárképnek.",
+            "ro": "Admirați impresionanta fațadă renascentistă a acestei biserici maiestuoase și acordați o atenție deosebită retablului magnific din interior.",
+            "en": "Admire the impressive Renaissance facade of this majestic church, and pay special attention to the richly decorated magnificent altarpiece inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie am Morgen zuerst die faszinierenden römischen Ruinen vor den Toren der Stadt. Danach bestaunen Sie die großartige modernistische Architektur des Asyls und historische Wegmarken in der Natur. Der Nachmittag ist ganz den kulturellen Schätzen im Stadtzentrum gewidmet, angeführt vom Ledermuseum. Die Tour findet an der wunderschönen Basilika einen erhabenen Abschluss.",
+        "hu": "Autóval először a város kapuin kívül található lenyűgöző római romokat éri el reggel. Ezután megcsodálhatja a menedékhely nagyszerű modernista építészetét és a történelmi természeti látnivalókat. A délutánt teljes egészében a városközpont kulturális kincseinek, elsősorban a bőrmúzeumnak szenteljük. A túra fenséges lezárást nyújt a gyönyörű bazilikánál.",
+        "ro": "Cu mașina, dimineața, veți ajunge mai întâi la fascinantele ruine romane aflate chiar la porțile orașului. Apoi admirați marea arhitectură modernistă a azilului și reperele istorice din natură. După-amiaza este dedicată în întregime comorilor culturale din centrul orașului, în frunte cu muzeul pielăriei. Turul are o încheiere grandioasă la frumoasa bazilică.",
+        "en": "By car, your morning first takes you to the fascinating Roman ruins located just outside the city gates. Afterwards, you will marvel at the grand modernist architecture of the asylum and historical landmarks in nature. The afternoon is entirely dedicated to the cultural treasures in the city center, spearheaded by the leather museum. The tour comes to a majestic close at the beautiful basilica."
+      }
+    }
+  }
+}

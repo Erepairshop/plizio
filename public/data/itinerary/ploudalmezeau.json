@@ -1,0 +1,451 @@
+{
+  "city_id": "ploudalmezeau",
+  "anchor": {
+    "name": "Ploudalmézeau",
+    "coords": [
+      -4.6575,
+      48.5403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin-Neuf Garten",
+            "hu": "Moulin-Neuf kert",
+            "ro": "Grădina Moulin-Neuf",
+            "en": "Moulin-Neuf Garden"
+          },
+          "coords": [
+            -4.656381,
+            48.545164
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Flora in diesem wunderschön gepflegten Garten, der die Küstenbiodiversität zeigt, und vergessen Sie Ihre Kamera für die saisonalen Blüten nicht.",
+            "hu": "Fedezze fel a helyi növényvilágot ebben a gyönyörűen karbantartott, tengerparti biodiverzitást bemutató kertben, és ne felejtse el magával hozni a fényképezőgépét a szezonális virágokhoz.",
+            "ro": "Descoperiți flora locală în această grădină frumos întreținută care prezintă biodiversitatea de coastă și nu uitați aparatul foto pentru florile de sezon superbe.",
+            "en": "Discover local flora in this beautifully maintained garden showcasing coastal biodiversity, and don't forget your camera for the blooming seasonal flowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Tréompan-Dünen",
+            "hu": "Tréompan dűnék",
+            "ro": "Dunele Tréompan",
+            "en": "Tréompan Dunes"
+          },
+          "coords": [
+            -4.680555,
+            48.565723
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses atemberaubende natürliche Dünensystem, das das Landesinnere vor Stürmen schützt, und bleiben Sie dabei am besten auf den markierten Sandwegen.",
+            "hu": "Sétáljon át ezen a lenyűgöző természetes dűnerendszeren, amely megvédi a szárazföldet az atlanti viharoktól, és amelyet a kijelölt homokos ösvényeken maradva a legjobb felfedezni.",
+            "ro": "Plimbați-vă prin acest sistem natural de dune care protejează zonele interioare de furtunile atlantice, explorându-l cel mai bine rămânând pe potecile de nisip marcate.",
+            "en": "Walk through this stunning natural dune system that protects the inland areas from fierce Atlantic storms, best explored by staying on the marked sandy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer von Tréompan",
+            "hu": "Tréompan part",
+            "ro": "Țărmul Tréompan",
+            "en": "Grève de Tréompan"
+          },
+          "coords": [
+            -4.678073,
+            48.570807
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den rauen Küstencharme dieses weitläufigen Kiesufers mit spektakulärem Meerblick, aber achten Sie auf den starken Wind, wenn Sie in der Nähe des Wassers spazieren.",
+            "hu": "Élvezze ennek a kiterjedt kavicsos partnak a zord part menti varázsát, amely látványos tengeri kilátást nyújt, de legyen óvatos az erős széllel a víz közelében sétálva.",
+            "ro": "Bucurați-vă de farmecul accidentat al acestei coaste cu pietriș care oferă vederi spectaculoase la mare, dar fiți precaut la vânturile puternice când vă plimbați pe mal.",
+            "en": "Enjoy the rugged coastal charm of this sweeping gravel shore offering spectacular sea views, but be cautious of the strong winds when walking near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Tréompan",
+            "hu": "Tréompan strand",
+            "ro": "Plaja Tréompan",
+            "en": "Plage de Tréompan"
+          },
+          "coords": [
+            -4.674993,
+            48.570047
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses weitläufigen Strandes, der sich perfekt zum Kitesurfen eignet, obwohl das Schwimmen während der ruhigen Flutzeiten besser ist.",
+            "hu": "Pihenjen e kiterjedt strand finom fehér homokján, amely tökéletes a kiteszörfözéshez, bár az úszás általában jobb a dagály nyugodt időszakaiban.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje întinse, perfectă pentru kitesurfing, deși înotul este în general mai bun în perioadele calme de flux.",
+            "en": "Relax on the fine white sands of this expansive beach which is perfect for kite surfing, though swimming is generally better during the calm periods of high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Porzhig ar Rouanez",
+            "hu": "Porzhig ar Rouanez",
+            "ro": "Porzhig ar Rouanez",
+            "en": "Porzhig ar Rouanez"
+          },
+          "coords": [
+            -4.690713,
+            48.5728
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, deren dramatische Felsformationen den wilden Geist der Bretagne widerspiegeln, und tragen Sie feste Schuhe für die rutschigen Felsen.",
+            "hu": "Fedezze fel ezt a rejtett öblöt, amelynek drámai sziklaképződményei Bretagne igazi vad szellemét tükrözik, és viseljen masszív cipőt a csúszós sziklás kibúvásokon.",
+            "ro": "Descoperiți acest golf ascuns ale cărui formațiuni stâncoase reflectă spiritul sălbatic al Bretaniei și purtați încălțăminte solidă pentru a naviga în siguranță.",
+            "en": "Discover this hidden cove whose dramatic rock formations reflect the true wild spirit of Brittany, and wear sturdy shoes to safely navigate the slippery rocky outcrops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen inmitten der ruhigen Schönheit des Moulin-Neuf-Gartens, bevor Sie zu den weitläufigen Dünen aufbrechen. Mittags erreichen Sie die dramatischen Küstenlandschaften von Tréompan. Verbringen Sie Ihren Nachmittag damit, die windgepeitschten Uferlinien und Sandstrände zu erkunden. Abends finden Sie Ruhe in den rauen Buchten von Porzhig.",
+        "hu": "Kezdje a reggelt a Moulin-Neuf kert nyugodt szépségében elmerülve, mielőtt a kiterjedt dűnék felé venné az irányt. Délben Tréompan drámai tengerparti tájaihoz érkezik. A délutánt a helyi strandok szélfútta partjain és homokos szakaszain bolyongva töltheti. Ahogy leszáll az est, találjon békét Porzhig ar Rouanez zord öbleinél.",
+        "ro": "Începeți dimineața scufundat în frumusețea senină a Grădinii Moulin-Neuf înainte de a vă îndrepta spre dunele întinse. La amiază ajungeți la peisajele dramatice de coastă din Tréompan. Petreceți după-amiaza rătăcind pe țărmurile bătute de vânt și plajele locale. Pe măsură ce se lasă seara, găsiți liniștea la golfurile accidentate din Porzhig ar Rouanez.",
+        "en": "Start your morning immersed in the serene beauty of Moulin-Neuf Garden before heading towards the expansive dunes. Midday brings you to the dramatic coastal landscapes of Tréompan. Spend your afternoon wandering the windswept shorelines and sandy stretches of the local beaches. As evening falls, find peace at the rugged coves of Porzhig ar Rouanez."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin-Neuf Garten",
+            "hu": "Moulin-Neuf kert",
+            "ro": "Grădina Moulin-Neuf",
+            "en": "Moulin-Neuf Garden"
+          },
+          "coords": [
+            -4.656381,
+            48.545164
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Flora in diesem wunderschön gepflegten Garten, der die Küstenbiodiversität zeigt, und vergessen Sie Ihre Kamera für die saisonalen Blüten nicht.",
+            "hu": "Fedezze fel a helyi növényvilágot ebben a gyönyörűen karbantartott, tengerparti biodiverzitást bemutató kertben, és ne felejtse el magával hozni a fényképezőgépét a szezonális virágokhoz.",
+            "ro": "Descoperiți flora locală în această grădină frumos întreținută care prezintă biodiversitatea de coastă și nu uitați aparatul foto pentru florile de sezon superbe.",
+            "en": "Discover local flora in this beautifully maintained garden showcasing coastal biodiversity, and don't forget your camera for the blooming seasonal flowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Tréompan-Dünen",
+            "hu": "Tréompan dűnék",
+            "ro": "Dunele Tréompan",
+            "en": "Tréompan Dunes"
+          },
+          "coords": [
+            -4.680555,
+            48.565723
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses atemberaubende natürliche Dünensystem, das das Landesinnere vor Stürmen schützt, und bleiben Sie dabei am besten auf den markierten Sandwegen.",
+            "hu": "Sétáljon át ezen a lenyűgöző természetes dűnerendszeren, amely megvédi a szárazföldet az atlanti viharoktól, és amelyet a kijelölt homokos ösvényeken maradva a legjobb felfedezni.",
+            "ro": "Plimbați-vă prin acest sistem natural de dune care protejează zonele interioare de furtunile atlantice, explorându-l cel mai bine rămânând pe potecile de nisip marcate.",
+            "en": "Walk through this stunning natural dune system that protects the inland areas from fierce Atlantic storms, best explored by staying on the marked sandy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Porzhig ar Rouanez",
+            "hu": "Porzhig ar Rouanez",
+            "ro": "Porzhig ar Rouanez",
+            "en": "Porzhig ar Rouanez"
+          },
+          "coords": [
+            -4.690713,
+            48.5728
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, deren dramatische Felsformationen den wilden Geist der Bretagne widerspiegeln, und tragen Sie feste Schuhe für die rutschigen Felsen.",
+            "hu": "Fedezze fel ezt a rejtett öblöt, amelynek drámai sziklaképződményei Bretagne igazi vad szellemét tükrözik, és viseljen masszív cipőt a csúszós sziklás kibúvásokon.",
+            "ro": "Descoperiți acest golf ascuns ale cărui formațiuni stâncoase reflectă spiritul sălbatic al Bretaniei și purtați încălțăminte solidă pentru a naviga în siguranță.",
+            "en": "Discover this hidden cove whose dramatic rock formations reflect the true wild spirit of Brittany, and wear sturdy shoes to safely navigate the slippery rocky outcrops."
+          }
+        },
+        {
+          "name": {
+            "de": "Pors Gaillion",
+            "hu": "Pors Gaillion",
+            "ro": "Pors Gaillion",
+            "en": "Pors Gaillion"
+          },
+          "coords": [
+            -4.69085,
+            48.57124
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die salzige Luft an diesem charmanten kleinen Hafen ein, der bei einheimischen Fischern beliebt ist, wo ein frühes Ankommen die friedlichste Aussicht garantiert.",
+            "hu": "Lélegezze be a sós levegőt ezen a helyi halászok által kedvelt bájos kis kikötőben, ahol a korai érkezés garantálja a legbékésebb kilátást a hullámokra.",
+            "ro": "Respirați aerul sărat în acest mic port fermecător preferat de pescarii locali, unde sosirea devreme garantează cele mai liniștite priveliști asupra valurilor care se sparg.",
+            "en": "Breathe in the salty air at this charming little harbor area favored by local fishermen, where arriving early guarantees the most peaceful views over the breaking waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kerdéniel",
+            "hu": "Kerdéniel strand",
+            "ro": "Plaja Kerdéniel",
+            "en": "Plage de Kerdéniel"
+          },
+          "coords": [
+            -4.703104,
+            48.560675
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine ruhige Stunde an diesem familienfreundlichen Küstenabschnitt, der für sein klares Wasser bekannt ist, und bringen Sie eine Windjacke für die Küstenbrisen mit.",
+            "hu": "Töltsön el egy nyugodt órát ezen a kristálytiszta vizeiről ismert, családbarát partszakaszon, és mindenképpen hozzon magával egy széldzsekit a hirtelen parti szellők miatt.",
+            "ro": "Petreceți o oră liniștită pe această coastă prietenoasă cu familiile, cunoscută pentru apele sale limpezi, asigurându-vă că aduceți o jachetă pentru brizele bruște.",
+            "en": "Spend a tranquil hour at this family-friendly stretch of coastline known for its crystal clear waters, making sure to bring a windbreaker for the sudden coastal breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Amoco Cadiz Anker",
+            "hu": "Amoco Cadiz horgony",
+            "ro": "Ancora Amoco Cadiz",
+            "en": "Amoco Cadiz Anchor"
+          },
+          "coords": [
+            -4.705833,
+            48.5575
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem massiven Anker des berüchtigten Öltankers die Ehre, der als ergreifendes Denkmal für den Meeresschutz dient und am besten mit dem Ozean dahinter fotografiert wird.",
+            "hu": "Tisztelegjen a hírhedt olajszállító tartályhajó hatalmas horgonya előtt, amely a tengervédelem megrendítő emlékműveként szolgál, és a legjobb, ha az óceánnal a hátterében fényképezi.",
+            "ro": "Prezentați-vă omagiile la imensa ancoră a petrolierului care servește ca un memorial emoționant al conservării marine, cel mai bine fotografiat cu oceanul în fundal.",
+            "en": "Pay your respects at the massive anchor of the infamous oil tanker which serves as a poignant memorial to marine conservation, best photographed with the ocean behind it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom üppigen Grün des Moulin-Neuf weg, um die frische Meeresbrise an den Tréompan-Dünen zu spüren. Mittags hüpfen Sie zwischen malerischen Häfen und versteckten Felsbuchten. Der Nachmittag belohnt Ihre Mühen mit entspannenden Momenten im Sand von Kerdéniel. Beenden Sie den Tag und reflektieren Sie die Geschichte am massiven Amoco Cadiz Anker bei Sonnenuntergang.",
+        "hu": "Tekerjen el a Moulin-Neuf buja zöldjéből, hogy érezze a friss reggeli óceáni szellőt a Tréompan dűnéknél. Délre festői kikötők és rejtett sziklás öblök között fog ugrálni. A délután Kerdéniel nyugodt homokján töltött pihentető pillanatokkal jutalmazza erőfeszítéseit. Zárja a napot a történelemről elmélkedve a hatalmas Amoco Cadiz horgonynál naplementekor.",
+        "ro": "Pedați departe de verdeața luxuriantă a Moulin-Neuf pentru a simți briza proaspătă a oceanului la Dunele Tréompan. La prânz, veți face salturi între porturi pitorești și golfuri stâncoase ascunse. După-amiaza vă răsplătește efortul cu momente de relaxare pe nisipurile calme din Kerdéniel. Încheiați ziua reflectând asupra istoriei lângă ancora masivă Amoco Cadiz.",
+        "en": "Pedal away from the lush greenery of Moulin-Neuf to feel the fresh morning ocean breeze at the Tréompan Dunes. By midday, you'll be hopping between picturesque harbors and hidden rocky coves. The afternoon rewards your effort with relaxing moments on the calm sands of Kerdéniel. End the day reflecting on history by the massive Amoco Cadiz Anchor at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 13.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin-Neuf Garten",
+            "hu": "Moulin-Neuf kert",
+            "ro": "Grădina Moulin-Neuf",
+            "en": "Moulin-Neuf Garden"
+          },
+          "coords": [
+            -4.656381,
+            48.545164
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Flora in diesem wunderschön gepflegten Garten, der die Küstenbiodiversität zeigt, und vergessen Sie Ihre Kamera für die saisonalen Blüten nicht.",
+            "hu": "Fedezze fel a helyi növényvilágot ebben a gyönyörűen karbantartott, tengerparti biodiverzitást bemutató kertben, és ne felejtse el magával hozni a fényképezőgépét a szezonális virágokhoz.",
+            "ro": "Descoperiți flora locală în această grădină frumos întreținută care prezintă biodiversitatea de coastă și nu uitați aparatul foto pentru florile de sezon superbe.",
+            "en": "Discover local flora in this beautifully maintained garden showcasing coastal biodiversity, and don't forget your camera for the blooming seasonal flowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Amoco Cadiz Anker",
+            "hu": "Amoco Cadiz horgony",
+            "ro": "Ancora Amoco Cadiz",
+            "en": "Amoco Cadiz Anchor"
+          },
+          "coords": [
+            -4.705833,
+            48.5575
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem massiven Anker des berüchtigten Öltankers die Ehre, der als ergreifendes Denkmal für den Meeresschutz dient und am besten mit dem Ozean dahinter fotografiert wird.",
+            "hu": "Tisztelegjen a hírhedt olajszállító tartályhajó hatalmas horgonya előtt, amely a tengervédelem megrendítő emlékműveként szolgál, és a legjobb, ha az óceánnal a hátterében fényképezi.",
+            "ro": "Prezentați-vă omagiile la imensa ancoră a petrolierului care servește ca un memorial emoționant al conservării marine, cel mai bine fotografiat cu oceanul în fundal.",
+            "en": "Pay your respects at the massive anchor of the infamous oil tanker which serves as a poignant memorial to marine conservation, best photographed with the ocean behind it."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Château",
+            "hu": "Château strand",
+            "ro": "Plaja Château",
+            "en": "Plage du Château"
+          },
+          "coords": [
+            -4.713394,
+            48.554302
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Ruinen, die über dieser malerischen Sandbucht ragen und jahrhundertelange bretonische Geschichte bergen, und prüfen Sie vorher die Gezeitentabellen.",
+            "hu": "Csodálja meg az e festői homokos öböl fölé magasodó drámai romokat, amelyek évszázados breton történelmet őriznek, és ellenőrizze az árapály-táblázatokat a séta előtt.",
+            "ro": "Minunați-vă de ruinele dramatice care se profilează deasupra acestui golf pitoresc ce deține secole de istorie bretonă și verificați tabelele de maree înainte de o plimbare.",
+            "en": "Marvel at the dramatic ruins looming over this picturesque sandy cove which holds centuries of Breton history, and check the local tide charts before planning a long walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Trémazan",
+            "hu": "Trémazan strand",
+            "ro": "Plaja Trémazan",
+            "en": "Plage de Trémazan"
+          },
+          "coords": [
+            -4.717008,
+            48.556143
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem malerischen Strand mit spektakulärem Blick auf die nahegelegenen Küstenfestungen und halten Sie Ausschau nach seltenen Seevögeln.",
+            "hu": "Tartson egy frissítő szünetet ezen a festői strandon, amely látványos kilátást nyújt a közeli parti erődökre, és tartsa nyitva a szemét a sziklás szirteken fészkelő ritka tengeri madarak miatt.",
+            "ro": "Faceți o pauză răcoritoare pe această plajă pitorească care oferă vederi spectaculoase ale fortărețelor de coastă din apropiere și căutați păsările marine rare care cuibăresc pe stânci.",
+            "en": "Take a refreshing break at this scenic beach offering spectacular views of the nearby coastal fortresses, and keep an eye out for rare seabirds nesting along the rugged cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Tréompan-Dünen",
+            "hu": "Tréompan dűnék",
+            "ro": "Dunele Tréompan",
+            "en": "Tréompan Dunes"
+          },
+          "coords": [
+            -4.680555,
+            48.565723
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses atemberaubende natürliche Dünensystem, das das Landesinnere vor Stürmen schützt, und bleiben Sie dabei am besten auf den markierten Sandwegen.",
+            "hu": "Sétáljon át ezen a lenyűgöző természetes dűnerendszeren, amely megvédi a szárazföldet az atlanti viharoktól, és amelyet a kijelölt homokos ösvényeken maradva a legjobb felfedezni.",
+            "ro": "Plimbați-vă prin acest sistem natural de dune care protejează zonele interioare de furtunile atlantice, explorându-l cel mai bine rămânând pe potecile de nisip marcate.",
+            "en": "Walk through this stunning natural dune system that protects the inland areas from fierce Atlantic storms, best explored by staying on the marked sandy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Penfoul",
+            "hu": "Penfoul",
+            "ro": "Penfoul",
+            "en": "Penfoul"
+          },
+          "coords": [
+            -4.751518,
+            48.530967
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an dieser weitläufigen Bucht, die bei lokalen Surfern für ihre zuverlässigen Wellen berühmt ist, wobei das Parken am Nordende den besten Zugang bietet.",
+            "hu": "Fejezze be tengerparti utazását ennél a helyi szörfösök körében megbízható hullámairól híres széles öbölnél, ahol az északi végén történő parkolás biztosítja a legkönnyebb lejutást.",
+            "ro": "Încheiați-vă călătoria pe coastă la acest golf întins, renumit printre surferii locali pentru valurile sale fiabile, unde parcarea la capătul nordic oferă cel mai ușor acces.",
+            "en": "Conclude your coastal journey at this expansive inlet famous among local surfers for its reliable waves, where parking at the northern end provides the easiest beach access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Spaziergang durch lokale Gärten, bevor Sie zur historischen Stätte der Amoco Cadiz navigieren. Mittags enthüllen sich atemberaubende Ausblicke von den Klippen nahe dem historischen Strand von Château. Der Nachmittag ist für malerische Küstenfahrten entlang der Dünen gedacht. Beenden Sie den Roadtrip und beobachten Sie Surfer in Penfoul.",
+        "hu": "Az autózás a helyi kertekben tett békés sétával kezdődik, mielőtt az Amoco Cadiz történelmi helyszínére navigálna. Délben lélegzetelállító kilátás nyílik a Château történelmi strandjához közeli sziklákról. A délután festői part menti vezetésre hív a gyönyörű dűnék mellett. Zárja breton autós utazását a hullámokkal küzdő szörfösök megfigyelésével Penfoulban.",
+        "ro": "Călătoria dvs. începe cu o plimbare liniștită prin grădinile locale înainte de a naviga către site-ul istoric solemn Amoco Cadiz. La prânz se dezvăluie priveliști uluitoare de pe stâncile accidentate din apropierea plajei Château. După-amiaza este destinată condusului pitoresc pe coastă alături de dune frumoase. Încheiați excursia privindu-i pe surferi la Penfoul.",
+        "en": "Your drive begins with a peaceful stroll through local gardens before navigating to the solemn historical site of the Amoco Cadiz. Midday unveils breathtaking vistas from the rugged cliffs near Château's historic beach. The afternoon is meant for scenic coastal driving alongside beautiful dunes and shoreline paths. Wrap up your Breton road trip watching surfers tackle the waves at Penfoul."
+      }
+    }
+  }
+}

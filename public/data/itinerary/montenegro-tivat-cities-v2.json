@@ -1,0 +1,451 @@
+{
+  "city_id": "montenegro-tivat-cities-v2",
+  "anchor": {
+    "name": "Tivat",
+    "coords": [
+      18.7,
+      42.433333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sommerbühne",
+            "hu": "Nyári Színpad",
+            "ro": "Scenă de Vară",
+            "en": "Ljetnja pozornica"
+          },
+          "coords": [
+            18.695897,
+            42.431204
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser Freilichtbühne inmitten mediterraner Kiefern und kommen Sie früh, um sich bei Kulturveranstaltungen die besten Plätze zu sichern.",
+            "hu": "Élvezze a mediterrán fenyőkkel körülvett szabadtéri nyári színpad hangulatát, és érkezzen korán a kulturális előadásokra, hogy a legjobb helyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei scene de vară în aer liber, înconjurată de pini mediteraneeni, și sosiți devreme pentru cele mai bune locuri la spectacole.",
+            "en": "Enjoy the vibrant atmosphere of this open-air summer stage, surrounded by Mediterranean pines, and arrive early for the best seating during local cultural performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Spasić und Mašera",
+            "hu": "Spasić és Mašera Emlékmű",
+            "ro": "Monumentul lui Spasić și Mašera",
+            "en": "Spomenik Spasiću i Mašeri"
+          },
+          "coords": [
+            18.69605,
+            42.433469
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem historischen Denkmal für Marinehelden die Ehre und nehmen Sie sich einen Moment Zeit, um die Architektur und die friedliche Küstenumgebung zu bewundern.",
+            "hu": "Tisztelegjen a tengerészeti hősök emlékműve előtt, és szánjon egy percet a lenyűgöző építészeti részletek, valamint a békés tengerparti környezet megcsodálására.",
+            "ro": "Aduceți un omagiu la acest monument istoric dedicat eroilor navali, acordându-vă un moment pentru a aprecia detaliile arhitecturale și peisajul de coastă liniștit.",
+            "en": "Pay your respects at this historical monument honoring naval heroes, taking a moment to appreciate the striking architectural details and its peaceful coastal surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Regent Pool Residences",
+            "hu": "Regent Pool Residences",
+            "ro": "Regent Pool Residences",
+            "en": "Regent Pool Residences"
+          },
+          "coords": [
+            18.693545,
+            42.434756
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die luxuriöse Anlage, die venezianische Architektur mit moderner Eleganz verbindet, und genießen Sie ein erfrischendes Getränk in einem nahegelegenen Café.",
+            "hu": "Csodálja meg a velencei építészetet modern eleganciával ötvöző luxuskomplexumot, és igyon egy frissítő italt a közeli, vízparti kávézók egyikében sétája során.",
+            "ro": "Admirați complexul luxos ce îmbină arhitectura venețiană cu eleganța modernă și savurați o băutură răcoritoare la o cafenea pitorească situată pe faleza din apropiere.",
+            "en": "Marvel at the luxurious recreational complex blending Venetian architecture with modern elegance, and consider grabbing a refreshing drink at a nearby waterfront cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Patrimoniului Naval",
+            "en": "Naval Heritage Collection Museum"
+          },
+          "coords": [
+            18.693667,
+            42.437634
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montenegros reiche maritime Geschichte in diesem restaurierten Sägewerk und besichtigen Sie unbedingt die massiven jugoslawischen U-Boote im Außenbereich.",
+            "hu": "Fedezze fel Montenegró gazdag tengerészeti történelmét ebben a felújított fűrészüzemben, ahol mindenképpen nézze meg a kint horgonyzó hatalmas jugoszláv tengeralattjárókat.",
+            "ro": "Descoperiți istoria maritimă a Muntenegrului în această fabrică restaurată, unde trebuie neapărat să vedeți submarinele iugoslave masive ancorate chiar în exterior.",
+            "en": "Discover Montenegro's rich maritime history inside this restored sawmill, where you should definitely check out the massive Yugoslav submarines docked just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Plaza Ponta",
+            "hu": "Lighthouse Plaza Ponta",
+            "ro": "Lighthouse Plaza Ponta",
+            "en": "Lighthouse Plaza Ponta"
+          },
+          "coords": [
+            18.684577,
+            42.439161
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht von diesem ikonischen Wahrzeichen aus, das besonders zur goldenen Stunde, wenn die Sonne untergeht, fotogen wirkt.",
+            "hu": "Élvezze az öbölre nyíló panorámát erről az ikonikus térről, amely különösen a fotózáshoz tökéletes aranyórában nyújt lenyűgöző látványt, amikor a nap lemenőben van.",
+            "ro": "Admirați vederea panoramică asupra golfului din această piață emblematică, un loc deosebit de fotogenic în timpul orei de aur, când soarele apune în spatele munților.",
+            "en": "Take in the panoramic bay views from this iconic landmark plaza, which is especially photogenic during the golden hour when the sun sets behind the distant mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Waikiki",
+            "hu": "Waikiki",
+            "ro": "Waikiki",
+            "en": "Waikiki"
+          },
+          "coords": [
+            18.686482,
+            42.441087
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem beliebten Strandresort, wo es sich empfiehlt, im Voraus eine Sonnenliege zu mieten, um sich einen perfekten Platz für den Nachmittag zu sichern.",
+            "hu": "Pihenjen ezen a népszerű, kikapcsolódást nyújtó strandszakaszon, ahol érdemes előre napozóágyat bérelni, hogy biztosítsa a helyét egy tökéletes és nyugodt délutánhoz.",
+            "ro": "Relaxați-vă în această zonă populară de plajă, unde închirierea unui șezlong în avans este recomandată pentru a vă asigura un loc perfect pentru o după-amiază liniștită.",
+            "en": "Relax along this popular recreational beach resort area, where renting a sunbed in advance is highly recommended to secure your spot for a perfect afternoon of leisure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur an der Ljetnja pozornica und einem Tribut an Marinehelden. Mittags spazieren Sie an den luxuriösen Regent Pool Residences vorbei, bevor Sie im Marinemuseum in die Geschichte eintauchen. Der Nachmittag lockt mit atemberaubenden Blicken von der Lighthouse Plaza Ponta. Der Abend ist für pure Entspannung am beliebten Waikiki-Strand bei einem wunderschönen Sonnenuntergang reserviert.",
+        "hu": "A reggel a Ljetnja pozornica kulturális élményeivel kezdődik, majd a tengerészeti hősök előtt tisztelgünk. Délben sétáljon el a luxus Regent Pool Residences mellett, mielőtt felfedezné a tengerészeti múzeumot. A délután lenyűgöző kilátást kínál a Lighthouse Plaza Ponta területéről. Az estét a népszerű Waikiki strandon töltheti teljes kikapcsolódással, megcsodálva a csodás naplementét.",
+        "ro": "Dimineața începe cu o imersiune culturală la Ljetnja pozornica, urmată de un omagiu adus eroilor navali. La prânz, treceți pe lângă luxoasele Regent Pool Residences înainte de a explora Muzeul Patrimoniului Naval. După-amiaza continuă cu vederi uimitoare ale golfului de la Lighthouse Plaza Ponta. Seara este rezervată relaxării complete la plaja populară Waikiki, privind apusul soarelui.",
+        "en": "Morning begins with a cultural immersion at the Ljetnja pozornica, followed by a tribute to naval heroes. Midday invites you to stroll past the luxurious Regent Pool Residences before diving into maritime history at the Naval Heritage Museum. Afternoon continues with breathtaking bay views at the Lighthouse Plaza Ponta. Evening is reserved for complete relaxation at the popular Waikiki beach, watching the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sommerbühne",
+            "hu": "Nyári Színpad",
+            "ro": "Scenă de Vară",
+            "en": "Ljetnja pozornica"
+          },
+          "coords": [
+            18.695897,
+            42.431204
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser Freilichtbühne inmitten mediterraner Kiefern und kommen Sie früh, um sich bei Kulturveranstaltungen die besten Plätze zu sichern.",
+            "hu": "Élvezze a mediterrán fenyőkkel körülvett szabadtéri nyári színpad hangulatát, és érkezzen korán a kulturális előadásokra, hogy a legjobb helyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei scene de vară în aer liber, înconjurată de pini mediteraneeni, și sosiți devreme pentru cele mai bune locuri la spectacole.",
+            "en": "Enjoy the vibrant atmosphere of this open-air summer stage, surrounded by Mediterranean pines, and arrive early for the best seating during local cultural performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Patrimoniului Naval",
+            "en": "Naval Heritage Collection Museum"
+          },
+          "coords": [
+            18.693667,
+            42.437634
+          ],
+          "category": "museum",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montenegros reiche maritime Geschichte in diesem restaurierten Sägewerk und besichtigen Sie unbedingt die massiven jugoslawischen U-Boote im Außenbereich.",
+            "hu": "Fedezze fel Montenegró gazdag tengerészeti történelmét ebben a felújított fűrészüzemben, ahol mindenképpen nézze meg a kint horgonyzó hatalmas jugoszláv tengeralattjárókat.",
+            "ro": "Descoperiți istoria maritimă a Muntenegrului în această fabrică restaurată, unde trebuie neapărat să vedeți submarinele iugoslave masive ancorate chiar în exterior.",
+            "en": "Discover Montenegro's rich maritime history inside this restored sawmill, where you should definitely check out the massive Yugoslav submarines docked just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Plaza Ponta",
+            "hu": "Lighthouse Plaza Ponta",
+            "ro": "Lighthouse Plaza Ponta",
+            "en": "Lighthouse Plaza Ponta"
+          },
+          "coords": [
+            18.684577,
+            42.439161
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht von diesem ikonischen Wahrzeichen aus, das besonders zur goldenen Stunde, wenn die Sonne untergeht, fotogen wirkt.",
+            "hu": "Élvezze az öbölre nyíló panorámát erről az ikonikus térről, amely különösen a fotózáshoz tökéletes aranyórában nyújt lenyűgöző látványt, amikor a nap lemenőben van.",
+            "ro": "Admirați vederea panoramică asupra golfului din această piață emblematică, un loc deosebit de fotogenic în timpul orei de aur, când soarele apune în spatele munților.",
+            "en": "Take in the panoramic bay views from this iconic landmark plaza, which is especially photogenic during the golden hour when the sun sets behind the distant mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Waikiki",
+            "hu": "Waikiki",
+            "ro": "Waikiki",
+            "en": "Waikiki"
+          },
+          "coords": [
+            18.686482,
+            42.441087
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem beliebten Strandresort, wo es sich empfiehlt, im Voraus eine Sonnenliege zu mieten, um sich einen perfekten Platz für den Nachmittag zu sichern.",
+            "hu": "Pihenjen ezen a népszerű, kikapcsolódást nyújtó strandszakaszon, ahol érdemes előre napozóágyat bérelni, hogy biztosítsa a helyét egy tökéletes és nyugodt délutánhoz.",
+            "ro": "Relaxați-vă în această zonă populară de plajă, unde închirierea unui șezlong în avans este recomandată pentru a vă asigura un loc perfect pentru o după-amiază liniștită.",
+            "en": "Relax along this popular recreational beach resort area, where renting a sunbed in advance is highly recommended to secure your spot for a perfect afternoon of leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Runde Ruinen",
+            "hu": "Kör alakú romok",
+            "ro": "Ruine circulare",
+            "en": "Round shape ruins"
+          },
+          "coords": [
+            18.711326,
+            42.440508
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden kreisförmigen Militärruinen auf den Hügeln und tragen Sie festes Schuhwerk, da das Gelände steinig und leicht überwuchert sein kann.",
+            "hu": "Fedezze fel ezeket a lenyűgöző kör alakú katonai romokat a dombokon, és viseljen túracipőt, mivel a környező terep sziklás és néhol sűrű növényzettel borított lehet.",
+            "ro": "Explorați aceste ruine militare circulare fascinante de pe dealuri, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi stâncos și acoperit de vegetație.",
+            "en": "Explore these fascinating circular military ruins scattered on the hills, wearing sturdy walking shoes as the surrounding terrain can be rocky and slightly overgrown."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Fahrt durch die nach Kiefern duftende Luft an der Sommerbühne und radeln Sie dann zum Marinemuseum. Der Mittag ist ideal, um den Küstenweg zur Lighthouse Plaza Ponta zu erkunden und am Waikiki-Strand zu rasten. Der Nachmittag bietet einen abenteuerlichen Aufstieg zu den rätselhaften runden Militärruinen. Der Abend bringt eine sanfte und lohnende Rückfahrt in die Stadt.",
+        "hu": "Kezdje a reggelt a nyári színpad fenyőillatú levegőjében biciklizve, majd tekerjen a hatalmas tengerészeti múzeumhoz. A dél tökéletes a Lighthouse Plaza Ponta felfedezésére és egy hosszú pihenőre a Waikiki strandon. A délután kalandos emelkedőt tartogat a dombok felé, hogy felkutassa a rejtélyes kör alakú katonai romokat. Az este pedig sima és jól megérdemelt gurulást jelent visszafelé.",
+        "ro": "Începeți dimineața pedalând prin aerul cu parfum de pin la scena de vară, apoi mergeți spre extinsul Muzeu al Patrimoniului Naval. Prânzul este perfect pentru a explora coasta către Lighthouse Plaza Ponta și a face o pauză la Waikiki. După-amiaza oferă o urcare plină de aventură spre dealuri pentru a localiza enigmaticele ruine militare circulare. Seara aduce o plimbare lină și relaxantă înapoi.",
+        "en": "Kick off your morning riding through the pine-scented air at the summer stage, then pedal swiftly to the extensive Naval Heritage Collection. Midday is perfect for exploring the coastal path toward Lighthouse Plaza Ponta and taking a long break at Waikiki beach. Afternoon presents an adventurous climb toward the hills to locate the enigmatic circular military ruins. Evening brings a smooth, rewarding ride back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für Spasić und Mašera",
+            "hu": "Spasić és Mašera Emlékmű",
+            "ro": "Monumentul lui Spasić și Mašera",
+            "en": "Spomenik Spasiću i Mašeri"
+          },
+          "coords": [
+            18.69605,
+            42.433469
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem historischen Denkmal für Marinehelden die Ehre und nehmen Sie sich einen Moment Zeit, um die Architektur und die friedliche Küstenumgebung zu bewundern.",
+            "hu": "Tisztelegjen a tengerészeti hősök emlékműve előtt, és szánjon egy percet a lenyűgöző építészeti részletek, valamint a békés tengerparti környezet megcsodálására.",
+            "ro": "Aduceți un omagiu la acest monument istoric dedicat eroilor navali, acordându-vă un moment pentru a aprecia detaliile arhitecturale și peisajul de coastă liniștit.",
+            "en": "Pay your respects at this historical monument honoring naval heroes, taking a moment to appreciate the striking architectural details and its peaceful coastal surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Patrimoniului Naval",
+            "en": "Naval Heritage Collection Museum"
+          },
+          "coords": [
+            18.693667,
+            42.437634
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montenegros reiche maritime Geschichte in diesem restaurierten Sägewerk und besichtigen Sie unbedingt die massiven jugoslawischen U-Boote im Außenbereich.",
+            "hu": "Fedezze fel Montenegró gazdag tengerészeti történelmét ebben a felújított fűrészüzemben, ahol mindenképpen nézze meg a kint horgonyzó hatalmas jugoszláv tengeralattjárókat.",
+            "ro": "Descoperiți istoria maritimă a Muntenegrului în această fabrică restaurată, unde trebuie neapărat să vedeți submarinele iugoslave masive ancorate chiar în exterior.",
+            "en": "Discover Montenegro's rich maritime history inside this restored sawmill, where you should definitely check out the massive Yugoslav submarines docked just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Runde Ruinen",
+            "hu": "Kör alakú romok",
+            "ro": "Ruine circulare",
+            "en": "Round shape ruins"
+          },
+          "coords": [
+            18.711326,
+            42.440508
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden kreisförmigen Militärruinen auf den Hügeln und tragen Sie festes Schuhwerk, da das Gelände steinig und leicht überwuchert sein kann.",
+            "hu": "Fedezze fel ezeket a lenyűgöző kör alakú katonai romokat a dombokon, és viseljen túracipőt, mivel a környező terep sziklás és néhol sűrű növényzettel borított lehet.",
+            "ro": "Explorați aceste ruine militare circulare fascinante de pe dealuri, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi stâncos și acoperit de vegetație.",
+            "en": "Explore these fascinating circular military ruins scattered on the hills, wearing sturdy walking shoes as the surrounding terrain can be rocky and slightly overgrown."
+          }
+        },
+        {
+          "name": {
+            "de": "Österreichische Flak-Ausrüstung",
+            "hu": "Osztrák légvédelmi felszerelés",
+            "ro": "Echipament antiaerian austriac",
+            "en": "Austrian anti-aircraft equipment"
+          },
+          "coords": [
+            18.717879,
+            42.431161
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste der österreichisch-ungarischen Flugabwehr aus dem Ersten Weltkrieg und achten Sie auf Informationstafeln zu ihrer strategischen Bedeutung.",
+            "hu": "Vizsgálja meg az első világháborús osztrák-magyar légvédelmi állások maradványait, és figyelje a történelmi információs táblákat, amelyek elmagyarázzák a fontosságukat.",
+            "ro": "Examinați rămășițele apărării antiaeriene austro-ungare din Primul Război Mondial, căutând plăcile informative care detaliază importanța lor strategică în regiune.",
+            "en": "Examine the remnants of Austro-Hungarian anti-aircraft defenses from WWI, keeping an eye out for historical informational plaques that detail their strategic importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Österreichische Feldbefestigungen",
+            "hu": "Osztrák tábori erődítmények",
+            "ro": "Fortificații de câmp austriece",
+            "en": "Ruins of Austrian field fortifications"
+          },
+          "coords": [
+            18.719843,
+            42.433806
+          ],
+          "category": "castle",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese historischen Festungsanlagen aus dem Ersten Weltkrieg und bringen Sie ein Weitwinkelobjektiv mit, um den Kontrast zwischen Stein und Meer einzufangen.",
+            "hu": "Sétáljon végig ezeken a történelmi első világháborús erődítményeken, és hozzon magával nagylátószögű objektívet, hogy megörökítse a kő és a tenger lenyűgöző kontrasztját.",
+            "ro": "Plimbați-vă prin aceste fortificații istorice din Primul Război Mondial și aduceți un obiectiv cu unghi larg pentru a surprinde contrastul impresionant dintre piatră și mare.",
+            "en": "Wander through these historic WWI field fortifications overlooking the bay, bringing a wide-angle lens to capture the impressive contrast between ancient stone and sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Österreichische Artilleriestellung",
+            "hu": "Osztrák tüzérségi állás",
+            "ro": "Poziție de artilerie austriacă",
+            "en": "Austrian artillery position"
+          },
+          "coords": [
+            18.722487,
+            42.435604
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an dieser gut erhaltenen österreichischen Artilleriestellung, seien Sie vorsichtig an den bröckelnden Rändern und bewundern Sie die Technik.",
+            "hu": "Lépjen vissza az időben ezen a hihetetlenül jól megőrzött osztrák tüzérségi álláson, óvatosan mozogva a peremeken, miközben megcsodálja a katonai mérnöki munkát.",
+            "ro": "Întoarceți-vă în timp la această poziție de artilerie austriacă uimitor conservată, având grijă la marginile sfărâmicioase în timp ce admirați ingineria militară.",
+            "en": "Step back in time at this incredibly preserved Austrian artillery position, being careful around the crumbling edges while admiring the impressive military engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am Spasić- und Mašera-Denkmal, bevor Sie das Marinemuseum besuchen. Mittags machen Sie eine malerische Fahrt auf die Küstenhügel, um die mysteriösen runden österreichischen Ruinen zu entdecken. Der Nachmittag wird zu einer historischen Reise durch die im Gelände verstreuten Flak- und Feldstellungen aus dem Ersten Weltkrieg. Der Abend endet beeindruckend an der 9cm-Kanonenstellung.",
+        "hu": "A reggel a Spasić és Mašera emlékműnél kezdődik, majd elmélyed a lenyűgöző tengerészeti múzeum kiállításában. Délben egy festői autózás következik a parti dombokon, hogy felfedezze a titokzatos kör alakú osztrák romokat. A délután egy mélyreható történelmi utazássá válik az első világháborús légvédelmi és tábori erődítmények között. Az este a 9 cm-es ágyúállás megtekintésével zárul.",
+        "ro": "Dimineața începe la monumentul Spasić și Mašera înainte de a explora Muzeul Patrimoniului Naval. La prânz, faceți o plimbare pitorească pe dealurile de coastă pentru a descoperi misterioasele ruine austriece rotunde. După-amiaza se transformă într-o călătorie istorică profundă explorând fortificațiile antiaeriene și de câmp din Primul Război Mondial. Seara se încheie admirând uimitoarea poziție a tunului de 9 cm.",
+        "en": "Your morning starts with a brief stop at the Spasić and Mašera monument before diving deep into the massive Naval Heritage Collection. Midday involves a scenic drive up the coastal hills to uncover the mysterious round Austrian ruins. Afternoon turns into a profound historical journey exploring WWI anti-aircraft and field fortifications scattered across the landscape. Evening concludes admiring the 9cm cannon position."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-kamala-cities-v2",
+  "anchor": {
+    "name": "Kamala",
+    "coords": [
+      98.28276,
+      7.94993
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 1.41,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Kamala Beach",
+            "de": "Kamala Strand",
+            "hu": "Kamala tengerpart",
+            "ro": "Plaja Kamala"
+          },
+          "coords": [
+            98.282187,
+            7.956302
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy the soft sands and calm waters of this beautiful beach; it is absolutely perfect for a morning swim if you bring a towel and arrive before the crowds.",
+            "de": "Genießen Sie den weichen Sand dieses Strandes; er ist ideal für ein morgendliches Bad, wenn Sie ein Handtuch mitbringen und deutlich vor den Massen ankommen.",
+            "hu": "Élvezze a tengerpart puha homokját; ez a partszakasz tökéletes egy reggeli úszáshoz, de hozzon magával törölközőt és érkezzen meg a délutáni tömeg előtt.",
+            "ro": "Bucură-te de nisipul fin al acestei plaje magnifice, care este ideală pentru o baie matinală dacă îți aduci prosopul și ajungi acolo înainte de aglomerație."
+          }
+        },
+        {
+          "name": {
+            "en": "Phuket FantaSea",
+            "de": "Phuket FantaSea",
+            "hu": "Phuket FantaSea",
+            "ro": "Phuket FantaSea"
+          },
+          "coords": [
+            98.286103,
+            7.956695
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Explore this expansive cultural theme park to see stunning Thai architecture, but be sure to wear very comfortable walking shoes to easily cover the vast area.",
+            "de": "Erkunden Sie diesen riesigen Kulturpark mit atemberaubender thailändischer Architektur, aber tragen Sie bequeme Schuhe, um das große Areal gut zu bewältigen.",
+            "hu": "Fedezze fel ezt a hatalmas kulturális parkot, ahol lenyűgöző thai építészet várja, de viseljen kényelmes cipőt a nagy terület bejárásának megkönnyítéséhez.",
+            "ro": "Explorează acest uriaș parc cultural pentru a admira arhitectura thailandeză uimitoare, dar poartă o încălțăminte foarte confortabilă pentru a acoperi zona."
+          }
+        },
+        {
+          "name": {
+            "en": "Carnival Magic",
+            "de": "Carnival Magic",
+            "hu": "Carnival Magic",
+            "ro": "Carnival Magic"
+          },
+          "coords": [
+            98.286982,
+            7.958201
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "en": "Marvel at the vibrant colors and illuminated sculptures of this magical park, so remember to bring a fully charged camera to capture the spectacular displays.",
+            "de": "Bestaunen Sie die leuchtenden Farben und beleuchteten Skulpturen dieses zauberhaften Parks; bringen Sie eine volle Kamera mit, um die Kulissen einzufangen.",
+            "hu": "Csodálja meg a varázslatos park élénk színeit és kivilágított szobrait, ezért hozzon magával teljesen feltöltött fényképezőgépet a látvány megörökítéséhez.",
+            "ro": "Minunează-te de culorile vibrante și sculpturile iluminate ale acestui parc magic, deci ia o cameră complet încărcată pentru a surprinde toate luminile."
+          }
+        },
+        {
+          "name": {
+            "en": "River Theater",
+            "de": "Flusstheater",
+            "hu": "Folyó Színház",
+            "ro": "Teatrul Râului"
+          },
+          "coords": [
+            98.288627,
+            7.958228
+          ],
+          "category": "cultural",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "en": "Watch an incredible live performance showcasing local folklore in this elegant theater, and always consider booking your tickets well in advance for best seats.",
+            "de": "Sehen Sie sich in diesem eleganten Theater eine unglaubliche Live-Show zur lokalen Folklore an und buchen Sie Ihre Tickets frühzeitig für die besten Plätze.",
+            "hu": "Nézzen meg egy hihetetlen, helyi folklórt bemutató élő előadást ebben az elegáns színházban, és a legjobb helyekért érdemes jó előre lefoglalni a jegyeket.",
+            "ro": "Vizionează un spectacol live incredibil despre folclorul local în acest teatru elegant și rezervă-ți mereu biletele cu mult timp înainte pentru locuri bune."
+          }
+        },
+        {
+          "name": {
+            "en": "333 Museum",
+            "de": "333 Museum",
+            "hu": "333 Múzeum",
+            "ro": "Muzeul 333"
+          },
+          "coords": [
+            98.284066,
+            7.961411
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Discover fascinating contemporary exhibits and unique local artwork in this quirky museum space, and check the entrance desk for an English language audio guide.",
+            "de": "Entdecken Sie faszinierende Ausstellungen und einzigartige Kunstwerke in diesem skurrilen Museum und fragen Sie an der Kasse rechtzeitig nach einem Audioguide.",
+            "hu": "Fedezzen fel lenyűgöző kortárs kiállításokat és egyedi műalkotásokat ebben a különös múzeumban, és kérjen angol nyelvű audioguide-ot rögtön a bejárati pultnál.",
+            "ro": "Descoperă expoziții contemporane fascinante și opere de artă unice în acest muzeu excentric și solicită un ghid audio în limba engleză chiar la biroul de la intrare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning with a refreshing stroll along the soft sands of Kamala Beach, taking in the tranquil ocean views. The gentle waves offer a perfect, peaceful beginning to your day.",
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang über den weichen Sand des Kamala Beach und genießen Sie den ruhigen Blick auf den Ozean. Die sanften Wellen bieten einen perfekten Start.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Kamala tengerpart puha homokján, és élvezze a nyugodt óceáni kilátást. A lágy hullámok tökéletes, békés kezdést biztosítanak a napnak.",
+        "ro": "Începe dimineața cu o plimbare răcoritoare pe nisipul moale de la Plaja Kamala, admirând priveliștile liniștite ale oceanului. Valurile blânde oferă un început perfect de zi."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 2.98,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Kamala Beach Estate Apartments",
+            "de": "Kamala Beach Estate Apartments",
+            "hu": "Kamala Beach Estate Apartmanok",
+            "ro": "Apartamentele Kamala Beach Estate"
+          },
+          "coords": [
+            98.275563,
+            7.950037
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Take a moment to admire the lush landscaping and elegant coastal architecture of this peaceful residential complex, and respect the privacy of the lovely guests.",
+            "de": "Bewundern Sie die üppige Landschaftsgestaltung sowie die elegante Küstenarchitektur dieses ruhigen Wohnkomplexes und respektieren Sie die Privatsphäre der Gäste.",
+            "hu": "Szánjon egy percet a buja növényzet és a békés lakópark elegáns tengerparti építészetének megcsodálására, de kérjük, tartsa tiszteletben a lakók magánéletét.",
+            "ro": "Admiră peisagistica luxuriantă și arhitectura de coastă elegantă a acestui complex rezidențial liniștit și respectă cu strictețe intimitatea oaspeților cazați."
+          }
+        },
+        {
+          "name": {
+            "en": "Kamala Beach",
+            "de": "Kamala Strand",
+            "hu": "Kamala tengerpart",
+            "ro": "Plaja Kamala"
+          },
+          "coords": [
+            98.282187,
+            7.956302
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Enjoy the soft sands and calm waters of this beautiful beach; it is absolutely perfect for a morning swim if you bring a towel and arrive before the crowds.",
+            "de": "Genießen Sie den weichen Sand dieses Strandes; er ist ideal für ein morgendliches Bad, wenn Sie ein Handtuch mitbringen und deutlich vor den Massen ankommen.",
+            "hu": "Élvezze a tengerpart puha homokját; ez a partszakasz tökéletes egy reggeli úszáshoz, de hozzon magával törölközőt és érkezzen meg a délutáni tömeg előtt.",
+            "ro": "Bucură-te de nisipul fin al acestei plaje magnifice, care este ideală pentru o baie matinală dacă îți aduci prosopul și ajungi acolo înainte de aglomerație."
+          }
+        },
+        {
+          "name": {
+            "en": "Phuket FantaSea",
+            "de": "Phuket FantaSea",
+            "hu": "Phuket FantaSea",
+            "ro": "Phuket FantaSea"
+          },
+          "coords": [
+            98.286103,
+            7.956695
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Explore this expansive cultural theme park to see stunning Thai architecture, but be sure to wear very comfortable walking shoes to easily cover the vast area.",
+            "de": "Erkunden Sie diesen riesigen Kulturpark mit atemberaubender thailändischer Architektur, aber tragen Sie bequeme Schuhe, um das große Areal gut zu bewältigen.",
+            "hu": "Fedezze fel ezt a hatalmas kulturális parkot, ahol lenyűgöző thai építészet várja, de viseljen kényelmes cipőt a nagy terület bejárásának megkönnyítéséhez.",
+            "ro": "Explorează acest uriaș parc cultural pentru a admira arhitectura thailandeză uimitoare, dar poartă o încălțăminte foarte confortabilă pentru a acoperi zona."
+          }
+        },
+        {
+          "name": {
+            "en": "Carnival Magic",
+            "de": "Carnival Magic",
+            "hu": "Carnival Magic",
+            "ro": "Carnival Magic"
+          },
+          "coords": [
+            98.286982,
+            7.958201
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "en": "Marvel at the vibrant colors and illuminated sculptures of this magical park, so remember to bring a fully charged camera to capture the spectacular displays.",
+            "de": "Bestaunen Sie die leuchtenden Farben und beleuchteten Skulpturen dieses zauberhaften Parks; bringen Sie eine volle Kamera mit, um die Kulissen einzufangen.",
+            "hu": "Csodálja meg a varázslatos park élénk színeit és kivilágított szobrait, ezért hozzon magával teljesen feltöltött fényképezőgépet a látvány megörökítéséhez.",
+            "ro": "Minunează-te de culorile vibrante și sculpturile iluminate ale acestui parc magic, deci ia o cameră complet încărcată pentru a surprinde toate luminile."
+          }
+        },
+        {
+          "name": {
+            "en": "333 Museum",
+            "de": "333 Museum",
+            "hu": "333 Múzeum",
+            "ro": "Muzeul 333"
+          },
+          "coords": [
+            98.284066,
+            7.961411
+          ],
+          "category": "museum",
+          "arrive_at": "14:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Discover fascinating contemporary exhibits and unique local artwork in this quirky museum space, and check the entrance desk for an English language audio guide.",
+            "de": "Entdecken Sie faszinierende Ausstellungen und einzigartige Kunstwerke in diesem skurrilen Museum und fragen Sie an der Kasse rechtzeitig nach einem Audioguide.",
+            "hu": "Fedezzen fel lenyűgöző kortárs kiállításokat és egyedi műalkotásokat ebben a különös múzeumban, és kérjen angol nyelvű audioguide-ot rögtön a bejárati pultnál.",
+            "ro": "Descoperă expoziții contemporane fascinante și opere de artă unice în acest muzeu excentric și solicită un ghid audio în limba engleză chiar la biroul de la intrare."
+          }
+        },
+        {
+          "name": {
+            "en": "Laem Sing Beach",
+            "de": "Laem Sing Strand",
+            "hu": "Laem Sing tengerpart",
+            "ro": "Plaja Laem Sing"
+          },
+          "coords": [
+            98.279433,
+            7.968394
+          ],
+          "category": "recreational",
+          "arrive_at": "16:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "en": "Relax at this stunning hidden cove featuring crystal-clear water, but be prepared for a rather steep descent from the main road down to the secluded sandy shore.",
+            "de": "Entspannen Sie in dieser atemberaubenden, versteckten Bucht mit kristallklarem Wasser, aber bereiten Sie sich auf einen steilen Abstieg von der Hauptstraße vor.",
+            "hu": "Pihenjen ebben a kristálytiszta vizű, lenyűgöző rejtett öbölben, de készüljön fel arra, hogy a főútról nagyon meredek ösvényen kell leereszkednie a homokos partra.",
+            "ro": "Relaxează-te în acest golf ascuns cu ape limpezi precum cristalul, dar fii pregătit pentru o coborâre destul de abruptă de la drumul principal până la mica plajă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start with a leisurely bike ride along the southern estates, soaking in the tropical architecture before arriving at the popular Kamala Beach. Spend your mid-morning relaxing by the gentle waves.",
+        "de": "Beginnen Sie mit einer gemütlichen Radtour entlang der südlichen Anwesen, bevor Sie den beliebten Kamala Beach erreichen. Entspannen Sie sich am späten Vormittag an den sanften Wellen.",
+        "hu": "Kezdje egy kényelmes biciklizéssel a déli birtokok mentén, élvezve a trópusi építészetet, mielőtt megérkezik a népszerű Kamala strandra. Töltse a délelőttöt a lágy hullámok melletti pihenéssel.",
+        "ro": "Începe cu o plimbare lejeră cu bicicleta pe lângă domeniile sudice, admirând arhitectura tropicală înainte de a ajunge la populara Plajă Kamala. Relaxează-te lângă valurile blânde."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 8.03,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Nakalay Beach",
+            "de": "Nakalay Strand",
+            "hu": "Nakalay tengerpart",
+            "ro": "Plaja Nakalay"
+          },
+          "coords": [
+            98.27384,
+            7.92505
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start your day at this exclusive, quiet beach perfect for sunbathing, but remember that access is sometimes somewhat restricted by the nearby private resort property.",
+            "de": "Beginnen Sie Ihren Tag an diesem exklusiven, ruhigen Strand, aber denken Sie daran, dass der Zugang manchmal durch das nahe gelegene private Resort begrenzt ist.",
+            "hu": "Kezdje a napot ezen az exkluzív, csendes strandon, de ne feledje, hogy a megközelítést néha korlátozza a közeli magán üdülőközpont területe a vendégek számára.",
+            "ro": "Începe ziua pe această plajă exclusivistă, perfectă pentru băi de soare, dar reține că accesul este uneori restricționat de proprietatea privată din apropiere."
+          }
+        },
+        {
+          "name": {
+            "en": "Camp Chang Kalim",
+            "de": "Camp Chang Kalim",
+            "hu": "Camp Chang Kalim",
+            "ro": "Tabăra Chang Kalim"
+          },
+          "coords": [
+            98.280423,
+            7.923232
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Enjoy an unforgettable elephant interaction with beautiful jungle views, and always carefully verify their ethical practices to ensure the animals are well-treated.",
+            "de": "Genießen Sie eine unvergessliche Begegnung mit Elefanten samt Dschungelblick, und prüfen Sie stets die ethischen Praktiken zum Wohle der Tiere genau vor Ort.",
+            "hu": "Élvezze a felejthetetlen találkozást az elefántokkal és a dzsungel látványát, és mindig ellenőrizze az etikai gyakorlatokat az állatok kiváló jóléte érdekében.",
+            "ro": "Bucură-te de o interacțiune de neuitat cu elefanții și de vederi superbe spre junglă, dar verifică mereu practicile etice pentru a asigura bunăstarea animalelor."
+          }
+        },
+        {
+          "name": {
+            "en": "Hua Beach",
+            "de": "Hua Strand",
+            "hu": "Hua tengerpart",
+            "ro": "Plaja Hua"
+          },
+          "coords": [
+            98.265234,
+            7.947389
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "en": "Escape the tourist trail at this very quiet and rustic coastal stretch, so be sure to bring your own drinks and snacks as there are absolutely no facilities around.",
+            "de": "Entfliehen Sie den Touristenströmen an diesem sehr ruhigen und rustikalen Küstenstreifen. Bringen Sie eigene Getränke mit, da es hier keinerlei Anlagen gibt.",
+            "hu": "Meneküljön el a turisták elől erre a rendkívül csendes és rusztikus partszakaszra, ezért hozzon saját italokat és rágcsálnivalót, mivel itt nincsenek büfék.",
+            "ro": "Evadează de agitație la această plajă foarte liniștită și rustică, așa că adu-ți propriile băuturi și gustări deoarece nu există absolut nicio facilitate pe aici."
+          }
+        },
+        {
+          "name": {
+            "en": "Kamala Beach",
+            "de": "Kamala Strand",
+            "hu": "Kamala tengerpart",
+            "ro": "Plaja Kamala"
+          },
+          "coords": [
+            98.282187,
+            7.956302
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "en": "Enjoy the soft sands and calm waters of this beautiful beach; it is absolutely perfect for a morning swim if you bring a towel and arrive before the crowds.",
+            "de": "Genießen Sie den weichen Sand dieses Strandes; er ist ideal für ein morgendliches Bad, wenn Sie ein Handtuch mitbringen und deutlich vor den Massen ankommen.",
+            "hu": "Élvezze a tengerpart puha homokját; ez a partszakasz tökéletes egy reggeli úszáshoz, de hozzon magával törölközőt és érkezzen meg a délutáni tömeg előtt.",
+            "ro": "Bucură-te de nisipul fin al acestei plaje magnifice, care este ideală pentru o baie matinală dacă îți aduci prosopul și ajungi acolo înainte de aglomerație."
+          }
+        },
+        {
+          "name": {
+            "en": "Phuket FantaSea",
+            "de": "Phuket FantaSea",
+            "hu": "Phuket FantaSea",
+            "ro": "Phuket FantaSea"
+          },
+          "coords": [
+            98.286103,
+            7.956695
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Explore this expansive cultural theme park to see stunning Thai architecture, but be sure to wear very comfortable walking shoes to easily cover the vast area.",
+            "de": "Erkunden Sie diesen riesigen Kulturpark mit atemberaubender thailändischer Architektur, aber tragen Sie bequeme Schuhe, um das große Areal gut zu bewältigen.",
+            "hu": "Fedezze fel ezt a hatalmas kulturális parkot, ahol lenyűgöző thai építészet várja, de viseljen kényelmes cipőt a nagy terület bejárásának megkönnyítéséhez.",
+            "ro": "Explorează acest uriaș parc cultural pentru a admira arhitectura thailandeză uimitoare, dar poartă o încălțăminte foarte confortabilă pentru a acoperi zona."
+          }
+        },
+        {
+          "name": {
+            "en": "Carnival Magic",
+            "de": "Carnival Magic",
+            "hu": "Carnival Magic",
+            "ro": "Carnival Magic"
+          },
+          "coords": [
+            98.286982,
+            7.958201
+          ],
+          "category": "landmark",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "en": "Marvel at the vibrant colors and illuminated sculptures of this magical park, so remember to bring a fully charged camera to capture the spectacular displays.",
+            "de": "Bestaunen Sie die leuchtenden Farben und beleuchteten Skulpturen dieses zauberhaften Parks; bringen Sie eine volle Kamera mit, um die Kulissen einzufangen.",
+            "hu": "Csodálja meg a varázslatos park élénk színeit és kivilágított szobrait, ezért hozzon magával teljesen feltöltött fényképezőgépet a látvány megörökítéséhez.",
+            "ro": "Minunează-te de culorile vibrante și sculpturile iluminate ale acestui parc magic, deci ia o cameră complet încărcată pentru a surprinde toate luminile."
+          }
+        },
+        {
+          "name": {
+            "en": "Laem Sing Beach",
+            "de": "Laem Sing Strand",
+            "hu": "Laem Sing tengerpart",
+            "ro": "Plaja Laem Sing"
+          },
+          "coords": [
+            98.279433,
+            7.968394
+          ],
+          "category": "recreational",
+          "arrive_at": "17:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Relax at this stunning hidden cove featuring crystal-clear water, but be prepared for a rather steep descent from the main road down to the secluded sandy shore.",
+            "de": "Entspannen Sie in dieser atemberaubenden, versteckten Bucht mit kristallklarem Wasser, aber bereiten Sie sich auf einen steilen Abstieg von der Hauptstraße vor.",
+            "hu": "Pihenjen ebben a kristálytiszta vizű, lenyűgöző rejtett öbölben, de készüljön fel arra, hogy a főútról nagyon meredek ösvényen kell leereszkednie a homokos partra.",
+            "ro": "Relaxează-te în acest golf ascuns cu ape limpezi precum cristalul, dar fii pregătit pentru o coborâre destul de abruptă de la drumul principal până la mica plajă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your road trip begins at the pristine Nakalay Beach, followed by an engaging visit to Camp Chang Kalim in the hills. The morning drive offers excellent views of the Andaman Sea coastline.",
+        "de": "Ihr Roadtrip beginnt am unberührten Nakalay Beach, gefolgt von einem Besuch im Camp Chang Kalim in den Hügeln. Die morgendliche Fahrt bietet hervorragende Ausblicke auf die Küste.",
+        "hu": "Autós kirándulása az érintetlen Nakalay strandon kezdődik, majd egy érdekes látogatással folytatódik a hegyekben lévő Camp Chang Kalimban. A reggeli út kiváló kilátást nyújt a partra.",
+        "ro": "Excursia începe la plaja neatinsă Nakalay, urmată de o vizită captivantă la Tabăra Chang Kalim. Plimbarea de dimineață oferă priveliști excelente asupra coastei Mării Andaman."
+      }
+    }
+  }
+}

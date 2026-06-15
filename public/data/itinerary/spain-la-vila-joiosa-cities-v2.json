@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-la-vila-joiosa-cities-v2",
+  "anchor": {
+    "name": "la Vila Joiosa",
+    "coords": [
+      -0.22962,
+      38.51008
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Tio Roig",
+            "hu": "Platja del Tio Roig",
+            "ro": "Platja del Tio Roig",
+            "en": "Platja del Tio Roig"
+          },
+          "coords": [
+            -0.209912,
+            38.510999
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an dieser ruhigen Kieselbucht, um die morgendliche Meeresbrise zu genießen, und tragen Sie feste Schuhe für ein bequemes Gehen.",
+            "hu": "Kezdje a napot ezen a csendes kavicsos öbölnél, ahol élvezheti a reggeli tengeri szellőt, de ne felejtsen el kényelmes, zárt cipőt viselni a sétához.",
+            "ro": "Începeți la acest golfuleț liniștit cu pietriș pentru a vă bucura de briza mării dimineața, purtând încălțăminte robustă pentru o plimbare confortabilă.",
+            "en": "Begin at this quiet pebble cove to enjoy the morning sea breeze, admiring its rugged natural charm while wearing sturdy shoes for comfortable walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Estudiants",
+            "hu": "Platja dels Estudiants",
+            "ro": "Platja dels Estudiants",
+            "en": "Platja dels Estudiants"
+          },
+          "coords": [
+            -0.211225,
+            38.510474
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem lebhaften Abschnitt entlang, wo historischer Charme auf das Meer trifft, und nutzen Sie den perfekten Ort für sonnige Fotos.",
+            "hu": "Sétáljon végig ezen a nyüzsgő szakaszon, ahol a történelmi báj találkozik a tengerrel, amely tökéletes helyszín napfényes fotók készítésére.",
+            "ro": "Plimbați-vă de-a lungul acestei fâșii pline de viață unde farmecul istoric întâlnește marea, fiind locul perfect pentru fotografii și o răcoritoare.",
+            "en": "Stroll along this lively stretch where historical charm meets the sea, making it the perfect spot to capture sunny photos and grab a quick refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja Varador",
+            "hu": "Platja Varador",
+            "ro": "Platja Varador",
+            "en": "Platja Varador"
+          },
+          "coords": [
+            -0.212957,
+            38.50963
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem breiten, leicht zugänglichen Strand, der für seine hervorragende Wasserqualität bekannt ist, und bringen Sie ein Handtuch mit.",
+            "hu": "Pihenjen meg ezen a széles, könnyen megközelíthető strandon, amely kiváló vízminőségéről ismert, ezért feltétlenül hozzon magával egy törölközőt.",
+            "ro": "Relaxați-vă pe această plajă largă și accesibilă, recunoscută pentru calitatea excelentă a apei, așa că aduceți un prosop pentru a vă odihni puțin.",
+            "en": "Relax at this broad, easily accessible beach known for its excellent water quality, so bring a towel to rest briefly and soak up the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Vila Joiosa",
+            "hu": "Platja de la Vila Joiosa",
+            "ro": "Platja de la Vila Joiosa",
+            "en": "Platja de la Vila Joiosa"
+          },
+          "coords": [
+            -0.227697,
+            38.505721
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das zentrale Zentrum des Küstenlebens mit seinen bunten Häusern an der Promenade, ideal für eine längere Mittagspause und ein Essen am Meer.",
+            "hu": "Tapasztalja meg a tengerparti élet központját a sétányt szegélyező ikonikus színes házakkal, amely ideális egy hosszabb déli pihenőhöz és ebédhez.",
+            "ro": "Experimentați inima vieții de coastă cu casele sale colorate iconice de-a lungul promenadei, ideal pentru o pauză lungă de prânz și o masă la malul mării.",
+            "en": "Experience the central hub of coastal life with its iconic colorful houses lining the promenade, ideal for a longer midday break and a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Paradís",
+            "hu": "Platja del Paradís",
+            "ro": "Platja del Paradís",
+            "en": "Platja del Paradís"
+          },
+          "coords": [
+            -0.255859,
+            38.49719
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen, von Palmen gesäumten Ufer, das seinem Namen alle Ehre macht, und denken Sie an ausreichend Sonnencreme.",
+            "hu": "Töltődjön fel ezen a festői, pálmafákkal övezett partszakaszon, amely valóban méltó a nevéhez, és ne felejtsen el naptejet is csomagolni délutánra.",
+            "ro": "Relaxați-vă pe această coastă pitorească mărginită de palmieri care își merită cu adevărat numele, și nu uitați să luați cremă de protecție solară.",
+            "en": "Unwind on this scenic, palm-fringed shoreline that truly lives up to its paradisiacal name, and remember to pack some sunscreen for your afternoon stay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der ruhigeren Buchten und spüren Sie die frische Meeresbrise. Gegen Mittag laden die lebhaften zentralen Strände dazu ein, sich unter die Einheimischen zu mischen und die bunten Häuser zu bewundern. Verbringen Sie den Nachmittag in der Sonne. Der Abend lässt den Tag an einem abgelegenen Strand ausklingen, während sich der Himmel färbt.",
+        "hu": "Kezdje a reggelt a csendesebb öblök felfedezésével, miközben érzi a friss tengeri szellőt. Ahogy közeledik a dél, a nyüzsgő központi strandok csábítják, hogy elvegyüljön a helyiek között és megcsodálja a színes házakat. Töltse a délutánt a mediterrán napsütésben a pálmafás homokon. Az este lassan lezárja a napot egy eldugott tengerparton, figyelve az égbolt színpompás változását.",
+        "ro": "Începeți dimineața explorând golfurile mai liniștite, simțind briza proaspătă a mării. La amiază, plajele centrale pline de viață vă invită să vă amestecați cu localnicii și să admirați casele colorate. Petreceți după-amiaza la soarele mediteranean pe nisipurile cu palmieri. Seara încheie ușor ziua pe o plajă retrasă, privindu-vă cum cerul își schimbă treptat nuanțele spectaculoase.",
+        "en": "Start your morning with a refreshing exploration of the quieter coves, feeling the crisp sea breeze on your face. As midday approaches, the vibrant central beaches invite you to mingle with locals and admire the colorful houses. Spend your afternoon soaking up the Mediterranean sun on palm-fringed sands. The evening gently wraps up the day at a secluded beach, watching the sky change colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja la Caleta",
+            "hu": "Platja la Caleta",
+            "ro": "Platja la Caleta",
+            "en": "Platja la Caleta"
+          },
+          "coords": [
+            -0.270479,
+            38.493629
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem abgelegenen und unberührten Ort mit einem wunderschönen Sonnenuntergang, und suchen Sie sich einen bequemen Felsen.",
+            "hu": "Fejezze be tengerparti utazását ezen az eldugott és érintetlen helyen, amely gyönyörű naplemente kilátást nyújt, így keressen egy kényelmes sziklát.",
+            "ro": "Încheiați-vă călătoria pe coastă în acest loc izolat și curat care oferă o priveliște superbă la apus, așa că găsiți o stâncă confortabilă pentru relaxare.",
+            "en": "End your coastal journey at this secluded and pristine spot that offers a beautiful sunset view, so find a comfortable rock to sit back and reflect."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Esparrelló",
+            "hu": "Platja de l'Esparrelló",
+            "ro": "Platja de l'Esparrelló",
+            "en": "Platja de l'Esparrelló"
+          },
+          "coords": [
+            -0.268883,
+            38.494303
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte, ruhige Bucht, umgeben von kristallklarem Wasser, die sich hervorragend zum Schnorcheln mit eigener Ausrüstung eignet.",
+            "hu": "Fedezze fel ezt a rejtett, nyugodt öblöt, amelyet kristálytiszta víz vesz körül, így fantasztikus célpont sznorkelezéshez, ha hoz saját felszerelést.",
+            "ro": "Descoperiți acest golf ascuns și liniștit, înconjurat de ape cristaline, fiind o destinație fantastică pentru snorkeling dacă aveți echipament propriu.",
+            "en": "Discover this hidden, tranquil cove surrounded by crystal-clear waters, making it a fantastic destination for snorkeling if you bring your own gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Bol Nou",
+            "hu": "Platja del Bol Nou",
+            "ro": "Platja del Bol Nou",
+            "en": "Platja del Bol Nou"
+          },
+          "coords": [
+            -0.263097,
+            38.495775
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Klippen, die diesen atemberaubenden Sandstrand vor dem Wind schützen, und genießen Sie diesen friedlichen Rückzugsort.",
+            "hu": "Csodálja meg a drámai sziklákat, amelyek megvédik ezt a lenyűgöző homokos strandot a széltől, békés menedéket nyújtva a teljes kikapcsolódáshoz.",
+            "ro": "Admirați stâncile dramatice care adăpostesc de vânt această plajă superbă cu nisip, oferind un refugiu pașnic unde vă puteți lăsa bunurile în siguranță.",
+            "en": "Admire the dramatic cliffs that shelter this stunning sandy beach from the wind, providing a peaceful retreat where you can safely leave your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Paradís",
+            "hu": "Platja del Paradís",
+            "ro": "Platja del Paradís",
+            "en": "Platja del Paradís"
+          },
+          "coords": [
+            -0.255859,
+            38.49719
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen, von Palmen gesäumten Ufer, das seinem Namen alle Ehre macht, und denken Sie an ausreichend Sonnencreme.",
+            "hu": "Töltődjön fel ezen a festői, pálmafákkal övezett partszakaszon, amely valóban méltó a nevéhez, és ne felejtsen el naptejet is csomagolni délutánra.",
+            "ro": "Relaxați-vă pe această coastă pitorească mărginită de palmieri care își merită cu adevărat numele, și nu uitați să luați cremă de protecție solară.",
+            "en": "Unwind on this scenic, palm-fringed shoreline that truly lives up to its paradisiacal name, and remember to pack some sunscreen for your afternoon stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Vila Joiosa",
+            "hu": "Platja de la Vila Joiosa",
+            "ro": "Platja de la Vila Joiosa",
+            "en": "Platja de la Vila Joiosa"
+          },
+          "coords": [
+            -0.227697,
+            38.505721
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das zentrale Zentrum des Küstenlebens mit seinen bunten Häusern an der Promenade, ideal für eine längere Mittagspause und ein Essen am Meer.",
+            "hu": "Tapasztalja meg a tengerparti élet központját a sétányt szegélyező ikonikus színes házakkal, amely ideális egy hosszabb déli pihenőhöz és ebédhez.",
+            "ro": "Experimentați inima vieții de coastă cu casele sale colorate iconice de-a lungul promenadei, ideal pentru o pauză lungă de prânz și o masă la malul mării.",
+            "en": "Experience the central hub of coastal life with its iconic colorful houses lining the promenade, ideal for a longer midday break and a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Estudiants",
+            "hu": "Platja dels Estudiants",
+            "ro": "Platja dels Estudiants",
+            "en": "Platja dels Estudiants"
+          },
+          "coords": [
+            -0.211225,
+            38.510474
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem lebhaften Abschnitt entlang, wo historischer Charme auf das Meer trifft, und nutzen Sie den perfekten Ort für sonnige Fotos.",
+            "hu": "Sétáljon végig ezen a nyüzsgő szakaszon, ahol a történelmi báj találkozik a tengerrel, amely tökéletes helyszín napfényes fotók készítésére.",
+            "ro": "Plimbați-vă de-a lungul acestei fâșii pline de viață unde farmecul istoric întâlnește marea, fiind locul perfect pentru fotografii și o răcoritoare.",
+            "en": "Stroll along this lively stretch where historical charm meets the sea, making it the perfect spot to capture sunny photos and grab a quick refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der ruhigeren Buchten und spüren Sie die frische Meeresbrise. Gegen Mittag laden die lebhaften zentralen Strände dazu ein, sich unter die Einheimischen zu mischen und die bunten Häuser zu bewundern. Verbringen Sie den Nachmittag in der Sonne. Der Abend lässt den Tag an einem abgelegenen Strand ausklingen, während sich der Himmel färbt.",
+        "hu": "Kezdje a reggelt a csendesebb öblök felfedezésével, miközben érzi a friss tengeri szellőt. Ahogy közeledik a dél, a nyüzsgő központi strandok csábítják, hogy elvegyüljön a helyiek között és megcsodálja a színes házakat. Töltse a délutánt a mediterrán napsütésben a pálmafás homokon. Az este lassan lezárja a napot egy eldugott tengerparton, figyelve az égbolt színpompás változását.",
+        "ro": "Începeți dimineața explorând golfurile mai liniștite, simțind briza proaspătă a mării. La amiază, plajele centrale pline de viață vă invită să vă amestecați cu localnicii și să admirați casele colorate. Petreceți după-amiaza la soarele mediteranean pe nisipurile cu palmieri. Seara încheie ușor ziua pe o plajă retrasă, privindu-vă cum cerul își schimbă treptat nuanțele spectaculoase.",
+        "en": "Start your morning with a refreshing exploration of the quieter coves, feeling the crisp sea breeze on your face. As midday approaches, the vibrant central beaches invite you to mingle with locals and admire the colorful houses. Spend your afternoon soaking up the Mediterranean sun on palm-fringed sands. The evening gently wraps up the day at a secluded beach, watching the sky change colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Tio Roig",
+            "hu": "Platja del Tio Roig",
+            "ro": "Platja del Tio Roig",
+            "en": "Platja del Tio Roig"
+          },
+          "coords": [
+            -0.209912,
+            38.510999
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an dieser ruhigen Kieselbucht, um die morgendliche Meeresbrise zu genießen, und tragen Sie feste Schuhe für ein bequemes Gehen.",
+            "hu": "Kezdje a napot ezen a csendes kavicsos öbölnél, ahol élvezheti a reggeli tengeri szellőt, de ne felejtsen el kényelmes, zárt cipőt viselni a sétához.",
+            "ro": "Începeți la acest golfuleț liniștit cu pietriș pentru a vă bucura de briza mării dimineața, purtând încălțăminte robustă pentru o plimbare confortabilă.",
+            "en": "Begin at this quiet pebble cove to enjoy the morning sea breeze, admiring its rugged natural charm while wearing sturdy shoes for comfortable walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja Varador",
+            "hu": "Platja Varador",
+            "ro": "Platja Varador",
+            "en": "Platja Varador"
+          },
+          "coords": [
+            -0.212957,
+            38.50963
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem breiten, leicht zugänglichen Strand, der für seine hervorragende Wasserqualität bekannt ist, und bringen Sie ein Handtuch mit.",
+            "hu": "Pihenjen meg ezen a széles, könnyen megközelíthető strandon, amely kiváló vízminőségéről ismert, ezért feltétlenül hozzon magával egy törölközőt.",
+            "ro": "Relaxați-vă pe această plajă largă și accesibilă, recunoscută pentru calitatea excelentă a apei, așa că aduceți un prosop pentru a vă odihni puțin.",
+            "en": "Relax at this broad, easily accessible beach known for its excellent water quality, so bring a towel to rest briefly and soak up the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Vila Joiosa",
+            "hu": "Platja de la Vila Joiosa",
+            "ro": "Platja de la Vila Joiosa",
+            "en": "Platja de la Vila Joiosa"
+          },
+          "coords": [
+            -0.227697,
+            38.505721
+          ],
+          "category": "recreational",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das zentrale Zentrum des Küstenlebens mit seinen bunten Häusern an der Promenade, ideal für eine längere Mittagspause und ein Essen am Meer.",
+            "hu": "Tapasztalja meg a tengerparti élet központját a sétányt szegélyező ikonikus színes házakkal, amely ideális egy hosszabb déli pihenőhöz és ebédhez.",
+            "ro": "Experimentați inima vieții de coastă cu casele sale colorate iconice de-a lungul promenadei, ideal pentru o pauză lungă de prânz și o masă la malul mării.",
+            "en": "Experience the central hub of coastal life with its iconic colorful houses lining the promenade, ideal for a longer midday break and a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Paradís",
+            "hu": "Platja del Paradís",
+            "ro": "Platja del Paradís",
+            "en": "Platja del Paradís"
+          },
+          "coords": [
+            -0.255859,
+            38.49719
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen, von Palmen gesäumten Ufer, das seinem Namen alle Ehre macht, und denken Sie an ausreichend Sonnencreme.",
+            "hu": "Töltődjön fel ezen a festői, pálmafákkal övezett partszakaszon, amely valóban méltó a nevéhez, és ne felejtsen el naptejet is csomagolni délutánra.",
+            "ro": "Relaxați-vă pe această coastă pitorească mărginită de palmieri care își merită cu adevărat numele, și nu uitați să luați cremă de protecție solară.",
+            "en": "Unwind on this scenic, palm-fringed shoreline that truly lives up to its paradisiacal name, and remember to pack some sunscreen for your afternoon stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Bol Nou",
+            "hu": "Platja del Bol Nou",
+            "ro": "Platja del Bol Nou",
+            "en": "Platja del Bol Nou"
+          },
+          "coords": [
+            -0.263097,
+            38.495775
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Klippen, die diesen atemberaubenden Sandstrand vor dem Wind schützen, und genießen Sie diesen friedlichen Rückzugsort.",
+            "hu": "Csodálja meg a drámai sziklákat, amelyek megvédik ezt a lenyűgöző homokos strandot a széltől, békés menedéket nyújtva a teljes kikapcsolódáshoz.",
+            "ro": "Admirați stâncile dramatice care adăpostesc de vânt această plajă superbă cu nisip, oferind un refugiu pașnic unde vă puteți lăsa bunurile în siguranță.",
+            "en": "Admire the dramatic cliffs that shelter this stunning sandy beach from the wind, providing a peaceful retreat where you can safely leave your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja la Caleta",
+            "hu": "Platja la Caleta",
+            "ro": "Platja la Caleta",
+            "en": "Platja la Caleta"
+          },
+          "coords": [
+            -0.270479,
+            38.493629
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem abgelegenen und unberührten Ort mit einem wunderschönen Sonnenuntergang, und suchen Sie sich einen bequemen Felsen.",
+            "hu": "Fejezze be tengerparti utazását ezen az eldugott és érintetlen helyen, amely gyönyörű naplemente kilátást nyújt, így keressen egy kényelmes sziklát.",
+            "ro": "Încheiați-vă călătoria pe coastă în acest loc izolat și curat care oferă o priveliște superbă la apus, așa că găsiți o stâncă confortabilă pentru relaxare.",
+            "en": "End your coastal journey at this secluded and pristine spot that offers a beautiful sunset view, so find a comfortable rock to sit back and reflect."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Erkundung der ruhigeren Buchten und spüren Sie die frische Meeresbrise. Gegen Mittag laden die lebhaften zentralen Strände dazu ein, sich unter die Einheimischen zu mischen und die bunten Häuser zu bewundern. Verbringen Sie den Nachmittag in der Sonne. Der Abend lässt den Tag an einem abgelegenen Strand ausklingen, während sich der Himmel färbt.",
+        "hu": "Kezdje a reggelt a csendesebb öblök felfedezésével, miközben érzi a friss tengeri szellőt. Ahogy közeledik a dél, a nyüzsgő központi strandok csábítják, hogy elvegyüljön a helyiek között és megcsodálja a színes házakat. Töltse a délutánt a mediterrán napsütésben a pálmafás homokon. Az este lassan lezárja a napot egy eldugott tengerparton, figyelve az égbolt színpompás változását.",
+        "ro": "Începeți dimineața explorând golfurile mai liniștite, simțind briza proaspătă a mării. La amiază, plajele centrale pline de viață vă invită să vă amestecați cu localnicii și să admirați casele colorate. Petreceți după-amiaza la soarele mediteranean pe nisipurile cu palmieri. Seara încheie ușor ziua pe o plajă retrasă, privindu-vă cum cerul își schimbă treptat nuanțele spectaculoase.",
+        "en": "Start your morning with a refreshing exploration of the quieter coves, feeling the crisp sea breeze on your face. As midday approaches, the vibrant central beaches invite you to mingle with locals and admire the colorful houses. Spend your afternoon soaking up the Mediterranean sun on palm-fringed sands. The evening gently wraps up the day at a secluded beach, watching the sky change colors."
+      }
+    }
+  }
+}

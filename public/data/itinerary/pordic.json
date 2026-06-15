@@ -1,0 +1,474 @@
+{
+  "city_id": "pordic",
+  "anchor": {
+    "name": "Pordic",
+    "coords": [
+      -2.8171,
+      48.5703
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.817706,
+            48.570815
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur der Kirche im Zentrum von Pordic und besuchen Sie sie am besten am Vormittag, wenn das Licht ideal für Fotos ist.",
+            "hu": "Csodálja meg Pordic központjában található templom robusztus építészetét, és érdemes délelőtt érkezni, amikor a fényviszonyok a legszebbek a fotózáshoz.",
+            "ro": "Admirați arhitectura robustă a acestei biserici din centrul orașului Pordic și vizitați-o dimineața, când lumina este perfectă pentru a surprinde fotografii.",
+            "en": "Admire the robust architecture of this church in the center of Pordic, and try to visit in the morning when the light is perfect for capturing great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de jeu de la médiathèque",
+            "hu": "Aire de jeu de la médiathèque",
+            "ro": "Aire de jeu de la médiathèque",
+            "en": "Aire de jeu de la médiathèque"
+          },
+          "coords": [
+            -2.819382,
+            48.572169
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem gut ausgestatteten Spielplatz neben der Bibliothek spielen, während Sie sich auf einer der nahegelegenen Bänke im Schatten entspannen.",
+            "hu": "Hagyja, hogy a gyerekek játsszanak a könyvtár melletti jól felszerelt játszótéren, miközben ön megpihen egy közeli, kellemesen árnyékos padon a fák alatt.",
+            "ro": "Lăsați copiii să se joace în acest loc de joacă bine echipat de lângă bibliotecă, în timp ce vă relaxați pe una dintre băncile umbrite din apropiere.",
+            "en": "Let the kids play at this well-equipped playground next to the library while you take a moment to relax on one of the nearby comfortably shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Pordic",
+            "hu": "Étang de Pordic",
+            "ro": "Étang de Pordic",
+            "en": "Étang de Pordic"
+          },
+          "coords": [
+            -2.806064,
+            48.572633
+          ],
+          "category": "family",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Teich, und bringen Sie unbedingt etwas Brot mit, um die einheimischen Vögel am Ufer zu füttern.",
+            "hu": "Élvezze a békés sétát e festői tó körül, és feltétlenül hozzon magával némi kenyeret, hogy megetesse a parton élő helyi vízimadarakat és récék tömegét.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui iaz pitoresc și asigurați-vă că aduceți puțină pâine pentru a hrăni păsările locale de pe malul apei.",
+            "en": "Enjoy a peaceful stroll around this picturesque pond, and be sure to bring along some bread crumbs to feed the local birds that gather near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaduc du Parfond de Gouët",
+            "hu": "Viaduc du Parfond de Gouët",
+            "ro": "Viaduc du Parfond de Gouët",
+            "en": "Viaduc du Parfond de Gouët"
+          },
+          "coords": [
+            -2.797343,
+            48.557949
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses beeindruckende historische Viadukt, das tiefe Tal überspannend, und tragen Sie bequeme Schuhe, da die Pfade in der Umgebung uneben sein können.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi viaduktot, amely egy mély völgyet ível át, és viseljen kényelmes cipőt, mivel a környék erdei ösvényei egyenetlenek.",
+            "ro": "Minunați-vă de acest impresionant viaduct istoric care traversează o vale adâncă și purtați încălțăminte confortabilă, deoarece potecile pot fi denivelate.",
+            "en": "Marvel at this impressive historical viaduct spanning a deep green valley, and wear comfortable shoes as the surrounding woodland trails can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tournemine",
+            "hu": "Plage de Tournemine",
+            "ro": "Plage de Tournemine",
+            "en": "Plage de Tournemine"
+          },
+          "coords": [
+            -2.769988,
+            48.570016
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strand mit herrlichem Meerblick, und prüfen Sie vor dem Schwimmen die Gezeiten, da sich das Wasser stark zurückzieht.",
+            "hu": "Pihenjen ezen a csodálatos tengeri kilátást nyújtó, népszerű strandon, és úszás előtt ellenőrizze az árapályt, mivel apálykor a víz nagyon visszahúzódik.",
+            "ro": "Relaxați-vă pe această plajă populară cu vederi superbe la mare și verificați mareele înainte de a înota, deoarece apa se retrage destul de mult la reflux.",
+            "en": "Relax on this popular beach offering wonderful sea views, and make sure to check the local tide times before swimming as the water recedes quite far at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Pordic an der historischen Kirche, wo Sie das lokale Leben beobachten können. Ein kurzer Spaziergang führt Sie zum Spielplatz, perfekt für Familien. Mittags entspannen Sie am friedlichen Seeufer. Der Nachmittag bringt Sie zum beeindruckenden Viadukt, einem Meisterwerk der Ingenieurskunst. Der Tag endet entspannt an der Küste mit sanftem Meeresrauschen.",
+        "hu": "A reggel Pordic szívében, a történelmi templomnál kezdődik, ahol megfigyelheti a helyi életet. Egy rövid séta elvezeti a családok számára tökéletes játszótérhez. Délben a békés tóparton pihenhet. A délután a lenyűgöző viadukthoz viszi, amely a mérnöki munka igazi remekműve. A nap a tengerparton ér véget, a hullámok lágy morajlása mellett.",
+        "ro": "Dimineața începe în inima orașului Pordic la biserica istorică, unde puteți observa viața locală. O scurtă plimbare vă duce la locul de joacă, perfect pentru familii. La prânz, vă veți relaxa pe malul pașnic al iazului. După-amiaza vă aduce la impresionantul viaduct, o adevărată capodoperă inginerească. Ziua se încheie liniștit pe coastă, ascultând sunetul blând al mării.",
+        "en": "The morning begins in the heart of Pordic at the historic church, a great spot to observe local life. A brief walk takes you to the playground, perfect for families. By midday, you will relax by the peaceful pond. The afternoon brings you to the impressive viaduct, a true engineering marvel. The day concludes at the coast, listening to the gentle sound of the ocean waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de Vaudic",
+            "hu": "Chapelle de Vaudic",
+            "ro": "Chapelle de Vaudic",
+            "en": "Chapelle de Vaudic"
+          },
+          "coords": [
+            -2.850882,
+            48.582544
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgene Schönheit dieser kleinen, friedlichen Kapelle auf dem Land, und genießen Sie die absolute Stille, die diesen charmanten Ort umgibt.",
+            "hu": "Fedezze fel ennek a kis, békés vidéki kápolnának a rejtett szépségét, és élvezze az abszolút csendet, amely ezt a végtelenül bájos helyet teljesen körülveszi.",
+            "ro": "Descoperiți frumusețea ascunsă a acestei mici și pașnice capele rurale, bucurându-vă de liniștea absolută care înconjoară acest loc cu adevărat fermecător.",
+            "en": "Discover the hidden beauty of this small, peaceful countryside chapel, and take a moment to appreciate the absolute silence that surrounds this charming spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Pré-Péan",
+            "hu": "Manoir du Pré-Péan",
+            "ro": "Manoir du Pré-Péan",
+            "en": "Manoir du Pré-Péan"
+          },
+          "coords": [
+            -2.832367,
+            48.575292
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie von außen dieses elegante historische Herrenhaus, das die lokale Architektur perfekt widerspiegelt, und respektieren Sie die Privatsphäre der Bewohner.",
+            "hu": "Tekintse meg kívülről ezt az elegáns történelmi udvarházat, amely tökéletesen tükrözi a helyi építészetet, ugyanakkor tartsa tiszteletben a lakók magánéletét.",
+            "ro": "Vizitați exteriorul acestui conac istoric elegant, care reflectă perfect arhitectura locală, asigurându-vă totodată că respectați intimitatea rezidenților.",
+            "en": "View the exterior of this elegant historical manor that perfectly reflects local architectural styles, being careful to respect the privacy of its current residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.817706,
+            48.570815
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur der Kirche im Zentrum von Pordic und besuchen Sie sie am besten am Vormittag, wenn das Licht ideal für Ihre Fotos ist.",
+            "hu": "Csodálja meg Pordic központjában található templom robusztus építészetét, és érdemes délelőtt érkezni, amikor a fényviszonyok a legszebbek a remek fotózáshoz.",
+            "ro": "Admirați arhitectura robustă a acestei biserici din centrul orașului Pordic și vizitați-o dimineața, când lumina este perfectă pentru a surprinde fotografii.",
+            "en": "Admire the robust architecture of this church in the center of Pordic, and try to visit in the morning when the light is perfect for capturing great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Petit Havre",
+            "hu": "Plage du Petit Havre",
+            "ro": "Plage du Petit Havre",
+            "en": "Plage du Petit Havre"
+          },
+          "coords": [
+            -2.787509,
+            48.584346
+          ],
+          "category": "natural",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Natur dieses kleinen, naturbelassenen Hafens, und bringen Sie eine Windjacke mit, da die stetige Meeresbrise hier sehr frisch sein kann.",
+            "hu": "Fedezze fel ennek a kis, érintetlen kikötőnek a zord természetét, és hozzon magával széldzsekit, mivel az állandó tengeri szél itt igen frissítő és hideg lehet.",
+            "ro": "Explorați natura sălbatică a acestui mic port natural și aduceți o jachetă de vânt, deoarece briza constantă a mării poate fi destul de răcoroasă în acest loc.",
+            "en": "Explore the rugged nature of this small, unspoiled natural harbor, and bring a windbreaker along because the constant sea breeze here can be quite refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Barillet",
+            "hu": "Plage du Barillet",
+            "ro": "Plage du Barillet",
+            "en": "Plage du Barillet"
+          },
+          "coords": [
+            -2.776529,
+            48.580646
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die familiäre Atmosphäre an diesem zugänglichen Strand, der sich perfekt für ein Nachmittagspicknick eignet, wenn Sie eigene Snacks mitbringen.",
+            "hu": "Élvezze a családias hangulatot ezen a könnyen megközelíthető strandon, amely tökéletes egy délutáni piknikhez, ha saját ízletes harapnivalókat is hoz magával.",
+            "ro": "Bucurați-vă de atmosfera familială de pe această plajă accesibilă, locul perfect pentru un picnic de după-amiază dacă vă aduceți propriile gustări delicioase.",
+            "en": "Soak in the family-friendly atmosphere at this highly accessible beach, which makes for a perfect afternoon picnic spot if you pack your own local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tournemine",
+            "hu": "Plage de Tournemine",
+            "ro": "Plage de Tournemine",
+            "en": "Plage de Tournemine"
+          },
+          "coords": [
+            -2.769988,
+            48.570016
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strand mit herrlichem Meerblick, und prüfen Sie vor dem Schwimmen die Gezeiten, da sich das Wasser stark zurückzieht.",
+            "hu": "Pihenjen ezen a csodálatos tengeri kilátást nyújtó, népszerű strandon, és úszás előtt ellenőrizze az árapályt, mivel apálykor a víz nagyon visszahúzódik.",
+            "ro": "Relaxați-vă pe această plajă populară cu vederi superbe la mare și verificați mareele înainte de a înota, deoarece apa se retrage destul de mult la reflux.",
+            "en": "Relax on this popular beach offering wonderful sea views, and make sure to check the local tide times before swimming as the water recedes quite far at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der abgelegenen Chapelle de Vaudic und atmen Sie die frische Landluft ein. Vorbei am historischen Herrenhaus radeln Sie zurück ins Zentrum von Pordic. Nachmittags geht es an die Küste zum wilden Naturhafen Petit Havre. Die Route führt Sie weiter über charmante Strände, bis Sie den Tag am Plage de Tournemine ausklingen lassen.",
+        "hu": "Kezdje kerékpártúráját a félreeső Chapelle de Vaudic-nál, és szívja magába a friss vidéki levegőt. A történelmi udvarház mellett elhaladva tekerjen vissza Pordic központjába. Délután a part felé veszi az irányt, a vadregényes Petit Havre felé. Az útvonal bájos strandokon keresztül vezet, míg végül a Plage de Tournemine homokján pihenheti ki magát.",
+        "ro": "Începeți turul cu bicicleta la capela izolată Vaudic, respirând aerul proaspăt de la țară. Trecând pe lângă conacul istoric, pedalați înapoi în centrul orașului Pordic. După-amiaza vă îndreptați spre coastă pentru a vedea portul natural sălbatic Petit Havre. Traseul vă poartă peste plaje fermecătoare, încheind ziua pe nisipurile relaxante ale Plage de Tournemine.",
+        "en": "Start your cycling tour at the secluded Vaudic Chapel, taking in the fresh country air. Riding past the historic manor, you head back into the center of Pordic. The afternoon takes you to the rugged natural harbor of Petit Havre on the coast. Your route continues along charming beaches before winding down the day on the relaxing sands of Plage de Tournemine."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage des Godelins",
+            "hu": "Plage des Godelins",
+            "ro": "Plage des Godelins",
+            "en": "Plage des Godelins"
+          },
+          "coords": [
+            -2.822219,
+            48.623801
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand mit seinen ikonischen bunten Badekabinen entlang, und kommen Sie früh, um die besten Plätze direkt am Wasser zu sichern.",
+            "hu": "Sétáljon végig ezen a tágas, homokos strandon, híres színes fürdőkabinjaival, és érkezzen korán, hogy biztosítsa a legjobb helyeket közvetlenül a víz mellett.",
+            "ro": "Plimbați-vă pe această plajă spațioasă cu nisip, renumită pentru cabinele sale de baie colorate, și ajungeți devreme pentru a prinde cele mai bune locuri.",
+            "en": "Stroll along this expansive sandy beach known for its iconic colorful bathing cabins, and aim to arrive early to secure the very best spots right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Vau Chaperon",
+            "hu": "Plage du Vau Chaperon",
+            "ro": "Plage du Vau Chaperon",
+            "en": "Plage du Vau Chaperon"
+          },
+          "coords": [
+            -2.817271,
+            48.617771
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie an diesem ruhigeren Küstenabschnitt nach schönen Muscheln im feinen Sand, und vergessen Sie nicht, Sonnencreme für den ungeschützten Strand aufzutragen.",
+            "hu": "Keressen gyönyörű kagylókat a finom homokban ezen a csendesebb partszakaszon, és ne felejtse el a naptejet használni a teljesen nyitott strandrészhez.",
+            "ro": "Căutați scoici frumoase în nisipul fin pe această porțiune mai liniștită de coastă și nu uitați să aplicați protecție solară, plaja neavând umbră naturală.",
+            "en": "Look for beautiful seashells hidden in the fine sand along this quieter stretch of coast, and remember to apply sunscreen since the beach offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Avant port",
+            "hu": "Plage de l'Avant port",
+            "ro": "Plage de l'Avant port",
+            "en": "Plage de l'Avant port"
+          },
+          "coords": [
+            -2.819273,
+            48.603918
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Boote in der Nähe dieses malerischen Hafenbereichs, und schießen Sie atemberaubende Panoramafotos vom nahegelegenen Küstenpfad aus.",
+            "hu": "Figyelje meg a kis csónakokat e festői kikötő környékén, és készítsen lélegzetelállító panorámafotókat a part mentén található magaslati ösvényről letekintve.",
+            "ro": "Urmăriți micile bărci din apropierea acestei zone pitorești a portului și faceți fotografii panoramice uluitoare de pe poteca de coastă din apropiere.",
+            "en": "Watch the small boats bobbing near this picturesque harbor area, and be sure to snap some breathtaking panoramic photos from the elevated coastal path nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Banche",
+            "hu": "Plage de la Banche",
+            "ro": "Plage de la Banche",
+            "en": "Plage de la Banche"
+          },
+          "coords": [
+            -2.823849,
+            48.598357
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein erfrischendes Bad an diesem sauberen und gut gepflegten Strand, der ideal ist, um den Tag mit einem wunderschönen Blick auf den Horizont abzuschließen.",
+            "hu": "Kényeztesse magát egy frissítő fürdőzéssel ezen a tiszta és jól karbantartott strandon, amely ideális a nap befejezéséhez egy gyönyörű kilátással a horizontra.",
+            "ro": "Răsfățați-vă cu o baie răcoritoare pe această plajă curată și bine întreținută, care este absolut ideală pentru a încheia ziua privind frumosul orizont.",
+            "en": "Treat yourself to a refreshing swim at this clean and well-maintained beach, which is absolutely ideal for winding down your day while watching the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.817706,
+            48.570815
+          ],
+          "category": "religious",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur der Kirche im Zentrum von Pordic und besuchen Sie sie am besten am Vormittag, wenn das Licht ideal für Ihre Fotos ist.",
+            "hu": "Csodálja meg Pordic központjában található templom robusztus építészetét, és érdemes délelőtt érkezni, amikor a fényviszonyok a legszebbek a remek fotózáshoz.",
+            "ro": "Admirați arhitectura robustă a acestei biserici din centrul orașului Pordic și vizitați-o dimineața, când lumina este perfectă pentru a surprinde fotografii.",
+            "en": "Admire the robust architecture of this church in the center of Pordic, and try to visit in the morning when the light is perfect for capturing great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaduc du Parfond de Gouët",
+            "hu": "Viaduc du Parfond de Gouët",
+            "ro": "Viaduc du Parfond de Gouët",
+            "en": "Viaduc du Parfond de Gouët"
+          },
+          "coords": [
+            -2.797343,
+            48.557949
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses beeindruckende historische Viadukt, das tiefe Tal überspannend, und tragen Sie bequeme Schuhe, da die Pfade in der Umgebung uneben sein können.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi viaduktot, amely egy mély völgyet ível át, és viseljen kényelmes cipőt, mivel a környék erdei ösvényei egyenetlenek.",
+            "ro": "Minunați-vă de acest impresionant viaduct istoric care traversează o vale adâncă și purtați încălțăminte confortabilă, deoarece potecile pot fi denivelate.",
+            "en": "Marvel at this impressive historical viaduct spanning a deep green valley, and wear comfortable shoes as the surrounding woodland trails can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tournemine",
+            "hu": "Plage de Tournemine",
+            "ro": "Plage de Tournemine",
+            "en": "Plage de Tournemine"
+          },
+          "coords": [
+            -2.769988,
+            48.570016
+          ],
+          "category": "recreational",
+          "arrive_at": "16:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strand mit herrlichem Meerblick, und prüfen Sie vor dem Schwimmen die Gezeiten, da sich das Wasser stark zurückzieht.",
+            "hu": "Pihenjen ezen a csodálatos tengeri kilátást nyújtó, népszerű strandon, és úszás előtt ellenőrizze az árapályt, mivel apálykor a víz nagyon visszahúzódik.",
+            "ro": "Relaxați-vă pe această plajă populară cu vederi superbe la mare și verificați mareele înainte de a înota, deoarece apa se retrage destul de mult la reflux.",
+            "en": "Relax on this popular beach offering wonderful sea views, and make sure to check the local tide times before swimming as the water recedes quite far at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt ganz im Norden am bunten Strand Godelins. Eine kurze Fahrt bringt Sie zu weiteren malerischen Buchten entlang der zerklüfteten Küstenlinie. Mittags erreichen Sie das Zentrum von Pordic für eine kulturelle Pause an der Kirche. Der Nachmittag wird vom mächtigen Viadukt dominiert, bevor Sie den Tag gemütlich am Tournemine-Strand beenden.",
+        "hu": "Autós utazása egészen északon, a színes Godelins strandon kezdődik. Egy rövid út további festői öblökhöz viszi a zord partvonal mentén. Délben eléri Pordic központját egy kulturális pihenőre a templomnál. A délutánt a hatalmas viadukt uralja, mielőtt a napot kényelmesen, a Tournemine strandon fejezné be.",
+        "ro": "Călătoria cu mașina începe în nord, pe plaja colorată Godelins. Un drum scurt vă duce la alte golfuri pitorești de-a lungul coastei stâncoase. La prânz ajungeți în centrul orașului Pordic pentru o pauză culturală la biserică. După-amiaza este dominată de viaductul masiv, înainte de a încheia ziua confortabil pe plaja Tournemine.",
+        "en": "Your scenic drive starts in the far north at the colorful Godelins beach. A short trip takes you to more picturesque coves along the jagged coastline. By midday, you reach the center of Pordic for a cultural pause at the church. The afternoon is dominated by the massive viaduct, before you comfortably finish the day at Tournemine beach."
+      }
+    }
+  }
+}

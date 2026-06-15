@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-tolo-cities-v2",
+  "anchor": {
+    "name": "Tolo",
+    "coords": [
+      22.860042,
+      37.520475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mnemeio Kretikou Agoniste",
+            "hu": "Mnemeio Kretikou Agoniste",
+            "ro": "Mnemeio Kretikou Agoniste",
+            "en": "Mnemeio Kretikou Agoniste"
+          },
+          "coords": [
+            22.862097,
+            37.523513
+          ],
+          "category": "historical",
+          "arrive_at": "09:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ehre die kretischen Kämpfer an diesem historischen Denkmal, das die lokale Geschichte prägte, und nutze das sanfte Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Ródd le tiszteletedet a krétai harcosok emlékművénél, amely a helyi történelmet formálta, és érkezz kora reggel, amikor a legjobb a fény a fényképezéshez.",
+            "ro": "Aduceți un omagiu luptătorilor cretani la acest monument istoric impresionant și vizitați-l dimineața devreme pentru a profita de cea mai bună lumină fotografică.",
+            "en": "Pay respects at this poignant memorial honoring Cretan fighters who shaped local history, best visited early when the morning light offers clear photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos Strand",
+            "hu": "Psili Ammos strand",
+            "ro": "Plaja Psili Ammos",
+            "en": "Psili Ammos beach"
+          },
+          "coords": [
+            22.867395,
+            37.527042
+          ],
+          "category": "recreational",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspanne am feinen goldenen Sand dieses beliebten Strandes mit seinem kristallklaren, flachen Wasser, wo du dir frühzeitig eine Liege für maximalen Komfort sichern solltest.",
+            "hu": "Pihenj meg a népszerű tengerpart finom aranyhomokján, amely kristálytiszta, sekély vizével büszkélkedhet, és bérelj napágyat korán a maximális kényelem érdekében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje populare cu ape cristaline și puțin adânci, unde este recomandat să închiriați un șezlong devreme pentru confort.",
+            "en": "Relax on the fine golden sands of this popular shoreline which boasts shallow, crystal-clear waters, making it ideal to rent a sunbed early for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastraki",
+            "hu": "Kastraki",
+            "ro": "Kastraki",
+            "en": "Kastraki"
+          },
+          "coords": [
+            22.872333,
+            37.528212
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunde diese raue Landzunge mit ihren weiten Küstenausblicken und versteckten Buchten, für die du am besten festes Schuhwerk auf den felsigen Pfaden trägst.",
+            "hu": "Fedezd fel ezt a vadregényes földnyelvet, amely lenyűgöző tengerparti kilátást és rejtett öblöket kínál, amihez érdemes kényelmes, zárt cipőt húzni a sziklás utakon.",
+            "ro": "Explorați acest promontoriu stâncos care oferă vederi panoramice ale coastei și golfuri ascunse, fiind ideal să purtați încălțăminte solidă pe potecile accidentate.",
+            "en": "Explore this rugged headland offering sweeping coastal views and hidden coves, perfect for bringing sturdy shoes to navigate the rocky paths comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaia Asine",
+            "hu": "Arkhaia Asine",
+            "ro": "Arkhaia Asine",
+            "en": "Arkhaia Asine"
+          },
+          "coords": [
+            22.874313,
+            37.528033
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecke die von Homer in der Ilias erwähnten mykenischen Ruinen und nimm unbedingt reichlich Wasser mit, da die archäologische Stätte kaum Schattenplätze bietet.",
+            "hu": "Fedezd fel a Homérosz által az Iliászban is említett hatalmas mükénéi romokat, és vigyél magaddal sok vizet, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Descoperiți ruinele miceniene menționate de Homer în Iliada și asigurați-vă că aveți suficientă apă la dumneavoastră, deoarece situl arheologic oferă puțină umbră.",
+            "en": "Discover the extensive Mycenaean ruins mentioned by Homer in the Iliad, and make sure to bring plenty of water as the archaeological site offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Asines",
+            "hu": "Paralia Asines",
+            "ro": "Paralia Asines",
+            "en": "Paralia Asines"
+          },
+          "coords": [
+            22.879363,
+            37.528463
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erhole dich an diesem ruhigeren Kiesstrand, der für seine unberührte Naturschönheit bekannt ist, wobei Badeschuhe für ein bequemes Schwimmen sehr zu empfehlen sind.",
+            "hu": "Kapcsolódj ki ezen a csendesebb, érintetlen természeti szépségéről ismert kavicsos strandon, ahol a kényelmes úszás érdekében erősen ajánlott a vizicipő használata.",
+            "ro": "Relaxați-vă pe această porțiune liniștită de plajă cu pietriș, renumită pentru frumusețea sa naturală, unde încălțămintea de apă este recomandată pentru înot.",
+            "en": "Unwind at this quieter stretch of pebble beach renowned for its pristine natural beauty, where water shoes are highly recommended for a comfortable swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch des Denkmals der kretischen Kämpfer, bevor Sie das sanfte Rauschen des Meeres am Psili Ammos Strand genießen. Am Mittag erkunden Sie die raue Schönheit von Kastraki. Der Nachmittag ist für die faszinierenden antiken Ruinen von Arkhaia Asine reserviert, wo die Geschichte lebendig wird. Lassen Sie den Tag entspannt am ruhigen Kiesstrand Paralia Asines ausklingen.",
+        "hu": "Kezdje a napot a krétai harcosok emlékművénél, majd élvezze a Psili Ammos strand finom homokját és tiszta vizét. Délben fedezze fel Kastraki vadregényes földnyelvét és rejtett öbleit. A délután folyamán merüljön el a történelemben Arkhaia Asine lenyűgöző, Homérosz által is említett romjainál. Zárja a napot egy békés és pihentető sétával Paralia Asines csendes, kavicsos partszakaszán.",
+        "ro": "Începeți dimineața cu o vizită la monumentul luptătorilor cretani, urmată de momente de relaxare pe nisipul fin de la plaja Psili Ammos. La prânz, explorați frumusețea sălbatică a promontoriului Kastraki. După-amiaza vă poartă înapoi în timp printre impresionantele ruine miceniene de la Arkhaia Asine. Seara, relaxați-vă complet pe plaja liniștită cu pietriș de la Paralia Asines.",
+        "en": "Start your morning with a reflective visit to the Cretan fighters' monument before enjoying the soft sands of Psili Ammos beach. By midday, explore the rugged headland and hidden coves of Kastraki. The afternoon invites you to step back in time at the impressive Mycenaean ruins of Arkhaia Asine. Conclude your coastal journey with a peaceful evening stroll along the quiet pebbles of Paralia Asines."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mnemeio Kretikou Agoniste",
+            "hu": "Mnemeio Kretikou Agoniste",
+            "ro": "Mnemeio Kretikou Agoniste",
+            "en": "Mnemeio Kretikou Agoniste"
+          },
+          "coords": [
+            22.862097,
+            37.523513
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ehre die kretischen Kämpfer an diesem historischen Denkmal, das die lokale Geschichte prägte, und nutze das sanfte Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Ródd le tiszteletedet a krétai harcosok emlékművénél, amely a helyi történelmet formálta, és érkezz kora reggel, amikor a legjobb a fény a fényképezéshez.",
+            "ro": "Aduceți un omagiu luptătorilor cretani la acest monument istoric impresionant și vizitați-l dimineața devreme pentru a profita de cea mai bună lumină fotografică.",
+            "en": "Pay respects at this poignant memorial honoring Cretan fighters who shaped local history, best visited early when the morning light offers clear photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos Strand",
+            "hu": "Psili Ammos strand",
+            "ro": "Plaja Psili Ammos",
+            "en": "Psili Ammos beach"
+          },
+          "coords": [
+            22.867395,
+            37.527042
+          ],
+          "category": "recreational",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspanne am feinen goldenen Sand dieses beliebten Strandes mit seinem kristallklaren, flachen Wasser, wo du dir frühzeitig eine Liege für maximalen Komfort sichern solltest.",
+            "hu": "Pihenj meg a népszerű tengerpart finom aranyhomokján, amely kristálytiszta, sekély vizével büszkélkedhet, és bérelj napágyat korán a maximális kényelem érdekében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje populare cu ape cristaline și puțin adânci, unde este recomandat să închiriați un șezlong devreme pentru confort.",
+            "en": "Relax on the fine golden sands of this popular shoreline which boasts shallow, crystal-clear waters, making it ideal to rent a sunbed early for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaia Asine",
+            "hu": "Arkhaia Asine",
+            "ro": "Arkhaia Asine",
+            "en": "Arkhaia Asine"
+          },
+          "coords": [
+            22.874313,
+            37.528033
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecke die von Homer in der Ilias erwähnten mykenischen Ruinen und nimm unbedingt reichlich Wasser mit, da die archäologische Stätte kaum Schattenplätze bietet.",
+            "hu": "Fedezd fel a Homérosz által az Iliászban is említett hatalmas mükénéi romokat, és vigyél magaddal sok vizet, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Descoperiți ruinele miceniene menționate de Homer în Iliada și asigurați-vă că aveți suficientă apă la dumneavoastră, deoarece situl arheologic oferă puțină umbră.",
+            "en": "Discover the extensive Mycenaean ruins mentioned by Homer in the Iliad, and make sure to bring plenty of water as the archaeological site offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Asines",
+            "hu": "Paralia Asines",
+            "ro": "Paralia Asines",
+            "en": "Paralia Asines"
+          },
+          "coords": [
+            22.879363,
+            37.528463
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erhole dich an diesem ruhigeren Kiesstrand, der für seine unberührte Naturschönheit bekannt ist, wobei Badeschuhe für ein bequemes Schwimmen sehr zu empfehlen sind.",
+            "hu": "Kapcsolódj ki ezen a csendesebb, érintetlen természeti szépségéről ismert kavicsos strandon, ahol a kényelmes úszás érdekében erősen ajánlott a vizicipő használata.",
+            "ro": "Relaxați-vă pe această porțiune liniștită de plajă cu pietriș, renumită pentru frumusețea sa naturală, unde încălțămintea de apă este recomandată pentru înot.",
+            "en": "Unwind at this quieter stretch of pebble beach renowned for its pristine natural beauty, where water shoes are highly recommended for a comfortable swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsakali",
+            "hu": "Tsakali",
+            "ro": "Tsakali",
+            "en": "Tsakali"
+          },
+          "coords": [
+            22.849063,
+            37.530236
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wandere durch dieses friedliche Naturgebiet mit seiner markanten lokalen Flora und halte Ausschau nach kleinen Wildtieren, während du auf den markierten Wegen bleibst.",
+            "hu": "Barangolj ezen a békés természeti területen, amely jellegzetes helyi növényvilággal rendelkezik, és figyeld a kis állatokat, miközben a kijelölt ösvényeken haladsz.",
+            "ro": "Plimbați-vă prin acest reper natural liniștit cu o floră locală distinctivă și fiți atenți la mica faună sălbatică, rămânând pe traseele marcate cu atenție.",
+            "en": "Wander through this serene natural landmark featuring distinctive local flora, and keep an eye out for small wildlife while treading lightly on the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lithari tou Arape",
+            "hu": "Lithari tou Arape",
+            "ro": "Lithari tou Arape",
+            "en": "Lithari tou Arape"
+          },
+          "coords": [
+            22.845933,
+            37.534407
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundere diese markante geologische Formation, die von der alten Landschaft der Region zeugt, und fotografiere sie am besten während der goldenen Stunde.",
+            "hu": "Csodáld meg ezt a lenyűgöző geológiai képződményt, amely a régió ősi tájának állít emléket, és fényképezd a naplemente aranyórájában a drámai árnyékokért.",
+            "ro": "Admirați această formațiune geologică impresionantă, o mărturie a peisajului antic al regiunii, ideal de fotografiat în ora de aur pentru umbre dramatice.",
+            "en": "Admire this striking geological formation that stands as a testament to the region's ancient landscape, best photographed during the golden hour for dramatic shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm der Metamorphosis in Tselo",
+            "hu": "Tselo Metamorfózis-tornya",
+            "ro": "Turnul Metamorfozei din Tselo",
+            "en": "Tower of Metamorphosis at Tselo"
+          },
+          "coords": [
+            22.839573,
+            37.529488
+          ],
+          "category": "castle",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuche die Überreste dieses mittelalterlichen Wehrturms, der die Zugänge ins Landesinnere bewachte, wo ein vorsichtiger Aufstieg mit weiten Ausblicken belohnt wird.",
+            "hu": "Vizsgáld meg ennek a szárazföldi utakat őrző középkori védőtoronynak a romjait, ahol egy óvatos mászás a Peloponnészoszra nyíló pazar kilátással jutalmaz.",
+            "ro": "Investigați rămășițele acestui turn defensiv medieval ce păzea căile de acces, unde o urcare atentă vă răsplătește cu vederi ample asupra Peloponezului.",
+            "en": "Investigate the remains of this medieval defensive tower guarding the inland approaches, where a careful climb rewards you with sweeping views of the Peloponnese."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Monument der Kämpfer und radeln Sie dann zum beliebten Psili Ammos Strand. Mittags tauchen Sie in die mykenische Geschichte von Arkhaia Asine ein und entspannen kurz an der Paralia Asines. Am Nachmittag führt der Weg ins Landesinnere zur Naturlandschaft Tsakali und dem markanten Stein Lithari tou Arape. Das Finale bildet der mittelalterliche Turm von Tselo im Abendlicht.",
+        "hu": "Kezdje kerékpártúráját a történelmi emlékműnél, majd tekerjen a Psili Ammos strandra egy kis tengerparti pihenőre. Délben látogassa meg Arkhaia Asine ősi romjait és a Paralia Asines partját. A délután folyamán a szárazföld belseje felé véve az irányt fedezze fel Tsakali természetét és az Arape szikláját. A napot a Tselo-i középkori torony felfedezése koronázza meg a lemenő nap fényében.",
+        "ro": "Începeți traseul de bicicletă la monumentul istoric, apoi pedalați spre plaja Psili Ammos pentru o scurtă relaxare. La prânz, explorați istoria miceniană de la Arkhaia Asine și faceți o pauză la Paralia Asines. După-amiaza vă îndrumă spre interiorul țării, descoperind natura din Tsakali și formațiunea stâncoasă Lithari tou Arape. Finalizați la turnul medieval din Tselo în lumina apusului.",
+        "en": "Kick off your cycling route at the local monument before pedaling to the inviting shores of Psili Ammos beach. Midday brings you to the ancient wonders of Arkhaia Asine and a brief rest at Paralia Asines. In the afternoon, cycle inland to discover the natural serenity of Tsakali and the striking Lithari tou Arape. Your day culminates at the medieval Tower of Tselo, bathed in beautiful evening hues."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 10.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm der Metamorphosis in Tselo",
+            "hu": "Tselo Metamorfózis-tornya",
+            "ro": "Turnul Metamorfozei din Tselo",
+            "en": "Tower of Metamorphosis at Tselo"
+          },
+          "coords": [
+            22.839573,
+            37.529488
+          ],
+          "category": "castle",
+          "arrive_at": "09:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Untersuche die Überreste dieses mittelalterlichen Wehrturms, der die Zugänge ins Landesinnere bewachte, wo ein vorsichtiger Aufstieg mit weiten Ausblicken belohnt wird.",
+            "hu": "Vizsgáld meg ennek a szárazföldi utakat őrző középkori védőtoronynak a romjait, ahol egy óvatos mászás a Peloponnészoszra nyíló pazar kilátással jutalmaz.",
+            "ro": "Investigați rămășițele acestui turn defensiv medieval ce păzea căile de acces, unde o urcare atentă vă răsplătește cu vederi ample asupra Peloponezului.",
+            "en": "Investigate the remains of this medieval defensive tower guarding the inland approaches, where a careful climb rewards you with sweeping views of the Peloponnese."
+          }
+        },
+        {
+          "name": {
+            "de": "Lithari tou Arape",
+            "hu": "Lithari tou Arape",
+            "ro": "Lithari tou Arape",
+            "en": "Lithari tou Arape"
+          },
+          "coords": [
+            22.845933,
+            37.534407
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundere diese markante geologische Formation, die von der alten Landschaft der Region zeugt, und fotografiere sie am besten während der goldenen Stunde.",
+            "hu": "Csodáld meg ezt a lenyűgöző geológiai képződményt, amely a régió ősi tájának állít emléket, és fényképezd a naplemente aranyórájában a drámai árnyékokért.",
+            "ro": "Admirați această formațiune geologică impresionantă, o mărturie a peisajului antic al regiunii, ideal de fotografiat în ora de aur pentru umbre dramatice.",
+            "en": "Admire this striking geological formation that stands as a testament to the region's ancient landscape, best photographed during the golden hour for dramatic shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsakali",
+            "hu": "Tsakali",
+            "ro": "Tsakali",
+            "en": "Tsakali"
+          },
+          "coords": [
+            22.849063,
+            37.530236
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandere durch dieses friedliche Naturgebiet mit seiner markanten lokalen Flora und halte Ausschau nach kleinen Wildtieren, während du auf den markierten Wegen bleibst.",
+            "hu": "Barangolj ezen a békés természeti területen, amely jellegzetes helyi növényvilággal rendelkezik, és figyeld a kis állatokat, miközben a kijelölt ösvényeken haladsz.",
+            "ro": "Plimbați-vă prin acest reper natural liniștit cu o floră locală distinctivă și fiți atenți la mica faună sălbatică, rămânând pe traseele marcate cu atenție.",
+            "en": "Wander through this serene natural landmark featuring distinctive local flora, and keep an eye out for small wildlife while treading lightly on the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Mnemeio Kretikou Agoniste",
+            "hu": "Mnemeio Kretikou Agoniste",
+            "ro": "Mnemeio Kretikou Agoniste",
+            "en": "Mnemeio Kretikou Agoniste"
+          },
+          "coords": [
+            22.862097,
+            37.523513
+          ],
+          "category": "historical",
+          "arrive_at": "11:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehre die kretischen Kämpfer an diesem historischen Denkmal, das die lokale Geschichte prägte, und nutze das sanfte Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Ródd le tiszteletedet a krétai harcosok emlékművénél, amely a helyi történelmet formálta, és érkezz kora reggel, amikor a legjobb a fény a fényképezéshez.",
+            "ro": "Aduceți un omagiu luptătorilor cretani la acest monument istoric impresionant și vizitați-l dimineața devreme pentru a profita de cea mai bună lumină fotografică.",
+            "en": "Pay respects at this poignant memorial honoring Cretan fighters who shaped local history, best visited early when the morning light offers clear photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaia Asine",
+            "hu": "Arkhaia Asine",
+            "ro": "Arkhaia Asine",
+            "en": "Arkhaia Asine"
+          },
+          "coords": [
+            22.874313,
+            37.528033
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecke die von Homer in der Ilias erwähnten mykenischen Ruinen und nimm unbedingt reichlich Wasser mit, da die archäologische Stätte kaum Schattenplätze bietet.",
+            "hu": "Fedezd fel a Homérosz által az Iliászban is említett hatalmas mükénéi romokat, és vigyél magaddal sok vizet, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Descoperiți ruinele miceniene menționate de Homer în Iliada și asigurați-vă că aveți suficientă apă la dumneavoastră, deoarece situl arheologic oferă puțină umbră.",
+            "en": "Discover the extensive Mycenaean ruins mentioned by Homer in the Iliad, and make sure to bring plenty of water as the archaeological site offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Romvi",
+            "hu": "Romvi erődítménye",
+            "ro": "Fortificația din Romvi",
+            "en": "Fortification of Romvi"
+          },
+          "coords": [
+            22.85891,
+            37.508026
+          ],
+          "category": "castle",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachte die strategischen venezianischen Ruinen auf dieser unbewohnten Insel und buche frühzeitig ein kleines Boot für eine bequeme Überfahrt durch die Bucht.",
+            "hu": "Figyeld meg a lakatlan szigetet koronázó stratégiai velencei romokat, és foglalj egy kis helyi csónakot kora reggel, hogy biztosítsd a kényelmes átkelést az öbölben.",
+            "ro": "Observați ruinele strategice venețiene ce încoronează această insulă nelocuită și rezervați o barcă mică devreme pentru o traversare confortabilă a golfului.",
+            "en": "Observe the strategic Venetian ruins crowning this uninhabited island, and book a small local boat early in the morning to secure a comfortable passage across the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Daskalio",
+            "hu": "Daskalio erődje",
+            "ro": "Fortăreața din Daskalio",
+            "en": "Fortress of Daskalio"
+          },
+          "coords": [
+            22.864404,
+            37.50323
+          ],
+          "category": "castle",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beende dein Inselhopping an dieser historischen Bastion aus dem griechischen Unabhängigkeitskrieg und bringe ein Weitwinkelobjektiv für das Küstenpanorama mit.",
+            "hu": "Fejezd be a szigettúrát ezen a görög függetlenségi háború idején használt történelmi bástyánál, és hozz magaddal egy nagylátószögű lencsét a panorámához.",
+            "ro": "Încheiați-vă aventura pe insule la acest bastion istoric din Războiul de Independență, aducând un obiectiv superangular pentru a surprinde panorama de coastă.",
+            "en": "Conclude your island hopping at this historic bastion used during the Greek War of Independence, bringing a wide-angle lens to capture the impressive coastal panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Landesinneren beim Turm von Tselo, gefolgt von der Felsformation Lithari tou Arape. Mittags genießen Sie die Natur in Tsakali und ehren die Geschichte am Kretischen Denkmal. Am Nachmittag erwarten Sie die antiken Wunder von Arkhaia Asine. Beenden Sie den Tag an der Küste, wo Sie Ausblicke auf die Festungen Romvi und Daskalio genießen, während die Sonne über dem Meer untergeht.",
+        "hu": "Autós túrája a szárazföldön indul a Tselo-i toronynál, majd az Arape sziklánál folytatódik. Délben élvezze Tsakali természetét, és tegyen egy rövid tiszteletkört a krétai emlékműnél. Délután Arkhaia Asine ősi romjai várják, hogy felfedezze őket. A nap végén a partról csodálhatja meg Romvi és Daskalio szigeti erődítményeinek lenyűgöző látványát a naplemente varázslatos színeiben.",
+        "ro": "Călătoria cu mașina începe la turnul din Tselo, urmat de formațiunea stâncoasă Lithari tou Arape. La prânz, bucurați-vă de natura din Tsakali și opriți la monumentul cretan. După-amiaza este dedicată explorării vestigiilor antice de la Arkhaia Asine. Încheiați ziua pe coastă, admirând de la distanță fortărețele insulare Romvi și Daskalio, în timp ce soarele apune spectaculos peste golf.",
+        "en": "Your drive begins inland at the historic Tower of Tselo, followed by the striking Lithari tou Arape formation. Midday offers natural beauty at Tsakali and a quick stop at the Cretan memorial. The afternoon is dedicated to exploring the sprawling ancient ruins of Arkhaia Asine. End your day along the coast, admiring the distant island fortresses of Romvi and Daskalio as the sun dips below the horizon."
+      }
+    }
+  }
+}

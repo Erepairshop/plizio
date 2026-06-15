@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-sennen-cove-cities-v2",
+  "anchor": {
+    "name": "Sennen Cove",
+    "coords": [
+      -5.70238,
+      50.0759
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Roundhouse and Capstan Gallery",
+            "hu": "The Roundhouse and Capstan Gallery",
+            "ro": "The Roundhouse and Capstan Gallery",
+            "en": "The Roundhouse and Capstan Gallery"
+          },
+          "coords": [
+            -5.704298,
+            50.077687
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie maritime Kunst in diesem runden Windenhaus aus dem 19. Jahrhundert und besuchen Sie das Obergeschoss für faszinierende Glaskunst.",
+            "hu": "Fedezze fel a tengerészeti művészetet ebben a kör alakú, 19. századi épületben, és ne hagyja ki a felső szint lenyűgöző helyi üvegtárgyait sem.",
+            "ro": "Explorați arta maritimă în această clădire circulară din secolul al XIX-lea și vizitați etajul superior pentru obiecte locale din sticlă.",
+            "en": "Explore maritime art in this circular 19th-century capstan house, and be sure to check the upper floor for stunning local glassworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Sennen Cove",
+            "hu": "Sennen Cove",
+            "ro": "Sennen Cove",
+            "en": "Sennen Cove"
+          },
+          "coords": [
+            -5.695575,
+            50.081305
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie am weißen Sand dieser malerischen Bucht, um die Surfer zu beobachten, aber bringen Sie wegen der starken Brise eine Windjacke mit.",
+            "hu": "Sétáljon végig a festői öböl fehér homokján, figyelje a szörfösöket, de hozzon magával széldzsekit, mert a parti szél itt meglehetősen erős.",
+            "ro": "Plimbați-vă pe nisipul alb al acestui golf pitoresc pentru a privi surferii, dar aduceți o geacă de vânt deoarece briza de coastă este puternică.",
+            "en": "Stroll along the white sands of this picturesque bay to watch the surfers, but remember to bring a windbreaker as the coastal breeze is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Maen Castle",
+            "hu": "Maen Castle",
+            "ro": "Maen Castle",
+            "en": "Maen Castle"
+          },
+          "coords": [
+            -5.708036,
+            50.072715
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser eisenzeitlichen Klippenburg mit spektakulärem Meerblick und tragen Sie feste Wanderschuhe für die felsigen Wege.",
+            "hu": "Fedezze fel a vaskori sziklavár romjait, ahonnan látványos kilátás nyílik a tengerre, és viseljen masszív túracipőt a sziklás ösvények miatt.",
+            "ro": "Descoperiți ruinele acestui castel antic din Epoca Fierului cu vederi spectaculoase și purtați bocanci de drumeție pentru cărările stâncoase.",
+            "en": "Discover the ruins of this ancient Iron Age cliff castle offering spectacular coastal views, and wear sturdy hiking boots for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "First and Last House",
+            "hu": "First and Last House",
+            "ro": "First and Last House",
+            "en": "First and Last House"
+          },
+          "coords": [
+            -5.715025,
+            50.068109
+          ],
+          "category": "landmark",
+          "arrive_at": "14:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische weiße Häuschen am Rand des Festlandes und kaufen Sie ein traditionelles kornisches Eis am kleinen Fenster.",
+            "hu": "Készítsen egy fotót erről az ikonikus fehér házikóról a szárazföld peremén, és vegyen egy hagyományos cornwalli fagyit a kis ablaknál távozás előtt.",
+            "ro": "Fotografiați această căsuță albă iconică la marginea continentului și cumpărați o înghețată tradițională de la mica fereastră înainte de a pleca.",
+            "en": "Snap a photo at this iconic white cottage at the edge of the mainland, and buy a traditional Cornish ice cream from the small window before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Land's End",
+            "hu": "Land's End",
+            "ro": "Land's End",
+            "en": "Land's End"
+          },
+          "coords": [
+            -5.714822,
+            50.066263
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie am westlichsten Punkt Englands für ein unvergessliches Panorama, aber kommen Sie früh, um die Massen am berühmten Wegweiser zu meiden.",
+            "hu": "Álljon Anglia legnyugatibb pontján egy felejthetetlen panorámáért, de érkezzen korán, hogy elkerülje a híres útjelző tábla körüli nagy tömeget.",
+            "ro": "Stați în cel mai vestic punct al Angliei pentru o panoramă de neuitat, dar ajungeți devreme pentru a evita aglomerația din jurul faimosului indicator.",
+            "en": "Stand at the westernmost point of England for an unforgettable panorama, but arrive early to avoid the crowds that gather around the famous signpost."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Sea Rescue",
+            "hu": "Air Sea Rescue",
+            "ro": "Air Sea Rescue",
+            "en": "Air Sea Rescue"
+          },
+          "coords": [
+            -5.71315,
+            50.065692
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in die heldenhafte Geschichte der Seenotrettung ein und lesen Sie die Logbücher historischer Missionen.",
+            "hu": "Merüljön el a tengeri mentések hősies történetében ebben az interaktív múzeumban, és mindenképpen olvassa el a történelmi küldetések naplóit.",
+            "ro": "Pătrundeți în istoria eroică a salvărilor maritime la acest muzeu interactiv și asigurați-vă că citiți jurnalele fascinante ale misiunilor istorice.",
+            "en": "Delve into the heroic history of maritime rescues at this interactive museum, and make sure to read the fascinating logbooks of historic missions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt entspannt in der historischen Roundhouse-Galerie am Hafen. Später spazieren Sie entlang der weißen Sandstrände von Sennen Cove. Am Nachmittag erkunden Sie die beeindruckenden Klippen und die Ruinen von Maen Castle. Zum Sonnenuntergang erreichen Sie den westlichsten Punkt Englands und das Seenotrettungsmuseum.",
+        "hu": "A nap a kikötőben található történelmi Roundhouse galériában indul. Később Sennen Cove festői, fehér homokos partjain sétálhat. Délután fedezze fel a lenyűgöző sziklákat és Maen Castle ősi romjait. Naplemente közeledtével pedig elérheti Anglia legnyugatibb pontját és a tengeri mentések hősies történetét bemutató múzeumot.",
+        "ro": "Ziua începe relaxant la galeria istorică Roundhouse din port. Mai târziu, vă veți plimba pe plajele cu nisip alb din Sennen Cove. După-amiaza este dedicată explorării stâncilor impresionante și a ruinelor antice de la Maen Castle. La apus, veți ajunge în cel mai vestic punct al Angliei și la muzeul salvărilor maritime.",
+        "en": "The day begins gently at the historic Roundhouse gallery by the harbor. Later, take a stroll along the pristine white sands of Sennen Cove. The afternoon is dedicated to exploring the dramatic cliffs and the ancient ruins of Maen Castle. As sunset approaches, you'll reach England's westernmost edge and the maritime rescue museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gwynver Beach",
+            "hu": "Gwynver Beach",
+            "ro": "Gwynver Beach",
+            "en": "Gwynver Beach"
+          },
+          "coords": [
+            -5.689619,
+            50.089607
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses abgelegenen Strandes abseits der Touristenpfade, aber stellen Sie sich auf einen steilen Abstieg ein.",
+            "hu": "Pihenjen ennek az eldugott strandnak az aranyhomokján távol a turistáktól, de készüljön fel a szikláról lefelé vezető meglehetősen meredek útra.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje retrase, departe de traseul turistic principal, dar fiți pregătit pentru o coborâre destul de abruptă.",
+            "en": "Relax on the golden sands of this secluded beach away from the main tourist trail, but be prepared for a steep descent from the clifftop parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Sennen Cove",
+            "hu": "Sennen Cove",
+            "ro": "Sennen Cove",
+            "en": "Sennen Cove"
+          },
+          "coords": [
+            -5.695575,
+            50.081305
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie am weißen Sand dieser malerischen Bucht, um die Surfer zu beobachten, aber bringen Sie wegen der starken Brise eine Windjacke mit.",
+            "hu": "Sétáljon végig a festői öböl fehér homokján, figyelje a szörfösöket, de hozzon magával széldzsekit, mert a parti szél itt meglehetősen erős.",
+            "ro": "Plimbați-vă pe nisipul alb al acestui golf pitoresc pentru a privi surferii, dar aduceți o geacă de vânt deoarece briza de coastă este puternică.",
+            "en": "Stroll along the white sands of this picturesque bay to watch the surfers, but remember to bring a windbreaker as the coastal breeze is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "The Roundhouse and Capstan Gallery",
+            "hu": "The Roundhouse and Capstan Gallery",
+            "ro": "The Roundhouse and Capstan Gallery",
+            "en": "The Roundhouse and Capstan Gallery"
+          },
+          "coords": [
+            -5.704298,
+            50.077687
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie maritime Kunst in diesem runden Windenhaus aus dem 19. Jahrhundert und besuchen Sie das Obergeschoss für faszinierende Glaskunst.",
+            "hu": "Fedezze fel a tengerészeti művészetet ebben a kör alakú, 19. századi épületben, és ne hagyja ki a felső szint lenyűgöző helyi üvegtárgyait sem.",
+            "ro": "Explorați arta maritimă în această clădire circulară din secolul al XIX-lea și vizitați etajul superior pentru obiecte locale din sticlă.",
+            "en": "Explore maritime art in this circular 19th-century capstan house, and be sure to check the upper floor for stunning local glassworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Maen Castle",
+            "hu": "Maen Castle",
+            "ro": "Maen Castle",
+            "en": "Maen Castle"
+          },
+          "coords": [
+            -5.708036,
+            50.072715
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser eisenzeitlichen Klippenburg mit spektakulärem Meerblick und tragen Sie feste Wanderschuhe für die felsigen Wege.",
+            "hu": "Fedezze fel a vaskori sziklavár romjait, ahonnan látványos kilátás nyílik a tengerre, és viseljen masszív túracipőt a sziklás ösvények miatt.",
+            "ro": "Descoperiți ruinele acestui castel antic din Epoca Fierului cu vederi spectaculoase și purtați bocanci de drumeție pentru cărările stâncoase.",
+            "en": "Discover the ruins of this ancient Iron Age cliff castle offering spectacular coastal views, and wear sturdy hiking boots for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "First and Last House",
+            "hu": "First and Last House",
+            "ro": "First and Last House",
+            "en": "First and Last House"
+          },
+          "coords": [
+            -5.715025,
+            50.068109
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische weiße Häuschen am Rand des Festlandes und kaufen Sie ein traditionelles kornisches Eis am kleinen Fenster.",
+            "hu": "Készítsen egy fotót erről az ikonikus fehér házikóról a szárazföld peremén, és vegyen egy hagyományos cornwalli fagyit a kis ablaknál távozás előtt.",
+            "ro": "Fotografiați această căsuță albă iconică la marginea continentului și cumpărați o înghețată tradițională de la mica fereastră înainte de a pleca.",
+            "en": "Snap a photo at this iconic white cottage at the edge of the mainland, and buy a traditional Cornish ice cream from the small window before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Land's End",
+            "hu": "Land's End",
+            "ro": "Land's End",
+            "en": "Land's End"
+          },
+          "coords": [
+            -5.714822,
+            50.066263
+          ],
+          "category": "landmark",
+          "arrive_at": "15:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie am westlichsten Punkt Englands für ein unvergessliches Panorama, aber kommen Sie früh, um die Massen am berühmten Wegweiser zu meiden.",
+            "hu": "Álljon Anglia legnyugatibb pontján egy felejthetetlen panorámáért, de érkezzen korán, hogy elkerülje a híres útjelző tábla körüli nagy tömeget.",
+            "ro": "Stați în cel mai vestic punct al Angliei pentru o panoramă de neuitat, dar ajungeți devreme pentru a evita aglomerația din jurul faimosului indicator.",
+            "en": "Stand at the westernmost point of England for an unforgettable panorama, but arrive early to avoid the crowds that gather around the famous signpost."
+          }
+        },
+        {
+          "name": {
+            "de": "Greeb Farm",
+            "hu": "Greeb Farm",
+            "ro": "Greeb Farm",
+            "en": "Greeb Farm"
+          },
+          "coords": [
+            -5.710954,
+            50.062563
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit freundlichen Tieren in diesem wunderschön restaurierten, 200 Jahre alten kornischen Bauernhof, ideal für Familien mit Kindern.",
+            "hu": "Ismerkedjen meg barátságos állatokkal ezen a szépen felújított, 200 éves cornwalli tanyán, amely különösen a kisgyermekes családok számára ideális.",
+            "ro": "Interacționați cu animale prietenoase la această fermă cornică restaurată, veche de 200 de ani, perfectă pentru familiile cu copii mici în vacanță.",
+            "en": "Interact with friendly farm animals in this beautifully restored 200-year-old Cornish farmstead, which is perfect for families with young children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am abgelegenen Gwynver Beach für eine ruhige Morgenstimmung. Radeln Sie weiter zur Sennen Cove und besuchen Sie die Capstan Gallery. Nachmittags geht es über raue Pfade zu Maen Castle und dem berühmten First and Last House. Der Tag endet friedlich mit einem Besuch der idyllischen Greeb Farm.",
+        "hu": "Kezdje a napot az eldugott Gwynver Beach-en, hogy élvezze a nyugodt reggeli hangulatot. Tekerjen át Sennen Cove-ba, majd látogasson el a Capstan galériába. Délután zord ösvényeken juthat el Maen Castle-höz és a híres Első és Utolsó Házhoz. A nap egy békés látogatással zárul az idilli Greeb Farmon, a tenger közelében.",
+        "ro": "Începeți la plaja retrasă Gwynver pentru o atmosferă liniștită de dimineață. Pedalați spre Sennen Cove și vizitați Galeria Capstan. După-amiaza vă poartă pe cărări stâncoase spre Maen Castle și faimoasa First and Last House. Ziua se încheie pașnic cu o vizită la idilica fermă Greeb.",
+        "en": "Start at the secluded Gwynver Beach for a tranquil morning atmosphere before cycling over to Sennen Cove and the Capstan Gallery. The afternoon takes you along rugged coastal paths to Maen Castle and the iconic First and Last House. Your journey concludes peacefully with a visit to the idyllic and historic Greeb Farm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "199",
+            "hu": "199",
+            "ro": "199",
+            "en": "199"
+          },
+          "coords": [
+            -5.685877,
+            50.089586
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem atemberaubenden natürlichen Vorgebirge für einen weiten Blick auf den Atlantik und bringen Sie ein Fernglas für die Robben mit.",
+            "hu": "Túrázzon el erre a lenyűgöző természetes hegyfokra, ahonnan zavartalan kilátás nyílik az Atlanti-óceánra, és hozzon távcsövet a fókák megfigyeléséhez.",
+            "ro": "Mergeți până la acest promontoriu natural uimitor pentru vederi neîntrerupte ale Atlanticului și aduceți un binoclu pentru a observa focile.",
+            "en": "Hike out to this stunning natural promontory for uninterrupted views of the Atlantic, and bring binoculars to spot seals resting on the rocks below."
+          }
+        },
+        {
+          "name": {
+            "de": "St Sennen's Church",
+            "hu": "St Sennen's Church",
+            "ro": "St Sennen's Church",
+            "en": "St Sennen's Church"
+          },
+          "coords": [
+            -5.694925,
+            50.070862
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser historischen Kirche, die Seeleute seit Jahrhunderten leitet, und genießen Sie die friedliche Ruhe.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a középkori építészetét, amely évszázadok óta iránymutató a tengerészeknek, és élvezze a csendet.",
+            "ro": "Admirați arhitectura medievală a acestei biserici istorice care a ghidat marinarii de secole și acordați-vă un moment pentru a vă bucura de liniște.",
+            "en": "Admire the medieval architecture of this historic church that has guided sailors for centuries, and take a moment to enjoy the peaceful graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "The Roundhouse and Capstan Gallery",
+            "hu": "The Roundhouse and Capstan Gallery",
+            "ro": "The Roundhouse and Capstan Gallery",
+            "en": "The Roundhouse and Capstan Gallery"
+          },
+          "coords": [
+            -5.704298,
+            50.077687
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie maritime Kunst in diesem runden Windenhaus aus dem 19. Jahrhundert und besuchen Sie das Obergeschoss für faszinierende Glaskunst.",
+            "hu": "Fedezze fel a tengerészeti művészetet ebben a kör alakú, 19. századi épületben, és ne hagyja ki a felső szint lenyűgöző helyi üvegtárgyait sem.",
+            "ro": "Explorați arta maritimă în această clădire circulară din secolul al XIX-lea și vizitați etajul superior pentru obiecte locale din sticlă.",
+            "en": "Explore maritime art in this circular 19th-century capstan house, and be sure to check the upper floor for stunning local glassworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Maen Castle",
+            "hu": "Maen Castle",
+            "ro": "Maen Castle",
+            "en": "Maen Castle"
+          },
+          "coords": [
+            -5.708036,
+            50.072715
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser eisenzeitlichen Klippenburg mit spektakulärem Meerblick und tragen Sie feste Wanderschuhe für die felsigen Wege.",
+            "hu": "Fedezze fel a vaskori sziklavár romjait, ahonnan látványos kilátás nyílik a tengerre, és viseljen masszív túracipőt a sziklás ösvények miatt.",
+            "ro": "Descoperiți ruinele acestui castel antic din Epoca Fierului cu vederi spectaculoase și purtați bocanci de drumeție pentru cărările stâncoase.",
+            "en": "Discover the ruins of this ancient Iron Age cliff castle offering spectacular coastal views, and wear sturdy hiking boots for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Land's End",
+            "hu": "Land's End",
+            "ro": "Land's End",
+            "en": "Land's End"
+          },
+          "coords": [
+            -5.714822,
+            50.066263
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie am westlichsten Punkt Englands für ein unvergessliches Panorama, aber kommen Sie früh, um die Massen am berühmten Wegweiser zu meiden.",
+            "hu": "Álljon Anglia legnyugatibb pontján egy felejthetetlen panorámáért, de érkezzen korán, hogy elkerülje a híres útjelző tábla körüli nagy tömeget.",
+            "ro": "Stați în cel mai vestic punct al Angliei pentru o panoramă de neuitat, dar ajungeți devreme pentru a evita aglomerația din jurul faimosului indicator.",
+            "en": "Stand at the westernmost point of England for an unforgettable panorama, but arrive early to avoid the crowds that gather around the famous signpost."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Sea Rescue",
+            "hu": "Air Sea Rescue",
+            "ro": "Air Sea Rescue",
+            "en": "Air Sea Rescue"
+          },
+          "coords": [
+            -5.71315,
+            50.065692
+          ],
+          "category": "museum",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in die heldenhafte Geschichte der Seenotrettung ein und lesen Sie die Logbücher historischer Missionen.",
+            "hu": "Merüljön el a tengeri mentések hősies történetében ebben az interaktív múzeumban, és mindenképpen olvassa el a történelmi küldetések naplóit.",
+            "ro": "Pătrundeți în istoria eroică a salvărilor maritime la acest muzeu interactiv și asigurați-vă că citiți jurnalele fascinante ale misiunilor istorice.",
+            "en": "Delve into the heroic history of maritime rescues at this interactive museum, and make sure to read the fascinating logbooks of historic missions."
+          }
+        },
+        {
+          "name": {
+            "de": "Greeb Farm",
+            "hu": "Greeb Farm",
+            "ro": "Greeb Farm",
+            "en": "Greeb Farm"
+          },
+          "coords": [
+            -5.710954,
+            50.062563
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit freundlichen Tieren in diesem wunderschön restaurierten, 200 Jahre alten kornischen Bauernhof, ideal für Familien mit Kindern.",
+            "hu": "Ismerkedjen meg barátságos állatokkal ezen a szépen felújított, 200 éves cornwalli tanyán, amely különösen a kisgyermekes családok számára ideális.",
+            "ro": "Interacționați cu animale prietenoase la această fermă cornică restaurată, veche de 200 de ani, perfectă pentru familiile cu copii mici în vacanță.",
+            "en": "Interact with friendly farm animals in this beautifully restored 200-year-old Cornish farmstead, which is perfect for families with young children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am Aussichtspunkt 199, gefolgt von der Ruhe der historischen St Sennen's Church. Besichtigen Sie mittags die maritime Kunst im Roundhouse. Nachmittags fahren Sie zu den spektakulären Klippen von Maen Castle und Land's End. Der Ausflug endet mit lokaler Geschichte im Museum und auf der charmanten Greeb Farm.",
+        "hu": "A festői autózás a 199-es kilátópontnál kezdődik, majd a történelmi Szent Sennen-templom nyugalmával folytatódik. Délben tekintse meg a tengerészeti művészetet a Roundhouse-ban. Délután látogasson el a Maen Castle és a Land's End látványos szikláihoz. A kirándulás a helyi történelem megismerésével zárul a múzeumban és a Greeb Farmon.",
+        "ro": "Excursia panoramică începe la punctul de observație 199, urmat de liniștea bisericii istorice St Sennen. La prânz, vizitați arta maritimă de la Roundhouse. După-amiaza conduceți spre stâncile spectaculoase de la Maen Castle și Land's End. Turul se termină cu istoria locală la muzeu și o oprire la fermecătoarea fermă Greeb.",
+        "en": "Your scenic drive begins at the spectacular 199 promontory, followed by the tranquility of historic St Sennen's Church. By midday, take in maritime art at the Roundhouse. The afternoon takes you down the coast to the dramatic cliffs of Maen Castle and Land's End. Conclude your tour uncovering local history at the museum and Greeb Farm."
+      }
+    }
+  }
+}

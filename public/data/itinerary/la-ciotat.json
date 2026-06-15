@@ -1,0 +1,451 @@
+{
+  "city_id": "la-ciotat",
+  "anchor": {
+    "name": "La Ciotat",
+    "coords": [
+      5.6081,
+      43.1761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eden Théâtre",
+            "hu": "Eden Théâtre",
+            "ro": "Eden Théâtre",
+            "en": "Eden Théâtre"
+          },
+          "coords": [
+            5.610694,
+            43.177172
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das älteste noch in Betrieb befindliche Kino der Welt, ein kulturelles Wahrzeichen, für das Sie vorab Tickets buchen sollten.",
+            "hu": "Fedezze fel a világ legrégebbi működő moziját, egy ikonikus kulturális nevezetességet, ahová érdemes előre jegyet foglalni az esti vetítésekre.",
+            "ro": "Explorați cel mai vechi cinematograf funcțional din lume, un reper cultural emblematic unde ar trebui să rezervați bilete în avans.",
+            "en": "Explore the world's oldest operating cinema, an iconic cultural landmark where you should book tickets in advance for evening screenings."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Ciotaden",
+            "hu": "Musée Ciotaden",
+            "ro": "Musée Ciotaden",
+            "en": "Musée Ciotaden"
+          },
+          "coords": [
+            5.60973,
+            43.173755
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Geschichte von La Ciotat ein und achten Sie besonders auf die faszinierenden Ausstellungen über das Pétanque-Spiel.",
+            "hu": "Merüljön el La Ciotat tengerészeti múltjában ebben a múzeumban, és mindenképpen olvassa el a pétanque játék történetéről szóló kiállításokat.",
+            "ro": "Aprofundați istoria maritimă a orașului La Ciotat în acest muzeu, asigurându-vă că citiți expozițiile fascinante despre jocul de pétanque.",
+            "en": "Delve into the rich maritime and cultural history of La Ciotat in this museum, making sure to read the fascinating exhibits on the game of pétanque."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Construction Navale",
+            "hu": "Maison de la Construction Navale",
+            "ro": "Maison de la Construction Navale",
+            "en": "Maison de la Construction Navale"
+          },
+          "coords": [
+            5.607189,
+            43.172436
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der Werften dieser Stadt in diesen Ausstellungsräumen, aber beachten Sie, dass sonntags geschlossen ist.",
+            "hu": "Fedezze fel a város hajógyárainak mély ipari örökségét ezen a kiállítóhelyen, de vegye figyelembe, hogy vasárnap zárva tart.",
+            "ro": "Descoperiți moștenirea industrială a șantierelor navale ale orașului în acest spațiu, dar rețineți că este închis duminica.",
+            "en": "Discover the profound industrial heritage of the town's shipyards in this exhibition space, but note that it is closed on Sundays."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            5.602673,
+            43.173404
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des malerischen alten Hafens, um traditionelle Holzboote zu bewundern und einen Kaffee auf einer Terrasse zu trinken.",
+            "hu": "Sétáljon végig a festői régi kikötőben, hogy megcsodálja a hagyományos fahajókat, és igyon egy kávét a nyüzsgő vízparti teraszok egyikén.",
+            "ro": "Plimbați-vă de-a lungul vechiului port pitoresc pentru a admira bărcile tradiționale din lemn și beți o cafea la una dintre terase.",
+            "en": "Stroll along the picturesque old port to admire traditional wooden boats and grab a coffee at one of the lively waterfront terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mugel Park",
+            "hu": "Mugel Park",
+            "ro": "Parcul Mugel",
+            "en": "Mugel Park"
+          },
+          "coords": [
+            5.6054,
+            43.1648
+          ],
+          "category": "natural",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen üppigen botanischen Garten, der sich an rote Klippen schmiegt, und tragen Sie bequeme Schuhe für die Aussichtspunkte.",
+            "hu": "Sétáljon végig ezen a drámai vörös sziklák között fekvő buja botanikus kerten, és hozzon kényelmes cipőt a felső kilátópontok eléréséhez.",
+            "ro": "Plimbați-vă prin această grădină botanică luxuriantă cuibărită pe stânci roșii și purtați pantofi comozi pentru a ajunge la punctele de belvedere.",
+            "en": "Wander through this lush botanical garden nestled against dramatic red cliffs, and bring comfortable walking shoes to reach the upper viewpoints."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Eden Théâtre. Der Mittag ist der maritimen Geschichte gewidmet. Der Nachmittag erkundet den alten Hafen. Der Abend klingt im Mugel Park aus.",
+        "hu": "A reggel a történelmi Eden Théâtre-ben kezdődik. A dél a tengerészeti történelemnek van szentelve. Délután fedezze fel a régi kikötőt. Az este a buja Mugel Parkban ér véget.",
+        "ro": "Dimineața începe la istoricul Eden Théâtre. Prânzul este dedicat istoriei maritime. După-amiaza explorează vechiul port. Seara se încheie în luxuriantul Parc Mugel.",
+        "en": "Morning begins at the historic Eden Théâtre. Midday is dedicated to maritime history. The afternoon explores the charming old port. The evening wraps up in the lush Mugel Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grande plage",
+            "hu": "Grande plage",
+            "ro": "Grande plage",
+            "en": "Grande plage"
+          },
+          "coords": [
+            5.623197,
+            43.186785
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenspaziergang an diesem langen Sandstrand, an dem Sie sicher schwimmen können, bevor der Mittagsansturm beginnt.",
+            "hu": "Élvezze a reggeli sétát ezen a hosszú homokos strandon, ahol biztonságosan úszhat, mielőtt megérkezne a déli tömeg.",
+            "ro": "Bucurați-vă de o plimbare matinală pe această plajă lungă cu nisip unde puteți înota în siguranță înainte de a sosi aglomerația de prânz.",
+            "en": "Enjoy a morning walk on this long stretch of sandy beach where you can safely swim before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Eden Théâtre",
+            "hu": "Eden Théâtre",
+            "ro": "Eden Théâtre",
+            "en": "Eden Théâtre"
+          },
+          "coords": [
+            5.610694,
+            43.177172
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das älteste noch in Betrieb befindliche Kino der Welt, ein kulturelles Wahrzeichen, für das Sie vorab Tickets buchen sollten.",
+            "hu": "Fedezze fel a világ legrégebbi működő moziját, egy ikonikus kulturális nevezetességet, ahová érdemes előre jegyet foglalni az esti vetítésekre.",
+            "ro": "Explorați cel mai vechi cinematograf funcțional din lume, un reper cultural emblematic unde ar trebui să rezervați bilete în avans.",
+            "en": "Explore the world's oldest operating cinema, an iconic cultural landmark where you should book tickets in advance for evening screenings."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            5.602673,
+            43.173404
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des malerischen alten Hafens, um traditionelle Holzboote zu bewundern und einen Kaffee auf einer Terrasse zu trinken.",
+            "hu": "Sétáljon végig a festői régi kikötőben, hogy megcsodálja a hagyományos fahajókat, és igyon egy kávét a nyüzsgő vízparti teraszok egyikén.",
+            "ro": "Plimbați-vă de-a lungul vechiului port pitoresc pentru a admira bărcile tradiționale din lemn și beți o cafea la una dintre terase.",
+            "en": "Stroll along the picturesque old port to admire traditional wooden boats and grab a coffee at one of the lively waterfront terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mugel Park",
+            "hu": "Mugel Park",
+            "ro": "Parcul Mugel",
+            "en": "Mugel Park"
+          },
+          "coords": [
+            5.6054,
+            43.1648
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen üppigen botanischen Garten, der sich an rote Klippen schmiegt, und tragen Sie bequeme Schuhe für die Aussichtspunkte.",
+            "hu": "Sétáljon végig ezen a drámai vörös sziklák között fekvő buja botanikus kerten, és hozzon kényelmes cipőt a felső kilátópontok eléréséhez.",
+            "ro": "Plimbați-vă prin această grădină botanică luxuriantă cuibărită pe stânci roșii și purtați pantofi comozi pentru a ajunge la punctele de belvedere.",
+            "en": "Wander through this lush botanical garden nestled against dramatic red cliffs, and bring comfortable walking shoes to reach the upper viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de Figuerolles",
+            "hu": "Calanque de Figuerolles",
+            "ro": "Calanque de Figuerolles",
+            "en": "Calanque de Figuerolles"
+          },
+          "coords": [
+            5.595642,
+            43.16436
+          ],
+          "category": "natural",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Felsformationen dieser atemberaubenden Bucht, aber denken Sie daran, dass die steilen Treppen eine gute Kondition erfordern.",
+            "hu": "Csodálja meg ennek a lenyűgöző öbölnek az egyedi sziklaalakzatait, de ne feledje, hogy a meredek lépcsőkön való lejutás kondíciót igényel.",
+            "ro": "Minunați-vă de formațiunile stâncoase unice ale acestui golf uimitor, dar amintiți-vă că scările abrupte necesită un nivel de fitness.",
+            "en": "Marvel at the unique rock formations of this stunning cove, but remember that the steep stairs down require a basic level of fitness."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Garde Chapel",
+            "hu": "Notre-Dame de la Garde kápolna",
+            "ro": "Capela Notre-Dame de la Garde",
+            "en": "Notre-Dame de la Garde Chapel"
+          },
+          "coords": [
+            5.592224,
+            43.16661
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser ruhigen Hügelkapelle hinauf, um einen Panoramablick auf die Bucht zu genießen, am besten kurz vor dem spektakulären Sonnenuntergang.",
+            "hu": "másszon fel ehhez a békés dombtetőn álló kápolnához az öbölre nyíló panorámáért, és időzítse látogatását a látványos naplementére.",
+            "ro": "Urcați la această capelă liniștită de pe deal pentru vedere panoramică la golf, asigurându-vă că programați vizita pentru un apus spectaculos.",
+            "en": "Climb up to this serene hilltop chapel for panoramic views of the bay, making sure to time your visit for a spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgenfahrt von der Grande plage zum Kino. Mittagessen am historischen Hafen. Der Nachmittag erkundet die versteckte Bucht. Der Abend endet mit Blick von der Kapelle.",
+        "hu": "Reggeli kerékpározás a Grande plage-tól a moziig. Ebéd a történelmi kikötőben. Délután a rejtett Calanque felfedezése. Az este a kápolna kilátásával zárul.",
+        "ro": "Plimbare matinală cu bicicleta de la Grande plage. Prânz în portul istoric. După-amiaza explorează ascunsa Calanque. Seara se termină cu vederi de la capelă.",
+        "en": "Morning ride from Grande plage to the cinema. Midday lunch by the historic port. Afternoon explores the hidden Calanque de Figuerolles. Evening ends with chapel views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Route des Crêtes",
+            "hu": "Route des Crêtes",
+            "ro": "Route des Crêtes",
+            "en": "Route des Crêtes"
+          },
+          "coords": [
+            5.576111,
+            43.179444
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang einer der höchsten Küstenstraßen Europas, aber meiden Sie diese unbedingt an windigen Tagen, wenn der Zugang eingeschränkt ist.",
+            "hu": "Vezessen végig Európa egyik legmagasabb tengerparti útján a lélegzetelállító kilátásért, de szigorúan kerülje szeles napokon.",
+            "ro": "Conduceți de-a lungul uneia dintre cele mai înalte rute de coastă din Europa, dar evitați-o strict în zilele cu vânt, când accesul este restricționat.",
+            "en": "Drive along one of Europe's highest coastal roads for breathtaking views, but strictly avoid it on windy days when access is often restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Garde Chapel",
+            "hu": "Notre-Dame de la Garde kápolna",
+            "ro": "Capela Notre-Dame de la Garde",
+            "en": "Notre-Dame de la Garde Chapel"
+          },
+          "coords": [
+            5.592224,
+            43.16661
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser ruhigen Hügelkapelle hinauf, um einen Panoramablick auf die Bucht zu genießen, am besten kurz vor dem spektakulären Sonnenuntergang.",
+            "hu": "másszon fel ehhez a békés dombtetőn álló kápolnához az öbölre nyíló panorámáért, és időzítse látogatását a látványos naplementére.",
+            "ro": "Urcați la această capelă liniștită de pe deal pentru vedere panoramică la golf, asigurându-vă că programați vizita pentru un apus spectaculos.",
+            "en": "Climb up to this serene hilltop chapel for panoramic views of the bay, making sure to time your visit for a spectacular sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Michel Simon",
+            "hu": "Villa Michel Simon",
+            "ro": "Villa Michel Simon",
+            "en": "Villa Michel Simon"
+          },
+          "coords": [
+            5.589882,
+            43.16866
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das ehemalige Anwesen des berühmten Schauspielers wegen seiner reichen Geschichte und überprüfen Sie vorher die saisonalen Öffnungszeiten.",
+            "hu": "Látogassa meg a híres színész egykori birtokát annak gazdag történelme miatt, és indulás előtt ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Vizitați fosta moșie a celebrului actor pentru istoria sa bogată și terenurile frumoase, verificând orele de deschidere sezoniere înainte de a merge.",
+            "en": "Visit the former estate of the famous actor for its rich history and beautiful grounds, checking the seasonal opening hours before you go."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen",
+            "hu": "Régi kikötő",
+            "ro": "Portul Vechi",
+            "en": "Old Port"
+          },
+          "coords": [
+            5.602673,
+            43.173404
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des malerischen alten Hafens, um traditionelle Holzboote zu bewundern und einen Kaffee auf einer Terrasse zu trinken.",
+            "hu": "Sétáljon végig a festői régi kikötőben, hogy megcsodálja a hagyományos fahajókat, és igyon egy kávét a nyüzsgő vízparti teraszok egyikén.",
+            "ro": "Plimbați-vă de-a lungul vechiului port pitoresc pentru a admira bărcile tradiționale din lemn și beți o cafea la una dintre terase.",
+            "en": "Stroll along the picturesque old port to admire traditional wooden boats and grab a coffee at one of the lively waterfront terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "La Chaudronnerie",
+            "hu": "La Chaudronnerie",
+            "ro": "La Chaudronnerie",
+            "en": "La Chaudronnerie"
+          },
+          "coords": [
+            5.603819,
+            43.172377
+          ],
+          "category": "cultural",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale darstellende Kunst in dieser wunderschön restaurierten ehemaligen Fabrik und versuchen Sie, eine Nachmittagsvorstellung zu besuchen.",
+            "hu": "Tapasztalja meg a helyi előadóművészetet ebben a gyönyörűen felújított egykori gyárban, és próbáljon meg elcsípni egy délutáni előadást.",
+            "ro": "Experimentați artele spectacolului la această fostă fabrică frumos restaurată și încercați să prindeți un spectacol matinal sau o repetiție.",
+            "en": "Experience local performing arts at this beautifully restored former factory, and try to catch a matinee show or an open rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontsainte Beach",
+            "hu": "Fontsainte strand",
+            "ro": "Plaja Fontsainte",
+            "en": "Fontsainte Beach"
+          },
+          "coords": [
+            5.637277,
+            43.188906
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den glatten Kieseln dieses malerischen Strandes am Rande der Stadt und bringen Sie Ihre Schnorchelausrüstung mit.",
+            "hu": "Pihenjen a festői strand sima kavicsain a város szélén, és hozzon magával búvárfelszerelést a tiszta vizek felfedezéséhez.",
+            "ro": "Relaxați-vă pe pietricelele netede ale acestei plaje pitorești de la marginea orașului, aducând echipament de snorkeling pentru apele limpezi.",
+            "en": "Relax on the smooth pebbles of this picturesque beach at the edge of the city, bringing your own snorkeling gear to explore the clear waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens Fahrt über die dramatische Route des Crêtes. Mittags erkunden Sie die Kapelle und die Villa. Nachmittag am alten Hafen. Abends entspannen am Fontsainte-Strand.",
+        "hu": "Reggel vezetés a drámai Route des Crêtes mentén. Délben a kápolna és a Villa Michel Simon felfedezése. Délután a régi kikötőben. Este a Fontsainte strandon.",
+        "ro": "Dimineața pe dramatica Route des Crêtes. La prânz explorarea capelei și a Vilei Michel Simon. După-amiaza la portul vechi. Seara pe plaja Fontsainte.",
+        "en": "Morning driving the dramatic Route des Crêtes. Midday explores the chapel and Villa Michel Simon. Afternoon at the old port and cultural center. Evening on Fontsainte beach."
+      }
+    }
+  }
+}

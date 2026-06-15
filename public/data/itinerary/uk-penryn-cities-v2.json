@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-penryn-cities-v2",
+  "anchor": {
+    "name": "Penryn",
+    "coords": [
+      -5.107,
+      50.169
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Penryn Town Hall",
+            "hu": "Penryn Városháza",
+            "ro": "Primăria Penryn",
+            "en": "Penryn Town Hall"
+          },
+          "coords": [
+            -5.103194,
+            50.168157
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am ikonischen Rathaus aus dem 19. Jahrhundert, um die klassische Architektur zu bewundern und sich vor der Erkundung über lokale Ereignisse zu informieren.",
+            "hu": "Kezdje a napot az ikonikus 19. századi városházánál, hogy megcsodálja a klasszikus korni építészetet, és tájékozódjon a helyi programokról a felfedezés előtt.",
+            "ro": "Începeți ziua la emblematica primărie din secolul al XIX-lea pentru a admira arhitectura clasică din Cornwall și a verifica panoul de evenimente locale înainte de a explora.",
+            "en": "Start your day at the iconic 19th-century Town Hall to appreciate its classic Cornish architecture and check the local events board before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Penryn Museum",
+            "hu": "Penryn Múzeum",
+            "ro": "Muzeul Penryn",
+            "en": "Penryn Museum"
+          },
+          "coords": [
+            -5.1031,
+            50.16813
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten lokalen Museum in die reiche Seefahrtsgeschichte von Penryn ein, aber überprüfen Sie vorher unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el Penryn gazdag tengerészeti és középkori történelmében ebben a bájos helyi múzeumban, de előtte feltétlenül ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Scufundați-vă în bogata istorie maritimă și medievală a orașului Penryn în acest muzeu fermecător, dar verificați neapărat programul de funcționare sezonier în prealabil.",
+            "en": "Dive into Penryn's rich maritime and medieval history inside this charming local museum, but double-check their seasonal opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Perharin Park",
+            "hu": "Perharin Park",
+            "ro": "Parcul Perharin",
+            "en": "Perharin Park"
+          },
+          "coords": [
+            -5.1033,
+            50.169472
+          ],
+          "category": "family",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch diese familienfreundliche Grünanlage, bewundern Sie die Blumenbeete und bringen Sie bequeme Schuhe für die unebenen Wege mit.",
+            "hu": "Tegyen egy pihentető sétát ebben a családbarát parkban, gyönyörködjön a virágágyásokban, és feltétlenül hozzon magával kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Faceți o plimbare relaxantă prin acest spațiu verde prietenos pentru familii, remarcând aranjamentele florale, și aduceți încălțăminte confortabilă pentru aleile inegale.",
+            "en": "Take a relaxing stroll through this family-friendly green space, noting the well-kept floral displays, and bring some comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "St Gluvias Church",
+            "hu": "St Gluvias Templom",
+            "ro": "Biserica St Gluvias",
+            "en": "St Gluvias Church"
+          },
+          "coords": [
+            -5.099822,
+            50.17055
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ruhige Kirche am Flussufer mit ihren alten Wurzeln, achten Sie auf die bunten Glasfenster und bewahren Sie während der Gottesdienste stets die Stille.",
+            "hu": "Fedezze fel ezt a nyugodt, ősi gyökerekkel rendelkező folyóparti templomot, figyelje meg a lenyűgöző ólomüveg ablakokat, és maradjon csendben a helyi istentiszteletek alatt.",
+            "ro": "Explorați această biserică liniștită pe malul râului cu rădăcini străvechi, observând vitraliile complicate, și păstrați liniștea pe durata slujbelor religioase locale.",
+            "en": "Explore this tranquil riverside church with ancient roots, paying attention to the intricate stained glass windows, and maintain silence during local service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Penryn Quay",
+            "hu": "Penryn Rakpart",
+            "ro": "Penryn Quay",
+            "en": "Penryn Quay"
+          },
+          "coords": [
+            -5.099429,
+            50.167516
+          ],
+          "category": "civic",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den historischen Granitkais entlang, von denen einst Granit weltweit exportiert wurde, beobachten Sie die Boote und machen Sie tolle Fotos vom Gezeitenfluss.",
+            "hu": "Sétáljon végig a történelmi gránit rakpartokon, ahonnan egykor világszerte exportáltak, szánjon időt a hajók megfigyelésére és lenyűgöző fotók készítésére a folyóról.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor istorice de unde se exporta cândva granit, luând-vă timp să priviți bărcile și să faceți fotografii uimitoare cu râul cu maree.",
+            "en": "Wander along the historic granite quays where granite was once exported worldwide, taking time to watch the boats and capture stunning photos of the tidal river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Glasney College",
+            "hu": "Glasney College Romjai",
+            "ro": "Ruinele Colegiului Glasney",
+            "en": "Glasney College Ruins"
+          },
+          "coords": [
+            -5.101959,
+            50.166156
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des einst größten mittelalterlichen Colleges von Cornwall; tragen Sie festes Schuhwerk, um sich sicher auf dem unebenen Gelände zu bewegen.",
+            "hu": "Fedezze fel Cornwall egykori legnagyobb középkori kollégiumának maradványait; viseljen strapabíró lábbelit, hogy biztonságosan közlekedhessen a füves, egyenetlen terepen.",
+            "ro": "Descoperiți rămășițele celui ce a fost cândva cel mai mare colegiu medieval din Cornwall; purtați încălțăminte robustă pentru a naviga în siguranță pe terenul ierbos.",
+            "en": "Uncover the remnants of what was once Cornwall's greatest medieval college; wear sturdy footwear to safely navigate the grassy, uneven terrain around the ancient stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen von Penryn und bewundern Sie das Rathaus und das Museum. Der Mittag bietet eine Pause im Perharin Park, gefolgt von der Kirche St. Gluvias am Flussufer. Verbringen Sie den Nachmittag damit, über die atmosphärischen Granitkais zu schlendern. Lassen Sie den Tag an den legendären Ruinen des Glasney College ausklingen.",
+        "hu": "Kezdje a napot Penryn szívében, a Városháza és a Múzeum felfedezésével. A délidő békés pihenést kínál a Perharin Parkban, majd látogasson el a St Gluvias templomhoz. A délutánt a hangulatos gránit rakpartokon sétálva töltheti. Zárja a napot a legendás Glasney College lenyűgöző romjainak felfedezésével.",
+        "ro": "Începeți în inima orașului Penryn admirând arhitectura și istoria la Primărie și Muzeu. Amiaza vă oferă o pauză pașnică în Parcul Perharin, urmată de o vizită la biserica St Gluvias. Petreceți după-amiaza rătăcind pe cheiurile atmosferice din granit. Încheiați ziua explorând ruinele legendare ale Colegiului Glasney.",
+        "en": "Start in the heart of Penryn admiring the civic architecture and rich history of the Town Hall and Museum. Midday offers a peaceful break in Perharin Park followed by a visit to the riverside St Gluvias Church. Spend the afternoon wandering the atmospheric granite quays. Conclude your day exploring the legendary Glasney College Ruins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Penryn Town Hall",
+            "hu": "Penryn Városháza",
+            "ro": "Primăria Penryn",
+            "en": "Penryn Town Hall"
+          },
+          "coords": [
+            -5.103194,
+            50.168157
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am ikonischen Rathaus aus dem 19. Jahrhundert, um die klassische Architektur zu bewundern und sich vor der Erkundung über lokale Ereignisse zu informieren.",
+            "hu": "Kezdje a napot az ikonikus 19. századi városházánál, hogy megcsodálja a klasszikus korni építészetet, és tájékozódjon a helyi programokról a felfedezés előtt.",
+            "ro": "Începeți ziua la emblematica primărie din secolul al XIX-lea pentru a admira arhitectura clasică din Cornwall și a verifica panoul de evenimente locale înainte de a explora.",
+            "en": "Start your day at the iconic 19th-century Town Hall to appreciate its classic Cornish architecture and check the local events board before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Penryn Museum",
+            "hu": "Penryn Múzeum",
+            "ro": "Muzeul Penryn",
+            "en": "Penryn Museum"
+          },
+          "coords": [
+            -5.1031,
+            50.16813
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten lokalen Museum in die reiche Seefahrtsgeschichte von Penryn ein, aber überprüfen Sie vorher unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Merüljön el Penryn gazdag tengerészeti és középkori történelmében ebben a bájos helyi múzeumban, de előtte feltétlenül ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Scufundați-vă în bogata istorie maritimă și medievală a orașului Penryn în acest muzeu fermecător, dar verificați neapărat programul de funcționare sezonier în prealabil.",
+            "en": "Dive into Penryn's rich maritime and medieval history inside this charming local museum, but double-check their seasonal opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Glasney College",
+            "hu": "Glasney College Romjai",
+            "ro": "Ruinele Colegiului Glasney",
+            "en": "Glasney College Ruins"
+          },
+          "coords": [
+            -5.101959,
+            50.166156
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des einst größten mittelalterlichen Colleges von Cornwall; tragen Sie festes Schuhwerk, um sich sicher auf dem unebenen Gelände zu bewegen.",
+            "hu": "Fedezze fel Cornwall egykori legnagyobb középkori kollégiumának maradványait; viseljen strapabíró lábbelit, hogy biztonságosan közlekedhessen a füves, egyenetlen terepen.",
+            "ro": "Descoperiți rămășițele celui ce a fost cândva cel mai mare colegiu medieval din Cornwall; purtați încălțăminte robustă pentru a naviga în siguranță pe terenul ierbos.",
+            "en": "Uncover the remnants of what was once Cornwall's greatest medieval college; wear sturdy footwear to safely navigate the grassy, uneven terrain around the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "College Reservoir",
+            "hu": "College Víztározó",
+            "ro": "College Reservoir",
+            "en": "College Reservoir"
+          },
+          "coords": [
+            -5.124772,
+            50.158756
+          ],
+          "category": "natural",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Radeln Sie um dieses friedliche Naturschutzgebiet und beobachten Sie seltene Zugvögel, aber geben Sie Fußgängern auf den schmalen Uferwegen immer die Vorfahrt.",
+            "hu": "Kerékpározzon körbe a békés természetvédelmi területen, figyelje meg a ritka vándormadarakat, de mindig adjon elsőbbséget a keskeny parti ösvényeken sétáló gyalogosoknak.",
+            "ro": "Pedalați în jurul acestei rezervații naturale liniștite pentru a observa păsări migratoare rare, dar acordați întotdeauna prioritate pietonilor de pe aleile înguste.",
+            "en": "Cycle around this peaceful nature reserve spotting rare migratory birds on the water, but always yield to pedestrians walking along the narrow lakeside pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "University of Exeter Penryn Campus",
+            "hu": "University of Exeter Penryn Kampusz",
+            "ro": "Campusul Universitar Exeter Penryn",
+            "en": "University of Exeter Penryn Campus"
+          },
+          "coords": [
+            -5.127936,
+            50.170964
+          ],
+          "category": "cultural",
+          "arrive_at": "14:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Architektur des Universitätscampus, die stark mit Penryns historischem Zentrum kontrastiert, und trinken Sie einen Kaffee im Studentenwerk.",
+            "hu": "Tapasztalja meg az egyetemi kampusz modern építészetét, amely éles ellentétben áll Penryn történelmi központjával, és igyon egy finom kávét a diákönkormányzat büféjében.",
+            "ro": "Experimentați arhitectura modernă a campusului universitar, care contrastează puternic cu inima istorică a orașului Penryn, și savurați o cafea la uniunea studenților.",
+            "en": "Experience the vibrant, modern architecture of the local university campus which contrasts sharply with Penryn's historic heart, and grab a coffee at the student union."
+          }
+        },
+        {
+          "name": {
+            "de": "Enys Gardens",
+            "hu": "Enys Kertek",
+            "ro": "Grădinile Enys",
+            "en": "Enys Gardens"
+          },
+          "coords": [
+            -5.095411,
+            50.186337
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den magischen Waldgärten, die für ihre atemberaubenden Frühlings-Glockenblumen berühmt sind, und prüfen Sie den Saisonplan für das historische Haus.",
+            "hu": "Vesszen el a varázslatos erdei kertekben, amelyek a lenyűgöző tavaszi kékharangokról híresek, és feltétlenül ellenőrizze a történelmi házhoz való hozzáférés szezonális rendjét.",
+            "ro": "Pierdeți-vă în grădinile magice de pădure faimoase pentru clopoțeii de primăvară și verificați programul sezonier pentru a avea acces la casa istorică impresionantă.",
+            "en": "Lose yourself in the magical woodland gardens famous for their stunning springtime bluebells, and be sure to check the seasonal schedule for access to the historic house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour im Stadtzentrum am Rathaus und Museum. Radeln Sie mittags zu den stimmungsvollen Ruinen des Glasney College, bevor Sie zum College Reservoir fahren. Erkunden Sie am Nachmittag den modernen Universitätscampus. Beenden Sie die Reise mit einer wunderschönen Fahrt zu den bezaubernden Enys Gardens.",
+        "hu": "Kezdje a kerékpározást a városközpontban, a Városházánál és a Múzeumnál. Délben tekerjen el a Glasney College romjaihoz, mielőtt a békés College Reservoir felé venné az irányt. Délután fedezze fel a modern egyetemi kampusz kontrasztját. Zárja az utazást egy gyönyörű tekeréssel az elbűvölő Enys Gardens felé.",
+        "ro": "Începeți plimbarea în centrul orașului la Primărie și Muzeu. Până la amiază, pedalați spre ruinele atmosferice ale Colegiului Glasney înainte de a vă îndrepta spre College Reservoir. După-amiaza, explorați campusul universitar modern. Încheiați călătoria cu o plimbare frumoasă către fermecătoarele grădini Enys.",
+        "en": "Kick off your ride in the town centre at the historic Town Hall and Museum. By midday, cycle to the atmospheric Glasney College Ruins before heading to the peaceful College Reservoir. In the afternoon, explore the contrast of the modern university campus. Wrap up the journey with a beautiful ride to the enchanting Enys Gardens."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 12.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Penryn Quay",
+            "hu": "Penryn Rakpart",
+            "ro": "Penryn Quay",
+            "en": "Penryn Quay"
+          },
+          "coords": [
+            -5.099429,
+            50.167516
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den historischen Granitkais entlang, von denen einst Granit weltweit exportiert wurde, beobachten Sie die Boote und machen Sie tolle Fotos vom Gezeitenfluss.",
+            "hu": "Sétáljon végig a történelmi gránit rakpartokon, ahonnan egykor világszerte exportáltak, szánjon időt a hajók megfigyelésére és lenyűgöző fotók készítésére a folyóról.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor istorice de unde se exporta cândva granit, luând-vă timp să priviți bărcile și să faceți fotografii uimitoare cu râul cu maree.",
+            "en": "Wander along the historic granite quays where granite was once exported worldwide, taking time to watch the boats and capture stunning photos of the tidal river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Glasney College",
+            "hu": "Glasney College Romjai",
+            "ro": "Ruinele Colegiului Glasney",
+            "en": "Glasney College Ruins"
+          },
+          "coords": [
+            -5.101959,
+            50.166156
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des einst größten mittelalterlichen Colleges von Cornwall; tragen Sie festes Schuhwerk, um sich sicher auf dem unebenen Gelände zu bewegen.",
+            "hu": "Fedezze fel Cornwall egykori legnagyobb középkori kollégiumának maradványait; viseljen strapabíró lábbelit, hogy biztonságosan közlekedhessen a füves, egyenetlen terepen.",
+            "ro": "Descoperiți rămășițele celui ce a fost cândva cel mai mare colegiu medieval din Cornwall; purtați încălțăminte robustă pentru a naviga în siguranță pe terenul ierbos.",
+            "en": "Uncover the remnants of what was once Cornwall's greatest medieval college; wear sturdy footwear to safely navigate the grassy, uneven terrain around the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Enys Gardens",
+            "hu": "Enys Kertek",
+            "ro": "Grădinile Enys",
+            "en": "Enys Gardens"
+          },
+          "coords": [
+            -5.095411,
+            50.186337
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den magischen Waldgärten, die für ihre atemberaubenden Frühlings-Glockenblumen berühmt sind, und prüfen Sie den Saisonplan für das historische Haus.",
+            "hu": "Vesszen el a varázslatos erdei kertekben, amelyek a lenyűgöző tavaszi kékharangokról híresek, és feltétlenül ellenőrizze a történelmi házhoz való hozzáférés szezonális rendjét.",
+            "ro": "Pierdeți-vă în grădinile magice de pădure faimoase pentru clopoțeii de primăvară și verificați programul sezonier pentru a avea acces la casa istorică impresionantă.",
+            "en": "Lose yourself in the magical woodland gardens famous for their stunning springtime bluebells, and be sure to check the seasonal schedule for access to the historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "University of Exeter Penryn Campus",
+            "hu": "University of Exeter Penryn Kampusz",
+            "ro": "Campusul Universitar Exeter Penryn",
+            "en": "University of Exeter Penryn Campus"
+          },
+          "coords": [
+            -5.127936,
+            50.170964
+          ],
+          "category": "cultural",
+          "arrive_at": "12:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Architektur des Universitätscampus, die stark mit Penryns historischem Zentrum kontrastiert, und trinken Sie einen Kaffee im Studentenwerk.",
+            "hu": "Tapasztalja meg az egyetemi kampusz modern építészetét, amely éles ellentétben áll Penryn történelmi központjával, és igyon egy finom kávét a diákönkormányzat büféjében.",
+            "ro": "Experimentați arhitectura modernă a campusului universitar, care contrastează puternic cu inima istorică a orașului Penryn, și savurați o cafea la uniunea studenților.",
+            "en": "Experience the vibrant, modern architecture of the local university campus which contrasts sharply with Penryn's historic heart, and grab a coffee at the student union."
+          }
+        },
+        {
+          "name": {
+            "de": "College Reservoir",
+            "hu": "College Víztározó",
+            "ro": "College Reservoir",
+            "en": "College Reservoir"
+          },
+          "coords": [
+            -5.124772,
+            50.158756
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie um dieses friedliche Naturschutzgebiet und beobachten Sie seltene Zugvögel, aber geben Sie Fußgängern auf den schmalen Uferwegen immer die Vorfahrt.",
+            "hu": "Kerékpározzon körbe a békés természetvédelmi területen, figyelje meg a ritka vándormadarakat, de mindig adjon elsőbbséget a keskeny parti ösvényeken sétáló gyalogosoknak.",
+            "ro": "Pedalați în jurul acestei rezervații naturale liniștite pentru a observa păsări migratoare rare, dar acordați întotdeauna prioritate pietonilor de pe aleile înguste.",
+            "en": "Cycle around this peaceful nature reserve spotting rare migratory birds on the water, but always yield to pedestrians walking along the narrow lakeside pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Stithians Reservoir",
+            "hu": "Stithians Víztározó",
+            "ro": "Stithians Reservoir",
+            "en": "Stithians Reservoir"
+          },
+          "coords": [
+            -5.204124,
+            50.181481
+          ],
+          "category": "natural",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem weitläufigen See, der Wassersport und malerische Wanderwege bietet, und vergessen Sie nicht, an den Kiosken nahe dem Aktivitätszentrum zu bezahlen.",
+            "hu": "Vezessen ki ehhez a hatalmas tóhoz, amely kiváló vízisportokat és festői ösvényeket kínál, és ne felejtsen el fizetni a parkolásért az aktív központ melletti kioszkoknál.",
+            "ro": "Conduceți până la acest lac vast care oferă sporturi nautice și trasee pitorești și asigurați-vă că plătiți parcarea la chioșcurile desemnate lângă centrul de activități.",
+            "en": "Drive out to this expansive lake offering premier watersports and scenic walking trails, making sure to pay for parking at the designated kiosks near the activity centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Wasser am Penryn Quay, bevor Sie die nahegelegenen Ruinen des Glasney College erkunden. Fahren Sie für einen friedlichen Rückzugsort zu den prächtigen Enys Gardens. Der Nachmittag bringt Sie zum lebendigen Universitätscampus und zum College Reservoir. Beenden Sie den Tag bei Sonnenuntergang am Stithians Reservoir.",
+        "hu": "Kezdje a reggelt a vízparton, a Penryn Quaynél, mielőtt felfedezné a Glasney College romjait. Vezessen fel a csodálatos Enys Gardensbe egy békés déli pihenőre. A délután elviszi a nyüzsgő egyetemi kampuszra és a festői College Reservoirhoz. Zárja a napot a naplemente megtekintésével a hatalmas Stithians Reservoirnál.",
+        "ro": "Începeți dimineața la Penryn Quay înainte de a explora ruinele istorice ale Colegiului Glasney. Conduceți până la grădinile magnifice Enys pentru o retragere pașnică la amiază. După-amiaza vă aduce în campusul universitar vibrant și la pitorescul College Reservoir. Încheiați ziua admirând apusul de soare la Stithians Reservoir.",
+        "en": "Start your morning by the water at Penryn Quay before exploring the nearby historic ruins of Glasney College. Drive up to the magnificent Enys Gardens for a peaceful midday retreat. The afternoon brings you to the vibrant local university campus and the scenic College Reservoir. End the day watching the sunset at Stithians Reservoir."
+      }
+    }
+  }
+}

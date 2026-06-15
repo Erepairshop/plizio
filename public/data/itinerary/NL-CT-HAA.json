@@ -1,0 +1,474 @@
+{
+  "city_id": "NL-CT-HAA",
+  "anchor": {
+    "name": "The Hague",
+    "coords": [
+      4.3,
+      52.07
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Design Museum Dedel",
+            "hu": "Design Museum Dedel",
+            "ro": "Design Museum Dedel",
+            "en": "Design Museum Dedel"
+          },
+          "coords": [
+            4.307655,
+            52.075206
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem aristokratischen Haus in die Geschichte der Werbung ein und buchen Sie Ihr Zeitfenster online, um Wochenendmassen zu meiden.",
+            "hu": "Fedezze fel a reklámtörténetet ebben az arisztokratikus házban, és foglalja le online a belépőjét, hogy elkerülje a hétvégi tömeget.",
+            "ro": "Descoperiți istoria publicității în această casă aristocratică și rezervați-vă biletul online pentru a evita aglomerația din weekend.",
+            "en": "Step into the world of advertising history within this aristocratic house, and book your timeslot online to avoid the weekend crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerij Prins Willem V",
+            "hu": "Galerij Prins Willem V",
+            "ro": "Galerij Prins Willem V",
+            "en": "Galerij Prins Willem V"
+          },
+          "coords": [
+            4.310306,
+            52.079393
+          ],
+          "category": "museum",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die erste öffentliche Kunstgalerie der Niederlande voller Meisterwerke, aber beachten Sie, dass große Taschen in die Schließfächer müssen.",
+            "hu": "Csodálja meg Hollandia első, mesterművekkel teli nyilvános művészeti galériáját, de vegye figyelembe, hogy a nagy táskákat a szekrényekben kell hagyni.",
+            "ro": "Admirați prima galerie de artă publică din Olanda plină de capodopere, dar rețineți că bagajele mari trebuie lăsate în dulapuri.",
+            "en": "Marvel at the first public art gallery in the Netherlands packed with masterpieces, but note that large bags must be left in the lockers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauritshuis",
+            "hu": "Mauritshuis",
+            "ro": "Mauritshuis",
+            "en": "Mauritshuis"
+          },
+          "coords": [
+            4.314463,
+            52.080439
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stehen Sie dem Mädchen mit dem Perlenohrgehänge in diesem atemberaubenden Palast gegenüber und nutzen Sie den Audioguide für die Kunst des Goldenen Zeitalters.",
+            "hu": "Találkozzon a Leány gyöngyfülbevalóval ebben a lenyűgöző 17. századi palotában, és kérjen audioguide-ot az aranykori művészet igazi értékeléséhez.",
+            "ro": "Întâlniți Fata cu cercel de perle în acest palat uimitor din secolul al XVII-lea și luați un ghid audio pentru a aprecia cu adevărat arta epocii de aur.",
+            "en": "Come face-to-face with the Girl with a Pearl Earring in this stunning 17th-century palace, and grab an audio guide to truly appreciate the golden age art."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Bredius",
+            "hu": "Museum Bredius",
+            "ro": "Museum Bredius",
+            "en": "Museum Bredius"
+          },
+          "coords": [
+            4.312492,
+            52.08125
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine großartige Privatsammlung niederländischer Gemälde in einem Patrizierhaus und nehmen Sie sich Zeit für die exquisiten Silberwaren.",
+            "hu": "Fedezzen fel egy csodálatos holland aranykori festménygyűjteményt egy patrícius házban, és szánjon időt a különleges ezüsttárgyak megcsodálására is.",
+            "ro": "Descoperiți o magnifică colecție privată de picturi olandeze într-un conac patrician, făcându-vă timp pentru a admira exponatele rafinate din argint.",
+            "en": "Discover a magnificent private collection of Dutch golden age paintings in a patrician mansion, taking time to admire the exquisite silverware displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Escher in Het Paleis",
+            "hu": "Escher in Het Paleis",
+            "ro": "Escher in Het Paleis",
+            "en": "Escher in Het Paleis"
+          },
+          "coords": [
+            4.314255,
+            52.083416
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den optischen Täuschungen von M.C. Escher in einem ehemaligen Winterpalast und verpassen Sie nicht die interaktive oberste Etage.",
+            "hu": "Vesszen el M.C. Escher optikai csalódásaiban, amelyek egy egykori királyi téli palotában találhatók, és ne hagyja ki az interaktív legfelső emeletet.",
+            "ro": "Pierdeți-vă în iluziile optice ale lui M.C. Escher din fostul palat regal de iarnă și nu ratați expozițiile interactive de la ultimul etaj.",
+            "en": "Lose yourself in the optical illusions of M.C. Escher housed in a former royal winter palace, and don't miss the interactive exhibits on the top floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der faszinierenden Werbegeschichte im Design Museum Dedel. Mittags besuchen Sie die Galerij Prins Willem V und das Mauritshuis für Meisterwerke des Goldenen Zeitalters. Erkunden Sie nachmittags die intimen Sammlungen im Museum Bredius. Beenden Sie Ihren Rundgang am Abend mit den verblüffenden optischen Täuschungen von Escher in Het Paleis.",
+        "hu": "Kezdje a reggelt a reklámtörténet lenyűgöző világában a Design Museum Dedel-ben. Délben a Galerij Prins Willem V és a híres Mauritshuis várja az aranykori mesterművekkel. Délután fedezze fel a Museum Bredius meghitt gyűjteményeit. Zárja kulturális sétáját az este közeledtével M.C. Escher elképesztő optikai csalódásaival az egykori királyi palotában.",
+        "ro": "Începeți dimineața scufundându-vă în istoria publicității la Design Museum Dedel. La prânz, vizitați Galerij Prins Willem V și faimosul Mauritshuis pentru a admira capodoperele epocii de aur. După-amiaza, explorați colecțiile intime de la Museum Bredius. Încheiați turul cultural de seară pierzându-vă în iluziile optice uimitoare ale lui Escher in Het Paleis.",
+        "en": "Start your morning diving into the fascinating advertising history at Design Museum Dedel. Midday brings you to the grand Galerij Prins Willem V and the world-famous Mauritshuis to admire Golden Age masterpieces. In the afternoon, explore the intimate collections at Museum Bredius. End your cultural walking tour getting lost in the mind-bending optical illusions of Escher in Het Paleis as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "21:31",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haags Openbaar Vervoer Museum",
+            "hu": "Haags Openbaar Vervoer Museum",
+            "ro": "Haags Openbaar Vervoer Museum",
+            "en": "Haags Openbaar Vervoer Museum"
+          },
+          "coords": [
+            4.308712,
+            52.062255
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des öffentlichen Nahverkehrs durch Oldtimer-Straßenbahnen und prüfen Sie den Fahrplan für historische Fahrten an Sonntagen.",
+            "hu": "Fedezze fel a tömegközlekedés történelmét a régi villamosokon keresztül, és ellenőrizze a menetrendet, mivel vasárnaponként történelmi járatokat is indítanak.",
+            "ro": "Explorați istoria transportului public prin tramvaie și autobuze de epocă și verificați programul, deoarece duminica se organizează adesea plimbări istorice.",
+            "en": "Explore the rich history of public transport through vintage trams and buses, and check their schedule as they often offer historical tram rides on Sundays."
+          }
+        },
+        {
+          "name": {
+            "de": "Yi Jun Peace Museum",
+            "hu": "Yi Jun Peace Museum",
+            "ro": "Yi Jun Peace Museum",
+            "en": "Yi Jun Peace Museum"
+          },
+          "coords": [
+            4.315679,
+            52.074447
+          ],
+          "category": "museum",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem historischen Ort mehr über das Streben nach internationaler Gerechtigkeit und lesen Sie die Hintergrundtafeln am besten sorgfältig durch.",
+            "hu": "Ismerje meg a nemzetközi igazságszolgáltatás törekvéseit és a koreai történelmet ezen a helyszínen, ahol érdemes alaposan elolvasni a háttérinformációkat.",
+            "ro": "Aflați despre căutarea justiției internaționale și istoria coreeană în acest loc istoric, unde este cel mai bine să citiți cu atenție panourile de fundal.",
+            "en": "Learn about the pursuit of international justice and Korean history at this historic venue, where it's best to read the background placards carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauritshuis",
+            "hu": "Mauritshuis",
+            "ro": "Mauritshuis",
+            "en": "Mauritshuis"
+          },
+          "coords": [
+            4.314463,
+            52.080439
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stehen Sie dem Mädchen mit dem Perlenohrgehänge in diesem atemberaubenden Palast gegenüber und nutzen Sie den Audioguide für die Kunst des Goldenen Zeitalters.",
+            "hu": "Találkozzon a Leány gyöngyfülbevalóval ebben a lenyűgöző 17. századi palotában, és kérjen audioguide-ot az aranykori művészet igazi értékeléséhez.",
+            "ro": "Întâlniți Fata cu cercel de perle în acest palat uimitor din secolul al XVII-lea și luați un ghid audio pentru a aprecia cu adevărat arta epocii de aur.",
+            "en": "Come face-to-face with the Girl with a Pearl Earring in this stunning 17th-century palace, and grab an audio guide to truly appreciate the golden age art."
+          }
+        },
+        {
+          "name": {
+            "de": "Escher in Het Paleis",
+            "hu": "Escher in Het Paleis",
+            "ro": "Escher in Het Paleis",
+            "en": "Escher in Het Paleis"
+          },
+          "coords": [
+            4.314255,
+            52.083416
+          ],
+          "category": "museum",
+          "arrive_at": "14:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den optischen Täuschungen von M.C. Escher in einem ehemaligen Winterpalast und verpassen Sie nicht die interaktive oberste Etage.",
+            "hu": "Vesszen el M.C. Escher optikai csalódásaiban, amelyek egy egykori királyi téli palotában találhatók, és ne hagyja ki az interaktív legfelső emeletet.",
+            "ro": "Pierdeți-vă în iluziile optice ale lui M.C. Escher din fostul palat regal de iarnă și nu ratați expozițiile interactive de la ultimul etaj.",
+            "en": "Lose yourself in the optical illusions of M.C. Escher housed in a former royal winter palace, and don't miss the interactive exhibits on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Huis van het boek",
+            "hu": "Huis van het boek",
+            "ro": "Huis van het boek",
+            "en": "Huis van het boek"
+          },
+          "coords": [
+            4.315733,
+            52.085006
+          ],
+          "category": "museum",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das älteste Buchmuseum der Welt ein, um seltene Manuskripte zu sehen, und erkunden Sie unbedingt den wunderschön erhaltenen Bibliotheksraum.",
+            "hu": "Merüljön el a világ legrégebbi könyvmúzeumában, ahol ritka kéziratokat láthat, és feltétlenül fedezze fel a gyönyörűen megőrzött történelmi könyvtárszobát.",
+            "ro": "Pătrundeți în cel mai vechi muzeu al cărții din lume pentru a vedea manuscrise rare și asigurați-vă că explorați biblioteca istorică frumos conservată.",
+            "en": "Dive into the oldest book museum in the world to see rare manuscripts and typography, and make sure to explore the beautifully preserved historic library room."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijmetselarij Museum",
+            "hu": "Vrijmetselarij Museum",
+            "ro": "Vrijmetselarij Museum",
+            "en": "Vrijmetselarij Museum"
+          },
+          "coords": [
+            4.300992,
+            52.087158
+          ],
+          "category": "museum",
+          "arrive_at": "17:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse und Symbolik der Freimaurerei in diesem Museum, wo Führungen viel tiefere Einblicke in die verborgenen Rituale bieten.",
+            "hu": "Fedezze fel a szabadkőművesség rejtelmeit és szimbolikáját ebben a speciális múzeumban, ahol a vezetett túrák sokkal mélyebb betekintést nyújtanak.",
+            "ro": "Descoperiți misterele și simbolismul francmasoneriei în acest muzeu specializat, unde tururile ghidate oferă perspective mult mai profunde asupra ritualurilor.",
+            "en": "Uncover the mysteries and symbolism of Freemasonry in this specialized museum, where guided tours offer much deeper insights into the hidden rituals."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeld en Geluid Den Haag",
+            "hu": "Beeld en Geluid Den Haag",
+            "ro": "Beeld en Geluid Den Haag",
+            "en": "Beeld en Geluid Den Haag"
+          },
+          "coords": [
+            4.301608,
+            52.085941
+          ],
+          "category": "museum",
+          "arrive_at": "19:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit faszinierenden Ausstellungen über Nachrichten in diesem modernen Medienmuseum, wo Sie sogar selbst das Nachrichtensprechen üben können.",
+            "hu": "Lépjen interakcióba a hírközléssel és újságírással kapcsolatos kiállításokkal, ahol akár maga is kipróbálhatja a napi hírek felolvasását a stúdióban.",
+            "ro": "Interacționați cu expoziții fascinante despre știri și jurnalism la acest muzeu modern, unde puteți chiar exersa citirea știrilor zilnice la microfon.",
+            "en": "Interact with fascinating exhibits about news and journalism at this modern media museum, where you can even practice reading the daily news yourself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den historischen Verkehrsmitteln im Haags Openbaar Vervoer Museum. Mittags geht es über das Yi Jun Peace Museum zum berühmten Mauritshuis. Der Nachmittag bietet Eschers Illusionen und das Buchmuseum. Wenn der Abend hereinbricht, entdecken Sie freimaurerische Geheimnisse und interaktiven Journalismus im Beeld en Geluid Den Haag.",
+        "hu": "Indítsa kerékpártúráját a régi járművek felfedezésével a Haags Openbaar Vervoer Museumban. Délben a Yi Jun Békemúzeumon át a híres Mauritshuis felé visz az út. Délután Escher illúziói és a világ legrégebbi könyvmúzeuma várja. Kora este ismerje meg a szabadkőművesek titkait, majd zárja a napot a Beeld en Geluid Den Haag interaktív újságírói központjában.",
+        "ro": "Începeți turul cu bicicleta explorând transportul de epocă la Haags Openbaar Vervoer Museum. La prânz, treceți prin istoricul Muzeu al Păcii Yi Jun spre renumitul Mauritshuis. După-amiaza continuă cu iluziile lui Escher și cel mai vechi muzeu al cărții. Când se lasă seara, descoperiți misterele masonice și jurnalismul interactiv la Beeld en Geluid Den Haag.",
+        "en": "Kick off your cycling tour exploring vintage transport at the Haags Openbaar Vervoer Museum. Midday leads you through the historic Yi Jun Peace Museum to the renowned Mauritshuis. Your afternoon continues with Escher's illusions and the oldest book museum, Huis van het boek. As evening falls, uncover Masonic mysteries and interactive journalism at Beeld en Geluid Den Haag."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "De Binckhorst",
+            "hu": "De Binckhorst",
+            "ro": "De Binckhorst",
+            "en": "De Binckhorst"
+          },
+          "coords": [
+            4.337364,
+            52.067034
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser mittelalterlichen Burg, aber beachten Sie, dass der Zugang zum Inneren begrenzt ist, also genießen Sie das Äußere.",
+            "hu": "Csodálja meg ennek a középkori kastélynak a lenyűgöző építészetét, de vegye figyelembe, hogy a belső tér korlátozottan látogatható, így élvezze a külsejét.",
+            "ro": "Admirați arhitectura acestui castel medieval bine conservat, dar rețineți că accesul în interior este limitat, așa că bucurați-vă de vederea exterioară.",
+            "en": "Admire the striking architecture of this well-preserved medieval castle on the city outskirts, but note that interior access is limited so enjoy the exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderboekenmuseum",
+            "hu": "Kinderboekenmuseum",
+            "ro": "Kinderboekenmuseum",
+            "en": "Kinderboekenmuseum"
+          },
+          "coords": [
+            4.326945,
+            52.081769
+          ],
+          "category": "museum",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beflügeln Sie Ihre Fantasie in diesem interaktiven Kinderbuchmuseum, das auch Erwachsene lieben, und achten Sie auf die kreativen Wochenend-Workshops.",
+            "hu": "Indítsa be fantáziáját ebben az interaktív gyermekkönyv-múzeumban, amelyet a felnőttek is imádnak, és figyelje a hétvégi kreatív workshopok kínálatát.",
+            "ro": "Stimulați-vă imaginația în acest muzeu interactiv al cărților pentru copii pe care și adulții îl iubesc și fiți atenți la atelierele creative de weekend.",
+            "en": "Spark your imagination at this interactive children's book museum that adults also love, and keep an eye out for the creative workshops offered on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauritshuis",
+            "hu": "Mauritshuis",
+            "ro": "Mauritshuis",
+            "en": "Mauritshuis"
+          },
+          "coords": [
+            4.314463,
+            52.080439
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie dem Mädchen mit dem Perlenohrgehänge in diesem atemberaubenden Palast gegenüber und nutzen Sie den Audioguide für die Kunst des Goldenen Zeitalters.",
+            "hu": "Találkozzon a Leány gyöngyfülbevalóval ebben a lenyűgöző 17. századi palotában, és kérjen audioguide-ot az aranykori művészet igazi értékeléséhez.",
+            "ro": "Întâlniți Fata cu cercel de perle în acest palat uimitor din secolul al XVII-lea și luați un ghid audio pentru a aprecia cu adevărat arta epocii de aur.",
+            "en": "Come face-to-face with the Girl with a Pearl Earring in this stunning 17th-century palace, and grab an audio guide to truly appreciate the golden age art."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijmetselarij Museum",
+            "hu": "Vrijmetselarij Museum",
+            "ro": "Vrijmetselarij Museum",
+            "en": "Vrijmetselarij Museum"
+          },
+          "coords": [
+            4.300992,
+            52.087158
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse und Symbolik der Freimaurerei in diesem Museum, wo Führungen viel tiefere Einblicke in die verborgenen Rituale bieten.",
+            "hu": "Fedezze fel a szabadkőművesség rejtelmeit és szimbolikáját ebben a speciális múzeumban, ahol a vezetett túrák sokkal mélyebb betekintést nyújtanak.",
+            "ro": "Descoperiți misterele și simbolismul francmasoneriei în acest muzeu specializat, unde tururile ghidate oferă perspective mult mai profunde asupra ritualurilor.",
+            "en": "Uncover the mysteries and symbolism of Freemasonry in this specialized museum, where guided tours offer much deeper insights into the hidden rituals."
+          }
+        },
+        {
+          "name": {
+            "de": "Museon-Omniversum",
+            "hu": "Museon-Omniversum",
+            "ro": "Museon-Omniversum",
+            "en": "Museon-Omniversum"
+          },
+          "coords": [
+            4.280976,
+            52.088902
+          ],
+          "category": "museum",
+          "arrive_at": "15:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie fesselnde Wissenschaftsausstellungen und riesige Kuppel-Dokumentationen, indem Sie Kombitickets im Voraus buchen, um Zeit und Geld zu sparen.",
+            "hu": "Élvezze a tudományos kiállításokat és a hatalmas kupolavásznas dokumentumfilmeket, és foglaljon előre kombinált jegyet, hogy időt és pénzt takarítson meg.",
+            "ro": "Bucurați-vă de expoziții științifice și documentare pe un ecran cupolă imens, rezervând bilete combinate în avans pentru a economisi timp și bani.",
+            "en": "Enjoy engaging science exhibitions and massive dome screen documentaries at this dual attraction, booking combo tickets in advance to save both time and money."
+          }
+        },
+        {
+          "name": {
+            "de": "KM21",
+            "hu": "KM21",
+            "ro": "KM21",
+            "en": "KM21"
+          },
+          "coords": [
+            4.279372,
+            52.090548
+          ],
+          "category": "museum",
+          "arrive_at": "17:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie hochmoderne Ausstellungen zeitgenössischer Kunst in einem atemberaubenden architektonischen Raum und nehmen Sie sich Zeit für die Installationen.",
+            "hu": "Tapasztalja meg az élvonalbeli kortárs művészeti kiállításokat egy lenyűgözően modern építészeti térben, és szánjon időt a folyamatosan változó installációkra.",
+            "ro": "Experimentați expoziții de artă contemporană de ultimă oră într-un spațiu arhitectural modern uimitor, făcându-vă timp pentru a absorbi instalațiile rotative.",
+            "en": "Experience cutting-edge contemporary art exhibitions in a stunningly modern architectural space, taking your time to absorb the constantly rotating installations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip an der mittelalterlichen Burg De Binckhorst. Mittags fahren Sie ins Zentrum für fantasievollen Spaß im Kinderboekenmuseum und Kunst im Mauritshuis. Der Nachmittag führt Sie zum Vrijmetselarij Museum. Beenden Sie den Tag im Westen mit riesigen Kuppel-Dokumentationen im Museon-Omniversum und zeitgenössischer Kunst im KM21.",
+        "hu": "Kezdje autós útját a külvárosban található, középkori De Binckhorst kastélynál. Délben vezessen a központba, ahol a Gyermekkönyv-múzeum és a Mauritshuis aranykori művészete várja. Délután látogasson el a Vrijmetselarij Múzeumba. Zárja a napot a nyugati városrészben, a Museon-Omniversum hatalmas kupolavásznával és a KM21 kortárs kiállításaival.",
+        "ro": "Începeți excursia admirând castelul medieval De Binckhorst de la periferie. Până la prânz, conduceți spre centru pentru a vă bucura de Muzeul Cărții pentru Copii și de arta de la Mauritshuis. După-amiaza vă duce la muzeul Vrijmetselarij. Încheiați-vă ziua în vest cu ecranele uriașe de la Museon-Omniversum și arta contemporană de ultimă oră de la KM21.",
+        "en": "Begin your road trip by viewing the medieval De Binckhorst castle on the outskirts. By midday, drive into the center for imaginative fun at the Kinderboekenmuseum and golden age art at Mauritshuis. The afternoon takes you to the specialized Vrijmetselarij Museum. Conclude your day out west with massive dome screens at Museon-Omniversum and contemporary art at KM21."
+      }
+    }
+  }
+}

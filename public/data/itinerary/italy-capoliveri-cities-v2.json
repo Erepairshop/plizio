@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-capoliveri-cities-v2",
+  "anchor": {
+    "name": "Capoliveri",
+    "coords": [
+      10.3866,
+      42.74444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Straccoligno",
+            "hu": "Straccoligno",
+            "ro": "Straccoligno",
+            "en": "Straccoligno"
+          },
+          "coords": [
+            10.406218,
+            42.748082
+          ],
+          "category": "recreational",
+          "arrive_at": "09:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sandstrand von Straccoligno für ein sanftes Morgenschwimmen und kommen Sie früh, um sich einen Platz am Wasser zu sichern.",
+            "hu": "Élvezze a homokos Straccoligno partját egy kellemes reggeli úszáshoz, és érkezzen korán, hogy biztosítson magának egy remek helyet a víznél.",
+            "ro": "Bucurați-vă de malul nisipos al plajei Straccoligno pentru o înotare matinală și ajungeți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Enjoy the sandy shore of Straccoligno, perfect for a gentle morning swim, and arrive early to secure a prime spot near the waterline."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrato",
+            "hu": "Ferrato",
+            "ro": "Ferrato",
+            "en": "Ferrato"
+          },
+          "coords": [
+            10.408327,
+            42.745701
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigeren Strand Ferrato mit seinen einzigartigen roten Kieseln, also bringen Sie Badeschuhe für ein bequemeres Erlebnis mit.",
+            "hu": "Pihenjen a csendesebb Ferrato strandon egyedi vörös kavicsai közt, ezért hozzon magával vízicipőt a kényelmesebb tengerparti élmény érdekében.",
+            "ro": "Relaxați-vă la plaja mai liniștită Ferrato, cu pietricelele sale roșii unice, așa că aduceți încălțăminte de apă pentru o experiență confortabilă.",
+            "en": "Unwind at Ferrato beach, known for its quieter atmosphere and unique red pebbles, so bring water shoes for a more comfortable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Istia beach",
+            "hu": "Istia beach",
+            "ro": "Istia beach",
+            "en": "Istia beach"
+          },
+          "coords": [
+            10.415032,
+            42.743075
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verborgene Schönheit des von Pinien umgebenen Strandes Istia, ideal für ein Picknick im natürlichen Schatten der Bäume.",
+            "hu": "Fedezze fel az Istia strand fenyőfák között megbúvó szépségét, amely tökéletes helyszín egy piknik ebéd elfogyasztásához a természetes árnyékban.",
+            "ro": "Descoperiți frumusețea retrasă a plajei Istia printre pini, locul ideal pentru un picnic relaxant la prânz bucurându-vă de umbra naturală.",
+            "en": "Discover the secluded beauty of Istia beach hidden among the pine trees, making it ideal to pack a picnic lunch to enjoy in the natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagga di Naregno",
+            "hu": "Spiagga di Naregno",
+            "ro": "Spiagga di Naregno",
+            "en": "Spiagga di Naregno"
+          },
+          "coords": [
+            10.403482,
+            42.755181
+          ],
+          "category": "recreational",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Strand Naregno mit Blick auf alte Festungen und mieten Sie ein Tretboot für weitere Erkundungen.",
+            "hu": "Tapasztalja meg a Naregno strand nyüzsgő hangulatát a távoli erődökkel, és érdemes vízibiciklit bérelni a partszakasz további felfedezéséhez.",
+            "ro": "Simțiți atmosfera plină de viață la plaja Naregno privind fortărețele antice, și închiriați o hidrobicicletă pentru a explora mai departe golful.",
+            "en": "Experience the lively vibe at Naregno beach featuring two ancient fortresses in the distance, and consider renting a pedal boat to explore further."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Hotel Elba",
+            "hu": "Spiaggia Hotel Elba",
+            "ro": "Spiaggia Hotel Elba",
+            "en": "Spiaggia Hotel Elba"
+          },
+          "coords": [
+            10.396618,
+            42.75722
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem Sand nahe dem Spiaggia Hotel Elba mit tollen Einrichtungen, wo ein lokales Eis den Nachmittag perfekt abrundet.",
+            "hu": "Pihenjen a Spiaggia Hotel Elba kiváló felszereltségű homokos partján, ahol egy helyi fagylalt elfogyasztása tökéletesen lezárja a délutánt.",
+            "ro": "Relaxați-vă pe nisipul confortabil de la Spiaggia Hotel Elba cu facilități excelente, unde o înghețată artizanală va încheia perfect după-amiaza.",
+            "en": "Relax on the comfortable sands near Spiaggia Hotel Elba offering excellent facilities, where grabbing a local gelato completes the afternoon perfectly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den Ostküsten von Capoliveri. Der Spaziergang bergab zum weiten Sandstrand von Straccoligno ist belebend und lohnend.\n\nWenn die Sonne höher steigt, erkunden Sie Ferrato und den von Pinien gesäumten Istia-Strand. Diese Juwelen bieten eine perfekte Zuflucht.\n\nDer Nachmittag führt Sie zum belebten Strand von Naregno. Der malerische Spaziergang entlang der Küste bietet herrliche Ausblicke auf alte Festungen.\n\nBeenden Sie Ihre Küstenwanderung am entspannenden Spiaggia Hotel Elba. Die sanfte Meeresbrise sorgt für einen ruhigen Abschluss Ihres aktiven Tages.",
+        "hu": "Kezdje a napot Capoliveri keleti partjainál. A lejtős séta a homokos Straccoligno partjához igazán frissítő és jutalmazó élmény.\n\nAhogy a nap egyre feljebb hág, fedezze fel Ferrato csendes öbleit és a fenyőfákkal övezett Istia strandot. Ezek a rejtett gyöngyszemek tökéletesek.\n\nA délután a nyüzsgő Naregno strandra vezet. A part menti festői séta lenyűgöző kilátást nyújt az ősi spanyol erődökre az út során.\n\nFejezze be tengerparti túráját a pihentető Spiaggia Hotel Elba közelében. A lágy tengeri szellő békés befejezést nyújt aktív napjának.",
+        "ro": "Începeți ziua aventurându-vă pe țărmurile estice din Capoliveri. Plimbarea la vale spre plaja Straccoligno este plină de prospețime și extrem de relaxantă.\n\nPe măsură ce soarele urcă, explorați golfurile liniștite din Ferrato și plaja Istia. Aceste bijuterii ascunse oferă o evadare naturală perfectă în timpul zilei.\n\nDupă-amiaza vă conduce către aglomerata plajă Naregno. Plimbarea pitorească de-a lungul coastei oferă vederi magnifice ale vechilor fortărețe spaniole.\n\nÎncheiați drumeția de coastă la plaja relaxantă a Hotelului Elba. Briza blândă și apele calme oferă un final senin pentru ziua dumneavoastră plină.",
+        "en": "Begin your day venturing to the eastern shores of Capoliveri. The walk downhill to the sandy expanse of Straccoligno is invigorating and rewarding.\n\nAs the sun climbs higher, explore the quieter coves of Ferrato and the pine-fringed Istia beach. These hidden gems offer a perfect natural escape.\n\nThe afternoon leads you to the bustling Spiagga di Naregno. The scenic walk along the coastline offers magnificent views of ancient Spanish fortresses.\n\nConclude your coastal trek at the relaxing Spiaggia Hotel Elba. The gentle sea breeze and calm waters provide a serene ending to your active day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido di Capoliveri",
+            "hu": "Lido di Capoliveri",
+            "ro": "Lido di Capoliveri",
+            "en": "Lido di Capoliveri"
+          },
+          "coords": [
+            10.35518,
+            42.760459
+          ],
+          "category": "recreational",
+          "arrive_at": "09:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Lido di Capoliveri mit seinem weiten Sandstrand, und trinken Sie einen Espresso im Strandcafé, bevor Sie ins Wasser gehen.",
+            "hu": "Kezdjen a Lido di Capoliveri széles homokos partján, és igyon egy gyors eszpresszót az egyik parti kávézóban, mielőtt belevetné magát a vízbe.",
+            "ro": "Începeți la Lido di Capoliveri cu nisipul său întins și apa clară, savurând un espresso rapid la o cafenea de pe plajă înainte de a înota.",
+            "en": "Start at Lido di Capoliveri to enjoy its extensive sandy stretch and clear waters, grabbing a quick espresso at a beachside cafe before swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Calanchiole",
+            "hu": "Le Calanchiole",
+            "ro": "Le Calanchiole",
+            "en": "Le Calanchiole"
+          },
+          "coords": [
+            10.35803,
+            42.758595
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerischen Felsbuchten von Le Calanchiole zwischen den Klippen, und bringen Sie eine Schnorchelausrüstung für die Unterwasserwelt mit.",
+            "hu": "Csodálja meg a Le Calanchiole sziklák közé ékelt festői öbleit, és mindenképpen hozzon búvárszemüveget a színes tengeri élőlények megfigyeléséhez.",
+            "ro": "Admirați golfurile stâncoase pitorești de la Le Calanchiole dintre stânci, și asigurați-vă că aveți echipament de snorkeling pentru viața marină.",
+            "en": "Marvel at the scenic rocky coves of Le Calanchiole nestled between cliffs, and be sure to bring snorkeling gear to spot the vibrant marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pareti",
+            "hu": "Pareti",
+            "ro": "Pareti",
+            "en": "Pareti"
+          },
+          "coords": [
+            10.375362,
+            42.728205
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne am wunderschönen Pareti-Strand mit seinem tiefblauen Wasser, und mieten Sie früh einen Schirm, da die Sonne mittags stark wird.",
+            "hu": "Élvezze a napsütést a mélykék vizéről híres gyönyörű Pareti strandon, és béreljen napernyőt korán, mivel a nap délben meglehetősen erősen tűz.",
+            "ro": "Bucurați-vă de soare pe superba plajă Pareti renumită pentru apele sale albastre, și închiriați o umbrelă devreme deoarece soarele devine puternic.",
+            "en": "Soak up the sun at the beautiful Pareti beach famous for its deep blue waters, and rent an umbrella early as the sun gets quite strong by midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Innamorata",
+            "hu": "Innamorata",
+            "ro": "Innamorata",
+            "en": "Innamorata"
+          },
+          "coords": [
+            10.377041,
+            42.723006
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den romantischen, legendenumwobenen Strand Innamorata, und erkunden Sie die Gemini-Inseln schwimmend oder mit dem Kajak.",
+            "hu": "Látogasson el a helyi legendákkal övezett romantikus Innamorata strandra, és fedezze fel a közeli Gemini-szigeteket úszva vagy kajakkal.",
+            "ro": "Vizitați plaja romantică Innamorata plină de legende locale, și explorați insulele Gemini din apropiere înotând sau cu un caiac dacă aveți curaj.",
+            "en": "Visit the romantic Innamorata beach steeped in local legend, and explore the nearby Gemini islands by swimming or kayaking if you feel adventurous."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagga Le Francesche",
+            "hu": "Spiagga Le Francesche",
+            "ro": "Spiagga Le Francesche",
+            "en": "Spiagga Le Francesche"
+          },
+          "coords": [
+            10.392244,
+            42.713898
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Elbas wilde Seite an der über steile Pfade erreichbaren Spiagga Le Francesche, also tragen Sie festes Schuhwerk für den Abstieg.",
+            "hu": "Fedezze fel Elba vadabb oldalát a meredek ösvényeken elérhető Spiagga Le Francesche-n, ezért viseljen masszív cipőt a biztonságos ereszkedéshez.",
+            "ro": "Descoperiți partea sălbatică a Elbei la plaja Le Francesche accesibilă prin cărări abrupte, așa că purtați încălțăminte solidă pentru coborâre.",
+            "en": "Discover the wilder side of Elba at Spiagga Le Francesche accessible by steep trails, so wear sturdy shoes to safely navigate the descending paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagga di Vetrangoli",
+            "hu": "Spiagga di Vetrangoli",
+            "ro": "Spiagga di Vetrangoli",
+            "en": "Spiagga di Vetrangoli"
+          },
+          "coords": [
+            10.41029,
+            42.716648
+          ],
+          "category": "recreational",
+          "arrive_at": "16:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an der unberührten Spiagga di Vetrangoli inmitten rauer Natur, der perfekte, ruhige Ort, um den Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be útját a vad természettel körülvett érintetlen Spiagga di Vetrangoli-n, amely a tökéletes békés helyszín a naplemente megtekintéséhez.",
+            "ro": "Încheiați-vă călătoria la plaja curată Vetrangoli înconjurată de natură sălbatică, fiind locul liniștit perfect pentru a privi apusul soarelui.",
+            "en": "End your journey at the pristine Spiagga di Vetrangoli surrounded by rugged nature, making it the perfect peaceful spot to watch the sun go down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie mit dem Rad zum goldenen Sand des Lido di Capoliveri. Das im Morgenlicht schimmernde Wasser sorgt für einen malerischen Start.\n\nFahren Sie die Südwestküste entlang und baden Sie in Le Calanchiole und Pareti. Die kurvigen Küstenstraßen sind ein Traum für Radfahrer.\n\nFahren Sie zur legendären Innamorata und meistern Sie die rauen Wege zur Spiagga Le Francesche. Das abwechslungsreiche Gelände bleibt spannend.\n\nErreichen Sie die abgelegene Spiagga di Vetrangoli, um zu entspannen. Die ruhige Isolation belohnt Ihre Anstrengungen mit tiefer Gelassenheit.",
+        "hu": "Induljon el kerékpárral a Lido di Capoliveri aranyhomokos partjára. A vizen megcsillanó reggeli fény festői kezdetet biztosít az útnak.\n\nTekerjen végig a lenyűgöző délnyugati parton, és mártózzon meg a Le Calanchiole és Pareti hűsítő vizében. A kanyargós utak álomszerűek.\n\nHaladjon a legendás Innamorata strand felé, majd küzdjön meg a Spiagga Le Francesche vadabb ösvényeivel. A változatos terep izgalmas marad.\n\nÉrkezzen meg a távoli Spiagga di Vetrangoli-hoz pont időben a pihenéshez. A csendes elszigeteltség mély nyugalommal jutalmazza meg fáradozásait.",
+        "ro": "Porniți cu bicicleta spre nisipurile aurii din Lido di Capoliveri. Lumina dimineții care strălucește pe apă creează un început pitoresc pentru călătorie.\n\nPedalați de-a lungul uimitoarei coaste sud-vestice, făcând băi răcoritoare la Le Calanchiole și Pareti. Drumurile de coastă sunt visul oricărui ciclist.\n\nContinuați spre legendara plajă Innamorata, apoi abordați traseele accidentate către Spiagga Le Francesche. Terenul variat menține drumul mereu interesant.\n\nAjungeți la plaja izolată Vetrangoli exact la timp pentru a vă relaxa. Izolarea liniștită vă răsplătește eforturile de pedalare cu o liniște profundă.",
+        "en": "Set off on your bike to the golden sands of Lido di Capoliveri. The morning light shimmering on the water makes for a picturesque start to the ride.\n\nRide along the stunning southwestern coast, taking refreshing dips at Le Calanchiole and Pareti. The winding coastal roads are a cyclist's dream.\n\nPush towards the legendary Innamorata beach, then tackle the rugged paths to Spiagga Le Francesche. The varied terrain keeps the journey exciting.\n\nArrive at the remote Spiagga di Vetrangoli just in time to relax. The quiet isolation here rewards your pedaling efforts with profound tranquility."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 16.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiagga di Naregno",
+            "hu": "Spiagga di Naregno",
+            "ro": "Spiagga di Naregno",
+            "en": "Spiagga di Naregno"
+          },
+          "coords": [
+            10.403482,
+            42.755181
+          ],
+          "category": "recreational",
+          "arrive_at": "09:13",
+          "stay_min": 85,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bequem zur Spiagga di Naregno für ein morgendliches Bad. Mit dem Auto können Sie Ihre Strandausrüstung einfach und bequem transportieren.",
+            "hu": "Vezessen kényelmesen a Spiagga di Naregno partjához egy kora reggeli úszáshoz. Az autóval könnyedén szállíthatja a felszerelését a maximális kényelemért.",
+            "ro": "Conduceți lin spre Spiagga di Naregno pentru o înotare matinală. Având o mașină puteți transporta ușor tot echipamentul pentru un confort maxim.",
+            "en": "Drive smoothly to Spiagga di Naregno for an early morning swim. Having a car lets you easily transport all your beach gear for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Straccoligno",
+            "hu": "Straccoligno",
+            "ro": "Straccoligno",
+            "en": "Straccoligno"
+          },
+          "coords": [
+            10.406218,
+            42.748082
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sandstrand von Straccoligno für ein sanftes Morgenschwimmen und kommen Sie früh, um sich einen Platz am Wasser zu sichern.",
+            "hu": "Élvezze a homokos Straccoligno partját egy kellemes reggeli úszáshoz, és érkezzen korán, hogy biztosítson magának egy remek helyet a víznél.",
+            "ro": "Bucurați-vă de malul nisipos al plajei Straccoligno pentru o înotare matinală și ajungeți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Enjoy the sandy shore of Straccoligno, perfect for a gentle morning swim, and arrive early to secure a prime spot near the waterline."
+          }
+        },
+        {
+          "name": {
+            "de": "Innamorata",
+            "hu": "Innamorata",
+            "ro": "Innamorata",
+            "en": "Innamorata"
+          },
+          "coords": [
+            10.377041,
+            42.723006
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den romantischen, legendenumwobenen Strand Innamorata, und erkunden Sie die Gemini-Inseln schwimmend oder mit dem Kajak.",
+            "hu": "Látogasson el a helyi legendákkal övezett romantikus Innamorata strandra, és fedezze fel a közeli Gemini-szigeteket úszva vagy kajakkal.",
+            "ro": "Vizitați plaja romantică Innamorata plină de legende locale, și explorați insulele Gemini din apropiere înotând sau cu un caiac dacă aveți curaj.",
+            "en": "Visit the romantic Innamorata beach steeped in local legend, and explore the nearby Gemini islands by swimming or kayaking if you feel adventurous."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagga di Remaiolo",
+            "hu": "Spiagga di Remaiolo",
+            "ro": "Spiagga di Remaiolo",
+            "en": "Spiagga di Remaiolo"
+          },
+          "coords": [
+            10.412865,
+            42.715844
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Exklusivität der Spiagga di Remaiolo in einem ehemaligen Bergbaugebiet und halten Sie am Ufer Ausschau nach interessanten Mineralien.",
+            "hu": "Élvezze a korábbi bányaterületen fekvő Spiagga di Remaiolo exkluzivitását, és tartsa nyitva a szemét az érdekes ásványok után a partvonal mentén.",
+            "ro": "Bucurați-vă de exclusivitatea plajei Remaiolo situată într-o fostă zonă minieră, și fiți cu ochii în patru pentru minerale interesante pe țărm.",
+            "en": "Enjoy the exclusivity of Spiagga di Remaiolo nestled in a former mining area, and keep an eye out for interesting minerals along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagga di Vetrangoli",
+            "hu": "Spiagga di Vetrangoli",
+            "ro": "Spiagga di Vetrangoli",
+            "en": "Spiagga di Vetrangoli"
+          },
+          "coords": [
+            10.41029,
+            42.716648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an der unberührten Spiagga di Vetrangoli inmitten rauer Natur, der perfekte, ruhige Ort, um den Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be útját a vad természettel körülvett érintetlen Spiagga di Vetrangoli-n, amely a tökéletes békés helyszín a naplemente megtekintéséhez.",
+            "ro": "Încheiați-vă călătoria la plaja curată Vetrangoli înconjurată de natură sălbatică, fiind locul liniștit perfect pentru a privi apusul soarelui.",
+            "en": "End your journey at the pristine Spiagga di Vetrangoli surrounded by rugged nature, making it the perfect peaceful spot to watch the sun go down."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido di Capoliveri",
+            "hu": "Lido di Capoliveri",
+            "ro": "Lido di Capoliveri",
+            "en": "Lido di Capoliveri"
+          },
+          "coords": [
+            10.35518,
+            42.760459
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Lido di Capoliveri mit seinem weiten Sandstrand, und trinken Sie einen Espresso im Strandcafé, bevor Sie ins Wasser gehen.",
+            "hu": "Kezdjen a Lido di Capoliveri széles homokos partján, és igyon egy gyors eszpresszót az egyik parti kávézóban, mielőtt belevetné magát a vízbe.",
+            "ro": "Începeți la Lido di Capoliveri cu nisipul său întins și apa clară, savurând un espresso rapid la o cafenea de pe plajă înainte de a înota.",
+            "en": "Start at Lido di Capoliveri to enjoy its extensive sandy stretch and clear waters, grabbing a quick espresso at a beachside cafe before swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zur Spiagga di Naregno für ein morgendliches Bad. Mit dem Auto können Sie Ihre Strandausrüstung einfach und bequem transportieren.\n\nFahren Sie nach Straccoligno und weiter zur romantischen Innamorata. Die Flexibilität des Autos lässt Sie zwischen den besten Buchten wechseln.\n\nFahren Sie zur südlichen Spitze, um Remaiolo und Vetrangoli zu besuchen. Diese spektakulären, abgelegenen Orte sind mit dem Auto ein Kinderspiel.\n\nBeenden Sie Ihren Roadtrip am weiten Lido di Capoliveri. Genießen Sie die Sonnenuntergangsstimmung vor einer kurzen, bequemen Fahrt zurück.",
+        "hu": "Vezessen kényelmesen a Spiagga di Naregno partjához egy kora reggeli úszáshoz. Az autóval könnyedén szállíthatja a felszerelését a maximális kényelemért.\n\nGuruljon le Straccoligno-hoz, majd át a romantikus Innamorata strandra. A vezetés rugalmassága lehetővé teszi a legjobb öblök közötti gyors váltást.\n\nNavigáljon a drámai déli csücsök felé a Remaiolo és Vetrangoli strandokhoz. Ezek a látványos távoli helyek autóval gyerekjáték elérni.\n\nFejezze be autós túráját a hatalmas Lido di Capoliveri-n. Élvezze a nyüzsgő naplemente hangulatát, mielőtt röviden és kényelmesen visszavezetne a bázisra.",
+        "ro": "Conduceți lin spre Spiagga di Naregno pentru o înotare matinală. Având o mașină puteți transporta ușor tot echipamentul pentru un confort maxim.\n\nMergeți spre Straccoligno, apoi traversați către romantica Innamorata. Flexibilitatea condusului vă permite să săriți între cele mai bune golfuri ale insulei.\n\nNavigați către vârful sudic dramatic pentru a vizita plajele Remaiolo și Vetrangoli. Aceste locuri spectaculoase și izolate sunt foarte ușor de atins cu mașina.\n\nTerminați-vă călătoria cu mașina la impresionantul Lido di Capoliveri. Bucurați-vă de atmosfera apusului înainte de un drum scurt înapoi la bază.",
+        "en": "Drive smoothly to Spiagga di Naregno for an early morning swim. Having a car lets you easily transport all your beach gear for maximum comfort.\n\nCruise down to Straccoligno, then across to the romantic Innamorata. The flexibility of driving allows you to hop between the island's best bays.\n\nNavigate towards the dramatic southern tip to visit Spiagga di Remaiolo and Vetrangoli. These spectacular remote spots are a breeze to reach by car.\n\nFinish your road trip at the expansive Lido di Capoliveri. Enjoy the vibrant sunset atmosphere before a short, comfortable drive back to your base."
+      }
+    }
+  }
+}

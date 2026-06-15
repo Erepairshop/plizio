@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-massamagrell-cities-v2",
+  "anchor": {
+    "name": "Massamagrell",
+    "coords": [
+      -0.33333,
+      39.56667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 1.76,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Joan Apòstol i Evangelista",
+            "hu": "Església de Sant Joan Apòstol i Evangelista",
+            "ro": "Església de Sant Joan Apòstol i Evangelista",
+            "en": "Església de Sant Joan Apòstol i Evangelista"
+          },
+          "coords": [
+            -0.33054,
+            39.570047
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser zentralen Kirche, ein spirituelles Zentrum der Stadt, und kommen Sie am späten Vormittag für das beste natürliche Licht im Inneren.",
+            "hu": "Csodálja meg a központi templom lenyűgöző homlokzatát, amely a város szellemi központja, és jöjjön késő délelőtt, hogy élvezhesse a legjobb benti természetes fényviszonyokat.",
+            "ro": "Admirați fațada impresionantă a acestei biserici centrale, un hub spiritual al orașului, și veniți dimineața târziu pentru a vă bucura de cea mai bună lumină naturală înăuntru.",
+            "en": "Admire the striking facade of this central church, a spiritual hub of the town, and visit in the late morning to enjoy the best natural lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre de Massamagrell",
+            "hu": "Teatre de Massamagrell",
+            "ro": "Teatre de Massamagrell",
+            "en": "Teatre de Massamagrell"
+          },
+          "coords": [
+            -0.333436,
+            39.570517
+          ],
+          "category": "cultural",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebendige Kulturzentrum mit lokalen Aufführungen und prüfen Sie das Anschlagbrett auf kommende kostenlose Veranstaltungen in der Gemeinde.",
+            "hu": "Fedezze fel ezt a nyüzsgő kulturális központot, ahol helyi előadások kelnek életre, és nézze meg a hirdetőtáblát az ingyenes közösségi eseményekért.",
+            "ro": "Explorați acest centru cultural vibrant unde spectacolele locale prind viață și verificați avizierul exterior pentru viitoarele evenimente comunitare gratuite.",
+            "en": "Explore this vibrant cultural center where local performances come alive, and be sure to check the bulletin board outside for upcoming free community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de castas y encastes del toro de lidia",
+            "hu": "Museo de castas y encastes del toro de lidia",
+            "ro": "Museo de castas y encastes del toro de lidia",
+            "en": "Museo de castas y encastes del toro de lidia"
+          },
+          "coords": [
+            -0.334893,
+            39.57169
+          ],
+          "category": "museum",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des spanischen Stierkampfs ein, die in diesem Museum gezeigt wird, aber prüfen Sie vorab die begrenzten Nachmittagsöffnungszeiten.",
+            "hu": "Merüljön el a spanyol bikaviadal-hagyományok gazdag történetében ebben a múzeumban, de látogatás előtt ellenőrizze a korlátozott délutáni nyitvatartást.",
+            "ro": "Aprofundați istoria tradițiilor spaniole de coridă prezentate în acest muzeu unic, dar verificați programul limitat de după-amiază înainte de vizită.",
+            "en": "Delve into the rich history of Spanish bullfighting traditions showcased in this unique museum, but check their limited afternoon hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament",
+            "hu": "Ajuntament",
+            "ro": "Ajuntament",
+            "en": "Ajuntament"
+          },
+          "coords": [
+            -0.326346,
+            39.577753
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die beeindruckende Rathausarchitektur des historischen Zentrums und ruhen Sie sich kurz auf den nahen Bänken unter den Bäumen aus.",
+            "hu": "Fotózza le a történelmi központot rögzítő lenyűgöző városháza építészetét, és pihenjen meg egy pillanatra a közeli fák alatti kényelmes padokon.",
+            "ro": "Fotografiați arhitectura impresionantă a primăriei din centrul istoric și odihniți-vă câteva momente pe băncile din piața plină de copaci umbroși.",
+            "en": "Photograph the impressive town hall architecture which anchors the historic center, and take a moment to rest on the nearby plaza benches under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Parròquia de Sant Josep",
+            "hu": "Parròquia de Sant Josep",
+            "ro": "Parròquia de Sant Josep",
+            "en": "Parròquia de Sant Josep"
+          },
+          "coords": [
+            -0.325389,
+            39.580549
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvollen Details dieser Pfarrkirche, die der lokalen Nachbarschaft dient, und bringen Sie eine kleine Spende für eine Kerze mit.",
+            "hu": "Csodálja meg ennek a helyi közösséget szolgáló plébániatemplomnak a részleteit, és hozzon egy kis aprópénzt, ha gyertyát szeretne gyújtani bent.",
+            "ro": "Minunați-vă de detaliile acestei biserici parohiale care deservește cartierul și aduceți o mică donație dacă doriți să aprindeți o lumânare la altar.",
+            "en": "Marvel at the intricate details of this parish church that serves the local neighborhood, and bring a small donation if you wish to light a candle inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im belebten Herzen von Massamagrell mit der Erkundung der Zentralkirche und des Theaters. Der Mittag bietet im Stierkampfmuseum einen tiefen Einblick in regionale Traditionen. Der Nachmittag bringt einen angenehmen Spaziergang zum großen Rathausplatz. Der Abend endet besinnlich an der nördlichen Pfarrkirche.",
+        "hu": "A reggel Massamagrell nyüzsgő szívében indul, a központi templom és a színház felfedezésével. A dél tapasztalatot nyújt az egyedülálló regionális hagyományokról a bikaviadal-múzeumban. A délután egy kellemes sétát tartogat a városháza nagy terére. Az este csendes elmélkedéssel zárul az északi plébániatemplomnál.",
+        "ro": "Dimineața începe în inima plină de viață a Massamagrellului, explorând biserica centrală și teatrul local. Amiaza oferă o incursiune în tradițiile regionale la muzeul coridelor. După-amiaza aduce o plimbare plăcută până la marea piață a primăriei. Seara se încheie cu o reflecție liniștită la biserica parohială din nordul orașului.",
+        "en": "Your morning starts in the bustling heart of Massamagrell, exploring the central church and passing by the theater. Midday offers a deep dive into unique regional traditions at the bullfighting museum. Afternoon brings a pleasant stroll up to the grand town hall square. The evening concludes with quiet reflection at the northern parish church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 3.96,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església Sant Llorenç Màrtir",
+            "hu": "Església Sant Llorenç Màrtir",
+            "ro": "Església Sant Llorenç Màrtir",
+            "en": "Església Sant Llorenç Màrtir"
+          },
+          "coords": [
+            -0.326094,
+            39.558001
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das ruhige Ambiente dieses historischen Heiligtums für den heiligen Laurentius und besuchen Sie es direkt nach der ruhigen Morgenmesse.",
+            "hu": "Fedezze fel ennek a Szent Lőrincnek szentelt történelmi szentélynek a nyugodt hangulatát, és jöjjön közvetlenül a csendes reggeli mise után.",
+            "ro": "Descoperiți ambianța senină a acestui sanctuar istoric dedicat Sfântului Laurențiu și vizitați-l imediat după slujba liniștită de dimineață.",
+            "en": "Discover the serene ambiance of this historic sanctuary dedicated to Saint Lawrence, and visit just after morning mass when it is usually quietest."
+          }
+        },
+        {
+          "name": {
+            "de": "Cebera",
+            "hu": "Cebera",
+            "ro": "Cebera",
+            "en": "Cebera"
+          },
+          "coords": [
+            -0.329941,
+            39.56102
+          ],
+          "category": "historical",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieses landwirtschaftlichen Gebäudes, ein Relikt alten Lebens, und tragen Sie bequeme Schuhe zur Besichtigung.",
+            "hu": "Figyelje meg ennek a történelmi mezőgazdasági építménynek a hagyományos építészetét, és viseljen kényelmes cipőt a környék alapos felfedezéséhez.",
+            "ro": "Observați arhitectura tradițională a acestei structuri agricole istorice și purtați încălțăminte confortabilă pentru a explora zona înconjurătoare.",
+            "en": "Observe the traditional architecture of this historic agricultural structure, a remnant of local farming life, and wear comfortable walking shoes to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Joan Apòstol i Evangelista",
+            "hu": "Església de Sant Joan Apòstol i Evangelista",
+            "ro": "Església de Sant Joan Apòstol i Evangelista",
+            "en": "Església de Sant Joan Apòstol i Evangelista"
+          },
+          "coords": [
+            -0.33054,
+            39.570047
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieser zentralen Kirche, ein spirituelles Zentrum der Stadt, und kommen Sie am späten Vormittag für das beste natürliche Licht im Inneren.",
+            "hu": "Csodálja meg a központi templom lenyűgöző homlokzatát, amely a város szellemi központja, és jöjjön késő délelőtt, hogy élvezhesse a legjobb benti természetes fényviszonyokat.",
+            "ro": "Admirați fațada impresionantă a acestei biserici centrale, un hub spiritual al orașului, și veniți dimineața târziu pentru a vă bucura de cea mai bună lumină naturală înăuntru.",
+            "en": "Admire the striking facade of this central church, a spiritual hub of the town, and visit in the late morning to enjoy the best natural lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament",
+            "hu": "Ajuntament",
+            "ro": "Ajuntament",
+            "en": "Ajuntament"
+          },
+          "coords": [
+            -0.326346,
+            39.577753
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die beeindruckende Rathausarchitektur des historischen Zentrums und ruhen Sie sich kurz auf den nahen Bänken unter den Bäumen aus.",
+            "hu": "Fotózza le a történelmi központot rögzítő lenyűgöző városháza építészetét, és pihenjen meg egy pillanatra a közeli fák alatti kényelmes padokon.",
+            "ro": "Fotografiați arhitectura impresionantă a primăriei din centrul istoric și odihniți-vă câteva momente pe băncile din piața plină de copaci umbroși.",
+            "en": "Photograph the impressive town hall architecture which anchors the historic center, and take a moment to rest on the nearby plaza benches under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Spa municipal",
+            "hu": "Spa municipal",
+            "ro": "Spa municipal",
+            "en": "Spa municipal"
+          },
+          "coords": [
+            -0.336197,
+            39.586108
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den städtischen Spa-Einrichtungen mit beruhigenden Thermalbecken, aber denken Sie daran, Ihr Ticket rechtzeitig vorab zu buchen.",
+            "hu": "Lazítson és frissüljön fel a nyugtató termálmedencéiről ismert városi gyógyfürdőben, de ne felejtse el előre lefoglalni a belépőjegyét a tömeg elkerülése végett.",
+            "ro": "Relaxați-vă și revigorați-vă simțurile la facilitățile spa municipale cunoscute pentru piscinele lor termale calmante, dar rezervați-vă biletul de intrare în avans.",
+            "en": "Relax and rejuvenate your senses at the municipal spa facilities known for their calming thermal pools, but remember to book your entry ticket in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Antoni Abat",
+            "hu": "Església de Sant Antoni Abat",
+            "ro": "Església de Sant Antoni Abat",
+            "en": "Església de Sant Antoni Abat"
+          },
+          "coords": [
+            -0.333572,
+            39.588556
+          ],
+          "category": "religious",
+          "arrive_at": "14:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser nördlichen Kirche mit ihrem schönen traditionellen Altarbild und respektieren Sie die Stille der Beter.",
+            "hu": "Tapasztalja meg ennek az északi templomnak a békés hangulatát a gyönyörű hagyományos oltárképével, és tisztelje a helyi hívek áhítatos csendjét.",
+            "ro": "Experimentați atmosfera pașnică a acestei biserici nordice cu frumosul său retablu tradițional și respectați liniștea închinătorilor locali în timpul vizitei.",
+            "en": "Experience the peaceful atmosphere of this northern church with its beautiful traditional altarpiece, and respect the silence of the local worshippers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im südlichen Teil der Stadt mit historischen religiösen Stätten und alten landwirtschaftlichen Strukturen. Mittags radeln Sie ins Zentrum zur großen Kirche. Am Nachmittag gleiten Sie weiter nach Norden zur Entspannung im städtischen Spa. Die abendliche Fahrt endet friedlich an der Kirche von Sant Antoni Abat.",
+        "hu": "Kezdje a kerékpártúrát a város déli részén a történelmi vallási helyszínekkel és régi mezőgazdasági épületekkel. Délben tekerjen be a központba, hogy megcsodálja a nagytemplomot. Délután guruljon tovább északra, hogy a városi fürdőben pihenjen. Az esti túra békésen ér véget a Sant Antoni Abat templomnál.",
+        "ro": "Începeți turul cu bicicleta în partea de sud a orașului cu situri religioase istorice și vechi structuri agricole. La amiază, veți pedala spre centru pentru a admira marea biserică. După-amiaza, alunecați mai spre nord pentru relaxare la spa-ul municipal. Cursa de seară se încheie pașnic la Biserica Sant Antoni Abat.",
+        "en": "Kick off your cycling tour in the southern part of town with historic religious sites and the old agricultural structures. By midday, you'll pedal to the town center to admire the grand church and city hall. In the afternoon, glide further north for relaxation at the municipal spa. The evening ride ends peacefully at the Church of Sant Antoni Abat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 7.08,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Runes de l'Alqueria de Lleó",
+            "hu": "Runes de l'Alqueria de Lleó",
+            "ro": "Runes de l'Alqueria de Lleó",
+            "en": "Runes de l'Alqueria de Lleó"
+          },
+          "coords": [
+            -0.313612,
+            39.565154
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen faszinierenden historischen Ruinen, die die alten Siedlungsmuster der Gegend zeigen, und gehen Sie früh dorthin, um die Sonne zu meiden.",
+            "hu": "Sétáljon a lenyűgöző történelmi romok között, amelyek feltárják a környék ősi települési mintáit, és menjen korán, hogy elkerülje az erős mediterrán napsütést.",
+            "ro": "Plimbați-vă printre aceste ruine istorice fascinante care dezvăluie modelele antice de așezare din zonă și mergeți devreme pentru a evita soarele arzător de la amiază.",
+            "en": "Wander among these fascinating historical ruins that reveal the area's ancient settlement patterns, and go early to avoid the midday Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Església Sant Llorenç Màrtir",
+            "hu": "Església Sant Llorenç Màrtir",
+            "ro": "Església Sant Llorenç Màrtir",
+            "en": "Església Sant Llorenç Màrtir"
+          },
+          "coords": [
+            -0.326094,
+            39.558001
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das ruhige Ambiente dieses historischen Heiligtums für den heiligen Laurentius und besuchen Sie es direkt nach der ruhigen Morgenmesse.",
+            "hu": "Fedezze fel ennek a Szent Lőrincnek szentelt történelmi szentélynek a nyugodt hangulatát, és jöjjön közvetlenül a csendes reggeli mise után.",
+            "ro": "Descoperiți ambianța senină a acestui sanctuar istoric dedicat Sfântului Laurențiu și vizitați-l imediat după slujba liniștită de dimineață.",
+            "en": "Discover the serene ambiance of this historic sanctuary dedicated to Saint Lawrence, and visit just after morning mass when it is usually quietest."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Sant Roc",
+            "hu": "Ermita de Sant Roc",
+            "ro": "Ermita de Sant Roc",
+            "en": "Ermita de Sant Roc"
+          },
+          "coords": [
+            -0.34697,
+            39.565826
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Einsiedelei, die dem Schutzpatron gegen Plagen gewidmet ist, und genießen Sie die schattigen Außenwege für Spaziergänge.",
+            "hu": "Lépjen be ebbe a bájos, a pestis elleni védőszentnek szentelt remeteségbe, és élvezze az árnyékos külső utakat egy rövid, csendes sétához.",
+            "ro": "Pășiți în acest schit fermecător dedicat sfântului patron împotriva molimelor și bucurați-vă de cărările exterioare umbrite, perfecte pentru o plimbare scurtă.",
+            "en": "Step inside this charming hermitage dedicated to the patron saint against plagues, and enjoy the shaded exterior paths perfect for a brief, quiet stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de castas y encastes del toro de lidia",
+            "hu": "Museo de castas y encastes del toro de lidia",
+            "ro": "Museo de castas y encastes del toro de lidia",
+            "en": "Museo de castas y encastes del toro de lidia"
+          },
+          "coords": [
+            -0.334893,
+            39.57169
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des spanischen Stierkampfs ein, die in diesem Museum gezeigt wird, aber prüfen Sie vorab die begrenzten Nachmittagsöffnungszeiten.",
+            "hu": "Merüljön el a spanyol bikaviadal-hagyományok gazdag történetében ebben a múzeumban, de látogatás előtt ellenőrizze a korlátozott délutáni nyitvatartást.",
+            "ro": "Aprofundați istoria tradițiilor spaniole de coridă prezentate în acest muzeu unic, dar verificați programul limitat de după-amiază înainte de vizită.",
+            "en": "Delve into the rich history of Spanish bullfighting traditions showcased in this unique museum, but check their limited afternoon hours before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre de Massamagrell",
+            "hu": "Teatre de Massamagrell",
+            "ro": "Teatre de Massamagrell",
+            "en": "Teatre de Massamagrell"
+          },
+          "coords": [
+            -0.333436,
+            39.570517
+          ],
+          "category": "cultural",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses lebendige Kulturzentrum mit lokalen Aufführungen und prüfen Sie das Anschlagbrett auf kommende kostenlose Veranstaltungen in der Gemeinde.",
+            "hu": "Fedezze fel ezt a nyüzsgő kulturális központot, ahol helyi előadások kelnek életre, és nézze meg a hirdetőtáblát az ingyenes közösségi eseményekért.",
+            "ro": "Explorați acest centru cultural vibrant unde spectacolele locale prind viață și verificați avizierul exterior pentru viitoarele evenimente comunitare gratuite.",
+            "en": "Explore this vibrant cultural center where local performances come alive, and be sure to check the bulletin board outside for upcoming free community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Parròquia de Sant Josep",
+            "hu": "Parròquia de Sant Josep",
+            "ro": "Parròquia de Sant Josep",
+            "en": "Parròquia de Sant Josep"
+          },
+          "coords": [
+            -0.325389,
+            39.580549
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvollen Details dieser Pfarrkirche, die der lokalen Nachbarschaft dient, und bringen Sie eine kleine Spende für eine Kerze mit.",
+            "hu": "Csodálja meg ennek a helyi közösséget szolgáló plébániatemplomnak a részleteit, és hozzon egy kis aprópénzt, ha gyertyát szeretne gyújtani bent.",
+            "ro": "Minunați-vă de detaliile acestei biserici parohiale care deservește cartierul și aduceți o mică donație dacă doriți să aprindeți o lumânare la altar.",
+            "en": "Marvel at the intricate details of this parish church that serves the local neighborhood, and bring a small donation if you wish to light a candle inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Antoni Abat",
+            "hu": "Església de Sant Antoni Abat",
+            "ro": "Església de Sant Antoni Abat",
+            "en": "Església de Sant Antoni Abat"
+          },
+          "coords": [
+            -0.333572,
+            39.588556
+          ],
+          "category": "religious",
+          "arrive_at": "15:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser nördlichen Kirche mit ihrem schönen traditionellen Altarbild und respektieren Sie die Stille der Beter.",
+            "hu": "Tapasztalja meg ennek az északi templomnak a békés hangulatát a gyönyörű hagyományos oltárképével, és tisztelje a helyi hívek áhítatos csendjét.",
+            "ro": "Experimentați atmosfera pașnică a acestei biserici nordice cu frumosul său retablu tradițional și respectați liniștea închinătorilor locali în timpul vizitei.",
+            "en": "Experience the peaceful atmosphere of this northern church with its beautiful traditional altarpiece, and respect the silence of the local worshippers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit alten Ruinen am östlichen Rand, bevor Sie nach Süden zu historischen Heiligtümern fahren. Mittags geht es durch den kulturellen Kern zum einzigartigen Museum und Theater. Im weiteren Verlauf des Nachmittags steuern Sie die nördlichen Gemeinden an. Die Reise endet entspannt am ruhigen nördlichen Stadtrand.",
+        "hu": "A festői autózás a keleti peremen lévő ősi romokkal kezdődik, majd délre, történelmi szentélyek felé kanyarodik. A dél a kulturális magon keresztül vezet a múzeumhoz és a színházhoz. Ahogy halad a délután, a központi és északi plébániák felé navigál. Az utazás egy könnyű vezetéssel zárul a nyugodt északi külvárosban.",
+        "ro": "Plimbarea cu mașina începe cu ruine antice la marginea estică, apoi coboară spre sud către sanctuare istorice. Amiaza vă poartă prin nucleul cultural, cu opriri la muzeu și teatrul local. Pe măsură ce după-amiaza progresează, veți naviga spre parohiile centrale și nordice. Călătoria se termină cu un drum ușor spre periferia liniștită de nord.",
+        "en": "Your scenic drive begins with ancient ruins on the eastern edge before looping south to historic sanctuaries. Midday takes you through the cultural core, stopping by the unique museum and local theater. As the afternoon progresses, you'll navigate towards the central and northern parishes. The trip finishes with an easy drive to the tranquil northern outskirts."
+      }
+    }
+  }
+}

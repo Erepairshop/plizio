@@ -1,0 +1,497 @@
+{
+  "city_id": "winnenden",
+  "anchor": {
+    "name": "Winnenden",
+    "coords": [
+      9.3978,
+      48.8764
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Winnenden",
+            "hu": "Marktplatz Winnenden",
+            "ro": "Marktplatz Winnenden",
+            "en": "Marktplatz Winnenden"
+          },
+          "coords": [
+            9.3978,
+            48.8764
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start at the central Marktplatz, the vibrant heart of the city surrounded by half-timbered houses, where picking up a local pastry is highly recommended.",
+            "de": "Beginnen Sie am zentralen Marktplatz, dem lebendigen Herzen der Stadt mit seinen malerischen Fachwerkhäusern, und probieren Sie unbedingt ein lokales Gebäck.",
+            "hu": "Kezdje a túrát a központi Marktplatzon, a város nyüzsgő, favázas házakkal övezett szívében, ahol mindenképpen érdemes megkóstolni egy helyi süteményt.",
+            "ro": "Începeți la Marktplatz, inima vibrantă a orașului înconjurată de case cu cherestea aparentă, unde vă recomandăm să degustați o patiserie locală."
+          }
+        },
+        {
+          "name": {
+            "de": "Diebsturm",
+            "hu": "Diebsturm",
+            "ro": "Diebsturm",
+            "en": "Diebsturm"
+          },
+          "coords": [
+            9.397629,
+            48.875654
+          ],
+          "category": "monument",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Admire the Diebsturm, an ancient defensive tower that once served as a prison, and notice its remarkably thick medieval walls from the outside pathway.",
+            "de": "Bewundern Sie den Diebsturm, einen alten Wehrturm, der einst als Gefängnis diente, und betrachten Sie seine dicken mittelalterlichen Mauern von außen.",
+            "hu": "Csodálja meg a Diebsturmot, az egykor börtönként is szolgáló ősi védőtornyot, és figyelje meg a lenyűgözően vastag középkori falakat a külső ösvényről.",
+            "ro": "Admirați Diebsturm, un vechi turn defensiv ce a servit cândva drept închisoare, și remarcați zidurile sale medievale extrem de groase de pe aleea exterioară."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche St. Jakobus",
+            "hu": "Schlosskirche St. Jakobus",
+            "ro": "Schlosskirche St. Jakobus",
+            "en": "Schlosskirche St. Jakobus"
+          },
+          "coords": [
+            9.39679,
+            48.87253
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Step into this historical church to admire the famous high altar created by a master carver, remembering to keep your voice down during quiet reflection.",
+            "de": "Betreten Sie diese historische Kirche, um den berühmten, meisterhaft geschnitzten Hochaltar zu bewundern, und bewahren Sie während der Besichtigung die Stille.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a mesterien faragott híres főoltárt, de ügyeljen a csendre a belső tér nyugalmának megőrzése érdekében.",
+            "ro": "Pășiți în această biserică istorică pentru a admira celebrul altar principal sculptat, amintindu-vă să păstrați liniștea pe parcursul vizitei."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Winnental",
+            "hu": "Schloss Winnental",
+            "ro": "Schloss Winnental",
+            "en": "Schloss Winnental"
+          },
+          "coords": [
+            9.3978,
+            48.8726
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Explore the grand Schloss Winnental, a former commandery of the Teutonic Order, and stroll through its beautiful adjacent gardens for the best photo spots.",
+            "de": "Erkunden Sie das prächtige Schloss Winnental, eine ehemalige Kommende des Deutschen Ordens, und schlendern Sie für die besten Fotos durch die angrenzenden Gärten.",
+            "hu": "Fedezze fel a pompás Schloss Winnental kastélyt, a Német Lovagrend egykori parancsnokságát, és sétáljon egyet a szomszédos kertekben a legjobb fotókért.",
+            "ro": "Explorați grandiosul Schloss Winnental, o fostă comandărie a Ordinului Teutonic, și plimbați-vă prin grădinile sale adiacente pentru cele mai bune fotografii."
+          }
+        },
+        {
+          "name": {
+            "de": "Adventure Golf Winnenden",
+            "hu": "Adventure Golf Winnenden",
+            "ro": "Adventure Golf Winnenden",
+            "en": "Adventure Golf Winnenden"
+          },
+          "coords": [
+            9.398732,
+            48.866497
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Challenge your companions at this creative adventure golf course featuring fun obstacles, and try visiting on a weekday morning to avoid the largest crowds.",
+            "de": "Fordern Sie Ihre Begleiter auf diesem kreativen Abenteuer-Golfplatz mit lustigen Hindernissen heraus und kommen Sie am Vormittag, um den großen Massen zu entgehen.",
+            "hu": "Hívja ki társait ezen a kreatív és szórakoztató akadályokkal teli kalandgolfpályán, és próbáljon hétköznap délelőtt érkezni, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Provoacați-vă prietenii pe acest teren creativ de adventure golf plin de obstacole distractive și încercați să veniți dimineața pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "de": "Wunnebad",
+            "hu": "Wunnebad",
+            "ro": "Wunnebad",
+            "en": "Wunnebad"
+          },
+          "coords": [
+            9.39524,
+            48.865769
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Relax and recharge at the Wunnebad, a fantastic local park and pool complex, where bringing your own towel will make for a perfect afternoon resting spot.",
+            "de": "Entspannen Sie sich im Wunnebad, einem fantastischen Park- und Schwimmbadkomplex, wo Sie mit einem mitgebrachten Handtuch den perfekten Nachmittag genießen können.",
+            "hu": "Pihenjen és töltődjön fel a Wunnebad fantasztikus park- és medencekomplexumában, ahová érdemes saját törölközőt hozni a tökéletes délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă și reîncărcați-vă la Wunnebad, un fantastic complex de piscine și parc, unde aducerea propriului prosop va asigura o după-amiază perfectă de odihnă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your walking tour begins in the historic heart of Winnenden, exploring the charming Marktplatz before passing by the ancient Diebsturm. It is a perfect introduction to the city's medieval roots. \n\n Midday brings you to the spiritual and architectural highlights of the city. You will marvel at the high altar of St. Jakobus and explore the grand estate of Schloss Winnental. \n\n The afternoon invites you to enjoy some active leisure time. A fun round at the local adventure golf course provides plenty of smiles and healthy competition for everyone. \n\n Finally, unwind at the Wunnebad, allowing the soothing waters and relaxing park environment to perfectly conclude your day of urban and historic exploration.",
+        "de": "Ihr Rundgang beginnt im historischen Herzen von Winnenden, wo Sie den Marktplatz erkunden, bevor Sie den alten Diebsturm passieren. Es ist ein perfekter Einstieg in die Stadtgeschichte. \n\n Am Mittag erleben Sie die spirituellen und architektonischen Höhepunkte der Stadt. Sie bewundern den Hochaltar von St. Jakobus und das prächtige Schloss Winnental. \n\n Der Nachmittag lädt Sie zu aktiver Freizeitgestaltung ein. Eine lustige Runde auf dem lokalen Abenteuer-Golfplatz sorgt für viele Lacher und sportlichen Ehrgeiz. \n\n Zum Abschluss entspannen Sie im Wunnebad, wo die wohltuenden Becken und der Park Ihre urbane Entdeckungstour angenehm und ruhig ausklingen lassen.",
+        "hu": "A gyalogos túra Winnenden történelmi szívében kezdődik, felfedezve a hangulatos Marktplatzot, mielőtt elhaladna az ősi Diebsturm mellett. Tökéletes bevezetés a város múltjába. \n\n A dél a város spirituális és építészeti fénypontjaihoz vezet. Megcsodálhatja a Szent Jakab-templom főoltárát és a Schloss Winnental lenyűgöző birtokát. \n\n A délután aktív szabadidős programra csábít. Egy szórakoztató kör a helyi kalandgolfpályán rengeteg mosolyt és egészséges versenyszellemet garantál. \n\n Végül a Wunnebadban pihenheti ki magát, ahol a nyugtató víz és a kellemes parki környezet tökéletesen lezárja a városi és történelmi felfedezőutat.",
+        "ro": "Turul pietonal începe în inima istorică a orașului Winnenden, explorând fermecătorul Marktplatz înainte de a trece pe lângă vechiul Diebsturm, o introducere perfectă în istorie. \n\n La prânz veți descoperi atracțiile spirituale și arhitecturale. Veți admira altarul bisericii St. Jakobus și veți explora domeniul grandios al Schloss Winnental. \n\n După-amiaza vă invită să vă bucurați de timp liber activ. O rundă distractivă pe terenul local de adventure golf oferă zâmbete și o competiție prietenoasă. \n\n La final, relaxați-vă la Wunnebad, permițând apelor liniștitoare și mediului relaxant din parc să încheie perfect această zi de explorare urbană."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 4.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Winnenden",
+            "hu": "Marktplatz Winnenden",
+            "ro": "Marktplatz Winnenden",
+            "en": "Marktplatz Winnenden"
+          },
+          "coords": [
+            9.3978,
+            48.8764
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start at the central Marktplatz, the vibrant heart of the city surrounded by half-timbered houses, where picking up a local pastry is highly recommended.",
+            "de": "Beginnen Sie am zentralen Marktplatz, dem lebendigen Herzen der Stadt mit seinen malerischen Fachwerkhäusern, und probieren Sie unbedingt ein lokales Gebäck.",
+            "hu": "Kezdje a túrát a központi Marktplatzon, a város nyüzsgő, favázas házakkal övezett szívében, ahol mindenképpen érdemes megkóstolni egy helyi süteményt.",
+            "ro": "Începeți la Marktplatz, inima vibrantă a orașului înconjurată de case cu cherestea aparentă, unde vă recomandăm să degustați o patiserie locală."
+          }
+        },
+        {
+          "name": {
+            "de": "Diebsturm",
+            "hu": "Diebsturm",
+            "ro": "Diebsturm",
+            "en": "Diebsturm"
+          },
+          "coords": [
+            9.397629,
+            48.875654
+          ],
+          "category": "monument",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Admire the Diebsturm, an ancient defensive tower that once served as a prison, and notice its remarkably thick medieval walls from the outside pathway.",
+            "de": "Bewundern Sie den Diebsturm, einen alten Wehrturm, der einst als Gefängnis diente, und betrachten Sie seine dicken mittelalterlichen Mauern von außen.",
+            "hu": "Csodálja meg a Diebsturmot, az egykor börtönként is szolgáló ősi védőtornyot, és figyelje meg a lenyűgözően vastag középkori falakat a külső ösvényről.",
+            "ro": "Admirați Diebsturm, un vechi turn defensiv ce a servit cândva drept închisoare, și remarcați zidurile sale medievale extrem de groase de pe aleea exterioară."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche St. Jakobus",
+            "hu": "Schlosskirche St. Jakobus",
+            "ro": "Schlosskirche St. Jakobus",
+            "en": "Schlosskirche St. Jakobus"
+          },
+          "coords": [
+            9.39679,
+            48.87253
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Step into this historical church to admire the famous high altar created by a master carver, remembering to keep your voice down during quiet reflection.",
+            "de": "Betreten Sie diese historische Kirche, um den berühmten, meisterhaft geschnitzten Hochaltar zu bewundern, und bewahren Sie während der Besichtigung die Stille.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a mesterien faragott híres főoltárt, de ügyeljen a csendre a belső tér nyugalmának megőrzése érdekében.",
+            "ro": "Pășiți în această biserică istorică pentru a admira celebrul altar principal sculptat, amintindu-vă să păstrați liniștea pe parcursul vizitei."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Winnental",
+            "hu": "Schloss Winnental",
+            "ro": "Schloss Winnental",
+            "en": "Schloss Winnental"
+          },
+          "coords": [
+            9.3978,
+            48.8726
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Explore the grand Schloss Winnental, a former commandery of the Teutonic Order, and stroll through its beautiful adjacent gardens for the best photo spots.",
+            "de": "Erkunden Sie das prächtige Schloss Winnental, eine ehemalige Kommende des Deutschen Ordens, und schlendern Sie für die besten Fotos durch die angrenzenden Gärten.",
+            "hu": "Fedezze fel a pompás Schloss Winnental kastélyt, a Német Lovagrend egykori parancsnokságát, és sétáljon egyet a szomszédos kertekben a legjobb fotókért.",
+            "ro": "Explorați grandiosul Schloss Winnental, o fostă comandărie a Ordinului Teutonic, și plimbați-vă prin grădinile sale adiacente pentru cele mai bune fotografii."
+          }
+        },
+        {
+          "name": {
+            "de": "PMW Modelleisenbahn",
+            "hu": "PMW Modelleisenbahn",
+            "ro": "PMW Modelleisenbahn",
+            "en": "PMW Modelleisenbahn"
+          },
+          "coords": [
+            9.384677,
+            48.87449
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Discover an incredible miniature world at the PMW Modelleisenbahn museum, which boasts sprawling model train layouts that fascinate visitors of all ages.",
+            "de": "Entdecken Sie die unglaubliche Miniaturwelt im PMW Modelleisenbahn Museum, dessen riesige Modellbahnanlagen Besucher jeden Alters sofort in ihren Bann ziehen.",
+            "hu": "Fedezze fel az elképesztő miniatűr világot a PMW Modelleisenbahn múzeumban, amelynek hatalmas terepasztalai minden korosztály számára lenyűgöző élményt nyújtanak.",
+            "ro": "Descoperiți o lume miniaturală incredibilă la PMW Modelleisenbahn, ale cărui machete feroviare vaste fascinează instantaneu vizitatori de toate vârstele."
+          }
+        },
+        {
+          "name": {
+            "de": "Wunnebad Winnenden",
+            "hu": "Wunnebad Winnenden",
+            "ro": "Wunnebad Winnenden",
+            "en": "Wunnebad Winnenden"
+          },
+          "coords": [
+            9.394339,
+            48.865285
+          ],
+          "category": "family",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "en": "Relax and recharge at the Wunnebad, a fantastic local park and pool complex, where bringing your own towel will make for a perfect afternoon resting spot.",
+            "de": "Entspannen Sie sich im Wunnebad, einem fantastischen Park- und Schwimmbadkomplex, wo Sie mit einem mitgebrachten Handtuch den perfekten Nachmittag genießen können.",
+            "hu": "Pihenjen és töltődjön fel a Wunnebad fantasztikus park- és medencekomplexumában, ahová érdemes saját törölközőt hozni a tökéletes délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă și reîncărcați-vă la Wunnebad, un fantastic complex de piscine și parc, unde aducerea propriului prosop va asigura o după-amiază perfectă de odihnă."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberes Zipfelbachtal mit Seitenklinge und Teilen des Sonnenbergs",
+            "hu": "Oberes Zipfelbachtal mit Seitenklinge und Teilen des Sonnenbergs",
+            "ro": "Oberes Zipfelbachtal mit Seitenklinge und Teilen des Sonnenbergs",
+            "en": "Oberes Zipfelbachtal mit Seitenklinge und Teilen des Sonnenbergs"
+          },
+          "coords": [
+            9.402783,
+            48.848902
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Immerse yourself in the tranquility of this beautiful nature reserve, keeping an eye out for local wildlife while enjoying a peaceful walk along its trails.",
+            "de": "Tauchen Sie in die Ruhe dieses wunderschönen Naturschutzgebietes ein und halten Sie auf den Wanderwegen Ausschau nach der einheimischen Flora und Fauna.",
+            "hu": "Merüljön el ennek a gyönyörű természetvédelmi területnek a nyugalmában, és figyelje meg a helyi vadvilágot, miközben békés sétát tesz a festői ösvényeken.",
+            "ro": "Cufundați-vă în liniștea acestei frumoase rezervații naturale, fiind atenți la fauna locală în timp ce vă bucurați de o plimbare pașnică pe traseele sale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning pedaling through the town center, admiring the classic Marktplatz architecture and the resilient Diebsturm tower before moving to the historic core. \n\n As lunchtime approaches, park your bike to investigate the serene St. Jakobus church and the imposing Schloss Winnental, delving deep into local heritage. \n\n In the afternoon, a short ride takes you to the PMW Modelleisenbahn to marvel at miniature worlds, followed by a refreshing pause at the Wunnebad Winnenden. \n\n Your day concludes with a scenic ride out to the Oberes Zipfelbachtal, where the natural beauty of the nature reserve offers a perfect, peaceful sunset atmosphere.",
+        "de": "Beginnen Sie Ihren Morgen mit einer Fahrt durch das Zentrum, bewundern Sie den Marktplatz und den Diebsturm, bevor Sie sich dem historischen Kern der Stadt widmen. \n\n Zur Mittagszeit parken Sie Ihr Rad, um die friedliche Jakobuskirche und das imposante Schloss Winnental zu besichtigen und in die Geschichte einzutauchen. \n\n Am Nachmittag führt Sie eine kurze Fahrt zur PMW Modelleisenbahn mit ihren Miniaturwelten, gefolgt von einer erfrischenden Pause im Wunnebad Winnenden. \n\n Ihr Tag endet mit einer malerischen Fahrt ins Obere Zipfelbachtal, wo die natürliche Schönheit des Naturschutzgebietes eine perfekte, friedliche Atmosphäre bietet.",
+        "hu": "Kezdje a reggelt a városközpontban kerekezve, csodálja meg a klasszikus Marktplatzot és az ellenálló Diebsturmot, mielőtt a történelmi mag felé venné az irányt. \n\n Ebédidőben tegye le a kerékpárt, hogy felfedezze a békés Szent Jakab-templomot és az impozáns Schloss Winnentalt, elmerülve a helyi örökségben. \n\n Délután egy rövid út a PMW Modelleisenbahn lenyűgöző miniatűr világába vezet, amelyet egy frissítő pihenő követ a Wunnebad Winnenden medencéinél. \n\n A nap egy festői utazással zárul az Oberes Zipfelbachtal felé, ahol a természetvédelmi terület szépsége tökéletes, békés naplemente-hangulatot kínál.",
+        "ro": "Începeți dimineața pedalând prin centrul orașului, admirând Marktplatz și turnul Diebsturm, înainte de a vă îndrepta spre nucleul istoric al așezării. \n\n La prânz, parcati bicicleta pentru a vizita biserica St. Jakobus și impunătorul Schloss Winnental, aprofundând astfel bogata moștenire locală. \n\n După-amiaza, o scurtă plimbare vă duce la PMW Modelleisenbahn pentru a admira lumile în miniatură, urmată de o pauză revigorantă la Wunnebad Winnenden. \n\n Ziua se încheie cu o plimbare pitorească spre Oberes Zipfelbachtal, unde frumusețea rezervației naturale oferă o atmosferă liniștită, perfectă la apus."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Winnental",
+            "hu": "Schloss Winnental",
+            "ro": "Schloss Winnental",
+            "en": "Schloss Winnental"
+          },
+          "coords": [
+            9.3978,
+            48.8726
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Explore the grand Schloss Winnental, a former commandery of the Teutonic Order, and stroll through its beautiful adjacent gardens for the best photo spots.",
+            "de": "Erkunden Sie das prächtige Schloss Winnental, eine ehemalige Kommende des Deutschen Ordens, und schlendern Sie für die besten Fotos durch die angrenzenden Gärten.",
+            "hu": "Fedezze fel a pompás Schloss Winnental kastélyt, a Német Lovagrend egykori parancsnokságát, és sétáljon egyet a szomszédos kertekben a legjobb fotókért.",
+            "ro": "Explorați grandiosul Schloss Winnental, o fostă comandărie a Ordinului Teutonic, și plimbați-vă prin grădinile sale adiacente pentru cele mai bune fotografii."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche St. Jakobus",
+            "hu": "Schlosskirche St. Jakobus",
+            "ro": "Schlosskirche St. Jakobus",
+            "en": "Schlosskirche St. Jakobus"
+          },
+          "coords": [
+            9.39679,
+            48.87253
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Step into this historical church to admire the famous high altar created by a master carver, remembering to keep your voice down during quiet reflection.",
+            "de": "Betreten Sie diese historische Kirche, um den berühmten, meisterhaft geschnitzten Hochaltar zu bewundern, und bewahren Sie während der Besichtigung die Stille.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a mesterien faragott híres főoltárt, de ügyeljen a csendre a belső tér nyugalmának megőrzése érdekében.",
+            "ro": "Pășiți în această biserică istorică pentru a admira celebrul altar principal sculptat, amintindu-vă să păstrați liniștea pe parcursul vizitei."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum",
+            "hu": "Feuerwehrmuseum",
+            "ro": "Feuerwehrmuseum",
+            "en": "Feuerwehrmuseum"
+          },
+          "coords": [
+            9.393207,
+            48.880192
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Learn about the fascinating history of firefighting equipment at this specialized museum, where checking out the vintage fire engines is an absolute highlight.",
+            "de": "Erfahren Sie in diesem Fachmuseum alles über die faszinierende Geschichte der Feuerwehrausrüstung, wobei die alten Feuerwehrfahrzeuge ein absolutes Highlight sind.",
+            "hu": "Ismerje meg a tűzoltó felszerelések lenyűgöző történetét ebben a különleges múzeumban, ahol a régi tűzoltóautók megtekintése kihagyhatatlan élményt jelent.",
+            "ro": "Aflați despre istoria fascinantă a echipamentelor de stingere a incendiilor la acest muzeu, unde vizionarea vechilor mașini de pompieri este atracția principală."
+          }
+        },
+        {
+          "name": {
+            "de": "PMW Modelleisenbahn",
+            "hu": "PMW Modelleisenbahn",
+            "ro": "PMW Modelleisenbahn",
+            "en": "PMW Modelleisenbahn"
+          },
+          "coords": [
+            9.384677,
+            48.87449
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Discover an incredible miniature world at the PMW Modelleisenbahn museum, which boasts sprawling model train layouts that fascinate visitors of all ages.",
+            "de": "Entdecken Sie die unglaubliche Miniaturwelt im PMW Modelleisenbahn Museum, dessen riesige Modellbahnanlagen Besucher jeden Alters sofort in ihren Bann ziehen.",
+            "hu": "Fedezze fel az elképesztő miniatűr világot a PMW Modelleisenbahn múzeumban, amelynek hatalmas terepasztalai minden korosztály számára lenyűgöző élményt nyújtanak.",
+            "ro": "Descoperiți o lume miniaturală incredibilă la PMW Modelleisenbahn, ale cărui machete feroviare vaste fascinează instantaneu vizitatori de toate vârstele."
+          }
+        },
+        {
+          "name": {
+            "de": "Wiesental",
+            "hu": "Wiesental",
+            "ro": "Wiesental",
+            "en": "Wiesental"
+          },
+          "coords": [
+            9.356658,
+            48.876701
+          ],
+          "category": "family",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "en": "Enjoy a peaceful stop in the lush green space of Wiesental, a perfect spot for families to unwind, so bringing a small picnic basket is highly recommended.",
+            "de": "Genießen Sie einen ruhigen Aufenthalt im üppigen Grün des Wiesentals, einem perfekten Ort für Familien, weshalb ein kleiner Picknickkorb sehr zu empfehlen ist.",
+            "hu": "Élvezze a békés megállót a Wiesental buja zöld területén, amely tökéletes hely a családok kikapcsolódására, ezért érdemes egy kis piknikkosarat is magával hozni.",
+            "ro": "Bucurați-vă de o oprire pașnică în spațiul verde luxuriant din Wiesental, un loc perfect pentru relaxare în familie, motiv pentru care recomandăm un mic picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbecken",
+            "hu": "Bergbecken",
+            "ro": "Bergbecken",
+            "en": "Bergbecken"
+          },
+          "coords": [
+            9.357364,
+            48.848596
+          ],
+          "category": "natural",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "en": "End your journey at the beautiful Bergbecken, a scenic natural basin offering stunning reflections of the sky, perfect for a quiet moment of contemplation.",
+            "de": "Beenden Sie Ihre Reise am wunderschönen Bergbecken, einem malerischen Naturbecken, das sich perfekt für einen ruhigen Moment der Besinnung und Fotografie eignet.",
+            "hu": "Zárja utazását a gyönyörű Bergbeckennél, egy festői természetes medencénél, amely lenyűgöző égbolttükröződést kínál a csendes elmélkedés tökéletes pillanataihoz.",
+            "ro": "Încheiați călătoria la frumosul Bergbecken, un bazin natural pitoresc care oferă reflexii uimitoare ale cerului, perfect pentru un moment liniștit de contemplare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your driving tour begins at the grand Schloss Winnental, offering a majestic start to the day. Nearby, the St. Jakobus church provides a moment of architectural beauty. \n\n By midday, you will drive slightly north to the Feuerwehrmuseum, where the rich history of firefighting equipment and brave local heroes is brilliantly showcased. \n\n In the afternoon, navigate to the PMW Modelleisenbahn for an intricate look at model trains, then enjoy the expansive green lawns of the beautiful Wiesental park. \n\n The road trip finishes at Bergbecken, a natural basin that provides an incredibly serene backdrop as the day transitions into a peaceful, starry evening.",
+        "de": "Ihre Autotour beginnt am prächtigen Schloss Winnental, das einen majestätischen Start in den Tag bietet. Gleich daneben beeindruckt die Jakobuskirche durch ihre Baukunst. \n\n Mittags fahren Sie zum Feuerwehrmuseum im Norden, wo die reiche Geschichte der Feuerwehrausrüstung und der lokalen Helden auf brillante Weise präsentiert wird. \n\n Navigieren Sie am Nachmittag zur PMW Modelleisenbahn, um die Modellzüge zu bestaunen, und genießen Sie anschließend die weiten grünen Wiesen des Wiesentals. \n\n Der Ausflug endet am Bergbecken, einem natürlichen Becken, das eine unglaublich friedliche Kulisse bietet, wenn der Tag in einen ruhigen Abend übergeht.",
+        "hu": "Autós túrája a fenséges Schloss Winnentalnál kezdődik, amely nagyszerű indulást biztosít. A közelben a Szent Jakab-templom nyújt lenyűgöző építészeti élményt. \n\n Délben északabbra vezet az út a Feuerwehrmuseum felé, ahol a tűzoltó felszerelések és a bátor helyi hősök gazdag történelme kerül bemutatásra. \n\n Délután navigáljon a PMW Modelleisenbahn miniatűr világához, majd élvezze a gyönyörű Wiesental park kiterjedt zöld pázsitját és nyugalmát. \n\n Az utazás a Bergbeckennél ér véget, egy természetes medencénél, amely hihetetlenül békés hátteret biztosít, ahogy a nap csendes estébe hajlik.",
+        "ro": "Turul auto începe la grandiosul Schloss Winnental, oferind un start maiestuos. În apropiere, biserica St. Jakobus impresionează prin frumusețea sa arhitecturală. \n\n La prânz, veți conduce spre Feuerwehrmuseum, unde istoria bogată a echipamentelor de pompieri și a eroilor locali este expusă într-un mod captivant. \n\n După-amiaza, mergeți la PMW Modelleisenbahn pentru a admira machetele feroviare, apoi bucurați-vă de peluzele verzi și expansive ale parcului Wiesental. \n\n Excursia se încheie la Bergbecken, un bazin natural ce oferă un fundal incredibil de senin, perfect pentru trecerea către o seară liniștită."
+      }
+    }
+  }
+}

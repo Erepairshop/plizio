@@ -1,0 +1,451 @@
+{
+  "city_id": "france-saint-hernot-cities-v2",
+  "anchor": {
+    "name": "Saint-Hernot",
+    "coords": [
+      -4.5299,
+      48.20371
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Hernot",
+            "hu": "Chapelle Saint-Hernot",
+            "ro": "Chapelle Saint-Hernot",
+            "en": "Chapelle Saint-Hernot"
+          },
+          "coords": [
+            -4.530403,
+            48.202954
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle, die das bretonische religiöse Erbe zeigt, und bewundern Sie am frühen Morgen ihren ruhigen, geschützten Innenhof.",
+            "hu": "Fedezze fel ezt a bájos kőkápolnát, amely a breton vallási örökséget mutatja be, és kora reggel csodálja meg csendes, védett udvarát.",
+            "ro": "Descoperiți această capelă fermecătoare de piatră ce prezintă moștenirea religioasă bretonă și admirați curtea sa liniștită și adăpostită la primele ore.",
+            "en": "Discover this charming stone chapel showcasing local Breton religious heritage, and take a moment to admire its quiet, sheltered courtyard early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Minéraux",
+            "hu": "Maison des Minéraux",
+            "ro": "Maison des Minéraux",
+            "en": "Maison des Minéraux"
+          },
+          "coords": [
+            -4.528048,
+            48.203944
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende geologische Ausstellungen über die einzigartige Crozon-Halbinsel und sehen Sie sich die interaktive fluoreszierende Mineraliensammlung an.",
+            "hu": "Fedezze fel az egyedülálló Crozon-félszigetet bemutató geológiai kiállításokat, és mindenképpen nézze meg a hátsó interaktív fluoreszkáló ásványgyűjteményt.",
+            "ro": "Explorați expozițiile geologice fascinante care detaliază peninsula unică Crozon și asigurați-vă că verificați afișajul interactiv cu minerale fluorescente din spate.",
+            "en": "Explore fascinating geological exhibits detailing the unique Crozon Peninsula, and be sure to check the interactive fluorescent mineral display at the back."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Kerdreux",
+            "hu": "Dolmen de Kerdreux",
+            "ro": "Dolmen de Kerdreux",
+            "en": "Dolmen de Kerdreux"
+          },
+          "coords": [
+            -4.544119,
+            48.199612
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte megalithische Grab als Zeugnis früher Siedler, aber tragen Sie feste Schuhe, da der Weg nach Regen ziemlich schlammig sein kann.",
+            "hu": "Csodálja meg ezt az ősi megalitikus sírt, amely a korai telepesek tanúbizonysága, de viseljen erős cipőt, mert a környező ösvény eső után meglehetősen sáros lehet.",
+            "ro": "Minunați-vă de acest mormânt megalitic străvechi ce stă mărturie primilor coloniști, dar purtați încălțăminte rezistentă deoarece poteca poate fi noroioasă după ploaie.",
+            "en": "Marvel at this ancient megalithic tomb standing as a testament to early settlers, but wear sturdy shoes as the surrounding path can be quite muddy after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Palue",
+            "hu": "Plage de la Palue",
+            "ro": "Plage de la Palue",
+            "en": "Plage de la Palue"
+          },
+          "coords": [
+            -4.552326,
+            48.19992
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses wilden, bei Surfern beliebten Sandstrandes, aber denken Sie daran, dass das Schwimmen wegen gefährlicher Strömungen verboten ist.",
+            "hu": "Élvezze a szörfösök által kedvelt vad homokos part tágas térségét, de ne feledje, hogy az úszás itt szigorúan tilos a veszélyes áramlatok miatt.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje sălbatice preferate de surferi, dar rețineți că înotul este strict interzis din cauza curenților periculoși.",
+            "en": "Enjoy the vast expanse of this wild sandy beach favored by surfers, but remember that swimming is strictly prohibited here due to dangerous rip currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Rostudel",
+            "hu": "Dolmen de Rostudel",
+            "ro": "Dolmen de Rostudel",
+            "en": "Dolmen de Rostudel"
+          },
+          "coords": [
+            -4.535403,
+            48.185992
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses beeindruckende prähistorische Monument in der dramatischen Küstenheide und kommen Sie am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző történelem előtti műemléket a drámai tengerparti lápvidéken, és érkezzen késő délután a legszebb fotózási fényviszonyokért.",
+            "ro": "Examinați acest impresionant monument preistoric situat în peisajul de coastă dramatic și ajungeți spre sfârșitul după-amiezii pentru cea mai bună lumină fotografică.",
+            "en": "Examine this impressive prehistoric monument set against the dramatic coastal moorland, and arrive during late afternoon for the most striking photo lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem religiösen Erbe von Saint-Hernot, bevor Sie im Museum in die geologische Vergangenheit eintauchen.\n\nGegen Mittag führt eine Wanderung zu antiken Megalithanlagen in der Landschaft.\n\nVerbringen Sie den Nachmittag an wilden Stränden, an denen Surfer die Wellen reiten.\n\nBeenden Sie Ihren Spaziergang mit einem friedlichen Besuch eines Dolmens am Abend.",
+        "hu": "Kezdje a reggelt Saint-Hernot vallási örökségének felfedezésével, majd merüljön el a régió geológiai múltjában a helyi múzeumban.\n\nDélben egy túra elviszi a tájban rejlő ősi megalitikus helyszínekre.\n\nA délutánt a vad tengerparti strandokon töltheti, ahol szörfösök lovagolják meg a hullámokat.\n\nZárja sétáját egy festői dolmen békés meglátogatásával a nap végén.",
+        "ro": "Începeți dimineața explorând patrimoniul religios din Saint-Hernot înainte de a descoperi trecutul geologic la muzeu.\n\nLa prânz, o drumeție vă duce la siturile megalitice antice ascunse în peisaj.\n\nPetreceți după-amiaza minunându-vă de plajele sălbatice de coastă unde surferii prind valurile.\n\nÎncheiați-vă plimbarea cu o vizită liniștită la un dolmen pitoresc la sfârșitul zilei.",
+        "en": "Start your morning exploring the religious heritage of Saint-Hernot before diving into the region's geological past at the local museum.\n\nBy midday, a gentle hike takes you to ancient megalithic sites hidden in the landscape.\n\nSpend the afternoon marveling at the wild coastal beaches where surfers ride the waves.\n\nConclude your walk with a peaceful visit to a scenic dolmen as the day ends."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Hernot",
+            "hu": "Chapelle Saint-Hernot",
+            "ro": "Chapelle Saint-Hernot",
+            "en": "Chapelle Saint-Hernot"
+          },
+          "coords": [
+            -4.530403,
+            48.202954
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle, die das bretonische religiöse Erbe zeigt, und bewundern Sie am frühen Morgen ihren ruhigen, geschützten Innenhof.",
+            "hu": "Fedezze fel ezt a bájos kőkápolnát, amely a breton vallási örökséget mutatja be, és kora reggel csodálja meg csendes, védett udvarát.",
+            "ro": "Descoperiți această capelă fermecătoare de piatră ce prezintă moștenirea religioasă bretonă și admirați curtea sa liniștită și adăpostită la primele ore.",
+            "en": "Discover this charming stone chapel showcasing local Breton religious heritage, and take a moment to admire its quiet, sheltered courtyard early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h, ou Kastell Lostmarc'h, éperon barré de Lostmarc'h",
+            "hu": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h, ou Kastell Lostmarc'h, éperon barré de Lostmarc'h",
+            "ro": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h, ou Kastell Lostmarc'h, éperon barré de Lostmarc'h",
+            "en": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h, ou Kastell Lostmarc'h, éperon barré de Lostmarc'h"
+          },
+          "coords": [
+            -4.556529,
+            48.213173
+          ],
+          "category": "historical",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie an den dramatischen Klippen dieser eisenzeitlichen Küstenfestung mit atemberaubendem Meerblick und bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon e vaskori tengerparti erődítmény drámai szikláin, ahonnan lélegzetelállító kilátás nyílik a tengerre, és maradjon a kijelölt ösvényeken a törékeny peremek miatt.",
+            "ro": "Plimbați-vă pe stâncile dramatice ale acestei fortărețe de coastă din epoca fierului ce oferă vederi uimitoare și rămâneți pe potecile marcate.",
+            "en": "Walk the dramatic cliffs of this iron-age coastal fortress offering breathtaking sea views, and keep to the marked paths as the cliff edges are fragile."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lost-Marc'h",
+            "hu": "Plage de Lost-Marc'h",
+            "ro": "Plage de Lost-Marc'h",
+            "en": "Plage de Lost-Marc'h"
+          },
+          "coords": [
+            -4.553975,
+            48.21003
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den tosenden Wellen dieser rauen Bucht und bringen Sie eine Windjacke mit, da die Atlantikbrise hier oft sehr stark weht.",
+            "hu": "Pihenjen ennek a zord, mégis gyönyörű öbölnek a zúgó hullámai mellett, és hozzon magával széldzsekit, mivel az atlanti szellő itt még nyáron is erős.",
+            "ro": "Relaxați-vă la valurile zgomotoase ale acestui golf accidentat de frumos și aduceți o geacă de vânt, deoarece briza Atlanticului este puternică chiar și vara.",
+            "en": "Relax by the roaring waves of this ruggedly beautiful cove, bringing a windbreaker since the Atlantic breeze here is strong even on otherwise sunny summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Palue",
+            "hu": "Plage de la Palue",
+            "ro": "Plage de la Palue",
+            "en": "Plage de la Palue"
+          },
+          "coords": [
+            -4.552326,
+            48.19992
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses wilden, bei Surfern beliebten Sandstrandes, aber denken Sie daran, dass das Schwimmen wegen gefährlicher Strömungen verboten ist.",
+            "hu": "Élvezze a szörfösök által kedvelt vad homokos part tágas térségét, de ne feledje, hogy az úszás itt szigorúan tilos a veszélyes áramlatok miatt.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje sălbatice preferate de surferi, dar rețineți că înotul este strict interzis din cauza curenților periculoși.",
+            "en": "Enjoy the vast expanse of this wild sandy beach favored by surfers, but remember that swimming is strictly prohibited here due to dangerous rip currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Kerdreux",
+            "hu": "Dolmen de Kerdreux",
+            "ro": "Dolmen de Kerdreux",
+            "en": "Dolmen de Kerdreux"
+          },
+          "coords": [
+            -4.544119,
+            48.199612
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte megalithische Grab als Zeugnis früher Siedler, aber tragen Sie feste Schuhe, da der Weg nach Regen ziemlich schlammig sein kann.",
+            "hu": "Csodálja meg ezt az ősi megalitikus sírt, amely a korai telepesek tanúbizonysága, de viseljen erős cipőt, mert a környező ösvény eső után meglehetősen sáros lehet.",
+            "ro": "Minunați-vă de acest mormânt megalitic străvechi ce stă mărturie primilor coloniști, dar purtați încălțăminte rezistentă deoarece poteca poate fi noroioasă după ploaie.",
+            "en": "Marvel at this ancient megalithic tomb standing as a testament to early settlers, but wear sturdy shoes as the surrounding path can be quite muddy after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Minéraux",
+            "hu": "Maison des Minéraux",
+            "ro": "Maison des Minéraux",
+            "en": "Maison des Minéraux"
+          },
+          "coords": [
+            -4.528048,
+            48.203944
+          ],
+          "category": "museum",
+          "arrive_at": "15:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende geologische Ausstellungen über die einzigartige Crozon-Halbinsel und sehen Sie sich die interaktive fluoreszierende Mineraliensammlung an.",
+            "hu": "Fedezze fel az egyedülálló Crozon-félszigetet bemutató geológiai kiállításokat, és mindenképpen nézze meg a hátsó interaktív fluoreszkáló ásványgyűjteményt.",
+            "ro": "Explorați expozițiile geologice fascinante care detaliază peninsula unică Crozon și asigurați-vă că verificați afișajul interactiv cu minerale fluorescente din spate.",
+            "en": "Explore fascinating geological exhibits detailing the unique Crozon Peninsula, and be sure to check the interactive fluorescent mineral display at the back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Kapelle, bevor Sie zu den Klippen der Festung aus der Eisenzeit radeln.\n\nGegen Mittag rollen Sie zu den rauen, schönen Stränden und spüren die Atlantikbrise.\n\nNachmittags erkunden Sie prähistorische Dolmen entlang der Küstenwege.\n\nRunden Sie die Reise im Mineralienmuseum ab, um die Naturgeschichte der Region vollständig zu erfassen.",
+        "hu": "Kezdje kerékpártúráját a csendes kápolnánál, majd tekerjen a vaskori erődítmény sziklái felé.\n\nDél körül guruljon le a zord, mégis gyönyörű strandokra, és érezze az erős atlanti szelet.\n\nDélután fedezze fel a parti ösvények mentén megbúvó történelem előtti dolmeneket.\n\nZárja utazását a helyi ásványmúzeumban, hogy teljes képet kapjon a terület természettörténetéről.",
+        "ro": "Începeți turul cu bicicleta la capelă înainte de a pedala spre stâncile uluitoare ale fortăreței.\n\nÎn jurul prânzului, coborâți spre plajele frumos accidentate, simțind briza puternică a Atlanticului.\n\nDupă-amiaza, explorați dolmene preistorice ascunse de-a lungul traseelor de coastă.\n\nÎncheiați călătoria la muzeul de minerale pentru a înțelege istoria naturală a zonei.",
+        "en": "Kick off your cycling tour at the quiet chapel before pedaling towards the breathtaking cliffs of the iron-age fortress.\n\nAround midday, roll down to the ruggedly beautiful beaches, feeling the strong Atlantic breeze.\n\nIn the afternoon, explore prehistoric dolmens tucked away along the coastal trails.\n\nWrap up the journey at the local mineral museum to fully grasp the area's natural history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alignement de Ty ar C'huré",
+            "hu": "Alignement de Ty ar C'huré",
+            "ro": "Alignement de Ty ar C'huré",
+            "en": "Alignement de Ty ar C'huré"
+          },
+          "coords": [
+            -4.513588,
+            48.21312
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die geheimnisvollen Ausrichtungen dieser bronzezeitlichen stehenden Steine in der Heide und nutzen Sie eine lokale Karte zur besseren Orientierung.",
+            "hu": "Kövesse végig ezeknek a bronzkori álló köveknek a titokzatos elrendezését a pusztaságban, és használjon részletes térképet, mert nehezen észrevehetők.",
+            "ro": "Urmăriți aliniamentele misterioase ale acestor pietre din epoca bronzului pe deasupra mlaștinii și folosiți o hartă detaliată, deoarece pot fi greu de observat.",
+            "en": "Trace the mysterious alignments of these bronze-age standing stones across the heath, and use a detailed local map as they can be surprisingly hard to spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kerellot",
+            "hu": "Menhir de Kerellot",
+            "ro": "Menhir de Kerellot",
+            "en": "Menhir de Kerellot"
+          },
+          "coords": [
+            -4.541682,
+            48.222453
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Denken Sie über die alte Bedeutung dieses einsamen Menhirs in der Küstenlandschaft nach und respektieren Sie das umliegende private Ackerland während Ihres Besuchs.",
+            "hu": "Gondolkodjon el e magányos menhir ősi jelentőségén a tengerparti tájban, és látogatása során tartsa tiszteletben a környező privát mezőgazdasági területeket.",
+            "ro": "Reflectați asupra semnificației antice a acestui menhir solitar ce se înalță în peisajul de coastă și respectați terenurile agricole private din jur în timpul vizitei.",
+            "en": "Ponder the ancient significance of this solitary menhir standing tall in the coastal landscape, and respect the surrounding private farming land while visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir",
+            "hu": "Menhir",
+            "ro": "Menhir",
+            "en": "Menhir"
+          },
+          "coords": [
+            -4.554051,
+            48.216344
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie ein weiteres schönes Beispiel für neolithische stehende Steine in der Nähe der Landspitze, das einen guten Grund bietet, sich die Beine zu vertreten.",
+            "hu": "Figyeljen meg egy újabb szép példát az újkőkori álló kövekre a fok közelében, amely remek ürügy arra, hogy kinyújtóztassa a lábát a festői ösvényeken.",
+            "ro": "Observați un alt exemplu fin de pietre neolitice răspândite lângă promontoriu, oferind o scuză excelentă pentru a vă întinde picioarele pe traseele pitorești.",
+            "en": "Observe another fine example of Neolithic standing stones scattered near the point, providing a great excuse to stretch your legs on the scenic heath trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste",
+            "hu": "Plage naturiste",
+            "ro": "Plage naturiste",
+            "en": "Plage naturiste"
+          },
+          "coords": [
+            -4.552264,
+            48.209039
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand, an dem FKK erlaubt ist, aber nehmen Sie Ihren gesamten Müll mit, da keine öffentlichen Einrichtungen vorhanden sind.",
+            "hu": "Lazítson ezen a félreeső strandon, ahol engedélyezett a naturizmus, de vigye magával a szemetet, mivel nincsenek nyilvános létesítmények a környéken.",
+            "ro": "Relaxați-vă pe această plajă retrasă unde naturismul este permis, dar luați tot gunoiul la plecare, deoarece nu există facilități publice disponibile aici.",
+            "en": "Unwind on this secluded beach where naturism is permitted, enjoying the pristine sands, but pack all your trash out as there are no public facilities available."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Minéraux",
+            "hu": "Maison des Minéraux",
+            "ro": "Maison des Minéraux",
+            "en": "Maison des Minéraux"
+          },
+          "coords": [
+            -4.528048,
+            48.203944
+          ],
+          "category": "museum",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende geologische Ausstellungen über die einzigartige Crozon-Halbinsel und sehen Sie sich die interaktive fluoreszierende Mineraliensammlung an.",
+            "hu": "Fedezze fel az egyedülálló Crozon-félszigetet bemutató geológiai kiállításokat, és mindenképpen nézze meg a hátsó interaktív fluoreszkáló ásványgyűjteményt.",
+            "ro": "Explorați expozițiile geologice fascinante care detaliază peninsula unică Crozon și asigurați-vă că verificați afișajul interactiv cu minerale fluorescente din spate.",
+            "en": "Explore fascinating geological exhibits detailing the unique Crozon Peninsula, and be sure to check the interactive fluorescent mineral display at the back."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Rostudel",
+            "hu": "Dolmen de Rostudel",
+            "ro": "Dolmen de Rostudel",
+            "en": "Dolmen de Rostudel"
+          },
+          "coords": [
+            -4.535403,
+            48.185992
+          ],
+          "category": "historical",
+          "arrive_at": "16:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses beeindruckende prähistorische Monument in der dramatischen Küstenheide und kommen Sie am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző történelem előtti műemléket a drámai tengerparti lápvidéken, és érkezzen késő délután a legszebb fotózási fényviszonyokért.",
+            "ro": "Examinați acest impresionant monument preistoric situat în peisajul de coastă dramatic și ajungeți spre sfârșitul după-amiezii pentru cea mai bună lumină fotografică.",
+            "en": "Examine this impressive prehistoric monument set against the dramatic coastal moorland, and arrive during late afternoon for the most striking photo lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrabenteuer beginnt zwischen den geheimnisvollen Ausrichtungen bronzezeitlicher Steine in der Heide.\n\nFahren Sie gegen Mittag an der Küste entlang, um einsame Menhire zu entdecken.\n\nAm Nachmittag machen Sie eine Pause an abgelegenen, unberührten Stränden, bevor Sie sich im Haus der Mineralien informieren.\n\nBeenden Sie die Route an einem prähistorischen Monument.",
+        "hu": "Autós kalandja a pusztaságban elszórt bronzkori kövek titokzatos elrendezései között kezdődik.\n\nDélre haladjon a zord parti utakon, hogy felfedezze a tenger felett őrködő magányos menhireket.\n\nDélután pihenjen meg egy félreeső strand közelében, mielőtt megismerkedne a regionális geológiával.\n\nZárja az útvonalat egy lenyűgöző történelem előtti műemléknél.",
+        "ro": "Aventura dvs. la volan începe printre aliniamentele misterioase ale pietrelor din epoca bronzului.\n\nPână la prânz, conduceți de-a lungul drumurilor de coastă accidentate pentru a descoperi menhire solitare.\n\nDupă-amiaza, faceți o pauză pe o plajă izolată înainte de a învăța despre geologia regională la muzeu.\n\nTerminați traseul la un monument preistoric izbitor.",
+        "en": "Your driving adventure begins among the mysterious alignments of bronze-age stones scattered on the heath.\n\nBy noon, drive along the rugged coastal roads to discover solitary menhirs standing guard over the sea.\n\nIn the afternoon, take a break near secluded, pristine sands before learning about regional geology indoors.\n\nFinish the route at a striking prehistoric monument under dramatic skies."
+      }
+    }
+  }
+}

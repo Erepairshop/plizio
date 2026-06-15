@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-armacao-de-pera-cities-v2",
+  "anchor": {
+    "name": "Armação de Pêra",
+    "coords": [
+      -8.359133,
+      37.102412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia Grande de Pêra",
+            "hu": "Praia Grande de Pêra",
+            "ro": "Praia Grande de Pêra",
+            "en": "Praia Grande de Pêra"
+          },
+          "coords": [
+            -8.340107,
+            37.093789
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ausgedehnten Dünenlandschaft dieses riesigen Strandes und besuchen Sie die geschützten Lagunenbereiche für Vogelbeobachtungen in der Natur.",
+            "hu": "Sétáljon végig e hatalmas strand kiterjedt dűnéin, és mindenképpen látogasson el a védett lagúnaterületekre, hogy gyönyörű madarakat figyelhessen meg a természetben.",
+            "ro": "Plimbați-vă de-a lungul dunelor întinse ale acestei plaje uriașe și vizitați zonele protejate de lagună pentru a observa păsările în mediul lor natural liniștit.",
+            "en": "Walk freely along the extensive, breathtaking dune landscape of this massive beach and be sure to visit the protected lagoon areas for amazing natural birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Vale do Olival",
+            "hu": "Praia Vale do Olival",
+            "ro": "Praia Vale do Olival",
+            "en": "Praia Vale do Olival"
+          },
+          "coords": [
+            -8.370238,
+            37.101784
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Gesteinsformationen an diesem beliebten Küstenabschnitt und nutzen Sie die nahegelegenen Parkplätze für einen bequemen Start.",
+            "hu": "Csodálja meg a lenyűgöző sziklaalakzatokat ezen a népszerű partszakaszon, és használja a közeli parkolókat a kényelmes és gyors indulás érdekében.",
+            "ro": "Admirați formațiunile stâncoase fascinante de pe această porțiune de coastă populară și folosiți parcările din apropiere pentru un început de vizită foarte comod.",
+            "en": "Marvel at the fascinating and complex rock formations on this popular stretch of coast, and conveniently use the nearby parking lots for a very easy start."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Tremoços",
+            "hu": "Praia dos Tremoços",
+            "ro": "Praia dos Tremoços",
+            "en": "Praia dos Tremoços"
+          },
+          "coords": [
+            -8.377205,
+            37.099863
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Klippen geschützten Strand, der besonders bei Familien beliebt ist; bringen Sie eigene Snacks mit, da es wenig Gastronomie gibt.",
+            "hu": "Pihenjen ezen a sziklák által védett, családok körében különösen népszerű strandon; hozzon magával saját rágcsálnivalót, mivel kevés a vendéglátóhely.",
+            "ro": "Relaxați-vă pe această plajă protejată de stânci, deosebit de populară printre familii; aduceți-vă propriile gustări, deoarece există puține opțiuni gastronomice.",
+            "en": "Relax on this naturally cliff-protected beach that is especially popular with families; bring your own snacks as there are very few local dining options around."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Escaleiras",
+            "hu": "Praia das Escaleiras",
+            "ro": "Praia das Escaleiras",
+            "en": "Praia das Escaleiras"
+          },
+          "coords": [
+            -8.383543,
+            37.097452
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieser kleinen Bucht, die über eine charmante Treppe erreichbar ist; kommen Sie bei Ebbe, um mehr Sandfläche zu haben.",
+            "hu": "Élvezze e kis öböl meghitt hangulatát, amely egy hangulatos lépcsőn közelíthető meg; érkezzen apálykor, hogy nagyobb homokos terület álljon rendelkezésre.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui mic golf accesibil prin scări fermecătoare; veniți la reflux pentru a avea la dispoziție mai mult spațiu pe nisip.",
+            "en": "Enjoy the intimate atmosphere of this charming little cove accessible via scenic stairs; always arrive at low tide to have significantly more sandy space available."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Barranco",
+            "hu": "Praia do Barranco",
+            "ro": "Praia do Barranco",
+            "en": "Praia do Barranco"
+          },
+          "coords": [
+            -8.391573,
+            37.095308
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgeschiedenen Strand mit seinen markanten Felsen für pure Erholung; tragen Sie feste Schuhe für den etwas unebenen Zugangsweg.",
+            "hu": "Fedezze fel ezt az eldugott, jellegzetes sziklákkal teli strandot a tiszta pihenéshez; viseljen stabil cipőt a kissé egyenetlen megközelítési útvonal miatt.",
+            "ro": "Descoperiți această plajă retrasă cu stâncile sale izbitoare pentru o relaxare pură; purtați încălțăminte solidă pentru calea de acces ușor denivelată.",
+            "en": "Discover this beautifully secluded beach with its striking rocks for pure relaxation; be sure to wear sturdy shoes for the slightly uneven coastal access path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Weitläufigen Praia Grande de Pêra, wo Sie die frische Meeresbrise und den weichen Sand der Algarveküste voll auskosten können.\n\nSetzen Sie den Weg nach Westen zum Praia Vale do Olival fort, wo faszinierende Klippenformationen eine malerische Kulisse für Ihre entspannte Mittagspause bieten.\n\nDer Nachmittag führt Sie zu den intimeren Buchten Praia dos Tremoços und Praia das Escaleiras, wo versteckte Felsenpools zum ungestörten Verweilen einladen.\n\nBeenden Sie Ihren erlebnisreichen Tag am abgeschiedenen Praia do Barranco, während die untergehende Sonne die dramatischen Sandsteinklippen in goldenes Licht taucht.",
+        "hu": "Kezdje a sétát a tágas Praia Grande de Pêra parton, ahol teljes mértékben kiélvezheti a friss tengeri szellőt és az algarvei partvidék puha homokját.\n\nFolytassa útját nyugat felé a Praia Vale do Olival partra, ahol lenyűgöző sziklaalakzatok nyújtanak festői hátteret egy pihentető déli sétához a parton.\n\nA délután az intimebb Praia dos Tremoços és Praia das Escaleiras öblökhöz vezeti, ahol az eldugott sziklás medencék zavartalan pihenésre csábítják az utazót.\n\nZárja az eseménydús napot az eldugott Praia do Barranco strandon, miközben a lenyugvó nap arany fénybe vonja a drámai homokkő sziklákat a partvonal mentén.",
+        "ro": "Începeți plimbarea pe plaja întinsă Praia Grande de Pêra, unde vă puteți bucura din plin de briza proaspătă a oceanului și de nisipul fin al coastei Algarve.\n\nContinuați spre vest către Praia Vale do Olival, unde formațiunile stâncoase fascinante oferă un decor pitoresc pentru o pauză de prânz relaxantă pe plajă.\n\nDupă-amiaza vă poartă spre golfurile mai intime Praia dos Tremoços și Praia das Escaleiras, unde piscinele stâncoase ascunse vă invită la o relaxare netulburată.\n\nÎncheiați-vă ziua plină de evenimente pe plaja izolată Praia do Barranco, în timp ce soarele apune și scaldă stâncile dramatice de gresie într-o lumină aurie.",
+        "en": "Begin your morning stroll along the expansive Praia Grande de Pêra, taking full advantage of the fresh ocean breeze and the soft sand of the beautiful Algarve coast.\n\nContinue westward to Praia Vale do Olival, where fascinating cliff formations provide a highly picturesque and dramatic backdrop for your relaxing midday break.\n\nThe afternoon leads you to the more intimate coves of Praia dos Tremoços and Praia das Escaleiras, where hidden rock pools invite you to linger undisturbed.\n\nEnd your eventful day at the secluded Praia do Barranco, while the setting sun beautifully bathes the dramatic sandstone cliffs in a warm, golden, unforgettable light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de ondas",
+            "hu": "Praia de ondas",
+            "ro": "Praia de ondas",
+            "en": "Praia de ondas"
+          },
+          "coords": [
+            -8.315407,
+            37.124102
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel im beliebten Wellenbad dieses Wasserparks, ideal für heiße Tage; buchen Sie Ihre Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Élje át az izgalmakat ennek a víziparknak a népszerű hullámmedencéjében, amely ideális forró napokra; foglaljon jegyet online a hosszú sorban állás elkerülése végett.",
+            "ro": "Experimentați fiorul în piscina cu valuri populară a acestui parc acvatic, ideală pentru zilele toride; rezervați biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Experience the sheer thrill of this water park's incredibly popular wave pool on a hot day; be sure to book your tickets online to avoid frustratingly long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Ilha do Tesouro",
+            "hu": "Ilha do Tesouro",
+            "ro": "Ilha do Tesouro",
+            "en": "Ilha do Tesouro"
+          },
+          "coords": [
+            -8.317305,
+            37.124505
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktive Schatzinsel, die kleine Entdecker stundenlang fesselt; denken Sie an wasserfeste Sonnencreme, da es dort kaum natürlichen Schatten gibt.",
+            "hu": "Fedezze fel az interaktív kincses szigetet, amely órákig leköti a kis felfedezőket; gondoljon a vízálló naptejre, mivel ott szinte egyáltalán nincs természetes árnyék.",
+            "ro": "Descoperiți insula comorilor interactivă care captivează micii exploratori ore întregi; nu uitați de crema de soare rezistentă la apă, deoarece nu prea există umbră naturală.",
+            "en": "Discover the excitingly interactive treasure island that readily captivates little explorers for hours; remember to bring waterproof sunscreen as there is very little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande de Pêra",
+            "hu": "Praia Grande de Pêra",
+            "ro": "Praia Grande de Pêra",
+            "en": "Praia Grande de Pêra"
+          },
+          "coords": [
+            -8.340107,
+            37.093789
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ausgedehnten Dünenlandschaft dieses riesigen Strandes und besuchen Sie die geschützten Lagunenbereiche für Vogelbeobachtungen in der Natur.",
+            "hu": "Sétáljon végig e hatalmas strand kiterjedt dűnéin, és mindenképpen látogasson el a védett lagúnaterületekre, hogy gyönyörű madarakat figyelhessen meg a természetben.",
+            "ro": "Plimbați-vă de-a lungul dunelor întinse ale acestei plaje uriașe și vizitați zonele protejate de lagună pentru a observa păsările în mediul lor natural liniștit.",
+            "en": "Walk freely along the extensive, breathtaking dune landscape of this massive beach and be sure to visit the protected lagoon areas for amazing natural birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Vale do Olival",
+            "hu": "Praia Vale do Olival",
+            "ro": "Praia Vale do Olival",
+            "en": "Praia Vale do Olival"
+          },
+          "coords": [
+            -8.370238,
+            37.101784
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Gesteinsformationen an diesem beliebten Küstenabschnitt und nutzen Sie die nahegelegenen Parkplätze für einen bequemen Start.",
+            "hu": "Csodálja meg a lenyűgöző sziklaalakzatokat ezen a népszerű partszakaszon, és használja a közeli parkolókat a kényelmes és gyors indulás érdekében.",
+            "ro": "Admirați formațiunile stâncoase fascinante de pe această porțiune de coastă populară și folosiți parcările din apropiere pentru un început de vizită foarte comod.",
+            "en": "Marvel at the fascinating and complex rock formations on this popular stretch of coast, and conveniently use the nearby parking lots for a very easy start."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Tremoços",
+            "hu": "Praia dos Tremoços",
+            "ro": "Praia dos Tremoços",
+            "en": "Praia dos Tremoços"
+          },
+          "coords": [
+            -8.377205,
+            37.099863
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Klippen geschützten Strand, der besonders bei Familien beliebt ist; bringen Sie eigene Snacks mit, da es wenig Gastronomie gibt.",
+            "hu": "Pihenjen ezen a sziklák által védett, családok körében különösen népszerű strandon; hozzon magával saját rágcsálnivalót, mivel kevés a vendéglátóhely.",
+            "ro": "Relaxați-vă pe această plajă protejată de stânci, deosebit de populară printre familii; aduceți-vă propriile gustări, deoarece există puține opțiuni gastronomice.",
+            "en": "Relax on this naturally cliff-protected beach that is especially popular with families; bring your own snacks as there are very few local dining options around."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Escaleiras",
+            "hu": "Praia das Escaleiras",
+            "ro": "Praia das Escaleiras",
+            "en": "Praia das Escaleiras"
+          },
+          "coords": [
+            -8.383543,
+            37.097452
+          ],
+          "category": "recreational",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieser kleinen Bucht, die über eine charmante Treppe erreichbar ist; kommen Sie bei Ebbe, um mehr Sandfläche zu haben.",
+            "hu": "Élvezze e kis öböl meghitt hangulatát, amely egy hangulatos lépcsőn közelíthető meg; érkezzen apálykor, hogy nagyobb homokos terület álljon rendelkezésre.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui mic golf accesibil prin scări fermecătoare; veniți la reflux pentru a avea la dispoziție mai mult spațiu pe nisip.",
+            "en": "Enjoy the intimate atmosphere of this charming little cove accessible via scenic stairs; always arrive at low tide to have significantly more sandy space available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour bei den spritzigen Wasserattraktionen Praia de ondas und Ilha do Tesouro, ideal für einen erfrischenden und actionreichen Tagesbeginn.\n\nRadeln Sie entspannt zum Praia Grande de Pêra, um die weiten Strände zu erkunden und in einem der Strandcafés bei herrlicher Aussicht neue Energie zu tanken.\n\nFahren Sie weiter entlang der Küstenwege zum Praia Vale do Olival und Praia dos Tremoços, wo die majestätischen Felsen einen herrlichen Kontrast zum Meer bilden.\n\nDie Tour endet am malerischen Praia das Escaleiras, einem perfekten Ort, um vom Fahrrad zu steigen und die Ruhe des abendlichen Ozeans tief einzuatmen.",
+        "hu": "Kezdje kerékpártúráját a Praia de ondas és az Ilha do Tesouro izgalmas vízi attrakcióinál, amelyek ideálisak egy frissítő és akciódús napindításhoz a parton.\n\nKerékpározzon el a Praia Grande de Pêra partjához, hogy felfedezze a széles strandokat, és egy parti kávézóban csodás kilátás mellett gyűjtsön új energiát.\n\nHaladjon tovább a parti utakon a Praia Vale do Olival és a Praia dos Tremoços felé, ahol a fenséges sziklák csodálatos kontrasztot alkotnak a tengerrel.\n\nA túra a festői Praia das Escaleiras partnál ér véget, amely tökéletes hely arra, hogy leszálljon a kerékpárról és mélyeket lélegezzen az esti óceán nyugalmából.",
+        "ro": "Începeți turul cu bicicleta la atracțiile acvatice Praia de ondas și Ilha do Tesouro, ideale pentru un început de zi revigorant și plin de acțiune.\n\nPedalați spre Praia Grande de Pêra pentru a explora plajele largi și pentru a vă reîncărca bateriile la o cafenea pe plajă, bucurându-vă de priveliște.\n\nContinuați pe potecile de coastă către Praia Vale do Olival și Praia dos Tremoços, unde stâncile mărețe formează un contrast minunat cu albastrul mării.\n\nTurul se încheie la pitoreasca plajă Praia das Escaleiras, un loc perfect pentru a coborî de pe bicicletă și a respira adânc liniștea oceanului la lăsarea serii.",
+        "en": "Start your cycling tour at the splashing water attractions of Praia de ondas and Ilha do Tesouro, ideal for a refreshing and action-packed start to your day.\n\nCycle leisurely to Praia Grande de Pêra to explore the wide beaches and recharge your batteries at a beachside cafe while enjoying the magnificent view.\n\nContinue riding along the beautiful coastal paths to Praia Vale do Olival and Praia dos Tremoços, where majestic cliffs form a stunning contrast to the sea.\n\nThe tour ends at the picturesque Praia das Escaleiras, an absolutely perfect spot to hop off your bike and deeply breathe in the calming tranquility of the evening ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:03",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Jogos de agua",
+            "hu": "Jogos de agua",
+            "ro": "Jogos de agua",
+            "en": "Jogos de agua"
+          },
+          "coords": [
+            -8.31615,
+            37.125155
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder bei den vielfältigen Wasserspielen sicher austoben; mieten Sie sich frühzeitig einen schattigen Liegestuhl als Basis für die ganze Familie.",
+            "hu": "Hagyja, hogy gyermekei biztonságosan kitombolják magukat a változatos vízi játékoknál; béreljen időben egy árnyékos napozóágyat bázisként az egész család számára.",
+            "ro": "Lăsați-vă copiii să se elibereze în siguranță la diversele jocuri de apă; închiriați devreme un șezlong umbrit ca bază de relaxare pentru întreaga familie.",
+            "en": "Let your children safely let off steam at the extremely diverse and fun water games; rent a shaded lounger early in the day to serve as your family's home base."
+          }
+        },
+        {
+          "name": {
+            "de": "Ilha do Tesouro",
+            "hu": "Ilha do Tesouro",
+            "ro": "Ilha do Tesouro",
+            "en": "Ilha do Tesouro"
+          },
+          "coords": [
+            -8.317305,
+            37.124505
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktive Schatzinsel, die kleine Entdecker stundenlang fesselt; denken Sie an wasserfeste Sonnencreme, da es dort kaum natürlichen Schatten gibt.",
+            "hu": "Fedezze fel az interaktív kincses szigetet, amely órákig leköti a kis felfedezőket; gondoljon a vízálló naptejre, mivel ott szinte egyáltalán nincs természetes árnyék.",
+            "ro": "Descoperiți insula comorilor interactivă care captivează micii exploratori ore întregi; nu uitați de crema de soare rezistentă la apă, deoarece nu prea există umbră naturală.",
+            "en": "Discover the excitingly interactive treasure island that readily captivates little explorers for hours; remember to bring waterproof sunscreen as there is very little natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de ondas",
+            "hu": "Praia de ondas",
+            "ro": "Praia de ondas",
+            "en": "Praia de ondas"
+          },
+          "coords": [
+            -8.315407,
+            37.124102
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel im beliebten Wellenbad dieses Wasserparks, ideal für heiße Tage; buchen Sie Ihre Tickets online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Élje át az izgalmakat ennek a víziparknak a népszerű hullámmedencéjében, amely ideális forró napokra; foglaljon jegyet online a hosszú sorban állás elkerülése végett.",
+            "ro": "Experimentați fiorul în piscina cu valuri populară a acestui parc acvatic, ideală pentru zilele toride; rezervați biletele online pentru a evita cozile lungi la intrare.",
+            "en": "Experience the sheer thrill of this water park's incredibly popular wave pool on a hot day; be sure to book your tickets online to avoid frustratingly long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande de Pêra",
+            "hu": "Praia Grande de Pêra",
+            "ro": "Praia Grande de Pêra",
+            "en": "Praia Grande de Pêra"
+          },
+          "coords": [
+            -8.340107,
+            37.093789
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ausgedehnten Dünenlandschaft dieses riesigen Strandes und besuchen Sie die geschützten Lagunenbereiche für Vogelbeobachtungen in der Natur.",
+            "hu": "Sétáljon végig e hatalmas strand kiterjedt dűnéin, és mindenképpen látogasson el a védett lagúnaterületekre, hogy gyönyörű madarakat figyelhessen meg a természetben.",
+            "ro": "Plimbați-vă de-a lungul dunelor întinse ale acestei plaje uriașe și vizitați zonele protejate de lagună pentru a observa păsările în mediul lor natural liniștit.",
+            "en": "Walk freely along the extensive, breathtaking dune landscape of this massive beach and be sure to visit the protected lagoon areas for amazing natural birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Vale do Olival",
+            "hu": "Praia Vale do Olival",
+            "ro": "Praia Vale do Olival",
+            "en": "Praia Vale do Olival"
+          },
+          "coords": [
+            -8.370238,
+            37.101784
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Gesteinsformationen an diesem beliebten Küstenabschnitt und nutzen Sie die nahegelegenen Parkplätze für einen bequemen Start.",
+            "hu": "Csodálja meg a lenyűgöző sziklaalakzatokat ezen a népszerű partszakaszon, és használja a közeli parkolókat a kényelmes és gyors indulás érdekében.",
+            "ro": "Admirați formațiunile stâncoase fascinante de pe această porțiune de coastă populară și folosiți parcările din apropiere pentru un început de vizită foarte comod.",
+            "en": "Marvel at the fascinating and complex rock formations on this popular stretch of coast, and conveniently use the nearby parking lots for a very easy start."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Tremoços",
+            "hu": "Praia dos Tremoços",
+            "ro": "Praia dos Tremoços",
+            "en": "Praia dos Tremoços"
+          },
+          "coords": [
+            -8.377205,
+            37.099863
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Klippen geschützten Strand, der besonders bei Familien beliebt ist; bringen Sie eigene Snacks mit, da es wenig Gastronomie gibt.",
+            "hu": "Pihenjen ezen a sziklák által védett, családok körében különösen népszerű strandon; hozzon magával saját rágcsálnivalót, mivel kevés a vendéglátóhely.",
+            "ro": "Relaxați-vă pe această plajă protejată de stânci, deosebit de populară printre familii; aduceți-vă propriile gustări, deoarece există puține opțiuni gastronomice.",
+            "en": "Relax on this naturally cliff-protected beach that is especially popular with families; bring your own snacks as there are very few local dining options around."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Escaleiras",
+            "hu": "Praia das Escaleiras",
+            "ro": "Praia das Escaleiras",
+            "en": "Praia das Escaleiras"
+          },
+          "coords": [
+            -8.383543,
+            37.097452
+          ],
+          "category": "recreational",
+          "arrive_at": "17:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieser kleinen Bucht, die über eine charmante Treppe erreichbar ist; kommen Sie bei Ebbe, um mehr Sandfläche zu haben.",
+            "hu": "Élvezze e kis öböl meghitt hangulatát, amely egy hangulatos lépcsőn közelíthető meg; érkezzen apálykor, hogy nagyobb homokos terület álljon rendelkezésre.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui mic golf accesibil prin scări fermecătoare; veniți la reflux pentru a avea la dispoziție mai mult spațiu pe nisip.",
+            "en": "Enjoy the intimate atmosphere of this charming little cove accessible via scenic stairs; always arrive at low tide to have significantly more sandy space available."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Barranco",
+            "hu": "Praia do Barranco",
+            "ro": "Praia do Barranco",
+            "en": "Praia do Barranco"
+          },
+          "coords": [
+            -8.391573,
+            37.095308
+          ],
+          "category": "recreational",
+          "arrive_at": "18:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgeschiedenen Strand mit seinen markanten Felsen für pure Erholung; tragen Sie feste Schuhe für den etwas unebenen Zugangsweg.",
+            "hu": "Fedezze fel ezt az eldugott, jellegzetes sziklákkal teli strandot a tiszta pihenéshez; viseljen stabil cipőt a kissé egyenetlen megközelítési útvonal miatt.",
+            "ro": "Descoperiți această plajă retrasă cu stâncile sale izbitoare pentru o relaxare pură; purtați încălțăminte solidă pentru calea de acces ușor denivelată.",
+            "en": "Discover this beautifully secluded beach with its striking rocks for pure relaxation; be sure to wear sturdy shoes for the slightly uneven coastal access path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt rasant in den Aquaparks bei Jogos de agua, Ilha do Tesouro und Praia de ondas, die für abwechslungsreiche Unterhaltung der ganzen Familie sorgen.\n\nEine kurze Fahrt bringt Sie zum Praia Grande de Pêra, wo endlose Sandstrände zu ausgedehnten Spaziergängen und einem entspannten Picknick im weichen Sand einladen.\n\nErkunden Sie die spektakulären Klippen am Praia Vale do Olival, Praia dos Tremoços und Praia das Escaleiras, die sich hervorragend für beeindruckende Urlaubsfotos eignen.\n\nDie finale Station ist der ruhige Praia do Barranco, wo Sie abseits der Massen den Sonnenuntergang über dem wilden Atlantik in völliger Harmonie genießen können.",
+        "hu": "A nap pörgősen indul a Jogos de agua, az Ilha do Tesouro és a Praia de ondas víziparkjaiban, amelyek változatos szórakozást biztosítanak az egész családnak.\n\nEgy rövid autózás után eléri a Praia Grande de Pêra partot, ahol a végtelen homokos strandok hosszú sétákra és egy pihentető piknikre invitálnak a puha homokban.\n\nFedezze fel a Praia Vale do Olival, a Praia dos Tremoços és a Praia das Escaleiras látványos szikláit, amelyek kiváló hátteret nyújtanak a lenyűgöző nyaralási fotókhoz.\n\nA végső állomás a csendes Praia do Barranco, ahol a tömegtől távol, teljes harmóniában élvezheti a vad Atlanti-óceán felett lemenő nap gyönyörű látványát.",
+        "ro": "Ziua începe alert în parcurile acvatice de la Jogos de agua, Ilha do Tesouro și Praia de ondas, care oferă divertisment variat pentru întreaga familie.\n\nUn scurt drum cu mașina vă duce la Praia Grande de Pêra, unde plajele nesfârșite vă invită la plimbări lungi și la un picnic relaxant pe nisipul fin.\n\nExplorați stâncile spectaculoase de la Praia Vale do Olival, Praia dos Tremoços și Praia das Escaleiras, excelente pentru a face fotografii de vacanță impresionante.\n\nUltima oprire este liniștita Praia do Barranco, unde vă puteți bucura de apusul de soare peste sălbaticul Ocean Atlantic în armonie deplină, departe de aglomerație.",
+        "en": "The day kicks off with fast-paced fun at the exciting water parks of Jogos de agua, Ilha do Tesouro, and Praia de ondas, providing diverse entertainment for all.\n\nA short scenic drive brings you to Praia Grande de Pêra, where endless sandy beaches invite you for long, soothing walks and a truly relaxing midday picnic.\n\nExplore the highly spectacular cliffs at Praia Vale do Olival, Praia dos Tremoços, and Praia das Escaleiras, which are absolutely excellent for impressive vacation photos.\n\nThe final stop is the incredibly quiet Praia do Barranco, where you can peacefully enjoy the breathtaking sunset over the wild Atlantic away from all the crowds."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "united-kingdom-bosavern-cities-v2",
+  "anchor": {
+    "name": "Bosavern",
+    "coords": [
+      -5.68038,
+      50.11566
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Carn Bosavern",
+            "hu": "Carn Bosavern",
+            "ro": "Carn Bosavern",
+            "en": "Carn Bosavern"
+          },
+          "coords": [
+            -5.679596,
+            50.119633
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hang von Carn Bosavern, um einen weiten Küstenblick zu genießen, und bringen Sie eine Windjacke mit, da hier immer eine steife Brise weht.",
+            "hu": "Mássza meg a Carn Bosavern lankáit, hogy megcsodálhassa a lenyűgöző tengerparti panorámát, és mindenképpen hozzon széldzsekit az állandóan erős szél miatt.",
+            "ro": "Urcați panta domoală de la Carn Bosavern pentru a vă bucura de o panoramă de coastă superbă și aduceți o geacă de vânt deoarece briza este mereu puternică aici.",
+            "en": "Climb the gentle slope of Carn Bosavern to enjoy sweeping coastal panoramas, and bring a windbreaker since the breeze here is remarkably strong year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Plain-an-Gwarry",
+            "hu": "Plain-an-Gwarry",
+            "ro": "Plain-an-Gwarry",
+            "en": "Plain-an-Gwarry"
+          },
+          "coords": [
+            -5.680746,
+            50.124457
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Betreten Sie das historische mittelalterliche Amphitheater Plain-an-Gwarry, um sich alte kornische Mysterienspiele vorzustellen, und umrunden Sie die erhaltenen Graswälle.",
+            "hu": "Lépjen be a történelmi Plain-an-Gwarry középkori amfiteátrumba, hogy elképzelje az ősi korni misztériumjátékokat, és feltétlenül sétálja körbe a füves sáncokat.",
+            "ro": "Pășiți în amfiteatrul medieval istoric Plain-an-Gwarry pentru a vă imagina vechile piese cornish de mistere, având grijă să vă plimbați pe malurile de iarbă păstrate.",
+            "en": "Step into the historic Plain-an-Gwarry medieval amphitheater to envision ancient Cornish miracle plays, making sure to walk around the preserved grassy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nancherow Studio",
+            "hu": "Nancherow Stúdió",
+            "ro": "Studioul Nancherow",
+            "en": "Nancherow Studio"
+          },
+          "coords": [
+            -5.681306,
+            50.126347
+          ],
+          "category": "cultural",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lokalen künstlerischen Ausdruck im Nancherow Studio, wo lebhafte regionale Landschaften ausgestellt sind, und kaufen Sie einen kleinen Druck als Souvenir.",
+            "hu": "Fedezze fel a helyi művészeti életet a Nancherow Stúdióban, ahol élénk regionális tájképeket állítanak ki, és érdemes itt egy kis nyomatot vásárolni egyedi szuvenírként.",
+            "ro": "Descoperiți expresia artistică locală la Nancherow Studio, unde sunt expuse peisaje regionale vii, așa că luați în calcul achiziționarea unei mici litografii ca suvenir.",
+            "en": "Discover local artistic expression at Nancherow Studio, where vivid regional landscapes are displayed, so consider purchasing a small print as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Kenidjack Arsenic Works",
+            "hu": "Kenidjack Arzéngyár",
+            "ro": "Fabrica de Arsenic Kenidjack",
+            "en": "Kenidjack Arsenic Works"
+          },
+          "coords": [
+            -5.694872,
+            50.132705
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markanten Ruinen der Kenidjack Arsenic Works in einem dramatischen Tal und tragen Sie feste Schuhe, um sicher über die steinigen Wege zu gelangen.",
+            "hu": "Fedezze fel a drámai völgyben megbúvó Kenidjack Arsenic Works lenyűgöző romjait, és viseljen masszív bakancsot, hogy biztonságosan haladhasson az egyenetlen utakon.",
+            "ro": "Explorați ruinele impresionante ale Kenidjack Arsenic Works ascunse într-o vale dramatică și purtați bocanci solizi pentru a parcurge în siguranță potecile pietroase.",
+            "en": "Explore the striking ruins of the Kenidjack Arsenic Works nestled in a dramatic valley, and wear sturdy boots to safely navigate the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cape Cornwall",
+            "hu": "Cape Cornwall",
+            "ro": "Cape Cornwall",
+            "en": "Cape Cornwall"
+          },
+          "coords": [
+            -5.708801,
+            50.127187
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den atemberaubenden Treffpunkt der Meeresströmungen am Cape Cornwall und bringen Sie Ihr Fernglas mit, um nach tauchenden Seevögeln Ausschau zu halten.",
+            "hu": "Csodálja meg a tengeri áramlatok lenyűgöző találkozását Cape Cornwallnál, és hozzon távcsövet, hogy megfigyelhesse a hullámok közé merülő tengeri madarakat.",
+            "ro": "Admirați punctul uluitor de întâlnire al curenților oceanici de la Cape Cornwall și aduceți un binoclu pentru a observa păsările marine plonjând în valuri.",
+            "en": "Behold the breathtaking meeting point of ocean currents at Cape Cornwall, and bring your binoculars to spot sea birds diving into the crashing waves below."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballowall Barrow",
+            "hu": "Ballowall Barrow",
+            "ro": "Ballowall Barrow",
+            "en": "Ballowall Barrow"
+          },
+          "coords": [
+            -5.701451,
+            50.122282
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die komplexen Steinstrukturen von Ballowall Barrow, einem beeindruckenden bronzezeitlichen Grab, am besten am späten Nachmittag für dramatische Schatten.",
+            "hu": "Vizsgálja meg a Ballowall Barrow bonyolult kőszerkezeteit, egy lenyűgöző bronzkori sírt, lehetőleg késő délután, amikor a lemenő nap drámai árnyékokat vet.",
+            "ro": "Examinați structurile complexe de piatră de la Ballowall Barrow, un impresionant mormânt din Epoca Bronzului, de preferință după-amiaza pentru umbre dramatice pe pietre.",
+            "en": "Examine the intricate stone structures of Ballowall Barrow, an impressive Bronze Age tomb, preferably in the late afternoon when the low sun casts striking shadows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang mit der kühlen Meeresbrise am Carn Bosavern. Am späten Vormittag tauchen Sie im alten Plain-an-Gwarry und im Nancherow Studio in die Geschichte ein. Der Nachmittag führt Sie zu den dramatischen Ruinen der Kenidjack Arsenic Works und ans Cape Cornwall. Ihre Reise endet friedlich bei den alten Steinen des Ballowall Barrow.",
+        "hu": "Sétáját a Carn Bosavern lankáin élvezhető tengerparti szellővel kezdi. Késő délelőtt merüljön el a történelemben a Plain-an-Gwarry-nál és a Nancherow Stúdióban. A délután a Kenidjack Arsenic Works drámai romjaihoz és a Cape Cornwall lenyűgöző kilátásához vezet. Utazása békésen zárul a Ballowall Barrow ősi köveinek megcsodálásával.",
+        "ro": "Începeți plimbarea bucurându-vă de briza de coastă pe pantele de la Carn Bosavern. Spre prânz, cufundați-vă în istorie la anticul Plain-an-Gwarry și Nancherow Studio. După-amiaza vă conduce către ruinele Kenidjack Arsenic Works și priveliștile uluitoare de la Cape Cornwall. Călătoria se încheie pașnic, admirând pietrele antice de la Ballowall Barrow.",
+        "en": "Begin your walking tour enjoying the coastal breezes on Carn Bosavern's slopes. By late morning, immerse yourself in history at the ancient Plain-an-Gwarry and Nancherow Studio. The afternoon leads you to the dramatic ruins of the Kenidjack Arsenic Works and stunning views from Cape Cornwall. Your journey peacefully concludes marveling at the ancient stones of Ballowall Barrow."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plain-an-Gwarry",
+            "hu": "Plain-an-Gwarry",
+            "ro": "Plain-an-Gwarry",
+            "en": "Plain-an-Gwarry"
+          },
+          "coords": [
+            -5.680746,
+            50.124457
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie das historische mittelalterliche Amphitheater Plain-an-Gwarry, um sich alte kornische Mysterienspiele vorzustellen, und umrunden Sie die erhaltenen Graswälle.",
+            "hu": "Lépjen be a történelmi Plain-an-Gwarry középkori amfiteátrumba, hogy elképzelje az ősi korni misztériumjátékokat, és feltétlenül sétálja körbe a füves sáncokat.",
+            "ro": "Pășiți în amfiteatrul medieval istoric Plain-an-Gwarry pentru a vă imagina vechile piese cornish de mistere, având grijă să vă plimbați pe malurile de iarbă păstrate.",
+            "en": "Step into the historic Plain-an-Gwarry medieval amphitheater to envision ancient Cornish miracle plays, making sure to walk around the preserved grassy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nancherow Studio",
+            "hu": "Nancherow Stúdió",
+            "ro": "Studioul Nancherow",
+            "en": "Nancherow Studio"
+          },
+          "coords": [
+            -5.681306,
+            50.126347
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie den lokalen künstlerischen Ausdruck im Nancherow Studio, wo lebhafte regionale Landschaften ausgestellt sind, und kaufen Sie einen kleinen Druck als Souvenir.",
+            "hu": "Fedezze fel a helyi művészeti életet a Nancherow Stúdióban, ahol élénk regionális tájképeket állítanak ki, és érdemes itt egy kis nyomatot vásárolni egyedi szuvenírként.",
+            "ro": "Descoperiți expresia artistică locală la Nancherow Studio, unde sunt expuse peisaje regionale vii, așa că luați în calcul achiziționarea unei mici litografii ca suvenir.",
+            "en": "Discover local artistic expression at Nancherow Studio, where vivid regional landscapes are displayed, so consider purchasing a small print as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Kenidjack Arsenic Works",
+            "hu": "Kenidjack Arzéngyár",
+            "ro": "Fabrica de Arsenic Kenidjack",
+            "en": "Kenidjack Arsenic Works"
+          },
+          "coords": [
+            -5.694872,
+            50.132705
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markanten Ruinen der Kenidjack Arsenic Works in einem dramatischen Tal und tragen Sie feste Schuhe, um sicher über die steinigen Wege zu gelangen.",
+            "hu": "Fedezze fel a drámai völgyben megbúvó Kenidjack Arsenic Works lenyűgöző romjait, és viseljen masszív bakancsot, hogy biztonságosan haladhasson az egyenetlen utakon.",
+            "ro": "Explorați ruinele impresionante ale Kenidjack Arsenic Works ascunse într-o vale dramatică și purtați bocanci solizi pentru a parcurge în siguranță potecile pietroase.",
+            "en": "Explore the striking ruins of the Kenidjack Arsenic Works nestled in a dramatic valley, and wear sturdy boots to safely navigate the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cape Cornwall",
+            "hu": "Cape Cornwall",
+            "ro": "Cape Cornwall",
+            "en": "Cape Cornwall"
+          },
+          "coords": [
+            -5.708801,
+            50.127187
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den atemberaubenden Treffpunkt der Meeresströmungen am Cape Cornwall und bringen Sie Ihr Fernglas mit, um nach tauchenden Seevögeln Ausschau zu halten.",
+            "hu": "Csodálja meg a tengeri áramlatok lenyűgöző találkozását Cape Cornwallnál, és hozzon távcsövet, hogy megfigyelhesse a hullámok közé merülő tengeri madarakat.",
+            "ro": "Admirați punctul uluitor de întâlnire al curenților oceanici de la Cape Cornwall și aduceți un binoclu pentru a observa păsările marine plonjând în valuri.",
+            "en": "Behold the breathtaking meeting point of ocean currents at Cape Cornwall, and bring your binoculars to spot sea birds diving into the crashing waves below."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Helen's Oratory",
+            "hu": "St. Helen's Oratory",
+            "ro": "St. Helen's Oratory",
+            "en": "St. Helen's Oratory"
+          },
+          "coords": [
+            -5.705846,
+            50.127618
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe bei den abgelegenen Ruinen des St. Helen's Oratory, einer alten keltischen Kapelle, und treten Sie vorsichtig zwischen die moosigen, unebenen Steine.",
+            "hu": "Találjon nyugalomra a St. Helen's Oratory távoli romjainál, egy ősi kelta kápolna helyszínén, és lépjen óvatosan a szétszórt, mohás, egyenetlen kövek között.",
+            "ro": "Găsiți liniștea la ruinele izolate ale St. Helen's Oratory, o veche capelă celtică, și pășiți cu mare grijă printre pietrele inegale și acoperite cu mușchi.",
+            "en": "Find tranquility at the remote ruins of St. Helen's Oratory, an ancient Celtic chapel site, and step carefully among the mossy, uneven stones scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Porth Nanven",
+            "hu": "Porth Nanven",
+            "ro": "Porth Nanven",
+            "en": "Porth Nanven"
+          },
+          "coords": [
+            -5.700686,
+            50.119404
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den runden Felsbrocken der Bucht von Porth Nanven, die auch Dinosaurierei-Strand genannt wird, und nehmen Sie keine streng geschützten Steine mit.",
+            "hu": "Pihenjen meg a Porth Nanven-öböl sima szikláin, amelyet Dinoszaurusz-tojás partnak is hívnak, és semmiképp se vigyen haza köveket, mivel a terület szigorúan védett.",
+            "ro": "Relaxați-vă pe bolovanii netezi din golful Porth Nanven, supranumit Plaja Ouălor de Dinozaur, și aveți grijă să nu luați pietre, deoarece este o zonă strict protejată.",
+            "en": "Relax on the famously smooth boulders of Porth Nanven cove, nicknamed Dinosaur Egg Beach, taking care not to remove any stones as it is strictly protected."
+          }
+        },
+        {
+          "name": {
+            "de": "Cornwall Underground Adventures",
+            "hu": "Cornwall Underground Adventures",
+            "ro": "Aventuri Subterane Cornwall",
+            "en": "Cornwall Underground Adventures"
+          },
+          "coords": [
+            -5.69963,
+            50.117947
+          ],
+          "category": "landmark",
+          "arrive_at": "16:53",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Begeben Sie sich mit Cornwall Underground Adventures auf eine spannende Tour durch historische Minentunnel und denken Sie daran, die Sicherheitsausrüstung fest anzulegen.",
+            "hu": "Vegyen részt egy izgalmas föld alatti túrán a történelmi bányajáratokban a Cornwall Underground Adventures csapatával, és viselje szorosan a kapott védőfelszerelést.",
+            "ro": "Porniți într-o explorare ghidată emoționantă prin tunelurile miniere istorice cu Cornwall Underground Adventures, amintindu-vă să purtați echipamentul de protecție strâns.",
+            "en": "Embark on a thrilling guided exploration through historic mining tunnels with Cornwall Underground Adventures, remembering to wear the provided safety gear tightly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer in der mittelalterlichen Geschichte von Plain-an-Gwarry, bevor Sie das Nancherow Studio erkunden. Fahren Sie an den Ruinen der Kenidjack Arsenic Works vorbei zum Aussichtspunkt Cape Cornwall. Entdecken Sie am späten Nachmittag St. Helen's Oratory und Porth Nanven, bevor es zu Cornwall Underground Adventures geht.",
+        "hu": "Kezdje kerékpáros kalandját a középkori Plain-an-Gwarry-nél, majd fedezze fel a Nancherow Stúdiót. Tekerjen el a Kenidjack Arsenic Works romjai mellett a Cape Cornwall kilátópontjához. Késő délután fedezze fel a St. Helen's Oratory-t és a Porth Nanven-t, mielőtt egy izgalmas leereszkedéssel zárná a napot a Cornwall Underground Adventures-nél.",
+        "ro": "Începeți aventura pe bicicletă explorând istoria la Plain-an-Gwarry și apoi arta de la Nancherow Studio. Pedalați pe lângă ruinele Kenidjack Arsenic Works spre punctul de belvedere Cape Cornwall. Petreceți după-amiaza descoperind St. Helen's Oratory și Porth Nanven, înainte de a explora tunelurile de la Cornwall Underground Adventures.",
+        "en": "Start your cycling adventure delving into medieval history at Plain-an-Gwarry before exploring the vibrant art at Nancherow Studio. Ride past the coastal ruins of Kenidjack Arsenic Works towards the breathtaking Cape Cornwall viewpoint. Spend your late afternoon discovering St. Helen's Oratory and Porth Nanven, before a final thrilling descent to Cornwall Underground Adventures."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:41",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Adit",
+            "hu": "Adit",
+            "ro": "Adit",
+            "en": "Adit"
+          },
+          "coords": [
+            -5.695385,
+            50.105363
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie in den tiefen historischen Adit, der einst das Wasser aus den Zinnminen ableitete, und verwenden Sie eine starke Taschenlampe, um das Mauerwerk zu sehen.",
+            "hu": "Pillantson be a mély történelmi Aditba, amely egykor a gazdag ónbányák vizét vezette el, és használjon erős zseblámpát, hogy tisztán láthassa a lenyűgöző kőművesmunkát.",
+            "ro": "Priviți în adâncul istoric al Aditului care drena apa din minele bogate de staniu și folosiți o lanternă puternică pentru a vedea clar zidăria impresionantă din interior.",
+            "en": "Peer into the deep historic Adit that once drained water from the area's rich tin mines, and use a strong flashlight to clearly see the impressive stonework inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Shaft",
+            "hu": "Mine Shaft",
+            "ro": "Mine Shaft",
+            "en": "Mine Shaft"
+          },
+          "coords": [
+            -5.694362,
+            50.114586
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Beobachten Sie die prekäre Tiefe des originalen Mine Shaft, eine Erinnerung an das industrielle Erbe, und bleiben Sie beim Fotografieren hinter den Sicherheitsbarrieren.",
+            "hu": "Figyelje meg az eredeti Mine Shaft szédítő mélységét, amely az ipari örökség zord emléke, és fényképezés közben maradjon határozottan a biztonsági korlátok mögött.",
+            "ro": "Observați adâncimile precare ale Mine Shaft-ului original, o amintire a moștenirii industriale, stând ferm în spatele barierelor de siguranță în timp ce faceți fotografii.",
+            "en": "Observe the precarious depths of the original Mine Shaft, a stark reminder of industrial heritage, staying firmly behind the safety barriers while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Progo",
+            "hu": "Progo",
+            "ro": "Progo",
+            "en": "Progo"
+          },
+          "coords": [
+            -5.699833,
+            50.114833
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der ruhigen Grünanlage von Progo, die sich perfekt für ein Mittagspicknick eignet. Bringen Sie also eine Decke mit, um sich auszubreiten.",
+            "hu": "Kapcsolódjon ki Progo nyugodt, zöld rekreációs területén, amely tökéletes egy déli piknikhez, ezért feltétlenül hozzon magával egy kényelmes takarót a fűbe.",
+            "ro": "Relaxați-vă în spațiul verde liniștit de la Progo, perfect pentru un picnic la amiază, așa că aduceți o pătură confortabilă pe care să o întindeți sub cerul deschis.",
+            "en": "Unwind in the tranquil recreational green space of Progo, perfect for a midday picnic, so bring a comfortable blanket to spread out under the open Cornish sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Porth Nanven",
+            "hu": "Porth Nanven",
+            "ro": "Porth Nanven",
+            "en": "Porth Nanven"
+          },
+          "coords": [
+            -5.700686,
+            50.119404
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den runden Felsbrocken der Bucht von Porth Nanven, die auch Dinosaurierei-Strand genannt wird, und nehmen Sie keine streng geschützten Steine mit.",
+            "hu": "Pihenjen meg a Porth Nanven-öböl sima szikláin, amelyet Dinoszaurusz-tojás partnak is hívnak, és semmiképp se vigyen haza köveket, mivel a terület szigorúan védett.",
+            "ro": "Relaxați-vă pe bolovanii netezi din golful Porth Nanven, supranumit Plaja Ouălor de Dinozaur, și aveți grijă să nu luați pietre, deoarece este o zonă strict protejată.",
+            "en": "Relax on the famously smooth boulders of Porth Nanven cove, nicknamed Dinosaur Egg Beach, taking care not to remove any stones as it is strictly protected."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballowall Barrow",
+            "hu": "Ballowall Barrow",
+            "ro": "Ballowall Barrow",
+            "en": "Ballowall Barrow"
+          },
+          "coords": [
+            -5.701451,
+            50.122282
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die komplexen Steinstrukturen von Ballowall Barrow, einem beeindruckenden bronzezeitlichen Grab, am besten am späten Nachmittag für dramatische Schatten.",
+            "hu": "Vizsgálja meg a Ballowall Barrow bonyolult kőszerkezeteit, egy lenyűgöző bronzkori sírt, lehetőleg késő délután, amikor a lemenő nap drámai árnyékokat vet.",
+            "ro": "Examinați structurile complexe de piatră de la Ballowall Barrow, un impresionant mormânt din Epoca Bronzului, de preferință după-amiaza pentru umbre dramatice pe pietre.",
+            "en": "Examine the intricate stone structures of Ballowall Barrow, an impressive Bronze Age tomb, preferably in the late afternoon when the low sun casts striking shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cape Cornwall",
+            "hu": "Cape Cornwall",
+            "ro": "Cape Cornwall",
+            "en": "Cape Cornwall"
+          },
+          "coords": [
+            -5.708801,
+            50.127187
+          ],
+          "category": "natural",
+          "arrive_at": "15:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den atemberaubenden Treffpunkt der Meeresströmungen am Cape Cornwall und bringen Sie Ihr Fernglas mit, um nach tauchenden Seevögeln Ausschau zu halten.",
+            "hu": "Csodálja meg a tengeri áramlatok lenyűgöző találkozását Cape Cornwallnál, és hozzon távcsövet, hogy megfigyelhesse a hullámok közé merülő tengeri madarakat.",
+            "ro": "Admirați punctul uluitor de întâlnire al curenților oceanici de la Cape Cornwall și aduceți un binoclu pentru a observa păsările marine plonjând în valuri.",
+            "en": "Behold the breathtaking meeting point of ocean currents at Cape Cornwall, and bring your binoculars to spot sea birds diving into the crashing waves below."
+          }
+        },
+        {
+          "name": {
+            "de": "Chimney",
+            "hu": "Chimney",
+            "ro": "Chimney",
+            "en": "Chimney"
+          },
+          "coords": [
+            -5.700231,
+            50.13142
+          ],
+          "category": "historical",
+          "arrive_at": "16:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den aufragenden historischen Chimney, der die Küstensilhouette dominiert, und lichten Sie ihn aus verschiedenen Winkeln ab für den Kontrast zum Meer.",
+            "hu": "Fényképezze le a zord partvidék sziluettjét uraló, magasba tornyosuló történelmi Kéményt (Chimney), több szögből is megörökítve annak éles kontrasztját a tengerrel.",
+            "ro": "Fotografiați turnul istoric Chimney care domină orizontul coastei accidentate, capturându-l din unghiuri diferite pentru a-i evidenția contrastul cu marea.",
+            "en": "Photograph the towering historic Chimney that dominates the rugged coastal skyline, capturing it from different angles to highlight its stark contrast with the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "St Just Amalgamated Mine Shaft",
+            "hu": "St Just Amalgamated Mine Shaft",
+            "ro": "St Just Amalgamated Mine Shaft",
+            "en": "St Just Amalgamated Mine Shaft"
+          },
+          "coords": [
+            -5.704621,
+            50.125149
+          ],
+          "category": "historical",
+          "arrive_at": "17:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Verfolgen Sie das Erbe von Cornwalls Kupfer- und Zinnindustrie am St Just Amalgamated Mine Shaft und lesen Sie die Tafeln, die die harten Arbeitsbedingungen schildern.",
+            "hu": "Kövesse végig Cornwall ón- és réziparának örökségét a St Just Amalgamated Mine Shaftnál, és olvassa el az információs táblákat a zord munkakörülményekről.",
+            "ro": "Urmăriți moștenirea vastei industrii de cupru și staniu a Cornwall-ului la St Just Amalgamated Mine Shaft și citiți plăcile informative despre condițiile aspre de muncă.",
+            "en": "Trace the legacy of Cornwall's vast copper and tin industry at the St Just Amalgamated Mine Shaft, and read the informative plaques detailing the harsh working conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Roadtrip in Cornwalls Bergbauvergangenheit am Adit und dem Mine Shaft. Mittags entspannen Sie im Progo und spazieren an den Kieselsteinen von Porth Nanven entlang. Der Nachmittag verspricht dramatische Stätten vom Ballowall Barrow bis zum Cape Cornwall. Am Abend bestaunen Sie historische Industrieschornsteine und alte Schächte.",
+        "hu": "Autós kirándulása a cornwalli bányászmúlt mélyén indul az Adit és a Mine Shaft felfedezésével. Délben pihenjen meg Progónál, és sétáljon a Porth Nanven egyedi partján. A délután drámai örökségi helyszíneket tartogat a Ballowall Barrow-tól egészen a Cape Cornwallig. Az estét magasba törő ipari kémények és ősi aknák között zárja.",
+        "ro": "Începeți călătoria cu mașina în trecutul minier la Adit și Mine Shaft. La prânz, relaxați-vă la Progo și plimbați-vă pe țărmul cu pietricele de la Porth Nanven. După-amiaza promite situri dramatice, de la Ballowall Barrow până la maiestuosul Cape Cornwall. Veți încheia seara explorând coșurile industriale impunătoare și puțurile de mină.",
+        "en": "Kick off your road trip deep in Cornwall's mining past at the historic Adit and nearby Mine Shaft. By midday, take a relaxing pause at Progo and stroll along the unique pebble shores of Porth Nanven. The afternoon promises dramatic heritage sites from Ballowall Barrow up to the majestic Cape Cornwall. You will end the evening tracing towering industrial chimneys and ancient shafts."
+      }
+    }
+  }
+}

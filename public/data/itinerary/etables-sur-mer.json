@@ -1,0 +1,520 @@
+{
+  "city_id": "etables-sur-mer",
+  "anchor": {
+    "name": "Étables-sur-Mer",
+    "coords": [
+      -2.8353,
+      48.6264
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.835616,
+            48.627871
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und nehmen Sie sich einen ruhigen Moment der Besinnung, bevor Sie zur Küste aufbrechen.",
+            "hu": "Csodálja meg a városközpontban álló történelmi templom építészetét, és szánjon egy percet a csendes elmélkedésre, mielőtt elindulna a parti túrára.",
+            "ro": "Admirați arhitectura acestei biserici istorice din centrul orașului și luați-vă un moment de liniște înainte de a începe călătoria de-a lungul coastei.",
+            "en": "Admire the beautiful architecture of this historic church in the town center, and take a moment for quiet reflection before starting your coastal journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Godelins",
+            "hu": "Plage des Godelins",
+            "ro": "Plage des Godelins",
+            "en": "Plage des Godelins"
+          },
+          "coords": [
+            -2.8229,
+            48.62366
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand, der von Klippen umrahmt ist, und kommen Sie früh, um sich einen Platz bei den markanten Strandhütten zu sichern.",
+            "hu": "Pihenjen ezen a festői, sziklákkal övezett homokos strandon, és érkezzen korán, hogy jó helyet találjon a jellegzetes kis tengerparti kabinok közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip, încadrată de stânci, și veniți devreme pentru a prinde un loc bun lângă cabinele de plajă distinctive.",
+            "en": "Relax on this picturesque, family-friendly sandy beach framed by scenic cliffs, and try to arrive early to secure a good spot near the distinctive beach cabins."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Moulin",
+            "hu": "Plage du Moulin",
+            "ro": "Plage du Moulin",
+            "en": "Plage du Moulin"
+          },
+          "coords": [
+            -2.82637,
+            48.63636
+          ],
+          "category": "natural",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den feinen Sand an diesem weitläufigen Naturstrand und bringen Sie am besten eigene Snacks für ein Picknick am Meer mit.",
+            "hu": "Élvezze a szelíd hullámokat és a finom homokot ezen a tágas természetes strandon, és mindenképpen vigyen magával vizet és harapnivalót egy déli piknikhez.",
+            "ro": "Bucurați-vă de valurile blânde și nisipul fin al acestei plaje naturale întinse, asigurându-vă că aduceți apă și gustări pentru un picnic minunat la prânz.",
+            "en": "Enjoy the gentle waves and fine sand at this expansive natural beach, making sure to bring your own water and snacks for a delightful midday picnic by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Comtesse",
+            "hu": "Plage de la Comtesse",
+            "ro": "Plage de la Comtesse",
+            "en": "Plage de la Comtesse"
+          },
+          "coords": [
+            -2.826597,
+            48.650269
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem schönen Strand mit Blick auf die gleichnamige Insel und prüfen Sie die Gezeiten, um bei Ebbe sicher hinüber spazieren zu können.",
+            "hu": "Sétáljon végig ezen a kellemes strandon, ahonnan remek kilátás nyílik a névadó szigetre, és ellenőrizze az árapályt, hogy apálykor átsétálhasson.",
+            "ro": "Plimbați-vă pe această plajă frumoasă ce oferă vederi spre insula eponimă și verificați orele mareelor pentru a putea traversa în siguranță când apa e mică.",
+            "en": "Stroll along this lovely recreational beach offering great views of the eponymous island, and check the tide times so you can safely walk across when the water is low."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Châtelet",
+            "hu": "Plage du Châtelet",
+            "ro": "Plage du Châtelet",
+            "en": "Plage du Châtelet"
+          },
+          "coords": [
+            -2.833242,
+            48.655132
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Atmosphäre dieses kleineren, geschützten Küstenabschnitts, der sich ideal eignet, um abseits der Massen ein Buch zu lesen.",
+            "hu": "Kapcsolódjon ki ezen a kisebb, védett tengerparti részen, amelynek nyugodt légköre tökéletes egy könyv elolvasásához, távol a nagyobb tömegektől.",
+            "ro": "Relaxați-vă în atmosfera liniștită a acestui loc de coastă adăpostit, perfect pentru a citi o carte sau pentru a face o plimbare departe de aglomerație.",
+            "en": "Unwind in the tranquil atmosphere of this smaller, sheltered coastal spot, which is perfect for reading a book or taking a peaceful walk away from the main crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an der historischen Kirche Saint-Jean-Baptiste, bevor Sie zum malerischen Plage des Godelins spazieren. Setzen Sie Ihren Weg zum Plage du Moulin fort, einem perfekten Naturidyll zum Entspannen. Wandern Sie weiter nach Norden zum Plage de la Comtesse und genießen Sie die Inselaussicht. Beenden Sie Ihre Tour am geschützten Plage du Châtelet und lassen Sie die Seele baumeln.",
+        "hu": "Kezdje a napot a történelmi Saint-Jean-Baptiste templomnál, mielőtt elsétálna a festői Plage des Godelins strandra. Folytassa útját a parti sétányon a Plage du Moulin felé, amely tökéletes természetes hely a pihenésre. Haladjon északra a Plage de la Comtesse felé, gyönyörködve a szigetekre nyíló kilátásban. Zárja a könnyed sétát a védett Plage du Châtelet-nél, a tengerparti nyugalomba burkolózva.",
+        "ro": "Începeți ziua la istorica Biserică Saint-Jean-Baptiste înainte de a coborî spre pitoreasca Plage des Godelins. Continuați plimbarea de coastă pentru a ajunge la Plage du Moulin, un loc natural perfect. Mergeți mai la nord spre Plage de la Comtesse, admirând priveliștile frumoase ale insulei. Încheiați turul la adăpostita Plage du Châtelet, relaxându-vă în atmosfera liniștită a mării.",
+        "en": "Start the day by admiring the historical Église Saint-Jean-Baptiste before walking down to the picturesque Plage des Godelins. Continue your coastal stroll to reach Plage du Moulin, a perfect natural spot to relax. Trek further north towards Plage de la Comtesse, soaking in the beautiful island vistas. Conclude your leisurely walking tour at the sheltered Plage du Châtelet, unwinding by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.835616,
+            48.627871
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und nehmen Sie sich einen ruhigen Moment der Besinnung, bevor Sie zur Küste aufbrechen.",
+            "hu": "Csodálja meg a városközpontban álló történelmi templom építészetét, és szánjon egy percet a csendes elmélkedésre, mielőtt elindulna a parti túrára.",
+            "ro": "Admirați arhitectura acestei biserici istorice din centrul orașului și luați-vă un moment de liniște înainte de a începe călătoria de-a lungul coastei.",
+            "en": "Admire the beautiful architecture of this historic church in the town center, and take a moment for quiet reflection before starting your coastal journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Godelins",
+            "hu": "Plage des Godelins",
+            "ro": "Plage des Godelins",
+            "en": "Plage des Godelins"
+          },
+          "coords": [
+            -2.8229,
+            48.62366
+          ],
+          "category": "natural",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand, der von Klippen umrahmt ist, und kommen Sie früh, um sich einen Platz bei den markanten Strandhütten zu sichern.",
+            "hu": "Pihenjen ezen a festői, sziklákkal övezett homokos strandon, és érkezzen korán, hogy jó helyet találjon a jellegzetes kis tengerparti kabinok közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip, încadrată de stânci, și veniți devreme pentru a prinde un loc bun lângă cabinele de plajă distinctive.",
+            "en": "Relax on this picturesque, family-friendly sandy beach framed by scenic cliffs, and try to arrive early to secure a good spot near the distinctive beach cabins."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Moulin",
+            "hu": "Plage du Moulin",
+            "ro": "Plage du Moulin",
+            "en": "Plage du Moulin"
+          },
+          "coords": [
+            -2.82637,
+            48.63636
+          ],
+          "category": "natural",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den feinen Sand an diesem weitläufigen Naturstrand und bringen Sie am besten eigene Snacks für ein Picknick am Meer mit.",
+            "hu": "Élvezze a szelíd hullámokat és a finom homokot ezen a tágas természetes strandon, és mindenképpen vigyen magával vizet és harapnivalót egy déli piknikhez.",
+            "ro": "Bucurați-vă de valurile blânde și nisipul fin al acestei plaje naturale întinse, asigurându-vă că aduceți apă și gustări pentru un picnic minunat la prânz.",
+            "en": "Enjoy the gentle waves and fine sand at this expansive natural beach, making sure to bring your own water and snacks for a delightful midday picnic by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Comtesse",
+            "hu": "Plage de la Comtesse",
+            "ro": "Plage de la Comtesse",
+            "en": "Plage de la Comtesse"
+          },
+          "coords": [
+            -2.826597,
+            48.650269
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem schönen Strand mit Blick auf die gleichnamige Insel und prüfen Sie die Gezeiten, um bei Ebbe sicher hinüber spazieren zu können.",
+            "hu": "Sétáljon végig ezen a kellemes strandon, ahonnan remek kilátás nyílik a névadó szigetre, és ellenőrizze az árapályt, hogy apálykor átsétálhasson.",
+            "ro": "Plimbați-vă pe această plajă frumoasă ce oferă vederi spre insula eponimă și verificați orele mareelor pentru a putea traversa în siguranță când apa e mică.",
+            "en": "Stroll along this lovely recreational beach offering great views of the eponymous island, and check the tide times so you can safely walk across when the water is low."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine d'eau de mer",
+            "hu": "Piscine d'eau de mer",
+            "ro": "Piscine d'eau de mer",
+            "en": "Piscine d'eau de mer"
+          },
+          "coords": [
+            -2.834331,
+            48.655603
+          ],
+          "category": "family",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad in diesem sicheren Meerwasserpool, der bei Familien sehr beliebt ist, und bringen Sie Badeschuhe für das Betondeck mit.",
+            "hu": "Mártózzon meg ebben a biztonságos, családok körében roppant népszerű tengervizes medencében, és ne felejtsen el papucsot hozni a betonozott partra.",
+            "ro": "Faceți o baie răcoritoare în această piscină cu apă de mare, foarte populară printre familii, și aduceți șlapi pentru zona de beton din jurul acesteia.",
+            "en": "Take a refreshing dip in this safely enclosed seawater pool that is exceptionally popular with families, and bring some flip-flops for the surrounding concrete deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Casino",
+            "hu": "Plage du Casino",
+            "ro": "Plage du Casino",
+            "en": "Plage du Casino"
+          },
+          "coords": [
+            -2.836611,
+            48.655652
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses dynamischen Strandes in der Nähe der städtischen Einrichtungen, wo Sie bequem einen nachmittäglichen Snack finden.",
+            "hu": "Tapasztalja meg ennek a dinamikus, városi szolgáltatásokhoz közeli strandnak a nyüzsgését, ahol könnyedén talál kávézókat egy gyors délutáni harapnivalóhoz.",
+            "ro": "Simțiți atmosfera plină de viață a acestei plaje dinamice, aproape de facilitățile orașului, unde veți găsi cu ușurință cafenele pentru o gustare de după-amiază.",
+            "en": "Experience the lively vibe of this dynamic recreational beach near the town's amenities, where you can easily find nearby cafes to grab a quick and tasty afternoon snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de la Fontaine Saint-Quay",
+            "hu": "Grève de la Fontaine Saint-Quay",
+            "ro": "Grève de la Fontaine Saint-Quay",
+            "en": "Grève de la Fontaine Saint-Quay"
+          },
+          "coords": [
+            -2.840583,
+            48.659027
+          ],
+          "category": "recreational",
+          "arrive_at": "16:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser charmanten Felsenbucht mit spektakulären Sonnenuntergängen und bringen Sie eine leichte Jacke für die kühle Abendbrise mit.",
+            "hu": "Zárja a napot ennél a bájos sziklás öbölnél, amely látványos naplementét kínál, és hozzon magával egy könnyű kabátot az esti hűvös parti szellő ellen.",
+            "ro": "Încheiați-vă ziua la acest golf fermecător, care oferă apusuri spectaculoase, luând cu dumneavoastră o jachetă subțire pentru briza răcoroasă a serii.",
+            "en": "Finish your day at this charming rocky cove that boasts spectacular sunset views, bringing a light jacket to stay comfortable as the evening coastal breeze picks up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der Kirche Saint-Jean-Baptiste zum Plage des Godelins und spüren Sie die belebende Morgenbrise. Fahren Sie weiter zum Plage du Moulin und zum Plage de la Comtesse für eine Pause am Meer. Machen Sie einen Abstecher zum Meerwasserpool für ein Bad und erkunden Sie den Plage du Casino. Beenden Sie Ihr Abenteuer an der Grève de la Fontaine Saint-Quay mit einem spektakulären Sonnenuntergang.",
+        "hu": "Kerekezzen a bájos Saint-Jean-Baptiste templomtól a Plage des Godelins-hez, élvezve a frissítő reggeli szellőt. Tekerjen a Plage du Moulin és a Plage de la Comtesse felé egy tengerparti pihenőre. Látogasson el a tengervizes medencéhez egy csobbanásra, majd fedezze fel a pezsgő Plage du Casino-t. Zárja a kalandot a Grève de la Fontaine Saint-Quay-nél, egy látványos naplementével a víz felett.",
+        "ro": "Bicicliți de la Biserica Saint-Jean-Baptiste la Plage des Godelins, simțind briza revigorantă. Pedalați spre Plage du Moulin și apoi Plage de la Comtesse pentru o pauză pitorească. Mergeți la piscina cu apă de mare pentru o baie, apoi explorați vibranta Plage du Casino. Încheiați aventura la Grève de la Fontaine Saint-Quay, urmărind un apus spectaculos peste întinderea apei.",
+        "en": "Cycle from the charming Église Saint-Jean-Baptiste to Plage des Godelins, feeling the invigorating morning breeze. Pedal towards Plage du Moulin and then Plage de la Comtesse for a scenic seaside break. Ride up to the Piscine d'eau de mer for a swim, then explore the vibrant Plage du Casino. Finish your adventure at Grève de la Fontaine Saint-Quay, watching a spectacular sunset over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 5.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            -2.835616,
+            48.627871
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und nehmen Sie sich einen ruhigen Moment der Besinnung, bevor Sie zur Küste aufbrechen.",
+            "hu": "Csodálja meg a városközpontban álló történelmi templom építészetét, és szánjon egy percet a csendes elmélkedésre, mielőtt elindulna a parti túrára.",
+            "ro": "Admirați arhitectura acestei biserici istorice din centrul orașului și luați-vă un moment de liniște înainte de a începe călătoria de-a lungul coastei.",
+            "en": "Admire the beautiful architecture of this historic church in the town center, and take a moment for quiet reflection before starting your coastal journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Godelins",
+            "hu": "Plage des Godelins",
+            "ro": "Plage des Godelins",
+            "en": "Plage des Godelins"
+          },
+          "coords": [
+            -2.8229,
+            48.62366
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand, der von Klippen umrahmt ist, und kommen Sie früh, um sich einen Platz bei den markanten Strandhütten zu sichern.",
+            "hu": "Pihenjen ezen a festői, sziklákkal övezett homokos strandon, és érkezzen korán, hogy jó helyet találjon a jellegzetes kis tengerparti kabinok közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip, încadrată de stânci, și veniți devreme pentru a prinde un loc bun lângă cabinele de plajă distinctive.",
+            "en": "Relax on this picturesque, family-friendly sandy beach framed by scenic cliffs, and try to arrive early to secure a good spot near the distinctive beach cabins."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Moulin",
+            "hu": "Plage du Moulin",
+            "ro": "Plage du Moulin",
+            "en": "Plage du Moulin"
+          },
+          "coords": [
+            -2.82637,
+            48.63636
+          ],
+          "category": "natural",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den feinen Sand an diesem weitläufigen Naturstrand und bringen Sie am besten eigene Snacks für ein Picknick am Meer mit.",
+            "hu": "Élvezze a szelíd hullámokat és a finom homokot ezen a tágas természetes strandon, és mindenképpen vigyen magával vizet és harapnivalót egy déli piknikhez.",
+            "ro": "Bucurați-vă de valurile blânde și nisipul fin al acestei plaje naturale întinse, asigurându-vă că aduceți apă și gustări pentru un picnic minunat la prânz.",
+            "en": "Enjoy the gentle waves and fine sand at this expansive natural beach, making sure to bring your own water and snacks for a delightful midday picnic by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Comtesse",
+            "hu": "Plage de la Comtesse",
+            "ro": "Plage de la Comtesse",
+            "en": "Plage de la Comtesse"
+          },
+          "coords": [
+            -2.826597,
+            48.650269
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem schönen Strand mit Blick auf die gleichnamige Insel und prüfen Sie die Gezeiten, um bei Ebbe sicher hinüber spazieren zu können.",
+            "hu": "Sétáljon végig ezen a kellemes strandon, ahonnan remek kilátás nyílik a névadó szigetre, és ellenőrizze az árapályt, hogy apálykor átsétálhasson.",
+            "ro": "Plimbați-vă pe această plajă frumoasă ce oferă vederi spre insula eponimă și verificați orele mareelor pentru a putea traversa în siguranță când apa e mică.",
+            "en": "Stroll along this lovely recreational beach offering great views of the eponymous island, and check the tide times so you can safely walk across when the water is low."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Châtelet",
+            "hu": "Plage du Châtelet",
+            "ro": "Plage du Châtelet",
+            "en": "Plage du Châtelet"
+          },
+          "coords": [
+            -2.833242,
+            48.655132
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Atmosphäre dieses kleineren, geschützten Küstenabschnitts, der sich ideal eignet, um abseits der Massen ein Buch zu lesen.",
+            "hu": "Kapcsolódjon ki ezen a kisebb, védett tengerparti részen, amelynek nyugodt légköre tökéletes egy könyv elolvasásához, távol a nagyobb tömegektől.",
+            "ro": "Relaxați-vă în atmosfera liniștită a acestui loc de coastă adăpostit, perfect pentru a citi o carte sau pentru a face o plimbare departe de aglomerație.",
+            "en": "Unwind in the tranquil atmosphere of this smaller, sheltered coastal spot, which is perfect for reading a book or taking a peaceful walk away from the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine d'eau de mer",
+            "hu": "Piscine d'eau de mer",
+            "ro": "Piscine d'eau de mer",
+            "en": "Piscine d'eau de mer"
+          },
+          "coords": [
+            -2.834331,
+            48.655603
+          ],
+          "category": "family",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad in diesem sicheren Meerwasserpool, der bei Familien sehr beliebt ist, und bringen Sie Badeschuhe für das Betondeck mit.",
+            "hu": "Mártózzon meg ebben a biztonságos, családok körében roppant népszerű tengervizes medencében, és ne felejtsen el papucsot hozni a betonozott partra.",
+            "ro": "Faceți o baie răcoritoare în această piscină cu apă de mare, foarte populară printre familii, și aduceți șlapi pentru zona de beton din jurul acesteia.",
+            "en": "Take a refreshing dip in this safely enclosed seawater pool that is exceptionally popular with families, and bring some flip-flops for the surrounding concrete deck."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grève Noire",
+            "hu": "Plage de la Grève Noire",
+            "ro": "Plage de la Grève Noire",
+            "en": "Plage de la Grève Noire"
+          },
+          "coords": [
+            -2.83792,
+            48.657214
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den dunkleren Sand und die einzigartige Geologie dieses faszinierenden Strandes, und tragen Sie feste Schuhe für die felsigen Abschnitte.",
+            "hu": "Fedezze fel e lenyűgöző strand sötétebb homokját és egyedi geológiai képződményeit, masszív cipőt viselve, ha a part menti sziklás részeket is bejárná.",
+            "ro": "Descoperiți nisipul mai închis și caracteristicile geologice unice ale acestei plaje fascinante, purtând încălțăminte solidă pentru a explora stâncile.",
+            "en": "Discover the darker sands and unique geological features of this fascinating beach, wearing sturdy shoes if you plan to explore the rocky outcrops along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de la Fontaine Saint-Quay",
+            "hu": "Grève de la Fontaine Saint-Quay",
+            "ro": "Grève de la Fontaine Saint-Quay",
+            "en": "Grève de la Fontaine Saint-Quay"
+          },
+          "coords": [
+            -2.840583,
+            48.659027
+          ],
+          "category": "recreational",
+          "arrive_at": "17:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser charmanten Felsenbucht mit spektakulären Sonnenuntergängen und bringen Sie eine leichte Jacke für die kühle Abendbrise mit.",
+            "hu": "Zárja a napot ennél a bájos sziklás öbölnél, amely látványos naplementét kínál, és hozzon magával egy könnyű kabátot az esti hűvös parti szellő ellen.",
+            "ro": "Încheiați-vă ziua la acest golf fermecător, care oferă apusuri spectaculoase, luând cu dumneavoastră o jachetă subțire pentru briza răcoroasă a serii.",
+            "en": "Finish your day at this charming rocky cove that boasts spectacular sunset views, bringing a light jacket to stay comfortable as the evening coastal breeze picks up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Kirche Saint-Jean-Baptiste und fahren Sie zum Plage des Godelins. Genießen Sie die bequeme Fahrt zwischen Plage du Moulin, Plage de la Comtesse und Plage du Châtelet, um die Strände zu erleben. Fahren Sie weiter zum Meerwasserpool und besuchen Sie anschließend den einzigartigen Plage de la Grève Noire. Parken Sie an der Grève de la Fontaine Saint-Quay für einen entspannten Abschluss.",
+        "hu": "Kezdje útját a Saint-Jean-Baptiste templomnál, majd ugorjon át a Plage des Godelins-hez egy parti sétára. Vezessen kényelmesen a Plage du Moulin, a Plage de la Comtesse és a Plage du Châtelet között. Folytassa útját a tengervizes medence felé, majd látogasson el a különleges Plage de la Grève Noire strandra. Parkoljon le a Grève de la Fontaine Saint-Quay közelében a lenyűgöző parti túra lezárásaként.",
+        "ro": "Începeți plimbarea cu mașina la Biserica Saint-Jean-Baptiste, apoi mergeți scurt până la Plage des Godelins. Conduceți confortabil între Plage du Moulin, Plage de la Comtesse și Plage du Châtelet. Continuați spre piscina cu apă de mare pentru relaxare, urmată de unica Plage de la Grève Noire. Parcați lângă Grève de la Fontaine Saint-Quay pentru a încheia acest tur relaxant de-a lungul coastei.",
+        "en": "Start your drive at Église Saint-Jean-Baptiste, then take a short trip to Plage des Godelins to enjoy the shoreline. Drive comfortably between Plage du Moulin, Plage de la Comtesse, and Plage du Châtelet to experience the beach variety. Continue to the Piscine d'eau de mer for leisure, followed by the unique Plage de la Grève Noire. Park near Grève de la Fontaine Saint-Quay to cap off your effortless tour."
+      }
+    }
+  }
+}

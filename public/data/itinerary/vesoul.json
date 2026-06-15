@@ -1,0 +1,405 @@
+{
+  "city_id": "vesoul",
+  "anchor": {
+    "name": "Vesoul",
+    "coords": [
+      6.1553,
+      47.6222
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            6.156662,
+            47.623343
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Vesoul aus dem 18. Jahrhundert und besuchen Sie die Seitenkapellen für lokale Kunstwerke.",
+            "hu": "Csodálja meg a 18. századi építészet lenyűgöző részleteit Vesoul szívében, és feltétlenül tekintse meg a mellékkápolnákban rejtőző kiváló helyi műalkotásokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din secolul al XVIII-lea din inima orașului Vesoul și nu uitați să explorați capelele laterale pline de artă.",
+            "en": "Admire the striking 18th-century architecture of this historic church in the heart of Vesoul, and remember to check the side chapels for exquisite local artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Anglais",
+            "hu": "Jardin Anglais",
+            "ro": "Jardin Anglais",
+            "en": "Jardin Anglais"
+          },
+          "coords": [
+            6.16383,
+            47.62331
+          ],
+          "category": "natural",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen wunderschön angelegten englischen Garten, um die exotischen Pflanzen zu genießen, und kommen Sie am besten früh morgens für das beste Licht.",
+            "hu": "Sétáljon végig ezen a gyönyörűen parkosított angolkerten, hogy élvezze az egzotikus növények nyugalmát, lehetőleg kora reggel érkezve a legjobb fényviszonyokért.",
+            "ro": "Plimbați-vă prin această grădină englezească frumos amenajată pentru a vă bucura de liniște printre plante exotice, vizitând-o de preferință dimineața devreme.",
+            "en": "Stroll through this beautifully landscaped English garden to enjoy a moment of serenity among exotic plants, preferably visiting early morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "La Motte",
+            "hu": "La Motte",
+            "ro": "La Motte",
+            "en": "La Motte"
+          },
+          "coords": [
+            6.157804,
+            47.628656
+          ],
+          "category": "natural",
+          "arrive_at": "11:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen ikonischen natürlichen Hügel, um einen atemberaubenden Panoramablick über Vesoul zu erleben, und tragen Sie festes Schuhwerk für den Aufstieg.",
+            "hu": "Mássza meg ezt az ikonikus természetes dombot a Vesoul és a környező völgy feletti lélegzetelállító panorámáért, és mindenképpen viseljen kényelmes túracipőt.",
+            "ro": "Urcați pe acest deal natural emblematic pentru a experimenta vederi panoramice uluitoare asupra orașului Vesoul, purtând încălțăminte robustă pentru urcușul abrupt.",
+            "en": "Climb up this iconic natural hill to experience breathtaking panoramic views over Vesoul and the surrounding valley, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Vesoul",
+            "hu": "Vieux Vesoul",
+            "ro": "Vieux Vesoul",
+            "en": "Vieux Vesoul"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernden engen Gassen der Altstadt, um das jahrhundertealte Erbe zu entdecken, aber achten Sie auf versteckte Innenhöfe hinter alten Türen.",
+            "hu": "Barangoljon az óváros bájos, szűk utcáin, hogy felfedezze az évszázadok óta megőrzött örökséget, de figyelje a régi ajtók mögött megbúvó titkos belső udvarokat is.",
+            "ro": "Plimbați-vă pe străzile înguste și fermecătoare ale orașului vechi pentru a descoperi patrimoniul istoric, dar fiți atenți la curțile ascunse din spatele ușilor vechi.",
+            "en": "Wander through the charming narrow streets of the old town to discover centuries of preserved heritage, but keep an eye out for hidden courtyards tucked behind ancient doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Georges-Garret",
+            "hu": "Musée Georges-Garret",
+            "ro": "Musée Georges-Garret",
+            "en": "Musée Georges-Garret"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum mit beeindruckenden Kunst- und regionalen Archäologiesammlungen und holen Sie sich unbedingt einen englischen Führer an der Rezeption.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely képzőművészeti és regionális régészeti gyűjteményeket mutat be, és mindenképpen kérjen egy angol nyelvű útmutatót a recepción.",
+            "ro": "Explorați acest muzeu fascinant ce găzduiește colecții impresionante de arte plastice și arheologie regională, asigurându-vă că luați un ghid de la recepția principală.",
+            "en": "Explore this fascinating museum featuring impressive fine arts and regional archaeology collections, making sure to grab an English guide at the main reception desk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem religiösen Erbe von Vesoul in der Église Saint-Georges und bewundern Sie ihre Schönheit. \n Machen Sie danach einen ruhigen Spaziergang durch den Jardin Anglais, bevor Sie La Motte für den besten Stadtblick erklimmen. \n Steigen Sie in Vieux Vesoul hinab und verbringen Sie den Nachmittag damit, durch historische Gassen zu schlendern. \n Beenden Sie die Tour mit einem Besuch im Musée Georges-Garret und entdecken Sie bildende Kunst und regionale Archäologie.",
+        "hu": "Kezdje a napot Vesoul gazdag vallási örökségének felfedezésével a lenyűgöző Église Saint-Georges falai között. \n Ezután tegyen egy nyugodt sétát a Jardin Anglais élénk virágai között, mielőtt megmássza a La Motte-ot a csodás kilátásért. \n Ereszkedjen le a Vieux Vesoul negyedbe, és töltse a délutánt a történelmi sikátorok és a klasszikus építészet csodálatával. \n Zárja sétáját a Musée Georges-Garret inspiráló kiállításainak megtekintésével, ahol képzőművészeti ritkaságokat talál.",
+        "ro": "Începeți ziua explorând bogatul patrimoniu religios al orașului la Église Saint-Georges, admirând frumusețea sa clasică. \n Faceți o plimbare liniștită prin Jardin Anglais înainte de a urca pe La Motte pentru vederi panoramice de neegalat asupra orașului. \n Coborâți în Vieux Vesoul, petrecând după-amiaza rătăcind pe alee istorice și bucurându-vă de arhitectura franceză. \n Încheiați cu o vizită inspiratoare la Musée Georges-Garret, explorând arta plastică și arheologia.",
+        "en": "Begin your day delving into Vesoul's rich religious heritage at Église Saint-Georges, admiring its classic beauty. \n Next, take a tranquil stroll through the vibrant Jardin Anglais before braving the climb up La Motte for unparalleled city views. \n Descend into Vieux Vesoul, spending the afternoon wandering historic alleyways and soaking in the classic French architecture. \n Conclude with an inspiring visit to Musée Georges-Garret, exploring fine arts and archaeology before winding down your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            6.156662,
+            47.623343
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Vesoul aus dem 18. Jahrhundert und besuchen Sie die Seitenkapellen für lokale Kunstwerke.",
+            "hu": "Csodálja meg a 18. századi építészet lenyűgöző részleteit Vesoul szívében, és feltétlenül tekintse meg a mellékkápolnákban rejtőző kiváló helyi műalkotásokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din secolul al XVIII-lea din inima orașului Vesoul și nu uitați să explorați capelele laterale pline de artă.",
+            "en": "Admire the striking 18th-century architecture of this historic church in the heart of Vesoul, and remember to check the side chapels for exquisite local artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "La Motte",
+            "hu": "La Motte",
+            "ro": "La Motte",
+            "en": "La Motte"
+          },
+          "coords": [
+            6.157804,
+            47.628656
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen ikonischen natürlichen Hügel, um einen atemberaubenden Panoramablick über Vesoul zu erleben, und tragen Sie festes Schuhwerk für den Aufstieg.",
+            "hu": "Mássza meg ezt az ikonikus természetes dombot a Vesoul és a környező völgy feletti lélegzetelállító panorámáért, és mindenképpen viseljen kényelmes túracipőt.",
+            "ro": "Urcați pe acest deal natural emblematic pentru a experimenta vederi panoramice uluitoare asupra orașului Vesoul, purtând încălțăminte robustă pentru urcușul abrupt.",
+            "en": "Climb up this iconic natural hill to experience breathtaking panoramic views over Vesoul and the surrounding valley, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Vesoul",
+            "hu": "Vieux Vesoul",
+            "ro": "Vieux Vesoul",
+            "en": "Vieux Vesoul"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernden engen Gassen der Altstadt, um das jahrhundertealte Erbe zu entdecken, aber achten Sie auf versteckte Innenhöfe hinter alten Türen.",
+            "hu": "Barangoljon az óváros bájos, szűk utcáin, hogy felfedezze az évszázadok óta megőrzött örökséget, de figyelje a régi ajtók mögött megbúvó titkos belső udvarokat is.",
+            "ro": "Plimbați-vă pe străzile înguste și fermecătoare ale orașului vechi pentru a descoperi patrimoniul istoric, dar fiți atenți la curțile ascunse din spatele ușilor vechi.",
+            "en": "Wander through the charming narrow streets of the old town to discover centuries of preserved heritage, but keep an eye out for hidden courtyards tucked behind ancient doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Georges-Garret",
+            "hu": "Musée Georges-Garret",
+            "ro": "Musée Georges-Garret",
+            "en": "Musée Georges-Garret"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum mit beeindruckenden Kunst- und regionalen Archäologiesammlungen und holen Sie sich unbedingt einen englischen Führer an der Rezeption.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely képzőművészeti és regionális régészeti gyűjteményeket mutat be, és mindenképpen kérjen egy angol nyelvű útmutatót a recepción.",
+            "ro": "Explorați acest muzeu fascinant ce găzduiește colecții impresionante de arte plastice și arheologie regională, asigurându-vă că luați un ghid de la recepția principală.",
+            "en": "Explore this fascinating museum featuring impressive fine arts and regional archaeology collections, making sure to grab an English guide at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vesoul-Vaivre",
+            "hu": "Lac de Vesoul-Vaivre",
+            "ro": "Lac de Vesoul-Vaivre",
+            "en": "Lac de Vesoul-Vaivre"
+          },
+          "coords": [
+            6.117361,
+            47.634941
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Freizeitsee, der sich perfekt für Wassersport eignet, und mieten Sie ein Fahrrad am nahegelegenen Kiosk, um die Gegend zu erkunden.",
+            "hu": "Pihenjen ezen a kiterjedt rekreációs tavon, amely tökéletes vízi sportokhoz, és béreljen kerékpárt a közeli kioszkból, hogy könnyebben felfedezhesse a teljes partvidéket.",
+            "ro": "Relaxați-vă lângă acest lac de agrement perfect pentru sporturi nautice sau o plimbare liniștită și închiriați o bicicletă de la chioșcul din apropiere pentru a explora.",
+            "en": "Relax by this extensive recreational lake perfect for watersports or a peaceful afternoon walk, and rent a bicycle from the nearby kiosk to cover more ground easily."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Église Saint-Georges und nehmen Sie sich Zeit für ihre historische Bedeutung. \n Radeln Sie zum Fuße der La Motte und wandern Sie für einen spektakulären Aussichtspunkt über das Tal auf den Gipfel. \n Fahren Sie ins Zentrum von Vieux Vesoul und besuchen Sie das nahe gelegene Musée Georges-Garret für eine Portion Kultur. \n Beenden Sie den Tag mit einer erfrischenden Fahrt zum Lac de Vesoul-Vaivre und entspannen Sie sich am Ufer nach einem aktiven Tag.",
+        "hu": "Indítsa kerékpártúráját az Église Saint-Georges templomnál, időt szánva annak történelmi jelentőségének megértésére. \n Tekerjen a La Motte lábához, majd tegyen egy rövid túrát a csúcsra, ahonnan lenyűgöző kilátás nyílik az egész völgyre. \n Guruljon be a Vieux Vesoul szívébe, hagyja hátra a biciklit, és látogasson el a lenyűgöző Musée Georges-Garret kiállításaira. \n Zárja a napot egy frissítő tekeréssel a Lac de Vesoul-Vaivre partján, pihenve a víz mellett egy aktív nap után.",
+        "ro": "Începeți turul cu bicicleta chiar la Église Saint-Georges, luându-vă timp pentru a-i aprecia importanța istorică. \n Pedalați până la baza La Motte, bucurându-vă de o scurtă drumeție până în vârf pentru un punct de observație spectaculos. \n Mergeți în inima Vieux Vesoul, lăsând bicicleta pentru a vizita străzile pietruite și Musée Georges-Garret din apropiere. \n Terminați cu o plimbare revigorantă până la Lac de Vesoul-Vaivre, relaxându-vă pe malul apei pentru a încheia ziua.",
+        "en": "Kick off your cycling tour right at Église Saint-Georges, taking time to appreciate its historic significance. \n Pedal your way to the foot of La Motte, enjoying a brief hike to the top for a spectacular vantage point over the valley. \n Cruise into the heart of Vieux Vesoul, leaving your bike briefly to walk the cobblestones and visit the nearby Musée Georges-Garret. \n Finish with a refreshing ride to Lac de Vesoul-Vaivre, relaxing by the water's edge to round off an active and scenic day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Vesoul",
+            "hu": "Vieux Vesoul",
+            "ro": "Vieux Vesoul",
+            "en": "Vieux Vesoul"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bezaubernden engen Gassen der Altstadt, um das jahrhundertealte Erbe zu entdecken, aber achten Sie auf versteckte Innenhöfe hinter alten Türen.",
+            "hu": "Barangoljon az óváros bájos, szűk utcáin, hogy felfedezze az évszázadok óta megőrzött örökséget, de figyelje a régi ajtók mögött megbúvó titkos belső udvarokat is.",
+            "ro": "Plimbați-vă pe străzile înguste și fermecătoare ale orașului vechi pentru a descoperi patrimoniul istoric, dar fiți atenți la curțile ascunse din spatele ușilor vechi.",
+            "en": "Wander through the charming narrow streets of the old town to discover centuries of preserved heritage, but keep an eye out for hidden courtyards tucked behind ancient doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Georges-Garret",
+            "hu": "Musée Georges-Garret",
+            "ro": "Musée Georges-Garret",
+            "en": "Musée Georges-Garret"
+          },
+          "coords": [
+            6.14012,
+            47.6331
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Museum mit beeindruckenden Kunst- und regionalen Archäologiesammlungen und holen Sie sich unbedingt einen englischen Führer an der Rezeption.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely képzőművészeti és regionális régészeti gyűjteményeket mutat be, és mindenképpen kérjen egy angol nyelvű útmutatót a recepción.",
+            "ro": "Explorați acest muzeu fascinant ce găzduiește colecții impresionante de arte plastice și arheologie regională, asigurându-vă că luați un ghid de la recepția principală.",
+            "en": "Explore this fascinating museum featuring impressive fine arts and regional archaeology collections, making sure to grab an English guide at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Georges",
+            "hu": "Église Saint-Georges",
+            "ro": "Église Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            6.156662,
+            47.623343
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Vesoul aus dem 18. Jahrhundert und besuchen Sie die Seitenkapellen für lokale Kunstwerke.",
+            "hu": "Csodálja meg a 18. századi építészet lenyűgöző részleteit Vesoul szívében, és feltétlenül tekintse meg a mellékkápolnákban rejtőző kiváló helyi műalkotásokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din secolul al XVIII-lea din inima orașului Vesoul și nu uitați să explorați capelele laterale pline de artă.",
+            "en": "Admire the striking 18th-century architecture of this historic church in the heart of Vesoul, and remember to check the side chapels for exquisite local artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "La Motte",
+            "hu": "La Motte",
+            "ro": "La Motte",
+            "en": "La Motte"
+          },
+          "coords": [
+            6.157804,
+            47.628656
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen ikonischen natürlichen Hügel, um einen atemberaubenden Panoramablick über Vesoul zu erleben, und tragen Sie festes Schuhwerk für den Aufstieg.",
+            "hu": "Mássza meg ezt az ikonikus természetes dombot a Vesoul és a környező völgy feletti lélegzetelállító panorámáért, és mindenképpen viseljen kényelmes túracipőt.",
+            "ro": "Urcați pe acest deal natural emblematic pentru a experimenta vederi panoramice uluitoare asupra orașului Vesoul, purtând încălțăminte robustă pentru urcușul abrupt.",
+            "en": "Climb up this iconic natural hill to experience breathtaking panoramic views over Vesoul and the surrounding valley, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vaivre",
+            "hu": "Lac de Vaivre",
+            "ro": "Lac de Vaivre",
+            "en": "Lac de Vaivre"
+          },
+          "coords": [
+            6.116667,
+            47.633333
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen Freizeitsee, der sich perfekt für Wassersport eignet, und mieten Sie ein Fahrrad am nahegelegenen Kiosk, um die Gegend zu erkunden.",
+            "hu": "Pihenjen ezen a kiterjedt rekreációs tavon, amely tökéletes vízi sportokhoz, és béreljen kerékpárt a közeli kioszkból, hogy könnyebben felfedezhesse a teljes partvidéket.",
+            "ro": "Relaxați-vă lângă acest lac de agrement perfect pentru sporturi nautice sau o plimbare liniștită și închiriați o bicicletă de la chioșcul din apropiere pentru a explora.",
+            "en": "Relax by this extensive recreational lake perfect for watersports or a peaceful afternoon walk, and rent a bicycle from the nearby kiosk to cover more ground easily."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit einem Parkplatz in der Nähe von Vieux Vesoul und tauchen Sie in die Atmosphäre der Altstadt ein. \n Ein kurzer Sprung bringt Sie zum Musée Georges-Garret, wo Sie tief in die lokale Kunst und Geschichte eintauchen können. \n Fahren Sie zur Église Saint-Georges, bevor Sie in Richtung La Motte fahren, um atemberaubende Aussichten zu genießen. \n Fahren Sie zum Lac de Vaivre für einen ruhigen Rückzugsort am späten Nachmittag, der den perfekten Abschluss Ihrer Tour bietet.",
+        "hu": "Kezdje autós útját a Vieux Vesoul közelében parkolva, egyenesen elmerülve a város bájos, régi világot idéző hangulatában. \n Egy rövid sétával elérheti a Musée Georges-Garret-t, ahol alaposan elmélyedhet a helyi művészetekben és történelemben. \n Vezessen át az Église Saint-Georges templomhoz, majd induljon el a La Motte felé a lenyűgöző délutáni kilátásért. \n Autózzon ki a Lac de Vaivre partjára egy békés késő délutáni kikapcsolódásra, amely tökéletes természetközeli lezárás.",
+        "ro": "Începeți excursia cu mașina parcând lângă Vieux Vesoul, pătrunzând direct în atmosfera fermecătoare a lumii vechi a orașului. \n Un salt scurt vă duce la Musée Georges-Garret, unde vă puteți cufunda profund în arta și istoria locală. \n Conduceți la Église Saint-Georges înainte de a vă îndrepta spre La Motte pentru a prinde vederi uluitoare de după-amiază. \n Conduceți până la Lac de Vaivre pentru o retragere pașnică după-amiaza târziu, oferind concluzia naturală perfectă.",
+        "en": "Start your road trip by parking near Vieux Vesoul, delving straight into the city's charming old-world atmosphere. \n A short hop brings you to the Musée Georges-Garret, where you can deeply immerse yourself in local arts and history. \n Drive over to Église Saint-Georges before heading up towards La Motte to catch breathtaking mid-afternoon views. \n Drive out to Lac de Vaivre for a peaceful late-afternoon retreat, offering the perfect natural conclusion to your driving tour."
+      }
+    }
+  }
+}

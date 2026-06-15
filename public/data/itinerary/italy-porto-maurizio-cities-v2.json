@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-porto-maurizio-cities-v2",
+  "anchor": {
+    "name": "Porto Maurizio",
+    "coords": [
+      8.01567,
+      43.87621
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo di San Maurizio",
+            "hu": "Duomo di San Maurizio",
+            "ro": "Duomo di San Maurizio",
+            "en": "Duomo di San Maurizio"
+          },
+          "coords": [
+            8.015807,
+            43.875499
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Pracht der größten Kirche Liguriens und kommen Sie früh, um das atemberaubende Licht ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg Liguria legnagyobb templomának neoklasszikus pompáját, és érkezzen korán, hogy a lenyűgöző fényeket még a tömeg előtt élvezhesse.",
+            "ro": "Admirați măreția neoclasică a celei mai mari biserici din Liguria, sosind devreme pentru a vă bucura de lumina uimitoare fără aglomerație.",
+            "en": "Marvel at the neoclassical grandeur of the largest church in Liguria, ensuring you step inside early to appreciate the stunning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del presepe e pinacoteca",
+            "hu": "Museo del presepe e pinacoteca",
+            "ro": "Museo del presepe e pinacoteca",
+            "en": "Museo del presepe e pinacoteca"
+          },
+          "coords": [
+            8.014267,
+            43.875285
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung detaillierter Weihnachtskrippen und lokaler Kunst und betrachten Sie die feine Handwerkskunst der historischen Figuren.",
+            "hu": "Fedezze fel a bonyolult betlehemek és a helyi művészet lenyűgöző gyűjteményét, különös figyelmet szentelve a történelmi figurák finom kidolgozásának.",
+            "ro": "Descoperiți o colecție fascinantă de scene complexe ale nașterii și artă locală, acordând atenție măiestriei delicate a figurinelor istorice.",
+            "en": "Discover a fascinating collection of intricate nativity scenes and local art, taking time to examine the delicate craftsmanship of the historical figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Pietro",
+            "hu": "Oratorio di San Pietro",
+            "ro": "Oratorio di San Pietro",
+            "en": "Oratorio di San Pietro"
+          },
+          "coords": [
+            8.013904,
+            43.873689
+          ],
+          "category": "religious",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ruhige barocke Oratorium ein, nehmen Sie sich einen Moment Zeit und bewundern Sie die wunderschönen Deckenfresken dieses historischen Juwels.",
+            "hu": "Lépjen be ebbe a nyugodt barokk oratóriumba, tartson egy rövid pihenőt, és csodálja meg a történelmi ékszerdobozt díszítő gyönyörű mennyezeti freskókat.",
+            "ro": "Pășiți în acest oratoriu baroc senin, luându-vă un moment pentru a sta în liniște și a admira frumoasele fresce de pe tavan care împodobesc această bijuterie.",
+            "en": "Step into this serene Baroque oratory, taking a moment to sit quietly and admire the beautiful ceiling frescoes that adorn this historical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Leonardo",
+            "hu": "Chiesa di San Leonardo",
+            "ro": "Chiesa di San Leonardo",
+            "en": "Chiesa di San Leonardo"
+          },
+          "coords": [
+            8.01574,
+            43.873473
+          ],
+          "category": "religious",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Geburtsort des Schutzpatrons von Imperia und spüren Sie die bescheidene, aber tief spirituelle Atmosphäre, die dieses kleine Heiligtum durchdringt.",
+            "hu": "Látogasson el Imperia védőszentjének szülőhelyére, és tapasztalja meg a szerény, mégis mélyen spirituális légkört, amely ezt a kis szentélyt átjárja.",
+            "ro": "Vizitați locul de naștere al sfântului patron al Imperiei, remarcând atmosfera umilă, dar profund spirituală, care străbate acest mic și prețuit sanctuar.",
+            "en": "Visit the birthplace of the patron saint of Imperia, noting the humble yet deeply spiritual atmosphere that pervades this small, cherished sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Cavour",
+            "hu": "Teatro Cavour",
+            "ro": "Teatro Cavour",
+            "en": "Teatro Cavour"
+          },
+          "coords": [
+            8.01449,
+            43.876262
+          ],
+          "category": "cultural",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters vom Platz aus und prüfen Sie den lokalen Spielplan auf abendliche Vorstellungen während Ihres Aufenthalts.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az elegáns homlokzatát a térről, és ellenőrizze a helyi műsorfüzetet az esetleges esti előadások miatt.",
+            "ro": "Apreciați fațada elegantă a acestui teatru istoric din piață și verificați programul local în caz că există spectacole de seară în timpul șederii dumneavoastră.",
+            "en": "Appreciate the elegant façade of this historic theater from the square, and check the local schedule in case there are evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo navale",
+            "hu": "Museo navale",
+            "ro": "Museo navale",
+            "en": "Museo navale"
+          },
+          "coords": [
+            8.019374,
+            43.879595
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche maritime Geschichte der Region anhand faszinierender Exponate und besuchen Sie unbedingt die interaktiven Stationen, die alle begeistern.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét a lenyűgöző kiállításokon keresztül, és mindenképpen próbálja ki a mindenki számára izgalmas interaktív kijelzőket.",
+            "ro": "Explorați bogata istorie maritimă a regiunii prin exponate fascinante, asigurându-vă că vizitați afișajele interactive pe care atât copiii, cât și adulții le adoră.",
+            "en": "Explore the rich maritime history of the region through fascinating exhibits, making sure to visit the interactive displays that children and adults both love."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am beeindruckenden Duomo und lassen Sie die massiven Säulen auf sich wirken. Entdecken Sie danach lokale Traditionen im Krippenmuseum. Mittag: Schlendern Sie durch die Gassen des Parasio-Viertels zum charmanten Oratorio di San Pietro und zur Chiesa di San Leonardo. Nachmittag: Besichtigen Sie das Teatro Cavour, bevor Sie in die Welt des Schifffahrtsmuseums eintauchen. Abend: Genießen Sie einen Spaziergang am Yachthafen und probieren Sie frische ligurische Meeresfrüchte in einer Trattoria am Wasser, während die Sonne langsam untergeht.",
+        "hu": "Reggel: Kezdje a napot a lenyűgöző Duomo-nál, majd merüljön el a helyi hagyományokban a közeli Betlehem Múzeumban, élvezve a nyugodt reggeli hangulatot. Dél: Sétáljon végig a Parasio negyed kanyargós sikátorain, hogy felfedezze a bájos Oratorio di San Pietro-t és a Chiesa di San Leonardo-t. Délután: Ereszkedjen le a Teatro Cavour klasszikus épületéhez, majd töltsön el néhány órát a kiterjedt Tengerészeti Múzeumban. Este: Élvezze a kellemes sétát a kikötőben, és kóstoljon meg néhány friss liguriai tengeri herkentyűt egy vízparti trattoriában a naplementében.",
+        "ro": "Dimineața: Începeți la impresionantul Duomo, lăsând interiorul său luminos să seteze un ton măreț, înainte de a descoperi tradițiile locale la Muzeul Nașterii Domnului. Prânz: Plimbați-vă pe aleile șerpuite ale cartierului Parasio pentru a găsi fermecătorul Oratoriu San Pietro și Biserica San Leonardo. După-amiaza: Coborâți pentru a vedea clasicul Teatro Cavour, înainte de a petrece câteva ore captivante la Muzeul Naval. Seara: Bucurați-vă de o plimbare plăcută pe lângă portul de agrement, gustând fructe de mare proaspete la o trattoria pe malul apei la apus.",
+        "en": "Morning: Begin at the awe-inspiring Duomo, letting its massive pillars and bright interior set a grand tone. Shortly after, dive into local traditions at the nearby Nativity Museum. Midday: Wander through the winding alleys of the Parasio district to find the charming Oratorio di San Pietro and Chiesa di San Leonardo. Afternoon: Descend towards the lively central areas to view the classic Teatro Cavour before spending a few immersive hours at the expansive Naval Museum. Evening: Enjoy a pleasant stroll down by the marina, tasting some fresh Ligurian seafood at a waterfront trattoria as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 2.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Faravelli",
+            "hu": "Villa Faravelli",
+            "ro": "Villa Faravelli",
+            "en": "Villa Faravelli"
+          },
+          "coords": [
+            8.025856,
+            43.884295
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppigen Gärten dieser eleganten Villa aus den 1930er Jahren und betrachten Sie die zeitgenössische Kunstsammlung in den feinen Räumen.",
+            "hu": "Sétáljon végig az 1930-as évekbeli elegáns villát körülvevő buja kerteken, és szánjon időt a kifinomult termekben található kortárs művészeti gyűjteményre.",
+            "ro": "Plimbați-vă prin grădinile luxuriante din jurul acestei vile elegante din anii 1930, admirând colecția de artă contemporană găzduită în camerele sale rafinate.",
+            "en": "Stroll through the lush gardens surrounding this elegant 1930s villa, taking time to view the contemporary art collection housed within its refined rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo navale",
+            "hu": "Museo navale",
+            "ro": "Museo navale",
+            "en": "Museo navale"
+          },
+          "coords": [
+            8.019374,
+            43.879595
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche maritime Geschichte der Region anhand faszinierender Exponate und besuchen Sie unbedingt die interaktiven Stationen, die alle begeistern.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét a lenyűgöző kiállításokon keresztül, és mindenképpen próbálja ki a mindenki számára izgalmas interaktív kijelzőket.",
+            "ro": "Explorați bogata istorie maritimă a regiunii prin exponate fascinante, asigurându-vă că vizitați afișajele interactive pe care atât copiii, cât și adulții le adoră.",
+            "en": "Explore the rich maritime history of the region through fascinating exhibits, making sure to visit the interactive displays that children and adults both love."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Cavour",
+            "hu": "Teatro Cavour",
+            "ro": "Teatro Cavour",
+            "en": "Teatro Cavour"
+          },
+          "coords": [
+            8.01449,
+            43.876262
+          ],
+          "category": "cultural",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters vom Platz aus und prüfen Sie den lokalen Spielplan auf abendliche Vorstellungen während Ihres Aufenthalts.",
+            "hu": "Csodálja meg ennek a történelmi színháznak az elegáns homlokzatát a térről, és ellenőrizze a helyi műsorfüzetet az esetleges esti előadások miatt.",
+            "ro": "Apreciați fațada elegantă a acestui teatru istoric din piață și verificați programul local în caz că există spectacole de seară în timpul șederii dumneavoastră.",
+            "en": "Appreciate the elegant façade of this historic theater from the square, and check the local schedule in case there are evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Maurizio",
+            "hu": "Duomo di San Maurizio",
+            "ro": "Duomo di San Maurizio",
+            "en": "Duomo di San Maurizio"
+          },
+          "coords": [
+            8.015807,
+            43.875499
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Pracht der größten Kirche Liguriens und kommen Sie früh, um das atemberaubende Licht ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg Liguria legnagyobb templomának neoklasszikus pompáját, és érkezzen korán, hogy a lenyűgöző fényeket még a tömeg előtt élvezhesse.",
+            "ro": "Admirați măreția neoclasică a celei mai mari biserici din Liguria, sosind devreme pentru a vă bucura de lumina uimitoare fără aglomerație.",
+            "en": "Marvel at the neoclassical grandeur of the largest church in Liguria, ensuring you step inside early to appreciate the stunning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo delle Confraternite",
+            "hu": "Museo delle Confraternite",
+            "ro": "Museo delle Confraternite",
+            "en": "Museo delle Confraternite"
+          },
+          "coords": [
+            8.005046,
+            43.873779
+          ],
+          "category": "museum",
+          "arrive_at": "15:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte der lokalen Bruderschaften und ihre Artefakte. Fragen Sie das Personal nach den traditionellen Prozessionsgewändern.",
+            "hu": "Merüljön el a helyi testvériségek és vallási leleteik lenyűgöző történetében, és kérdezze meg a hozzáértő személyzetet a hagyományos körmeneti ruhákról.",
+            "ro": "Pătrundeți în istoria fascinantă a frățiilor locale și a artefactelor lor religioase, întrebând personalul informat despre veșmintele tradiționale de procesiune.",
+            "en": "Delve into the fascinating history of local brotherhoods and their religious artifacts, asking the knowledgeable staff about the traditional procession robes."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Benedetto Revelli",
+            "hu": "Chiesa di San Benedetto Revelli",
+            "ro": "Chiesa di San Benedetto Revelli",
+            "en": "Chiesa di San Benedetto Revelli"
+          },
+          "coords": [
+            8.009581,
+            43.872027
+          ],
+          "category": "religious",
+          "arrive_at": "17:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem friedlichen Heiligtum, genießen Sie den ruhigen Innenhof und nehmen Sie sich Zeit zum Nachdenken abseits des Trubels.",
+            "hu": "Fejezze be kerékpározását ezen a békés szentélyen, élvezze a csendes udvart, és tartson egy kis szünetet a nyüzsgő városközpontba való visszatérés előtt.",
+            "ro": "Încheiați-vă plimbarea la acest sanctuar pașnic, bucurându-vă de curtea liniștită și luându-vă câteva momente de reflecție înainte de a vă întoarce în centru.",
+            "en": "End your ride at this peaceful sanctuary, enjoying the quiet courtyard and taking a few moments to reflect before heading back to the bustling town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie mit einer luftigen Fahrt zur Villa Faravelli und erkunden Sie zeitgenössische Kunst, bevor Sie zum Marinemuseum am Hafen weiterradeln. Mittag: Treten Sie gemütlich in Richtung Zentrum, um das historische Teatro Cavour und den monumentalen Duomo di San Maurizio zu bewundern. Nachmittag: Fahren Sie nach Westen, um das Museo delle Confraternite zu entdecken und an der Chiesa di San Benedetto Revelli Ruhe zu finden. Abend: Fahren Sie auf dem ausgezeichneten Radweg entlang der Küste, genießen Sie die Meeresbrise und ein wohlverdientes Gelato zum Abschluss des Tages.",
+        "hu": "Reggel: Kezdjen egy frissítő tekeréssel a Villa Faravellihez a kortárs művészetért, majd kerékpározzon le a kikötő melletti vonzó Tengerészeti Múzeumhoz. Dél: Kényelmes tempóban haladjon a központ felé a Teatro Cavour és a monumentális Duomo di San Maurizio megtekintéséhez, ahol megebédelhet. Délután: Tekerjen nyugatra, hogy feltárja a Museo delle Confraternite rejtett történetét, és békét találjon a Chiesa di San Benedetto Revelli-nél. Este: Guruljon végig a tengerparti kiváló kerékpárúton, élvezve a tengeri szellőt és egy jól megérdemelt fagylaltot a nap zárásaként.",
+        "ro": "Dimineața: Începeți cu o plimbare răcoroasă spre Villa Faravelli, cufundându-vă în arta contemporană, înainte de a pedala spre Muzeul Naval de lângă port. Prânz: Pedalați ușor spre centru pentru a admira istoricul Teatro Cavour și monumentalul Dom, legând bicicleta pentru o gustare rapidă în apropiere. După-amiaza: Mergeți spre vest pentru a descoperi Muzeul Confraternităților și a găsi liniște la Biserica San Benedetto Revelli. Seara: Plimbați-vă de-a lungul coastei pe pista de biciclete excelentă, bucurându-vă de briza mării și de un gelato bine meritat la sfârșitul zilei.",
+        "en": "Morning: Kick off with a breezy ride to Villa Faravelli, immersing yourself in contemporary art, before cycling down to the engaging Naval Museum by the port. Midday: Pedal gently towards the center to admire the historic Teatro Cavour and the monumental Duomo di San Maurizio, locking up the bike for a quick bite nearby. Afternoon: Ride westward to uncover the hidden histories at the Museo delle Confraternite and find tranquility at Chiesa di San Benedetto Revelli. Evening: Cruise along the coastline on the excellent cycle path, enjoying the sea breeze and a well-deserved gelato as the day concludes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 6.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Imperia",
+            "hu": "Municipio di Imperia",
+            "ro": "Municipio di Imperia",
+            "en": "Municipio di Imperia"
+          },
+          "coords": [
+            8.027842,
+            43.885599
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um die Architektur dieses Rathauses zu bewundern – ein idealer Ausgangspunkt, um das administrative Herz von Imperia zu verstehen.",
+            "hu": "Parkoljon le a közelben, és csodálja meg a lenyűgöző városháza polgári építészetét, amely ideális kiindulópont Imperia adminisztratív szívének megértéséhez.",
+            "ro": "Parcați în apropiere pentru a admira arhitectura civică a acestei primării impresionante, un punct de plecare ideal pentru a înțelege centrul modern al Imperiei.",
+            "en": "Park nearby to admire the civic architecture of this impressive town hall, an ideal starting point to understand the administrative heart of modern Imperia."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Faravelli",
+            "hu": "Villa Faravelli",
+            "ro": "Villa Faravelli",
+            "en": "Villa Faravelli"
+          },
+          "coords": [
+            8.025856,
+            43.884295
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppigen Gärten dieser eleganten Villa aus den 1930er Jahren und betrachten Sie die zeitgenössische Kunstsammlung in den feinen Räumen.",
+            "hu": "Sétáljon végig az 1930-as évekbeli elegáns villát körülvevő buja kerteken, és szánjon időt a kifinomult termekben található kortárs művészeti gyűjteményre.",
+            "ro": "Plimbați-vă prin grădinile luxuriante din jurul acestei vile elegante din anii 1930, admirând colecția de artă contemporană găzduită în camerele sale rafinate.",
+            "en": "Stroll through the lush gardens surrounding this elegant 1930s villa, taking time to view the contemporary art collection housed within its refined rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo navale",
+            "hu": "Museo navale",
+            "ro": "Museo navale",
+            "en": "Museo navale"
+          },
+          "coords": [
+            8.019374,
+            43.879595
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche maritime Geschichte der Region anhand faszinierender Exponate und besuchen Sie unbedingt die interaktiven Stationen, die alle begeistern.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét a lenyűgöző kiállításokon keresztül, és mindenképpen próbálja ki a mindenki számára izgalmas interaktív kijelzőket.",
+            "ro": "Explorați bogata istorie maritimă a regiunii prin exponate fascinante, asigurându-vă că vizitați afișajele interactive pe care atât copiii, cât și adulții le adoră.",
+            "en": "Explore the rich maritime history of the region through fascinating exhibits, making sure to visit the interactive displays that children and adults both love."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Maurizio",
+            "hu": "Duomo di San Maurizio",
+            "ro": "Duomo di San Maurizio",
+            "en": "Duomo di San Maurizio"
+          },
+          "coords": [
+            8.015807,
+            43.875499
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Pracht der größten Kirche Liguriens und kommen Sie früh, um das atemberaubende Licht ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg Liguria legnagyobb templomának neoklasszikus pompáját, és érkezzen korán, hogy a lenyűgöző fényeket még a tömeg előtt élvezhesse.",
+            "ro": "Admirați măreția neoclasică a celei mai mari biserici din Liguria, sosind devreme pentru a vă bucura de lumina uimitoare fără aglomerație.",
+            "en": "Marvel at the neoclassical grandeur of the largest church in Liguria, ensuring you step inside early to appreciate the stunning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Bernardo",
+            "hu": "Cappella di San Bernardo",
+            "ro": "Cappella di San Bernardo",
+            "en": "Cappella di San Bernardo"
+          },
+          "coords": [
+            7.996307,
+            43.869262
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser bezaubernden Kapelle am Hang und nutzen Sie den Stopp, um den Panoramablick auf die Olivenhaine und die ferne Küste zu genießen.",
+            "hu": "Vezessen fel ehhez a bájos hegyoldali kápolnához, és élvezze az olajfaligetekre és a távoli tengerpartra nyíló lenyűgöző panorámát ebből a magasságból.",
+            "ro": "Conduceți până la această capelă fermecătoare de pe deal, profitând de scurta oprire pentru a aprecia priveliștile panoramice ale livezilor de măslini din jur.",
+            "en": "Drive up to this charming hillside chapel, using the brief stop to appreciate the panoramic views of the surrounding olive groves and the distant coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Giacomo",
+            "hu": "Oratorio di San Giacomo",
+            "ro": "Oratorio di San Giacomo",
+            "en": "Oratorio di San Giacomo"
+          },
+          "coords": [
+            7.999029,
+            43.892953
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem historischen, in den Hügeln gelegenen Oratorium und machen Sie im weichen Nachmittagslicht Fotos von seinem rustikalen Charme.",
+            "hu": "Fejezze be festői útját ezen a dombok között megbúvó történelmi oratóriumon, és mindenképpen készítsen fotókat a rusztikus bájáról a lágy délutáni fényben.",
+            "ro": "Încheiați călătoria pitorească la acest oratoriu istoric cuibărit în dealuri, asigurându-vă că surprindeți farmecul său rustic în lumina blândă a după-amiezii.",
+            "en": "Conclude your scenic drive at this historic oratory nestled in the hills, making sure to capture photos of its rustic charm in the soft afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Autotour im Stadtteil Oneglia am großen Municipio und machen Sie dann einen kurzen Sprung zur edlen Villa Faravelli. Mittag: Fahren Sie hinunter zum Jachthafen für das Marinemuseum und wechseln Sie dann ins historische Zentrum von Porto Maurizio, um den majestätischen Dom zu sehen. Nachmittag: Lassen Sie die belebten Straßen hinter sich und fahren Sie in die Hügel, um die idyllische Cappella di San Bernardo und das Oratorio di San Giacomo zu entdecken. Abend: Fahren Sie zurück an die Küste nach Borgo Prino für ein entspanntes Abendessen mit Meerblick und lassen Sie den Tag ausklingen.",
+        "hu": "Reggel: Kezdje autós túráját az Oneglia negyedben a lenyűgöző Municipiónál, majd tegyen egy rövid kitérőt az elegáns Villa Faravelli művészeti gyűjteményeihez. Dél: Hajtson le a kikötőbe a tágas Tengerészeti Múzeumhoz, majd váltson a történelmi Porto Maurizio központra, ahol a hatalmas Duomo található. Délután: Hagyja maga mögött a forgalmas utcákat, és vezessen fel a festői dombok közé, hogy felfedezze a bájos Cappella di San Bernardo-t és az Oratorio di San Giacomo-t. Este: Térjen vissza a nyüzsgő Borgo Prino tengerpartjára egy pihentető, tengerre néző vacsorára, a régió sokszínűségén merengve.",
+        "ro": "Dimineața: Începeți turul cu mașina în zona Oneglia la grandiosul Municipio, apoi faceți o scurtă oprire la rafinata Villa Faravelli pentru a explora arta. Prânz: Conduceți până la port pentru Muzeul Naval, urmat de o scurtă deplasare în centrul istoric al orașului Porto Maurizio pentru a vizita masivul Dom. După-amiaza: Lăsați străzile aglomerate în urmă și conduceți spre dealurile pitorești pentru a descoperi pitoreasca Capelă San Bernardo și Oratoriul rustic San Giacomo. Seara: Conduceți înapoi la fâșia de coastă animată Borgo Prino pentru o cină relaxată cu vedere la mare la sfârșitul zilei.",
+        "en": "Morning: Start your driving tour in the Oneglia area at the grand Municipio di Imperia, then take a short hop to the refined Villa Faravelli to explore its art collections. Midday: Drive down to the marina to visit the expansive Naval Museum, followed by a quick shift to Porto Maurizio's historical center for the massive Duomo di San Maurizio. Afternoon: Leave the busy streets behind and drive up into the scenic hills to discover the quaint Cappella di San Bernardo and the rustic Oratorio di San Giacomo. Evening: Drive back down to the lively coastal strip of Borgo Prino for a relaxed dinner with sea views, reflecting on the region's diverse beauty."
+      }
+    }
+  }
+}

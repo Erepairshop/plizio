@@ -1,0 +1,451 @@
+{
+  "city_id": "malta-comino-cities-v2",
+  "anchor": {
+    "name": "Comino",
+    "coords": [
+      14.3365,
+      36.0125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+            "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+            "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+            "en": "Chapel of Our Lady's Return from Egypt"
+          },
+          "coords": [
+            14.335819,
+            36.015073
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese reizvolle historische Kapelle aus dem Jahr 1618, aber respektieren Sie die ruhige Atmosphäre, da hier noch lokale Messen stattfinden.",
+            "hu": "Csodálja meg ezt a bájos, 1618-ból származó történelmi kápolnát, de tartsa tiszteletben a csendet, mivel alkalmanként még tartanak itt helyi miséket.",
+            "ro": "Admirați această capelă istorică fermecătoare care datează din 1618, dar asigurați-vă că respectați liniștea deoarece aici se mai oficiază liturghii.",
+            "en": "Admire this charming historic chapel which dates back to 1618, but be sure to respect the quiet atmosphere as it occasionally still hosts local mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Lagune",
+            "hu": "Kék Lagúna",
+            "ro": "Laguna Albastră",
+            "en": "Blue Lagoon"
+          },
+          "coords": [
+            14.323376,
+            36.014039
+          ],
+          "category": "landmark",
+          "arrive_at": "10:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie das kristallklare, türkisfarbene Wasser dieses ikonischen Ortes und kommen Sie früh morgens, um vor den Touristenbooten einen guten Platz zu finden.",
+            "hu": "Élvezze ezen ikonikus hely kristálytiszta türkizkék vizét, és érkezzen kora reggel, hogy jó helyet biztosítson magának a turistahajók megérkezése előtt.",
+            "ro": "Experimentați apele turcoaz cristaline ale acestui loc iconic și sosiți devreme dimineața pentru a prinde un loc bun înainte de sosirea ambarcațiunilor.",
+            "en": "Experience the crystal-clear turquoise waters of this iconic spot, and arrive early in the morning to secure a good place before the tourist boats arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mary Tower",
+            "hu": "Saint Mary torony",
+            "ro": "Turnul Saint Mary",
+            "en": "Saint Mary Tower"
+          },
+          "coords": [
+            14.329771,
+            36.006873
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen beeindruckenden Wachturm aus dem 17. Jahrhundert für atemberaubende Küstenpanoramen und prüfen Sie die Flagge für die Dachöffnung.",
+            "hu": "Másszon fel erre a lenyűgöző 17. századi őrtoronyra a lélegzetelállító tengerparti panorámáért, és figyelje a zászlót, amely jelzi a nyitvatartást.",
+            "ro": "Urcați în acest formidabil turn de veghe din secolul al XVII-lea pentru panorame de coastă uluitoare și verificați steagul pentru a vedea dacă acoperișul este deschis.",
+            "en": "Climb up to this formidable 17th-century watchtower for breathtaking coastal panoramas, and check the flag to see if the roof is open for public viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mary's Gun Battery",
+            "hu": "Saint Mary ágyúüteg",
+            "ro": "Bateria de tunuri Saint Mary",
+            "en": "Saint Mary's Gun Battery"
+          },
+          "coords": [
+            14.346217,
+            36.006673
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenverteidigungsanlage mit authentischen Eisenkanonen und tragen Sie festes Schuhwerk, da der Kalkstein sehr uneben ist.",
+            "hu": "Fedezze fel ezt a lenyűgöző, autentikus ágyúkkal felszerelt partvédelmi építményt, és viseljen masszív túracipőt, mivel a környező mészkő eléggé egyenetlen.",
+            "ro": "Explorați această fascinantă structură de apărare a coastei înarmată cu tunuri autentice de fier și purtați încălțăminte robustă deoarece calcarul este denivelat.",
+            "en": "Explore this fascinating coastal defense structure armed with authentic iron cannons, and wear sturdy walking shoes as the surrounding limestone is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Marija Caves Tauchplatz",
+            "hu": "Santa Marija barlangok merülőhely",
+            "ro": "Loc de scufundări Peșterile Santa Marija",
+            "en": "Santa Marija Caves Dive Site"
+          },
+          "coords": [
+            14.34023,
+            36.017993
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein Unterwasserwunderland aus Höhlen und maritimem Leben, aber schwimmen Sie nur mit einer geeigneten Schnorchel- oder Tauchausrüstung hinein.",
+            "hu": "Fedezze fel a barlangok és a változatos tengeri élővilág víz alatti csodavilágát, de csak megfelelő búvárfelszereléssel próbáljon meg bent úszkálni.",
+            "ro": "Descoperiți un peisaj subacvatic de peșteri și viață marină diversă, dar înotați înăuntru doar dacă aveți un echipament adecvat de snorkeling sau scufundări.",
+            "en": "Discover an underwater wonderland of interconnected caves and diverse marine life, but only attempt swimming inside if you have proper snorkeling or diving gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Wanderabenteuer an der ruhigen Kapelle und genießen Sie Cominos friedliche Morgenatmosphäre, bevor die Hitze einsetzt.\n\nErreichen Sie die berühmte Blaue Lagune, um ihre Farben zu bewundern, und spazieren Sie dann zum imposanten Saint Mary Tower.\n\nSetzen Sie Ihre Küstenwanderung zur historischen Saint Mary's Gun Battery fort und genießen Sie dabei die dramatischen Kalksteinklippen.\n\nBeenden Sie den Tag an den Santa Marija Caves und lassen Sie die natürliche Schönheit der Insel im warmen Licht der späten Nachmittagssonne auf sich wirken.",
+        "hu": "Kezdje gyalogos kalandját a csendes kápolnánál, átölelve Comino békés reggeli hangulatát, még mielőtt a nagy hőség beköszöntene.\n\nÉrkezzen meg a híres Kék Lagúnához, csodálja meg színeit, majd tegyen egy festői sétát az impozáns Saint Mary torony felé.\n\nFolytassa parti túráját a történelmi Saint Mary ágyúüteghez, élvezve a drámai mészkősziklák nyújtotta páratlan kilátást az út során.\n\nFejezze be a napot a Santa Marija barlangok közelében, elmerengve a sziget természetes szépségében a késő délutáni nap aranyló fényében.",
+        "ro": "Începeți aventura la pas la capela liniștită, bucurându-vă de atmosfera pașnică a dimineții din Comino înainte de apariția căldurii.\n\nAjungeți la faimoasa Laguna Albastră pentru a admira culorile sale uluitoare, apoi faceți o plimbare spre impunătorul Turn Saint Mary.\n\nContinuați drumeția de coastă către istorica Baterie Saint Mary, bucurându-vă de stâncile spectaculoase de calcar de-a lungul drumului.\n\nÎncheiați ziua lângă peșterile Santa Marija, reflectând la frumusețea naturală a insulei în timp ce soarele după-amiezii aruncă o lumină aurie.",
+        "en": "Start your walking adventure at the quiet Chapel, embracing Comino's peaceful morning atmosphere before the heat sets in.\n\nArrive at the famous Blue Lagoon to witness its stunning colors, then take a scenic stroll toward the imposing Saint Mary Tower.\n\nContinue your coastal trek to the historic Saint Mary's Gun Battery, enjoying the dramatic limestone cliffs along the way.\n\nEnd your day near the Santa Marija Caves, reflecting on the island's natural beauty as the late afternoon sun casts a golden glow."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Anthony's Battery",
+            "hu": "Saint Anthony üteg",
+            "ro": "Bateria Saint Anthony",
+            "en": "Saint Anthony's Battery"
+          },
+          "coords": [
+            14.335208,
+            36.032701
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese gut erhaltene Batterie der Johanniter an der Nordspitze und bringen Sie reichlich Wasser mit, da diese abgelegene Ecke wenig Schatten bietet.",
+            "hu": "Csodálja meg a Szent János Lovagrend jól megőrzött ütegét az északi csücsökben, és hozzon magával bőségesen vizet, mivel ez az eldugott sarok árnyékmentes.",
+            "ro": "Admirați această baterie bine conservată a Cavalerilor de Sf. Ioan de pe vârful nordic și aduceți multă apă, deoarece acest colț îndepărtat nu are umbră.",
+            "en": "Marvel at this well-preserved Knights of St. John battery on the northern tip, and bring plenty of water as this remote corner of the island lacks any shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Marija Riff Tauchplatz",
+            "hu": "Santa Marija zátony merülőhely",
+            "ro": "Loc de scufundări Reciful Santa Marija",
+            "en": "Santa Marija Reef Dive Site"
+          },
+          "coords": [
+            14.340423,
+            36.019037
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das lebendige Unterwasserökosystem rund um dieses spektakuläre Riff und lassen Sie sich wegen der Strömungen immer von einem Guide begleiten.",
+            "hu": "Merüljön el a látványos zátonyt körülvevő élénk víz alatti ökoszisztémában, és az időnként erős áramlatok miatt mindig gondoskodjon tapasztalt vezetőről.",
+            "ro": "Scufundați-vă în ecosistemul vibrant care înconjoară acest recif spectaculos și asigurați-vă întotdeauna că sunteți însoțit de un ghid din cauza curenților.",
+            "en": "Dive into the vibrant underwater ecosystem surrounding this spectacular reef, and always ensure you are accompanied by a guide due to occasional strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+            "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+            "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+            "en": "Chapel of Our Lady's Return from Egypt"
+          },
+          "coords": [
+            14.335819,
+            36.015073
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese reizvolle historische Kapelle aus dem Jahr 1618, aber respektieren Sie die ruhige Atmosphäre, da hier noch lokale Messen stattfinden.",
+            "hu": "Csodálja meg ezt a bájos, 1618-ból származó történelmi kápolnát, de tartsa tiszteletben a csendet, mivel alkalmanként még tartanak itt helyi miséket.",
+            "ro": "Admirați această capelă istorică fermecătoare care datează din 1618, dar asigurați-vă că respectați liniștea deoarece aici se mai oficiază liturghii.",
+            "en": "Admire this charming historic chapel which dates back to 1618, but be sure to respect the quiet atmosphere as it occasionally still hosts local mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Lagune",
+            "hu": "Kék Lagúna",
+            "ro": "Laguna Albastră",
+            "en": "Blue Lagoon"
+          },
+          "coords": [
+            14.323376,
+            36.014039
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie das kristallklare, türkisfarbene Wasser dieses ikonischen Ortes und kommen Sie früh morgens, um vor den Touristenbooten einen guten Platz zu finden.",
+            "hu": "Élvezze ezen ikonikus hely kristálytiszta türkizkék vizét, és érkezzen kora reggel, hogy jó helyet biztosítson magának a turistahajók megérkezése előtt.",
+            "ro": "Experimentați apele turcoaz cristaline ale acestui loc iconic și sosiți devreme dimineața pentru a prinde un loc bun înainte de sosirea ambarcațiunilor.",
+            "en": "Experience the crystal-clear turquoise waters of this iconic spot, and arrive early in the morning to secure a good place before the tourist boats arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mary Tower",
+            "hu": "Saint Mary torony",
+            "ro": "Turnul Saint Mary",
+            "en": "Saint Mary Tower"
+          },
+          "coords": [
+            14.329771,
+            36.006873
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen beeindruckenden Wachturm aus dem 17. Jahrhundert für atemberaubende Küstenpanoramen und prüfen Sie die Flagge für die Dachöffnung.",
+            "hu": "Másszon fel erre a lenyűgöző 17. századi őrtoronyra a lélegzetelállító tengerparti panorámáért, és figyelje a zászlót, amely jelzi a nyitvatartást.",
+            "ro": "Urcați în acest formidabil turn de veghe din secolul al XVII-lea pentru panorame de coastă uluitoare și verificați steagul pentru a vedea dacă acoperișul este deschis.",
+            "en": "Climb up to this formidable 17th-century watchtower for breathtaking coastal panoramas, and check the flag to see if the roof is open for public viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mary's Gun Battery",
+            "hu": "Saint Mary ágyúüteg",
+            "ro": "Bateria de tunuri Saint Mary",
+            "en": "Saint Mary's Gun Battery"
+          },
+          "coords": [
+            14.346217,
+            36.006673
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenverteidigungsanlage mit authentischen Eisenkanonen und tragen Sie festes Schuhwerk, da der Kalkstein sehr uneben ist.",
+            "hu": "Fedezze fel ezt a lenyűgöző, autentikus ágyúkkal felszerelt partvédelmi építményt, és viseljen masszív túracipőt, mivel a környező mészkő eléggé egyenetlen.",
+            "ro": "Explorați această fascinantă structură de apărare a coastei înarmată cu tunuri autentice de fier și purtați încălțăminte robustă deoarece calcarul este denivelat.",
+            "en": "Explore this fascinating coastal defense structure armed with authentic iron cannons, and wear sturdy walking shoes as the surrounding limestone is quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Saint Anthony's Battery und genießen Sie früh am Tag die kühle Meeresbrise und das raue nördliche Gelände.\n\nRadeln Sie in Richtung des Santa Marija Riffs und der historischen Kapelle und halten Sie inne, um das spirituelle Erbe der Insel zu würdigen.\n\nFahren Sie hinunter zur atemberaubenden Blauen Lagune für eine Pause und dann hinauf zur beeindruckenden Präsenz des Saint Mary Towers.\n\nBeenden Sie Ihre Reise an der Saint Mary's Gun Battery und betrachten Sie den weiten Blick auf den Ozean, während Sie Ihre Beine ausruhen.",
+        "hu": "Kezdje kerékpártúráját a Saint Anthony ütegnél, élvezve a hűvös tengeri szellőt és a zord északi terepet a nap elején.\n\nTekerjen a Santa Marija zátony és a történelmi kápolna felé, megpihenve egy pillanatra, hogy értékelje a sziget szellemi örökségét.\n\nEreszkedjen le a lélegzetelállító Kék Lagúnához egy rövid pihenőre, majd kapaszkodjon fel az uralkodó Saint Mary toronyhoz.\n\nFejezze be útját a Saint Mary ágyúütegnél, gyönyörködve a végtelen óceáni kilátásban, miközben megpihenteti lábait az aktív nap után.",
+        "ro": "Începeți turul cu bicicleta la Bateria Saint Anthony, bucurându-vă de briza răcoroasă a mării și de terenul accidentat din nord devreme.\n\nPedalați spre reciful Santa Marija și capela istorică, oprindu-vă pentru a aprecia moștenirea spirituală și naturală a insulei.\n\nCoborâți spre uluitoarea Laguna Albastră pentru o scurtă pauză, apoi urcați spre prezența impunătoare a Turnului Saint Mary.\n\nÎncheiați călătoria la Bateria Saint Mary, privind priveliștile vaste ale oceanului în timp ce vă odihniți picioarele după o după-amiază activă.",
+        "en": "Kick off your cycling tour at Saint Anthony's Battery, enjoying the cool sea breeze and rugged northern terrain early in the day.\n\nPedal towards the Santa Marija Reef and the historic Chapel, pausing to appreciate the island's spiritual and natural heritage.\n\nRide down to the breathtaking Blue Lagoon for a quick break, then push upward toward the commanding presence of Saint Mary Tower.\n\nConclude your journey at Saint Mary's Gun Battery, watching the sweeping ocean views as you rest your legs after an active afternoon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Mary Tower",
+            "hu": "Saint Mary torony",
+            "ro": "Turnul Saint Mary",
+            "en": "Saint Mary Tower"
+          },
+          "coords": [
+            14.329771,
+            36.006873
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen beeindruckenden Wachturm aus dem 17. Jahrhundert für atemberaubende Küstenpanoramen und prüfen Sie die Flagge für die Dachöffnung.",
+            "hu": "Másszon fel erre a lenyűgöző 17. századi őrtoronyra a lélegzetelállító tengerparti panorámáért, és figyelje a zászlót, amely jelzi a nyitvatartást.",
+            "ro": "Urcați în acest formidabil turn de veghe din secolul al XVII-lea pentru panorame de coastă uluitoare și verificați steagul pentru a vedea dacă acoperișul este deschis.",
+            "en": "Climb up to this formidable 17th-century watchtower for breathtaking coastal panoramas, and check the flag to see if the roof is open for public viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchplatz und Schiffswrack",
+            "hu": "Merülőhely és hajóroncs",
+            "ro": "Loc de scufundare și epavă",
+            "en": "Dive Site and Shipwreck"
+          },
+          "coords": [
+            14.336121,
+            36.005099
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Tiefe ab, um die unheimlichen Überreste eines gesunkenen Schiffes zu erkunden, und prüfen Sie vorher die Sichtverhältnisse für das beste Erlebnis.",
+            "hu": "Merüljön a mélybe, hogy felfedezze egy elsüllyedt hajó kísérteties maradványait, és a legjobb élmény érdekében előtte mindenképpen ellenőrizze a látási viszonyokat.",
+            "ro": "Scufundați-vă în adâncuri pentru a explora rămășițele înfricoșătoare ale unei nave scufundate, asigurându-vă că verificați vizibilitatea în prealabil.",
+            "en": "Plunge into the depths to explore the eerie remains of a sunken vessel, making sure to check visibility conditions beforehand for the most rewarding experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Mary's Gun Battery",
+            "hu": "Saint Mary ágyúüteg",
+            "ro": "Bateria de tunuri Saint Mary",
+            "en": "Saint Mary's Gun Battery"
+          },
+          "coords": [
+            14.346217,
+            36.006673
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenverteidigungsanlage mit authentischen Eisenkanonen und tragen Sie festes Schuhwerk, da der Kalkstein sehr uneben ist.",
+            "hu": "Fedezze fel ezt a lenyűgöző, autentikus ágyúkkal felszerelt partvédelmi építményt, és viseljen masszív túracipőt, mivel a környező mészkő eléggé egyenetlen.",
+            "ro": "Explorați această fascinantă structură de apărare a coastei înarmată cu tunuri autentice de fier și purtați încălțăminte robustă deoarece calcarul este denivelat.",
+            "en": "Explore this fascinating coastal defense structure armed with authentic iron cannons, and wear sturdy walking shoes as the surrounding limestone is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+            "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+            "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+            "en": "Chapel of Our Lady's Return from Egypt"
+          },
+          "coords": [
+            14.335819,
+            36.015073
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese reizvolle historische Kapelle aus dem Jahr 1618, aber respektieren Sie die ruhige Atmosphäre, da hier noch lokale Messen stattfinden.",
+            "hu": "Csodálja meg ezt a bájos, 1618-ból származó történelmi kápolnát, de tartsa tiszteletben a csendet, mivel alkalmanként még tartanak itt helyi miséket.",
+            "ro": "Admirați această capelă istorică fermecătoare care datează din 1618, dar asigurați-vă că respectați liniștea deoarece aici se mai oficiază liturghii.",
+            "en": "Admire this charming historic chapel which dates back to 1618, but be sure to respect the quiet atmosphere as it occasionally still hosts local mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Marija Caves Tauchplatz",
+            "hu": "Santa Marija barlangok merülőhely",
+            "ro": "Loc de scufundări Peșterile Santa Marija",
+            "en": "Santa Marija Caves Dive Site"
+          },
+          "coords": [
+            14.34023,
+            36.017993
+          ],
+          "category": "landmark",
+          "arrive_at": "13:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein Unterwasserwunderland aus Höhlen und maritimem Leben, aber schwimmen Sie nur mit einer geeigneten Schnorchel- oder Tauchausrüstung hinein.",
+            "hu": "Fedezze fel a barlangok és a változatos tengeri élővilág víz alatti csodavilágát, de csak megfelelő búvárfelszereléssel próbáljon meg bent úszkálni.",
+            "ro": "Descoperiți un peisaj subacvatic de peșteri și viață marină diversă, dar înotați înăuntru doar dacă aveți un echipament adecvat de snorkeling sau scufundări.",
+            "en": "Discover an underwater wonderland of interconnected caves and diverse marine life, but only attempt swimming inside if you have proper snorkeling or diving gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Anthony's Battery",
+            "hu": "Saint Anthony üteg",
+            "ro": "Bateria Saint Anthony",
+            "en": "Saint Anthony's Battery"
+          },
+          "coords": [
+            14.335208,
+            36.032701
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese gut erhaltene Batterie der Johanniter an der Nordspitze und bringen Sie reichlich Wasser mit, da diese abgelegene Ecke wenig Schatten bietet.",
+            "hu": "Csodálja meg a Szent János Lovagrend jól megőrzött ütegét az északi csücsökben, és hozzon magával bőségesen vizet, mivel ez az eldugott sarok árnyékmentes.",
+            "ro": "Admirați această baterie bine conservată a Cavalerilor de Sf. Ioan de pe vârful nordic și aduceți multă apă, deoarece acest colț îndepărtat nu are umbră.",
+            "en": "Marvel at this well-preserved Knights of St. John battery on the northern tip, and bring plenty of water as this remote corner of the island lacks any shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre motorisierte Inselerkundung am prächtigen Saint Mary Tower und genießen Sie den Panoramablick von diesem hohen Aussichtspunkt.\n\nFahren Sie vorsichtig zu den südlichen Tauchplätzen hinunter und halten Sie an, um die spektakulären Schiffswrackgebiete von der rauen Küste aus zu sehen.\n\nNavigieren Sie zur Saint Mary's Gun Battery und zur Kapelle und verbinden Sie faszinierende Militärgeschichte mit architektonischem Charme.\n\nBeenden Sie Ihren Rundgang an den nördlichen Außenposten der Santa Marija Caves und der Saint Anthony's Battery und fangen Sie das letzte Licht ein.",
+        "hu": "Kezdje a sziget motorizált felfedezését a csodálatos Saint Mary toronynál, magába szívva a panorámás kilátást ebből a magaslatból.\n\nVezessen óvatosan lefelé a déli merülőhelyek felé, megállva, hogy megnézze a látványos hajóroncsokat a zord partvonalról.\n\nNavigáljon a Saint Mary ágyúüteg és a kápolna felé, ötvözve a lenyűgöző hadtörténetet a nyugodt építészeti bájjal.\n\nFejezze be körútját a Santa Marija barlangok és a Saint Anthony üteg északi előőrseinél, megörökítve a tenger feletti utolsó fényeket.",
+        "ro": "Începeți explorarea motorizată a insulei la magnificul Turn Saint Mary, absorbind vederile panoramice din acest punct de observație înalt.\n\nConduceți cu atenție spre locurile de scufundări din sud, oprindu-vă pentru a vizualiza zonele spectaculoase ale epavelor de pe coasta stâncoasă.\n\nNavigați spre Bateria Saint Mary și Capelă, combinând istoria militară fascinantă cu farmecul arhitectural senin și pașnic.\n\nFinalizați circuitul la avanposturile nordice ale peșterilor Santa Marija și Bateria Saint Anthony, captând ultima lumină peste mare.",
+        "en": "Begin your motorized island exploration at the magnificent Saint Mary Tower, soaking in panoramic views from this high vantage point.\n\nDrive carefully down towards the southern dive sites, stopping to view the spectacular shipwreck areas from the rugged coastline.\n\nNavigate towards Saint Mary's Gun Battery and the Chapel, combining fascinating military history with serene architectural charm.\n\nFinish your circuit at the northern outposts of Santa Marija Caves and Saint Anthony's Battery, capturing the last light over the sea."
+      }
+    }
+  }
+}

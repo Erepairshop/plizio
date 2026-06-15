@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-morwenstow-cities-v2",
+  "anchor": {
+    "name": "Morwenstow",
+    "coords": [
+      -4.55225,
+      50.909
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Morwenna Kirche",
+            "hu": "St Morwenna templom",
+            "ro": "Biserica St Morwenna",
+            "en": "St Morwenna Church"
+          },
+          "coords": [
+            -4.554559,
+            50.909298
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante normannische Architektur und den alten Friedhof dieser Kirche, aber ziehen Sie feste Schuhe für die unebenen Wege an.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző normann építészetét és ősi temetőjét, de mindenképpen viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Admirați arhitectura normandă impresionantă și cimitirul străvechi al acestei biserici istorice, dar purtați neapărat încălțăminte robustă pentru cărări.",
+            "en": "Admire the striking Norman architecture and ancient graveyard of this historic church, but be sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cotton Beach",
+            "hu": "Cotton Beach",
+            "ro": "Plaja Cotton",
+            "en": "Cotton Beach"
+          },
+          "coords": [
+            -4.563822,
+            50.90878
+          ],
+          "category": "recreational",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Klippen und Wellen dieses abgelegenen Strandes und packen Sie eine Windjacke ein, da die Küstenbrise hier überraschend kühl werden kann.",
+            "hu": "Élvezze e félreeső strand drámai szikláit és hullámait, és hozzon magával egy könnyű széldzsekit, mivel a parti szellő itt meglepően hűvös lehet.",
+            "ro": "Admirați stâncile dramatice și valurile acestei plaje izolate și luați o jachetă de vânt, deoarece briza de coastă poate deveni surprinzător de rece.",
+            "en": "Take in the dramatic cliffs and rolling waves of this secluded beach, and pack a light windbreaker as the coastal breeze can get surprisingly chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenway Beach",
+            "hu": "Greenway Beach",
+            "ro": "Plaja Greenway",
+            "en": "Greenway Beach"
+          },
+          "coords": [
+            -4.564256,
+            50.900532
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Felsenbecken und den unberührten Sand dieser atemberaubenden Bucht, wobei Sie den Gezeitenkalender genau im Auge behalten sollten.",
+            "hu": "Fedezze fel e lenyűgöző öböl zord sziklamedencéit és érintetlen homokját, miközben szorosan figyeli az árapály-menetrendet a dagály elkerülése érdekében.",
+            "ro": "Explorați bazinele stâncoase și nisipul neatins al acestui golf uimitor, urmărind cu atenție programul mareelor pentru a evita să rămâneți izolat la apă mare.",
+            "en": "Explore the rugged rock pools and untouched sands of this stunning cove, keeping a close eye on the tide schedule to avoid getting stranded at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "Caunter Beach",
+            "hu": "Caunter Beach",
+            "ro": "Plaja Caunter",
+            "en": "Caunter Beach"
+          },
+          "coords": [
+            -4.563978,
+            50.896067
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am kieseligen Ufer entlang und genießen Sie den endlosen Meerblick, und bringen Sie eine kleine Decke mit, um sich bequem auszuruhen.",
+            "hu": "Sétáljon végig a kavicsos parton, miközben a végtelen óceáni kilátásban gyönyörködik, és hozzon egy kis takarót, ha kényelmesen szeretne megpihenni.",
+            "ro": "Plimbați-vă de-a lungul țărmului cu pietriș admirând priveliștile nesfârșite ale oceanului și aduceți o pătură mică dacă intenționați să vă odihniți confortabil.",
+            "en": "Walk along the pebble-strewn shore while gazing at the endless ocean views, and bring a small blanket if you plan to sit and relax comfortably on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Yoel Mouth",
+            "hu": "Yoel Mouth",
+            "ro": "Yoel Mouth",
+            "en": "Yoel Mouth"
+          },
+          "coords": [
+            -4.557521,
+            50.918962
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Mündung, wo Süßwasser auf den Atlantik trifft, und achten Sie darauf, nur auf den markierten Wegen zu bleiben, um die Flora zu schützen.",
+            "hu": "Fedezze fel a nyugodt torkolatot, ahol az édesvíz találkozik az Atlanti-óceánnal, és ügyeljen arra, hogy csak a kijelölt ösvényeken járjon a növényvilág védelmében.",
+            "ro": "Descoperiți priveliștile estuarului liniștit unde apa dulce întâlnește Atlanticul și aveți grijă să mergeți doar pe traseele marcate pentru a proteja flora de coastă.",
+            "en": "Discover the serene estuary views where the fresh water meets the Atlantic, and take care to walk only on the marked trails to protect the fragile coastal flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Kirche und genießen Sie die alte Küstenatmosphäre.\nMidday: Gehen Sie zu den rauen Nordstränden, wo die Meeresbrise den Geist herrlich erfrischt.\nAfternoon: Erkunden Sie weiter versteckte Buchten und dramatische Felsenbecken entlang der spektakulären Küste.\nEvening: Beobachten Sie, wie die Sonne an einer der abgelegenen Buchten unter dem Atlantikhorizont versinkt.",
+        "hu": "Morning: Kezdje a napot a történelmi templomnál, és szívja magába az ősi, part menti atmoszférát.\nMidday: Haladjon a zord északi strandok felé, ahol az óceáni szellő csodálatosan felfrissíti a szellemet.\nAfternoon: Folytassa a rejtett öblök és drámai sziklamedencék felfedezését a látványos partvonal mentén.\nEvening: Nézze meg, ahogy a nap az Atlanti-óceán horizontja alá bukik az egyik félreeső nyugati öbölből.",
+        "ro": "Morning: Începeți ziua la biserica istorică, absorbind atmosfera veche și fascinantă de coastă.\nMidday: Îndreptați-vă spre plajele accidentate din nord, unde briza oceanului vă va revigora spiritul.\nAfternoon: Continuați să explorați golfurile ascunse și bazinele stâncoase dramatice de-a lungul coastei spectaculoase.\nEvening: Urmăriți soarele coborând sub orizontul Atlanticului dintr-unul dintre golfurile vestice izolate.",
+        "en": "Morning: Begin your day at the historic church, absorbing the ancient coastal atmosphere.\nMidday: Move towards the rugged northern beaches, where the ocean breeze refreshes the spirit.\nAfternoon: Continue exploring hidden coves and dramatic rock pools along the spectacular coastline.\nEvening: Watch the sun dip below the Atlantic horizon from one of the secluded western bays."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Morwenna Kirche",
+            "hu": "St Morwenna templom",
+            "ro": "Biserica St Morwenna",
+            "en": "St Morwenna Church"
+          },
+          "coords": [
+            -4.554559,
+            50.909298
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante normannische Architektur und den alten Friedhof dieser Kirche, aber ziehen Sie feste Schuhe für die unebenen Wege an.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző normann építészetét és ősi temetőjét, de mindenképpen viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Admirați arhitectura normandă impresionantă și cimitirul străvechi al acestei biserici istorice, dar purtați neapărat încălțăminte robustă pentru cărări.",
+            "en": "Admire the striking Norman architecture and ancient graveyard of this historic church, but be sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Yoel Mouth",
+            "hu": "Yoel Mouth",
+            "ro": "Yoel Mouth",
+            "en": "Yoel Mouth"
+          },
+          "coords": [
+            -4.557521,
+            50.918962
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Mündung, wo Süßwasser auf den Atlantik trifft, und achten Sie darauf, nur auf den markierten Wegen zu bleiben, um die Flora zu schützen.",
+            "hu": "Fedezze fel a nyugodt torkolatot, ahol az édesvíz találkozik az Atlanti-óceánnal, és ügyeljen arra, hogy csak a kijelölt ösvényeken járjon a növényvilág védelmében.",
+            "ro": "Descoperiți priveliștile estuarului liniștit unde apa dulce întâlnește Atlanticul și aveți grijă să mergeți doar pe traseele marcate pentru a proteja flora de coastă.",
+            "en": "Discover the serene estuary views where the fresh water meets the Atlantic, and take care to walk only on the marked trails to protect the fragile coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Cotton Beach",
+            "hu": "Cotton Beach",
+            "ro": "Plaja Cotton",
+            "en": "Cotton Beach"
+          },
+          "coords": [
+            -4.563822,
+            50.90878
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Klippen und Wellen dieses abgelegenen Strandes und packen Sie eine Windjacke ein, da die Küstenbrise hier überraschend kühl werden kann.",
+            "hu": "Élvezze e félreeső strand drámai szikláit és hullámait, és hozzon magával egy könnyű széldzsekit, mivel a parti szellő itt meglepően hűvös lehet.",
+            "ro": "Admirați stâncile dramatice și valurile acestei plaje izolate și luați o jachetă de vânt, deoarece briza de coastă poate deveni surprinzător de rece.",
+            "en": "Take in the dramatic cliffs and rolling waves of this secluded beach, and pack a light windbreaker as the coastal breeze can get surprisingly chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenway Beach",
+            "hu": "Greenway Beach",
+            "ro": "Plaja Greenway",
+            "en": "Greenway Beach"
+          },
+          "coords": [
+            -4.564256,
+            50.900532
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Felsenbecken und den unberührten Sand dieser atemberaubenden Bucht, wobei Sie den Gezeitenkalender genau im Auge behalten sollten.",
+            "hu": "Fedezze fel e lenyűgöző öböl zord sziklamedencéit és érintetlen homokját, miközben szorosan figyeli az árapály-menetrendet a dagály elkerülése érdekében.",
+            "ro": "Explorați bazinele stâncoase și nisipul neatins al acestui golf uimitor, urmărind cu atenție programul mareelor pentru a evita să rămâneți izolat la apă mare.",
+            "en": "Explore the rugged rock pools and untouched sands of this stunning cove, keeping a close eye on the tide schedule to avoid getting stranded at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "Caunter Beach",
+            "hu": "Caunter Beach",
+            "ro": "Plaja Caunter",
+            "en": "Caunter Beach"
+          },
+          "coords": [
+            -4.563978,
+            50.896067
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am kieseligen Ufer entlang und genießen Sie den endlosen Meerblick, und bringen Sie eine kleine Decke mit, um sich bequem auszuruhen.",
+            "hu": "Sétáljon végig a kavicsos parton, miközben a végtelen óceáni kilátásban gyönyörködik, és hozzon egy kis takarót, ha kényelmesen szeretne megpihenni.",
+            "ro": "Plimbați-vă de-a lungul țărmului cu pietriș admirând priveliștile nesfârșite ale oceanului și aduceți o pătură mică dacă intenționați să vă odihniți confortabil.",
+            "en": "Walk along the pebble-strewn shore while gazing at the endless ocean views, and bring a small blanket if you plan to sit and relax comfortably on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanbury Beach",
+            "hu": "Stanbury Beach",
+            "ro": "Plaja Stanbury",
+            "en": "Stanbury Beach"
+          },
+          "coords": [
+            -4.563172,
+            50.891719
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Küstenformationen und weiten goldenen Sandstrände dieser ruhigen Bucht, aber bringen Sie eigenes Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Csodálja meg e csendes öböl drámai part menti képződményeit és széles aranyhomokját, de feltétlenül vigyen magával vizet és harapnivalót, mivel itt nincsenek szolgáltatások.",
+            "ro": "Minunați-vă de formațiunile de coastă dramatice și de nisipul auriu al acestui golf liniștit, dar asigurați-vă că aduceți apă și gustări, deoarece nu există facilități.",
+            "en": "Marvel at the dramatic coastal formations and sweeping golden sands of this quiet bay, but make sure to carry your own water and snacks as there are no local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Holacombe Beach",
+            "hu": "Holacombe Beach",
+            "ro": "Plaja Holacombe",
+            "en": "Holacombe Beach"
+          },
+          "coords": [
+            -4.563104,
+            50.888045
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den brechenden Wellen und einzigartigen geologischen Merkmalen dieses versteckten Juwels, und tragen Sie lange Hosen für die Wanderung durch das hohe Küstengras.",
+            "hu": "Pihenjen e rejtett gyöngyszem hullámai és egyedi geológiai képződményei mellett, és viseljen hosszú nadrágot, ha a környező magas parti füvön keresztül szeretne túrázni.",
+            "ro": "Relaxați-vă la valurile zgomotoase și caracteristicile geologice unice ale acestei bijuterii ascunse și purtați pantaloni lungi dacă intenționați să faceți drumeții prin ierburile înalte de coastă.",
+            "en": "Relax by the crashing waves and unique geological features of this hidden gem, and wear long trousers if you plan to hike through the surrounding tall coastal grasses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Kirche und genießen Sie die alte Küstenatmosphäre.\nMidday: Gehen Sie zu den rauen Nordstränden, wo die Meeresbrise den Geist herrlich erfrischt.\nAfternoon: Erkunden Sie weiter versteckte Buchten und dramatische Felsenbecken entlang der spektakulären Küste.\nEvening: Beobachten Sie, wie die Sonne an einer der abgelegenen Buchten unter dem Atlantikhorizont versinkt.",
+        "hu": "Morning: Kezdje a napot a történelmi templomnál, és szívja magába az ősi, part menti atmoszférát.\nMidday: Haladjon a zord északi strandok felé, ahol az óceáni szellő csodálatosan felfrissíti a szellemet.\nAfternoon: Folytassa a rejtett öblök és drámai sziklamedencék felfedezését a látványos partvonal mentén.\nEvening: Nézze meg, ahogy a nap az Atlanti-óceán horizontja alá bukik az egyik félreeső nyugati öbölből.",
+        "ro": "Morning: Începeți ziua la biserica istorică, absorbind atmosfera veche și fascinantă de coastă.\nMidday: Îndreptați-vă spre plajele accidentate din nord, unde briza oceanului vă va revigora spiritul.\nAfternoon: Continuați să explorați golfurile ascunse și bazinele stâncoase dramatice de-a lungul coastei spectaculoase.\nEvening: Urmăriți soarele coborând sub orizontul Atlanticului dintr-unul dintre golfurile vestice izolate.",
+        "en": "Morning: Begin your day at the historic church, absorbing the ancient coastal atmosphere.\nMidday: Move towards the rugged northern beaches, where the ocean breeze refreshes the spirit.\nAfternoon: Continue exploring hidden coves and dramatic rock pools along the spectacular coastline.\nEvening: Watch the sun dip below the Atlantic horizon from one of the secluded western bays."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Morwenna Kirche",
+            "hu": "St Morwenna templom",
+            "ro": "Biserica St Morwenna",
+            "en": "St Morwenna Church"
+          },
+          "coords": [
+            -4.554559,
+            50.909298
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante normannische Architektur und den alten Friedhof dieser Kirche, aber ziehen Sie feste Schuhe für die unebenen Wege an.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző normann építészetét és ősi temetőjét, de mindenképpen viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Admirați arhitectura normandă impresionantă și cimitirul străvechi al acestei biserici istorice, dar purtați neapărat încălțăminte robustă pentru cărări.",
+            "en": "Admire the striking Norman architecture and ancient graveyard of this historic church, but be sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Yoel Mouth",
+            "hu": "Yoel Mouth",
+            "ro": "Yoel Mouth",
+            "en": "Yoel Mouth"
+          },
+          "coords": [
+            -4.557521,
+            50.918962
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Mündung, wo Süßwasser auf den Atlantik trifft, und achten Sie darauf, nur auf den markierten Wegen zu bleiben, um die Flora zu schützen.",
+            "hu": "Fedezze fel a nyugodt torkolatot, ahol az édesvíz találkozik az Atlanti-óceánnal, és ügyeljen arra, hogy csak a kijelölt ösvényeken járjon a növényvilág védelmében.",
+            "ro": "Descoperiți priveliștile estuarului liniștit unde apa dulce întâlnește Atlanticul și aveți grijă să mergeți doar pe traseele marcate pentru a proteja flora de coastă.",
+            "en": "Discover the serene estuary views where the fresh water meets the Atlantic, and take care to walk only on the marked trails to protect the fragile coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Cotton Beach",
+            "hu": "Cotton Beach",
+            "ro": "Plaja Cotton",
+            "en": "Cotton Beach"
+          },
+          "coords": [
+            -4.563822,
+            50.90878
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Klippen und Wellen dieses abgelegenen Strandes und packen Sie eine Windjacke ein, da die Küstenbrise hier überraschend kühl werden kann.",
+            "hu": "Élvezze e félreeső strand drámai szikláit és hullámait, és hozzon magával egy könnyű széldzsekit, mivel a parti szellő itt meglepően hűvös lehet.",
+            "ro": "Admirați stâncile dramatice și valurile acestei plaje izolate și luați o jachetă de vânt, deoarece briza de coastă poate deveni surprinzător de rece.",
+            "en": "Take in the dramatic cliffs and rolling waves of this secluded beach, and pack a light windbreaker as the coastal breeze can get surprisingly chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenway Beach",
+            "hu": "Greenway Beach",
+            "ro": "Plaja Greenway",
+            "en": "Greenway Beach"
+          },
+          "coords": [
+            -4.564256,
+            50.900532
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Felsenbecken und den unberührten Sand dieser atemberaubenden Bucht, wobei Sie den Gezeitenkalender genau im Auge behalten sollten.",
+            "hu": "Fedezze fel e lenyűgöző öböl zord sziklamedencéit és érintetlen homokját, miközben szorosan figyeli az árapály-menetrendet a dagály elkerülése érdekében.",
+            "ro": "Explorați bazinele stâncoase și nisipul neatins al acestui golf uimitor, urmărind cu atenție programul mareelor pentru a evita să rămâneți izolat la apă mare.",
+            "en": "Explore the rugged rock pools and untouched sands of this stunning cove, keeping a close eye on the tide schedule to avoid getting stranded at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "Caunter Beach",
+            "hu": "Caunter Beach",
+            "ro": "Plaja Caunter",
+            "en": "Caunter Beach"
+          },
+          "coords": [
+            -4.563978,
+            50.896067
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am kieseligen Ufer entlang und genießen Sie den endlosen Meerblick, und bringen Sie eine kleine Decke mit, um sich bequem auszuruhen.",
+            "hu": "Sétáljon végig a kavicsos parton, miközben a végtelen óceáni kilátásban gyönyörködik, és hozzon egy kis takarót, ha kényelmesen szeretne megpihenni.",
+            "ro": "Plimbați-vă de-a lungul țărmului cu pietriș admirând priveliștile nesfârșite ale oceanului și aduceți o pătură mică dacă intenționați să vă odihniți confortabil.",
+            "en": "Walk along the pebble-strewn shore while gazing at the endless ocean views, and bring a small blanket if you plan to sit and relax comfortably on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanbury Beach",
+            "hu": "Stanbury Beach",
+            "ro": "Plaja Stanbury",
+            "en": "Stanbury Beach"
+          },
+          "coords": [
+            -4.563172,
+            50.891719
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Küstenformationen und weiten goldenen Sandstrände dieser ruhigen Bucht, aber bringen Sie eigenes Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Csodálja meg e csendes öböl drámai part menti képződményeit és széles aranyhomokját, de feltétlenül vigyen magával vizet és harapnivalót, mivel itt nincsenek szolgáltatások.",
+            "ro": "Minunați-vă de formațiunile de coastă dramatice și de nisipul auriu al acestui golf liniștit, dar asigurați-vă că aduceți apă și gustări, deoarece nu există facilități.",
+            "en": "Marvel at the dramatic coastal formations and sweeping golden sands of this quiet bay, but make sure to carry your own water and snacks as there are no local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Rane Beach",
+            "hu": "Rane Beach",
+            "ro": "Plaja Rane",
+            "en": "Rane Beach"
+          },
+          "coords": [
+            -4.562991,
+            50.889988
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie in den flachen Gezeitentümpeln nach Muscheln und faszinierendem Meeresleben, aber denken Sie daran, alles genau so zu hinterlassen, wie Sie es vorgefunden haben.",
+            "hu": "Keressen bonyolult kagylókat és lenyűgöző tengeri élőlényeket a sekély árapály-medencékben, de ne felejtsen el mindent pontosan úgy hagyni, ahogy találta, a jövőbeli látogatók számára.",
+            "ro": "Căutați scoici complicate și viață marină fascinantă în bazinele de maree puțin adânci, dar nu uitați să lăsați totul exact așa cum ați găsit pentru viitorii vizitatori.",
+            "en": "Search for intricate seashells and fascinating marine life in the shallow tidal pools, but remember to leave everything exactly as you found it for future visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Holacombe Beach",
+            "hu": "Holacombe Beach",
+            "ro": "Plaja Holacombe",
+            "en": "Holacombe Beach"
+          },
+          "coords": [
+            -4.563104,
+            50.888045
+          ],
+          "category": "recreational",
+          "arrive_at": "17:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den brechenden Wellen und einzigartigen geologischen Merkmalen dieses versteckten Juwels, und tragen Sie lange Hosen für die Wanderung durch das hohe Küstengras.",
+            "hu": "Pihenjen e rejtett gyöngyszem hullámai és egyedi geológiai képződményei mellett, és viseljen hosszú nadrágot, ha a környező magas parti füvön keresztül szeretne túrázni.",
+            "ro": "Relaxați-vă la valurile zgomotoase și caracteristicile geologice unice ale acestei bijuterii ascunse și purtați pantaloni lungi dacă intenționați să faceți drumeții prin ierburile înalte de coastă.",
+            "en": "Relax by the crashing waves and unique geological features of this hidden gem, and wear long trousers if you plan to hike through the surrounding tall coastal grasses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der historischen Kirche und genießen Sie die alte Küstenatmosphäre.\nMidday: Gehen Sie zu den rauen Nordstränden, wo die Meeresbrise den Geist herrlich erfrischt.\nAfternoon: Erkunden Sie weiter versteckte Buchten und dramatische Felsenbecken entlang der spektakulären Küste.\nEvening: Beobachten Sie, wie die Sonne an einer der abgelegenen Buchten unter dem Atlantikhorizont versinkt.",
+        "hu": "Morning: Kezdje a napot a történelmi templomnál, és szívja magába az ősi, part menti atmoszférát.\nMidday: Haladjon a zord északi strandok felé, ahol az óceáni szellő csodálatosan felfrissíti a szellemet.\nAfternoon: Folytassa a rejtett öblök és drámai sziklamedencék felfedezését a látványos partvonal mentén.\nEvening: Nézze meg, ahogy a nap az Atlanti-óceán horizontja alá bukik az egyik félreeső nyugati öbölből.",
+        "ro": "Morning: Începeți ziua la biserica istorică, absorbind atmosfera veche și fascinantă de coastă.\nMidday: Îndreptați-vă spre plajele accidentate din nord, unde briza oceanului vă va revigora spiritul.\nAfternoon: Continuați să explorați golfurile ascunse și bazinele stâncoase dramatice de-a lungul coastei spectaculoase.\nEvening: Urmăriți soarele coborând sub orizontul Atlanticului dintr-unul dintre golfurile vestice izolate.",
+        "en": "Morning: Begin your day at the historic church, absorbing the ancient coastal atmosphere.\nMidday: Move towards the rugged northern beaches, where the ocean breeze refreshes the spirit.\nAfternoon: Continue exploring hidden coves and dramatic rock pools along the spectacular coastline.\nEvening: Watch the sun dip below the Atlantic horizon from one of the secluded western bays."
+      }
+    }
+  }
+}

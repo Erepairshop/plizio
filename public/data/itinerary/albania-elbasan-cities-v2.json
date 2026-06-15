@@ -1,0 +1,497 @@
+{
+  "city_id": "albania-elbasan-cities-v2",
+  "anchor": {
+    "name": "Elbasan",
+    "coords": [
+      20.0822,
+      41.1125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 1.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Elbasan",
+            "hu": "Elbasan vára",
+            "ro": "Castelul Elbasan",
+            "en": "Elbasan Castle"
+          },
+          "coords": [
+            20.08163,
+            41.11332
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser Festung aus dem 15. Jahrhundert, um Elbasans strategische Vergangenheit zu verstehen; tragen Sie festes Schuhwerk wegen des Kopfsteinpflasters.",
+            "hu": "Fedezze fel e 15. századi erődítmény ősi falait, hogy megértse Elbasan stratégiai múltját; viseljen kényelmes cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Explorați zidurile antice ale acestei cetăți din secolul al XV-lea pentru a înțelege trecutul strategic al Elbasanului; purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the ancient walls of this 15th-century fortress to understand Elbasan's strategic past; wear sturdy shoes as the cobblestones can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Basilika",
+            "hu": "Ókeresztény bazilika",
+            "ro": "Bazilica paleocreștină",
+            "en": "Paleochristian Basilica"
+          },
+          "coords": [
+            20.081605,
+            41.112313
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Mosaike dieser frühchristlichen Stätte mit ihren tiefen historischen Wurzeln; bringen Sie eine Kamera mit Zoom mit, um Details zu erfassen, ohne sie zu betreten.",
+            "hu": "Csodálja meg a kora keresztény emlékhely bonyolult mozaikjait, amelyek mély történelmi gyökerekről árulkodnak; hozzon jó zoommal rendelkező fényképezőgépet a padlórészletek megörökítéséhez.",
+            "ro": "Admirați mozaicurile complicate ale acestui sit paleocreștin care dezvăluie rădăcini istorice profunde; aduceți o cameră cu zoom bun pentru a surprinde detaliile podelei.",
+            "en": "Marvel at the intricate mosaics of this early Christian site that reveals deep historical roots; bring a camera with a good zoom to capture the floor details without stepping on them."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.083138,
+            41.112093
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle albanische Lebensweise durch authentische Trachten in diesem Haus aus dem 18. Jahrhundert; bitten Sie das Personal, den Webprozess zu erklären.",
+            "hu": "Fedezze fel a hagyományos albán életmódot az ebben a 18. századi házban őrzött autentikus népviseleteken keresztül; kérje meg a személyzetet, hogy magyarázza el a szövőszék működését.",
+            "ro": "Descoperiți stilul de viață tradițional albanez prin costume autentice păstrate în această casă din secolul al XVIII-lea; rugați personalul să vă explice procesul de țesut.",
+            "en": "Discover traditional Albanian lifestyle through authentic costumes and household items preserved in this 18th-century house; ask the friendly staff to explain the loom weaving process."
+          }
+        },
+        {
+          "name": {
+            "de": "Skampa-Theater",
+            "hu": "Skampa Színház",
+            "ro": "Teatrul Skampa",
+            "en": "Skampa Theatre"
+          },
+          "coords": [
+            20.083854,
+            41.112994
+          ],
+          "category": "cultural",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz der Stadt, indem Sie dieses historische Theater besuchen; prüfen Sie den Spielplan draußen für mögliche Abendvorstellungen.",
+            "hu": "Csodálja meg a város kulturális szívét e történelmi színház meglátogatásával, ahol helyi darabokat játszanak; nézze meg a kinti műsorfüzetet az esti előadásokhoz.",
+            "ro": "Admirați inima culturală a orașului vizitând acest teatru istoric care găzduiește regulat piese locale; verificați programul de afară pentru spectacolele de seară.",
+            "en": "Admire the cultural heart of the city by visiting this historic theater that regularly hosts local plays; check the schedule outside for evening performances you might attend."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Teatri Roman"
+          },
+          "coords": [
+            20.079909,
+            41.113197
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie an den Ruinen dieses römischen Theaters in die Antike ein; besuchen Sie es am späten Nachmittag, um das beste weiche Licht auf den alten Steinen zu haben.",
+            "hu": "Lépjen vissza az ókorba ennek a római színháznak a romjainál, amely egykor ezreket szórakoztatott; látogassa meg késő délután, amikor a legszebb a fény az ősi köveken.",
+            "ro": "Întoarceți-vă în antichitate la ruinele acestui teatru roman care a distrat odată mii de oameni; vizitați-l după-amiaza târziu pentru cea mai bună lumină pe pietrele antice.",
+            "en": "Step back into antiquity at the ruins of this Roman theater which once entertained thousands; visit during the late afternoon for the best soft lighting on the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Aleksandër-Xhuvani-Museum",
+            "hu": "Aleksandër Xhuvani Múzeum",
+            "ro": "Muzeul Aleksandër Xhuvani",
+            "en": "Museum \"Aleksandër Xhuvani\""
+          },
+          "coords": [
+            20.081145,
+            41.116185
+          ],
+          "category": "museum",
+          "arrive_at": "16:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die intellektuelle Entwicklung Albaniens in den Ausstellungen für den berühmten Pädagogen; nehmen Sie sich Zeit für die übersetzten Tafeln.",
+            "hu": "Ismerje meg Albánia szellemi fejlődését a híres pedagógusnak szentelt kiállítások felfedezésével; szánjon időt a lefordított táblák elolvasására a mélyebb megértés érdekében.",
+            "ro": "Aflați despre dezvoltarea intelectuală a Albaniei explorând exponatele dedicate celebrului educator; faceți-vă timp să citiți plăcuțele traduse pentru un context mai profund.",
+            "en": "Learn about the intellectual development of Albania by exploring exhibits dedicated to the famous educator; take your time reading the translated plaques for deeper context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in die reiche Geschichte Elbasans innerhalb der alten Burgmauern eintauchen.\n\nGegen Mittag erkunden Sie die lokale Kultur und das Erbe im Ethnographischen Museum.\n\nVerbringen Sie den Nachmittag damit, das pädagogische Vermächtnis und die antiken römischen Überreste zu entdecken.\n\nLassen Sie den Abend an kulturellen Hotspots oder friedlichen Familienorten ausklingen, um den lokalen Rhythmus aufzunehmen.",
+        "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
+        "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
+        "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:10",
+      "total_km": 2.43,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Elbasan",
+            "hu": "Elbasan vára",
+            "ro": "Castelul Elbasan",
+            "en": "Elbasan Castle"
+          },
+          "coords": [
+            20.08163,
+            41.11332
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser Festung aus dem 15. Jahrhundert, um Elbasans strategische Vergangenheit zu verstehen; tragen Sie festes Schuhwerk wegen des Kopfsteinpflasters.",
+            "hu": "Fedezze fel e 15. századi erődítmény ősi falait, hogy megértse Elbasan stratégiai múltját; viseljen kényelmes cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Explorați zidurile antice ale acestei cetăți din secolul al XV-lea pentru a înțelege trecutul strategic al Elbasanului; purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the ancient walls of this 15th-century fortress to understand Elbasan's strategic past; wear sturdy shoes as the cobblestones can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Basilika",
+            "hu": "Ókeresztény bazilika",
+            "ro": "Bazilica paleocreștină",
+            "en": "Paleochristian Basilica"
+          },
+          "coords": [
+            20.081605,
+            41.112313
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Mosaike dieser frühchristlichen Stätte mit ihren tiefen historischen Wurzeln; bringen Sie eine Kamera mit Zoom mit, um Details zu erfassen, ohne sie zu betreten.",
+            "hu": "Csodálja meg a kora keresztény emlékhely bonyolult mozaikjait, amelyek mély történelmi gyökerekről árulkodnak; hozzon jó zoommal rendelkező fényképezőgépet a padlórészletek megörökítéséhez.",
+            "ro": "Admirați mozaicurile complicate ale acestui sit paleocreștin care dezvăluie rădăcini istorice profunde; aduceți o cameră cu zoom bun pentru a surprinde detaliile podelei.",
+            "en": "Marvel at the intricate mosaics of this early Christian site that reveals deep historical roots; bring a camera with a good zoom to capture the floor details without stepping on them."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.083138,
+            41.112093
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle albanische Lebensweise durch authentische Trachten in diesem Haus aus dem 18. Jahrhundert; bitten Sie das Personal, den Webprozess zu erklären.",
+            "hu": "Fedezze fel a hagyományos albán életmódot az ebben a 18. századi házban őrzött autentikus népviseleteken keresztül; kérje meg a személyzetet, hogy magyarázza el a szövőszék működését.",
+            "ro": "Descoperiți stilul de viață tradițional albanez prin costume autentice păstrate în această casă din secolul al XVIII-lea; rugați personalul să vă explice procesul de țesut.",
+            "en": "Discover traditional Albanian lifestyle through authentic costumes and household items preserved in this 18th-century house; ask the friendly staff to explain the loom weaving process."
+          }
+        },
+        {
+          "name": {
+            "de": "Aleksandër-Xhuvani-Museum",
+            "hu": "Aleksandër Xhuvani Múzeum",
+            "ro": "Muzeul Aleksandër Xhuvani",
+            "en": "Museum \"Aleksandër Xhuvani\""
+          },
+          "coords": [
+            20.081145,
+            41.116185
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die intellektuelle Entwicklung Albaniens in den Ausstellungen für den berühmten Pädagogen; nehmen Sie sich Zeit für die übersetzten Tafeln.",
+            "hu": "Ismerje meg Albánia szellemi fejlődését a híres pedagógusnak szentelt kiállítások felfedezésével; szánjon időt a lefordított táblák elolvasására a mélyebb megértés érdekében.",
+            "ro": "Aflați despre dezvoltarea intelectuală a Albaniei explorând exponatele dedicate celebrului educator; faceți-vă timp să citiți plăcuțele traduse pentru un context mai profund.",
+            "en": "Learn about the intellectual development of Albania by exploring exhibits dedicated to the famous educator; take your time reading the translated plaques for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Qamil Guranjaku",
+            "hu": "Qamil Guranjaku játszótér",
+            "ro": "Locul de joacă Qamil Guranjaku",
+            "en": "Kendi i lodrave i shkolles Qamil Guranjaku"
+          },
+          "coords": [
+            20.082017,
+            41.119433
+          ],
+          "category": "family",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem beliebten Schulspielplatz Energie abbauen, der einen Einblick in den Alltag bietet; holen Sie sich einen Kaffee an einem Kiosk in der Nähe.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a népszerű helyi iskolai játszótéren, amely bepillantást enged a mindennapokba; vegyen egy kávét egy közeli pavilonban.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă școlar popular care oferă o privire în viața de zi cu zi; luați o cafea de la un chioșc din apropiere.",
+            "en": "Let the kids burn off energy at this popular local school playground which offers a glimpse into daily life; grab a coffee from a nearby kiosk to enjoy while they play."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Normalschule",
+            "hu": "Tanítóképző Múzeum",
+            "ro": "Muzeul Școlii Normale",
+            "en": "Muzeu i Shkollës Normale të Elbasanit"
+          },
+          "coords": [
+            20.089269,
+            41.113746
+          ],
+          "category": "museum",
+          "arrive_at": "16:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Verstehen Sie die pädagogische Geschichte der Region im Museum der Normalschule; schauen Sie sich die alten Fotos genau an, um die Entwicklung der Bildung zu sehen.",
+            "hu": "Értse meg a régió pedagógiai történetét a Tanítóképző múzeumában; nézze meg alaposan a régi fényképeket, hogy lássa az oktatás évszázados fejlődését.",
+            "ro": "Înțelegeți istoria pedagogică a regiunii în muzeul Școlii Normale; priviți cu atenție fotografiile vechi pentru a vedea evoluția educației de-a lungul secolului.",
+            "en": "Understand the pedagogical history of the region in the museum of the Normal School; look closely at the old photographs to see the evolution of education over the century."
+          }
+        },
+        {
+          "name": {
+            "de": "Skampa-Theater",
+            "hu": "Skampa Színház",
+            "ro": "Teatrul Skampa",
+            "en": "Skampa Theatre"
+          },
+          "coords": [
+            20.083854,
+            41.112994
+          ],
+          "category": "cultural",
+          "arrive_at": "18:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz der Stadt, indem Sie dieses historische Theater besuchen; prüfen Sie den Spielplan draußen für mögliche Abendvorstellungen.",
+            "hu": "Csodálja meg a város kulturális szívét e történelmi színház meglátogatásával, ahol helyi darabokat játszanak; nézze meg a kinti műsorfüzetet az esti előadásokhoz.",
+            "ro": "Admirați inima culturală a orașului vizitând acest teatru istoric care găzduiește regulat piese locale; verificați programul de afară pentru spectacolele de seară.",
+            "en": "Admire the cultural heart of the city by visiting this historic theater that regularly hosts local plays; check the schedule outside for evening performances you might attend."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in die reiche Geschichte Elbasans innerhalb der alten Burgmauern eintauchen.\n\nGegen Mittag erkunden Sie die lokale Kultur und das Erbe im Ethnographischen Museum.\n\nVerbringen Sie den Nachmittag damit, das pädagogische Vermächtnis und die antiken römischen Überreste zu entdecken.\n\nLassen Sie den Abend an kulturellen Hotspots oder friedlichen Familienorten ausklingen, um den lokalen Rhythmus aufzunehmen.",
+        "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
+        "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
+        "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.14,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Teatri Roman"
+          },
+          "coords": [
+            20.079909,
+            41.113197
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an den Ruinen dieses römischen Theaters in die Antike ein; besuchen Sie es am späten Nachmittag, um das beste weiche Licht auf den alten Steinen zu haben.",
+            "hu": "Lépjen vissza az ókorba ennek a római színháznak a romjainál, amely egykor ezreket szórakoztatott; látogassa meg késő délután, amikor a legszebb a fény az ősi köveken.",
+            "ro": "Întoarceți-vă în antichitate la ruinele acestui teatru roman care a distrat odată mii de oameni; vizitați-l după-amiaza târziu pentru cea mai bună lumină pe pietrele antice.",
+            "en": "Step back into antiquity at the ruins of this Roman theater which once entertained thousands; visit during the late afternoon for the best soft lighting on the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Elbasan",
+            "hu": "Elbasan vára",
+            "ro": "Castelul Elbasan",
+            "en": "Elbasan Castle"
+          },
+          "coords": [
+            20.08163,
+            41.11332
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser Festung aus dem 15. Jahrhundert, um Elbasans strategische Vergangenheit zu verstehen; tragen Sie festes Schuhwerk wegen des Kopfsteinpflasters.",
+            "hu": "Fedezze fel e 15. századi erődítmény ősi falait, hogy megértse Elbasan stratégiai múltját; viseljen kényelmes cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Explorați zidurile antice ale acestei cetăți din secolul al XV-lea pentru a înțelege trecutul strategic al Elbasanului; purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Explore the ancient walls of this 15th-century fortress to understand Elbasan's strategic past; wear sturdy shoes as the cobblestones can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.083138,
+            41.112093
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle albanische Lebensweise durch authentische Trachten in diesem Haus aus dem 18. Jahrhundert; bitten Sie das Personal, den Webprozess zu erklären.",
+            "hu": "Fedezze fel a hagyományos albán életmódot az ebben a 18. századi házban őrzött autentikus népviseleteken keresztül; kérje meg a személyzetet, hogy magyarázza el a szövőszék működését.",
+            "ro": "Descoperiți stilul de viață tradițional albanez prin costume autentice păstrate în această casă din secolul al XVIII-lea; rugați personalul să vă explice procesul de țesut.",
+            "en": "Discover traditional Albanian lifestyle through authentic costumes and household items preserved in this 18th-century house; ask the friendly staff to explain the loom weaving process."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajek Familienpark",
+            "hu": "Ajek családi park",
+            "ro": "Parcul Ajek",
+            "en": "Ajek"
+          },
+          "coords": [
+            20.085199,
+            41.103064
+          ],
+          "category": "family",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in diesem familienfreundlichen Erholungsraum, der sich perfekt für eine Mittagspause eignet; bringen Sie Snacks für ein kleines Picknick mit.",
+            "hu": "Élvezze a nyugodt légkört ezen a családbarát pihenőhelyen, amely tökéletes egy déli szünethez; hozzon magával néhány rágcsálnivalót egy kis piknikhez a zöldterületeken.",
+            "ro": "Bucurați-vă de o atmosferă relaxată în acest spațiu de recreere perfect pentru o pauză la amiază; aduceți câteva gustări pentru un mic picnic pe zonele verzi.",
+            "en": "Enjoy a relaxed atmosphere at this family-friendly recreational space perfect for a midday pause; bring some snacks for a small picnic on the green areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Normalschule",
+            "hu": "Tanítóképző Múzeum",
+            "ro": "Muzeul Școlii Normale",
+            "en": "Muzeu i Shkollës Normale të Elbasanit"
+          },
+          "coords": [
+            20.089269,
+            41.113746
+          ],
+          "category": "museum",
+          "arrive_at": "14:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Verstehen Sie die pädagogische Geschichte der Region im Museum der Normalschule; schauen Sie sich die alten Fotos genau an, um die Entwicklung der Bildung zu sehen.",
+            "hu": "Értse meg a régió pedagógiai történetét a Tanítóképző múzeumában; nézze meg alaposan a régi fényképeket, hogy lássa az oktatás évszázados fejlődését.",
+            "ro": "Înțelegeți istoria pedagogică a regiunii în muzeul Școlii Normale; priviți cu atenție fotografiile vechi pentru a vedea evoluția educației de-a lungul secolului.",
+            "en": "Understand the pedagogical history of the region in the museum of the Normal School; look closely at the old photographs to see the evolution of education over the century."
+          }
+        },
+        {
+          "name": {
+            "de": "Imelda Lambertini Zentrum",
+            "hu": "Imelda Lambertini Központ",
+            "ro": "Centrul Imelda Lambertini",
+            "en": "Imelda Lambertini"
+          },
+          "coords": [
+            20.091257,
+            41.119173
+          ],
+          "category": "family",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Bildungstour in diesem Gemeindezentrum, das Familienwerten und der Jugend gewidmet ist; prüfen Sie das schwarze Brett auf offene Workshops oder Veranstaltungen.",
+            "hu": "Zárja tanulmányútját ebben a családi értékeknek és az ifjúságnak szentelt közösségi központban; nézze meg a faliújságjukat a nyitott workshopok vagy kulturális események miatt.",
+            "ro": "Încheiați-vă turul educațional la acest centru comunitar dedicat valorilor familiei și tineretului; verificați avizierul lor pentru ateliere deschise sau evenimente culturale.",
+            "en": "Conclude your educational tour at this community center dedicated to family values and youth; check their notice board for any open workshops or cultural events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in die reiche Geschichte Elbasans innerhalb der alten Burgmauern eintauchen.\n\nGegen Mittag erkunden Sie die lokale Kultur und das Erbe im Ethnographischen Museum.\n\nVerbringen Sie den Nachmittag damit, das pädagogische Vermächtnis und die antiken römischen Überreste zu entdecken.\n\nLassen Sie den Abend an kulturellen Hotspots oder friedlichen Familienorten ausklingen, um den lokalen Rhythmus aufzunehmen.",
+        "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
+        "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
+        "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      }
+    }
+  }
+}

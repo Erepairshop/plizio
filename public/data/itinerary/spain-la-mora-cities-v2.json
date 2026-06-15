@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-la-mora-cities-v2",
+  "anchor": {
+    "name": "la Móra",
+    "coords": [
+      1.34739,
+      41.13053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja de Calabecs",
+            "hu": "Platja de Calabecs",
+            "ro": "Platja de Calabecs",
+            "en": "Platja de Calabecs"
+          },
+          "coords": [
+            1.335469,
+            41.128617
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem naturbelassenen Strandabschnitt, der für seine ruhige Atmosphäre bekannt ist, und bringen Sie unbedingt Ihren eigenen Sonnenschirm mit.",
+            "hu": "Pihenjen ezen a természetes, nyugodt hangulatáról ismert tengerparti szakaszon, de mindenképpen hozzon magával saját napernyőt a déli hőség ellen.",
+            "ro": "Relaxează-te pe această plajă naturală, recunoscută pentru atmosfera sa liniștită, și nu uita să îți aduci propria umbrelă pentru a te proteja de soarele puternic.",
+            "en": "Unwind on this natural stretch of beach known for its highly peaceful atmosphere, but make sure to bring your own umbrella to shield yourself from the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Caleta Petita de la Móra",
+            "hu": "Caleta Petita de la Móra",
+            "ro": "Caleta Petita de la Móra",
+            "en": "Caleta Petita de la Móra"
+          },
+          "coords": [
+            1.343197,
+            41.12591
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Bucht, die sich perfekt für ein kurzes Bad eignet, aber tragen Sie Wasserschuhe, um auf den felsigen Stellen sicher zu gehen.",
+            "hu": "Fedezze fel ezt a bájos kis öblöt, amely tökéletes egy rövid frissítő fürdőzésre, de viseljen vízicipőt, hogy biztonságosan mozogjon a sziklás részeken.",
+            "ro": "Descoperă acest mic golf fermecător, perfect pentru o baie scurtă, dar poartă încălțăminte de apă pentru a păși în siguranță pe porțiunile stâncoase.",
+            "en": "Discover this charming small cove that is perfect for a quick refreshing dip, but be sure to wear water shoes to safely navigate the rocky underwater sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Móra",
+            "hu": "Torre de la Móra",
+            "ro": "Torre de la Móra",
+            "en": "Torre de la Móra"
+          },
+          "coords": [
+            1.341959,
+            41.125799
+          ],
+          "category": "tower",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Wachturm, der einst die Küste vor Piraten schützte, und nutzen Sie das sanfte Morgenlicht für spektakuläre Landschaftsfotos.",
+            "hu": "Csodálja meg ezt az őrtornyot, amely egykor a kalózoktól védte a partot, és használja ki a lágy reggeli fényeket a lenyűgöző tájképek elkészítéséhez.",
+            "ro": "Admiră acest turn de veghe istoric, care proteja cândva coasta de pirați, și profită de lumina blândă a dimineții pentru a face fotografii spectaculoase cu marea.",
+            "en": "Admire this historical watchtower that once protected the coastline from pirates, and take advantage of the soft morning light for spectacular landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Móra",
+            "hu": "Platja de la Móra",
+            "ro": "Platja de la Móra",
+            "en": "Platja de la Móra"
+          },
+          "coords": [
+            1.346316,
+            41.127859
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand dieses lebhaften Hauptstrandes, der hervorragende Annehmlichkeiten bietet, und mieten Sie frühzeitig Liegestühle für besten Komfort.",
+            "hu": "Élvezze a finom homokot ezen a nyüzsgő fő strandon, amely kiváló felszereltséget kínál, és béreljen napágyat korán a legnagyobb kényelem érdekében.",
+            "ro": "Bucură-te de nisipul fin al acestei plaje principale pline de viață, dotată cu facilități excelente, și închiriază șezlonguri devreme pentru cel mai bun confort.",
+            "en": "Enjoy the fine sand of this lively main beach that offers excellent modern amenities, and rent your lounge chairs early in the day to secure the best comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'en Segur",
+            "hu": "Torre d'en Segur",
+            "ro": "Torre d'en Segur",
+            "en": "Torre d'en Segur"
+          },
+          "coords": [
+            1.359582,
+            41.129624
+          ],
+          "category": "castle",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten Festungsanlage, die einen Hauch von mittelalterlicher Geschichte vermitteln, und achten Sie auf unebene Wege.",
+            "hu": "Fedezze fel ennek a régi erődítménynek a lenyűgöző maradványait, amelyek a középkori történelmet idézik, de ügyeljen a helyenként egyenetlen gyalogutakra.",
+            "ro": "Explorează fascinantele ruine ale acestei vechi fortificații, care amintesc de istoria medievală a regiunii, și ai grijă la potecile uneori denivelate.",
+            "en": "Explore the fascinating remains of this old fortification that echo medieval history, and carefully watch your step on the sometimes uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Jovera",
+            "hu": "Cala Jovera",
+            "ro": "Cala Jovera",
+            "en": "Cala Jovera"
+          },
+          "coords": [
+            1.360637,
+            41.129537
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser malerischen, von Klippen umgebenen Bucht, die fantastische Schnorchelmöglichkeiten bietet; bringen Sie Ihre eigene Ausrüstung mit.",
+            "hu": "Zárja a napot ebben a festői, sziklákkal övezett öbölben, amely fantasztikus sznorkelezési lehetőségeket rejt, de ne felejtse el magával hozni a saját felszerelését.",
+            "ro": "Încheie-ți ziua în acest golf pitoresc înconjurat de stânci, care oferă oportunități fantastice de snorkeling; nu uita să îți aduci propriul echipament de scufundări.",
+            "en": "End your day at this picturesque cliff-lined bay which boasts fantastic snorkeling opportunities, just remember to bring your own underwater gear to fully enjoy it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die rauen Buchten der Küste in ruhiger Atmosphäre. Lassen Sie sich von der natürlichen Schönheit der Platja de Calabecs und der intimen Caleta Petita verzaubern.\n\nMittags erreichen Sie den historischen Wachturm Torre de la Móra, der atemberaubende Ausblicke bietet, bevor Sie am beliebten Hauptstrand Platja de la Móra eine entspannte Pause einlegen.\n\nNachmittags führt der Weg entlang der Mittelmeerküste weiter nach Osten. Entdecken Sie alte Ruinen und bestaunen Sie die faszinierenden mittelalterlichen Überreste am Torre d'en Segur.\n\nAbends endet die Wanderung an der unglaublich malerischen Cala Jovera. Genießen Sie die goldenen Stunden des Tageslaufs, wenn die tiefstehende Sonne die umgebenden Klippen anleuchtet.",
+        "hu": "Reggel a tengerpart csendes öbleit fedezi fel a tömeg érkezése előtt. Élvezze a Platja de Calabecs természetes szépségét és a Caleta Petita meghitt hangulatát.\n\nDélben látogasson el a történelmi Torre de la Móra őrtoronyhoz a fantasztikus panorámáért, majd töltsön el egy pihentető szünetet a Platja de la Móra népszerű, aranyhomokos partján.\n\nDélután sétáljon tovább kelet felé a part mentén, élvezve a mediterrán szellőt. Álljon meg a Torre d'en Segur romjainál, hogy megcsodálja a középkori védekezési építészetet.\n\nEste zárja a túrát az elképesztően festői Cala Jovera öbölben. Nézze meg, ahogy a lemenő nap aranyló fénye megvilágítja a sziklákat, miközben a hullámok szelíden verődnek a parthoz.",
+        "ro": "Dimineața începeți explorarea coastelor și golfurilor înainte de a se aglomera. Bucurați-vă de frumusețea sălbatică a Platja de Calabecs și de atmosfera intimă de la Caleta Petita.\n\nLa prânz, urcați la istoricul Torre de la Móra pentru vederi panoramice asupra mării, urmat de o binemeritată pauză de relaxare pe plaja principală, Platja de la Móra.\n\nDupă-amiaza, plimbați-vă de-a lungul litoralului spre est, descoperind ruine antice. Opriți-vă la Torre d'en Segur pentru a admira impresionanta arhitectură defensivă medievală.\n\nSeara, încheiați acest traseu la spectaculoasa Cala Jovera. Lăsați-vă vrăjiți de apusul care luminează stâncile abrupte, în timp ce valurile mării completează perfect peisajul sonor.",
+        "en": "Morning starts by exploring the rugged coves before the crowds arrive. Enjoy the serene natural beauty of Platja de Calabecs and the intimately sized Caleta Petita.\n\nMidday peaks with a visit to the historic Torre de la Móra for panoramic sea views. Follow it up with a relaxing break on the expansive golden sands of the popular Platja de la Móra.\n\nAfternoon invites you to stroll eastward along the coastline, discovering ancient ruins and soaking in the breeze. Stop by Torre d'en Segur to admire medieval defense architecture.\n\nEvening sets at the incredibly scenic Cala Jovera. Watch the golden hour beautifully illuminate the towering cliffs as the Mediterranean waves gently crash against the secluded shore."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Clot del Mèdol - sala meridional",
+            "hu": "El Clot del Mèdol - sala meridional",
+            "ro": "El Clot del Mèdol - sala meridional",
+            "en": "El Clot del Mèdol - sala meridional"
+          },
+          "coords": [
+            1.339058,
+            41.138364
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Staunen Sie über diesen antiken römischen Steinbruch, der durch seine einzigartige Akustik besticht, und bleiben Sie auf den markierten Wegen für Ihre Sicherheit.",
+            "hu": "Csodálja meg ezt az ősi római kőfejtőt, amely egyedülálló akusztikájával lenyűgöző, és a saját biztonsága érdekében mindig maradjon a kijelölt ösvényeken.",
+            "ro": "Minunează-te de această antică carieră de piatră romană, impresionantă prin acustica sa unică, și rămâi mereu pe traseele marcate pentru siguranța ta.",
+            "en": "Marvel at this ancient Roman stone quarry which impresses visitors with its unique acoustics, and always stay on the marked trails to ensure your personal safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Mdol Nord",
+            "hu": "Mdol Nord",
+            "ro": "Mdol Nord",
+            "en": "Mdol Nord"
+          },
+          "coords": [
+            1.337777,
+            41.13936
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den nördlichen Teil dieses faszinierenden Naturschutzgebietes mit seiner dichten Vegetation, und tragen Sie festes Schuhwerk für den steinigen Untergrund.",
+            "hu": "Fedezze fel ennek a lenyűgöző természetvédelmi területnek az északi részét és sűrű növényzetét, de a sziklás talaj miatt mindenképpen viseljen zárt lábbelit.",
+            "ro": "Descoperă partea nordică a acestei zone naturale fascinante cu vegetația sa densă și poartă încălțăminte închisă pentru a merge fără probleme pe solul pietros.",
+            "en": "Discover the northern section of this fascinating nature reserve with its dense vegetation, and wear closed-toe shoes to easily navigate the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mas d'en Grimau",
+            "hu": "Mas d'en Grimau",
+            "ro": "Mas d'en Grimau",
+            "en": "Mas d'en Grimau"
+          },
+          "coords": [
+            1.330564,
+            41.131257
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses traditionelle katalanische Landhaus, das die landwirtschaftliche Geschichte der Region zeigt, und respektieren Sie die Privatsphäre der Anwohner.",
+            "hu": "Tekintse meg ezt a hagyományos katalán vidéki házat, amely a régió mezőgazdasági múltját mutatja be, és mindig tartsa tiszteletben a helyi lakosok magánszféráját.",
+            "ro": "Vizitează această casă tradițională catalană care ilustrează istoria agricolă a regiunii și respectă cu strictețe intimitatea locuitorilor din apropiere.",
+            "en": "Visit this traditional Catalan country house that beautifully illustrates the region's agricultural history, and always respect the privacy of the nearby local residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Arboçar",
+            "hu": "Platja de l'Arboçar",
+            "ro": "Platja de l'Arboçar",
+            "en": "Platja de l'Arboçar"
+          },
+          "coords": [
+            1.328552,
+            41.128893
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem abgelegenen Strandabschnitt, der sich ideal zum Lesen eignet, und nehmen Sie ausreichend Trinkwasser für den Nachmittag mit.",
+            "hu": "Élvezze a csendes hangulatot ezen a félreeső strandszakaszon, amely ideális egy jó könyv olvasásához, és vigyen magával elegendő ivóvizet a délután folyamán.",
+            "ro": "Bucură-te de atmosfera liniștită a acestei plaje retrase, ideală pentru a citi o carte bună, și ia cu tine suficientă apă potabilă pentru orele de după-amiază.",
+            "en": "Savor the quiet atmosphere at this secluded stretch of beach that is ideal for reading a good book, and bring plenty of drinking water for the warm afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Calabecs",
+            "hu": "Platja de Calabecs",
+            "ro": "Platja de Calabecs",
+            "en": "Platja de Calabecs"
+          },
+          "coords": [
+            1.335469,
+            41.128617
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem naturbelassenen Strandabschnitt, der für seine ruhige Atmosphäre bekannt ist, und bringen Sie unbedingt Ihren eigenen Sonnenschirm mit.",
+            "hu": "Pihenjen ezen a természetes, nyugodt hangulatáról ismert tengerparti szakaszon, de mindenképpen hozzon magával saját napernyőt a déli hőség ellen.",
+            "ro": "Relaxează-te pe această plajă naturală, recunoscută pentru atmosfera sa liniștită, și nu uita să îți aduci propria umbrelă pentru a te proteja de soarele puternic.",
+            "en": "Unwind on this natural stretch of beach known for its highly peaceful atmosphere, but make sure to bring your own umbrella to shield yourself from the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Móra",
+            "hu": "Platja de la Móra",
+            "ro": "Platja de la Móra",
+            "en": "Platja de la Móra"
+          },
+          "coords": [
+            1.346316,
+            41.127859
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand dieses lebhaften Hauptstrandes, der hervorragende Annehmlichkeiten bietet, und mieten Sie frühzeitig Liegestühle für besten Komfort.",
+            "hu": "Élvezze a finom homokot ezen a nyüzsgő fő strandon, amely kiváló felszereltséget kínál, és béreljen napágyat korán a legnagyobb kényelem érdekében.",
+            "ro": "Bucură-te de nisipul fin al acestei plaje principale pline de viață, dotată cu facilități excelente, și închiriază șezlonguri devreme pentru cel mai bun confort.",
+            "en": "Enjoy the fine sand of this lively main beach that offers excellent modern amenities, and rent your lounge chairs early in the day to secure the best comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt ins Landesinnere, um das antike römische Erbe im Mèdol-Steinbruch zu erkunden. Bestaunen Sie die Vegetation und historische Architektur.\n\nMittags radeln Sie durch die ländliche Umgebung zum Mas d'en Grimau, einem ruhigen Zeugnis der katalanischen Landwirtschaft, und genießen die friedliche Atmosphäre der schattigen Wege.\n\nNachmittags fahren Sie zurück in Richtung Küste und entdecken den versteckten Sand der Platja de l'Arboçar. Fahren Sie weiter zur beliebten Platja de Calabecs.\n\nAbends endet das Fahrradabenteuer an der Platja de la Móra. Parken Sie Ihr Fahrrad und genießen Sie eine wohlverdiente Pause am Strand, während der Tag sanft ausklingt.",
+        "hu": "A reggel egy szárazföldi kerékpározással indul a Mèdol kőbánya római örökségének felfedezésére. Csodálja meg a buja növényzetet és a klasszikus kőfaragók monumentális munkáját.\n\nDélben tekerjen a Mas d'en Grimau felé, amely a hagyományos katalán mezőgazdaság békés emléke. Élvezze az árnyékos utakat és a vidék nyugodt hangulatát.\n\nDélután térjen vissza a partvidékre, és fedezze fel a Platja de l'Arboçar rejtett homokját. Folytassa útját a festői parti ösvényen a Platja de Calabecs felé.\n\nEste fejezze be a túrát a Platja de la Móra strandon. Parkolja le a kerékpárját, és pihenjen meg a tengerparton, miközben a naplemente élénk színekre festi az eget.",
+        "ro": "Dimineața pedalați spre interiorul regiunii pentru a explora moștenirea romană de la cariera Mèdol. Admirați vegetația luxuriantă și arhitectura lăsată de pietrarii clasici.\n\nLa prânz, mergeți pe bicicletă spre Mas d'en Grimau, o mărturie liniștită a agriculturii tradiționale catalane. Bucurați-vă de cărările umbrite și de atmosfera senină.\n\nDupă-amiaza, întoarceți-vă spre coastă, descoperind nisipurile ascunse de la Platja de l'Arboçar. Continuați de-a lungul traseului de coastă până la Platja de Calabecs.\n\nSeara vă încheiați aventura pe două roți la Platja de la Móra. Lăsați bicicleta și bucurați-vă de o odihnă meritată pe plajă în timp ce cerul prinde culorile asfințitului.",
+        "en": "Morning starts with an inland ride to explore the ancient Roman legacy at the Mèdol quarry. Marvel at the lush vegetation and towering architecture left by classical stonecutters.\n\nMidday sees you pedaling through the countryside toward Mas d'en Grimau, a peaceful nod to traditional Catalan agriculture. Enjoy the shaded paths and the serene, quiet atmosphere.\n\nAfternoon invites you to cycle back toward the coast, discovering the hidden sands of Platja de l'Arboçar. Continue along the beautiful coastal trail to reach Platja de Calabecs.\n\nEvening concludes your cycling adventure at Platja de la Móra. Park your bike and enjoy a well-deserved rest on the beach while the sunset paints the sky in vibrant, warm colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scipio Tower",
+            "hu": "Scipio Tower",
+            "ro": "Scipio Tower",
+            "en": "Scipio Tower"
+          },
+          "coords": [
+            1.318942,
+            41.132004
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses eindrucksvolle römische Grabmal direkt an der alten Via Augusta, und lesen Sie die Informationstafeln, um mehr über seine Geschichte zu erfahren.",
+            "hu": "Csodálja meg ezt a lenyűgöző római síremléket közvetlenül a régi Via Augusta mentén, és olvassa el az információs táblákat, hogy többet megtudjon a történetéről.",
+            "ro": "Admiră acest impresionant monument funerar roman situat chiar pe vechea Via Augusta și citește panourile informative pentru a afla mai multe despre istoria sa.",
+            "en": "Admire this impressive Roman funerary monument located right on the ancient Via Augusta, and carefully read the information panels to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Simplici",
+            "hu": "Sant Simplici",
+            "ro": "Sant Simplici",
+            "en": "Sant Simplici"
+          },
+          "coords": [
+            1.337036,
+            41.144897
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem erhöhten Naturpunkt über die Küstenlandschaft, und nehmen Sie ein Fernglas mit, um die Vogelwelt der Region zu beobachten.",
+            "hu": "Élvezze a tengerparti tájra nyíló panorámát erről a magaslati természeti pontról, és vigyen magával egy távcsövet a helyi madárvilág alapos megfigyeléséhez.",
+            "ro": "Bucură-te de vederea panoramică asupra peisajului de coastă de pe acest punct natural înalt și ia cu tine un binoclu pentru a observa păsările din regiune.",
+            "en": "Enjoy the sweeping panoramic views over the coastal landscape from this elevated natural point, and bring along a pair of binoculars to observe the local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Ferran",
+            "hu": "Santa Maria de Ferran",
+            "ro": "Santa Maria de Ferran",
+            "en": "Santa Maria de Ferran"
+          },
+          "coords": [
+            1.358835,
+            41.145201
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in dieser charmanten historischen Kirche im gotischen Stil, und achten Sie auf angemessene Kleidung, wenn Sie das Innere betreten.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat ebben a bájos, gótikus stílusú történelmi templomban, és ügyeljen a megfelelő öltözékre, amikor belép az épületbe.",
+            "ro": "Experimentează liniștea spirituală în această fermecătoare biserică istorică în stil gotic și asigură-te că porți o ținută decentă atunci când intri în interior.",
+            "en": "Experience the profound spiritual tranquility inside this charming Gothic-style historical church, and ensure you wear modest clothing when entering the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí del Pas",
+            "hu": "Molí del Pas",
+            "ro": "Molí del Pas",
+            "en": "Molí del Pas"
+          },
+          "coords": [
+            1.360411,
+            41.140293
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser alten Mühle, die einen Einblick in die vorindustrielle Technik geben, und seien Sie vorsichtig beim Betreten des unebenen Geländes.",
+            "hu": "Fedezze fel ennek a régi malomnak a maradványait, amelyek bepillantást engednek az iparosodás előtti technikába, és legyen óvatos az egyenetlen terepen haladva.",
+            "ro": "Descoperă ruinele acestei vechi mori care oferă o perspectivă asupra tehnologiei preindustriale și fii foarte atent când pășești pe terenul adesea denivelat.",
+            "en": "Discover the ruins of this old mill which provide a glimpse into pre-industrial technology, and be very careful when walking across the somewhat uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'en Segur",
+            "hu": "Torre d'en Segur",
+            "ro": "Torre d'en Segur",
+            "en": "Torre d'en Segur"
+          },
+          "coords": [
+            1.359582,
+            41.129624
+          ],
+          "category": "castle",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten Festungsanlage, die einen Hauch von mittelalterlicher Geschichte vermitteln, und achten Sie auf unebene Wege.",
+            "hu": "Fedezze fel ennek a régi erődítménynek a lenyűgöző maradványait, amelyek a középkori történelmet idézik, de ügyeljen a helyenként egyenetlen gyalogutakra.",
+            "ro": "Explorează fascinantele ruine ale acestei vechi fortificații, care amintesc de istoria medievală a regiunii, și ai grijă la potecile uneori denivelate.",
+            "en": "Explore the fascinating remains of this old fortification that echo medieval history, and carefully watch your step on the sometimes uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Jovera",
+            "hu": "Cala Jovera",
+            "ro": "Cala Jovera",
+            "en": "Cala Jovera"
+          },
+          "coords": [
+            1.360637,
+            41.129537
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser malerischen, von Klippen umgebenen Bucht, die fantastische Schnorchelmöglichkeiten bietet; bringen Sie Ihre eigene Ausrüstung mit.",
+            "hu": "Zárja a napot ebben a festői, sziklákkal övezett öbölben, amely fantasztikus sznorkelezési lehetőségeket rejt, de ne felejtse el magával hozni a saját felszerelését.",
+            "ro": "Încheie-ți ziua în acest golf pitoresc înconjurat de stânci, care oferă oportunități fantastice de snorkeling; nu uita să îți aduci propriul echipament de scufundări.",
+            "en": "End your day at this picturesque cliff-lined bay which boasts fantastic snorkeling opportunities, just remember to bring your own underwater gear to fully enjoy it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens fahren Sie zum großartigen Scipio Tower, einem Wahrzeichen der römischen Geschichte entlang der Via Augusta. Bewundern Sie die antiken Verzierungen hautnah.\n\nMittags geht es in die Höhe zum Naturpunkt Sant Simplici für weite Ausblicke. Danach fahren Sie in das Dorf Ferran, um die spirituelle Atmosphäre der Santa Maria de Ferran zu spüren.\n\nNachmittags machen Sie einen kurzen Halt an der historischen Molí del Pas, bevor es zurück zur Küste geht. Am Torre d'en Segur erwarten Sie wehrhafte historische Ruinen.\n\nAbends endet Ihre Autotour an der atemberaubenden Cala Jovera. Parken Sie den Wagen und spazieren Sie hinunter in die unberührte Bucht, um das Meeresrauschen zu genießen.",
+        "hu": "Reggel vezessen el a csodálatos Scipio Towerhez, amely a római történelem ikonikus emléke a Via Augusta mentén. Értékelje az ősi faragványokat és a történelmi jelentőséget.\n\nDélben utazzon fel a Sant Simplici természeti magaslataira a panorámáért, majd hajtson el Ferran falujába, hogy megcsodálja a békés Santa Maria templomot.\n\nDélután álljon meg röviden a történelmi Molí del Pasnál, mielőtt visszatérne a tengerparthoz. Érkezzen a Torre d'en Segur romjaihoz a lenyűgöző védművek felfedezésére.\n\nEste fejezze be autós útvonalát a lenyűgöző Cala Jovera öbölben. Parkoljon le a közelben, sétáljon le az érintetlen partra, és élvezze a csodás tengeri hangulatot.",
+        "ro": "Dimineața conduceți spre magnificul Scipio Tower, un monument roman iconic aflat de-a lungul Via Augusta. Apreciați detaliile sculpturilor sale și importanța istorică.\n\nLa prânz, urcați la înălțimile naturale de la Sant Simplici pentru vederi ample. Apoi, mergeți spre satul fermecător Ferran pentru a admira biserica senină Santa Maria.\n\nDupă-amiaza, opriți scurt la istorica Molí del Pas înainte de a vă îndrepta din nou spre coastă. Ajungeți la Torre d'en Segur pentru a explora structurile sale defensive robuste.\n\nSeara încheiați itinerariul auto la uimitoarea Cala Jovera. Parcați în apropiere și coborâți pe jos în golful curat, bucurându-vă de atmosfera magnifică a mării.",
+        "en": "Morning begins with a drive to the magnificent Scipio Tower, an iconic Roman monument standing proudly along the Via Augusta. Appreciate its ancient carvings and deep history.\n\nMidday takes you up to the natural heights of Sant Simplici for sweeping views. Next, drive to the charming village of Ferran to admire the serene and historic Santa Maria church.\n\nAfternoon features a brief stop at the historic Molí del Pas before heading back towards the coastline. Arrive at Torre d'en Segur to explore its robust defensive structures.\n\nEvening finishes your driving itinerary at the stunning Cala Jovera. Park nearby and walk down to the pristine cove, enjoying the magnificent and peaceful ambiance by the sea."
+      }
+    }
+  }
+}

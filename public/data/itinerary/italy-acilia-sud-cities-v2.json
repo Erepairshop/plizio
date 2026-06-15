@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-acilia-sud-cities-v2",
+  "anchor": {
+    "name": "Acilia Sud",
+    "coords": [
+      12.367172,
+      41.779729
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Agostinelli",
+            "hu": "Museo Agostinelli",
+            "ro": "Museo Agostinelli",
+            "en": "Museo Agostinelli"
+          },
+          "coords": [
+            12.338633,
+            41.780065
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung alltagsgeschichtlicher Objekte in diesem einzigartigen Museum, wo Sie am besten gleich morgens die ruhige Atmosphäre genießen sollten.",
+            "hu": "Fedezze fel a mindennapi élet történelmi tárgyainak lenyűgöző gyűjteményét ebben az egyedülálló múzeumban, és érkezzen korán a nyugodt élmény érdekében.",
+            "ro": "Descoperiți colecția fascinantă de obiecte istorice din viața de zi cu zi în acest muzeu unic și asigurați-vă că ajungeți devreme pentru a vă bucura de o experiență liniștită.",
+            "en": "Discover the fascinating collection of everyday historical objects in this unique museum, and be sure to arrive early to enjoy the exhibits in a peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Circolo Culturale Arcobaleno",
+            "hu": "Circolo Culturale Arcobaleno",
+            "ro": "Circolo Culturale Arcobaleno",
+            "en": "Circolo Culturale Arcobaleno"
+          },
+          "coords": [
+            12.338884,
+            41.781189
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lokale Gemeindeleben ein, indem Sie diesen lebendigen Kulturclub besuchen, wobei Sie den Veranstaltungskalender für spontane Konzerte im Auge behalten sollten.",
+            "hu": "Merüljön el a helyi közösségi életben ezen a nyüzsgő kulturális találkozóhelyen, és érdemes előre ellenőrizni a programnaptárt az esetleges spontán koncertek miatt.",
+            "ro": "Cufundați-vă în viața comunității locale vizitând acest club cultural plin de viață și nu uitați să verificați calendarul de evenimente pentru posibile concerte spontane.",
+            "en": "Immerse yourself in local community life by visiting this vibrant cultural club, making sure to check their event calendar for any spontaneous afternoon concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "hu": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "ro": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "en": "Chiesa di San Francesco d'Assisi ad Acilia"
+          },
+          "coords": [
+            12.351888,
+            41.782249
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, moderne Architektur dieser charmanten Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die friedliche Stille abseits des Trubels zu genießen.",
+            "hu": "Csodálja meg e hangulatos plébániatemplom letisztult, modern építészetét, és szánjon egy percet a nyüzsgéstől távoli békés csend élvezetére a padokon megpihenve.",
+            "ro": "Admirați arhitectura simplă, dar modernă a acestei biserici parohiale fermecătoare și luați-vă un moment de respiro în liniștea sa deplină, departe de agitația străzii.",
+            "en": "Admire the simple, modern architecture of this charming parish church, and take a quiet moment to rest on the pews away from the bustling streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Dragoncello (sito F)",
+            "hu": "Villa di Dragoncello (sito F)",
+            "ro": "Villa di Dragoncello (sito F)",
+            "en": "Villa di Dragoncello (sito F)"
+          },
+          "coords": [
+            12.347352,
+            41.784293
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Ruinen dieser römischen Villa, aber tragen Sie unbedingt festes Schuhwerk, da das historische Gelände teilweise sehr uneben ist.",
+            "hu": "Fedezze fel ezen ősi római villa lenyűgöző romjait, de mindenképpen viseljen kényelmes és zárt cipőt, mivel a történelmi terület talaja meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane antice, dar asigurați-vă că purtați încălțăminte rezistentă deoarece terenul istoric poate fi destul de accidentat.",
+            "en": "Explore the fascinating ancient ruins of this Roman villa, but be sure to wear sturdy walking shoes as the historical terrain can be quite uneven and unpaved."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Cirillo e Metodio",
+            "hu": "Chiesa dei Santi Cirillo e Metodio",
+            "ro": "Chiesa dei Santi Cirillo e Metodio",
+            "en": "Chiesa dei Santi Cirillo e Metodio"
+          },
+          "coords": [
+            12.344901,
+            41.788969
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante Kirche mit ihrer faszinierenden Kuppelstruktur und fotografieren Sie die beeindruckende Fassade am besten in den späten Nachmittagsstunden.",
+            "hu": "Látogasson el ebbe az érdekes kupolaszerkezettel rendelkező lenyűgöző templomba, és a legszebb fotókat a késő délutáni fényekben készítheti a homlokzatról.",
+            "ro": "Vizitați această biserică impresionantă cu structura sa arhitecturală deosebită și încercați să fotografiați fațada la lăsarea serii pentru a prinde lumina perfectă.",
+            "en": "Visit this striking church with its fascinating modern dome structure, and aim to photograph its impressive facade during the beautiful late afternoon golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Morgen mit den faszinierenden Sammlungen im Museo Agostinelli und tauchen Sie direkt in die Kultur ein. Gegen Mittag führt Sie der Weg zum lebendigen Circolo Culturale, bevor Sie in der Chiesa di S. Francesco Ruhe finden. Am Nachmittag erkunden Sie die antiken Ruinen der Villa di Dragoncello, die von der reichen Geschichte erzählen. Der Tag endet friedlich an der modernen Chiesa dei Santi Cirillo e Metodio.",
+        "hu": "Kezdje reggeli sétáját a Museo Agostinelli lenyűgöző gyűjteményeivel, azonnal elmerülve a helyi kultúrában. Délben az út a pezsgő Circolo Culturale felé vezet, majd a San Francesco templomban találhat békét. Délután fedezze fel a Villa di Dragoncello ősi romjait, amelyek gazdag történelemről mesélnek. A nap csendesen zárul a modern Santi Cirillo e Metodio templomnál.",
+        "ro": "Începeți plimbarea de dimineață cu colecțiile fascinante de la Museo Agostinelli, plonjând direct în cultura locală. Până la prânz, drumul vă duce la animatul Circolo Culturale, înainte de a găsi liniște la biserica San Francesco. După-amiaza explorați ruinele antice ale Vilei di Dragoncello, care spun povești din trecut. Ziua se încheie liniștit la moderna biserică Sfinții Ciril și Metodiu.",
+        "en": "Begin your morning walk with the fascinating collections at Museo Agostinelli, diving straight into local culture. By midday, your path leads to the lively Circolo Culturale before finding peace at the San Francesco church. In the afternoon, explore the ancient ruins of Villa di Dragoncello, which tell rich historical tales. The day concludes peacefully at the modern Saints Cyril and Methodius church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Il Paradiso dei Bimbi",
+            "hu": "Il Paradiso dei Bimbi",
+            "ro": "Il Paradiso dei Bimbi",
+            "en": "Il Paradiso dei Bimbi"
+          },
+          "coords": [
+            12.345918,
+            41.774941
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem familienfreundlichen Park mit zahlreichen Freizeitangeboten und bringen Sie am besten einige Snacks für ein kleines Picknick auf den grünen Wiesen mit.",
+            "hu": "Pihenjen ebben a családbarát parkban, amely számos kikapcsolódási lehetőséget kínál, és érdemes némi rágcsálnivalót hozni egy kellemes piknikhez a zöld pázsiton.",
+            "ro": "Relaxați-vă în acest parc prietenos pentru familii cu diverse opțiuni de recreere și aduceți cu voi câteva gustări pentru a vă bucura de un picnic pe peluzele verzi.",
+            "en": "Relax in this family-friendly park offering numerous recreational activities, and consider bringing along some snacks to enjoy a lovely picnic on the well-kept green lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Agostinelli",
+            "hu": "Museo Agostinelli",
+            "ro": "Museo Agostinelli",
+            "en": "Museo Agostinelli"
+          },
+          "coords": [
+            12.338633,
+            41.780065
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung alltagsgeschichtlicher Objekte in diesem einzigartigen Museum, wo Sie am besten gleich morgens die ruhige Atmosphäre genießen sollten.",
+            "hu": "Fedezze fel a mindennapi élet történelmi tárgyainak lenyűgöző gyűjteményét ebben az egyedülálló múzeumban, és érkezzen korán a nyugodt élmény érdekében.",
+            "ro": "Descoperiți colecția fascinantă de obiecte istorice din viața de zi cu zi în acest muzeu unic și asigurați-vă că ajungeți devreme pentru a vă bucura de o experiență liniștită.",
+            "en": "Discover the fascinating collection of everyday historical objects in this unique museum, and be sure to arrive early to enjoy the exhibits in a peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Dragoncello (sito F)",
+            "hu": "Villa di Dragoncello (sito F)",
+            "ro": "Villa di Dragoncello (sito F)",
+            "en": "Villa di Dragoncello (sito F)"
+          },
+          "coords": [
+            12.347352,
+            41.784293
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Ruinen dieser römischen Villa, aber tragen Sie unbedingt festes Schuhwerk, da das historische Gelände teilweise sehr uneben ist.",
+            "hu": "Fedezze fel ezen ősi római villa lenyűgöző romjait, de mindenképpen viseljen kényelmes és zárt cipőt, mivel a történelmi terület talaja meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane antice, dar asigurați-vă că purtați încălțăminte rezistentă deoarece terenul istoric poate fi destul de accidentat.",
+            "en": "Explore the fascinating ancient ruins of this Roman villa, but be sure to wear sturdy walking shoes as the historical terrain can be quite uneven and unpaved."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "hu": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "ro": "Chiesa di San Francesco d'Assisi ad Acilia",
+            "en": "Chiesa di San Francesco d'Assisi ad Acilia"
+          },
+          "coords": [
+            12.351888,
+            41.782249
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, moderne Architektur dieser charmanten Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die friedliche Stille abseits des Trubels zu genießen.",
+            "hu": "Csodálja meg e hangulatos plébániatemplom letisztult, modern építészetét, és szánjon egy percet a nyüzsgéstől távoli békés csend élvezetére a padokon megpihenve.",
+            "ro": "Admirați arhitectura simplă, dar modernă a acestei biserici parohiale fermecătoare și luați-vă un moment de respiro în liniștea sa deplină, departe de agitația străzii.",
+            "en": "Admire the simple, modern architecture of this charming parish church, and take a quiet moment to rest on the pews away from the bustling streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leonardo da Porto Maurizio",
+            "hu": "San Leonardo da Porto Maurizio",
+            "ro": "San Leonardo da Porto Maurizio",
+            "en": "San Leonardo da Porto Maurizio"
+          },
+          "coords": [
+            12.365861,
+            41.783287
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser bedeutenden historischen Stätte und fragen Sie die einheimischen Führer nach den verborgenen architektonischen Details des Ortes.",
+            "hu": "Fedezze fel ennek a fontos történelmi helyszínnek a gazdag múltját, és bátran kérdezze a helyi vezetőket az épület rejtett építészeti részleteiről a látogatás során.",
+            "ro": "Descoperiți istoria bogată a acestui important sit istoric și nu ezitați să întrebați ghizii locali despre detaliile arhitecturale ascunse care îl fac atât de special.",
+            "en": "Discover the rich history of this significant historical site, and don't hesitate to ask the local guides about the hidden architectural details that make it so special."
+          }
+        },
+        {
+          "name": {
+            "de": "Ficana",
+            "hu": "Ficana",
+            "ro": "Ficana",
+            "en": "Ficana"
+          },
+          "coords": [
+            12.359379,
+            41.797916
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit dieser bedeutenden archäologischen Stätte ein und besuchen Sie sie am besten früh am Tag, um der intensiven Mittagshitze zu entgehen.",
+            "hu": "Merüljön el az ókori múltban ezen a fontos régészeti helyszínen, amelyet érdemes a nap elején felkeresni, hogy elkerülje az intenzív déli hőséget a romok között.",
+            "ro": "Cufundați-vă în trecutul antic al acestui important sit arheologic, care este cel mai bine vizitat la primele ore ale dimineții pentru a evita căldura intensă a amiezii.",
+            "en": "Delve into the ancient past at this significant archaeological site, which is best visited early in the day to fully avoid the intense midday heat while exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pier Damiani",
+            "hu": "Chiesa di San Pier Damiani",
+            "ro": "Chiesa di San Pier Damiani",
+            "en": "Chiesa di San Pier Damiani"
+          },
+          "coords": [
+            12.379866,
+            41.787959
+          ],
+          "category": "religious",
+          "arrive_at": "17:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Ausstrahlung dieser lokalen Kirche, die sich hervorragend für eine ruhige Pause eignet, während Sie die schönen Glasfenster im Inneren bewundern.",
+            "hu": "Élvezze ennek a helyi templomnak a békés kisugárzását, amely kiválóan alkalmas egy csendes pihenőre, miközben megcsodálja a belső tér gyönyörű ólomüveg ablakait.",
+            "ro": "Bucurați-vă de aura pașnică a acestei biserici locale, care este perfectă pentru o pauză liniștită în timp ce admirați vitraliile frumos lucrate din interiorul său.",
+            "en": "Enjoy the peaceful aura of this local church, making it an excellent spot for a quiet rest while you admire the beautifully crafted stained glass windows inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt im Il Paradiso dei Bimbi, bevor Sie sich den historischen Schätzen im Museo Agostinelli widmen. Die Mittagssonne begleitet Sie zu den antiken Überresten der Villa di Dragoncello und zur ruhigen Kirche San Francesco. Am Nachmittag radeln Sie tiefer in die Geschichte zu San Leonardo und dem archäologischen Areal von Ficana. Der Abend klingt an der charmanten Kirche San Pier Damiani harmonisch aus.",
+        "hu": "Kezdje kerékpártúráját az Il Paradiso dei Bimbi parkban, majd szentelje magát a Museo Agostinelli történelmi kincseinek. A déli napfény a Villa di Dragoncello ősi maradványaihoz és a San Francesco templomhoz kíséri. Délután tekerjen mélyebbre a történelemben a San Leonardo és Ficana régészeti területein. Az este a hangulatos San Pier Damiani templomnál ér harmonikus véget.",
+        "ro": "Începeți turul cu bicicleta relaxându-vă la Il Paradiso dei Bimbi înainte de a explora comorile istorice de la Museo Agostinelli. Soarele amiezii vă însoțește spre ruinele antice ale Vilei di Dragoncello și biserica liniștită San Francesco. După-amiaza, pedalați mai adânc în istorie la San Leonardo și zona arheologică Ficana. Seara se încheie armonios la fermecătoarea biserică San Pier Damiani.",
+        "en": "Start your bike tour smoothly at Il Paradiso dei Bimbi before dedicating time to the historical treasures in Museo Agostinelli. The midday sun accompanies you to the ancient remnants of Villa di Dragoncello and the quiet San Francesco church. In the afternoon, cycle deeper into history at San Leonardo and the Ficana archaeological area. The evening winds down harmoniously at the charming San Pier Damiani church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 12.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ficana",
+            "hu": "Ficana",
+            "ro": "Ficana",
+            "en": "Ficana"
+          },
+          "coords": [
+            12.359379,
+            41.797916
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit dieser bedeutenden archäologischen Stätte ein und besuchen Sie sie am besten früh am Tag, um der intensiven Mittagshitze zu entgehen.",
+            "hu": "Merüljön el az ókori múltban ezen a fontos régészeti helyszínen, amelyet érdemes a nap elején felkeresni, hogy elkerülje az intenzív déli hőséget a romok között.",
+            "ro": "Cufundați-vă în trecutul antic al acestui important sit arheologic, care este cel mai bine vizitat la primele ore ale dimineții pentru a evita căldura intensă a amiezii.",
+            "en": "Delve into the ancient past at this significant archaeological site, which is best visited early in the day to fully avoid the intense midday heat while exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leonardo da Porto Maurizio",
+            "hu": "San Leonardo da Porto Maurizio",
+            "ro": "San Leonardo da Porto Maurizio",
+            "en": "San Leonardo da Porto Maurizio"
+          },
+          "coords": [
+            12.365861,
+            41.783287
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser bedeutenden historischen Stätte und fragen Sie die einheimischen Führer nach den verborgenen architektonischen Details des Ortes.",
+            "hu": "Fedezze fel ennek a fontos történelmi helyszínnek a gazdag múltját, és bátran kérdezze a helyi vezetőket az épület rejtett építészeti részleteiről a látogatás során.",
+            "ro": "Descoperiți istoria bogată a acestui important sit istoric și nu ezitați să întrebați ghizii locali despre detaliile arhitecturale ascunse care îl fac atât de special.",
+            "en": "Discover the rich history of this significant historical site, and don't hesitate to ask the local guides about the hidden architectural details that make it so special."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Fralana",
+            "hu": "Villa di Fralana",
+            "ro": "Villa di Fralana",
+            "en": "Villa di Fralana"
+          },
+          "coords": [
+            12.377593,
+            41.774608
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken römischen Struktur und nehmen Sie eine gute Kamera mit, um die malerische Umgebung der Ausgrabung festzuhalten.",
+            "hu": "Fedezze fel ennek az ősi római építménynek a lenyűgöző maradványait, és mindenképpen hozzon magával egy jó fényképezőgépet az ásatás festői környezetének megörökítéséhez.",
+            "ro": "Explorați rămășițele fascinante ale acestei structuri romane antice și asigurați-vă că aveți un aparat foto bun pentru a surprinde împrejurimile pitorești ale excavației.",
+            "en": "Explore the fascinating remnants of this ancient Roman structure, and make sure to bring a good camera to capture the highly picturesque surroundings of the excavation."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pier Damiani",
+            "hu": "Chiesa di San Pier Damiani",
+            "ro": "Chiesa di San Pier Damiani",
+            "en": "Chiesa di San Pier Damiani"
+          },
+          "coords": [
+            12.379866,
+            41.787959
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Ausstrahlung dieser lokalen Kirche, die sich hervorragend für eine ruhige Pause eignet, während Sie die schönen Glasfenster im Inneren bewundern.",
+            "hu": "Élvezze ennek a helyi templomnak a békés kisugárzását, amely kiválóan alkalmas egy csendes pihenőre, miközben megcsodálja a belső tér gyönyörű ólomüveg ablakait.",
+            "ro": "Bucurați-vă de aura pașnică a acestei biserici locale, care este perfectă pentru o pauză liniștită în timp ce admirați vitraliile frumos lucrate din interiorul său.",
+            "en": "Enjoy the peaceful aura of this local church, making it an excellent spot for a quiet rest while you admire the beautifully crafted stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pio da Pietrelcina",
+            "hu": "Chiesa di San Pio da Pietrelcina",
+            "ro": "Chiesa di San Pio da Pietrelcina",
+            "en": "Chiesa di San Pio da Pietrelcina"
+          },
+          "coords": [
+            12.393101,
+            41.784909
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Spiritualität dieser wunderschönen Kirche und achten Sie besonders auf die zeitgenössischen Kunstwerke, die den hellen und einladenden Innenraum schmücken.",
+            "hu": "Tapasztalja meg a modern spiritualitást ebben a gyönyörű templomban, és figyelje meg a kortárs műalkotásokat, amelyek a világos és hívogató belső teret díszítik.",
+            "ro": "Experimentați spiritualitatea modernă a acestei biserici frumoase și acordați o atenție deosebită operelor de artă contemporană care împodobesc interiorul său luminos și primitor.",
+            "en": "Experience the modern spirituality of this beautiful church, paying special attention to the contemporary artworks that adorn its incredibly bright and welcoming interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Comunale Cornelio Tacito",
+            "hu": "Piscina Comunale Cornelio Tacito",
+            "ro": "Piscina Comunale Cornelio Tacito",
+            "en": "Piscina Comunale Cornelio Tacito"
+          },
+          "coords": [
+            12.401737,
+            41.793657
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem hervorragend ausgestatteten öffentlichen Schwimmbad ab, wo Sie sich im Voraus über die Bahnenschwimmzeiten informieren sollten, um Wartezeiten zu vermeiden.",
+            "hu": "Frissüljön fel ebben a kiválóan felszerelt nyilvános uszodában, de érdemes előre tájékozódni a sávos úszás időpontjairól, hogy elkerülje a felesleges várakozást a bejáratnál.",
+            "ro": "Răcoriți-vă în această piscină publică excelent echipată, dar informați-vă din timp despre programul culoarelor de înot pentru a evita timpii de așteptare la intrare.",
+            "en": "Cool off in this excellently equipped public swimming pool, but remember to check the lane swimming schedules in advance to avoid any unnecessary wait times at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Agostinelli",
+            "hu": "Museo Agostinelli",
+            "ro": "Museo Agostinelli",
+            "en": "Museo Agostinelli"
+          },
+          "coords": [
+            12.338633,
+            41.780065
+          ],
+          "category": "museum",
+          "arrive_at": "16:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung alltagsgeschichtlicher Objekte in diesem einzigartigen Museum, wo Sie am besten gleich morgens die ruhige Atmosphäre genießen sollten.",
+            "hu": "Fedezze fel a mindennapi élet történelmi tárgyainak lenyűgöző gyűjteményét ebben az egyedülálló múzeumban, és érkezzen korán a nyugodt élmény érdekében.",
+            "ro": "Descoperiți colecția fascinantă de obiecte istorice din viața de zi cu zi în acest muzeu unic și asigurați-vă că ajungeți devreme pentru a vă bucura de o experiență liniștită.",
+            "en": "Discover the fascinating collection of everyday historical objects in this unique museum, and be sure to arrive early to enjoy the exhibits in a peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an den beeindruckenden historischen Ausgrabungen von Ficana und führt Sie weiter zum bedeutungsvollen San Leonardo. Mittags setzen Sie Ihre historische Reise an der Villa di Fralana fort und besichtigen die friedliche Kirche San Pier Damiani. Der Nachmittag bietet spirituelle Einblicke in San Pio und Erfrischung im Schwimmbad Cornelio Tacito. Abends runden Sie den Tag im faszinierenden Museo Agostinelli ab.",
+        "hu": "Autós túrája Ficana lenyűgöző történelmi ásatásainál kezdődik, majd a jelentőségteljes San Leonardo felé folytatódik. Délben a Villa di Fralana ősi romjainál folytatja az utat, majd meglátogatja a San Pier Damiani templomot. A délután spirituális élményt nyújt a San Pio-ban, majd felfrissülést a Cornelio Tacito uszodában. Az estét a lenyűgöző Museo Agostinelli múzeumban zárja.",
+        "ro": "Turul dumneavoastră cu mașina începe la impresionantele excavații istorice de la Ficana și continuă spre semnificativul San Leonardo. La prânz, vă continuați călătoria istorică la Villa di Fralana și vizitați liniștita biserică San Pier Damiani. După-amiaza oferă perspective spirituale la San Pio și răcorire la piscina Cornelio Tacito. Seara se încheie perfect la fascinantul Museo Agostinelli.",
+        "en": "Your car tour begins at the impressive historical excavations of Ficana and moves on to the significant San Leonardo. At midday, continue your historical journey at Villa di Fralana and visit the peaceful San Pier Damiani church. The afternoon offers spiritual insights at San Pio and refreshing moments at the Cornelio Tacito pool. Conclude your evening at the fascinating Museo Agostinelli."
+      }
+    }
+  }
+}

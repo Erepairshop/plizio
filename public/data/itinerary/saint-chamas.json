@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-chamas",
+  "anchor": {
+    "name": "Saint-Chamas",
+    "coords": [
+      5.0347,
+      43.5503
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:04",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Léger Kirche",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            5.034732,
+            43.549648
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente dieser historischen Kirche im Zentrum und achten Sie auf dem Aushang auf lokale Chorkonzerttermine.",
+            "hu": "Csodálja meg a központi templom gyönyörű barokk elemeit, és ne felejtse el megnézni a hirdetőtáblán a helyi kóruskoncertek menetrendjét.",
+            "ro": "Admirați elementele baroce ale acestei biserici istorice centrale și verificați panoul informativ pentru programul concertelor locale de cor.",
+            "en": "Admire the beautiful baroque elements of this historic central church, and remember to check the notice board for local choir concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul Lafran Museum",
+            "hu": "Paul Lafran Múzeum",
+            "ro": "Muzeul Paul Lafran",
+            "en": "Paul Lafran Museum"
+          },
+          "coords": [
+            5.033365,
+            43.549757
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in das landwirtschaftliche Erbe der Region ein, aber bitten Sie unbedingt den passionierten Kurator um eine Führung.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében ebben a múzeumban, de mindenképpen kérjen vezetett túrát a szenvedélyes kurátortól.",
+            "ro": "Explorați patrimoniul agricol bogat al regiunii în acest muzeu, dar asigurați-vă că îi cereți curatorului pasionat un tur ghidat detaliat.",
+            "en": "Dive into the rich local heritage and agricultural history of the region in this museum, but make sure to ask the passionate curator for a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Pierre",
+            "hu": "Saint-Pierre kápolna",
+            "ro": "Capela Saint-Pierre",
+            "en": "Chapelle Saint-Pierre"
+          },
+          "coords": [
+            5.031547,
+            43.549687
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser bescheidenen, steinernen Kapelle und kommen Sie am frühen Nachmittag, um die friedliche Atmosphäre zu erleben.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a szerény, mégis spirituális kőkápolnában, és látogasson el kora délután a békés belső hangulatért.",
+            "ro": "Petreceți un moment de liniște la această capelă modestă din piatră și vizitați-o la începutul după-amiezii pentru a vă bucura de atmosfera pașnică.",
+            "en": "Take a quiet moment at this modest yet deeply spiritual stone chapel, and visit during the early afternoon to enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Miséricorde",
+            "hu": "Notre-Dame de la Miséricorde",
+            "ro": "Notre-Dame de la Miséricorde",
+            "en": "Notre-Dame de la Miséricorde"
+          },
+          "coords": [
+            5.03513,
+            43.545287
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markanten Details dieses verehrten Wahrzeichens und bringen Sie ein Weitwinkelobjektiv mit, um die elegante Fassade perfekt einzufangen.",
+            "hu": "Figyelje meg a helyi nevezetesség lenyűgöző építészeti részleteit, és hozzon magával nagylátószögű objektívet az elegáns homlokzat megörökítéséhez.",
+            "ro": "Observați detaliile arhitecturale uimitoare ale acestui reper local și aduceți un obiectiv cu unghi larg pentru a surprinde perfect fațada sa elegantă.",
+            "en": "Observe the striking architectural details of this revered local landmark, and bring a wide-angle lens to capture its elegant facade perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Flavien",
+            "hu": "Pont Flavien",
+            "ro": "Pont Flavien",
+            "en": "Pont Flavien"
+          },
+          "coords": [
+            5.043056,
+            43.541389
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese perfekt erhaltene römische Brücke mit ihren Triumphbögen und überqueren Sie sie bei Sonnenuntergang für atemberaubende Fotos.",
+            "hu": "Csodálja meg ezt a tökéletesen megőrzött római hidat a kettős diadalívekkel, és sétáljon át rajta naplementekor a legszebb fényképek elkészítéséhez.",
+            "ro": "Admirați acest pod roman impecabil conservat cu arcurile sale de triumf și traversați-l la apus pentru cele mai uluitoare și spectaculoase fotografii.",
+            "en": "Marvel at this impeccably preserved Roman bridge with its twin triumphal arches, and walk across it at sunset for the most breathtaking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaduc de Saint-Chamas",
+            "hu": "Saint-Chamas Viadukt",
+            "ro": "Viaductul din Saint-Chamas",
+            "en": "Viaduc de Saint-Chamas"
+          },
+          "coords": [
+            5.048892,
+            43.543516
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie staunend unter diesem massiven Eisenbahnviadukt und positionieren Sie sich auf dem angrenzenden Hügel für eine fantastische Perspektive.",
+            "hu": "Álljon áhítattal e hatalmas, többíves vasúti viadukt alatt, és helyezkedjen el a szomszédos dombon egy fantasztikus panorámás perspektívához.",
+            "ro": "Stați cu uimire sub acest viaduct feroviar masiv cu mai multe arcuri și poziționați-vă pe dealul alăturat pentru o perspectivă panoramică fantastică.",
+            "en": "Stand in awe beneath this massive multi-arched railway viaduct, and position yourself on the adjacent hill for a fantastic panoramic perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Kirche Saint-Léger und genießen Sie die schönen barocken Details. Mittags bietet das Paul Lafran Museum einen Einblick in das lokale Erbe, gefolgt von der ruhigen Chapelle Saint-Pierre. Bestaunen Sie am Nachmittag die antike Pont Flavien. Lassen Sie den Tag ausklingen, während Sie das monumentale Viaduc de Saint-Chamas im warmen Abendlicht bewundern.",
+        "hu": "Kezdje a reggelt a Saint-Léger templomnál, megcsodálva a barokk részleteket. A délben a Paul Lafran Múzeum nyújt betekintést a helyi örökségbe, majd a Chapelle Saint-Pierre következik. Délután csodálja meg az ősi Pont Flavien római hídját, mielőtt a viadukt felé veszi az irányt. Este fejezze be útját a monumentális Saint-Chamas viadukt lenyűgöző látványával a naplementében.",
+        "ro": "Începeți dimineața la Biserica Saint-Léger, admirând detaliile sale baroce. La amiază, Muzeul Paul Lafran vă oferă o perspectivă asupra patrimoniului local, urmat de o oprire pașnică la Chapelle Saint-Pierre. După-amiaza, admirați antic podul roman Pont Flavien. Încheiați-vă seara privind monumentalul viaduct de Saint-Chamas, un spectacol uimitor în lumina caldă a apusului de soare.",
+        "en": "Begin your morning at the Saint-Léger Church, soaking in its beautiful baroque details. Midday brings an insightful journey through local heritage at the Paul Lafran Museum and a peaceful stop at Chapelle Saint-Pierre. In the afternoon, marvel at the ancient Pont Flavien before heading towards the viaduct. Conclude your evening viewing the monumental Viaduc de Saint-Chamas at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Großes Becken",
+            "hu": "Nagy medence",
+            "ro": "Bazinul mare",
+            "en": "Grand bassin"
+          },
+          "coords": [
+            5.02701,
+            43.557811
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses große natürliche Becken, das den Himmel spiegelt, und packen Sie ein leichtes Picknick ein, um es auf der Wiese zu genießen.",
+            "hu": "Sétáljon egyet e csodás égboltot tükröző, nagy természetes medence körül, és csomagoljon egy könnyű pikniket, amit a füves parton fogyaszthat el.",
+            "ro": "Plimbați-vă în jurul acestui bazin natural care reflectă cerul și împachetați un picnic ușor pentru a-l savura pe malurile înierbate într-o dimineață.",
+            "en": "Stroll around this large natural basin reflecting the beautiful sky, and pack a light picnic to enjoy on the grassy banks during a sunny morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Léger Kirche",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            5.034732,
+            43.549648
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente dieser historischen Kirche im Zentrum und achten Sie auf dem Aushang auf lokale Chorkonzerttermine.",
+            "hu": "Csodálja meg a központi templom gyönyörű barokk elemeit, és ne felejtse el megnézni a hirdetőtáblán a helyi kóruskoncertek menetrendjét.",
+            "ro": "Admirați elementele baroce ale acestei biserici istorice centrale și verificați panoul informativ pentru programul concertelor locale de cor.",
+            "en": "Admire the beautiful baroque elements of this historic central church, and remember to check the notice board for local choir concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul Lafran Museum",
+            "hu": "Paul Lafran Múzeum",
+            "ro": "Muzeul Paul Lafran",
+            "en": "Paul Lafran Museum"
+          },
+          "coords": [
+            5.033365,
+            43.549757
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in das landwirtschaftliche Erbe der Region ein, aber bitten Sie unbedingt den passionierten Kurator um eine Führung.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében ebben a múzeumban, de mindenképpen kérjen vezetett túrát a szenvedélyes kurátortól.",
+            "ro": "Explorați patrimoniul agricol bogat al regiunii în acest muzeu, dar asigurați-vă că îi cereți curatorului pasionat un tur ghidat detaliat.",
+            "en": "Dive into the rich local heritage and agricultural history of the region in this museum, but make sure to ask the passionate curator for a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Flavien",
+            "hu": "Pont Flavien",
+            "ro": "Pont Flavien",
+            "en": "Pont Flavien"
+          },
+          "coords": [
+            5.043056,
+            43.541389
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese perfekt erhaltene römische Brücke mit ihren Triumphbögen und überqueren Sie sie bei Sonnenuntergang für atemberaubende Fotos.",
+            "hu": "Csodálja meg ezt a tökéletesen megőrzött római hidat a kettős diadalívekkel, és sétáljon át rajta naplementekor a legszebb fényképek elkészítéséhez.",
+            "ro": "Admirați acest pod roman impecabil conservat cu arcurile sale de triumf și traversați-l la apus pentru cele mai uluitoare și spectaculoase fotografii.",
+            "en": "Marvel at this impeccably preserved Roman bridge with its twin triumphal arches, and walk across it at sunset for the most breathtaking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermitage Saint-Léger",
+            "hu": "Ermitage Saint-Léger",
+            "ro": "Schitul Saint-Léger",
+            "en": "Ermitage Saint-Léger"
+          },
+          "coords": [
+            5.04754,
+            43.545099
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartigen, direkt in den Felsen gehauenen Troglodytenkapellen und tragen Sie festes Schuhwerk, um die steinigen Wege sicher zu meistern.",
+            "hu": "Fedezze fel a közvetlenül a sziklába vájt egyedülálló troglodita kápolnákat, és viseljen masszív túracipőt az egyenetlen sziklás ösvényeken való haladáshoz.",
+            "ro": "Explorați capelele troglodite unice sculptate direct în stâncă și purtați încălțăminte de mers rezistentă pentru a naviga în siguranță pe cărările abrupte.",
+            "en": "Explore the unique troglodyte chapels carved directly into the cliffside, and wear sturdy walking shoes to navigate the uneven rocky paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaduc de Saint-Chamas",
+            "hu": "Saint-Chamas Viadukt",
+            "ro": "Viaductul din Saint-Chamas",
+            "en": "Viaduc de Saint-Chamas"
+          },
+          "coords": [
+            5.048892,
+            43.543516
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie staunend unter diesem massiven Eisenbahnviadukt und positionieren Sie sich auf dem angrenzenden Hügel für eine fantastische Perspektive.",
+            "hu": "Álljon áhítattal e hatalmas, többíves vasúti viadukt alatt, és helyezkedjen el a szomszédos dombon egy fantasztikus panorámás perspektívához.",
+            "ro": "Stați cu uimire sub acest viaduct feroviar masiv cu mai multe arcuri și poziționați-vă pe dealul alăturat pentru o perspectivă panoramică fantastică.",
+            "en": "Stand in awe beneath this massive multi-arched railway viaduct, and position yourself on the adjacent hill for a fantastic panoramic perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an den ruhigen Gewässern des Grand bassin. Mittags fahren Sie ins Zentrum, um die historische Kirche Saint-Léger und das fesselnde Paul Lafran Museum zu erkunden. Verbringen Sie den Nachmittag bei den großartigen römischen Bögen der Pont Flavien und der Ermitage. Ihr Abend endet perfekt unter der beeindruckenden Struktur des Viaduc de Saint-Chamas.",
+        "hu": "Kezdje a kerékpáros napot a Grand bassin békés vizei mellett. Délben a város szívébe teker, hogy felfedezze a történelmi Saint-Léger templomot és a lenyűgöző Paul Lafran Múzeumot. Délután tekerjen a Pont Flavien csodás római íveihez és a sziklába vájt Ermitage-hoz. Az estéje tökéletesen zárul a híres Saint-Chamas viadukt monumentális és megkapó szerkezete alatt megpihenve.",
+        "ro": "Începeți ziua de ciclism lângă apele liniștite ale Grand bassin. La amiază mergeți în inima orașului pentru a explora Biserica istorică Saint-Léger și captivantul Muzeu Paul Lafran. Petreceți după-amiaza pedalând spre magnificele arcuri romane ale Pont Flavien și Schitul săpat în stâncă. Seara se termină perfect sub structura impunătoare a faimosului viaduct de Saint-Chamas.",
+        "en": "Start your cycling day beside the tranquil waters of the Grand bassin. Midday takes you into the town's heart to explore the historic Saint-Léger Church and the captivating Paul Lafran Museum. Spend your afternoon pedaling to the magnificent Roman arches of Pont Flavien and the cliffside Ermitage. Your evening finishes perfectly under the grand structure of the famous Viaduc de Saint-Chamas."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Beauvezer",
+            "hu": "Notre-Dame-de-Beauvezer templom",
+            "ro": "Biserica Notre-Dame-de-Beauvezer",
+            "en": "Église Notre-Dame-de-Beauvezer"
+          },
+          "coords": [
+            5.024662,
+            43.563637
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser abgelegenen nördlichen Kirche und nehmen Sie sich Zeit, die informativen Tafeln über ihre Vergangenheit zu lesen.",
+            "hu": "Fedezze fel e félreeső északi templom nyugodt hangulatát, és szánjon időt a hosszú és viharos múltját részletező tájékoztató táblák elolvasására.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici nordice izolate și acordați-vă timp pentru a citi plăcile informative care detaliază trecutul ei lung.",
+            "en": "Discover the serene atmosphere of this secluded northern church, and take time to read the informative plaques detailing its long and storied past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Julien",
+            "hu": "Saint-Julien kápolna",
+            "ro": "Capela Saint-Julien",
+            "en": "Chapelle Saint-Julien"
+          },
+          "coords": [
+            5.025285,
+            43.561899
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die zeitlose Ruhe dieser historischen religiösen Stätte und bringen Sie eine kleine Flasche Wasser mit, da es in der Nähe keine Anlagen gibt.",
+            "hu": "Tapasztalja meg e történelmi vallási hely időtlen nyugalmát, és hozzon magával egy kis üveg vizet, mivel a közelben nincsenek elérhető létesítmények.",
+            "ro": "Experimentați liniștea atemporală a acestui sit religios istoric și aduceți o sticlă mică de apă, deoarece nu există facilități disponibile în apropiere.",
+            "en": "Experience the timeless quietude of this historical religious site, and bring a small bottle of water as there are no nearby facilities available."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Becken",
+            "hu": "Nagy medence",
+            "ro": "Bazinul mare",
+            "en": "Grand bassin"
+          },
+          "coords": [
+            5.02701,
+            43.557811
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses große natürliche Becken, das den Himmel spiegelt, und packen Sie ein leichtes Picknick ein, um es auf der Wiese zu genießen.",
+            "hu": "Sétáljon egyet e csodás égboltot tükröző, nagy természetes medence körül, és csomagoljon egy könnyű pikniket, amit a füves parton fogyaszthat el.",
+            "ro": "Plimbați-vă în jurul acestui bazin natural care reflectă cerul și împachetați un picnic ușor pentru a-l savura pe malurile înierbate într-o dimineață.",
+            "en": "Stroll around this large natural basin reflecting the beautiful sky, and pack a light picnic to enjoy on the grassy banks during a sunny morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul Lafran Museum",
+            "hu": "Paul Lafran Múzeum",
+            "ro": "Muzeul Paul Lafran",
+            "en": "Paul Lafran Museum"
+          },
+          "coords": [
+            5.033365,
+            43.549757
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in das landwirtschaftliche Erbe der Region ein, aber bitten Sie unbedingt den passionierten Kurator um eine Führung.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében ebben a múzeumban, de mindenképpen kérjen vezetett túrát a szenvedélyes kurátortól.",
+            "ro": "Explorați patrimoniul agricol bogat al regiunii în acest muzeu, dar asigurați-vă că îi cereți curatorului pasionat un tur ghidat detaliat.",
+            "en": "Dive into the rich local heritage and agricultural history of the region in this museum, but make sure to ask the passionate curator for a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Flavien",
+            "hu": "Pont Flavien",
+            "ro": "Pont Flavien",
+            "en": "Pont Flavien"
+          },
+          "coords": [
+            5.043056,
+            43.541389
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese perfekt erhaltene römische Brücke mit ihren Triumphbögen und überqueren Sie sie bei Sonnenuntergang für atemberaubende Fotos.",
+            "hu": "Csodálja meg ezt a tökéletesen megőrzött római hidat a kettős diadalívekkel, és sétáljon át rajta naplementekor a legszebb fényképek elkészítéséhez.",
+            "ro": "Admirați acest pod roman impecabil conservat cu arcurile sale de triumf și traversați-l la apus pentru cele mai uluitoare și spectaculoase fotografii.",
+            "en": "Marvel at this impeccably preserved Roman bridge with its twin triumphal arches, and walk across it at sunset for the most breathtaking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaduc de Saint-Chamas",
+            "hu": "Saint-Chamas Viadukt",
+            "ro": "Viaductul din Saint-Chamas",
+            "en": "Viaduc de Saint-Chamas"
+          },
+          "coords": [
+            5.048892,
+            43.543516
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie staunend unter diesem massiven Eisenbahnviadukt und positionieren Sie sich auf dem angrenzenden Hügel für eine fantastische Perspektive.",
+            "hu": "Álljon áhítattal e hatalmas, többíves vasúti viadukt alatt, és helyezkedjen el a szomszédos dombon egy fantasztikus panorámás perspektívához.",
+            "ro": "Stați cu uimire sub acest viaduct feroviar masiv cu mai multe arcuri și poziționați-vă pe dealul alăturat pentru o perspectivă panoramică fantastică.",
+            "en": "Stand in awe beneath this massive multi-arched railway viaduct, and position yourself on the adjacent hill for a fantastic panoramic perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt im Norden mit dem abgelegenen Charme der Église Notre-Dame-de-Beauvezer. Mittags lockt ein landschaftlich reizvoller Stopp am Grand bassin und historische Einblicke im Paul Lafran Museum. Entdecken Sie am Nachmittag das antike Wunder der Pont Flavien. Genießen Sie einen malerischen Abend und betrachten Sie die hoch aufragenden Bögen des Viadukts.",
+        "hu": "Reggeli autózása északon kezdődik a Notre-Dame-de-Beauvezer templom és a Chapelle Saint-Julien eldugott bájával. Délben egy festői megállót tehet a Grand bassinnál, és történelmi ismereteket szerezhet a múzeumban. Délután fedezze fel az ősi Pont Flavien csodáját. Élvezze a festői estét a viadukt magasba törő boltíveinek megtekintésével, ahogy a nap lassan eltűnik a horizonton.",
+        "ro": "Plimbarea de dimineață începe în nord cu farmecul izolat al Bisericii Notre-Dame-de-Beauvezer și al Capelei Saint-Julien. La amiază faceți o oprire la Grand bassin și o vizită la Muzeul Paul Lafran. Odată cu lăsarea după-amiezii, descoperiți minunea antică a Pont Flavien. Bucurați-vă de o seară pitorească privind arcurile înalte ale viaductului în timp ce lumina zilei se estompează.",
+        "en": "Your morning drive begins in the north with the secluded charm of Église Notre-Dame-de-Beauvezer and Chapelle Saint-Julien. Midday invites a scenic stop at the Grand bassin and deep historical insights at the Paul Lafran Museum. As afternoon sets in, discover the ancient wonder of the Pont Flavien. Enjoy a scenic evening viewing the soaring arches of the viaduct as the day slowly fades."
+      }
+    }
+  }
+}

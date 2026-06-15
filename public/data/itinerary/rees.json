@@ -1,0 +1,405 @@
+{
+  "city_id": "rees",
+  "anchor": {
+    "name": "Rees",
+    "coords": [
+      6.3978,
+      51.7625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Mariä Himmelfahrt",
+            "hu": "St. Mariä Himmelfahrt",
+            "ro": "St. Mariä Himmelfahrt",
+            "en": "St. Mariä Himmelfahrt"
+          },
+          "coords": [
+            6.3958,
+            51.7584
+          ],
+          "category": "Churches & monasteries",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in dieser beeindruckenden Kirche mit ihren wunderschönen Buntglasfenstern, am besten direkt nach dem Frühstück.",
+            "hu": "Kezdje a napot ebben a lenyűgöző templomban, melynek gyönyörű ólomüveg ablakai vannak, lehetőleg rögtön reggeli után.",
+            "ro": "Începeți ziua în această biserică impresionantă cu vitraliile sale superbe, de preferat imediat după un mic dejun relaxant.",
+            "en": "Start your day in this impressive church with its beautiful stained glass windows, ideally right after a relaxing breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinpromenade",
+            "hu": "Rajnai sétány",
+            "ro": "Promenada Rinului",
+            "en": "Rhine Promenade"
+          },
+          "coords": [
+            6.392904,
+            51.757349
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie gemütlich entlang der längsten und schönsten Rheinpromenade Deutschlands und genießen Sie die klare Morgenluft.",
+            "hu": "Sétáljon kényelmesen Németország leghosszabb és legszebb rajnai sétányán, miközben élvezi a friss reggeli levegőt.",
+            "ro": "Plimbați-vă pe îndelete de-a lungul celei mai lungi și frumoase promenade de pe Rin din Germania, savurând aerul proaspăt al dimineții.",
+            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenturm",
+            "hu": "Mühlenturm",
+            "ro": "Mühlenturm",
+            "en": "Mühlenturm"
+          },
+          "coords": [
+            6.400889,
+            51.757694
+          ],
+          "category": "City gates, towers, walls",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Turm der alten Stadtmauer, der eine tolle Aussicht auf den Fluss bietet und bei Sonnenlicht fantastisch aussieht.",
+            "hu": "Látogassa meg az egykori városfal történelmi tornyát, amely nagyszerű kilátást nyújt a folyóra és napsütésben fantasztikusan mutat.",
+            "ro": "Vizitați acest turn istoric al vechiului zid al orașului, care oferă o priveliște minunată asupra râului și arată fantastic în lumina soarelui.",
+            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Koenraad Bosman",
+            "hu": "Koenraad Bosman Múzeum",
+            "ro": "Muzeul Koenraad Bosman",
+            "en": "Museum Koenraad Bosman"
+          },
+          "coords": [
+            6.399278,
+            51.759444
+          ],
+          "category": "Museums",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende Stadtgeschichte in diesem charmanten Museum, wo Sie auch Werke rheinischer Künstler bewundern können.",
+            "hu": "Fedezze fel a város izgalmas történelmét ebben a bájos múzeumban, ahol rajnai művészek alkotásait is megcsodálhatja.",
+            "ro": "Descoperiți istoria fascinantă a orașului în acest muzeu fermecător, unde puteți admira și opere ale artiștilor renani.",
+            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark",
+            "hu": "Szoborpark",
+            "ro": "Parcul de sculpturi",
+            "en": "Sculpture Park"
+          },
+          "coords": [
+            6.400491,
+            51.759665
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "14:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Nachmittag in diesem gepflegten Park ausklingen, wo moderne Skulpturen zwischen alten Bäumen eine wunderbare Ruhe ausstrahlen.",
+            "hu": "Zárja a délutánt ebben a gondozott parkban, ahol a modern szobrok az öreg fák között csodálatos nyugalmat árasztanak.",
+            "ro": "Încheiați după-amiaza în acest parc îngrijit, unde sculpturile moderne printre copacii bătrâni emană o liniște minunată.",
+            "en": "End the afternoon in this well-kept park, where modern sculptures among old trees exude a wonderful sense of tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rees lockt mit seiner charmanten Altstadt und der Rheinnähe. Am Vormittag erkunden wir historische Bauwerke und die idyllische Promenade. Mittags tauchen wir in die Geschichte der Stadt ein. Der Nachmittag steht im Zeichen von Kunst und Natur, bevor wir den Tag entspannt am Skulpturenpark ausklingen lassen.",
+        "hu": "Rees elbűvölő óvárosával és a Rajna közelségével csábít. Délelőtt felfedezzük a történelmi épületeket és az idilli sétányt. Délben elmerülünk a város történelmében. A délután a művészet és a természet jegyében telik, mielőtt a napot nyugodtan zárnánk a szoborparkban.",
+        "ro": "Rees ne atrage cu orașul său vechi fermecător și proximitatea față de Rin. Dimineața explorăm clădirile istorice și promenada idilică. La prânz ne scufundăm în istoria orașului. După-amiaza este dedicată artei și naturii, înainte de a încheia ziua relaxant în parcul de sculpturi.",
+        "en": "Rees attracts with its charming old town and proximity to the Rhine. In the morning we explore historical buildings and the idyllic promenade. At noon we dive into the city's history. The afternoon is dedicated to art and nature, before we end the day relaxing at the sculpture park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Koenraad Bosman",
+            "hu": "Koenraad Bosman Múzeum",
+            "ro": "Muzeul Koenraad Bosman",
+            "en": "Museum Koenraad Bosman"
+          },
+          "coords": [
+            6.399278,
+            51.759444
+          ],
+          "category": "Museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannende Stadtgeschichte in diesem charmanten Museum, wo Sie auch Werke rheinischer Künstler bewundern können.",
+            "hu": "Fedezze fel a város izgalmas történelmét ebben a bájos múzeumban, ahol rajnai művészek alkotásait is megcsodálhatja.",
+            "ro": "Descoperiți istoria fascinantă a orașului în acest muzeu fermecător, unde puteți admira și opere ale artiștilor renani.",
+            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenturm",
+            "hu": "Mühlenturm",
+            "ro": "Mühlenturm",
+            "en": "Mühlenturm"
+          },
+          "coords": [
+            6.400889,
+            51.757694
+          ],
+          "category": "City gates, towers, walls",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Turm der alten Stadtmauer, der eine tolle Aussicht auf den Fluss bietet und bei Sonnenlicht fantastisch aussieht.",
+            "hu": "Látogassa meg az egykori városfal történelmi tornyát, amely nagyszerű kilátást nyújt a folyóra és napsütésben fantasztikusan mutat.",
+            "ro": "Vizitați acest turn istoric al vechiului zid al orașului, care oferă o priveliște minunată asupra râului și arată fantastic în lumina soarelui.",
+            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolfersömer Woy",
+            "hu": "Wolfersömer Woy",
+            "ro": "Wolfersömer Woy",
+            "en": "Wolfersömer Woy"
+          },
+          "coords": [
+            6.428763,
+            51.76031
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem idyllischen Gewässer, das von üppiger Natur umgeben ist, und machen Sie hier eine erholsame Pause am Ufer.",
+            "hu": "Tekerjen el ehhez a buja természettel körülvett, idilli tóhoz, és tartson egy pihentető szünetet a nyugodt parton.",
+            "ro": "Bicicliți până la acest lac idilic înconjurat de natură luxuriantă și faceți o pauză relaxantă pe malul liniștit.",
+            "en": "Cycle to this idyllic lake surrounded by lush nature and take a relaxing break on the peaceful shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Reeser Meer",
+            "hu": "Reeser Meer",
+            "ro": "Reeser Meer",
+            "en": "Reeser Meer"
+          },
+          "coords": [
+            6.456828,
+            51.761504
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses weitläufige Naturschutzgebiet, das zahlreichen Vogelarten ein Zuhause bietet und ideal für Naturbeobachtungen ist.",
+            "hu": "Fedezze fel ezt a kiterjedt természetvédelmi területet, amely számos madárfajnak ad otthont, és ideális a természet megfigyelésére.",
+            "ro": "Descoperiți această rezervație naturală vastă, care adăpostește numeroase specii de păsări și este ideală pentru observarea naturii.",
+            "en": "Discover this expansive nature reserve, which is home to numerous bird species and ideal for wildlife observation."
+          }
+        },
+        {
+          "name": {
+            "de": "Aspeler Meer",
+            "hu": "Aspeler Meer",
+            "ro": "Aspeler Meer",
+            "en": "Aspeler Meer"
+          },
+          "coords": [
+            6.431821,
+            51.77251
+          ],
+          "category": "natural",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem friedlichen See nahe des Schlosses Aspel, dessen spiegelglatte Oberfläche besonders abends zauberhaft wirkt.",
+            "hu": "Fejezze be kerékpártúráját ennél a békés tónál az Aspel-kastély közelében, melynek tükörsima vize különösen este varázslatos.",
+            "ro": "Încheiați-vă plimbarea cu bicicleta la acest lac pașnic de lângă Castelul Aspel, a cărui suprafață netedă este magică mai ales seara.",
+            "en": "Finish your bike ride at this peaceful lake near Aspel Castle, whose mirror-like surface is especially magical in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Fahrrad ist ideal, um Rees und die umliegenden Seenplatten zu entdecken. Nach einer kulturellen Dosis am Morgen in der Altstadt, führt uns der Weg hinaus ins Grüne. Die Mittagszeit verbringen wir an ruhigen Gewässern, die zum Verweilen einladen. Am späten Nachmittag genießen wir die Abendsonne am Wasser.",
+        "hu": "A kerékpár ideális Rees és a környező tóvidék felfedezésére. A reggeli kulturális adag után az óvárosban, utunk a zöldbe vezet. A delet nyugodt vizek mellett töltjük, amelyek maradásra csábítanak. Késő délután a lemenő nap sugarait élvezzük a vízparton.",
+        "ro": "Bicicleta este ideală pentru a descoperi Rees și districtul lacurilor din jur. După o doză culturală dimineața în centrul vechi, drumul ne duce în natură. Petrecem prânzul la ape liniștite care ne invită să zăbovim. Spre seară, ne bucurăm de soarele apusului lângă apă.",
+        "en": "The bicycle is ideal for discovering Rees and the surrounding lake district. After a cultural dose in the old town in the morning, our path leads out into nature. We spend lunchtime by quiet waters that invite you to linger. In the late afternoon, we enjoy the evening sun by the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rheinpromenade",
+            "hu": "Rajnai sétány",
+            "ro": "Promenada Rinului",
+            "en": "Rhine Promenade"
+          },
+          "coords": [
+            6.392904,
+            51.757349
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie gemütlich entlang der längsten und schönsten Rheinpromenade Deutschlands und genießen Sie die klare Morgenluft.",
+            "hu": "Sétáljon kényelmesen Németország leghosszabb és legszebb rajnai sétányán, miközben élvezi a friss reggeli levegőt.",
+            "ro": "Plimbați-vă pe îndelete de-a lungul celei mai lungi și frumoase promenade de pe Rin din Germania, savurând aerul proaspăt al dimineții.",
+            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Sporthafen Obermörmter",
+            "hu": "Obermörmter sportkikötő",
+            "ro": "Portul sportiv Obermörmter",
+            "en": "Sporthafen Obermörmter"
+          },
+          "coords": [
+            6.390717,
+            51.749058
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem kleinen Sporthafen, wo die sanft schaukelnden Boote ein malerisches und wunderbar entspannendes Fotomotiv abgeben.",
+            "hu": "Vezessen ehhez a kis kikötőhöz, ahol a lágyan ringatózó csónakok festői és csodálatosan pihentető fotótémát nyújtanak.",
+            "ro": "Conduceți până la acest mic port sportiv, unde bărcile care se leagănă ușor oferă un motiv fotografic pitoresc și minunat de relaxant.",
+            "en": "Drive to this small marina, where the gently swaying boats provide a picturesque and wonderfully relaxing photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Wisseler See",
+            "hu": "Wisseler See",
+            "ro": "Lacul Wissel",
+            "en": "Wisseler See"
+          },
+          "coords": [
+            6.299812,
+            51.760548
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Machen Sie Halt an diesem beliebten Freizeitsee, der mit seinen sauberen Stränden zu einem kurzen, erfrischenden Spaziergang am Wasser einlädt.",
+            "hu": "Álljon meg ennél a népszerű szabadidős tónál, amely tiszta strandjaival egy rövid, frissítő vízparti sétára hívogat.",
+            "ro": "Opriți-vă la acest lac de agrement popular, care, cu plajele sale curate, vă invită la o scurtă și revigorantă plimbare pe malul apei.",
+            "en": "Stop at this popular recreational lake, which invites you to take a short, refreshing walk along the water with its clean beaches."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahnensee",
+            "hu": "Mahnensee",
+            "ro": "Lacul Mahnen",
+            "en": "Mahnensee"
+          },
+          "coords": [
+            6.344234,
+            51.77128
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern dieses Naturgewässers, das abseits des Trubels liegt und perfekte Bedingungen für ein Picknick bietet.",
+            "hu": "Pihenjen meg ennek a természetes tónak a csendes partján, amely távol esik a nyüzsgéstől és tökéletes feltételeket kínál egy piknikhez.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac natural, care se află departe de agitație și oferă condiții perfecte pentru un picnic.",
+            "en": "Relax on the quiet shores of this natural lake, which is away from the hustle and bustle and offers perfect conditions for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Empelsches Meer",
+            "hu": "Empelsches Meer",
+            "ro": "Empelsches Meer",
+            "en": "Empelsches Meer"
+          },
+          "coords": [
+            6.417605,
+            51.794047
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Ausflug an diesem versteckten Juwel ab, dessen naturbelassene Umgebung sich hervorragend für einen abendlichen Spaziergang eignet.",
+            "hu": "Zárja kirándulását ennél a rejtett gyöngyszemnél, melynek érintetlen természeti környezete kiválóan alkalmas egy esti sétára.",
+            "ro": "Încheiați-vă excursia la această bijuterie ascunsă, ale cărei împrejurimi naturale neatinse sunt excelente pentru o plimbare de seară.",
+            "en": "Conclude your trip at this hidden gem, whose pristine natural surroundings are excellently suited for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die weitläufigen Natur- und Wasserlandschaften rund um Rees bequem erreichen. Wir starten direkt am Rhein und fahren dann von Hafen zu See. Mittags erwartet uns ein erfrischender Stopp am Strand. Der Tag endet an einem abgelegenen Natursee, wo die Stille der Landschaft greifbar wird.",
+        "hu": "Autóval könnyen elérhetők a Rees körüli kiterjedt természeti és vízi tájak. Közvetlenül a Rajnánál kezdünk, majd kikötőből tóhoz hajtunk. Délben frissítő megálló vár ránk a strandon. A nap egy eldugott természetes tónál ér véget, ahol a táj csendje szinte kézzel fogható.",
+        "ro": "Cu mașina, peisajele naturale și acvatice extinse din jurul orașului Rees pot fi atinse cu ușurință. Începem direct pe Rin și apoi conducem de la port la lac. La prânz ne așteaptă o oprire revigorantă pe plajă. Ziua se termină la un lac natural izolat, unde liniștea peisajului devine palpabilă.",
+        "en": "By car, the extensive natural and aquatic landscapes around Rees can be easily reached. We start right on the Rhine and then drive from port to lake. At noon, a refreshing stop at the beach awaits us. The day ends at a secluded natural lake, where the silence of the landscape becomes tangible."
+      }
+    }
+  }
+}

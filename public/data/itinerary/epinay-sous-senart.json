@@ -1,0 +1,474 @@
+{
+  "city_id": "epinay-sous-senart",
+  "anchor": {
+    "name": "Épinay-sous-Sénart",
+    "coords": [
+      2.5158,
+      48.6931
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhirs de la Haute-Borne",
+            "hu": "Menhirs de la Haute-Borne",
+            "ro": "Menhirs de la Haute-Borne",
+            "en": "Menhirs de la Haute-Borne"
+          },
+          "coords": [
+            2.513543,
+            48.697451
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese uralten Menhire, die an prähistorische Zeiten erinnern, und kommen Sie am besten früh morgens für ein perfektes Fotolicht.",
+            "hu": "Csodálja meg ezeket az ősi menhireket, amelyek a történelem előtti időket idézik, és érkezzen kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați aceste pietre antice care evocă vremuri preistorice și vizitați-le dimineața devreme pentru o lumină perfectă a fotografiilor.",
+            "en": "Admire these ancient standing stones that echo prehistoric times, and try to visit early morning when the soft light highlights their rugged textures."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Damien-de-Veuster",
+            "hu": "Église Saint-Damien-de-Veuster",
+            "ro": "Biserica Saint-Damien-de-Veuster",
+            "en": "Église Saint-Damien-de-Veuster"
+          },
+          "coords": [
+            2.525214,
+            48.696771
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese moderne Kirche, die dem heiligen Damian gewidmet ist, und setzen Sie sich ruhig ins Schiff, um die Akustik zu genießen.",
+            "hu": "Fedezze fel ezt a modern templomot, amelyet Szent Damiennek szenteltek, és üljön le csendben a hajóban, hogy értékelje a kiváló akusztikát.",
+            "ro": "Descoperiți această biserică modernă dedicată Sfântului Damian și așezați-vă liniștit în naos pentru a aprecia liniile și acustica deosebită.",
+            "en": "Discover this modern church dedicated to Saint Damien, noting its unique architectural lines, and sit quietly in the nave to appreciate the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de la Nativité",
+            "hu": "Église Notre-Dame de la Nativité",
+            "ro": "Biserica Notre-Dame de la Nativité",
+            "en": "Église Notre-Dame de la Nativité"
+          },
+          "coords": [
+            2.516194,
+            48.694343
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante historische Kirche, das spirituelle Herz der Stadt, und achten Sie besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot, a város szellemi központját, és szenteljen különös figyelmet a gyönyörű ólomüveg ablakoknak.",
+            "ro": "Explorați această biserică istorică fermecătoare, inima spirituală a orașului, și acordați o atenție deosebită vitraliilor sale frumoase.",
+            "en": "Explore this charming historical church that serves as the spiritual heart of the town, and pay attention to the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Hélène",
+            "hu": "Chapelle Sainte-Hélène",
+            "ro": "Chapelle Sainte-Hélène",
+            "en": "Chapelle Sainte-Hélène"
+          },
+          "coords": [
+            2.51326,
+            48.694051
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser kleinen Kapelle mit ihrem schlichten Design und treten Sie für einen Moment der Besinnung ein.",
+            "hu": "Tapasztalja meg a kis kápolna békés légkörét egyszerű eleganciájával, és mindenképpen lépjen be egy rövid, csendes elmélkedésre.",
+            "ro": "Experimentați atmosfera senină a acestei mici capele cu designul său simplu, făcându-vă timp pentru a intra pentru un scurt moment de reflecție.",
+            "en": "Experience the serene atmosphere of this small chapel with its simple yet elegant design, making sure to step inside for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Étangs",
+            "hu": "Les Étangs",
+            "ro": "Les Étangs",
+            "en": "Les Étangs"
+          },
+          "coords": [
+            2.509111,
+            48.690801
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diese friedlichen historischen Teiche, die die Natur spiegeln, und bringen Sie etwas Brot mit, wenn Sie Vögel beobachten möchten.",
+            "hu": "Sétáljon e békés történelmi tavak körül, amelyek a város természeti szépségét tükrözik, és hozzon magával madáreleséget a helyi madaraknak.",
+            "ro": "Plimbați-vă în jurul acestor iazuri istorice pașnice care reflectă frumusețea naturală și aduceți niște firimituri dacă doriți să hrăniți păsările.",
+            "en": "Stroll around these peaceful historical ponds that reflect the town's natural beauty, and bring some bread crumbs if you enjoy watching local birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Ganne",
+            "hu": "Tour de Ganne",
+            "ro": "Tour de Ganne",
+            "en": "Tour de Ganne"
+          },
+          "coords": [
+            2.505658,
+            48.683456
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste dieses mittelalterlichen Turms, um die Geschichte zu entdecken, und umrunden Sie seine Basis für die beste Perspektive.",
+            "hu": "Fedezze fel ennek a középkori toronynak a maradványait, hogy megismerje a történelmet, és sétálja körbe a bázisát a teljes méretarány megértéséhez.",
+            "ro": "Investigați rămășițele acestui turn medieval pentru a descoperi istoria locală și plimbați-vă în jurul bazei pentru a înțelege scara cetății.",
+            "en": "Investigate the remains of this medieval tower to uncover local history, and walk around its base to fully grasp the scale of the ancient fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung prähistorischer Wurzeln an den Menhiren, bevor Sie die architektonische Vielfalt zweier bemerkenswerter Kirchen erleben. Am Mittag können Sie die beschauliche Atmosphäre der kleinen Kapelle genießen, die zum ruhigen Verweilen einlädt. Der Nachmittag widmet sich den historischen Teichen und den Überresten mittelalterlicher Geschichte. Den Abend lassen Sie an den beleuchteten Monumenten ausklingen.",
+        "hu": "Kezdje a reggelt az ősi menhireknél a történelem előtti gyökerek felfedezésével, majd csodálja meg két figyelemre méltó templom építészetét. Délben élvezze a kis kápolna csendes és békés atmoszféráját, amely egy kis pihenésre csábít. A délután a történelmi tavaknál és egy középkori torony maradványainál telik. Az estét a hangulatosan megvilágított utcákon és terek közelében zárhatja.",
+        "ro": "Începeți dimineața explorând rădăcinile preistorice la menhire, înainte de a experimenta diversitatea arhitecturală a două biserici notabile. La amiază, bucurați-vă de atmosfera liniștită a micii capele, perfectă pentru relaxare. După-amiaza este dedicată iazurilor istorice și rămășițelor vechiului turn medieval. Seara se încheie liniștit pe măsură ce admirați contururile monumentelor luminate.",
+        "en": "Start the morning exploring prehistoric roots at the menhirs before experiencing the architectural diversity of two notable churches. At midday, enjoy the tranquil atmosphere of the small chapel, which invites you to pause and reflect quietly. The afternoon is dedicated to strolling around historical ponds and discovering the remains of medieval history. Conclude the evening wandering near the illuminated monuments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Banks of the Yerres",
+            "hu": "Yerres folyó partja",
+            "ro": "Malurile râului Yerres",
+            "en": "Banks of the Yerres"
+          },
+          "coords": [
+            2.483433,
+            48.706466
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Fahrt entlang der malerischen Flussufer und halten Sie Ausschau nach versteckten Picknickplätzen unter den Weiden.",
+            "hu": "Élvezze a frissítő utazást a festői, dús növényzettel szegélyezett folyópartokon, és keressen egy rejtett piknikezőhelyet a fűzfák alatt.",
+            "ro": "Bucurați-vă de o plimbare revigorantă de-a lungul malurilor pitorești și căutați locuri ascunse de picnic sub sălciile mari și umbroase.",
+            "en": "Enjoy a refreshing ride along the scenic riverbanks lined with lush vegetation, and keep an eye out for hidden picnic spots under the large willow trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Étangs",
+            "hu": "Les Étangs",
+            "ro": "Les Étangs",
+            "en": "Les Étangs"
+          },
+          "coords": [
+            2.509111,
+            48.690801
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diese friedlichen historischen Teiche, die die Natur spiegeln, und bringen Sie etwas Brot mit, wenn Sie Vögel beobachten möchten.",
+            "hu": "Sétáljon e békés történelmi tavak körül, amelyek a város természeti szépségét tükrözik, és hozzon magával madáreleséget a helyi madaraknak.",
+            "ro": "Plimbați-vă în jurul acestor iazuri istorice pașnice care reflectă frumusețea naturală și aduceți niște firimituri dacă doriți să hrăniți păsările.",
+            "en": "Stroll around these peaceful historical ponds that reflect the town's natural beauty, and bring some bread crumbs if you enjoy watching local birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhirs de la Haute-Borne",
+            "hu": "Menhirs de la Haute-Borne",
+            "ro": "Menhirs de la Haute-Borne",
+            "en": "Menhirs de la Haute-Borne"
+          },
+          "coords": [
+            2.513543,
+            48.697451
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese uralten Menhire, die an prähistorische Zeiten erinnern, und kommen Sie am besten früh morgens für ein perfektes Fotolicht.",
+            "hu": "Csodálja meg ezeket az ősi menhireket, amelyek a történelem előtti időket idézik, és érkezzen kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați aceste pietre antice care evocă vremuri preistorice și vizitați-le dimineața devreme pentru o lumină perfectă a fotografiilor.",
+            "en": "Admire these ancient standing stones that echo prehistoric times, and try to visit early morning when the soft light highlights their rugged textures."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de la Nativité",
+            "hu": "Église Notre-Dame de la Nativité",
+            "ro": "Biserica Notre-Dame de la Nativité",
+            "en": "Église Notre-Dame de la Nativité"
+          },
+          "coords": [
+            2.516194,
+            48.694343
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante historische Kirche, das spirituelle Herz der Stadt, und achten Sie besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot, a város szellemi központját, és szenteljen különös figyelmet a gyönyörű ólomüveg ablakoknak.",
+            "ro": "Explorați această biserică istorică fermecătoare, inima spirituală a orașului, și acordați o atenție deosebită vitraliilor sale frumoase.",
+            "en": "Explore this charming historical church that serves as the spiritual heart of the town, and pay attention to the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Ganne",
+            "hu": "Tour de Ganne",
+            "ro": "Tour de Ganne",
+            "en": "Tour de Ganne"
+          },
+          "coords": [
+            2.505658,
+            48.683456
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste dieses mittelalterlichen Turms, um die Geschichte zu entdecken, und umrunden Sie seine Basis für die beste Perspektive.",
+            "hu": "Fedezze fel ennek a középkori toronynak a maradványait, hogy megismerje a történelmet, és sétálja körbe a bázisát a teljes méretarány megértéséhez.",
+            "ro": "Investigați rămășițele acestui turn medieval pentru a descoperi istoria locală și plimbați-vă în jurul bazei pentru a înțelege scara cetății.",
+            "en": "Investigate the remains of this medieval tower to uncover local history, and walk around its base to fully grasp the scale of the ancient fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Sénart Forest",
+            "hu": "Sénart erdő",
+            "ro": "Pădurea Sénart",
+            "en": "Sénart Forest"
+          },
+          "coords": [
+            2.478479,
+            48.677346
+          ],
+          "category": "natural",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den riesigen alten Wald, der für seine Artenvielfalt bekannt ist, und bleiben Sie auf den markierten Wegen, um sich zu orientieren.",
+            "hu": "Merüljön el a gazdag biodiverzitásáról ismert hatalmas ősi erdőben, és maradjon a kijelölt ösvényeken a sűrű erdőben való könnyű tájékozódáshoz.",
+            "ro": "Cufundați-vă în vasta pădure antică cunoscută pentru biodiversitatea sa și rămâneți pe traseele marcate pentru a naviga ușor prin desiș.",
+            "en": "Immerse yourself in the vast ancient forest known for its rich biodiversity, and stick to the marked trails to easily navigate through the dense woods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer erfrischenden Fahrt entlang des Flusses, wo Sie die natürliche Schönheit genießen können, bevor es zu den historischen Teichen geht. Mittags erkunden Sie die faszinierenden antiken Steine und die charmante Architektur der Hauptkirche. Am Nachmittag radeln Sie zur alten Burgruine, um tief in die Geschichte einzutauchen. Der Tag endet mit einer idyllischen Tour durch den dichten Sénart-Wald in der Abenddämmerung.",
+        "hu": "A nap egy frissítő kerékpározással indul a folyópart mentén, majd a festői és békés történelmi tavakhoz érkezik. Délben fedezze fel a lenyűgöző ősi köveket és a főtemplom bájos, klasszikus építészetét. Délután tekerjen el a régi várromhoz, hogy közelebbről megismerje a helyi történelmet. A nap a sűrű Sénart-erdő idilli ösvényein ér véget a kellemes esti szürkületben.",
+        "ro": "Ziua începe cu o plimbare revigorantă de-a lungul râului, bucurându-vă de frumusețea naturală înainte de a ajunge la iazurile istorice. La amiază, explorați pietrele antice fascinante și arhitectura fermecătoare a bisericii principale. După-amiaza pedalați spre ruinele castelului pentru o incursiune în istorie. Ziua se încheie cu un tur idilic prin pădurea deasă la lăsarea serii.",
+        "en": "The day begins with a refreshing ride along the scenic riverbanks, allowing you to enjoy natural beauty before heading to the historical ponds. At midday, explore the fascinating ancient standing stones and the charming architecture of the main church. In the afternoon, pedal to the old castle ruins to delve deeper into local history. The day ends with an idyllic tour through the dense Sénart forest at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "City Hall Park",
+            "hu": "Városháza park",
+            "ro": "Parcul Primăriei",
+            "en": "City Hall Park"
+          },
+          "coords": [
+            2.408454,
+            48.763421
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise in diesem gepflegten Stadtpark mit seinen sauberen Rasenflächen und holen Sie sich vorher einen Kaffee für den Morgenspaziergang.",
+            "hu": "Kezdje útját ebben a gondozott városi parkban, és vegyen egy kávét a közelben, mielőtt egy kényelmes reggeli sétára indulna a fák alatt.",
+            "ro": "Începeți călătoria în acest parc municipal bine întreținut și luați o cafea din apropiere înainte de a face o plimbare liniștită de dimineață.",
+            "en": "Start your journey in this well-maintained municipal park featuring manicured lawns, and grab a coffee nearby before taking a leisurely morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Environnement",
+            "hu": "Környezetvédelmi ház",
+            "ro": "Maison de l'Environnement",
+            "en": "Maison de l'Environnement"
+          },
+          "coords": [
+            2.451586,
+            48.709481
+          ],
+          "category": "cultural",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Kulturzentrum, um mehr über die lokale Ökologie zu erfahren, und prüfen Sie den Tagesplan für interaktive Workshops.",
+            "hu": "Látogasson el ebbe a kulturális központba, hogy megismerje a helyi ökológiát, és nézze meg a napi menetrendet az interaktív workshopokért.",
+            "ro": "Vizitați acest centru cultural pentru a învăța despre ecologia locală și verificați programul zilnic pentru a vă alătura unui atelier interactiv.",
+            "en": "Visit this cultural and educational center to learn about local ecology, and check their daily schedule to join one of the interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhirs de la Haute-Borne",
+            "hu": "Menhirs de la Haute-Borne",
+            "ro": "Menhirs de la Haute-Borne",
+            "en": "Menhirs de la Haute-Borne"
+          },
+          "coords": [
+            2.513543,
+            48.697451
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese uralten Menhire, die an prähistorische Zeiten erinnern, und kommen Sie am besten früh morgens für ein perfektes Fotolicht.",
+            "hu": "Csodálja meg ezeket az ősi menhireket, amelyek a történelem előtti időket idézik, és érkezzen kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Admirați aceste pietre antice care evocă vremuri preistorice și vizitați-le dimineața devreme pentru o lumină perfectă a fotografiilor.",
+            "en": "Admire these ancient standing stones that echo prehistoric times, and try to visit early morning when the soft light highlights their rugged textures."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Damien-de-Veuster",
+            "hu": "Église Saint-Damien-de-Veuster",
+            "ro": "Biserica Saint-Damien-de-Veuster",
+            "en": "Église Saint-Damien-de-Veuster"
+          },
+          "coords": [
+            2.525214,
+            48.696771
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese moderne Kirche, die dem heiligen Damian gewidmet ist, und setzen Sie sich ruhig ins Schiff, um die Akustik zu genießen.",
+            "hu": "Fedezze fel ezt a modern templomot, amelyet Szent Damiennek szenteltek, és üljön le csendben a hajóban, hogy értékelje a kiváló akusztikát.",
+            "ro": "Descoperiți această biserică modernă dedicată Sfântului Damian și așezați-vă liniștit în naos pentru a aprecia liniile și acustica deosebită.",
+            "en": "Discover this modern church dedicated to Saint Damien, noting its unique architectural lines, and sit quietly in the nave to appreciate the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Ganne",
+            "hu": "Tour de Ganne",
+            "ro": "Tour de Ganne",
+            "en": "Tour de Ganne"
+          },
+          "coords": [
+            2.505658,
+            48.683456
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Überreste dieses mittelalterlichen Turms, um die Geschichte zu entdecken, und umrunden Sie seine Basis für die beste Perspektive.",
+            "hu": "Fedezze fel ennek a középkori toronynak a maradványait, hogy megismerje a történelmet, és sétálja körbe a bázisát a teljes méretarány megértéséhez.",
+            "ro": "Investigați rămășițele acestui turn medieval pentru a descoperi istoria locală și plimbați-vă în jurul bazei pentru a înțelege scara cetății.",
+            "en": "Investigate the remains of this medieval tower to uncover local history, and walk around its base to fully grasp the scale of the ancient fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Sénart Forest",
+            "hu": "Sénart erdő",
+            "ro": "Pădurea Sénart",
+            "en": "Sénart Forest"
+          },
+          "coords": [
+            2.478479,
+            48.677346
+          ],
+          "category": "natural",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den riesigen alten Wald, der für seine Artenvielfalt bekannt ist, und bleiben Sie auf den markierten Wegen, um sich zu orientieren.",
+            "hu": "Merüljön el a gazdag biodiverzitásáról ismert hatalmas ősi erdőben, és maradjon a kijelölt ösvényeken a sűrű erdőben való könnyű tájékozódáshoz.",
+            "ro": "Cufundați-vă în vasta pădure antică cunoscută pentru biodiversitatea sa și rămâneți pe traseele marcate pentru a naviga ușor prin desiș.",
+            "en": "Immerse yourself in the vast ancient forest known for its rich biodiversity, and stick to the marked trails to easily navigate through the dense woods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am großzügigen Stadtpark, ideal für einen morgendlichen Spaziergang, gefolgt von spannenden Entdeckungen im Umweltzentrum. Zur Mittagszeit besichtigen Sie die geheimnisvollen Menhire und die moderne Kirche. Am Nachmittag fahren Sie gemütlich zu den mittelalterlichen Turmruinen, die von einer längst vergangenen Zeit erzählen. Beenden Sie den Tag mit einer entspannten Fahrt in den weiten Wald für einen Abendausklang.",
+        "hu": "Indítsa autós útját a tágas városi parkban, majd tegyen izgalmas felfedezéseket a helyi környezetvédelmi és kulturális központban. Délben látogassa meg a titokzatos menhireket és a modern, egyedi kialakítású templomot. Délután kényelmesen elautózhat a középkori torony romjaihoz, amely régmúlt időkről mesél. Zárja a napot egy pihentető erdei autózással a hatalmas ősi fák között.",
+        "ro": "Începeți călătoria cu mașina la parcul spațios al orașului, urmat de descoperiri interesante la centrul de mediu. La ora prânzului, vizitați menhirele misterioase și biserica modernă cu un design unic. După-amiaza conduceți către ruinele turnului medieval care povestesc despre un trecut îndepărtat. Încheiați ziua cu o excursie relaxantă în vasta pădure pentru un apus perfect.",
+        "en": "Start your drive at the spacious city park, perfect for a morning walk, followed by exciting discoveries at the environmental center. At lunchtime, visit the mysterious standing stones and the uniquely designed modern church. In the afternoon, take a leisurely drive to the medieval tower ruins, which tell tales of a bygone era. End the day with a relaxing excursion into the vast forest for a perfect evening."
+      }
+    }
+  }
+}

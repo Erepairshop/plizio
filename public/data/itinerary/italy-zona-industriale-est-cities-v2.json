@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-zona-industriale-est-cities-v2",
+  "anchor": {
+    "name": "zona industriale Est",
+    "coords": [
+      14.6867,
+      42.16829
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna Addolorata",
+            "hu": "Chiesa della Madonna Addolorata",
+            "ro": "Chiesa della Madonna Addolorata",
+            "en": "Chiesa della Madonna Addolorata"
+          },
+          "coords": [
+            14.670645,
+            42.161929
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieses lokalen Heiligtums, das die Gemeinde verankert, und kommen Sie früh, um das Morgenlicht auf der Fassade zu genießen.",
+            "hu": "Csodálja meg a helyi közösséget összefogó szentély békés építészetét, és érkezzen korán, hogy a reggeli fényben fürdő szerény homlokzatot láthassa.",
+            "ro": "Admirați arhitectura senină a acestui sanctuar local care ancorează comunitatea și veniți devreme pentru a vă bucura de lumina dimineții pe fațada sa.",
+            "en": "Admire the serene architecture of this local sanctuary that anchors the community, and visit early to appreciate the morning light illuminating its modest facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Regionale di Punta Aderci",
+            "hu": "Riserva Naturale Regionale di Punta Aderci",
+            "ro": "Riserva Naturale Regionale di Punta Aderci",
+            "en": "Riserva Naturale Regionale di Punta Aderci"
+          },
+          "coords": [
+            14.673701,
+            42.17931
+          ],
+          "category": "natural",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührten Küstenwege mit atemberaubendem Blick auf die Adria, aber ziehen Sie für die felsigen Pfade unbedingt feste Wanderschuhe an.",
+            "hu": "Fedezze fel az Adriai-tengerre nyíló lélegzetelállító kilátást nyújtó, érintetlen tengerparti ösvényeket, de mindenképpen viseljen túracipőt a sziklás utakon.",
+            "ro": "Explorați traseele de coastă imaculate cu vederi uluitoare la Marea Adriatică, dar purtați încălțăminte de drumeție robustă pentru cărările pietroase.",
+            "en": "Explore pristine coastal trails offering breathtaking views of the Adriatic Sea, but make sure to wear sturdy hiking shoes for the rocky unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Mottagrossa",
+            "hu": "Spiaggia di Mottagrossa",
+            "ro": "Spiaggia di Mottagrossa",
+            "en": "Spiaggia di Mottagrossa"
+          },
+          "coords": [
+            14.676732,
+            42.181708
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am längsten wilden Kieselstrand des Reservats mit seinem tiefblauen Wasser und bringen Sie eigenen Schatten mit, da es hier keine Anlagen gibt.",
+            "hu": "Pihenjen a rezervátum leghosszabb vad, kavicsos strandján, amely a mélykék vizéről híres, és hozzon magával napernyőt, mivel nincsenek kiépített létesítmények.",
+            "ro": "Relaxați-vă pe cea mai lungă plajă sălbatică cu pietriș din rezervație, cunoscută pentru apele adânci, și aduceți-vă umbră, deoarece nu există facilități aici.",
+            "en": "Relax on the longest wild pebble beach in the reserve, known for its deep blue waters, and bring your own shade as there are no facilities available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Punta Aderci",
+            "hu": "Spiaggia di Punta Aderci",
+            "ro": "Spiaggia di Punta Aderci",
+            "en": "Spiaggia di Punta Aderci"
+          },
+          "coords": [
+            14.685015,
+            42.179587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das dramatische Vorgebirge über diesem kultigen Strand, wo das Schwimmen spektakulär ist, aber stellen Sie sich auf einen steilen Abstieg ein.",
+            "hu": "Csodálja meg az ikonikus strand fölé magasodó drámai hegyfokot, ahol a fürdőzés látványos, de készüljön fel a szikla tetejéről vezető meredek ereszkedésre.",
+            "ro": "Minunați-vă de promontoriul dramatic care domină această plajă iconică, ideală pentru înot, dar fiți pregătiți pentru o coborâre abruptă de pe faleză.",
+            "en": "Marvel at the dramatic promontory overlooking this iconic beach, where swimming is spectacular, but be prepared for a steep descent from the clifftop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia dei Libertini",
+            "hu": "Spiaggia dei Libertini",
+            "ro": "Spiaggia dei Libertini",
+            "en": "Spiaggia dei Libertini"
+          },
+          "coords": [
+            14.689122,
+            42.178107
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieses abgelegenen Küstenstreifens unterhalb der Klippen und erreichen Sie ihn über einen angenehmen Spaziergang vom Hauptparkplatz.",
+            "hu": "Élvezze a sziklák alatt megbúvó, eldugott partszakasz nyugalmát, amelyet a rezervátum fő parkolójából egy kellemes sétával könnyedén megközelíthet.",
+            "ro": "Bucurați-vă de liniștea acestei fâșii de coastă izolate sub stânci și accesați-o printr-o plimbare plăcută de la parcarea principală a rezervației.",
+            "en": "Enjoy the tranquility of this secluded coastal strip tucked away under the cliffs, and access it via a pleasant walk from the main reserve parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Landesinneren mit einem ruhigen Besuch der örtlichen Kirche, bevor Sie zur Küste aufbrechen. Am Mittag tauchen Sie in die wilde Natur des Reservats Punta Aderci ein und wandern an den Klippen entlang. Der Nachmittag ist der rauen Schönheit der Strände Mottagrossa und Punta Aderci gewidmet. Beenden Sie den Tag entspannt unter den dramatischen Klippen von Libertini.",
+        "hu": "Kezdje a reggelt a szárazföldön a helyi templom békés meglátogatásával, mielőtt a part felé venné az irányt. Délben a Punta Aderci Rezervátum vad természetében barangolhat, érintetlen sziklák mentén túrázva. A délutánt a Mottagrossa és Punta Aderci strandok zord szépségének felfedezésére szánjuk. Zárja a napot a Libertini strand drámai sziklái alatt pihenve.",
+        "ro": "Începeți dimineața în interior, cu o vizită liniștită la biserica locală, înainte de a vă îndrepta spre coastă. La prânz, vă veți cufunda în natura sălbatică a Rezervației Punta Aderci, parcurgând stâncile imaculate. După-amiaza este dedicată explorării frumuseții aspre a plajelor Mottagrossa și Punta Aderci. Încheiați ziua relaxându-vă sub stâncile spectaculoase ale plajei Libertini.",
+        "en": "Start your morning inland with a peaceful visit to the local church before heading towards the coast. By midday, you'll immerse yourself in the wild nature of the Punta Aderci Reserve, trekking along unspoiled cliffs. The afternoon is dedicated to exploring the rugged beauty of Mottagrossa and Punta Aderci beaches. Conclude your day relaxing under the dramatic cliffs of the Libertini beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna Addolorata",
+            "hu": "Chiesa della Madonna Addolorata",
+            "ro": "Chiesa della Madonna Addolorata",
+            "en": "Chiesa della Madonna Addolorata"
+          },
+          "coords": [
+            14.670645,
+            42.161929
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieses lokalen Heiligtums, das die Gemeinde verankert, und kommen Sie früh, um das Morgenlicht auf der Fassade zu genießen.",
+            "hu": "Csodálja meg a helyi közösséget összefogó szentély békés építészetét, és érkezzen korán, hogy a reggeli fényben fürdő szerény homlokzatot láthassa.",
+            "ro": "Admirați arhitectura senină a acestui sanctuar local care ancorează comunitatea și veniți devreme pentru a vă bucura de lumina dimineții pe fațada sa.",
+            "en": "Admire the serene architecture of this local sanctuary that anchors the community, and visit early to appreciate the morning light illuminating its modest facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Regionale di Punta Aderci",
+            "hu": "Riserva Naturale Regionale di Punta Aderci",
+            "ro": "Riserva Naturale Regionale di Punta Aderci",
+            "en": "Riserva Naturale Regionale di Punta Aderci"
+          },
+          "coords": [
+            14.673701,
+            42.17931
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührten Küstenwege mit atemberaubendem Blick auf die Adria, aber ziehen Sie für die felsigen Pfade unbedingt feste Wanderschuhe an.",
+            "hu": "Fedezze fel az Adriai-tengerre nyíló lélegzetelállító kilátást nyújtó, érintetlen tengerparti ösvényeket, de mindenképpen viseljen túracipőt a sziklás utakon.",
+            "ro": "Explorați traseele de coastă imaculate cu vederi uluitoare la Marea Adriatică, dar purtați încălțăminte de drumeție robustă pentru cărările pietroase.",
+            "en": "Explore pristine coastal trails offering breathtaking views of the Adriatic Sea, but make sure to wear sturdy hiking shoes for the rocky unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Punta Aderci",
+            "hu": "Spiaggia di Punta Aderci",
+            "ro": "Spiaggia di Punta Aderci",
+            "en": "Spiaggia di Punta Aderci"
+          },
+          "coords": [
+            14.685015,
+            42.179587
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das dramatische Vorgebirge über diesem kultigen Strand, wo das Schwimmen spektakulär ist, aber stellen Sie sich auf einen steilen Abstieg ein.",
+            "hu": "Csodálja meg az ikonikus strand fölé magasodó drámai hegyfokot, ahol a fürdőzés látványos, de készüljön fel a szikla tetejéről vezető meredek ereszkedésre.",
+            "ro": "Minunați-vă de promontoriul dramatic care domină această plajă iconică, ideală pentru înot, dar fiți pregătiți pentru o coborâre abruptă de pe faleză.",
+            "en": "Marvel at the dramatic promontory overlooking this iconic beach, where swimming is spectacular, but be prepared for a steep descent from the clifftop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Punta Penna",
+            "hu": "Spiaggia di Punta Penna",
+            "ro": "Spiaggia di Punta Penna",
+            "en": "Spiaggia di Punta Penna"
+          },
+          "coords": [
+            14.70298,
+            42.173952
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen Sand dieses weitläufigen Strandes mit seinen Dünen und kristallklarem Wasser, aber kommen Sie im Sommer früh, um einen Platz zu sichern.",
+            "hu": "Süppesztse lábát e hatalmas, dűnékkel övezett homokos strand finom homokjába, de nyáron érkezzen korán, hogy jó helyet találjon a kristálytiszta víz közelében.",
+            "ro": "Scufundați-vă degetele în nisipul fin al acestei plaje întinse, mărginită de dune, dar ajungeți devreme vara pentru a prinde un loc bun lângă apa cristalină.",
+            "en": "Sink your toes into the fine sand of this expansive dune-backed beach offering pristine waters, but arrive early in summer to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Punta Penna",
+            "hu": "Torre di Punta Penna",
+            "ro": "Torre di Punta Penna",
+            "en": "Torre di Punta Penna"
+          },
+          "coords": [
+            14.714903,
+            42.173508
+          ],
+          "category": "tower",
+          "arrive_at": "14:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Überreste dieses alten Küstenverteidigungsturms gegen Piraten, der auf dem Weg hinunter zum nahegelegenen Leuchtturm gut sichtbar ist.",
+            "hu": "Fényképezze le az ősi, kalózok ellen védő partvédelmi torony maradványait, amelyet a közeli világítótorony felé vezető úton könnyen megtekinthet.",
+            "ro": "Fotografiați rămășițele acestui vechi turn de apărare de coastă împotriva piraților, ușor de observat în drumul spre farul din apropiere.",
+            "en": "Photograph the remains of this ancient defensive coastal tower that once guarded against pirates, easily viewed on your way down to the nearby lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Penna",
+            "hu": "Faro di Punta Penna",
+            "ro": "Faro di Punta Penna",
+            "en": "Faro di Punta Penna"
+          },
+          "coords": [
+            14.714636,
+            42.171026
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Blicken Sie zu Italiens zweithöchstem Leuchtturm hinauf, der stolz über dem Hafen thront, und besuchen Sie ihn bei Sonnenuntergang, wenn der Backstein leuchtet.",
+            "hu": "Pillantson fel Olaszország második legmagasabb, a kikötő fölé magasodó világítótornyára, és látogasson el naplementekor, amikor a téglaépület vörösen ragyog.",
+            "ro": "Priviți al doilea cel mai înalt far din Italia care tronează deasupra portului și vizitați-l la apus, când lumina blândă face structura sa din cărămidă să strălucească.",
+            "en": "Look up at Italy's second-tallest lighthouse standing proudly over the harbor, and visit at sunset when the fading light makes its brick structure glow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt an der ruhigen Kirche, bevor Sie nach Norden zum atemberaubenden Naturschutzgebiet Punta Aderci radeln. Die Mittagszeit lädt zu einer Pause an den spektakulären Stränden von Punta Aderci und Punta Penna ein. Am Nachmittag fahren Sie die Küstenwege zum historischen Verteidigungsturm. Der Abend belohnt Sie mit dem majestätischen Anblick des Leuchtturms von Punta Penna.",
+        "hu": "A kerékpáros kaland az ipari zóna csendes templománál kezdődik, mielőtt észak felé, a Punta Aderci Természetvédelmi Terület felé pedálozna. A dél láncolja be a pihenést Punta Aderci és Punta Penna látványos strandjain. Délután tekerjen végig a parti utakon a történelmi védőtorony felé. Az este a magasba törő Punta Penna világítótorony fenséges látványával jutalmazza a fáradalmakat.",
+        "ro": "Aventura pe bicicletă începe lângă biserica liniștită, înainte de a pedala spre nord, către Rezervația Naturală Punta Aderci. Prânzul vă invită la odihnă pe plajele spectaculoase din Punta Aderci și Punta Penna. După-amiaza, mergeți pe traseele de coastă către turnul istoric de apărare. Seara vă răsplătește cu priveliștea maiestuoasă a impunătorului far din Punta Penna.",
+        "en": "Your cycling adventure begins near the industrial zone's quiet church before pedaling north to the breathtaking Punta Aderci Nature Reserve. Midday invites you to rest on the spectacular beaches of Punta Aderci and Punta Penna. In the afternoon, ride along the coastal paths towards the historical defense tower. The evening rewards you with the majestic sight of the towering Punta Penna lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Acqualand del Vasto",
+            "hu": "Acqualand del Vasto",
+            "ro": "Acqualand del Vasto",
+            "en": "Acqualand del Vasto"
+          },
+          "coords": [
+            14.696606,
+            42.149971
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen und Wellenbäder im größten Wasserpark der Region, aber buchen Sie Tickets online, um morgendliche Schlangen zu vermeiden.",
+            "hu": "Próbálja ki a régió legnagyobb víziparkjának izgalmas csúszdáit és hullámmedencéit, de foglalja le a jegyét online, hogy elkerülje a reggeli sorban állást.",
+            "ro": "Experimentați toboganele palpitante și piscinele cu valuri în cel mai mare parc acvatic din regiune, dar rezervați bilete online pentru a evita cozile de dimineață.",
+            "en": "Experience thrilling water slides and wave pools at the region's largest aquatic park, but book your tickets online in advance to avoid the long morning lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna Addolorata",
+            "hu": "Chiesa della Madonna Addolorata",
+            "ro": "Chiesa della Madonna Addolorata",
+            "en": "Chiesa della Madonna Addolorata"
+          },
+          "coords": [
+            14.670645,
+            42.161929
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.53,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieses lokalen Heiligtums, das die Gemeinde verankert, und kommen Sie früh, um das Morgenlicht auf der Fassade zu genießen.",
+            "hu": "Csodálja meg a helyi közösséget összefogó szentély békés építészetét, és érkezzen korán, hogy a reggeli fényben fürdő szerény homlokzatot láthassa.",
+            "ro": "Admirați arhitectura senină a acestui sanctuar local care ancorează comunitatea și veniți devreme pentru a vă bucura de lumina dimineții pe fațada sa.",
+            "en": "Admire the serene architecture of this local sanctuary that anchors the community, and visit early to appreciate the morning light illuminating its modest facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex Orfanotrofio Genova-Rulli",
+            "hu": "Ex Orfanotrofio Genova-Rulli",
+            "ro": "Ex Orfanotrofio Genova-Rulli",
+            "en": "Ex Orfanotrofio Genova-Rulli"
+          },
+          "coords": [
+            14.707038,
+            42.166458
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses ehemaligen Waisenhauses des lokalen sozialen Erbes, auch wenn Sie derzeit nur die Außenfassade bewundern können.",
+            "hu": "Fedezze fel az egykori árvaház érdekes történetét, amely a helyi társadalmi örökséget tükrözi, bár jelenleg csak az impozáns külsejét csodálhatja meg.",
+            "ro": "Descoperiți istoria intrigantă a acestui fost orfelinat care reflectă patrimoniul social local, deși în prezent puteți admira doar exteriorul său impunător.",
+            "en": "Discover the intriguing history of this former orphanage that reflects the local social heritage, though you can currently only admire its imposing exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Punta Penna",
+            "hu": "Faro di Punta Penna",
+            "ro": "Faro di Punta Penna",
+            "en": "Faro di Punta Penna"
+          },
+          "coords": [
+            14.714636,
+            42.171026
+          ],
+          "category": "landmark",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Blicken Sie zu Italiens zweithöchstem Leuchtturm hinauf, der stolz über dem Hafen thront, und besuchen Sie ihn bei Sonnenuntergang, wenn der Backstein leuchtet.",
+            "hu": "Pillantson fel Olaszország második legmagasabb, a kikötő fölé magasodó világítótornyára, és látogasson el naplementekor, amikor a téglaépület vörösen ragyog.",
+            "ro": "Priviți al doilea cel mai înalt far din Italia care tronează deasupra portului și vizitați-l la apus, când lumina blândă face structura sa din cărămidă să strălucească.",
+            "en": "Look up at Italy's second-tallest lighthouse standing proudly over the harbor, and visit at sunset when the fading light makes its brick structure glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Punta Penna",
+            "hu": "Torre di Punta Penna",
+            "ro": "Torre di Punta Penna",
+            "en": "Torre di Punta Penna"
+          },
+          "coords": [
+            14.714903,
+            42.173508
+          ],
+          "category": "tower",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Überreste dieses alten Küstenverteidigungsturms gegen Piraten, der auf dem Weg hinunter zum nahegelegenen Leuchtturm gut sichtbar ist.",
+            "hu": "Fényképezze le az ősi, kalózok ellen védő partvédelmi torony maradványait, amelyet a közeli világítótorony felé vezető úton könnyen megtekinthet.",
+            "ro": "Fotografiați rămășițele acestui vechi turn de apărare de coastă împotriva piraților, ușor de observat în drumul spre farul din apropiere.",
+            "en": "Photograph the remains of this ancient defensive coastal tower that once guarded against pirates, easily viewed on your way down to the nearby lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Punta Aderci",
+            "hu": "Spiaggia di Punta Aderci",
+            "ro": "Spiaggia di Punta Aderci",
+            "en": "Spiaggia di Punta Aderci"
+          },
+          "coords": [
+            14.685015,
+            42.179587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.56,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das dramatische Vorgebirge über diesem kultigen Strand, wo das Schwimmen spektakulär ist, aber stellen Sie sich auf einen steilen Abstieg ein.",
+            "hu": "Csodálja meg az ikonikus strand fölé magasodó drámai hegyfokot, ahol a fürdőzés látványos, de készüljön fel a szikla tetejéről vezető meredek ereszkedésre.",
+            "ro": "Minunați-vă de promontoriul dramatic care domină această plajă iconică, ideală pentru înot, dar fiți pregătiți pentru o coborâre abruptă de pe faleză.",
+            "en": "Marvel at the dramatic promontory overlooking this iconic beach, where swimming is spectacular, but be prepared for a steep descent from the clifftop."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Regionale di Punta Aderci",
+            "hu": "Riserva Naturale Regionale di Punta Aderci",
+            "ro": "Riserva Naturale Regionale di Punta Aderci",
+            "en": "Riserva Naturale Regionale di Punta Aderci"
+          },
+          "coords": [
+            14.673701,
+            42.17931
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührten Küstenwege mit atemberaubendem Blick auf die Adria, aber ziehen Sie für die felsigen Pfade unbedingt feste Wanderschuhe an.",
+            "hu": "Fedezze fel az Adriai-tengerre nyíló lélegzetelállító kilátást nyújtó, érintetlen tengerparti ösvényeket, de mindenképpen viseljen túracipőt a sziklás utakon.",
+            "ro": "Explorați traseele de coastă imaculate cu vederi uluitoare la Marea Adriatică, dar purtați încălțăminte de drumeție robustă pentru cărările pietroase.",
+            "en": "Explore pristine coastal trails offering breathtaking views of the Adriatic Sea, but make sure to wear sturdy hiking shoes for the rocky unpaved paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit Spaß im Acqualand, gefolgt von einem kulturellen Stopp an der örtlichen Kirche. Am Mittag erreichen Sie das ehemalige Waisenhaus Genova-Rulli und den historischen Leuchtturm von Punta Penna. Verbringen Sie den Nachmittag damit, die raue Küste und den alten Turm zu bewundern. Beobachten Sie schließlich den Sonnenuntergang im ruhigen Naturschutzgebiet Punta Aderci.",
+        "hu": "Indítsa autós utazását az Acqualand vízi élményeivel, majd tegyen egy kulturális kitérőt a helyi templomnál. Délben a volt Genova-Rulli árvaház lenyűgöző építészetét és a Punta Penna világítótornyot csodálhatja meg. Délután élvezze a zord partvidék és az ősi parti torony látványát. Végül nézze meg a naplementét a békés Punta Aderci Természetvédelmi Területen.",
+        "ro": "Începeți excursia cu o baie la Acqualand, urmată de o oprire culturală la biserica locală. La prânz ajungeți la arhitectura impunătoare a fostului orfelinat Genova-Rulli și la istoricul far Punta Penna. Petreceți-vă după-amiaza admirând coasta accidentată și vechiul turn. În cele din urmă, admirați apusul de soare la senina Rezervație Naturală Punta Aderci.",
+        "en": "Kick off your road trip with a splash at Acqualand, followed by a cultural stop at the local church. Midday brings you to the imposing architecture of the former Genova-Rulli orphanage and the historic Punta Penna lighthouse. Spend your afternoon admiring the rugged coastline and the ancient coastal tower. Finally, watch the sunset at the serene Punta Aderci Nature Reserve."
+      }
+    }
+  }
+}

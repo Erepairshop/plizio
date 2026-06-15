@@ -1,0 +1,474 @@
+{
+  "city_id": "ille-sur-tet",
+  "anchor": {
+    "name": "Ille-sur-Têt",
+    "coords": [
+      2.6206,
+      42.6706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Rhin et Danube",
+            "hu": "Square Rhin et Danube",
+            "ro": "Piața Rhin et Danube",
+            "en": "Square Rhin et Danube"
+          },
+          "coords": [
+            2.617405,
+            42.669973
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem zentralen Treffpunkt, um das Stadtleben zu spüren, und holen Sie sich ein frisches Gebäck in der Nähe, bevor Sie auf einer Bank entspannen.",
+            "hu": "Kezdje a napot ezen a központi téren, hogy átérezze a város lüktetését, de mindenképpen vegyen egy friss péksüteményt a közelben, mielőtt megpihenne egy árnyékos padon.",
+            "ro": "Începeți ziua în acest punct central de întâlnire pentru a simți pulsul orașului, dar asigurați-vă că luați o patiserie proaspătă înainte de a vă odihni pe o bancă la umbră.",
+            "en": "Begin your day at this central gathering spot to feel the town's pulse, but make sure to grab a fresh pastry from a nearby bakery before resting on a shaded bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            2.619449,
+            42.672129
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur und den Altaraufsatz dieser historischen Kirche, und achten Sie auf die feine Akustik, wenn Sie am ruhigen Vormittag kommen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román kori építészetét és oltárképét, figyelve a kiváló akusztikára, ha egy csendes délelőtti órában érkezik látogatóba.",
+            "ro": "Admirați arhitectura romanică impresionantă și altarul detaliat al acestei biserici istorice, observând acustica deosebită dacă o vizitați într-o dimineață liniștită.",
+            "en": "Admire the stunning Romanesque architecture and detailed altarpiece of this historic church, taking a moment to notice the fine acoustics if you visit during a quiet morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospiz von Ille-sur-Têt",
+            "hu": "Ille-sur-Têt menhely",
+            "ro": "Hospiciul din Ille-sur-Têt",
+            "en": "Hospice of Ille-sur-Têt"
+          },
+          "coords": [
+            2.621095,
+            42.672827
+          ],
+          "category": "museum",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunst und katalanisches Erbe in diesem wunderschön restaurierten ehemaligen Krankenhaus, wo Audioführungen tieferen Einblick in die Exponate bieten.",
+            "hu": "Fedezze fel a regionális művészetet és a katalán örökséget e gyönyörűen felújított egykori kórház falai között, ahol az audio guide-ok mélyebb betekintést nyújtanak.",
+            "ro": "Descoperiți arta regională și moștenirea catalană în această fostă clinică frumos restaurată, unde ghidurile audio oferă un context mult mai profund expozițiilor.",
+            "en": "Discover regional art and Catalan heritage within the walls of this beautifully restored former hospital, where guided audio tours provide deeper context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgues d'Ille-sur-Têt",
+            "hu": "Orgues d'Ille-sur-Têt",
+            "ro": "Orgues d'Ille-sur-Têt",
+            "en": "Orgues d'Ille-sur-Têt"
+          },
+          "coords": [
+            2.6262,
+            42.6876
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese unglaublichen, durch Erosion geformten Sandsteinsäulen und tragen Sie unbedingt festes Schuhwerk, um sicher auf den sandigen Wegen zu wandern.",
+            "hu": "Csodálja meg az erózió által évezredek alatt kifaragott hihetetlen homokkő oszlopokat, és viseljen zárt, kényelmes cipőt, hogy biztonságosan járja be a homokos ösvényeket.",
+            "ro": "Minunați-vă de aceste coloane incredibile de gresie sculptate de eroziune și asigurați-vă că purtați încălțăminte robustă pentru a explora în siguranță potecile nisipoase.",
+            "en": "Marvel at these incredible sandstone columns sculpted by erosion over millennia, and be sure to wear sturdy shoes to safely navigate the winding sandy trails here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Gyermekpark",
+            "ro": "Parcul copiilor",
+            "en": "Children's Park"
+          },
+          "coords": [
+            2.623064,
+            42.651733
+          ],
+          "category": "family",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder in diesem lebhaften Park mit verschiedenen Spielgeräten toben, und bringen Sie erfrischende Getränke mit, da es hier nur wenige Kioske gibt.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a játszóterekkel teli parkban, de mindenképp hozzon magával frissítőket, mivel kevés a büfé a területen.",
+            "ro": "Lăsați copiii să-și consume energia în acest parc plin de structuri de joacă, aducând cu voi băuturi răcoritoare, deoarece există opțiuni limitate de cumpărare aici.",
+            "en": "Let your kids burn off energy at this lively children's park equipped with various play structures, bringing some refreshing drinks as there are limited kiosks inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Ille-sur-Têt und genießen Sie die friedliche Atmosphäre, bevor Sie die romanische Kirche bewundern. Am Mittag können Sie im wunderschön restaurierten ehemaligen Krankenhaus in die regionale Geschichte eintauchen. Am Nachmittag unternehmen Sie einen Spaziergang zu den berühmten Orgues d'Ille-sur-Têt, spektakulären Sandsteinpfeilern. Beenden Sie Ihren Tag gemütlich im nahe gelegenen Park, der sich perfekt zum Entspannen nach den geologischen Entdeckungen eignet.",
+        "hu": "Kezdje a reggelt Ille-sur-Têt történelmi központjának felfedezésével, élvezve a főtér békés hangulatát, mielőtt megcsodálná a helyi templom román kori építészetét. Közeledve a délhez, merüljön el a regionális történelemben a gyönyörűen felújított egykori kórházban, amely ma múzeumként működik. Délután tegyen egy festői sétát a híres Orgues d'Ille-sur-Têt-hez, a lenyűgöző homokkő oszlopokhoz. Zárja a napot a közeli parkban, amely tökéletes pihenést nyújt a geológiai csodák felfedezése után.",
+        "ro": "Începeți dimineața explorând centrul istoric din Ille-sur-Têt, bucurându-vă de atmosfera liniștită a pieței înainte de a admira biserica romanică. Spre prânz, scufundați-vă în istoria regională vizitând fostul spital frumos restaurat, acum un muzeu fascinant. După-amiaza, faceți o plimbare pitorească până la faimoasele Orgues d'Ille-sur-Têt, coloane spectaculoase de gresie. Încheiați ziua relaxantă în parcul pentru copii din apropiere, perfect pentru a vă odihni după explorări.",
+        "en": "Start your morning exploring the historic heart of Ille-sur-Têt, enjoying the peaceful atmosphere of the main square before marveling at the Romanesque architecture of the local church. As midday approaches, immerse yourself in regional history at the beautifully restored former hospital, home to a fascinating museum. In the afternoon, take a scenic walk to the famous Orgues d'Ille-sur-Têt, spectacular sandstone pillars carved by time. Conclude your leisurely day at the nearby children's park, perfect for relaxing after exploring the stunning geological formations."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 17.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Rhin et Danube",
+            "hu": "Square Rhin et Danube",
+            "ro": "Piața Rhin et Danube",
+            "en": "Square Rhin et Danube"
+          },
+          "coords": [
+            2.617405,
+            42.669973
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem zentralen Treffpunkt, um das Stadtleben zu spüren, und holen Sie sich ein frisches Gebäck in der Nähe, bevor Sie auf einer Bank entspannen.",
+            "hu": "Kezdje a napot ezen a központi téren, hogy átérezze a város lüktetését, de mindenképpen vegyen egy friss péksüteményt a közelben, mielőtt megpihenne egy árnyékos padon.",
+            "ro": "Începeți ziua în acest punct central de întâlnire pentru a simți pulsul orașului, dar asigurați-vă că luați o patiserie proaspătă înainte de a vă odihni pe o bancă la umbră.",
+            "en": "Begin your day at this central gathering spot to feel the town's pulse, but make sure to grab a fresh pastry from a nearby bakery before resting on a shaded bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            2.619449,
+            42.672129
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur und den Altaraufsatz dieser historischen Kirche, und achten Sie auf die feine Akustik, wenn Sie am ruhigen Vormittag kommen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román kori építészetét és oltárképét, figyelve a kiváló akusztikára, ha egy csendes délelőtti órában érkezik látogatóba.",
+            "ro": "Admirați arhitectura romanică impresionantă și altarul detaliat al acestei biserici istorice, observând acustica deosebită dacă o vizitați într-o dimineață liniștită.",
+            "en": "Admire the stunning Romanesque architecture and detailed altarpiece of this historic church, taking a moment to notice the fine acoustics if you visit during a quiet morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospiz von Ille-sur-Têt",
+            "hu": "Ille-sur-Têt menhely",
+            "ro": "Hospiciul din Ille-sur-Têt",
+            "en": "Hospice of Ille-sur-Têt"
+          },
+          "coords": [
+            2.621095,
+            42.672827
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunst und katalanisches Erbe in diesem wunderschön restaurierten ehemaligen Krankenhaus, wo Audioführungen tieferen Einblick in die Exponate bieten.",
+            "hu": "Fedezze fel a regionális művészetet és a katalán örökséget e gyönyörűen felújított egykori kórház falai között, ahol az audio guide-ok mélyebb betekintést nyújtanak.",
+            "ro": "Descoperiți arta regională și moștenirea catalană în această fostă clinică frumos restaurată, unde ghidurile audio oferă un context mult mai profund expozițiilor.",
+            "en": "Discover regional art and Catalan heritage within the walls of this beautifully restored former hospital, where guided audio tours provide deeper context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgues d'Ille-sur-Têt",
+            "hu": "Orgues d'Ille-sur-Têt",
+            "ro": "Orgues d'Ille-sur-Têt",
+            "en": "Orgues d'Ille-sur-Têt"
+          },
+          "coords": [
+            2.6262,
+            42.6876
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese unglaublichen, durch Erosion geformten Sandsteinsäulen und tragen Sie unbedingt festes Schuhwerk, um sicher auf den sandigen Wegen zu wandern.",
+            "hu": "Csodálja meg az erózió által évezredek alatt kifaragott hihetetlen homokkő oszlopokat, és viseljen zárt, kényelmes cipőt, hogy biztonságosan járja be a homokos ösvényeket.",
+            "ro": "Minunați-vă de aceste coloane incredibile de gresie sculptate de eroziune și asigurați-vă că purtați încălțăminte robustă pentru a explora în siguranță potecile nisipoase.",
+            "en": "Marvel at these incredible sandstone columns sculpted by erosion over millennia, and be sure to wear sturdy shoes to safely navigate the winding sandy trails here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Maurice",
+            "hu": "Saint-Maurice kápolna",
+            "ro": "Capela Saint-Maurice",
+            "en": "Saint-Maurice Chapel"
+          },
+          "coords": [
+            2.649563,
+            42.648057
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche ländliche Kapelle inmitten üppiger mediterraner Vegetation und bringen Sie eine Kamera mit, um die ruhige Landschaft im Nachmittagslicht festzuhalten.",
+            "hu": "Fedezze fel ezt a buja mediterrán növényzettel körülvett békés vidéki kápolnát, és hozzon fényképezőgépet, hogy megörökítse a délutáni fényben fürdőző tájat.",
+            "ro": "Explorați această capelă rurală pașnică înconjurată de vegetație mediteraneană luxuriantă, aducând o cameră pentru a surprinde peisajul senin în lumina caldă a după-amiezii.",
+            "en": "Explore this peaceful rural chapel surrounded by lush Mediterranean vegetation, bringing a camera to capture the serene landscape glowing in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vinça",
+            "hu": "Lac de Vinça",
+            "ro": "Lacul Vinça",
+            "en": "Lac de Vinça"
+          },
+          "coords": [
+            2.517525,
+            42.652071
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser dieses Stausees mit herrlichem Blick auf den Pic du Canigou, ideal für ein Nachmittagspicknick oder ein erfrischendes Bad im Sommer.",
+            "hu": "Pihenjen e víztározó nyugodt vizénél, amely gyönyörű kilátást nyújt a Canigou-csúcsra, és tökéletes helyszín egy délutáni piknikhez vagy egy nyári frissítő úszáshoz.",
+            "ro": "Relaxați-vă pe malul acestui lac de acumulare cu vedere frumoasă spre vârful Canigou, perfect pentru un picnic după-amiaza sau o baie răcoritoare în timpul verii.",
+            "en": "Relax by the tranquil waters of this artificial reservoir offering beautiful views of the Canigou peak, perfect for an afternoon picnic or a refreshing swim in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt im lebhaften Stadtzentrum, wo Sie den Charme am Hauptplatz erleben und die historische Kirche Saint-Étienne besuchen. Gegen Mittag radeln Sie zum beeindruckenden Museum und anschließend zu den geologischen Wundern der Orgues. Die Nachmittagsbrise führt Sie zur abgelegenen Kapelle Saint-Maurice, einem versteckten Juwel in den Weinbergen. Gegen Abend radeln Sie zum wunderschönen Lac de Vinça, einem perfekten Ort, um am Wasser bei Sonnenuntergang zu entspannen.",
+        "hu": "A kerékpáros nap a pezsgő városközpontban indul, ahol a főtéren és a történelmi templomban ízlelheti meg a helyi bájokat. Dél körül tekerjen át a lenyűgöző múzeumba, majd egy rövid úttal érje el az Orgues geológiai csodáit. A délutáni szellő a szőlőültetvények között megbúvó, eldugott Saint-Maurice kápolnához vezet. Ahogy közeledik az este, kerékpározzon a gyönyörű Lac de Vinça felé, amely tökéletes hely a vízparti pihenéshez naplemente idején.",
+        "ro": "Ziua de ciclism începe în centrul vibrant, unde veți experimenta farmecul local la piața principală și veți vizita biserica istorică. În jurul prânzului, pedalați către muzeul impresionant, urmat de o scurtă plimbare către minunile geologice ale Orgues. Briza după-amiezii vă va ghida spre capela retrasă Saint-Maurice, o bijuterie ascunsă. Seara, îndreptați-vă spre frumosul Lac de Vinça, un loc perfect pentru a vă relaxa lângă apă la apusul soarelui.",
+        "en": "Your cycling day starts in the vibrant town center, where you will experience the local charm at the main square and visit the historic Saint-Étienne church. Around midday, pedal over to the impressive museum at the former hospice, followed by a short ride to the spectacular geological wonders of the Orgues. The afternoon breeze will guide you to the secluded Saint-Maurice Chapel, a hidden gem among the vineyards. As evening approaches, cycle towards the beautiful Lac de Vinça, a perfect spot to relax by the water as the sun sets behind the mountains."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 29.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Rhin et Danube",
+            "hu": "Square Rhin et Danube",
+            "ro": "Piața Rhin et Danube",
+            "en": "Square Rhin et Danube"
+          },
+          "coords": [
+            2.617405,
+            42.669973
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem zentralen Treffpunkt, um das Stadtleben zu spüren, und holen Sie sich ein frisches Gebäck in der Nähe, bevor Sie auf einer Bank entspannen.",
+            "hu": "Kezdje a napot ezen a központi téren, hogy átérezze a város lüktetését, de mindenképpen vegyen egy friss péksüteményt a közelben, mielőtt megpihenne egy árnyékos padon.",
+            "ro": "Începeți ziua în acest punct central de întâlnire pentru a simți pulsul orașului, dar asigurați-vă că luați o patiserie proaspătă înainte de a vă odihni pe o bancă la umbră.",
+            "en": "Begin your day at this central gathering spot to feel the town's pulse, but make sure to grab a fresh pastry from a nearby bakery before resting on a shaded bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            2.619449,
+            42.672129
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur und den Altaraufsatz dieser historischen Kirche, und achten Sie auf die feine Akustik, wenn Sie am ruhigen Vormittag kommen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román kori építészetét és oltárképét, figyelve a kiváló akusztikára, ha egy csendes délelőtti órában érkezik látogatóba.",
+            "ro": "Admirați arhitectura romanică impresionantă și altarul detaliat al acestei biserici istorice, observând acustica deosebită dacă o vizitați într-o dimineață liniștită.",
+            "en": "Admire the stunning Romanesque architecture and detailed altarpiece of this historic church, taking a moment to notice the fine acoustics if you visit during a quiet morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospiz von Ille-sur-Têt",
+            "hu": "Ille-sur-Têt menhely",
+            "ro": "Hospiciul din Ille-sur-Têt",
+            "en": "Hospice of Ille-sur-Têt"
+          },
+          "coords": [
+            2.621095,
+            42.672827
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunst und katalanisches Erbe in diesem wunderschön restaurierten ehemaligen Krankenhaus, wo Audioführungen tieferen Einblick in die Exponate bieten.",
+            "hu": "Fedezze fel a regionális művészetet és a katalán örökséget e gyönyörűen felújított egykori kórház falai között, ahol az audio guide-ok mélyebb betekintést nyújtanak.",
+            "ro": "Descoperiți arta regională și moștenirea catalană în această fostă clinică frumos restaurată, unde ghidurile audio oferă un context mult mai profund expozițiilor.",
+            "en": "Discover regional art and Catalan heritage within the walls of this beautifully restored former hospital, where guided audio tours provide deeper context to the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgues d'Ille-sur-Têt",
+            "hu": "Orgues d'Ille-sur-Têt",
+            "ro": "Orgues d'Ille-sur-Têt",
+            "en": "Orgues d'Ille-sur-Têt"
+          },
+          "coords": [
+            2.6262,
+            42.6876
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese unglaublichen, durch Erosion geformten Sandsteinsäulen und tragen Sie unbedingt festes Schuhwerk, um sicher auf den sandigen Wegen zu wandern.",
+            "hu": "Csodálja meg az erózió által évezredek alatt kifaragott hihetetlen homokkő oszlopokat, és viseljen zárt, kényelmes cipőt, hogy biztonságosan járja be a homokos ösvényeket.",
+            "ro": "Minunați-vă de aceste coloane incredibile de gresie sculptate de eroziune și asigurați-vă că purtați încălțăminte robustă pentru a explora în siguranță potecile nisipoase.",
+            "en": "Marvel at these incredible sandstone columns sculpted by erosion over millennia, and be sure to wear sturdy shoes to safely navigate the winding sandy trails here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Maurice",
+            "hu": "Saint-Maurice kápolna",
+            "ro": "Capela Saint-Maurice",
+            "en": "Saint-Maurice Chapel"
+          },
+          "coords": [
+            2.649563,
+            42.648057
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche ländliche Kapelle inmitten üppiger mediterraner Vegetation und bringen Sie eine Kamera mit, um die ruhige Landschaft im Nachmittagslicht festzuhalten.",
+            "hu": "Fedezze fel ezt a buja mediterrán növényzettel körülvett békés vidéki kápolnát, és hozzon fényképezőgépet, hogy megörökítse a délutáni fényben fürdőző tájat.",
+            "ro": "Explorați această capelă rurală pașnică înconjurată de vegetație mediteraneană luxuriantă, aducând o cameră pentru a surprinde peisajul senin în lumina caldă a după-amiezii.",
+            "en": "Explore this peaceful rural chapel surrounded by lush Mediterranean vegetation, bringing a camera to capture the serene landscape glowing in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vinça",
+            "hu": "Lac de Vinça",
+            "ro": "Lacul Vinça",
+            "en": "Lac de Vinça"
+          },
+          "coords": [
+            2.517525,
+            42.652071
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser dieses Stausees mit herrlichem Blick auf den Pic du Canigou, ideal für ein Nachmittagspicknick oder ein erfrischendes Bad im Sommer.",
+            "hu": "Pihenjen e víztározó nyugodt vizénél, amely gyönyörű kilátást nyújt a Canigou-csúcsra, és tökéletes helyszín egy délutáni piknikhez vagy egy nyári frissítő úszáshoz.",
+            "ro": "Relaxați-vă pe malul acestui lac de acumulare cu vedere frumoasă spre vârful Canigou, perfect pentru un picnic după-amiaza sau o baie răcoritoare în timpul verii.",
+            "en": "Relax by the tranquil waters of this artificial reservoir offering beautiful views of the Canigou peak, perfect for an afternoon picnic or a refreshing swim in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Caramany",
+            "hu": "Lac de Caramany",
+            "ro": "Lacul Caramany",
+            "en": "Lac de Caramany"
+          },
+          "coords": [
+            2.562516,
+            42.748252
+          ],
+          "category": "natural",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem malerischen See mit schroffen Ufern, wo Vogelbeobachter unbedingt ein Fernglas mitbringen sollten, um die Tierwelt bei Sonnenuntergang zu sehen.",
+            "hu": "Zárja útját ennél a vadregényes partjairól híres, festői tónál, ahol a madármegfigyelőknek érdemes távcsövet hozniuk, hogy naplementekor megfigyelhessék a helyi vadvilágot.",
+            "ro": "Încheiați-vă călătoria la acest lac pitoresc renumit pentru malurile sale accidentate, unde pasionații de păsări ar trebui să aducă binoclu pentru a observa fauna la apus.",
+            "en": "Conclude your trip at this expansive scenic lake famous for its rugged shores, where birdwatchers should definitely bring binoculars to spot local wildlife at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im Herzen von Ille-sur-Têt mit einer schnellen Tour über den zentralen Platz, die klassische Kirche und das regionale Museum. Am späten Vormittag fahren Sie zu den berühmten Orgues d'Ille-sur-Têt, um die von der Natur geformten Sandpfeiler zu bestaunen. Die Fahrt am Nachmittag führt Sie durch malerische Landschaften zur ruhigen Kapelle Saint-Maurice und zum Lac de Vinça. Beenden Sie Ihr Abenteuer am Lac de Caramany und genießen Sie den ruhigen Sonnenuntergang.",
+        "hu": "Indítsa autós kirándulását Ille-sur-Têt szívében, körbejárva a központi teret, a klasszikus templomot és a történelmi menhelyen kialakított regionális múzeumot. Késő délelőtt vezessen a híres Orgues d'Ille-sur-Têt-hez, hogy megcsodálja a természet által formált hatalmas homokoszlopokat. A délutáni autózás festői tájakon át a békés Saint-Maurice kápolnához és a hatalmas Lac de Vinça-hoz vezet. Zárja a kalandot északra a Lac de Caramany-nál, élvezve a nyugodt naplementét.",
+        "ro": "Începeți excursia cu mașina în inima orașului Ille-sur-Têt, vizitând rapid piața centrală, biserica clasică și muzeul regional din fostul spital. Spre sfârșitul dimineții, conduceți la faimoasele Orgues d'Ille-sur-Têt pentru a admira stâlpii uriași de nisip. După-amiaza, drumul vă poartă prin peisaje pitorești până la liniștita capelă Saint-Maurice și la întinsul Lac de Vinça. Încheiați aventura conducând spre Lac de Caramany pentru un apus liniștit pe malul apei.",
+        "en": "Kick off your road trip in the heart of Ille-sur-Têt, quickly touring the central square, the classic church, and the profound regional museum housed in the historic hospice. By late morning, drive to the famous Orgues d'Ille-sur-Têt to marvel at the towering sand pillars shaped by nature. The afternoon drive takes you through picturesque landscapes to the serene Saint-Maurice Chapel and the expansive Lac de Vinça. Finish your adventure driving north to Lac de Caramany, enjoying spectacular waterfront views and a tranquil sunset far from the crowds."
+      }
+    }
+  }
+}

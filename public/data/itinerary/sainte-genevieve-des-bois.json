@@ -1,0 +1,612 @@
+{
+  "city_id": "sainte-genevieve-des-bois",
+  "anchor": {
+    "name": "Sainte-Geneviève-des-Bois",
+    "coords": [
+      2.3322,
+      48.6378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Városháza",
+            "ro": "Primăria din Sainte-Geneviève-des-Bois",
+            "en": "Town Hall of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.3269,
+            48.640571
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses und treten Sie an Wochentagen morgens ein, um einen Blick in die lokale Verwaltungsgeschichte zu werfen.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét, és térjen be egy hétköznap délelőtt, hogy bepillantást nyerjen a helyi közigazgatás történelmébe.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei și vizitați-o în diminețile din timpul săptămânii pentru a descoperi istoria administrativă locală.",
+            "en": "Admire the classic French architecture of the town hall and step inside during weekday mornings for a quick glimpse of local administrative history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Kastély",
+            "ro": "Castelul din Sainte-Geneviève-des-Bois",
+            "en": "Castle of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.332027,
+            48.639957
+          ],
+          "category": "castle",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen mittelalterlichen Burg, um ihre strategische Bedeutung zu verstehen, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi középkori kastély maradványait, hogy megértse stratégiai jelentőségét, de mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Explorați rămășițele acestui castel medieval istoric pentru a-i înțelege importanța strategică, dar asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Explore the remnants of this historic medieval castle to understand its strategic importance, but be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Grotte",
+            "hu": "Sainte-Geneviève Barlang",
+            "ro": "Grota Sainte-Geneviève",
+            "en": "Sainte-Geneviève Grotto"
+          },
+          "coords": [
+            2.328251,
+            48.637977
+          ],
+          "category": "landmark",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser friedlichen Steingrotte, die der Schutzpatronin gewidmet ist, für einen Moment der Besinnung und bringen Sie eine kleine Kerze mit.",
+            "hu": "Álljon meg egy pillanatra ezen a békés, a város védőszentjének szentelt kőbarlangnál, és hozzon magával egy kis gyertyát, ha szeretne egyet meggyújtani.",
+            "ro": "Opriți-vă la această grotă de piatră pașnică dedicată sfântului patron pentru un moment de reflecție, aducând o lumânare mică dacă doriți să o aprindeți.",
+            "en": "Stop by this peaceful stone grotto dedicated to the town's patron saint for a moment of quiet reflection, bringing a small candle if you wish to light one."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Geneviève",
+            "hu": "Sainte-Geneviève Templom",
+            "ro": "Biserica Sainte-Geneviève",
+            "en": "Sainte-Geneviève Church"
+          },
+          "coords": [
+            2.335388,
+            48.633954
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die eleganten Buntglasfenster dieser zentralen Kirche und versuchen Sie, gegen Mittag zu kommen, wenn der Innenraum wunderschön beleuchtet ist.",
+            "hu": "Figyelje meg a központi templom elegáns ólomüveg ablakait, és próbáljon dél körül érkezni, amikor a belső teret gyönyörűen megvilágítja a természetes fény.",
+            "ro": "Observați vitraliile elegante ale acestei biserici centrale și încercați să vizitați în jurul prânzului când interiorul este frumos luminat natural.",
+            "en": "Notice the elegant stained glass windows of this central church, and try to visit around noon when the interior is beautifully illuminated by natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisches Haus",
+            "hu": "Orosz Ház",
+            "ro": "Casa Rusă",
+            "en": "Russian House"
+          },
+          "coords": [
+            2.336534,
+            48.635133
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der russischen Emigranten in diesem Haus, indem Sie im Voraus eine Führung buchen, um die Bedeutung zu erfassen.",
+            "hu": "Ismerje meg az ebben a történelmi házban őrzött orosz emigráns történelmet, és foglaljon előre vezetett túrát, hogy teljes mértékben megértse jelentőségét.",
+            "ro": "Aflați despre istoria bogată a emigranților ruși păstrată în această casă, rezervând un tur ghidat în avans pentru a înțelege pe deplin semnificația sa.",
+            "en": "Learn about the rich Russian emigré history preserved in this historical house by booking a guided tour in advance to fully grasp its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Entschlafen",
+            "hu": "Istenanya Elszenderedése Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            2.343602,
+            48.63184
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen orthodoxen Fresken an den Wänden dieser atemberaubenden Kirche und sprechen Sie leise, da sie noch immer genutzt wird.",
+            "hu": "Csodálja meg az e lenyűgöző templom falait díszítő hagyományos keleti ortodox freskókat, de beszéljen halkan, mivel ez ma is működő istentiszteleti hely.",
+            "ro": "Admirați frescele ortodoxe tradiționale care împodobesc pereții acestei biserici uimitoare, păstrând vocea scăzută, deoarece rămâne un loc de cult activ.",
+            "en": "Marvel at the traditional Eastern Orthodox frescoes adorning the walls of this stunning church, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Russischer Friedhof",
+            "hu": "Orosz Temető",
+            "ro": "Cimitirul Rus",
+            "en": "Russian Cemetery"
+          },
+          "coords": [
+            2.345278,
+            48.631389
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Friedhof, um die Gräber berühmter russischer Künstler zu finden, und bringen Sie eine Karte für die Monumente mit.",
+            "hu": "Sétáljon végig ezen a mélyen megérintő történelmi temetőn, hogy megtalálja a híres orosz művészek sírjait, és hozzon térképet a konkrét emlékművekhez.",
+            "ro": "Plimbați-vă prin acest cimitir istoric pentru a găsi mormintele unor artiști ruși celebri, aducând o hartă pentru a localiza monumentele specifice.",
+            "en": "Wander through this deeply moving historical cemetery to find the graves of famous Russian artists and dancers, bringing a map to locate specific monuments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen der Stadt und erkunden Sie das Verwaltungszentrum sowie die mittelalterlichen Überreste des lokalen Châteaus. Das Morgenlicht beleuchtet die alten Steine perfekt.\nGegen Mittag entdecken Sie die tiefen spirituellen Wurzeln der Region und besuchen die friedliche Steingrotte und die zentrale Kirche. Genießen Sie die ruhige Atmosphäre dieser historischen Stätten.\nAm Nachmittag verlagert sich der Fokus auf das reiche russische Erbe, das diese einzigartige französische Stadt prägt. Das historische Emigrantenhaus bietet faszinierende Einblicke in vergangene Zeiten.\nBeenden Sie Ihre Reise inmitten orthodoxer Fresken und der letzten Ruhestätten berühmter Künstler. Die heitere Atmosphäre des Friedhofs bildet einen passenden, besinnlichen Abschluss des Tages.",
+        "hu": "Kezdje sétáját a város szívében, felfedezve a közigazgatási központot és a helyi kastély középkori maradványait. A reggeli fény tökéletesen megvilágítja az ősi köveket.\nDélben felfedezheti a környék mély spirituális gyökereit, meglátogatva a békés kőbarlangot és a központi templomot. Szánjon időt e történelmi helyszínek csendes atmoszférájának élvezetére.\nDélután az útvonal a gazdag orosz örökség felé fordul, amely meghatározza ezt az egyedülálló francia várost. A történelmi emigráns ház lenyűgöző bepillantást nyújt egy letűnt korszakba.\nZárja utazását az ortodox freskók és neves művészek végső nyughelyei között. A temető békés atmoszférája méltó és elgondolkodtató befejezést nyújt a napnak.",
+        "ro": "Începeți turul pe jos în inima orașului, explorând centrul administrativ și rămășițele medievale ale castelului local. Lumina dimineții luminează perfect pietrele antice.\nPână la prânz, veți descoperi rădăcinile spirituale profunde ale zonei, vizitând grota pașnică de piatră și biserica centrală. Faceți-vă timp pentru a vă bucura de atmosfera liniștită.\nDupă-amiaza, itinerariul se îndreaptă spre bogata moștenire rusă care definește acest oraș francez unic. Casa istorică a emigranților oferă o privire fascinantă într-o epocă trecută.\nÎncheiați-vă călătoria printre frescele ortodoxe și locurile de odihnă ale unor artiști renumiți. Atmosfera senină a cimitirului oferă un final potrivit de reflexie a zilei.",
+        "en": "Begin your walking tour in the heart of the town, exploring the administrative center and the medieval remnants of the local Château. The morning light perfectly illuminates the ancient stones.\nBy midday, you will discover the deep spiritual roots of the area, visiting the peaceful stone grotto and the central church. Take your time to enjoy the quiet atmosphere of these historic sites.\nIn the afternoon, the itinerary shifts towards the rich Russian heritage that defines this unique French town. The historical emigré house offers a fascinating glimpse into a past era.\nConclude your journey wandering among the Orthodox frescoes and the final resting places of renowned artists. The serene atmosphere of the cemetery provides a fittingly reflective end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 4.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Vereinigte Protestantische Kirche",
+            "hu": "Egyesült Protestáns Templom",
+            "ro": "Biserica Protestantă Unită",
+            "en": "United Protestant Church"
+          },
+          "coords": [
+            2.346391,
+            48.644576
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber markante Architektur dieser evangelischen Kirche am Stadtrand und prüfen Sie das Programm auf abendliche Musikaufführungen.",
+            "hu": "Csodálja meg a város szélén álló protestáns templom egyszerű, de feltűnő építészetét, és ellenőrizze a helyi menetrendet az esti zenei előadások miatt.",
+            "ro": "Admirați arhitectura simplă a acestei biserici protestante de la marginea orașului, verificând programul local pentru spectacolele muzicale de seară.",
+            "en": "Admire the simple yet striking architecture of this Protestant church on the edge of town, checking the local schedule for evening musical performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Városháza",
+            "ro": "Primăria din Sainte-Geneviève-des-Bois",
+            "en": "Town Hall of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.3269,
+            48.640571
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses und treten Sie an Wochentagen morgens ein, um einen Blick in die lokale Verwaltungsgeschichte zu werfen.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét, és térjen be egy hétköznap délelőtt, hogy bepillantást nyerjen a helyi közigazgatás történelmébe.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei și vizitați-o în diminețile din timpul săptămânii pentru a descoperi istoria administrativă locală.",
+            "en": "Admire the classic French architecture of the town hall and step inside during weekday mornings for a quick glimpse of local administrative history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Kastély",
+            "ro": "Castelul din Sainte-Geneviève-des-Bois",
+            "en": "Castle of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.332027,
+            48.639957
+          ],
+          "category": "castle",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen mittelalterlichen Burg, um ihre strategische Bedeutung zu verstehen, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi középkori kastély maradványait, hogy megértse stratégiai jelentőségét, de mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Explorați rămășițele acestui castel medieval istoric pentru a-i înțelege importanța strategică, dar asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Explore the remnants of this historic medieval castle to understand its strategic importance, but be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Grotte",
+            "hu": "Sainte-Geneviève Barlang",
+            "ro": "Grota Sainte-Geneviève",
+            "en": "Sainte-Geneviève Grotto"
+          },
+          "coords": [
+            2.328251,
+            48.637977
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser friedlichen Steingrotte, die der Schutzpatronin gewidmet ist, für einen Moment der Besinnung und bringen Sie eine kleine Kerze mit.",
+            "hu": "Álljon meg egy pillanatra ezen a békés, a város védőszentjének szentelt kőbarlangnál, és hozzon magával egy kis gyertyát, ha szeretne egyet meggyújtani.",
+            "ro": "Opriți-vă la această grotă de piatră pașnică dedicată sfântului patron pentru un moment de reflecție, aducând o lumânare mică dacă doriți să o aprindeți.",
+            "en": "Stop by this peaceful stone grotto dedicated to the town's patron saint for a moment of quiet reflection, bringing a small candle if you wish to light one."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Geneviève",
+            "hu": "Sainte-Geneviève Templom",
+            "ro": "Biserica Sainte-Geneviève",
+            "en": "Sainte-Geneviève Church"
+          },
+          "coords": [
+            2.335388,
+            48.633954
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die eleganten Buntglasfenster dieser zentralen Kirche und versuchen Sie, gegen Mittag zu kommen, wenn der Innenraum wunderschön beleuchtet ist.",
+            "hu": "Figyelje meg a központi templom elegáns ólomüveg ablakait, és próbáljon dél körül érkezni, amikor a belső teret gyönyörűen megvilágítja a természetes fény.",
+            "ro": "Observați vitraliile elegante ale acestei biserici centrale și încercați să vizitați în jurul prânzului când interiorul este frumos luminat natural.",
+            "en": "Notice the elegant stained glass windows of this central church, and try to visit around noon when the interior is beautifully illuminated by natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisches Haus",
+            "hu": "Orosz Ház",
+            "ro": "Casa Rusă",
+            "en": "Russian House"
+          },
+          "coords": [
+            2.336534,
+            48.635133
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der russischen Emigranten in diesem Haus, indem Sie im Voraus eine Führung buchen, um die Bedeutung zu erfassen.",
+            "hu": "Ismerje meg az ebben a történelmi házban őrzött orosz emigráns történelmet, és foglaljon előre vezetett túrát, hogy teljes mértékben megértse jelentőségét.",
+            "ro": "Aflați despre istoria bogată a emigranților ruși păstrată în această casă, rezervând un tur ghidat în avans pentru a înțelege pe deplin semnificația sa.",
+            "en": "Learn about the rich Russian emigré history preserved in this historical house by booking a guided tour in advance to fully grasp its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Entschlafen",
+            "hu": "Istenanya Elszenderedése Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            2.343602,
+            48.63184
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen orthodoxen Fresken an den Wänden dieser atemberaubenden Kirche und sprechen Sie leise, da sie noch immer genutzt wird.",
+            "hu": "Csodálja meg az e lenyűgöző templom falait díszítő hagyományos keleti ortodox freskókat, de beszéljen halkan, mivel ez ma is működő istentiszteleti hely.",
+            "ro": "Admirați frescele ortodoxe tradiționale care împodobesc pereții acestei biserici uimitoare, păstrând vocea scăzută, deoarece rămâne un loc de cult activ.",
+            "en": "Marvel at the traditional Eastern Orthodox frescoes adorning the walls of this stunning church, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Russischer Friedhof",
+            "hu": "Orosz Temető",
+            "ro": "Cimitirul Rus",
+            "en": "Russian Cemetery"
+          },
+          "coords": [
+            2.345278,
+            48.631389
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Friedhof, um die Gräber berühmter russischer Künstler zu finden, und bringen Sie eine Karte für die Monumente mit.",
+            "hu": "Sétáljon végig ezen a mélyen megérintő történelmi temetőn, hogy megtalálja a híres orosz művészek sírjait, és hozzon térképet a konkrét emlékművekhez.",
+            "ro": "Plimbați-vă prin acest cimitir istoric pentru a găsi mormintele unor artiști ruși celebri, aducând o hartă pentru a localiza monumentele specifice.",
+            "en": "Wander through this deeply moving historical cemetery to find the graves of famous Russian artists and dancers, bringing a map to locate specific monuments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie in die Randbezirke der Stadt, um die Architektur der evangelischen Kirche zu bewundern, bevor Sie ins geschäftige Zentrum fahren. Die frische Morgenluft sorgt für einen belebenden Start.\nWenn der Mittag naht, radeln Sie vorbei an den alten Burgmauern und der beliebten lokalen Grotte zur katholischen Hauptkirche. Die kompakten Straßen eignen sich perfekt für ein entspanntes Tempo.\nIhre Nachmittagsfahrt nimmt eine kulturelle Wendung und taucht in das berühmte russische Viertel der Stadt ein. Parken Sie Ihr Fahrrad, um die historische Residenz der exilierten Künstler zu erkunden.\nBeenden Sie Ihre Radtour an der majestätischen orthodoxen Kirche und dem weitläufigen Friedhof. Die friedlichen, schattigen Wege hier bieten einen ruhigen Ort, um über die vielfältige Geschichte nachzudenken.",
+        "hu": "Tekerjen ki a város szélére, hogy megcsodálja a protestáns templom építészetét, mielőtt a nyüzsgő polgári központba indulna. A csípős reggeli levegő frissítő kezdést biztosít.\nA dél közeledtével biciklizzen el az ősi várfalak és a kedvelt helyi barlang mellett, majd haladjon a fő katolikus templom felé. A kompakt utcák tökéletesek a nyugodt tempójú kerékpározáshoz.\nA délutáni kerékpározás kulturális fordulatot vesz, amikor a város híres orosz negyedébe ér. Parkolja le kerékpárját, hogy teljesen felfedezze a történelmi rezidenciát, amely egykor száműzött művészeknek adott otthont.\nFejezze be kerékpártúráját a fenséges ortodox templomnál és a kiterjedt temetőnél. Az itteni békés, árnyékos ösvények nyugodt helyet kínálnak a ma látott változatos történelem átgondolására.",
+        "ro": "Pedați spre marginea orașului pentru a admira arhitectura bisericii protestante înainte de a vă îndrepta spre centrul civic plin de viață. Aerul proaspăt al dimineții oferă un început revigorant.\nPe măsură ce se apropie prânzul, mergeți cu bicicleta pe lângă vechile ziduri ale castelului și grota locală iubită, îndreptându-vă spre biserica catolică principală. Străzile sunt perfecte pentru un ritm relaxat.\nCălătoria de după-amiază ia o turnură culturală, plonjând în faimosul cartier rus al orașului. Parcați bicicleta pentru a explora reședința istorică ce a găzduit cândva artiști și gânditori exilați.\nTerminați turul cu bicicleta la biserica ortodoxă maiestuoasă și cimitirul întins. Căile pașnice și umbrite de aici oferă un loc liniștit pentru a reflecta la istoria diversă pe care ați văzut-o astăzi.",
+        "en": "Pedal your way into the town's outskirts to admire the Protestant church's architecture before heading into the bustling civic center. The crisp morning air makes for an invigorating start.\nAs noon approaches, cycle past the ancient castle walls and the beloved local grotto, weaving your way to the main Catholic church. The compact streets are perfect for a relaxed riding pace.\nYour afternoon ride takes a cultural turn, diving into the town's famous Russian quarter. Park your bike to fully explore the historical residence that once housed prominent exiled artists and thinkers.\nFinish your cycling tour at the majestic Orthodox church and the sprawling cemetery. The peaceful, shaded paths here offer a quiet place to reflect on the diverse history you have witnessed today."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 11.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Pierre-Park",
+            "hu": "Pierre Park",
+            "ro": "Parcul Pierre",
+            "en": "Pierre Park"
+          },
+          "coords": [
+            2.241021,
+            48.637932
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang über die grünen Rasenflächen des Pierre-Parks und holen Sie sich vorher ein frisches Croissant beim Bäcker.",
+            "hu": "Kezdje a reggelt egy frissítő sétával a Pierre Park kiterjedt zöld pázsitján, és vegyen egy friss croissant-t egy közeli pékségből, mielőtt belépne.",
+            "ro": "Începeți dimineața cu o plimbare revigorantă pe peluzele verzi ale Parcului Pierre, luând un croissant proaspăt de la o brutărie din apropiere înainte.",
+            "en": "Start your morning with a refreshing walk around the sprawling green lawns of Pierre Park, grabbing a fresh croissant from a nearby bakery before you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Vereinigte Protestantische Kirche",
+            "hu": "Egyesült Protestáns Templom",
+            "ro": "Biserica Protestantă Unită",
+            "en": "United Protestant Church"
+          },
+          "coords": [
+            2.346391,
+            48.644576
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber markante Architektur dieser evangelischen Kirche am Stadtrand und prüfen Sie das Programm auf abendliche Musikaufführungen.",
+            "hu": "Csodálja meg a város szélén álló protestáns templom egyszerű, de feltűnő építészetét, és ellenőrizze a helyi menetrendet az esti zenei előadások miatt.",
+            "ro": "Admirați arhitectura simplă a acestei biserici protestante de la marginea orașului, verificând programul local pentru spectacolele muzicale de seară.",
+            "en": "Admire the simple yet striking architecture of this Protestant church on the edge of town, checking the local schedule for evening musical performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Városháza",
+            "ro": "Primăria din Sainte-Geneviève-des-Bois",
+            "en": "Town Hall of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.3269,
+            48.640571
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses und treten Sie an Wochentagen morgens ein, um einen Blick in die lokale Verwaltungsgeschichte zu werfen.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét, és térjen be egy hétköznap délelőtt, hogy bepillantást nyerjen a helyi közigazgatás történelmébe.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei și vizitați-o în diminețile din timpul săptămânii pentru a descoperi istoria administrativă locală.",
+            "en": "Admire the classic French architecture of the town hall and step inside during weekday mornings for a quick glimpse of local administrative history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Sainte-Geneviève-des-Bois",
+            "hu": "Sainte-Geneviève-des-Bois Kastély",
+            "ro": "Castelul din Sainte-Geneviève-des-Bois",
+            "en": "Castle of Sainte-Geneviève-des-Bois"
+          },
+          "coords": [
+            2.332027,
+            48.639957
+          ],
+          "category": "castle",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen mittelalterlichen Burg, um ihre strategische Bedeutung zu verstehen, aber tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi középkori kastély maradványait, hogy megértse stratégiai jelentőségét, de mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Explorați rămășițele acestui castel medieval istoric pentru a-i înțelege importanța strategică, dar asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Explore the remnants of this historic medieval castle to understand its strategic importance, but be sure to wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Grotte",
+            "hu": "Sainte-Geneviève Barlang",
+            "ro": "Grota Sainte-Geneviève",
+            "en": "Sainte-Geneviève Grotto"
+          },
+          "coords": [
+            2.328251,
+            48.637977
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser friedlichen Steingrotte, die der Schutzpatronin gewidmet ist, für einen Moment der Besinnung und bringen Sie eine kleine Kerze mit.",
+            "hu": "Álljon meg egy pillanatra ezen a békés, a város védőszentjének szentelt kőbarlangnál, és hozzon magával egy kis gyertyát, ha szeretne egyet meggyújtani.",
+            "ro": "Opriți-vă la această grotă de piatră pașnică dedicată sfântului patron pentru un moment de reflecție, aducând o lumânare mică dacă doriți să o aprindeți.",
+            "en": "Stop by this peaceful stone grotto dedicated to the town's patron saint for a moment of quiet reflection, bringing a small candle if you wish to light one."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Geneviève",
+            "hu": "Sainte-Geneviève Templom",
+            "ro": "Biserica Sainte-Geneviève",
+            "en": "Sainte-Geneviève Church"
+          },
+          "coords": [
+            2.335388,
+            48.633954
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die eleganten Buntglasfenster dieser zentralen Kirche und versuchen Sie, gegen Mittag zu kommen, wenn der Innenraum wunderschön beleuchtet ist.",
+            "hu": "Figyelje meg a központi templom elegáns ólomüveg ablakait, és próbáljon dél körül érkezni, amikor a belső teret gyönyörűen megvilágítja a természetes fény.",
+            "ro": "Observați vitraliile elegante ale acestei biserici centrale și încercați să vizitați în jurul prânzului când interiorul este frumos luminat natural.",
+            "en": "Notice the elegant stained glass windows of this central church, and try to visit around noon when the interior is beautifully illuminated by natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisches Haus",
+            "hu": "Orosz Ház",
+            "ro": "Casa Rusă",
+            "en": "Russian House"
+          },
+          "coords": [
+            2.336534,
+            48.635133
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der russischen Emigranten in diesem Haus, indem Sie im Voraus eine Führung buchen, um die Bedeutung zu erfassen.",
+            "hu": "Ismerje meg az ebben a történelmi házban őrzött orosz emigráns történelmet, és foglaljon előre vezetett túrát, hogy teljes mértékben megértse jelentőségét.",
+            "ro": "Aflați despre istoria bogată a emigranților ruși păstrată în această casă, rezervând un tur ghidat în avans pentru a înțelege pe deplin semnificația sa.",
+            "en": "Learn about the rich Russian emigré history preserved in this historical house by booking a guided tour in advance to fully grasp its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Entschlafen",
+            "hu": "Istenanya Elszenderedése Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            2.343602,
+            48.63184
+          ],
+          "category": "religious",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen orthodoxen Fresken an den Wänden dieser atemberaubenden Kirche und sprechen Sie leise, da sie noch immer genutzt wird.",
+            "hu": "Csodálja meg az e lenyűgöző templom falait díszítő hagyományos keleti ortodox freskókat, de beszéljen halkan, mivel ez ma is működő istentiszteleti hely.",
+            "ro": "Admirați frescele ortodoxe tradiționale care împodobesc pereții acestei biserici uimitoare, păstrând vocea scăzută, deoarece rămâne un loc de cult activ.",
+            "en": "Marvel at the traditional Eastern Orthodox frescoes adorning the walls of this stunning church, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Russischer Friedhof",
+            "hu": "Orosz Temető",
+            "ro": "Cimitirul Rus",
+            "en": "Russian Cemetery"
+          },
+          "coords": [
+            2.345278,
+            48.631389
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Friedhof, um die Gräber berühmter russischer Künstler zu finden, und bringen Sie eine Karte für die Monumente mit.",
+            "hu": "Sétáljon végig ezen a mélyen megérintő történelmi temetőn, hogy megtalálja a híres orosz művészek sírjait, és hozzon térképet a konkrét emlékművekhez.",
+            "ro": "Plimbați-vă prin acest cimitir istoric pentru a găsi mormintele unor artiști ruși celebri, aducând o hartă pentru a localiza monumentele specifice.",
+            "en": "Wander through this deeply moving historical cemetery to find the graves of famous Russian artists and dancers, bringing a map to locate specific monuments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem Spaziergang durch die Weiten des Pierre-Parks und nutzen Sie die guten Parkmöglichkeiten. Eine kurze Fahrt bringt Sie dann zur markanten evangelischen Kirche.\nAm Mittag wechseln Sie zwischen den zentralen historischen Stätten der Stadt und navigieren mühelos vom Verwaltungszentrum zu den Burgruinen. Mit dem Auto erreichen Sie diese Orte schnell.\nDer Nachmittag ist der Erkundung des reichen kulturellen Geflechts des russischen Viertels gewidmet. Ein Auto macht es einfach, vom historischen Haus direkt zur atemberaubenden orthodoxen Kirche zu gelangen.\nIhr Tag endet auf dem riesigen russischen Friedhof, wo Sie an den Gräbern der Legenden Ihren Respekt erweisen können. Der Komfort des Fahrens sorgt dafür, dass Sie noch Energie übrig haben.",
+        "hu": "Kezdje a napot egy pihentető sétával a Pierre Park hatalmas zöldterületein, kihasználva a könnyű parkolási lehetőségeket. Egy rövid autóút után a jellegzetes protestáns templomhoz érkezik.\nA délidő a város központi történelmi helyszínei közötti ugrálást jelenti, könnyedén navigálva a közigazgatási központtól a középkori várromokig. A vezetés lehetővé teszi e változatos helyek gyors bejárását.\nA délután az orosz negyed gazdag kulturális szövevényének felfedezésének van szentelve. Autóval egyszerűen át lehet jutni a történelmi háztól egyenesen a lélegzetelállító ortodox templomig.\nA nap a hatalmas orosz temetőben zárul, ahol bőven lesz ideje tiszteletét tenni a legendák sírjainál. Az autózás kényelme biztosítja, hogy maradjon még energiája a nap végére.",
+        "ro": "Începeți ziua cu o plimbare relaxantă prin spațiile verzi vaste ale Parcului Pierre, profitând de parcarea ușoară. Un scurt drum cu mașina vă aduce apoi la biserica protestantă distinctă.\nMiezul zilei implică deplasarea între siturile istorice de bază ale orașului, navigând cu ușurință de la centrul administrativ la ruinele castelului medieval. Condusul vă permite să acoperiți rapid aceste locuri.\nDupă-amiaza este dedicată explorării bogatei tapiserii culturale a cartierului rus. Având o mașină este simplu să vă mutați de la casa istorică direct la biserica ortodoxă uluitoare.\nZiua se încheie la vastul cimitir rusesc, unde aveți suficient timp pentru a prezenta omagii la mormintele legendelor. Comoditatea condusului vă asigură că plecați cu energie rămasă.",
+        "en": "Start the day with a relaxing stroll through the vast green spaces of Pierre Park, taking advantage of the easy parking. A short drive then brings you to the distinct Protestant church.\nMidday involves hopping between the town's core historical sites, easily navigating from the administrative center to the medieval castle ruins. Driving allows you to quickly cover these diverse central spots.\nThe afternoon is dedicated to exploring the rich cultural tapestry of the Russian quarter. Having a car makes it simple to move from the historical house directly to the breathtaking Orthodox church.\nYour day concludes at the vast Russian Cemetery, where ample time allows you to pay respects at the graves of legends. The convenience of driving ensures you leave with energy to spare."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-cervo-cities-v2",
+  "anchor": {
+    "name": "Cervo",
+    "coords": [
+      8.11515,
+      43.92577
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 0.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Cervo",
+            "hu": "Municipio di Cervo",
+            "ro": "Municipio di Cervo",
+            "en": "Municipio di Cervo"
+          },
+          "coords": [
+            8.114213,
+            43.925298
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses, die den historischen Charme von Cervo perfekt einfängt, und genießen Sie den Panoramablick von der angrenzenden Terrasse.",
+            "hu": "Csodálja meg a városháza elegáns építészetét, amely tökéletesen megragadja Cervo történelmi varázsát, és szánjon egy percet a szomszédos teraszról nyíló panorámára is.",
+            "ro": "Admirați arhitectura elegantă a primăriei, care surprinde perfect farmecul istoric al orașului Cervo, și acordați-vă un moment pentru a vă bucura de priveliștile panoramice de pe terasa adiacentă.",
+            "en": "Admire the elegant architecture of the town hall, which perfectly captures Cervo's historical charm, and take a moment to enjoy the panoramic views from the adjacent terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Battista",
+            "hu": "San Giovanni Battista",
+            "ro": "San Giovanni Battista",
+            "en": "San Giovanni Battista"
+          },
+          "coords": [
+            8.115297,
+            43.926081
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betreten Sie diese atemberaubende Barockkirche, die als Corallini bekannt ist, um ihre opulenten Innenräume zu bewundern, aber kommen Sie früh, um die Stille und die Akustik zu genießen.",
+            "hu": "Lépjen be ebbe a Corallini néven ismert lenyűgöző barokk templomba, hogy megcsodálja pazar belső tereit, de próbáljon korán érkezni a tömeg elkerülése és a kiváló akusztika megfigyelése érdekében.",
+            "ro": "Pășiți în această biserică barocă uimitoare cunoscută sub numele de Corallini pentru a admira interioarele sale opulente, dar încercați să ajungeți devreme pentru a evita aglomerația.",
+            "en": "Step inside this stunning Baroque church known as the Corallini to marvel at its opulent interiors, but try to arrive early to avoid the crowds while observing its acoustic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico del Ponente ligure",
+            "hu": "Museo Etnografico del Ponente ligure",
+            "ro": "Museo Etnografico del Ponente ligure",
+            "en": "Museo Etnografico del Ponente ligure"
+          },
+          "coords": [
+            8.115114,
+            43.927113
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche lokale Erbe und die landwirtschaftlichen Traditionen der ligurischen Küste innerhalb der Burgmauern und achten Sie besonders auf die Olivenölausstellungen.",
+            "hu": "Fedezze fel a ligur tengerpart gazdag helyi örökségét és mezőgazdasági hagyományait a várfalakon belül, különösen az olívaolaj-termelés lenyűgöző kiállításaira összpontosítva.",
+            "ro": "Descoperiți bogatul patrimoniu local și tradițiile agricole ale coastei liguriene în interiorul zidurilor castelului, concentrându-vă în special asupra exponatelor fascinante despre uleiul de măsline.",
+            "en": "Discover the rich local heritage and agricultural traditions of the Ligurian coast within the castle walls, focusing especially on the fascinating olive oil production exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni L'Angolo",
+            "hu": "Bagni L'Angolo",
+            "ro": "Bagni L'Angolo",
+            "en": "Bagni L'Angolo"
+          },
+          "coords": [
+            8.113788,
+            43.923567
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem gemütlichen Strandclub mit kristallklarem Wasser und bequemen Sonnenliegen, bei dem Sie Ihren Schirm in den Sommermonaten im Voraus mieten sollten.",
+            "hu": "Pihenjen meg ebben a kristálytiszta vizű, kényelmes napozóágyakat kínáló hangulatos strandklubban, de a nyári csúcsidőszakban érdemes előre lefoglalni a napernyőt.",
+            "ro": "Relaxați-vă la acest club de plajă primitor, cu ape cristaline și șezlonguri confortabile, ideal fiind să vă închiriați umbrela în avans în timpul lunilor de vârf ale verii.",
+            "en": "Relax at this cozy beach club offering crystal-clear waters and comfortable sunbeds, making it ideal to rent your umbrella in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina delle Reti",
+            "hu": "Marina delle Reti",
+            "ro": "Marina delle Reti",
+            "en": "Marina delle Reti"
+          },
+          "coords": [
+            8.117257,
+            43.92514
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Yachthafen und beobachten Sie die lokalen Fischer bei der Arbeit, ein perfekter Ort für einen ruhigen Nachmittagsspaziergang am Mittelmeer.",
+            "hu": "Kapcsolódjon ki a festői jachtkikötőben, miközben a helyi halászok napi fogásukat hozzák, ami tökéletes hely egy nyugodt, késő délutáni sétához a Földközi-tenger lágy hullámai mellett.",
+            "ro": "Relaxați-vă în portul pitoresc observând pescarii locali cum își aduc prada zilnică, un loc perfect pentru a vă bucura de o plimbare liniștită după-amiaza lângă valurile Mării Mediterane.",
+            "en": "Unwind by the picturesque marina observing local fishermen bringing in their daily catch, a perfect spot to enjoy a tranquil late afternoon walk by the gentle Mediterranean waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Cervo und bewundern Sie die Architektur. Wechseln Sie von den religiösen Highlights zum faszinierenden Ethnografischen Museum. Verbringen Sie den Nachmittag am Ufer von Bagni L'Angolo und tanken Sie Mittelmeersonne. Beenden Sie Ihren Spaziergang mit einem friedlichen Bummel durch die Marina delle Reti.",
+        "hu": "Kezdje a napot Cervo történelmi szívében, megcsodálva az önkormányzati építészetet. A vallási látnivalók után térjen be a lenyűgöző Néprajzi Múzeumba. Töltse a délutánt a Bagni L'Angolo partján pihenve, és szívja magába a vibráló mediterrán napsugarakat. Zárja sétáját a Marina delle Reti békés kikötőjében, miközben a nap lenyugszik a tenger felett.",
+        "ro": "Începeți ziua în inima istorică a orașului Cervo, admirând arhitectura municipală și biserica Corallini. Treceți de la atracțiile religioase la captivantul Muzeu Etnografic pentru a vă scufunda în istoria locală. Petreceți după-amiaza relaxându-vă pe malul mării la Bagni L'Angolo, bucurându-vă de soarele mediteranean. Încheiați-vă plimbarea cu o promenadă liniștită prin Marina delle Reti.",
+        "en": "Begin your day in the historic heart of Cervo, admiring the municipal architecture and the magnificent Corallini church. Transition from the religious highlights to the captivating Ethnographic Museum to dive deep into local history before a lunch break. Spend your afternoon unwinding by the shore at Bagni L'Angolo, soaking up the vibrant Mediterranean sun. Conclude your walk by the marina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "San Giovanni Battista",
+            "hu": "San Giovanni Battista",
+            "ro": "San Giovanni Battista",
+            "en": "San Giovanni Battista"
+          },
+          "coords": [
+            8.115297,
+            43.926081
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese atemberaubende Barockkirche, die als Corallini bekannt ist, um ihre opulenten Innenräume zu bewundern, aber kommen Sie früh, um die Stille und die Akustik zu genießen.",
+            "hu": "Lépjen be ebbe a Corallini néven ismert lenyűgöző barokk templomba, hogy megcsodálja pazar belső tereit, de próbáljon korán érkezni a tömeg elkerülése és a kiváló akusztika megfigyelése érdekében.",
+            "ro": "Pășiți în această biserică barocă uimitoare cunoscută sub numele de Corallini pentru a admira interioarele sale opulente, dar încercați să ajungeți devreme pentru a evita aglomerația.",
+            "en": "Step inside this stunning Baroque church known as the Corallini to marvel at its opulent interiors, but try to arrive early to avoid the crowds while observing its acoustic design."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora della Rovere",
+            "hu": "Santuario di Nostra Signora della Rovere",
+            "ro": "Santuario di Nostra Signora della Rovere",
+            "en": "Santuario di Nostra Signora della Rovere"
+          },
+          "coords": [
+            8.097126,
+            43.921723
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Heiligtum, das von alten Eichen umgeben ist, und achten Sie auf die exquisiten Fresken und den ruhigen Innenhof, der zur Besinnung einlädt.",
+            "hu": "Fedezze fel ezt az ősi tölgyfákkal körülvett békés szentélyt, különös figyelmet fordítva a gyönyörű freskókra és a nyugodt udvarra, amely csendes pillanatot kínál az elmélkedésre.",
+            "ro": "Explorați acest sanctuar liniștit înconjurat de stejari seculari, acordând o atenție deosebită frescelor rafinate și curții senine care oferă un moment de liniște pentru reflecție.",
+            "en": "Explore this peaceful sanctuary surrounded by ancient oak trees, paying close attention to the exquisite frescoes and the serene courtyard that offers a quiet moment for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Il Faro",
+            "hu": "Spiaggia Il Faro",
+            "ro": "Spiaggia Il Faro",
+            "en": "Spiaggia Il Faro"
+          },
+          "coords": [
+            8.095186,
+            43.917342
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Aussicht in der Nähe des Leuchtturms, wo die felsige Küste auf das Meer trifft, und bringen Sie Wasserschuhe mit, um sich bequem zu bewegen.",
+            "hu": "Élvezze a világítótorony környékének festői kilátását, ahol a sziklás part találkozik a tengerrel, és hozzon magával vízicipőt, hogy kényelmesen mozoghasson az egyenetlen terepen.",
+            "ro": "Bucurați-vă de priveliștile pitorești de lângă far, unde țărmul stâncos întâlnește marea, și aduceți o pereche de încălțăminte de apă pentru a naviga confortabil pe terenul accidentat.",
+            "en": "Enjoy the scenic views near the lighthouse where the rocky shore meets the sea, and bring a sturdy pair of water shoes to navigate the beautiful yet uneven coastal terrain comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baia Beach",
+            "hu": "La Baia Beach",
+            "ro": "La Baia Beach",
+            "en": "La Baia Beach"
+          },
+          "coords": [
+            8.091306,
+            43.915416
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem weitläufigen Sandstrand, der sich perfekt zum Schwimmen eignet, und holen Sie sich einen Snack an den nahegelegenen Kiosken für neue Energie.",
+            "hu": "Szívja magába a napsugarakat ezen a széles homokos partszakaszon, amely tökéletes az úszáshoz, és egyen egy könnyű harapnivalót a közeli kioszkokban, hogy megőrizze energiáját.",
+            "ro": "Bucurați-vă de soare pe această întindere de nisip perfectă pentru înot și luați o gustare ușoară de la chioșcurile din apropiere pentru a vă menține energia ridicată.",
+            "en": "Soak up the sun at this expansive sandy stretch which is perfect for swimming, and consider grabbing a light snack from the nearby kiosks to keep your energy high for the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            8.1018,
+            43.928967
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser charmanten Kirche im Hinterland und achten Sie auf ihre rustikale Fassade, bevor Sie mit dem Fahrrad wieder in Richtung Küste fahren.",
+            "hu": "Fejezze be kirándulását ennél a szárazföldi völgyben fekvő, hangulatos templomnál, és ne felejtse el megcsodálni a rusztikus homlokzatot, mielőtt visszakerekezne a partra.",
+            "ro": "Încheiați-vă călătoria la această biserică fermecătoare situată în valea interioară, asigurându-vă că observați fațada sa rustică înainte de a coborî cu bicicleta spre coastă.",
+            "en": "Conclude your trip at this charming church situated gracefully in the inland valley, making sure to notice its rustic facade before cycling back down towards the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am San Giovanni Battista, bevor Sie zum ruhigen Heiligtum radeln. Fahren Sie zur Spiaggia Il Faro, um die zerklüftete Küste und ihre versteckten Schönheiten zu erkunden. Setzen Sie Ihre Fahrt zum Strand La Baia für ein erfrischendes Bad und Entspannung im Sand fort. Fahren Sie landeinwärts zum charmanten San Bartolomeo, wo Sie friedliche Aussichten auf das Tal erwarten.",
+        "hu": "Kezdje a kerékpározást a San Giovanni Battista templomnál, mielőtt a békés szentély felé veszi az irányt. Kerékpározzon le a Spiaggia Il Faro felé, hogy felfedezze a zord partvidéket és a mediterrán búvóhelyeket. Folytassa útját a La Baia Beach felé egy frissítő úszásra és pihenésre a napsütötte homokban. Ahogy közeledik az este, vegye az irányt a bájos San Bartolomeo felé.",
+        "ro": "Începeți la San Giovanni Battista înainte de a pedala spre Sanctuarul liniștit, bucurându-vă de briza mării. Mergeți cu bicicleta la Spiaggia Il Faro pentru a explora coasta stâncoasă și ascunzătorile mediteraneene frumoase. Continuați plimbarea spre plaja La Baia pentru o baie răcoritoare. Călătoriți spre interior odată cu lăsarea serii pentru a ajunge la San Bartolomeo.",
+        "en": "Start at the iconic San Giovanni Battista before pedaling towards the tranquil Sanctuary, enjoying the crisp sea breeze along the way. Cycle down to Spiaggia Il Faro to explore the rugged coastline and discover beautiful, rocky Mediterranean hideaways. Continue your ride to La Baia Beach for a refreshing swim. Journey inland as evening approaches to reach the charming San Bartolomeo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Etnografico del Ponente ligure",
+            "hu": "Museo Etnografico del Ponente ligure",
+            "ro": "Museo Etnografico del Ponente ligure",
+            "en": "Museo Etnografico del Ponente ligure"
+          },
+          "coords": [
+            8.115114,
+            43.927113
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche lokale Erbe und die landwirtschaftlichen Traditionen der ligurischen Küste innerhalb der Burgmauern und achten Sie besonders auf die Olivenölausstellungen.",
+            "hu": "Fedezze fel a ligur tengerpart gazdag helyi örökségét és mezőgazdasági hagyományait a várfalakon belül, különösen az olívaolaj-termelés lenyűgöző kiállításaira összpontosítva.",
+            "ro": "Descoperiți bogatul patrimoniu local și tradițiile agricole ale coastei liguriene în interiorul zidurilor castelului, concentrându-vă în special asupra exponatelor fascinante despre uleiul de măsline.",
+            "en": "Discover the rich local heritage and agricultural traditions of the Ligurian coast within the castle walls, focusing especially on the fascinating olive oil production exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Parrocchiale di Nostra Signora della Neve",
+            "hu": "Chiesa Parrocchiale di Nostra Signora della Neve",
+            "ro": "Chiesa Parrocchiale di Nostra Signora della Neve",
+            "en": "Chiesa Parrocchiale di Nostra Signora della Neve"
+          },
+          "coords": [
+            8.09661,
+            43.941064
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese in den Hügeln versteckte Pfarrkirche, um ihre tiefen spirituellen Wurzeln zu würdigen, und genießen Sie die kühle Brise, die durch diesen hochgelegenen Ort weht.",
+            "hu": "Látogasson el a hegyek között megbúvó plébániatemplomba, hogy értékelje a közösségben gyökerező mély spiritualitását, és élvezze a hűvös szellőt, amely ezen a magaslaton fúj.",
+            "ro": "Vizitați această biserică parohială cuibărită printre dealuri pentru a aprecia rădăcinile sale spirituale profunde și bucurați-vă de briza răcoroasă din această locație înaltă.",
+            "en": "Visit this parish church nestled among the hills to appreciate its deep spiritual roots in the community, and enjoy the remarkably cool breeze that sweeps through this elevated location."
+          }
+        },
+        {
+          "name": {
+            "de": "LuppOlio azienda agricola di Verzaro Enrico",
+            "hu": "LuppOlio azienda agricola di Verzaro Enrico",
+            "ro": "LuppOlio azienda agricola di Verzaro Enrico",
+            "en": "LuppOlio azienda agricola di Verzaro Enrico"
+          },
+          "coords": [
+            8.119384,
+            43.939567
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische Landleben, indem Sie hier lokal produzierte Olivenöle probieren, aber rufen Sie vorher an, wenn Sie Flaschen direkt auf dem Bauernhof kaufen möchten.",
+            "hu": "Tapasztalja meg a hiteles vidéki életet a helyi olívaolajok kóstolásával, de ne felejtsen el előre telefonálni, ha közvetlenül a gazdaságtól szeretne palackokat vásárolni.",
+            "ro": "Experimentați viața agricolă autentică degustând uleiuri de măsline produse local aici, dar amintiți-vă să sunați în avans dacă doriți să cumpărați sticle direct de la fermă.",
+            "en": "Experience authentic agricultural life by tasting locally produced olive oils and regional goods here, but remember to call ahead if you wish to purchase bottles directly from the farm."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dei Saraceni",
+            "hu": "Torre dei Saraceni",
+            "ro": "Torre dei Saraceni",
+            "en": "Torre dei Saraceni"
+          },
+          "coords": [
+            8.127511,
+            43.926605
+          ],
+          "category": "fortress",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen alten Wehrturm herum, der gebaut wurde, um Bedrohungen vom Meer aus zu erkennen, und nutzen Sie den erhöhten Aussichtspunkt für Panoramafotos.",
+            "hu": "Sétáljon körbe ezen a tengeri fenyegetések megfigyelésére épült ősi védőtornyon, kihasználva a megemelt kilátópontot a ligur tengerpart panorámás fényképezéséhez.",
+            "ro": "Plimbați-vă în jurul acestui vechi turn de apărare construit pentru a observa amenințările marine, profitând de punctul de observație ridicat pentru fotografii panoramice.",
+            "en": "Walk around this ancient defensive tower built to spot sea-bound threats, taking advantage of the elevated vantage point for sweeping photography of the Ligurian coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilimento Balneare il Porteghetto",
+            "hu": "Stabilimento Balneare il Porteghetto",
+            "ro": "Stabilimento Balneare il Porteghetto",
+            "en": "Stabilimento Balneare il Porteghetto"
+          },
+          "coords": [
+            8.119226,
+            43.925259
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie von der felsigen Terrasse dieser klassischen Strandanlage in das klare Wasser ein, wo ein frühzeitiges Mieten einer Cabana einen schattigen Rückzugsort garantiert.",
+            "hu": "Csobbanjon a tengerbe a klasszikus strand sziklás teraszáról, ahol egy kabin korai bérlése biztosítja, hogy árnyékos menedékkel rendelkezzen a délutáni pihenéshez.",
+            "ro": "Scufundați-vă în apele clare chiar de pe terasa stâncoasă a acestei unități clasice de plajă, unde închirierea timpurie a unei cabane vă asigură o retragere umbrită pentru după-amiază.",
+            "en": "Dive into the clear waters right off the rocky terrace of this classic beach establishment, where renting a cabana early ensures you have a shaded retreat for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit den kulturellen Exponaten des Ethnografischen Museums. Erleben Sie die spirituelle Ruhe und probieren Sie authentische lokale Aromen auf dem Landgut LuppOlio. Fahren Sie zurück zum Meer, um den imposanten Torre dei Saraceni zu erkunden. Parken Sie an der Küste, um Ihre letzten Stunden im Il Porteghetto bei sanftem Wellenschlag zu genießen.",
+        "hu": "Induljon el egy festői autózásra a Néprajzi Múzeum kulturális kiállításaival, majd kapaszkodjon fel a dombokra. Tapasztalja meg a spirituális nyugalmat, majd élvezze az autentikus helyi ízeket a LuppOlio birtokon. Vezessen vissza a tenger felé, hogy felfedezze az impozáns Torre dei Saraceni-t és annak lenyűgöző kilátását. Parkoljon le a parton, és élvezze az utolsó órákat az Il Porteghetto-nál.",
+        "ro": "Porniți la o plimbare pitorească începând cu exponatele culturale ale Muzeului Etnografic și urcând pe dealuri. Experimentați calmul spiritual, urmat de aromele locale autentice de la ferma agricolă LuppOlio. Conduceți înapoi spre mare pentru a explora impunătorul Torre dei Saraceni cu o panoramă dramatică. Parcați pe coastă pentru a vă bucura de ultimele ore la Il Porteghetto.",
+        "en": "Embark on a scenic drive starting with the rich cultural exhibits of the Ethnographic Museum and climbing up into the hills. Experience the spiritual calm at Nostra Signora della Neve, followed by authentic local flavors at the LuppOlio agricultural estate. Drive back towards the sea to explore the imposing Torre dei Saraceni, offering a dramatic vantage point over the Ligurian coast. Park by the coast to enjoy your final hours at Il Porteghetto."
+      }
+    }
+  }
+}

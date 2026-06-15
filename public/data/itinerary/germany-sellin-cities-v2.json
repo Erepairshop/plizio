@@ -1,0 +1,497 @@
+{
+  "city_id": "germany-sellin-cities-v2",
+  "anchor": {
+    "name": "Sellin",
+    "coords": [
+      13.691667,
+      54.383333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensberg",
+            "hu": "Friedensberg",
+            "ro": "Friedensberg",
+            "en": "Friedensberg"
+          },
+          "coords": [
+            13.695724,
+            54.381172
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigen Waldpark, der einst ein historischer Ort des Friedens war, und genießen Sie eine Pause auf den stillen Bänken abseits der Promenade.",
+            "hu": "Fedezze fel ezt a csendes erdei parkot, amely történelmi békés helyként szolgált, és pihenjen meg egy padon, távol a forgalmas sétány zajától.",
+            "ro": "Descoperiți acest parc forestier liniștit care a servit drept loc istoric al păcii și profitați de băncile sale retrase pentru a scăpa de agitația promenadei.",
+            "en": "Discover this tranquil forested park which served as a historical place of peace, and take a moment on its quiet benches to escape the busy promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Maria Meeresstern",
+            "hu": "Kapelle Maria Meeresstern",
+            "ro": "Kapelle Maria Meeresstern",
+            "en": "Kapelle Maria Meeresstern"
+          },
+          "coords": [
+            13.7014,
+            54.380436
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten maritimen Buntglasfenster dieser charmanten katholischen Kapelle, aber prüfen Sie vor dem Besuch unbedingt die knappen Öffnungszeiten.",
+            "hu": "Csodálja meg e bájos katolikus kápolna tengeri témájú, gyönyörű ólomüveg ablakait, de látogatás előtt mindenképpen ellenőrizze a korlátozott nyitvatartást.",
+            "ro": "Admirați vitraliile rafinate cu tematică maritimă din această capelă catolică fermecătoare, dar asigurați-vă că verificați programul de vizitare restrâns.",
+            "en": "Admire the exquisite maritime-themed stained glass in this charming Catholic chapel, but be sure to check the limited opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Sellin",
+            "hu": "Seebrücke Sellin",
+            "ro": "Seebrücke Sellin",
+            "en": "Seebrücke Sellin"
+          },
+          "coords": [
+            13.699755,
+            54.383998
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonische 1920er-Jahre-Architektur der längsten Seebrücke Rügens und kommen Sie früh am Tag, um Fotos ohne die großen Touristenmassen zu machen.",
+            "hu": "Csodálja meg Rügen leghosszabb mólójának ikonikus 1920-as évekbeli építészetét, és érkezzen kora reggel, hogy a hatalmas turistatömegek nélkül fotózhasson.",
+            "ro": "Admirați arhitectura iconică din anii 1920 a celui mai lung ponton din Rügen și veniți devreme pentru a face fotografii perfecte fără mulțimi de turiști.",
+            "en": "Marvel at the iconic 1920s architecture of Rügen's longest pier, and arrive early in the day to capture photos without the massive tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchgondel Sellin",
+            "hu": "Tauchgondel Sellin",
+            "ro": "Tauchgondel Sellin",
+            "en": "Tauchgondel Sellin"
+          },
+          "coords": [
+            13.701838,
+            54.385322
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit dieser einzigartigen Gondel in die Ostsee ab, um die Unterwasserwelt zu beobachten, aber bringen Sie eine leichte Jacke für die kühle Tiefe mit.",
+            "hu": "Ereszkedjen le a Balti-tengerbe ezen az egyedülálló búvárgondolán a tengeri élőlények megfigyelésére, de vigyen magával egy könnyű kabátot a hűvös mélység miatt.",
+            "ro": "Coborâți în Marea Baltică la bordul acestei telegondole subacvatice unice pentru a observa viața marină, dar luați o jachetă ușoară deoarece se face frig.",
+            "en": "Descend into the Baltic Sea aboard this unique diving gondola to observe marine life, but remember to bring a light jacket as it can get chilly underwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernsteinmuseum",
+            "hu": "Bernsteinmuseum",
+            "ro": "Bernsteinmuseum",
+            "en": "Bernsteinmuseum"
+          },
+          "coords": [
+            13.694882,
+            54.377246
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ursprünge und Variationen des baltischen Bernsteins in diesem Spezialmuseum, wo Sie auch zertifizierten Schmuck erwerben können.",
+            "hu": "Fedezze fel a balti borostyán lenyűgöző eredetét és változatait ebben a speciális múzeumban, ahol eredeti, tanúsítvánnyal rendelkező ékszereket is vásárolhat.",
+            "ro": "Explorați originile și variațiile fascinante ale chihlimbarului baltic la acest muzeu de specialitate, de unde puteți cumpăra bijuterii certificate autentice.",
+            "en": "Explore the fascinating origins and variations of Baltic amber at this specialized museum, where you can also purchase certified jewelry directly from the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnadenkirche",
+            "hu": "Gnadenkirche",
+            "ro": "Gnadenkirche",
+            "en": "Gnadenkirche"
+          },
+          "coords": [
+            13.692614,
+            54.379954
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gemütliche Holzkirche im klassischen Bäderarchitekturstil und nehmen Sie sich Zeit, die wunderschöne Orgel und das friedliche Innere zu genießen.",
+            "hu": "Lépjen be ebbe a klasszikus üdülőhelyi stílusban épült, hangulatos fatemplomba, és szánjon egy pillanatot a gyönyörű orgona és a békés belső tér megcsodálására.",
+            "ro": "Intrați în această biserică primitoare din lemn, construită în stilul clasic al stațiunii, și luați-vă un moment pentru a aprecia orga sa frumoasă și pacea interioară.",
+            "en": "Step inside this cozy wooden church built in the classic resort architecture style, and take a moment to appreciate its beautiful organ and peaceful interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in Sellin mit einem friedlichen Bummel durch den historischen Friedensberg-Park. Anschließend besuchen Sie die charmante Kapelle Maria Meeresstern, bevor Sie die Küste erreichen.\nAm Mittag steht die architektonische Pracht der Seebrücke Sellin im Mittelpunkt, wo Sie die frische Ostseebrise genießen. Danach tauchen Sie in der Tauchgondel Sellin für ein einzigartiges Unterwassererlebnis ab.\nDer Nachmittag führt Sie landeinwärts zum Bernsteinmuseum, wo die reiche Geschichte des baltischen Bernsteins lebendig wird. Bewundern Sie die filigranen Schmuckstücke und lernen Sie alles über das fossile Harz.\nBeenden Sie den Tag an der gemütlichen Gnadenkirche und bewundern Sie ihre Holzarchitektur im Abendlicht, bevor Sie in einem lokalen Restaurant entspannen und die Eindrücke Ihrer Küstenreise Revue passieren lassen.",
+        "hu": "Kezdje a sellini sétát egy békés barangolással a történelmi Friedensberg parkban, amely megadja a nap nyugodt alaphangját. Ezután látogasson el a bájos Maria Meeresstern kápolnához, mielőtt leérne a partra.\nA dél körüli órákban a Seebrücke Sellin építészeti fensége a főszereplő, ahol élvezheti a friss balti szellőt. Közvetlenül utána merüljön a hullámok alá a Tauchgondel Sellin segítségével egy egyedi élményért.\nA délután a szárazföld belsejébe, a Bernsteinmuseumba csábítja, ahol a balti borostyán gazdag története elevenedik meg. Szánjon időt a bonyolult ékszerek megcsodálására és az ősi fosszilis gyanta megismerésére.\nZárja a napot a hangulatos Gnadenkirche felkeresésével, megcsodálva annak gyönyörű faépítészetét az esti fényekben, majd keressen egy helyi éttermet, ahol megpihenhet és felidézheti a tengerparti utazást.",
+        "ro": "Începeți plimbarea prin Sellin cu o drumeție liniștită prin parcul istoric Friedensberg, stabilind un ton relaxat pentru zi. Treceți pe la fermecătoarea capelă Maria Meeresstern înainte de a ajunge la coastă.\nLa prânz se remarcă măreția arhitecturală a Seebrücke Sellin, unde vă puteți bucura de briza proaspătă a Mării Baltice. Imediat după, coborâți sub valuri la Tauchgondel Sellin pentru o experiență subacvatică unică.\nDupă-amiaza vă invită spre interior la Bernsteinmuseum, unde prinde viață istoria bogată a chihlimbarului baltic. Admirați bijuteriile complicate și aflați mai multe despre această rășină fosilizată străveche.\nÎncheiați-vă ziua cu o vizită la primitoarea Gnadenkirche, admirând arhitectura sa frumoasă din lemn în lumina serii, înainte de a găsi un restaurant local pentru a vă relaxa după călătoria de pe coastă.",
+        "en": "Begin your Sellin walk with a peaceful stroll through the historical Friedensberg park, setting a relaxed tone for the day. Proceed to the charming Kapelle Maria Meeresstern before reaching the coast.\nMidday highlights the architectural majesty of Seebrücke Sellin, where you can enjoy the fresh Baltic breeze. Directly afterwards, plunge beneath the waves at the Tauchgondel Sellin for a unique sub-aquatic experience.\nThe afternoon invites you inland to the Bernsteinmuseum, where the rich history of Baltic amber comes alive. Take your time admiring the intricate jewelry and learning about this ancient fossilized resin.\nConclude your day with a visit to the cozy Gnadenkirche, admiring its beautiful wooden architecture in the evening light before finding a local restaurant to relax and reflect on your coastal journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 5.28,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bockwindmühle Altensien",
+            "hu": "Bockwindmühle Altensien",
+            "ro": "Bockwindmühle Altensien",
+            "en": "Bockwindmühle Altensien"
+          },
+          "coords": [
+            13.671275,
+            54.368294
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschön restaurierte Bockwindmühle, die Einblicke in das traditionelle Kornmahlen bietet, und prüfen Sie die Zeiten für seltene Innenführungen.",
+            "hu": "Látogasson el ehhez a gyönyörűen felújított szélmalomhoz, amely bepillantást enged a hagyományos gabonaőrlésbe, és keresse a ritka belső tárlatvezetések időpontjait.",
+            "ro": "Vizitați această moară de vânt frumos restaurată care oferă o privire în măcinatul tradițional și verificați programul pentru tururi interioare ocazionale.",
+            "en": "Visit this beautifully restored post mill which offers a glimpse into traditional grain milling, and check the schedule for occasional guided interior tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Seefahrerhaus",
+            "hu": "Seefahrerhaus",
+            "ro": "Seefahrerhaus",
+            "en": "Seefahrerhaus"
+          },
+          "coords": [
+            13.685332,
+            54.37347
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche maritime Erbe der örtlichen Seeleute in diesem malerischen historischen Haus und nehmen Sie sich Zeit für die persönlichen Briefe und Logbücher.",
+            "hu": "Fedezze fel a helyi tengerészek gazdag tengerészeti örökségét ebben a festői, történelmi házban, és szánjon időt a jól megőrzött személyes levelek elolvasására.",
+            "ro": "Descoperiți bogata moștenire maritimă a marinarilor locali în această casă istorică pitorească, alocând timp pentru a citi scrisorile personale bine conservate.",
+            "en": "Discover the rich maritime heritage of local sailors in this quaint historic house, taking time to read the well-preserved personal letters and ship logs."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnadenkirche",
+            "hu": "Gnadenkirche",
+            "ro": "Gnadenkirche",
+            "en": "Gnadenkirche"
+          },
+          "coords": [
+            13.692614,
+            54.379954
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gemütliche Holzkirche im klassischen Bäderarchitekturstil und nehmen Sie sich Zeit, die wunderschöne Orgel und das friedliche Innere zu genießen.",
+            "hu": "Lépjen be ebbe a klasszikus üdülőhelyi stílusban épült, hangulatos fatemplomba, és szánjon egy pillanatot a gyönyörű orgona és a békés belső tér megcsodálására.",
+            "ro": "Intrați în această biserică primitoare din lemn, construită în stilul clasic al stațiunii, și luați-vă un moment pentru a aprecia orga sa frumoasă și pacea interioară.",
+            "en": "Step inside this cozy wooden church built in the classic resort architecture style, and take a moment to appreciate its beautiful organ and peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernsteinmuseum",
+            "hu": "Bernsteinmuseum",
+            "ro": "Bernsteinmuseum",
+            "en": "Bernsteinmuseum"
+          },
+          "coords": [
+            13.694882,
+            54.377246
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ursprünge und Variationen des baltischen Bernsteins in diesem Spezialmuseum, wo Sie auch zertifizierten Schmuck erwerben können.",
+            "hu": "Fedezze fel a balti borostyán lenyűgöző eredetét és változatait ebben a speciális múzeumban, ahol eredeti, tanúsítvánnyal rendelkező ékszereket is vásárolhat.",
+            "ro": "Explorați originile și variațiile fascinante ale chihlimbarului baltic la acest muzeu de specialitate, de unde puteți cumpăra bijuterii certificate autentice.",
+            "en": "Explore the fascinating origins and variations of Baltic amber at this specialized museum, where you can also purchase certified jewelry directly from the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Sellin",
+            "hu": "Seebrücke Sellin",
+            "ro": "Seebrücke Sellin",
+            "en": "Seebrücke Sellin"
+          },
+          "coords": [
+            13.699755,
+            54.383998
+          ],
+          "category": "landmark",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonische 1920er-Jahre-Architektur der längsten Seebrücke Rügens und kommen Sie früh am Tag, um Fotos ohne die großen Touristenmassen zu machen.",
+            "hu": "Csodálja meg Rügen leghosszabb mólójának ikonikus 1920-as évekbeli építészetét, és érkezzen kora reggel, hogy a hatalmas turistatömegek nélkül fotózhasson.",
+            "ro": "Admirați arhitectura iconică din anii 1920 a celui mai lung ponton din Rügen și veniți devreme pentru a face fotografii perfecte fără mulțimi de turiști.",
+            "en": "Marvel at the iconic 1920s architecture of Rügen's longest pier, and arrive early in the day to capture photos without the massive tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchgondel Sellin",
+            "hu": "Tauchgondel Sellin",
+            "ro": "Tauchgondel Sellin",
+            "en": "Tauchgondel Sellin"
+          },
+          "coords": [
+            13.701838,
+            54.385322
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit dieser einzigartigen Gondel in die Ostsee ab, um die Unterwasserwelt zu beobachten, aber bringen Sie eine leichte Jacke für die kühle Tiefe mit.",
+            "hu": "Ereszkedjen le a Balti-tengerbe ezen az egyedülálló búvárgondolán a tengeri élőlények megfigyelésére, de vigyen magával egy könnyű kabátot a hűvös mélység miatt.",
+            "ro": "Coborâți în Marea Baltică la bordul acestei telegondole subacvatice unice pentru a observa viața marină, dar luați o jachetă ușoară deoarece se face frig.",
+            "en": "Descend into the Baltic Sea aboard this unique diving gondola to observe marine life, but remember to bring a light jacket as it can get chilly underwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufersicht Waldhalle",
+            "hu": "Ufersicht Waldhalle",
+            "ro": "Ufersicht Waldhalle",
+            "en": "Ufersicht Waldhalle"
+          },
+          "coords": [
+            13.676262,
+            54.396814
+          ],
+          "category": "natural",
+          "arrive_at": "17:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.06,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die schroffe Küste von diesem natürlichen Aussichtspunkt und tragen Sie festes Schuhwerk für den unebenen Waldweg.",
+            "hu": "Élvezze a zord partvonalra nyíló lélegzetelállító panorámát ebből a természetes kilátóból, és viseljen masszív cipőt a kissé egyenetlen erdei ösvény miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale coastei accidentate de la acest punct de belvedere natural și purtați pantofi rezistenți pentru traseul forestier.",
+            "en": "Take in the breathtaking panoramic views of the rugged coastline from this natural viewpoint, and wear sturdy shoes for the slightly uneven forest trail approach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in der ruhigen Landschaft an der Bockwindmühle Altensien und genießen Sie den rustikalen Charme. Eine kurze Fahrt bringt Sie zum Seefahrerhaus mit seinem maritimen Erbe.\nMittags radeln Sie zurück ins Zentrum, um die hölzerne Gnadenkirche zu bewundern, bevor Sie im Bernsteinmuseum in die goldene Geschichte der Ostsee eintauchen und mehr über das fossile Harz erfahren.\nIhr Nachmittag entfaltet sich an der ikonischen Seebrücke Sellin, gefolgt von einer einzigartigen Fahrt in die Tiefe mit der Tauchgondel Sellin. Die Meeresluft bietet die perfekte Erfrischung nach dem Radeln.\nBeenden Sie Ihren aktiven Tag mit der Fahrt zur Ufersicht Waldhalle. Der abendliche Blick von oben auf die schroffe Ostseeküste ist spektakulär und bildet das perfekte Finale für Ihr Sellin-Abenteuer.",
+        "hu": "Kezdje kerékpártúráját a nyugodt vidéken, a Bockwindmühle Altensiennél, magába szívva a rusztikus bájt. Egy rövid út a Seefahrerhaushoz vezet, amely feltárja a helyi tengerészeti örökséget.\nDélben tekerjen vissza a városközpontba, hogy megcsodálja a fából épült Gnadenkirchét, mielőtt elmerülne a Balti-tenger arany történetében a Bernsteinmuseumban.\nA délután az ikonikus Seebrücke Sellinnél folytatódik, majd egyedülálló ereszkedés következik a Tauchgondel Sellinnel. A parti levegő tökéletes felfrissülést nyújt a kerékpározás utáni fáradalmakra.\nZárja aktív napját az Ufersicht Waldhalléhoz tekerve. A zord balti partvonalra nyíló esti, magaslati kilátás látványos, és tökéletes lezárása a sellini kalandnak.",
+        "ro": "Începeți turul cu bicicleta în zona rurală senină de la Bockwindmühle Altensien, absorbind farmecul rustic. O scurtă plimbare vă duce la Seefahrerhaus, dezvăluind moștenirea maritimă locală.\nLa prânz, pedalați înapoi spre centrul orașului pentru a admira biserica din lemn Gnadenkirche înainte de a vă scufunda în istoria de aur a Mării Baltice la fascinantul Bernsteinmuseum.\nDupă-amiaza se desfășoară la emblematicul Seebrücke Sellin, urmată de o coborâre unică în Tauchgondel Sellin. Aerul de coastă oferă o răcorire perfectă după eforturile făcute pe bicicletă.\nÎncheiați ziua activă urcând spre Ufersicht Waldhalle. Priveliștile ridicate de seară peste coasta accidentată a Mării Baltice sunt spectaculoase și formează finalul grandios perfect pentru aventura din Sellin.",
+        "en": "Kick off your cycling tour in the serene countryside at the Bockwindmühle Altensien, absorbing the rustic charm. A short ride takes you to the Seefahrerhaus, unveiling the local maritime heritage.\nBy midday, pedal back towards the town center to admire the wooden Gnadenkirche before diving into the golden history of the Baltic Sea at the Bernsteinmuseum.\nYour afternoon unfolds at the iconic Seebrücke Sellin, followed by a unique descent in the Tauchgondel Sellin. The coastal air provides the perfect refreshment after your cycling efforts.\nEnd your active day by riding up to Ufersicht Waldhalle. The elevated evening views over the rugged Baltic coastline are spectacular and form the perfect grand finale to your Sellin adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufersicht Waldhalle",
+            "hu": "Ufersicht Waldhalle",
+            "ro": "Ufersicht Waldhalle",
+            "en": "Ufersicht Waldhalle"
+          },
+          "coords": [
+            13.676262,
+            54.396814
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die schroffe Küste von diesem natürlichen Aussichtspunkt und tragen Sie festes Schuhwerk für den unebenen Waldweg.",
+            "hu": "Élvezze a zord partvonalra nyíló lélegzetelállító panorámát ebből a természetes kilátóból, és viseljen masszív cipőt a kissé egyenetlen erdei ösvény miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale coastei accidentate de la acest punct de belvedere natural și purtați pantofi rezistenți pentru traseul forestier.",
+            "en": "Take in the breathtaking panoramic views of the rugged coastline from this natural viewpoint, and wear sturdy shoes for the slightly uneven forest trail approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Sellin",
+            "hu": "Seebrücke Sellin",
+            "ro": "Seebrücke Sellin",
+            "en": "Seebrücke Sellin"
+          },
+          "coords": [
+            13.699755,
+            54.383998
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonische 1920er-Jahre-Architektur der längsten Seebrücke Rügens und kommen Sie früh am Tag, um Fotos ohne die großen Touristenmassen zu machen.",
+            "hu": "Csodálja meg Rügen leghosszabb mólójának ikonikus 1920-as évekbeli építészetét, és érkezzen kora reggel, hogy a hatalmas turistatömegek nélkül fotózhasson.",
+            "ro": "Admirați arhitectura iconică din anii 1920 a celui mai lung ponton din Rügen și veniți devreme pentru a face fotografii perfecte fără mulțimi de turiști.",
+            "en": "Marvel at the iconic 1920s architecture of Rügen's longest pier, and arrive early in the day to capture photos without the massive tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchgondel Sellin",
+            "hu": "Tauchgondel Sellin",
+            "ro": "Tauchgondel Sellin",
+            "en": "Tauchgondel Sellin"
+          },
+          "coords": [
+            13.701838,
+            54.385322
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit dieser einzigartigen Gondel in die Ostsee ab, um die Unterwasserwelt zu beobachten, aber bringen Sie eine leichte Jacke für die kühle Tiefe mit.",
+            "hu": "Ereszkedjen le a Balti-tengerbe ezen az egyedülálló búvárgondolán a tengeri élőlények megfigyelésére, de vigyen magával egy könnyű kabátot a hűvös mélység miatt.",
+            "ro": "Coborâți în Marea Baltică la bordul acestei telegondole subacvatice unice pentru a observa viața marină, dar luați o jachetă ușoară deoarece se face frig.",
+            "en": "Descend into the Baltic Sea aboard this unique diving gondola to observe marine life, but remember to bring a light jacket as it can get chilly underwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernsteinmuseum",
+            "hu": "Bernsteinmuseum",
+            "ro": "Bernsteinmuseum",
+            "en": "Bernsteinmuseum"
+          },
+          "coords": [
+            13.694882,
+            54.377246
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ursprünge und Variationen des baltischen Bernsteins in diesem Spezialmuseum, wo Sie auch zertifizierten Schmuck erwerben können.",
+            "hu": "Fedezze fel a balti borostyán lenyűgöző eredetét és változatait ebben a speciális múzeumban, ahol eredeti, tanúsítvánnyal rendelkező ékszereket is vásárolhat.",
+            "ro": "Explorați originile și variațiile fascinante ale chihlimbarului baltic la acest muzeu de specialitate, de unde puteți cumpăra bijuterii certificate autentice.",
+            "en": "Explore the fascinating origins and variations of Baltic amber at this specialized museum, where you can also purchase certified jewelry directly from the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mönchgut-Tor",
+            "hu": "Mönchgut-Tor",
+            "ro": "Mönchgut-Tor",
+            "en": "Mönchgut-Tor"
+          },
+          "coords": [
+            13.705019,
+            54.363903
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses monumentale Holztor, das traditionell den Eingang zur Halbinsel Mönchgut markiert und als perfekter Ausgangspunkt für regionale Wanderwege dient.",
+            "hu": "Fotózza le ezt a monumentális fakaput, amely hagyományosan a Mönchgut-félsziget bejáratát jelzi, és tökéletes kiindulópontként szolgál a regionális túraútvonalakhoz.",
+            "ro": "Fotografiați această poartă monumentală din lemn care marchează tradițional intrarea în peninsula Mönchgut, servind drept punct de plecare perfect pentru trasee.",
+            "en": "Photograph this monumental wooden gate that traditionally marks the entrance to the Mönchgut peninsula, serving as a perfect starting point for regional hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Bockwindmühle Altensien",
+            "hu": "Bockwindmühle Altensien",
+            "ro": "Bockwindmühle Altensien",
+            "en": "Bockwindmühle Altensien"
+          },
+          "coords": [
+            13.671275,
+            54.368294
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.22,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschön restaurierte Bockwindmühle, die Einblicke in das traditionelle Kornmahlen bietet, und prüfen Sie die Zeiten für seltene Innenführungen.",
+            "hu": "Látogasson el ehhez a gyönyörűen felújított szélmalomhoz, amely bepillantást enged a hagyományos gabonaőrlésbe, és keresse a ritka belső tárlatvezetések időpontjait.",
+            "ro": "Vizitați această moară de vânt frumos restaurată care oferă o privire în măcinatul tradițional și verificați programul pentru tururi interioare ocazionale.",
+            "en": "Visit this beautifully restored post mill which offers a glimpse into traditional grain milling, and check the schedule for occasional guided interior tours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der Ufersicht Waldhalle und genießen Sie den dramatischen morgendlichen Blick über die Ostsee. Fahren Sie dann direkt zur berühmten Seebrücke Sellin, einem Architekturwunder.\nGegen Mittag führt Sie ein kurzer Sprung zur Tauchgondel Sellin, die Sie unter die Wellen bringt. Danach fahren Sie zum Bernsteinmuseum, um die tiefe Verbundenheit der Region mit dem Bernstein zu erkunden.\nAm Nachmittag cruisen Sie nach Süden zum Mönchgut-Tor, der historischen Grenze der Halbinsel. Es ist ein großartiger Ort für Fotos und um mehr über die besondere Geografie der Region zu erfahren.\nBeenden Sie Ihren Tagesausflug mit einer landschaftlich reizvollen Fahrt zur Bockwindmühle Altensien. Die wunderschöne Mühle im späten Nachmittagslicht ist ein friedlicher Abschluss Ihrer Sellin-Autotour.",
+        "hu": "Kezdje autós útvonalát az Ufersicht Waldhallénál, élvezve a Balti-tengerre nyíló drámai reggeli kilátást. Innen induljon egyenesen a híres Seebrücke Sellin felé, amely igazi építészeti csoda.\nDél körül egy nagyon rövid ugrás a Tauchgondel Sellinhez viszi, amely a hullámok alá kalauzolja. Ezután vezessen a Bernsteinmuseumba, hogy felfedezze a régió mély kapcsolatát a fosszilis borostyánnal.\nDélután cirkáljon délre a Mönchgut-Torhoz, amely a félsziget történelmi határát jelzi. Kiváló helyszín fotózáshoz és a különleges regionális földrajz megismeréséhez.\nZárja az egynapos kirándulást egy festői autózással a Bockwindmühle Altensienhez. A késő délutáni fényben fürdő gyönyörű szélmalom békés befejezése az átfogó sellini autós túrának.",
+        "ro": "Începeți traseul cu mașina la Ufersicht Waldhalle, savurând priveliștile dramatice de dimineață asupra Mării Baltice. De acolo, mergeți direct la faimosul Seebrücke Sellin pentru o minune arhitecturală.\nÎn jurul prânzului, un salt foarte scurt vă duce la Tauchgondel Sellin, coborându-vă sub valuri. După aceea, conduceți la Bernsteinmuseum pentru a explora legătura profundă a regiunii cu chihlimbarul.\nDupă-amiaza, călătoriți spre sud către Mönchgut-Tor, care marchează granița istorică a peninsulei. Este un loc excelent pentru fotografii și pentru a afla despre geografia regională distinctă.\nÎncheiați-vă excursia de o zi cu o plimbare pitorească până la Bockwindmühle Altensien. Frumoasa moară de vânt scăldată în lumina după-amiezii târzii este o concluzie pașnică a turului auto în Sellin.",
+        "en": "Start your driving itinerary at the Ufersicht Waldhalle, relishing the dramatic morning views over the Baltic. From there, head straight to the famous Seebrücke Sellin for an architectural marvel.\nAround noon, a very short hop brings you to the Tauchgondel Sellin, taking you beneath the waves. Afterward, drive to the Bernsteinmuseum to explore the region's deep connection to fossilized amber.\nIn the afternoon, cruise south to the Mönchgut-Tor, marking the historical boundary of the peninsula. It’s an excellent spot for photos and learning about the distinct regional geography.\nConclude your day trip with a scenic drive to the Bockwindmühle Altensien. The beautiful windmill bathed in late afternoon light is a peaceful conclusion to your comprehensive Sellin car tour."
+      }
+    }
+  }
+}

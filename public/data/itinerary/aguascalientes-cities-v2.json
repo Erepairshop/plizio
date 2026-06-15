@@ -1,0 +1,451 @@
+{
+  "city_id": "aguascalientes-cities-v2",
+  "anchor": {
+    "name": "Aguascalientes",
+    "coords": [
+      -102.296,
+      21.8853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Muerte",
+            "hu": "Museo de la Muerte",
+            "ro": "Museo de la Muerte",
+            "en": "Museo de la Muerte"
+          },
+          "coords": [
+            -102.295486,
+            21.884008
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Mexikos einzigartige Beziehung zum Tod ein und beginnen Sie im Erdgeschoss, um die chronologische Ausstellung zu verstehen.",
+            "hu": "Merüljön el Mexikó egyedülálló, halálhoz fűződő viszonyában ebben a különleges múzeumban, és kezdje a földszinten, hogy kövesse a kronológiát.",
+            "ro": "Descoperiți relația unică a Mexicului cu mortalitatea în acest muzeu fascinant și începeți de la parter pentru a urmări evoluția cronologică.",
+            "en": "Dive into Mexico's unique relationship with mortality through stunning artifacts, and start on the ground floor to appreciate the chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura Juridica",
+            "hu": "Casa de la Cultura Juridica",
+            "ro": "Casa de la Cultura Juridica",
+            "en": "Casa de la Cultura Juridica"
+          },
+          "coords": [
+            -102.293447,
+            21.88624
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses architektonische Juwel mit seinen bedeutenden Rechtsarchiven und vergessen Sie nicht, die wunderschön restaurierten Decken zu bewundern.",
+            "hu": "Fedezze fel ezt az építészeti gyöngyszemet, amely fontos jogi archívumokat rejt, és ne felejtse el megcsodálni a gyönyörűen felújított mennyezetet.",
+            "ro": "Explorați această bijuterie arhitecturală care găzduiește arhive juridice importante și nu uitați să admirați tavanele frumos restaurate.",
+            "en": "Explore this grand architectural gem that houses significant legal archives, and remember to look up at the beautifully restored ceilings during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Mariachis",
+            "hu": "Los Mariachis",
+            "ro": "Los Mariachis",
+            "en": "Los Mariachis"
+          },
+          "coords": [
+            -102.296606,
+            21.886969
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebendige musikalische Erbe der Stadt an diesem ikonischen Ort, wo Sie am besten früh ankommen, um die perfekte Atmosphäre einzufangen.",
+            "hu": "Tapasztalja meg a város vibráló zenei örökségét ezen az ikonikus helyszínen, ahová érdemes korán érkezni a tökéletes hangulat megörökítéséhez.",
+            "ro": "Experimentați moștenirea muzicală vibrantă a orașului în acest loc iconic, unde sosirea timpurie vă garantează cea mai bună atmosferă pentru fotografii.",
+            "en": "Experience the lively musical heritage of the city at this iconic spot, where arriving early guarantees the best lighting for memorable photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento en honor al Obrero Desconocido",
+            "hu": "Monumento en honor al Obrero Desconocido",
+            "ro": "Monumento en honor al Obrero Desconocido",
+            "en": "Monumento en honor al Obrero Desconocido"
+          },
+          "coords": [
+            -102.316492,
+            21.900536
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zollen Sie den unbekannten Arbeitern an diesem kraftvollen Denkmal Tribut und nehmen Sie sich Zeit, die detaillierten Inschriften zu lesen.",
+            "hu": "Rója le tiszteletét a város ismeretlen munkásai előtt ennél a lenyűgöző emlékműnél, és szánjon időt a részletes feliratok elolvasására.",
+            "ro": "Aduceți un omagiu muncitorilor necunoscuți ai orașului la acest monument impresionant și faceți-vă timp pentru a citi inscripțiile detaliate.",
+            "en": "Pay tribute to the city's unsung laborers at this powerful historical monument, taking a moment to read the inscriptions detailing their vital contributions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bóveda Jesus F Contreras",
+            "hu": "Bóveda Jesus F Contreras",
+            "ro": "Bóveda Jesus F Contreras",
+            "en": "Bóveda Jesus F Contreras"
+          },
+          "coords": [
+            -102.314816,
+            21.91241
+          ],
+          "category": "museum",
+          "arrive_at": "15:28",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Skulpturen dieses renommierten lokalen Künstlers und fragen Sie das Personal nach den verborgenen Details seiner Spätwerke.",
+            "hu": "Csodálja meg a neves helyi művész kiváló szobrait ebben a különleges boltívben, és kérdezze a kurátort kései műveinek rejtett részleteiről.",
+            "ro": "Admirați sculpturile deosebite ale renumitului artist local în această boltă specială și întrebați curatorul despre detaliile ascunse ale lucrărilor sale.",
+            "en": "Admire the exquisite sculptures of the renowned local artist in this specialized vault, and ask the curator about the hidden details of his final works."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihren Tag im Herzen von Aguascalientes im Museo de la Muerte und entdecken Sie tiefgründige kulturelle Artefakte. Ein kurzer Spaziergang führt Sie anschließend zum architektonischen Wunder der Casa de la Cultura Juridica.\nMittag: Wenn die Sonne höher steigt, erleben Sie die musikalische Seele bei Los Mariachis, bevor Sie sich auf einen längeren Spaziergang nach Westen begeben und die authentische urbane Atmosphäre genießen.\nNachmittag: Erreichen Sie das Monumento en honor al Obrero Desconocido, um über die fleißige Geschichte der Stadt nachzudenken. Das Nachmittagslicht hebt die monumentalen Details wunderbar hervor.\nAbend: Beenden Sie Ihre Wanderung an der Bóveda Jesus F Contreras, umgeben von lokaler Kunst. Die friedliche Atmosphäre dieser letzten Station bietet einen passenden Abschluss für diesen herrlichen Tag.",
+        "hu": "Délelőtt: Kezdje a napot Aguascalientes szívében, a Halál Múzeumában, felfedezve a lenyűgöző kulturális leleteket. Egy rövid séta után érkezzen meg a Casa de la Cultura Juridica építészeti csodájához.\nDél: Ahogy a nap egyre magasabbra hág, tapasztalja meg a város zenei lelkét a Los Mariachis-nál, mielőtt egy hosszabb sétára indulna nyugat felé. Élvezze az autentikus városi hangulatot útközben.\nDélután: Érkezzen meg az Ismeretlen Munkás Emlékművéhez, és emlékezzen meg a város ipari múltjáról. A délutáni fények gyönyörűen kiemelik a monumentális részleteket, kiváló fotózási lehetőséget kínálva.\nEste: Zárja gyalogtúráját a Bóveda Jesus F Contreras-nál, a helyi művészet remekeivel körülvéve. Ennek az utolsó állomásnak a békés hangulata méltó befejezése a város gazdag örökségét bemutató napnak.",
+        "ro": "Dimineața: Începeți ziua în inima vibrantă a orașului Aguascalientes la Museo de la Muerte, explorând artefactele culturale profunde. Apoi, o scurtă plimbare vă duce la minunea arhitecturală Casa de la Cultura Juridica.\nPrânz: Pe măsură ce soarele urcă, experimentați sufletul muzical la Los Mariachis înainte de a porni într-o plimbare mai lungă spre vest. Bucurați-vă de atmosfera urbană autentică pe drum.\nDupă-amiaza: Ajungeți la Monumentul Muncitorului Necunoscut pentru a reflecta asupra istoriei industriale a orașului. Lumina după-amiezii evidențiază frumos detaliile monumentale, perfecte pentru fotografie.\nSeara: Încheiați-vă călătoria la Bóveda Jesus F Contreras, înconjurați de artă locală rafinată. Ambianța pașnică a acestei ultime opriri oferă un final potrivit pentru o zi dedicată patrimoniului orașului.",
+        "en": "Morning: Begin your day in the vibrant heart of Aguascalientes at the iconic Museo de la Muerte, exploring the profound cultural artifacts. Afterwards, a short stroll takes you to the architectural marvel of Casa de la Cultura Juridica.\nMidday: As the sun climbs higher, experience the musical soul of the city at Los Mariachis before embarking on a slightly longer walk westward. Take your time to enjoy the authentic urban atmosphere along the way.\nAfternoon: Arrive at the Monumento en honor al Obrero Desconocido to reflect on the city's industrious history. The afternoon light beautifully highlights the monumental details, making it a perfect moment for photography.\nEvening: Conclude your walking journey at the Bóveda Jesus F Contreras, surrounded by exquisite local art. The peaceful ambiance of this final stop offers a fitting end to a day dedicated to the city's rich heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Muerte",
+            "hu": "Museo de la Muerte",
+            "ro": "Museo de la Muerte",
+            "en": "Museo de la Muerte"
+          },
+          "coords": [
+            -102.295486,
+            21.884008
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Mexikos einzigartige Beziehung zum Tod ein und beginnen Sie im Erdgeschoss, um die chronologische Ausstellung zu verstehen.",
+            "hu": "Merüljön el Mexikó egyedülálló, halálhoz fűződő viszonyában ebben a különleges múzeumban, és kezdje a földszinten, hogy kövesse a kronológiát.",
+            "ro": "Descoperiți relația unică a Mexicului cu mortalitatea în acest muzeu fascinant și începeți de la parter pentru a urmări evoluția cronologică.",
+            "en": "Dive into Mexico's unique relationship with mortality through stunning artifacts, and start on the ground floor to appreciate the chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Mariachis",
+            "hu": "Los Mariachis",
+            "ro": "Los Mariachis",
+            "en": "Los Mariachis"
+          },
+          "coords": [
+            -102.296606,
+            21.886969
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebendige musikalische Erbe der Stadt an diesem ikonischen Ort, wo Sie am besten früh ankommen, um die perfekte Atmosphäre einzufangen.",
+            "hu": "Tapasztalja meg a város vibráló zenei örökségét ezen az ikonikus helyszínen, ahová érdemes korán érkezni a tökéletes hangulat megörökítéséhez.",
+            "ro": "Experimentați moștenirea muzicală vibrantă a orașului în acest loc iconic, unde sosirea timpurie vă garantează cea mai bună atmosferă pentru fotografii.",
+            "en": "Experience the lively musical heritage of the city at this iconic spot, where arriving early guarantees the best lighting for memorable photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "UAA",
+            "hu": "UAA",
+            "ro": "UAA",
+            "en": "UAA"
+          },
+          "coords": [
+            -102.312912,
+            21.912946
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den historischen Campus der Universität, um die akademische Tradition zu spüren, und achten Sie auf Aushänge zu öffentlichen Events.",
+            "hu": "Sétáljon végig az egyetem történelmi kampuszán, hogy átérezze az akadémiai hagyományokat, és figyelje a nyilvános eseményeket hirdető táblákat.",
+            "ro": "Plimbați-vă prin campusul istoric al universității pentru a simți tradiția academică și verificați avizierele pentru evenimente publice locale.",
+            "en": "Stroll through the historic campus of the autonomous university to see a blend of academic tradition and modern life, checking the notice boards for public events."
+          }
+        },
+        {
+          "name": {
+            "de": "Bóveda Jesus F Contreras",
+            "hu": "Bóveda Jesus F Contreras",
+            "ro": "Bóveda Jesus F Contreras",
+            "en": "Bóveda Jesus F Contreras"
+          },
+          "coords": [
+            -102.314816,
+            21.91241
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Skulpturen dieses renommierten lokalen Künstlers und fragen Sie das Personal nach den verborgenen Details seiner Spätwerke.",
+            "hu": "Csodálja meg a neves helyi művész kiváló szobrait ebben a különleges boltívben, és kérdezze a kurátort kései műveinek rejtett részleteiről.",
+            "ro": "Admirați sculpturile deosebite ale renumitului artist local în această boltă specială și întrebați curatorul despre detaliile ascunse ale lucrărilor sale.",
+            "en": "Admire the exquisite sculptures of the renowned local artist in this specialized vault, and ask the curator about the hidden details of his final works."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vip",
+            "hu": "Torre Vip",
+            "ro": "Torre Vip",
+            "en": "Torre Vip"
+          },
+          "coords": [
+            -102.292463,
+            21.920359
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante Struktur dieses historischen Turms, der die Skyline dominiert, und fotografieren Sie ihn am besten von der Ostseite.",
+            "hu": "Figyelje meg ennek a történelmi toronynak az impozáns szerkezetét, amely uralja a látképet, és a legjobb fotókat a keleti oldalról készítheti.",
+            "ro": "Observați structura impunătoare a acestui turn istoric care domină orizontul și surprindeți cele mai bune unghiuri arhitecturale din partea de est.",
+            "en": "Observe the imposing structure of this historical tower that dominates the local skyline, best viewed from the eastern side for optimal architectural appreciation."
+          }
+        },
+        {
+          "name": {
+            "de": "Acueducto La Concha",
+            "hu": "Acueducto La Concha",
+            "ro": "Acueducto La Concha",
+            "en": "Acueducto La Concha"
+          },
+          "coords": [
+            -102.304108,
+            21.924109
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Folgen Sie den antiken Linien dieses bemerkenswerten steinernen Aquädukts und tragen Sie festes Schuhwerk für das unebene umliegende Gelände.",
+            "hu": "Kövesse ennek a figyelemre méltó kő aquaduktnak az ősi vonalait, és viseljen kényelmes túracipőt a környező egyenetlen terep miatt.",
+            "ro": "Urmați liniile antice ale acestui remarcabil apeduct de piatră și purtați încălțăminte confortabilă pentru terenul accidentat din împrejurimi.",
+            "en": "Follow the ancient lines of this remarkable stone aqueduct that once fueled the region, wearing sturdy walking shoes for the uneven surrounding terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Starten Sie Ihre Radtour am faszinierenden Museo de la Muerte im Stadtzentrum. Ein kurzes in die Pedale Treten bringt Sie zu den lebhaften Klängen des Wahrzeichens Los Mariachis.\nMittag: Genießen Sie eine erfrischende Fahrt nach Nordwesten zum UAA-Campus. Das Radeln durch das Universitätsgelände lässt Sie die Mischung aus historischer Akademie und moderner studentischer Energie erleben.\nNachmittag: Fahren Sie weiter zur Bóveda Jesus F Contreras, um lokale Skulpturen zu bewundern. Danach radeln Sie zum beeindruckenden Torre Vip und beobachten die wechselnde Architektur der Viertel.\nAbend: Ihre letzte Etappe führt zum historischen Acueducto La Concha. Das späte Nachmittagslicht bietet eine atemberaubende Kulisse für diese alten Steine und rundet Ihren aktiven Tag perfekt ab.",
+        "hu": "Délelőtt: Kezdje kerékpártúráját a városközpontban található lenyűgöző Halál Múzeumánál. A kiállítások után egy gyors tekerés elviszi Önt a Los Mariachis vibráló hangjaihoz és látványához.\nDél: Élvezze a frissítő utazást északnyugat felé, az UAA kampuszára. Az egyetem területén kerékpározva megcsodálhatja a történelmi akadémia és a modern diákélet nyüzsgő energiájának keveredését.\nDélután: Folytassa útját a Bóveda Jesus F Contreras felé, hogy megcsodálja a helyi szobrokat. Innen tekerjen az impozáns Torre Vip felé, megfigyelve, hogyan változik a város építészete a különböző negyedekben.\nEste: Utolsó útja a történelmi Acueducto La Concha-hoz vezet. A késő délutáni fények lenyűgöző hátteret biztosítanak ezeknek az ősi köveknek, tökéletesen lezárva ezt az aktív napot.",
+        "ro": "Dimineața: Începeți turul cu bicicleta la fascinantul Museo de la Muerte din centrul orașului. După vizitarea expozițiilor, o scurtă pedalare vă aduce la sunetele și priveliștile vibrante de la Los Mariachis.\nPrânz: Bucurați-vă de o plimbare revigorantă spre nord-vest, către campusul UAA. Ciclismul prin terenurile universității vă permite să apreciați amestecul dintre mediul academic istoric și viața studențească modernă.\nDupă-amiaza: Continuați-vă călătoria către Bóveda Jesus F Contreras pentru a admira sculpturi locale. De acolo, pedalați spre impresionantul Torre Vip, observând schimbarea arhitecturii prin diversele cartiere.\nSeara: Ultima plimbare vă duce la istoricul Acueducto La Concha. Sosirea în lumina caldă oferă un fundal uimitor pentru aceste pietre antice, încheind perfect o zi activă de explorare.",
+        "en": "Morning: Kick off your cycling tour at the fascinating Museo de la Muerte in the city center. After soaking in the exhibits, a quick pedal brings you to the vibrant sounds and sights of the Los Mariachis landmark.\nMidday: Enjoy a refreshing ride northwest towards the UAA campus. Cycling through the university grounds allows you to appreciate the blend of historic academia and the bustling energy of modern student life.\nAfternoon: Continue your journey to the Bóveda Jesus F Contreras to admire local sculptures. From there, pedal towards the impressive Torre Vip, observing how the city's architecture shifts across different neighborhoods.\nEvening: Your final ride leads you to the historic Acueducto La Concha. Arriving in the late afternoon glow provides a stunning backdrop of these ancient stones, perfectly wrapping up your active day out."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 13.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Cultura Juridica",
+            "hu": "Casa de la Cultura Juridica",
+            "ro": "Casa de la Cultura Juridica",
+            "en": "Casa de la Cultura Juridica"
+          },
+          "coords": [
+            -102.293447,
+            21.88624
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses architektonische Juwel mit seinen bedeutenden Rechtsarchiven und vergessen Sie nicht, die wunderschön restaurierten Decken zu bewundern.",
+            "hu": "Fedezze fel ezt az építészeti gyöngyszemet, amely fontos jogi archívumokat rejt, és ne felejtse el megcsodálni a gyönyörűen felújított mennyezetet.",
+            "ro": "Explorați această bijuterie arhitecturală care găzduiește arhive juridice importante și nu uitați să admirați tavanele frumos restaurate.",
+            "en": "Explore this grand architectural gem that houses significant legal archives, and remember to look up at the beautifully restored ceilings during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vip",
+            "hu": "Torre Vip",
+            "ro": "Torre Vip",
+            "en": "Torre Vip"
+          },
+          "coords": [
+            -102.292463,
+            21.920359
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante Struktur dieses historischen Turms, der die Skyline dominiert, und fotografieren Sie ihn am besten von der Ostseite.",
+            "hu": "Figyelje meg ennek a történelmi toronynak az impozáns szerkezetét, amely uralja a látképet, és a legjobb fotókat a keleti oldalról készítheti.",
+            "ro": "Observați structura impunătoare a acestui turn istoric care domină orizontul și surprindeți cele mai bune unghiuri arhitecturale din partea de est.",
+            "en": "Observe the imposing structure of this historical tower that dominates the local skyline, best viewed from the eastern side for optimal architectural appreciation."
+          }
+        },
+        {
+          "name": {
+            "de": "Campanario con Ventanal",
+            "hu": "Campanario con Ventanal",
+            "ro": "Campanario con Ventanal",
+            "en": "Campanario con Ventanal"
+          },
+          "coords": [
+            -102.317812,
+            21.931978
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das komplexe Fensterdesign dieses freistehenden Glockenturms, ein perfekter Ort für einen ruhigen Moment abseits der Touristenpfade.",
+            "hu": "Csodálja meg ennek a különálló harangtoronynak a bonyolult ablakdizájnját, amely tökéletes helyszín egy csendes pillanatra távol a turistáktól.",
+            "ro": "Admirați designul complex al ferestrelor acestei clopotnițe independente, un loc perfect pentru un moment de liniște departe de traseele turistice.",
+            "en": "Gaze up at the intricate window design of this standalone belfry, a perfect spot to capture a quiet moment of reflection away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Acueducto La Concha",
+            "hu": "Acueducto La Concha",
+            "ro": "Acueducto La Concha",
+            "en": "Acueducto La Concha"
+          },
+          "coords": [
+            -102.304108,
+            21.924109
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Folgen Sie den antiken Linien dieses bemerkenswerten steinernen Aquädukts und tragen Sie festes Schuhwerk für das unebene umliegende Gelände.",
+            "hu": "Kövesse ennek a figyelemre méltó kő aquaduktnak az ősi vonalait, és viseljen kényelmes túracipőt a környező egyenetlen terep miatt.",
+            "ro": "Urmați liniile antice ale acestui remarcabil apeduct de piatră și purtați încălțăminte confortabilă pentru terenul accidentat din împrejurimi.",
+            "en": "Follow the ancient lines of this remarkable stone aqueduct that once fueled the region, wearing sturdy walking shoes for the uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Chicahual",
+            "hu": "Chicahual",
+            "ro": "Chicahual",
+            "en": "Chicahual"
+          },
+          "coords": [
+            -102.34297,
+            21.959238
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche indigene und koloniale Geschichte ein und besuchen Sie diesen Ort idealerweise während lokaler Festivaltage mit traditionellen Tänzen.",
+            "hu": "Merüljön el a gazdag őslakos és gyarmati történelemben, és ha teheti, látogasson el ide a hagyományos táncokkal kísért helyi fesztiválok idején.",
+            "ro": "Pătrundeți în bogata istorie indigenă și colonială și încercați să vizitați acest loc în timpul festivalurilor locale animate de dansuri tradiționale.",
+            "en": "Delve into the rich indigenous and colonial history represented here, and try to visit during local festival days when the area comes alive with traditional dances."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal",
+            "hu": "Teatro Municipal",
+            "ro": "Teatro Municipal",
+            "en": "Teatro Municipal"
+          },
+          "coords": [
+            -102.34344,
+            21.961099
+          ],
+          "category": "cultural",
+          "arrive_at": "16:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem eleganten kulturellen Veranstaltungsort und fragen Sie an der Abendkasse nach ermäßigten Tickets für denselben Tag.",
+            "hu": "Fejezze be a túrát ebben az elegáns kulturális intézményben, és érdeklődjön a jegypénztárnál az aznapi előadásokra szóló kedvezményes jegyekről.",
+            "ro": "Încheiați turul la acest sediu cultural elegant și verificați la casa de bilete dacă există reduceri de ultim moment pentru spectacolele din acea seară.",
+            "en": "End your tour at this elegant cultural venue which hosts premier performances, keeping an eye out for same-day discounted tickets at the box office."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihr Fahrabenteuer an der majestätischen Casa de la Cultura Juridica und bewundern Sie die Architektur. Genießen Sie anschließend eine bequeme Fahrt nach Norden zum markanten Torre Vip.\nMittag: Setzen Sie Ihre Route zum Campanario con Ventanal fort. Mit dem Auto erreichen Sie diese historischen Strukturen mühelos und haben viel Zeit, die kunstvollen Steinarbeiten zu erkunden.\nNachmittag: Eine kurze Fahrt bringt Sie zum weitläufigen Acueducto La Concha. Spazieren Sie um dieses monumentale Bauwerk herum, bevor Sie weiter nach Norden zur kulturell bedeutenden Stätte Chicahual fahren.\nAbend: Beenden Sie Ihre umfassende Tour am eleganten Teatro Municipal. Das Parken in der Nähe ist meist bequem und bietet den perfekten Rahmen für einen entspannten Abend an diesem Veranstaltungsort.",
+        "hu": "Délelőtt: Kezdje autós kalandját a fenséges Casa de la Cultura Juridica-nál, megcsodálva klasszikus építészetét. A városközpontból élvezze a kényelmes autózást északra, a kiemelkedő Torre Vip felé.\nDél: Folytassa útját a Campanario con Ventanal felé. Az autóval könnyedén, fáradtság nélkül megközelítheti ezeket a történelmi építményeket, így rengeteg ideje marad a bonyolult kőfaragványok felfedezésére.\nDélután: Egy rövid út elviszi a kiterjedt Acueducto La Concha-hoz. Sétáljon körbe ezen a monumentális mérnöki alkotáson, mielőtt tovább indulna északra a kulturálisan jelentős Chicahual helyszínre.\nEste: Zárja átfogó túráját az elegáns Teatro Municipal-nál. A közelben általában kényelmesen lehet parkolni, ami megteremti a feltételeket egy pihentető estéhez vagy egy helyi előadás megtekintéséhez.",
+        "ro": "Dimineața: Începeți aventura auto la maiestuoasa Casa de la Cultura Juridica, apreciindu-i arhitectura clasică. Din centrul orașului, bucurați-vă de o plimbare confortabilă spre nord, până la proeminentul Torre Vip.\nPrânz: Continuați-vă traseul către Campanario con Ventanal. Mașina vă facilitează accesul la aceste structuri istorice distincte fără oboseală, lăsând timp suficient pentru a explora detaliile din piatră.\nDupă-amiaza: O scurtă călătorie vă aduce la vastul Acueducto La Concha. Plimbați-vă în jurul acestei monumentale capodopere inginerești înainte de a vă îndrepta mai spre nord, la situl Chicahual.\nSeara: Încheiați-vă turul cuprinzător la elegantul Teatro Municipal. Parcarea în apropiere este de obicei convenabilă, pregătind terenul pentru o seară relaxantă admirând clădirea sau urmărind un spectacol.",
+        "en": "Morning: Start your driving adventure at the majestic Casa de la Cultura Juridica, appreciating its classic architecture. From the city center, enjoy a comfortable drive north to the prominent Torre Vip.\nMidday: Continue your route to the Campanario con Ventanal. Having a car makes it easy to access these distinct historical structures without fatigue, allowing plenty of time to explore the intricate stonework.\nAfternoon: A short drive brings you to the sprawling Acueducto La Concha. Take a walk around this monumental feat of engineering before heading further north to the culturally significant Chicahual site.\nEvening: Conclude your comprehensive tour at the elegant Teatro Municipal. Parking nearby is usually convenient, setting the stage for a relaxed evening admiring the venue's exterior or catching a local performance."
+      }
+    }
+  }
+}

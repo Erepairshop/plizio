@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-acharnes-cities-v2",
+  "anchor": {
+    "name": "Acharnes",
+    "coords": [
+      23.7425,
+      38.0925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 1.51,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallery",
+            "hu": "Gallery",
+            "ro": "Gallery",
+            "en": "Gallery"
+          },
+          "coords": [
+            23.737511,
+            38.084364
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische lokale Kunstwerke und prüfen Sie unbedingt das Programm der Wechselausstellungen.",
+            "hu": "Csodálja meg a kortárs helyi alkotásokat, és látogatás előtt érdemes ellenőrizni az időszaki kiállításokat.",
+            "ro": "Admirați opere de artă contemporană locală și asigurați-vă că verificați programul expozițiilor temporare.",
+            "en": "Admire contemporary local artworks, and be sure to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Art Museum of Acharnes",
+            "hu": "Folk Art Museum of Acharnes",
+            "ro": "Folk Art Museum of Acharnes",
+            "en": "Folk Art Museum of Acharnes"
+          },
+          "coords": [
+            23.735495,
+            38.080672
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
+            "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
+            "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+          },
+          "coords": [
+            23.734382,
+            38.080416
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese städtische Kunstsammlung und nehmen Sie sich Zeit, die Biografien der Künstler zu lesen.",
+            "hu": "Fedezze fel ezt a lenyűgöző városi művészeti gyűjteményt, és szánjon időt a művészek életrajzainak elolvasására.",
+            "ro": "Explorați această impresionantă colecție de artă municipală și luați-vă un moment pentru a citi biografiile artiștilor.",
+            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Akharnon",
+            "hu": "Arkhaio Theatro Akharnon",
+            "ro": "Arkhaio Theatro Akharnon",
+            "en": "Arkhaio Theatro Akharnon"
+          },
+          "coords": [
+            23.733171,
+            38.080371
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
+            "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
+            "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeological",
+            "hu": "Archeological",
+            "ro": "Archeological",
+            "en": "Archeological"
+          },
+          "coords": [
+            23.739693,
+            38.07507
+          ],
+          "category": "museum",
+          "arrive_at": "15:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
+            "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
+            "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der örtlichen Galerie, bevor Sie das Volkskundemuseum von Acharnes erkunden. Ein kurzer Spaziergang führt zur Kunstgalerie Khrestos Tsebas und zum antiken Theater der Stadt. Der Nachmittag ist der reichen archäologischen Sammlung gewidmet, die tiefe historische Einblicke bietet. Der Abend klingt mit der Reflexion über die vielfältige Kultur und die antiken Schätze von Acharnes aus.",
+        "hu": "Kezdje a napot a helyi galériában, mielőtt felfedezné Acharnes gazdag Néprajzi Múzeumát. Egy rövid sétával elérjük a Khrestos Tsebas Képtárat és az ókori színház lenyűgöző romjait. A délutánt a régészeti gyűjtemény megtekintésének szenteljük, amely mély történelmi betekintést nyújt. Az este Acharnes ősi és kulturális történelmének csendes felidézésével zárul.",
+        "ro": "Începeți ziua la galeria locală înainte de a explora Muzeul de Artă Populară din Acharnes. O scurtă plimbare vă duce la pinacoteca Khrestos Tsebas și la teatrul antic impresionant. După-amiaza este dedicată colecției arheologice bogate, care oferă perspective istorice profunde. Seara se încheie reflectând asupra istoriei culturale și a comorilor antice ale orașului Acharnes.",
+        "en": "Begin your day at the local gallery before exploring the rich Folk Art Museum of Acharnes. A short walk leads to the Khrestos Tsebas Art Gallery and the impressive ruins of the ancient theater. The afternoon is dedicated to the archaeological collection, offering deep historical insights. The evening winds down by reflecting on the ancient and cultural history of Acharnes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 1.79,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mikes Theodorakes",
+            "hu": "Mikes Theodorakes",
+            "ro": "Mikes Theodorakes",
+            "en": "Mikes Theodorakes"
+          },
+          "coords": [
+            23.723783,
+            38.082674
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit den kulturellen Exponaten zum lokalen Erbe und achten Sie auf interaktive Displays.",
+            "hu": "Ismerkedjen meg a helyi örökségnek szentelt kulturális kiállításokkal, és keresse az interaktív kijelzőket.",
+            "ro": "Interacționați cu exponatele culturale dedicate moștenirii locale și căutați afișajele multimedia interactive.",
+            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Akharnon",
+            "hu": "Arkhaio Theatro Akharnon",
+            "ro": "Arkhaio Theatro Akharnon",
+            "en": "Arkhaio Theatro Akharnon"
+          },
+          "coords": [
+            23.733171,
+            38.080371
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
+            "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
+            "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+          },
+          "coords": [
+            23.734382,
+            38.080416
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese städtische Kunstsammlung und nehmen Sie sich Zeit, die Biografien der Künstler zu lesen.",
+            "hu": "Fedezze fel ezt a lenyűgöző városi művészeti gyűjteményt, és szánjon időt a művészek életrajzainak elolvasására.",
+            "ro": "Explorați această impresionantă colecție de artă municipală și luați-vă un moment pentru a citi biografiile artiștilor.",
+            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Art Museum of Acharnes",
+            "hu": "Folk Art Museum of Acharnes",
+            "ro": "Folk Art Museum of Acharnes",
+            "en": "Folk Art Museum of Acharnes"
+          },
+          "coords": [
+            23.735495,
+            38.080672
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
+            "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
+            "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeological",
+            "hu": "Archeological",
+            "ro": "Archeological",
+            "en": "Archeological"
+          },
+          "coords": [
+            23.739693,
+            38.07507
+          ],
+          "category": "museum",
+          "arrive_at": "15:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
+            "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
+            "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie bei den kulturellen Schätzen von Mikes Theodorakes in Acharnes. Radeln Sie zügig zum antiken Theater und anschließend zur Kunstgalerie Khrestos Tsebas. Der Nachmittag ist für das Volkskundemuseum und die beeindruckenden archäologischen Ausstellungen reserviert. Nach einer Radtour durch die Stadt bietet der Abend Zeit, die historischen Eindrücke wirken zu lassen.",
+        "hu": "Kezdje a napot Mikes Theodorakes kulturális kincseivel Acharnes városában. Kerekezzen el az ókori színházhoz, majd látogasson el a Khrestos Tsebas Képtárba. A délutánt a Néprajzi Múzeumnak és a lenyűgöző régészeti kiállításoknak szenteljük. A városi kerékpározás után az este lehetőséget ad a történelmi benyomások feldolgozására.",
+        "ro": "Începeți ziua la comorile culturale ale lui Mikes Theodorakes din Acharnes. Mergeți cu bicicleta până la teatrul antic și apoi vizitați pinacoteca Khrestos Tsebas. După-amiaza este rezervată Muzeului de Artă Populară și expozițiilor arheologice impresionante. După o plimbare cu bicicleta, seara vă oferă timp să reflectați asupra impresiilor istorice.",
+        "en": "Start your day exploring the cultural treasures of Mikes Theodorakes in Acharnes. Cycle to the ancient theater and then visit the Khrestos Tsebas Art Gallery. The afternoon is reserved for the Folk Art Museum and the impressive archaeological exhibitions. After cycling through the city, the evening offers time to reflect on the historical impressions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 6.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "KOLUMBETERIO",
+            "hu": "KOLUMBETERIO",
+            "ro": "KOLUMBETERIO",
+            "en": "KOLUMBETERIO"
+          },
+          "coords": [
+            23.709754,
+            38.077974
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Freizeiteinrichtungen, um den Tag aktiv zu beginnen, und bringen Sie unbedingt Wasser mit.",
+            "hu": "Élvezze a szabadidős létesítményeket egy aktív napkezdéshez, és feltétlenül hozzon magával vizet a hidratáláshoz.",
+            "ro": "Bucurați-vă de facilitățile de recreere pentru a începe ziua activ și aduceți o sticlă de apă pentru hidratare.",
+            "en": "Enjoy the recreational facilities here to start your day actively, and bring a bottle of water for hydration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikes Theodorakes",
+            "hu": "Mikes Theodorakes",
+            "ro": "Mikes Theodorakes",
+            "en": "Mikes Theodorakes"
+          },
+          "coords": [
+            23.723783,
+            38.082674
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit den kulturellen Exponaten zum lokalen Erbe und achten Sie auf interaktive Displays.",
+            "hu": "Ismerkedjen meg a helyi örökségnek szentelt kulturális kiállításokkal, és keresse az interaktív kijelzőket.",
+            "ro": "Interacționați cu exponatele culturale dedicate moștenirii locale și căutați afișajele multimedia interactive.",
+            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaio Theatro Akharnon",
+            "hu": "Arkhaio Theatro Akharnon",
+            "ro": "Arkhaio Theatro Akharnon",
+            "en": "Arkhaio Theatro Akharnon"
+          },
+          "coords": [
+            23.733171,
+            38.080371
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
+            "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
+            "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Folk Art Museum of Acharnes",
+            "hu": "Folk Art Museum of Acharnes",
+            "ro": "Folk Art Museum of Acharnes",
+            "en": "Folk Art Museum of Acharnes"
+          },
+          "coords": [
+            23.735495,
+            38.080672
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
+            "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
+            "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeological",
+            "hu": "Archeological",
+            "ro": "Archeological",
+            "en": "Archeological"
+          },
+          "coords": [
+            23.739693,
+            38.07507
+          ],
+          "category": "museum",
+          "arrive_at": "14:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
+            "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
+            "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+          }
+        },
+        {
+          "name": {
+            "de": "Dekelia Hotel",
+            "hu": "Dekelia Hotel",
+            "ro": "Dekelia Hotel",
+            "en": "Dekelia Hotel"
+          },
+          "coords": [
+            23.778253,
+            38.091504
+          ],
+          "category": "recreational",
+          "arrive_at": "16:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit Entspannung in diesem eleganten Freizeitbereich, ideal für ein erfrischendes Getränk.",
+            "hu": "Zárja utazását pihenéssel ebben az elegáns szabadidős térben, amely tökéletes egy frissítő ital elfogyasztására.",
+            "ro": "Încheiați-vă călătoria relaxându-vă în acest spațiu elegant de recreere, perfect pentru a savura o băutură răcoritoare.",
+            "en": "Conclude your journey by relaxing in this elegant recreational space, perfect for grabbing a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie entspannt bei den Freizeiteinrichtungen des Kolumbeterio und den kulturellen Ausstellungen bei Mikes Theodorakes. Fahren Sie in das Zentrum von Acharnes, um das antike Theater und das faszinierende Volkskundemuseum zu besuchen. Am Nachmittag tauchen Sie in den archäologischen Museen tief in die antike Geschichte der Region ein. Den Tag lassen Sie am besten mit einem gemütlichen Aufenthalt in der Umgebung des Dekelia Hotels ausklingen.",
+        "hu": "Indítsa a napot lazán a Kolumbeterio szabadidős létesítményeiben és Mikes Theodorakes kulturális kiállításain. Vezessen Acharnes központjába, hogy megnézze az ókori színházat és a Néprajzi Múzeumot. Délután merüljön el a régió ókori történelmében a helyi régészeti múzeumban. A napot érdemes a Dekelia Hotel elegáns környezetében, kellemes pihenéssel zárni.",
+        "ro": "Începeți relaxat la facilitățile de la Kolumbeterio și la expozițiile culturale de la Mikes Theodorakes. Conduceți în centrul orașului Acharnes pentru a vizita teatrul antic și fascinantul Muzeu de Artă Populară. După-amiaza vă scufundați în istoria antică a regiunii vizitând muzeul arheologic. Încheiați ziua perfect cu un sejur confortabil în zona hotelului Dekelia.",
+        "en": "Start your day relaxed at the recreational facilities of Kolumbeterio and the cultural exhibits at Mikes Theodorakes. Drive into the center of Acharnes to visit the ancient theater and the fascinating Folk Art Museum. In the afternoon, dive deep into the ancient history of the region at the archaeological museum. Finish the day perfectly with a comfortable stay around the elegant Dekelia Hotel."
+      }
+    }
+  }
+}

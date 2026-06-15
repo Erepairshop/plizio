@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-braunton-cities-v2",
+  "anchor": {
+    "name": "Braunton",
+    "coords": [
+      -4.162,
+      51.11
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Brannock's Church",
+            "hu": "St Brannock's Church",
+            "ro": "St Brannock's Church",
+            "en": "St Brannock's Church"
+          },
+          "coords": [
+            -4.1597,
+            51.113
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschön geschnitzten Bankenden aus dem 16. Jahrhundert und denken Sie daran, sich vor dem Betreten dieses aktiven Gotteshauses angemessen zu kleiden.",
+            "hu": "Csodálja meg a 16. századi gyönyörűen faragott padvégeket, amelyek a helyi kézművességet dicsérik, és ne feledjen szerényen öltözni, mielőtt belép a templomba.",
+            "ro": "Admirați capetele de bancă frumos sculptate din secolul al XVI-lea care arată măiestria locală și amintiți-vă să vă îmbrăcați modest la intrarea în biserică.",
+            "en": "Admire the beautifully carved 16th-century bench ends that showcase local craftsmanship, and remember to dress modestly before entering this active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Caen River",
+            "hu": "Caen-folyó",
+            "ro": "Râul Caen",
+            "en": "Caen River"
+          },
+          "coords": [
+            -4.163072,
+            51.119639
+          ],
+          "category": "natural",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den friedlichen Ufern entlang, um die einheimische Tierwelt zu beobachten, und bringen Sie bequeme Schuhe für die teils schlammigen Wege mit.",
+            "hu": "Sétáljon végig a békés folyóparton, hogy megfigyelje a vízi élővilágot, és hozzon magával kényelmes túracipőt a kissé sáros ösvényekhez.",
+            "ro": "Plimbați-vă pe malurile liniștite pentru a observa fauna locală și purtați încălțăminte confortabilă pentru a face față porțiunilor de traseu ușor noroioase.",
+            "en": "Walk along the peaceful banks to observe local wildlife thriving by the water, and bring comfortable walking shoes to handle the slightly muddy trail sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of British Surfing",
+            "hu": "Brit Szörfmúzeum",
+            "ro": "Muzeul Surfului Britanic",
+            "en": "Museum of British Surfing"
+          },
+          "coords": [
+            -4.1627,
+            51.1081
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des britischen Wellenreitens anhand von Vintage-Boards und prüfen Sie vor Ihrem Besuch online die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a brit szörfözés gazdag történelmét a régi szörfdeszkák és fotók segítségével, de indulás előtt mindenképp ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria surprinzător de bogată a surfului britanic prin planșe vintage și verificați online programul de funcționare sezonier înainte de vizită.",
+            "en": "Discover the surprisingly rich history of UK wave-riding through vintage boards and photos, checking their seasonal opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Braunton Countryside Centre",
+            "hu": "Braunton Vidéki Központ",
+            "ro": "Centrul Rural Braunton",
+            "en": "Braunton Countryside Centre"
+          },
+          "coords": [
+            -4.16326,
+            51.1082
+          ],
+          "category": "cultural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lernen Sie durch interaktive Ausstellungen die vielfältigen Ökosysteme Norddevons kennen und nutzen Sie den freien Eintritt, indem Sie eine kleine Spende hinterlassen.",
+            "hu": "Ismerje meg Észak-Devon bioszférájának változatos ökoszisztémáit interaktív kiállításokon keresztül, és hagyjon egy kis adományt az ingyenes belépésért cserébe.",
+            "ro": "Învățați despre ecosistemele diverse ale biosferei din North Devon prin expoziții interactive și profitați de intrarea gratuită lăsând o mică donație.",
+            "en": "Learn about the diverse ecosystems of the North Devon biosphere through interactive displays, taking advantage of the free entry by leaving a small donation."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Field",
+            "hu": "Great Field",
+            "ro": "Great Field",
+            "en": "Great Field"
+          },
+          "coords": [
+            -4.166885,
+            51.108193
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie eines der letzten erhaltenen offenen landwirtschaftlichen Systeme in England, das einen Einblick in die mittelalterliche Landwirtschaft bietet, und bleiben Sie auf den Wegen.",
+            "hu": "Tekintse meg Anglia egyik utolsó fennmaradt nyíltmezős mezőgazdasági rendszerét, amely bepillantást enged a középkori gazdálkodásba, de maradjon a kijelölt ösvényeken.",
+            "ro": "Vedeți unul dintre ultimele sisteme agricole de câmp deschis din Anglia, care oferă o privire în agricultura medievală, dar rămâneți strict pe potecile publice.",
+            "en": "View one of the last surviving open-field agricultural systems in England that offers a glimpse into medieval farming, sticking strictly to the public footpaths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Braunton und den mittelalterlichen Schnitzereien der St. Brannock's Church. Wenn der Mittag naht, folgen Sie dem sanften Lauf des Caen River, um die Natur des Dorfes zu erleben. Tauchen Sie am Nachmittag im Museum of British Surfing und im Countryside Centre in das lokale Erbe ein. Beenden Sie Ihren Tag bei einem Spaziergang am Rande des riesigen Great Field.",
+        "hu": "Kezdje a reggelt Braunton történelmi központjában, a St Brannock-templom középkori faragványainak megtekintésével. Ahogy közeledik a dél, kövesse a Caen-folyó csendes folyását, és élvezze a falu természeti szépségeit. Délután merüljön el a helyi kultúrában a Brit Szörfmúzeumban és a Vidéki Központban. Zárja a napot egy kellemes sétával a hatalmas és ősi Great Field történelmi dűlői mentén az este közeledtével.",
+        "ro": "Începeți dimineața explorând inima istorică a Brauntonului, admirând sculpturile medievale de la Biserica St Brannock. Pe măsură ce se apropie prânzul, urmați cursul domol al râului Caen pentru a vă conecta cu peisajul natural al satului. După-amiaza, descoperiți patrimoniul local la Muzeul Surfului Britanic și la Centrul Rural. Încheiați-vă ziua plimbându-vă pe lângă imensele fâșii antice de pe Great Field.",
+        "en": "Start your morning exploring the historic heart of Braunton, beginning with the medieval carvings at St Brannock's Church. As midday approaches, follow the gentle flow of the Caen River to connect with the village's natural landscape. In the afternoon, dive into local heritage at the Museum of British Surfing and the Countryside Centre. Conclude your day walking past the vast, ancient strips of the Great Field as evening sets in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum of British Surfing",
+            "hu": "Brit Szörfmúzeum",
+            "ro": "Muzeul Surfului Britanic",
+            "en": "Museum of British Surfing"
+          },
+          "coords": [
+            -4.1627,
+            51.1081
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie jahrzehntelange Surftradition anhand einzigartiger Erinnerungsstücke und nutzen Sie die praktischen Fahrradständer direkt vor dem Eingang.",
+            "hu": "Fedezze fel a szörfözés évtizedes örökségét az egyedi emléktárgyakon keresztül, és használja a bejárat előtt található kényelmes kerékpártárolókat.",
+            "ro": "Explorați deceniile de moștenire a surfului prezentate prin suveniruri unice și profitați de suporturile convenabile pentru biciclete situate chiar la intrare.",
+            "en": "Explore decades of surfing heritage showcased through unique memorabilia, and take advantage of the convenient bike racks located right outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Braunton Great Field",
+            "hu": "Braunton Great Field",
+            "ro": "Braunton Great Field",
+            "en": "Braunton Great Field"
+          },
+          "coords": [
+            -4.174935,
+            51.102282
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der alten landwirtschaftlichen Parzellen, um die Weite der Landschaft zu genießen, und halten Sie ein moderates Tempo, um die Farm zu respektieren.",
+            "hu": "Tekerjen végig az ősi mezőgazdasági parcellák mentén, hogy megcsodálja a táj léptékét, és tartson mérsékelt sebességet a működő gazdaságok tiszteletben tartása érdekében.",
+            "ro": "Pedalați de-a lungul vechilor parcele agricole pentru a aprecia scara imensă a peisajului și mențineți o viteză moderată pentru a respecta mediul agricol activ.",
+            "en": "Cycle alongside the ancient strip farming partitions to appreciate the sheer scale of the landscape, keeping your speed moderate to respect the working farm environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt für Rettungshubschrauber",
+            "hu": "Mentőhelikopter-kilátó",
+            "ro": "Zona de Observare a Elicopterelor",
+            "en": "Rescue Helicopter Viewing Area"
+          },
+          "coords": [
+            -4.151148,
+            51.094933
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Himmel von diesem speziellen Aussichtspunkt aus, wo Sie vielleicht eine Übung sehen, und bringen Sie ein Fernglas für die beste Sicht mit.",
+            "hu": "Kémlelje az eget erről a dedikált kilátópontról, ahol talán egy gyakorlatot is elcsíphet, és hozzon magával távcsövet a repülőgépek jobb megfigyeléséhez.",
+            "ro": "Urmăriți cerul din acest punct de observație dedicat unde ați putea surprinde un exercițiu și aduceți binoclul pentru cea mai bună vedere a aeronavelor.",
+            "en": "Watch the skies from this dedicated vantage point where you might catch a training exercise, bringing binoculars for the best possible view of the aircraft."
+          }
+        },
+        {
+          "name": {
+            "de": "Crow Point",
+            "hu": "Crow Point",
+            "ro": "Crow Point",
+            "en": "Crow Point"
+          },
+          "coords": [
+            -4.168772,
+            51.095047
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Navigieren Sie über die Holzstege, um weite Ausblicke auf die Flussmündung zu erreichen, und schließen Sie Ihr Fahrrad gut ab, bevor Sie den tiefen Sand betreten.",
+            "hu": "Haladjon végig a fa pallókon, hogy elérje a tölcsértorkolat tágas panorámáját, de ügyeljen arra, hogy biztonságosan lezárja a kerékpárt a mély homokos részek előtt.",
+            "ro": "Navigați pe trotuarele de lemn pentru a ajunge la priveliști expansive asupra estuarului și asigurați-vă că vă blocați bicicleta înainte de a merge prin nisip.",
+            "en": "Navigate the wooden boardwalks to reach expansive estuary views, taking care to lock your bike securely before trekking across the deeper sand areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Braunton Burrows",
+            "hu": "Braunton Burrows",
+            "ro": "Braunton Burrows",
+            "en": "Braunton Burrows"
+          },
+          "coords": [
+            -4.20333,
+            51.0947
+          ],
+          "category": "natural",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Sanddünen, die ein UNESCO-Biosphärenreservat bilden, und packen Sie für die anspruchsvolle Wanderung reichlich Trinkwasser ein.",
+            "hu": "Csodálja meg a drámai homokdűnéket, amelyek az UNESCO bioszféra-rezervátumát alkotják, és csomagoljon bőséges ivóvizet az arid terepen való sétához.",
+            "ro": "Minunați-vă de dunele dramatice de nisip care formează o rezervație UNESCO și pregătiți-vă pentru o plimbare luând apă de băut pentru terenul arid.",
+            "en": "Marvel at the dramatic sand dunes forming a UNESCO biosphere reserve, and prepare for a challenging walk by packing plenty of drinking water for the arid terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Saunton Sands",
+            "hu": "Saunton Sands",
+            "ro": "Saunton Sands",
+            "en": "Saunton Sands"
+          },
+          "coords": [
+            -4.220922,
+            51.118383
+          ],
+          "category": "natural",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dem riesigen, drei Meilen langen goldenen Sandstrand und suchen Sie die ausgewiesenen Parkzonen, wenn Sie Ihre Ausrüstung abschließen müssen.",
+            "hu": "Pihenjen a híres longboard hullámokat kínáló, három mérföld hosszú aranyhomokos strandon, és keressen kijelölt parkolót, ha le kell zárnia a felszerelését.",
+            "ro": "Relaxați-vă pe porțiunea de trei mile de nisip auriu faimoasă pentru valurile sale și găsiți zonele de parcare desemnate pentru a vă asigura echipamentul.",
+            "en": "Relax by the sprawling three-mile stretch of golden sand famous for its longboard waves, finding the designated parking zones if you need to lock up your gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Museum of British Surfing, einer perfekten Einführung in die Küstenkultur der Region. Radeln Sie mittags über die flachen Wege des Braunton Great Field in Richtung des Aussichtspunkts für Rettungshubschrauber. Der Nachmittag ist der Natur gewidmet, während Sie die Dünen von Crow Point und Braunton Burrows erkunden. Beenden Sie Ihren aktiven Tag bei Sonnenuntergang an den spektakulären Saunton Sands.",
+        "hu": "Indítsa kerékpártúráját a Brit Szörfmúzeumban, amely kiváló bevezetés a partvidék kultúrájába. Délben tekerjen tovább a Braunton Great Field sík útjain a Mentőhelikopter-kilátó irányába. A délutánt a természetnek szentelheti, miközben felfedezi Crow Point és a Braunton Burrows homokdűnéit. Aktív napját fejezze be a lenyűgöző Saunton Sands tengerpartján, miközben a lemenő nap fényeiben gyönyörködik.",
+        "ro": "Începeți turul cu bicicleta la Muzeul Surfului Britanic, o introducere excelentă în cultura de coastă a zonei. Pedalați la prânz pe cărările plate ale Braunton Great Field către zona de observare a elicopterelor de salvare. După-amiaza este dedicată naturii, explorând dunele de la Crow Point și Braunton Burrows. Încheiați-vă ziua activă admirând valurile la apus pe spectaculoasa plajă Saunton Sands.",
+        "en": "Kick off your cycling tour at the Museum of British Surfing, an essential introduction to the area's coastal culture. Pedal onwards through the flat tracks of the Braunton Great Field towards the Rescue Helicopter Viewing Area by midday. The afternoon is dedicated to nature as you explore the dunes of Crow Point and Braunton Burrows. Finish your active day watching the sunset waves at the spectacular Saunton Sands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 24.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Knowle Hill Castle",
+            "hu": "Knowle Hill-kastély",
+            "ro": "Castelul Knowle Hill",
+            "en": "Knowle Hill Castle"
+          },
+          "coords": [
+            -4.160898,
+            51.124322
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Stätte mit herrlichem Panoramablick und tragen Sie festes Schuhwerk für den kurzen, aber steilen Aufstieg.",
+            "hu": "Fedezze fel ennek a magaslaton fekvő történelmi helyszínnek a maradványait, amely lenyűgöző panorámát nyújt, és viseljen masszív cipőt a rövid, de meredek emelkedőhöz.",
+            "ro": "Explorați rămășițele acestui sit istoric ridicat care oferă priveliști panoramice și asigurați-vă că purtați încălțăminte solidă pentru urcarea scurtă, dar abruptă.",
+            "en": "Explore the remnants of this elevated historical site that offers sweeping panoramic views, ensuring you wear sturdy shoes for the short but steep ascent from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "St Brannock's Church",
+            "hu": "St Brannock's Church",
+            "ro": "St Brannock's Church",
+            "en": "St Brannock's Church"
+          },
+          "coords": [
+            -4.1597,
+            51.113
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um das bemerkenswerte Holzdach dieser alten Gemeinde zu sehen, und nutzen Sie den kleinen, aber praktischen Parkplatz auf der anderen Straßenseite.",
+            "hu": "Lépjen be, hogy megtekintse ennek az ősi egyházközségnek a figyelemre méltó fa tetőszerkezetét, és használja a kis, de kényelmes parkolót az utca túloldalán.",
+            "ro": "Pășiți înăuntru pentru a vedea acoperișul remarcabil din lemn al acestei parohii antice, folosind zona de parcare mică, dar convenabilă, de vizavi de stradă.",
+            "en": "Step inside to view the remarkable timber roof and historical brasses of this ancient parish, utilizing the small but convenient parking area just across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Braunton Marsh",
+            "hu": "Braunton Marsh",
+            "ro": "Braunton Marsh",
+            "en": "Braunton Marsh"
+          },
+          "coords": [
+            -4.069379,
+            51.084956
+          ],
+          "category": "natural",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam, um das von historischen Entwässerungskanälen durchzogene Weideland zu schätzen, und halten Sie nur an ausgewiesenen Buchten.",
+            "hu": "Vezessen lassan, hogy megcsodálja a történelmi vízelvezető csatornákkal átszelt legelőket, és csak a kijelölt öblökben álljon meg, hogy ne akadályozza a forgalmat.",
+            "ro": "Conduceți încet pentru a aprecia pășunile traversate de canale de drenaj istorice și opriți doar în refugiile desemnate pentru a evita blocarea traficului.",
+            "en": "Drive slowly to appreciate the reclaimed pastureland crisscrossed by historical drainage channels, stopping only at designated lay-bys to avoid blocking local traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Hawker Hunter Jet",
+            "hu": "Hawker Hunter repülőgép",
+            "ro": "Avionul Hawker Hunter",
+            "en": "Hawker Hunter jet"
+          },
+          "coords": [
+            -4.190337,
+            51.109069
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein kurzes Foto von diesem markanten, ausgemusterten Militärflugzeug, aber seien Sie beim Anhalten sehr vorsichtig im geschäftigen Kreisverkehr.",
+            "hu": "Készítsen egy gyors fotót erről a büszkén kiállított, nyugdíjazott katonai repülőgépről, de legyen nagyon óvatos a forgalmas körforgalomban történő félreálláskor.",
+            "ro": "Faceți o fotografie rapidă a acestei aeronave militare retrase montate cu mândrie ca reper, dar fiți foarte precauți la traficul din sensul giratoriu când trageți pe dreapta.",
+            "en": "Snap a quick photo of this striking retired military aircraft mounted proudly as a landmark, but be very cautious of the busy roundabout traffic when pulling over."
+          }
+        },
+        {
+          "name": {
+            "de": "St Anne's Chapel",
+            "hu": "Szent Anna-kápolna",
+            "ro": "Capela St Anne",
+            "en": "St Anne's Chapel"
+          },
+          "coords": [
+            -4.205787,
+            51.117708
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ruhigen, historischen Ruinen dieses kleinen religiösen Außenpostens in malerischer Umgebung und bedenken Sie, dass die Parkplätze begrenzt sind.",
+            "hu": "Látogassa meg ennek a kis vallási előőrsnek a csendes, történelmi romjait egy festői környezetben, de tartsa szem előtt, hogy a parkolás főszezonban korlátozott.",
+            "ro": "Vizitați ruinele liniștite ale acestui mic avanpost religios situat într-un cadru pitoresc, ținând cont că parcarea aici este destul de limitată în sezonul de vârf.",
+            "en": "Visit the quiet, historic ruins of this small religious outpost set amidst a picturesque setting, keeping in mind that parking here is quite limited during peak seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Saunton Sands",
+            "hu": "Saunton Sands",
+            "ro": "Saunton Sands",
+            "en": "Saunton Sands"
+          },
+          "coords": [
+            -4.220922,
+            51.118383
+          ],
+          "category": "natural",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den endlosen unberührten Küstenabschnitt, der von sanften Sanddünen gesäumt wird, und zahlen Sie Ihr Parkticket frühzeitig, um Strafen zu vermeiden.",
+            "hu": "Csodálja meg a hullámzó homokdűnék által keretezett, végtelen, érintetlen tengerpartot, és ne felejtse el időben kifizetni a parkolójegyet a büntetések elkerülése végett.",
+            "ro": "Minunați-vă de întinderea nesfârșită de coastă neatinsă încadrată de dune de nisip și asigurați-vă că plătiți biletul de parcare devreme pentru a evita amenzile.",
+            "en": "Marvel at the endless stretch of pristine coastline framed by rolling sand dunes, making sure to pay for your parking ticket early to avoid any fines before heading to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung der historischen Burgruine Knowle Hill Castle und der eleganten Architektur der St. Brannock's Church. Mittags verlassen Sie die ausgetretenen Pfade zu den ruhigen Feuchtgebieten von Braunton Marsh und dem legendären Hawker Hunter Jet. Verbringen Sie Ihren Nachmittag in der friedlichen St. Anne's Chapel, bevor Sie an die Küste fahren. Die Tour endet mit atemberaubenden Ausblicken an den Saunton Sands.",
+        "hu": "Kezdje autós útját a történelmi Knowle Hill-kastély romjainak és a St Brannock-templom elegáns építészetének felfedezésével. Délben a letérhet a kitaposott útról a Braunton Marsh békés vizes élőhelyeihez és az ikonikus Hawker Hunter repülőgéphez. Délutánját a békés Szent Anna-kápolna meglátogatásával töltheti, mielőtt a part felé venné az irányt. A nap a lenyűgöző Saunton Sands esti óceáni panorámájával csúcsosodik ki.",
+        "ro": "Începeți plimbarea cu mașina explorând ruinele istorice de la Knowle Hill Castle și arhitectura elegantă a Bisericii St Brannock. La prânz ieșiți de pe traseele turistice pentru a vedea zonele umede liniștite din Braunton Marsh și faimosul avion Hawker Hunter. Petreceți după-amiaza vizitând liniștita Capelă St Anne înainte de a vă îndrepta spre coastă. Itinerariul culminează cu priveliști oceanice la Saunton Sands.",
+        "en": "Embark on your drive by exploring the historic Knowle Hill Castle ruins and the elegant architecture of St Brannock's Church. Midday takes you off the beaten path to the serene wetlands of Braunton Marsh and past the iconic Hawker Hunter jet display. Spend your afternoon visiting the peaceful St Anne's Chapel before heading to the coast. The itinerary culminates with breathtaking evening ocean views at Saunton Sands."
+      }
+    }
+  }
+}

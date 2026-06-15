@@ -1,0 +1,405 @@
+{
+  "city_id": "spain-calella-cities-v2",
+  "anchor": {
+    "name": "Calella",
+    "coords": [
+      2.65423,
+      41.61381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu del Turisme de Calella",
+            "hu": "Museu del Turisme de Calella",
+            "ro": "Museu del Turisme de Calella",
+            "en": "Museu del Turisme de Calella"
+          },
+          "coords": [
+            2.661398,
+            41.617198
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die globale Reisegeschichte in diesem einzigartigen Tourismusmuseum, prüfen Sie jedoch vorab unbedingt die saisonalen Öffnungszeiten online.",
+            "hu": "Fedezze fel az utazás történelmét ebben az egyedi turisztikai múzeumban, de a látogatás előtt mindenképpen ellenőrizze az aktuális nyitvatartást az interneten.",
+            "ro": "Explorați istoria globală a călătoriilor în acest muzeu turistic unic, dar asigurați-vă că verificați online programul sezonier înainte de a vă planifica vizita.",
+            "en": "Explore global travel history at this unique tourism museum, but make sure to check the seasonal opening hours online before planning your morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del 1905",
+            "hu": "Casa del 1905",
+            "ro": "Casa del 1905",
+            "en": "Casa del 1905"
+          },
+          "coords": [
+            2.661215,
+            41.613065
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses modernistischen Architekturjuwels und bringen Sie ein Weitwinkelobjektiv für die faszinierenden Details mit.",
+            "hu": "Csodálja meg ennek a kora 20. századi modernista építészeti gyöngyszemnek a homlokzatát, és hozzon magával széles látószögű lencsét a részletek megörökítéséhez.",
+            "ro": "Admirați fațada impresionantă a acestei bijuterii arhitecturale moderniste, și aduceți un obiectiv cu unghi larg pentru a surprinde toate detaliile fine.",
+            "en": "Admire the striking facade of this modernist architectural gem from the early 20th century, and bring a wide-angle lens to capture the intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Garbí",
+            "hu": "Platja de Garbí",
+            "ro": "Platja de Garbí",
+            "en": "Platja de Garbí"
+          },
+          "coords": [
+            2.65109,
+            41.609529
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses mit der Blauen Flagge ausgezeichneten Strandes und mieten Sie frühzeitig eine Liege für den perfekten Platz am Wasser.",
+            "hu": "Élvezze e Kék Zászlós strand tiszta, aranyló homokját, és béreljen napágyat a nap elején, hogy biztosítsa a tökéletes helyet a kristálytiszta víz mellett.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje cu Steag Albastru și închiriați un șezlong dimineața devreme pentru a avea un loc perfect lângă apa cristalină.",
+            "en": "Enjoy the pristine golden sands of this Blue Flag beach, and rent a sun lounger early in the day to secure the perfect spot by the crystal-clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Calella",
+            "hu": "Far de Calella",
+            "ro": "Far de Calella",
+            "en": "Far de Calella"
+          },
+          "coords": [
+            2.646404,
+            41.608141
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den weiten Blick auf das Mittelmeer von diesem aktiven Leuchtturm, aber tragen Sie für den steilen Aufstieg vom Strand feste Wanderschuhe.",
+            "hu": "Csodálja meg a Földközi-tengerre nyíló kilátást ebből az aktív világítótoronyból, de viseljen kényelmes cipőt a strandról induló meredek emelkedőhöz.",
+            "ro": "Admirați vederea panoramică a Mediteranei de la acest far activ din 1859, dar purtați încălțăminte confortabilă pentru urcarea abruptă dinspre plajă.",
+            "en": "Marvel at the sweeping Mediterranean views from this active 1859 lighthouse, but wear sturdy walking shoes for the steep uphill climb from the beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Roques",
+            "hu": "Platja de les Roques",
+            "ro": "Platja de les Roques",
+            "en": "Platja de les Roques"
+          },
+          "coords": [
+            2.644743,
+            41.607034
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen, von Klippen umgebenen Bucht und bringen Sie unbedingt eigenes Wasser und Snacks mit, da die Versorgung hier begrenzt ist.",
+            "hu": "Pihenjen ebben a gyönyörű, sziklákkal övezett elzárt öbölben, és hozzon magával saját vizet és harapnivalót, mivel itt a parti szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă în acest golf superb înconjurat de stânci abrupte și aduceți-vă apă și gustări proprii, deoarece facilitățile de pe plajă sunt limitate aici.",
+            "en": "Relax in this beautiful secluded cove surrounded by dramatic pine-covered cliffs, and bring your own water and snacks as beachside amenities are limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im einzigartigen Tourismusmuseum und bewundern Sie anschließend die modernistische Casa del 1905. Am Mittag können Sie sich am goldenen Sandstrand Platja de Garbí entspannen und neue Energie tanken. Der Nachmittag führt Sie zum ikonischen Leuchtturm Far de Calella mit weitem Blick. Beenden Sie Ihren Abend ganz entspannt an der Bucht Platja de les Roques.",
+        "hu": "Kezdje a reggelt az egyedülálló Turisztikai Múzeumban, majd csodálja meg a Casa del 1905 modernista homlokzatát. Délben pihenjen meg a Platja de Garbí aranyló homokján, amely tökéletes a feltöltődésre. Délután látogasson el az ikonikus Far de Calella világítótoronyhoz a lenyűgöző kilátásért. Az estét a félreeső Platja de les Roques csendes öblében zárhatja.",
+        "ro": "Începeți dimineața descoperind unicul Muzeu al Turismului, apoi admirați fațada modernistă a Casei din 1905. La prânz, relaxați-vă pe nisipul auriu al plajei Platja de Garbí pentru a vă reîncărca bateriile. După-amiaza vă poartă la emblematicul far Far de Calella pentru vederi panoramice. Încheiați seara liniștit, în golful retras Platja de les Roques.",
+        "en": "Start your morning discovering the unique Tourism Museum before strolling south to admire the modernist facade of Casa del 1905. By midday, relax on the golden sands of Platja de Garbí, a perfect spot to recharge. The afternoon brings you up to the iconic Far de Calella for sweeping Mediterranean views. Conclude your evening unwinding at the secluded Platja de les Roques."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.54,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatre Orfeó Calellenc",
+            "hu": "Teatre Orfeó Calellenc",
+            "ro": "Teatre Orfeó Calellenc",
+            "en": "Teatre Orfeó Calellenc"
+          },
+          "coords": [
+            2.665616,
+            41.615993
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebendige lokale Kultur in diesem historischen Theater und prüfen Sie das Aushängeschild nach anstehenden Abendvorstellungen und Tickets.",
+            "hu": "Ismerje meg a pezsgő helyi kultúrát ebben a történelmi színházban, és nézze meg a bejárati hirdetőtáblát a közelgő esti előadások és jegyek kapcsán.",
+            "ro": "Descoperiți cultura locală vibrantă la acest teatru comunitar istoric și verificați panoul de la intrare pentru viitoarele spectacole și oferte de bilete.",
+            "en": "Discover the vibrant local culture at this historic community theater, and check their notice board outside for upcoming evening performances and ticket deals."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Turisme de Calella",
+            "hu": "Museu del Turisme de Calella",
+            "ro": "Museu del Turisme de Calella",
+            "en": "Museu del Turisme de Calella"
+          },
+          "coords": [
+            2.661398,
+            41.617198
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Entdecken Sie die globale Reisegeschichte in diesem einzigartigen Tourismusmuseum, prüfen Sie jedoch vorab unbedingt die saisonalen Öffnungszeiten online.",
+            "hu": "Fedezze fel az utazás történelmét ebben az egyedi turisztikai múzeumban, de a látogatás előtt mindenképpen ellenőrizze az aktuális nyitvatartást az interneten.",
+            "ro": "Explorați istoria globală a călătoriilor în acest muzeu turistic unic, dar asigurați-vă că verificați online programul sezonier înainte de a vă planifica vizita.",
+            "en": "Explore global travel history at this unique tourism museum, but make sure to check the seasonal opening hours online before planning your morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Calella",
+            "hu": "Far de Calella",
+            "ro": "Far de Calella",
+            "en": "Far de Calella"
+          },
+          "coords": [
+            2.646404,
+            41.608141
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den weiten Blick auf das Mittelmeer von diesem aktiven Leuchtturm, aber tragen Sie für den steilen Aufstieg vom Strand feste Wanderschuhe.",
+            "hu": "Csodálja meg a Földközi-tengerre nyíló kilátást ebből az aktív világítótoronyból, de viseljen kényelmes cipőt a strandról induló meredek emelkedőhöz.",
+            "ro": "Admirați vederea panoramică a Mediteranei de la acest far activ din 1859, dar purtați încălțăminte confortabilă pentru urcarea abruptă dinspre plajă.",
+            "en": "Marvel at the sweeping Mediterranean views from this active 1859 lighthouse, but wear sturdy walking shoes for the steep uphill climb from the beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Torretes de telegrafia òptica",
+            "hu": "Torretes de telegrafia òptica",
+            "ro": "Torretes de telegrafia òptica",
+            "en": "Torretes de telegrafia òptica"
+          },
+          "coords": [
+            2.641912,
+            41.607842
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesen optischen Telegrafentürmen aus dem 19. Jahrhundert und bringen Sie eine Kamera für tolle Fotos in der goldenen Stunde mit.",
+            "hu": "Lépjen vissza az időben ezeknél a 19. századi optikai távírótornyoknál, és hozzon fényképezőgépet, hogy megörökítse a lenyűgöző romokat az aranyórában.",
+            "ro": "Întoarceți-vă în timp la aceste turnuri de telegraf optic din secolul al XIX-lea și aduceți un aparat foto pentru a surprinde ruinele la ora de aur.",
+            "en": "Step back in time at these 19th-century optical telegraph towers overlooking the coast, and bring a camera to capture the stunning ruins at golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Vinyeta",
+            "hu": "Cala de la Vinyeta",
+            "ro": "Cala de la Vinyeta",
+            "en": "Cala de la Vinyeta"
+          },
+          "coords": [
+            2.641722,
+            41.606045
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Kieselstrand inmitten der Natur und vergessen Sie nicht, Badeschuhe für einen bequemen Einstieg ins klare Meer einzupacken.",
+            "hu": "Pihenjen ezen a bájos, kevésbé zsúfolt kavicsos strandon a természet lágy ölén, és ne felejtsen el vízicipőt csomagolni a tengerbe való kényelmes bejutáshoz.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare cu pietricele înconjurată de natură și nu uitați să luați încălțăminte de apă pentru a intra ușor în mare.",
+            "en": "Unwind at this charming and less crowded pebble beach surrounded by nature, and remember to pack water shoes for a comfortable entry into the clear sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am historischen Teatre Orfeó Calellenc und tauchen Sie im Tourismusmuseum in die Urlaubsgeschichte ein. Radeln Sie mittags an der Küste entlang zum Far de Calella, um die herrliche Aussicht zu genießen. Am Nachmittag erkunden Sie die historischen Ruinen der Torretes de telegrafia òptica. Lassen Sie den Abend in der ruhigen Cala de la Vinyeta ausklingen.",
+        "hu": "Kezdje a kerékpáros napot a történelmi Teatre Orfeó Calellencnél, majd fedezze fel a Turisztikai Múzeumot. Délben tekerjen a tengerparton az ikonikus Far de Calella világítótoronyhoz, ahonnan lélegzetelállító a kilátás. Délután fedezze fel a Torretes de telegrafia òptica történelmi romjait. Az estét a festői és nyugodt Cala de la Vinyeta öbölben pihenheti ki.",
+        "ro": "Începeți ziua de ciclism la istoricul Teatre Orfeó Calellenc înainte de a explora istoria vacanțelor la Muzeul Turismului. Pedalați la prânz pe coastă pentru a ajunge la Far de Calella și a admira oceanul. După-amiaza, urcați pentru a explora ruinele istorice ale Torretes de telegrafia òptica. Relaxați-vă seara în peisajul liniștit oferit de Cala de la Vinyeta.",
+        "en": "Kick off your cycling day at the historic Teatre Orfeó Calellenc before diving into the town's holiday history at the Tourism Museum. Ride along the breezy coast at midday to reach the iconic Far de Calella for breathtaking ocean vistas. In the afternoon, pedal further up to explore the historic Torretes de telegrafia òptica ruins. Wind down your evening at the tranquil Cala de la Vinyeta."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turó d'en Maresme",
+            "hu": "Turó d'en Maresme",
+            "ro": "Turó d'en Maresme",
+            "en": "Turó d'en Maresme"
+          },
+          "coords": [
+            2.656229,
+            41.6204
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang auf diesen Hügel für einen Panoramablick auf die Stadt und nehmen Sie Wasser mit, da es oben keine Einrichtungen gibt.",
+            "hu": "Élvezze a békés sétát ezen a természetes dombon a városra nyíló panorámáért, és vigyen magával egy üveg vizet, mivel a csúcson nincsenek létesítmények.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe acest deal natural pentru vederi panoramice fantastice și luați o sticlă cu apă deoarece nu există facilități în vârf.",
+            "en": "Enjoy a peaceful walk up this natural hill for fantastic panoramic views of the coastal town, and carry a water bottle since there are no facilities at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Popa",
+            "hu": "Puig de Popa",
+            "ro": "Puig de Popa",
+            "en": "Puig de Popa"
+          },
+          "coords": [
+            2.638701,
+            41.621855
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich auf diesem Berggipfel mit der Natur und der üppigen Vegetation, aber bleiben Sie auf den markierten Wegen, um das Ökosystem zu schützen.",
+            "hu": "Kerüljön közelebb a természethez ezen a mediterrán növényzettel borított csúcson, és maradjon a kijelölt ösvényeken a helyi ökoszisztéma védelme érdekében.",
+            "ro": "Reconectați-vă cu natura pe acest vârf acoperit de vegetație luxuriantă și rămâneți pe potecile marcate pentru a proteja ecosistemul local delicat.",
+            "en": "Reconnect with nature on this elevated peak offering trails and lush Mediterranean vegetation, and stick to the marked paths to protect the local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del 1905",
+            "hu": "Casa del 1905",
+            "ro": "Casa del 1905",
+            "en": "Casa del 1905"
+          },
+          "coords": [
+            2.661215,
+            41.613065
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses modernistischen Architekturjuwels und bringen Sie ein Weitwinkelobjektiv für die faszinierenden Details mit.",
+            "hu": "Csodálja meg ennek a kora 20. századi modernista építészeti gyöngyszemnek a homlokzatát, és hozzon magával széles látószögű lencsét a részletek megörökítéséhez.",
+            "ro": "Admirați fațada impresionantă a acestei bijuterii arhitecturale moderniste, și aduceți un obiectiv cu unghi larg pentru a surprinde toate detaliile fine.",
+            "en": "Admire the striking facade of this modernist architectural gem from the early 20th century, and bring a wide-angle lens to capture the intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Morer",
+            "hu": "Platja del Morer",
+            "ro": "Platja del Morer",
+            "en": "Platja del Morer"
+          },
+          "coords": [
+            2.632032,
+            41.603812
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erleben Sie ein entspanntes Bad an diesem ruhigen Strand nördlich des Stadtzentrums und kommen Sie vor dem Mittag, um leicht einen Parkplatz zu finden.",
+            "hu": "Tapasztalja meg a nyugodt fürdőzést ezen a városközponttól északra fekvő strandon, és érkezzen dél előtt, hogy könnyen találjon parkolót a közelben.",
+            "ro": "Bucurați-vă de o baie relaxantă la această plajă liniștită din nordul centrului orașului și ajungeți înainte de prânz pentru a găsi ușor un loc de parcare.",
+            "en": "Experience a relaxing swim at this tranquil beach located just north of the city center, and arrive before midday to easily find parking near the highway exit."
+          }
+        },
+        {
+          "name": {
+            "de": "la Platjola",
+            "hu": "la Platjola",
+            "ro": "la Platjola",
+            "en": "la Platjola"
+          },
+          "coords": [
+            2.628923,
+            41.602593
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem stark geschützten Naturstrand, an dem Hunde willkommen sind, und respektieren Sie die Umweltregeln für seine raue Schönheit.",
+            "hu": "Fejezze be tengerparti utazását ezen a szigorúan védett kutyabarát természetes strandon, és tartsa be a környezetvédelmi szabályokat a szépség megőrzéséért.",
+            "ro": "Încheiați-vă călătoria pe această plajă naturală protejată care acceptă câini și respectați regulile locale de mediu pentru a-i păstra frumusețea brută.",
+            "en": "End your coastal journey at this highly protected natural beach that welcomes dogs, and respect the local environmental rules to preserve its raw beauty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Turó d'en Maresme und danach zum Puig de Popa, um die raue Naturlandschaft der Region zu erleben. Fahren Sie mittags in die Stadt hinab, um die atemberaubende modernistische Architektur der Casa del 1905 zu bewundern. Verbringen Sie den Nachmittag entspannt am ruhigen Wasser der Platja del Morer. Beenden Sie den Tag mit einem Sonnenuntergang an der la Platjola.",
+        "hu": "Autózzon fel korán a Turó d'en Maresme-re, majd a Puig de Popa felé, hogy megismerje a vidék vadregényes tájait. Délben ereszkedjen le a városba, és csodálja meg a Casa del 1905 lenyűgöző modernista építészetét. Délután pihenjen a Platja del Morer csendes és családbarát partjainál. A napot a békés la Platjola strandon zárhatja a naplemente kíséretében.",
+        "ro": "Conduceți dimineața devreme spre Turó d'en Maresme, apoi spre Puig de Popa pentru a explora peisajele naturale accidentate. La prânz, coborâți în oraș pentru a admira arhitectura modernistă uluitoare a Casei din 1905. Petreceți după-amiaza relaxându-vă pe malurile liniștite de la Platja del Morer. Încheiați ziua admirând apusul pe plaja retrasă la Platjola.",
+        "en": "Drive up early to Turó d'en Maresme for fresh morning air, then navigate to Puig de Popa to experience the area's rugged natural landscape. By midday, head down into town to admire the stunning modernist architecture of Casa del 1905. Spend your afternoon relaxing by the calm, family-friendly waters of Platja del Morer. Finish your day watching the sunset at the serene la Platjola."
+      }
+    }
+  }
+}

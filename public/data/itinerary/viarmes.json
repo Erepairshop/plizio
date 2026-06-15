@@ -1,0 +1,520 @@
+{
+  "city_id": "viarmes",
+  "anchor": {
+    "name": "Viarmes",
+    "coords": [
+      2.3703,
+      49.1278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 3.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Viarmes",
+            "hu": "Mairie de Viarmes",
+            "ro": "Mairie de Viarmes",
+            "en": "Mairie de Viarmes"
+          },
+          "coords": [
+            2.368663,
+            49.125916
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des örtlichen Rathauses, das als administratives Zentrum der Stadt dient, und machen Sie morgens ein Foto, bevor Sie weiterziehen.",
+            "hu": "Csodálja meg a helyi városháza klasszikus építészetét, amely a város adminisztratív központjaként szolgál, és készítsen egy fotót a reggeli fényben, mielőtt tovább indul.",
+            "ro": "Admirați arhitectura clasică a primăriei locale care servește drept inimă administrativă a orașului și faceți o fotografie în lumina dimineții înainte de a explora mai departe.",
+            "en": "Admire the classic architecture of the local town hall which serves as the administrative heart of the city, and capture a photo in the morning light before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            2.369601,
+            49.12558
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese wunderschöne historische Kirche, die für ihre ruhige Atmosphäre und die atemberaubenden Buntglasfenster bekannt ist, und achten Sie auf Choraufführungen.",
+            "hu": "Fedezze fel ezt a gyönyörű történelmi templomot, amely békés légköréről és lenyűgöző ólomüveg ablakairól ismert, és érdemes megnézni a helyi kórusok fellépéseinek idejét.",
+            "ro": "Explorați această frumoasă biserică istorică, cunoscută pentru atmosfera sa senină și vitraliile uimitoare, și asigurați-vă că verificați panoul informativ pentru concerte.",
+            "en": "Explore this beautiful historic church known for its serene atmosphere and stunning stained glass windows, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Ladre Fountain",
+            "hu": "Saint-Ladre Fountain",
+            "ro": "Saint-Ladre Fountain",
+            "en": "Saint-Ladre Fountain"
+          },
+          "coords": [
+            2.374541,
+            49.124762
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten historischen Brunnen, der einst die Stadtbewohner mit lebenswichtigem Wasser versorgte, und füllen Sie hier Ihre eigene wiederverwendbare Flasche.",
+            "hu": "Csodálja meg ezt az ősi történelmi szökőkutat, amely egykor ivóvízzel látta el a városlakókat, és töltsön friss vizet a saját újrahasználható palackjába, amíg megpihen.",
+            "ro": "Minunați-vă de această fântână istorică străveche care odată oferea apă esențială orășenilor și aduceți-vă propria sticlă reutilizabilă pentru a o umple în timp ce vă odihniți.",
+            "en": "Marvel at this ancient historical fountain that once provided essential water to the townsfolk, and bring your own reusable bottle to fill up with fresh water while resting."
+          }
+        },
+        {
+          "name": {
+            "de": "La motte Féodale",
+            "hu": "La motte Féodale",
+            "ro": "La motte Féodale",
+            "en": "La motte Féodale"
+          },
+          "coords": [
+            2.34799,
+            49.126776
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer mittelalterlichen Turmhügelburg, die Einblick in die feudale Vergangenheit gibt, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel egy középkori földvár maradványait, amelyek bepillantást engednek a régió hűbéri múltjába, és viseljen kényelmes túracipőt a kissé egyenetlen terep miatt.",
+            "ro": "Descoperiți rămășițele unui castel medieval care oferă o perspectivă asupra trecutului feudal al regiunii și purtați pantofi de mers rezistenți pentru terenul ușor accidentat.",
+            "en": "Discover the remnants of a medieval motte-and-bailey castle offering insight into the region's feudal past, and wear sturdy walking shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Touteville",
+            "hu": "Château de Touteville",
+            "ro": "Château de Touteville",
+            "en": "Château de Touteville"
+          },
+          "coords": [
+            2.357569,
+            49.131166
+          ],
+          "category": "castle",
+          "arrive_at": "13:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das beeindruckende Gelände dieses majestätischen Schlosses, um seine Architektur zu würdigen, und kommen Sie am frühen Nachmittag, um den Massen auszuweichen.",
+            "hu": "Sétáljon végig ennek a fenséges kastélynak a lenyűgöző birtokán, hogy megcsodálja nemesi építészetét, és érkezzen kora délután, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Plimbați-vă pe terenurile impresionante ale acestui castel maiestuos pentru a-i aprecia arhitectura nobilă și ajungeți la începutul după-amiezii pentru a evita aglomerația.",
+            "en": "Wander around the impressive grounds of this majestic castle to appreciate its noble architecture, and arrive early in the afternoon to avoid the larger tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im charmanten Zentrum und bewundern Sie das Rathaus und die atemberaubende Kirche.\nGegen Mittag spazieren Sie zum historischen Saint-Ladre-Brunnen und genießen die malerischen Straßen.\nAm Nachmittag besuchen Sie die mittelalterlichen Überreste von La motte Féodale und das nahegelegene Schloss.\nBeenden Sie Ihren angenehmen Rundgang gegen Abend und nehmen Sie unvergessliche Erinnerungen an Viarmes mit.",
+        "hu": "Kezdje a reggelt a bájos központban, megcsodálva a városházát és a lenyűgöző Saint-Pierre templomot.\nDélben sétáljon el a történelmi Saint-Ladre szökőkúthoz, magába szívva a festői utcák hangulatát.\nDélután induljon a középkori La motte Féodale romjai felé, majd fedezze fel a fenséges kastélyt.\nZárja kellemes gyalogtúráját a közeledő estével, életre szóló emlékeket szerezve Viarmes festői városáról.",
+        "ro": "Începeți dimineața în centrul fermecător, admirând primăria și uimitoarea biserică Saint-Pierre.\nLa amiază, plimbați-vă până la fântâna istorică Saint-Ladre, bucurându-vă de peisajele stradale pitorești.\nDupă-amiaza, îndreptați-vă spre rămășițele medievale ale La motte Féodale înainte de a descoperi castelul.\nÎncheiați-vă turul plăcut pe măsură ce se apropie seara, lăsându-vă cu amintiri de neuitat din Viarmes.",
+        "en": "Start your morning in the charming center, admiring the landmark Mairie and the stunning Saint-Pierre church.\nBy midday, wander over to the historic Saint-Ladre Fountain, soaking in the quaint streetscapes.\nIn the afternoon, head toward the medieval remnants of La motte Féodale before uncovering the nearby majestic Château.\nConclude your pleasant walking tour as the evening approaches, leaving you with lasting memories of Viarmes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 7.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Viarmes",
+            "hu": "Mairie de Viarmes",
+            "ro": "Mairie de Viarmes",
+            "en": "Mairie de Viarmes"
+          },
+          "coords": [
+            2.368663,
+            49.125916
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des örtlichen Rathauses, das als administratives Zentrum der Stadt dient, und machen Sie morgens ein Foto, bevor Sie weiterziehen.",
+            "hu": "Csodálja meg a helyi városháza klasszikus építészetét, amely a város adminisztratív központjaként szolgál, és készítsen egy fotót a reggeli fényben, mielőtt tovább indul.",
+            "ro": "Admirați arhitectura clasică a primăriei locale care servește drept inimă administrativă a orașului și faceți o fotografie în lumina dimineții înainte de a explora mai departe.",
+            "en": "Admire the classic architecture of the local town hall which serves as the administrative heart of the city, and capture a photo in the morning light before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            2.369601,
+            49.12558
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese wunderschöne historische Kirche, die für ihre ruhige Atmosphäre und die atemberaubenden Buntglasfenster bekannt ist, und achten Sie auf Choraufführungen.",
+            "hu": "Fedezze fel ezt a gyönyörű történelmi templomot, amely békés légköréről és lenyűgöző ólomüveg ablakairól ismert, és érdemes megnézni a helyi kórusok fellépéseinek idejét.",
+            "ro": "Explorați această frumoasă biserică istorică, cunoscută pentru atmosfera sa senină și vitraliile uimitoare, și asigurați-vă că verificați panoul informativ pentru concerte.",
+            "en": "Explore this beautiful historic church known for its serene atmosphere and stunning stained glass windows, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Ladre Fountain",
+            "hu": "Saint-Ladre Fountain",
+            "ro": "Saint-Ladre Fountain",
+            "en": "Saint-Ladre Fountain"
+          },
+          "coords": [
+            2.374541,
+            49.124762
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten historischen Brunnen, der einst die Stadtbewohner mit lebenswichtigem Wasser versorgte, und füllen Sie hier Ihre eigene wiederverwendbare Flasche.",
+            "hu": "Csodálja meg ezt az ősi történelmi szökőkutat, amely egykor ivóvízzel látta el a városlakókat, és töltsön friss vizet a saját újrahasználható palackjába, amíg megpihen.",
+            "ro": "Minunați-vă de această fântână istorică străveche care odată oferea apă esențială orășenilor și aduceți-vă propria sticlă reutilizabilă pentru a o umple în timp ce vă odihniți.",
+            "en": "Marvel at this ancient historical fountain that once provided essential water to the townsfolk, and bring your own reusable bottle to fill up with fresh water while resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.392782,
+            49.120286
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre feinen Steindetails und den friedlichen Altar zu betrachten, und denken Sie daran, aus Respekt vor Gläubigen leise zu sein.",
+            "hu": "Lépjen be ebbe a nyugodt vallási helyszínbe, hogy megfigyelje a finoman megmunkált kőrészleteket, és ne felejtsen el halkan beszélni a hívők tiszteletben tartása érdekében.",
+            "ro": "Pășiți în interiorul acestui loc religios liniștit pentru a observa detaliile sale din piatră fin lucrate și amintiți-vă să păstrați liniștea din respect pentru credincioși.",
+            "en": "Step inside this tranquil religious site to observe its finely crafted stone details and peaceful altar, and remember to keep your voice down out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Touteville",
+            "hu": "Château de Touteville",
+            "ro": "Château de Touteville",
+            "en": "Château de Touteville"
+          },
+          "coords": [
+            2.357569,
+            49.131166
+          ],
+          "category": "castle",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.79,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das beeindruckende Gelände dieses majestätischen Schlosses, um seine Architektur zu würdigen, und kommen Sie am frühen Nachmittag, um den Massen auszuweichen.",
+            "hu": "Sétáljon végig ennek a fenséges kastélynak a lenyűgöző birtokán, hogy megcsodálja nemesi építészetét, és érkezzen kora délután, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Plimbați-vă pe terenurile impresionante ale acestui castel maiestuos pentru a-i aprecia arhitectura nobilă și ajungeți la începutul după-amiezii pentru a evita aglomerația.",
+            "en": "Wander around the impressive grounds of this majestic castle to appreciate its noble architecture, and arrive early in the afternoon to avoid the larger tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            2.35564,
+            49.132016
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Pfarrkirche, die einen besonderen Baustil aus dem Mittelalter aufweist, und bringen Sie eine kleine Spende für eine Kerze mit.",
+            "hu": "Látogasson el ebbe a bájos történelmi plébániára, amely a középkor különleges építészeti stílusát mutatja be, és hozzon magával aprópénzt, ha gyertyát szeretne gyújtani.",
+            "ro": "Vizitați această fermecătoare parohie istorică care prezintă un stil arhitectural distinct din epoca medievală și aduceți o mică donație dacă doriți să aprindeți o lumânare.",
+            "en": "Visit this charming historic parish showcasing a distinct architectural style from the medieval era, and bring a small donation if you wish to light a candle in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Carnelle Forest",
+            "hu": "Carnelle Forest",
+            "ro": "Carnelle Forest",
+            "en": "Carnelle Forest"
+          },
+          "coords": [
+            2.320063,
+            49.124834
+          ],
+          "category": "natural",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.66,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das üppige Grün dieses weitläufigen Naturwaldes, der sich perfekt für einen Spaziergang eignet, und halten Sie Ausschau nach verschiedenen heimischen Vogelarten.",
+            "hu": "Merüljön el ennek a hatalmas természetes erdőnek a buja zöldjében, amely tökéletes egy pihentető sétához, és tartsa nyitva a szemét a változatos helyi madárfajok megfigyelésére.",
+            "ro": "Cufundați-vă în verdeața luxuriantă a acestei păduri naturale expansive, perfectă pentru o plimbare relaxantă, și fiți cu ochii în patru pentru a observa speciile de păsări.",
+            "en": "Immerse yourself in the lush greenery of this expansive natural forest perfect for a relaxing afternoon stroll, and keep an eye out for the diverse local bird species above."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt in der Nähe des Rathauses und führt Sie zu den schönen örtlichen Kirchen im Morgenlicht.\nGegen Mittag radeln Sie vom historischen Brunnen zur ruhigeren Kirche Saint-Martin durch die Stadt.\nDer Nachmittag bringt eine Fahrt zum edlen Château de Touteville und zur malerischen Église Saint-Rémi.\nBeenden Sie Ihr Fahrradabenteuer mit einer erfrischenden Fahrt in den ruhigen Wald von Carnelle vor Einbruch der Dunkelheit.",
+        "hu": "Kerékpáros napja a városháza közelében kezdődik, érintve a helyi templomokat a csodás reggeli fényben.\nDél körül tekerjen át a városon a történelmi szökőkúttól a csendesebb Église Saint-Martin felé.\nA délután egy festői utat tartogat a Château de Touteville kastélyhoz és a bájos Église Saint-Rémihez.\nFejezze be kerékpáros kalandját egy frissítő tekeréssel a békés Carnelle-erdőbe, még sötétedés előtt.",
+        "ro": "Ziua de ciclism începe lângă Primărie, vizitând frumoasele biserici locale în lumina liniștită a dimineții.\nÎn jurul prânzului, pedalați prin oraș de la fântâna istorică spre mai liniștita Biserică Saint-Martin.\nDupă-amiaza aduce o plimbare pitorească la nobilul Château de Touteville și pitoreasca Biserică Saint-Rémi.\nÎncheiați-vă aventura cu bicicleta cu o plimbare revigorantă în liniștita Pădure Carnelle înainte de amurg.",
+        "en": "Your cycling day kicks off near the Mairie, taking in the beautiful local churches in the morning light.\nAround midday, pedal across town from the historical fountain towards the quieter Église Saint-Martin.\nThe afternoon brings a scenic ride to the noble Château de Touteville and the quaint Église Saint-Rémi.\nFinish your biking adventure with a refreshing ride into the tranquil Carnelle Forest before dusk falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 10.28,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Viarmes",
+            "hu": "Mairie de Viarmes",
+            "ro": "Mairie de Viarmes",
+            "en": "Mairie de Viarmes"
+          },
+          "coords": [
+            2.368663,
+            49.125916
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des örtlichen Rathauses, das als administratives Zentrum der Stadt dient, und machen Sie morgens ein Foto, bevor Sie weiterziehen.",
+            "hu": "Csodálja meg a helyi városháza klasszikus építészetét, amely a város adminisztratív központjaként szolgál, és készítsen egy fotót a reggeli fényben, mielőtt tovább indul.",
+            "ro": "Admirați arhitectura clasică a primăriei locale care servește drept inimă administrativă a orașului și faceți o fotografie în lumina dimineții înainte de a explora mai departe.",
+            "en": "Admire the classic architecture of the local town hall which serves as the administrative heart of the city, and capture a photo in the morning light before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            2.369601,
+            49.12558
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese wunderschöne historische Kirche, die für ihre ruhige Atmosphäre und die atemberaubenden Buntglasfenster bekannt ist, und achten Sie auf Choraufführungen.",
+            "hu": "Fedezze fel ezt a gyönyörű történelmi templomot, amely békés légköréről és lenyűgöző ólomüveg ablakairól ismert, és érdemes megnézni a helyi kórusok fellépéseinek idejét.",
+            "ro": "Explorați această frumoasă biserică istorică, cunoscută pentru atmosfera sa senină și vitraliile uimitoare, și asigurați-vă că verificați panoul informativ pentru concerte.",
+            "en": "Explore this beautiful historic church known for its serene atmosphere and stunning stained glass windows, and be sure to check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Ladre Fountain",
+            "hu": "Saint-Ladre Fountain",
+            "ro": "Saint-Ladre Fountain",
+            "en": "Saint-Ladre Fountain"
+          },
+          "coords": [
+            2.374541,
+            49.124762
+          ],
+          "category": "historical",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten historischen Brunnen, der einst die Stadtbewohner mit lebenswichtigem Wasser versorgte, und füllen Sie hier Ihre eigene wiederverwendbare Flasche.",
+            "hu": "Csodálja meg ezt az ősi történelmi szökőkutat, amely egykor ivóvízzel látta el a városlakókat, és töltsön friss vizet a saját újrahasználható palackjába, amíg megpihen.",
+            "ro": "Minunați-vă de această fântână istorică străveche care odată oferea apă esențială orășenilor și aduceți-vă propria sticlă reutilizabilă pentru a o umple în timp ce vă odihniți.",
+            "en": "Marvel at this ancient historical fountain that once provided essential water to the townsfolk, and bring your own reusable bottle to fill up with fresh water while resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.392782,
+            49.120286
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre feinen Steindetails und den friedlichen Altar zu betrachten, und denken Sie daran, aus Respekt vor Gläubigen leise zu sein.",
+            "hu": "Lépjen be ebbe a nyugodt vallási helyszínbe, hogy megfigyelje a finoman megmunkált kőrészleteket, és ne felejtsen el halkan beszélni a hívők tiszteletben tartása érdekében.",
+            "ro": "Pășiți în interiorul acestui loc religios liniștit pentru a observa detaliile sale din piatră fin lucrate și amintiți-vă să păstrați liniștea din respect pentru credincioși.",
+            "en": "Step inside this tranquil religious site to observe its finely crafted stone details and peaceful altar, and remember to keep your voice down out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de Royaumont",
+            "hu": "Abbaye de Royaumont",
+            "ro": "Abbaye de Royaumont",
+            "en": "Abbaye de Royaumont"
+          },
+          "coords": [
+            2.382018,
+            49.147504
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.11,
+          "tip_5lang": {
+            "de": "Erleben Sie die Pracht dieser ehemaligen Zisterzienserabtei, die für ihre gotischen Ruinen bekannt ist, und buchen Sie eine Führung für einen tieferen historischen Kontext.",
+            "hu": "Tapasztalja meg ennek az egykori ciszterci apátságnak a nagyszerűségét, amely híres gótikus romjairól és kertjeiről, és fontolja meg egy vezetett túra lefoglalását is.",
+            "ro": "Experimentați măreția acestei foste abații cisterciene renumite pentru ruinele sale gotice și grădinile minunate și luați în considerare rezervarea unui tur ghidat detaliat.",
+            "en": "Experience the grandeur of this former Cistercian abbey renowned for its Gothic ruins and lovely gardens, and consider booking a guided tour for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Touteville",
+            "hu": "Château de Touteville",
+            "ro": "Château de Touteville",
+            "en": "Château de Touteville"
+          },
+          "coords": [
+            2.357569,
+            49.131166
+          ],
+          "category": "castle",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.51,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das beeindruckende Gelände dieses majestätischen Schlosses, um seine Architektur zu würdigen, und kommen Sie am frühen Nachmittag, um den Massen auszuweichen.",
+            "hu": "Sétáljon végig ennek a fenséges kastélynak a lenyűgöző birtokán, hogy megcsodálja nemesi építészetét, és érkezzen kora délután, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Plimbați-vă pe terenurile impresionante ale acestui castel maiestuos pentru a-i aprecia arhitectura nobilă și ajungeți la începutul după-amiezii pentru a evita aglomerația.",
+            "en": "Wander around the impressive grounds of this majestic castle to appreciate its noble architecture, and arrive early in the afternoon to avoid the larger tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            2.35564,
+            49.132016
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Pfarrkirche, die einen besonderen Baustil aus dem Mittelalter aufweist, und bringen Sie eine kleine Spende für eine Kerze mit.",
+            "hu": "Látogasson el ebbe a bájos történelmi plébániára, amely a középkor különleges építészeti stílusát mutatja be, és hozzon magával aprópénzt, ha gyertyát szeretne gyújtani.",
+            "ro": "Vizitați această fermecătoare parohie istorică care prezintă un stil arhitectural distinct din epoca medievală și aduceți o mică donație dacă doriți să aprindeți o lumânare.",
+            "en": "Visit this charming historic parish showcasing a distinct architectural style from the medieval era, and bring a small donation if you wish to light a candle in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Carnelle Forest",
+            "hu": "Carnelle Forest",
+            "ro": "Carnelle Forest",
+            "en": "Carnelle Forest"
+          },
+          "coords": [
+            2.320063,
+            49.124834
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.66,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das üppige Grün dieses weitläufigen Naturwaldes, der sich perfekt für einen Spaziergang eignet, und halten Sie Ausschau nach verschiedenen heimischen Vogelarten.",
+            "hu": "Merüljön el ennek a hatalmas természetes erdőnek a buja zöldjében, amely tökéletes egy pihentető sétához, és tartsa nyitva a szemét a változatos helyi madárfajok megfigyelésére.",
+            "ro": "Cufundați-vă în verdeața luxuriantă a acestei păduri naturale expansive, perfectă pentru o plimbare relaxantă, și fiți cu ochii în patru pentru a observa speciile de păsări.",
+            "en": "Immerse yourself in the lush greenery of this expansive natural forest perfect for a relaxing afternoon stroll, and keep an eye out for the diverse local bird species above."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Brechen Sie früh im Zentrum auf, um das Rathaus und die angrenzenden Kirchen ohne große Menschenmengen zu sehen.\nFahren Sie mittags etwas weiter zur prächtigen Abbaye de Royaumont, einem wahren Highlight der Region.\nVerbringen Sie den Nachmittag damit, zwischen dem Château de Touteville und der Église Saint-Rémi zu pendeln.\nBeenden Sie Ihre Tour, indem Sie nahe dem Wald von Carnelle für einen ruhigen Spaziergang in der Natur parken.",
+        "hu": "Induljon korán a központból, hogy még a tömeg előtt megnézze a városházát és a szomszédos templomokat.\nDélben vezessen kicsit távolabb a csodálatos Abbaye de Royaumont apátsághoz, a régió egyik fénypontjához.\nTöltse a délutánt a lenyűgöző Château de Touteville és a történelmi Église Saint-Rémi közötti ingázással.\nZárja autós túráját a Carnelle-erdő melletti parkolással, egy békés késő délutáni sétával a természetben.",
+        "ro": "Porniți devreme în centru pentru a vedea rapid primăria și bisericile adiacente înainte de a sosi mulțimile.\nLa amiază, conduceți puțin mai departe spre magnifica Abbaye de Royaumont, un adevărat punct de atracție.\nPetreceți-vă după-amiaza explorând impresionantul Château de Touteville și istorica Biserică Saint-Rémi.\nÎncheiați turul conducând spre Pădurea Carnelle pentru o plimbare liniștită de seară în mijlocul naturii.",
+        "en": "Set out early in the center to quickly see the Mairie and adjacent churches before the crowds arrive.\nAt midday, drive slightly further to the magnificent Abbaye de Royaumont, a true highlight of the region.\nSpend your afternoon hopping between the impressive Château de Touteville and the historic Église Saint-Rémi.\nWrap up your driving tour by parking near Carnelle Forest for a serene late-afternoon walk in nature."
+      }
+    }
+  }
+}

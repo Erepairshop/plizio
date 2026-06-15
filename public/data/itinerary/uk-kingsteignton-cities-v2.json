@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-kingsteignton-cities-v2",
+  "anchor": {
+    "name": "Kingsteignton",
+    "coords": [
+      -3.5962,
+      50.5458
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Michael's Church",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica St Michael",
+            "en": "St Michael's Church"
+          },
+          "coords": [
+            -3.595691,
+            50.54564
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur und den historischen Turm dieser friedlichen Pfarrkirche, aber achten Sie auf dem Aushang auf die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a békés plébániatemplom lenyűgöző középkori építészetét és történelmi tornyát, de belépés előtt feltétlenül ellenőrizze a helyi istentiszteletek idejét a hirdetőtáblán.",
+            "ro": "Admirați arhitectura medievală impresionantă și turnul istoric al acestei biserici parohiale liniștite, dar nu uitați să verificați orarul slujbelor locale înainte de a intra.",
+            "en": "Admire the striking medieval architecture and historic tower of this peaceful parish church, but remember to check the noticeboard for local community service times before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Oakford Lawn",
+            "hu": "Oakford Lawn",
+            "ro": "Oakford Lawn",
+            "en": "Oakford Lawn"
+          },
+          "coords": [
+            -3.598285,
+            50.546369
+          ],
+          "category": "park",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang über die weitläufige Grünfläche dieses beliebten zentralen Parks und bringen Sie eine kleine Picknickdecke mit, um sich auszuruhen.",
+            "hu": "Élvezze a pihentető sétát e kedvelt központi park hatalmas zöldterületén, és mindenképpen hozzon magával egy kis pikniktakarót, hogy kényelmesen megpihenhessen a fák árnyékában.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiul verde vast al acestui parc central îndrăgit și aduceți o pătură de picnic pentru a vă odihni confortabil la umbra copacilor maturi.",
+            "en": "Enjoy a relaxing stroll across the expansive green space of this beloved central park, and bring a small picnic blanket to comfortably rest under the shade of the mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Kingsteignton Town Hall",
+            "hu": "Kingsteignton Városháza",
+            "ro": "Primăria Kingsteignton",
+            "en": "Kingsteignton Town Hall"
+          },
+          "coords": [
+            -3.592576,
+            50.552575
+          ],
+          "category": "civic",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische zivile Fassade dieses wichtigen lokalen Verwaltungszentrums und nehmen Sie sich Zeit für die historischen Gedenktafeln am Eingang.",
+            "hu": "Figyelje meg e fontos helyi közigazgatási központ klasszikus polgári homlokzatát, és szánjon egy percet a bejárat melletti, a város gazdag örökségét bemutató történelmi táblákra.",
+            "ro": "Observați fațada civică clasică a acestui important centru administrativ local, alocând un moment pentru a citi plăcile istorice de lângă intrare care detaliază patrimoniul bogat.",
+            "en": "Observe the classic civic facade of this important local administrative center, taking a moment to read the historical plaques near the entrance that detail the town's rich heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Hackney Marshes",
+            "hu": "Hackney Marshes",
+            "ro": "Hackney Marshes",
+            "en": "Hackney Marshes"
+          },
+          "coords": [
+            -3.59139,
+            50.5408
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die ruhigen Feuchtgebiete voller vielfältiger lokaler Vogelwelt und lebhafter Flora und tragen Sie festes, wasserdichtes Schuhwerk für die teils schlammigen Wege.",
+            "hu": "Sétáljon a változatos helyi madárvilággal és élénk növényvilággal teli, nyugodt vizenyős területeken, és ügyeljen arra, hogy strapabíró, vízálló lábbelit viseljen a sáros ösvényeken.",
+            "ro": "Plimbați-vă de-a lungul zonelor umede liniștite, pline de păsări locale diverse și floră vibrantă, asigurându-vă că purtați încălțăminte impermeabilă pe potecile noroioase.",
+            "en": "Wander along the tranquil wetlands teeming with diverse local birdlife and vibrant flora, ensuring you wear sturdy waterproof footwear to navigate the occasionally muddy walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Teigngrace Canal",
+            "hu": "Teigngrace-csatorna",
+            "ro": "Canalul Teigngrace",
+            "en": "Teigngrace Canal"
+          },
+          "coords": [
+            -3.610036,
+            50.541912
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Folgen Sie den Überresten dieser faszinierenden historischen Wasserstraße, die einst die lokale Tonindustrie antrieb, und achten Sie auf die alten Schleusen am Wegesrand.",
+            "hu": "Fedezze fel e lenyűgöző történelmi vízi út maradványait, amely egykor a helyi agyagipart táplálta, és tartsa nyitva a szemét a régi zsilipekre, miközben végigsétál a csatorna partján.",
+            "ro": "Explorați rămășițele acestei fascinante căi navigabile istorice care a alimentat odată industria locală a argilei, căutând vechile ecluze în timp ce vă plimbați cu atenție pe mal.",
+            "en": "Trace the remnants of this fascinating historical waterway that once fueled the local clay industry, keeping an eye out for the old locks while strolling carefully along the towpath."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen unseren Spaziergang in Kingsteignton an der historischen St. Michael's Church und genießen anschließend die frische Morgenluft auf den weitläufigen Grünflächen von Oakford Lawn.\nMittag: Gegen Mittag bewundern wir die formale Architektur der Kingsteignton Town Hall und denken über die Geschichte der Gemeinde nach, bevor wir weiter in die Natur ziehen.\nNachmittag: Der Nachmittag ist den friedlichen Hackney Marshes gewidmet, wo wir in die lokale Flora und Fauna eintauchen und dem städtischen Trubel für einige ruhige Stunden entfliehen.\nAbend: Wir beenden unseren Rundgang am historischen Teigngrace Canal und lassen die industrielle Vergangenheit der Region auf uns wirken, während die Sonne langsam untergeht.",
+        "hu": "Reggel: Kingsteigntoni sétánkat a történelmi Szent Mihály-templomnál kezdjük, majd az Oakford Lawn nyílt zöldterületeire indulunk, hogy élvezzük a friss, ropogós reggeli levegőt.\nDél: A dél közeledtével megcsodáljuk a városháza klasszikus építészetét, elmerülve a közösség polgári történelmében, mielőtt tovább indulnánk dél felé, a természet ölelésébe.\nDélután: A délutánt a békés Hackney Marshes-nek szenteljük, ahol teljesen elmerülhetünk a helyi növény- és állatvilágban, néhány órára magunk mögött hagyva a város zaját.\nEste: Sétatúránkat a történelmi Teigngrace-csatornánál zárjuk, a régió gazdag ipari múltján merengve, miközben a nap lassan lenyugszik a szelíd víztükör felett.",
+        "ro": "Dimineața: Începem plimbarea noastră la biserica istorică St Michael, stabilind un ton liniștit, înainte de a ne îndrepta spre spațiile verzi deschise din Oakford Lawn pentru a ne relaxa.\nAmiaza: Pe măsură ce se apropie prânzul, admirăm arhitectura oficială a Primăriei, reflectând la istoria civică a comunității înainte de a ne îndrepta mai spre sud în natură.\nDupă-amiaza: După-amiaza este dedicată mlaștinilor pașnice Hackney, unde ne putem cufunda în flora și fauna locală, evadând din agitația urbană pentru câteva ore liniștite.\nSeara: Încheiem turul nostru pietonal la istoricul Canal Teigngrace, reflectând la trecutul industrial al regiunii în timp ce soarele începe să apună peste apele blânde.",
+        "en": "Morning: We begin our Kingsteignton stroll at the historic St Michael's Church, setting a tranquil tone before heading to the open green spaces of Oakford Lawn to enjoy the morning air.\nMidday: As noon approaches, we admire the formal architecture of the Kingsteignton Town Hall, reflecting on the community's civic history before heading further south into nature.\nAfternoon: The afternoon is dedicated to the peaceful Hackney Marshes, where we can immerse ourselves in the local flora and fauna, escaping the urban bustle for a few peaceful hours.\nEvening: We conclude our walking tour at the historic Teigngrace Canal, reflecting on the region's industrial past as the sun begins to set over the gentle waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kingsteignton Town Hall",
+            "hu": "Kingsteignton Városháza",
+            "ro": "Primăria Kingsteignton",
+            "en": "Kingsteignton Town Hall"
+          },
+          "coords": [
+            -3.592576,
+            50.552575
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische zivile Fassade dieses wichtigen lokalen Verwaltungszentrums und nehmen Sie sich Zeit für die historischen Gedenktafeln am Eingang.",
+            "hu": "Figyelje meg e fontos helyi közigazgatási központ klasszikus polgári homlokzatát, és szánjon egy percet a bejárat melletti, a város gazdag örökségét bemutató történelmi táblákra.",
+            "ro": "Observați fațada civică clasică a acestui important centru administrativ local, alocând un moment pentru a citi plăcile istorice de lângă intrare care detaliază patrimoniul bogat.",
+            "en": "Observe the classic civic facade of this important local administrative center, taking a moment to read the historical plaques near the entrance that detail the town's rich heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael's Church",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica St Michael",
+            "en": "St Michael's Church"
+          },
+          "coords": [
+            -3.595691,
+            50.54564
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur und den historischen Turm dieser friedlichen Pfarrkirche, aber achten Sie auf dem Aushang auf die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a békés plébániatemplom lenyűgöző középkori építészetét és történelmi tornyát, de belépés előtt feltétlenül ellenőrizze a helyi istentiszteletek idejét a hirdetőtáblán.",
+            "ro": "Admirați arhitectura medievală impresionantă și turnul istoric al acestei biserici parohiale liniștite, dar nu uitați să verificați orarul slujbelor locale înainte de a intra.",
+            "en": "Admire the striking medieval architecture and historic tower of this peaceful parish church, but remember to check the noticeboard for local community service times before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Oakford Lawn",
+            "hu": "Oakford Lawn",
+            "ro": "Oakford Lawn",
+            "en": "Oakford Lawn"
+          },
+          "coords": [
+            -3.598285,
+            50.546369
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang über die weitläufige Grünfläche dieses beliebten zentralen Parks und bringen Sie eine kleine Picknickdecke mit, um sich auszuruhen.",
+            "hu": "Élvezze a pihentető sétát e kedvelt központi park hatalmas zöldterületén, és mindenképpen hozzon magával egy kis pikniktakarót, hogy kényelmesen megpihenhessen a fák árnyékában.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiul verde vast al acestui parc central îndrăgit și aduceți o pătură de picnic pentru a vă odihni confortabil la umbra copacilor maturi.",
+            "en": "Enjoy a relaxing stroll across the expansive green space of this beloved central park, and bring a small picnic blanket to comfortably rest under the shade of the mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Teigngrace Canal",
+            "hu": "Teigngrace-csatorna",
+            "ro": "Canalul Teigngrace",
+            "en": "Teigngrace Canal"
+          },
+          "coords": [
+            -3.610036,
+            50.541912
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Folgen Sie den Überresten dieser faszinierenden historischen Wasserstraße, die einst die lokale Tonindustrie antrieb, und achten Sie beim Radfahren auf die alten Schleusen.",
+            "hu": "Fedezze fel e lenyűgöző történelmi vízi út maradványait, amely egykor a helyi agyagipart táplálta, és tartsa nyitva a szemét a régi zsilipekre, miközben óvatosan kerékpározik.",
+            "ro": "Explorați rămășițele acestei fascinante căi navigabile istorice care a alimentat odată industria locală a argilei, căutând vechile ecluze în timp ce vă plimbați cu atenție pe mal.",
+            "en": "Trace the remnants of this fascinating historical waterway that once fueled the local clay industry, keeping an eye out for the old locks while cycling carefully along the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Jetty Marsh Teenage Area",
+            "hu": "Jetty Marsh Tinédzser Zóna",
+            "ro": "Zona pentru Tineri Jetty Marsh",
+            "en": "Jetty Marsh Teenage Area"
+          },
+          "coords": [
+            -3.611613,
+            50.53708
+          ],
+          "category": "family",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Lassen Sie ältere Kinder in dieser speziellen Erholungszone mit modernen Außenanlagen überschüssige Energie abbauen, aber besuchen Sie sie früh, um den Trubel zu meiden.",
+            "hu": "Hagyja, hogy az idősebb gyerekek levezessék az energiájukat ebben a modern szabadtéri létesítményekkel felszerelt rekreációs zónában, de látogasson el korábban a nyugalomért.",
+            "ro": "Lăsați copiii mai mari să-și consume energia în această zonă de recreere dotată cu facilități moderne în aer liber, dar vizitați-o mai devreme pentru a evita aglomerația.",
+            "en": "Let the older kids burn off energy at this specialized recreation zone equipped with modern outdoor facilities, but visit earlier in the day to avoid the busy after-school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Hackney Marshes",
+            "hu": "Hackney Marshes",
+            "ro": "Hackney Marshes",
+            "en": "Hackney Marshes"
+          },
+          "coords": [
+            -3.59139,
+            50.5408
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die ruhigen Feuchtgebiete voller vielfältiger lokaler Vogelwelt und lebhafter Flora und tragen Sie festes, wasserdichtes Schuhwerk für die teils schlammigen Wege.",
+            "hu": "Sétáljon a változatos helyi madárvilággal és élénk növényvilággal teli, nyugodt vizenyős területeken, és ügyeljen arra, hogy strapabíró, vízálló lábbelit viseljen a sáros ösvényeken.",
+            "ro": "Plimbați-vă de-a lungul zonelor umede liniștite, pline de păsări locale diverse și floră vibrantă, asigurându-vă că purtați încălțăminte impermeabilă pe potecile noroioase.",
+            "en": "Wander along the tranquil wetlands teeming with diverse local birdlife and vibrant flora, ensuring you wear sturdy waterproof footwear to navigate the occasionally muddy walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Courtney park playground",
+            "hu": "Courtney Park Játszótér",
+            "ro": "Teren de Joacă Courtney Park",
+            "en": "Courtney park playground"
+          },
+          "coords": [
+            -3.6018,
+            50.529536
+          ],
+          "category": "family",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Sehen Sie den Kleinen auf den farbenfrohen Klettergerüsten dieses einladenden Familienbereichs zu und holen Sie sich einen Kaffee zum Mitnehmen, um ihn auf den Bänken zu trinken.",
+            "hu": "Figyelje, ahogy a kicsik élvezik a színes mászókákat és csúszdákat ezen a barátságos családi téren, miközben elvitelre kér egy kávét a közeli kávézóból, hogy a padokon iszogathassa.",
+            "ro": "Priviți-i pe cei mici cum se bucură de structurile colorate de cățărat din acest spațiu familial primitor, în timp ce savurați o cafea la pachet pe băncile disponibile în apropiere.",
+            "en": "Watch the little ones enjoy the colorful climbing frames and slides at this welcoming family space, while grabbing a takeaway coffee from a nearby cafe to sip on the available benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir starten unsere morgendliche Radtour am Rathaus und radeln schnell zur historischen St. Michael's Church, um die friedliche Atmosphäre der frühen Stunden in uns aufzunehmen.\nMittag: Wir setzen unsere Fahrt fort, entspannen auf dem Oakford Lawn und radeln dann zum Teigngrace Canal, um die historischen Routen der boomenden Tonindustrie der Gegend zu erkunden.\nNachmittag: Die Fahrt wird aktiver, wenn wir die Jetty Marsh Teenage Area passieren und uns dann durch die natürlichen Feuchtgebiete der wunderschönen Hackney Marshes schlängeln.\nAbend: Wir beenden unseren Tag auf zwei Rädern auf dem Spielplatz im Courtney Park, einem perfekten Ort, um die Beine auszuruhen, während die Abendschatten länger werden.",
+        "hu": "Reggel: Pattanjon nyeregbe egy festői reggeli bringázáshoz! A Városházától indulunk, és hamarosan a történelmi Szent Mihály-templomhoz érünk, hogy magunkba szívjuk a kora reggeli békét.\nDél: Folytatva utunkat, megpihenünk a tágas Oakford Lawn parkban, majd a Teigngrace-csatornához pedálozunk, hogy kövessük a térség egykori virágzó agyagiparának történelmi útvonalait.\nDélután: Az utazás aktívabbá válik, ahogy elhaladunk a Jetty Marsh tinédzser részleg mellett, majd átkerekezünk a gyönyörű Hackney Marshes természetes, vadregényes vizes élőhelyein.\nEste: A kétkeréken töltött napot a Courtney Park játszóterénél fejezzük be, amely tökéletes hely a kikapcsolódásra és a fáradt lábak pihentetésére a csendes, elnyúló esti árnyékokban.",
+        "ro": "Dimineața: Pregătiți-vă pentru o plimbare matinală cu bicicleta, începând de la Primărie și îndreptându-vă rapid spre istorica Biserică St Michael pentru a absorbi atmosfera liniștită.\nAmiaza: Continuând traseul, ne relaxăm la spațiosul Oakford Lawn înainte de a pedala spre Canalul Teigngrace pentru a urmări rutele istorice ale industriei locale a argilei.\nDupă-amiaza: Călătoria devine mai activă trecând prin Zona pentru Tineri Jetty Marsh, apoi ne croim drum prin potecile naturale și pitorești ale zonelor umede din Hackney Marshes.\nSeara: Ne încheiem ziua pe două roți la terenul de joacă Courtney Park, un loc perfect pentru a ne relaxa și a ne odihni picioarele în timp ce umbrele serii se întind peste cartier.",
+        "en": "Morning: Saddle up for a scenic morning ride through Kingsteignton, starting at the Town Hall and quickly moving to the historic St Michael's Church to absorb the peaceful early atmosphere.\nMidday: Continuing our cycle, we relax at the spacious Oakford Lawn before pedaling out to the Teigngrace Canal to trace the historic routes of the area's booming clay industry.\nAfternoon: The journey becomes more active as we pass the Jetty Marsh Teenage Area, then weave our way through the natural wetland paths of the beautiful Hackney Marshes.\nEvening: We finish our day on two wheels at the Courtney Park playground, a perfect spot to wind down and rest our legs as the evening shadows stretch across the neighborhood."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 10.71,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kingsteignton Clay Pits",
+            "hu": "Kingsteigntoni Agyagbányák",
+            "ro": "Carierele de Argilă Kingsteignton",
+            "en": "Kingsteignton Clay Pits"
+          },
+          "coords": [
+            -3.602429,
+            50.560535
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das immense Ausmaß des historischen Tonabbaus in der Region an diesen faszinierenden Ausgrabungsstätten und bringen Sie ein Fernglas mit, um die Landschaft zu betrachten.",
+            "hu": "Fedezze fel a régió történelmi agyagbányászatának hatalmas léptékét ezeken a lenyűgöző ásatási helyszíneken, és hozzon magával távcsövet, hogy messziről megcsodálhassa a zord tájat.",
+            "ro": "Descoperiți scara imensă a exploatărilor istorice de argilă ale regiunii în aceste situri fascinante, aducând binoclul pentru a aprecia de la distanță peisajul industrial accidentat.",
+            "en": "Discover the immense scale of the region's historic clay mining operations at these fascinating excavated sites, bringing binoculars to appreciate the rugged industrial landscape from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kingsteignton Town Hall",
+            "hu": "Kingsteignton Városháza",
+            "ro": "Primăria Kingsteignton",
+            "en": "Kingsteignton Town Hall"
+          },
+          "coords": [
+            -3.592576,
+            50.552575
+          ],
+          "category": "civic",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische zivile Fassade dieses wichtigen lokalen Verwaltungszentrums und nehmen Sie sich Zeit für die historischen Gedenktafeln am Eingang.",
+            "hu": "Figyelje meg e fontos helyi közigazgatási központ klasszikus polgári homlokzatát, és szánjon egy percet a bejárat melletti, a város gazdag örökségét bemutató történelmi táblákra.",
+            "ro": "Observați fațada civică clasică a acestui important centru administrativ local, alocând un moment pentru a citi plăcile istorice de lângă intrare care detaliază patrimoniul bogat.",
+            "en": "Observe the classic civic facade of this important local administrative center, taking a moment to read the historical plaques near the entrance that detail the town's rich heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael's Church",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica St Michael",
+            "en": "St Michael's Church"
+          },
+          "coords": [
+            -3.595691,
+            50.54564
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur und den historischen Turm dieser friedlichen Pfarrkirche, aber achten Sie auf dem Aushang auf die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a békés plébániatemplom lenyűgöző középkori építészetét és történelmi tornyát, de belépés előtt feltétlenül ellenőrizze a helyi istentiszteletek idejét a hirdetőtáblán.",
+            "ro": "Admirați arhitectura medievală impresionantă și turnul istoric al acestei biserici parohiale liniștite, dar nu uitați să verificați orarul slujbelor locale înainte de a intra.",
+            "en": "Admire the striking medieval architecture and historic tower of this peaceful parish church, but remember to check the noticeboard for local community service times before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Oakford Lawn",
+            "hu": "Oakford Lawn",
+            "ro": "Oakford Lawn",
+            "en": "Oakford Lawn"
+          },
+          "coords": [
+            -3.598285,
+            50.546369
+          ],
+          "category": "park",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang über die weitläufige Grünfläche dieses beliebten zentralen Parks und bringen Sie eine kleine Picknickdecke mit, um sich auszuruhen.",
+            "hu": "Élvezze a pihentető sétát e kedvelt központi park hatalmas zöldterületén, és mindenképpen hozzon magával egy kis pikniktakarót, hogy kényelmesen megpihenhessen a fák árnyékában.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiul verde vast al acestui parc central îndrăgit și aduceți o pătură de picnic pentru a vă odihni confortabil la umbra copacilor maturi.",
+            "en": "Enjoy a relaxing stroll across the expansive green space of this beloved central park, and bring a small picnic blanket to comfortably rest under the shade of the mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Teigngrace Canal",
+            "hu": "Teigngrace-csatorna",
+            "ro": "Canalul Teigngrace",
+            "en": "Teigngrace Canal"
+          },
+          "coords": [
+            -3.610036,
+            50.541912
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Folgen Sie den Überresten dieser faszinierenden historischen Wasserstraße, die einst die lokale Tonindustrie antrieb, und achten Sie beim Vorbeifahren auf die alten Schleusen.",
+            "hu": "Fedezze fel e lenyűgöző történelmi vízi út maradványait, amely egykor a helyi agyagipart táplálta, és tartsa nyitva a szemét a régi zsilipekre, miközben a part mentén halad.",
+            "ro": "Explorați rămășițele acestei fascinante căi navigabile istorice care a alimentat odată industria locală a argilei, căutând vechile ecluze în timp ce vă aflați în trecere.",
+            "en": "Trace the remnants of this fascinating historical waterway that once fueled the local clay industry, keeping an eye out for the old locks while driving carefully around the area."
+          }
+        },
+        {
+          "name": {
+            "de": "River Teign",
+            "hu": "Teign folyó",
+            "ro": "Râul Teign",
+            "en": "River Teign"
+          },
+          "coords": [
+            -3.50056,
+            50.5397
+          ],
+          "category": "natural",
+          "arrive_at": "14:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.66,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den malerischen Ufern des Flusses entlang, um kleine Boote und gleitende Schwäne zu beobachten, und nutzen Sie die sanfte Brise für großartige Landschaftsfotos.",
+            "hu": "Sétáljon a kanyargós folyó festői partján, figyelje meg a kis csónakokat és a sikló hattyúkat, és használja ki a lágy délutáni szellőt néhány csodálatos amatőr tájkép elkészítéséhez.",
+            "ro": "Plimbați-vă de-a lungul malurilor pitorești ale râului șerpuitor pentru a observa bărci mici și lebede care alunecă pe apă, profitând de briza blândă pentru fotografii superbe de peisaj.",
+            "en": "Stroll along the scenic banks of the winding river to spot small boats and gliding swans, taking advantage of the gentle afternoon breeze for some superb amateur landscape photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen unsere Autotour mit der Erkundung der massiven Industrielandschaften der Kingsteignton Clay Pits und entdecken die Wurzeln der lokalen Wirtschaft.\nMittag: Wir parken in der Nähe des Zentrums, bewundern das Rathaus sowie die historische St. Michael's Church und genießen einen leichten Spaziergang um den nahegelegenen Oakford Lawn.\nNachmittag: Wir steigen wieder ins Auto und navigieren zum historischen Teigngrace Canal, um die Überreste der Verkehrsnetze des 19. Jahrhunderts zu bewundern.\nAbend: Unser Roadtrip endet mit einer malerischen Fahrt zum Fluss Teign, wo wir parken und beobachten können, wie die Dämmerungsreflexionen auf der Oberfläche des Wassers tanzen.",
+        "hu": "Reggel: Autós túránkat a Kingsteigntoni agyagbányák hatalmas ipari tájainak felfedezésével indítjuk, feltárva a helyi gazdaság történelmi gyökereit, mielőtt bevetnénk magunkat a városba.\nDél: A központ közelében parkolva megcsodáljuk az impozáns Városházát és a történelmi Szent Mihály-templomot, majd teszünk egy könnyű sétát a közeli Oakford Lawn körül.\nDélután: Visszapattanva az autóba, a történelmi Teigngrace-csatorna felé vesszük az irányt, hogy szemtanúi lehessünk a 19. századi közlekedési hálózatok izgalmas maradványainak.\nEste: Autós utazásunk egy festői autózással zárul a Teign folyóhoz, ahol leparkolhatunk, és megfigyelhetjük az esti szürkület táncoló tükröződéseit a csendes tölcsértorkolat felszínén.",
+        "ro": "Dimineața: Începem turul auto explorând peisajele industriale masive ale carierelor de argilă din Kingsteignton, descoperind rădăcinile economiei locale înainte de a intra în oraș.\nAmiaza: Parcând aproape de centru, admirăm Primăria impunătoare și biserica istorică St Michael, bucurându-ne de o plimbare ușoară în jurul Oakford Lawn pentru a întrerupe condusul.\nDupă-amiaza: Urcând din nou în mașină, navigăm spre istoricul Canal Teigngrace pentru a vedea rămășițele rețelelor de transport din secolul al XIX-lea care au dominat acest peisaj.\nSeara: Călătoria se încheie cu un drum pitoresc până la Râul Teign, unde putem parca și privi cum reflexiile amurgului dansează pe suprafața apelor blânde ale estuarului vestic.",
+        "en": "Morning: We kick off our driving tour exploring the massive industrial landscapes of the Kingsteignton Clay Pits, uncovering the roots of the local economy before heading into town.\nMidday: Parking near the center, we admire the stately Town Hall and the historic St Michael's Church, enjoying a light stroll around the nearby Oakford Lawn to break up the drive.\nAfternoon: Hopping back in the car, we navigate toward the historic Teigngrace Canal to witness the remnants of 19th-century transport networks that once dominated this landscape.\nEvening: Our road trip concludes with a scenic drive out to the River Teign, where we can park and watch the twilight reflections dance on the surface of the estuary's gentle waters."
+      }
+    }
+  }
+}

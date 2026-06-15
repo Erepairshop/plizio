@@ -1,0 +1,474 @@
+{
+  "city_id": "muret",
+  "anchor": {
+    "name": "Muret",
+    "coords": [
+      1.3258,
+      43.4603
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Clément Ader",
+            "hu": "Parc Clément Ader",
+            "ro": "Parc Clément Ader",
+            "en": "Parc Clément Ader"
+          },
+          "coords": [
+            1.323218,
+            43.461131
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang in diesem üppigen, dem Luftfahrtpionier gewidmeten Stadtpark und vergessen Sie nicht, Fotos am zentralen Denkmal zu machen.",
+            "hu": "Élvezze a pihentető reggeli sétát ebben a repülés úttörőjének szentelt buja városi parkban, és ne felejtsen el fényképezni a központi emlékműnél.",
+            "ro": "Bucurați-vă de o plimbare matinală relaxantă în acest parc urban luxuriant dedicat pionierului aviației și nu uitați să faceți fotografii lângă monumentul central.",
+            "en": "Enjoy a relaxing morning walk in this lush urban park dedicated to the aviation pioneer, and don't forget to take photos by the central monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.326552,
+            43.460785
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten achteckigen Glockenturm dieser historischen Kirche, die die Schlacht von Muret prägte, aber respektieren Sie die Stille während Ihres Besuchs.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző nyolcszögletű harangtornyát, amely a mureti csata alatt is állt, de látogatása során mindenképpen tartsa tiszteletben a csendet.",
+            "ro": "Admirați impresionantul turn octogonal al acestei biserici istorice care a marcat Bătălia de la Muret, însă nu uitați să respectați liniștea în timpul vizitei dumneavoastră.",
+            "en": "Admire the striking octagonal bell tower of this historic church that dominated the Battle of Muret, but remember to respect the silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Clément Ader Museum",
+            "hu": "Clément Ader Museum",
+            "ro": "Clément Ader Museum",
+            "en": "Clément Ader Museum"
+          },
+          "coords": [
+            1.32745,
+            43.460878
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Erfindungen von Clément Ader, dem lokalen Genie der Luftfahrt, indem Sie an einer Führung teilnehmen, um seine mechanischen Meisterwerke zu verstehen.",
+            "hu": "Fedezze fel Clément Ader, a repülés helyi zsenijének lenyűgöző találmányait, és vegyen részt egy vezetett túrán, hogy teljes mértékben megértse mechanikai remekműveit.",
+            "ro": "Descoperiți invențiile fascinante ale lui Clément Ader, geniul local al aviației, participând la un tur ghidat pentru a înțelege pe deplin capodoperele sale mecanice.",
+            "en": "Discover the fascinating inventions of Clément Ader, the local genius of aviation, by taking a guided tour to fully understand his mechanical masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Clément Ader & Les Grands Hommes",
+            "hu": "Musée Clément Ader & Les Grands Hommes",
+            "ro": "Musée Clément Ader & Les Grands Hommes",
+            "en": "Musée Clément Ader & Les Grands Hommes"
+          },
+          "coords": [
+            1.328114,
+            43.461836
+          ],
+          "category": "museum",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese erweiterte Sammlung zu Ehren der berühmtesten historischen Persönlichkeiten von Muret und nehmen Sie sich Zeit für die detaillierten, mehrsprachigen Tafeln.",
+            "hu": "Fedezze fel ezt a Muret leghíresebb történelmi alakjainak emléket állító, kibővített gyűjteményt, és szánjon időt a több nyelven is elérhető, részletes táblák elolvasására.",
+            "ro": "Explorați această colecție extinsă care onorează cele mai faimoase figuri istorice din Muret și acordați-vă timp pentru a citi plăcuțele detaliate disponibile în mai multe limbi.",
+            "en": "Explore this extended collection honoring Muret's most famous historical figures, and take your time reading the detailed plaques available in multiple languages."
+          }
+        },
+        {
+          "name": {
+            "de": "Jean Jaurès Park",
+            "hu": "Jean Jaurès Park",
+            "ro": "Jean Jaurès Park",
+            "en": "Jean Jaurès Park"
+          },
+          "coords": [
+            1.327855,
+            43.463384
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die schattigen Wege dieses ruhigen Erholungsgebiets, das Jean Jaurès gewidmet ist, wo ein kleines Picknick Ihren Nachmittag wirklich wunderbar macht.",
+            "hu": "Sétáljon végig a Jean Jaurès-nek szentelt békés rekreációs tér árnyékos ösvényein, ahol egy kis piknik igazán elragadóvá varázsolja majd a délutáni kikapcsolódást.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui spațiu de recreere liniștit dedicat lui Jean Jaurès, unde un mic picnic va face ca după-amiaza dumneavoastră să fie cu adevărat încântătoare.",
+            "en": "Stroll through the shaded paths of this serene recreational space dedicated to Jean Jaurès, where bringing a small picnic will make your afternoon truly delightful."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean",
+            "hu": "Église Saint-Jean",
+            "ro": "Église Saint-Jean",
+            "en": "Église Saint-Jean"
+          },
+          "coords": [
+            1.330185,
+            43.465689
+          ],
+          "category": "religious",
+          "arrive_at": "15:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante und weniger überlaufene religiöse Heiligtum ein, um die erhaltenen Buntglasfenster zu bewundern, ein perfekter Ort für friedliche Kontemplation.",
+            "hu": "Lépjen be ebbe a bájos és kevésbé zsúfolt vallási szentélybe, hogy megcsodálja a fennmaradt ólomüveg ablakokat, amely tökéletes hely a békés elmélkedésre.",
+            "ro": "Intrați în acest sanctuar religios fermecător și mai puțin aglomerat pentru a aprecia vitraliile sale conservate, un loc perfect pentru o contemplare pașnică.",
+            "en": "Step inside this charming and less crowded religious sanctuary to appreciate its preserved stained glass windows, a perfect spot for peaceful contemplation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Parc Clément Ader. Besuchen Sie als nächstes die mittelalterliche Kirche Saint-Jacques.\n\nDer Mittag ist dem Clément Ader Museum gewidmet. Erkunden Sie danach das Museum der Grands Hommes.\n\nMachen Sie eine erholsame Pause in den schattigen Alleen des Jean Jaurès Parks.\n\nBeenden Sie Ihren Tag in der Église Saint-Jean und bewundern Sie das historische Buntglas.",
+        "hu": "Kezdje a túrát a Parc Clément Aderben. Ezután látogasson el a középkori Saint-Jacques templomba.\n\nA dél a Clément Ader Múzeumé. Ezután fedezze fel a Grands Hommes múzeumot.\n\nTartson egy pihentető szünetet a Jean Jaurès Park árnyékos sétányain.\n\nZárja a napot az Église Saint-Jeanban, és csodálja meg történelmi ólomüveg ablakait.",
+        "ro": "Începeți turul la Parc Clément Ader. Apoi, vizitați Biserica medievală Saint-Jacques.\n\nAmiaza este pentru Muzeul Clément Ader. După aceea, explorați muzeul Grands Hommes.\n\nFaceți o pauză de relaxare pe aleile umbrite ale Parcului Jean Jaurès.\n\nÎncheiați-vă ziua la Église Saint-Jean pentru a admira vitraliile sale istorice.",
+        "en": "Start your tour at Parc Clément Ader. Next, visit the medieval Saint-Jacques Church.\n\nMidday is for the Clément Ader Museum. Then, explore the Grands Hommes museum.\n\nTake a relaxing break in the shaded alleys of Jean Jaurès Park.\n\nEnd your day at Église Saint-Jean to admire its historic stained glass."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 4.51,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Clément Ader",
+            "hu": "Parc Clément Ader",
+            "ro": "Parc Clément Ader",
+            "en": "Parc Clément Ader"
+          },
+          "coords": [
+            1.323218,
+            43.461131
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang in diesem üppigen, dem Luftfahrtpionier gewidmeten Stadtpark und vergessen Sie nicht, Fotos am zentralen Denkmal zu machen.",
+            "hu": "Élvezze a pihentető reggeli sétát ebben a repülés úttörőjének szentelt buja városi parkban, és ne felejtsen el fényképezni a központi emlékműnél.",
+            "ro": "Bucurați-vă de o plimbare matinală relaxantă în acest parc urban luxuriant dedicat pionierului aviației și nu uitați să faceți fotografii lângă monumentul central.",
+            "en": "Enjoy a relaxing morning walk in this lush urban park dedicated to the aviation pioneer, and don't forget to take photos by the central monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.326552,
+            43.460785
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten achteckigen Glockenturm dieser historischen Kirche, die die Schlacht von Muret prägte, aber respektieren Sie die Stille während Ihres Besuchs.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző nyolcszögletű harangtornyát, amely a mureti csata alatt is állt, de látogatása során mindenképpen tartsa tiszteletben a csendet.",
+            "ro": "Admirați impresionantul turn octogonal al acestei biserici istorice care a marcat Bătălia de la Muret, însă nu uitați să respectați liniștea în timpul vizitei dumneavoastră.",
+            "en": "Admire the striking octagonal bell tower of this historic church that dominated the Battle of Muret, but remember to respect the silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Clément Ader Museum",
+            "hu": "Clément Ader Museum",
+            "ro": "Clément Ader Museum",
+            "en": "Clément Ader Museum"
+          },
+          "coords": [
+            1.32745,
+            43.460878
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Erfindungen von Clément Ader, dem lokalen Genie der Luftfahrt, indem Sie an einer Führung teilnehmen, um seine mechanischen Meisterwerke zu verstehen.",
+            "hu": "Fedezze fel Clément Ader, a repülés helyi zsenijének lenyűgöző találmányait, és vegyen részt egy vezetett túrán, hogy teljes mértékben megértse mechanikai remekműveit.",
+            "ro": "Descoperiți invențiile fascinante ale lui Clément Ader, geniul local al aviației, participând la un tur ghidat pentru a înțelege pe deplin capodoperele sale mecanice.",
+            "en": "Discover the fascinating inventions of Clément Ader, the local genius of aviation, by taking a guided tour to fully understand his mechanical masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean",
+            "hu": "Église Saint-Jean",
+            "ro": "Église Saint-Jean",
+            "en": "Église Saint-Jean"
+          },
+          "coords": [
+            1.330185,
+            43.465689
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses charmante und weniger überlaufene religiöse Heiligtum ein, um die erhaltenen Buntglasfenster zu bewundern, ein perfekter Ort für friedliche Kontemplation.",
+            "hu": "Lépjen be ebbe a bájos és kevésbé zsúfolt vallási szentélybe, hogy megcsodálja a fennmaradt ólomüveg ablakokat, amely tökéletes hely a békés elmélkedésre.",
+            "ro": "Intrați în acest sanctuar religios fermecător și mai puțin aglomerat pentru a aprecia vitraliile sale conservate, un loc perfect pentru o contemplare pașnică.",
+            "en": "Step inside this charming and less crowded religious sanctuary to appreciate its preserved stained glass windows, a perfect spot for peaceful contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Rudelle",
+            "hu": "Château de Rudelle",
+            "ro": "Château de Rudelle",
+            "en": "Château de Rudelle"
+          },
+          "coords": [
+            1.310606,
+            43.451804
+          ],
+          "category": "castle",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.18,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinarchitektur dieses majestätischen Schlosses aus dem sechzehnten Jahrhundert, aber beachten Sie, dass der Zugang bei privaten Veranstaltungen eingeschränkt ist.",
+            "hu": "Csodálja meg e fenséges tizenhatodik századi kastély impozáns téglaépítészetét, bár tartsa szem előtt, hogy a belső tér látogatása zártkörű rendezvények idején korlátozott lehet.",
+            "ro": "Minunați-vă de arhitectura impunătoare din cărămidă a acestui castel maiestuos din secolul al șaisprezecelea, deși rețineți că accesul în interior ar putea fi restricționat la evenimente private.",
+            "en": "Marvel at the imposing brick architecture of this majestic sixteenth-century castle, though keep in mind that the interior access might be restricted during private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Four de Louge",
+            "hu": "Lac du Four de Louge",
+            "ro": "Lac du Four de Louge",
+            "en": "Lac du Four de Louge"
+          },
+          "coords": [
+            1.302842,
+            43.440386
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an diesem wunderschönen Natursee etwas außerhalb des Stadtzentrums ein, ein fantastischer Ort für einen späten Nachmittagsspaziergang und Vogelbeobachtung.",
+            "hu": "Szívja magába a friss levegőt ezen a városon kívüli gyönyörű természetes tavon, amely fantasztikus helyszín egy késő délutáni sétához és madármegfigyeléshez távcsővel.",
+            "ro": "Respirați aerul curat la acest frumos lac natural situat chiar în afara centrului orașului, un loc fantastic pentru o plimbare de seară și observarea păsărilor cu binoclul.",
+            "en": "Breathe in the fresh air at this beautiful natural lake just outside the city center, a fantastic spot for a late afternoon walk and birdwatching with binoculars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie dynamisch im üppigen Parc Clément Ader. Eine kurze Fahrt führt zur Kirche Saint-Jacques.\n\nTauchen Sie mittags im Clément Ader Museum in die frühe Luftfahrt ein. Fahren Sie dann zur Église Saint-Jean.\n\nIhr Nachmittag führt Sie zum atemberaubenden Château de Rudelle.\n\nBeenden Sie die Fahrt am Lac du Four de Louge und entspannen Sie am Wasser, wenn der Abend naht.",
+        "hu": "Kezdje dinamikusan a buja Parc Clément Aderben. Egy rövid tekerés elviszi a Saint-Jacques templomhoz.\n\nDélben merüljön el a korai repülésben a Clément Ader Múzeumban. Ezután kerekezzen az Église Saint-Jeanhoz.\n\nA délután a lenyűgöző Château de Rudelle-hez viszi.\n\nFejezze be a túrát a Lac du Four de Louge-nál, a vízparton pihenve, ahogy közeledik az este.",
+        "ro": "Începeți dinamic în luxuriantul Parc Clément Ader. O scurtă pedalare vă aduce la Biserica Saint-Jacques.\n\nLa amiază, pătrundeți în istoria aviației la Muzeul Clément Ader. Apoi, mergeți la Église Saint-Jean.\n\nDupă-amiaza vă duce la uimitorul castel istoric Château de Rudelle.\n\nÎncheiați pedalând spre Lac du Four de Louge, relaxându-vă lângă apă spre seară.",
+        "en": "Start dynamically at the lush Parc Clément Ader. A quick pedal brings you to the Saint-Jacques Church.\n\nAt midday, delve into early flight at the Clément Ader Museum. Then, ride to Église Saint-Jean.\n\nYour afternoon takes you outside the center to the stunning Château de Rudelle.\n\nFinish pedaling to Lac du Four de Louge, relaxing by the water as the evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 7.57,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            1.347973,
+            43.4789
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser eleganten historischen Kirche im nördlichen Teil von Muret, die für ihre feierliche Atmosphäre und schöne klassische Fassade bekannt ist.",
+            "hu": "Kezdje utazását ezen az elegáns, Muret északi részén található történelmi templomnál, amely ünnepélyes atmoszférájáról és gyönyörű klasszikus homlokzatáról ismert.",
+            "ro": "Începeți-vă călătoria la această biserică istorică elegantă situată în partea de nord a orașului Muret, cunoscută pentru atmosfera sa solemnă și fațada clasică frumoasă.",
+            "en": "Begin your journey at this elegant historic church situated in the northern part of Muret, known for its solemn atmosphere and beautiful classical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.326552,
+            43.460785
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten achteckigen Glockenturm dieser historischen Kirche, die die Schlacht von Muret prägte, aber respektieren Sie die Stille während Ihres Besuchs.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző nyolcszögletű harangtornyát, amely a mureti csata alatt is állt, de látogatása során mindenképpen tartsa tiszteletben a csendet.",
+            "ro": "Admirați impresionantul turn octogonal al acestei biserici istorice care a marcat Bătălia de la Muret, însă nu uitați să respectați liniștea în timpul vizitei dumneavoastră.",
+            "en": "Admire the striking octagonal bell tower of this historic church that dominated the Battle of Muret, but remember to respect the silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Clément Ader & Les Grands Hommes",
+            "hu": "Musée Clément Ader & Les Grands Hommes",
+            "ro": "Musée Clément Ader & Les Grands Hommes",
+            "en": "Musée Clément Ader & Les Grands Hommes"
+          },
+          "coords": [
+            1.328114,
+            43.461836
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese erweiterte Sammlung zu Ehren der berühmtesten historischen Persönlichkeiten von Muret und nehmen Sie sich Zeit für die detaillierten, mehrsprachigen Tafeln.",
+            "hu": "Fedezze fel ezt a Muret leghíresebb történelmi alakjainak emléket állító, kibővített gyűjteményt, és szánjon időt a több nyelven is elérhető, részletes táblák elolvasására.",
+            "ro": "Explorați această colecție extinsă care onorează cele mai faimoase figuri istorice din Muret și acordați-vă timp pentru a citi plăcuțele detaliate disponibile în mai multe limbi.",
+            "en": "Explore this extended collection honoring Muret's most famous historical figures, and take your time reading the detailed plaques available in multiple languages."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Rudelle",
+            "hu": "Château de Rudelle",
+            "ro": "Château de Rudelle",
+            "en": "Château de Rudelle"
+          },
+          "coords": [
+            1.310606,
+            43.451804
+          ],
+          "category": "castle",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinarchitektur dieses majestätischen Schlosses aus dem sechzehnten Jahrhundert, aber beachten Sie, dass der Zugang bei privaten Veranstaltungen eingeschränkt ist.",
+            "hu": "Csodálja meg e fenséges tizenhatodik századi kastély impozáns téglaépítészetét, bár tartsa szem előtt, hogy a belső tér látogatása zártkörű rendezvények idején korlátozott lehet.",
+            "ro": "Minunați-vă de arhitectura impunătoare din cărămidă a acestui castel maiestuos din secolul al șaisprezecelea, deși rețineți că accesul în interior ar putea fi restricționat la evenimente private.",
+            "en": "Marvel at the imposing brick architecture of this majestic sixteenth-century castle, though keep in mind that the interior access might be restricted during private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Four de Louge",
+            "hu": "Lac du Four de Louge",
+            "ro": "Lac du Four de Louge",
+            "en": "Lac du Four de Louge"
+          },
+          "coords": [
+            1.302842,
+            43.440386
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an diesem wunderschönen Natursee etwas außerhalb des Stadtzentrums ein, ein fantastischer Ort für einen späten Nachmittagsspaziergang und Vogelbeobachtung.",
+            "hu": "Szívja magába a friss levegőt ezen a városon kívüli gyönyörű természetes tavon, amely fantasztikus helyszín egy késő délutáni sétához és madármegfigyeléshez távcsővel.",
+            "ro": "Respirați aerul curat la acest frumos lac natural situat chiar în afara centrului orașului, un loc fantastic pentru o plimbare de seară și observarea păsărilor cu binoclul.",
+            "en": "Breathe in the fresh air at this beautiful natural lake just outside the city center, a fantastic spot for a late afternoon walk and birdwatching with binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Cadeilhac",
+            "hu": "Château de Cadeilhac",
+            "ro": "Château de Cadeilhac",
+            "en": "Château de Cadeilhac"
+          },
+          "coords": [
+            1.319827,
+            43.434644
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.51,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Erkundung ab, indem Sie das Gelände dieses malerischen südlichen Schlosses besuchen, das einen wunderbaren Einblick in die aristokratische Geschichte der Region bietet.",
+            "hu": "Zárja felfedezőútját e festői déli kastély területének meglátogatásával, amely csodálatos bepillantást enged a régió lenyűgöző arisztokratikus történelmébe.",
+            "ro": "Încheiați-vă explorarea vizitând domeniul acestui castel pitoresc din sud, oferind o privire minunată asupra fascinantei istorii aristocratice a regiunii.",
+            "en": "Conclude your exploration by visiting the grounds of this picturesque southern chateau, offering a wonderful glimpse into the aristocratic history of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip an der Église Notre-Dame. Fahren Sie ins Zentrum zur Kirche Saint-Jacques.\n\nTauchen Sie im Musée Clément Ader & Les Grands Hommes in die Geschichte der Luftfahrt ein.\n\nFahren Sie in Richtung des beeindruckenden Château de Rudelle. Fahren Sie dann zum Lac du Four de Louge.\n\nBeenden Sie Ihre Fahrt am historischen Château de Cadeilhac am ruhigen Stadtrand.",
+        "hu": "Kezdje autós útját az Église Notre-Dame-nál. Vezessen a központba a Saint-Jacques templomhoz.\n\nMerüljön el a repülés történetében a Musée Clément Ader & Les Grands Hommes-ban.\n\nInduljon tovább a lenyűgöző Château de Rudelle felé. Tegyen egy rövid utat a Lac du Four de Louge-hoz.\n\nZárja autós túráját a történelmi Château de Cadeilhac-nál a csendes külvárosban.",
+        "ro": "Începeți excursia la Église Notre-Dame. Conduceți în centrul orașului la Biserica Saint-Jacques.\n\nCufundați-vă în istoria aviației la Musée Clément Ader & Les Grands Hommes.\n\nPorniți din nou la drum spre impresionantul Château de Rudelle. Conduceți până la Lac du Four de Louge.\n\nÎncheiați turul la istoricul Château de Cadeilhac, în suburbiile liniștite.",
+        "en": "Kick off your road trip at Église Notre-Dame. Drive into the city center to visit Saint-Jacques Church.\n\nImmerse yourself in aviation lore at the Musée Clément Ader & Les Grands Hommes.\n\nHit the road again towards the impressive Château de Rudelle. Take a short drive to Lac du Four de Louge.\n\nEnd your driving tour at the historic Château de Cadeilhac on the quiet outskirts."
+      }
+    }
+  }
+}

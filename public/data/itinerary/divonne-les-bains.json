@@ -1,0 +1,405 @@
+{
+  "city_id": "divonne-les-bains",
+  "anchor": {
+    "name": "Divonne-les-Bains",
+    "coords": [
+      6.1428,
+      46.3567
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Thermen von Divonne",
+            "hu": "Divonne-i Termálfürdő",
+            "ro": "Băile Termale din Divonne",
+            "en": "Thermes de Divonne"
+          },
+          "coords": [
+            6.137798,
+            46.358612
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im historischen Thermalwasser, das die Stadt berühmt gemacht hat, und buchen Sie Ihre Wellnessbehandlung in der Hochsaison frühzeitig.",
+            "hu": "Pihenjen a történelmi termálvizekben, amelyek a várost híressé tették, és főszezonban jó előre foglalja le a kívánt wellness-kezeléseket.",
+            "ro": "Relaxați-vă în apele termale istorice care au făcut orașul faimos și asigurați-vă că rezervați tratamentul spa cu mult timp înainte în sezonul de vârf.",
+            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasino von Divonne",
+            "hu": "Divonne-i Kaszinó",
+            "ro": "Cazinoul din Divonne",
+            "en": "Casino de Divonne"
+          },
+          "coords": [
+            6.137696,
+            46.356615
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück im renommierten Casino mit eleganten Spielsälen, aber bringen Sie einen gültigen Ausweis mit und kleiden Sie sich elegant.",
+            "hu": "Tegye próbára szerencséjét a tekintélyes kaszinó elegáns játéktermeiben, de ne felejtsen el érvényes igazolványt és elegáns ruhát hozni a belépéshez.",
+            "ro": "Încercați-vă norocul la prestigiosul cazinou cu săli de jocuri elegante, dar amintiți-vă să aduceți un act de identitate valabil și să vă îmbrăcați elegant.",
+            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            6.136633,
+            46.354008
+          ],
+          "category": "family",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Grünanlage im Herzen der Stadt und bringen Sie etwas Brot mit, um die Enten am malerischen Teich zu füttern.",
+            "hu": "Sétáljon át ezen a bájos zöld területen a város szívében, és hozzon magával egy kis kenyeret, hogy megetesse a kacsákat a festői tónál.",
+            "ro": "Plimbați-vă prin acest spațiu verde fermecător din inima orașului, aducând niște pâine pentru a hrăni rațele de la micul iaz pitoresc.",
+            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Divonne",
+            "hu": "Divonne Kastély",
+            "ro": "Castelul Divonne",
+            "en": "Château de Divonne"
+          },
+          "coords": [
+            6.13389,
+            46.3564
+          ],
+          "category": "hotel",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur und die atemberaubende Landschaft dieses historischen Anwesens, das die perfekte Kulisse für Panoramafotos bietet.",
+            "hu": "Csodálja meg a klasszikus építészetet és a lenyűgöző tájat erről a történelmi birtokról, amely tökéletes hátteret nyújt az emlékezetes panorámaképekhez.",
+            "ro": "Admirați arhitectura clasică și peisajul uimitor de la acest domeniu istoric, care oferă fundalul perfect pentru fotografii panoramice memorabile.",
+            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Divonne",
+            "hu": "Divonne-tó",
+            "ro": "Lacul Divonne",
+            "en": "Lac de Divonne"
+          },
+          "coords": [
+            6.152778,
+            46.355556
+          ],
+          "category": "natural",
+          "arrive_at": "13:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
+            "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der heilenden Atmosphäre der berühmten Thermen. Mittags können Sie das elegante Flair im historischen Casino genießen und im zentralen Park entspannen. Der Nachmittag führt Sie hinauf zur majestätischen Burg mit herrlichem Panoramablick. Beenden Sie den Tag mit einem Spaziergang bei Sonnenuntergang um den See.",
+        "hu": "Kezdje a reggelt a híres termálfürdők gyógyító hangulatával. Délben élvezze a város elegáns hangulatát a történelmi kaszinóban, és pihenjen a központi parkban. A délután a fenséges kastélyhoz vezet a lélegzetelállító panorámáért. Fejezze be a napot egy békés naplementés sétával a gyönyörű tó körül.",
+        "ro": "Începeți dimineața absorbind ambianța vindecătoare a celebrelor băi termale. La amiază, bucurați-vă de vibrația elegantă la cazinoul istoric și relaxați-vă în parcul central. După-amiaza vă conduce la castelul maiestuos pentru vederi panoramice. Încheiați ziua cu o plimbare senină la apus în jurul frumosului lac.",
+        "en": "Start your morning absorbing the healing ambiance of the famous thermal baths. By midday, embrace the town's elegant vibe at the historic casino and relax in the central park. The afternoon leads you uphill to the majestic castle for panoramic views. Finish the day with a serene sunset stroll around the beautiful lake."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Golfplatz Divonne",
+            "hu": "Divonne Golfpálya",
+            "ro": "Terenul de Golf Divonne",
+            "en": "Golf de Divonne"
+          },
+          "coords": [
+            6.124346,
+            46.362642
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie eine außergewöhnliche Golfrunde auf diesem makellosen Meisterschaftsplatz und reservieren Sie Ihre Startzeit an sonnigen Wochenenden früh.",
+            "hu": "Tapasztaljon meg egy kivételes golfkört ezen a kifogástalan bajnoki pályán, és a napsütéses hétvégéken időben foglalja le a kezdési időpontot.",
+            "ro": "Experimentați o rundă excepțională de golf pe acest teren de campionat impecabil, asigurându-vă că rezervați din timp ora de start în weekendurile însorite.",
+            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermen von Divonne",
+            "hu": "Divonne-i Termálfürdő",
+            "ro": "Băile Termale din Divonne",
+            "en": "Thermes de Divonne"
+          },
+          "coords": [
+            6.137798,
+            46.358612
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im historischen Thermalwasser, das die Stadt berühmt gemacht hat, und buchen Sie Ihre Wellnessbehandlung in der Hochsaison frühzeitig.",
+            "hu": "Pihenjen a történelmi termálvizekben, amelyek a várost híressé tették, és főszezonban jó előre foglalja le a kívánt wellness-kezeléseket.",
+            "ro": "Relaxați-vă în apele termale istorice care au făcut orașul faimos și asigurați-vă că rezervați tratamentul spa cu mult timp înainte în sezonul de vârf.",
+            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            6.136633,
+            46.354008
+          ],
+          "category": "family",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Grünanlage im Herzen der Stadt und bringen Sie etwas Brot mit, um die Enten am malerischen Teich zu füttern.",
+            "hu": "Sétáljon át ezen a bájos zöld területen a város szívében, és hozzon magával egy kis kenyeret, hogy megetesse a kacsákat a festői tónál.",
+            "ro": "Plimbați-vă prin acest spațiu verde fermecător din inima orașului, aducând niște pâine pentru a hrăni rațele de la micul iaz pitoresc.",
+            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Divonne",
+            "hu": "Divonne-tó",
+            "ro": "Lacul Divonne",
+            "en": "Lac de Divonne"
+          },
+          "coords": [
+            6.152778,
+            46.355556
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
+            "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Forestland",
+            "hu": "Forestland Kalandpark",
+            "ro": "Forestland",
+            "en": "Forestland"
+          },
+          "coords": [
+            6.15037,
+            46.359983
+          ],
+          "category": "family",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fordern Sie sich in diesem abenteuerlichen Hochseilgarten heraus, tragen Sie bequeme Sportschuhe und bringen Sie Wasser für die anspruchsvollen Routen mit.",
+            "hu": "Tegye próbára magát ebben a szórakoztató kalandparkban a lombok között, viseljen kényelmes sportcipőt és hozzon vizet a fizikailag megterhelő útvonalakhoz.",
+            "ro": "Provocați-vă la acest parc de aventură distractiv în copaci, purtând încălțăminte sport confortabilă și aducând apă pentru traseele solicitante fizic.",
+            "en": "Challenge yourself at this fun-filled treetop adventure park, wearing comfortable sports shoes and bringing water for the physically demanding routes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in den Tag auf dem prestigeträchtigen Golfplatz, umgeben von unberührter Natur. Die Mittagszeit bietet eine wohlverdiente Pause in den Thermen und im ruhigen zentralen Park. Genießen Sie am Nachmittag eine malerische Fahrt entlang des Seeufers. Den Abschluss bilden spannende Herausforderungen im Waldseilgarten.",
+        "hu": "Kezdje a napot egy kerékpározással a tekintélyes golfpályán, az érintetlen természet ölelésében. A délidő jól megérdemelt pihenőt kínál a termálfürdőben és a békés parkban. Délután élvezze a festői utazást a tó partján, beszívva a friss levegőt. A napot a kalandpark izgalmas kihívásaival zárja.",
+        "ro": "Pedalați în noul tău rând de zi la terenul de golf prestigios, înconjurat de natură. Amiaza oferă o pauză binemeritată la băile termale și în parcul central liniștit. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul lacului. Încheiați cu provocări interesante la parcul de aventură din copaci.",
+        "en": "Pedal into your day at the prestigious golf course, surrounded by pristine nature. Midday offers a well-deserved break at the thermal baths and the peaceful central park. In the afternoon, enjoy a scenic ride along the lake's shores, taking in the fresh air. Conclude with exciting challenges at the treetop adventure park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pferderennbahn Divonne",
+            "hu": "Divonne Lóversenypálya",
+            "ro": "Hipodromul Divonne",
+            "en": "Hippodrome de Divonne"
+          },
+          "coords": [
+            6.15138,
+            46.34638
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel von Live-Pferderennen an diesem historischen Ort; kommen Sie früh, um einen guten Platz zu ergattern und das Wettsystem zu verstehen.",
+            "hu": "Élje át az élő lóversenyek izgalmát ezen a történelmi helyszínen, és érkezzen korán, hogy jó helyet kapjon, és megértse a helyi fogadási rendszert.",
+            "ro": "Experimentați fiorul curselor de cai în direct în această locație istorică, ajungând devreme pentru a obține un loc bun și a înțelege sistemul local de pariuri.",
+            "en": "Experience the thrill of live horse racing at this historic venue, arriving early to get a good seat and understand the local betting system."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Divonne",
+            "hu": "Divonne-tó",
+            "ro": "Lacul Divonne",
+            "en": "Lac de Divonne"
+          },
+          "coords": [
+            6.152778,
+            46.355556
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
+            "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasino von Divonne",
+            "hu": "Divonne-i Kaszinó",
+            "ro": "Cazinoul din Divonne",
+            "en": "Casino de Divonne"
+          },
+          "coords": [
+            6.137696,
+            46.356615
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück im renommierten Casino mit eleganten Spielsälen, aber bringen Sie einen gültigen Ausweis mit und kleiden Sie sich elegant.",
+            "hu": "Tegye próbára szerencséjét a tekintélyes kaszinó elegáns játéktermeiben, de ne felejtsen el érvényes igazolványt és elegáns ruhát hozni a belépéshez.",
+            "ro": "Încercați-vă norocul la prestigiosul cazinou cu săli de jocuri elegante, dar amintiți-vă să aduceți un act de identitate valabil și să vă îmbrăcați elegant.",
+            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Divonne",
+            "hu": "Divonne Kastély",
+            "ro": "Castelul Divonne",
+            "en": "Château de Divonne"
+          },
+          "coords": [
+            6.13389,
+            46.3564
+          ],
+          "category": "hotel",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur und die atemberaubende Landschaft dieses historischen Anwesens, das die perfekte Kulisse für Panoramafotos bietet.",
+            "hu": "Csodálja meg a klasszikus építészetet és a lenyűgöző tájat erről a történelmi birtokról, amely tökéletes hátteret nyújt az emlékezetes panorámaképekhez.",
+            "ro": "Admirați arhitectura clasică și peisajul uimitor de la acest domeniu istoric, care oferă fundalul perfect pentru fotografii panoramice memorabile.",
+            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Golfplatz Divonne",
+            "hu": "Divonne Golfpálya",
+            "ro": "Terenul de Golf Divonne",
+            "en": "Golf de Divonne"
+          },
+          "coords": [
+            6.124346,
+            46.362642
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie eine außergewöhnliche Golfrunde auf diesem makellosen Meisterschaftsplatz und reservieren Sie Ihre Startzeit an sonnigen Wochenenden früh.",
+            "hu": "Tapasztaljon meg egy kivételes golfkört ezen a kifogástalan bajnoki pályán, és a napsütéses hétvégéken időben foglalja le a kezdési időpontot.",
+            "ro": "Experimentați o rundă excepțională de golf pe acest teren de campionat impecabil, asigurându-vă că rezervați din timp ora de start în weekendurile însorite.",
+            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum lebhaften Hippodrom, um einen Vormittag voller Reitsport-Spannung zu erleben. Parken Sie mittags am ruhigen See für einen Spaziergang und besuchen Sie das glamouröse Casino. Der Nachmittag bringt Sie zur Burg für spektakuläre Landschaftsfotos. Beenden Sie Ihre elegante Tour im grünen Golfclub.",
+        "hu": "Vezessen először a nyüzsgő lóversenypályára egy egyedülálló lovas élményért. Délben parkoljon le a csendes tó közelében egy kellemes sétához, majd látogasson el a lenyűgöző kaszinóba. A délután a kastélyhoz viszi látványos tájfotózásra. Fejezze be elegáns túráját a zöldellő golfklubban.",
+        "ro": "Conduceți mai întâi la hipodromul plin de viață pentru o dimineață de emoție ecvestră. La prânz, parcați lângă lacul senin pentru o plimbare plăcută, apoi vizitați cazinoul plin de farmec. După-amiaza vă poartă la castel pentru fotografii de peisaj spectaculoase. Încheiați turul elegant la clubul de golf înverzit.",
+        "en": "Drive first to the lively hippodrome for a morning of unique equestrian excitement. By midday, park near the serene lake for a pleasant stroll, then visit the glamorous casino. The afternoon takes you to the castle's heights for spectacular landscape photography. Wrap up your elegant tour at the verdant golf club."
+      }
+    }
+  }
+}

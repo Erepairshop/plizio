@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-tripoli-cities-v2",
+  "anchor": {
+    "name": "Tripoli",
+    "coords": [
+      22.375,
+      37.508333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 1.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bila Tourkobasile",
+            "hu": "Bila Tourkobasile",
+            "ro": "Bila Tourkobasile",
+            "en": "Bila Tourkobasile"
+          },
+          "coords": [
+            22.368023,
+            37.50545
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Wahrzeichens und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi nevezetességnek a lenyűgöző építészetét, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
+            "ro": "Admirați arhitectura impresionantă a acestui reper istoric și vizitați devreme pentru a surprinde lumina dimineții pe fațada sa.",
+            "en": "Admire the striking architecture of this historic landmark, and try to visit early to capture the morning light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Tripolis",
+            "hu": "Tripoli Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Tripoli",
+            "en": "Archaeological Museum of Tripoli"
+          },
+          "coords": [
+            22.374,
+            37.509004
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche antike Erbe der Region Arkadien, das hier ausgestellt ist, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel az árkádiai régió itt kiállított gazdag ókori örökségét, de séta előtt mindenképpen ellenőrizze a nyitvatartási időt.",
+            "ro": "Explorați bogata moștenire antică a regiunii Arcadia expusă aici, asigurându-vă că verificați programul înainte de vizită.",
+            "en": "Explore the rich ancient heritage of the Arcadia region displayed here, making sure to check the opening hours before your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsmuseum Tripolis",
+            "hu": "Tripoli Hadtörténeti Múzeuma",
+            "ro": "Muzeul Războiului din Tripoli",
+            "en": "War museum of Tripoli"
+          },
+          "coords": [
+            22.371766,
+            37.510411
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende militärische Artefakte der modernen griechischen Geschichte und planen Sie mehr Zeit für das obere Stockwerk ein.",
+            "hu": "Fedezze fel a modern görög történelem lenyűgöző katonai leleteit, és szánjon egy kis extra időt a felső szint részletes kiállításaira.",
+            "ro": "Descoperiți artefacte militare fascinante care spun povestea istoriei moderne a Greciei, alocând timp în plus pentru exponatele detaliate de la etaj.",
+            "en": "Discover fascinating military artifacts that tell the story of modern Greek history, and allocate extra time for the detailed exhibits on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatraki Skakieras",
+            "hu": "Theatraki Skakieras",
+            "ro": "Theatraki Skakieras",
+            "en": "Theatraki Skakieras"
+          },
+          "coords": [
+            22.373844,
+            37.510615
+          ],
+          "category": "cultural",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem kulturellen Platz mit großem Schachbrett, ideal für einen kleinen Snack beim Beobachten der Einheimischen.",
+            "hu": "Élvezze a békés pihenést ezen az óriási sakktáblával díszített kulturális téren, amely tökéletes egy gyors falatozáshoz a helyiek forgatagában.",
+            "ro": "Bucurați-vă de o pauză la această piață culturală cu o tablă mare de șah, locul perfect pentru o gustare rapidă observând localnicii.",
+            "en": "Enjoy a peaceful break at this cultural square featuring a large chessboard, perfect for a quick snack while watching locals pass by."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Dichters Kostas Karyotakis",
+            "hu": "Kosztasz Kariotakisz költő háza",
+            "ro": "Casa poetului Kostas Karyotakis",
+            "en": "Oikia poiete Kosta Karuotake"
+          },
+          "coords": [
+            22.368088,
+            37.512652
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie das einstige Wohnhaus des berühmten griechischen Dichters Kostas Karyotakis und lesen Sie ein Gedicht vor seinem historischen Zuhause.",
+            "hu": "Látogasson el a híres görög költő, Kosztasz Kariotakisz egykori otthonához, és vigyen magával egy könyvet, hogy felolvasson egy verset a ház előtt.",
+            "ro": "Vizitați fosta casă a celebrului poet grec Kostas Karyotakis și aduceți o carte pentru a citi o poezie în fața locuinței sale istorice.",
+            "en": "Visit the former residence of the famous Greek poet Kostas Karyotakis, and bring a small book to read a poem outside his historic home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der großen Bila Tourkobasile, bevor Sie im Archäologischen Museum tief in die arkadische Geschichte eintauchen.\n\nAm Mittag wechseln Sie im faszinierenden Kriegsmuseum von der Antike zu modernen Konflikten.\n\nNachmittags entspannen Sie am kulturellen Zentrum Theatraki Skakieras und genießen die Weitläufigkeit und die lokale Atmosphäre.\n\nBeenden Sie Ihre Tour am späten Nachmittag am historischen Haus des Dichters Kostas Karyotakis und reflektieren Sie über Tripolis literarisches Erbe.",
+        "hu": "Kezdje a reggelt a lenyűgöző Bila Tourkobasile megcsodálásával, majd merüljön el az árkádiai történelemben a Régészeti Múzeumban.\n\nDélben váltson az ókorból a modern konfliktusok korára a magával ragadó Hadtörténeti Múzeumban.\n\nDélután pihenjen meg a Theatraki Skakieras kulturális csomópontjában, élvezve a nyitott teret és a helyi hangulatot.\n\nSétáját késő délután Kosztasz Kariotakisz költő történelmi házánál fejezze be, elmerengve Tripoli gazdag irodalmi örökségén.",
+        "ro": "Începeți dimineața admirând grandioasa Bila Tourkobasile, înainte de a vă scufunda în istoria arcadiană la Muzeul Arheologic.\n\nLa prânz, faceți tranziția de la antichitate la conflictele moderne la captivantul Muzeu al Războiului.\n\nDupă-amiaza, relaxați-vă la centrul cultural Theatraki Skakieras, bucurându-vă de spațiul deschis și de atmosfera locală.\n\nÎncheiați turul pietonal după-amiaza târziu la casa istorică a poetului Kostas Karyotakis, reflectând asupra moștenirii literare a orașului Tripoli.",
+        "en": "Start your morning admiring the grand Bila Tourkobasile before heading to the Archaeological Museum for a deep dive into Arcadian history.\n\nBy midday, transition from ancient times to modern conflicts at the captivating War Museum.\n\nIn the afternoon, relax at the cultural hub of Theatraki Skakieras, enjoying the open space and local atmosphere.\n\nConclude your walking tour in the late afternoon at the historic house of poet Kostas Karyotakis, reflecting on Tripoli's literary heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 4.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhalle der Musikschule Tripolis",
+            "hu": "Tripoli Zeneiskola Rendezvényterme",
+            "ro": "Sala Școlii de Muzică din Tripoli",
+            "en": "Aithousa Ekdeloseon Mousikou Skholeiou Tripoles"
+          },
+          "coords": [
+            22.364423,
+            37.500718
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser musikalischen Halle und schließen Sie Ihr Fahrrad sicher ab, während Sie die Architektur genießen.",
+            "hu": "Kezdje a túrát ennél a helyi zenei és kulturális központnál, és gondoskodjon a kerékpár biztonságos lezárásáról a nézelődés alatt.",
+            "ro": "Începeți plimbarea la această sală culturală și muzicală, asigurându-vă că bicicleta este blocată în siguranță în timp ce admirați arhitectura.",
+            "en": "Start your ride at this local musical and cultural hall, ensuring your bike is safely locked outside while you enjoy the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bila Tourkobasile",
+            "hu": "Bila Tourkobasile",
+            "ro": "Bila Tourkobasile",
+            "en": "Bila Tourkobasile"
+          },
+          "coords": [
+            22.368023,
+            37.50545
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem auffälligen Wahrzeichen und nutzen Sie die verkehrsberuhigten Bereiche für ein ungestörtes Foto.",
+            "hu": "Álljon meg egy pillanatra ennél a feltűnő nevezetességnél, és használja ki a forgalomcsillapított zónát egy zavartalan fotózáshoz.",
+            "ro": "Opriți-vă scurt la acest reper izbitor și folosiți zonele pietonale pentru a face o fotografie neîntreruptă.",
+            "en": "Pause briefly at this striking landmark, making use of the pedestrian-friendly zones to snap an uninterrupted photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Dichters Kostas Karyotakis",
+            "hu": "Kosztasz Kariotakisz költő háza",
+            "ro": "Casa poetului Kostas Karyotakis",
+            "en": "Oikia poiete Kosta Karuotake"
+          },
+          "coords": [
+            22.368088,
+            37.512652
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie langsam an diesem historischen literarischen Wohnsitz vorbei und achten Sie auf die detaillierten Inschriften an der Außenmauer.",
+            "hu": "Tekerjen lassan el ezen történelmi irodalmi lakóhely mellett, és figyelje meg a külső falon található részletes feliratokat.",
+            "ro": "Pedalați încet pe lângă această reședință literară istorică și observați inscripțiile detaliate de pe peretele exterior.",
+            "en": "Cycle slowly past this historic literary residence, paying attention to the detailed inscriptions found on its outer wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatraki Skakieras",
+            "hu": "Theatraki Skakieras",
+            "ro": "Theatraki Skakieras",
+            "en": "Theatraki Skakieras"
+          },
+          "coords": [
+            22.373844,
+            37.510615
+          ],
+          "category": "cultural",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine längere Pause ein; der weite, offene Platz mit dem Riesenschachbrett ist perfekt, um die Beine auszustrecken.",
+            "hu": "Tartson itt egy hosszabb pihenőt; a hatalmas sakktáblával rendelkező széles, nyitott tér tökéletes a lábak kinyújtóztatására.",
+            "ro": "Faceți o pauză mai lungă aici; piața largă și deschisă cu tabla de șah uriașă este perfectă pentru a vă întinde picioarele.",
+            "en": "Take a longer break here; the wide open square featuring the giant chessboard is perfect for stretching your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der gefallenen Arkadier 1940-1941",
+            "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+            "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+            "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+          },
+          "coords": [
+            22.361772,
+            37.517024
+          ],
+          "category": "historical",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal für die gefallenen Arkadier 1940-1941, ein perfekter ruhiger Ort für eine historische Reflexion.",
+            "hu": "Tartson pihenőt ennél az 1940-1941-es elesett árkádiaiaknak szentelt emlékműnél, amely tökéletes csendes hely a történelmi elmélkedéshez.",
+            "ro": "Opriți-vă la acest monument solemn dedicat arcadienilor căzuți în 1940-1941, un loc liniștit perfect pentru o reflecție istorică.",
+            "en": "Pause at this solemn monument dedicated to the fallen Arcadians of 1940-1941, a perfect quiet spot for historical reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathisma Kolokotrone",
+            "hu": "Kathisma Kolokotrone",
+            "ro": "Kathisma Kolokotrone",
+            "en": "Kathisma Kolokotrone"
+          },
+          "coords": [
+            22.352242,
+            37.516864
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Enden Sie an dieser historischen Stätte von Theodoros Kolokotronis und bringen Sie reichlich Wasser mit, da der Weg dorthin bergauf führen kann.",
+            "hu": "Fejezze be útját ezen a Theodoros Kolokotronis hőséhez kötődő történelmi helyszínen, és vigyen sok vizet, mert az út ide emelkedhet.",
+            "ro": "Încheiați la acest sit istoric legat de eroul Theodoros Kolokotronis, aducând multă apă deoarece drumul cu bicicleta poate fi în pantă.",
+            "en": "Conclude at this historic site linked to the hero Theodoros Kolokotronis, bringing plenty of water as the bike ride here can be uphill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt an der Musikhalle, bevor Sie zur markanten Bila Tourkobasile radeln.\n\nAm Mittag erkunden Sie das Wohnhaus des Dichters Kostas Karyotakis und ruhen sich am offenen Theatraki Skakieras aus.\n\nAm Nachmittag fahren Sie zum ernsten Denkmal der gefallenen Arkadier, um Ihren Respekt zu erweisen.\n\nIhre Reise endet wunderschön am Kathisma Kolokotrone und schließt einen Tag voller Kultur und Radfahren ab.",
+        "hu": "A reggeli kerékpározás a zenei csarnoknál kezdődik, mielőtt a lenyűgöző Bila Tourkobasile felé tekernénk.\n\nDélben felfedezheti Kosztasz Kariotakisz költő egykori otthonát, és megpihenhet a Theatraki Skakieras nyitott terén.\n\nDélután tekerjen az elesett árkádiaiak megható emlékművéhez, hogy lerója tiszteletét a hősök előtt.\n\nÚtja gyönyörűen zárul a Kathisma Kolokotrone történelmi helyszínén, megkoronázva egy kultúrában és mozgásban gazdag napot.",
+        "ro": "Plimbarea de dimineață cu bicicleta începe la sala de muzică, înainte de a pedala spre impresionanta Bila Tourkobasile.\n\nLa prânz explorați fosta reședință a poetului Kostas Karyotakis și vă odihniți la spațiosul Theatraki Skakieras.\n\nDupă-amiaza, mergeți spre monumentul sobru al arcadienilor căzuți pentru a vă aduce omagiul.\n\nCălătoria se încheie frumos la Kathisma Kolokotrone, încheind o zi bogată atât în cultură, cât și în mișcare.",
+        "en": "Your morning cycling begins at the musical hall before pedaling to the striking Bila Tourkobasile.\n\nMidday sees you exploring the former residence of poet Kostas Karyotakis and resting at the open Theatraki Skakieras.\n\nIn the afternoon, ride towards the sobering monument of the fallen Arcadians to pay your respects.\n\nYour journey concludes beautifully at Kathisma Kolokotrone, wrapping up a day rich in both culture and cycling."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 6.56,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathisma Kolokotrone",
+            "hu": "Kathisma Kolokotrone",
+            "ro": "Kathisma Kolokotrone",
+            "en": "Kathisma Kolokotrone"
+          },
+          "coords": [
+            22.352242,
+            37.516864
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um den Touristenmassen zu entgehen, und nutzen Sie den unbefestigten Parkplatz in der Nähe dieser Kolokotronis-Gedenkstätte.",
+            "hu": "Kezdjen itt, hogy elkerülje a turisták tömegét, és használja a Kolokotronis-emlékhely közelében lévő burkolatlan parkolót.",
+            "ro": "Începeți aici pentru a evita aglomerația și folosiți parcarea neasfaltată din apropierea acestui loc de memorie Kolokotronis.",
+            "en": "Start here to avoid the tourist crowds, and utilize the unpaved parking area near this Kolokotronis memorial site."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der gefallenen Arkadier 1940-1941",
+            "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+            "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+            "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+          },
+          "coords": [
+            22.361772,
+            37.517024
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Parken Sie kurz auf der Straße, um das majestätische Denkmal in Ruhe zu bewundern, welches den gefallenen Helden Arkadiens gewidmet ist.",
+            "hu": "Parkoljon le röviden az utcán, hogy csendben megcsodálhassa ezt a fenséges emlékművet, amelyet Árkádia elesett hőseinek szenteltek.",
+            "ro": "Parcați scurt pe stradă pentru a admira în liniște monumentul maiestuos dedicat eroilor căzuți din Arcadia.",
+            "en": "Park briefly on the street to quietly admire the majestic monument dedicated to the fallen heroes of Arcadia."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatro Alsous Agiou Georgiou",
+            "hu": "Theatro Alsous Agiou Georgiou",
+            "ro": "Theatro Alsous Agiou Georgiou",
+            "en": "Theatro Alsous Agiou Georgiou"
+          },
+          "coords": [
+            22.374546,
+            37.530515
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.86,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem malerischen Parktheater im Norden der Stadt und nutzen Sie die kostenlosen Parkplätze für einen entspannten Spaziergang.",
+            "hu": "Vezessen fel ehhez a festői parki színházhoz a város északi részén, és használja ki a közeli ingyenes parkolási lehetőséget egy kellemes sétához.",
+            "ro": "Conduceți până la acest teatru pitoresc din nordul orașului, profitând de parcarea gratuită din apropiere pentru o plimbare relaxantă.",
+            "en": "Drive up to this scenic park theater in the northern part of town, taking advantage of the free parking nearby for a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Tripolis",
+            "hu": "Tripoli Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Tripoli",
+            "en": "Archaeological Museum of Tripoli"
+          },
+          "coords": [
+            22.374,
+            37.509004
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.38,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto am nahegelegenen Hauptplatz ab; von dort aus ist das reiche archäologische Erbe des Museums leicht erreichbar.",
+            "hu": "Hagyja autóját a közeli főtéren; onnan könnyedén elérhető a múzeum gazdag régészeti öröksége.",
+            "ro": "Lăsați mașina la piața principală din apropiere; de acolo, patrimoniul arheologic bogat al muzeului este ușor accesibil.",
+            "en": "Leave your car at the nearby main square; from there, the museum's rich archaeological heritage is easily accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsmuseum Tripolis",
+            "hu": "Tripoli Hadtörténeti Múzeuma",
+            "ro": "Muzeul Războiului din Tripoli",
+            "en": "War museum of Tripoli"
+          },
+          "coords": [
+            22.371766,
+            37.510411
+          ],
+          "category": "museum",
+          "arrive_at": "14:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und gehen Sie zu Fuß weiter, um dieses tiefgreifende militärische Museum und die Artefakte ohne Parkstress zu erkunden.",
+            "hu": "Hagyja ott az autót, és menjen tovább gyalog, hogy parkolási stressz nélkül fedezze fel ezt a mélyreható katonai múzeumot és műtárgyait.",
+            "ro": "Lăsați mașina acolo unde este și continuați pe jos pentru a explora acest profund muzeu militar și artefactele sale fără stresul parcării.",
+            "en": "Leave your car parked and walk over to explore this profound military museum and its artifacts without parking stress."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhalle der Musikschule Tripolis",
+            "hu": "Tripoli Zeneiskola Rendezvényterme",
+            "ro": "Sala Școlii de Muzică din Tripoli",
+            "en": "Aithousa Ekdeloseon Mousikou Skholeiou Tripoles"
+          },
+          "coords": [
+            22.364423,
+            37.500718
+          ],
+          "category": "cultural",
+          "arrive_at": "16:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt hier, wo Sie ausreichend Parkplätze finden, und bewundern Sie die künstlerische Architektur der Schule am späten Nachmittag.",
+            "hu": "Fejezze be útját itt, ahol bőséges parkolóhely várja, és csodálja meg az iskola művészi építészetét a késő délutáni fényekben.",
+            "ro": "Încheiați-vă călătoria aici, unde veți găsi parcare amplă, și admirați arhitectura artistică a școlii la lumina după-amiezii târzii.",
+            "en": "Conclude your drive here where you'll find ample parking, and admire the artistic architecture of the school in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit dem monumentalen Kathisma Kolokotrone und dem nahegelegenen Denkmal für die gefallenen Arkadier.\n\nFahren Sie am Mittag nach Norden zum wunderschönen Theatro Alsous Agiou Georgiou für frische Luft und einen Spaziergang.\n\nAm Nachmittag kehren Sie in die Innenstadt zurück, um die archäologischen und militärischen Museen intensiv zu erkunden.\n\nBeenden Sie Ihren Tag bequem in der Nähe der Musikhalle und runden Sie diese perfekte Mischung aus Natur und Geschichte ab.",
+        "hu": "Kezdje autós túráját a monumentális Kathisma Kolokotrone és a közeli árkádiai elesettek emlékművének meglátogatásával.\n\nDélben hajtson északra a gyönyörű Theatro Alsous Agiou Georgiou felé, hogy friss levegőt szívjon egy festői parki séta során.\n\nDélután induljon vissza a belvárosba, hogy elmerüljön a Régészeti és a Hadtörténeti Múzeum lenyűgöző kiállításaiban.\n\nFejezze be a napot a zeneterem közelében parkolva, amely tökéletes lezárása a természet, a történelem és a kultúra e keverékének.",
+        "ro": "Începeți turul cu mașina la monumentalul Kathisma Kolokotrone și memorialul din apropiere pentru arcadienii căzuți.\n\nLa prânz, conduceți spre nord la frumosul Theatro Alsous Agiou Georgiou pentru o gură de aer proaspăt și o plimbare.\n\nDupă-amiaza, întoarceți-vă în centrul orașului pentru a explora în profunzime artefactele de la Muzeele Arheologic și de Război.\n\nÎncheiați ziua parcând ușor lângă sala de muzică, completând un amestec perfect de natură, istorie și cultură urbană.",
+        "en": "Start your driving tour with the monumental Kathisma Kolokotrone and the nearby memorial for fallen Arcadians.\n\nBy midday, cruise north to the beautiful Theatro Alsous Agiou Georgiou for a breath of fresh air and a scenic park stroll.\n\nIn the afternoon, head back downtown to deeply explore the artifacts at the Archaeological and War museums.\n\nFinish your day easily parking near the musical hall, rounding off a perfect mix of nature, history, and city culture."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-montilla-cities-v2",
+  "anchor": {
+    "name": "Montilla",
+    "coords": [
+      -4.640012,
+      37.586298
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 1.12,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Montilla",
+            "hu": "Ayuntamiento de Montilla",
+            "ro": "Ayuntamiento de Montilla",
+            "en": "Ayuntamiento de Montilla"
+          },
+          "coords": [
+            -4.640135,
+            37.586453
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade des Rathauses am zentralen Platz und bringen Sie ein Weitwinkelobjektiv mit, um die elegante Architektur optimal einzufangen.",
+            "hu": "Csodálja meg a városháza lenyűgöző történelmi homlokzatát a központi téren, és érdemes nagylátószögű objektívet hozni, hogy megörökítse ezt a klasszikus andalúz szépséget.",
+            "ro": "Admirați fațada istorică impresionantă a primăriei din piața centrală și aduceți un obiectiv cu unghi larg pentru a surprinde arhitectura sa elegantă pe cerul andaluz.",
+            "en": "Admire the striking historical facade of the town hall in the central square, and bring a wide-angle lens to capture its elegant architecture against the Andalusian sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Ana",
+            "hu": "Convento de Santa Ana",
+            "ro": "Convento de Santa Ana",
+            "en": "Convento de Santa Ana"
+          },
+          "coords": [
+            -4.638757,
+            37.586952
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Kloster aus dem 16. Jahrhundert, um den Altar zu bewundern, und senken Sie Ihre Stimme aus Respekt vor den hier lebenden Klausurnonnen.",
+            "hu": "Lépjen be ebbe a nyugodt 16. századi kolostorba, hogy megcsodálja oltárképét, és ne felejtse el lehalkítani a hangját, tiszteletben tartva az itt élő apácákat.",
+            "ro": "Pășiți în această mănăstire liniștită din secolul al XVI-lea pentru a-i admira altarul și nu uitați să vorbiți în șoaptă din respect pentru călugărițele de aici.",
+            "en": "Step inside this tranquil 16th-century convent to appreciate its stunning altarpiece, and remember to lower your voice to respect the cloistered nuns living here."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Juan de Ávila",
+            "hu": "Basílica de San Juan de Ávila",
+            "ro": "Basílica de San Juan de Ávila",
+            "en": "Basílica de San Juan de Ávila"
+          },
+          "coords": [
+            -4.638238,
+            37.588801
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Basilika mit den Reliquien des Schutzpatrons der spanischen Geistlichen und prüfen Sie die Messezeiten, da Besichtigungen dann pausieren.",
+            "hu": "Fedezze fel a spanyol papság védőszentjének ereklyéit őrző bazilikát, és előre ellenőrizze a misék menetrendjét, mivel a szertartások alatt a látogatás szünetel.",
+            "ro": "Explorați bazilica ce adăpostește moaștele sfântului patron al clerului spaniol și verificați programul slujbelor, deoarece vizitele turistice sunt întrerupte.",
+            "en": "Explore the basilica housing the relics of the patron saint of Spanish clergy, and check the mass schedule in advance as tourist visits are paused during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Garnelo",
+            "hu": "Museo Garnelo",
+            "ro": "Museo Garnelo",
+            "en": "Museo Garnelo"
+          },
+          "coords": [
+            -4.63972,
+            37.589
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die umfangreiche Kunstsammlung von José Garnelo in diesem prachtvollen Haus und fragen Sie das Personal nach seinem Einfluss auf den jungen Picasso.",
+            "hu": "Fedezze fel José Garnelo kiterjedt művészeti gyűjteményét ebben a nagyszerű házban, és kérdezze meg a személyzetet a fiatal Picassóra gyakorolt hatásáról.",
+            "ro": "Descoperiți colecția de artă a lui José Garnelo în această casă grandioasă și întrebați personalul amabil despre influența sa asupra tânărului Picasso.",
+            "en": "Discover the extensive art collection of José Garnelo y Alda in this grand house, taking time to ask the knowledgeable staff about his influence on a young Picasso."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Inca Garcilaso de la Vega",
+            "hu": "Casa del Inca Garcilaso de la Vega",
+            "ro": "Casa del Inca Garcilaso de la Vega",
+            "en": "Casa del Inca Garcilaso de la Vega"
+          },
+          "coords": [
+            -4.637033,
+            37.590012
+          ],
+          "category": "museum",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus des berühmten spanisch-inkaischen Chronisten aus dem 16. Jahrhundert und nutzen Sie den charmanten Innenhof für eine schattige Pause.",
+            "hu": "Látogasson el a híres spanyol-inka krónikás 16. századi otthonába, ahol érdemes megpihenni a bájos, árnyékos belső udvar nyújtotta hűvös nyugalomban.",
+            "ro": "Vizitați casa din secolul al XVI-lea a faimosului cronicar hispano-incaș, unde curtea interioară fermecătoare vă oferă un loc perfect și umbrit pentru a vă odihni.",
+            "en": "Visit the 16th-century home of the famous Spanish-Inca chronicler, where you should explore the charming inner courtyard which offers a perfect shaded resting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Montilla",
+            "hu": "Castillo de Montilla",
+            "ro": "Castillo de Montilla",
+            "en": "Castillo de Montilla"
+          },
+          "coords": [
+            -4.637663,
+            37.592236
+          ],
+          "category": "castle",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Ruinen dieser historischen Festung des Gran Capitán und tragen Sie festes Schuhwerk, um sicher über die unebenen Steinwege zu navigieren.",
+            "hu": "Sétáljon végig a Nagy Kapitány egykori hegyi erődjének romjai között, és feltétlenül viseljen masszív cipőt az egyenetlen kőösvényeken való biztonságos haladáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe istorice care a aparținut Marelui Căpitan și purtați încălțăminte rezistentă pentru a merge pe aleile pietruite.",
+            "en": "Walk through the ruins of this historic hilltop fortress that once belonged to the Great Captain, and wear sturdy shoes for navigating the uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Escuchuela",
+            "hu": "Mirador de la Escuchuela",
+            "ro": "Mirador de la Escuchuela",
+            "en": "Mirador de la Escuchuela"
+          },
+          "coords": [
+            -4.636913,
+            37.593244
+          ],
+          "category": "natural",
+          "arrive_at": "16:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ruhigen Aussichtspunkt den Panoramablick auf die andalusische Landschaft, der beste Ort der Stadt, um den goldenen Sonnenuntergang zu beobachten.",
+            "hu": "Élvezze a kiterjedt andalúz vidékre nyíló panorámát ebből a csendes kilátóból, amely a város abszolút legjobb pontja az aranyló naplemente megtekintéséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale peisajului andaluz de la acest punct de belvedere, fiind de departe cel mai bun loc din oraș pentru a admira apusul.",
+            "en": "Enjoy panoramic views of the sprawling Andalusian countryside from this quiet viewpoint, making it the absolute best spot in town to watch the golden sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der architektonischen Pracht des Rathauses, bevor Sie im Kloster Santa Ana Ruhe finden.\n\nDer Mittag bringt tiefe kulturelle Einblicke mit der Basilika und den Kunstsammlungen im Museo Garnelo.\n\nAm Nachmittag erkunden Sie die faszinierende Geschichte des Inca Garcilaso und das mittelalterliche Schloss auf dem Hügel.\n\nEntspannen Sie schließlich am Aussichtspunkt Escuchuela und beobachten Sie, wie die Sonne die andalusischen Felder in abendliches Gold taucht.",
+        "hu": "Kezdje a reggelt a városháza lenyűgöző építészetével, majd találjon nyugalomra a Santa Ana kolostorban.\n\nA dél a bazilika és a Museo Garnelo művészeti gyűjteményeinek kulturális elmélyülését hozza el.\n\nDélután fedezze fel az Inka Garcilaso lenyűgöző történetét, majd lépjen be a középkori múltba a hegytetőn álló kastélynál.\n\nVégül pihenjen meg az Escuchuela kilátónál, nézve, ahogy a nap esti aranyba öltözteti az andalúziai mezőket.",
+        "ro": "Începeți dimineața absorbind măreția primăriei înainte de a căuta liniștea în mănăstirea Santa Ana.\n\nPrânzul aduce o imersiune culturală profundă la bazilică și la colecțiile de artă de la Museo Garnelo.\n\nDupă-amiaza, descoperiți istoria fascinantă a lui Inca Garcilaso, apoi pășiți în trecutul medieval la castel.\n\nÎn cele din urmă, relaxați-vă la punctul de belvedere Escuchuela, privind cum apusul îmbracă câmpiile andaluze în aur de seară.",
+        "en": "Start your morning absorbing the architectural grandeur of the central town hall before seeking quiet reflection in the Santa Ana convent.\n\nMidday brings profound cultural immersion as you visit the striking basilica and the art collections of Museo Garnelo.\n\nIn the afternoon, trace the fascinating history of the Inca Garcilaso before stepping into the medieval past at the hilltop castle.\n\nFinally, unwind at the Escuchuela viewpoint, watching the sun paint the Andalusian fields in evening gold."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Convento de Santa Ana",
+            "hu": "Convento de Santa Ana",
+            "ro": "Convento de Santa Ana",
+            "en": "Convento de Santa Ana"
+          },
+          "coords": [
+            -4.638757,
+            37.586952
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Kloster aus dem 16. Jahrhundert, um den Altar zu bewundern, und senken Sie Ihre Stimme aus Respekt vor den hier lebenden Klausurnonnen.",
+            "hu": "Lépjen be ebbe a nyugodt 16. századi kolostorba, hogy megcsodálja oltárképét, és ne felejtse el lehalkítani a hangját, tiszteletben tartva az itt élő apácákat.",
+            "ro": "Pășiți în această mănăstire liniștită din secolul al XVI-lea pentru a-i admira altarul și nu uitați să vorbiți în șoaptă din respect pentru călugărițele de aici.",
+            "en": "Step inside this tranquil 16th-century convent to appreciate its stunning altarpiece, and remember to lower your voice to respect the cloistered nuns living here."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de San Juan de Ávila",
+            "hu": "Basílica de San Juan de Ávila",
+            "ro": "Basílica de San Juan de Ávila",
+            "en": "Basílica de San Juan de Ávila"
+          },
+          "coords": [
+            -4.638238,
+            37.588801
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Basilika mit den Reliquien des Schutzpatrons der spanischen Geistlichen und prüfen Sie die Messezeiten, da Besichtigungen dann pausieren.",
+            "hu": "Fedezze fel a spanyol papság védőszentjének ereklyéit őrző bazilikát, és előre ellenőrizze a misék menetrendjét, mivel a szertartások alatt a látogatás szünetel.",
+            "ro": "Explorați bazilica ce adăpostește moaștele sfântului patron al clerului spaniol și verificați programul slujbelor, deoarece vizitele turistice sunt întrerupte.",
+            "en": "Explore the basilica housing the relics of the patron saint of Spanish clergy, and check the mass schedule in advance as tourist visits are paused during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Inca Garcilaso de la Vega",
+            "hu": "Casa del Inca Garcilaso de la Vega",
+            "ro": "Casa del Inca Garcilaso de la Vega",
+            "en": "Casa del Inca Garcilaso de la Vega"
+          },
+          "coords": [
+            -4.637033,
+            37.590012
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus des berühmten spanisch-inkaischen Chronisten aus dem 16. Jahrhundert und nutzen Sie den charmanten Innenhof für eine schattige Pause.",
+            "hu": "Látogasson el a híres spanyol-inka krónikás 16. századi otthonába, ahol érdemes megpihenni a bájos, árnyékos belső udvar nyújtotta hűvös nyugalomban.",
+            "ro": "Vizitați casa din secolul al XVI-lea a faimosului cronicar hispano-incaș, unde curtea interioară fermecătoare vă oferă un loc perfect și umbrit pentru a vă odihni.",
+            "en": "Visit the 16th-century home of the famous Spanish-Inca chronicler, where you should explore the charming inner courtyard which offers a perfect shaded resting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Montilla",
+            "hu": "Castillo de Montilla",
+            "ro": "Castillo de Montilla",
+            "en": "Castillo de Montilla"
+          },
+          "coords": [
+            -4.637663,
+            37.592236
+          ],
+          "category": "castle",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Ruinen dieser historischen Festung des Gran Capitán und tragen Sie festes Schuhwerk, um sicher über die unebenen Steinwege zu navigieren.",
+            "hu": "Sétáljon végig a Nagy Kapitány egykori hegyi erődjének romjai között, és feltétlenül viseljen masszív cipőt az egyenetlen kőösvényeken való biztonságos haladáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe istorice care a aparținut Marelui Căpitan și purtați încălțăminte rezistentă pentru a merge pe aleile pietruite.",
+            "en": "Walk through the ruins of this historic hilltop fortress that once belonged to the Great Captain, and wear sturdy shoes for navigating the uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Escuchuela",
+            "hu": "Mirador de la Escuchuela",
+            "ro": "Mirador de la Escuchuela",
+            "en": "Mirador de la Escuchuela"
+          },
+          "coords": [
+            -4.636913,
+            37.593244
+          ],
+          "category": "natural",
+          "arrive_at": "13:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ruhigen Aussichtspunkt den Panoramablick auf die andalusische Landschaft, der beste Ort der Stadt, um den goldenen Sonnenuntergang zu beobachten.",
+            "hu": "Élvezze a kiterjedt andalúz vidékre nyíló panorámát ebből a csendes kilátóból, amely a város abszolút legjobb pontja az aranyló naplemente megtekintéséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale peisajului andaluz de la acest punct de belvedere, fiind de departe cel mai bun loc din oraș pentru a admira apusul.",
+            "en": "Enjoy panoramic views of the sprawling Andalusian countryside from this quiet viewpoint, making it the absolute best spot in town to watch the golden sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento San Lorenzo",
+            "hu": "Convento San Lorenzo",
+            "ro": "Convento San Lorenzo",
+            "en": "Convento San Lorenzo"
+          },
+          "coords": [
+            -4.624021,
+            37.599449
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in diesem historischen Franziskanerkloster inmitten der Natur und probieren Sie unbedingt die traditionellen Süßigkeiten der ansässigen Gemeinschaft.",
+            "hu": "Találjon békére ebben a gyönyörű természettel körülvett történelmi ferences kolostorban, és feltétlenül vásároljon a helyi közösség által sütött hagyományos édességekből.",
+            "ro": "Găsiți liniștea în această mănăstire franciscană înconjurată de natură și încercați să cumpărați câteva dintre dulciurile tradiționale coapte de comunitatea locală.",
+            "en": "Find peace in this historical Franciscan convent surrounded by beautiful nature, and try to purchase some of the traditional sweets baked by the resident community."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Cubierta Municipal",
+            "hu": "Piscina Cubierta Municipal",
+            "ro": "Piscina Cubierta Municipal",
+            "en": "Piscina Cubierta Municipal"
+          },
+          "coords": [
+            -4.650791,
+            37.578989
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag im örtlichen Hallenbad, aber bringen Sie unbedingt Ihre eigene Badekappe mit, da diese für den Eintritt zwingend erforderlich ist.",
+            "hu": "Pihenjen és töltődjön fel a helyi fedett medencében egy hosszú városnéző nap után, de mindenképpen hozzon magával úszósapkát, mert a belépéshez kötelező.",
+            "ro": "Relaxați-vă la piscina interioară locală după o zi lungă de vizite, dar asigurați-vă că aduceți propria cască de înot, deoarece este strict necesară pentru acces.",
+            "en": "Relax and recharge at the local indoor pool after a long day of sightseeing, but make sure to bring your own swimming cap as they are strictly required for entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am ruhigen Kloster Santa Ana, gefolgt von einer kurzen Fahrt zur Basilika.\n\nMittags tauchen Sie in der Casa del Inca in das doppelte Erbe ein und genießen weite Ausblicke vom Schloss.\n\nDie Nachmittagsfahrt führt Sie zum malerischen Convento San Lorenzo, wo Natur und Geschichte perfekt verschmelzen.\n\nBeenden Sie Ihren aktiven Tag mit einem erfrischenden Bad und Entspannung im städtischen Hallenbad.",
+        "hu": "Kerékpártúrája a békés Santa Ana kolostornál kezdődik, amelyet egy rövid út követ a bazilikához.\n\nDélben elmerülhet a Casa del Inca kettős örökségében, és élvezheti a kastély ősi falairól nyíló kilátást.\n\nA délutáni tekerés a festői Convento San Lorenzo felé visz, ahol a természet és a történelem tökéletesen egybeforr.\n\nZárja aktív napját egy frissítő úszással és pihenéssel a helyi fedett uszodában.",
+        "ro": "Turul cu bicicleta începe la mănăstirea Santa Ana, urmat de o scurtă plimbare către bazilică.\n\nLa prânz, veți explora patrimoniul de la Casa del Inca și veți admira panoramele de la castel.\n\nPlimbarea de după-amiază vă duce la pitoreasca mănăstire San Lorenzo, unde natura și istoria se îmbină perfect.\n\nÎncheiați-vă ziua activă cu o baie răcoritoare și relaxare la piscina interioară municipală.",
+        "en": "Your cycling tour begins at the serene Convent of Santa Ana, followed by a short ride to the historical basilica.\n\nBy midday, you'll be delving into the dual heritage at the Casa del Inca and absorbing sweeping vistas from the castle's ancient walls.\n\nThe afternoon ride takes you out to the scenic Convento San Lorenzo, where nature and history blend perfectly.\n\nConclude your active day with a refreshing swim and relaxation at the municipal indoor pool."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 3.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Cubierta Municipal",
+            "hu": "Piscina Cubierta Municipal",
+            "ro": "Piscina Cubierta Municipal",
+            "en": "Piscina Cubierta Municipal"
+          },
+          "coords": [
+            -4.650791,
+            37.578989
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag im örtlichen Hallenbad, aber bringen Sie unbedingt Ihre eigene Badekappe mit, da diese für den Eintritt zwingend erforderlich ist.",
+            "hu": "Pihenjen és töltődjön fel a helyi fedett medencében egy hosszú városnéző nap után, de mindenképpen hozzon magával úszósapkát, mert a belépéshez kötelező.",
+            "ro": "Relaxați-vă la piscina interioară locală după o zi lungă de vizite, dar asigurați-vă că aduceți propria cască de înot, deoarece este strict necesară pentru acces.",
+            "en": "Relax and recharge at the local indoor pool after a long day of sightseeing, but make sure to bring your own swimming cap as they are strictly required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Montilla",
+            "hu": "Ayuntamiento de Montilla",
+            "ro": "Ayuntamiento de Montilla",
+            "en": "Ayuntamiento de Montilla"
+          },
+          "coords": [
+            -4.640135,
+            37.586453
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade des Rathauses am zentralen Platz und bringen Sie ein Weitwinkelobjektiv mit, um die elegante Architektur optimal einzufangen.",
+            "hu": "Csodálja meg a városháza lenyűgöző történelmi homlokzatát a központi téren, és érdemes nagylátószögű objektívet hozni, hogy megörökítse ezt a klasszikus andalúz szépséget.",
+            "ro": "Admirați fațada istorică impresionantă a primăriei din piața centrală și aduceți un obiectiv cu unghi larg pentru a surprinde arhitectura sa elegantă pe cerul andaluz.",
+            "en": "Admire the striking historical facade of the town hall in the central square, and bring a wide-angle lens to capture its elegant architecture against the Andalusian sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Garnelo",
+            "hu": "Museo Garnelo",
+            "ro": "Museo Garnelo",
+            "en": "Museo Garnelo"
+          },
+          "coords": [
+            -4.63972,
+            37.589
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die umfangreiche Kunstsammlung von José Garnelo in diesem prachtvollen Haus und fragen Sie das Personal nach seinem Einfluss auf den jungen Picasso.",
+            "hu": "Fedezze fel José Garnelo kiterjedt művészeti gyűjteményét ebben a nagyszerű házban, és kérdezze meg a személyzetet a fiatal Picassóra gyakorolt hatásáról.",
+            "ro": "Descoperiți colecția de artă a lui José Garnelo în această casă grandioasă și întrebați personalul amabil despre influența sa asupra tânărului Picasso.",
+            "en": "Discover the extensive art collection of José Garnelo y Alda in this grand house, taking time to ask the knowledgeable staff about his influence on a young Picasso."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Inca Garcilaso de la Vega",
+            "hu": "Casa del Inca Garcilaso de la Vega",
+            "ro": "Casa del Inca Garcilaso de la Vega",
+            "en": "Casa del Inca Garcilaso de la Vega"
+          },
+          "coords": [
+            -4.637033,
+            37.590012
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus des berühmten spanisch-inkaischen Chronisten aus dem 16. Jahrhundert und nutzen Sie den charmanten Innenhof für eine schattige Pause.",
+            "hu": "Látogasson el a híres spanyol-inka krónikás 16. századi otthonába, ahol érdemes megpihenni a bájos, árnyékos belső udvar nyújtotta hűvös nyugalomban.",
+            "ro": "Vizitați casa din secolul al XVI-lea a faimosului cronicar hispano-incaș, unde curtea interioară fermecătoare vă oferă un loc perfect și umbrit pentru a vă odihni.",
+            "en": "Visit the 16th-century home of the famous Spanish-Inca chronicler, where you should explore the charming inner courtyard which offers a perfect shaded resting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Montilla",
+            "hu": "Castillo de Montilla",
+            "ro": "Castillo de Montilla",
+            "en": "Castillo de Montilla"
+          },
+          "coords": [
+            -4.637663,
+            37.592236
+          ],
+          "category": "castle",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Ruinen dieser historischen Festung des Gran Capitán und tragen Sie festes Schuhwerk, um sicher über die unebenen Steinwege zu navigieren.",
+            "hu": "Sétáljon végig a Nagy Kapitány egykori hegyi erődjének romjai között, és feltétlenül viseljen masszív cipőt az egyenetlen kőösvényeken való biztonságos haladáshoz.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe istorice care a aparținut Marelui Căpitan și purtați încălțăminte rezistentă pentru a merge pe aleile pietruite.",
+            "en": "Walk through the ruins of this historic hilltop fortress that once belonged to the Great Captain, and wear sturdy shoes for navigating the uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento San Lorenzo",
+            "hu": "Convento San Lorenzo",
+            "ro": "Convento San Lorenzo",
+            "en": "Convento San Lorenzo"
+          },
+          "coords": [
+            -4.624021,
+            37.599449
+          ],
+          "category": "historical",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in diesem historischen Franziskanerkloster inmitten der Natur und probieren Sie unbedingt die traditionellen Süßigkeiten der ansässigen Gemeinschaft.",
+            "hu": "Találjon békére ebben a gyönyörű természettel körülvett történelmi ferences kolostorban, és feltétlenül vásároljon a helyi közösség által sütött hagyományos édességekből.",
+            "ro": "Găsiți liniștea în această mănăstire franciscană înconjurată de natură și încercați să cumpărați câteva dintre dulciurile tradiționale coapte de comunitatea locală.",
+            "en": "Find peace in this historical Franciscan convent surrounded by beautiful nature, and try to purchase some of the traditional sweets baked by the resident community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer revitalisierenden Runde im städtischen Schwimmbad, bevor Sie zum historischen Rathaus fahren.\n\nDer Mittag ist den besten Museen Montillas gewidmet: Meisterwerke bei Garnelo und Kolonialgeschichte im Haus des Inka.\n\nAm Nachmittag erkunden Sie die rauen Überreste des Schlosses hoch über den Straßen.\n\nDer Tag endet mit einer kurzen, malerischen Fahrt zum friedlichen Gelände des Convento San Lorenzo.",
+        "hu": "Indítsa a reggelt egy frissítő úszással a városi uszodában, mielőtt a történelmi központba hajtana a városházához.\n\nA délidőt Montilla legjobb múzeumainak szentelheti, megcsodálva a Garnelo remekműveit és a gyarmati történelmet az Inka házában.\n\nDélután fedezze fel a helyi kastély romjait, amelyek magasan az utcák felett magasodnak.\n\nA nap egy rövid festői autózással zárul a békés Convento San Lorenzo területére.",
+        "ro": "Începeți dimineața cu o sesiune revitalizantă la piscina municipală înainte de a conduce în inima istorică la primărie.\n\nPrânzul este dedicat celor mai bune muzee, admirând capodopere la Garnelo și istorie colonială la casa incașului.\n\nDupă-amiaza, explorați rămășițele castelului local, cocoțat sus deasupra străzilor.\n\nZiua se încheie cu un scurt drum pitoresc către terenurile liniștite ale mănăstirii San Lorenzo.",
+        "en": "Kick off the morning with a revitalizing session at the municipal pool before driving into the historical heart of town at the town hall.\n\nMidday is dedicated to Montilla's finest museums, admiring classical masterpieces at Garnelo and colonial history at the Inca's house.\n\nAs afternoon approaches, explore the rugged remnants of the local castle perched high above the streets.\n\nThe day wraps up with a short scenic drive out to the peaceful grounds of Convento San Lorenzo."
+      }
+    }
+  }
+}

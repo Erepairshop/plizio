@@ -1,0 +1,497 @@
+{
+  "city_id": "merida-cities-v2",
+  "anchor": {
+    "name": "Mérida",
+    "coords": [
+      -89.6236,
+      20.9676
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Letras gigantes de Mérida",
+            "hu": "Letras gigantes de Mérida",
+            "ro": "Letras gigantes de Mérida",
+            "en": "Letras gigantes de Mérida"
+          },
+          "coords": [
+            -89.623938,
+            20.967111
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Foto vor den bunten Stadtbuchstaben ist ein Muss für jeden Besucher, kommen Sie am besten früh morgens für bestes Licht ohne Menschenmassen.",
+            "hu": "A színes városi betűk előtti fotó kötelező program minden látogatónak, érdemes kora reggel érkezni a legjobb fények és a tömeg elkerülése végett.",
+            "ro": "O fotografie în fața literelor colorate ale orașului este obligatorie pentru vizitatori; veniți dimineața devreme pentru cea mai bună lumină și fără aglomerație.",
+            "en": "Taking a photo in front of the colorful city letters is a must for every visitor, so arrive early in the morning for the best light and no crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tita - Galerie für Maya-Kunst",
+            "hu": "Tita - Maja Művészeti Galéria",
+            "ro": "Tita - Galeria de Artă Mayașă",
+            "en": "Tita - Gallery of Mayan Art and History"
+          },
+          "coords": [
+            -89.623324,
+            20.968677
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier faszinierende zeitgenössische Maya-Kunst, nehmen Sie sich Zeit für die Details und fragen Sie das Personal nach den Hintergründen.",
+            "hu": "Fedezze fel a lenyűgöző kortárs maja művészetet ezen a helyen, szánjon időt a részletekre, és kérdezze a személyzetet az alkotások hátteréről.",
+            "ro": "Descoperiți aici arta contemporană mayașă fascinantă, luați-vă timp pentru detalii și întrebați personalul despre poveștile din spatele lucrărilor.",
+            "en": "Discover fascinating contemporary Mayan art here, take your time with the details, and ask the knowledgeable staff about the background of the artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Artists Foundation",
+            "hu": "Artists Foundation",
+            "ro": "Fundația Artiștilor",
+            "en": "Artists Foundation"
+          },
+          "coords": [
+            -89.624549,
+            20.971242
+          ],
+          "category": "landmark",
+          "arrive_at": "10:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Dieser kreative Treffpunkt fördert lokale Talente mit wechselnden Ausstellungen; prüfen Sie das Programm online vor Ihrem Besuch für Events.",
+            "hu": "Ez a kreatív találkozóhely helyi tehetségeket támogat időszaki kiállításokkal; látogatás előtt ellenőrizze az aktuális programot az online felületeken.",
+            "ro": "Acest centru creativ susține talentele locale prin expoziții temporare; verificați programul online înainte de vizită pentru evenimente speciale.",
+            "en": "This creative hub supports local talents with rotating exhibitions, so be sure to check their current online schedule for any special events before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Nahualli",
+            "hu": "Nahualli",
+            "ro": "Nahualli",
+            "en": "Nahualli"
+          },
+          "coords": [
+            -89.621368,
+            20.976867
+          ],
+          "category": "museum",
+          "arrive_at": "10:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Das Museum präsentiert die reiche Kulturgeschichte der Region in wunderschönen Räumen; leihen Sie sich einen Audioguide für tiefere Einblicke aus.",
+            "hu": "A múzeum a régió gazdag kultúrtörténetét mutatja be gyönyörű termekben; érdemes audioguide-ot bérelni a mélyebb és átfogóbb megértés érdekében.",
+            "ro": "Muzeul prezintă istoria culturală bogată a regiunii în săli absolut superbe; închiriați un ghid audio pentru a înțelege mai bine contextul istoric.",
+            "en": "The museum presents the region's rich cultural history in beautiful rooms; be sure to rent an audio guide for deeper and more comprehensive insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Catherwood",
+            "hu": "Casa Catherwood",
+            "ro": "Casa Catherwood",
+            "en": "Casa Catherwood"
+          },
+          "coords": [
+            -89.630765,
+            20.969801
+          ],
+          "category": "museum",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Lithografien alter Maya-Ruinen des Forschers Frederick Catherwood und kaufen Sie im Shop wunderschöne Kunstdrucke als Souvenir.",
+            "hu": "Csodálja meg Frederick Catherwood maja romokat ábrázoló litográfiáit, és vásároljon gyönyörű művészi nyomatokat a múzeum ajándékboltjában.",
+            "ro": "Admirați litografiile detaliate ale vechilor ruine mayașe realizate de Frederick Catherwood și cumpărați reproduceri artistice de la magazinul de suveniruri.",
+            "en": "Admire the highly detailed lithographs of ancient Mayan ruins by explorer Frederick Catherwood, and buy beautiful art prints at the gift shop as souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Sitio Experimental De Arte",
+            "hu": "Sitio Experimental De Arte",
+            "ro": "Sitio Experimental De Arte",
+            "en": "Sitio Experimental De Arte"
+          },
+          "coords": [
+            -89.628643,
+            20.959789
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Erleben Sie avantgardistische Kunstinstallationen in diesem einzigartigen Raum; bleiben Sie offen für unkonventionelle interaktive Ausstellungen.",
+            "hu": "Tapasztalja meg az avantgárd művészeti installációkat ebben a kísérleti térben; legyen nyitott a rendhagyó és interaktív kiállításokra.",
+            "ro": "Experimentați instalații de artă avangardistă în acest spațiu experimental unic; păstrați-vă o minte deschisă pentru expoziții interactive neconvenționale.",
+            "en": "Experience avant-garde art installations in this unique experimental space, and keep an open mind for the unconventional interactive exhibitions on display."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum an den bunten Stadtbuchstaben.\n\nMittags tauchen Sie in die Maya-Kunst der Galerie Tita und der Artists Foundation ein.\n\nAm Nachmittag erwarten Sie beeindruckende Ausstellungen im Nahualli und der Casa Catherwood.\n\nBeenden Sie den Abend in der experimentellen Kunstszene, die neue, moderne Perspektiven auf die yucatekische Kultur bietet.",
+        "hu": "Kezdje a reggelt a városközpontban a színes városfeliratnál.\n\nDélben merüljön el a maja művészetben a Tita Galériában és az Artists Foundation-ben.\n\nDélután lenyűgöző gyűjtemények várják a Nahualli és a Casa Catherwood múzeumokban.\n\nZárja az estét a kísérleti művészeti színtérrel, amely új, modern távlatokat nyit a yucatáni kultúra megismerésében.",
+        "ro": "Începeți dimineața în centrul orașului la literele colorate emblematice.\n\nLa prânz, cufundați-vă în arta mayașă de la Galeria Tita și Fundația Artiștilor.\n\nDupă-amiaza vă așteaptă colecțiile impresionante de la Nahualli și Casa Catherwood.\n\nÎncheiați seara explorând scena de artă experimentală, care oferă perspective moderne asupra culturii yucatece.",
+        "en": "Start your day in the heart of Mérida at the colorful city letters for great photos.\n\nAt midday, immerse yourself in Mayan art at the nearby Tita Gallery and Artists Foundation.\n\nIn the afternoon, head north to discover the impressive collections at the Nahualli and Casa Catherwood museums.\n\nConclude your evening exploring Mérida's experimental art scene for a fresh cultural perspective."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Letras gigantes de Mérida",
+            "hu": "Letras gigantes de Mérida",
+            "ro": "Letras gigantes de Mérida",
+            "en": "Letras gigantes de Mérida"
+          },
+          "coords": [
+            -89.623938,
+            20.967111
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Foto vor den bunten Stadtbuchstaben ist ein Muss für jeden Besucher, kommen Sie am besten früh morgens für bestes Licht ohne Menschenmassen.",
+            "hu": "A színes városi betűk előtti fotó kötelező program minden látogatónak, érdemes kora reggel érkezni a legjobb fények és a tömeg elkerülése végett.",
+            "ro": "O fotografie în fața literelor colorate ale orașului este obligatorie pentru vizitatori; veniți dimineața devreme pentru cea mai bună lumină și fără aglomerație.",
+            "en": "Taking a photo in front of the colorful city letters is a must for every visitor, so arrive early in the morning for the best light and no crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Catherwood",
+            "hu": "Casa Catherwood",
+            "ro": "Casa Catherwood",
+            "en": "Casa Catherwood"
+          },
+          "coords": [
+            -89.630765,
+            20.969801
+          ],
+          "category": "museum",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Lithografien alter Maya-Ruinen des Forschers Frederick Catherwood und kaufen Sie im Shop wunderschöne Kunstdrucke als Souvenir.",
+            "hu": "Csodálja meg Frederick Catherwood maja romokat ábrázoló litográfiáit, és vásároljon gyönyörű művészi nyomatokat a múzeum ajándékboltjában.",
+            "ro": "Admirați litografiile detaliate ale vechilor ruine mayașe realizate de Frederick Catherwood și cumpărați reproduceri artistice de la magazinul de suveniruri.",
+            "en": "Admire the highly detailed lithographs of ancient Mayan ruins by explorer Frederick Catherwood, and buy beautiful art prints at the gift shop as souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Vendedor",
+            "hu": "Monumento al Vendedor",
+            "ro": "Monumento al Vendedor",
+            "en": "Monumento al Vendedor"
+          },
+          "coords": [
+            -89.641153,
+            20.967641
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses Denkmal ehrt die hart arbeitenden Straßenverkäufer der Stadt; es ist ein toller kurzer Fotostopp auf dem Weg durch das belebte Viertel.",
+            "hu": "Ez az emlékmű a város keményen dolgozó utcai árusai előtt tiszteleg; nagyszerű rövid fotómegálló a nyüzsgő negyedeken keresztül vezető úton.",
+            "ro": "Acest monument onorează vânzătorii ambulanți muncitori din oraș; este o oprire foto scurtă excelentă în drumul dumneavoastră prin cartierul aglomerat.",
+            "en": "This monument honors the hard-working street vendors of the city, making it a great quick photo stop on your way through the bustling neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Xoclan",
+            "hu": "Xoclan",
+            "ro": "Xoclan",
+            "en": "Xoclan"
+          },
+          "coords": [
+            -89.66687,
+            20.97526
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.81,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wichtigen archäologischen Orientierungspunkt, der die antike Stadtstruktur zeigt; tragen Sie bequeme Schuhe für unebenes Gelände.",
+            "hu": "Fedezze fel ezt a fontos régészeti tájékozódási pontot, amely az ókori városszerkezetet mutatja; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți acest punct de reper arheologic important care arată structura antică a orașului; purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Discover this important archaeological landmark that reveals the ancient city structure, and remember to wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque ecoarqueológico Xoclán",
+            "hu": "Parque ecoarqueológico Xoclán",
+            "ro": "Parcul eco-arheologic Xoclán",
+            "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+          },
+          "coords": [
+            -89.66904,
+            20.981253
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Maya-Ruinen inmitten üppiger Natur; bringen Sie unbedingt Insektenschutz und ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a lenyűgöző maja romokat a buja természet lágy ölén; feltétlenül vigyen magával rovarriasztót és elegendő ivóvizet a park látogatásához.",
+            "ro": "Explorați fascinantele ruine mayașe înconjurate de natură luxuriantă; asigurați-vă că aduceți spray împotriva insectelor și suficientă apă potabilă.",
+            "en": "Explore the fascinating Mayan ruins set amidst lush natural surroundings, and be sure to bring insect repellent and plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Nahualli",
+            "hu": "Nahualli",
+            "ro": "Nahualli",
+            "en": "Nahualli"
+          },
+          "coords": [
+            -89.621368,
+            20.976867
+          ],
+          "category": "museum",
+          "arrive_at": "14:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Das Museum präsentiert die reiche Kulturgeschichte der Region in wunderschönen Räumen; leihen Sie sich einen Audioguide für tiefere Einblicke aus.",
+            "hu": "A múzeum a régió gazdag kultúrtörténetét mutatja be gyönyörű termekben; érdemes audioguide-ot bérelni a mélyebb és átfogóbb megértés érdekében.",
+            "ro": "Muzeul prezintă istoria culturală bogată a regiunii în săli absolut superbe; închiriați un ghid audio pentru a înțelege mai bine contextul istoric.",
+            "en": "The museum presents the region's rich cultural history in beautiful rooms; be sure to rent an audio guide for deeper and more comprehensive insights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Morgen mit einer entspannten Radtour zu den Mérida-Buchstaben.\n\nMittags radeln Sie gen Westen zur Casa Catherwood und zum Denkmal des Verkäufers.\n\nVerbringen Sie den Nachmittag damit, den weitläufigen Xoclán-Park und seine Ruinen zu erkunden.\n\nKehren Sie abends in die Altstadt zurück, um im Nahualli-Museum in das kulturelle Erbe einzutauchen.",
+        "hu": "Kezdje a reggelt egy laza kerékpározással az ikonikus Mérida betűkhöz.\n\nDélben induljon nyugat felé a Casa Catherwoodhoz és az Árus Emlékművéhez.\n\nTöltse a délutánt a hatalmas Xoclán park és a lenyűgöző ősi romok felfedezésével.\n\nEste térjen vissza az óvárosba, hogy elmerüljön a kulturális örökségben a gyönyörű Nahualli Múzeumban.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă cu bicicleta la literele emblematice.\n\nLa prânz, mergeți spre vest spre Casa Catherwood și Monumentul Vânzătorului.\n\nPetreceți-vă după-amiaza explorând parcul extins Xoclán și ruinele sale fascinante.\n\nÎntoarceți-vă în orașul vechi seara pentru a explora patrimoniul cultural la minunatul Muzeu Nahualli.",
+        "en": "Begin your morning with a relaxed bike ride to the iconic Mérida letters.\n\nAt midday, head west to see historic Mayan lithographs at Casa Catherwood and the Vendor Monument.\n\nSpend your afternoon exploring the expansive Xoclán park and its fascinating ancient ruins.\n\nReturn to the old town in the evening to delve into cultural heritage at the beautiful Nahualli Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 20.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tita - Galerie für Maya-Kunst",
+            "hu": "Tita - Maja Művészeti Galéria",
+            "ro": "Tita - Galeria de Artă Mayașă",
+            "en": "Tita - Gallery of Mayan Art and History"
+          },
+          "coords": [
+            -89.623324,
+            20.968677
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier faszinierende zeitgenössische Maya-Kunst, nehmen Sie sich Zeit für die Details und fragen Sie das Personal nach den Hintergründen.",
+            "hu": "Fedezze fel a lenyűgöző kortárs maja művészetet ezen a helyen, szánjon időt a részletekre, és kérdezze a személyzetet az alkotások hátteréről.",
+            "ro": "Descoperiți aici arta contemporană mayașă fascinantă, luați-vă timp pentru detalii și întrebați personalul despre poveștile din spatele lucrărilor.",
+            "en": "Discover fascinating contemporary Mayan art here, take your time with the details, and ask the knowledgeable staff about the background of the artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque ecoarqueológico Xoclán",
+            "hu": "Parque ecoarqueológico Xoclán",
+            "ro": "Parcul eco-arheologic Xoclán",
+            "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+          },
+          "coords": [
+            -89.66904,
+            20.981253
+          ],
+          "category": "historical",
+          "arrive_at": "09:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Maya-Ruinen inmitten üppiger Natur; bringen Sie unbedingt Insektenschutz und ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a lenyűgöző maja romokat a buja természet lágy ölén; feltétlenül vigyen magával rovarriasztót és elegendő ivóvizet a park látogatásához.",
+            "ro": "Explorați fascinantele ruine mayașe înconjurate de natură luxuriantă; asigurați-vă că aduceți spray împotriva insectelor și suficientă apă potabilă.",
+            "en": "Explore the fascinating Mayan ruins set amidst lush natural surroundings, and be sure to bring insect repellent and plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento del Astrónomo Maya",
+            "hu": "Monumento del Astrónomo Maya",
+            "ro": "Monumento del Astrónomo Maya",
+            "en": "Monumento del Astrónomo Maya"
+          },
+          "coords": [
+            -89.667914,
+            20.936863
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Diese imposante Statue feiert die unglaublichen astronomischen Kenntnisse der Maya; parken Sie direkt daneben für einen unkomplizierten Fotostopp.",
+            "hu": "Ez az impozáns szobor a maják hihetetlen csillagászati tudását ünnepli; parkoljon közvetlenül mellette egy egyszerű és gyors fotómegálló erejéig.",
+            "ro": "Această statuie impunătoare celebrează cunoștințele astronomice incredibile ale mayașilor; parcați chiar lângă ea pentru o oprire foto rapidă și simplă.",
+            "en": "This imposing statue celebrates the incredible astronomical knowledge of the Maya people, so park right next to it for a completely hassle-free photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Pedro Sáinz de Baranda",
+            "hu": "Monumento a Pedro Sáinz de Baranda",
+            "ro": "Monumento a Pedro Sáinz de Baranda",
+            "en": "Monumento a Pedro Sáinz de Baranda"
+          },
+          "coords": [
+            -89.674132,
+            20.932499
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein historisches Monument für einen bedeutenden Marineoffizier; lesen Sie die Gedenktafel, um mehr über seine entscheidende Rolle zu erfahren.",
+            "hu": "Történelmi emlékmű egy jelentős haditengerészeti tiszt tiszteletére; olvassa el az emléktáblát, hogy többet megtudjon sorsdöntő szerepéről.",
+            "ro": "Un monument istoric dedicat unui ofițer naval important; citiți placa comemorativă pentru a afla mai multe despre rolul său crucial în istorie.",
+            "en": "A historical monument dedicated to an important naval officer; take a moment to read the plaque to learn about his crucial role in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Felipe Carrillo Puerto",
+            "hu": "Monumento a Felipe Carrillo Puerto",
+            "ro": "Monumento a Felipe Carrillo Puerto",
+            "en": "Monumento a Felipe Carrillo Puerto"
+          },
+          "coords": [
+            -89.685976,
+            20.926002
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieses Denkmal erinnert an den berühmten sozialistischen Führer Yucatáns; der umliegende Platz eignet sich perfekt für eine kurze Pause im Schatten.",
+            "hu": "Ez az emlékmű Yucatán híres szocialista vezetőjének állít emléket; a környező tér tökéletes egy rövid, árnyékban eltöltött pihenőhöz az utazás során.",
+            "ro": "Acest monument îl comemorează pe faimosul lider socialist din Yucatán; piațeta înconjurătoare este perfectă pentru o scurtă pauză relaxantă la umbră.",
+            "en": "This monument commemorates the famous socialist leader of Yucatán, and the surrounding square is perfect for a short relaxing break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sitio Experimental De Arte",
+            "hu": "Sitio Experimental De Arte",
+            "ro": "Sitio Experimental De Arte",
+            "en": "Sitio Experimental De Arte"
+          },
+          "coords": [
+            -89.628643,
+            20.959789
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.1,
+          "tip_5lang": {
+            "de": "Erleben Sie avantgardistische Kunstinstallationen in diesem einzigartigen Raum; bleiben Sie offen für unkonventionelle interaktive Ausstellungen.",
+            "hu": "Tapasztalja meg az avantgárd művészeti installációkat ebben a kísérleti térben; legyen nyitott a rendhagyó és interaktív kiállításokra.",
+            "ro": "Experimentați instalații de artă avangardistă în acest spațiu experimental unic; păstrați-vă o minte deschisă pentru expoziții interactive neconvenționale.",
+            "en": "Experience avant-garde art installations in this unique experimental space, and keep an open mind for the unconventional interactive exhibitions on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Catherwood",
+            "hu": "Casa Catherwood",
+            "ro": "Casa Catherwood",
+            "en": "Casa Catherwood"
+          },
+          "coords": [
+            -89.630765,
+            20.969801
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Lithografien alter Maya-Ruinen des Forschers Frederick Catherwood und kaufen Sie im Shop wunderschöne Kunstdrucke.",
+            "hu": "Csodálja meg Frederick Catherwood maja romokat ábrázoló litográfiáit, és vásároljon gyönyörű művészi nyomatokat a múzeum ajándékboltjában.",
+            "ro": "Admirați litografiile detaliate ale vechilor ruine mayașe realizate de Frederick Catherwood și cumpărați reproduceri artistice de la magazinul de suveniruri.",
+            "en": "Admire the highly detailed lithographs of ancient Mayan ruins by explorer Frederick Catherwood, and buy beautiful art prints at the gift shop as souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen komfortabel in der Tita-Galerie mit zeitgenössischer Kunst.\n\nMittags fahren Sie zum Ökopark Xoclán, um die antiken Maya-Ruinen zu erkunden.\n\nUnternehmen Sie am Nachmittag eine Fahrt nach Südwesten zu historischen Monumenten.\n\nVerbringen Sie Ihren Abend mit avantgardistischen Installationen im experimentellen Kunstzentrum.",
+        "hu": "Kezdje a reggelt kényelmesen a Tita Galériában a kortárs művészet csodálatával.\n\nDélben vezessen el a Xoclán Ökoparkba, és fedezze fel az ősi maja romokat.\n\nDélután tegyen egy autós túrát délnyugat felé, hogy megtekintse a történelmi emlékműveket.\n\nTöltse az estét az avantgárd installációk felfedezésével a Kísérleti Művészeti Központban.",
+        "ro": "Începeți dimineața confortabil la Galeria Tita pentru a admira artă contemporană.\n\nLa prânz, conduceți către Eco-Park Xoclán pentru a explora ruinele antice mayașe.\n\nDupă-amiaza, faceți o plimbare arhitecturală spre sud-vest pentru monumente istorice.\n\nPetreceți-vă seara descoperind instalații avangardiste la Centrul de Artă Experimentală.",
+        "en": "Start your morning comfortably at the Tita Gallery to admire contemporary art.\n\nAt midday, drive to the Xoclán Eco-Park to explore the ancient Mayan ruins in nature.\n\nIn the afternoon, embark on an architectural drive southwest to view historic monuments.\n\nSpend your evening discovering avant-garde installations at the Experimental Art Center."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "turkey-camyuva-cities-v2",
+  "anchor": {
+    "name": "Çamyuva",
+    "coords": [
+      30.56232,
+      36.55591
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Larissa Inn Beach",
+            "hu": "Larissa Inn Beach",
+            "ro": "Plaja Larissa Inn",
+            "en": "Larissa Inn Beach"
+          },
+          "coords": [
+            30.56773,
+            36.554679
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang am feinen Sand dieses beliebten Strandes, aber kommen Sie früh, um sich eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli sétát ennek a népszerű helyi strandnak a finom homokján, de érkezzen korán, hogy jó napágyat szerezzen a vízparton.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită pe nisipul fin al acestei plaje populare, dar ajungeți devreme pentru a prinde un șezlong bun la apă.",
+            "en": "Enjoy a tranquil morning stroll along the pristine sands of this popular local beach, but arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paid Beach",
+            "hu": "Paid Beach",
+            "ro": "Paid Beach",
+            "en": "Paid Beach"
+          },
+          "coords": [
+            30.570078,
+            36.55717
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Küstenabschnitt mit hervorragenden Annehmlichkeiten und bringen Sie etwas Bargeld für den Strandservice mit.",
+            "hu": "Pihenjen meg ezen a kiváló felszereltségű, gondozott partszakaszon, és mindenképpen vigyen magával készpénzt a kényelmes strandi kiszolgáláshoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă bine întreținută, cu facilități excelente, și asigurați-vă că aveți bani cash pentru serviciile de plajă.",
+            "en": "Unwind at this well-maintained coastal stretch offering excellent amenities, and make sure to bring extra cash for the convenient beachside service."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolu Su Aquapark",
+            "hu": "Dolu Su Aquapark",
+            "ro": "Dolu Su Aquapark",
+            "en": "Dolu Su Aquapark"
+          },
+          "coords": [
+            30.573901,
+            36.564375
+          ],
+          "category": "landmark",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen und Wellenbäder an diesem lebhaften Wahrzeichen, also denken Sie an wasserfeste Sonnencreme und eine Tasche.",
+            "hu": "Próbálja ki az izgalmas vízicsúszdákat és hullámmedencéket ezen a nyüzsgő helyen, így ne felejtsen el vízálló naptejet és száraz táskát hozni.",
+            "ro": "Experimentați toboganele de apă și piscinele cu valuri la acest punct de atracție, așa că nu uitați crema de soare rezistentă la apă și o geantă.",
+            "en": "Experience thrilling water slides and wave pools at this vibrant landmark, so remember to pack waterproof sunscreen and a secure dry bag for your items."
+          }
+        },
+        {
+          "name": {
+            "de": "Daima",
+            "hu": "Daima",
+            "ro": "Daima",
+            "en": "Daima"
+          },
+          "coords": [
+            30.576377,
+            36.563978
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich an diesem weitläufigen Erholungsort mit energiegeladener Atmosphäre und versuchen Sie, außerhalb der Stoßzeiten zu kommen.",
+            "hu": "Frissüljön fel ezen az energikus hangulatáról ismert, kiterjedt szabadidős helyszínen, és próbáljon csúcsidőn kívül érkezni a tömeg elkerülése végett.",
+            "ro": "Răcoriți-vă în acest loc de agrement întins, cunoscut pentru atmosfera sa plină de energie, și încercați să vizitați în afara orelor de vârf.",
+            "en": "Refresh yourself at this sprawling recreational spot known for its energetic atmosphere, and try visiting during off-peak hours to avoid the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            30.577314,
+            36.56695
+          ],
+          "category": "cultural",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kulturellen Echos der Region an diesem großen Freilicht-Veranstaltungsort und tragen Sie feste Schuhe für die alten Steinstufen.",
+            "hu": "Fedezze fel a régió kulturális visszhangjait ezen a hatalmas szabadtéri helyszínen, és viseljen kényelmes cipőt az ősi kőlépcsőkön való sétához.",
+            "ro": "Descoperiți ecourile culturale ale regiunii la acest grandios loc în aer liber și purtați pantofi rezistenți pentru a urca treptele vechi de piatră.",
+            "en": "Discover the cultural echoes of the region at this grand open-air venue, and wear sturdy walking shoes to comfortably navigate the ancient stone steps."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den sanften Ufern der Küste von Çamyuva, wo das Rauschen der Wellen für einen entspannten Start sorgt.\n\nNachdem Sie die Morgensonne an den Stränden genossen haben, gehen Sie weiter nach Norden zu den aufregenden Attraktionen, die der Aquapark bietet.\n\nDer Nachmittag bringt eine ruhigere Atmosphäre mit sich, ideal zum Entspannen in den Freizeitzonen der örtlichen Ferienanlagen und zur Erholung im Schatten.\n\nSchließen Sie Ihre Entdeckungsreise ab, indem Sie in die lokale Kultur eintauchen und die majestätischen Ruinen besichtigen, während das Nachmittagslicht schwindet.",
+        "hu": "Kezdje a napot Çamyuva tengerpartjának lágy homokján, ahol a hullámok zúgása tökéletes és pihentető indulást biztosít a reggelnek.\n\nMiután kiélvezte a napsütést a partokon, induljon észak felé, hogy kipróbálja a helyi vízipark izgalmas medencéit és csúszdáit.\n\nA délután békésebb hangulatot kínál, amely ideális a helyi szabadidős komplexumok árnyékában való pihenésre és feltöltődésre.\n\nZárja a felfedezőutat a helyi kultúrába való elmerüléssel, megcsodálva a fenséges szabadtéri romokat, miközben a délutáni fények lassan elhalványulnak.",
+        "ro": "Începeți ziua pe malurile blânde ale coastei din Çamyuva, unde sunetul valurilor oferă un început perfect și relaxant.\n\nDupă ce v-ați bucurat de soarele dimineții pe plaje, îndreptați-vă spre nord către atracțiile captivante pe care le oferă parcul acvatic.\n\nDupă-amiaza aduce o atmosferă mai liniștită, ideală pentru relaxare în zonele de agrement ale stațiunilor locale, la umbră.\n\nÎncheiați-vă explorarea scufundându-vă în cultura locală, vizitând ruinele maiestuoase în aer liber pe măsură ce lumina după-amiezii se estompează.",
+        "en": "Begin your day along the gentle shores of the Çamyuva coastline, where the sound of the waves provides a perfectly relaxing start.\n\nAfter soaking up the morning sun at the beaches, head further north toward the thrilling aquatic attractions that the local water park offers.\n\nThe afternoon brings a more peaceful vibe, making it ideal to unwind in the recreational zones of local resort complexes and recharge in the shade.\n\nConclude your exploration by delving into the local culture, visiting the majestic open-air ruins as the beautiful afternoon light begins to fade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Robinson Club Camyuva",
+            "hu": "Robinson Club Camyuva",
+            "ro": "Robinson Club Camyuva",
+            "en": "Robinson Club Camyuva"
+          },
+          "coords": [
+            30.555594,
+            36.540252
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses markanten Resorts und machen Sie eine kurze Pause im nahegelegenen Café für eine Erfrischung.",
+            "hu": "Csodálja meg ezen a kiemelkedő üdülőhelyen a lenyűgöző építészetet, és fontolja meg, hogy megáll egy közeli kávézóban egy gyors frissítőre.",
+            "ro": "Admirați arhitectura impresionantă a acestui complex turistic de referință și luați în considerare o oprire la cafeneaua din apropiere pentru o gustare.",
+            "en": "Take in the impressive architecture of this prominent landmark resort, and consider stopping at the nearby café for a quick refreshment during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Larissa Inn Beach",
+            "hu": "Larissa Inn Beach",
+            "ro": "Plaja Larissa Inn",
+            "en": "Larissa Inn Beach"
+          },
+          "coords": [
+            30.56773,
+            36.554679
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang am feinen Sand dieses beliebten Strandes, aber kommen Sie früh, um sich eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli sétát ennek a népszerű helyi strandnak a finom homokján, de érkezzen korán, hogy jó napágyat szerezzen a vízparton.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită pe nisipul fin al acestei plaje populare, dar ajungeți devreme pentru a prinde un șezlong bun la apă.",
+            "en": "Enjoy a tranquil morning stroll along the pristine sands of this popular local beach, but arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paid Beach",
+            "hu": "Paid Beach",
+            "ro": "Paid Beach",
+            "en": "Paid Beach"
+          },
+          "coords": [
+            30.570078,
+            36.55717
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Küstenabschnitt mit hervorragenden Annehmlichkeiten und bringen Sie etwas Bargeld für den Strandservice mit.",
+            "hu": "Pihenjen meg ezen a kiváló felszereltségű, gondozott partszakaszon, és mindenképpen vigyen magával készpénzt a kényelmes strandi kiszolgáláshoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă bine întreținută, cu facilități excelente, și asigurați-vă că aveți bani cash pentru serviciile de plajă.",
+            "en": "Unwind at this well-maintained coastal stretch offering excellent amenities, and make sure to bring extra cash for the convenient beachside service."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolu Su Aquapark",
+            "hu": "Dolu Su Aquapark",
+            "ro": "Dolu Su Aquapark",
+            "en": "Dolu Su Aquapark"
+          },
+          "coords": [
+            30.573901,
+            36.564375
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen und Wellenbäder an diesem lebhaften Wahrzeichen, also denken Sie an wasserfeste Sonnencreme und eine Tasche.",
+            "hu": "Próbálja ki az izgalmas vízicsúszdákat és hullámmedencéket ezen a nyüzsgő helyen, így ne felejtsen el vízálló naptejet és száraz táskát hozni.",
+            "ro": "Experimentați toboganele de apă și piscinele cu valuri la acest punct de atracție, așa că nu uitați crema de soare rezistentă la apă și o geantă.",
+            "en": "Experience thrilling water slides and wave pools at this vibrant landmark, so remember to pack waterproof sunscreen and a secure dry bag for your items."
+          }
+        },
+        {
+          "name": {
+            "de": "DoluSu Park - Delfinarium",
+            "hu": "DoluSu Park - Delfinárium",
+            "ro": "Parcul DoluSu - Delfinariu",
+            "en": "DoluSu Park - Dolphinarium"
+          },
+          "coords": [
+            30.574985,
+            36.564046
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die fesselnden Meereslebewesen in diesem interaktiven Wasserpark und prüfen Sie den Tagesplan, um sich die besten Plätze zu sichern.",
+            "hu": "Csodálja meg a lenyűgöző tengeri élővilágot ebben az interaktív víziparkban, és ellenőrizze a napi menetrendet a legjobb helyek biztosítása érdekében.",
+            "ro": "Minunați-vă de viața marină captivantă din acest parc acvatic interactiv și verificați programul zilnic pentru a vă asigura cele mai bune locuri.",
+            "en": "Marvel at the captivating marine life displays in this interactive aquatic park, and check the daily schedule beforehand to secure the best show seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "amphitheater"
+          },
+          "coords": [
+            30.581804,
+            36.572016
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den dramatischen Sonnenuntergang von den oberen Rängen dieses historischen Bauwerks, aber bringen Sie wegen der Abendbrise eine Jacke mit.",
+            "hu": "Szívja magába a drámai naplemente látványát ennek a történelmi építménynek a felső szintjeiről, de hozzon magával egy könnyű kabátot az esti szellő miatt.",
+            "ro": "Absorbiți priveliștile dramatice ale apusului de pe nivelurile superioare ale acestei structuri istorice, dar aduceți o jachetă din cauza brizei.",
+            "en": "Absorb the dramatic sunset views from the upper tiers of this historical structure, but bring a light jacket as the evening coastal breeze can get chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Mobilität Ihres Fahrrads und starten Sie den Tag mit der frischen Meeresbrise im Süden, wo ikonische Resorts die Landschaft prägen.\n\nRadeln Sie entlang der wunderschönen Küstenlinie und machen Sie ausgiebige Pausen an den lebendigen Stränden, um sich in der Sonne zu entspannen.\n\nZur Mittagszeit lockt der Nervenkitzel des Wassersports; tauchen Sie in die spritzigen Abenteuer der örtlichen Themenparks und Delfinarien ein.\n\nBeenden Sie Ihre abwechslungsreiche Radtour mit einem Besuch historischer Stätten im Norden und beobachten Sie, wie die Sonne über dem Mittelmeer untergeht.",
+        "hu": "Használja ki a kerékpár nyújtotta szabadságot, és kezdje a napot a friss tengeri szellővel délen, ahol ikonikus üdülőhelyek tarkítják a tájat.\n\nTekerjen végig a gyönyörű partvonal mentén, és tartson hosszabb pihenőket a nyüzsgő strandokon, hogy a napfényben fürdőzve töltődjön fel.\n\nDélben a vízi sportok izgalmai hívogatnak; merüljön el a helyi vidámparkok és delfináriumok frissítő, vizes kalandjaiban.\n\nZárja a változatos kerékpártúrát az északi történelmi helyszínek meglátogatásával, és figyelje, ahogy a nap lebukik a Földközi-tenger felett.",
+        "ro": "Profitați de mobilitatea bicicletei și începeți ziua cu briza proaspătă a mării în sud, unde stațiunile emblematice domină peisajul de coastă.\n\nPedalați de-a lungul coastei frumoase, făcând pauze ample pe plajele pline de viață pentru a vă relaxa și a vă încărca la soare.\n\nLa prânz, fiorul sporturilor nautice vă atrage; scufundați-vă în aventurile răcoritoare ale parcurilor tematice locale și delfinariilor.\n\nÎncheiați turul variat cu bicicleta explorând siturile istorice din nord și urmăriți cum soarele apune peste apele Mării Mediterane.",
+        "en": "Embrace the mobility of your bike by starting the day with the fresh sea breeze down south, where iconic resorts dot the lush coastal landscape.\n\nPedal your way along the beautiful shoreline, making ample stops at the vibrant local beaches to relax and recharge under the bright sunshine.\n\nBy midday, the thrill of aquatics calls; dive into the splashing adventures provided by the town's beloved theme parks and engaging marine exhibits.\n\nFinish your diverse cycling tour by exploring the historical landmarks tucked in the north, watching the sun dip over the tranquil Mediterranean waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alacasu",
+            "hu": "Alacasu",
+            "ro": "Alacasu",
+            "en": "Alacasu"
+          },
+          "coords": [
+            30.556665,
+            36.535503
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses abgeschiedene Erholungsparadies inmitten üppiger Natur und packen Sie ein Picknick ein, um ein ruhiges Mittagessen zu genießen.",
+            "hu": "Fedezze fel ezt a buja természettel körülvett, eldugott paradicsomot, és csomagoljon egy kis pikniket, hogy a nyüzsgő központtól távol ebédelhessen.",
+            "ro": "Explorați acest paradis retras înconjurat de natură luxuriantă și împachetați un picnic pentru a vă bucura de un prânz liniștit departe de agitație.",
+            "en": "Explore this secluded recreational paradise surrounded by lush nature, and pack a small picnic to enjoy a peaceful lunch away from the bustling city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson Club Camyuva",
+            "hu": "Robinson Club Camyuva",
+            "ro": "Robinson Club Camyuva",
+            "en": "Robinson Club Camyuva"
+          },
+          "coords": [
+            30.555594,
+            36.540252
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses markanten Resorts und machen Sie eine kurze Pause im nahegelegenen Café für eine Erfrischung.",
+            "hu": "Csodálja meg ezen a kiemelkedő üdülőhelyen a lenyűgöző építészetet, és fontolja meg, hogy megáll egy közeli kávézóban egy gyors frissítőre.",
+            "ro": "Admirați arhitectura impresionantă a acestui complex turistic de referință și luați în considerare o oprire la cafeneaua din apropiere pentru o gustare.",
+            "en": "Take in the impressive architecture of this prominent landmark resort, and consider stopping at the nearby café for a quick refreshment during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Larissa Inn Beach",
+            "hu": "Larissa Inn Beach",
+            "ro": "Plaja Larissa Inn",
+            "en": "Larissa Inn Beach"
+          },
+          "coords": [
+            30.56773,
+            36.554679
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang am feinen Sand dieses beliebten Strandes, aber kommen Sie früh, um sich eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a nyugodt reggeli sétát ennek a népszerű helyi strandnak a finom homokján, de érkezzen korán, hogy jó napágyat szerezzen a vízparton.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită pe nisipul fin al acestei plaje populare, dar ajungeți devreme pentru a prinde un șezlong bun la apă.",
+            "en": "Enjoy a tranquil morning stroll along the pristine sands of this popular local beach, but arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Paid Beach",
+            "hu": "Paid Beach",
+            "ro": "Paid Beach",
+            "en": "Paid Beach"
+          },
+          "coords": [
+            30.570078,
+            36.55717
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Küstenabschnitt mit hervorragenden Annehmlichkeiten und bringen Sie etwas Bargeld für den Strandservice mit.",
+            "hu": "Pihenjen meg ezen a kiváló felszereltségű, gondozott partszakaszon, és mindenképpen vigyen magával készpénzt a kényelmes strandi kiszolgáláshoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă bine întreținută, cu facilități excelente, și asigurați-vă că aveți bani cash pentru serviciile de plajă.",
+            "en": "Unwind at this well-maintained coastal stretch offering excellent amenities, and make sure to bring extra cash for the convenient beachside service."
+          }
+        },
+        {
+          "name": {
+            "de": "DoluSu Park - Delfinarium",
+            "hu": "DoluSu Park - Delfinárium",
+            "ro": "Parcul DoluSu - Delfinariu",
+            "en": "DoluSu Park - Dolphinarium"
+          },
+          "coords": [
+            30.574985,
+            36.564046
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die fesselnden Meereslebewesen in diesem interaktiven Wasserpark und prüfen Sie den Tagesplan, um sich die besten Plätze zu sichern.",
+            "hu": "Csodálja meg a lenyűgöző tengeri élővilágot ebben az interaktív víziparkban, és ellenőrizze a napi menetrendet a legjobb helyek biztosítása érdekében.",
+            "ro": "Minunați-vă de viața marină captivantă din acest parc acvatic interactiv și verificați programul zilnic pentru a vă asigura cele mai bune locuri.",
+            "en": "Marvel at the captivating marine life displays in this interactive aquatic park, and check the daily schedule beforehand to secure the best show seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            30.577314,
+            36.56695
+          ],
+          "category": "cultural",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kulturellen Echos der Region an diesem großen Freilicht-Veranstaltungsort und tragen Sie feste Schuhe für die alten Steinstufen.",
+            "hu": "Fedezze fel a régió kulturális visszhangjait ezen a hatalmas szabadtéri helyszínen, és viseljen kényelmes cipőt az ősi kőlépcsőkön való sétához.",
+            "ro": "Descoperiți ecourile culturale ale regiunii la acest grandios loc în aer liber și purtați pantofi rezistenți pentru a urca treptele vechi de piatră.",
+            "en": "Discover the cultural echoes of the region at this grand open-air venue, and wear sturdy walking shoes to comfortably navigate the ancient stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "amphitheater"
+          },
+          "coords": [
+            30.581804,
+            36.572016
+          ],
+          "category": "landmark",
+          "arrive_at": "16:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den dramatischen Sonnenuntergang von den oberen Rängen dieses historischen Bauwerks, aber bringen Sie wegen der Abendbrise eine Jacke mit.",
+            "hu": "Szívja magába a drámai naplemente látványát ennek a történelmi építménynek a felső szintjeiről, de hozzon magával egy könnyű kabátot az esti szellő miatt.",
+            "ro": "Absorbiți priveliștile dramatice ale apusului de pe nivelurile superioare ale acestei structuri istorice, dar aduceți o jachetă din cauza brizei.",
+            "en": "Absorb the dramatic sunset views from the upper tiers of this historical structure, but bring a light jacket as the evening coastal breeze can get chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren komfortablen Roadtrip ganz im Süden und genießen Sie die abgelegene Ruhe versteckter Oasen fernab der üblichen Pfade.\n\nFahren Sie im Laufe des Vormittags entspannt von Wahrzeichen zu Küstenabschnitten, wo Sie aussteigen können, um die Sonne auf der Haut zu spüren.\n\nDer Nachmittag verspricht familienfreundliche Unterhaltung in den Meeresparks; tauchen Sie in Shows ein, bevor Sie das Auto wieder nach Norden steuern.\n\nLassen Sie den Tag mit Kultur pur ausklingen, indem Sie leicht zwischen verschiedenen antiken Stätten hin- und herfahren und die Aussicht genießen.",
+        "hu": "Indítsa kényelmes autós kirándulását egészen délen, élvezve a megszokott útvonalaktól távol eső, eldugott oázisok nyugalmát a természetben.\n\nA délelőtt folyamán nyugodtan autózzon a nevezetességektől a tengerpartig, ahol könnyedén megállhat, hogy élvezze a melengető napsugarakat.\n\nA délután családbarát szórakozást ígér a tengeri parkokban; merüljön el az előadásokban, mielőtt újra észak felé venné az irányt.\n\nZárja a napot tömény kultúrával, könnyedén ingázva a különböző ókori helyszínek között, miközben gyönyörködik az esti tengerparti kilátásban.",
+        "ro": "Începeți excursia confortabilă cu mașina în sudul îndepărtat, bucurându-vă de liniștea oazelor retrase, departe de traseele obișnuite turistice.\n\nPe parcursul dimineții, conduceți relaxat de la punctele de atracție la coastă, oprind oriunde pentru a simți căldura soarelui pe plajă.\n\nDupă-amiaza promite divertisment pentru familie la parcurile marine; bucurați-vă de spectacole înainte de a vă îndrepta din nou mașina spre nord.\n\nÎncheiați ziua cu multă cultură, conducând ușor între diversele situri antice magnifice și bucurându-vă de priveliștile impresionante ale apusului.",
+        "en": "Kick off your comfortable road trip in the deep south, enjoying the secluded tranquility of hidden oases nestled away from the usual paths.\n\nThroughout the morning, drive effortlessly from prominent landmarks to the coastline, where you can easily hop out to feel the warm sunshine.\n\nThe afternoon promises family-friendly entertainment at the marine parks; immerse yourself in the lively shows before steering north once again.\n\nCap off the day immersed in pure culture, easily driving between different magnificent ancient sites and soaking up the stunning coastal vistas."
+      }
+    }
+  }
+}

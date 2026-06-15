@@ -1,0 +1,497 @@
+{
+  "city_id": "thailand-ban-na-chom-thian-cities-v2",
+  "anchor": {
+    "name": "Ban Na Chom Thian",
+    "coords": [
+      100.90876,
+      12.85756
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tiger Park Pattaya",
+            "hu": "Tiger Park Pattaya",
+            "ro": "Parcul de Tigri Pattaya",
+            "en": "Tiger Park Pattaya"
+          },
+          "coords": [
+            100.90176,
+            12.8709
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Großkatzen in sicheren Gehegen hautnah für ein spannendes Fotomotiv, wobei ein früher Besuch die Menschenmassen meidet.",
+            "hu": "Csodáld meg a fenséges nagymacskákat biztonságos környezetben, amely fantasztikus fotótéma, de érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Apropie-te de felinele maiestuoase în țarcuri sigure pentru o sesiune foto palpitantă, de preferat dimineața devreme pentru a evita aglomerația.",
+            "en": "Get up close with majestic big cats in safely monitored enclosures, an exciting photo opportunity best visited early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Snake Show",
+            "hu": "Pattaya Kígyó Show",
+            "ro": "Spectacolul cu Șerpi Pattaya",
+            "en": "Pattaya Snake Show"
+          },
+          "coords": [
+            100.903335,
+            12.868542
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie fesselnde Vorführungen von erfahrenen Schlangenbändigern, bei denen ein Sitzplatz in den hinteren Reihen eine gute Sicht bietet.",
+            "hu": "Nézd meg a tapasztalt idomárok izgalmas kígyóbemutatóját, ahol a néhány sorral hátrébb lévő helyekről is tökéletes és biztonságos kilátás nyílik.",
+            "ro": "Urmărește demonstrații captivante ale îmblânzitorilor de șerpi veninoși, un spectacol fascinant unde locurile mai din spate oferă o priveliște bună.",
+            "en": "Watch thrilling demonstrations by experienced handlers showcasing venomous snakes, a fascinating display where sitting a few rows back offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+            "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+            "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+            "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+          },
+          "coords": [
+            100.90481,
+            12.86788
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen Holzpavillons auf dem Wasser, um die authentische thailändische Kultur zu erleben, und verhandeln Sie beim Souvenirkauf.",
+            "hu": "Fedezd fel a hagyományos, vízen lebegő fapavilonokat, ahol belekóstolhatsz a thai kultúrába, és ne felejts el alkudozni a szuvenírek vásárlásakor.",
+            "ro": "Explorează pavilioanele tradiționale de lemn pe apă pentru a experimenta cultura thailandeză, asigurându-te că negociezi mereu prețul suvenirurilor.",
+            "en": "Explore the traditional wooden pavilions on water to experience authentic Thai regional culture and foods, ensuring you negotiate when buying souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkey School/Show",
+            "hu": "Majomiskola és Show",
+            "ro": "Școala și Spectacolul Maimuțelor",
+            "en": "Monkey School/Show"
+          },
+          "coords": [
+            100.905823,
+            12.861904
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Sehen Sie akrobatische Kunststücke und das Kokosnusspflücken von trainierten Affen, ein familienfreundlicher Halt, bei dem frühes Kommen gute Plätze sichert.",
+            "hu": "Nézd meg a betanított majmok akrobatikus mutatványait és kókuszszedését, ez egy remek családi program, ahol a korai érkezés biztosítja az első soros helyet.",
+            "ro": "Vezi acrobațiile incredibile și culesul nucilor de cocos de către maimuțele dresate, o oprire ideală pentru familii, unde sosirea devreme asigură locuri în față.",
+            "en": "See incredible acrobatic feats and coconut-picking demonstrations by trained monkeys, a family-friendly stop where arriving early gets you front-row seats."
+          }
+        },
+        {
+          "name": {
+            "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+            "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+            "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+            "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+          },
+          "coords": [
+            100.902019,
+            12.847227
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren Strandabschnitt, der sich perfekt für einen Nachmittagsspaziergang eignet, und holen Sie sich eine frische Kokosnuss.",
+            "hu": "Pihenj meg ezen a csendesebb, aranyszínű homokos partszakaszon, amely tökéletes egy délutáni sétához, és vegyél egy friss kókuszt a helyi árusoktól.",
+            "ro": "Relaxează-te pe această porțiune liniștită de nisip, perfectă pentru o plimbare de după-amiază, și cumpără o nucă de cocos proaspătă de la un vânzător local.",
+            "en": "Relax on this quieter stretch of golden sand perfect for a peaceful afternoon walk, and grab a fresh coconut from one of the small local seaside vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit Adrenalin im Tiger Park und der spannenden Schlangenshow, während Sie die kühlere Morgenluft genießen.\n\nBesuchen Sie mittags den belebten schwimmenden Markt von Pattaya, um inmitten der hölzernen Wasserpavillons zu Mittag zu essen.\n\nErleben Sie am Nachmittag die lokale Unterhaltung in der Affenschule, bevor Sie gemütlich in Richtung Küste spazieren.\n\nLassen Sie den Tag entspannt an den weichen Sandstränden des North Na Jomtien Beach ausklingen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdd a napot adrenalinnal a Tigrisparkban és az izgalmas Kígyó Show-n, élvezve a hűvösebb reggeli levegőt.\n\nDélben látogass el a nyüzsgő Pattaya Úszópiacra, és kóstolj meg egy regionális ebédet a színes fa vízi pavilonok között.\n\nDélután élvezd a helyi szórakoztató műsorokat a Majomiskolában, mielőtt egy kényelmes sétát tennél a tengerpart felé.\n\nZárd a napot a North Na Jomtien Strand puha homokján pihenve, egy frissítő itallal a kezedben figyelve a naplementét.",
+        "ro": "Începeți ziua cu adrenalină la Parcul de Tigri și la palpitantul Spectacol cu Șerpi, bucurându-vă de aerul mai răcoros al dimineții.\n\nLa prânz, mergeți la aglomerata Piață Plutitoare din Pattaya pentru un prânz diversificat printre pavilioanele de lemn de pe apă.\n\nDupă-amiază, experimentați divertismentul local la Școala de Maimuțe, înainte de a face o plimbare relaxantă spre coastă.\n\nÎncheiați-vă ziua relaxându-vă pe nisipul fin de la North Na Jomtien Beach, admirând apusul cu o băutură răcoritoare în mână.",
+        "en": "Start the day with adrenaline at Tiger Park and the thrilling Snake Show, enjoying the cooler morning air.\n\nHead over to the bustling Pattaya Floating Market for a diverse regional lunch amid the vibrant wooden water pavilions.\n\nExperience the local entertainment at the Monkey School before taking a leisurely walk towards the coast.\n\nConclude your day relaxing on the soft sands of North Na Jomtien Beach, watching the sunset with a refreshing drink in hand."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 4.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "ATV Club",
+            "hu": "ATV Klub",
+            "ro": "Clubul ATV",
+            "en": "ATV Club"
+          },
+          "coords": [
+            100.898013,
+            12.868068
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spüren Sie das Adrenalin bei der Fahrt über raue Offroad-Dschungelpfade, also tragen Sie unbedingt geschlossene Schuhe und unempfindliche Kleidung.",
+            "hu": "Érezd az adrenalint, miközben quadon fedezed fel a rögös dzsungelösvényeket, ezért mindenképp viselj zárt cipőt és olyan ruhát, amit nem sajnálsz összekoszolni.",
+            "ro": "Simte adrenalina în timp ce navighezi pe trasee de junglă cu un ATV, așa că amintește-ți să porți încălțăminte închisă și haine pe care nu te deranjează să le murdărești.",
+            "en": "Feel the adrenaline rush as you navigate rugged off-road jungle trails on a quad bike, so remember to wear closed-toe shoes and clothes you don't mind getting dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiger Park Pattaya",
+            "hu": "Tiger Park Pattaya",
+            "ro": "Parcul de Tigri Pattaya",
+            "en": "Tiger Park Pattaya"
+          },
+          "coords": [
+            100.90176,
+            12.8709
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Großkatzen in sicheren Gehegen hautnah für ein spannendes Fotomotiv, wobei ein früher Besuch die Menschenmassen meidet.",
+            "hu": "Csodáld meg a fenséges nagymacskákat biztonságos környezetben, amely fantasztikus fotótéma, de érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Apropie-te de felinele maiestuoase în țarcuri sigure pentru o sesiune foto palpitantă, de preferat dimineața devreme pentru a evita aglomerația.",
+            "en": "Get up close with majestic big cats in safely monitored enclosures, an exciting photo opportunity best visited early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+            "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+            "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+            "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+          },
+          "coords": [
+            100.90481,
+            12.86788
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen Holzpavillons auf dem Wasser, um die authentische thailändische Kultur zu erleben, und verhandeln Sie beim Souvenirkauf.",
+            "hu": "Fedezd fel a hagyományos, vízen lebegő fapavilonokat, ahol belekóstolhatsz a thai kultúrába, és ne felejts el alkudozni a szuvenírek vásárlásakor.",
+            "ro": "Explorează pavilioanele tradiționale de lemn pe apă pentru a experimenta cultura thailandeză, asigurându-te că negociezi mereu prețul suvenirurilor.",
+            "en": "Explore the traditional wooden pavilions on water to experience authentic Thai regional culture and foods, ensuring you negotiate when buying souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkey School/Show",
+            "hu": "Majomiskola és Show",
+            "ro": "Școala și Spectacolul Maimuțelor",
+            "en": "Monkey School/Show"
+          },
+          "coords": [
+            100.905823,
+            12.861904
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Sehen Sie akrobatische Kunststücke und das Kokosnusspflücken von trainierten Affen, ein familienfreundlicher Halt, bei dem frühes Kommen gute Plätze sichert.",
+            "hu": "Nézd meg a betanított majmok akrobatikus mutatványait és kókuszszedését, ez egy remek családi program, ahol a korai érkezés biztosítja az első soros helyet.",
+            "ro": "Vezi acrobațiile incredibile și culesul nucilor de cocos de către maimuțele dresate, o oprire ideală pentru familii, unde sosirea devreme asigură locuri în față.",
+            "en": "See incredible acrobatic feats and coconut-picking demonstrations by trained monkeys, a family-friendly stop where arriving early gets you front-row seats."
+          }
+        },
+        {
+          "name": {
+            "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+            "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+            "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+            "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+          },
+          "coords": [
+            100.902019,
+            12.847227
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren Strandabschnitt, der sich perfekt für einen Nachmittagsspaziergang eignet, und holen Sie sich eine frische Kokosnuss.",
+            "hu": "Pihenj meg ezen a csendesebb, aranyszínű homokos partszakaszon, amely tökéletes egy délutáni sétához, és vegyél egy friss kókuszt a helyi árusoktól.",
+            "ro": "Relaxează-te pe această porțiune liniștită de nisip, perfectă pentru o plimbare de după-amiază, și cumpără o nucă de cocos proaspătă de la un vânzător local.",
+            "en": "Relax on this quieter stretch of golden sand perfect for a peaceful afternoon walk, and grab a fresh coconut from one of the small local seaside vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Mimosa",
+            "hu": "Mimosa",
+            "ro": "Mimosa",
+            "en": "Mimosa"
+          },
+          "coords": [
+            100.912953,
+            12.8399
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch dieses charmante, französisch anmutende Einkaufsdorf und schauen Sie beim Einlass auf den Zeitplan für die farbenfrohe Kabarettshow.",
+            "hu": "Sétálj végig ezen a hangulatos, francia stílusú bevásárlófalun, amit a Szerelem Városának is hívnak, és nézd meg a színes kabaré előadásuk menetrendjét a bejáratnál.",
+            "ro": "Plimbă-te prin acest fermecător sat de cumpărături în stil francez, cunoscut sub numele de Orașul Iubirii, și verifică programul spectacolului de cabaret la intrare.",
+            "en": "Stroll through this charming French-style shopping village known as the 'City of Love', and stick around for the colorful cabaret show by checking the schedule upon entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit einer staubigen Offroad-Fahrt im ATV-Club, gefolgt von einem Besuch bei den beeindruckenden Tigern.\n\nRadeln Sie zum Schwimmenden Markt, um köstliches Streetfood zu probieren, während Sie durch die Brücken navigieren.\n\nFahren Sie weiter zur Affenschule für eine lustige Show und dann hinunter zum ruhigen North Na Jomtien Beach.\n\nBeenden Sie Ihren aktiven Tag, indem Sie die farbenfrohe Architektur von Mimosa erkunden und vielleicht deren berühmte Kabarett-Aufführung besuchen.",
+        "hu": "Indítsd kerékpáros kalandod egy poros off-road túrával az ATV Klubban, majd látogasd meg a lenyűgöző tigriseket a közelben.\n\nTekerj el az Úszópiachoz, hogy megkóstold a finom utcai ételeket, miközben áthaladsz a bonyolult csatornahidak hálózatán.\n\nFolytasd az utat a Majomiskolába egy szórakoztató műsor erejéig, majd tekerj le a békés Észak-Na Jomtien Strand felé.\n\nZárd az aktív napot a Mimosa vibráló és színes építészetének felfedezésével, esetleg egy kabaré előadás megtekintésével.",
+        "ro": "Începeți aventura pe bicicletă cu o cursă prafuită off-road la Clubul ATV, urmată de o vizită la tigrii impresionanți.\n\nPedalați spre Piața Plutitoare pentru a degusta preparate delicioase stradale în timp ce navigați printre podurile canalului.\n\nContinuați plimbarea spre Școala de Maimuțe pentru un spectacol distractiv, apoi îndreptați-vă spre liniștita plajă North Na Jomtien.\n\nÎncheiați-vă ziua activă explorând arhitectura vibrantă și plină de culoare de la Mimosa, poate prinzând faimosul lor spectacol de cabaret.",
+        "en": "Kick off your biking adventure with a dusty off-road ride at the ATV Club followed by a visit to the impressive tigers.\n\nPedal to the Floating Market to sample delicious street food while navigating the intricate canal bridges.\n\nContinue your ride to the Monkey School for a fun show, then head down towards the peaceful North Na Jomtien Beach.\n\nEnd your active day exploring the vibrant and colorful architecture of Mimosa, perhaps catching their famous cabaret performance."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 5.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mimosa",
+            "hu": "Mimosa",
+            "ro": "Mimosa",
+            "en": "Mimosa"
+          },
+          "coords": [
+            100.912953,
+            12.8399
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch dieses charmante, französisch anmutende Einkaufsdorf und schauen Sie beim Einlass auf den Zeitplan für die farbenfrohe Kabarettshow.",
+            "hu": "Sétálj végig ezen a hangulatos, francia stílusú bevásárlófalun, amit a Szerelem Városának is hívnak, és nézd meg a színes kabaré előadásuk menetrendjét a bejáratnál.",
+            "ro": "Plimbă-te prin acest fermecător sat de cumpărături în stil francez, cunoscut sub numele de Orașul Iubirii, și verifică programul spectacolului de cabaret la intrare.",
+            "en": "Stroll through this charming French-style shopping village known as the 'City of Love', and stick around for the colorful cabaret show by checking the schedule upon entry."
+          }
+        },
+        {
+          "name": {
+            "de": "South Na Jomtien Beach",
+            "hu": "Dél-Na Jomtien Strand",
+            "ro": "Plaja de Sud Na Jomtien",
+            "en": "South Na Jomtien Beach"
+          },
+          "coords": [
+            100.906603,
+            12.835646
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Zufluchtsort abseits der geschäftigen Touristenhochburgen, ein idealer Ort für einen friedlichen Moment am Wasser.",
+            "hu": "Élvezd a nyugalmat távol a forgalmas turistaközpontoktól, ez az ideális helyszín egy békés pillanatra a lágy hullámok mellett.",
+            "ro": "Bucură-te de o evadare liniștită departe de centrele turistice aglomerate, un loc ideal pentru a savura un moment de liniște lângă valurile blânde.",
+            "en": "Enjoy a tranquil escape away from the busy tourist hubs with stunning sunset views, making it an ideal spot to spread a towel and savor a quiet moment by the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+            "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+            "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+            "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+          },
+          "coords": [
+            100.902019,
+            12.847227
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren Strandabschnitt, der sich perfekt für einen Nachmittagsspaziergang eignet, und holen Sie sich eine frische Kokosnuss.",
+            "hu": "Pihenj meg ezen a csendesebb, aranyszínű homokos partszakaszon, amely tökéletes egy délutáni sétához, és vegyél egy friss kókuszt a helyi árusoktól.",
+            "ro": "Relaxează-te pe această porțiune liniștită de nisip, perfectă pentru o plimbare de după-amiază, și cumpără o nucă de cocos proaspătă de la un vânzător local.",
+            "en": "Relax on this quieter stretch of golden sand perfect for a peaceful afternoon walk, and grab a fresh coconut from one of the small local seaside vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkey School/Show",
+            "hu": "Majomiskola és Show",
+            "ro": "Școala și Spectacolul Maimuțelor",
+            "en": "Monkey School/Show"
+          },
+          "coords": [
+            100.905823,
+            12.861904
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Sehen Sie akrobatische Kunststücke und das Kokosnusspflücken von trainierten Affen, ein familienfreundlicher Halt, bei dem frühes Kommen gute Plätze sichert.",
+            "hu": "Nézd meg a betanított majmok akrobatikus mutatványait és kókuszszedését, ez egy remek családi program, ahol a korai érkezés biztosítja az első soros helyet.",
+            "ro": "Vezi acrobațiile incredibile și culesul nucilor de cocos de către maimuțele dresate, o oprire ideală pentru familii, unde sosirea devreme asigură locuri în față.",
+            "en": "See incredible acrobatic feats and coconut-picking demonstrations by trained monkeys, a family-friendly stop where arriving early gets you front-row seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+            "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+            "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+            "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+          },
+          "coords": [
+            100.90481,
+            12.86788
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen Holzpavillons auf dem Wasser, um die authentische thailändische Kultur zu erleben, und verhandeln Sie beim Souvenirkauf.",
+            "hu": "Fedezd fel a hagyományos, vízen lebegő fapavilonokat, ahol belekóstolhatsz a thai kultúrába, és ne felejts el alkudozni a szuvenírek vásárlásakor.",
+            "ro": "Explorează pavilioanele tradiționale de lemn pe apă pentru a experimenta cultura thailandeză, asigurându-te că negociezi mereu prețul suvenirurilor.",
+            "en": "Explore the traditional wooden pavilions on water to experience authentic Thai regional culture and foods, ensuring you negotiate when buying souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Snake Show",
+            "hu": "Pattaya Kígyó Show",
+            "ro": "Spectacolul cu Șerpi Pattaya",
+            "en": "Pattaya Snake Show"
+          },
+          "coords": [
+            100.903335,
+            12.868542
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie fesselnde Vorführungen von erfahrenen Schlangenbändigern, bei denen ein Sitzplatz in den hinteren Reihen eine gute Sicht bietet.",
+            "hu": "Nézd meg a tapasztalt idomárok izgalmas kígyóbemutatóját, ahol a néhány sorral hátrébb lévő helyekről is tökéletes és biztonságos kilátás nyílik.",
+            "ro": "Urmărește demonstrații captivante ale îmblânzitorilor de șerpi veninoși, un spectacol fascinant unde locurile mai din spate oferă o priveliște bună.",
+            "en": "Watch thrilling demonstrations by experienced handlers showcasing venomous snakes, a fascinating display where sitting a few rows back offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiger Park Pattaya",
+            "hu": "Tiger Park Pattaya",
+            "ro": "Parcul de Tigri Pattaya",
+            "en": "Tiger Park Pattaya"
+          },
+          "coords": [
+            100.90176,
+            12.8709
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Großkatzen in sicheren Gehegen hautnah für ein spannendes Fotomotiv, wobei ein früher Besuch die Menschenmassen meidet.",
+            "hu": "Csodáld meg a fenséges nagymacskákat biztonságos környezetben, amely fantasztikus fotótéma, de érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Apropie-te de felinele maiestuoase în țarcuri sigure pentru o sesiune foto palpitantă, de preferat dimineața devreme pentru a evita aglomerația.",
+            "en": "Get up close with majestic big cats in safely monitored enclosures, an exciting photo opportunity best visited early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "ATV Club",
+            "hu": "ATV Klub",
+            "ro": "Clubul ATV",
+            "en": "ATV Club"
+          },
+          "coords": [
+            100.898013,
+            12.868068
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie das Adrenalin bei der Fahrt über raue Offroad-Dschungelpfade, also tragen Sie unbedingt geschlossene Schuhe und unempfindliche Kleidung.",
+            "hu": "Érezd az adrenalint, miközben quadon fedezed fel a rögös dzsungelösvényeket, ezért mindenképp viselj zárt cipőt és olyan ruhát, amit nem sajnálsz összekoszolni.",
+            "ro": "Simte adrenalina în timp ce navighezi pe trasee de junglă cu un ATV, așa că amintește-ți să porți încălțăminte închisă și haine pe care nu te deranjează să le murdărești.",
+            "en": "Feel the adrenaline rush as you navigate rugged off-road jungle trails on a quad bike, so remember to wear closed-toe shoes and clothes you don't mind getting dusty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Süden in Mimosas charmantem Dorf im europäischen Stil, bevor Sie eine kurze Fahrt zum ruhigen South Na Jomtien Beach unternehmen.\n\nFahren Sie entlang der Küste nach Norden zum North Na Jomtien Beach und begeben Sie sich dann ins Landesinnere für einen Stopp in der Affenschule.\n\nErkunden Sie den weitläufigen schwimmenden Markt von Pattaya für ein spätes Mittagessen und sehen Sie dann die gewagten Schlangenshows in der Nähe.\n\nBeenden Sie Ihren Roadtrip mit einem Besuch im Tigarpark und schließen Sie mit einer aufregenden Fahrt zum Sonnenuntergang im ATV-Club ab.",
+        "hu": "Kezdd a déli parton a Mimosa elbűvölő, európai stílusú falujában, mielőtt egy rövid utat tennél a csendes Dél-Na Jomtien Strandra.\n\nAutózz északra a part mentén az Észak-Na Jomtien Strandhoz, majd haladj a szárazföld belseje felé egy szórakoztató megállóért a Majomiskolában.\n\nFedezd fel a hatalmas Pattaya Úszópiacot egy kései ebéd keretében, majd nézd meg a merész kígyóbemutatókat a közelben.\n\nFejezd be a napot a Tigrispark meglátogatásával, majd zárj egy izgalmas, naplementés túrával az ATV Klubban.",
+        "ro": "Începeți în sud, în fermecătorul sat în stil european Mimosa, înainte de a face o scurtă plimbare cu mașina până la plaja senină South Na Jomtien.\n\nConduceți spre nord de-a lungul coastei până la plaja North Na Jomtien, apoi mergeți spre interior pentru o oprire distractivă la Școala de Maimuțe.\n\nExplorați vasta Piață Plutitoare din Pattaya pentru un prânz târziu, apoi asistați la spectacolele îndrăznețe de la Spectacolul cu Șerpi din apropiere.\n\nTerminați-vă călătoria vizitând Parcul de Tigri și încheiați cu o plimbare palpitantă la apus de soare la Clubul ATV.",
+        "en": "Begin in the south at Mimosa's charming European-style village before taking a short drive to the serene South Na Jomtien Beach.\n\nCruise north along the coast to North Na Jomtien Beach, then head inland for an entertaining stop at the Monkey School.\n\nExplore the vast Pattaya Floating Market for a late lunch, then witness the daring performances at the nearby Snake Show.\n\nFinish your road trip visiting the Tiger Park and wrapping up with a thrilling sunset ride at the ATV Club."
+      }
+    }
+  }
+}

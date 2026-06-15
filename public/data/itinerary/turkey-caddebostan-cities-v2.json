@@ -1,0 +1,451 @@
+{
+  "city_id": "turkey-caddebostan-cities-v2",
+  "anchor": {
+    "name": "Caddebostan",
+    "coords": [
+      29.06293,
+      40.96702
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Caddebostan Sinagogu",
+            "hu": "Caddebostan Sinagogu",
+            "ro": "Caddebostan Sinagogu",
+            "en": "Caddebostan Sinagogu"
+          },
+          "coords": [
+            29.06763,
+            40.972421
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bedeutende Synagoge, die das reiche jüdische Erbe des Viertels widerspiegelt, und achten Sie auf die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a jelentős zsinagógába, amely a negyed gazdag zsidó örökségét tükrözi, és előre tájékozódjon a nyitvatartásról.",
+            "ro": "Vizitați această sinagogă importantă care reflectă bogata moștenire evreiască a cartierului și verificați orarul de vizitare în prealabil.",
+            "en": "Visit this significant synagogue that reflects the neighborhood's rich Jewish heritage, and be sure to check the opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Caddebostan Plajı",
+            "hu": "Caddebostan Plajı",
+            "ro": "Caddebostan Plajı",
+            "en": "Caddebostan Plajı"
+          },
+          "coords": [
+            29.069244,
+            40.962102
+          ],
+          "category": "recreational",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strandabschnitt am Marmarameer, wo Sie morgens die ruhigste Zeit für einen Spaziergang genießen können.",
+            "hu": "Pihenjen meg a Márvány-tenger ezen népszerű partszakaszán, ahol a kora reggeli órák a legnyugodtabbak egy frissítő sétához.",
+            "ro": "Relaxați-vă pe această plajă populară de la Marea Marmara, unde diminețile devreme sunt cele mai liniștite pentru o plimbare răcoritoare.",
+            "en": "Relax on this popular stretch of beach by the Sea of Marmara, where the early mornings offer the most peaceful time for a refreshing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Caddebostan Plajı 2",
+            "hu": "Caddebostan Plajı 2",
+            "ro": "Caddebostan Plajı 2",
+            "en": "Caddebostan Plajı 2"
+          },
+          "coords": [
+            29.053064,
+            40.967436
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Küstentour an diesem zweiten Strandabschnitt fort, der ideale Fotomotive auf die Prinzeninseln bietet, wenn das Wetter klar ist.",
+            "hu": "Folytassa parti sétáját ezen a második strandszakaszon, amely tiszta időben tökéletes fotózási lehetőséget kínál a Herceg-szigetek felé.",
+            "ro": "Continuați-vă turul de coastă pe această a doua secțiune de plajă, care oferă oportunități foto perfecte spre Insulele Prinților pe vreme senină.",
+            "en": "Continue your coastal tour at this second beach section, which offers perfect photo opportunities towards the Princes' Islands on clear days."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri ARK",
+            "hu": "Galeri ARK",
+            "ro": "Galeri ARK",
+            "en": "Galeri ARK"
+          },
+          "coords": [
+            29.053469,
+            40.970267
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstwerke in dieser modernen Galerie, die lokale Talente fördert und wechselnde Ausstellungen kostenlos anbietet.",
+            "hu": "Fedezze fel a kortárs művészeti alkotásokat ebben a modern galériában, amely a helyi tehetségeket támogatja, és az időszaki kiállítások ingyenesek.",
+            "ro": "Descoperiți opere de artă contemporană în această galerie modernă care promovează talentele locale, iar expozițiile temporare sunt gratuite.",
+            "en": "Discover contemporary artworks in this modern gallery that promotes local talents, and check out the frequently changing free exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Haldun Taner Müze Evi",
+            "hu": "Haldun Taner Müze Evi",
+            "ro": "Haldun Taner Müze Evi",
+            "en": "Haldun Taner Müze Evi"
+          },
+          "coords": [
+            29.047223,
+            40.976223
+          ],
+          "category": "museum",
+          "arrive_at": "14:57",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten türkischen Autors Haldun Taner ein und beachten Sie die kleinen persönlichen Details in den Ausstellungsstücken.",
+            "hu": "Merüljön el a híres török író, Haldun Taner életében, és figyelje meg a kiállítási tárgyak apró, személyes részleteit és feljegyzéseit.",
+            "ro": "Pătrundeți în viața faimosului scriitor turc Haldun Taner și acordați atenție micilor detalii personale ascunse printre exponatele fascinante.",
+            "en": "Immerse yourself in the life of the famous Turkish author Haldun Taner, and pay close attention to the small personal details in the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der historischen Synagoge von Caddebostan. Hier spüren Sie den kulturellen Reichtum des Viertels. \nDanach schlendern Sie gemütlich entlang der Küste zum ersten Strandabschnitt. Genießen Sie die frische Meeresbrise. \nDer Weg führt weiter zum zweiten Strand und dann ins Landesinnere zur modernen Galeri ARK, wo lokale Kunstwerke begeistern. \nZum Abschluss tauchen Sie im Haldun Taner Müze Evi tief in die Literaturgeschichte der Türkei ein. Ein rundum gelungener Tag am Marmarameer.",
+        "hu": "Kezdje sétáját a történelmi Caddebostan Zsinagógánál. Itt azonnal megérezheti a negyed kulturális gazdagságát és békés hangulatát. \nEzt követően kényelmesen sétáljon végig a tengerparton az első homokos strandszakaszig, ahol élvezheti a friss tengeri szellőt. \nAz út a második strandhoz vezet, majd a szárazföld belseje felé a Galeri ARK modern művészeti terébe, amely lenyűgöző alkotásokat rejt. \nVégül a Haldun Taner Múzeumban elmerülhet a török irodalomtörténetben, tökéletesen zárva ezt a Márvány-tenger parti napot.",
+        "ro": "Începeți plimbarea la istorica Sinagogă Caddebostan. Aici veți simți imediat bogăția culturală și atmosfera pașnică a cartierului. \nApoi, plimbați-vă pe îndelete de-a lungul coastei până la prima secțiune de plajă, unde vă puteți bucura de briza proaspătă a mării. \nTraseul continuă spre a doua plajă, apoi spre interior la Galeri ARK, unde veți descoperi opere de artă modernă fascinante. \nÎn cele din urmă, la Casa Muzeu Haldun Taner, vă veți cufunda în istoria literaturii turcești. O zi perfectă pe coasta Mării Marmara.",
+        "en": "Begin your walk at the historic Caddebostan Synagogue, where you can easily sense the cultural richness of the entire neighborhood. \nAfterwards, take a leisurely stroll along the scenic coast to the first beach section, enjoying the fresh sea breeze on your face. \nThe path continues to the second beach, then heads inland to the modern Galeri ARK, where local and contemporary artworks inspire. \nFinally, at the Haldun Taner Museum House, immerse yourself deeply in Turkish literary history. A perfect day by the Sea of Marmara."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "TCDD Kültür Sanat Merkezi",
+            "hu": "TCDD Kültür Sanat Merkezi",
+            "ro": "TCDD Kültür Sanat Merkezi",
+            "en": "TCDD Kültür Sanat Merkezi"
+          },
+          "coords": [
+            29.066654,
+            40.979085
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturellen Ausstellungen in diesem historischen Eisenbahngebäude, das eine einzigartige Atmosphäre für Kunstliebhaber bietet.",
+            "hu": "Csodálja meg a kulturális kiállításokat ebben a történelmi vasúti épületben, amely egyedülálló atmoszférát kínál a művészetkedvelők számára.",
+            "ro": "Admirați expozițiile culturale în această clădire istorică feroviară, care oferă o atmosferă unică și liniștită pentru toți iubitorii de artă.",
+            "en": "Admire the cultural exhibitions in this historic railway building, which offers a unique and nostalgic atmosphere for art lovers to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Venüs Sanat",
+            "hu": "Venüs Sanat",
+            "ro": "Venüs Sanat",
+            "en": "Venüs Sanat"
+          },
+          "coords": [
+            29.059422,
+            40.980405
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den vielfältigen Ausstellungen in diesem Kunstzentrum inspirieren, das besonders für seine Skulpturen und Malereien bekannt ist.",
+            "hu": "Merítsen ihletet a művészeti központ változatos kiállításaiból, amely különösen a kortárs szobrokról és a lenyűgöző festményekről ismert.",
+            "ro": "Lăsați-vă inspirat de diversele expoziții din acest centru de artă, care este deosebit de cunoscut pentru sculpturile și picturile sale remarcabile.",
+            "en": "Get inspired by the diverse exhibitions in this vibrant art center, which is particularly well-known for its impressive sculptures and paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Haldun Taner Müze Evi",
+            "hu": "Haldun Taner Müze Evi",
+            "ro": "Haldun Taner Müze Evi",
+            "en": "Haldun Taner Müze Evi"
+          },
+          "coords": [
+            29.047223,
+            40.976223
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten türkischen Autors Haldun Taner ein und beachten Sie die kleinen persönlichen Details in den Ausstellungsstücken.",
+            "hu": "Merüljön el a híres török író, Haldun Taner életében, és figyelje meg a kiállítási tárgyak apró, személyes részleteit és feljegyzéseit.",
+            "ro": "Pătrundeți în viața faimosului scriitor turc Haldun Taner și acordați atenție micilor detalii personale ascunse printre exponatele fascinante.",
+            "en": "Immerse yourself in the life of the famous Turkish author Haldun Taner, and pay close attention to the small personal details in the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Justinianus Cistern",
+            "hu": "Justinianus Cistern",
+            "ro": "Justinianus Cistern",
+            "en": "Justinianus Cistern"
+          },
+          "coords": [
+            29.0406,
+            40.971563
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken Zisterne aus byzantinischer Zeit, die einen tiefen Einblick in die Geschichte Istanbuls gibt.",
+            "hu": "Fedezze fel ennek a bizánci korból származó ősi ciszternának a lenyűgöző maradványait, amelyek mély betekintést nyújtanak Isztambul történetébe.",
+            "ro": "Explorați rămășițele fascinante ale acestei cisterne antice din epoca bizantină, care oferă o perspectivă profundă asupra istoriei orașului Istanbul.",
+            "en": "Explore the fascinating remains of this ancient cistern from the Byzantine era, which provides a deep insight into the rich history of Istanbul."
+          }
+        },
+        {
+          "name": {
+            "de": "Fenerbahçe Parkı",
+            "hu": "Fenerbahçe Parkı",
+            "ro": "Fenerbahçe Parkı",
+            "en": "Fenerbahçe Parkı"
+          },
+          "coords": [
+            29.034437,
+            40.967879
+          ],
+          "category": "park",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Genießen Sie die üppige Natur in diesem malerischen Park auf der Halbinsel, wo Sie am besten ein kleines Picknick unter den alten Bäumen machen.",
+            "hu": "Élvezze a buja természetet ebben a festői parkban a félszigeten, ahol a legjobb, ha tart egy kis pikniket az ősi, árnyékot adó fák alatt.",
+            "ro": "Bucurați-vă de natura luxuriantă în acest parc pitoresc de pe peninsulă, unde cel mai bine este să faceți un mic picnic sub copacii seculari.",
+            "en": "Enjoy the lush nature in this picturesque park on the peninsula, where it is highly recommended to have a small picnic under the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Fenerbahçe Camii",
+            "hu": "Fenerbahçe Camii",
+            "ro": "Fenerbahçe Camii",
+            "en": "Fenerbahçe Camii"
+          },
+          "coords": [
+            29.040385,
+            40.972516
+          ],
+          "category": "religious",
+          "arrive_at": "16:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser eleganten Moschee nahe dem Park, deren friedliche Architektur zu einer ruhigen und besinnlichen Pause einlädt.",
+            "hu": "Zárja kirándulását ennél az elegáns, park melletti mecsetnél, amelynek békés építészete egy csendes és elmélyült pihenőre csábítja a látogatókat.",
+            "ro": "Încheiați-vă excursia la această moschee elegantă de lângă parc, a cărei arhitectură pașnică vă invită la o pauză liniștită și contemplativă.",
+            "en": "End your trip at this elegant mosque near the park, whose peaceful architecture invites you for a quiet and highly contemplative break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour startet am TCDD Kültür Sanat Merkezi, einem Ort voller Nostalgie und Kunstgeschichte nahe der Bahngleise. \nVon dort radeln Sie zum Venüs Sanat und weiter zum Haldun Taner Müze Evi, wo Sie die reiche literarische Vergangenheit entdecken. \nAm Nachmittag führt die Route zur faszinierenden Justinianus-Zisterne, einem versteckten byzantinischen Juwel in der Nachbarschaft. \nDie Tour endet entspannt im grünen Fenerbahçe Parkı und an der angrenzenden Moschee, wo Sie den Tag friedlich ausklingen lassen.",
+        "hu": "Kerékpártúrája a TCDD Kulturális és Művészeti Központnál indul, amely tele van nosztalgiával és művészettörténettel a sínek közelében. \nInnen a Venüs Sanat felé teker, majd a Haldun Taner Múzeumházhoz, ahol felfedezheti a gazdag irodalmi múltat és emlékeket. \nDélután az útvonal a lenyűgöző Justinianus-ciszternához vezet, amely a környék egyik elrejtett, varázslatos bizánci ékköve. \nA túra a zöldellő Fenerbahçe Parkban és a szomszédos elegáns mecsetnél ér véget, ahol békésen pihenheti ki a nap fáradalmait.",
+        "ro": "Turul dvs. cu bicicleta începe la Centrul Cultural TCDD, un loc plin de nostalgie și istorie a artei, situat lângă șinele de tren. \nDe acolo pedalați spre Venüs Sanat și mai departe spre Casa Muzeu Haldun Taner, unde veți descoperi un bogat trecut literar. \nDupă-amiaza, traseul duce la fascinanta Cisternă a lui Iustinian, o bijuterie bizantină ascunsă în acest cartier plin de viață. \nTurul se încheie relaxant în verdele Parc Fenerbahçe și la moscheea alăturată, unde puteți încheia ziua într-o atmosferă pașnică.",
+        "en": "Your cycling tour starts at the TCDD Culture and Art Center, a place full of nostalgia and art history located near the railway tracks. \nFrom there, ride to Venüs Sanat and onwards to the Haldun Taner Museum House, where you will discover a rich literary past. \nIn the afternoon, the route leads to the fascinating Justinian Cistern, a truly magical hidden Byzantine jewel in the neighborhood. \nThe tour ends in the green Fenerbahçe Park and at the adjacent mosque, where you can peacefully relax after an active day of exploring."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 5.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Don Kişot Sanat Suadiye",
+            "hu": "Don Kişot Sanat Suadiye",
+            "ro": "Don Kişot Sanat Suadiye",
+            "en": "Don Kişot Sanat Suadiye"
+          },
+          "coords": [
+            29.079104,
+            40.962512
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in diesem lebendigen Kulturzentrum, das durch seine modernen Theatervorstellungen besticht; buchen Sie Tickets besser vorab.",
+            "hu": "Kezdje a napot ebben a pezsgő kulturális központban, amely modern színházi előadásaival hódít; a legjobb, ha a jegyeket jó előre lefoglalja.",
+            "ro": "Începeți ziua în acest centru cultural vibrant, care impresionează prin spectacolele sale moderne de teatru; este bine să rezervați biletele în avans.",
+            "en": "Start your day in this vibrant cultural center that impresses with its modern theater performances; it is highly advisable to book tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Caddebostan Sinagogu",
+            "hu": "Caddebostan Sinagogu",
+            "ro": "Caddebostan Sinagogu",
+            "en": "Caddebostan Sinagogu"
+          },
+          "coords": [
+            29.06763,
+            40.972421
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bedeutende Synagoge, die das reiche jüdische Erbe des Viertels widerspiegelt, und achten Sie auf die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a jelentős zsinagógába, amely a negyed gazdag zsidó örökségét tükrözi, és előre tájékozódjon a nyitvatartásról.",
+            "ro": "Vizitați această sinagogă importantă care reflectă bogata moștenire evreiască a cartierului și verificați orarul de vizitare în prealabil.",
+            "en": "Visit this significant synagogue that reflects the neighborhood's rich Jewish heritage, and be sure to check the opening hours in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Recai Yahya Camii",
+            "hu": "Recai Yahya Camii",
+            "ro": "Recai Yahya Camii",
+            "en": "Recai Yahya Camii"
+          },
+          "coords": [
+            29.04745,
+            40.979812
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Gestaltung dieser lokalen Moschee, die einen ruhigen Rückzugsort vom geschäftigen Treiben der Stadtviertel bietet.",
+            "hu": "Csodálja meg ennek a helyi mecsetnek a harmonikus kialakítását, amely csendes menedéket kínál a környező városrészek nyüzsgő forgatagától.",
+            "ro": "Admirați designul armonios al acestei moschei locale, care oferă un refugiu liniștit departe de agitația străzilor pline de viață ale orașului.",
+            "en": "Admire the harmonious design of this local mosque, which provides a peaceful retreat away from the bustling activity of the surrounding neighborhoods."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuğlacıbaşı Camii",
+            "hu": "Tuğlacıbaşı Camii",
+            "ro": "Tuğlacıbaşı Camii",
+            "en": "Tuğlacıbaşı Camii"
+          },
+          "coords": [
+            29.04781,
+            40.984643
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieser traditionellen Gebetsstätte und respektieren Sie stets die Kleiderordnung beim Betreten.",
+            "hu": "Figyelje meg ennek a hagyományos imaháznak az építészeti részleteit, és belépéskor mindig tartsa tiszteletben az elvárt öltözködési szabályokat.",
+            "ro": "Observați detaliile arhitecturale ale acestui lăcaș de cult tradițional și respectați întotdeauna codul vestimentar atunci când decideți să intrați.",
+            "en": "Observe the architectural details of this traditional place of worship, and always respect the modest dress code when you decide to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Jet Uçağı Anıtı",
+            "hu": "Jet Uçağı Anıtı",
+            "ro": "Jet Uçağı Anıtı",
+            "en": "Jet Uçağı Anıtı"
+          },
+          "coords": [
+            29.054151,
+            40.985386
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ungewöhnliche Jet-Denkmal, das an die türkische Luftfahrtgeschichte erinnert, und achten Sie auf den Verkehr ringsum.",
+            "hu": "Fényképezze le ezt a szokatlan repülőgép-emlékművet, amely a török repüléstörténetre emlékeztet, miközben ügyel a környező forgalomra.",
+            "ro": "Fotografiați acest monument neobișnuit al unui avion cu reacție, care amintește de istoria aviației turcești, având grijă la traficul din jur.",
+            "en": "Photograph this unusual jet monument that commemorates Turkish aviation history, and be very careful of the surrounding traffic while taking pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Venüs Sanat",
+            "hu": "Venüs Sanat",
+            "ro": "Venüs Sanat",
+            "en": "Venüs Sanat"
+          },
+          "coords": [
+            29.059422,
+            40.980405
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den vielfältigen Ausstellungen in diesem Kunstzentrum inspirieren, das besonders für seine Skulpturen und Malereien bekannt ist.",
+            "hu": "Merítsen ihletet a művészeti központ változatos kiállításaiból, amely különösen a kortárs szobrokról és a lenyűgöző festményekről ismert.",
+            "ro": "Lăsați-vă inspirat de diversele expoziții din acest centru de artă, care este deosebit de cunoscut pentru sculpturile și picturile sale remarcabile.",
+            "en": "Get inspired by the diverse exhibitions in this vibrant art center, which is particularly well-known for its impressive sculptures and paintings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Don Kişot Sanat Suadiye, wo zeitgenössische Kunst und Kultur den perfekten Auftakt für Ihre Autotour bilden. \nEine kurze Fahrt bringt Sie zur Caddebostan Synagoge und zur Recai Yahya Moschee, die beide durch ihre Architektur beeindrucken. \nWeiter geht es zur Tuğlacıbaşı Moschee und zum ungewöhnlichen Jet-Denkmal, einem markanten Stück moderner türkischer Geschichte. \nIhre Route findet ihren krönenden Abschluss bei den Ausstellungen im Venüs Sanat, bevor Sie den Abend entspannt in der Stadt ausklingen lassen.",
+        "hu": "A nap a Don Kişot Sanat Suadiye-ben kezdődik, ahol a kortárs művészet és kultúra tökéletes kiindulópontja az autós kirándulásnak. \nEgy rövid út elviszi a Caddebostan Zsinagógához és a Recai Yahya Mecsethez, amelyek mindketten lenyűgöző építészettel büszkélkednek. \nTovábbhaladva meglátogatja a Tuğlacıbaşı Mecsetet és a szokatlan Repülőgép-emlékművet, a modern török történelem feltűnő darabját. \nAz útvonal a Venüs Sanat kiállításainál éri el csúcspontját, mielőtt kényelmesen, a város pezsgésében töltené el a kellemes estét.",
+        "ro": "Ziua începe la Don Kişot Sanat Suadiye, unde arta și cultura contemporană formează preludiul perfect pentru turul dvs. cu mașina. \nO scurtă plimbare vă duce la Sinagoga Caddebostan și la Moscheea Recai Yahya, ambele impresionând prin arhitectura lor detaliată. \nMai departe, veți vizita Moscheea Tuğlacıbaşı și neobișnuitul monument cu avion, o piesă uimitoare a istoriei moderne turcești. \nTraseul culminează cu expozițiile de la Venüs Sanat, înainte de a vă relaxa confortabil în atmosfera plină de viață a orașului.",
+        "en": "The day begins at Don Kişot Sanat Suadiye, where contemporary art and vibrant culture form the perfect start for your driving tour. \nA short drive takes you to the Caddebostan Synagogue and the Recai Yahya Mosque, both of which impress with beautiful architecture. \nMoving on, you will visit the Tuğlacıbaşı Mosque and the unusual Jet Monument, a striking piece of modern Turkish history. \nYour route reaches its grand finale at the exhibitions in Venüs Sanat, before you comfortably relax into the vibrant evening city atmosphere."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-valdovino-cities-v2",
+  "anchor": {
+    "name": "Valdoviño",
+    "coords": [
+      -8.14354,
+      43.60686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Valdoviño",
+            "hu": "Concello de Valdoviño",
+            "ro": "Concello de Valdoviño",
+            "en": "Concello de Valdoviño"
+          },
+          "coords": [
+            -8.143402,
+            43.606803
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses, das das historische Herz der Gemeinde bildet, und kommen Sie früh, um den Platz ohne Menschenmengen zu fotografieren.",
+            "hu": "Csodálja meg a község történelmi központjaként szolgáló városháza hagyományos építészetét, és érkezzen korán, hogy tömeg nélkül fényképezhesse le a csendes teret.",
+            "ro": "Admirați arhitectura tradițională a primăriei, inima istorică a municipalității, și ajungeți devreme pentru a fotografia piața liniștită fără aglomerația de peste zi.",
+            "en": "Admire the traditional architecture of the town hall that serves as the historical heart of the municipality, and arrive early to photograph the quiet square without any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Poulo",
+            "hu": "Castro de Poulo",
+            "ro": "Castro de Poulo",
+            "en": "Castro de Poulo"
+          },
+          "coords": [
+            -8.142676,
+            43.604039
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser eisenzeitlichen Siedlung, um die tiefen historischen Wurzeln der Region zu verstehen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a vaskori településnek az ősi romjait, hogy megértse a régió mély történelmi gyökereit, és mindenképpen viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele antice ale acestei așezări din Epoca Fierului pentru a înțelege istoria, asigurându-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the ancient ruins of this Iron Age settlement to understand the region's deep historical roots, making sure to wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+          },
+          "coords": [
+            -8.154673,
+            43.601701
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie Zugvogelarten von diesem speziellen Aussichtspunkt über der Lagune und vergessen Sie nicht, Ihr Fernglas für die besten Nahaufnahmen der Tierwelt mitzubringen.",
+            "hu": "Figyelje meg a vándormadarakat erről a lagúnára néző megfigyelőpontról, és ne felejtse el magával hozni távcsövét a vadvilág legjobb közeli megtekintéséhez.",
+            "ro": "Urmăriți diverse specii de păsări din acest punct de observație cu vedere la lagună și nu uitați să aduceți binoclul pentru cele mai bune vederi de aproape ale faunei.",
+            "en": "Watch diverse migratory bird species from this dedicated observation point overlooking the lagoon, and remember to bring your binoculars for the best close-up views of the wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+          },
+          "coords": [
+            -8.169129,
+            43.60677
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses geschützte Feuchtgebiet, um ein einzigartiges Küstenökosystem zu erleben, und bleiben Sie auf den Holzstegen, um den Lebensraum zu schützen.",
+            "hu": "Sétáljon végig ezen a védett vizes élőhelyen, hogy megtapasztalja a part menti ökoszisztémát, a kijelölt fapallókon maradva, hogy megóvja a törékeny élőhelyet.",
+            "ro": "Plimbați-vă prin această zonă umedă protejată pentru a experimenta un ecosistem de coastă, rămânând pe pasarelele din lemn pentru a conserva habitatul fragil.",
+            "en": "Walk through this protected wetland to experience a unique coastal ecosystem teeming with biodiversity, sticking to the marked wooden boardwalks to preserve the fragile habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Frouxeira",
+            "hu": "Praia da Frouxeira",
+            "ro": "Praia da Frouxeira",
+            "en": "Praia da Frouxeira"
+          },
+          "coords": [
+            -8.16914,
+            43.611761
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem spektakulären Strand entlang, der für dramatische Wellen bekannt ist, und packen Sie eine Windjacke ein, da die Meeresbrise frisch sein kann.",
+            "hu": "Sétáljon végig ezen a látványos, fehér homokos partszakaszon, és csomagoljon be egy széldzsekit, mivel a tengerparti szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi spectaculoase de nisip alb și luați o jachetă de vânt, deoarece briza oceanică poate fi rece chiar și la soare strălucitor.",
+            "en": "Stroll along this spectacular sweep of white sand known for its dramatic ocean waves, and pack a light windbreaker as the coastal breezes can be quite brisk even in the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im städtischen Herzen mit dem historischen Zentrum von Valdoviño, bevor wir zu den alten Ruinen von Castro de Poulo spazieren. Am Mittag erreichen wir das Ufer der Lagune und nutzen das Vogelobservatorium. Der Nachmittag ist der Natur gewidmet, wenn wir die geschützten Feuchtgebiete durchqueren. Der Abend führt uns zu den weiten Sandstränden der Praia da Frouxeira.",
+        "hu": "A reggel a községi központban kezdődik, megtekintve Valdoviño történelmi szívét, majd a Castro de Poulo ősi romjaihoz sétálunk. Délben elérjük a lagúna szélét, és a madármegfigyelőt használjuk. A délutánt a természetnek szenteljük, átszelve a védett vizes élőhelyeket. Az este elhoz minket a Praia da Frouxeira híres, hosszan elnyúló homokos partjához.",
+        "ro": "Dimineața începe în centrul municipal, admirând primăria din Valdoviño, înainte de a merge spre ruinele antice Castro de Poulo. La prânz, ajungem la marginea lagunei, folosind observatorul de păsări. După-amiaza este dedicată naturii, traversând zonele umede protejate. Seara ne aduce pe nisipurile celebre și întinse de la spectaculoasa Praia da Frouxeira.",
+        "en": "Morning starts at the municipal heart, taking in the historical center of Valdoviño before walking slightly south to the ancient ruins of Castro de Poulo. By midday, we reach the lagoon's edge, utilizing the bird observatory for wildlife spotting. The afternoon is dedicated to nature, traversing the protected wetlands. Evening brings us to the famous sweeping sands of Praia da Frouxeira."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa Eulalia",
+            "hu": "Igrexa de Santa Eulalia",
+            "ro": "Igrexa de Santa Eulalia",
+            "en": "Igrexa de Santa Eulalia"
+          },
+          "coords": [
+            -8.135667,
+            43.59936
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses religiöse Wahrzeichen, um seine malerischen Steinarbeiten zu bewundern, und treten Sie leise ein, um die friedliche Atmosphäre zu schätzen.",
+            "hu": "Látogassa meg ezt a bájos vallási nevezetességet, hogy megcsodálja galíciai kőműves munkáját, és lépjen be csendben, hogy élvezze a békés és csendes légkört.",
+            "ro": "Vizitați acest reper religios pentru a-i admira pietrăria reflectând arhitectura tradițională și intrați în liniște pentru a aprecia atmosfera senină și pașnică.",
+            "en": "Visit this charming religious landmark to admire its quaint stonework reflecting traditional Galician architecture, and step inside quietly to appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+            "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+          },
+          "coords": [
+            -8.154673,
+            43.601701
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie Zugvogelarten von diesem speziellen Aussichtspunkt über der Lagune und vergessen Sie nicht, Ihr Fernglas für die besten Nahaufnahmen der Tierwelt mitzubringen.",
+            "hu": "Figyelje meg a vándormadarakat erről a lagúnára néző megfigyelőpontról, és ne felejtse el magával hozni távcsövét a vadvilág legjobb közeli megtekintéséhez.",
+            "ro": "Urmăriți diverse specii de păsări din acest punct de observație cu vedere la lagună și nu uitați să aduceți binoclul pentru cele mai bune vederi de aproape ale faunei.",
+            "en": "Watch diverse migratory bird species from this dedicated observation point overlooking the lagoon, and remember to bring your binoculars for the best close-up views of the wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+          },
+          "coords": [
+            -8.169129,
+            43.60677
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses geschützte Feuchtgebiet, um ein einzigartiges Küstenökosystem zu erleben, und bleiben Sie auf den Holzstegen, um den Lebensraum zu schützen.",
+            "hu": "Sétáljon végig ezen a védett vizes élőhelyen, hogy megtapasztalja a part menti ökoszisztémát, a kijelölt fapallókon maradva, hogy megóvja a törékeny élőhelyet.",
+            "ro": "Plimbați-vă prin această zonă umedă protejată pentru a experimenta un ecosistem de coastă, rămânând pe pasarelele din lemn pentru a conserva habitatul fragil.",
+            "en": "Walk through this protected wetland to experience a unique coastal ecosystem teeming with biodiversity, sticking to the marked wooden boardwalks to preserve the fragile habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Frouxeira",
+            "hu": "Praia da Frouxeira",
+            "ro": "Praia da Frouxeira",
+            "en": "Praia da Frouxeira"
+          },
+          "coords": [
+            -8.16914,
+            43.611761
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem spektakulären Strand entlang, der für dramatische Wellen bekannt ist, und packen Sie eine Windjacke ein, da die Meeresbrise frisch sein kann.",
+            "hu": "Sétáljon végig ezen a látványos, fehér homokos partszakaszon, és csomagoljon be egy széldzsekit, mivel a tengerparti szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi spectaculoase de nisip alb și luați o jachetă de vânt, deoarece briza oceanică poate fi rece chiar și la soare strălucitor.",
+            "en": "Stroll along this spectacular sweep of white sand known for its dramatic ocean waves, and pack a light windbreaker as the coastal breezes can be quite brisk even in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta Frouxeira",
+            "hu": "Castro de Punta Frouxeira",
+            "ro": "Castro de Punta Frouxeira",
+            "en": "Castro de Punta Frouxeira"
+          },
+          "coords": [
+            -8.148879,
+            43.618464
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Reste dieser keltischen Festung auf den Klippen, aber halten Sie sich von den ungeschützten Rändern fern, während Sie Ihre Panoramafotos machen.",
+            "hu": "Fedezze fel ezen ősi kelta erőd drámai sziklafalon lévő maradványait, de maradjon biztonságos távolságban a védtelen peremektől fotózás közben.",
+            "ro": "Descoperiți rămășițele dramatice ale acestui fort celtic ce oferă vederi uluitoare, dar păstrați o distanță sigură de marginile stâncilor neprotejate.",
+            "en": "Discover the dramatic cliffside remains of this ancient Celtic fort offering breathtaking ocean views, but stay well back from the unprotected edges while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta do Bico",
+            "hu": "Castro de Punta do Bico",
+            "ro": "Castro de Punta do Bico",
+            "en": "Castro de Punta do Bico"
+          },
+          "coords": [
+            -8.147547,
+            43.622256
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese archäologischen Küstenruinen, wo frühe Bewohner das Meer überwachten, und genießen Sie das fantastische Licht am späten Nachmittag.",
+            "hu": "Vizsgálja meg ezeket a régészeti romokat, ahol a korai lakosok a tengert figyelték, és időzítse látogatását a délutánra, amikor a fény megvilágítja a köveket.",
+            "ro": "Examinați aceste ruine de coastă unde primii locuitori monitorizau marea și programați-vă vizita pentru după-amiaza când lumina aurie iluminează pietrele.",
+            "en": "Examine these coastal archaeological ruins where early inhabitants monitored the sea, and time your visit for the late afternoon when the light illuminates the ancient stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln von der friedlichen Igrexa de Santa Eulalia los und fahren zur Lagune, um vom Vogelobservatorium aus die Tierwelt zu beobachten. Die Mittagsstunden verbringen wir damit, entlang der geschützten Feuchtgebiete zu fahren. Am Nachmittag radeln wir an der legendären Praia da Frouxeira vorbei zu den schroffen Klippen. Der Abend belohnt uns mit alten Festungen mit Blick aufs Meer.",
+        "hu": "A békés Igrexa de Santa Eulalia-tól indulunk, a lagúna felé kerekezve, hogy a madármegfigyelőből lássuk a helyi vadvilágot. A déli órákat a védett vizes élőhelyek melletti kerékpározással töltjük. Délután eltekerünk az ikonikus Praia da Frouxeira mellett, hogy elérjük a zord part menti sziklákat. Az este a tengerre néző, ősi kelta erődítményekkel jutalmazza fáradozásainkat.",
+        "ro": "Pornim de la pașnica Igrexa de Santa Eulalia, mergând spre lagună pentru a observa fauna din observatorul de păsări. Orele amiezii le petrecem mergând cu bicicleta pe lângă zonele umede protejate. După-amiaza, trecem de iconica Praia da Frouxeira pentru a ajunge la stâncile de coastă accidentate. Seara ne recompensează cu forturi antice care domină marea spectaculoasă.",
+        "en": "We pedal off from the peaceful Igrexa de Santa Eulalia, cruising toward the lagoon to spot local wildlife from the dedicated bird observatory. Midday hours are spent riding alongside the protected wetlands, breathing in the fresh coastal air. In the afternoon, we cycle past the iconic Praia da Frouxeira to reach the rugged coastal cliffs. Evening rewards us with ancient forts overlooking the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa Eulalia",
+            "hu": "Igrexa de Santa Eulalia",
+            "ro": "Igrexa de Santa Eulalia",
+            "en": "Igrexa de Santa Eulalia"
+          },
+          "coords": [
+            -8.135667,
+            43.59936
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses religiöse Wahrzeichen, um seine malerischen Steinarbeiten zu bewundern, und treten Sie leise ein, um die friedliche Atmosphäre zu schätzen.",
+            "hu": "Látogassa meg ezt a bájos vallási nevezetességet, hogy megcsodálja galíciai kőműves munkáját, és lépjen be csendben, hogy élvezze a békés és csendes légkört.",
+            "ro": "Vizitați acest reper religios pentru a-i admira pietrăria reflectând arhitectura tradițională și intrați în liniște pentru a aprecia atmosfera senină și pașnică.",
+            "en": "Visit this charming religious landmark to admire its quaint stonework reflecting traditional Galician architecture, and step inside quietly to appreciate the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Valdoviño",
+            "hu": "Concello de Valdoviño",
+            "ro": "Concello de Valdoviño",
+            "en": "Concello de Valdoviño"
+          },
+          "coords": [
+            -8.143402,
+            43.606803
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur des Rathauses, das das historische Herz der Gemeinde bildet, und kommen Sie früh, um den Platz ohne Menschenmengen zu fotografieren.",
+            "hu": "Csodálja meg a község történelmi központjaként szolgáló városháza hagyományos építészetét, és érkezzen korán, hogy tömeg nélkül fényképezhesse le a csendes teret.",
+            "ro": "Admirați arhitectura tradițională a primăriei, inima istorică a municipalității, și ajungeți devreme pentru a fotografia piața liniștită fără aglomerația de peste zi.",
+            "en": "Admire the traditional architecture of the town hall that serves as the historical heart of the municipality, and arrive early to photograph the quiet square without any crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+            "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+          },
+          "coords": [
+            -8.169129,
+            43.60677
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses geschützte Feuchtgebiet, um ein einzigartiges Küstenökosystem zu erleben, und bleiben Sie auf den Holzstegen, um den Lebensraum zu schützen.",
+            "hu": "Sétáljon végig ezen a védett vizes élőhelyen, hogy megtapasztalja a part menti ökoszisztémát, a kijelölt fapallókon maradva, hogy megóvja a törékeny élőhelyet.",
+            "ro": "Plimbați-vă prin această zonă umedă protejată pentru a experimenta un ecosistem de coastă, rămânând pe pasarelele din lemn pentru a conserva habitatul fragil.",
+            "en": "Walk through this protected wetland to experience a unique coastal ecosystem teeming with biodiversity, sticking to the marked wooden boardwalks to preserve the fragile habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Frouxeira",
+            "hu": "Praia da Frouxeira",
+            "ro": "Praia da Frouxeira",
+            "en": "Praia da Frouxeira"
+          },
+          "coords": [
+            -8.16914,
+            43.611761
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem spektakulären Strand entlang, der für dramatische Wellen bekannt ist, und packen Sie eine Windjacke ein, da die Meeresbrise frisch sein kann.",
+            "hu": "Sétáljon végig ezen a látványos, fehér homokos partszakaszon, és csomagoljon be egy széldzsekit, mivel a tengerparti szellő még napsütéses délutánokon is hűvös lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi spectaculoase de nisip alb și luați o jachetă de vânt, deoarece briza oceanică poate fi rece chiar și la soare strălucitor.",
+            "en": "Stroll along this spectacular sweep of white sand known for its dramatic ocean waves, and pack a light windbreaker as the coastal breezes can be quite brisk even in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Punta Frouxeira",
+            "hu": "Castro de Punta Frouxeira",
+            "ro": "Castro de Punta Frouxeira",
+            "en": "Castro de Punta Frouxeira"
+          },
+          "coords": [
+            -8.148879,
+            43.618464
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Reste dieser keltischen Festung auf den Klippen, aber halten Sie sich von den ungeschützten Rändern fern, während Sie Ihre Panoramafotos machen.",
+            "hu": "Fedezze fel ezen ősi kelta erőd drámai sziklafalon lévő maradványait, de maradjon biztonságos távolságban a védtelen peremektől fotózás közben.",
+            "ro": "Descoperiți rămășițele dramatice ale acestui fort celtic ce oferă vederi uluitoare, dar păstrați o distanță sigură de marginile stâncilor neprotejate.",
+            "en": "Discover the dramatic cliffside remains of this ancient Celtic fort offering breathtaking ocean views, but stay well back from the unprotected edges while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Curas",
+            "hu": "Praia dos Curas",
+            "ro": "Praia dos Curas",
+            "en": "Praia dos Curas"
+          },
+          "coords": [
+            -8.146627,
+            43.622093
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand, der eine ruhigere Alternative bietet, und bringen Sie Wasser und Snacks mit, da es keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen a félreeső partszakaszon, amely csendesebb alternatívát kínál, és hozzon magával vizet és rágcsálnivalót, mivel nincsenek a közelben létesítmények.",
+            "ro": "Relaxați-vă pe această porțiune izolată de plajă, care oferă o alternativă mai liniștită, aducându-vă apă și gustări, deoarece nu există facilități în apropiere.",
+            "en": "Relax on this secluded and beautiful stretch of beach that offers a quieter alternative to the main sands, bringing your own water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Paraño",
+            "hu": "Miradoiro do Paraño",
+            "ro": "Miradoiro do Paraño",
+            "en": "Miradoiro do Paraño"
+          },
+          "coords": [
+            -8.139763,
+            43.627483
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem atemberaubenden Aussichtspunkt mit Panoramablick auf die Küste, dem absolut perfekten Ort, um den Sonnenuntergang zu erleben.",
+            "hu": "Fejezze be utazását ezen a lenyűgöző kilátóponton, amely széles panorámát nyújt a partszakaszra, így ez a tökéletes hely egy színes naplemente megtekintéséhez.",
+            "ro": "Încheiați-vă călătoria la acest punct de belvedere uimitor care oferă panorame vaste ale coastei, devenind locul absolut perfect pentru a asista la un apus colorat.",
+            "en": "Conclude your trip at this stunning elevated viewpoint that provides sweeping panoramas of the coastline, making it the absolute perfect spot to witness a colorful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der traditionellen Igrexa de Santa Eulalia, bevor Sie zum Rathaus im Stadtzentrum wechseln. Gegen Mittag öffnet sich die Route zu den Feuchtgebieten und der Weite der Praia da Frouxeira. Die Nachmittagsfahrt schmiegt sich an die Küste und erkundet alte Klippenruinen und abgelegene Buchten. Erleben Sie schließlich den Sonnenuntergang am Miradoiro do Paraño.",
+        "hu": "Az autózás a hagyományos Igrexa de Santa Eulalia-nál kezdődik, mielőtt a központban lévő városházához érnénk. Dél körül az útvonal feltárja a lenyűgöző védett vizes élőhelyeket és a Praia da Frouxeira lélegzetelállító kiterjedését. A délutáni út a partot öleli át, ősi romokat és eldugott öblöket fedezve fel. Végül csodálja meg a naplementét a Miradoiro do Paraño kilátónál.",
+        "ro": "Conducerea dvs. începe la tradiționala Igrexa de Santa Eulalia înainte de a vă muta la primăria din centrul municipal. În jurul prânzului, traseul se deschide spre zonele umede protejate și întinderea de la Praia da Frouxeira. După-amiaza, traseul îmbrățișează coasta, explorând ruinele antice și golfuri izolate. În cele din urmă, prindeți apusul spectaculos la Miradoiro do Paraño.",
+        "en": "Your drive begins at the traditional Igrexa de Santa Eulalia before shifting to the town hall at the municipal center. Around midday, the route opens up to the stunning protected wetlands and the breathtaking expanse of Praia da Frouxeira. The afternoon drive hugs the coast, exploring ancient cliffside ruins and secluded coves like Praia dos Curas. Finally, catch the sunset at Miradoiro do Paraño."
+      }
+    }
+  }
+}

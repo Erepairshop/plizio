@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-san-blas-cities-v2",
+  "anchor": {
+    "name": "San Blas",
+    "coords": [
+      -105.2849,
+      21.54294
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:49",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piedra Bola de Ahualulco",
+            "hu": "Piedra Bola de Ahualulco",
+            "ro": "Piedra Bola de Ahualulco",
+            "en": "Piedra Bola de Ahualulco"
+          },
+          "coords": [
+            -105.282033,
+            21.542663
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese perfekte Steinkugel genau, da ihr Ursprung rätselhaft bleibt, also kommen Sie früh für die besten Fotos ohne Menschenmassen.",
+            "hu": "Vizsgálja meg közelről ezt a tökéletes kőgömböt, mert eredete rejtélyes, ezért érkezzen korán a legjobb, tömeg nélküli fotókért.",
+            "ro": "Examinați de aproape această sferă perfectă de piatră deoarece originile ei rămân misterioase, deci sosiți devreme pentru cele mai bune fotografii.",
+            "en": "Examine this perfect stone sphere closely because its origins remain mysterious, so arrive early for the best uncrowded photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Basilio",
+            "hu": "San Basilio Erőd",
+            "ro": "Fortul San Basilio",
+            "en": "San Basilio Fort"
+          },
+          "coords": [
+            -105.278072,
+            21.541942
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen Hügelforts mit Panoramablick auf die Bucht und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek a történelmi hegyi erődnek a romjait, amely panorámás kilátást nyújt az öbölre, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați ruinele acestui fort istoric pe deal ce oferă o vedere panoramică asupra golfului și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ruins of this historic hilltop fort offering a panoramic bay view, and wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "José María Mercado",
+            "hu": "José María Mercado",
+            "ro": "José María Mercado",
+            "en": "José María Mercado"
+          },
+          "coords": [
+            -105.28647,
+            21.541622
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Statue dieses Nationalhelden auf dem lebhaften lokalen Platz und nehmen Sie sich Zeit, auf den schattigen Bänken zu sitzen.",
+            "hu": "Csodálja meg a nemzeti hős lenyűgöző szobrát a nyüzsgő helyi téren, és szakítson időt egy kis pihenésre a közeli árnyékos padokon.",
+            "ro": "Admirați statuia impresionantă a acestui erou național în piața locală vibrantă, luându-vă un moment pentru a sta pe băncile umbrite din apropiere.",
+            "en": "Admire the striking statue of this national hero in the vibrant local square, taking a moment to sit on the nearby shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Benito Juárez Denkmal",
+            "hu": "Benito Juárez Emlékmű",
+            "ro": "Monumentul Benito Juárez",
+            "en": "Benito Juárez Monument"
+          },
+          "coords": [
+            -105.288157,
+            21.540806
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie das Denkmal für den beliebten ehemaligen Präsidenten in einem friedlichen Gartenbereich, ein großartiger Ort, um lokale Snacks zu genießen.",
+            "hu": "Tekintse meg a szeretett egykori elnöknek szentelt emlékművet a békés kertben, amely remek hely a helyi finomságok megkóstolására.",
+            "ro": "Vedeți monumentul dedicat iubitului fost președinte, situat într-o zonă liniștită de grădină, care este un loc excelent pentru gustări locale.",
+            "en": "See the monument dedicated to the beloved former president set within a peaceful garden area, which is a great spot to enjoy local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle de San Blas",
+            "hu": "San Blas Móló",
+            "ro": "Debarcaderul San Blas",
+            "en": "San Blas Pier"
+          },
+          "coords": [
+            -105.291359,
+            21.54076
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den berühmten historischen Pier, der Legenden inspirierte, was ihn zum perfekten Ort macht, um zurückkehrende Fischerboote zu beobachten.",
+            "hu": "Sétáljon végig azon a híres történelmi mólón, amely legendákat és dalokat ihletett, így tökéletes helyszín a visszatérő halászhajók megfigyelésére.",
+            "ro": "Plimbați-vă de-a lungul celebrului debarcader istoric care a inspirat legende și cântece, fiind cadrul perfect pentru a urmări bărcile de pescuit.",
+            "en": "Stroll along the famous historical pier that inspired iconic legends and songs, making it the perfect setting to watch fishing boats return."
+          }
+        },
+        {
+          "name": {
+            "de": "Fray Junípero Serra",
+            "hu": "Fray Junípero Serra",
+            "ro": "Fray Junípero Serra",
+            "en": "Fray Junípero Serra"
+          },
+          "coords": [
+            -105.290803,
+            21.539269
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Wahrzeichen, das an die Abfahrt des Missionars aus dem Hafen erinnert, und lesen Sie die Tafeln über seine lange Reise nach Norden.",
+            "hu": "Látogassa meg a misszionárius kikötőből való indulásának emléket állító nevezetességet, és olvassa el az északra tartó hosszú utazását bemutató táblákat.",
+            "ro": "Vizitați reperul care comemorează punctul de plecare al misionarului din port și citiți plăcile care detaliază lunga sa călătorie către nord.",
+            "en": "Visit the landmark commemorating the missionary's departure point from the port, and read the plaques detailing his incredible long journey north."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Wir beginnen bei der mysteriösen Piedra Bola, bevor wir uns in die faszinierenden Ruinen des Fuerte de San Basilio vertiefen und die Aussicht auf die Bucht genießen.\n\nMittags: Das Herz von San Blas erwartet uns, während wir die lebhaften lokalen Plätze erkunden und Helden wie Mercado und Juárez zwischen schattigen Bänken ehren.\n\nNachmittags: Wir spazieren zum Ufer und zum legendären Muelle de San Blas, wo wir den Wellen lauschen und den einheimischen Fischern bei der Rückkehr zusehen.\n\nAbends: Unser Rundgang endet am historischen Monument von Fray Junípero Serra, das Sie perfekt positioniert, um in der Nähe frische Meeresfrüchte zu genießen.",
+        "hu": "Délelőtt: A titokzatos Piedra Bola-nál kezdünk, mielőtt elmerülnénk a San Basilio erőd lenyűgöző romjaiban, élvezve a korai öbölbeli kilátást.\n\nDélben: San Blas szíve vár ránk, miközben felfedezzük a nyüzsgő helyi tereket, és árnyékos padok között tisztelgünk Mercado és Juárez hősei előtt.\n\nDélután: A vízpart és a legendás San Blas móló felé tartunk, hallgatva a hullámokat és figyelve a visszatérő helyi halászokat.\n\nEste: Sétánk Fray Junípero Serra történelmi emlékművénél ér véget, ahonnan tökéletes helyen lesz, hogy élvezze a friss tenger gyümölcseit a közelben.",
+        "ro": "Dimineața: Începem la misterioasa Piedra Bola înainte de a ne adânci în ruinele fascinante ale Fortului San Basilio, bucurându-ne de primele vederi ale golfului.\n\nLa amiază: Inima orașului San Blas ne așteaptă explorând piețele locale pline de viață, onorând eroi precum Mercado și Juárez printre băncile umbrite.\n\nDupă-amiaza: Ne îndreptăm spre malul apei și spre legendarul Debarcader San Blas, ascultând valurile și urmărind pescarii locali care se întorc.\n\nSeara: Turul nostru pietonal se încheie la monumentul istoric al lui Fray Junípero Serra, lăsându-vă perfect plasați pentru a savura fructe de mare proaspete în apropiere.",
+        "en": "Morning: We start at the mysterious Piedra Bola before delving into the fascinating ruins of Fuerte de San Basilio, soaking up early bay views.\n\nMidday: The heart of San Blas awaits as we explore the lively local squares, honoring heroes like Mercado and Juárez among shaded benches.\n\nAfternoon: We head towards the waterfront to the legendary Muelle de San Blas, listening to the waves and watching local fishermen return.\n\nEvening: Our walking tour concludes at the historic monument of Fray Junípero Serra, leaving you perfectly placed to enjoy fresh seafood nearby."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuerte de San Basilio",
+            "hu": "San Basilio Erőd",
+            "ro": "Fortul San Basilio",
+            "en": "San Basilio Fort"
+          },
+          "coords": [
+            -105.278072,
+            21.541942
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen Hügelforts mit Panoramablick auf die Bucht und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek a történelmi hegyi erődnek a romjait, amely panorámás kilátást nyújt az öbölre, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați ruinele acestui fort istoric pe deal ce oferă o vedere panoramică asupra golfului și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ruins of this historic hilltop fort offering a panoramic bay view, and wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Piedra Bola de Ahualulco",
+            "hu": "Piedra Bola de Ahualulco",
+            "ro": "Piedra Bola de Ahualulco",
+            "en": "Piedra Bola de Ahualulco"
+          },
+          "coords": [
+            -105.282033,
+            21.542663
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese perfekte Steinkugel genau, da ihr Ursprung rätselhaft bleibt, also kommen Sie früh für die besten Fotos ohne Menschenmassen.",
+            "hu": "Vizsgálja meg közelről ezt a tökéletes kőgömböt, mert eredete rejtélyes, ezért érkezzen korán a legjobb, tömeg nélküli fotókért.",
+            "ro": "Examinați de aproape această sferă perfectă de piatră deoarece originile ei rămân misterioase, deci sosiți devreme pentru cele mai bune fotografii.",
+            "en": "Examine this perfect stone sphere closely because its origins remain mysterious, so arrive early for the best uncrowded photos."
+          }
+        },
+        {
+          "name": {
+            "de": "José María Mercado",
+            "hu": "José María Mercado",
+            "ro": "José María Mercado",
+            "en": "José María Mercado"
+          },
+          "coords": [
+            -105.28647,
+            21.541622
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Statue dieses Nationalhelden auf dem lebhaften lokalen Platz und nehmen Sie sich Zeit, auf den schattigen Bänken zu sitzen.",
+            "hu": "Csodálja meg a nemzeti hős lenyűgöző szobrát a nyüzsgő helyi téren, és szakítson időt egy kis pihenésre a közeli árnyékos padokon.",
+            "ro": "Admirați statuia impresionantă a acestui erou național în piața locală vibrantă, luându-vă un moment pentru a sta pe băncile umbrite din apropiere.",
+            "en": "Admire the striking statue of this national hero in the vibrant local square, taking a moment to sit on the nearby shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Niños Héroes Denkmal",
+            "hu": "Niños Héroes Emlékmű",
+            "ro": "Monumentul Niños Héroes",
+            "en": "Niños Héroes Monument"
+          },
+          "coords": [
+            -105.284815,
+            21.537148
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reflektieren Sie die mexikanische Geschichte an diesem feierlichen Denkmal für junge Kadetten und besuchen Sie es im Morgenlicht für schöne Fotos.",
+            "hu": "Emlékezzen meg a mexikói történelemről ennél a fiatal kadétokat tisztelő ünnepélyes emlékműnél, és látogasson el a reggeli fényben a szép bronz részletekért.",
+            "ro": "Reflectați asupra istoriei la acest monument solemn onorând tinerii cadeți, asigurându-vă că îl vizitați când lumina dimineții evidențiază frumos bronzul.",
+            "en": "Reflect on Mexican history at this solemn monument honoring young cadets, making sure to visit when the morning light beautifully highlights the bronze."
+          }
+        },
+        {
+          "name": {
+            "de": "El Borrego",
+            "hu": "El Borrego Strand",
+            "ro": "Plaja El Borrego",
+            "en": "El Borrego Beach"
+          },
+          "coords": [
+            -105.28349,
+            21.5282
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Strand, der bei Einheimischen zum Wellenreiten beliebt ist, aber achten Sie auf starke Unterströmungen beim Schwimmen.",
+            "hu": "Pihenjen ezen az érintetlen, tágas strandon, amely népszerű a helyiek körében, de legyen óvatos az erős áramlatokkal, ha úszni indul a vízbe.",
+            "ro": "Relaxați-vă pe această plajă largă populară printre localnici pentru valuri, dar fiți precaut la curenții puternici când decideți să mergeți la înot.",
+            "en": "Relax on this pristine, expansive beach popular with locals for catching waves, but be cautious of strong undertows when you decide to go swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Playa Hermosa",
+            "hu": "Hotel Playa Hermosa",
+            "ro": "Hotel Playa Hermosa",
+            "en": "Hotel Playa Hermosa"
+          },
+          "coords": [
+            -105.276055,
+            21.525008
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen, verlassenen Ruinen dieses einst glamourösen Strandresorts und bleiben Sie auf den markierten Sandwegen wegen der Vegetation.",
+            "hu": "Csodálja meg ennek az egykor elbűvölő tengerparti üdülőhelynek a drámai, elhagyatott romjait, és maradjon a kijelölt utakon a sűrű növényzet miatt.",
+            "ro": "Admirați ruinele dramatice abandonate ale acestei foste stațiuni balneare pline de farmec și rămâneți pe potecile marcate pentru a evita vegetația.",
+            "en": "Marvel at the dramatic, abandoned ruins of this once-glamorous seaside resort, and stick to the marked sandy paths to avoid overgrown coastal vegetation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihre Fahrt mit einem Aufstieg zum Fuerte de San Basilio für Panoramablicke, bevor Sie geschmeidig hinunter zur mysteriösen Piedra Bola rollen.\n\nMittags: Radeln Sie durch historische Plätze und halten Sie an Denkmälern wie den Niños Héroes, um das reiche Erbe von San Blas in sich aufzunehmen.\n\nNachmittags: Fahren Sie nach Süden zum berühmten Strand El Borrego, tauschen Sie Ihren Fahrradsattel gegen weichen Sand und genießen Sie die erfrischende Meeresbrise.\n\nAbends: Wir fahren weiter zu den eindrucksvollen Ruinen des Hotels Playa Hermosa und erkunden dessen verlassene Größe, während die Sonne über dem Horizont untergeht.",
+        "hu": "Délelőtt: Kezdje útját a San Basilio erőd megmászásával, ahonnan panorámás kilátás nyílik, majd guruljon le a titokzatos Piedra Bola felé.\n\nDélben: Tekerjen át történelmi tereken, álljon meg olyan műemlékeknél, mint a Niños Héroes, és ismerje meg San Blas gazdag történelmi örökségét.\n\nDélután: Cirkáljon dél felé a híres El Borrego strandhoz, cserélje le a nyerget a puha homokra, és élvezze a frissítő óceáni szellőt.\n\nEste: Tovább lovagolunk a Hotel Playa Hermosa romjai felé, felfedezve annak elhagyatott nagyszerűségét, miközben a nap lenyugszik az aranyló horizonton.",
+        "ro": "Dimineața: Începeți-vă plimbarea urcând la Fortul San Basilio pentru vederi panoramice, apoi coborâți lin către misterioasa Piedra Bola.\n\nLa amiază: Pedalați prin piețe istorice, oprindu-vă la monumente precum Niños Héroes, pentru a surprinde patrimoniul bogat al orașului San Blas.\n\nDupă-amiaza: Călătoriți spre sud către faimoasa plajă El Borrego, schimbând șaua bicicletei pe nisipul moale și bucurându-vă de briza oceanului.\n\nSeara: Ne îndreptăm spre ruinele evocatoare ale Hotelului Playa Hermosa, explorând măreția sa abandonată în timp ce soarele apune peste orizontul auriu.",
+        "en": "Morning: Kickstart your ride climbing to Fuerte de San Basilio for panoramic views, then roll smoothly down to the mysterious Piedra Bola.\n\nMidday: Pedal through historic plazas, stopping to reflect at monument sites like the Niños Héroes, capturing the rich heritage of San Blas.\n\nAfternoon: Cruise south to the famous El Borrego beach, swapping your bike saddle for the soft sand and enjoying the refreshing ocean breeze.\n\nEvening: We ride towards the evocative ruins of Hotel Playa Hermosa, exploring its abandoned grandeur as the sun sets over the golden horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador De Las Aves",
+            "hu": "Madármegfigyelő Kilátó",
+            "ro": "Punctul de Observare a Păsărilor",
+            "en": "Birds Viewpoint"
+          },
+          "coords": [
+            -105.258223,
+            21.549215
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas zu diesem natürlichen Aussichtspunkt, um Zugvögel zu beobachten, und kommen Sie in den frühen Morgenstunden für maximale Aktivität.",
+            "hu": "Hozza magával távcsövét ehhez a fantasztikus természeti kilátóhoz, hogy változatos vándormadarakat figyeljen meg, és a kora reggeli órákban érkezzen.",
+            "ro": "Aduceți binoclul la acest punct de observație natural pentru a vedea diverse păsări migratoare, venind dimineața devreme pentru activitate maximă.",
+            "en": "Bring your binoculars to this fantastic natural viewpoint to spot diverse migratory birds, coming during the early morning hours for maximum activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Basilio",
+            "hu": "San Basilio Erőd",
+            "ro": "Fortul San Basilio",
+            "en": "San Basilio Fort"
+          },
+          "coords": [
+            -105.278072,
+            21.541942
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen Hügelforts mit Panoramablick auf die Bucht und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek a történelmi hegyi erődnek a romjait, amely panorámás kilátást nyújt az öbölre, és viseljen masszív cipőt az egyenetlen utakon.",
+            "ro": "Explorați ruinele acestui fort istoric pe deal ce oferă o vedere panoramică asupra golfului și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ruins of this historic hilltop fort offering a panoramic bay view, and wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle de San Blas",
+            "hu": "San Blas Móló",
+            "ro": "Debarcaderul San Blas",
+            "en": "San Blas Pier"
+          },
+          "coords": [
+            -105.291359,
+            21.54076
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den berühmten historischen Pier, der Legenden inspirierte, was ihn zum perfekten Ort macht, um zurückkehrende Fischerboote zu beobachten.",
+            "hu": "Sétáljon végig azon a híres történelmi mólón, amely legendákat és dalokat ihletett, így tökéletes helyszín a visszatérő halászhajók megfigyelésére.",
+            "ro": "Plimbați-vă de-a lungul celebrului debarcader istoric care a inspirat legende și cântece, fiind cadrul perfect pentru a urmări bărcile de pescuit.",
+            "en": "Stroll along the famous historical pier that inspired iconic legends and songs, making it the perfect setting to watch fishing boats return."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Rey",
+            "hu": "Playa del Rey",
+            "ro": "Playa del Rey",
+            "en": "Playa del Rey"
+          },
+          "coords": [
+            -105.300948,
+            21.535741
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang entlang dieser abgelegenen Küste mit weichem Sand, aber denken Sie an eigenes Wasser und Snacks, da es keine gibt.",
+            "hu": "Élvezze a békés sétát ezen az eldugott partvonalon, amely puha, aranyhomokkal büszkélkedhet, de ne felejtsen el saját vizet és harapnivalót hozni.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestei coaste retrase cu nisip auriu moale, dar nu uitați să aduceți apă și gustări proprii, facilitățile fiind rare.",
+            "en": "Enjoy a tranquil walk along this secluded shoreline boasting soft golden sands, though remember to bring your own water and snacks as amenities are rare."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel Playa Hermosa",
+            "hu": "Hotel Playa Hermosa",
+            "ro": "Hotel Playa Hermosa",
+            "en": "Hotel Playa Hermosa"
+          },
+          "coords": [
+            -105.276055,
+            21.525008
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen, verlassenen Ruinen dieses einst glamourösen Strandresorts und bleiben Sie auf den markierten Sandwegen wegen der Vegetation.",
+            "hu": "Csodálja meg ennek az egykor elbűvölő tengerparti üdülőhelynek a drámai, elhagyatott romjait, és maradjon a kijelölt utakon a sűrű növényzet miatt.",
+            "ro": "Admirați ruinele dramatice abandonate ale acestei foste stațiuni balneare pline de farmec și rămâneți pe potecile marcate pentru a evita vegetația.",
+            "en": "Marvel at the dramatic, abandoned ruins of this once-glamorous seaside resort, and stick to the marked sandy paths to avoid overgrown coastal vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "El Borrego",
+            "hu": "El Borrego Strand",
+            "ro": "Plaja El Borrego",
+            "en": "El Borrego Beach"
+          },
+          "coords": [
+            -105.28349,
+            21.5282
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Strand, der bei Einheimischen zum Wellenreiten beliebt ist, aber achten Sie auf starke Unterströmungen beim Schwimmen.",
+            "hu": "Pihenjen ezen az érintetlen, tágas strandon, amely népszerű a helyiek körében, de legyen óvatos az erős áramlatokkal, ha úszni indul a vízbe.",
+            "ro": "Relaxați-vă pe această plajă largă populară printre localnici pentru valuri, dar fiți precaut la curenții puternici când decideți să mergeți la înot.",
+            "en": "Relax on this pristine, expansive beach popular with locals for catching waves, but be cautious of strong undertows when you decide to go swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie zum Mirador De Las Aves für spektakuläre Vogelbeobachtungen und reisen Sie dann zu den kolonialen Ruinen des Fuerte de San Basilio.\n\nMittags: Parken Sie in der Nähe des Muelle de San Blas für großartige Fotos, gefolgt von einer malerischen Fahrt zu den abgelegenen Stränden von Playa del Rey.\n\nNachmittags: Wir fahren weiter nach Süden zu den faszinierend schönen Ruinen des Hotels Playa Hermosa, die einen Einblick in die glamouröse Vergangenheit bieten.\n\nAbends: Beenden Sie Ihren Roadtrip am El Borrego, wo Sie die lebhafte Strandatmosphäre und einen atemberaubenden Sonnenuntergang am Meer genießen.",
+        "hu": "Délelőtt: Vezessen a Mirador De Las Aves felé a lenyűgöző madármegfigyelésért, majd utazzon el a San Basilio erőd gyarmati romjaihoz a tengerparti kilátásért.\n\nDélben: Parkoljon le a legendás San Blas móló közelében a legjobb fotókért, majd tegyen egy festői autózást a Playa del Rey félreeső homokos partjára.\n\nDélután: Dél felé folytatjuk utunkat a Hotel Playa Hermosa kísértetiesen szép romjaihoz, amelyek egyedülálló bepillantást nyújtanak a múlt csillogásába.\n\nEste: Fejezze be tengerparti autós túráját az El Borrego strandon, élvezve a nyüzsgő hangulatot és egy lélegzetelállító trópusi naplementét a hullámok mellett.",
+        "ro": "Dimineața: Conduceți la Mirador De Las Aves pentru o observare spectaculoasă a păsărilor, apoi călătoriți la ruinele coloniale ale Fortului San Basilio.\n\nLa amiază: Parcați lângă legendarul Debarcader San Blas pentru fotografii iconice, urmat de o plimbare pitorească spre nisipurile izolate de la Playa del Rey.\n\nDupă-amiaza: Continuăm spre sud către ruinele obsedant de frumoase ale Hotelului Playa Hermosa, oferind o privire unică asupra trecutului plin de farmec.\n\nSeara: Încheiați călătoria de coastă la El Borrego, bucurându-vă de atmosfera plină de viață a plajei și de un apus de soare tropical uluitor la malul mării.",
+        "en": "Morning: Drive to Mirador De Las Aves for spectacular birdwatching, then travel to the colonial ruins of Fuerte de San Basilio for coastal views.\n\nMidday: Park near the legendary Muelle de San Blas to capture iconic photos, followed by a scenic drive to the secluded sands of Playa del Rey.\n\nAfternoon: We continue south to the hauntingly beautiful ruins of Hotel Playa Hermosa, offering a unique glimpse into the region's glamorous past.\n\nEvening: End your coastal road trip at El Borrego, enjoying the lively beach atmosphere and a breathtaking tropical sunset by the crashing waves."
+      }
+    }
+  }
+}

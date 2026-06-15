@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-luarca-cities-v2",
+  "anchor": {
+    "name": "Luarca",
+    "coords": [
+      -6.53574,
+      43.5439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 2.46,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Tarsila",
+            "hu": "Villa Tarsila",
+            "ro": "Villa Tarsila",
+            "en": "Villa Tarsila"
+          },
+          "coords": [
+            -6.535771,
+            43.541211
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser modernistischen Villa, ein Symbol für Luarcas Geschichte, und achten Sie besonders auf die Fassadendetails.",
+            "hu": "Csodálja meg e modernista villa lenyűgöző építészetét, amely Luarca történelmét tükrözi, és figyelje meg jól az utcáról a homlokzat részleteit.",
+            "ro": "Admirați arhitectura impresionantă a acestei vile moderniste, un simbol al istoriei din Luarca, și asigurați-vă că observați detaliile fațadei.",
+            "en": "Admire the striking architecture of this modernist villa, a symbol of Luarca's rich history, and remember to check the facade details from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Severo-Ochoa-Museum",
+            "hu": "Severo Ochoa Múzeum",
+            "ro": "Muzeul Severo Ochoa",
+            "en": "Severo Ochoa Museum"
+          },
+          "coords": [
+            -6.535435,
+            43.543553
+          ],
+          "category": "museum",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Nobelpreis-prämierten Funde des Wissenschaftlers Severo Ochoa; lesen Sie unbedingt die englischen Tafeln am Eingang.",
+            "hu": "Fedezze fel a Nobel-díjas tudós, Severo Ochoa életét és felfedezéseit, és ne felejtse el elolvasni a bejáratnál található többnyelvű tájékoztatókat.",
+            "ro": "Descoperiți viața și descoperirile premiate cu Nobel ale savantului Severo Ochoa, având grijă să citiți panourile informative de la intrare.",
+            "en": "Discover the life and Nobel-winning discoveries of scientist Severo Ochoa, making sure to read the English panels provided at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Funial",
+            "hu": "Funial kilátó",
+            "ro": "Punctul de belvedere Funial",
+            "en": "Funial Viewpoint"
+          },
+          "coords": [
+            -6.53274,
+            43.542147
+          ],
+          "category": "natural",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Hafen und die Küste von diesem Aussichtspunkt und kommen Sie am besten früh, um grelles Sonnenlicht zu meiden.",
+            "hu": "Élvezze a kikötőre és a partra nyíló pazar kilátást erről a lenyűgöző pontról, de érdemes korán érkezni a zavaró napfény elkerülése végett.",
+            "ro": "Bucurați-vă de priveliștile ample asupra portului și coastei de la acest punct de observație; veniți dimineața devreme pentru a evita soarele orbitor.",
+            "en": "Enjoy sweeping views of the harbor and coastline from this spectacular vantage point, and try to visit early in the day to avoid harsh sun glares."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Luarca",
+            "hu": "Luarca világítótornya",
+            "ro": "Farul din Luarca",
+            "en": "Luarca Lighthouse"
+          },
+          "coords": [
+            -6.532516,
+            43.549692
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Leuchtturm, der seit Generationen Seeleute leitet, aber tragen Sie eine Windjacke, da die Meeresbrise recht stark ist.",
+            "hu": "Fedezze fel a történelmi világítótornyot, amely tengerészek generációit irányította, és hozzon széldzsekit, mert a part menti szél nagyon erős lehet.",
+            "ro": "Explorați farul istoric ce a ghidat marinarii generații de-a rândul, dar purtați o jachetă de vânt, deoarece briza de pe coastă este adesea puternică.",
+            "en": "Explore the historic lighthouse complex that has guided sailors for generations, but wear a windbreaker as the coastal breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Chano",
+            "hu": "Chano kilátó",
+            "ro": "Punctul de belvedere Chano",
+            "en": "Chano Viewpoint"
+          },
+          "coords": [
+            -6.537155,
+            43.544088
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama der dramatischen Klippen von diesem Aussichtspunkt und bringen Sie ein Zoomobjektiv für die fernen Wellen mit.",
+            "hu": "Tekintse meg a drámai sziklák lélegzetelállító panorámáját erről a kilátóról, és hozzon teleobjektívet a távoli hullámok megörökítéséhez.",
+            "ro": "Admirați panorama uluitoare a stâncilor dramatice din jur de la acest punct de belvedere și aduceți un teleobiectiv pentru a surprinde valurile.",
+            "en": "Take in the breathtaking panorama of the surrounding dramatic cliffs from this viewpoint, and bring a zoom lens to capture the distant crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesenkalmar-Museum",
+            "hu": "Óriáskalmár Múzeum",
+            "ro": "Muzeul Calmarului Uriaș",
+            "en": "Giant Squid Museum"
+          },
+          "coords": [
+            -6.538846,
+            43.540964
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weltweit größte Sammlung von Riesenkalmaren in riesigen Tanks und kommen Sie kurz nach Öffnung für ein ungestörtes Erlebnis.",
+            "hu": "Csodálja meg a hatalmas tartályokban őrzött óriáskalmárok világméretű gyűjteményét, és érkezzen rögtön nyitás után a csendesebb élmény érdekében.",
+            "ro": "Minunați-vă de cea mai mare colecție de calmari giganți păstrați în bazine masive și vizitați imediat după deschidere pentru o experiență liniștită.",
+            "en": "Marvel at the world's largest collection of giant squids preserved in massive tanks, and arrive shortly after opening to enjoy a quieter experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der modernistischen Villa Tarsila, bevor Sie im Museo de Severo Ochoa wissenschaftliche Wunder bestaunen. Mittags genießen Sie den herrlichen Meerblick vom Mirador de la Funial. Am Nachmittag erkunden Sie den legendären Faro de Luarca und das Panorama vom Mirador del Chano. Beenden Sie den Tag bei den faszinierenden Riesenkalmaren im Museo Del Calamar Gigante, während der Abend näher rückt.",
+        "hu": "Kezdje a reggelt a Villa Tarsila modernista építészetének megcsodálásával, majd merüljön el a Severo Ochoa Múzeum tudományos csodáiban. Délben élvezze a tengerre nyíló kilátást a Mirador de la Funialról. Délután fedezze fel a híres világítótornyot, és csodálja meg a panorámát a Mirador del Chano felől. Zárja a napot az óriáskalmárok lenyűgöző gyűjteményének megtekintésével a kora esti órákban.",
+        "ro": "Începeți dimineața admirând arhitectura vilei Tarsila înainte de a explora minunile științifice la Museo de Severo Ochoa. La prânz, bucurați-vă de priveliștile oceanului de la Mirador de la Funial. După-amiaza, vizitați farul iconic și admirați panorama de pe Mirador del Chano. Încheiați-vă ziua cu o vizită fascinantă la calmarii giganți de la Museo Del Calamar Gigante, pe măsură ce se apropie seara.",
+        "en": "Start your morning admiring the modernist architecture of Villa Tarsila before diving into the scientific wonders at Museo de Severo Ochoa. By midday, take in the sweeping ocean views from Mirador de la Funial, enjoying the salty sea breeze. In the afternoon, explore the iconic Faro de Luarca and marvel at the coastal panorama from Mirador del Chano. Conclude your day with a fascinating visit to the giant squids at Museo Del Calamar Gigante as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:35",
+      "total_km": 3.43,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Barrera",
+            "hu": "Villa Barrera",
+            "ro": "Villa Barrera",
+            "en": "Villa Barrera"
+          },
+          "coords": [
+            -6.527514,
+            43.54335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie dieses wunderschöne Stück traditioneller asturischer Architektur und machen Sie ein schnelles Foto aus der ruhigen angrenzenden Gasse.",
+            "hu": "Tekintse meg a hagyományos asztúriai építészet e szép példáját, és készítsen egy gyors fényképet a csendes szomszédos kisutcából.",
+            "ro": "Vedeți această frumoasă piesă de arhitectură tradițională asturiană și faceți o fotografie rapidă de pe aleea liniștită adiacentă.",
+            "en": "See this beautiful piece of traditional Asturian architecture known for its distinctive design, and take a quick photo from the quiet adjacent lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rosario",
+            "hu": "Villa Rosario",
+            "ro": "Villa Rosario",
+            "en": "Villa Rosario"
+          },
+          "coords": [
+            -6.527367,
+            43.542131
+          ],
+          "category": "landmark",
+          "arrive_at": "09:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Struktur dieser lokalen Villa, die von wohlhabenden Rückkehrern erbaut wurde – ideal für Architekturfotografie.",
+            "hu": "Figyelje meg a hazatérő gazdag emigránsok által épített helyi kúria fenséges szerkezetét, amely kiváló helyszín az építészeti fotózáshoz.",
+            "ro": "Observați structura maiestuoasă a acestei vile locale construite de emigranți bogați întorși, un loc perfect pentru fotografia de arhitectură.",
+            "en": "Observe the majestic structure of this local mansion built by wealthy returning emigrants, making it a perfect spot for architectural photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Severo-Ochoa-Museum",
+            "hu": "Severo Ochoa Múzeum",
+            "ro": "Muzeul Severo Ochoa",
+            "en": "Severo Ochoa Museum"
+          },
+          "coords": [
+            -6.535435,
+            43.543553
+          ],
+          "category": "museum",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Nobelpreis-prämierten Funde des Wissenschaftlers Severo Ochoa; lesen Sie unbedingt die englischen Tafeln am Eingang.",
+            "hu": "Fedezze fel a Nobel-díjas tudós, Severo Ochoa életét és felfedezéseit, és ne felejtse el elolvasni a bejáratnál található többnyelvű tájékoztatókat.",
+            "ro": "Descoperiți viața și descoperirile premiate cu Nobel ale savantului Severo Ochoa, având grijă să citiți panourile informative de la intrare.",
+            "en": "Discover the life and Nobel-winning discoveries of scientist Severo Ochoa, making sure to read the English panels provided at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Luarca",
+            "hu": "Luarca világítótornya",
+            "ro": "Farul din Luarca",
+            "en": "Luarca Lighthouse"
+          },
+          "coords": [
+            -6.532516,
+            43.549692
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Leuchtturm, der seit Generationen Seeleute leitet, aber tragen Sie eine Windjacke, da die Meeresbrise recht stark ist.",
+            "hu": "Fedezze fel a történelmi világítótornyot, amely tengerészek generációit irányította, és hozzon széldzsekit, mert a part menti szél nagyon erős lehet.",
+            "ro": "Explorați farul istoric ce a ghidat marinarii generații de-a rândul, dar purtați o jachetă de vânt, deoarece briza de pe coastă este adesea puternică.",
+            "en": "Explore the historic lighthouse complex that has guided sailors for generations, but wear a windbreaker as the coastal breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Severo Ochoa",
+            "hu": "Severo Ochoa kilátó",
+            "ro": "Punctul de belvedere Severo Ochoa",
+            "en": "Severo Ochoa Viewpoint"
+          },
+          "coords": [
+            -6.53981,
+            43.546365
+          ],
+          "category": "natural",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubende Aussicht zu Ehren des lokalen Nobelpreisträgers und nutzen Sie die Bänke, um beim Anblick der Küste zu entspannen.",
+            "hu": "Fedezze fel a helyi Nobel-díjas tudósnak szentelt lenyűgöző kilátást, és használja a kihelyezett padokat, miközben a tengerparti tájat figyeli.",
+            "ro": "Descoperiți priveliștile uimitoare dedicate laureatului Nobel local și folosiți băncile pentru a vă relaxa în timp ce priviți peisajul de coastă.",
+            "en": "Discover stunning views dedicated to the local Nobel laureate, and use the provided benches to sit and reflect while watching the coastal scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kantabrischer Aussichtspunkt",
+            "hu": "Kantábriai kilátó",
+            "ro": "Punctul de belvedere Cantabric",
+            "en": "Cantabrian Viewpoint"
+          },
+          "coords": [
+            -6.538542,
+            43.546054
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem erhöhten Punkt über die Weiten des Kantabrischen Meeres; bringen Sie ein Fernglas mit, um vorbeifliegende Seevögel zu sehen.",
+            "hu": "Tekintsen ki a hatalmas Kantábriai-tengerre erről a magaslati pontról, és hozzon távcsövet a zord sziklák mentén szálló tengeri madarak megfigyelésére.",
+            "ro": "Priviți peste întinderea vastă a Mării Cantabrice din acest loc înalt și aduceți un binoclu pentru a observa păsările marine pe stâncile accidentate.",
+            "en": "Gaze out over the vast expanse of the Cantabrian Sea from this elevated spot, bringing binoculars to spot passing seabirds along the rugged cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago",
+            "hu": "Santiago templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -6.547523,
+            43.53857
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, bekannt für ihren schönen Altar und den ruhigen Friedhof am Meer; respektieren Sie die laufenden Gottesdienste.",
+            "hu": "Látogassa meg ezt a történelmi templomot, amely gyönyörű oltárképéről és a tengerre néző temetőjéről ismert, de tartsa tiszteletben a szertartásokat.",
+            "ro": "Vizitați această biserică istorică renumită pentru altarul său și cimitirul liniștit cu vedere la ocean, respectând totodată slujbele în curs de desfășurare.",
+            "en": "Visit this historic church known for its beautiful altarpiece and serene cemetery overlooking the ocean, remembering to respect ongoing services inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit dem architektonischen Erbe der Villa Barrera und Villa Rosario, gefolgt vom Museo de Severo Ochoa. Gegen Mittag radeln Sie zum historischen Leuchtturm, um fantastische Ausblicke zu genießen. Der Nachmittag ist der Natur gewidmet mit Stopps am Mirador Severo Ochoa und Mirador del Cantábrico. Genießen Sie schließlich einen ruhigen Abend an der Iglesia de Santiago mit Blick auf das Meer.",
+        "hu": "Kerékpártúrája a Villa Barrera és a Villa Rosario építészeti örökségének felfedezésével indul, amelyet a Severo Ochoa Múzeum követ. Délben tekerjen fel a történelmi világítótoronyhoz a tengeri kilátásért. A délután a természeté, látogasson el a Mirador Severo Ochoa és a Mirador del Cantábrico kilátókhoz. Végül töltsön egy békés estét a hullámokra néző Iglesia de Santiago templomnál.",
+        "ro": "Călătoria cu bicicleta începe prin explorarea moștenirii arhitecturale de la Villa Barrera și Villa Rosario, urmată de o oprire la Museo de Severo Ochoa. Pe la prânz, pedalați până la farul istoric pentru priveliști uimitoare. După-amiaza este dedicată naturii și peisajelor de la Mirador Severo Ochoa și Mirador del Cantábrico. Seara, bucurați-vă de o vizită liniștită la impresionanta Iglesia de Santiago.",
+        "en": "Your cycling journey begins by tracing the architectural legacy at Villa Barrera and Villa Rosario, followed by an inspiring stop at the Museo de Severo Ochoa. Around midday, pedal your way up to the historic Faro de Luarca for stunning maritime vistas. The afternoon is dedicated to nature and breathtaking scenery with visits to Mirador Severo Ochoa and Mirador del Cantábrico. Finally, enjoy a peaceful evening discovering the striking Iglesia de Santiago overlooking the waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.89,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Rosario",
+            "hu": "Villa Rosario",
+            "ro": "Villa Rosario",
+            "en": "Villa Rosario"
+          },
+          "coords": [
+            -6.527367,
+            43.542131
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Struktur dieser lokalen Villa, die von wohlhabenden Rückkehrern erbaut wurde – ideal für Architekturfotografie.",
+            "hu": "Figyelje meg a hazatérő gazdag emigránsok által épített helyi kúria fenséges szerkezetét, amely kiváló helyszín az építészeti fotózáshoz.",
+            "ro": "Observați structura maiestuoasă a acestei vile locale construite de emigranți bogați întorși, un loc perfect pentru fotografia de arhitectură.",
+            "en": "Observe the majestic structure of this local mansion built by wealthy returning emigrants, making it a perfect spot for architectural photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ländliches Ethnografisches Museum",
+            "hu": "Vidéki Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic Rural",
+            "en": "Rural Ethnographic Museum"
+          },
+          "coords": [
+            -6.541665,
+            43.544603
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über das traditionelle Landleben und alte landwirtschaftliche Praktiken in Asturien; beachten Sie die Apfelweinpressen.",
+            "hu": "Ismerje meg Asztúria hagyományos vidéki életét és ősi mezőgazdasági gyakorlatait ebben a múzeumban, és keresse a lenyűgöző régi almaborpréseket.",
+            "ro": "Aflați despre viața rurală tradițională și practicile agricole antice din Asturia în acest muzeu și căutați fascinantele prese vechi de cidru.",
+            "en": "Learn about the traditional rural life and ancient agricultural practices of Asturias in this museum, and look for the fascinating old cider presses."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Castiel",
+            "hu": "Castro de Castiel",
+            "ro": "Castro de Castiel",
+            "en": "Castro de Castiel"
+          },
+          "coords": [
+            -6.540902,
+            43.55198
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die antiken Ruinen dieser prähistorischen Siedlung und tragen Sie feste Schuhe, da die unebenen Wege schwer begehbar sein können.",
+            "hu": "Sétáljon végig e történelem előtti település ősi romjain, és viseljen masszív cipőt, mivel az egyenetlen tengerparti ösvényeken nehéz lehet a haladás.",
+            "ro": "Plimbați-vă printre ruinele antice ale acestei așezări preistorice, purtând încălțăminte robustă, deoarece cărările denivelate pot fi greu de parcurs.",
+            "en": "Walk through the ancient ruins of this prehistoric settlement, wearing sturdy shoes as the uneven paths can be tricky to navigate along the coastal edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Taurán",
+            "hu": "Taurán strand",
+            "ro": "Plaja Taurán",
+            "en": "Taurán Beach"
+          },
+          "coords": [
+            -6.557731,
+            43.550237
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, unberührten Strand inmitten von viel Grün und bringen Sie ausreichend Trinkwasser mit, da es hier keine Kioske gibt.",
+            "hu": "Pihenjen ezen a festői, érintetlen, zöldellő növényzettel körülvett strandon, és vigyen magával bőséges ivóvizet, mivel közvetlenül a parton nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă pitorească și neatinsă înconjurată de verdeață și luați cu voi apă, deoarece nu există facilități direct pe nisip.",
+            "en": "Relax on this picturesque, unspoiled beach surrounded by lush greenery, and carry plenty of drinking water as there are no facilities right on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago",
+            "hu": "Santiago templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -6.547523,
+            43.53857
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, bekannt für ihren schönen Altar und den ruhigen Friedhof am Meer; respektieren Sie die laufenden Gottesdienste.",
+            "hu": "Látogassa meg ezt a történelmi templomot, amely gyönyörű oltárképéről és a tengerre néző temetőjéről ismert, de tartsa tiszteletben a szertartásokat.",
+            "ro": "Vizitați această biserică istorică renumită pentru altarul său și cimitirul liniștit cu vedere la ocean, respectând totodată slujbele în curs de desfășurare.",
+            "en": "Visit this historic church known for its beautiful altarpiece and serene cemetery overlooking the ocean, remembering to respect ongoing services inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der eleganten Villa Rosario, bevor Sie im Museo Rural Etnográfico mehr über das lokale Erbe erfahren. Mittags fahren Sie zur rauen Küste, um die antiken Ruinen von Castro de Castiel zu entdecken. Der Nachmittag lädt zur Entspannung an der versteckten Playa de Taurán ein. Beenden Sie Ihren Roadtrip mit einem abendlichen Besuch der majestätischen Iglesia de Santiago hoch über dem Meer.",
+        "hu": "Autós túráját az elegáns Villa Rosario-nál kezdi, majd a vidéki örökséget ismerheti meg az Etnográfiai Múzeumban. Délben vezessen a zord part felé, hogy felfedezze Castro de Castiel ősi romjait. A délután pihenésre hív a Playa de Taurán eldugott partjainál. Zárja ezt a tartalmas utazást a tenger fölé magasodó, fenséges Iglesia de Santiago esti látogatásával.",
+        "ro": "Începeți turul cu mașina la eleganta Villa Rosario înainte de a descoperi moștenirea locală la Museo Rural Etnográfico. La prânz, conduceți spre coasta accidentată pentru a explora ruinele antice de la Castro de Castiel. După-amiaza invită la relaxare pe țărmurile ascunse de la Playa de Taurán. Încheiați excursia cu o vizită de seară la maiestuoasa Iglesia de Santiago, cocoțată deasupra mării.",
+        "en": "Start your driving tour at the elegant Villa Rosario before heading out to learn about local heritage at the Museo Rural Etnográfico. By midday, drive toward the rugged coast to uncover the ancient, wind-swept ruins at Castro de Castiel. The afternoon invites relaxation and a refreshing stroll along the hidden shores of Playa de Taurán. Wrap up your comprehensive road trip with an evening visit to the majestic Iglesia de Santiago, perched beautifully above the sea."
+      }
+    }
+  }
+}
